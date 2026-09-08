@@ -191,7 +191,7 @@ Bacharelato MF M F N.º	10766
 Bacharelato N.º	10766
 Bachas	13624
 Bacheliers	15936
-Bachelor	582,418,940,5006,2291,1674,220,1623,218,4,599,1,396,764,39,121,1,183,10,1921,103,35,309,412,14,1767,249
+Bachelor	582,418,940,5006,2291,1674,220,1623,218,4,599,1,396,764,39,121,1,183,10,1921,103,35,309,412,14,1767,249,313
 Bachelor Degree	14775,3854
 Bachelor Of Science	12675
 Bachelor Programs CATHOLIC UNIVERSITY OF SOUTH	18629
@@ -246,6 +246,7 @@ Bachelor of Social Work	13078
 Bachelor of Surgery	13040
 Bachelor of Technology	6832
 Bachelor's Degree	3678
+Bachelor's and Master	20191
 Bachelor's of Engineering	4896
 Bachelors	1204,11175
 Bachelors Degree	12431
@@ -285,6 +286,7 @@ Back Office	10765,10,4003,187,1363
 Back Office DGID	16328
 Back Overall Governance Namibia’s Overall Governance	12340
 Back Overall Governance While Central African	10837
+Back Overall Governance While Gambia's Overall	20212
 Back Overall Governance While Ghana’s Overall	19938
 Back Ratio Gain	736
 Back Ratio I Certify	736
@@ -333,7 +335,7 @@ Backbone of Broadband	4130
 Backdoor	1231
 Backdoor Diplomacy	5242
 Backdrop	1646
-Backed	2000,847,13,338,586,343,109,50,161,863,647,487,144,190,806,637,228,2534,183,155,811,117,2748,1969,2644,291
+Backed	2000,847,13,338,586,343,109,50,161,863,647,487,144,190,806,637,228,2534,183,155,811,117,2748,1969,2644,291,322
 Backend	11952,69,478,4938,2202
 Backend APIs	17437
 Backend Infrastructure	13424
@@ -555,7 +557,7 @@ Body Statistical Data Dissemination and Access Background	14115
 Botho University. Bachelor	12675
 Bouncing Back	10912,975,1,1,264,1,9,178,7311,1,205,1,65,15
 Bouncing Back African	12341
-Bouncing Back Score	10837,1315,188,7598
+Bouncing Back Score	10837,1315,188,7598,274
 Bouncing Back Security	12341
 Bouncing Back Year-by-year	19653
 Bouncing Back. African	11887
@@ -633,6 +635,7 @@ Chief Executive Officer of Galaxy Backbone. Professor	8980
 Chief Executive of Backbone Connectivity Nigeria	5800
 China Eximbank-financed National Fiber Optic Backbone	257
 Chris. Back	7065
+Church Marriage Authentication Muslim Divorce Bachelor	20213
 Cité du Jardin Bacongo	16100
 Classe MF M F Bacharelato MF	10766
 Click Through Rate. Backlinko. Available	13461
@@ -671,8 +674,8 @@ Democratic Republic of Congo Abstract Background	12003
 Department Bachelor of Computer Science Bachelor of Software	12407
 Deportes Excmo. Sr. Don Patricio Bacale	16920
 Derecognition Background	3502
-Deterioration Bouncing Back Not Classified	10837,1503,7598
-Deterioration Bouncing Back Not Classified Between	19938
+Deterioration Bouncing Back Not Classified	10837,1503,7598,274
+Deterioration Bouncing Back Not Classified Between	19938,274
 Development of National ICT Backbone	13295
 Dhoihirdine Ahamada Bacar	3677
 Digital Drive With World Bank Backing	5056
@@ -690,7 +693,7 @@ EDT- Bacongo Brazzaville	15848
 EXECUTIVE SUMMARY Background	12403
 EXECUTIVE SUMMARY Background Sierra Leone’s National	18478
 EXECUTIVE SUMMARY INTRODUCTION BACKGROUND	6936
-Eastern Backbone	16966
+Eastern Backbone	16966,3257
 Eastern Backbone Power Transmission	12985
 Eastern Backbone Rehabilitation Project	13060
 Eastern Corridor Fibre Optic Backbone	15629
@@ -765,6 +768,7 @@ Galaxy Backbone and NIPOST. Backup	11129
 Galaxy Backbone's Shared Services Centre	3554
 Galaxy BackboneNigeriaData	3557
 Gambia Back Latest Version	16839
+Gambia's National Data Policy. Background	20218
 General Background	11956
 Geography and Economic Background The Republic of Liberia	17367
 Getting Back	15491
@@ -829,7 +833,7 @@ Identity and Background of Filing Persons	7198
 Identity and Background of Filing Persons Regulation M-A	7198
 Idriss Saleh Bachar	18923
 Idriss Saleh Bachar. En	565
-Improvement Bouncing Back Increasing Deterioration Slowing	10837,1503,7598
+Improvement Bouncing Back Increasing Deterioration Slowing	10837,1503,7598,274
 Increasing Improvement Bouncing Back No Change	10835,3,130,902,16,466,1,135,7334
 Information Back-Ups	19801
 Information Back-Ups Reliable	19801
@@ -1006,6 +1010,7 @@ Orientation SOSUP Bac Séries C	15674
 Ownership of Land and Selected Background Characteristics	19715
 P. Bachas	13624
 PSiDM. I. BACKGROUND Mozambique	12779
+PUTTING MONEY BACK IN THE POCKETS	20182
 Parliament Backs MACRA	14190
 Pauci Bacillaire PCT	15475
 Permit Backlog Reduction	11285
@@ -1067,6 +1072,7 @@ SOUTHERN AFRICAN DEVELOPMENT COMMUNITY UNIT BACKGROUND	12962
 SRs.5 II. CONCEPTUAL BACKGROUND ON SOCIAL	16867
 STATE OF ERITREA BACKGROUND Total Population	13962
 STATISTICS SYSTEMS OF Backlog	12138
+SUMMARY BACKGROUND	20219
 SUPPLEMENTARY BACKGROUND AND TECHNICAL NOTES Table	16436
 Salaam Project Description Background	19532
 Satellite Backhaul Service	10407
@@ -1148,7 +1154,7 @@ Trend Bouncing Back	10835,3,130,902,16,466,1,135,7334
 Trend Bouncing Back Anti-Corruption	12341
 Trend Bouncing Back Slowing Deterioration Increasing	10835,3,130,902,16,466,1,135,7334
 Trend Increasing Improvement Bouncing Back Overall	10835,3,1048,466,1,135,7334
-Trend Increasing Improvement Bouncing Back Slowing	10759,76,3,130,902,16,466,1,135,7334,116
+Trend Increasing Improvement Bouncing Back Slowing	10759,76,3,130,902,16,466,1,135,7334,116,274
 Trusted Digital Backbone of Mauritius	12132
 UK Bachelor of Science	4896
 UPS Back-up	11860
@@ -1160,11 +1166,12 @@ Unit BSc Bachelor of Sciences CBA Cost-Benefit	16922
 Upgrade the Government Backbone Network	13987
 Upgrading the National ICT Backbone	19532
 Urbanisation and Rural Settlements Backward Looking Joint	14935
-V Eastern Backbone	16966
+V Eastern Backbone	16966,3257
 V Eastern Backbone Rehabilitation Project	13060
 VEEAM Backup and Replication	11209
 VMWARE and VEEAM Backup and Replication	11209
 Vaccine Recommended Age Bacillus Calmette	14742
+Vice Chair Burrows and Director Bachus	20170
 Voie de Concours BAC A1	15674
 WAVE BACI WIZALL Cell	18313
 WB-supported National Backbone Network	13312,2

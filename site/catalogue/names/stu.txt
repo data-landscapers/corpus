@@ -104,12 +104,13 @@ Cabinet of Studies	10775
 Cairo Institute for Human Rights Studies	11079
 Cameroon Unveils Key Study	2918
 Cape Town Film Studio	14673
-Case Studies	1250,3313,2384,1,203,3701,1504,184,135,273,7056
+Case Studies	1250,3313,2384,1,203,3701,1504,184,135,273,7056,217
 Case Studies Annexure F	11952
 Case Studies E.1 Global Implementation Examples	11952
 Case Studies Mobilizing	12948
 Case Studies and Precedents	3861
-Case Study	797,230,1084,312,962,1463,396,899,1564,1149,1963,187,1,133,776,227,184,175,1521,26,701,19,128,527,49,893,3288
+Case Studies of Other Countries	20221
+Case Study	797,230,1084,312,962,1463,396,899,1564,1149,1963,187,1,133,776,227,184,175,1521,26,701,19,128,527,49,893,3288,567
 Case Study A ZOOM-IN ON EGYPT	12339
 Case Study Analysis Report	7151
 Case Study Business Perspective	19852
@@ -122,6 +123,7 @@ Case Study NIP Nigeria	12000
 Case Study Objective Today	19852
 Case Study Origin	19901
 Case Study SIMO Mozambique Origin Story	12270
+Case Study The London-to-Lagos	20157
 Case Study of Fiji	5349
 Case Study of Hwange Power Plant Power	1154
 Case Study of Langata and Westlands Constituencies	899
@@ -176,6 +178,7 @@ Computing Weights for American National Election Study	15244
 Conferences Research Grants Students CS Dept	12361
 Congo Case Study	11916
 Consultancy Services for Feasibility Study	14957
+Consultancy for Feasibility Study and Implementation	20222
 Consumer and Market Study	10841
 Contemporary French and Francophone Studies	3782
 Context of Digital Transformation. Higher Education Studies	11927
@@ -513,6 +516,7 @@ Local Government Studies	5349
 Longitudinal Studies	16963
 Looker Studio	5256
 Lungi Four Sierra Leonean Students Seek	5390,965,827
+Luxembourg Study Abroad Program for UL	20191
 M Studies	15604
 METHODOLOGY Study Design	12508
 MICT SETA Tracer Study Survey	6832
@@ -768,6 +772,7 @@ Student Digital Literacy Proficiency	16963
 Student Education Management Information System	12950
 Student Engagement	14812
 Student Engagement and Academic Performance	16963
+Student ID	20175
 Student Identification	10765,10
 Student Information System	15164
 Student Information System and EMIS	15604
@@ -865,7 +870,7 @@ Studios	18295
 Studium Generale Transfer HBO-Master Scholarship	15552
 Studocu	15164
 Studs	9123,4262
-Study	299,600,63,245,5,7,42,553,1790,187,534,1024,253,937,293,1062,128,108,246,60,49,956,298,1025,77,29,11,59,8,353,277,279,3,45,11,90,19,174,28,4,2,13,11,71,1,38,12,20,32,244,3,294,6,106,229,105,43,298,264,643,81,1,27,14,40,103,15,50,126,7,242,39,13,75,75,85,187,178,305,529,93,150,56,210,595,569,89,25,79,71,104,11,335,289,240,200
+Study	299,600,63,245,5,7,42,553,1790,187,534,1024,253,937,293,1062,128,108,246,60,49,956,298,1025,77,29,11,59,8,353,277,279,3,45,11,90,19,174,28,4,2,13,11,71,1,38,12,20,32,244,3,294,6,106,229,105,43,298,264,643,81,1,27,14,40,103,15,50,126,7,242,39,13,75,75,85,187,178,305,529,93,150,56,210,595,569,89,25,79,71,104,11,335,289,240,200,245,5
 Study AI Patentability and Digital Rights	7624
 Study Area and Climate Pattern	12614
 Study Assessing	13418
@@ -904,6 +909,7 @@ Study Tours	17180
 Study Tours and Training	11552
 Study Unit	15244
 Study and Country Table	14775
+Study and Development of Digital Currencies	20192
 Study and Gender	14775
 Study and Nationality	2775
 Study and Sex	2775
@@ -915,6 +921,7 @@ Study of Options for Mutual Recognition of National IDs	10819,2495,2160,4162
 Study of Options for Mutual Recognition of National Ids	10819
 Study of Violence and Reconciliation and Others	2307
 Study-Groups	689
+Study.pdf Commissioned	20207
 Studying	3263,7373,665,2323,1373
 Studying Free	12199
 Studying Information Technology	5349
@@ -994,6 +1001,7 @@ Uganda. Disability Stud Quarterly	12231
 Union of Eritrean Youth and Students PC Partnership	13990
 Unit of Study	18606
 United Republic of Tanzania TZA Study	19613
+Universal Access Study	20223
 Universities and Number of Students Funded	2775
 University Students	14721,4920
 University Students and Postgraduate Scholars	17149

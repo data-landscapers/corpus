@@ -256,12 +256,13 @@ Country Profile Employment Cost	12395
 Country Profile Sudan	14851
 Country Profile URL	19365
 Country Profile.pdf	1400
-Country Profiles	10764,212,898,7,1,464
+Country Profiles	10764,212,898,7,1,464,7863
 Country Profiles Africa Angola Global Cybersecurity	10764
 Country Profiles For Early Childhood Development	10768
 Country Risk Profile	18198
 Creation and Maintenance of User Profiles	12364
 Creation and Maintenance of User Profiles The BoZ	12364
+Credit Assistant Professor Richard S. Panto	20104
 Crescimento Profissional	2816
 Customer Account and User Profile	12654
 Cybercrime Legislative Profile	1276
@@ -637,6 +638,7 @@ Institute of ICT Professionals Ghana	6936,3448
 Institute of IT Professionals South Africa	6832
 Institute of Information Technology Professionals South	6832
 Institution for Specialised Training of Professionals	13623
+Institutional Synergy Professor Amupitan	20126
 Institutos Nacionales de Formación Profesional	16864
 Institutos Nacionales de Formación Técnica Profesional	16920
 Instituts de Formation des Professeurs	16001
@@ -784,6 +786,7 @@ No. Name of User Profile Reason for Removing	12364
 No. Name of User Profile Reason for Revoking	12364
 Non Profit	3714
 Non Profit Institutions Serving Households	2775
+Non Profit Organization	20228
 Norme Professionnelle	16545
 Novas Profissões	2816
 Novo DNA Profissional	7948
@@ -852,7 +855,7 @@ PROFIL DU CABINET ET DES EXPERTS	12043
 PROFIL DU PAYS	15685
 PROFIL ET COMPETENCES COMMUNICATION ET ACCOMPAGNEMENT	16646
 PROFIL PAYS	17830
-PROFILE	4429,5,792,5686,977,263,188,1,335,6868,380,14,49
+PROFILE	4429,5,792,5686,977,263,188,1,335,6868,380,14,49,225
 PROFILE African Trade Policy Centre	11550,2435
 PROFILE Fact Sheets	14807
 PROFILE OF CHAIRPERSON AND COUNCIL MEMBERS	14736
@@ -1057,6 +1060,7 @@ Professional Journalists	17934
 Professional Land Surveyors	12912
 Professional Learning Communities	16162
 Professional Liability Insurance	12400
+Professional Licence	20175
 Professional Magistrate Training Program	17398
 Professional Management Information System	19584
 Professional Master	16046
@@ -1110,7 +1114,7 @@ Professionalization	15138,4709
 Professionalization of Farming	14818
 Professionalization of Farming Livestock	14818
 Professionalize	3583
-Professionals	4126,88,4625,364,2093,660,2789,70,1451,681,60,142,2505,71
+Professionals	4126,88,4625,364,2093,660,2789,70,1451,681,60,142,2505,71,457
 Professionals Chief Executives	16266
 Professionals Embedding	14566
 Professionals Implementation	17011
@@ -1146,13 +1150,15 @@ Professionnelle. Elles	17584
 Professionnelles	18884
 Professionnels	9287,55,1269,364,2400,2239,97,1811,578,224
 Professions	18204
-Professor	2816,518,1562,996,77,1203,1532,1679,367,16,86,277,25,768,622,1447,675,146,1513,1471,1153
+Professor	2816,518,1562,996,77,1203,1532,1679,367,16,86,277,25,768,622,1447,675,146,1513,1471,1153,1153
 Professor A. Murwira	413
 Professor Abate	8529
 Professor Abdalla Omar Mansur	10451
+Professor Abdou Karim Jallow	20221
 Professor Abdoulaye Baniré Diallo	16679
 Professor Abiodun Musa Aibinu	8710
 Professor Ademola	6690
+Professor Aina	20126
 Professor Alessandro Abate	8529
 Professor Alison Gildwald	6152
 Professor Alison Gillwald	7757
@@ -1208,6 +1214,7 @@ Professor Isaac Wiafe	14353
 Professor Ismat Qurashi	15142
 Professor Jamila Shuara	9576
 Professor Jerry John Kponyo	5227,4193,10
+Professor Joash Amupitan	20126
 Professor John Dugard	9889
 Professor Jon Crowcroft	1246
 Professor Jonathan Tsetimi	8710
@@ -1268,6 +1275,7 @@ Professor Samuel Bunani	7955
 Professor Samuel K. Bonsu	8950
 Professor Sandra Maximiano of ANACOM	7323
 Professor Sanjeev Kumar Sobhee	14744
+Professor Segun Aina	20126
 Professor Shaun Parsons	11027
 Professor Shoshana Zuboff	4426
 Professor Sifiso Mnisi	15318
@@ -1302,6 +1310,7 @@ Professor of Engineering	15203
 Professor of Information and Communication Studies	12325
 Professor of Poverty and Human Development	15244
 Professor-researcher	19248
+Professor. The Chemistry Expert	20102
 Professora	2816
 Professora Associada Esselina Macome	9694
 Professora Doutora Paula Meira Lourenço	3079
@@ -1554,6 +1563,7 @@ TAXPAYER’S PROFILE AND TAX STATUS	11240
 TB Country Profile	17869
 TIA Procurement Professional Club	19534
 TIC Profil	17856
+TIE Teachers Continuous Professional Development Learning	20119
 TITRE IV PROFESSIONNELS DE SANTE Chapitre	15434
 TITRE IV TAXE DE FORMATION PROFESSIONNELLE	15534
 TITRE V DE LA PROFESSION	15602
@@ -1580,7 +1590,7 @@ Teacher Continuous Professional Development	19595
 Teacher Professional Development	16963
 Teacher Professional Development Index	13392
 Teacher Professional Development Program	14971
-Teacher Professional Learning	899
+Teacher Professional Learning	899,19309
 Teacher Proficiency Development Index	13477
 Teacher Workforce and Continuous Professional Development	14251
 Teacher and Health Professionals	1988

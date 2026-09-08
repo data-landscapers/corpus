@@ -406,12 +406,13 @@ ESTRATEGIA GLOBAL DE DESARROLLO GUINEA ECUATORIAL	1701
 EU Global Gateway	1129,1024,1308,1189,13,836,4,3043,2609,2102,610,2277,2028,220,112,423
 EU Global Gateway Agreements	6743
 EU Global Gateway EuinMoz2026 The Mozambique	6743
+EU Global Gateway Initiative	20218
 EU Global Gateway Strategy	6743
 EU Global Gateway and EIB	16144
 EU Global Gateway. Crosswalk	1463
 EU Global Gateway. ECDPM	11155
 EU R93.5bn Global Gateway	2210
-EU's Global Gateway	3080,10090,72,637,4,109,36,494,106,1238,2774
+EU's Global Gateway	3080,10090,72,637,4,109,36,494,106,1238,2774,1436
 EU's Global Gateway Africa	13257
 EU's Global Gateway Strategy	6743
 EU's Global Gateway Strategy and International Digital	11985
@@ -589,6 +590,7 @@ GFATM Global Fund	16896
 GFATM The Global Fund	19889
 GFCS Global Framework for Climate Services GTS	18578
 GG. Conclusion The Digital Global Gateway	11155
+GHANA ON THE REGIONAL AND GLOBAL	20182
 GIBS Global Executive Development Programme	4896
 GIEWS Global Information and Early Warning System	15118
 GIF Global Infrastructure Facility GoSTP Government	18777
@@ -696,7 +698,7 @@ Globacom and Airtel Africa	7560
 Globacom and T2	11506
 Globacom and T2mobile	9363
 Globacom’s Borrow Me Credit	10807
-Global	226,137,109,288,139,62,37,163,58,42,202,351,282,6,21,216,9,19,408,173,128,27,59,330,219,71,9,68,3,31,260,64,83,148,21,5,54,27,121,58,29,85,35,89,270,4,1,74,43,263,1,47,77,158,57,341,110,7,7,31,35,41,54,42,44,182,77,8,1,1,155,70,6,65,114,1,189,114,224,89,114,24,13,17,30,11,18,19,130,175,258,73,158,11,590,55,68,38,38,103,41,107,648,50,4,16,1,16,18,10,11,6,6,4,5,99,5,4,8,8,43,101,2,4,1,18,1,1,6,31,72,114,38,52,94,6,3,6,276,3,6,21,1,9,1,28,18,5,9,22,17,3,154,8,1,11,21,12,1,5,4,26,1,5,10,9,32,32,22,4,1,20,20,48,43,25,151,1,105,195,8,88,63,189,2,218,74,75,4,183,88,35,160,116,98,91,145,66,81,25,46,20,57,89,12,26,115,83,100,150,47,24,11,106,4,6,44,12,176,243,122,59,111,27,389,9,11,70,29,25,15,7,26,55,6,34,1,17,36,42,81,1,47,57,327,25,194,2,47,155,138,109,67,44,36,212,110,211,197,151,73,13,2,21,61,17,17,82,69,54,7,3,25,47,15,14,29
+Global	226,137,109,288,139,62,37,163,58,42,202,351,282,6,21,216,9,19,408,173,128,27,59,330,219,71,9,68,3,31,260,64,83,148,21,5,54,27,121,58,29,85,35,89,270,4,1,74,43,263,1,47,77,158,57,341,110,7,7,31,35,41,54,42,44,182,77,8,1,1,155,70,6,65,114,1,189,114,224,89,114,24,13,17,30,11,18,19,130,175,258,73,158,11,590,55,68,38,38,103,41,107,648,50,4,16,1,16,18,10,11,6,6,4,5,99,5,4,8,8,43,101,2,4,1,18,1,1,6,31,72,114,38,52,94,6,3,6,276,3,6,21,1,9,1,28,18,5,9,22,17,3,154,8,1,11,21,12,1,5,4,26,1,5,10,9,32,32,22,4,1,20,20,48,43,25,151,1,105,195,8,88,63,189,2,218,74,75,4,183,88,35,160,116,98,91,145,66,81,25,46,20,57,89,12,26,115,83,100,150,47,24,11,106,4,6,44,12,176,243,122,59,111,27,389,9,11,70,29,25,15,7,26,55,6,34,1,17,36,42,81,1,47,57,327,25,194,2,47,155,138,109,67,44,36,212,110,211,197,151,73,13,2,21,61,17,17,82,69,54,7,3,25,47,15,14,29,103,123
 Global ACE	15043
 Global ACE Somalia Country Chapter	15043
 Global AI	1204,610,4033,2359,1436,97,1215,103,7,76,3461,1112
@@ -1206,7 +1208,7 @@ Global Funding Report Africa	4972
 Global Funding Report. Calculations of Africa	4972
 Global Funds	14819
 Global GDP Uplift	15713
-Global Gateway	1068,18,103,76,193,3,3,64,251,169,205,555,372,1348,222,13,836,4,1049,98,93,917,586,816,247,1283,230,318,15,71,1201,416,313,101,200,3,22,169,216,12,113,35,82,519,1229,336,12,814,1113,40,253,82,169,109,543,94,116,44
+Global Gateway	1068,18,103,76,193,3,3,64,251,169,205,555,372,1348,222,13,836,4,1049,98,93,917,586,816,247,1283,230,318,15,71,1201,416,313,101,200,3,22,169,216,12,113,35,82,519,1229,336,12,814,1113,40,253,82,169,109,543,94,116,44,494,142
 Global Gateway Africa-Europe Investment Package	11288
 Global Gateway Afrique-Europe	1189
 Global Gateway Communication	11155
@@ -1336,6 +1338,7 @@ Global Information Technology Reports	17870
 Global Information and Communication Technologies	14723
 Global Information and Early Warning System	19054
 Global Infrastructure	13225
+Global Infrastructure Division URL	20170
 Global Infrastructure Facility	15983,76
 Global Infrastructure Facility GM Grievance Mechanism	15983
 Global Infrastructure Hub	11155
@@ -1527,7 +1530,7 @@ Global Partnership Fund for Education	14031
 Global Partnership for Development	18887
 Global Partnership for Education	899,3930,2944,4087,40,5,11,259,329,222,344,134,1,105,39,484,157,9,1,57,839,20,20,22,214,20,288,13,111,57,12,70,217,476,24,451,110,212,1227,105,52,31,117,146,31,307,353,55,178,72,26,89
 Global Partnership for Education Better	17185
-Global Partnership for Education Fund	14936,1,724,1014
+Global Partnership for Education Fund	14936,1,724,1014,3486
 Global Partnership for Education Fund IDA Resources	11905
 Global Partnership for Education GPI	12175
 Global Partnership for Education KIX	15765
@@ -1658,7 +1661,7 @@ Global Solidarity	9648
 Global Solidarity Fund	6418
 Global Solutions Group	15553
 Global Source Book	17011
-Global South	226,96,249,531,1015,401,7,262,611,283,101,644,4,9,75,14,55,93,13,62,94,199,41,37,19,75,8,28,5,10,100,87,409,90,72,116,245,32,62,32,278,170,151,1,26,9,4,23,37,31,36,270,42,169,98,105,19,62,32,16,4,18,30,303,54,11,118,45,66,150,2,44,79,223,23,26,144,222,56,30,21,402,37,1,1,14,104,122,86,202,123,198,85,19,1,14,115,18,29,25,384,8,161,160,19,2,8,12,100,17,413,417,452,572,58,608,515,1978,35,281,215,2,20,77,780,207,203,844
+Global South	226,96,249,531,1015,401,7,262,611,283,101,644,4,9,75,14,55,93,13,62,94,199,41,37,19,75,8,28,5,10,100,87,409,90,72,116,245,32,62,32,278,170,151,1,26,9,4,23,37,31,36,270,42,169,98,105,19,62,32,16,4,18,30,303,54,11,118,45,66,150,2,44,79,223,23,26,144,222,56,30,21,402,37,1,1,14,104,122,86,202,123,198,85,19,1,14,115,18,29,25,384,8,161,160,19,2,8,12,100,17,413,417,452,572,58,608,515,1978,35,281,215,2,20,77,780,207,203,844,208,13
 Global South AI	7151
 Global South AI-ADOPTION	7138
 Global South AOSP African Open Science	5246
@@ -1670,6 +1673,7 @@ Global South Collaboration	3840
 Global South Collaboration Key Actions	3840
 Global South Context	7548
 Global South Context Across the Global South	7548
+Global South Digital	20112
 Global South Faces	8091
 Global South India	9431
 Global South Last	9015
@@ -1882,7 +1886,7 @@ Globalité	17830
 Globalization	4970,2308,4576,1770,1308,65,1861
 Globalization and Health	6948
 Globalizations	4676
-Globally	940,18,3,243,39,650,47,4,22,405,306,25,246,457,1034,393,16,459,14,6,113,430,166,567,105,6,232,2,23,577,241,190,452,1,28,861,385,124,308,576,4,45,1,65,22,5,129,86,67,127,280,27,39,233,59,19,43,21,11,154,59,17,45,95,139,376,160,19,195,205,477,441,294,74,132,68,50,42,263,6,163,2,506,795,20,102,26,38,189,47,39,223,288,124,423,239,32,991,419,30
+Globally	940,18,3,243,39,650,47,4,22,405,306,25,246,457,1034,393,16,459,14,6,113,430,166,567,105,6,232,2,23,577,241,190,452,1,28,861,385,124,308,576,4,45,1,65,22,5,129,86,67,127,280,27,39,233,59,19,43,21,11,154,59,17,45,95,139,376,160,19,195,205,477,441,294,74,132,68,50,42,263,6,163,2,506,795,20,102,26,38,189,47,39,223,288,124,423,239,32,991,419,30,206
 Globally Competitive	5134
 Globally Competitive Knowledge	770
 Globalmente	10760,4924
@@ -2089,6 +2093,7 @@ Jobs Global Practice Middle East and North	19855
 Jobs Global Practice Western And Central	16952
 Johannesburg. Global AI	11495
 John Magee Partner Global Co-Chair Data	12301
+Joint Stock Company Global Security	20140
 Jointly Implementing the Global Security Initiative	11154
 Jordan Global Cybersecurity Index	10764
 Journal of Global Health Reports	1212
@@ -2358,7 +2363,7 @@ Palgrave Handbook of Global Health Data	12255
 Pan African and Global Banker	4896
 Panama Global Cybersecurity Index	10764
 Panorama Global da Regulamentação da IA	2816
-Parceria Global	2816,13452,2513
+Parceria Global	2816,13452,2513,1356
 Paris Peace Forum Global Coalition	4583
 Paris. Global	18039
 Partenariat Global	1218
@@ -2605,6 +2610,7 @@ TH GLOBAL EDUCATIONAL ASSESSMENT CONFERENCE Inside	13477
 TIGER GLOBAL IS NOT NAMED ANYWHERE	9098
 TRÁFEGO GLOBAL ANUAL E QUOTA	11531
 TVA. Globalement	15542
+Taiwan Opens Global Markets for Eswatini Through	20123
 Tajikistan Global Cybersecurity Index	10764
 Target Achieved PDO Level Indicator Global	18825
 Targeted Global Tech Strategic	14566
@@ -2731,7 +2737,7 @@ United Nations Global AI Governance Dialogue	7103
 United Nations Global Compact Initiative	16778
 United Nations Global Counter-Terrorism Strategy	11183
 United Nations Global Dialogue	7072,89,8,1459,1,632,3499
-United Nations Global Digital Compact	11478,5840
+United Nations Global Digital Compact	11478,5840,2906
 United Nations Global Geospatial Information Management	15129
 United Nations Global Mechanism	7552
 United Nations Global Principles for Information	10453
@@ -2808,7 +2814,7 @@ World Bank Digital Development Global Practice	10765,10
 World Bank Global Digital Summit	2585
 World Bank Global Electrification Database. Page	13331
 World Bank Global Financial Inclusion Database	19966
-World Bank Global Findex	1828,10166,3524,1358,66
+World Bank Global Findex	1828,10166,3524,1358,66,3191
 World Bank Global Findex Database	1828,10472,6203
 World Bank Global Findex Database Globally	16883
 World Bank Global Findex Database and IMF	1828
@@ -2831,7 +2837,8 @@ World Bank’s ID4D Global Dataset	16822
 World Economic Forum Global Competitiveness Index	15447,33
 World Economic Forum Global Competitiveness Report	15411
 World Economic Forum Global Gender Gap	789
-World Health Organization. Global	12231,24
+World Health Organization. Global	12231,24,7964
+World Health Organization. Global TB	20219
 World Health Organization’s Global Health Observatory	12265
 World Health Organization’s Global Strategy	10865
 World Intellectual Property Organization’s Global	17458

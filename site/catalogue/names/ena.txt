@@ -33,7 +33,7 @@ BEN ENA	17828
 Barriers and Enablers	4439
 Barriers and Enablers. South African Journal of Education	11927
 Basic Regulatory Enablers for Digital Financial Services	16942
-Baudouin Enama	17558
+Baudouin Enama	17558,2611
 Biennial Effectiveness of Cross Cutting Enablers Progress	14819
 Body Enabling Stakeholders Formulate Policies	12551
 Broad-Based Enabler	16861
@@ -168,10 +168,10 @@ ENABLING THE BANK	15023
 ENABLING THE RIGHTS OF A DATA	14435
 ENACE	15574
 ENACE-1	15574
-ENACT	10759,76,2,1,130,902,16,2,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+ENACT	10759,76,2,1,130,902,16,2,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 ENACT Africa	19653,183
 ENACT ENACT Africa	11887,266,1,9,178,7517,1
-ENACT ENACT Africa FAO Food and Agriculture	10759,78,1052,451,7598
+ENACT ENACT Africa FAO Food and Agriculture	10759,78,1052,451,7598,274
 ENACT MEQV	16103
 ENACT Révision	16103
 ENACT Révision Réunion	16103
@@ -219,7 +219,7 @@ Ecosystem Enabler	12241
 Ecosystem Enablers	14819
 Education Enabling Factor	12175
 Education Enabling Factor Due	12175
-Enabel	256,101,283,2,442,151,2855,2023,769,94,1667,1949,50,223,1562,879,43,25,186,624,1921,642,1358,220,81,1239,359
+Enabel	256,101,283,2,442,151,2855,2023,769,94,1667,1949,50,223,1562,879,43,25,186,624,1921,642,1358,220,81,1239,359,149,65
 Enabel Level	10865
 Enabel S.A. Global ContractFin Services	16747
 Enabel Training Plan	19641
@@ -230,7 +230,7 @@ Enabel. Cette	14184
 Enabel. L'informatisation	19645
 Enabel’s WeTrain4Health	10865
 Enabiling Tax Policy Enabling Trade Policy	16876
-Enable	395,372,81,110,3,2913,252,308,414,133,264,431,1,1259,612,1898,1275,171,64,175,5,110,611,95,34,11,230,132,40,45,54,463,16,60,58,126,74,166,51,468,43,543,56,33,19,49,96,102,14,30,32,37,130,178,371,1,210,15,205,561,162,5,4,16,15,16,19,33,124,17,23,150,1020,61,205,346,31,681,44,124,105,60
+Enable	395,372,81,110,3,2913,252,308,414,133,264,431,1,1259,612,1898,1275,171,64,175,5,110,611,95,34,11,230,132,40,45,54,463,16,60,58,126,74,166,51,468,43,543,56,33,19,49,96,102,14,30,32,37,130,178,371,1,210,15,205,561,162,5,4,16,15,16,19,33,124,17,23,150,1020,61,205,346,31,681,44,124,105,60,255
 Enable Access	19728
 Enable Adaptive Management	16975
 Enable Digital Banking Services and Promote Financial	16590
@@ -385,6 +385,7 @@ Enabling Rwanda	5048
 Enabling Seamless Service Access	15062
 Enabling Service	11097
 Enabling Service Delivery	12175
+Enabling Services	20082
 Enabling Strategy	15802
 Enabling Technical Assistance	15372
 Enabling Telemedicine and Remote Expertise Telemedicine	5378
@@ -528,6 +529,7 @@ Mokom Enam Lugu	17240
 Monsieur Enagnon Elie SOUMAHO	17584
 Monsieur Enagnon Sikirou RAFIOU Tribunal	17584
 Morel Enagnon DENAMI	17584
+NA Enables KYC	20214
 NATIONAL ENABLERS Digital Public Infrastructure Legal	14752
 NDS ENABLERS AND DRIVERS	14790
 NDS Enablers	14790

@@ -1,6 +1,7 @@
 AA VIT	19226
 ACTUELLEMENT VIT AVEC PAS EN UNION	13300
 ANUÁRIO ESTATÍSTICAS VITAIS GUINÉ-BISSAU	11537
+API for Identity Authentication. Vital Events	20221
 AVEC QUI IL VIT	13300
 About Mobile Vital Records System	10822
 Abroad Kenya Vital Statistics Report	12151
@@ -61,7 +62,7 @@ Civil Registration Vital Statistics	19541
 Civil Registration Vital Statistics and Identity DCR	12337
 Civil Registration and Vital	12241,2815
 Civil Registration and Vital Events	12533
-Civil Registration and Vital Statistics	171,806,226,451,56,1328,1219,3604,515,1159,1230,15,39,9,305,9,248,90,489,88,7,273,1,29,3,43,226,305,61,2,73,15,330,253,545,399,267,5,56,106,27,28,98,38,1065,208,376,26,85,388,744,127,183,22,3,45,10,61,951,202,37,24
+Civil Registration and Vital Statistics	171,806,226,451,56,1328,1219,3604,515,1159,1230,15,39,9,305,9,248,90,489,88,7,273,1,29,3,43,226,305,61,2,73,15,330,253,545,399,267,5,56,106,27,28,98,38,1065,208,376,26,85,388,744,127,183,22,3,45,10,61,951,202,37,24,417
 Civil Registration and Vital Statistics BDRS	12639
 Civil Registration and Vital Statistics Coming Soon	12406
 Civil Registration and Vital Statistics D4H Data	15056
@@ -136,6 +137,7 @@ GENERATION OF VITAL STATISTICS	12413
 GENERATION OF VITAL STATISTICS NISR	15056
 GJfimpOrtance Vitale	15584
 GRACE VITAL CARE HOSPITAL Data	7167
+Gambia Electronic Civil Registration and Vital Statistics	20221
 Ghana’s Civil Registration and Vital Statistics	19962
 Global Civil Registration and Vital Statistics. Scaling	10819
 Guy Vital	15524
@@ -331,7 +333,7 @@ Vital Sectors Driving Recovery	15048
 Vital Signs Profile	17869
 Vital St. DB	12337
 Vital Statistical Record	12151
-Vital Statistics	200,453,8882,2603,229,46,946,120,117,1460,571,1206,27,1614,1052,361
+Vital Statistics	200,453,8882,2603,229,46,946,120,117,1460,571,1206,27,1614,1052,361,334
 Vital Statistics CSO Civil Society Organizations	18478
 Vital Statistics Community Engagement Strategic Plan	13596
 Vital Statistics Database Informants	12337

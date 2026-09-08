@@ -121,6 +121,7 @@ B. Sous-secteur ENERGIE	15542
 B.1.3 Energy	14674
 BACKGROUND AND CONTEXT The National Energy	18453
 BERKELEY Objection RAS Plusieurs ENERGY	10975
+BESS Battery Energy Storage System	20223
 BESS Battery Energy Storage System BOAD	11549
 BESS Battery Energy Storage System BONA	12399
 BESS Battery Energy Storage System BWs	11228
@@ -206,7 +207,7 @@ Canada Clean Energy and Forest Climate Facility	16059
 Canada Clean Energy and Forest Facility	15983
 Canada-World Bank Clean Energy and Forests Climate	12595
 Catalyser for Energy Transition	12962
-Catalysing Renewable Energy Access and Transition	13054
+Catalysing Renewable Energy Access and Transition	13054,7014
 Ce Pacte National Energétique	15799
 Center for Renewable Energy and Industrial Maintenance	15983
 Centre for Renewable Energy Systems Technology	12178
@@ -276,7 +277,7 @@ Convalt Energy	6490,39,104
 Copperbelt Energy Corporation	13387,2283
 Cost Reflectivity of Energy Prices Increased Uptake	12515
 Cost-of-Service Study Deemed Generated Energy AGOL	12256
-Country and Energy Sector Overview and Challenges	16966
+Country and Energy Sector Overview and Challenges	16966,3257
 Creamer Media Editor The National Energy	11904
 Critical Energy Transition Minerals	11210
 CrossBoundary Energy	9148
@@ -301,6 +302,7 @@ DIOMAT ENE	17828
 DPDC EDC NHPC ENEO KPDC KPDC	10975
 DPDC NHPC ENEO	10975
 DPO Development Policy Operation E2C Energie	15969
+DRAFT NATIONAL ENERGY COMPACT	20223
 DRE Decentralized Renewable Energy EDSA Electricity	18537
 Danish Energy Agency	12233
 Data Centre Energy Efficiency. Publications Office	16144
@@ -330,7 +332,7 @@ Development Fund FUNAE National Energy Fund	2473
 Digital Energy Facility	348,1
 Digital and Energy Connectivity for Inclusion	1199,5625,226,7406,147,66
 Digital and Energy Connectivity. Digital	1199
-Digital and Energy Transformation Towards	17603
+Digital and Energy Transformation Towards	17603,2513
 Directeur Général Energie	13433
 Director General of Energy	11549
 Director of Infrastructure and Energy	18492
@@ -670,7 +672,7 @@ Energies-media. Tonye	15480
 Energising Development	12191,33,7719
 Energization Outcome	12358
 Energizing Africa	10077
-Energy	718,71,181,226,3,44,21,20,493,37,4,49,121,440,45,153,149,829,257,122,143,321,436,13,10,66,561,240,139,110,164,80,144,12,211,371,147,16,86,188,88,19,241,176,53,594,541,376,27,580,21,156,107,339,76,2,1,74,44,12,37,11,119,14,36,7,23,13,41,3,59,49,89,80,23,36,113,33,61,55,16,1,1,1,34,2,28,109,90,1,1,9,29,14,27,21,2,5,79,1,11,1,5,36,5,4,85,14,10,9,42,41,13,57,6,8,155,99,14,13,3,69,19,63,128,134,33,15,41,46,49,55,61,49,59,145,311,160,13,54,118,9,62,9,45,17,9,69,16,9,32,2,74,7,57,12,40,397,55,59,85,4,39,12,111,158,66,95,99,13,29,369,114,83,2,32,4,13,21,19,5,19,12,14,4,108,1,3,31,10,3,57,26,6,10,6,3,104,57,459,4,52,211,39,31,3,233,5,83,26,126,35,26,41,67,71,18,28,167,93,6,274,7,29,91,6,1,10,14,35,89,21,1,13,22,1,65,13,1,1,27,21,15
+Energy	718,71,181,226,3,44,21,20,493,37,4,49,121,440,45,153,149,829,257,122,143,321,436,13,10,66,561,240,139,110,164,80,144,12,211,371,147,16,86,188,88,19,241,176,53,594,541,376,27,580,21,156,107,339,76,2,1,74,44,12,37,11,119,14,36,7,23,13,41,3,59,49,89,80,23,36,113,33,61,55,16,1,1,1,34,2,28,109,90,1,1,9,29,14,27,21,2,5,79,1,11,1,5,36,5,4,85,14,10,9,42,41,13,57,6,8,155,99,14,13,3,69,19,63,128,134,33,15,41,46,49,55,61,49,59,145,311,160,13,54,118,9,62,9,45,17,9,69,16,9,32,2,74,7,57,12,40,397,55,59,85,4,39,12,111,158,66,95,99,13,29,369,114,83,2,32,4,13,21,19,5,19,12,14,4,108,1,3,31,10,3,57,26,6,10,6,3,104,57,459,4,52,211,39,31,3,233,5,83,26,126,35,26,41,67,71,18,28,167,93,6,274,7,29,91,6,1,10,14,35,89,21,1,13,22,1,65,13,1,1,27,21,15,210,11
 Energy Acceleration Program	19083
 Energy Access	10157,2076,7494
 Energy Access Deficit	11923,268
@@ -714,7 +716,7 @@ Energy Commission	6936,8968,293,3746,16
 Energy Commission Act	15904
 Energy Commission. Hon. Jinapor	19959
 Energy Committee	10313
-Energy Compact	11136,1581,324,4219,1288
+Energy Compact	11136,1581,324,4219,1288,1675
 Energy Compact Agreement	18453
 Energy Compact The DGRNE	18795
 Energy Compact. Sharing	18795
@@ -836,7 +838,7 @@ Energy Ministry of Defence Others	17105
 Energy Ministry of Interior	17105
 Energy Mix	19239
 Energy Mix Kenya	12256
-Energy Mobile Communications Internet	10759,78,1315,188,7598
+Energy Mobile Communications Internet	10759,78,1315,188,7598,274
 Energy National	14674
 Energy National Compact	14674
 Energy National EUR	15500
@@ -847,6 +849,7 @@ Energy Outlook	12233
 Energy PLC Sosian	12256
 Energy PPA	12358
 Energy Pact	4187
+Energy Pact Pillars	20223
 Energy PanAfGeo	12972
 Energy Park	1722
 Energy Performance Contracting	7845
@@ -1158,12 +1161,14 @@ GREEN ENERGY CLUSTER	16103
 GREEN ENERGY CLUSTER ALGERIA Nouveau	16103
 GREEN ENERGY CLUSTER Nouveau	16103
 GREEN ENERGY Nouveau	16103
+GSEP Gambia Sustainable Energy Project	20223
 GSMA Urges Faster Renewable Energy Rollout	7402
 GUA E ENERGIA ELECTRICA	18757
 GWh Energy	12256
 GWh. Energy Generated	15904
 Gains Energie Renouvelable	14479
 Galana Energies Limited	12256
+Gambia Renewable Energy Fund	20223
 Gender Equality Affordable And Clean Energy	15578
 General Counsel and Head of Energy	10597
 General Department of Energy	19825
@@ -1174,7 +1179,7 @@ Geothermal Energy Kenya	12256
 Germanium IAEA International Atomic Energy Agency	19565
 Gestion Publique Finance Agro Energies Mines	13568
 Gestor de Prática Global de Energia	16059
-Ghana Atomic Energy Commission	11
+Ghana Atomic Energy Commission	11,20135
 Ghana Energy Security and Climate	19943
 Ghana Energy and Development Access Project	19943
 Ghana Launches Scaling-Up Renewable Energy Programme	19959
@@ -1361,6 +1366,7 @@ Kurasimisha Makazi Yasiyopangwa Ludewa DC Eneo	19592
 Kurasimisha Makazi Yasiyopangwa Wanging'ombe DC Eneo	19592
 Kyegegwa Rural Energy Cooperative Society	19646
 LARGE-SCALE RENEWABLE ENERGY MARKET INTELLIGENCE REPORT	11953
+LCOE Levelised Cost of Energy	20223
 LE PACTE NATIONAL ENERGETIQUE OU COMPACT	15799
 LERC Energy LEC	17260
 LERCJ Ministry of Lands. Mines and Energy Rural	16851
@@ -1401,7 +1407,7 @@ Long-Term Energy Planning The Republic	11936
 Lundin Energy AB	3583
 M P170664 Energy	11469
 M P181248 Energy Scale-up Project IPF	11469
-M PEOPLE IN AFRICA TO ENERGY	12399,1034,2366,238,3640
+M PEOPLE IN AFRICA TO ENERGY	12399,1034,2366,238,3640,546
 M3. Energy Mix Liberia	17257
 M300 Energy Compact	3604,15191
 MAITRISE DE L’EFFICACITE ENERGETIQUE ET ENERGIES	16103
@@ -1493,7 +1499,7 @@ Minister for Energy and Water Resources Abdilahi Bidhan	15119
 Minister of Electricity and Energy	11215,57,6448
 Minister of Electricity and Renewable Energy Mahmoud Esmat	16236
 Minister of Electricity and Renewal Energy	17240
-Minister of Energy	13228,334,2602,113,372,317,1254,362,213,812,54
+Minister of Energy	13228,334,2602,113,372,317,1254,362,213,812,54,562
 Minister of Energy Explains Recent Power Outages	18582
 Minister of Energy H.E. Professor	18220
 Minister of Energy Hon. Makozo Chikote	13488
@@ -1542,6 +1548,7 @@ Ministry of Energy MoECC	18485
 Ministry of Energy PROPORTION OF HOUSEHOLDS	15740
 Ministry of Energy and Convalt Energy	6490
 Ministry of Energy and Dams	3583,15031,58
+Ministry of Energy and GRIDCo	20182
 Ministry of Energy and Green Transition	16596
 Ministry of Energy and Hydraulic	15969
 Ministry of Energy and Hydraulics	11936,3723
@@ -1582,7 +1589,7 @@ Ministry of Mines and Energy	1242,4002,3844,3237,55,86,455,4054,3,38,83,15,290
 Ministry of Mines and Energy Electricity Control Board	12399
 Ministry of Mines and Energy Mineral	17011
 Ministry of Mines and Energy and Ministry of Public	16872
-Ministry of Natural Resources and Energy	6273,757,5932,7,85,39,158
+Ministry of Natural Resources and Energy	6273,757,5932,7,85,39,158,6817
 Ministry of Petroleum Energies and Mines	17893
 Ministry of Petroleum and Energy	16967,138
 Ministry of Public Works and Energy	718
@@ -1596,6 +1603,7 @@ Ministério da Energia	11380,189
 Ministério da Energia- ME	11549
 Mission300 National Energy Compact	14674
 MoED Ministry of Energy and Dams	18614,6
+MoPEM Ministry of Energy	20223
 Modern Energy Cooking Services	11572
 Modern Energy Enhanced Energy Efficiencies Improved	12515
 Modern Energy Services	14947
@@ -1657,7 +1665,7 @@ National Control Centre for Energy European Commission	844
 National Economy Energy	19646
 National Electrification Strategy and Energy	14674
 National Energy Authority	15025
-National Energy Compact	5247,6689,463,164,32,85,37,30,307,174,396,61,891,98,1295,219,466,312,1571,258,28,854
+National Energy Compact	5247,6689,463,164,32,85,37,30,307,174,396,61,891,98,1295,219,466,312,1571,258,28,854,546
 National Energy Compact for Malawi	14674
 National Energy Compact for Namibia URL	12399
 National Energy Compact of São Tomé	18795
@@ -1832,8 +1840,9 @@ Qatar Energy International E&P LLC	15930
 Quiet Energy Transformation Another	6714
 RATIONALE FOR A RWANDA ENERGY POLICY	14947
 RCA. Pour ENERCA	9279
+RE Renewable Energy	20223
 REG The Rwanda Energy Group	15049
-REHABILITATE AND EXPAND ENERGY INFRASTRUCTURE	12680
+REHABILITATE AND EXPAND ENERGY INFRASTRUCTURE	12680,7543
 RENEWABLE ENERGY	11572,684,2166
 RENEWABLE ENERGY AND IMPROVED	15983
 RENEWABLE ENERGY PUC	18947
@@ -1952,6 +1961,7 @@ Ressources Energétiques Ministère	19241
 Ressources Energétiques Robert Koffi Messan EKLO	19241
 Results Report Senegal Energy Access Scale	18355
 Results Report Tunisia Energy Reliability	19481
+Review Renewable Energy Act	20223
 Reviewer Senior Energy Specialist No Chong	15983
 Revised Tariff for Energy Export Under CEB	14745
 Risk Management Energy Housing Finance	18476
@@ -1998,6 +2008,7 @@ SAMPLING STRATEGY FOR THE HOUSEHOLD ENERGY	11136
 SANEDI South African National Energy Development	5246
 SCL Energie Solutions	18322
 SCL Energie Solutions. Par	18322
+SE4ALL Sustainable Energy for All	20223
 SE4ALL Sustainable Energy for All SENELEC Société	18316
 SE4ALL Sustainable Energy for All SIG Système	18103
 SERVICES THAT GUARANTEE ENERGY SECURITY	18795
@@ -2155,7 +2166,7 @@ Thermal Energy Generated	12256
 Thermal Energy Kenya	12256
 Through the Atomic Energy Regulatory Authority	13060
 Through the Energy Transitions Working Group	11215
-Through the Gambia Renewable Energy Fund	16966
+Through the Gambia Renewable Energy Fund	16966,3257
 Tipo de Entidade Energia Eletricidade Empresa	15504
 Tlou Energy	3649,5137
 Tlou Energy Limited	3649

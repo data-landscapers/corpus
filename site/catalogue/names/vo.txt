@@ -12,6 +12,7 @@ ADSL Volume Based	15471
 AE VOTE	1322,1,1,740,1,1
 AFRICA REPUBLIEK VAN SUID AFRIKA Vol	11233
 AFRICA'S VOICES AMPLIFIED LIMITED Data Controller	7167
+AFRINIC Had No Voting Community Member	20136
 AFRINIC. Votre	14241
 AGETIC S'abonner Vous	17965
 AI-Powered Voice Transactions	5700
@@ -885,7 +886,7 @@ Mboulou Voka	15692
 Mbps Voucher	11259
 Means of Voting the Reorganization Plan	12389
 Medianas Empresas Volumen	16898
-Medium Voltage	9409,5336,122,4,2095,2680,330
+Medium Voltage	9409,5336,122,4,2095,2680,330,247
 Medium Voltage Agricultural	9409
 Medium Voltage Generation	15255
 Medium Voltage MW	12358
@@ -1145,6 +1146,7 @@ Prepaid and Post-paid Voice Subscriptions and Market	2776
 Prepaid and Post-paid Voice Subscriptions and Market Share	2776
 Prepaid and Postpaid Mobile Voice Subscriptions	2776
 Prepaid and Postpaid Mobile Voice Subscriptions Prepaid	2776
+Preparation of Voters List	20221
 Presidency Results Voter Participation Cast Votes	19857
 Presidential Elections. The National Voters' Register	19737
 Principal Secretary Allain Volcere	18964
@@ -1203,6 +1205,7 @@ REGISTER LOCAL AUTHORITY VOTERS’ REGISTER	13046
 REGISTER OF VOTERS	13593
 REGISTRATION OF VOTERS	18459
 REMBOURSEMENT ANTICIPE VOLONTAIRE	15901
+REPUBLIC OF BOTSWANA GOVERNMENT GAZETTE Vol	20051
 REPUBLIC OF SOUTH AFRICA Vol	11176,3,2
 REPUBLIC OF SOUTH AFRICAGovernment Gazette Vol	11190,9,2,62
 REPUBLIEK VAN SUID AFRIKA Vol	11213
@@ -1408,6 +1411,7 @@ TVETs Technical and Vocational Education Training Centers	14947
 Table of Contents Vote Page Foreword	14546
 Talata Volonondry	8233
 Tanzania Vodacom Tanzania	6368
+Tanzania. Vodacom	20188
 TanzaniaInvest Vodacom Tanzania Launches USD	5715
 Target Completion Volume	15424
 Target Volume	15424
@@ -1431,7 +1435,7 @@ Technical and Vocational Education	1814,5079,5538,879,650,2892
 Technical and Vocational Education Pact	6884
 Technical and Vocational Education Training	11315,1096,201,7223
 Technical and Vocational Education Training Institutes	1638
-Technical and Vocational Education and Training	1777,998,1878,2179,116,1621,5,565,63,187,709,365,1073,369,494,12,163,23,2,315,757,282,7,30,1,59,107,585,6,81,87,6,322,203,106,1389,163,123,1031,288,59
+Technical and Vocational Education and Training	1777,998,1878,2179,116,1621,5,565,63,187,709,365,1073,369,494,12,163,23,2,315,757,282,7,30,1,59,107,585,6,81,87,6,322,203,106,1389,163,123,1031,288,59,1497
 Technical and Vocational Education and Training Management	13089
 Technical and Vocational Education and Training TVET	16942
 Technical and Vocational Education and Training UNDP	16975
@@ -1579,6 +1583,7 @@ VOIS Egypt	11162
 VOIS Egypt’s Alexandria	11162
 VOITURE	13300
 VOL CARGO	17006
+VOL II	20101,88
 VOL PRESIDENTIEL	17006
 VOL. XXVI	14647
 VOL.03	11956
@@ -1652,6 +1657,7 @@ VOTRE SITE WEB PROFESSIONNEL A PARTIR	17587
 VOULAIT MÉTHODE PLUS EFFICACE	13300
 VOUMA	16100
 VOUMA ONTSIAYI Ardech Espoir DEP	15580
+VOUS AVEZ UNE OPPORTUNITÉ POUR	20075
 VOUS DEVEZ ALLER. VÉRIFIEZ LE NOMBRE	13300
 VOUS NE POUVEZ DÉTERMINER SI L'ENDROIT	13300
 VOUS RENDRE. SUIVEZ LA LIGNE ET	13300
@@ -1795,6 +1801,7 @@ Vodacom Congo. Discussions	6764
 Vodacom DRC	88,9671,5712
 Vodacom DRC and Orange DRC	12035
 Vodacom DRC. M-Pesa Visa Virtual Card	11994
+Vodacom Digital Accelerator	20188
 Vodacom Ethiopia Telecoms Operating Licence	733
 Vodacom Fibre Broadband	11259
 Vodacom Financial Services	7898
@@ -1859,13 +1866,14 @@ Vodacom SENS	733,224
 Vodacom Secures Majority Control of Safaricom	2302
 Vodacom South Africa	957,178,8624
 Vodacom Supplementary Submission	4732
-Vodacom Tanzania	4521,1194,304,83,3047,748,143,638,4793
+Vodacom Tanzania	4521,1194,304,83,3047,748,143,638,4793,4717
 Vodacom Tanzania Achieves Robust	10678
 Vodacom Tanzania Launches USD	5715
 Vodacom Tanzania M-Pesa Director Epimack Mbeteni	6102
 Vodacom Tanzania M-Pesa Platform Modernisation	4521
 Vodacom Tanzania PLC	4521,5519
 Vodacom Tanzania Plc	10678
+Vodacom Tanzania and Bridge for Billions	20188
 Vodacom Tanzania and Sanlam Investments East Africa	8624
 Vodacom Tanzania’s CEO	10678
 Vodacom Tanzania’s Finance Director	10678
@@ -1943,7 +1951,7 @@ Vogler	17780
 Vogue	4126
 Vohitsova-Antanimora	14560
 Voi-Mwatate-Taveta	14600
-Voice	34,202,346,136,44,24,409,901,432,360,974,36,727,107,301,135,152,201,579,289,282,207,68,84,121,458,518,281,39,13,147,120,26,61,185,8,116,658,1012,341,97,28,3,12,251,450,420,157,138,79,292,205,478,407,591,394,69,167,52,47,199,256,958,355,1058,157,31,230,1013,150
+Voice	34,202,346,136,44,24,409,901,432,360,974,36,727,107,301,135,152,201,579,289,282,207,68,84,121,458,518,281,39,13,147,120,26,61,185,8,116,658,1012,341,97,28,3,12,251,450,420,157,138,79,292,205,478,407,591,394,69,167,52,47,199,256,958,355,1058,157,31,230,1013,150,304
 Voice ARPU	4864
 Voice Bundles Data Bundles	19728
 Voice Call Traffic	2775
@@ -1992,7 +2000,7 @@ Voice of Africa Radio	19641
 Voice of America	11868,359,7409
 Voice of Global South Summit	11579,1983,1557,1156,2,8,364,591,1,1137
 Voice of Life FM	19641
-Voice of Nigeria	7141,3,1974,386
+Voice of Nigeria	7141,3,1974,386,10622,13
 Voice of Nigeria Federal Government of Nigeria United	11129
 Voice of Our People	14747
 Voice of South Summit	11579
@@ -2133,7 +2141,7 @@ Volpicelli	17780
 Vols Négatif Phase	14488,1,1
 Volt Ampere	18103
 Volt Typhoon	11342
-Volta	236,2540,4681,238,675,7060,368,399,42,91,16,165,13,62,10,3344
+Volta	236,2540,4681,238,675,7060,368,399,42,91,16,165,13,62,10,3344,242
 Volta Aluminium Company Limited	16511
 Volta Economic Corridor	16596
 Volta Impex	16649
@@ -2151,7 +2159,7 @@ Volta Serene Hotel	11038
 Volta and Eastern Regions	7695
 Volta and Oti	16346
 Volta and Oti Regions	5999,393,9954,178
-Voltage	9123,2939,171,23,143,2468,2099,496,724,31
+Voltage	9123,2939,171,23,143,2468,2099,496,724,31,2006
 Voltage Control	12233
 Voltage Direct Current	11923
 Voltage Flicker	14867
@@ -2356,17 +2364,18 @@ Voter Database Registration	15393
 Voter Database. Law	15393
 Voter Database. Nevertheless	15393
 Voter Education	7266,4935
-Voter ID	1367,9398,10,7695,1465
+Voter ID	1367,9398,10,7695,1465,286
 Voter ID Card	19935,1
 Voter ID Card No N	10714
 Voter IDs	12404
 Voter Identification Number	18459
 Voter Identification and Registration Law No	11864
-Voter List	12371
+Voter List	12371,7850
 Voter Portal	7266
 Voter Register	18474
 Voter Register Under Pressure	17654
 Voter Register. Colley	9314
+Voter Register. Through	20221
 Voter Registration	2775,7241,1,697,1487,87,127,833,5283
 Voter Registration Act	13248
 Voter Registration Act. The Commission	13248
@@ -2376,6 +2385,7 @@ Voter Registration Data Extraction	18531
 Voter Registration Data Extraction ECSL	18531
 Voter Registration Data Extraction Options	18531
 Voter Registration Data Voter	10714
+Voter Registration Database	20221
 Voter Registration Exercise	18531
 Voter Registration Kit	12350
 Voter Registration Law	12845
@@ -2390,6 +2400,7 @@ Voter Registration Regulations	17296
 Voter Registration Regulations 20221007.pdf	16943
 Voter Registration Roadmap	18531
 Voter Registration Strategy	12756
+Voter Registration System	20221
 Voter Registration Task	18449
 Voter Registration UNDP Sierra Leone Freetown	18531
 Voter Registration Weekend	8558
@@ -2403,6 +2414,8 @@ Voter's Registers	19805
 VoterEducation	13239
 VoterPortal. Once	7266
 Voters	1630,219,1960,5038,1202,13,1802,337,136,1261,2329,2532,72
+Voters ID	20221
+Voters List	20221
 Voters Periods	13418
 Voters and Members	1630
 Voters' Register	19737

@@ -153,7 +153,7 @@ Commissioner General and Delegation	17064
 Communication Bill. Delivering	7650
 Communications Officers Equipped for Service Delivery	19794
 Compact Delivery Monitoring Unit	12595
-Compact Delivery and Monitoring Unit	12717,3320,151,778,1829
+Compact Delivery and Monitoring Unit	12717,3320,151,778,1829,1428
 Compact Delivery and Monitoring Unit CPR Compact	16188
 Compatible Service Delivery and Utilization	16885
 Completed Completed Delayed Delayed	2989
@@ -493,7 +493,7 @@ Delegated Legislation. Following	6946
 Delegated Minister	19284
 Delegates	1154,400,1233,1951,420,443,226,283,1583,186,4,827,3,684,1888,1739,527,82,3,504,890,901,2592
 Delegating	6512
-Delegation	970,3587,847,1339,795,3035,604,108,4,259,303,85,40,650,264,5,4,17,240,5,9,45,27,45,18,66,47,148,481,102,266,7,71,82,55,97,8,33,56,1077,374,10,558,44,360,50,637,521,12,42,47,332,39,148,81,17,342,1,9,1,12,92
+Delegation	970,3587,847,1339,795,3035,604,108,4,259,303,85,40,650,264,5,4,17,240,5,9,45,27,45,18,66,47,148,481,102,266,7,71,82,55,97,8,33,56,1077,374,10,558,44,360,50,637,521,12,42,47,332,39,148,81,17,342,1,9,1,12,92,588
 Delegation Delegation	13418
 Delegation Members of Parliament	11285
 Delegation Part IV	12900
@@ -548,7 +548,7 @@ Delgado Teixeira A Proposta de Lei da Cibersegurança	9258
 Delgado Valige Tauabo Nampula Eduardo Mariano	12201
 Delgermaa Enkhtsogt	18931
 Delgro	163
-Delhi	2518,149,124,13,2225,15,51,27,94,41,795,640,174,172,327,1,615,648,81,1039,767,248,80,2,225,112,163,217,16,203,287,548,362,187,395,1,182,47,92,468,478,391,237,219,488,73,3,16,19,2,8,46,318,591,1,382,120,273,107,6,91,1,157,165,20,87,8,33,166,100,103,3,1,134,336
+Delhi	2518,149,124,13,2225,15,51,27,94,41,795,640,174,172,327,1,615,648,81,1039,767,248,80,2,225,112,163,217,16,203,287,548,362,187,395,1,182,47,92,468,478,391,237,219,488,73,3,16,19,2,8,46,318,591,1,382,120,273,107,6,91,1,157,165,20,87,8,33,166,100,103,3,1,134,336,591
 Delhi Bilateral Agreements	16331
 Delhi Declaration	7548
 Delhi IAFS-III. Visit	18220
@@ -584,7 +584,7 @@ Deliberates	18984
 Deliberation	12201,6092
 Deliberation N	12201
 Deliberations	1637,9370,186,896,3019,285,80
-Deliberative	3714,7045,76,2,1,130,38,864,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Deliberative	3714,7045,76,2,1,130,38,864,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 Deliberative Polling	11006
 Deliberação	10442,8310
 Deliberação ARN	11569
@@ -693,11 +693,11 @@ Deliverance Church Kiserian Data Controller INST-533250540CE	7167
 Deliverance Church Nakuru Life Celebration Center	7167
 Deliverance Church Ngong Data Controller INST-3301668CC89	7167
 Deliverance Church Olmoran CDC Data Processor	7167
-Delivered	861,872,546,28,1788,24,2363,722,938,1991,514,484,873,441,4,176,470,297,120,232,472,810,1118,699,1319,1498,3,65
+Delivered	861,872,546,28,1788,24,2363,722,938,1991,514,484,873,441,4,176,470,297,120,232,472,810,1118,699,1319,1498,3,65,348
 Delivered Countrywide Couriers	9781
 Delivered Daily	15255
 Deliveries	1988,787,1905,5523,6768,1192,1121,260
-Delivering	1870,223,266,625,165,338,96,199,320,180,371,85,277,262,274,28,429,43,239,218,31,223,145,605,33,60,54,61,154,89,158,165,49,8,20,42,305,367,38,67,56,211,292,25,37,49,156,241,114,281,394,206,653,228,241,186,14,22,20,11,56,91,209,269,152,65,51,465,376,26,344,29,389,42,62,52,361,322,263,618,23,172,13,8,29,61,64,105,34,9,789,43,90,48,125,18,20,14,3,3,136,1291
+Delivering	1870,223,266,625,165,338,96,199,320,180,371,85,277,262,274,28,429,43,239,218,31,223,145,605,33,60,54,61,154,89,158,165,49,8,20,42,305,367,38,67,56,211,292,25,37,49,156,241,114,281,394,206,653,228,241,186,14,22,20,11,56,91,209,269,152,65,51,465,376,26,344,29,389,42,62,52,361,322,263,618,23,172,13,8,29,61,64,105,34,9,789,43,90,48,125,18,20,14,3,3,136,1291,124
 Delivering A People-Centered Development	14674
 Delivering At Health Facilities	19544
 Delivering Education System Transformation	12175
@@ -721,7 +721,7 @@ Delivering the Minister	10585
 Delivering the Minister of Education and Training	13204
 Deliveroo and Air France. The Government	3394
 Delivers	973,493,2374,2211,3701,7347,15,2584
-Delivery	395,23,552,848,1171,725,1613,1505,114,235,467,340,766,876,225,130,125,238,415,5,44,17,57,243,5,6,41,214,191,269,2,40,14,30,45,374,4,143,221,170,14,50,43,180,207,12,391,751,321,30,28,40,6,48,12,33,74,26,83,306,51,54,486,122,170,262,84,50,29,41,20,4,17,28,99,69,199,766,355,35,62,88,344,53,474,56,14,18,191
+Delivery	395,23,552,848,1171,725,1613,1505,114,235,467,340,766,876,225,130,125,238,415,5,44,17,57,243,5,6,41,214,191,269,2,40,14,30,45,374,4,143,221,170,14,50,43,180,207,12,391,751,321,30,28,40,6,48,12,33,74,26,83,306,51,54,486,122,170,262,84,50,29,41,20,4,17,28,99,69,199,766,355,35,62,88,344,53,474,56,14,18,191,362,26,38
 Delivery Architecture	7548
 Delivery Audit Trails	9855
 Delivery Book	19783
@@ -763,7 +763,7 @@ Delivery Satisfaction Index	12512
 Delivery Schedules	13185
 Delivery Services	13454,1793,4285
 Delivery Standards	17180
-Delivery System	4091
+Delivery System	4091,16065
 Delivery System Strengthening and Project Management	11988
 Delivery Systems	11133,3686,319
 Delivery Systems Introduce	14819
@@ -889,7 +889,7 @@ Delve	16787
 Delve Country Profile	2889
 Dely Ibrahim	15608
 Del’objet	13467
-Democratic Elections Deliberative	10759,78,1315,188,7598
+Democratic Elections Deliberative	10759,78,1315,188,7598,274
 Description Delivers	262
 Despite Delta	11998
 Destination Earliest Delivery Latest Delivery Bidder	13185
@@ -898,6 +898,7 @@ Development Goal SDI Service Delivery Indicator	11560
 Development Partners. Delivering	16101
 Development Technology and Delivery Plan	7548
 Digital Cash Transfer Delivery World Bank	971
+Digital Delivered Services	20224
 Digital Delivery Component World Bank Group	790
 Digital Delivery and Logistics By Fiona Luboga	19800
 Digital Delta	4078
@@ -1007,7 +1008,7 @@ Eswatini Delegation Returns	12433,529
 Ethiopia EU Delegation	14028
 Ethiopia. Delivers	2162
 European Delegation European Union	16853
-European Union Delegation	970,3132,137,6602,463,681,771,400,486,9,287,90,2343,713,222,1394,209,234,391
+European Union Delegation	970,3132,137,6602,463,681,771,400,486,9,287,90,2343,713,222,1394,209,234,391,534,150
 European Union Delegation. Key	13080
 Evidence-Based and Consultative Process Delivering	8367
 Expected Deliverables	9203,2666
@@ -1368,6 +1369,7 @@ NUMBERS OF EXPRESS DELIVERY SERVICES	11211,51
 Nacional Adjunto Grupo B Delegado Grupo	4209
 Nation COMMUNICATION Culture DELINQUANCE FAUNIQUE Diplomatie	15975
 National AI Delivery Architecture	7548
+National AI Delivery Framework	20182
 National AI Delivery Plan	7548
 National AI Strategic and AI Delivery Unit	14674
 National Fintech Delivery Dashboard	14819
@@ -1484,7 +1486,7 @@ Power Delivery	15659
 Presidencial Delegado Adjunto Gobierno Delegado Provincial	4209
 President's Delivery Unit	3237,2238,4652
 Presidential Clean Cooking Delivery Unit	18537
-Presidential Delivery Unit	3239,2008,253,701,1231,5024,928,19,70,39,9,86
+Presidential Delivery Unit	3239,2008,253,701,1231,5024,928,19,70,39,9,86,6463
 Presidential Delivery Unit Head Ms. Kusobile	6201
 Press Releases THE SPEECH WAS DELIVERED	18263
 Priority Delivery Actions	15059
@@ -1498,6 +1500,7 @@ Profanity Delay Mechanism	6946
 Professional Training Deliver	13077
 Professor Jonathan Tsetimi of Delta State University	8710
 Program Key Deliverables	4528
+Program. Delivered	20100
 Programme The World Bank Service Delivery	15731
 Programs and Delivery	16902
 Project Delays	17114

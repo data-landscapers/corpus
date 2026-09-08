@@ -27,6 +27,7 @@ African Monetary	4103
 African Monetary Cooperation Programme	4103
 African Monetary Institute	4103
 African Monetary Integration and Financial Sovereignty	4103
+Africell Money and QMoney	20195
 Afrimoney and Orange Money	5939
 Afrique CEMAC Central African Economic and Monetary	10841
 Afrique CPIPP DGE Centrale Economic and Monetary	15372
@@ -48,7 +49,7 @@ Airtel Mobile Money Rwanda	921
 Airtel Mobile Money Tanzania	2226
 Airtel Mobile Money Uganda	922
 Airtel Mobile Money Zambia	923
-Airtel Money	914,1,1,1,1,1,1,1,1,1,782,154,577,575,24,586,322,858,250,423,441,894,137,440,1,1,36,167,72,279,66,41,133,41,312,88,104,1,25,89,30,328,345,193,21,140,313,629,1109,10,34,80,1203,200,882,118,70,130,292,1640,2459,4,906
+Airtel Money	914,1,1,1,1,1,1,1,1,1,782,154,577,575,24,586,322,858,250,423,441,894,137,440,1,1,36,167,72,279,66,41,133,41,312,88,104,1,25,89,30,328,345,193,21,140,313,629,1109,10,34,80,1203,200,882,118,70,130,292,1640,2459,4,906,136,3
 Airtel Money Africa	7387
 Airtel Money Business Wallet	8728
 Airtel Money Commerce Uganda Limited	9899
@@ -72,6 +73,7 @@ Airtel Money and PayPal	15447
 Airtel Money and Safaricom M-Pesa	6409
 Airtel Money and T-Kash	4801
 Airtel Money and TNM Mpamba	2728,11946
+Airtel Money and Zamtel Money. Mobile-money	20133
 Airtel Money's Mbanking	7386
 Airtel Money. Annual IPO	8049
 Airtel Money. Instead	8535
@@ -219,6 +221,7 @@ Data Boom and Airtel Money Surge Author	7663
 Datasets Monetary and Financial Statistics External Sector	14777
 Day Accounts Registered Mobile Money Accounts	19728
 Day Mobile Money Subscriptions	19728
+DebtBusters Money-Stress Tracker	20204
 Dedicated Electronic Money Issuer	7325,12615
 Dedicated Electronic Money Issuers	19940,28
 Deposit Money Banks	3491,3207,237
@@ -421,7 +424,7 @@ Intergovernmental Action Group Against Money Laundering	17235
 Interim Financial Reports IMF International Monetary	18293
 Intermediated Money Transfer Tax	9904
 International Growth Centre IMF International Monetary	15023
-International Monetary Fund	1155,129,544,57,1693,5,21,6,43,474,917,97,106,1091,600,304,223,113,26,33,116,70,166,21,251,97,68,289,303,212,198,31,31,21,59,169,464,216,324,98,128,28,134,3,2,4,9,44,2,63,28,94,145,11,13,23,312,11,10,19,23,47,133,32,3,14,29,150,21,9,10,92,13,338,84,26,8,6,82,11,5,62,210,292,117,127,140,538,192,6,30,3,96,56,3,97,212,131,99,2,5,2,11,27,35,105,1,2,64,65,243,111,45,275,369,109,7,6,5,36,15,26,67,1,88,16,26,22,59,1,9,13,25,57,82,165,202,39,81,73,230,25,170,19,5,65,220,26,2,26,247,147,357,51,170,3,10,11,8,7,3,107,6,17
+International Monetary Fund	1155,129,544,57,1693,5,21,6,43,474,917,97,106,1091,600,304,223,113,26,33,116,70,166,21,251,97,68,289,303,212,198,31,31,21,59,169,464,216,324,98,128,28,134,3,2,4,9,44,2,63,28,94,145,11,13,23,312,11,10,19,23,47,133,32,3,14,29,150,21,9,10,92,13,338,84,26,8,6,82,11,5,62,210,292,117,127,140,538,192,6,30,3,96,56,3,97,212,131,99,2,5,2,11,27,35,105,1,2,64,65,243,111,45,275,369,109,7,6,5,36,15,26,67,1,88,16,26,22,59,1,9,13,25,57,82,165,202,39,81,73,230,25,170,19,5,65,220,26,2,26,247,147,357,51,170,3,10,11,8,7,3,107,6,17,66,72
 International Monetary Fund About the Global Innovation	11895,264
 International Monetary Fund BURUNDI SELECTED ISSUES	13624
 International Monetary Fund Code	11895
@@ -436,7 +439,7 @@ International Monetary Fund IMR	16951
 International Monetary Fund IOT Input Output	19519
 International Monetary Fund IP Internet Protocol	12663
 International Monetary Fund IPC	14857
-International Monetary Fund IPU Inter-Parliamentary Union	10759,78,1052,451,7598
+International Monetary Fund IPU Inter-Parliamentary Union	10759,78,1052,451,7598,274
 International Monetary Fund IQR Interquartile Range	11258
 International Monetary Fund IRI Intermediate Results	11924
 International Monetary Fund KPI	16968
@@ -812,7 +815,7 @@ Monetizing Remediation	5574
 Monetária	11542,13
 Monetária Oeste Africana	11568,5710
 Monetária Oeste Africana. Este	17046
-Money	38,380,855,1,1,270,1,210,1,1,1,1,1,1,1,1,1,331,370,1,1,1,1,1,304,365,1,1,1,1,1,1,1,1,566,452,1,35,15,43,41,48,53,153,14,1,1,1,1,1,28,1267,392,411,240,1,1,1,1,1,1,1,1,18,9,444,33,44,55,275,141,96,2,445,245,309,7,108,355,64,333,174,478,137,26,50,7,190,169,82,639,554,133,340,506,2,30,54,58,34,372,790,257,38,457,421,1213,95,26,25,56,105,82,294,1224,984
+Money	38,380,855,1,1,270,1,210,1,1,1,1,1,1,1,1,1,331,370,1,1,1,1,1,304,365,1,1,1,1,1,1,1,1,566,452,1,35,15,43,41,48,53,153,14,1,1,1,1,1,28,1267,392,411,240,1,1,1,1,1,1,1,1,18,9,444,33,44,55,275,141,96,2,445,245,309,7,108,355,64,333,174,478,137,26,50,7,190,169,82,639,554,133,340,506,2,30,54,58,34,372,790,257,38,457,421,1213,95,26,25,56,105,82,294,1224,984,63,136
 Money Accounts	1828
 Money Bills Amendment Procedure and Related Matters	11230,59
 Money Bills and Related Matters Act	11289
@@ -875,7 +878,7 @@ Money-go-round	19654
 Money-saving	18951
 Money. Unpublished	6947
 MoneyFellows	4324
-MoneyGram	2368,409,9297,1314,2,2103,103
+MoneyGram	2368,409,9297,1314,2,2103,103,4561
 MoneyGram. Connaissez-vous	13390
 MoneyGram. Recomendações	6367
 MoneyPoint	11121
@@ -895,7 +898,7 @@ Moneyweb RFI4. X Corp	13461
 Moneyweb and Daily Maverick	13461
 Moov Africa Mobile Money	836
 Moov Africa Mobile Money Platform Investment	836
-Moov Money	2261,504,1418,868,516,667,891,1098,977,773,850,5367,1360,528,990,4,72
+Moov Money	2261,504,1418,868,516,667,891,1098,977,773,850,5367,1360,528,990,4,72,970
 Moov Money Mali	5760
 Moov Money Mastercard	4183
 Moov Money Tchad	8223
@@ -934,7 +937,7 @@ Offence of Money Laundering	18599
 Ooredoo Money	19446
 Orange Mali. Any Orange Money	17870
 Orange Mobile Money	11651
-Orange Money	1142,1072,98,210,435,26,27,250,390,500,111,24,388,22,629,63,180,10,37,52,129,114,76,909,212,124,39,55,406,47,346,59,295,847,987,33,1307,299,10,34,1458,1025,200,797,6,62,394,552,4,507,544,327,36,172,1613,314
+Orange Money	1142,1072,98,210,435,26,27,250,390,500,111,24,388,22,629,63,180,10,37,52,129,114,76,909,212,124,39,55,406,47,346,59,295,847,987,33,1307,299,10,34,1458,1025,200,797,6,62,394,552,4,507,544,327,36,172,1613,314,190
 Orange Money Bangui	16488
 Orange Money Botswana	19650
 Orange Money Burkina Faso	2522,461
@@ -991,6 +994,7 @@ PONTO MONETÁRIO	11582
 POS ATMS MOBILE MONEY INTERNET	4517
 PROVISION OF MOBILE MONEY	16842
 PUBLIC MONEYS AND PUBLIC PROPERTY	13097
+PUTTING MONEY BACK IN THE POCKETS	20182
 Palestine Monetary Authority	940
 Paositra Money. Afin	14436
 Penalties for Acts of Money Laundering. CHAPTER IV	18599
@@ -1010,6 +1014,7 @@ Prohibition and Prevention of Money Act No	13403
 Prohibition and Prevention of Money Laundering Act	13566
 Projecto de Transferência Monetária	10763
 Province Western Money RIA Union	13390
+Provision of Mobile Money Services	20224
 Public Finance and Monetary Statistics	17149
 Public Money	2093,3
 Purpose Bound Money	19940
@@ -1083,6 +1088,7 @@ Security Risk Management Guidelines for Monetary Transfer	17906
 Selected Issues Papers. International Monetary Fund	1828
 Selected Monetary Indicators	2775
 Selon Moov Money	3361
+Send Money Africa	20157
 Service Provider Global Money Week Insurance	940
 Seul Moov Money	3361
 Sistema Integrado de Gestão Monetária	17032
@@ -1184,7 +1190,7 @@ West African Monetary Union	6938,1135,11292
 West African Monetary Union’s Council	8275
 West African Monetary Zone	999,47,218,9144,2980,3456,391,1265,1338
 Western African Economic and Monetary Union	17870
-Western Union and MoneyGram	11169,791
+Western Union and MoneyGram	11169,791,8197
 Western Union and MoneyGram.28 Micro Finance Institutions	13388
 Western Union and Moneygram	18770
 Working Digital Money	226

@@ -300,7 +300,7 @@ Computech Limited Data Processor INST-933817C4FDC NAIROBI	7167
 Computeconfusionmatrixentries	8606
 Computed	11907,1016,426
 Computed Value Method Method	11036
-Computer	26,8,192,10,346,155,46,217,154,939,3,5521,405,1594,276,1087,216,667,17,39,37,25,252,46,20,35,28,22,20,42,14,69,410,39,76,303,319,288,9,774,90,15,70,225,60,166,2,106,73,1319,28,24,39,201,273,485,383,152,28,190,7,205,33,30,634,57,61,13,86
+Computer	26,8,192,10,346,155,46,217,154,939,3,5521,405,1594,276,1087,216,667,17,39,37,25,252,46,20,35,28,22,20,42,14,69,410,39,76,303,319,288,9,774,90,15,70,225,60,166,2,106,73,1319,28,24,39,201,273,485,383,152,28,190,7,205,33,30,634,57,61,13,86,423
 Computer Aaud. Identiry	18457
 Computer Aided Personal Interview	12409
 Computer Application	13972
@@ -372,7 +372,7 @@ Computer Few	19702
 Computer Hardware	19690
 Computer Hardware and Networking Technology	14147
 Computer Incidence Response Team	958
-Computer Incident Response Team	4693,10,61,2081,2588,1701,1261,58,1986,102,3,79,3122
+Computer Incident Response Team	4693,10,61,2081,2588,1701,1261,58,1986,102,3,79,3122,2347
 Computer Incident Response Team CLS	18485
 Computer Incident Response Team CMIL	14438
 Computer Incident Response Teams	11920,5825
@@ -441,6 +441,7 @@ Computer Security Incident Response Team CSR	16975
 Computer Security Incident Response Team ESCP	16144
 Computer Security Incident Response Team-CSIRT	15504
 Computer Security Incident Response Teams	5677,1259,1961,573,1219,4799,656
+Computer Security and Incident Response Team	20224
 Computer Servecs Devices	19532
 Computer Skills Course	17369
 Computer Society of Zimbabwe	4528,7984
@@ -462,6 +463,7 @@ Computer Vision	2816,9696
 Computer Vision Robotic Process Automation	4528
 Computer Weekly and Submarine Networks	1991
 Computer X X	236
+Computer and Computer Related Crime	20224
 Computer and Information Sciences	19868
 Computer and Telecommunications Engineering	9128
 Computer for Pedagogy Table	18460
@@ -504,12 +506,12 @@ Computerized Paper-based5	16631
 Computerized School Selection and Placement System CENDLOS	15796
 Computerized Transit System	13042
 Computerizing VAT	12948
-Computers	236,346,7440,438,146,234,288,488,1143,76,2,1,74,56,584,204,114,16,1,1,1,91,110,62,1,1,9,177,1,11,1,135,2248,115,70,93,1862,94,1250,221,74,49,1069,6,13,1,1,48,99,21,14,22,1,28,37,9,5,1,48
+Computers	236,346,7440,438,146,234,288,488,1143,76,2,1,74,56,584,204,114,16,1,1,1,91,110,62,1,1,9,177,1,11,1,135,2248,115,70,93,1862,94,1250,221,74,49,1069,6,13,1,1,48,99,21,14,22,1,28,37,9,5,1,48,225
 Computers Conference	9237
 Computers For Zambian Schools	13637
 Computers Not Not Monitoring Monitoring Monitoring	19576
 Computers Public Perception of Accountability	10835,3,130,902,16,466,1,135,7334
-Computers Shipping	10759,78,1315,188,7598
+Computers Shipping	10759,78,1315,188,7598,274
 Computers and Accessories	12962
 Computers and Education	11879
 Computers and Internet	19639
@@ -786,7 +788,7 @@ Lesotho. Procedia Computer Science	8605
 Liberia Computer Emergency Response Team	4583
 Location of Computer Facilities	12364
 Location of Computer Facilities Any	12364
-Location of Computing Facilities	15641
+Location of Computing Facilities	15641,4583
 M Compulsory Briefing Session Meeting Registration	11240
 MCWBE Computerisation	2641,2996
 MESD Computerisation	1664
@@ -872,6 +874,7 @@ National Computer and Cybercrime Coordination Committee	7481,3139
 National Computer and Cybercrimes Co-or	17745
 National Computer and Cybercrimes Co-ordination Committee	6787,5445,5513
 National Computer and Cybercrimes Coordination Committee	17566,92,88
+National Computerized System for Certification	20172
 National Data Centers and HighPerformance Computing	16212
 National Data Park and Compute Infrastructure	10157
 National Data and Cloud Computing Policy	7510
@@ -944,6 +947,7 @@ Química Computacional. Trabalhos	2741
 R Foundation for Statistical Computing	12003
 REVISED COMPULSORY STANDARDS	19551
 REview. Comput Inf Nurs	1219
+Rashid Tanko Computer	20124,22
 Recognized Cloud Computing Service Models and Deployment	16923
 Redes de Computadores	12019,5585,1170
 Region Computer Use Mobile Phone Use	18441

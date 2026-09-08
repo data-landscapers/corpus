@@ -53,7 +53,7 @@ Fundo SALTO	16067
 Fundo SALTO and Fundo de Inovação Digital	20035
 Fundo Soberano	2816,9980
 Fundo Soberano de Emergência	15526
-Fundo Soberano de Garantia	1265
+Fundo Soberano de Garantia	1265,18844
 Fundo Social	15694
 Fundo Verde	15996,2764
 Fundo da Acção Social	10775
@@ -83,7 +83,7 @@ Fundo de Serviço Universal	1251,88,743,2330
 Fundo de Serviço de Acesso Universal	2866
 Fundong	16534
 Fundons	16836
-Fundos	8200,7326,530,1044
+Fundos	8200,7326,530,1044,2988,21
 Fundos Autónomos	5462,10560,34,1044,1698,55
 Fundos Autónomos. II. Residência	18798
 Fundos Internacionais	11527
@@ -99,6 +99,7 @@ O Fundo	2866,843,13384,85
 O Fundo Mais	1265
 O Fundo Morabeza	3709
 O Fundo Nacional de Investigação	414
+O Fundo Soberano	20109
 O Fundo Soberano de Garantia de Investimento	15526
 O Fundo de Apoio	13,2
 O Fundo de Apoio Social	11378

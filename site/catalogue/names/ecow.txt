@@ -54,6 +54,7 @@ Directorates and Departments of ECOWAS Commission	9194
 Distribution of ECOWAS	16935
 EBLL Proposed ECOWAS	17235
 ECF Extended Credit Facility ECOWAS Economic	11549
+ECOREAP ECOWAS Regional Electricity Access Project	20223
 ECOWAN	238,16634,11,1,1,41,49
 ECOWAN ECOWAS Wide Area Infrastructure ECOWAS	18454
 ECOWAN Enhance	16884
@@ -61,7 +62,7 @@ ECOWAN Network	16885,38
 ECOWAN and NBN	16883
 ECOWAN the AfDB	16884
 ECOWAP	16627
-ECOWAS	7,19,1,1,524,193,44,18,154,58,142,16,2,64,21,13,54,25,279,20,122,37,95,408,45,48,371,13,9,36,165,85,3,34,301,44,133,20,54,43,38,64,30,6,66,177,47,219,26,121,67,1,118,37,89,17,4,80,217,65,34,107,11,1,32,5,179,1,96,5,101,180,29,12,60,289,51,19,49,109,14,105,239,379,135,424,45,44,107,450,10,264,321,77,144,131,83,84,36,259,16,126,84,1,104,98,148,1,17,46,72,149,26,3,13,3,61,10,3,237,368,7,11,1,12,4,56,255,23,3,126,112,915,803,293,95,92,109,245,450,234,11,50,6,61,59,71,107,97,54,265,57,42,349,2,3,79,29,63,62,13,29,2,2,7,1,1,3,20,16,2,1,8,1,7,6,2,21,3,35,1,7,59,28,9,2,1,21,1,13,22,13,34,7,7,22,3,17,10,10,26,1,28,1,14,13,52,313,47,70,8,13,53,155,34,73,22,65,89,70,10,1,16,33,19,8,11,4,4,5,5,3,696,106,570,8,7,7,9,21,3,11,3
+ECOWAS	7,19,1,1,524,193,44,18,154,58,142,16,2,64,21,13,54,25,279,20,122,37,95,408,45,48,371,13,9,36,165,85,3,34,301,44,133,20,54,43,38,64,30,6,66,177,47,219,26,121,67,1,118,37,89,17,4,80,217,65,34,107,11,1,32,5,179,1,96,5,101,180,29,12,60,289,51,19,49,109,14,105,239,379,135,424,45,44,107,450,10,264,321,77,144,131,83,84,36,259,16,126,84,1,104,98,148,1,17,46,72,149,26,3,13,3,61,10,3,237,368,7,11,1,12,4,56,255,23,3,126,112,915,803,293,95,92,109,245,450,234,11,50,6,61,59,71,107,97,54,265,57,42,349,2,3,79,29,63,62,13,29,2,2,7,1,1,3,20,16,2,1,8,1,7,6,2,21,3,35,1,7,59,28,9,2,1,21,1,13,22,13,34,7,7,22,3,17,10,10,26,1,28,1,14,13,52,313,47,70,8,13,53,155,34,73,22,65,89,70,10,1,16,33,19,8,11,4,4,5,5,3,696,106,570,8,7,7,9,21,3,11,3,208,1,7,1,3,4
 ECOWAS ADVANCES HARMONISATION OF THE REGIONAL	10509
 ECOWAS ADVANCES REGIONAL CYBERSECURITY COOPERATION THROUGH	9470
 ECOWAS AUTHORITY OF HEADS	4114,3338,11094,26
@@ -140,15 +141,20 @@ ECOWAS Countries	16935
 ECOWAS Countries and Percentage	16935
 ECOWAS Court	5215,21,1534
 ECOWAS Court of Justice	7458,3642,3248
+ECOWAS Customs Code	20224
 ECOWAS Customs Union	7452
 ECOWAS Cybersecurity Centre	16705
+ECOWAS D15	20213
+ECOWAS D20	20213
+ECOWAS D7	20213
 ECOWAS Data Protection Act	2456
-ECOWAS Data Protection Regulation	16924
+ECOWAS Data Protection Regulation	16924,3300
 ECOWAS Data Protection Regulations	16924
 ECOWAS Decision	7452
 ECOWAS Digital Agenda	5676
 ECOWAS Digital Observatory	16144
 ECOWAS Digital Sector Development Strategy	1909
+ECOWAS Digital Transformation Agenda	20221
 ECOWAS Directive	18446
 ECOWAS Director of Free Movement of Persons	17221
 ECOWAS Directorate	18374
@@ -160,7 +166,7 @@ ECOWAS E-commerce Strategy	16936
 ECOWAS EMIS	16927
 ECOWAS ESCP	1264
 ECOWAS EU Other Figure	16935
-ECOWAS Economic Community of West African States	1264,10288,8,1103,1771,4097
+ECOWAS Economic Community of West African States	1264,10288,8,1103,1771,4097,1692
 ECOWAS Engl	16594
 ECOWAS Exchange Rate Mechanism	17235
 ECOWAS Financing Agreement	16936
@@ -209,8 +215,9 @@ ECOWAS Mr Sediko DOUKA	17017
 ECOWAS Multilateral Surveillance Mechanism	7
 ECOWAS NATIONAL BIOMETRIC ID	17174
 ECOWAS National Biometric Cards	17221
-ECOWAS National Biometric Identity Card	4102,6807,1106,5159,47,2769
+ECOWAS National Biometric Identity Card	4102,6807,1106,5159,47,2769,231
 ECOWAS National Focal Points	10508
+ECOWAS National Identity Card	20238
 ECOWAS National Office	15879,1131
 ECOWAS National Offices	6422
 ECOWAS Nationals	17537
@@ -240,7 +247,7 @@ ECOWAS Regional	1264,5158
 ECOWAS Regional Biobank	16971
 ECOWAS Regional Centre for Surveillance and Disease Control	17688
 ECOWAS Regional Electricity Forum	16978
-ECOWAS Regional Electricity Regulatory Authority	16978
+ECOWAS Regional Electricity Regulatory Authority	16978,3245
 ECOWAS Regional Electricity Regulatory Authority ESI	16978
 ECOWAS Regional Food	6422
 ECOWAS Regional Infrastructure Development Master Plan	17862
@@ -300,6 +307,7 @@ ECOWAS and African Union	5782,4375
 ECOWAS and EAC	7921
 ECOWAS and EU	11548
 ECOWAS and East African Community	1264
+ECOWAS and International Civil Aviation Organisation	20238
 ECOWAS and Lusophone	11863
 ECOWAS and Lusophone Africa	11863
 ECOWAS and Non-National Identity Cards for Sierra Leoneans	18471
@@ -308,7 +316,7 @@ ECOWAS and SAA	1264
 ECOWAS and SADC	6471
 ECOWAS and Smart Africa Alliance	16936
 ECOWAS and Smart Africa Alliance. Confirmed	1277
-ECOWAS and Sub-Saharan African	16966
+ECOWAS and Sub-Saharan African	16966,3257
 ECOWAS and WAMZ	17138
 ECOWAS and West African Community	7452
 ECOWAS of People	16243
@@ -323,6 +331,7 @@ ECOWAS-facilitated	16144
 ECOWAS-led	18504
 ECOWAS-level	16144
 ECOWAS-logo	2317
+ECOWAS-ready	20221
 ECOWAS-region	1217
 ECOWAS-supported	18542
 ECOWAS-wide	4149
@@ -339,8 +348,10 @@ EMCP ECOWAS Monetary Cooperation Program EMDEs	17235
 EN ECOWAS Commission	15825
 ENG REGULATION ON ECOWAS Digital Sector Development	16594
 EOI ECOWAS Payment and Settlement System EPSS	17235
+ERERA ECOWAS Regional Electricity Regulatory Authority	20223
 ESCP. ECOWAS. Section I.B.1 of Schedule	1264
 EU and ECOWAS	17257
+Ecowas	20221
 Ecowas Bank For Investment and Development	17105
 Ecowas Wide Area Network ECOWAS Economic	16885
 Ecowas and Non-Ecowas	4778

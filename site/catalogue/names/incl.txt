@@ -431,7 +431,7 @@ Economic Inclusion of Youth	10964
 Economic Inclusion of Youth Beneficiaries	10964
 Economic Inclusion of Youth and Women	19284
 Economic Stabilisation and Inclusive Development	14674
-Economic and Financial Inclusion	18269
+Economic and Financial Inclusion	18269,1916
 Economist. Inclusive Internet Index	16144
 Economy Connectivity Inclusive	13080
 Edição Banco de Moçambique Gabinete de Inclusão Financeira	2138
@@ -549,7 +549,7 @@ Finance Inclusive PNUD Programme des Nations Unies	10965
 Finance Inclusive TEG Taux Effectif Global	10965
 Finance Inclusive. CAMEROUN	10965
 Financial Expanded Inclusion	14997
-Financial Inclusion	40,238,140,52,470,322,338,228,1517,788,33,264,418,954,3273,1766,1119,34,233,22,42,6,112,35,154,65,293,443,75,1200,145,78,68,32,26,107,499,1313,928,900,832,62
+Financial Inclusion	40,238,140,52,470,322,338,228,1517,788,33,264,418,954,3273,1766,1119,34,233,22,42,6,112,35,154,65,293,443,75,1200,145,78,68,32,26,107,499,1313,928,900,832,62,557
 Financial Inclusion AML Anti-Money Laundering API	15023
 Financial Inclusion Access	13347
 Financial Inclusion Accounts Project	17744
@@ -601,6 +601,7 @@ Financial Inclusion Strategy and Financial Literacy	19829
 Financial Inclusion Support	16049
 Financial Inclusion Support Project	416,15134
 Financial Inclusion Survey	18770
+Financial Inclusion System	20221
 Financial Inclusion Targets	940
 Financial Inclusion Targets Financial Inclusion Dimension	940
 Financial Inclusion Technical Committee	15130
@@ -635,6 +636,7 @@ Financial Literacy and Inclusion UMI Ultra Mikro	11994
 Financial Sector Development and Inclusion Council	12701
 Financial Services and Economic Inclusion Transformation	4528,7984
 Financial Stability and Financial Inclusion	4103,4928
+Financial and Economic Inclusion	20108
 Financing Inclusive Digital Transformation	11155
 Financing and Dates The Angola Growth and Inclusion	10779
 First Financial Inclusion Strategy	16145
@@ -679,6 +681,7 @@ GSMA Digital Inclusion Policy Brief	14674
 GSMA Inclusive E-Government Services	19966
 GSMA’s Inclusive Tech Lab	5820
 Gabinete de Inclusão Financeira	19014
+Gambia Inclusive and Resilient Agricultural Value Chain	20221
 Gambia. Digital Inclusion	16923
 Gas Delivery Services Availability of Financial Inclusion	15578
 Gates Foundation's Inclusive Financial Systems	12466
@@ -763,24 +766,24 @@ INCLUDING RESETTLEMENT FRAMEWORK	17114
 INCLUDING THE WORKFORCE The AI	9106
 INCLURE	4502,2877
 INCLUSIF Une	17896
-INCLUSION	1243,9516,76,2,1,74,56,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+INCLUSION	1243,9516,76,2,1,74,56,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225,9
 INCLUSION ANALYSIS OF DIGITAL INTERVENTIONS Increasing	12333
 INCLUSION AND ACCESSIBILITY The Consultant	17287
 INCLUSION AND LOCAL SOLUTIONS	11897
 INCLUSION AND THE FINTECH REVOLUTION. WASHINGTON	16991
-INCLUSION HUMAN DEVELOPMENT HEALTH Access	10837,1503,7598
+INCLUSION HUMAN DEVELOPMENT HEALTH Access	10837,1503,7598,274
 INCLUSION HUMAN DEVELOPMENT PARTICIPATION	10835,3,130,902,16,466,1,135,7334
 INCLUSION HUMAN DEVELOPMENT PARTICIPATION HEALTH Freedom	10835,3,130,902,16,466,1,135,7334
 INCLUSION NUMERIQUE	19417
 INCLUSION OF LIVELIHOOD AND FOOD SECURITY	16970
 INCLUSION OF WOMEN IN LIBERIA’S LOCAL	16970
-INCLUSION OVERALL GOVERNANCE	10837,1503,7598
+INCLUSION OVERALL GOVERNANCE	10837,1503,7598,274
 INCLUSION OVERALL GOVERNANCE Participation SECURITY	10835,3,130,902,16,466,1,135,7334
 INCLUSION PARTICIPATION	10759
-INCLUSION PARTICIPATION Freedom of Association	10759,78,1052,451,7598
+INCLUSION PARTICIPATION Freedom of Association	10759,78,1052,451,7598,274
 INCLUSION PROJECT	10964,4818
 INCLUSION Participation	10759,1395,187
-INCLUSION Rights	10837,1052,263,11,177,7313,285
+INCLUSION Rights	10837,1052,263,11,177,7313,285,274
 INCLUSION SCORE	10759,76,3,130,902,16,466,1,135,7334
 INCLUSIVE	14675,2267,31
 INCLUSIVE AND SUSTAINABLE FINANCE Ensuring FinTech	12444
@@ -845,6 +848,7 @@ Include FISIM	14777
 Include Ghana Post Utility Services. Improve	15867
 Include IPF IDA	16032
 Include Indicators	11525,330,7980
+Include MoCDE	20221
 Include OT-specific	19801
 Include Open Data Framework and Data	4126
 Include Policy and Planning	16971
@@ -888,6 +892,7 @@ Includes USD50	9806
 Includes Xtratime	10793
 Includes the Single External Trade System	11891
 Including	47,1217,621,1698,718,129,302,4050,1588,351,42,214,182,310,103,333,19,82,84,111,199,637,47,11,236,54,374,806,109,86,20,45,87,11,12,62,167,247,13,87,2,40,51,239,1,2,471,284,64,111,57,83,129,54,158,668,898,978,165,8
+Including Africa CDC and ASLM	20163
 Including CSOs	12333
 Including Contingencies	15411
 Including Employees	11218
@@ -919,7 +924,7 @@ Inclusao Social	11855
 Incluse	10876
 InclusiFI	789
 Inclusif	7621,8505,2281
-Inclusion	312,106,134,91,123,133,41,21,120,136,47,20,47,483,14,99,348,42,125,35,304,176,143,159,168,10,50,117,1,45,202,13,261,211,212,6,70,169,214,83,130,20,216,28,94,98,375,39,321,4,84,332,105,9,3,469,130,215,27,260,61,226,117,174,184,79,587,10,53,314,44,38,770,14,38,60,3,7,6,2,1,38,33,5,54,38,11,176,290,372,15,16,1,1,1,8,47,27,35,146,1,1,9,47,4,22,5,16,34,42,7,1,11,1,13,13,32,77,187,17,279,6,10,18,11,64,15,165,71,1,58,52,247,152,90,165,328,1,4,9,1,148,35,44,8,213,10,100,118,15,94,294,32,3,37,39,10,96,75,126,47,29,25,66,281,52,59,39,12,34,10,51,33,62,131,5,15,55,10,23,36,85,3,2,4,69,65,105,104,33,24,21,58,87,72,3,90,43,3,65,24,61,164,5,89,29,27,13,102,22,260,66,179,26,109,121,1,12,27,66,10,57,115,43,77,1,75,55,39,14,11,11,1,1,42,22,14,1,2,46,3,51
+Inclusion	312,106,134,91,123,133,41,21,120,136,47,20,47,483,14,99,348,42,125,35,304,176,143,159,168,10,50,117,1,45,202,13,261,211,212,6,70,169,214,83,130,20,216,28,94,98,375,39,321,4,84,332,105,9,3,469,130,215,27,260,61,226,117,174,184,79,587,10,53,314,44,38,770,14,38,60,3,7,6,2,1,38,33,5,54,38,11,176,290,372,15,16,1,1,1,8,47,27,35,146,1,1,9,47,4,22,5,16,34,42,7,1,11,1,13,13,32,77,187,17,279,6,10,18,11,64,15,165,71,1,58,52,247,152,90,165,328,1,4,9,1,148,35,44,8,213,10,100,118,15,94,294,32,3,37,39,10,96,75,126,47,29,25,66,281,52,59,39,12,34,10,51,33,62,131,5,15,55,10,23,36,85,3,2,4,69,65,105,104,33,24,21,58,87,72,3,90,43,3,65,24,61,164,5,89,29,27,13,102,22,260,66,179,26,109,121,1,12,27,66,10,57,115,43,77,1,75,55,39,14,11,11,1,1,42,22,14,1,2,46,3,51,74,97,9,12
 Inclusion API	14997
 Inclusion Access	13042
 Inclusion Africa	7283
@@ -966,7 +971,7 @@ Inclusion PILLAR	4126
 Inclusion PISP Social and Productive Inclusion Program	16187
 Inclusion POLICY AND REGULATION	16942
 Inclusion Participation	10835,3,130,902,16,466,1,135,7334
-Inclusion Participation Rights Inclusion	10837,1315,188,7598
+Inclusion Participation Rights Inclusion	10837,1315,188,7598,274
 Inclusion Phone	418
 Inclusion Pillar Infrastructure Platform Objectives	15480
 Inclusion Plan de Développement du Secteur	14622
@@ -1154,7 +1159,7 @@ Inclusive Green Finance	18770
 Inclusive Green Finance Table	18770
 Inclusive Green Finances	18770
 Inclusive Green Transition	10985
-Inclusive Growth	165,805,2616,6086,1292,6009
+Inclusive Growth	165,805,2616,6086,1292,6009,3135
 Inclusive Growth Baboucarr Foon Beaulah Nengomasha	16973
 Inclusive Growth Clusters. Financial	16973
 Inclusive Growth Development Policy Operation	16960
@@ -1284,7 +1289,7 @@ Inclusión Social	1701,15192
 Incluso	11820
 Inclusão	1770,848,3045,5103,17,325,274,31,48,70,31,535,2103,113,1124,247,5,5,444,49,2576,16,5,4,157,1,68
 Inclusão Assegurar	18853
-Inclusão Digital	2816,6743,7534
+Inclusão Digital	2816,6743,7534,2965
 Inclusão Educativa	15694
 Inclusão Financeira	2138,8637,651,7588
 Inclusão Financeira Av	2138
@@ -1605,10 +1610,10 @@ Proyecto de Educación Inclusiva	4209
 Proyecto de Implementación de Educación Inclusiva	4209
 Public Debt. Included	14546
 Public Perception of Freedom of Speech Inclusion	10759,1130,265,9,178,7312
-Public Perception of Inclusion	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Public Perception of Inclusion	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 Public Privé Hypothèse Incluant	19221
 Public Procurement Specialized Oversight Authority Inclusive	7548
-Public Services Public Perception of Inclusion	10759,78,1315,188,7598
+Public Services Public Perception of Inclusion	10759,78,1315,188,7598,274
 Pursue CBE Financial Inclusion	11131
 PçcãDo da Estratégia de Inclusão	15694
 Q3 Include	17157
@@ -1678,6 +1683,8 @@ SDGs Social Inclusion	11332
 SGRHFP SEPC Secretária de Estado da Inclusão Social	15694
 SLE. Includes	1143,405
 SMART Office System Include	3088
+SMEs and Digital Inclusion	20224
+SMEs and Digital Inclusion Digital	20224
 SOCIAL INCLUSION AND PROTECTION	16887
 SOCIAL INCLUSION AND PROTECTION AND DISCRIMINATION	16887
 SOCIAL INCLUSION PROJECT	11855
@@ -1790,7 +1797,7 @@ Sustainable and Inclusive Economic Growth	12444
 Sustainable and Inclusive Growth	14017
 Sustainable and Inclusive Industrialisation	10321
 THROUGH INCLUSION IN ETHIOPIA'S NATIONAL DIGITAL	12257
-TRANSPARENCY ANTI-CORRUPTION RIGHTS INCLUSION	10837,1503,7598
+TRANSPARENCY ANTI-CORRUPTION RIGHTS INCLUSION	10837,1503,7598,274
 TRANSPARENT AND INCLUSIVE CONSTITUTIONAL	18493,15,6,7,45
 Tanzania Financial Inclusion Index	7763,9812
 Tanzania Inclusive Digital Economy	849
@@ -1818,6 +1825,7 @@ Towards Inclusive Education Data Systems	13016
 Towards the Digital Age PRINCIPLES INCLUSION	10765,10
 Transformação Digital Inclusiva	11411
 Transforming Education for Inclusive Growth. Washington	14576
+Transforming the Economy for Inclusive Growth	20221
 Transparency Anti-Corruption Participation Rights Inclusion	10759
 Transparency and Inclusiveness	14750
 Transport JOBSPOVERTY REDUCTION INCLUSIVE GROWTH EFFICIENCY	16876
@@ -1850,6 +1858,7 @@ Under the Inclusive ICT Support Programme	3524
 Unexplored Frontier of Innovation and Inclusivity	4970
 Unique Identification for Regional Integration and Inclusion	3834,11787,4380
 United Kingdom’s Strategic Partnership for Egypt Inclusive	15977
+Universal Connectivity and Digital Inclusion	20112
 Universal Service and Digital Inclusion	13582
 Universal and Inclusive Civil Registration Key Result	13005
 Universal and Inclusive Civil Registration Outcome Baseline	13005

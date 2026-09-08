@@ -173,6 +173,7 @@ American Institutes for Research	13332
 American Institutes for Research Page	13332
 Amnesty International’s Children’s Digital Rights Researcher	11071
 Ana Horigoshi Research Scientist	7590
+Analysis Budgeting and Research Directorate	20217
 Angular Wave Research. Tools and Weapons	1038
 Annual General Meeting FOREIGN RESEARCHERS COMMITTEE	1554
 Annual Research Forum	13563
@@ -217,6 +218,7 @@ BMC Health Services Research Volume	771
 BMC Medical Research Methodology	8671
 BRANCHEMENTS AU RESEAU	18103
 BRANCHEMENTS AU RESEAU Au	18103
+BRICS Science and Research Repository	20125
 BT DU RESEAU DE DISTRIBUTION Puissance	16714
 BTW Research	9505,205
 Baacil Institute for Research and Development	15146
@@ -999,6 +1001,7 @@ Jango Comunitário’ and Research4Life	10776
 Jessica Wells Research Scientist	7590
 Johannesburg Business School Research Ethics Committee	2948
 John Mushayavanhu THE Reserve Bank of Zimbabwe	5222
+Joint Gambia Government and MRC Research Ethics	20219
 Joint Research	12675
 Joint Research Centre	1814,9606,2447,2084,193,319,1280
 Joint Research Centre News	13867
@@ -1332,7 +1335,7 @@ National Research Universities	7548
 National Research and Academic Network LTA Liberia	1777
 National Research and Education	15164
 National Research and Education Infrastructure	9126
-National Research and Education Network	11552,3895,66,1359,103,895,1375
+National Research and Education Network	11552,3895,66,1359,103,895,1375,916
 National Research and Education Network NSA	16975
 National Research and Education Network of Guinea-Bissau	11552
 National Research and Education Networks	251,1013,1552,3006,6096,4226,955,15,1358
@@ -1407,6 +1410,7 @@ Original Research Sigur	9237
 Original Research Stage	9129
 Original Research TABLE	9128,1
 Original Research Table	9128
+Outcomes of Research Co-creation Experiences	20215
 Overview of Registration of Foreign Researchers	1554
 P3 Scientific and Technological Research	17458
 PAC Research	9672
@@ -1420,6 +1424,7 @@ POLICY IMPLEMENTATION MATRIX Theme Research	7548
 POLICY RESEARCH	2709
 POM Project Operations Manual RAP Resettlement	16896
 POTRAZ's Research and Development	1554
+PPARBD Policy Planning Analysis Research Budgeting	20217
 PRB Pay Research Bureau QDMTT Qualified	14828,3
 PRODUCTION ET DU RESEAU A DES	13433
 PRODUCTIVITY OF AND BENEFITS FROM RESEARCHES	14004
@@ -1472,6 +1477,7 @@ Policy Research Working Paper WPS	18104
 Policy and Planning Department RBS Reserve Requirements	17235
 Policy and Research Officer	19534
 Policy and Research Paper	10841
+Policy and Research Standards	20209
 Population Studies and Research Institute	12138
 Positioning the South African Reserve's Bank Payments	4824
 Postdoctoral Researcher	7112
@@ -1638,7 +1644,7 @@ Required Reserve	17317
 Required Reserves	17236
 ResEau	18988,177
 ResEau. Parmi	19165
-Research	24,372,191,179,133,71,30,121,33,42,29,1,141,145,2,40,43,180,37,279,3,222,6,103,20,74,20,25,48,44,19,32,11,5,51,2,41,1,3,50,41,11,18,4,1,10,59,1,8,154,105,18,126,31,163,112,7,18,31,29,39,2,28,141,37,21,38,242,64,1,57,38,25,30,26,22,131,14,55,205,38,11,161,6,58,32,7,99,45,60,43,22,79,181,78,116,154,29,19,70,19,69,102,5,2,5,57,47,1,149,7,16,43,20,50,10,92,38,202,92,177,1,42,169,30,1,88,76,67,1,53,55,171,135,24,142,2,79,64,70,51,147,52,40,1,15,5,1,108,127,395,130,4,202,3,91,381,151,43,12,4,72,117,37,5,6,11,4,47,54,1,1,5,9,7,39,23,8,62,1,30,17,249,26,43,114,87,5,3,16,5,1,10,10,22,13,46,8,31,65,69,1,15,10,20,5,4,13,4,11,36,40,10,23,4,1,20,19,50,22,20,25,32,98,32,1,3,40,184,24,9,36,1,6,4,12,16,27,11,3,26,21,11,100,86,19,7,11,111,18,13,3,79,191,67,157,15,5,13,282,19,50,55,212,44,7,1,49,6,14,4,1,2,2,23,35,2,6,1,5,5,68,25,75,99,68,309,79,4,105,2,50,3,9,40,24,125,1,94,34,1,100,137,186,84,282,19,20,12,1,2,40,34,6,1,3,1,1,23,21,1,50,37,13,20,11,8,23,16,37,2,95,17,111,56,60,81,84,131,14,154,382,26,6,2,26,61,23,183,430,23,37,105,177,1,1,11,1,22,84,7,5,3,6,6,76,64,32,24,3,76,3,7,1,22,21
+Research	24,372,191,179,133,71,30,121,33,42,29,1,141,145,2,40,43,180,37,279,3,222,6,103,20,74,20,25,48,44,19,32,11,5,51,2,41,1,3,50,41,11,18,4,1,10,59,1,8,154,105,18,126,31,163,112,7,18,31,29,39,2,28,141,37,21,38,242,64,1,57,38,25,30,26,22,131,14,55,205,38,11,161,6,58,32,7,99,45,60,43,22,79,181,78,116,154,29,19,70,19,69,102,5,2,5,57,47,1,149,7,16,43,20,50,10,92,38,202,92,177,1,42,169,30,1,88,76,67,1,53,55,171,135,24,142,2,79,64,70,51,147,52,40,1,15,5,1,108,127,395,130,4,202,3,91,381,151,43,12,4,72,117,37,5,6,11,4,47,54,1,1,5,9,7,39,23,8,62,1,30,17,249,26,43,114,87,5,3,16,5,1,10,10,22,13,46,8,31,65,69,1,15,10,20,5,4,13,4,11,36,40,10,23,4,1,20,19,50,22,20,25,32,98,32,1,3,40,184,24,9,36,1,6,4,12,16,27,11,3,26,21,11,100,86,19,7,11,111,18,13,3,79,191,67,157,15,5,13,282,19,50,55,212,44,7,1,49,6,14,4,1,2,2,23,35,2,6,1,5,5,68,25,75,99,68,309,79,4,105,2,50,3,9,40,24,125,1,94,34,1,100,137,186,84,282,19,20,12,1,2,40,34,6,1,3,1,1,23,21,1,50,37,13,20,11,8,23,16,37,2,95,17,111,56,60,81,84,131,14,154,382,26,6,2,26,61,23,183,430,23,37,105,177,1,1,11,1,22,84,7,5,3,6,6,76,64,32,24,3,76,3,7,1,22,21,196,26
 Research Abundant R&D Resource AI Patent	15713
 Research Act	413,741,400
 Research Act. RESEARCH PROMOTION	1154
@@ -1978,7 +1984,7 @@ Research and Statistics Department Secondly	17236
 Research and Statistics Department TDIS Teacher Development	13310
 Research and Statistics Department Total Customer Deposits	17236
 Research and Statistics Officer	13310
-Research and Strategy	11216
+Research and Strategy	11216,8866
 Research and Strategy Director	6946
 Research and Student Affairs Prof. Samuel Muriithi	14555
 Research and Surveys	17011
@@ -2048,14 +2054,14 @@ Reservations Recognition	15968,2962
 Reserve	309,631,614,1221,2710,1214,669,3763,3,94,1165,489,171,513,302,754,222,760,1510,121,82,1239,429,760
 Reserve Accounts	12364
 Reserve Assets	17235
-Reserve Bank	940,2378,1199,705,322,332,410,712,255,875,877,3236,676,205,166,1091,11
+Reserve Bank	940,2378,1199,705,322,332,410,712,255,875,877,3236,676,205,166,1091,11,5811
 Reserve Bank Innovation Hub	8351
 Reserve Bank Of Zimbabwe Governor	5222
 Reserve Bank Of Zimbabwe John Mushayavanhu	6105
 Reserve Bank SARS South African Revenue	11258
 Reserve Bank STAR-UEMOA BCEAO SICA-UEMOA	6938
 Reserve Bank Special Drawing Rights Small	11134
-Reserve Bank of India	6735,200,661,2909,633,172,2252,1435,3546,1397
+Reserve Bank of India	6735,200,661,2909,633,172,2252,1435,3546,1397,281
 Reserve Bank of India Imposes Restrictions	11310
 Reserve Bank of India Innovation Hub	14744
 Reserve Bank of India's Stress Test Model	6938
@@ -2202,6 +2208,7 @@ SUR LES RESEAUX DE COMMUNICATIONS ELECTRONIQUES	16617
 SVP for Research	3619
 Sadoré Research Station	18142
 Safeguarding the National Research Mandate The Committee	1554
+Sagaci Research	20173
 Sage Research Methods	2093
 Saharan Africa. African Journal of Agricultural Research	16996
 Sale QR Quick Response RBI Reserve	19940
@@ -2324,7 +2331,7 @@ Space Research	1131
 Spanish National Research Council	1554
 Spanish National Research Council MOU	1554
 Special Mining Reserve	16972
-Special Programme for Research and Training	12678
+Special Programme for Research and Training	12678,7541
 Special Research Initiative	4126
 Sponsor Name Role Development Research Group	15844
 Srivastava SC. Research	19944
@@ -2466,6 +2473,7 @@ UNESCO IICBA Research	19657
 UNESCO Research Chairs	12926
 UNESWA Centre for Sustainable Energy Research	12361
 UNICEF Office of Research	15658
+UNICEF's Data Must Speak Research	20215
 UNU World Institute for Development Economics Research	17790
 US Federal Reserve	7579,5383
 USDA Forest Service Research Paper SE-38	17157
@@ -2522,7 +2530,7 @@ World Bank. Multidisciplinary Research and Studies. Policy	12297
 World Climate Research Program	13094
 World Institute for Development Economics Research	11887,266,1,9,178,7312,205,1
 World Institute for Development Economics Research Columbia	10835,3,130,902,16,466,1,135,7334
-World Institute for Development Economics Research UPU	10759,78,1052,451
+World Institute for Development Economics Research UPU	10759,78,1052,451,7872
 World Journal of Advanced Research and Reviews	2816
 World. Policy Research Working Paper	13314,2160,19
 X Involuntary Resettlement OP	17441

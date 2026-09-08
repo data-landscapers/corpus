@@ -250,11 +250,11 @@ Agricultural Dependency	17157
 Agricultural Deploy	17157
 Agricultural Development	17157
 Agricultural Development Bank	789,6906,4025,3880,4380
-Agricultural Development IHME Institute for Health Metrics	10759,78,1052,451,7598
+Agricultural Development IHME Institute for Health Metrics	10759,78,1052,451,7598,274
 Agricultural Development Partners	17274
 Agricultural Development Programme	5267
 Agricultural Development and Marketing Corporation	6809
-Agricultural Development and Modernization	16861
+Agricultural Development and Modernization	16861,3359
 Agricultural Development and Services	11579
 Agricultural Digital Infrastructure	14818
 Agricultural Digital Public Infrastructure	14818
@@ -410,7 +410,7 @@ Agricultural and Marine Media Subsidize	17157
 Agricultural and Mining Agricultural and Mining	16853
 Agriculturalists	6948
 Agriculturally	17285
-Agriculture	278,117,23,102,123,94,52,151,30,161,30,393,40,88,5,91,36,24,102,48,343,3,8,131,88,63,1,150,33,124,25,108,178,340,21,138,117,2,165,51,49,75,81,246,97,32,238,85,97,167,3,120,913,142,12,514,72,131,5,3,8,116,255,7,3,76,38,8,61,145,102,94,197,34,18,15,142,181,56,3,100,468,39,81,69,6,45,27,115,93,198,16,228,17,211,69,92,171,5,73,15,19,1,24,21,15,28,1,15,17,130,13,48,77,15,5,11,9,102,62,55,57,282,3,15,44,19,50,41,15,142,7,11,146,1,19,9,18,10,18,26,44,6,4,1,86,64,13,14,79,177,11,6,10,3,54,24,2,5,33,7,11,11,1,21,146,5,5,10,2,2,6,5,6,10,17,17,10,5,4,9,4,11,24,32,1,43,2,12,30,51,11,24,37,42,10,9,43,1,16,37,172,16,50,8,231,1,60,51,116,18,19,9,25,3,6,34,12,45,50,49,11,6,1,4,33,1,17,5,1,38,30,32,88,33,12,8,66,162,6,4,50,34,12,1,1,5,21,18,24,38,3,129,3,5,11,26,6,173,6,31,26,21,17,10,2,55,13,27,31,68,6,32,4,2,36,36,12,10,3,101,1,61,69,4,1,6,14,4,23,25,25,115,19,9,11,4,8,1,1,14,16,5,23,5,1,1,1,14,4,3,2,10,7,4,15,32,62,11,11,11,1,1,9,8,71,7,22,3,14,15,75,3,70,11,35,20,20,61,39,189,8,4,3,1,1,12,1,2,16,1,12,3,8,15,1,11,4,21,9,4,13,16,4,1,20,13,12,4,31,31,5,1,4,11,36,5,13,28,1,6,16,7,11,27,2,19,5,2,8,5,3,10,103,13,21,2,25,24,5,51,14,106,6,11,7,50,13,7,18,2,54,36,6,11,1,5,23,20,32,3,221,11,1,122,11,2,46,9,16,20,28,44,13,1,1,9,11,1,2,14,42,30,3,28,15,26,6,126,119
+Agriculture	278,117,23,102,123,94,52,151,30,161,30,393,40,88,5,91,36,24,102,48,343,3,8,131,88,63,1,150,33,124,25,108,178,340,21,138,117,2,165,51,49,75,81,246,97,32,238,85,97,167,3,120,913,142,12,514,72,131,5,3,8,116,255,7,3,76,38,8,61,145,102,94,197,34,18,15,142,181,56,3,100,468,39,81,69,6,45,27,115,93,198,16,228,17,211,69,92,171,5,73,15,19,1,24,21,15,28,1,15,17,130,13,48,77,15,5,11,9,102,62,55,57,282,3,15,44,19,50,41,15,142,7,11,146,1,19,9,18,10,18,26,44,6,4,1,86,64,13,14,79,177,11,6,10,3,54,24,2,5,33,7,11,11,1,21,146,5,5,10,2,2,6,5,6,10,17,17,10,5,4,9,4,11,24,32,1,43,2,12,30,51,11,24,37,42,10,9,43,1,16,37,172,16,50,8,231,1,60,51,116,18,19,9,25,3,6,34,12,45,50,49,11,6,1,4,33,1,17,5,1,38,30,32,88,33,12,8,66,162,6,4,50,34,12,1,1,5,21,18,24,38,3,129,3,5,11,26,6,173,6,31,26,21,17,10,2,55,13,27,31,68,6,32,4,2,36,36,12,10,3,101,1,61,69,4,1,6,14,4,23,25,25,115,19,9,11,4,8,1,1,14,16,5,23,5,1,1,1,14,4,3,2,10,7,4,15,32,62,11,11,11,1,1,9,8,71,7,22,3,14,15,75,3,70,11,35,20,20,61,39,189,8,4,3,1,1,12,1,2,16,1,12,3,8,15,1,11,4,21,9,4,13,16,4,1,20,13,12,4,31,31,5,1,4,11,36,5,13,28,1,6,16,7,11,27,2,19,5,2,8,5,3,10,103,13,21,2,25,24,5,51,14,106,6,11,7,50,13,7,18,2,54,36,6,11,1,5,23,20,32,3,221,11,1,122,11,2,46,9,16,20,28,44,13,1,1,9,11,1,2,14,42,30,3,28,15,26,6,126,119,173,84
 Agriculture AI	4528,7984
 Agriculture About	16921
 Agriculture Act Cap	18466
@@ -914,7 +914,7 @@ ECOWAS Commissioner for Economic Affairs and Agriculture	16676
 EDFI AgriFI	19534
 EG Agriculture Minister	17240
 EIMA Agrimach India	16331
-ENACT ENACT Africa FAO Food and Agriculture	10759,78,1052,451,7598
+ENACT ENACT Africa FAO Food and Agriculture	10759,78,1052,451,7598,274
 ENQUÊTE AGRICOLE DE CONJONCTURE	17945
 ENTREPRISES FAMILIALES NON AGRICOLES	737
 EUR Agriculture	970
@@ -1032,7 +1032,7 @@ Food and Agriculture Laboratory Items	14736
 Food and Agriculture Organisation	9136,5585,2380,2768
 Food and Agriculture Organisation F.P	13377
 Food and Agriculture Organisation Food Price Index	11134
-Food and Agriculture Organization	3583,3058,389,3811,557,155,19,41,545,349,233,88,103,118,95,250,1,80,117,855,592,54,25,11,491,38,5,62,226,85,153,757,24,157,13,17,8,109,29,63,927,8,8,216,42,2,1,49,54,4,6,231,540,100,1,98,183
+Food and Agriculture Organization	3583,3058,389,3811,557,155,19,41,545,349,233,88,103,118,95,250,1,80,117,855,592,54,25,11,491,38,5,62,226,85,153,757,24,157,13,17,8,109,29,63,927,8,8,216,42,2,1,49,54,4,6,231,540,100,1,98,183,388
 Food and Agriculture Organization FBO Faith Based	2775
 Food and Agriculture Organization FIRMS Fishery Resources	17157
 Food and Agriculture Organization Publications	19555
@@ -1056,6 +1056,7 @@ GOEWERMENTSKENNISGEWINGS Agriculture	1009
 GRC Department of Agriculture	10809
 GSARS Global Strategy for Agricultural and Rural Statistics	19554
 GSMA AgriTech Innovation Fund	10856
+Gambia Inclusive and Resilient Agricultural Value Chain	20221
 Gambia National Agricultural Investment Plan	16861
 Gazetted Monthly Basic Minimum Wages1 for Agricultural	2775
 General Agriculture and Livestock Census	16547
@@ -1071,6 +1072,7 @@ Global AgriConnect Platform	11469
 Global AgriConnect Platform Advisory Program	11469
 Global Agriculture Monitoring	17157
 Global Agriculture and Food Security Program	13083,4530,965
+GoGettaz Agripreneur Prize	20129
 Goewermentskennisgewings DEPARTMENT OF AGRICULTURE	11249
 Good Agricultural Practices	12931,1862,234,4722
 Good Agricultural Practices For All	13314
@@ -1086,6 +1088,7 @@ Health Management System AMCOS Agricultural Marketing	19584
 Health and AgriTech	4528,7984
 HealthTech and AgriTech	14340
 Hon. Minister for Agriculture	13126
+Hospitality Key Economic Sectors Agriculture	20228
 Household Head and County Agriculture Households Male	16921
 Household Living Conditions and Agriculture	18104
 Households Agricultural Activities	19554
@@ -1305,7 +1308,8 @@ Ministro da Agricultura	15503,493,2899
 Ministro de Agricultura	16925
 Ministry Of Agriculture	16863
 Ministry Responsible for Agriculture	19531
-Ministry of Agriculture	940,221,361,165,180,121,574,310,711,945,719,982,44,673,273,600,364,725,577,41,124,820,293,5,163,254,368,76,268,217,44,23,13,29,44,24,34,87,100,27,2,106,27,27,39,97,75,10,1,8,14,11,1,5,10,5,65,7,31,3,10,1,1,28,242,38,107,282,186,20,4,2,34,54,33,21,5,11,146,255,63,371,132,9,340,72,39,69,726,14,450,5,5,58,11,8,12,4,16,3,73,4,23,29,6,9,13,13,17,8,51,58,15,17,5,55,1,231,438,162,103,167,110,219,182,540,52,31,64,41,40,78,1,21
+Ministry of Agricultural Development and Food Security	20051
+Ministry of Agriculture	940,221,361,165,180,121,574,310,711,945,719,982,44,673,273,600,364,725,577,41,124,820,293,5,163,254,368,76,268,217,44,23,13,29,44,24,34,87,100,27,2,106,27,27,39,97,75,10,1,8,14,11,1,5,10,5,65,7,31,3,10,1,1,28,242,38,107,282,186,20,4,2,34,54,33,21,5,11,146,255,63,371,132,9,340,72,39,69,726,14,450,5,5,58,11,8,12,4,16,3,73,4,23,29,6,9,13,13,17,8,51,58,15,17,5,55,1,231,438,162,103,167,110,219,182,540,52,31,64,41,40,78,1,21,303
 Ministry of Agriculture Agriculture	17011
 Ministry of Agriculture Animal Industry	19641
 Ministry of Agriculture Animal Industry and Fisheries	19642
@@ -1326,6 +1330,7 @@ Ministry of Agriculture Table	16935
 Ministry of Agriculture The Republic of Liberia Government	17274
 Ministry of Agriculture URL	17274
 Ministry of Agriculture Weekly Via SMS	17157
+Ministry of Agriculture and Animal Resources	20150
 Ministry of Agriculture and Environmental Protection Agency	16853
 Ministry of Agriculture and Farmers Welfare	17623
 Ministry of Agriculture and Fisheries	10763,2279

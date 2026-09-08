@@ -5,6 +5,7 @@ Abu- Karinka Refugees	15244
 Acting Commissioner for Refugees	11628
 Administrative Refusal	18595
 Advancing Refugee Entrepreneurship	10841
+Afghan Refugees	20221
 Africa. The Refugee Regulations	11628
 Al-Gadaref Al-Quraisha Refugees	15244
 Al-Tadamon Refugees	15244
@@ -224,7 +225,7 @@ High Commissariat for Refugees HEI Higher Education	17870
 High Commissioner for Refugees	14742
 High Commissioner for Refugees RPPF Represented Political	11986
 High Commissioner for Refugees UN Refugee Agency	12328
-High Commissioner for Refugees UNICEF United Nations	10759,78,1052,451,6571
+High Commissioner for Refugees UNICEF United Nations	10759,78,1052,451,6571,1301
 High Commissioner for Refugees USA United State	17157
 High Commissioner for Refugees United Nations Children	16436
 Host Communities and Refugees The World Bank	11924
@@ -479,6 +480,7 @@ Reframing Refugee Crisis	12227
 Refuerzo	1701,2508,12689
 Refuge	12227,23,1192
 Refuge Act No	1988
+Refuge ID	20175
 Refuge Point	346
 Refugee	1867,121,3545,1267,531,3510,23,313,87,364,272,86,159,28,54,23,47,31,677,148,616,4,100,1072,13,66,220,357,244,985,1074,200,521,1090,120,67
 Refugee Aat	16836
@@ -536,7 +538,8 @@ Refugee Financial Priority Financial Key Barriers	12297
 Refugee Group	10841
 Refugee Health	19743
 Refugee Humanitarian Partners Group	19760
-Refugee ID	12297,2633
+Refugee ID	12297,2633,5245
+Refugee ID for Fayda	20096
 Refugee IDs	12297,31
 Refugee IDs and Financial Access Kenya	12297
 Refugee IDs. Refugees	12297
@@ -621,7 +624,7 @@ Refugee-returnees	14874
 Refugee-returnees and IDPs	14874
 Refugee. Repatriation and Resettlement Commission	16830
 RefugeeAct	16836
-Refugees	1778,89,96,25,787,48,2118,28,564,1614,3618,10,64,2,23,22,99,192,87,364,269,3,5,19,62,159,28,54,30,40,31,9,229,36,286,22,99,222,438,269,83,53,27,364,277,9,123,15,7,30,44,27,247,216,40,101,984,109,136,6,38,449,1,580,67,154,312,278,189,8,743,60,6,6,33,75,9,42,16
+Refugees	1778,89,96,25,787,48,2118,28,564,1614,3618,10,64,2,23,22,99,192,87,364,269,3,5,19,62,159,28,54,30,40,31,9,229,36,286,22,99,222,438,269,83,53,27,364,277,9,123,15,7,30,44,27,247,216,40,101,984,109,136,6,38,449,1,580,67,154,312,278,189,8,743,60,6,6,33,75,9,42,16,194,77,48
 Refugees Act	1867,121,2854,691,5289,355,41,62,348,358,241,70,591,22,321,335,841,5223,1,96
 Refugees Act No	13153
 Refugees Act No.1	1867

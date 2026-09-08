@@ -77,7 +77,9 @@ Chris Hani Baragwanath Academic Hospital George	11248
 Christian Georges	16413
 Cobertura Geográfica	18768
 Communication World Geodetic System Management	1009
+Communications Minister Sam George	20072
 Communications Minister Samuel Nartey George	8765
+Communications Minister Samuel Nartey George MTN	20193
 Community Recovery and Local Governance Geographical	14925
 Comparison of Address Point and Street Geocoding	19654
 Configuração Geométrica	11384
@@ -460,7 +462,7 @@ Geological Office	13733
 Geological Services	13122
 Geological Survey Department	13060,63,6523
 Geological Survey and Mines Directorate	19646
-Geological Survey of India	13561,3679
+Geological Survey of India	13561,3679,2814
 Geological Surveys	13093
 Geological and Minerals Development Bill	13387
 Geology	12253,4852,1473
@@ -506,7 +508,7 @@ Georeferencing	4034
 Georeferencing of Municipal Services	11941
 Georessourcen	49
 Georg Hauer	4076
-George	2338,376,515,21,1646,268,309,46,427,405,355,242,120,304,1,238,676,277,160,275,129,410,1595,153,689,5798,1464
+George	2338,376,515,21,1646,268,309,46,427,405,355,242,120,304,1,238,676,277,160,275,129,410,1595,153,689,5798,1464,887,22,1,32,14
 George Agyekum Donkor	9536
 George Ah-Thew	962
 George Ah-Thew and Chisepo Lungu	1814
@@ -519,6 +521,7 @@ George Dimitrov and Mahotas	7679
 George E. Unlocking Land Values	15473
 George Elombi	6401,1384,259
 George Fahmy	7517
+George Fellow Ghanaians	20182
 George Gor Kofi Yeboah	8511
 George Gor and Kofi Yeboah	8511
 George Gorekwang	12868
@@ -549,6 +552,7 @@ George Sibewalwa	19705
 George Sibiya	1009
 George Silundika Avenue Cnr. S. V	13420
 George Simbachawene	3085,1302
+George Sinyangwe	20209
 George Spencer Quaye	5970
 George Street	18486
 George Tabor	6961
@@ -595,6 +599,7 @@ Georgette Elisabeth	15780
 Georgette Nadège Flore KODIANGANY	16381
 Georgi Borros	11195
 Georgia	3604,1845,1611,1627,1022,1005,50,21,61,159,351,253,1433,1579,850,82,1314,876,1502
+Georgia Butler Data	20234
 Georgia EUR UMI	17743
 Georgia Gambian National ID Card Sep	10714
 Georgia National Innovation Ecosystem	11529
@@ -792,7 +797,7 @@ Launch of Geospatial Information Management Strategy	11275
 Launching the GeoSpatial Platform	16946
 Lawrence A. George Sr	16921
 Liberia Institute of Statistics and Geo- Information	5244
-Liberia Institute of Statistics and Geo-Information Services	5244,11589,88,14,28,80,73,33,16,193,8
+Liberia Institute of Statistics and Geo-Information Services	5244,11589,88,14,28,80,73,33,16,193,8,2783
 Liberia Institute of Statistics and Geo-Informatlon Services	16833
 Liberia Institute of Statistics and Geo-information Services	17235
 Liberia Institute of Statistics and Geoinformation Services	17070,79
@@ -987,11 +992,12 @@ ST. George's Primary School	10049
 STATE HON. SAMUEL NARTEY GEORGE	4126
 SYSTEME D’ADRESSAGE NUMERIQUE POSTAL GEOREFERENCE	17902
 SYSTEME D’INFORMATION GEOGRAPHIQUE	17902
-Sam George	2338,1510,1930,628,300
+Sam George	2338,1510,1930,628,300,13347,19,52,23,32,3
 Sam Nartey George	4706,1072
+Sam Nartey George Minister of Communication	20053
 Sambus Geospatial Nigeria Limited	14706
 Samuel George	6406,2318
-Samuel Nartey George	2338,376,515,21,809,1105,55,8,71,221,13,169,231,14,24,206,66,109,717,90,214,1,914,76,2,183,200,19,180,590,580
+Samuel Nartey George	2338,376,515,21,809,1105,55,8,71,221,13,169,231,14,24,206,66,109,717,90,214,1,914,76,2,183,200,19,180,590,580,9936,71,22,1
 Samuel Nartey George. The Minister	4174
 Sebokeng Hospital Dr George Mukhari Hospital	11986
 Sector Informal Estadísticas de Geopolítica	16898
@@ -1082,7 +1088,7 @@ Wallace Bushanda C. George Mussah A	17235
 Water Environment and Geo Services Ltd Supply	15052
 Web Geovisualisations	13031
 Well Geovani Lawson	19354
-Western Africa Geography	11889
+Western Africa Geography	11889,8323
 Western Africa. Geography	19987
 Wind Geothermal	12256
 Working Children Coverage Geographic Coverage	19613
@@ -1102,6 +1108,7 @@ Zambia. South African Journal of Geomatics. Collier	12369
 Zambians. Geographic	13344
 Zero-Order Geodetic Network	13998
 Zheng and Geoff Walsham	10726
+Zimbabwe Geological Survey	20054
 Zimbabwe National Geospatial Agency	520
 Zimbabwe National Geospatial and Space Agency	413,107,12874,81
 Zone System Name Responsible Institution Geographic	6938

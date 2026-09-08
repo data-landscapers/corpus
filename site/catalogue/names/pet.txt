@@ -261,7 +261,7 @@ LA PREVENTION DES RISQUES PETROLIERS ET	16381
 LGP Liquefied Petroleum Gas LMS Learning	12975
 LIQUEFIED PETROLEUM GAS	17250
 LIQUIFIED PETROLEUM GAS	14528
-LPG Liquefied Petroleum Gas	18614
+LPG Liquefied Petroleum Gas	18614,1609
 La Ministre des Petites	16249
 La Petite Ent	10841
 La Petite Entreprise	10841
@@ -331,7 +331,7 @@ Minister of Petroleum Dr. Oumarou Sahabi	18220
 Ministre des Petites	15588,661
 Ministry of Energy and Petroleum	10313,1259,2904
 Ministry of Interior Ministry of Petroleum	17105
-Ministry of Petroleum	3583,11890,812,573,108,7,132,47,728
+Ministry of Petroleum	3583,11890,812,573,108,7,132,47,728,2343
 Ministry of Petroleum Energies and Mines	17893
 Ministry of Petroleum Incorporated	18154
 Ministry of Petroleum Presentation	3583
@@ -629,7 +629,7 @@ PetroSeychelles	18907
 Petrochemical	19602
 Petroci Holding	2342
 Petroci-C11	2342
-Petrol	11504,5610,2598
+Petrol	11504,5610,2598,492
 Petrol Blend	12515
 Petrol Service Station	718
 Petrol Service Stations	14947
@@ -706,6 +706,7 @@ Petroleum and Gas Policy Objective	14947
 Petroleum and LPG	12256
 Petroleum and LPG Licensing The Authority	12256
 Petroleum and Mineral Resources	9414,6059
+Petroleum and Mines	20223
 Petronas	3583
 Petrosyan	10784
 Petrovic and Ho	7789

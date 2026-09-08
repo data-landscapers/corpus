@@ -69,7 +69,7 @@ African Network Operators Group	19682
 African Network for Digital and Innovation Summit	3807
 African Network for Environment and Economic Governance	11866
 African Network of Authorities	961
-African Network of Cybersecurity Authorities	10073
+African Network of Cybersecurity Authorities	10073,10109
 African Network of Data Protection Authorities	961
 African Network of Data Regulators	3162
 African Network of Data Regulators Empowering DPAs	961
@@ -161,6 +161,7 @@ BIC Somali Network	15239
 BLADEDOC NETWORK LIMITED Data Controller INST-408725CF6AE	7167
 BLADEDOC NETWORK LIMITED Data Processor INST-408725CF6AE	7167
 BPC's Network Infrastructure Maintenance	12563,7114
+BRICS Startup Innovation Network	20125
 BURKINA FASO EXTENDED NETWORK	11002
 Backbone Connectivity Network	17175
 Backbone Connectivity Network Ltd	3862
@@ -264,6 +265,7 @@ Cellular Network Operator License The Telecommunications	18444
 Center for International Earth Science Information Network	10835,3,130,902,16,466,1,135,4408,26,2731,169,14
 Central African Education and Research Network WaSH	18931
 Central African Regional Fiber- Optic Network	18887
+Central African Regional Network for TB	20219
 Centre of Excellence Omidyar Network	289
 Century and Swift Telephone Network	3862
 Cerebras and Palo Alto Networks	1843
@@ -372,6 +374,7 @@ DAC Governance Network	14932
 DATA STEWARDSHIP NETWORK AND PROFESSIONAL STANDARDS	3861
 DATA TRAFFIC Mobile Network Operators	6000
 DC and DR. Networking	15080
+DPO Africa Network	20107
 DPO Network	5425
 DRC Launches Data Protection Officers Network	5425
 DTT Broadcasting Network Development Project	2217,1251
@@ -525,7 +528,7 @@ Executive Chairman of Celltel Networks Limited	17717
 Executive Summary The Network for Greening Financial	13532
 Expand Fibre Network	4069
 Expand Generation and Network Infrastructure	16188
-Expand Generation and T&D Networks	12399
+Expand Generation and T&D Networks	12399,7824
 Expand Rural Network Connectivity	6044
 Expand Telecom Network Availability	4140
 Expand Telecom Network Availability Orange Sierra	4140
@@ -653,6 +656,7 @@ Gambia Network of AIDS Support Societies GBoS	16951
 Gambia's Network Infrastructure	16884
 Gambian National Broadband Network	238
 Gas Service Connection Electricity Network Development	15578
+Gauteng Provincial Network	20178
 Gb Converged Network Adapter	11209
 GbE Converged Network Adapter	11209
 Gender Coordination Network	13080,15
@@ -788,7 +792,7 @@ ICT Network	19576
 ICT Networks and Capacity Building	12917
 IGAD Cross-Border Trade Knowledge-Sharing Network	10634
 IMT NETWORKS	14825
-INFRASTRUCTURE Transport Network	10759,78,1052,451,7598
+INFRASTRUCTURE Transport Network	10759,78,1052,451,7598,274
 INSM Network	9082
 INVESTMENT IN NETWORK	12395
 INVESTMENTS Mobile Network Operators	6000
@@ -1131,6 +1135,7 @@ NETWORK NEUTRALITY ACTIONS	16884
 NETWORK PERFORMANCE Countrywide	12358
 NETWORK PERFORMANCE REPORT POLICY	3862
 NETWORK SO FAR	9593
+NETWORK STABILITY	20182
 NETWORK STATISTICS	3862
 NETWORK TRAFFIC	11211,51
 NETWORKS	2913,13970
@@ -1176,6 +1181,7 @@ National ICT Backbone Network	16872
 National Information Network	11529
 National Instant Payment Network	19883
 National Integrated Sample Transport Network	4301
+National Laboratory Network	20172
 National Mobile Network	482
 National Network Capacity	19745
 National Network for Education and Research of Angola	6174
@@ -1188,7 +1194,7 @@ National Planning MNO'S Mobile Network Operators	13345
 National Public Administration Information Network	2568
 National Research Education Network	14912
 National Research and Academic Network LTA Liberia	1777
-National Research and Education Network	11552,3895,66,1359,103,895,1375
+National Research and Education Network	11552,3895,66,1359,103,895,1375,916
 National Research and Education Network NSA	16975
 National Research and Education Network of Guinea-Bissau	11552
 National Research and Education Networks	251,1013,1552,3006,6096,4226,955,15,1358
@@ -1207,7 +1213,7 @@ NetOne-Huawei Network Expansion Project. The Chine	362
 Netwerk24	13461
 Netwerk24.55	13461
 Networicing	11517
-Network	34,202,500,26,24,214,243,14,4,23,186,402,363,356,17,168,528,183,272,23,79,1,264,4,478,68,149,600,252,43,102,278,332,400,59,383,54,215,3,185,400,157,88,32,19,178,91,19,408,437,33,23,68,75,183,95,41,89,77,477,72,16,13,22,93,259,35,31,301,294,3,42,50,3,51,51,104,80,117,6,31,4,188,29,65,230,94,163,17,87,286,235,152,65,381,73,210,71,14,108,11,43,153,45,30,15,19,23,161,32,81,31,7,56,16,123,7,326,826,12,1,15,16,25,205,104,85,102,30,115,288,85,168,72,110,171,9,2,42,2,48,54,82,168,4,24,334,287,44,63,106,84,10,35,4,7,46
+Network	34,202,500,26,24,214,243,14,4,23,186,402,363,356,17,168,528,183,272,23,79,1,264,4,478,68,149,600,252,43,102,278,332,400,59,383,54,215,3,185,400,157,88,32,19,178,91,19,408,437,33,23,68,75,183,95,41,89,77,477,72,16,13,22,93,259,35,31,301,294,3,42,50,3,51,51,104,80,117,6,31,4,188,29,65,230,94,163,17,87,286,235,152,65,381,73,210,71,14,108,11,43,153,45,30,15,19,23,161,32,81,31,7,56,16,123,7,326,826,12,1,15,16,25,205,104,85,102,30,115,288,85,168,72,110,171,9,2,42,2,48,54,82,168,4,24,334,287,44,63,106,84,10,35,4,7,46,176,94
 Network APIs	6593
 Network APIs Commercial Open Gateway APIs	6593
 Network Access	10721,4002,2149
@@ -1267,7 +1273,7 @@ Network Design and Rollout Implementation Plan	7368
 Network Device Configuration Management	19584
 Network Disaster	11857
 Network ECOWAS Economic Community of West African	16926
-Network Earth Institute	10759,78,1050,2,264,1,9,177,1,7517,1,79
+Network Earth Institute	10759,78,1050,2,264,1,9,177,1,7517,1,79,274
 Network Effectiveness Ratio	14151
 Network Enablers	736
 Network Engineering User	6832
@@ -1454,7 +1460,7 @@ Network for Greening the Financial System	13532,3606
 Network for Peacebuilding Women	16973
 Network of AI Ethics Experts	13557
 Network of Acceleration Centres	11254
-Network of African Data Protection Authorities	1243,1526,40,1774,12752
+Network of African Data Protection Authorities	1243,1526,40,1774,12752,2772
 Network of Agricultural Extension Agents	12529
 Network of Development Entrepreneurs	19534
 Network of Human Rights Institutions of Central Africa	16958
@@ -1527,7 +1533,7 @@ OPERATION OF IMT NETWORKS	14780
 Obligations of Licensed Satellite Network Operators	10407
 Observing Network GDM General Directorate of Meteorology	13729
 Okwiri and Guodong Network Communications Group Chairman	10283
-Omidyar Network	290,224,6598,3602,98,7,1715,1900,981
+Omidyar Network	290,224,6598,3602,98,7,1715,1900,981,4806
 Omidyar Network Fund	7112
 Omidyar Network India. Copyright	12139
 Omidyar Network Unpacks Good ID	10819,3615
@@ -1555,6 +1561,7 @@ Orange Expands Global Connectivity Network Across	6678
 Orange MEA Annual Network CapEx Programme	933,208
 Overview of Internet Use Mobile Network Coverage	12214
 Ovy Network	19651
+P4H Network	20166
 PAPSS Network	19980
 PAPSS PARTICIPANTS EXTENDED NETWORK Send	11002
 PAPSS Participants Extended Network	11002
@@ -1593,6 +1600,7 @@ Period Network	12395
 Physical Network Infrastructure	16883
 Physical Security Network and Infrastructure Security	9123
 Pillar I Expand Generation and T&D Networks	16966
+Platform for Employment Networking Dialogue and Action	20230
 Platforms Supported Printer Only Ethernet Network	34
 Play Video Partner Network	10956
 Poor Network Coverage Leaves Kavango Schools	10465
@@ -1602,9 +1610,9 @@ Portulans. THE NETWORK READINESS INDEX	15583
 Possession and Operation of Communication Networks	18602
 Post Office Fiber Optic Network Installation	15578
 Post Office Installation of Fiber Optic Network	15578
-Postal Network	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Postal Network	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 Postal Network Public Perception of Infrastructure RURAL	10759
-Postal Network Public Perception of Infrastructure Rural	10837,1315,188,7598
+Postal Network Public Perception of Infrastructure Rural	10837,1315,188,7598,274
 Postal Network Secure Employment Opportunities Access	10759
 Postal Networks	5241
 Postal and Courier Network Indicators	6946
@@ -1732,6 +1740,7 @@ Robust Network Architecture	13851
 Role of Nafeer and Social Networks	6947
 Rural Area Information Technology Broadband Network	14621
 Rwanda Education Network	15164
+Rwanda Shabelle Media Network	20132
 Rwanda Telecentre Network	12333
 Réunion New Indien Ocean Network	15333
 SADC Network Conference	12975
@@ -1781,7 +1790,7 @@ Services The Ghana Hubs Network	19941
 Sewer Network Operator	17250
 Sewer Network Operator Licence	17250
 Seychelles. Networking	18920
-Shabelle Media Network	15168
+Shabelle Media Network	15168,4964
 Shabelle Media Network URL	15168
 Shared Agent Network Expansion Facilities	3735
 Shared Distribution Network Platform	15044
@@ -1927,8 +1936,8 @@ Transmission Network Project	257
 Transmission Networks	10721
 Transmission and Distribution Networks	15702
 Transmission and Distribution Service Network Contracts	12320
-Transport Network	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,6416,748,1,169,14,22,1,65,14,1,48
-Transport Network Access	10759,78,1315,188,7598
+Transport Network	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,6416,748,1,169,14,22,1,65,14,1,48,225
+Transport Network Access	10759,78,1315,188,7598,274
 Transport Network Upgrades Project	2884
 Transport Networks Executive Summary	2830
 Transport Networks Research Service	1766,1064

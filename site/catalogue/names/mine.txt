@@ -307,7 +307,7 @@ MINEMA Assessment	14935
 MINEMA Barriers	12328
 MINEMA Donors	15130
 MINEP	15999
-MINEPAT	55,1,47,22,122,55,4023,148,6490,1,1,15,5,11,4376,170,59,181,158,255,339,6
+MINEPAT	55,1,47,22,122,55,4023,148,6490,1,1,15,5,11,4376,170,59,181,158,255,339,6,3629
 MINEPAT MINEPDEP	15542
 MINEPAT MINFI	15542
 MINEPAT MIS MTR NGO NPF PAD	15601
@@ -385,7 +385,7 @@ Minepat	3923,1435,10911
 Miner	8603,9938
 Minera	1701
 Minerai	2342
-Mineral	6921,6464,1600,1915,240,2379,83
+Mineral	6921,6464,1600,1915,240,2379,83,467
 Mineral Access Concessions	6534
 Mineral Contracts	13122
 Mineral Development	19660,52
@@ -429,7 +429,7 @@ Mineração de Dados Educacionais	2816
 Miners	12597,788
 Minerva	11028
 Minerva Technology Futures	7209
-Mines	235,1753,354,1054,43,192,1185,686,62,107,751,340,3,361,642,169,384,434,199,47,286,55,254,418,859,2,25,697,309,1484,353,523,453,670,20,17,40,6,70,128,4,95,220,31,259,99,126,2,3,27,47,33,2,56,179,113,142,127,25,188,136,40,188,5,10,11,3,1,2,32,4,13,2,4,2,10,61,6,4,1,20,29,45,92,51,66,19,1,16,2,49,8,28,3,493,83,233,20,36,89,39,74,346
+Mines	235,1753,354,1054,43,192,1185,686,62,107,751,340,3,361,642,169,384,434,199,47,286,55,254,418,859,2,25,697,309,1484,353,523,453,670,20,17,40,6,70,128,4,95,220,31,259,99,126,2,3,27,47,33,2,56,179,113,142,127,25,188,136,40,188,5,10,11,3,1,2,32,4,13,2,4,2,10,61,6,4,1,20,29,45,92,51,66,19,1,16,2,49,8,28,3,493,83,233,20,36,89,39,74,346,398
 Mines Agriculture des Marchés Eau	2342
 Mines Artisanales	643
 Mines Chargé	17899
@@ -476,6 +476,7 @@ Mines and Minerals	13093
 Mines and Minerals Act	12535,452,324,5155
 Mines and Minerals Development Act	1988,11317
 Mines and Minerals Policy	13060
+Mines and Mining Development Permanent Secretary	20054
 Mines and Quarries	10873
 Mines and Quarries Act	17105
 Mines and Technology VRA Volta River Authority	4126
@@ -503,6 +504,7 @@ Mineworkers Provident Fund	12597
 Mineworkers Provident Fund Administrators. Currently	12597
 Mingomba Mine	13387
 Ming’omba Mine and Kitumba Mine	13387
+Mining and Mineral Resources	20054
 Mining and Minerals Act	19646
 Mining and Minerals Development Act	13654
 Mining and Minerals Regulatory Authority	12987,73,62
@@ -543,7 +545,7 @@ Ministry of Minerals Level	19584
 Ministry of Minerals and Energy	12553,42,7082
 Ministry of Minerals and Energy and P23.7	2736
 Ministry of Minerals and Energy. Table	12563
-Ministry of Mines	1777,10456,808,2629,187,420,442,228,25,263,5,20
+Ministry of Mines	1777,10456,808,2629,187,420,442,228,25,263,5,20,2794
 Ministry of Mines and Energy	1242,4002,3844,3237,55,86,455,4054,3,38,83,15,290
 Ministry of Mines and Energy Electricity Control Board	12399
 Ministry of Mines and Energy Mineral	17011
@@ -556,7 +558,7 @@ Ministry of Mines and Mineral Resources MoYA	18485
 Ministry of Mines and Mineral Resources No	18468
 Ministry of Mines and Minerals Development	13479
 Ministry of Mines and Minerals Development. Ensure	13654
-Ministry of Mines and Mining Development	1554
+Ministry of Mines and Mining Development	1554,18500
 Ministry of Mines and Quarries	10873
 Ministry of Mines' Export Permit Management System	13688
 Ministry of Petroleum Energies and Mines	17893
@@ -582,6 +584,7 @@ NOM DU MINEUR	13300
 NOM POUR DES TESTS DU MINEUR	13300
 NPLs. MINECOFIN	14997
 National Authority for Petroleum and Minerals	13042
+National Critical Mineral Mission	20054
 National MINECOFIN	14997
 National Mine Action Centre of Senegal	18378
 National Mineral Resources Development Policy	13348
@@ -609,6 +612,7 @@ PORTFOLIO COMMITTEE ON MINERAL AND PETROLEUM	11232
 Par le Ministre des Mines	15409
 Partenariat Public Privé. MINEPAT MINFI	15542
 Petroleum and Mineral Resources	9414,6059
+Petroleum and Mines	20223
 Planning MINEDUC Ministry of Education MINEMA Ministry	14935
 Planning MINEDUC Ministry of Education MIS Management	14922
 Planning MME Ministry of Mines and Energy MOA	17139
@@ -616,9 +620,10 @@ Plataforma Nacional de Gestión Minera	9303
 Política de Recursos Minerales	1701
 Política de Recursos Minerales Competitiva	1701
 Poste HIRE GOLD MINE IMMSA AIGF	2342
-Posts and Telecommunications Minister Minette Libom Li	3283
+Posts and Telecommunications Minister Minette Libom Li	3283,16886
 Premier Africa Minerals	7014
 Protection des Mineurs PMPP	14488,1,1
+Provenance Mined	20148
 Provide MINECOFIN	14997
 Quantity and Value of Mineral Production	2775
 R CIE DES EAUX MINERALES	16623
@@ -683,6 +688,7 @@ TONGON GOLD MINE	2342
 TRCI INIE INS-SODE MINES LONACI Exploitation	2342
 Tanzanian Minister of Minerals	19543
 Telecoms Minister Minette Libom Li Likeng	3283
+Trade and Mines and Tourism	20152
 Turn.io Minette Barkhuysen	10538
 U SOCIETE DES MINES DE FER	16623
 UNHCR and MINEMA	12328

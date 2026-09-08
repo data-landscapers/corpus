@@ -176,7 +176,7 @@ EPA Representative	17114
 EU Special Representative	15001,4537
 EUROJUST and EU Representatives	19075
 East Africa. Representing	10317
-Economy Support Rural Representation	10759,78,1315,188,7598
+Economy Support Rural Representation	10759,78,1315,188,7598,274
 Education and Gender Representative	13310
 Egypt's House of Representatives	2848
 Egyptian House of Representatives	19857
@@ -185,8 +185,8 @@ Electoral Commissioner The Representation	14788
 Electricité Représentant	10975
 Employee Representative Committee	18979
 Employer’s Representative	11134
-Equal Political Power Equal Political Representation	10837,1315,188,7598
-Equal Political Representation	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Equal Political Power Equal Political Representation	10837,1315,188,7598,274
+Equal Political Representation	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 Equal Political Representation Equal Civil Liberties	19822
 Eritrea's Permanent Representative	14030
 Estado. REPROVADO	10766
@@ -573,15 +573,15 @@ Representantes da UIT	18818
 Representantes de GETESA	17087
 Representantes de MOOV Gabon	17087
 Representar	13,154,4051,7163,1,53,8,6,69,3873,112,23,46,340,2839,22,5,22
-Representation	27,945,502,2240,147,1815,1872,207,166,707,136,4007,300,248,155,1553,686,1123,1764,1028,262,5
+Representation	27,945,502,2240,147,1815,1872,207,166,707,136,4007,300,248,155,1553,686,1123,1764,1028,262,5,241
 Representation Conflicts	12360
 Representation Equal Civil Liberties Equal Socioeconomic	10759
 Representation and Hearing	3005
 Representation of International Development	11857
 Representation of Religious Organizations	11129
 Representation of Stakeholder Participation	17157
-Representation of Women	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
-Representation of Women Rights	10759,78,1315,188,7598
+Representation of Women	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
+Representation of Women Rights	10759,78,1315,188,7598,274
 Representational State Transfer	12419,4505
 Representations	4049,198,55,594,5817,4004,36,2079,7,410,1634
 Representations and Warranties	15901
@@ -615,7 +615,7 @@ Representative of State	11860
 Representative of State NUT	11860
 Representativeness	15713,1572
 Representativeness and Strategic Relevance	17116
-Representatives	236,2290,987,620,84,311,55,644,1046,58,140,64,276,127,631,574,945,152,75,457,89,98,227,24,102,268,152,397,5,147,579,56,79,236,41,4,80,33,123,37,77,588,95,45,123,471,142,1037,706,311,723,48,199,35,111,168,260,527,29,61,233,162,285,117,112,560,51,67
+Representatives	236,2290,987,620,84,311,55,644,1046,58,140,64,276,127,631,574,945,152,75,457,89,98,227,24,102,268,152,397,5,147,579,56,79,236,41,4,80,33,123,37,77,588,95,45,123,471,142,1037,706,311,723,48,199,35,111,168,260,527,29,61,233,162,285,117,112,560,51,67,248
 Representatives DEPARTMENT OF HOME AFFAIRS	11986
 Representatives and Delegates	15393
 Representatives of AXIAN Telecom and Huawei	13782
@@ -638,7 +638,7 @@ Representação	11569,3827,298,3080
 Representação da OMS	11376
 Representações	18779
 Representações Diplomáticas	15380,3370
-Represented	2933,4918,270,588,277,1611,1538
+Represented	2933,4918,270,588,277,1611,1538,7947
 Represented Political Parties Fund	11218
 Represented Political Parties' Fund	11285,701
 Represented Political Party Savings and Budget Cuts	11986
@@ -713,7 +713,7 @@ Reprieve	14932
 Reprimir	15526
 Reprint	13385
 Reprint PIN	14533
-Reprinted	13385
+Reprinted	13385,6839
 Reprints	9739,1045
 Reprioritisation	11986
 Reprioritise	899
@@ -869,7 +869,7 @@ Resident Representative of UNDP Liberia	17173
 Rising Repression Meets Global Resistance	5236
 Rising Repression Meets Global Resistance Internet	5236
 Rumphi. Reproductive Health Focal Persons	3791
-Rural Representation	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Rural Representation	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 République du Bénin Représenté	15399
 SAMCO South Africa Representation	13769
 SANTÉ DE LA REPRODUCTION	16722
@@ -971,6 +971,7 @@ UNDP Resident Representative Elsie Laurence-Chounoune	758
 UNDP Resident Representative Fenella Frost	13095
 UNDP Resident Representative Fred Ampiah	18585
 UNDP Resident Representative Henrik Franklin	2001,2172
+UNDP Resident Representative Mr Henrik Franklin	20068
 UNDP Resident Representative Mr. Aliou Mamadu	10346
 UNDP Resident Representative Ms. Fenella Frost	13112
 UNDP Resident Representative. Stéphane Bellerose	14767
@@ -1011,6 +1012,7 @@ US Embassy Representative	6394
 US House of Representatives Majority Leader and Convalt	6633
 US Trade Representative	5366,896
 Unaffiliated Representative	7198
+United Nations Representative	20131
 United States Trade Representative	14008,924
 United States United States Trade Representative	14932
 Université Numérique du Mali Le Représentant	1708

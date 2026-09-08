@@ -193,6 +193,7 @@ Diplomatic and Service Passports	19161
 Director of Immigration and Passports	4836
 Director of Passports	11628
 Directorates for Passports and Immigrations	18595
+Duplicate Passports	20221
 DÉJÀ SOUVENT TEMPS EN PAS DANS	13300
 D’accord Neutre Pas	6959
 E IA PASSATIoN	14479
@@ -396,6 +397,7 @@ Majesty's Passport Office	14091
 Making the Past	14047
 Male Female Total Without SC Passed	14815
 Mandatory Password Requirements	19956
+Manual Passports	20221
 Marien Pascal	16100
 May. The Ne Touche Pas	17950
 Meeting Password	15028
@@ -641,6 +643,7 @@ PASSEPORT	16871
 PASSEPORT DE SERVICE	16871
 PASSEPORT DIPLOMATIQUE	16871
 PASSEPORTS	3381
+PASSER DE LA JUXTAPOSITION DES INITIATIVES	20075
 PASSEZ	13300
 PASSI	17534
 PASSIF	15456,2576,1818
@@ -883,7 +886,7 @@ Passoré	10847
 Passoré Nord	15715
 Passos	2784
 Passowendé Pélagie Kabré	6464
-Passport	1525,156,198,3,81,1472,1200,410,488,154,428,1441,289,86,1486,414,883,51,10,37,10,497,540,81,46,55,123,38,16,109,10,73,574,21,328,664,650,113,18,6,63,118,139,289,22,15,393,366,652,82,1672,107,339,8,469,58,123,62,106,60,8,1
+Passport	1525,156,198,3,81,1472,1200,410,488,154,428,1441,289,86,1486,414,883,51,10,37,10,497,540,81,46,55,123,38,16,109,10,73,574,21,328,664,650,113,18,6,63,118,139,289,22,15,393,366,652,82,1672,107,339,8,469,58,123,62,106,60,8,1,239,46
 Passport Act	13497
 Passport Act No	12449
 Passport Administration	4480
@@ -915,7 +918,7 @@ Passport Project	14830
 Passport Scandal	10644,6714
 Passport Services	12758
 Passport Size Photo of Informant	16860
-Passport System	14830
+Passport System	14830,5391
 Passport and Border Control System	12597
 Passport and Border Control System. Under Civil	5250
 Passport and Citizenship	1988,10418,43,968,8,183,4078
@@ -928,7 +931,7 @@ Passport for Africa's Digital Economy Closing	8111
 Passport. Section	16837
 Passporting	8464,6355
 Passporting Digital Licences	8111
-Passports	320,1548,1332,1092,544,697,58,1658,320,292,1079,646,731,645,312,712,341,77,1641,629,231,3757,36,28
+Passports	320,1548,1332,1092,544,697,58,1658,320,292,1079,646,731,645,312,712,341,77,1641,629,231,3757,36,28,1495
 Passports Act	7845,6998
 Passports Desired	11986
 Passports Digital	5533
@@ -936,6 +939,7 @@ Passports FSI	17025
 Passports Indicator	11986
 Passports Introduction	11986
 Passports NA	11986
+Passports Office	20221
 Passports Regulations	14742
 Passports Replacement of Green-barcoded IDs	5533
 Passports and Citizenship	1778,89,121,11437
@@ -948,7 +952,7 @@ Passports and Immigration Major General Elia Costa	18733
 Passports and Work Permits Issued	2775
 Passports. Ugandan	320
 Passware	18873
-Password	3768,1333,632,218,4858,379,1157,14,692,282,1547,41,243,1760,499,1074,22,3,33,1407
+Password	3768,1333,632,218,4858,379,1157,14,692,282,1547,41,243,1760,499,1074,22,3,33,1407,259
 Password Expiry Requirement Not Enforced	14546
 Password Management	12364
 Password Policy	10721,4200

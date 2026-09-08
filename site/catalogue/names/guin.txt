@@ -206,7 +206,7 @@ Conakry. La Guinée	16641
 Conclusion Guinea	20004
 Conclusion La Semaine du Numérique de Guinée	16674
 Conferencia Episcopal de Guinea Ecuatorial. Esta	16897
-Congo Central African Republic Equatorial Guinea	10837,1503,7598
+Congo Central African Republic Equatorial Guinea	10837,1503,7598,274
 Congo Eswatini Ethiopia Gambia Guinea Malawi	10764
 Congo Guinée Bissau	17833
 Congo and Equatorial Guinea	1828
@@ -309,7 +309,7 @@ Displacement Context and Refugee Profiles Equatorial Guinea	10841
 Division Golfe de Guinée	8673
 Diálogo de Liderança Juvenil. A Guiné-Bissau	17042
 Diáspora de Guinea Ecuatorial	17175
-Djibouti Cameroon Comoros Mauritania Guinea Burundi	10837,1503,7598
+Djibouti Cameroon Comoros Mauritania Guinea Burundi	10837,1503,7598,274
 Djibouti Equatorial Guinea	13042
 Doter la Guinée	16641
 Drugs and Crime Guinea-Bissau	11586
@@ -546,7 +546,7 @@ Estado da Guiné-Bissau	11513,17,1,5535
 Estado de Guinea Ecuatorial	1701,15241,229
 Estado de Guinea Ecuatorial. CAPÍTULO II	16855
 Estado. Agenda Guinea Ecuatorial	1701
-Estadística de Guinea Ecuatorial	16898,27,17
+Estadística de Guinea Ecuatorial	16898,27,17,3124
 Estadísticas Oficiales de Guinea Ecuatorial. Esta	12075
 Estrategia de Desarrollo Sostenible de Guinea Ecuatorial	1701
 Estrategia de Guinea Ecuatorial	1701
@@ -736,7 +736,7 @@ Guine	16705
 Guine Bissau	15380
 Guine-Bissau	11555
 GuineTelecom	11545
-Guinea	7,135,22,70,78,32,58,1,249,60,34,108,79,80,33,95,1,1,22,13,1,38,18,8,21,13,54,85,49,56,21,6,87,116,1,76,81,198,10,142,44,179,195,5,99,10,13,285,167,7,115,156,6,9,55,117,179,1,58,27,1,43,6,54,6,20,26,188,7,10,236,348,41,117,155,39,68,44,284,1,1,32,21,16,37,22,100,260,59,23,57,34,6,1,153,92,94,170,312,18,98,166,226,28,1,366,9,291,76,633,461,563,116,156,194,72,70,45,5,21,16,18,16,3,3,15,28,25,59,15,8,341,88,105,25,2,8,2,19,28,258,3,16,1,2,203,61,1,9,47,131,11,1,32,103,882,18,273,52,385,91,1235,47,110,314,249,57,242,171,8,16,10,1,1,4,11,10,1,3,15,2,2,7,11,3,8,3,7,2,2,131,4,22,38,6,16,14,6,1,15,105,2,13,26,95,2,23,60,3,1,56,25,189,151,117,8,66,155,218,135,31,10,19,3,30,217,5,893,1,169,14,2,20,1,19,61,27,14,4,3,1,2,3,2,1,5,1,2,5,1,3
+Guinea	7,135,22,70,78,32,58,1,249,60,34,108,79,80,33,95,1,1,22,13,1,38,18,8,21,13,54,85,49,56,21,6,87,116,1,76,81,198,10,142,44,179,195,5,99,10,13,285,167,7,115,156,6,9,55,117,179,1,58,27,1,43,6,54,6,20,26,188,7,10,236,348,41,117,155,39,68,44,284,1,1,32,21,16,37,22,100,260,59,23,57,34,6,1,153,92,94,170,312,18,98,166,226,28,1,366,9,291,76,633,461,563,116,156,194,72,70,45,5,21,16,18,16,3,3,15,28,25,59,15,8,341,88,105,25,2,8,2,19,28,258,3,16,1,2,203,61,1,9,47,131,11,1,32,103,882,18,273,52,385,91,1235,47,110,314,249,57,242,171,8,16,10,1,1,4,11,10,1,3,15,2,2,7,11,3,8,3,7,2,2,131,4,22,38,6,16,14,6,1,15,105,2,13,26,95,2,23,60,3,1,56,25,189,151,117,8,66,155,218,135,31,10,19,3,30,217,5,893,1,169,14,2,20,1,19,61,27,14,4,3,1,2,3,2,1,5,1,2,5,1,3,222
 Guinea Agency for Environmental Assessment	20002
 Guinea Begins Work	6858
 Guinea Bissau	7,1409,1261,98,2620,2057,4073,16,4,4,1,2,5,22,2,5,3,320,1804,476,1955,57,40,695,169,9,8,42,32,13,99,15,1,2,43,567,155,380,33,1498
@@ -785,7 +785,7 @@ Guinea ECOWAS Economic Community of West African	16978
 Guinea EGDI	3534
 Guinea EITI	16719
 Guinea Ecuatori-	16942
-Guinea Ecuatorial	975,726,1478,315,715,3494,1,1,343,35,71,218,931,15,206,403,391,43,126,1185,403,443,1663,123,2534,17,4,5,1,6,4,18,1,1,2,1,20,2,5,8,9,20,7,10,17,30,5,18,2,10,12,14,2,20,3,16,22,11,14,27,21,2,2,26,1,28,19,6,33,9,28,12,1,2,1,6,10,6,7,3,1
+Guinea Ecuatorial	975,726,1478,315,715,3494,1,1,343,35,71,218,931,15,206,403,391,43,126,1185,403,443,1663,123,2534,17,4,5,1,6,4,18,1,1,2,1,20,2,5,8,9,20,7,10,17,30,5,18,2,10,12,14,2,20,3,16,22,11,14,27,21,2,2,26,1,28,19,6,33,9,28,12,1,2,1,6,10,6,7,3,1,2669
 Guinea Ecuatorial BDEAC	16898
 Guinea Ecuatorial CNEDOGE	16942
 Guinea Ecuatorial Comunicaciones GECOMSA	16942
@@ -808,6 +808,7 @@ Guinea Ecuatorial Nota	16969
 Guinea Ecuatorial Noticias	16897
 Guinea Ecuatorial Numero	16898
 Guinea Ecuatorial PNUD Guinea Ecuatorial	16979
+Guinea Ecuatorial Por Fernando Abeso Edu	20095
 Guinea Ecuatorial ProFADS Programa de Formación	16920
 Guinea Ecuatorial Página Web Institucional	16868,38,12,63,8,1,36,5,18,12,48,41,11,1,13,50,2,2,24,1,8,39,18,24,20,10,9,40
 Guinea Ecuatorial URL	16838,136,5,414
@@ -836,6 +837,7 @@ Guinea Ecuatorial. Este	16979
 Guinea Ecuatorial. Esto	3179
 Guinea Ecuatorial. GITGE	3179
 Guinea Ecuatorial. Guinea Ecuatorial	12518
+Guinea Ecuatorial. La Fiscalía General	20095
 Guinea Ecuatorial. Las	16898
 Guinea Ecuatorial. Link	16942
 Guinea Ecuatorial. MAGBMA	16875
@@ -921,7 +923,7 @@ Guinea and Cameroon	17556
 Guinea and Côte	16676,584
 Guinea and ECOWAS	312
 Guinea and EDG	20002
-Guinea and Guinea Bissau	16966
+Guinea and Guinea Bissau	16966,3257
 Guinea and Huawei Deepen Strategic Partnership	16739
 Guinea and India	15581
 Guinea and Liberia	16676,1809,94
@@ -929,7 +931,7 @@ Guinea and Liberia URL	16676
 Guinea and Mauritania	16705,221
 Guinea and Mauritania. Implemented	16705
 Guinea and Niger. IeDA	15581
-Guinea and Senegal	3436,13530
+Guinea and Senegal	3436,13530,3257
 Guinea and Sierra Leone	3089,2935,10848,1635
 Guinea and Sierra Leone EIB	18507
 Guinea and Sierra Leone Link National Fibre	3089
@@ -955,14 +957,14 @@ Guinea- Bissau Public Policy	11560
 Guinea- Bissau and Mauritania	16144
 Guinea- Bissau. Progress	16705
 Guinea-Bis	11550
-Guinea-Bissau	1002,11,130,36,1,84,13,188,56,27,150,527,20,14,224,199,322,49,193,260,530,66,30,18,82,577,103,72,76,340,33,96,86,733,74,172,116,116,626,57,193,5,88,248,1383,374,388,15,19,350,72,115,26,50,3,2,8,8,16,12,84,172,3,296,85,1,8,2,1,3,2,4,1,3,1,2,1,1,3,1,1,1,2,1,6,1,2,3,4,2,5,23,153,3,102,3,9,7,1,2,28,76,160,1,9,178,11,1,32,103,882,1796,305,79,71,523,535,15,11,231,6,63,2,8,8,5,11,9,47,69,21,11,13,12,24,3,33,42,1,2,5,7,1,12,18,11,482,915,875,1,169,14,22,1,80,27,21,15
+Guinea-Bissau	1002,11,130,36,1,84,13,188,56,27,150,527,20,14,224,199,322,49,193,260,530,66,30,18,82,577,103,72,76,340,33,96,86,733,74,172,116,116,626,57,193,5,88,248,1383,374,388,15,19,350,72,115,26,50,3,2,8,8,16,12,84,172,3,296,85,1,8,2,1,3,2,4,1,3,1,2,1,1,3,1,1,1,2,1,6,1,2,3,4,2,5,23,153,3,102,3,9,7,1,2,28,76,160,1,9,178,11,1,32,103,882,1796,305,79,71,523,535,15,11,231,6,63,2,8,8,5,11,9,47,69,21,11,13,12,24,3,33,42,1,2,5,7,1,12,18,11,482,915,875,1,169,14,22,1,80,27,21,15,72,112
 Guinea-Bissau 31 APPENDIX I. Letter of Intent	17209
 Guinea-Bissau 32 APPENDIX I. Letter of Intent	17326
 Guinea-Bissau AFR LI	17743
 Guinea-Bissau Average Sierra Leone Liberia	16876
 Guinea-Bissau Beyond	7702
 Guinea-Bissau Bulletin	17001
-Guinea-Bissau Congo Republic Libya Chad	10837,1503,7598
+Guinea-Bissau Congo Republic Libya Chad	10837,1503,7598,274
 Guinea-Bissau Copyright Code	11550
 Guinea-Bissau Country Economic Memorandum	11560
 Guinea-Bissau D	11867
@@ -1000,6 +1002,7 @@ Guinea-Bissau Tax Compliance	1698
 Guinea-Bissau The Country Hydromet Diagnostics	11553
 Guinea-Bissau The Ministry of Transport	11552
 Guinea-Bissau Through	17281
+Guinea-Bissau Together	20074
 Guinea-Bissau Type	11570
 Guinea-Bissau UNDP	2245
 Guinea-Bissau URL	17323
@@ -1026,6 +1029,7 @@ Guinea-Bissau. Credit	17185
 Guinea-Bissau. Cultural Relations	11579
 Guinea-Bissau. Electricity	11552
 Guinea-Bissau. Exchange	5677
+Guinea-Bissau. Fatou	20074
 Guinea-Bissau. For Africa	4426
 Guinea-Bissau. Joining the West and Central African Research	11552
 Guinea-Bissau. MOBILIZATION AND DISTRIBUTION PROCESS	17369
@@ -1122,7 +1126,7 @@ Guinea’s National Climate Change Strategy	1264
 Guinea’s National Meteorological Service	16698
 Guinea’s SNCC and Mauritania’s SNEDD	1264
 Guinea’s Single Trade Window Guinea	20004
-Guinee	16627,57,45,237
+Guinee	16627,57,45,237,3257
 Guinee World Bank RSPG	16966
 Guinee-Bissau	11536
 Guinee-Bisseau	16627
@@ -1217,7 +1221,7 @@ Guiné-Bissau. Vieira	17012
 Guiné-Bissaucoordenadas	17308
 Guiné-Conacri	4436,7107,26
 GuinéBissau	9732,114,7359
-Guinée	142,92,512,1596,2,543,365,57,13,179,25,157,257,1114,221,154,233,283,135,120,41,43,329,91,255,165,279,139,79,205,70,5,1,183,243,225,3,117,126,92,433,3,98,49,44,97,22,1,93,114,71,18,203,135,107,2,6,16,116,13,16,17,126,2,156,900,1515,1,9,910,60,649,600,7,39,3,57,24,88,182,39,14,91,89,49,20,55,157,205,1,2,2,3,1,4,1,1,1,4,1,1,1,1,4,1,3,1,1,4,1,6,1,2,7,1,2,1,1,1,1,3,1,3,1,1,1,1,2,1,2,1,2,4,3,2,4,1,1,1,1,1,2,1,3,4,1,2,1,1,1,1,1,2,1,4,4,2,1,1,1,1,1,1,633,97,82,3,267,3,12,3,46,41,112,239,5,19,6,30,1001,7,630,2,2,1,3,10,2,2,1,1,3,1,2,1
+Guinée	142,92,512,1596,2,543,365,57,13,179,25,157,257,1114,221,154,233,283,135,120,41,43,329,91,255,165,279,139,79,205,70,5,1,183,243,225,3,117,126,92,433,3,98,49,44,97,22,1,93,114,71,18,203,135,107,2,6,16,116,13,16,17,126,2,156,900,1515,1,9,910,60,649,600,7,39,3,57,24,88,182,39,14,91,89,49,20,55,157,205,1,2,2,3,1,4,1,1,1,4,1,1,1,1,4,1,3,1,1,4,1,6,1,2,7,1,2,1,1,1,1,3,1,3,1,1,1,1,2,1,2,1,2,4,3,2,4,1,1,1,1,1,2,1,3,4,1,2,1,1,1,1,1,2,1,4,4,2,1,1,1,1,1,1,633,97,82,3,267,3,12,3,46,41,112,239,5,19,6,30,1001,7,630,2,2,1,3,10,2,2,1,1,3,1,2,1,60,24
 Guinée ASSEMBLEE NATIONALE REPUBLIQUE DE GUINEE	16615
 Guinée Alliance Startups	16672
 Guinée Alliance Startups. Cette	16672
@@ -1355,7 +1359,7 @@ GuinéeBissau. L'inauguration	16633
 GuinéeConakry.info	19984
 Guinéejet	16667
 Guinéen	5275,2346,8996,19,15,51,43,261
-Guinéenews	16632,28,10,75
+Guinéenews	16632,28,10,75,3354
 Guinéenne	9731,6518,372,7,86,31
 Guinéenne de Large Bande	3252,2828,10561
 Guinéenne de Large Bande SA	16626
@@ -1519,7 +1523,7 @@ La Compagnie des Bauxites de Guinée	16627
 La Cónsul General de Guinea Ecuatorial	16980
 La Embajada de Guinea Ecuatorial	17390
 La G de Guinea El Gobierno	14265
-La Guinée	7403,139,79,205,1648,68,392,338,260,33,126,5467,460,3,5,1,6,11,13,13,1,12,5,2,10,1,6,13,2,2,4,3,13,816,3,2423
+La Guinée	7403,139,79,205,1648,68,392,338,260,33,126,5467,460,3,5,1,6,11,13,13,1,12,5,2,10,1,6,13,2,2,4,3,13,816,3,2423,113
 La Guinée Equatoriale	11944
 La Guinée-Bissau	11826
 La Guinéenne de Large Bande	16647
@@ -1797,7 +1801,7 @@ População da Guiné-Bissau	7666
 Portfolio Approach of Accelerator Lab Guinea Bissau	11541
 Portos da Guiné-Bissau	17111
 Poste Guinéenne	16641
-Pour la Guinée	9425
+Pour la Guinée	9425,10674
 Povo Guiné-Bissau AFF Análise	11557
 Prefácio A Guiné	11537
 Prensa de Guinea Ecuatorial	975,5323,1785,289,182,511,237,1,624,1745,2509,34,89,2564,3,22,1,1,8,3,12,7,8,12,20,15,1,5,1,2,1,32,4,1,4,18,2,10,12,3,11,2,20,3,16,22,11,1,9,4,19,8,20,1,1,1,2,2,15,2,7,1,8,20,11,8,4,4,4,6,21,3,6,14,10,4,5,7,3,7,9,1,6,7,4
@@ -1966,11 +1970,12 @@ Rwanda Guinée Conakry	17833
 Rwanda Mozambique Central African Republic Guinea-Bissau	14896
 RÉPUBLIQUE DE GUINÉE	16620,88
 RÉPUBLIQUE DE GUINÉE Travail-Justice-Solidarité PRESIDENCE	16616
-République de Guinée	164,69,1,512,1696,799,68,2771,862,679,109,96,94,56,1,340,239,335,746,1,268,481,92,5494,202,437,1,2,1,1,2,1,4,1,1,1,1,6,1,1,1,4,5,4,1,2,3,1,1,16,3,4,19,13,8,2,1,7,1,8,4,1,2,1188,465,2,1,1581,2,5,3,13,7
+République de Guinée	164,69,1,512,1696,799,68,2771,862,679,109,96,94,56,1,340,239,335,746,1,268,481,92,5494,202,437,1,2,1,1,2,1,4,1,1,1,1,6,1,1,1,4,5,4,1,2,3,1,1,16,3,4,19,13,8,2,1,7,1,8,4,1,2,1188,465,2,1,1581,2,5,3,13,7,85
 République de Guinée BM	16621
 République de Guinée Bureau de Stratégie	16722
 République de Guinée CERT Equipe	16626
 République de Guinée Cambridge Education	16628
+République de Guinée E-FONIJ	20075
 République de Guinée Equatorial	16001
 République de Guinée Guinea-Bissau No Guyana	11529
 République de Guinée Ministère du Budget Direction Nationale	16629
@@ -2175,7 +2180,7 @@ UNE NOUVELLE ERE ENTRE LA GUINEE	16617
 UNFPA Guinea-Bissau	17005,2,324
 UNFPA Guiné-Bissau	17178
 UNGE Universidad Nacional de Guinea Ecuatorial	16864
-UNICEF Guinea-Bissau	11525,5490
+UNICEF Guinea-Bissau	11525,5490,3059
 UNICEF Guinea-Bissau Artigo	17015
 UNICEF Guinée	8555,8073
 UNICEF Guinée Mott MacDonald Limited	16628

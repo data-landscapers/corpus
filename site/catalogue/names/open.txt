@@ -64,7 +64,7 @@ Axian Open Innovation	4076
 Azure and OpenAI	9951
 B New DRC Sports Field Open	13046
 B- Open	7548
-BMJ Open	771,3020,7090,715,650,794,3956,2978
+BMJ Open	771,3020,7090,715,650,794,3956,2978,245
 BPMJ-06-2023-0465 Open Access Page	9237
 BROADENED OPEN DATA USAGE	16885
 Background Open Science	5246
@@ -219,6 +219,7 @@ Dig Once Policy. Enforce Open Access	11857
 Digital Micro Pension Remote Account Opening	19940
 Digital Threats Rise Samsung Opens	2987
 Digital Trade Should Remain Open	14932
+Digital Trade. Opening	20094
 Draft Open Banking Framework Legal Department	11134
 Draft Open Data Policy	19641
 Développement Durable Open Data Inventoriés Organisation	17978
@@ -339,7 +340,7 @@ Goals Open	14752
 Gold Open Access	9232
 Google Opens Africa AI Lab for Startup	8698
 Government Open Data Portal	16939
-Government Open Data Strategy	16939
+Government Open Data Strategy	16939,3281,4
 Government of Nigeria. Open Treasury	11866
 Government of Sierra Leone Open Hours	18453
 Government. Open	13017
@@ -372,6 +373,8 @@ IDT4M Project OPEN	12241
 IEEE Open Journal	8606
 IGO Open Access	5618
 II. Opening and Introduction	13512
+IJTLD OPEN	20219
+IJTLD Open	20219
 IN-8 Open Access IN-7	11857
 INS. Open Data Watch	16421
 Impact Opening	12104
@@ -434,6 +437,7 @@ Leveraging Open Source Technologies for NRLAIS	13998
 Leveraging Open-Source Tools for Decentralisation	12196
 Leveraging OpenEMIS for Efficient	13143
 Liberia Open Data Portal	17043
+Liberia's New Collateral Registry Opens Credit	20104
 Lifestyle Open Doors	8843
 Lilongwe Open Neutral Internet Exchange	9654,3466
 Local Governments. The Nigeria Open Data	11854
@@ -471,11 +475,12 @@ Microsoft Morocco NEWS Nvidia Oman OpenAI	5322
 Microsoft Open Education	4126
 Microsoft and OpenAI	13461
 Million Tanzania AI Loan Opens Door	19622
+Minister Diouf's Opening	20112
 Miva Open University and Abuja-based	8780
 Mobile Money Open APIs	16809
 Modular Open	19243,5
 Modular Open Source Identification Platform	658,1512
-Modular Open Source Identity Platform	1846,874,71,1043,1866,687,305,2664,75,3284
+Modular Open Source Identity Platform	1846,874,71,1043,1866,687,305,2664,75,3284,7482
 Modular Open Source Identity Platform Development	290
 Modular Open-Source Identity Platform	2289,693,2103,1286,172
 Morocco Opens Bidding for Nine Stations	4769,394,334,86
@@ -773,7 +778,7 @@ Open Data Officers	15714
 Open Data Oui	748
 Open Data PRIVACY Social Media	9937
 Open Data Parlementaire Accueil Open Data	9480
-Open Data Platform	3310,1717,6527,3377,1807,930,736
+Open Data Platform	3310,1717,6527,3377,1807,930,736,1657
 Open Data Platform Continues	17291,31,79
 Open Data Platforms	17539
 Open Data Policies	12675
@@ -808,7 +813,7 @@ Open Data Sharing and Management Principles	16939
 Open Data Sharing and Management Principles MOCDE	16939
 Open Data Startups ADD	2258
 Open Data Steering Committee	11873
-Open Data Strategy	2105,1723,295,8940,417,3459,299
+Open Data Strategy	2105,1723,295,8940,417,3459,299,2982
 Open Data Strategy Currently	16939
 Open Data Strategy Implementation Plan	16939
 Open Data Strategy and Action Plan	16939
@@ -1029,6 +1034,7 @@ Open Parliament. Malaŵi	12987
 Open Peers	11878,499,245,121,2135,3,2067,1631
 Open Port	18420
 Open Practices Open	8436
+Open Public School	20119
 Open Question None	11086
 Open R4	14897
 Open Researcher and Contributor ID	11922
@@ -1112,6 +1118,7 @@ Open University of Mauritius PFIs	14775
 Open University of Sudan	14851
 Open University of Sudan Development	14851
 Open University of Tanzania	7258
+Open University of Tanzania and UNESCO	20208
 Open Virtual Spaces	13991
 Open Visas	4528,7984
 Open Web Application Security Project	8439,798,8665
@@ -1188,7 +1195,7 @@ Open-weight	5682,12013
 Open.Enabel	13374
 Open.Enabel Accueil	13374
 Open20	16212
-OpenAI	2379,437,175,1054,81,350,229,76,191,57,13,174,8,33,107,7,596,510,21,217,93,199,53,87,61,1,242,162,401,205,100,28,1,248,9,39,47,11,86,9,66,162,2,142,115,308,16,822,15,605,166,92,196,81,625,465,786,1,859,345,20,2097,1019
+OpenAI	2379,437,175,1054,81,350,229,76,191,57,13,174,8,33,107,7,596,510,21,217,93,199,53,87,61,1,242,162,401,205,100,28,1,248,9,39,47,11,86,9,66,162,2,142,115,308,16,822,15,605,166,92,196,81,625,465,786,1,859,345,20,2097,1019,2283
 OpenAI AI	8692
 OpenAI API	11578
 OpenAI Academy	5042,1673
@@ -1348,7 +1355,7 @@ Opendata	747,1,439
 Opendefinition.org	5246
 Opened	3313,1561,6082,224,6342,1359
 OpenedTenders.do	17037
-Opening	1244,221,523,1348,993,92,255,38,288,239,179,143,355,95,84,641,10,179,44,167,17,274,188,33,52,79,93,89,87,293,547,192,14,111,131,31,24,29,116,385,711,142,17,157,205,86,28,321,316,277,18,127,259,10,84,421,11,45,304,104,44,289,111,7,123,27,30,1,230,352,13,26,6,391,231,26,105,255,410,309,49,249,105,51,86,12,171,42,88,255,379,502,35,15,132,16,148,777,101,34
+Opening	1244,221,523,1348,993,92,255,38,288,239,179,143,355,95,84,641,10,179,44,167,17,274,188,33,52,79,93,89,87,293,547,192,14,111,131,31,24,29,116,385,711,142,17,157,205,86,28,321,316,277,18,127,259,10,84,421,11,45,304,104,44,289,111,7,123,27,30,1,230,352,13,26,6,391,231,26,105,255,410,309,49,249,105,51,86,12,171,42,88,255,379,502,35,15,132,16,148,777,101,34,334
 Opening Balance	15023
 Opening Ceremony	15748,2045
 Opening Date	4896
@@ -1392,11 +1399,14 @@ Openness and Transparency	8603
 Opens	2313,54,620,16,13,949,1060,183,195,79,80,589,758,335,8,60,159,52,208,552,153,594,10574
 Opens Application for Nigerians	8350
 Opens Bigger Market for Ghana’s Women Producers	7523
+Opens First Decentralized Service Center	20127
 Opens Orange Sierra Leone Data Centre	4114
-Openserve	5050,3735,232,428
+Openserve	5050,3735,232,428,10756
+Openserve Openserve	20201
 Openserve Webconnect	11259
 Openserve and Frogfoot Rise	10735
 Openserve's ISP	9445
+Openserve. Sunil Piyarlall	20201
 Opensignal	6832,2927,4446
 Openstack and Huawei Fusion Sphere	9455
 Openview	2826,901,2016,126
@@ -1610,6 +1620,7 @@ TOGAF The Open Group Architecture Framework	15512,3019
 TRADE OPENNESS Surveyed	5247
 TRANSPARENCY AND ACCOUNTABILITY Open	1243
 Table AS. The Open Systems Interconnection	1009
+Taiwan Opens Global Markets for Eswatini Through	20123
 Tanzania Data Open Skies Fellows	19521
 Tanzania Open	19521
 Team OPD Open Patient Department RHIS	3791
@@ -1623,7 +1634,7 @@ Threshold Category Open Open Short List	11855
 Through the GSMA Open Gateway	6714
 Trade Openness	5247
 Trade Openness and Foreign Trade	5247
-Trade Union Confederation ODW Open Data	10759,78,1052,451
+Trade Union Confederation ODW Open Data	10759,78,1052,451,7872
 Trade and Development WOAN Wireless Open Access	11196
 Translate.org. Open-source	985
 Transport and Communi Open	17219

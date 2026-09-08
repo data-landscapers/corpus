@@ -305,7 +305,7 @@ Council Cession Land Matombo Manyoro Purchased	4896
 Council Cession Stand Land Gwanda	4896
 Council Cession. Pur- Land	4896
 Council of Land Surveyors	12511
-Country Landscape	11483,1095
+Country Landscape	11483,1095,7606
 Country Landscape AI	11483,7357
 Country Landscape. Botswana's Country Report	12578
 Country Landscape. São Tomé and Príncipe's Country	18840
@@ -377,7 +377,9 @@ Department of Land and Planning	1161
 Department of Land and Survey	16916
 Department of Lands	7167,5086,4763,2000
 Department of Lands and Housing	19096
+Department of Lands and Surveys	20226
 Departments of Lands	12212
+Deputy Auditor General Mr Morie Lansana	20083
 Deputy Auditor General Mr. Morie Lansana	9680
 Deputy Minister for Lands	6123
 Deputy Minister for Lands and Natural Resources	16410
@@ -565,7 +567,7 @@ Forest Land	17140
 Forest Lands	16848,292
 Forestry Development Authority Land Rental Fees	17011
 Forestry Land	18567
-Forests Land	10837,1315,188,7598
+Forests Land	10837,1315,188,7598,274
 Français Langue	18014
 Fredericks Langman	8960
 French Language. Equip	12972
@@ -694,6 +696,7 @@ IMPLEMENTATION OF THE NATIONAL LAND POLICY	18619
 INTERNET RELEVANT LANGUAGE ME	11964
 INTRODUCTION OF LAND TAX ON FREEHOLD	12912
 IPCC Land	17140
+IPv4 Soft Landing	20159,1
 IQSTEL.com. Official Investors Landing Page	16412
 ISOC IRAZ LAN Information Developpment Authority	13290
 ISO’s Land Cover Meta Language	15129
@@ -889,6 +892,8 @@ LCML Land Cover Meta Language LU	15129
 LDA Land Drainage Authority LEO Low	14828,3
 LE CNS LANCE SES CHANTIERS	17993
 LE Egyptian Pounds LGAF Land Governance	15473
+LE FONIJ LANCE UN APPEL	20075
+LE FONIJ LANCE UNE MOBILISATION NATIONALE	20075
 LEGISLATIVE AND REGULATORY LANDSCAPE	11196
 LEGISLATIVE AND REGULATORY LANDSCAPE South African	11196
 LERCJ Ministry of Lands. Mines and Energy Rural	16851
@@ -912,6 +917,7 @@ Lancaster Re-Ndama	15973
 Lancaster University	16046
 Lance	10876
 Lance Grootboom	12521
+Lance Williams	20155
 Lancement	1287,609,446,214,140,105,116,43,617,366,950,1201,733,230,128,435,149,31,716,40,335,777,325,280,12,591,46,168,2284,31,28,72,13,54,13,53,2,34,3,12,230,506,114,15,39,3,26,170,664,38,120,156,64,1,2,10,1,88,12,27,40,30,6,14,16,11,1,13,23,1,30,5,35,50,64,24,1,10,38,27,16,52,1,5,53,118,10,45,9,1,747,23,341,18,26,2,26,10,13,23,2,10,1,39,28,9,25,4,6,35,33,1,19,15,7,29,13,18,9,11,28,3,133,511,31,96,3,78,40,31,26,60,9,16,22,79,575
 Lancement Formations	13689
 Lancement Groupe Technique National ILLIMI	18160
@@ -1058,6 +1064,7 @@ Land Derivative R	19532
 Land Development	13060,3856
 Land Development Corporation Revenue Services Lesotho	12701
 Land Dispute Mechanisms	12389
+Land Disputes Consume Major Share of Gambia	20097
 Land Disputes Courts Act	19518
 Land Disputes Ease As Govt Fixes	5070,1633
 Land Disputes and Tenure Security	15570
@@ -1082,7 +1089,7 @@ Land Harare	4896
 Land Identification Number	11939
 Land Information Management System	354,73,8530,3180,75,923
 Land Information Management Systems MDA Ministries	13420
-Land Information System	2597,7130,2863,15,646,3621,183,50,123,1066,60
+Land Information System	2597,7130,2863,15,646,3621,183,50,123,1066,60,1743
 Land Information System Development	18534
 Land Information System Development Baseline Actual	18534
 Land Information System LRD	15657
@@ -1468,6 +1475,7 @@ Landry Signé	5440,4269
 Landry Système	15744
 LandrySigne	5440
 Lands	940,1652,2935,3430,1356,2198,401,148,54,589,864,169,737,1385,15,43,224,1323,1186,11
+Lands Acquisition and Compensation Act	20226
 Lands Act	13305
 Lands Act CAP	1867
 Lands Act Cap	1988
@@ -1476,6 +1484,7 @@ Lands Commission ICT Unit Date	19956
 Lands Commission LDR	15657
 Lands Commission Online Portal	19956
 Lands Commission Online Services Explore	19956
+Lands Commission Seyfo	20221
 Lands Commission and Office	16511
 Lands Commission and PDB	19981
 Lands Commission's Executive Secretary	19981
@@ -1487,6 +1496,7 @@ Lands Compensation Fund	13420
 Lands Department	18965
 Lands Digitization	12433,529
 Lands Minister	8741
+Lands Minister Hamat N.K. Bah	20097
 Lands Minister Jinapor	19981
 Lands Registry	18477
 Lands Secretary Sarah Maina	3374
@@ -1593,6 +1603,7 @@ Language Training	13462
 Language Type	19542
 Language Type Kiswahili and English	19542
 Language WHAT MOTIVATES INITIAL USE	19878
+Language We Learned	20151
 Language and Culture	13461
 Language and Localisation	11952
 Language and Localisation Requirement	11952
@@ -1631,7 +1642,7 @@ Lankoué Sourou Boucle du Mouhoun	15715
 Lannquist	4126
 Lanre Onilu	17792
 Lans Keifala	18564
-Lansana	9680
+Lansana	9680,10403
 Lansana Béa Diallo	7978
 Lansana Béavogui	10532
 Lansana DIAWARA RECIPROC Président	16620
@@ -1858,11 +1869,11 @@ Ministry of Lands and Housing GIS DATA SHARING	18904
 Ministry of Lands and Human Settlement Development	19585
 Ministry of Lands and Human Settlements Development RUWASA	19519
 Ministry of Lands and National Land Commission Land	18504
-Ministry of Lands and Natural Resources	1249,625,5821,4674,87,931,3124
+Ministry of Lands and Natural Resources	1249,625,5821,4674,87,931,3124,3560
 Ministry of Lands and Natural Resources PVLMD	15657
 Ministry of Lands and Natural Resources. Madam Speaker	1222
 Ministry of Lands and Physical Planning	14427
-Ministry of Lands and Regional Government	16867,59
+Ministry of Lands and Regional Government	16867,59,3300
 Ministry of Lands and Resettlement	12907
 Ministry of Lands and Urban Development. The World	13135
 Ministry of Lands. Mines and Energy	16851
@@ -1956,7 +1967,7 @@ National Land Information System	13251,1176
 National Land Information System NSAAs National	11261
 National Land Management Institute	15570
 National Land Observatory	18293
-National Land Policy	9727,2410,775,339,645,980,2229,19,104,1391
+National Land Policy	9727,2410,775,339,645,980,2229,19,104,1391,1607
 National Land Policy Implementation Unit	9727,7397
 National Land Policy Launching Workshop	17124
 National Land Policy Validation Workshop	18619
@@ -2180,7 +2191,7 @@ REMITTANCE LANDSCAPE Remittances	11960
 REPORT OF THE AUDITOR-GENERAL ON LAND	15657
 RGD Land Registry	14761
 RINEX Peering LAN	14864
-RURAL ECONOMY Rural Land	10759,78,1052,451,7598
+RURAL ECONOMY Rural Land	10759,78,1052,451,7598,274
 RURAL LAND	15473
 RWANDA LAUNCHED ELECTRONIC LAND REGISTRATION CERTIFICATE	12451
 RWANDA NATIONAL ID LAND SCAPE. SMART	10819
@@ -2201,6 +2212,7 @@ Reform Priorities Land	15473
 Reform and Modernization of Property and Land Registry	18825
 Reform of Land Administration	19654
 Regarding the Socialist Land Registry Real	16916
+Regional Government and Lands	20226
 Regional Lands Commission Chairman	16410
 Regional Market Landscape and Key Policy Drivers	12048
 Regional Somali Language Academy	10451
@@ -2262,7 +2274,7 @@ Rules for Land Development	15473
 Rural Development MLHCP Ministry of Lands Housing	18504
 Rural Development and Land Reform	11188
 Rural Development and Land Reform DSD Department	11188
-Rural Land	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Rural Land	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 Rural Land Administration	13998
 Rwanda Land Dashboard	12457
 Rwanda Land Management and Use Authority	431,11902
@@ -2338,6 +2350,7 @@ Sierra Leone By Hassan Lansana Koroma	3895
 Sierra Leone Land Administration	1161
 Sierra Leone Land Administration Project	18534,4,1,30
 Sierra Leone The National Land Commission	18465
+Sierra Leone. Mr Lansana	20083
 Sierra Leone’s Public Procurement Landscape	18500
 Sign Language	12692
 Sign Language Rights	12977
@@ -2357,7 +2370,7 @@ Social Security Lane	14738
 Social Specialist. Bolong Landing Sonko	19988
 Société Lancaster Ré-Ndama. Ce	15973
 Société Mighty Land	15670
-Soft Landing	11797,66,2808
+Soft Landing	11797,66,2808,5488
 Soft Landing Acquired	12058
 Soft Language of Power	4258
 Soil Conservation and Land Management	14818
@@ -2431,7 +2444,7 @@ State Land Enhancing	15473
 State Land Fund. ARTICLE	12771
 State Land Management	15473
 State Land Uses MALR Ministry of Agriculture	15473
-State Lands Act	587,9140,5101,3,12,1996,129,1498
+State Lands Act	587,9140,5101,3,12,1996,129,1498,1760
 State Lands Act Nil	14713
 State of Land Information	14920
 State of Land Reform	12912
@@ -2471,7 +2484,7 @@ Sustainable Land Management	17157
 Sustainable Land Management Practices	13474
 Sustainable Management of Forests Land	17140
 Sustainable Management of Landscapes and Tenure	12985
-Sustainable Use of Land	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Sustainable Use of Land	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 Swazi Nation Land	12962,92,197
 Swazi Sign Language	12916
 Systematic Land Adjudication and Certification	19711
@@ -2582,7 +2595,7 @@ Urban Planning and Urban Land Code	10930
 Urvine Landsberg	12478
 Use Extensible Markup Language	12360
 Use Extensible Stylesheet Language	12360
-Use of Land	12152,188,7598
+Use of Land	12152,188,7598,274
 Use of Languages	18467
 Use of Languages. Standing Orders. Minutes. Committees	18467
 Users Landowners Investors Service Officers Legal	12211

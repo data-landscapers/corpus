@@ -328,7 +328,7 @@ Mahakim Mobile	17461
 Mahalapye	5328,7224
 Mahalapye Hospital	12607,32
 Mahali	19535
-Mahama	5934,67,799,2379,8367,2420
+Mahama	5934,67,799,2379,8367,2420,105
 Mahama Ayariga	14214
 Mahama Cares	15798
 Mahama Musange Mugano Mukingo Busoro Jarama	12413
@@ -364,7 +364,7 @@ Mahamadou S KEITA IGM	17983
 Mahamadou SACKO	17861
 Mahamadou SAMASSA	17829
 Mahamadou SYLLA	17829
-Mahamadou Sana	3879,1880,2874,7284,436
+Mahamadou Sana	3879,1880,2874,7284,436,3707,104
 Mahamady Secrétaire	17841
 Mahaman	18197
 Mahamane BADAMASSI Technical Team GNB CO	17001
@@ -374,7 +374,7 @@ Mahamane MAIGA LISTE DES MEMBRES	17819
 Mahamane TOURE Secrétaire	17819
 Mahamat	6752,105,12291
 Mahamat Ahmat Allabo	19164
-Mahamat Ali	19148
+Mahamat Ali	19148,966
 Mahamat Alifa Abouna	11719
 Mahamat Allahou Taher	18936,5
 Mahamat Assileck Halata	19028,96
@@ -665,10 +665,10 @@ Premier Ministre Ali Mahamane Lamine Zeine	17671
 Première Dame Madame Kadra Mahamoud Haïd	4402
 President Issoufou Mahamadou and Acting Minister of Foreign	18220
 President Issoufou Mahamadou and Prime Minister Brigi	18220
-President John Dramani Mahama	2338,3594,2,12,2417,116,700,2149,4495,36,1687,171,2248
+President John Dramani Mahama	2338,3594,2,12,2417,116,700,2149,4495,36,1687,171,2248,88
 President John Mahama	7492,8796,3678
 President John Mahama. The Director-General	16232
-President Mahama	4137,1795,2,1,11,55,1694,2440,1193,4495
+President Mahama	4137,1795,2,1,11,55,1694,2440,1193,4495,4248
 Prime Minister Ali Mahamane Lamine Zeine	18209
 Procurement Team Mahamadou Ahmadou Maiga Procurement	17962
 Professeur Ahmadou Mahfoudh	17911
@@ -726,6 +726,7 @@ South Mahé	18947
 Specialist Maysra Mahmoud Ali Shamseldin Environmental	15663
 Sports Mr. Ibrahim Mahamoud	13791
 Sports. Dr Mahamat Ahmat Allabo	5671
+Springbok and Mahikeng	20201
 Steffie Mahoro	13312,2,2160
 Stesheni Uhamiaji Current Zilizo Upelelezi Mahakamani	19517
 Sudan's Mahdist	15342

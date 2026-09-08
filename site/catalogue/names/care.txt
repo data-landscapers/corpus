@@ -318,6 +318,7 @@ EASY CARE	12379
 ECCED Early Childhood Care Education and Development	12975
 EDEN CARE PROACTIVE LIMITED Data Controller	7167
 EDEN CARE PROACTIVE LIMITED Data Processor	7167
+EMS Customer Care	20182
 ENACTED Health Care Agency	19059
 ENHANCEMENT OF CONTINUUM OF CARE	19544
 ENSURE PROVISION OF QUALITY CARE	14546
@@ -411,7 +412,7 @@ Health Care Services A. Health	12977
 Health Care Services Department. Cabinet	19073
 Health Care Standards	12606
 Health Care Support Fund	3583
-Health Care System	10780
+Health Care System	10780,9441
 Health Care URL	14120
 Health Care Workers	19544
 Health Extension Program and Primary Health Care	14033
@@ -562,7 +563,7 @@ Postnatal Care Postnatal	16971
 Postpartum Infant Care Program	6423
 Pour le CARE	9497
 Primary Care BP	16079
-Primary Health Care	21,257,118,375,3530,6475,476,21,695,12,626,1252,915,427,2089,580,293,370,405,907
+Primary Health Care	21,257,118,375,3530,6475,476,21,695,12,626,1252,915,427,2089,580,293,370,405,907,375
 Primary Health Care Centers	12004
 Primary Health Care Centre	19844
 Primary Health Care Facility	11980
@@ -646,7 +647,7 @@ System for Primary Health Care	1261
 T The Child Care and Protection Act	12327
 TREATMENT AND CARE	14546
 TRUST and CARE	5246
-Taifa Care	4153,4781,3380
+Taifa Care	4153,4781,3380,7763
 Targeted Free Health Care Policy	10829
 Technology Materials Health Care Food	4972
 Tertiary Health Care	3583

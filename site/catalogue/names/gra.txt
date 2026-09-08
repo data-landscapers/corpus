@@ -291,6 +291,7 @@ Daily Graphic	3287,280,4,3886,34,1089,494,1231
 Dakar Graphique	18286
 Dans le Grand Sud	14622
 Data Analytics Graduate	14999
+Data Gravity	20171
 Data Protection Regulation GTES Graduate Training	14729
 Data Visualization Tools GRADS Ferret Friend	9475
 Davis and Granić	8130
@@ -523,7 +524,7 @@ GRA Fiscal	236
 GRA Launches ITAS	16254
 GRA News Ghana's Tax Revolution Begins	16254
 GRA STRATEGIC PLAN	16968
-GRA Says New ITAS Will Transform	17208
+GRA Says New ITAS Will Transform	17208,3029
 GRA Secretariat	14843
 GRA Statistics and Data Analysts' Seminar	11038
 GRA TIN	2589
@@ -533,6 +534,7 @@ GRA YouTube	10419
 GRA and ASYCUDA Programme	16631,270
 GRA and RSF Arrangements	17503
 GRA and Senegal Customs Adopt Three-Month	17063,138
+GRA's Commissioner General Yankuba Darboe	20225
 GRA's TIN Centre	16601
 GRA. Darboe	7693
 GRA. ITAS	10419
@@ -696,7 +698,9 @@ Government Grant-in-Aid GoSL Government of Sierra Leone	18512
 Government Grants	1154
 Government Grants. The Central Government	19585
 Government Network Grant No	13527
+Government and Grant-Aided	20217
 Government of Mali. Grant	18016
+Gr-A. Grant-Aided	20217
 GrADS	15907
 Graal	17764
 Grab and WeChat	17467
@@ -746,7 +750,7 @@ Gracious	14854,486
 Gracious Igwe	10653
 Gracious The Merciful The Electronic Transactions	14850
 Gradations of Data Sensitivity and Protection Levels	3861
-Grade	288,524,1175,1,787,173,1001,286,899,914,709,189,298,20,1874,528,283,826,405,61,319,345,2,9,259,24,174,11,530,42,19,62,21,39,26,187,4,78,5,80,514,751,3,29,41,14,3,3,13,3,45,62,13,520,113,583,157,92,416,24,66,9,145,89,1256,638,170,295,129,162
+Grade	288,524,1175,1,787,173,1001,286,899,914,709,189,298,20,1874,528,283,826,405,61,319,345,2,9,259,24,174,11,530,42,19,62,21,39,26,187,4,78,5,80,514,751,3,29,41,14,3,3,13,3,45,62,13,520,113,583,157,92,416,24,66,9,145,89,1256,638,170,295,129,162,382
 Grade A Assistant	11180
 Grade B	5134
 Grade C	5134
@@ -763,12 +767,14 @@ Grade Neutral Data Centre	19532
 Grade Nine Examination	13477
 Grade Number	14742
 Grade One Magistrate Geoffrey Akena	4235
+Grade One Schools	20217
 Grade Online Examination	13991
 Grade Reading Assessment EHCVM Standards Measurement	19988
 Grade Six	6946,6693
 Grade T	13385
 Grade Zero	13016
 Grade-specific GER	14896
+Grade1	20217
 Graded Readers and Big Book HL	11241
 Graden City Properties	13053
 Grades	899,1089,2566,2392,827,3407,89,636,294,1010,101,68,14,621,729,32,18,37,67,75,633,583,249,416,24,161,1527,515
@@ -796,7 +802,7 @@ Gradual	2837,8296,4471,1281
 Gradual Practitioners	3859
 Gradual Stabilisation Amid Persistent Headwinds	13532
 Gradualismo	11361
-Gradually	7522,4705,158,1763,799,2019,410
+Gradually	7522,4705,158,1763,799,2019,410,2847
 Graduands	17347
 Graduands and Students	17347
 Graduate	6832,5028,3744,540,1895,1480
@@ -832,7 +838,7 @@ Graduated Honours Students	12926
 Graduated Licensing System	14748
 Graduated Masters Students	12926
 Graduated Pipettes This International Standard	16900
-Graduates	1704,1008,1816,2011,40,2871,1186,210,123,915,1,10,76,188,1,45,146,4,132,25,846,458,304,446,433,196,358,51,540,1029,2689,3,87,43
+Graduates	1704,1008,1816,2011,40,2871,1186,210,123,915,1,10,76,188,1,45,146,4,132,25,846,458,304,446,433,196,358,51,540,1029,2689,3,87,43,172
 Graduates of ESATIC	3604
 Graduating Class	17347
 Graduation	13395,1547,196,1835
@@ -905,8 +911,9 @@ Grand Bargain Implementation Agenda	15039
 Grand Bass	17139
 Grand Bassa	10346,6507,68,14,8,6,1,20,1,5,35,32,56,15,25,92,4,4,50
 Grand Bassa Counties	16949,22,22
-Grand Bassa County	8101,1549,7297,23,1,40,88,15,25,570
+Grand Bassa County	8101,1549,7297,23,1,40,88,15,25,570,2418
 Grand Bassa County Administration	17099
+Grand Bassa County Superintendent Karyou Johnson	20127
 Grand Bassa County. Key	16975
 Grand Bassa County. Scientific	17099,15
 Grand Bassa Grand Cape Mount Grand	16935
@@ -1000,7 +1007,7 @@ Grand Niche	12512
 Grand Nokoué	10856
 Grand Nokoué. Il	16362
 Grand Opening of RSU	15173
-Grand Palace Parking	12215,66
+Grand Palace Parking	12215,66,7894
 Grand Palais	2413
 Grand Palais de Paris. Pour	2379
 Grand Parakou	15775
@@ -1231,6 +1238,9 @@ Grant USD	18581
 Grant Value and Inflation	2307
 Grant and Credit	18887
 Grant and Credit. Table	18887
+Grant for Vulnerable Groups	20176
+Grant-Aided	20217
+Grant-Aided School	20217
 Grant-In-Aid	8999
 Grant-equivalent	13868
 Grant-funded	4523
@@ -1546,6 +1556,7 @@ International Travel Grant	14742
 Internet Fixe Graphique	998
 Internet Graphique	998
 Internet Gratis	14793
+Internet Society Foundation's Beyond the Net Grant	20100
 Investment Grant Agreement	15901
 Issuing Guarantees and Receiving Grants	19519
 Ivete da Graça	18772,1
@@ -1590,6 +1601,7 @@ LA PROMOTION AU GRADE D’ADJOINT TECHNIQUE	16230
 LA PROMOTION AU GRADE D’ATTACHE PRINCIPAL	16230
 LA PROMOTION AU GRADE D’EDUCATEUR SPECIALISE	16230
 LAND REGISTRATION ACT GRANT	18881
+LBE Schools Multi Grading	20217
 LBS School Improvement Grant	16852
 LES GRANDES DATES	15357
 LES GRANDES REALISATIONS	13301
@@ -1688,6 +1700,7 @@ MLE PRENOMS NOMS GRADES OBSERVATIONS MOSSA	18003
 MTN. Graphique	4459
 MW Grand Gedeh	16978
 Machine Learning Bootcamp Graduation	17173
+Madrassa and Grant-Aided	20217
 Mahwi Grain Millers Plc	14997
 Mai-Nefhi College of Engineering and Technology Graduates	14147
 Maintenance Grant	12373
@@ -1726,6 +1739,7 @@ Million Grant	18862
 Mining Development Agreements for Kasiya Graphite and Rutile	13060
 Ministro Delegado Gran Maestro	4209
 Ministry of Finance and Economic Affairs and GRA	17064
+Ministry of Finance and GRA	20225
 Ministry of Grassroots Development	19284
 Ministry of Social Affairs Wives’ and Children’s Grant	16902
 Mle PRENOMS NOMS GRADES COULIBALY	18032
@@ -1945,6 +1959,7 @@ Principal Magistrate Grade I	19814
 Princípio da Gratuitidade	11388
 Priscilla Gracinda Gomes Data	15181
 Priscilla King Gray Public Service Center	11909
+Private Conventional and Grant-Aided	20217
 Procurement STG System Transformation Grant STR	15661
 Procurement and Grants	19214
 Product Graduate Trainee Human Capital HRH	11134

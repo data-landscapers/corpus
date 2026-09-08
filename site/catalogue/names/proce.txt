@@ -2348,6 +2348,7 @@ I. Procurement Process	14759
 I.8 DATA PROCESSING AND MANAGEMENT	15574
 IA Manual of Procedures	16843
 IACV Procedure	19284
+IANA RC Operating Procedures	20136
 ICT Acceptable Use Guidelines and Procedures	12453,892
 ICT Innovation Programme and Business Process Outsourcing	1283
 ICT Systems and Processes	12917
@@ -2457,8 +2458,8 @@ Job Application Process Section	13037
 Journal of Process Management and New Technologies	9237
 Judicial Procedures Already Digitized	13253
 Judicial Proceedings and Costs	16949
-Judicial Processes	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
-Judicial System Judicial Processes Equality	10759,78,1315,188,7598
+Judicial Processes	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
+Judicial System Judicial Processes Equality	10759,78,1315,188,7598,274
 Jurisdiction Over Insolvency Proceedings	12389
 Justice Chief Magistrate Criminal Procedure Act	12920
 KENNETH ADVOCATES LLP Data Processor INST-983602FF56B	7167
@@ -2703,6 +2704,7 @@ Monitoring Locations Incident Response Processes Physical	6432
 Monitoring and Evaluation Processes and Reporting Mechanisms	4528,7984
 Mothership for Processing	18541
 Mozambican Civil Procedural Code	12161
+NA Procedural	20214
 NASA EOSDIS Land Processes Distributed	13624
 NATIONAL OUVERT EN PROCEDURE D'URGENCE	16581
 NATIONAL PLANNING PROCESS	13318
@@ -2782,7 +2784,7 @@ Open Data Licensing and Publication Procedures Sectoral	3861
 Open National Bidding Procedure	14783
 Operating Procedure IMCC Inter-Ministerial Committee	16843
 Operating Procedure SP-CNPS Permanent Secretariat	16384
-Operating Procedures	1988,1803,8450,2923,1689,1679
+Operating Procedures	1988,1803,8450,2923,1689,1679,1604
 Operating Procedures References	19616
 Operating Procedures TIN Taxpayer Identification Number	18577
 Operating Procedures. Mogadishu	11596
@@ -3087,7 +3089,7 @@ Procedimiento de Disposición. Todo	16855
 Procedimiento de Gestión Electrónica	16855
 Procedimientos	1701
 Procedunret	19525
-Procedural	7221,1,744,1647,3,446,944,1383,1081,4275,1416
+Procedural	7221,1,744,1647,3,446,944,1383,1081,4275,1416,1053
 Procedural Certainty	12389
 Procedural Controls Security	21
 Procedural Directives	3861
@@ -3126,6 +3128,7 @@ Procedurefor	16836
 Procedures	969,31,750,238,1690,536,1451,1162,962,1198,868,866,50,410,343,346,294,89,2,97,12,136,810,66,5,4,1152,328,2,59,18,262,96,171,33,153,4,197,576,403,1,3,5,3,2,10,61,2,17,68,103,43,692,260,184,166,526,229,311,46,5,173,135
 Procedures Act	14932
 Procedures Article	15393
+Procedures Data	20219
 Procedures ESCON Environmental and Social Compliance Note	11863
 Procedures LRREN Liberia Research and Education Network	17099
 Procedures Law	19890
@@ -3628,9 +3631,9 @@ Proposal Evaluation Procedure	19575
 Proposed Procedures for CDD Components	17180
 Proposta de Procedimento de Triagem de Projectos	11406
 Proyecto de Digitalización de Procedimientos	4209
-Public Procurement Procedures	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Public Procurement Procedures	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 Public Procurement Procedures. Best	19924
-Public Sector Public Procurement Procedures Absence	10759,78,1315,188,7598
+Public Sector Public Procurement Procedures Absence	10759,78,1315,188,7598,274
 Publication of Marketplace Listing Process	11995
 Purpose of Processing	13004
 Qualification Process	17534,1009
@@ -3996,6 +3999,7 @@ USED FOR EXPORT PROCEDURES UNDER	14816
 UVRE DES PROCEDURES DE CONCILIATION ET	19295
 Unavailability of Business Processes	19541
 Under the Civil Procedural Code	11550
+Under the Operating Procedures	20136
 Understanding Zim’s Criminal Procedure and Evidence	2888,32,354,504,1444,877,6,100,680,129,293,115
 Underutilization of CRS for Processing	19541
 Unidades de Processamento Gráfico	2816

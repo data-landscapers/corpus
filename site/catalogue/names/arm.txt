@@ -58,11 +58,11 @@ ARMTP	17856,14
 ARMYTEX INTERNATIONAL SECURITY SERVICES LIMITED Data	7167
 ARMÉE DE L’AIR	17828
 Abbreviations ARMC Audit and Risk Management Committee	19666
-Absence of Armed Conflict	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
-Absence of Armed Conflict Absence of Violence	10837,1315,188,7598
+Absence of Armed Conflict	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
+Absence of Armed Conflict Absence of Violence	10837,1315,188,7598,274
 Absence of Armed Conflict1	11889
 Absence of Armed Conflict2	12352
-Acronyms ACLED Armed Conflict Location	10759,76,2,1,130,902,16,3,264,10,177,1,11,1,135,7334,36,80
+Acronyms ACLED Armed Conflict Location	10759,76,2,1,130,902,16,3,264,10,177,1,11,1,135,7334,36,80,274
 Adjudant TSOUMBOU TSOUMBOU Armand	16381
 Administration Sous-officiers des Forces Armées	17899
 African Development Bank ARMD Djibouti Multisector	13885
@@ -191,6 +191,7 @@ Arms Zone	1014,10690
 Arms of Government	4535
 Armstrong	19654
 Armstrong Kadyamatimba	2093
+Armstrong Takang	20185
 Armutsgrenze. Frauen	615
 Army Barracks	12962
 Army Chief of CAR	16277
@@ -446,6 +447,7 @@ Mme. Armelle Aimée MAMBOU	16381
 Mme. Lynda Armelle MBARI DIVASSA	16381
 Monsieur Armand Kuyema NATTA	16535
 Monsieur Armick Mêtounsè Charmant Rovinis OUIDODJICHE	17584
+Mr. Armah Boimah Johnson	20149
 Mr. Arman Zhalitov	17367
 N Sudan People's Liberation Army	15342
 NACIONAL Y ACADEMIAS FUERZAS ARMADAS R	4209
@@ -497,7 +499,7 @@ Republic of Sierra Leone Armed Forces	18440
 Research Center for Army and Security	15553
 Retail Army	7446
 SAF Sudanese Armed Forces	15036
-SAFETY Absence of Armed Conflict	10759,78,1052,451,7598
+SAFETY Absence of Armed Conflict	10759,78,1052,451,7598,274
 SAFETY Absence of Armed Conflict Absence of Violence	10759
 SANTE DES ARMEES	17828
 SANTÉ DES ARMÉES	17828
@@ -508,7 +510,7 @@ SERVICES DU MINISTERE DES FORCES ARMEES	17899
 SEU ARMAZENAMENTO	794
 SEU ARMAZENAMENTO Artigo	794
 SLA-AW Sudan Liberation Army	15220
-Score Rank Absence of Armed Conflict	10838,1048,454
+Score Rank Absence of Armed Conflict	10838,1048,454,7872
 Segunda Estrategia de Armonización	16898
 Serge Armel	16100,174,182
 Services du Ministère des Forces Armées	17899

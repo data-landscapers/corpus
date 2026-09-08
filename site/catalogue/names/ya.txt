@@ -133,6 +133,7 @@ Camarade Yacouba Zabré Gouba	16536
 Cameroon. Yango	5699
 Campus Yas	7899
 Camtel Chief Executive Judith Yah Sunday	7801
+Capitaine de Police Sawadogo Yamyia	20060
 Capitol Diamond Sorage and Auction Yard Data	7167
 Caporal-Chef TCHIBINDA Yan Djessi	16175
 Carrières Yacouba Zabré Gouba	16562
@@ -243,6 +244,7 @@ Elvie Yanick	15744
 Engineer Faruk Yusuf YABO	1909
 Engr. Y. Z. Ya'u	9443
 Enji Yagoub Oxford Poverty and Human Development	15244
+Eric Yaw Nsarkoh	20072
 Excellency Bakary Yaou Sangaré	18209
 Excellency Mr Bakary Yaou Sangaré	18142
 Executive Secretary Dr. Ally Yahaya Simba	15120
@@ -274,6 +276,7 @@ GAZ SA YA	16623
 GENERAL ERCESISHATIF ET REGLEMENTAIRE YATFAIRS CARLINDEY	15999
 GOLO Yao Nukunu	19365
 GRA Commissioner General Yankuba Darboe	7512,181,666,4683
+GRA's Commissioner General Yankuba Darboe	20225
 GUITCHA Yao Essofa SGT	19251
 GVA Togo YAS Togo	19338
 Gambia By Rebecca Yakubu Akatue	10062
@@ -295,6 +298,7 @@ Général Damehame YARK	19227
 H. Yao	5349
 H. Yazdifar	10718
 H.E. Mr. Mahamat Taib Yacoub	16277
+H.E. Yasmin Wohabrebbi	20076
 HAKIKISHENI MNAPATA NAMBA YA NIDA	1921
 HALI YA UHALIFU NCHINI	19517
 HALI YA ULINZI NA USALAMA MAGEREZANI	19590
@@ -648,6 +652,7 @@ Mr. Tinashe Yafele	7014,22
 Mr. YAOUBA ABDOULAYE Minister Delegate	16033
 Mr. Yacouba Barry	16256
 Mr. Yahya Bala K. Wambai	11129
+Mr. Yahya Njie	20217
 Mr. Yankuba Darboe	7694,8937,270
 Mr. Yao	17213
 Mr. Yasdev KISTOMOHUN	14745
@@ -758,7 +763,7 @@ Pour Charlemagne Yankoty	3682
 Pour Dr Yamingué Bétinbaye	4739
 Pour Mme Kano Yahanatou	10471
 Pour Yamoussa Nana Camara	11749
-President Yahya Jammeh	9201
+President Yahya Jammeh	9201,11011
 Previous Post Yakani	3212
 Price Stabilization Fund Annycke Pascal Yahya	16902
 Professeur Mohamed Yakub Janabi	19150
@@ -1206,7 +1211,7 @@ Yale Law J Forum	9739
 Yale Rev Int Stud	5242
 Yale University Press	2518
 Yale University Press. Crum	11050
-Yale Yale Center for Environmental Law	10759,76,2,1,130,902,16,1,2,264,1,9,177,1,11,1,135,7334,36,1
+Yale Yale Center for Environmental Law	10759,76,2,1,130,902,16,1,2,264,1,9,177,1,11,1,135,7334,36,1,353
 Yale&Columbia	11888
 Yalelo Zambia	12376
 Yalelo and Cavendish University	10510
@@ -1266,7 +1271,7 @@ Yamoussoukro. Créer	5221
 Yamoussoukro. Lightness	9014
 Yamoussoukro. Organisée	4170
 Yamoussoukro. Quant	2342
-Yamurai	5847
+Yamurai	5847,14296
 Yamurai AI	5847
 Yan C	17773
 Yana Boys	17119
@@ -1313,6 +1318,7 @@ Yanick	10750
 Yanick F	10887
 Yankolina M. TINGAENA	19305
 Yankolina M. Tingaena	9974
+Yankuba Darboe	20237
 Yankés	15848
 Yann Burtin. Authors	11310
 Yann Gaël	15524
@@ -1349,10 +1355,11 @@ Yaounde IV	15574
 Yaounde International Handicraft Centre	10980
 Yaounde and Douala	103,15471
 Yaounde-based	10962
+Yaounde. Cameroon	20091
 Yaounde. Figure3.11	15574
 Yaounde. Rather	17586
 Yaounde. The General Manager of CAMTEL	4192
-Yaoundé	302,1,8,28,1026,581,411,27,129,182,10,80,32,46,69,150,25,50,37,36,10,89,259,70,131,314,68,22,45,31,64,22,107,61,45,125,10,36,326,226,46,42,192,128,145,191,54,30,12,6,138,145,2,69,64,20,31,74,58,220,192,439,370,188,280,239,240,125,147,334,404,120,8,200,114,21,2,143,167,33,117,8,112,4,5,3,2,4,1,10,4,361,318,844,966,145,61,518,42,114,994,16,63,6,1,37,5,16,29,12,57,2,149,11,39,17,4,95,18,17,48,7,39,17,89,17,27,18,1,8,12,5,30,170,1,5,52,2,6,11,7,11,11,36,143,234,14,409,177,327,911,50,54,69,74,924
+Yaoundé	302,1,8,28,1026,581,411,27,129,182,10,80,32,46,69,150,25,50,37,36,10,89,259,70,131,314,68,22,45,31,64,22,107,61,45,125,10,36,326,226,46,42,192,128,145,191,54,30,12,6,138,145,2,69,64,20,31,74,58,220,192,439,370,188,280,239,240,125,147,334,404,120,8,200,114,21,2,143,167,33,117,8,112,4,5,3,2,4,1,10,4,361,318,844,966,145,61,518,42,114,994,16,63,6,1,37,5,16,29,12,57,2,149,11,39,17,4,95,18,17,48,7,39,17,89,17,27,18,1,8,12,5,30,170,1,5,52,2,6,11,7,11,11,36,143,234,14,409,177,327,911,50,54,69,74,924,202
 Yaoundé Autoroute Port de Kribi	15542
 Yaoundé Cameroon Senegal Union	10764
 Yaoundé Cameroon Union	10844,7279
@@ -1405,6 +1412,7 @@ Yaoundé. Entre	18291
 Yaoundé. Held	17586
 Yaoundé. Housed	3730
 Yaoundé. Il	2513
+Yaoundé. In Douala	20169
 Yaoundé. Informal	15480
 Yaoundé. K. Ensuring	16958
 Yaoundé. L	15542
@@ -1507,6 +1515,7 @@ Yassama DARA Aîché KAYENTAO Nouhoum TOGOLA	17812
 Yasser Abbas	19912
 Yasser El Gammal and Aghassi Mkrtchyan	579
 Yasser Shaker	3987,4443
+Yassin Bah	20233
 Yassin Saine Njie Team Member Operations	16922
 Yassine Benjelloun	8244,232
 Yassine Ibar	10476

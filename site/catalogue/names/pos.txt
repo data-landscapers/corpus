@@ -143,6 +143,7 @@ Better Learning Outcomes Posted	13209
 Beyon Connect and La Poste de Côte	4093
 Beyon Connect and Post Connect	4111
 Binding Rulings and Post-Compliance Procedures	12389
+Biometric POS	20221
 Bispo Cx. Postal	11415,13
 BoZ.zm Postal	12364
 Board Chairman Moses Afetsi Positive	2829
@@ -232,6 +233,7 @@ Cameroon Minister of Posts and Telecommunications	7958
 Cameroon Postal Services	1946,9037,4559
 Cameroon's Minister of Posts and Telecommunications Libom Li	2862
 Cameroonian Ministry of Posts and Telecommunications	15480
+Canada Post	20117
 Capacity and Openness of S Post Limited	17180
 Capacity and Openness of S Post Open	17180
 Capital Market Authority and Rwanda Stock Positions	14997
@@ -500,9 +502,9 @@ Education Primary Secondary Tertiary Post-Graduate	16935
 Education System9 Post-graduates Level	14897
 Efficacité Le POSAF	10712
 Egypt National Post Organization	15519
-Egypt Post	1902,2146,995,1588,2433,6599,329,54,99,3723,17
+Egypt Post	1902,2146,995,1588,2433,6599,329,54,99,3723,17,236
 Egypt Post Modernization Egypt Post	19885
-Egypt Post Office	19886
+Egypt Post Office	19886,287
 Egypt Post’s ATMs	16046
 Egyptian Post	5869
 Electronic Communications and Post Regulatory Authority	969
@@ -530,7 +532,7 @@ Eritrean Postal Services	13951
 Est Postes Transfo P.Installée P.nominale	10975
 Establishment Posts	17116
 Eswatini Ministry of ICT Unveils Post Office-Based	3648
-Eswatini Positive News	7453,5495,24,241,23,16
+Eswatini Positive News	7453,5495,24,241,23,16,6871,51
 Eswatini Post	12395
 Eswatini Post and Telecom Services	12426
 Eswatini Post and Telecommunications	12444,532
@@ -603,7 +605,7 @@ Gabinete de Comunicação Tomada de Posse	10752
 Gambia Postal Services	16915
 General Directorate of Posts and Telecommunications	2306
 Genre POS Procédures Opérationnelle Standards PTF	15746
-Ghana Post	17108
+Ghana Post	17108,3074
 Ghana Post Company Limited Size	15867
 Ghana Post Digital Address	17114
 Ghana Post GPS	19944
@@ -820,6 +822,7 @@ Liberia Ministry of Posts and Telecommunications	17099,15
 Liberia Posts and Addressing Services	16975
 Liberians. Minister of Post and Telecommunications	1777
 Libya Post	2101
+Libya Post Company	20192
 Libyan Post Telecommunications	2837
 Licença. Posteriormente	18753
 LinkedIn Post	3627
@@ -1061,6 +1064,7 @@ National Institute of Posts and Telecommunications	17472
 National Ministry of ICT and Postal Services	18731
 National Office of Posts and Telecommunications ONPT of Chad	18931
 National Post Authority	15887
+National Post Authority ATMs	20121
 National Post Authority and CAPMAS	15887
 National Post Office	10372,1961,3923
 National Postal Addressing System	16975
@@ -1497,6 +1501,7 @@ Position Zambia	12356
 Position and Trajectory Background	17257
 Position and Trajectory Background. Djibouti	13868
 Position the Central African Republic	2211,1389
+Position the DPI	20221
 Position the ICT SEPs	13295
 Positionality Statement	4439
 Positioned	778,3973,224,282,503,8921,316,1036,3729
@@ -1510,6 +1515,7 @@ Positioning Microsoft Elevate	5551
 Positioning MoFA	14819
 Positioning Relative	11138
 Positioning Rwanda	1204
+Positioning Senegal	20112
 Positioning Sierra Leone As A Premier	18572
 Positioning System HBS Household Budget Survey	19519
 Positioning the Company Above	16412
@@ -1929,7 +1935,7 @@ Postage and Courier	19641
 Postagens Relacionadas	10114
 Postais	11415,13,7324
 Postais Nacional	18778
-Postal	718,18,222,265,1033,181,949,328,273,541,640,785,47,890,56,1970,865,1348,2,3,46,17,1,13,50,1,1133,5,112,40,6,369,115,27,12,230,3,67,1140,322,36,257,204,256,1276,103,1479,31,118,1030,8,10,9,225
+Postal	718,18,222,265,1033,181,949,328,273,541,640,785,47,890,56,1970,865,1348,2,3,46,17,1,13,50,1,1133,5,112,40,6,369,115,27,12,230,3,67,1140,322,36,257,204,256,1276,103,1479,31,118,1030,8,10,9,225,222
 Postal Access and Use	19639
 Postal Act	11211,51
 Postal Address	1735,142,431,2588,7250,254,10,510,117,574,1269,2188,2893
@@ -1971,9 +1977,9 @@ Postal Items	6671
 Postal Items Jan-Mar	6671
 Postal Market Indicators	12395
 Postal Market Indicators the Pricing of ICT	12395
-Postal Network	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Postal Network	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 Postal Network Public Perception of Infrastructure RURAL	10759
-Postal Network Public Perception of Infrastructure Rural	10837,1315,188,7598
+Postal Network Public Perception of Infrastructure Rural	10837,1315,188,7598,274
 Postal Network Secure Employment Opportunities Access	10759
 Postal Networks	5241
 Postal Operations Council	4093
@@ -2039,7 +2045,7 @@ Postal and Courier Networks	6946
 Postal and Courier Operators Shall	13347
 Postal and Courier Overview Postal Traffic	9781
 Postal and Courier Sector Highlights Q2	9781
-Postal and Courier Services	395,341,204,18,265,654,902,208,345,428,632,136,94,1463,536,264,61,490,1047,1403,187,528,1010,901,783,126,22,1,4,8,19,68,1,13,34,9,25,7,24,17,1588,455,1199,60
+Postal and Courier Services	395,341,204,18,265,654,902,208,345,428,632,136,94,1463,536,264,61,490,1047,1403,187,528,1010,901,783,126,22,1,4,8,19,68,1,13,34,9,25,7,24,17,1588,455,1199,60,3140
 Postal and Courier Services At Zimbabwe’s	13544
 Postal and Courier Services Bill	7779,99
 Postal and Courier Services Dingumuzi Phuti	13562
@@ -2373,7 +2379,7 @@ Posts and Telecommunications Institute of Technology	1962
 Posts and Telecommunications Justin Gourna Zacko	6185
 Posts and Telecommunications MPW Ministry of Public Works	17260
 Posts and Telecommunications MTR Mid-term Review NGO	17862
-Posts and Telecommunications Minister Minette Libom Li	3283
+Posts and Telecommunications Minister Minette Libom Li	3283,16886
 Posts and Telecommunications Minister Sekou Kromah	7721
 Posts and Telecommunications. GM Max Francisco	1949
 Poststratification	10714,4530,599,1,821,380,880
@@ -2400,6 +2406,7 @@ Prescribed Timeframes for Filling SMS Posts Within	11218
 Presence Postbank’s	8999
 President Caixa Postal	18797
 President Position	17394
+Press Post for Financial Market Infrastructure	20152
 Prestadores de Serviços Postais Compete	18778
 Prestadores de Serviços Postais Secção I Direitos	18778
 Prestadores de Serviços Postais. Artigo	18778
@@ -2643,6 +2650,7 @@ Showing Post Graduate Studies	19544
 Shun Divisive Politics Next Post Government	17069
 Sierra Leone Postal Service	18454
 Sierra Leone Postal Services	18523
+SierraSeat Post-Configuration Training Written	20083
 Signature Type of Radio System Position Held	736
 Similar Posts	11297
 Sistema Nacional de Códigos Postales Digitales	17389
@@ -2758,6 +2766,7 @@ Tax Posts	10762
 Taxa de Positividade	18768
 Tchad Position	18988
 Tchadienne des Postes	18887
+Teacher Posting Consistency	20217
 Technical Model For Post Codes	13298
 TechnoMag By Gamuchirai Mapako The Postal	13656
 Technology and Postal Services	5083,9246,4392
@@ -2841,14 +2850,14 @@ United Nations GPS Global Positioning System	17043
 Unity POS	14376
 Universal Postal Authority	6946
 Universal Postal Services	12558,2782
-Universal Postal Union	940,4013,232,1761,2810,1227,146,1020,1304,1178,2284,2736,2,350
+Universal Postal Union	940,4013,232,1761,2810,1227,146,1020,1304,1178,2284,2736,2,350,179
 Universal Postal Union Council of Administration	3990
 Universal Postal Union International Addressing Standards	11129
 Universal Postal Union Standard for Mail Addressing	11129
 Universal Postal Union USA	14879
 Universal Postal Union USAF	16872
 Universal Postal Union USF	12759
-Universal Postal Union V-DEM Varieties of Democracy	10759,78,1052,451
+Universal Postal Union V-DEM Varieties of Democracy	10759,78,1052,451,7872
 Universal Postal Union and United Nations Commission	13382
 Universal Postal Union for Eswatini	12395
 Universal Postal Union’s CDS	13042

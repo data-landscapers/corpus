@@ -292,7 +292,7 @@ Entrepreneurship Promotion and Digital Economy	11863
 Entrée le Promoteur du Projet	15901
 Establish and Promote the Maintain And Enhance the Dedicated	1777
 Establishment of Sector-CSIRTs Promotion	8897
-Eswatini Investment Promotion Authority	12430,14,635,44,120
+Eswatini Investment Promotion Authority	12430,14,635,44,120,6880
 Etat Collectivit APE Promoteur Plan BF	10847
 Etat Collectivité APE Promoteur Plan BF	10847
 Eunice da Silva Spencer Lopes Promulgado	11901
@@ -349,7 +349,8 @@ GOURMA TX Prom	10847
 Gabon Promouvoir	16292
 Gambia Chamber of Commerce and Industry Promote	16926
 Gambia Import and Export Promotion Agency	17228
-Gambia Investment and Export Promotion Agency	9020,7907
+Gambia Investment and Export Promotion Agency	9020,7907,3297
+Gambia Investment and Export Promotion Agency Act	20224
 Gambia Investment and Export Promotion Agency GM	16926
 Gambia Promotion of ICT Provide	16926
 Gender Equality and Employment Promotion	16942
@@ -582,6 +583,8 @@ MetroFibre ISP Customer Zwide Promotion	11259
 MetroFibre MetroConnect Customer Relaunch Promotion	11259
 MetroFibre MetroConnect Zwide Promotion	11259
 MetroFibre Pay-As-You-Go ISP Customer Launch Promotion	11259
+Mining Promotion Corporation	20054
+Mining Promotion Corporation and India	20054
 Minister for Promotion of Investment and SMEs Mr. Ousmane	18016
 Minister of Foreign Trade and Export Promotion	2131,1682,1639
 Minister of Industrial Development and Promotion	16275
@@ -1072,6 +1075,7 @@ Promoting Adoption of Climate Smart Agriculture Technologies	19643
 Promoting CSA	970
 Promoting Clean Energy for All	11332
 Promoting Climate	11469
+Promoting Competition	20224
 Promoting Content Development	16885
 Promoting Customer Convenience	19664
 Promoting Cutting-Edge Research	16861
@@ -1121,6 +1125,7 @@ Promoting Pro-Innovation Regulation	6849
 Promoting Public	13060
 Promoting Public Outreach	19042
 Promoting Quality	11923,268,7752
+Promoting Regional Economic Integration	20076
 Promoting Responsible Innovation The Charter	2958
 Promoting Road Safety	10776
 Promoting Road Safety Road	10776
@@ -1130,8 +1135,8 @@ Promoting Socio-economic Development	12536
 Promoting Sustainable Development	12356
 Promoting Sustainable and Inclusive Peace	16973
 Promoting Technology-Driven Social Services Provision	16861
-Promoting Technology-Enabled Education and STI Development	16861
-Promoting Technology-Neutral Legal	16861
+Promoting Technology-Enabled Education and STI Development	16861,3359
+Promoting Technology-Neutral Legal	16861,3359
 Promoting Thematic Research Institutes-Networks DLR	17458
 Promoting Trade and Investment	12962
 Promoting Transparency and Public Trust	17116
@@ -1139,7 +1144,7 @@ Promoting and Small	11017
 Promoting the Export	5216,557
 Promoting the Internet	11935
 Promotio	17827
-Promotion	578,65,146,151,18,173,290,261,132,82,92,585,235,81,507,358,107,105,436,844,98,107,220,4,339,570,52,323,589,721,368,118,136,6,9,558,192,1056,100,11,3,15,6,53,40,4,20,1,15,5,146,128,277,230,91,59,28,270,159,16,24,149,360,42,13,10,108,27,168,3,8,40,77,24,326,13,55,578,4,4,2,1,12,51,1,1,132,22,79,6,31,1,236,37,22,316,9,2,7,9,12,1,4,10,2,1,5,21,17,2,1,4,21,18,24,11,27,8,11,5,19,38,24,25,2,8,2,2,20,33,22,49,88,18,11,34,21,27,148,189,61,40,136,5,8,218,32,58,9,150,13,470,228,1,4,4,6,2,12,1,2,1,4,7,4,1,6,9,3,3,2,1,9,6,1,5,7,3,2,9,51,4,4,15,2,10,29,5,3,27,10,5,8,1,2,2,16,1,21,26,1,86,30,1,4,6,19,3,20,146,302,139,61,1,17,1,46,157,7,4,1,5,9,6,4,191,197,9,47,248,29,20
+Promotion	578,65,146,151,18,173,290,261,132,82,92,585,235,81,507,358,107,105,436,844,98,107,220,4,339,570,52,323,589,721,368,118,136,6,9,558,192,1056,100,11,3,15,6,53,40,4,20,1,15,5,146,128,277,230,91,59,28,270,159,16,24,149,360,42,13,10,108,27,168,3,8,40,77,24,326,13,55,578,4,4,2,1,12,51,1,1,132,22,79,6,31,1,236,37,22,316,9,2,7,9,12,1,4,10,2,1,5,21,17,2,1,4,21,18,24,11,27,8,11,5,19,38,24,25,2,8,2,2,20,33,22,49,88,18,11,34,21,27,148,189,61,40,136,5,8,218,32,58,9,150,13,470,228,1,4,4,6,2,12,1,2,1,4,7,4,1,6,9,3,3,2,1,9,6,1,5,7,3,2,9,51,4,4,15,2,10,29,5,3,27,10,5,8,1,2,2,16,1,21,26,1,86,30,1,4,6,19,3,20,146,302,139,61,1,17,1,46,157,7,4,1,5,9,6,4,191,197,9,47,248,29,20,113
 Promotion Agencies	17157
 Promotion Agency2nd Floor	14848
 Promotion Civique	18911,253
@@ -1252,7 +1257,7 @@ Promotion of Digital Rights and Online Safety. Media	10725
 Promotion of Domestic Currency	13474
 Promotion of Efficient Technologies	13295
 Promotion of Entrepreneurship and Employment	15511,7
-Promotion of Environmental Sustainability	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Promotion of Environmental Sustainability	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 Promotion of Gender Equality	1818,16977
 Promotion of Gender Equality and Equity INSS-. National	18770
 Promotion of Good Governance	18305

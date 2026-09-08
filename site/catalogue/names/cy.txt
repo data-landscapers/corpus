@@ -20,6 +20,7 @@ AIC Njoro Town CYDC Data Controller	7167
 ANCY National Cybersecurity Agency	17862
 ANSUT Accountability Mechanism National Cybersecurity Agency	3604
 ANTI-ANEMIQUES ACIDE FOLIQUE CYANOCOBALAMINE FEREDETATE	15930
+ANTIC's Cybercrime Investigation Unit	20092
 ARGENT CYBER X AFRICA LTD Data	7167
 AU Cyber Security Strategy	961,2201
 AU Cybersecurity and Data Protection Convention	5244
@@ -67,7 +68,7 @@ African Cybersecurity Coordination and Research Centre	5677
 African Cybersecurity Rankings	10848
 African Cyberthreat Assessment Report	9167,1365
 African Nations Among Top Cybersecurity Models	11917
-African Network of Cybersecurity Authorities	10073
+African Network of Cybersecurity Authorities	10073,10109
 African President Cyril Ramaphosa	5621
 African Regional Cyber Sector Symposium. Hosting	6946
 African Union Cyber Security Expert Group	10689
@@ -382,6 +383,7 @@ Calls for Stronger Corporate Cybersecurity Governance	5163
 Cameroon Global Cybersecurity Index	10764
 Cameroon Strengthens Cybersecurity	4693
 Cameroon and Chad. Cybercrime	9616
+Cameroon. Cybastion	20169
 Canada's CyberTip	6936
 Categories Cybersecurity Allan Juma	9830
 Center Manager of National Integrated Cyberinfrastructure	5439
@@ -475,6 +477,7 @@ Cost of Malicious Cyber Activity	15518
 Cost of Ownership and Life Cycle Cost	12389
 Costa Rica Global Cybersecurity Index	10764
 Council of Arab Cybersecurity Ministers	17052
+Council of Europe's Cybercrime Convention Committee	20182
 Council of Ministers. PART FOUR CYBERSECURITY SERVICE	7538
 Councillor Cyril Xaba	11275
 Country Profiles Africa Angola Global Cybersecurity	10764
@@ -498,9 +501,9 @@ Cyanika Burera	13418
 Cyanre	9678
 Cyanuric	15574
 Cyanzarwe Bigogwe Busengo Gakenke Base Rukozo	12413
-Cybastion	2149,8,1,711,224,4,28,9,98,82,228,62,4,18,160,686,293,1078,57,31,489,226,283,415,86,1046,1044,101,637,1450,809,3267,510,100,2773,2
+Cybastion	2149,8,1,711,224,4,28,9,98,82,228,62,4,18,160,686,293,1078,57,31,489,226,283,415,86,1046,1044,101,637,1450,809,3267,510,100,2773,2,922,78,1
 Cybastion Drives Côte	3608
-Cybastion Institute of Technology	2158,1324,4
+Cybastion Institute of Technology	2158,1324,4,16683,1
 Cybastion MoU	2251
 Cybastion Partners	3786,2057
 Cybastion Presents	5931
@@ -511,12 +514,13 @@ Cybastion's Country Director for Côte	6646
 Cybastion's Digital Fast Track	5843,88
 Cybastion's Digital Solutions	3786
 Cybastion's Oct	2157
+Cybastion's Senior Director of Infrastructure Solutions	20091
 Cybastion. Ces	19167
 Cybastion. Il	10258
 Cybaston	16961
 Cybaston Institute of Technology	16961
 Cybemtalking	18457
-Cyber	395,388,175,3,11,28,284,162,494,290,108,103,141,145,458,105,79,263,65,376,11,42,642,42,182,115,135,589,769,203,143,434,91,67,10,79,395,618,127,180,669,27,207,6,217,95,538,15,85,15,369,650,80,98,214,9,12,111,95,8,85,122,282,14,1,107,2,15,90,21,64,20,41,15,1,121,62,189,161,124,372,179,136,53,8,112,6,294,468,369,242,398,211,32,1,477,2,209,443,441,218,7,4,217,17,87,27,216,143,130,81,37,19
+Cyber	395,388,175,3,11,28,284,162,494,290,108,103,141,145,458,105,79,263,65,376,11,42,642,42,182,115,135,589,769,203,143,434,91,67,10,79,395,618,127,180,669,27,207,6,217,95,538,15,85,15,369,650,80,98,214,9,12,111,95,8,85,122,282,14,1,107,2,15,90,21,64,20,41,15,1,121,62,189,161,124,372,179,136,53,8,112,6,294,468,369,242,398,211,32,1,477,2,209,443,441,218,7,4,217,17,87,27,216,143,130,81,37,19,532
 Cyber Academy	14966,53
 Cyber Academy TORs	15019
 Cyber Academy and Innovation Center. Key	15019
@@ -654,18 +658,19 @@ Cyber Security And Data Perfomance Sector	12395
 Cyber Security And Personal Data	1243
 Cyber Security Appeals Search	2727
 Cyber Security Assessment Report	2709
-Cyber Security Authority	587,188,1114,935,867,435,360,97,1352,1001,178,492,1142,17,2,1,128,51,781,114,1,226,179,56,1,71,7,1,565,183,567,2992,1025,1857,2384,9
+Cyber Security Authority	587,188,1114,935,867,435,360,97,1352,1001,178,492,1142,17,2,1,128,51,781,114,1,226,179,56,1,71,7,1,565,183,567,2992,1025,1857,2384,9,107,109
 Cyber Security Authority Annual	6936
 Cyber Security Authority CSA	6936
 Cyber Security Authority Establishment	587
 Cyber Security Authority Tabletop Exercise	19007
 Cyber Security Authority and Financial Intelligence Centre	11699
 Cyber Security Authority and NITA	4488
+Cyber Security Authority's CERT-GH	20182
 Cyber Security Awareness Month	6936
 Cyber Security Awareness Month Rounatable	6936
 Cyber Security Awareness Month. Reaffirming	8115
 Cyber Security Cancellation	2727
-Cyber Security Capability	16861
+Cyber Security Capability	16861,3359
 Cyber Security Capability THE ICT4D PILLARS	16861
 Cyber Security Capacity Building Programme for Developing	1264
 Cyber Security Centre	958,14,12347
@@ -748,7 +753,7 @@ Cyber Security and Metallurgy	15315
 Cyber Security and Monitoring Centre	972
 Cyber Security and Other ICT Legislative Initiatives	13295
 Cyber Security and Personal	9399
-Cyber Security and Personal Data Protection	958,3,1,238,43,21,123,148,242,772,1312,563,383,277,29,131,163,33,47,1449,61,681,514,1207,386,935,44,1,10,44,843,499,140,612,5,41,253,134,111,388,35,554,1,493,309,1,1676,22,81,728,868,522,822
+Cyber Security and Personal Data Protection	958,3,1,238,43,21,123,148,242,772,1312,563,383,277,29,131,163,33,47,1449,61,681,514,1207,386,935,44,1,10,44,843,499,140,612,5,41,253,134,111,388,35,554,1,493,309,1,1676,22,81,728,868,522,822,267
 Cyber Security and Personal Data Protection AfCFTA	12055,1402
 Cyber Security and Personal Data Protection. Aligning	5244
 Cyber Security and Personal Data Protection. Document	5244
@@ -872,7 +877,7 @@ CyberTeam	14312
 Cyberanarchy&journal	5242
 Cyberanarchy. Univ Chic Law Rev	5242
 Cyberattack	1938,2024,3576,3132,2536
-Cyberattacks	1777,163,3517,337,276,2427,2267,84,803,1555,5480,1115
+Cyberattacks	1777,163,3517,337,276,2427,2267,84,803,1555,5480,1115,291
 Cyberattacks Digital Economy Digital	9963
 Cyberattaque	2393,2531
 Cyberattaques	4960,4424,1328,5008,216
@@ -889,13 +894,13 @@ Cybercity	585,8281,5579,402
 Cybercity Ebene	14844,3
 CybercityEbène	14847
 Cybercri-	13341
-Cybercrime	26,749,8,178,282,21,12,259,242,132,208,754,1077,94,40,45,96,47,837,137,28,508,112,178,213,143,691,361,266,896,137,379,10,22,1,427,169,12,544,423,1,10,421,31,373,632,163,518,71,106,122,83,51,162,1182,39,23,29,116,31,381,33,171,5,35,292,163,38,156,303,379,1,39,642,92,87,32,898,7,95,96,30,17,87,632,3,315
+Cybercrime	26,749,8,178,282,21,12,259,242,132,208,754,1077,94,40,45,96,47,837,137,28,508,112,178,213,143,691,361,266,896,137,379,10,22,1,427,169,12,544,423,1,10,421,31,373,632,163,518,71,106,122,83,51,162,1182,39,23,29,116,31,381,33,171,5,35,292,163,38,156,303,379,1,39,642,92,87,32,898,7,95,96,30,17,87,632,3,315,264
 Cybercrime Act	700,1077,340,1266,1268,347,176,70,1543,181,3245,381,127,1136,538,64,1889,218,671,105,1918
 Cybercrime Act Government Spokesperson Mwaura	6787
 Cybercrime Act. Review	1777
 Cybercrime Africa Cyberthreat Assessment	5794
 Cybercrime Assessment	4861
-Cybercrime Bill	1535,4245,1493,1427,3532,227,631,3834,406
+Cybercrime Bill	1535,4245,1493,1427,3532,227,631,3834,406,2894
 Cybercrime Charge	8849
 Cybercrime Cost	17745
 Cybercrime Data	3962
@@ -903,6 +908,7 @@ Cybercrime Enhanced	16008,1322
 Cybercrime Evaluate	1777
 Cybercrime Extended	783
 Cybercrime Investigation Training Workshop	14988
+Cybercrime Investigation Unit	20092
 Cybercrime Investigations and Digital Forensics	13532
 Cybercrime Law	5841,785,1444,2122,142,4864,144,69,303,498,2244,1397
 Cybercrime Law No	3525,16335
@@ -918,7 +924,7 @@ Cybercrime Prosecution Unit Powers and Functions	18675
 Cybercrime Regulations	19895
 Cybercrime Reporting Ministry of Justice	1777
 Cybercrime Response Centre	8194
-Cybercrime Response Unit	1000
+Cybercrime Response Unit	1000,19221
 Cybercrime Seychelles Commercial Bank Confirms Customer	3279
 Cybercrime Surges	12628
 Cybercrime Training Workshop	14988
@@ -999,7 +1005,7 @@ Cybersanté	17882
 Cyberse	19365
 Cybersecurit	6432,9413
 Cybersecurite	10494,5090
-Cybersecurity	528,50,9,58,4,69,240,3,1,7,27,4,161,39,43,188,1,128,126,91,37,72,23,31,219,97,52,269,45,81,72,158,25,31,91,53,64,48,99,25,118,12,105,47,40,168,2,21,5,15,40,184,60,337,60,27,43,111,68,135,5,1,161,38,69,3,32,5,26,23,33,44,126,16,48,75,5,96,11,384,75,68,10,66,45,26,81,226,4,24,39,62,6,36,10,58,216,58,260,10,35,104,54,18,263,51,119,411,37,71,54,74,58,50,31,4,29,106,316,58,125,79,14,19,114,151,69,37,58,59,139,28,33,44,67,93,101,43,1,6,4,21,48,4,4,4,92,183,3,6,14,76,1,37,17,29,293,44,19,221,26,3,20,20,26,22,39,24,99,40,4,26,1,154,49,108,122,252,45,1,1,8,1,71,27,126,89,36,15,10,25,151,19,24,1,26,47,16,215,22,18,42,189,277,138,163,20,3,20,47,78,31,91,35,66,41,3,72,255,22,5,35,76,12,75,98,11,20,282,17,68,660,42,10,18,33,36,17,25,37,24,24,35,82,5,27,334,124,125,253,226,97,39,71,93,2,31,221,47,2,55,558,74,59,30,74,19,112,33
+Cybersecurity	528,50,9,58,4,69,240,3,1,7,27,4,161,39,43,188,1,128,126,91,37,72,23,31,219,97,52,269,45,81,72,158,25,31,91,53,64,48,99,25,118,12,105,47,40,168,2,21,5,15,40,184,60,337,60,27,43,111,68,135,5,1,161,38,69,3,32,5,26,23,33,44,126,16,48,75,5,96,11,384,75,68,10,66,45,26,81,226,4,24,39,62,6,36,10,58,216,58,260,10,35,104,54,18,263,51,119,411,37,71,54,74,58,50,31,4,29,106,316,58,125,79,14,19,114,151,69,37,58,59,139,28,33,44,67,93,101,43,1,6,4,21,48,4,4,4,92,183,3,6,14,76,1,37,17,29,293,44,19,221,26,3,20,20,26,22,39,24,99,40,4,26,1,154,49,108,122,252,45,1,1,8,1,71,27,126,89,36,15,10,25,151,19,24,1,26,47,16,215,22,18,42,189,277,138,163,20,3,20,47,78,31,91,35,66,41,3,72,255,22,5,35,76,12,75,98,11,20,282,17,68,660,42,10,18,33,36,17,25,37,24,24,35,82,5,27,334,124,125,253,226,97,39,71,93,2,31,221,47,2,55,558,74,59,30,74,19,112,33,126,128,1,3
 Cybersecurity Academy	14674,5194
 Cybersecurity Academy for Juniors and Youth	16046
 Cybersecurity Act	587,574,616,2110,239,360,680,480,673,1,616,4,2142,122,524,111,3,426,108,1838,18,330,996,699,1459,220,4021,11
@@ -1013,6 +1019,7 @@ Cybersecurity Ambassador for Liberia	1777
 Cybersecurity Assessment Report	2709
 Cybersecurity Audit	10721,1322
 Cybersecurity Authority	587,2642,11968,4771
+Cybersecurity Authority Bill	20182
 Cybersecurity Awareness	1777,15410,1716
 Cybersecurity Awareness Month	3716,6309
 Cybersecurity Awareness Month Conference	10025
@@ -1083,7 +1090,7 @@ Cybersecurity Framework	4848,1691,4182,7761,1319
 Cybersecurity Framework Tier	10721
 Cybersecurity Framework and National Security Interface	3861
 Cybersecurity Frameworks	1686
-Cybersecurity Fund	587
+Cybersecurity Fund	587,19595
 Cybersecurity Fund Establishment	587
 Cybersecurity Fund. Object	587
 Cybersecurity Fusion Centre	6793,6856
@@ -1177,7 +1184,7 @@ Cybersecurity Service P	7538
 Cybersecurity Service Provider	9842,426,108
 Cybersecurity Service Provider. Companies	10268
 Cybersecurity Service Provider. Entities	9728
-Cybersecurity Service Providers	9728,111,5877
+Cybersecurity Service Providers	9728,111,5877,4466
 Cybersecurity Services	587
 Cybersecurity Session	17070
 Cybersecurity Simulation Exercise	17746
@@ -1231,7 +1238,7 @@ Cybersecurity and Crime Act and Data Protection Bill	18485
 Cybersecurity and Cyber Crimes Act	1161
 Cybersecurity and Cyber Resilience	10721
 Cybersecurity and Cyber Warfare Studies	16366
-Cybersecurity and Cyber-criminality	19245
+Cybersecurity and Cyber-criminality	19245,847
 Cybersecurity and Cybercrime	1243,1950,3102,605,3919,1413,187,244,1359,707,3016
 Cybersecurity and Cybercrime Act	783,2130,643,2739,3735,96,8,4608,6,2,2,38,22
 Cybersecurity and Cybercrime Article	17745
@@ -1637,7 +1644,7 @@ Establishing Cybercrime Complaint Center	1000
 Establishing Police Cybercrime Response Unit	1000
 Establishment of Cybersecurity Multisectoral Committee	3887
 Establishment of Government Cyber Security Strategy	19533
-Establishment of National Cybersecurity Authority	3887
+Establishment of National Cybersecurity Authority	3887,16333
 Establishment of National Cybersecurity Committee	783
 Establishment of Zambia Cyber Security Agency	2727
 Establishment of Zambia Cyber Security Agency Functions	2727
@@ -1714,13 +1721,15 @@ GOVERNMENT CYBERSECURITY EMHANCEMENT PROGRAM	1000
 GOVERNMENT Cybersecurity Tatenda Mavetera	3778
 GROUPE D’INTERVENTION RAPIDE CYBER Constitution	18317
 Gabon Global Cybersecurity Index	10764
+Gabon. Cybastion	20091
 Gahunga Ile Cyuzo Kiyombe Karangazi Kinigi	12413
 Gambia Cyber Security Alliance	16926
 Gambia Cybercrime Unlawful	16924
 Gambia Cybersecurity Strategy and Action	1000
+Gambia National Cyber Security Policy	20224
 Gambia National Cyber Security Strategy	16861
 Gambia National Cybersecurity Policy	16924
-Gambia National Cybersecurity Strategy	1000
+Gambia National Cybersecurity Strategy	1000,19220
 Gambia's Cybersecurity	1000
 Gambia's Cyberspace	1000
 Gartner Hype Cycle. Disponível	2816
@@ -1728,6 +1737,7 @@ Gen. Achol Cyier Rehan	9586
 Germany Global Cybersecurity Index	10764
 Ghana Card. Cybersecurity and Digital Identity Platforms	4791
 Ghana Cyber Security Authority Launches	14698
+Ghana Cybersecurity Industry Forum	20182
 Ghana Global Cybersecurity Index	10764
 Ghana Launches National Cyber Capacity Building	8947
 Ghana's Cyber Security Authority	17745
@@ -1911,6 +1921,7 @@ Irfrastructure. No.7 The Cyber Security and Crime	18457
 Italy Global Cybersecurity Index	10764
 Ivoire Croatia Cuba Curaçao Cyprus Czechia	11470,7872
 Ivoire Croatia Cuba Cyprus Czech Republic	11765
+Ivoire Cybastion	20169
 Ivoire Cyber Africa Forum	3526,841
 Ivoire Global Cybersecurity Index	10764
 Ivoire Targets Internet Expansion and Cybersecurity	5457
@@ -2168,10 +2179,11 @@ National Cyber Security Advisory and Coordinating Council	13346
 National Cyber Security Agency	6803,6544,1672
 National Cyber Security Agency Shall	13347
 National Cyber Security Authority	3243,454,500,566,1078,1837,1447,2815,487,1855,639,240,1
-National Cyber Security Awareness Month	14690,8,2875
+National Cyber Security Awareness Month	14690,8,2875,2609
 National Cyber Security Awareness Month Roundtable	6936,3448
 National Cyber Security Centre	4583
 National Cyber Security Centre and NITA Security	15386
+National Cyber Security Contingency Plan	20224
 National Cyber Security Coordinating Centre	9096,25
 National Cyber Security Coordination Center	18457
 National Cyber Security Coordination Centre	9077,2677
@@ -2196,6 +2208,7 @@ National Cyber and Data Protection Act for AI-specific	4528,7984
 National Cyber and Digital Awareness Month. Implement	1777
 National Cyber-Security Steering Committee	7447,11280
 National Cyber-Security Task Force	7447,11280
+National Cybercrime Centre	20198
 National Cybercrime Coordination Centre	2468,2103
 National Cybercrime Management System Cybercrime Management	1777
 National Cybercrime Prosecution Unit	12459,6208
@@ -2267,7 +2280,7 @@ National Cybersecurity Operations Center	11464,211,5300
 National Cybersecurity Operations Centre	6787
 National Cybersecurity Plan	1000
 National Cybersecurity Plan. Public-private	1000
-National Cybersecurity Policy	3861,4521,3570,6951,1054
+National Cybersecurity Policy	3861,4521,3570,6951,1054,263
 National Cybersecurity Policy Framework	8897,2299,69,675
 National Cybersecurity Policy and Strategy	5132,386,5203
 National Cybersecurity Portal	19821
@@ -2280,16 +2293,17 @@ National Cybersecurity Skills Pipeline	19801
 National Cybersecurity Skills Pipeline Uganda	19801
 National Cybersecurity Standards	3861
 National Cybersecurity Strategies	10848,1072
-National Cybersecurity Strategy	1000,200,176,401,212,309,405,336,207,46,486,109,61,256,2,7,22,348,185,476,63,477,755,371,638,525,2691,513,614,29,20,221,265,806,212,221,879,185,61,374,327,59,1478,651,1224,898,76
+National Cybersecurity Strategy	1000,200,176,401,212,309,405,336,207,46,486,109,61,256,2,7,22,348,185,476,63,477,755,371,638,525,2691,513,614,29,20,221,265,806,212,221,879,185,61,374,327,59,1478,651,1224,898,76,344
 National Cybersecurity Strategy D1.1	1200
 National Cybersecurity Strategy Formulation and Action Plan	1000
 National Cybersecurity Strategy NSCA National Security	6432
-National Cybersecurity Strategy and Action Plan	1000,16028
+National Cybersecurity Strategy and Action Plan	1000,16028,3196
 National Cybersecurity Strategy and Action Plan D	17070
 National Cybersecurity Strategy and Awareness Raising Plan	5780,7202
 National Cybersecurity Strategy and Mauritian Public Key	14370
 National Cybersecurity Strategy of Rwanda	14921
 National Cybersecurity Strategy. Considering	11277
+National Cybersecurity Strategy. Once	20190
 National Cybersecurity Strategy. Outcomes	17028
 National Cybersecurity Strategy. Principles	1777
 National Cybersecurity System	4104
@@ -2756,6 +2770,7 @@ Vandalism and Cyclones Impacted EDM's Performance	12316
 Vanuatu Global Cybersecurity Index	10764
 Venezuela Global Cybersecurity Index	10764
 Virtuous Cycle of Reform	15478
+Vulnerability Assessment for National ICT Cybersecurity Risk	20190
 W3 I-43 ITU Global Cybersecurity Index	10785
 WATRA Cybersecurity Working Group	5677
 WATRA. Cybersecurity	5677

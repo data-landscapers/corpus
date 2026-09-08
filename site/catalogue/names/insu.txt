@@ -227,7 +227,7 @@ Health Insurance	13726,307,1630,3621,431,251
 Health Insurance Act	6921
 Health Insurance Authority Ghana	14997
 Health Insurance Bill	12598
-Health Insurance Card	10714
+Health Insurance Card	10714,9461,46
 Health Insurance Coverage	13454,1793
 Health Insurance Exchange	19889
 Health Insurance Fraud	2627,1513
@@ -237,6 +237,7 @@ Health Insurance Information System	629
 Health Insurance Management Authority NTBC National	13347
 Health Insurance Organization	17648
 Health Insurance Premium	14717
+Health Insurance Program	20221
 Health Insurance Scheme	17934,1350
 Health Insurance Scheme NIN National Identification	16922
 Health Insurance Supporting NHIS	19942
@@ -292,7 +293,7 @@ Institute of National Health Insurance	19284
 Insuchcases	8602
 Insuf	15580
 Insufficiency	16863
-Insufficient	396,370,195,1346,1123,361,335,313,409,685,144,1052,103,716,203,625,752,532,374,15,216,453,45,217,160,78,183,506,9,70,165,25,25,54,101,2,18,23,46,2,53,123,138,319,15,200,19,104,148,302,123,437,6,53,160,82,89,78,39,12,50,167,42,166,869,156,488,31,7,4,22,11,11,168,18,103,36,827,344,9,11,42,28,57,273,358,274,25,11,29,1,54,2,1,70
+Insufficient	396,370,195,1346,1123,361,335,313,409,685,144,1052,103,716,203,625,752,532,374,15,216,453,45,217,160,78,183,506,9,70,165,25,25,54,101,2,18,23,46,2,53,123,138,319,15,200,19,104,148,302,123,437,6,53,160,82,89,78,39,12,50,167,42,166,869,156,488,31,7,4,22,11,11,168,18,103,36,827,344,9,11,42,28,57,273,358,274,25,11,29,1,54,2,1,70,512
 Insufficient Collaboration	12356
 Insufficient Data	12376
 Insufficient English	12329
@@ -346,7 +347,7 @@ Insur	6019
 InsurTech	4848,1021,52,6523
 InsurTech-related	10793
 InsurTechs Significant	12444
-Insurance	418,349,173,1769,66,2121,304,465,547,27,759,765,26,236,110,1102,1556,72,112,106,51,2,162,510,147,1,293,124,27,9,36,9,97,502,132,200,135,1065,132,126,48,6,100,26,107,533,1494,259,159,534,374,58,673,70,250,68,114
+Insurance	418,349,173,1769,66,2121,304,465,547,27,759,765,26,236,110,1102,1556,72,112,106,51,2,162,510,147,1,293,124,27,9,36,9,97,502,132,200,135,1065,132,126,48,6,100,26,107,533,1494,259,159,534,374,58,673,70,250,68,114,508
 Insurance Act	6938,4317,1393,412,1749,34,4082,124
 Insurance Act Notice	19049
 Insurance Activity Supervisory Body	6938
@@ -355,7 +356,7 @@ Insurance Association of Uganda	19660
 Insurance Authority NHIS National Health Insurance	16896
 Insurance Broker	14809
 Insurance Business Proclamation No	13976
-Insurance Cards	19699
+Insurance Cards	19699,522
 Insurance Center	17334
 Insurance Commission	17235
 Insurance Companies	11255
@@ -550,13 +551,14 @@ National Health Insurance Fund Act	19585
 National Health Insurance Fund Act Cap	19531
 National Health Insurance Fund Using ERMS	19584
 National Health Insurance Fund. Minister of Communication	19392
+National Health Insurance Fund. Reconciliation	20077
 National Health Insurance Levy	7695,44,8299,1070
 National Health Insurance Management Authority	13465
 National Health Insurance NDoH Non-patient File	1009
 National Health Insurance Policy	11748,3511,3
 National Health Insurance Program	16993
 National Health Insurance Scheme	2714,854,2431,1696,3633,2019,2451,25,22,408,93,550,26,183,2179,690
-National Health Insurance System	16922
+National Health Insurance System	16922,3299
 National Health Insurance Tribunal	16896
 National Health Insurance and Social Guarantee Fund	9837
 National Health Insurance and Social Security	15518
@@ -581,11 +583,11 @@ National Social Health Insurance	19284
 National Social Health Insurance Scheme Information	19284
 National Social Insurance Authority	4944
 National Social Insurance Fund	15883
-National Social Security and Insurance Trust	18440,6
+National Social Security and Insurance Trust	18440,6,1749
 National Social Security and Insurance Trust Act	18440,26
 National Social Security and Insurance Trust Fund	18463
 Ndong Coordinadora Regional Insular Ilmo. Sr	16920
-Nigeria Deposit Insurance Corporation	9571
+Nigeria Deposit Insurance Corporation	9571,10627
 Nigerian Insurers Association	11129
 Nigeria’s National Insurance Commission	2462
 Non-Renewal of Expired Insurance Cover	14546

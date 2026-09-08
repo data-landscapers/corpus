@@ -18,6 +18,7 @@ ARABOSAI	10002,7490
 ARABSAT	9262,5591
 ARABSAT and LTT	9262
 ARABSAT and Libya	9262
+ARABSOFT TMI Consortium	20225
 ARABSOFT and ORADIST	11001
 ARAG MEDICARE	7167
 ARAKAZA Arcade	13341
@@ -70,6 +71,7 @@ Arab AI Strategy	16046
 Arab AI Working Group	3160
 Arab Academy for Science	8645
 Arab Africa	6946
+Arab Alliance for Financial Culture	20192
 Arab Bank	19020
 Arab Bank for Economic Development	9047,1933,1654,2196,425,1850,2497
 Arab Bank for Economic External Auditors	12358
@@ -81,6 +83,7 @@ Arab Charter	2958
 Arab Charter for AI Ethics	2958,202,5374
 Arab Civil Status Conference	10521
 Arab Communications and Information Strategy	8645
+Arab Conference	20192
 Arab Contractor	4209
 Arab Contractors Malabo	4209
 Arab Council of Ministers Responsible for Cybersecurity	3948
@@ -127,7 +130,7 @@ Arab Permanent Committee for AI and Emerging Technologies	2958,202,5374
 Arab Permanent Committee for Communications and Information	8645
 Arab Permanent Postal Committee	8645
 Arab Permanent Postal Committee. The Bureau	8645
-Arab Region	8645,8257,14
+Arab Region	8645,8257,14,3266
 Arab Region Programme	16916,2958
 Arab Region. United Nations Support Mission	16916
 Arab Regional Forum	13902
@@ -187,6 +190,7 @@ Arab and Islamic	14545,575
 Arab de Malabo II-Semu	4209
 Arab-African E-Certification	16470
 Arab-Chinese	8645
+Arab-Islamic Education	20217
 Arab-speaking	6791
 Arab-world	14851
 Araba	6948
@@ -248,6 +252,7 @@ Arabs	10313
 Arabsat	6241
 Arabsat and Yahsat. Several	10406
 Arabsat-6A	9262
+Arabsoft	20225
 Arabsoft and Tunisie Micro- Informatique	17064
 Arachide	18324
 Arachidier	18291
@@ -511,7 +516,7 @@ SL930 ARAB CONTRACT	17006
 Sahrawi Arab Democratic Republic	13370
 Samsung Electronics Maghreb Arab	17493
 Samsung Electronics Maghreb Arabe	17493
-Saudi Arabia	1634,42,65,137,239,484,1846,525,188,92,346,770,245,175,2,145,604,149,579,228,150,375,632,775,274,13,71,61,289,437,37,33,468,41,559,36,296,51,339,192,215,44,76,192,183,57,14,140,100,148,104,12,65,27,470,2,240,12,1510,243,170,141,952,861,31,267,1,108
+Saudi Arabia	1634,42,65,137,239,484,1846,525,188,92,346,770,245,175,2,145,604,149,579,228,150,375,632,775,274,13,71,61,289,437,37,33,468,41,559,36,296,51,339,192,215,44,76,192,183,57,14,140,100,148,104,12,65,27,470,2,240,12,1510,243,170,141,952,861,31,267,1,108,221
 Saudi Arabia ARB HI	17743
 Saudi Arabia Austria Türkiye Finland Thailand	16973
 Saudi Arabia Canada	12151
@@ -530,7 +535,7 @@ Saudi Arabia. Pitia	18741
 Saudi Arabia. Saudi Arabia’s National Data	15713
 Saudi Arabia. The Ministry of Defence	10701
 Saudi Arabia. The Sudanese	14853
-Saudi Arabian	14405
+Saudi Arabian	14405,5829
 Saudi Arabian Mining Company	4447
 Saudi Arabia’s National Data Management Office	15713
 Saudi Arabia’s National Strategy of Data and AI	15713
@@ -574,6 +579,7 @@ Tigrigna and Arabic	19921
 Tigrinya and Arabic	14045,5876
 Timor-Leste DE ARAUJO ALMEIDA	6613
 Tome and Principe Angola Iraq Saudi Arabia	11005
+Tripoli Arab Savings and Financial Literacy	20192
 Tses Community Hall ERONGO REGION ARANDIS	13046
 U ARAGTO IN LAGA SOO SAARO	15152
 UAE United Arab Emirates	15220
@@ -590,7 +596,7 @@ Union des Banques Arabes	10718
 Union du Maghreb Arabe	17485,359
 United Arab	9399
 United Arab Emir-	17743
-United Arab Emirates	1639,1285,34,323,776,158,232,136,28,216,127,119,13,161,844,211,109,110,92,177,9,50,97,34,17,154,388,148,129,37,196,77,139,2,228,150,297,457,61,397,361,567,61,225,60,3,1,1,4,45,105,206,5,108,33,80,200,104,43,82,110,8,319,158,57,168,4,148,203,95,95,367,23,158,11,401,212,131,90,163,20,167,3,209,242,113,220,896,7,510,434,410,247,406,162,7,329,148,31,235,32,1
+United Arab Emirates	1639,1285,34,323,776,158,232,136,28,216,127,119,13,161,844,211,109,110,92,177,9,50,97,34,17,154,388,148,129,37,196,77,139,2,228,150,297,457,61,397,361,567,61,225,60,3,1,1,4,45,105,206,5,108,33,80,200,104,43,82,110,8,319,158,57,168,4,148,203,95,95,367,23,158,11,401,212,131,90,163,20,167,3,209,242,113,220,896,7,510,434,410,247,406,162,7,329,148,31,235,32,1,329
 United Arab Emirates ARB HI	17743
 United Arab Emirates Bahrain Algeria Egypt	15725
 United Arab Emirates Central Bank and South	11185

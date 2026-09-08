@@ -401,7 +401,8 @@ Analyses Médicales Malagasy Liste Nationale des Médicaments	14622
 Analysing	4866,3156,1106,309,1289,310,194,1137,18,60,5328,177
 Analysing Infrastructure	11990
 Analysing the Italian	5700
-Analysis	446,353,462,23,48,267,60,83,11,229,6,108,166,101,93,164,963,35,244,265,23,282,96,271,165,69,9,2,180,28,97,17,52,115,44,114,131,230,180,255,347,45,56,3,236,139,235,141,6,64,127,97,189,204,228,524,1,378,1,286,629,295,45,78,15,64,20,27,13,5,19,145,75,35,6,35,225,20,106,204,24,23,14,48,22,8,96,243,5,62,45,55,12,423,37,5,28,450,169,117,281,524,75,102,27,129,16,1,36,3,24,75,22,164,24,98,30,21,18,107,515,220,169,436,5,11,47,1,20,1,68,32,84,30,78,1,3,541,90,14,220,14,175,77,159,177,48,133,98,57,242,81,154,1,55,1,9,38,212,52,87,4
+Analysis	446,353,462,23,48,267,60,83,11,229,6,108,166,101,93,164,963,35,244,265,23,282,96,271,165,69,9,2,180,28,97,17,52,115,44,114,131,230,180,255,347,45,56,3,236,139,235,141,6,64,127,97,189,204,228,524,1,378,1,286,629,295,45,78,15,64,20,27,13,5,19,145,75,35,6,35,225,20,106,204,24,23,14,48,22,8,96,243,5,62,45,55,12,423,37,5,28,450,169,117,281,524,75,102,27,129,16,1,36,3,24,75,22,164,24,98,30,21,18,107,515,220,169,436,5,11,47,1,20,1,68,32,84,30,78,1,3,541,90,14,220,14,175,77,159,177,48,133,98,57,242,81,154,1,55,1,9,38,212,52,87,4,220,19
+Analysis Budgeting and Research Directorate	20217
 Analysis By Allen Mangava	6099
 Analysis By Pamellah Musimwa and Chinga Govhati	8864
 Analysis By VERITAS THE Cyber and Data	9251
@@ -491,7 +492,7 @@ AnalysisMarch	5691
 AnalysisMay	5691
 Analysiscombinedinductiveinterpretationofparti-	8602
 Analysiscommencedwithrepeatedreadingsofthe	8602
-Analyst	1347,1338,2,359,86,176,15,119,65,122,468,285,162,96,374,93,240,768,308,388,127,311,4611,81,2829,3,817,72,1439,1530
+Analyst	1347,1338,2,359,86,176,15,119,65,122,468,285,162,96,374,93,240,768,308,388,127,311,4611,81,2829,3,817,72,1439,1530,1499
 Analyst Functions	6423
 Analyst Ministry of Infrastructure	15019
 Analyst Reporting Generates Fragmented	13037
@@ -504,7 +505,7 @@ Analyste des Investissements	15474
 Analystes	1187
 Analystes Programmeurs	18169
 Analystes SOC Niveau	18395
-Analysts	899,2679,2,45,32,887,124,22,520,5,248,308,170,1,43,76,187,63,22,90,409,1376,379,803,9,747,135,163,485,931,232,30,908,431,71,533,164,68,635,265,686,930,1735,1242
+Analysts	899,2679,2,45,32,887,124,22,520,5,248,308,170,1,43,76,187,63,22,90,409,1376,379,803,9,747,135,163,485,931,232,30,908,431,71,533,164,68,635,265,686,930,1735,1242,325
 Analysts-say-that-the-invalidation-of-Higino-Carneiro's-	9399
 Analysys Mason	5704,4884
 Analysys Mason's MEA	8828
@@ -512,7 +513,7 @@ Analyt-	8602
 Analytic	15244
 Analytic Hierarchy Process	17157
 Analytic Support and Capacity Building	13054
-Analytical	161,79,1003,107,11,272,491,261,13,324,236,110,46,62,95,76,538,22,184,60,755,75,234,1051,166,239,48,113,619,97,753,1458,1082,315,39,1056,78,1056,1835,812,826,9,25,8,1237,1383,192
+Analytical	161,79,1003,107,11,272,752,13,324,236,110,46,62,95,76,538,22,184,60,755,75,234,1051,166,239,48,113,619,97,753,1458,1082,315,39,1056,78,1056,1835,812,826,9,25,8,1237,1383,192
 Analytical Approach	15164
 Analytical Approach and Readiness Staging	15164
 Analytical Axes Figure	14666
@@ -565,8 +566,9 @@ Analyzing Flood Risks	18809
 Analyzing Mortality Levels and Causes of Death	12413
 Analyzing Mortality and Causes of Death	12413
 Analítica	2613
-Anambra	3133,1557,5218,28,116,98,10,1838,52,6216
+Anambra	3133,1557,5218,28,116,98,10,1838,52,6216,1873
 Anambra Artificial	10150
+Anambra Assesses	20139
 Anambra CP	9669,84
 Anambra Digital Economy By Chinwe Onuigbo	10160
 Anambra Digital Tribe	10160
@@ -578,6 +580,7 @@ Anambra State Government House	3133
 Anambra State ICT Agency	3133,1557,5218,28,116
 Anambra State ICT Agency When Governor	9936
 Anambra State ICT Agency. Anambra State	9908
+Anambra State Information and Communication Technology	20139
 AnambraAugust	9876
 Anambé P1	18291
 Anamola	5173
@@ -638,6 +641,7 @@ Anatole Collinet MAKOSSO Vu	15744,433
 Anatole Collinet Makosso	4169,7744
 Anatole Mian	10940
 Anatolie Ursu	17896
+Anatolio Nzang Nguema Mangue	20095
 Anatolle Collinet MAKOSSO	15744,36
 Anatomia Patológica	16003
 Anatomia Patológica. Em	16000
@@ -668,6 +672,7 @@ Application Support Analysts	6832
 ArcGIS's Spatial Analyst	17157
 Artificial Intelligence and Analytics	14790
 Aspect Analyzed	13005
+Assistant System Analyst	20217
 Association Française Raoul Follereau ANAM	15475
 Association LogFrame Logical Framework Analysis MAC	16943
 Association of Analytical Communities	18469
@@ -838,7 +843,7 @@ Committee Analysis of Inputs Received	5853
 Common Country Analysis	16916
 Communication Sector Information Sharing and Analysis Centre	5132
 Communications Analyst	4046
-Comparative Analysis	12356,152,4470
+Comparative Analysis	12356,152,4470,3243
 Comparative Analysis Strengths	12356
 Comparative Analysis Synthesis Across	7966
 Comparative Analysis and Options Development	18531
@@ -875,6 +880,7 @@ Correlation Analysis	13624
 Cost Benefit Analysis- Summary Results Effect	11924
 Cost-Benefit Analysis	3604,2935,4229,61,1136,7280,39,704
 Cost-Benefit Analysis CERC Contingent Emergency Response	16896
+Counter-Terrorism Analysis and Fusion Agency	20051
 Country Analyses And Plans	899
 Country Analysis Brief	16964
 Country Analysis SEM	13979
@@ -928,11 +934,12 @@ Data Analysis LISGIS	17116
 Data Analysis Tool and Approach	17149
 Data Analysis Tool and Approach Following	17149
 Data Analysis Unit	12971
+Data Analysis and Approach	20055
 Data Analysis and Integration Stakeholder	7548
 Data Analysis and Reporting	13418
 Data Analyst	4528,2304,106,5574,4604,1344
 Data Analysts	6832
-Data Analytics	3344,5065,2725,97,1820,940,1008,717,363,3142,418
+Data Analytics	3344,5065,2725,97,1820,940,1008,717,363,3142,418,543
 Data Analytics Customs and Environmental Policies	13051
 Data Analytics Data	14999
 Data Analytics Division	11134
@@ -1596,6 +1603,7 @@ PERTAB Kalyani Senior Systems Analyst	14770
 PILLAR-BY-PILLAR ANALYSIS	17139
 POLITICAL ECONOMY ANALYSIS OF NAP	19937
 POMANAH BHAUGEEROTHEE Vidooshi Management Analysts	14770
+PPARBD Policy Planning Analysis Research Budgeting	20217
 PRMP Analyse	10876
 PRMPS David A. Bontempo Operations Analyst	17441
 PROFESSEURS DE CEG FRANCO-ARABE ANAB AGENCE	18170
@@ -1619,7 +1627,7 @@ Plataforma Analítica	2132,481
 Platform-Led Finance Analytical Approach	11138
 Points X Y Anatole Collinet MAKOSSO	15558
 Police Electronic Crash Records and Analytics	1001
-Policy Analysis	7590,4572,4690,8
+Policy Analysis	7590,4572,4690,8,3357
 Policy Analysis Report	12395
 Policy Analysis Report. ESCCOM	12395
 Policy Analysis and Budgeting Directorate	16852
@@ -1938,7 +1946,7 @@ Supply Chain Analysis for Plastic Pellets	14793
 Sustainability Analysis Framework DSA Debt Sustainability	11271
 Synthetic Analysis Workstation	16947
 System Analysis and Requirements Gathering	13037
-System Analyst	12693,268
+System Analyst	12693,268,7256
 Systemic Stakeholder Analysis	12376
 Systems Analyst	2982,10383
 Systems Analyst Mr. Chipopa Kazuma	34
@@ -2013,6 +2021,7 @@ Universal Access and Gap Analysis Report	1433
 Upanzi Network The Policy Analyzer	9618
 Updated Situational Analysis	11986
 User and Entity Behaviour Analytics	11231
+Using Bigdata Analytics	20221
 Using Geospatial Analysis	960,9896,3818
 Using Thematic Analysis	5349,5679
 Utilizing the Spatial Analyst	17157

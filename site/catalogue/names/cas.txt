@@ -335,7 +335,7 @@ Casado	10777
 Casais	10777
 Casal	16138
 Casalini	1243,9911
-Casamance	5207,572,12507,5,13,32,27,7,4,4
+Casamance	5207,572,12507,5,13,32,27,7,4,4,1734
 Casamance PADEN Programme	18286
 Casamance Plateforme	18286
 Casamance and Groundnut Basin	18359
@@ -418,12 +418,13 @@ Case Register and Allegations	11250
 Case Register and Allegations Annual Comparison	11250
 Case Restating	18592
 Case Selection Logic and Scope Cases	7966
-Case Studies	1250,3313,2384,1,203,3701,1504,184,135,273,7056
+Case Studies	1250,3313,2384,1,203,3701,1504,184,135,273,7056,217
 Case Studies Annexure F	11952
 Case Studies E.1 Global Implementation Examples	11952
 Case Studies Mobilizing	12948
 Case Studies and Precedents	3861
-Case Study	797,230,1084,312,962,1463,396,899,1564,1149,1963,187,1,133,776,227,184,175,1521,26,701,19,128,527,49,893,3288
+Case Studies of Other Countries	20221
+Case Study	797,230,1084,312,962,1463,396,899,1564,1149,1963,187,1,133,776,227,184,175,1521,26,701,19,128,527,49,893,3288,567
 Case Study A ZOOM-IN ON EGYPT	12339
 Case Study Analysis Report	7151
 Case Study Business Perspective	19852
@@ -436,6 +437,7 @@ Case Study NIP Nigeria	12000
 Case Study Objective Today	19852
 Case Study Origin	19901
 Case Study SIMO Mozambique Origin Story	12270
+Case Study The London-to-Lagos	20157
 Case Study of Fiji	5349
 Case Study of Hwange Power Plant Power	1154
 Case Study of Langata and Westlands Constituencies	899
@@ -544,7 +546,7 @@ Caseworkers	2096
 Caseworkers Respond	2096
 Casey	12948,3436
 Casey and Castro	12948
-Cash Assistance	12227,3020,2724,1915
+Cash Assistance	12227,3020,2724,1915,287
 Cash Award	14742
 Cash Back	6504
 Cash Balances	16978
@@ -799,7 +801,7 @@ Cassandra DB	19533
 Cassation	16425,1016
 Cassava	618,578,233,7,33,46,211,299,67,515,954,35,351,478,36,334,471,31,14,53,75,296,1,1,110,317,1,67,18,17,204,94,15,87,800,1028,2546,269,780,1298,831,1401,218,702,503,231,1209,1071,195
 Cassava ADC	4730
-Cassava AI	1843,3383,71,440,930
+Cassava AI	1843,3383,71,440,930,13476
 Cassava AI Factory	5439,388,5510,134,372
 Cassava AI Multi-Model Exchange	5439
 Cassava AI’s Nvidia-powered	10727
@@ -855,6 +857,7 @@ Casse	16032
 Cassengo	11484
 Casseques	5721
 Cassidy	3782
+Cassiel Ato Forson. Still	20071
 Cassius	11986
 Cassius Lubisi	5533
 Cassou	10875
@@ -887,7 +890,7 @@ Castle-clarke S	1219
 Castleberry	8603
 Castoriadis	11050
 Castors	11745
-Castro	1243,5307,5598,7506
+Castro	1243,5307,5598,7506,567
 Casual	2775,9478,6303,969
 Casualisation	13461
 Casualization	13355
@@ -1012,6 +1015,8 @@ Description UNCDF Better Than Cash Alliance	213
 Development Promotion Committee TCT Temporary Cash	19455
 Development of Clear Business Cases	14750
 Development of Clear Business Cases In the MITCI	14750
+Digital Case Management System	20222
+Digital Case Management System for Evidence-Based Reporting	20222
 Digital Cash Transfer Delivery World Bank	971
 Digital Cash Transfers	2177
 Digital Identity. Use Case Discussion. Presented	10819
@@ -1403,6 +1408,8 @@ Nas Casas Fortes	11438
 National Case Management	12977
 National Case Management System	8978,4661
 National Case Management System. If the Supreme	8978
+National Cash Transfer	20176
+National Cash Transfer Office	20176
 National Cash Transfer Program	18301
 National Clinical Case Management Guidelines	11417
 National Director of BCEAO Ms. Cassama	17209,117
@@ -1608,6 +1615,7 @@ STUDY CASES	11228
 SUMMARIES OF SELECTED HUMAN RIGHTS CASES	13097
 SUMMARY OF SELECTED ENVIRONMENTAL CASES	13097
 Santiago Casanova Hernandez Tavares	15404
+Santiago Casto Nvono Bibang. Entre	20095
 Seasonality and Harvest Timing Effects Cassava	17043
 Sectoral Adoption and Use Cases	4528,7984
 Sectors Use Cases Fraud	14566

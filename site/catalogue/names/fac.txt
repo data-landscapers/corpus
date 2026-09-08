@@ -47,6 +47,7 @@ Actual Transmission Loss Factor	18217
 Actualité Société Facebook X Pinterest WhatsApp	9620
 Actualités Numérique Face	13568
 Addis-Abeba. Face	7149
+Additional Factors	20221
 Advances and Facilities	17236
 Affairs Global Environment Facility	12972
 Afreximbank Trade Finance and Trade Facilitation Program--to	10718
@@ -81,6 +82,7 @@ Application Facilities	16077
 Arrangement Under the Extended Credit Facility	19966
 Arrangement Under the Extended Credit Facility for Burundi	1284
 Arrangement Under the Resilience and Sustainability Facility	17257
+Arret Jatta Facing	20235
 Article Facebook Twitter Copy Link Print	2264,1669,239,437,166,820,1446
 Article Facebook X-twitter Youtube	18230
 Assessment of Enabling Factors	11907,1442
@@ -177,6 +179,7 @@ CCSA Programmes Facilité Alimentaire Malienne Brigade	17888
 CCTV. Face	10698
 CCTV. Facial	4563
 CEFACT United Nations Centre for Trade Facilitation	13042
+CEO of Africa Tech Factory	20197
 CHALLENGES FACED BY FEMALES Figure	1940
 CHALLENGES FACED IN IMPLEMENTATION OF TSMP	19519
 CHALLENGES FACING CADASTRE SERVICES AND IMPROVEMENT	19852
@@ -371,8 +374,9 @@ Development Sector and Market Facilitators	12297
 Development of Facilities	18957
 Dialogue Facility	789
 Dialogue Facility Culture	789
+Digital Economy Factsheet	20224
 Digital Energy Facility	348,1
-Digital Factory	4199,6881,8141
+Digital Factory	4199,6881,8141,891
 Digital Fitness Programme Facilitator	17090
 Digital Investment Facility	3184,1,1243,97,1707,4549,80,134,160,1272,1,2054
 Digital Investment Facility EAC East African	10781,1646,2055
@@ -545,7 +549,7 @@ FACILITY ARRANGEMENT AND REQUEST FOR AUGMENTATION	15029
 FACILITY Download INVESTMENT RECOMMENDATION ROAD MAP	19623
 FACILITY EXECUTIVE SUMMARY Context	17257
 FACILITY TO THE FEDERAL REPUBLIC	14976
-FACIM	2816,9975,2500,16,2263,32,1,110,2
+FACIM	2816,9975,2500,16,2263,32,1,110,2,2343,58
 FACT SHEET	10864,2073,3643
 FACT SHEET Burkina Faso January-	10864
 FACT SHEET KEY INDICATORS ON UPTAKE	12251
@@ -613,6 +617,7 @@ FREQ Factor Table	6891
 FSS Faculté	19350
 Face Analysis Technology Evaluation Age Estimation	9747,54,3,23
 Face Recognition	767,15139
+Face Recognition System	20221
 Face Technologies	11115
 Face Technology	18531
 Face Verification	10423
@@ -627,11 +632,12 @@ Face-to-Face HAI	6832
 Face-to-face	1778,3755,2336,2993,86,1038,393,4057,3177
 Face-to-face Meetings	17114
 FaceTime	17033
-Facebook	40,2,276,77,116,49,11,11,171,208,37,10,146,110,290,31,37,68,88,315,220,54,34,4,99,1,28,53,91,18,19,49,12,136,14,96,191,106,65,82,159,93,7,58,60,65,11,1,1,42,11,167,10,25,51,22,5,295,210,11,13,7,57,110,37,32,65,23,59,43,65,4,28,51,8,17,40,6,245,44,87,12,189,140,83,151,159,15,80,29,159,7,114,11,51,190,50,44,75,5,46,18,33,52,38,41,11,244,4,51,19,1,1,1,82,9,44,15,11,20,88,84,43,106,24,98,114,33,8,17,80,1,53,27,41,26,26,98,29,63,101,5,47,70,46,32,140,1,85,63,30,23,42,48,61,11,14,24,16,81,102,14,1,158,23,27,40,5,62,8,21,6,146,4,45,43,2,38,48,68,29,11,2,2,14,50,57,55,16,4,39,5,24,72,57,24,56,39,56,64,15,2,189,20,20,67,29,9,9,41,52,24,20,3,50,13,13,14,118,23,13,46,27,10,22,229,204,3,41,5,23,75,15,27,6,132,35,18,1,17,13,117,1,15,43,11,35,63,46,15,34,257,118,3,57,118,31,28,56,33,86,4,2,145,7,24,88,98,18,35,33,39,12,4,56,183,83,105,24,3,19,19,41,84,7,19,49,10,28,95,3,71,1,192,2,128,250,53,23,12,80,30,167,19,8,12,2,28,1,15,78,14,3,4,14,7,18,15,32,20,111,20,11,36,35,1,51,171,2,23,174,83,5,3,47,2,75,125,78,4,61,26,18,43,8,102,41,149,147,438,13,12,228,39,53,22,35,20,23,33,13,31,111,8,25,28,39,35
+Facebook	40,2,276,77,116,49,11,11,171,208,37,10,146,110,290,31,37,68,88,315,220,54,34,4,99,1,28,53,91,18,19,49,12,136,14,96,191,106,65,82,159,93,7,58,60,65,11,1,1,42,11,167,10,25,51,22,5,295,210,11,13,7,57,110,37,32,65,23,59,43,65,4,28,51,8,17,40,6,245,44,87,12,189,140,83,151,159,15,80,29,159,7,114,11,51,190,50,44,75,5,46,18,33,52,38,41,11,244,4,51,19,1,1,1,82,9,44,15,11,20,88,84,43,106,24,98,114,33,8,17,80,1,53,27,41,26,26,98,29,63,101,5,47,70,46,32,140,1,85,63,30,23,42,48,61,11,14,24,16,81,102,14,1,158,23,27,40,5,62,8,21,6,146,4,45,43,2,38,48,68,29,11,2,2,14,50,57,55,16,4,39,5,24,72,57,24,56,39,56,64,15,2,189,20,20,67,29,9,9,41,52,24,20,3,50,13,13,14,118,23,13,46,27,10,22,229,204,3,41,5,23,75,15,27,6,132,35,18,1,17,13,117,1,15,43,11,35,63,46,15,34,257,118,3,57,118,31,28,56,33,86,4,2,145,7,24,88,98,18,35,33,39,12,4,56,183,83,105,24,3,19,19,41,84,7,19,49,10,28,95,3,71,1,192,2,128,250,53,23,12,80,30,167,19,8,12,2,28,1,15,78,14,3,4,14,7,18,15,32,20,111,20,11,36,35,1,51,171,2,23,174,83,5,3,47,2,75,125,78,4,61,26,18,43,8,102,41,149,147,438,13,12,228,39,53,22,35,20,23,33,13,31,111,8,25,28,39,35,88,141
 Facebook Ad Library	12201
 Facebook Audience Insights	11902,1412,17,2143
 Facebook Audience Insights World	11964
 Facebook Basic Mode	13461
+Facebook Called QGroup House	20234
 Facebook CommentsFollow Us	6385
 Facebook Compartilhar	11587,5447,291,35,1,51
 Facebook Connectivity Lab and Center for International Earth	1013
@@ -658,7 +664,7 @@ Facebook LinkedIn X YouTube WhatsApp WebTV	17221
 Facebook MAU	13461
 Facebook MTN Group	16217
 Facebook Mail RSS X Youtube IMF	5101,850
-Facebook Marketplace	4825,6179
+Facebook Marketplace	4825,6179,9113
 Facebook Messenger	5679,567,722,1923,1106,2481,5874,1307,211
 Facebook Messenger. In North Sudan	15342
 Facebook Meta	1622
@@ -854,7 +860,7 @@ Facilitate Public-Private Partnerships	958
 Facilitate R&D	13295
 Facilitate RSSB	14997
 Facilitate Research	13991
-Facilitate Results-Based Financing	16966
+Facilitate Results-Based Financing	16966,3257
 Facilitate SADC Member States	962
 Facilitate SIMple	11941
 Facilitate Sharing and Use of Surveillance Data for Public	14434
@@ -912,7 +918,8 @@ Facilitator	12286,4813,188
 Facilitator Eliot-Jones Garcia	17047
 Facilitator Sarah Kimani	13062
 Facilitator of Electronic Government and Electronic Commerce	16861
-Facilitators	1219,9700,1327,2769,1955
+Facilitators	1219,9700,1327,2769,1955,3247,2
+Facilitators. The Education Institutions	20217
 Facilitação	11448,4246
 Facilitação Empresarial	795
 Facilite	14483,1154,3584,141
@@ -988,6 +995,7 @@ Facility-Level	3791
 Facility-based	4338
 Facility-based EMR	18697
 Facility-based Emergency	14033
+Facility-level	20219
 Facility-level EHR	12508
 Facilité	643,656,1,6425,1038,1756,2806,1333,741,75,19,3,4,39,3,108,2,33,27,1773,409,1326
 Facilité Elargie de Crédit	1300,14540
@@ -1199,6 +1207,7 @@ Faculty of Science and Engineering	4058
 Faculty of Science and Technology	17893,736
 Faculty of Social Sciences	13078,1697
 Faculty of Social and Behavioural Sciences	17780
+Faculty of Sociology	20186
 Faculty. USAID Jim Wright	16970
 Faculté	5888,5896,1593,1527,486,295,95,579,1624,20,10,105,779
 Faculté de Médecine	13306,2889,1634,53
@@ -1230,6 +1239,7 @@ Finance and Economic Facilitate	14674
 Financial Exclusion Factors	940
 Financial Sector Faces Rising Cyber Threats	4832
 Financing Facility	12138
+Fintech du Groupe MTN. Face	20059
 Fish Ponds and Water Breeding Facilities and D10	17105
 Five Facts About Shocks	18301
 Fixed and Mobile Network Facilities. Application	15205
@@ -1350,7 +1360,7 @@ Hand Wash Facility Table	18460
 Hand Washing Facility	19715
 Harmonized Health Facility Assessment	4202
 Harmonized Health Facility Assessment HTA	15685
-Health Facilities	2775,8626,456,294,285,2620,1879,325,1218,1066,41
+Health Facilities	2775,8626,456,294,285,2620,1879,325,1218,1066,41,636
 Health Facilities Earmarked	11986
 Health Facilities Medical Equipment	19544
 Health Facilities PIU	15411
@@ -1579,7 +1589,7 @@ Local Facilities Facility	16948
 Local Facilities Filter Facility Country City	18579
 Location of Computer Facilities	12364
 Location of Computer Facilities Any	12364
-Location of Computing Facilities	15641
+Location of Computing Facilities	15641,4583
 Logistics and Export Facilitation Centre	19602
 Loss Factor	11953
 Lusaka South Multi Facility Economic Zone	13561
@@ -2009,7 +2019,8 @@ Securing and Facilitating Trade	4827
 Selon Facebook Audience Insights	15474
 Selon le Geo Factbook	11010
 Senegal AI Factory	8821
-Senegal Digital Factory	8821
+Senegal Digital Factory	8821,11291
+Senegal Digital Factory Hassan Watt	20112
 Senegal Digital Factory and Senegal	10177
 Senelec Face	18322
 Senior Faculty Officer	13089
@@ -2106,6 +2117,7 @@ Tags Administration Partager Facebook X WhatsApp	1876
 Targeted Finance Facility	13685
 Tariff Category Facility Charge	12394
 Tchad. Face	19194
+Teachers and Facilitators	20217
 Tech-I4-A3 Upgrade R&D Facilities Egypt	15713
 Technical Assistance Facility	1204
 Technical Assistance Facility for Youth	10841
@@ -2135,9 +2147,9 @@ Toilet Facility	19715
 Toilet Facility and Selected Background Characteristics	19715
 Toilets Facilities	14778
 Toolkit for Facility Data Quality Assessment	11596
-Trade Facilitation	13042,9,352,605,2964,1825,915
+Trade Facilitation	13042,9,352,605,2964,1825,915,512
 Trade Facilitation Act No	13403
-Trade Facilitation Agreement	9343,588,3111,11,2425,1723,166
+Trade Facilitation Agreement	9343,588,3111,11,2425,1723,166,2857
 Trade Facilitation Agreement WCO	17367
 Trade Facilitation Agreement Year Category Brief	17011
 Trade Facilitation Border Management and Trade Facilitation	13403

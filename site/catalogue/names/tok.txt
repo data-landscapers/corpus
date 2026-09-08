@@ -71,7 +71,7 @@ Tokandji Houédako	6217
 Tokbombu ADM SOUTH	18485
 Tokeh	18444
 Tokelau Tonga Trinidad and Tobago Tunisia Türkiye	11470,7872
-Token	4127,126,8611
+Token	4127,126,8611,7357
 Token Certificate Applications	12364
 Token Certificate Applications Access	12364
 Token Certificate ID Serial No Renewal	12364
@@ -116,6 +116,7 @@ Tokyo International Conference	7016,5946,4773,236
 Tokyo Overnight Average Rate	13185,3034
 Tokyo Yabangoye	11014,35,1042
 UMc Japan Asia Eastern Asia Tokyo	10840
+USD Payment Token	20157
 University of Tokyo	12376
 Virtual Asset and Initial Token Offering	7845
 Virtual Asset and Initial Token Offering Services	7845,6964,19,3,12,1

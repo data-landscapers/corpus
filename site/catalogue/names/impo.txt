@@ -191,7 +191,7 @@ H. IMPORTANT	4896
 Health Product Regulatory Authority Drug Importation	17011
 Herd Size Optimization Import	17157
 High-Cost Imports Due	12399
-Hydro Imports	16966
+Hydro Imports	16966,3257
 Hydro Pumped Imports Other RE Wind	11953
 I. IMPOSITION DU REVENU GLOBAL	15534
 IA. Importa	18796
@@ -292,7 +292,7 @@ Impoh-Manianga	15379
 Imponderáveis	11569
 Impondo-se	12770
 Impor	11374,4103,3301
-Import	236,1592,947,1645,303,524,408,635,133,1474,2260,699,275,3,359,31,350,7,1,336,38,102,18,24,96,546,11,132,683,256,402,7,185,42,225,12,377,104,734,419,270,34,203,19,78,132,1065,170,930,70,221,153
+Import	236,1592,947,1645,303,524,408,635,133,1474,2260,699,275,3,359,31,350,7,1,336,38,102,18,24,96,546,11,132,683,256,402,7,185,42,225,12,377,104,734,419,270,34,203,19,78,132,1065,170,930,70,221,153,248
 Import Bank	4401,5529
 Import Bank of China	5337
 Import Category	14985
@@ -356,6 +356,7 @@ Importance for Global Development. Romina Bandura	10775
 Importance of Angola Cables and Uniti Wholesale	6604
 Importance of Bucopho Bucopho	13012
 Importance of CRVS	13005
+Importance of Data Governance	20220
 Importance of Digital	14897,1979
 Importance of Digital Businesses	14897,2973,1061
 Importance of Digital Digital	14897
@@ -375,13 +376,14 @@ Importance of Implementing Robust Data Protection	2668
 Importance of National Data Infrastructure for Low	1264
 Importance of Post-Project Strengthening Intervention	16963
 Importance of Preparing the ALECSO Charter	2958
+Importance of Robust ID Systems	20221
 Importance of Rwandan Raw Materials	12445
 Importance of Stakeholder Engagement Effective	13016
 Importance of Strengthening Systems of Care and Support	10776
 Importance of Undersea Cables	2677
 Importance of WUF13 WUF13	11285
 Importancia da Internet	8487
-Important	789,151,1564,1,354,1059,1,1,2512,1212,792,461,814,1108,10,12,18,89,185,132,479,172,23,16,47,39,158,139,65,38,4,653,143,73,35,9,192,1385,62,164,250,203,8,663,46,81,307,157,8,79,117,34,629,127,88,347,153,329,1179,4
+Important	789,151,1564,1,354,1059,1,1,2512,1212,792,461,814,1108,10,12,18,89,185,132,479,172,23,16,47,39,158,139,65,38,4,653,143,73,35,9,192,1385,62,164,250,203,8,663,46,81,307,157,8,79,117,34,629,127,88,347,153,329,1179,4,104
 Important Alert	19919
 Important Banks	17236
 Important Conditionality Executive Notaries Public	4896
@@ -439,7 +441,7 @@ Importers and Exporters Association of Ghana	14216
 Importes	16898
 Importing	12110
 Importing Export Transmission Distribution	12399
-Imports	236,482,2057,808,1664,408,1667,3354,300,160,122,266,350,7,1,71,303,90,205,79,412,66,424,30,306,968,61,88,1290,10,346,270,34,300,22,246,815,165,54,286,28,120,67,201,473,111
+Imports	236,482,2057,808,1664,408,1667,3354,300,160,122,266,350,7,1,71,303,90,205,79,412,66,424,30,306,968,61,88,1290,10,346,270,34,300,22,246,815,165,54,286,28,120,67,201,473,111,401
 Imports Cap	6921
 Imports Commodities	16935
 Imports Control Act	19602
@@ -722,7 +724,7 @@ TES IMPOSSIBLE D'ÊTRE EN PRIVÉ	13300
 TOUS LES IMPOTS AUXQUELS JE SUIS	16629
 TRANSACTIONS INTERNATIONALES AUTRES TAXES ET IMPOTS	15999
 Temporary Importation Permit	13053
-Thermal Imports	16966
+Thermal Imports	16966,3257
 Third-Party and Vendor Governance Importance of Procurement	14565
 Tourists and Travelers Importation Of Goods Rules	12454
 Trade Ministry Warns Importers To Adhere	18516

@@ -123,8 +123,8 @@ Learning Poverty	11905,3699
 Learning Poverty Brief	15743
 Learning Poverty Brief Washington	15743
 Learning Poverty. Nigerian	11469
-Lived Poverty	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
-Lived Poverty Health	10837,1052,263,11,177,1,7312,285
+Lived Poverty	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
+Lived Poverty Health	10837,1052,263,11,177,1,7312,285,274
 Lived Poverty Public Perception of Economic Opportunities	10759
 Lived Poverty Score Rank Public Procurement	11870
 Lived Poverty Sustainable Environment	10759,1395
@@ -151,6 +151,7 @@ Minister of Poverty Eradication and Social Welfare	12923
 Minister of State for Humanitarian Affairs and Poverty	2381
 Ministry for Justice The Gambia Poverty and Gender	16951
 Ministry of Finance Poverty	11136
+Ministry of Humanitarian Affairs and Poverty Reduction	20176
 Monitoring and Evaluation Division PRSAP Poverty Reduction	12962
 Multidimensional Child Poverty Analysis	12962
 Multidimensional Poverty	10765,10,1223,3246
@@ -247,7 +248,7 @@ Poverty Rate	10985,6172
 Poverty Rate Informal Employment Micro	16973
 Poverty Reduction	10964,899,157,903,39,1867
 Poverty Reduction Effects of Mobile Broadband	15621
-Poverty Reduction Policies	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Poverty Reduction Policies	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 Poverty Reduction Policies and Goals	16861
 Poverty Reduction Strategy	11924,5019,196,2380
 Poverty Reduction Strategy GRA Ghana Revenue	236
@@ -348,7 +349,7 @@ Samuel Anyanwu Minister of Humanitarian Affairs and Poverty	18243
 Second Strategy for Poverty Alleviation	16861
 Severe Poverty	15244
 Simulated Poverty Impact	13332
-Social Safety Nets Poverty Reduction Policies	10837,1315,188,7598
+Social Safety Nets Poverty Reduction Policies	10837,1315,188,7598,274
 Social Services and Poverty Reduction	13295
 Social and Poverty	10779
 Society for Poverty Rationale	12376

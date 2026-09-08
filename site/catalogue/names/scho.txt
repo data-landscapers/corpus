@@ -168,6 +168,8 @@ Baptist Comprehensive High School Nkwen	16010
 Bar Anding'o Comprehensive School	7204
 Barazani Girls High School	10313
 Barlow Government School	11332
+Basic School	20217
+Basic School Indicators	20217
 Batlokwa National School	12625
 Beneficiaries and Amount of Loan Scholarships	2775
 Benjamin Mkapa Secondary School	19585
@@ -498,6 +500,7 @@ Gender Public and Private School Pupil Enrolment	18460
 Gender Public and Private School Teachers Distribution	18460
 General Leclerc Military Preparatory School and Technical	15513,40
 Georgetown High School	11281
+Ghana International School	20182
 Ghana School Feeding Program	16600
 Ghana School Feeding Programme	7695,8183
 Ghana. School Feeding Targeting	19942
@@ -574,18 +577,21 @@ Google Startup School	19534
 Goseta Boys Secondary School	10313
 Governing Bodies of Private Schools	11860
 Government English Medium Schools	19585
+Government School	20217
 Government School Figure	14745
 Government School First Runner Up Diyansh	14745
 Government Schools Supervisor	12726
 Government and Government Assisted Schools	18460
 Government of Uganda Scholarship	11829
 Grace Nursery School	11773
+Grade One Schools	20217
 Graduate Business School Chinhoyi University of Technology	12508
 Graduate School of Business	4896,12082
 Graduate School of Business Leadership	4432
 Graduate School of Business. Il	16820
 Graduate School of Global Cooperation	10123
 Graduate School of Health Care Sciences	16329
+Grant-Aided School	20217
 Green School Accreditation	15604
 Gross School Attendance Rate	12431
 Gulu Public Primary School	19776
@@ -727,6 +733,7 @@ Junior Secondary School Leaving Examinations	13477
 Junior Secondary Schools	8569,1830,8165
 Junior Secondary and Senior Secondary School Primary	11857
 Junior and Secondary Schools	14501
+Junior and Senior School	20102
 KEDGE Business School	6154
 KEDGE Business School MSc Finance	6154
 KEMRI and The London School of Hygiene	18776
@@ -794,6 +801,8 @@ Korea's Software Meister High School	770
 Korogwe TC School Meals	19585
 LABOR MARKET STRUCTURE AND THE SCHOOL	11271
 LAPTOPS FOR SCHOOLS	2779
+LBE Schools Multi Grading	20217
+LBS Lower Basic School	20217
 LBS School Improvement Grant	16852
 La Summer School	19349
 Lagos Business School	8764
@@ -998,6 +1007,7 @@ National Association of Proprietors of Private Schools	8588
 National ENASTIC School of ICT	18931
 National Examination and School Inspection Authority	14922
 National Higher School of Artificial Intelligence	9703
+National Home-Grown School Feeding Programme	20176
 National ICT School	18933
 National Police School	18016,109
 National Primary School	18460
@@ -1077,6 +1087,7 @@ Oloolaiser High School	10313
 Olympia Secondary School	10216
 Omaruru Ubasen Primary School Hakahana Kindertuin	13046
 Online High School. Boise State University	961
+Open Public School	20119
 Oponganda Pre-primary School Oshatotwa Community Centre	13046
 Opérations Master Finance Banque School of Management	17829
 Organisation and Development of School-Parents	19783
@@ -1166,8 +1177,9 @@ Primary and Secondary Schools	11956,1006,160,270,6193
 Primary and Secondary Schools S	19585
 Prince of Wales School	18544
 Principal of Shimbode Primary School	13102
+Private Conventional Schools	20217
 Private School Theo Katjimune Primary School	13046
-Private Schools	12975
+Private Schools	12975,7242
 Procedures SRGBV School Related Gender-Based Violence	13332
 Program. Schools	11905
 Programme and ICCR's Scholarships. So	16256
@@ -1201,7 +1213,7 @@ PubMed Google Scholar Robert PreyView	9739
 PubMed and Google Scholar	11990
 Public Primary Schools	14588
 Public Primary and Junior School Teachers1	2775
-Public Schools	899,6047,7600
+Public Schools	899,6047,7600,5671
 Public Schools Absent	14969
 Public Schools Government and Government Assisted Schools	16852
 Public Schools Schools By Gender Type	18460
@@ -1288,7 +1300,7 @@ SOPs for Government English Medium Schools	19585
 SPMM School Performance Management Meeting SQAD	16852
 SRGBV Strategic Orientation Committee STEP School-Related	11905
 SSRN Scholarly Paper ID	961
-SSS Senior Secondary School	18512
+SSS Senior Secondary School	18512,1705
 SSS Senior Secondary School STEM Science	16876
 ST. George's Primary School	10049
 STEM School Tour	18583
@@ -1311,6 +1323,7 @@ Satellite Schools	13474
 Sauvé Scholar	4429
 Scaling Up School Connectivity	1164
 Scaling-up Homegrown School Feeding Programme	12985
+Sch School	20217
 Schoemansdal	1009
 Schoen J	1219
 Schoen&author	1219
@@ -1341,7 +1354,7 @@ Schonwetter	1243
 Schoo	11180
 SchooiPhases	11180
 SchooiSpecialisation Indicates	11180
-School	899,915,53,80,41,268,410,1726,317,586,586,330,993,467,920,190,233,1299,335,100,108,113,8,157,48,89,586,3,24,1,10,10,13,88,153,1,15,24,6,17,107,22,4,28,28,20,56,83,380,25,2,63,6,241,23,4,18,57,10,19,263,254,56,437,73,54,187,33,12,66,43,26,23,13,286,3,6,300,25,26,57,2,80,102,115,476,24,392,50,7,41,1,45,92,13,4,34,28,66,502,135,14,74,167,335,17,87,42,298,7,20,20,583,8,43,10,120,56,12,52,5,22,3,123,7
+School	899,915,53,80,41,268,410,1726,317,586,586,330,993,467,920,190,233,1299,335,100,108,113,8,157,48,89,586,3,24,1,10,10,13,88,153,1,15,24,6,17,107,22,4,28,28,20,56,83,380,25,2,63,6,241,23,4,18,57,10,19,263,254,56,437,73,54,187,33,12,66,43,26,23,13,286,3,6,300,25,26,57,2,80,102,115,476,24,392,50,7,41,1,45,92,13,4,34,28,66,502,135,14,74,167,335,17,87,42,298,7,20,20,583,8,43,10,120,56,12,52,5,22,3,123,7,56,166
 School A Matutura New Primary School	13046
 School AMU	19284
 School About Message	12407
@@ -1479,6 +1492,7 @@ School Institution University of Zimbabwe Internet Society	1154
 School Internet Connectivity Project	10465
 School Jafet Haiyambo Senior Primary School	13046
 School LFE Life Skills Education Programme	16852
+School Leaders	20217
 School Leadership Program	12175
 School Leadership Programme	12175
 School Leadership Specialist	19835
@@ -1634,7 +1648,7 @@ Schoolap	16819
 Schooling	11916,24,2956,348,360,57,775,760,1316,1145,58
 Schooling Access Health Services Child Nutrition	15244
 Schooling Status and Selected Background Characteristics	19715
-Schools	899,54,857,57,53,39,29,1616,91,849,2404,389,538,562,1212,139,6,374,496,465,112,616,3,45,11,2,6,3,248,5,16,3,15,39,76,16,66,15,315,65,108,36,25,83,72,138,19,133,54,207,7,213,55,35,107,99,473,166,15,2,43,26,136,422,38,60,26,57,82,217,202,274,239,129,48,34,56,21,297,115,62,272,646,105,1,51,52,53,95,341,489,10,33,191,59,131,22
+Schools	899,54,857,57,53,39,29,1616,91,849,2404,389,538,562,1212,139,6,374,496,465,112,616,3,45,11,2,6,3,248,5,16,3,15,39,76,16,66,15,315,65,108,36,25,83,72,138,19,133,54,207,7,213,55,35,107,99,473,166,15,2,43,26,136,422,38,60,26,57,82,217,202,274,239,129,48,34,56,21,297,115,62,272,646,105,1,51,52,53,95,341,489,10,33,191,59,131,22,229
 Schools API	15630
 Schools Average Age of Classroom Teachers Pupils	18460
 Schools Based Community	16963
@@ -1645,12 +1659,14 @@ Schools Connectivity Programme	12702
 Schools Directory	18447
 Schools Directory Explore	18447
 Schools Discipline Guidelines	12977
+Schools Double-Shifting	20217
 Schools Educators	899
 Schools Egypt	15713
 Schools El-shahid Salah Kotb Elementary and El-Shahid	15578
 Schools Electricity Access	12411
 Schools Enrolment Distribution Boys Girls	18460
 Schools Enrolment Distribution Figure	18460
+Schools Fenced	20217
 Schools Figure	18460
 Schools Infrastructure Improvement. The Ministry	12950
 Schools Instead of Clean Energy	19585
@@ -1847,8 +1863,10 @@ Transforming Rural and Underserved Schools	6948
 Tshwaragano Junior Secondary School	12557
 Turkana School The Communications Authority of Kenya	8323
 UAE Digital School	12971
+UBS Upper Basic School	20217
 UCT Nelson Mandela School	586
 UCT’s Graduate School of Business	432
+UI School of Social Sciences	20074
 UJ’s School of Consumer Intelligence and Information Systems	8142
 UPSA Law School	8697
 UPSA Law School Roundtable	8697

@@ -290,11 +290,13 @@ Customs Data Exchange	5244
 Customs and Excise	5247,7397,409,55
 Customs and Excise Act	11181,9,73,2087,53,46,47,110,3362,1498
 Customs and Excise Act Chapter	13346
+Customs and Excise Bill	20224
 Customs and Excise Bills	7695
 Customs and Excise Cases	13053
 Customs and Excise Department	13108
 Customs and Excise Directorate	15478
 Customs and Excise Junior Officer	11289
+Customs and Excise Regulations	20224
 Customs and Excise Revenue	12951
 Customs and Excise Tax	13122
 Customs and Excise. Completed	13053
@@ -500,6 +502,7 @@ Eswatini FINANCIALLY EXCLUDED	418
 Eswatini Stock Exchange	12956
 Etat Son Excellence Décret	17861
 Etat Son Excellence Monsieur Bah N’DAW	17861
+Ethiopia Commodity Exchange	20142
 Ethiopia's First Internet Exchange Hosted	14026
 Ethiopian Securities Exchange	7688,6463
 Europe Excel	6582
@@ -555,7 +558,7 @@ Excelentísimos Señores Ministros	16865
 Excelentíssimo Senhor Presidente da Assembleia Nacional	11436
 Excelia	3394
 Excellen Crosswalk	124
-Excellence	1264,1023,33,22,390,84,671,52,65,71,727,493,64,19,767,333,180,569,807,896,2310,291,286,673,422,40,420,12,322,685,575,56,125,5,83,541,71,147,46,42,3,243,678,775,365,201,240,132,167,553
+Excellence	1264,1023,33,22,390,84,671,52,65,71,727,493,64,19,767,333,180,569,807,896,2310,291,286,673,422,40,420,12,322,685,575,56,125,5,83,541,71,147,46,42,3,243,678,775,365,201,240,132,167,553,1076
 Excellence Article	15376
 Excellence Cloud	3857
 Excellence Consumer Price Index Consumer Protection	11134
@@ -719,7 +722,8 @@ Excellency Paul Biya. Derlin AFANA	10987
 Excellency Paul Biya. Launched	4562
 Excellency Per Lindgärde	13156
 Excellency President	19602
-Excellency President Adama Barrow	16874,231,21
+Excellency President Adama Barrow	16874,231,21,3099
+Excellency President Adama Barrow's Recovery-Focused	20225
 Excellency President Arthur Peter Mutharika	8667
 Excellency President Barrow	17379
 Excellency President Cyril Ramaphosa	10169,1771
@@ -752,6 +756,7 @@ Excellency Tewodros Mihret	12288
 Excellency The Deputy President	12321
 Excellency The President	12321,3109
 Excellency Vice President Mohammed B.S	7694
+Excellency Wamkele Mene	20152
 Excellency Yoweri Kaguta Museveni	19632
 Excellency Zein El Abidin Ben	17438
 Excellency Zhao Yong	18547
@@ -773,6 +778,7 @@ Excellency the Right Honourable Prime Minister	12956,14
 Excellency the Rt. Hon. Prime Minister	13119,7
 Excellency the State President	12932,190
 Excellency the State President. CUSTOMS	13122
+Excellency. Work	20053
 Excellent	962,3563,722,2540,2273,703,1100,145,206,213,259,7,61,916,434,81,890,5,432,268,1096,518,2182
 Excellent Critical	19576
 Excellent Directory	19576
@@ -797,7 +803,7 @@ Excelência Senhor Embaixador	10753
 Excepcionalmente	549,2317,7890,632,64,1323,2605,16
 Excepciones	163,16692
 Exceplion	15429
-Except	3,8,574,658,581,164,1726,436,4,742,137,167,500,122,423,2621,257,1527,546,44,676,40,8,12,78,131,112,67,523,16,3,125,154,102,18,6,6,4,97,598,393,13,71,154,67,1,2,3,8,38,12,89,3,37,5,75,93,69,244,66,52,42,51,297,651,278,3,2,1,3,8,3,10,67,9,6,8,158,6,143,1044,133,2,1,13,13,2,2,135,185,99,28,300,313,99,8,111,108,1,6,91
+Except	3,8,574,658,581,164,1726,436,4,742,137,167,500,122,423,2621,257,1527,546,44,676,40,8,12,78,131,112,67,523,16,3,125,154,102,18,6,6,4,97,598,393,13,71,154,67,1,2,3,8,38,12,89,3,37,5,75,93,69,244,66,52,42,51,297,651,278,3,2,1,3,8,3,10,67,9,6,8,158,6,143,1044,133,2,1,13,13,2,2,135,185,99,28,300,313,99,8,111,108,1,6,91,280
 Except ADSU	14760
 Except Article One of Law	15102
 Except Indonesia	11964
@@ -817,7 +823,7 @@ Exceptionnel	17899
 Exceptionnellement	10891,4570,325,99,1577,1745,5
 Exceptionnellementetsansnuire	19212
 Exceptionnelles Total DGTCP	2476
-Exceptions	25,1449,7649,1034,679,681,447,202,27,101,66,599,1450,25,293,194,160,45,303,82,180,1417,2109,11,2,300,54,131,30,177
+Exceptions	25,1449,7649,1034,679,681,447,202,27,101,66,599,1450,25,293,194,160,45,303,82,180,1417,2109,11,2,300,54,131,30,177,302
 Exceptions Exception	15363
 Exceptions PART VII	1474
 Exceptions Sans	10836,4799
@@ -835,7 +841,7 @@ Excepção Daquele Efectuado	18775
 Excepções	15
 Excerpt	36,2,2,2,183,186,4,145,2,30,161,2,5,217,60,1,330,12,7,193,47,2,26,87,161,60,18,17,94,1,13,4,2,1,1,4,142,12,1,1,85,36,57,39,2,2,8,15,19,12,22,41,79,11,137,33,6,34,36,6,13,14,1,16,23,367,10,10,18,107,53,10,2,114,23,15,7,19,77,59,12,20,3,3,29,112,11,18,19,50,12,22,34,2,19,21,126,7,2,3,2,4,1,116,20,3,10,42,4,13,2,21,3,14,107,10,1,32,2,1,1,61,9,53,1,11,27,3,34,14,2,64,8,93,3,1,1,3,2,1,2,45,13,9,27,16,14,20,57,45,2,116,19,3,1,98,2,3,6,102,21,10,5,150,1,31,31,2,44,1,55,1,23,39,25,42,68,26,130,126,22,2,77,1,22,1,1,7,59,143,89,37,51,14,10,9,6,6,1,1,1,1,1,1,1,2,1,78,16,21,1,7,1,78,16,1,4,2,11,3,1,48,6,44,42,23,4024,59,1266,312,29,7,1,3,17,15,64,24,13,40,370,9,33,496,1384,36,397,2381,11,86,1110,13
 Excerpt of Dashboard	11912
-Excerpts	13149,17,366,5998
+Excerpts	13149,17,366,5998,622
 Excesiva	1701
 Excess	11228,1825,742,922,707,237,184,1391,1228,1185
 Excess Administrative Costs Due	19585
@@ -887,7 +893,7 @@ Exchange Point Peer Name	16948
 Exchange Points	961
 Exchange Points FMCT	11857
 Exchange Programs	12356
-Exchange Rate	3583,2825,6652,3906,269,1471
+Exchange Rate	3583,2825,6652,3906,269,1471,1517
 Exchange Rate Development	17104
 Exchange Rate Developments	17235
 Exchange Rate Developments Following	12962
@@ -1042,7 +1048,7 @@ Exclusion of SMEs	1248
 Exclusion. Article	17886
 Exclusion. CHAPITRE III	17886
 Exclusionary Regulations	2307
-Exclusions	2624,9515,200,236,1301,1344,143,66,900,1790,1420
+Exclusions	2624,9515,200,236,1301,1344,143,66,900,1790,1420,682
 Exclusions PART IV	12532
 Exclusions Sont	15429
 Exclusions This Supplementary Act	11517
@@ -1431,6 +1437,7 @@ Microfinance Information Exchange	16942
 Microsoft Excel	747,3044,4585,748,3846,405,45,217,1286,1998,228,218,1076,1114,27
 Microsoft Excel Ease	9124
 Microsoft Excel and Microsoft Access	16909
+Microsoft Excel and STATA	20219
 Microsoft Excel and Stata	771
 Microsoft Excel. Ces	13375
 Microsoft Excel. Discrepancies	19774
@@ -1481,7 +1488,7 @@ National Centre of Excellence for Cybersecurity Training	1000
 National Commodity Exchange Market	13122
 National Cooperative Excellence Awards	14793
 National Data Exchange	11952
-National Data Exchange Hub	1361,7187
+National Data Exchange Hub	1361,7187,11634
 National Data Exchange Platform	6592,5453,1178
 National Data Exchange Platform. All	6592
 National Data Exchange Regulation Compliance	5665
@@ -1724,12 +1731,13 @@ Secrétaire REPUBLIQUE SON EXCELLENCE MONSIEUR	17861
 Sectoral Exceptions	3861
 Secundaria Excmo. Sr. D. Pascual Ondo	16864
 Secundaria Excmo. Sr. Don Felipe Ondó	16920
+Secure Consent Based Data Exchange	20221
 Secure Data Exchange Platform	14674
 Securities Exchange	2775,12034,188
 Securities Exchange Act	7198,1741
 Securities Exchange Commission	12376,4859
 Securities and Exchange Act	13311
-Securities and Exchange Commission	10,2816,1044,72,660,2336,260,143,68,39,46,692,753,291,304,420,201,115,1387,42,277,400,33,902,36,185,2880,3528
+Securities and Exchange Commission	10,2816,1044,72,660,2336,260,143,68,39,46,692,753,291,304,420,201,115,1387,42,277,400,33,902,36,185,2880,3528,133,25,32
 Securities and Exchange Commission Shall	13347
 Securities and Exchange Commission of Zimbabwe	940
 Securities and Exchange Commission. Legal	8788

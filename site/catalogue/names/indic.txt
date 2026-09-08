@@ -71,6 +71,7 @@ Angola. Indicators	10763
 Angola. Inquérito Indicadores Múltiplos	10760
 Annex A ICT Indicators	19639
 Annex A ICT Indicators Annex B	19639
+Annex III Proposed Measures and Indicators	20223
 Annual CPD Indicator	13095
 Annual Indicator	13095
 Apparel Performance Indicators	2775
@@ -121,6 +122,7 @@ Baseline Indicators	10775
 Basic Demographic Indicators	13295
 Basic Indicators	12896
 Basic Indicators Report	11417
+Basic School Indicators	20217
 Basket Indicators	15120
 Bioko Island. Indicators	16996
 Bis ECHELONNEMENT INDICIAIRE DES AUTRES SOUS-OFFICIERS	15524
@@ -380,7 +382,7 @@ Economic Indicators Target	18455
 Economic and Social Indicators	14815,17,4,21
 Economie Numérique QUELQUES INDICATEURS SOCIO-ECONOMIQUE	17824
 Ecosystems Indicators	18458
-Education Indicators	15244
+Education Indicators	15244,4973
 Education Level Indicator	18512
 Education System Indicator Name Baseline Actual	17958
 Effect of Finding Indicia	11233
@@ -907,7 +909,7 @@ Indicativos de Ameaças	11569
 Indicativos de Forças	11569
 Indicativos de Fraquezas	11569
 Indicativos de Oportunidades	11569
-Indicator	958,246,24,639,909,3763,132,257,18,276,326,215,2996,9,12,55,2,1,74,56,170,120,612,14,2,1,1,1,6,76,15,165,1,1,1,5,4,42,135,1,10,1,1,3,11,12,16,18,75,112,377,355,15,583,8,835,124,38,62,59,103,5,80,167,13,23,71,35,48,92,32,288,19,11,144,427,229,20,29,50,54,120,11,13,95,1,3,202,302,126,89,4,44,119,225,135,27,242,150,78,302,368,1,130,39,14,22,1,6,59,14,1,48,8,14
+Indicator	958,246,24,639,909,3763,132,257,18,276,326,215,2996,9,12,55,2,1,74,56,170,120,612,14,2,1,1,1,6,76,15,165,1,1,1,5,4,42,135,1,10,1,1,3,11,12,16,18,75,112,377,355,15,583,8,835,124,38,62,59,103,5,80,167,13,23,71,35,48,92,32,288,19,11,144,427,229,20,29,50,54,120,11,13,95,1,3,202,302,126,89,4,44,119,225,135,27,242,150,78,302,368,1,130,39,14,22,1,6,59,14,1,48,8,14,203,11
 Indicator Adults	15480
 Indicator Baseline	940,17814,790
 Indicator Baseline Intermediate Targets End Target	12675
@@ -1696,6 +1698,7 @@ Phase Approval FY Indicative	1264
 Piliers Indicateurs Données	15799
 Piliers Indicateurs Données de Année	13433
 Pillar Indicator Baseline	16966
+Pillar Indicators	20223
 Pillars Indicators Universal Connectivity Individuals	14836
 Planificación Indicador	16898
 Planned Action Monitoring and Evaluation Indicators	16885
@@ -1764,6 +1767,7 @@ Proposed AF Indicator Level Status Rationale	19284
 Proposed Actions and Relevant Indicators	15621
 Proposed Alterations New Indicator New Target	4653
 Proposed Key Performance Indicators	4528,7984
+Proposed Measures and Indicators	20223
 Pré-requis Indicateurs	15583
 Príncipe IT Indicative Trigger CCDR Country	18851
 Public Safety and Crime Reduction Indicator	15845
@@ -2079,6 +2083,7 @@ Targets Indicator Private	11469
 Tax Administration Operational Strength Indices	13624
 Tax Base and Governance of State-Owned Enterprises Indicator	18825
 Tchad Suivi des Indicateurs du PND Tchad Connexion2030	19043
+Teaching Staff Indicators	20217
 Technology and Innovation Indicators	10421,8777
 Template Indicators Attachment V. Sources of Evidence	12500
 Template Indicators Sources of Evidence P7-24. Time	12500
@@ -2120,6 +2125,7 @@ USD Indicateurs	18988
 USD Related Indicator	7221
 Uganda Malaria Indicator Survey	19743,1
 Uganda Police Force V. PERFORMANCE INDICATORS	19746
+Under the Education Indicators	20217
 Union Européenne Programme Indicatif Multi-annuel	643
 Unit of Responsibility for Indicator Name Core Baseline	11525
 Usage Indicators	16975

@@ -38,6 +38,7 @@ Air News	19651
 Akhbar El Youm News Portal	17562
 Al Ain News	10334
 Al-Ahram Newspaper Online Portal	17647
+Al-Hakim News	20154
 Alfajr Aljadeed Newspaper	16916
 Algeria Venture and Taubyte TechAfrica News	6010
 Alhurra News	15342
@@ -55,6 +56,7 @@ Arise News	2677,2607,9075
 Armelle Claire NEWMAN ETEGUE	16175
 Articles In National News	17177
 Assabah News	7873
+Atheer News	20084
 Australia's News Media Bargaining Code	13267
 Authority News	15133
 Ayang Macdonald Categories Biometrics News	2318,6,103,20,94,25,48,44,120,42,105,22,70,1,8,259,18,126,31,282,78,69,141,37,21,280,185,78,145,55,511,151,60,43,101,181,78,116,183,19,89,178,5,104,1,149,7,16,253,294,2377,54,3,489,289,390,16
@@ -176,7 +178,7 @@ DATOS Equacom News	17342
 DE CÔTE D'IVOIRE Newsletter Recevez	3675
 DERNIERES NEWS	8797
 DIGITIZATION OF POLICE SERVICES News	14467
-Daily News	4553,1144,228,3534,10093,21,14
+Daily News	4553,1144,228,3534,10093,21,14,621
 Daily News ARUSHA	19603
 Daily News CAPE TOWN	3954
 Daily News DAR ES SALAAM	5771,13808
@@ -220,6 +222,7 @@ ESA GDA Impact Newsroom- Episode	17405
 ESCWA. Home News	17169
 EU AI Industrial Policy Monitor Newsletter	6487
 EY News	10246
+Eastern Region By Newsalertgh	20147
 Ecofin Agency and TechAfrica News	3865
 Ecosystem Development Capacity Building Toolkits News	19941
 Edge News	4520
@@ -245,7 +248,7 @@ Equacom News	17029,313,72
 Equipe Newsletters Editeur Anglais Portugais Accueil	13568
 Estonia State Visit TechAfrica News	2909
 Eswatini Daily News	12999
-Eswatini Positive News	7453,5495,24,241,23,16
+Eswatini Positive News	7453,5495,24,241,23,16,6871,51
 Ethiopia News Agency	9801
 Ethiopian News Agency	1798,166,7,481,759,8966,102,1755,17,1,7,1,4,24,33,1,8,3
 Europe Tech News	9608
@@ -288,6 +291,7 @@ GAM ZA News Publishers. Google	13462
 GCT News Desk	11037
 GIS News	7365,7446
 GIS News Topics	14805
+GLOBE NEWSWIRE	20171
 GNHR Process Statistics News	19942
 GOOBJOOG NEWS	14309,685
 GRA News Ghana's Tax Revolution Begins	16254
@@ -345,6 +349,7 @@ Group’s Stock Exchange News Service	10218
 Guide for E-Receipt System News AIIB	19919
 Guêpe News	10389
 HOME REPORTS ABOUT CONTACT NEWSLETTER Digital	12441
+Health Reforms MoH News	20077
 Health-e News Zimbabwean	5733
 HealthtechnologyPIHCTECHMED CENTRE News	15552
 Helina Bischoff Newsletters	3929,2919
@@ -421,7 +426,7 @@ Latest Biometrics News	2390,1902,563,470,255,313,73,322,83,128,44,465,56,47,32
 Latest Biometrics News Foundational ID	9801,26
 Latest Biometrics News OfDIA	10293
 Latest Eswatini Parliament News Piggs Peak	12989
-Latest News	4112,756,916,4,17,145,14,249,543,115,166,32,67,1280,481,1632,1497,352,1473,949,384,630,4,58,95,152,79,5,2056,223,60,9,17
+Latest News	4112,756,916,4,17,145,14,249,543,115,166,32,67,1280,481,1632,1497,352,1473,949,384,630,4,58,95,152,79,5,2056,223,60,9,17,1641
 Latest News China-Sierra Leone Nursing Training	18555
 Latest News Inside Politics	9940
 Latest News Latest	12454
@@ -754,7 +759,7 @@ News Publishers. Available	13461
 News Publishers. Pg	13461
 News Re-Opening of National Identity Card	14741
 News Reading Time	5121,1152,547
-News Release	10841,1128,2073,104,2338,797,794
+News Release	10841,1128,2073,104,2338,797,794,2134
 News Release Autoridades	16484
 News Release En	18075
 News Release Huíla	16484
@@ -971,7 +976,7 @@ RECENT NEWS Prev Next	18442
 RELATED NEWS Dangote Cement Exports Rise	8178
 Radio Jambo Smooth FM ADVERTISEMENT News11	9646
 Receba Nossa Newsletter Oferecemos	11415,13
-Recent News	5044,1835,10184,1,137
+Recent News	5044,1835,10184,1,137,3012
 Reference Farrell and Newman2019	7731
 Reference Li and Newman2022	8436
 Regional News	10025
@@ -1023,7 +1028,7 @@ Seychelles News Agency	1884,8,5967,1820,9243
 Seychelles News Agency. Complementary	1884
 Sidebar Menu Newsroom	13051
 Sierra Leone News Agency	18591
-Sir William Newton Street	14847
+Sir William Newton Street	14847,5214
 Sky News	407
 Smart News Liberia	17037
 Smart News Liberia Monrovia	14354
@@ -1095,6 +1100,7 @@ Times Techies News	6692
 Tiryaq News	15134
 Toolkits News And Events GHN Summit	19941
 Top News	12291
+Trend News Agency	20111
 Trending News	5784,166,263
 UCT News	432
 UK Tech News	7174

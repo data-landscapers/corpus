@@ -118,6 +118,7 @@ Aïssatou Ndoye Associate Scientist	18324
 BINDURA UNIVERSITY OF SCIENCE EDUCATION	13368
 BRICS Science	6480
 BRICS Science and Innovation Initiatives India and South	6480
+BRICS Science and Research Repository	20125
 BSc Information Science BSc Computer Science	12361
 Bac Scientifiques C	15674
 Bachelor Of Science	12675
@@ -226,7 +227,7 @@ College of Natural Sciences	17735
 College of Science	2958,11014
 College of Science and Technology	431,287,3133,11313
 Collège des Sciences	8891
-Columbia Center for International Earth Science Information	10759,78,1050,2,264,1,9,177,1,7517,1,79
+Columbia Center for International Earth Science Information	10759,78,1050,2,264,1,9,177,1,7517,1,79,274
 Comité Scienti-	18077
 Comité Scientifique	15376,1245,1456
 Comité Scientifique Une	16250
@@ -859,11 +860,12 @@ Ministry of Science and Technology and Higher Education	12786
 Ministry of Sciences	12786
 Ministry of Sciences and Technology	14853
 Ministry of Sciences and Technology. XII. BUILDING	14853
-Ministry of Technology and Science	1965,2601,651,984,1060,171,347,99,85,1119,619,514,1914,227,97,891,1,1,1,83,49,42,15,71,56,695,3263
+Ministry of Technology and Science	1965,2601,651,984,1060,171,347,99,85,1119,619,514,1914,227,97,891,1,1,1,83,49,42,15,71,56,695,3263,2590
 Ministry of Technology and Science Brilliant Habeenzu	9392
 Ministry of Technology and Science M&E	12356
 Ministry of Technology and Science MoFNP Ministry of Finance	13345
 Ministry of Technology and Science Permanent Secretary	12126
+Ministry of Technology and Science Permanent Secretary Dr	20211
 Ministry of Technology and Science Permanent Secretary Eng	14255
 Ministry of Technology and Science Submission	13336
 Ministry of Technology and Science and Obrizum Group Ltd	13539
@@ -1208,7 +1210,7 @@ SciPap	7886
 SciPy. Stats	17157
 Scidev.Net	4674
 Scien	12674
-Science	737,52,57,53,255,7,304,89,156,46,58,282,590,14,9,107,69,73,92,90,218,5,241,257,265,402,26,82,249,49,102,61,120,27,1,1,3,8,17,97,42,110,177,366,108,306,143,209,80,85,365,136,50,171,303,208,150,80,99,14,127,101,213,112,352,98,6,48,156,424,82,8,300,168,8,117,71,5,59,22,85,21,59,5,1,9,58,190,82,288,15,21,1,10,10,26,9,27,39,84,43,26,1,15,29,1,124,22,4,1,5,15,35,67,9,25,32,21,109,1,10,2,4,3,1,1,6,2,4,5,1,1,10,2,9,14,1,7,4,4,20,180,5,1,3,4,77,45,16,195,2,6,21,36,15,66,11,5,197,14,34,253,32,20,161,13,268,4,124,135,18,11,17,37,12,24,49,25,1,28,187,45,291,19,60,38,13,39,30,25,15,135,85,60,99,1,37,14,83,28,11,109,111,41,100,225,24,66,9,7,17,46,84,52,81,109,90,135,69,143,58,32,225,1,6,65,115,32,128,8,6,1,19,32,85,52,40,76,184,288,129,176,29,8,63,12,23,85,16,84,3,35,4,40,8,14,29
+Science	737,52,57,53,255,7,304,89,156,46,58,282,590,14,9,107,69,73,92,90,218,5,241,257,265,402,26,82,249,49,102,61,120,27,1,1,3,8,17,97,42,110,177,366,108,306,143,209,80,85,365,136,50,171,303,208,150,80,99,14,127,101,213,112,352,98,6,48,156,424,82,8,300,168,8,117,71,5,59,22,85,21,59,5,1,9,58,190,82,288,15,21,1,10,10,26,9,27,39,84,43,26,1,15,29,1,124,22,4,1,5,15,35,67,9,25,32,21,109,1,10,2,4,3,1,1,6,2,4,5,1,1,10,2,9,14,1,7,4,4,20,180,5,1,3,4,77,45,16,195,2,6,21,36,15,66,11,5,197,14,34,253,32,20,161,13,268,4,124,135,18,11,17,37,12,24,49,25,1,28,187,45,291,19,60,38,13,39,30,25,15,135,85,60,99,1,37,14,83,28,11,109,111,41,100,225,24,66,9,7,17,46,84,52,81,109,90,135,69,143,58,32,225,1,6,65,115,32,128,8,6,1,19,32,85,52,40,76,184,288,129,176,29,8,63,12,23,85,16,84,3,35,4,40,8,14,29,107,59
 Science Academy	4353
 Science Advances	15342,1121
 Science And Technology	899
@@ -1254,10 +1256,11 @@ Science and Engineering Infrastructure	14702
 Science and Engineering Professionals	16266
 Science and English	14922
 Science and English. Outcome	14922
+Science and Entrepreneurship	20125
 Science and Higher Education MInT Ministry of Innovation	13991
 Science and Higher Education of STP	18857
 Science and Industry Japan AI Strategy	11135
-Science and Innovation	1614,5218,12264
+Science and Innovation	1614,5218,12264,973
 Science and Linguistics	16942
 Science and Public Policy	12090
 Science and Research	14267,454,26,23,4,1,37,17,1,12,5
@@ -1271,7 +1274,7 @@ Science and Research’s Mission	14747
 Science and Resources	11135
 Science and Scientific Researchers	14073,1895,2002,960
 Science and Social Science	16942
-Science and Technology	309,590,335,320,2029,543,910,210,265,622,347,517,113,514,217,181,802,143,140,1,336,654,577,508,2,103,229,106,2,300,250,236,101,17,15,112,9,121,33,163,12,16,38,41,120,20,723,334,69,54,333,33,44,320,224,11,1478,35,40,40,6,145,78,134,17,81,118,25,20,64,881,70,17,12,130,192,577,25,53,321
+Science and Technology	309,590,335,320,2029,543,910,210,265,622,347,517,113,514,217,181,802,143,140,1,336,654,577,508,2,103,229,106,2,300,250,236,101,17,15,112,9,121,33,163,12,16,38,41,120,20,723,334,69,54,333,33,44,320,224,11,1478,35,40,40,6,145,78,134,17,81,118,25,20,64,881,70,17,12,130,192,577,25,53,321,186,66
 Science and Technology Accelerator-Systems	9697
 Science and Technology Act	5036
 Science and Technology Bindura Nickel Corporation Civil	1554
@@ -1287,7 +1290,7 @@ Science and Technology Development MoFED Ministry of Finance	13310
 Science and Technology Development Project	6174,707
 Science and Technology Development and Ministry of Youth	13310
 Science and Technology Development and Youth	13310
-Science and Technology Education	6572,1,10279
+Science and Technology Education	6572,1,10279,3250
 Science and Technology Education Directorate	16852
 Science and Technology Education Institutions	13952,5981
 Science and Technology Government Paper	12529
@@ -1331,7 +1334,7 @@ ScienceBlog	5224,28
 ScienceDirect	7759,413,13,57,363,627,5,5197
 ScienceDirect and Wiley	8605
 ScienceandResearch	14747
-Sciences	1154,29,713,200,1299,4874,607,1904,67,8,38,47,729,742,966,41,310,1679,122,145,37,9,475,35,266,110,831,147,245,16,16,13,108,105,3,322,49,792,113,13
+Sciences	1154,29,713,200,1299,4874,607,1904,67,8,38,47,729,742,966,41,310,1679,122,145,37,9,475,35,266,110,831,147,245,16,16,13,108,105,3,322,49,792,113,13,788
 Sciences Agronomiques	15529,3837
 Sciences Aviaires	19366
 Sciences Biomédicales	16195,3171
@@ -1359,6 +1362,7 @@ Scientific African	2093,425,430,10676
 Scientific Board	16852
 Scientific Committee	5270,13035
 Scientific Conference and Innovation Expo	6554
+Scientific Contribution	20167
 Scientific Coordination Committee	16922
 Scientific Data	12090,3625,420,1022,1421
 Scientific Days	4991
@@ -1407,6 +1411,7 @@ Scientific and Cultural Organisation UoM	14775
 Scientific and Cultural Organisation WEF World Economic	1814
 Scientific and Cultural Organization	1814,3222,1912,114,1647,2447,109,125,179,310,8,13,253,1,9,178,15,39,571,578,119,275,193,382,109,153,141,495,36,71,35,51,17,104,321,143,271,489,14,355,552,1061,111,37,486,77,11,182,23,1
 Scientific and Cultural Organization AUC African Union	10835,3,130,902,16,466,1,135,7334
+Scientific and Cultural Organization Recommendation	20224
 Scientific and Cultural Organization UNFPA United Nations	15604,3020
 Scientific and Cultural Organization UNHCR United Nations	17157,1754
 Scientific and Cultural Organization UNICEF United	12970
@@ -1568,6 +1573,7 @@ Transfer of Anonymized Microdata for Scientific Purposes	16189
 Transfer of Anonymized Microdata for Scientific Purposes URL	16189
 Transport Licence Pro Sciences	17829
 Treetops Resort. Science	12975
+UI School of Social Sciences	20074
 UK Bachelor of Science	4896
 UN Independent International Scientific Panel	5074,1859,179,24,5624
 UN Scientific Advisory Panel	8629

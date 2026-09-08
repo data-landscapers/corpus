@@ -9,6 +9,7 @@ ACCESS DEFICITS IN URBAN AND RURAL	11572
 ACCESS PROJECTS NATIONWIDE URL	17152
 ACE URL	16399
 ACF Rapport Biomasse Mauritanie URL	17931
+ACH URL	20214
 ACP URL	16223,109,95,23,50,31,17,18,1
 ACPH URL	16515
 ACREDITAÇÃO DE CICLOS DE ESTUDOS URL	16166
@@ -413,6 +414,7 @@ Certificate of Urgency FINANCIAL PROVISIONS	18436
 Chad URL	18930,32,92
 Chad Urges Speed	2533
 Chadian Space Agency URL	19002
+Chairperson Mary Wambui Mungai URL	20189
 Changes URL	12290
 Chapter URL	19063,1
 Characteristic Households Population Urban Rural	16935
@@ -491,10 +493,12 @@ Connectivity URL	13915
 Conseil Exécutif des Transports Urbains de Dakar CLM	18291
 Consejo Interministerial URL	17089
 Consortium Milestone for Global Connectivity URL	15941
+Consultation Paper URL	20165
 Consultation Response URL	18952
 Contribuição Predial Urbana	11532
 Contributing Practice Areas Urban	18293
 Contribution of UNESCO Gabon URL	15968
+Control Test URL	20160
 Contrôle Qualité URL	16597
 Cooperation Document URL	13983
 Coopération Islamique URL	18090
@@ -600,6 +604,7 @@ Demographic and Health Survey URL	18590
 Department for Urban Planning and Development GIZ German	15473
 Department of Energy URL	17880
 Department of Urban Affairs	16970
+Deprecated Authentication Labels URL	20118
 Deputy Minister of Ministry of Urban and Rural Development	13118
 Description Urban	17140
 Desenvolvimento Urbano	15388
@@ -750,7 +755,7 @@ Education Profiles URL	16634
 Education URL	15994
 Educational Pursuits and Obstacles for Urban Refugee	12227
 Egalité du Genre URL	15383
-Egypt URL	15181,281,11,161,632,49
+Egypt URL	15181,281,11,161,632,49,3858
 Egypt and COVID-19 URL	15519
 Egypt's National AI Governance Framework URL	16212
 Egyptian Financial Urban Planning	15473
@@ -963,7 +968,7 @@ Getesa URL	17319
 Ghana News Agency URL	15816,381,9,140
 Ghana News Online URL	16574
 Ghana Police Service URL	16602
-Ghana URL	15784
+Ghana URL	15784,4400
 Ghana's Official National Digital Address... URL	16604
 Ghana. Sustainable Cities and Urban Governance	789
 Glance URL	17239
@@ -972,6 +977,7 @@ Global Digital Compact. Tweet URL	9786
 Global Digital Identity Index URL	13984
 Global Digital Insights URL	13764,1256
 Global Gateway Forum URL	11226
+Global Infrastructure Division URL	20170
 Global South URL	16495
 Goals URL	17289
 Gobierno Electrónico URL	17128
@@ -1013,6 +1019,7 @@ Génie Civil URL	15409
 Géo Consult URL	19028
 Géo Sénégal URL	18347
 Géographie Urbaine	19366
+Gíneu-Bissá URL	20186
 H URINE FONCÉ	13300
 HDX URL	14141
 HISP. URL	19115
@@ -1537,6 +1544,7 @@ Météorologie URL	15371,2449
 Météorologie de Djibouti URL	13825
 Módulo de Gestão Urbanística	9403
 N'Djamena-Kousseri URL	19183
+NA Ownership Public URL	20214
 NAHOURI Urbain	10847
 NALTF URL	18174
 NAMENTENGA Urbain	10847
@@ -1857,6 +1865,7 @@ Prix URL	17450
 ProFuturo URL	16897
 Process URL	18155
 Productive Population URL	15059
+Products and Services URL	20194
 Prof. Kevin Urama	10718
 Profesional URL	16864
 Professor URL	16325
@@ -1868,7 +1877,7 @@ Programa de Produção Alimentar de Urgência	1265
 Programme TEKAVOUL URL	17886
 Programme de Modernisation Urbaine	15542
 Progress Update URL	14750
-Project Appraisal Document URL	14976,2465,663,1141
+Project Appraisal Document URL	14976,2465,663,1141,916
 Project Appraisal Report URL	13938
 Project Information Document URL	16293
 Project Management Unit Resilient Urban Sierra	18575
@@ -1889,6 +1898,7 @@ Projet de Mobilité Urbaine	2342
 Projet de Riposte Urgente	15685
 Projeto Cidade Segura URL	16280
 Promulgating the Personal Data Protection Law URL	15484
+Proof of Acceptable Documents URL	20175
 Property URL	13950
 Proposal Development URL	17065
 Proposed Additional Credit URL	19284
@@ -2343,6 +2353,7 @@ Support Project URL	16436
 Supreme Council for Planning and Urban	15473
 Supreme Council for Planning and Urban Development	15473
 Supreme Council for Planning and Urban Only	15473
+Survey Report URL	20196
 Survey Urban Planning Authority	16916
 Sustainability and Strengthening Report URL	16963
 Sustainable Investment Facilitation Agreement URL	16521
@@ -2388,6 +2399,7 @@ Tanga Urban Water Supply and Sanitation Authority	19584
 Tanzania Rural and Urban Roads	19585
 Tanzania Rural and Urban Roads Agency	5116,1805,12663,1
 Tanzania Rural and Urban Roads Agency Level	19584
+Tanzania URL	20208
 Tanzania Zanzibar Urban	19542
 Target Urban	10964
 Tarifários URL	18830
@@ -2567,6 +2579,7 @@ URL BRAZZAVILLE	1876
 URL Brazzaville	16092,1,37,97,148,62,49,41
 URL IS EVER FOUND	4848
 URL MTN's SENS	10793
+URL NA Last Updated	20214
 URL Request	15630
 URL Requests	15630
 URL Requests Get	15630
@@ -2722,7 +2735,7 @@ Urbaines	10876
 Urbaines de Gestion Foncière	10876
 Urbains	16515,1499
 Urbains Fonciers	10876
-Urban	183,53,11,92,2,17,60,164,64,72,53,18,169,55,206,408,317,152,395,4,2,128,797,490,218,1870,51,722,18,145,168,152,292,321,17,1513,1364,49,29,123,21,19,125,7,160,173,91,12,307,26,22,37,24,18,131,55,7,28,34,17,19,1,30,7,3,31,14,16,10,22,26,3,41,32,106,16,257,34,17,15,100,280,9,51,226,187,188,655,71,35,94,22,62,7,32,30,29,29,12,32,115,171,58,80,21,30,23,98,233,909,9,40,5,6,23,16,7,21,2,24,94,13,30,103,25,218,2,457,236,95,148,100,392,215,89,283,22,71,41,23,25,25,99,21,40,43
+Urban	183,53,11,92,2,17,60,164,64,72,53,18,169,55,206,408,317,152,395,4,2,128,797,490,218,1870,51,722,18,145,168,152,292,321,17,1513,1364,49,29,123,21,19,125,7,160,173,91,12,307,26,22,37,24,18,131,55,7,28,34,17,19,1,30,7,3,31,14,16,10,22,26,3,41,32,106,16,257,34,17,15,100,280,9,51,226,187,188,655,71,35,94,22,62,7,32,30,29,29,12,32,115,171,58,80,21,30,23,98,233,909,9,40,5,6,23,16,7,21,2,24,94,13,30,103,25,218,2,457,236,95,148,100,392,215,89,283,22,71,41,23,25,25,99,21,40,43,291,2,7
 Urban AI	2518
 Urban Activity	6051
 Urban Addresses	11129
@@ -2946,7 +2959,7 @@ Urbanism	2598,2347,5816
 Urbanism and Cadastre	4064
 Urbanism and Habitat	13896
 Urbanism and Housing	16275
-Urbanisme	235,2368,442,179,157,15,742,2453,291,788,255,53,913,2009,2,2427,113,281,175,7,1461,9,97,70,13,25,132,45,176,3,65,19,27,128,143,23,77,97,22,74,3,53,51,637,93,136,233,10,10,5,2,32,9,10,7,5,8,1,62,4,1,12,8,2,27,45,63,9,20,9,9,40,59,5,50,20,24,21,4,2,19,456,141,96,69,4,16,8,79,4,62,39,592
+Urbanisme	235,2368,442,179,157,15,742,2453,291,788,255,53,913,2009,2,2427,113,281,175,7,1461,9,97,70,13,25,132,45,176,3,65,19,27,128,143,23,77,97,22,74,3,53,51,637,93,136,233,10,10,5,2,32,9,10,7,5,8,1,62,4,1,12,8,2,27,45,63,9,20,9,9,40,59,5,50,20,24,21,4,2,19,456,141,96,69,4,16,8,79,4,62,39,592,92
 Urbanisme Cible	15936
 Urbanisme Dans	17907
 Urbanisme Des	3396
@@ -3191,6 +3204,7 @@ Year of TVET URL	15172
 Years URL	17265
 Yes. URA	19796
 York URL	17292
+ZACL Managing Director Urvesh Desai	20120
 ZONE URBAINE	10975
 ZOUNDWEOGO Urbain	10847
 Zambezi Rivers. Urban	10768

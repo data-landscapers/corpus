@@ -220,6 +220,9 @@ Metric Scale Scale Up Down CPU	11952
 MoEWR and SCAA	14949
 MoMo Scams. All	4439
 Mobile Money Scales Up Fintech	8968
+Multi Finger Scanner and Biometric ID Card	20221
+NA Scalable	20214
+NAWEC's SCADA	20223
 NAWEC’s SCADA	16966
 Nairobi SCAN ME	12151
 National Development Plan SCAPP	17893
@@ -250,7 +253,7 @@ Pilot and Scale	20004
 Pipeline Scaling	6832
 Pipeline Scaling Set	6832
 Political Terror Scale	19653,183
-Political Terror Scale RSF Reporters	10759,78,1052,451
+Political Terror Scale RSF Reporters	10759,78,1052,451,7872
 Population Scale for Digital Transformation	19063,1
 Powered Scams	19728
 Pretoria High Court and SCA	14693
@@ -298,7 +301,7 @@ SCADA Supervisory Control and Data Acquisition SDG	15515
 SCADA-type	87
 SCADD	10812,4825,1,323
 SCADD Stratégie	15961
-SCALE	16751
+SCALE	16751,3410
 SCALE UP AN ESSENTIAL HEALTH	15977
 SCALE-UP WINDOW	19245
 SCALE-UP WINDOW CREDIT-SHORTER MATURITY	15983
@@ -372,7 +375,7 @@ Scalar Decarbonization Fund	5444
 Scalar Infrastructure and Real Assets	5393,53
 Scalar International	5393,38
 Scalar International's Africa Decarbonisation Fund	5431
-Scale	899,357,35,1,1,1,1,1,136,228,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,149,4,57,172,1,1,1,1,1,85,139,9,266,75,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,303,425,155,85,45,217,19,291,176,1,1,1,1,1,59,30,64,224,41,55,82,172,138,391,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,257,75,72,368,64,342,105,18,267,246,263,20,134,36,175,15,463,414,628,421,388,148,12,196,105,247,7,2,7,7,78,76,250,303,53,36,395,80,17,12,1,55,111,367,80,244,624,505,39,83,142,40,71,1,53,1,49,13,12,38,171,88,330,130,273,235,730,21,80,96,18,128,218,230,568,327,827,222,124
+Scale	899,357,35,1,1,1,1,1,136,228,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,149,4,57,172,1,1,1,1,1,85,139,9,266,75,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,303,425,155,85,45,217,19,291,176,1,1,1,1,1,59,30,64,224,41,55,82,172,138,391,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,257,75,72,368,64,342,105,18,267,246,263,20,134,36,175,15,463,414,628,421,388,148,12,196,105,247,7,2,7,7,78,76,250,303,53,36,395,80,17,12,1,55,111,367,80,244,624,505,39,83,142,40,71,1,53,1,49,13,12,38,171,88,330,130,273,235,730,21,80,96,18,128,218,230,568,327,827,222,124,321
 Scale ADR	17139
 Scale AI	4972,3007
 Scale Accelerators	2957
@@ -460,7 +463,7 @@ Scaleup Corridor	4194
 Scaleway	5846,1033,1880
 Scaleway and S3NS	5846
 Scaleway. Schwarz Digits	6879
-Scaling	396,1432,1178,1760,2782,332,95,401,722,1059,31,484,30,61,27,3,338,5,86,73,15,262,51,329,85,104,34,35,4,41,42,205,5,182,320,86,300,1,1060,218,144,104,25,50,76,57,330,199,2,104,248,830,123,30,96,197,169,45,287,80,92,508,8,767,326,303,100,16
+Scaling	396,1432,1178,1760,2782,332,95,401,722,1059,31,484,30,61,27,3,338,5,86,73,15,262,51,329,85,104,34,35,4,41,42,205,5,182,320,86,300,1,1060,218,144,104,25,50,76,57,330,199,2,104,248,830,123,30,96,197,169,45,287,80,92,508,8,767,326,303,100,16,233
 Scaling AI	1467,9668
 Scaling AI Readiness Across Borders	12723
 Scaling AI for SMEs	6886
@@ -562,11 +565,12 @@ Scanthis Agile One Exosquelette Les Sucrées-Salées	16693
 Scaranello	16996
 Scarascia-Mugnozza	16996
 Scarce	1940,8889,4651,2983
+Scarce IPv4	20160
 Scarce Resource	15473
 Scarce Resource Management	17251
 Scarce Resources Resources	13346
 Scarcise. Population	18475
-Scarcity	11525,902,17,4713
+Scarcity	11525,902,17,4713,3003
 Scarcity of Training-Quality Data	3810
 Scardamalia	12329
 Scare	1940,9024
@@ -616,6 +620,7 @@ Subscriber Scale Nigeria	14707
 Sullivan and Scalar	5446
 Support for Scaling	98
 Sustainability and Scalability	12240
+Sustainability and Scale-Up Phase	20123
 Sweet Large Scale	19554
 Synoptic and Regional Scales	16499
 System Usability Scale	16329

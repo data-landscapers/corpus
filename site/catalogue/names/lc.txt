@@ -92,10 +92,12 @@ LCML Méta-langage	15715
 LCML UML	15129
 LCML. Green	15129
 LCOE Bioenergy	11953
+LCOE Levelised Cost of Energy	20223
 LCOE for Hydro	13624
 LCOOL Consumo	10777
 LCP Pauvreté	17842
-LCPDP	12358,359,2942,1307
+LCPDP	12358,359,2942,1307,3257
+LCPDP Least	20223
 LCPDP Least Cost Power Development Plan	15659
 LCPDP Least-Cost Power Development Plan MCC	12717
 LCR and Liquidity	14997

@@ -4,21 +4,29 @@ Action de Marrakech	15479
 Age Specific Marriage Rates	12413
 America MARROCOS	17283
 Assessment Tool of Marriage and Divorce	19887
+Authentication of Customary Marriages D3	20213
+Authentication of Marriage	20213
 B. Marriage	14714
 Birth Death Marriage Divorces Cause	15056
 Birth Registration Marriage Registration Death Registration	10814
 Birth and Marriage	19834
+CERTIFICATES FEES Civil Marriage Licence Form	20213
 CIVIL MARRIAGES	14753
 Center for National Document Records Marriage	17011
 Certificate of Marriage Capacity	19834
+Certified Copy of Civil Marriage Certificate D3	20213
 Child Marriage	10829,1359,4763,1490,1214
 Child Marriage and FGM	12188
 Child Marriages	19715
 Christian Marriage Act Cap	18466
 Christian Marriages Act Cap	16873
+Church Marriage Authentication Muslim Divorce Bachelor	20213
 Civil Marriage	14714,1
 Civil Marriage Act	16873
 Civil Marriage Act Cap	18466
+Civil Marriage Form MUST	20213
+Civil Marriages	20213
+Civil Marriages Muslim	20213
 Committee Dr. Maledh Marrakchi University of Manouba	2958
 Community Community Marriages Registered Men25-29 Women21-24	15056
 Crude Marriage	15056
@@ -66,6 +74,7 @@ MARRIAGE REGISTRATION Legal	19834
 MARRIAGE STATISTICS	15056
 MARRIAGE STATISTICS Key	15056
 MARRIAGE Sub-Part	14714,1
+MARRIAGE TYPES FEES	20213
 MARRIAGES	19099
 MARRIAGES AND DEATHS	12898
 MARRIAGES AND DIVORCES	13644
@@ -93,23 +102,23 @@ Marrakesh Treaty Signing	11935
 Marrakesh Treaty The Republic of Niger	10358
 Marraquexe	18794
 Marrella	9237
-Marriage	2072,3461,1698,3581,1174,152,88,15,86,10,1,29,46,58,25,143,16,350,75,15,10,48,491,304,97,669,1,190,21,130,191,306,2244,1146,772,89,30,53,48
+Marriage	2072,3461,1698,3581,1174,152,88,15,86,10,1,29,46,58,25,143,16,350,75,15,10,48,491,304,97,669,1,190,21,130,191,306,2244,1146,772,89,30,53,48,278,8
 Marriage Act	1,2830,2702,5232,10,402,809,341,10,30,166,106,9,311,25
 Marriage Act Chapter	12449
 Marriage Adoption	12327
 Marriage Bill	5533,6453,961
-Marriage Certificate	12291,2471,4048,1125
+Marriage Certificate	12291,2471,4048,1125,240
 Marriage Certificate No	14713
 Marriage Certificates Available Fees	14045
 Marriage Grant	16902
 Marriage Records	12334
 Marriage Regime Count Percentage Community	15056
 Marriage Register	12367,272,320
-Marriage Registration	13095,359,683,1110
+Marriage Registration	13095,359,683,1110,4974
 Marriage Registration Software	13080,15
 Marriage Registration Supported	12241
 Marriage Registration System	12241,839
-Marriage Registry	18477
+Marriage Registry	18477,1736
 Marriage Registry I. Intellectual Property Registry	16873
 Marriage Regulation Organic	10775
 Marriage SMEs Small and Medium Enterprises SMS	2775
@@ -123,7 +132,7 @@ Marriage and Death Registration Act	12959
 Marriage and Divorce Assessment Tool	19887
 Marriage-related	10130
 MarriageCertificateFormKenya.pdf	12138
-Marriages	1,5532,6453,152,189,10,1,29,46,259,298,428,1658,1840,26,1552,625,831
+Marriages	1,5532,6453,152,189,10,1,29,46,259,298,428,1658,1840,26,1552,625,831,291
 Marriages Act	12367,572,452
 Marriages Death	15056
 Marriages Divorces	15627
@@ -132,6 +141,7 @@ Marriages Divorces Present	15627
 Marriages Marriage	12639
 Marriages Policy	5533,6453
 Marriages Registered	12533,2523
+Marriages Registry	20213
 Marriages Table M01	12367
 Marriages and Deaths	1,5532,6453,381
 Marriages and Deaths Act	12337,816
@@ -146,8 +156,10 @@ Married Persons Property Act	12533,64
 Married Separated Divorced Widow	16921
 Married Separated Widowed Never Married	12978
 Married Unmarried Modern Use Unmet Need	18441
+Marrify	20180
 Marriot Hotel-Kigali	14869
 Marriott Hotel	11968
+Marriott Kampala	20106
 Marrocos	2816,8753,124
 Marrogquinos	18802
 Marromeu	12201
@@ -157,6 +169,7 @@ Marruecos ELKADDOURI	6613
 Marrufo	2816
 Marrupa	2989
 Marry Me	2626
+Marry Right Ghana Ltd	20180
 Mohammedan Marriage Act Cap	18466
 Muslim Marriage and Divorce Act Cap	16873
 NEVER MARRIED	17127
@@ -194,8 +207,10 @@ Register of Marriages	16873,1567
 Registered Births. Deaths and Marriages	12413
 Registered Marriage	15056
 Registered Marriages	12413,2643
+Registrar General of Marriages	20221
 Registrar of Marriages	12290
 Registrar of Marriages Ends Manual Printing of Certificates	12290
+Registrar of Marriages. Marriage	20213
 Registrar of Marriages. Under the Marriage	13105
 Registration of Customary Marriage and Divorce Act	18440
 Registration of Marriages	12944

@@ -100,7 +100,7 @@ GCI Global Cybersecurity Index GDP Gross	6946
 GCR Global Compact for Refugees GDP Gross	10841
 GDP Financing Agreement GNI Gross Domestic	11855
 GDP Gross	11380,505,4998,1
-GDP Gross Domestic Product	11965,821,5828,1233
+GDP Gross Domestic Product	11965,821,5828,1233,376
 GDP Gross Domestic Product GDUPD General	15473
 GDP Gross Domestic Product GEF Global	7548
 GDP Gross Domestic Product GEI Global	17870
@@ -117,12 +117,13 @@ GDP Gross Domestic Product ICI Djibouti	13836
 GDP Gross Domestic Product Telecommunications of Equatorial	16942
 GDP. Gross	17990
 GER Gross Enrollment Rate Telecommunications Inc	16942
-GER Gross Enrolment Rate	14916
+GER Gross Enrolment Rate	14916,5301
 GER Gross Enrolment Ratio GGR Gross	14747
 GER Gross Enrolment Ratio GIS Geographical	19542
 GER Gross Enrolment Ratio GNLSA Gambia	16852
 GERD Gross Expenditure	12786
 GHG Gender-Based Violence GIZ Gross Domestic	10964
+GIR Gross Intake Rate	20217
 GM Grievance Mechanism GNI Gross National	1264
 GNI Greenhouse Gas GRS Gross National	16144
 GNI Gross	11380
@@ -170,7 +171,7 @@ Gros Petits Volaille	737
 Grosh	15601
 Grosjean J	14666
 Grosman	7966
-Gross	236,1881,595,63,2472,2301,215,82,1890,247,2,233,28,162,358,10,54,27,113,35,127,3,2,62,73,253,360,1,10,10,50,9,195,1,45,146,4,9,12,7,13,17,18,56,435,946,876,3,68,81,101,208,206,102,91,30,802,440,26,25,69,15,127,97,15,7,404,119,129,81,833,28,751,55,205,3,130
+Gross	236,1881,595,63,2472,2301,215,82,1890,247,2,233,28,162,358,10,54,27,113,35,127,3,2,62,73,253,360,1,10,10,50,9,195,1,45,146,4,9,12,7,13,17,18,56,435,946,876,3,68,81,101,208,206,102,91,30,802,440,26,25,69,15,127,97,15,7,404,119,129,81,833,28,751,55,205,3,130,229
 Gross Amount Accumulated	11955
 Gross Amount Impairment	11955
 Gross Annual N	10407
@@ -189,7 +190,7 @@ Gross Completion Rate	18460
 Gross Disorderly Conduct A Member	13387
 Gross Domestic	2775
 Gross Domestic Expenditure	2775,9601
-Gross Domestic Product	236,337,367,423,625,787,641,167,279,1587,876,122,27,65,339,68,746,1343,119,98,617,935,52,124,154,35,26,33,308,13,457,241,9,100,29,10,31,27,98,69,319,23,91,58,184,17,2,31,73,642,41,484,160,2,150,68,546,7,35,68,38,4,68,12,39,147,54,869,6,18,10,56,10,40,4,15,205,12,61,169,287,431,9,290,8,5,321,124,105,201,6,210,56,8,25,98,4,17,81,59,23,9,4
+Gross Domestic Product	236,337,367,423,625,787,641,167,279,1587,876,122,27,65,339,68,746,1343,119,98,617,935,52,124,154,35,26,33,308,13,457,241,9,100,29,10,31,27,98,69,319,23,91,58,184,17,2,31,73,642,41,484,160,2,150,68,546,7,35,68,38,4,68,12,39,147,54,869,6,18,10,56,10,40,4,15,205,12,61,169,287,431,9,290,8,5,321,124,105,201,6,210,56,8,25,98,4,17,81,59,23,9,4,269
 Gross Domestic Product ECR Electronic Cash	18488
 Gross Domestic Product Financial and Insurance Activities	2775
 Gross Domestic Product GDP	2775
@@ -232,9 +233,9 @@ Gross Enrollment Rate GHG Greenhouse Gas	17458
 Gross Enrollment Ratio	13314,3122
 Gross Enrollment Ratio Central African	13314
 Gross Enrolment	19760
-Gross Enrolment Rate	12175,24,2717,1936,1608
+Gross Enrolment Rate	12175,24,2717,1936,1608,1757
 Gross Enrolment Rate GESD	12175
-Gross Enrolment Rates	19727
+Gross Enrolment Rates	19727,490
 Gross Enrolment Rates for ECD	12175
 Gross Enrolment Ratio	13991,756,857,2856,1082
 Gross Enrolment Ratio GoSE Government	13960
@@ -250,8 +251,9 @@ Gross Fixed Capital Formation. LNG	16996
 Gross Fixed Investment	14897
 Gross Impairment Gross Impairment	13053
 Gross Income	11976,2741
-Gross Intake Rate	18460
+Gross Intake Rate	18460,1757
 Gross Intake Rate GoSL Government of Sierra	18460
+Gross Intake Rates	20217
 Gross Intake Ratio	15604,832
 Gross Intake Ratio GoM	12175
 Gross International Reserves	7695,9540,1863

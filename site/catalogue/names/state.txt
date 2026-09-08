@@ -164,6 +164,7 @@ Anambra State Government House	3133
 Anambra State ICT Agency	3133,1557,5218,28,116
 Anambra State ICT Agency When Governor	9936
 Anambra State ICT Agency. Anambra State	9908
+Anambra State Information and Communication Technology	20139
 Angola's Securitized State	9399
 Angolan State	8056
 Annual Financial Report and Policy Statement	17138
@@ -468,7 +469,7 @@ Community of Central African States	16239
 Community of Central African States EFT	13388
 Community of Central African States EMP Environment	18887
 Community of Latin American and Caribbean States	10038
-Community of Sahel-Saharan States	10835,2,1,74,974,2122,130,5684,14,23,65,63
+Community of Sahel-Saharan States	10835,2,1,74,974,2122,130,5684,14,23,65,63,225
 Community of West African State EDMS Electronic	16876
 Community of West African States	15621,4369
 Community of West African States EDSA Energy	18504
@@ -541,6 +542,7 @@ Cybersecurity Statement	7552
 DATA ACCESSIBILITY STATEMENT	12090
 DC. The U. S. State Department	17110
 DC. U.S. Department of State	10841
+DCO Member States	20067,157
 DEPUTY MINISTER STATEMENT	5533,5685,768
 DEPUTY MINISTER STATEMENT This Annual Performance	11261
 DESIRED STATE	12552
@@ -594,7 +596,7 @@ Deputy Chief State Counsel Prisca Wambui	14631
 Deputy Governor of Central Equatoria State	18731
 Deputy Governor of Eastern Equatoria State	18739
 Deputy Governor of Kano State	10597
-Deputy Governor of Lagos State	17660
+Deputy Governor of Lagos State	17660,2525
 Deputy Governor of Western Equatoria State	18730
 Deputy Minister of State	5883
 Deputy Secretary of State Christopher Landau	17237
@@ -664,14 +666,14 @@ EAC Partner States. The EA	12164
 EAC Secretariat and Partner States	11807
 EAST DARFUR STATE MULTIDIMENSIONAL POVERTY INDEX	15244
 ECCAS Economic Community of Central African States	11960,6971
-ECCAS Member States	16137
+ECCAS Member States	16137,3957
 ECCAS for Economic Community of Central African States	10841
 ECO-AUDIT Environmental Benefits Statement The World	10977
 ECONET INFRACO PRELISTING STATEMENT	4896
 ECONOMIC AND FISCAL POLICY STATEMENT	13060
 ECOWAS Authority of Heads of State and Government	7452,8276,515,2212
 ECOWAS Authority of Heads of State and Government and H.E	7452
-ECOWAS Economic Community of West African States	1264,10288,8,1103,1771,4097
+ECOWAS Economic Community of West African States	1264,10288,8,1103,1771,4097,1692
 ECOWAS Heads of State	18500
 ECOWAS Member State	11517
 ECOWAS Member States	7,4820,2625,2018,1039,310,698,31,3826,354,97,1083,102,164,917,464
@@ -729,14 +731,14 @@ Econometric Modelling for Arab States	17870
 Economic Community Of West African States	27
 Economic Community for West African States	16888
 Economic Community of African States	10841
-Economic Community of Central African States	26,1,1,2633,201,3471,4426,78,131,181,738,73,381,1047,750,797,437,202,84,3,170,128,178,835,1825,134,721,287
+Economic Community of Central African States	26,1,1,2633,201,3471,4426,78,131,181,738,73,381,1047,750,797,437,202,84,3,170,128,178,835,1825,134,721,287,155
 Economic Community of Central African States EESI	15574
 Economic Community of Central African States ESIA	15511
 Economic Community of Central African States ESO	10841
 Economic Community of Central African States European	9616
 Economic Community of West Africa States	17870
 Economic Community of West African State	16876
-Economic Community of West African States	7,19,1,1,933,282,21,513,1017,9,36,632,133,20,135,824,118,444,218,32,5,179,1,382,101,289,586,134,380,144,936,662,275,163,4,36,259,16,315,247,17,267,26,3,13,74,3,237,375,1,10,1,12,338,3,126,112,1718,293,296,695,234,11,50,56,11,130,204,319,45,12,42,351,3,79,154,44,34,16,2,10,36,39,14,89,60,35,12,14,89,28,1,14,13,365,47,78,66,155,34,73,248,6,2,17,33,27,6,5,4,4,1393,14,9,18,3,3
+Economic Community of West African States	7,19,1,1,933,282,21,513,1017,9,36,632,133,20,135,824,118,444,218,32,5,179,1,382,101,289,586,134,380,144,936,662,275,163,4,36,259,16,315,247,17,267,26,3,13,74,3,237,375,1,10,1,12,338,3,126,112,1718,293,296,695,234,11,50,56,11,130,204,319,45,12,42,351,3,79,154,44,34,16,2,10,36,39,14,89,60,35,12,14,89,28,1,14,13,365,47,78,66,155,34,73,248,6,2,17,33,27,6,5,4,4,1393,14,9,18,3,3,222,12
 Economic Community of West African States EFD	17011
 Economic Community of West African States EGDI	11545
 Economic Community of West African States EIB	17099
@@ -962,7 +964,7 @@ Fragile States Index Annual Report	18931
 Framework for Bilateral AI States	7548
 Fraud Detection Under Limited State Capacity	18318
 Fraud Driven From Within the State	9517
-Free State	1960,4306,327,1045,1361,585,383,723,490,8,4,6,13,37,4,10,10,1,12,1,8,2,1,363,230,14,76,6,2687,3028
+Free State	1960,4306,327,1045,1361,585,383,723,490,8,4,6,13,37,4,10,10,1,12,1,8,2,1,363,230,14,76,6,2687,3028,2504
 Free State Department of Health	11273,707
 Free State Dept of Health	11273
 Free State Facilities	11980
@@ -994,6 +996,7 @@ Further Statement	13461
 Future State	16600
 Future State Vision	14441
 G20 Innovation Ministerial Statement	17428
+G20 Ministerial Statement	20224
 GBON National Contribution Target Current State	16947
 GENDER STATEMENT	14773
 GENDER STATEMENT The Ministry of Health and Wellness	14773
@@ -1021,7 +1024,7 @@ Gabon US Department of State	1560
 Gabon's Minister of State for National Education	19982
 Gabonese State. Shortly	15511
 Gambella Regional State Government	14040
-Gambia ICT for Development Policy Statement	16886
+Gambia ICT for Development Policy Statement	16886,3338
 Gambia NICI-1 Policy Statement	16861
 Gambia's NICI-1 Policy Statement	16884
 Gambian NICI-1 Policy Statement	16861
@@ -1154,7 +1157,7 @@ I. State	19974
 ICT State Security	2117
 ICT State-Owned Entities	11230
 ICT and Digital Economy Budget Policy Statement	5108
-ICT4D Policy Statement	16861,63
+ICT4D Policy Statement	16861,63,3296
 ID BRR Civil State Registration	10714
 IDENTITY The State Parties	1243
 IDPs and Stateless Persons	17323,1
@@ -1268,7 +1271,7 @@ Jigawa State	11857
 Joint Board and Receiver Statement	9914
 Joint Press Statement	2787,6280,9994
 Joint Statement	1243,5606,298,1920,1434,578,104,481,261,1407,2174,420,2864,939
-Joint Statement Initiative	1243
+Joint Statement Initiative	1243,18981
 Jonglei State	3583,15032,86,29
 Jonglei State. South Sudan Revenue Authority	3583
 Judges of State First-Instance Courts	13948
@@ -1353,14 +1356,15 @@ LUPANE STATE UNIVERSITY	13368
 Lagos State	2445,1417,2012,29,473,416,772,2470,123,1157,543,1014,4700,520,104
 Lagos State AIDS Control Agency	9444
 Lagos State Blood Transfusion Service	9444
+Lagos State Commissioner for Innovation	20185
 Lagos State Deputy Governor	2825
 Lagos State Deputy Governor Dr. Kadri	12871
 Lagos State Director	10704
 Lagos State Domestic and Sexual Violence	2445
 Lagos State Electricity Law	17571,89
 Lagos State Employment Trust Fund	9549
-Lagos State Government	2563,538,6016,327,96,2428,913,4779
-Lagos State Governor	17690,66
+Lagos State Government	2563,538,6016,327,96,2428,913,4779,2525
+Lagos State Governor	17690,66,2429
 Lagos State Health Insurance Scheme	11968
 Lagos State Internal Revenue Service	9972
 Lagos State Judiciary	8978
@@ -1507,7 +1511,7 @@ Member State. For São Tomé and Príncipe	18985
 Member State. Medium	15725
 Member State. Section	28
 Member State. This Supplementary Act	11517,3846
-Member States	7,20,1,290,326,145,152,20,1,8,273,14,7,333,210,7,303,841,204,110,311,254,150,136,659,45,536,216,96,1,1,3,1,144,597,46,3,6,11,124,321,87,54,38,87,253,96,4,126,46,69,62,28,1,66,13,9,269,105,183,218,415,20,25,48,37,106,71,1,139,152,71,127,210,41,25,86,99,56,33,63,29,119,44,12,43,21,16,53,141,104,39,33,57,8,65,64,4,93,19,12,15,141,98,81,37,40,92,3,146,137,29,160,79,34,31,31,84,57,61,9,5,23,1,20,10,22,48,21,85,8,63,21,70,72,6,52,17,23,77,6,66,26,215,10,9,7,26,26,29,14,5,83,30,30,43,54,40,158,13,39,18,7,213,94,1,7,13,89,65,38,116,216,11,104,28,135,72,12,100,6,38,10,60,86,21,195,2,191,160,82,92,75,71,37,59,7,157,47,68,29,62,51,122,41,94,55,132,47,14,155,214,44,106,37,15,48,166,64,11,102,11,5,13,3,55,150,50,180,31,31,111,107,134,56,122
+Member States	7,20,1,290,326,145,152,20,1,8,273,14,7,333,210,7,303,841,204,110,311,254,150,136,659,45,536,216,96,1,1,3,1,144,597,46,3,6,11,124,321,87,54,38,87,253,96,4,126,46,69,62,28,1,66,13,9,269,105,183,218,415,20,25,48,37,106,71,1,139,152,71,127,210,41,25,86,99,56,33,63,29,119,44,12,43,21,16,53,141,104,39,33,57,8,65,64,4,93,19,12,15,141,98,81,37,40,92,3,146,137,29,160,79,34,31,31,84,57,61,9,5,23,1,20,10,22,48,21,85,8,63,21,70,72,6,52,17,23,77,6,66,26,215,10,9,7,26,26,29,14,5,83,30,30,43,54,40,158,13,39,18,7,213,94,1,7,13,89,65,38,116,216,11,104,28,135,72,12,100,6,38,10,60,86,21,195,2,191,160,82,92,75,71,37,59,7,157,47,68,29,62,51,122,41,94,55,132,47,14,155,214,44,106,37,15,48,166,64,11,102,11,5,13,3,55,150,50,180,31,31,111,107,134,56,122,137,115
 Member States Agriculture	6422
 Member States Approved	10819
 Member States Benin Cabo Verde Côte	16243
@@ -1522,6 +1526,7 @@ Member States and Regional Institutions	7
 Member States and SATA. The EU	10819
 Member States and Stakeholders	12918
 Member States and Switzerland	789
+Member States and WHO	20209
 Member States of Economic Community of Central African	16137
 Member States of Mauritius	13388
 Member States of South Sudan	13388
@@ -1993,7 +1998,7 @@ Policy Framework. States	17018
 Policy Information Technology Policy POLICY STATEMENT	18603
 Policy Significance Statement	2096,6187,153
 Policy Significance Statement Middle	7731
-Policy Statement	958,6590,3412,900,1047,57,331,1450,2116,13,12,38,27,187,724,592,165,266,646,102,168
+Policy Statement	958,6590,3412,900,1047,57,331,1450,2116,13,12,38,27,187,724,592,165,266,646,102,168,423
 Policy Statement All States	16874
 Policy Statement Comprehensive	16874
 Policy Statement Government	11860
@@ -2495,7 +2500,7 @@ StatEduc-2	17830
 StatEduc. Cette	19176
 StatEduc2	15639,2191,313,28,740
 StatEduc2. Pour	18170
-State	27,369,33,6,1,1,150,157,39,6,143,26,3,8,1,2,18,23,81,111,9,29,21,24,288,115,123,4,10,63,198,2,5,17,4,28,114,48,188,23,23,34,39,2,110,1,15,2,15,16,40,37,96,57,15,41,92,10,21,1,4,188,32,27,25,122,21,61,49,58,19,70,26,25,215,50,10,19,64,134,16,59,9,25,12,151,66,52,29,37,36,21,59,32,9,11,4,200,12,70,30,44,98,11,33,3,41,13,39,31,1,7,4,23,19,62,59,9,37,83,26,72,180,44,33,7,109,84,3,12,57,38,57,87,17,9,36,2,109,57,64,46,97,122,73,39,11,96,4,22,59,22,9,31,150,64,12,135,14,70,67,39,38,85,7,229,34,80,11,12,1,10,23,68,47,43,270,35,12,148,9,144,108,1,87,135,11,46,20,89,21,2,85,59,97,16,116,216,103,1,10,6,11,27,12,9,16,5,87,21,5,6,7,8,9,1,1,30,7,42,20,24,6,5,8,28,2,1,3,6,2,3,2,2,1,13,1,1,2,3,6,6,7,3,5,1,15,1,3,2,10,3,137,100,7,5,7,17,33,21,56,41,24,37,31,1,56,2,2,3,2,22,1,10,5,5,1,19,14,10,3,3,1,20,10,8,4,6,16,18,12,4,83,8,6,8,1,14,11,3,13,4,22,5,21,41,1,7,35,1,12,1,4,14,4,23,3,28,29,3,28,61,1,3,4,6,5,1,20,41,22,10,59,51,45,74,1,1,1,6,3,4,6,8,9,1,6,15,8,3,15,2,3,51,7,20,36,12,19,58,91,11,7,1,1,1,8,6,2,1,2,1,1,3,5,13,13,29,1,5,4,12,17,32,6,12,23,11,37,20,5,73,15,208,6,43,18,9,10,2,14,5,8,34,5,66,50,61,106,6,35,69,69,4,42,42,28,7,72,1,1,31,7,4,3,2,1,4,1,2,3,9,1,5,3,17,6,4,31,19,1,12,2,7,2,1,7,2,1,2,5,6,3,3,15,21,14,1,14,11,49,29,23,43,23,1,51,1,6,22,38,92,4,2,32,19,54,10,16,7,4,8,19,7,48,4,1,33,32,5,38,40,2,37,151,22,8,38,55,1,16,65,30,32,36,67,86,225,59,70,18,93,3,3,3,4,4,4,12,11,12,30,7,1,18,7,2,5,2,12,2,45,1,77,32,30,71,61,5,2,35,7,40,20,40,32,33,62,84,7,3,9,10,65,2,10,25,8,82,14,9,41,16,159,21,24,20,24,65,30,12,54,11,8,52,4,3,1,8,19,6,106,16,3,1,18,12,34,30,34,12,30,3,17,22,16,82,7,6,11,26,28,200,49,3,11,36,140,1,93,67,17,26,5,8,5,5,26,148,22,15,1,2,9,39,20,18,23,7,14
+State	27,369,33,6,1,1,150,157,39,6,143,26,3,8,1,2,18,23,81,111,9,29,21,24,288,115,123,4,10,63,198,2,5,17,4,28,114,48,188,23,23,34,39,2,110,1,15,2,15,16,40,37,96,57,15,41,92,10,21,1,4,188,32,27,25,122,21,61,49,58,19,70,26,25,215,50,10,19,64,134,16,59,9,25,12,151,66,52,29,37,36,21,59,32,9,11,4,200,12,70,30,44,98,11,33,3,41,13,39,31,1,7,4,23,19,62,59,9,37,83,26,72,180,44,33,7,109,84,3,12,57,38,57,87,17,9,36,2,109,57,64,46,97,122,73,39,11,96,4,22,59,22,9,31,150,64,12,135,14,70,67,39,38,85,7,229,34,80,11,12,1,10,23,68,47,43,270,35,12,148,9,144,108,1,87,135,11,46,20,89,21,2,85,59,97,16,116,216,103,1,10,6,11,27,12,9,16,5,87,21,5,6,7,8,9,1,1,30,7,42,20,24,6,5,8,28,2,1,3,6,2,3,2,2,1,13,1,1,2,3,6,6,7,3,5,1,15,1,3,2,10,3,137,100,7,5,7,17,33,21,56,41,24,37,31,1,56,2,2,3,2,22,1,10,5,5,1,19,14,10,3,3,1,20,10,8,4,6,16,18,12,4,83,8,6,8,1,14,11,3,13,4,22,5,21,41,1,7,35,1,12,1,4,14,4,23,3,28,29,3,28,61,1,3,4,6,5,1,20,41,22,10,59,51,45,74,1,1,1,6,3,4,6,8,9,1,6,15,8,3,15,2,3,51,7,20,36,12,19,58,91,11,7,1,1,1,8,6,2,1,2,1,1,3,5,13,13,29,1,5,4,12,17,32,6,12,23,11,37,20,5,73,15,208,6,43,18,9,10,2,14,5,8,34,5,66,50,61,106,6,35,69,69,4,42,42,28,7,72,1,1,31,7,4,3,2,1,4,1,2,3,9,1,5,3,17,6,4,31,19,1,12,2,7,2,1,7,2,1,2,5,6,3,3,15,21,14,1,14,11,49,29,23,43,23,1,51,1,6,22,38,92,4,2,32,19,54,10,16,7,4,8,19,7,48,4,1,33,32,5,38,40,2,37,151,22,8,38,55,1,16,65,30,32,36,67,86,225,59,70,18,93,3,3,3,4,4,4,12,11,12,30,7,1,18,7,2,5,2,12,2,45,1,77,32,30,71,61,5,2,35,7,40,20,40,32,33,62,84,7,3,9,10,65,2,10,25,8,82,14,9,41,16,159,21,24,20,24,65,30,12,54,11,8,52,4,3,1,8,19,6,106,16,3,1,18,12,34,30,34,12,30,3,17,22,16,82,7,6,11,26,28,200,49,3,11,36,140,1,93,67,17,26,5,8,5,5,26,148,22,15,1,2,9,39,20,18,23,7,14,140,42
 State AI Observatory	11135
 State Abbreviation International	11129
 State Accessibility	14958
@@ -2711,7 +2716,7 @@ State High Court	11956,1992
 State High Courts	13948
 State Hospital	12367
 State Hospital KOES	13046
-State House	1838,1033,159,223,922,578,347,117,944,36,2,8,20,21,14,326,283,129,481,165,1,4,208,36,322,166,226,371,67,315,38,60,236,550,880,789,145,194,1059,168,45,35,716,199,70,54,247,483,4,2245,892,105,440,82,68,9,359,38,12,1,17,30
+State House	1838,1033,159,223,922,578,347,117,944,36,2,8,20,21,14,326,283,129,481,165,1,4,208,36,322,166,226,371,67,315,38,60,236,550,880,789,145,194,1059,168,45,35,716,199,70,54,247,483,4,2245,892,105,440,82,68,9,359,38,12,1,17,30,446,53
 State House Auditorium	18269
 State House Cabinet	5318
 State House Construction	5658
@@ -2731,7 +2736,7 @@ State House and Good Governance	19542
 State House of Assembly	11976
 State House of Assembly. Executive Chairman	11976
 State House of Assembly. PART II	11976
-State House of The Gambia	17124,92,131
+State House of The Gambia	17124,92,131,2887
 State House of The Gambia URL	17216
 State House. National Digital Development Policy	18456
 State House. President Herminie	8992
@@ -2758,8 +2763,8 @@ State Information Technology Agency SITA	10102
 State Information and Digitalisation	14674
 State Inspector General	19847
 State Institution	11955
-State Institutions	10759,76,2,1,130,568,334,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
-State Institutions Absence of Corruption	10759,78,1315,188,7598
+State Institutions	10759,76,2,1,130,568,334,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
+State Institutions Absence of Corruption	10759,78,1315,188,7598,274
 State Institutions Rural Representation	10759
 State Insurance Company of Mauritius Ltd	14736
 State Intelligence Service	1000,7611
@@ -2778,7 +2783,7 @@ State Land Enhancing	15473
 State Land Fund. ARTICLE	12771
 State Land Management	15473
 State Land Uses MALR Ministry of Agriculture	15473
-State Lands Act	587,9140,5101,3,12,1996,129,1498
+State Lands Act	587,9140,5101,3,12,1996,129,1498,1760
 State Lands Act Nil	14713
 State Law Advisers	5872
 State Law Office and Department of Justice	14546
@@ -2830,7 +2835,8 @@ State Minister of Health and Human Services	13870
 State Minister of Information	8330
 State Minister of Internal Affairs Gen David	2820
 State Minister of Labor and Skills	14050
-State Minister of Trade and Regional Integration	12259
+State Minister of Trade and Regional Integration	12259,7817
+State Minister of Women and Social Affairs	20076
 State Ministers	15130,3494,107
 State Ministries	18619
 State Ministries of Education	11860
@@ -3141,14 +3147,14 @@ State-Owned Companies	14753
 State-Owned Companies’ Support Services	11272
 State-Owned Company	11250
 State-Owned Desert Lands	15473
-State-Owned Enterprise	1228,2145,5598,99,1081,1079,2151,487,1279,406,1389,1883
+State-Owned Enterprise	1228,2145,5598,99,1081,1079,2151,487,1279,406,1389,1883,1295
 State-Owned Enterprise Governance	13868
 State-Owned Enterprise Great Horn Investment Holding	13868
 State-Owned Enterprise Reform Task Team	11131,3
 State-Owned Enterprise Reforms	16944
 State-Owned Enterprise SOP Standard Operational Procedure	17105
 State-Owned Enterprise SSA Sub-Saharan Africa TB	11271
-State-Owned Enterprises	6071,1624,2374,82,475,505,3,90,1374,370,92,625,183,678,190,17,75,2,1,316,836,959,9,188,89,32,633,607,77,1025,221,114
+State-Owned Enterprises	6071,1624,2374,82,475,505,3,90,1374,370,92,625,183,678,190,17,75,2,1,316,836,959,9,188,89,32,633,607,77,1025,221,114,183
 State-Owned Enterprises Commission	4519,24,12583,20
 State-Owned Enterprises Commission Updates President Barrow	17124
 State-Owned Enterprises Reform	13685
@@ -3222,10 +3228,12 @@ State-wide the ORP	2081,2931
 State. ARTICLE	12771
 State. Action	12912
 State. Acts	783
+State. Among	20177
 State. Article	11517,5330
 State. Between	16958
 State. CHAPTER IV	12771
 State. Complaints	19173
+State. Djibouti	20135
 State. Fernandes	6822
 State. For the State	16737
 State. Government	14748
@@ -3272,6 +3280,7 @@ Statecraft	2096
 Stated	961,742,262,942,53,450,580,2896,4,1776,87,370,1791,1237
 Stateless	4439,9330,3554,1
 Stateless Determination and Protection Bill	12984
+Stateless Individuals	20221
 Stateless People	16874
 Stateless Persons	2106,9799,240,1929,391,286,1943,733,698,787
 Stateless Status Determination	18125
@@ -3500,7 +3509,7 @@ Support AU Member States	1814
 Support Member States	1814
 Support Real State Industry	19852
 Support for State Governments and Subnational Entities	10157
-Supporting Member States	1072,14546
+Supporting Member States	1072,14546,4566
 Supporting Statements and Returns Findings	13420
 Supporting the Member State	12729
 Supreme State Security Prosecution	19854
@@ -3653,7 +3662,7 @@ United Nations. State Minister Bereket Feshatsion	14121
 United State	14030
 United State Agency for International Development and United	17289
 United State of America N	12151
-United States	10,561,196,194,4,73,185,11,9,120,191,168,92,183,99,21,40,1,121,6,233,159,1,91,6,94,55,151,157,173,36,21,20,72,29,43,25,135,188,75,78,5,21,1,11,2,35,13,2,30,11,2,1,40,1,43,4,3,74,21,1,66,24,45,86,5,82,31,174,11,57,13,2,104,15,2,48,3,26,15,30,15,50,14,5,66,19,27,67,66,84,16,57,90,138,196,1,1,28,37,2,60,60,24,61,6,43,1,13,8,40,51,39,7,11,9,77,14,12,4,2,41,30,18,32,17,1,50,154,23,3,32,33,2,12,88,102,5,97,29,35,26,57,25,30,30,9,78,72,103,7,1,45,31,5,84,133,112,19,33,21,81,30,26,10,30,78,1,63,10,42,17,55,39,10,42,29,25,8,59,33,8,34,21,106,203,29,84,3,106,253,20,67,22,11,13,22,47,80,80,13,1,1,154,3,99,12,1,79,12,14,22,5,2,92,65,31,14,4,41,36,4,5,9,5,15,108,33,32,221,9,37,76,7,171,5,12,29,13,68,10,25,53,6,67,57,2,46,9,36,24,192,23,342,55,25,37,41,68,164,7,32,55,104,25,37,74,2,1,76,323,106,20,1,24,113,35,33,3,45,21,157,35,30,35,7,2,11,20,17,154,13,6,1,35,65,95,107,11,201,13,47,47,141,211,135,28,13,140,600,1,12,15,60,122,103,2,3,1,5,4,24,97,181,1,140,12,16,188,7,90,13,85,136,5,16,77,7,32,37,223,47,74,41,5,43,86,45,37,34,1,300,266,49,73,20,32,75,125,35,32,63,25,15
+United States	10,561,196,194,4,73,185,11,9,120,191,168,92,183,99,21,40,1,121,6,233,159,1,91,6,94,55,151,157,173,36,21,20,72,29,43,25,135,188,75,78,5,21,1,11,2,35,13,2,30,11,2,1,40,1,43,4,3,74,21,1,66,24,45,86,5,82,31,174,11,57,13,2,104,15,2,48,3,26,15,30,15,50,14,5,66,19,27,67,66,84,16,57,90,138,196,1,1,28,37,2,60,60,24,61,6,43,1,13,8,40,51,39,7,11,9,77,14,12,4,2,41,30,18,32,17,1,50,154,23,3,32,33,2,12,88,102,5,97,29,35,26,57,25,30,30,9,78,72,103,7,1,45,31,5,84,133,112,19,33,21,81,30,26,10,30,78,1,63,10,42,17,55,39,10,42,29,25,8,59,33,8,34,21,106,203,29,84,3,106,253,20,67,22,11,13,22,47,80,80,13,1,1,154,3,99,12,1,79,12,14,22,5,2,92,65,31,14,4,41,36,4,5,9,5,15,108,33,32,221,9,37,76,7,171,5,12,29,13,68,10,25,53,6,67,57,2,46,9,36,24,192,23,342,55,25,37,41,68,164,7,32,55,104,25,37,74,2,1,76,323,106,20,1,24,113,35,33,3,45,21,157,35,30,35,7,2,11,20,17,154,13,6,1,35,65,95,107,11,201,13,47,47,141,211,135,28,13,140,600,1,12,15,60,122,103,2,3,1,5,4,24,97,181,1,140,12,16,188,7,90,13,85,136,5,16,77,7,32,37,223,47,74,41,5,43,86,45,37,34,1,300,266,49,73,20,32,75,125,35,32,63,25,15,145,14,8,6
 United States AMS HI	17743
 United States African Network	13331
 United States Agency for International Development	396,370,453,42,563,8944,9,229,125,875,162,11,746,37,370,34,88,613,75,165,36,91,188,437,599,1175,43,59,8,6,11,10,1,1339,314,831,87,293,139

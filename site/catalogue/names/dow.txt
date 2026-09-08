@@ -88,7 +88,7 @@ Downie and Oduori	15129
 Downlink	5502,7447
 Downlink Bands	17250
 Downlink Centre Frequency	12949
-Download	439,134,13,189,235,202,1095,143,380,683,915,814,558,112,26,217,95,127,46,469,93,237,1609,236,362,48,262,1045,30,146,46,1,10,123,128,131,157,269,14,18,4,180,168,37,151,411,201,14,28,597,197,565,12,13,14,62,17,213,388,35,72,122,1,33,4,8,29,7,37,26,1,22,6,41,116,5,328,5,193,246,620,78,81,184,314,735,28,54,73,54,104,231,2,89,8,502,73,55,168
+Download	439,134,13,189,235,202,1095,143,380,683,915,814,558,112,26,217,95,127,46,469,93,237,1609,236,362,48,262,1045,30,146,46,1,10,123,128,131,157,269,14,18,4,180,168,37,151,411,201,14,28,597,197,565,12,13,14,62,17,213,388,35,72,122,1,33,4,8,29,7,37,26,1,22,6,41,116,5,328,5,193,246,620,78,81,184,314,735,28,54,73,54,104,231,2,89,8,502,73,55,168,305
 Download Agreement	1234,17681
 Download Annual Report PDF	14058
 Download App	12336
@@ -139,6 +139,7 @@ Download the ECZ App	12465
 Download the ESG Economic Validation Learn Google	4434
 Download the ESG Showcase Learn	4434
 Download the ESG Whitepaper Learn	4434
+Download the Guideline	20175
 Download the ITU GSI Report	10848
 Download the MOT-OVRS Mobile App	17142
 Download the Mobile App	11877
@@ -157,7 +158,7 @@ Downloaded	236,7965,3624
 Downloaded Domestic Off Net Minutes	9781
 Downloading	34,15095,4573
 Downloading of Full and Simplified Versions of Legislation	16949
-Downloads	2816,3729,2477,40,1816,255,1094,118,449,875,1190,165,568,252,1070,131,321,611,1123,513,52,292
+Downloads	2816,3729,2477,40,1816,255,1094,118,449,875,1190,165,568,252,1070,131,321,611,1123,513,52,292,256
 Downloads Access Interconnection of ICT Sector Ntwks	16594
 Downloads Article Details References Addis Standard	8671
 Downloads Download	12467

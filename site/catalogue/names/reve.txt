@@ -356,13 +356,15 @@ GROUP REVENUE BY SEGMENT Table	10793
 GROUP SERVICE REVENUE BY COUNTRY Table	10793
 GSMA Open Gateway APIs Revenues	6593
 Gairo DC TAUSI Revenue	19585
-Gambia Revenue Authority	3236,4276,180,1,1,129,536,8272,256,14,14,29,119,1,41,83,28,34,18
+Gambia Revenue Authority	3236,4276,180,1,1,129,536,8272,256,14,14,29,119,1,41,83,28,34,18,2956,1,12
 Gambia Revenue Authority Act	16968
 Gambia Revenue Authority Collecting Revenue for National	17063,1,137
 Gambia Revenue Authority Commissioner General Yankuba	7692
 Gambia Revenue Authority Gambia Revenue Authority	17201
 Gambia Revenue Authority IMF	16968
 Gambia Revenue Authority IRD Internal Revenue	16631
+Gambia Revenue Authority System	20221
+Gambia Tax Revenue Authority	20224
 Gateway Traffic Measurement and Revenue Assurance System	17250
 General Government Revenue Composition	10997
 General Revenue Account	17260,54
@@ -522,7 +524,7 @@ Lesotho Revenue Service	14185
 Lesotho Revenue Services	14185
 Liberia National Police and Liberia Revenue	17294
 Liberia Revenue Agency	1777
-Liberia Revenue Authority	4282,3,555,158,246,750,172,3172,1212,31,1129,2644,1790,532,172,5,4,25,65,2,21,13,10,6,12,26,77,24,4,48,45,22,1,36,20,20,33,27
+Liberia Revenue Authority	4282,3,555,158,246,750,172,3172,1212,31,1129,2644,1790,532,172,5,4,25,65,2,21,13,10,6,12,26,77,24,4,48,45,22,1,36,20,20,33,27,2755
 Liberia Revenue Authority IMPORTANT REVENUE NOTICE	17258
 Liberia Revenue Authority LRC Liberia Revenue	17011
 Liberia Revenue Authority LTA	16872
@@ -799,6 +801,7 @@ Public Sector Savings and Revenue	1284,12047,2187
 Quantifying the Revenue Yields	10997,1951
 Quantity and Revenue Foregone	14985
 RA-GAP Revenue Administration-Gap Analysis Program VAT	12948
+RCM Revenue Compensation Mechanism	20223
 RDC République Démocratique du Congo RNB Revenu	15493
 RECEIVER OF REVENUE	14546
 RECEIVER OF REVENUE FINANCIAL STATEMENTS	14546
@@ -908,7 +911,7 @@ Revenu des Personnes Physiques	6954,9045
 Revenu des Personnes Physiques IS Impôt	10712
 Revenu des Personnes Physiques Impôts	16328
 Revenu des Valeurs Mobilières	2342
-Revenue	236,337,201,150,89,350,271,194,116,52,761,294,110,13,236,77,50,46,279,36,504,161,265,68,228,223,186,122,214,131,20,119,746,155,387,221,223,26,10,5,124,88,1,283,22,240,115,58,270,526,96,24,48,132,38,241,117,146,258,23,1,2,10,18,63,14,90,37,4,130,3,2,4,58,13,20,4,27,9,198,486,21,10,76,114,32,25,89,73,105,422,29,5,20,66,2,9,69,192,101,3,11,32,163,30,214,261,56,339,183,29,25,58,77,33,56,12,7,62,82,21,113,337,40,43,23,27,6,32,134,600,195,114,135,2,3,5,33,94,34,70,26,15,7,17,229,204,41,121,24,97,196,31,227,22,22,12,108,215,28,56,22,517,86,52,1,17,2,29,44,35,111,3
+Revenue	236,337,201,150,89,350,271,194,116,52,761,294,110,13,236,77,50,46,279,36,504,161,265,68,228,223,186,122,214,131,20,119,746,155,387,221,223,26,10,5,124,88,1,283,22,240,115,58,270,526,96,24,48,132,38,241,117,146,258,23,1,2,10,18,63,14,90,37,4,130,3,2,4,58,13,20,4,27,9,198,486,21,10,76,114,32,25,89,73,105,422,29,5,20,66,2,9,69,192,101,3,11,32,163,30,214,261,56,339,183,29,25,58,77,33,56,12,7,62,82,21,113,337,40,43,23,27,6,32,134,600,195,114,135,2,3,5,33,94,34,70,26,15,7,17,229,204,41,121,24,97,196,31,227,22,22,12,108,215,28,56,22,517,86,52,1,17,2,29,44,35,111,3,375
 Revenue Accounting	12491
 Revenue Accounts	17030
 Revenue Administration	1155,673,9312,1360,448,676,3344,1520,12,77,352,93
@@ -934,7 +937,7 @@ Revenue Assurance System	2527,12593,2096,34,18
 Revenue Assurance System Fees Schedule	17250
 Revenue Assurance System Regulations	17250
 Revenue Assurance Unit	9162
-Revenue Authority	3583,543,6221,1363,266,1066,2882,330,377,637,99,1241,1423
+Revenue Authority	3583,543,6221,1363,266,1066,2882,330,377,637,99,1241,1423,193
 Revenue Authority Act	6921,6685
 Revenue Authority Act No	12392,857
 Revenue Authority Commissioner General KINGDOM	16631
@@ -1011,10 +1014,10 @@ Revenue Management Budget	11939
 Revenue Management System	14830
 Revenue Measures	13122,3983
 Revenue Measures and Yields	18823
-Revenue Mobilisation	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,5988,1176,1,169,14,22,1,65,14,1,48
+Revenue Mobilisation	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,5988,1176,1,169,14,22,1,65,14,1,48,225
 Revenue Mobilisation Absence of Crime	10835,3,130,902,16,466,1,135,7334
 Revenue Mobilisation Allocation and Fiscal Commission	11976
-Revenue Mobilisation Budgetary	10759,78,1315,188,7598
+Revenue Mobilisation Budgetary	10759,78,1315,188,7598,274
 Revenue Mobilisation Strategy	13685,4815
 Revenue Mobilisation. The Appropriation Act	18500
 Revenue Mobilization	10852,145,1388,563,3996
@@ -1051,7 +1054,7 @@ Revenue Ratio Improve	16968
 Revenue Recognition	15169
 Revenue Reconciliation	18577
 Revenue Reforms	15148
-Revenue Requirement	19677
+Revenue Requirement	19677,488
 Revenue Revenue	1154
 Revenue Revenue Sharing	19532
 Revenue Roadmap	14929
@@ -1198,7 +1201,7 @@ South Africa Revenue Service Tax Statistics	14674
 South Africa Revenue System	16631
 South Africa Revenue System SIDS Small	16631
 South African Chief Revenue Officer	14700
-South African Revenue Service	2681,11,2455,386,58,93,192,1726,2,306,449,311,422,1,652,150,163,268,483,372,44,15,6,12,18,3,10,396,301,43,71,1008,1130,92,3209,83,70
+South African Revenue Service	2681,11,2455,386,58,93,192,1726,2,306,449,311,422,1,652,150,163,268,483,372,44,15,6,12,18,3,10,396,301,43,71,1008,1130,92,3209,83,70,2463
 South African Revenue Service Act	8840,2341
 South African Revenue Service SARS	10809
 South African Revenue Service SCRA Standing	11986
@@ -1309,8 +1312,9 @@ UNU-WIDER Government Revenue Dataset’. Version	16949
 US Internal Revenue Service	11685
 USD Sector Revenues	14897
 USE OF DIGITAL REVENUE RECEIPTS Publication	15065
-Uganda Revenue Authority	184,2560,563,393,238,17,393,3,257,145,641,738,303,141,213,640,317,977,423,1056,79,107,176,35,1496,224,2043,18,104,3073,62,2014,8,87,5,33,1,18,11,17
+Uganda Revenue Authority	184,2560,563,393,238,17,393,3,257,145,641,738,303,141,213,640,317,977,423,1056,79,107,176,35,1496,224,2043,18,104,3073,62,2014,8,87,5,33,1,18,11,17,265,122
 Uganda Revenue Authority URL	19796
+Uganda Revenue Authority. Associated Motor Dealers	20140
 Uganda Revenue Authority. The SSRA Commissioner	10599,6958
 Unanswered Revenue Questions	8393
 Unbanked Revenue Collection TZS	19585

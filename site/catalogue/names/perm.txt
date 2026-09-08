@@ -118,6 +118,7 @@ Contract FUP Forest Use Permit GBL	16843
 Contrôle des Marchés Publics SECRÉTARIATS PERMANENTS	15449
 Coordination Mechanisms for Excavation Permits	12389
 Copperbelt Permanent Secretary Lawrence Mwanza	5984
+Cross-sectoral NA Permitted	20214
 Crude Accreditation Permit	3583
 DE L’EXAMEN DU PERMIS DE CONDUIRE	15901
 DE PERMANENCE DANS LA FOURNITURE DES	19218
@@ -274,6 +275,7 @@ MINISTRY of Information and Media Permanent Secretary Thabo	13680
 Mali Le Secrétaire Permanent	17974
 Maseru City Construction Permit	2674
 Membre Permanent	19373
+Mines and Mining Development Permanent Secretary	20054
 Mini-grid Permits	12062,6124,31
 Minister and Permanent Secretary	13310
 Ministers and Permanent Secretaries	16858
@@ -285,6 +287,7 @@ Ministry of Labour and Social Security Permanent Secretary	12416
 Ministry of Mines' Export Permit Management System	13688
 Ministry of Science and Technology Permanent Secretary	8294
 Ministry of Technology and Science Permanent Secretary	12126
+Ministry of Technology and Science Permanent Secretary Dr	20211
 Ministry of Technology and Science Permanent Secretary Eng	14255
 MoH Permanent Secretary Dr. Diana Atwine	19771
 Modification de Virement Permanent L’INTERIEUR	17833
@@ -368,15 +371,17 @@ Passports and Work Permits Issued	2775
 People The Permanent Secretary	14745
 PerMiS	15999
 Percentage of Permanent Post Offices	12395
+Perm. Permanent	20217
 Perma	3452
 Permalink	11399
 Permanece	12119
 Permanence	16552,454
-Permanent	573,1542,1468,21,3802,1717,900,1157,1,115,579,111,351,633,472,1687,173,299,1266,11,7,158,71,1353,1074
+Permanent	573,1542,1468,21,3802,1717,900,1157,1,115,579,111,351,633,472,1687,173,299,1266,11,7,158,71,1353,1074,676
 Permanent Address	13068,5384
 Permanent Artificial Limb	12979
 Permanent Cash Transfers	1954,17501
 Permanent Classroom Ratios PqTR	12175
+Permanent Classrooms	20217
 Permanent Committee	18220
 Permanent Constitution	3583
 Permanent Contract Executive Female Male	12969
@@ -416,7 +421,7 @@ Permanent Residence Permit	14828,3
 Permanent Resident Permit	12337,610
 Permanent Resident Permits	12947
 Permanent Residents	2115,15422
-Permanent Secretariat	6361,5539,2779,1705,1741
+Permanent Secretariat	6361,5539,2779,1705,1741,1982
 Permanent Secretariat for Innovation and Forecasting	7361
 Permanent Secretariat of CNR	11900
 Permanent Secretaries	1014,974,5985,1008,688,1921,863,642,237,13,1064,364,357,1722,99,137,700,1731,66
@@ -425,7 +430,7 @@ Permanent Secretaries and Accounting Officers. The Committee	16885
 Permanent Secretaries and Equivalent Grades	2779
 Permanent Secretaries and Heads of Agencies	13005
 Permanent Secretaries. CHAPTER FIVE	13399
-Permanent Secretary	34,284,1236,313,42,758,90,875,242,654,6,143,1010,231,281,8,20,12,25,269,2,411,236,79,171,413,29,89,10,59,89,163,36,23,206,39,373,19,6,167,233,6,1,31,20,225,207,187,93,39,1,19,209,53,120,4,2,1008,59,190,108,81,46,34,16,75,105,34,153,114,301,383,4,4,2,11,1,24,10,16,14,7,52,18,70,35,16,13,29,28,502,60,29,40,63,188,168,1,7,2,14,4,3,1,10,3,3,9,26,38,87,13,84,278,23,713,131,73,394,165,40,3,13,44,19,7,4,31,99,43,16,126,6,132,192,50,547,8,39,38,187,5,21,8,43,6,388,608,6,7,12,15,7,6,13,22,5,34,61,8,2,2,13,9,7,8,9,6,8,4,8,3,4,5
+Permanent Secretary	34,284,1236,313,42,758,90,875,242,654,6,143,1010,231,281,8,20,12,25,269,2,411,236,79,171,413,29,89,10,59,89,163,36,23,206,39,373,19,6,167,233,6,1,31,20,225,207,187,93,39,1,19,209,53,120,4,2,1008,59,190,108,81,46,34,16,75,105,34,153,114,301,383,4,4,2,11,1,24,10,16,14,7,52,18,70,35,16,13,29,28,502,60,29,40,63,188,168,1,7,2,14,4,3,1,10,3,3,9,26,38,87,13,84,278,23,713,131,73,394,165,40,3,13,44,19,7,4,31,99,43,16,126,6,132,192,50,547,8,39,38,187,5,21,8,43,6,388,608,6,7,12,15,7,6,13,22,5,34,61,8,2,2,13,9,7,8,9,6,8,4,8,3,4,5,248,55,9,5,36,20,33,2
 Permanent Secretary Ally Senga Gugu	5697
 Permanent Secretary Attention	12927
 Permanent Secretary Dr Amina Zawedde	5658
@@ -475,6 +480,7 @@ Permanent Secretary-Education Services	13378
 Permanent Secretary-Internal Affairs	18449
 Permanent Secretary-Treasury	19584
 Permanent Secretary. Guidelines	34
+Permanent Secretary. Mandate	20221
 Permanent Secretary. Once	13662
 Permanent Staff	19541
 Permanent State of Exception	19854
@@ -591,7 +597,7 @@ Représentant Permanent Adjoint	16323
 Représentant Permanent du Gabon	15371
 Représentants Permanents	16323
 Republic of Kenya and Permanent Representative	14039
-Residence Permit	2119,8646,10,1097,67,225,3681,2695
+Residence Permit	2119,8646,10,1097,67,225,3681,2695,1635
 Residence Permit Card	18702
 Residence Permit Card System	14830
 Residence Permit Category Roles ECOWAS	18541
@@ -732,7 +738,7 @@ Work Permit	2119,10045,1860,4516
 Work Permit Fees	16968
 Work Permit Republic of Sierra Leone Apply	18540
 Work Permit System	12612
-Work Permits	14742
+Work Permits	14742,5479
 Work Permits and Business Licenses	12227
 Zambia's Permanent Representative	13365
 Zambia's Permanent Secretary	13612

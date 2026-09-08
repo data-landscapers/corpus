@@ -11,6 +11,7 @@ ACRONYMS AND ABBREVIATIONS API Application Programming	17149
 ACRONYMS APP Computer Applications EGD Electronic	13345
 ACT APPLIES	19602
 ADDITIONAL DETAILS AS PER APPLICATION PLEASE	14754
+AFRINIC. Applying	20136
 AI Application for Healthcare The Government of Rwanda	4167
 AI Applying AI	14566
 AI Artificial Intelligence API Application Programming	19940
@@ -51,6 +52,7 @@ APPLICANT	12364,10
 APPLICANT'S CASE The Applicant	13493
 APPLICANTS VERSUS	3005
 APPLICANT’S CONTACTS Physical Address	14880,1998
+APPLICATION	20165
 APPLICATION AND ADMINISTRATION OF ACT	11177
 APPLICATION AND IMPLEMENTATION DIRECTIVE	11956
 APPLICATION AND OBJECTS OF ACT	11182
@@ -179,6 +181,7 @@ Apple-controlled	14393
 Apple-owned	14393
 Apple. Last	10090
 Apple. L’iPhone	17882
+Apple. Mais	20075
 Apple. Melchior Koba Lire	10803
 Appleby	3
 Applegate	8606
@@ -237,6 +240,7 @@ Applicable. Infosystems AA Ltd	14783
 Applicable. Other Relevant Procurement Information	17180
 Applicable. Secure Services Mauritius	14783
 Applicant	22,740,461,415,239,42,1732,63,1819,890,2159,2653,469,93,189,7,158,65,1,85,71,37,73,13,275,269,145,308,967,346,74,3,197,97,1012,1965,57,677,761,37,249,1
+Applicant Category	20096
 Applicant Code	12367
 Applicant Functions	6423
 Applicant Information	12302
@@ -253,14 +257,14 @@ Applicant's Identity	12496
 Applicant's Institutional ID	19935
 Applicant- Cabinet Secretary	14460
 Applicant. RESOLUTION OF THE ARGUMENT	18154
-Applicants	736,26,876,282,429,656,959,63,64,863,218,112,182,67,331,375,184,12,505,159,269,542,167,505,116,1576,418,51,386,575,125,157,179,137,11,25,29,175,61,411,1031,215,213,1,50,178,203,758,526,584,78,51,535,242,788,1211,188,23,32,15
+Applicants	736,26,876,282,429,656,959,63,64,863,218,112,182,67,331,375,184,12,505,159,269,542,167,505,116,1576,418,51,386,575,125,157,179,137,11,25,29,175,61,411,1031,215,213,1,50,178,203,758,526,584,78,51,535,242,788,1211,188,23,32,15,224,66,5
 Applicants Replacements The Nzika	13095
 Applicants. An Applicant	8582
 Applicants. E. Procedures for Evaluation of Applications	1638
 Applicant’s Signature	14754
 Applicati	15580
 Applicatifs Promotion des TICs	10812
-Application	3,8,11,120,253,192,56,93,1,9,1,15,137,73,26,11,211,3,20,90,141,164,112,127,61,6,44,131,590,18,89,345,220,333,455,1076,288,132,14,54,187,512,352,764,59,238,143,34,108,993,561,55,668,311,3,98,37,109,10,154,48,4,9,45,34,76,172,63,286,75,11,4,20,10,9,46,6,91,7,66,3,2,25,92,4,1,4,22,1,2,7,28,3,5,37,84,1,3,13,1,31,23,26,1,18,2,1,2,8,110,120,15,3,7,3,10,6,3,10,1,10,8,69,4,31,14,121,81,12,9,3,8,2,50,27,5,30,9,26,25,5,20,41,7,701,142,13,2,1,16,19,23,10,44,10,19,81,66,1,1,2,3,7,6,7,1,2,2,9,52,8,36,30,25,21,67,26,8,54,45,35,1,15,6,15,7,135,32,50,51,1,4,15,87,3,56,2,2,7,48,14,8,79,108,29,253,64,75,171,24,105,86,118,3,1,3,4,5,3,9,25,15,2,76,254,11,6,1,10,29,45,127,9,64,246,32,171,56,83,193,7,106,9,9,13,4,3,44,21,10,15,44,28,47,148,60,3,2,32,5,9,51,3,48,31,19,87,48,20,9,112,146,1,1,2,3,1,7,1,1,1,1,1,2,3,13,12,6,11,9,18,26,2,1,3,4,11,96,69,21,54,59,3
+Application	3,8,11,120,253,192,56,93,1,9,1,15,137,73,26,11,211,3,20,90,141,164,112,127,61,6,44,131,590,18,89,345,220,333,455,1076,288,132,14,54,187,512,352,764,59,238,143,34,108,993,561,55,668,311,3,98,37,109,10,154,48,4,9,45,34,76,172,63,286,75,11,4,20,10,9,46,6,91,7,66,3,2,25,92,4,1,4,22,1,2,7,28,3,5,37,84,1,3,13,1,31,23,26,1,18,2,1,2,8,110,120,15,3,7,3,10,6,3,10,1,10,8,69,4,31,14,121,81,12,9,3,8,2,50,27,5,30,9,26,25,5,20,41,7,701,142,13,2,1,16,19,23,10,44,10,19,81,66,1,1,2,3,7,6,7,1,2,2,9,52,8,36,30,25,21,67,26,8,54,45,35,1,15,6,15,7,135,32,50,51,1,4,15,87,3,56,2,2,7,48,14,8,79,108,29,253,64,75,171,24,105,86,118,3,1,3,4,5,3,9,25,15,2,76,254,11,6,1,10,29,45,127,9,64,246,32,171,56,83,193,7,106,9,9,13,4,3,44,21,10,15,44,28,47,148,60,3,2,32,5,9,51,3,48,31,19,87,48,20,9,112,146,1,1,2,3,1,7,1,1,1,1,1,2,3,13,12,6,11,9,18,26,2,1,3,4,11,96,69,21,54,59,3,100,114,48
 Application APIs	19639
 Application Acquisition	19575
 Application Acquisition Standards	19575
@@ -432,6 +436,7 @@ Application du BAREME	16628
 Application du Plan de Trésorerie Article	4420
 Application for Carrying Out Controlled Activities	14113
 Application for Certificate	12342
+Application for Certificate of Naturalisation	20051
 Application for Certified Copies	18541
 Application for Child's Current Birth Certificate	6783
 Application for Correction	12226
@@ -630,7 +635,7 @@ Applique	13375
 Applique MGP Mécanisme	16104
 Appliquer	8891,1985,2414,39,46,1104,993,70,2303,27,1116
 Appliquer la Jointure	13375
-Appliqué	17829
+Appliqué	17829,2264
 Appliquée	14635,1026,158,2474
 Appliquée de Yaoundé MICS	17842
 Appliquées	18953
@@ -681,6 +686,7 @@ Applying Institution	12364
 Applying Intensity-Duration-Frequency	17157
 Applying Multi-Layered GESI Actions	13998
 Applying Stanbic Bank Uganda Ltd	19814
+Applying for Fayda Digital ID	20096
 Applying for Vendor EcoCertifications	12389
 Applying the Automated	16839
 Applying the Blue Economy Approach	17458
@@ -921,6 +927,7 @@ Distribution of Applications	1154
 District Registration Office. Applicant	12216
 Diverse Applications	7334
 Divert EMS and Dispatch Repository Applica	8603
+Divorce Certificate. Applicant	20213
 Django Web Application	12547,7107
 Document ID Classification Owner Custodian Applicability	16212
 Documents Comprising the Application	1638
@@ -960,6 +967,7 @@ Economic Application	4528,7984
 Economie Appliquée	15765,171,1906,1363,161
 Economie Appliquée. ISSEA	17842
 Electrical Appliance Registration Certificates The Energy	12256
+Electricity Tariff Application	20165
 Electronic Application	12389
 Electronic Commerce Research and Applications	8460
 Electronic Government Application of Act	13322
@@ -1083,6 +1091,7 @@ Géomatique Appliquée	19366
 HELB Bursary Applicants	2775
 HELB Loan Applicants	2775
 Haaga-Helia University of Applied Sciences. Manda	2093
+Health Applet	20221
 Health Facility Applicant	12216
 Health Services and Applications	21
 Hours Applications	12603
@@ -1244,8 +1253,9 @@ Manager for Application Systems	10812
 Margins ID Systems Application Ltd	4696,1
 Margins ID Systems Applications	4677,31,2305
 Margins ID Systems Applications Limited	4677,114,12588
-Margins ID Systems Applications Ltd	4696,1,11
+Margins ID Systems Applications Ltd	4696,1,11,15530
 Margins ID Systems Applications Ltd Jan	4696
+Margins ID Systems Applications Ltd. President	20238
 Mastercard Foundation Scholars Call for Applications	17735
 May-2021 Restructuring Sequence.01 Not Applicable	18825
 Mbaye D. Thiam Application Security Architect	18376
@@ -1493,6 +1503,7 @@ Remote Work Applications Bahrain Dr. Fatma	2958
 Replacing National ID Applications	19927
 Repository Applica	8603
 Request for Applications	7368,33,1143,38
+Requests for Applications	20182
 Required Documents Applicants	12085
 Required Experience and Qualifications Applicants	15183
 Required Qualifications and Experience Applicants	9203

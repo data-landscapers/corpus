@@ -45,7 +45,7 @@ Departamentos Ministeriales INEGE	16898
 Digital Divide Making Inequality Worse	12336
 Digital Inequality	6832,7891
 Digital Technologies and Educational Inequality	10831
-Director General de INEGE	17073,276
+Director General de INEGE	17073,276,2717
 Disaggregation for Redressing Inequalities	15244
 Documento INEGE Censo	16898
 E.g. Score Score Inefficient	15845
@@ -77,7 +77,7 @@ GDPand Inequality	1828
 Gender Gap Index. Inequality	18301
 Gender Inequalities Index	16951
 Gender Inequality	13332
-Gender Inequality Index	10829,757,1728,1722,479,143,3,64,659,565,17,996,496,351,430,45
+Gender Inequality Index	10829,757,1728,1722,479,143,3,64,659,565,17,996,496,351,430,45,939
 Gender Inequality Index GMD	16951
 Gender Inequality Index Government of Congo Green	15553
 Gender Inequality Index UN Human Development	11004,960
@@ -147,7 +147,9 @@ INE. Legenda	18801
 INE. Luanda	4044,6713,664
 INE. O REMPE	10757
 INE. Ultimately	17007
+INEC Chairman	20126
 INEC Result Viewing Portal	8987
+INEC Seek Collaboration	20126
 INEC Tanzania Responds	19553
 INECV	5578,3197
 INEDS	18191
@@ -155,7 +157,7 @@ INEDS.4.2	18191
 INEFJA	18384
 INEFOP	10778,11,1
 INEFOP Francisco Miúdo-Angop Ndalatando	10778
-INEGE	3038,1171,3839,2439,3757,2006,625,23,44,20,7,27,30,47,28,101,57,149,14
+INEGE	3038,1171,3839,2439,3757,2006,625,23,44,20,7,27,30,47,28,101,57,149,14,2644
 INEGE AFRIST	16898
 INEGE AFRISTAT	16898
 INEGE BM	16898
@@ -290,7 +292,7 @@ Ineffectiveness	11986
 Inefficacité	13290,2290,356,392
 Inefficiencies	7751,3398,1033,3160,618
 Inefficiency	19654,1
-Inefficient	1284,704,8988,898,7,295,26,144,659,48,27,1855,12,50,521,35,292,1522,1264,1015
+Inefficient	1284,704,8988,898,7,295,26,144,659,48,27,1855,12,50,521,35,292,1522,1264,1015,590
 Inefficient Business Process Reengineering	13987
 Inefficient Water Use	17157
 Ineida Batista	15593
@@ -420,8 +422,8 @@ STP. INE	18777
 SUBSCRIBERS INENTIFICATION AND REGISTRATIONS	18452
 SYSTEMS GUINEE INEO	16623
 Serviço INE Instituto Nacional de Estatística GUE	18775
-Socioeconomic Inequality Mitigation	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
-Socioeconomic Inequality Mitigation Decent Housing Food	10837,1315,188,7598
+Socioeconomic Inequality Mitigation	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
+Socioeconomic Inequality Mitigation Decent Housing Food	10837,1315,188,7598,274
 Software ArcGIS Pro Advanced. INEGE	16898
 Southern Center for Inequality Studies	8515
 State of Educational Inequality	10831
@@ -441,7 +443,7 @@ V Censo INEGE Falta	16898
 VII. Inequity	6832
 WB ESHGs and Good Inequality	1988
 WID.World World Inequality Database	11887,266,1,9,178,7517,1
-WID.World World Inequality Database WJP World	10759,78,1052,451
+WID.World World Inequality Database WJP World	10759,78,1052,451,7872
 World Bank Poverty and Inequality Platform. Population	18198
 World Bank. Poverty and Inequality Platform	11417
 World Inequality Database	19653,4,179

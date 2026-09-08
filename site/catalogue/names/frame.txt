@@ -59,7 +59,7 @@ ASYCUDA New Generation Enhanced Framework	13042
 ATU-S Framework	2954
 AU Continental Data Policy Framework	1779,6142
 AU Continental Data Policy Framework. DPC	1779
-AU Data Policy Framework	961,200,82,21,103,447,868,376,104,196,237,266,262,301,159,7,99,613,61,100,623,385,49,338,95,183,393,18,1572,1601,1335,116,892,394,23,1006,178,155,1112,3204
+AU Data Policy Framework	961,200,82,21,103,447,868,376,104,196,237,266,262,301,159,7,99,613,61,100,623,385,49,338,95,183,393,18,1572,1601,1335,116,892,394,23,1006,178,155,1112,3204,1083
 AU Data Policy Framework AU Convention	12055,1402
 AU Data Policy Framework Simplified Version	3162
 AU Data Policy Framework and Africa Digital	1243
@@ -117,13 +117,14 @@ African Financial Stability Framework Index	6938
 African Framework for Public Policies	19904
 African Internet Governance Framework	9858
 African Reference Financial Stability Framework	6938
-African Union Data Policy Framework	1753,61,304,1044,196,260,243,319,244,166,654,808,296,878,16,306,595,604,1281,45,1366,616,619,17,470,62,524,197,1090,1696,212,142,2638,235
+African Union Data Policy Framework	1753,61,304,1044,196,260,243,319,244,166,654,808,296,878,16,306,595,604,1281,45,1366,616,619,17,470,62,524,197,1090,1696,212,142,2638,235,137,124
 African Union Data Policy Framework CBL	5244
 African Union Data Policy Framework Implementation	3861
 African Union Data Policy Framework and Malabo	3861
 African Union Data Policy Framework. Accordingly	5244
 African Union Data Policy Framework. Cooperation	5244
 African Union Data Policy Framework. Developed	5244
+African Union Data Policy Framework. Held	20094
 African Union Data Protection Framework	5244
 African Union Framework Compliance African Union	3861
 African Union Framework and Guidelines	9727,7397
@@ -167,6 +168,7 @@ Assessment Framework Information	16863
 Assessment Framework NCPSLU National Center for Planning	15473
 Assessment Framework Technologies	7548
 Assessment of Existing Policy and Legal Framework	11905
+Assessment of Legal Framework	20221
 Assets and Inventory Policy Framework	18488
 Assistance Framework UNDP United Nations Development	17105
 Association LogFrame Logical Framework Analysis MAC	16943
@@ -538,7 +540,7 @@ Data Ethics Framework	3861
 Data Exchange and Interoperability Frameworks	13037
 Data Framework	18529
 Data Frameworks	14664
-Data Governance Framework	6352,4804,3596,282,1207,701
+Data Governance Framework	6352,4804,3596,282,1207,701,3189
 Data Governance Framework OBJECTIVE	12674
 Data Governance Framework for Digital Social	11156
 Data Governance Framework for Digital Social Protection	11156
@@ -548,7 +550,7 @@ Data Governance Framework. These KPIs	15034
 Data Infrastructure and Open Data Framework Data	14566
 Data Management Framework	1243
 Data Policy Framework	961,2900,2389,102,119,3151,10,1633,3247,212,5207
-Data Privacy Framework	14897
+Data Privacy Framework	14897,5182
 Data Privacy Framework for NIA-User Agency	19964
 Data Protection Authority. National Governance Framework	4528,7984
 Data Protection Frame-	14897
@@ -690,6 +692,7 @@ EAC Regional Framework for Trusted Cross Border	8426
 EAC Regional Oversight Framework	13468
 EAC Roaming Framework	13610
 EAG Framework	12359
+ECCAS Regional Data Governance Framework	20094
 ECHO. The Safety Nets Common Framework	17906
 ECOWAS ICT Development Framework	16975
 EFFICIENT SPECTRUM MANAGEMENT FRAMEWORK FOR BROADBAND	16884
@@ -749,6 +752,7 @@ Egyptian National AI Governance Framework	16212
 Egypt’s AI Governance Framework	16212
 Electronic Communications and Transactions Framework	12129
 Electronic Data Classification Framework	16924
+Emergency Telecommunications Framework	20182
 Emerging A1- Framework	7548
 Emerging A2- Framework	7548
 Emerging Framework. Technologies Fluency A2- Number	7548
@@ -758,7 +762,7 @@ Emerging Technologies A- Legal Instrument Framework	7548
 Emerging Technologies A1- Framework	7548
 Emerging Technologies Fluency Framework	7548
 Emerging Technologies Fluency Framework-aligned	7548
-Emerging Technologies Framework	7548
+Emerging Technologies Framework	7548,12505
 Emerging Technologies Legislative Framework	7548,7116
 Emerging Technologies and Data Readiness Framework	7548
 Emerging the Framework	7548
@@ -949,7 +953,7 @@ Frames Kenya	3617
 Frames ST Digital	3283
 Frames of Mind	2816
 Frames the US-China AI-stack	5257
-Framework	226,347,198,190,9,112,6,61,1,54,39,16,2,553,140,34,136,692,614,30,144,131,388,30,1,10,1,11,250,102,74,231,15,216,68,113,104,201,115,181,506,80,171,187,2,2,127,17,8,445,157,27,185,3,82,579,15,56,114,206,303,6,4,749,92,188,194,370,98,93,52,42,1,124,3,4,18,37,68,4,20,25,141,406,6,89,34,35,193,26,4,89,2,41,13,30,7,18,68,17,29,117,10,16,28,194,12,116,3,6,3,60,83,104,10,27,133,63,142,292,6,284,167,132,105,3,52,10,8,8,2,23,35,7,41,36,39,62,30,102,32,3,283,44,65,27,21,25,85,498,29,12,72,380,162,5,4,66,18,3,5,5,12,26,73,32,22,303,461,559,21,28,19,3,5,40,29,5,159,141,168,7,151,273,45,21,62,107,57,50,48,104
+Framework	226,347,198,190,9,112,6,61,1,54,39,16,2,553,140,34,828,614,30,144,131,388,30,1,10,1,11,250,102,74,231,15,216,68,113,104,201,115,181,506,80,171,187,2,2,127,17,8,445,157,27,185,3,82,579,15,56,114,206,303,6,4,749,92,188,194,370,98,93,52,42,1,124,3,4,18,37,68,4,20,25,141,406,6,89,34,35,193,26,4,89,2,41,13,30,7,18,68,17,29,117,10,16,28,194,12,116,3,6,3,60,83,104,10,27,133,63,142,292,6,284,167,132,105,3,52,10,8,8,2,23,35,7,41,36,39,62,30,102,32,3,283,44,65,27,21,25,85,498,29,12,72,380,162,5,4,66,18,3,5,5,12,26,73,32,22,303,461,559,21,28,19,3,5,40,29,5,159,141,168,7,151,273,45,21,62,107,57,50,48,104,90
 Framework AI	7548
 Framework About	10718
 Framework Act	1009,16925
@@ -1417,7 +1421,7 @@ Institutional Cooperation Framework	5676
 Institutional Cooperation Framework NRAs	5676
 Institutional Data Governance Framework	15034
 Institutional Data Governance Framework Under	15034
-Institutional Framework	958,6590,4021,820,111,174,243,378,51,1,127,960,1200,80,1171,30,36,163,756,1641,20,181
+Institutional Framework	958,6590,4021,820,111,174,243,378,51,1,127,960,1200,80,1171,30,36,163,756,1641,20,181,509
 Institutional Framework Kenya	7548
 Institutional Framework OBJECTIVE	12674
 Institutional Framework Q1 Q2 Q3 Q4	12917
@@ -1473,7 +1477,7 @@ International Framework Convention	3583
 International Framework Private	14566
 International Framework Relevance	7548
 International Framework for Court Excellence	17441
-International Frameworks	12923
+International Frameworks	12923,7301
 International Goals UNDP ID Governance Framework	13005
 International Governance Framework	6432
 International Governance Framework Entities	6432
@@ -1685,6 +1689,7 @@ MTEF Medium-Term Expenditure Framework NCB National	17441
 MTF Multi-Tier Framework	18620
 MTF Multi-Tier Framework MWh	11572
 MTF Multi-Tier Framework PDELR Network Extension	16188
+MTF Multi-tier Framework	20223
 MTFF Medium-Term Fiscal Framework	19847
 Macro Fiscal Framework	18488
 Macro Stress Testing Framework	11134
@@ -1771,7 +1776,7 @@ Monitoring and Reporting Framework	11807,141
 Mosaic Respiratory Surveillance Framework	17289
 Mozambique. This Data Policy Framework	3058
 Multi Tier Framework	18537
-Multi-Tier Framework	11136,436,1108,3508,778,1350
+Multi-Tier Framework	11136,436,1108,3508,778,1350,1907
 Multi-Tier Framework Companion	423
 Multi-Tier Framework Measuring Energy Access	19646
 Multi-actor Budget Monitoring Framework	18305
@@ -1845,6 +1850,7 @@ Namibia Governmental Interoperability Framework Nam-X URL	12354
 Namibia Legal Framework	12373
 Namibia's National AI Strategy Framework	5036
 Namibia’s Artificial Intelligence Strategy Framework	9107
+National AI Delivery Framework	20182
 National AI Ethics Framework	13600,2
 National AI Framework	5363
 National AI Governance Framework	16202,10
@@ -1941,9 +1947,11 @@ National Governance Framework Design Report. Activity	12008
 National Governance Framework for Digital Transformation	583,11425
 National Health Normative Standards Framework	11252
 National Health Normative Standards Framework NPO	11252
+National ID Card Framework	20221
 National ID Program. The Results Framework	1290
 National Identity Management Framework	14752
 National Information Security Framework	7380,12262,18,141,1
+National Information Security Framework Audit and Risk	20190
 National Information Systems Security Framework	15679
 National Innovation Hub Standard Framework	11304
 National Innovation Hub Standards Framework	10573,107,624
@@ -2066,6 +2074,7 @@ Oversight Framework	19716
 Oversight Policy Framework	19664
 Overview The Framework	4165
 Overview of Cooperation Framework Results	13989,970
+Overview of Legal and Institutional Framework	20221
 Overview of Proposed Regulatory Framework	18952
 P-8 Harmonize Process and Establish Uniform Framework	11857
 P4 Legal Framework Drafting of Data Protection	12917
@@ -2382,7 +2391,7 @@ Regulatory Framework for Open Banking	11138
 Regulatory Framework for Providing Internet of Things	19860
 Regulatory Framework for Statistics	14857
 Regulatory Framework of Businesses	14828,3
-Regulatory Frameworks	7763,3502,2634,3079,282,1194
+Regulatory Frameworks	7763,3502,2634,3079,282,1194,1767
 Regulatory Payment Framework	13052
 Regulatory Roaming Frameworks Jurisdiction Regulatory	17212
 Regulatory Sandbox License Framework	14819
@@ -2663,6 +2672,7 @@ Strategic Regulatory Frameworks	15120
 Strategic Regulatory Frameworks Having	15120
 Strategic Sectors Framework	14674
 Strategically Aligned Framework for Monitoring	19519
+Strategies and Legal Frameworks	20220
 Strategy Conceptual Framework	17157
 Strategy Legal and Regulatory Framework	15679
 Strategy and Monitoring Framework	19284
@@ -2738,6 +2748,7 @@ Teachers Internship Framework	19565
 Teaching Excellence Framework	14747
 Tech Partnership and Adoption Framework	19565
 Tech-I4-A2 Develop Shared Resources Framework Egypt	15713
+Technical Clearance Framework	20182
 Technical Description Example Profile Framework	1009
 Technical Framework	1009
 Technical Frameworks	7548
@@ -2808,7 +2819,7 @@ UNESCO Digital Literacy Global Framework	13314,3628
 UNESCO Framework	16942
 UNESCO Global Framework	16942
 UNESCO Global Framework of Reference	16942
-UNESCO ICT Competency Framework for Teachers	899,5933,10131
+UNESCO ICT Competency Framework for Teachers	899,5933,10131,3245
 UNESCO ICT Competency Framework for Teachers. Paris	899
 UNESCO ICT Framework for Teachers	16963
 UNESCO Results Framework	14924

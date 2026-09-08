@@ -109,7 +109,7 @@ Grupo B Especialista Grupo B Inspector	4209
 Grupo B Jefe de Zona Marítima Jefe	4209
 Grupo BGFI BANK	18876
 Grupo BGFI Bank	18876
-Grupo Banco Mundial	6269,3289,1836,50,454,4161,51,24,65,52,1175,1353
+Grupo Banco Mundial	6269,3289,1836,50,454,4161,51,24,65,52,1175,1353,1309
 Grupo Banco Mundial URL	17426
 Grupo D	4209,12894
 Grupo D Director Grupo D Encargado	4209
@@ -138,6 +138,7 @@ Grupo Parlamentar da UNITA	5791,1056,271,2041
 Grupo Parlamentario	17224,77,4
 Grupo Praia	15535
 Grupo Social Especial	11364,1
+Grupo Teletur	20109
 Grupo Temático de Género	11562
 Grupo Técnico	10754,18,606,28
 Grupo Técnico de Apoio	10772

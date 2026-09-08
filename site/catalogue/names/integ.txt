@@ -126,6 +126,7 @@ CD Continuous Integration	11952
 CD-10 Identifier ICT Integrating the Healthcare Enterprise	1009
 CDI Score Integrated Risk SPI	17157
 CENTRAL BANK OF ESWATINI Annual Integrated	11131
+CENTRO DE COORDENAÇÃO INTEGRADA DE PROJETOS	20088
 CENTRO INTEGRADO DE SEGURANÇA PÚBLICA	11427
 CHIS. Integration	12246
 CIDP County Integrated Development Plan CSO	7548
@@ -440,7 +441,7 @@ Estratégia de Integração Local Efetiva	11530
 Eswatini. Annual Integrated Report	11134
 Ethics Integrity	11131
 Ethics and Integrity	19133
-Ethics and Integrity Directorate	12566
+Ethics and Integrity Directorate	12566,7485
 Ethiopia Ethiopian Integration	10852
 Ethiopia's Ministry of Trade and Regional Integration	12306
 Evaluation and Learning NIC National Integrity Coalition	19042
@@ -593,6 +594,7 @@ ILFS Integrated Labor Force Survey IMF	19519
 IMAI Integrated Management of Adolescent and Adult Illness	12976
 IMCI Digital Integrated Management of Childhood Illness	17289
 IMF Special Drawing Rights. Annual Integrated	11134
+INCREASED REGIONAL INTEGRATION	20223
 INDICATORS OF DIGITAL TRADE INTEGRATION	13985
 INFORMATION INTEGRITY	6907,10110
 INTEGOVERNMENT	16872
@@ -697,6 +699,7 @@ Increased Regional Integration Botswana	19677
 Increased Regional Integration Pillar III Embrace	16188
 Independent Power Producer Integrated Resources Planning	19646
 Industrial Development and Market Integration	12962
+Industry Regional Integration and Employment	20224
 Information Integrity	1814,6671,1731,513,282,6006,1
 Information Integrity and Human Rights	10453
 Information Integrity for Climate Change	17017
@@ -742,13 +745,13 @@ Integram	10783,4743,496
 Integrando	15404
 Integrar	1701,2445,6626,11,593,20,1,64,76,1247,3235,302,572,5,1862,12,7
 Integrat	13053
-Integrate	395,504,101,380,505,1698,543,1118,432,4,743,513,12,600,434,618,740,1501,29,90,173,16,7,701,84,217,27,29,32,113,45,40,64,185,141,130,116,230,2,2,611,291,458,49,67,28,104,63,12,37,8,202,98,248,135,120,94,21,17,899,75,20,25,15,26,79,11,12,18,103,25,11,68,1165,3,25,18,2,58,296,155,159,275,11,44,9,49,60,6,102,3,3
+Integrate	395,504,101,380,505,1698,543,1118,432,4,743,513,12,600,434,618,740,1501,29,90,173,16,7,701,84,217,27,29,32,113,45,40,64,185,141,130,116,230,2,2,611,291,458,49,67,28,104,63,12,37,8,202,98,248,135,120,94,21,17,899,75,20,25,15,26,79,11,12,18,103,25,11,68,1165,3,25,18,2,58,296,155,159,275,11,44,9,49,60,6,102,3,3,356
 Integrate A- Kenya's AI	7548
 Integrate AAID	17139
 Integrate AI	1814,2312,402,2420,600,4662,146,156,163,1891,252
 Integrate AI-related	12675
 Integrate AMR	14818
-Integrate Africa	13938
+Integrate Africa	13938,6114
 Integrate Artificial Intelligence	1814,4104
 Integrate CCTs and IGAs	11924
 Integrate CHWs	15977
@@ -821,6 +824,7 @@ Integrated Business Enterprise Survey ISIC	12445
 Integrated Business Establishment Census	15085
 Integrated Business Establishment Survey	236,15693
 Integrated Business Studies	10335
+Integrated CRVS-ID Ecosystem GICTA	20221
 Integrated CRVSID System	12337
 Integrated Cable Car Resort	13060
 Integrated Care for Older People	15966
@@ -1186,7 +1190,7 @@ Integrated Systems	5913,11010,1
 Integrated Systems Approach. Mbwezera MIS	12980
 Integrated Tax Administration	10852
 Integrated Tax Administration Automation System	15090
-Integrated Tax Administration System	2112,1623,4623,187,1874,103,102,1606,167,554,109,1614,357,59,1164,151,606,53,41,111,1234,127,1270
+Integrated Tax Administration System	2112,1623,4623,187,1874,103,102,1606,167,554,109,1614,357,59,1164,151,606,53,41,111,1234,127,1270,378,12
 Integrated Tax Administration System LC Local	18577
 Integrated Tax Administration System Simplify	16968
 Integrated Tax Administration Systems	10550,1317
@@ -1248,6 +1252,7 @@ Integrating ICT	13314,6328
 Integrating ICT Infrastructures	16872
 Integrating ICT and TVET	18606
 Integrating NAME Telemedicine for Sustainable Health	19532
+Integrating NIST	20092
 Integrating National ID	12291
 Integrating National Identity Numbers	18531
 Integrating Pandemic Preparedness	10829
@@ -1261,7 +1266,7 @@ Integrating the Healthcare Enterprise	1009
 Integrating the National Identity	7201
 Integrating the System of Environmental-Economic Accounting	16996
 Integratinghetero-	8606
-Integration	432,1,373,21,182,252,563,123,1788,126,242,157,89,85,94,16,19,970,132,11,1,116,119,440,368,216,2,10,318,104,178,25,23,167,26,176,146,493,524,75,332,13,217,90,607,150,150,1,12,356,2,1,4,4,7,7,53,13,678,5,37,10,112,58,53,33,6,13,11,3,5,10,11,60,32,1,40,4,18,35,1,54,22,142,48,4,33,73,34,49,88,32,5,11,27,15,90,59,70,34,47,23,188,71,1,3,306,27,8,115,14,73,217,126,88,19,68,19,58,16,39,48,25,5,13,20,12,37,27,29,30,18,26,36,278,40,72,14,57,2,244,53,17,55,568,260,25,2,124,90,13,28,15,103,135,75,69,331,14,241,156,219,12,17,2,25,19,511,269,164,13,1,1,42,37,33,53,40,34,3,25,38,96
+Integration	432,1,373,21,182,252,563,123,1788,126,242,157,89,85,94,16,19,970,132,11,1,116,119,440,368,216,2,10,318,104,178,25,23,167,26,176,146,493,524,75,332,13,217,90,607,150,150,1,12,356,2,1,4,4,7,7,53,13,678,5,37,10,112,58,53,33,6,13,11,3,5,10,11,60,32,1,40,4,18,35,1,54,22,142,48,4,33,73,34,49,88,32,5,11,27,15,90,59,70,34,47,23,188,71,1,3,306,27,8,115,14,73,217,126,88,19,68,19,58,16,39,48,25,5,13,20,12,37,27,29,30,18,26,36,278,40,72,14,57,2,244,53,17,55,568,260,25,2,124,90,13,28,15,103,135,75,69,331,14,241,156,219,12,17,2,25,19,511,269,164,13,1,1,42,37,33,53,40,34,3,25,38,96,286
 Integration Advanced	13042
 Integration Africa Region CURRENCY EQUIVALENTS	18754
 Integration All African	6938
@@ -1398,7 +1403,7 @@ Integridade da Informação	11393,5968
 Integridade da Rede	11430
 Integridade de Informação	17361
 Integritetsskydds	8436
-Integrity	718,240,196,400,76,1145,1086,1804,1281,1719,824,851,59,54,276,255,147,9,58,39,719,346,56,1,100,41,49,2,290,86,9,33,3,5,27,38,11,4,40,262,44,172,1,927,62,1,108,62,2,8,6,182,12,77,349,341,188,700,277,49,16,8,27,7,52,79,23,111,468,28,698,231,838,3,3,277,33
+Integrity	718,240,196,400,76,1145,1086,1804,1281,1719,824,851,59,54,276,255,147,9,58,39,719,346,56,1,100,41,49,2,290,86,9,33,3,5,27,38,11,4,40,262,44,172,1,927,62,1,108,62,2,8,6,182,12,77,349,341,188,700,277,49,16,8,27,7,52,79,23,111,468,28,698,231,838,3,3,277,33,240
 Integrity An Integrated	13347
 Integrity Awareness	12951
 Integrity Clause	14736
@@ -1490,7 +1495,7 @@ Kiribati National Integrated Identity Management System	10714
 Knowledge Integration for Tuberculosis Therapeutics	9969
 LA PROTECTION ET LA GESTION INTEGREE	17812
 LABORATION DE LA STRATÉGIE INTEGRÉE	12043
-LABOUR ENVIRONMENT Regional Integration	10759,78,1052,451,7598
+LABOUR ENVIRONMENT Regional Integration	10759,78,1052,451,7598,274
 LACC and Integrity Watch	17037
 LEONE STRENGTHENING INTEGRATED URBAN PLANNING THROUGH	18476
 LEVERAGE BENEFITS OF INCREASED REGIONAL INTEGRATION	12680
@@ -1578,7 +1583,7 @@ Ministry of Health Department of Integrated Epidemiology	19774
 Ministry of Local Government and Regional Integration	16887
 Ministry of Regional Integration	3238
 Ministry of Social Integration	14267,475,24,27,26,9,2,5,12
-Ministry of Trade and Regional Integration	10709,1550,241,1556
+Ministry of Trade and Regional Integration	10709,1550,241,1556,6086
 Missão Integrar	18946
 MoGCSP Integrated Dashboard	16600
 Mobile Money Integration By Emery Watson	4285
@@ -1598,6 +1603,7 @@ NAMIBIA INTEGRATED EMPLOYMENT INFORMATION	13037
 NAMIBIA INTEGRATED EMPLOYMENT INFORMATION SYSTEM	13037
 NATIONAL ID Integration URL	19804
 NCC's Technical Standards and Network Integrity Department	9564
+NEED FOR INTEGRATION	20221
 NIA. INTEGRATED NATIONAL SATELLITE INFRASTRUCTURE DEPLOYMENT	11857
 NID-EMR Integration	12291
 NIIMS National Integrated Identity Management System	12151
@@ -1658,6 +1664,7 @@ Nigerien Electricity Society NIPP National Integrated	12062,6124,31
 Northern Corridor Integration Projects	10819,256,1251,7453
 Northern Corridor Integration Projects. NIDA	12328
 Northern Integrated Development Agency	12779
+O Centro de Coordenação Integrada de Projetos	20088
 O Programa Integração Digital Regional	11542
 O Sistema Integra	18767
 O Sistema Integrado de Gestão de Assentos	18772
@@ -1785,6 +1792,7 @@ Promote Integrated Pest Management	14818
 Promote Integrated Soil Fertility Management	14818
 Promoting Gas Power Market Integration	7426
 Promoting Policy Integration and Advocacy	16963
+Promoting Regional Economic Integration	20076
 Promotional Prepaid Integrated Plans	11259
 Proposals RIAS Regional Integration Assistance Strategy	18754
 Protect Data Privacy and Security Integrate	12675
@@ -1813,7 +1821,7 @@ REFERENCE GUIDE TO INTEGRATE DATA PROVISIONS	1243
 REFERENCES Integrated Financial Management System Data	19660
 REGIONAL DIGITAL INTEGRATION PROGRAM	18504
 REGIONAL DIGITAL INTEGRATION PROJECT The Eastern	18744
-REGIONAL INTEGRATION	18537,394,434
+REGIONAL INTEGRATION	18537,394,434,858
 REGIONAL INTEGRATION AND POWER TRADE	12563
 REGIONAL INTEGRATION Decentralization	14935
 REGIONAL INTEGRATION Mali	17870
@@ -1837,7 +1845,7 @@ Regional Digital Integration Program	16144,792
 Regional Digital Integration Project	1216,6751,3602,238,1803,4894
 Regional Digital Integration Project Table of Contents	18504
 Regional Integrated Budget	15790
-Regional Integration	1179,2425,510,1127,1696,218,547,3057,76,2,1,74,56,581,321,16,2,1,16,247,1,1,9,177,1,11,1,135,474,601,92,424,72,667,94,641,106,1379,67,226,1423,133,358,388,19,1,169,14,22,1,65,14,1,48
+Regional Integration	1179,2425,510,1127,1696,218,547,3057,76,2,1,74,56,581,321,16,2,1,16,247,1,1,9,177,1,11,1,135,474,601,92,424,72,667,94,641,106,1379,67,226,1423,133,358,388,19,1,169,14,22,1,65,14,1,48,225,12
 Regional Integration And Employment	17038
 Regional Integration And Inclusion	10909
 Regional Integration Assistance Strategy	15511
@@ -1845,7 +1853,7 @@ Regional Integration Assistance Strategy for Africa	18754
 Regional Integration Boutheina Guermazi	16936
 Regional Integration COMESA	13563
 Regional Integration Division	10634
-Regional Integration Economic Diversification Business	10837,1315,188,7598
+Regional Integration Economic Diversification Business	10837,1315,188,7598,274
 Regional Integration Limited	14818
 Regional Integration Page	15424
 Regional Integration Project ESMIS Education Sector	19565
@@ -1854,7 +1862,7 @@ Regional Integration and Cooperation	14818
 Regional Integration and Cooperation Mauritius	14818
 Regional Integration and Development	10321
 Regional Integration and Development The President	10321
-Regional Integration and Employment	4359,4002,1,97,2004,6437,27,289,152
+Regional Integration and Employment	4359,4002,1,97,2004,6437,27,289,152,2856,6
 Regional Integration and Employment MoYS Ministry of Youth	17105
 Regional Integration and Employment Mod K. Ceesay	8459
 Regional Integration and Employment of Gambia	17241
@@ -1971,6 +1979,7 @@ Service and Channel Integration	12917
 Service and Channel Integration Public Services	12917
 Services IDSR Integrated Disease Surveillance and Response	12976
 Serviço Integrado de Apoio	11371
+Serviço Integrado de Atendimento	20086
 Serviço Público Integrado	2688
 Serviços Integrados de Atendimento	6060,4705,10
 Serviços de Integração	12021
@@ -2060,7 +2069,7 @@ Standard Integrated Tax Administration System	17011
 Standardization Agency Integration	12389
 Standards Integrated Reporting International Monetary Fund	11131
 Standards Integration Flow Security Governance Personnel	19801
-State Minister of Trade and Regional Integration	12259
+State Minister of Trade and Regional Integration	12259,7817
 State’s Integrated Financial Management System	11417
 Statistics AfCS Agriculture Integrated Survey AGRI	19519
 Statistics Mauritius Elements of Assurances of Integrity	14777
@@ -2106,7 +2115,7 @@ System Integration Testing	14185,5390
 System Integration and Access	11957
 System Integration and Compatibility	9855
 System Integration and Regional Connectivity ASTANA-1	13042
-System Integrator	3594,9830
+System Integrator	3594,9830,6775
 System Integrators. Going	16923,1
 System Integrity Types	13042
 System OPD Outpatient Department IMNCI Integrated	16971
@@ -2183,6 +2192,7 @@ Uganda Harmonized Integrated Survey	19744
 Um Centro Integrado de Segurança Pública	11484
 Under the Integrated Resource Plan	12609
 Under the West Africa Regional Digitalization Integration	17114
+Underway Integration	20221
 Unique Identification for Regional Integration and Inclusion	3834,11787,4380
 United Nations Global Principles for Information Integrity	11011,6006,1
 United Nations High Commissioner for Refugees Integration	12227
@@ -2232,7 +2242,7 @@ West Africa Regional Digitalization Integration Program	17114
 West Africa Unique Identification for Regional Integration	312,240,665,47,67,596,390,110,354,646,10,415,13,659,1055,512,1335,3396,34,53,4641,185,649,715,75,1116,955,39,706
 West African Regional Digital Integration Project	16144,2360
 Western Africa Regional Digital Integration	16144
-Western Africa Regional Digital Integration Program	1175,2,1,1,1,1,1,95,4085,33,5,1123,2903,6399,319,57,504,221,10,136,147,1285
+Western Africa Regional Digital Integration Program	1175,2,1,1,1,1,1,95,4085,33,5,1123,2903,6399,319,57,504,221,10,136,147,1285,1717
 Western Africa Regional Digital Integration Programme	17407
 Western Africa Regional Digital Integration Project	16926,173,15
 Whole-of-Government Integration	19642

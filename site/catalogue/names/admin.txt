@@ -261,7 +261,7 @@ Administración Pública. El Gobierno	17022
 Administración Pública. Esta	17022
 Administración Pública. Hoy	16933
 Administración Pública. Por	17282
-Administración Territorial	6841
+Administración Territorial	6841,13225
 Administración Tributaria	4209,12780,203
 Administración de Aduanas	15478
 Administración de Guinea Ecuatorial. Texto	16987
@@ -363,7 +363,7 @@ Administratif du Directeur Général	16175
 Administratif. Elle	15412
 Administratifs	2476,8345
 Administratio Publica	4432
-Administration	1,21,551,174,1,17,134,3,67,31,154,27,6,31,29,17,7,10,15,240,18,58,6,84,6,70,59,39,108,78,34,170,76,107,29,76,163,22,17,52,7,48,12,75,105,103,3,14,6,15,4,24,57,15,58,2,25,8,7,32,27,17,29,4,47,31,21,110,40,18,27,25,33,312,164,42,45,180,44,73,113,41,59,173,94,152,135,49,138,74,1,13,39,28,81,76,12,117,44,300,9,210,10,217,165,7,93,166,60,39,106,61,21,14,21,15,25,148,23,20,10,8,21,53,107,92,47,13,32,52,50,146,59,33,47,22,40,55,35,14,56,79,92,74,20,144,6,49,64,31,201,92,83,52,286,43,76,94,38,11,33,32,46,41,50,93,4,8,89,3,9,37,18,3,21,3,2,51,19,17,99,2,12,31,3,42,37,6,6,18,13,24,260,85,41,5,49,24,191,46,215,42,209,47,130,13,266,54,7,8,145,168,11,10,18,12,2,18,26,3,2,28,13,9,45,15,24,29,11,22,58,18,35,20,26,3,1,60,16,18,3,77,190,176,95,33,3,3,1,1,4,1,1,1,6,1,12,7,5,6,14,11,35,8,12,24,25,15,83,49,1,14,15,53,34,1,41,198,62,80,105,1,11,5,9,7,18,10,2,4,15,11,1,6,11,1,3,9,1,1,7,3,8,15,4,6,10,8,6,5,4,18,6,8,11,31,6,6,1,1,21,10,1,5,9,18,6,3,8,2,5,2,12,5,28,4,14,5,66,2,36,32,3,6,23,8,26,2,11,8,11,16,45,1,6,18,13,45,52,1,33,2,24,41,37,10,6,50,6,32,17,41,3,22,60,1,3,2,2,3,2,10,2,3,1,10,13,9,36,5,1,9,24,115,61,18,1,20,7,36,5,94,114,41,104,27,57,13,2,5,3,12,2,9,6,1,11,11,61,82,145,1,1,3,1,4,3,3,1,1,2,5,1,1,2,1,1,13,1,4,1,1,2,2,1,3,2,1,1,2,3,2,1,5,1,2,2,3,1,1,1,1,3,1,2,2,6,1,2,2,1,1,4,6,7,5,2,4,1,4,7,1,2,2,1,12,4,1,1,2,1,4,1,3,6,2,27,2,5,10,32,9,6,1,5,1,4,6,5,3,1,2,44,3,22,47,38,15,1,3,3,7,4,1,5,3,1,5,76,2,1,9,11,4,1,1,1,1,12,113,328,18,27,2,41,38,60,57,6,24,4,6,15,6,21,8,1,3,5,2,2,5,10,5,1,29,34,34,3,9,6,22,5,13,5,71,19,7,7,3,6,1,2,2,12,44,51,51,25,32,91,15,100,1,53,2,5
+Administration	1,21,551,174,1,17,134,3,67,31,154,27,6,31,29,17,7,10,15,240,18,58,6,84,6,70,59,39,108,78,34,170,76,107,29,76,163,22,17,52,7,48,12,75,105,103,3,14,6,15,4,24,57,15,58,2,25,8,7,32,27,17,29,4,47,31,21,110,40,18,27,25,33,312,164,42,45,180,44,73,113,41,59,173,94,152,135,49,138,74,1,13,39,28,81,76,12,117,44,300,9,210,10,217,165,7,93,166,60,39,106,61,21,14,21,15,25,148,23,20,10,8,21,53,107,92,47,13,32,52,50,146,59,33,47,22,40,55,35,14,56,79,92,74,20,144,6,49,64,31,201,92,83,52,286,43,76,94,38,11,33,32,46,41,50,93,4,8,89,3,9,37,18,3,21,3,2,51,19,17,99,2,12,31,3,42,37,6,6,18,13,24,260,85,41,5,49,24,191,46,215,42,209,47,130,13,266,54,7,8,145,168,11,10,18,12,2,18,26,3,2,28,13,9,45,15,24,29,11,22,58,18,35,20,26,3,1,60,16,18,3,77,190,176,95,33,3,3,1,1,4,1,1,1,6,1,12,7,5,6,14,11,35,8,12,24,25,15,83,49,1,14,15,53,34,1,41,198,62,80,105,1,11,5,9,7,18,10,2,4,15,11,1,6,11,1,3,9,1,1,7,3,8,15,4,6,10,8,6,5,4,18,6,8,11,31,6,6,1,1,21,10,1,5,9,18,6,3,8,2,5,2,12,5,28,4,14,5,66,2,36,32,3,6,23,8,26,2,11,8,11,16,45,1,6,18,13,45,52,1,33,2,24,41,37,10,6,50,6,32,17,41,3,22,60,1,3,2,2,3,2,10,2,3,1,10,13,9,36,5,1,9,24,115,61,18,1,20,7,36,5,94,114,41,104,27,57,13,2,5,3,12,2,9,6,1,11,11,61,82,145,1,1,3,1,4,3,3,1,1,2,5,1,1,2,1,1,13,1,4,1,1,2,2,1,3,2,1,1,2,3,2,1,5,1,2,2,3,1,1,1,1,3,1,2,2,6,1,2,2,1,1,4,6,7,5,2,4,1,4,7,1,2,2,1,12,4,1,1,2,1,4,1,3,6,2,27,2,5,10,32,9,6,1,5,1,4,6,5,3,1,2,44,3,22,47,38,15,1,3,3,7,4,1,5,3,1,5,76,2,1,9,11,4,1,1,1,1,12,113,328,18,27,2,41,38,60,57,6,24,4,6,15,6,21,8,1,3,5,2,2,5,10,5,1,29,34,34,3,9,6,22,5,13,5,71,19,7,7,3,6,1,2,2,12,44,51,51,25,32,91,15,100,1,53,2,5,137,60
 Administration 2018-2021	13341
 Administration A2B	14438
 Administration AERCO Adresse	16552
@@ -965,7 +965,7 @@ Administração Operações	15966
 Administração Postal	13,18765
 Administração Publica	15359
 Administração Pú	15358
-Administração Pública	14,1,152,585,43,470,3,468,212,106,241,142,144,37,198,302,401,319,237,360,171,35,664,24,392,348,633,268,21,254,955,730,359,620,705,158,1,299,258,29,1,1,2,8,8,5,4,6,2,1,11,17,17,2,1,2,1,1,2,1,4,2,3,2,27,26,26,27,306,26,38,26,56,19,733,1,3,8,55,17,1456,1031,14,1,21,11,1,12,46,20,6,28,22,6,3,19,18,112,71,144,1,12,50,60,5,1,28,27,98,109,14,72,111,613,260,1389,18,5,1,1,5,17,65,17,17
+Administração Pública	14,1,152,585,43,470,3,468,212,106,241,142,144,37,198,302,401,319,237,360,171,35,664,24,392,348,633,268,21,254,955,730,359,620,705,158,1,299,258,29,1,1,2,8,8,5,4,6,2,1,11,17,17,2,1,2,1,1,2,1,4,2,3,2,27,26,26,27,306,26,38,26,56,19,733,1,3,8,55,17,1456,1031,14,1,21,11,1,12,46,20,6,28,22,6,3,19,18,112,71,144,1,12,50,60,5,1,28,27,98,109,14,72,111,613,260,1389,18,5,1,1,5,17,65,17,17,1191
 Administração Pública Artigo	11461,3897
 Administração Pública Cabo-verdiana	15476
 Administração Pública Central	1265,683,13624,450,34
@@ -1334,7 +1334,7 @@ Conselho de Adminis	11518,3873,3361
 Conselho de Administra	11518,3873,3361,48
 Conselho de Administracao da NOSi	15899
 Conselho de Administraão	18788
-Conselho de Administração	13,154,1924,693,32,50,1281,103,1322,247,509,291,1117,1490,468,105,287,54,300,928,4,5,72,69,1281,9,1,1,4,16,5,5,1343,1208,42,43,27,252,334,919,24,638,43,2,1037,9,12,15,8,4,76
+Conselho de Administração	13,154,1924,693,32,50,1281,103,1322,247,509,291,1117,1490,468,105,287,54,300,928,4,5,72,69,1281,9,1,1,4,16,5,5,1343,1208,42,43,27,252,334,919,24,638,43,2,1037,9,12,15,8,4,76,1182
 Conselho de Administração O Conselho de Administração	15503
 Conselho de Administração da AGER	18752,1,35,38
 Conselho de Administração da AGT	10787
@@ -1530,7 +1530,7 @@ Digital Economy and Digitalization of Public Administration	6857
 Digital Land Administration Platform	5733
 Digital Shield Against Administrative Malpractice	9517
 Digital Statistics and Development Administration	5871
-Digital Transformation and Administrative Modernization	2124,17776
+Digital Transformation and Administrative Modernization	19900
 Digital Transition and Administration Reform	1885,1995,1480,6422
 Digital Transition and Administrative Reform	5890,1034,245,9632,710
 Digital da Administração Pública	15572
@@ -1670,7 +1670,7 @@ Education and Administrative	19585
 Education and Administrative Support Service	2775
 Education and Public Administration	12551
 Educational Administration	7278
-Effective Administration	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Effective Administration	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 Efficient and Inclusive Public Administration	17369
 Egypt’s New Administrative Capital	4563
 El Consejo de Administración	17408
@@ -1745,7 +1745,7 @@ FMSs and Banadir Regional Administration	14896
 FONCTIONNAIRE DE DEFENSE Administrateur	18003
 FORMATION DES ADMINISTRATEURS ET MEMBRES DES	2342
 FOUNDATIONS FOR ECONOMIC OPPORTUNITY PUBLIC ADMINISTRATION	10759,1130
-FOUNDATIONS FOR ECONOMIC OPPORTUNITY Public Administration	10759,78,1052,263,188,1,7597
+FOUNDATIONS FOR ECONOMIC OPPORTUNITY Public Administration	10759,78,1052,263,188,1,7597,274
 FUNCIONAMENTO E GESTÃO DA ADMINISTRAÇÃO PÚBLICA	11397
 FUNCTIONS OF REGIONAL ADMINISTRATION	12970
 FY17 Public Administration	15702
@@ -1848,6 +1848,7 @@ Gouvernance Administrative	18030
 Gouvernement. Administrations	8855
 Gov Admin	19237
 Governance and Administration	16896
+Governance and Public Administration	20051
 Government Administrative Officer OMCs Oil Marketing	12256
 Government GACR General Administration	14897
 Government ICT Infrastructure Development and Administration	1795,1413,3881
@@ -2006,7 +2007,7 @@ Integrated Project Administration Unit	18500
 Integrated Revenue Administration	12956
 Integrated Tax Administration	10852
 Integrated Tax Administration Automation System	15090
-Integrated Tax Administration System	2112,1623,4623,187,1874,103,102,1606,167,554,109,1614,357,59,1164,151,606,53,41,111,1234,127,1270
+Integrated Tax Administration System	2112,1623,4623,187,1874,103,102,1606,167,554,109,1614,357,59,1164,151,606,53,41,111,1234,127,1270,378,12
 Integrated Tax Administration System LC Local	18577
 Integrated Tax Administration System Simplify	16968
 Integrated Tax Administration Systems	10550,1317
@@ -2418,7 +2419,7 @@ Networking and Systems Administration	2308
 Nigeria Institute of Educational Planning and Administration	11860
 Nigeria Tax Administration Act	4602,3988,236,3150,46,6238
 Nigeria. Nigeria Tax Administration Act	11976
-Nigerian Maritime Administration and Safety Agency	2677,15131
+Nigerian Maritime Administration and Safety Agency	2677,15131,2300
 Nigerian National Agency for Food and Drug Administration	4426
 Niveau Administrative	13841
 No. of District Administration Offices	12453,892
@@ -2521,15 +2522,15 @@ PROGRAMME NATIONAL DE RECENSEMENT ADMINISTRATIF	16697,3302
 PROMOTION D’UNE ADMINISTRATION ELECTRONIQUE	15722
 PROPERTY TRANSFER AND LAND ADMINISTRATION	12389
 PROSPECTIVE ET DE LA REFORME ADMINISTRATIVE	16099
-PUBLIC ADMINISTRATION	10759,78,1,344,706,1,263,1,10,177,1,7311,1,183,22,1,65,14,1,48
+PUBLIC ADMINISTRATION	10759,78,1,344,706,1,263,1,10,177,1,7311,1,183,22,1,65,14,1,48,225
 PUBLIC ADMINISTRATION Absence of Armed Conflict	10835,3,130,902,16,466,1,135,7334
 PUBLIC ADMINISTRATION Absence of Violence	10835,3,130,902,16,466,1,135,7334
 PUBLIC ADMINISTRATION BILL	13131
 PUBLIC ADMINISTRATION BUSINESS	10835,3,130,902,16,466,1,135,7334
-PUBLIC ADMINISTRATION Civil Registration	10837,1503,7598
+PUBLIC ADMINISTRATION Civil Registration	10837,1503,7598,274
 PUBLIC ADMINISTRATION HEALTH INCLUSION	12353
 PUBLIC ADMINISTRATION Office of Standards and Compliance	11182
-PUBLIC ADMINISTRATION Rank	10759,78,1503,148,7450
+PUBLIC ADMINISTRATION Rank	10759,78,1503,148,7450,274
 PUBLIC OFFICIALS AND INSOLVENCY ADMINISTRATOR	12389
 PUBLIC SERVICE AND ADMINISTRATION Date Ms	11184
 PUBLIQUE ET AUX DOCUMENTS ADMINISTRATIFS	113
@@ -2633,8 +2634,8 @@ Provincial Administrations and Hospitals	10780
 Provincial Administrations and Public Hospitals	10780
 Public Admin. Modernization Project	13850
 Public Admin. Modernization Project. Country	13850
-Public Administration	2775,829,86,742,2514,3813,16,60,2,1,74,56,297,602,3,2,14,1,1,1,50,69,145,1,9,178,11,1,135,468,766,863,151,192,444,52,177,62,296,810,79,5,89,69,426,412,113,501,304,271,116,498,1,168,1,14,22,1,9,32,24,15,48,1
-Public Administration Business	10837,1315,188,7598
+Public Administration	2775,829,86,742,2514,3813,16,60,2,1,74,56,297,602,3,2,14,1,1,1,50,69,145,1,9,178,11,1,135,468,766,863,151,192,444,52,177,62,296,810,79,5,89,69,426,412,113,501,304,271,116,498,1,168,1,14,22,1,9,32,24,15,48,1,233
+Public Administration Business	10837,1315,188,7598,274
 Public Administration CNIAPGE	16942
 Public Administration Change	19822
 Public Administration Digital Transition Agenda and PADA	1770
@@ -2729,7 +2730,7 @@ Regional Administration	12970,6958
 Regional Administration Act	19525,60
 Regional Administration Assistant Civil Registration Officer	12970
 Regional Administration Offices	12970
-Regional Administration and Local Government	1261,4622,13651,7,3,40,1,17,16
+Regional Administration and Local Government	1261,4622,13651,7,3,40,1,17,16,501
 Regional Administration and Local Government Authorities	19520,64,1
 Regional Administration and Local Government HSSP V	19544
 Regional Administration and Local Government Level	19584
@@ -2957,7 +2958,7 @@ State Modernization and Public Administration	11965
 State and Public Administration	11965
 State and Public Administration Support Institution	11873
 State's Administrative Apparatus' Employees URL	15719
-Statistical System Effective Administration Tax	10759,78,1315,188,7598
+Statistical System Effective Administration Tax	10759,78,1315,188,7598,274
 Statistique SECTION ARCHIVES Chef de Section Administrateur	17982
 Statistique du Secteur Administration Territoriale	17978
 Statute of Public Administration	18797
@@ -2980,7 +2981,7 @@ Supply of Internet Possession Administration and Electronic	1797,1413,3880
 Supreme Administrative Court	19890
 Supreme Court. The Court Administrator	16943
 System Administration	2868,8285
-System Administrator	8022,6524
+System Administrator	8022,6524,5671
 System Administrator Deliverable	12693
 System Administrators	13361
 System TAS Tax Administration System USAID	17011
@@ -3022,7 +3023,7 @@ Table of Administrative Penalties	587
 Tags Administration Partager Facebook X WhatsApp	1876
 Takamaka District Administration Office	19049
 Tanzania Term Definition Administrative	19557
-Tax Administration	573,2588,574,3188,2856,1218,143,1249,63,31,465,206,1520,154,3,1202,704,274,197,1110,1529
+Tax Administration	573,2588,574,3188,2856,1218,143,1249,63,31,465,206,1520,154,3,1202,704,274,197,1110,1529,390
 Tax Administration A Cross-Country Perspective Manabu	12948
 Tax Administration Achievements and Challenges	10997
 Tax Administration Act	6921,2769,333,1167,43,30,13,22,1300,31,424,69,32,6373,75
@@ -3042,7 +3043,7 @@ Tax Administration Reforms. IMF Working Paper	10997
 Tax Administration Research Centre	12386
 Tax Administration Structural and Governance Reform	17011
 Tax Administration Support System	12500
-Tax Administration System	2744,9221,483,605,3958,303,1174
+Tax Administration System	2744,9221,483,605,3958,303,1174,1737
 Tax Administration System ITAS Integrated Tax	17105
 Tax Administration System MDA Ministries	1284
 Tax Administration Technology Innovation Hub	2189

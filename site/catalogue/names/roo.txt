@@ -83,6 +83,7 @@ Libya RMSE Root-Mean-Square Error SAT Spatial	17157
 Location FAREI Conference Room	14758
 MASO-ATHU Election Situation Room	12241
 MCB Press Room	4673
+MOFEA Conference Room	20225
 MS Root	15080
 MTN’s Rooftop Event Centre	2563
 Mafeje Room	11027
@@ -105,8 +106,11 @@ NIMC the Root Certification Authority	9880
 NIMC's Root CA	10423
 NOC Room	12253
 NUMBER OF HABITABLE ROOMS	11129
+Namibia's National Root Certification Authority	20080
 Namibia’s Root Certification Authority	8250
-National Root Certification Authority	3299,4262,6821
+National Public Key Infrastructure and National Root	20080
+National Root Certification Authority	3299,4262,6821,5829
+National Root Certification Authority. Government	20211
 National Root Key	15133
 National Situation Room	16970
 Nigeria’s Root Certification Authority	9880

@@ -493,7 +493,7 @@ Defende	2921,598,1960
 Defender	1701,9817,3826,159,3248,119
 Defenders Coalition Somalia	15007
 Defenders Project	15007
-Defendeu	5272,33,1690,1008,3675,4304,1355,75
+Defendeu	5272,33,1690,1008,3675,4304,1355,75,2645
 Defendido	9799
 Defending Today's Workforce Against Cyber Threats	3279
 Defending Ukraine	11310
@@ -505,7 +505,7 @@ Defendê-las	11072
 Defensa	4209,3839,3695,5605
 Defensa Nacional	17392
 Defensa. Ministerio de Justicia	16965
-Defense	1000,2604,2051,2192,273,4933,40,2380,1415,67,11,9,1508,650,668
+Defense	1000,2604,2051,2192,273,4933,40,2380,1415,67,11,9,1508,650,668,422
 Defense Command and Control Centre for Cybersecurity	1000
 Defense H.E. Mr. Youssouf Mohamed Ali	13791
 Defense Manufacturing Hospitality	16266
@@ -933,6 +933,7 @@ Gambian Minister of Defence Mr. Sheik	17241
 Gazette. Section VIII Defined Terms Any	11233
 Global Definition	14819
 Glossary Term Definition ABAC Attribute-Based Access	11952
+Glossary and Definition of Terms	20217
 Glossary of Definitions	1597
 Glossary of Definitions and Statistical Items	12338
 Good Poor Definition Reason	12360
@@ -1016,6 +1017,7 @@ Indicator Name Definition	13332
 Indicator Type Indicator Definition Data Sources	17157
 Infection and Acquired Immuno Deficiency Syndrome	14714,1
 Information Protection Defining Access Control Policies	11231
+Infrastructure Deficit	20220
 Inquérito de Cobertura. Os Resultados Definitivos	11421,25,131
 Institutional Cost of Deferred Reform	10062
 Instituto Brasileiro de Defesa	12366
@@ -1116,7 +1118,7 @@ Microsoft Defender	8405
 Microsoft and Oracle. The Department of Defence	6477
 Microsoft’s Digital Defense Report	8711
 Minister for Defense	19365
-Minister of Defence	7845,5717,386,796,9,88,1323
+Minister of Defence	7845,5717,386,796,9,88,1323,3897
 Minister of Defence Dr. Feston Kaupa	6813
 Minister of Defence and Internal Affairs of Sao Tome	18857
 Minister of Defence and Veterans Affairs	18691
@@ -1139,7 +1141,7 @@ Ministries of Defense	15473
 Ministro da Defesa	18895,1
 Ministro da Defesa Nacional	4147,11257
 Ministry Of Defense Unveils Information Systems	5270
-Ministry of Defence	1200,5449,1198,3284,3,794,298,448,419,469,984,284,17,645,1475,138,136,551,224,157,47,280,12,1031,310
+Ministry of Defence	1200,5449,1198,3284,3,794,298,448,419,469,984,284,17,645,1475,138,136,551,224,157,47,280,12,1031,310,198
 Ministry of Defence Ministry	17105
 Ministry of Defence Ministry of Agriculture	17105
 Ministry of Defence and Security	2736

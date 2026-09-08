@@ -176,6 +176,7 @@ Department of Primary Health Care	12606
 Dependência Primária de Tecnologias	10777
 Deputy Minister of Primary and Secondary Education	11656
 Deputy Prime Minister	7030,1319,4131,497,31,190,9,741,136,68,590,11,40,36,1,148,125,38,1817,59
+Deputy Prime Minister Charles Wabwire Wandenya	20158
 Deputy Prime Minister Hon. Thulisile Dladla	12480
 Deputy Prime Minister Honorable Thulisile Dladla	2391
 Deputy Prime Minister Jibril Abdirashid Haji	9241
@@ -449,6 +450,7 @@ Hon. Pravind Kumar JUGNAUTH Prime Minister	14729
 Honourable Deputy Prime Minister	12660,302,15
 Honourable Deputy Prime Minister and Minister of Justice	12668
 Honourable Prime Minister	14742
+Honourable Prime Minister Dr Navinchandra Ramgoolam	20061
 Honourable Prime Minister of India	14744
 Honourable Prime Minister of Mauritius	14744
 Honourable Prime Minister’s Office	14742
@@ -978,7 +980,7 @@ Primary Gross Enrollment Ratio	14897
 Primary Gross Enrolment Ratio	19542
 Primary Gross School	16942
 Primary Health	11857
-Primary Health Care	21,257,118,375,3530,6475,476,21,695,12,626,1252,915,427,2089,580,293,370,405,907
+Primary Health Care	21,257,118,375,3530,6475,476,21,695,12,626,1252,915,427,2089,580,293,370,405,907,375
 Primary Health Care Centers	12004
 Primary Health Care Centre	19844
 Primary Health Care Facility	11980
@@ -1023,6 +1025,7 @@ Primary Investigator	15024,819,1,821,380,880
 Primary Junior Secondary Senior Secondary	18460
 Primary Junior Senior	11879
 Primary Junior Senior Higher	11879
+Primary Legislation	20224
 Primary Livelihood	10841
 Primary Lower Secondary	19542
 Primary Lower Secondary Primary Lower Secondary	19542
@@ -1177,7 +1180,7 @@ Prime Institute of Health Sciences	15251
 Prime Lending Rate	11289
 Prime Lending Rate Policy	11289
 Prime Ministe-	15473
-Prime Minister	27,285,406,65,186,56,259,4,2,538,5,95,435,4,208,56,52,128,49,289,104,28,14,20,121,49,47,63,25,8,74,178,174,87,232,162,40,160,27,12,34,92,29,36,15,53,63,26,143,73,247,240,141,225,107,732,13,322,378,162,1,3,165,431,1,102,5,162,70,122,275,271,172,362,429,244,102,19,49,24,50,21,177,21,157,177,28,30,90,215,25,20,40,130,76,30,21,26,31,46,2,27,13,24,57,203,10,4,9,8,5,16,76,108,9,22,3,2,4,28,1,5,23,31,22,5,54,1,234,87,22,434,37,37,86,17,9,70,6,1,130,73,326,53,2,2,4,2,9,4,2,6,2,1,7,8,6,5,14,12,3,20,11,2,2,2,16,1,12,5,18,10,40,31,22,30,1,28,14,29,115,6,12,238,5,6,8,22,4,35,13,5,30,3,54,524,58,16,21,8,262,41,26,35,108,90,55,199,190,40,110,203,24,181,21,23,41,82,88,43,51,107,44,405,43,60,30,176,1,79,102,120,155,23,42,17,39,1,5,19,19,4,32,6,8,6,6,13,38,5,54,3,29,101
+Prime Minister	27,285,406,65,186,56,259,4,2,538,5,95,435,4,208,56,52,128,49,289,104,28,14,20,121,49,47,63,25,8,74,178,174,87,232,162,40,160,27,12,34,92,29,36,15,53,63,26,143,73,247,240,141,225,107,732,13,322,378,162,1,3,165,431,1,102,5,162,70,122,275,271,172,362,429,244,102,19,49,24,50,21,177,21,157,177,28,30,90,215,25,20,40,130,76,30,21,26,31,46,2,27,13,24,57,203,10,4,9,8,5,16,76,108,9,22,3,2,4,28,1,5,23,31,22,5,54,1,234,87,22,434,37,37,86,17,9,70,6,1,130,73,326,53,2,2,4,2,9,4,2,6,2,1,7,8,6,5,14,12,3,20,11,2,2,2,16,1,12,5,18,10,40,31,22,30,1,28,14,29,115,6,12,238,5,6,8,22,4,35,13,5,30,3,54,524,58,16,21,8,262,41,26,35,108,90,55,199,190,40,110,203,24,181,21,23,41,82,88,43,51,107,44,405,43,60,30,176,1,79,102,120,155,23,42,17,39,1,5,19,19,4,32,6,8,6,6,13,38,5,54,3,29,101,71,51
 Prime Minister Abdi Farah Shirdoon HOL	2743
 Prime Minister Abdoulaye Maiga. All	3646
 Prime Minister Abdul Hamid Dabaiba	3073
@@ -1323,10 +1326,11 @@ Prime Minister of Somalia	15057
 Prime Minister of Somalia Dr. Abdirashid Ali	15119
 Prime Minister of Somalia and Presidential Candidate	11150
 Prime Minister of São Tomé and Príncipe	18842
+Prime Minister of Tieng Adhola	20158
 Prime Minister of Tunisia	16757
 Prime Minister's Advisory Commission	17620
 Prime Minister's Director General	6938
-Prime Minister's Office	583,200,507,87,718,1806,980,1002,2623,863,1463,132,941,103,193,136,163,1510,127,584,21,4,4,5,23,1,14,15,3,19,9,6,126,760,200,251,2016,111,61,1146,3,1,11,3,50,1,17,245,143
+Prime Minister's Office	583,200,507,87,718,1806,980,1002,2623,863,1463,132,941,103,193,136,163,1510,127,584,21,4,4,5,23,1,14,15,3,19,9,6,126,760,200,251,2016,111,61,1146,3,1,11,3,50,1,17,245,143,129
 Prime Minister's Office Labour	19534
 Prime Minister's Office Public Disclosure Authorized	12228
 Prime Minister's Office The Prime	19520

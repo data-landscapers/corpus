@@ -3,7 +3,7 @@ ACTING DIVISIONAL COMMISSIONER	11188
 ADVISORY SERVICES DIVISION	19712
 AHOUA NGONOU Christ Divine	15580
 AI Can Help Developing Economies Diversify	1814
-AI Divide	1814,8912
+AI Divide	1814,8912,9480
 AI Division	2958
 AI Inclusive and Diverse AI Focus AI	17884
 AI and Africa's Demographic Dividend	2686
@@ -175,6 +175,7 @@ Chefs de Division	11676
 Chercheur DIVISION CREATION ET OUVERTURE D’INSTITUTIONS	17827
 Chercheur DIVISION POLITIQUE ET EVALUATION	17827
 Chief Diversification Officer	9097
+Church Marriage Authentication Muslim Divorce Bachelor	20213
 City Division CDOs	19707
 Civil Division	19814
 Civil Service College MYS Supporting Div	14781
@@ -356,7 +357,7 @@ Data Protection Division	12549
 Data Systems Must Reflect Diversity	13016
 Debt and Aid Division	13080
 Declare Divorce	12226
-Deep Dive	8673,3566,3727,196,3489
+Deep Dive	8673,3566,3727,196,3489,404
 Deep Dives	10370
 Deepening Divide	6948
 Defence and Home Affairs Division	14778
@@ -465,7 +466,7 @@ Diversified and Inclusive Deep Economy	12602
 Diversified and Inclusive Deep Economy for Sustainable Jobs	12580
 Diversified and Inclusive Growth	16996
 Diversifier	2966,5925,2074,2325,2252,1003,1518,925
-Diversify	395,2282,8152,327,1808,904,70,880,129,50,133,474,1362,52,346,2282
+Diversify	395,2282,8152,327,1808,904,70,880,129,50,133,474,1362,52,346,2282,577
 Diversify CIS	14997
 Diversify Research Topics	12675
 Diversify and Climate	14997
@@ -712,13 +713,15 @@ Divisão de Prevenção	12858,1
 Divisão de Registo Criminal	18832
 Divisões	12810,5969
 Divona Algérie	5766
-Divorce	5533,6605,103,86,10,1,75,58,609,564,1412,497,1083,285,2119
+Divorce	5533,6605,103,86,10,1,75,58,609,564,1412,497,1083,285,2119,1173,8
 Divorce Act	12367
 Divorce Annotation Erratum Certified Statement Bachelorhood	16970
+Divorce Certificate	20213
+Divorce Certificate. Applicant	20213
 Divorce Certificates	14045
 Divorce Certificates Available Fees	14045
 Divorce Laws Amendment Ordinance	12367
-Divorce Registration	14137
+Divorce Registration	14137,6084
 Divorce and Family Relations Act	7231,5774,100
 Divorce. Responsibilities	12338
 Divorced	12383,3191,1328,19,29
@@ -729,6 +732,8 @@ Divorces	10812,1526,29,577,2112,543,3500,831
 Divorces Please	19930
 Divorces Present	19930
 Divorces Tables	12672
+Divorces and Adoption Certificates	20221
+Divorces and Adoption. Mandate	20221
 Divorces and Deaths	18474
 Divorces and Nullifications	12944
 Divorciado	10777
@@ -790,7 +795,7 @@ Econet InfraCo Mrs Tracy Mpofu Divyajeet	4896
 Econet Shares Trade Ex Dividend	4896
 Economic Activity Division	16916
 Economic Cooperation and Regional Integration Division	13880,56
-Economic Diversification	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Economic Diversification	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 Economic Diversification Equality	10835,3,130,902,16,466,1,135,7334
 Economic Diversification Forum	17101
 Economic Diversification Initiative	2508,14488
@@ -918,12 +923,14 @@ Gender Division of Cabinet	13332
 Gender and Diversity	18125
 General Administration Division	16963
 General Division	13619
+General Division of Digital Economy and Technology	20122
 General Economics Division	11156
 General de División	4209
 Geographic Information Systems Division	17170
 Global AI Divide	4734
 Global Digital Divide Sudan	15253
 Global Diversity	7418
+Global Infrastructure Division URL	20170
 Global Network Division	5664
 Good Governance The Social Integration Division	14835
 Gov Division	4566
@@ -1017,7 +1024,7 @@ I'onnonceur. TITRE VII DES DISPOSITIONS DIVERSES	15397
 IAI's Space Division	12078
 ICT Data and Analytics Division	11424,2674,1373,2272
 ICT Data and Statistics Division	961
-ICT Division	962,8718,7283,7
+ICT Division	962,8718,7283,7,3113
 ICT Division. Accessed	5700
 ICT and Economic Diversification	12529
 ICT. Women Dietary Diversity Overall	17127
@@ -1349,7 +1356,7 @@ Public Financial Management Reform Division PIM	18500
 Public Investments Division	19934
 Public Prosecutions Division	587
 Public Relations Division	14007
-Public Service Management Division	3088
+Public Service Management Division	3088,17032
 Public Service Management Division SADC Southern	13345
 Public Service Management Division Southern African	12453
 Public and Vested Land Management Division SMD	15657
@@ -1377,7 +1384,7 @@ Reform and Modernization Division	17011
 Refugees Division	18437
 Reg. Division	13189
 Regional Integration Division	10634
-Regional Integration Economic Diversification Business	10837,1315,188,7598
+Regional Integration Economic Diversification Business	10837,1315,188,7598,274
 Regional Integration and Trade Division	10819
 Register of Divorces	18440
 Registration Division	13189,5776
@@ -1567,6 +1574,7 @@ Understanding the Digital Divide. Paris	6832
 Une Division	15569
 Unemployment Hardship Relief Division	14721
 United Kingdom FDD Fiscal Decentralization Division	18488,89
+United Nation Population Division. World	20219
 United Nations Population Division	10881,4015,3881,32
 United Nations Population Division's World Population	18777
 United Nations Population Division. Review	11572

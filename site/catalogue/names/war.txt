@@ -215,7 +215,7 @@ Impact Based Forecasting and Early Warning Systems	13201
 Importers and Exporters AEO SAQ Bonded Warehouse	12454
 Improve the Data Warehouse Facilities	17011
 Improve the Data Warehouse Facilities Integration	17011
-Improvement Slowing Deterioration Warning Signs Increasing	10759,76,3,130,902,16,466,1,135,7334,116
+Improvement Slowing Deterioration Warning Signs Increasing	10759,76,3,130,902,16,466,1,135,7334,116,274
 Indian Ocean Tsunami Warning and Mitigation System	14732
 Indicator WARCIP West African Regional Communications	1000
 Information Warfare	1000,785,1417,3881
@@ -358,7 +358,7 @@ Presidential and Parliamentary Elections. E. Public Warning	19737
 Proceedings of Ward Development Commkitmtee	19525
 Program WARDIP West Africa Regional Digital	17862
 Programme WARDIP Guinée	16715
-Project Coordinator of WARDIP	4359
+Project Coordinator of WARDIP	4359,15857
 Projecto WARDIP Guiné-Bissau	11542
 Projecto WARDIP Guiné-Bissau Componente	11542
 Projecto WARDIP Guiné-Bissau Estado. O Artigo	11542
@@ -436,7 +436,7 @@ Support WARDIP-F-	17219
 Support WARDIP-F-001-2024-SED	17219
 Support WARDIP-NCS-001-2024	17219
 TREND Increasing Improvement Slowing Improvement Warning	10759
-TREND Increasing Improvement Warning Signs Slowing	10837,1503,7598
+TREND Increasing Improvement Warning Signs Slowing	10837,1503,7598,274
 Takuma Ward	14394
 Telecoms Early Warning for All	17070
 Temporary Customs Warehouse	15492
@@ -451,7 +451,7 @@ Trade Ministry Warns Importers To Adhere	18516
 Treatment of Prisoners of War	14742
 Trend Increasing Improvement Slowing Improvement Warning	10759
 Trend Warning Signs	12341
-Trend Warning Signs Slowing Improvement Increasing	10837,1503,7598
+Trend Warning Signs Slowing Improvement Increasing	10837,1503,7598,274
 Trend Warning Signs Social Protection	12341
 Tug of War	13044
 U.S. Department of War	5287
@@ -501,7 +501,7 @@ WARCIP and RCIP	15424
 WARCIP-era	4436
 WARD COMMITTEES	18467
 WARD-C	18476
-WARDIP	1175,2,1,1,1,1,1,82,1034,373,1688,76,927,33,5,350,233,286,79,74,101,387,1066,1,579,870,231,189,1038,658,3,7,3,14,4256,319,57,725,10,102,33,1,5,8,14,15,91,13,1,68,1,92,6,26,490,40,21,21,23,497,664,77,766
+WARDIP	1175,2,1,1,1,1,1,82,1034,373,1688,76,927,33,5,350,233,286,79,74,101,387,1066,1,579,870,231,189,1038,658,3,7,3,14,4256,319,57,725,10,102,33,1,5,8,14,15,91,13,1,68,1,92,6,26,490,40,21,21,23,497,664,77,766,210
 WARDIP Digital Transformation for Africa	1264
 WARDIP Guine-Bissau	11555
 WARDIP Guiné-Bissau	9846,7438
@@ -723,7 +723,7 @@ Warning Signs	11887,1,1,264,1,9,178,7311,1,205,1,65,15
 Warning Signs Absence of Forced Migration	12352
 Warning Signs Bouncing Back Slowing Deterioration	10759
 Warning Signs Increasing Deterioration	10835,3,130,902,16,466,1,135,7334
-Warning Signs Score	10837,1315,188,7598
+Warning Signs Score	10837,1315,188,7598,274
 Warning Signs. African	12163
 Warning Signs. Women's Equality	11888
 Warning Signs. Yearly Overall Governance	11888

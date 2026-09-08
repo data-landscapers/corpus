@@ -161,7 +161,7 @@ Card Verification Values	6848
 Card and Lamination Process Decree D	19984
 Card and PIN Personalization	14032
 Card and Visa	11955
-Card-based	15023
+Card-based	15023,5169
 Card-based Automated Teller Machine	11134
 Card-based PoS and ATM	11131
 Card-tied	8182
@@ -221,7 +221,7 @@ Cardorelle	16177
 Cardoso	2397,444,891,15091
 Cardoza	12948
 Cardozo Arts Entertain Law J	17773
-Cards	1655,1117,4149,5034,455,505,69,2535,1716,2632,62,11
+Cards	1655,1117,4149,5034,455,505,69,2535,1716,2632,62,11,281
 Cards Issued	16374
 Cards Prepaid Cards Mobile Money Subscribers	6978
 Cards Printed	16374
@@ -309,7 +309,8 @@ ECOWAS Brown Card Insurance Scheme	14679
 ECOWAS ID Card	1655,16816
 ECOWAS IDENTITY CARD	18287
 ECOWAS National Biometric Cards	17221
-ECOWAS National Biometric Identity Card	4102,6807,1106,5159,47,2769
+ECOWAS National Biometric Identity Card	4102,6807,1106,5159,47,2769,231
+ECOWAS National Identity Card	20238
 ECOWAS and Non-National Identity Cards for Sierra Leoneans	18471
 EDSON ARI CARDOSO SIMÕES	10751
 ELECTRONIC ID CARD DESIGN	12165
@@ -331,6 +332,7 @@ Eminence Polycarp Cardinal Pengo	19602
 Enabling the Processing of MOSOLO Card Transactions	11994
 Equal Opportunities Card	18305
 Equal Opportunity Card	18359
+Equb ID Card	20175
 Establishing the National Identification Card System	16841
 Eswatini National Identity Card	12404
 External Evaluation JKCI Jakaya Kikwete Cardiac	19544
@@ -387,7 +389,7 @@ Ghana Card. The Ghana Card	19935
 Ghana Card. The NIA	5999
 Ghana Card. The NIS	15430
 Ghana Card. Things	5473
-Ghana Cards	2689,878,1,3,181,1872,678,797,218,383,2141,574,667,4440,301,715,3397
+Ghana Cards	2689,878,1,3,181,1872,678,797,218,383,2141,574,667,4440,301,715,3397,244
 Ghana Cards. Instead	7700
 Ghana Cards. The Authority	7165
 Ghana. The Ghana Card	19935,1
@@ -402,13 +404,16 @@ Guinean Identity Card	19984
 Guyana Identification Card No N	10714
 HESTSLATIVE AND STATUTORY APFAIRS CARDYNDEX DERMEEE	15999
 Haiti Honduras Biometric Identity Card	10714
-Health Insurance Card	10714
+Health Cards. World Bank	20221
+Health Insurance Card	10714,9461,46
 Higino Cardoso	11561
 Hypertension Cardio Pul-	12151
 Hypertension and Cardiovascular	12151
+I.D. Card	20213
 ICPS Ghana Digital National ID Card	84
-ID Card	4696,6018,4027,11,38,4254
+ID Card	4696,6018,4027,11,38,4254,1177
 ID Card Act	19040
+ID Card Holders	20221
 ID Card Jun	10714
 ID Card Licences Passport Bank	10819
 ID Card No N	10714
@@ -456,6 +461,7 @@ Identity Cards. All	5609
 Identity Cards. Presently	10775
 Identity Module Card SMART Specific Measurable	11857
 Identity Yes Electronic ID Card	10714
+Idir ID Card	20175
 Implications of SIM Card Registration ID-verified	4439
 Including Java Card	12834
 Individual Number Card	10714
@@ -463,7 +469,7 @@ Infections Cardio Pul- Cardiorespirato- Cardiopulmo-	12151
 Infections Infections Cardio Pul-	12151
 Instruments Card	12000
 Insuficiência Cardíaca Congénita	18757
-Insurance Cards	19699
+Insurance Cards	19699,522
 Integrated Civil Registration and Integrated Identity Card	10775
 Integrated ID Card	10765,10
 Integrated Service Cards	15663
@@ -495,6 +501,7 @@ LEGISLATIFE KID STATUTORY APFAIRS CARD	15999
 LEGISLATIVE ANDd SYATUTO AIRS CARD	15485
 Lagos State Resident Identity Card	12050
 Late Cardinal Pengo	19602
+Launches Visa Card	20183
 Le Cardinal Parolin	13405
 Libya Personal Card No N	10714
 Line of Business Card	11955
@@ -542,6 +549,7 @@ Mr. Olayemi Cardoso	2287
 Mr. Olayemi Cardoso Governor	4848
 Mukuru Card	10303
 Mukuru Companion Card	10418
+Multi Finger Scanner and Biometric ID Card	20221
 Multi-Currency Prepaid Virtual Card	3951
 Multipurpose ID Cards	18471
 Municipal Card	10765,10
@@ -579,8 +587,9 @@ National Citizen Identity Card for Civil Identification	10775
 National Citizens Identification Cards	17207
 National Disability Cards	17586
 National Electronic Identity Card	1780
-National ID Card	1920,199,886,234,169,7306,98,1063,2,208,132,4668,38,26,34,1469
+National ID Card	1920,199,886,234,169,7306,98,1063,2,208,132,4668,38,26,34,1469,1769
 National ID Card Aug	10714
+National ID Card Framework	20221
 National ID Card Morocco No N	10714
 National ID Card No N	10714
 National ID Card Rollout Continues	5475
@@ -661,6 +670,7 @@ OETR STIVÉ AND-STATUTORY AFFAIRS CARD INDEX	15999
 ORIGINAL IDENTITY CARD	14740
 Obtain Seychelles Virtual ID Card	19041
 Obtain the National Identity Card	19921
+Obtaining the Card	20121
 Olayemi Cardoso	2397,3483,3106
 Olayemi Cardoso. Nigeria	3732
 Oman Omani ID Card Yes N	10714
@@ -737,8 +747,10 @@ REPUBLIC OF MAURITIUS NATIONAL IDENTITY CARD	14740
 RISLATIVEANT STATUITORY AFFAIRS CARD INDEX SR	15530
 ROW Right of Way SIM Card Subscriber	11857
 Rare Disease Patient Card	10188
+Ration Card By Al-Masry Al-Youm	20121
 Ration Cards	15663
 Receipt Replacing National Identity Cards	15415
+Receive the Unified Card Cards	20121
 Receiving National ID Card	10521
 Red Card	2695,6198
 Redesign Planter’s Cards	14818
@@ -826,7 +838,7 @@ Simultaneous Issuance of NRCs and Voter's Card Committee	12415
 Smart Card	13005
 Smart Card Card Possession	13095
 Smart Card Standards	13005
-Smart Cards	15519
+Smart Cards	15519,4702
 Smart Civil Status Card Yes Sanad	10714
 Smart ID Card	2115,1085,2126,2005,238,3145,504
 Smart ID Card. Every	10185
@@ -869,6 +881,7 @@ USING A CREDIT CARD INFORMAL	10977
 USING BANK CARDS AND REVOKES NOTICE	12860
 UTUR' AFFAIRS CARD In Fi G	15999
 Understanding NICA National Identity Cards Act	12663
+Unified Card	20121
 Unified Government Services Card	6631
 Unique Biometric Identity Cards	18471
 University of South Africa. Cardno	7278
@@ -907,7 +920,7 @@ White PVC Cards	11955
 White RFID Plastic Cards	11955
 Year the Ghana Card and Ghana	10822
 Yei Residents Begins Collecting Nationality Cards	18726
-Yellow Card	7656,787,708,160,398,194,52,200,4,6,1654,1744
+Yellow Card	7656,787,708,160,398,194,52,200,4,6,1654,1744,6535
 Yellow Card App	7968
 Yellow Card The COMESA Yellow	13563
 Yellow Card The Next Constraint	9903
@@ -919,5 +932,6 @@ Yellow Card’s Chris Maurice	9903
 Yellow Card’s Group Head of Policy and Senior	9311
 Yes. The Ghana Card	19935
 Zambia National Registration Card	13477
+Zambia and Uganda. CardinalStone Finance	16785
 Zanzibar Registration and Identity Cards Office. Operating	11133
 Zimbabwe Identity Cards	12496

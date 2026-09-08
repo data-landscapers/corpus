@@ -42,7 +42,7 @@ B.M MUNG'ATA	7167
 BOMET MUNICIPALITY Data Controller INST-518030225D2 BOMET	7167
 Baidoa Municipality	15073
 Banco Mundia	11390
-Banco Mundial	574,221,381,92,433,247,633,235,711,31,31,249,598,1285,548,156,1241,37,33,56,89,64,103,3,543,181,52,52,679,1,135,152,63,848,1,2,9,8,601,1,11,4,12,7,10,3,14,1,1,2,4,3,5,26,49,11,13,14,5,324,65,16,42,756,37,7,14,1365,112,1,1,1162,28,395,1,159,8,43,158,630,114,62,11,4,4,93,19,13,194,1355,1,4,7,2,12,1,2,2,7,19,17,12,5,13
+Banco Mundial	574,221,381,92,433,247,633,235,711,31,31,249,598,1285,548,156,1241,37,33,56,89,64,103,3,543,181,52,52,679,1,135,152,63,848,1,2,9,8,601,1,11,4,12,7,10,3,14,1,1,2,4,3,5,26,49,11,13,14,5,324,65,16,42,756,37,7,14,1365,112,1,1,1162,28,395,1,159,8,43,158,630,114,62,11,4,4,93,19,13,194,1355,1,4,7,2,12,1,2,2,7,19,17,12,5,13,1217,49
 Banco Mundial CACS Conselhos Municipais de Auscultação	11390
 Banco Mundial CAE	18794
 Banco Mundial Comunidade	11569
@@ -107,6 +107,7 @@ Cape Coast for Municipal Assemblies	16524
 Cape Town's Municipal Planning Tribunal	8915
 Cartão de Munícipe	10775,650
 Central BM Banco Mundial BVMAC Bolsa	16898
+Chairperson Mary Wambui Mungai URL	20189
 Charles Munyaneza. Preparations	12372
 Chido Munyati	5440
 Chido Munyati Head of Africa	5440
@@ -197,7 +198,7 @@ Effutu Municipality	19981
 Ehlanzeni District Municipality	11343
 Ekurhuleni Metropolitan Municipality	9129,2214
 Ekurhuleni Municipality	9129
-Electronic Municipalities	2124,17776
+Electronic Municipalities	19900
 Electronic Municipality	19900
 Elelwani Mundalamo	12868
 Encarregados de Educação BM Banco Mundial CICL	11557
@@ -236,7 +237,7 @@ Germany’s GTZ Municipality of Tripoli Centre	5948
 Gestor Municipal	10754
 Ggombe Kasim Munyegera	14997
 Gishali Kayonza Munyiginya Boneza Sovu Kinyinya	12413
-Grupo Banco Mundial	6269,3289,1836,50,454,4161,51,24,65,52,1175,1353
+Grupo Banco Mundial	6269,3289,1836,50,454,4161,51,24,65,52,1175,1353,1309
 Grupo Banco Mundial URL	17426
 Grupos Técnicos Municipais	11421,25,131
 Hessequa Municipality	11251
@@ -256,7 +257,7 @@ INTERIOR LOCALES LIBRE MUNICIPALES URBANOS SERVICIOS	4209
 Ilemela Municipal	19585
 Imagem da Câmara Municipal	15978
 Immune Deficiency Syndrome AMICAALL Alliance of Municipal	12970
-Implementation of Electronic Municipalities	2124,17776
+Implementation of Electronic Municipalities	19900
 Implementação da Toponímia Municipal	16380
 Imunização GOARN Rede Mundial de Alerta	11376
 Index Mundi	12786
@@ -312,7 +313,7 @@ Leopold Munhende NETONE	8419
 Libya Municipality of Tripoli Centre	5948
 Limpopo Municipalities	7759
 Limpopo's Vhembe District Municipality	8029
-Lucine Munkyung Park	16876,194
+Lucine Munkyung Park	16876,194,3151
 Lusa Mundo	4938
 M. Laurent Munzemba	4893
 M. Tanvir Muntasim Senior Education Specialist	11916
@@ -353,6 +354,7 @@ Mariental Mariental Municipality Aimablaagte Anglican Church	13046
 Marshall Munetsi	5733
 Martin Luther Munu	12333
 Mary Mungai	6946
+Mary Wambui Mungai	20189
 Masaka Munyaga Mageregere Rubona Kabare R	12413
 Matjhabeng Local Municipality	7587
 Mayor of Swakopmund Municipality	13118
@@ -411,7 +413,7 @@ Munene	8549,6580
 Munga MA	19974
 Munga'tu JK	19974
 Mungadze	2117
-Mungai	226
+Mungai	226,19875,88
 Mungai M	12231
 Mungo	10975,4567
 Mungo Fall	10975
@@ -529,7 +531,7 @@ Municipal and District Chief Executives	15927,669
 Municipal and District Councils	14721,25,4999
 Municipal and Metropolitan Assembly	11
 Municipales	16903
-Municipalities	427,362,1335,3824,998,1067,363,2389,10,95,345,16,624,35,51,45,397,16,2339,151,108,593,11,1013,238,653,788,77,106,1239,185
+Municipalities	427,362,5159,998,1067,363,2389,10,95,345,16,624,35,51,45,397,16,2339,151,108,593,11,1013,238,653,788,77,106,1239,185
 Municipalities Environmental and Social	17114
 Municipalities and Area Councils	16951
 Municipalities and District Councils	14836
@@ -573,6 +575,7 @@ Município	4044,7322,7,36,12,25,131,324,3479,8
 Município Cor da Placa	11373
 Município Entre	4044
 Município de Pequim	11045
+Município de Talatona	20086
 Municípios	1808,8964,3,598,36,105,63,324,3487,52,10,26,446,78,22,465
 Municípios Aos	11527
 Municípios Cabo-verdianos	15535
@@ -856,3 +859,4 @@ Willard Munyoka	2093
 Willard Munyoka and Prof. Armstrong Kadyamatimba	2093
 Y MUNICIPALES	4209
 Yendi Municipality	19974
+ZICTA Board Chairperson Prof. Mundia Muya	20211

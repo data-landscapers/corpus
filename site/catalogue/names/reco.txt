@@ -43,7 +43,7 @@ Absence of Recognition	12246
 Abstract Electronic Health Records	11990
 Accelerated Health and Education Recovery Program Launch	15244
 Accelerated Recovery Framework	7760,11421
-Accessibility of Public Records	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Accessibility of Public Records	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 Accessible Record	12185
 Account Recovery	13037
 Accreditation Ceremony Reflects Official Recognition	13816
@@ -458,7 +458,7 @@ Disaster Recovery Test Tier	10721
 Disaster Recovery and Business Continuity	16924
 Disaster Recovery and Business Continuity Plans	4610
 Disaster Reduction and Recovery Government of Angola	10763
-Disclosure of Public Records	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Disclosure of Public Records	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 Discrepancies Between WEZESHA Portal and Manual Records	19585
 Discussion and Recommendations	4439
 Disposal of Obsolete Records	13398
@@ -538,7 +538,7 @@ Electronic Health Record System Actually	5911
 Electronic Health Records	2477,471,1353,8207,630,2273,1657,2339
 Electronic Health Records R&D	15713
 Electronic Health Records Systems	12581,5897
-Electronic Medical Record	3972,3794,3486,21,707,260,139,227,5744,9,1308
+Electronic Medical Record	3972,3794,3486,21,707,260,139,227,5744,9,1308,414
 Electronic Medical Record FS	11252
 Electronic Medical Record Innovation Challenge	17711
 Electronic Medical Record Management System	3604
@@ -592,6 +592,7 @@ European Bank for Reconstruction and Development	1596,2856,14,1,183,13,270,566,4
 European Bank for Reconstruction and Development. Digital	9632
 European Criminal Records Information System	10979
 Evidências Recomendações	15966
+Excellency President Adama Barrow's Recovery-Focused	20225
 Executive Summary Policy Implications and Recommendations	11138
 Executive Summary and Table of Recommendations	12540
 Expanding Employment Pathways and Skills Recognition	14576
@@ -619,6 +620,7 @@ FUND RECOVERY NOTICE	16844
 FURTHER RECOGNIZING	4153,14,35,15,43,89,1003
 FURnIER RECOGNIZING	4301
 Face Recognition	767,15139
+Face Recognition System	20221
 Facial Recognition	4292,1050,10483
 Facial Recognition Egypt	9827
 Facial Recognition Kenya	6866
@@ -741,6 +743,7 @@ I.3. Recommandations	15936
 IBRD International Bank for Reconstruction and Development	11390,8457
 ICT Business Continuity and Disaster Recovery	19576
 ICT Disaster Recovery	19639
+ID Recognition	20221
 IDA Recommitted	12388,4534
 IDENTITY REGIMES Recognising	1243
 IDP Law. Recognizing	15224
@@ -790,6 +793,7 @@ Implementation of Previous EU EOM Recommendations4 Following	12201
 Implementation of Recommendations	17367
 Implementation of Recommendations Effective	17367
 Implementação da Recomendação da UNESCO	2816
+Implementing UNESCO's Recommendation	20184
 Implementing UNESCO’s Recommendation	15618
 Inadequate Disaster Recovery Site Separation and Resilience	19584
 Inadequate Recovery Plan	19585
@@ -1048,6 +1052,7 @@ National Economic Recovery Plan	12081,974,5,62
 National Economic Recovery Program	19642
 National Electronic Medical Record Beta Implementation	11980
 National Fintech Recognition of Prior Learning	14819
+National Health Insurance Fund. Reconciliation	20077
 National Intranet Portal and Disaster Recovery	16872
 National Land Registry and Land Records System	18619
 National Land Transport Authority Recovery Act	7845
@@ -1057,7 +1062,7 @@ National Peace and Reconciliation Commission	970,12531,3469
 National Plan for Recovery and Peacebuilding	969
 National Program for Economic Stability and Recovery	9685
 National Recommendations Tracking Database	17934
-National Reconciliation	15658
+National Reconciliation	15658,4563
 National Reconciliation Roadmap	16970
 National Records	19801
 National Records Service	16858
@@ -1124,6 +1129,7 @@ PAD5163 INTERNATIONAL BANK FOR RECONSTRUCTION	19855
 PADHI00535 INTERNATIONAL BANK FOR RECONSTRUCTION	10768
 PADHI01184 INTERNATIONAL BANK FOR RECONSTRUCTION	6539
 PADHI01209 INTERNATIONAL BANK FOR RECONSTRUCTION	11417
+PAPSSCARD. Recognising	20203
 PART II. VALIDITY OF ELECTRONIC RECORDS	16832
 PART III Finality of Settlements Within Recognised	12528
 PART IX PAYMENT AND RECOVERY	19527
@@ -1414,6 +1420,7 @@ RESILIENCE AND RECOVERY PROJECT	18809
 RESTORATION OR RECONSTRUCTION OF CIVIL	12338
 RETURNS AND RECORDS Part A General	11181
 REVAMPING OF DIGITAL COURT RECORDING SYSTEM	14847
+RF-NDP Recovery	20217
 RIGHTS AND DUTIES OF RECOGNIZED REFUGEES	16830
 RIGHTS OF THE DATA SUBJECT RECOMMENDATIONS	14434
 RMAN Recovery Manager	13185
@@ -1488,7 +1495,7 @@ Recognized Cloud Computing Service Models and Deployment	16923
 Recognized RIR	3503
 Recognized for Fair Play THE LEADERSHIP	18576
 Recognizes	12964,1910,2240,26
-Recognizing	1212,52,1421,172,235,252,517,265,134,41,1118,21,333,52,607,89,21,70,237,1117,184,33,194,484,994,490,375,43,1,88,133,211,39,97,214,17,15,632,23,96,70,14,328,45,170,8,13,28,37,18,272,24,62,349,237,9,21,5,2,5,11,33,16,684,22,79,6,25,19,5,19,8,61,22,64,10,8,9,333,138,3,104,100,135,17,235,81,547,30,6,9,36,1,19,2,23,7,2,10,11,15,6,1,96,13,30,130,80,172,367,387,194,106,202,74,16,250,396,1,4,19,122,51,73,1,58,15,25,26
+Recognizing	1212,52,1421,172,235,252,517,265,134,41,1118,21,333,52,607,89,21,70,237,1117,184,33,194,484,994,490,375,43,1,88,133,211,39,97,214,17,15,632,23,96,70,14,328,45,170,8,13,28,37,18,272,24,62,349,237,9,21,5,2,5,11,33,16,684,22,79,6,25,19,5,19,8,61,22,64,10,8,9,333,138,3,104,100,135,17,235,81,547,30,6,9,36,1,19,2,23,7,2,10,11,15,6,1,96,13,30,130,80,172,367,387,194,106,202,74,16,250,396,1,4,19,122,51,73,1,58,15,25,26,297
 Recognizing AI	6948
 Recognizing BAM	17503
 Recognizing Congo	15553
@@ -1591,7 +1598,7 @@ Recommendation for Orange Corners	13358
 Recommendation for Orange Corners Innovation Fund	13358
 Recommendation. Chad	18930
 Recommendation. The Ghanaian	4126
-Recommendations	396,503,362,293,198,62,14,268,21,505,102,224,73,217,265,94,44,37,252,160,36,61,396,151,863,78,2,103,249,276,82,76,285,21,12,156,10,1,1,2,247,63,448,896,66,411,47,74,196,217,239,161,12,60,128,547,12,1,36,17,12,24,139,138,143,4,111,153,194,110,45,25,37,13,9,20,52,93,45,5,9,4,13,15,55,28,3,48,3,32,246,2,4,123,131,18,40,3,73,236,23,2,1,1,21,23,30,30,2,41,71,390,94,243,169,6,38,154,48,49,19,35,68,10,40,2,100,26,319,30,43,32,26,7,31,814,275,105,148,4,19,24,16,10,18,3,3,5,8,8,128,15,25,10,8,92,11,609,1,23,57,20,473,17,25,68,59,1,1,2,8,4,55,19,185,24,1,19,177,413,33,3,27,1,56,19,19,221,40,26
+Recommendations	396,503,362,293,198,62,14,268,21,505,102,224,73,217,265,94,44,37,252,160,36,61,396,151,863,78,2,103,249,276,82,76,285,21,12,156,10,1,1,2,247,63,448,896,66,411,47,74,196,217,239,161,12,60,128,547,12,1,36,17,12,24,139,138,143,4,111,153,194,110,45,25,37,13,9,20,52,93,45,5,9,4,13,15,55,28,3,48,3,32,246,2,4,123,131,18,40,3,73,236,23,2,1,1,21,23,30,30,2,41,71,390,94,243,169,6,38,154,48,49,19,35,68,10,40,2,100,26,319,30,43,32,26,7,31,814,275,105,148,4,19,24,16,10,18,3,3,5,8,8,128,15,25,10,8,92,11,609,1,23,57,20,473,17,25,68,59,1,1,2,8,4,55,19,185,24,1,19,177,413,33,3,27,1,56,19,19,221,40,26,253,2,3
 Recommendations Adaptive	10763
 Recommendations Africa	6938
 Recommendations Agricultural Land Protection	17157
@@ -1832,7 +1839,7 @@ Reconstruction du CNDIFE	17845
 Reconstruction du Nord	17827
 Reconstruction of Tinkhundla Centres	12970
 Reconstruction of Tinkhundla Centres X512	12970
-Reconstrução	11390,50,4452,2887
+Reconstrução	11390,50,4452,2887,1358
 Reconversion	15583
 Reconversion Ecole	19221
 Reconversão	11373
@@ -1921,7 +1928,7 @@ Recordkeeping	18556
 Recordkeeping and Archival Requirements	3861
 Recordlinkagefor	8606
 Recordou	5150,10832
-Records	771,199,278,85,141,304,210,1142,537,194,46,438,667,963,216,749,45,1619,1,311,321,613,5,957,167,874,7,354,3,36,72,31,3,54,43,74,1,120,3,323,273,131,660,505,19,163,2,124,26,9,18,1,27,62,159,745,243,688,282,129,6,1121,89,19,123,1,323,134,155,371,43,39,19,88,113,33,108
+Records	771,199,278,85,141,304,210,1142,537,194,46,438,667,963,216,749,45,1619,1,311,321,613,5,957,167,874,7,354,3,36,72,31,3,54,43,74,1,120,3,323,273,131,660,505,19,163,2,124,26,9,18,1,27,62,159,745,243,688,282,129,6,1121,89,19,123,1,323,134,155,371,43,39,19,88,113,33,108,193
 Records Activity	18481
 Records All CPD	13381
 Records Authority TGDC	19584
@@ -2018,7 +2025,8 @@ Recovery Data	11138
 Recovery Development Policy Financing Project	11918
 Recovery Devices	14921
 Recovery Focused	17238
-Recovery Focused National Development Plan	16924,20,7,154,123
+Recovery Focused National Development Plan	16924,20,7,154,123,2996
+Recovery Focused-National Development Plan	20224
 Recovery ICAO International Civil Aviation Organization	13729
 Recovery Objectives	6432
 Recovery Of Economic Activity For Liberian	17311
@@ -2068,7 +2076,7 @@ Recovery of Tax	19527
 Recovery of Tax Due	17108
 Recovery of Unpaid Tax	12629
 Recovery of VAT	12630
-Recovery-Focused National Development Plan	9727,111,7089,46,132,19,123
+Recovery-Focused National Development Plan	9727,111,7089,46,132,19,123,2970
 Recovery-focused National Development Plan	1714
 Recovery-focused National Development Plan. Stakeholders	1714
 Recovery. Available	17870
@@ -2155,6 +2163,7 @@ Scheme of Reconstruction	4896,8477
 Scheme of Reconstruction Agreement	4360
 Scheme of Reconstruction Disclosure	4896
 Scholarship Recovery Project	12922
+Scientific and Cultural Organization Recommendation	20224
 Search for Historical National Registration Card Records	10347
 Second Resilient and Equitable Recovery Development Policy	15983
 Section de Recouvrement	14462
@@ -2227,6 +2236,7 @@ Sudatel Group Delivers Record FY2025 Results	15284
 Summarised Recommendations	12435
 Summary and Recommendations	15845
 Summary and Recommendations Main Findings	13957
+Summary of Challenges and Recommendations	20221
 Summary of Key Findings and Recommendations	13382
 Summary of Quick Win Recommendations DEVELOPMENT TYPE	16942
 Summary of Recommendations	12182,32,767,1006,910

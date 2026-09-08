@@ -43,6 +43,7 @@ Did the GPE	11916
 Domestic Product GPO Global Professional Organization	15023
 Domestic Product GPS Global Positioning System	16867
 E GP Payroll and Human Resources	18488
+ECD GPI	20217
 EDGE and GPRS	1284
 EMIS A GPE KIX-funded	17185
 ERP Enterprise Resource Planning GPPA Gambia	16923
@@ -203,7 +204,7 @@ GPI Both Male Female GPI	19542
 GPI Both Male Female GPI Sexes	19542
 GPI Both Male Female GPI Tanzania	19542
 GPI Both Sexes Male Female GPI	19542
-GPI Gender Parity Index	14916
+GPI Gender Parity Index	14916,5301
 GPI Gender Parity Index HDI Human	15604
 GPI Gender Parity Index ICT Information	13990
 GPI and Five- Year Age Groups	19542
@@ -377,6 +378,7 @@ NVIDIA H200 GPUs	7367
 NVIDIA's Blackwell GPU	3576
 NVIDIA’s. Every GPU	6667
 NW GP MP LP South Africa	11192
+Norad and GPE KIX	20215
 Nutrition and Population GPs. During the COVID-19	11924
 Nvidia B300 GPUs	5482
 Nvidia GPU Market	14673

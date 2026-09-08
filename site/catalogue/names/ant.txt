@@ -45,12 +45,12 @@ ANTI-ALOPECIQUES ET ANTI-SEBORRHEIQUES ACIDE TRETINOIQUE	15930
 ANTI-ANEMIQUES ACIDE FOLIQUE CYANOCOBALAMINE FEREDETATE	15930
 ANTI-AVOIDANCE PROVISIONS	14717
 ANTI-COMPETITIVE CONDUCT	11240
-ANTI-CORRUPTION	10759,76,2,1,130,902,16,2,1,263,1,10,177,1,11,1,135,7164,1,183,22,1,65,14,1,48
+ANTI-CORRUPTION	10759,76,2,1,130,902,16,2,1,263,1,10,177,1,11,1,135,7164,1,183,22,1,65,14,1,48,225
 ANTI-CORRUPTION ACCOUNTABILITY SUSTAINABLE BUSINESS	12353
-ANTI-CORRUPTION Anti-Corruption Mechanisms	10759,78,1052,451,7598
+ANTI-CORRUPTION Anti-Corruption Mechanisms	10759,78,1052,451,7598,274
 ANTI-CORRUPTION HEALTH	10838,1032
 ANTI-CORRUPTION HEALTH Rank	10838
-ANTI-CORRUPTION Rank	10759,78,131,902,16,454,12,136,7334,116
+ANTI-CORRUPTION Rank	10759,78,131,902,16,454,12,136,7334,116,274
 ANTI-CORRUPTION Shipping	10835,3,130,902,16,466,1,135,7334
 ANTI-MONEY LAUNDERING	14809
 ANTI-MONEY LAUNDERING AND COMBATING TERRORISM FINANCING	4633,6646
@@ -60,12 +60,13 @@ ANTI-OESTROGENES ACETATE DE MEGESTROL TIBOLONE ANASTROZOLE	15930
 ANTI-THYROIDIENS CARBIMAZOLE BENZYLTHIOURACILE OESTROGENES	15930
 ANTIBIOTIQUE	13300
 ANTIBIOTIQUES ANTIBIOTIQUES COMPRIMÉS	13300
-ANTIC	1592,1103,963,327,225,9,304,170,10,61,1511,145,318,598,2280,754,596,30,14,4368,102,62,260,15,123,110,118,1,26,310,83
+ANTIC	1592,1103,963,327,225,9,304,170,10,61,1511,145,318,598,2280,754,596,30,14,4368,102,62,260,15,123,110,118,1,26,310,83,3504
 ANTIC Director General Prof. Ebot Ebot	4693,2045
 ANTIC Director General Professor Ebot Ebot	7336
 ANTIC Drives Push for Secure and Sovereign Internet	6738
 ANTIC's CIRT	4703
 ANTIC's Computer Emergency Response Team	15802
+ANTIC's Cybercrime Investigation Unit	20092
 ANTIC. Article	15378
 ANTIC. CHAPITRE III DISPOSITIONS DIVERSES ET	15378
 ANTIC. Ce	15378
@@ -301,7 +302,7 @@ Anthony Voscarides	2986
 Anthony and Mende	10742
 Anthony. The Consequences of Modernity. Cambridge	11138
 Anthrax	19520
-Anthropic	1636,207,973,1660,229,267,57,19,238,1,77,54,180,573,96,220,180,123,217,53,52,25,14,58,404,606,186,89,16,20,66,48,47,11,57,29,9,18,48,27,137,142,94,329,16,208,105,280,244,82,523,2411,1225,423,2693,1066
+Anthropic	1636,207,973,1660,229,267,57,19,238,1,77,54,180,573,96,220,180,123,217,53,52,25,14,58,404,606,186,89,16,20,66,48,47,11,57,29,9,18,48,27,137,142,94,329,16,208,105,280,244,82,523,2411,1225,423,2693,1066,1217
 Anthropic CEO Dario Amodei	9592
 Anthropic Claude	5226,85
 Anthropic Research	7151
@@ -339,6 +340,7 @@ Anthropologie des Pratiques Culturelles	19366
 Anthropologie du Changement Social	19366
 Anthropologie du Développement Durable	19366
 Anthropology	17114
+Anthropology and Folkloristics	20186
 Anthropometric	13385
 Anthropometry	13454,613,1180
 Anthropométrie	13300,5012
@@ -383,7 +385,7 @@ Anti-Bias National Datasets Analysis	12512
 Anti-Competitive Practice. CHAPTER VIII MANAGEMENT	18602
 Anti-Competitive Practices	16835
 Anti-Cor IDA	17180
-Anti-Corruption	1638,9121,76,2,1,74,56,902,16,1,1,1,27,237,1,9,178,11,1,135,499,2385,1665,102,2513,1,169,14,22,1,65,15,48
+Anti-Corruption	1638,9121,76,2,1,74,56,902,16,1,1,1,27,237,1,9,178,11,1,135,499,2385,1665,102,2513,1,169,14,22,1,65,15,48,234
 Anti-Corruption Act	3583,131,3492,1307,4446,518,3496,961,533,10,502
 Anti-Corruption Act No	13477
 Anti-Corruption Activities	17139
@@ -410,6 +412,7 @@ Anti-Corruption Committee	18797
 Anti-Corruption Court	17037
 Anti-Corruption Courts	13474
 Anti-Corruption Development Services Systems	11224
+Anti-Corruption Drive By Amos Harris	20149
 Anti-Corruption Fight	5910,491
 Anti-Corruption Guidelines	10829,1136,2947,2024,13,1249,1637,12
 Anti-Corruption Guidelines. Page	11855
@@ -419,7 +422,7 @@ Anti-Corruption Index Foreign Trade	5101,850
 Anti-Corruption Law	16972
 Anti-Corruption Laws of Mauritius	14766
 Anti-Corruption Measures	13685
-Anti-Corruption Mechanisms	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Anti-Corruption Mechanisms	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 Anti-Corruption Mechanisms Absence of Corruption	10837
 Anti-Corruption Mechanisms1	19822
 Anti-Corruption Participation	11889,452
@@ -469,6 +472,7 @@ Anti-Money Laundering The CBE Centre of Excellence	11134
 Anti-Money Laundering and Client Due Diligence	13314
 Anti-Money Laundering and Combating Financing of Terrorism	13961
 Anti-Money Laundering and Combating Terrorism Financing	4633
+Anti-Money Laundering and Combating of Terrorism Financing	20224
 Anti-Money Laundering and Combatting Financing of Terrorism	15023
 Anti-Money Laundering and Counter Financing of Terrorism	5131,9749,143
 Anti-Money Laundering and Counter Terrorist Financing	18599,103
@@ -499,6 +503,7 @@ Anti-competitive	6432,7134
 Anti-corruption	11285,71,2188,3595,1748
 Anti-corruption Action Plan	15372
 Anti-corruption and Integrity Management	11237
+Anti-corruption and Right	20071
 Anti-corruption& Risk	19735
 Anti-dumping	11524
 Anti-erosive	17114
@@ -515,7 +520,7 @@ Anti-retroviral	16951
 Anti-smuggling	8681,6304
 Anti-static	14921
 Anti-tailgating	19801
-Anti-theft	16966
+Anti-theft	16966,3257
 Anti-virus	19639
 AntiMoney Laundering	11136
 Antibio-	13300
@@ -855,6 +860,7 @@ Code. Anti-corruption	17114
 Colegio Nacional de La Antorcha	4209
 Comando Regional de Santo Antão	15503
 Comandos Regionais de Santo Antão	15503
+Comisión Anticorrupción	20095
 Commissioner-General Mr. Anthony Kwasi Sarpong	16254
 Commune Ankazoambo District Ambositra Commune Antoetra	14425
 Commune Antanimandry District Antsirabe II	14425
@@ -979,7 +985,7 @@ Estado Antiga	17147
 Estadístico Juan Antonio NDONG NSIBI	16962
 Etat. Antananarivo	14408,4
 Ethics and Anti- Total Corruption Commission	6946
-Ethics and Anti-Corruption Commission	2775,9338,2433
+Ethics and Anti-Corruption Commission	2775,9338,2433,5555,88
 Europe. Anthropic	9608
 European Anti-Fraud Office	18984,1
 Evelyne Vilhete Antonio de Carvalho	18823
@@ -1042,6 +1048,7 @@ General Anti-Avoidance Rule	17011
 Gestão de Eleições Legislativas Antecipadas	11561
 Ghana Anti-Corruption Coalition	7457
 Ghana Revenue Authority Commissioner-General Anthony Sarpong	9729
+Gilberto Antonio	20134
 Global Anti-Base Erosion	14839
 Global Anti-Scam Alliance	7476,5585
 Global Anti-Scam Alliance’s State of Scams	8711
@@ -1233,6 +1240,7 @@ MozART Mozambique Antiretroviral Treatment HIV Dados	966
 Mr. Anthony Varwen Ministry of Agriculture	16853
 Mr. Antoine George Mbaga	15415
 Mr. Antoine Sebera	15019
+Mr. Antonio	20134
 Mr. Odur Anthony	3005
 Mr. Opeka Anthony Sebit	18696
 Mário António	10614
@@ -1332,7 +1340,7 @@ President Felix Antoine Tshisekedi Tshilombo	5900
 President of Anthropic	1636
 Prevent Anti-Competitive Conduct Mitigating	17212
 Private Sector Public Perception of Anti-Corruption	10759
-Private Sector Public Perception of Anti-Corruption Rule	10837,1315,188,7598
+Private Sector Public Perception of Anti-Corruption Rule	10837,1315,188,7598,274
 Proceeds of Crime and Anti-Money Laundering	12297
 Proceeds of Crime and Anti-Money Laundering Act	8180,4117
 Processo de Concurso. Antes	18753
@@ -1345,7 +1353,7 @@ Prossy Mukisa and Anthony Odur	3005
 Prove Rani Group and Others Anti-Competitive Practices	10465
 Public Participation and Anti-Corruption Education	17037
 Public Perception of Accountability Anti-Corruption	10759,1130,265,9,178,7312
-Public Perception of Anti-Corruption	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Public Perception of Anti-Corruption	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 Public Perception of Anti-Corruption PARTICIPATION	10759,1395
 Public Perception of Anti-Corruption Rule of Law	11889,274,178,7312
 Pushes for Passage of Specialized Anti-Corruption Court	17037
@@ -1424,6 +1432,7 @@ Score Rank Anti-Corruption Mechanisms	19822
 Secretaria Adjunta de Antidrogas	4209
 Secretaria Adjunta de Antidrogas Servicio	4209
 Secretaria Titular de Antidrogas	4209
+Secretariat. Mr. Antonio	20134
 Secretary-General António Guterres	8143
 Secretário-Geral António Guterres	2816
 Security Anti-DDOS	6432
@@ -1465,7 +1474,7 @@ T Centre Antituberculeux	15711
 T83 PERTES SUR EXERCICES ANTERIEURS	17833
 TERMINAL PASSAGERS Antenna	17006
 TIENDA CUATRO Antenna	17006
-TRANSPARENCY ANTI-CORRUPTION RIGHTS INCLUSION	10837,1503,7598
+TRANSPARENCY ANTI-CORRUPTION RIGHTS INCLUSION	10837,1503,7598,274
 TRO Antibiotiques	13300
 Tech Anti-Monopoly and Accountability Agenda for Canada	5044
 Tech Industry Anthropic	9629
@@ -1479,7 +1488,7 @@ Tourism and Antiquities	9414
 TradeMark Africa and Port of Antwerp-Bruges International	10592
 Traitement Anti Rétroviraux TMN	15685
 Traitement Anti Rétroviraux TNN	15423
-Transparency Anti-Corruption Participation	10837,1315,188,7598
+Transparency Anti-Corruption Participation	10837,1315,188,7598,274
 Transparency Anti-Corruption Participation Rights Inclusion	10759
 Transparency and Anti-Corruption. Measure	19924
 Tratamento Antirretroviral	10777
@@ -1516,7 +1525,7 @@ Vanilson da Costa Silva Lúcia António Pascoal	10766
 Variance Antiretroviral	12977
 Victor Anthony	5267
 WELE NZAS SAN ANTONIO DE PALEA	4209
-Wildlife and Antiquities	19642
+Wildlife and Antiquities	19642,464
 Wingu Africa CEO Anton Volianskyi	2580
 Wingu Group CEO Anthony Voscarides. Wingu	2988
 Women Anti-Corruption Mechanisms Absence of Corruption	10759

@@ -47,7 +47,8 @@ Africa Credit Ratings Initiative	11356
 Africa Data Leadership Initiative	2118,665,3569,287,29
 Africa Growth Initiative	5440,4269
 Africa Growth Initiative Chido Munyati Chido	5440
-Africa Initiative	3162,22,1,938,402,1488,845,1112,2811,80,134,1432,1,635,98,319,1002,2248
+Africa Initiative	3162,22,1,938,402,1488,845,1112,2811,80,134,1432,1,635,98,319,1002,2248,3488
+Africa Initiative The Data Governance	20218
 Africa Initiative for Medical Access and Manufacturing	11468,1
 Africa Lions' Den Initiative	12376
 Africa Regional Initiatives	578
@@ -151,6 +152,7 @@ CP INIT	1294,1,1,766,2321
 CREWS Initiative	11420
 CSA-UNICEF Initiative	9843
 CSR Initiatives MRA	13053
+CURRENT DATA GOVERNANCE TRENDS AND INITIATIVES	20220
 Capacity Building Initiative for Transparency	11332
 Capacity Building Initiatives	5677,1269,10289,1095,175
 Capacity Building Initiatives Capacity	17235
@@ -227,6 +229,7 @@ Cross Border Initiative	9082
 Cross-Discipline Course Development Initiative	15713
 Crude Oil for Infrastructure Initiative	3583
 Current ICT Initiatives and Projects	14851
+Current Initiatives	20220
 Cutting Edge Domestic Data Centers Initiative	15713
 Cutting-edge Domestic Data Center Initiative	15713
 Cyber Information and Intelligence Sharing Initiative	14744
@@ -337,6 +340,7 @@ Digital REACH Initiative Roadmap	14434
 Digital Rights Lawyers Initiative	6770,406
 Digital School Initiative	12975,6143
 Digital Shield' Initiative	16505
+Digital Trade Acceleration Initiative	20224
 Digital Transformation Centres Initiative	9137
 Digital Transformation Initiative	2766
 Digital Villages Initiative	12740
@@ -365,6 +369,7 @@ EN DÉMEURANT OUVERTE AUX INITIATIVES RÉGIONALES	15624
 ENTITY INITIATIVE DESCRIPTION Bange Impulsa	16942
 EQUIPA INIC	18767
 ESDC Initiative	13636
+EU Global Gateway Initiative	20218
 EU Initiative	15001
 EU Policy and Regulation Initiative for Digital Africa	1264
 EU Team Europe Initiative	5235
@@ -714,7 +719,7 @@ Inictos	17441
 Inie N	9739
 Inigthhtsis Act	19526
 Inimfon Ekpenyong	9670
-Initial	29,356,2,286,29,34,163,193,41,90,654,8,103,108,1744,607,3,78,18,186,79,864,1,371,124,61,972,641,285,169,938,429,86,977,90,47,141,126,9,80,195,161,379,68,189,142,140,16,151,312,62,84,183,27,607,208,520,213,18,30,70,37,24,71,76,1,26,279,108,94,188,323,105,519,94,172,25,1,56,794,480,61,157,526,25,281,82
+Initial	29,356,2,286,29,34,163,193,41,90,654,8,103,108,1744,607,3,78,18,186,79,864,1,371,124,61,972,641,285,169,938,429,86,977,90,47,141,126,9,80,195,161,379,68,189,142,140,16,151,312,62,84,183,27,607,208,520,213,18,30,70,37,24,71,76,1,26,279,108,94,188,323,105,519,94,172,25,1,56,794,480,61,157,526,25,281,82,621
 Initial ANNEXURE	13037
 Initial Action Portfolio	17116
 Initial Administration and Support NB	13037
@@ -808,7 +813,7 @@ Initializing	11548,5626
 Initializing... Bienvenue	18363
 Initializing... ECOWAS	16594,786
 Initializing... Welcome	17221
-Initially	1246,15,144,444,264,644,346,680,349,72,359,113,220,30,51,517,206,503,502,346,695,574,372,838,372,64,797,2,3,7,54,23,110,169,2,1,20,427,277,34,47,61,3,211,9,43,9,22,73,6,535,307,113,27,60,2,41,334,196,443,327,162,6,542,48,668,773,3,48,53,52,141,73,576,110,649,100,44,428,170,178,69,37
+Initially	1246,15,144,444,264,644,346,680,349,72,359,113,220,30,51,517,206,503,502,346,695,574,372,838,372,64,797,2,3,7,54,23,110,169,2,1,20,427,277,34,47,61,3,211,9,43,9,22,73,6,535,307,113,27,60,2,41,334,196,443,327,162,6,542,48,668,773,3,48,53,52,141,73,576,110,649,100,44,428,170,178,69,37,383,68
 Initially EMIS	19635
 Initially the SRD	2307
 Initials	11276
@@ -831,7 +836,7 @@ Initiation Développement Data Design Agile Sécurité	19221
 Initiation of Amendments Any	13948
 Initiation of Criminal Cases	18595
 Initiation of Gridlock Resolution	12364
-Initiative	395,218,176,181,468,116,228,1706,116,106,34,127,236,19,43,132,619,119,56,230,70,188,1,34,52,376,157,14,183,413,353,755,326,277,293,673,617,50,213,395,10,156,69,17,114,3,676,8,122,388,116,170,49,12,287,379,58,89,148,41,191,27,5,123,80,34,288,20,7,111,111,68,3,152,30,193,121,3,171,32,33,8,8,46,36,27,107,1,2,10,123,53,43,146,27,67,180,110,152,2,70,178,14,26,67,54,6,84,12,18,8,201,126,104,228,42,3,194,33,8,11,16,7,49,1,124,34,3,51,2,1,22,14,5,65,11,5,4,8,21,9,3,61,280,77,184,48,145,164,12,13,171,149,30,62,38
+Initiative	395,218,176,181,468,116,228,1706,116,106,34,127,236,19,43,132,619,119,56,230,70,188,1,34,52,376,157,14,183,413,353,755,326,277,293,673,617,50,213,395,10,156,69,17,114,3,676,8,122,388,116,170,49,12,287,379,58,89,148,41,191,27,5,123,80,34,288,20,7,111,111,68,3,152,30,193,121,3,171,32,33,8,8,46,36,27,107,1,2,10,123,53,43,146,27,67,180,110,152,2,70,178,14,26,67,54,6,84,12,18,8,201,126,104,228,42,3,194,33,8,11,16,7,49,1,124,34,3,51,2,1,22,14,5,65,11,5,4,8,21,9,3,61,280,77,184,48,145,164,12,13,171,149,30,62,38,187,1,26,3
 Initiative Africaine	18972
 Initiative Africaine APAI	18926
 Initiative Another	12354
@@ -897,7 +902,7 @@ Initiative. Dr. Amina Msengwa Salum Kassim	19554
 Initiative. The BRI	16870
 Initiative.21	11964
 Initiative3	18931
-Initiatives	789,110,539,376,888,368,395,1301,478,1093,453,3,143,239,138,45,1,151,241,215,54,871,370,411,516,49,474,7,123,134,156,3,6,84,6,102,525,11,51,29,38,224,4,162,68,9,47,175,257,43,77,24,249,20,13,32,28,43,110,78,36,307,737,131,75,19,493,46,219,1,188,35,24,86,209,371,15,211,1,8,15,66,24,4,41,7,329,84,125,300,4,19,83,77,123,325,45,688,1,299,13,1,21,21,63,3,245,17,36,26
+Initiatives	789,110,539,376,888,368,395,1301,478,1093,453,3,143,239,138,45,1,151,241,215,54,871,370,411,516,49,474,7,123,134,156,3,6,84,6,102,525,11,51,29,38,224,4,162,68,9,47,175,257,43,77,24,249,20,13,32,28,43,110,78,36,307,737,131,75,19,493,46,219,1,188,35,24,86,209,371,15,211,1,8,15,66,24,4,41,7,329,84,125,300,4,19,83,77,123,325,45,688,1,299,13,1,21,21,63,3,245,17,36,26,257
 Initiatives Activities	17011
 Initiatives CAMPAIGN Co-investment Public	12512
 Initiatives CNDRA Center for National Documents and Records	16860
@@ -941,7 +946,7 @@ Join the Extractive Industries Transparency Initiative	3583
 Joint Initiative	1243,9911,2784
 Joint Initiative for Priority Skills Acquisition JOI	6832
 Joint Research Initiatives	12356,319
-Joint Statement Initiative	1243
+Joint Statement Initiative	1243,18981
 Jointly Implementing the Global Security Initiative	11154
 July. The Future Investment Initiative Institute	6368
 Justice VI.3.16 Initiative	13341
@@ -949,7 +954,7 @@ KEY POLICY INITIATIVES	7695
 Kantara Initiative	2318,6,103,20,74,20,25,48,44,62,5,53,41,1,3,50,41,11,18,4,70,1,8,154,105,18,126,31,163,119,78,69,141,37,21,280,185,78,145,55,254,225,32,106,45,60,43,101,181,78,116,183,19,70,19,178,5,104,1,149,7,16,43,210,294
 Kenya's Open Data Initiative	12214
 Kenyan AI and Awareness Initiative	7548
-Key Initiatives	13076,1490,1147
+Key Initiatives	13076,1490,1147,4508
 Key Initiatives and Support	10776
 Key PFM Reform Initiatives	15148
 Koneta Initiative and Paradigm Initiative	4042
@@ -1154,7 +1159,9 @@ Oxford Poverty and Human Development Initiative PAU	15244
 P20 Initiative	10822
 P6-21. Initiatives	12500
 PACD Initiative	16973
+PACESETTER Initiative	20191
 PARTIES IMPLIQUEES PREA DATE INITIALE TEMPS	14425
+PASSER DE LA JUXTAPOSITION DES INITIATIVES	20075
 PAYS INITIATIVES EN COURS BÉNIN	10711
 PME. Initiative	18013
 PROCEEDINGS ON BEHALF OF COMPANIES Initiation	3714
@@ -1431,6 +1438,7 @@ Targeted Rights Initiative	9082
 Tariq Ibnou Ziyad Initiative	8891
 Teacher Development Initial Teacher Education National	11241
 Team Europe Initiative	644,145,375,4354,6771,298,21,235,5615
+Team Europe Initiative Data Governance	20218
 Team Europe Initiative. Digital	970
 Team Europe Initiative. Further	789
 Team Europe Initiatives	644,145,181,3719,4709,1757,381,6922,49
@@ -1448,6 +1456,7 @@ Technology for Social Change and Development Initiative	11314
 Telkom Initial Submission	4732
 TheAfrica Information Society Initiative	12325
 Through Private Finance Initiatives	14965
+Through the PACESETTER Initiative	20191
 Timbuktoo Initiative	5073,3788
 Tourisme Initiative	13341
 Tourisme VI.3.15 Initiative	13341

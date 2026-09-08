@@ -341,8 +341,8 @@ Detailed Theory of Change Education Sector Plan	15604
 Detailed Urban Planning Plans	10930
 Detailed Workstream Reports	12935
 DetailedÂ	18887
-Detailing	10388,757,1255,7515
-Details	22,560,154,273,236,28,1,1,270,1,232,89,451,65,12,439,844,36,834,21,1,1,1,1,1,86,101,123,361,104,248,68,758,116,14,1883,1447,125,326,495,33,322,64,2,60,89,506,50,261,197,261,19,284,76,132,200,13,626,302,175,23,189,170,56,433,52,94,35,21,84,1,2,448,181,553,14,3,18,6,1,11,26,20,157,15,26,969,89,13,394,192,28,13,43,6,98,534,22,43,1,17,37,106,102
+Detailing	10388,757,1255,7515,234
+Details	22,560,154,273,236,28,1,1,270,1,232,89,451,65,12,439,844,36,834,21,1,1,1,1,1,86,101,123,361,104,248,68,758,116,14,1883,1447,125,326,495,33,322,64,2,60,89,506,50,261,197,261,19,284,76,132,200,13,626,302,175,23,189,170,56,433,52,94,35,21,84,1,2,448,181,553,14,3,18,6,1,11,26,20,157,15,26,969,89,13,394,192,28,13,43,6,98,534,22,43,1,17,37,106,102,387
 Details Aim A Feasibility Study	17028
 Details Application	8726
 Details Baseline Target Due	1818
@@ -427,14 +427,14 @@ Deteriorated	5679
 Deteriorating State of Internet Freedom	13313
 Deterioration	1828,9007,3,130,902,16,466,1,135,973,6124,237
 Deterioration Angola	10759
-Deterioration Bouncing Back Not Classified	10837,1503,7598
-Deterioration Bouncing Back Not Classified Between	19938
+Deterioration Bouncing Back Not Classified	10837,1503,7598,274
+Deterioration Bouncing Back Not Classified Between	19938,274
 Deterioration Characteristic Score	10759
 Deterioration Increasing Deterioration Not Classified	10759
 Deterioration Increasing Deterioration Not Classified Best	10759
-Deterioration No Change Not Classified	10759,76,3,130,918,466,1,135,7334,116
+Deterioration No Change Not Classified	10759,76,3,130,918,466,1,135,7334,116,274
 Deterioration No Change Not Classified FOUNDATIONS	10759
-Deterioration No Change Not Classified SECURITY	10837,1503,7598
+Deterioration No Change Not Classified SECURITY	10837,1503,7598,274
 Deterioration Overall Governance	10968,902
 Deterioration of Constructed Structures TZS	19585
 Determinadas	16875
@@ -625,10 +625,10 @@ Impact. Detailed	6100
 Implementation. Details	19643
 Improve Detection of Non	17011
 Improve Detection of Non-compliant Professionals	17011
-Improvement Bouncing Back Increasing Deterioration Slowing	10837,1503,7598
+Improvement Bouncing Back Increasing Deterioration Slowing	10837,1503,7598,274
 Improvement Increasing Deterioration Slowing Improvement	10835,3,130,918,466,1,135,7334
-Improvement No Change Increasing Deterioration Slowing	10837,1503,7598
-Improvement Slowing Deterioration Warning Signs Increasing	10759,76,3,130,902,16,466,1,135,7334,116
+Improvement No Change Increasing Deterioration Slowing	10837,1503,7598,274
+Improvement Slowing Deterioration Warning Signs Increasing	10759,76,3,130,902,16,466,1,135,7334,116,274
 Improving the Detection	11417
 Inadequate Incident Detection and Response Capabilities	5677
 Inadequate Network Monitoring and Threat Detection Controls	19584
@@ -636,7 +636,7 @@ Incident Coordination Determining	775
 Inclusive Obj. Objective Details No	1818
 Increasing Deterioration	10759,1128,1,1,264,1,9,178,7311,1,205,1,65,15
 Increasing Deterioration Angola	10759
-Increasing Deterioration Score	10837,1315,188,7598
+Increasing Deterioration Score	10837,1315,188,7598,274
 Increasing Deterioration Security	10835,3,1048,466,1,135,7334
 Increasing Deterioration. Accountability	11888
 Increasing Deterioration. Participation	11888
@@ -670,6 +670,7 @@ KENYAN RESIDENT FOREIGN NATIONAL ORGANIZATIONAL DETAILS	2709
 KYC Fraud Detection	4848
 Kenya RECIPIENT DETAILS	2709
 Kenya's Nationally Determined Contributions	7548
+Key Details Interested	20222
 Kornelio Kon Ngu. The Former Detainees	18666
 L43 Dettes	18032
 LICENSEE DETAILS AND SHAREHOLDING STRUCTURE	15149
@@ -878,6 +879,7 @@ Risks and Mitigation Strategies RISK DETAILS RISK	16884
 Rwanda’s Nationally Determined Contribution	15138
 Rwanda’s Nationally Determined Contributions	14947
 Rwanda’s UNFCCC Nationally Determined Contributions	14947
+R² Coefficient of Determination	20217
 S-Year Baseline Taraet Deteetion S	4301
 S. Determinants	7886
 SCOPE OF THE ASSIGNMENT AND DETAILED	15090
@@ -912,7 +914,7 @@ Signs Bouncing Back Slowing Deterioration Increasing	10759
 Size and Determinants	10856
 Slowing Deterioration	11887,1,1,264,1,9,178,11,7300,1,205,1,65,15
 Slowing Deterioration Participation	19836
-Slowing Deterioration Score	10837,1315,188,7598
+Slowing Deterioration Score	10837,1315,188,7598,274
 Slowing Deterioration. African	11888
 Slowing Deterioration. Between	11888
 Slowing Deterioration. Foundations for Economic Opportunity	11888

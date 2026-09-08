@@ -348,7 +348,7 @@ Crores. Diamonds	12617
 Crosas	12090
 Crosas M	14666
 Crosby Mkhwanazi	4041,12
-Cross	1243,3818,4067,331,1360,10,1165,6,122,826,16,129,283,53,1349,41,128,11,122,50,583,1130,5,5,1770,1221,66
+Cross	1243,3818,4067,331,1360,10,1165,6,122,826,16,129,283,53,1349,41,128,11,122,50,583,1130,5,5,1770,1221,66,310
 Cross Border Cooperation	14511
 Cross Border Customs	11131,3
 Cross Border Data Flows	1243
@@ -444,7 +444,7 @@ Cross-Border Data Flows. World Bank	1243
 Cross-Border Data Transfer	3861,7801,294,346
 Cross-Border Data Transfer Article	11956
 Cross-Border Data Transfer Instruments	11993
-Cross-Border Data Transfers	5487,6409,1485,2260
+Cross-Border Data Transfers	5487,6409,1485,2260,4583
 Cross-Border Data Transfers Data Minimisation	13381
 Cross-Border Data Transfers and Data Sovereignty	11196
 Cross-Border Digital Payments	15641
@@ -542,7 +542,7 @@ Cross-Sectoral Coordination Forums	4528,7984
 Cross-Site Scripting	15161,775
 Cross-Svstem I. The Government of Mozambique	4260
 Cross-architecture	14441
-Cross-border	718,243,200,82,21,69,141,817,486,29,324,340,148,11,232,507,187,293,134,131,117,14,176,20,139,98,236,500,19,288,74,48,96,101,117,309,71,52,377,43,139,3,646,44,491,285,102,41,264,52,82,31,136,495,197,114,6,4,56,221,133,269,137,4,34,1,171,19,48,37,32,142,273,7,312,276,2,43,24,37,192,56,319,152,297,240,70,75,78,10,5,146,163,290,633,798,42,115,15,631,35,776,809,326,275
+Cross-border	718,243,200,82,21,69,141,817,486,29,324,340,148,11,232,507,187,293,134,131,117,14,176,20,139,98,236,500,19,288,74,48,96,101,117,309,71,52,377,43,139,3,646,44,491,285,102,41,264,52,82,31,136,495,197,114,6,4,56,221,133,269,137,4,34,1,171,19,48,37,32,142,273,7,312,276,2,43,24,37,192,56,319,152,297,240,70,75,78,10,5,146,163,290,633,798,42,115,15,631,35,776,809,326,275,151,17,80
 Cross-border Based	961
 Cross-border CBDC	11131
 Cross-border Data	14434
@@ -567,7 +567,7 @@ Cross-countries	771
 Cross-country	5265,5591,129,286,925,2968,601,195
 Cross-cultural Study of Sharing Digital Devices	4439
 Cross-cut	11269
-Cross-cutting	1752,3155,2231,4767,291,766,385,649,901,25,23,608,1290,442,1321,1036,205
+Cross-cutting	1752,3155,2231,4767,291,766,385,649,901,25,23,608,1290,442,1321,1036,205,376,1
 Cross-cutting Checks	13037
 Cross-cutting Citizen Engagement	15553
 Cross-cutting Indicators	14945
@@ -608,6 +608,7 @@ Cross-sector Coordinated Digital	12214
 Cross-sector ENTD.GW	7707
 Cross-sectoral	7221,5468,2246
 Cross-sectoral Demand-side Management	19646
+Cross-sectoral NA Permitted	20214
 Cross-selling	11944
 Cross-stream	6832
 Cross-study	7790
@@ -823,6 +824,7 @@ Food Crops and Related Items	2775
 Food Safety and Wellness Crop Nutrition	14818
 Forest Cropland Grassland Wetland Settlement Otherland	17140
 Foster Cross-Border Projects	12675
+Fostering Cross-Border Startup Ecosystems	20125
 France and Croatia	13005
 Free Cross-Connects	14508
 Free Installation Cost for Cross-ConnectTo	14508

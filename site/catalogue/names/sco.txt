@@ -48,7 +48,7 @@ Benchmark Pillar Scores	18910
 Bid Combined Score Score Cost	13185
 Bid Score	13185
 Board ANNEX TWO SCOPE CONTENTAND	16833
-Bouncing Back Score	10837,1315,188,7598
+Bouncing Back Score	10837,1315,188,7598,274
 Bouncing Score	10835,3,130,902,16,466,1,135,7334
 Breakdown of Malawi's Digital Economy Score	12941
 Brief Description of Scope	1988
@@ -271,7 +271,7 @@ Goals SCORE Survey	15556
 Grassroot Innovation Scouting	10067
 Groupe Scolaire Du Mont Kigali	4941
 HOPE-CT and National Social Register Policy Scorecard	10093
-HUMAN DEVELOPMENT SCORE	10759,78,1503,7598
+HUMAN DEVELOPMENT SCORE	10759,78,1503,7598,274
 Habitat SCO	15685
 Health and Sustainable Environment. Trend Measure Score	11886,466
 Heidke Skill Score	17157
@@ -308,8 +308,8 @@ Inclusive Digital Economy Scorecard	12214,727
 Inclusive Digital Economy Scorecard The IDES	12941
 Inclusive Digital Economy Scorecard for Malawi	12941
 Inclusiveness Score	12941
-Increasing Deterioration Score	10837,1315,188,7598
-Increasing Improvement Score	10837,1315,188,7598
+Increasing Deterioration Score	10837,1315,188,7598,274
+Increasing Improvement Score	10837,1315,188,7598,274
 Increasing Score	10835,3,130,902,16,466,1,135,7334
 Independent Audits and Compliance Scorecards	6936
 Indicator Description Sheet. Scores	17869
@@ -363,7 +363,7 @@ Maturity Scoring	19645
 Max. Score	3787
 Mean Disempowerment Score	17127
 Mean Empowerment Scores	17127
-Measure Score	10759,209,902,470,7598
+Measure Score	10759,209,902,470,7598,274
 Methodology Scope	10764
 Microdata Identification Version Scope Coverage Producers	19613
 Microsoft Scout	6498
@@ -519,7 +519,7 @@ REGULATION SCOPE Sanctions	16883
 RESULTS Average Scores for Rapid MSDI Variables	18476
 RISK ASSESSMENT AND SCORING METHOD	11156
 RSI SAFER SCORE SIMR SIS Impact	14622
-RULE OF LAW SCORE	10759,76,2,1,130,902,16,266,188,12,1,135,7334,116
+RULE OF LAW SCORE	10759,76,2,1,130,902,16,266,188,12,1,135,7334,116,274
 Radio Scolaire NDERAGAKURA BUJUMBURA	13414
 Rank Score	10969,916,470,132
 Rank University Score	11885
@@ -593,7 +593,7 @@ SCOPE Platform	16867
 SCOPE REGULATION	16884
 SCOPE TERRITORIAL SCOPE	14434
 SCOPE The Minimum Interoperability Standard	11184
-SCORE	10759,76,2,1,130,902,16,3,451,12,1,135,1370,764,934,169,1245,67,252,2533,36,80
+SCORE	10759,76,2,1,130,902,16,3,451,12,1,135,1370,764,934,169,1245,67,252,2533,36,80,274
 SCORE Assessment	16892
 SCORE GLOBAL	10975
 SCORE MOYEN	18077
@@ -632,7 +632,7 @@ Scolarité	13390,2178
 Scolarité Axe	15568
 Scombined	8606
 Scooters	16047
-Scope	25,3,208,526,97,150,176,24,5,9,20,94,14,163,72,1,5,13,132,5,43,9,83,36,75,102,5,64,1,48,217,40,314,423,5,389,32,1,22,27,78,105,24,159,56,13,16,173,64,16,11,97,1,27,22,1,193,162,236,59,1,6,61,406,199,39,529,133,189,78,59,46,1,122,23,2,3,133,181,49,97,183,59,101,258,53,344,44,163,11,297,2,39,21,186,294,1,484,69,31,576,98,70,85,44,95,23,1,1,28,56,48,43,44,1,16,100,284,59,1,79,1,11,4,57,138,15,44,30,13,2,47,37,21,14,15,11,13,34,53,172,231,27,107,5,86,57,21,104,4,6,2,21,5,7,3,23,80,9,481,25,465,52,72,37,45,11,8,94,55,15,2,2,28,5,3,4,33,14,60,12,41,22,7,18,45,35,355,259,23,389,7,18,627,3,1,10,32,75,108,31,92,21,43,112,136,606,66,195,82,73,6,25,11,45,33,79,114,66,81,528,20,8,33,1,1,37,34,13,7,63,15,108,53,60
+Scope	25,3,208,526,97,150,176,24,5,9,20,94,14,163,72,1,5,13,132,5,43,9,83,36,75,102,5,64,1,48,217,40,314,423,5,389,32,1,22,27,78,105,24,159,56,13,16,173,64,16,11,97,1,27,22,1,193,162,236,59,1,6,61,406,199,39,529,133,189,78,59,46,1,122,23,2,3,133,181,49,97,183,59,101,258,53,344,44,163,11,297,2,39,21,186,294,1,484,69,31,576,98,70,85,44,95,23,1,1,28,56,48,43,44,1,16,100,284,59,1,79,1,11,4,57,138,15,44,30,13,2,47,37,21,14,15,11,13,34,53,172,231,27,107,5,86,57,21,104,4,6,2,21,5,7,3,23,80,9,481,25,465,52,72,37,45,11,8,94,55,15,2,2,28,5,3,4,33,14,60,12,41,22,7,18,45,35,355,259,23,389,7,18,627,3,1,10,32,75,108,31,92,21,43,112,136,606,66,195,82,73,6,25,11,45,33,79,114,66,81,528,20,8,33,1,1,37,34,13,7,63,15,108,53,60,255
 Scope All	19667
 Scope Anticipated	17330
 Scope Conditions and Limitations	7966
@@ -779,7 +779,7 @@ Scopus	766,482,6542,881,566,7230,1306
 Scopus and PubMed	766
 Scopus and Web of Science	10323
 Scopus. Among	766
-Score	643,256,288,631,1578,391,1878,5094,76,2,1,36,38,56,1,7,276,618,4,7,3,1,1,1,1,1,6,3,37,217,2,5,1,3,42,36,99,1,5,5,1,1,2,21,111,1,90,339,268,115,25,33,662,1144,283,27,6,32,44,157,12,211,25,361,400,170,104,118,13,22,8,128,585,14,193,32,249,275,154,38,327,69,18,228,109,69,7,1,7,55,107,14,22,1,3,62,7,7,1,48,8
+Score	643,256,288,631,1578,391,1878,5094,76,2,1,36,38,56,1,7,276,618,4,7,3,1,1,1,1,1,6,3,37,217,2,5,1,3,42,36,99,1,5,5,1,1,2,21,111,1,90,339,268,115,25,33,662,1144,283,27,6,32,44,157,12,211,25,361,400,170,104,118,13,22,8,128,585,14,193,32,249,275,154,38,327,69,18,228,109,69,7,1,7,55,107,14,22,1,3,62,7,7,1,48,8,217
 Score Academic	13031
 Score Accountability	19822
 Score Adoption Situation	17157
@@ -793,7 +793,7 @@ Score Demonstrate	11252
 Score Effectif Pourcent- Pourcent- Pourcent- Score	13300
 Score Extensive	11252
 Score Global	15936
-Score Infrastructure	10835,2
+Score Infrastructure	10835,2,9375
 Score Level	19584
 Score Niveau	18077
 Score ODA	10835,3,130,902,16,466,1,135,7334
@@ -807,7 +807,7 @@ Score RDQA Qualité	16722
 Score Range	8604
 Score Range Sudan	15244
 Score Rank	10759,76,3,130,902,16,466,1,135,7334
-Score Rank Absence of Armed Conflict	10838,1048,454
+Score Rank Absence of Armed Conflict	10838,1048,454,7872
 Score Rank Absence of Human Trafficking	19822
 Score Rank Absence of Undue Influence	10835
 Score Rank Absence of Violence	10837,131,1184
@@ -816,12 +816,12 @@ Score Rank Anti-Corruption Mechanisms	19822
 Score Rank Civil Registration	19938
 Score Rank Decent Housing	12488
 Score Rank Freedom of Association	10837,8985
-Score Rank Impartiality	19938
+Score Rank Impartiality	19938,274
 Score Rank Internet	12340
 Score Rank Laws	10837,1315,7786
 Score Rank Political Pluralism	11870
-Score Rank Protection	12152
-Score Rank Public Perception of Economic Opportunities	12152,188,7598
+Score Rank Protection	12152,8060
+Score Rank Public Perception of Economic Opportunities	12152,188,7598,274
 Score Rank Public Perception of Infrastructure	11870
 Score Rank Rural Market Access	12352
 Score Rank Rural Representation	12353
@@ -829,7 +829,7 @@ Score Rating Caractéristique	10975
 Score Required	17157
 Score Rights	11870,471
 Score Rural Economy	10837,1,1048,266,201
-Score Security	10835,1505,1,11,1,135,7334
+Score Security	10835,1505,1,11,1,135,7334,390
 Score Service Level Requirements	5665
 Score Slowing Improvement Warning Signs	10835,3,130,902,16,466,1,135,7334
 Score Social Protection	12340
@@ -841,7 +841,7 @@ Scorecard.pdf	6133
 Scored	6214,306,115,9083
 Scorefam	2826
 Scorefit	8125
-Scores	3391,2208,3005,2155,5,73,301,345,404,1,1,9,254,1,1,6,3,177,1,55,914,710,816,328,556,1172,222,755,13,1770,1,183,22,1,65,14,1
+Scores	3391,2208,3005,2155,5,73,301,345,404,1,1,9,254,1,1,6,3,177,1,55,914,710,816,328,556,1172,222,755,13,1770,1,183,22,1,65,14,1,273
 Scores Scores Summary Explanation of Assessment	12500
 Scores of Cameroons	2519
 Scoring	1243,2078,1813,1080,4550,1736,2423,1013
@@ -861,6 +861,7 @@ Scotland. Incident Ready	3279
 Scott	7966,7587,2227
 Scott Blacklin	3125
 Scott Duke Kominers	18318
+Scott K	20219
 Scott Shaw	10841
 Scott Singer	17802
 Scott Timcke of Research ICT Africa	10729
@@ -877,8 +878,8 @@ Serge Rolhy Scothy	16100
 Sex and Mean Scores	2775
 Sheila Scott	769
 Signs Score	11870,482,1,135,7334
-Slowing Deterioration Score	10837,1315,188,7598
-Slowing Improvement Score	10837,1315,188,7496,102
+Slowing Deterioration Score	10837,1315,188,7598,274
+Slowing Improvement Score	10837,1315,188,7496,102,274
 Slowing Score	10835,3,130,902,16,466,1,135,7334
 Soccersm and Scorefam	2826
 Software Class Score Range Alternative Classification	5665
@@ -898,7 +899,7 @@ Sub-Saharan Africa Score	11895
 Sub-category Score Inclusion	10837
 Sub-category Score Infrastructure	12340
 Sub-category Score Rural Economy	10837
-Sudan Eritrea Somalia South Sudan Score	12340,7598
+Sudan Eritrea Somalia South Sudan Score	12340,7598,274
 Sudan. The Sudan Credit Information and Scoring	14897
 Support and Maintenance Scope PAGEREF	15090
 Support and Maintenance Scope The Consultant	15090
@@ -990,7 +991,7 @@ WB’s Statistical Capacity Score	13314
 WEMNS SCORE	17127
 WEMNS Score	17127
 Warning Score	10835,3,130,902,16,466,1,135,7334
-Warning Signs Score	10837,1315,188,7598
+Warning Signs Score	10837,1315,188,7598,274
 Web of Science and Scopus	1248
 We’ll Link Citizens’ Credit Scores	3030
 Women Customs Revenue NIGER Scorecard	16631

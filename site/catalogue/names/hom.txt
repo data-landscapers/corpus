@@ -377,7 +377,7 @@ Home About Us Governance Our Story	19941
 Home About Us Our Mandate	12515
 Home Advantage Telcos	16812
 Home Affair	3017
-Home Affairs	1,1008,182,187,238,1,1,370,319,45,189,73,138,81,71,1,38,257,25,210,529,292,137,50,85,26,218,11,3,361,49,1,129,207,58,111,370,52,55,17,26,33,132,540,404,73,140,25,70,119,492,308,94,405,14,179,334,82,18,7,204,163,115,12,991,20,16,6,28,2,16,10,4,2,2,3,655,9,37,467,59,2,10,127,217,42,62,12,42,71,19,37,40,46,56,1552,2893,1163,616
+Home Affairs	1,1008,182,187,238,1,1,370,319,45,189,73,138,81,71,1,38,257,25,210,529,292,137,50,85,26,218,11,3,361,49,1,129,207,58,111,370,52,55,17,26,33,132,540,404,73,140,25,70,119,492,308,94,405,14,179,334,82,18,7,204,163,115,12,991,20,16,6,28,2,16,10,4,2,2,3,655,9,37,467,59,2,10,127,217,42,62,12,42,71,19,37,40,46,56,1552,2893,1163,616,561
 Home Affairs APP	5876
 Home Affairs Act	5533,6453
 Home Affairs Act Home Affairs Bill	11986
@@ -418,7 +418,7 @@ Home Affairs and Commerce	6539
 Home Affairs and Cultural Heritage	6179,7260
 Home Affairs and Cultural Heritage Minister	13434,5
 Home Affairs and Cultural Heritage Minister Kazembe	3277
-Home Affairs and External Communications	7845,6899,9,77,11,6
+Home Affairs and External Communications	7845,6899,9,77,11,6,5214
 Home Affairs and External Communications Ministry of Finance	14753
 Home Affairs and Finance	958
 Home Affairs and Immigration Minister Lucia Iipumbu	2831
@@ -570,7 +570,7 @@ Homeowners	16902
 Homepage	7004,5287,2443,430
 Homepage AI AI HOME	10068
 Homera	9778,813,9026
-Homes	3898,5119,942,631
+Homes	3898,5119,942,631,9611
 Homes SLBC Staff Accused of Assaulting Open	8271
 Homework	9120
 Homicidio Accidente	16962
@@ -834,7 +834,7 @@ Ministry of Agriculture MoHAIS Ministry of Home Affairs	1867
 Ministry of Development Planning Home	12768
 Ministry of Finance and Planning MICSTI Ministry of Home	12674
 Ministry of Home	19519
-Ministry of Home Affairs	1,1658,174,928,163,71,282,1218,39,587,576,1023,42,58,289,155,641,209,136,3,1,1,1411,794,191,117,195,1,1263,103,4,3,30,37,71,183,5,9,3,83,3,104,58,16,5,6,6,16,5,7,34,8,39,28,4,19,37,57,28,1,178,8,23,737,68,5288
+Ministry of Home Affairs	1,1658,174,928,163,71,282,1218,39,587,576,1023,42,58,289,155,641,209,136,3,1,1,1411,794,191,117,195,1,1263,103,4,3,30,37,71,183,5,9,3,83,3,104,58,16,5,6,6,16,5,7,34,8,39,28,4,19,37,57,28,1,178,8,23,737,68,5288,539
 Ministry of Home Affairs Communications Officer	6820
 Ministry of Home Affairs Internal Security	1988
 Ministry of Home Affairs Mr Ally Gugu	19566
@@ -888,6 +888,7 @@ NaTIS and Home Affairs	5017
 Namibia's Ministry of Home Affairs	7109
 Namibia’s Ministry of Home Affairs	7126,4031
 Nation Address Home Affairs	11246
+National Home-Grown School Feeding Programme	20176
 National Human Development Report Home News	17371
 National Payment Systems Home National Payment	12390
 National Treasury and Presidency Home Affairs Bill	5533

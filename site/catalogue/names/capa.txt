@@ -230,7 +230,7 @@ Capable	888,3796,561,5985,1955,450,3813,1160,925,43
 Capable State	14935
 Capacidad	1701,1478,1030,12646,43
 Capacidad Institucional	4209
-Capacidade	414,2402,703,755,1706,482,4315,295,302,12,44,18,3,5,63,23,27,329,123,3505,440,355,4,778,501,1177,15,100
+Capacidade	414,2402,703,755,1706,482,4315,295,302,12,44,18,3,5,63,23,27,329,123,3505,440,355,4,778,501,1177,15,100,1192
 Capacidade Banda Larga Internacional	18791
 Capacidade De Armazenamento Cresce	8827
 Capacidade Eleitoral	11425
@@ -263,7 +263,7 @@ Capacitating IS Branch	11986
 Capacitating the Digital Community Hubs Responsible	12241
 Capacitation	961,4572,3358,3095
 Capacitation of Border Management Agencies	4390
-Capacitação	2295,521,1087,551,2,291,6621,22,4,19,43,5,437,879,2907,5,5,162,110,56,1315,1451,158
+Capacitação	2295,521,1087,551,2,291,6621,22,4,19,43,5,437,879,2907,5,5,162,110,56,1315,1451,158,1112
 Capacitação A Comissão Nacional de Protecção de Dados	15856
 Capacitação Digital	11569
 Capacitação Institucional	16487
@@ -276,7 +276,7 @@ Capacities Project	13207
 Capacities for Data Analysis	18628
 Capacities of MDAs	12932
 Capacitors	1988,14912
-Capacity	111,285,182,49,91,18,53,110,41,18,173,112,18,23,181,237,64,52,49,121,104,367,218,312,195,1,271,139,9,110,126,21,353,209,102,76,52,243,140,176,275,46,87,57,3,320,55,321,163,132,265,31,99,85,71,146,89,91,338,740,321,176,114,732,104,84,293,271,38,5,4,13,48,6,2,1,10,13,1,30,20,52,4,11,16,136,2,49,8,28,10,189,135,23,280,2,5,8,8,8,1,1,1,16,11,4,28,4,1,3,108,74,15,1,9,33,37,7,13,3,5,77,2,1,8,3,1,1,2,2,41,28,13,5,12,31,134,20,51,36,14,18,156,39,14,1,1,5,28,26,6,258,37,60,3,23,76,30,8,31,61,54,98,78,14,70,27,104,277,102,16,18,83,36,72,1,64,7,36,29,8,60,3,7,9,25,13,62,22,15,8,77,11,8,26,80,98,30,39,107,35,25,26,17,37,1,2,184,8,48,131,12,168,25,40,40,119,115,34,258,5,1,4,1,4,9,16,1,1,7,24,10,1,12,3,1,1,3,1,1,2,15,2,3,2,125,16,35,8,100,3,29,37,13,131,69,196,134,40,81,114,21,48,182,15,50,50,6,9,44,2,1,5,19,9,14,35,11,145,141,39,27,109,7,53,93,103,113,64,1,1,11,23,16,5,65,5,6,1,1,23,68,61,16,13,1,22,1,41,24,14,1,27,21,1,14
+Capacity	111,285,182,49,91,18,53,110,41,18,173,112,18,23,181,237,64,52,49,121,104,367,218,312,195,1,271,139,9,110,126,21,353,209,102,76,52,243,140,176,275,46,87,57,3,320,55,321,163,132,265,31,99,85,71,146,89,91,338,740,321,176,114,732,104,84,293,271,38,5,4,13,48,6,2,1,10,13,1,30,20,52,4,11,16,136,2,49,8,28,10,189,135,23,280,2,5,8,8,8,1,1,1,16,11,4,28,4,1,3,108,74,15,1,9,33,37,7,13,3,5,77,2,1,8,3,1,1,2,2,41,28,13,5,12,31,134,20,51,36,14,18,156,39,14,1,1,5,28,26,6,258,37,60,3,23,76,30,8,31,61,54,98,78,14,70,27,104,277,102,16,18,83,36,72,1,64,7,36,29,8,60,3,7,9,25,13,62,22,15,8,77,11,8,26,80,98,30,39,107,35,25,26,17,37,1,2,184,8,48,131,12,168,25,40,40,119,115,34,258,5,1,4,1,4,9,16,1,1,7,24,10,1,12,3,1,1,3,1,1,2,15,2,3,2,125,16,35,8,100,3,29,37,13,131,69,196,134,40,81,114,21,48,182,15,50,50,6,9,44,2,1,5,19,9,14,35,11,145,141,39,27,109,7,53,93,103,113,64,1,1,11,23,16,5,65,5,6,1,1,23,68,61,16,13,1,22,1,41,24,14,1,27,21,1,14,210,7,1
 Capacity ASSIGNED CAPACITY ACTIVATED CAPACITY AVAILABLE	16942
 Capacity Accelerator Network	6729
 Capacity Aggregation	10157
@@ -284,7 +284,7 @@ Capacity Assessment Framework	15713
 Capacity Audit Checklist	3861
 Capacity Base Station Name	736
 Capacity Base Stations Latitude Longitude Antenna	736
-Capacity Building	578,686,2597,667,82,522,544,756,514,602,3300,283,3,118,31,286,238,48,5,65,31,39,200,46,115,2,41,113,163,49,4,189,53,1,6,28,26,11,20,18,15,300,79,38,124,330,114,136,224,24,286,11,25,111,46,80,97,18,564,586,366,99,1,1,1,1,2,93,1,94,19,5,14,130,1,33,111,27,458,217,9,473,32,4,51,532,1,632,32,88,125
+Capacity Building	578,686,2597,667,82,522,544,756,514,602,3300,283,3,118,31,286,238,48,5,65,31,39,200,46,115,2,41,113,163,49,4,189,53,1,6,28,26,11,20,18,15,300,79,38,124,330,114,136,224,24,286,11,25,111,46,80,97,18,564,586,366,99,1,1,1,1,2,93,1,94,19,5,14,130,1,33,111,27,458,217,9,473,32,4,51,532,1,632,32,88,125,280
 Capacity Building A. The LTA and Telecommunications	4610
 Capacity Building ASYCUDA New Generation	13042
 Capacity Building Activities Overall	19776
@@ -332,7 +332,7 @@ Capacity Building The Bank of Mauritius	14744
 Capacity Building Train	17011
 Capacity Building WG2	5680
 Capacity Building Workforce Skilling Align Education	14566
-Capacity Building Workshop	6858,6599,3273
+Capacity Building Workshop	6858,6599,3273,3488
 Capacity Building and Change Management	6432,6021,892
 Capacity Building and Change Management Objective	12453,892
 Capacity Building and Change Management The Eighth	12453,892
@@ -559,7 +559,7 @@ Challenges Identified Capacity Constraints	17139
 Change Management and Capacity Building	14185,849
 Chief Information Officer CMMI Capability Maturity	12917
 Cisco. Capacity	7053
-Civil Registration Capacity	10759,78,1315,188,7598
+Civil Registration Capacity	10759,78,1315,188,7598,274
 Civilians Capacity	10968
 Co-working Spaces and Other Capacity Development Providers	17870
 Collect and Coll Capacity and Openness of S Individual	17180
@@ -597,7 +597,7 @@ Curriculum and Teacher Capacity Quality	15604
 Customer Engagement and Service Capacity	19662
 Cyber Incident Response Capability Strengthened	11134
 Cyber Resilience Capability Framework	5132
-Cyber Security Capability	16861
+Cyber Security Capability	16861,3359
 Cyber Security Capability THE ICT4D PILLARS	16861
 Cyber Security Capacity Building Programme for Developing	1264
 Cybersecurity Capability Index	10721
@@ -640,6 +640,7 @@ Data Governance Capacity Building Workshop	7226
 Data Science Capacity Building Initiative	15086
 Data Use and Statistical Capacity	769
 December. Staff Development and Training Capacity	1554
+Dedicated Power Generation Capacity	20169
 Deep-Dive MSDI Capacity Assessment	18476
 Defined Broadband Capacity Target	16883
 Defining Capabilities and Application Areas	11156
@@ -737,6 +738,7 @@ Enhancing Human Capacities	17884
 Enhancing Tax Capacity	13624
 Enhancing WHO Liberia’s Operational Capacity	17289
 Enhancing the Productive Capacity	16861
+Ensure Sustainable Tech Capacity	20221
 Enterprise Development and Capacity Building	11863
 Entities GCSPs Capacity	6432
 Environmental Human Capacity Gaps	17260
@@ -1034,6 +1036,7 @@ Literacy and Capacity Building	650,212
 Local Authorities Entrepreneurs Capacity	10980
 Local Capacity Building	17260
 Local Capacity Prioritize Liberian Businesses	17260
+Local IT Capacity	20221
 Local Level Capacity Building	16861
 Local and International Bandwidth Capacity Within	16883
 Louetsi Capacité	16037

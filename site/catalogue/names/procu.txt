@@ -194,7 +194,7 @@ EU Green Public Procurement	16144
 EVOLUÇÃO DA PROCURA ATÉ	11366
 East African Public Procurement Forum	3969
 Effective Internal Procurement System	13005
-Electronic Government Procurement	7054,1669,5823,2491,1451,74,15,1214,56
+Electronic Government Procurement	7054,1669,5823,2491,1451,74,15,1214,56,222
 Electronic Government Procurement Contract The National	14546
 Electronic Government Procurement EU SBC III	18488
 Electronic Government Procurement System	8723,3730,503,389,5155
@@ -244,7 +244,8 @@ GP System and Enhanced Transparency of Public Procurement	16949
 GP Training The Public Procurement and Concessions	17304
 GPN General Procurement Notice IC Individual	17441
 GSSD Procurement	17235
-Gambia Public Procurement Authority	16924
+Gambia Public Procurement	20221
+Gambia Public Procurement Authority	16924,3300
 Gambia Public Procurement Authority ACT	16923
 Gas Independent Power Producer Procurement Programme	11248
 General Directorate for Public Procurement Control	11905
@@ -305,6 +306,7 @@ Ill. Procurement	4217
 Implement Procurement	11525
 Implement Procurement. The UGPE	11855
 Implementing Procurement	1284
+Improve Procurement Transparency	20221
 Improving The Public Procurement Framework	14828,3
 Independent Procurement Review	11855
 Independent Transmission Projects Procurement Programme	11215,33
@@ -575,7 +577,7 @@ Procurem	13938
 Procureme	13938
 Procureme IDA	17180
 Procuremen	6432
-Procurement	352,618,191,67,36,20,6,264,264,49,121,81,630,168,22,100,62,21,319,213,257,265,134,303,90,594,376,809,66,41,64,343,2,112,162,44,282,100,273,30,498,62,117,95,110,301,175,90,204,1,1117,47,17,44,10,47,78,11,154,5,64,13,7,6,24,2,12,139,16,108,225,105,8,4,38,19,11,30,21,5,4,181,19,6,144,13,63,27,54,341,74,17,27,1,9,4,5,10,15,9,3,20,5,80,63,129,17,1,25,35,28,39,68,79,55,277,72,70,105,39,232,109,56,53,55,7,2,8,4,2,31,19,28,28,9,21,46,31,54,9,3,49,10,48,26,26,152,30,39,13,87,7,35,48,18,39,1,2,2,41,9,69,8,111,82,96,65,292,178,40,9,42,9,33,46,70,13,20,26,2,23,2,21,3,64,27,15,35,2,22,1,41,39,16,60,33,6,107,29,379,11,19,83,44,1,191,95,207,58,4,15,58,26,93,71,62,358,39,171,64,20,45,1,54,21,17,35,23,66,34,12,76,65
+Procurement	352,618,191,67,36,20,6,264,264,49,121,81,630,168,22,100,62,21,319,213,257,265,134,303,90,594,376,809,66,41,64,343,2,112,162,44,282,100,273,30,498,62,117,95,110,301,175,90,204,1,1117,47,17,44,10,47,78,11,154,5,64,13,7,6,24,2,12,139,16,108,225,105,8,4,38,19,11,30,21,5,4,181,19,6,144,13,63,27,54,341,74,17,27,1,9,4,5,10,15,9,3,20,5,80,63,129,17,1,25,35,28,39,68,79,55,277,72,70,105,39,232,109,56,53,55,7,2,8,4,2,31,19,28,28,9,21,46,31,54,9,3,49,10,48,26,26,152,30,39,13,87,7,35,48,18,39,1,2,2,41,9,69,8,111,82,96,65,292,178,40,9,42,9,33,46,70,13,20,26,2,23,2,21,3,64,27,15,35,2,22,1,41,39,16,60,33,6,107,29,379,11,19,83,44,1,191,95,207,58,4,15,58,26,93,71,62,358,39,171,64,20,45,1,54,21,17,35,23,66,34,12,76,65,194,7,32
 Procurement A1-Local AI	7548
 Procurement AI	4126
 Procurement Act	12961,1789,2174,1576
@@ -950,7 +952,7 @@ Project-related Procurement	19923
 Project. Procurement	16949
 Public ICT Procurement	16885
 Public Private Partnership PPPFA Preferential Procurement	11224
-Public Procurement	969,2954,2509,514,3211,1749,33,369,81,117,464,155,349,1384,11,96,694,131,1247,1333,118,89,248
+Public Procurement	969,2954,2509,514,3211,1749,33,369,81,117,464,155,349,1384,11,96,694,131,1247,1333,118,89,248,1399
 Public Procurement Act	2364,3085,2246,150,771,2632,31,716,603,363,70,6,310,150,873,366,7,5,15,3,12,17,22,12,167,3450,4,1084,5,45,1,17,349
 Public Procurement Act Government	7695
 Public Procurement Act No	19519
@@ -976,7 +978,7 @@ Public Procurement Law	18823,2
 Public Procurement Office	4633,6646,3457
 Public Procurement Order No.4	18543
 Public Procurement Portal	13037,1719,47,44
-Public Procurement Procedures	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Public Procurement Procedures	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 Public Procurement Procedures. Best	19924
 Public Procurement Reform	12922,34
 Public Procurement Regulation	19534,51
@@ -990,7 +992,8 @@ Public Procurement Regulatory Authority Promote	7548
 Public Procurement Regulatory Authority. Adoni Conrad	4181
 Public Procurement Regulatory Body	15411
 Public Procurement Specialized Oversight Authority Inclusive	7548
-Public Procurement and Asset Disposal Act	2512,3,3917,1116,1386,1379,1800,422,2011,1390,1851
+Public Procurement and Asset Disposal Act	2512,3,3917,1116,1386,1379,1800,422,2011,1390,1851,2402
+Public Procurement and Asset Disposal Act and Regulation	20101
 Public Procurement and Asset Disposal Act. GCSPs	6432
 Public Procurement and Asset Disposal Authority. VI	3583
 Public Procurement and Asset Management	13966
@@ -1022,7 +1025,7 @@ Public Procurement. Government	13125
 Public Procurements Made Outside	19585
 Public Procuring	14766
 Public Procuring Entities	2775
-Public Sector Public Procurement Procedures Absence	10759,78,1315,188,7598
+Public Sector Public Procurement Procedures Absence	10759,78,1315,188,7598,274
 Public Service. Partially Implemented Procurement of Digital	14750
 Public Services and Procurement Canada	19854
 Public Services and Procurement Canada. Associated	19854
@@ -1159,6 +1162,7 @@ Tundwe Choolwe Procurement Officer	13392
 Type of Procurement Activity Actions Required	13331
 UHIS Procurement	16079
 UNDP DRC Procurement Email	16312
+UNDP Gambia Procurement Team	20222
 UNDP OFFICE ZIMBABWE PROCUREMENT UNIT	13618
 UNDP-TGO-00358 Procurement	17681
 UNFPA Procurement Procedures	17068

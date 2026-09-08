@@ -149,8 +149,8 @@ Republic of Guinea-Bissau Contact Title Telephone No	11560
 Republic of Togo Contact Title Telephone No	19245
 Retail Tariffs for Mobile and Fixed Telephone Service	718
 Rupees Telephone	14836
-Rural Telephony	19966
-Rural Telephony Project	5359,10357,1496
+Rural Telephony	19966,158,23
+Rural Telephony Project	5359,10357,1496,2912
 Rural Telephony Project. Mr Rashid-Computer	5359
 Rural Telephony and Digital Inclusion Project. Kept	478
 SWIFT TELEPHONE NETWORK LIMITED	3862
@@ -210,6 +210,7 @@ Telephony Integration EGDI E-Government Development Index	14965
 Telephony No. Telephone Telephone Telephone Telephone	19576
 Telephony Service Providers	14717
 Telephony Services	3528
+Teleport	20109
 Teleport Educational VSAT Space Segment	17250
 Teleposta Towers	9333
 Title Email Address Telephone Number Date	17212

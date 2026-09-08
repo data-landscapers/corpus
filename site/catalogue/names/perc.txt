@@ -94,7 +94,7 @@ Dudley L. Perceptions	19974
 ECOWAS Countries and Percentage	16935
 EDUCATION INSTITUTIONS Percentage	16942
 EQUALITY Public Perception of Education Provision	10835,3,130,902,16,466,1,135,7334
-Education Education Quality Public Perception of Education	10837,1315,188,7598
+Education Education Quality Public Perception of Education	10837,1315,188,7598,274
 Education Level Number Percentage None	12413,2643
 Education Percentage	18441
 Emerging Percentage	7548
@@ -106,13 +106,13 @@ Evaluate Perceptions of Data Quality	17149
 Female Description Percentage	15661
 Female Percentage Under	19544
 Final Budget and Actual Percentage Variance FY	16978
-Financial Management Public Perception of Easiness	10759,78,1315,188,7598
+Financial Management Public Perception of Easiness	10759,78,1315,188,7598,274
 Financial Statements Percentage	13420
 Financial Years Registration Target Percentage of Decline	19541
 Findings Number Percentage Number Percentage Number	3051
 Firms' Perceptions	12389
 Firms’ Perceptions	12389
-Forced Labour Absence of Crime Public Perception	10759,78,1315,188,7598
+Forced Labour Absence of Crime Public Perception	10759,78,1315,188,7598,274
 Forced Labour Public Perception of Inclusion	10759
 Frequency Percentage	17149
 Frequency Percentage National	17149
@@ -167,7 +167,7 @@ Mali INTERNET USE Percentage	17877
 Management Perception Recognition	11131
 Market Perception and Financial Stability Implications Mixed	13532
 Marriage Regime Count Percentage Community	15056
-Maternal Health Health Quality Public Perception	10837,1315,188,7598
+Maternal Health Health Quality Public Perception	10837,1315,188,7598,274
 Measuring Governance Using Cross- Country Perceptions	14897
 Medium Enterprises Stakeholder Perception Index Small	11134
 Millions Percentage	11131
@@ -238,7 +238,7 @@ PRODUTOS A SEREM ENTREGUES Percentagem	16321
 Part C Percentage	11181
 Percebe-se	11901
 Perceive	418
-Perceived	2948,4811,371,541,458,786,1025,64,923,2969,446,69,434,484,798,624,880
+Perceived	2948,4811,371,541,458,786,1025,64,923,2969,446,69,434,484,798,624,880,1588
 Perceived Accuracy of Official Statistics	17149
 Perceived Benefits	17099
 Perceived Benefits of System Use	12025
@@ -257,7 +257,7 @@ PercentBaseline GDP GrowthNew GDP Growth	13624
 PercentPaanegorecmeoanflt3iae-gsme	10763
 Percenta-	10777
 PercentaPgeercoefnmtaognethosf	10763
-Percentage	236,553,151,30,234,24,36,20,704,486,238,63,1,113,694,21,74,183,1,791,35,559,286,122,21,863,3,37,14,239,96,620,329,1021,231,487,1098,50,1,3,7,5,5,44,15,12,14,93,1,12,28,127,3,2,16,40,6,13,13,28,10,34,99,22,52,56,28,10,292,2,9,8,5,2,1,8,15,13,6,40,1,6,15,2,6,226,8,28,11,70,9,10,29,4,6,18,18,9,13,80,27,164,281,53,273,1,536,42,813,19,3,70,4,16,1,4,3,53,39,12,33,5,12,26,8,8,17,29,53,21,85,180,23,33,31,3,4,35,21,27,16,2,39,1,2,2,53,9,10,2,108,56,4,22,42,8,36,19,47,65,43,73,176,195,7,67,178,9,4,25,1,4,9,7,7,1,10,11,7,16,6,11,7,25,36,17,31,30,91,4,112,106,33,2,238,127,8,26,54,4,44,98,19,10,168,8,41,4,1,4,82,2,21,65,3,2,90,3,56,71,8,8,17,5,25,8,62,95,263,4,35,123,74,39,21,1,2,168,3,28,1,82,3,6,12,31,110,2,11
+Percentage	236,553,151,30,234,24,36,20,704,486,238,63,1,113,694,21,74,183,1,791,35,559,286,122,21,863,3,37,14,239,96,620,329,1021,231,487,1098,50,1,3,7,5,5,44,15,12,14,93,1,12,28,127,3,2,16,40,6,13,13,28,10,34,99,22,52,56,28,10,292,2,9,8,5,2,1,8,15,13,6,40,1,6,15,2,6,226,8,28,11,70,9,10,29,4,6,18,18,9,13,80,27,164,281,53,273,1,536,42,813,19,3,70,4,16,1,4,3,53,39,12,33,5,12,26,8,8,17,29,53,21,85,180,23,33,31,3,4,35,21,27,16,2,39,1,2,2,53,9,10,2,108,56,4,22,42,8,36,19,47,65,43,73,176,195,7,67,178,9,4,25,1,4,9,7,7,1,10,11,7,16,6,11,7,25,36,17,31,30,91,4,112,106,33,2,238,127,8,26,54,4,44,98,19,10,168,8,41,4,1,4,82,2,21,65,3,2,90,3,56,71,8,8,17,5,25,8,62,95,263,4,35,123,74,39,21,1,2,168,3,28,1,82,3,6,12,31,110,2,11,216,6
 Percentage Addressed	3051
 Percentage Age	15085
 Percentage Agriculture	2775
@@ -424,6 +424,7 @@ Percentage of N	11905
 Percentage of NA	17441
 Percentage of NDFSPs	14997
 Percentage of NIP	15514
+Percentage of New Entrants	20217
 Percentage of New-born	19544
 Percentage of Occupancy Tenure of Dwelling Unit	19715
 Percentage of Orphans	19715
@@ -494,7 +495,7 @@ Percepteur	17817
 Percepteur du Trésor	17861
 Percepteurs	17485,376
 Perceptibilité	15936
-Perception	5247,1712,927,136,1107,1260,370,78,473,842,94,82,12,49,969,60,2075,544,291,1113,664,64,1470,239,60,48
+Perception	5247,1712,927,136,1107,1260,370,78,473,842,94,82,12,49,969,60,2075,544,291,1113,664,64,1470,239,60,48,226
 Perception Survey	6946
 Perception of Corruption	17139
 Perception of Lack of Skills	12445
@@ -532,48 +533,48 @@ Population Coverage Percentage	18485
 Port-In Activities Jan-Dec and Percentage Increase	3862
 Port-Out Activities and Percentage Increase	3862
 Postal Network Public Perception of Infrastructure RURAL	10759
-Postal Network Public Perception of Infrastructure Rural	10837,1315,188,7598
+Postal Network Public Perception of Infrastructure Rural	10837,1315,188,7598,274
 Privado Público Percentagem Malária Disponibilidade	18762
 Private Public Percent Care-seeking for Diarrhoea Percentage	18441
 Private Sector Foreign Investment and Investor Perceptions	13532
 Private Sector Public Perception of Anti-Corruption	10759
-Private Sector Public Perception of Anti-Corruption Rule	10837,1315,188,7598
+Private Sector Public Perception of Anti-Corruption Rule	10837,1315,188,7598,274
 Professor Percy Chimwamurombe	5036
 Profit Sharing Percentage Ratio	11276
 Project Percentage of Approval	15424
 Project Perception	8405
 Province Political Party Valid Votes Percentage	12201
-Public Perception	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,4523,2641,1,169,14,22,1,65,14,1,48
-Public Perception of Accountability	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Public Perception	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,4523,2641,1,169,14,22,1,65,14,1,48,225
+Public Perception of Accountability	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 Public Perception of Accountability Anti-Corruption	10759,1130,265,9,178,7312
-Public Perception of Anti-Corruption	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Public Perception of Anti-Corruption	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 Public Perception of Anti-Corruption PARTICIPATION	10759,1395
 Public Perception of Anti-Corruption Rule of Law	11889,274,178,7312
-Public Perception of Easiness	10759,76,2,1,74,56,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Public Perception of Easiness	10759,76,2,1,74,56,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 Public Perception of Economic	11870
-Public Perception of Economic Opportunities	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Public Perception of Economic Opportunities	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 Public Perception of Economic Opportunities Infrastructure	10759,1395
-Public Perception of Education Provision	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Public Perception of Education Provision	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 Public Perception of Education Provision Social Protection	10759,1395
-Public Perception of Female Leadership	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Public Perception of Female Leadership	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 Public Perception of Female Leadership FOUNDATIONS	12154
 Public Perception of Female Leadership Participation	11889,274,178,7312
-Public Perception of Freedom of Speech	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Public Perception of Freedom of Speech	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 Public Perception of Freedom of Speech Inclusion	10759,1130,265,9,178,7312
-Public Perception of Health Provision	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Public Perception of Health Provision	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 Public Perception of Health Provision Education	10759,1395
 Public Perception of Health Provision Reading	11889,452
-Public Perception of Inclusion	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
-Public Perception of Infrastructure	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Public Perception of Inclusion	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
+Public Perception of Infrastructure	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 Public Perception of Infrastructure Rural Economy	10759,1130,265,9,178,7312
-Public Perception of Political Participation	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Public Perception of Political Participation	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 Public Perception of Political Participation Access	11886
 Public Perception of Political Participation FOUNDATIONS	12163,178,7312,286
 Public Perception of Political Participation RIGHTS	19822
 Public Perception of Political Participation Rights	10759,1395
-Public Perception of Security	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
-Public Perception of Social Protection	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
-Public Services Public Perception of Inclusion	10759,78,1315,188,7598
+Public Perception of Security	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
+Public Perception of Social Protection	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
+Public Services Public Perception of Inclusion	10759,78,1315,188,7598,274
 Q1 Q2 Q3 Q4 Percentage	11986
 Q3 Q4 Percentage	11986
 Quality Percentage Percentage Assets	11131
@@ -599,24 +600,24 @@ S Percentage	10763
 SADC DATA-ONLY MOBILE-BROADBAND BASKET PERCENTAGE	11211
 SDG17.8.1 Percentage	18441
 SECTION PERCER Article	15999
-SMART Zambia Institute National Coordinator Percy	3695,670,3019,6186
+SMART Zambia Institute National Coordinator Percy	3695,670,3019,6186,6550
 SMART Zambia National Coordinator Mr. PERCY	13384
 SMART Zambia National Coordinator Percy Chinyama	4740,1244,120,1026,3085,2160,99,1168
 SMMEs. Perceived	7759
 STAKEHOLDER PERCEPTION Realigned Strategy Map FINANCIAL	11131
 SZI National Coordinator Percy Chinyama	5500,3871
 Safety Public Perception of Easiness	19822
-Score Rank Public Perception of Economic Opportunities	12152,188,7598
+Score Rank Public Perception of Economic Opportunities	12152,188,7598,274
 Score Rank Public Perception of Infrastructure	11870
 Sectoral Share of Real GDP Percentage Contribution	17235
 Security Infrastructure and Capacity Enhancement Percentage	15845
-Security Public Perception of Social Protection	10837,1315,188,7598
+Security Public Perception of Social Protection	10837,1315,188,7598,274
 Service Availability Perception	5676
 Skills Percentage	18441
 Smart Zambia Institute National Co-ordinator Percy	5501
 Smart Zambia Institute National Coordinator PERCY	5483
 Smart Zambia Institute National Coordinator Percy	12416,1155
-Smart Zambia National Coordinator Percy Chinyama	5522,3870
+Smart Zambia National Coordinator Percy Chinyama	5522,3870,10819
 Stable Governance Percentile	16996
 Stakeholder Perception Index	11134
 Stakeholder Perception Score	11134
@@ -671,7 +672,7 @@ Wasting Percentage	18441
 Weekly Category Description Percentile	17157
 Women Percentage	18441
 Women Public Perception of Female Leadership	10759
-Women Public Perception of Female Leadership Participation	10837,1315,188,7598
+Women Public Perception of Female Leadership Participation	10837,1315,188,7598,274
 Workforce Percentage	11882
 XVIII. Ponto Percentual	18798
 Year Percentage	11395,529,4155

@@ -1656,6 +1656,7 @@ CONTRAT DE TRAVAIL EMPLOIS Contrat	16171
 CONTRAT ELECTRONIQUE	17829
 CONTRAT L'ulilisoteur	15429
 CONTRATAÇÃO	16110
+CONTRATAÇÃO DE EMPRESA DE CONSULTORIA PARA	20088
 CONTRATO DE EMPRÉSTI	16219
 CONTRATO DE EMPRÉSTIMO PROGRAMA DE GOVERNAÇÃO	16219
 CONTRATO PARA O PROJECTO DE MODERNIZAÇÃO	11372
@@ -2046,6 +2047,7 @@ Conditions Générales du Contrat	10975
 Conditions of Contract	13185,1895
 Conditions of Contract and Contract Forms	13185,342,1553
 Congolais de Controle	11923
+Congolese Control Office	20172
 Congo’s Nationally Determined Contributions	15553
 Coninx Industries Limited Data Controller INST-746467CD26B	7167
 Connect To Retain CBO Data Controller	7167
@@ -2413,6 +2415,7 @@ Contratação Profissional	15526
 Contratação Pública	11449,1349,2728,386,144
 Contratação Pública ADI2 Sim EST-TEC18 Plataforma	15532
 Contratação de Empresa	12034
+Contratação de Empresa de Consultoria	20088
 Contratação de Especialista	11440,1
 Contratação de Seguro	3519
 Contratação de Serviço Para Apoio	11463
@@ -2542,7 +2545,7 @@ Contributeurs	15472
 Contributeurs Abdourahamane Salifou Administrateur	18177
 Contributeurs Salissou Soumana Karimou Webmaster Société	9668
 Contributif.pdf	13714
-Contributing	11,571,998,721,36,582,39,76,44,155,102,773,471,15,670,9,64,253,29,80,594,1239,223,613,126,756,117,372,229,568,595,787,37,440,72,152,283,2,76,415,473,135,402,160,109,116,25,17,115,76,634,68,743,482,13,176,292,7,263,168,771
+Contributing	11,571,998,721,36,582,39,76,44,155,102,773,471,15,670,9,64,253,29,80,594,1239,223,613,126,756,117,372,229,568,595,787,37,440,72,152,283,2,76,415,473,135,402,160,109,116,25,17,115,76,634,68,743,482,13,176,292,7,263,168,771,1564
 Contributing Author	15663,2186,916
 Contributing Changes	13471
 Contributing Partner	6153
@@ -2703,6 +2706,7 @@ Control Strategies	14760
 Control Surgery	15206
 Control Surgery Protocols	15206
 Control Terraces Erosion	17043
+Control Test URL	20160
 Control Treatment Total Blantyre	12978
 Control Trial SCM Synthetic Control Method	12006
 Control Unit ENAP Eswatini National AIDS	12976
@@ -2729,7 +2733,7 @@ Control and Surveillance Coordination Centre	12640
 Control and Use of Personal Mobile Devices	14839
 Control da Polícia Nacional	10788
 Control de Gestión	15478
-Control of Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Control of Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 Control of Communicable Diseases Access	19822
 Control of Corruption	1828,2700,10369,2099
 Control of Counterfeit and Low-Quality Medicines	10776
@@ -2741,7 +2745,7 @@ Control of Goods Act	8399,5004
 Control of Goods Prices and Other Charges	12629
 Control of HIV	11417
 Control of Neglect-	10780
-Control of Non-Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Control of Non-Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 Control of Personal Data Protection	3563,1441
 Control of Private Hospitals	1009
 Control of Public Procurement	11906
@@ -4236,7 +4240,7 @@ Eswatini National Cancer Control Unit	12976
 Eswatini's Nationally Determined Contribution	13207
 Eswatini’s Nationally Determined Contribution	11134
 Etat Contrôle	15624
-European Centre for Disease Prevention and Control	8376
+European Centre for Disease Prevention and Control	8376,11843
 Evaluate Security Controls On Physical Infrastructure	34
 Evaluate Select Control Baseline Effectivenes Control	1000
 Evaluation Medicines Control Authority of Zimbabwe Machine	4528
@@ -4564,6 +4568,7 @@ Internal Control Officer	14835
 Internal Control Recommendations Implemented Not Implemented	14738
 Internal Control Systems	6946,4909
 Internal Control Unit	11197,1,3540,7,1,89
+Internal Control Weaknesses	20176
 Internal Control and Internal Audit	19564
 Internal Control and Internal Auditing	15659
 Internal Control and Internal Auditing. Administrative	15518
@@ -5002,7 +5007,7 @@ National Command and Control Centre. Digital Services	11774
 National Commission for Control of Insurance	14997
 National Contravention Register	7755
 National Contribution Administration. Work	14952
-National Control Centre	14422,2544,139,123
+National Control Centre	14422,2544,139,123,2995
 National Control Centre for Energy European Commission	844
 National Determined Contribution	970,17488
 National Director of Financial Control	17615
@@ -5015,6 +5020,7 @@ National Drug Substance Abuse Control and Enforcement	3746
 National Food and Drug Quality Control	16922
 National Food and Drug Quality Control Laboratory	16922
 National GBON Contribution Plan	18309
+National Leprosy and Tuberculosis Control Program	20219
 National Malaria Control Program	17369
 National Malaria Control Program Report	10776
 National Malaria Control Program and Last Miles	16971
@@ -5254,6 +5260,7 @@ Plataforma Eletrónica de Contratação Pública O Governo	5462
 Plateforme Nationale de Contrôle des Réseaux Mobiles	4802
 Plateforme de Lutte Contre la Cybercriminalité	10911
 Pointe-Noire Contractualiser	16012
+Police Command and Control	20198
 Policy Financing NDC Nationally Determined Contribution	18851
 Poliomielite Vacina Contra	10777
 Pollution Control	17157
@@ -5412,6 +5419,7 @@ Reference Report and Draft Neg Signed Contract	17180,39
 Reference Signed Contract Contract Completion	17180
 Refuse-collections Agents LGA Ward Contract Period	19585
 Regimes de Proteção Social Contributivos	11547
+Regional Leprosy and Tuberculosis Control Officer	20219
 Register of Data Controllers and Data Processors	14524
 Registers Contract	6432
 Registo Geral de Contribuintes	11383
@@ -5553,6 +5561,7 @@ Satellite PMU and Contractor Sexual	1988
 Satellite PMU and Contractor Social	1988
 Satellite PMU and Contractor the C-ESMP	1988
 Schedule of Requirements. During Contract	13185
+Scientific Contribution	20167
 Scope of Contract	14783,19
 Secrecy RBC Role-Based Access Control	11952
 Secretariat and Contract Manager Proficiency	19807
@@ -5703,6 +5712,8 @@ TABASAMU DENTAL SURGEONS LIMITED Data Controller	7167
 TANZANIA NATIONAL AUDIT OFFICE Controller	19585
 TAVETA Data Controller INST-9294893F66C TAITA Kenya	7167
 TAXE DE CHANGEMENT DE CONTROLE	16047
+TB Control Officer	20219
+TB Control Officers	20219
 TCCF Technology Change Control Framework TCO	6432
 TEMPLATE FOR SUBMISSION OF CONTRIBUTIONS	578
 TIA CONTRACT CITING FRAUD	14041
@@ -5758,6 +5769,7 @@ Terminal de Contrôle	16248
 Thematic Contributions	14058
 Through Technology Mangudya’s Mutapa Now Controls	3016
 Tige Contrarié	18099
+Tightens Lending Controls By FPA Staff	20104
 Timber Sales Contracts	17140
 Tobacco Control	7760,3016,2698,3815,1892
 Tobacco Control FRH Family and Reproductive Health	17289
@@ -5801,7 +5813,8 @@ Trinidad and Tobago Imported Vehicle Licensing Controls	16631
 Trust Property Control Act	11276,1276,6,71
 Trustees Data Controller INST-813173D2D9A NAIROBI Kenya	7167
 Tráfego de Controlo de Telecomunicações	8745,219
-Tuberculosis Control Program	18162
+Tuberculosis Control Program	18162,2057
+Tuberculosis Control Program. Validated	20219
 Tuberculosis and Leprosy Prevention and Control	14033
 Tunisie Montant du Contrat	19441
 Type Approvals. CHAPTER XII CONTRAVENTION	18602

@@ -58,7 +58,7 @@ Addressing DRC's Rural Divide Deploying	2278
 Addressing FCV Drivers and Sources of Resilience	11469
 Administration DRS Deeds Registration System DRTE	11261
 Administrative First Draft	16853
-Adopting DRE	16966
+Adopting DRE	16966,3257
 Adverse Drug Reaction	9855
 Adverse Drug Reactions	14037
 Adverse The DRC	11994
@@ -113,6 +113,7 @@ Annuaire DRPSIAP TAOUDENIT	17842
 Anti Drug	14760
 Anti Drug and Smuggling Unit	14760
 Anti Drug and Smuggling Unit ASP	14760
+Anti-Corruption Drive By Amos Harris	20149
 Antsirabe. The DRA	2509
 Application for Driving License	12333
 Applications Drone	17983
@@ -487,6 +488,7 @@ DRAFT LAW N	15102
 DRAFT MALI NUMERIQUE	17824
 DRAFT NATIONAL DATA GOVERNANCE POLICY	5244
 DRAFT NATIONAL DATA GOVERNANCE POLICY LIBERIA	5244
+DRAFT NATIONAL ENERGY COMPACT	20223
 DRAFT OFFICIAL IDENTITY MANAGEMENT POLICY	11977
 DRAFT SEVEN SEYCHELLES NATIONAL GENDER POLICY	18889
 DRAFT SOUTH AFRICA NATIONAL ARTIFICIAL INTELLIGENCE	11265
@@ -536,7 +538,7 @@ DRC Digital Transformation Project World Bank	1771
 DRC EVD	14950
 DRC Eastern Recovery Project	15990
 DRC Eastern Recovery Project Product	15990
-DRC Ebola	8033
+DRC Ebola	8033,12130
 DRC Equatorial Guinea Gabon South Sudan	690
 DRC Expansion Finnfund	651
 DRC FIBRE PHASE	253,598
@@ -1039,6 +1041,7 @@ DRST Direction	19216
 DRTSS	12309
 DRUG VALUE RS	14760
 DRUGS	13093
+DRUMMERS and SIRENS	20213
 DRUNK DRIVING	14760
 DRV Bund	11156
 DRWcLXmSKTUVAhUd	6423
@@ -1179,7 +1182,7 @@ Dra. Zalha Assoumana	7702
 Drachsler	8602
 Dracunculose	15712
 Drafitra	14488,1,1
-Draft	396,611,679,142,110,1,166,12,872,594,95,131,304,101,314,55,50,1453,291,141,148,881,160,778,44,17,962,17,721,522,7,44,369,34,14,561,69,39,47,56,202,92,54,156,163,302,54,361,1473,14,10,82,26,45,369,36,133,24,15,42,2,50,366,559,197,13,5,14,5,4,8,16,43,68,128,18,103,339,285,23,390,8,65,115,10,37,86,179,245,323,273,3,23,57,53,230
+Draft	396,611,679,142,110,1,166,12,872,594,95,131,304,101,314,55,50,1453,291,141,148,881,160,778,44,17,962,17,721,522,7,44,369,34,14,561,69,39,47,56,202,92,54,156,163,302,54,361,1473,14,10,82,26,45,369,36,133,24,15,42,2,50,366,559,197,13,5,14,5,4,8,16,43,68,128,18,103,339,285,23,390,8,65,115,10,37,86,179,245,323,273,3,23,57,53,230,155
 Draft AI	10246,5467
 Draft AI Policy	10246,984
 Draft Accounts	19712
@@ -1215,6 +1218,7 @@ Draft Civil Code of Eritrea	19920
 Draft Cloud Policy	11993
 Draft Cloud Policy The Draft Cloud	11993
 Draft Code of Practice for Lifts Inside Wind	1009
+Draft Communications Bill	20221
 Draft Communications Tribunal	19641
 Draft Company Law. Page	14869
 Draft Competition Regulations	18485
@@ -1466,7 +1470,7 @@ Dravéla	17817
 Draw-off	13385
 Drawdown	15399
 Drawdowns	14546
-Drawing	161,401,722,423,116,5,874,287,32,562,140,977,43,105,80,462,221,324,252,349,26,386,203,91,296,117,37,59,39,35,109,12,20,56,129,51,131,30,13,84,352,24,33,81,271,35,48,117,95,223,69,151,369,7,116,343,191,21,17,9,18,85,3,279,51,1,79,540,2,120,16,185,537,57,138,252,194,35,37,20,257,289,97,242,35,218,345,178,46,165,1422,21,153,354,36,223,11,1052,949
+Drawing	161,401,722,423,116,5,874,287,32,562,140,977,43,105,80,462,221,324,252,349,26,386,203,91,296,117,37,59,39,35,109,12,20,56,129,51,131,30,13,84,352,24,33,81,271,35,48,117,95,223,69,151,369,7,116,343,191,21,17,9,18,85,3,279,51,1,79,540,2,120,16,185,537,57,138,252,194,35,37,20,257,289,97,242,35,218,345,178,46,165,1422,21,153,354,36,223,11,1052,949,334
 Drawing Rights SDHUD State Department for Housing	2775
 Drawing Rights SEA Sexual Exploitation and Abuse	1264
 Drawing Rights SLAPIS Sirba River Basin	18198
@@ -1484,6 +1488,7 @@ Dre Triphonie Nkurunziza	13760
 Dream	8460
 Dream Atlantic Garden Villas	18580
 Dream Bridge	14721
+Dream In By Job Angula	20151
 DreamOval Chief Executive Officer Derek Laryea	236
 Dreamlab Technologies	10764
 Dreams	11050
@@ -1615,10 +1620,10 @@ DriveHope	3264
 Driven	4207,518,1425,714,202,2083,1582,170,1039,982,390,2,218,50,286,147,136,784,62,944,986,46,141,2614,73,103,73
 Driven Decisions Primary Health Care Strengthening	7761
 Driven Development CHW Community Health Worker	11525
-Driver	1730,1,2428,6616,405,1038,186,572,371,1398,90,95,2184,1673
+Driver	1730,1,2428,6616,405,1038,186,572,371,1398,90,95,2184,1673,1388,46
 Driver Certification	12256
 Driver Licence	10714
-Driver License	14647
+Driver License	14647,5574
 Driver License Management	17142
 Driver Licensing	5645
 Driver Merit	11774
@@ -1633,11 +1638,12 @@ Driver of Conflict and Displacement. Refugee-Led Research	15342
 Driver of Financial Sector Development	12598
 Driver of Systemic Change Embed	10865
 Driver's Licence	19839,96
-Driver's License	16983,1469,1484
+Driver's License	16983,1469,1484,285
 Driver's Vocational Card Management System EMF	718
 Drivers	718,222,874,174,108,757,969,1541,602,1932,69,2976,552,706,53,25,661,155,14,1682,2051,101,36,76,633,996,1195
 Drivers Licence ZRCP TBA	1988
-Drivers License	16841
+Drivers License	16841,3380
+Drivers License System	20221
 Drivers and Mobile Plant Operators	16266
 Drivers and Mobile Plant Operators Electrical and Electronic	16266
 Drivers and Vehicles Licensing Authority	19966
@@ -1658,6 +1664,7 @@ Drives People and Businesses	17011
 Drives the Performance of COVID-19 Tracing Apps	5700
 Driving	1131,30,935,1881,2309,130,4112,284,10,34,176,49,143,2,11,13,39,913,242,9,892,116,1208,5,88,429,14,1061,697,1615,371,750,62,9
 Driving AI Transformation	11994
+Driving Africa	20203
 Driving Agricultural Digital Transformation	13095
 Driving Alignment and Sustainability Burkina Faso	15833
 Driving Change	9708
@@ -1688,10 +1695,12 @@ Driving Innovation	5249,9921
 Driving Innovation Through Six Strategic Pillars	13077
 Driving Innovation and Digital Transformation	17116
 Driving Innovation and Entrepreneurship	10834
+Driving Investment	20122
 Driving Libya’s Digital Future	9262
 Driving Licence Card Account	4554
 Driving License	12328,2434
 Driving License Exam Results	12333
+Driving License Issuance	20221
 Driving Local Economic Inclusion Through Trade	13042
 Driving OSH Management System	14761,74
 Driving Ownership	13578
@@ -2165,6 +2174,7 @@ Holdings of Special Drawing Rights IMF Quota	11131,3
 Home Affairs The Draft Revised White	11986
 Hon'ble President of India Smt. Droupadi Murmu	12617
 Hon. Dr. Justin Valfrido Droko	18661
+Honourable Habibatou Drammeh	20217
 Household Drinking	15578
 Household Drinking Water Connections Natural Gas	15578
 Household Drinking Water Connections Project Natural	15578
@@ -2673,7 +2683,7 @@ Prentice-Hall. Dragicevic	19654
 Prepare Draft of Bylaws Amendment	5853
 Presentation. The Second Draft Report Workshop	962
 President Dr.Julius Maada Bio	18563
-President John Dramani Mahama	2338,3594,2,12,2417,116,700,2149,4495,36,1687,171,2248
+President John Dramani Mahama	2338,3594,2,12,2417,116,700,2149,4495,36,1687,171,2248,88
 President. The DRCPass VALIDATION PHASE	2389
 Prevention of Drug Abuse and Rehabilitation	19016
 Prevention of Drug Abuse and Rehabilitation Agency	19096

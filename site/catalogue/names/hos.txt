@@ -139,7 +139,7 @@ Bank. CBE Host	11134
 Bank. The Zambia Refugee and Host Communities	1988
 Bansang General Hospital	16922
 Bansang General Hospital Staff Quarters	16896,26
-Bansang Hospital	16922
+Bansang Hospital	16922,3297
 Bar Hostess Empowerment and Support Programme Data	7167
 Barriers for Refugees and Host Communities GSMA Mobile	18715
 Basse District Hospital	16896,26
@@ -159,7 +159,7 @@ Bokamoso Private Hospital	12607,32
 Botswana Hosts	12625
 Botswana Hosts First National Cyber Drill	12625
 Bravocrest Hospital Limited Data Controller INST-5334668891B	7167
-Brikama District Hospital	16896,26
+Brikama District Hospital	16896,26,3297
 Brikama Hospital and Basse Hospital	16922
 Bringing Together Displaced People and Host Communities	6947
 Brooke Hospital for Animals East Africa Data	7167
@@ -393,6 +393,7 @@ Emergency Doctor Health Information Oﬃcer Hospital	8603
 Emerging Technologies Hosting	7548
 Energy and Hospitality Rise	9815
 Enfermos Hospitalizados	4209
+Eng. Hossam Mukhtar Al-Rabit	20150
 Enhance Financial Well-Being for Refugees and Hosts	13938
 Enhance the Welfare of Refugees and Host Communities	12297
 Enhancing Data Hosting Capacity	14674
@@ -620,6 +621,7 @@ Hospitality	1877,898,7040,2141,199,146,676,3289,745
 Hospitality Collar White Blue Q1	16266
 Hospitality Customer	14566
 Hospitality Industry	12896,4974
+Hospitality Key Economic Sectors Agriculture	20228
 Hospitality Managers	16266
 Hospitality Think Tank	7253
 Hospitality and Tourism Activities Management	16996
@@ -740,6 +742,7 @@ Hosting the AfCFTA Digital Trade Corridor	17553
 Hosting the Harare	10073
 Hosting the SIIPS	3964
 Hosting. Climate Resilience	14674
+Hostmaster	20160
 Hostmasters	12058
 Hostmeng Web Solution	10179
 Hosts	8285,6389
@@ -791,7 +794,7 @@ KIMS Hospital	13562
 KZN Amajuba DM Newcastle Provincial Hospital	11986
 Kalafong Hospital	11986
 Kamuzu Central Hospital	12253,726,187
-Kanifing General Hospital	16922,306
+Kanifing General Hospital	16922,306,2991
 Kanifing Hospital	10062,6860
 Karasburg State Hospital	12947
 Kathu Private Hospital	11986

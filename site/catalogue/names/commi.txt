@@ -19,7 +19,7 @@ ADMINISTRATION OF STEERING COMMITTEE ON TRADE	13403
 AEAA Executive Committee	13477
 AFFAIRS AND INTERNATIONAL COOPERATION PORTFOLIO COMMITTEE	13131
 AFFAIRS PORTFOLIO COMMITTEE ON THE DEBATE	13131
-AFR Afrobarometer AUC African Union Commission	10759,78,1052,451,7598
+AFR Afrobarometer AUC African Union Commission	10759,78,1052,451,7598,274
 AFRICAN COMMITTEE OF EXPERTS	14150
 AFRICAN COMMUNITY MONETARY AFFAIRS COMMITTEE	7815
 AFRICAN FINANCIAL STABILITY COMMITTEE AFRICAN FINANCIAL	6938
@@ -83,7 +83,7 @@ ASSEMBLY OF HEADS OF STATES COMMITTEE	14434
 ASSOCIATION Commissaire	16425
 ATTENDANCE AT BOARD AND COMMITTEE MEETINGS	1554
 ATTRIBUTIONS ET COMPOSITIONS DES COMMISSIONS SPECIALISEES	16616
-AU Commission	961,282,21,333,217,108,1136,1065,969,137,596,544,767,393,663,1277,5195,2759,322
+AU Commission	961,282,21,333,217,108,1136,1065,969,137,596,544,767,393,663,1277,5195,2759,322,2407
 AU Commission Article	17745
 AU Commission Chairperson	5302
 AU Commission Chairperson Mahmoud Ali Youssouf	11817
@@ -189,7 +189,7 @@ Africa. The Commissioner	8359
 Africa. United Nations Economic and Social Commission	12413
 AfricaConnect4 European Commission	1453
 African Civil Aviation Commission	14409
-African Commission	1814,1769,2503,102,763,1534,597,231,103,1037,276,366,1106,839,1033,591,78,2275,1,753,179,1284
+African Commission	1814,1769,2503,102,763,1534,597,231,103,1037,276,366,1106,839,1033,591,78,2275,1,753,179,1284,990
 African Commission Declaration of Principles	4753
 African Committee of Experts	1597,10380,1063,1109,1
 African Digital Compact The AU Commission	1775
@@ -199,7 +199,7 @@ African Island States Climate Commission	10348,72
 African Network of Information Commissions General Assembly	13030
 African Revenue Service SCRA Standing Committee	5533
 African Union African Commission	19931
-African Union Commission	578,383,116,84,82,21,13,180,357,868,207,169,929,116,20,664,305,152,58,739,209,417,123,207,139,119,71,203,264,1,156,1,476,320,415,32,415,407,153,307,673,134,769,81,573,198,38,20,10,5,86,46,331,17,23,149,509,138,18,134,58,25,11,202,514,693,213,212,15,334,25,85,48,51,13,30,64,54,9,55,18,385,25,178,177,470,100,12,181,202,11,110,645,69,114,154
+African Union Commission	578,383,116,84,82,21,13,180,357,868,207,169,929,116,20,664,305,152,58,739,209,417,123,207,139,119,71,203,264,1,156,1,476,320,415,32,415,407,153,307,673,134,769,81,573,198,38,20,10,5,86,46,331,17,23,149,509,138,18,134,58,25,11,202,514,693,213,212,15,334,25,85,48,51,13,30,64,54,9,55,18,385,25,178,177,470,100,12,181,202,11,110,645,69,114,154,228
 African Union Commission Andrew Dabalen	11839
 African Union Commission Department Tags	13109
 African Union Commission Digital Identity Platform	289
@@ -231,6 +231,7 @@ African Union Committee of Ten Heads of State	18479
 African Union Congress Special Technical Committee	12092
 African Union and United Nations Economic Commission	14149,2765
 African Union's Commissioner for Infrastructure and Energy	8113
+African Union's Specialised Technical Committee	20182
 African Union's Specialized Technical Committee	8865,3823
 African Union’s Commission	26,1,1
 Afrique. Commission	15599
@@ -240,6 +241,7 @@ Age Determination Committees	12959
 Agencies and Commissions	1777,15076,19,77,190
 Agencies and Commissions MAN	16872
 Agencies and Commissions MOA Ministry of Agriculture MOE	16935
+Agency Committee	20073
 Agency National Human Rights Commission National	16973
 Agri-Finance Committee. The FSTC	14997
 Agricultural Statistics Coordination Committee	18707
@@ -346,6 +348,7 @@ Assistant Commissioner for Electronic Services	10066
 Assistant Commissioner for Health Information	4922
 Assistant Commissioner for Monitoring and Evaluation	19798
 Assistant Commissioner for Ports Operation	17367
+Assistant Commissioner of Client Services	20200
 Assistant Commissioner of Customs	18736
 Assistant Commissioner of Police	14760
 Assistant Commissioner of Police ADSU	14760
@@ -514,7 +517,7 @@ Bouya DOUMBIA Commissaires	17828
 Branch Committees	14852
 Brazilian Internet Steering Committee	5366
 Brazzaville Commissariat	15524
-British High Commission	3895,231,1101,2934,1197,499,683,409,281,69,1960,1494,40
+British High Commission	3895,231,1101,2934,1197,499,683,409,281,69,1960,1494,40,5389
 British High Commission County Lead and Advisor	14555
 British High Commission Nairobi	899
 British High Commission's Wilfred Oluoch	12104
@@ -689,7 +692,7 @@ COMMISSIONS CORPS OU GRADES Ingénieur	15432
 COMMISSIONS CORPS OU GRADES REPRESENTANTS	15432
 COMMISSION’S PRACTICES	5245
 COMMIT	13294,957
-COMMITMENTS	17037,2900
+COMMITMENTS	17037,2900,245
 COMMITMENTS Participants	17318
 COMMITTE	19518
 COMMITTED	3861,10586
@@ -742,6 +745,7 @@ CPC Central Committee and Minister of Foreign Affairs	15071
 CPCC Continental Project Coordination Committee CPF	1264
 CR Steering Committee	14889
 CRA Commission for Refugee Affairs	18625
+CRASA Committee	20056
 CRASA Human Resources Committee	10337
 CRASA Legal and Policy Committee	9692
 CRC Committee	13040,641
@@ -955,7 +959,7 @@ Commissariats	10891
 Commissbnerfor Refugees	16836
 Commissio	15580,1292
 Commissio Côte	15712
-Commission	7,18,88,195,159,77,4,95,1,93,52,110,41,21,7,2,2,60,186,2,21,2,38,15,3,34,18,107,16,80,43,33,16,36,55,7,57,6,7,95,16,1,38,24,2,72,1,46,209,59,2,157,47,19,63,88,52,1,3,17,167,25,98,65,40,5,62,52,14,7,23,12,7,8,17,37,16,101,1,1,27,55,37,11,11,62,11,20,6,38,79,4,33,12,112,1,23,4,32,87,117,9,48,65,1,39,53,2,77,1,15,11,26,17,8,19,16,27,27,23,20,17,50,14,45,6,19,57,35,4,15,5,8,99,1,35,4,18,41,10,10,189,22,126,32,93,1,20,19,7,35,144,15,20,102,7,12,34,24,27,4,9,64,53,46,7,1,1,35,70,38,128,7,17,4,16,79,36,26,3,2,4,4,54,75,35,23,3,5,3,19,4,39,74,29,36,9,17,53,14,11,2,1,20,29,28,19,12,1,39,30,31,3,21,63,12,10,24,27,4,20,6,4,2,11,79,25,42,58,6,18,12,5,5,18,42,14,2,29,46,49,3,25,1,22,2,22,48,44,30,14,1,2,26,38,38,29,23,5,1,17,4,6,14,21,1,4,14,3,84,26,5,23,42,25,3,83,7,8,5,1,22,7,6,39,32,18,78,24,1,23,59,2,70,43,51,1,32,19,55,76,35,2,95,12,49,15,1,20,43,18,13,5,55,46,107,3,4,22,3,47,3,1,108,20,27,9,21,31,68,92,8,46,37,1,6,2,4,16,1,32,2,33,14,42,10,75,17,34,32,1,4,13,3,1,12,18,8,26,23,5,3,12,17,13,21,204,28,3,15,247,16,38,36,15,1,28,12,20,17,6,55,8,51,21,2,9,56,31,21,40,6,32,64,20,29,9,12,7,40,34,2,1,48,54,1,101,129,1,20,2,4,2,2,7,8,1,1,2,4,13,7,5,11,5,5,22,8,28,26,62,50,11,9,20,30,19,20,3,14,6,4,2,5,4,20,7,8,15,6,24,33,4,19,1,22,9,11,20,69,36,11,69,49,59,59,32,6,34,16,4,36,82,41,33,15,12,105,7,26,6,1,19,61,76,1,1,7,40,2,7,3,80,1,5,23,15,13,27,10,19,6,3,7,17,29,5,3,7,11,11,2,1,1,4,3,1,12,19,34,109,246,38,1,21,17,2,5,4,1,1,8,1,2,15,10,6,18,3,3,3,7,4,15,7,6,1,2,14,5,3,4,7,4,1,41,2,25,3,1,10,5,4,2,16,50,5,11,16,9,8,2,5,1,63,34,6,14,56,26,9,6,3,28,26,48,52,1,39,18,2,18,33,33,4,3,17,14,6,45,38,11,1,5,24,8,37,15,33,7,10,53,41,1,11,6,1,10,32,31,29,47,47,5,1,7,8,7,14,4,7,4,13,50,1,7,12,3,5,18,23,86,34,82,7,8,2,22,35,9,31,15,5,9,16,60,21,7,1,13,29,8,40,53,13,29,24,20,65,17,36,1,2,8,1,1,1,3,9,2,3,1,13,9,9,2,18,16,19,2,9,33,4,1,10,2,21,16,29,1,1,17,10,4,7,64,21,13,18,9,33,3,5,19,2,1,2,5,2,3,1,7,1,4,8,1,4,12,24,23,8,18,25,1,4,2,1,7,3,2,1,1,6,2,10,8,3,11,22,31,1,23,6,10,1,12,135,147,11,27,1,28,30,1,57,15,31,9,4,7,5,16,10,8,3,11,36,23,1,6,7,9,7,1,40,14,16,115,8,13,17,44,12,4,14,37,7,44,36,40,16,6,3,8,8,11,41,88,58,8,5,4,8,5,9
+Commission	7,18,88,195,159,77,4,95,1,93,52,110,41,21,7,2,2,60,186,2,21,2,38,15,3,34,18,107,16,80,43,33,16,36,55,7,57,6,7,95,16,1,38,24,2,72,1,46,209,59,2,157,47,19,63,88,52,1,3,17,167,25,98,65,40,5,62,52,14,7,23,12,7,8,17,37,16,101,1,1,27,55,37,11,11,62,11,20,6,38,79,4,33,12,112,1,23,4,32,87,117,9,48,65,1,39,53,2,77,1,15,11,26,17,8,19,16,27,27,23,20,17,50,14,45,6,19,57,35,4,15,5,8,99,1,35,4,18,41,10,10,189,22,126,32,93,1,20,19,7,35,144,15,20,102,7,12,34,24,27,4,9,64,53,46,7,1,1,35,70,38,128,7,17,4,16,79,36,26,3,2,4,4,54,75,35,23,3,5,3,19,4,39,74,29,36,9,17,53,14,11,2,1,20,29,28,19,12,1,39,30,31,3,21,63,12,10,24,27,4,20,6,4,2,11,79,25,42,58,6,18,12,5,5,18,42,14,2,29,46,49,3,25,1,22,2,22,48,44,30,14,1,2,26,38,38,29,23,5,1,17,4,6,14,21,1,4,14,3,84,26,5,23,42,25,3,83,7,8,5,1,22,7,6,39,32,18,78,24,1,23,59,2,70,43,51,1,32,19,55,76,35,2,95,12,49,15,1,20,43,18,13,5,55,46,107,3,4,22,3,47,3,1,108,20,27,9,21,31,68,92,8,46,37,1,6,2,4,16,1,32,2,33,14,42,10,75,17,34,32,1,4,13,3,1,12,18,8,26,23,5,3,12,17,13,21,204,28,3,15,247,16,38,36,15,1,28,12,20,17,6,55,8,51,21,2,9,56,31,21,40,6,32,64,20,29,9,12,7,40,34,2,1,48,54,1,101,129,1,20,2,4,2,2,7,8,1,1,2,4,13,7,5,11,5,5,22,8,28,26,62,50,11,9,20,30,19,20,3,14,6,4,2,5,4,20,7,8,15,6,24,33,4,19,1,22,9,11,20,69,36,11,69,49,59,59,32,6,34,16,4,36,82,41,33,15,12,105,7,26,6,1,19,61,76,1,1,7,40,2,7,3,80,1,5,23,15,13,27,10,19,6,3,7,17,29,5,3,7,11,11,2,1,1,4,3,1,12,19,34,109,246,38,1,21,17,2,5,4,1,1,8,1,2,15,10,6,18,3,3,3,7,4,15,7,6,1,2,14,5,3,4,7,4,1,41,2,25,3,1,10,5,4,2,16,50,5,11,16,9,8,2,5,1,63,34,6,14,56,26,9,6,3,28,26,48,52,1,39,18,2,18,33,33,4,3,17,14,6,45,38,11,1,5,24,8,37,15,33,7,10,53,41,1,11,6,1,10,32,31,29,47,47,5,1,7,8,7,14,4,7,4,13,50,1,7,12,3,5,18,23,86,34,82,7,8,2,22,35,9,31,15,5,9,16,60,21,7,1,13,29,8,40,53,13,29,24,20,65,17,36,1,2,8,1,1,1,3,9,2,3,1,13,9,9,2,18,16,19,2,9,33,4,1,10,2,21,16,29,1,1,17,10,4,7,64,21,13,18,9,33,3,5,19,2,1,2,5,2,3,1,7,1,4,8,1,4,12,24,23,8,18,25,1,4,2,1,7,3,2,1,1,6,2,10,8,3,11,22,31,1,23,6,10,1,12,135,147,11,27,1,28,30,1,57,15,31,9,4,7,5,16,10,8,3,11,36,23,1,6,7,9,7,1,40,14,16,115,8,13,17,44,12,4,14,37,7,44,36,40,16,6,3,8,8,11,41,88,58,8,5,4,8,5,9,65,24,3,44,23,40
 Commission A.140	12549
 Commission A.148	12549
 Commission ADR Alternative Dispute Resolution CBOs	18477
@@ -1254,6 +1258,7 @@ Commission of Zambia	12465
 Commission the Eligibility Committee for Refugees	12145
 Commission the Refugee Appeal Board	12145
 Commission's Chief Electoral Officer	17654
+Commission's Director	20082
 Commission's Director General for Support Services	19112
 Commission's Guidance Notice	8078
 Commission's Head of Public Affairs	9563
@@ -1329,7 +1334,7 @@ Commissiona	18452
 Commissioned	1985,5202,3969,1501,2103,2164
 Commissioned Zambia Integrated Land Management Information	1222
 Commissioned the Electronic Human Resource Management System	19743
-Commissioner	3,570,452,605,358,1173,223,330,869,431,1107,301,499,17,198,316,96,173,1346,9,159,823,1123,66,14,2,16,10,259,36,44,348,256,70,112,95,1,38,1,37,61,5,101,148,9,134,64,213,40,132,2,111,359,144,18,273,15,20,19,112,151,10,48,37,53,299,1090,542,39,1,4,11,39,127,38,44,6,3,1330,6,6,15,1,1,74,43,106,441,394,2,7,51,9,35,84,14,15,48
+Commissioner	3,570,452,605,358,1173,223,330,869,431,1107,301,499,17,198,316,96,173,1346,9,159,823,1123,66,14,2,16,10,259,36,44,348,256,70,112,95,1,38,1,37,61,5,101,148,9,134,64,213,40,132,2,111,359,144,18,273,15,20,19,112,151,10,48,37,53,299,1090,542,39,1,4,11,39,127,38,44,6,3,1330,6,6,15,1,1,74,43,106,441,394,2,7,51,9,35,84,14,15,48,440
 Commissioner Abdullahi Hasan	2743
 Commissioner Adeoye	7794
 Commissioner Agoi	19709
@@ -1348,7 +1353,7 @@ Commissioner Electoral Commission for Sierra Leone	18467
 Commissioner Foreword	18444
 Commissioner G Topsy-Sonoo	10729
 Commissioner Geereesha Topsy-Sonoo	6086
-Commissioner General	573,3010,1085,31,1483,10,729,17,574,182,2856,49,1947,78,5,422,2,196,101,1,1049,76,701,301,1533,94,262,190,893,15,1,75,53,87,248,598,75,25,106
+Commissioner General	573,3010,1085,31,1483,10,729,17,574,182,2856,49,1947,78,5,422,2,196,101,1,1049,76,701,301,1533,94,262,190,893,15,1,75,53,87,248,598,75,25,106,504
 Commissioner General Adan Mohamed	14400
 Commissioner General Brightwell Nkambule	12422,17,732
 Commissioner General Directorate Daniel B. Kaitibi	18444
@@ -1486,7 +1491,7 @@ Commissioner for Social Security	14721
 Commissioner for Special Needs Education	19783
 Commissioner for Statistics	12901
 Commissioner for Strategic Coordination and Implementation	19798
-Commissioner for Trade	19990
+Commissioner for Trade	19990,162
 Commissioner for Trade and Economic Security	14630
 Commissioner of Agriculture	9609
 Commissioner of CHRAJ	19937
@@ -1508,7 +1513,7 @@ Commissioner of National Statistics	13154
 Commissioner of Oath	12041
 Commissioner of Oaths	11851,190,846,144,65,560
 Commissioner of PoHce	16836
-Commissioner of Police	783,7062,441,4173,451,622,49,1133,1,27,1,10,7,49,4109,213
+Commissioner of Police	783,7062,441,4173,451,622,49,1133,1,27,1,10,7,49,4109,213,1067
 Commissioner of Police CPL	14760
 Commissioner of Police. MPF	14760
 Commissioner of Police. PART III	14727
@@ -1636,7 +1641,7 @@ CommiteeEstablish	18305
 Commitmc	4301
 Commitmen	19576
 Commitment-year	1411
-Commitments	18,3303,88,1174,34,2173,349,450,17,1006,101,309,544,654,929,717,1,6,2378,457,953,240,1136,1913,35,535,417
+Commitments	18,3303,88,1174,34,2173,349,450,17,1006,101,309,544,654,929,717,1,6,2378,457,953,240,1136,1913,35,535,417,287
 Commitments News Notre	19616
 Commitments News Our Offerings Areas	19616
 Commitments The Borrower	11863
@@ -1662,7 +1667,7 @@ Committed New Generation Capacity Committed	11228
 Committed Proposed Allocation Current Proposed	15969,218,2172
 Committed Proposed Allocation Financing	1228
 Committed Proposed Allocation Official Use Only	4653
-Committee	11,385,189,2,131,65,189,28,15,116,19,4,44,12,11,62,1,270,43,138,43,3,207,11,314,205,140,10,257,80,3,229,19,268,59,131,24,93,56,46,138,11,21,85,340,81,123,43,140,135,483,62,435,78,25,183,116,102,214,39,151,8,135,467,1,266,6,24,122,54,74,431,83,257,1,94,121,39,213,367,156,26,32,22,2,1,27,130,59,1,89,67,96,245,67,44,10,1,270,83,1,1,3,1,19,1,22,11,5,37,2,4,11,9,21,8,3,1,14,282,142,69,5,10,1,11,30,4,3,116,1,9,9,150,174,18,21,1,54,2,29,9,37,2,8,12,19,114,26,7,60,10,140,8,9,5,1,48,10,8,63,13,2,25,42,206,7,1,9,42,1,15,17,52,32,28,149,326,4,13,7,118,1,40,24,56,139,13,11,1,160,7,27,3,33,1,57,8,6,6,2,6,1,17,5,1,20,18,12,2,2,3,4,4,4,1,6,30,9,25,51,58,3,1,5,98,34,73,156,22,189,37,22,223,18,22,510,360,40,11,3,13,22,2,29,5,5,17,6,83,72,53,31,5,14,89,20,1,41,6,3,11,16,27,17,101,206,1,34,69,73,12,303,56,77,65,1,14,12,1,1,1,1,1,1,2,67,4,35,1,15,99,5,25,148,17,1,25,33,7,29,98,94,61,221,63,1,6,1,38,86,62,56,37,39,93
+Committee	11,385,189,2,131,65,189,28,15,116,19,4,44,12,11,62,1,270,43,138,43,3,207,11,314,205,140,10,257,80,3,229,19,268,59,131,24,93,56,46,138,11,21,85,340,81,123,43,140,135,483,62,435,78,25,183,116,102,214,39,151,8,135,467,1,266,6,24,122,54,74,431,83,257,1,94,121,39,213,367,156,26,32,22,2,1,27,130,59,1,89,67,96,245,67,44,10,1,270,83,1,1,3,1,19,1,22,11,5,37,2,4,11,9,21,8,3,1,14,282,142,69,5,10,1,11,30,4,3,116,1,9,9,150,174,18,21,1,54,2,29,9,37,2,8,12,19,114,26,7,60,10,140,8,9,5,1,48,10,8,63,13,2,25,42,206,7,1,9,42,1,15,17,52,32,28,149,326,4,13,7,118,1,40,24,56,139,13,11,1,160,7,27,3,33,1,57,8,6,6,2,6,1,17,5,1,20,18,12,2,2,3,4,4,4,1,6,30,9,25,51,58,3,1,5,98,34,73,156,22,189,37,22,223,18,22,510,360,40,11,3,13,22,2,29,5,5,17,6,83,72,53,31,5,14,89,20,1,41,6,3,11,16,27,17,101,206,1,34,69,73,12,303,56,77,65,1,14,12,1,1,1,1,1,1,2,67,4,35,1,15,99,5,25,148,17,1,25,33,7,29,98,94,61,221,63,1,6,1,38,86,62,56,37,39,93,119,59,25,10,32,5,32,7
 Committee AML	18952
 Committee APC Chairman Yansaneh Backs PPRC	7934
 Committee Analysis of Inputs Received	5853
@@ -1855,7 +1860,7 @@ Communications Commission UGX Uganda	19639
 Communications Commission and CA	6946
 Communications Commission of Kenya	6231
 Communications Committee	9472
-Communications Section Economic Commission for Africa PO	8754,1962,1020,72,9,4913,2116,297
+Communications Section Economic Commission for Africa PO	8754,1962,1020,72,9,4913,2116,297,951
 Communications SectionEconomic Commission for AfricaPO Box	15931
 Communications and Information Technology Commission	17052
 Communications and Information Technology Committee	9472
@@ -1891,13 +1896,14 @@ Competence of Commission	12549
 Competence of Commission Duties of Commission A.147	12549
 Competition Authority of Kenya Commission	12210
 Competition Commis-	5872
-Competition Commission	544,2720,450,869,442,699,148,1014,295,1091,126,37,166,67,515,1157,855,40,7,1,1653,371,194,943,319,96,28,1992
+Competition Commission	544,2720,450,869,442,699,148,1014,295,1091,126,37,166,67,515,1157,855,40,7,1,1653,371,194,943,319,96,28,1992,3365
 Competition Commission Act	19602
 Competition Commission of South	13462
-Competition Commission of South Africa	4730,5177
+Competition Commission of South Africa	4730,5177,10148
 Competition Commission of South Africa95	4732
 Competition Commission's Media and Digital Platforms Market	13267
 Competition Commission's Remedial Actions	13462
+Competition Commission. Statistics South Africa	20204
 Competition Commission’s Data Services Market Inquiry	8668
 Competition Commission’s Media and Digital Platforms Market	11308
 Competition and Consumer Protection Commission	12376,945,25,186
@@ -2017,6 +2023,7 @@ Council Disaster Management Technical Committee	19520
 Council Education Committee MBSSE Ministry of Basic	18564
 Council and Committee	14736
 Council and Independent Electoral Commission	16887
+Council of Europe's Cybercrime Convention Committee	20182
 Council of Europe’s Steering Committee for New and Emerging	16202
 Council of Ministers and Parliamentary Committee	12500
 Council of Ministers. A National AI Commission	6377
@@ -2151,7 +2158,7 @@ Data Management Committees	13636
 Data Practices The Data Commissioner Immaculate	2668
 Data Protection Commis	17745
 Data Protection Commisioner	13321
-Data Protection Commission	587,202,10,169,232,689,720,94,481,182,18,198,460,84,362,269,16,442,4,8,58,78,124,448,121,880,432,1408,828,1025,193,39,1371,419,670,109,656,1467,76,1310,1431,1588,6,4
+Data Protection Commission	587,202,10,169,232,689,720,94,481,182,18,198,460,84,362,269,16,442,4,8,58,78,124,448,121,880,432,1408,828,1025,193,39,1371,419,670,109,656,1467,76,1310,1431,1588,6,4,214,17
 Data Protection Commission DATA PROTECTION COMMISSION	14086
 Data Protection Commission Democratic Republic of Congo	15553
 Data Protection Commission Despite	19964
@@ -2476,7 +2483,7 @@ Economic Commission for Africa Kingdom of Swaziland	12896
 Economic Commission for Africa.12 Constraints	10718
 Economic Empowerment Commission Zambia Development X	12376
 Economic and Financial Crime Commission	11928
-Economic and Financial Crimes Commission	3870,2341,1983,1860,506
+Economic and Financial Crimes Commission	3870,2341,1983,1860,506,9616,22
 Economic and Financial Crimes Commission. Officials	11714
 Economic and Social Commission for Asia	12367
 Economic and Social Commission for Western Asia	15120,2049
@@ -2660,14 +2667,14 @@ Ethical and Scientific Committee for Research	7313
 Ethics Committee	7845,2939,1306,585,3
 Ethics Committee of INSP. RESULTS	17968
 Ethics and Anti- Total Corruption Commission	6946
-Ethics and Anti-Corruption Commission	2775,9338,2433
+Ethics and Anti-Corruption Commission	2775,9338,2433,5555,88
 Ethiopia Business Forum. The Commissioner	14109
 Ethiopia Communications Commission	6946
 Ethiopia Customs Commission	14145
 Ethiopia European Commission	629,438
 Ethiopian Customs Commission	208,10501,3284,95,36
 Ethiopian Customs Commission Fully Digitalized Addis	14088
-Ethiopian Investment Commission	10709
+Ethiopian Investment Commission	10709,9387
 Ethiopian National Dialogue Commission	14160
 Europa Web Guide European Commission	9067
 European Commis-	15901
@@ -2805,6 +2812,7 @@ Faits Commission	15542
 Fast Facts Domestic Law International Commitments	11539
 Fast Track Clinical Trials Committee	7845
 Fast Track Ethics Committee	7845
+Fatou Krubally The Commissioner General	20237
 Fatoumata KONATE Commissaire	17899
 Federal Agencies Consultative Committee	14857
 Federal Civil Service Commission	7973
@@ -2964,6 +2972,7 @@ GOVERNANCE Our Executive Committee Phil Mnisi	11131
 GRA COMMISSIONER GENERAL LEADS DELEGATION	17201
 GRA Commissioner General Yankuba Darboe	7512,181,666,4683
 GRA Commissioner of Customs Meets UNCTAD Officials	17063
+GRA's Commissioner General Yankuba Darboe	20225
 GRIEVANCE REDRESS COMMITTEE GRM	12253
 GRM Committee EA-RDIP Grievance Redress Committees	15055
 GRM Committee Verification	1778
@@ -2977,7 +2986,7 @@ Gambia Commission for Refu-	16836
 Gambia Commissioned	16923
 Gambia Commissionfor Refugees. Refug-	16836
 Gambia Committed	16888
-Gambia Competition and Consumer Protection Commission	16926,187
+Gambia Competition and Consumer Protection Commission	16926,187,3111
 Gambia Competition and Consumer Protection Commission GCF	17105
 Gambia GRC Grievance Resolution Committee GSC	16926
 Gambia Information Commission	16924
@@ -2985,6 +2994,7 @@ Gambia Project Steering Committee	16936
 Gambia Revenue Authority Commissioner General Yankuba	7692
 Gambia Technical Committee	16936
 Gambia's Independent Electoral Commission	5365
+Gambia. The Commission	20224
 Gambia’s Information Commission	17335
 Gambia’s Information Commission Joins African Data	17335
 Games Customer Service Week COMESA Committee	11131
@@ -3024,7 +3034,7 @@ Geospatial Steering Committee	18904
 Geospatial Steering Committee NGTC National Geospatial	18904
 Geospatial Technical Committee	18904
 Gestion des Commissaires	17899
-Ghana Atomic Energy Commission	11
+Ghana Atomic Energy Commission	11,20135
 Ghana Boundary Commission	16511
 Ghana Boundary Commission Distinguished Ladies and Gentlemen	16511
 Ghana CHRAJ Commission	19937
@@ -3139,7 +3149,7 @@ Hearing Committee	14743
 Heath Committees	18370
 Henry Ngutwa Deputy Commissioner General Douglas	13053
 High Commissariat for Refugees HEI Higher Education	17870
-High Commission	12617,281,81,50,2650,606,956,693
+High Commission	12617,281,81,50,2650,606,956,693,2228
 High Commission for Digitalization	3831,924,10924
 High Commission for Digitalization OBJECTIVE	15679
 High Commission for Human Rights PAPD Pro-Poor	16943
@@ -3163,7 +3173,7 @@ High Commissioner for Human Rights’ Compilation Report	10841
 High Commissioner for Refugees	14742
 High Commissioner for Refugees RPPF Represented Political	11986
 High Commissioner for Refugees UN Refugee Agency	12328
-High Commissioner for Refugees UNICEF United Nations	10759,78,1052,451,6571
+High Commissioner for Refugees UNICEF United Nations	10759,78,1052,451,6571,1301
 High Commissioner for Refugees USA United State	17157
 High Commissioner for Refugees United Nations Children	16436
 High Commissioner of Human Rights	13040
@@ -3180,6 +3190,7 @@ High Elections Committee	15393
 High Elections Committee Article	15393
 High Level Coordination Committee	12338
 High National Elections Commission	16847
+High Technical Committee	20150
 High-Level Committee	14742,2493
 High-Level Steering Committee	11193
 High-Level Technical Committee	14829
@@ -3253,6 +3264,10 @@ Hygiene and Safety Committees CNDN	18370
 I African Union Commission I Email	14511
 I-a Commission Bancaire	15443
 IAC Commissioning Event Gallery	13551
+IANA Numbering Services Review Committee	20136
+IANA Numbering Services Review Committee Charter	20136
+IANA Numbering Services Review Committee Report	20136,51
+IANA Review Committee	20136
 ICANN’s Governmental Advisory Committee	3874
 ICESCR Committee	13040
 ICNIRP International Commission	12949
@@ -3367,7 +3382,8 @@ Independent Commissions and Traditional	13533
 Independent Complaints Commission	12241,839,15
 Independent Complaints Commission Dashboard E-Justice Task	13095
 Independent Complaints Commission Dashboard Output	12241
-Independent Electoral Commission	2541,891,1933,276,555,846,2272,1,60,687,252,904,26,742,68,502,10,86,101,3,4131,64,22,132,2564
+Independent Election Commission	20221
+Independent Electoral Commission	2541,891,1933,276,555,846,2272,1,60,687,252,904,26,742,68,502,10,86,101,3,4131,64,22,132,2564,560
 Independent Electoral Commission Adv	12652
 Independent Electoral Commission IEC	16951
 Independent Electoral Commission Mr. Mphasa Mokhochane	12652
@@ -3377,7 +3393,7 @@ Independent Electoral Commission of The Gambia	10062
 Independent Electoral and Boundaries Commission	1630,2128,4075,958,754,100,693,484,262,31,998,36,2397,3241
 Independent Electoral and Boundaries Commission Act	1630,9192
 Independent Human Rights Commission	16840
-Independent Information Commission	5244
+Independent Information Commission	5244,14905
 Independent Information Commission IIPS	5244
 Independent Information Commissioner	16840
 Independent Insurance Commission	17138,97
@@ -3386,7 +3402,7 @@ Independent Media Commission IoT Internet of Things	18454
 Independent Media Commission of Sierra Leone	18592
 Independent Media Commission of Sierra Leone URL	18592
 Independent National Commission	14862,2081,27,326
-Independent National Electoral Commission	2670,3452,567,81,406,572,692,547,403,659,5,200,317,558,735,5766,304,54
+Independent National Electoral Commission	2670,3452,567,81,406,572,692,547,403,659,5,200,317,558,735,5766,304,54,2138
 Independent National Electoral Commission Local Government	19541
 Independent Police Complaints Commission	14742,9,88,8
 Independent Police Complaints Commission Act	14742
@@ -3409,7 +3425,7 @@ Indices Issus des Commissaires	17899
 Industry Committee	6748,1961
 Industry Skills Committees	12934
 Industry and Trade Portfolio Committee	13013
-Information Commission	1333,141,178,85,2752,94,217,563,723,3227,5999,2023,277,826,198,406,15,18,21
+Information Commission	1333,141,178,85,2752,94,217,563,723,3227,5999,2023,277,826,198,406,15,18,21,1125
 Information Commission Chairperson Neneh Macdouall Gaye	17335
 Information Commission DATA PROTECTION AND PRIVACY	1474
 Information Commission Data Protection Day	4800
@@ -3528,6 +3544,7 @@ International Commission of Jurists Kenya Section	12227
 International Commitments	13381,3986,2387
 International Commitments ICCPR	10908,9014
 International Commitments Liberia	17367
+International Commitments and Collaboration	20224
 International Committee	7147,3694,315,42,4144
 International Committee of Medical Journal Editors	11585
 International Committee of Red Cross	12977,2365
@@ -3605,7 +3622,7 @@ Joint Committee	6748,7880,2268,2088,1,207
 Joint Committee. If São Tomé and Príncipe	18985
 Joint Committees	18467,1058
 Joint Consultative Committee	11860
-Joint Coordination Committee	14188
+Joint Coordination Committee	14188,5866
 Joint Cybersecurity Committee	587
 Joint Cybersecurity Committee Administrative Provisions	587
 Joint Economic Commission	17809
@@ -3762,6 +3779,7 @@ La Commission des Relations	15458
 La Conférence Internationale des Commissaires	10821
 Labor Commission ZAWEMA	19519
 Labour Commissioner for Malawi	13157
+Lagos State Commissioner for Innovation	20185
 Lahcen Oulhaj Commission	8891
 Lake Chad Basin Commission	16137
 Land Administration System IMC Inter-Ministerial Committee	11261
@@ -3778,6 +3796,7 @@ Lands Commission ICT Unit Date	19956
 Lands Commission LDR	15657
 Lands Commission Online Portal	19956
 Lands Commission Online Services Explore	19956
+Lands Commission Seyfo	20221
 Lands Commission and Office	16511
 Lands Commission and PDB	19981
 Lands Commission's Executive Secretary	19981
@@ -4325,7 +4344,7 @@ National Commission of Informatics and Liberty	12210,3411
 National Commission of Science and Tech	14947
 National Commission of Science and Technology	1154
 National Commission of UNESCO	13310
-National Commissioner	1220,1549,40,417,2810,34,3808,76,1234,2,766,94
+National Commissioner	1220,1549,40,417,2810,34,3808,76,1234,2,766,94,8029
 National Commissioner Vincent Olatunji	5285
 National Commissioner and CEO	5732,812
 National Commissioner and CEO of NDPC	4937
@@ -4446,8 +4465,9 @@ National ICT Consultative Committee	18885
 National ICT Standards Review Committee	13308
 National IPM Coordination Committee	14818
 National Identity Management Commis-	4848
-National Identity Management Commission	767,506,1117,79,189,67,80,129,279,490,40,377,303,149,222,67,354,52,17,37,239,14,151,422,352,37,153,182,270,3,75,95,95,45,59,48,69,21,13,82,2,99,61,165,47,468,124,113,289,276,280,210,213,64,117,149,281,393,29,3,561,24,49,152,13,60,49,13,1,6,3,4,58,1159,4325,54,14,82,412,91,3,4
+National Identity Management Commission	767,506,1117,79,189,67,80,129,279,490,40,377,303,149,222,67,354,52,17,37,239,14,151,422,352,37,153,182,270,3,75,95,95,45,59,48,69,21,13,82,2,99,61,165,47,468,124,113,289,276,280,210,213,64,117,149,281,393,29,3,561,24,49,152,13,60,49,13,1,6,3,4,58,1159,4325,54,14,82,412,91,3,4,1931,2
 National Identity Management Commission Act	6689,1751,1230
+National Identity Management Commission NIMC	20082
 National Identity Management Commission National Information	10157
 National Identity Management Commission. Tags	7144
 National Identity Management Commission’s Director-General	7914
@@ -4496,7 +4516,7 @@ National Payment Systems Advisory Committee	17188
 National Payment Systems Committee	14730
 National Peace and Reconciliation Commission	970,12531,3469
 National Personal Data Protection Commission	1799,2905,9,2079
-National Planning Commission	586,4450,1796,95,3268,1000,29,457,179,315,6,59,85,96,125,375,2,18,41,2,2,132,3721,2764,80
+National Planning Commission	586,4450,1796,95,3268,1000,29,457,179,315,6,59,85,96,125,375,2,18,41,2,2,132,3721,2764,80,473
 National Planning Commission Act	19602
 National Planning Commission Advisory Council	12546
 National Planning Commission Central Statistical Agency	13965
@@ -4601,7 +4621,7 @@ Newsfeed The Nigerian Communications Commission	2293
 Niger. Through the Project Technical Committee	18198
 Nigeria Communications Commission	3862
 Nigeria Copyright Commission	6536
-Nigeria Data Protection Commission	1220,360,882,307,30,10,574,97,462,641,278,76,101,46,48,5,144,451,304,34,196,21,155,94,8,145,81,22,617,669,100,449,225,70,59,3,326,53,273,181,137,203,113,40,261,26,124,405,637,193,37,2,55,182,5936,62
+Nigeria Data Protection Commission	1220,360,882,307,30,10,574,97,462,641,278,76,101,46,48,5,144,451,304,34,196,21,155,94,8,145,81,22,617,669,100,449,225,70,59,3,326,53,273,181,137,203,113,40,261,26,124,405,637,193,37,2,55,182,5936,62,1849
 Nigeria Data Protection Commission Nigerian Export	10157
 Nigeria Data Protection Commission URL	18230
 Nigeria Data Protection Commission. Among	5363
@@ -4730,7 +4750,7 @@ Ouagadougou. La Commission	3835
 Outcome Quarterly Commission Legislative Instrument Outcome	15845
 Outgoing NRA Commissioner-General	10181
 Outstanding Commitments	16978
-Oversight Committee	3583,5249
+Oversight Committee	3583,5249,11320
 Overview of Agreed Commitments and Announcements	15661
 Ownership UCC Uganda Communications Commission UETCL	19633
 P-13 Establish Broadband Monitoring Committee. P-14	11857
@@ -4835,7 +4855,7 @@ Parliament's Public Accounts Committee	9696
 Parliament. The Committee	11289
 Parliamentary Budget Committee	19602
 Parliamentary Commission of Finance	17909
-Parliamentary Committee	1988,926,2449,148,552,470,2428,160,220,2768,210,788,23,478,4911,3,248
+Parliamentary Committee	1988,926,2449,148,552,470,2428,160,220,2768,210,788,23,478,4911,3,248,1345
 Parliamentary Committee of Supply	2576
 Parliamentary Committees	13122,6398
 Parliamentary Committees and Ministers of Government	18436
@@ -5055,7 +5075,7 @@ Provisional Report. COMPETITION COMMISSION	13461
 Président du Conseil de Discipline des Commissionnaires	18307
 Public AI Committee	12675
 Public Account Committee	11866
-Public Accounts Committee	5343,193,1,1245,260,1278,1119,2427,714,48,328,431,1361,2,85,2114,415,1124,89,1008,352
+Public Accounts Committee	5343,193,1,1245,260,1278,1119,2427,714,48,328,431,1361,2,85,2114,415,1124,89,1008,352,237
 Public Accounts Committee Act	11866
 Public Accounts Committee Date	12628
 Public Accounts Committee and Audit Report Implementation	19937
@@ -5148,7 +5168,7 @@ RRA Commissioner General and Malagasy Director General	14584
 RSL Acting Commissioner General	12670
 RSL Acting Commissioner General Obed	4983
 RTGS Steering Committee	12484
-RTI Commission	9074,6238
+RTI Commission	9074,6238,4759
 RTI Commission's Governing Board	15312
 Ramaphosa's Presidential Commission	432,1
 Raphael Phiri District Commissioner	13392
@@ -5195,7 +5215,7 @@ Regional Commissionerbefor	19525
 Regional Commissioners	17618
 Regional Commissioners' Offices	19602
 Regional Committee	10776,4949,516,646,2638
-Regional Committee for Africa	10659,117,1041,2365
+Regional Committee for Africa	10659,117,1041,2365,6027
 Regional Committee for Africa RC76	11808
 Regional Committee for Africa Seventy-sixth	16241
 Regional Committees	14742,669
@@ -5286,7 +5306,7 @@ Revenue Automation The Commission	9939
 Revenue Commissioner	19527
 Revenue Committee	11976
 Revenue Mobilisation Allocation and Fiscal Commission	11976
-Review Committee	11129
+Review Committee	11129,9007
 Right To Access Information Commission East	18442
 Right To Access Information Commission-Raic UNESCO	18442
 Rights Commission	12201,1260,3716
@@ -5338,6 +5358,7 @@ République. La Commission	14412
 Réservation COMMISSION NATIONALE C	998
 S Commission	16908
 S the Technical Investment Committee	18577
+SA Human Rights Commission	20062
 SA Human Rights Commission Online Stakeholder	10453
 SA Law Reform Commission	8521
 SAA and ECOWAS Commission	1264
@@ -5413,6 +5434,7 @@ Sahel. Further Commit	17017
 Said H.E. AU Commissioner for Infrastructure and Energy	14724
 Salaam. Tanzania's Independent National Electoral Commission	19548
 Salaries and Remuneration Commission	11247,217,2958,27,44,53
+Salaries and Wage Commission	20082
 Salif BERTHE FAÏNKE Commissaire	17841
 Sam SHIVUTE Commissioner COMMISSIONER'S NOTE	13108
 Sam SHIVUTE Commissioner COMMISSIONER’S NOTE Welcome	13044
@@ -5479,7 +5501,7 @@ Sectoral and Cluster Ministerial Committees	19185
 Securities Commission	940
 Securities Commissions IPO Initial Public Offering	14997
 Securities Exchange Commission	12376,4859
-Securities and Exchange Commission	10,2816,1044,72,660,2336,260,143,68,39,46,692,753,291,304,420,201,115,1387,42,277,400,33,902,36,185,2880,3528
+Securities and Exchange Commission	10,2816,1044,72,660,2336,260,143,68,39,46,692,753,291,304,420,201,115,1387,42,277,400,33,902,36,185,2880,3528,133,25,32
 Securities and Exchange Commission Shall	13347
 Securities and Exchange Commission of Zimbabwe	940
 Securities and Exchange Commission. Legal	8788
@@ -5639,6 +5661,7 @@ Staff Liaison Committees	14787
 Staff of Commission	12546
 Staff of Commission A.32 PART V	12546
 Staff of Commission. PART III REGISTRATION	19530
+Stakeholder Committee	20182
 Stakeholders. The Committee	11129
 Stamp Advisory Committee	11199,1
 Standard Technical Committee TC	10313
@@ -5689,7 +5712,7 @@ Statutory Board and Committee	1154
 Steering Commitee	12149
 Steering CommiteeSession	18305
 Steering Committe Technical	15604
-Steering Committee	1264,20,441,1054,110,549,715,14,35,12,3,43,41,48,179,583,183,58,1080,515,601,1474,628,79,334,93,673,135,1,168,392,332,6,42,19,84,141,172,191,17,407,40,131,256,40,819,48,164,142,23,65,57,21,51,48,2,46,108,59,108,208,39,142,48,3,54,1,712,168,115,234,39,25,147,15,82,198,64,411,235,197,4,144,23,6,29,30,27,113,44,33,115,18,17,338,278,74,45,196,12,90,112
+Steering Committee	1264,20,441,1054,110,549,715,14,35,12,3,43,41,48,179,583,183,58,1080,515,601,1474,628,79,334,93,673,135,1,168,392,332,6,42,19,84,141,172,191,17,407,40,131,256,40,819,48,164,142,23,65,57,21,51,48,2,46,108,59,108,208,39,142,48,3,54,1,712,168,115,234,39,25,147,15,82,198,64,411,235,197,4,144,23,6,29,30,27,113,44,33,115,18,17,338,278,74,45,196,12,90,112,176
 Steering Committee CPDN	18309
 Steering Committee Chairperson and MACRA Acting Director	13107
 Steering Committee Decides	18677
@@ -5738,6 +5761,7 @@ Strengthen the Committee	11289
 Strengthening the Liberia Anti-Corruption Commission	17257
 Structure The Joint Committee	6748
 Student Representative Committee	14787
+Study.pdf Commissioned	20207
 Sub Committees	16830
 Sub Saharan Africa European Commission	1455
 Sub- Committee	15393
@@ -5816,6 +5840,7 @@ Tanzania National Steering Committee	11133
 Tanzania National Steering Committee. The DEEP	11133
 Tanzania Zanzibar Planning Commission	19542
 Tanzania's Commission for Science and Technology	1554
+Tanzania's National Planning Commission	20156
 Tanzania. The Tanzania Commission for Science and Technology	19534
 Task Force Committee	14082
 Taskforce Committees	12529
@@ -5836,7 +5861,7 @@ Technical Advisory Committee	396,186,12428,3853,4,84
 Technical Advisory Committee for National Statistics	16863
 Technical Advisory Committees	13010
 Technical Commission	9227,1540,2051
-Technical Committee	1284,6264,539,280,174,63,909,1888,462,42,71,265,154,58,168,296,52,145,217,1,13,127,9,125,4,26,395,191,48,276,53,175,7,131,85,26,107,94,206,174,17,1242,58,14,102,87,111,235,634,94,266,36,387,629,10,87,26,73,135,143
+Technical Committee	1284,6264,539,280,174,63,909,1888,462,42,71,265,154,58,168,296,52,145,217,1,13,127,9,125,4,26,395,191,48,276,53,175,7,131,85,26,107,94,206,174,17,1242,58,14,102,87,111,235,634,94,266,36,387,629,10,87,26,73,135,143,235
 Technical Committee IPT Industrial Practical Training	19565
 Technical Committee NSDI National Spatial Data	18904
 Technical Committee TFP Technical and Financial Partner	15661
@@ -6056,11 +6081,11 @@ United Nations AI for Good Global Commission	11682
 United Nations Assistant High Commissioner	1963
 United Nations Broadband Commission	1264,9580,7026,253
 United Nations Broadband Commission for Sustainable	10851
-United Nations Commission	10819,731,1314,493,1385,10,377,1706,50,3019
+United Nations Commission	10819,731,1314,493,1385,10,377,1706,50,3019,320
 United Nations Commissioner for Human Rights	3583
 United Nations Committee	7760,5199,1815
 United Nations Committee of Experts	9651,9253
-United Nations Economic Commission for Africa	26,1,1,930,596,260,1244,1299,1235,291,726,278,642,898,327,408,32,1154,67,305,99,731,22,93,71,72,8,306,5,11,229,46,261,222,109,47,192,51,62,100,132,396,18,86,1,186,543,32,205,875,799,131,733,877,78,230,67,87,18,184,8,222,213,34,27,29,54,116,105
+United Nations Economic Commission for Africa	26,1,1,930,596,260,1244,1299,1235,291,726,278,642,898,327,408,32,1154,67,305,99,731,22,93,71,72,8,306,5,11,229,46,261,222,109,47,192,51,62,100,132,396,18,86,1,186,543,32,205,875,799,131,733,877,78,230,67,87,18,184,8,222,213,34,27,29,54,116,105,151,120,10
 United Nations Economic Commission for Africa AfCFTA	17101
 United Nations Economic Commission for Africa Conference	8472
 United Nations Economic Commission for Africa ECA	19135
@@ -6145,7 +6170,7 @@ Village Land Committees	18534
 Village Women Committees	19805
 Village Women Register The Electoral Commission	19805
 Village Women's Committee	19805
-Virtual Assets Coordinating Committee	11699
+Virtual Assets Coordinating Committee	11699,8374
 Vision The Committee	12095
 Vision of Lands Commission	15657
 Vital Strategies. United Nations Economic Commission	12413

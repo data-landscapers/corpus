@@ -117,7 +117,7 @@ Gola Forest National Park. Established	17114
 Gola National Park Mount Coffee Dam	17140
 Gola Rainforest National Park	17114
 Government Office Park	12345
-Grand Palace Parking	12215,66
+Grand Palace Parking	12215,66,7894
 Grassy Park	8999
 Grebo- Krahn National Park	17114
 Grebo-Krahn National Park	17114
@@ -171,7 +171,7 @@ Laboria Park	11285
 Laboria Park Parliamentary Village	11285
 Lonely Park Clinic	11980
 Luanda Science and Technology Park	6881
-Lucine Munkyung Park	16876,194
+Lucine Munkyung Park	16876,194,3151
 Lynnwood Bridge Office Park	11198
 MENLO PARK PRETORIA	3161
 MGC Office Park Corner Pope John	10060
@@ -338,7 +338,8 @@ Snake Parks	2775
 Snake Parks and Historical Sites	2775
 Sojeong Lee and Soomin Park	11354
 Solar Park	17228
-Solar Parks	16966
+Solar Parks	16966,3257
+Soma Solar Park	20223
 Soma Solar Park Phase II	16966
 Soomin Park	11487
 South Africans. Honourable Mr. Parks Tau	11250

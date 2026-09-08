@@ -91,7 +91,7 @@ GRID Gross National Income GRM Government	3604
 GRID Strategy	18301
 GRID3	196
 GRIDCO	16586
-GRIDCo	10135,5605,457,347,42,10,3380
+GRIDCo	10135,5605,457,347,42,10,3380,206
 GRIDCo FOR IMMEDIATE RELEASE	16586
 GRIDLOCK RESOLUTION VARIOUS GMD	16844
 GRIESBAUM	16100
@@ -158,7 +158,7 @@ Government of The Gambia GRM Grievance Redress	16922
 Government of Tunisia GRS Grievance Redress Service	19455
 Graphic Online The Ghana Grid Company	16586
 Greater Accra GRIDCo	10135
-Green-Mini Grid	16966
+Green-Mini Grid	16966,3257
 Grible	17817
 Gribo Popoli	2342
 Gribo-Popoli	15623
@@ -367,9 +367,11 @@ Mechanism GRS Grievance Redress Service HFO	19239
 Mechanism GRS Grievance Redress Service ICT	18777
 Mechanism Grievance Redress Service Global System	13331
 Mechanism HQ Grievance Redress Service IBRD	11855
+Mini Grid	20223
 Mini Grid Development	14947
 Mini Grid Regulation	18537
 Mini Grids	12214
+Ministry of Energy and GRIDCo	20182
 Mitete Grid Development Project	13413
 Monitoring and Evaluation Grievances	15553
 Monitoring and Grievance Redress	17114
@@ -518,4 +520,5 @@ World Bank’s Grievance Redress Service	1264,2340,7225,135,453,4101,35,105,1,2,
 World. Grid-connected RE	11953
 Year Grievances	2712,1941
 Year Value Indicator Name Grievances	6579
+Yes. Green Mini Grid Regulations	20223
 Zambia Gridlock Gridlock	12364

@@ -180,7 +180,7 @@ G Voice Over New Radio	19966
 GENERACIÓN DE MOSAICOS RADAR Para	16875
 GESTÃO DO ESPECTRO RADIOELÉTRICO	11531
 GRTS Gambia Radio and Television Services GSC	16885
-GRTS Radio	17228
+GRTS Radio	17228,2869
 Galaxy Radio	19728
 Gambia Radio and Television Services	16852,499
 General Packet Radio Service	14723,649
@@ -461,7 +461,7 @@ Radia Benghezal	15410
 Radia Lemloum	15410
 Radiance	19237
 Radias	9482
-Radiation	718,12667,2307,209,348,386,265
+Radiation	718,12667,2307,209,348,386,265,3224
 Radiation ATE Dispense	16249
 Radiation ATE Dispense Année	16249
 Radiation ATE Dispense Kouilou	16249
@@ -470,6 +470,7 @@ Radiation Materials	718
 Radiation Protection	718,12955,1072
 Radiation Protection Authority	13403
 Radiation Protection Authority of Zimbabwe	13042
+Radiation Protection Institute	20124,22
 Radiation Protection Officer	14745
 Radiation Safety and Nuclear Security Act	14745
 Radiation Safety and Nuclear Security Authority	14745,1,101
@@ -624,7 +625,7 @@ Radio Programme	14742
 Radio REMA FM BUJUMBURA	13414
 Radio REMESHAMAHORO KIRUNDO	13414
 Radio Regulations	11,7816,153,109,84,6501
-Radio Regulations Board	6642
+Radio Regulations Board	6642,13540
 Radio Regulations No	7850
 Radio Regulations. The Radio Regulations	8089
 Radio Relay	736
@@ -737,7 +738,7 @@ Radiotélévision	2344,13288,2656
 Radiotélévision Guinéenne	16641
 Radiotélévision Ivoirienne	10924
 Radison	17317
-Radisson Blu	7866,9770,139,26,3
+Radisson Blu	7866,9770,139,26,3,2285
 Radisson Blu Hotel	3549,3712,5538,5911
 Radisson Blu Hotel Abidjan Airport	6224
 Radisson Blu Hotel Antananarivo	14618

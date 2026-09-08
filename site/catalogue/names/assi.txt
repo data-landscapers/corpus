@@ -343,6 +343,7 @@ Assistant Commissioner for Electronic Services	10066
 Assistant Commissioner for Health Information	4922
 Assistant Commissioner for Monitoring and Evaluation	19798
 Assistant Commissioner for Ports Operation	17367
+Assistant Commissioner of Client Services	20200
 Assistant Commissioner of Customs	18736
 Assistant Commissioner of Police	14760
 Assistant Commissioner of Police ADSU	14760
@@ -466,6 +467,7 @@ Assistant Superintendent	17114
 Assistant Superintendent Emmanuel Robinson	17375
 Assistant Superintendent of Police	14742,18
 Assistant Superintendent of Police BPF	14760
+Assistant System Analyst	20217
 Assistant Voice Arabic	17329
 Assistant de Direction	15366
 Assistant de Gestion	15936
@@ -475,7 +477,7 @@ Assistant de Gestion des Huiles Usagées	15936
 Assistant du Directeur de Cabinet	15685
 Assistant du Ministre	19687
 Assistant-Director	17017
-Assistante	15474,19,519,3675
+Assistante	15474,19,519,3675,522
 Assistante Administrative	15670
 Assistante du Coordonnateur	19687
 Assistante du Ministre des Finances	13476
@@ -582,7 +584,7 @@ Cabo Verde. Assim	15433,139
 Capacity ASSIGNED CAPACITY ACTIVATED CAPACITY AVAILABLE	16942
 Careers IDF-Application AI Assistant Contact	12495
 Carine-Reine Mbedo Ngassia Program Assistant AFMCF	18887
-Cash Assistance	12227,3020,2724,1915
+Cash Assistance	12227,3020,2724,1915,287
 Cash NDMA-PR-13 Targeted Food Assistance	12977
 Cash and Voucher Assistance	12227
 Census Project Assistant Coordinator Phone	16921
@@ -654,6 +656,7 @@ Country Assistance Strategy CEMAC Declaration	18754
 Country Assistance Strategy CFU Contribution Foncière	16614
 Country Mutual Legal Assistance and Enforcement Cooperation	17745
 Court Administrator Office of Special Assistant Office	16943
+Credit Assistant Professor Richard S. Panto	20104
 Criminal and Assizes Courts	16943
 Cumulative Numbering Resources Assigned Per Year	6946
 Current Red Flags Assigned	15905
@@ -1386,7 +1389,7 @@ Teaching Assistance Programme. French Teachers	12972
 Teaching Assistants	10541,59
 Team Assistant	2989,7774,2,10,361,135,2041,2,1583,122,3832
 Team Composition and Task Assignments Professional Staff	13037
-Technical Assistance	629,160,18,431,590,39,121,2214,1150,1187,1009,998,2230,3,214,138,63,151,518,182,150,161,319,49,193,268,207,1094,1,273,17,102,57,1,164,271,39,142,106,310,14,671,21,424,136,223,1030,19,380,196,488
+Technical Assistance	629,160,18,431,590,39,121,2214,1150,1187,1009,998,2230,3,214,138,63,151,518,182,150,161,319,49,193,268,207,1094,1,273,17,102,57,1,164,271,39,142,106,310,14,671,21,424,136,223,1030,19,380,196,488,650
 Technical Assistance Advisor	12500
 Technical Assistance Agreement	15574
 Technical Assistance Component	13054

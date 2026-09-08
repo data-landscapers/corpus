@@ -66,6 +66,7 @@ API de PeeringDB	16545
 API for All Models CAIMEx	5226
 API for FNB and RMB	8432
 API for Foreign PIN Applicants	14533
+API for Identity Authentication. Vital Events	20221
 API for P161329	312
 API for P176181	1216
 API for P176932	1277

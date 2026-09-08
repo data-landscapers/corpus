@@ -50,6 +50,7 @@ Age Range and Gender Distribution	11955
 Age Range and Gender Distribution Chart	11955
 Akabeza Cell Office. In Kicukiro District	4941
 Akim Oda District Offices	16511
+Akwapim South District	20124,22
 Algeria Post and Sonelgaz Distribution	3286
 All District Hospitals MoH	18478
 All Districts MoH	18478
@@ -81,6 +82,7 @@ Area Distributed Ledger Technology Eswatini Bankers	11130
 Area Education National District Data	18441
 Argent du Mérite PORTANT ATTRIBUTION DE DISTINCTION	17982
 Arrondissements du District de Bamako	17920
+Arusha City and Arusha District	20119
 Asokoro District	15728
 Assembleias Distritais Artigo	18751
 Assistant District	19715
@@ -130,7 +132,7 @@ Bouaflé District. Participants	16329
 Box Throwing Distance Input	34
 Branch Appointment Booking System DMO District	11986
 Bridging Distance	11656
-Brikama District Hospital	16896,26
+Brikama District Hospital	16896,26,3297
 Broadcast Distribution	6946
 Broadcast Signal Distribution	6946
 Broadcast Signal Distributors	6946
@@ -584,7 +586,7 @@ Distributable	15102
 Distributable Profits	17236
 Distribute	15713,1444
 Distribute Public Information Campaign	16867
-Distributed	1686,1121,2089,10,164,607,561,553,757,1057,518,1644,45,204,114,1081,78,1,227,409,49,210,1407,76,2110,6,182,1713,63
+Distributed	1686,1121,2089,10,164,607,561,553,757,1057,518,1644,45,204,114,1081,78,1,227,409,49,210,1407,76,2110,6,182,1713,63,1310,171
 Distributed Access	11469
 Distributed Active Archive Center	10794
 Distributed Antenna System	718
@@ -635,7 +637,7 @@ Distributeurs Automatiques de HT	17833
 Distributeurs Automatiques de VISA	17833
 Distributi Volume of Value of Product	16878
 Distributing	8647,4861,1414
-Distribution	771,199,28,16,140,209,465,160,787,808,876,217,1064,1092,104,2,8,1323,141,194,395,124,493,865,282,1,11,94,85,21,156,4,1,52,4,3,3,73,251,41,18,372,2,21,257,23,5,97,9,9,23,14,32,14,99,209,165,31,12,1,146,268,2,41,9,32,39,111,30,214,156,398,66,1,1,132,197,21,18,9,29,51,50,12,8,32,7,29,79,91,218,1,68,32,4,26,66,15,28,2,9,77,84,84,30,38,26,132,134,283,102,5,132,2,68,14,15,16,30,47,84,30,79,133,374,100,3,20,1,2,25,51,56,13,265,7,2,9,25,33,88,24,70,4,15,348,3,9,17,217,76,124,194,95,22,16,35,3,6,102,64
+Distribution	771,199,28,16,140,209,465,160,787,808,876,217,1064,1092,104,2,8,1323,141,194,395,124,493,865,282,1,11,94,85,21,156,4,1,52,4,3,3,73,251,41,18,372,2,21,257,23,5,97,9,9,23,14,32,14,99,209,165,31,12,1,146,268,2,41,9,32,39,111,30,214,156,398,66,1,1,132,197,21,18,9,29,51,50,12,8,32,7,29,79,91,218,1,68,32,4,26,66,15,28,2,9,77,84,84,30,38,26,132,134,283,102,5,132,2,68,14,15,16,30,47,84,30,79,133,374,100,3,20,1,2,25,51,56,13,265,7,2,9,25,33,88,24,70,4,15,348,3,9,17,217,76,124,194,95,22,16,35,3,6,102,64,336
 Distribution Agency Agreement	11215
 Distribution Agency Agreements	11236
 Distribution Annex	12978
@@ -975,7 +977,7 @@ District Health Information Management System II	19974
 District Health Information Software	771,441,7164,1812,690,3,38,498,586,22,27,9,135,1433,993,44,232,25,552,237,247,397,66,445,29,26,19,30,1561,399,295,58,339,303
 District Health Information Software DIEM	15475
 District Health Information Software and National Health	15833
-District Health Information System	21,13,362,370,395,100,563,1967,558,3669,358,2400,53,52,1144,230,158,89,67,160,1313,1548,57,319,229,776,130,1428,16,83,522,134,361,126,3
+District Health Information System	21,13,362,370,395,100,563,1967,558,3669,358,2400,53,52,1144,230,158,89,67,160,1313,1548,57,319,229,776,130,1428,16,83,522,134,361,126,3,445
 District Health Information System DHRMD Department	12917
 District Health Information System Electronic Management	12037
 District Health Information System Version	12037
@@ -1698,7 +1700,7 @@ Kaoma District	1867,121
 Karene District	18460,4
 Karluway District	17151
 Karonga District	12174,67,839,15
-Karongi District	13418
+Karongi District	13418,6682
 Kasese District	8589,72,134
 Kassena-Nankana West District	7165
 Kasserine. District4	19413
@@ -2252,6 +2254,7 @@ Rusizi District	13418
 Rutunga Fumbwe Kiramuruzi Kigeyo Ngororero District	12413
 Rwamagana District	13418,1631
 Rwanda RESEARCH REPORT Distance	12328
+Rwanda's Karongi District	20100
 RÉPARTITION DU PÉRIMÈTRE DE DISTRIBUTION DANS	15670
 Règlement Technique de Distribution	19295
 Règlement du Service de Distribution Publique	10975

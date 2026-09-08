@@ -70,6 +70,7 @@ Decentralizing Legal Identity SL. No. Distrct	13095
 Define and Publicize SLAs	17149
 Deloitte University and MIT Sloan	4432
 Design of Slab Shelter	11134
+Develop SLAs for System Support	20221
 Different Stages of SLLC	13998
 Digital Forensic Laboratory Slides	10911
 Dikgomo KZN KwaZulu-Natal SLA Service Level	11197
@@ -129,10 +130,10 @@ ICOM SLR	998
 ICT Sector Budget Slashed	2428
 IGP Fayia Sellu Champions SLP Transition	18486
 Implementing SLAUHC	18532
-Improvement Bouncing Back Increasing Deterioration Slowing	10837,1503,7598
+Improvement Bouncing Back Increasing Deterioration Slowing	10837,1503,7598,274
 Improvement Increasing Deterioration Slowing Improvement	10835,3,130,918,466,1,135,7334
-Improvement No Change Increasing Deterioration Slowing	10837,1503,7598
-Improvement Slowing Deterioration Warning Signs Increasing	10759,76,3,130,902,16,466,1,135,7334,116
+Improvement No Change Increasing Deterioration Slowing	10837,1503,7598,274
+Improvement Slowing Deterioration Warning Signs Increasing	10759,76,3,130,902,16,466,1,135,7334,116,274
 Information Technology Agency SLA Service Level	11261
 Infrastructure SLAs Component Availabili Redundancy	11952
 Integrated Slum Upgrading	13831
@@ -557,7 +558,7 @@ Slower	17011,224,2755
 Slower-moving	4653
 Slowing Deterioration	11887,1,1,264,1,9,178,11,7300,1,205,1,65,15
 Slowing Deterioration Participation	19836
-Slowing Deterioration Score	10837,1315,188,7598
+Slowing Deterioration Score	10837,1315,188,7598,274
 Slowing Deterioration. African	11888
 Slowing Deterioration. Between	11888
 Slowing Deterioration. Foundations for Economic Opportunity	11888
@@ -574,7 +575,7 @@ Slowing Improvement Human Development	12341,7495
 Slowing Improvement Not Classified Warning Signs	12353
 Slowing Improvement Participation	12341
 Slowing Improvement Rwanda	12341
-Slowing Improvement Score	10837,1315,188,7496,102
+Slowing Improvement Score	10837,1315,188,7496,102,274
 Slowing Improvement Security	19836
 Slowing Improvement Slowing Deterioration Not Classified	10835,3,130,902,16,466,1,135,7334
 Slowing Improvement Slowing Deterioration Warning Signs	10835,3,1048,466,1,135,7334
@@ -616,7 +617,7 @@ Support Stats SL	18529
 System Development Lifecycle SLA Service Level	12359
 TCAM CO M A SEL SL	18322
 TREND Increasing Improvement Slowing Improvement Warning	10759
-TREND Increasing Improvement Warning Signs Slowing	10837,1503,7598
+TREND Increasing Improvement Warning Signs Slowing	10837,1503,7598,274
 Taux de SLIS	17845
 Tax PMU Project Management Unit SL-CFAT	18577
 Technology Agency SLA Service Level Agreement	5533
@@ -627,7 +628,7 @@ Timely and Comprehensive SLEITI	18439
 Tool SLRA Sierra Leone Roads Authority	18577
 Transformation Through SLLC	13998
 Trend Bouncing Back Slowing Deterioration Increasing	10835,3,130,902,16,466,1,135,7334
-Trend Increasing Improvement Bouncing Back Slowing	10759,76,3,130,902,16,466,1,135,7334,116
+Trend Increasing Improvement Bouncing Back Slowing	10759,76,3,130,902,16,466,1,135,7334,116,274
 Trend Increasing Improvement Slowing Improvement Warning	10759
 Trend Slowing Deterioration Inclusion	12341
 Trend Slowing Deterioration Rights	12341
@@ -637,7 +638,7 @@ Trend Slowing Improvement Infrastructure	12341
 Trend Slowing Improvement Participation	12341
 Trend Slowing Improvement Rural Economy	12341
 Trend Trend Increasing Improvement Slowing Improvement	10759
-Trend Warning Signs Slowing Improvement Increasing	10837,1503,7598
+Trend Warning Signs Slowing Improvement Increasing	10837,1503,7598,274
 USD SLMet	18578
 Unlimited SMP Telekom Slovenije	15471
 Unlimited Slovak Telekom	15471

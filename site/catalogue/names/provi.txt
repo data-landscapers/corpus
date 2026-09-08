@@ -241,7 +241,7 @@ Central Province	13455
 Central Province Broadcasting Studio	13336
 Certificate PDA Provincial Department of Agriculture PDIs	11261
 Certificate of Urgency FINANCIAL PROVISIONS	18436
-Certification Service Provider	12865
+Certification Service Provider	12865,7215
 Certification Service Providers	14253
 Certification of Providers of IT Products	19642
 Chad. Provision	18887
@@ -297,6 +297,7 @@ Comité Provincial de Vérification	19645
 Comités Provinciais	10752
 Commission Electorale Provinciale Indépendante	13292
 Commissioning of Mashonaland East Provincial Headquarters	13361
+Commonwealth Model Provisions	20224
 Commune Province Région Baisse	15715
 Communications Infrastructure Provider	14965
 Communications Infrastructure and Services Provider	14965
@@ -376,7 +377,7 @@ Cybercrimes and Computer Misuse Provisional Order	18613
 Cybersecurity Service Provider	9842,426,108
 Cybersecurity Service Provider. Companies	10268
 Cybersecurity Service Provider. Entities	9728
-Cybersecurity Service Providers	9728,111,5877
+Cybersecurity Service Providers	9728,111,5877,4466
 DART Transitional Service Provider	19585
 DE LA PROVINCE DE BUJUMBURA- MAIRIE	13292
 DE L’URBANISME ET DU CADASTRE Province	16001
@@ -707,6 +708,8 @@ Gauteng Province	2948,5073,3220,48,757,2627
 Gauteng Province HDI	11252
 Gauteng Provincial Department of Health	12025
 Gauteng Provincial Government	5597
+Gauteng Provincial Legislature	20178
+Gauteng Provincial Network	20178
 Gaza Frelimo Maputo Province Frelimo Name	12201
 Gaza Province. Mobile	12806
 Gender Reference Provisions	13948
@@ -729,6 +732,7 @@ Ghana Card. Providing Future Solutions Now	15522
 Ghana Immigration Provide	15845
 Ghana Internet Service Providers Association	8247
 Ghana Virtual Asset Service Providers Act	4847
+Ghana's Virtual Asset Service Providers Act	20098
 Ghazal Province	18597
 Global Provincia	11418
 Gobernador Provincial	4209
@@ -774,7 +778,7 @@ Haut Katanga Province	11912
 Heads of Provincial	11184
 Health Provision	10837
 Health Provision Public Perception of Social Protection	10759
-Health Provision Reading	12152,188,7598
+Health Provision Reading	12152,188,7598,274
 Health Service Providers	6794
 Healthcare Provider Directory	1009
 Healthcare Providers CEO Forum	10696
@@ -850,6 +854,7 @@ Indemnity Financial and Accountability Provisions	12530
 Independent Service Providers	12389
 Indigenous Cloud Service Providers	11995
 Indonesia.51 Providing	11994
+Industrial Injuries Compensation Fund and National Provident	20221
 Industry Actors Providers	17099
 Industry Associations No. Financial Services Providers	14819
 Industry Electricity Service Provider Federal Government	11136
@@ -1560,7 +1565,7 @@ Proposal. Provided	15080
 Provi	13390
 Provi-	13461
 Provid	12233
-Provide	170,225,341,26,137,41,18,42,131,573,74,36,14,160,471,18,232,66,214,594,389,154,359,43,82,251,384,288,132,11,1,3,7,106,360,37,242,362,142,12,1,33,284,282,998,271,306,314,166,1,251,302,250,143,164,7,42,56,90,98,72,52,25,40,2,18,19,2,48,569,3,3,3,53,24,1,11,4,30,9,13,130,13,6,11,17,10,19,13,6,7,1,12,49,54,3,17,7,16,1,44,9,45,14,130,32,1,18,61,9,154,10,5,30,2,8,3,2,5,8,34,7,4,2,3,43,102,73,37,13,4,2,6,11,2,14,10,2,22,80,71,104,232,57,24,1,4,37,33,8,402,7,25,100,35,25,48,77,10,5,7,4,4,37,1,16,30,9,5,18,16,8,1,13,12,11,7,32,36,1,22,10,14,10,18,22,19,12,3,80,32,66,88,17,33,73,37,14,109,12,214,21,17,235,41,584,5,9,1,1,7,1,2,3,1,5,4,2,6,23,8,6,3,2,1,12,8,4,9,6,5,4,36,7,81,15,2,23,1,17,39,59,41,62,9,27,143,333,14,425,137,23,7,2,2,2,49,33,231,90,4,42,111,158,34,50,235,1,12,2,20,21,10,17,37,25,137,6,28,9,8,109,5
+Provide	170,225,341,26,137,41,18,42,131,573,74,36,14,160,471,18,232,66,214,594,389,154,359,43,82,251,384,288,132,11,1,3,7,106,360,37,242,362,142,12,1,33,284,282,998,271,306,314,166,1,251,302,250,143,164,7,42,56,90,98,72,52,25,40,2,18,19,2,48,569,3,3,3,53,24,1,11,4,30,9,13,130,13,6,11,17,10,19,13,6,7,1,12,49,54,3,17,7,16,1,44,9,45,14,130,32,1,18,61,9,154,10,5,30,2,8,3,2,5,8,34,7,4,2,3,43,102,73,37,13,4,2,6,11,2,14,10,2,22,80,71,104,232,57,24,1,4,37,33,8,402,7,25,100,35,25,48,77,10,5,7,4,4,37,1,16,30,9,5,18,16,8,1,13,12,11,7,32,36,1,22,10,14,10,18,22,19,12,3,80,32,66,88,17,33,73,37,14,109,12,214,21,17,235,41,584,5,9,1,1,7,1,2,3,1,5,4,2,6,23,8,6,3,2,1,12,8,4,9,6,5,4,36,7,81,15,2,23,1,17,39,59,41,62,9,27,143,333,14,425,137,23,7,2,2,2,49,33,231,90,4,42,111,158,34,50,235,1,12,2,20,21,10,17,37,25,137,6,28,9,8,109,5,254,3
 Provide AI	14812,6
 Provide AI-focused	19679
 Provide APIs	6423
@@ -1844,7 +1849,7 @@ Provincia da Huíla	539
 Provincia de Djibloho	17087,84
 Provincia de Djiploho	17171
 Provinciais	10783,638,25,131
-Provincial	34,362,340,3244,5019,1752,1,2,21,8,410,22,37,149,48,102,365,2,68,39,176,132,5,71,51,336,491,33,41,6,51,54,48,1415,3528,448
+Provincial	34,362,340,3244,5019,1752,1,2,21,8,410,22,37,149,48,102,365,2,68,39,176,132,5,71,51,336,491,33,41,6,51,54,48,1415,3528,448,1315
 Provincial Accountants	13332
 Provincial Administrations	13472
 Provincial Administrations and Hospitals	10780
@@ -1970,7 +1975,7 @@ Provions of Paragraph	14919
 Provipsaions Regarding Meetingso	19525
 Provis. Reprov. Sec. Abandonos Aprovados Comparticipada	10766
 Provisio Montants	18032
-Provision	940,191,23,7,59,373,274,121,319,166,688,517,294,182,48,694,769,1167,114,592,10,297,509,543,212,535,763,368,54,300,440,286,5,1,53,41,1,37,2,245,6,7,48,22,15,21,36,133,1,2,4,17,141,219,26,16,21,2,8,68,235,43,235,843,40,44,10,91,135,9,8,6,9,17,50,3,36,3,10,27,5,35,63,173,23,157,13,34,14,32,17,7,73,105,5,34,323,27,97,292,164,31,67,141,13,11,9,12,1,2,28,1,10,15,2,4,4,4,16,84,59,121,1,205,303,89,129,387,88,25,4,9,21,16,44,331,78,98,1,185,35,236,5,2,5,9,100,104,90,20,5,128
+Provision	940,191,23,7,59,373,274,121,319,166,688,517,294,182,48,694,769,1167,114,592,10,297,509,543,212,535,763,368,54,300,440,286,5,1,53,41,1,37,2,245,6,7,48,22,15,21,36,133,1,2,4,17,141,219,26,16,21,2,8,68,235,43,235,843,40,44,10,91,135,9,8,6,9,17,50,3,36,3,10,27,5,35,63,173,23,157,13,34,14,32,17,7,73,105,5,34,323,27,97,292,164,31,67,141,13,11,9,12,1,2,28,1,10,15,2,4,4,4,16,84,59,121,1,205,303,89,129,387,88,25,4,9,21,16,44,331,78,98,1,185,35,236,5,2,5,9,100,104,90,20,5,128,238
 Provision Mechanisms	4154
 Provision Oversight	15206
 Provision Regional Development Plans	16916
@@ -2016,6 +2021,7 @@ Provision of Intraday Loan Facility The BoZ	12364
 Provision of Learning Materials	12975
 Provision of Low	17334
 Provision of Medical Services	3405
+Provision of Mobile Money Services	20224
 Provision of Oversight	15206
 Provision of PBF	16922
 Provision of PHC	15725
@@ -2122,9 +2128,9 @@ Provisórias	10766
 Provisórias Improvisadas Angola	10766
 Provisório	18753
 Public Data Service Providers	958,12337
-Public Perception of Education Provision	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Public Perception of Education Provision	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 Public Perception of Education Provision Social Protection	10759,1395
-Public Perception of Health Provision	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Public Perception of Health Provision	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 Public Perception of Health Provision Education	10759,1395
 Public Perception of Health Provision Reading	11889,452
 Public Service Commission and Gauteng Provincial Government	4896
@@ -2552,8 +2558,8 @@ Venture Capital Funding Providing	12495
 Vipnet Connectivity Provider	10956
 Virtual Asset Service Provider	9311,223,220,121,2101,906,1937,25
 Virtual Asset Service Provider Association	9956
-Virtual Asset Service Providers	3289,581,732,303,226,2210,493,346,410,113,120,3,404,1901,690,310,751,650,1312,4130,966
-Virtual Asset Service Providers Act	3793,1115,2699,227,863,6,608,223,2165,7253,22,4,167
+Virtual Asset Service Providers	3289,581,732,303,226,2210,493,346,410,113,120,3,404,1901,690,310,751,650,1312,4130,966,158
+Virtual Asset Service Providers Act	3793,1115,2699,227,863,6,608,223,2165,7253,22,4,167,928
 Virtual Asset Service Providers Framework Industry	18952
 Virtual Asset Service Providers Regulations	7607
 Virtual Asset Service Providers Regulations. Select	10738

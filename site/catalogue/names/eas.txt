@@ -94,6 +94,7 @@ BASF East Africa Limited Data Controller	7167
 BC-5 Adamawa North East	11857
 BDO EAST AFRICA KENYA Data Controller	7167
 BECTON DICKINSON EAST AFRICA LIMITED Data	7167
+BEWARE THE EASY	20151
 BO-1 Adamawa North East	11857
 BO-2 Adamawa North East	11857
 BO-4 Adamawa North East	11857
@@ -404,12 +405,12 @@ Easier	2319,8445,1927,351,253,1271
 Easier Said Than Done	5366
 Easily	12090,197,2710,476,4226,161,96
 Easiness	12389
-Easing	14729,2220,286,1616
+Easing	14729,2220,286,1616,1253
 Easler	1885
 Eassy	3559
 East AFRITAC	12500
 East Afri-	13357
-East Africa	107,71,196,136,203,73,44,12,45,48,141,47,122,19,263,193,1,1,56,46,4,29,131,287,73,328,1,2,95,24,16,36,107,29,201,6,107,122,94,7,53,7,42,102,11,7,29,14,71,80,15,198,287,116,8,49,140,43,11,42,70,17,23,1,13,16,26,19,40,51,100,23,125,46,67,36,80,26,1,1,61,16,59,257,19,5,15,35,17,37,81,27,8,52,20,65,23,80,97,88,25,1,56,16,1,52,8,87,1,8,15,21,27,3,22,106,11,4,45,8,198,34,20,47,18,23,25,46,18,179,18,33,54,11,33,2,34,32,78,40,50,5,320,2,18,4,94,133,5,44,46,102,42,10,59,61,3,116,46,176,4,102,86,28,74,14,10,132,127,11,118,16,3,24,25,127,10,53,13,61,107,3,27,1,34,21,13,3,57,5,26,155,125,17,47,141,93,172,205,6,23,1,348,9,9,18,30,6,6,12,10,2,28,12,36,8,44,42,12,102,771,1,1,17,27,252,41,96,104,16,16,12,20,29,37,119,40,38,73,31,152,30,43,1,5,87,296,19,17,47,18,98,25,26,75,957,609,1,499,266,21,70,1,1,99,58,67,819,16,157,25,23,47,575,10,52,68,36,5,98,25,13,193
+East Africa	107,71,196,136,203,73,44,12,45,48,141,47,122,19,263,193,1,1,56,46,4,29,131,287,73,328,1,2,95,24,16,36,107,29,201,6,107,122,94,7,53,7,42,102,11,7,29,14,71,80,15,198,287,116,8,49,140,43,11,42,70,17,23,1,13,16,26,19,40,51,100,23,125,46,67,36,80,26,1,1,61,16,59,257,19,5,15,35,17,37,81,27,8,52,20,65,23,80,97,88,25,1,56,16,1,52,8,87,1,8,15,21,27,3,22,106,11,4,45,8,198,34,20,47,18,23,25,46,18,179,18,33,54,11,33,2,34,32,78,40,50,5,320,2,18,4,94,133,5,44,46,102,42,10,59,61,3,116,46,176,4,102,86,28,74,14,10,132,127,11,118,16,3,24,25,127,10,53,13,61,107,3,27,1,34,21,13,3,57,5,26,155,125,17,47,141,93,172,205,6,23,1,348,9,9,18,30,6,6,12,10,2,28,12,36,8,44,42,12,102,771,1,1,17,27,252,41,96,104,16,16,12,20,29,37,119,40,38,73,31,152,30,43,1,5,87,296,19,17,47,18,98,25,26,75,957,609,1,499,266,21,70,1,1,99,58,67,819,16,157,25,23,47,575,10,52,68,36,5,98,25,13,193,139
 East Africa Addis Ababa	14100
 East Africa Avg	12385
 East Africa BMZ	178
@@ -434,7 +435,7 @@ East Africa Data Controller INST-190042FFF42 NAIROBI	7167
 East Africa Data Controller INST-4911146A91D NAIROBI	7167
 East Africa Data Processor INST-190042FFF42 NAIROBI	7167
 East Africa Device Assembly Kenya Ltd	3975
-East Africa Digital Gateway	19532
+East Africa Digital Gateway	19532,639
 East Africa Director General Alex Mubiru	14119
 East Africa East African Community	10260
 East Africa Exchange	14997
@@ -486,6 +487,7 @@ East Africa. Available	10819
 East Africa. Beyond	14551
 East Africa. Clear	8449
 East Africa. Co-investors	264
+East Africa. Customers	20171
 East Africa. E-mail	12192
 East Africa. Editor	3727
 East Africa. Equally	4766
@@ -649,7 +651,7 @@ East Africa’s AI-ready	8644
 East Africa’s ICT	15120
 East Al-Nasr	7809
 East And North Africa Region CURRENCY	13836
-East Asia	6997,3849,158,131,14,753,62
+East Asia	6997,3849,158,131,14,753,62,8246
 East Asia Europe Latin Middle South	10977
 East Asia Pacific	10714,71
 East Asia and Europe and Latin America Middle	10977
@@ -830,7 +832,7 @@ Eastern And Southern Africa. Regional Vice	12220
 Eastern Asia	11572
 Eastern Asia Pyongyang	10840
 Eastern Asia and South-eastern Asia	11572
-Eastern Backbone	16966
+Eastern Backbone	16966,3257
 Eastern Backbone Power Transmission	12985
 Eastern Backbone Rehabilitation Project	13060
 Eastern Business Kenya Markets Commentary Opinion	9646
@@ -906,11 +908,13 @@ Eastern Province Kigali	12413
 Eastern Provnce Other Sector	12413
 Eastern REPUBLIC OF ZAMBIA Figure	12431
 Eastern Recovery Project	17906
-Eastern Region	3386,6681,2963,2312,3122,8,3,1240
+Eastern Region	3386,6681,2963,2312,3122,8,3,1240,409,22,1,34
+Eastern Region By Newsalertgh	20147
 Eastern Region Mob	3386
 Eastern Region Plot No	2776
 Eastern Region-Nangarhar	13042
 Eastern RegionDeputy Director	18536
+Eastern Regional Minister	20124,22
 Eastern Regions	16511
 Eastern Regions of Ghana	19940
 Eastern Southern African Management Institute	16978
@@ -1048,7 +1052,7 @@ Far East Rand	11986
 Far North North East South South-West	16540
 Farming Imo South East	11857
 Farming None Adamawa North East	11857
-Financial Management Public Perception of Easiness	10759,78,1315,188,7598
+Financial Management Public Perception of Easiness	10759,78,1315,188,7598,274
 Financial Services EAC East African Community	7763
 First Deputy Prime Minister and Minister of East	11806
 First for East Africa	3193
@@ -1249,7 +1253,7 @@ Microsoft Excel Ease	9124
 Microsoft Middle East and Africa	5327
 Microsoft's Middle East and Africa Emerging Markets	11777
 Mid East	13897
-Middle East	344,3,273,416,676,7,22,228,56,350,143,159,1,131,21,55,17,147,64,285,238,91,41,86,18,249,115,165,275,209,5,44,38,149,105,21,5,5,341,9,14,80,98,340,169,30,30,42,183,128,152,142,141,72,189,102,15,219,106,190,27,47,1,1,96,187,22,96,57,307,195,402,222,26,34,161,54,63,156,58,81,9,111,93,28,109,22,4,67,8,53,158,8,122,2,4,45,86,6,12,1,20,179,7,2,382,22,20,42,62,43,232,235,296,6,118,64,240,98,327,110,44,34,10,181,50,279,228,6,178,3,31,40,17,1,5,33,62,26,72,108,45,60,165,240,2,112,114,105,68,298,304,60,220,15,111,106,7,22,54,5,1,9,13,82,37,45,8,1331,37,240,327,9,77,70,126,111,1,28,34,16,19
+Middle East	344,3,273,416,676,7,22,228,56,350,143,159,1,131,21,55,17,147,64,285,238,91,41,86,18,249,115,165,275,209,5,44,38,149,105,21,5,5,341,9,14,80,98,340,169,30,30,42,183,128,152,142,141,72,189,102,15,219,106,190,27,47,1,1,96,187,22,96,57,307,195,402,222,26,34,161,54,63,156,58,81,9,111,93,28,109,22,4,67,8,53,158,8,122,2,4,45,86,6,12,1,20,179,7,2,382,22,20,42,62,43,232,235,296,6,118,64,240,98,327,110,44,34,10,181,50,279,228,6,178,3,31,40,17,1,5,33,62,26,72,108,45,60,165,240,2,112,114,105,68,298,304,60,220,15,111,106,7,22,54,5,1,9,13,82,37,45,8,1331,37,240,327,9,77,70,126,111,1,28,34,16,19,273
 Middle East Africa	16799
 Middle East Americans	18879
 Middle East Conflict	11285
@@ -1445,7 +1449,7 @@ Project East2West. Bayobab	2814
 Protect East Africa's Refugees	12227
 Protection Act EAC East African Community	12663
 Province Eastern Cape Free State Gauteng	8999
-Public Perception of Easiness	10759,76,2,1,74,56,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Public Perception of Easiness	10759,76,2,1,74,56,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 Public YES NO Easy	14778
 Purpose COMESA Common Market for Eastern and Southern	2775
 RECEIVE DJIBOUTI EAST AFRICAN BANK ACCESS	11002
@@ -1633,7 +1637,7 @@ Upper East Regions	16218
 Upper East Upper East Laptop Desktop	582
 Upper East and Upper West	8370
 Urban East Africa	12227
-V Eastern Backbone	16966
+V Eastern Backbone	16966,3257
 V Eastern Backbone Rehabilitation Project	13060
 VID Eastlea	8639
 Very Difficult Difficult Undecided Easy Very	17149

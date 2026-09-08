@@ -6,6 +6,7 @@ AFRICA CEO FORUM	2342
 AFRICA DEVELOPMENT FORUM OVERVIEW Integrating Africa	11149
 AFRICA LAW ACCES FORUM	16363
 AFRICAN TAX ADMINISTRATION FORUM	3161
+AFS Forum	20129
 AFUR African Forum for Utility Regulators AFRUR	10975
 AFUR Forum Africain des Régulateurs de Services Publics	15769
 AI Forum	9970
@@ -38,11 +39,11 @@ Africa Development Forum Series The Africa	11149
 Africa Diaspora Forum	8458
 Africa Disability Forum and Food Security Cluster	18743
 Africa Energy Forum	11137
-Africa Food Systems Forum	17139,459
+Africa Food Systems Forum	17139,459,2531,3
 Africa Gender Statistics Forum	8427
 Africa Gender and Child Statistics Forum	8427
 Africa Innovation and Technology Forum	5715
-Africa Internet Governance Forum	6190,1860,2657
+Africa Internet Governance Forum	6190,1860,2657,9475
 Africa Investment Forum	4096,8841
 Africa Investment and Trade Forum	6127
 Africa Peering and Interconnection Forum	19682
@@ -217,7 +218,7 @@ East African Community Digital for Development Forum	13653
 East African Public Procurement Forum	3969
 Ecobank-JoyNews Business Financial Dialogue. Where the Forum	9075
 Economic Diversification Forum	17101
-Economic Forum WHO World Health Organization	10759,78,1052,451
+Economic Forum WHO World Health Organization	10759,78,1052,451,7872
 Economic Forum WTP Willingness	11380
 Economic Forum for Economic Diversification MPI	17101
 Economic Forum for Sustainable Development	1353
@@ -308,6 +309,7 @@ Forum des Administrateurs	8257
 Forum des Entreprises Publiques	2342
 Forum des Femmes Parlementaires	15543
 Forum des Femmes Parlementaires de Centrafrique	15686
+Forum des Régulateurs	20059
 Forum des Startups	15550,71
 Forum du Peering	16545
 Forum for African Women Educationalists	1540,10789,801
@@ -350,6 +352,8 @@ GHG Forum of Incident Response and Security Teams	16144
 GS1 MEMA Forum	7322
 Gateway Forum	11226
 Geneve Libyan-Moroccan Business Forum	5592
+Ghana Cybersecurity Industry Forum	20182
+Ghana DNS Forum	20182
 Ghana. Per the Future of Privacy Forum	14128
 Global CBPR Forum	2769
 Global Cross-Border Privacy Rules Forum	4583,783
@@ -435,7 +439,7 @@ Interconnection Forum URL	18407
 Intergovernmental Sector Forum	8569
 Intermediaries FIRST Forum of Incident Response and Security	1264
 International Accreditation Forum	13320,314,1102,78
-International Forum	8282,7974
+International Forum	8282,7974,3856
 International Forum for Planning and Development	17371
 International Medical Device Regulators Forum	3651,4650
 International Migration Review Forum	9838,7454
@@ -542,7 +546,7 @@ National Religious Leaders Forum. A Human	2626
 National Showcase and Partnership Forum	7171
 Natural Resources Forum	16996
 Next Einstein Forum. Ouverture	17853
-Nigeria Electronic Fraud Forum	3732,7406
+Nigeria Electronic Fraud Forum	3732,7406,9060
 Nigeria Governors Forum	3735,7391,731
 Nigeria Governors' Forum	10597,1453
 Nigeria Governors' Forum. The Nigerian	6593
@@ -637,6 +641,7 @@ Somali Internet Governance Forum	15120
 Sommet de Beijing du Forum	10615
 South African Communication Forum	4732
 South African Communications Forum	4732
+South African Digital Governance Forum	20206
 South African National Editors’ Forum	5301,5196
 South Sudan Business Forum	19641
 South Sudan Internet Governance Forum	18674,49
@@ -716,7 +721,7 @@ WEF Forum	17881
 WEF World Economic Forum	11887,266,1,9,178,7517,1
 WEF World Economic Forum United Nations	10835,3,130,902,16,466,1,135,7334
 WP0CRVS000Box385194B00PUBLIC0.pdf World Economic Forum	10819
-WSIS Forum	4520,1430,263,922,1,3,33,17,29,2043,3953,2014,2543,1763
+WSIS Forum	4520,1430,263,922,1,3,33,17,29,2043,3953,2014,2543,1763,578
 WSIS Forum and AI for Good	7161
 Waihi Community Forum	11006,1
 Water Forum	18378

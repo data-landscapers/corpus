@@ -51,6 +51,7 @@ Agencies MFB Ministry of Finance and Budget MFD	3604
 AgendaEstimated BudgetResponsibleStartingClosing1	18305
 AgendaEstimated BudgetResponsibleStartingClosing1. Ensure	18305
 Allocated Budget	1289,13646
+Analysis Budgeting and Research Directorate	20217
 Annual Budget	12972,1764,2097,110,1520,138,1
 Annual Budget Funding Amount ADEOP	15796
 Annual Budget Monitoring Report	19660
@@ -544,7 +545,7 @@ Budget. WORLD	13122
 Budget.pdf	14828
 Budget.pdf ANNEX TO BUDGET SPEECH	14831
 Budget2024	12977
-Budgetary	789,151,2643,7176,76,2,1,74,56,902,16,1,1,1,249,15,1,9,177,1,11,1,135,1697,1531,1142,113,532,802,1347,1,169,14,22,1,65,14,1,48
+Budgetary	789,151,2643,7176,76,2,1,74,56,902,16,1,1,1,249,15,1,9,177,1,11,1,135,1697,1531,1142,113,532,802,1347,1,169,14,22,1,65,14,1,48,225
 Budgetary Allocation	11860
 Budgetary Allocations	19937
 Budgetary Central Government	2775,11859,2623
@@ -567,10 +568,12 @@ Budgeted Amount K23	13355
 Budgeted Expenditure	10870
 Budgeted K70	13355
 Budgeted Recurrent Cost	14736
-Budgeting	1867,1737,5833,1331,249,176,332,330,3517,139,42,106,777,548,10,122,1531,240,698,56,71
+Budgeting	1867,1737,5833,1331,249,176,332,330,3517,139,42,106,777,548,10,122,1531,240,698,56,71,505
+Budgeting Directorate	20217
 Budgeting Domestic Resource Mobilization Service Delivery	16970
 Budgeting Process	12962
 Budgeting RBM Results-Based Management SADC Southern	19042
+Budgeting REPUBLIC OF THE GAMBIA Produced	20217
 Budgeting System The Government of Mozambique	4260
 Budgeting TOC Theory of Change GRPB Gender	11193
 Budgeting Training Development	18309
@@ -981,7 +984,7 @@ Hydrocarbures50 Le Budget	1594
 Hyperion Budget	19847
 I.ESTIMATED BUDGET FOR THE COORDINATION	18305
 IBP International Budget Partnership	11887,266,1,9,178,7517,1
-IBP International Budget Partnership IDMC Internal	10759,78,1052,451,7598
+IBP International Budget Partnership IDMC Internal	10759,78,1052,451,7598,274
 IBP Open Budget Survey Results	18305
 ICT Budgeting	15164
 ICT Budgeting and Allocation43	15164
@@ -1027,7 +1030,7 @@ Initial Budget	19712
 Integrated Budget Operations Management System	3604
 Integrated Household Budget Survey	11136,8383,83
 Integrated System for Budgetary and Financial Management	11939
-Intergovernmental Budget and Economic Council	10122
+Intergovernmental Budget and Economic Council	10122,9955
 Intergovernmental Budget and Economic Council. Supporting	9939
 International Budget Partnership	6500,250,1263,1446,2407,2760,1086,743,3198,183
 International Budget Partnership Nigeria	17634
@@ -1159,7 +1162,7 @@ Ministry of Budget. Contact	19847
 Ministry of Budget. Governance and Anti-corruption	19835
 Ministry of Budget. Risk Assessment and Mitigation Figure	15411
 Ministry of Finance Recurrent and Development Budget	12598
-Ministry of Finance and Budget	969,12,2623,8254,3800,3,90,1221,643,678,12,54,572
+Ministry of Finance and Budget	969,12,2623,8254,3800,3,90,1221,643,678,12,54,572,1239
 Ministry of Finance and Budget Key Dates Key	15619
 Ministry of Finance and Budget Management Information System	15658
 Ministry of Finance and Budget of Equatorial Guinea	16942
@@ -1286,6 +1289,7 @@ PLAN D'ACTION BUDGETISE DE LA STRATEGIE	15479
 PLANNING AND BUDGETING PERFORMANCE	19544
 POIDS Budget	19250
 POLITIQUES AU TITRE DE L’EXERCICE BUDGETAIRE	17829
+PPARBD Policy Planning Analysis Research Budgeting	20217
 PREPARATION DU BUDGET Chef de Section Commissaires	17899
 PRESENTATION DES BUDGETS ANNEXES ET DES	16047
 PRESENTATION DU BUDGET GENERAL PAR TITRE	16047
@@ -1436,7 +1440,7 @@ Result Framework And Budget.......66	13999
 Resumption of EU Budget Support	14109
 Revenue Composition Direct Budget Support	5655
 Revenue Management Budget	11939
-Revenue Mobilisation Budgetary	10759,78,1315,188,7598
+Revenue Mobilisation Budgetary	10759,78,1315,188,7598,274
 Revised Budget	15023,4689
 Revised Budget and Actual	14736
 Ring-Fence Maintenance Budgets	17260

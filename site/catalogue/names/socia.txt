@@ -409,7 +409,7 @@ Child and Social Welfare. Development Objective	18625
 Child and Social Welfare.361	3583
 Children AND Social Welfare	16951
 Children and Social	16872,79
-Children and Social Protection	2548,1788,1812,6581,52,3078,19,375,607,90,10,167,130,39,15,2631,23
+Children and Social Protection	2548,1788,1812,6581,52,3078,19,375,607,90,10,167,130,39,15,2631,23,215
 Children and Social Protection Actionable Issue	16872
 Children and Social Protection MoJ	5244
 Children and Social Protection and GIZ	16101
@@ -482,7 +482,7 @@ Comprehensive Review. Open Journal of Social	13418
 Compulsory Social Security	2775
 Computerisation Programme for Social Aid	14721
 Comunicacao Social	11045
-Comunicação Social	167,372,653,146,957,70,66,150,32,116,92,316,769,240,1,101,2,1155,137,412,20,5,1,557,48,10,15,7,23,158,97,31,192,122,5,700,363,1,182,52,337,356,21,1,13,815,28,500,158,273,27,86,159,13,52,4,3,7,1,5,13,13,62,141,193,487,522,2506,164,32,447,1121,437,40
+Comunicação Social	167,372,653,146,957,70,66,150,32,116,92,316,769,240,1,101,2,1155,137,412,20,5,1,557,48,10,15,7,23,158,97,31,192,122,5,700,363,1,182,52,337,356,21,1,13,815,28,500,158,273,27,86,159,13,52,4,3,7,1,5,13,13,62,141,193,487,522,2506,164,32,447,1121,437,40,2477
 Comunicação Social Artigo	12311
 Comunicação Social Sublinhou	5974
 Comunicação Social. Artigo	12311
@@ -659,7 +659,7 @@ Designated Flagship Social Safety Nets Program	19242
 Designing Culturally Aligned AI Systems for Social	6948
 Det. Sociais da Saúde	15966
 Developing Countries SCC Social Cost of Carbon	16996
-Development Health Education Social Protection	10837,1315,188,7598
+Development Health Education Social Protection	10837,1315,188,7598,274
 Development Ouattara Specialist Fatoumata Diallo Social	19284
 Development PPSD Social Income for Inclusion Program	11855
 Development Policy Financing DPF Environmental and Social	11905
@@ -710,7 +710,7 @@ Directorate General for Social Action	18370
 Directorate of Social Assistance	14487,6,23
 Directorate of Social Protection	18809
 Directorate of Social Protection Coordination	12832
-Directorate of Social Welfare	16887,64
+Directorate of Social Welfare	16887,64,3282
 Direcção de Serviço de Segurança Social da Direcção Nacional	15404
 Direito da Comunicação Social	11358
 Direção Geral de Inclusão Social	11855
@@ -723,6 +723,7 @@ Disability and Social Inclusion Specialist	11750
 Disability and Social Inclusion Specialist PhD	19807
 Disability and Social Welfare	12175
 Disability and Social Welfare Mary Navicha	8575
+Disaster Management and Social Development	20176
 Disaster Risk Management and Social Protection Global	16032
 Dispositif reponsabilité sociale entreprises.pdf	18973
 Dissidence and Social Media Censorship	2518
@@ -783,7 +784,7 @@ EAC Social Security Portability Bill	14997
 ECONOMIQUE BUDGETAIRE ET SOCIAL DES MESURES	16328
 ECOWAS COMMISSION Social Protection	19990
 ECOWAS Social Fund	11536
-EDUCATION SOCIAL PROTECTION	10837,1503,7598
+EDUCATION SOCIAL PROTECTION	10837,1503,7598,274
 EDUCATION SOCIAL PROTECTION INFRASTRUCTURE Rank	11870
 EGLISE SOURCE SPIRITUELLE ET SOCIALE	15465,991
 EGYPT FOR THE STRENGTHENING SOCIAL SAFETY	15663
@@ -859,7 +860,7 @@ Economic Social and Cultural Rights	13040
 Economic and Social	14815,15,2,4
 Economic and Social Affairs	11569
 Economic and Social Affairs UNDP United Nations	16885
-Economic and Social Affairs UNESCO United Nations	10759,78,1052,451
+Economic and Social Affairs UNESCO United Nations	10759,78,1052,451,7872
 Economic and Social Commission for Asia	12367
 Economic and Social Commission for Western Asia	15120,2049
 Economic and Social Commission for Western Asia TRA	5951
@@ -1227,7 +1228,7 @@ GIZ’s Sector Initiative Social Protection	11156
 GRM. Environmental Specialist and Social and GBV Specialist	17099
 GSM Provi- Social Inclusion	10819
 Gambia National Social Registry	16867
-Gambia Social Registry	1687,15418
+Gambia Social Registry	1687,15418,3116
 Garantie Sociale	6129,3706,5526,50,17,90
 Garantie Sociale URL	15361
 Garantie Sociale. Article	15361
@@ -1961,7 +1962,8 @@ National Social Insurance Authority	4944
 National Social Insurance Fund	15883
 National Social Integration Foundation	14748
 National Social Investment Program	18269
-National Social Investment Programme Agency	18269
+National Social Investment Programme Agency	18269,1907
+National Social Investment Programme Agency Act	20176
 National Social Investment Programmes	11857
 National Social Investment Programs	11857
 National Social Policy	12964
@@ -2001,9 +2003,10 @@ National Social Registry. Percentage	10964
 National Social Safety Net	11469
 National Social Safety Net Program-Scale Up	11469,519
 National Social Safety Net System	16960,889
-National Social Safety Nets Coordinating Office	4794
+National Social Safety Nets Coordinating Office	4794,15382
 National Social Safety Nets Project	10093
 National Social Safety Nets Secretariat	16960
+National Social Safety-Net	20176
 National Social Safety-Nets Coordinating Office	12049
 National Social Security	16841,2,10
 National Social Security Authority	1154
@@ -2021,7 +2024,7 @@ National Social Security Law Public Procurement	16843
 National Social Security Number	16841
 National Social Security Policy	12922,6609
 National Social Security System	10775
-National Social Security and Insurance Trust	18440,6
+National Social Security and Insurance Trust	18440,6,1749
 National Social Security and Insurance Trust Act	18440,26
 National Social Security and Insurance Trust Fund	18463
 National Social Security and Welfare Corporation	9338,7647,52,198,22
@@ -2362,7 +2365,7 @@ Public Disclosure Authorized SOCIAL PROTECTION	10985
 Public Disclosure Authorized Social Protection and Jobs	10964
 Public Health. College of Social Science	13368
 Public Perception of Education Provision Social Protection	10759,1395
-Public Perception of Social Protection	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Public Perception of Social Protection	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 Public Service Social Security Fund	19531,10,44
 Public Service Social Security Fund Act	19531,54
 Public Service Social Security Fund Document	19533
@@ -2604,7 +2607,7 @@ SOCIAL OBRIGATÓRIA	11433
 SOCIAL ORDER	14748
 SOCIAL ORDER Honourable Members	14748
 SOCIAL Overview Operation Location Operation	19284
-SOCIAL PROTECTION	10759,76,2,1,130,188,714,16,2,1,263,1,10,177,1,11,1,36,99,907,79,6178,1,169,14,22,1,65,14,1,48
+SOCIAL PROTECTION	10759,76,2,1,130,188,714,16,2,1,263,1,10,177,1,11,1,36,99,907,79,6178,1,169,14,22,1,65,14,1,48,225
 SOCIAL PROTECTION AND ECONOMIC RESILIENCE	12780,1
 SOCIAL PROTECTION AND WELFARE BUDGET ISSUE	11133
 SOCIAL PROTECTION COVERAGE Despite	11998
@@ -2728,7 +2731,7 @@ Sector Social	4209
 Sector da Comunicação Social	12311
 Sectoral and Institutional Context Social	12832
 Sectoral and Institutional Context Social Safety Nets	10963
-Security Public Perception of Social Protection	10837,1315,188,7598
+Security Public Perception of Social Protection	10837,1315,188,7598,274
 Security Regulatory Authority SWO Social Welfare	19531
 Segundo Objecto Social Tr	18896
 Segurança Social	167,3352,556,1646,5032,1,608,28,43,114,392,203,3217,111,224,218,110,506,2223,47,1
@@ -2834,7 +2837,7 @@ Sociais SECÇÃO I Saúde Artigo	12785
 Sociais Utilizados	11406
 Sociais da Organização	18767,5
 Sociais. O EIASS	6269
-Social	12,5,209,169,162,383,30,35,256,2,1,358,1,2,1,1,1,58,15,77,36,14,39,77,44,319,35,48,28,23,41,1,1,1,2,1,1,2,2,2,1,1,1,6,1,1,12,371,69,31,295,33,287,304,1,1,2,5,1,1,1,49,160,21,50,9,221,9,89,132,27,487,304,55,122,45,514,55,189,81,209,95,308,53,344,33,21,4,157,24,67,2,30,69,120,60,241,91,343,81,33,148,56,52,28,129,279,148,60,193,199,29,208,143,129,1,3,22,2,10,2,3,7,4,33,7,10,12,5,13,81,23,1,13,3,5,21,1,126,1,2,2,4,14,32,5,2,3,17,35,11,13,116,16,11,52,73,2,32,34,231,14,2,43,5,19,31,9,1,21,8,6,2,48,7,33,47,64,9,4,6,33,17,21,36,6,2,2,22,1,10,3,10,6,6,17,19,9,1,2,32,15,22,22,7,134,15,69,2,26,2,7,116,11,13,20,8,16,2,23,45,3,1,41,16,22,87,80,14,17,27,60,43,62,9,78,44,31,183,43,6,234,267,6,1,62,1,1,1,3,60,41,80,45,17,6,10,66,17,25,105,32,23,3,62,53,164,40,30,39,4,56,2,7,38,35,48,2,1,54,1,4,31,9,9,15,4,15,26,73,56,7,11,17,37,28,11,20,112,122,59,3,45,8,146,88,1,4,1,6,14,78,124,14,4,6,1,17,1,1,6,3,2,4,14,7,3,9,7,9,1,33,7,4,21,26,37,19,2,13,25,10,87,21,3,1,28,22,130,279,26,25,9,17,15,4,3,5,18,2,1,16,9,3,9,4,13,5,3,27,28,115,23,4,5,3,6,7,22,22,117,7,4,4,4,27,26,12,4,61,23,3,174,116,58,31,48,19,44,21,8,5,3,29,144,76,8,39,11,160,12,53,6,5,1,2,6,1,61,35,2,2,18,4,39,13,13,7,120,15,14,3,16,28,35,4,4,12,2,16
+Social	12,5,209,169,162,383,30,35,256,2,1,358,1,2,1,1,1,58,15,77,36,14,39,77,44,319,35,48,28,23,41,1,1,1,2,1,1,2,2,2,1,1,1,6,1,1,12,371,69,31,295,33,287,304,1,1,2,5,1,1,1,49,160,21,50,9,221,9,89,132,27,487,304,55,122,45,514,55,189,81,209,95,308,53,344,33,21,4,157,24,67,2,30,69,120,60,241,91,343,81,33,148,56,52,28,129,279,148,60,193,199,29,208,143,129,1,3,22,2,10,2,3,7,4,33,7,10,12,5,13,81,23,1,13,3,5,21,1,126,1,2,2,4,14,32,5,2,3,17,35,11,13,116,16,11,52,73,2,32,34,231,14,2,43,5,19,31,9,1,21,8,6,2,48,7,33,47,64,9,4,6,33,17,21,36,6,2,2,22,1,10,3,10,6,6,17,19,9,1,2,32,15,22,22,7,134,15,69,2,26,2,7,116,11,13,20,8,16,2,23,45,3,1,41,16,22,87,80,14,17,27,60,43,62,9,78,44,31,183,43,6,234,267,6,1,62,1,1,1,3,60,41,80,45,17,6,10,66,17,25,105,32,23,3,62,53,164,40,30,39,4,56,2,7,38,35,48,2,1,54,1,4,31,9,9,15,4,15,26,73,56,7,11,17,37,28,11,20,112,122,59,3,45,8,146,88,1,4,1,6,14,78,124,14,4,6,1,17,1,1,6,3,2,4,14,7,3,9,7,9,1,33,7,4,21,26,37,19,2,13,25,10,87,21,3,1,28,22,130,279,26,25,9,17,15,4,3,5,18,2,1,16,9,3,9,4,13,5,3,27,28,115,23,4,5,3,6,7,22,22,117,7,4,4,4,27,26,12,4,61,23,3,174,116,58,31,48,19,44,21,8,5,3,29,144,76,8,39,11,160,12,53,6,5,1,2,6,1,61,35,2,2,18,4,39,13,13,7,120,15,14,3,16,28,35,4,4,12,2,16,195,22
 Social APDCH Aliança	11390
 Social Accountability	12194,776,1583
 Social Accountability Committees	15663
@@ -2854,7 +2857,7 @@ Social Action and National Solidarity NDC Nationally	18198
 Social Action and Solidarities	18370
 Social Action and Solidarity	18359
 Social Action and Solidarity NDTNew Deal Technologique	18359
-Social Affairs	13395,2848,1693,689,263
+Social Affairs	13395,2848,1693,689,263,1333
 Social Affairs Minister	3073,7898
 Social Affairs UNDP United Nations Development	13312,2
 Social Affairs USD United States	11960
@@ -2938,7 +2941,7 @@ Social Changes	17157
 Social Characteristics	16921
 Social Characteristics About	16921
 Social Claim	15901
-Social Cohesion	11525,330,1619,3499
+Social Cohesion	11525,330,1619,3499,3248
 Social Cohesion Efforts	4579,15
 Social Cohesion NCB National Competitive Bidding	11525
 Social Cohesion and Cultural Preservation Zimbabwe	4528,7984
@@ -2954,7 +2957,7 @@ Social Commission for Western Asia	16916
 Social Commitment Plan ESF Environmental and Social	1988,4551,4290,4309
 Social Commitment Plan ESIA Environment and Social	19988
 Social Commitment Plan ESIA Environmental and Social	15515
-Social Communication	3845
+Social Communication	3845,16389
 Social Communication Institute	12201
 Social Communication Minister Mario Oliveira	9500
 Social Conflict	12253
@@ -3052,7 +3055,7 @@ Social Grant Review Process	17739
 Social Grants	12977
 Social Grants A. Orphaned and Vulnerable Children	12977
 Social Health Authori	4153
-Social Health Authority	2512,3,260,618,7,765,677,1389,420,1566,166,551,15,1364,16,2,330,1,1565,41,46,1868
+Social Health Authority	2512,3,260,618,7,765,677,1389,420,1566,166,551,15,1364,16,2,330,1,1565,41,46,1868,5895
 Social Health Authority Chief Executive Officer	12314
 Social Health Authority Health Management Information	12314
 Social Health Authority SHI Social Health	2775
@@ -3191,7 +3194,7 @@ Social Media Summit	7227,375,3751
 Social Media Technical Email	18579
 Social Media UCC	9781
 Social Media Use	15164
-Social Media Users	2504,1,1413,1,1,6939,1582,2524,55,2060
+Social Media Users	2504,1,1413,1,1,6939,1582,2524,55,2060,3141
 Social Media and Digital Rights	10017
 Social Media and Politics	16366
 Social Media. Freedom House	15342
@@ -3243,7 +3246,7 @@ Social Progression	12448,486
 Social Progression Pillar	12925
 Social Projecto de Protecção Social	11406
 Social Protec	11924
-Social Protection	970,1578,227,787,42,3944,3211,4,2,3,7,60,2,1,126,4,17,148,23,312,1,56,35,295,12,3,16,1,1,1,16,19,74,154,1,1,9,57,115,2,4,11,1,59,32,9,35,344,90,1,41,13,116,30,97,94,18,142,252,289,23,157,292,29,37,6,83,188,105,41,30,184,360,71,37,5,68,51,208,610,75,192,20,15,50,8,15,25,105,34,150,560,21,36,79,119,94,103,157,12,30,125,77,107,7,166,260,213,76,106,6,4,5,1,169,14,19,3,1,65,15,48,14,28
+Social Protection	970,1578,227,787,42,3944,3211,4,2,3,7,60,2,1,126,4,17,148,23,312,1,56,35,295,12,3,16,1,1,1,16,19,74,154,1,1,9,57,115,2,4,11,1,59,32,9,35,344,90,1,41,13,116,30,97,94,18,142,252,289,23,157,292,29,37,6,83,188,105,41,30,184,360,71,37,5,68,51,208,610,75,192,20,15,50,8,15,25,105,34,150,560,21,36,79,119,94,103,157,12,30,125,77,107,7,166,260,213,76,106,6,4,5,1,169,14,19,3,1,65,15,48,14,28,183,9
 Social Protection AWPB Annual Work Program	18301
 Social Protection Act	10775,3712,6,1366
 Social Protection Advisory Services and Analytics	18301
@@ -3397,7 +3400,7 @@ Social Registry Direction	17849
 Social Registry Enhanced	11855
 Social Registry Imbeleko Programme	12480
 Social Registry Imbeleko Study Results	12480
-Social Registry Information System	1687,15273
+Social Registry Information System	1687,15273,3261
 Social Registry Information System SRIS	1687
 Social Registry Management Consultancy Information System	16867
 Social Registry Management Information System Business	16867
@@ -3471,8 +3474,8 @@ Social Safety Net System Project	17849
 Social Safety Net System Project II	17904
 Social Safety Net The Social Safety	10812
 Social Safety Net Unit	18198
-Social Safety Nets	3604,7155,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,476,2555,144,68,1221,897,276,345,1182,1,169,14,22,1,65,14,1,48
-Social Safety Nets Poverty Reduction Policies	10837,1315,188,7598
+Social Safety Nets	3604,7155,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,476,2555,144,68,1221,897,276,345,1182,1,169,14,22,1,65,14,1,48,225,9
+Social Safety Nets Poverty Reduction Policies	10837,1315,188,7598,274
 Social Safety Nets Project	14553,1048,57,855,447,297,2379
 Social Safety Nets Social	12964
 Social Safety Programmes	12978
@@ -3500,7 +3503,7 @@ Social Sector Expert	13885
 Social Sector NEMC Non State Actors	19519
 Social Sector Support Project	18754,11
 Social Sectors	19531
-Social Security	2307,2303,1848,480,1831,2006,37,1093,1059,8,507,1269,4,78,849,1162,61,40,30,1137,374,5,52,230,27,12,109,613,154,204
+Social Security	2307,2303,1848,480,1831,2006,37,1093,1059,8,507,1269,4,78,849,1162,61,40,30,1137,374,5,52,230,27,12,109,613,154,204,332
 Social Security Act	12327,6561,30
 Social Security Act Cap	19531
 Social Security Commission	12466,12,445,38,76
@@ -3522,7 +3525,7 @@ Social Security International Atomic Energy Agency	12972
 Social Security Issues	9879
 Social Security Lane	14738
 Social Security Minimum Standards	19531
-Social Security Number	3103,9257,40,4441,1629,1132
+Social Security Number	3103,9257,40,4441,1629,1132,619
 Social Security Numbers	16993
 Social Security Office	14835
 Social Security Portability Bill	14997
@@ -3623,6 +3626,7 @@ Social Transfer for Nutrition Security	16867
 Social Transfer for Nutrition Security CAPI Computer	16867
 Social Transfers	12922,34,3996
 Social Transformation	12989,88
+Social Transformation Minister Samba Diouf	20112
 Social Travail	18112
 Social Twitter Facebook License Creative Commons	16466
 Social Unique	15990
@@ -3631,7 +3635,7 @@ Social Values. Section	18667
 Social Viviendas Tasa	16898
 Social Watch Bénin	6750,1413,8292
 Social Web	8605
-Social Welfare	3583,718,1,1555,6325,185,16,29,544,8,13,1,62,483,116,3219,9,20,169,13,1542,5,9,1,12
+Social Welfare	3583,718,1,1555,6325,185,16,29,544,8,13,1,62,483,116,3219,9,20,169,13,1542,5,9,1,12,1583
 Social Welfare Act	18888
 Social Welfare Agency	18888
 Social Welfare Agency Act	18888
@@ -3808,7 +3812,7 @@ Socialización ENDS	4209
 Socialização	18763
 Socially	13005,413,3567
 Socially Vulnerable Persons	10963,8
-Socialnetlink	7419,3281
+Socialnetlink	7419,3281,9413
 SocialÂ	18887
 SocialÂ ImpactÂ AssessmentsÂ	18887
 SocialÂ ManagementÂ FrameworkÂ	18887
@@ -3844,6 +3848,7 @@ Standing Social Security Certificate	13037
 State Department for Social Protection	14487,72
 State Department for Social Protection and Senior Citizen	14546
 State Department of Social Protection and Senior Citizens	14487
+State Minister of Women and Social Affairs	20076
 State Ministries of Gender Child and Social Welfare	18611
 State Social Protection Policy	12135
 State of Alaska. Department of Health and Social Services	12413
@@ -4003,6 +4008,7 @@ Técnico de Serviço Social	539
 Técnicos Sociais	18824
 Título III Direitos Sociais	18751
 U CAISSE NAT DE SECURITE SOCIALE	16623
+UI School of Social Sciences	20074
 UN Department of Economic and Social Affairs	1912,10501,2484,1729,248,3057
 UN Department of Economics and Social Affairs	16874
 UN Economic and Social Commission for Western Asia	14853
@@ -4084,14 +4090,14 @@ Valores Centrais Socialistas	2816
 Varios Asuntos Sociales	4209
 Visa Social Impact	10977
 WARDIP-SOP2 Liberia Environment Health Safety and Social	17114
-WELFARE Social Safety Nets	10759,78,1052,451,7598
+WELFARE Social Safety Nets	10759,78,1052,451,7598,274
 WESTERN CAPE STANDING COMMITTEE ON SOCIAL	8999
 WOMEN AND SOCIAL	17228
 WOMEN AND SOCIAL PROTECTION	17228
 WOMEN'S EQUALITY Public Perception of Social Protection	10835,3,130,902,16,466,1,135,7334
 WURI Project and Togo Social Assistance Transformation	19284
 Wake-Up Call for Social Assistance	10985
-Water Biodiversity Protection Social Protection	10837,1052,263,11,177,1,7312,285
+Water Biodiversity Protection Social Protection	10837,1052,263,11,177,1,7312,285,274
 Websites and Social Media	19639
 Websites and Social Media MDAs	19639
 Weekly Organic Posts Promoted Social Media	8999
@@ -4101,6 +4107,7 @@ Western Cape Minister of Social Development	17741
 WhatsApp. Social	13461
 Wide Penetration of Social Media	11400
 Women Affairs and Social Development	12145
+Women and Social Affairs	20076
 Women and Social Affairs Unit	14106
 Women and Social Affairs. Participating UN System	13999
 Women and Social Solidarity	6087

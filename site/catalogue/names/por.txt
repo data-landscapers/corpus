@@ -188,6 +188,7 @@ Carne de Porco	18757
 Casa da Moeda de Portugal	4415,1,1,1,11611
 Case Management Portal	18240
 Catarina Portelo	18851
+Catholic University of Portugal. Fatou	20074
 Censo. Por	11416
 Centre de Spécialisation Professionnelle de Port-Gentil	15447
 Centro Cultural Português	3530,15274,3,1,6
@@ -415,6 +416,7 @@ E-Services Portal	13987
 EAC Social Security Portability Bill	14997
 EAST AFRICAN PORTLAND CEMENT PLC Data	7167
 ECV Portal	15476
+ECX Launches Digital Portal	20142
 ECZ Online Portal	12465
 ECZ Self Service Portal	13477
 ECZ Self-Service Portal	13477
@@ -587,7 +589,7 @@ Government Procurement PortalPPDACoST Uganda Local	3969
 Government Service Portal	506,7615,302,557,4407
 Government Single Portal. Scaled-up	11965
 Government Single Portal. Subcomponent	11965
-Government Web Portal	12359
+Government Web Portal	12359,7861
 Government Web Portal. Using	12359
 Government and CST and Portugal Telecom	18754
 Government of India. The Mauritius Ports Authority	14829
@@ -601,6 +603,7 @@ Great Portland Street London W1W	10856
 Greater Abidjan Port-City Integration Project	7430
 Group CEO of AD Ports Group	18190
 Gráfico de Porcentaje	16920
+Guinea Ecuatorial Por Fernando Abeso Edu	20095
 Guinea Ecuatorial. Por	1701,12603,2560,56,362
 Guiné- Por	11569
 Guiné-Bissau Por	11569
@@ -674,6 +677,7 @@ Importadora Número de Empresas Porcentagem	18775
 Imprensa Nacional Casa de Moedas de Portugal	5819
 Incentivos Por	10772
 Incubator Libreville Incubator Port Gentil Incubator	15411
+Industry Fraud Reporting Portal	20198
 Industry and Trade Portfolio Committee	13013
 Information Portal	11873,3288
 Information Portal Consumer Resource Centres Purpose	5676
@@ -738,6 +742,7 @@ L Portant Code Numérique	13877
 LA DGI PORTE UN DEMENTI FORMEL	15970
 LAPSSET Lamu Port Southern Sudan-Ethiopia Transport	2775
 LC Online Portal	19956
+LE FONIJ OUVRE SES PORTES AUX	20075
 LE PORTAIL NATIONAL DU SERVICE PUBLIC	10819
 LE PROJET D'ORDONNANCE PORTANT REFORME	19050
 LE PROJET DE DECRET PORTANT ORGANISATION	19050
@@ -988,7 +993,7 @@ Não EST-TEC20 Portal de Transparência ADI8 ADI7	15532
 Não EST-TEC22 Portal de Dados Abertos ADI12	15532
 Número de Empresas Porcentagem	18775
 O Centro Cultural Português	18820
-O Portal	2054,383,1,3134,1419,8485,279,496,1464,1052,5
+O Portal	2054,383,1,3134,1419,8485,279,496,1464,1052,5,1286
 O Portal Consular Digital	16251
 O Portal Nacional de Banda Larga	9559
 O Portal da Justiça	2054,14197
@@ -1117,7 +1122,8 @@ PORTAIL DE GESTION DE L’ADRESSE	17902
 PORTAIL DES OFFRES DE PASSEPORT EN	15936
 PORTAIL OFFICIEL DE LA RÉPUBLIQUE TOGOLAISE	8673,9007
 PORTAILS DE DONNÉES Open Data Portal	19043
-PORTAL	19852
+PORTAL	19852,236
+PORTAL E DHIS2	20088
 PORTANT	13302,3310,1205,12,4,8,20,121
 PORTANT ABROGATION DE DISPOSITIONS	17827
 PORTANT ABROGATION DU DECRET N	17817,10,2,12,20,121
@@ -1576,7 +1582,7 @@ Port Loko District. The NCRA Chairman	18497
 Port Loko Teachers' College University ADM	18485
 Port Loko and Bombali	18443
 Port Loko and Kono	18485
-Port Louis	3292,567,6437,325,711,800,1310,1272,1,23,7,1,2,4,1,1,3,3,6,5,2,1,4,1,3,2,5,10,1,5,6,4,2,13,2,1,3,5,6,1620
+Port Louis	3292,567,6437,325,711,800,1310,1272,1,23,7,1,2,4,1,1,3,3,6,5,2,1,4,1,3,2,5,10,1,5,6,4,2,13,2,1,3,5,6,1620,3594
 Port Louis Cruise Terminal	14742
 Port Louis Harbour	14742
 Port Louis Honourable Minister	14736
@@ -1783,7 +1789,7 @@ Portails des Régions du Burkina Faso. Il	6685
 Portais	11408,2,51,13,1300,2981
 Portais de Serviços	2816
 Portais de Serviços Digitais	11371
-Portal	80,1,2,129,72,432,85,89,48,346,269,224,518,136,6,1,222,793,36,105,313,941,168,86,142,328,996,180,243,904,528,155,153,199,50,60,392,1135,195,468,135,6,12,1,22,2,2,23,28,11,1,1,95,71,96,130,25,48,37,42,124,72,81,26,38,30,120,346,132,64,263,136,294,981,12,8,7,1,76,102,427,26,4,88,2,75,19,130,2,51,169,38,121,81,17,75,19,10,62,29,111,162,236,34,53,268,1,96,376,2,301,204,158,185,128,76,34,56,100,627,1,127,140,136,43
+Portal	80,1,2,129,72,432,85,89,48,346,269,224,518,136,6,1,222,793,36,105,313,941,168,86,142,328,996,180,243,904,528,155,153,199,50,60,392,1135,195,468,135,6,12,1,22,2,2,23,28,11,1,1,95,71,96,130,25,48,37,42,124,72,81,26,38,30,120,346,132,64,263,136,294,981,12,8,7,1,76,102,427,26,4,88,2,75,19,130,2,51,169,38,121,81,17,75,19,10,62,29,111,162,236,34,53,268,1,96,376,2,301,204,158,185,128,76,34,56,100,627,1,127,140,136,43,27,12
 Portal Biometrics Application	11877
 Portal Cabo Verde	11939
 Portal Categories	18747
@@ -2040,7 +2046,7 @@ Portsaid	16079
 Portsudan	15244
 Portugais	8755,9186
 Portugaise	16249
-Portugal	627,133,94,2,357,52,325,358,148,505,17,59,11,128,31,105,52,71,117,165,425,90,57,946,63,314,140,427,381,161,141,48,228,59,12,350,36,63,25,19,337,667,545,285,223,433,356,190,154,19,163,50,1,7,3,5,5,55,165,23,206,142,17,68,64,12,8,4,12,4,4,17,23,254,46,233,59,161,138,460,352,2,998,1068,23,52,16,3,19,12,13,406,38,4,101,162,147,204,482,41,345,643,663,11,2,1,2,2,11,1,3,4,5,1,5,9,44,2,106,51,995
+Portugal	627,133,94,2,357,52,325,358,148,505,17,59,11,128,31,105,52,71,117,165,425,90,57,946,63,314,140,427,381,161,141,48,228,59,12,350,36,63,25,19,337,667,545,285,223,433,356,190,154,19,163,50,1,7,3,5,5,55,165,23,206,142,17,68,64,12,8,4,12,4,4,17,23,254,46,233,59,161,138,460,352,2,998,1068,23,52,16,3,19,12,13,406,38,4,101,162,147,204,482,41,345,643,663,11,2,1,2,2,11,1,3,4,5,1,5,9,44,2,106,51,995,100
 Portugal BARBAS	6613
 Portugal Cambodia	16973
 Portugal Civil ID System	10714
@@ -2080,7 +2086,7 @@ Portugal’s Minister for State Reform	8246
 Portugal’s RD	10188
 Portugol Studio	15564
 Portuguesa	2816,8721,8,476,4355
-Portuguese	167,14,9,152,88,109,107,98,8,210,1983,130,393,21,64,1322,377,775,334,795,225,495,10,856,657,35,398,356,282,278,6,9,2,5,5,26,600,38,86,11,14,312,47,99,3,150,40,46,532,77,272,2317,145,597,656,172,230,42,649,825,4,12,10,9,1,12,29,30,5,96,16,1053
+Portuguese	167,14,9,152,88,109,107,98,8,210,1983,130,393,21,64,1322,377,775,334,795,225,495,10,856,657,35,398,356,282,278,6,9,2,5,5,26,600,38,86,11,14,312,47,99,3,150,40,46,532,77,272,2317,145,597,656,172,230,42,649,825,4,12,10,9,1,12,29,30,5,96,16,1053,36
 Portuguese Arbitration Act	18797
 Portuguese Caixa Geral de Depositos	18797
 Portuguese Character	15593
@@ -2299,6 +2305,7 @@ Single Portal and DPI	12008
 Single Transaction Portal	14985
 Single Window Applications and Sectorial Portals. Figure	19533
 Single Window Portal	19665
+Sistema Estadístico Nacional Por Catalina Obono	20066
 Situation At the Port of Conakry	16631
 Small Business Portfolio Digital Transformation Strategy	8458
 Smart Invoice Smart Invoice Portal FAQs	12454
@@ -2385,6 +2392,7 @@ Technical Project Portfolio Management	4528,7984
 Technological Neutrality and Data Portability	13308
 Technology Portals	8208,197,791
 Technology Portia Matsena	14269
+Teegwende Valerie Porgo	20221
 Telégrafos. Por	17389
 Tema Port	11036,3180,2295
 Tenders Portal	7514,504,1658,426,2220
@@ -2468,6 +2476,7 @@ Web Portal	12769,7171
 Web Portal PAYMENT SYSTEMS OVERSIGHT ANNUAL	19940
 Web Portal The Bank	19940
 Web Portals	11952
+Web Summit Portugal	20122
 Wezesha Portal	19585
 Wezesha Portal System TZS	19585
 Wezesha Portal and Loan Register Records Inconsistency	19585

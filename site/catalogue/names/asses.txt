@@ -21,7 +21,7 @@ AI Landscape Assessment	13113
 AI Landscape Assessment Justice	13080
 AI Landscape Assessments	13661
 AI Readiness Assessment	3378,10283,3069,2413
-AI Readiness Assessment Methodology	4126,402,7984,1031,1,13,106,476
+AI Readiness Assessment Methodology	4126,402,7984,1031,1,13,106,476,6045
 AI Readiness Assessment Report	12994,2875
 AI Readiness Index and Maturity MINICT Assessment	1204
 AI Systems Assessment Readiness Tool	16212
@@ -91,6 +91,7 @@ Agricultural Sector Risk Assessment	18104
 Akoto D. Assessing the Effectiveness	19944
 Algeria National Cadastre Overview Assessment	19874
 Almeida AA. Assessing	10780
+Anambra Assesses	20139
 Angola Poverty Assessment	10768
 Annex II. External Sector Assessment Overall	13868
 Annex III. Risk Assessment Matrix	13868
@@ -105,7 +106,7 @@ Artificial Intelligence Readiness Assessment Report	12994
 Artificial Intelligence Readiness Assessment Report. UNESCO	2816
 Arusha. The Association for Educational Assessment	10675
 Asses	16863,294
-Assess	236,482,181,344,571,174,489,512,872,265,1539,767,400,106,610,1930,272,1381,2,23,28,1,6,210,453,98,3,240,45,116,3,40,46,197,275,123,43,298,477,67,13,52,1,450,83,253,102,56,62,133,34,42,267,131,55,54,983,162,5,13,8,1,41,21,4,12,5,43,7,81,15,35,8,98,5,107,1003,106,19,36,430,79,197,338,9,80,137,109,56
+Assess	236,482,181,344,571,174,489,512,872,265,1539,767,400,106,610,1930,272,1381,2,23,28,1,6,210,453,98,3,240,45,116,3,40,46,197,275,123,43,298,477,67,13,52,1,450,83,253,102,56,62,133,34,42,267,131,55,54,983,162,5,13,8,1,41,21,4,12,5,43,7,81,15,35,8,98,5,107,1003,106,19,36,430,79,197,338,9,80,137,109,56,255,2
 Assess AI	1814
 Assess BISS and BACH	19664
 Assess Compliance	10721
@@ -168,7 +169,7 @@ Assessing the Impact of ICT Integration Policy	899
 Assessing the Levels of Assurance	10775
 Assessing the Macroeconomic Productivity Gains	11140
 Assessing the Program	18370
-Assessment	584,315,71,191,42,9,52,603,121,6,579,1031,187,70,26,239,88,580,871,155,612,80,27,1009,470,584,1555,564,42,5,44,29,165,147,3,25,344,225,105,42,8,43,8,30,8,14,82,120,4,27,14,42,32,29,21,6,68,47,8,27,40,211,149,46,204,123,2,21,12,11,27,4,3,4,26,50,9,391,123,19,146,518,68,64,6,48,35,3,11,12,14,12,50,26,57,84,36,172,43,9,49,45,35,51,17,37,1,2,2,481,470,229,5,4,1,8,35,6,20,5,16,4,2,19,2,18,8,15,6,82,5,10,2,23,18,23,55,82,50,502,249,252,78,19,21,24,116,84,113,62,350,47,235,8,28,9,12,8,1,56,9,10,52,95,28,12,157
+Assessment	584,315,71,191,42,9,52,603,121,6,579,1031,187,70,26,239,88,580,871,155,612,80,27,1009,470,584,1555,564,42,5,44,29,165,147,3,25,344,225,105,42,8,43,8,30,8,14,82,120,4,27,14,42,32,29,21,6,68,47,8,27,40,211,149,46,204,123,2,21,12,11,27,4,3,4,26,50,9,391,123,19,146,518,68,64,6,48,35,3,11,12,14,12,50,26,57,84,36,172,43,9,49,45,35,51,17,37,1,2,2,481,470,229,5,4,1,8,35,6,20,5,16,4,2,19,2,18,8,15,6,82,5,10,2,23,18,23,55,82,50,502,249,252,78,19,21,24,116,84,113,62,350,47,235,8,28,9,12,8,1,56,9,10,52,95,28,12,157,204
 Assessment Agility	13477
 Assessment Approach and Coverage	17116
 Assessment Area Findings Legal and Regulatory Kenya	12210
@@ -304,6 +305,7 @@ Assessment of Indicators Using Health Facility Data	10881
 Assessment of Interest and Penalties	19527
 Assessment of Land Governance	15473
 Assessment of Learning	13477,3375
+Assessment of Legal Framework	20221
 Assessment of Maize Production Dynamics. Além	2816
 Assessment of Minimum Requirements	17037
 Assessment of Natural Disaster Economic Costs. World	17962
@@ -662,6 +664,7 @@ Disaster Risks Capacity Needs Assessment for Tanzania	19520
 District Performance Assessment Tool	1512
 Division of Environmental Impact Assessments	18370
 Does HIS Maturity Assessment Help	18628
+Domestic Regulatory Environment Assessment	20224
 Draft Assessment and Certification System Month	19807
 Draft NAP III Assessment Report	12308
 Draft Regulatory Impact Assessment	19641
@@ -853,6 +856,7 @@ Gender Assessment	13332,3619
 Gender Equality Assessment	15491
 Gender Gap Assessment	11965,7274
 GeneraL Assessment of Classrooms' Readiness	16963
+Ghana's AI Readiness Assessment Methodology	20182
 Ghana’s AI Readiness Assessment	5701,2662
 Given and Assessment	899
 Global Assessment	11006
@@ -878,6 +882,7 @@ Guide for Tax Administration Diagnostic Assessment	16955
 Guidelines EIA Environmental Impact Assessment EIB	18504
 Guinea Agency for Environmental Assessment	20002
 HARMS AND BENEFITS ASSESSMENT Data	1243
+HIGH-LEVEL ASSESSMENT OF IDENTITY MANAGEMENT SYSTEM	20221
 HOUSEHOLD ASSESSMENT	16867
 Harmonized Health Facility Assessment	4202
 Harmonized Health Facility Assessment HTA	15685
@@ -949,7 +954,7 @@ IV. SOCIAL ASSISTANCE SYSTEM ASSESSMENT Delivery	16902
 IV. Sovereign Risk and Debt Sustainability Assessment	17503
 Ideal Clinic Assessment	11980
 Identified Assessment	19541
-Impact Assessment	6476,470,602,5127,656,1340,164,1377,649,253
+Impact Assessment	6476,470,602,5127,656,1340,164,1377,649,253,3045
 Impact Assessment ESIP Energy Services Improvement	15515
 Impact Assessment ESMF Environmental and Social Management	19988
 Impact Assessment Framework	12214
@@ -1046,6 +1051,7 @@ Learning Assessment System	13349
 Learning Assessment System The Republic of Congo	11907
 Learning Assessment Systems	19657
 Learning Assessments Supported	16187
+Legal Assessment	20221
 Legal Digital ID Model Governance Assessment	1879
 Legal and Judicial Assessments	17441
 Legitimate Interest Assessment	7409,4547,37,7958
@@ -1784,6 +1790,7 @@ Vulnerability Assessment Vulnerability	1000
 Vulnerability Assessment and Analysis	12977
 Vulnerability Assessment and Management Conduct	15149
 Vulnerability Assessment and Penetration Testing	10721,4023
+Vulnerability Assessment for National ICT Cybersecurity Risk	20190
 Vulnerability Assessment for Refugees	19886
 Vulnerability Assessments	13053
 Vulnerability and Capacity Assessment	12977

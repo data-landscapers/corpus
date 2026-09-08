@@ -36,7 +36,7 @@ Anoumbuandem Benvolio Lekunze Faculty of Laws and Political	10979
 Approval Previous Rating Current Rating Political	15619,1019,1835
 Apr Political and Governance	12267,4812
 Archaeology and Political Studies	6946
-Assembly Political Pluralism Civil Society Space	10759,78,1315,188,7598
+Assembly Political Pluralism Civil Society Space	10759,78,1315,188,7598,274
 Attributions du Comité de Politique	15102
 Authority RPPF Represented Political Parties’ Fund	5533
 Authors and Affiliations Political Science Department	17780
@@ -83,7 +83,7 @@ Chin J Int Polit	5242
 Chinese People's Political Consultative Conference Wang	15272
 Civic Politics	6947
 Civil and Political Right	16916
-Civil and Political Rights	1630,1328,625,278,892,2198,507,1624,317,261,553,552,10,66,745,21,97,61,191,245,758,81,108,533,753,308,119,13,15,118,1944,1662
+Civil and Political Rights	1630,1328,625,278,892,2198,507,1624,317,261,553,552,10,66,745,21,97,61,191,245,758,81,108,533,753,308,119,13,15,118,1944,1662,1611
 Civil and Political Rights CCPR-OP1	14742
 Civil and Political Rights CDU	14742
 Civil and Political Rights ICERD International Convention	12201
@@ -171,7 +171,7 @@ Département des Politiques Economiques	19321
 EDITOR'S CHOICE Politics Zandile Gumede	3962
 EN COURS Politiques	15542
 ENTRE O INSTITUTO POLITÉCNICO DE VISEU	17103
-EQUALITY Equal Political Power	10759,78,1052,451,7598
+EQUALITY Equal Political Power	10759,78,1052,451,7598,274
 EQUALITY Equal Political Power Equal Political	10759
 EU-Seychelles Political Dialogue	18927
 Economic Complexity PTS Political Terror Scale	10835,3,130,902,16,466,1,135,7334
@@ -185,12 +185,12 @@ Electricity Political	10976
 Elevage DPES Document de Politique Economique	18286
 Emploi Documents Documents de Politique Bilans PNR	17888
 Enhance Opportunities for Political Participation of Persons	19937
-Equal Political Power	10759,76,2,1,130,902,16,2,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
-Equal Political Power Equal Political Representation	10837,1315,188,7598
-Equal Political Representation	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Equal Political Power	10759,76,2,1,130,902,16,2,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
+Equal Political Power Equal Political Representation	10837,1315,188,7598,274
+Equal Political Representation	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 Equal Political Representation Equal Civil Liberties	19822
 Equality WOMEN'S EQUALITY Political Power	10759
-Equality Women's Equality Political Power	12152
+Equality Women's Equality Political Power	12152,8060
 Equality Women’s Equality Political Power	12340,7598
 Equality. Equal Political Power	11887
 Etat. DES PARTIS POLITIQUES ET	15405
@@ -274,6 +274,7 @@ Instituto Politécnico de Santarém	18814
 Instituto Politécnico de Viseu	17103
 Instituto Politécnico de Viseu EDITAL CONCURSO	17103
 Instituto S. Politécnico São Francisco de Assis	11552
+Instituto Superior Politécnico	20137
 Instituto Superior Politécnico Metropolitano de Angola	11632
 Instituto Superior Politécnico Tundavala	10780
 Instituto Superior Politécnico de Tecnologia	11632
@@ -468,7 +469,7 @@ Politi	13325
 Politica Nacional De Proteção Social	11547
 Politica Nacional de Competéncias Digitais	17312
 Politica de Seguranca Cibernetica	795
-Political	571,369,30,191,100,3,510,40,63,219,1461,157,413,131,172,133,262,36,364,308,470,805,130,513,197,185,53,60,20,414,192,78,293,180,192,154,66,17,41,23,26,317,103,26,58,192,387,40,3,7,4,50,12,20,115,157,3,19,1,29,8,44,73,107,108,20,311,18,7,1,23,4,7,70,199,16,5,4,4,13,106,13,30,2,79,44,258,59,73,26,88,262,81,33,37,114,78,51,616,452,106,44,17,69,255,122,136,40,140,3,2,314,459,164,105,153,5,22,11,26,2,3,16,6,11,10,15,26,3,3,1,19,102,18,103,29,484,97,146,342,100,1,295,713,53,95,23,99,11,87,12,42,42
+Political	571,369,30,191,100,3,510,40,63,219,1461,157,413,131,172,133,262,36,364,308,470,805,130,513,197,185,53,60,20,414,192,78,293,180,192,154,66,17,41,23,26,317,103,26,58,192,387,40,3,7,4,50,12,20,115,157,3,19,1,29,8,44,73,107,108,20,311,18,7,1,23,4,7,70,199,16,5,4,4,13,106,13,30,2,79,44,258,59,73,26,88,262,81,33,37,114,78,51,616,452,106,44,17,69,255,122,136,40,140,3,2,314,459,164,105,153,5,22,11,26,2,3,16,6,11,10,15,26,3,3,1,19,102,18,103,29,484,97,146,342,100,1,295,713,53,95,23,99,11,87,12,42,42,143
 Political Adviser	15879
 Political Advisor	10509
 Political Affairs	7182,270,6957,102,1732,1693
@@ -535,9 +536,9 @@ Political Party Support Kenya's Political Landscape	7869
 Political Party They Support	7869
 Political Party Total Central Rift Coast	7869
 Political Party With ECN	12350
-Political Pluralism	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Political Pluralism	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 Political Pluralism Security	10835,3,130,902,16,466,1,135,7334
-Political Power	5418,5341,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,1460,5704,1,169,14,22,1,65,14,1,48
+Political Power	5418,5341,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,1460,5704,1,169,14,22,1,65,14,1,48,225
 Political Problems Unusually High Level	16902
 Political Reckoning	4619
 Political Regimes and Inflows of Foreign Direct Investment	11310
@@ -554,7 +555,7 @@ Political Stability and Absence of Violence	14897,2099,2935
 Political Stabilization and Reform	11586
 Political Structure	14742
 Political Terror Scale	19653,183
-Political Terror Scale RSF Reporters	10759,78,1052,451
+Political Terror Scale RSF Reporters	10759,78,1052,451,7872
 Political Violence	17870
 Political Weapon	14277
 Political Will	5349,11602,309
@@ -623,7 +624,7 @@ Politicsweb	10058
 Politik-	615
 Politiki	14861,241
 Politiqu	13325
-Politique	737,448,53,61,1440,367,2467,1088,316,180,655,260,244,420,149,6,11,278,147,10,69,74,140,373,507,19,189,166,1,7,40,53,2315,74,69,9,198,302,547,1,47,146,683,102,4,16,5,48,98,4,15,15,25,14,8,4,7,7,31,129,3,32,3,29,56,84,43,1,8,18,52,95,6,176,23,33,66,8,7,40,37,101,629,13,65,301,9,5,1,3,11,16,1,1,5,3,20,81,8,105,7,15,3,15,2,5,65,57,41,10,15,6,59,4,2,1,564,5,232,9,37,31,10,75,478
+Politique	737,448,53,61,1440,367,2467,1088,316,180,655,260,244,420,149,6,11,278,147,10,69,74,140,373,507,19,189,166,1,7,40,53,2315,74,69,9,198,302,547,1,47,146,683,102,4,16,5,48,98,4,15,15,25,14,8,4,7,7,31,129,3,32,3,29,56,84,43,1,8,18,52,95,6,176,23,33,66,8,7,40,37,101,629,13,65,301,9,5,1,3,11,16,1,1,5,3,20,81,8,105,7,15,3,15,2,5,65,57,41,10,15,6,59,4,2,1,564,5,232,9,37,31,10,75,478,300
 Politique Agricole	16359,1756
 Politique Cadre de Développement	17827
 Politique Commune Genre	18100
@@ -749,6 +750,7 @@ Polity&volume	2096
 Polity. Bertuzzi	17780
 Polity. The AG	2521
 Politécnica	9099
+Politécnico	20137
 Politécnico Tundavala	10780
 Politécnicos de Malabo	4209
 President. Political	18198
@@ -768,7 +770,7 @@ Province Political Party Valid Votes Percentage	12201
 Président du Comité National de Politique	10500
 Président du Comité de Politique Monétaire	17816
 Public Administration and Political Science	6946
-Public Perception of Political Participation	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Public Perception of Political Participation	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 Public Perception of Political Participation Access	11886
 Public Perception of Political Participation FOUNDATIONS	12163,178,7312,286
 Public Perception of Political Participation RIGHTS	19822
@@ -875,7 +877,7 @@ VOTERS Political	12378
 Vision La Politique Nationale de Santé	15423
 Vouloir Exécuter Une Commande Politique Politique	4960,62,2035
 WELFARE Equal Political Representation	10835,3,130,902,16,466,1,135,7334
-WOMEN'S EQUALITY Political Power	10759,78,1052,451,7598
+WOMEN'S EQUALITY Political Power	10759,78,1052,451,7598,274
 Washington. Political	4617
 Women Political Leaders. Closing	4036
 Women's Political Participation	16951

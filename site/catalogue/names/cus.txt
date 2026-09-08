@@ -58,13 +58,14 @@ Anticipated Customers and Operators Beneficiaries	16884
 Anticipated The Customers	16884
 Area ASYCUDA Automated System for Customs Data	12951
 Assistant Commissioner of Customs	18736
+Authentication of Customary Marriages D3	20213
 Authority KYC Know Your Customer ProGres	12227
 Authority. The Customs Division	10419
 Automated Customer Engagement	7334
 Automated Customs Management System. COLEPS Online	15480
 Automated System For Customs Data	19665
 Automated System for Cus	16876
-Automated System for Customs Data	969,8976,2441,570,86,11,1072,2824,365,1619,21,885,8
+Automated System for Customs Data	969,8976,2441,570,86,11,1072,2824,365,1619,21,885,8,377
 Automated System for Customs Data ASYCUDAWorld	13042
 Automated System for Customs Data BMS	13053
 Automated System for Customs Data Sydonia World	16942
@@ -169,6 +170,7 @@ Central African Customs Administration	15976
 Central African Customs and Economic Union	1599
 Centralised Know Your Customer	14819
 Centralize Customs Services A Guide	3907
+Centralized Know Your Customer	20221
 Centre Dashboard Customer Service Goes Digital	13080
 Centro de Custo	15689
 Century Customs Service	8278
@@ -237,6 +239,7 @@ Custom Breakdown	15619
 Custom Content	12675
 Custom Duties	13185
 Custom Duties Unit Price	13185
+Custom Duty	20224
 Custom House	14736,80
 Custom IT Solutions	18873
 Custom Materials	14766,314
@@ -265,7 +268,7 @@ Customary Right of Occupancy Granted Right	19554
 Customary Right of Use Certificate	10930
 Customary Rights	17114
 Customary Tenure Convention Regulation	1988
-Customer	24,934,2529,691,670,301,77,451,2,8,182,231,840,222,229,77,321,118,106,5,585,237,206,77,1,193,214,324,1,705,232,224,114,3,4,71,22,536,90,4,94,21,86,60,86,48,41,18,39,10,136,51,1,94,305,54,31,496,34,302,93,190,288,235,49,111,33,30,68,32,26,19,88,285,78,107,113,1129,9,9,18,45,1,215,97,487,463,31,403,826,204,14,214
+Customer	24,934,2529,691,670,301,77,451,2,8,182,231,840,222,229,77,321,118,106,5,585,237,206,77,1,193,214,324,1,705,232,224,114,3,4,71,22,536,90,4,94,21,86,60,86,48,41,18,39,10,136,51,1,94,305,54,31,496,34,302,93,190,288,235,49,111,33,30,68,32,26,19,88,285,78,107,113,1129,9,9,18,45,1,215,97,487,463,31,403,826,204,14,214,282
 Customer API	14438
 Customer Acceptance Form Tabulated	9124
 Customer Acceptance Policy	13961
@@ -411,6 +414,7 @@ Customized	11191,5966
 Customizing	12359
 Customs	7,177,52,733,186,88,585,284,280,150,1878,827,243,165,4,66,1787,36,147,120,143,9,200,111,649,416,18,384,674,136,230,60,131,60,100,122,31,235,342,8,7,1,74,125,265,18,28,18,90,39,115,302,86,9,2,55,206,249,61,27,217,100,248,114,79,117,7,58,127,35,36,25,14,3,12,54,32,56,220,16,119,133,5,14,14,60,53,357,322,333,106,106,39,19,22,19,5,21,43,94,130,132,103,87,65,487,176,165,91,36,31,285,61,23,111,277,300,174,8,89,54
 Customs ASYCUDA	17367
+Customs ASYCUDA World	20225
 Customs Act	7695,3341,1593,2089,91,5,14,3,12,2265,1342,16,75
 Customs Act. Amiwero	9361
 Customs Administration	5619,9859
@@ -468,10 +472,10 @@ Customs Department Article	15492
 Customs Department the Customs Department Allocated	10870
 Customs Director General Edwin Fongod Nuvaga	5659
 Customs Division	587,6349,84,4269,1753,521,2607,2918
-Customs Duties	2117,10594,2930
+Customs Duties	2117,10594,2930,4583
 Customs Duties and Related Charges Customs	17011
 Customs Duties and Related Charges No. Customs	17011
-Customs Duty	14828,3,2051,117,259
+Customs Duty	14828,3,2051,117,259,2966
 Customs East African Community Headquarters	19703
 Customs Electronic Single Window	14145,4343,89
 Customs Enforcement Activities Photo Credit	13053
@@ -479,6 +483,7 @@ Customs Enforcement Network	19250
 Customs Environment Scan	13051
 Customs Exemptions	11939
 Customs Exit Officers and Port Gate Officers	17367
+Customs FAQs	20224
 Customs Guards	15478
 Customs Guichet Unique Electronique	13314
 Customs HQ	13042
@@ -539,6 +544,7 @@ Customs Seaport Celebrates Three Newly	17064
 Customs Service	8499,3352
 Customs Service Act	18608
 Customs Services	10785
+Customs Services Department	20224
 Customs Services Division	13403
 Customs Services URL	18954
 Customs Single Window	18577
@@ -566,11 +572,13 @@ Customs and Economic Union of Central Africa	10841
 Customs and Excise	5247,7397,409,55
 Customs and Excise Act	11181,9,73,2087,53,46,47,110,3362,1498
 Customs and Excise Act Chapter	13346
+Customs and Excise Bill	20224
 Customs and Excise Bills	7695
 Customs and Excise Cases	13053
 Customs and Excise Department	13108
 Customs and Excise Directorate	15478
 Customs and Excise Junior Officer	11289
+Customs and Excise Regulations	20224
 Customs and Excise Revenue	12951
 Customs and Excise Tax	13122
 Customs and Excise. Completed	13053
@@ -645,6 +653,7 @@ Digital Asset Exchanges and Digital Asset Custodians	12882
 Digital Customs Administration	19839
 Digital Customs Administration Using ASYCUDAWorld Equitable	19839
 Digital Customs Solution	13042
+Digital Economy Taxation and Customs Duties	20224
 Digital-REACH-Initiative-Roadmap 20171205 custom size 0.pdf	14434
 Direct Customer Communications	8999
 Director General of Cameroon Customs	8499
@@ -684,9 +693,11 @@ EAC Customs Union Protocol	13357,6245
 EAC Customs Union and Single Customs Territory	19703
 EAC Deputy Secretary General for Customs	6096,746,12861
 EAC Trade and Customs	7548
+ECOWAS Customs Code	20224
 ECOWAS Customs Union	7452
 EDSA’s Customer Service Improvement Plan	18537
 EDT U.S. Immigration and Customs Enforcement	9747,54,3,23
+EMS Customer Care	20182
 ERS Commissioner of Customs	13051
 ERS Customs Bank Account	13195
 ESTRUTURA DE CUSTOS DA EMPRESA	10757
@@ -694,6 +705,7 @@ EU Union Customs Code	15478
 EXISTING CUSTOMERS UNDERTAKING A TRANSACTION	17537
 East Africa Community Customs Management Act	14454
 East Africa's Single Customs Territory. Côte	4149
+East Africa. Customers	20171
 East African Community Customs Management	19602,111
 East African Community Customs Management Act	19527,75,63,48
 East African Customs Union	14409
@@ -1026,6 +1038,7 @@ Simplified Customs Declaration Management and Recovery	17011
 Simplified Customs Declarations	15478
 Single Customer Credit Transfer	12364
 Single Customs Territory	12326,2265,5051
+Single Window Customs Clearance	20224
 Sistema Centralizado de Custódia	17032
 Sistemas de Contabilização de Custos	11430
 Sites and Customers	8999
@@ -1080,6 +1093,7 @@ Trade CARICOM Caribbean Community CARSC Customs	13042
 Trade Facilitation The CEMAC Customs Code	16972
 Trade Tools International Standards for Customs	13051
 Trade and Development Automated Customs System	17870
+Trade and Development Automated System for Customs Data	20224
 Transforming Customer Experience and Service Quality Product	14151
 Turkmenistan From Customs Modernization	16631
 UNCTAD. The Customs Electronic Single Window	18500

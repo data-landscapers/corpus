@@ -60,7 +60,7 @@ Dalagatan	427
 Dalal Street	12576
 Dalali Traders Auctioneers Data Controller INST-237497AD619	7167
 Dalali Traders Auctioneers Data Processor INST-237497AD619	7167
-Dalasi	17104,1,83,5,23,12,88,1,104
+Dalasi	17104,1,83,5,23,12,88,1,104,2800,4
 Dalasis	16883,1,1,343
 Dalberg	5700,6628,767
 Dalberg Advisors	5367,6961
@@ -109,10 +109,10 @@ D’ABENGOUROU ET DE DALOA Botro	2342
 EADN DALI Mustapha Ministère	15472
 FOSSES D'AISANCES AVEC DALLE	13300
 FOSSES D'AISANCES SANS DALLE	13300
-Five Hundred Dalasis	17437
+Five Hundred Dalasis	17437,2776
 Five Million Dalasis	16842
 Forestry and Fisheries DALRRD Department of Agriculture	11261
-Gambian Dalasi	16896,26,44,262
+Gambian Dalasi	16896,26,44,262,2995
 Gambian Dalasi GMD	16952
 Gambian Dalasi GRM Grievance Redress Mechanism	16952
 Gambian Dalasi HDI	16951

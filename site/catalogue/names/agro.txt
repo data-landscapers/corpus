@@ -51,7 +51,7 @@ Agro-ecological Zone and Carrying	12912
 Agro-ecological Zones	520
 Agro-ecological Zones and Carrying Capacity	12912
 Agro-food	18458
-Agro-industrialisation	19778
+Agro-industrialisation	19778,291
 Agro-industrie	10643,2906,1993,2471
 Agro-industrie Achat Logistique Transport Total INSG	15674
 Agro-industrie Média ANADER RTI CIDT IDT	2342
@@ -61,6 +61,7 @@ Agro-pastoral and Fisheries Import-Substitution Plan	10980
 Agro-processamento EUinMoz2026	6743
 Agro-processing	15205
 Agro-processing AETR	15205
+Agro-processing Key Economic Sectors Trade	20228
 Agro-silvicultura	18760
 Agro-silvo-pastoril	15380
 AgroMet and Rainfall Stations	16947

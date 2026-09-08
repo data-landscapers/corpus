@@ -233,6 +233,7 @@ Buganda Kingdom	19750
 Bugesera Kirehe Nyanza Nyamasheke Nyamagabe Legend	15056
 Bugesera Ruhango Ngoma Kayonza Rubavu Kicukiro	15056
 Bugisu Kingdom	19758
+Bugwe Kingdom	20158
 Bunyoro Kitara Kingdom	19743
 Bureau des Douanes de Kidira	18344
 Bureau of Statistics ERI Kipevu Oil Storage	12256
@@ -498,6 +499,7 @@ Deployment of One Kit	13538
 Deputy Minister Doing the Kick-off Mr	18576
 Deputy President Kithure Kindiki	6588
 Deputy President Prof Kithure Kindiki	14273
+Deputy President Prof. Kithure Kindiki	20077
 Derrick K. Kizito	19814
 Derrick Kizito Kunyiga and Daniel Muyambi	19814
 Development of ID Verification Kit	12241,839,15
@@ -551,6 +553,7 @@ Dr. Mussa M. Kissaka BOARD CHAIRPERSON	19533,42,1
 Dr. Mussa M. Kissaka Board	19575
 Dr. Samba Ndiaye and Kix Seeds Study	15960
 Dr. Samuel Kifle	14084
+Dr. Tausi Kida. Kewe	20156
 Dr. Zarau Wendeline Kibwe	11134
 Drug Destruction Le8 Per Kilo	18541
 Dubai and Kinshasa	15301
@@ -600,6 +603,7 @@ Eng. Leul Kidane	7572
 Engineering and Health Dr. Jane Kimathi	14555
 English Kiswahili Reset All Settings Inflation	19614
 English and French. Kiswahili	12413
+English and Kinyarwanda	20100
 English and Kiswahili	899,11252,7391,71
 English and Kiswahili TT Ministry	12138
 Engr. Kaustella Kialain Sarsih Contributor	17260
@@ -895,6 +899,7 @@ Jakaya Kikwete Road	19608
 James Kimaro	5385
 Jane Kinyanjui	12104
 Jane Kiptoo	10330
+Janeth-Kareen Kilonzo	20085
 Janine King	8161
 Japan Jersey Jordan Kazakhstan Kenya Kiribati	11470,7872
 Japheth Kimeu	15129
@@ -1038,7 +1043,7 @@ KIFFOSSO	17828
 KIFO AU KUTOKUWEPO KWA WAGOMBEA	19535
 KIFO AU KUTOKUWEPO KWA WAGOMBEA Kujitoa	19535
 KIFOUANI	16100
-KIGALI	6526,971,69,426,486,704,5685,6,169,3588
+KIGALI	6526,971,69,426,486,704,5685,6,169,3588,1502
 KIGALI CHANNELS BPR EXTENDED NETWORK	11002
 KIGALI PHONE	15149
 KIGALI Rwanda President Paul Kagame	11114
@@ -1173,12 +1178,14 @@ KIX-supported	11598
 KIX21	13629
 KIXP and LINX Nairobi	6892
 KIYANGI MATANGILA	6613
+KM Kilometer	20223
 KM Kilometres MBPS Megabits	12973
 KOICA Country Director Kim Eunsub	8796
 KOICA Country Director Mr Kim Eunsub	8121
 KPA Kenya Ports Authority KOT Kipevu	2775
 KUGONGANA NA KIBERENGE NA KUSABABISHA VIFO	19517
 KV de Kinsuka	15670
+KWh Kilo Watt Hour	20223
 KWh Kilo Watt Hour KWS Kenya	2775
 KYC KIFC	14997
 KZN King Cetshwayo Queen Nandi Regional	11986
@@ -1330,7 +1337,7 @@ Kibwezi West's Mwengi Mutuse	9545
 Kicha	11596
 Kicha DI. Implementing	11596
 Kicheko	3086
-Kick-off	12043,4328
+Kick-off	12043,4328,3850
 Kick-off Workshop	18330,175
 Kick-off for GCF-CREWS Scaling Up Project Proposal	17065
 Kick-off for GCF-SAP CREWS Scaling Up Project	17065
@@ -1445,7 +1452,7 @@ Kifungo Kuachiwa Nolle Zinazoendelea	19517
 Kifungu	8615,10902,48,25
 Kifuru Box	19585
 Kifurukwe	19581
-Kigali	718,52,21,21,125,277,350,162,177,189,208,378,4,4,1,15,137,358,201,17,104,154,494,396,20,198,160,1,16,1,7,3,80,21,217,66,31,15,19,51,127,5,236,113,91,148,23,19,36,76,67,116,38,475,63,90,145,69,136,24,30,168,93,64,117,52,21,2,93,121,16,104,2,79,146,79,2,82,158,51,136,24,396,158,35,97,1,180,5,75,91,28,40,68,175,56,41,6,11,132,18,156,165,9,178,173,322,46,214,218,28,1,4,25,11,10,7,17,10,4,10,11,7,15,1,22,799,32,104,150,535,35,144,106,165,69,240,1,6,4,20,42,7,8,17,3,20,7,15,7,8,11,18,23,1,1,27,20,30,38,3,9,1,1,11,26,8,38,299,49,219,298,37,186,164,243,77,678,17,3,35,363,524,145,59,108,557,188,91,70
+Kigali	718,52,21,21,125,277,350,162,177,189,208,378,4,4,1,15,137,358,201,17,104,154,494,396,20,198,160,1,16,1,7,3,80,21,217,66,31,15,19,51,127,5,236,113,91,148,23,19,36,76,67,116,38,475,63,90,145,69,136,24,30,168,93,64,117,52,21,2,93,121,16,104,2,79,146,79,2,82,158,51,136,24,396,158,35,97,1,180,5,75,91,28,40,68,175,56,41,6,11,132,18,156,165,9,178,173,322,46,214,218,28,1,4,25,11,10,7,17,10,4,10,11,7,15,1,22,799,32,104,150,535,35,144,106,165,69,240,1,6,4,20,42,7,8,17,3,20,7,15,7,8,11,18,23,1,1,27,20,30,38,3,9,1,1,11,26,8,38,299,49,219,298,37,186,164,243,77,678,17,3,35,363,524,145,59,108,557,188,91,70,426,3
 Kigali Action Plan	10764
 Kigali Africa AI Declaration Apr-2025	6041
 Kigali Africa Declaration	6937
@@ -1661,7 +1668,7 @@ Kikwit II	16420
 Kila Kilomita	19517
 Kilabili	19592
 Kilakala	19585
-Kilamba	438,5542,4771,14,7,3,671
+Kilamba	438,5542,4771,14,7,3,671,8640
 Kilamba Kiaxi	4040,4,1106,5625,13,604,54
 Kilamba Kiaxi Municipal Administration	10765,10
 Kilambo	19592
@@ -1932,7 +1939,7 @@ Kinfe	12255
 King Abdulaziz International Conference Centre	14974
 King Abdullah II Fund Renew Partnership	5322
 King Air	16528
-King Air Industria	6486,857,930,642,5758
+King Air Industria	6486,857,930,642,5758,5389
 King Cetshwayo	11252
 King Cetshwayo District Municipality	11343
 King Code	12646
@@ -1972,7 +1979,7 @@ King-Sackie Atty. Decontee T. King-Sackie	17011
 KingDafie	12478
 KingHost	10558
 Kinga	19552,38,8
-Kingdom	25,1546,243,2,69,107,300,5,996,78,30,479,186,47,821,674,166,25,740,74,52,189,599,234,199,344,15,1060,221,20,1218,59,23,18,267,3,500,83,475,86,117,49,36,1,20,151,11,234,25,8,26,15,1,4,23,102,22,30,8,9,1,42,10,3,132,1187,352,136,1547,51,810,17,1,13,141,130,337,561
+Kingdom	25,1546,243,2,69,107,300,5,996,78,30,479,186,47,821,674,166,25,740,74,52,189,599,234,199,344,15,1060,221,20,1218,59,23,18,267,3,500,83,475,86,117,49,36,1,20,151,11,234,25,8,26,15,1,4,23,102,22,30,8,9,1,42,10,3,132,1187,352,136,1547,51,810,17,1,13,141,130,337,561,1533
 Kingdom AI Sector Deal Department for Business	11135
 Kingdom Eastern Europe East Asia Moldova	11135
 Kingdom European	17212
@@ -2106,7 +2113,7 @@ Kinondoni Shamba	19517,75
 Kinross	17893,97
 Kinsaka	16177
 Kinsella EA	9739
-Kinshasa	1771,68,6,12,1,23,363,106,39,26,150,133,88,3,97,65,118,35,6,185,6,175,258,73,11,32,38,55,112,37,409,168,26,131,67,140,84,41,257,10,88,91,6,57,27,16,125,1,52,250,100,200,143,16,50,14,92,11,44,408,141,113,213,1,99,30,79,290,6,133,24,99,1,78,120,109,149,1,114,43,122,11,101,1,1,1,1,280,46,98,35,2,64,102,150,23,259,44,1,35,38,1,31,119,31,209,564,3,47,277,112,14,1,17,6,5,1,2,2,2,5,11,26,12,2,8,12,9,3,25,4,1,7,9,1258,801,60,1,30,120,182,162,630,57,19,9,1,31,42,3,35,20,14,24,2,5,11,15,12,74,69,2,25,17,16,49,3,52,10,3,15,26,13,3,28,35,21,43,50,14,13,21,12,13,14,74,1,20,3,21,14,11,12,11,10,6,2,4,1,4,7,3,8,1,50,1,24,6,17,9,3,6,1,3,8,4,24,405,578,48,1,59,316
+Kinshasa	1771,68,6,12,1,23,363,106,39,26,150,133,88,3,97,65,118,35,6,185,6,175,258,73,11,32,38,55,112,37,409,168,26,131,67,140,84,41,257,10,88,91,6,57,27,16,125,1,52,250,100,200,143,16,50,14,92,11,44,408,141,113,213,1,99,30,79,290,6,133,24,99,1,78,120,109,149,1,114,43,122,11,101,1,1,1,1,280,46,98,35,2,64,102,150,23,259,44,1,35,38,1,31,119,31,209,564,3,47,277,112,14,1,17,6,5,1,2,2,2,5,11,26,12,2,8,12,9,3,25,4,1,7,9,1258,801,60,1,30,120,182,162,630,57,19,9,1,31,42,3,35,20,14,24,2,5,11,15,12,74,69,2,25,17,16,49,3,52,10,3,15,26,13,3,28,35,21,43,50,14,13,21,12,13,14,74,1,20,3,21,14,11,12,11,10,6,2,4,1,4,7,3,8,1,50,1,24,6,17,9,3,6,1,3,8,4,24,405,578,48,1,59,316,2080,51
 Kinshasa Achieves ISO and PCI DSS Certifications	2350
 Kinshasa City Expansion Project	17637,2
 Kinshasa DOI	15487
@@ -2143,7 +2150,7 @@ Kinshasa. Elle	16370
 Kinshasa. En	15670
 Kinshasa. Figure	14666
 Kinshasa. Geographic	12003
-Kinshasa. Il	6016,9654,756
+Kinshasa. Il	6016,9654,756,3667
 Kinshasa. L'événement	3807
 Kinshasa. Le Conseil	16001
 Kinshasa. Moderniser	16335
@@ -2806,6 +2813,7 @@ Mrs. N D Kinnoo	14736
 Mrs. Nulini Devi Kinnoo	14736
 Ms Buyu. Dr Kipsang	2742
 Ms Kellen Kiconco Mugyende	8285
+Ms Kilonzo	20085
 Ms Kimathi	4513
 Ms Kingdom	19603
 Ms Salome Kingdom	19603
@@ -2871,6 +2879,7 @@ Nidaamka Canshuurta Dakhliga Kirada	9583
 Nioro Kita Dioïla Nara Bougouni Koutiala	18014
 Nje Kiasi	19565
 Nominations Warren King	16158
+Norad and GPE KIX	20215
 Norah Kimathi	7435
 Norah Kipruto	17781
 Norah Kipwola	12195
@@ -2884,6 +2893,7 @@ North Kivu. Isolated	11900
 North Ubangi and South Kivu Provinces	11900
 North and South Kivu	11900,18,4072
 Now KICTANet	11086
+Noëmie Kilembe	20093
 Ntongwe Bugesera District Gashora Kirehe District	12413
 Number of Spectrum Licences Issued KINGDOM	12395
 Numious Kiti	7990
@@ -3354,7 +3364,7 @@ Under the KIX	19657
 Under the Kigali Agreement	15860
 United International Kingdom	19900
 United International Kingdom Virtual University	19900
-United Kingdom	10,563,216,181,68,205,311,260,735,77,149,149,24,404,161,70,864,525,63,74,93,45,32,23,185,124,5,59,197,136,161,347,274,59,97,51,102,99,253,97,71,197,29,8,412,175,131,218,278,29,25,106,122,9,101,44,142,53,8,126,124,132,67,63,52,317,102,25,4,67,56,5,103,182,3,1,19,15,5,5,13,107,273,37,259,54,18,85,126,57,168,442,104,118,68,14,210,102,146,29,76,62,67,752,107,48,21,8,3,21,5,14,26,26,51,1,100,95,280,99,35,114,385,431,192,148,82,9,7,231,107,23,132,378,35,28,62,36,79,140,490,62,227,698,20,40,70,208,69
+United Kingdom	10,563,216,181,68,205,311,260,735,77,149,149,24,404,161,70,864,525,63,74,93,45,32,23,185,124,5,59,197,136,161,347,274,59,97,51,102,99,253,97,71,197,29,8,412,175,131,218,278,29,25,106,122,9,101,44,142,53,8,126,124,132,67,63,52,317,102,25,4,67,56,5,103,182,3,1,19,15,5,5,13,107,273,37,259,54,18,85,126,57,168,442,104,118,68,14,210,102,146,29,76,62,67,752,107,48,21,8,3,21,5,14,26,26,51,1,100,95,280,99,35,114,385,431,192,148,82,9,7,231,107,23,132,378,35,28,62,36,79,140,490,62,227,698,20,40,70,208,69,173
 United Kingdom Centers for Disease Control and Prevention	16860
 United Kingdom Corresponding Author	12025
 United Kingdom EUR HI	17743
@@ -3425,7 +3435,7 @@ Université Denis-Sassou-N’Guesso de Kintelé. Deux	1299
 Université Joseph Ki Zerbo UNB	15720
 Université Joseph Ki-Zerbo	10642,239,4631
 Université de Kindia	19997
-Université de Kinshasa	15682,711,213
+Université de Kinshasa	15682,711,213,3538
 Université de Kinshasa URL	15682
 Université de Kinshasa. Ceci	15682
 Université de Kinshasa. Composé	5888
@@ -3436,6 +3446,7 @@ V Kigoma	13433
 V Kigoma-Rwabusoro	12358
 V Kilo Volt LFO Light Fuel	10975
 V Kilo Volts KVA Kilovolt-Amperes KW	2775
+V Kilo-volt	20223
 V Kinsuka	15670
 V de Kinsuka	15670
 V de Kinsuka Rapport Annuel	15670

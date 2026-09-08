@@ -113,7 +113,7 @@ Air Navigation Service Provider	14167
 Air News	19651
 Air Pollution	1988
 Air Pollution Management	1988
-Air Quality	8891,1868,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,986,6178,1,169,14,22,1,65,14,1,48
+Air Quality	8891,1868,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,986,6178,1,169,14,22,1,65,14,1,48,225
 Air Quality Act	11228
 Air Quality Index IRI	18309
 Air Quality Management Centre CLIMDEV	18309
@@ -229,7 +229,7 @@ Airports of Mauritius	10045
 Airports of Mauritius Co Ltd	14830
 Airspace	16552,454
 Airstrip	14742
-Airtel	236,167,321,175,99,5,701,1,107,209,112,1,157,106,39,36,42,44,70,90,79,71,145,9,6,260,42,19,128,28,21,28,12,92,30,174,113,80,95,39,245,8,116,23,76,30,66,62,81,60,77,36,131,9,132,2,411,39,9,72,34,111,32,32,45,104,14,1,103,243,121,49,1,5,22,18,7,18,17,6,20,15,43,11,50,27,268,121,113,35,32,106,195,49,83,20,4,78,225,4,179,192,1,25,118,1,57,87,125,8,396,18,60,64,51,18,67,76,26,72,2,33,52,15,58,6,4,45,16,50,79,231,144,65,25,500,535,61,42,34,80,140,48,29,44,41,51,7,531,13,2,407,31,755,17,18,42,27,82,13,19,116,42,125,33,262,167,198,77,36,46,20,23,17,10,484,48,156,358,333,525,262,466,692,32,3,1,10,24,40,6,196,34,284,122,59,30,56
+Airtel	236,167,321,175,99,5,701,1,107,209,112,1,157,106,39,36,42,44,70,90,79,71,145,9,6,260,42,19,128,28,21,28,12,92,30,174,113,80,95,39,245,8,116,23,76,30,66,62,81,60,77,36,131,9,132,2,411,39,9,72,34,111,32,32,45,104,14,1,103,243,121,49,1,5,22,18,7,18,17,6,20,15,43,11,50,27,268,121,113,35,32,106,195,49,83,20,4,78,225,4,179,192,1,25,118,1,57,87,125,8,396,18,60,64,51,18,67,76,26,72,2,33,52,15,58,6,4,45,16,50,79,231,144,65,25,500,535,61,42,34,80,140,48,29,44,41,51,7,531,13,2,407,31,755,17,18,42,27,82,13,19,116,42,125,33,262,167,198,77,36,46,20,23,17,10,484,48,156,358,333,525,262,466,692,32,3,1,10,24,40,6,196,34,284,122,59,30,56,330
 Airtel AI Spam Alert Service. Airtel	2558
 Airtel Africa	701,23,62,105,628,502,112,196,143,86,239,214,354,85,116,122,71,108,76,499,55,84,315,110,1133,107,1,19,23,50,11,117,202,39,143,81,163,196,354,18,279,107,82,596,144,1126,35,52,128,16,261,831,3039,13,135,167,2135,923
 Airtel Africa CEO	5802
@@ -287,6 +287,7 @@ Airtel Gabon Gabon Telecom Mobile	15707
 Airtel Gabon Gabon Telecom Mobile Sur	15707
 Airtel Gabon and Gabon Telecom	15411
 Airtel Gabon's Marketing Director. First	15563
+Airtel Ghana	20072
 Airtel Group	4657
 Airtel House	7023
 Airtel India and Airtel Africa	4896
@@ -334,7 +335,7 @@ Airtel Mobile Money Rwanda	921
 Airtel Mobile Money Tanzania	2226
 Airtel Mobile Money Uganda	922
 Airtel Mobile Money Zambia	923
-Airtel Money	914,1,1,1,1,1,1,1,1,1,782,154,577,575,24,586,322,858,250,423,441,894,137,440,1,1,36,167,72,279,66,41,133,41,312,88,104,1,25,89,30,328,345,193,21,140,313,629,1109,10,34,80,1203,200,882,118,70,130,292,1640,2459,4,906
+Airtel Money	914,1,1,1,1,1,1,1,1,1,782,154,577,575,24,586,322,858,250,423,441,894,137,440,1,1,36,167,72,279,66,41,133,41,312,88,104,1,25,89,30,328,345,193,21,140,313,629,1109,10,34,80,1203,200,882,118,70,130,292,1640,2459,4,906,136,3
 Airtel Money Africa	7387
 Airtel Money Business Wallet	8728
 Airtel Money Commerce Uganda Limited	9899
@@ -358,6 +359,7 @@ Airtel Money and PayPal	15447
 Airtel Money and Safaricom M-Pesa	6409
 Airtel Money and T-Kash	4801
 Airtel Money and TNM Mpamba	2728,11946
+Airtel Money and Zamtel Money. Mobile-money	20133
 Airtel Money's Mbanking	7386
 Airtel Money. Annual IPO	8049
 Airtel Money. Instead	8535
@@ -667,6 +669,7 @@ KMIII Airport	12922
 Kamuzu International Airport	13060,62
 Kasane International Airport	12634
 Kenneth Kaunda International Airport	5247,7129
+Kenneth Kaunda International Airport. Kangwa	20120
 Kenya Airports Authority	14546
 Kenya Airports Authority. Elle	7530
 Kenya Airways	562,10236,4744
@@ -678,10 +681,10 @@ Kigali International Airport	5469,9669
 Kilimanjaro Airports Development Company Level	19584
 Kilimanjaro Airports Development Company Limited	19584
 King Air	16528
-King Air Industria	6486,857,930,642,5758
+King Air Industria	6486,857,930,642,5758,5389
 King Shaka International Airport and Lanseria International	9895
 Kisumu and Mombasa International Airport	12256
-Kotoka International Airport	19950
+Kotoka International Airport	19950,232
 Kuala Lumpur International Airport Terminals	4275
 LEGISLATIVE ANDd SYATUTO AIRS CARD	15485
 Leveraging the Full Potential of Single African Air	5825
@@ -913,7 +916,7 @@ Technologies Operators Airtel Networks Kenya Limited	6946
 Technology KAPU Kenya Airport Police Unit	2775
 Technology Type Airtel Africa	4442
 Telcos Airtel	236
-Telecel and AirtelTigo	15805
+Telecel and AirtelTigo	15805,4377
 Telecom Airtel Africa’s CEO	5802
 Telkom and Airtel	10822,3475
 Terminals Airport Management	17006
@@ -962,7 +965,7 @@ Zain Bharti Airtel	15372
 Zambia Air Force	13472,695
 Zambia Airport Corporation Limited	12376
 Zambia Airport Corporation Limited. Available	12376
-Zambia Airports Corporation Limited	5247,12538
+Zambia Airports Corporation Limited	5247,12538,2335
 Zambia Airports Corporations Limited	5247
 Zambia Airtel Zambia	1195
 Zambia. Airtel Africa	891

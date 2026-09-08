@@ -135,10 +135,11 @@ Minerals and Mining	16511
 Minerals and Mining Act	16511,597
 Minerals and Mining Law	17257,147
 Minerals and Mining Policy	16511
+Mines and Mining Development Permanent Secretary	20054
 MiniTPT MiniTPT Radiodiffusion Mininfo Mininfo	13290
 Mininfo ARCT ARCT ARCT ARCT Proposition	13290
 Mininfo De Août	13290
-Mining	697,857,1221,114,742,496,717,403,764,354,581,50,577,178,2,697,124,1814,453,104,61,143,3,63,81,228,57,300,325,150,80,9,67,400,50,17,74,2,5,62,173,90,89,58,29,338,73,419,185,18,242,4,51,94,100,1181,19,226,389,96,15,128,1,95,22,107,1103,16,99,937,7,6,25,28,17,364,36
+Mining	697,857,1221,114,742,496,717,403,764,354,581,50,577,178,2,697,124,1814,453,104,61,143,3,63,81,228,57,300,325,150,80,9,67,400,50,17,74,2,5,62,173,90,89,58,29,338,73,419,185,18,242,4,51,94,100,1181,19,226,389,96,15,128,1,95,22,107,1103,16,99,937,7,6,25,28,17,364,36,131
 Mining AI	4528,7984
 Mining Act	19524,61
 Mining CEOs	7751
@@ -178,6 +179,8 @@ Mining Operations Transformation	7751
 Mining Operations Transformation PwC South Africa	7751
 Mining Otherland Legend Color REDD	17140
 Mining Output	17235
+Mining Promotion Corporation	20054
+Mining Promotion Corporation and India	20054
 Mining Qualifications Authority NDFSS	6832
 Mining Revenue and Inclusive Development	1828
 Mining Royalties	14985
@@ -199,6 +202,7 @@ Mining and Manufacturing	4528,8501,31,62
 Mining and Manufacturing Utilities	12445
 Mining and Manufacturing. The Plan	13122
 Mining and Metallurgy Regions of EU	11007
+Mining and Mineral Resources	20054
 Mining and Minerals Act	19646
 Mining and Minerals Development Act	13654
 Mining and Minerals Regulatory Authority	12987,73,62
@@ -225,7 +229,7 @@ Minister of Mining Martin Abucha	18658
 Minister of Mining and Industry Thiam Tidjani	17909
 Ministry of Energy and Mining	13122,190,2
 Ministry of Hydrocarbons and Mining Development	16996
-Ministry of Mines and Mining Development	1554
+Ministry of Mines and Mining Development	1554,18500
 Ministry of Mining	15085
 Ministry of Mining Development and Hydrocarbons	16996
 Ministry of Petroleum and Mining Market Report	3583

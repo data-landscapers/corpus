@@ -116,7 +116,7 @@ Director Social Welfare	13332
 Director of Social Welfare	13332,3555
 Director of Social Welfare. See Figure A1	13332
 Directorate of Child Welfare Services	12327
-Directorate of Social Welfare	16887,64
+Directorate of Social Welfare	16887,64,3282
 Disability and Social Welfare	12175
 Disability and Social Welfare Mary Navicha	8575
 District Social Welfare Office	12978,354
@@ -422,7 +422,7 @@ Small Farmers Welfare Fund	14818
 Small Farmers Welfare Fund Act	7845,6983,3
 Social Alliances Gender Eradication of Recovery Well-being	970
 Social Cash Transfers and Household Welfare	13332
-Social Welfare	3583,718,1,1555,6325,185,16,29,544,8,13,1,62,483,116,3219,9,20,169,13,1542,5,9,1,12
+Social Welfare	3583,718,1,1555,6325,185,16,29,544,8,13,1,62,483,116,3219,9,20,169,13,1542,5,9,1,12,1583
 Social Welfare Act	18888
 Social Welfare Agency	18888
 Social Welfare Agency Act	18888
@@ -507,13 +507,13 @@ WELE-NZAS NTEM BIOKO SUR BIOKO NORTE	4209
 WELE-NZAS NTEM CENTRO SUR BIOKO SUR	4209
 WELE-NZAS NTEM DJIBLOHO	4209
 WELESSI Adji Agnassire ADJ	19251
-WELFARE	10759,76,2,1,130,902,16,2,1,263,1,10,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+WELFARE	10759,76,2,1,130,902,16,2,1,263,1,10,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 WELFARE AND DECENT WORK	18624
 WELFARE Equal Political Representation	10835,3,130,902,16,466,1,135,7334
 WELFARE OF THE CHILD URL	14150
 WELFARE PARTICIPATION Rank	19822
-WELFARE Rank	10759,76,2,1,130,902,16,454,12,1,135,7450
-WELFARE Social Safety Nets	10759,78,1052,451,7598
+WELFARE Rank	10759,76,2,1,130,902,16,454,12,1,135,7450,274
+WELFARE Social Safety Nets	10759,78,1052,451,7598,274
 WELL AS THE PROMOTION	1885
 WELL DONE	12378
 WELL MANAGED	11854
@@ -548,7 +548,7 @@ WelcomeOnShare	6935
 WelcomePage	10848
 Welcomes	5825,13139
 Welcomes the AU Continental Artificial Intelligence Strategy	5825
-Welcoming	6963,599,97,331,143,478,1816,82,227,2381,922,312,4234
+Welcoming	6963,599,97,331,143,478,1816,82,227,2381,922,312,4234,1483
 Welcoming Equatorial Guinea	16942
 Welcoming President Chapo	12803
 Welcoming Resolution	17017
@@ -565,7 +565,7 @@ Wele-Nzas	16864,105
 Wele-Nzas Akonibe	16942
 Wele-Nzasl	16864
 Wele-Nzás	16969
-Welfare	21,2075,5665,2,203,1383,1410,76,2,1,130,902,16,1,1,1,51,212,1,1,9,177,1,11,1,20,58,57,2359,2001,19,708,929,18,89,626,415,1,169,14,22,1,65,14,1,48
+Welfare	21,2075,5665,2,203,1383,1410,76,2,1,130,902,16,1,1,1,51,212,1,1,9,177,1,11,1,20,58,57,2359,2001,19,708,929,18,89,626,415,1,169,14,22,1,65,14,1,48,225
 Welfare Act	12939
 Welfare Analysis of Tax Audits Across	18318
 Welfare Committee	14761

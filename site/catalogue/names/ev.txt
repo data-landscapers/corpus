@@ -38,6 +38,7 @@ ANALYSE COMPARATIVE ET EVALUATION ECONOMIQUE BUDGETAIRE	16328
 ANNEX VI CRITERIA FOR EVALUATION	16843
 ANNUAL REGULATORY FEES EveryLicenseeunder	17250
 ANÁLISE DA EVOLUÇÃO DE NÚMEROS	18791
+API for Identity Authentication. Vital Events	20221
 API. Every	6603
 ARCSS Joint Monitoring and Evaluation Commission	18716
 ASAAMLG Mutual Evaluation Report	11131
@@ -74,6 +75,7 @@ Advancing Evidence for Smarter Policy Launched	11332
 Advancing Legal Identity for Every Child	12250
 Adverse Events	8831
 Adverse Events Following Immunization	14037,2934
+Afr Eval J	20219
 Africa Business Immersion Event	11332
 Africa CDC. Even	5213
 Africa's Every Day Earners	7618,1
@@ -367,6 +369,7 @@ Diego Garrido Martin Monitoring and Evaluation Specialist	18887
 Digital Accessibility Rights Evaluation Index	11935
 Digital Accessibility Rights Evaluation Index Key	11935
 Digital Advocates Training and Events	12241,839
+Digital Case Management System for Evidence-Based Reporting	20222
 Digital Dignity Principle Every Mozambican	3861
 Digital Economy SIEM Security Information and Event	6432
 Digital ID Solution Evaluation	1582
@@ -760,7 +763,7 @@ Evaluation Framework for Digital Identity	4176
 Evaluation Framework. Miscellaneous	12139
 Evaluation GIAMA Government Immovable Asset Management	11986
 Evaluation Gestion	15685
-Evaluation ILO International Labour Organization IMF	10759,78,1052,451,7598
+Evaluation ILO International Labour Organization IMF	10759,78,1052,451,7598,274
 Evaluation Identification	961
 Evaluation Identified	16884
 Evaluation Indicator Name Baseline Actual	11971
@@ -910,7 +913,7 @@ Evaluation.pdf A BLUEPRINT FOR CREATING	11133
 Evaluation.pdf Revolutionary Government of Zanzibar	11133
 EvaluationMetricsComputation Require	8606
 Evaluationofreal-	8606
-Evaluations	1131,7245,1812,3144,1806,520,187,3,88,1007,214,825,122,849,872
+Evaluations	1131,7245,1812,3144,1806,520,187,3,88,1007,214,825,122,849,872,396
 Evaluations Planification	17982
 Evaluations Scale Pilot	12356
 Evaluations and Lessons Learned	13989
@@ -1011,6 +1014,7 @@ Even NIMC	5321
 Even Nigerians	11469
 Even OpenAI	13461
 Even Orange Bank	4150
+Even SAPS	20205
 Even Washington	14159
 Even Western	5682
 Even Zambia	17745
@@ -1033,7 +1037,7 @@ Event Cause Impact	12241,839
 Event Data	15715
 Event Data AVI Indice	15715
 Event Data Project	11887,266,1,9,178,7312,183,22,1
-Event Data Project AfDB African Development	10759,78,1052,451,7598
+Event Data Project AfDB African Development	10759,78,1052,451,7598,274
 Event Data Project UNCTAD United Nations	10835,3,130,902,16,466,1,135,7334
 Event Data and Evidences	15054
 Event Date	12618
@@ -1104,7 +1108,7 @@ Events and Tourism Scheme	9250
 Events of Acceleration	16219
 Events. Meta	13461
 Eventuais	10757,673,7325
-Eventually	1037,1786,66,2144,451,1498,1483,85,237,1849,555,701,133,32,2840,1027,929,1017
+Eventually	1037,1786,66,2144,451,1498,1483,85,237,1849,555,701,133,32,2840,1027,929,1017,2361
 Eventualmente	10772
 Eventuellement	17846
 Ever Breastfed	15247
@@ -1170,7 +1174,7 @@ Every Government	14743
 Every HIV	7750
 Every HMIS	3791
 Every Hill	1577
-Every IIAG	10759,78,1050,1,1,263,1,1,9,177,1,7311,1,183,22,1,65,14,1,48
+Every IIAG	10759,78,1050,1,1,263,1,1,9,177,1,7311,1,183,22,1,65,14,1,48,225
 Every Identified and Targeted Birth and Death Event	19541
 Every Importer Needs	13044
 Every Kitongoji	19525
@@ -1205,6 +1209,7 @@ EveryLicenseeshall	17250
 Everybody	4668,1590,1767,1592,168,696,3051,1221
 Everyday	9007,3875,5579
 Everyday Essentials and Public Services Digital Government	14566
+Everyday Life Participants	20100
 Everyday Life. New York	8460
 Everyday People	5975
 Everyday Subjects	18461
@@ -1214,7 +1219,7 @@ Everyone Counts	13367
 Everyone Else’s Problem	11006,1
 Everyone's Biometric Data On Feb	4997
 Everyone’s Responsibility	10776
-Everything	14,885,385,365,66,746,1004,701,1347,20,167,486,285,422,553,331,299,45,5,14,61,348,421,134,51,339,100,53,141,289,73,23,278,350,161,79,309,423,154,53,58,872,6,15,59,1375,928,2034,712,982
+Everything	14,885,385,365,66,746,1004,701,1347,20,167,486,285,422,553,331,299,45,5,14,61,348,421,134,51,339,100,53,141,289,73,23,278,350,161,79,309,423,154,53,58,872,6,15,59,1375,928,2034,712,982,1100
 Everything Technology	10160
 Everything You Need	11994
 Everywhere	5678,793,2117,1565,648
@@ -1233,7 +1238,7 @@ Evidemment	11700
 Eviden	3700
 Eviden Information Technology	3700
 Evidenc	6432
-Evidence	26,402,471,915,14,265,3,81,500,50,278,334,265,523,436,1348,597,85,200,39,319,29,41,327,100,115,123,415,135,192,357,143,1,220,85,325,210,119,100,147,383,3,42,5,17,71,55,52,1,21,22,64,62,7,2,14,25,306,66,32,11,201,82,28,9,8,32,38,12,2,183,35,5,14,1,7,25,19,72,5,26,10,75,15,8,16,1,3,4,10,111,22,11,202,10,21,3,26,11,94,113,19,24,76,1,9,1,1,13,1,4,17,15,2,32,80,117,46,25,330,567,101,27,40,1,11,49,116,5,26,13,104,54,29,16,26,19,328,7,35,68,37,3,2,481,42,601,55,1,9,9,81,7,47,22,19,159,575,9,10,80,92,142,5,200,9,52,70,1,7,19,9,53,27,22,209,133,325,39,224,12,5,9,61,31,36,2,112,7,106,46,1,38
+Evidence	26,402,471,915,14,265,3,81,500,50,278,334,265,523,436,1348,597,85,200,39,319,29,41,327,100,115,123,415,135,192,357,143,1,220,85,325,210,119,100,147,383,3,42,5,17,71,55,52,1,21,22,64,62,7,2,14,25,306,66,32,11,201,82,28,9,8,32,38,12,2,183,35,5,14,1,7,25,19,72,5,26,10,75,15,8,16,1,3,4,10,111,22,11,202,10,21,3,26,11,94,113,19,24,76,1,9,1,1,13,1,4,17,15,2,32,80,117,46,25,330,567,101,27,40,1,11,49,116,5,26,13,104,54,29,16,26,19,328,7,35,68,37,3,2,481,42,601,55,1,9,9,81,7,47,22,19,159,575,9,10,80,92,142,5,200,9,52,70,1,7,19,9,53,27,22,209,133,325,39,224,12,5,9,61,31,36,2,112,7,106,46,1,38,141
 Evidence Act	587,11067,199,6301,729,254,1,387
 Evidence Act Demystified With Recent	11654
 Evidence Act and Civil Procedure Act	14850
@@ -1316,7 +1321,7 @@ Evidence-Based Policy	13095
 Evidence-Based Policy Imperative FINDING	3861
 Evidence-Based Results	16253
 Evidence-Based and Consultative Process Delivering	8367
-Evidence-based	1261,3747,1939,601,828,3667,197,4756,22,139,713,659
+Evidence-based	1261,3747,1939,601,828,3667,197,4756,22,139,713,659,1540
 Evidence-based Decision-making	14935
 Evidence-based Health Care Financing	14033
 Evidence-based Policy Framework	18446
@@ -1944,6 +1949,7 @@ Martine Evelvne A' da SILVA-AHOUANTO	15400
 Massive Online Open Validation and Evaluation of Large	13158
 Master Plan and Monitoring and Evaluation Plan	12529
 Mbps. Even	6892
+Meas Eval	20219
 Measure Evaluation	12138,839
 Measure and Early Evidence	7151
 Measurement and Evaluation	14441
@@ -2271,6 +2277,7 @@ Patton MQ. Qualitative Research and Evaluation Methods	14666
 Pavlos Evangelidis	13821
 País. Evaluar	16893
 Performance Evaluation	8604,5581
+Performance Management and Evaluation	20156
 Performance Monitoring and Evaluation	11224,1312
 Periodic Review Mandates and Evaluation Criteria	3861
 Person Every	14742
@@ -2626,6 +2633,7 @@ Transcorp Event Center	18162
 Transfer EGDI E-Government Development Index EVC	16876
 Tribunal de Contas. Every	1339
 Trust Event Details	10707
+Trusted Internet for Everyone The Rwanda Chapter	20100
 Tumwesige Evans Lushakuzi	9452
 Tumwesigye Evans	9589
 Twice MdJL UGP and Evaluation	17441

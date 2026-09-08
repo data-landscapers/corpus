@@ -22,7 +22,7 @@ Accelerate Digital Transformation Kenya’s State Department	8569
 Accident and Emergency Department	14742
 Accountant General Department	12176
 Accountant General Department CSCs County Service	16949
-Accountant General's Department	5251,12167,1044,114
+Accountant General's Department	5251,12167,1044,114,1649
 Accountant General's Department. Gambians	5251
 Accountant General’s Department	13005,48,4163,1272,12,76
 Accountant General’s Department AES Annual Economic	18577
@@ -124,6 +124,7 @@ Business Registration Department	14725
 Business Solutions and Technology Department	14224
 C. Decision Timing The Department	5773
 CAG Department	16949
+CANEX Department	20203
 CBL Insurance Department	17138
 CBL’s Insurance Department	17235
 CBN Compliance Department	5369
@@ -278,6 +279,7 @@ Currency Management and Banking Operations Department	12477
 Customs Department	2112,8758,3875,8,90,635,14,1875,2458
 Customs Department Article	15492
 Customs Department the Customs Department Allocated	10870
+Customs Services Department	20224
 Customs and Excise Department	13108
 Cybersecurity Department	12926
 DC. The U. S. State Department	17110
@@ -358,6 +360,7 @@ DFID Department for International Development	11860
 DFID Department for International Development EDDS Enhanced	13359
 DFS Digital Financial Services DLS Department	16926
 DG DEPARTMENT OF HOME AFFAIRS	11986
+DG Department of Immigration. Mandate	20221
 DGARH DELEGATIONS DEPARTEMENTALES B- DIRECTIONS CENTRALES	16100
 DGARH DELEGATIONS DEPARTEMENTALES VII	15901
 DHA DEPARTMENT OF HOME AFFAIRS	11986
@@ -519,7 +522,7 @@ Departements	16611
 Departing	17780
 Departing Kenyans	2775
 Departing Visitors	2775
-Department	428,533,48,623,38,140,307,459,38,33,1,185,367,25,39,350,512,483,538,28,358,110,130,99,160,120,104,176,48,32,274,63,318,237,281,71,1,1,199,295,206,11,11,179,181,288,307,149,100,208,1,264,254,354,75,165,124,5,42,1,2,1,4,4,5,6,13,1,2,3,6,6,34,1,7,1,7,1,1,3,4,262,12,153,152,22,26,60,1,9,61,7,40,57,63,3,23,1,12,46,28,73,7,104,22,64,5,4,33,4,5,15,254,30,9,6,9,1,3,2,28,54,5,16,15,10,9,30,33,8,135,11,34,112,82,392,273,43,103,64,44,46,22,99,9,66,3,11,2,2,4,4,2,2,3,8,12,5,57,11,38,5,275,235,79,14,129,67,157,758,230,3,7,5,54,56,13,4,3,7,172,71,4,3,508,411,155,135,22,2,1,107,2,10,7,355,569,22,100,5,66,30,1,18,31,79,80
+Department	428,533,48,623,38,140,307,459,38,33,1,185,367,25,39,350,512,483,538,28,358,110,130,99,160,120,104,176,48,32,274,63,318,237,281,71,1,1,199,295,206,11,11,179,181,288,307,149,100,208,1,264,254,354,75,165,124,5,42,1,2,1,4,4,5,6,13,1,2,3,6,6,34,1,7,1,7,1,1,3,4,262,12,153,152,22,26,60,1,9,61,7,40,57,63,3,23,1,12,46,28,73,7,104,22,64,5,4,33,4,5,15,254,30,9,6,9,1,3,2,28,54,5,16,15,10,9,30,33,8,135,11,34,112,82,392,273,43,103,64,44,46,22,99,9,66,3,11,2,2,4,4,2,2,3,8,12,5,57,11,38,5,275,235,79,14,129,67,157,758,230,3,7,5,54,56,13,4,3,7,172,71,4,3,508,411,155,135,22,2,1,107,2,10,7,355,569,22,100,5,66,30,1,18,31,79,80,227,20
 Department AES Annual Economic Survey ASSL	18488
 Department ALECSO Charter	2958
 Department ASSL Audit Service Sierra Leone	18500
@@ -671,7 +674,7 @@ Department of Communications	6467,513,157,181,3861,75,2207
 Department of Communications and Digital	10729
 Department of Communications and Digital Technologies	1912,28,177,1147,1911,23,1,399,371,85,299,479,74,74,116,418,74,14,377,109,43,304,511,730,24,59,121,55,194,877,6,158,25,4,31,5,19,11,230,350,63,32,57,2676
 Department of Communications. Accenture	428
-Department of Community Development	11133,5734,85
+Department of Community Development	11133,5734,85,3281
 Department of Community Health and Behavioral Sciences	17735
 Department of Computer Science	766,4647,3191,1779,953,919,106,660,1332
 Department of Computer Science Home Programmes BSc	12361
@@ -800,7 +803,7 @@ Department of Government Efficiency	10446
 Department of Government Investment	6946
 Department of Government Print	12253
 Department of Government Printing	12253
-Department of Government Printing and Publishing Services	12575
+Department of Government Printing and Publishing Services	12575,7476
 Department of Health	396,5137,2485,585,2682,692,9,39,1015
 Department of Health Care Services	19059
 Department of Health ICT	12025
@@ -842,7 +845,7 @@ Department of Human Resources and Administration	16978
 Department of Human Settlements	11244
 Department of ICT	18898,5
 Department of IT IBM Corp	9129
-Department of Immigration	1882,2,2506,857,3048,1021,2975,1382,372,2822,2094
+Department of Immigration	1882,2,2506,857,3048,1021,2975,1382,372,2822,2094,1260
 Department of Immigration Headquarters	13605
 Department of Immigration and Citizenship	12573,24,2077
 Department of Immigration and Citizenship Services	7070,5147
@@ -879,7 +882,7 @@ Department of Justice and Constitutional Development	3225,65,3781,434,1016,258,2
 Department of Justice and Constitutional Development Remarks	11227
 Department of Justice and Constitutional Development’s	2117
 Department of Labor's Findings	19655
-Department of Labour	11285,5602
+Department of Labour	11285,5602,3343
 Department of Labour Relations and Regulation Mrs. Sandra	19049
 Department of Labour Services	12253
 Department of Labour and Social Security	12597
@@ -893,6 +896,7 @@ Department of Land and Planning	1161
 Department of Land and Survey	16916
 Department of Lands	7167,5086,4763,2000
 Department of Lands and Housing	19096
+Department of Lands and Surveys	20226
 Department of Law	7777
 Department of Learning Health Sciences	11990
 Department of Legal Affairs	1243,17201,572,80
@@ -1101,7 +1105,7 @@ Departmental Technical Committee	12138
 Departmental and Agency Information	16885
 Departmental-Papers-Pol-	961
 DepartmentofInformatics	8603
-Departments	969,162,541,1,62,552,244,95,21,1,131,210,615,522,1119,199,349,484,110,45,107,247,45,717,921,200,405,1835,51,225,31,4,17,308,309,3,136,56,96,6,6,57,27,12,92,192,14,93,30,207,81,8,2,15,3,15,55,20,15,27,190,2,6,11,23,5,22,5,63,197,900,128,44,1,2,8,16,1,4,3,8,25,42,3,4,1,10,83,75,86,57,312,14,19,21,5,35,68,613,9,128,230,232,10,17,25,36,2,1,3,24,1,33,114,6,9,35,86,12,689,269,154,97,9,1,1,1,13,7,8,4,8,2,2,17,33,14,1,11,8,27,263,18,77,538,15,21,29,18,37,2,19,6,23,8,10,5,32,17,31,6,3,1,8
+Departments	969,162,541,1,62,552,244,95,21,1,131,210,615,522,1119,199,349,484,110,45,107,247,45,717,921,200,405,1835,51,225,31,4,17,308,309,3,136,56,96,6,6,57,27,12,92,192,14,93,30,207,81,8,2,15,3,15,55,20,15,27,190,2,6,11,23,5,22,5,63,197,900,128,44,1,2,8,16,1,4,3,8,25,42,3,4,1,10,83,75,86,57,312,14,19,21,5,35,68,613,9,128,230,232,10,17,25,36,2,1,3,24,1,33,114,6,9,35,86,12,689,269,154,97,9,1,1,1,13,7,8,4,8,2,2,17,33,14,1,11,8,27,263,18,77,538,15,21,29,18,37,2,19,6,23,8,10,5,32,17,31,6,3,1,8,403
 Departments Accountant General	14847
 Departments Achieved Presidential Hotline Members	11224
 Departments Affected By Supplementary Budget	2428
@@ -1121,7 +1125,7 @@ Departments Systems	14750
 Departments Table	14729
 Departments The Ministry of Information Technology	14750
 Departments The Ministry of Public Service	14750
-Departments and Agencies	789,169,1569,248,2253,907,497,76,636,225,379,120,253,246,54,19,192,348,1,235,514,224,98,11,94,1,155,290,78,1076,18,16,69,1,95,70,68,41,22,19,64,13,238,183,83,160,47,72,39,20,18,9,3,187,2,6,39,32,29,67,198,510,200,151,419,120,374,55,4,22,561,105,82,114,72,129,255,3,24,41,1,289,572,388,29,54,1,211,1,3,2,8,3,24,7,30,28,9,318,27,588,1,21,92,6,3,4,1,155,1,7,127
+Departments and Agencies	789,169,1569,248,2253,907,497,76,636,225,379,120,253,246,54,19,192,348,1,235,514,224,98,11,94,1,155,290,78,1076,18,16,69,1,95,70,68,41,22,19,64,13,238,183,83,160,47,72,39,20,18,9,3,187,2,6,39,32,29,67,198,510,200,151,419,120,374,55,4,22,561,105,82,114,72,129,255,3,24,41,1,289,572,388,29,54,1,211,1,3,2,8,3,24,7,30,28,9,318,27,588,1,21,92,6,3,4,1,155,1,7,127,142,97
 Departments and Agencies CIRCIA Cyber Incident Reporting	6936
 Departments and Agencies Citizens	12210
 Departments and Agencies Independent	7548
@@ -1156,6 +1160,7 @@ Departments and Agencies NSDS National Strategy	17149
 Departments and Agencies Purpose The GEA	14441
 Departments and Agencies Utilize	2989
 Departments and Agencies. Central	12598
+Departments and Agencies. Ghana	20182
 Departments and Agencies. Government	13685
 Departments and Agencies. The Government	19519
 Departments and Bodies	14773
@@ -1431,6 +1436,7 @@ Gambia Immigration Department Application	12085
 Gambia Immigration Department Bill	3061
 Gambian Immigration Department	16874
 Gastrointestinal Outpatient Department	14773
+Gauteng Department	20178
 Gauteng Department of E-Government	14357
 Gauteng Department of Education	9073,65
 Gauteng Department of Health	2948
@@ -1566,7 +1572,7 @@ INTIC's Legal Department	17603
 ISB ICT Department	3583
 ITE&C Department	11156
 IV. IMMIGRATION DEPARTMENT Structured Categorization Fees	18541
-Immigration Department	1988,787,840,368,1900,4577,2943,857,3418,759,26
+Immigration Department	1988,787,840,368,1900,4577,2943,857,3418,759,26,1758,10
 Immigration Department Level	19584
 Immigration Departure Control	19950
 Immigration Services Department	19541
@@ -1962,6 +1968,7 @@ Policy Reforms and Compliance The Department	17235
 Policy and Planning Department	17235
 Policy and Planning Department RBS Reserve Requirements	17235
 Policy and Regulation Department Central Business District	11861
+Presenting the Department	20178
 Presents the Department	18964
 Presidency and Department of Science	11940
 Prime Minister Department of Refugees	6493
@@ -2026,14 +2033,14 @@ Refugee Management The Department of Refugees	19727
 Regarding the Prisons Department	17105
 Regional Department West II	11909
 Regional and Departmental Flood Management Committees	18198
-Registrar General's Department	11032,1032,2783,1754
+Registrar General's Department	11032,1032,2783,1754,3612
 Registrar General's Department Com	11480
 Registrar General's Department Dodoo Lane	15816
 Registrar General’s Department	170,12344,2247,2112
 Registrar General’s Department French Colonial Period	14761
 Registrar General’s Department The Registrar	16873
 Registrar General’s Department URL	16873
-Registrar-General's Department	14761,38,31,1771
+Registrar-General's Department	14761,38,31,1771,3579
 Registrar-General's Department Annual Report	14761
 Registrar-General’s Department	7696,7065,38,29,3
 Registrar-General’s Department Activities	14761
@@ -2139,6 +2146,7 @@ Security Departments	13532
 September. The State Department	7750
 Service Delivery Environment The Department	11224
 Services Department	17235
+Services Department Manager	20142
 Services Department of E- E Government Short	12917
 Settlements DLRRD Department of Land Reform and Rural	11261
 Seychelles Police Department	18970
@@ -2285,7 +2293,7 @@ State Law Office and Department of Justice	14546
 State Modernization Department	11873
 State of Alaska. Department of Health and Social Services	12413
 State of California Department of Justice	1243
-Statistics Department	10,10708,2244,570,1245,2165
+Statistics Department	10,10708,2244,570,1245,2165,3119
 Statistics Department and Statistics Botswana	9708
 Statistics and Census Department	17372
 Stock Images The Home Affairs Department	7404
@@ -2350,7 +2358,7 @@ Top Stories Activities Speeches Latest Department	13309
 Tourism Department	19040
 Town and Country Planning Department	11
 Trade Measures Department	13320
-Trade and Development UNDESA United Nations Department	10759,78,1052,451
+Trade and Development UNDESA United Nations Department	10759,78,1052,451,7872
 Trade and Exchange Department	10
 Trade and Exchange Department Compiled Data	10
 Trade and Investment Departments	19585
@@ -2447,7 +2455,7 @@ Vehicle Inspection Department	8639,755,3
 Vehicle Inspection Department and Zimbabwe Borders	13673
 Victoria Falls International Financial Services Department	13559
 Vigaeni Outpatient Department	19585
-Virtual Assets Department	8697
+Virtual Assets Department	8697,11488
 Visitor Departures	2775
 WRITTEN RESPONSES The Department of Home Affairs	11285
 Waste Management Department	17157

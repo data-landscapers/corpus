@@ -220,10 +220,12 @@ GOV.ST Single Portal	18767,10
 GRAND GEDEH SINOE RIVER GEE GRAND	16921
 Gabbar Singh	14841
 Gadarif Kassala Gezira Sinnar White Nile	14897
+Gambia's Single Window	20224
 Garima Singh	16234
 Gaz SWER Single Wire Earth Return	18103
 Gee Bomi Sinoe Maryland Grand Cape	16921
 Geita Singida Rukwa Katavi Tabora Kigoma	19542
+George Sinyangwe	20209
 Gestão da Educação SINAPROF Sindicato Nacional	11557
 GoK's Enhanced Single Registry	14487
 Goodson Sinyenga	8480
@@ -624,7 +626,7 @@ SingPass	7981
 SingTel	15471
 Singa Ni Mara	17870
 Singalamwe	12984
-Singapore	961,75,207,498,137,222,247,38,206,111,114,15,263,273,31,110,128,409,22,380,170,59,172,133,243,28,188,423,547,106,3,23,61,10,66,120,50,87,61,148,22,77,207,260,20,114,8,273,89,48,441,238,36,118,25,7,111,185,285,379,69,113,43,29,81,291,50,21,61,158,1,1,11,68,50,5,14,455,213,35,65,65,7,116,100,209,81,364,108,48,64,1183,334,72,44,35,66,1,22,124,32,213,58,203,47,195,130,1,150,671,193,84,103,422,276,46,95,41,1677,130,69,139,69
+Singapore	961,75,207,498,137,222,247,38,206,111,114,15,263,273,31,110,128,409,22,380,170,59,172,133,243,28,188,423,547,106,3,23,61,10,66,120,50,87,61,148,22,77,207,260,20,114,8,273,89,48,441,238,36,118,25,7,111,185,285,379,69,113,43,29,81,291,50,21,61,158,1,1,11,68,50,5,14,455,213,35,65,65,7,116,100,209,81,364,108,48,64,1183,334,72,44,35,66,1,22,124,32,213,58,203,47,195,130,1,150,671,193,84,103,422,276,46,95,41,1677,130,69,139,69,212
 Singapore ASP HI	17743
 Singapore Airlines	14997
 Singapore Business Federation	3508
@@ -837,21 +839,24 @@ Single Tranche	16219
 Single Transaction Portal	14985
 Single Travel Emergency Passport	4102
 Single Treasury Account	1284
-Single Window	9361,1414,10,251,870,33,37,563,503,521,1915,1153,106,2060,736,43,6
+Single Window	9361,1414,10,251,870,33,37,563,503,521,1915,1153,106,2060,736,43,6,642
 Single Window Abbreviations PGA Partner Government	16631
 Single Window Applications and Sectorial Portals. Figure	19533
+Single Window Business Registration Act	20224
 Single Window Citizens Engagement Services	15878
 Single Window Concept Historically	13042
 Single Window Countries	13042
+Single Window Customs Clearance	20224
 Single Window I-23 Social Ins	10785
 Single Window Launch Ceremony	16631
 Single Window Modernizing	16631
 Single Window Payment System. The Government	19602
 Single Window Permits	13042
 Single Window Portal	19665
+Single Window Registry	20228
 Single Window Service	14113
 Single Window Support	1834
-Single Window System	19600
+Single Window System	19600,624
 Single Window TIN Taxpayer Identification Number	16631
 Single Window TURKMENISTAN	16631
 Single Window for Cross-border Operations	15553
@@ -908,6 +913,7 @@ Sinipfuza	13300
 Sinistre	16529
 Sinistrés Project Appraisal Report Project Implementation	13938
 Sinja Urban	15244
+Sinje	20191
 Sinje Health Center	16971
 Sinjie	17289
 Sinka Matengu	12581
@@ -973,6 +979,7 @@ Sinè Président	18003
 Sinématiali	2342
 Sistemas Estadísticos Ministeriales. Sin	16898
 Small and Medium Enterprise SDM Single Digital	16144
+Smart Nation Singapore	20221
 Social Development The National Single Registry	19637
 Social Protection Policy NSR National Single	19647
 Social Protection Single Window Citizens Service	16600

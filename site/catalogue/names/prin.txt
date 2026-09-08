@@ -200,6 +200,7 @@ Cham Riphat Prince	15744
 Chapitre VI.- Principes	18288
 Cheque Printer Accreditation Standard	19940
 Chief Director Mr. Prince Sibanda	4528,7984,1031
+Chief Director Prince Sibanda	20115
 Chief of Mission Principal Secretary	4154
 Chrisna Evans Principal	7751
 Cinco Princípios de Coexistência Pacífica	18958
@@ -320,7 +321,7 @@ Democratic Republic of Sao Tome and Principe URL	18754
 Department Print	12253
 Department of Government Print	12253
 Department of Government Printing	12253
-Department of Government Printing and Publishing Services	12575
+Department of Government Printing and Publishing Services	12575,7476
 Department of Home Affairs and Government Printing Works	4786
 Deputy Principal	12726,6999
 Deputy Principal Financial Secretary	18500
@@ -433,7 +434,8 @@ Funções Principais	18799
 Future. OECD Principles of Digital Government International	14752
 G-20 High-level Principles for Digital Financial	16876
 G. Printing. Neves	19654
-G20 AI Principles	19966
+G20 AI Principles	19966,258
+G20 Artificial Intelligence Principles	20224
 G20 High-Level Principles	11960
 G7 Hiroshima Process International Guiding Principles	12210
 G7 Principles	11154
@@ -586,6 +588,7 @@ ICT Principal Secretary for Digital Economy and Emerging	9333
 ICT and Digital Economy Principal Secretary John	6717
 ID PRINTING DATA STORAGE	10775
 ID. Principais	18779
+ID4D Principle	20221
 ID4D Principles	2291,9576,3868
 ID4D. Principles	10765,10
 IDs. NRB Principal Secretary Patrick Machika	7041
@@ -1188,7 +1191,7 @@ Principal Digital Skills and Capabilities Officer	9137
 Principal Disbursement Officer	11863,2075
 Principal Economist	11131,3,1828,102,135
 Principal Editor of Debates	18436
-Principal Education Officer	5295,13680
+Principal Education Officer	5295,13680,1242
 Principal Energy Expert	13885
 Principal Engineer	14736
 Principal Factors and Reasons Considered	4896
@@ -1257,6 +1260,7 @@ Principal Public Relations Officer Liseli Kanyanga	6391
 Principal Purpose Test	14839
 Principal Q2	12241
 Principal Refugees	17323,1
+Principal Regional Communication Officer	20052
 Principal Registrar	12151,2256,54,2399
 Principal Registrar and Deputy Principal Registrar	14407
 Principal Registrar for Vital Statistics	16860
@@ -1268,11 +1272,11 @@ Principal Results and Comparison With Prior Work	10919
 Principal Revenue Streams	4896
 Principal Rules	14461
 Principal Rural Infrastructure	9609
-Principal Secretaries	5536,5763,1000,113,560,4,1623,5017,163
+Principal Secretaries	5536,5763,1000,113,560,4,1623,5017,163,324
 Principal Secretaries for Interior	6787
 Principal Secretaries for Internal Security	17745
 Principal Secretaries for Reforms	10736
-Principal Secretary	3349,299,230,635,118,5,887,13,1003,248,44,107,8,123,338,73,68,57,777,187,223,365,52,7,224,380,493,86,732,2,1,330,675,160,1,9,21,82,14,259,9,1,1,17,7,7,29,138,16,26,36,5,24,4,49,3,18,26,13,2,8,102,644,537,3,12,27,44,68,33,5,42,4,2652,1601,20,25,22,166,485
+Principal Secretary	3349,299,230,635,118,5,887,13,1003,248,44,107,8,123,338,73,68,57,777,187,223,365,52,7,224,380,493,86,732,2,1,330,675,160,1,9,21,82,14,259,9,1,1,17,7,7,29,138,16,26,36,5,24,4,49,3,18,26,13,2,8,102,644,537,3,12,27,44,68,33,5,42,4,2652,1601,20,25,22,166,485,507
 Principal Secretary Allain Volcere	18964
 Principal Secretary Dr.Bonface Makokha	14523
 Principal Secretary John Tanui	10668
@@ -1303,7 +1307,7 @@ Principal Secretary for Economic Planning and Development	12978,2
 Principal Secretary for Foreign Affairs Dr. Korir	14668
 Principal Secretary for Health	13022
 Principal Secretary for Homeland Security	19131
-Principal Secretary for ICT	5108,2877,109,167,2326,3974
+Principal Secretary for ICT	5108,2877,109,167,2326,3974,5542
 Principal Secretary for ICT John Tanui	6150
 Principal Secretary for ICT and Digital Economy	5964,1213,2032
 Principal Secretary for ICT and Digital Economy John	9849,888
@@ -1460,7 +1464,7 @@ Principle of Legitimacy	14434
 Principle of National Policy. The State	12891
 Principle of Purpose	14434
 Principle of Statistical Secrecy	16189
-Principles	21,948,251,23,231,119,235,1130,625,45,1,2910,407,1097,561,520,617,332,641,15,90,311,24,25,90,80,90,352,165,187,3,5,15,190,11,18,145,6,139,233,46,51,245,55,9,4,3,35,112,476,52,438,7,8,116,162,166,4,50,50,30,32,459,22,13,182,477,627,1,3,14,6,11,10,1,1,1,29,26,1,306,531,170,496,29,10,71,329,99,526,6,3,7,4,45,59,230,56,28
+Principles	21,948,251,23,231,119,235,1130,625,45,1,2910,407,1097,561,520,617,332,641,15,90,311,24,25,90,80,90,352,165,187,3,5,15,190,11,18,145,6,139,233,46,51,245,55,9,4,3,35,112,476,52,438,7,8,116,162,166,4,50,50,30,32,459,22,13,182,477,627,1,3,14,6,11,10,1,1,1,29,26,1,306,531,170,496,29,10,71,329,99,526,6,3,7,4,45,59,230,56,28,273,3
 Principles Data	12902
 Principles Digital Identification System	12146
 Principles Governance Legal Framework Priority Areas	21
@@ -1658,7 +1662,7 @@ Printed Name	17114
 Printed and Published	11851,125,6622,6
 Printed.pdf UN-OCHA	19520
 Printemps	7655,6782,1118
-Printer	12359,1045,3566,364,2368
+Printer	12359,1045,3566,364,2368,519
 Printer Computer Specifications DATE QUANTITY	34
 Printers	34,11826,1501,1560,2049,210,1040,1419
 Printers and Assorted Cartrid	17180

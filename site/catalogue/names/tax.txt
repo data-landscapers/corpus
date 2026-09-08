@@ -295,7 +295,7 @@ Contribution Tax Revenues	13053
 Contribution of Indirect Tax	5655
 Contribution of Indirect Taxes	5655
 Contributions of Major Taxes	13624
-Corporate Income Tax	573,1255,3155,672,5107,536,657,497,48,500,44,9,1932,2011,109,1213,1468
+Corporate Income Tax	573,1255,3155,672,5107,536,657,497,48,500,44,9,1932,2011,109,1213,1468,438
 Corporate Income Tax CSP	13053
 Corporate Income Tax Code	11955
 Corporate Income Tax ISO	11955
@@ -386,6 +386,7 @@ Digital Assets Tax	14932
 Digital Assets Tax Accordingly	14932
 Digital Data Tax	14932
 Digital Divide Tax	19904
+Digital Economy Taxation and Customs Duties	20224
 Digital Market Supply Tax Digital Services	14932
 Digital Service Tax	573,7213,7146
 Digital Services Tax	573,2588,1422,5481,4868,396
@@ -668,6 +669,8 @@ GSMA Tax Database. Côte	10932
 GSR16 Discussion-Paper Taxation Latest web.pdf	14932
 GUIDE TAX REFERENCE NUMBER	11298
 GUIDELINES ON THE TAXATION OF VIRTUAL	8590
+Gambia Income and Value Added Tax	20224
+Gambia Tax Revenue Authority	20224
 General Direcrorate of Taxe and Estates	4992
 General Directorate for Taxes	10812
 General Directorate of Collections and Taxes	11550
@@ -820,7 +823,7 @@ Income Tax and VAT Acts	12598
 Income TaxStatistics	16833
 Income Taxes	14932,2023
 Income and Tax Revenue Around the World	1828
-Income and Value Added Tax Act	17105
+Income and Value Added Tax Act	17105,3119
 Income and Value Added Taxes E-Receipt System	19919
 Increase Taxpayer Satisfaction Completion Rate of Annual	13053
 Increase Taxpayer Satisfaction Figure	13053
@@ -853,7 +856,7 @@ Institutionalizing Taxpayer Education	17011
 Integrated Border Declaration Form Customs Tax	12454
 Integrated Tax Administration	10852
 Integrated Tax Administration Automation System	15090
-Integrated Tax Administration System	2112,1623,4623,187,1874,103,102,1606,167,554,109,1614,357,59,1164,151,606,53,41,111,1234,127,1270
+Integrated Tax Administration System	2112,1623,4623,187,1874,103,102,1606,167,554,109,1614,357,59,1164,151,606,53,41,111,1234,127,1270,378,12
 Integrated Tax Administration System LC Local	18577
 Integrated Tax Administration System Simplify	16968
 Integrated Tax Administration Systems	10550,1317
@@ -1410,7 +1413,7 @@ Standard Integrated Tax Administration System	17011
 Standing Tax Certificate	13037
 State Minister for Tax Operations Division	12500
 State Power of Taxation	13948
-Statistical System Effective Administration Tax	10759,78,1315,188,7598
+Statistical System Effective Administration Tax	10759,78,1315,188,7598,274
 Statistics Tax Portal Tax Tools Tax	12454
 Still Highly Volatile Tax Revenue	1828
 Strengthen Tax Policy Formulation and Tax Administration	13910,5937
@@ -1565,7 +1568,7 @@ Tariff Tax	10856
 Tax Account Number	14717,61,6,49
 Tax Accounts N	12951
 Tax Act	6921
-Tax Administration	573,2588,574,3188,2856,1218,143,1249,63,31,465,206,1520,154,3,1202,704,274,197,1110,1529
+Tax Administration	573,2588,574,3188,2856,1218,143,1249,63,31,465,206,1520,154,3,1202,704,274,197,1110,1529,390
 Tax Administration A Cross-Country Perspective Manabu	12948
 Tax Administration Achievements and Challenges	10997
 Tax Administration Act	6921,2769,333,1167,43,30,13,22,1300,31,424,69,32,6373,75
@@ -1585,7 +1588,7 @@ Tax Administration Reforms. IMF Working Paper	10997
 Tax Administration Research Centre	12386
 Tax Administration Structural and Governance Reform	17011
 Tax Administration Support System	12500
-Tax Administration System	2744,9221,483,605,3958,303,1174
+Tax Administration System	2744,9221,483,605,3958,303,1174,1737
 Tax Administration System ITAS Integrated Tax	17105
 Tax Administration System MDA Ministries	1284
 Tax Administration Technology Innovation Hub	2189
@@ -1730,13 +1733,14 @@ Tax Gap	13624
 Tax Guinée	16629,3360
 Tax Guinée Portail	16629
 Tax ICDL International Computer Driving CMM	14897
-Tax ID	4602,6163,10,1201,46,6161,1701
+Tax ID	4602,6163,10,1201,46,6161,1701,337
 Tax ID Cards	11859
+Tax ID System	20221
 Tax ID. CHAPTER	11976
 Tax ID. Nigeria Tax Administration Act	11976
 Tax IDs	9956,2020
 Tax Identification	14897,3286
-Tax Identification Number	3161,574,203,17,647,254,2065,774,51,2318,701,10,1247,235,173,1176,756,606,117,1870,664,831,258,221,589,9,30,210,18,150,1
+Tax Identification Number	3161,574,203,17,647,254,2065,774,51,2318,701,10,1247,235,173,1176,756,606,117,1870,664,831,258,221,589,9,30,210,18,150,1,142,143
 Tax Identification Number TSA Treasury Single	19647
 Tax Identification Numbers	9570,3430,1484,664,3560,1088
 Tax Incentive Returns	11976
@@ -1855,7 +1859,7 @@ Tax Reference Number and Year of Assessment. Click	11276
 Tax Reform	7180,3817,3935,2079
 Tax Reform Acts	9035
 Tax Reform Adan	10997
-Tax Reforms	13624,5978
+Tax Reforms	13624,5978,619
 Tax Refund	11976
 Tax Refund Account	7695
 Tax Refund Accounts	11976
@@ -2061,7 +2065,7 @@ Taxas de Resposta	10777
 Taxas de Resposta Número Taxas	18762
 Taxas de Telecomunicações	18784
 Taxas. Artigo	15391
-Taxation	7,1116,3773,383,1314,1102,1372,95,2794,20,215,194,4,287,272,3,363,634,726,258,65,180,28,275,86,231,223,27,281,307,241,66,69,97,1340,160,1067,282,9
+Taxation	7,1116,3773,383,1314,1102,1372,95,2794,20,215,194,4,287,272,3,363,634,726,258,65,180,28,275,86,231,223,27,281,307,241,66,69,97,1340,160,1067,282,9,255
 Taxation Act	3583,9539,5472,14,53
 Taxation Amendment Act	18594
 Taxation Authority LRA Lesotho Revenue Authority	16631
@@ -2103,7 +2107,7 @@ Taxe Professionnelle Synthétique	15797
 Taxe Spéciale	15999
 Taxe Spécifique Unique	3045,12712,40
 Taxe de Soutien	3045,12712
-Taxes	236,1582,10,646,301,940,915,50,216,421,338,508,430,121,2925,24,785,408,108,12,21,139,389,332,9,8,7,74,45,270,76,39,4,101,7,459,81,16,7,62,1,62,156,283,66,719,487,1,11,24,53,364,23,39,13,2,45,2,24,37,19,30,75,243,8,74,64,667,202,20,60,15,179,45,637,37,36,27,18,119,209,165,368,36,86,241,25,363,110,16,262
+Taxes	236,1582,10,646,301,940,915,50,216,421,338,508,430,121,2925,24,785,408,108,12,21,139,389,332,9,8,7,74,45,270,76,39,4,101,7,459,81,16,7,62,1,62,156,283,66,719,487,1,11,24,53,364,23,39,13,2,45,2,24,37,19,30,75,243,8,74,64,667,202,20,60,15,179,45,637,37,36,27,18,119,209,165,368,36,86,241,25,363,110,16,262,231
 Taxes Edmond Rafaralahy	14584
 Taxes Excise Duty	14932
 Taxes Figure	10976,1370
@@ -2169,11 +2173,11 @@ Taxpayer Experience Statement VAT Modernisation	8670
 Taxpayer Full-Service Center	17011
 Taxpayer Identification	11976
 Taxpayer Identification Identification Number for NIL NIL	6921
-Taxpayer Identification Number	4449,2472,4940,488,103,601,196,357,78,284,1632,1001,507,1689,132,598,75
+Taxpayer Identification Number	4449,2472,4940,488,103,601,196,357,78,284,1632,1001,507,1689,132,598,75,573
 Taxpayer Identification Number Certificate	19527
 Taxpayer Identification Number Registration	12349
 Taxpayer Identification Numbering System	16601
-Taxpayer Identification Numbers	2744,9885,977,5921
+Taxpayer Identification Numbers	2744,9885,977,5921,673
 Taxpayer Identification Unit	16601
 Taxpayer Identification for INDIVIDUAL TAXPAYERS ONLY	16601
 Taxpayer Information	11976

@@ -167,7 +167,7 @@ BUSHRAA MEDICAL CENTRE LIMITED Data Controller	7167
 BUSIA DENTAL SOLUTIONS LIMITED Data Processor	7167
 BUSIA HEALTHCARE SERVICES LIMITED Data Controller	7167
 BUSIA Kenya	7167
-BUSINESS	10759,76,2,1,130,902,16,2,1,75,188,1,10,177,1,11,1,135,565,1790,2770,2039,1,169,14,3,19,1,65,14,1,48
+BUSINESS	10759,76,2,1,130,902,16,2,1,75,188,1,10,177,1,11,1,135,565,1790,2770,2039,1,169,14,3,19,1,65,14,1,48,225
 BUSINESS ACTIVITIES IN RWANDA	12445
 BUSINESS AGILITY Segurança	15476
 BUSINESS AND AFFAIRS OF THE BOARD	14410
@@ -344,7 +344,7 @@ Busia Senator Okiya Omatah	9645
 Busia Senator Okiya Omtatah	8949
 Busia West Pok	12151
 Busia and Mandera	14464
-Business	3,8,225,182,155,9,193,14,157,12,51,152,82,14,27,313,231,112,6,147,496,93,154,3,81,295,68,25,102,27,116,161,68,88,28,25,46,157,1,305,27,69,159,66,38,260,161,35,96,6,45,139,32,90,3,7,68,40,1,326,97,42,66,6,90,175,672,123,8,35,12,141,184,11,39,15,51,91,36,13,123,229,40,181,197,107,4,235,5,109,16,68,78,336,158,96,36,27,105,248,2,32,87,29,20,88,48,1,9,38,34,19,11,12,2,1,3,15,6,50,52,4,1,4,3,1,13,14,3,10,33,33,46,2,3,1,49,11,36,54,39,23,122,112,165,111,4,2,7,4,7,1,2,1,1,1,1,1,6,1,6,38,4,8,3,9,1,11,10,8,6,43,109,1,1,5,1,3,39,2,1,9,55,1,58,12,1,5,5,1,1,2,4,5,12,7,13,1,23,11,14,2,5,1,7,23,4,1,2,15,7,27,147,213,18,68,20,32,5,41,73,13,16,32,41,37,13,3,3,10,7,14,13,10,19,11,63,71,18,114,118,105,51,11,5,124,361,2,153,81,48,29,22,1,61,7,10,26,1,17,24,7,4,33,4,28,17,20,46,5,5,212,109,13,15,21,14,4,2,13,19,2,4,24,11,30,80,50,271,160,32,84,55,1,311,216,24,5,2,4,6,1,41,9,7,9,45,15,6,82,15,25,10,99,4,118,67,176,2,105,103,37,10,169,70,136,203,6,7,49,31,15,197,14,29,42,49,42,20,70,160,12,48,6,80,201,6,1,42,1,62,1,13,1,7,141,21,14,11,11,1,3,3,36,23,14,1,13,14,21,8
+Business	3,8,225,182,155,9,193,14,157,12,51,152,82,14,27,313,231,112,6,147,496,93,154,3,81,295,68,25,102,27,116,161,68,88,28,25,46,157,1,305,27,69,159,66,38,260,161,35,96,6,45,139,32,90,3,7,68,40,1,326,97,42,66,6,90,175,672,123,8,35,12,141,184,11,39,15,51,91,36,13,123,229,40,181,197,107,4,235,5,109,16,68,78,336,158,96,36,27,105,248,2,32,87,29,20,88,48,1,9,38,34,19,11,12,2,1,3,15,6,50,52,4,1,4,3,1,13,14,3,10,33,33,46,2,3,1,49,11,36,54,39,23,122,112,165,111,4,2,7,4,7,1,2,1,1,1,1,1,6,1,6,38,4,8,3,9,1,11,10,8,6,43,109,1,1,5,1,3,39,2,1,9,55,1,58,12,1,5,5,1,1,2,4,5,12,7,13,1,23,11,14,2,5,1,7,23,4,1,2,15,7,27,147,213,18,68,20,32,5,41,73,13,16,32,41,37,13,3,3,10,7,14,13,10,19,11,63,71,18,114,118,105,51,11,5,124,361,2,153,81,48,29,22,1,61,7,10,26,1,17,24,7,4,33,4,28,17,20,46,5,5,212,109,13,15,21,14,4,2,13,19,2,4,24,11,30,80,50,271,160,32,84,55,1,311,216,24,5,2,4,6,1,41,9,7,9,45,15,6,82,15,25,10,99,4,118,67,176,2,105,103,37,10,169,70,136,203,6,7,49,31,15,197,14,29,42,49,42,20,70,160,12,48,6,80,201,6,1,42,1,62,1,13,1,7,141,21,14,11,11,1,3,3,36,23,14,1,13,14,21,8,146,71,9
 Business A2C	14438
 Business Accountability	15034
 Business Acumen	6432
@@ -352,6 +352,7 @@ Business Address	12041
 Business Administration	10,4886,419,1631,6024,2,1803,224,91,3488
 Business Administration. Mr Suttyhudeo Tengur Mr	14736
 Business Adoption	16975
+Business Advisory Centres	20182
 Business Advisory Group	11155
 Business Affairs	11005
 Business Against Crime	11986
@@ -413,6 +414,7 @@ Business Climate and Competitiveness	16958
 Business Climate. A Presentation	12325
 Business Committee	18436
 Business Community	14736,4918
+Business Community Khalil	20122
 Business Comparism Decision	17149
 Business Complex	19585
 Business Conference	4554,768
@@ -480,6 +482,7 @@ Business Development Director of Hytera	2511
 Business Development Fund	15023
 Business Development Fund of Rwanda	15023
 Business Development Graduate of SKEMA Business School	18039
+Business Development Manager	20232
 Business Development Officer	14736
 Business Development Services	8969,4091,3816,2658
 Business Development Services Programs	19534
@@ -570,6 +573,7 @@ Business Facilitation Directorate Public Private Partnership	18463
 Business Facilitation Single Window	12703
 Business Facilitation São Tomé and Príncipe	18797
 Business Faiba	9940
+Business Federation of Eswatini	20068
 Business FinTech Strategy	4185
 Business Financial Services	12214
 Business Focus	1271
@@ -659,7 +663,7 @@ Business Leadership	11131,3
 Business Licence	18448
 Business Licence Demand Notice. Can	18448
 Business Licences	9437
-Business License	18448
+Business License	18448,1727
 Business License Act	14891
 Business License Application	18935
 Business License Fees TZS	19585
@@ -901,6 +905,7 @@ Business Times Would	8664
 Business Today	19901
 Business Traditional	12214
 Business Transformation Strategy	11289
+Business Transport	20082
 Business Treasury	9940
 Business Unit Fixe	9916
 Business User N	9124
@@ -966,8 +971,10 @@ Business and Technical Specifications	8840
 Business and Technology	9124
 Business and Technology Developments	13053
 Business and Trade Associations	14800
+Business and Transport	20082
 Business of Artificial Intelligence	11265
 Business- Critical High Performance Standard Basic	5665
+Business-Friendly Reform Momentum Ongoing	20228
 Business-Government	10862,7976
 Business-based	19847
 Business-registration	3594
@@ -1007,11 +1014,12 @@ BusinessTech	8603,6070
 BusinessTechEconomyCentenary BankHuawei Uganda Ugandan	6311
 BusinessTechZA	4772
 BusinessTelecomsAirtel AfricaFEC5GNigeriaBosun TijaniRead	2472
+Businessdailyafrica.com	20189
 Businessday	9112
 Businessday NG	6838
 Businessday NG L-R	9633
 Businessday.ng.m3u8	6290
-Businesses	1264,326,46,336,16,37,978,100,315,186,334,17,795,75,163,136,123,552,223,133,47,61,464,46,69,156,158,142,80,82,5,58,28,157,231,62,10,71,45,160,149,241,26,1,10,128,96,59,114,58,10,391,23,78,65,55,86,146,41,11,63,175,147,57,38,35,216,6,29,135,885,13,7,141,13,6,148,44,68,32,9,4,13,1,92,51,8,165,89,4,187,86,2,205,24,388,277,70,137,44,17,139,24,20,56,62,180,19,17,11,8,98,57,35,37,116,125,15,293,626,593,72,67,8,1,30,11,16,9,148,15,79,414,12,99,166,248,790,343,100,274,3,86,56,111,15,30
+Businesses	1264,326,46,336,16,37,978,100,315,186,334,17,795,75,163,136,123,552,223,133,47,61,464,46,69,156,158,142,80,82,5,58,28,157,231,62,10,71,45,160,149,241,26,1,10,128,96,59,114,58,10,391,23,78,65,55,86,146,41,11,63,175,147,57,38,35,216,6,29,135,885,13,7,141,13,6,148,44,68,32,9,4,13,1,92,51,8,165,89,4,187,86,2,205,24,388,277,70,137,44,17,139,24,20,56,62,180,19,17,11,8,98,57,35,37,116,125,15,293,626,593,72,67,8,1,30,11,16,9,148,15,79,414,12,99,166,248,790,343,100,274,3,86,56,111,15,30,152,60,72
 Businesses Addresses	11129
 Businesses Businesses	12189
 Businesses Database	16883
@@ -1458,6 +1466,7 @@ Ethiopian Agricultural Business Corporation	14056
 Ethiopian Business Review	12200
 Ethiopian Business Review URL	12200
 Ethiopian Socio-economic Survey Data. Journal of Business	8671
+European Business Institute of Luxembourg	20191
 European Business Organization	789
 European Global Gateway Business Advisory Group	2320
 Every Successful Business Needs	12493
@@ -1660,6 +1669,7 @@ INTERVENTION DIGITAL BUSINESSES PILLAR GENERAL POLICY	16942
 IOSR Journal of Business and Management	7759
 IR Fourth Industrial Revolution BCP Business	19642
 ISACA ITCap Business	9237
+Identity Bus	20221
 Identity Document BUSINESS	10759
 Identity Document Business	10759,1395
 Identity Document Education Business	10835,3,130,902,16,466,1,135,7334
@@ -2050,9 +2060,10 @@ Paper World Bank Ease of Doing Business	19826
 Par DIGITAL BUSINESS AFRICA	11698
 Par Digital Business Africa	3658,217,2400,145,2564,3046,1453,2668
 Parliamentary Business	13387
-Participation Business	10837,1052,263,11,177,1,7312,285
+Participation Business	10837,1052,263,11,177,1,7312,285,274
 Partner's Transferable Interest Business Names	18556
 Partners Cairo Business Plaza	19890
+Partnership Business	20228
 PayAngel Business	11169
 Paystack Small Business Bundle	6848
 Performance Close Mt Pleasant Business Park	1877
@@ -2089,7 +2100,7 @@ Projections and Business Targets	3487
 Provide Business Innovation Support	12675
 Provide Citizens and Businesses	15679
 Príncipe Doing Business Score	18767
-Public Administration Business	10837,1315,188,7598
+Public Administration Business	10837,1315,188,7598,274
 Public Business	18436
 Public Business Sector	15393
 Public Business Sector Companies	15393
@@ -2123,7 +2134,7 @@ Ray Bush and Habib Ayeb	15473
 Red Tape Cripples FG Free Business	10274
 Redefine Business Process Reengineering	13987
 Reference Alon-Barkat and Busuioc2023	8283
-Regional Integration Economic Diversification Business	10837,1315,188,7598
+Regional Integration Economic Diversification Business	10837,1315,188,7598,274
 Register Your Business Our Purpose	12280
 Register Your Business The Name Reservation	12280
 Registrar of Businesses	12906,1814
@@ -2234,6 +2245,7 @@ Simplified Business Licensing Processing	11939
 Singapore Business Federation	3508
 Single Business Win-	16942
 Single Business Window	16942
+Single Window Business Registration Act	20224
 Sistema de Business Intelligence	11898
 Skills and Capabilities Business Acumen	6432
 Slowing Improvement. Business	11888
@@ -2255,6 +2267,7 @@ Social Accounting Matrix SBR Statistical Business	19519
 Social Business and Digital Africa Call for Projects	331
 Social Registry Management Information System Business	16867
 Solar PV REFIT Camelthorn Business Venture	12399
+Sole Proprietorship Business	20228
 Somali Business Establishment Census	15085
 Somali Integrated Business Establishment Survey	15085
 Somali Statistical Business Register	15085
@@ -2430,6 +2443,7 @@ Updated Statistical Business Register Using Administrative	19557
 Use Case. Business Instances	1009
 Use Case. Several Business Instances	1009
 V CHE BUSANGA	15670
+VAT. Businesses	20224
 VI.C Business Register	10812
 Valid Business Registration Certificate	17328
 VaulFi for Business	5159
@@ -2461,7 +2475,7 @@ Warwick Business School	6948
 Wave's Regional Head of Business Development	2940
 Way of Doing Business Connects	11137
 Webinars Business Agents Customs Electronic Licensing	12454
-WhatsApp Business	11033,1850
+WhatsApp Business	11033,1850,7234
 WhatsApp Business Platform. Désormais	10685
 WhatsApp for Business	11018,15
 Whether the Government Bus	8798

@@ -46,7 +46,7 @@ AO TECHNOLOGY GROUP LIMITED Data Processor	7167
 AOM Group	16285
 APN GROUP LIMITED Data Controller INST-5645818C340	7167
 APN GROUP LIMITED Data Processor INST-5645818C340	7167
-APO Group	2807,5160,1535,3015,2075,76,21,2089,6,1958,1076
+APO Group	2807,5160,1535,3015,2075,76,21,2089,6,1958,1076,234
 APO Group. ABIDJAN	14689
 APONN-SOKO GROUP LIMITED Data Controller INST-98208091214	7167
 AROPE GROUP LIMITED Data Processor INST-446058ED2F9	7167
@@ -73,7 +73,7 @@ AYNA HEALTH GROUP LIMITED Data Controller	7167
 Abbreviation Affiliation Role Development Data Group	15844
 Abock Mnam Traditional Dance Group	17240
 About EMTEL Ltd A Currimjee Group	12132
-About ID4D The World Bank Group	10812,1722,2881
+About ID4D The World Bank Group	10812,1722,2881,4806
 About KP Group	12576
 About Ooredoo Ooredoo Group	19446
 About Raxio Group	19610
@@ -81,7 +81,7 @@ About Raxio Group Raxio Group	11914
 About Sudatel Telecommunications Group Founded	15284
 About Ultranet Telecom Group Ultranet Telecom	16412
 About Vista Group Vista Group	18507
-About the African Development Bank Group	16778
+About the African Development Bank Group	16778,3274
 Abridged and Main Report the Expert Group	582
 Absa Group	7567,375,2276,316
 Absa Group CEO Kenny Fihla	7639,6630
@@ -132,7 +132,7 @@ Africa. World Bank Group Page	10768
 Africa. World Bank Group. Bastagli	10768
 AfricaNenda and Equity Group	7073
 African Caucus World Bank Group Meeting	17235
-African Development Bank Group	1715,415,677,4,54,92,1186,71,626,130,381,1530,571,755,320,935,1,442,317,493,3,419,726,1114,87,365,509,147,34,2059,1,40,149,410,6,321,130,304,401,58,59,9,81,715,158,799,218,7
+African Development Bank Group	1715,415,677,4,54,92,1186,71,626,130,381,1530,571,755,320,935,1,442,317,493,3,419,726,1114,87,365,509,147,34,2059,1,40,149,410,6,321,130,304,401,58,59,9,81,715,158,799,218,7,8
 African Development Bank Group Amb. Baba	7452
 African Development Bank Group Approves	11310,7552
 African Development Bank Group Avenue Joseph	10718
@@ -450,6 +450,7 @@ Chief Executive Officer MTN Group Limited	7198
 Chief Executive Officer of MTN Group Fintech	17728
 Chief Executive Officer of Raxio Group	19610
 Chief Executive Officer of Sonatel Group and Chairman	4114
+Chil Group	20081
 Child Participation Technical Working Group	12977
 Children Coordination A. Technical Working Group	12977
 China Media Group	4880,10725
@@ -821,6 +822,7 @@ Finance and Institutions Practice Group	13331
 Fink. Oracle Group Eswatini Head of People	13233
 Fintech Group	6563
 Fintech Group Product Manager Mr. Joshua	14555
+Fintech du Groupe MTN. Face	20059
 FirstRand Group	1404
 Fiscale Fonds Monétaire International Groupement Inter	16328
 Fishing Grounds	17114
@@ -846,6 +848,7 @@ Forensics Group Publications	12361
 Forestry Group	17260
 Formation of Big Data Technical Working Group	19519
 Formulate Big Data Technical Working Group	19519
+Founder and CEO of Chil Group	20081
 Founder and Chief Executive Officer of ARED Group	11834
 Founder and Group CEO of Interswitch	9359
 Founder and Group CEO of Moniepoint	2310
@@ -986,6 +989,7 @@ Government Ministère de Chairs the Local Education Group	11916
 Government of Lesotho Annual Expert Group Meeting	12761
 Government-Bank Working Group	19664
 Governmental Action Group	7452
+Grant for Vulnerable Groups	20176
 Graphic Communications Group Ltd	9536
 Green Blood Group	4924,43,1,24,5,149,184,11483
 Grievance Mechanism. Vulnerable Groups	18504
@@ -1026,7 +1030,7 @@ Groundbreaking Framework for Innovation	14748
 Groundbreaking Guide For Lawyers	11654
 Groundbreaking NBO2 Sameer Jan	594
 Grounded	2100,13,2093,1036,3218,2872,146,1564,854,35,743,248,282,1920,1440
-Grounding	5081,4042,1065,3273,95
+Grounding	5081,4042,1065,3273,95,6559
 Grounding AI	6793,6856
 Grounding ID	15518
 Grounding LLMs. Available	13461
@@ -1047,7 +1051,7 @@ Groundwater Storage Anomalies	17157
 Groundwater Storage HDX Humanitarian Data Exchange	17157
 Groundwater and Boreholes	1988
 Grouos	19585
-Group	157,65,1,1,3,3,88,91,16,148,10,167,13,9,1,14,184,3,5,8,5,1,3,7,10,10,1,119,54,87,294,192,1,7,40,81,45,44,59,42,537,149,708,121,31,79,139,45,159,95,62,118,28,252,65,75,144,240,15,1,453,71,1,3,100,320,77,55,154,37,116,249,60,50,43,5,1,126,131,38,249,165,219,158,2,1,1,86,1,1,3,21,54,227,8,75,90,124,290,382,46,133,61,24,100,62,1,79,144,140,28,1,404,117,1,28,17,8,26,25,119,1,155,2,110,267,65,246,58,119,228,83,5,56,55,31,68,22,226,212,59,5,1,57,217,150,45,16,112,144,62,181,119,183,64,18,281,21,37,145,8,4,1,154,113,54,61,88,14,2,85,80,51,84,37,23,1,211,6,66,14,132,9,30,7,188,149,215,124,42,8,307,110,212,41,123,380,331,34,68,354,335,149,52,9,189,9,14,35,101,84,150
+Group	157,65,1,1,3,3,88,91,16,148,10,167,13,9,1,14,184,3,5,8,5,1,3,7,10,10,1,119,54,87,294,192,1,7,40,81,45,44,59,42,537,149,708,121,31,79,139,45,159,95,62,118,28,252,65,75,144,240,15,1,453,71,1,3,100,320,77,55,154,37,116,249,60,50,43,5,1,126,131,38,249,165,219,158,2,1,1,86,1,1,3,21,54,227,8,75,90,124,290,382,46,133,61,24,100,62,1,79,144,140,28,1,404,117,1,28,17,8,26,25,119,1,155,2,110,267,65,246,58,119,228,83,5,56,55,31,68,22,226,212,59,5,1,57,217,150,45,16,112,144,62,181,119,183,64,18,281,21,37,145,8,4,1,154,113,54,61,88,14,2,85,80,51,84,37,23,1,211,6,66,14,132,9,30,7,188,149,215,124,42,8,307,110,212,41,123,380,331,34,68,354,335,149,52,9,189,9,14,35,101,84,150,187
 Group A	10785
 Group A Group Option Response	19887
 Group A and B Bids	13185
@@ -1173,6 +1177,7 @@ Group Meeting	8050,1722
 Group Meeting for Registrar Generals	16520
 Group Meetings Beneficiaries’ Brunch Retire	11131
 Group Meetings CBE	11131
+Group Members	20232
 Group Min Average Max Median Min	17743
 Group N	15372
 Group NGO Non-Governmental Organizations NGSC National	18904
@@ -1255,7 +1260,7 @@ Group. The Group	4360
 Group1 and Group	12361
 GroupBy	4434
 Groupage	19226
-Groupe	24,90,529,94,788,154,219,444,282,184,56,83,23,257,230,201,309,72,88,35,798,203,722,390,145,79,8,376,713,27,32,182,158,242,316,202,136,515,51,23,39,329,356,296,135,186,56,47,20,1000,1316,40,90,43,9,10,30,40,57,62,74,134,78,283,215,4,43,1002,19,5,59,42,6,47,70,24,102,45,2,47,23,47,35,28,18,82,19,56,73,45,47,67,47,97,7,13,802,70,299,65,14,46,41,31,5,44,13,1,28,13,82,67,19,24,2,4,8,63,518,245,197,1,2,3
+Groupe	24,90,529,94,788,154,219,444,282,184,56,83,23,257,230,201,309,72,88,35,798,203,722,390,145,79,8,376,713,27,32,182,158,242,316,202,136,515,51,23,39,329,356,296,135,186,56,47,20,1000,1316,40,90,43,9,10,30,40,57,62,74,134,78,283,215,4,43,1002,19,5,59,42,6,47,70,24,102,45,2,47,23,47,35,28,18,82,19,56,73,45,47,67,47,97,7,13,802,70,299,65,14,46,41,31,5,44,13,1,28,13,82,67,19,24,2,4,8,63,518,245,197,1,2,3,746
 Groupe AFD	12427,833
 Groupe Actis	10975
 Groupe Africain	17824
@@ -1413,7 +1418,7 @@ GÉNÉRAL Département de Brazzaville BRAZZA HOSPITALITY GROUP	16177
 HAIP Friends Group	8821
 HDP Groupes Armés Terroristes	643
 HEURES PRINCIPES D’ANIMATION D’UN GROUPE	13390
-HISP Group	12180
+HISP Group	12180,8035
 HOMMES Groupe	13300
 HTA Group Ltd	460,56,918
 Habone Construction Group	4774
@@ -1476,7 +1481,7 @@ IDA19 du Groupe	15474,19
 IEG Independent Evaluation Group	19847
 IEG Independent Evaluation Group IRR Internal	19988
 IGAD-RAD Expert Technical Working Group and Steering	14434
-IGME United Nations Inter-agency Group for Child	10759,76,2,1,130,902,16,3,451,12,1,135,7334
+IGME United Nations Inter-agency Group for Child	10759,76,2,1,130,902,16,3,451,12,1,135,7334,390
 IHS Group	10793
 IHS Holding Limited MTN Group Limited	7198
 IHS Towers Group	45
@@ -1698,7 +1703,7 @@ Liquidity Working Group	17138,97
 List of Abbreviations Group Cash Transfers	6947
 List of TRS Technical Working Group Members	17367
 Load Shedding Groups	12213
-Local Education Group	11905,270,1029,2400,1248,2059
+Local Education Group	11905,270,1029,2400,1248,2059,1306
 Local Education Group M&E	12175
 Local Education Group M&E Monitoring and Evaluation	18765
 Local Education Group of Malawi	12175
@@ -1833,7 +1838,7 @@ Masimong Group Holdings	14366
 Masimong Group Holdings and Draper Gain International	10735
 Masiyiwa's Econet Group	5847
 Masiyiwa’s Econet Group	6909
-Maternal Mortality Estimation Inter-agency Group UNAIDS	10759,76,2,1,130,902,16,3,451,12,1,135,7334
+Maternal Mortality Estimation Inter-agency Group UNAIDS	10759,76,2,1,130,902,16,3,451,12,1,135,7334,390
 Maternal and Child Nutrition Study Group	15725
 Matter Expert TOGAF The Open Group	12917
 Mauritius-based Invictus Group. All	14897
@@ -2332,6 +2337,7 @@ Somaf Group	5710
 Somaf Group Kindu	5710
 Somalia Phase II World Bank Group	109
 Somalia Submarine Cable Technical Working Group	15216
+Sommet Fintech du Groupe MTN	20059
 Sona Asset Management and The Raptor Group	9098,247,1
 Sonatel Group	1143,405,2641,1720,12618
 Sonatel Group Annual CapEx	1143,405
@@ -2654,7 +2660,7 @@ WEILY KAKIMBO GROUP SA	16623
 WFP Technical Working Group	12297
 WHISP and Open Foris Ground	15951
 WILLIAM GROUPE	16425
-WIOCC Group	284,608,628,33,1052,1324,3137,3098,4223,18,279
+WIOCC Group	284,608,628,33,1052,1324,3137,3098,4223,18,279,5407
 WIOCC Group Equity Investment	892
 WIOCC Group Sustainability-Linked Debt Facility	1520
 WORKING GROUPS	17157
@@ -2720,7 +2726,7 @@ World Bank Aoukal Group	18887
 World Bank Country and Lending Groups	10785,219
 World Bank Development Economics Data Group	15620
 World Bank Executive Director Africa Group	11134
-World Bank Group	166,155,8,83,124,16,14,7,4,2,160,50,180,12,235,74,461,77,39,159,447,204,139,345,212,210,21,523,87,151,159,960,186,30,337,3,211,129,159,393,53,412,29,122,107,231,592,601,654,1,1,24,112,71,42,674,56,4,50,12,5,27,7,22,15,25,3,17,62,1,21,19,127,3,2,1,12,49,38,35,39,70,37,51,7,1,10,39,20,7,20,283,2,22,39,5,1,41,162,31,17,17,61,4,21,19,38,78,88,33,7,118,4,84,57,34,95,23,6,6,17,138,62,71,56,2,17,1,25,38,36,92,9,60,32,202,42,63,7,65,14,76,23,160,63,6,111,120,26,1,24,15,6,21,5,55,148,20,32,135,100,80,3,125,5,34,4,9,23,26,1,4,2,11,2,20,1,1,3,35,68,38,4,62,18,240,41,22,13,85,1,43,1,12,18,165,51,7,1,70,113,28,120,102,20,26,27,14,3,30,72,37,9,25,18,23,55,117,1,171,338,7,1,187,229,7,1,7,17,138,51,3,1,6,10,17,20,10,9,33,10,118,10,55,42,36,23,21,24,27,38,63,138,16,8,31,8,171,33,114,43,94,96,3,1,8,96
+World Bank Group	166,155,8,83,124,16,14,7,4,2,160,50,180,12,235,74,461,77,39,159,447,204,139,345,212,210,21,523,87,151,159,960,186,30,337,3,211,129,159,393,53,412,29,122,107,231,592,601,654,1,1,24,112,71,42,674,56,4,50,12,5,27,7,22,15,25,3,17,62,1,21,19,127,3,2,1,12,49,38,35,39,70,37,51,7,1,10,39,20,7,20,283,2,22,39,5,1,41,162,31,17,17,61,4,21,19,38,78,88,33,7,118,4,84,57,34,95,23,6,6,17,138,62,71,56,2,17,1,25,38,36,92,9,60,32,202,42,63,7,65,14,76,23,160,63,6,111,120,26,1,24,15,6,21,5,55,148,20,32,135,100,80,3,125,5,34,4,9,23,26,1,4,2,11,2,20,1,1,3,35,68,38,4,62,18,240,41,22,13,85,1,43,1,12,18,165,51,7,1,70,113,28,120,102,20,26,27,14,3,30,72,37,9,25,18,23,55,117,1,171,338,7,1,187,229,7,1,7,17,138,51,3,1,6,10,17,20,10,9,33,10,118,10,55,42,36,23,21,24,27,38,63,138,16,8,31,8,171,33,114,43,94,96,3,1,8,96,274,4,2,13
 World Bank Group Annual Meetings	14774
 World Bank Group Approach	10714,292,1437
 World Bank Group Approach. Digital	11310

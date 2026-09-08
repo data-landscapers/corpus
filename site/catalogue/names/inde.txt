@@ -319,6 +319,7 @@ Data Subject's Vulnerability Indexes	11956
 Data Subject's Vulnerability Indexes Schedule	11956
 Data Subjects' Vulnerability Indexes	11956
 David Indeje	9648,598,7535
+Debt Index	20204
 Decadal Index of Drought Stress	17157
 Declaring Independence	6562
 Definition The Global Cybersecurity Index	20009
@@ -521,7 +522,7 @@ GII Index. Low-Income	12159,192
 GII Index. Lower-Middle-Income	10969,915,11,265,327,7375
 GII Index. Upper-Middle-Income	11885,470
 GOVTECH MATURITY INDEX	10785
-GPI Gender Parity Index	14916
+GPI Gender Parity Index	14916,5301
 GPI Gender Parity Index HDI Human	15604
 GPI Gender Parity Index ICT Information	13990
 GSMA Digital Africa Index	14674,5292
@@ -557,7 +558,7 @@ Gender Gap Index. Inequality	18301
 Gender Index	643,11220
 Gender Index. Paris	15604
 Gender Inequalities Index	16951
-Gender Inequality Index	10829,757,1728,1722,479,143,3,64,659,565,17,996,496,351,430,45
+Gender Inequality Index	10829,757,1728,1722,479,143,3,64,659,565,17,996,496,351,430,45,939
 Gender Inequality Index GMD	16951
 Gender Inequality Index Government of Congo Green	15553
 Gender Inequality Index UN Human Development	11004,960
@@ -566,9 +567,10 @@ Gender Inequality Index of Cameroon	10963,1
 Gender Inequality Index. Human Development Reports	15725
 Gender Inequality Index.15	13331
 Gender Inequality Index.17 Gender	15658
-Gender Parity Index	12199,2717,688,57,2799,1082,446
+Gender Parity Index	12199,2717,688,57,2799,1082,446,229
 Gender Parity Index ICT	12175
 Gender Parity Index IDA International Development	14896
+Gender Parity Indexes	20217
 General Authority for Regulation IPP Independent Power	18851
 Generation ESI Evaporative Stress Index ET	17157
 Geraldo Raul Indeque	17338
@@ -744,7 +746,7 @@ Human Capital Index and Sub-components Comparison	17870
 Human Capital Index for Burundi	19657
 Human Capital Index.35	10856
 Human Capital Indexes	15658,1456
-Human Development Index	3583,7421,397,124,20,15,21,5,378,975,419,599,785,155,617,4,32,111,64,659,558,24,7,316,214,346,34,79,496,158,43,128,22,78,24,735,75,118
+Human Development Index	3583,7421,397,124,20,15,21,5,378,975,419,599,785,155,617,4,32,111,64,659,558,24,7,316,214,346,34,79,496,158,43,128,22,78,24,735,75,118,384
 Human Development Index HIV	14857,2094
 Human Development Index Ranking	18911
 Human Development Index of The Gambia	16952
@@ -837,7 +839,7 @@ INSTRUCTIONS ON THE INDEPENDENT SYSTEM AUDIT	16843
 IPF Investment Project Financing IPP Independent	11549
 IPF Investment Project Financing IPPs Independent	11380
 IPF Investment Project Financing IPR Independent	19245
-IPP Independent Power Producer	16037,2577
+IPP Independent Power Producer	16037,2577,1609
 IPP Independent Power Producer IRR Internal	15515
 IPP Independent Power Producer IT Information	10781,1646,2055
 IPP Independent Power Producer LAMC Liability	12233
@@ -861,7 +863,7 @@ ITU’s Global Cybersecurity Index Penetration of ICT	6946
 IUT Network Readiness Index	16641
 IV OPERATIONAL INDEPENDENT POWER PRODUCER	12399
 IVA Independent Verification Agency LAYS Learning-Adjusted	19988
-Ibrahim Index of African Governance	5879,4880,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,3012,1473,2679,1,169,14,22,1,65,14,1,48
+Ibrahim Index of African Governance	5879,4880,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,3012,1473,2679,1,169,14,22,1,65,14,1,48,225
 Ibrahim Index of African Governance LACC Liberia	17139
 Ibrahim Index of African Governance. III.3.3. Ejes	16898
 Identification Personnel NRI Network Readiness Index	15583
@@ -885,7 +887,7 @@ Indecent Content	18667,8
 Indecis Q56 Pensez-vous	13390
 Indecis Q57 Pensez-vous	13390
 Indecisive	10841
-Indeed	27,209,530,23,210,162,51,151,449,213,908,72,432,167,178,138,207,312,108,301,35,87,393,370,159,497,88,357,104,12,429,43,4,45,207,208,52,347,437,256,9,344,321,661,189,212,4,45,1,67,10,15,3,22,59,15,5,5,2,61,22,51,32,3,4,14,1,149,6,114,101,20,18,102,244,7,44,42,168,159,10,30,72,147,367,85,2,225,47,73,10,64,220,535,450,57,21,116,75,480,63,93,3,30,18,36,21,240,270,195,468,20,30,25,15,21,12,105,47,220,266,2,128,127,234,197,4,13,137,9,11,295,161,2,304,11,77,194,23,13,47,31,6,27,169,12,90,33,4,28
+Indeed	27,209,530,23,210,162,51,151,449,213,908,72,432,167,178,138,207,312,108,301,35,87,393,370,159,497,88,357,104,12,429,43,4,45,207,208,52,347,437,256,9,344,321,661,189,212,4,45,1,67,10,15,3,22,59,15,5,5,2,61,22,51,32,3,4,14,1,149,6,114,101,20,18,102,244,7,44,42,168,159,10,30,72,147,367,85,2,225,47,73,10,64,220,535,450,57,21,116,75,480,63,93,3,30,18,36,21,240,270,195,468,20,30,25,15,21,12,105,47,220,266,2,128,127,234,197,4,13,137,9,11,295,161,2,304,11,77,194,23,13,47,31,6,27,169,12,90,33,4,28,59
 Indeed NBR	15023
 Indefeasible Right of Use	7014,5239,6992
 Indefeasible Rights of Use	4676,10289
@@ -924,7 +926,7 @@ Indepen- Artigo	18896
 Independamment	15584
 Independance	18430
 Independant Power Producer MEFP Ministère	15769
-Independence	718,502,2166,116,359,1035,2216,62,277,1202,929,731,27,35,756,1196,62,564,6,336,19,163,471,493,105,231,85,1394,29,558,18,55,69,256,123,254,602,214,171,64,450,832
+Independence	718,502,2166,116,359,1035,2216,62,277,1202,929,731,27,35,756,1196,62,564,6,336,19,163,471,493,105,231,85,1394,29,558,18,55,69,256,123,254,602,214,171,64,450,832,190
 Independence AC	13298
 Independence Anniversary	13024,6039,1
 Independence Anniversary. Awoonor	5277
@@ -1030,7 +1032,8 @@ Independent Directors Mr. Eric Langat	6946
 Independent Dispute Resolution	12597
 Independent Economic Regulator	11236
 Independent Editor	11909
-Independent Electoral Commission	2541,891,1933,276,555,846,2272,1,60,687,252,904,26,742,68,502,10,86,101,3,4131,64,22,132,2564
+Independent Election Commission	20221
+Independent Electoral Commission	2541,891,1933,276,555,846,2272,1,60,687,252,904,26,742,68,502,10,86,101,3,4131,64,22,132,2564,560
 Independent Electoral Commission Adv	12652
 Independent Electoral Commission IEC	16951
 Independent Electoral Commission Mr. Mphasa Mokhochane	12652
@@ -1060,7 +1063,7 @@ Independent Government Institute Implementing Agency Country	4653
 Independent Grids and Off-grid Solutions	19646
 Independent Human Rights Commission	16840
 Independent IT Security Audit	14996
-Independent Information Commission	5244
+Independent Information Commission	5244,14905
 Independent Information Commission IIPS	5244
 Independent Information Commissioner	16840
 Independent Institute of Education	2307
@@ -1082,7 +1085,7 @@ Independent Monitoring Mechanism PART II	14743
 Independent Monitoring and Evaluation Framework	11857
 Independent Monitors	18464
 Independent National Commission	14862,2081,27,326
-Independent National Electoral Commission	2670,3452,567,81,406,572,692,547,403,659,5,200,317,558,735,5766,304,54
+Independent National Electoral Commission	2670,3452,567,81,406,572,692,547,403,659,5,200,317,558,735,5766,304,54,2138
 Independent National Electoral Commission Local Government	19541
 Independent New ID	19815
 Independent News	2885,1650,350,49,187,653,25,474,547,1,222,5934
@@ -1426,6 +1429,7 @@ Nations Unies Index	15512
 Nations and Society Index	14674
 Nature Indemnisable	15901
 Neasow Davis Independent Consultant Report Writing	17260
+Neighbourhood Lifestyle Index	20201
 Network Readiness Index	11195,662,476,341,2078,1889,1219,10,1881
 Network Readiness Index Country Comparison	11857
 Network Readiness Index Model	11857
@@ -1671,7 +1675,7 @@ Rwanda Global Cybersecurity Index	10764
 Rwanda’s AI Readiness Index	4126
 SAIDI System Average Interruption Duration Index	18614
 SAIFI System Average Interruption Frequency Index	18614
-SDG Index	10759,76,2,1,74,56,902,16,1,1,1,265,186,1,11,1,135,4801,2364,169,14,23,65
+SDG Index	10759,76,2,1,74,56,902,16,1,1,1,265,186,1,11,1,135,4801,2364,169,14,23,65,288
 SDG Index Score Fig	15725
 SINNAR STATE MULTIDIMENSIONAL POVERTY INDEX	15244
 SME Confidence Index	9881
@@ -1751,6 +1755,7 @@ Statistics Consumer Price Index Dimensions	14777
 Statistics Price Index	2775
 Statistics South Africa. Producer Price Index	11258
 Statistique IPP Independent Power Producer GRT	10975
+Stats SA Consumer Price Index	20055
 Statutory Corporations PPI Producer Price Index	19519
 Sterling Overnight Index Average	13185
 Stoves IPP Independent Power Producer JADF	14947

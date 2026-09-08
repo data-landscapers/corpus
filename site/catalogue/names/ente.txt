@@ -255,7 +255,7 @@ Ensure State Owned Enterprises	19602
 Ente Nazionale Idrocarburi	15969
 Ente Pú	16855
 Ente Público	16855
-Entebbe	1844,4353,2,8,20,425,1380,320,1036,308,359,2264,7,964,1194,846,4,4295,3,1,9,18,51,2,2,54,31
+Entebbe	1844,4353,2,8,20,425,1380,320,1036,308,359,2264,7,964,1194,846,4,4295,3,1,9,18,51,2,2,54,31,269,9
 Entebbe Airport	2675
 Entebbe Airport Smuggling Ring Busted	3955
 Entebbe Express Way	19641
@@ -272,7 +272,7 @@ Entenda	2816
 Entende	18784
 Entende-se	10757,631,3971,33,41,43,546,100,2653
 Entendem-se	18764
-Entendemos	16487
+Entendemos	16487,3622
 Entender	11569
 Entendimento da AGER	18784
 Entendimentos Comuns	11564
@@ -293,6 +293,7 @@ Enter Premises	16921
 Enter The Green Blood Group	4997
 Enter the Africa Data Leadership Initiative	6352
 Enter the IT3	11276
+Enter the Pan-African Payment and Settlement System	20203
 Enter the Signature Key	16038
 Enter the URL	13333
 Entered	1234,3013,55,6411,1962,1734,4504,1
@@ -515,6 +516,7 @@ Gemini Enterprise	5256,479,1,1
 Ghana Enterprise	4126
 Ghana Enterprise AI	4126
 Ghana Enterprise Agency's High Growth Programme	19966
+Ghana Enterprise Authority	20182
 Ghana Enterprise Land Information System	19981
 Ghana Enterprise Land Information System LC	15657
 Ghana Enterprises Agency	11032
@@ -531,7 +533,7 @@ Government Enterprise Architecture Framework	5994,11286,114
 Government Enterprise Architecture. TOGAF	19638
 Government Enterprise Service Bus	4612,140,8584,10,977,5210,49,23
 Government Enterprise Service Bus and Secure	19576
-Government Enterprise and Empowerment Programme	5267
+Government Enterprise and Empowerment Programme	5267,14909
 Government Investment and Public Enterprise	14546
 Government Investment and Public Enterprises	14546
 Government Platform EA Enterprise Architecture EAF	12359
@@ -738,6 +740,8 @@ Networking Services Enterprise	9455
 Nigeria Government Enterprise Architecture	5560,165,2698
 Nigeria NGWANA ENTERPRISES Botswana Northern Innovation	15460
 Nigeria’s Youth Enterprise	16949
+Nightigale Enterprises	20189
+Nightigale Enterprises Limited	20101
 Notice of Entering Into	1539
 Number of Business Enterprises	12445
 Number of Enterprise	14840
@@ -882,7 +886,7 @@ Small and Medium Enterprise MTO Money Transfer	19940
 Small and Medium Enterprise NDP National Development	19646
 Small and Medium Enterprise NaFAA National Fisheries	17139
 Small and Medium Enterprise SDM Single Digital	16144
-Small and Medium Enterprises	940,30,161,117,16,724,1772,768,1355,1063,157,445,1122,447,12,294,1433,194,81,134,1217,30,189,37,184,34,22,144,190,2,129,242,339,175,347,101,27,223,656,890,97,598,1922,652,97,17,114
+Small and Medium Enterprises	940,30,161,117,16,724,1772,768,1355,1063,157,445,1122,447,12,294,1433,194,81,134,1217,30,189,37,184,34,22,144,190,2,129,242,339,175,347,101,27,223,656,890,97,598,1922,652,97,17,114,128
 Small and Medium Enterprises Act	14843
 Small and Medium Enterprises Develop	14717
 Small and Medium Enterprises Development	940,6496,825,3041,2289,82
@@ -946,14 +950,14 @@ State Owned Enterprises	789,12167,5869
 State Owned Enterprises SG Statistician General	11192
 State Owned Enterprises and CEOs	12557
 State Portfolio and Public Enterprises	11695
-State-Owned Enterprise	1228,2145,5598,99,1081,1079,2151,487,1279,406,1389,1883
+State-Owned Enterprise	1228,2145,5598,99,1081,1079,2151,487,1279,406,1389,1883,1295
 State-Owned Enterprise Governance	13868
 State-Owned Enterprise Great Horn Investment Holding	13868
 State-Owned Enterprise Reform Task Team	11131,3
 State-Owned Enterprise Reforms	16944
 State-Owned Enterprise SOP Standard Operational Procedure	17105
 State-Owned Enterprise SSA Sub-Saharan Africa TB	11271
-State-Owned Enterprises	6071,1624,2374,82,475,505,3,90,1374,370,92,625,183,678,190,17,75,2,1,316,836,959,9,188,89,32,633,607,77,1025,221,114
+State-Owned Enterprises	6071,1624,2374,82,475,505,3,90,1374,370,92,625,183,678,190,17,75,2,1,316,836,959,9,188,89,32,633,607,77,1025,221,114,183
 State-Owned Enterprises Commission	4519,24,12583,20
 State-Owned Enterprises Commission Updates President Barrow	17124
 State-Owned Enterprises Reform	13685

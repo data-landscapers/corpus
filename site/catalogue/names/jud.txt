@@ -241,7 +241,7 @@ Judge of Appeal	13504
 Judge. Finding	18918
 Judge. Keeping	9809
 Judged	8015,2194
-Judgement	14742
+Judgement	14742,5409
 Judgements	11240,5733
 Judges	958,2756,1004,282,3460,518,638,2585,342,67,58,254,33,17,124,1,407,444,15,45,401,2438,96,29,1569,74,1040
 Judges Pitch Deck Must Include	13168
@@ -324,13 +324,14 @@ Judicial Power	16943,498
 Judicial Powers	13948
 Judicial Procedures Already Digitized	13253
 Judicial Proceedings and Costs	16949
-Judicial Processes	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Judicial Processes	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 Judicial Professional and Operational Gap Analysis	16943
 Judicial Redress	18595
 Judicial Reform	15231
 Judicial Reform Committee	18631
 Judicial Reforms	13474
 Judicial Reforms The Judiciary	12668
+Judicial Resources	20097
 Judicial Retreat	16943
 Judicial Retreat Agenda	16943
 Judicial Retreat Report	16943
@@ -357,8 +358,8 @@ Judicial Strategic Plan	16943
 Judicial Strategic Plan Results Framework	16943
 Judicial Strategic Plans	16943
 Judicial Studies	14685
-Judicial System	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
-Judicial System Judicial Processes Equality	10759,78,1315,188,7598
+Judicial System	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
+Judicial System Judicial Processes Equality	10759,78,1315,188,7598,274
 Judicial System Slowing Improvement Not Classified	11870
 Judicial Training Institute	10563,2941,3439
 Judicial Training Institute Availability	16943
@@ -485,6 +486,7 @@ LPF. PROCEDURES FOR REGISTRATION OF JUDICIAL	12338
 La Première Ministre Judith Suminwa Tuluka	16018,317
 Lagos State Judiciary	8978
 Latest Headlines WASPAN Appeals Judgement Upholding	7776
+Law Enforcement and Judiciary Authorities	20220
 Law of Judicial Organisation	12161
 Le Casier Judiciaire Central	16684
 Legal Information and Judicial Decision Publishing System	19137,1

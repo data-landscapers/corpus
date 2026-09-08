@@ -104,7 +104,7 @@ Bulk Petroleum Storage Facility Licence D100	17250
 Business Licence	18448
 Business Licence Demand Notice. Can	18448
 Business Licences	9437
-Business License	18448
+Business License	18448,1727
 Business License Act	14891
 Business License Application	18935
 Business License Fees TZS	19585
@@ -131,6 +131,7 @@ CBR Unit Statistics Mauritius LIC Building	14840
 CBoS Officially Revokes Al-Asjad Company's License	15226
 CED License	7551
 CEOs of Licensed MNOs and ISPs	4613,4864
+CERTIFICATES FEES Civil Marriage Licence Form	20213
 CHAPITRE VII CONDITIONS DE LA LICENCE	15943,352
 CHAPTER TEN Licenses	15484
 CHARGES The Licensee	15149
@@ -167,6 +168,7 @@ Cellular Network Operator License	18444
 Cellular Network Operator License The Telecommunications	18444
 Chapter IV Licensing Services	15340
 Chief Licensing Officer	11053
+Church Licence D1	20213
 Ciclos de Estudo de Licenciatura	17103
 Citations and Acknowledgement The LICENSOR	18904
 Class B Banking Licence	14717
@@ -222,6 +224,7 @@ Cosmetic Wholesale Licence	18541
 County Licensing Uniform Procedures Act	9852
 Creative Commons Attribution International License	11927
 Creative Commons Attribution License	8376,2543,1084,228,15,1877,543,1358,3950
+Creative Commons Attribution License CC-BY	20219
 Creative Commons Licences	14723
 Creative Commons License	13425
 Cumulative Broadcasting Licensees	6946
@@ -289,22 +292,24 @@ Documentação Jurídica. Projecto de Licença	18753
 Dr. Licky Erastus	12986
 Drillers and Constructor License	1988
 Driver Licence	10714
-Driver License	14647
+Driver License	14647,5574
 Driver License Management	17142
 Driver Licensing	5645
 Driver Vehicle and Licensing Authority	16405
 Driver and Vehicle Licensing Authority	2714,3256,2399,558
 Driver and Vehicle Licensing Authority. Industry	6177
 Driver's Licence	19839,96
-Driver's License	16983,1469,1484
+Driver's License	16983,1469,1484,285
 Drivers Licence ZRCP TBA	1988
-Drivers License	16841
+Drivers License	16841,3380
+Drivers License System	20221
 Drivers and Vehicles Licensing Authority	19966
 Driver’s License	10765,10
 Driver’s Licenses	16949
 Driving Licence Card Account	4554
 Driving License	12328,2434
 Driving License Exam Results	12333
+Driving License Issuance	20221
 Drugstore Licence	18541
 Duplicate of Driving License	12333
 E LICENÇAS AMBIENTAIS	11898
@@ -1159,6 +1164,7 @@ Procedures of Issuance of Licenses	15484
 Procurement of Genuine Software License for Microsoft Office	16927
 Procuring Licecnces	12917
 Procuring Licecnces Quick	12917
+Professional Licence	20175
 Progress Simplified Licensing Framework	14947
 Prohibition of Use of License	762
 Project Cyber Management Licensing Empowerment Development	6946
@@ -1403,6 +1409,7 @@ Trademark Licensing Procedures	12389
 Trading License	13249
 Trading License Fees	12452
 Trading License Holders	6408
+Trading License Official	20228
 Trading License Process Steps	12349
 Transaction Driver License Per Individual	18450
 Transfer of Spectrum Licences	1750
@@ -1457,6 +1464,7 @@ Validation.2 License	16719
 Value-Added Service Licensees	3862
 Veeam Licensing Renewal	11209
 Vehicle License Service	18935
+Vehicle Ownership Licence	20175
 Vehicle Registration and Driver Licensing	2576
 Vehicle Registration and Licensing	5645
 Vendor Licence	7551

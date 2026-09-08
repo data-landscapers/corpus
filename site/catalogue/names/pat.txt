@@ -53,6 +53,7 @@ B. Patent	7845
 BARAK PATHWAYS LIMITED Data Controller INST-263988231E0	7167
 BBC News Arabic and Patricia Whitehorne	15252
 BP-2024 Path	16883
+BREAK THE PATTERN	20232
 BURKINA FASO La Patrie	8321,8170
 Backup. PPPC CEO Patrick Kabambe	1632
 Badanam Patoki	8719,36
@@ -97,7 +98,7 @@ CPA Patrick Mwati	6946
 CREST Pathway	4791
 CSP and SI Certification Pathway	11995
 Cabinet Business President Dr. Patrick Herminie	19073,64
-Cabinet Patrick Kangwa	7223,6419
+Cabinet Patrick Kangwa	7223,6419,6478
 Cameroon's PATNUC and DRC	1725
 Capacity Pathway	12457
 Care Services and Patient Care	12606
@@ -614,6 +615,7 @@ Patcharanarumol W	19889
 Patches	10721,6419
 Patchy	14896,268,178
 Pateh Jah	15320
+Pateh Sowe	20235
 Patel	6241,1037,1850,2012,787,265,170,4282
 Patel A. SMARTHealth India	1219
 Patel Hachitema	9792
@@ -690,7 +692,7 @@ Pathologist and Paediatrician	12972
 Pathology	12984
 Paths	1243,2641,7122,2862
 Paths Toward Integrated Governance and ODH	14666
-Pathway	7548,3581,1328,2288,1467,2003,1663,110
+Pathway	7548,3581,1328,2288,1467,2003,1663,110,235
 Pathway Advisors	8186,456
 Pathway Advisors Limited	8186,456
 Pathways	2957,1891,1299,415,230,1390,1777,129,627,53,375,171,964,419,446,1329,752,2249,828,319,951
@@ -769,7 +771,7 @@ Patient-generated	10188
 Patient-records	15156
 Patient-specific	9855
 Patient2Vec	8606
-Patients	21,3583,1031,743,7,1009,757,613,372,469,1250,683,103,188,52,697,7,51,17,315,22,252,735,496,1214,34,690,807,111,393,180,809,173,353,122,867,784
+Patients	21,3583,1031,743,7,1009,757,613,372,469,1250,683,103,188,52,697,7,51,17,315,22,252,735,496,1214,34,690,807,111,393,180,809,173,353,122,867,784,71
 Patients Registered	7322
 Patients Screened for TB	12977
 Patients Suffer	12227
@@ -790,7 +792,7 @@ Patri	9237
 Patriarchal	17870
 Patriarchy	11193,1746
 Patriarchy Meets Broken Infrastructure	4794
-Patrice	15455,69,91
+Patrice	15455,69,91,4485
 Patrice Brizard	765
 Patrice COMPAORE	8321
 Patrice Compaoré	5723
@@ -799,6 +801,7 @@ Patrice FOSSI PARFSE	16620
 Patrice Hoyer	16177
 Patrice MEWOUNE	16175
 Patrice Marie	8106
+Patrice Nshimiyimana	20100
 Patrice Ntidendereza	13405
 Patrice Nzukou Wakam	2413
 Patrice Operational	3386
@@ -1223,6 +1226,7 @@ Work Type Patterns	16266
 World Bank PATN	6769
 World Bank PATNUC	4523
 World Bank PATNUC. ANTIC	4703
+World Bank's PATNUC	20092
 World Bank-funded PATNUC	4523,241
 XCPD Cross-Community Patient Discovery XDM Cross-Enterprise	1009
 Yelba Patrice Ilboudo	10812

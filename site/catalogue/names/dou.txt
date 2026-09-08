@@ -157,7 +157,7 @@ Dou Al Kaada	8891
 DouIA1	5713
 DouIA2	5713
 Douadi Medjerab	15467
-Douala	103,200,36,1026,48,157,236,889,387,75,74,52,15,31,6,77,367,10,196,123,111,106,1165,209,125,274,21,281,255,283,651,739,1,27,1,298,358,164,438,1,1213,12,120,2,1,1,10,5,5,11,424,253,55,8,781,2963,62,32,25,2,75,88,67,109,59,7,30,14,25,93,27,18,1,84,201,1089,37,73,1189,13,67,223,414
+Douala	103,200,36,1026,48,157,236,889,387,75,74,52,15,31,6,77,367,10,196,123,111,106,1165,209,125,274,21,281,255,283,651,739,1,27,1,298,358,164,438,1,1213,12,120,2,1,1,10,5,5,11,424,253,55,8,781,2963,62,32,25,2,75,88,67,109,59,7,30,14,25,93,27,18,1,84,201,1089,37,73,1189,13,67,223,414,487,3,75
 Douala Autre	15599
 Douala CAMTEL Bépanda	16214
 Douala Corridor	14913
@@ -236,7 +236,7 @@ Douba Nabie	10881
 Douban	8460
 Doubasso	2342
 Doubaya CAMARA	16651
-Double	2342,5206,1467,1713,148,61,3172,888,491,116,335,1072,1088,545,569,288
+Double	2342,5206,1467,1713,148,61,3172,888,491,116,335,1072,1088,545,569,288,716
 Double Biometric Layer	9390
 Double Cabs	12970
 Double Click	13461
@@ -278,7 +278,7 @@ Doubtful Arrears of Revenue	14546
 Doubting	19814
 Doubty Chibamba	13612
 Doudou FWAMBA LIKUNDE Li-BOTAYI	7470
-Doudou Fwamba	8685,66,545,4874
+Doudou Fwamba	8685,66,545,4874,5893
 Doudou Fwamba Likunde	16018
 Doudou Fwamba Likunde Li-Botayi	9181,1023,5493
 Doudoubalala	4402
@@ -646,6 +646,7 @@ ST Digital's Douala	3283
 SYstème DOuaNIer Automatisé	15549
 San Douentza	18014
 Sans Douala	15599
+Schools Double-Shifting	20217
 Secteur des Douanes du Centre	4269
 Sediko DOUKA	11548,5462
 Selon Anavaï Marianne Doulaye	3194
@@ -702,4 +703,5 @@ Yaounde and Douala	103,15471
 Yaoundé Douala Bafoussam Garoua Bamenda Ebolowa	10980
 Yaoundé and Douala	10841,122,1
 Yaoundé- Douala-Bafoussam	15542
+Yaoundé. In Douala	20169
 Zimbabwe's Data Doubles	11611

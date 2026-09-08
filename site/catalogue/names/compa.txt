@@ -72,7 +72,7 @@ Africa Private Capital Fundraising Report Companion	8612
 Africa's Fastest-Growing Companies	8001
 Africa. Companies	12339
 African Development Bank. This Compact	18537
-African Digital Compact	11265
+African Digital Compact	11265,8959
 African Digital Compact The AU Commission	1775
 African Digital Compact.pdf	1775
 African Gas and Oil Company Limited	12256
@@ -409,10 +409,10 @@ Communication Authority of Kenya and Register of Companies	6394
 Community Interest Company	1246
 Compa	18767
 Compability Security Ekurhuruleni	9129
-Compact	87,812,639,1,4721,1853,3355,227,257,262,185,164,32,85,753,1189,52,505,294,101,114,111,178,60,929,294,634,76,346,216,5,11,247,882,325
+Compact	87,812,639,1,4721,1853,3355,227,257,262,185,164,32,85,753,1189,52,505,294,101,114,111,178,60,929,294,634,76,346,216,5,11,247,882,325,221
 Compact AC-Solar Home System	19998
 Compact Delivery Monitoring Unit	12595
-Compact Delivery and Monitoring Unit	12717,3320,151,778,1829
+Compact Delivery and Monitoring Unit	12717,3320,151,778,1829,1428
 Compact Delivery and Monitoring Unit CPR Compact	16188
 Compact Development Guidelines	12175,1815
 Compact Disk CHR	19226
@@ -427,7 +427,7 @@ Compact Progress Report	12717,3471
 Compact Progress Reports	12717,3471
 Compact SCG	15688
 Compact SCG System Capacity Grant SMAP	13990
-Compact Targets and Action Plan	12399,281,6997
+Compact Targets and Action Plan	12399,281,6997,546
 Compact Targets and Action Plan THE RESULTS	15977
 Compact Targets and Action Plan Targeted	12563
 Compact Targets and Action Plan This Energy	18795,882
@@ -507,7 +507,7 @@ Companies Rationale	12376
 Companies Register	3714,5792
 Companies Registrar	3714,11177
 Companies Registration Office	3714
-Companies Registry	12280
+Companies Registry	12280,7945
 Companies Registry Acts of Parliament Zimbabwe Mining	12511
 Companies Schneider Electric	2329,88,121,468,6,121,80,257,110,145,217,103,378,661,379,417,34,225
 Companies Service	11976
@@ -539,7 +539,7 @@ Companies. Requirements	15283
 Companiesand Allied Matters Act	18154
 Companies’ Act	11240
 Companies’ Register	3714
-Companion	22,13,81,123,169,2,4,3,14,12,2,112,2,19,1,12,22,123,2,4,5,4,19,11,1,16,24,118,23,5,18,9,17,16,126,39,13,5,12,9,1,1,22,6,69,6,5,13,2,1,30,44,33,49,28,12,32,1,98,14,1,3,15,17,39,56,1,9,25,1,47,10,22,20,57,33,12,22,1,9,11,10,27,61,19,59,9,235,31,101,37,84,96,29,117,3,126,8,23,150,4,4,30,57,23,49,35,128,2,33,46,10,53,1,48,10,122,110,10,3,16,264,3,1,1,5,16,39,6,26,1,21,5,23,1,18,148,123,17,83,82,120,66,42,19,90,184,65,32,69,1,228,99,8,4,152,51,72,107,5,10,27,20,51,14,32,119,36,13,110,32,6,41,18,18,1,1,6,230,2,114,41,71,27,332,87,69,60,187,160,1,391,272,78,130,573,431,675,20,907,346,218,226,450,751,373,3,263,15,81,1,81,1707,14,359,1053,218,979,352
+Companion	22,13,81,123,169,2,4,3,14,12,2,112,2,19,1,12,22,123,2,4,5,4,19,11,1,16,24,118,23,5,18,9,17,16,126,39,13,5,12,9,1,1,22,6,69,6,5,13,2,1,30,44,33,49,28,12,32,1,98,14,1,3,15,17,39,56,1,9,25,1,47,10,22,20,57,33,12,22,1,9,11,10,27,61,19,59,9,235,31,101,37,84,96,29,117,3,126,8,23,150,4,4,30,57,23,49,35,128,2,33,46,10,53,1,48,10,122,110,10,3,16,264,3,1,1,5,16,39,6,26,1,21,5,23,1,18,148,123,17,83,82,120,66,42,19,90,184,65,32,69,1,228,99,8,4,152,51,72,107,5,10,27,20,51,14,32,119,36,13,110,32,6,41,18,18,1,1,6,230,2,114,41,71,27,332,87,69,60,187,160,1,391,272,78,130,573,431,675,20,907,346,218,226,450,751,373,3,263,15,81,1,81,1707,14,359,1053,218,979,352,855
 Companion Card	10418
 Companion Guide	11156
 Company	22,551,12,20,131,1082,1,169,417,293,765,251,412,137,633,642,326,39,184,248,15,374,52,162,260,6,124,28,404,285,452,83,12,135,139,73,512,119,165,90,15,74,78,801,68,320,17,11,10,15,16,2,24,22,107,486,6,42,16,21,10,55,212,3,46,40,16,35,7,39,6,33,5,381,18,57,114,132,126,51,23,269,314,17,166,395,121,6,11,39,96,9,3,12,48,6,30,70,172,14,232,32,143,82,5,132,335,122,278,175,57,32,174,86,46,43,103,1,73,559,537,111,15,351,238,440,17,44,315,8
@@ -565,6 +565,7 @@ Company Income Tax	12395,281
 Company Information	12389
 Company Information Filing Requirements	12389
 Company Information Records Digitally Stored	12389
+Company Investors	20096
 Company LLP Data Processor INST-7959174FE30 NAIROBI	7167
 Company LTD	19585
 Company Law	14891
@@ -601,6 +602,7 @@ Company Purchase	10793
 Company RSU	7198
 Company RSUs	7198
 Company Reg. No	4896
+Company Registered	20228
 Company Registrar	14891
 Company Registrar. Article	14891
 Company Registration	11209,1180
@@ -692,7 +694,7 @@ Comparatif	18988
 Comparativamente	2295,1308,441,6733
 Comparative	2096,327,2402,58,13,780,1775,97,262,156,1923,825,504,148,3470,290,38,80,716,962,56,162,9,596,387,1528,52
 Comparative AI Strategy References	4528,7984
-Comparative Analysis	12356,152,4470
+Comparative Analysis	12356,152,4470,3243
 Comparative Analysis Strengths	12356
 Comparative Analysis Synthesis Across	7966
 Comparative Analysis and Options Development	18531
@@ -801,7 +803,7 @@ Compassionate The Interim National Transitional Council	16847
 Compatel Nigeria Limited	3862
 Compatibilidad	1701
 Compatibilidade	794,10654,8
-Compatibility	6432,2697,2823,2955,173,400,3505,590
+Compatibility	6432,2697,2823,2955,173,400,3505,590,543
 Compatibility All	12246
 Compatibility Operating Systems	34
 Compatibility Options	3861
@@ -878,6 +880,7 @@ DIRECTLINE ASSURANCE COMPANY LIMITED Data Controller	7167
 DISTRIBUTIONS BY COMPANIES	3714
 DISTRIBUTIONS BY COMPANIES Requirements	3714
 DOVINE COMPANY LIMITED Data Controller INST-606640AE64E	7167
+DRAFT NATIONAL ENERGY COMPACT	20223
 DRC Partnership Compact	11916
 DRC. Company	7257
 DREAM SCAPES COMPANY LIMITED Data Controller	7167
@@ -963,6 +966,7 @@ Education Kenya Compact	899
 Egypt National Health Compact	15977
 Egyptian Banks Company	6938,8725,4238
 Egyptian Banks Company Egyptian Company	15519
+Egyptian Companies	20122
 Egyptian Countryside Development Company	15473
 Egyptian Electricity Holding Company Khaled El-Destawy	16236
 Egyptian Electricity Transmission Company	15609,296
@@ -1004,7 +1008,7 @@ Enclave Power Company Ltd	15740
 End-to-End Digital G2P Companion	1027
 Energie Electrique TCN Transmission Company of Nigeria	12062,6124,31
 Energie Solaire COMINAK Compagnie Minière	18103
-Energy Compact	11136,1581,324,4219,1288
+Energy Compact	11136,1581,324,4219,1288,1675
 Energy Compact Agreement	18453
 Energy Compact The DGRNE	18795
 Energy Compact. Sharing	18795
@@ -1043,6 +1047,7 @@ Experts Company MORE STORIES UIB	5101,850
 Expressed Company	14897
 External Companies	12342,7619
 External Company	19961
+External Company Foreign	20228
 External Company Name and Amendments	12041
 External Company Registration Understanding External	12041
 FCFA. Comparativement	18122
@@ -1234,7 +1239,7 @@ INTERNATIONAL INTEGRATION AND COMPARATIVE STANDARDS	3861
 INTERNATIONAL INTEGRATION AND COMPARATIVE STANDARDS Recital	3861
 INVESTIGATION INTO AFFAIRS OF COMPANY	3714
 INVESTIGATION INTO AFFAIRS OF COMPANY Inspection	3714
-IPv6 Company	12058
+IPv6 Company	12058,8101
 IRVM. Comparé	2342
 ITWeb Sectors Companies About Subscribe Banks	7339
 ITWeb Sectors Companies About Subscribe InfoReg	5806
@@ -1313,6 +1318,7 @@ Jefferson Starship Company Limited	19049
 Jobe The National Water and Electricity Company	17327
 Joint Stock Companies	15492
 Joint Stock Company	11939
+Joint Stock Company Global Security	20140
 Journal for Comparative Government and European Policy	17780
 Journal of Comparative Economics	1828
 Journal of Comparative Policy Analysis	2096
@@ -1393,6 +1399,7 @@ Liberia Peroleum Refining Company	17257
 Liberia Telecommunications Company	16876
 Liberia and Comparator Countries	16876
 Liberian Electricity Company	17257
+Libya Post Company	20192
 Libya's Telecommunications Holding Company	1374
 Libyan Foreign Investment Company. The MSO	10128
 Libyan International Telecom Company URL	17436
@@ -1545,6 +1552,7 @@ NATIONAL ENERGY COMPACT FOR THE KINGDOM	12680
 NATIONAL ENERGY COMPACT FOR THE REPUBLIC	18537
 NATIONAL ENERGY COMPACT URL	16966
 NATIONAL HEALTH COMPACT	18532
+NAWEC National Water and Electricity Company	20223
 NAWEC National Water and Electricity Company NBR	17105
 NHSRII Compact	4301
 NIC Insurance Company	19712
@@ -1582,7 +1590,7 @@ National Electricity Company of Comoros	13752
 National Electricity Company of Mauritania	18374
 National Electricity Company of Senegal	18374
 National Electricity Distribution Company	11380
-National Energy Compact	5247,6689,463,164,32,85,37,30,307,174,396,61,891,98,1295,219,466,312,1571,258,28,854
+National Energy Compact	5247,6689,463,164,32,85,37,30,307,174,396,61,891,98,1295,219,466,312,1571,258,28,854,546
 National Energy Compact for Malawi	14674
 National Energy Compact for Namibia URL	12399
 National Energy Compact of São Tomé	18795
@@ -1610,7 +1618,7 @@ National Transmission Company of South Africa	11215,21,1887
 National Venture Capital Company of Zimbabwe	12495
 National Venture Capital Company of Zimbabwe National	12495
 National Water Utility Company	15969
-National Water and Electricity Company	17152,98
+National Water and Electricity Company	17152,98,2971,14
 Navigation Compatibility	15867
 Neelkantha Group of Companies. Indo-Zambia Bank	13561
 Nepal Doorsanchar Company Limited	15471
@@ -1651,6 +1659,7 @@ Oil Marketing Companies	12256
 Old Mutual Life Assurance Company	14674
 Old Mutual Life Assurance Company of Zimbabwe	4896
 Oman’s Future Cities Company	8592
+One-Member Companies	20096
 Open Data and Data Compact	18442
 Operating Companies	16872,103
 Operating Companies FY	19446
@@ -1738,6 +1747,7 @@ Privada Comparticipadas	10777
 Private Companies	12342,141,6073
 Private Company	736,10514,1092,58,4550,93,1561
 Private Company Limited	12483
+Private Limited Company Investors	20096
 Private Sector Companies	12675
 Private Security Companies	18541
 Privinvest Companies	1829
@@ -1796,7 +1806,7 @@ Register of Companies	13299,198,5107
 Register of Companies and Beneficial Owners	13497
 Register of Companies and Register of Beneficial Owners	13299,198
 Registered External Company	19961
-Registrar of Companies	585,4121,190,2302,498,1170,73,789,111,3,406,57,114,2231,247,9,660,1151,3,41,13,24,11,10,9,3,60,1514
+Registrar of Companies	585,4121,190,2302,498,1170,73,789,111,3,406,57,114,2231,247,9,660,1151,3,41,13,24,11,10,9,3,60,1514,3667
 Registrar of Companies Deeds	12491
 Registrar of Companies Ms Thoko Moyo Nil	4896
 Registrar of Companies OSP Office	19937
@@ -2067,7 +2077,7 @@ Ultimate Partners Company URR	16951
 Unbilled Companies	19585
 Undertook Comparable Company Analysis	4896
 United Nations Global Compact Initiative	16778
-United Nations Global Digital Compact	11478,5840
+United Nations Global Digital Compact	11478,5840,2906
 United Nations' Global Digital Compact	11028
 Unlimited Bangladesh Telecommunications Company Limited	15471
 Unlimited Bulgarian Telecommunication Company EAD	15471

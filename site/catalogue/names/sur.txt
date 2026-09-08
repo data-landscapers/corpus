@@ -286,7 +286,7 @@ Centro Sur	16864,56,42,7
 Centro Sur and Wele-Nzas	16996
 Certificate of Genocide Survivors	12333
 Certification and Market Surveillance	19712
-Change of Surname Act	12639
+Change of Surname Act	12639,7412
 Chartered Valuation Surveyor	13053
 Chief Surveyor	12647,2075
 Chief Surveyor-General	13213
@@ -547,6 +547,7 @@ Demographicand Health Survey Results	16833
 Dental Surgeons	13361,1412
 Department AES Annual Economic Survey ASSL	18488
 Department of Land and Survey	16916
+Department of Lands and Surveys	20226
 Department of Survey	18593
 Department of Surveyor-General	12511
 Department of Surveys and Mapping	19654
@@ -586,6 +587,7 @@ Dominican Republic and Suriname Approved for SOFF Investment	18869
 Downsized Mass Surveillance	2117
 Dr. Surendrakumar Bagde	19133
 Drone Surveillance Unit	17105
+DÉJÀ ACCESSIBLE SUR GOOGLE PLAY STORE	20075
 Déconce MSAHRN Survey CNAM	17845
 Département. Sur	17845
 D’ANALYSE ET DE REFLEXION SUR	17829
@@ -770,7 +772,7 @@ FinScope Surveys	940,11469
 Final Survey Results Report	969
 Finance Survey	866
 Financial Access Household Survey Overview	2775
-Financial Access Survey	10969,926,310,4737,2923
+Financial Access Survey	10969,926,310,4737,2923,268
 Financial Access Survey Data	15480
 Financial Application System. Surveillance System	11134
 Financial Corporations Survey	14777
@@ -782,7 +784,7 @@ Financial Literacy Survey Results Report	10775
 Financial Scoping Survey	12409
 Financial Service Consumer Satisfaction Survey	15023
 Financial Services Demand Side Survey Financial	940
-Financial Services Survey	8292
+Financial Services Survey	8292,11816
 Financial Surveillance	11134
 Financial Surveillance Department	6938,1845,57,165,122
 Financial Surveillance Department. Version	8840
@@ -838,7 +840,7 @@ GYTS Global Youth Tobacco Survey HEARTS	15966
 Gabon Demographic Health Survey	15411
 Gaborone BOTSWANA MULTI TOPIC HOUSEHOLD SURVEY	12600
 Gambia Food Security Survey	17285
-Gambia Labour Force Survey	8362,97,8485
+Gambia Labour Force Survey	8362,97,8485,3286
 Gambia National Food Security Survey	17285
 Gambia- National Food Security Survey	17285
 Gauteng Surveyor-General’s Office	13213
@@ -851,7 +853,7 @@ General Surgery	14120,622,31
 Geo Technical Survey	11131
 Geological Survey Department	13060,63,6523
 Geological Survey and Mines Directorate	19646
-Geological Survey of India	13561,3679
+Geological Survey of India	13561,3679,2814
 Geological Surveys	13093
 Geospatial Prioritization Survey	18476
 Ghana Demographic and Health Survey	16592
@@ -1711,6 +1713,7 @@ Regional Disease Surveillance System Enhancement	10829
 Regional Disease Surveillance Systems Enhancement	11417
 Regional Disease Surveillance Systems Enhancement Program	11560,4399
 Regional Disease Surveillance Systems Enhancement Project	11380,4579
+Regional Office for Europe. Tuberculosis Surveillance	20219
 Registration of Architects and Quantity Surveyors BOSA Back	2775
 Registration of Report of Land Surveyor	14828,3
 Reis Associação de Surdos de Cabo Verde	15694
@@ -2213,7 +2216,7 @@ Surv Compagnon	14622
 Surv Companion	11459
 Survbeject	19525
 Surveillanc	4301
-Surveillance	245,15,99,116,144,379,1119,42,1,358,31,129,343,1146,35,15,43,41,48,77,137,679,110,1035,35,140,265,2572,319,251,268,76,463,53,214,113,1031,40,502,652,71,48,219,21,88,136,16,210,233,1,1,63,1,1,47,85,151,1,145,504,49,15,21,75,11,1,29,61,27,12,1,120,91,23,424,234,105,170,30,36,13,112,714,19,29,28,11,18,191,21,172,20,33,587,575,19,125,19,231,91
+Surveillance	245,15,99,116,144,379,1119,42,1,358,31,129,343,1146,35,15,43,41,48,77,137,679,110,1035,35,140,265,2572,319,251,268,76,463,53,214,113,1031,40,502,652,71,48,219,21,88,136,16,210,233,1,1,63,1,1,47,85,151,1,145,504,49,15,21,75,11,1,29,61,27,12,1,120,91,23,424,234,105,170,30,36,13,112,714,19,29,28,11,18,191,21,172,20,33,587,575,19,125,19,231,91,177
 Surveillance Achieve	14190
 Surveillance Architecture	9399
 Surveillance By Evin McMullen Age Verification	9328
@@ -2313,6 +2316,7 @@ Survey Questionnaire	12409
 Survey Records Search The DSG	12511
 Survey Regulations Board STATSSA Statistics South	11261
 Survey Report	19743
+Survey Report URL	20196
 Survey Report. Found	12376
 Survey Responses	6938
 Survey Responses Real-Time Gross Settlement	6938
@@ -2362,7 +2366,7 @@ Survey123 Connect	5848
 SurveyCTO	18460
 SurveyCTO's Computer-Assisted Telephone Interviewing	15024
 SurveyMonkey	19654
-Surveyed	3604,1634,9,5565,1112,452,4909,2593
+Surveyed	3604,1634,9,5565,1112,452,4909,2593,196
 Surveyed Internet Use	16876
 Surveyed Zambian	5247
 Surveying	888,1790,10535
@@ -2374,7 +2378,8 @@ Surveyor General’s Department	13213
 Surveyor-General	11129,1382,811,76
 Surveyor-General's Office	13251
 Surveyors	18293
-Surveys	236,182,552,1126,2106,1708,629,4175,127,1033,90,11,31,206,125,994,1109,1113,160,18,413,799,156,15,327,429,606,58,680,305,15,21,2,103
+Surveys	236,182,552,1126,2106,1708,629,4175,127,1033,90,11,31,206,125,994,1109,1113,160,18,413,799,156,15,327,429,606,58,680,305,15,21,2,103,570
+Surveys Act	20226
 Surveys Departments	13251
 Surveys Four	19534
 Surveys Gaps	19519
@@ -2400,6 +2405,7 @@ Survivant-e-s	15746
 Survivants	13300
 Survive	15059,1737
 Surviving	12138,358
+Surviving COVID-19 and Beyond	20176
 Survivor	474,4,2,165,213,1,16067,1578
 Survivor-Centered Approach	17099
 Survivor-Centered GBV Response	18552
@@ -2442,6 +2448,7 @@ TAXE SUR LES TRANSACTIONS ELECTRONIQUES Section	17972
 TAXE SUR LES TRANSFERTS DE FONDS	16047
 TAXES SUR LE CHIFFRE D’AFFAIRES TITRE	16020
 TAXES SUR LE PERMIS DE CONSTRUIRE	16047
+TB Surveillance. Geneva	20219
 TDHS Tanzania Demographic and Health Survey	19531
 TDHS-MIS The School Malaria Parasitological Survey	19544
 TEXTUAL ANALYSIS OF QUARTERLY SURVEY	13532
@@ -2495,6 +2502,7 @@ Tracking Survey K06	15604
 Traducteur-Interprète. AU CHAPITRE DES COMMUNICATIONS Sur	7843
 Transmission Assessment Survey	14622
 Transport Economic Survey	2775
+Tripping Stone By Surafel Teshome	20141
 Trésor Public. Sur	16615
 Tunisia Industrial Investment Surges	7322
 Tunisie. Sur	9384,99
@@ -2653,6 +2661,7 @@ Zambia Impact Investment Survey	12376
 Zambia Survey Department	12369
 Zimbabwe Demographic and Health Survey	21,3226,27,10109,14
 Zimbabwe Demographic and Health Survey. Trends	12486
+Zimbabwe Geological Survey	20054
 Zimbabwe Social Registry Survey	12498,1047
 Zonal Surveillance Officers	16971
 Zone de Suru-Léré	16485

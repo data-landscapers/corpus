@@ -48,6 +48,7 @@ Access Vital Statistics Reports Integration	14137
 Accounting TMSP II Tanzania Statistical Master	19555
 Accounts SDGs Agriculture Statistics External Trade	12499
 Acknowledgements The Civil Registration Vital Statistics	12337
+Acknowledgment This Education Statistics Summary Report	20217
 Act Kenya Vital Statistics Report	12151
 Act No. Statistician General	19526
 Act STATS SA Statistics South Africa	11224
@@ -525,7 +526,7 @@ Civil Registration Management and Vital Statistics System	2274,5
 Civil Registration System Statistics	19541
 Civil Registration Vital Statistics	19541
 Civil Registration Vital Statistics and Identity DCR	12337
-Civil Registration and Vital Statistics	171,806,226,451,56,1328,1219,3604,515,1159,1230,15,39,9,305,9,248,90,489,88,7,273,1,29,3,43,226,305,61,2,73,15,330,253,545,399,267,5,56,106,27,28,98,38,1065,208,376,26,85,388,744,127,183,22,3,45,10,61,951,202,37,24
+Civil Registration and Vital Statistics	171,806,226,451,56,1328,1219,3604,515,1159,1230,15,39,9,305,9,248,90,489,88,7,273,1,29,3,43,226,305,61,2,73,15,330,253,545,399,267,5,56,106,27,28,98,38,1065,208,376,26,85,388,744,127,183,22,3,45,10,61,951,202,37,24,417
 Civil Registration and Vital Statistics BDRS	12639
 Civil Registration and Vital Statistics Coming Soon	12406
 Civil Registration and Vital Statistics D4H Data	15056
@@ -592,6 +593,7 @@ Community Stations-	18444
 Community Statistics Implementation of PNSD IV	19744
 Community Statistics. Local Government Statistics Database	19744
 Comparative Payment System Statistics	19940
+Competition Commission. Statistics South Africa	20204
 Compilation and Publication of Macroeconomic Statistics	10508
 Compilation of National Natural Resource Statistics Report	19519
 Complaints Procedure. Court Statistics	13251
@@ -897,6 +899,7 @@ ECOWAS Statistical Policy	8532,1976
 ECOWAS Statistics Policy	7
 EDUCATION STATISTICAL YEARBOOK	15087
 EDUCATION STATISTICAL YEARBOOK SCHOOL YEAR ENDED	12411
+EDUCATION STATISTICS SUMMARY REPORT	20217
 EFFECTIF DU PERSONNEL DU SYSTEME STATISTIQUE	18169
 EMPLOYEES OF STATISTICS SIERRA LEONE	18435
 ENERGY DATA COLLECTION AND STATISTICS	14947
@@ -948,6 +951,8 @@ Education Statistical Yearbook FBO Faith-based	14922
 Education Statistics	5036,9886,2227,2508
 Education Statistics Annual Abstract	12199,1792,3
 Education Statistics Reports	12175
+Education Statistics Summary Report	20217
+Education Statistics Summary Report. Special	20217
 Education and Training UIS UNESCO Institute for Statistics	15604
 Educational Statistics	12788
 Efficient Allocation of Retail Service Stations	12969
@@ -1094,9 +1099,10 @@ GSS Head of Trade Statistics Section Tetteh	236
 GSS Trade Statistics Section Naa Amerley	236
 Gabon Statistical Development Project	15518
 Gabon Statistical Development Project World Bank	223
-Gambia Bureau of Statistics	1654,33,6136,538,1,8472,33,7,41,7,5,12,53,94,19,212,104
+Gambia Bureau of Statistics	1654,33,6136,538,1,8472,33,7,41,7,5,12,53,94,19,212,104,2809
 Gambia Bureau of Statistics GBV	16951
 Gambia Bureau of Statistics GBoS	1687
+Gambia Electronic Civil Registration and Vital Statistics	20221
 Gambia. Nyakassi M.B. Sanyang Statistician	16927
 Gambian Bureau of Statistics	16911,28
 Garri and Khartoum North Power Stations	14933
@@ -1437,6 +1443,8 @@ Kingdom of Eswatini Vital Statistics Report	12944
 Kingdom of Eswatini. Annual Vital Statistics Report	12944
 Kingtom Power Station	18566
 Koeberg Nuclear Power Station. Programme	11272
+Koforidua-Kumasi Lorry Station	20181
+Kotu Power Station	20235
 Kribi Station	16942
 Kuakata Cable Landing Station of Regional Submarine	17432
 Kufra Observing Station	16956
@@ -1499,7 +1507,7 @@ Lesotho's Bureau of Statistics	12706
 Liberia Financial Statistics	17235
 Liberia Institute of Statistics	16876,73,308
 Liberia Institute of Statistics and Geo- Information	5244
-Liberia Institute of Statistics and Geo-Information Services	5244,11589,88,14,28,80,73,33,16,193,8
+Liberia Institute of Statistics and Geo-Information Services	5244,11589,88,14,28,80,73,33,16,193,8,2783
 Liberia Institute of Statistics and Geo-Informatlon Services	16833
 Liberia Institute of Statistics and Geo-information Services	17235
 Liberia Institute of Statistics and Geoinformation Services	17070,79
@@ -1786,6 +1794,7 @@ National Bureau of Statistics and UNICEF	18695
 National Bureau of Statistics. B Ther	19887
 National Bureau of Statistics. Contacts Contacts Name	19613
 National Bureau of Statistics. FinMark Trust	18899
+National Bureau of Statistics. Household	20196
 National Bureau of Statistics. Streamlined	12210
 National Civil Registration Authority Statistics Sierra	1161
 National Civil Registration and Vistal Statistics System	12138
@@ -2755,7 +2764,7 @@ Statistical Coordination and Innovation	6963
 Statistical Data	3861,8558
 Statistical Data Analysis Report. MINESUP	15480
 Statistical Data Dissemination and Access	14115
-Statistical Data and Metadata	12499,2278,1961,801,865,917
+Statistical Data and Metadata	12499,2278,1961,801,865,917,740
 Statistical Data and Metadata Exchange	9207,1737,768,1445
 Statistical Database Relevant	13418
 Statistical Databases Comprehensive	18747
@@ -2825,11 +2834,11 @@ Statistical Standards	11237,7508
 Statistical Studies and Communication Division	19093
 Statistical Support and Informatics	11237
 Statistical Systcln	11852
-Statistical System	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,871,3504,223,1158,1408,1,169,14,22,1,65,14,1,48
+Statistical System	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,871,3504,223,1158,1408,1,169,14,22,1,65,14,1,48,225
 Statistical System Absence of Forced Migration	10835,3,130,902,16,466,1,135,7334
 Statistical System Child	10838
 Statistical System Coordination Unit	16863
-Statistical System Effective Administration Tax	10759,78,1315,188,7598
+Statistical System Effective Administration Tax	10759,78,1315,188,7598,274
 Statistical System OAP Other Accounts Payable	14777
 Statistical System Presented	15760
 Statistical System Sub-total of Strategy	16863
@@ -2951,7 +2960,7 @@ Statistics Council. The SG	18475
 Statistics Dashboard	12620
 Statistics Data Social and Economic and Financial Ressources	16863
 Statistics Denmark. Cette	17474
-Statistics Department	10,10708,2244,570,1245,2165
+Statistics Department	10,10708,2244,570,1245,2165,3119
 Statistics Department and Statistics Botswana	9708
 Statistics Development ATM Automatic Teller Machine	15415
 Statistics Development Programme	17149
@@ -3044,7 +3053,7 @@ Statistics Sierra Leone. Nearly	18446
 Statistics Sierra Leone. PART V	18435
 Statistics Solutions	7278
 Statistics Sources Statistics Mauritius	14819
-Statistics South Africa	2307,3276,14,209,1026,2931,4,1039,325,3,44,17,1,5,10,11,3,12,11,8,2,4,24,3,5,2,45,636,20,8,714,1954,2756
+Statistics South Africa	2307,3276,14,209,1026,2931,4,1039,325,3,44,17,1,5,10,11,3,12,11,8,2,4,24,3,5,2,45,636,20,8,714,1954,2756,2775
 Statistics South Africa Appendix	11286
 Statistics South Africa Hit	5597
 Statistics South Africa Minister	11178
@@ -3573,7 +3582,7 @@ UNSD United Nations Statistics Division WFP	15415
 UPDATED STATISTICAL BUSINESS REGISTER USING ADMINISTRATIVE	19557
 UPI Product Statistics	11138
 USE OF OFFICIAL STATISTICS	17149
-Uganda Bureau of Statistics	3026,3626,1875,268,351,176,66,667,767,1884,1482,192,5246,4,1,8,7,21,40,8,13,15,1,36,7,11,5,7
+Uganda Bureau of Statistics	3026,3626,1875,268,351,176,66,667,767,1884,1482,192,5246,4,1,8,7,21,40,8,13,15,1,36,7,11,5,7,348
 Uganda Bureau of Statistics Act	19626,8,176
 Uganda Bureau of Statistics Census	19728
 Uganda Bureau of Statistics. The Office	19803
@@ -3630,7 +3639,7 @@ Visa Statistique N	13300,90
 Visa Statistique du Ministre	16616
 Vision du Système Statistique National	15479
 Vital Statistical Record	12151
-Vital Statistics	200,453,8882,2603,229,46,946,120,117,1460,571,1206,27,1614,1052,361
+Vital Statistics	200,453,8882,2603,229,46,946,120,117,1460,571,1206,27,1614,1052,361,334
 Vital Statistics CSO Civil Society Organizations	18478
 Vital Statistics Community Engagement Strategic Plan	13596
 Vital Statistics Database Informants	12337

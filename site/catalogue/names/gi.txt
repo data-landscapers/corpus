@@ -138,6 +138,7 @@ Bank. Given	15411
 Banque GIM-UEMOA Groupement Interbancaire Monétique	4459
 Barazani Girls High School	10313
 Base-T Gigabit LAN	34
+Behailu Girma	20142
 Beheira Monufia Dakahlia Giza Sohag Gharbia	15578
 Ben Gibson	19910
 Benin ACE GIE	15424
@@ -269,6 +270,7 @@ DDI Document ID DDI GIN 2024 FINDEX v02 M WB Producers Date	16665
 DDP. Given	8436
 DEP Collection Sub-indicator Girls	11905
 DFS. The GIMAC	15447
+DG GICTA. Mandate	20221
 DIVA GIS.org	17157
 DO HEREBY SOLEMNLY ADOPT AND GIVE	13294
 DPSE GIZ IEC INSTAT MGP MID	14425
@@ -405,6 +407,7 @@ Ethiopia GII	12205
 Etudes Assistant Giscard KONLACK LONLACK	15599
 European Gigabit Infrastructure Act. National	13512
 European Union GIS	16975
+European Union and GIZ	20094
 European Union and GIZ-AU	19143
 Evaluation GIAMA Government Immovable Asset Management	11986
 Evelyn Gitau	14225
@@ -478,7 +481,8 @@ GETESA and GITGE	16942
 GHG Gender-Based Violence GIZ Gross Domestic	10964
 GHG Greenhouse Gas GIZ German Agency	19239
 GHz Gigahertz HCI Human Capital Index	16885
-GI-KACE	4126,358,1,6,6541,3320,965
+GI-KACE	4126,358,1,6,6541,3320,965,4865
+GI-KACE's UNDP-funded MSME Gateway	20182
 GI-TOC	4127,207
 GI7TLJGcQMeTTLeTWPA	6423
 GIA General Information Authority GIS Geographic	17157
@@ -501,7 +505,7 @@ GICAM	10965,4577
 GICC Inter-Ministerial Consultation and Coordination Group	18293
 GICT Agencies	1000
 GICT Agency Responsible	16926
-GICTA	1000,714,4583,644,72,9902,8,1,2,13,249,40,10
+GICTA	1000,714,4583,644,72,9902,8,1,2,13,249,40,10,2983,3,14
 GICTA Agencies	1000
 GICTA Continuous	16939
 GICTA Gambia Information Communications Technology Agency	1000
@@ -560,11 +564,12 @@ GIF and TOGAF. The GIRA	19638
 GIF-GW	11555
 GIF4M2	12840
 GIFE Ghana Integrated Financial Ecosystem GIS	19940
-GIFEC	236,346,1307,2237,358,643,232,1577,432,996,8848,2754
+GIFEC	236,346,1307,2237,358,643,232,1577,432,996,8848,2754,158,22
 GIFEC CEO	5359
 GIFEC Ghana Investment Fund for Electronic Communications	582,3544
 GIFEC and GDCL	4484
 GIFEC's Director of Corporate Affairs	5359
+GIFEIC	20072
 GIFLER SUR LE VISAGE	13300
 GIFMIS	12136,3250,243,75,86,55
 GIFRA Wireless Network Ltd	3862
@@ -664,7 +669,7 @@ GIMAC. Le GIMAC	15493
 GIMAC. L’interopérabilité	15493
 GIMAC. Quel	8800
 GIMAC. Weak	15447
-GIMACPAY	3853,374,743,409,320,2448,181,1,325,1,6828,4495
+GIMACPAY	3853,374,743,409,320,2448,181,1,325,1,6828,4495,136
 GIMACPAY. Sont Participants	15483
 GIMACPay	16942
 GIMAR	14997
@@ -699,11 +704,13 @@ GINEBRA	4209
 GINED GISP GPE Atendimento Educativo Especializado	10766
 GIOPD	14773
 GIP ATGeRi	15555
+GIP Gambia Infrastructure Project	20223
 GIP Transactions	19940
 GIPATO Groupement	19350
 GIPC Ghana Investment Promotion Centre GIZ	4126
 GIPIS Architecture	16600
 GIR GPE GRM HRMIS ICR IDA	16436
+GIR Gross Intake Rate	20217
 GIR and GER	15604
 GIR-CT	557,16913,35
 GIR-PN	17982
@@ -804,22 +811,25 @@ GITEGA Total Quel	13390
 GITEGA Total Urbain Rural	13390
 GITEGA Total Western Union	13390
 GITEV	12862
-GITEX	2577,3157,983,2400,4164,1377,1473,1625
+GITEX	2577,3157,983,2400,4164,1377,1473,1625,2429
 GITEX AFRICA	2577,12543
 GITEX Africa	627,1950,138,73,213,2607,126,11,4,15,8,5,21,2,2,76,889,297,2592,5464,1131
 GITEX Africa Morocco	2577,140,3017,11,1,51,11715
 GITEX Ai Türkiye Istanbul	2521,659,249,939,974,1524,210,294
+GITEX Chief Executive Officer	20185
 GITEX GLOBAL. While Kenya	6717
 GITEX Global	15876,255,71,1554
 GITEX Impact	2577
 GITEX Kenya	6377,340
 GITEX NIGERIA	9117
+GITEX NIGERIA Week	20185
 GITEX Nigeria	9117,1016,3148,4290,35,54,14,16,35
 GITEX Nigeria Government Leadership and AI	9117
 GITEX Nigeria Official Tour	17756
 GITEX Nigeria Tech Expo	17606
 GITEX Nigeria Tech Expo and Future	9117
 GITEX Nigéria Startup Festival	3527
+GITEX. The African Development Bank	20185
 GITGE	57,256,2614,252,2897,914,110,205,398,1,1614,1000,2552,4025,9,2,36,30,335,119
 GITGE Educa	16942
 GITGE and Camtel	16942
@@ -850,6 +860,7 @@ GIZ Africa Union Representative	13457
 GIZ African Union	7226,744
 GIZ Agence	17881
 GIZ BACKUP-Education	17830
+GIZ Cameroon	20094
 GIZ Country Director for South Africa	13223
 GIZ Côte	8894
 GIZ DIGI Centre	718
@@ -861,7 +872,7 @@ GIZ Digital Transformation for Sustainable Development	14352
 GIZ EAC	8546
 GIZ Eco-Emploi Programme	718
 GIZ Editing Susan Sellars Layout EYES-OPEN	11156
-GIZ FAIR Forward	1204,2922,1575
+GIZ FAIR Forward	1204,2922,1575,14481
 GIZ GIZ	19245
 GIZ German Corporation for International Cooperation GmbH	1204
 GIZ German Technical Cooperation	18293
@@ -1187,6 +1198,7 @@ Gilbert ZONGO	7670
 Gilbert and Reinecke2026	8436
 Gilberte SEGNONNAN AFFO SNIGS-MS SOMMAIRE Annuaire	15475
 Gilberto A Vicente	15907
+Gilberto Antonio	20134
 Gilberto Correia Carvalho Silva. Anexo	15503
 Gilberto Silva	11979
 Gilberto Silva. Para	15996
@@ -1204,6 +1216,7 @@ Gildas Rachid	16367
 Gildas SANAWAGOU KOMBI. MINISTERE DU COMMERE	16381
 Gildas Wilfrid	15744
 Gilde Merley	15901
+Gildo Batista	20109
 Gile KEITA Vice-président	17841
 Gilead John Teri	10040
 Gilencia Darcile	15901
@@ -1221,7 +1234,7 @@ Gilles Tchamba	12017
 Gilles Thierry Beugré	1974,1430,1620,4691
 Gillespie	7790,176
 Gillespie S	15725
-Gillian Darko	11819
+Gillian Darko	11819,8279
 Gillian Rose	8185
 Gillian Rosenberg	7138,13
 Gilliana Anacoura	7761
@@ -1292,7 +1305,7 @@ Girl Power Action Initiative	12297
 Girl's Education Initiative	15661
 Girl-child	16951
 GirlCode	11967
-Girls	3583,1715,4474,22,1538,137,431,16,2,323,95,75,560,124,237,628,833,142,16,169,50,277,44,62,51,57,483,160,407,231,29,130,5,81,79,23,681,69,402,19,1,122,161,454,479,38,120
+Girls	3583,1715,4474,22,1538,137,431,16,2,323,95,75,560,124,237,628,833,142,16,169,50,277,44,62,51,57,483,160,407,231,29,130,5,81,79,23,681,69,402,19,1,122,161,454,479,38,120,382
 Girls Boys	18441
 Girls Boys Every Adolescent	18441
 Girls Education Accelerator	12175
@@ -1304,6 +1317,7 @@ Girls Education Strategy	12175
 Girls Education and Women's Empowerment and Livelihoods	12335
 Girls Education and Women’s Empowerment and Livelihoods	13332
 Girls Empowerment and Quality Education for All Project	18777,32
+Girls Enrolment	20217
 Girls GER	16436
 Girls Men	9772
 Girls Not Brides	12188
@@ -1471,7 +1485,7 @@ Give the Authority	762
 Give the Presidential Task Team	6832
 GiveDirectly	5233,6761,4779,2464
 GiveDirectly’s Lieberman	16773
-Given	10,226,159,23,153,2,6,192,18,110,41,21,9,30,243,5,9,27,363,54,3,73,33,18,22,17,121,108,211,152,2,54,34,42,77,138,83,59,41,81,91,15,209,71,127,15,6,10,37,131,345,87,39,179,221,23,56,116,35,45,42,2,70,215,25,395,5,18,132,9,309,46,59,88,80,45,114,44,88,118,2,113,1,155,9,110,22,261,83,90,11,22,176,96,39,180,174,60,97,137,22,333,92,6,372,39,82,19,126,118,373,250,25,187,4,3,42,1,1,3,7,4,1,42,7,12,3,7,1,29,38,21,15,5,3,1,13,3,5,19,24,8,14,80,1,2,1,1,1,4,3,11,42,20,1,11,49,12,20,57,14,37,133,10,3,9,6,7,270,2,6,20,9,8,5,2,2,7,8,31,9,1,21,8,12,84,51,20,14,35,4,6,7,30,13,58,1,8,1,31,7,9,14,4,7,1,2,2,11,5,14,45,10,126,43,248,24,5,2,11,19,82,219,33,2,17,1,17,38,74,16,27,19,15,143,187,123,13,181,155,8,86,233,56,13,8,17,13,3,57,43,2,9,8,1,25,10,3,12,18,20,12,22,4,16,17,46,13,23,11,15,61,12,65,70,39,13,23,15,11,7,31,2,5,35,48,3,17,37,1,2,2,25,25,52,118,100,49,112,292,374,42,15,5,4,20,25,1,17,3,7,2,7,2,3,12,10,11,23,18,6,56,6,9,13,12,18,82,18,28,41,41,37,54,45,277,1,68,21,13,10,13,44,154,19,170,25,41,15,69,18,3,114,38,4,15,119,41,1,13,14,64,17,7,22,212,69,70,123,48,64,15,21,16,5,8,11,43,1,5,1,1,17,1,2,13,28,5,89,34,4,4,4,13,18,22,4,70,14,14
+Given	10,226,159,23,153,2,6,192,18,110,41,21,9,30,243,5,9,27,363,54,3,73,33,18,22,17,121,108,211,152,2,54,34,42,77,138,83,59,41,81,91,15,209,71,127,15,6,10,37,131,345,87,39,179,221,23,56,116,35,45,42,2,70,215,25,395,5,18,132,9,309,46,59,88,80,45,114,44,88,118,2,113,1,155,9,110,22,261,83,90,11,22,176,96,39,180,174,60,97,137,22,333,92,6,372,39,82,19,126,118,373,250,25,187,4,3,42,1,1,3,7,4,1,42,7,12,3,7,1,29,38,21,15,5,3,1,13,3,5,19,24,8,14,80,1,2,1,1,1,4,3,11,42,20,1,11,49,12,20,57,14,37,133,10,3,9,6,7,270,2,6,20,9,8,5,2,2,7,8,31,9,1,21,8,12,84,51,20,14,35,4,6,7,30,13,58,1,8,1,31,7,9,14,4,7,1,2,2,11,5,14,45,10,126,43,248,24,5,2,11,19,82,219,33,2,17,1,17,38,74,16,27,19,15,143,187,123,13,181,155,8,86,233,56,13,8,17,13,3,57,43,2,9,8,1,25,10,3,12,18,20,12,22,4,16,17,46,13,23,11,15,61,12,65,70,39,13,23,15,11,7,31,2,5,35,48,3,17,37,1,2,2,25,25,52,118,100,49,112,292,374,42,15,5,4,20,25,1,17,3,7,2,7,2,3,12,10,11,23,18,6,56,6,9,13,12,18,82,18,28,41,41,37,54,45,277,1,68,21,13,10,13,44,154,19,170,25,41,15,69,18,3,114,38,4,15,119,41,1,13,14,64,17,7,22,212,69,70,123,48,64,15,21,16,5,8,11,43,1,5,1,1,17,1,2,13,28,5,89,34,4,4,4,13,18,22,4,70,14,14,222
 Given Africa	415
 Given Algeria	16279
 Given Angola	10768
@@ -1642,6 +1656,7 @@ Information Safety and Cyber-Security Given	16872
 Infrastructure GIS	5680
 Inside the Hidden Battles of Africa’s Gig Workers	7102
 Institute of Mathematical Sciences GI-KACE Ghana-India Kofi	4126
+Integrated CRVS-ID Ecosystem GICTA	20221
 Integration of GIS	12389
 Interbank Banking Group of Central GIMAC Africa	18931
 Intercommunal de Solidarité GIZ Deutsche Gesellschaft Fur	17864
@@ -1708,6 +1723,7 @@ L GUI D'INDUSTRIE DE BOISSONS GIB	16623
 L'ouverture de Gidan Fasaha	7374
 LA DIRECTION TECHNIQUE DU RE GISTRE	16645
 LAA SCOOPS BEST GIS AWARD	12662
+LBE GIR	20217
 LE GIM-UEMOA	10711
 LEGAM LEGAM Giacomo Assenza Team Member	1284
 LIS GIS-Geo Information Services Division	16921
@@ -1826,6 +1842,7 @@ Mr. Charles Gichira	10313
 Mr. Elikplim Sabblah of GIZ's FAIR Forward	5227
 Mr. Francis Gimara	3005
 Mr. Francis Parsimei Gitau	6946
+Mr. Gibril Jarju	20221
 Mr. Gideon Muteka	12927
 Mr. Gift Medi	13095
 Mr. Gilbert A. Phiri SC	13466
@@ -2001,6 +2018,7 @@ Professor Alison Gillwald	7757
 Professor Gift Masaiti Consultant	13392
 Project Giga	10742
 Project. The GIR	16436
+Proportion of Girls	20217
 Proportionality Given	17019
 Proposed Immigration Law Gives Officers Final	17208
 Province BUHUMUZA BUJUMBURA BURUNGA BUTANYERERA GITEGA	13390
@@ -2146,6 +2164,7 @@ State of Cabo Verde Secretaries Gilda Maria	11955
 Stellenbosch University Zithulele Gina Director Human	11134
 Straus and Giroux	8380
 Strengthen the GITOC	11940
+Strengthening of GIS	20226
 Sub- Saharan Africa. Cameroon GII Ranking	10969
 Sub- Saharan Africa. South Africa GII	11885
 Sub- Saharan Africa. Zimbabwe GII Ranking	12487

@@ -238,7 +238,7 @@ Country Manager for North West Africa	7271
 County Urban Rural Total North Western	17043
 Cuando Cubango Cuanza Norte Cuanza Sul	10766
 Cuando-Cubango Cuanza Norte Cuanza Sul Cunene	10766
-Cuanza Norte	8475,2282,3,3,2,1,11,1
+Cuanza Norte	8475,2282,3,3,2,1,11,1,9359
 Cuanza Norte Cuanza Sul Cunene	10766
 Cuanza Norte Cuanza Sul Cunene Huambo	10766
 Cuanza Norte Uíge	10760
@@ -931,9 +931,11 @@ Nora Naji	12227
 Norad	689,1258,8767,6197
 Norad CHF	689
 Norad and CDC	16409
+Norad and GPE KIX	20215
 Norad-funded ITU	689
 Norah	7435
 Norah Chavula-Chirwa	14190
+Norah Igwe	20196
 Norah Kimathi	7435
 Norah Kipruto	17781
 Norah Kipwola	12195
@@ -1199,7 +1201,7 @@ Norte-Sul	11373,20
 Norte-Sur	16898
 Nortey Street	3386
 North	627,162,54,421,1302,820,26,318,61,19,49,15,574,524,275,1315,375,23,37,485,196,208,1853,1073,29,23,2,54,43,1,6,6,4,158,42,41,145,102,1,388,129,8,4,90,63,23,45,8,51,50,117,15,109,235,14,25,74,28,178,175,694,750,10,29,177,262,24,11,319,27,58,725,499,1,63,96,71,13,332,447,403,132,19,327
-North Africa	285,46,179,138,412,27,547,180,338,110,213,483,49,106,240,4,83,419,1,12,323,129,326,13,309,264,1,41,24,38,258,106,399,164,59,177,62,226,146,1,23,491,341,128,29,15,111,419,244,89,668,207,648,341,22,4,67,6,213,136,137,123,502,62,1933,308,422,270,12,564,131,380,732,147,83,211,42,88,16,164,44,351,263,1302,19,9,385
+North Africa	285,46,179,138,412,27,547,180,338,110,213,483,49,106,240,4,83,419,1,12,323,129,326,13,309,264,1,41,24,38,258,106,399,164,59,177,62,226,146,1,23,491,341,128,29,15,111,419,244,89,668,207,648,341,22,4,67,6,213,136,137,123,502,62,1933,308,422,270,12,564,131,380,732,147,83,211,42,88,16,164,44,351,263,1302,19,9,385,370
 North Africa By Lina Kacyem	5159
 North Africa MTEF Medium-Term Expenditure Framework	11271
 North Africa North Africa	11964
@@ -1229,11 +1231,11 @@ North American LPs	4972
 North American and East African	8040
 North Atlantic	4448
 North Atlantic Ocean	18475,3
-North Bank	16966,7,357
+North Bank	16966,7,357,2893,7
 North Bank East Regional Health Directorate	16896,26
 North Bank East Regional Health Page	16922
 North Bank Lower Nuimi Region Central	17152
-North Bank Region	11716,369,5143
+North Bank Region	11716,369,5143,3005
 North Bank Region NCAC National Council	17105
 North Bank Regions	17379
 North Bank West	16867
@@ -1405,6 +1407,7 @@ North and Sub-Saharan Africa	3813
 North and West AA	12195
 North and West Africa	1729,2548
 North and West Kordofan. Much of Darfur and Kordofan	15220
+North and Western North	20182
 North of Mali	17870
 North of Red Sea State	14955
 North- West and South-West	10963
@@ -1455,7 +1458,7 @@ Northeastern Gabon Using the Population Density Gradient	16996
 Northeastern Lusaka	12369
 Northeastern State	3426,5815
 Northen and River Nile	14933
-Northern	34,202,553,1535,452,636,269,1571,142,1319,234,544,204,174,501,1772,487,232,608,455,164,94,31,28,37,50,1,74,10,18,629,305,2,25,26,934,322,107,116,219,13,77,38,186,169,29,29,141,106,314,112,707,120,78,449,759,17,4,11,62,1175,87,175
+Northern	34,202,553,1535,452,636,269,1571,142,1319,234,544,204,174,501,1772,487,232,608,455,164,94,31,28,37,50,1,74,10,18,629,305,2,25,26,934,322,107,116,219,13,77,38,186,169,29,29,141,106,314,112,707,120,78,449,759,17,4,11,62,1175,87,175,208
 Northern Africa	585,400,2172,1519,4190,641,1292,41,732,322,327,5066,2583,1
 Northern Africa And Western Asia	19862
 Northern Africa Challenges	19874
@@ -1633,7 +1636,7 @@ Norway's Ministry of Foreign Affairs	8561
 Norway. Initially	766
 NorwayIt	11529
 Norwegian	7232,46,1402,2139,1412,2674,4584
-Norwegian Agency for Development Cooperation	1947,4745,1194,2828,105,1373,86,223
+Norwegian Agency for Development Cooperation	1947,4745,1194,2828,105,1373,86,223,7720
 Norwegian Agency for Development Cooperation NRP	12175
 Norwegian Centre for Tax Research	10335
 Norwegian Country of Origin Information Centre	19921

@@ -1,4 +1,5 @@
 ACRONYMS EHCVM IPEQ MEBAPLN PASEC PSDEBS	15743
+AFRINIC's IPv6-for-IPv4 Rule Needs	20160
 AI IP Accelerator	4126
 AI and Emerging Technologies IP AI	7548
 ANE IP	2989
@@ -20,6 +21,7 @@ Adapt IP Laws	12675
 Advancing Regional IP Cooperation	12744
 Advantages of IPv6	5904
 AfCFTA IP Protocol	5858
+Africa IPv6	20159
 Africa Nenda IPS Map	5124
 African IPS	3853,16048
 African IPv4	7437
@@ -33,6 +35,7 @@ All IPF	11469
 Allocations IPv4	17896
 American IP	8788
 Anti- No IP	12214
+Any IPv4	20159
 Apports des IPPs	10975
 Archived DO Rating IP Rating Actual	15731
 Assistant IP Registrar	10358
@@ -74,6 +77,7 @@ Core IP	19232
 Core IP Network	14010
 Council IPTsc Intermittent Preventive Treatment	19544
 Cross-domain IPS	19838
+Current IPv6	20159
 D'ÉTUDES SUPÉRIEURES IPHE INSTITUT PRIVÉ DES	18143
 DE BANQUE ET DE RECYCLAGE IPHEC	18170
 DE DROIT ET DE GESTION IPDR-KOLLO	18170
@@ -281,7 +285,7 @@ IP-address	26
 IP-based	13183
 IP-based Access Network	194
 IP-centric	12028
-IP-enabled	16966
+IP-enabled	16966,3257
 IP-intensive	8967
 IP-pinned	2667
 IP-protection	8593
@@ -456,7 +460,7 @@ IPP Baynes Hydro Project	12399
 IPP Cerim	12399
 IPP Diaz	12399
 IPP EnR	18316
-IPP Independent Power Producer	16037,2577
+IPP Independent Power Producer	16037,2577,1609
 IPP Independent Power Producer IRR Internal	15515
 IPP Independent Power Producer IT Information	10781,1646,2055
 IPP Independent Power Producer LAMC Liability	12233
@@ -578,16 +582,19 @@ IPv4 IPv4	18579
 IPv4 Prefix	12743
 IPv4 RS1	14827
 IPv4 Route Server	14827
+IPv4 Soft Landing	20159,1
 IPv4 and IPv6	3503,5993
 IPv4-IPv6	2405
 IPv4. Elle	7010
 IPv4. Hanifa Koussoubé Lefaso.net	7010
 IPv4. L'ingénieur	7010
+IPv4. Saul Stein	20160
 IPv4. Vu	13301
 IPv6 Actuellement	13301
 IPv6 Adoption	19682
 IPv6 Au	7010
-IPv6 Company	12058
+IPv6 CPM	20159
+IPv6 Company	12058,8101
 IPv6 Coverage	11878
 IPv6 Dual Stack	2405
 IPv6 En	7010
@@ -603,13 +610,15 @@ IPv6 Route Server	14827
 IPv6 URL	17272
 IPv6 and ASN	9506
 IPv6 for Managers	16545
-IPv6-capable	6946
+IPv6-capable	6946,13214
+IPv6-enabled	20160
 IPv6-only	11797
 IPv6-transition	11797
 IPv6. Art	15943
 IPv6. Ce	1702
 IPv6. Cette	7010
 IPv6. Mais	7010
+IPv6. Progress	20160
 IPv6. Such	10721
 IPv6. The Chairman	5904
 IPv6. Under	1702
@@ -637,7 +646,7 @@ Inter-Agency CONTACTS Bernadette-Mah Ippet	10864
 Interesting Investment IPO Iraq Jordan KSA	5322
 International Monetary Fund IP Internet Protocol	12663
 International Monetary Fund IPC	14857
-International Monetary Fund IPU Inter-Parliamentary Union	10759,78,1052,451,7598
+International Monetary Fund IPU Inter-Parliamentary Union	10759,78,1052,451,7598,274
 International Organization of Migration IPV	16951
 Internet of Things IP	2816
 Internet of Things IPR	958
@@ -852,6 +861,7 @@ ST CENT IPNX	3862
 ST CENT IPNX BIG PICTURE	3862
 ST CENT IPNX INQ.DIGITAL NIGERIA LIMITED	3862
 STRATEGIE NATIONALE DE TRANSITION IP V6	1702
+Scarce IPv4	20160
 Scope of Applicability of IPSASs and IFRSs	19514
 Second IPV	12623
 Secretary IPRS	12323

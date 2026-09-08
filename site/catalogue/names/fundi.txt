@@ -189,7 +189,7 @@ Funding Model NHC National Housing Corporation	2775
 Funding Models	12917
 Funding NAME	5352
 Funding NOSi	11891
-Funding Needs	15977,989,1566,5
+Funding Needs	15977,989,1566,5,1686
 Funding Open	17773
 Funding Options Funding Requirement FY26 FY27	17364
 Funding Partner Funder Mastercard Foundation	6832
@@ -312,6 +312,7 @@ Mozambique Existing Funding	4260
 Mozambique Funding	4260
 Mozambique New Funding	4260
 Mozambique Total Funding	4260
+NA Funding	20214
 NATIONAL ENERGY COMPACT FOR NAMIBIA Funding	12399
 NES and Funding Portfolio NORED	12399
 NGOs. Funding Instrument F4 Funding	14835

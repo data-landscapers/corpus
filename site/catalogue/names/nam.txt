@@ -167,7 +167,7 @@ Body REPUBLIC OF NAMIBIA STRATEGIC PLAN	12973
 Body Telecom Namibia and CRAN Formally Sign	13150
 Boma Lathu. Shadric Namalomba	6592
 Boost Household Productivity Indicator Name Unit	15601
-Botswana Namibia Ghana Morocco Tunisia Kenya	10837,1503,7598
+Botswana Namibia Ghana Morocco Tunisia Kenya	10837,1503,7598,274
 Botswana and Namibia	5382,3789,391,73,124,3710,6194
 Botswana and Namibia. The MoU	5315
 Boulsa Namentenga Centre-Nord	15715
@@ -306,7 +306,7 @@ Committee. MPC Members Present Name Role	17104
 Communication Regulatory Authority of Namibia	2588,5039,623,4671,313
 Communication Regulatory of Namibia	14382
 Communication and Technology of Namibia	12354
-Communications Regulatory Authority of Namibia	1750,150,75,1,1,2,1,6,36,547,19,429,442,2039,9,22,14,21,48,5,850,298,19,1,41,447,150,318,513,1,159,1,245,606,1199,575,673,519,104,123,7,399,54,2,61,20,59,8,2,2,29,48,33,42,5,1023
+Communications Regulatory Authority of Namibia	1750,150,75,1,1,2,1,6,36,547,19,429,442,2039,9,22,14,21,48,5,850,298,19,1,41,447,150,318,513,1,159,1,245,606,1199,575,673,519,104,123,7,399,54,2,61,20,59,8,2,2,29,48,33,42,5,1023,5827
 Communications Regulatory Authority of Namibia FDI Foreign	12973
 Communique Wagon NEWSLETTER NamRA Backs Small	13044
 Communities Indicator Name Baseline Closing Period	17962
@@ -425,7 +425,7 @@ Development Bank of Namibia	3714
 Development Bank of Namibia DHS Demographic and Health	12923
 Digital Access and Inclusion Revised Indicator Name	4653
 Digital Economy Namibia	13084
-Digital Namibia	13031
+Digital Namibia	13031,7120
 Digitalization of Street Naming	11129
 Digitalization of Street Naming Address Maps	11129
 Digitalized Namibia	4980
@@ -571,7 +571,7 @@ Geofind Namibia	13031
 Geographic Portal for Namibia	13031
 Geographical Names	18904
 Geographical Names Register	4214
-Ghana Domain Name Registry	587,3900,219
+Ghana Domain Name Registry	587,3900,219,15476
 Ghana Kenya Mozambique Namibia Nigeria South	5247
 Given Names	12410,897
 Glossary of Terms Full Name Short Name	12364
@@ -761,6 +761,7 @@ Jamii Namba	1644,215,62,947,2829,196,230,204,235,158,96,3644,131,542,8469
 Jamii Namba ID	2783
 Jamii Namba. Deputy Home Affairs Minister	5893
 Jamii Namba. Kauli	6327
+Jean Luc Namega Mastaki	20094
 Jedwali Namba	19565
 Joaquim Namoni	11561
 John-Allan Namu	4258
@@ -1022,6 +1023,7 @@ NAM-CSRIIT	12459
 NAM-NSA-NCA-CN-2013-2014-v02	9485
 NAM-SIRIIT	12459
 NAM-X	13037
+NAMA Nationally Appropriate Mitigation Action	20223
 NAMADAL BILINGUNG NGUNG	1855
 NAMALA GUIMBA	17828
 NAMANDJI Tounte SCH	19251
@@ -1433,7 +1435,7 @@ Name2 Position3 Staff-month Rate4 Foreign Staff	13037
 NameDescriptionDuration gac Contains	3212,2216,578
 NameDescriptionDurationCookie PreferencesThis	3212,2216,578
 NameDescriptionDurationwordpress logged inUsed	3212,2216,578
-Named	776,22,728,92,177,1011,402,905,162,350,434,132,854,381,529,51,83,1986,1147,692,242,176,2819,1013,740
+Named	776,22,728,92,177,1011,402,905,162,350,434,132,854,381,529,51,83,1986,1147,692,242,176,2819,1013,740,4150
 Named ADVOCACY ANALYSIS	3572
 Named African	9611
 Named Best	2269
@@ -1493,7 +1495,7 @@ Namibe Uíge Zaire Professores	10766
 Namibe. O Conecta Angola	6585
 Namibe. SASSCAL. O Centro	11437
 Namibe.5	11417
-Namibia	159,10,67,69,13,7,77,1,109,77,55,132,186,51,3,14,1,115,87,9,1,36,154,32,89,36,6,63,188,24,51,6,16,31,1,1,2,1,1,5,1,10,2,23,50,158,5,105,124,26,98,89,5,79,14,56,104,60,7,15,163,73,99,17,41,29,6,14,16,9,48,7,48,33,14,80,45,23,38,39,8,110,77,19,77,26,49,157,50,1,62,88,7,50,169,7,46,78,19,13,8,30,26,45,5,161,7,74,79,7,74,10,4,5,22,14,21,48,5,64,99,14,132,64,65,28,143,22,2,11,78,29,58,37,76,18,75,4,2,25,1,5,7,5,2,25,2,52,3,19,8,33,1,50,22,40,50,8,2,100,11,17,62,85,57,93,17,188,50,29,34,2,50,32,80,45,55,1,14,70,23,1,134,3,1,3,158,1,1,137,58,50,16,46,118,3,127,136,1,1,54,9,182,46,76,10,77,104,16,67,10,113,1,79,1,120,73,1,22,137,54,94,5,75,25,32,35,25,63,45,5,21,34,16,3,2,6,94,28,37,91,26,12,6,17,175,2,32,35,6,202,72,32,58,84,15,16,1,2,217,1,46,1,9,47,22,20,4,69,2,6,3,1,3,1,1,3,7,1,1,1,2,5,3,2,6,1,2,2,2,3,2,4,2,4,4,1,13,8,21,5,3,9,7,2,1,7,2,1,9,45,63,21,54,194,25,5,9,1,2,5,1,5,2,1,2,2,1,7,1,1,5,2,4,5,6,2,1,1,1,1,4,1,5,1,8,2,2,5,1,2,1,7,1,6,1,4,1,3,6,4,3,2,1,3,4,3,2,2,3,9,1,6,2,7,5,3,1,4,2,1,2,2,1,5,2,2,2,10,15,3,1,1,1,4,4,1,2,5,4,14,1,1,5,3,5,4,1,1,6,10,7,3,4,1,7,6,9,63,10,26,19,5,42,57,3,32,28,25,106,22,28,56,4,325,154,41,14,36,4,29,6,292,50,102,171,450,24,1418,53,309,492,2,23,16,12,74,622,406,12,455,225,43,20,15,9,145,1,13,2,20,1,30,50,48
+Namibia	159,10,67,69,13,7,77,1,109,77,55,132,186,51,3,14,1,115,87,9,1,36,154,32,89,36,6,63,188,24,51,6,16,31,1,1,2,1,1,5,1,10,2,23,50,158,5,105,124,26,98,89,5,79,14,56,104,60,7,15,163,73,99,17,41,29,6,14,16,9,48,7,48,33,14,80,45,23,38,39,8,110,77,19,77,26,49,157,50,1,62,88,7,50,169,7,46,78,19,13,8,30,26,45,5,161,7,74,79,7,74,10,4,5,22,14,21,48,5,64,99,14,132,64,65,28,143,22,2,11,78,29,58,37,76,18,75,4,2,25,1,5,7,5,2,25,2,52,3,19,8,33,1,50,22,40,50,8,2,100,11,17,62,85,57,93,17,188,50,29,34,2,50,32,80,45,55,1,14,70,23,1,134,3,1,3,158,1,1,137,58,50,16,46,118,3,127,136,1,1,54,9,182,46,76,10,77,104,16,67,10,113,1,79,1,120,73,1,22,137,54,94,5,75,25,32,35,25,63,45,5,21,34,16,3,2,6,94,28,37,91,26,12,6,17,175,2,32,35,6,202,72,32,58,84,15,16,1,2,217,1,46,1,9,47,22,20,4,69,2,6,3,1,3,1,1,3,7,1,1,1,2,5,3,2,6,1,2,2,2,3,2,4,2,4,4,1,13,8,21,5,3,9,7,2,1,7,2,1,9,45,63,21,54,194,25,5,9,1,2,5,1,5,2,1,2,2,1,7,1,1,5,2,4,5,6,2,1,1,1,1,4,1,5,1,8,2,2,5,1,2,1,7,1,6,1,4,1,3,6,4,3,2,1,3,4,3,2,2,3,9,1,6,2,7,5,3,1,4,2,1,2,2,1,5,2,2,2,10,15,3,1,1,1,4,4,1,2,5,4,14,1,1,5,3,5,4,1,1,6,10,7,3,4,1,7,6,9,63,10,26,19,5,42,57,3,32,28,25,106,22,28,56,4,325,154,41,14,36,4,29,6,292,50,102,171,450,24,1418,53,309,492,2,23,16,12,74,622,406,12,455,225,43,20,15,9,145,1,13,2,20,1,30,50,48,93,71
 Namibia AFR UMI	17743
 Namibia AI Readiness Assessment Methodology	5036
 Namibia Access	1025
@@ -1747,6 +1749,7 @@ Namibia's National Human Rights Institution	13097
 Namibia's National Integrated Resource Plan	12399
 Namibia's National Payment System	8251,4228,713,2
 Namibia's National Population Registration System	589
+Namibia's National Root Certification Authority	20080
 Namibia's National Standardisation Strategy and Plan	13034
 Namibia's Omaheke	9666
 Namibia's Oshikango	9399
@@ -1983,6 +1986,7 @@ Namna Kesi Zilivyoshughulikiwa Ushughulikiaji	19517
 Namo Z. Lawson	16135
 Namoin Yao-Baglo	19363
 Namon Dankpen3	19350
+Namono	20158
 Namorona Rendgociation des Contrats Juridique	14479
 Namorupus	8213
 Namory Camara	16680

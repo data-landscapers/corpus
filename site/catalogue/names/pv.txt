@@ -61,10 +61,11 @@ MW Mmadinare Solar PV	19677
 MW PV	10180,3615
 MW Salima Nanjoka Solar PV	13060
 MW Salima Solar PV	13060
-MW Solar PV	16966
+MW Solar PV	16966,3257
 MW Solar PV Farm	14745
 MW Solar PV Mini-grid	14080
 MW Solar PV Pillar	18795
+MW Solar PV Plant	20223
 MW Solar PV Power Plants	13123
 MW Solar PV US	12399
 MWc de PV	14479

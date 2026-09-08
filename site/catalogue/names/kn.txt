@@ -53,6 +53,7 @@ Case for Digital Public Infrastructure. Knight	5700
 Ceiling. Knowledge Doesn't	10078
 Center. KNOWLEDGE MANAGEMENT The Executive Regulations	15484
 Centralised Know Your Customer	14819
+Centralized Know Your Customer	20221
 Chamber of Telecommunications Knowledge Forum	11132
 Change Knowledge Portal	16896,26
 Charge Electronic Know Bank Monthly	18450
@@ -266,10 +267,10 @@ KNPHl	4153
 KNQA Training	7548
 KNSCC	18575
 KNTC. The AFA and KNTC	10313
-KNUST	4126,1101,719,401,3073,10,131,73,907,6719,2556,150
+KNUST	4126,1101,719,401,3073,10,131,73,907,6719,2556,150,216,2
 KNUST E-Learning Centre	8748
 KNUST Management	10541
-KNUST Responsible AI Lab	5935
+KNUST Responsible AI Lab	5935,14247
 KNUST Responsible AI Laboratory	4126
 KNUST Vice-Chancellor	5227
 KNUST and AIMS	4126
@@ -354,12 +355,12 @@ Know-Your-Customer	1401,888,5846,2630,10,1412,908,415,3432
 Know-Your-Customer M2M Machine	13346
 Know-Your-Customers	15493
 Know-how	18793
-Know-your-customer	15493
+Know-your-customer	15493,4731
 KnowBe4 Africa	14376
 KnowBe4. The KnowBe4 Africa Human Risk	3253
 KnowYour-Customer	12453
 Knowhow3000	13991
-Knowing	1000,8386,2296,822,171,857,1941,1570,1250,1416,279
+Knowing	1000,8386,2296,822,171,857,1941,1570,1250,1416,279,218
 Knowing Yourself and Building Your Career Plan	16198
 Knowing the Family	14835
 Knowingly	3383,13450,1853
@@ -381,7 +382,7 @@ Knowledge Consulting Limited	11552
 Knowledge Consulting Ltd	15164,4475
 Knowledge Consulting Ltd KENET Kenya Education	15164
 Knowledge Creation	899
-Knowledge Deepening	899
+Knowledge Deepening	899,19309
 Knowledge Deepening and Knowledge	899
 Knowledge Development	17157
 Knowledge Development MODIS Moderate Resolution Imaging	17157
@@ -394,6 +395,7 @@ Knowledge Exchange	4583,2380,5090,303
 Knowledge Exchange and Capacity Building Recognizing	13042
 Knowledge Financial	14997
 Knowledge Financial Skill	14997
+Knowledge Gap Rwanda	20100
 Knowledge Generation	18625
 Knowledge Graphs	17116
 Knowledge Graphs and NoSQL	17116

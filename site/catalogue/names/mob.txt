@@ -96,6 +96,7 @@ Airtel Mobile Money Rwanda	921
 Airtel Mobile Money Tanzania	2226
 Airtel Mobile Money Uganda	922
 Airtel Mobile Money Zambia	923
+Airtel Money and Zamtel Money. Mobile-money	20133
 Airtel and Lyca Mobile	4753
 Alert Communication Management PIXv3 Mobile Care	1009
 Algérie Télécom Mobile	15471,414,58
@@ -483,7 +484,7 @@ Employee Acquisition and Mobility Policy	5533,6453
 Enabling Affordable Mobile Communication Solutions for Rural	19532
 Ends Era of Mobile Money Silos Contributing	4282
 Energy Challenges for Mobile Networks	19728
-Energy Mobile Communications Internet	10759,78,1315,188,7598
+Energy Mobile Communications Internet	10759,78,1315,188,7598,274
 Enhanced Mobile Broadband	5675
 Enhanced Mobile Broadband and Fixed Wireless Access	2528
 Enhancing Regular and Safe Mobility Pathways	7048
@@ -851,6 +852,7 @@ LANDLOCKED DEVELOPING COUNTRY MOBILE OWNER	11004
 LANDSCAPE PRODUCTS Mobile	418
 LDCs. The Mobile Gender Gap Report	11004
 LE CAMEROUN ET LE MALI MOBILISÉS	16421
+LE FONIJ LANCE UNE MOBILISATION NATIONALE	20075
 LE GOUVERNEMENT MOBILISE PLUS	4895
 LES ACTEURS DE TERRAIN MOBILISÉS POUR	16396
 LIBTELCO Mobile	17260
@@ -868,6 +870,7 @@ Land Mobile Radio	762
 Land Mobile Radio Service	762
 Land Mobile Services Licence Application Duration	17250
 Landlocked Developing Countries Mobile	10844
+Launch New Mobile App for Pensioners Salamatu	20195
 Le Mobile ID	13919
 Le Mobile Money	2261,504,6254,2925
 Le Registre des Sûretés Mobilières	17847
@@ -1029,6 +1032,7 @@ MOBILITÉ MAXIMALE	13524
 MOBILIZATION	17101
 MOBILIZE PRIVATE SECTOR INVESTMENT AND INNOVATION	15977
 MOBOULA Jean Elvis INS	15580
+MOBSE	20221
 MOBSE Gender Unit	16951
 MOT-OVRS Mobile App	17142
 MOYENS DE MOBILISATION DES RESSOURCES	16621
@@ -1117,15 +1121,20 @@ Minister of Territorial Administration and Mobility	16317
 Minute Mobile Tariffs	6946
 Minutes Domestic Mobile	6946
 Mn Mobile	3898
-MoBSE	1000,3829,1219,7010,3794,57,2,16,178,2922
+MoBSE	1000,3829,1219,7010,3794,57,2,16,178,2922,188,2,22
 MoBSE Capacity	16927
 MoBSE Headquarters	16852
+MoBSE Ministry of Basic and Secondary Education	20217
 MoBSE Ministry of Basic and Secondary Education MoFEA	16852
 MoBSE Number	16927
 MoBSE Number of MoBSE	16927
 MoBSE PhD	16911
+MoBSE Senior Management Team	20217
+MoBSE and HISP WCA	20215
+MoBSE and Health Ministry	20239
 MoBSE and MoHERST	16852
 MoBSE and Participating LGAs. Timing	13058
+MoBSE-Planning-EMIS	20217
 Mob Violence	16935
 Moba. Training	11906
 Mobaye Monga BerbÃ	18887
@@ -1147,7 +1156,7 @@ Mobil Banking	3715
 Mobil Component	17219
 Mobil Money	6045
 Mobil Virtuel	17824
-Mobile	50,186,86,74,22,1,163,31,26,79,43,61,118,29,29,11,4,24,182,9,56,79,21,142,15,42,40,2,2,68,82,38,3,10,35,81,44,34,277,32,150,1,1,1,1,4,1,1,1,1,2,1,1,1,1,1,3,1,1,1,3,13,181,72,1,9,217,9,30,159,74,18,113,17,38,27,20,24,120,13,27,83,15,7,66,36,10,1,3,2,3,1,1,1,44,9,19,114,15,6,23,45,6,6,58,252,38,4,4,56,59,9,45,21,72,15,24,9,23,10,58,16,24,37,21,63,18,91,10,1,2,73,20,3,190,44,4,14,8,27,35,10,12,28,29,27,51,50,8,120,30,29,14,27,3,53,48,8,138,15,20,154,34,10,10,10,68,37,6,23,26,10,43,16,2,8,9,41,46,8,8,24,147,31,65,80,14,87,11,82,26,24,1,21,6,23,24,43,25,65,10,14,153,3,78,11,3,24,86,38,9,216,14,37,86,46,43,47,37,6,1,12,26,32,28,39,122,25,18,19,9,64,87,153,96,49,51,2,14,55,72,50,9,12,23,38,104,23,35,115,2,89,15,6,68,146,342,10,1,17,19,10,1,18,3,12,3,2,4,11,56,32,1,4,8,3,24,13,15,47,51,3,5,2,28,27,16,51,12,36,190,63,48,46,66,7,127,18,4,5,1,10,7,1,15,17,9,8,3,5,4,1,4,2,15,8,8,4,26,18,40,25,23,21,1,28,17,9,32,3,13,7,1,2,6,8,11,3,33,11,7,4,4,17,9,10,8,6,17,15,3,3,10,30,13,36,65,15,25,16,102,158,88,32,32,15,31,180,17,1,1,17,13,2,1,43,87,55,9,17,28,89,6,208,89,36,18,66,53,87,30,126,5,6,269,49,19,8,10,2,16,3,33,9,13,17,27,3,5,9,8,4,21,35,32,23,2,1,62,35,10,6,69,1,15,61,20,18,22,30,39,13,23,24,5,4,11,22,5,32,3,21,22,4,1,16,4,8,33,51,7,54,69,1,75,1,40,67,1,15,3,1,3,94,297,224,123,2,23,63,8,39,1,10,6,2,33,9,34,27,35,26,8,13,12,10,38,41,7,4,11,126,163,11,193,2,1,87,29,8,7,1,4,20,4,19,46,151,1,10,226,85,12,6,14,27,54,14,6,39,4,13,55,15,12,39,23,110,44,86,134,86,8,93,194,1,9,13,67,11,6,2,1,9,8,43,13,13,28,106,3,5,8,11,14,28,1,8,12,14,4,25,9
+Mobile	50,186,86,74,22,1,163,31,26,79,43,61,118,29,29,11,4,24,182,9,56,79,21,142,15,42,40,2,2,68,82,38,3,10,35,81,44,34,277,32,150,1,1,1,1,4,1,1,1,1,2,1,1,1,1,1,3,1,1,1,3,13,181,72,1,9,217,9,30,159,74,18,113,17,38,27,20,24,120,13,27,83,15,7,66,36,10,1,3,2,3,1,1,1,44,9,19,114,15,6,23,45,6,6,58,252,38,4,4,56,59,9,45,21,72,15,24,9,23,10,58,16,24,37,21,63,18,91,10,1,2,73,20,3,190,44,4,14,8,27,35,10,12,28,29,27,51,50,8,120,30,29,14,27,3,53,48,8,138,15,20,154,34,10,10,10,68,37,6,23,26,10,43,16,2,8,9,41,46,8,8,24,147,31,65,80,14,87,11,82,26,24,1,21,6,23,24,43,25,65,10,14,153,3,78,11,3,24,86,38,9,216,14,37,86,46,43,47,37,6,1,12,26,32,28,39,122,25,18,19,9,64,87,153,96,49,51,2,14,55,72,50,9,12,23,38,104,23,35,115,2,89,15,6,68,146,342,10,1,17,19,10,1,18,3,12,3,2,4,11,56,32,1,4,8,3,24,13,15,47,51,3,5,2,28,27,16,51,12,36,190,63,48,46,66,7,127,18,4,5,1,10,7,1,15,17,9,8,3,5,4,1,4,2,15,8,8,4,26,18,40,25,23,21,1,28,17,9,32,3,13,7,1,2,6,8,11,3,33,11,7,4,4,17,9,10,8,6,17,15,3,3,10,30,13,36,65,15,25,16,102,158,88,32,32,15,31,180,17,1,1,17,13,2,1,43,87,55,9,17,28,89,6,208,89,36,18,66,53,87,30,126,5,6,269,49,19,8,10,2,16,3,33,9,13,17,27,3,5,9,8,4,21,35,32,23,2,1,62,35,10,6,69,1,15,61,20,18,22,30,39,13,23,24,5,4,11,22,5,32,3,21,22,4,1,16,4,8,33,51,7,54,69,1,75,1,40,67,1,15,3,1,3,94,297,224,123,2,23,63,8,39,1,10,6,2,33,9,34,27,35,26,8,13,12,10,38,41,7,4,11,126,163,11,193,2,1,87,29,8,7,1,4,20,4,19,46,151,1,10,226,85,12,6,14,27,54,14,6,39,4,13,55,15,12,39,23,110,44,86,134,86,8,93,194,1,9,13,67,11,6,2,1,9,8,43,13,13,28,106,3,5,8,11,14,28,1,8,12,14,4,25,9,88,25,16,88
 Mobile AI-Powered Diagnostics Equip	17157
 Mobile Access	18557
 Mobile Access Centers	2868
@@ -1161,7 +1170,7 @@ Mobile Alert	1009
 Mobile All	14965
 Mobile Analytics and Decision Support	16923,1
 Mobile Android	12693
-Mobile App	775,7667,3893,24,612,66,1713,29,26,6,2331,1389
+Mobile App	775,7667,3893,24,612,66,1713,29,26,6,2331,1389,1689
 Mobile App Coming Soon	5817
 Mobile App Developers	6832
 Mobile App Pesa	13390
@@ -1245,7 +1254,7 @@ Mobile Commerce Congo	15848
 Mobile Commerce Congo S.A	2436,13412
 Mobile Commerce Congo S.a	15848
 Mobile Communication System	13331,5446
-Mobile Communications	10759,76,2,1,74,56,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Mobile Communications	10759,76,2,1,74,56,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 Mobile Communications Associations GUE Guichet Unique	13312,2
 Mobile Communications GUP Guichet Unique Provincial	13331
 Mobile Communications HDI Human Development Index	17862
@@ -1360,7 +1369,7 @@ Mobile Health Technology Africa Ministry of Foreign	833
 Mobile Hub	92
 Mobile Hub and Greentree	92
 Mobile I Remote Site Equipment Make	736
-Mobile ID	1278,101,325,165,494,1242,280,29,508,535,19,1,1895,5487,475,1085,797,24,12,38,4676,21
+Mobile ID	1278,101,325,165,494,1242,280,29,508,535,19,1,1895,5487,475,1085,797,24,12,38,4676,21,734
 Mobile ID Any	14716
 Mobile ID E-Houwiya	2475
 Mobile ID Le Mobile ID	19466
@@ -1596,7 +1605,7 @@ Mobile Phone Smartphones	2776
 Mobile Phone Subscription Report	14935
 Mobile Phone Towers Establishment	15578
 Mobile Phone Use	18441
-Mobile Phones	13347,6292
+Mobile Phones	13347,6292,582
 Mobile Phones Man Arrested for Allegedly Impersonating	3955
 Mobile Platform	11216,1701
 Mobile Platforms	11131
@@ -1913,7 +1922,7 @@ Mobilize Support and Resources	12356
 Mobilize Sustainable Financing	11285
 Mobilized	14997
 Mobilizes	14997,2160
-Mobilizing	9766,1363,11,216,541,27,404,1540,123,87,919,666,1252,51,161,130,61,1211
+Mobilizing	9766,1363,11,216,541,27,404,1540,123,87,919,666,1252,51,161,130,61,1211,1694
 Mobilizing Civil Society	12399
 Mobilizing Domestic Revenue for Fiscal Sustainability	11710
 Mobilizing Domestic Savings	14997
@@ -2148,6 +2157,7 @@ Projeto Mobilidade Transfronteiriça de Mulheres Importadoras	5402
 Promise and Limitations of Technology for Tax Mobilization	17011
 Promotion des Mobilier	17817
 Prophetic Mobiliser for National Transformation	6690
+Provision of Mobile Money Services	20224
 Prudential Bank Mobile App	8442
 Public Access Mobile Radio and Integrated Services	18444
 Public Enterprises GMPCS Global Mobile Personal	6946
@@ -2251,10 +2261,10 @@ Retail Tariffs for Mobile and Fixed Telephone Service	718
 Rev. Interdiscip. Mobil. Hum	10765,10
 Revenu des Capitaux Mobiliers	15999
 Revenu des Valeurs Mobilières	2342
-Revenue Mobilisation	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,5988,1176,1,169,14,22,1,65,14,1,48
+Revenue Mobilisation	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,5988,1176,1,169,14,22,1,65,14,1,48,225
 Revenue Mobilisation Absence of Crime	10835,3,130,902,16,466,1,135,7334
 Revenue Mobilisation Allocation and Fiscal Commission	11976
-Revenue Mobilisation Budgetary	10759,78,1315,188,7598
+Revenue Mobilisation Budgetary	10759,78,1315,188,7598,274
 Revenue Mobilisation Strategy	13685,4815
 Revenue Mobilisation. The Appropriation Act	18500
 Revenue Mobilization	10852,145,1388,563,3996
@@ -2318,6 +2328,7 @@ Safari. Mobile Phones	13037
 Saifi. Mobile Services Record	11642
 Sakeng Mobile Promotional Data Bundles	11259
 Sakeng Mobile Retail Packages	11259
+Salaam. Mobile	20117
 Salam Mobile	5033,13854
 Salesforce IBM China Mobile Fujitsu IBM	6477
 Savings Mobilisation	13474
@@ -2398,7 +2409,7 @@ Telefonica Mobile	15471
 Telephone Mobile Computer Internet	18441
 Telesom Mobile	6078
 Television Services GSM Global System for Mobile	16992
-Telkom Mobile	11259
+Telkom Mobile	11259,8942
 Telkom Mobile All-networks	11259
 Telkom Mobile FNB Connect Cell C	11259
 Telkom Mobile Ke Dezemba	11259

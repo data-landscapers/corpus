@@ -474,7 +474,7 @@ Bounced African Low Lunar Spheres. Once	10076
 Bouncers	13624
 Bouncing Back	10912,975,1,1,264,1,9,178,7311,1,205,1,65,15
 Bouncing Back African	12341
-Bouncing Back Score	10837,1315,188,7598
+Bouncing Back Score	10837,1315,188,7598,274
 Bouncing Back Security	12341
 Bouncing Back Year-by-year	19653
 Bouncing Back. African	11887
@@ -746,8 +746,8 @@ Delimitation of Constituency Boundaries The Constitution	12652
 Delimitation of Electoral Boundaries	13501
 Demarcation of Electoral Boundaries	15927
 Department of Boundary Management	17228
-Deterioration Bouncing Back Not Classified	10837,1503,7598
-Deterioration Bouncing Back Not Classified Between	19938
+Deterioration Bouncing Back Not Classified	10837,1503,7598,274
+Deterioration Bouncing Back Not Classified Between	19938,274
 Di Sourou Boucle du Mouhoun	15715
 Dieb Bousmat	15732
 Digitalization Boukar Michel	4548
@@ -935,7 +935,7 @@ Ibrouchene Boualem	15456
 Imasgho Boulkiemdé Centre-Ouest	15715
 Imed Bouhouche	15410
 Immeuble Bouka	15439
-Improvement Bouncing Back Increasing Deterioration Slowing	10837,1503,7598
+Improvement Bouncing Back Increasing Deterioration Slowing	10837,1503,7598,274
 Impôts Prévisions M. Mamadou Boulouma Directeur	10812
 Inconsistent and Confusing Boundaries	15473
 Increasing Improvement Bouncing Back No Change	10835,3,130,902,16,466,1,135,7334
@@ -1527,7 +1527,7 @@ Trend Bouncing Back	10835,3,130,902,16,466,1,135,7334
 Trend Bouncing Back Anti-Corruption	12341
 Trend Bouncing Back Slowing Deterioration Increasing	10835,3,130,902,16,466,1,135,7334
 Trend Increasing Improvement Bouncing Back Overall	10835,3,1048,466,1,135,7334
-Trend Increasing Improvement Bouncing Back Slowing	10759,76,3,130,902,16,466,1,135,7334,116
+Trend Increasing Improvement Bouncing Back Slowing	10759,76,3,130,902,16,466,1,135,7334,116,274
 Trois Boutiques Football Ground District Council	14746
 Trois Boutiques Village Hall	14746
 UNIVERSI TE DE BOUMERDES Miel	16103

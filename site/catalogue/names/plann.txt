@@ -239,6 +239,7 @@ Directorate of Water Resources Planning Management	18309
 Directorates of Cadaster and Town Planning	15511
 Directorates of Planning and Gender Equality	16951
 Directorates of Town Planning and Estates Management	12253
+Directors of Policy and Planning	20156
 Disaster Planning	16941
 Disaster Recovery Planning	6432
 Disclosure of Tax Planning	11976
@@ -290,6 +291,7 @@ Economic Planning and Integration	4103,3684,1375
 Economic Planning of Rwanda Signed Framework Agreement	791
 Economic and Planning Tanzania Investment Centre	19519
 Economy and Planning	15478,253,2562
+Education Directorate of Planning	20217
 Education PPD Planning and Policy Directorate PQTR	18460
 Education Planning Directorate	14851
 Education Policy and Research Planning	19790
@@ -722,6 +724,7 @@ Multi-Year Operational Planning	18531
 Municipal Investment Planning	18476
 Municipal Planning Amendment By-law	7343
 Municipal Planning Tribunal	7343,7330
+NA AML Law YES Planned	20214
 NA. Planned	19741
 NATIONAL PLANNING AND BUDGETING ACT	13318
 NATIONAL PLANNING COMMISSION PART XIX	6921
@@ -763,7 +766,7 @@ National Planning Act	12546
 National Planning And Trade	18948
 National Planning Authority	9696,9946,18,6,46,7,22,2,15,45
 National Planning Authority and Equal	19712
-National Planning Commission	586,4450,1796,95,3268,1000,29,457,179,315,6,59,85,96,125,375,2,18,41,2,2,132,3721,2764,80
+National Planning Commission	586,4450,1796,95,3268,1000,29,457,179,315,6,59,85,96,125,375,2,18,41,2,2,132,3721,2764,80,473
 National Planning Commission Act	19602
 National Planning Commission Advisory Council	12546
 National Planning Commission Central Statistical Agency	13965
@@ -840,6 +843,7 @@ POLICY AND PLANNING The Ministry	19641
 POPULATION DISTRIBUTION BY REGION Planning	19544
 POST-PARTUM FAMILY PLANNING UPTAKE	19544
 POST-PARTUM FAMILY PLANNING UPTAKE Postpartum Family	19544
+PPARBD Policy Planning Analysis Research Budgeting	20217
 PPME Policy Planning Monitoring and Evaluation RSIM	15556
 PPPC During Planning N	12253
 PS-9 Spectrum Planning	11857
@@ -851,7 +855,7 @@ Physical Planning Officers	16524
 Physical and Land Use Planning Act	14595
 Plan NPA National Planning Authority RAP	19666
 Plan SDP Spatial Development Planning SETA	11261
-Planned	249,648,73,1919,568,66,31,2044,1223,11,2135,156,1236,299,127,27,323,45,81,655,37,4,279,133,52,183,12,59,42,50,291,37,237,399,11,885,102,101,37,30,48,104,32,78,445,100,33,6,15,44,1056,26,1,50,6,34,139,25,104,17,379,494,148,1200,103,38,203,144,32
+Planned	249,648,73,1919,568,66,31,2044,1223,11,2135,156,1236,299,127,27,323,45,81,655,37,4,279,133,52,183,12,59,42,50,291,37,237,399,11,885,102,101,37,30,48,104,32,78,445,100,33,6,15,44,1056,26,1,50,6,34,139,25,104,17,379,494,148,1200,103,38,203,144,32,220
 Planned Action	16884,1
 Planned Action Accelerating	16884
 Planned Action Achieving	16884
@@ -980,7 +984,7 @@ Planners	396,7570,4996
 Planners KM Kilometers KMHFL Kenya Master	2775
 Planners and M&E Officers	16944
 Plannin	19690
-Planning	55,1,50,19,23,36,52,11,92,57,22,540,256,47,516,47,141,23,105,3,679,214,594,21,297,17,1,1,3,291,83,486,892,556,437,280,600,154,388,1033,84,1106,467,49,135,21,144,2,2,3,57,16,7,6,34,5,8,591,47,9,24,36,10,16,23,216,12,44,26,2,33,51,32,4,8,93,128,1,41,201,33,27,354,1,13,73,211,362,145,367,235,7,25,85,66,7,69,23,2,142,309,80,3,23,14,8,3,25,32,2,39,14,66,63,74,299,204,430,6,27,26,5,26,7,14,3,4,1,2,5,18,84,59,10,8,39,37,2,25,71,33,503,430,181,157,11,38,1,82,5,4,317,121,7,298,7,15,3,95,21,47,8,13,30,46,166,32
+Planning	55,1,50,19,23,36,52,11,92,57,22,540,256,47,516,47,141,23,105,3,679,214,594,21,297,17,1,1,3,291,83,486,892,556,437,280,600,154,388,1033,84,1106,467,49,135,21,144,2,2,3,57,16,7,6,34,5,8,591,47,9,24,36,10,16,23,216,12,44,26,2,33,51,32,4,8,93,128,1,41,201,33,27,354,1,13,73,211,362,145,367,235,7,25,85,66,7,69,23,2,142,309,80,3,23,14,8,3,25,32,2,39,14,66,63,74,299,204,430,6,27,26,5,26,7,14,3,4,1,2,5,18,84,59,10,8,39,37,2,25,71,33,503,430,181,157,11,38,1,82,5,4,317,121,7,298,7,15,3,95,21,47,8,13,30,46,166,32,215,6
 Planning Act	1988
 Planning Ahead Will Make	10763
 Planning Assumptions The Electoral Commission	7266
@@ -1064,9 +1068,10 @@ Planning and Digital Economy	1635
 Planning and Discovery	11216
 Planning and Eco	17101
 Planning and Economic Affairs	16830
-Planning and Economic Development	756,526,1,1474,1460,2264,308,1683,251,246,353,977,4501,1345,851,1468,1183,13,6,19,22,8,13,7,6,28,27,7,7
+Planning and Economic Development	756,526,1,1474,1460,2264,308,1683,251,246,353,977,4501,1345,851,1468,1183,13,6,19,22,8,13,7,6,28,27,7,7,259
 Planning and Economic Development Abbreviations and Acronyms	18577
 Planning and Economic Development Dr.Acen	4217
+Planning and Economic Development Henry Musasizi	20078
 Planning and Economic Development MGLSD Ministry of Gender	19647
 Planning and Economic Development MSCI Morgan Stanley	19633
 Planning and Economic Development Matia Kasaija	19729
@@ -1109,7 +1114,7 @@ Planning and Policy Directorate	18536
 Planning and Program Director Desalegn Dingeta	7820
 Planning and Programming Department	1824
 Planning and Project Management	13999
-Planning and Regional Development	103,5234,5504,5699
+Planning and Regional Development	103,5234,5504,5699,3629
 Planning and Regional Development Conseil National	15501
 Planning and Reporting Tool NBS National Bureau	19544
 Planning and Research	8271
@@ -1152,6 +1157,7 @@ Practical Considerations for Planning	8376
 Presidency for Planning	4831,6393
 Presidency for Planning Monitoring and Evaluation	11275
 President's Office for Finance and Planning	19542
+President's Office for Planning and Executive Secretary	20156
 President's Office of Planning and Investment	19534
 President’s Office Finance and Planning and Office	11142
 President’s Office for Planning and Investment	5789,4927
@@ -1254,6 +1260,7 @@ Seychelles Marine Spatial Planning Agency	19096
 Seychelles Marine Spatial Planning Agency Bill	19081
 Seychelles Planning Authority	18965
 Shanghai Planning Office of Philosophy and Social Science	8460
+Sohna Foon Chore Director Planning Policy	20217
 Somali Ministries of Planning	32
 South Africa. Planning	8915
 Space Planning Space	9123
@@ -1328,6 +1335,7 @@ TPRB Town Planners Registration Board TRC	19584
 TREND OF STATISTICAL PLANNING IN TANZANIA	19519
 Talent Management and Succession Planning Program	15713
 Tanzania Zanzibar Planning Commission	19542
+Tanzania's National Planning Commission	20156
 Technical Planning	18467
 Technical and Planning Workshop	18619
 Ten-Year Development Plan. State Minister of Planning	14121

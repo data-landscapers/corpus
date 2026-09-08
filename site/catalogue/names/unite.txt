@@ -10,7 +10,7 @@ AGREEMENT BETWEEN THE UNITED KINGDOM	15506
 AGREEMENT BETWEEN THE UNITED STATES	19214
 AGRHYMET UNITES DU CENTRE REGIONAL AGRHYMET	17941
 AIDS UNAM University of Namibia UNICEF United	12923
-AIDS UNCTAD United Nations Conference	10759,78,1052,451
+AIDS UNCTAD United Nations Conference	10759,78,1052,451,7872
 AIDS UNDP United Nations Development Programme	12939
 APPLES United States Standards for Grades of Apples	19749
 ASSISTANCE FRAMEWORK US UNITED STATES USAID	18105
@@ -99,7 +99,7 @@ Chief of Mission Priorities The United States	17883
 Child UNICEF United Nations Children’s Fund	16860
 Children's Fund UNIDO United Nations Industrial	17105
 Children's Fund UNISFA United Nations Interim	18668
-Children's Fund UNU-WIDER United Nations University	11889
+Children's Fund UNU-WIDER United Nations University	11889,8323
 Children's Fund UNWOMEN United Nations Entity	13312,2
 Children’s Fund UNU-WIDER United Nations University	10759,78,1503
 Children’s Fund United States Agency for International	14622
@@ -181,7 +181,7 @@ ESWATINI PREAMBLE The United States	4247
 EU and United States	11149
 East Africa. United Nations	12138
 Economic and Social Affairs UNDP United Nations	16885
-Economic and Social Affairs UNESCO United Nations	10759,78,1052,451
+Economic and Social Affairs UNESCO United Nations	10759,78,1052,451,7872
 Education and Training UK United Kingdom UN	17105
 Education and Training UN United Nations UNDP	15661
 Egyptian Personal Status Law United Nations	15627
@@ -256,13 +256,13 @@ HAVING REGARD TO the United Nations Convention	14447
 HUITIEME LEGISLATURE UNITE-PROGRES-JUSTICE	785,10040
 Head of United Nations Integrated Transition Assistance	15342
 Healthier Population UNCT United Nations Country	17289
-High Commissioner for Refugees UNICEF United Nations	10759,78,1052,451,6571
+High Commissioner for Refugees UNICEF United Nations	10759,78,1052,451,6571,1301
 High Commissioner for Refugees USA United State	17157
 High Commissioner for Refugees United Nations Children	16436
 Honoris United Universities. Il	11784
 Human Development Report Briefing. United Nations	13332
 Human Rights UNESCO United Nations Educational	18624
-Human Settlements Programme UNHCR United Nations	10759,78,1052,451
+Human Settlements Programme UNHCR United Nations	10759,78,1052,451,7872
 Human Settlements Programme United States Geological	16916
 Human and People's Rights AMUSI United Movement	12201
 Humanity United	15342
@@ -271,7 +271,7 @@ I. COOPERATION WITH THE UNITED STATES	12962
 ID United Arab	10714
 ID for All The United Nations Children	6807
 IFRC. The United Arab Emirates	18663
-IGME United Nations Inter-agency Group for Child	10759,76,2,1,130,902,16,3,451,12,1,135,7334
+IGME United Nations Inter-agency Group for Child	10759,76,2,1,130,902,16,3,451,12,1,135,7334,390
 IMF International Monetary Fund MCU United	4127
 INST-5429241D0B5 NAIROBI United Arab Emirates	7167
 INTERSESSIONAL PANEL OF THE UNITED NATIONS	19904
@@ -299,7 +299,7 @@ JD United Kingdom T	16628
 JICA and United Nations Children’s Fund	18559
 JOINT STATEMENT BETWEEN THE UNITED ARAB	18550
 Joining the United Nations Health4Life Fund	14773
-Joint United Nations Programme	10759,76,2,1,130,902,16,3,451,12,1,135,435,16,1368,2644,2702,169
+Joint United Nations Programme	10759,76,2,1,130,902,16,3,451,12,1,135,435,16,1368,2644,2702,169,390
 Jordan and United Arab Emirates	14897
 Jordan. For the United Kingdom	11135
 Justice Committees UN United Nations UNAIDS	12939
@@ -345,7 +345,7 @@ Ministry of Local Government UNHCR United Nations	12328
 Mogadishu HOL Man United	2719
 Monetaire Ouest Africaine UNDP United Nations	19239
 Monitoring UNESCO United Nations Educational	15621
-Mortality Estimation UN MMEIG United Nations	10759,76,2,1,130,902,16,3,451,12,1,135,7334
+Mortality Estimation UN MMEIG United Nations	10759,76,2,1,130,902,16,3,451,12,1,135,7334,390
 Mulenga. The United Nations Development Programme	8039
 My AI'. In the United States	12210
 NAIROBI United Arab Emirates	7167
@@ -576,7 +576,7 @@ ToC Theory of Change UNDP United Nations	18477
 Tourism Development Authority USAID United States	15473
 Toxoid UNICEF United Nations Children’s Fund	16971
 Track gauge in the United States	4259
-Trade and Development UNDESA United Nations Department	10759,78,1052,451
+Trade and Development UNDESA United Nations Department	10759,78,1052,451,7872
 Trade and Development UNDG United Nations Development	1243
 Trade and Development UNDP United Nations Development	1264,5682,602,6313,3081
 Trade and Development UNECA United Nations Economic	10841,8090
@@ -638,6 +638,7 @@ UNDP Liberia The United Nations Development	17078
 UNDP Mauritius Team United Nations	11332
 UNDP United Nations Cooperation Programme	12675
 UNDP United Nations Development Budgeting	11193
+UNDP United Nations Development Program	20223
 UNDP United Nations Development Program PUMA	13729
 UNDP United Nations Development Program USAID	16971
 UNDP United Nations Development Programme	19847
@@ -776,7 +777,7 @@ United Africa Blockchain Association	8298
 United Africa Co. Ltd	19814
 United Arab	9399
 United Arab Emir-	17743
-United Arab Emirates	1639,1285,34,323,776,158,232,136,28,216,127,119,13,161,844,211,109,110,92,177,9,50,97,34,17,154,388,148,129,37,196,77,139,2,228,150,297,457,61,397,361,567,61,225,60,3,1,1,4,45,105,206,5,108,33,80,200,104,43,82,110,8,319,158,57,168,4,148,203,95,95,367,23,158,11,401,212,131,90,163,20,167,3,209,242,113,220,896,7,510,434,410,247,406,162,7,329,148,31,235,32,1
+United Arab Emirates	1639,1285,34,323,776,158,232,136,28,216,127,119,13,161,844,211,109,110,92,177,9,50,97,34,17,154,388,148,129,37,196,77,139,2,228,150,297,457,61,397,361,567,61,225,60,3,1,1,4,45,105,206,5,108,33,80,200,104,43,82,110,8,319,158,57,168,4,148,203,95,95,367,23,158,11,401,212,131,90,163,20,167,3,209,242,113,220,896,7,510,434,410,247,406,162,7,329,148,31,235,32,1,329
 United Arab Emirates ARB HI	17743
 United Arab Emirates Bahrain Algeria Egypt	15725
 United Arab Emirates Central Bank and South	11185
@@ -825,7 +826,7 @@ United Insurance	14897
 United International Kingdom	19900
 United International Kingdom Virtual University	19900
 United Investment LMT	12035
-United Kingdom	10,563,216,181,68,205,311,260,735,77,149,149,24,404,161,70,864,525,63,74,93,45,32,23,185,124,5,59,197,136,161,347,274,59,97,51,102,99,253,97,71,197,29,8,412,175,131,218,278,29,25,106,122,9,101,44,142,53,8,126,124,132,67,63,52,317,102,25,4,67,56,5,103,182,3,1,19,15,5,5,13,107,273,37,259,54,18,85,126,57,168,442,104,118,68,14,210,102,146,29,76,62,67,752,107,48,21,8,3,21,5,14,26,26,51,1,100,95,280,99,35,114,385,431,192,148,82,9,7,231,107,23,132,378,35,28,62,36,79,140,490,62,227,698,20,40,70,208,69
+United Kingdom	10,563,216,181,68,205,311,260,735,77,149,149,24,404,161,70,864,525,63,74,93,45,32,23,185,124,5,59,197,136,161,347,274,59,97,51,102,99,253,97,71,197,29,8,412,175,131,218,278,29,25,106,122,9,101,44,142,53,8,126,124,132,67,63,52,317,102,25,4,67,56,5,103,182,3,1,19,15,5,5,13,107,273,37,259,54,18,85,126,57,168,442,104,118,68,14,210,102,146,29,76,62,67,752,107,48,21,8,3,21,5,14,26,26,51,1,100,95,280,99,35,114,385,431,192,148,82,9,7,231,107,23,132,378,35,28,62,36,79,140,490,62,227,698,20,40,70,208,69,173
 United Kingdom Centers for Disease Control and Prevention	16860
 United Kingdom Corresponding Author	12025
 United Kingdom EUR HI	17743
@@ -894,6 +895,7 @@ United Nation	15411,1422
 United Nation Children's Funds. VUP	12403
 United Nation Economic Commission for Africa	10819
 United Nation Mission	16949
+United Nation Population Division. World	20219
 United Nation's Children Fund	13003
 United Nation's E-Government Development Index	12674
 United Nation's Sustainable Development Goals	940,11734
@@ -901,7 +903,7 @@ United National Children’s Fund World Food	15601
 United National Population Fund VAC Violence	12939
 United National Security Council Resolution	18512
 United Nationissi	19526
-United Nations	236,79,626,20,282,391,4,176,73,25,205,145,87,86,90,4,148,114,167,203,71,12,321,18,21,108,149,57,1,1,207,143,258,98,378,40,30,13,23,55,80,122,166,21,188,261,195,114,61,101,138,29,64,244,94,16,53,58,29,43,67,11,103,9,20,8,79,9,130,71,96,25,136,44,63,250,17,248,85,27,205,73,25,39,24,30,512,3,57,364,138,82,159,263,51,10,1,9,34,21,1,11,4,107,1,1,4,35,24,43,78,5,23,8,3,5,2,15,14,34,4,17,5,48,8,58,71,56,11,16,17,12,28,4,38,206,10,1,16,3,8,14,11,40,26,10,6,136,15,1,4,1,4,38,4,9,13,4,10,37,49,3,5,2,1,3,10,4,2,3,7,9,37,28,46,20,5,21,11,82,33,8,7,1,17,33,34,27,42,82,31,7,14,2,8,3,6,5,51,3,2,7,31,13,2,27,22,4,18,19,29,5,34,78,1,27,8,15,6,6,81,10,24,34,1,68,49,91,12,31,12,1,130,39,12,19,22,89,79,79,132,25,52,31,49,108,1,54,3,10,3,21,8,3,32,10,9,3,22,21,5,15,1,1,1,37,1,24,6,36,19,2,17,17,24,13,36,91,15,10,166,4,32,31,13,1,26,56,16,14,16,1,13,24,3,2,52,10,6,170,18,32,85,153,9,382,51,156,49,7,4,16,9,4,6,1,2,5,6,6,14,5,6,8,6,1,1,3,4,1,1,6,57,33,20,12,21,26,12,1,17,8,73,19,32,3,11,15,48,50,22,335,51,110,208,55,18,177,45,6,82,4,16,13,1,4,4,3,8,7,12,22,14,17,8,16,49,7,47,91,5,14,27,35,36,32,437,62,1,2,1,2,32,1,47,11,19,15,6,30,38,26,35,12,9,33,3,9,10,1,13,2,13,17,53,13,14,4,7
+United Nations	236,79,626,20,282,391,4,176,73,25,205,145,87,86,90,4,148,114,167,203,71,12,321,18,21,108,149,57,1,1,207,143,258,98,378,40,30,13,23,55,80,122,166,21,188,261,195,114,61,101,138,29,64,244,94,16,53,58,29,43,67,11,103,9,20,8,79,9,130,71,96,25,136,44,63,250,17,248,85,27,205,73,25,39,24,30,512,3,57,364,138,82,159,263,51,10,1,9,34,21,1,11,4,107,1,1,4,35,24,43,78,5,23,8,3,5,2,15,14,34,4,17,5,48,8,58,71,56,11,16,17,12,28,4,38,206,10,1,16,3,8,14,11,40,26,10,6,136,15,1,4,1,4,38,4,9,13,4,10,37,49,3,5,2,1,3,10,4,2,3,7,9,37,28,46,20,5,21,11,82,33,8,7,1,17,33,34,27,42,82,31,7,14,2,8,3,6,5,51,3,2,7,31,13,2,27,22,4,18,19,29,5,34,78,1,27,8,15,6,6,81,10,24,34,1,68,49,91,12,31,12,1,130,39,12,19,22,89,79,79,132,25,52,31,49,108,1,54,3,10,3,21,8,3,32,10,9,3,22,21,5,15,1,1,1,37,1,24,6,36,19,2,17,17,24,13,36,91,15,10,166,4,32,31,13,1,26,56,16,14,16,1,13,24,3,2,52,10,6,170,18,32,85,153,9,382,51,156,49,7,4,16,9,4,6,1,2,5,6,6,14,5,6,8,6,1,1,3,4,1,1,6,57,33,20,12,21,26,12,1,17,8,73,19,32,3,11,15,48,50,22,335,51,110,208,55,18,177,45,6,82,4,16,13,1,4,4,3,8,7,12,22,14,17,8,16,49,7,47,91,5,14,27,35,36,32,437,62,1,2,1,2,32,1,47,11,19,15,6,30,38,26,35,12,9,33,3,9,10,1,13,2,13,17,53,13,14,4,7,162,67
 United Nations AI for Good Global Commission	11682
 United Nations AI for Good Global Summit	7174
 United Nations Administrative Region	13042
@@ -947,14 +949,14 @@ United Nations Children’s Fund. Available	15411
 United Nations Climate Change	13331
 United Nations Climate Change Conference	10768,804
 United Nations Climate Change Conference DRE	11572
-United Nations Commission	10819,731,1314,493,1385,10,377,1706,50,3019
+United Nations Commission	10819,731,1314,493,1385,10,377,1706,50,3019,320
 United Nations Commissioner for Human Rights	3583
 United Nations Committee	7760,5199,1815
 United Nations Committee of Experts	9651,9253
 United Nations Common Approach	14959
 United Nations Comtrade Database	10969,8896,130
 United Nations Con	11550,7815
-United Nations Conference	236,1007,21,2863,241,876,2304,1397,1773,105,18,3,1361,339,242,256,340,209,549,247,18,1073,2,1151,245,66,121,621,186,253,423,251,152,687,3,14,251
+United Nations Conference	236,1007,21,2863,241,876,2304,1397,1773,105,18,3,1361,339,242,256,340,209,549,247,18,1073,2,1151,245,66,121,621,186,253,423,251,152,687,3,14,251,320,6
 United Nations Conference for Trade and Development	12951
 United Nations Convention	940,801,936,1593,313,93,5091,18,9,1032,401,323,595,56,30,746,16,40,186,133,37,81,14,201,300,22,415,25,295,1,31,355,245,289,383,156,658,27,63,8,94,47,15,43,20,757,503,141,336,71,101,106,173
 United Nations Convention Against Corruption	3583,9525,900,2964,1825
@@ -987,7 +989,7 @@ United Nations Development Program UNECA United	13005,3916
 United Nations Development Program UNICEF United	13332
 United Nations Development Program USAID	16975
 United Nations Development Program. Experts	3583
-United Nations Development Programme	871,249,144,222,15,4,173,189,86,311,116,146,476,602,39,107,121,10,14,29,122,126,431,263,229,3,149,170,283,134,49,36,384,26,7,9,548,55,82,38,83,50,31,316,40,29,74,29,1,373,144,12,4,1,37,51,128,60,438,137,28,23,40,30,47,31,8,40,70,55,127,268,322,151,183,62,124,114,134,26,43,101,7,192,13,11,131,58,8,17,2,14,404,152,26,33,13,64,147,48,201,39,18,25,62,70,74,2,13,28,2,11,8,6,48,127,7,23,1,15,78,15,268,4,43,207,64,6,138,8,482,3,105,14,64,15,6,66,186,14,46,13,30,37,29,1,28,12,9,203,106,48,58,4,62,321,85,130,27,24,281,240,57,26,27,6,9,15,75,6,24,12,2,9,15,41,3,13,58,14,15,4,58,48,1,171,23,55,3,61,76,344,139,192,14,22,7,9,27,17,27,5,22,61,131,32,55,975,8
+United Nations Development Programme	871,249,144,222,15,4,173,189,86,311,116,146,476,602,39,107,121,10,14,29,122,126,431,263,229,3,149,170,283,134,49,36,384,26,7,9,548,55,82,38,83,50,31,316,40,29,74,29,1,373,144,12,4,1,37,51,128,60,438,137,28,23,40,30,47,31,8,40,70,55,127,268,322,151,183,62,124,114,134,26,43,101,7,192,13,11,131,58,8,17,2,14,404,152,26,33,13,64,147,48,201,39,18,25,62,70,74,2,13,28,2,11,8,6,48,127,7,23,1,15,78,15,268,4,43,207,64,6,138,8,482,3,105,14,64,15,6,66,186,14,46,13,30,37,29,1,28,12,9,203,106,48,58,4,62,321,85,130,27,24,281,240,57,26,27,6,9,15,75,6,24,12,2,9,15,41,3,13,58,14,15,4,58,48,1,171,23,55,3,61,76,344,139,192,14,22,7,9,27,17,27,5,22,61,131,32,55,975,8,221,162
 United Nations Development Programme DPI Safeguards	11940
 United Nations Development Programme Equatorial Guinea	17101
 United Nations Development Programme GDP	17101
@@ -1027,7 +1029,7 @@ United Nations E-Government Survey. Score	19931
 United Nations E-Participation Index	11569
 United Nations Early Warnings for All	15916,1359
 United Nations Economic	1554,9286
-United Nations Economic Commission for Africa	26,1,1,930,596,260,1244,1299,1235,291,726,278,642,898,327,408,32,1154,67,305,99,731,22,93,71,72,8,306,5,11,229,46,261,222,109,47,192,51,62,100,132,396,18,86,1,186,543,32,205,875,799,131,733,877,78,230,67,87,18,184,8,222,213,34,27,29,54,116,105
+United Nations Economic Commission for Africa	26,1,1,930,596,260,1244,1299,1235,291,726,278,642,898,327,408,32,1154,67,305,99,731,22,93,71,72,8,306,5,11,229,46,261,222,109,47,192,51,62,100,132,396,18,86,1,186,543,32,205,875,799,131,733,877,78,230,67,87,18,184,8,222,213,34,27,29,54,116,105,151,120,10
 United Nations Economic Commission for Africa AfCFTA	17101
 United Nations Economic Commission for Africa Conference	8472
 United Nations Economic Commission for Africa ECA	19135
@@ -1047,7 +1049,7 @@ United Nations Economic and Social Council	14932
 United Nations Economic and Social Council LT-LEDS	17101
 United Nations Economist Network	14819
 United Nations Education	15553
-United Nations Educational	1814,1002,2220,1175,737,114,779,868,493,553,748,637,16,109,304,310,26,270,181,39,571,697,275,18,175,341,41,109,153,636,36,157,17,104,321,143,271,482,7,14,33,322,552,895,31,283,563,11,182
+United Nations Educational	1814,1002,2220,1175,737,114,779,868,493,553,748,637,16,109,304,310,26,270,181,39,571,697,275,18,175,341,41,109,153,636,36,157,17,104,321,143,271,482,7,14,33,322,552,895,31,283,563,11,182,389
 United Nations Electronic Government Development	12453,892
 United Nations Electronic Government Development Index	15491
 United Nations Electronic Participation	11569
@@ -1057,7 +1059,7 @@ United Nations Environmental Programme	5247,3011
 United Nations Expert Group Meeting	15627,4303
 United Nations Experts	6950
 United Nations FAS-Local Development Institute Foreign	10763
-United Nations FFP Fund for Peace FH	10759,78,1052,451,7598
+United Nations FFP Fund for Peace FH	10759,78,1052,451,7598,274
 United Nations FGD	15118
 United Nations FONGS	18309
 United Nations FY Financial	18668
@@ -1089,13 +1091,14 @@ United Nations Global AI Governance Dialogue	7103
 United Nations Global Compact Initiative	16778
 United Nations Global Counter-Terrorism Strategy	11183
 United Nations Global Dialogue	7072,89,8,1459,1,632,3499
-United Nations Global Digital Compact	11478,5840
+United Nations Global Digital Compact	11478,5840,2906
 United Nations Global Geospatial Information Management	15129
 United Nations Global Mechanism	7552
 United Nations Global Principles for Information	10453
 United Nations Global Principles for Information Integrity	11011,6006,1
 United Nations Group	2958
 United Nations Guidelines	3861
+United Nations Guidelines for Consumer Protection	20224
 United Nations Guidelines for Consumer Protection. Web	16872
 United Nations Guiding Principles	3583
 United Nations H.E. Dr. Lansana Kouyaté	7452
@@ -1221,6 +1224,7 @@ United Nations Refugee Agency UNSDCF	10776
 United Nations Refugee Convention	1867
 United Nations Refugees Convention	12145
 United Nations Relief and Works Agency for Palestine	10841
+United Nations Representative	20131
 United Nations Resident Coordinator	5742,7244,158,413,562,1768,1402,1240
 United Nations Resident Coordinator Karl Frédérick	7171
 United Nations Resident Coordinator Ms	12626
@@ -1432,7 +1436,7 @@ United Seychelles	19098,4
 United State	14030
 United State Agency for International Development and United	17289
 United State of America N	12151
-United States	10,561,196,194,4,73,185,11,9,120,191,168,92,183,99,21,40,1,121,6,233,159,1,91,6,94,55,151,157,173,36,21,20,72,29,43,25,135,188,75,78,5,21,1,11,2,35,13,2,30,11,2,1,40,1,43,4,3,74,21,1,66,24,45,86,5,82,31,174,11,57,13,2,104,15,2,48,3,26,15,30,15,50,14,5,66,19,27,67,66,84,16,57,90,138,196,1,1,28,37,2,60,60,24,61,6,43,1,13,8,40,51,39,7,11,9,77,14,12,4,2,41,30,18,32,17,1,50,154,23,3,32,33,2,12,88,102,5,97,29,35,26,57,25,30,30,9,78,72,103,7,1,45,31,5,84,133,112,19,33,21,81,30,26,10,30,78,1,63,10,42,17,55,39,10,42,29,25,8,59,33,8,34,21,106,203,29,84,3,106,253,20,67,22,11,13,22,47,80,80,13,1,1,154,3,99,12,1,79,12,14,22,5,2,92,65,31,14,4,41,36,4,5,9,5,15,108,33,32,221,9,37,76,7,171,5,12,29,13,68,10,25,53,6,67,57,2,46,9,36,24,192,23,342,55,25,37,41,68,164,7,32,55,104,25,37,74,2,1,76,323,106,20,1,24,113,35,33,3,45,21,157,35,30,35,7,2,11,20,17,154,13,6,1,35,65,95,107,11,201,13,47,47,141,211,135,28,13,140,600,1,12,15,60,122,103,2,3,1,5,4,24,97,181,1,140,12,16,188,7,90,13,85,136,5,16,77,7,32,37,223,47,74,41,5,43,86,45,37,34,1,300,266,49,73,20,32,75,125,35,32,63,25,15
+United States	10,561,196,194,4,73,185,11,9,120,191,168,92,183,99,21,40,1,121,6,233,159,1,91,6,94,55,151,157,173,36,21,20,72,29,43,25,135,188,75,78,5,21,1,11,2,35,13,2,30,11,2,1,40,1,43,4,3,74,21,1,66,24,45,86,5,82,31,174,11,57,13,2,104,15,2,48,3,26,15,30,15,50,14,5,66,19,27,67,66,84,16,57,90,138,196,1,1,28,37,2,60,60,24,61,6,43,1,13,8,40,51,39,7,11,9,77,14,12,4,2,41,30,18,32,17,1,50,154,23,3,32,33,2,12,88,102,5,97,29,35,26,57,25,30,30,9,78,72,103,7,1,45,31,5,84,133,112,19,33,21,81,30,26,10,30,78,1,63,10,42,17,55,39,10,42,29,25,8,59,33,8,34,21,106,203,29,84,3,106,253,20,67,22,11,13,22,47,80,80,13,1,1,154,3,99,12,1,79,12,14,22,5,2,92,65,31,14,4,41,36,4,5,9,5,15,108,33,32,221,9,37,76,7,171,5,12,29,13,68,10,25,53,6,67,57,2,46,9,36,24,192,23,342,55,25,37,41,68,164,7,32,55,104,25,37,74,2,1,76,323,106,20,1,24,113,35,33,3,45,21,157,35,30,35,7,2,11,20,17,154,13,6,1,35,65,95,107,11,201,13,47,47,141,211,135,28,13,140,600,1,12,15,60,122,103,2,3,1,5,4,24,97,181,1,140,12,16,188,7,90,13,85,136,5,16,77,7,32,37,223,47,74,41,5,43,86,45,37,34,1,300,266,49,73,20,32,75,125,35,32,63,25,15,145,14,8,6
 United States AMS HI	17743
 United States African Network	13331
 United States Agency for International Development	396,370,453,42,563,8944,9,229,125,875,162,11,746,37,370,34,88,613,75,165,36,91,188,437,599,1175,43,59,8,6,11,10,1,1339,314,831,87,293,139
@@ -1644,6 +1648,7 @@ Unitel STP S.A.R.L	18784
 Unitel STP. QUOTA DE MERCADO	18791
 Unitel T	3603,2435,6006,3447,760,307
 Unitel The Angolan	2543
+Unitel. National Data Centers	20234
 Unité UNITE D’INTERVENTIONS BALISTIQUES Commissaires	17899
 Universal Identity Credential UN United Nations	15518
 Universal Postal Union and United Nations Commission	13382

@@ -27,6 +27,7 @@ Area Observed Weakness Indicator Asset Risk	19585
 Artificial Intelligence for Earth Observation	9104
 Association of Obstetrics and Gynaecology	13040
 Association of Obstetrics and Gynecologist of Malawi	13040
+Automated Weather Observation System	20182
 Automatic Weather Observing Station	16947
 B Soins Obstétricaux	15711
 Balance of Payments Obs	17149
@@ -93,7 +94,7 @@ Data Management System Observations	16947
 Data Observações Registo	16325
 Descriptif L'observatoire OBSYDYA	16281
 Digital OBs	12310
-Digital Watch Observatory	1702,13462
+Digital Watch Observatory	1702,13462,4948
 Disposal of Obsolete Records	13398
 Disposal of Obsolete Spares	13420
 Disseminating Obscene Materials	16935
@@ -425,7 +426,7 @@ Observations ZIZ	18967
 Observations and Data Sources	13094
 Observations and Forecasting	16137
 Observations. L'Agence	13825
-Observatoire	324,413,2624,451,426,501,631,446,921,90,62,724,209,7,201,68,40,215,538,1498,447,20,18,1,69,21,721,1615,24,65,52,230,155,110,273,456,152,608,21,33,103,9,43,50,30,9,55,69,36,52,18,14,176,31,75,31,41,4,33,257,10,73,793,327,25,12,4,6,41,170,44,68,97,5,6,22,96,504,11,73,234,32,30,39,102,35,19
+Observatoire	324,413,2624,451,426,501,631,446,921,90,62,724,209,7,201,68,40,215,538,1498,447,20,18,1,69,21,721,1615,24,65,52,230,155,110,273,456,152,608,21,33,103,9,43,50,30,9,55,69,36,52,18,14,176,31,75,31,41,4,33,257,10,73,793,327,25,12,4,6,41,170,44,68,97,5,6,22,96,504,11,73,234,32,30,39,102,35,19,674
 Observatoire ANRT	6737
 Observatoire ARCEP	16326
 Observatoire Annuel des Marchés	16626
@@ -705,7 +706,7 @@ WHO’s Global Health Observatory	17869
 WMO Global Observing System	11553
 WMO Hydrological Observing System	16239
 WMO Integrated Global Observing System	16239
-Watch OEC Observatory for Economic Complexity PTS	10759,78,1052,451
+Watch OEC Observatory for Economic Complexity PTS	10759,78,1052,451,7872
 Water Observations	10794
 Weather Observation Department Mme Adama Niang	18309
 Weather Observer Training	18309

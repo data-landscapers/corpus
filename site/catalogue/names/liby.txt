@@ -26,7 +26,7 @@ CLIENT DETAILS Libyan International Telecom Company	17436
 CLIMATE CHARACTERISTICS Libya	17157
 Cabinet of Ministers of Libya. Cabinet Decision No	16902
 Central Africa. Libya	2837
-Central Bank of Libya	3023,1607,50,463,174,545,835,462,1619,28,138,108,161,813,6837,44,292,12,6,19,29,33,4,76,366
+Central Bank of Libya	3023,1607,50,463,174,545,835,462,1619,28,138,108,161,813,6837,44,292,12,6,19,29,33,4,76,366,2448
 Central Bank of Libya Announces Adoption	17265
 Central Bank of Libya Governor Naji Issa	10026
 Central Bank of Libya and Ministry of Planning	17135
@@ -72,7 +72,7 @@ Great Arab People's Socialist Libyan Jama	17438
 Great Arab People's Socialist Libyan Jamahiriya	17438
 Great Socialist People's Libyan Arab Jamahiriya	16847
 Guinea Guinea-Bissau Lesotho Liberia Libya Madagascar	13042
-Guinea-Bissau Congo Republic Libya Chad	10837,1503,7598
+Guinea-Bissau Congo Republic Libya Chad	10837,1503,7598,274
 HISTORICAL DROUGHT EVENTS Libya	17157
 Hafter for Libya	4680
 Hatif Libya	2837
@@ -106,7 +106,7 @@ LISA Libyan Insurance Supervisory Authority LNMC	17157
 La Libye	14363
 Lesotho Liberia Libya Liechtenstein Lithuania Luxembourg	11765
 Liberia Libya Liechtenstein Lithuania Luxembourg Macao	11470,7872
-Libya	236,198,420,159,181,35,145,16,286,214,792,93,62,2,4,10,105,65,165,122,47,68,39,273,74,15,15,12,19,105,121,90,244,60,62,29,47,50,66,63,2,38,178,6,231,53,19,256,183,129,37,7,409,76,132,48,84,95,146,504,265,17,199,208,514,161,22,116,108,38,1,122,49,217,383,1,163,102,250,31,140,165,45,5,21,50,3,130,9,154,3,222,253,40,98,123,16,1,2,5,199,60,1,9,178,11,1,135,596,286,1527,347,227,9,124,239,1,2,819,148,34,16,11,3,25,14,25,5,9,1,8,81,7,39,44,8,14,12,1,41,6,19,28,1,2,8,16,7,5,19,49,30,2,217,123,1,181,200,929,32,567,169,14,2,20,1,15,65,48
+Libya	236,198,420,159,181,35,145,16,286,214,792,93,62,2,4,10,105,65,165,122,47,68,39,273,74,15,15,12,19,105,121,90,244,60,62,29,47,50,66,63,2,38,178,6,231,53,19,256,183,129,37,7,409,76,132,48,84,95,146,504,265,17,199,208,514,161,22,116,108,38,1,122,49,217,383,1,163,102,250,31,140,165,45,5,21,50,3,130,9,154,3,222,253,40,98,123,16,1,2,5,199,60,1,9,178,11,1,135,596,286,1527,347,227,9,124,239,1,2,819,148,34,16,11,3,25,14,25,5,9,1,8,81,7,39,44,8,14,12,1,41,6,19,28,1,2,8,16,7,5,19,49,30,2,217,123,1,181,200,929,32,567,169,14,2,20,1,15,65,48,205
 Libya ACKNOWLEDGEMENTS	17157
 Libya AI Strategy 2025 2030.pdf	17329
 Libya ARB UMI	17743
@@ -134,6 +134,7 @@ Libya Experts	10409
 Libya Experts Forum	7723
 Libya Figure	17157
 Libya Herald	4811,285,2611,1071,274,427,7823
+Libya Herald Editor-in-Chief	20192
 Libya Herald Latest Al-Hadba Al-Khadra Hospital	2837,989,15,690,99,50,66,65,38,415,53,275,183,129,44,409,340
 Libya INFRASTRUCTURE	16940
 Libya INTERNET USE Percentage	16940
@@ -174,6 +175,7 @@ Libya Policy The General Authority for Communications	4849
 Libya Policy The Governor	6697
 Libya Policy The LIBIGPT	3826
 Libya Post	2101
+Libya Post Company	20192
 Libya Presents Digital Economy Vision	5592
 Libya RMSE Root-Mean-Square Error SAT Spatial	17157
 Libya Rainfall Map	17157
@@ -200,6 +202,7 @@ Libya and EU	5948
 Libya and Egypt	3306
 Libya and Egypt. The Trans-Saharan Fiber Optic	5006
 Libya and Mauritania	5340
+Libya and Options Related	20192
 Libya and Tunisia	7452
 Libya's Anti-Illegal Immigration Agency	11649
 Libya's Anti-Illegal Immigration Agency Launches Digital	11649
@@ -250,7 +253,7 @@ Libya. Through	17303,98
 Libya. Under	9262
 Libya. Whereas Libya	16863
 Libya1991	17157
-Libyan	434,760,35,639,969,186,103,1,1,182,136,18,362,15,347,244,60,39,99,50,66,65,38,184,110,121,38,15,263,12,183,129,39,1499,281,200,472,411,246,38,123,813,102,281,140,1198,3150,1950,16,39,14,25,15,8,88,83,22,54,6,19,28,1,2,31,5,19,49,32,701
+Libyan	434,760,35,639,969,186,103,1,1,182,136,18,362,15,347,244,60,39,99,50,66,65,38,184,110,121,38,15,263,12,183,129,39,1499,281,200,472,411,246,38,123,813,102,281,140,1198,3150,1950,16,39,14,25,15,8,88,83,22,54,6,19,28,1,2,31,5,19,49,32,701,2088
 Libyan Academic Institutions	17157
 Libyan Agricultural Officials Detained Over Banned	9213
 Libyan Agricultural Research Center	17157

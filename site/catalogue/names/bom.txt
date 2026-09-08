@@ -40,7 +40,7 @@ BOMET Kenya	7167
 BOMET MUNICIPALITY Data Controller INST-518030225D2 BOMET	7167
 BOMET'S HEALTHCARE Data Controller INST-41179897DD5 UASIN	7167
 BOMS Beneficiary Operations Management System CBO	16384
-BOMStats	17668
+BOMStats	17668,2393
 BoM Computer Emergency Response Team of Mauritius	14819
 BoM Settlement	12270
 BoM's RTGS	12270
@@ -173,6 +173,7 @@ Male Female Total Male Female Bomi	16935
 Marc MASSAMBA NDILOU Membre Jacques BOMBETE	15420
 Measles Bomi	16971
 Membre Jacques BOMBETE Membre Delphine EMMANUEL	15420
+Minister for Rodrigues and Outer Islands. BOMStats	20061
 MoF Conference Hall Bombali District Council	18500
 Morogoro MC Bombambili	19592
 Muito Bom	16325

@@ -54,6 +54,7 @@ Amnesty International’s Digital Rights Champions	11071
 Ancestral Rights	12912
 Andrea Rigoni	10764
 Anti-Corruption Rights Every IIAG	10835,3,130,902,16,466,1,135,7334
+Anti-corruption and Right	20071
 Appraisal Rights	7198
 Arab Republic of Egypt Right Honourable Russell	13440
 Arabic Network for Human Rights Information	19854
@@ -148,7 +149,7 @@ Citizen’s Rights Priority Area	970
 Civil Society Demands Human Rights Centered	7552
 Civil Society and Rights Concerns Despite	18655
 Civil and Political Right	16916
-Civil and Political Rights	1630,1328,625,278,892,2198,507,1624,317,261,553,552,10,66,745,21,97,61,191,245,758,81,108,533,753,308,119,13,15,118,1944,1662
+Civil and Political Rights	1630,1328,625,278,892,2198,507,1624,317,261,553,552,10,66,745,21,97,61,191,245,758,81,108,533,753,308,119,13,15,118,1944,1662,1611
 Civil and Political Rights CCPR-OP1	14742
 Civil and Political Rights CDU	14742
 Civil and Political Rights ICERD International Convention	12201
@@ -534,7 +535,7 @@ Human Rights-based	12214
 Human Rights. UNHCR	18912
 Human RightsStrive Masiyiwa Proves You Can	42
 Human and Democratic Rights	13948
-Human and People's Rights	1988,9917,81,1983,62
+Human and People's Rights	1988,9917,81,1983,62,6193
 Human and People's Rights AMUSI United Movement	12201
 Human and People's Rights. Attention	3583
 Human and Peoples Rights	3005,1748,8599,132,3467,1662
@@ -560,7 +561,7 @@ III. RECOMMENDATIONS A. RIGHT TO EDUCATION	17970,960
 IMF Special Drawing Rights. Annual Integrated	11134
 IMF’s Special Drawing Rights	11131
 IMPACT AREA RIGHT OF WAY	11857
-INCLUSION Rights	10837,1052,263,11,177,7313,285
+INCLUSION Rights	10837,1052,263,11,177,7313,285,274
 INDIVIDUAL RIGHTS AND LEGAL STANDING	3861
 INDIVIDUALS WITH OWNERSHIP OR TENURE RIGHTS	17043
 INFRASTRUCTURE RIGHTS Rank	10968
@@ -580,7 +581,7 @@ Icyongereza. Rigena	14863
 Improved Constitutional Rights Litigation Complete	16943
 Improved Constitutional Rights Litigation Jury	16943
 Inadequate Periodic Review of User Access Rights	19584
-Inclusion Participation Rights Inclusion	10837,1315,188,7598
+Inclusion Participation Rights Inclusion	10837,1315,188,7598,274
 Increasing Deterioration. Rights	11888
 Indefeasible Right of Use	7014,5239,6992
 Indefeasible Rights of Use	4676,10289
@@ -589,7 +590,7 @@ India Actually Got Right	8206
 Indigenous Rights- Investigating	13097
 Individual Data Protection Rights	1243
 Individual Privacy Rights	12663
-Individual Rights	19895
+Individual Rights	19895,326
 Individual Rights Manager	19864
 Individual Rights and Legal Standing	3861
 Information Integrity and Human Rights	10453
@@ -664,7 +665,7 @@ Landing Rights	3641,3305,10304
 Landing Rights Authorization	9335,1072
 Landing Rights Authorization for Satellite Service Provider	10407
 Landing Rights Tenure and Fees	10407
-Law Law Enforcement Property Rights Public	10759,78,1315,188,7598
+Law Law Enforcement Property Rights Public	10759,78,1315,188,7598,274
 Law and Human Rights	13001
 Lawyers for Human Rights	11986
 Lawyers for Human Rights and Centre for Child Law	11977
@@ -694,6 +695,7 @@ Malawi Charter of Rights for Patients	12242
 Malawi Human Rights Commission	13030,10,40,15,33
 Malawi Parliament Withdraws Abortion Rights Bill	13040
 Maputo Protocol On The Rights	13040
+Marry Right Ghana Ltd	20180
 Mauritius's UN Human Rights Committee	2363
 Maya Wang of Human Rights Watch. Bulletin	2518
 Media Rights Agenda	6770,2312,2622,6507
@@ -814,7 +816,7 @@ Promotion of Human Rights and Democracy	16958
 Promotion of Indigenous Minority Rights	11868
 Promotion of Right	4489
 Promotion of Women's Rights	17862
-Property Rights	5246,5513,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,869,267,6028,1,169,14,22,1,65,14,1,48
+Property Rights	5246,5513,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,869,267,6028,1,169,14,22,1,65,14,1,48,225
 Property Rights Index	14997
 Property Rights Index ISP Internet Service	17870
 Property Rights MARS Mauritius and Rodrigues Submarine	14729
@@ -860,7 +862,7 @@ RIGHT TO INFORMANTION Article	14861
 RIGHT TO INFORMATION	14434,4004
 RIGHT TO RECTIFICATION AND ERASURE	14434
 RIGHT TO REQUEST FOR INFORMATION	13484
-RIGHTS	3714,147,6546,352,76,2,1,74,56,902,16,1,1,1,263,1,1,9,177,1,11,1,135,4399,2765,1,169,14,22,1,65,14,1,48
+RIGHTS	3714,147,6546,352,76,2,1,74,56,902,16,1,1,1,263,1,1,9,177,1,11,1,135,4399,2765,1,169,14,22,1,65,14,1,48,225
 RIGHTS AND DUTIES OF RECOGNIZED REFUGEES	16830
 RIGHTS AND LEGAL SERVICES	13097
 RIGHTS AND OBLIGATIONS FOR THE PROVISION	14919
@@ -887,11 +889,11 @@ RIGHTS OF THE DATA SUBJECT RECOMMENDATIONS	14434
 RIGHTS OF THE DATA SUBJECT RIGHT	14434
 RIGHTS OF WAY	14422
 RIGHTS PARTICIPATION Rank	12352
-RIGHTS Personal Liberties	10759,78,1052,451,7598
+RIGHTS Personal Liberties	10759,78,1052,451,7598,274
 RIGHTS Personal Liberties Freedom of Expression	10759
 RIGHTS Public Perception of Health Provision	10835,3,130,902,16,466,1,135,7334
 RIGHTS RESERVED	17869
-RIGHTS Rank	10759,78,1,1502,7482
+RIGHTS Rank	10759,78,1,1502,7482,390
 RIGHTS TO SELL	17043
 RIGHTS-BASED FOUNDATION FOR AI GOVERNANCE	11156
 RIGOR	10750,1
@@ -909,7 +911,7 @@ Regulation and Rights	15789
 Related Articles of Human Rights	8943
 Religious Rights	18597
 Report of Right of Way Dispute Resolution	11857
-Representation of Women Rights	10759,78,1315,188,7598
+Representation of Women Rights	10759,78,1315,188,7598,274
 Reproductive Rights All	6534
 Research Directorate. Egyptian Front for Human Rights	19854
 Research and Development RTI Right To Information	14965
@@ -926,7 +928,7 @@ Rigathi Gachagua Other Not Sure	7869
 Rigaud	16144
 Rigena	14870
 Rigging	11154
-Right	3,8,14,2,560,149,33,392,59,23,90,141,790,43,32,794,42,200,208,131,88,59,63,202,131,191,41,39,368,101,516,38,127,159,61,143,80,514,173,257,144,339,658,230,49,562,27,679,389,23,176,164,209,71,37,86,133,138,2,12,127,197,383,56,21,49,9,55,55,1,22,17,16,26,67,42,53,123,36,1,112,110,120,8,4,36,26,22,66,42,94,122,10,31,29,80,9,81,15,115,267,3,18,104,361,1,14,75,68,2,133,13,2,119,4,9,19,14,1,57,96,251,81,248,295,32,868,3,8,13,12,15,86,33,12,96,129,84,543,64,36,388,80,1,3,4,3,5,5,34,19,9,35,40,1,5,24,278,21,60,249,278,4,8,2,1,3,98,5,1,111,14,85,46,5,27,15,14
+Right	3,8,14,2,560,149,33,392,59,23,90,141,790,43,32,794,42,200,208,131,88,59,63,202,131,191,41,39,368,101,516,38,127,159,61,143,80,514,173,257,144,339,658,230,49,562,27,679,389,23,176,164,209,71,37,86,133,138,2,12,127,197,383,56,21,49,9,55,55,1,22,17,16,26,67,42,53,123,36,1,112,110,120,8,4,36,26,22,66,42,94,122,10,31,29,80,9,81,15,115,267,3,18,104,361,1,14,75,68,2,133,13,2,119,4,9,19,14,1,57,96,251,81,248,295,32,868,3,8,13,12,15,86,33,12,96,129,84,543,64,36,388,80,1,3,4,3,5,5,34,19,9,35,40,1,5,24,278,21,60,249,278,4,8,2,1,3,98,5,1,111,14,85,46,5,27,15,14,120
 Right Honorable Dr. Justin NSENGIYUMVA	15023
 Right Honorable Prime Minister	12682,274
 Right Honourable Dr. Elijah Ngurare	12984
@@ -970,7 +972,7 @@ Right-sizing	6432
 Right. Journal of Economic Perspectives	13624
 Right. So	7065
 Rightly	4259
-Rights	3,24,485,446,12,241,9,113,648,128,198,370,328,578,46,85,147,1024,11,425,708,26,1092,20,381,435,365,734,657,55,547,29,389,6,10,9,28,7,16,2,1,74,25,23,8,60,43,14,440,82,158,92,13,16,1,1,1,18,232,6,7,1,1,9,3,35,52,74,8,2,3,1,11,1,14,22,99,173,230,3,18,47,18,28,26,2,7,40,17,51,183,13,24,78,24,211,267,3,11,49,398,13,12,59,224,25,99,33,15,18,19,101,9,90,206,42,41,58,131,297,935,3,12,9,14,76,8,13,143,182,34,443,7,154,16,159,327,1,22,6,91,41,460,177,296,1,10,93,18,1,12,157,14,22,1,61,4,9,5,1,12,36
+Rights	3,24,485,446,12,241,9,113,648,128,198,370,328,578,46,85,147,1024,11,425,708,26,1092,20,381,435,365,734,657,55,547,29,389,6,10,9,28,7,16,2,1,74,25,23,8,60,43,14,440,82,158,92,13,16,1,1,1,18,232,6,7,1,1,9,3,35,52,74,8,2,3,1,11,1,14,22,99,173,230,3,18,47,18,28,26,2,7,40,17,51,183,13,24,78,24,211,267,3,11,49,398,13,12,59,224,25,99,33,15,18,19,101,9,90,206,42,41,58,131,297,935,3,12,9,14,76,8,13,143,182,34,443,7,154,16,159,327,1,22,6,91,41,460,177,296,1,10,93,18,1,12,157,14,22,1,61,4,9,5,1,12,36,225
 Rights Action Plan	13097
 Rights Annex III	12241
 Rights Categories Internally Displaced Person	14074,391,2229,733
@@ -1099,6 +1101,7 @@ Robert L. Bernstein Institute for Human Rights	225
 Rwanda Consumer’s Rights Protection Organization	15042
 Rwanda Digital Rights and Inclusion Report	12333
 Rwanda’s Right of Reply	15131
+SA Human Rights Commission	20062
 SA Human Rights Commission Online Stakeholder	10453
 SDGs. C. CULTURAL RIGHTS	18930
 SDR Special Drawing Rights SEA Sexual	10829
@@ -1169,7 +1172,7 @@ Social and Cultural Rights. Consistent	3583
 Social and Cultural Rights. Revitalized Agreement	3583
 Social and Cultural Rights. South Sudan	3583
 Socio-Economic Rights Institute	11660,2533
-Socio-Economic Rights and Accountability Project	7458,3642
+Socio-Economic Rights and Accountability Project	7458,3642,9076
 Son Atlas17. B. RIGHT TO FREEDOM	18930
 South African Human Rights Commission	5806,499,3377,659,112,237,32,7,536,579,2333,3597
 South African Human Rights Commission Act	6305,4960,579
@@ -1209,7 +1212,7 @@ Sustainable the DHA. Lawyers for Human Rights	11986
 TENURE RIGHTS OVER AGRICULTURAL LAND OUT	17043
 TRANS PORT S E RIGNE ABDOU	18322
 TRANSPARENCY AND RIGHTS OF APPEAL	15149
-TRANSPARENCY ANTI-CORRUPTION RIGHTS INCLUSION	10837,1503,7598
+TRANSPARENCY ANTI-CORRUPTION RIGHTS INCLUSION	10837,1503,7598,274
 Taking Fundamental Rights Seriously	5349
 Targeted Rights Initiative	9082
 Tax Compliance and Privacy Rights	14932
@@ -1220,6 +1223,7 @@ Tenth Session Right	14865
 Tenure Rights	19554
 Tenure Rights Annual Agricultural Sample Survey	19554
 Toxics and Human Rights	14742
+Trade-Related Aspects of Intellectual Property Rights	20224
 Trade-Related Aspects of Intellectual Property Rights TVET	11250
 Transparency Anti-Corruption Participation Rights Inclusion	10759
 Trend Slowing Deterioration Rights	12341

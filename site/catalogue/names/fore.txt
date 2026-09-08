@@ -359,6 +359,7 @@ Exogenous Data and Foreign Sovereignty	3861
 Exploitation Forestiere Centrafricaine	10841
 Exploitation Forestiere Centrafricaine SMEs Small and Medium	10841
 Expropriation of Foreign Direct Investments	11310
+External Company Foreign	20228
 FAO Food and Agriculture Organization FDI Foreign	10841
 FBB Fixed Broadband FDI Foreign Direct	10781,80,1566,2055
 FCDO Foreign	14916
@@ -549,13 +550,13 @@ Forecasts for LTE	236
 Forefront	17106,81,79
 Forefront of Environmental Action Across UNDP Namibia	9873
 Forefront of Transformation Videos Rising Up for SIDS	11332
-Foreign	7,229,159,2002,62,317,50,87,157,417,96,71,391,81,1,455,359,28,13,262,411,209,544,15,246,268,1,12,598,668,85,539,64,32,107,356,171,23,37,22,20,67,284,107,27,178,403,55,6,42,139,151,2,1,2,54,34,74,171,55,26,142,231,32,1,44,6,36,109,24,52,42,1,45,98,7,25,45,6,272,3,33,78,142,29,148,113,32,11,30,74,71,13,323,80,9,28,23,16,108,75,214,315,48,1,8,103,101,61,44,34,43,163,278,592,25,614,1,90,18,12,6,160,11,87,21,164,274,78,490,181,9,88,56,200,244,324,167,10,60,30,23,218,14,14,34
+Foreign	7,229,159,2002,62,317,50,87,157,417,96,71,391,81,1,455,359,28,13,262,411,209,544,15,246,268,1,12,598,668,85,539,64,32,107,356,171,23,37,22,20,67,284,107,27,178,403,55,6,42,139,151,2,1,2,54,34,74,171,55,26,142,231,32,1,44,6,36,109,24,52,42,1,45,98,7,25,45,6,272,3,33,78,142,29,148,113,32,11,30,74,71,13,323,80,9,28,23,16,108,75,214,315,48,1,8,103,101,61,44,34,43,163,278,592,25,614,1,90,18,12,6,160,11,87,21,164,274,78,490,181,9,88,56,200,244,324,167,10,60,30,23,218,14,14,34,161
 Foreign AI	4528,7984
 Foreign Account Tax Compliance Act	6524,1,5160
 Foreign Adversaries Act	11154
 Foreign Affairs	1257,125,269,163,1423,2,17,301,1918,1013,1060,1866,2546,120,65,211,156,460,121,938,722,88,493,29,503,964,2,273,1471,19,146,778,485
 Foreign Affairs Aboubakar NACANABO	16256
-Foreign Affairs Academy Hall	9680
+Foreign Affairs Academy Hall	9680,10403
 Foreign Affairs Annual	7548
 Foreign Affairs Committee	18741
 Foreign Affairs Council	15001
@@ -674,7 +675,7 @@ Foreign Investment Law No	14891
 Foreign Investment Policies Towards Foreign Direct	14421
 Foreign Investment Protection Agreement	10120
 Foreign Investor	14024
-Foreign Investors	6408
+Foreign Investors	6408,13688
 Foreign Judgments	17745
 Foreign Launch Providers Africa	8275
 Foreign Law Enforcement Agencies	19895
@@ -719,11 +720,12 @@ Foreign Missions	12496,4105,424,1551
 Foreign National	17537
 Foreign National Permanently Resident	17537
 Foreign National Services	12227
-Foreign Nationals	12342,682
+Foreign Nationals	12342,682,7072
 Foreign Nationals Committed	2775
 Foreign Nationals Registered	2775
 Foreign Nationals Residing	19041
 Foreign Nationals Visitors	19867
+Foreign Nationals of Ethiopian Origin	20096
 Foreign Office Consultation	17240,1,1322,95,33
 Foreign Office Consultations	2667,9950,944,1,2675,40,54,318,591,776,547,95,33
 Foreign Office Consultations India’s Economic Assistance	16275
@@ -780,6 +782,7 @@ Foreign Tax Credit	14717,297
 Foreign Trade	5101
 Foreign Trade Access	5247
 Foreign Trade Director	13051
+Foreign Trade Minister Julien Paluku	20172
 Foreign Trade Minister Kamel Rezig	2131
 Foreign Trade Regime	16996
 Foreign Trade Regime ND-GAIN Notre Dame	16996
@@ -865,7 +868,7 @@ Foreshore	8999,10525
 Foreshore Execution	19524
 Foreshore. Vodacom	10243
 Foresiet	4997
-Foresight	5242
+Foresight	5242,14873
 Foresight Africa	5059,5760
 Foresight SAR	6980,4310
 Foresight-Africa-2025-2030-Full-report.pdf	5242
@@ -991,10 +994,10 @@ Forestry and Tourism	9353
 Forestry and Wildlife Authority	14089,54
 Forestry-based	17043
 ForestryFraud	11215
-Forests	1988,8771,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,1074,1567,243,101,128,1013,239,143,144,1711,36,765,1,169,14,22,1,65,14,1,48
+Forests	1988,8771,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,1074,1567,243,101,128,1013,239,143,144,1711,36,765,1,169,14,22,1,65,14,1,48,225
 Forests Act	13403,6121
 Forests Act No.4	1988
-Forests Land	10837,1315,188,7598
+Forests Land	10837,1315,188,7598,274
 Forests Medium	16996
 Forests OP	11525,330,282,3274,2693
 Forests UNFF United Nations Global Geospatial	15129
@@ -1008,6 +1011,7 @@ Foreword	396,186,358,423,2496,669,320,396,2,840,340,2248,351,1739,80,292,52,9,1,
 Foreword Amid	18937
 Foreword Artificial Intelligence	19079,600
 Foreword As the Joint Government	13977
+Foreword As the Minister of Basic and Secondary Education	20217
 Foreword Betty Pamela Wabunohua Resident Representative	17101
 Foreword Botswana	12541
 Foreword Brahima Sanou BDT	26,1,1
@@ -1364,7 +1368,7 @@ Ministry of Education FOREWORD The Rwanda Education	12411
 Ministry of Education and Sports MoFA Ministry of Foreign	19642
 Ministry of Environment and Forestry	3583,9106
 Ministry of Foreign	4126,7834
-Ministry of Foreign Affairs	11,576,38,438,1,179,965,459,69,760,796,236,112,607,617,409,444,382,651,1232,317,59,480,289,336,33,71,142,132,294,19,333,85,149,204,14,21,120,108,38,112,624,15,116,238,27,158,453,28,137,432,176,9,19,23,26,11,17,27,35,26,137,52,269,99,114,119,606,318,181,13,15,2,10,4,47,33,29,2,52,42,26,5,47,77,6,20,32,38,366,1045,101,56,52,90,85,41,377,98,1,192
+Ministry of Foreign Affairs	11,576,38,438,1,179,965,459,69,760,796,236,112,607,617,409,444,382,651,1232,317,59,480,289,336,33,71,142,132,294,19,333,85,149,204,14,21,120,108,38,112,624,15,116,238,27,158,453,28,137,432,176,9,19,23,26,11,17,27,35,26,137,52,269,99,114,119,606,318,181,13,15,2,10,4,47,33,29,2,52,42,26,5,47,77,6,20,32,38,366,1045,101,56,52,90,85,41,377,98,1,192,262
 Ministry of Foreign Affairs Minister of Foreign	17110
 Ministry of Foreign Affairs Monrovia	4202
 Ministry of Foreign Affairs Mr. Adelaid Ben	13744
@@ -1572,6 +1576,7 @@ Private Sector Foreign	16996
 Private Sector Foreign Investment and Investor Perceptions	13532
 Professional Course for Foreign Diplomats	13744,1713,3400
 Programa Nacional de Acción Forestal	16875
+Proof of Identity for Foreigners	20175
 Property Records The Ministry of Foreign Affairs	10496
 Protected Forest Areas Network	17114
 Protocol for Foreign Office Consultations	17241
@@ -1634,6 +1639,7 @@ Republic of Estonia Ministry of Foreign Affairs	12427
 Republic of Liberia Foreword As Liberia	1777
 Republic of Namibia. FOREWORD	12921
 Republic of Sierra Leone Foreword Preamble Sierra	18532
+Requirements for Foreign Investors	20096
 Residence Permit for Foreigners	11909,30
 Resident Coordinator. FOREWORD BY THE RESIDENT	13989
 Resident Foreigner	12217
@@ -1798,7 +1804,7 @@ Type of Service Indicator Baseline Forecast	236
 UAE Minister of State for Foreign Affairs	14064
 UAE-President-of-Guinea Ministry of Foreign Affairs Skip	16622
 UAE-Sao-Tome-and-Principe Ministry of Foreign Affairs Skip	18759
-UK Foreign	2590,4296,1156,2011,950,130,864,3067
+UK Foreign	2590,4296,1156,2011,950,130,864,3067,5118
 UK Foreign Commonwealth	12191,7752
 UK Foreign and Commonwealth Development Office	11142,7346,89
 UK Government’s Foreign	11017,66

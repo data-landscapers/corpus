@@ -76,6 +76,7 @@ Alternative Proposals	12389,2691
 Amendment of Request for Proposals Document	15080
 Analysis and Requests for Proposals	11131
 Angola Proparco	10790
+Annex III Proposed Measures and Indicators	20223
 Annually NADMO Proportion	15845
 Ante-Projecto PROPOSTA DE LEI DO GOVERNO	11461
 Anticipated Proposed Enhancement	12253
@@ -725,7 +726,7 @@ Language of Proposal	15080
 Last Approved Proposed Additional	15983
 Last Approved Rating Risk Category Proposed	18809
 Late Proposals	7951,7129
-Law Law Enforcement Property Rights Public	10759,78,1315,188,7598
+Law Law Enforcement Property Rights Public	10759,78,1315,188,7598,274
 Law and Property	19874
 Law of Property	15473
 Le Dossier de Demande de Propositions	5983,7572
@@ -1157,7 +1158,7 @@ Proper Legislation	16885
 Properly	10,1978,4119,2176,695,674,3852,487,33,705,2385,43
 Properties	11286,3229,614,344,1443,1532
 Properties Operations Control Commission	18293
-Property	1154,790,587,244,276,663,1182,5322,575,77,117,10,132,2,3,145,34,126,423,94,193,152,57,11,20,68,55,379,65,97,345,266,284,619,146,23,6,255,172,304,7,1367,69,56,6,33,116,982,339,19,89,103,449,477,127,114,42
+Property	1154,790,587,244,276,663,1182,5322,575,77,117,10,132,2,3,145,34,126,423,94,193,152,57,11,20,68,55,379,65,97,345,266,284,619,146,23,6,255,172,304,7,1367,69,56,6,33,116,982,339,19,89,103,449,477,127,114,42,353
 Property Card View Property Details About	12511
 Property Control and Exhibit Management System	5323
 Property Development	11131
@@ -1182,6 +1183,7 @@ Property Numbering System	11129
 Property Numbers	11129
 Property Organization	13357,6285
 Property Owners	18448
+Property Ownership	20221
 Property Ownership. Measures	17165,1405
 Property Per Individual	18450
 Property Prime Minister	15473
@@ -1199,7 +1201,7 @@ Property Registration ZAFICO Zanzibar Fisheries Company	19519
 Property Registration and Statistical Development	18792,33
 Property Registry	16996
 Property Restriction	14843
-Property Rights	5246,5513,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,869,267,6028,1,169,14,22,1,65,14,1,48
+Property Rights	5246,5513,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,869,267,6028,1,169,14,22,1,65,14,1,48,225
 Property Rights Index	14997
 Property Rights Index ISP Internet Service	17870
 Property Rights MARS Mauritius and Rodrigues Submarine	14729
@@ -1265,7 +1267,7 @@ Proporcione	1701,15273
 Proporción	16898
 Proportio	12917,3946
 Proportio Privé Etat Etat Employeu Autre	737
-Proportion	419,224,94,52,181,352,742,278,433,621,683,1,221,48,110,2120,253,716,3164,51,93,2,16,1,52,48,1,286,291,19,302,7,1,20,249,77,28,11,79,21,16,12,18,27,13,470,55,322,25,22,95,656,524,214,60,1,38,50,71,7,101,393,17,25,5,20,96,4,1,120,56,98,261,68,108,190,15,231,49,6,116,36,48,13,108,4,33,109,349,102,21,4,26,11,38,13,20,36,42,47,8,14,18,26,1,34,82,23,3,129,2,15,120,49,160,139,62,262,100,67,102,25,10,1,84,23,53,28,1,82,52,42,46
+Proportion	419,224,94,52,181,352,742,278,433,621,683,1,221,48,110,2120,253,716,3164,51,93,2,16,1,52,48,1,286,291,19,302,7,1,20,249,77,28,11,79,21,16,12,18,27,13,470,55,322,25,22,95,656,524,214,60,1,38,50,71,7,101,393,17,25,5,20,96,4,1,120,56,98,261,68,108,190,15,231,49,6,116,36,48,13,108,4,33,109,349,102,21,4,26,11,38,13,20,36,42,47,8,14,18,26,1,34,82,23,3,129,2,15,120,49,160,139,62,262,100,67,102,25,10,1,84,23,53,28,1,82,52,42,46,251
 Proportion Dernière	13300
 Proportion Enfants	13300
 Proportion Femmes	2624,10676
@@ -1299,6 +1301,7 @@ Proportion of Domestic Electricity Generation	2775
 Proportion of Female	19639
 Proportion of Firms	12389
 Proportion of G8	15604
+Proportion of Girls	20217
 Proportion of Government	12453
 Proportion of Households	19715
 Proportion of Households With Access	19702
@@ -1321,6 +1324,7 @@ Proportion of Platform-based	17870
 Proportion of Population	19715
 Proportion of Pregnant Women Receiving Fefol Supplementation	19544
 Proportion of Primary School-age Children	19715
+Proportion of Private Institutions	20217
 Proportion of Registered Deaths	12151
 Proportion of Rent	2775
 Proportion of Residential Properties Advertised and Sold	2775
@@ -1358,7 +1362,7 @@ Propos Le Cameroon Internet Exchange	16265
 Propos de PAPSS	17465
 Propos de SWAMED Financement	19427
 Propos du Président du Conseil	15741
-Proposal	578,384,242,60,374,1178,663,24,211,2059,703,1,11,1463,485,2180,160,184,271,321,321,82,103,979,148,1416,70,107,149,5,148,1783,148,8,161,39,561,1084,121
+Proposal	578,384,242,60,374,1178,663,24,211,2059,703,1,11,1463,485,2180,160,184,271,321,321,82,103,979,148,1416,70,107,149,5,148,1783,148,8,161,39,561,1084,121,1174
 Proposal Data Sheet	15080
 Proposal Development	17065
 Proposal Development URL	17065
@@ -1433,7 +1437,7 @@ Proposants	5983,7572,943
 Proposants Avis Spécifique de Passation de Marchés	13555
 Proposants B. Les Offres	13555
 Propose	962,418,1609,689,36,814,2400,2201,3316,63,4,808,526,637,382,24,754,70,223,1075,103,807,117,1806
-Proposed	22,405,801,550,210,303,597,32,28,41,285,404,100,37,248,40,2,50,1,1,1,1,1,493,277,292,311,144,422,6,100,680,49,80,207,66,20,115,596,1111,16,53,749,299,105,649,85,44,836,21,72,117,71,7,132,15,354,163,397,676,576,98,114,143,11,39,110,15,276,146,35,3,1366,4,59,26,103,43,100,3,1210,34,224,81,78,46,312,210,192,30,67,1,245
+Proposed	22,405,801,550,210,303,597,32,28,41,285,404,100,37,248,40,2,50,1,1,1,1,1,493,277,292,311,144,422,6,100,680,49,80,207,66,20,115,596,1111,16,53,749,299,105,649,85,44,836,21,72,117,71,7,132,15,354,163,397,676,576,98,114,143,11,39,110,15,276,146,35,3,1366,4,59,26,103,43,100,3,1210,34,224,81,78,46,312,210,192,30,67,1,245,231
 Proposed AF Indicator Level Status Rationale	19284
 Proposed Actions	1814,1790,10418,796
 Proposed Actions Taken	13331
@@ -1514,6 +1518,7 @@ Proposed Listing of Econet InfraCo	4896
 Proposed Loan	15411,107,141
 Proposed Location and Funding	4528,7984
 Proposed M&E	3678
+Proposed Measures and Indicators	20223
 Proposed Milestones	12980
 Proposed Mitigation	12253
 Proposed Mitigation Measures	1988
@@ -1935,7 +1940,9 @@ Social Salud Proporciones	16898
 Social Salud Proporción	16898
 Socio-demographic Characteristics Proportion	17127
 Sole Proprietor	15014,4947
+Sole Proprietors	20096
 Sole Proprietorship	12342,58
+Sole Proprietorship Business	20228
 Solutions Relation Investisseur Proposer	18013
 South Africa Proparco	1553
 South African Residential Property Price Index	11286
@@ -2023,6 +2030,7 @@ Things IP Intellectual Property IT Information	12512
 Things IP Intellectual Property KEBS Kenya	7548
 Timetable and Submission Details Proposals	12754
 Trade and Personal Property Credit Register	6473,4389
+Trade-Related Aspects of Intellectual Property Rights	20224
 Trade-Related Aspects of Intellectual Property Rights TVET	11250
 Transfer of Immovable Property Erected Over Land	13950
 Transfer of Personnel and Property	13951
@@ -2057,6 +2065,7 @@ Vaincrons Propos	4033
 Validity of Proposal	13031
 Valuation and Rating of Properties	12531
 Valuation of Property	13420
+Vendor Proprietary System	20221
 W IPO Intellectual Property Statistics	12487
 WFuonrdld Intellectual Property Organization	11885
 WIPO Intellectual Property	11885

@@ -13,7 +13,7 @@ Accounting Officers and Chief Executive Officers	8981
 Act the Chiefdom	18465
 Acting Chief Director	11289
 Acting Chief Executive	13218
-Acting Chief Executive Officer	2735,6131,275,546,305,1206,5081
+Acting Chief Executive Officer	2735,6131,275,546,305,1206,5081,3792,31
 Acting Chief Executive Officer Eng. Alex	13488
 Acting Chief Financial Officer	6727
 Acting Chief Government Statistician	19519
@@ -204,9 +204,11 @@ Chief Director Alexander Yaw Arphul	10736
 Chief Director CDC Coega Development Corporation	11261
 Chief Director Commerce	13382
 Chief Director Mr. Prince Sibanda	4528,7984,1031
+Chief Director Prince Sibanda	20115
 Chief Director of MoTAI	16232
 Chief Directorate	11350,1518
 Chief Directorates	11237
+Chief Directors and Directors	20182
 Chief Diversification Officer	9097
 Chief Economic Adviser	5072
 Chief Economic Planning Officer	12972
@@ -234,7 +236,7 @@ Chief Enterprise Business Officer Lynda Saint-Nwafor	3155,31
 Chief Evangelist	6065
 Chief Executive	11,1198,3687,2949,548,140,285,2311,192,1304,21,252,71,838,1,140,880,15,37,1960,1400,648,21,719,23,61
 Chief Executive EDPA GUIDELINES NO	13004
-Chief Executive Officer	585,2,149,395,202,689,489,176,330,203,318,176,6,41,126,376,94,306,233,435,28,90,89,126,48,405,511,146,164,8,127,22,19,93,18,173,46,108,42,12,8,49,122,10,45,253,49,80,34,152,11,58,150,32,207,72,103,41,20,160,182,510,91,53,52,99,269,52,92,143,248,73,5,1,2,64,23,19,40,468,28,200,20,50,199,54,16,43,80,97,97,19,249,148,9,65,3,60,76,14,30,66,16,16,181,232,136,51,7,141,62,12,162,8,27,27,15,29,30,52,33,53,37,2,34,2,7,10,71,38,18,139,243,222,634,13,791,148,300,9,377,710,34,94,14,140,120,18,2,5,54,32,96,25,54,19,41,299,13,8
+Chief Executive Officer	585,2,149,395,202,689,489,176,330,203,318,176,6,41,126,376,94,306,233,435,28,90,89,126,48,405,511,146,164,8,127,22,19,93,18,173,46,108,42,12,8,49,122,10,45,253,49,80,34,152,11,58,150,32,207,72,103,41,20,160,182,510,91,53,52,99,269,52,92,143,248,73,5,1,2,64,23,19,40,468,28,200,20,50,199,54,16,43,80,97,97,19,249,148,9,65,3,60,76,14,30,66,16,16,181,232,136,51,7,141,62,12,162,8,27,27,15,29,30,52,33,53,37,2,34,2,7,10,71,38,18,139,243,222,634,13,791,148,300,9,377,710,34,94,14,140,120,18,2,5,54,32,96,25,54,19,41,299,13,8,590,6,16,6,33
 Chief Executive Officer Antoine Sebera	6388
 Chief Executive Officer Ato Kinfe Negash	12195
 Chief Executive Officer Aurélie Milledrogues	19616
@@ -323,6 +325,7 @@ Chief Executive Officer of NERD	18206
 Chief Executive Officer of NGIC	5277
 Chief Executive Officer of NIBSS	2841
 Chief Executive Officer of NPPA	18562
+Chief Executive Officer of NSIPA	20176
 Chief Executive Officer of Nairtime Nigeria Limited	8663
 Chief Executive Officer of Nairtime Nigeria and Chief	8587
 Chief Executive Officer of Nestlé	11221
@@ -331,6 +334,7 @@ Chief Executive Officer of Ooredoo Algeria	5391
 Chief Executive Officer of Ooredoo Tunisia	19446
 Chief Executive Officer of Open Access Data	11168
 Chief Executive Officer of PAPSS	6401,2041
+Chief Executive Officer of PPL Net	20072
 Chief Executive Officer of Proparco Digital Africa	3036
 Chief Executive Officer of Protean International DMCC	14081
 Chief Executive Officer of Publica AI	4626
@@ -349,6 +353,7 @@ Chief Executive Officer of Sonatel Group and Chairman	4114
 Chief Executive Officer of Standard Bank Eswatini	11131,3
 Chief Executive Officer of Statistics Botswana	12530
 Chief Executive Officer of Sybrin	10193
+Chief Executive Officer of Tanzania-based AI	20085
 Chief Executive Officer of Technology Service Providers	6946
 Chief Executive Officer of Telecom Namibia	13183
 Chief Executive Officer of Trident	2698
@@ -379,7 +384,7 @@ Chief Executive of SNPT	5407,676
 Chief Executive of Société Générale Chad	18909
 Chief Executive of Stanbic Bank Ghana	8928
 Chief Executive's Statement	19651
-Chief Executives	14746,1520,3535
+Chief Executives	14746,1520,3535,381
 Chief Executives of Local Authorities	14738
 Chief External Affairs Officer	4993,2438
 Chief Finance Officer	15080,2170
@@ -416,7 +421,7 @@ Chief Government Stbaetistician of Zanzibar	19526
 Chief Government Valuer	14761
 Chief Growth Officer	2827
 Chief Growth and AI Officer	5327
-Chief Guest	8284,5225,1046,1776
+Chief Guest	8284,5225,1046,1776,3738
 Chief Guest Ambassador Rosa Malango	9781
 Chief Guest and Ambassador	13562
 Chief HIEC Officer Officer-in-Charge HIV	14773
@@ -607,7 +612,7 @@ Chief Surveyor-General	13213
 Chief Sustainability Officer	13057
 Chief Sustainability and Corporate Affairs Officer	15318
 Chief Technical	4896
-Chief Technical Advisor	14922
+Chief Technical Advisor	14922,5212
 Chief Technical Advisor DCICs District Census	16921
 Chief Technical Officer	4759,9963,70
 Chief Technical Officer Brian Karuhanga	18676
@@ -690,7 +695,7 @@ Chiefs Palace ECZ Board Chairperson Professor	13477
 Chiefs and Alkalolu	17347
 Chiefs and Headmen Act	13286,29
 Chieftaincy	4126,6811,5226,3799
-Chieftaincy and Religious Affairs	1514,2976,9724
+Chieftaincy and Religious Affairs	1514,2976,9724,5857
 Chieftainess Mat'senolo Bereng	309
 Chieftainess Serenje Ward	13387
 Chieftainship	12674,27,50,5
@@ -863,6 +868,7 @@ Founder and Chief Executive Officer of Precise Financial	8627
 Francine UWANYIRIGIRA Chief Finance Officer	15080
 Functions of Chief Executive Officer	18893
 G20's Meeting of Agricultural Chief Scientists	2626
+GITEX Chief Executive Officer	20185
 GS1 Tanzania Chief Executive Officer	5883
 GSU Chief Executive Officer and Managing Director	4934
 GUNNASYA Hemmant Deputy Chief Fire	14770
@@ -1079,6 +1085,7 @@ National Council of Chiefs. County	16970
 National Council of Paramount Chiefs	18465
 National Population Commission Chief	7664
 Navy Chief of Guinea-Bissau	11579
+Nawec's Chief Operating Officer for Electricity	20235
 Ndlandla Board Member Chief Jozane Maziya	12969
 Nduka Chiejina	7928
 Netherlands and IDLO. Chief Registrar	9546
@@ -1116,6 +1123,7 @@ P. Chikudza and NCRST Chief Executive	1554
 P. Mawah Acting Senior Chief	14773
 P177031 Maforki Chiefdom	18539
 PACRA Chief Executive Officer	12482
+PAPSS Chief Executive Officer	20203
 PASCAL MORIN CHIEF EXECUTIVE OFFICER FINANCIAL	19049
 PETER SHAAMA CHIEF ELECTORAL AND REFERENDA	13046
 POLICY CHIEF OF STAFF SENIOR TECHNICAL	17235
@@ -1272,6 +1280,7 @@ Visit of Chief	16331
 Visit of Chief of Defence Staff	16331
 Vodacom Lesotho Chief Executive Officer	7898,4868
 Volta Region House of Chiefs and Paramount Chief	16596
+WAT Chief Executive Officer	20202
 Wednesday. The National Commissioner and Chief Executive	9878
 Woman Police Chief Inspector	14760
 Woman Police Chief Inspector WCPL	14760

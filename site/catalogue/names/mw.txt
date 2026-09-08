@@ -51,6 +51,7 @@ Boulevard Mwezi Gisabo	13524
 Bulape and Mweka	16011
 Burkina MW	14204
 Business Reporter Mwananchi Communications Ltd Dar	8465
+Buy Eswatini Thubelihle Mweli	20123
 C. MWEETWA	13416
 C.B. Mwongela	7167
 CLEOPHAS MWANDIKI MIRITI Data Processor INST-563886EA3E8	7167
@@ -163,6 +164,7 @@ Framework MV Medium Voltage MW Mega	15515
 Frank Mwiti	4978,3115
 François Mwakisenda	12003
 Fred M. Mwale Director Research Services-Teaching	13392
+Fredrick Mwalusaka	20120
 Frida Mwangi	6948
 GADIMO GANONGO DIMI MWANDE CI MAKOLA	15744
 GERAL MWh	18793
@@ -297,7 +299,7 @@ MW Africa Data ACC-1 Accra Pipeline	10861
 MW Airtel NXTRA LGS2 Lagos	10861
 MW Angola	10781,1618
 MW Anixas I and II	12399
-MW Available	16966
+MW Available	16966,3257
 MW Average Available Capacity	12062,6124,31
 MW BAS-UELE P.i	15670
 MW BASCULEMENT	14479
@@ -359,7 +361,7 @@ MW Hyperscale Expansion	1404
 MW IPPs	12399
 MW IT Power	9446,1510
 MW ITURI P	15670
-MW Installed	12969,3997
+MW Installed	12969,3997,3257
 MW Itezhi Tezhi Hydropower Project	13561
 MW JB7	1402
 MW Jambur Solar Plant	17105
@@ -418,6 +420,7 @@ MW Mansa	5247
 MW Mar Apr Dec Annual	11953
 MW Maryland	16978
 MW Matshelagabedi	19663,14
+MW Mega Watt	20223
 MW Mega Watt O&M Opérations	18316
 MW MegaWatt NNI Numéro National	17907
 MW Megawatt	18614,6
@@ -497,12 +500,13 @@ MW Shakawe	19677
 MW Siavonga	5247
 MW Sidi Bouzid II	19488
 MW Sintoukola Potash	15799
-MW Solar	16966,2711
+MW Solar	16966,2711,546
 MW Solar Mini-grid Project. While the ICS	14080
-MW Solar PV	16966
+MW Solar PV	16966,3257
 MW Solar PV Farm	14745
 MW Solar PV Mini-grid	14080
 MW Solar PV Pillar	18795
+MW Solar PV Plant	20223
 MW Solar PV Power Plants	13123
 MW Solar PV US	12399
 MW Solar Photo-Voltaic Power Plant	18016
@@ -710,12 +714,13 @@ MWc de PV	14479
 MWh AO Suppldmentaire	14479
 MWh Additional	12399
 MWh Ajustement Ta	14479
-MWh BESS	10857,1542,661,168,852,665,1238,983
+MWh BESS	10857,1542,661,168,852,665,1238,983,3257
 MWh BESS US	16966
 MWh BESS World Bank	16966
 MWh Battery Energy Storage System	18862
 MWh Em	18793
 MWh Energy	16966
+MWh Mega Watt Hour	20223
 MWh Mega-Watt	12256
 MWh Megawatt-hour	18614
 MWh Megawatt-hour NCSA National Cyber Security	718
@@ -764,6 +769,7 @@ Mataifa. Mwaka	19592
 Mathanzima Mweli	11220
 Matthew Mwakoma of CyberPro Global	14555
 Matusi Familia Mimba Mwanafunzi Mwanafunzi Mimba	19517
+Mbarara City South MP Mwine Mpaka	20140
 Mbawaka Mwakhwawa	2883,39
 Mbezi Mwisho	19592
 Medium Term Expenditure Framework MWSS	14857
@@ -868,6 +874,7 @@ Mwalimu Mkuu	19568
 Mwalimu Nyerere	19534,31
 Mwalimu Nyerere Kampasi	19565
 Mwaluma Andrew Bryma GEGBE	18483
+Mwalusaka	20120
 Mwamba	12464,945
 Mwamba Lesa	13477
 Mwambani	19592
@@ -1125,6 +1132,7 @@ Professional Growth By Mwamba Lesa	13477
 Professor Eddie Mwenje of Bindura University of Science	520
 Promise Mwakale	10732
 Prossy Mwanjuzi Yesterday	8352
+Protect Public Funds Thubelihle Mweli	20174
 Provider MW Megawatts OEM Original Equipment	10861
 Province Muyinga Mwaro Ngozi Rumonge Rutana	13442
 Province Mwaro Ngozi Rumonge Rutana Ruyigi	13442

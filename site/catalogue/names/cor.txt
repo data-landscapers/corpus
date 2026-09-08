@@ -38,7 +38,7 @@ About Table of Contents Home Zimbabwe Core	6666
 About Us Vision Core Vlues Digital	6946
 About the Millennium Challenge Corporation	15402
 Absa Group Limited and ABC Banking Corporation	398
-Absence of Corruption	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Absence of Corruption	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 Abuse Of Corps	16935
 Account CCSS Counter Corruption and Security Services	5533
 Accra. Ms. Isabel Maria Correia Viegas	18857
@@ -170,6 +170,7 @@ BMS MOOV MONEY BNDA CORIS BANK	18017
 BNDE CORIS BANK BOA ECOBANK BRIDGE	18017
 BNR MPFSS Corporate	14997
 BOA BSIC NIGER CORIS BANK ECOBANK	11588,6682
+BOTSWANA POWER CORPORATION ELECTRICITY TARIFF ADJUSTMENT	20165
 BSC Broadband Systems Corporation CAPEX Capital	718
 BUSINESS OVERVIEW AND CORPORATE ACTIONS	4896
 Background The EU-Africa-India Digital Corridor	13883
@@ -574,6 +575,7 @@ Coran	4729,13222,30
 Corazon Nsumbu	14666
 Coração Azul	10750
 Coração Azul. Edição Nº	10750
+Corbacho	20221
 Corban Madzivanyika	12514
 Corbeau News Centrafrique	2328,4346,3579,5221
 Corbeaunews-Centrafrique	4335
@@ -630,6 +632,8 @@ Core Ethical Principles	16212
 Core Ethical and Governance Principles	16212
 Core FSIs Regulatory	13868
 Core Financial Systems Enhancements Delivered	11134
+Core Foundational	20221
+Core Foundational and Functional Systems	20221
 Core Functions	7548
 Core Functions Function Electricity Act Petroleum	12969
 Core Functions TWGs	7548
@@ -969,7 +973,7 @@ Corporate Governance. The Rural SLB	970
 Corporate IT S	17364
 Corporate IT and IT Audit Units	17364
 Corporate Income	16949
-Corporate Income Tax	573,1255,3155,672,5107,536,657,497,48,500,44,9,1932,2011,109,1213,1468
+Corporate Income Tax	573,1255,3155,672,5107,536,657,497,48,500,44,9,1932,2011,109,1213,1468,438
 Corporate Income Tax CSP	13053
 Corporate Income Tax Code	11955
 Corporate Income Tax ISO	11955
@@ -1044,7 +1048,7 @@ Corporate Social Responsibility GEF	17101
 Corporate Social Responsibility Kathieno B Self	6946
 Corporate Social Responsibility Lumwana Mines	1988
 Corporate Sponsors	15460
-Corporate Strategic Plan	10550,31,1500,295,677,3958,94
+Corporate Strategic Plan	10550,31,1500,295,677,3958,94,3119
 Corporate Strategic Plan CSR	13053
 Corporate Strategic Plan GRA	16968
 Corporate Strategic Plans	17011
@@ -1083,7 +1087,7 @@ Corporate-vendor	6131
 CorporateNews	2677,12933,199,18,114
 Corporates	9495,1306,4018,9,3,183
 Corporates Emerge Fundraising Leaders Development	4972
-Corporation	50,40,31,119,52,27,160,420,99,44,1733,4057,106,847,60,312,1639,955,90,710,425,321,88,59,157,3,302,6,70,1440,124,119,55,177,568,574,417,55,324,16,25,359,550,369,323,79,401,22,84,1,109,411,1,92
+Corporation	50,40,31,119,52,27,160,420,99,44,1733,4057,106,847,60,312,1639,955,90,710,425,321,88,59,157,3,302,6,70,1440,124,119,55,177,568,574,417,55,324,16,25,359,550,369,323,79,401,22,84,1,109,411,1,92,443,45
 Corporation Africa Region The Multilateral Investment	11468
 Corporation Agreement	7845
 Corporation CDR Crude Death Rate CECM	2775
@@ -1229,7 +1233,7 @@ Correspondants Financement BM	15999
 Correspondants Oui	11944
 Corresponde	1701,3468,5588,9,619,189,5281,4,12,1904
 Correspondem	18768
-Correspondence	236,976,2371,1766,3027,1363,1045,492,592,12,347,19,1041,174,1,1322,1,80,100,1882,926,7,763,118,1323
+Correspondence	236,976,2371,1766,3027,1363,1045,492,592,12,347,19,1041,174,1,1322,1,80,100,1882,926,7,763,118,1323,235
 Correspondence Colleges Act	13287
 Correspondence Colleges Guarantee Fund	13287
 Correspondence Receipt	19783
@@ -1290,12 +1294,12 @@ Corroboration	1256,1332,103,735,160,164,1295
 Corroboration Against the Direction	4397
 Corrosion	1988,11397,410,3105
 Corrugated	13385
-Corrupción	4209,12756
+Corrupción	4209,12756,3130
 Corrupt	4590,6650,4661,2655
 Corrupt Activities Act PSCBC Public Service	11197
 Corrupt Practice	15901
 Corrupt Practices Act	12932,1920
-Corruption	789,1039,1568,187,1085,383,298,184,1369,57,927,864,141,515,210,1143,78,139,251,647,7,1,23,81,39,127,40,9,139,6,155,11,408,28,8,28,17,184,167,6,29,55,32,10,20,20,201,699,1,25,38,1,1,252,758,158,3,51,173,51,448,224,250,84,7,9,14,39,57,71,38,83,198,45,215,152,12,67,167,202,9,12,326,132,191,232,718
+Corruption	789,1039,1568,187,1085,383,298,184,1369,57,927,864,141,515,210,1143,78,139,251,647,7,1,23,81,39,127,40,9,139,6,155,11,408,28,8,28,17,184,167,6,29,55,32,10,20,20,201,699,1,25,38,1,1,252,758,158,3,51,173,51,448,224,250,84,7,9,14,39,57,71,38,83,198,45,215,152,12,67,167,202,9,12,326,132,191,232,718,274
 Corruption Bribery	11874,8
 Corruption Case Tracker	17037
 Corruption Commission	970,12002,121,4221
@@ -1458,6 +1462,7 @@ Development Corporation Framework	19519
 Development Finance Corporation	560
 Development IFC International Finance Corporation IFR	13331
 Devrient Christoph Lang Spokesman Corporate Communications	17536
+Diagnostic of Core Functional Systems Linked	20221
 Dibamba Power Development Corporation	15542
 Digital Africa Corridor	3527
 Digital Corners	19875
@@ -1485,6 +1490,9 @@ Directorate of Corporate Planning and Strategy	17683
 Directorate of Corruption and Economic Crime	3887
 Distrito Urbano Cor da Placa	11373
 Division. The Corporate Insolvency and Restructuring Act	19961
+Djibouti Corridor Programme	20076
+Djibouti-Ethiopia Corridor	20076
+Djibouti-Ethiopia Corridor. Strengthening	20076
 Domingos Correia	11566,389
 Domingos Monteiro Correia	11540,5526
 Donativos. V. Receitas Correntes	18798
@@ -1707,7 +1715,7 @@ Gaz Corporation	15465,991
 Gen Core	34
 General Corporate	15205
 Geovic Mining Corp TBD	15542
-German Corporation for International Cooperation	15478
+German Corporation for International Cooperation	15478,4601
 German Corporation for International Cooperation GmbH GoG	4126
 German Development Corporation	6958
 Ghana Champions Continental Digital Trade Corridor	6136
@@ -1735,6 +1743,7 @@ Groupe COREX URL	16742
 Groupe Coris Bank	15893
 Guardian Correspondent	5977,2158,1670,587
 Guild of Corporate Online Publishers	7179,2,4111,21
+Guild of Corporate Online Publishers GOCOP	20082
 Guinea Ecuatorial de Correos	16904
 Guinea Launches CORIS MONEY	5089
 Général de Corps	7805,8576,1518,83,21,29,894
@@ -1775,7 +1784,7 @@ ICT Core Sector Indicators and Definition	15372,3515
 ICT Department Cordination	6946
 IDC Industrial Development Corporation ILAS Integrated	11261
 IDEA MPA Corporate Scorecard Indicators	6539
-IFC International Finance Corporation	18614
+IFC International Finance Corporation	18614,1609
 IFC International Finance Corporation IFMIS Integrated	7548,5764,2,2058,3515
 IFC International Finance Corporation IFR Interim	11549,4072,3663
 IHE CORE COMPONENTS Consistent	1009
@@ -1986,13 +1995,13 @@ Liability and Asset Management Corporation	12233
 Liability of Corporate Bodies	15374
 Liberia Anti- Corruption Commission	17037
 Liberia Corporation Law	16835
-Liberia Electricity Corporation	4998,2722,9131,84,40,3,5,131,25,118,3
+Liberia Electricity Corporation	4998,2722,9131,84,40,3,5,131,25,118,3,2889
 Liberia Electricity Corporation LISGIS Liberia Institute	16935
 Liberia Telecommunication Corporation	16835
 Liberia Telecommunications Corporation	11054,5781,37,62,41,139,146
 Liberia Telecommunications Corporation LRA	16872
 Liberia Telecommunications Corporation MGSP	16975
-Liberia Water and Sewer Corporation	9088,7847,322,3
+Liberia Water and Sewer Corporation	9088,7847,322,3,2889
 Liberia. Core Values	16985
 Liberian International Ship and Corporate Registry	17037
 Liberian Observer Corporation ELWA Junction	4261,13097
@@ -2027,6 +2036,7 @@ MAGISTRADO CORTE SUPREMA JUSTICIA	4209
 MALAWI CORONATION MERCHANT BANK ECOBANK FBNQUEST	17242
 MALI STRUCTURES ET CADRES CORPS CAT	17899
 MAVOUNGOU Corelli PNFS Coordonnatrice Programme Nationale	16012
+MCC Millennium Challenge Corporation	20223
 MCC Millennium Challenge Corporation MEPM Ministère	18316
 MEDIDAS CORRETIVAS ADOTADAS Com	11561
 MERCI CORPS and PRASP. Increased	17904
@@ -2081,7 +2091,7 @@ Mauritius National Transport Corporation	14847
 Mbizo MP Corban Madzivanyika and Chiredzi Central	9229
 Measures Core Activity	16943
 Measuring Corruption	18318
-Mechanisms Absence of Corruption	10759,1393,188,7598
+Mechanisms Absence of Corruption	10759,1393,188,7598,274
 Medidas Correctivas	4209
 Medidas Corretivas Adotadas	11561
 Medium-sized Corporations Center	14952
@@ -2111,6 +2121,8 @@ Million Corruption Scheme By Fanuel Chinowaita	8639
 Million SDG At Orange Corners Demo	15048
 Milton Cabral. Olavo Correia	16134
 Mining Corporation TAA Tanzania Airports Authority	19584
+Mining Promotion Corporation	20054
+Mining Promotion Corporation and India	20054
 Minister Corinne Amori Brunet	9043
 Minister Cornelia Kruah	17311
 Minister of Correctional Services	11270
@@ -2236,10 +2248,11 @@ Nexus Core Systems and Morocco's Ministry of Digital	5745
 Nhlangano and Big Bend Correctional Centres	12962
 Nigeria CENTRAL BANK OF NIGERIA Corporate	14473
 Nigeria Corporation	11469
-Nigeria Deposit Insurance Corporation	9571
+Nigeria Deposit Insurance Corporation	9571,10627
 Nigeria National Petroleum Corporation	11851
 Nigeria Security and Civil Defence Corps	10049,1879
 Nigeria's Corporate Affairs Commission	7631
+Nigeria-UK Corridor	20157
 Nigerian Consumer Credit Corporation	8350
 Nigerian Correctional Service	3018,8910,14
 Nigerian Federal Road Safety Corps	11952
@@ -2687,7 +2700,7 @@ State Corporations Act. The NCSA	6803
 State Corporations Advisory Committee	6946
 State Corporations. Dr. Musangi	6946
 State Department for Correctional Services	14546
-State Institutions Absence of Corruption	10759,78,1315,188,7598
+State Institutions Absence of Corruption	10759,78,1315,188,7598,274
 State Mining Corporation	19584
 State Mining Corporation Level	19584
 State Owned Corporations	11854
@@ -2758,6 +2771,7 @@ Technical Control and Corporate Responsibility	11791
 Technology Africa Finance Corporation Breaks	9796
 Technology Core	16968
 Technology Correspondent	5612,538
+Technology Correspondent Telkom	20201
 Technology IFC International Finance Corporation MFI	13347
 TelOne Centre for Learning Corner Samora Machel	17856
 Telecommunications Corporation	36,14861,1938
@@ -2930,7 +2944,7 @@ ZTE Corp	17651
 ZTE Corporation	103,2,16,5215,1803,973,1420
 Zambia Airport Corporation Limited	12376
 Zambia Airport Corporation Limited. Available	12376
-Zambia Airports Corporation Limited	5247,12538
+Zambia Airports Corporation Limited	5247,12538,2335
 Zambia Airports Corporations Limited	5247
 Zambia Correctional Service	1988,11367
 Zambia Electricity Supply Corporation	5247,7129,1269

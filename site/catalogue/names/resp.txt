@@ -355,7 +355,7 @@ Computer Emergency Response Team of Mauritius	783,14046
 Computer Emergency Response Team of Mauritius CFT	14828,3
 Computer Emergency Response Teams	395,5137,145,5087,147,2969,1608,4172
 Computer Incidence Response Team	958
-Computer Incident Response Team	4693,10,61,2081,2588,1701,1261,58,1986,102,3,79,3122
+Computer Incident Response Team	4693,10,61,2081,2588,1701,1261,58,1986,102,3,79,3122,2347
 Computer Incident Response Team CLS	18485
 Computer Incident Response Team CMIL	14438
 Computer Incident Response Teams	11920,5825
@@ -366,6 +366,7 @@ Computer Security Incident Response Team CSR	16975
 Computer Security Incident Response Team ESCP	16144
 Computer Security Incident Response Team-CSIRT	15504
 Computer Security Incident Response Teams	5677,1259,1961,573,1219,4799,656
+Computer Security and Incident Response Team	20224
 Confidentiality of Submissions Respondents	17212
 Conférence des Responsables	16473
 Congo. Responsible Agency	15693
@@ -446,7 +447,7 @@ Cyber Security Incident Response Guide	12364
 Cyber Security Incident Response Team	11955,471,905
 Cyber-security Responsible Ministry	16872
 Cybercrime Response Centre	8194
-Cybercrime Response Unit	1000
+Cybercrime Response Unit	1000,19221
 Cybersecurity Emergency Response Center	18456
 Cybersecurity Emergency Response Team	14965
 Cybersecurity Incident Response Team	6539,2161
@@ -594,6 +595,7 @@ ESI Anomaly Drought Class Vegetation Response	17157
 EUR Corona Service Response	970
 Early Response Financing	15190,1208,3650
 Ebola Response Challenge	9707,99
+Ebola Response Dr Talkmore Maruta	20163
 Economic Co-operation and Development RAIO Responsible AI	1204
 Education Responsible Ministry	16872
 Education. Responsabilité	15673
@@ -1022,7 +1024,7 @@ Jul-2028 Organizations Borrower Responsible Agency Republic	4653
 Jul-2028 Responsible Agency Road Fund	1228
 KAYI Constant UGP Responsable des Registres	16012
 KEY RESPONSIBILITIES Minting	15023
-KNUST Responsible AI Lab	5935
+KNUST Responsible AI Lab	5935,14247
 KNUST Responsible AI Laboratory	4126
 KNUST's Responsible AI Lab	5227
 KOUKA Lydie Fortunée UGP Responsable Suivi	16012
@@ -1769,7 +1771,7 @@ Respiratory Respiratory	12151
 Respiratory Respiratory Respiratory Sepsis	12151
 Respond	395,563,819,319,3017,563,4925,120,4,404,288,2001,602,1172,558,261,910,193,43,154,1529,87,874
 Responded	13493,6253
-Respondent	1919,1388,393,1413,3005,12,48,3526,252,37,1500,967,2667,1027,1660
+Respondent	1919,1388,393,1413,3005,12,48,3526,252,37,1500,967,2667,1027,1660,287,88
 Respondent Director General of Kenya Citizens and Foreign	14460
 Respondent Engagement	15024
 Respondent Google LLC	3307
@@ -1803,7 +1805,7 @@ Respondentsin	18154
 Respondents’ Age	12978
 Respondentto	18154
 Responder	11374,1598,2532,3296
-Responding	1284,583,226,3,969,448,49,42,1618,79,149,358,296,101,6,136,473,290,31,3,260,39,113,1,45,98,142,104,76,59,104,182,26,129,395,38,141,25,322,2,31,49,595,346,36,57,209,8,53,61,74,117,91,245,143,12,82,201,25,25,396,94,119,55,4,46,358,293,61,1,14,15,87,483,182,321,231,83,4,439,53,247,62,68,37,3,483,254,524,516,20,118,65,602,227,27,25,58,3,226,436,39,551,12,48
+Responding	1284,583,226,3,969,448,49,42,1618,79,149,358,296,101,6,136,473,290,31,3,260,39,113,1,45,98,142,104,76,59,104,182,26,129,395,38,141,25,322,2,31,49,595,346,36,57,209,8,53,61,74,117,91,245,143,12,82,201,25,25,396,94,119,55,4,46,358,293,61,1,14,15,87,483,182,321,231,83,4,439,53,247,62,68,37,3,483,254,524,516,20,118,65,602,227,27,25,58,3,226,436,39,551,12,48,231
 Respondingtothisgap	8602
 Respons. Calendrier	18286
 ResponsAbility	389
@@ -2213,7 +2215,7 @@ Responsible Agencies	18887
 Responsible Agency	14966
 Responsible Artificial Intelligence	1814
 Responsible Artificial Intelligence Lab	4126,1101,4193,10
-Responsible Artificial Intelligence Office	5932,2
+Responsible Artificial Intelligence Office	5932,2,14250
 Responsible Business Conduct	14997
 Responsible Business Unit	11188
 Responsible Business Unit Develop	11188
@@ -2234,6 +2236,7 @@ Responsible District Assemblies	17114
 Responsible Entity	12448
 Responsible Gambling Board	14843
 Responsible Gambling and Communications Division	14828,15
+Responsible Governance and Equitable Access	20125
 Responsible Governance of Tenure	9727,7397
 Responsible Governance of Tenure of Land	10960,7333
 Responsible Growth	3487

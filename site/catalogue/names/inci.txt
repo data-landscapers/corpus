@@ -40,7 +40,7 @@ Centrale des Incidents de Paiement	13452,3490,957
 Centrale des Incidents de Paiement La Banque	13452
 Circulação de Veículos Incidência- Taxas-Notas Taxa	17100
 Computer Incidence Response Team	958
-Computer Incident Response Team	4693,10,61,2081,2588,1701,1261,58,1986,102,3,79,3122
+Computer Incident Response Team	4693,10,61,2081,2588,1701,1261,58,1986,102,3,79,3122,2347
 Computer Incident Response Team CLS	18485
 Computer Incident Response Team CMIL	14438
 Computer Incident Response Teams	11920,5825
@@ -52,6 +52,7 @@ Computer Security Incident Response Team CSR	16975
 Computer Security Incident Response Team ESCP	16144
 Computer Security Incident Response Team-CSIRT	15504
 Computer Security Incident Response Teams	5677,1259,1961,573,1219,4799,656
+Computer Security and Incident Response Team	20224
 Comunicação de Incidentes de Segurança	3519
 Conclusion Incidence	13513
 Constituição. CAPÍTULO II Incidência Subjectiva	18764

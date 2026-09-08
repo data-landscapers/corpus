@@ -1941,7 +1941,7 @@ Convention des Lettres de Change Non Normalisés	19994
 Convention des Lettres de Change Normalisés	19994
 Convention des Nations	10003,1085,3315,893,2695,1244,43
 Convention des Nations Un	10826
-Convention des Nations Unies	5573,1329,3924,2504,112,283,686,1232,442,1756,100,386,908
+Convention des Nations Unies	5573,1329,3924,2504,112,283,686,1232,442,1756,100,386,908,864
 Convention des Nations Unies Contre la Corruption	14450,1262
 Convention des Nations-Unies	10841
 Convention-Cadre des Nations Unies	16621
@@ -2945,6 +2945,7 @@ DES OUTILS DE LUTTE CONTRE	19251
 DES OUTILS ELECTRONIQUES ET DES PRESTATAIRES	15584
 DES OUTILS ELECTRONIQUES Section	15584
 DES PAIEMENTS DES	10711
+DES PARTENAIRES STRATÉGIQUES	20075
 DES PARTENARIATS STRATEGIQUES ET OPERATIONNELS	17873
 DES PARTICULIERS DE PORT-GENTIL	16381
 DES PARTIES PRENANTES	14425,1321,358
@@ -4801,6 +4802,7 @@ Forum des Administrateurs	8257
 Forum des Entreprises Publiques	2342
 Forum des Femmes Parlementaires	15543
 Forum des Femmes Parlementaires de Centrafrique	15686
+Forum des Régulateurs	20059
 Forum des Startups	15550,71
 Forêts. POLITIQUE GENERALE MINISTERE DES TRANSPORTS	16099
 Fournisseur des Systèmes	14469
@@ -5521,6 +5523,7 @@ Innovation Développement des Compétences	15624
 Innovation Technologique MFBPP Ministère des Finances	15580
 Ins. Des	16130
 Insertion Socio-économique des Jeunes	15999
+Insertion des Jeunes	20075
 Insertion des Personnes Handicapées	10826
 Insertion des Valeurs	13375
 Inspecteur Divisionnaire des Contributions Directes	16047
@@ -5782,7 +5785,7 @@ L'Institut Centrafricain des Statistiques	9276,997
 L'Institut National des Archives du Congo	15584
 L'OFFICE NATIONAL DES POSTES N	19399
 L'OFFRE DES CONTENUS MEDIATIQUES INCLUSIFS	15999
-L'Office Burundais des Recettes	5077,8613
+L'Office Burundais des Recettes	5077,8613,6476
 L'Organisation Mondiale des Douanes	15478
 L'Organisation des Nations	9595
 L'Organisation des Nations Unies	19402
@@ -7337,7 +7340,7 @@ Office des Changes. Il	17485
 Office des Changes. Pour	17485
 Office des Changes. Sont	17485
 Office des Nations	14403
-Office des Nations Unies	17881
+Office des Nations Unies	17881,2218
 Office des Postes	4715,13390
 Office des Produits	8237
 Office des Voiries de Djibouti	13908
@@ -7494,6 +7497,7 @@ PARTIE OFFICIELLE MINISTERE DES AFFAIRES FONCIERES	15455
 PARTIR DE LA LISTE DES FEMMES	13300
 PARTIR DES QUESTIONS	13300
 PASSATION DES MARCHES PUBLICS	2629,770,367,55,45,867,580,142,234,14,2,102,70,47,210,371,62,277,263,16,2,157,12006,43,13
+PASSER DE LA JUXTAPOSITION DES INITIATIVES	20075
 PDF des Registres Fonciers	13375
 PEC des VBG	16722
 PENSES DES COMPTES SPECIAUX DU TRESOR	16047

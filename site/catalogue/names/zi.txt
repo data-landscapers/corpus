@@ -279,7 +279,7 @@ East Africa Yas and ZICTIA	5908,442
 EcoCash Holdings Zimbabwe Limited	16791
 Ecobank Zimbabwe Limited	12252
 Econet Site Fund Zimbabwe Group Pension	4896
-Econet Wireless Zimbabwe	50,55,2911,1282,41,557,931,20,164,194,287,836,218,4957
+Econet Wireless Zimbabwe	50,55,2911,1282,41,557,931,20,164,194,287,836,218,4957,7640
 Econet Wireless Zimbabwe Deferred Tax Limited	4896
 Econet Wireless Zimbabwe Limited	4360,536,642
 Econet Wireless Zimbabwe Limited Rates	4896
@@ -446,12 +446,14 @@ International Budget Partnership's Zimbabwe	6463
 International Governance and Diplomacy Zimbabwe	4528,7984
 Internet Services Throughout Zimbabwe	1872
 Internet Society Zimbabwe Chapter	14468
+Internet Society Zimbabwe Chapter. POTRAZ	20064
 Inventaires Faunigues des Zic	15999
 Inventaires des Inventaires Fauniques des Zic	15999
 Inward Telegraphic Transfers Zimbabwe's RTGS	13408
 Ioba Zitenga	10875
 Isidore ZINSOU	16485
 Ivoire Cameroon Zimbabwe Liberia Djibouti Swaziland	10819
+Ivoire and Zimbabwe	20107
 JEP.13582 Zickar	8603
 Jamie Zimmerman	10977
 Jan Ziegler	16942,54
@@ -512,7 +514,7 @@ Legal and Parliamentary Affairs Minister Ziyambi Ziyambi	13703
 Lelapa AI and Zindi	8680
 Lesotho Sierra Leone Zimbabwe Mali Chad	12278
 Lesotho and Zimbabwe	10844,7279
-Liberia Uganda Mozambique Ethiopia Niger Zimbabwe	10837,1503,7598
+Liberia Uganda Mozambique Ethiopia Niger Zimbabwe	10837,1503,7598,274
 Like Zimbabwe	3742
 Limited ZBC Zimbabwe Broadcasting Corporation ZCHPC	13420
 Lionel ZINSOU Le Ministre	15399
@@ -965,7 +967,7 @@ Techbytes Africa Staff Zimbabwe	13632
 TechnoMag Reporter Zimbabwe	9030
 Technology Authority ZIMS Zambia Immigration Management	13345
 Technology Zimbabwe	12512
-Telecommunications Regulatory Authority of Zimbabwe	4528,7984,1144
+Telecommunications Regulatory Authority of Zimbabwe	4528,7984,1144,6451
 Telecompaper ZIMBABWE	13650
 Tertiary and Research Capacity Excellence Zimbabwe	4528,7984
 Tharisa Deepens Zimbabwe Investment Tharisa	6011,985
@@ -1074,11 +1076,13 @@ ZICB Financing Agreement	13460
 ZICBZMLU	12252
 ZICBZMLU UNITED BANK FOR AFRICA ZNCOZMLU	12364
 ZICGC	15999
-ZICTA	59,1136,793,303,731,502,1533,190,954,512,812,254,14,85,635,516,53,677,2597,20,77,883,8,1,1,1,125,40,24,22,13,36,670
+ZICTA	59,1136,793,303,731,502,1533,190,954,512,812,254,14,85,635,516,53,677,2597,20,77,883,8,1,1,1,125,40,24,22,13,36,670,5934
 ZICTA Act	34
 ZICTA Acting Director General Collins Chomba	7779
 ZICTA Acting Manager of Corporate Communications Jayne	3022
 ZICTA Assesses UASF ICT Projects	6713
+ZICTA Board Chairperson	20211
+ZICTA Board Chairperson Prof. Mundia Muya	20211
 ZICTA Board Committee Reviews UASF Projects	3524
 ZICTA Corporate Communications Manager Hanford Chaaba	9029
 ZICTA Gap	12453,892
@@ -1157,6 +1161,7 @@ ZIMCHE	4528,7984,856,175,128
 ZIMCHE and ZIMSEC	13320
 ZIMConnect	9397
 ZIMOZA	970
+ZIMPOST	20115
 ZIMRA	3025,1075,1,348,79,1,367,3271,252,80,898,622,2472,6,12,3,530,317,14,56,104,17,138
 ZIMRA Automation	4101,289
 ZIMRA Board Chairperson Anthony Mandiwanza	13429
@@ -1468,7 +1473,7 @@ Zimba-Soaring Eagle	4528,7984
 Zimba-corn	4528,7984
 Zimbabawe	40
 Zimbabve	13575,1
-Zimbabwe	21,1,14,4,2,9,54,91,29,17,7,113,33,7,1,5,112,58,43,30,32,1,30,22,17,13,96,78,18,4,8,2,41,24,1,116,6,31,32,20,5,115,177,14,31,34,64,12,1,8,9,99,2,1,2,55,5,48,52,2,46,68,24,139,262,51,91,22,97,37,72,32,26,41,16,13,5,30,60,19,55,62,27,3,55,20,27,6,99,65,29,18,2,144,4,14,18,139,48,9,120,6,163,35,41,43,11,56,68,11,55,39,261,13,16,60,88,17,71,14,1,2,38,9,1,9,16,4,5,16,101,18,4,17,8,22,11,12,5,68,4,5,12,12,37,23,94,11,6,94,20,61,92,1,10,74,14,6,60,40,7,29,3,1,49,45,11,27,50,36,29,20,81,28,14,7,24,1,2,39,2,22,60,1,5,28,36,14,9,7,17,42,45,18,22,151,69,51,5,16,94,14,57,16,12,13,5,7,58,41,33,29,73,1,64,16,18,1,127,43,19,21,157,48,1,141,40,2,4,16,140,42,24,42,115,2,27,1,44,7,33,54,31,84,84,22,143,2,3,30,4,22,4,1,1,138,6,15,15,124,2,33,193,32,53,1,9,86,1,300,12,21,99,1,5,16,91,45,5,21,50,3,6,106,18,36,92,35,18,6,37,110,178,129,2,7,38,21,3,12,99,1,51,27,16,1,2,75,22,78,89,1,9,12,17,9,5,4,32,10,4,7,70,8,11,1,27,2,1,2,14,16,71,1,1,2,3,1,1,1,1,1,1,2,2,1,1,2,1,3,1,2,1,35,90,121,175,6,6,24,10,27,31,2,53,52,72,1,66,1,1,7,1,1,13,1,2,2,2,2,1,7,19,8,5,11,6,5,1,1,2,1,8,3,1,3,6,1,4,3,5,1,8,5,5,4,1,2,1,1,3,5,2,11,1,5,10,2,6,1,1,6,1,2,3,1,1,7,7,3,7,8,1,1,1,1,3,3,2,4,2,3,1,19,2,5,2,6,3,1,1,2,1,1,3,5,1,9,1,7,1,1,5,5,2,3,1,9,6,2,4,2,2,3,4,3,3,4,7,4,10,290,95,39,52,30,88,36,33,92,158,2,27,25,41,54,51,109,88,424,13,11,537,178,296,47,115,144,27,580,229,3,78,38,28,2,11,291,1,46,1,199,2,405,181,438,194,73,38,24,127,18,14,2,20,1,80,41,7
+Zimbabwe	21,1,14,4,2,9,54,91,29,17,7,113,33,7,1,5,112,58,43,30,32,1,30,22,17,13,96,78,18,4,8,2,41,24,1,116,6,31,32,20,5,115,177,14,31,34,64,12,1,8,9,99,2,1,2,55,5,48,52,2,46,68,24,139,262,51,91,22,97,37,72,32,26,41,16,13,5,30,60,19,55,62,27,3,55,20,27,6,99,65,29,18,2,144,4,14,18,139,48,9,120,6,163,35,41,43,11,56,68,11,55,39,261,13,16,60,88,17,71,14,1,2,38,9,1,9,16,4,5,16,101,18,4,17,8,22,11,12,5,68,4,5,12,12,37,23,94,11,6,94,20,61,92,1,10,74,14,6,60,40,7,29,3,1,49,45,11,27,50,36,29,20,81,28,14,7,24,1,2,39,2,22,60,1,5,28,36,14,9,7,17,42,45,18,22,151,69,51,5,16,94,14,57,16,12,13,5,7,58,41,33,29,73,1,64,16,18,1,127,43,19,21,157,48,1,141,40,2,4,16,140,42,24,42,115,2,27,1,44,7,33,54,31,84,84,22,143,2,3,30,4,22,4,1,1,138,6,15,15,124,2,33,193,32,53,1,9,86,1,300,12,21,99,1,5,16,91,45,5,21,50,3,6,106,18,36,92,35,18,6,37,110,178,129,2,7,38,21,3,12,99,1,51,27,16,1,2,75,22,78,89,1,9,12,17,9,5,4,32,10,4,7,70,8,11,1,27,2,1,2,14,16,71,1,1,2,3,1,1,1,1,1,1,2,2,1,1,2,1,3,1,2,1,35,90,121,175,6,6,24,10,27,31,2,53,52,72,1,66,1,1,7,1,1,13,1,2,2,2,2,1,7,19,8,5,11,6,5,1,1,2,1,8,3,1,3,6,1,4,3,5,1,8,5,5,4,1,2,1,1,3,5,2,11,1,5,10,2,6,1,1,6,1,2,3,1,1,7,7,3,7,8,1,1,1,1,3,3,2,4,2,3,1,19,2,5,2,6,3,1,1,2,1,1,3,5,1,9,1,7,1,1,5,5,2,3,1,9,6,2,4,2,2,3,4,3,3,4,7,4,10,290,95,39,52,30,88,36,33,92,158,2,27,25,41,54,51,109,88,424,13,11,537,178,296,47,115,144,27,580,229,3,78,38,28,2,11,291,1,46,1,199,2,405,181,438,194,73,38,24,127,18,14,2,20,1,80,41,7,67,10,51
 Zimbabwe A Xalam Analytics Country Report	3185
 Zimbabwe AFR LMI	17743
 Zimbabwe AI	5733
@@ -1580,6 +1585,7 @@ Zimbabwe GDP	12487
 Zimbabwe GII	12487
 Zimbabwe Gender Commission. The Zimbabwe Electoral	970
 Zimbabwe Genetic	1154
+Zimbabwe Geological Survey	20054
 Zimbabwe Global Innovation Index	12487
 Zimbabwe Global Skills Partnership Programme	13685
 Zimbabwe Globally	21
@@ -1644,6 +1650,7 @@ Zimbabwe Media Commission Act	13316
 Zimbabwe Media Ltd	5733
 Zimbabwe Medical Association	10071
 Zimbabwe Metagenomics Study of The Diversity	1154
+Zimbabwe Mr Bramha Kumar	20054
 Zimbabwe Ms Elizabeth Masiyiwa	4896
 Zimbabwe Multi-donor Trust Fund	13523
 Zimbabwe NQI and Regulatory Sector	13320
@@ -1794,7 +1801,7 @@ Zimbabwe and China	10822
 Zimbabwe and Eswatini	13219,275
 Zimbabwe and Ethiopia	2518
 Zimbabwe and Ghana	7750
-Zimbabwe and India	13509
+Zimbabwe and India	13509,6545
 Zimbabwe and Kenya	5203
 Zimbabwe and Lesotho	6720
 Zimbabwe and Madagascar	6732
@@ -1867,7 +1874,7 @@ Zimbabwe's Smart Zimbabwe	13665
 Zimbabwe's Strategy	3385
 Zimbabwe's UN	13509
 Zimbabwe's VSAT	6085
-Zimbabwe's Vision	1554,3832,8005,6,249,57
+Zimbabwe's Vision	1554,3832,8005,6,249,57,6412
 Zimbabwe's Yieldera Is Transforming African	13407
 Zimbabwe's ZIPIT	6996
 Zimbabwe-	1726,299
@@ -1986,7 +1993,7 @@ Zimbabwe. Ziara	19590
 Zimbabwe. Zimbabwe	1248,4163,7076,833
 Zimbabwe. and ZWL	12490
 ZimbabweIsOpenForDigitalBusiness	13602
-Zimbabwean	21,1,14,15,311,33,20,147,174,17,187,18,7,5,2,182,69,25,306,65,198,55,5,641,142,451,74,92,55,264,164,629,2,34,24,79,368,129,140,238,8,322,94,20,252,6,100,40,22,316,83,243,87,550,236,98,266,337,12,367,74,7,33,54,199,170,61,334,193,494,21,800,309,7,225,646,1,5,1,5,2,9,3,349,431,15,6,3,1,56,9,6,16,27,5,4,50,1,49,8,2,9,38,2,30,7,7,10,17,12,3,7,480,15,29,3486
+Zimbabwean	21,1,14,15,311,33,20,147,174,17,187,18,7,5,2,182,69,25,306,65,198,55,5,641,142,451,74,92,55,264,164,629,2,34,24,79,368,129,140,238,8,322,94,20,252,6,100,40,22,316,83,243,87,550,236,98,266,337,12,367,74,7,33,54,199,170,61,334,193,494,21,800,309,7,225,646,1,5,1,5,2,9,3,349,431,15,6,3,1,56,9,6,16,27,5,4,50,1,49,8,2,9,38,2,30,7,7,10,17,12,3,7,480,15,29,3486,2349,89
 Zimbabwean AI	4528,7984
 Zimbabwean AI Grand Challenge	4528,7984
 Zimbabwean Border	736
@@ -2020,7 +2027,7 @@ Zimbabwean-led	6909
 Zimbabwean-owned	6909,6695
 Zimbabwean. From Bootcamp	9030
 ZimbabweanLivesMatter	12333
-Zimbabweans	21,204,715,18,12,221,624,441,1123,1149,858,25,45,271,6,372,100,1107,124,571,855,114,253,843,1584,837,8,11,783,25,61,20,20,17,8,58,5,35,13,93,21,4,10,599
+Zimbabweans	21,204,715,18,12,221,624,441,1123,1149,858,25,45,271,6,372,100,1107,124,571,855,114,253,843,1584,837,8,11,783,25,61,20,20,17,8,58,5,35,13,93,21,4,10,599,5859
 Zimbabweans Decisions	12490
 Zimbabweans Grow Increasingly Dissatisfied	12501
 Zimbabweans. Ambassador	13509
@@ -2149,6 +2156,7 @@ Zio Agoè-nyivé1	19350
 Zio LE PRESIDENT DE LA REPUBLIQUE	19209
 Zio. L’initiative	19317
 Zion Bi-Centenary Hall	18510
+Ziope	20182
 Ziora	9237
 Ziou Nahouri Centre-Sud	15715
 ZipIt	5222

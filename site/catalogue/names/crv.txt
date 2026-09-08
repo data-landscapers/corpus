@@ -60,6 +60,7 @@ CRVS Deeper	19615
 CRVS Electronic Civil Registration and Vital Statistics	16922
 CRVS Forms	12338
 CRVS INTEGRATION	17397
+CRVS Implementation	20221
 CRVS Integration Experiences Plenary Session	13220,6584
 CRVS Integration Experiences. Plenary Session	12761
 CRVS Inter-dependencies	13005
@@ -82,12 +83,14 @@ CRVS Steering Committee	12413,592
 CRVS Steering Group	14889
 CRVS Steering Group The CRVS Steering	14889
 CRVS Strategic Plan	12330,4,33
+CRVS Strategy	20221
 CRVS System	12138,81,148,638,2051,3418
+CRVS System Centralized	20221
 CRVS System Commitment and Good	13005
 CRVS System MINALOC	12413
 CRVS System Todate	19615
 CRVS System and Database No Weaknesses	13005
-CRVS Systems	1345,1,10792,6336
+CRVS Systems	1345,1,10792,6336,1747
 CRVS Systems Snapshot	441
 CRVS Systems for Africa	18474
 CRVS TC	12367
@@ -104,7 +107,7 @@ CRVS and EMIS	13681
 CRVS and Education	13681
 CRVS and Health	12219,1462
 CRVS and Health Given	13681
-CRVS and ID	13095,5376,3
+CRVS and ID	13095,5376,3,1747
 CRVS and ID Day	13095
 CRVS and ID Day Celebration	13080
 CRVS and ID Management	18449,22
@@ -117,8 +120,9 @@ CRVS and Legal Identity	12219
 CRVS and Legal Identity Specialist	12337
 CRVS and MOSIP	6985
 CRVS and Maisha Namba	6274
-CRVS and National ID	13005,1650
+CRVS and National ID	13005,1650,5566
 CRVS and National ID SDG Target Link	13005
+CRVS and National ID System	20221
 CRVS and Rwanda’s National Person Registry	977
 CRVS and Securing the Future of CRVS	9765
 CRVS-EIR	977
@@ -209,6 +213,7 @@ Indicator CRVS	15056
 Indicator CRVS RDHS	15056
 Institutional Mapping of Key Actors The CRVS	13005
 Integrate CRVS	12761
+Integrated CRVS-ID Ecosystem GICTA	20221
 Integrated CRVSID System	12337
 Integrated Digital ID and CRVS System	12241,839,15
 Integration Layer CRVS Database BID	13005
@@ -254,13 +259,14 @@ National CRVS Steering Committee	12338,2718
 National CRVS Steering and Technical Committees	12367
 National CRVS Strategic Plan	12413,2643
 National Centralized and Integrated CRVS	12413,2643,153
-National ID and CRVS	13005,90
+National ID and CRVS	13005,90,7126
 National Steering Committee for CRVS	14889
 Nouvelle Décennie CRVS	9637,1
 Open CRVS	6985
 Open CRVS. Uh	6985
 Open CRVS. Um	6985
 Opportunities and Challenges of CRVS	12151
+Overview of National ID and CRVS Systems	20221
 PURPOSE OF DEVELOPING SOPs FOR CRVS	12338
 Policy Misalignment Methodology CRVS Assessment Tool	13005
 Project Launch of NRB Strategic Plan and CRVS	13080
@@ -280,6 +286,7 @@ Strengthening Digital ID and CRVS Systems	13080
 Strengthening Digital ID and CRVS Systems Development	12241
 Strengthening NRB Operational Capacity for NID and CRVS	13080
 Structure of CRVS	19804
+Supporting CRVS	20221
 TANZANIA CRVS Decentralization	19615
 TAs NRIS Monthly CRVS	13005
 TH AFRICA CRVS DAY	18474

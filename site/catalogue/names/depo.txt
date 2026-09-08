@@ -105,7 +105,7 @@ Deporte Proporción	16898
 Deporte Tasa	16898
 Deporte. Ambos	16898
 Deported VHF	16552
-Deportes	1855,2354,2632,10321,151,32,64
+Deportes	1855,2354,2632,10321,151,32,64,2657
 Deportes Excma. Sra. Doña María Teresa	16920
 Deportes Excmo. Sr. Don Patricio Bacale	16920
 Deportes Ilmo. Sr. Don Andres Ondo	16920
@@ -249,7 +249,7 @@ Multiple Access CDSC Central Depository and Settlement	2775
 NAME OF DEPONENT	12374
 NDFIs Non Deposit Financial Institutions NDTFSPs	15023
 National Securities Depository Ltd	6692
-Nigeria Deposit Insurance Corporation	9571
+Nigeria Deposit Insurance Corporation	9571,10627
 Non Deposit Taking Financial	15023
 ODC Other Depository Corporations OFC	14777
 ODCs Other Depository Corporations Survey ODPP	2775

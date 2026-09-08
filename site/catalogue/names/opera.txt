@@ -884,6 +884,8 @@ I I Operational Frequency	736
 I. BASIC INFORMATION A. Basic Operation	18374
 I. COUNTRY CONTEXT AND OPERATION SUMMARY	18851
 IANA Functions Operator	3503
+IANA Numbering Services Operator	20187
+IANA RC Operating Procedures	20136
 ICANN’S Emergency Back-end Registry Operator	3502
 ICR DOCUMENT BASIC DATA Operation ID	15704
 ICR for IPF Operations	15511
@@ -1059,6 +1061,8 @@ Legal Operational Policies and Screening Risk Projects	12426
 Legal and Operational Structure	4896
 Legal and Operations	9889
 Lei. Secção II Operador Postal Público	18778
+Lending Operation	20221
+Lending Operation P173287	20221
 Lending Operations	14109
 Les Procedures Operationnelles Standardisees des CRRA	14662
 Liberia COC Standard Operating Procedures Liberia	16843
@@ -1078,6 +1082,7 @@ Local Transport Operators	17099
 Local Transport Operators Component	17099
 Local Transport Operators Raise	17114
 Long-Distance Service Operators	3862
+Luanda. Operators	20234
 Lungile Dlamini Director Operations Zithulele Gina	11131
 M P172891 Operation Education PforR	11469
 M. Mobile and Fixed Operators	1872
@@ -1310,6 +1315,7 @@ National Union of Economic Operators	15553
 National Union of Economic Operators of Congo	16275
 Nations Children's Fund An Operational Guide	13681
 Nature of Operations	13053
+Nawec's Chief Operating Officer for Electricity	20235
 Net Present Value O&M Operations and Maintenance	19239
 Nets System Project P145263 Operation Short	11924
 Network Convergence Operators	16811
@@ -1390,6 +1396,7 @@ O Operador de Serviço de Computação	6970
 O Operador de Serviços Essenciais	6970
 O Serviço de Operações Financeiras	15526
 O&M Operation	11380,6723
+O&M Operations and Maintenance	20223
 O&M Operations and Maintenance PASEL Projet	15969
 O1 DU SUIVI DES OPERATEURS PAR	15670
 OBJETIVOS OPERACIONAIS E RESULTADOS ESPERADOS	15535
@@ -1675,7 +1682,7 @@ Operates	294,53,1068,4800,725,11169,1692
 Operateur	10975,5554
 Operateur Lualaba Kolwezi Construction	15670
 Operateurs	15584
-Operating	34,715,805,434,787,28,4,4,372,227,93,359,540,353,141,253,173,365,313,155,1331,532,109,996,612,91,392,288,208,79,338,3,96,295,85,245,19,7,1,73,1,345,144,597,11,121,182,47,209,49,726,18,413,103,243,120,58,30,39,62,45,141,602,324,225,33,59,333,464,184,410,169,425,698,31,111,41,55,62,46
+Operating	34,715,805,434,787,28,4,4,372,227,93,359,540,353,141,253,173,365,313,155,1331,532,109,996,612,91,392,288,208,79,338,3,96,295,85,245,19,7,1,73,1,345,144,597,11,121,182,47,209,49,726,18,413,103,243,120,58,30,39,62,45,141,602,324,225,33,59,333,464,184,410,169,425,698,31,111,41,55,62,46,145
 Operating Account	13331
 Operating Activities	14736
 Operating Azimuth	736
@@ -1714,7 +1721,7 @@ Operating Plans	16839
 Operating Policies and Standards of Conduct	18596
 Operating Procedure IMCC Inter-Ministerial Committee	16843
 Operating Procedure SP-CNPS Permanent Secretariat	16384
-Operating Procedures	1988,1803,8450,2923,1689,1679
+Operating Procedures	1988,1803,8450,2923,1689,1679,1604
 Operating Procedures References	19616
 Operating Procedures TIN Taxpayer Identification Number	18577
 Operating Procedures. Mogadishu	11596
@@ -1734,7 +1741,7 @@ Operation Audio	34
 Operation Center	1000
 Operation Climate Change	11289
 Operation Climate Change. The Committee	11289
-Operation Closing	11395,3490,1074,31,446
+Operation Closing	11395,3490,1074,31,446,3763
 Operation Closing Date	4653
 Operation Come	899
 Operation Contender	8777
@@ -1762,6 +1769,7 @@ Operation ID P166564 Practice Area	10779
 Operation ID P172479	14038
 Operation ID P173373	14966
 Operation ID P176932	1175,2,1,1,1,1,1,82
+Operation ID P179154	20161
 Operation ID P179410 Financing Instrument Does	11905
 Operation ID P511453 Estimated Approval	16654
 Operation ID P511651 Estimated Appraisal Date	16675
@@ -1813,6 +1821,7 @@ Operation Vulindlela	2626,2234,673,389,2677,180,471,1968,46,8,668,46,87
 Operation Vulindlela Phase	9250
 Operation Vulindlela Phase II	3741,4859,3397
 Operation Vulindlela Phase II Q1	8779
+Operation Vulindlela and South Africa	20167
 Operation Vulindlela. When Operation Vulindlela	10058
 Operation Wealth Creation	19666,41
 Operation Wuambushu	19826
@@ -2041,7 +2050,7 @@ Operationalising AI	8982
 Operationalising the Approach	10726
 Operationalising the Humanitarian-Development Nexus	970
 Operationalising the Namibia Institute of Public Health	12421
-Operationalization	940,344,420,1301,856,6903,65,1031,3,863,3,258,73,271,181,486,967,588,526,133,712,87,244,5,243,1742,289
+Operationalization	940,344,420,1301,856,6903,65,1031,3,863,3,258,73,271,181,486,967,588,526,133,712,87,244,5,243,1742,289,692
 Operationalization and Lessons Learnt	5349
 Operationalization of Districts Emergency Command Centre	14935
 Operationalization of ICT Security Policy	19576
@@ -2079,7 +2088,7 @@ Operationalizing Data Free Flow	1243
 Operationalizing One Digital Health and FAIR Data	14666
 Operationalizing the Core Ethical Principles	16212
 Operationalizing the Wages and Compensation Commission	18500
-Operationally	4347,878,3058,1779,126,575,1237,297,2247,490,21,109,1703,35,64,269
+Operationally	4347,878,3058,1779,126,575,1237,297,2247,490,21,109,1703,35,64,269,2988
 Operationlisation	14010
 Operationnels	16005
 Operations	236,384,97,337,564,370,299,2014,476,756,260,86,1872,379,999,108,719,823,158,27,167,3,103,73,553,123,52,189,96,628,380,1,58,1051,62,256,60,249,96,178,1521,76,3,21,5,2,3,5,257,20,34,617,56,408,4,222,57,261,601,70,43,173
@@ -2180,6 +2189,7 @@ Operator BWA Data	2776
 Operator BWA Subscription Q3	2776
 Operator Bandwidth Capacity Inq. Digital Nigeria	3862
 Operator CAGR Compound Annual Growth Rate	3184,1,1340,6470
+Operator Central Bank National	20214
 Operator Compliance Accreditation System	10324
 Operator D5	17250
 Operator Destination Q4	15136
@@ -2223,7 +2233,7 @@ Operator-Operator Complaints	15670
 Operator-facing	11801
 Operator-level	14297
 Operator. Hence	3862
-Operators	718,18,1565,153,257,65,695,44,33,93,160,61,42,519,136,49,29,438,41,84,44,261,23,257,15,11,97,92,266,73,220,34,78,37,40,142,56,120,221,115,146,361,218,80,59,132,270,160,282,2,9,2,385,15,120,93,23,91,5,1,299,382,51,268,102,536,56,13,79,86,113,16,127,248,153,10,283,271,363,2,17,57,218,345,36,220,184,282,1,145,9,3,250,17,22,16,13,186,37,75,33,236,629,464,2,2,26,4,41,186,29,15,11,87,38,524,96,574,9,9,60,113,85,167,45,52,1,380,280,26,57,17,56,66,99
+Operators	718,18,1565,153,257,65,695,44,33,93,160,61,42,519,136,49,29,438,41,84,44,261,23,257,15,11,97,92,266,73,220,34,78,37,40,142,56,120,221,115,146,361,218,80,59,132,270,160,282,2,9,2,385,15,120,93,23,91,5,1,299,382,51,268,102,536,56,13,79,86,113,16,127,248,153,10,283,271,363,2,17,57,218,345,36,220,184,282,1,145,9,3,250,17,22,16,13,186,37,75,33,236,629,464,2,2,26,4,41,186,29,15,11,87,38,524,96,574,9,9,60,113,85,167,45,52,1,380,280,26,57,17,56,66,99,152,41
 Operators Are Expanding Beyond Connectivity Africa	6714
 Operators B1 and B	18450,91
 Operators Gross Mobilisation and Turnover Costing	16884
@@ -2948,6 +2958,7 @@ UNDP The Gambia’s Operations	16973
 UNHCR Operational Data Portal	12227,4353
 UNIC Operación Periodicidad Responsable EF Estadística	16898
 Under Ethio Telecom's Green Operator	9529
+Under the Operating Procedures	20136
 Unidade Operacional	11569,7198,5,2
 Unified Social Registry Standard Operating Procedures	14976
 Unified Telecommunications Operator	762

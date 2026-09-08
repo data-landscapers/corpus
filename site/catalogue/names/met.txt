@@ -22,7 +22,7 @@ ACH PRICING METHOD	16844
 ACTION POINT STATUS Met Prior Action	18488
 ADVANCING INNOVATIVE METHODS	14096
 AFRICAINE DE LA METEOROLOGIE ET	18143
-AI Readiness Assessment Methodology	4126,402,7984,1031,1,13,106,476
+AI Readiness Assessment Methodology	4126,402,7984,1031,1,13,106,476,6045
 AI-ASSISTED METHODOLOGY	5599
 ANACIM Head of Meteorological Information System Office	18309
 ANACIM's Meteorological Operations Department	18309
@@ -78,7 +78,7 @@ Agency’s Meteowiz	16947
 Agile Methodology	11216,725
 Agile Methodology. Available	11216
 Agile Methodology. Figure	11216
-Agricultural Development IHME Institute for Health Metrics	10759,78,1052,451,7598
+Agricultural Development IHME Institute for Health Metrics	10759,78,1052,451,7598,274
 Agricultural Workers Metal	16266
 Agriculture Evaluation Mettre	15583
 Agro Meteorologist	12972
@@ -276,7 +276,7 @@ DIFFERENT METRICS	1803
 DIRECTION DE L’ORGANISATION DES METHODES	16175
 DIV. COMMANDER METRO DIVISION	14760
 DRH du PRODESS Mettre	17845
-Danish Meteorological Institute	2714,7870
+Danish Meteorological Institute	2714,7870,9598
 Dar Metro Limited	19585
 Data Access Contacts Metadata	19613
 Data Catalogue and Metadata	15034
@@ -456,7 +456,8 @@ General Meteorology. Diploma	14738
 General Methodology Fig	15713
 Germany's National Metrology Institute	16232
 Ghana APPROACH AND METHODOLOGY	236
-Ghana Meteorological Agency	2714,5656,2214,5120
+Ghana Meteorological Agency	2714,5656,2214,5120,4478
+Ghana's AI Readiness Assessment Methodology	20182
 Ghana. Methods	19944
 Global Findex Survey Methodology	10714
 Global Methodology	17054
@@ -774,7 +775,7 @@ METHODOLOGY USED TO MEASURE NUTRITION OUTCOME	17127
 METHODOLOGY USED TO MEASURE WOMEN’S EMPOWERMENT	17127
 METHODOLOGY Vears	8605
 METHODOLOGY5	15085
-METHODS	1212,9640,7116
+METHODS	1212,9640,7116,2251
 METHODS AND APPROACHES DEVELOPING THE DRMS	17011
 METHODS AND DEFINITIONS	19099
 METHODS AND DEFINITIONS Estimates	18989
@@ -1129,7 +1130,7 @@ Methane Gas	12358,2589
 Methane Reduction and Climate Contribution	14818
 Methane Reduction and Climate Contribution Enteric	14818
 Methnani	8283
-Method	418,540,820,210,105,330,525,1484,702,895,857,174,218,198,283,262,1,108,998,1,108,1086,713,233,717,20,439,55,439,114,328,1434,8,204,345,473,62,346,59,524,114,61,88,81,39,890,447,331,17,81,548,169,43,229
+Method	418,540,820,210,105,330,525,1484,702,895,857,174,218,198,283,262,1,108,998,1,108,1086,713,233,717,20,439,55,439,114,328,1434,8,204,345,473,62,346,59,524,114,61,88,81,39,890,447,331,17,81,548,169,43,229,81
 Method API Application Program Interface ATNA	1009
 Method Any Traditional Method Any	18441
 Method Availability	10881
@@ -1176,7 +1177,7 @@ MethodologicalstudiesonXML-baseddatabasemodelling	8606
 Methodologie	14472
 Methodologies	15120,2020
 Methodologies for Calculating ICT Price Basket Indicators	15120
-Methodology	236,663,362,102,522,103,105,581,274,110,1072,229,73,7,89,35,1115,1,729,55,473,1,214,70,1,56,270,321,85,67,1,279,75,60,176,516,1,108,162,217,143,210,795,1,10,47,118,40,24,13,139,55,19,32,27,110,2,162,342,17,5,37,44,143,31,17,11,36,7,72,3,11,37,37,99,22,159,24,204,13,1,9,34,12,15,143,165,69,556,68,668,73,28,37,3,40,41,27,9,124,7,17,140,24,98,131,149,6,33,52,83,47,1,344,24,117,336,237,14,5,5,24,95,69,2,11,13,17,209,377,30,152,535,23,5,16,21,6,39,42,5,66,41,114,73,702,25,22,7,211
+Methodology	236,663,362,102,522,103,105,581,274,110,1072,229,73,7,89,35,1115,1,729,55,473,1,214,70,1,56,270,321,85,67,1,279,75,60,176,516,1,108,162,217,143,210,795,1,10,47,118,40,24,13,139,55,19,32,27,110,2,162,342,17,5,37,44,143,31,17,11,36,7,72,3,11,37,37,99,22,159,24,204,13,1,9,34,12,15,143,165,69,556,68,668,73,28,37,3,40,41,27,9,124,7,17,140,24,98,131,149,6,33,52,83,47,1,344,24,117,336,237,14,5,5,24,95,69,2,11,13,17,209,377,30,152,535,23,5,16,21,6,39,42,5,66,41,114,73,702,25,22,7,211,308
 Methodology AHACI	12318
 Methodology ANNEX	11156
 Methodology Bank	14897
@@ -1219,7 +1220,7 @@ Methodology QoS	5744
 Methodology Research Questions	12328
 Methodology Responsibility for Data Collection	15411
 Methodology Results and Demographics	12214
-Methodology Review	11905
+Methodology Review	11905,8282
 Methodology Roundtable	1200
 Methodology Scope	10764
 Methodology Street	19654
@@ -1462,7 +1463,7 @@ Mettelsat URL	15382
 Mettent	1187
 Mettez	743,6363,177,6077,15
 Mettez-les	747
-Mettre	643,104,251,7,182,31,97,123,264,194,143,526,831,610,20,81,209,905,257,1790,652,57,579,122,213,650,1285,32,16,1,1,30,8,51,1,966,111,1247,11,5,23,12,49,123,122,42,104,429,213,56,4,5,1,1,47,2,3,120,630,65,115,2,19,7,12,30,13,13,1,6,8,41,15,4,27,3,39,8,2,16,61,49,6,31,23,26,2,2,61,13,14,11,157,51,83,42,249,2,25,24,4,332,77,240,1,124,14,72,289,1,11,1,8,1,8,7,5,1,6,1,6,3,3,9,7,1,11,5,27,28,5,5,138,1,44,3,35,87,6,5,4,13,76,572,21,18,144,56,15,5,6,128,1,1,12,12,115,144,42
+Mettre	643,104,251,7,182,31,97,123,264,194,143,526,831,610,20,81,209,905,257,1790,652,57,579,122,213,650,1285,32,16,1,1,30,8,51,1,966,111,1247,11,5,23,12,49,123,122,42,104,429,213,56,4,5,1,1,47,2,3,120,630,65,115,2,19,7,12,30,13,13,1,6,8,41,15,4,27,3,39,8,2,16,61,49,6,31,23,26,2,2,61,13,14,11,157,51,83,42,249,2,25,24,4,332,77,240,1,124,14,72,289,1,11,1,8,1,8,7,5,1,6,1,6,3,3,9,7,1,11,5,27,28,5,5,138,1,44,3,35,87,6,5,4,13,76,572,21,18,144,56,15,5,6,128,1,1,12,12,115,144,42,406
 Mettus	6107
 Mettus.Johannesburg	6107
 Metuge Emade Cyrille Valence Ngouana Kengne	15601
@@ -1943,7 +1944,7 @@ Standardized Impact Metrics	12191
 Startupbootcamp for Meta	10133
 State-Level MPI Metrics	15244
 State. Method	16836
-Statistical Data and Metadata	12499,2278,1961,801,865,917
+Statistical Data and Metadata	12499,2278,1961,801,865,917,740
 Statistical Data and Metadata Exchange	9207,1737,768,1445
 Statistical Methodology	19555
 Statistical Methods	11237,5690,358
@@ -2091,6 +2092,7 @@ World Meteorologic	12972
 World Meteorological Centres	15916
 World Meteorological Day	16317
 World Meteorological Organisation	12889,53,423,1044,329
+World Meteorological Organisation's Regional Association	20182
 World Meteorological Organisations’ State	1814
 World Meteorological Organization	9766,1787,1365,283,566,336,345,23,261,217,6,241,941,102,78,54,576,118,92,805,616,95,4,192,793
 World Meteorological Organization Information System	11553,5394

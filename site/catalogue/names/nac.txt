@@ -93,7 +93,7 @@ Arquivo Nacional de Identificação Civil	7466,1805,6756
 Arquivo Nacional de Identiicação Civil	15572
 Arquivo de Identificação Direcção Nacional	10750
 Assembleia Nacio	18764,36
-Assembleia Nacional	14,1,152,372,10,643,2327,556,661,536,195,324,195,2,294,427,138,233,38,1191,210,639,1,640,948,2,3,3,1,30,286,286,1,4,1,1,2,6,3,8,4,1,20,6,10,11,7,18,1,107,2743,1032,15,26,11,54,27,32,45,468,67,287,111,2262,2,4,3,3,3,22,10,2,2,53,116
+Assembleia Nacional	14,1,152,372,10,643,2327,556,661,536,195,324,195,2,294,427,138,233,38,1191,210,639,1,640,948,2,3,3,1,30,286,286,1,4,1,1,2,6,3,8,4,1,20,6,10,11,7,18,1,107,2743,1032,15,26,11,54,27,32,45,468,67,287,111,2262,2,4,3,3,3,22,10,2,2,53,116,1088
 Assembleia Nacional Lei	539,10826
 Assembleia Nacional Popu	11518
 Assembleia Nacional Popular	11513,5,10,3,6,6,18,1,7,3775
@@ -373,6 +373,7 @@ Comisión Nacional de Coordinación	4209,12689
 Comisión Nacional de Fronteras	4209
 Comisión Nacional de Lucha Contra la Corrupción	4209
 Comisión Nacional de Negociación	8554
+Comisión Nacional de Prevención	20095
 Comisión Nacional de Seguimiento de Coyuntura Macroeconómica	4209
 Comisión Técnica Nacional de Fronteras	16875
 Comisión Vigilancia Pacto Nacional	4209
@@ -458,7 +459,7 @@ Consejo Nacional	1701,2508
 Consejo Nacional Fiscalía Defensor	4209
 Consejo Nacional de Aguas	1701
 Consejo Nacional de Desarrollo Sostenible	1701,15192
-Consejo Nacional de Estadística	10487,3728,2683
+Consejo Nacional de Estadística	10487,3728,2683,3168
 Consejo Nacional de Estadística. Con	14215
 Consejo Nacional de Medio Ambiente	1701
 Consejo Nacional de Planificación	1701,15192
@@ -592,7 +593,7 @@ Directora Nacional de Gestão da Dívida Pública	12220
 Directora Nacional de Saúde Pública	11459
 Directores Nacionais	11361
 Direcão Nacional da Indústria	15983
-Direcção Nacional	10750,2,1,15,10,602,776,619,87
+Direcção Nacional	10750,2,1,15,10,602,776,619,87,7275
 Direcção Nacional Assinatura de Contrato	10753
 Direcção Nacional CIVIL E CRIMINAL	10753
 Direcção Nacional Em	10752
@@ -1024,7 +1025,7 @@ Instituto Nacional de Estatística. Nove	18856
 Instituto Nacional de Estatística. O GEPE	10766
 Instituto Nacional de Estatísticas	11537,1325,5898,3,18,12,8
 Instituto Nacional de Estatísticas de Cabo Verde IOSCO	17032
-Instituto Nacional de Estudos	11516,53
+Instituto Nacional de Estudos	11516,53,8505
 Instituto Nacional de Fomento da Informação	11389
 Instituto Nacional de Fomento da Sociedade da Informação	11317,54,11
 Instituto Nacional de Fomento da Sociedade de Informação	1192,4762,25,702,4091
@@ -1209,6 +1210,7 @@ Média ESTRATÉGIA NACIONAL DE IA Aprovação	18796
 Múltiples Nacional	4209
 Múltiples Nacional Aeropuertos de Malabo	4209
 NAC Okays Framework To Build Nigeria	11126
+NAC Review Required	20170
 NACANABO	5304,10748
 NACCA	4126
 NACCUG	17104
@@ -1301,7 +1303,7 @@ Nacionais	2816,7967,791,5709
 Nacionais Adjuntos	15526
 Nacionais Internacionais	11358
 Nacionais de Pagamentos	15532
-Nacional	2434,1775,1610,643,433,350,3505,3,13,17,731,13,42,2,549,81,640,4014,9,11,23,67,135,47,19,1596,2,3,11,75,43
+Nacional	2434,1775,1610,643,433,350,3505,3,13,17,731,13,42,2,549,81,640,4014,9,11,23,67,135,47,19,1596,2,3,11,75,43,1241
 Nacional Adjunto Grupo B Delegado Grupo	4209
 Nacional Adolfo Edjang Nsok Nsomo	4209
 Nacional Cada	18762
@@ -1895,9 +1897,11 @@ Sistema Educativo Nacional	11557,5363,1845
 Sistema Educativo Nacional RGPH Recenseamento Geral	11557
 Sistema Educativo Nacional. Sexo. Es	16962
 Sistema Eléctrico Nacional	18895
-Sistema Estadístico Nacional	1701,2508,10006,2683,361,90
+Sistema Estadístico Nacional	1701,2508,10006,2683,361,90,2717
 Sistema Estadístico Nacional CPE	16898
+Sistema Estadístico Nacional Por Catalina Obono	20066
 Sistema Estadístico Nacional de Guinea Ecuatorial	16898
+Sistema Estadístico Nacional. El Instituto Nacional	20066
 Sistema Estadístico Nacional. En	17259
 Sistema Estadístico Nacional. Texto	17408
 Sistema Estatística Nacional	18794

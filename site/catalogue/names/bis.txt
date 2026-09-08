@@ -83,7 +83,7 @@ Bisheck Simpokolo Deputy Head	13392
 Bisher	615
 Bishi	7759
 Bishikirijwe	13303
-Bishoftu	12257,1762,137
+Bishoftu	12257,1762,137,5920
 Bishoftu Oromia Region Visit Site Adama	12211
 Bishop	9547,1711
 Bishop Abba	2685,2,359,86,176,15,119,65,590,447,96,374,93,240,768,696,438
@@ -120,7 +120,7 @@ Bispo Cx. Postal	11415,13
 Bispo da Diocese de Viana	11429
 Bisrat	12379
 Bissaq.GuinêBissau. Contados	11544
-Bissau	1541,684,446,282,553,1478,367,2101,621,671,579,2191,4,5,1,1,1,4,2,3,1,1,6,1,1,2,2,1,2,1,4,3,1,1,4,3,6,4,2,5,3890,1157,368,4,2,1,1,6,24,3,20,12,21,7,27,18,17,45,1,10,25,33,3,27,4,14,7,27,1,8,708
+Bissau	1541,684,446,282,553,1478,367,2101,621,671,579,2191,4,5,1,1,1,4,2,3,1,1,6,1,1,2,2,1,2,1,4,3,1,1,4,3,6,4,2,5,3890,1157,368,4,2,1,1,6,24,3,20,12,21,7,27,18,17,45,1,10,25,33,3,27,4,14,7,27,1,8,708,1997,112
 Bissau Airport	11553
 Bissau Bissau	17082
 Bissau Bissau Private	11552
@@ -169,6 +169,7 @@ Bissilão	17100
 Bissindji	15692
 Bissongo	15379
 Bissorã	11552
+Bissá	20186
 Bisumwa Special Unit	19585
 Bisunu Dispensary Data Controller INST-231659A8759 BUNGOMA	7167
 Bisvigou	766
@@ -267,7 +268,7 @@ Guinea Bissau. Support	11586
 Guinea Bissauan	11579
 Guinea Bissauans	11579
 Guinea Bissau’s Digital Sector	11545
-Guinea and Guinea Bissau	16966
+Guinea and Guinea Bissau	16966,3257
 Guinea- Bissau	11525
 Guinea- Bissau Public Policy	11560
 Guinea- Bissau and Mauritania	16144

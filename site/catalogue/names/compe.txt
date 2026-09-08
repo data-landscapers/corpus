@@ -107,7 +107,7 @@ COMPETITION COMMISSION	13461,1
 COMPETITION National Broadband Strategy	16884
 COMPETITION POLICY This Policy	14879
 COMPETITION PROVISIONS	15149
-COMPETITIVE COSTS	12399
+COMPETITIVE COSTS	12399,7824
 COMPETITIVE COSTS TO ENSURE HEALTH FACILITIES	15977
 COMPETITIVE COSTS The Government of Lesotho	12680
 COMPETITIVENESS	10901
@@ -229,7 +229,7 @@ Competency Framework for AI Literacy	6948
 Competency and Skills Based Education. The Executive	13477
 Competency-Based Assessment	13477
 Competency-Based Curriculum	899,5673,5740,663,502
-Competency-Based Education	12084,891,502,5602
+Competency-Based Education	12084,891,502,5602,1023
 Competency-based	18765
 Competency-based Education	12914
 Competency-based Education and Training	12914
@@ -265,7 +265,7 @@ Competing Interests	7836,9944
 Competing Paradigms	5349
 Competing Regulatory Frameworks	17745
 Competition	961,282,575,459,658,1215,433,149,240,61,91,76,12,29,3,628,284,265,248,277,310,215,77,183,380,1038,194,168,526,53,465,163,126,291,19,42,328,1,332,137,205,57,120,13,146,122,17,238,139,117,176,117,1,86,403,34,424,314,6,16,135,67,425,39,13,23,13,13,33,1366,70,33,21,15,418,433,8,253,631,133,647,117,306
-Competition Act	1638,2076,2158,1049,924,3397,66,1881,272,1,960,397,9,3,2008,389
+Competition Act	1638,2076,2158,1049,924,3397,66,1881,272,1,960,397,9,3,2008,389,2996
 Competition Act No.89	13462
 Competition Assessment Framework for Communications Sector	12918
 Competition Authorities	12389
@@ -275,13 +275,14 @@ Competition Authority of Kenya	5923,1015,3375,509
 Competition Authority of Kenya Commission	12210
 Competition Chronicle	961
 Competition Commis-	5872
-Competition Commission	544,2720,450,869,442,699,148,1014,295,1091,126,37,166,67,515,1157,855,40,7,1,1653,371,194,943,319,96,28,1992
+Competition Commission	544,2720,450,869,442,699,148,1014,295,1091,126,37,166,67,515,1157,855,40,7,1,1653,371,194,943,319,96,28,1992,3365
 Competition Commission Act	19602
 Competition Commission of South	13462
-Competition Commission of South Africa	4730,5177
+Competition Commission of South Africa	4730,5177,10148
 Competition Commission of South Africa95	4732
 Competition Commission's Media and Digital Platforms Market	13267
 Competition Commission's Remedial Actions	13462
+Competition Commission. Statistics South Africa	20204
 Competition Commission’s Data Services Market Inquiry	8668
 Competition Commission’s Media and Digital Platforms Market	11308
 Competition Competitiveness Consumers Customs Economy	9067
@@ -303,8 +304,8 @@ Competition Policy	14879,762,4325
 Competition Regulation	15120
 Competition Regulation Acknowledging	15120
 Competition Regulation Over	15120
-Competition Regulations	10759,76,2,1,74,56,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
-Competition Regulations Access	10759,78,1315,188,7598
+Competition Regulations	10759,76,2,1,74,56,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
+Competition Regulations Access	10759,78,1315,188,7598,274
 Competition Regulations No Change Freedom of Expression	11870
 Competition Regulatory Authority	7381,3398
 Competition Ring Competition	14897
@@ -342,7 +343,7 @@ Competition and Market Structure	17260
 Competition and Markets Authority	3942
 Competition and Regulation	13314,2160,19
 Competition-authority	1615
-Competitive	961,857,3429,2504,1378,1028,974,7,1037,183,41,512,401,2,1085,548,50,1191,670,28,80,30,264,2417
+Competitive	961,857,3429,2504,1378,1028,974,7,1037,183,41,512,401,2,1085,548,50,1191,670,28,80,30,264,2417,546
 Competitive Advantage	12356
 Competitive Advantage Industrial	3796,1205
 Competitive Bidding IL Investment Loan ISM	17441
@@ -584,7 +585,7 @@ GBV Gender-based Violence GCI Global Competitiveness	18931
 GLOSSARY Competency	12914
 GOVERNANCE NOT ALWAYS COMPETENCE National AI	9106
 GROWTH AND INCREASING COMPETITIVENESS Institutions	14004
-Gambia Competition and Consumer Protection Commission	16926,187
+Gambia Competition and Consumer Protection Commission	16926,187,3111
 Gambia Competition and Consumer Protection Commission GCF	17105
 Gambia. Competition	16876
 Gastos de Organización de Competiciones Deportivas	4209
@@ -623,11 +624,12 @@ ICB International Competitive Bidding IMF International	15659
 ICPC Competition Law Code of Conduct	3513
 ICT Competency Framework for Teachers	899,18666,242
 ICT Competency Framework for Teachers. Retrieved	899
+ICT Competency Standards for Teachers	20119,89
 ICT International Competitive Selection IDA Information	11855
 ICT Market Competition	19214
 ICT Projects Implementation and Development Competency	16885
 II. SUR LA COMPETENCE	16247
-IMD World Competitiveness Ranking	15518
+IMD World Competitiveness Ranking	15518,4649
 IMPORTANCE DES COMPETENCES NUMERIQUES	15493
 IMPROVE THE COMPETITIVENESS OF LOCAL	19712
 INDUSTRY AND COMPETITION NO	11242
@@ -651,6 +653,7 @@ Increase Competition	19214
 Increase Competition Activity	19214
 Increased Competition	19214,65
 Increased Competitiveness	14997
+Industrial Injuries Compensation Fund and National Provident	20221
 Industry and Competition	1009,606,2627,391,1232,967,1186,26,1676,215,1263,17,9,6,5,15,13,31,2167,4117
 Industry and Competition CARA Criminal Assets Recovery	11986
 Industry and Competition DSM	6832
@@ -686,6 +689,7 @@ LTA. PART VII COMPETITION POLICY	16835
 Lagos. Competitive	6955
 Land Compensation	17105
 Land Compensation and D77	17105
+Lands Acquisition and Compensation Act	20226
 Lands Compensation Fund	13420
 Launches Support for National Quizzing Competition	17106,81,79
 Launches Support for National Quizzing Competition LTA	17187
@@ -798,6 +802,7 @@ Programa de Competências Digitais	11463
 Programmes Compendiums	10847
 Promote Competition	11995
 Promote Fair and Effective Competition Ensuring	17212
+Promoting Competition	20224
 Promotion of Competition and Investment	16884
 Proposals SVC Static Voltage Compensator TA	15659
 Protection Against Unfair Competition Act	19957
@@ -809,6 +814,7 @@ Publique-se. Competência O Presidente da República	15450
 Públicos Competentes	16855
 Qualifications and Competencies	17394
 R46751 COMPETITION COMMISSION	13461
+RCM Revenue Compensation Mechanism	20223
 REGULATION BY THE COMPETENT AUTHORITIES	18925
 REGULATION BY THE COMPETENT AUTHORITIES Regulation	18925
 REQUISES PAR LES AUTORITES COMPETENTES	16617
@@ -913,6 +919,7 @@ TR Treasury Regulations WCF Workman’s Compensation	11198
 TRADE TAXATION DISPUTE RESOLUTION MARKET COMPETITION	12389
 TRANSFERER DES COMPETENCES AUX COLLECTIVITÉS TERRITORIALES	18096
 TSMP II Fair Competition Commission	19519
+Tanzania ICTs Competence Standard for Teachers	20208
 Teacher Competency Framework	12175
 Teacher ICT Competency17 Competency TSC CEMASTEA	899
 Teachers Competency Assessment	17096
@@ -931,7 +938,7 @@ Trade and Competitiveness Global Practice	15411
 Training Educators for Digital Competence	11927
 Tribunais. Compete	18796
 UNCTAD Acknowledgements Acknowledgements This Compendium	16631
-UNESCO ICT Competency Framework for Teachers	899,5933,10131
+UNESCO ICT Competency Framework for Teachers	899,5933,10131,3245
 UNESCO ICT Competency Framework for Teachers. Paris	899
 USA. Is the EU Winning the Competition	11154
 USD Open Competition	17180
@@ -971,6 +978,7 @@ Works Open Competition National Market	17180
 World Bank Group Finance Competitiveness and Innovation	17870
 World Bank’s Finance Competitiveness and Innovation	17870
 World Customs Organization’s Single Window Compendium	13042
+World Digital Competitiveness Report	20167
 World Economic Forum Global Competitiveness Index	15447,33
 World Economic Forum Global Competitiveness Report	15411
 Worlds Skills Competition	12975

@@ -56,8 +56,8 @@ County Male Female LRD USD LRD	16878
 Crude Oil USD	17235
 Crédito Adicional Suplementar USD	3606
 Currency USD	3676
-Current USD	10759,76,2,1,74,56,902,16,1,2,265,186,1,11,1,135,7334,14,23,65
-Current USD Central Government Debt	10837,1052,265,186,1,7495
+Current USD	10759,76,2,1,74,56,902,16,1,2,265,186,1,11,1,135,7334,14,23,65,288
+Current USD Central Government Debt	10837,1052,265,186,1,7495,376
 Current USD GDP	10835,3,130,902,16,466,1,135,7334
 Current USD. Central Government Debt	11887
 DEG USD	618,195,1323
@@ -336,6 +336,7 @@ USD Orientations	18988
 USD PASSE	15673
 USD PPP	11563,3557,351
 USD PROJECT STAGE	16854
+USD Payment Token	20157
 USD Per	12515
 USD Per Kg	12515
 USD Per Litre	12515
@@ -360,6 +361,7 @@ USD The Total Entrepreneurship Activity	14897
 USD The VWAP	4896
 USD Transactions	4517,2461
 USD URL	19164
+USD US Dollar	20223
 USD USD	18581
 USD USDA McGovern-Dole	15673
 USD United States Dollar	8590,3738

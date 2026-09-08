@@ -355,6 +355,7 @@ Action The Secretariat	7039
 Action The World Bank	12245
 Action Théorique SAMU	15475
 Action Timeline	12761
+Action To African Governments	20163
 Action To Government	17139
 Action Trust ACDO Assistant Community Development	12970
 Action Type Revised	19284
@@ -472,7 +473,7 @@ Actionnaires	16613,1300
 Actionnariat	2342,13052,549,352
 Actionnariat Populaire	18227
 Actionnariat du Titulaire L'intégralité	15943
-Actions	789,211,218,220,27,312,37,14,160,1001,362,45,465,266,79,361,2379,13,2447,366,1086,16,91,951,111,206,123,33,2,8,276,26,605,14,5,6,131,51,206,6,61,424,269,143,101,274,22,404,89,30,11,15,27,66,17,42,18,110,60,16,12,41,60,151,453,235,9,17,49,15,148,43,128,200,342,9,6,2,1,11,25,65,37,49,64,9,10,7,164,11,234,25,239,496,234,114,347,18
+Actions	789,211,218,220,27,312,37,14,160,1001,362,45,465,266,79,361,2379,13,2447,366,1086,16,91,951,111,206,123,33,2,8,276,26,605,14,5,6,131,51,206,6,61,424,269,143,101,274,22,404,89,30,11,15,27,66,17,42,18,110,60,16,12,41,60,151,453,235,9,17,49,15,148,43,128,200,342,9,6,2,1,11,25,65,37,49,64,9,10,7,164,11,234,25,239,496,234,114,347,18,219
 Actions A. Climate Vulnerability and Risks	15553
 Actions ANALYSIS ACTIONS INDICATORS	19245
 Actions API-Mali Actions API-Mali Facilitation	18013
@@ -496,6 +497,7 @@ Actions Local NGOs	17157
 Actions National	3604,14379
 Actions National. Le Secrétariat Technique	17983
 Actions Nationaux	15712
+Actions Needed	20223
 Actions Opérationnel	17827
 Actions Paysannes GBON	18309
 Actions Pluriannuel Budgétisé	13349
@@ -753,7 +755,7 @@ Community Action Network Africa	7167
 Community Action for Social Protection PforR	11469
 Community Health Action Plans	19974
 Comoros National Action Programme of Adaptation	13813
-Compact Targets and Action Plan	12399,281,6997
+Compact Targets and Action Plan	12399,281,6997,546
 Compact Targets and Action Plan THE RESULTS	15977
 Compact Targets and Action Plan Targeted	12563
 Compact Targets and Action Plan This Energy	18795,882
@@ -1071,7 +1073,7 @@ Ghana’s Fourth OGP National Action Plan	19937
 Girl Power Action Initiative	12297
 GitHub Action	12478
 GitHub Actions	11922,2729,3251,2075
-Glob Health Action	3791,8440
+Glob Health Action	3791,8440,7988
 Global Action	783,15225,1322
 Global Action Plan	10776
 Global Action Plan Monitoring Framework	10776
@@ -1379,6 +1381,7 @@ Municipalization of Social Action	10775
 N ACTION	17901
 NA OS2.2 Action	10858
 NA OS3.4 Action	10858
+NAMA Nationally Appropriate Mitigation Action	20223
 NAPHS National Action Plan for Health Security	17289,2255
 NATIONAL ACTION PLAN OF SENEGAL	18305
 NATIONAL COMMISSION FOR SOCIAL ACTION	18512
@@ -1438,7 +1441,7 @@ National Child Protection Strategy and Action Plan	17228
 National Commission for Social Action	18437,9,66,30,10,21,11
 National Commission for Social Action Act	18437,9
 National Cybersecurity Strategy Formulation and Action Plan	1000
-National Cybersecurity Strategy and Action Plan	1000,16028
+National Cybersecurity Strategy and Action Plan	1000,16028,3196
 National Cybersecurity Strategy and Action Plan D	17070
 National Development Plan and Programme of Action. UMSEBE	13123
 National Digital Skills Action Plan	3372,1
@@ -1448,7 +1451,7 @@ National Drought Management Strategy and Action Plan	17157
 National Durable Solutions Action Plan	15224
 National Electrification Action Plan	12563,7114
 National Emergency and Humanitarian Action Program	11900
-National Employment Action Plan	16861
+National Employment Action Plan	16861,3369
 National Energy Efficiency Action Plan79	3604
 National Foundation Models Development Code Action	15713
 National Gender Action Plan	18889
@@ -1665,6 +1668,7 @@ Planned Enforcement Actions for Data Controllers	3003
 Plateau Central Action	16026
 Platform for Action	11193
 Platform for Action. Governments	11193
+Platform for Employment Networking Dialogue and Action	20230
 Platforms Governance Action Plan Objective	17018
 Policy Action	14947
 Policy Actions	958,13989

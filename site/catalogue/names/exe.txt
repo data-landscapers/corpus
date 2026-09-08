@@ -46,7 +46,7 @@ Acronyms VII Executive Summary IX Chapter	14033
 Act MINMEC Minister and Members of Executive Council	11261
 Act No. District Executive Director	19525
 Acting Chief Executive	13218
-Acting Chief Executive Officer	2735,6131,275,546,305,1206,5081
+Acting Chief Executive Officer	2735,6131,275,546,305,1206,5081,3792,31
 Acting Chief Executive Officer Eng. Alex	13488
 Acting County Secretary and County Executive Committee	7990
 Acting ESCCOM Chief Executive Officer Fikile	8136
@@ -244,7 +244,7 @@ Chief Audit Executive CARA Criminal Assets	11218
 Chief Economist and Executive Director	15023
 Chief Executive	11,1198,3687,2949,548,140,285,2311,192,1304,21,252,71,838,1,140,880,15,37,1960,1400,648,21,719,23,61
 Chief Executive EDPA GUIDELINES NO	13004
-Chief Executive Officer	585,2,149,395,202,689,489,176,330,203,318,176,6,41,126,376,94,306,233,435,28,90,89,126,48,405,511,146,164,8,127,22,19,93,18,173,46,108,42,12,8,49,122,10,45,253,49,80,34,152,11,58,150,32,207,72,103,41,20,160,182,510,91,53,52,99,269,52,92,143,248,73,5,1,2,64,23,19,40,468,28,200,20,50,199,54,16,43,80,97,97,19,249,148,9,65,3,60,76,14,30,66,16,16,181,232,136,51,7,141,62,12,162,8,27,27,15,29,30,52,33,53,37,2,34,2,7,10,71,38,18,139,243,222,634,13,791,148,300,9,377,710,34,94,14,140,120,18,2,5,54,32,96,25,54,19,41,299,13,8
+Chief Executive Officer	585,2,149,395,202,689,489,176,330,203,318,176,6,41,126,376,94,306,233,435,28,90,89,126,48,405,511,146,164,8,127,22,19,93,18,173,46,108,42,12,8,49,122,10,45,253,49,80,34,152,11,58,150,32,207,72,103,41,20,160,182,510,91,53,52,99,269,52,92,143,248,73,5,1,2,64,23,19,40,468,28,200,20,50,199,54,16,43,80,97,97,19,249,148,9,65,3,60,76,14,30,66,16,16,181,232,136,51,7,141,62,12,162,8,27,27,15,29,30,52,33,53,37,2,34,2,7,10,71,38,18,139,243,222,634,13,791,148,300,9,377,710,34,94,14,140,120,18,2,5,54,32,96,25,54,19,41,299,13,8,590,6,16,6,33
 Chief Executive Officer Antoine Sebera	6388
 Chief Executive Officer Ato Kinfe Negash	12195
 Chief Executive Officer Aurélie Milledrogues	19616
@@ -333,6 +333,7 @@ Chief Executive Officer of NERD	18206
 Chief Executive Officer of NGIC	5277
 Chief Executive Officer of NIBSS	2841
 Chief Executive Officer of NPPA	18562
+Chief Executive Officer of NSIPA	20176
 Chief Executive Officer of Nairtime Nigeria Limited	8663
 Chief Executive Officer of Nairtime Nigeria and Chief	8587
 Chief Executive Officer of Nestlé	11221
@@ -341,6 +342,7 @@ Chief Executive Officer of Ooredoo Algeria	5391
 Chief Executive Officer of Ooredoo Tunisia	19446
 Chief Executive Officer of Open Access Data	11168
 Chief Executive Officer of PAPSS	6401,2041
+Chief Executive Officer of PPL Net	20072
 Chief Executive Officer of Proparco Digital Africa	3036
 Chief Executive Officer of Protean International DMCC	14081
 Chief Executive Officer of Publica AI	4626
@@ -359,6 +361,7 @@ Chief Executive Officer of Sonatel Group and Chairman	4114
 Chief Executive Officer of Standard Bank Eswatini	11131,3
 Chief Executive Officer of Statistics Botswana	12530
 Chief Executive Officer of Sybrin	10193
+Chief Executive Officer of Tanzania-based AI	20085
 Chief Executive Officer of Technology Service Providers	6946
 Chief Executive Officer of Telecom Namibia	13183
 Chief Executive Officer of Trident	2698
@@ -389,7 +392,7 @@ Chief Executive of SNPT	5407,676
 Chief Executive of Société Générale Chad	18909
 Chief Executive of Stanbic Bank Ghana	8928
 Chief Executive's Statement	19651
-Chief Executives	14746,1520,3535
+Chief Executives	14746,1520,3535,381
 Chief Executives of Local Authorities	14738
 Chief Justice.11 LACC’s Executive Chairperson	17037
 Chief of Protocol of Executive Mansion and Hon. Edward	16970
@@ -504,7 +507,7 @@ Deputy Executive Directorand FinancialDirector	16833
 Deputy Executive Directors	16841,2871
 Deputy Executive Secretaries	9761,4648
 Deputy Executive Secretaries of SADC	9761
-Deputy Executive Secretary	1032,5115,12445
+Deputy Executive Secretary	1032,5115,12445,1564
 Deputy Executive Secretary- EASTECO	18705
 Deputy Governors and Executive Leadership	11289
 Despesas Correntes de Exercícios Anteriores	18798,55
@@ -715,7 +718,7 @@ EXENNA U R N A L	15608
 EXERCICE	3396,7579,8310
 EXERCICE SOCIAL L’exercice	19260
 EXERCICES	3396
-EXERCISE	22,12553,49,380,31,381,82,963,138,2644,6,1,2484
+EXERCISE	22,12553,49,380,31,381,82,963,138,2644,6,1,2484,317
 EXERCISE PREAMBLE WHEREAS the Eswatini Constitution	13004
 Econet Group Chief Executive Officer Douglas	5827
 Economic Execution	7909
@@ -821,7 +824,7 @@ Executive Authority	2662,2871,5665,32,20,736
 Executive Authority Signature OFFICIAL SIGN OFF	5533
 Executive Authority of Mauritius	14742
 Executive AuthoritySignature Adv Constance Moitse	11986
-Executive Board	1830,5865,3661,1373,219,793,127,909,252,10,2,711,1457,48,69,13,25,139,406,61,20,498,335,64,834,26
+Executive Board	1830,5865,3661,1373,219,793,127,909,252,10,2,711,1457,48,69,13,25,139,406,61,20,498,335,64,834,26,464
 Executive Board Approval	17257
 Executive Board Assessment	17503
 Executive Board Member and Head of Financial Services	9796
@@ -865,7 +868,7 @@ Executive Committee and Middle Management	11131
 Executive Committee. Article	15027
 Executive Committee. Smart IZI	11591
 Executive Committees CEMAC Economic and Monetary Community	2775
-Executive Compliance	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Executive Compliance	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 Executive Council	961,282,4798,642,4225,274,103,848,1995,596,70,2762,2366
 Executive Council Meeting	14794
 Executive Council of ASCON	7329
@@ -879,7 +882,7 @@ Executive Department	13532
 Executive Department CONFIDENCE	13532
 Executive Department FREQUENTLY ASKED QUESTIONS	13532
 Executive Digest	9990
-Executive Director	587,567,400,257,19,21,686,52,390,26,577,72,833,270,16,446,1567,150,101,28,233,22,1,137,387,6,6,257,142,34,397,25,18,23,14,202,11,61,225,151,364,14,469,213,152,100,402,3,15,136,397,124,169,63,135,127,86,75,459,31,8,149,10,332,27,204,60,345,48,252,349,33,43,1,12,199,508,116,105,227,851,3,8,196,18,13,2,29,104,101,7,39,559,81,263,210,60,67,10,55,55,113,709,83,14,1,1,35,16,30,18,54,10,1,7,8,44
+Executive Director	587,567,400,257,19,21,686,52,390,26,577,72,833,270,16,446,1567,150,101,28,233,22,1,137,387,6,6,257,142,34,397,25,18,23,14,202,11,61,225,151,364,14,469,213,152,100,402,3,15,136,397,124,169,63,135,127,86,75,459,31,8,149,10,332,27,204,60,345,48,252,349,33,43,1,12,199,508,116,105,227,851,3,8,196,18,13,2,29,104,101,7,39,559,81,263,210,60,67,10,55,55,113,709,83,14,1,1,35,16,30,18,54,10,1,7,8,44,248,54
 Executive Director Anderson Miamen	8955
 Executive Director Andrew Peters	4614,1767,3912,6700
 Executive Director Corporate Affairs Directorate	18463
@@ -907,6 +910,7 @@ Executive Director and Deputy Executive Director	16841
 Executive Director and Directors of Departments	16863
 Executive Director and Group COO of Seamfix Limited	9876
 Executive Director and Head	16863
+Executive Director and Head of Secretariat	20149
 Executive Director and Other Staff	18600
 Executive Director for Burundi	13624
 Executive Director for Distribution Companies’ Affairs	16236
@@ -955,6 +959,7 @@ Executive Director of SADI. Henri Kouam	9989
 Executive Director of SARUA	17577
 Executive Director of Spaces for Change	2549
 Executive Director of Technical Services	8417
+Executive Director of Transparency International	20071
 Executive Director of Tunani Initiative	9116
 Executive Director of UCC	6227,2503,10998
 Executive Director of Uganda Communications Commission	6199
@@ -964,12 +969,12 @@ Executive Director. Functions	18463
 Executive Director. Provided	16830
 Executive Directors	1284,3612,6239,136,39,107,4566,966,554,243,572,569,397
 Executive Directors António Carlos Moreira Semedo	11955
-Executive Directors of The World Bank	15059
+Executive Directors of The World Bank	15059,5162
 Executive Dr. Phil Mnisi	11134
 Executive Economic Development Advisor	7156,597
 Executive Editor	10195
 Executive FETP	16971
-Executive Governor	7617,2326,465,3910,2560,152,153,52
+Executive Governor	7617,2326,465,3910,2560,152,153,52,2869
 Executive Governor Henry F. Saamoi	17119
 Executive Governor of Abia State	2552
 Executive Governor of Lagos State	2563,3813
@@ -1096,7 +1101,7 @@ Executive Services Traitement	10821
 Executive Sponsors	15034
 Executive Sponsorship	15034
 Executive Staff	18486
-Executive Summary	395,184,3,317,358,106,234,633,828,799,2,669,55,389,160,112,2,1,533,271,375,16,448,57,18,186,2877,690,45,12,1,65,15,121,153,6,52,7,14,50,12,274,7,1,19,268,69,97,42,103,31,32,19,8,56,31,28,20,8,27,101,21,126,4,254,4,14,43,27,71,4,15,71,146,2,45,23,36,2,123,432,2,10,29,1,73,374,8,94,181,28,44,36,21,19,2,19,16,32,22,78,56,43,1,56,24,203,33,98,51,34,50,247,912,4,79,20,10,11,47,71,2,80,39,634,440,152,24,3,43,46,1,34,5,3,11,71,65,20,117,138,500,15,14,68,3,5,45,10,158,42,64
+Executive Summary	395,184,3,317,358,106,234,633,828,799,2,669,55,389,160,112,2,1,533,271,375,16,448,57,18,186,2877,690,45,12,1,65,15,121,153,6,52,7,14,50,12,274,7,1,19,268,69,97,42,103,31,32,19,8,56,31,28,20,8,27,101,21,126,4,254,4,14,43,27,71,4,15,71,146,2,45,23,36,2,123,432,2,10,29,1,73,374,8,94,181,28,44,36,21,19,2,19,16,32,22,78,56,43,1,56,24,203,33,98,51,34,50,247,912,4,79,20,10,11,47,71,2,80,39,634,440,152,24,3,43,46,1,34,5,3,11,71,65,20,117,138,500,15,14,68,3,5,45,10,158,42,64,251,7
 Executive Summary Africa	3859
 Executive Summary Angola	10763
 Executive Summary Artificial	1814
@@ -1274,7 +1279,7 @@ Exemption for On- Premise Hosting	6432
 Exemption of Agency	12899
 Exemption of Establishments	11956
 Exemption of Visa Diplomatic and Official	13744
-Exemptions	3,759,571,18,391,86,899,987,173,2545,3725,153,504,410,56,676,433,173,68,15,6,246,32,260,435,811,98,202,33,139,78,549,4300,117
+Exemptions	3,759,571,18,391,86,899,987,173,2545,3725,153,504,410,56,676,433,173,68,15,6,246,32,260,435,811,98,202,33,139,78,549,4300,117,273
 Exemptions Act	17108,2843
 Exemptions Art	15747
 Exemptions CHAPTER II	14907
@@ -1301,6 +1306,7 @@ Exercice. Un	13329
 Exercices	13329
 Exercido	16022
 Exercise	11,1833,4950,4117,319,746,209,117,226,3,441,5,145,176,1137,292,452,1653,139,1585,369
+Exercise Functions of Office of President	20051
 Exercise Over Technical Challenges Gambiaj.com	10110
 Exercise and Health	5349,3256,3862
 Exercise of Investigative Powers	17243
@@ -1381,6 +1387,7 @@ GDP Rebasing Exercise Nominal GDP	18483
 GEWEL World Bank Executed Trust Fund	13332
 GGwwiittiirraa Dr P. Chikudza Executive Director	1154
 GIBS Global Executive Development Programme	4896
+GITEX Chief Executive Officer	20185
 GOVERNANCE Our Executive Committee Phil Mnisi	11131
 GS1 Tanzania Chief Executive Officer	5883
 GSMA Contents Executive	6593,5401
@@ -1517,7 +1524,7 @@ Ivoire Executive Summary	10956
 JKCI Executive Director Dr Peter Kisenge	7360
 JSSL Examination ECZ Executive Director	13477
 JTL Chief Executive Officer Dr C.K	9940
-JUSTICE Executive Compliance	10759,78,1052,451,7598
+JUSTICE Executive Compliance	10759,78,1052,451,7598,274
 James Chona and Executive Director Webby Mate	9371
 Jargons Executive Summary	12921
 John Muiru County Executive Committee Member	13254
@@ -1686,6 +1693,7 @@ NORED's Chief Executive Officer	11713
 NPPA Chief Executive Officer Fodie Konneh	9338
 NPPA’s Chief Executive	18500
 NPTF Executive Secretary Mr Muhammed Sheidu	18246
+NRO Executive Council	20187
 NTRA Executive President Mohamed Shamroukh	15992
 NUMTEL Liberia. LACC Executive Chairperson Cllr	8393
 Name of Chief Executive Officer	14728
@@ -1767,6 +1775,7 @@ P. Chikudza and NCRST Chief Executive	1554
 P0301.4 EXECUTIVE SUMMARY The South African	11192
 PACRA Chief Executive Officer	12482
 PAGE RESUME EXECUTIF En	16195
+PAPSS Chief Executive Officer	20203
 PART IV EXEMPT INFORMATION	13352
 PART IV EXEMPTIONS FROM PROTECTION	12929
 PART V Exempt Information	12548
@@ -1827,6 +1836,7 @@ President Executive Order No	17394
 President Executive Power	16983
 President and Chief Executive Officer of TeKnowledge	7234
 President and Group Chief Executive Officer of Cassava	4896
+President's Office for Planning and Executive Secretary	20156
 Presidente da Comissão Executiva	15486
 Presidential Executive Order	7448,46,713,1023,927,1836
 Presidential Executive Orders	10157,1838
@@ -2114,6 +2124,7 @@ Training of Elected Officials and Executives	19900
 Transport Networks Executive Summary	2830
 Treasury THE MRA EXECUTIVE MANAGEMENT TEAM	13053
 U.S. Executive Order	6936
+UBOS Executive Director Dr Chris Mukiza	20158
 UBOS Executive Director Dr. Chris Mukiza	19758
 UBOS Executive Director Dr. Chris N	9024
 UBOS Executive Director and Chief Statistician	9322
@@ -2178,6 +2189,7 @@ Vocational Education and Training EXECUTIVE SUMMARY Namibia	13033
 Vodacom Lesotho Chief Executive Officer	7898,4868
 Voter Registration Exercise	18531
 WASAC Water and Sanitation Corporation Limited EXECUTIVE	14947
+WAT Chief Executive Officer	20202
 WATAF Executive Secretary	5351,4871,350
 WATAF Executive Secretary Jules Tapsoba	10644
 WATRA Executive Secretariat and Member States	5677

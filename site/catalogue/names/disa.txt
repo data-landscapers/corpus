@@ -166,7 +166,7 @@ Director of Disability	12661
 Director of Disability Affairs	13470
 Director of Disability Affairs. No	13470
 Disabilites FPE The Free Primary Education	12975
-Disabilities	940,1048,787,230,578,550,1400,350,1063,602,130,328,326,329,134,977,518,231,255,50,307,60,25,12,22,33,210,405,18,17,40,11,52,137,26,13,17,5,92,5,40,38,49,1,11,94,126,189,35,23,7,10,6,15,16,40,90,96,170,29,47,5,541,8,12,51,67,1,592,1,31,113,2,46,5,64,15,17,104,104,75,200,31,54,59,347,36,449,377,15,15,48,8,17,124,6,9,63,118,1,638,371,138,17,30,14,59,180,491,221,76,1,2,51,17,39,5,30,52,77,63,7,10,63
+Disabilities	940,1048,787,230,578,550,1400,350,1063,602,130,328,326,329,134,977,518,231,255,50,307,60,25,12,22,33,210,405,18,17,40,11,52,137,26,13,17,5,92,5,40,38,49,1,11,94,126,189,35,23,7,10,6,15,16,40,90,96,170,29,47,5,541,8,12,51,67,1,592,1,31,113,2,46,5,64,15,17,104,104,75,200,31,54,59,347,36,449,377,15,15,48,8,17,124,6,9,63,118,1,638,371,138,17,30,14,59,180,491,221,76,1,2,51,17,39,5,30,52,77,63,7,10,63,258,15
 Disabilities APP	15244
 Disabilities Acceptance	11765
 Disabilities Act	6949,1383,329,134,3436,685,42,165,347,96,67,913,197,8,285,2141,119,638,514
@@ -195,6 +195,7 @@ Disabilities Household Disability Status Value MPI	15244
 Disabilities Households	15244
 Disabilities MPI Indicators Sudan	15244
 Disabilities Mainstreaming The DHA	5533
+Disabilities Mmapaseka Steve Letsike	20206
 Disabilities MoLSW	14031
 Disabilities NCR Nairobi Commuter Rail NDC	2775
 Disabilities NDDP	18485
@@ -258,7 +259,7 @@ Disabilities. These International	13033
 Disabilities. Through	12950
 Disabilities.15	3583
 Disabilities.Persons	12231
-Disability	582,3022,1637,981,716,3830,73,290,61,22,4,6,711,51,215,30,97,45,10,192,86,31,231,54,56,165,133,58,11,54,504,816,113,149,208,3,213,118,80,1229,2,32,1,13,15,189,112,418,774,47,14,107,623,297,3,10,69,63,39,28,54,110,30,11
+Disability	582,3022,1637,981,716,3830,73,290,61,22,4,6,711,51,215,30,97,45,10,192,86,31,231,54,56,165,133,58,11,54,504,816,113,149,208,3,213,118,80,1229,2,32,1,13,15,189,112,418,774,47,14,107,623,297,3,10,69,63,39,28,54,110,30,11,234
 Disability Accessibility Conference	12692
 Disability Accessibility Conference. Let	12692
 Disability Act	11975,600,364,38,5466,1354,151
@@ -422,7 +423,7 @@ Disaster Exists	19576
 Disaster FY17	17962
 Disaster Forecasting	17157
 Disaster Information Management System	11721
-Disaster Management	3256,7975,626,1118,2,5500,1043
+Disaster Management	3256,7975,626,1118,2,5500,1043,701
 Disaster Management A. Emergency Fire Incidences	12977
 Disaster Management Act	2307,8032,2638,1216,5327
 Disaster Management Act No	6168,13352,11
@@ -449,6 +450,7 @@ Disaster Management Training Centre. Dar	19520
 Disaster Management and Climate Change	13295
 Disaster Management and Mitigation Unit	1988,11377,22
 Disaster Management and Resilience	16133
+Disaster Management and Social Development	20176
 Disaster Not Not Available	19576
 Disaster Planning	16941
 Disaster Preparedness	13474,1461,185
@@ -918,6 +920,7 @@ Social Assistance Benefit Disaster Compensation Benefit	16902
 Somali Disaster Management Agency	14949,171
 Somali Farmers From Climate Disasters Shaqodoon	15178
 Somalia Disaster Management Agency	15093,4943
+Somalia's National Disaster Management Agency	20132
 South Africa. Disability	12231
 Special Educational Needs and Disabilities SQAO School	18564
 State of Disaster	2307,10672

@@ -16,13 +16,13 @@ Acting	1554,275,2522,177,1297,1082,914,985,1675,282,102,275,135,193,423,621,875,
 Acting Accountant General	8723
 Acting Airtel Money Kenya	8728
 Acting Appointment and Continuity	18556
-Acting Appointments	12972
+Acting Appointments	12972,7079
 Acting Assistant Director	13532
 Acting Assistant Director for Projects and Quality Assurance	9152
 Acting Assistant Director-IT Security	13532
 Acting Auditor General	13355,5145
 Acting Branch Manager and Relationship Manager	6946
-Acting CEO	9992,2582
+Acting CEO	9992,2582,7528
 Acting CEO of BDIH	12587
 Acting CEO of PAPSSCARD	4771
 Acting CEO. And REA Board Member	13413
@@ -33,7 +33,7 @@ Acting Chairperson	4878,9577,3989
 Acting Chairperson and Interior Minister Gen. Aleu	14298
 Acting Chief Director	11289
 Acting Chief Executive	13218
-Acting Chief Executive Officer	2735,6131,275,546,305,1206,5081
+Acting Chief Executive Officer	2735,6131,275,546,305,1206,5081,3792,31
 Acting Chief Executive Officer Eng. Alex	13488
 Acting Chief Financial Officer	6727
 Acting Chief Government Statistician	19519
@@ -42,6 +42,7 @@ Acting Chief Technology and Information Officer	10666
 Acting Commissioner	11181
 Acting Commissioner General	12711
 Acting Commissioner for Refugees	11628
+Acting Compliance Director	20149
 Acting Country Director	11486
 Acting Country Director for CAR	18887
 Acting Country Manager for World Bank Liberia	4285
@@ -120,6 +121,7 @@ Acting NUP President	4175
 Acting North West Regional Education Director	12636
 Acting Officer-in-Charge John Bosco Bukenya	8574
 Acting Operations Officer	9699
+Acting Outreach Director	20149
 Acting Paid Appointments	12972
 Acting Permanent Secretary	19800
 Acting Permanent Secretary Dr Tshepo Machacha	11748,3514

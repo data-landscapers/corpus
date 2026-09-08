@@ -199,7 +199,7 @@ Computer Emergency Response Team of Mauritius	783,14046
 Computer Emergency Response Team of Mauritius CFT	14828,3
 Computer Emergency Response Teams	395,5137,145,5087,147,2969,1608,4172
 Computer Incidence Response Team	958
-Computer Incident Response Team	4693,10,61,2081,2588,1701,1261,58,1986,102,3,79,3122
+Computer Incident Response Team	4693,10,61,2081,2588,1701,1261,58,1986,102,3,79,3122,2347
 Computer Incident Response Team CLS	18485
 Computer Incident Response Team CMIL	14438
 Computer Incident Response Teams	11920,5825
@@ -209,6 +209,7 @@ Computer Security Incident Response Team CSR	16975
 Computer Security Incident Response Team ESCP	16144
 Computer Security Incident Response Team-CSIRT	15504
 Computer Security Incident Response Teams	5677,1259,1961,573,1219,4799,656
+Computer Security and Incident Response Team	20224
 Computer Teachers	16876
 Concept of The Team	1988
 Conditions PROJECT TEAM Bank Staff Name	11525
@@ -283,6 +284,7 @@ Data Team	18460
 Data Team’s Roles Current	15034
 De Andrade Falcao Team Member	18809
 De Mesquita Team Member	1284
+Deal Team	20170
 Deputy Directors of Education and Team	18460
 Deputy Head Teachers	899
 Description Teachers	13991
@@ -452,6 +454,7 @@ Functional Team Date	12654
 Fund RDT Regional Development Team RISDP	12962
 GAMBIA National Team Capacity Building	16901
 GBV Safeguarding Team	17099,15
+GBoS. The Teachers	20217
 GEN07 Specialist Mountaga Ndiaye Team Member	11525
 GET Teams	10347
 GHG Forum of Incident Response and Security Teams	16144
@@ -530,6 +533,7 @@ ICT Boko Teaching	12636
 ICT Champion Teachers	899
 ICT Competency Framework for Teachers	899,18666,242
 ICT Competency Framework for Teachers. Retrieved	899
+ICT Competency Standards for Teachers	20119,89
 ICT Directors Forum Teaching	15164
 ICT Management Team	19576
 ICT Standards Technical Task Team	13308
@@ -616,6 +620,7 @@ Jose C. Janeiro Team Member	18809
 Juba Teaching Hospital	4257
 Jubbaland Teacher Training College	14896
 Julia Fraser Task Team Leaders	11380
+Kahoot and Google Forms. Teachers	20119
 Karama Programme TLM Teaching and Learning Materials	15604
 Kazumi Inden Team Member Health Specialist	19284
 KenGen Teams Up	1722
@@ -683,6 +688,7 @@ Maloueki Louzolo Team Member Vincent	11924
 Management Leadership Team Meetings Quarterly	16963
 Management Team	6946,9895,2734
 Management Team Fiduciary Management	6946
+Management Team of PAPSS	20152
 Management of Teaching and Learning Processes	19783
 Mandate Resident Cybersecurity Teams and Capabilities	1777
 Mangulenji Nkhoma Head Teacher	13392
@@ -750,6 +756,7 @@ Ministry of Finance Football Team	18576
 Ministry of Finance Football Team Players	18576
 Ministry of Finance Football Team Road	18576
 Ministry. This Team	12950
+MoBSE Senior Management Team	20217
 MoF FOOTBALL TEAM	18576
 MoF Team	18576
 MoH Senior Management Team	12240
@@ -762,6 +769,7 @@ Mohamed Ibrahim Kazem Team Member Dina	15663
 Mohammed Elshalakani Team Member Khalid Ahmed	15663
 Moi Teaching and Referral Hospital	6516
 Mombasa Tea Auction	226
+Monduli Teachers College	20119
 Monitoring and Evaluation Team	17011
 Morgenster Teachers' College	4528,7984
 Moses Banda Parent Teacher	13392
@@ -861,7 +869,7 @@ Niyongabo Team Member Amr Mostafa Hanafy	15663
 No. TEAM	15190
 No. Teacher Education Syllabi	13392
 Number Specialized Teachers of Pupils Category Required	19585
-Number of Teachers	14958
+Number of Teachers	14958,5259
 Numbering of Property The Data Collection Team	11129
 ODW-Data2X Team	8427
 ON-SITE REGISTRATION TEACHERS AS INFORMANTS TEACHERS	13681
@@ -989,10 +997,12 @@ Pupil-Trained Teacher Ratios	12411
 Putting Teachers	8609
 Q. Teah CFDC Rep	16857
 QGIS Development Team	17157
+QT Qualified Teacher	20217
 Qualification and Qualified Teachers	18460
+Qualified Teacher	20217
 Qualified Teacher Ratio	18460
 Qualified Teacher Ratio PTR Pupils	18460
-Qualified Teachers	18460
+Qualified Teachers	18460,1757
 Quality Foundational Teaching and Learning	12175,1815
 Quality Foundational Teaching and Learning for All Girls	13990
 Quality Teacher Training	19542
@@ -1080,6 +1090,7 @@ SH Compliance Team	16926
 SH SAWS4 Jane Kim Lee Team	16922
 SL Statistics Sierra Leone TC Teachers	18460
 SMS Short Messaging Service TEAMS	6671
+SMT Senior Management Team	20217
 SOFF Team	16947
 SOFRECO Support Team	16857
 SPAR6C Zambia Team Lead	9393
@@ -1133,7 +1144,7 @@ Shobha Shetty Task Team Leaders	19643
 Shortage of Primary and Secondary School Teachers	19585
 Shortage of Primary and Secondary Teachers	19585
 Sierra Leonean Teams	18518
-SierraSeat Project Team	9680
+SierraSeat Project Team	9680,10403
 Single Account TSC Teachers Service Commission	19585
 Single Portal Digital Services Team Report	11965
 Sir Ketumile Masire Teaching Hospital	12606
@@ -1232,6 +1243,7 @@ TEAMs. Deployment	14879
 TECHNICAL TEAM	18576
 TECHNICAL TEAM James Hodge	13461
 TEL Technology-Enabled Learning TSC Teaching Service	12975
+TIE Teachers Continuous Professional Development Learning	20119
 TLM Teaching and Learning Material TORs Terms	15661
 TMD Team	17011
 TMIS Teacher	14922
@@ -1250,6 +1262,7 @@ TTC Teacher	14922
 Tablets Teacher	15604
 Tanganda Tea’s Ratelshoek Estate	6492
 Tanzania Computer Emergency Response Team	2703,3465
+Tanzania ICTs Competence Standard for Teachers	20208
 Tanzania Tea Board	19584
 Tasara Muzorori Team Leader	13563
 Task Team	6539,4649,89,898,775,26,1014,32,1389
@@ -1281,7 +1294,7 @@ Teach English	18099
 Teach Primary	2966
 Teach for Liberia	16876
 Teachable	6948
-Teacher	899,2962,2887,200,1006,176,3427,322,26,13,257,59,441,51,246,1924,20,6,195,487,57,52,723,416,244,774,14,86,941,168,756,72,81
+Teacher	899,2962,2887,200,1006,176,3427,322,26,13,257,59,441,51,246,1924,20,6,195,487,57,52,723,416,244,774,14,86,941,168,756,72,81,229
 Teacher Assistants	11230
 Teacher Assistants Programme	11940
 Teacher Attendance System	16911
@@ -1319,13 +1332,14 @@ Teacher Management Information System. ToRs Approved	14971
 Teacher Management Information Systems	12726,344,987
 Teacher Management Strategy. Ministry of Education	12175
 Teacher Performance Evaluations	16963
+Teacher Posting Consistency	20217
 Teacher Professional Development	16963
 Teacher Professional Development Index	13392
 Teacher Professional Development Program	14971
-Teacher Professional Learning	899
+Teacher Professional Learning	899,19309
 Teacher Proficiency Development Index	13477
 Teacher Qualification	12411
-Teacher Ratio	18460
+Teacher Ratio	18460,1757
 Teacher Ratio PSIG	12175
 Teacher Ratio PSP Private School Policy	14896
 Teacher Ratio PTxR Pupils	18460
@@ -1353,7 +1367,7 @@ Teacher Training Institutes	2989,1664
 Teacher Training Institutes Finalize	2989
 Teacher Training Institutes Sign	2989
 Teacher Training Institutes Videoconference	2989
-Teacher Training Institutions	2775,7008,6177
+Teacher Training Institutions	2775,7008,6177,4201
 Teacher Training KBC Knowledge-Based Curriculum NEET	12329
 Teacher Training Schools. The NREN	15447
 Teacher Training South and East Darfur	14897
@@ -1370,7 +1384,7 @@ Teacher-related	11860
 Teacher-researcher	19248
 Teacher-to-pupil	19760
 Teacher.AI	18564
-Teachers	395,504,1089,787,183,553,72,1155,303,1791,114,2,600,16,873,683,674,253,71,129,33,75,1197,308,45,2,9,2,52,67,47,150,95,16,280,101,249,41,42,12,240,4,35,43,140,149,310,8,567,10,320,1,43,242,1,264,157,57,104,195,476,202,214,83,28,133,1350,14,1,115,189,146,168,516,95,93,52,54,44,49,6
+Teachers	395,504,1089,787,183,553,72,1155,303,1791,114,2,600,16,873,683,674,253,71,129,33,75,1197,308,45,2,9,2,52,67,47,150,95,16,280,101,249,41,42,12,240,4,35,43,140,149,310,8,567,10,320,1,43,242,1,264,157,57,104,195,476,202,214,83,28,133,1350,14,1,115,189,146,168,516,95,93,52,54,44,49,6,76,38,17,98
 Teachers Annex Schools	18460
 Teachers Colleges	13310
 Teachers Competency Assessment	17096
@@ -1394,6 +1408,7 @@ Teachers Service Unqualified Compliant Compliant Commission	19585
 Teachers Trained	19835
 Teachers Training	12996
 Teachers and Digital Competences TEACHER CAPACITY	11918
+Teachers and Facilitators	20217
 Teachers and School Heads	11860
 Teachers' Association of Eritrea	14057
 Teachers' College Band Part	1154
@@ -1430,7 +1445,8 @@ Teaching Service Commission	12956,19,417,5068,30,67,7
 Teaching Service Commission TVET Technical and Vocational	16852
 Teaching Service Department	12726
 Teaching Services	12726
-Teaching Staff	12411
+Teaching Staff	12411,7806
+Teaching Staff Indicators	20217
 Teaching Subsidiary ICT	19690
 Teaching Support Materials	11220,21
 Teaching Tax	17011
@@ -1474,9 +1490,10 @@ Team DHS Demographic and Health Survey DHSE	18478
 Team Development	14934
 Team ECZ Hosts	13477
 Team EXECUTIVE STRUCTURE CEO AND AA	11198
-Team Europe	643,1,326,4529,3899,154,1021,19,138,496,78,232,1307,318,9,290,68,351,4,109,36,22,58,1,1391,357,1,2314,173,80,33,49,133,36,109,124,419
+Team Europe	643,1,326,4529,3899,154,1021,19,138,496,78,232,1307,318,9,290,68,351,4,109,36,22,58,1,1391,357,1,2314,173,80,33,49,133,36,109,124,419,748
 Team Europe Data Governance	7970
 Team Europe Initiative	644,145,375,4354,6771,298,21,235,5615
+Team Europe Initiative Data Governance	20218
 Team Europe Initiative. Digital	970
 Team Europe Initiative. Further	789
 Team Europe Initiatives	644,145,181,3719,4709,1757,381,6922,49
@@ -1601,6 +1618,7 @@ Training of High School Teachers	15183
 Transaction Advisory Team	11248
 Treasury THE MRA EXECUTIVE MANAGEMENT TEAM	13053
 Trouillot- Team Member Operations No Ligonde	19284
+Trs Teachers	20217
 Twenty-five Computer Emergency Response Team	19660
 Twitter and Tear Gas	2518
 UN COUNTRY TEAM	14959
@@ -1609,12 +1627,13 @@ UN Country Team	10346,2383,2230,3570
 UN Country Team Members The United	13989
 UN Operations Management Team	16973
 UN Women Country Team	18624
+UNDP Gambia Procurement Team	20222
 UNDP Mauritius Team The UNDP	11332
 UNDP Mauritius Team UNDP Mauritius	11332
 UNDP Mauritius Team United Nations	11332
 UNDP Team Leader	17231
 UNECA Team	14090
-UNESCO ICT Competency Framework for Teachers	899,5933,10131
+UNESCO ICT Competency Framework for Teachers	899,5933,10131,3245
 UNESCO ICT Competency Framework for Teachers. Paris	899
 UNESCO ICT Framework for Teachers	16963
 UNESWA AI Academy's Generative AI for Teachers	12996
@@ -1674,6 +1693,7 @@ Wittich Team Member Thembi Malena Kumapley	17962
 Word University of Nigeria Teaching Hospital University	11129
 Work Visa Review Team	10058
 World Bank Collins W. Teah	17070
+World Bank Country Task Team Leader	20217
 World Bank Geospatial Operation Support Team	10775
 World Bank Mission Team	17712
 World Bank Project Task Team Leaders	14965

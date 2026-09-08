@@ -40,7 +40,7 @@ Administration Personnalisée du MCTIT PAR	13500
 Administrations Personnalisées	13334
 Adopted Personal Data Protection Proclamation	12184
 Advance the Economic Inclusion of Persons	12231
-Advanced Persistent Threat	17746
+Advanced Persistent Threat	17746,2346
 Advanced Persistent Threats	19801
 Advancement of Persons	17934
 Advisory Council for Persons	16887
@@ -354,7 +354,7 @@ Current Year Personnel	11134
 Customer Experience Perspective Taxpayer Satisfaction Score	13053
 Cyber Security And Personal Data	1243
 Cyber Security and Personal	9399
-Cyber Security and Personal Data Protection	958,3,1,238,43,21,123,148,242,772,1312,563,383,277,29,131,163,33,47,1449,61,681,514,1207,386,935,44,1,10,44,843,499,140,612,5,41,253,134,111,388,35,554,1,493,309,1,1676,22,81,728,868,522,822
+Cyber Security and Personal Data Protection	958,3,1,238,43,21,123,148,242,772,1312,563,383,277,29,131,163,33,47,1449,61,681,514,1207,386,935,44,1,10,44,843,499,140,612,5,41,253,134,111,388,35,554,1,493,309,1,1676,22,81,728,868,522,822,267
 Cyber Security and Personal Data Protection AfCFTA	12055,1402
 Cyber Security and Personal Data Protection. Aligning	5244
 Cyber Security and Personal Data Protection. Document	5244
@@ -612,7 +612,7 @@ Education Nationale IDP Internally Displaced Person	18911
 Education and Literacy Number of Persons Literate	19715
 Educação Personalizada	2816
 Egypt's Personal Data Protection Centre	6792
-Egypt's Personal Data Protection Law	9829,10035
+Egypt's Personal Data Protection Law	9829,10035,258
 Egyptian Initiative for Personal Rights	11079,8775
 Egyptian Personal Status Law United Nations	15627
 Egypt’s Personal Data Protection Law No	11079
@@ -961,7 +961,7 @@ Local Personnel	13037
 Location Tracking PlXv3 Personnel White Pages	1009
 Long Term Development Perspective Plan	19520
 Long Term Perspective Plan	19520
-Long-Term Perspective Plan	19531
+Long-Term Perspective Plan	19531,625
 Loop Perspective	2096
 Los Datos Persona	16855
 Los Datos Personales	16855
@@ -1407,7 +1407,7 @@ Persistem	11461,7406
 Persisten	17425
 Persistence	9855,5274
 Persistence of Paper-Based Systems	19900
-Persistent	1828,1755,270,8,2507,124,340,106,2087,568,166,180,790,274,353,61,52,975,179,106,311,71,52,107,1548,104,13,50,49,625,4,182,6,293,292,530,30,118,13,12,100,10,36,4,701,497,44,278,42,691,43,136,253
+Persistent	1828,1755,270,8,2507,124,340,106,2087,568,166,180,790,274,353,61,52,975,179,106,311,71,52,107,1548,104,13,50,49,625,4,182,6,293,292,530,30,118,13,12,100,10,36,4,701,497,44,278,42,691,43,136,253,249
 Persistent ACV Fund	14111,1
 Persistent Benchmarks	6051
 Persistent Bottlenecks High	6051
@@ -1469,7 +1469,7 @@ Person-to-government	10819,82
 Person-to-person	11994
 Person-toBusiness	11130
 Persona	2355,176,4,1,56,3,339,96,361,540,583,423,176,1585,673,4957,2593,1934,110
-Personal	3,22,2,7,384,164,317,62,11,248,23,90,141,119,4,217,14,49,111,1364,231,75,56,147,265,41,35,7,5,3,43,89,234,27,26,249,216,12,129,2,3,79,329,10,610,145,3,93,3,208,194,25,275,1,1156,226,100,419,692,40,859,51,10,133,32,34,23,20,137,27,53,230,53,68,268,27,63,9,4,39,95,95,116,1,31,86,12,100,18,102,243,19,41,50,32,3,280,2,31,24,5,89,34,492,1,27,104,287,19,1,6,83,182,21,63,75,28,14,2,12,64,49,47,125,267,11,8,221,1,187,638,293,1,22,16,1,12,1,31,8,18,54,118,121,8,53,112,337,52,73,567,1,2,27,74,444,60,147,42,292,4,104,114,53,52,1,6,18,12,61
+Personal	3,22,2,7,384,164,317,62,11,248,23,90,141,119,4,217,14,49,111,1364,231,75,56,147,265,41,35,7,5,3,43,89,234,27,26,249,216,12,129,2,3,79,329,10,610,145,3,93,3,208,194,25,275,1,1156,226,100,419,692,40,859,51,10,133,32,34,23,20,137,27,53,230,53,68,268,27,63,9,4,39,95,95,116,1,31,86,12,100,18,102,243,19,41,50,32,3,280,2,31,24,5,89,34,492,1,27,104,287,19,1,6,83,182,21,63,75,28,14,2,12,64,49,47,125,267,11,8,221,1,187,638,293,1,22,16,1,12,1,31,8,18,54,118,121,8,53,112,337,52,73,567,1,2,27,74,444,60,147,42,292,4,104,114,53,52,1,6,18,12,61,231
 Personal Accountability	19801
 Personal Accountability Every	19801
 Personal Apoyo	4209
@@ -1507,7 +1507,7 @@ Personal Data Personal Data Protection	1243
 Personal Data Pro	10974
 Personal Data Proclamation	1368
 Personal Data Proclamation No	12257
-Personal Data Protection	16,210,735,200,82,231,1534,185,182,226,1350,293,119,1574,515,830,2088,449,20,17,52,3,63,576,2640,244,940,110,29,40,1035,336,144,677,125,927,106,342,677
+Personal Data Protection	16,210,735,200,82,231,1534,185,182,226,1350,293,119,1574,515,830,2088,449,20,17,52,3,63,576,2640,244,940,110,29,40,1035,336,144,677,125,927,106,342,677,302
 Personal Data Protection ASN Authority	17870
 Personal Data Protection Act	2806,309,1836,51,242,681,97,724,181,331,3875,529,472,4815,2581,37,42
 Personal Data Protection Act No	19571
@@ -1626,8 +1626,8 @@ Personal Interviewing CPI Consumer Price Index	13359
 Personal Interviews CERC Contingent Emergency Response	18777
 Personal Jurisdiction Over Data Controllers and Processors	3861
 Personal Liability	18600
-Personal Liberties	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
-Personal Liberties Freedom of Expression	10837,1315,188,7598
+Personal Liberties	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
+Personal Liberties Freedom of Expression	10837,1315,188,7598,274
 Personal Liberty	18597
 Personal Loan	10330
 Personal Logbook	10765,10
@@ -1790,7 +1790,7 @@ Personnes Sanctionnées	15901
 Personnes Socialement	10985
 Personnes Vulnérables	10985,5656,4
 Personnes de Troisième Age	15383
-Persons	27,913,927,10,111,319,468,386,422,21,110,419,1148,1665,3,249,350,4,780,148,71,110,134,977,246,49,490,269,367,37,3,49,14,568,36,35,51,9,150,56,30,66,31,45,40,47,1,11,103,64,9,13,31,196,18,10,7,16,7,4,6,2,1,18,56,90,266,81,96,67,136,179,60,37,364,77,1,59,120,54,22,9,6,24,34,13,3,5,19,19,13,9,39,121,166,171,157,108,5,559,31,242,136,205,14,10,14,10,3,14,1,19,5,9,15,1,7,53,88,9,6,63,119,38,600,509,5,2,2,7,45,27,10,15,7,39,141,208,56,34,204,39,171,76,3,8,43,42,14,5,1,29,39,82,8,50,20,14,59
+Persons	27,913,927,10,111,319,468,386,422,21,110,419,1148,1665,3,249,350,4,780,148,71,110,134,977,246,49,490,269,367,37,3,49,14,568,36,35,51,9,150,56,30,66,31,45,40,47,1,11,103,64,9,13,31,196,18,10,7,16,7,4,6,2,1,18,56,90,266,81,96,67,136,179,60,37,364,77,1,59,120,54,22,9,6,24,34,13,3,5,19,19,13,9,39,121,166,171,157,108,5,559,31,242,136,205,14,10,14,10,3,14,1,19,5,9,15,1,7,53,88,9,6,63,119,38,600,509,5,2,2,7,45,27,10,15,7,39,141,208,56,34,204,39,171,76,3,8,43,42,14,5,1,29,39,82,8,50,20,14,59,234,17
 Persons Act	14742,2132,77,1961
 Persons Act No	19531
 Persons Affected Compensation	17114
@@ -2023,7 +2023,7 @@ RIGHTS OF PERSONS UNDER THE ACCESS	13484
 RIGHTS OF PERSONS WITH DISABILITIES	16887
 RIGHTS OF PERSONS WITH DISABILITIES ACT	14743
 RIGHTS OF PERSONS WITH DISABILTIES	16887
-RIGHTS Personal Liberties	10759,78,1052,451,7598
+RIGHTS Personal Liberties	10759,78,1052,451,7598,274
 RIGHTS Personal Liberties Freedom of Expression	10759
 Ratio Personnel	11134
 Recent Persian and Bangla	7790
@@ -2359,6 +2359,7 @@ Web Subject Data Definitions Personnel White	1009
 Webmaster Personne	15512
 Welfare Corporation PDA Personal Digital Assistant	16843
 Welfare and Elderly Persons' Protection Unit WRA	14742
+Women and Persons	20206
 Word Focal Persons	18139
 XC I PGES- CENTRE DE PERSONALISATION	14490
 XC II PGES- CENTRE DE PERSONALISATION	14490
@@ -2377,7 +2378,7 @@ YOUTH AND PERSONS WITH DISABILITIES	11986
 YOUTH AND PERSONS WITH DISABILITY FUND	19585
 Yes. Personal	19864
 Youth Perspective	17037
-Youth and Persons	5533,350,2123,1761,1426,92,210,491,7599
+Youth and Persons	5533,350,2123,1761,1426,92,210,491,7599,621
 ZIPSS Authorising Authorising Person	12364
 Zambia Agency for Persons	13347,42,76
 Zambia Displaced Persons and Borderlands Communities Project	1778

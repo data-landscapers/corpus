@@ -41,7 +41,8 @@ Gautam Buddha University	19198
 Gautam Budhnagar	11579
 Gautam Social Specialist Syed I. Ahmed	15663
 Gautena	11180
-Gauteng	1289,649,1,1,11,997,1484,729,2182,296,120,616,83,145,2,241,1,152,74,603,8,36,247,628,216,381,3,16,37,4,34,3,5,2,1,593,14,57,19,6,39,612,335,490,311,420,76,404,537,2491
+Gauteng	1289,649,1,1,11,997,1484,729,2182,296,120,616,83,145,2,241,1,152,74,603,8,36,247,628,216,381,3,16,37,4,34,3,5,2,1,593,14,57,19,6,39,612,335,490,311,420,76,404,537,2491,2477,29
+Gauteng Department	20178
 Gauteng Department of E-Government	14357
 Gauteng Department of Education	9073,65
 Gauteng Department of Health	2948
@@ -62,6 +63,8 @@ Gauteng Province	2948,5073,3220,48,757,2627
 Gauteng Province HDI	11252
 Gauteng Provincial Department of Health	12025
 Gauteng Provincial Government	5597
+Gauteng Provincial Legislature	20178
+Gauteng Provincial Network	20178
 Gauteng Sharolese Zovetski	11660
 Gauteng Surveyor-General’s Office	13213
 Gauteng UR	11296
@@ -102,6 +105,7 @@ La Gaulette	259
 La Gaulette Police Station	14753
 Limpopo Gauteng Mpumala	11262
 Limpopo North West Gauteng KwaZulu Natal	11211
+MEC Dhlamini. As Gauteng	20178
 Machine Learning Gauteng Tshwane	6832
 Metre Gauge Railway	2775
 Metre Gauge Railway Traffic	2775

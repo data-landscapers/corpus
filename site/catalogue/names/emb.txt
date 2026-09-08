@@ -15,6 +15,7 @@ Application Tracking The Embassy	19866
 Arms Embargo and Act	7845
 Arms Embargo and Travel Ban	7845,6964,19,3
 Arret Jatta The Chinese Embassy	17423
+Auditors Embrace AI	20174
 Ayudante Grupo E Comandante Embarcación Corresponsal	4209
 B2 Embajador A3 Ministro Consejero A1	4209
 Belgium Embassy	13358
@@ -245,6 +246,7 @@ Embedding M&E	15845
 Embedding Open Data Practice	1243
 Embedding Protection	9766
 Embedding Shoprite	14385
+Embedding The Gambia's DPI	20221
 Embedding Trust and Security Across the Board Governance	7596
 Embedding the FAIR	14565
 Embedment	15713
@@ -261,12 +263,13 @@ Embosi Primary	12977
 Emboss	14741
 Embosser Braille	19565
 Emboîtant	1748
-Embrace	5244,7733,2020,2142
+Embrace	5244,7733,2020,2142,3052
 Embrace Distributed Renewable Energy and Clean Cooking	12717,3471
 Embrace Gender Diversity	2668
 Embrace Good Governance	11131
 Embrace Innovation and Modern Technology Parliament	6077
 Embrace LC I Elections Campaigning LC	4175
+Embrace Technology	20068
 Embracing	1777,4805,696,3959,703,1065,341,1398,4300,350
 Embracing AI	6948,4317
 Embracing AI Opportunity	6849
@@ -305,13 +308,13 @@ Foreign Embassies and High Commissions	11956
 Foreign Embassy	17108
 France Embassy	12972
 Freetown Sierra Leone. Turkish Embassy	18580
-French Embassy	5556,6167,174,1078,2472,4387
+French Embassy	5556,6167,174,1078,2472,4387,393
 French Embassy French Embassy EUR	15661
 Future of Embedded Finance	14819
 G-4 Promote Inclusive Data Use and Embed	17116
 Gabonese Embassy	16285
 Gambian Embassy	16874
-German Embassy	3697,3028,2903,79,404,2,3465,2458,186,1364
+German Embassy	3697,3028,2903,79,404,2,3465,2458,186,1364,2493
 German Embassy Chargé	13426
 German Embassy Nairobi	4890
 German Embassy Representative Mr. Ulrich Thueer	7362
@@ -473,7 +476,7 @@ U.S. Embassy and Starlink	4340,5
 U.S. Embassy's Facilitation Role Chargé	4352
 U.S. Virtual Embassy	13754
 UAE Embassy	4952,9182
-US Embassy	2740,2408,289,189,864,418,2068,253,4172,4168
+US Embassy	2740,2408,289,189,864,418,2068,253,4172,4168,2522
 US Embassy Bangui	4345
 US Embassy Benin	87
 US Embassy Calls for Stronger Efforts	10405

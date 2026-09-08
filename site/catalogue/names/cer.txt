@@ -57,6 +57,7 @@ Additional Information I Certify	736
 Address CERT-GH	775
 Administration Certif	17860
 Administration Certification	17860
+Adoption Certificates	20221
 Adoption Certificates Unavailable	14045
 Advance Single Instalment Tax Certificate	19602
 Advance Teacher’s Certificate	14736
@@ -89,6 +90,7 @@ Annual Harvesting Certificate	16843
 Annual Training and Competency Certification Roster Annex	3861
 Anthropic. Certain	10430
 Application for Certificate	12342
+Application for Certificate of Naturalisation	20051
 Application for Certified Copies	18541
 Application for Child's Current Birth Certificate	6783
 Application for Good Standing Certificate Enterprise Provide	12483
@@ -158,7 +160,7 @@ Basic Education Certificate Examination	18461,51,66
 Basic Education Certificate Examinations	18455
 Basic Education Certification Examination BED	15796
 Bata and Malabo. Certain	16972
-Birth Certificate	6392,3642,231,500,10,37,1404,1,1,73,46,973,1452,2079,19,1592,18,340,731,35,263,96,1
+Birth Certificate	6392,3642,231,500,10,37,1404,1,1,73,46,973,1452,2079,19,1592,18,340,731,35,263,96,1,239,46
 Birth Certificate Access Changes Lives	12227
 Birth Certificate No	14713
 Birth Certificate Number	13477
@@ -172,6 +174,7 @@ Birth Certificates and Identity Documents	12972
 Birth Certification	16860
 Birth Certification Center	16860
 Birth Certification of Children	19715
+Birth Certs	20221
 Birth Registered Citizens Certificate	19541
 Birth Registration Certificate	19541,379
 Birth Registration Coverage and Certifications for Children	19544
@@ -383,6 +386,7 @@ CERTIFICATE OF ORIGIN FOR ZERO-TARIFF	14816
 CERTIFICATE OF ORIGIN ISSUED UNDER	14816
 CERTIFICATES	13071
 CERTIFICATES BY RECOGNITION AUTHORITY	16832
+CERTIFICATES FEES Civil Marriage Licence Form	20213
 CERTIFICATES OF ORIGIN UNDER	14816
 CERTIFICATES OF TITLE	19524
 CERTIFICATES RECEIVED FROM THE PARLIAMENTARY LEGAL	13526
@@ -618,9 +622,9 @@ Certain Limited Companies	18556
 Certain MDAs	17870
 Certain Residents of Namibia	12984
 Certain Responsible Parties	11255
-Certaines	748,439,635,162,85,331,2913,60,864,722,396,48,310,117,268,257,286,250,389,444,542,21,102,90,232,110,5,49,100,770,1545,10,60,4,26,43,113,988,15,49,84,14,680,14,44,44,1,14,7,42,6,104,21,38,4,133,25,63,25,4,61,11,291,31,62,398,182,447,37,157,164,24,37,18,406,15,915,196,228,252,94
+Certaines	748,439,635,162,85,331,2913,60,864,722,396,48,310,117,268,257,286,250,389,444,542,21,102,90,232,110,5,49,100,770,1545,10,60,4,26,43,113,988,15,49,84,14,680,14,44,44,1,14,7,42,6,104,21,38,4,133,25,63,25,4,61,11,291,31,62,398,182,447,37,157,164,24,37,18,406,15,915,196,228,252,94,98,4
 Certainly	11665,1796,16,818,2862
-Certains	643,104,1,483,753,277,152,352,700,343,430,918,743,616,100,344,138,558,58,989,35,79,75,627,480,241,48,102,126,196,110,5,49,90,49,485,246,199,168,1178,10,29,31,15,15,52,71,33,27,309,657,302,451,3,66,29,33,51,19,49,7,77,45,44,9,22,409,55,17,318,81,15,893,16,213,41,26,15,3,8,16,1,9,4,8,2,203,6,38,61,61,20,6,46,57,488,344,419,187,159
+Certains	643,104,1,483,753,277,152,352,700,343,430,918,743,616,100,344,138,558,58,989,35,79,75,627,480,241,48,102,126,196,110,5,49,90,49,485,246,199,168,1178,10,29,31,15,15,52,71,33,27,309,657,302,451,3,66,29,33,51,19,49,7,77,45,44,9,22,409,55,17,318,81,15,893,16,213,41,26,15,3,8,16,1,9,4,8,2,203,6,38,61,61,20,6,46,57,488,344,419,187,159,175
 Certains Camerounais	3808
 Certains EMF	11944
 Certains SF	14598
@@ -831,6 +835,7 @@ Certificated	4896
 Certificated Shareholders	4896
 Certificated Shareholders and Dematerialised Shareholders	4896
 Certificates	1,1883,3399,692,44,910,3194,300,1770,48,15,108,132,43,100,254,112,90,382,945,467,126,1817,442,874,447,946,108
+Certificates D3	20213
 Certificates and Determinations. Any	16219
 Certificates of Achievement and Diploma	17235
 Certificates of Competency	8639
@@ -851,7 +856,7 @@ Certificates. Revocation	13951
 Certification	587,149,264,9,222,13,1098,1519,1690,114,71,57,639,504,119,493,1451,617,697,499,29,28,87,18,165,81,21,106,146,108,166,185,89,296,1,29,527,1,110,26,6,31,3,114,135,55,330,141,755,126,56,23,78,13,10,90,46,223,97,49,4,68,69,46,62,9,266,208,26,42,36,19,61,471,33,20,40,8,933,8,4,15,21,26,215,116,202,19,4,93,241,106,23,5,119,15,36,26,22,40,13,19,307,13,43,217,150
 Certification Achieved	19680
 Certification Authorities	9880
-Certification Authority	1009,10175,1650,1176,730,1,11
+Certification Authority	1009,10175,1650,1176,730,1,11,5328
 Certification Authority and Digital Trust Centre	2692
 Certification Authority and Digital Trust Centre. GPW	2681
 Certification Body	14736
@@ -877,7 +882,7 @@ Certification Requirements	5665
 Certification SSL	15568
 Certification Scheme	7548,7188
 Certification Schemes	14736
-Certification Service Provider	12865
+Certification Service Provider	12865,7215
 Certification Service Providers	14253
 Certification Standard	2889
 Certification The MauriGAP Certification Scheme	14736
@@ -928,6 +933,7 @@ Certified Accountants AEs Automated Check Processing	17235
 Certified Cloud Security Professional	15662
 Certified Computer Professional	13078
 Certified Copies Available	14045
+Certified Copy of Civil Marriage Certificate D3	20213
 Certified DPO	13381
 Certified DPOs	11956
 Certified Data Center	19845
@@ -1028,6 +1034,7 @@ Collectivité Cercle	9287,55
 Collectivités Territoriales de Cercles	17817
 Comité de Certificación de Origen	17282
 Commercial Intra-city Courier Services Certificate	1223
+Common External Tariffs. Certain	20224
 Community CERC Contingency Emergency Response Component	969
 Company Registration Certificate	13031
 Competency Certificates	14024
@@ -1071,6 +1078,7 @@ Criminal Record Certificate	11939,2982
 Criminal Record Certificate. MEDIA	12333
 Customary Right of Use Certificate	10930
 Customs Clearance Certifi	13042
+Cyber Security Authority's CERT-GH	20182
 Cybersecurity Certification	14995,48
 Cybersecurity Education and Certification Pathways	6936
 D.G. DE PROTOCOLO Y CEREMONIAS.- Concepto	4209
@@ -1107,7 +1115,7 @@ Data Protection Certification	13381
 Data Protection Certified	15152
 Data Protection Compliance Certificate	12323,2180
 Dead Body Certificate	14045
-Death Certificate	12217,74,348,4221,1950
+Death Certificate	12217,74,348,4221,1950,1403,8
 Death Certificate Form	14045
 Death Certificate Issuing Authority	14045
 Death Certificate No	14713
@@ -1155,8 +1163,11 @@ Director of Ceremonies	13118
 Director of Seed Quality Control and Certification	18197
 Distribution List for Notifications CERT-GH	775
 Divorce Annotation Erratum Certified Statement Bachelorhood	16970
+Divorce Certificate	20213
+Divorce Certificate. Applicant	20213
 Divorce Certificates	14045
 Divorce Certificates Available Fees	14045
+Divorces and Adoption Certificates	20221
 Dominican Certificate Administration System	10714
 Downs Shoprite Ceres Shoprite Fish Hoek	8999
 Draft Assessment and Certification System Month	19807
@@ -1187,6 +1198,7 @@ ET DE LA POSTE CERTIFIEE ISO	15654
 EXIGEZ LA FACTURE ELECTRONIQUE CERTIFIEE	14469
 EXIGEZ VOTRE FACTURE ELECTRONIQUE CERTIFIEE	7346
 Earn Certificates Under New Training Plan	10280
+Education Certificates	20175
 Ejercicios Cerrados	4209
 Electoral Commission of Zambia CERTIFICATION	13593
 Electrical Appliance Registration Certificates The Energy	12256
@@ -1369,6 +1381,7 @@ Installation Certificate	13185,1622
 Institut Cerco International	8162
 Institute of Certified Accountants	1964
 Institute of Certified Public Accountants of Kenya	6946,3097
+Institute of Certified Public Accountants of Uganda	20069,9
 Institute of Certified Public Secretaries of Kenya	11464,2946
 Institute of Certified Secretaries of Kenya	6946,7503
 Instituteur Adjoint Certifié IC	10847
@@ -1412,6 +1425,7 @@ Issuance of Foreigner Certificate	12227
 Issuance of Tax Compliance Certificate	18608
 Issue Permits and Certifications	15484
 Issue of Certificat de Gage	14761
+Issuing Authority of Birth and Death Certificates and Health	20221
 Issuing Certificate of Civil Registration	12226
 Issuing Nationality Certificates	18595
 Issuing Naturalization Certificates	18595
@@ -1432,6 +1446,7 @@ Kenya Certificate of Secondary Education	2775,9452
 Kenya Commercial Bank KCPE Kenya Certificate	2775
 Kenya Nationals Certificate Asylum	12227
 Key Provisions Abolition of Certain Title Conditions	11261
+Key Signing Ceremony	20080
 Kinshasa Achieves ISO and PCI DSS Certifications	2350
 Kuomboka Ceremony	13387
 L CERTIFIED TRUELOPY ARTICLE SOIXANTIÈME.-	15999
@@ -1505,7 +1520,7 @@ Maquette du Certificat Foncier Page	13375
 Market Differentiation and Certification	14818
 Market Differentiation and Certification Premium	14818
 Markets Authority CMC Cabin-Crew Member Certificate	2775
-Marriage Certificate	12291,2471,4048,1125
+Marriage Certificate	12291,2471,4048,1125,240
 Marriage Certificate No	14713
 Marriage Certificates Available Fees	14045
 Master's Certificate	19154
@@ -1549,6 +1564,7 @@ NITA-U. CERT-UG	19801
 NRA Registration Certificate	18452
 NREN and CERT	15164
 Namibia Preferential Procurement Corporation Certificate	12400
+Namibia's National Root Certification Authority	20080
 Namibian Birth Certificate	12350
 Namibian Birth Certificate and New Namibian Driver	12350
 Namibia’s Root Certification Authority	8250
@@ -1559,6 +1575,7 @@ National Certificate Vocational	6832
 National Certification and Qualification Framework	6747
 National Certification of Education	14742
 National Computer Board Certificate Authority	1379
+National Computerized System for Certification	20172
 National Cyber Security Accreditation Framework Certified	14729
 National Digital Certification Agency	2578
 National Digital Certification Authority	14897
@@ -1569,7 +1586,8 @@ National Management System Certification	14736
 National Management Systems Certification Scheme	14736
 National Quality Management System Certification	14736
 National Quality Management System Certification Scheme	14736
-National Root Certification Authority	3299,4262,6821
+National Root Certification Authority	3299,4262,6821,5829
+National Root Certification Authority. Government	20211
 National School Certificate	14742
 National Sustainable Tourism Management System Certification	14736
 Nationality Certificate	6115,1529,3070,4701,3183
@@ -1583,6 +1601,7 @@ Naturalization Certificate for Aliens Not Married	18595
 Nature of Business Certificate of Incorp Contact Person	736
 Niamey. Certaines	18118
 Nigeria Begins Sovereign Cloud Certification	10424
+Nigeria's Rule Certification Authority	20082
 Nigeria’s Root Certification Authority	9880
 No. The Birth Certificate	19935
 No. of Data Controller Certification	15716
@@ -1972,6 +1991,8 @@ South Africa. View the Certificate	7210
 Special Certification Requirements	9123
 Special Investment Certificates	17216
 Special Investment Certificates and Export Processing Zone	17228
+Spinster Certificate	20213
+Spinster Certificate D1	20213
 Standard for Certain Canned Citrus Fruits WDUS	19749
 Standard-One Test-One Certificate-Accepted Everywhere	15127
 Standards Association of Zimbabwe SAZ Certification Services	13514

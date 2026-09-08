@@ -2,6 +2,7 @@ ADMINISTRATIVE REGION SENIOR SECONDARY SCHOOL ENROLMENT	18461
 AGRÉMENT ET ENREGISTREMENT Section	10836,4799
 ANS. ENREGISTRER LE NUMÉRO DE LIGNE	13300
 ASSESS ENROLL PROVIDE MANAGE	19237
+Academic Enrolment	20221
 Admissions and Total Enrolment	14775
 Adult Education Enrollment	12411
 Aliens and Naturalization Act. Enrolled	16841
@@ -15,6 +16,7 @@ B ENREGISTREZ TOUT CE QUI EST	13300
 Bangui. Enrolment	1258
 Banque Mondiale Enrôlement	19221
 Bansang School for Enrolled Nurses and Midwives	16896,26
+Becomes First Enrollee	20238
 Bentoumi and Sparkle Executive Director Enrico Bagnasco	3342
 Biometric Enrollment	3478,124
 Biometric Enrolment	3602
@@ -57,6 +59,7 @@ DES FOYERS ENRÔLEMENT BIOMÉTRIQUE ETAT CIVIL	14480
 DGI PRMP Enregistre	10876
 Date Enregistrement	14425
 Designated Enrolment Centres	12085
+Digital ID Enrollment	20221
 Digital Identity Enrollment	16975
 Distribution of Higher Education Enrolment	14775
 DÉCLARÉE ENREGISTREZ	13300
@@ -88,8 +91,8 @@ ENROB. COMP. PELL	15930
 ENROL	11156
 ENROLLMENT	12146
 ENRPN	18779
-Education Education Enrolment Education Completion Human	10837,1315,188,7598
-Education Enrolment	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Education Education Enrolment Education Completion Human	10837,1315,188,7598,274
+Education Enrolment	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 Education Lower Basic Gross Enrolment Ratio	16973
 Empowerment GER Gross Enrolment Rate GIA	18512
 EnDev Energising Development EnR	18316
@@ -172,7 +175,7 @@ Enrollment and Service Provision	12146
 Enrollment for Digital ID	10153
 Enrollment of Liberians	16993
 Enrollments	4291,6521
-Enrolment	1525,1250,2191,608,1648,1906,1691,1105,123,152,157,931,673,31,40,363,353,28,121,20,50,638,241,1007,75,49,1467,17,14,437,631
+Enrolment	1525,1250,2191,608,1648,1906,1691,1105,123,152,157,931,673,31,40,363,353,28,121,20,50,638,241,1007,75,49,1467,17,14,437,631,640,15,20
 Enrolment Confirmation	16902
 Enrolment Education	12356
 Enrolment Infrastructure	11774
@@ -212,7 +215,7 @@ Flash Info Journée Lancement Enrolement Biometrique	19024
 Florencio Chayo Sañaba Services Assistant Enrique	17101
 Fokontany Enregistrement	14480,8,1,1
 GER Gross Enrollment Rate Telecommunications Inc	16942
-GER Gross Enrolment Rate	14916
+GER Gross Enrolment Rate	14916,5301
 GER Gross Enrolment Ratio GGR Gross	14747
 GER Gross Enrolment Ratio GIS Geographical	19542
 GER Gross Enrolment Ratio GNLSA Gambia	16852
@@ -221,6 +224,7 @@ Gender Public and Private School Pupil Enrolment	18460
 General Auditing Commission. Enrolled	16841
 General and Professional Secondary Education Enrollment	12411
 Ghanaians Enrolled	16374
+Girls Enrolment	20217
 Gozem CG Financing. Enregistrée	15780
 Grade Enrolment Pyramid	18460
 Gross Domestic Product GER Gross Enrollment	18765
@@ -230,9 +234,9 @@ Gross Enrollment Rate GHG Greenhouse Gas	17458
 Gross Enrollment Ratio	13314,3122
 Gross Enrollment Ratio Central African	13314
 Gross Enrolment	19760
-Gross Enrolment Rate	12175,24,2717,1936,1608
+Gross Enrolment Rate	12175,24,2717,1936,1608,1757
 Gross Enrolment Rate GESD	12175
-Gross Enrolment Rates	19727
+Gross Enrolment Rates	19727,490
 Gross Enrolment Rates for ECD	12175
 Gross Enrolment Ratio	13991,756,857,2856,1082
 Gross Enrolment Ratio GoSE Government	13960
@@ -257,6 +261,7 @@ JE SOUHAITE ENREGISTRER MON COMPTE MAIS	16629
 Jorge Enrique Celis Giraldo	15059
 LIGIBLES DANS Q.153. ENREGISTREZ LE NUMÉRO	13300
 Learner Enrollment	12411
+Local Enrollment Centers	20221
 Local Government’s National ID Enrolment	11857
 Low ICT Enrolment	14729
 L’onglet Enregistrer	13375
@@ -272,6 +277,7 @@ Mass Enrollment and Renewal Exercise	19714
 Mass Enrolment and Renewal Exercise	1920,7466
 Mauritius. Enrolment	14775
 Mid-Term Review Net Enrollment Ratio Non-Governmental	16436
+NA Enrolment	20214
 NDPA. Enrolment	9670
 NER Net Enrolment Rate	14916
 NIMC Enrols	7141
@@ -386,6 +392,7 @@ TÉ ENREGISTRÉE. JOUR MOIS ANNÉE BCG	13300
 UCP Enregistre	15908
 UPDATE OF MASS ENROLMENT EXERCISE	1920
 University Enrolment1	2775
+Verifier Enroller	20221
 Ward Enrollment Exercise	4291
 Year and Net Enrolment Rate	19542
 Years and Net Enrolment Rate	19542

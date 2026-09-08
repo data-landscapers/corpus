@@ -108,6 +108,7 @@ NIN National Identification Number	11952
 NIN URL	15608
 NIN and BVN	4690,7073,6369
 NIN and BVN-related	11763
+NIN and NASSCO	20199
 NIN and NIC	10822
 NIN and NIMC	7219
 NIN and Power	9600
@@ -116,9 +117,10 @@ NIN-SIM	3862,1383,4243
 NIN-TIN	3955
 NIN-anchored	5267
 NIN-as-a-must	4861
+NIN-based	20200
 NIN-based KYC. In Brazil	7008
 NIN-enabled	4794
-NIN-linked	1681,637,7282,2450,2344
+NIN-linked	1681,637,7282,2450,2344,5803
 NIN-linked SIM	12050
 NIN-record	5215
 NIN. Advertisement Senator Onyewuchi Used Taxpayers	10265
@@ -130,6 +132,7 @@ NIN. Clé	15608
 NIN. Entités	15608
 NIN. Every	6435
 NIN. Local Government	12049
+NIN. Most Ugandans	20200
 NIN. Nigeria’s Teledensity	3862
 NIN. Once	7314,594
 NIN. Prior	10822
@@ -152,7 +155,7 @@ NINACAD. Art.17	17837
 NINACAD. Identification	17837
 NINACAD. Toute	17837
 NINAs. Increasing NINA	17870
-NINAuth	2805,2056,423
+NINAuth	2805,2056,423,14913,2
 NINE-STARLINK	2556
 NINE-Starlink. Cette	2801
 NINEA	2356,15935,74
@@ -174,6 +177,7 @@ Nails Nina Cherone MATOUNGOU	16381
 National Civil Registration Authority NIN National	18531
 National Financial Inclusion Strategy NINA Numéro	17870
 National Identification Card NIN National Identification	12328
+National Identity Number NIN	20082
 Neomie Nina Belandrine	15901
 Nigerians. Mobile NIN	5267
 Nigerians. The NIN	4120
@@ -298,6 +302,7 @@ Six Seven Eight Nine	19715
 Sixteen Million Nine Hundred and Eighty-Eight Thousand	12982
 State-level NIN	12050
 Structure Nine	976
+Structured NIN	20221
 Superior FP Secundaria Primaria Ninguno Hechos	16962
 System MOU Memorandum of Understanding NIN National	19647
 TIN and NIN	4602

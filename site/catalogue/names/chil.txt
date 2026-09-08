@@ -167,15 +167,16 @@ Changing Space of Child Privacy	11400
 Characteristics of Children	19715
 Chief Child Protection	11915
 Chief of Child Protection	17070
+Chil Group	20081
 Chilakalaka	7880
 Chilala	13477
 Chilamo Sinkala Social Safeguards Consultant	13392
 Chilanga	5522,8101
 Chilaule Angela da Silva Luis Rego Zauria	2989
-Child	21,5,1,555,189,201,239,386,41,350,1595,1000,1809,554,201,836,112,281,228,1162,28,16,949,6,10,44,10,6,2,1,43,87,49,11,43,346,190,158,105,16,1,1,1,16,2,70,176,1,9,25,26,3,36,74,10,3,1,11,1,14,6,10,19,3,54,27,2,8,159,17,57,199,11,38,28,35,57,51,147,51,128,34,68,105,281,49,20,118,1,592,99,21,12,15,7,11,4,125,170,38,88,42,41,189,121,462,393,5,275,14,13,63,1,7,13,143,13,101,61,7,34,411,193,436,71,17,139,1,26,1,1,12,274,25,297,50,239,8,10,3,108,1,31,31,107,13,1,22,1,28,15,22,9,5,1,35,13
+Child	21,5,1,555,189,201,239,386,41,350,1595,1000,1809,554,201,836,112,281,228,1162,28,16,949,6,10,44,10,6,2,1,43,87,49,11,43,346,190,158,105,16,1,1,1,16,2,70,176,1,9,25,26,3,36,74,10,3,1,11,1,14,6,10,19,3,54,27,2,8,159,17,57,199,11,38,28,35,57,51,147,51,128,34,68,105,281,49,20,118,1,592,99,21,12,15,7,11,4,125,170,38,88,42,41,189,121,462,393,5,275,14,13,63,1,7,13,143,13,101,61,7,34,411,193,436,71,17,139,1,26,1,1,12,274,25,297,50,239,8,10,3,108,1,31,31,107,13,1,22,1,28,15,22,9,5,1,35,13,225,9
 Child Act	3583,11669,352,2994
 Child Act No	19531
-Child Allowance	14742,93
+Child Allowance	14742,93,5386
 Child Allowance of Rs	14742
 Child Bearing	19715
 Child CRC-OP-AC	14742
@@ -383,7 +384,7 @@ Childline Kenya	8050
 Childline Kenya Data Controller INST-176101095E1 NAIROBI	7167
 Childline Kenya Facebook	8050
 Childline Zimbabwe	9794
-Children	1,581,418,220,594,282,422,30,227,932,594,147,188,306,40,243,1118,177,272,154,221,381,502,525,75,214,379,543,8,547,64,299,125,25,110,107,144,70,115,17,143,88,110,97,50,72,161,13,24,13,14,51,74,1,45,5,5,19,3,26,9,56,122,50,223,68,4,1,13,85,33,2,111,79,133,5,45,211,178,89,43,8,32,14,22,675,4,141,9,11,15,292,15,15,3,85,186,86,57,2,590,347,197,55,8,14,9,4,9,6,19,1,28,2,6,13,4,68,13,13,45,13,12,150,7,475,98,368,133,71,2,34,120,30,16,202,67,322,50,171,74,2,13,171,6,20,19,75,5,47,33,15
+Children	1,581,418,220,594,282,422,30,227,932,594,147,188,306,40,243,1118,177,272,154,221,381,502,525,75,214,379,543,8,547,64,299,125,25,110,107,144,70,115,17,143,88,110,97,50,72,161,13,24,13,14,51,74,1,45,5,5,19,3,26,9,56,122,50,223,68,4,1,13,85,33,2,111,79,133,5,45,211,178,89,43,8,32,14,22,675,4,141,9,11,15,292,15,15,3,85,186,86,57,2,590,347,197,55,8,14,9,4,9,6,19,1,28,2,6,13,4,68,13,13,45,13,12,150,7,475,98,368,133,71,2,34,120,30,16,202,67,322,50,171,74,2,13,171,6,20,19,75,5,47,33,15,139,123,24
 Children AND Social Welfare	16951
 Children Act	8948,5487,58,4425
 Children Age	12151
@@ -420,7 +421,7 @@ Children With Disability	19715
 Children and Adolescents	11469,1990,2984
 Children and Persons	11285
 Children and Social	16872,79
-Children and Social Protection	2548,1788,1812,6581,52,3078,19,375,607,90,10,167,130,39,15,2631,23
+Children and Social Protection	2548,1788,1812,6581,52,3078,19,375,607,90,10,167,130,39,15,2631,23,215
 Children and Social Protection Actionable Issue	16872
 Children and Social Protection MoJ	5244
 Children and Social Protection and GIZ	16101
@@ -436,7 +437,7 @@ Children and Youth Today	15604
 Children of Africans Act	13285
 Children of God Relief Institute Data Processor	7167
 Children of South African	11977
-Children's Act	8864,930,1383,800,662,647,1456
+Children's Act	8864,930,1383,800,662,647,1456,5479
 Children's Act. The Births and Deaths Registration	12597
 Children's Act. Zanzibar	11133
 Children's Act. Zanzibar. Available	11133
@@ -453,7 +454,7 @@ Children's Fund	13990,4149
 Children's Fund UN Unified Social Registry	11855
 Children's Fund UNIDO United Nations Industrial	17105
 Children's Fund UNISFA United Nations Interim	18668
-Children's Fund UNU-WIDER United Nations University	11889
+Children's Fund UNU-WIDER United Nations University	11889,8323
 Children's Fund UNWOMEN United Nations Entity	13312,2
 Children's IGF	9648
 Children's Institute	11977
@@ -612,7 +613,7 @@ Directorate for Maternal and Child Health Department	18370
 Directorate of Child Welfare Services	12327
 Directorate of Children Services	9083
 Disable Undisable Child Nutrition Health	15244
-Diseases Child	10837,1315,188,7598
+Diseases Child	10837,1315,188,7598,274
 Disposal of Children’s Stools	15247
 District Households Women Men Children	18441
 Dr. Michael Chilala	13477
@@ -624,7 +625,7 @@ E. Early Childhood Development	16860
 E.A.P.C Archers Child Development Centre Data	7167
 EARLY CHILDHOOD CARE DEVELOPMENT AND EDUCATION	12975
 ECCED Early Childhood Care Education and Development	12975
-ECD Early Childhood Development	14038
+ECD Early Childhood Development	14038,6179
 ECD Early Childhood Development ECE Early	11560
 ECD Early Childhood Development EP&D Economic	12964
 ECD Early Childhood Development ESMF Environmental	18104
@@ -644,7 +645,7 @@ Early Childhood Care and Education	7845,5077,53,1015
 Early Childhood Care and Education Authority	7845,7002
 Early Childhood Care and Education Authority Act	7845,6983,3
 Early Childhood Centres	18496
-Early Childhood Development	3604,7588,53,930,183,25,28,552,167,157,23,680,102,830,1930,59,194,180,1175,1197
+Early Childhood Development	3604,7588,53,930,183,25,28,552,167,157,23,680,102,830,1930,59,194,180,1175,1197,560
 Early Childhood Development Centres	11224,753
 Early Childhood Development Curriculum	18606
 Early Childhood Development ECE	12175
@@ -723,6 +724,7 @@ Female Male Child Nutrition Health	15244
 Finance MoGCA Ministry of Gender and Children’s Affairs	18512
 Financing of Terrorism CGP Child Grant Payments	12663
 Food and Nutrition. United Nations Children’s Fund	17127
+Founder and CEO of Chil Group	20081
 Framework ECD Early Childhood Development ED	13310
 Freedom Minutes and Chillax Bundles. Spectrum	19728
 Fund UNICEF United Nation Children’s Fund	16927
@@ -775,7 +777,7 @@ Human Beings Especially Children and Women	16874
 Hunger Child	15244
 ID for All The United Nations Children	6807
 ID. Children	19927
-IGME United Nations Inter-agency Group for Child	10759,76,2,1,130,902,16,3,451,12,1,135,7334
+IGME United Nations Inter-agency Group for Child	10759,76,2,1,130,902,16,3,451,12,1,135,7334,390
 III. ACRONYMS AND ABBREVIATIONS CP Child	12939
 ILO’s Worst Forms of Child Labor Convention	16972
 IMCI Digital Integrated Management of Childhood Illness	17289
@@ -1167,6 +1169,7 @@ Senior Adviser Child Protection	12337
 Separated and Unaccompanied Children	16874
 Sergent-Chef Major NGOMA DICKARADOH Childeric. SECRETARIAT	16099
 Services Child Nutrition Northern	15244
+Services and Opportunities Children	20221
 Sex and Age of Children	19715
 Sierra Leone. The Ministry of Gender and Children	18477
 Sister. Child	1638

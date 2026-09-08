@@ -24,6 +24,7 @@ ALGOTECH LABS LIMITED Data Controller INST-91344183B95	7167
 ALIS and LabExpert	4217
 ANID and IPA for Data Lab	19242
 ANSARI MEDICAL CLINIC AND LABORATORY Data	7167
+APNIC Labs	20159
 APPOINTMENT OF LABOUR COURT JUDGES	13504
 AVERAGE AMOUNT PAY TO HIRED LABOR	17043
 Abdelouahab Labiod	15467
@@ -51,6 +52,7 @@ Africa AI Policy Lab and Lawyers Hub	6937
 Africa Gender Innovation Lab	3604,11997
 Africa's AI Lab and Responsible AI Champion	1204
 African Public Health Laboratories	13430
+African Society for Laboratory Medicine	20163
 African Society of Laboratory Medicine	16971
 African Tech Futures Lab	4964
 Afrigadget Labs Limited Data Processor INST-886059DDB1D	7167
@@ -98,7 +100,7 @@ BIPM. Laboratory Accreditation The Metrology Unit	14736
 BIS Innovation Lab	4848
 Bachelor of Medical Laboratory Science	13078
 Bahi DC Laboratories	19585
-Banking Services Labour Relations Secure Employment	10759,78,1315,188,7598
+Banking Services Labour Relations Secure Employment	10759,78,1315,188,7598,274
 Beijing Zhongguancun Laboratory	8277
 Benin Labour Market Profile	16144
 Beyond Cell C Blu Label	11159
@@ -286,12 +288,13 @@ Density and Viscosity Lab	19712
 Department of Employment and Labour	5533,1299,4448,809,779
 Department of Employment and Labour DHET	6832
 Department of Labor's Findings	19655
-Department of Labour	11285,5602
+Department of Labour	11285,5602,3343
 Department of Labour Relations and Regulation Mrs. Sandra	19049
 Department of Labour Services	12253
 Department of Labour and Social Security	12597
 Department. Financial Technology Lab	13559
 Deposit Labilities Concentration	17236
+Deprecated Authentication Labels URL	20118
 Description National Laboratory Quality Policy	11417
 Develop and Implement Labour Management Procedure	1988
 Developing Digitally Skilled Labor Human	17870
@@ -329,6 +332,7 @@ Director General of Laboratory and Diagnostic	18737
 Director Health Promotion and Research Director Laboratory	14773
 Directorate-General for Labour	10823
 Direito Laboral	15772
+Disruptive Lab	20227
 Division LIMS Laboratory Information Management System	14773
 Djibouti Economic Monitor Labor Market Structure	11271
 Dock Labs	6499,44,465,56,47,32
@@ -402,7 +406,7 @@ Eswatini Health Laboratory Services	12976
 Etat L’AI Lab	19336
 Eugénio César Laborinho	11678
 European Review of Labour and Research	226
-Evaluation ILO International Labour Organization IMF	10759,78,1052,451,7598
+Evaluation ILO International Labour Organization IMF	10759,78,1052,451,7598,274
 Evidence Laboratoire de Criminalistique Numérique	10911
 Example RUNA LABS	14524
 Expérimentation Labs	16693
@@ -418,7 +422,7 @@ FOOD AND AGRICULTURE LABORATORY	14736
 FOOD AND AGRICULTURE LABORATORY The Food	14736
 FOOD MICROBIOLOGY LABORATORY	14736
 FOOD MICROBIOLOGY LABORATORY The Food Microbiology	14736
-Fab Lab	10834,3732
+Fab Lab	10834,3732,5546
 Fab Labs	10834,3732,186,4782
 Fab Labs and Innovation	10834
 Fab Labs and Innovation Hubs	10834
@@ -454,8 +458,8 @@ Forced Labor Any	1988
 Forced Labor Declaration	14576
 Forced Labor Gender-Based Violence	1988
 Forced Labor Performance Declaration	14576
-Forced Labour	1988,8771,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,2254,4910,1,169,14,22,1,65,14,1,48
-Forced Labour Absence of Crime Public Perception	10759,78,1315,188,7598
+Forced Labour	1988,8771,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,2254,4910,1,169,14,22,1,65,14,1,48,225
+Forced Labour Absence of Crime Public Perception	10759,78,1315,188,7598,274
 Forced Labour Convention	14011,731
 Forced Labour Public Perception of Inclusion	10759
 Forced Labour Rights	10835,3,130,902,16,466,1,135,7334
@@ -489,7 +493,7 @@ GT LAB	15911
 GT LAB Face	15911
 GT LAB de Moov Africa Gabon Telecom	15911
 GUIDELINES Laboratory Information Management System	34
-Gambia Labour Force Survey	8362,97,8485
+Gambia Labour Force Survey	8362,97,8485,3286
 Gender Income Age Labor Force Participation	1828
 Gender Innovation Lab	15658,2191
 Gender Innovation Lab Policy Brief No	10964
@@ -643,7 +647,8 @@ International Laboratory Accreditation Cooperation	13320,1494
 International Labour Conference	6612,1
 International Labour Day	14869
 International Labour Office	6612,4217,4309
-International Labour Organisation	6652,1807,3077,1386,467,951,402,90,1069,2912,172,170
+International Labour Organisation	6652,1807,3077,1386,467,951,402,90,1069,2912,172,170,1075
+International Labour Organisation Convention	20230
 International Labour Organisation ILO Technical	19613
 International Labour Organisation. ILO	15604
 International Labour Organisation. Statistics	12376
@@ -660,6 +665,7 @@ Internet Protocol Multi-Protocol Label Switching	15621
 Interviews Labour	12253
 Introduction The Quarterly Labour Force Survey	11296
 IoT Lab	3604,15641
+Islamic Labor Center	20111
 Ivoire Gov Tech Lab	8516
 Ivoire GovTech Lab	9291
 JSE-listed Blu Label Unlimited	11159
@@ -674,7 +680,7 @@ Joint Innovation Labs	4528
 Joint Labour Migration Programme	16874
 Justice and Labour Relations Minister Fillemon Wise	13146
 Justice and Labour Relations Written	13037
-KNUST Responsible AI Lab	5935
+KNUST Responsible AI Lab	5935,14247
 KNUST Responsible AI Laboratory	4126
 KNUST and MinoHealth AI Labs	4126
 KNUST's Responsible AI Lab	5227
@@ -738,13 +744,14 @@ LABOUR AND SOCIAL DEVELOPMENT Uganda	19685
 LABOUR AND SOCIAL WELFARE	13420
 LABOUR AND SOCIAL WELFARE APPROPRIATION ACCOUNT	13420
 LABOUR COURT	13504
-LABOUR ENVIRONMENT	10759,76,2,1,130,902,16,2,1,263,1,10,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+LABOUR ENVIRONMENT	10759,76,2,1,130,902,16,2,1,263,1,10,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 LABOUR ENVIRONMENT HEALTH Rank	10835
+LABOUR ENVIRONMENT INFRASTRUCTURE RURAL ECONOMY WOMEN'S	20212
 LABOUR ENVIRONMENT INFRASTRUCTURE RURAL ECONOMY WOMEN’S	10837,1503,7598
 LABOUR ENVIRONMENT Impartiality	10835,3,130,902,16,466,1,135,7334
 LABOUR ENVIRONMENT Judicial Processes	10835,3,130,902,16,466,1,135,7334
-LABOUR ENVIRONMENT Rank	10759,78,1049,454,7598
-LABOUR ENVIRONMENT Regional Integration	10759,78,1052,451,7598
+LABOUR ENVIRONMENT Rank	10759,78,1049,454,7598,274
+LABOUR ENVIRONMENT Regional Integration	10759,78,1052,451,7598,274
 LABOUR EXPORT	12746
 LABOUR FORCE CHARACTERISTICS	19715
 LABOUR HEALTH PARTICIPATION ENVIRONMENT Rank	11870
@@ -856,7 +863,7 @@ Labone Limited	3386
 Labone Prestige Centre	11020
 Labont	3791
 Labonté R	3791
-Labor	1284,704,1616,7159,83,16,107,7,9,19,136,734,7,1,2,1,10,10,60,6,188,1,44,1,124,17,5,4,34,7,3,46,42,268,209,559,1374,100,88,433,35,48,659,124,449,93,9,37,24,4,11,32,56,149,4,1049,69,427,12,29,446,357,14,20,60,90,10,12,15,3,130
+Labor	1284,704,1616,7159,83,16,107,7,9,19,136,734,7,1,2,1,10,10,60,6,188,1,44,1,124,17,5,4,34,7,3,46,42,268,209,559,1374,100,88,433,35,48,659,124,449,93,9,37,24,4,11,32,56,149,4,1049,69,427,12,29,446,357,14,20,60,90,10,12,15,3,130,116
 Labor Act	16951
 Labor Cases	16949
 Labor Climate Change and Disaster Screening	11855
@@ -980,7 +987,7 @@ Laboratorio Bromatológico de Malabo	4209
 Laboratorio Criminalístico	4209
 Laboratorio Subsector de Correos	4209
 Laboratorios de Informática	16920
-Laboratory	1988,489,1740,3771,2200,1724,178,163,126,600,58,283,41,24,7,1344,470,583,170,265,676,71,318,2255,168,26
+Laboratory	1988,489,1740,3771,2200,1724,178,163,126,600,58,283,41,24,7,1344,470,583,170,265,676,71,318,2255,168,26,425
 Laboratory Accreditation Number	13068
 Laboratory Authority GCLA Government	19584
 Laboratory Auxiliary Cadre	14742
@@ -1053,8 +1060,8 @@ Laboria Park Parliamentary Village	11285
 Laborinho	9399
 Laborpresse.net	7800
 Laboua	15623
-Labour	236,1752,1995,1261,1408,180,270,339,107,241,147,523,1854,967,16,285,375,254,43,163,37,144,294,31,1,16,17,16,151,222,694,59,311,185,125,25,71,17,19,45,39,183,1725,42,88,141,35,1329,62,411,26,542,12,53,29,24,170
-Labour Act	3714,9206,117,152,98,24,159,1345,17,2042,13,64,437,1273
+Labour	236,1752,1995,1261,1408,180,270,339,107,241,147,523,1854,967,16,285,375,254,43,163,37,144,294,31,1,16,17,16,151,222,694,59,311,185,125,25,71,17,19,45,39,183,1725,42,88,141,35,1329,62,411,26,542,12,53,29,24,170,423
+Labour Act	3714,9206,117,152,98,24,159,1345,17,2042,13,64,437,1273,1569
 Labour Activation Programme	12089
 Labour Amendment Act	13391
 Labour Applications and Reviews	12920
@@ -1075,9 +1082,9 @@ Labour Digital Skill Development Methodology Programme	4359
 Labour Disruptions and Economic Impact	12210
 Labour Division	14742,28
 Labour Efficiency	2957,7758
-Labour Environment	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Labour Environment	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 Labour Environment Infrastructure Rural Economy Health	10759
-Labour Environment Infrastructure Rural Economy Human	10837,1315,188,7598
+Labour Environment Infrastructure Rural Economy Human	10837,1315,188,7598,274
 Labour Environment Rank	11889
 Labour Environment. Regional Integration	11887
 Labour Force	11296,1304,2215,17,4781,102
@@ -1121,7 +1128,7 @@ Labour Management Procedures MoA Ministry of Agriculture	1988
 Labour Market	6832,116,5649,2137,81,17,4781
 Labour Market Employees	12445
 Labour Market Indicators	19519
-Labour Market Information System	5652,881,4119,1060,900,448,97,1106,1341,1270,11
+Labour Market Information System	5652,881,4119,1060,900,448,97,1106,1341,1270,11,3297
 Labour Market Information Tnz Sida	148
 Labour Market Intelligence	11712,8095
 Labour Market Intelligence MICT SETA	6832
@@ -1131,6 +1138,7 @@ Labour Market Panel EMIS Education Management	15604
 Labour Market Services First Published	13037
 Labour Market Strategies	14829
 Labour Market Trends	11581
+Labour Market and Migration Information System	20230
 Labour Matters	14476
 Labour Migration	13060,3814
 Labour Migration Action Plan	10324
@@ -1148,7 +1156,7 @@ Labour Organization IMB Information	17105
 Labour Organization IMF International Monetary Fund	10835,3,130,902,16,466,1,135,7334
 Labour Organization LAPF LAPF Pensions Fund	19531
 Labour Prioritise	12253
-Labour Relations	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Labour Relations	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 Labour Relations Act	11182,98
 Labour Research SA	11986
 Labour Scarcity and Mechanization	14818
@@ -1196,7 +1204,7 @@ Labourers	12253
 Labourforce Survey Annual Report	14935
 Labrecque G	19974
 Labrique	10881,1498
-Labrique AB	1219
+Labrique AB	1219,19000
 Labrique&author	1219
 LabriqueABVasudevanLKochiEFabricantRMehlG. Mhealth	12246
 Labuschagne	8130,5127
@@ -1308,9 +1316,11 @@ Ministers of Home Affairs and Employment and Labour	11280
 Ministers of Labour and Education	11179
 Ministers of Labour and Employment	14039,735
 Ministries of Education and Labor	13931
+Ministries of Health and Laboratory Leaders	20163
 Ministries of Labour	12746
 Ministry Ministry of Labour	7548
 Ministry of Development Labour	7548
+Ministry of Employment and Labour Relations	20182
 Ministry of Gender Labor and Social Development	3005
 Ministry of Gender Labour and Social Development	19641,166
 Ministry of Justice and Labour Relations	13037
@@ -1414,6 +1424,7 @@ National Laboratory Association	14736
 National Laboratory Data Repository	4922,14816
 National Laboratory Equipment Calibration Center	4301
 National Laboratory Information System	4349
+National Laboratory Network	20172
 National Laboratory Quality Policy	11417
 National Laboratory Strategic Plan	17365
 National Labour AI Competency Framework for Civil	4126

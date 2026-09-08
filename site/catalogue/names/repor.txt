@@ -165,6 +165,7 @@ Accounting and Reporting	16944,1544,12,77
 Accounting and Reporting The Accountant General’s Department	18488
 Accreditation Reports K09	15604
 Accurate Reporting	10984,1516
+Acknowledgment This Education Statistics Summary Report	20217
 Acquisition of Electronic Catch Reporting System	14830
 Acronyms UNDP Malawi Quarterly Progress Report	13080
 Acronyms and Abbreviations AIR Annual Implementation Report	15604
@@ -309,7 +310,7 @@ Annual Performance Report. Officials	8469
 Annual Progress Report	6508,10597
 Annual Progress Reports	12453,524,368
 Annual Public Report	4528,7984
-Annual Report	236,482,167,76,193,55,140,28,1,6,170,274,1461,294,1313,333,643,1064,2,8,258,135,209,215,488,263,560,1690,102,272,59,27,6,20,82,254,76,59,234,39,76,162,13,26,44,10,12,62,101,51,123,246,31,2,144,66,521,374,352,54,29,243,2,4,2,1,1,14,1,7,5,62,32,24,106,123,10,491,118,200,901,11,91,31,5,59,198,54,581,564,10,77,55,85,232,86,122,12,421,51,419
+Annual Report	236,482,167,76,193,55,140,28,1,6,170,274,1461,294,1313,333,643,1064,2,8,258,135,209,215,488,263,560,1690,102,272,59,27,6,20,82,254,76,59,234,39,76,162,13,26,44,10,12,62,101,51,123,246,31,2,144,66,521,374,352,54,29,243,2,4,2,1,1,14,1,7,5,62,32,24,106,123,10,491,118,200,901,11,91,31,5,59,198,54,581,564,10,77,55,85,232,86,122,12,421,51,419,172,2
 Annual Report Between	16886
 Annual Report Building Brighter Futures	12552
 Annual Report Classification	16941
@@ -773,7 +774,7 @@ Corporate Governance Report	14736
 Corporate Governance Report for Mauritius STATEMENT	14736
 Corporate Reporting	2518
 Corruption Reporting System	14068
-Cost of Living Report	8398
+Cost of Living Report	8398,11657
 Cote D'Ivoire Report.pdf	10920
 Council Inaccurate Reporting of Loan Recovery	19585
 Council's Audit Committee Charter. Financial Reporting	1554
@@ -791,6 +792,7 @@ Country Office Annual Report	16942
 Country Procurement Assessment Report	15372
 Country Proﬁle Report	12674
 Country Report	1226,9754,1695,2176,628,2365,123,217,107,1697
+Country Report Digital Cooperation Organization	20224
 Country Report No	1828,15381
 Country Report URL	13733,2193,2041,217
 Country Report. Mogadishu	15129
@@ -935,6 +937,7 @@ Diagnostic Report. Manila	11310
 Diagnostic Reports Privacy Controls Clinical	2477
 Diagnostic Study Report	13938
 Digital Africa Report	19245
+Digital Case Management System for Evidence-Based Reporting	20222
 Digital Credit Audit Report	12227
 Digital Defense Report	8711
 Digital Dividends. World Development Report	13312,2,2160
@@ -1022,6 +1025,7 @@ EB Project Progress Reports Supervision	11863
 ECC Report	12949,1876
 ECONOMIC DASHBOARD By Zambanker Reporter Annual	13532
 EDUCATION INFORMATION REPORTING	13310
+EDUCATION STATISTICS SUMMARY REPORT	20217
 EFT Reporter	12422
 EIA Reports	14742
 EICV5. Thematic Report Education. Kigali	12413
@@ -1087,6 +1091,8 @@ Education Sector Performance Report FCDO	12175
 Education Sector Performance Report. Ministry of Education	12175,1034
 Education Sector Performance Reports	12175
 Education Statistics Reports	12175
+Education Statistics Summary Report	20217
+Education Statistics Summary Report. Special	20217
 Egypt Country Climate and Development Report	19855
 Egypt Country Report.66	15473
 Egypt’s AI Readiness Assessment Report	16046
@@ -1217,6 +1223,7 @@ Fieldwork And Reporting	12409
 Fifteenth School Day Reports	12345
 Fifth Assessment Report	19520
 Fifth Periodic Report of Mauritius	14839
+File Police Report	20221
 Files By Central News Reporter	5597
 FinAccess Household Survey Reporthttps	7548
 FinSurv Reporting System	8840
@@ -1530,6 +1537,7 @@ Humanitarian Situation Report No	12188
 I Report	4301
 I-2.1 Status Report-Country Reports.pdf	13733
 I.9 DATA ANALYSIS AND REPORT WRITING	15574
+IANA Numbering Services Review Committee Report	20136,51
 ICASA’s Report	1013
 ICC Trade Register Report	10718
 ICCA-IBA Task Force Report	2806
@@ -1725,6 +1733,7 @@ Indonesian PayLater User Behavior Report	11994
 Industrial Development Report	7548
 Industry Financial Report	3862
 Industry Fraud Report	11138
+Industry Fraud Reporting Portal	20198
 Industry Report	1264,3968,265,2643,34,340,239,2103,148,136,854,1458,1995,33
 Infections Kenya Vital Statistics Report	12151
 Informal Settlements Baseline Report	13118
@@ -2152,6 +2161,7 @@ Must Be Reported	11685
 Must Report	11685
 Mutual Evaluation Report	13868,148,981
 Mutual Evaluation Report URL	14016
+NA Reporting	20214
 NABII Report	12376
 NATIONAL ANALYTICAL REPORT	12431
 NATIONAL ANALYTICAL REPORT Figure	12431
@@ -2203,6 +2213,7 @@ Namibian Dollar Telecommunication Sector Market Report	1013
 National Accounting and Financial Reporting System	11955
 National Analytical Report	12431
 National Assembly. The Annual Report	14736
+National Audit Office's Performance Audit Report	20226
 National Bank of Rwanda CREDIT REPORTING SYSTEM	15023
 National Cancer Taskforce Report	7548
 National Consultation Report	12550
@@ -2455,7 +2466,7 @@ Policy Report	12214
 Policy Research Report. New York	11149
 Policy SEIAS Report	11986
 Policy. Reports	16852
-Political Terror Scale RSF Reporters	10759,78,1052,451
+Political Terror Scale RSF Reporters	10759,78,1052,451,7872
 Population Census Preliminary Report	11905
 Population Projections Report. National Statistics Office	12175
 Population and Housing Census Main Report	12963,155
@@ -2754,6 +2765,7 @@ RITA Reports	19541
 RITA's Monitoring and Evaluation Report	19541
 ROSC Report	18825
 ROUTINE FACILITY REPORTING SYSTEM WITH PATIENT	16892
+RPW main report and annex Q325.pdf Covers	20210
 RRA Annual Report MINALOC MINECOFIN Own	14935
 RRA Report	13418
 RRA Reports	13418
@@ -2811,7 +2823,7 @@ Related Data Found Publications and Reports	11935
 Related Report	1250
 Remuneration Report	7204
 Repor	16944
-Report	171,55,10,23,320,3,4,198,115,41,21,1,257,18,6,7,14,290,74,58,18,73,32,9,20,106,44,303,16,27,8,131,22,232,48,250,26,111,294,92,35,95,36,46,152,60,5,150,155,3,72,262,34,23,100,85,22,13,76,272,119,235,77,5,203,30,318,1,148,28,24,9,69,78,83,123,38,114,32,173,47,254,96,25,190,14,123,36,50,348,151,121,105,177,9,128,42,61,77,165,59,8,302,22,11,277,14,93,1,61,95,38,39,40,36,255,42,1,1,10,1,46,7,11,1,29,8,59,26,22,32,11,103,3,22,39,2,14,7,6,26,9,6,20,1,3,43,137,77,4,2,11,9,81,148,54,2,5,1,6,36,13,6,31,1,8,20,4,10,10,130,13,24,1,25,9,4,6,7,13,1,10,2,48,15,6,3,2,9,31,21,15,9,3,11,9,1,8,1,8,47,169,5,64,10,139,6,12,15,19,7,5,11,2,8,5,28,35,14,26,31,7,4,104,3,58,23,1,1,2,1,16,14,1,35,6,5,28,23,9,3,6,11,21,19,11,43,40,33,5,143,50,23,25,72,18,14,2,17,7,7,99,155,159,111,7,23,90,57,11,2,2,4,3,1,2,10,3,12,4,9,7,25,1,16,8,1,14,30,5,4,35,3,19,11,1,27,4,37,29,57,9,34,1,80,128,43,9,23,27,6,11,2,20,1,36,33,26,12,42,48,14,176,4,64,30,48,97,43,106,91,52,164,26,28,21,157,11,15,3,2,9,4,7,2,42,15,5,3,18,2,1,7,18,41,6,56,15,5,17,3,1,27,13,39,16,1,24,25,4,3,25,6,1,43,37,37,26,3,400,36,56,70,262,6,5,4,50,11,4,63,5,2,11,1,5,1,14,2,5,5,44,24,69,32,4,4,41,71,32,16,15,11,82,16,149,15,126,3,159,6,48,64,1,6,8,7,3,11,20,56,26,3,3,52,61,25,49,37,34,67,2,12,2
+Report	171,55,10,23,320,3,4,198,115,41,21,1,257,18,6,7,14,290,74,58,18,73,32,9,20,106,44,303,16,27,8,131,22,232,48,250,26,111,294,92,35,95,36,46,152,60,5,150,155,3,72,262,34,23,100,85,22,13,76,272,119,235,77,5,203,30,318,1,148,28,24,9,69,78,83,123,38,114,32,173,47,254,96,25,190,14,123,36,50,348,151,121,105,177,9,128,42,61,77,165,59,8,302,22,11,277,14,93,1,61,95,38,39,40,36,255,42,1,1,10,1,46,7,11,1,29,8,59,26,22,32,11,103,3,22,39,2,14,7,6,26,9,6,20,1,3,43,137,77,4,2,11,9,81,148,54,2,5,1,6,36,13,6,31,1,8,20,4,10,10,130,13,24,1,25,9,4,6,7,13,1,10,2,48,15,6,3,2,9,31,21,15,9,3,11,9,1,8,1,8,47,169,5,64,10,139,6,12,15,19,7,5,11,2,8,5,28,35,14,26,31,7,4,104,3,58,23,1,1,2,1,16,14,1,35,6,5,28,23,9,3,6,11,21,19,11,43,40,33,5,143,50,23,25,72,18,14,2,17,7,7,99,155,159,111,7,23,90,57,11,2,2,4,3,1,2,10,3,12,4,9,7,25,1,16,8,1,14,30,5,4,35,3,19,11,1,27,4,37,29,57,9,34,1,80,128,43,9,23,27,6,11,2,20,1,36,33,26,12,42,48,14,176,4,64,30,48,97,43,106,91,52,164,26,28,21,157,11,15,3,2,9,4,7,2,42,15,5,3,18,2,1,7,18,41,6,56,15,5,17,3,1,27,13,39,16,1,24,25,4,3,25,6,1,43,37,37,26,3,400,36,56,70,262,6,5,4,50,11,4,63,5,2,11,1,5,1,14,2,5,5,44,24,69,32,4,4,41,71,32,16,15,11,82,16,149,15,126,3,159,6,48,64,1,6,8,7,3,11,20,56,26,3,3,52,61,25,49,37,34,67,2,12,2,157,63
 Report ACCOUNTABILITY Code of Conduct	1988
 Report About CBE Performance Highlights Governor	11131
 Report Access The Nigerian Innovation Hub	12053
@@ -3059,7 +3071,7 @@ Reported Victims Surge	9815
 Reported. A Pre	11233
 Reported. Unless the Reporting Financial Institution	11233
 Reportedly	16996
-Reporter	3154,2579,1000,1914,1049,323,610,1,1592,298,145,10,2090,4461
+Reporter	3154,2579,1000,1914,1049,323,610,1,1592,298,145,10,2090,4461,878
 Reporter DJIBOUTI	17593
 Reporter Ethiopia	5248,970
 Reporter Lesotho	14198
@@ -3072,10 +3084,10 @@ Reporters Sans Fronti	15342
 Reporters Sans Frontières	13325
 Reporters Sans Frontières VR	13325
 Reporters Without	5215
-Reporters Without Borders	9082,597,1080,76,2,1,130,723,179,16,1,2,264,1,9,177,1,11,1,135,1441,185,893,2943,408,1295,169,36,1
+Reporters Without Borders	9082,597,1080,76,2,1,130,723,179,16,1,2,264,1,9,177,1,11,1,135,1441,185,893,2943,408,1295,169,36,1,353
 Reporters Without Borders World Press Freedom	15553
 Reporters Without Borders. Thanks	18358
-Reporting	540,231,249,264,454,40,36,14,129,31,2,238,200,416,237,10,33,345,169,40,36,147,196,69,212,61,118,65,28,145,377,496,27,151,486,140,197,302,9,7,31,8,218,344,152,350,77,174,146,149,74,83,350,26,202,62,6,370,25,13,350,216,412,44,182,91,79,52,19,10,36,287,216,104,35,12,32,2,22,135,113,80,29,9,70,72,26,132,19,61,5,200,18,13,63,32,205,41,50,185,372,456,55,152,135,24,20,48,3,7,29,26,28,2,22,121,15,43,6,2,32,36,6,38,98,136,318,105,4,31,905,1,1,7,39,37,1,16,6,2,12,8,7,90,31,15,3,25,14,1,94,36,597,215,61,310,5,13,16,73,291,57,9,51,22,79,15,418,1,38,6,7,70,26,30,74,217
+Reporting	540,231,249,264,454,40,36,14,129,31,2,238,200,416,237,10,33,345,169,40,36,147,196,69,212,61,118,65,28,145,377,496,27,151,486,140,197,302,9,7,31,8,218,344,152,350,77,174,146,149,74,83,350,26,202,62,6,370,25,13,350,216,412,44,182,91,79,52,19,10,36,287,216,104,35,12,32,2,22,135,113,80,29,9,70,72,26,132,19,61,5,200,18,13,63,32,205,41,50,185,372,456,55,152,135,24,20,48,3,7,29,26,28,2,22,121,15,43,6,2,32,36,6,38,98,136,318,105,4,31,905,1,1,7,39,37,1,16,6,2,12,8,7,90,31,15,3,25,14,1,94,36,597,215,61,310,5,13,16,73,291,57,9,51,22,79,15,418,1,38,6,7,70,26,30,74,217,232
 Reporting A. Telecommunications Service Providers	4610
 Reporting ASC	16722
 Reporting Accountability Timely	13310
@@ -3260,7 +3272,7 @@ Respondents Who Reported Status of Partnership	19555
 Restructuring Paper Report	14971
 Restructuring Paper. Report	11924
 Restructuring. Report No. RES50656	15663
-Results Report	996,294,41,439,4,281,726,59,289,1250,2454,4037,505,491,122,3171,321,1,138,44,72,278,66,559,67,186,109,37,42,17,753,55,102,127,401,258,190,260,7,232
+Results Report	996,294,41,439,4,281,726,59,289,1250,2454,4037,505,491,122,3171,321,1,138,44,72,278,66,559,67,186,109,37,42,17,753,55,102,127,401,258,190,260,7,232,680
 Results Report Angola Digital Acceleration Project	2712,3867
 Results Report Benin Economic Governance for Service	10870
 Results Report Building Resilient Digital Infrastructure	4688,3189
@@ -3597,6 +3609,7 @@ Summary Reportsâ	18887
 Surface Geoscientific Exploration Survey Report	13054
 Survey ICR Implementation Completion and Results Report	18765
 Survey Report	19743
+Survey Report URL	20196
 Survey Report. Found	12376
 Surveys Periodic Survey Reports	17011
 Suspicious Activity Reports	5369
@@ -3914,6 +3927,7 @@ World Bank’s World Development Report	13312,2,17
 World Development Report	1243,21,603,1737,1994,941,2486,734,959,417,5,9,161,215,354,86,1347,2,17,1833,247,13,50,6,13,60,108,1211,70,928,431,1525,9
 World Development Report. Data for Better Lives	17870
 World Development Reports	1264,5275
+World Digital Competitiveness Report	20167
 World Economic Forum Global Competitiveness Report	15411
 World Economic Forum Report	17458
 World Food Programme. Technical Report	10841

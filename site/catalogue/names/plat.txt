@@ -273,6 +273,7 @@ Digital Banking Platform	608
 Digital Egypt Platform	16046
 Digital Experience Platform	11216
 Digital Financial Identity Platform for Identifying Bank	16590
+Digital Gambia Platform	20220
 Digital Government Platform	12359
 Digital Government Platform Providing	12359
 Digital Government Platform. Architecture Overview	12359
@@ -373,6 +374,7 @@ E-Government Platforms	16975
 E-I14-A2 AI Investment Communication Platform Egypt	15713
 E-I15. Industry-Academia-Research Platforms Establish	15713
 E-Taxes Online Platform	12497
+E-Ward Round Platform	20081
 E-learning Platform	10865
 EA INFRASTRUCTURE PLATFORM LIMITED Data Controller	7167
 EC Open Science Policy Platform	5246
@@ -402,7 +404,7 @@ Education Platforms for Students	6748
 Educational Platform	6748
 Educational Platforms and Content	8709
 Effect of Platform Data Quality	14932
-Egypt Digital Platform	7537,8119,4212
+Egypt Digital Platform	7537,8119,4212,253
 Egyptian Education Platform	15604
 Egyptian Education Platform Primary	15604
 Egyptian Real Estate Platform	19892
@@ -551,7 +553,7 @@ IA Plateforme	8637
 ICT Plateforme Analyse	17941
 ICT Platform	13295
 ID ID ID ID Plateforme	19221
-ID Platform	114
+ID Platform	114,20107
 ID Verification Platform	18471
 II. Platforms	17018
 II.3.5.1. Plateformes	13324
@@ -697,6 +699,7 @@ MEDIUM TERM Platforms Create	16876
 META PLATFORMS	13462
 ML GPU-ACCELERATED SERVER PLATFORM	13621
 MOBILE MONEY PLATFORM COMMERCIAL BANKS	12977
+MODERNISING GOVERNMENT THROUGH DIGITAL PLATFORMS Government	20182
 MOE Digital Learning Platform	4554
 MOIS PLATINIUM	17833
 MSME Finance Platform	11469
@@ -749,7 +752,7 @@ Mobile Platform	11216,1701
 Mobile Platforms	11131
 Modelo de Referência de Plataforma Digital Pública	11555
 Modular Open Source Identification Platform	658,1512
-Modular Open Source Identity Platform	1846,874,71,1043,1866,687,305,2664,75,3284
+Modular Open Source Identity Platform	1846,874,71,1043,1866,687,305,2664,75,3284,7482
 Modular Open Source Identity Platform Development	290
 Modular Open-Source Identity Platform	2289,693,2103,1286,172
 Modèles-type DNCMP Plateforme SIGMaP	10876
@@ -864,7 +867,7 @@ Online Platform for Property Transfer	12389
 Online Platforms	573,11588,514
 Online and Social Media Platforms	17099
 Open AI Platforms	12675
-Open Data Platform	3310,1717,6527,3377,1807,930,736
+Open Data Platform	3310,1717,6527,3377,1807,930,736,1657
 Open Data Platform Continues	17291,31,79
 Open Data Platforms	17539
 Open Data Portal Platform	18747
@@ -1054,9 +1057,10 @@ Plataformas de Streaming	2816
 Plataformização. Revista Fronteiras	10775
 Platalea	17114
 Plate	15473,2351
+Plate AI	20085
 Plate Assignment	17142
 Plate-forme	13595,1027,1048,522
-Plateau	737,1627,89,403,393,395,710,224,900,702,55,365,1205,268,93,2305,455,4,7,532,472,57,52,3244,104,1,40,85,53,68,98,357,10,164,90,92,37,17,1074,681
+Plateau	737,1627,89,403,393,395,710,224,900,702,55,365,1205,268,93,2305,455,4,7,532,472,57,52,3244,104,1,40,85,53,68,98,357,10,164,90,92,37,17,1074,681,1823
 Plateau Central	737,6090,4020,17,4693,469
 Plateau Central Action	16026
 Plateau Central. Cette	15639
@@ -1102,7 +1106,7 @@ Plateaux-Ouest. Dans	6134
 Plateaux. Au	15722
 Plateaux. Cette	19963
 Plateaux. En	15423
-Plateforme	235,311,685,1145,36,499,470,338,879,391,7,25,202,90,158,613,314,490,187,208,394,996,82,136,158,975,41,201,78,477,2,4,61,46,31,615,99,1586,76,386,45,9,165,517,20,56,954,19,56,15,31,98,8,128,53,35,277,35,11,12,81,12,66,99,5,38,9,36,9,835,384,15,22,59,22,10,42,40,163,11,62,6,9,91,31,793,84,70,611
+Plateforme	235,311,685,1145,36,499,470,338,879,391,7,25,202,90,158,613,314,490,187,208,394,996,82,136,158,975,41,201,78,477,2,4,61,46,31,615,99,1586,76,386,45,9,165,517,20,56,954,19,56,15,31,98,8,128,53,35,277,35,11,12,81,12,66,99,5,38,9,36,9,835,384,15,22,59,22,10,42,40,163,11,62,6,9,91,31,793,84,70,611,89
 Plateforme Centralisée de Collecte	16662
 Plateforme DÛNÎA	16192
 Plateforme E-Administration	235
@@ -1226,6 +1230,7 @@ Platform for Agricultural Risk Management PCE	18309
 Platform for Collaboration	1828,11796
 Platform for Data Exchange	15476
 Platform for Digital Labor Unions	226
+Platform for Employment Networking Dialogue and Action	20230
 Platform for Good Digital Identity	10819
 Platform for Good Digital Identity. Customer Digital	10819
 Platform for Good Digital Identity. Retrieved	10819
@@ -1263,7 +1268,7 @@ Platform-led	8292,2846
 Platform-led Upskilling	226
 Platform-related	15342
 Platform. Taken	13462
-PlatformDIGITAL	3848
+PlatformDIGITAL	3848,16323
 Platforma DHIS2	10780
 Platforms	395,37,1,528,1717,1836,211,206,310,199,1033,195,434,688,156,37,30,423,456,206,184,279,9,46,32,207,101,122,110,383,457,105,758,323,80,623,34,16,4,71,376,43,1105,108,223,38,512,33,1405,132,606,247,292,288,1070,119,89,209
 Platforms Are About	19909
@@ -1281,6 +1286,7 @@ Platforms and Records	395
 Platforms and Services	395,12952
 Platforms for Citizen Interaction	19641
 Platforms. Fifteen	17054
+Platforms. ID	20221
 Platforms. The Electronic Transactions Law	12294
 Platinate Solutions KShs	6946
 Platinium	17833
@@ -1483,6 +1489,7 @@ UN Global Platform	13868,4041
 UNBS Social Media Platforms	19712
 UNDP and Statistics Mauritius Launch the MauStats Platform	14767
 UNDP’s Action Platform	12376
+UNE PLATEFORME OUVERTE	20075
 UNECA Digital Identity Platform for Africa	289
 UNESCO Digital Platform Governance Toolkit	8473
 UTC. Consultation Platform	11811

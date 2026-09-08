@@ -63,12 +63,14 @@ MHz MegaHertz MMS Multimedia Messaging Service	16885
 MHz MegaHertz MOBSE Ministry of Basic and Secondary	16884
 MNO Mobile Network Operator MW Megawatt	718
 MV Medium Voltage MW Megawatt NCB	15659
+MW Mega Watt	20223
 MW Mega Watt O&M Opérations	18316
 MW MegaWatt NNI Numéro National	17907
 MW Megawatt	18614,6
 MW Megawatt NDP National Development Plan	12399
 MW Megawatt NEP National Electrification Program	12233
 MW Megawatts	14947
+MWh Mega Watt Hour	20223
 MWh Mega-Watt	12256
 MWh Megawatt-hour	18614
 MWh Megawatt-hour NCSA National Cyber Security	718

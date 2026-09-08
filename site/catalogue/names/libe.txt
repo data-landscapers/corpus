@@ -80,7 +80,7 @@ Background. Liberia	17257
 Bank Liberia Limited African Continental Free	17235
 Bank for Development and Investment IIPS Liberia Business	17235
 Bank of Liberia	16144
-Banking Institute of Liberia	14345,2890
+Banking Institute of Liberia	14345,2890,2869
 Banking Institute of Liberia and IFC	14218,121
 Banks Welcome Verification Tool Liberia Bankers	14218
 Banque Centrale du Liberia	18389
@@ -152,7 +152,7 @@ Carbon Market LIBERIA Authority	17257
 Cases of Liberia	16949
 Center for Journalism and Liberty	5700
 Center for Regional Peace and Development Liberia	16961
-Central Bank of Liberia	1372,405,1460,2,279,743,11,10,962,750,1623,74,29,1,2299,107,281,1302,2496,68,44,27,302,1497,689,10,33,2,71,26,3,5,1,46,13,27,49,19,11,34,52,22,23,34,50,30
+Central Bank of Liberia	1372,405,1460,2,279,743,11,10,962,750,1623,74,29,1,2299,107,281,1302,2496,68,44,27,302,1497,689,10,33,2,71,26,3,5,1,46,13,27,49,19,11,34,52,22,23,34,50,30,2710
 Central Bank of Liberia AVG SAVINGS RATE	17235
 Central Bank of Liberia Act	16878
 Central Bank of Liberia Annual Report	17043,192
@@ -193,7 +193,7 @@ Childbearing LPHC Liberia Population and Housing Census	16950
 Chimkwita Her Liberty	5851,660,853
 China's People's Liberation Army	7870
 Civil Liberties	2518,12824,2625,217,1664
-Civil Liberties for Women	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Civil Liberties for Women	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 Civil Liberties for Women Absence of Violence	10759
 Civil Liberties for Women. Worst	11887
 Civil Servant Association of Liberia	16985
@@ -349,9 +349,9 @@ Enhancing Liberia’s Digital Connectivity	17260
 Enhancing WHO Liberia’s Operational Capacity	17289
 Enrollment of Liberians	16993
 Enumeration Area GoL Government of Liberia GPS	16921
-Equal Civil Liberties	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Equal Civil Liberties	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 Equal Civil Liberties Accountability	10835,3,130,902,16,466,1,135,7334
-Equal Civil Liberties Equal Socioeconomic Opportunity	10837,1315,188,7598
+Equal Civil Liberties Equal Socioeconomic Opportunity	10837,1315,188,7598,274
 Equal Political Representation Equal Civil Liberties	19822
 Equatorial Guinea Gabon Lesotho Liberia Madagascar	10764
 Equip Liberia	17116
@@ -408,6 +408,7 @@ Findings Across Six AAID Pillars Liberia	17139
 Fiscal Year. Liberia	16144
 Five-year Strategic Plan. LIBERIA ELECTRICITY REGULATORY	16978
 Flows and Policy Measures Background. Liberia	17257
+Food Authority of Liberia	20149
 Forest Degradation. Liberia	17140
 Forestry Development Authority Liberian Delegation Forestry	16853
 Forfait Liberté	7620
@@ -775,7 +776,7 @@ Liberdades	11367,26
 Liberdades Fundamentais da Pessoa	12820
 Liberee HABIMANA Emmanuel NIYOYITA Thacienne HABINEZA	12445
 Liberi	16876
-Liberia	31,77,128,163,114,187,4,117,112,80,32,1,95,1,122,92,16,93,72,3,3,104,130,133,342,204,29,63,21,108,5,84,4,176,51,11,81,6,142,48,153,32,167,8,76,265,131,59,26,10,13,36,11,10,3,141,128,29,27,9,12,20,23,64,71,8,23,38,34,34,52,62,169,15,107,11,33,5,33,42,19,35,51,101,11,74,43,194,21,31,8,103,28,8,30,9,130,10,142,11,60,43,51,22,82,34,66,76,219,28,15,63,117,42,33,24,106,1,1,74,16,13,1,1,28,76,275,49,1,44,198,181,181,48,1,31,25,1,94,81,52,74,49,1,126,210,88,13,1,1,1,90,62,56,1,82,103,81,95,44,27,52,1,59,1,1,1,38,38,66,31,13,10,7,33,74,41,5,21,50,3,18,28,84,86,62,24,405,27,37,101,10,26,121,3,16,1,2,30,173,61,1,9,33,60,85,11,1,23,9,103,235,319,328,18,180,113,32,225,103,5,52,33,58,17,6,6,56,44,7,10,4,6,9,293,60,17,700,47,40,112,256,265,44,13,40,435,18,11,66,59,2,1,2,5,1,2,5,1,1,1,2,4,3,10,2,4,2,12,1,5,12,13,1,12,1,8,4,2,1,10,1,2,7,1,4,3,5,1,1,8,6,1,11,3,2,3,2,4,12,6,4,8,2,2,9,2,5,3,1,5,6,2,7,7,4,4,2,1,2,4,4,11,1,1,2,3,4,2,2,2,4,1,3,2,2,6,7,3,4,3,1,7,5,4,6,1,17,2,2,4,16,1,1,1,2,6,8,6,9,5,1,1,10,5,9,3,1,10,12,4,14,1,1,1,3,5,1,4,11,3,1,3,6,12,3,119,22,8,141,34,90,29,74,155,111,108,154,8,3,3,7,19,27,6,24,193,611,288,169,14,2,20,1,80,41,7,15
+Liberia	31,77,128,163,114,187,4,117,112,80,32,1,95,1,122,92,16,93,72,3,3,104,130,133,342,204,29,63,21,108,5,84,4,176,51,11,81,6,142,48,153,32,167,8,76,265,131,59,26,10,13,36,11,10,3,141,128,29,27,9,12,20,23,64,71,8,23,38,34,34,52,62,169,15,107,11,33,5,33,42,19,35,51,101,11,74,43,194,21,31,8,103,28,8,30,9,130,10,142,11,60,43,51,22,82,34,66,76,219,28,15,63,117,42,33,24,106,1,1,74,16,13,1,1,28,76,275,49,1,44,198,181,181,48,1,31,25,1,94,81,52,74,49,1,126,210,88,13,1,1,1,90,62,56,1,82,103,81,95,44,27,52,1,59,1,1,1,38,38,66,31,13,10,7,33,74,41,5,21,50,3,18,28,84,86,62,24,405,27,37,101,10,26,121,3,16,1,2,30,173,61,1,9,33,60,85,11,1,23,9,103,235,319,328,18,180,113,32,225,103,5,52,33,58,17,6,6,56,44,7,10,4,6,9,293,60,17,700,47,40,112,256,265,44,13,40,435,18,11,66,59,2,1,2,5,1,2,5,1,1,1,2,4,3,10,2,4,2,12,1,5,12,13,1,12,1,8,4,2,1,10,1,2,7,1,4,3,5,1,1,8,6,1,11,3,2,3,2,4,12,6,4,8,2,2,9,2,5,3,1,5,6,2,7,7,4,4,2,1,2,4,4,11,1,1,2,3,4,2,2,2,4,1,3,2,2,6,7,3,4,3,1,7,5,4,6,1,17,2,2,4,16,1,1,1,2,6,8,6,9,5,1,1,10,5,9,3,1,10,12,4,14,1,1,1,3,5,1,4,11,3,1,3,6,12,3,119,22,8,141,34,90,29,74,155,111,108,154,8,3,3,7,19,27,6,24,193,611,288,169,14,2,20,1,80,41,7,15,102,45,42
 Liberia 2012 Revised Youth Policy Presentation.pdf	16872
 Liberia 76 V. Evaluating Progress Towards Reducing	17257
 Liberia AFR LI	17743
@@ -788,7 +789,7 @@ Liberia Advances AI Leadership for Young Women	17106,81,79
 Liberia Advances Digital Procurement	17304
 Liberia Advances Regional Fiber Optic Expansion	6688
 Liberia African Union Commission	16849
-Liberia Agency for Community Empowerment	16833,137,341
+Liberia Agency for Community Empowerment	16833,137,341,2838
 Liberia Agrees	17358
 Liberia Agricultural Commodities Regulatory Authority	17235
 Liberia Agricultural Company	16947
@@ -910,7 +911,7 @@ Liberia Electrici	16851
 Liberia Electricit	16851
 Liberia Electricity	14354
 Liberia Electricity Commission	16963
-Liberia Electricity Corporation	4998,2722,9131,84,40,3,5,131,25,118,3
+Liberia Electricity Corporation	4998,2722,9131,84,40,3,5,131,25,118,3,2889
 Liberia Electricity Corporation LISGIS Liberia Institute	16935
 Liberia Electricity Regulator	16851
 Liberia Electricity Regulatory Co	16851
@@ -962,7 +963,7 @@ Liberia ICT Policy	16876
 Liberia ICT Student Union and Liberia Chamber	17099,15
 Liberia ID4D Country Diagnostic	108
 Liberia IXP	16144
-Liberia Immigration Service	17183,106,61
+Liberia Immigration Service	17183,106,61,2799
 Liberia Immigration Service Resident	17011
 Liberia Immigration Services	17203
 Liberia Implementation Committee	16848
@@ -973,7 +974,7 @@ Liberia Institute of Architects	17260
 Liberia Institute of Public Administration	16970,15
 Liberia Institute of Statistics	16876,73,308
 Liberia Institute of Statistics and Geo- Information	5244
-Liberia Institute of Statistics and Geo-Information Services	5244,11589,88,14,28,80,73,33,16,193,8
+Liberia Institute of Statistics and Geo-Information Services	5244,11589,88,14,28,80,73,33,16,193,8,2783
 Liberia Institute of Statistics and Geo-Informatlon Services	16833
 Liberia Institute of Statistics and Geo-information Services	17235
 Liberia Institute of Statistics and Geoinformation Services	17070,79
@@ -1071,6 +1072,7 @@ Liberia National Police Travel	17011
 Liberia National Police and Liberia Revenue	17294
 Liberia National Police and National Port Authority	16853
 Liberia National Police. IG Coleman	17213
+Liberia National Police. Looking	20149
 Liberia National Police. Monibah	16890
 Liberia National Police. Orange Liberia	17213
 Liberia National Police. Such	17213
@@ -1141,7 +1143,7 @@ Liberia Respective Part	16144
 Liberia Rest	17257
 Liberia Results-Report 2020-2022.pdf	17037
 Liberia Revenue Agency	1777
-Liberia Revenue Authority	4282,3,555,158,246,750,172,3172,1212,31,1129,2644,1790,532,172,5,4,25,65,2,21,13,10,6,12,26,77,24,4,48,45,22,1,36,20,20,33,27
+Liberia Revenue Authority	4282,3,555,158,246,750,172,3172,1212,31,1129,2644,1790,532,172,5,4,25,65,2,21,13,10,6,12,26,77,24,4,48,45,22,1,36,20,20,33,27,2755
 Liberia Revenue Authority IMPORTANT REVENUE NOTICE	17258
 Liberia Revenue Authority LRC Liberia Revenue	17011
 Liberia Revenue Authority LTA	16872
@@ -1203,7 +1205,7 @@ Liberia Telecommunication Authority M M2M	16872
 Liberia Telecommunication Corporation	16835
 Liberia Telecommunications	16963
 Liberia Telecommunications Act	5244
-Liberia Telecommunications Authority	1777,133,860,467,2,1371,268,366,1724,262,180,205,1,1,103,1,672,410,32,120,132,1,654,117,1,267,279,1,3634,5,308,2481,15,22,4,58,29,12,8,10,77,29,15,24,35,18,69,6,272,170,1
+Liberia Telecommunications Authority	1777,133,860,467,2,1371,268,366,1724,262,180,205,1,1,103,1,672,410,32,120,132,1,654,117,1,267,279,1,3634,5,308,2481,15,22,4,58,29,12,8,10,77,29,15,24,35,18,69,6,272,170,1,2418
 Liberia Telecommunications Authority About LTA	17106,81
 Liberia Telecommunications Authority Act	16872
 Liberia Telecommunications Authority Adopt	16872
@@ -1235,7 +1237,7 @@ Liberia Turns	6166
 Liberia UNODC United Nations Office	16943
 Liberia URL	16876,71,36,190,191
 Liberia USAID	97,857
-Liberia Uganda Mozambique Ethiopia Niger Zimbabwe	10837,1503,7598
+Liberia Uganda Mozambique Ethiopia Niger Zimbabwe	10837,1503,7598,274
 Liberia Unveils Ambitious Tourism Strategy	17011
 Liberia Upper	16947
 Liberia Urban Resilience Project	17257,71
@@ -1254,7 +1256,7 @@ Liberia Vision	17289
 Liberia Water	16983,252,25
 Liberia Water Resources Profile	17257
 Liberia Water Resources Profile WHO	17257
-Liberia Water and Sewer Corporation	9088,7847,322,3
+Liberia Water and Sewer Corporation	9088,7847,322,3,2889
 Liberia Waters	17260
 Liberia Whereas	16983
 Liberia Women Count	16949
@@ -1278,7 +1280,7 @@ Liberia and Mozambique	6534
 Liberia and Niger	2719
 Liberia and Nigeria	6534,10477
 Liberia and STP	18754
-Liberia and Sierra Leone	1264,645,1562,288,1603,1232,3148,480,5922,57,1508,1045
+Liberia and Sierra Leone	1264,645,1562,288,1603,1232,3148,480,5922,57,1508,1045,1428
 Liberia and Sierra Leone The SPV	16144
 Liberia and Sierra Leone URL	16201
 Liberia and Sierra Leone. Officially	10572
@@ -1322,10 +1324,12 @@ Liberia's National Development Plan	16970
 Liberia's National Development Strategy. Recognizing	1777
 Liberia's National Electronic Payment Switch	11710
 Liberia's National Identification	3092
+Liberia's National Identification Registry	20104
 Liberia's National Port Authority	17260
 Liberia's National Port Authority. Main Topic	17260
 Liberia's National Research and Academic Network. Facilitate	1777
 Liberia's National Table of Frequency Allocations	16872,103
+Liberia's New Collateral Registry Opens Credit	20104
 Liberia's New National Development Strategy	16872
 Liberia's Permanent Representative	16961
 Liberia's Personal Data Protection and Privacy Act	4610
@@ -1510,7 +1514,7 @@ Liberia13. A Broadcasting Regulatory Bill	16872
 LiberiaInstitute of Statistics and Geo-Information Services	16833
 LiberiaRevenueAuthority	17258
 Liberiaby Sex	16921
-Liberian	31,1746,585,408,469,279,684,59,21,1,2,269,56,4,203,427,231,519,200,494,280,262,180,205,1,1,103,2,28,351,94,379,230,56,95,257,336,101,3,209,266,219,204,31,3460,5,172,56,65,6,9,293,1497,621,68,7,1,2,5,3,2,7,10,2,4,2,43,22,6,1,10,3,7,1,4,3,6,1,26,10,22,12,2,13,14,15,15,5,8,11,1,10,4,14,16,4,20,28,22,3,14,6,9,5,17,56,3,5,1,15,25,1039
+Liberian	31,1746,585,408,469,279,684,59,21,1,2,269,56,4,203,427,231,519,200,494,280,262,180,205,1,1,103,2,28,351,94,379,230,56,95,257,336,101,3,209,266,219,204,31,3460,5,172,56,65,6,9,293,1497,621,68,7,1,2,5,3,2,7,10,2,4,2,43,22,6,1,10,3,7,1,4,3,6,1,26,10,22,12,2,13,14,15,15,5,8,11,1,10,4,14,16,4,20,28,22,3,14,6,9,5,17,56,3,5,1,15,25,1039,1736
 Liberian AI	8861
 Liberian Bank for Development	19980
 Liberian Bank for Development and Investment	17257
@@ -1622,7 +1626,7 @@ Liberian. Dehpue Y. Zou	17070
 Liberian. MERRY CHRISTMAS	17119
 Liberian. Malayah Tamba Chieyoe Deputy Minister	16971
 Liberian. Together	17119
-Liberians	1777,133,342,352,166,322,1169,21,558,404,231,19,672,28,187,1234,1,1,74,29,1,380,94,609,56,1,175,52,124,336,104,694,60,1314,2455,99,44,17,4,6,1799,686,5,8,17,12,4,45,14,8,6,1,13,7,1,4,36,44,15,44,2,3,20,1,19,1,7,6,34,32,18,3,51,53,6,5,1,19,24,290
+Liberians	1777,133,342,352,166,322,1169,21,558,404,231,19,672,28,187,1234,1,1,74,29,1,380,94,609,56,1,175,52,124,336,104,694,60,1314,2455,99,44,17,4,6,1799,686,5,8,17,12,4,45,14,8,6,1,13,7,1,4,36,44,15,44,2,3,20,1,19,1,7,6,34,32,18,3,51,53,6,5,1,19,24,290,2482
 Liberians DOCUMENT ID	16872
 Liberians Other Citizens	16921
 Liberians--regardless	7615
@@ -1944,8 +1948,8 @@ Peer Review Report The Liberia Education	17014
 Peer Review of Liberia's EMIS	17021
 Penal Law of Liberia	16833
 People’s Liberation Army	8510,1934,898
-Personal Liberties	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
-Personal Liberties Freedom of Expression	10837,1315,188,7598
+Personal Liberties	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
+Personal Liberties Freedom of Expression	10837,1315,188,7598,274
 Personal Liberty	18597
 Petroleum Threshold LIBERIA Figure	17257
 Photo-UNDP Liberia	17370
@@ -2014,7 +2018,7 @@ REPUBLIC OF LIBERlA FOR EXECUTIVE APPROVAL	16851
 RESIDENCE IN LIBERIA OF RECOGNIZED REFUGEES	16830
 RESIDENCE IN LIBERIA PENDING RECOGNITION	16830
 REpublic of Liberia H. E. Dr. Badara	11517
-RIGHTS Personal Liberties	10759,78,1052,451,7598
+RIGHTS Personal Liberties	10759,78,1052,451,7598,274
 RIGHTS Personal Liberties Freedom of Expression	10759
 Re-Establish the Liberia Anti- Corruption Commission	17037
 Real Sector Liberia	17235
@@ -2264,7 +2268,7 @@ UniPod Liberia	17173
 Union GoL Government of Liberia ICT Information	16943
 Union and Liberia	16843
 United States and Liberia	4202,12908
-University of Liberia	7691,30,1140,3862,4153,45,54,36,59,20,2,24,44,13
+University of Liberia	7691,30,1140,3862,4153,45,54,36,59,20,2,24,44,13,3018
 University of Liberia Dan T. Saryee	17070
 University of Liberia Innovation Lab	16975
 University of Liberia President	7721

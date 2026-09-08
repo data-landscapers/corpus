@@ -360,7 +360,7 @@ Archive Center	13624
 Archive Nationale des Données du Tchad	19204
 Archive Register	18440
 Archive Subscribe Now Desert Radio Podcast	11122
-Archived	2712,1976,1735,156,254,95,949,2993,41,484,593,240,39,173,284,303,31,801,51,6,1,3,136,924,37,14,128,576,2,342,626,289,6,79,17,374,35,399,54,48,127,217,4,1,179,258,25,165,101,159,7,232,348,58,114
+Archived	2712,1976,1735,156,254,95,949,2993,41,484,593,240,39,173,284,303,31,801,51,6,1,3,136,924,37,14,128,576,2,342,626,289,6,79,17,374,35,399,54,48,127,217,4,1,179,258,25,165,101,159,7,232,348,58,114,198
 Archived Articles	11220,21
 Archived DO Rating IP Rating Actual	15731
 Archived Documents	11220
@@ -856,6 +856,7 @@ PalArch’s Journal of Archaeology of Egypt	4432
 Patient Synchronised Application Architecture	1009
 Peace and Security Architecture	17983
 Per ARCEP	5005
+Pervasive Datacenter Architecture	20171
 Picture Archiving and Communication System	12606
 Platform APC Article Processing Charge ARC	5246
 Platform-Led Finance Trust Architecture	11138

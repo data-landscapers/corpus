@@ -320,6 +320,7 @@ Dr. Humphrey Mwavali Digital Health Expert	9855
 Dr. Titus Suge K. Advocacy Expert	9855
 E&S Expert	11863
 E. Expected Output	14927
+ECD Experience	20217
 EGH Expert Group	582,19057
 EGTI Expert Group	582
 EIB. Expected	543
@@ -457,7 +458,7 @@ Expectations and Aspirations	19835
 Expectations and Minimum Maturity Level	15054
 Expectations for Computer Security Incident Response	18774
 Expectations of Beneficiaries	18461
-Expected	82,297,120,182,1,3,104,23,79,79,78,106,40,96,1699,442,69,104,460,3,1451,102,261,50,492,1272,1428,782,502,422,80,271,68,647,10,51,12,183,8,1,44,1,3,45,16,33,53,58,74,13,94,249,194,16,303,7,29,26,94,629,915,82,53,15,15,11,140,101,161,290,108,379,555,5,97,47,1,11,343,988,71,358,98,95,204,235,226,102,15,3,87,43
+Expected	82,297,120,182,1,3,104,23,79,79,78,106,40,96,1699,442,69,104,460,3,1451,102,261,50,492,1272,1428,782,502,422,80,271,68,647,10,51,12,183,8,1,44,1,3,45,16,33,53,58,74,13,94,249,194,16,303,7,29,26,94,629,915,82,53,15,15,11,140,101,161,290,108,379,555,5,97,47,1,11,343,988,71,358,98,95,204,235,226,102,15,3,87,43,228
 Expected Annual Return	7446
 Expected Approval Date	1584,668,1310,7270,1133,423,2522,26,1,253,363,105,124,616,3437,12,8,164,4,6,19
 Expected Approval Date Expected Closing Date	1867,1737,7164,61,135,453,143,295,50,1426,1,2289,40,483,2054,1047
@@ -634,6 +635,7 @@ Expenses and Resource Demands	12376
 Expenses of Directors	585,8281
 Expensive	4150,6163,4710,457,3431
 Expensive ICT	16884
+Expensive Place	20157
 Experi	18896
 Experian and TransUnion. Yet	17739
 Experience	10,1209,24,21,1020,13,97,3,65,10,86,28,4,209,10,16,25,39,95,79,190,7,70,41,80,30,76,30,47,9,16,19,19,19,16,322,19,14,347,177,10,7,509,12,171,64,5,22,3,94,10,19,294,178,44,54,54,23,322,60,26,6,125,80,6,23,68,102,189,9,1,65,4,2,1,107,3,992,171,300,132,220,5,400,1226,168,134,121,165,70,38,28,32,272,9,61,14,13,54,143,249,43,250,8,53,185,92,6,43,232,2,261,1,48,80,287,194,301,542,62,74,56,27,164,107,72,460,216,636,40,126,46,141,83,103,98,565,205,149,117,3,176,33,100,632,143,35
@@ -691,7 +693,7 @@ Experimentalist	7451
 Experimentation	15164,2569
 Experimenting	5869,5672
 Experiments	899,12562
-Experiência	10760,17,664,7,3,5,63,379,123,121,3968,211,2432,20,21
+Experiência	10760,17,664,7,3,5,63,379,123,121,3968,211,2432,20,21,1294
 Experiência Humana	2816
 Experiência Institucional	11451
 Experiência Profissional	11441,15
@@ -755,7 +757,7 @@ Expert Working Group	961
 Expert-comptable	15670
 ExpertGroup	15471
 Expertco Formation	17882
-Experte	8269,1008,6393
+Experte	8269,1008,6393,4423
 Expertes	18286
 Expertise	1988,354,1354,1128,3804,2246,482,652,157,279,2990,90,200,17,887,465,21,768,17,74,346,169,12,450,89
 Expertise Armées	17899
@@ -763,7 +765,7 @@ Expertise Connect	19534
 Expertise Contact Details	6432
 Expertise Direction du Portefeuille du Secteur	2342
 Expertise FR	13325
-Expertise France	437,449,308,35,9,1785,1448,297,952,136,869,1097,374,1069,1254,472,7,689,740,160,7,14,98,51,285,218,448,22,18,73,73,338,562,453,227,117,121,85,69,111,228,45,443,29,249,115,49,132,31,345,397,305,1,662,488
+Expertise France	437,449,308,35,9,1785,1448,297,952,136,869,1097,374,1069,1254,472,7,689,740,160,7,14,98,51,285,218,448,22,18,73,73,338,562,453,227,117,121,85,69,111,228,45,443,29,249,115,49,132,31,345,397,305,1,662,488,722
 Expertise France Comores	3772
 Expertise France OS	16722
 Expertise France and CMM Oxford	1000
@@ -781,7 +783,7 @@ Expertise of Specialized Courts	12389
 Expertises	15429,2866,3,133
 Expertises ATNOR	19189
 Expertos UNCTAD	15478
-Experts	1968,583,41,111,105,59,91,28,77,303,212,54,494,109,293,84,78,24,62,19,37,33,50,35,43,9,114,29,122,49,55,14,126,86,186,17,141,81,8,120,73,93,116,145,74,9,156,111,21,78,8,71,50,24,8,5,122,7,39,548,239,204,144,15,117,84,180,26,245,77,364,1,11,327,53,43,61,13,125,209,92,166,60,48,7,15,295,39,786,83,6,184,285,970,50,472,98,295,12,15,10,14,299,292,81,83,154,172,55,101,163,31,57,76,248,38,75,4,244,162,70,63,94,130,17,91,4,373,131,227,149,154,24,9,76,12,56,2,13,133,428,488,32,12
+Experts	1968,583,41,111,105,59,91,28,77,303,212,54,494,109,293,84,78,24,62,19,37,33,50,35,43,9,114,29,122,49,55,14,126,86,186,17,141,81,8,120,73,93,116,145,74,9,156,111,21,78,8,71,50,24,8,5,122,7,39,548,239,204,144,15,117,84,180,26,245,77,364,1,11,327,53,43,61,13,125,209,92,166,60,48,7,15,295,39,786,83,6,184,285,970,50,472,98,295,12,15,10,14,299,292,81,83,154,172,55,101,163,31,57,76,248,38,75,4,244,162,70,63,94,130,17,91,4,373,131,227,149,154,24,9,76,12,56,2,13,133,428,488,32,12,500,84
 Experts Biometric Update	4865
 Experts Call for Accelerating Digital Transformation	15203
 Experts Call for Responsible AI Integration	10355
@@ -1005,7 +1007,7 @@ Integrated Expenditure Management System	16996,874
 Intercambio de Experiencias	4209
 Interest Expenditure	1828
 Intergovernmental Group of Experts	2117,8705
-International Experience	13037,1753,2651
+International Experience	13037,1753,2651,2726
 International Experience Exchange Programme	13998
 International Experience. World Bank Policy Research	10997
 International Experiences	12356
@@ -1221,6 +1223,7 @@ Ordre des Experts Comptables de Djibouti	19847
 Ordre des Géomètres Experts	17983
 Out-of-Pocket Expenses2	13031
 Outcomes Expenditure	15604
+Outcomes of Research Co-creation Experiences	20215
 Over Expenditure	12971
 Over the Medium-Term Expenditure Framework	3264,7951
 Overview of Vote Expenditure	19742,1,3
@@ -1289,6 +1292,7 @@ Prior World Bank Experience	14888
 Priority Area and Expected Results Outcomes Strategic	14935
 Procurement Expert	11863
 Professional Experience	962,13223,2883,2018
+Professor. The Chemistry Expert	20102
 Program Expenditure Framework	11905,4127,2338
 Program Expenditure Framework The PforR	18370
 Program Expenditures	16032
@@ -1312,6 +1316,7 @@ Public Digital Services Experience Survey	9478
 Public Digital Services Experience Survey Lesotho	9478
 Public Education Expenditure	14897
 Public Expendi-	19237
+Public Expenditure	20167
 Public Expenditure Consolidate	10157
 Public Expenditure Management	11906,6919
 Public Expenditure Review	11133,783,1433,2312,2,1233,75,470

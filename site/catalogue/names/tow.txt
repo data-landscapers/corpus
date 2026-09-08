@@ -86,7 +86,7 @@ Caldwell Township	16921
 Cap Town	18322
 Cap Town Afrique du Sud	18322
 Cap Town Afrique du Sud RAPPORT ANNUEL	18322
-Cape Town	596,365,77,168,1,1,155,41,160,1,82,71,23,69,10,140,157,346,61,48,49,5,51,145,121,51,43,163,90,28,60,294,102,8,58,14,5,63,10,5,17,288,227,231,250,75,49,10,63,14,47,44,375,1,109,71,378,46,18,118,103,15,305,41,376,2,108,25,63,72,91,42,27,160,88,24,11,33,64,4,90,18,143,194,28,69,27,164,81,79,84,58,149,143,268,152,333,379,16,8,30,57,137,65,95,86,37,122,42,3,2,28,1,40,24,15,35,7,13,150,166,184,39,94,95,44,91,20,5,246,159,20,211,69,8,11,16,123,473,179,18,49,427,163,269,259,1226,223,22,1173,2,105,91,10,867
+Cape Town	596,365,77,168,1,1,155,41,160,1,82,71,23,69,10,140,157,346,61,48,49,5,51,145,121,51,43,163,90,28,60,294,102,8,58,14,5,63,10,5,17,288,227,231,250,75,49,10,63,14,47,44,375,1,109,71,378,46,18,118,103,15,305,41,376,2,108,25,63,72,91,42,27,160,88,24,11,33,64,4,90,18,143,194,28,69,27,164,81,79,84,58,149,143,268,152,333,379,16,8,30,57,137,65,95,86,37,122,42,3,2,28,1,40,24,15,35,7,13,150,166,184,39,94,95,44,91,20,5,246,159,20,211,69,8,11,16,123,473,179,18,49,427,163,269,259,1226,223,22,1173,2,105,91,10,867,1411,90,30,19
 Cape Town Bloemfontein Public Library Natal	11237,21,28
 Cape Town CBD	17578
 Cape Town CPT1	595,1,6195
@@ -194,7 +194,7 @@ Dama Water Tower	12933
 Data Protection Cape Town	12232
 Deed Number Chitepo Salisbury Township	4896
 Digital Identity SECTION I TOWARD	10819
-Digital and Energy Transformation Towards	17603
+Digital and Energy Transformation Towards	17603,2513
 Directorates of Cadaster and Town Planning	15511
 Directorates of Town Planning and Estates Management	12253
 District Commissioners and Town Chiefs	17114
@@ -325,7 +325,7 @@ J4U Town	4732
 JHB2 and Cape Town CPT1	596
 James Town	3386
 Joe Town	18485
-Johannesburg and Cape Town	2524,1,1944,35,226,220,677,1146,435,2560,713,209
+Johannesburg and Cape Town	2524,1,1944,35,226,220,677,1146,435,2560,713,209,9372
 Johannesburg and Cape Town. Microsoft	5810
 Johannesburg and Cape Town. The Johannesburg Cosmas	3937
 Johnsonville Township	16921
@@ -405,6 +405,7 @@ Moriba Town ADM	18485
 Moroto Town	11759,7957
 Move Towards	16867
 Moving Towards	16867
+Moving Towards Digital Public Infrastructure	20221
 Mulobezi Town Council	2386
 Multifaceted Approach. Cape Town	6832
 Municipal City Council and Town Council Election	14760
@@ -427,7 +428,7 @@ Nana Appiah Acquaye Helios Towers	5788
 Nanyamba Town Council	19585
 Narrative Towards	14511
 Nasir Town	3583
-NatCA Tower	11754
+NatCA Tower	11754,8377
 National Communications Authority Tower	8748
 National Presidential Townhall	18582
 National Strategy Towards Ending GBV	12566

@@ -299,7 +299,7 @@ L Gastos de Funcionamiento	4209
 LGP Liquefied Petroleum Gas LMS Learning	12975
 LIQUEFIED PETROLEUM GAS	17250
 LIQUIFIED PETROLEUM GAS	14528
-LPG Liquefied Petroleum Gas	18614
+LPG Liquefied Petroleum Gas	18614,1609
 Lake Gas	12256
 Lamin Gassama	4677
 Landfill Gas	14745
@@ -330,6 +330,7 @@ MVUKIYE Gaspard	19687
 MW. In the Gas and Downstream Petroleum	718
 Madji Gasper	9194
 Malam Gassamá	11544
+Margarida Gaspar de Matos	20074
 Methane Gas	12358,2589
 Mgqibelo Gasela	4896
 Mgqibelo Gasela Nil Nil Nil	4896

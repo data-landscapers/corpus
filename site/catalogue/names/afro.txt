@@ -1,7 +1,7 @@
 ACRONYMS AFRO WHO Regional Office for Africa	18668
 ACRONYMS AND ABBREVIATIONS AAUCA Afro-American University	16942
 AFR Afrobarometer	11887,266,1,9,178,7517,1
-AFR Afrobarometer AUC African Union Commission	10759,78,1052,451,7598
+AFR Afrobarometer AUC African Union Commission	10759,78,1052,451,7598,274
 AFR Afrobarometer UNESCO United Nations Educational	10835,3,130,902,16,466,1,135,7334
 AFRO BEAUTY PLASTIC CENTRE LIMITED Data	7167
 AFRO Burkina	18105
@@ -20,7 +20,7 @@ AFROJET AVIATION SOLUTIONS LIMITED Data Controller	7167
 AFRONA SECURE LIMITED Data Processor INST-55274017E98	7167
 AFROSAI	17492
 AFROSAI and INTOSAI	17364
-AFROSAI-E	9680,428,3312,3944
+AFROSAI-E	9680,428,3312,3944,2719
 AFROSAI-E IT Audit Guidelines	19584
 AFROSAI-E Institutional Capacity Building Framework	17364
 AFROSAI-E and INTOSAI	17364
@@ -69,14 +69,14 @@ Afrobarometer-16apr24.pdf	16144
 Afrobarometer. Email	12192,86
 Afrobarometer. Institut National	16644
 Afrobarometer. Ministère	16644
-Afrobarometer. Nearly	10759,78,1050,1,1,263,1,1,9,177,1,7311,1,183,22,1,65,14,1,48
+Afrobarometer. Nearly	10759,78,1050,1,1,263,1,1,9,177,1,7311,1,183,22,1,65,14,1,48,225
 Afrobarometer. Retrieved	16144
 Afrobarometer. Sustainable Environment Nearly	10835,3,130,902,16,466,1,135,7334
 Afrobarometer’s National Partners	7886
 Afrobaromètre	12099
 Afrobarómetro	18779
 Afrobeat	9739,8034
-Afrobeats	9739
+Afrobeats	9739,10464
 Afrobizz Consults Limited Data Controller INST-9776679AFB4	7167
 Afrocentric	4432,2719,5059
 Afrochella LLC	19968
@@ -93,7 +93,7 @@ Afrovision Technologies Limited	2680
 Another Afrobarometer	10453
 Conclusion Afrobarometer	12501
 Funding for Afrobarometer	7886
-Government of Sierra Leone and AFROSAI-E	9680
+Government of Sierra Leone and AFROSAI-E	9680,10403
 Haratine and Afro-Mauritanian	6719
 Ivoire-based Afro Mobile SARL	10518
 Jornal de Angola and AFRO Health Observatory. Institutional	10776

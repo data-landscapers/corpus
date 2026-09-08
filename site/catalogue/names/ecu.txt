@@ -106,7 +106,7 @@ Estado UNGE Universidad Nacional de Guinea Ecuatorial	16969
 Estado de Guinea Ecuatorial	1701,15241,229
 Estado de Guinea Ecuatorial. CAPÍTULO II	16855
 Estado. Agenda Guinea Ecuatorial	1701
-Estadística de Guinea Ecuatorial	16898,27,17
+Estadística de Guinea Ecuatorial	16898,27,17,3124
 Estadísticas Oficiales de Guinea Ecuatorial. Esta	12075
 Estrategia de Desarrollo Sostenible de Guinea Ecuatorial	1701
 Estrategia de Guinea Ecuatorial	1701
@@ -124,7 +124,7 @@ GUINEA ECUATORIAL EXPOSICIÓN DE MOTIVOS	16859
 Gobierno de Guinea Ecuatorial	7100,983,3589,846,4376,36,49,52,81,63,40,56
 Gobierno de Guinea Ecuatorial Oficina de Información	9065,5116,3208,26
 Guinea Ecuatori-	16942
-Guinea Ecuatorial	975,726,1478,315,715,3494,1,1,343,35,71,218,931,15,206,403,391,43,126,1185,403,443,1663,123,2534,17,4,5,1,6,4,18,1,1,2,1,20,2,5,8,9,20,7,10,17,30,5,18,2,10,12,14,2,20,3,16,22,11,14,27,21,2,2,26,1,28,19,6,33,9,28,12,1,2,1,6,10,6,7,3,1
+Guinea Ecuatorial	975,726,1478,315,715,3494,1,1,343,35,71,218,931,15,206,403,391,43,126,1185,403,443,1663,123,2534,17,4,5,1,6,4,18,1,1,2,1,20,2,5,8,9,20,7,10,17,30,5,18,2,10,12,14,2,20,3,16,22,11,14,27,21,2,2,26,1,28,19,6,33,9,28,12,1,2,1,6,10,6,7,3,1,2669
 Guinea Ecuatorial BDEAC	16898
 Guinea Ecuatorial CNEDOGE	16942
 Guinea Ecuatorial Comunicaciones GECOMSA	16942
@@ -147,6 +147,7 @@ Guinea Ecuatorial Nota	16969
 Guinea Ecuatorial Noticias	16897
 Guinea Ecuatorial Numero	16898
 Guinea Ecuatorial PNUD Guinea Ecuatorial	16979
+Guinea Ecuatorial Por Fernando Abeso Edu	20095
 Guinea Ecuatorial ProFADS Programa de Formación	16920
 Guinea Ecuatorial Página Web Institucional	16868,38,12,63,8,1,36,5,18,12,48,41,11,1,13,50,2,2,24,1,8,39,18,24,20,10,9,40
 Guinea Ecuatorial URL	16838,136,5,414
@@ -175,6 +176,7 @@ Guinea Ecuatorial. Este	16979
 Guinea Ecuatorial. Esto	3179
 Guinea Ecuatorial. GITGE	3179
 Guinea Ecuatorial. Guinea Ecuatorial	12518
+Guinea Ecuatorial. La Fiscalía General	20095
 Guinea Ecuatorial. Las	16898
 Guinea Ecuatorial. Link	16942
 Guinea Ecuatorial. MAGBMA	16875

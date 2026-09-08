@@ -112,7 +112,7 @@ Boukary LISTE DES MEMBRES DU BUREAU	18032
 Budget Bureau	18483,5
 Bugesera Burera	12413
 Burea1u2o.6f PBuubrleicaPuroofcPuurbemlicePnrto	10157
-Bureau	557,1514,46,658,81,33,370,67,285,127,365,767,379,577,281,168,226,119,62,460,55,20,331,122,14,331,492,8,222,154,65,57,309,118,40,32,288,256,238,179,239,52,57,23,77,12,11,190,429,162,34,92,1,92,38,11,50,49,73,76,50,235,117,32,31,194,105,70,217,49,8,11,15,2,13,29,21,27,11,4,17,56,40,33,7,74,12,39,428,176,46,2,17,7,14,38,1,1,44,3,12,45,23,5,40,74,50,20,31,517,8,48,4,110,18,13,2,11,16,15,4,100,21,3,17,30,127,2,39,8,97,28,24,40,36,20,52,3,13,24,5,260,10,15,43,99,114,20,7,3,37,27,79,99,130,88,1,44,103,117,155,69,15,18,3,8,5,11,16,27,160,26,3,19,20,6,20,1,15,102,4,6,19,6,5,10,26,106,72,59,37,27,46,176,7,95,112,3,26,21,12,50,156,34,37,65,12,10,161,25,3,29,66,44,134
+Bureau	557,1514,46,658,81,33,370,67,285,127,365,767,379,577,281,168,226,119,62,460,55,20,331,122,14,331,492,8,222,154,65,57,309,118,40,32,288,256,238,179,239,52,57,23,77,12,11,190,429,162,34,92,1,92,38,11,50,49,73,76,50,235,117,32,31,194,105,70,217,49,8,11,15,2,13,29,21,27,11,4,17,56,40,33,7,74,12,39,428,176,46,2,17,7,14,38,1,1,44,3,12,45,23,5,40,74,50,20,31,517,8,48,4,110,18,13,2,11,16,15,4,100,21,3,17,30,127,2,39,8,97,28,24,40,36,20,52,3,13,24,5,260,10,15,43,99,114,20,7,3,37,27,79,99,130,88,1,44,103,117,155,69,15,18,3,8,5,11,16,27,160,26,3,19,20,6,20,1,15,102,4,6,19,6,5,10,26,106,72,59,37,27,46,176,7,95,112,3,26,21,12,50,156,34,37,65,12,10,161,25,3,29,66,44,134,221
 Bureau Accounts	18886
 Bureau Accueil	17888
 Bureau Administratif	14527
@@ -582,7 +582,7 @@ GAMBIA STANDARDS BUREAU	16900
 GBoS Gambia Bureau of Statistics GBV Gender-Based	16952
 GBoS Gambia Bureau of Statistics GDP Gross	16867
 Gabon and Zimbabwe. ITU Telecommunication Development Bureau	2464
-Gambia Bureau of Statistics	1654,33,6136,538,1,8472,33,7,41,7,5,12,53,94,19,212,104
+Gambia Bureau of Statistics	1654,33,6136,538,1,8472,33,7,41,7,5,12,53,94,19,212,104,2809
 Gambia Bureau of Statistics GBV	16951
 Gambia Bureau of Statistics GBoS	1687
 Gambia Standards Bureau	16900,15,453,65
@@ -789,6 +789,7 @@ National Bureau of Statistics and UNICEF	18695
 National Bureau of Statistics. B Ther	19887
 National Bureau of Statistics. Contacts Contacts Name	19613
 National Bureau of Statistics. FinMark Trust	18899
+National Bureau of Statistics. Household	20196
 National Bureau of Statistics. Streamlined	12210
 National Bureaux	14679
 National Census Bureaus Components Weighting Composite	17157
@@ -1002,7 +1003,7 @@ UNHCR’s Regional Bureau for West and Central Africa	17323,1
 US Census Bureau Data and EU Data	5863
 US State Department's Bureau of African Affairs	6534
 USAID Bureaus and Missions	217
-Uganda Bureau of Statistics	3026,3626,1875,268,351,176,66,667,767,1884,1482,192,5246,4,1,8,7,21,40,8,13,15,1,36,7,11,5,7
+Uganda Bureau of Statistics	3026,3626,1875,268,351,176,66,667,767,1884,1482,192,5246,4,1,8,7,21,40,8,13,15,1,36,7,11,5,7,348
 Uganda Bureau of Statistics Act	19626,8,176
 Uganda Bureau of Statistics Census	19728
 Uganda Bureau of Statistics. The Office	19803
@@ -1041,6 +1042,7 @@ Women Bureau	16951
 Worldwide Bureaucracy Indicators	16365
 X BUREAU VERITAS INSPECTION VALUATION ASSESSMENT	16623
 Yaoundé Le Bureau	13628
+Yes. The Gambia Standards Bureau	20223
 Zambia Bureau of Standard Codes	1988
 Zambia Bureau of Standards	1988,11358,41,16,302,3980
 Zambia Bureau of Standards Shall	13347

@@ -24,7 +24,8 @@ Cameroon Silicon River	15480
 Cameroon's Sanaga River	12517
 Cape Mount Bomi Grand Bassa River	16921
 Cavalla River	17114
-Central River	16867,106
+Central River	16867,106,3257
+Central River Region	20219
 Central River Region CSO Civil Society	17105
 Central River Region-North	12085
 Central River Region-South	11716,369
@@ -129,8 +130,8 @@ Lingadzi River	12253
 Lingadzi River. Lilongwe River	12253
 Lorena Rivera León and Sacha Wunsch-Vincent. ISBN	11883
 Lorena Rivero	1828,11120
-Lower River	17152
-Lower River Region	12085
+Lower River	17152,3078
+Lower River Region	12085,8134,7
 Lower River and Central River. Through	8311
 Lower River and North Bank East	16867
 Lugenda River	2989
@@ -175,6 +176,7 @@ Northen and River Nile	14933
 Northern and River Nile	14956,4
 Ntem River	16958
 Nyandarua Marsabit Nyeri Tana River	12251
+OMVG Gambia River Basin Organisation	20223
 OMVG Gambia River Organization for Development	11549
 Oji River LGA	6211
 Oubangui River	1828,17059

@@ -56,7 +56,7 @@ APT Band Plan A5	7368
 ARAP Abbreviated Action Plan AU African	18754
 ARTICULATION DES PROJETS DU PLAN D'ACTIONS	18105
 ARTICULATION FONCTIONNELLE DU PLAN D'ACTIONS	18105
-ASSL's Digitalisation Plan	9680
+ASSL's Digitalisation Plan	9680,10403
 ASUNT. SOC. Y PLAN. ADMTVA	4209
 AU NIVEAU DU PLAN D’ACTION	17842
 AWP Annual Work Plan	14916
@@ -412,7 +412,7 @@ Community Health Safety and Security Plan	13185
 Community Health Strategic Plan	10940
 Community Policing Sub-Strategic Plan. Developed	12731
 Community Policing Unit Strategic Plan	12732
-Compact Targets and Action Plan	12399,281,6997
+Compact Targets and Action Plan	12399,281,6997,546
 Compact Targets and Action Plan THE RESULTS	15977
 Compact Targets and Action Plan Targeted	12563
 Compact Targets and Action Plan This Energy	18795,882
@@ -459,7 +459,7 @@ Copy of Education Plan P3-10. Scope	12500
 Corporate Business Plan Statistics Canada	19519
 Corporate Development Plan	1818
 Corporate Disaster and Recovery Plan	1000
-Corporate Strategic Plan	10550,31,1500,295,677,3958,94
+Corporate Strategic Plan	10550,31,1500,295,677,3958,94,3119
 Corporate Strategic Plan CSR	13053
 Corporate Strategic Plan GRA	16968
 Corporate Transitional Strategic Plan	12551
@@ -595,7 +595,7 @@ Dialing Plan for Liberia	16934
 Digital Acceleration Plan	14674,5292
 Digital Cameroon Strategic Plan	16050
 Digital Economy Development Plan Strategy	15621
-Digital Economy Master Plan	15936,1252
+Digital Economy Master Plan	15936,1252,3036
 Digital Education Strategy and Implementation Plan	13991
 Digital Education Strategy and Implementation Plan. June	13991
 Digital Government Plan	12562
@@ -757,7 +757,7 @@ Education Sector Plan for Guinea	19988
 Education Sector Plan for Guinea-Bissau	11536
 Education Sector Plan. Different	15604
 Education Sector Strategic Implementation Plan	14922
-Education Sector Strategic Plan	12329,82,83,420,61,335,839,1,746,20,6,18,147,1824
+Education Sector Strategic Plan	12329,82,83,420,61,335,839,1,746,20,6,18,147,1824,3306
 Education Sector Strategic Plan ETGPS Educational	12975
 Education Sector Strategic Plan and SDG4	12741
 Education Strategic Plan	789,16407
@@ -955,7 +955,7 @@ Fiscal Adjustment Plan	12922
 Five Year Development Plan	19519
 Five Year Development Plan FYDP	19519
 Five Year Plan	11224
-Five-Year Development Plan	4214,14719
+Five-Year Development Plan	4214,14719,1223
 Five-Year Development Plan II	19531
 Five-Year Development Plan III	19519,12,54
 Five-Year Development Plan. Conversely	19542
@@ -971,12 +971,14 @@ Five-year Government's Plan	12832
 Five-year Strategic Plan. LIBERIA ELECTRICITY REGULATORY	16978
 Fixed Broadband Plan Ireland Yes National	11529
 Fixed Business Unit. The Plan International	9917
+Focused National Development Plan	20217
 Fondements Le Plan	10712
 Foreword The Education Sector Strategic Plan	14922
 Formal Maintenance Plan for Public Property	19585
 Formal Public Asset Maintenance Plan	19585
 Formal Public Asset Maintenance Plan S	19585
 Formulaire de Plan	15399
+Fourth Five-Year Development Plan. The Fourth	20156
 Fourth Five-Year National Development Plan	19602
 Fourth Medium Term Plan	14305,267
 Fourth Medium-Term Plan	5108,2440,283
@@ -1029,7 +1031,7 @@ Gambia Biodiversity Strategy and Action Plan	17105
 Gambia Broadband Strategic Plan	16883,1
 Gambia E-Government Strategic Plan	16924
 Gambia National Agricultural Investment Plan	16861
-Gambia National Development Plan	16924,5
+Gambia National Development Plan	16924,5,3292,3
 Gambia National Digital Economy Master Plan	1359
 Gambia National Health Strategic Plan	16896
 Gambia National Health Strategy and Plan	16861
@@ -1518,7 +1520,7 @@ Le Plan de Travail Budgétaire Annuel du SNIS	15530
 Le Représentant du Ministère du Plan	13290
 Least Coast Power Development Plan Dec	14947
 Least Cost Development Plan	15659,310
-Least Cost Power Development Plan	12358,322,2267,712,310,997
+Least Cost Power Development Plan	12358,322,2267,712,310,997,3257
 Least Cost Power Development Plan LKMP	12358
 Least-Cost Development Plan	15969
 Least-Cost Power Development Plan	12717
@@ -1544,7 +1546,7 @@ Long Term Development Perspective Plan	19520
 Long Term Perspective Plan	19520
 Long-Term National Development Plan	789
 Long-Term National Infrastructure Master Plan	17260
-Long-Term Perspective Plan	19531
+Long-Term Perspective Plan	19531,625
 Long-Term Plan	12675
 Long-term National Development Plan	1779
 LÉMENTS DU PLAN STRATÉGIQUE	15720
@@ -1859,14 +1861,15 @@ National Communications and Addressing Plan	12149
 National Contingency Plan	10763,617,1969,3525
 National Crisis Management Plan	14729
 National Cyber Incident Response Plan	318
+National Cyber Security Contingency Plan	20224
 National Cybersecurity Plan	1000
 National Cybersecurity Plan. Public-private	1000
 National Cybersecurity Strategy Formulation and Action Plan	1000
-National Cybersecurity Strategy and Action Plan	1000,16028
+National Cybersecurity Strategy and Action Plan	1000,16028,3196
 National Cybersecurity Strategy and Action Plan D	17070
 National Cybersecurity Strategy and Awareness Raising Plan	5780,7202
 National Data and Cloud Policy Implementation Plan	11230
-National Development Plan	396,190,372,197,424,137,9,27,76,39,98,152,174,120,669,357,38,129,86,1126,428,24,177,4,84,44,616,10,184,62,215,101,4,12,51,70,207,132,138,47,359,195,109,1202,417,258,89,102,202,404,5,8,3,2,75,134,16,182,5,2,1,22,6,6,18,17,7,17,77,159,4,7,50,304,17,79,341,29,11,9,23,32,22,88,5,18,2,14,4,13,1,2,4,2,3,3,8,3,313,26,6,5,2,7,206,124,2,4,13,1,13,3,1,491,25,3,27,25,123,82,749,5,50,5,31,588,106,2,149,334,32,260,436,2,9,1,1,30,8,1,3,2,13,9,1,16,2,26,41,1409,42,445,87,214,14,36,349,9,4,8,6,2,5,12,49,82,37
+National Development Plan	396,190,372,197,424,137,9,27,76,39,98,152,174,120,669,357,38,129,86,1126,428,24,177,4,84,44,616,10,184,62,215,101,4,12,51,70,207,132,138,47,359,195,109,1202,417,258,89,102,202,404,5,8,3,2,75,134,16,182,5,2,1,22,6,6,18,17,7,17,77,159,4,7,50,304,17,79,341,29,11,9,23,32,22,88,5,18,2,14,4,13,1,2,4,2,3,3,8,3,313,26,6,5,2,7,206,124,2,4,13,1,13,3,1,491,25,3,27,25,123,82,749,5,50,5,31,588,106,2,149,334,32,260,436,2,9,1,1,30,8,1,3,2,13,9,1,16,2,26,41,1409,42,445,87,214,14,36,349,9,4,8,6,2,5,12,49,82,37,309,51,18,5,9
 National Development Plan CMM Cybersecurity Maturity	1000
 National Development Plan Despite	16863
 National Development Plan Framework of Zambia	12376
@@ -1906,7 +1909,7 @@ National Development Vision Plan	5883
 National Digital Addressing Plan	3751,13164
 National Digital Broadband Plan	11857
 National Digital Development Plan	3228
-National Digital Economy Master Plan	1359,15971
+National Digital Economy Master Plan	1359,15971,2890,4
 National Digital Government Plan	12562
 National Digital Health Strategic Plan RDPH	16041
 National Digital Master Plan	6974,574,4662,5535
@@ -1937,7 +1940,7 @@ National Electronic Government Plan	2291,10124,38,892
 National Electronic Government Plan Undertake	12453
 National Electronic Government Plan. Patrick K	12453,892
 National Emergency Telecommunications Plan	3604,2564,6814,9,1,1202,926
-National Employment Action Plan	16861
+National Employment Action Plan	16861,3369
 National Energy Efficiency Plan	19245
 National Energy Efficiency Plan of Côte	3604
 National Evaluation Plan	13060
@@ -1990,6 +1993,7 @@ National Incident Response Plan	10689
 National Indicative Plan	12333
 National Information System Master Plan	15411
 National Infrastructure Master Plan Legislature	17260
+National Infrastructure Plan	20207
 National Integrated Resource Plan	12399,756
 National Integrated Water Resources Management Plan	14745,3
 National Investment Plan	14830
@@ -2935,13 +2939,14 @@ Rate CIP Costed Implementation Plan CEB	16950
 Recherche Plan	18121
 Recommendations and Action Plan	5677
 Records of E-waste Management Plan	1988
-Recovery Focused National Development Plan	16924,20,7,154,123
+Recovery Focused National Development Plan	16924,20,7,154,123,2996
+Recovery Focused-National Development Plan	20224
 Recovery Plan	10721
 Recovery Plan DAC Departmental Advisory Committee	11986
 Recovery Plan ERP Enterprise Resource Planning	13420
 Recovery Plan Service Providers	10721
 Recovery and Peace Consolidation Plan	15731
-Recovery-Focused National Development Plan	9727,111,7089,46,132,19,123
+Recovery-Focused National Development Plan	9727,111,7089,46,132,19,123,2970
 Recovery-focused National Development Plan	1714
 Recovery-focused National Development Plan. Stakeholders	1714
 Ref. Channel Plan	5245
@@ -3622,7 +3627,7 @@ Year Statistical Plan	16927
 Year Strategic Plan	16883
 Year-End Strategic Plan Review Workshop	1554
 Years of Schooling LMP Labor Management Plan	19988
-Yiriwaa National Development Plan	16966
+Yiriwaa National Development Plan	16966,3257
 Young The Nigerian National Broadband Plan	11857
 Zambia Capital Markets Master Plan	6938
 Zambia's Climate Adaptation Plan	1988

@@ -149,6 +149,7 @@ Accountancy Association	18825
 Accounting System BASA Banking Association of South	11261
 Acronymes APE Association	17885
 Addis Ababa City Administration Associations of Persons	14019
+Addis Ababa and Oromia Women Traders' Associations	20076
 Adjunct Associate Professor	7112
 Affected Owners Association	16916
 Affected Owners Association26	16916
@@ -646,7 +647,7 @@ Associação Força Guiné	17020
 Associação Francófona de Protecção de Dados	2345
 Associação Instituto Marquês de Vale Flôr. Publicado	18811
 Associação Internacional	16110
-Associação Internacional de Desenvolvimento	16059
+Associação Internacional de Desenvolvimento	16059,4029
 Associação Internacional de Gestão de Dados	18801
 Associação Marquês de Valle Flôr	18814
 Associação Moçambicana de Bancos	12808,6
@@ -959,6 +960,7 @@ Eswatini Sugar Association	12977
 Etat Azali Assoumani. Plusieurs	13790
 Ethiopian Bankers Association	3944
 Ethiopian Economics Association	10852
+Ethiopian Women Exporters Association	20076
 Eubaldo Moto Edu Ada Finance Associate	17101
 European Economic Association	18318
 European Free Trade Association	18985
@@ -998,7 +1000,7 @@ Forum of Mozambican Associations of People	12201
 Fourth Associate Justice Law Clerk Bailiff	16943
 Francophone Association of Data Protection Authorities	6363
 Freedom of Assembly and Association	9082,9515
-Freedom of Association	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Freedom of Association	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 Freedom of Association Every	13948
 Freedom of Association and Assembly	6188
 Freedom of Association and Assembly Article	14742
@@ -1101,7 +1103,7 @@ IDA International Development Association NBS National	19554
 IDA the Association	1867
 IFC International Development Association IFR Interim	15515
 III. The ICT Association of Malawi	13053
-INCLUSION PARTICIPATION Freedom of Association	10759,78,1052,451,7598
+INCLUSION PARTICIPATION Freedom of Association	10759,78,1052,451,7598,274
 INFORMATIQUES A TRAVERS DES ASSOCIATIONS SPECIFIQUEMENT	16617
 INTBAFRAD INTERNATIONAL DEVELOPMENT ASSOCIATION U.S.A. Cable	2474
 INTERNATIONAL DEVELOPMENT ASSOCIATION	13722,34,239,435,482,785,1239
@@ -1185,6 +1187,7 @@ Islamic Banking Glossary. Kenya Bankers Association	12297
 Islamic Health Association of Malawi	12240
 Italian Association Amici	16950
 Ivoire Frédérick Blédou Expert-Comptable Diplômé Associé	19850
+J Am Med Inf Assoc	20219
 J Am Med Inform Assoc	771,14640
 J Associação de Surdos de Cabo Verde	15694
 J New Zeal Med Assoc	8376
@@ -1201,6 +1204,7 @@ KAGERE Partner Senior Associate Associate	12232
 KESSHA Kenya Secondary Schools Heads Association	6946
 KEY ASSOCIATED POLICIES	14819
 KONE Association Mali Profond	18032
+Kampala City Traders Association	20140
 Kenya Association of Manufacturers	14932
 Kenya Association of Manufacturers CEO	9930
 Kenya Bankers Association	797,1871,2533,505,3781,2799,11,5449
@@ -1304,7 +1308,7 @@ Memorandum and Articles of Association of Econet	4896
 Memorandum and Articles of Association of Econet InfraCo	4896
 Memorandum and Articles of Association. ANNEXURE D3	4896
 Memorandum and Associationto	18154
-Memorandum of Association	3714,11177,3263,402
+Memorandum of Association	3714,11177,3263,402,1540
 Merlin ASSOUMOU NDO	16381
 Meteorological Association of Southern Africa	12918,447
 Microfinance Savings Associations Total Financing	15578
@@ -1418,7 +1422,7 @@ Patrie IDA Association Internationale de Développement IDI	18204
 Payments Association	8252,11412
 Payments Association of Namibia	8251,1,4840
 Payments Association of South Africa	8664,1113
-Payments Association of Zambia	5217,7192
+Payments Association of Zambia	5217,7192,7724
 Pension Supervisors Association	14997
 Pension Supervisors Association EAX East Africa	14997
 Pesquisa Associativismo	17020
@@ -1616,6 +1620,7 @@ Standards Association of Zimbabwe SAZ Certification Services	13514
 Standards Association of Zimbabwe URL	13514
 Statistical Association	18318
 Strengthening the Insurance Association	14997
+Strongly Associated	20221
 Sudan Fintech Association	14897
 Sudanese American Physicians Associations	15100
 Suppliers Association	5675
@@ -1669,6 +1674,7 @@ Uganda Insurers Association	14997
 Uganda Manufacturers Association	6576
 Uganda Medical Association	4753
 Uganda Parliamentary Press Association	19714
+Uganda Revenue Authority. Associated Motor Dealers	20140
 Une Association Professionnelle	10965
 Union FIFA Fédération Internationale de Football Association	17260
 Union des Associations	18286
@@ -1710,6 +1716,7 @@ World Bank's International Development Associ-	14897
 World Bank's International Development Association	1579,675,2284,7470,734,689,1529,46
 World Bank’s International Development Association	5500,3547
 World Broadband Association Forum	3954
+World Meteorological Organisation's Regional Association	20182
 X Tanzania Fintech Association	9452
 Yellow Light Taxi Association	9466
 Yellow Light Taxi Association Chairperson Kebaeletse	9466

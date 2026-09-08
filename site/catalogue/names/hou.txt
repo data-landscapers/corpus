@@ -138,6 +138,7 @@ Bénin. Me Luciano Hounkponou	6501
 C'est Moi. Tokandji K. Houédako	6217
 C. AFFECTED HOUSEHOLD SHEET	17114
 C. House Rehabilitation and Reconstruction The National	12977
+C.K. Houessinon	20219
 CA Staff House Mortgage	6946
 CAHF Centre for Affordable Housing Finance	10835,3,130,902,16,1,266,1,9,178,11,1,135,7334,36,1
 CDACNetwork Companies House Registration	15342
@@ -170,7 +171,7 @@ Census The National Population and Housing Census	19715
 Census of Population and Housing	1867,10542,22,936
 Central Liberia Household Labor Men	17043
 Centre RPHC Rwanda Population and Housing Census	12413,2643
-Centre for Affordable Housing Finance	10759,78,1052,451,7313,183,38,64
+Centre for Affordable Housing Finance	10759,78,1052,451,7313,183,38,64,274
 Centre of Excellence for CRVS Systems. Housed	12138,189
 Century Program for Results Population and Housing Census	19519
 Chairman Marc Houreau	17579
@@ -263,7 +264,7 @@ Day End Notification Hours	13606
 Deal House	14230
 Dear Hournorable Speaker	11289
 Decennial Population and Housing Census	19526
-Decent Housing	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,3175,3989,1,169,14,22,1,65,14,1,48
+Decent Housing	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,3175,3989,1,169,14,22,1,65,14,1,48,225
 Decent Housing Absence of Armed Conflict	10838
 Demographic and Household Survey	10829
 Demographic and Housing Survey	12962
@@ -367,6 +368,7 @@ FINANCIAL STABILITY Household Sector	11131
 FIRST HOUSING FINANCE COMPANY	19592
 FSC House	14844,3
 FSD Kenya FinAccess Household Survey Report	7548
+Facebook Called QGroup House	20234
 FacebookTwitterPinterestEmail From the White House	4942
 Fairness and Housing	7147
 Faramana Houet Hauts-Bassins	15715
@@ -413,7 +415,7 @@ Fourth Population and Housing Census	12413
 Freedom House	2117,3098,1617,117,2,1281,790,60,74,2535,177,465,43,2966,158,4136,17,183,85
 Freedom House AI Surveillance Index	121,138,83,133
 Freedom House Freedom	17967,217
-Freedom House HEI Health Effects Institute	10759,78,1052,451,7598
+Freedom House HEI Health Effects Institute	10759,78,1052,451,7598,274
 Freedom House Report	14190
 Freedom House Score	10908,9014
 Freedom House WJP World Justice Project	10835,3,130,902,16,466,1,135,7334
@@ -680,6 +682,7 @@ House Permit	11282
 House Reviews Privacy	3008
 House Sittings	10313
 House That China Built	5302
+House Title	20175
 House and Senate	8994
 House of Assembly	12955,58
 House of Assembly and Senate. Each Chamber	12962
@@ -754,7 +757,7 @@ Housed	12138,43
 Housegirls	12227
 Househelp	582
 Househelp D	582
-Household	236,182,164,388,2189,410,475,3477,1888,266,1088,201,21,146,2,1,2,14,42,3,74,27,128,45,447,90,152,75,45,55,2,38,10,20,95,80,169,176,33,6,2,14,76,69,260,149,116,156,294,39,582,17,8,71,17,28,36,1,45,82,220,3,327,30,54,3,2,62,15,3,1109,11,13,24,2,19,29,93,71,13,123,35,1008,8,134,6,2,27,8,34,171,18,536,282,7,16,12,85,15,48,13,34,74
+Household	236,182,164,388,2189,410,475,3477,1888,266,1088,201,21,146,2,1,2,14,42,3,74,27,128,45,447,90,152,75,45,55,2,38,10,20,95,80,169,176,33,6,2,14,76,69,260,149,116,156,294,39,582,17,8,71,17,28,36,1,45,82,220,3,327,30,54,3,2,62,15,3,1109,11,13,24,2,19,29,93,71,13,123,35,1008,8,134,6,2,27,8,34,171,18,536,282,7,16,12,85,15,48,13,34,74,401
 Household Access	3641,16061
 Household Affordability	12399
 Household Amenities	19613
@@ -886,7 +889,7 @@ Household-level	11156,1501,7250
 Household-level MPI	15244
 Household. ICT	12403
 HouseholdExpenditure Survey Results	16833
-Households	582,5532,682,2535,216,546,670,5,25,48,11,111,1,21,148,3,56,19,51,38,555,24,45,234,75,28,72,11,14,15,10,16,4,26,7,4,516,7,1,13,1,354,15,2,183,272,294,44,581,22,62,29,60,1,27,235,85,275,55,27,16,41,1,20,290,44,19,56,296,468,15,9,26,38,2,8,16,34,43,56,186,458,106,28,1,26,200,94,103,54,86,2,841,258,2,10,32,53,38,25,13,26,190,11
+Households	582,5532,682,2535,216,546,670,5,25,48,11,111,1,21,148,3,56,19,51,38,555,24,45,234,75,28,72,11,14,15,10,16,4,26,7,4,516,7,1,13,1,354,15,2,183,272,294,44,581,22,62,29,60,1,27,235,85,275,55,27,16,41,1,20,290,44,19,56,296,468,15,9,26,38,2,8,16,34,43,56,186,458,106,28,1,26,200,94,103,54,86,2,841,258,2,10,32,53,38,25,13,26,190,11,281
 Households Affected	12977
 Households Agricultural Activities	19554
 Households Avocado	19554
@@ -966,10 +969,14 @@ Housing Development Bank	15473
 Housing Electricity Drinking Water Sanitation Cooking	15244
 Housing Estates	14748
 Housing FTTx Fibre	11857
+Housing Finance	20221
 Housing Finance Bank	19712
 Housing Finance Company Limited	18925
 Housing Finance Corporation STEM Science	17105
 Housing Finance Environment Education Water and Sanitation	18476
+Housing Finance Fund	20221
+Housing Finance Repository	20221
+Housing Finance System	20221
 Housing Government of Seychelles	18904
 Housing Health YOUR EXPERIENCE REIMAGINED	14752
 Housing Housing	15244
@@ -1153,13 +1160,14 @@ Jean Hounkpè	16135
 Jean-Marie Vianey HOUNKODE ZOSSOU	16005
 Jin Houyun	3331,91,225,6,324,50,31,115,12,487,194,149,2015,234
 Jogoo House. NPSIMS	3320
-Jubilee House	15430
+Jubilee House	15430,4749,14
 Justin Gourna-Zacko. Hamadou Houssaïni	2300
 K. Hounake	19284
 KENYA HOUSING SURVEY FACT SHEET Mobile	12251
 KENYA HOUSING SURVEY Mobile Phone Ownership	12251
 KOLOMBIA Houra Abe ADJ	19251
 KPHC Kenya Population and Housing Census KPLC	2775
+KWh Kilo Watt Hour	20223
 KWh Kilo Watt Hour KWS Kenya	2775
 Karangasso- Houet Hauts-Bassins	15715
 Kenya Afya House	4153
@@ -1284,6 +1292,7 @@ MTPHC HOUSEHOLD POPULATION AND AVERAGE HOUSEHOLD	18464
 MTPHC Household Population and Average Household Size	18464
 MUST HAVE KNOWLEDGE OF THE HOUSEHOLD	17127
 MW. Households	19646
+MWh Mega Watt Hour	20223
 Madame Edwige ADOHINZIN HOUNTONDJI	17584
 Madame HOUZOU-MOUZOU Prénam G	19260
 Main Source of Drinking Water for Household	16921,193
@@ -1305,9 +1314,9 @@ Marlborough House	12619
 Maxime Houinato	19150
 Maximum Hours	12389
 Maître Adrien HOUNGBEDJI	15399
-Me Hounkponou	5842,74,336
+Me Hounkponou	5842,74,336,13807
 Me LUCIANO HOUNKPONOU	1990
-Me Luciano Hounkponou	1990,3852,74,336,27,222,238,97,2206
+Me Luciano Hounkponou	1990,3852,74,336,27,222,238,97,2206,11017
 Measure Baseline Original Target Households	15601
 Mechanism HH Household HIECS Household Income	15663
 Media Houses	4528,7925,59,5973
@@ -1362,6 +1371,7 @@ Mme Khadijetou El Houda. L’ouverture	17992
 Mme Mariem Boydiel Houmeid	18030
 Mme Mariem Boîdiel Houmeid	9746
 Mme Marieme Mint Boydiel Houmeid	17999
+Mme Néné Houdia Barry	20099
 MoH Ministry of Health MoHU Ministry of Housing	17157
 Mohammed Abdulsalam Shaeban Qaed Houssin Moustfa	17403
 Money Management for Households	15130
@@ -1410,6 +1420,7 @@ Namibia Population and Housing Census	9485,2898
 Namibia Population and Housing Census PUMS	9485
 Namibia Population and Housing Census Release	12383
 National Assembly National Assembly The House	18244
+National Bureau of Statistics. Household	20196
 National Census of Households and Population	10812
 National Census of Population and Housing	13367
 National House	4126
@@ -1619,7 +1630,7 @@ Péni Houet Hauts-Bassins	15715
 Q1 Plant Average Hourly Generation	12062
 Q3. Hourly	18217
 Q4 Q5 Households	12373
-QGroup House	6008
+QGroup House	6008,14226
 Quarter Total Housing	12972
 Quarterly Households	11525
 RDGE Ismail MAHAMOUD HOUSSEIN	13885
@@ -1765,7 +1776,7 @@ Social Security House Julius Nyerere Avenue	14766
 Social Security and Housing Finance Corporation	3066,13821
 Socioeconomic Characteristics of Household Head	15244
 Socioeconomic Empowerment for Poor and Vulnerable Households	16384
-Socioeconomic Inequality Mitigation Decent Housing Food	10837,1315,188,7598
+Socioeconomic Inequality Mitigation Decent Housing Food	10837,1315,188,7598,274
 Somali Integrated Household Budget Survey	3586,505
 Somali Population and Housing Census	14981
 Somali Population and Housing Census Somalia	14981
@@ -1787,7 +1798,7 @@ State Council. The House of Peoples’ Representatives	13948
 State Department for Housing	2428
 State Department for Housing Accommodation and Food Services	2775
 State Department for Housing and Urban Development	14546,85
-State House	1838,1033,159,223,922,578,347,117,944,36,2,8,20,21,14,326,283,129,481,165,1,4,208,36,322,166,226,371,67,315,38,60,236,550,880,789,145,194,1059,168,45,35,716,199,70,54,247,483,4,2245,892,105,440,82,68,9,359,38,12,1,17,30
+State House	1838,1033,159,223,922,578,347,117,944,36,2,8,20,21,14,326,283,129,481,165,1,4,208,36,322,166,226,371,67,315,38,60,236,550,880,789,145,194,1059,168,45,35,716,199,70,54,247,483,4,2245,892,105,440,82,68,9,359,38,12,1,17,30,446,53
 State House Auditorium	18269
 State House Cabinet	5318
 State House Construction	5658
@@ -1807,7 +1818,7 @@ State House and Good Governance	19542
 State House of Assembly	11976
 State House of Assembly. Executive Chairman	11976
 State House of Assembly. PART II	11976
-State House of The Gambia	17124,92,131
+State House of The Gambia	17124,92,131,2887
 State House of The Gambia URL	17216
 State House. National Digital Development Policy	18456
 State House. President Herminie	8992

@@ -1,6 +1,7 @@
 AASA and IATA. Dateline Nairobi	10723
 ADAM SOULE ZOUMAROU Patrice IALON	15489
 AFRICAIN D’INFORMATIQUE NIGER IAT INSTITUT AFRICAIN	18143
+AFRINIC's IANA RC	20187
 ASTM C162 IANOR REVISION REUNION	16103
 AVALIAÇÃO PARA A IA	2816
 Abrangência da IA Crítica	3519
@@ -468,7 +469,17 @@ IAMGOLD EXPLORATION MALI GUI	16623
 IAN KATUSIIME	4753
 IANA Functions	3503
 IANA Functions Operator	3503
-IANA Numbering Services	3503
+IANA Numbering Services	3503,16633,51
+IANA Numbering Services Operator	20187
+IANA Numbering Services Review Committee	20136
+IANA Numbering Services Review Committee Charter	20136
+IANA Numbering Services Review Committee Report	20136,51
+IANA Performance Matrix	20136
+IANA RC	20136
+IANA RC Operating Procedures	20136
+IANA Review Called Outreach Sufficient	20136
+IANA Review Committee	20136
+IANA-RC-Report FINAL.pdf	20187
 IANDA Guiné Saúde	11543
 IANEN Avant-propos	18171
 IANOR	15347,208,548
@@ -601,6 +612,7 @@ Iakovina Kindylidi	12161
 Ian Bett	12256
 Ian Cameron	5323
 Ian Campbell	8786
+Ian Chepkuto	20102
 Ian De Vega	396
 Ian King	11773
 Ian Mackay	8450

@@ -2,6 +2,7 @@ A. Small	14717
 A9cision 165 cables sm.pdf Vu	19373
 A9gal Smart Sénégal	18430
 ABBREVIATIONS DESCRIPTION SMS Subject Matter Specialist	11192
+ABIS. Smart	20221
 ABLA MINTER MINTER SMTDP	15845
 ACF-Powered Platforms for Smart Trade Facilitation	13042
 ACRONYMS AND ABBREVIATIONS APME Small and Medium-sized	10980
@@ -339,6 +340,7 @@ Domestic SMS NAD	1944
 Domestic Small Commercial	12256
 Domestic Small Commercial Street	12256
 Domestic and International SMS Count	18444
+Doors for SMEs	20104
 Douala Smart Port	5291
 Douala Workshop Trains SME Support Agencies	5407,676
 Drive Cross-Border Growth for African SMEs Uganda	10672
@@ -1065,7 +1067,7 @@ SMAP Based	10763
 SMAP Institute	13990
 SMAP Radiometer	13094
 SMAP SAR	13094
-SMART	395,7214,3232,17,373,50,526,56,42,451,97,552,180,127,2,31,1407,9,25,136,225,395,182,990,1128,1,26,1,75,1008,273
+SMART	395,7214,3232,17,373,50,526,56,42,451,97,552,180,127,2,31,1407,9,25,136,225,395,182,990,1128,1,26,1,75,1008,273,965
 SMART AFADs	14818
 SMART AFRICA	961,14622,2539
 SMART AFRICA ALLIANCE	1182,82,9555
@@ -1101,7 +1103,8 @@ SMART Nkunganire	13418
 SMART Nkunganire System	13418
 SMART OBJECTIVES The Ministry	12972
 SMART Objectives	12972
-SMART Office Management System	3088
+SMART Office	20120
+SMART Office Management System	3088,17032
 SMART Office System	3088
 SMART Office System Include	3088
 SMART Office System Rollout	3088
@@ -1127,12 +1130,12 @@ SMART Zambia Deploys ICT Equipment Sinazongwe	11171
 SMART Zambia Drives Police Digitalisation	12462
 SMART Zambia E-Government Division	6484
 SMART Zambia Expands Digital Infrastructure	7130
-SMART Zambia Institute	1222,652,1,1213,607,843,28,160,1258,186,59,1155,1753,15,219,232,1,188,423,956,1189,15,92,920,36,18,86
+SMART Zambia Institute	1222,652,1,1213,607,843,28,160,1258,186,59,1155,1753,15,219,232,1,188,423,956,1189,15,92,920,36,18,86,6593
 SMART Zambia Institute Approved	12360
 SMART Zambia Institute Menu Lusaka	12381
 SMART Zambia Institute Menu Search Lusaka	12375
 SMART Zambia Institute National Coordinator	3729
-SMART Zambia Institute National Coordinator Percy	3695,670,3019,6186
+SMART Zambia Institute National Coordinator Percy	3695,670,3019,6186,6550
 SMART Zambia Institute PUBLIC SERVICE INFORMATION	12360
 SMART Zambia Institute. All Rights Reserved	12375,6
 SMART Zambia Institute. So	13387
@@ -1199,6 +1202,7 @@ SME Digital Transformatio	12972
 SME Division	14746,4
 SME Equity Fund	14819
 SME Finance	11140
+SME Financing	20224
 SME Growth and Development	10963
 SME Guarantee Fund	16614
 SME Impact Fund	909
@@ -1277,6 +1281,8 @@ SMEs Small and Medium Enterprises SPMU Satellite	1867
 SMEs Verifying	12214
 SMEs and Cooperatives	14736,14,61,8
 SMEs and Cooperatives Dr. the Hon. Mahend Gungapersad	14753,88
+SMEs and Digital Inclusion	20224
+SMEs and Digital Inclusion Digital	20224
 SMEs and HDPs	13461
 SMEs and Investments	12376
 SMEs and MSMEs	14352
@@ -1507,6 +1513,7 @@ SMSs.9	15471
 SMS’. The SACF	4732
 SMT Electronic Stock Management Tool EDIT	18478
 SMT Health System Managers	18478
+SMT Senior Management Team	20217
 SMT Small and Medium Taxpayers Office TCC	14985
 SMTD Service Providers Sotelma	17870
 SMTD-	17841
@@ -1572,7 +1579,7 @@ Sm.Aa	15694
 SmPaI3lie	10763
 Smail Nassima	16230
 Smait Maven	7564
-Small	418,257,1313,213,1526,347,52,460,214,25,419,3,227,16,175,68,19,131,452,50,305,281,32,57,96,242,75,50,170,66,4,82,444,125,524,141,50,543,37,32,99,12,225,599,42,47,10,18,48,123,12,41,117,15,30,17,272,27,54,71,120,134,7,1,78,34,195,21,23,23,45,45,53,1,25,11,8,1,55,356,61,1,59,23,53,19,39,12,133,23,106,5,84,5,42,417,141,27,53,235,152,30,143,99,117,62,88,67,12,92,217,18,1,61,21,4,23,544,504,125,78,6,42,2,19,5,49,36,32,71,43,93,7,119,246,248,448,186,3,49,198,16,27,28,420,310,39,8,75,124,77,88,30
+Small	418,257,1313,213,1526,347,52,460,214,25,419,3,227,16,175,68,19,131,452,50,305,281,32,57,96,242,75,50,170,66,4,82,444,125,524,141,50,543,37,32,99,12,225,599,42,47,10,18,48,123,12,41,117,15,30,17,272,27,54,71,120,134,7,1,78,34,195,21,23,23,45,45,53,1,25,11,8,1,55,356,61,1,59,23,53,19,39,12,133,23,106,5,84,5,42,417,141,27,53,235,152,30,143,99,117,62,88,67,12,92,217,18,1,61,21,4,23,544,504,125,78,6,42,2,19,5,49,36,32,71,43,93,7,119,246,248,448,186,3,49,198,16,27,28,420,310,39,8,75,124,77,88,30,96
 Small AI	9558
 Small Aperture Terminal RAPPORT ANNUEL D'ACTIVITES	16327
 Small Arms Survey Briefing Paper	3583
@@ -1687,7 +1694,7 @@ Small and Medium Enterprise MTO Money Transfer	19940
 Small and Medium Enterprise NDP National Development	19646
 Small and Medium Enterprise NaFAA National Fisheries	17139
 Small and Medium Enterprise SDM Single Digital	16144
-Small and Medium Enterprises	940,30,161,117,16,724,1772,768,1355,1063,157,445,1122,447,12,294,1433,194,81,134,1217,30,189,37,184,34,22,144,190,2,129,242,339,175,347,101,27,223,656,890,97,598,1922,652,97,17,114
+Small and Medium Enterprises	940,30,161,117,16,724,1772,768,1355,1063,157,445,1122,447,12,294,1433,194,81,134,1217,30,189,37,184,34,22,144,190,2,129,242,339,175,347,101,27,223,656,890,97,598,1922,652,97,17,114,128
 Small and Medium Enterprises Act	14843
 Small and Medium Enterprises Develop	14717
 Small and Medium Enterprises Development	940,6496,825,3041,2289,82
@@ -1749,14 +1756,14 @@ Smallholders	14818,5056
 Smallholders for Market-Oriented Vegetable Production	16970
 Smallholders’ Credit Guarantee Scheme Tanzania Agricultural	7763
 Smallroombigdream	7655
-Smart	395,187,207,169,507,631,422,184,245,11,319,217,367,667,35,571,366,633,78,221,141,136,770,13,40,16,203,125,146,261,177,143,2,601,503,1103,204,114,727,6,370,126,44,33,54,22,212,281,32,95,95,85,2,10,7,199,3,11,15,1193,170,25,191,26,117,190,81,290,127,997,150,768,411,24,1409,178
+Smart	395,187,207,169,507,631,422,184,245,11,319,217,367,667,35,571,366,633,78,221,141,136,770,13,40,16,203,125,146,261,177,143,2,601,503,1103,204,114,727,6,370,126,44,33,54,22,212,281,32,95,95,85,2,10,7,199,3,11,15,1193,170,25,191,26,117,190,81,290,127,997,150,768,411,24,1409,178,162,155
 Smart AFAD. Presently	14818
 Smart Africa	961,221,22,218,306,51,35,868,112,45,170,32,121,110,67,39,20,96,55,325,85,27,1,43,6,14,76,200,188,69,222,543,47,5,276,25,120,392,37,16,1,81,21,1,576,58,142,51,31,26,1,107,495,3,183,93,207,628,99,49,17,492,4,78,148,28,187,746,3,318,299,44,339,12,532,512,1066,78,1471,72,18,561,51,6,193,263,22,26,102,168,312,31,1167,138,9,1315
 Smart Africa AI	10801
 Smart Africa AI Blueprint	6054,5211
 Smart Africa AI for Africa Blueprint	2682
 Smart Africa Agenda	10691
-Smart Africa Alliance	1182,61,21,13,537,1000,478,257,50,360,27,140,1059,1218,661,484,373,2152,746,1003,866,8,914,2534,561,231,351,1217
+Smart Africa Alliance	1182,61,21,13,537,1000,478,257,50,360,27,140,1059,1218,661,484,373,2152,746,1003,866,8,914,2534,561,231,351,1217,1720
 Smart Africa Alliance Alignment	16144,955
 Smart Africa Alliance DG Lacina Kone	5348
 Smart Africa Alliance and ECOWAS	1264
@@ -1860,7 +1867,7 @@ Smart Car Park Management Solution	14753
 Smart Card	13005
 Smart Card Card Possession	13095
 Smart Card Standards	13005
-Smart Cards	15519
+Smart Cards	15519,4702
 Smart Care Legacy and SmartCare Plus	2477
 Smart Care Pro	12375
 Smart CarePro	2477
@@ -2000,6 +2007,7 @@ Smart Mining	395,563
 Smart Money Talks	13532
 Smart Nation	3193,420,3,1189,1398,1025,4694,1972,1,19,6118
 Smart Nation Roadmap	4197
+Smart Nation Singapore	20221
 Smart National Transport Data Bank	15297
 Smart National Transport Databank	10603
 Smart News Liberia	17037
@@ -2111,7 +2119,7 @@ Smart Zambia Institute. Digital ID	1879
 Smart Zambia Institute. Expected	2254
 Smart Zambia Institute. Working Together	13450
 Smart Zambia National Coordinator	5527,7936
-Smart Zambia National Coordinator Percy Chinyama	5522,3870
+Smart Zambia National Coordinator Percy Chinyama	5522,3870,10819
 Smart Zambia National ICT Development Project	59,134,1
 Smart Zambia and ZESCO	5247
 Smart Zambia and ZamStats. Technical	13636
@@ -2446,6 +2454,7 @@ Windhoek People-Centred Smart City Strategy	4495,2614,1861
 Without SMS	14818
 Women and Youth Crop Smallholders	14818
 Women-owned SMEs. Under	14742
+Work Smarter	20068
 World Bank and Smart Africa	9636
 World Health Organization Smart Guidelines	14622
 X250 SMS X	15471

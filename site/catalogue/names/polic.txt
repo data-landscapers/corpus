@@ -77,7 +77,7 @@ AU Child Online Safety and Empowerment Policy	1814
 AU Continental Data Policy Framework	1779,6142
 AU Continental Data Policy Framework. DPC	1779
 AU Data Policy	961
-AU Data Policy Framework	961,200,82,21,103,447,868,376,104,196,237,266,262,301,159,7,99,613,61,100,623,385,49,338,95,183,393,18,1572,1601,1335,116,892,394,23,1006,178,155,1112,3204
+AU Data Policy Framework	961,200,82,21,103,447,868,376,104,196,237,266,262,301,159,7,99,613,61,100,623,385,49,338,95,183,393,18,1572,1601,1335,116,892,394,23,1006,178,155,1112,3204,1083
 AU Data Policy Framework AU Convention	12055,1402
 AU Data Policy Framework Simplified Version	3162
 AU Data Policy Framework and Africa Digital	1243
@@ -183,13 +183,14 @@ African Space Policy and Strategy	12133
 African Trade Policy Centre	1356,9463,917,1621,2474,3534
 African Union AI Policy Working Group	4528,7984
 African Union Data Policy	14752
-African Union Data Policy Framework	1753,61,304,1044,196,260,243,319,244,166,654,808,296,878,16,306,595,604,1281,45,1366,616,619,17,470,62,524,197,1090,1696,212,142,2638,235
+African Union Data Policy Framework	1753,61,304,1044,196,260,243,319,244,166,654,808,296,878,16,306,595,604,1281,45,1366,616,619,17,470,62,524,197,1090,1696,212,142,2638,235,137,124
 African Union Data Policy Framework CBL	5244
 African Union Data Policy Framework Implementation	3861
 African Union Data Policy Framework and Malabo	3861
 African Union Data Policy Framework. Accordingly	5244
 African Union Data Policy Framework. Cooperation	5244
 African Union Data Policy Framework. Developed	5244
+African Union Data Policy Framework. Held	20094
 African Union Mechanism for Police Cooperation	961
 African Union Police Mechanism	12953
 African Union Social Policy Framework	19531
@@ -325,7 +326,7 @@ Backup and Disaster Recovery Policy	15164
 Bahamas Yes Electronic Communications Sector Policy	11529
 Banadir Regional Police Commissioner	15007
 Banjul City Council BP-2024 Broadband Policy	16884
-Bank AFIDEP African Institute for Development Policy	10759,78,1052,451,7598
+Bank AFIDEP African Institute for Development Policy	10759,78,1052,451,7598,274
 Bank IPF Policy	18374
 Bank Policies	11863,2075
 Bank Policy Research Working Paper No	17962
@@ -511,6 +512,7 @@ Capacity Constraints Financial Policy Frameworks Standards	12457
 Capacity Management Policy Tier	10721
 Capacity and Human Capital Development Policy Objective	7548
 Capacity and Human Capital Development Policy Statement	7548
+Capitaine de Police Sawadogo Yamyia	20060
 Careers Vacancies Speeches Documents Monetary Policy	12390
 Case for Policy Intervention Notwithstanding	10157
 Catalytic Policies	3861
@@ -603,7 +605,7 @@ Commission's Service for Foreign Policy Instruments GBV	970
 Commissioner Dinah Marathe of Botswana Police	19695
 Commissioner General of Police	13361
 Commissioner for Education Policy and Research	19783
-Commissioner of Police	783,7062,441,4173,451,622,49,1133,1,27,1,10,7,49,4109,213
+Commissioner of Police	783,7062,441,4173,451,622,49,1133,1,27,1,10,7,49,4109,213,1067
 Commissioner of Police CPL	14760
 Commissioner of Police. MPF	14760
 Commissioner of Police. PART III	14727
@@ -848,7 +850,7 @@ Data Protection Policy	5898
 Data Protection Policy Bill	4042
 Data Protection Policy and Guidelines	19042
 Data Protection and Privacy Policy	1630,12894,2400,15
-Data Protection and Privacy Policy and Strategy	16924
+Data Protection and Privacy Policy and Strategy	16924,3300
 Data Retention Policy	14524,228
 Data Retention Policy Standards	18745
 Data Revolution Policy	12419,2450,3660
@@ -972,7 +974,7 @@ Development of Training Policies	15031
 Devolution Policy	970,18615
 Diaspora Mobilisation Policy	11960
 Diaspora Policy	14748
-Dig Once Policy	11857
+Dig Once Policy	11857,8325
 Dig Once Policy P-5 Fixed Internet	11857
 Dig Once Policy. Enforce Open Access	11857
 Dig-Once Policy	7110,11344
@@ -1062,6 +1064,7 @@ Directorate of Policy Development and Strategic Planning	16951
 Directorate of Policy and Planning Information	34
 Directorate of Policy and Planning MoH	34
 Directorate-General for External Policies	10856
+Directors of Policy and Planning	20156
 Disabilities National Policy	8332
 Disabilities. The Policy	12993
 Disaster Management Policy	19520
@@ -1297,7 +1300,7 @@ Energy and Policy Considerations for Deep Learning	7548
 Energy-efficient Cloud Computing Technologies and Policies	1264
 Enforce Privacy Policies Privacy	34
 Enforcement Dr. Patrick Ndzinisa Policy Research	11131,3
-Enforcement of Environmental Policies	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Enforcement of Environmental Policies	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 Engagement and Re-engagement Policy. Ladies and Gentlemen	13487
 Enhance Police Cybercrime Response Unit Time	1000
 Enhance Policy Process and Decision Making	19519
@@ -1412,6 +1415,7 @@ Federal Police Commission	14095
 Fee-Free Basic Education Policy	19542
 Fees Stress Policy	7695
 Female Ghana Police	15845
+File Police Report	20221
 Final Policy Framework	18495
 Final Policy Paper	1354
 Final Policy Review	12674
@@ -1436,6 +1440,7 @@ Financial Year Policy and Regulatory Development	11230
 Financial Year Tax Policy	19641
 Financial Year. Mauritius Police Force Category-wise	14760
 Financing and Investment The ICT4D Policy	16884
+Fintech Policy	20224
 Fintech Policy Forum	4848
 Fintech Strategy and Fintech Regulatory Policy Framework	18495
 Firewall Policies for Micro-Segmentation	11231
@@ -1545,18 +1550,21 @@ Gambia Data Protection and Privacy Policy	16924
 Gambia Education Policy	16861
 Gambia Government Cloud Computing Policy	16924
 Gambia Government Cloud Policy	16924
-Gambia ICT for Development Policy Statement	16886
+Gambia ICT for Development Policy Statement	16886,3338
 Gambia NICI-1 Policy Statement	16861
+Gambia National Cyber Security Policy	20224
 Gambia National Cybersecurity Policy	16924
 Gambia National Health Policy	16896,26
-Gambia Police Force	1000,714,3064,718,3817,7792
+Gambia Police Force	1000,714,3064,718,3817,7792,3116,3
 Gambia Police Force Information Technology Unit	17423
 Gambia Police Force and Justice	1000
 Gambia Tightens No-Levy Policy	5583
-Gambia Trade Policy	17216
+Gambia Trade Policy	17216,3008
 Gambia WAPIS West African Police Information	17105
 Gambia's NICI-1 Policy Statement	16884
+Gambia's National Data Policy. Background	20218
 Gambia. Policy Document	9727
+Gambia. The Pricing Policy	20224
 Gambia. This Policy	16883
 Gambian NICI-1 Policy Statement	16861
 Gambian National Migration Policy	16874
@@ -1591,6 +1599,7 @@ Gender and Women Empowerment Policy	16951
 Gender and Women’s Empowerment Policy	16951
 Gender-Responsive Policies	9203
 Gender-Responsive Policy	11193
+Gender-based Violence Policy	20217
 General Directorate of Planning and Economic Policies	18305
 General Manager Economic Policy Research and Statistics	12962
 General Policy Requirements for Trust Service Providers	10819
@@ -1644,11 +1653,12 @@ Governance and Innovation Policy Brief Series	5700
 Government Affairs and Public Policy	5092
 Government Agenda. Policy	17105
 Government Cloud Data Classification Policy	16924
-Government Cloud Policy	16924
+Government Cloud Policy	16924,3296,4
 Government Data Governance Policies	5027
 Government Development Policy The Government of Liberia	16876
 Government Digital Policy and Legal Framework	12453,892
 Government Digital Policy and Legal Framework Government	12453,892
+Government Email Policy	20224
 Government In-Service Training Policy	12972
 Government In-Service Training Policy and Guidelines	12972
 Government Policies	12914,58,1450
@@ -1830,7 +1840,7 @@ ICT4D POLICY OBJECTIVES	16884
 ICT4D POLICY TO BP-2024	16883
 ICT4D Policies	16861
 ICT4D Policy	16861,22,1,1
-ICT4D Policy Statement	16861,63
+ICT4D Policy Statement	16861,63,3296
 ICT4D Policy. The BP-2024	16883
 ICT4D Policy. This BP-2024	16883
 ICsector. This Policy	16886
@@ -2033,6 +2043,7 @@ Inspector General of Police	4677,159,660,2975,611,2775,1031,693,3392,240,84,1180
 Inspector General of Police Douglas Kanja	3320,8990,1954
 Inspector General of Police Gregory O. W	17213
 Inspector General of Police Mr. Douglas Kanja	14467
+Inspector General of Police. Mandate	20221
 Inspector of Police	14760
 Inspector-General of Police	587,427,5773,4275,2341,813,2620
 Inspector-General of Police Olatunji Disu	14697
@@ -2320,6 +2331,7 @@ Liberia National Police Travel	17011
 Liberia National Police and Liberia Revenue	17294
 Liberia National Police and National Port Authority	16853
 Liberia National Police. IG Coleman	17213
+Liberia National Police. Looking	20149
 Liberia National Police. Monibah	16890
 Liberia National Police. Orange Liberia	17213
 Liberia National Police. Such	17213
@@ -2725,7 +2737,7 @@ National Birth and Death Registration Policy	16971
 National Blood Policy. Cairo	15725
 National Broadband Infrastructure Policy	19633
 National Broadband Plan and Digital Economy Policy	3740
-National Broadband Policy	2588,7877,730,1,333,1392,61,1741,6,2143,11,2758,1,18,29,39,23
+National Broadband Policy	2588,7877,730,1,333,1392,61,1741,6,2143,11,2758,1,18,29,39,23,473
 National Broadband Policy and Implementation Strategy Greece	11529
 National Broadband Policy and Strategy	3796,8589,4501
 National Broadband Policy for Rwanda	12333
@@ -2758,14 +2770,16 @@ National Criminal Justice Policy	19589
 National Curriculum Policy	899
 National Cyber Security Policy	12333,120,892,1
 National Cyber Security Policy and Strategy	1889
-National Cybersecurity Policy	3861,4521,3570,6951,1054
+National Cybersecurity Policy	3861,4521,3570,6951,1054,263
 National Cybersecurity Policy Framework	8897,2299,69,675
 National Cybersecurity Policy and Strategy	5132,386,5203
 National Data Governance Policy	700,3161,319,403,661,1272,3,273,1178,412,1143,2,2773,119,804,1338
 National Data Governance Policy Date	7970
 National Data Governance Policy Validation Workshop	13223
 National Data Governance Policy and Strategy	3861
-National Data Policy	2105,2261,217,1430,11071,21,133
+National Data Policy	2105,2261,217,1430,11071,21,133,2980
+National Data Policy Stakeholder Engagement Workshop	20218
+National Data Policy Validated	20218
 National Data Protection Policy	5898
 National Data Revolution Policy	12333,2701
 National Data Sharing Policy	2998,654,163,311,457,387,7449,5,2610
@@ -2792,6 +2806,7 @@ National Digital Economy Policy	8418,3534
 National Digital Economy Policy and Strategy	3456,1789,1197,3313,2102
 National Digital Financial Services Policy	15629
 National Digital Forensics Policy	10689
+National Digital Government Policy and Roadmap	20216
 National Digital Health Policies	7707
 National Digital Health Policy	4940,8164,34
 National Digital Health Policy and Strategy	7707
@@ -2824,7 +2839,7 @@ National Education Policy Directions and Priorities	15604
 National Education and Training Sector Policy	12975
 National Electricity Policy	18614
 National Electronic Communications Policy	11
-National Employment Policy	10963,1,1648,862,3387
+National Employment Policy	10963,1,1648,862,3387,3369
 National Employment Policy and Strategy	16861
 National Employment and Labour Policy	12964
 National Energy Policy	2391,7922,2075,4463,289,120,1277,1126,14
@@ -2913,7 +2928,7 @@ National Investment Policy	13060,166
 National Investment Policy and Eswatini	13226
 National Laboratory Quality Policy	11417
 National Labour Migration Policy	13605
-National Land Policy	9727,2410,775,339,645,980,2229,19,104,1391
+National Land Policy	9727,2410,775,339,645,980,2229,19,104,1391,1607
 National Land Policy Implementation Unit	9727,7397
 National Land Policy Launching Workshop	17124
 National Land Policy Validation Workshop	18619
@@ -3090,7 +3105,7 @@ Nigeria Open Data Policy	11854
 Nigeria Police	10721,1207
 Nigeria Police Crime and Incident Database Centre	11928
 Nigeria Police Cybercrime Unit Recovers Funds	2269
-Nigeria Police Force	2269,4841,1361,1578,5,1660,143,71,48,69,2652,2061,1396,74,18
+Nigeria Police Force	2269,4841,1361,1578,5,1660,143,71,48,69,2652,2061,1396,74,18,1952
 Nigeria Police Force Headquarters	8471
 Nigeria Police Force Headquarters and FCT Command	8662
 Nigeria Police Force Legal Directorate	8471
@@ -3284,7 +3299,7 @@ POLICE STATIONS	14760
 POLICIA MILITAR.- Concepto	4209
 POLICIA NACIONAL.- Concepto	4209
 POLICIERE	16617
-POLICIES	11955,6521
+POLICIES	11955,6521,1744
 POLICIES AND COMPLIANCE	16041
 POLICIES AND PROGRAMS FRAMEWORK	17157
 POLICIES AND PROGRAMS TO BUILD	16883
@@ -3432,6 +3447,7 @@ POLICÍA	4209
 POSTAL POLICY FOR ICT TABLE	958
 POSTAL SECTOR POLICY	18603
 POWERS AND DUTIES OF THE POLICE	18451
+PPARBD Policy Planning Analysis Research Budgeting	20217
 PPM Inspector General of Malawi Police Executive	12953
 PPME Policy Planning Monitoring and Evaluation RSIM	15556
 PRACTICE OR POLICY REC-Maternity	10881
@@ -3504,7 +3520,7 @@ Planning and Policy Development EMR Electronic Medical	12240
 Planning and Policy Directorate	18536
 Planning and Research Officer Strategic Policy Planning	13310
 Plataformas Integradas de Informação Policiais	11392
-Police	259,56,272,998,34,158,61,546,134,257,92,516,200,5,99,200,446,55,180,119,38,14,221,48,166,149,408,28,85,63,102,80,563,201,13,93,217,157,108,192,37,564,52,111,19,21,686,82,233,112,214,30,3,79,299,78,222,48,289,63,59,45,83,36,90,137,379,119,41,4,60,46,15,34,18,2,2,26,130,16,10,14,9,3,57,23,4,30,184,181,227,46,35,13,40,4,140,63,1,59,1,29,58,35,50,192,320,358,85,1,1,185,41,7,15,2,2,1,3,2,5,7,21,28,19,3,8,4,4,52,5,10,13,344,42,80,12,24,38,57,23,1,101,55,137,4,56,16,1,81,118,253,108,20,2,133,18,179,181,94,189,73,445,12,37,38,30,53,50,82,252,67,22,19,3,23,115,98,190,35,54,291,236,117,19,38,22,46,11,2,27,53,51,30
+Police	259,56,272,998,34,158,61,546,134,257,92,516,200,5,99,200,446,55,180,119,38,14,221,48,166,149,408,28,85,63,102,80,563,201,13,93,217,157,108,192,37,564,52,111,19,21,686,82,233,112,214,30,3,79,299,78,222,48,289,63,59,45,83,36,90,137,379,119,41,4,60,46,15,34,18,2,2,26,130,16,10,14,9,3,57,23,4,30,184,181,227,46,35,13,40,4,140,63,1,59,1,29,58,35,50,192,320,358,85,1,1,185,41,7,15,2,2,1,3,2,5,7,21,28,19,3,8,4,4,52,5,10,13,344,42,80,12,24,38,57,23,1,101,55,137,4,56,16,1,81,118,253,108,20,2,133,18,179,181,94,189,73,445,12,37,38,30,53,50,82,252,67,22,19,3,23,115,98,190,35,54,291,236,117,19,38,22,46,11,2,27,53,51,30,125,138,23
 Police Abou	17982
 Police Academy	14899,2240
 Police Academy and Regional Police Commanders	11062
@@ -3532,6 +3548,7 @@ Police Chef	14425
 Police Clearance	16949
 Police Club	14988
 Police College	5174
+Police Command and Control	20198
 Police Commissioner Advocate Borotho Matsoso	12731
 Police Commissioner Dinah Marathe	5174
 Police Commissioner Loubna Kikou	6452
@@ -3660,6 +3677,7 @@ Police Service NPISHs Non- Profit Institutions	2775
 Police Service SARB South African Reserve	11198
 Police Services	4389,14088,1452
 Police Session	11188
+Police Special Fraud Unit	20198
 Police Spokesperson	11651
 Police Staff College	13361
 Police Standing Orders	14760
@@ -3738,7 +3756,7 @@ Policia Nacional	10752
 Policia Nacional O Ministério da Justiça	10750
 Policial Da Interpol	9399
 Policiales	16855
-Policies	21,205,318,38,317,71,840,4,14,160,105,1511,523,401,27,662,316,144,234,682,46,416,533,1540,357,131,239,114,752,38,4,22,56,3,12,22,256,1,5,91,19,8,7,204,120,141,125,97,19,15,104,47,77,13,6,92,4,27,39,49,68,162,1,221,6,15,47,8,3,2,60,14,330,80,71,92,189,178,17,66,367,233,49,157,35,20,30,32,37,439,45,35,659,48,445,110,43,50,6,1,9,3,22,23,24,144,17,91,4,5,3,610,253,344,9,12,12,32,46,144,23,25,17,10,26,80,452,155,45,21,63,21,42,40,118,29,44
+Policies	21,205,318,38,317,71,840,4,14,160,105,1511,523,401,27,662,316,144,234,682,46,416,533,1540,357,131,239,114,752,38,4,22,56,3,12,22,256,1,5,91,19,8,7,204,120,141,125,97,19,15,104,47,77,13,6,92,4,27,39,49,68,162,1,221,6,15,47,8,3,2,60,14,330,80,71,92,189,178,17,66,367,233,49,157,35,20,30,32,37,439,45,35,659,48,445,110,43,50,6,1,9,3,22,23,24,144,17,91,4,5,3,610,253,344,9,12,12,32,46,144,23,25,17,10,26,80,452,155,45,21,63,21,42,40,118,29,44,287
 Policies Access	18745
 Policies All	13532
 Policies Around Common Governance Principles	965,3804,120,206,68,334,86
@@ -3784,12 +3802,12 @@ Policing Model	19772
 Policing Summit	11961
 Policlínico Doctor Loeri Comba	17027
 Policlínico Doctor Loeri Comba de Malabo	17027
-Policy	11,162,63,159,1,191,131,48,23,110,59,3,48,152,43,15,27,11,27,101,128,84,180,1,24,8,8,10,39,22,34,65,108,10,11,217,182,2,259,281,7,307,1,5,13,124,263,13,19,49,2,265,76,12,43,175,96,55,107,85,141,57,35,234,2,3,74,28,26,158,18,503,79,123,176,10,70,6,75,30,56,14,101,38,106,8,2,162,2,39,5,65,1,56,269,1,1,60,87,35,155,60,8,18,244,2,65,153,47,62,164,55,24,48,30,25,66,38,113,20,203,68,29,78,203,50,98,20,60,91,65,9,55,1,30,58,67,213,195,38,26,37,7,8,4,5,6,4,63,33,11,1,5,16,19,2,6,16,22,79,2,2,1,4,2,15,1,37,2,1,1,27,6,5,1,16,13,18,2,64,180,24,10,9,35,4,180,6,57,3,3,6,12,6,1,10,12,1,8,7,33,8,22,4,3,2,58,96,4,6,1,3,3,9,9,7,5,5,4,5,4,18,1,2,5,1,1,4,7,2,42,32,6,1,15,4,1,3,10,7,19,1,3,16,4,2,36,30,15,10,17,8,7,10,20,23,60,17,1,39,15,57,116,5,10,4,2,9,3,1,10,16,2,7,1,3,30,28,11,36,15,14,8,5,2,14,157,15,2,2,4,2,11,15,1,11,23,8,3,26,50,6,128,43,40,183,31,57,34,6,8,18,144,158,70,40,14,18,4,131,20,43,10,49,1,2,20,14,30,3,25,33,27,1,8,2,7,1,1,25,5,4,3,12,17,1,6,14,12,22,4,11,2,87,7,8,26,26,152,30,43,58,38,4,3,35,3,48,25,29,1,54,3,15,65,6,43,56,23,36,6,3,8,2,165,45,23,7,47,51,194,34,297,10,1,5,2,1,11,2,2,7,1,1,1,16,13,7,2,2,13,3,1,5,3,12,3,4,1,4,21,15,7,79,8,11,8,14,1,96,22,3,25,41,177,270,7,9,81,39,62,227,9,4,82,16,50,80,7,8,4,13,5,2,2,5,2,1,12,4,28,5,16,25,1,33,7,5,1,24,35,1,20,82,98,4,15,27,18,22,9,1,4,46,48,58,1,62,49,262,8,1,11,3,2,3,3,2,10,22,26,31,5,1,2,1,4,7,9,5,10,12,26,27,9,9,41,25,32,1,1,1,1,3,21,13,42,2,8,6,1,8,8,14,7
+Policy	11,162,63,159,1,191,131,48,23,110,59,3,48,152,43,15,27,11,27,101,128,84,180,1,24,8,8,10,39,22,34,65,108,10,11,217,182,2,259,281,7,307,1,5,13,124,263,13,19,49,2,265,76,12,43,175,96,55,107,85,141,57,35,234,2,3,74,28,26,158,18,503,79,123,176,10,70,6,75,30,56,14,101,38,106,8,2,162,2,39,5,65,1,56,269,1,1,60,87,35,155,60,8,18,244,2,65,153,47,62,164,55,24,48,30,25,66,38,113,20,203,68,29,78,203,50,98,20,60,91,65,9,55,1,30,58,67,213,195,38,26,37,7,8,4,5,6,4,63,33,11,1,5,16,19,2,6,16,22,79,2,2,1,4,2,15,1,37,2,1,1,27,6,5,1,16,13,18,2,64,180,24,10,9,35,4,180,6,57,3,3,6,12,6,1,10,12,1,8,7,33,8,22,4,3,2,58,96,4,6,1,3,3,9,9,7,5,5,4,5,4,18,1,2,5,1,1,4,7,2,42,32,6,1,15,4,1,3,10,7,19,1,3,16,4,2,36,30,15,10,17,8,7,10,20,23,60,17,1,39,15,57,116,5,10,4,2,9,3,1,10,16,2,7,1,3,30,28,11,36,15,14,8,5,2,14,157,15,2,2,4,2,11,15,1,11,23,8,3,26,50,6,128,43,40,183,31,57,34,6,8,18,144,158,70,40,14,18,4,131,20,43,10,49,1,2,20,14,30,3,25,33,27,1,8,2,7,1,1,25,5,4,3,12,17,1,6,14,12,22,4,11,2,87,7,8,26,26,152,30,43,58,38,4,3,35,3,48,25,29,1,54,3,15,65,6,43,56,23,36,6,3,8,2,165,45,23,7,47,51,194,34,297,10,1,5,2,1,11,2,2,7,1,1,1,16,13,7,2,2,13,3,1,5,3,12,3,4,1,4,21,15,7,79,8,11,8,14,1,96,22,3,25,41,177,270,7,9,81,39,62,227,9,4,82,16,50,80,7,8,4,13,5,2,2,5,2,1,12,4,28,5,16,25,1,33,7,5,1,24,35,1,20,82,98,4,15,27,18,22,9,1,4,46,48,58,1,62,49,262,8,1,11,3,2,3,3,2,10,22,26,31,5,1,2,1,4,7,9,5,10,12,26,27,9,9,41,25,32,1,1,1,1,3,21,13,42,2,8,6,1,8,8,14,7,222,3,1,2,1
 Policy Academy	11918
 Policy Action	14947
 Policy Actions	958,13989
 Policy Actions On Infrastructure And Services	958
-Policy Additional	11889,451
+Policy Additional	11889,451,7872
 Policy Advice	12356
 Policy Advisor	5321
 Policy Advisory	12675
@@ -3801,7 +3819,7 @@ Policy Alert	11866
 Policy Alignment	12356,319
 Policy Alignment for AI-Readiness Policy Domain Existing	12512
 Policy Alignment for AI-Readiness Policy Domain National	4528
-Policy Analysis	7590,4572,4690,8
+Policy Analysis	7590,4572,4690,8,3357
 Policy Analysis Report	12395
 Policy Analysis Report. ESCCOM	12395
 Policy Analysis and Budgeting Directorate	16852
@@ -4191,7 +4209,7 @@ Policy Spectrum	11857
 Policy Stakeholder	1867
 Policy Stakeholder Group	1867
 Policy Starlink's Q4	6749
-Policy Statement	958,6590,3412,900,1047,57,331,1450,2116,13,12,38,27,187,724,592,165,266,646,102,168
+Policy Statement	958,6590,3412,900,1047,57,331,1450,2116,13,12,38,27,187,724,592,165,266,646,102,168,423
 Policy Statement All States	16874
 Policy Statement Comprehensive	16874
 Policy Statement Government	11860
@@ -4339,8 +4357,10 @@ Policy and Regulatory Issues	13512
 Policy and Regulatory Reforms	17260
 Policy and Research Officer	19534
 Policy and Research Paper	10841
+Policy and Research Standards	20209
 Policy and Result Framework	18851
 Policy and Revenue Administration Reforms	17503
+Policy and Roadmap	20216
 Policy and Society	11135,21
 Policy and Standards	12453,892
 Policy and Standards Unit	12240
@@ -4467,7 +4487,7 @@ Posts Draft Budget and Related Policies	11251
 Posts Planning Policies	11251
 Potential AI Policy and Innovation	4528
 Potential Policy Responses	13868,3389
-Poverty Reduction Policies	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Poverty Reduction Policies	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 Poverty Reduction Policies and Goals	16861
 Poverty Reduction and Resilience Building Thematic Policy	16951
 Power Transmission and Distribution Network Policy Objective	14947
@@ -4478,6 +4498,7 @@ Preferential Procurement Policy Framework Act Regulations	11986
 Presidential Policy	899
 Previous ICT Policy Outcomes	13295
 Pricing Policy	16844
+Pricing Policy for The Electronic Payment	20224
 Prime Lending Rate Policy	11289
 Principle of National Policy. The State	12891
 Principles The National Migration Policy	16874
@@ -4553,7 +4574,7 @@ Public Policy Coordinating Unit	12962
 Public Policy Dialogue	19641
 Public Policy Finance Agro Energy Mining	19622
 Public Policy Handbook	7548
-Public Policy Meeting	585,8281
+Public Policy Meeting	585,8281,11293,1
 Public Policy Meetings	585,8281,747
 Public Policy and Administration	2096,4850
 Public Policy and Communications	6714,3106,10146
@@ -4917,7 +4938,7 @@ Senior Police Commissioners	11868
 Senior Police Officials and Ombudsman Senior Staff	13097
 Senior Policy Analyst	14486
 Senior Policy Manager	10856,9110
-Senior Policy Officer	961
+Senior Policy Officer	961,19257
 Senior Policy Roundtable	14267
 Senior Strategic Policy and Planning Officer	14745
 Seoul Policy Centre	11354
@@ -4987,11 +5008,12 @@ Social Protection Policy and Future Management of Social	15415
 Social Protection Policy of Namibia	13220
 Social Protection Sector and Policy	18104
 Social Protection and Jobs Policy and Technical Note	10985
-Social Safety Nets Poverty Reduction Policies	10837,1315,188,7598
+Social Safety Nets Poverty Reduction Policies	10837,1315,188,7598,274
 Social and Legal Operational Policies	15743,401,240,2861
 Socio-economic and Policy Analysis A BLUEPRINT	11133
 Socioeconomic and Policy Implications	17157
 Software License Governance Policy	15023
+Sohna Foon Chore Director Planning Policy	20217
 Somali Police	3637
 Somali Police Academy. Sustainability	14899
 Somali Police Force	2273,470,12241
@@ -5013,7 +5035,7 @@ South Africa's National Open Science Policy	5246
 South Africa. The Policy	12232
 South African Human Rights Commission's Policy	10453
 South African National Policy Framework for Women	11193
-South African Police Service	2117,509,599,2098,210,1538,25,1258,543,1442,467,382,2,95,4,262,290,120,271
+South African Police Service	2117,509,599,2098,210,1538,25,1258,543,1442,467,382,2,95,4,262,290,120,271,7973
 South African Police Service Act	11188,2,361
 South African Police Service Amendment Bill	11285
 South African Police Service Division	11188

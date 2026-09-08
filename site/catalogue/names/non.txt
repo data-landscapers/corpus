@@ -206,7 +206,7 @@ Consortium des Organisations Non Gouvernementales	18286
 Construction Agriculture Non	10875
 Consumer Price Indices for Food and Non-Alcoholic Beverages	2775
 Contact of Nonusers	15247
-Control of Non-Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Control of Non-Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 Convention des Lettres de Change Non Normalisés	19994
 Coordinating Assembly of Non Governmental Organisations	12896
 Core and Non-Core Baskets and Weights	2775
@@ -307,6 +307,7 @@ ENFANT VIVANT OUI NON	13300
 ENFANTS NON ALLAITÉS	13300
 ENFANTS NON VACCINÉS PAR CATÉGORIE SOCIOÉCONOMIQUE	17843
 ENTREPRISES FAMILIALES NON AGRICOLES	737
+EXPANDING CONNECTIVITY AND DIGITAL INFRASTRUCTURE None	20182
 Economie Familiale ENF Education Non Formelle	18171
 Ecowas and Non-Ecowas	4778
 Edmund Nonie	18566
@@ -325,6 +326,7 @@ Energie Non Décembre	15799
 Energie Non Fournie	18322
 Enfants Vulnérables ONG Organisme Non	15746
 Enforcement Actions for Non-compliance	5665
+English. None	20151
 Ensemble des Non	15712
 Entities Entity Non-Automated Processes Implication STAMICO	19584
 Entity Non-Automated Processes Implication ATCL Ticket	19584
@@ -856,6 +858,7 @@ Non Pour	18316
 Non Pourcentage	18291
 Non Profit	3714
 Non Profit Institutions Serving Households	2775
+Non Profit Organization	20228
 Non Proliferation	11210
 Non Propositions	18316
 Non Préférence	19441
@@ -982,7 +985,7 @@ Non-Communicable Diseases NAPHS	10776
 Non-Communicable Group III	12413
 Non-Communication Factors	16885
 Non-Competitive Procurement	9650
-Non-Compliance	11896,1485,81,1084,5038,1
+Non-Compliance	11896,1485,81,1084,5038,1,591
 Non-Compliant	12597,784
 Non-Concerné	737
 Non-Consultancy	19534
@@ -1258,7 +1261,7 @@ Non-attendance	1638,9543
 Non-automated Business Processes	19584
 Non-availability	11129
 Non-availability of ICT	13314
-Non-bank	3964,1691,258,1025,825,4611,2460,75
+Non-bank	3964,1691,258,1025,825,4611,2460,75,5305
 Non-bank Financial Institutions Regulatory Authority	19664
 Non-banks	3318,8642,2937,1979
 Non-binding	3861,361,44,62,30,6823,6069
@@ -1363,7 +1366,7 @@ Non-financial	12376,3551,3605,369
 Non-financial Corporations	19519
 Non-fiscal	14985
 Non-folder Aluminum	12977
-Non-food	17193,42,186,488,81
+Non-food	17193,42,186,488,81,2065
 Non-forest	17140
 Non-formal	6832,6082,396,681,1613
 Non-formal Begin	6832
@@ -1447,7 +1450,7 @@ Non-prioritisation of OGP	19937
 Non-prioritisation of OGP Implementation	19937
 Non-produced	19602
 Non-production	16923,1
-Non-profit	1900,13573,1390,2175
+Non-profit	1900,13573,1390,2175,1137
 Non-profit Association	12342
 Non-profit Institutions and Households	19519
 Non-profit Organisations	4972
@@ -1591,12 +1594,12 @@ None. Ecobank	15474
 None. Interoperability	12269,7632
 None. MOCAF	15474
 None. TABLE C	3714
-Nonetheless	408,163,147,251,292,761,1369,192,21,187,335,998,123,116,25,2427,790,1,336,1776,45,2,10,66,10,10,20,81,1,1,24,18,95,30,2,1,2,32,103,246,7,48,13,272,43,5,2,87,144,23,27,13,136,72,91,157,284,64,65,53,191,18,86,450,874,163,27,1,2,88,349,52,68,61,51,139,9,217,8,459,408,30,68,1,8,7,8,138,105,26,81,1,13,34,57,82,115,291,53,28,311,17,724,195,8,286,10,113,193,43,5,37,42
+Nonetheless	408,163,147,251,292,761,1369,192,21,187,335,998,123,116,25,2427,790,1,336,1776,45,2,10,66,10,10,20,81,1,1,24,18,95,30,2,1,2,32,103,246,7,48,13,272,43,5,2,87,144,23,27,13,136,72,91,157,284,64,65,53,191,18,86,450,874,163,27,1,2,88,349,52,68,61,51,139,9,217,8,459,408,30,68,1,8,7,8,138,105,26,81,1,13,34,57,82,115,291,53,28,311,17,724,195,8,286,10,113,193,43,5,37,42,249
 Nonextractive	17909,81
 Nongo	8022
 Nongo Conteya	16662
 Nongobzanga Zongo	3668,543,85,2472
-Nongolougo Soro	16537,1098,1,139,26
+Nongolougo Soro	16537,1098,1,139,26,2289
 Nongoma	2626
 Nongovernmental	19887
 Nongovernmental Organization NIR National Identifi	16876

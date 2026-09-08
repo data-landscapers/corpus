@@ -208,7 +208,7 @@ Computing Equipment	19576
 Comunidades Pela República da Guiné Equatorial Tito	11393
 Concern PPE Personal Protective Equipment PSC	1988
 Conduct Equity	16971
-Congo Central African Republic Equatorial Guinea	10837,1503,7598
+Congo Central African Republic Equatorial Guinea	10837,1503,7598,274
 Congo Emergency Equity and System	15693
 Congo Emergency Equity and System Strengthening	15693
 Congo and Equatorial Guinea	1828
@@ -323,7 +323,7 @@ ECOBANK and Société General Equatorial Guinea	16942
 ECONOMY. The Commission for Gender Equality	11257
 EDAs. Equipment	9123
 EDB Economic Development Board EQF European	14747
-EDUCATION Equality	10759,78,1052,451,7598
+EDUCATION Equality	10759,78,1052,451,7598,274
 EGDI Score for Equatorial Guinea	16942
 ELECTRONIC EQUIPMENT FOR RURAL JOB CENTERS	8985
 ELEMENTS MINERAUX ET EQUILIBRE HYDRO-ELECTROLYTIQUE CALCIUM	15930
@@ -351,16 +351,16 @@ EQBLTZTZ	12252
 EQG MONTHLY COSTS CAMEROON MONTHLY COSTS	16942
 EQIX.O	6486
 EQUAL ACCESS C	998
-EQUALITY	10759,76,2,1,130,902,16,2,1,263,1,10,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+EQUALITY	10759,76,2,1,130,902,16,2,1,263,1,10,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 EQUALITY BUSINESS	12488
-EQUALITY Equal Political Power	10759,78,1052,451,7598
+EQUALITY Equal Political Power	10759,78,1052,451,7598,274
 EQUALITY Equal Political Power Equal Political	10759
 EQUALITY N	11870
-EQUALITY PARTICIPATION RULE OF LAW	10837,1503,7598
+EQUALITY PARTICIPATION RULE OF LAW	10837,1503,7598,274
 EQUALITY Public Perception of Education Provision	10835,3,130,902,16,466,1,135,7334
 EQUALITY RURAL ECONOMY	10835
 EQUALITY RURAL ECONOMY PUBLIC ADMINISTRATION	10835
-EQUALITY Rank	10759,78,1,130,918,454,12,1,7585
+EQUALITY Rank	10759,78,1,130,918,454,12,1,7585,274
 EQUALITY SECURITY	11870
 EQUALITY WOMEN'S EQUALITY Rank	19822
 EQUATEUR TSHOPO UGANDA	11900
@@ -496,12 +496,12 @@ Equa-	16942
 Equacom News	17029,313,72
 Equador	11405,7358,5
 Equal	1778,2870,3463,1782,2082,11,228,175,507,7,139,31,2076,1690,21,98,1151,349,10,766
-Equal Access	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,2254,4910,1,169,14,22,1,65,14,1,48
+Equal Access	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,2254,4910,1,169,14,22,1,65,14,1,48,225
 Equal Access and Simplified Environment for Investment	15473
 Equal Access and Treatment of Different PSPs	12389
-Equal Civil Liberties	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Equal Civil Liberties	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 Equal Civil Liberties Accountability	10835,3,130,902,16,466,1,135,7334
-Equal Civil Liberties Equal Socioeconomic Opportunity	10837,1315,188,7598
+Equal Civil Liberties Equal Socioeconomic Opportunity	10837,1315,188,7598,274
 Equal Education Law Centre	10729
 Equal Kenya	14932
 Equal Opportunities	14761
@@ -511,12 +511,12 @@ Equal Opportunities Commission	14742,6,3
 Equal Opportunity Act	14760
 Equal Opportunity Card	18359
 Equal Pay and Employment Opportunities	12389
-Equal Political Power	10759,76,2,1,130,902,16,2,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
-Equal Political Power Equal Political Representation	10837,1315,188,7598
-Equal Political Representation	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Equal Political Power	10759,76,2,1,130,902,16,2,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
+Equal Political Power Equal Political Representation	10837,1315,188,7598,274
+Equal Political Representation	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 Equal Political Representation Equal Civil Liberties	19822
 Equal Rights Trust	14751
-Equal Socioeconomic Opportunity	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+Equal Socioeconomic Opportunity	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 Equal Socioeconomic Opportunity Sustainable Use of Land	10838
 Equal-leg	15027
 Equalisation	13418
@@ -526,7 +526,7 @@ Equalisation Fund Appropriation Bill	10313
 Equalisation Fund Secretariat	14546
 Equalisation Treasury NGEC	7548
 Equalisation of Opportunities for Persons	12993
-Equality	2024,283,2665,2270,210,1149,466,1692,76,2,1,130,188,37,677,16,1,1,1,263,1,1,9,175,2,1,11,1,135,403,12,558,9,34,1238,137,725,1283,1047,663,637,418,1,169,14,22,1,65,14,1,9,39
+Equality	2024,283,2665,2270,210,1149,466,1692,76,2,1,130,188,37,677,16,1,1,1,263,1,1,9,175,2,1,11,1,135,403,12,558,9,34,1238,137,725,1283,1047,663,637,418,1,169,14,22,1,65,14,1,9,39,225
 Equality Act	1988,11052
 Equality Agen	17101
 Equality Agenda Forum	17101
@@ -536,7 +536,7 @@ Equality Rank	11889
 Equality Shipping	10759
 Equality WOMEN'S EQUALITY Political Power	10759
 Equality Women's Equality	11889,265,9,178,7312
-Equality Women's Equality Political Power	12152
+Equality Women's Equality Political Power	12152,8060
 Equality Women’s Equality	10759,78
 Equality Women’s Equality Political Power	12340,7598
 Equality Women’s Equality Public Administration Business	10759
@@ -727,6 +727,7 @@ Equatorial Guinea’s Second Voluntary National Review	17101
 Equatorial Inclusion Policy Reform	16942
 Equatorial-Guinea	16942
 Equatoriale	11944
+Equb ID Card	20175
 Equi.Domésticos	18757
 Equiano	124,652,189,398,227,176,185,74,652,862,80,163,124,26,177,849,1,186,55,52,149,280,245,324,16,110,228,34,25,110,293,79,141,43,2828,704,1501,571,27,274,605,524,2,1779,1947,189,941,24,14
 Equiano Cable	3782
@@ -754,7 +755,7 @@ Equilibre	14682,1059,3480
 Equilibre Général Calculable	17978
 Equilibres	6772
 Equilibrium	4824
-Equinix	856,1,1103,195,417,105,360,147,3,501,94,77,70,262,278,556,175,427,1,337,91,14,416,546,34,168,95,14,295,387,248,642,853,1,108,160,468,356,241,742,2829,3101
+Equinix	856,1,1103,195,417,105,360,147,3,501,94,77,70,262,278,556,175,427,1,337,91,14,416,546,34,168,95,14,295,387,248,642,853,1,108,160,468,356,241,742,2829,3101,2288
 Equinix Acquisition of MainOne	856
 Equinix Fabric	3929,1271
 Equinix Ghana	6056
@@ -769,7 +770,7 @@ Equinix LG3 Lagos New Data Centre	2155
 Equinix Nigeria	2155
 Equinix PR1	3554,12991
 Equinix SA	5965
-Equinix South Africa	857
+Equinix South Africa	857,19205
 Equinix South Africa MD Sandile Dube	11844
 Equinix West Africa	3859
 Equinix West Africa. Named	3859
@@ -912,7 +913,7 @@ Equipements des Territoires Urbains	15542
 Equiper	1005,9960,2325,2334,2200,21,37,409,135
 Equiper le SNISS	17845
 Equipes	15583,3191
-Equipment	34,194,1,358,375,982,44,543,358,100,2690,753,2691,151,944,557,189,301,4,588,49,12,335,136,292,294,62,148,200,5,13,71,159,377,726,2,227,62,137,42,87,167,58,35,108,248,376,526,28,24,33,4,78,127,9,25,1302,37,31,22,10,68,8,71,199,24,373,270,87,19,42,10,33,101
+Equipment	34,194,1,358,375,982,44,543,358,100,2690,753,2691,151,944,557,189,301,4,588,49,12,335,136,292,294,62,148,200,5,13,71,159,377,726,2,227,62,137,42,87,167,58,35,108,248,376,526,28,24,33,4,78,127,9,25,1302,37,31,22,10,68,8,71,199,24,373,270,87,19,42,10,33,101,246
 Equipment Accessibility	14773
 Equipment Appendix	19712
 Equipment Bracing System Equipment	9123
@@ -1208,7 +1209,7 @@ Gabon and Congo. Equatorial Guinea	16996
 Gabon and Equatorial Guinea	3963,13091
 Gasto de Equipamiento	4209
 Gates-backed Equity Initiative	1246
-Gender Equality	970,584,260,167,7,1595,7381,229,139,137,386,638,398,55,18,348,2,104,56,549,441,365,6,288,674,415,730,9,24,43,83,26,1358,1452
+Gender Equality	970,584,260,167,7,1595,7381,229,139,137,386,638,398,55,18,348,2,104,56,549,441,365,6,288,674,415,730,9,24,43,83,26,1358,1452,284
 Gender Equality Access	11857
 Gender Equality Act	12253,650,137
 Gender Equality Act and Section	13040
@@ -1415,7 +1416,7 @@ Jacqueline Chimhanzi Bethel Equities	4896
 Japan Donates ICT Equipment	7405
 Jobs Portal Equatorial Guinea	16942
 Joint Fund The Government of Equatorial Guinea	17101
-Judicial System Judicial Processes Equality	10759,78,1315,188,7598
+Judicial System Judicial Processes Equality	10759,78,1315,188,7598,274
 Jumia Equity Investment	9733
 K Gastos de Equipamiento	4209
 KCB Group and Equity Group	8938,141
@@ -1782,6 +1783,7 @@ Rescue Equipment Echelles	17006
 Rescue Equipment Equipements	16552
 Resilience and Equity	10985
 Resource-rich Greater Equatoria	3583
+Responsible Governance and Equitable Access	20125
 Return On Equity	15023
 Revamped EQMS	14830
 Revised Universal Soil Loss Equation	15015
@@ -1843,6 +1845,7 @@ Shortage of Health Facilities and Medical Equipment	19585
 Shutterstock Equatorial Guinea D IGITAL ECONOMY	16942
 Silva Directoras-Gerais Adjuntas Equipa Técnica Ezequiel	11421
 Simple Agreement for Future Equity	2773,9603
+Skills and Equity	20233
 Skills and Equity SBCC Social and Behavioral Change	16952
 Small Office Equipment	19641
 Social Equity	11265,7036
@@ -1977,13 +1980,13 @@ WB Digital Economy Country Diagnostic for Equatorial	1752
 WCO Gender Training Equips LRA Staff	17258
 WELFARE Equal Political Representation	10835,3,130,902,16,466,1,135,7334
 WIOCC Group Equity Investment	892
-WOMEN'S EQUALITY	10835,2,1,130,902,16,2,1,263,1,10,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48
+WOMEN'S EQUALITY	10835,2,1,130,902,16,2,1,263,1,10,177,1,11,1,135,7164,1,169,14,22,1,65,14,1,48,225
 WOMEN'S EQUALITY HEALTH	12488
 WOMEN'S EQUALITY PUBLIC ADMINISTRATION Rank	11870
-WOMEN'S EQUALITY Political Power	10759,78,1052,451,7598
+WOMEN'S EQUALITY Political Power	10759,78,1052,451,7598,274
 WOMEN'S EQUALITY Public Perception of Social Protection	10835,3,130,902,16,466,1,135,7334
 WOMEN'S EQUALITY RURAL ECONOMY	12352,136,7334
-WOMEN'S EQUALITY Rank	12352
+WOMEN'S EQUALITY Rank	12352,7860
 WOMEN’S EQUALITY INFRASTRUCTURE	10835
 WOMEN’S EQUALITY RURAL ECONOMY	10968,918,467
 WOMEN’S EQUALITY Rank	10759,78,1049,454,7598

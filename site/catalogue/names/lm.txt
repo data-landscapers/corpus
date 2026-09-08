@@ -124,6 +124,7 @@ LMITS. On Sal	15570
 LMK Contributor	17260
 LMK Geospatial	17260
 LMK Geospatial Services	17260
+LMMIS	20230
 LMP Enforce	17114
 LMP Labor Management Plan PBA Performance-Based	1264
 LMP Labor Management Procedure LV Low	15515
@@ -228,7 +229,7 @@ SupTech Tool for LMIC	1491
 Supportive Supervision Visits LMIS Logistics Management	18478
 System LIC Low Income Countries LMIC	771
 Système LMD	10855
-TCPD LMS	19595
+TCPD LMS	19595,524
 Tanzania AFR LMI	17743
 Technology ITU International Telecommunication Union LMIC	18777
 Timor-Leste ASP LMI	17743

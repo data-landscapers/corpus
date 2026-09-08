@@ -140,16 +140,18 @@ City Town Clerk	19715
 Civilian and Non-Civilian Uses Require Clear Boundaries	7548
 ClEebr	5098
 Clea Initially	9283
-Clean	789,1199,1063,1921,274,2517,483,360,517,2149,393,588,105,41,318,703,100,1427,259,982,778,1005,566,1109,69,187
+Clean	789,1199,1063,1921,274,2517,483,360,517,2149,393,588,105,41,318,703,100,1427,259,982,778,1005,566,1109,69,187,321
 Clean Alliance Party of Kenya	7167
 Clean Audit Opinion	11198
 Clean Audit Report	11198
 Clean Certified	7763
 Clean Cooking	12399,164,3474,151,778,1829,851
+Clean Cooking Access	20223
 Clean Cooking Alliance	11572,6965
 Clean Cooking Delivery Unit	18537
 Clean Cooking Delivery Unit CLSG Cote	18537
 Clean Cooking Energy Project President Dr	19602
+Clean Cooking Number	20223
 Clean Cooking Solutions for Affordable Access Pillar	16188
 Clean Cooking Strategy	18537
 Clean Cooking Technologies	14947
@@ -271,7 +273,7 @@ Clearing and Settlement Systems	12374,297
 Clearing the High-Speed Lanes	6051
 ClearingPost Systems Operational	5691
 Clearinghouse for Financing Development Data	6337
-Clearly	961,816,47,164,1017,1121,757,114,247,144,277,35,269,499,468,815,550,1554,1162,199,740,30,9,307,54,648,383,1054,487,69,105,371,98,323,958,6,26,82,398,1173,1208,56,163
+Clearly	961,816,47,164,1017,1121,757,114,247,144,277,35,269,499,468,815,550,1554,1162,199,740,30,9,307,54,648,383,1054,487,69,105,371,98,323,958,6,26,82,398,1173,1208,56,163,259
 Clearly Defined	12389
 Clearly Defined Financial Inclusion Outcomes	940
 Clearview AI	2521,659,249,939,974,1524,210,294,2923,1917
@@ -285,7 +287,7 @@ Clement	1828,9396
 Clement Charoux	14746
 Clement Delangue	8014
 Clement Domingo	4997
-Clement Gevaudan	13312
+Clement Gevaudan	13312,6909
 Clement Imbert	18318
 Clement Juba Bugoniwa. Other Political Parties	18666
 Clement Madale Head of Strategic Planning	11224
@@ -654,6 +656,7 @@ Services Clerks N	16266
 Set Clear Eligibility and Evaluation Criteria	12675
 Set Clear Goals and Metrics	16963
 SeyID ID-Wallet. Clear	19045
+Single Window Customs Clearance	20224
 Single Window for Vehicle Clearance	16996
 Site Clearance Part	13385
 Sky Cleaning Services	17643
@@ -679,7 +682,8 @@ Tax Clearance Certificate and SSNIT	7368
 Tax Clearance Certificates	9779,2673,57,346,6747
 Tax Clearance Certificates Issued Table	13053
 Tax Clearance Certificates Tax Clearance Certificates	13053
-Technical Clearance	5994,11286,114
+Technical Clearance	5994,11286,114,2788
+Technical Clearance Framework	20182
 Technical Clearance Procedure	17394
 Technical and Business Model Development for Clean Cooking	12399
 Tender Number Clearly	1638
