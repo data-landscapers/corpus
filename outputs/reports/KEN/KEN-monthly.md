@@ -3,9 +3,9 @@ title: Kenya — monthly update, August – September 2026
 compiled: 2026-09-08
 period: 2026-08-01 to 2026-09-08
 place: KEN
-ledger_rows: 143
+ledger_rows: 146
 not_held: 7
-record: 05785ffc1e1b
+record: 0b4f39b0cf49
 ---
 
 # Kenya: monthly update, August – September 2026
@@ -181,6 +181,8 @@ The transport and safety authority's own disclosure notice under the PPP Act set
 
 <!-- narrative: dpi--dpi-pay -->
 Borrowers can [repay Hustler Fund loans in loyalty points from 23 July](https://www.the-star.co.ke/news/2026-07-23-borrowers-can-now-repay-hustler-fund-loans-using-bonga-points), five points settling one shilling, recovering KSh 3m in the first week. A second operator launched a merchant wallet on 3 August.
+
+The platforms Kenyans use to be paid changed their rules one after another over the past year: [an international payments provider imposed restrictions, a domestic dollar-banking service withdrew that product, a remittance operator paused its wallet and a streaming platform cut monetisation](https://techcabal.com/2026/09/08/the-platforms-that-help-kenyans-get-paid-are-changing-the-rules/). Four separate commercial decisions rather than a regulatory change; no user numbers, values or regulator response are held.
 <!-- /narrative -->
 ### Registries
 
@@ -213,6 +215,14 @@ The election system's own procurement was sent back. The electoral commission ha
 The platform also failed twice. On 26 August the payment layer [went down for much of the day, leaving transport authority services unusable, transactions abandoned or paid for twice and invoices missing](https://swalanyeti.co.ke/news/article/10773/motorists-cry-foul-as-ntsa-payment-glitch-causes-double-charges-and-delays); the authority confirmed the fault and said a platform team had been dispatched. Five days later the electronic tax invoicing service reached through eCitizen [was down for three days to 31 August, taxpayers able to generate invoices but not download them](https://nation.africa/kenya/business/frustration-as-kra-s-ecitizen-service-suffers-outage-for-days--5577546) — and because revenue rules make payment conditional on that invoice, rent, school fees and a semester start were delayed. No uptime figure is published for the platform, so its reliability is measured only by the outages that get reported.
 
 Its legal footing moved the other way. On 27 August the Treasury [presented draft regulations to the National Assembly's delegated legislation committee that would replace eCitizen's convenience fee with a statutory access fee and vest ownership, hosting, administration, maintenance and security of the platform in the Treasury](https://sokodirectory.com/2026/08/treasury-unveils-plan-to-replace-ecitizen-convenience-fees-with-access-fees/), and members of parliament [demanded clarity on who owns the platform](https://peopledaily.digital/news/mps-demand-clarity-on-ecitizen-ownership-as-treasury-unveils-new-regulations) as they did so.
+<!-- /narrative -->
+
+## Digitalisation
+
+### Rural digital data capture
+
+<!-- narrative: digitalisation--digital-rural -->
+Rural digitalisation arrived as a marketplace rather than an office. [Mkulima Bora, built by a private developer with a German development agency and Rift Valley county governments, connects smallholders directly with bulk buyers and verified input suppliers, with search by county, sub-county and ward, a map view, negotiated offers and logistics booking](https://govstack.global/news/from-govstack-principles-to-practice-connecting-kenyan-farmers-with-markets-through-mkulima-bora/). It is built on reusable components and open standards rather than as a closed system, so that registration, consent management, registries, messaging and scheduling connect to existing government infrastructure. The account is the standards initiative’s own, and it states no county list, user count or public funding.
 <!-- /narrative -->
 
 ## Technology
@@ -262,6 +272,8 @@ The base gained its first account of a named Kenyan data-science career, a [data
 
 <!-- narrative: inclusion--include-access -->
 The Auditor-General's findings on the Hustler Fund entered the record on 23 July: [104,631 loans worth KSh 116.5m](https://www.the-star.co.ke/news/2026-07-23-borrowers-can-now-repay-hustler-fund-loans-using-bonga-points) were issued to borrowers whose national identity details were missing from the customer database, against a 15% default rate and state funding down to KSh 300m in the year to June 2026.
+
+A measure of harm arrived where the base had none. A UN children’s agency report found [about one million internet-using Kenyan children exposed to unwanted sexual content online, a rate of 20.1% and the third highest of 21 countries surveyed behind Uganda and Ethiopia, with most child victims knowing their abusers personally, WhatsApp the platform most used to target them, and about 1% of cases reported to police](https://nation.africa/kenya/news/gender/when-the-danger-comes-through-a-child-s-phone-one-in-five-children-exposed-to-sexual-content-online-5583836). The findings rest on nationally representative household survey data collected between 2020 and 2025 from children aged 12 to 17. The report itself is not held, only a newspaper account of it.
 <!-- /narrative -->
 ### Digital divides
 

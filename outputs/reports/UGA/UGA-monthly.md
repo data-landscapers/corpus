@@ -3,9 +3,9 @@ title: Uganda — monthly update, August – September 2026
 compiled: 2026-09-08
 period: 2026-08-01 to 2026-09-08
 place: UGA
-ledger_rows: 85
+ledger_rows: 86
 not_held: 12
-record: d6a2b943d37b
+record: 2069ea4d7497
 ---
 
 # Uganda: monthly update, August – September 2026
@@ -31,6 +31,8 @@ The ICT ministry [states a device-tax-cut paper is ready for cabinet before the 
 
 <!-- narrative: governance--gov-legislate -->
 Three instruments sit at three stages and none is in force in the window. The Protection of Sovereignty Bill 2026 [carries a central bank technical assessment to joint committees](https://www.newvision.co.ug/category/news/bou-governor-atingi-ego-say-sovereignty-bill-NV_232814_052026), with enactment reported but unconfirmed. The regulator's order suspending public internet [is discontinued, full restoration having been announced in January](https://pulse.internetsociety.org/documents/48/UCC_directive_Talkio.pdf). And the finance ministry [stated at a retreat with parliamentary committees that digital lending platforms will be regulated](https://www.monitor.co.ug/uganda/news/national/govt-moves-to-tighten-regulation-of-digital-lenders-as-financial-inclusion-rises-5561784), naming no bill, instrument or date.
+
+January’s shutdown directive reached the record in its own words. A newspaper [republished the Uganda Communications Commission text in full on 7 September](https://www.newvision.co.ug/category/news/uganda-communications-commission-explains-int-NV_226210_092026): made on the Inter-Agency Security Committee’s recommendation, it suspended public internet access, the sale and registration of new SIM cards and outbound data roaming to One Network Area countries across mobile, fibre, leased line, fixed wireless, microwave and satellite; ordered operators to disable mobile VPN services and block any public bypass; whitelisted an exclusion list covering national referral hospital systems, core banking and clearing, tax and government payment gateways, immigration, electoral commission portals, voter verification and result tabulation, utilities, air traffic control and railway signalling; required incident reporting within 30 minutes; and required any operator unable to comply to shut down its entire internet infrastructure, on pain of fines or licence suspension. The directive the base held was a scanned PDF with no text layer.
 <!-- /narrative -->
 ### Data protection
 
@@ -72,6 +74,8 @@ The second operator reported the same demand from the other side: [19.7 million 
 On 5 August the network operator with the largest published footprint released its 2025 sustainability report, recording for the year to 31 December 2025 [24.2 million subscribers, population coverage of 96.2% 3G, 88.6% 4G and 19% 5G, 27,037 km of fibre and 45% of network sites on solar or hydro](https://www.mtn.co.ug/wp-content/uploads/sites/7/2026/08/MTN-Uganda-Sustainability-Report-2025-Digital-1.pdf). These are the company's own unaudited figures and the base holds no prior-year comparator.
 
 The largest mobile operator [extended its group-level Starlink partnership to Uganda](https://techafricanews.com/2026/08/27/mtn-uganda-starlink-expand-connectivity-remote-areas/) to bring satellite-backed connectivity to remote areas. It is distinct from the satellite operator's own licence, and no coverage target, site count or tariff is given.
+
+A second international route is being procured under a presidential directive rather than by tender. The state transmission company [cancelled open bidding for a commercialisation partner for its fibre network and moved to prepare a proposal for a single named company for the Uganda-Tanzania connection, the parliamentary committee on state enterprises asking why firms that had expressed interest were dropped](https://nilepost.co.ug/news/368959/uetcl-in-spotlight-over-uganda-tanzania-fibre-connection). A State House letter of 27 August 2025 had told the ICT and energy ministers that a Tanzanian route could be cheaper than the existing route through Kenya, which the President described as full of commercial players looking for profit. No contract, value, timetable or committee finding is held, and the cost comparison is an assertion.
 <!-- /narrative -->
 ### Energy
 

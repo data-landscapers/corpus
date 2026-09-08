@@ -3,9 +3,9 @@ title: Angola — monthly update, August – September 2026
 compiled: 2026-09-08
 period: 2026-08-01 to 2026-09-08
 place: AGO
-ledger_rows: 46
+ledger_rows: 49
 not_held: 7
-record: 18195500ed87
+record: a14bcbbfc9f9
 ---
 
 # Angola: monthly update, August – September 2026
@@ -163,6 +163,16 @@ Benguela's provincial water utility [begins installing prepaid smart meters on 7
 <!-- narrative: technology--tech-ai -->
 
 Money reached artificial intelligence in the administration for the first time this month, ahead of any policy saying what it is for. A presidential order of 27 August [authorised six million United States dollars for the acquisition and implementation of an artificial-intelligence platform for the public administration and opened a public tender for it](https://pti.ao/executivo-desembolsa-usd-6-milhoes-para-plataforma-de-inteligencia-artificial-na-administracao-publica/). What the platform is to do, which bodies would use it and on what data are not stated, and the base holds no national instrument on artificial intelligence in government against which to read the spend.
+<!-- /narrative -->
+### ICT Industry
+
+<!-- narrative: technology--tech-industry -->
+The sector was given a growth rate and nothing to read it against. The secretary of state for telecommunications told the close of the seventeenth technology innovation fair that [the telecommunications, information technology and media sector grew 14.3% in its contribution to gross domestic product in the second quarter of 2026, among the five best-performing sectors](https://angop.ao/noticias/economia/secretario-de-estado-reconhece-contributo-das-telecomunicacoes-na-economia/). It is a rate given in a speech: no level, no base, no statistical release, and a sector that bundles media with telecommunications and IT.
+<!-- /narrative -->
+### Innovation ecosystem
+
+<!-- narrative: technology--tech-innovate -->
+The month’s startup news is a lawsuit. The founders of Paga3, owned by Cafeje-Comércio e Indústria, [accuse Standard Bank Angola of using strategic information shared in a pilot project to develop a similar product, in a case that entered court about a year ago and awaits a decision on interim relief; the bank rejects the accusation and calls the claim abusive](https://www.novojornal.co.ao/economia/detalhe/projecto-paga3-acusa-standard-bank-angola-de-uso-indevido-de-start-up---banco-rejeita-acusacao-e-considera-reclamacao-abusiva-74476.html). The source is paywalled beyond its opening, so neither party’s pleadings nor the case number is on record.
 <!-- /narrative -->
 
 ## Capacity
