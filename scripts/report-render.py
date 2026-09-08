@@ -421,27 +421,51 @@ def _assert_catalogue_current(records):
 
     Counted as well as timed: a deleted record moves no mtime, and a catalogue still carrying it
     resolves a slug the base no longer holds — a citation that publishes and then breaks, which
-    is the failure `notes-for-osint.md`'s slug-permanence constraint exists to prevent."""
+    is the failure `notes-for-osint.md`'s slug-permanence constraint exists to prevent.
+
+    **A record that arrived after the catalogue was built is ignored, and that is the whole of
+    what changed on 2026-09-08** *(Bill's call: a cycle ignores what OSINT sends after it has
+    started)*. The three ways `raw/` can move are not one thing:
+
+    - a record **deleted** — the catalogue resolves a slug the base no longer holds. Stop.
+    - a record **changed** — the catalogue's URL for it may be wrong, and a stale table does not
+      fail, it answers wrongly. Stop.
+    - a record **added** — the catalogue does not list it, so nothing resolves through it, and
+      **nothing in `outputs/` can cite a source that did not exist when the prose was written.**
+      Harmless.
+
+    The old test compared a count and a high-water mtime, which conflated all three: one file
+    landing in `raw/` stopped a run it could not have affected. Since OSINT works in its own
+    session on its own drive and mirrors after every commit, that made any daytime cycle a race —
+    the run took 50 minutes and lost it more often than not.
+
+    **The catalogue is the pin.** Counting only records at or below the stamp's own high-water
+    mark answers the question exactly: a deletion or a change moves a record out of that
+    population and the count falls short; an addition never enters it. No new state, no second
+    clock to keep, and the pin cannot drift from the thing it pins because it *is* that thing."""
     stamp = json.load(open(CATALOGUE_STAMP, encoding="utf-8"))
-    files, newest = vault_lib.raw_md_state()
-    if not files:                                       # no raw/ under ROOT at all
+    pinned = stamp.get("raw_md_mtime_max", 0)
+    files, newest, added = vault_lib.raw_md_state(since=pinned)
+    if not files and not added:                         # no raw/ under ROOT at all
         raise vault_lib.StaleCatalogue(
             f"no records under {os.path.join(ROOT, 'raw')} — this run is rooted somewhere the "
             f"base does not live, so the catalogue cannot be checked against it. Run from "
             f"scripts/.workroot/, where raw/ resolves to OSINT through the junctions.")
-    behind = []
     if files != stamp.get("raw_md_files"):
-        behind.append(f"{files:,} records in raw/, {stamp.get('raw_md_files', 0):,} when the "
-                      f"catalogue was built")
-    if newest > stamp.get("raw_md_mtime_max", 0):
-        behind.append(f"a record has changed since {stamp.get('built', 'the build')}")
-    if behind:
         raise vault_lib.StaleCatalogue(
-            f"{CATALOGUE} is behind raw/ — " + "; ".join(behind) + ". Refusing to resolve "
-            f"citations against it: a stale table does not fail, it answers wrongly. "
-            f"Run stage 2 first: `python scripts/build-catalogue.py`."
+            f"{CATALOGUE} is behind raw/ — {files:,} of the {stamp.get('raw_md_files', 0):,} "
+            f"records it was built from are still there unchanged, so "
+            f"{stamp.get('raw_md_files', 0) - files:,} have been deleted or edited since "
+            f"{stamp.get('built', 'the build')}. Refusing to resolve citations against it: a "
+            f"stale table does not fail, it answers wrongly. Run stage 2 first: "
+            f"`python scripts/build-catalogue.py`."
             + (f" (The catalogue also holds {records:,} rows, which is not the count above.)"
                if records != stamp.get("records") else ""))
+    if added:
+        # Said out loud rather than passed over, because "the site is a cycle behind" and "the
+        # check is broken" look identical from the outside and only this line tells them apart.
+        print(f"catalogue: {added:,} record(s) have arrived in raw/ since the catalogue was "
+              f"built — not in this render, and not a reason to stop it")
 
 
 def raw_slugs():

@@ -63,6 +63,8 @@ Writes `outputs/catalogue/`, `outputs/non-state-finance/`, `outputs/budgets/`, r
 
 **Stage 2 is a precondition of stages 4 and 5.** The report layer resolves every citation through `outputs/catalogue/raw-catalogue.csv`; `report-render.py` refuses a catalogue older than `raw/` (`vault_lib.StaleCatalogue`), and the repair is to run this stage first. `--all` satisfies it in the right order.
 
+**It is also the pin.** *Older than* means a record deleted or edited since the catalogue was built — not one **added** since, which the catalogue does not list and nothing can cite. That is what lets a build run while OSINT is working beside it; `CYCLE.md` → *A cycle ignores what OSINT sends after it has started* carries the reasoning, and the run says how many arrived that it left out.
+
 ### Stage 2a — the scope lint
 
 **The remit is Africa, and non-African material is admissible in exactly two cases**: a **sovereignty** issue filing under a closed `geopol.*` slug, and material treating the **global south generally** (`XGL`). A single non-African country's domestic story is out however good it is.

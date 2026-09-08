@@ -481,7 +481,7 @@ class StaleCatalogue(RuntimeError):
     """`outputs/catalogue/` is missing, or behind the `raw/` it is derived from."""
 
 
-def raw_md_state(root=None):
+def raw_md_state(root=None, since=None):
     """(count, newest mtime) over `raw/`'s markdown records — the catalogue's own freshness.
 
     **One function, two callers, or the two disagree.** `build-catalogue.py` stamps this into
@@ -493,9 +493,16 @@ def raw_md_state(root=None):
     removed from `raw/` moves no mtime, and a catalogue still listing it resolves a slug the base
     no longer holds — the dangling-citation failure, reached from inside Corpus instead of from
     OSINT's index. Artefacts (`.pdf` and the rest) are not counted: the catalogue is a list of
-    records, and adding a PDF beside one changes nothing in it."""
+    records, and adding a PDF beside one changes nothing in it.
+
+    **`since` counts only the records the catalogue could have seen** — those whose mtime is at
+    or below the stamp's own high-water mark — and returns the number that arrived after it
+    alongside. That distinction is what lets a build survive an OSINT session running beside it;
+    `report-render._assert_catalogue_current` carries the reasoning. Called without it the
+    behaviour is exactly as before, and `added` comes back zero.
+    """
     base = os.path.join(root or ROOT, "raw")
-    n, newest = 0, 0
+    n, newest, added = 0, 0, 0
     for dirpath, dirnames, filenames in os.walk(base):
         dirnames[:] = [d for d in dirnames if not d.startswith(".")]
         for name in filenames:
@@ -505,9 +512,13 @@ def raw_md_state(root=None):
                 st = os.stat(os.path.join(dirpath, name))
             except OSError:
                 continue                                # vanished mid-walk; next run sees it
+            mtime = int(st.st_mtime)
+            if since is not None and mtime > since:
+                added += 1
+                continue
             n += 1
-            newest = max(newest, int(st.st_mtime))
-    return n, newest
+            newest = max(newest, mtime)
+    return (n, newest, added) if since is not None else (n, newest)
 
 
 def _assert_own_index():

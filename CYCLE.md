@@ -28,6 +28,20 @@ last_reviewed: 2026-08-28
 
 **A note too large for the run does not hold the cycle, and neither does one that fails.** The unattended rule is the rule everywhere else: take the conservative option and state it, never stop to ask. Annotate the note with what was established, leave it open at its number, put a line in the build half's message to Bill, and go on to the build — a note left open is a note still queued, which is where it started. What the drain must not do is start the build over a half-written share: commit and push before stage 0, or leave the share untouched.
 
+## A cycle ignores what OSINT sends after it has started
+
+**The base is pinned at stage 2, and the catalogue is the pin** *(Bill, 2026-09-08)*. OSINT works in its own session on its own drive and mirrors after every commit, so a daytime cycle runs beside a tree that is moving. It used to lose that race: `report-render.py` compared a count and a high-water mtime over `raw/` and stopped the run on *any* movement, so one record landing during the fifty minutes a cycle takes ended it — a record that could not have affected anything.
+
+**The three ways `raw/` can move are not one thing**, and only two of them matter:
+
+- a record **deleted** — the catalogue resolves a slug the base no longer holds. Stop.
+- a record **changed** — the catalogue's URL for it may now be wrong, and a stale table does not fail, it answers wrongly. Stop.
+- a record **added** — the catalogue does not list it, so nothing resolves through it, and nothing in `outputs/` can cite a source that did not exist when the prose was written. Ignored, and said out loud on the run that ignored it.
+
+`report-render._assert_catalogue_current` counts the records at or below the stamp's own high-water mark, which answers that exactly: a deletion or an edit moves a record out of that population, an addition never enters it. **No pin file and no second clock** — the pin cannot drift from the thing it pins because it *is* that thing. `scripts/test_catalogue_pin.py` holds it down, including the case that makes the shape necessary: one record deleted and one arrived leaves `raw/` holding the same number of files it held at the build, which a plain count would pass.
+
+**What this does not do is freeze the tree at step 1.** A record arriving between the drain and stage 2 is built like any other; the cycle is consistent from stage 2 onward, which is what the render half needs. The site is then a view of the catalogue as built, and the sources that arrived after it are the next cycle's.
+
 ## The seam is a job boundary, not a joint
 
 **BUILD's ending sequence leaves the tree in exactly the state `RENDER.md` Step 0 tests for** — everything committed, a non-error build line, no sentinel. The cycle does not weld the halves; it runs the second at the point where the first has finished saying so.
