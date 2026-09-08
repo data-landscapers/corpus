@@ -44,6 +44,7 @@ title: Corpus process log
 
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 <!-- newest first: a new entry goes directly below this line -->
+2026-09-08 07:24 · fix · unclocked · Reviewed notes-for-corpus 24: OSINT closed 132/133, confirmed the attribution, took the warning fix not tracking. Interface verified healthy. Watermark advanced to the close this morning's hand-run built, so tonight's poll tests tonight.
 2026-09-08 07:02 · fix · unclocked · Note 133 to OSINT: cycle-manifest.json is gitignored and never committed, so nothing restores it — the root of both exit-2 polls on 2026-09-07. Corrected the trigger docstring's claim that it is committed.
 2026-09-08 06:32 · fix · unclocked · Monthly word budget is now a rate per ledger row — country 300+25 to 1,200+55, region 300+25 to 900+55. All 60 inside band; the old flat band held 12 of 54.
 2026-09-08 06:10 · render · 9m · 251 documents, 38-item bulletin, 38 topic pages; catalogue 20,211 on 5,658 name shards, finance 1,421 deals US$106,565m; 133 stale editions pruned; deployed — ok
