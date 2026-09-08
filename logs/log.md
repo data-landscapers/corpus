@@ -44,6 +44,7 @@ title: Corpus process log
 
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 <!-- newest first: a new entry goes directly below this line -->
+2026-09-08 04:41 · notes · 25m · Note 23 closed: Corpus derives no slug — `vault_lib` reads the `raw/` filename stem. The six stale forms were real filenames Corpus catalogued, never committed under those names. All 42 units swept: 0 citations to unheld slugs. Share `c18417b`.
 2026-09-07 17:11 · render · 2m · note 22: url_note carried, documented absences resolve to the catalogue entry; LSO baseline restored and re-cut; 251 documents, catalogue 20,024, link lint clean, deployed — ok
 2026-09-07 16:23 · render · 6m · 251 documents rendered (174 place, 76 topic, bulletin), 38 topic pages, 54 country and 8 region pages; catalogue 20,023, finance 1,421 deals; link lint clean, deployed — ok
 2026-09-07 16:16 · build · 37m · catalogue 20,023, stage 2 re-run twice under a moving mirror; GIN 32 sources: 14 rows minted, 1 moved; finance backfill 18 rows over 19 units; 9 indicators newly mapped; scope 247 in remit; topics 76, bulletin checked — ok
