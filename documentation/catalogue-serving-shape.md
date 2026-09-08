@@ -2,10 +2,14 @@
 type: decision
 title: catalogue-serving-shape.md — how the catalogue is served at 40,000 records
 last_reviewed: 2026-09-04
-status: decided; `names/` moved to R2 2026-09-08; the split is still deferred to 2026-09-28, and the hero-text amendment of 2026-09-08 makes deferring it again the wrong call
+status: decided; `names/` moved to R2 2026-09-08; the split is now scheduled before go-live in the week of 2026-09-14 — see catalogue-split-plan.md
 ---
 
 # The serving shape of the catalogue
+
+> **`documentation/catalogue-split-plan.md` is how this gets done** — four shippable parts, the
+> effort behind each, and what must not break. This file is the decision and the argument for it;
+> that one is the work, and it is ticked off and archived when the last part lands.
 
 *(This resolves the first bullet of `design.md` §6, *Serving shape of the catalogue*, and supersedes both its projection and the instrument it reached for. §6's bullet should be struck and replaced with a pointer here. Written 2026-09-04 against a catalogue of 16,730 records, at Bill's request to plan for 40,000.)*
 
