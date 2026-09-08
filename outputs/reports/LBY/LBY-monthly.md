@@ -1,11 +1,11 @@
 ---
 title: Libya — monthly update, August – September 2026
-compiled: 2026-09-05
-period: 2026-08-01 to 2026-09-05
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 place: LBY
-ledger_rows: 39
+ledger_rows: 41
 not_held: 2
-record: d68edcbf10f1
+record: 93eec17dc1b9
 ---
 
 # Libya: monthly update, August – September 2026
@@ -42,6 +42,8 @@ On 15 August, on the margins of ARABOSAI's fiftieth-anniversary ceremony in Amma
 
 <!-- narrative: governance--gov-standards -->
 On 2 August the Municipal Guard's Investigation and Information Gathering Office, acting on Central Bank instructions and with the Ministry of Economy and Trade, [said any surcharge on card payment is prohibited](https://libyaherald.com/2026/08/municipal-guard-warns-against-imposing-surcharge-for-debit-card-payments/) and that the displayed price is the final price. [Complaints had reported spreads reaching 20% in some clinics and medical centres](https://libyaherald.com/2026/08/municipal-guard-warns-against-imposing-surcharge-for-debit-card-payments/).
+
+The committee behind the national information system spent its sixth meeting fixing its own composition. Meeting in Tripoli on 1 September it [reviewed financial indicators and settled its membership rules, tying permanent seats to the office of director of an information and documentation centre and requiring a written letter for a proxy](https://www.gia.gov.ly/en/2026/09/06/during-its-sixth-regular-meeting-in-tripoli-the-high-technical-committee-for-the-national-information-system-reviewed-financial-indicators-and-established-rules-for-membership-and-future-work/). Its mandate, its published output and the indicators it reviewed are not held — what is established is that it meets, and now who sits on it.
 <!-- /narrative -->
 
 ## ICT Infrastructure
@@ -92,6 +94,8 @@ An independent count put a figure on what the enforcement is chasing. A data ana
 
 <!-- narrative: dpi--dpi-pay -->
 Payments moved outward rather than inward. The central bank [is reported to be planning accession to China's cross-border interbank payment system after talks with the People's Bank of China](https://www.scmp.com/news/china/diplomacy/article/3364171/why-chinese-yuan-could-soon-be-africas-most-important-currency). The account is a foreign newspaper's: no Libyan statement, timetable or membership step is held, and nothing is said about what it would mean for settlement currency or correspondent banking.
+
+The central bank governor set out four things at once at a Tripoli conference on 7 September: a [link to the Arab regional payments platform, a study track on a central bank digital currency and stablecoins, a cyber-skills programme, and a pilot for accession to China's cross-border interbank system targeted at early 2027](https://libyaherald.com/2026/09/cbl-governor-issa-launches-several-initiatives-and-reviews-achievements-at-tripoli-arab-savings-and-financial-literacy-conference). None carries an instrument, budget, participant list or delivery date, and the transfer-value figure the same account reports is not taken into the base.
 <!-- /narrative -->
 ### Registries
 
@@ -113,6 +117,8 @@ On 23 July the Ministry of Labour and Rehabilitation [reported the Libya Experts
 On 30 July the Libyan Export Development Authority reported [LD 79.5 million of exports processed through the electronic Unified Export Window between April and July 2026](https://libyaherald.com/2026/07/ld-795-million-of-exports-processed-through-electronic-unified-export-window-from-april-to-july-2026-leda/): 354 registered companies, 190 distinct products, more than 20 destinations, and 129 orders to Tunisia — 66% of the total, against 28 to Turkey and eight to South Korea.
 
 On 9 August the economy and trade minister [launched an Exhibitions and Conferences Platform in Tripoli](https://libyaherald.com/2026/08/minister-of-economy-launches-digital-platform-for-organising-exhibitions-and-conferences-in-libya), presented as the country's first official specialised system for the sector: electronic management of registration, participation and event logistics, and an integrated database of exhibitions, conferences, organisers, participants and visitors. As with the expert register and the export window, no supplier, cost, hosting arrangement or data-protection basis is stated.
+
+A complaints route was put behind the visa system. The citizen service centre and the passports authority [agreed a joint mechanism to receive and handle citizens' and residents' enquiries and complaints on the electronic visa, and to unify the communication channels between the agencies involved](https://ar.libyaobserver.ly/article/38605). No caseload, response standard or list of the channels being unified is published, so the mechanism is established and its capacity is not.
 <!-- /narrative -->
 
 ## Digitalisation

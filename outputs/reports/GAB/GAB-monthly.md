@@ -1,11 +1,11 @@
 ---
 title: Gabon — monthly update, August – September 2026
-compiled: 2026-09-07
-period: 2026-08-01 to 2026-09-07
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 place: GAB
-ledger_rows: 34
+ledger_rows: 37
 not_held: 17
-record: 3d199a021e97
+record: 10a2fd369bb9
 ---
 
 # Gabon: monthly update, August – September 2026
@@ -84,6 +84,13 @@ An audit that was signed in May reported in August. The state digital agency [de
 The regional interoperable QR-code standard was launched at Douala on 29 July 2026 under the monetary union regulation of 8 April 2026, in force across all six member states and settled through the regional switch, with the Gabonese scheme as its pilot ([launch](https://www.gabonreview.com/cemac-moins-de-cash-plus-de-numerique-la-beac-deploie-le-qr-code-interoperable/)). The switch's 2025 figures, presented the following day, were 20.3m transactions worth FCFA 863bn across 153 participants ([figures](https://leconomie.info/article/paiements-numeriques-gimacpay-enregistre-203-millions-de-transactions-pour-863-milliards-de-fcfa-en-2025)). On 9 July the central bank acceded to the pan-African payment and settlement system, with member-state banks to be connected by the end of 2026 ([announcement](https://www.agenceecofin.com/actualites-finance/1007-140077-les-banques-de-la-cemac-seront-integrees-au-systeme-de-paiement-papss-d-ici-fin-2026)).
 
 A different kind of exchange went live in August. The airport-security committee [moved its advance passenger information and passenger-name-record system into its operational phase on 14 August](https://agpgabon.ga/gabon-transport-aerien-le-deploiement-du-systeme-api-pnr-entre-dans-sa-phase-operationnelle/), naming Royal Air Maroc lead carrier for IATA-code implementation under the state's convention with SECURIPORT, with border risk-screening the stated purpose. The convention terms, the retention rule for passenger data and any authorisation by the data-protection authority are not held — and the country's biometric-processing prohibition, with the defect already recorded in its derogation, sits alongside it unremarked.
+
+The private half of the health system was brought into a standing channel for the first time. The health ministry [instituted quarterly consultations with the association of private health establishments, the agenda naming the transmission of health data from private clinics among its items](https://agpgabon.ga/gabon-sante-le-ministere-instaure-un-dialogue-trimestriel-avec-le-secteur-prive/). No data standard, transmission route, reporting obligation or first meeting date is published, and the base holds no measure of what share of care the private sector accounts for — so the channel exists and what will flow through it does not.
+<!-- /narrative -->
+### Registries
+
+<!-- narrative: dpi--dpi-registry -->
+A domestic commentary put the governance question on transport digitalisation in public: it places the [digitalisation of transport titles and documents among the state's modernisation projects and asks who governs it and whether local suppliers are used](https://gabonactu.com/blog/2026/09/07/digitalisation-des-titres-et-actes-de-transport-au-gabon-entre-gouvernance-numerique-et-valorisation-de-la-competence-locale/). It is an opinion piece rather than a programme document — no contracting authority, supplier, scope, cost or timetable is on the record — which is why it reaches this report as the only account of a project the state has not described.
 <!-- /narrative -->
 ### Sectoral management information systems
 
@@ -91,6 +98,8 @@ A different kind of exchange went live in August. The airport-security committee
 On 30 July the education ministry received 1,000 tablets for what the minister described as 148 connected schools ([handover](https://agpgabon.ga/gabon-remise-de-1-000-tablettes-au-ministere-de-leducation-nationale/)).
 
 The state's civil-service human-resources record has been failing for months. The Fichier unique de reference [is near-inoperative, blocking tenure confirmations, reclassifications, recruitments and promotions and stopping their pay effects reaching agents, the breakdown sitting in the data-replication link between the civil service and pay services; on 25 August the vice-president of the government ordered an emergency plan restoring career management, agent mobility and data replication](https://union.sonapresse.com/fr/fonction-publique-redynamiser-le-fichier-unique-de-reference). The civil service ministry says it is migrating to an integrated state human-resources management system.
+
+The education ministry's priorities for the new school year restate the delivery counts: [1,000 tablets and 500 interactive screens delivered over 2025-2026, with the digital rollout continuing into 2026-2027](https://agpgabon.ga/gabon-education-camelia-ntoutoume-leclercq-fixe-les-priorites-pour-lannee-scolaire-2026-2027/). These are the ministry's own device counts and nothing is published against them for learner reach, usage or maintenance — the same shape the connected-schools figures have carried all year.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
