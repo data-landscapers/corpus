@@ -1,11 +1,11 @@
 ---
 title: Gambia — monthly update, August – September 2026
-compiled: 2026-09-06
-period: 2026-08-01 to 2026-09-06
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 place: GMB
-ledger_rows: 26
+ledger_rows: 49
 not_held: 4
-record: af61c0eb15f5
+record: 92af307ae173
 ---
 
 # Gambia: monthly update, August – September 2026
@@ -69,15 +69,32 @@ Four days later the revenue authority [published a 2026 target of D27.5 billion]
 <!-- narrative: ict-infrastructure--infra-connect -->
 The country renumbered its mobile network. [The transition to nine-digit numbers began on 4 September 2026, existing numbers taking a two-digit operator prefix — 87 for Africell, 83 for QCell and 86 for Comium](https://thepoint.gm/africa/gambia/headlines/pura-gambia-transitions-to-9-digit-mobile-numbers-today); [Gamcel numbers are not affected in this phase and keep their seven digits](https://thepoint.gm/africa/gambia/headlines/pura-gambia-transitions-to-9-digit-mobile-numbers-today). The numbering plan instrument is not published, and nothing states when the deferred operator joins.
 <!-- /narrative -->
+### Data Storage
+
+<!-- narrative: ict-infrastructure--infra-store -->
+The first private data centre was inaugurated on 29 April 2026 and announced from the State House, the [operator claiming it as the country's first](https://www.datacenterdynamics.com/en/news/qgroup-launches-data-center-in-the-gambia-claims-it-is-the-countrys-first/). No capacity, occupancy or certification figure accompanies the claim, which leaves the country's private hosting estate established in existence and unmeasured in every other respect.
+<!-- /narrative -->
+### Energy
+
+<!-- narrative: ict-infrastructure--infra-energy -->
+The power the digital estate runs on was explained and priced in the same month. The utility put the year's worst outages down to [ageing generating units and spare parts taking six to seven months to import, promising relief within a fortnight](https://standard.gm/nawec-blames-maintenance-challenges-for-worst-power-outages1/); a lender's public finance review puts [tariffs at an average US$0.21 a kilowatt-hour, among the highest globally, driven by weak utility financial performance with subsidies found misdirected](https://standard.gm/world-bank-says-weak-financial-performance-makes-gambias-electricity-tariffs-among-the-highest-globally/). The target above both is now traceable to its instrument: a [draft national compact seeking US$552m to reach 100% access by 2030](https://nawec.gm/wp-content/uploads/2025/09/Gambia-Compact-M300.pdf), unsigned and unfunded.
+<!-- /narrative -->
 
 ## DPI
 
+### Data Exchange
+
+<!-- narrative: dpi--dpi-exchange -->
+The first register link to be agreed is between education and health rather than between the registers the interoperability indicator counts. A [memorandum connects the education and health information systems to flag vulnerable children and verify enrolment](https://gambiana.com/mobse-and-health-ministry-sign-deal-to-link-education-and-health-data-systems/). It is a memorandum rather than a live interface, and the project's own indicator for register interoperability still stands at zero.
+<!-- /narrative -->
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
 The [National Identity Management System went live on 1 July 2026](https://standard.gm/barrow-inaugurates-national-data-centre-digital-identity-system/), issuing GAM ID cards on the spot, with nationwide enrolment from 4 August 2026. On 7 August the interior ministry [began a nationwide rollout of new ten-year biometric national identity cards, with registration opening simultaneously at six centres](https://www.voicegambia.com/gambia-rolls-out-new-10-year-national-identity-cards/), produced with a Ghana-based supplier. No enrolment or issuance figure has been published since launch, so the system's reach is unestablished.
 
 The rollout got the calendar the base had been missing. The government [published the phased schedule and fee structure: registration extends to Sibanor and Jarra Soma on 7 September, to Barra, Kerewan, Farafenni and Kaur on 11 September and to Janjanbureh, Basse and Fatoto on 21 September, with a first-time card at D450 waived during the rollout for holders of a valid immigration department card](https://thepoint.gm/africa/gambia/headlines/govt-launches-first-phase-of-new-biometric-national-id-card-rollout). An applicant with no passport, birth certificate or prior document must be vouched for by both the Alkalo and the Seyfo of their place of residence.
+
+What the identity system replaced is now documented from two sides, and the backfill matters more than the launch. A [lender diagnostic finds fragmented mandates, no universal coverage and weak interoperability across the identity estate](https://documents1.worldbank.org/curated/en/099102025103014657/pdf/P502279-e8627dee-4568-45e7-bb51-9a1aea1ff040.pdf), and a newspaper account describes a [processing centre in Kanifing shut when its electricity bill went unpaid, on a foreign-run biometric system in place since 2018 at a D450 fee](https://foroyaa.net/gambians-endure-a-bureaucratic-marathon-to-get-national-id-cards/). Against that, the system [went live on 29 June 2026 with the President as its first enrollee, under a public-private partnership between the interior ministry and the card supplier](https://www.voicegambia.com/2026/07/01/barrow-launches-national-identity-management-system-becomes-first-enrollee/).
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -91,6 +108,8 @@ The country published its first unified land policy, and it is the month's clear
 
 
 A register the country already runs was disputed in the same week. Opposition parties put it to the electoral commission that [212,095 supplementary registrations had been announced against 179,445 records on the data distributed to them](https://gambiaj.com/news/politics/elections/political-parties-renew-concerns-over-iec-voter-register-discrepancies/), a gap the commission attributed to unverified processing outputs. No reconciled figure has been published, and a presidential election is due this year.
+
+Two registers moved from intention to a dated position. The land system has consultants [drafting a land information system with the draft due at the end of September 2026, the lands minister putting land disputes at 62% of court cases](https://www.voicegambia.com/land-disputes-consume-major-share-of-gambias-judicial-resources-reveals-minister-bah/) — which is worth reading against what a parliamentary committee found a year earlier: [leases taking up to five years, no land policy behind laws dating from the 1990s, and the survey department down to two of its eight vehicles](https://www.voicegambia.com/2025/11/28/national-assembly-committee-exposes-severe-gaps-in-land-administration/). And the tax system moved from planned to contracted: a [US$7.27m, 24-month contract signed on 7 October 2025 on lender funding](https://thepoint.gm/africa/gambia/headlines/gra-signs-7-2m-with-arabsofttmi-consortium-to-boost-itas), with the revenue authority since [briefing manufacturers ahead of rollout and pledging fully online filing](https://www.voicegambia.com/2026/06/17/gra-says-new-itas-will-transform-tax-administration-in-the-gambia/).
 <!-- /narrative -->
 ### Sectoral management information systems
 
@@ -107,12 +126,28 @@ The trade ministry said on [4 August 2026 that a Digital Single Window Business 
 The electoral commission's digitalisation produced its first published contest figure. At a stakeholders' forum on 7 August the chief electoral officer disclosed [1,600 objections filed against the 2026 supplementary voter roll](https://thepoint.gm/africa/gambia/headlines/iec-received-1600-objections-in-voter-registration-njie), on eligibility and residency, now before Revising Court Magistrates ahead of the provisional register being merged with the 2021 Voter Register. No denominator of supplementary registrations, no outcome of the hearings and no merged register total is held.
 <!-- /narrative -->
 
+## Technology
+
+### Innovation ecosystem
+
+<!-- narrative: technology--tech-innovate -->
+The hub estate is listed rather than surveyed. [Four hubs appear in a continental directory — a disruptive lab, a technology company, a startup incubator and a co-working network](https://new.afrilabs.com/index.php/hub_country/gambia/), alongside a [developer group chapter in the capital reporting about 992 members and running artificial-intelligence and civic-technology meetups](https://gdg.community.dev/gdg-banjul/). No membership, funding, cohort or survival figure is published for any of them, so what the base holds is a count of names.
+<!-- /narrative -->
+
 ## Capacity
 
 ### Training and skills
 
 <!-- narrative: capacity--capacity-training -->
 The national university's technology school [offers three bachelor's degrees and six-month diplomas in artificial intelligence, cybersecurity and data science](https://www.utg.edu.gm/schools-faculties/itc/), the widest named provision the base holds. It follows the President's June direction to the applied science university to [fast-track a second phase including a college of computer engineering](https://op.gov.gm/statement-his-excellency-president-adama-barrow-chancellor-gambia-university-applied-science).
+<!-- /narrative -->
+
+## Inclusion
+
+### Digital divides
+
+<!-- narrative: inclusion--include-divides -->
+The schools' side of the divide has a figure for the first time, and it is small: [13.2% of schools have internet available for teaching, across a system of 830,895 learners](http://web.archive.org/web/20260429205056/https://mobse.gov.gm/wp-content/uploads/2025/10/The-Gambia-Education-Statistics-Summary-Report-ESSR-2025.pdf), on the education ministry's own statistics summary. No breakdown by level, region or school type comes with it — but it is the denominator every education-technology programme in this report has been running without.
 <!-- /narrative -->
 
 ## Data
