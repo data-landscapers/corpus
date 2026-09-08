@@ -1,11 +1,11 @@
 ---
 title: Cote d'Ivoire — monthly update, August – September 2026
-compiled: 2026-09-06
-period: 2026-08-01 to 2026-09-06
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 place: CIV
-ledger_rows: 46
+ledger_rows: 49
 not_held: 10
-record: 4b6c98e7bebc
+record: 753e92c5028c
 ---
 
 # Cote d'Ivoire: monthly update, August – September 2026
@@ -69,6 +69,8 @@ The month's one agreement is continental in scope and carries no money. An Ivori
 The month's one new financing commitment is large and thinly documented. The government has [authorised a United States technology firm to carry out a set of projects strengthening national digital infrastructure, the whole estimated at US$170m, about FCFA 95bn](https://techs.tg/2026/08/10/cote-divoire-170-millions-us-pour-booster-la-strategie-numerique/). No signed contract, financing instrument, component list, timetable or procurement route is held for it, and it [sits beside the same firm's US$170m data-centre and border-surveillance package announced from Washington in July](https://techs.tg/2026/08/10/cote-divoire-170-millions-us-pour-booster-la-strategie-numerique/), which the record does not distinguish from it.
 
 The African Development Bank's e-government programme is meanwhile the [route by which several of the ministry's digital projects reach the market, through open tenders and calls for expressions of interest](https://digitalmag.ci/services-publics-financements-bad-des-projets-numeriques-en-cote-divoire-appels-doffres-et-avis-a-manifestation-dinteret/), with the winners of the two 30-company support programmes among the intended bidders. No award, value or project list is published.
+
+A further figure was attached to the digitalisation programme at the prioritisation workshop: [US$150m, about FCFA 88.5bn, stated as lender support for digitalising public services, against a state informatics company count of 315 services already digitalised](https://afriksoir.net/connectivite-des-infrastructures-publiques-la-cote-divoire-se-lance-dans-la-modernisation-de-son-administration/). It was stated at a workshop rather than in a financing instrument, and its relationship to the inclusive-digitalisation credit already ratified by decree is not explained — two figures for the same donor and the same purpose, with no statement of whether they are one commitment or two.
 <!-- /narrative -->
 
 ## ICT Infrastructure
@@ -83,6 +85,13 @@ On protecting what is already laid, an operator and its vendor [completed a proo
 An industry survey supplied a fact the base did not hold: 5G has run on re-allocated existing frequencies since a [provisional allocation of 19 December 2023](https://digitalmag.ci/acces-a-internet-etat-dadoption-de-la-technologie-5g-par-les-pays-africains/), which let the two largest operators offer the service for the 2024 Cup of Nations, and it reached 7 per cent of the population in 2025, used first for fixed broadband where there is no fibre. The definitive spectrum award and the commercial launch announced for July 2026 are still undelivered, so the two things the base had run together are now separable.
 
 The rural programme's own account reached the base for the first time. Its [first phase is complete, commissioned at Djebakaha in Korhogo, with phases two and three launched alongside it - the second valued at FCFA 18bn and covering 240 further localities across Belier, Poro, Tchologo, Bagoue and Haut-Sassandra, against a programme target of 575 localities](https://techafricanews.com/2026/08/28/cote-divoire-68m-rural-connectivity-programme-targets-575-localities/). The account dates that commissioning to August 2024 while reporting it as current, so the phase chronology is not relied on here; no site count, service specification or subscriber figure is published for the completed phase.
+<!-- /narrative -->
+### Data Storage
+
+<!-- narrative: ict-infrastructure--infra-store -->
+
+
+The financing behind the sovereign data centre is now on the record, and it is a fraction of the project. The United States export credit agency [approved a guarantee of US$66,138,119 on 21 August 2025, with the finance and budget ministry as borrower and the digital transition ministry as end user](https://www.exim.gov/news/minutes/board-meeting-minutes-2025-08-21), against the US$170m the government authorised in July 2026. It is known from the agency's own board minutes rather than from a signed facility, and nothing published explains how the remaining US$104m is to be met.
 <!-- /narrative -->
 ### Cybersecurity
 
@@ -115,6 +124,8 @@ The identification office marked African Civil Registration Day by putting figur
 
 <!-- narrative: dpi--dpi-mis -->
 Work began on digitising the national school map, education-sector stakeholders convening at Yamoussoukro on 19 August 2026 to [build geographic information systems onto the integrated education management information system](https://www.ecofinagency.com/news-services/2508-58296-cote-d-ivoire-turns-to-digital-mapping-to-improve-school-planning). No coverage, timetable or delivery date is on file.
+
+Four days into the invoicing checks the traders' federation answered with an institution rather than a boycott, [creating a National Observatory on Electronic Standardised Invoicing, announced at a press conference in Adjamé on 5 September](https://www.aip.ci/cote-divoire-aip-la-fenacci-cree-un-observatoire-pour-accompagner-la-transition-vers-la-facture-normalisee-electronique/). The observatory has no published mandate, membership or reporting arrangement, and the federation's earlier demand that the checks be suspended is not withdrawn on the record — so the position is opposition converted into a channel, not resolved.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -124,6 +135,8 @@ All 39 first-instance tribunals were [connected to the justice platform on 29 Ju
 August turned to the supply side and to the state's own paperwork. The ministry [launched Ivoire GovTech Lab on 29 July, publishing government digitalisation projects for direct bidding by start-ups and small firms](https://iafrica.com/cote-divoire-opens-applications-for-30-company-tech-support-programme-as-ai-adoption-becomes-a-ministry-pillar/), opened applications for two 30-company support programmes, and set out a 2026-2028 roadmap naming artificial-intelligence adoption among seven strategic pillars; no project list, budget or award record for the lab is published. Separately the electronic-signature programme run by the public service ministry, which already covers the civil service, the tax administration and the construction and mining ministries, [reached the commerce ministry, whose leadership began enrolling on 12 August](https://digitalmag.ci/digitalisation-en-cote-divoire-le-ministere-du-commerce-integre-la-signature-electronique/). No certificate authority, standard, enrolment total or statement of legal effect is held for it.
 
 September gave the programme a shortlist. A national prioritisation workshop closed on 4 September having [examined 140 of 620 inventoried public services through nine working groups and retained 59 for immediate priority, with ten quick wins expected by the end of 2026 — among them diploma authentication, digital proof of life for pensioners, the computerised patient record and a digital post box](https://afriksoir.net/transformation-numerique-les-travaux-retiennent-59-services-prioritaires-et-dix-quick-wins-attendus-pour-la-fin-2026/). The list is not published, and [the minister put a governance framework for the digital transition ahead of it as the first priority, against ministries each building their own tools and platforms](https://www.aip.ci/aip-la-cote-divoire-envisage-une-gouvernance-unifiee-des-projets-numeriques-de-letat-ministre/); no such framework is on the record.
+
+The prioritisation workshop's second day produced something more consequential than the list. The nine working groups, sitting on different sectors, [converged on the same diagnosis — procedures still largely manual — and on the same answer: shared public infrastructure rather than nine separate builds, with a national single sign-on tied to the population register and the national identification number, 47 of the 49 bodies invited attending](https://afriksoir.net/transformation-numerique-les-neuf-groupes-de-travail-saccordent-sur-des-infrastructures-publiques-communes/). That is a design decision arrived at by the departments who would have to use it, which is a different thing from one imposed on them.
 <!-- /narrative -->
 
 ## Technology
