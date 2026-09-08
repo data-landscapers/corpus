@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-08
 place: SWZ
 ledger_rows: 35
 not_held: 4
-record: f054f5912981
+record: b445c875473c
 ---
 
 # Eswatini: monthly update, August – September 2026
@@ -129,14 +129,14 @@ The audit office took its own artificial-intelligence commitment regional, [host
 ### ICT Industry
 
 <!-- narrative: technology--tech-industry -->
-
+A state-facing platform changed hands rather than being built. The [Taiwan-funded platform connecting local businesses to wider markets was handed over to the investment promotion authority at the international trade fair on 3 September, with funding for a third-phase scale-up still being sought](https://eswatinipositivenews.online/taiwan-opens-global-markets-for-eswatini-through-buy-eswatini/). No listing count, transaction volume, cost or phase-three budget is published, so what the state has taken on is a platform whose running costs are unstated.
 <!-- /narrative -->
 ### Innovation ecosystem
 
 <!-- narrative: technology--tech-innovate -->
 [Digital transformation was named a priority of the Eswatini-Taiwan relationship](https://independentnews.co.sz/47014/business/digital-innovation-take-centre-stage-on-eswatini-taiwan-cooperation/) at a leaders' meeting in Taipei, with no instrument, figure or implementing agency named; the meeting's own date is not established.
 
-A state-facing platform changed hands rather than being built. The [Taiwan-funded platform connecting local businesses to wider markets was handed over to the investment promotion authority at the international trade fair on 3 September, with funding for a third-phase scale-up still being sought](https://eswatinipositivenews.online/taiwan-opens-global-markets-for-eswatini-through-buy-eswatini/). No listing count, transaction volume, cost or phase-three budget is published, so what the state has taken on is a platform whose running costs are unstated. Three days earlier [about 150 delegates — industry leaders, entrepreneurs, policymakers and development partners — met at Manzini under a United Nations enterprise programme on cutting small-enterprise costs with digital tools](https://www.undp.org/eswatini/news/work-smarter-embrace-technology-cut-costs-grow), with no follow-on commitment, tool or funding line published.
+Three days earlier [about 150 delegates — industry leaders, entrepreneurs, policymakers and development partners — met at Manzini under a United Nations enterprise programme on cutting small-enterprise costs with digital tools](https://www.undp.org/eswatini/news/work-smarter-embrace-technology-cut-costs-grow), with no follow-on commitment, tool or funding line published.
 <!-- /narrative -->
 
 ## Capacity
