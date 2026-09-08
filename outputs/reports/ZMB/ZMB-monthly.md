@@ -1,11 +1,11 @@
 ---
 title: Zambia — monthly update, August – September 2026
-compiled: 2026-09-06
-period: 2026-08-01 to 2026-09-06
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 place: ZMB
-ledger_rows: 46
+ledger_rows: 49
 not_held: 46
-record: 98701d35ca5c
+record: 61d771da3124
 ---
 
 # Zambia: monthly update, August – September 2026
@@ -40,6 +40,8 @@ What is being built for it is a system rather than a case. The World Bank-financ
 
 <!-- narrative: governance--gov-standards -->
 The standards bureau states its own position rather than reporting a change. Its service page [puts more than 50 international standards adopted as Zambian Standards, within a catalogue of more than 6,500 national standards across sectors including information and communication technology](https://www.zabs.org.zm/standards-development). The page carries no date, so the figures are dated to retrieval, and no breakdown by sector or year of adoption is published — an adoption count with no series behind it.
+
+The trust layer under the interoperability standards was stood up. The communications regulator [operationalised the National Digital Trust Anchor in its capacity as national root certification authority, the framework issuing and verifying digital certificates and signatures establishing the identity of people and organisations, on the legal base of the electronic communications and transactions statute](https://zambia24.com/2026/09/07/zambia-bets-on-digital-trust/). No certificate count, subordinate-authority list, accreditation route or fee schedule is published, and the launch reaches the base through a news report rather than the regulator's own notice — which for a root certification authority is the one thing a relying party would want to be able to check.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 
@@ -73,6 +75,8 @@ On 5 August the institute confirmed that connectivity gaps persist at Nakonde, V
 The technology ministry [put the country at about 26.2 million mobile subscriptions in 2025, up from 23.2 million in 2024, with about 14.7 million mobile internet subscriptions](https://www.lusakatimes.com/2026/08/28/govt-to-strengthen-cyber-security-capacity/) - its own figures, given in a seminar address rather than a regulator publication.
 
 A further Northern Province district administration was connected in August, and the account is unusually specific about what a connection reached. After the provincial ICT unit installed connectivity at Lupososhi District Administration and ran a virtual orientation on the national portal and two office collaboration tools, an official [printed a road-tax document from his own office instead of travelling to Kasama for it, days before it expired](https://techafricanews.com/2026/08/31/zamportal-teams-lupososhi-road-tax-local/). It is one office and one document: no district count, schedule or cost for the programme is published.
+
+A second account of the same period puts [internet subscriptions at 14.7m in 2025 against 10.4m in 2021, and mobile population coverage at 95% over 2022 to 2025](https://www.freightnews.co.za/article/giving-business-and-citizens-a-smart-edge-0). The coverage figure is government-reported and sits beside a separate ministerial claim of 94% for the same period — a gap of one point that nothing published reconciles, and a reminder that every coverage number here comes from the same source as the target it is measured against.
 <!-- /narrative -->
 ### Energy
 
@@ -114,6 +118,8 @@ Retail participation in the securities market is the one digital adoption figure
 The regional rail above the domestic one acquired its rules. The regional clearing house [published the scheme rulebook for instant low-cost cross-border retail payments, with a gender audit and strategy to 2030 drawn from research along the corridor with Malawi](https://www.linkedin.com/posts/comesa-clearing-house_comesaclearinghouse-drpp-regionalintegration-activity-7492550470780182528-vX_W). No Zambian transaction volume, participant count or fee schedule is published.
 
 Acceptance also widened from outside. A commercial bank and an international card scheme [opened online acceptance of that scheme's cards to participating merchants in nine African markets including Zambia on 19 August](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/), settling in local currency, US dollars or both; the merchant count is given for the nine markets together and not for Zambia.
+
+The account base under the inclusion figure was stated: [14.7m registered mobile money accounts in 2024 on the monetary fund's financial access survey, of which 77% hold a balance, against one adult in five holding any account at all in 2011](https://thefintechtimes.com/zambia-mobile-money-opened-doors-fintech-has-to-go-further/), with the central bank phasing out cheque clearing behind it. Registered accounts are not people, and the balance share is the only measure of activity the base holds against the count.
 <!-- /narrative -->
 ### Registries
 
@@ -131,6 +137,8 @@ An emergency outbreak response platform [entered two days of user-acceptance tes
 The movement is at the far end of the network rather than at the centre. The e-government agency's Northern Province unit is [onboarding government employees in Mpulungu, Mbala and Lupososhi districts onto an e-payslip self-service portal, replacing manual payslip distribution with round-the-clock access to employment records, and has connected the Lupososhi district administration to the Government Wide Area Network and given it a wireless access point so officials can use internet calling and digital communication platforms rather than unreliable mobile coverage](https://techafricanews.com/2026/08/27/zambia-expands-ict-infrastructure-rural-public-service-delivery/). The same unit is inspecting government office equipment and briefing officials on the Government Office Equipment Standards, which cover acquisition, registration, maintenance, use and disposal. No enrolment count, coverage figure or completion date accompanies any of it, so what is on record is a method reaching three districts.
 
 The office platform was ordered across the whole of government. The Secretary to the Cabinet [directed every government institution to adopt the Smart Office Platform and instructed the Smart Zambia Institute to report to his office by the end of October 2026 on the onboarding of ministries, provinces, spending agencies, state-owned enterprises and other public institutions](https://www.lusakatimes.com/2026/09/04/sc-encourages-smart-office-platform-utilisation/), the direction given at the handover of the system to the airports corporation at Chongwe. It is a direction with a reporting deadline rather than a measured rollout: the base has carried the platform as a health-ministry pilot since 2025 and holds no count of institutions onboarded.
+
+The office system moved beyond ministries for the first time. The airports corporation [became the first state-owned enterprise onboarded, the system commissioned and handed over by the Secretary to the Cabinet, with a further 406 staff to be trained across its stations by the end of November](https://efficacynews.africa/2026/09/05/zacl-becomes-first-state-owned-enterprise-to-adopt-smart-office/) — the same directive that told every government institution to adopt it now reaching the commercial arm of the state.
 <!-- /narrative -->
 
 ## Digitalisation
