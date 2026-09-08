@@ -5,7 +5,7 @@
 
 `catalogue.py` writes the newest hundred rows and the three facet menus into
 `site/catalogue/index.html` as real markup, so the page shows something before its
-payload has arrived (documentation/catalogue-split-plan.md, Part 1). The page then
+payload has arrived (documentation/archived/catalogue-split-plan.md, Part 1). The page then
 redraws over the top, and the two have to produce the same markup: a difference is
 a flash of one layout replaced by another, and — where the difference is a label or
 a count rather than a pixel — a first screen that quietly says something the page
@@ -203,7 +203,7 @@ def main() -> int:
         print(f"    baked  …{a[max(0, i-60):i+80]!r}")
         print(f"    drawn  …{b[max(0, i-60):i+80]!r}")
     print("  `catalogue.py` → `row_html`/`opts_html` and the page's rowHTML/optsHTML "
-          "have diverged — see documentation/catalogue-split-plan.md, Part 1")
+          "have diverged — see documentation/archived/catalogue-split-plan.md, Part 1")
     return 1
 
 

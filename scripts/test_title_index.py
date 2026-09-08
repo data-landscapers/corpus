@@ -3,7 +3,7 @@
 
     python scripts/test_title_index.py
 
-Part 2 of `documentation/catalogue-split-plan.md` moved title and hero search out of
+Part 2 of `documentation/archived/catalogue-split-plan.md` moved title and hero search out of
 the reader's browser and onto `site/catalogue/titles/`. The blob it replaced ran
 `indexOf` over every title in the corpus, so anything that could be found before and
 cannot be found now is a **silent** loss: the results simply look thinner, and nobody
@@ -213,7 +213,7 @@ def main() -> int:
         for x in r["invented"]:
             print(f"    {x.get('q')!r} -> shard {x.get('key')} returned doc {x.get('id')}")
     print("  the page's shardKeyFor()/hitsFrom() and build-title-index.py's key_of() "
-          "have diverged — see documentation/catalogue-split-plan.md, Part 2")
+          "have diverged — see documentation/archived/catalogue-split-plan.md, Part 2")
     return 1
 
 

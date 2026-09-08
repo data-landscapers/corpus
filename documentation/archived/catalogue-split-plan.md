@@ -2,10 +2,18 @@
 type: plan
 title: catalogue-split-plan.md — how the catalogue split gets done, in four shippable parts
 last_reviewed: 2026-09-08
-status: live — Parts 1, 2 and 3 done 2026-09-08 (2 needs an R2 upload and a Worker deploy); 4 to land before go-live
+status: archived 2026-09-08 — all four parts done; the R2 upload and Worker deploy Part 2 needs are in `logs/messages-for-bill.md`
 ---
 
 # Doing the catalogue split
+
+> **Archived 2026-09-08. All four parts landed the day this was written.** What the page ships
+> now: the first screen baked into the markup, title and hero search on prefix shards, the payload
+> split into a filter index and 41 row chunks, and no second published copy of the catalogue.
+> **A reader pays 0.73 MB gzipped before the first draw, against 3.73 MB.** The decision this
+> carried out is `documentation/catalogue-serving-shape.md`; the one thing still owed is Part 2's
+> R2 upload and Worker deploy, which is in `logs/messages-for-bill.md` rather than here, because
+> an open action in an archived file is an action nobody reads.
 
 *(The **what** and the **why** are in `documentation/catalogue-serving-shape.md`, decided
 2026-09-04 and amended 2026-09-08 for the hero text. This is the **how and in what order**, written
@@ -252,6 +260,32 @@ build's permanent git history.
 
 *Done when:* `test_catalogue_export.py` passes with the JSON deleted.
 
+> **Done, 2026-09-08.** `site/catalogue/raw-catalogue.json` is gone: **17 MB out of the published
+> site, and out of every commit from here on.** The export rebuilds each record from the filter
+> index and the row chunks instead — `itemOf` in the page — and the chunks gained the last column
+> they were short, `artefact`, which the index carries only as a flag because a flag is all a row
+> draws.
+>
+> *Proof, and it is the done-when in a stronger form than it was written.* The test used to lift
+> `csvCell` and `toCSV` and run them over the published JSON, which proved the serialiser. It now
+> lifts **`itemOf` as well** and rebuilds all 20,267 records from the payload the page actually
+> fetches: **8,563,917 bytes, seventeen columns, byte for byte identical to `raw-catalogue.csv`.**
+> That covers three things which used to be separate risks — the JavaScript port of
+> `csv.DictWriter`, the encoding of every column into the split payload, and the reassembly of a
+> record out of it.
+>
+> **The whole-catalogue JSON download survives the file.** Deleting the file would have taken the
+> download with it, and that is a real loss for the audience most likely to want the catalogue as
+> data. The button now cuts it in the browser from the same chunks the page draws from — 2.2 MB
+> gzipped in, against 3.5 MB for the file it replaced — so the reader gets the same records and
+> the site carries no second copy of them. **`raw-catalogue.csv` is untouched**: a published file
+> at an undated URL, `design.md` §9's named exception, and still the thing to cite.
+>
+> **One field is deliberately not in the rebuilt record.** The published JSON carried `path`, the
+> vault-relative filename of the source. It was never in the CSV, it means nothing to a reader,
+> and keeping it would have cost about a megabyte across the chunks. Every column `csv_cols()`
+> names is there, and `catalogue_hero` with them.
+
 ## What must not break
 
 **Deep links.** Filter state lives in the URL fragment. A reader arriving on a fragment gets the
@@ -284,4 +318,4 @@ assuming on the day:
 | 1 — bake the first screen | **done 2026-09-08** |
 | 2 — title and hero search shards | **built and proven 2026-09-08**; needs an R2 upload and a Worker deploy to be live |
 | 3 — filter index and row-text chunks | **done 2026-09-08** |
-| 4 — drop `raw-catalogue.json` | not started |
+| 4 — drop `raw-catalogue.json` | **done 2026-09-08** |

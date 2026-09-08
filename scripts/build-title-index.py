@@ -5,7 +5,7 @@ r"""build-title-index.py — the searchable index of catalogue titles and hero l
     python scripts/build-title-index.py --check     report drift, write nothing
     python scripts/build-title-index.py --stats     size profile, write nothing
 
-Part 2 of `documentation/catalogue-split-plan.md`. The catalogue page used to search
+Part 2 of `documentation/archived/catalogue-split-plan.md`. The catalogue page used to search
 titles by holding every one of them in memory: `catalogue-data.js` shipped them, and
 the page concatenated title, publisher, hero, slug and entity tags into a per-row
 blob and ran `indexOf` over it. That is the one operation that appears to need the
@@ -47,7 +47,7 @@ what their second word reaches. Three things still do not:
   without it they would be reachable by facet and by nothing else.
 
 These are the price of not shipping 20,000 titles to every visitor, they were measured
-against the whole catalogue before the switch (`documentation/catalogue-split-plan.md`,
+against the whole catalogue before the switch (`documentation/archived/catalogue-split-plan.md`,
 Part 2), and they are stated here because the failure mode is a search that returns
 less rather than an error anyone would see.
 """

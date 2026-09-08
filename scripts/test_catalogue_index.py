@@ -3,7 +3,7 @@
 
     python scripts/test_catalogue_index.py
 
-Part 3 of `documentation/catalogue-split-plan.md` took the catalogue out of the one
+Part 3 of `documentation/archived/catalogue-split-plan.md` took the catalogue out of the one
 array the page used to be handed and encoded it as a filter index of integers plus
 41 files of row text. Every facet, every count, every sort and every row the page
 draws now comes out of that encoding, and a mistake in it does not look like an
@@ -185,7 +185,7 @@ def report(fails, n, checked) -> int:
     for f in fails[:12]:
         print(f"    {f}")
     print("  `catalogue.py` → `split()` and the catalogue it was built from have "
-          "diverged — see documentation/catalogue-split-plan.md, Part 3")
+          "diverged — see documentation/archived/catalogue-split-plan.md, Part 3")
     return 1
 
 

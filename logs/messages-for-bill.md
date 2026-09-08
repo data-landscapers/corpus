@@ -14,6 +14,15 @@ last_reviewed: 2026-08-28
 
 <!-- newest first: a new block goes directly below this line -->
 
+## 2026-09-08 14:30 · catalogue split
+
+- The catalogue's search shards (`titles/`, `names/`) are built and proved but **not
+  served**: they need `python scripts/r2-sync.py --apply` and a deploy of
+  `workers/download-log/worker.js`, whose `R2_PREFIX` now carries `catalogue/titles/`.
+  Both are committed as source; neither is CC's to run. Until they do, search matches
+  publishers and actors only. Everything else in the split works from a plain push.
+
+
 
 
 

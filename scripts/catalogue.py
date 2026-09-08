@@ -2,16 +2,16 @@
 """catalogue.py — the catalogue browse page (documentation/design.md §4).
 
     python scripts/catalogue.py
-      -> site/catalogue/index.html            the browse-and-filter surface
-      -> site/catalogue/catalogue-data.js     packed data the page reads
-      -> site/catalogue/raw-catalogue.csv     the full download (published from source)
-      -> site/catalogue/raw-catalogue.json    the full download
+      -> site/catalogue/index.html                    the browse-and-filter surface
+      -> site/catalogue/data/filter-index.json        facets, counts and sorts
+      -> site/catalogue/data/rows-NNN.json            row text, 500 records a file
+      -> site/catalogue/raw-catalogue.csv             the full download, published from source
 
 Promoted from `prototypes/catalogue-prototype.html` + `prototypes/build-catalogue-data.py`
 once the browse surface was agreed. It reads the catalogue Corpus builds itself
-(`outputs/catalogue/raw-catalogue.json`), packs the ten
-browse fields into `catalogue-data.js`, and wraps the proven browse UI in the real
-site chrome (`scripts/country.py`'s header/nav/footer).
+(`outputs/catalogue/raw-catalogue.json`), splits it into the filter index and the row
+chunks under `data/`, and wraps the proven browse UI in the real site chrome
+(`scripts/country.py`'s header/nav/footer).
 
 Place and topic vocabularies come from `outputs/vocab/` — snapshotted from OSINT's
 `lookups/`, because the site may not read outside `outputs/` (NOTES-FOR-OSINT #9).
@@ -23,7 +23,7 @@ its publisher (`build-catalogue.py`).
 **The first screen is baked in** — the newest hundred rows and the three facet
 menus are written into `index.html` as markup, so the page shows results before
 the payload has arrived and with JavaScript off entirely
-(`documentation/catalogue-split-plan.md`, Part 1). Everything under *the baked
+(`documentation/archived/catalogue-split-plan.md`, Part 1). Everything under *the baked
 first screen* below mirrors a function in the page's own JavaScript, and
 `scripts/test_catalogue_firstscreen.py` runs the page's copy over the payload and
 compares it to what was baked. Change one and the other has to move.
@@ -94,9 +94,10 @@ def stamp(path: Path) -> str:
     ordering, the vocabulary carrying the order was in the payload, an older cached
     payload had no `torder` in it, and the page fell back to sorting by record
     count — which is a sort, so nothing looked broken; it was simply the sort that
-    had just been removed. The same hazard reaches `raw-catalogue.json`, where a
-    stale copy would mean an export cut from a catalogue the reader is not looking
-    at, and there the wrong answer is a file that leaves the building.
+    had just been removed. The same hazard reaches the row chunks, where a stale one
+    would mean this record's tags against another record's title — and, on an export,
+    the wrong answer as a file that leaves the building. `write_split` hashes the
+    chunks into the index for exactly that reason.
 
     A **content** hash rather than a build timestamp, so a file that did not change
     keeps its URL and stays cached — the cost of this is only paid when the bytes
@@ -297,7 +298,7 @@ def pretty_label(slug: str) -> str:
 
 
 # ---- the baked first screen -------------------------------------------------
-# `documentation/catalogue-split-plan.md` Part 1. The newest hundred rows and the
+# `documentation/archived/catalogue-split-plan.md` Part 1. The newest hundred rows and the
 # three facet menus are all known here, so they are written into `index.html` as
 # real markup rather than left for the browser to draw once 3 MB of payload has
 # arrived and parsed. The page redraws over the top on load, which is what keeps
@@ -544,13 +545,16 @@ def pack_rows(cdir: Path):
         i.get("words") or 0,
         i.get("ingested") or "",
         i.get("url_note") or "",
+        i.get("artefact") or [],
     ] for i in items]
     order = sorted(range(len(rows)), key=lambda n: rows[n][2], reverse=True)
-    return [rows[n] for n in order], ents, [extra[n] for n in order]
+    head = d if isinstance(d, dict) else {}
+    return ([rows[n] for n in order], ents, [extra[n] for n in order],
+            head.get("built", ""), head.get("note", ""))
 
 
 # ---- the split payload ------------------------------------------------------
-# `documentation/catalogue-split-plan.md` Part 3. The page used to be handed every
+# `documentation/archived/catalogue-split-plan.md` Part 3. The page used to be handed every
 # field of every record in one blocking `<script src>` — 8.9 MB of source literal
 # before it could draw. It is now two things with different lifetimes:
 #
@@ -566,15 +570,19 @@ def pack_rows(cdir: Path):
 #
 # **The chunk files are internal and carry no stability promise.** They are named,
 # sized and shaped for this page and nothing else, and they will change without
-# notice. `raw-catalogue.csv` is the supported way to consume this data, and
-# `raw-catalogue.json` beside it — both are published whole, at undated URLs, and
-# `design.md` §9 says what that means. This paragraph exists because the last private
-# format here (`raw-catalogue.json`, read by the page's own export) acquired a second
-# consumer while nobody was saying it must not.
+# notice. **`raw-catalogue.csv` is the supported way to consume this data** — published
+# whole, at an undated URL, `design.md` §9's named exception to the edition rule. This
+# paragraph exists because the last private format here, `raw-catalogue.json`, acquired
+# a second consumer while nobody was saying it must not, and then had to be kept for it.
 CHUNK = 500                    # rows per chunk file; `CH` in the page
 CHUNK_FIELDS = ("title", "url", "slug", "hero",          # what a row draws
                 "author", "date_precision", "lens", "finance",
-                "words", "ingested", "url_note")          # what the download needs
+                "words", "ingested", "url_note", "artefact")   # what the download needs
+
+# **The chunks carry every column of `raw-catalogue.csv` that the filter index does
+# not** (Part 4). The index holds `artefact` as a flag, because a flag is all a row
+# draws; the download carries the filenames themselves, so those ride here. That is the
+# whole of what `raw-catalogue.json` was still being published for.
 
 
 def az_ranks(rows) -> list[int]:
@@ -688,12 +696,19 @@ BODY = r"""
          current filter in the reader's browser and is disabled until there is a
          selection to cut — unfiltered, the selection *is* the catalogue, and the
          published files on the row above are the citable ones. -->
+    <!-- The whole-catalogue CSV is a published file at an undated URL — `design.md`
+         §9's named exception to the edition rule, and the thing to cite. The JSON
+         beside it is cut in the reader's browser from the same row chunks the page
+         draws from, which is why it is a button and not a link: publishing a second
+         whole copy of the catalogue cost 17 MB of `site/` and as much again in every
+         commit, to serve a file the page can assemble on the one click that asks
+         for it (split plan, Part 4). -->
     <div class="dlbox">
       <table>
         <tr><th colspan="3">Downloads</th></tr>
         <tr><td>Whole catalogue</td>
             <td><a class="btn" href="raw-catalogue.csv" download>&darr; CSV</a></td>
-            <td><a class="btn" href="raw-catalogue.json" download>&darr; JSON</a></td></tr>
+            <td><button class="btn" data-dl="json" data-all="1" disabled>&darr; JSON</button></td></tr>
         <tr><td>This selection</td>
             <td><button class="btn" data-dl="csv" disabled>&darr; CSV</button></td>
             <td><button class="btn" data-dl="json" disabled>&darr; JSON</button></td></tr>
@@ -723,10 +738,10 @@ BODY = r"""
       <div id="results">{results}</div>
       <noscript>
         <p class="note">These are the newest {shown} of {n} records, most recent
-        first. Filtering, searching and cutting a selection are all done in the
-        browser, so with JavaScript off they are not available &mdash; take the whole
-        catalogue from the CSV or JSON link above instead. It is the same data, every
-        record and every field.</p>
+        first. Filtering, searching and cutting a download are all done in the browser,
+        so with JavaScript off they are not available &mdash; take the whole catalogue
+        from the CSV link above instead. It is the same data, every record and every
+        field, and it is a published file rather than something this page assembles.</p>
       </noscript>
       <button class="more" id="more" hidden>Show more</button>
       <p class="note" id="note">{note}</p>
@@ -981,46 +996,47 @@ SCRIPT = r"""
     return !!((TITLES.hits && TITLES.hits[id]) || (NAMES.hits && NAMES.hits[id]));
   }
 
+  // A whole catalogue record, rebuilt from the filter index and one chunk row — the
+  // shape `raw-catalogue.json` published and `raw-catalogue.csv` is cut from. Pure, and
+  // plain rather than a method, because `test_catalogue_export.py` lifts it out of the
+  // built page and runs it over every record to prove the CSV still comes out byte for
+  // byte what `build-catalogue.py` wrote.
+  //
+  // **`path` is deliberately not here.** The published JSON carried it — a vault-relative
+  // filename that meant nothing to a reader, was never in the CSV, and is not worth a
+  // megabyte across the chunks to keep. Everything `csv_cols()` names is.
+  function itemOf(i, t){
+    return {
+      slug: t[2], title: t[0], publisher: PUBS[cPub[i]], author: t[4],
+      published: DATES[cDate[i]], date_precision: t[5],
+      places: cPl[i].map(function(k){ return PLK[k]; }),
+      topics: cTp[i].map(function(k){ return TPK[k]; }),
+      entities: cEn[i].map(function(k){ return ENTS[k]; }),
+      lens: t[6], body_completeness: COMP[cCmp[i]], finance: t[7],
+      artefact: t[11], words: t[8], ingested: t[9],
+      url: t[1], url_note: t[10], catalogue_hero: t[3]
+    };
+  }
+
   // ---- downloading a selection ----------------------------------------------
-  // The page holds only what a row draws, so the download's other columns —
-  // author, date_precision, lens, finance, words, ingested, url_note — are not in
-  // memory. That left three ways to export a filtered selection and only one of them
-  // was honest. Serialising what the page held gave a CSV with a different column set
-  // from the published one. Packing the missing columns gave parity, paid for by
-  // every visitor to buy an export most never ask for. So: fetch the full catalogue
-  // once, on the first export click, and cut the selection from it by slug.
+  // **The cut is made from the chunks, and there is no second copy of the catalogue
+  // to make it from.** For a long time there was: the page held only what a row draws,
+  // so an export fetched all 17 MB of `raw-catalogue.json` and cut the selection out of
+  // it by slug — the honest option of three, because serialising what the page held
+  // would have given a CSV with a different column set from the published one, and
+  // packing the missing columns into the payload would have taxed every visitor to
+  // serve an export most never ask for.
   //
-  // **Part 3 removed the objection and Part 4 removes this.** The row chunks carry
-  // those columns now, for the rows the reader actually has, so the export will read
-  // them there and `raw-catalogue.json` goes. Until then this still fetches it, and
-  // what comes out has the same columns as the whole-catalogue download either way.
-  //
-  // Same lazy-fetch shape as the names index above, and it degrades the same way —
-  // if the fetch fails the reader still has the whole-catalogue links at the top.
-  var CSVCOLS = [], VIEW = [], FULL = null, fullPending = null, dlMsg = '';
+  // Chunking dissolved that (Part 3): the missing columns ride the row text, paid for
+  // only by rows a reader actually has. So the JSON has no consumer, and Part 4 stopped
+  // publishing it. `itemOf` above rebuilds the record the cut is made from, and
+  // `test_catalogue_export.py` runs it over every record against `raw-catalogue.csv`,
+  // because a reconstruction is exactly the kind of thing that drifts in silence.
+  var CSVCOLS = [], VIEW = [], dlMsg = '';
   // Row text, one chunk of 500 at a time, kept for the session. A chunk that fails
   // to arrive is **not** remembered as absent: the next thing the reader does asks
   // for it again, which is right for the data the page cannot draw without.
   var CHUNKS = {}, drawn = false, drawSeq = 0;
-
-  function fetchFull(){
-    if (FULL) return Promise.resolve(FULL);
-    if (fullPending) return fullPending;
-    if (!window.fetch || !window.Blob || !window.URL || !URL.createObjectURL)
-      return Promise.reject(new Error('unsupported'));
-    // Content-hashed, like the payload script tag above: an export must not be cut
-    // from a copy of the catalogue the browser cached a build ago.
-    fullPending = fetch('raw-catalogue.json' + (D.rawver || ''))
-      .then(function(res){ if (!res.ok) throw new Error(res.status); return res.json(); })
-      .then(function(d){
-        var items = d.items || [], by = {};
-        for (var i = 0; i < items.length; i++) by[items[i].slug] = items[i];
-        FULL = {built: d.built, note: d.note, by: by};
-        return FULL;
-      })
-      .catch(function(err){ fullPending = null; throw err; });   // so a retry can happen
-    return fullPending;
-  }
 
   function csvCell(v){
     // `csv.DictWriter`'s QUOTE_MINIMAL, reproduced: quote only where the value
@@ -1049,7 +1065,7 @@ SCRIPT = r"""
     return '\ufeff' + out.join('\r\n') + '\r\n';
   }
 
-  function selectionMeta(n, built){
+  function selectionMeta(n, built, all){
     // The JSON carries what produced it; the CSV cannot, which is why the filename
     // carries the build date instead.
     //
@@ -1064,6 +1080,11 @@ SCRIPT = r"""
       if (state[k].length) f[k] = state[k].slice();
     });
     if (state.sort !== 'new') f.sort = state.sort;
+    if (all) return {url: location.href, records: n, of: N,
+                     cut: new Date().toISOString().slice(0, 19) + 'Z',
+                     note: 'The whole catalogue as built on ' + built + ', assembled in a ' +
+                           'reader\'s browser from the same records the page draws. The ' +
+                           'published CSV beside it is the citable file.'};
     return {url: location.href, filters: f, records: n,
             of: N, cut: new Date().toISOString().slice(0, 19) + 'Z',
             note: 'A selection cut in a reader\'s browser from the catalogue as built on ' +
@@ -1080,14 +1101,14 @@ SCRIPT = r"""
     setTimeout(function(){ URL.revokeObjectURL(u); }, 4000);
   }
 
-  function exportSelection(fmt){
+  function exportSelection(fmt, all){
     // **Refuse rather than write a wrong file.** `toCSV` walks CSVCOLS, so an absent
     // column spec does not fail — it produces one empty line per record, no header,
     // which is a file that downloads, opens and says nothing. It happened for real on
     // 2026-08-24: a browser holding a payload cached from before `cols` was added
     // served exactly that, while the JSON export beside it was perfect, because the
-    // JSON path never touches CSVCOLS. The `?v=` content hash on the payload is what
-    // stops the cache going stale in the first place; this is the belt to that
+    // JSON path never touches CSVCOLS. The `?v=` content hash on the filter index is
+    // what stops the cache going stale in the first place; this is the belt to that
     // braces, because a silently empty export is the worst failure on this page.
     if (fmt === 'csv' && !CSVCOLS.length){
       dlMsg = 'This page loaded without its column list, so a CSV of the selection ' +
@@ -1095,36 +1116,29 @@ SCRIPT = r"""
               'whole-catalogue CSV above is unaffected.';
       drawDownload(); return;
     }
+    var want = all ? null : VIEW;
+    if (all){ want = []; for (var w = 0; w < N; w++) want.push(w); }
     dlMsg = 'busy'; drawDownload();
-    // The slugs live in the chunks now, so the selection's own row text has to be in
-    // hand before the cut can be made. It is a fraction of what the next line fetches.
-    chunksFor(VIEW).then(function(ok){
+    // Every record in the cut, out of the chunks it lives in. A selection touches the
+    // chunks its rows are in and no others; the whole catalogue touches all of them,
+    // which is about 2.2 MB gzipped — less than the published JSON this replaced.
+    chunksFor(want).then(function(ok){
       if (!ok) throw new Error('rows');
-      var slugs = VIEW.map(function(i){ return rowText(i)[2]; });
-      return fetchFull().then(function(full){
-      var items = [], i, it;
-      for (i = 0; i < slugs.length; i++){ it = full.by[slugs[i]]; if (it) items.push(it); }
-      // Same rule from the other end: the rows on screen resolved to nothing in the
-      // catalogue file, which means the two are from different builds.
-      if (!items.length){
-        dlMsg = 'None of these ' + slugs.length.toLocaleString() + ' records could be ' +
-                'matched in the catalogue file. Reload the page (Ctrl+F5) and try again.';
-        drawDownload(); return;
-      }
-      var base = 'catalogue-selection-' + (full.built || 'undated');
+      var items = [], i;
+      for (i = 0; i < want.length; i++) items.push(itemOf(want[i], rowText(want[i])));
+      var base = 'catalogue-' + (all ? 'all' : 'selection') + '-' + (D.built || 'undated');
       if (fmt === 'csv') save(base + '.csv', toCSV(items), 'text/csv');
       else save(base + '.json', JSON.stringify({
-        built: full.built, note: full.note,
-        selection: selectionMeta(items.length, full.built),
+        built: D.built, note: D.note,
+        selection: selectionMeta(items.length, D.built, all),
         count: items.length, items: items
       }, null, 1) + '\n', 'application/json');
       dlMsg = ''; drawDownload();
-      });
     }).catch(function(){
       // The buttons come back with the message rather than being replaced by it:
       // the commonest cause is a dropped connection, and the fix is to press again.
       dlMsg = 'That did not come through — try again, or take the whole-catalogue ' +
-              'download at the top of the page.';
+              'CSV at the top of the page.';
       drawDownload();
     });
   }
@@ -1135,11 +1149,20 @@ SCRIPT = r"""
     // selection *is* the catalogue and the row above already offers the published,
     // citable files — so the buttons go quiet rather than duplicating them.
     var live = VIEW.length > 0 && VIEW.length < N && dlMsg !== 'busy',
+        busy = dlMsg === 'busy',
         msg = document.getElementById('dlmsg');
     document.querySelectorAll('.dlbox button[data-dl]').forEach(function(b){
-      b.disabled = !live;
-      b.title = live ? 'Download these ' + VIEW.length.toLocaleString() + ' records'
-                     : 'Filter or search first — this cuts the selection you are looking at';
+      // The whole-catalogue button is live as soon as the index is in; the selection
+      // ones stay quiet until there is a selection to cut, because unfiltered the
+      // selection *is* the catalogue and the published CSV above already is that.
+      if (b.dataset.all){
+        b.disabled = !D || busy;
+        b.title = 'Build all ' + N.toLocaleString() + ' records as JSON in your browser';
+      } else {
+        b.disabled = !live;
+        b.title = live ? 'Download these ' + VIEW.length.toLocaleString() + ' records'
+                       : 'Filter or search first — this cuts the selection you are looking at';
+      }
     });
     msg.textContent = dlMsg === 'busy' ? 'Preparing the file…' : (dlMsg || '');
   }
@@ -1475,7 +1498,7 @@ SCRIPT = r"""
       redraw();
     }
     if (t.id === 'more'){ state.shown += 100; drawResults(); }
-    if (t.dataset && t.dataset.dl && !t.disabled){ exportSelection(t.dataset.dl); }
+    if (t.dataset && t.dataset.dl && !t.disabled){ exportSelection(t.dataset.dl, !!t.dataset.all); }
   });
   // The facet type-aheads are redrawn with the sidebar, so the listener is on the
   // document rather than on each input. It repaints one facet's options from
@@ -1538,7 +1561,7 @@ PAGE = """<!DOCTYPE html>
 
 def main() -> int:
     cdir = catalogue_dir()
-    rows, ents, extra = pack_rows(cdir)
+    rows, ents, extra, built, note = pack_rows(cdir)
     places, regions, topics, cats, torder = vocab()
     out_dir = SITE / "catalogue"
     out_dir.mkdir(parents=True, exist_ok=True)
@@ -1583,11 +1606,20 @@ def main() -> int:
     # the page prettifies them, so this costs nothing for the 36% still unnamed.
     # `cols` is the download's column spec, ~200 bytes, and it is what lets the page
     # cut a filtered CSV with the same columns as the published one.
-    # publish the full downloads from the catalogue Corpus built. Before the payload,
-    # because the payload carries the JSON's content hash so the export cannot be cut
-    # from a cached older copy of it (see `stamp`).
-    for name in ("raw-catalogue.csv", "raw-catalogue.json"):
-        shutil.copyfile(cdir / name, out_dir / name)
+    # **`raw-catalogue.csv` is the one published download, and it is a copy of the file
+    # Corpus built rather than anything assembled here** — `design.md` §9's named
+    # exception to the edition rule, undated and republished wholesale.
+    #
+    # `raw-catalogue.json` used to be published beside it, for one reason: the page's
+    # export fetched it and cut the selection out by slug. The row chunks carry those
+    # columns now, so it has no consumer, and 17 MB of it left `site/` and every future
+    # commit with it (Part 4). The whole-catalogue JSON is still offered — the page cuts
+    # it the way it cuts a selection, from the same chunks, so what a reader gets is the
+    # same records without a second published copy of them.
+    shutil.copyfile(cdir / "raw-catalogue.csv", out_dir / "raw-catalogue.csv")
+    stale_json = out_dir / "raw-catalogue.json"
+    if stale_json.exists():
+        stale_json.unlink()
 
     # `entnames` is what the sources call an entity; `entpretty` is the slug written
     # out for the rest. Two maps and not one merged one, because the derived names are
@@ -1608,7 +1640,9 @@ def main() -> int:
             # for `assembly` and `association`, and does not hold the record wanted.
             "keystop": sorted(KEYSTOP),
             "cols": csv_cols(),
-            "rawver": stamp(out_dir / "raw-catalogue.json")}
+            # What the download says about itself. It used to be read off
+            # `raw-catalogue.json`'s own head, which is no longer fetched.
+            "built": built, "note": note}
     cols, chunks = split(rows, extra, ents, places, topics)
     index_json, chunk_bytes = write_split(out_dir, cols, chunks, head)
 
@@ -1620,7 +1654,7 @@ def main() -> int:
         old_payload.unlink()
 
     # The first screen, written into the markup rather than left for the browser to
-    # draw when 3 MB of payload has arrived (documentation/catalogue-split-plan.md,
+    # draw when 3 MB of payload has arrived (documentation/archived/catalogue-split-plan.md,
     # Part 1). The page redraws over the top on load.
     baked = first_screen(rows, ents, places, regions, topics, cats, torder, entlabel)
     slots = {"facets": baked["facets"], "count": baked["count"],
@@ -1648,7 +1682,7 @@ def main() -> int:
 
     idx = out_dir / "index.html"
     print(f"catalogue: {len(rows):,} records, {len(ents):,} entity slugs -> site/catalogue/  "
-          f"(index.html, csv, json)")
+          f"(index.html, raw-catalogue.csv)")
     print(f"  filter index: {index_json.stat().st_size/1024:.0f} KB fetched once; "
           f"row text: {len(chunks)} chunks of {CHUNK}, {chunk_bytes/1024:.0f} KB in all, "
           f"{chunk_bytes/max(len(chunks),1)/1024:.0f} KB each, fetched as rows are drawn")

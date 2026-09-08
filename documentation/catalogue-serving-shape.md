@@ -2,14 +2,20 @@
 type: decision
 title: catalogue-serving-shape.md — how the catalogue is served at 40,000 records
 last_reviewed: 2026-09-04
-status: decided; `names/` moved to R2 2026-09-08; the split is now scheduled before go-live in the week of 2026-09-14 — see catalogue-split-plan.md
+status: decided; carried out in full 2026-09-08 — see archived/catalogue-split-plan.md
 ---
 
 # The serving shape of the catalogue
 
-> **`documentation/catalogue-split-plan.md` is how this gets done** — four shippable parts, the
-> effort behind each, and what must not break. This file is the decision and the argument for it;
-> that one is the work, and it is ticked off and archived when the last part lands.
+> **Done, 2026-09-08 — all four parts, in one day.** `documentation/archived/catalogue-split-plan.md`
+> is the record: the effort behind each part, what was found on the way, and how each was proved.
+> This file is the decision and the argument for it; that one is the work.
+>
+> **What the numbers came out at.** The filter index is **0.68 MB gzipped at 20,267 records, so
+> ~1.34 MB at 40,000** — the figure this note said the whole decision rested on, now measured
+> rather than projected, and it survives the hero column. A reader pays **0.73 MB gzipped before
+> the first draw against 3.73 MB**, an 80% cut, and the first screen is in the markup so the page
+> draws with JavaScript off entirely. `raw-catalogue.json` is gone from the site.
 
 *(This resolves the first bullet of `design.md` §6, *Serving shape of the catalogue*, and supersedes both its projection and the instrument it reached for. §6's bullet should be struck and replaced with a pointer here. Written 2026-09-04 against a catalogue of 16,730 records, at Bill's request to plan for 40,000.)*
 
@@ -158,3 +164,5 @@ The freeze runs to 2026-09-27 and the test is *wrong* against *missing* (`CLAUDE
 > **Resolved, 2026-09-08 — `documentation/editions-serving-shape.md`.** It is the same move, and it was built together with the `names/` one recommended above rather than after it: the dated editions and the names shards go to R2 behind the Worker at the URLs they already have. The paragraph above was right that the editions are the ceiling problem and right about the shape of the answer. What it did not anticipate is that the pre-worker archive would be cleared first (1,237 editions, 374 MB) — which bought three weeks and was never the solution.
 
 **Whether the browse payload's chunk boundary is a public commitment.** The chunks are fetched by the page and by nothing else, so on the face of it they are private and re-choosable. That was true of `raw-catalogue.json` too, right up until the export started reading it. State plainly, in `catalogue.py`, that the chunk files are internal and carry no stability promise — the whole-catalogue CSV is the supported way to consume this data — or the boundary will acquire a second consumer the same way the last one did.
+
+> **Said, 2026-09-08.** `catalogue.py` carries it where it writes them, and `RENDER.md` repeats the pointer. The second consumer that prompted this is also gone: the export no longer reads a published file, it rebuilds each record from the chunks, so nothing outside the page depends on their shape.
