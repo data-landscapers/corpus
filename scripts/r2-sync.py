@@ -15,10 +15,10 @@ cannot tell which answered, and if anything is wrong the fallback to Pages is a 
 than a 404. `--prune-local` is the only irreversible step and it refuses to touch a file it has
 not just seen in the bucket, byte-count and MD5 both.
 
-**What moves.** Dated editions anywhere under `site/` — `reports/`, `topics/`, `countries/`,
-`finance/`, `bulletin/` — and the `catalogue/names/` shards. What does not: every HTML page, the
-assets, and `raw-catalogue.csv`, which §9 keeps deliberately undated and which therefore is not
-an edition and never matches.
+**What moves.** Dated editions under `reports/`, `topics/`, `countries/` and `finance/`, and the
+`catalogue/names/` shards. What does not: every HTML page, the assets, `raw-catalogue.csv` —
+which §9 keeps deliberately undated, so it is not an edition and never matches — and `bulletin/`,
+which is an edition by the grammar and stays anyway, for the reason recorded at `STAYS`.
 
 **The selection rule exists twice and the copies must agree.** Here it is `editions.py`'s own
 grammar, which is canonical (§9: the script that names editions is the one that reads them). In
@@ -34,6 +34,7 @@ render that cuts eight new editions uploads eight objects rather than 2,500.
 from __future__ import annotations
 
 import argparse
+import concurrent.futures as cf
 import importlib.util
 import sys
 import urllib.error
@@ -83,38 +84,65 @@ def candidates(site: Path) -> list[Path]:
     return out
 
 
-def upload(bucket: r2_client.R2, site: Path, files: list[Path], apply: bool) -> dict:
+# Eight at a time. Each object is one round trip to Cloudflare and the tree is 8,139 of them, so
+# sequential means the better part of an hour of latency and almost no bytes in flight. Eight is
+# chosen to be unremarkable rather than fast — R2's limits are far above this, and a sync that
+# provokes rate limiting turns a slow job into a failed one.
+WORKERS = 8
+
+
+def _each(files: list[Path], job, workers: int = WORKERS, label: str = "") -> list:
+    """Run `job` over every file, in parallel, and raise the first fault rather than reporting it.
+
+    **A fault here must stop the run.** Both callers feed a decision that deletes published
+    files: a partial upload that reported success, or a verification that skipped the object it
+    could not read, is the one shape of wrongness this cannot survive."""
+    out = []
+    done = 0
+    with cf.ThreadPoolExecutor(max_workers=workers) as pool:
+        futures = {pool.submit(job, f): f for f in files}
+        for fut in cf.as_completed(futures):
+            out.append(fut.result())          # a raised exception propagates here, as it should
+            done += 1
+            if label and (done % 500 == 0 or done == len(files)):
+                print(f"  {label}: {done}/{len(files)}", flush=True)
+    return out
+
+
+def upload(bucket: r2_client.R2, site: Path, files: list[Path], apply: bool,
+           workers: int = WORKERS) -> dict:
     """Put what is missing or changed. Returns counts; raises on anything it cannot explain."""
-    sent = skipped = 0
-    sent_bytes = 0
-    for f in files:
+    def one(f: Path):
         key = f.relative_to(site).as_posix()
         data = f.read_bytes()
         held = bucket.head(key)
         if held and held["size"] == len(data) and held["etag"] == r2_client.etag_of(data):
-            skipped += 1
-            continue
+            return (False, 0)
         if apply:
             bucket.put(key, data, r2_client.content_type(f))
-        sent += 1
-        sent_bytes += len(data)
-    return {"sent": sent, "skipped": skipped, "bytes": sent_bytes}
+        return (True, len(data))
+
+    results = _each(files, one, workers, "uploaded" if apply else "checked")
+    sent = [n for done, n in results if done]
+    return {"sent": len(sent), "skipped": len(results) - len(sent), "bytes": sum(sent)}
 
 
-def verify(bucket: r2_client.R2, site: Path, files: list[Path]) -> list[str]:
+def verify(bucket: r2_client.R2, site: Path, files: list[Path],
+           workers: int = WORKERS) -> list[str]:
     """Names of every candidate the bucket does not hold intact. Empty means safe to prune."""
-    bad = []
-    for f in files:
+    def one(f: Path):
         key = f.relative_to(site).as_posix()
         data = f.read_bytes()
         held = bucket.head(key)
         if held is None:
-            bad.append(f"{key} — not in the bucket")
-        elif held["size"] != len(data):
-            bad.append(f"{key} — {held['size']} bytes in the bucket, {len(data)} on disk")
-        elif held["etag"] != r2_client.etag_of(data):
-            bad.append(f"{key} — MD5 differs")
-    return bad
+            return f"{key} — not in the bucket"
+        if held["size"] != len(data):
+            return f"{key} — {held['size']} bytes in the bucket, {len(data)} on disk"
+        if held["etag"] != r2_client.etag_of(data):
+            return f"{key} — MD5 differs"
+        return None
+
+    return sorted(b for b in _each(files, one, workers, "verified") if b)
 
 
 def serves(key: str, timeout: int = 30) -> str:
