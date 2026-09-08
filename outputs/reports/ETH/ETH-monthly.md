@@ -3,9 +3,9 @@ title: Ethiopia — monthly update, August – September 2026
 compiled: 2026-09-08
 period: 2026-08-01 to 2026-09-08
 place: ETH
-ledger_rows: 37
+ledger_rows: 38
 not_held: 5
-record: e6ef4c0a1f69
+record: 74e7b1139ce3
 ---
 
 # Ethiopia: monthly update, August – September 2026
@@ -75,6 +75,11 @@ The incumbent's renewable programme reached [39.72 MW of installed solar across 
 
 ## DPI
 
+### Data Exchange
+
+<!-- narrative: dpi--dpi-exchange -->
+A delegation joined the [UNDP Africa Accelerator for Digital Public Infrastructure's session of 2-3 September](https://www.linkedin.com/posts/africa-accelerator-for-digital-public-infrastructure-share-7501243526484123648-U4ba) alongside Malawi, Rwanda, Sierra Leone and Zambia, on moving digital public infrastructure blueprints to execution, verifiable credentials and consented data sharing, and reusable open-source deployment code. Attendance and a [published agenda](https://www.undp.org/africa/projects/africa-accelerator-digital-public-infrastructure-aa4dpi) are the whole of what is established; nothing on the record commits the country to a programme.
+<!-- /narrative -->
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->

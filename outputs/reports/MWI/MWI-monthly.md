@@ -1,11 +1,11 @@
 ---
 title: Malawi — monthly update, August – September 2026
-compiled: 2026-09-07
-period: 2026-08-01 to 2026-09-07
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 place: MWI
-ledger_rows: 49
+ledger_rows: 50
 not_held: 38
-record: 7d37282d32ed
+record: 8c3a368bf8cd
 ---
 
 # Malawi: monthly update, August – September 2026

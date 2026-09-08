@@ -3,9 +3,9 @@ title: Botswana — monthly update, August – September 2026
 compiled: 2026-09-08
 period: 2026-08-01 to 2026-09-08
 place: BWA
-ledger_rows: 30
+ledger_rows: 33
 not_held: 8
-record: 043584e7859b
+record: 59d6e9de1379
 ---
 
 # Botswana: monthly update, August – September 2026
@@ -98,6 +98,11 @@ A tax adviser's reading of the new Value Added Tax Act, in force since 1 July, [
 
 <!-- narrative: technology--tech-industry -->
 The state wholesale network operator [presented its first integrated report, for the year ended 31 March 2025, at its annual general meeting on 13 August, with revenue down on the year](https://www.bofinet.co.bw/uploads/571/01M07F2TQ2HE6M06GD31SSDFZG.pdf), and [reported its 2025/26 local access projects complete](https://na.co.bw/bofinet-hosts-agm-showcasing-enhanced-accountability-and-value-creation/). Publishing an integrated report is itself part of the movement: the operator has not accounted for itself in one document before.
+<!-- /narrative -->
+### Innovation ecosystem
+
+<!-- narrative: technology--tech-innovate -->
+The sector was counted for the first time. An inaugural census puts more than 100 startups in operation across fintech, e-commerce, agritech, artificial intelligence, mobility, edtech and healthtech, and states the whole of what they have raised since 2019 as a single figure the progress report carries ([census](/catalogue/#q=2026-08-03-botswana-startup-ecosystem-report-2026)) - where the 2021 diagnostic could only call the early-stage finance market nascent. The count is the publisher's own compilation rather than a deal database, and the report carries no recoverable address, so it is cited to its catalogue entry.
 <!-- /narrative -->
 
 ## Inclusion

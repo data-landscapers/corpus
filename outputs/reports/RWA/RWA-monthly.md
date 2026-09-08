@@ -3,9 +3,9 @@ title: Rwanda — monthly update, August – September 2026
 compiled: 2026-09-08
 period: 2026-08-01 to 2026-09-08
 place: RWA
-ledger_rows: 43
-not_held: 8
-record: 51c729fdaae0
+ledger_rows: 44
+not_held: 9
+record: c766d175c8a7
 ---
 
 # Rwanda: monthly update, August – September 2026
@@ -96,6 +96,11 @@ A fraud figure moved the right way. The central bank reported that [cases of fra
 
 ## DPI
 
+### Data Exchange
+
+<!-- narrative: dpi--dpi-exchange -->
+A delegation joined the [UNDP Africa Accelerator for Digital Public Infrastructure's session of 2-3 September](https://www.linkedin.com/posts/africa-accelerator-for-digital-public-infrastructure-share-7501243526484123648-U4ba) alongside Ethiopia, Malawi, Sierra Leone and Zambia, working through the move from blueprint to execution, verifiable credentials and consented data-sharing frameworks, and reusable open-source deployment code. What is on record is attendance and a [published agenda](https://www.undp.org/africa/projects/africa-accelerator-digital-public-infrastructure-aa4dpi); no country programme, commitment or deliverable follows from it.
+<!-- /narrative -->
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->

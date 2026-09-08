@@ -3,9 +3,9 @@ title: Benin — monthly update, August – September 2026
 compiled: 2026-09-08
 period: 2026-08-01 to 2026-09-08
 place: BEN
-ledger_rows: 24
+ledger_rows: 25
 not_held: 4
-record: 6ba6a056aeb6
+record: b3c318229f9b
 ---
 
 # Benin: monthly update, August – September 2026

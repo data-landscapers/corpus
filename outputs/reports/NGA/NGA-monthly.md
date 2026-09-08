@@ -4,8 +4,8 @@ compiled: 2026-09-08
 period: 2026-08-01 to 2026-09-08
 place: NGA
 ledger_rows: 158
-not_held: 8
-record: 9a9155f9dc58
+not_held: 9
+record: 510cf828adaa
 ---
 
 # Nigeria: monthly update, August – September 2026
