@@ -1,12 +1,12 @@
 ---
 title: Nigeria — digital transformation and data governance status report
-compiled: 2026-09-06
+compiled: 2026-09-08
 place: NGA
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-09
 intersections_read: 16
-sources_cited: 256
+sources_cited: 257
 sections_written: 37
 not_established: 0
 acquire_lines: 41
@@ -16,7 +16,7 @@ acquire_lines: 41
 ### Strategies, plans and policies
 <!-- gov.policy -->
 
-Nigeria adopted a sovereign cloud regime in August 2026 that nobody outside government can read: [NITDA signed the National Cloud Computing Guideline, the National Cloud Technical Guideline and the National Digital Infrastructure Assurance Framework on 4 August 2026, and none of them was published at the ceremony or retrievable afterwards](https://von.gov.ng/nigeria-unveils-sovereign-cloud-regulatory-frameworks/); [the instruments set data-classification and provider-certification requirements, with Galaxy Backbone as delivery operator](https://techcabal.com/2026/08/10/nigeria-pushes-local-cloud-as-85-of-workloads-use-public-clouds/). The instrument they rest on is older than the market it governs — [Nigeria's national telecommunications policy has not been revised since 2000, and the Nigerian Communications Commission is rewriting it](https://businessday.ng/technology/article/why-global-hyperscalers-are-avoiding-nigeria/) because a licensing regime built for voice and SMS does not fit cloud, artificial intelligence and data centres.
+One of the three instruments Nigeria's sovereign cloud regime rests on can now be read. [NITDA signed the National Cloud Computing Guideline, the National Cloud Technical Guideline and the National Digital Infrastructure Assurance Framework on 4 August 2026, none of them published at the ceremony](https://von.gov.ng/nigeria-unveils-sovereign-cloud-regulatory-frameworks/); the technical guideline has since been issued as [version 1.0, mandatory in enforcement, commencing 1 January 2027 under sections 6 and 32 of the NITDA Act 2007](https://nitda.gov.ng/wp-content/uploads/2026/08/NATIONAL-CLOUD-TECHNICAL-GUIDELINE-2026_-Final.pdf), so the signing did not put it in force. It [binds federal public institutions, state governments, cloud service providers, data-centre operators, integrators, government contractors and vendors, and sets minimum standards for procurement and service management, security and resilience operations, migration and deployment, data-sovereignty compliance and data-centre physical infrastructure, with a three-year review cycle](https://nitda.gov.ng/wp-content/uploads/2026/08/NATIONAL-CLOUD-TECHNICAL-GUIDELINE-2026_-Final.pdf). The companion computing guideline and the assurance framework remain unpublished, and [the instruments set data-classification and provider-certification requirements, with Galaxy Backbone as delivery operator](https://techcabal.com/2026/08/10/nigeria-pushes-local-cloud-as-85-of-workloads-use-public-clouds/). The instrument they rest on is older than the market it governs — [Nigeria's national telecommunications policy has not been revised since 2000, and the Nigerian Communications Commission is rewriting it](https://businessday.ng/technology/article/why-global-hyperscalers-are-avoiding-nigeria/) because a licensing regime built for voice and SMS does not fit cloud, artificial intelligence and data centres.
 
 Who owns delivery is the live question. [The communications minister paused enforcement of new internet-platform rules pending a unified digital-economy framework and convened a joint NCC, NITDA and NDPC technical committee to resolve overlapping mandates](https://www.nigeriacommunicationsweek.com.ng/fg-halts-enforcement-of-new-regulations-on-internet-platforms/), and [the interim settlement of the digital-lending dispute is a ministerial direction rather than an instrument, with operators asking both regulators for coordination protocols](https://www.vanguardngr.com/2026/08/digital-lending-regulators-operators-seek-clarity-to-protect-40m-airtime-users/).
 
