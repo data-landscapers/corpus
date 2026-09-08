@@ -1,11 +1,11 @@
 ---
 title: Uganda — monthly update, August – September 2026
-compiled: 2026-09-07
-period: 2026-08-01 to 2026-09-07
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 place: UGA
-ledger_rows: 81
+ledger_rows: 85
 not_held: 11
-record: 912e89b1c7bb
+record: ebecd8bf2069
 ---
 
 # Uganda: monthly update, August – September 2026
@@ -104,6 +104,8 @@ The month's exchange story is a border system working for someone else. The reve
 The identity authority put its own constraint on the record on 7 August: it is [operating at 70% of its approved workforce, with 25 districts served by a single member of staff and two board seats vacant](https://allafrica.com/stories/202608070683.html). The figures were given to the internal affairs minister alongside a request for a permanent headquarters and additional wage funding.
 
 Four days later the Auditor General's account of the same authority reached the press, and it puts a size on the consequence. As at late October 2025 [17 million citizens were still awaiting national identity cards, only 0.2% of first-time applicants had been cleared for printing, the staff vacancy rate stood at 26% and identity renewal faced a UGX256.8bn funding shortfall](https://redpepper.co.ug/id-nightmare-ugandans-curse-nira-over-r-nile-like-long-queues-confusing-collection-points-rejected-new-ids/150319/) — reported amid cross-district queue chaos over collection of new cards. The figures are ten months old at publication, and the authority publishes no current backlog series against which to test them.
+
+The Cabinet decision of 1 September was narrowed twice in the week after it. The finance minister said on 3 September that it [does not make the identification number the taxpayer number but requires the two to be interoperable — "we are not saying the NIN is the TIN; we are saying the NIN and the TIN must be able to read each other"](https://mulengeranews.com/minister-musasizi-explains-why-nin-is-to-be-used-as-tin-as-icpau-commits-to-enforce-ai-adoption-in-accountancy-sector/), and the revenue authority added on 7 September that [holding an identification number does not by itself make its holder a taxpayer](https://nilepost.co.ug/business/369514/ura-explains-use-of-nins-to-replace-tins), the purpose being a single secure identifier for government services and more accurate taxpayer records. The decision itself is not held, and no instrument, commencement date or migration plan has been published for what is now described as two identifiers reading each other rather than one replacing the other.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -129,12 +131,16 @@ The alien register issued its first cards. The identity authority [began issuing
 The business register meanwhile [opened its financial-year stakeholder engagements](https://ursb.go.ug/2026/08/26/non-individual-registry-begins-fy2026-27-stakeholder-engagements/). No registration volume, turnaround time or service change is stated with them.
 
 A sectoral register was added beside them. The trade, industry and cooperatives ministry, with the National Sugar Stakeholders Council, [launched a Sugar Industry Information Management System to register every sugarcane farmer in the country and centralise data across cane cultivation, harvesting, milling, processing, distribution and market trends](https://www.newvision.co.ug/category/agriculture/trade-ministry-launches-digital-system-to-reg-NV_239987_092026). No farmer count, registration deadline, cost or data-protection provision is published, and nothing states how it relates to the national identification register.
+
+The country's other identifier-bearing register went the other way. Parliament's infrastructure committee opened a fact-finding inquiry into the digital number plate system on 2 September after complaints from vehicle dealers: [daily production has fallen from about 350 plates to about 100, and members put the cost of the backlog at more than 4bn shillings a week against a first-registration fee of 714,300 shillings](https://businesstimesug.com/parliament-probes-digital-plate-crisis-as-delays-cost-uganda-shs4bn-weekly/). The weekly loss is legislators' own estimate rather than an audited figure, and the operator has published no account of the shortfall.
 <!-- /narrative -->
 ### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->
 
 A health surveillance pilot moved to the stage where the model's answer is visible to the person making the decision. An artificial-intelligence febrile-illness workflow built into the community health information system [recorded high agreement with village health teams' unaided judgments in a first phase and has entered a three-month second phase in which workers see the model's interpretation, across four districts](https://iafrica.com/ugandan-ai-health-pilot-records-high-agreement-with-community-workers-now-enters-the-harder-phase/). No agreement percentage, sample size or case count has been published, so the headline finding cannot be checked; the first phase itself logged low testing volumes, inconsistent commodity availability, device underperformance, unreliable connectivity and supervision gaps.
+
+A private platform entered the health stack from outside it. A digital-health company [launched a platform on 3 September letting urban specialists run virtual multidisciplinary ward rounds with rural inpatient teams in real time, with per-bed cryptographic tokens and triage on live vital signs](https://nilepost.co.ug/business/368668/chil-group-launches-digital-platform-linking-rural-hospitals-to-urban-specialists), covering more than 260 medical wards it says often lack cardiologists, neurologists and intensivists. No facility list, patient volume, tariff, clinical evaluation or integration with the national health information stack is published.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -146,6 +152,8 @@ Two further e-services launched on 12 August under the same government network p
 Upstream of any of it, German cooperation [tendered a consultancy on 5 August to identify and prepare bankable digital public infrastructure projects across Uganda, Kenya and Tanzania](https://www.gtai.de/de/trade/tansania/ausschreibungen-projekte/consulting-digitale-oeffentliche-infrastrukturprojekte-ostafrika--2018684) — identity, data exchange, payments and e-government — under the European programme with the East African Community. It is a procurement notice: it fixes the consultancy and nothing about any project it may produce, and neither its value nor its duration is stated.
 
 The public procurement and disposal authority [partnered with a budget-advocacy group to strengthen monitoring of government contracts](https://ubc.go.ug/2026/08/21/ppda-partners-with-csbag-to-strengthen-monitoring-of-government-contracts/). No scope, dataset or first published finding accompanies the announcement.
+
+The procurement system was restated as a fiscal-discipline instrument rather than a procurement one, the finance minister setting it [alongside budget-execution controls and the accounting profession's own role in evidence-based decision-making at a professional seminar on 3 September](https://www.finance.go.ug/media-center/news-and-updates/musasizi-tasks-accountants-fiscal-discipline-accountability). No new onboarding or throughput figures came with it.
 <!-- /narrative -->
 
 ## Digitalisation
@@ -174,6 +182,8 @@ A profession got there before the state did. The medical and dental practitioner
 What developers here build on is being decided ahead of the strategy. A wire report records a Ugandan developer [building a 31-language model on a Chinese open-weight model rather than an American one, largely on cost](https://www.asiae.co.kr/en/article/2026080708231865765), against a claim in the same report that Chinese open-weight models took 17.1% of global downloads over the year to 15.8% for American ones. Neither figure is independently held here, and no licence terms or evaluation of the model are on record.
 
 Crop-disease and precision-agriculture tools are [being piloted under GAINAfrica](https://aimnews.org/2026/08/25/europa-introduz-inteligencia-artificial-generativa-para-transformar-africa/), a Horizon Europe project led by La Sapienza in Rome and running in five African countries. No user count, evaluation or end date is published.
+
+A domestic model reached a continental prize rather than a deployment: a startup building [credit scoring for smallholder farmers who lack collateral took US$50,000, about 190m shillings, in growth funding at a Kigali food-systems summit](https://nilepost.co.ug/technology/369117/ugandan-startup-sandi-ai-wins-shs190m-gogettaz-agripreneur-prize). No user count, lender partnership, loan volume or model documentation is published. In the same week the state set artificial intelligence against a sector rather than a system, [making "Digital Agenda and Artificial Intelligence to Redesign Tourism" the theme of national World Tourism Day celebrations, against 793,815 visitors in the first half of 2026 and receipts up 25.6% to 2.30tn shillings](https://www.monitor.co.ug/uganda/news/national/uganda-turns-to-ai-to-drive-tourism-growth-5583524) — a framing with no programme, budget or system behind it.
 <!-- /narrative -->
 ### Innovation ecosystem
 
@@ -228,6 +238,8 @@ Money went the other way as well. An implementing partner's account of 12 August
 
 <!-- narrative: data--data-statistics -->
 The statistics bureau [commissioned 80 field data collectors on 4 August](https://nilepost.co.ug/news/361056/ubos-commissions-80-data-collectors-for-9th-uganda-national-household-survey) for the ninth national household survey, deployed in 16 language-based teams after fifteen days' training, for twelve months of collection. No sample size, budget, funder or publication date was stated.
+
+The bureau went to cultural institutions for the administrative records the civil register does not capture, signing [memoranda with the Samia Bugwe and Tieng Adhola institutions on collecting, managing and sharing community-generated information, births and deaths particularly](https://ubc.go.ug/2026/09/06/ubos-partners-with-samia-bugwe-and-tieng-adhola-to-improve-community-data/), with the bureau providing technical support and training. Its own argument for it is the interesting part: better administrative records would strengthen the population register and reduce what a national census costs. Neither text is held and no coverage or start date is published.
 <!-- /narrative -->
 ### Use of satellite data
 
