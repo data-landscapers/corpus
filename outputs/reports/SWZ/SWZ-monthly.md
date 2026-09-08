@@ -1,11 +1,11 @@
 ---
 title: Eswatini — monthly update, August – September 2026
-compiled: 2026-09-05
-period: 2026-08-01 to 2026-09-05
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 place: SWZ
-ledger_rows: 32
+ledger_rows: 35
 not_held: 4
-record: b6de464c4107
+record: f054f5912981
 ---
 
 # Eswatini: monthly update, August – September 2026
@@ -43,6 +43,8 @@ In August the same rule-making reached a second sector and produced a ranking. A
 
 <!-- narrative: governance--gov-regional -->
 The King was [elected Chairperson of the SADC Organ on Politics, Defence and Security Cooperation](https://www.sadc.int/latest-news/communique-46th-ordinary-summit-sadc-heads-state-and-government-17th-august-2026) at the bloc's 46th summit in Durban on 17 August. It is a security portfolio, not a digital one, and no ICT or data responsibility attaches to it in the communique.
+
+A second regional channel opened alongside the SADC one. The Digital Cooperation Organization's secretary-general [met the ICT minister on cooperation to accelerate digital transformation, the country presenting 1.76m mobile connections against a population of about 1.3m and 95% fourth-generation coverage](https://techreviewafrica.com/news/7055/eswatini-and-dco-explore-cooperation-to-accelerate-digital-transformation). These are exploratory talks with no memorandum, work programme or membership step recorded, and the connection and coverage figures are the government's own.
 <!-- /narrative -->
 ### Standards
 
@@ -121,11 +123,20 @@ Eswatini's second instrument to carry AI rules arrived in the month, and like th
 On 6 July the prime minister told the [Global Dialogue on AI Governance in Geneva that small and developing nations should not become mere consumers of technologies developed elsewhere](https://independentnews.co.sz/45686/business/eswatini-champions-human-centred-ai-and-how-to-guide-its-transformation-responsibly/), an address the National 4IR Strategy frames.
 
 A [regional health body and a private firm signed a memorandum in Eswatini on 4 August to scale AI-enabled health solutions](https://eswatinipositivenews.online/ecsa-hc-skye-africa-intelligence-partner-to-scale-ai-health-solutions/), naming no system, no data-sharing terms and no money.
+
+The audit office took its own artificial-intelligence commitment regional, [hosting a week-long peer programme at which supreme audit institutions across the region weighed the use of artificial intelligence in government audit](https://eswatinipositivenews.online/auditors-embrace-ai-to-protect-public-funds/). As with the strategic plan in August, no tool, pilot, audit methodology or procurement is named — what the base holds is the intention and the forum it was stated in.
+<!-- /narrative -->
+### ICT Industry
+
+<!-- narrative: technology--tech-industry -->
+
 <!-- /narrative -->
 ### Innovation ecosystem
 
 <!-- narrative: technology--tech-innovate -->
 [Digital transformation was named a priority of the Eswatini-Taiwan relationship](https://independentnews.co.sz/47014/business/digital-innovation-take-centre-stage-on-eswatini-taiwan-cooperation/) at a leaders' meeting in Taipei, with no instrument, figure or implementing agency named; the meeting's own date is not established.
+
+A state-facing platform changed hands rather than being built. The [Taiwan-funded platform connecting local businesses to wider markets was handed over to the investment promotion authority at the international trade fair on 3 September, with funding for a third-phase scale-up still being sought](https://eswatinipositivenews.online/taiwan-opens-global-markets-for-eswatini-through-buy-eswatini/). No listing count, transaction volume, cost or phase-three budget is published, so what the state has taken on is a platform whose running costs are unstated. Three days earlier [about 150 delegates — industry leaders, entrepreneurs, policymakers and development partners — met at Manzini under a United Nations enterprise programme on cutting small-enterprise costs with digital tools](https://www.undp.org/eswatini/news/work-smarter-embrace-technology-cut-costs-grow), with no follow-on commitment, tool or funding line published.
 <!-- /narrative -->
 
 ## Capacity
