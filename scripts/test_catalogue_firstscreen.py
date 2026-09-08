@@ -12,10 +12,12 @@ a count rather than a pixel — a first screen that quietly says something the p
 does not.
 
 Python writes one of those and JavaScript writes the other, and nothing in the build
-would notice them drifting apart. So this lifts `rowHTML` and `optsHTML` out of the
-**built page** — testing a copy of the logic would only prove the copy right — runs
-them over the payload the page ships, and compares the result to the markup baked
-into the same file.
+would notice them drifting apart. So this lifts `rowOf`, `rowHTML` and `optsHTML`
+out of the **built page** — testing a copy of the logic would only prove the copy
+right — runs them over the filter index and the first row chunk the page would fetch,
+and compares the result to the markup baked into the same file. Since Part 3 of the
+split that is an end-to-end check of the encoding as well: the bake reads the
+catalogue and the page reads an encoding of it, so the two agree only if it does.
 
 It compares the two facet menus and the hundred rows character for character. What it
 does not cover is the interactive half of those functions, which cannot be baked and
@@ -55,45 +57,48 @@ function grab(name){
 }
 
 // The payload the page ships, read the way the page reads it.
-const D = (new Function(grab_payload()))();
-function grab_payload(){
-  return fs.readFileSync(DIR + '/catalogue-data.js', 'utf8')
-           .replace(/^window\.CATALOGUE\s*=/, 'return') + '\n';
-}
+const D = JSON.parse(fs.readFileSync(DIR + '/data/filter-index.json', 'utf8'));
+const CHUNK0 = JSON.parse(fs.readFileSync(DIR + '/data/rows-000.json', 'utf8'));
 
-// The two closure variables `rowHTML` needs, built exactly as the page builds them.
+// The closure values the lifted functions read, built the way `start()` builds them.
 const ENTS = D.ents || [], DERIVED = D.entnames || {}, PRETTY = D.entpretty || {};
 const ENTLABEL = {};
 for (let i = 0; i < ENTS.length; i++)
   ENTLABEL[ENTS[i]] = DERIVED[ENTS[i]] || PRETTY[ENTS[i]] || ENTS[i];
+const PUBS = D.pubs, DATES = D.dates, PLK = D.placekeys, TPK = D.topickeys, COMP = D.comp;
+const cDate = D.date, cPub = D.pub, cPl = D.pl, cTp = D.tp, cEn = D.en,
+      cArt = D.art, cCmp = D.cmp, cDoc = D.doc;
 
 const helpers = `
   function esc(s){ return String(s).replace(/[<>&]/g, function(c){ return {'<':'&lt;','>':'&gt;','&':'&amp;'}[c]; }); }
   function att(s){ return esc(s).replace(/"/g, '&quot;'); }
 `;
-const api = new Function('D', 'ENTLABEL', helpers + grab('rowHTML') + '\n' +
-                          grab('optsHTML') + '\nreturn {rowHTML, optsHTML};')(D, ENTLABEL);
+const api = new Function(
+  'D', 'ENTLABEL', 'ENTS', 'PUBS', 'DATES', 'PLK', 'TPK', 'COMP',
+  'cDate', 'cPub', 'cPl', 'cTp', 'cEn', 'cArt', 'cCmp', 'cDoc',
+  helpers + grab('rowOf') + '\n' + grab('rowHTML') + '\n' + grab('optsHTML') +
+  '\nreturn {rowOf, rowHTML, optsHTML};')(
+  D, ENTLABEL, ENTS, PUBS, DATES, PLK, TPK, COMP,
+  cDate, cPub, cPl, cTp, cEn, cArt, cCmp, cDoc);
 
 // ---- the rows ---------------------------------------------------------------
-// Stored order is date-descending and the page's default sort is `new`, so the
-// first screen is the head of the array with the entity offsets expanded.
-const rows = D.rows.slice(0, 100).map(function(r){
-  const c = r.slice();
-  c[10] = (c[10] || []).map(function(i){ return ENTS[i]; });
-  return c;
-});
-const results = rows.map(api.rowHTML).join('');
+// Stored order is date-descending and the page's default sort is `new`, so the first
+// screen is the head of the corpus — which is the head of the first chunk.
+const SHOWN = Math.min(100, D.n);
+let results = '';
+for (let i = 0; i < SHOWN; i++) results += api.rowHTML(api.rowOf(i, CHUNK0[i]));
 
 // ---- the facets -------------------------------------------------------------
 // The counts are over every record, because nothing is filtered on the first screen.
-function tally(idx){
+function tally(col, keys){
   const c = {};
-  for (const r of D.rows) for (const v of r[idx]) c[v] = (c[v] || 0) + 1;
+  for (let i = 0; i < D.n; i++) for (const k of D[col][i]) c[D[keys][k]] = (c[D[keys][k]] || 0) + 1;
   return c;
 }
-const placeC = tally(3), topicC = tally(4), yearC = {}, yearL = {};
-for (const r of D.rows){
-  const y = r[2].slice(0, 4);
+const placeC = tally('pl', 'placekeys'), topicC = tally('tp', 'topickeys');
+const yearC = {}, yearL = {};
+for (let i = 0; i < D.n; i++){
+  const y = D.dates[D.date[i]].slice(0, 4);
   if (!y) continue;
   const b = +y < 2020 ? '<2020' : y;
   yearC[b] = (yearC[b] || 0) + 1;
@@ -137,6 +142,7 @@ const facets =
   facet('topics', 'Topic', topicKeys, D.topics, topicC, D.cats, null, true) +
   facet('years', 'Year published', yearKeys, yearL, yearC, null, null, false);
 
+const rows = {length: SHOWN};
 process.stdout.write(JSON.stringify({rows: rows.length, results: results, facets: facets}));
 """
 
@@ -149,7 +155,7 @@ def main() -> int:
     if not shutil.which("node"):
         print("test_catalogue_firstscreen: skipped — node is not on PATH")
         return 0
-    missing = [f for f in ("index.html", "catalogue-data.js")
+    missing = [f for f in ("index.html", "data/filter-index.json", "data/rows-000.json")
                if not (CAT / f).exists()]
     if missing:
         print(f"test_catalogue_firstscreen: skipped — run scripts/catalogue.py first "

@@ -19,8 +19,9 @@ catalogue's own titles and hero lines. Two properties, and they are the whole pr
   buys, stated in `build-title-index.py`, and the done-when of Part 2 — a search
   matching only on hero text — is one case of it.
 - **Nothing is invented.** Every record returned really does have the query as a
-  substring of its title or hero. A prefix index that over-returned would be worse
-  than one that under-returned, because it would look like it was working.
+  substring of one of the fields the builder indexed. A prefix index that
+  over-returned would be worse than one that under-returned, because it would look
+  like it was working.
 
 What is deliberately **not** asserted is equality with the old substring match. A
 query starting mid-word (`ercafes` inside `Cybercafes`) was found before and is not
@@ -38,10 +39,11 @@ CORPUS = Path(__file__).resolve().parent.parent
 CAT = CORPUS / "site" / "catalogue"
 RAW = CORPUS / "outputs" / "catalogue" / "raw-catalogue.json"
 DOC_IDS = CORPUS / "outputs" / "catalogue" / "doc-ids.csv"
+MANIFEST = CORPUS / "outputs" / "titles" / "manifest.json"
 
 HARNESS = r"""
 const fs = require('fs');
-const [PAGE_DIR, RAW_JSON, DOC_IDS] = process.argv.slice(2);
+const [PAGE_DIR, RAW_JSON, DOC_IDS, MANIFEST] = process.argv.slice(2);
 const page = fs.readFileSync(PAGE_DIR + '/index.html', 'utf8');
 
 function grab(name){
@@ -55,9 +57,7 @@ function grab(name){
   throw new Error('unterminated ' + name + '()');
 }
 
-const D = (new Function(
-  fs.readFileSync(PAGE_DIR + '/catalogue-data.js', 'utf8')
-    .replace(/^window\.CATALOGUE\s*=/, 'return') + '\n'))();
+const D = JSON.parse(fs.readFileSync(PAGE_DIR + '/data/filter-index.json', 'utf8'));
 
 // The three closure values the lifted functions read, built as the page builds them.
 const KEYSTOP = {};
@@ -94,11 +94,15 @@ for (const row of fs.readFileSync(DOC_IDS, 'utf8').split('\n').slice(1)){
   ids[slug] = +row.slice(c + 1);
 }
 const items = JSON.parse(fs.readFileSync(RAW_JSON, 'utf8')).items;
-const texts = [];                       // [docId, text] for every title and hero
+// The fields the builder indexed, read off its own manifest rather than restated: a
+// field added there and forgotten here would show up as thousands of records the
+// index "invented", which is a confusing way to be told about a correct change.
+const FIELDS = JSON.parse(fs.readFileSync(MANIFEST, 'utf8')).fields;
+const texts = [];                       // [docId, text] for every indexed field
 for (const it of items){
   const id = ids[it.slug];
   if (id === undefined) continue;
-  for (const f of ['title', 'catalogue_hero']){
+  for (const f of FIELDS){
     const t = (it[f] || '').replace(/[\t\r\n]+/g, ' ').trim();
     if (t) texts.push([id, t, f]);
   }
@@ -166,8 +170,8 @@ def main() -> int:
     if not shutil.which("node"):
         print("test_title_index: skipped — node is not on PATH")
         return 0
-    missing = [str(p) for p in (CAT / "index.html", CAT / "catalogue-data.js",
-                                CAT / "titles", RAW, DOC_IDS) if not p.exists()]
+    missing = [str(p) for p in (CAT / "index.html", CAT / "data" / "filter-index.json",
+                                CAT / "titles", RAW, DOC_IDS, MANIFEST) if not p.exists()]
     if missing:
         print(f"test_title_index: skipped — run scripts/build-title-index.py and "
               f"scripts/catalogue.py first (no {', '.join(Path(m).name for m in missing)})")
@@ -177,7 +181,7 @@ def main() -> int:
         harness = Path(tmp) / "titleindex.js"
         harness.write_text(HARNESS, encoding="utf-8")
         proc = subprocess.run(["node", "--max-old-space-size=4096", str(harness),
-                               str(CAT), str(RAW), str(DOC_IDS)],
+                               str(CAT), str(RAW), str(DOC_IDS), str(MANIFEST)],
                               capture_output=True, text=True, encoding="utf-8")
     if proc.returncode:
         print("test_title_index: FAILED — the harness could not run the page's own "

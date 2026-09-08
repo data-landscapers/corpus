@@ -61,10 +61,13 @@ def csv_cols() -> list[str]:
     """The download's column list, lifted from `build-catalogue.py` rather than restated.
 
     The page cuts a filtered CSV in the reader's browser, and it has to come out with
-    the same sixteen columns in the same order as `raw-catalogue.csv` — two files both
-    called CSV with different column sets is the thing that bites a reader six months
-    later, and it is the whole reason the export fetches the full catalogue instead of
-    serialising the eleven fields the browse payload happens to carry.
+    the same columns in the same order as `raw-catalogue.csv` — two files both called
+    CSV with different column sets is the thing that bites a reader six months later,
+    and it is the whole reason the export is cut from the same spec rather than from
+    whatever fields the page happens to hold. **The count is not stated anywhere here
+    on purpose**: it read *sixteen* in four places for as long as a seventeenth column
+    existed, which is the failure mode `RENDER.md` keeps warning about with record
+    counts. The list is read from `build-catalogue.py`, and the list is the spec.
 
     So the spec is read from the one place that defines it. By syntax tree, not by
     import: `build-catalogue.py` opens the vault at module scope, which a page build
@@ -324,18 +327,46 @@ def att(s) -> str:
     return esc(s).replace('"', "&quot;")
 
 
+# Characters sort by class before they sort by code point, which is the shape of the
+# Unicode collation the browser uses and the one thing a code-point sort gets badly
+# wrong: separators, then punctuation, then symbols, then digits, then letters. Without
+# it a title opening on a curly quote sorts after Z rather than before A, because
+# `“` is U+201C — and 57 titles in this catalogue do exactly that.
+_CLASS = {"Z": "\x01", "P": "\x02", "S": "\x03", "N": "\x04"}
+
+# ...and typographic punctuation sorts with the ASCII it stands for, not at its own
+# code point. A curly quote is a quote: `‘New Chapter’` belongs beside `'Africa's
+# payment system'`, and the collation a browser uses puts it there.
+_PUNCT = str.maketrans({
+    "‘": "'", "’": "'", "‚": "'", "‛": "'", "‹": "'", "›": "'",
+    "“": '"', "”": '"', "„": '"', "‟": '"', "«": '"', "»": '"',
+    "‐": "-", "‑": "-", "‒": "-", "–": "-", "—": "-", "―": "-",
+    "−": "-", "…": ".", "•": ".", "·": ".", " ": " ",
+})
+
+
 def coll(s: str) -> tuple:
     """A sort key standing in for JavaScript's `localeCompare`.
 
-    The page sorts the country facet by `localeCompare`, which compares base
-    letters first and treats an accent as a tiebreak, so Côte d'Ivoire falls
-    between Congo and Djibouti rather than after Zimbabwe where a code-point sort
-    puts it. Stripping the combining marks and casefolding reproduces that for a
-    vocabulary of country names; the raw string is the tiebreak, as it is there.
+    Two facets and one sort rest on this. The country menu sorts by it, and so does
+    the A–Z order of the whole catalogue — which the page can no longer work out for
+    itself, because it no longer holds the titles (`az_ranks`).
+
+    `localeCompare` compares base letters first and treats an accent as a tiebreak, so
+    Côte d'Ivoire falls between Congo and Djibouti rather than after Zimbabwe where a
+    code-point sort puts it; and it orders by character class before code point, so
+    quotes and dashes come before digits and letters however high their code points
+    are. Stripping the combining marks, casefolding and prefixing each character with
+    its class reproduces both. The raw string is the tiebreak.
+
+    **It is an approximation and it is now the definition.** What it approximates is
+    not a fixed thing: `localeCompare` follows the reader's own locale, so two people
+    opening the same `#sort=az` link could legitimately see different orders. Deciding
+    it once at build time is what makes that URL mean one thing.
     """
-    base = "".join(c for c in unicodedata.normalize("NFD", s)
-                   if not unicodedata.combining(c))
-    return (base.casefold(), s)
+    base = "".join(c for c in unicodedata.normalize("NFD", s.translate(_PUNCT))
+                   if not unicodedata.combining(c)).casefold()
+    return ("".join(_CLASS.get(unicodedata.category(c)[0], "\x05") + c for c in base), s)
 
 
 def row_html(r, places, topics, entlabel, ents) -> str:
@@ -456,7 +487,14 @@ def first_screen(rows, ents, places, regions, topics, cats, torder, entlabel) ->
 
 
 def pack_rows(cdir: Path):
-    """The ten browse fields, the entity tags as field 10, and two more since.
+    """The browse fields per record, plus the fields only the download needs.
+
+    Returns `(rows, ents, extra)`. **`rows` is the shape the page used to be handed
+    whole**, and it still is the shape the page assembles a row back into before
+    drawing it (`rowOf` there, `row_html` here) — keeping it means the markup and the
+    bake are decided in one place while the transport underneath changed completely.
+    `extra` is the seven columns `raw-catalogue.csv` carries that no row on the page
+    ever shows, held apart because they ride the chunks and nothing else reads them.
 
     Entities are **dictionary-encoded**: field 10 holds integer offsets into a
     vocabulary array shipped once, not the slugs themselves. 24,891 tags drawn
@@ -495,8 +533,140 @@ def pack_rows(cdir: Path):
         # until it happens the page must not invent a line for them.
         i.get("catalogue_hero") or "",
     ] for i in items]
-    rows.sort(key=lambda r: r[2], reverse=True)
-    return rows, ents
+    # The download's own columns, in `CHUNK_FIELDS` order from index 4 on. They are
+    # sorted alongside the rows rather than after them, because a chunk and a row have
+    # to be the same record and the sort is what would silently separate them.
+    extra = [[
+        i.get("author") or "",
+        i.get("date_precision") or "",
+        i.get("lens") or [],
+        bool(i.get("finance")),
+        i.get("words") or 0,
+        i.get("ingested") or "",
+        i.get("url_note") or "",
+    ] for i in items]
+    order = sorted(range(len(rows)), key=lambda n: rows[n][2], reverse=True)
+    return [rows[n] for n in order], ents, [extra[n] for n in order]
+
+
+# ---- the split payload ------------------------------------------------------
+# `documentation/catalogue-split-plan.md` Part 3. The page used to be handed every
+# field of every record in one blocking `<script src>` — 8.9 MB of source literal
+# before it could draw. It is now two things with different lifetimes:
+#
+# **The filter index**, fetched once. Everything a facet, a sort or a count needs and
+# nothing a row shows: dates and publishers dictionary-encoded, places, topics and
+# entities as offsets into vocabularies the page had to ship anyway, the artefact flag,
+# the completeness, the stable document id, and one rank per row for the A–Z sort.
+# Columnar rather than a row per record, because a column of small integers is what
+# gzip is good at and an array of thirteen-element arrays is not.
+#
+# **Row-text chunks**, fetched for the rows about to be drawn. Title, URL, slug and
+# hero, plus the seven columns only the download needs.
+#
+# **The chunk files are internal and carry no stability promise.** They are named,
+# sized and shaped for this page and nothing else, and they will change without
+# notice. `raw-catalogue.csv` is the supported way to consume this data, and
+# `raw-catalogue.json` beside it — both are published whole, at undated URLs, and
+# `design.md` §9 says what that means. This paragraph exists because the last private
+# format here (`raw-catalogue.json`, read by the page's own export) acquired a second
+# consumer while nobody was saying it must not.
+CHUNK = 500                    # rows per chunk file; `CH` in the page
+CHUNK_FIELDS = ("title", "url", "slug", "hero",          # what a row draws
+                "author", "date_precision", "lens", "finance",
+                "words", "ingested", "url_note")          # what the download needs
+
+
+def az_ranks(rows) -> list[int]:
+    """Each row's position in the A–Z title order, so the page can sort without titles.
+
+    **This makes the A–Z sort a build-time decision, and that is a change worth naming.**
+    It used to be `a[0].localeCompare(b[0])` in the reader's browser, which means the
+    order depended on the reader's own locale — two people sharing a `#sort=az` link
+    could legitimately see different orders. One rank per row, decided here, is the same
+    order for everyone; it costs one integer per record and it is the only way to sort
+    text the page no longer holds.
+    """
+    order = sorted(range(len(rows)), key=lambda n: coll(rows[n][0]))
+    rank = [0] * len(rows)
+    for pos, n in enumerate(order):
+        rank[n] = pos
+    return rank
+
+
+def split(rows, extra, ents, places, topics) -> tuple[dict, list]:
+    """-> (the filter index's own columns, the chunk payloads)."""
+    # Dictionaries for the two columns that repeat: 2,107 distinct dates over 20,267
+    # rows, 7,697 distinct publishers. **Dates as a dictionary rather than as day
+    # offsets**, which is what the plan reached for: 284 records carry a published
+    # value that is not a whole date (`date_precision` is `month` or `year` for 3,352
+    # of them), and an offset would have to invent a day to store them and then invent
+    # one back to show them.
+    dates, pubs = {}, {}
+    for r in rows:
+        dates.setdefault(r[2], len(dates))
+        pubs.setdefault(r[1], len(pubs))
+    # Place and topic codes become offsets too. The vocabulary's own order first, so a
+    # code the vocabulary does not carry still resolves — the page draws `D.places[k]
+    # || k` and a row may legitimately be tagged to something the snapshot has not got.
+    plk = list(places) + sorted({p for r in rows for p in r[3]} - set(places))
+    tpk = list(topics) + sorted({t for r in rows for t in r[4]} - set(topics))
+    pli = {k: n for n, k in enumerate(plk)}
+    tpi = {k: n for n, k in enumerate(tpk)}
+    comp = sorted({r[9] for r in rows})
+    cmi = {v: n for n, v in enumerate(comp)}
+
+    cols = {
+        "dates": list(dates), "pubs": list(pubs),
+        "placekeys": plk, "topickeys": tpk, "comp": comp,
+        "date": [dates[r[2]] for r in rows],
+        "pub": [pubs[r[1]] for r in rows],
+        "pl": [[pli[p] for p in r[3]] for r in rows],
+        "tp": [[tpi[t] for t in r[4]] for r in rows],
+        "en": [r[10] for r in rows],
+        "art": [r[8] for r in rows],
+        "cmp": [cmi[r[9]] for r in rows],
+        "doc": [r[11] for r in rows],
+        "az": az_ranks(rows),
+    }
+    chunks = []
+    for start in range(0, len(rows), CHUNK):
+        chunks.append([[r[0], r[6], r[7], r[12]] + e
+                       for r, e in zip(rows[start:start + CHUNK],
+                                       extra[start:start + CHUNK])])
+    return cols, chunks
+
+
+def write_split(out_dir: Path, cols: dict, chunks: list, head: dict) -> tuple[Path, int]:
+    """Write the chunks, then the filter index that names their version. Returns both.
+
+    Order matters: the index carries the chunks' content hash, so a page holding a
+    cached index can never fetch row text from a different build. That is `stamp()`'s
+    argument one level down — and it matters more here than it did for the payload,
+    because a chunk from another build is not a stale label, it is the wrong record's
+    title against this record's tags.
+    """
+    data = out_dir / "data"
+    data.mkdir(parents=True, exist_ok=True)
+    digest = hashlib.sha256()
+    for n, rows in enumerate(chunks):
+        raw = json.dumps(rows, ensure_ascii=False, separators=(",", ":")).encode("utf-8")
+        digest.update(raw)
+        p = data / f"rows-{n:03d}.json"
+        # Only rewrite what changed, so an untouched chunk keeps its mtime — the same
+        # rule the shard directories run, and for the same reason.
+        if not p.exists() or p.read_bytes() != raw:
+            p.write_bytes(raw)
+    for stale in sorted(data.glob("rows-*.json")):
+        if int(stale.stem.split("-")[1]) >= len(chunks):
+            stale.unlink()
+    idx = data / "filter-index.json"
+    body = dict(head)
+    body["rowsver"] = "?v=" + digest.hexdigest()[:8]
+    body.update(cols)
+    idx.write_bytes(json.dumps(body, ensure_ascii=False,
+                               separators=(",", ":")).encode("utf-8"))
+    return idx, sum((data / f"rows-{n:03d}.json").stat().st_size for n in range(len(chunks)))
 
 
 CHROME = chrome('catalogue', depth=1)
@@ -569,11 +739,18 @@ BODY = r"""
 # so an unchanged file keeps its URL and stays cached; a rebuilt one gets a new URL
 # and cannot be served stale.
 SCRIPT = r"""
-<script src="catalogue-data.js{ver}"></script>
 <script>
 (function(){
-  var D = window.CATALOGUE;
-  var ROWS = D.rows;
+  // **Nothing here runs until the filter index has arrived** (split plan Part 3).
+  // The page is served with its first screen already in the markup, so what a reader
+  // sees before this point is the newest hundred rows and the facet menus, drawn at
+  // build time; what arrives here is the ability to filter them. `D` is the index and
+  // is null until then, which is why `redraw` and `refreshHits` check it.
+  var D = null, N = 0, CH = 500;
+  // The columns, once D is in: dictionaries first, then one entry per row.
+  var DATES, PUBS, PUBSLC, PLK, TPK, COMP, ENTSEARCH,
+      cDate, cPub, cPl, cTp, cEn, cArt, cCmp, cDoc, cAz,
+      PLI, TPI, ENI, YEAR, YL, YO, PG, PGN, PORDER;
   // Region labels come from the place vocabulary itself — every region code is a
   // row in `countries.csv` with its own name — rather than from a hand-kept map
   // that had drifted (it carried XHA, which the vocabulary does not, and wrote
@@ -593,45 +770,90 @@ SCRIPT = r"""
   // be one place that decides them. `entnames` is what the sources call the thing and
   // always wins; `entpretty` is the slug written out where nothing has named it; a
   // slug in neither reads as itself.
-  var ENTS = D.ents || [], DERIVED = D.entnames || {}, PRETTY = D.entpretty || {},
-      ENTLABEL = {};
-  for (var li = 0; li < ENTS.length; li++)
-    ENTLABEL[ENTS[li]] = DERIVED[ENTS[li]] || PRETTY[ENTS[li]] || ENTS[li];
+  var ENTS, DERIVED, PRETTY, ENTLABEL;
 
-  ROWS.forEach(function(r){
-    r[10] = (r[10] || []).map(function(i){ return ENTS[i]; });
-    // Hyphens become spaces in the search blob so "security studies" reaches
-    // institute-for-security-studies. Acronym slugs match the acronym, which is
-    // usually what a reader looking for one types anyway — and the derived display
-    // name goes in alongside, so the expansion finds it too: `nira-uganda` is
-    // reachable by "nira" and by "National Identification and Registration Authority".
-    var alias = '';
-    for (var ei = 0; ei < r[10].length; ei++){
-      var dn = DERIVED[r[10][ei]];
-      if (dn) alias += ' ' + dn;
-    }
-    // The slug (field 7) goes in verbatim, hyphens and all. It is the identifier every
-    // Corpus report cites by, so a reader who has one should be able to look it up here —
-    // and a record whose `url:` is a documented absence is cited *to this page* by slug
-    // (`report-render.slug_offline()`, notes-for-corpus 22), which lands on nothing at all
-    // unless the slug is searchable. Verbatim rather than de-hyphenated so an exact slug
-    // matches exactly one row.
-    //
-    // **Title and hero have left this blob** (split plan Part 2). They are the two
-    // longest strings on a record — 1.59 MB and 1.57 MB of the corpus against 0.60 MB
-    // of publisher — and they are searched through the `titles/` shards now, one fetch
-    // per query, so a reader who browses without searching never pays for them at all.
-    // What is left is short: a publisher out of a 6,046-value vocabulary, the slug, and
-    // the actor tags, which arrive dictionary-encoded already.
-    r._s = (r[1] + ' ' + r[7] + ' ' +
-            r[10].join(' ').replace(/-/g, ' ') + alias).toLowerCase();
+  // ---- what the index becomes once it lands ---------------------------------
+  function start(idx){
+    D = idx; N = D.n; CH = D.chunk || 500;
+    ENTS = D.ents || []; DERIVED = D.entnames || {}; PRETTY = D.entpretty || {};
+    ENTLABEL = {};
+    for (var li = 0; li < ENTS.length; li++)
+      ENTLABEL[ENTS[li]] = DERIVED[ENTS[li]] || PRETTY[ENTS[li]] || ENTS[li];
+    (D.keystop || []).forEach(function(w){ KEYSTOP[w] = 1; });
+    TITLES = new Shard(D.titles || null, 'titles');
+    NAMES = new Shard(D.names || null, 'names');
+    MINQ = (D.titles && D.titles.minq) || (D.names && D.names.minq) || 3;
+    CSVCOLS = D.cols || [];
+
+    DATES = D.dates; PUBS = D.pubs; PLK = D.placekeys; TPK = D.topickeys; COMP = D.comp;
+    cDate = D.date; cPub = D.pub; cPl = D.pl; cTp = D.tp; cEn = D.en;
+    cArt = D.art; cCmp = D.cmp; cDoc = D.doc; cAz = D.az;
+    PLI = index(PLK); TPI = index(TPK); ENI = index(ENTS);
+
+    // **The search blob is gone.** It used to be one lowercased string per record —
+    // a second full-corpus allocation on top of the array the page had just parsed,
+    // which `documentation/catalogue-serving-shape.md` named as a defect in its own
+    // right. What is searched in memory now is the two *vocabularies*: 7,697
+    // publishers and 11,331 actors, matched once per query rather than once per row,
+    // and 20,267 times smaller to hold. Title, hero and slug are searched through
+    // `titles/` and the sources' own names through `names/`.
+    PUBSLC = PUBS.map(function(p){ return p.toLowerCase(); });
+    ENTSEARCH = ENTS.map(function(sl){
+      // Hyphens become spaces so "security studies" reaches
+      // institute-for-security-studies; the derived display name goes in alongside,
+      // so `nira-uganda` is reachable by "nira" and by "National Identification and
+      // Registration Authority".
+      return (sl.replace(/-/g, ' ') + ' ' + (DERIVED[sl] || '')).toLowerCase();
+    });
+
     // The year facet counts and filters on the *bucket*, not on the year: everything
     // before 2020 is one option (prep/catalogue.md §8). The base thins out fast going
     // back, and a column of single-figure years was most of the facet's height for a
     // handful of records. An undated row has no bucket and no year, as before.
-    var y = r[2].slice(0,4);
-    r._y = y && +y < 2020 ? PRE : y;
-  });
+    // Computed off the date dictionary — 2,107 entries rather than 20,267 rows.
+    var DATEY = DATES.map(function(d){
+      var y = d.slice(0, 4);
+      return y && +y < 2020 ? PRE : y;
+    });
+    YEAR = new Array(N);
+    for (var i = 0; i < N; i++) YEAR[i] = DATEY[cDate[i]];
+
+    // Every facet's menu, its grouping and its order are the same on every redraw —
+    // only the counts move — so they are worked out once here rather than three times
+    // a keystroke.
+    YL = {}; for (i = 0; i < N; i++) if (YEAR[i]) YL[YEAR[i]] = YEAR[i] === PRE ? '< 2020' : YEAR[i];
+    YO = yearOrder(YL);
+    PG = placeGroups(); PGN = placeGroupNames(); PORDER = placeOrder(PG, PGN);
+
+    // A reader who typed into the search box before the index arrived meant it, and
+    // the box still holds what they typed. It wins over anything in the fragment,
+    // which `readHash` would otherwise write over the top of.
+    var typed = document.getElementById('q').value.trim();
+    readHash();
+    if (typed){
+      state.q = typed.toLowerCase();
+      document.getElementById('q').value = typed;
+    }
+    refreshHits();
+    redraw();
+  }
+  function index(list){
+    var m = {};
+    for (var i = 0; i < list.length; i++) m[list[i]] = i;
+    return m;
+  }
+  // A row as `rowHTML` wants it — the thirteen fields the payload used to ship whole,
+  // reassembled from the filter index and one chunk row. Keeping this shape is what
+  // lets the markup, the bake in `catalogue.py` and the test that compares them stay
+  // where they were while everything underneath changed.
+  function rowOf(i, t){
+    return [t[0], PUBS[cPub[i]], DATES[cDate[i]],
+            cPl[i].map(function(k){ return PLK[k]; }),
+            cTp[i].map(function(k){ return TPK[k]; }),
+            null, t[1], t[2], cArt[i], COMP[cCmp[i]],
+            cEn[i].map(function(k){ return ENTS[k]; }),
+            cDoc[i], t[3]];
+  }
 
   // ---- the prefix-shard indexes ----------------------------------------------
   // Two of them, built the same way and fetched the same way. `titles/` holds what
@@ -650,7 +872,6 @@ SCRIPT = r"""
   // every visitor, paid on a bad connection instead of on every page load.
   var WINRESERVED = {con:1, prn:1, aux:1, nul:1};
   var KEYSTOP = {};
-  (D.keystop || []).forEach(function(w){ KEYSTOP[w] = 1; });
   var COMBINING = /[\u0300-\u036f]/g, NOTWORD = /[^0-9a-z]+/;
 
   function Shard(meta, dir){
@@ -735,31 +956,52 @@ SCRIPT = r"""
     return ids;
   }
 
-  var TITLES = new Shard(D.titles || null, 'titles'),
-      NAMES = new Shard(D.names || null, 'names'),
-      MINQ = (D.titles && D.titles.minq) || (D.names && D.names.minq) || 3;
-  function refreshHits(){ TITLES.refresh(state.q); NAMES.refresh(state.q); }
-  function shardHit(r){
-    var id = r[11];
+  var TITLES, NAMES, MINQ, pubHit = null, entHit = null;
+  function refreshHits(){
+    if (!D) return;
+    TITLES.refresh(state.q); NAMES.refresh(state.q);
+    // The in-memory half of a search: the query against the two vocabularies, once,
+    // rather than against a string per record.
+    pubHit = entHit = null;
+    if (!state.q) return;
+    var q = state.q, i;
+    pubHit = {};
+    for (i = 0; i < PUBSLC.length; i++) if (PUBSLC[i].indexOf(q) > -1) pubHit[i] = 1;
+    entHit = {};
+    for (i = 0; i < ENTSEARCH.length; i++) if (ENTSEARCH[i].indexOf(q) > -1) entHit[i] = 1;
+  }
+  function qHit(i){
+    if (pubHit && pubHit[cPub[i]]) return true;
+    if (entHit){
+      var e = cEn[i];
+      for (var k = 0; k < e.length; k++) if (entHit[e[k]]) return true;
+    }
+    var id = cDoc[i];
     if (id < 0) return false;      // no stable id, so nothing can post against it
     return !!((TITLES.hits && TITLES.hits[id]) || (NAMES.hits && NAMES.hits[id]));
   }
 
   // ---- downloading a selection ----------------------------------------------
-  // The browse payload carries eleven of the download's sixteen fields: author,
-  // date_precision, finance, words and ingested were never needed to render a row,
-  // so pack_rows never packed them. That leaves three ways to export a filtered
-  // selection and only one of them is honest. Serialising what the page holds gives
-  // a CSV with a different column set from the published one. Packing the missing
-  // five gives parity, paid for by every visitor to buy an export most never ask
-  // for, on a payload design.md §6 is already worried about. So: fetch the full
-  // catalogue once, on the first export click, and cut the selection from it by
-  // slug. A reader who browses without exporting fetches nothing at all, and what
-  // comes out has the same sixteen columns as the whole-catalogue download.
+  // The page holds only what a row draws, so the download's other columns —
+  // author, date_precision, lens, finance, words, ingested, url_note — are not in
+  // memory. That left three ways to export a filtered selection and only one of them
+  // was honest. Serialising what the page held gave a CSV with a different column set
+  // from the published one. Packing the missing columns gave parity, paid for by
+  // every visitor to buy an export most never ask for. So: fetch the full catalogue
+  // once, on the first export click, and cut the selection from it by slug.
+  //
+  // **Part 3 removed the objection and Part 4 removes this.** The row chunks carry
+  // those columns now, for the rows the reader actually has, so the export will read
+  // them there and `raw-catalogue.json` goes. Until then this still fetches it, and
+  // what comes out has the same columns as the whole-catalogue download either way.
   //
   // Same lazy-fetch shape as the names index above, and it degrades the same way —
   // if the fetch fails the reader still has the whole-catalogue links at the top.
-  var CSVCOLS = D.cols || [], VIEW = [], FULL = null, fullPending = null, dlMsg = '';
+  var CSVCOLS = [], VIEW = [], FULL = null, fullPending = null, dlMsg = '';
+  // Row text, one chunk of 500 at a time, kept for the session. A chunk that fails
+  // to arrive is **not** remembered as absent: the next thing the reader does asks
+  // for it again, which is right for the data the page cannot draw without.
+  var CHUNKS = {}, drawn = false, drawSeq = 0;
 
   function fetchFull(){
     if (FULL) return Promise.resolve(FULL);
@@ -823,7 +1065,7 @@ SCRIPT = r"""
     });
     if (state.sort !== 'new') f.sort = state.sort;
     return {url: location.href, filters: f, records: n,
-            of: ROWS.length, cut: new Date().toISOString().slice(0, 19) + 'Z',
+            of: N, cut: new Date().toISOString().slice(0, 19) + 'Z',
             note: 'A selection cut in a reader\'s browser from the catalogue as built on ' +
                   built + '. The catalogue is republished wholesale rather than versioned, ' +
                   'so cite the url above — it re-cuts this selection against whatever the ' +
@@ -853,9 +1095,13 @@ SCRIPT = r"""
               'whole-catalogue CSV above is unaffected.';
       drawDownload(); return;
     }
-    var slugs = VIEW.map(function(r){ return r[7]; });
     dlMsg = 'busy'; drawDownload();
-    fetchFull().then(function(full){
+    // The slugs live in the chunks now, so the selection's own row text has to be in
+    // hand before the cut can be made. It is a fraction of what the next line fetches.
+    chunksFor(VIEW).then(function(ok){
+      if (!ok) throw new Error('rows');
+      var slugs = VIEW.map(function(i){ return rowText(i)[2]; });
+      return fetchFull().then(function(full){
       var items = [], i, it;
       for (i = 0; i < slugs.length; i++){ it = full.by[slugs[i]]; if (it) items.push(it); }
       // Same rule from the other end: the rows on screen resolved to nothing in the
@@ -873,6 +1119,7 @@ SCRIPT = r"""
         count: items.length, items: items
       }, null, 1) + '\n', 'application/json');
       dlMsg = ''; drawDownload();
+      });
     }).catch(function(){
       // The buttons come back with the message rather than being replaced by it:
       // the commonest cause is a dropped connection, and the fix is to press again.
@@ -887,7 +1134,7 @@ SCRIPT = r"""
     // are always drawn; what changes is whether they are live. Unfiltered, the
     // selection *is* the catalogue and the row above already offers the published,
     // citable files — so the buttons go quiet rather than duplicating them.
-    var live = VIEW.length > 0 && VIEW.length < ROWS.length && dlMsg !== 'busy',
+    var live = VIEW.length > 0 && VIEW.length < N && dlMsg !== 'busy',
         msg = document.getElementById('dlmsg');
     document.querySelectorAll('.dlbox button[data-dl]').forEach(function(b){
       b.disabled = !live;
@@ -897,21 +1144,35 @@ SCRIPT = r"""
     msg.textContent = dlMsg === 'busy' ? 'Preparing the file…' : (dlMsg || '');
   }
 
-  function passes(r, skip){
-    if (state.q && r._s.indexOf(state.q) === -1 && !shardHit(r)) return false;
-    if (skip !== 'places' && state.places.length && !state.places.some(function(v){return r[3].indexOf(v)>-1;})) return false;
-    if (skip !== 'topics' && state.topics.length && !state.topics.some(function(v){return r[4].indexOf(v)>-1;})) return false;
-    if (skip !== 'ents'   && state.ents.length   && !state.ents.some(function(v){return r[10].indexOf(v)>-1;})) return false;
-    if (skip !== 'years'  && state.years.length  && state.years.indexOf(r._y) === -1) return false;
+  // The selected facet values as **offsets**, resolved once a redraw rather than once
+  // a row. A value the vocabulary does not carry — an old shared link naming a place
+  // since renamed — maps to -1 and matches nothing, which is what it did before.
+  var selPl = [], selTp = [], selEn = [];
+  function syncSel(){
+    selPl = state.places.map(function(v){ return PLI[v] === undefined ? -1 : PLI[v]; });
+    selTp = state.topics.map(function(v){ return TPI[v] === undefined ? -1 : TPI[v]; });
+    selEn = state.ents.map(function(v){ return ENI[v] === undefined ? -1 : ENI[v]; });
+  }
+  function anyOf(have, want){
+    for (var k = 0; k < want.length; k++) if (have.indexOf(want[k]) > -1) return true;
+    return false;
+  }
+  function passes(i, skip){
+    if (state.q && !qHit(i)) return false;
+    if (skip !== 'places' && selPl.length && !anyOf(cPl[i], selPl)) return false;
+    if (skip !== 'topics' && selTp.length && !anyOf(cTp[i], selTp)) return false;
+    if (skip !== 'ents'   && selEn.length && !anyOf(cEn[i], selEn)) return false;
+    if (skip !== 'years'  && state.years.length && state.years.indexOf(YEAR[i]) === -1) return false;
     return true;
   }
   function counts(field, idx){
-    var c = {};
-    for (var i=0;i<ROWS.length;i++){
-      var r = ROWS[i];
-      if (!passes(r, field)) continue;
-      var vals = idx === 'y' ? [r._y] : r[idx];
-      for (var j=0;j<vals.length;j++) c[vals[j]] = (c[vals[j]]||0)+1;
+    var c = {}, i, j, vals, key, v;
+    for (i = 0; i < N; i++){
+      if (!passes(i, field)) continue;
+      if (idx === 'y'){ v = YEAR[i]; if (v) c[v] = (c[v]||0)+1; continue; }
+      vals = idx === 3 ? cPl[i] : cTp[i];
+      key  = idx === 3 ? PLK : TPK;
+      for (j = 0; j < vals.length; j++){ v = key[vals[j]]; c[v] = (c[v]||0)+1; }
     }
     return c;
   }
@@ -966,11 +1227,6 @@ SCRIPT = r"""
            '</div></div>';
   }
   // ---- the year facet: 2020 onward, newest first, then one pre-2020 bucket -----
-  function yearLabels(){
-    var o = {};
-    ROWS.forEach(function(r){ if (r._y) o[r._y] = r._y === PRE ? '< 2020' : r._y; });
-    return o;
-  }
   function yearOrder(labels){
     var ks = Object.keys(labels).filter(function(k){ return k !== PRE; });
     ks.sort().reverse();
@@ -1023,12 +1279,11 @@ SCRIPT = r"""
     var f = document.getElementById('facets'), keep = {};
     f.querySelectorAll('.ftype').forEach(function(i){ keep[i.dataset.f] = i.value; });
     function term(k){ return (keep[k] || '').trim().toLowerCase(); }
-    var pg = placeGroups(), pgn = placeGroupNames(), yl = yearLabels();
     // Topics in the taxonomy's own order, which carries the Level 1 grouping with it.
     f.innerHTML =
-      facetHTML('places','Country', 3, D.places, pg, pgn, true, 0, placeOrder(pg, pgn), term('places')) +
+      facetHTML('places','Country', 3, D.places, PG, PGN, true, 0, PORDER, term('places')) +
       facetHTML('topics','Topic', 4, D.topics, D.cats, null, true, 0, D.torder, term('topics')) +
-      facetHTML('years','Year published', 'y', yl, null, null, false, 0, yearOrder(yl), '');
+      facetHTML('years','Year published', 'y', YL, null, null, false, 0, YO, '');
     // The inputs are new elements, so what a reader had typed goes back into them.
     // The options were rendered against it above, so this restores the text and not
     // the filtering — which is what the old `dispatchEvent` was doing a second pass for.
@@ -1074,29 +1329,91 @@ SCRIPT = r"""
       '<p class="meta">' + esc(r[1] || 'publisher not recorded') + '</p>' +
       '<div class="tags">' + tags + '</div></div></div>';
   }
+  function rowText(i){
+    var c = CHUNKS[(i / CH) | 0];
+    return c ? c[i % CH] : null;
+  }
+  function chunksFor(list){
+    var want = {}, need = [], s, k;
+    for (s = 0; s < list.length; s++){
+      k = (list[s] / CH) | 0;
+      if (!CHUNKS[k]) want[k] = 1;
+    }
+    for (k in want) need.push(+k);
+    if (!need.length) return Promise.resolve(true);
+    if (!window.fetch) return Promise.resolve(false);
+    return Promise.all(need.map(function(n){
+      // Content-hashed off the chunks themselves, so a cached filter index can never
+      // pull row text from a different build — that would not be a stale label, it
+      // would be one record's title against another's tags.
+      return fetch('data/rows-' + ('00' + n).slice(-3) + '.json' + (D.rowsver || ''))
+        .then(function(r){ if (!r.ok) throw new Error(r.status); return r.json(); })
+        .then(function(j){ CHUNKS[n] = j; })
+        .catch(function(){ /* left absent on purpose, so the next action retries */ });
+    })).then(function(){
+      for (var s2 = 0; s2 < list.length; s2++) if (!rowText(list[s2])) return false;
+      return true;
+    });
+  }
+  function filtered(){
+    if (state.q) return true;
+    for (var k = 0; k < FACETS.length; k++) if (state[FACETS[k]].length) return true;
+    return false;
+  }
   function drawResults(){
-    var out = ROWS.filter(function(r){ return passes(r, null); });
-    if (state.sort === 'old') out = out.slice().reverse();
-    else if (state.sort === 'az') out = out.slice().sort(function(a,b){ return a[0].localeCompare(b[0]); });
+    var out = [], i;
+    for (i = 0; i < N; i++) if (passes(i, null)) out.push(i);
+    if (state.sort === 'old') out.reverse();
+    // By a rank decided at build time, not by `localeCompare` here: the page no longer
+    // holds the titles, and the order is now the same for every reader rather than
+    // depending on the locale their browser happens to run in.
+    else if (state.sort === 'az') out.sort(function(a, b){ return cAz[a] - cAz[b]; });
     // Held for the export, after the sort rather than before it: a downloaded
     // selection comes out in the order the reader was looking at.
     VIEW = out; dlMsg = ''; drawDownload();
     document.getElementById('count').innerHTML =
-      '<b>' + out.length.toLocaleString() + '</b> of ' + ROWS.length.toLocaleString() + ' records';
-    var slice = out.slice(0, state.shown), h = '';
-    for (var si = 0; si < slice.length; si++) h += rowHTML(slice[si]);
-    document.getElementById('results').innerHTML = h || '<p class="empty">Nothing matches those filters. Try removing one.</p>';
+      '<b>' + out.length.toLocaleString() + '</b> of ' + N.toLocaleString() + ' records';
+    // The count and the facets are true the moment the filter runs; the rows wait on
+    // the chunks they live in. Until then the previous screen stands rather than
+    // blinking out — on the first load that is the one baked into the page.
+    var slice = out.slice(0, state.shown), seq = ++drawSeq;
+    chunksFor(slice).then(function(ok){
+      if (seq !== drawSeq) return;          // a later redraw has overtaken this one
+      paint(out, slice, ok);
+    });
+  }
+  function paint(out, slice, ok){
+    var h = '', s, lost = false;
+    if (ok){
+      for (s = 0; s < slice.length; s++) h += rowHTML(rowOf(slice[s], rowText(slice[s])));
+      document.getElementById('results').innerHTML = h ||
+        '<p class="empty">Nothing matches those filters. Try removing one.</p>';
+      drawn = true;
+    } else if (drawn || filtered()){
+      // Nothing drawn is better than the wrong rows drawn. The one case this leaves
+      // alone is a first load with no filter, where what is already on screen is the
+      // baked first screen and is exactly right.
+      document.getElementById('results').innerHTML =
+        '<p class="empty">The text of these records did not load. Try again, or take ' +
+        'the whole catalogue from the downloads above.</p>';
+      lost = true;
+    } else {
+      lost = true;
+    }
     var m = document.getElementById('more');
     m.hidden = out.length <= state.shown;
     m.textContent = 'Show more (' + Math.min(100, out.length - state.shown) + ' of ' + (out.length - state.shown).toLocaleString() + ' remaining)';
-    var note = 'Browsing ' + ROWS.length.toLocaleString() + ' catalogue records. Filter state is in the URL — copy the address bar to share this view.';
-    if (VIEW.length && VIEW.length < ROWS.length)
-      note += ' A downloaded selection carries the same sixteen columns as the whole-catalogue file, cut in your browser from the build you are looking at — so cite this view’s URL rather than the file, and it will re-cut against whatever the catalogue holds when it is opened. The JSON records the filter that produced it.';
-    if (TITLES.busy || NAMES.busy)
+    var note = 'Browsing ' + N.toLocaleString() + ' catalogue records. Filter state is in the URL — copy the address bar to share this view.';
+    if (VIEW.length && VIEW.length < N)
+      note += ' A downloaded selection carries the same columns as the whole-catalogue file, cut in your browser from the build you are looking at — so cite this view’s URL rather than the file, and it will re-cut against whatever the catalogue holds when it is opened. The JSON records the filter that produced it.';
+    if (lost)
+      note = 'The text of these records did not load — the rows above are the newest ' +
+             'hundred as this page was built. Reload to try again. ' + note;
+    else if (TITLES.busy || NAMES.busy)
       note = 'Searching titles and the names found inside the sources…';
     else if (state.q && state.q.length < MINQ)
       note = 'Type ' + MINQ + ' characters or more to search titles and the text of ' +
-             'the sources. A shorter search matches publishers, slugs and actors only. ' + note;
+             'the sources. A shorter search matches publishers and actors only. ' + note;
     else if (NAMES.hits)
       note = 'Includes matches on names occurring in the sources, not only in titles. ' + note;
     document.getElementById('note').textContent = note;
@@ -1127,7 +1444,9 @@ SCRIPT = r"""
     });
   }
   function redraw(resetPage){
+    if (!D) return;                       // the index has not landed yet
     if (resetPage !== false) state.shown = 100;
+    syncSel();
     drawFacets(); drawChips(); drawResults(); writeHash();
   }
   document.addEventListener('change', function(e){
@@ -1180,9 +1499,18 @@ SCRIPT = r"""
     // a typed word to one request instead of one per character.
     timer = setTimeout(function(){ state.q = v; refreshHits(); redraw(); }, 150);
   });
-  readHash();
-  refreshHits();
-  redraw();
+  // **The one fetch the page cannot do without.** Everything above waits on it; the
+  // markup the reader is already looking at was written at build time and stands if
+  // it never arrives.
+  fetch('data/filter-index.json{ver}')
+    .then(function(res){ if (!res.ok) throw new Error(res.status); return res.json(); })
+    .then(start)
+    .catch(function(){
+      document.getElementById('note').textContent =
+        'The filtering index did not load, so the rows above are the newest hundred ' +
+        'as this page was built and the controls will not respond. Reload to try ' +
+        'again — the whole catalogue is on the CSV and JSON links above either way.';
+    });
 })();
 </script>
 """
@@ -1210,7 +1538,7 @@ PAGE = """<!DOCTYPE html>
 
 def main() -> int:
     cdir = catalogue_dir()
-    rows, ents = pack_rows(cdir)
+    rows, ents, extra = pack_rows(cdir)
     places, regions, topics, cats, torder = vocab()
     out_dir = SITE / "catalogue"
     out_dir.mkdir(parents=True, exist_ok=True)
@@ -1254,7 +1582,7 @@ def main() -> int:
     # Only the slugs that *have* a derived name are shipped; the rest are absent and
     # the page prettifies them, so this costs nothing for the 36% still unnamed.
     # `cols` is the download's column spec, ~200 bytes, and it is what lets the page
-    # cut a filtered CSV with the same sixteen columns as the published one.
+    # cut a filtered CSV with the same columns as the published one.
     # publish the full downloads from the catalogue Corpus built. Before the payload,
     # because the payload carries the JSON's content hash so the export cannot be cut
     # from a cached older copy of it (see `stamp`).
@@ -1269,22 +1597,27 @@ def main() -> int:
     pretty = {s: pretty_label(s) for s in ents if s not in derived}
     entlabel = {**derived, **pretty}
 
-    payload = {"places": places, "regions": regions, "topics": topics, "cats": cats,
-               "torder": torder,
-               "ents": ents, "entnames": derived, "entpretty": pretty,
-               "names": payload_names, "titles": payload_titles,
-               # The words a shard is never keyed on. The page has to skip exactly the
-               # ones `shard_lib.key_of` skips when it picks a key out of a query, or a
-               # search for "as access relays" asks for the `as` shard — which exists,
-               # for `assembly` and `association`, and does not hold the record wanted.
-               "keystop": sorted(KEYSTOP),
-               "cols": csv_cols(),
-               "rawver": stamp(out_dir / "raw-catalogue.json"), "rows": rows}
-    data_js = out_dir / "catalogue-data.js"
-    with open(data_js, "w", encoding="utf-8") as fh:
-        fh.write("window.CATALOGUE = ")
-        json.dump(payload, fh, ensure_ascii=False, separators=(",", ":"))
-        fh.write(";")
+    head = {"n": len(rows), "chunk": CHUNK,
+            "places": places, "regions": regions, "topics": topics, "cats": cats,
+            "torder": torder,
+            "ents": ents, "entnames": derived, "entpretty": pretty,
+            "names": payload_names, "titles": payload_titles,
+            # The words a shard is never keyed on. The page has to skip exactly the
+            # ones `shard_lib.key_of` skips when it picks a key out of a query, or a
+            # search for "as access relays" asks for the `as` shard — which exists,
+            # for `assembly` and `association`, and does not hold the record wanted.
+            "keystop": sorted(KEYSTOP),
+            "cols": csv_cols(),
+            "rawver": stamp(out_dir / "raw-catalogue.json")}
+    cols, chunks = split(rows, extra, ents, places, topics)
+    index_json, chunk_bytes = write_split(out_dir, cols, chunks, head)
+
+    # **The old payload goes.** It was a blocking `<script src>` carrying every field
+    # of every record, and leaving it behind would mean publishing 8.9 MB that nothing
+    # reads — and, worse, a file a reader could still be served from cache.
+    old_payload = out_dir / "catalogue-data.js"
+    if old_payload.exists():
+        old_payload.unlink()
 
     # The first screen, written into the markup rather than left for the browser to
     # draw when 3 MB of payload has arrived (documentation/catalogue-split-plan.md,
@@ -1304,7 +1637,7 @@ def main() -> int:
                        styles=styles(1, "home.css", "catalogue.css"),
                        ga=ga(),
                        chrome=CHROME, body=body, foot=FOOT,
-                       script=SCRIPT.replace("{ver}", stamp(data_js)))
+                       script=SCRIPT.replace("{ver}", stamp(index_json)))
     (out_dir / "index.html").write_text(external_links(html), encoding="utf-8")
 
     # publish both shard directories
@@ -1315,7 +1648,10 @@ def main() -> int:
 
     idx = out_dir / "index.html"
     print(f"catalogue: {len(rows):,} records, {len(ents):,} entity slugs -> site/catalogue/  "
-          f"(index.html, catalogue-data.js {data_js.stat().st_size/1024:.0f} KB, csv, json)")
+          f"(index.html, csv, json)")
+    print(f"  filter index: {index_json.stat().st_size/1024:.0f} KB fetched once; "
+          f"row text: {len(chunks)} chunks of {CHUNK}, {chunk_bytes/1024:.0f} KB in all, "
+          f"{chunk_bytes/max(len(chunks),1)/1024:.0f} KB each, fetched as rows are drawn")
     print(f"  first screen baked into index.html: the newest "
           f"{min(SHOWN, len(rows)):,} rows and {baked['facets'].count('<label'):,} "
           f"facet options, {idx.stat().st_size/1024:.0f} KB of page")

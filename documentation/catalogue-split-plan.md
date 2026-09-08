@@ -2,7 +2,7 @@
 type: plan
 title: catalogue-split-plan.md — how the catalogue split gets done, in four shippable parts
 last_reviewed: 2026-09-08
-status: live — Parts 1 and 2 done 2026-09-08 (2 needs an R2 upload and a Worker deploy); 3 and 4 to land before go-live
+status: live — Parts 1, 2 and 3 done 2026-09-08 (2 needs an R2 upload and a Worker deploy); 4 to land before go-live
 ---
 
 # Doing the catalogue split
@@ -183,7 +183,8 @@ leaves a page that draws.
   is a documented absence is cited *to this page* by slug (`report-render.slug_offline()`,
   notes-for-corpus 22), so an unsearchable slug lands those citations on nothing. It is one word
   in `build-title-index.py`'s `FIELDS`, and the date prefix keys on nothing, so a pasted slug
-  finds its shard through the first real word in it.
+  finds its shard through the first real word in it. *(Done: `FIELDS` carries it, the index went
+  from 1,675 shards to 2,283, and a pasted slug returns its one record.)*
 
 **State in `catalogue.py` that the chunk files are internal and carry no stability promise**, and
 that `raw-catalogue.csv` is the supported way to consume this data. Say it in the file that writes
@@ -192,9 +193,59 @@ them, or the boundary acquires a second consumer the way the last one did.
 *Done when:* every facet, every combination and every sort returns what it returns today, and a
 deep link from before the change resolves to the same result set.
 
+> **Done, 2026-09-08.** `site/catalogue/data/` is the payload now: a **filter index of 2.29 MB,
+> 0.68 MB gzipped**, fetched once, and **41 chunks of 500 rows at 154 KB / 53 KB gzipped**,
+> fetched for the rows about to be drawn. A reader who opens the page pays **0.73 MB gzipped
+> before the first draw against 3.73 MB today — an 80% cut** — and `catalogue-data.js` is deleted.
+> Scaled to 40,000 records the filter index lands at **~1.34 MB gzipped**, which is the number
+> `catalogue-serving-shape.md` said the whole decision rested on, measured rather than projected.
+>
+> **The encoding.** Dates are a **dictionary, not day offsets**: 284 records carry a published
+> value that is not a whole date, and an offset would have to invent a day to store one and invent
+> one back to show it. Publishers likewise; places, topics and actors are offsets into vocabularies
+> the page shipped anyway; `lens` was dropped from the browse payload entirely, because nothing on
+> the page had read it since the lens facet went.
+>
+> **The search blob is gone rather than shrunk.** `catalogue-serving-shape.md` named it as a defect
+> in its own right — a second full-corpus string allocation on top of the array just parsed. What is
+> matched in memory now is the two *vocabularies*, 7,697 publishers and 11,331 actors, once per
+> query rather than once per record. The slug went to the title index with them
+> (Part 2's `FIELDS`), which is why a pasted slug still finds its record.
+>
+> **A–Z had to become a build-time decision**, because the page cannot sort text it does not hold.
+> One rank per record, from `coll()`. It approximates the browser's collation rather than
+> reproducing it: measured against Chrome over all 20,267 titles, **1.6% of adjacent pairs sort the
+> other way and the first A–Z screen shares 91 rows of 100**, the residue being how quotes and
+> dashes order among themselves. Against that, `localeCompare` follows the reader's own locale, so
+> a `#sort=az` link did not mean one thing before and does now. Two rounds of measurement went into
+> that 1.6%: sorting by class before code point took the first screen from 64 to 91.
+>
+> *Proof.* **`scripts/test_catalogue_index.py`** reads the encoding back and compares it to
+> `raw-catalogue.json` record by record — all 20,267, every field, every facet count, the year
+> buckets and the A–Z permutation — and needs no node, so it runs here. Independently, expectations
+> for 18 filter and sort combinations were computed in Python from the raw catalogue and replayed
+> against the live page: **every count and every ordered first-100 matched**. The baked first
+> screen is still character-for-character what the page draws, which after this change is an
+> end-to-end check of the split — the bake reads the catalogue and the page reads an encoding of
+> it. Search was driven over every path it now takes (hero, title, slug, publisher, actor, Arabic,
+> sub-minimum), deep links resolve including entity-only ones, and the filtered CSV export comes
+> out with its BOM, its CRLF and all seventeen columns.
+>
+> **Two things are not what the plan assumed.** The download has **seventeen** columns, not
+> sixteen — that number was wrong in four places and is now stated nowhere, on the same grounds
+> `RENDER.md` gives for not stating record counts. And the chunks are **tracked in git and served
+> from Pages**, not moved to R2: the page cannot draw a row without them, and a `git push` should
+> be enough to serve a working catalogue. They cost about what `catalogue-data.js` cost, so the
+> churn is unchanged; moving them to R2 later is additive and is a decision on its own.
+>
+> **The worst case is worth stating.** A filter matching a hundred records spread evenly across the
+> corpus fetches a hundred chunks — which is every chunk, about 2.2 MB gzipped, and therefore no
+> worse than the payload every visitor pays today. Every other case is far better: the unfiltered
+> screen is one chunk, and a dense filter a handful.
+
 ### Part 4 — Drop `raw-catalogue.json`
 
-**Depends on Part 3.** The export currently cuts a sixteen-column selection from the JSON by slug.
+**Depends on Part 3.** The export currently cuts a whole-record selection from the JSON by slug.
 Once the row-text chunks carry the five missing fields, the export reads those instead and the JSON
 has no remaining consumer. Dropping it takes ~31 MB off the published site and ~6.6 MB off every
 build's permanent git history.
@@ -209,7 +260,7 @@ changes** — not in any of the four parts.
 
 **Export byte-parity.** `raw-catalogue.csv` is `design.md` §9's named exception to the edition rule
 and does not change at all. The filtered export must stay byte-identical to it with rows removed —
-the BOM, the CRLF, the sixteen columns, all of it. `test_catalogue_export.py` is what says so.
+the BOM, the CRLF, the column set, all of it. `test_catalogue_export.py` is what says so.
 
 **`raw-catalogue.csv` itself.** Untouched by every part of this.
 
@@ -232,5 +283,5 @@ assuming on the day:
 |---|---|
 | 1 — bake the first screen | **done 2026-09-08** |
 | 2 — title and hero search shards | **built and proven 2026-09-08**; needs an R2 upload and a Worker deploy to be live |
-| 3 — filter index and row-text chunks | not started |
+| 3 — filter index and row-text chunks | **done 2026-09-08** |
 | 4 — drop `raw-catalogue.json` | not started |

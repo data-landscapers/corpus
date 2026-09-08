@@ -131,12 +131,28 @@ python scripts/topic-page.py      # every topic   -> site/topics/{slug}/index.ht
 ## Step 5 — build the catalogue page
 
 ```bash
-python scripts/catalogue.py       # -> site/catalogue/index.html, catalogue-data.js, raw-catalogue.{csv,json}
+python scripts/catalogue.py       # -> site/catalogue/index.html, data/, raw-catalogue.{csv,json}
 ```
 
 Reads `outputs/catalogue/raw-catalogue.json` and the vocabularies in `outputs/vocab/`. Metadata only, each record linking to its publisher. Stale place/topic labels mean `outputs/vocab/` wants refreshing from OSINT's `lookups/`. **The record count is not a fixed expectation and no figure is written here** — it was `~10,700` for weeks after the catalogue passed 16,000, which is a statement a render prints past every night without anything noticing. The count for the last build is in `outputs/catalogue/stats.json` and on the previous render's own log line; the serving shape it is heading for is `documentation/catalogue-serving-shape.md`.
 
-**The first screen is written into the page**, not left for the browser: the newest hundred rows and the three facet menus come out as markup, so the page shows results before its 9 MB payload has arrived and with JavaScript off entirely (`documentation/catalogue-split-plan.md`, Part 1). That markup is written by Python and redrawn by JavaScript, and the two have to agree — `scripts/test_catalogue_firstscreen.py` runs the page's own renderers over the payload and compares. It needs node, and skips without it, as `test_catalogue_export.py` does.
+**The page's data is split in two** (`documentation/catalogue-split-plan.md`, Part 3), and `site/catalogue/data/` is both halves:
+
+- **`filter-index.json`**, fetched once, ~2.3 MB and 0.68 MB gzipped: everything a facet, a count or a sort needs and nothing a row shows. Dates and publishers dictionary-encoded, places, topics and actors as offsets into vocabularies, and one A–Z rank per record.
+- **`rows-NNN.json`**, 500 records each, ~154 KB and 53 KB gzipped: title, URL, slug and hero, plus the columns only the download needs. Fetched for the rows about to be drawn and no others.
+
+**Both are tracked**, unlike the two shard indexes, and the reason is that the page cannot draw a single row without them: keeping them on Pages is what makes a `git push` enough to serve a working catalogue. They cost about what `catalogue-data.js` cost before them, so the churn is unchanged; moving them to R2 is a live option and is noted in the plan.
+
+**The chunk files are internal.** They are named, sized and shaped for this page and will change without notice; `raw-catalogue.csv` is the supported way to consume this data. `catalogue.py` says so where it writes them.
+
+**The first screen is written into the page**, not left for the browser: the newest hundred rows and the three facet menus come out as markup, so the page shows results before anything has been fetched and with JavaScript off entirely (Part 1). That markup is written by Python and redrawn by JavaScript, and the two have to agree — `scripts/test_catalogue_firstscreen.py` runs the page's own renderers over the filter index and the first chunk and compares. `scripts/test_catalogue_index.py` checks the encoding itself against `raw-catalogue.json`, record by record, and needs no node.
+
+```bash
+python scripts/test_catalogue_index.py        # the split payload holds the whole catalogue
+python scripts/test_catalogue_firstscreen.py  # baked markup == what the page draws (needs node)
+```
+
+**The A–Z sort is decided at build time now**, because the page no longer holds the titles: `catalogue.py` → `coll()` ranks them and ships one integer per record. It approximates the browser's own collation and does not reproduce it — measured against Chrome's `localeCompare` over all 20,267 titles, 1.6% of adjacent pairs sort the other way and the first A–Z screen shares 91 rows of 100. What it buys is that a `#sort=az` link means the same thing for every reader, which `localeCompare` never did.
 
 ### The names index — build it before the page
 

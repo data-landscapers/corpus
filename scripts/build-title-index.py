@@ -78,7 +78,14 @@ if hasattr(sys.stdout, "reconfigure"):
 
 # The fields indexed, in the order they are read off a record. Adding one here is the
 # whole change — but see the page, which decides what it still matches in memory.
-FIELDS = ("title", "catalogue_hero")
+#
+# **The slug joined them at Part 3**, when it left the payload with the rest of the row
+# text. It is the identifier every Corpus report cites by, and a record whose `url:` is
+# a documented absence is cited *to the catalogue page* by slug
+# (`report-render.slug_offline()`, notes-for-corpus 22) — so a slug that cannot be
+# searched lands those citations on nothing. Its date prefix keys on nothing, which
+# costs it nothing: a pasted slug finds its shard through the first real word in it.
+FIELDS = ("title", "catalogue_hero", "slug")
 
 WS = re.compile(r"[\t\r\n]+")
 SPLIT = re.compile(r"[^0-9a-z]+")

@@ -43,8 +43,8 @@ function grab(name){
   throw new Error('unterminated ' + name + '()');
 }
 
-const cols = JSON.parse(fs.readFileSync(DIR + '/catalogue-data.js', 'utf8')
-  .match(/"cols":(\[[^\]]*\])/)[1]);
+const cols = JSON.parse(fs.readFileSync(DIR + '/data/filter-index.json', 'utf8'))
+  .cols;
 const { toCSV } = new Function('CSVCOLS',
   grab('csvCell') + '\n' + grab('toCSV') + '\nreturn {toCSV};')(cols);
 
@@ -70,7 +70,7 @@ def main() -> int:
     if not shutil.which("node"):
         print("test_catalogue_export: skipped — node is not on PATH")
         return 0
-    missing = [f for f in ("index.html", "catalogue-data.js",
+    missing = [f for f in ("index.html", "data/filter-index.json",
                            "raw-catalogue.json", "raw-catalogue.csv")
                if not (CAT / f).exists()]
     if missing:
