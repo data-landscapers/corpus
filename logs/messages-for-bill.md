@@ -13,3 +13,13 @@ last_reviewed: 2026-08-28
 *(**Form.** `## YYYY-MM-DD HH:MM · job`, then one bullet per item: what happened, what the run did about it, what Bill's options are. Insert directly under the marker — appending puts the newest block at the bottom of a file that reads top-down.)*
 
 <!-- newest first: a new block goes directly below this line -->
+
+## 2026-09-08 17:05 · build
+
+- `report-register-check.py` defaults to all 60 units and no run had used it that way —
+  each checked only what it touched, so findings elsewhere went unread: **203 register
+  hits over 54 files, XNA-progress 397 words under its band, XWA-progress 327 over, one
+  ZAF cell 40 over.** Those inside quoted source stand, so it is a
+  review list, not 203 defects. BUILD's ending sequence now runs it estate-wide.
+  Draining it is a session's work, yours to schedule.
+

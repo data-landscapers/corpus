@@ -107,6 +107,10 @@ python scripts/lint-scope.py                               # the whole backlog
 
    **A failing check is work, and BUILD does it in the same pass.** G, I, J and M are mechanical: each has one repair and BUILD makes it. L is authoring work: write the sentence or remove the section (*Narrative integrity* below). Where a check cannot be cleared, the fallback is a finished outcome: an unsourceable position is ***Not held*** with a `gaps.csv` line; a link resolving to nothing is struck along with the claim standing on it. The residue goes in the run's log line as counts.
 
+   **"Residue" is outcomes converted, never work deferred** *(2026-09-08, after a run did exactly that)*. The counts in the log line are *Not held* rows written and claims struck — things the pass finished by stating them. A finding the pass could have cleared and did not is neither a finished outcome nor residue; it is unfinished work, and the run has no way to hand it on. **There is no "note it and move along".** A finding that genuinely needs more than a run is a decision about scope, so it goes in `logs/messages-for-bill.md` where it is counted, linted and read — not in a log line, and not in something a person happened to be looking at.
+
+   **A finding is not scoped out because the run did not create it.** The check runs over the unit, not over the diff.
+
    **The register check reports and BUILD rules.** A hit inside quoted source text stands; a hit in BUILD's own prose is rewritten. Message Bill only if clearing a hit would drop a fact the report needs.
 
    Check J skips the status report on an initialised unit: the baseline is not rendered from the ledger — its sources are largely ones the wiki does not hold — so currency is step 3's question, answered by revising the section, not re-rendering the file.
@@ -206,9 +210,17 @@ python scripts/bulletin.py --assemble      # then commit outputs/bulletins/
 
 ## Ending the run — message, log, commit, stand down
 
-**1. Message Bill, if anything is owed him** — one block under the marker in `logs/messages-for-bill.md`, at most 80 words. Nothing owed, nothing written: the normal outcome. After writing one, `python scripts/lint-messages.py` counts both caps (five open blocks, 80 words each) and `python scripts/lint-preambles.py` checks that the file's preamble is still a pointer.
+**1. Say what the run is leaving behind, across every unit — not only the ones it touched:**
 
-**2. Log one terse line:**
+```bash
+python scripts/report-register-check.py     # no --unit: the default is all 60
+```
+
+**This is the step that stops a finding living in a console.** Every other check in Job 1 is run per unit, on the units the pass worked, so a finding in a unit nobody touched is reported to nobody — and accumulates. On 2026-09-08 the estate-wide run had never been made: 203 register hits over 54 files, two progress reports outside their word band and one indicator cell, none of it in any log line or message. **Its counts go in the log line at step 3**, and anything the run did not clear gets a block at step 2. It is a disclosure the run computes, not one the operator has to remember, and it is **not a gate** — `report-layer.md` §10's tally is still a tally.
+
+**2. Message Bill, if anything is owed him** — one block under the marker in `logs/messages-for-bill.md`, at most 80 words. Nothing owed, nothing written: the normal outcome. After writing one, `python scripts/lint-messages.py` counts both caps (five open blocks, 80 words each) and `python scripts/lint-preambles.py` checks that the file's preamble is still a pointer.
+
+**3. Log one terse line:**
 
 ```bash
 python scripts/log-line.py build "catalogue N, finance N places, scan N units, K ledgers updated — ok"
@@ -216,13 +228,13 @@ python scripts/log-line.py build "catalogue N, finance N places, scan N units, K
 
 The duration writes itself from the stage-0 stamp, then clears it. Where the stamp was never taken, state the truth: `--since "…"` or `--took 3h02m`, never a hand-written figure. The script inserts at the top under the marker (the log reads newest first), refuses a message over 40 words, and exits 1 if the marker is missing.
 
-**3. Commit everything:**
+**4. Commit everything:**
 
 ```bash
 git add -A && git diff --cached --quiet || git commit -m "Build run: outputs, log and messages"
 ```
 
-**4. Stand down** — remove the sentinel, and only now, after the commit has landed; removing it earlier opens a window in which RENDER sees a finished build whose work is uncommitted.
+**5. Stand down** — remove the sentinel, and only now, after the commit has landed; removing it earlier opens a window in which RENDER sees a finished build whose work is uncommitted.
 
 ```bash
 rm -f logs/.build-in-progress
