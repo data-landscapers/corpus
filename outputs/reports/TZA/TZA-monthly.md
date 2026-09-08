@@ -3,9 +3,9 @@ title: Tanzania — monthly update, August – September 2026
 compiled: 2026-09-08
 period: 2026-08-01 to 2026-09-08
 place: TZA
-ledger_rows: 76
+ledger_rows: 78
 not_held: 5
-record: 501786a2312f
+record: 102bb8f6f24b
 ---
 
 # Tanzania: monthly update, August – September 2026
@@ -85,6 +85,8 @@ A separate tower programme reported its own reach to Parliament on 15 August: a 
 The second operator [launched fibre-to-the-home in Dodoma](https://www.ecofinagency.com/news-digital/2608-58349-yas-targets-tanzania-s-fixed-internet-market-with-new-fiber-rollout), with plans to widen coverage across the city on a stated 300 billion shilling investment.
 
 The month's other route is a border crossing that has not begun. The foreign minister said the two countries would [fast-track a national fibre-optic cable from Kigoma to Kalemie in the Democratic Republic of Congo through Lake Tanganyika, alongside a standard gauge railway link through Burundi and a joint economic commission](https://dailynews.co.tz/tanzania-drc-agree-to-fast-track-sgr-link-and-fibre-optic-cable-across-lake-tanganyika/). No route survey, cost, financing, landing point or delivery date is published.
+
+The regulator scored quality for the quarter to June 2026: [the state operator highest at 98.1%, ahead of the largest operator at 97.7% and the third at 97.1%](https://techafricanews.com/2026/09/07/ttcl-tops-tanzania-telecom-quality-rankings-2026/) — the state operator leading on quality while holding a small share of the market. The measurement’s components and the underlying market shares are not stated.
 <!-- /narrative -->
 ### Data Storage
 
@@ -120,6 +122,8 @@ The identity register is the most heavily integrated rail the base holds anywher
 
 
 The budget behind it was set out to Parliament on 19 August: the home affairs ministry [put the identifier's rollout among its 2026/27 priorities under the national blueprint, alongside new district registration offices and a headquarters at Dodoma](https://dailynews.co.tz/security-digital-identity-and-technology-set-to-spur-tanzanias-growth/). No cost line or timetable accompanies the priority.
+
+Where the checks run became the point. The central bank [backed a credit bureau’s locally hosted fraud detection, anti-money-laundering screening and know-your-customer verification for Tanzanian lenders](https://www.thecitizen.co.tz/tanzania/business/bank-of-tanzania-backs-creditinfo-s-locally-operated-fraud-identity-solutions-5586696), the local operation being what is claimed for it. No directive, licence, hosting requirement or supervisory condition is held.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 

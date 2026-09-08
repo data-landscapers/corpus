@@ -3,9 +3,9 @@ title: Senegal — monthly update, August – September 2026
 compiled: 2026-09-08
 period: 2026-08-01 to 2026-09-08
 place: SEN
-ledger_rows: 54
+ledger_rows: 55
 not_held: 5
-record: 52a11b38958d
+record: c6fce709d357
 ---
 
 # Senegal: monthly update, August – September 2026
@@ -56,6 +56,11 @@ The bilateral channel moved from signature to work. The June memorandum with the
 Senegal adopted [non-binding Francophone West African AI governance guidelines on 6 July](https://www.wearetech.africa/en/fils-uk/news/tech/six-francophone-west-african-countries-unite-on-ai-governance-framework).
 
 Senegal held its [first national green-coding and responsible-digital workshop](https://www.socialnetlink.org/2026/08/24/le-senegal-engage-son-ecosysteme-numerique-sur-la-voie-du-green-coding/), bringing about 170 people from the sector to Dakar on 18 and 19 August 2026 to set the basis for a national approach to digital sobriety. Nothing was adopted at it.
+<!-- /narrative -->
+### Public debate and participation in policymaking
+
+<!-- narrative: governance--gov-discourse -->
+Where a mast is put became a parliamentary question. A member of the National Assembly [addressed written questions to several ministers over the proliferation of telecommunications masts sited close to residential areas, seeking clarification of the conditions under which they are installed](https://www.seneweb.com/fr/news/Societe/pylones-de-telecommunications-a-proximite-des-habitations-thierno-alassane-sall-alerte-sur-les-risques_n_503519.html). The questions are put and not answered, and the base holds no siting rule, exposure standard or regulator position against which to read them.
 <!-- /narrative -->
 
 ## Finance

@@ -1,11 +1,11 @@
 ---
 title: Togo — monthly update, August – September 2026
-compiled: 2026-09-07
-period: 2026-08-01 to 2026-09-07
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 place: TGO
-ledger_rows: 45
+ledger_rows: 47
 not_held: 22
-record: d752fb54d3ce
+record: 85b79a614093
 ---
 
 # Togo: monthly update, August – September 2026
@@ -154,6 +154,8 @@ The staffing has moved ahead of the estate. On 24 August [101 fabmanagers, recru
 
 <!-- narrative: capacity--capacity-training -->
 The university's own [programme catalogue](https://etu.univ-lome.tg/information/offre) is now held: licences in software engineering, systems and networks, computing, and artificial intelligence and big data, masters in the last two, and a doctorate in computing. It carries no enrolment or graduate figure and names no cybersecurity degree, so annual output in the field stays unmeasured.
+
+The first artificial-intelligence summer school finished, [training 100 young people in artificial intelligence and big data](https://www.togofirst.com/fr/tic/0409-19958-togo-ai-summer-school-100-jeunes-talents-formes-a-l-intelligence-artificielle-et-au-big-data) through the government data laboratory with German technical-cooperation support. The figure matches the hundred places announced; no selection ratio or destination for the cohort is published.
 <!-- /narrative -->
 
 ## Inclusion
@@ -172,6 +174,8 @@ Documentation for the displaced is the larger operation. A [grant of US$1 millio
 
 <!-- narrative: data--data-statistics -->
 The dissemination layer is being rebuilt while the strategy above it has lapsed. The 2024 [national statistical yearbook](https://inseed.tg/download/7668/) was reissued in a revised edition in August, compiled from sectoral administrative systems and ministry returns as well as censuses. The [2020-2024 statistics strategy](https://afristat.org/wp-content/uploads/2022/04/22_Togo-SNDS-II_Adopte-CNS-le-27aout20_avant-propos-signe-MPDC.pdf) beneath it expired with no successor adopted; orientations were set in June, and orientations are not a strategy.
+
+The statistics institute put a second survey in the field. The third harmonised household living-conditions survey [runs to December 2026, covering poverty, income and employment](https://www.togofirst.com/en/economic-governance/0409-19955-togo-launches-household-living-conditions-survey-running-through-december) — the second of two rounds opened within six weeks, after a demographic and health gap of more than a decade.
 <!-- /narrative -->
 
 ## Geopolitics

@@ -3,9 +3,9 @@ title: Morocco — monthly update, August – September 2026
 compiled: 2026-09-08
 period: 2026-08-01 to 2026-09-08
 place: MAR
-ledger_rows: 34
+ledger_rows: 37
 not_held: 15
-record: d61f7d9d3aef
+record: 57735db266be
 ---
 
 # Morocco: monthly update, August – September 2026
@@ -47,6 +47,8 @@ Morocco's regional reach extended past the continent this month: the UN Economic
 Simplification is law and is not yet practice. A member's written question to the digital transition ministry put the ombudsman's 2025 finding on the record: [agencies still ask citizens for paper copies of documents the administration already holds electronically, and impose undisclosed extra conditions](https://nichan.ma/361721/), which is what the procedural simplification law was passed to stop. No ministry answer is held. The complaint from the other end is about coverage rather than paperwork: residents of one Sefrou commune [are asking for new or strengthened transmission stations, describing reliable connectivity as a condition of schooling, work and emergency access](https://www.adyare.ma/32404.html).
 
 The administrative rule that would matter most for digital services was proposed from outside government. A party's election manifesto [proposes that administrative silence count as approval, that prior authorisations be reduced, and that artificial intelligence be used in the governance of public policy](https://www.lodj.ma/La-petite-revolution-administrative-cachee-dans-le-programme-de-l-Istiqlal_a183608.html). It binds nobody unless the party forms a government, and no bill, scope, exempted-decision list or timetable exists — but tacit approval is the one reform that would change what a digital procedure actually delivers, rather than how it is submitted.
+
+The spyware allegations were argued rather than adjudicated. Two Moroccan commentaries on 8 September set out the domestic case: an academic and politician [rejected as overstated the July 2026 consortium findings tying Moroccan bodies to the compromise of the Spanish prime minister’s phone](https://assabah.ma/948467.html), and a separate press analysis [asked whether the Spanish courts will reopen a related file](https://www.hespress.com/%d9%85%d9%86-%d8%aa%d8%b5%d9%81%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%86%d8%b8%d8%b1%d9%8a-%d8%a5%d9%84%d9%89-%d8%a8%d9%8a%d8%ba%d8%a7%d8%b3%d9%88%d8%b3-%d9%87%d9%84-%d9%8a%d9%81%d8%aa%d8%ad-1804139.html) — neither the findings nor any court filing is held here, and the base establishes nothing about the underlying allegation either way.
 <!-- /narrative -->
 
 ## Finance
@@ -124,6 +126,8 @@ The ombudsman's 2025 annual report, presented on 23 July, gives the counterpoint
 
 
 One portal went the other way. The Court of Cassation's site [has been down for more than a week with no official explanation](https://www.alnahar.ma/121842.html), on a bar-association lawyer's account, at a point where the courts increasingly expect rulings to be tracked online. No court or ministry statement is held.
+
+Filing a candidacy became an online act. The interior ministry [made the elections portal the compulsory route for candidacy declarations to the 23 September legislative elections, closing it at noon on 8 September](https://assabah.ma/947667.html). No filing count, fallback for candidates without access or support arrangement is stated.
 <!-- /narrative -->
 
 ## Technology
