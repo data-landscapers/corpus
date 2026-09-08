@@ -1,11 +1,11 @@
 ---
 title: Egypt — monthly update, August – September 2026
-compiled: 2026-09-07
-period: 2026-08-01 to 2026-09-07
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 place: EGY
-ledger_rows: 77
+ledger_rows: 78
 not_held: 49
-record: d2545f3a88b7
+record: 44bc05b06827
 ---
 
 # Egypt: monthly update, August – September 2026
@@ -37,6 +37,8 @@ Nine days earlier a member of parliament had called for a comprehensive standalo
 A third route opened on 10 August, outside both: a party draft, described by its sponsor as [fifty-four articles over seven chapters, would require platforms to appoint a legal representative in the country, register influencers on a national platform, and regulate artificial intelligence, deepfakes, online extortion, gambling and child protection online](https://www.alnaharegypt.com/1191209). It has not been tabled and no text is published.
 
 On 4 August the Ministry of Justice gazetted a deferral of the title-based property register for one Sohag survey section by a year to July 2027.
+
+The data-protection regulations went to the market before they bite. The ministry's investment conference on 7 September [carried a session on the executive regulations alongside ICT investment, artificial intelligence and startup finance](https://egyptinnovate.com/en/news/minister-of-communications-to-inaugurate-tech-invest-egypt-6-next-monday), seven weeks before the grace period closes on 1 November. No guidance, decision or transfer licence issued under them is on the record.
 <!-- /narrative -->
 ### Data protection
 
@@ -137,6 +139,8 @@ Investors are to get their own digitised path through the land record. A [cooper
 The justice and communications ministries [signed a three-year cooperation protocol on 23 August 2026](https://www.businesstec.news/23569) to digitise the Cairo Court of Appeal and put artificial intelligence into the judiciary, covering a unified electronic repository for the archives of finally-adjudicated cases.
 
 One platform went the other way. The prime minister said on 3 September that [faults in the unified electricity platform and discrepancies in prepaid-meter readings are a government priority and that remedial steps will be announced transparently](https://www.youm7.com/story/2026/9/3/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D9%84%D9%80-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D8%B9-%D8%B3%D8%A3%D8%B9%D9%82%D8%AF-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D8%A7-%D9%85%D8%B9-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1/7535176), the question put to him describing the platform as having stopped working, with top-up values differing from meter readings or from the figures the utility holds. The operator has published no outage notice, fault count or restoration date, so the position rests on a prime-ministerial answer to a journalist.
+
+The unified card's terms reached the base. It is [issued free as a prepaid, fingerprint-authenticated card through the postal service, carrying bread and ration subsidy alongside health insurance, and usable at point-of-sale terminals and cash machines](https://www.egyptindependent.com/everything-you-need-to-know-about-the-unified-card-a-new-alternative-to-the-ration-card/). The account is a newspaper explainer of a gradual rollout: no issuance count, coverage figure, governorate list or completion date is published, so the card's design is established and its reach is not.
 <!-- /narrative -->
 
 ## Technology
@@ -177,6 +181,8 @@ The month's research contribution is an outside assessment of a question the sta
 
 <!-- narrative: inclusion--include-access -->
 The month's clearest inclusion move was a reopening rather than an extension. From 24 July the state accepted ration-card grievance and data-update forms at 500 post offices on Friday afternoons and Saturday mornings, alongside the online route that had until then been the only channel for appeals against the 2026 eligibility criteria, with a daily adjudication committee, results notified by text message and every case checked against official databases.
+
+The only outcome measure the base holds for refugee assistance is the delivering agency's own. Its [year-end monitoring of 2024 multi-purpose cash assistance interviewed 393 of 434 sampled households and found 99% able to buy items they could not previously afford](https://data.unhcr.org/en/documents/details/114784). It is a self-evaluation on a sample rather than the caseload, and it reports purchasing ability rather than any outcome — which is worth stating plainly beside the asylum regulations now in force.
 <!-- /narrative -->
 ### Digital divides
 

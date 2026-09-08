@@ -1,11 +1,11 @@
 ---
 title: Cameroon — monthly update, August – September 2026
-compiled: 2026-09-05
-period: 2026-08-01 to 2026-09-05
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 place: CMR
-ledger_rows: 33
+ledger_rows: 34
 not_held: 5
-record: 59c25e1214d9
+record: 43e6df7790bb
 ---
 
 # Cameroon: monthly update, August – September 2026
@@ -66,11 +66,15 @@ The regulator's director-general said the [preparatory work for 5G is practicall
 
 <!-- narrative: ict-infrastructure--infra-store -->
 The state operator spent the month selling capacity it has already built. It [showed the Zamengoe data centre to a second prospective tenant on 13 August](https://techafricanews.com/2026/08/14/camtel-showcases-zamengoe-data-center-to-plan-international-cameroon/), presenting hosting, storage and security services and the facility's Tier III certification, eight months after the central bank toured the same site with a view to hosting. The base holds no signed hosting contract from either visit.
+
+The Douala project was confirmed and qualified in the same week. The vendor [confirmed US$75m, about FCFA 42.25bn, for a data centre designed in part for artificial-intelligence workloads with dedicated power generation](https://www.biometricupdate.com/202609/cybastion-backs-cameroon-digital-sovereignty-with-75m-infrastructure-project), while the [planning ministry described it as an intention presented at the first bilateral economic forum rather than a commitment](https://www.businessincameroon.com/public-management/0709-16693-us-firm-cybastion-plans-75-million-ai-data-center-and-power-plant-in-douala). The distinction is worth holding onto: the same vendor's Ivorian project is underwritten by a United States export-credit guarantee, which is the shape a commitment takes on the record, and nothing of that kind is published here.
 <!-- /narrative -->
 ### Cybersecurity
 
 <!-- narrative: ict-infrastructure--infra-cybersec -->
 The month produced the base's first measure of what cybercrime costs an individual here. A comparative study puts the [average loss per online job scam at 132,000 FCFA for Cameroonian victims, against 58,000 FCFA in Chad](https://issafrica.org/research/books-and-other-publications/digital-deception-online-job-scams-amid-cybercrime-vulnerability-in-cameroon-and-chad), and finds 82% of the Cameroonian cases to be WhatsApp-based social engineering linked to Nigerian networks, where the Chadian pattern is more localised SMS and voice phishing. It is a survey of respondents rather than a reported-crime series, and no sample size or national loss total is carried in the record held.
+
+The gap between the governing statute and the threat it governs was measured from outside government. A policy institute's brief puts [cyberattacks up 156% between 2020 and 2023, financial losses from digital fraud above US$45m over the same period, and the national ICT agency's cybercrime unit at 23% of its establishment](https://nkafu.org/cybersecurity-as-industrial-policy-protecting-cameroons-digital-economy/), and argues that cybersecurity belongs in the national development strategy as industrial policy rather than as a compliance obligation. The figures are the institute's own, with no underlying series or agency return held — which is itself part of its case.
 <!-- /narrative -->
 
 ## DPI
