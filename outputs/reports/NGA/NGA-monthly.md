@@ -1,11 +1,11 @@
 ---
 title: Nigeria — monthly update, August – September 2026
-compiled: 2026-09-06
-period: 2026-08-01 to 2026-09-06
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 place: NGA
-ledger_rows: 149
+ledger_rows: 158
 not_held: 8
-record: 473158fc0255
+record: 9a9155f9dc58
 ---
 
 # Nigeria: monthly update, August – September 2026
@@ -60,6 +60,8 @@ A civil-society platform began watching the same election from the data side, [t
 Child protection online entered the record as a consultation rather than a rule. Nigeria is [consulting on age limits, identity verification and platform liability, one of several African states moving from a minimum age for opening an account towards design duties on the platforms themselves](https://www.agenceecofin.com/actualites/2708-141074-en-afrique-comme-ailleurs-les-etats-s-emparent-de-la-protection-des-mineurs-sur-les-reseaux-sociaux), against an African Union child online safety policy of 2024 asking states to require protection by design and by default, risk assessments, researcher access to platform data and independent oversight. No draft instrument, closing date or responsible body is named, and the constraint reported across the region is enforcement rather than law.
 
 An underground market trading national identity and bank verification numbers [shut down after an investigative report named its operator](https://fij.ng/article/after-fijs-investigation-ebis-illegal-data-market-shuts-down-but-ndpc-retains-him-as-licensee/), who remains a registered licensee of the data-protection commission. The closure and the licence surviving it are both the commission's own disposition; no enforcement notice against the operator is on file.
+
+The commission opened a second framework alongside its enforcement work: validation of a [data privacy framework for electronic commerce, at an Abuja workshop run with the German development agency and following a private-sector session in Lagos](https://techreviewafrica.com/public/news/7060/nigeria-moves-to-enhance-data-privacy-framework-for-e-commerce). No draft text, scope, commencement date or enforcement route is published, so what exists is a consultation rather than an instrument.
 <!-- /narrative -->
 ### Regional collaboration
 
@@ -160,6 +162,12 @@ Identity gained infrastructure and kept its gap. The passport became [cryptograp
 
 
 Two identity systems moved in opposite directions. The federal government [signed a memorandum on 12 August to issue cooperatives a verification number and their members an identity credential, opening a six-month revalidation exercise](https://www.nationalaccordnewspaper.com/fg-signs-mou-for-national-cooperative-digital-id-begins-6-month-revalidation/), with no cooperative or member count, cost, or link to the foundational register stated. Against that, an observer mission at the state governorship election of 15 August [called for a full post-election technical audit of the biometric voter-accreditation system, for the electoral commission to publish the causes of authentication failures, and for uniform guidance on downloadable voter cards before 2027](https://dailypost.ng/2026/08/16/osun-election-yiaga-africa-calls-for-bvas-audit-improved-security-ahead-2027-polls/). A second observer group reporting on the same poll [named the failure modes — devices that would not boot, delaying one unit's opening to 09:45, fingerprint and facial capture failing on voters, elderly voters recurrently, so that they could not vote at all, slow processing at units of over 1,100 registered voters, an export failure, and one device that stopped altogether](https://blog.nigerianbar.org.ng/wp-content/uploads/2026/08/REPORT-OF-THE-OSUN-STATE-ELECTION-2026.pdf), and asked for the devices to be upgraded before 2027. Both accounts are observers' own, limited to the units their teams visited; no commission response, failure rate or audit commitment is on record.
+
+The identity count was split in two on 7 September, and the halves do not agree with what anyone had been quoting. The lender's own implementation report puts [117,493,554 people holding a number out of 134,553,120 enrolments at 30 June 2026, against a target of 180,000,000 by December](https://documents1.worldbank.org/curated/en/099081126161526352/pdf/P167183-e7cea03a-8864-4dd8-984f-cca80474fd7c.pdf) — a 17-million gap between enrolling and being issued that the base had been carrying as a single figure. Closing the remaining gap would need [monthly enrolment to rise from 1.5–1.8 million to about 7.4 million with six months left](https://techcabal.com/2026/09/07/nigeria-needs-62-5-million-nins-in-six-months-to-meet-target/). Five days earlier the commission had put its own count at [about 140 million, alongside enrolment time cut from seven days to one hour](https://businessandtransport.com/how-nimc-emerges-nigerias-national-trust-authority-under-new-act-2026/), in the course of describing itself under the 2026 Act as a national trust authority rather than an identity register. Three numbers, none reconciled.
+
+The same report rates the project [Moderately Satisfactory on both progress and implementation at Substantial overall risk, with the system-integrator contract for the modular open-source rebuild awarded and an implementation period of about eighteen months](https://documents1.worldbank.org/curated/en/099081126161526352/pdf/P167183-e7cea03a-8864-4dd8-984f-cca80474fd7c.pdf).
+
+A second use for election hardware was floated rather than agreed: the admissions board [asked the electoral commission for biometric verification machines that sit idle between elections, and the commission ordered a proof of concept on whether they are fit for it](https://von.gov.ng/jamb-inec-seek-collaboration-on-use-of-biometric-technology/). No device count, transfer basis or data-protection assessment is published, and the two registers rest on separate legal bases.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -184,6 +192,10 @@ The rail underneath all of it began to change. The clearing operator [reports 26
 The withdrawn credit product came back on 24 August. The dominant operator [resumed airtime lending on four vendors after the April suspension that followed new consumer-watchdog licensing and consumer-protection requirements, with its lending base cut to about a quarter of its first-quarter run rate and a stated cost of about 50 billion naira (US$37.1m) to first-half revenue](https://techcabal.com/2026/08/24/mtn-sees-nigeria-rebound-as-airtime-lending-returns/). The group [expects the whitelisted customer base to rebuild through the third and fourth quarters](https://techcabal.com/2026/08/24/mtn-sees-nigeria-rebound-as-airtime-lending-returns/) — its own forecast, and no regulator statement on the resumption is held. The jurisdictional question the suspension turned on is unresolved and before the Court of Appeal.
 
 One private figure crossed a round number. A digital bank [passed 30 million registered users in Nigeria](https://www.wearetech.africa/fr/fils/breves/breves-simple/la-banque-numerique-fairmoney-depasse-les-30-millions-dusagers-au-nigeria) on its own count, which is a registration total rather than an active or transacting one and has no earlier figure on the ledger to read it against.
+
+The survey behind the country's headline inclusion figure entered the base in full, and it is three years old. [Formal financial inclusion reached 64% of adults, about 71.7 million, in 2023 from 56% in 2020, banking uptake moving 51% to 52% and non-bank formal products 32% to 57%, on 26,930 interviews across all 36 states and the federal capital territory](https://a2f.ng/wp-content/uploads/2024/07/A2F-2023-SURVEY-REPORT-1.pdf); exclusion fell ten percentage points, but [roughly 28.9 million adults remain outside the formal system and the share counted financially healthy fell to 16%](https://thesun.ng/how-nigeria-can-bring-29m-adults-into-financial-system-nimasa-director-ani/). Fieldwork ran August to October 2023, so every payment-system change since sits outside it.
+
+On the cross-border rail the operator reported [Nigeria–Rwanda volumes approaching and in places exceeding Nigeria–Ghana, corridors with Cameroon, Niger and Benin growing on trade in Nigerian goods, and church contributions remitted from elsewhere in Africa as a notable component of activity](https://nairametrics.com/2026/09/05/nigerian-churches-drive-rising-cross-border-payments-across-africa-papss-says/) — no volumes, values or period attached to any of it. In the other direction, [diaspora inflows held steady at US$21.8bn in 2025 on central bank figures, against an average 8.46% cost to send US$200 into the region and app-based rivals quoting 2–3% on the London–Lagos corridor](https://techtrends.africa/how-remittance-startups-are-undercutting-western-union-across-africa/).
 <!-- /narrative -->
 ### Registries
 
@@ -198,6 +210,8 @@ A second register was put on the same path, without a date. The maritime adminis
 Federal [HR and payroll](https://fmino.gov.ng/fg-launches-ippis-human-resource-modules-deepens-digital-transformation-of-civil-service/) moved to a locally built platform across more than 508 ministries and more than 600,000 civil servants, justified explicitly as data sovereignty.
 
 The federal payroll is to be audited from the outside. The President [directed the finance minister on 28 August to coordinate a forensic audit of the integrated personnel and payroll information system and related payroll, pension and financial-management platforms - reconciling ghost-worker figures, tracing how ineligible persons were enrolled, reviewing access, identity, biometric and bank-account controls, and examining the interfaces with the financial management system and the Treasury Single Account](https://www.thisdaylive.com/2026/08/29/fake-agencies-tinubu-orders-forensic-sweep-of-ippis-ministries-fg-institutions/), alongside a definitive inventory of every federal agency and its legal basis.
+
+The delivery end of the social-protection architecture failed its audit. The Auditor-General's 2024 report states that [the government could not provide auditors with sufficient evidence that ₦33.75bn of cash transfers intended for more than 3,295,207 vulnerable households reached genuine beneficiaries, the payment platform's statements not having been supplied](https://punchng.com/falana-serap-demand-probe-into-n33-75bn-cash-transfer/), and a civil-society organisation puts over ₦78.8bn across social protection programmes as diverted, unaccounted for or irregularly spent. The audit report itself is not held, and no response from the agencies named is on file — but the finding is about the same register and the same rail the unified architecture is being designed on top of.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -209,6 +223,8 @@ At state level a second donor took the policy layer rather than the platform: on
 Two more federal fronts opened in the same week. The communications ministry [launched services.gov.ng as a single point of access to services previously spread across agency websites and offices](https://techafricanews.com/2026/08/18/nigeria-launches-centralised-gateway-portal-for-government-services/) — business registration, trade permits, identity verification, regulatory licensing and empowerment programmes — framed partly as a defence against fraudulent look-alike sites. No service count, transaction volume, cost or build attribution is published, and nothing states how it relates to the single sign-on portal soft-launched three weeks earlier. And on 19 August the IT development agency and the Hajj commission [agreed to digitise pilgrimage operations end to end, from registration and payment verification to flight manifests, logistics and pilgrim tracking](https://techafricanews.com/2026/08/19/nitda-and-nahcon-partner-to-fully-digitise-nigerias-hajj-operations/), the commission disclosing that its ICT function runs on two developers. It is an agreement to work together: no scope document, budget, timetable or procurement follows it.
 
 A state payroll moved onto one record. Ondo State [launched Ondo Pay on 4 September, bringing employee records, salary computation, approvals, reporting, payroll processing and pension migration into one environment with a mobile self-service application for payslips and permitted record updates](https://www.thisdaylive.com/2026/09/04/aiyedatiwa-ushers-in-new-era-of-digital-governance-with-ondo-pay/); the state says bank-verification-number integration, controlled access and auditable workflows are meant to remove duplicate and non-genuine records and unauthorised payments. No cost, vendor or headcount is published, so the claim cannot be tested against a payroll figure.
+
+The police opened a public fraud-reporting channel on 1 September, and it is the fourth such platform in a decade. [The app lets people report suspected financial fraud, upload evidence, track cases and receive feedback, built by the force's own ICT department with financial-sector stakeholders](https://techcabal.com/2026/09/07/nigerias-police-vigilant-app-raises-questions-duplicate-fraud-reporting/), and it arrives over a cybercrime centre already logging about 146,000 reports and about ₦58bn in recovered assets. Nothing published says how the new channel routes against the centre already running, or what became of the three earlier platforms.
 <!-- /narrative -->
 
 ## Digitalisation
@@ -219,6 +235,8 @@ A state payroll moved onto one record. Ondo State [launched Ondo Pay on 4 Septem
 Enugu [opened free digital storefronts, company-registration support, digital-trade training and payment enablement to 1,000 state businesses](https://itpulse.com.ng/enugu-launches-tradex-programme-to-support-1000-smes-with-digital-trade/) with Afreximbank's trade platform; cost, funder and selection method are unstated.
 
 Anambra began the second phase of its own state strategy, [expanding its OneGov platform to digitise government services and formalise small and medium enterprises](https://punchng.com/anambra-deepens-digital-push-targets-sme-formalisation/); the platform [logged about 14,000 visits over three weeks in July](https://punchng.com/anambra-deepens-digital-push-targets-sme-formalisation/) despite limited publicity. Visits are not registrations or transactions, and no service count, formalisation figure or cost is stated. A development agency separately [reaffirmed its support for the state's youth digital-skills programmes](https://von.gov.ng/undp-reaffirms-partnership-with-anambra-digital-economy/).
+
+One state measured its own agencies rather than announcing a platform. The Anambra ICT agency [assessed about 25 ministries, departments and agencies for digital compliance, data protection and readiness to deliver services digitally](https://von.gov.ng/anambra-assesses-25-mdas-for-digital-compliance/), reporting compliance with the 2023 data protection Act as uncertain in some of them and records management uneven. No scoring method, agency list or published report is held.
 <!-- /narrative -->
 ### Rural digital data capture
 
