@@ -1,11 +1,11 @@
 ---
 title: Sierra Leone — monthly update, August – September 2026
-compiled: 2026-09-06
-period: 2026-08-01 to 2026-09-06
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 place: SLE
-ledger_rows: 35
+ledger_rows: 37
 not_held: 6
-record: 4914f251f20a
+record: e94dedfe16e2
 ---
 
 # Sierra Leone: monthly update, August – September 2026
@@ -29,6 +29,8 @@ Delivering a ministerial statement on 4 August after [MPs demanded an explanatio
 
 
 The multi-agency answer to mobile-money fraud got a drafting session. A two-day workshop on 18 and 19 August [brought the central bank, the telecom and mobile-money operators and the cybersecurity bodies together to draft a roadmap](https://www.wearetech.africa/fr/fils/actualites/finance/sierra-leone-vers-une-feuille-de-route-contre-la-fraude-liee-au-mobile-money), after parliamentary pressure over identity-theft scams on one operator's network. No roadmap, deadline or funding line has been published.
+
+A data governance framework was named as in development for the first time. Meeting United Nations agencies on 5 September, the communications minister [named the framework alongside the government data centre at the telecommunications authority tower and a redundancy site at State House](https://sierraloaded.sl/news/communication-strengthens-partnership/). No draft, scope, adoption route or timetable is published for the framework, and the redundancy site appears here with no capacity or commissioning date — two things named into existence in one meeting.
 <!-- /narrative -->
 ### Legislation and regulation
 
@@ -97,6 +99,8 @@ In a 4 August ministerial statement responding to the mobile-money fraud surge, 
 A re-platforming of the national payment rails — real-time gross settlement and automated clearing — is reported to have been contracted in early August, but no award notice from the Bank of Sierra Leone or the procurement authority is published, and the aggregator listing that carried the figures is not an origin this base accepts. The award is not held, and no amount, supplier or scope is stated here on that basis.
 
 The same 4 August ministerial statement [disclosed about 390 Orange mobile-money fraud complaints logged in 2026 to date and more than 18,000 police requests for subscriber data answered](https://sierraleoneconcordtimes.com/government-unveils-multi-agency-strategy-to-tackle-rising-cyber-fraud/).
+
+A self-service route into pensions was announced. The social security trust [is to launch an application for pensioners and contributors with a short-code fallback for feature phones, biometric verification, and integration with the three mobile-money services](https://sierraloaded.sl/news/nassit-launch-mobile-app-pensioners/). It is announced rather than launched: no launch date, pensioner count, transaction route or fee arrangement is published, and the short-code fallback is the part that decides whether it reaches anyone outside the smartphone base.
 <!-- /narrative -->
 ### Registries
 
@@ -116,6 +120,8 @@ Two sectoral systems moved in the same week. The government [launched a digital 
 The National Public Procurement Authority [sent a delegation to Liberia on 6-7 August to study that country's electronic government procurement system](https://www.liberianobserver.com/news/liberia-s-e-gp-system-becomes-regional-model/article_578f3d8d-5076-43c2-8d63-594282d1476a.html). No Sierra Leonean platform, procurement decision or timetable follows from it on the record. The visit was reported on 12 August as [a deepening of bilateral cooperation between the two countries' regulators and procurement authorities on digital transformation and procurement transparency](https://techafricanews.com/2026/08/12/liberia-and-sierra-leone-deepen-cooperation-on-digital-transformation-and-e-governance/), which restates the same event rather than adding a commitment.
 
 Two systems the state watches itself with did move. The audit service's [management information system entered final user-acceptance testing after post-configuration training on 3 to 5 August](https://sierraleoneconcordtimes.com/audit-service-conducts-sierraseat-post-configuration-training/), built with World Bank funding by customising a platform of the African organisation of English-speaking supreme audit institutions, before it is declared operational. And the monitoring and evaluation agency is [expanding its information system for real-time remote tracking of the 100 to 250 public projects launched each year](https://apanews.net/namea-highlights-achievements-in-sierra-leone-project-oversight/). Neither account states a cost, a go-live date, or whether any of the tracked data reaches the public.
+
+The audit management system cleared its acceptance stage. It is [through user acceptance testing after post-configuration training for 25 audit service staff on 3 to 5 August, built for the state audit service with lender funding and regional audit-body support](https://afrosai-e.org.za/articles/audit-service-sierra-leone-advances-digital-transformation-with-sierraseat-post-configuration-training/). No go-live date, module list, cost or audit-cycle coverage is published, and the account comes from the regional audit body rather than from the audit service itself.
 <!-- /narrative -->
 
 ## Digitalisation

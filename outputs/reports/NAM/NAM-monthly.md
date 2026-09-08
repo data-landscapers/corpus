@@ -1,11 +1,11 @@
 ---
 title: Namibia — monthly update, August – September 2026
-compiled: 2026-09-06
-period: 2026-08-01 to 2026-09-06
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 place: NAM
-ledger_rows: 42
+ledger_rows: 43
 not_held: 11
-record: 72df2d87c8dc
+record: 47400bfd2b9b
 ---
 
 # Namibia: monthly update, August – September 2026
@@ -31,6 +31,8 @@ The ICT minister met a consultancy delegation in Windhoek on 3 August on trustwo
 
 <!-- narrative: governance--gov-legislate -->
 The Data Protection Bill has not moved. It [is still in finalisation and has not been tabled](https://www.namibian.com.na/govt-to-introduce-data-protection-bill-in-september/), against the September introduction the ministry had named. The bill has been described as being finalised across successive periods, and the electronic identity rollout it would govern begins in that same month.
+
+The instrument the accreditation was granted under is now held in full: [General Notice 953 of 2025 under the Electronic Transactions Act, brought into force on 15 June 2026, sets the regulator's accreditation regime for security products and services and for the certification service providers that supply them](https://www.lac.org.na/laws/annoREG/Electronic%20Transactions%20Act%204%20of%202019-Regulations%202025-953.pdf). No accreditation register, fee schedule or list of accredited products is published alongside it, so who else may apply and on what terms is established while who has is not.
 <!-- /narrative -->
 ### Data protection
 
@@ -70,6 +72,8 @@ The national data centre moved from a Cabinet directive to a budget line: it is 
 The trust layer beneath the September electronic identity launch was signed in the last week of the month. The communications regulator and a German identity vendor [signed an implementation agreement with the home affairs ministry connecting it to the regulator's national trust framework](https://www.itweb.africa/article/namibia-advances-national-digital-trust-framework/lwrKx73Y1pAqmg1o), with the regulator as national root certification authority and the ministry becoming the first certification service provider through the issue of electronic identity documents. It is the first named certification service provider on this ledger, and it arrives a fortnight before the credential it is meant to certify.
 
 A private initiative opened alongside it. A Namibian technology company [launched the Global Cybersecurity Initiative in Windhoek, a pan-African platform presented as connecting businesses, governments and innovators for commercial partnership rather than as an exhibition, opening across Namibia, Kenya, Botswana, Ghana, Nigeria, Zambia and South Africa with a stated target of 52 African countries by 2029](https://www.thevillager.com.na/technology/2026/global-cybersecurity-initiative-unifying-africa-via-cybersecurity/). No government party, funding, governance arrangement or membership figure is published, and the [US$4bn a year its chairman gave as Africa's cybercrime losses](https://www.thevillager.com.na/technology/2026/global-cybersecurity-initiative-unifying-africa-via-cybersecurity/) comes without a source.
+
+The trust chain acquired its first link below the root, and the state is on both ends of it. The regulator [accredited the home affairs, immigration, safety and security ministry as the country's first certification service provider, on a four-year accreditation announced in Windhoek on 1 September following the key-signing ceremony of 28 August](https://neweralive.na/home-affairs-becomes-namibias-first-certification-service-provider/). No second provider is on the record.
 <!-- /narrative -->
 
 ## DPI
