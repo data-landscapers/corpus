@@ -147,11 +147,34 @@ python scripts/rebuild.py --catalogue                 # BUILD stage 2 + 2b: cata
 python scripts/build-names-index.py --stats           # size profile, writes nothing (from .workroot)
 ```
 
+### The title and hero index — the search itself
+
+`scripts/build-title-index.py` (BUILD stage 2d) writes `outputs/titles/`: every catalogue title and
+hero line, in prefix shards on the same machinery as the names index (`scripts/shard_lib.py` is the
+machinery, shared by both). Since 2026-09-08 this is where the page's title search happens — the
+per-row search blob no longer carries either field, and `catalogue.py` packs these shard keys into
+the page beside the names ones.
+
+**It reads `outputs/` and nothing else**, so unlike the names index it can be rebuilt without the
+vault to hand — which is the point, because after Part 3 of the split this *is* the search. It sits
+in stage 2 all the same, because that is when the catalogue it reads was written.
+
+```bash
+python scripts/build-title-index.py                   # -> outputs/titles/  (no vault needed)
+python scripts/build-title-index.py --stats           # size profile, writes nothing
+python scripts/test_title_index.py                    # word-aligned queries find their records
+```
+
+**What a query can and cannot reach is stated in that file's own header**, and it is a narrowing
+against the substring match it replaced: a search starting mid-word no longer matches. The two
+things that are *not* narrowings, because the page's key rule mirrors the builder's, are a query
+opening on a stopword and a query with accents on it.
+
 ### Entity display names
 
 `scripts/build-entity-names.py` (BUILD stage 2c) writes `lookups/entity-names.csv` — a display name per entity slug, derived from the slug's own sources; `catalogue.py` writes a name for the unnamed rest at build time and ships it as `entpretty` (2026-09-08 — it used to be done in the reader's browser, and the baked first screen needs the labels here). Only the derived names join the search blob: a prettified one is the slug again, and the slug is already in it. **The file is meant to be corrected by hand**: `basis: hand` is never overwritten; `basis` (`acronym`/`full`/`partial`) and `sources` say how much to trust a row. It is Corpus's file: the slugs are OSINT's, how they are written is decided here.
 
-**`outputs/names/` is gitignored, and `site/catalogue/names/` is no longer tracked either** — the shards moved to R2 on 2026-09-08 (`documentation/editions-serving-shape.md`, `scripts/r2-sync.py`). `catalogue.py` still writes them into `site/` on every build, because that is what `r2-sync.py` uploads from; `--prune-local` deletes the local copy once the bucket has it, and until it runs they sit in the tree untracked. Do not `git add` them. `outputs/catalogue/doc-ids.csv` **is tracked and must stay so**: the append-only registry that keeps postings stable; rebuilding it renumbers every id and rewrites every shard.
+**`outputs/names/` and `outputs/titles/` are gitignored, and neither `site/catalogue/names/` nor `site/catalogue/titles/` is tracked** — the shards moved to R2 on 2026-09-08 (`documentation/editions-serving-shape.md`, `scripts/r2-sync.py`). `catalogue.py` still writes both into `site/` on every build, because that is what `r2-sync.py` uploads from; `--prune-local` deletes the local copy once the bucket has it, and until it runs they sit in the tree untracked. Do not `git add` them. `outputs/catalogue/doc-ids.csv` **is tracked and must stay so**: the append-only registry that keeps postings stable; rebuilding it renumbers every id and rewrites every shard.
 
 **The shards are exempt from §9, deliberately.** Nothing cites a shard; it is a derived lookup that must track the corpus or it is wrong. Shards are rewritten in place and stale ones deleted, in both trees — the one place "never purged" does not apply. Ids are append-only, and both writers compare before writing, so expect a handful of changed shards per cycle. A rebuild that changes all of them means the id registry was rewritten rather than appended to — that is the bug to look for.
 

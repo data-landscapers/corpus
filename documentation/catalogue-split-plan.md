@@ -2,7 +2,7 @@
 type: plan
 title: catalogue-split-plan.md — how the catalogue split gets done, in four shippable parts
 last_reviewed: 2026-09-08
-status: live — Part 1 done 2026-09-08; 2, 3 and 4 to land before go-live
+status: live — Parts 1 and 2 done 2026-09-08 (2 needs an R2 upload and a Worker deploy); 3 and 4 to land before go-live
 ---
 
 # Doing the catalogue split
@@ -123,6 +123,49 @@ would silently narrow what search finds — the results just look thinner and no
 
 *Done when:* a search that matches only on hero text returns the same rows it does today.
 
+> **Done, 2026-09-08 — with one step left that is not CC's to take: see *What is not live yet*
+> below.** `scripts/build-title-index.py` writes `outputs/titles/`, 23,682 titles and hero lines
+> over **1,675 shards, 9.22 MB gzipped, median 0.9 KB a query and 17.6 KB at the ninetieth
+> percentile**. Title and hero have come *out* of the page's per-row blob, so this is a switch and
+> not an addition: the page searches them through a shard fetch now, and a reader who browses
+> without searching never touches either.
+>
+> **The machinery is shared, not copied.** `scripts/shard_lib.py` was lifted out of
+> `build-names-index.py` — doc ids, bucketing, splitting, writing, the size profile — and both
+> builders sit on it. The names index rebuilt **byte-identical across all 5,682 shards and its
+> manifest** after the lift, which is what says the refactor changed nothing.
+>
+> **Three things the plan did not anticipate, all of them found by measuring:**
+> - **Accents.** 5,028 of 23,739 texts tokenise differently with the accents on, in a corpus a
+>   fifth French and Portuguese. The shard *key* is folded and the text and the match are not, so
+>   `côte` still matches Côte and `cote` still does not — exactly as the blob behaved.
+> - **457 texts no word can key**, nearly all Arabic titles. They live in one fallback shard the
+>   page asks for when a query yields no key of its own; without it they would have been reachable
+>   by facet and by nothing else, silently.
+> - **The page must compute its key the way the builder does, padding and all.** Slicing the bare
+>   query word tried `sa`, found it had been re-cut into `sa_`/`sab`/`sac`, and gave up. And the
+>   key is taken from the first word of the query that *could* be one, so `the digital` reaches
+>   what `digital` reaches — the stopword narrowing this plan would have shipped is not there.
+>
+> **The one real narrowing is a query that starts mid-word**: `ercafes` no longer finds
+> `Cybercafes`. That is the price of not shipping 20,000 titles to every visitor, and it is stated
+> in `build-title-index.py`, in `RENDER.md` and in the test.
+>
+> *Proof.* `scripts/test_title_index.py` lifts `shardKeyFor` and `hitsFrom` out of the built page
+> and runs **9,948 word-aligned queries cut from the corpus's own text, 1,441 of them from hero
+> lines**: every one returned the record it came from, and all 855,167 records returned hold the
+> query. Node is still absent here (see *The risk*), so it ran in the browser with `fs` and
+> `process` shimmed onto synchronous XHR. The page itself was then driven: `escrow payments` — a
+> phrase in one hero and in no title — returns that one record, which is the done-when in the
+> literal form it was written in.
+>
+> **What is not live yet.** The shards are derived data and go to R2 with `names/`, which needs
+> **`python scripts/r2-sync.py --apply`** and **a deploy of `workers/download-log/worker.js`**,
+> whose `R2_PREFIX` now carries `catalogue/titles/`. Both are in this commit as source; neither
+> has been run. Until they are, `site/catalogue/titles/` exists only locally and untracked, so a
+> Pages deploy would 404 every title shard and search would return publishers and slugs only.
+> **Nothing else in Part 2 is waiting on anything.**
+
 ### Part 3 — Filter index and row-text chunks
 
 **The big one, and it depends on nothing but is best done after Part 1**, so that a failure still
@@ -135,6 +178,12 @@ leaves a page that draws.
 - **Row-text chunks**, fixed 500-row files in stored order: title, URL, slug, hero, plus the five
   fields the export needs. **~177 KB raw per chunk** at 40,000, fetched only for rows about to be
   drawn.
+- **The slug has to join the title index when it leaves the payload.** Part 2 left it in the
+  in-memory blob because it was still there to leave; Part 3 takes it out. A record whose `url:`
+  is a documented absence is cited *to this page* by slug (`report-render.slug_offline()`,
+  notes-for-corpus 22), so an unsearchable slug lands those citations on nothing. It is one word
+  in `build-title-index.py`'s `FIELDS`, and the date prefix keys on nothing, so a pasted slug
+  finds its shard through the first real word in it.
 
 **State in `catalogue.py` that the chunk files are internal and carry no stability promise**, and
 that `raw-catalogue.csv` is the supported way to consume this data. Say it in the file that writes
@@ -182,6 +231,6 @@ assuming on the day:
 | Part | State |
 |---|---|
 | 1 — bake the first screen | **done 2026-09-08** |
-| 2 — title and hero search shards | not started |
+| 2 — title and hero search shards | **built and proven 2026-09-08**; needs an R2 upload and a Worker deploy to be live |
 | 3 — filter index and row-text chunks | not started |
 | 4 — drop `raw-catalogue.json` | not started |

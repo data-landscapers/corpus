@@ -95,14 +95,24 @@ logs/.osint-cycle-seen
 # advancing its watermark, so the close it held over runs when the file comes out.
 logs/.hold-cycle
 
-# The names index as built, before it is published. `build-names-index.py` writes ~1,900
-# shards here and `catalogue.py` copies them to `site/catalogue/names/`, so tracking both
-# would put 37 MB and 3,778 files into the history to hold one artefact twice. The published
-# copy under `site/` is the one the record needs; this is the intermediate that made it, and
-# it rebuilds from `raw/` in about a minute. `outputs/catalogue/doc-ids.csv` is deliberately
-# NOT ignored — it is the append-only registry that keeps the shards stable, and losing it
-# would renumber every posting and rewrite every shard.
+# The two prefix-shard indexes as built, before they are published: names occurring in
+# source bodies, and the catalogue's own titles and hero lines. `catalogue.py` copies both
+# into `site/catalogue/`, and since 2026-09-08 `r2-sync.py` puts them in R2 and deletes the
+# local copy — so **neither tree is tracked and the bucket is the record**. They are pure
+# derived data: 33 MB and 7,300 files, rebuilt by two commands, cited by nothing.
+# `outputs/catalogue/doc-ids.csv` is deliberately NOT ignored — it is the append-only
+# registry that keeps both sets of postings stable, and losing it would renumber every
+# posting and rewrite every shard in both.
 outputs/names/
+outputs/titles/
+
+# And their published copies. Untracked since the shards moved to R2 (2026-09-08):
+# `catalogue.py` rewrites both on every build because that is what `r2-sync.py` uploads
+# from, and `--prune-local` clears them once the bucket has them. Ignored rather than
+# merely untracked, because 7,357 files reappearing in the tree after every build is
+# exactly the shape a `git add -A` puts back into the history without anyone deciding to.
+site/catalogue/names/
+site/catalogue/titles/
 
 # A filler run's own scratch: the slice tallies its sub-agents write back through, named
 # with a leading dot by the sessions themselves. The run CSVs beside them are the record

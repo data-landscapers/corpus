@@ -16,7 +16,7 @@ than a 404. `--prune-local` is the only irreversible step and it refuses to touc
 not just seen in the bucket, byte-count and MD5 both.
 
 **What moves.** Dated editions under `reports/`, `topics/`, `countries/` and `finance/`, and the
-`catalogue/names/` shards. What does not: every HTML page, the assets, `raw-catalogue.csv` —
+`catalogue/names/` and `catalogue/titles/` shards. What does not: every HTML page, the assets, `raw-catalogue.csv` —
 which §9 keeps deliberately undated, so it is not an edition and never matches — and `bulletin/`,
 which is an edition by the grammar and stays anyway, for the reason recorded at `STAYS`.
 
@@ -55,8 +55,9 @@ _spec.loader.exec_module(ed)
 
 # Derived data with no claim on the published origin: fetched by the catalogue's own JS, never
 # cited, never linked, and rebuilt from `outputs/` in one command. Must match the Worker's
-# R2_PREFIX exactly.
-PREFIXES = ("catalogue/names/",)
+# R2_PREFIX exactly. `titles/` joined `names/` on 2026-09-08 (split plan Part 2) and is the
+# same kind of thing in every respect that matters here.
+PREFIXES = ("catalogue/names/", "catalogue/titles/")
 
 # **The bulletin stays on GitHub Pages, and that is a decision rather than an oversight.** Its
 # editions are deleted on a stated seven-day window instead of on downloads, so they never

@@ -298,6 +298,12 @@ def main():
         # the same catalogue, so it belongs here; hand corrections in
         # `lookups/entity-names.csv` survive a rebuild.
         print("stage 2c — entity display names:"); run("build-entity-names.py")
+        # The title and hero index. It reads no bodies at all — only the catalogue this
+        # stage just wrote — so it is here because that is what it depends on, not
+        # because it needs the vault. `build-title-index.py` says why that matters:
+        # after Part 3 of the split it is the search, and a search that could be
+        # missing whenever the vault was not to hand is not one.
+        print("stage 2d — title and hero index:"); run("build-title-index.py")
         print("stage 2a — scope lint (reports, never gates):"); scope_lint()
     if a.all or a.finance:
         print("stage 3 — finance + budgets (all places):"); run("build-finance-page.py", "--all")

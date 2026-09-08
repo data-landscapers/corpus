@@ -43,12 +43,13 @@ OUTPUTS = CORPUS / "outputs"
 SITE = CORPUS / "site"
 VOCAB = CORPUS / "outputs" / "vocab"
 NAMES = CORPUS / "outputs" / "names"
+TITLES = CORPUS / "outputs" / "titles"
 DOC_IDS = CORPUS / "outputs" / "catalogue" / "doc-ids.csv"
 
 ENTITY_NAMES = CORPUS / "lookups" / "entity-names.csv"
 BUILD_CATALOGUE = CORPUS / "scripts" / "build-catalogue.py"
 
-from names_lib import shard_file, shard_key  # noqa: E402  — see there for the WIN_RESERVED rule
+from names_lib import KEYSTOP, shard_file, shard_key  # noqa: E402  — see there for the WIN_RESERVED rule
 SITE_BASE = "https://corpus.data-landscapers.io"
 MAIN_SITE = "https://data-landscapers.io"
 
@@ -99,6 +100,44 @@ def stamp(path: Path) -> str:
     actually move. A query string is enough: GitHub Pages serves the file and
     ignores it (`RENDER.md`), so no filename and no link anywhere else changes."""
     return "?v=" + hashlib.sha256(path.read_bytes()).hexdigest()[:8]
+
+
+def publish_shards(src: Path, dst: Path, meta: dict | None, label: str) -> int:
+    """Copy the shards a manifest names into `site/`, and prune whatever it does not.
+
+    Both indexes are published this way and the rules are the same for each: copy
+    only what changed, so an unchanged shard keeps its mtime and stays out of the
+    diff; prune by **filename** rather than by the key it decodes to, which is what
+    a stray `aux.txt` survived once; and then check that every key the page is about
+    to be handed has a file behind it. A missing shard is a search that quietly
+    returns less, not an error a reader would ever see.
+    """
+    if meta is None:
+        return 0
+    dst.mkdir(parents=True, exist_ok=True)
+    want = set(meta["shards"])
+    n = 0
+    for f in sorted(src.glob("*.txt")):
+        if shard_key(f.name) not in want:
+            continue
+        out = dst / f.name
+        if not out.exists() or out.read_bytes() != f.read_bytes():
+            shutil.copyfile(f, out)
+        n += 1
+    want_files = {shard_file(k) for k in want}
+    for stale in dst.glob("*.txt"):
+        if stale.name in want_files:
+            continue
+        try:
+            stale.unlink()
+        except OSError as exc:
+            print(f"catalogue: could not delete {stale.name} ({exc}). If it is a "
+                  f"Windows device name, remove it with:  del \\\\?\\{stale.resolve()}")
+    gone = sorted(k for k in want if not (dst / shard_file(k)).is_file())
+    if gone:
+        raise SystemExit(f"catalogue: {len(gone)} {label} shard(s) named in the manifest "
+                         f"are missing from site/: {', '.join(gone[:10])}")
+    return n
 
 
 def catalogue_dir() -> Path:
@@ -576,8 +615,15 @@ SCRIPT = r"""
     // and a record whose `url:` is a documented absence is cited *to this page* by slug
     // (`report-render.slug_offline()`, notes-for-corpus 22), which lands on nothing at all
     // unless the slug is searchable. Verbatim rather than de-hyphenated so an exact slug
-    // matches exactly one row; the title words in it are already reachable through r[0].
-    r._s = (r[0] + ' ' + r[1] + ' ' + (r[12] || '') + ' ' + r[7] + ' ' +
+    // matches exactly one row.
+    //
+    // **Title and hero have left this blob** (split plan Part 2). They are the two
+    // longest strings on a record — 1.59 MB and 1.57 MB of the corpus against 0.60 MB
+    // of publisher — and they are searched through the `titles/` shards now, one fetch
+    // per query, so a reader who browses without searching never pays for them at all.
+    // What is left is short: a publisher out of a 6,046-value vocabulary, the slug, and
+    // the actor tags, which arrive dictionary-encoded already.
+    r._s = (r[1] + ' ' + r[7] + ' ' +
             r[10].join(' ').replace(/-/g, ' ') + alias).toLowerCase();
     // The year facet counts and filters on the *bucket*, not on the year: everything
     // before 2020 is one option (prep/catalogue.md §8). The base thins out fast going
@@ -587,27 +633,94 @@ SCRIPT = r"""
     r._y = y && +y < 2020 ? PRE : y;
   });
 
-  // ---- names index (stage 3) -------------------------------------------------
-  // The page ships the shard *keys* only. A shard is fetched the first time a
-  // query needs it, cached for the session, and never fetched at all by a reader
-  // who browses without searching. Everything here degrades to the in-memory
-  // search if the fetch fails, so a reader on a bad connection loses the extra
-  // matches and nothing else.
-  var NAMES = D.names || null, KEYS = {}, SHARDS = {}, nameHits = null, nameSeq = 0, nameBusy = false;
+  // ---- the prefix-shard indexes ----------------------------------------------
+  // Two of them, built the same way and fetched the same way. `titles/` holds what
+  // the catalogue says about a source — its title and the hero line under it, which
+  // used to be searched out of the per-row blob above. `names/` holds the names
+  // occurring inside the source itself, which never were.
+  //
+  // **The page ships each index's shard keys and nothing else**, so a first search
+  // costs one request rather than a manifest round trip and then a shard. A shard is
+  // fetched the first time a query needs it, cached for the session, and never
+  // fetched at all by a reader who browses without searching.
+  //
+  // **What a fetch failing costs is not what it used to.** A dropped names shard
+  // loses the extra matches and nothing else, as before. A dropped *title* shard now
+  // loses the title matches themselves — the price of not shipping 20,000 titles to
+  // every visitor, paid on a bad connection instead of on every page load.
   var WINRESERVED = {con:1, prn:1, aux:1, nul:1};
-  if (NAMES) for (var ni = 0; ni < NAMES.keys.length; ni++) KEYS[NAMES.keys[ni]] = 1;
+  var KEYSTOP = {};
+  (D.keystop || []).forEach(function(w){ KEYSTOP[w] = 1; });
+  var COMBINING = /[\u0300-\u036f]/g, NOTWORD = /[^0-9a-z]+/;
 
-  function shardKeyFor(q){
-    // The longest shard key that prefixes the query. Fat prefixes were re-cut
-    // deeper at build time and the short key then does not exist, so exactly one
-    // of these can match.
-    if (!NAMES || q.length < NAMES.minq) return null;
-    for (var w = Math.min(5, q.length); w >= 2; w--){ var k = q.slice(0, w); if (KEYS[k]) return k; }
-    return null;
+  function Shard(meta, dir){
+    this.meta = meta; this.dir = dir; this.keys = {};
+    this.cache = {}; this.hits = null; this.busy = false; this.seq = 0;
+    this.fallback = meta && meta.fallback;
+    if (meta) for (var i = 0; i < meta.keys.length; i++) this.keys[meta.keys[i]] = 1;
   }
+  // A plain function, not only a method, so that a test can lift it out of the built
+  // page and run it — the same reason `rowHTML` and `optsHTML` are plain
+  // (`scripts/test_title_index.py`, `scripts/test_catalogue_firstscreen.py`).
+  Shard.prototype.keyFor = function(q){ return shardKeyFor(this, q); };
+  function shardKeyFor(ix, q){
+    if (!ix.meta || q.length < ix.meta.minq) return null;
+    // **The key is cut from the first word of the query that could be one**, not from
+    // the query's own first characters, and the accents come off first. `the digital`
+    // would otherwise ask for the `th` shard — which exists, for `Thailand` and
+    // `through`, and holds nothing a stopword put there — and `côte` would ask for no
+    // shard at all. Both are how `shard_lib.key_of` cut the keys in the first place;
+    // `KEYSTOP` arrives in the payload rather than being restated here, because a
+    // second copy of that word list is a copy that would eventually disagree.
+    //
+    // None of this widens what *matches*: `hitsFrom` still tests the query as typed.
+    var toks = (q.normalize ? q.normalize('NFD').replace(COMBINING, '') : q).split(NOTWORD);
+    for (var t = 0; t < toks.length; t++){
+      var w0 = toks[t];
+      if (w0.length < 2 || KEYSTOP[w0]) continue;
+      // Longest first, over the word **padded** — `(w + '__')[:width]`, which is
+      // `shard_lib.key_of` verbatim. A fat prefix was re-cut deeper at build time and
+      // the short key then does not exist, so exactly one width can match; and a word
+      // shorter than the width it was cut at lives under the padded key, which is what
+      // makes `SA's` reachable at all once `sa` has been split into `sa_`, `sab`, `sac`.
+      // Slicing the bare word tried `sa`, found it gone, and gave up.
+      var pad = w0 + '__';
+      for (var w = 5; w >= 2; w--)
+        if (ix.keys[pad.slice(0, w)]) return pad.slice(0, w);
+    }
+    // No word in the query could be a key. The texts no word could key live in one
+    // shard of their own — 457 of them, nearly all Arabic titles — and asking for it
+    // is the only way they are reachable at all.
+    return ix.fallback && ix.keys[ix.fallback] ? ix.fallback : null;
+  }
+  Shard.prototype.refresh = function(q){
+    var self = this, k = this.keyFor(q), seq = ++this.seq;
+    this.busy = false;
+    if (!k){ this.hits = null; return; }
+    if (this.cache[k] !== undefined){ this.hits = hitsFrom(this.cache[k], q); return; }
+    if (!window.fetch){ this.hits = null; return; }
+    this.hits = null; this.busy = true;
+    // `con`, `prn`, `aux` and `nul` are Windows device names and cannot be filenames
+    // there, so the builder escapes them with a trailing hyphen. The key stays bare
+    // everywhere else — this is the one place the two differ.
+    fetch(this.dir + '/' + (WINRESERVED[k] ? k + '-' : k) + '.txt')
+      .then(function(res){ return res.ok ? res.text() : null; })
+      .then(function(t){
+        self.cache[k] = t;
+        if (seq !== self.seq) return;         // a later keystroke has overtaken this one
+        self.busy = false; self.hits = hitsFrom(t, q); redraw(false);
+      })
+      .catch(function(){
+        self.cache[k] = null;
+        if (seq !== self.seq) return;
+        self.busy = false; redraw(false);
+      });
+  };
+
   function hitsFrom(text, q){
-    // `Name<TAB>d,d,d`, ids delta-encoded. No offsets and no order — there is
-    // nothing here to render as a snippet, and the page never tries.
+    // `Text<TAB>d,d,d`, ids delta-encoded. No offsets and no order — for the names
+    // index there is nothing here to render as a snippet and the page never tries;
+    // for the titles it would be pointless, because the row carries the title anyway.
     var ids = null;
     if (!text) return null;
     ids = {};
@@ -621,28 +734,15 @@ SCRIPT = r"""
     }
     return ids;
   }
-  function refreshNames(){
-    var q = state.q, k = shardKeyFor(q), seq = ++nameSeq;
-    nameBusy = false;
-    if (!k){ nameHits = null; return; }
-    if (SHARDS[k] !== undefined){ nameHits = hitsFrom(SHARDS[k], q); return; }
-    if (!window.fetch){ nameHits = null; return; }
-    nameHits = null; nameBusy = true;
-    // `con`, `prn`, `aux` and `nul` are Windows device names and cannot be filenames
-    // there, so the builder escapes them with a trailing hyphen. The key stays bare
-    // everywhere else — this is the one place the two differ.
-    fetch('names/' + (WINRESERVED[k] ? k + '-' : k) + '.txt')
-      .then(function(res){ return res.ok ? res.text() : null; })
-      .then(function(t){
-        SHARDS[k] = t;
-        if (seq !== nameSeq) return;          // a later keystroke has overtaken this one
-        nameBusy = false; nameHits = hitsFrom(t, q); redraw(false);
-      })
-      .catch(function(){
-        SHARDS[k] = null;
-        if (seq !== nameSeq) return;
-        nameBusy = false; redraw(false);
-      });
+
+  var TITLES = new Shard(D.titles || null, 'titles'),
+      NAMES = new Shard(D.names || null, 'names'),
+      MINQ = (D.titles && D.titles.minq) || (D.names && D.names.minq) || 3;
+  function refreshHits(){ TITLES.refresh(state.q); NAMES.refresh(state.q); }
+  function shardHit(r){
+    var id = r[11];
+    if (id < 0) return false;      // no stable id, so nothing can post against it
+    return !!((TITLES.hits && TITLES.hits[id]) || (NAMES.hits && NAMES.hits[id]));
   }
 
   // ---- downloading a selection ----------------------------------------------
@@ -798,8 +898,7 @@ SCRIPT = r"""
   }
 
   function passes(r, skip){
-    if (state.q && r._s.indexOf(state.q) === -1 &&
-        !(nameHits && r[11] >= 0 && nameHits[r[11]])) return false;
+    if (state.q && r._s.indexOf(state.q) === -1 && !shardHit(r)) return false;
     if (skip !== 'places' && state.places.length && !state.places.some(function(v){return r[3].indexOf(v)>-1;})) return false;
     if (skip !== 'topics' && state.topics.length && !state.topics.some(function(v){return r[4].indexOf(v)>-1;})) return false;
     if (skip !== 'ents'   && state.ents.length   && !state.ents.some(function(v){return r[10].indexOf(v)>-1;})) return false;
@@ -993,11 +1092,13 @@ SCRIPT = r"""
     var note = 'Browsing ' + ROWS.length.toLocaleString() + ' catalogue records. Filter state is in the URL — copy the address bar to share this view.';
     if (VIEW.length && VIEW.length < ROWS.length)
       note += ' A downloaded selection carries the same sixteen columns as the whole-catalogue file, cut in your browser from the build you are looking at — so cite this view’s URL rather than the file, and it will re-cut against whatever the catalogue holds when it is opened. The JSON records the filter that produced it.';
-    if (NAMES){
-      if (nameBusy) note = 'Also searching ' + NAMES.n.toLocaleString() + ' names found in the sources…';
-      else if (nameHits) note = 'Includes matches on names occurring in the sources, not only in titles. ' + note;
-      else if (state.q && state.q.length < NAMES.minq) note = 'Type ' + NAMES.minq + ' characters or more to search names inside the sources. ' + note;
-    }
+    if (TITLES.busy || NAMES.busy)
+      note = 'Searching titles and the names found inside the sources…';
+    else if (state.q && state.q.length < MINQ)
+      note = 'Type ' + MINQ + ' characters or more to search titles and the text of ' +
+             'the sources. A shorter search matches publishers, slugs and actors only. ' + note;
+    else if (NAMES.hits)
+      note = 'Includes matches on names occurring in the sources, not only in titles. ' + note;
     document.getElementById('note').textContent = note;
   }
   function esc(s){ return String(s).replace(/[<>&]/g, function(c){ return {'<':'&lt;','>':'&gt;','&':'&amp;'}[c]; }); }
@@ -1041,13 +1142,13 @@ SCRIPT = r"""
   document.addEventListener('click', function(e){
     var t = e.target;
     if (t.dataset && t.dataset.rm){
-      if (t.dataset.rm === 'q'){ state.q = ''; document.getElementById('q').value = ''; refreshNames(); }
+      if (t.dataset.rm === 'q'){ state.q = ''; document.getElementById('q').value = ''; refreshHits(); }
       else { var a = state[t.dataset.rm], i = a.indexOf(t.dataset.v); if (i > -1) a.splice(i, 1); }
       redraw();
     }
     if (t.id === 'clearall'){
       state.q = ''; FACETS.forEach(function(k){ state[k] = []; });
-      document.getElementById('q').value = ''; refreshNames(); redraw();
+      document.getElementById('q').value = ''; refreshHits(); redraw();
     }
     if (t.dataset && t.dataset.add){
       var arr2 = state[t.dataset.add];
@@ -1077,10 +1178,10 @@ SCRIPT = r"""
     // 150 ms rather than 120: a shard fetch is a round trip, and on a poor mobile
     // link the round trip costs far more than the bytes. Debouncing is what keeps
     // a typed word to one request instead of one per character.
-    timer = setTimeout(function(){ state.q = v; refreshNames(); redraw(); }, 150);
+    timer = setTimeout(function(){ state.q = v; refreshHits(); redraw(); }, 150);
   });
   readHash();
-  refreshNames();
+  refreshHits();
   redraw();
 })();
 </script>
@@ -1132,11 +1233,22 @@ def main() -> int:
 
     nm = NAMES / "manifest.json"
     names_meta = json.loads(nm.read_text(encoding="utf-8")) if nm.exists() else None
+    payload_names = None
     if names_meta:
         payload_names = {"keys": names_meta["shards"], "minq": names_meta["min_query"],
                          "n": names_meta["names"], "built": names_meta["built"]}
-    else:
-        payload_names = None
+
+    # The title and hero index (`build-title-index.py`, split plan Part 2). Same
+    # shape, same fetch, and packed the same way — only the shard key list travels,
+    # about 8 KB, so the first search is one request rather than a manifest round
+    # trip and then a shard.
+    tm = TITLES / "manifest.json"
+    titles_meta = json.loads(tm.read_text(encoding="utf-8")) if tm.exists() else None
+    payload_titles = None
+    if titles_meta:
+        payload_titles = {"keys": titles_meta["shards"], "minq": titles_meta["min_query"],
+                          "n": titles_meta["documents"], "built": titles_meta["built"],
+                          "fallback": titles_meta.get("fallback")}
 
     # packed data the page reads
     # Only the slugs that *have* a derived name are shipped; the rest are absent and
@@ -1160,7 +1272,13 @@ def main() -> int:
     payload = {"places": places, "regions": regions, "topics": topics, "cats": cats,
                "torder": torder,
                "ents": ents, "entnames": derived, "entpretty": pretty,
-               "names": payload_names, "cols": csv_cols(),
+               "names": payload_names, "titles": payload_titles,
+               # The words a shard is never keyed on. The page has to skip exactly the
+               # ones `shard_lib.key_of` skips when it picks a key out of a query, or a
+               # search for "as access relays" asks for the `as` shard — which exists,
+               # for `assembly` and `association`, and does not hold the record wanted.
+               "keystop": sorted(KEYSTOP),
+               "cols": csv_cols(),
                "rawver": stamp(out_dir / "raw-catalogue.json"), "rows": rows}
     data_js = out_dir / "catalogue-data.js"
     with open(data_js, "w", encoding="utf-8") as fh:
@@ -1189,38 +1307,11 @@ def main() -> int:
                        script=SCRIPT.replace("{ver}", stamp(data_js)))
     (out_dir / "index.html").write_text(external_links(html), encoding="utf-8")
 
-    # publish the name shards, copying only what changed so an unchanged shard
-    # keeps its mtime and stays out of the diff
+    # publish both shard directories
     shard_dir = out_dir / "names"
-    n_shards = 0
-    if names_meta:
-        shard_dir.mkdir(parents=True, exist_ok=True)
-        want = set(names_meta["shards"])
-        for src in sorted(NAMES.glob("*.txt")):
-            if shard_key(src.name) not in want:
-                continue
-            dst = shard_dir / src.name
-            if not dst.exists() or dst.read_bytes() != src.read_bytes():
-                shutil.copyfile(src, dst)
-            n_shards += 1
-        # By filename, not by decoded key — see build-names-index.py's prune loop for
-        # why the difference matters.
-        want_files = {shard_file(k) for k in want}
-        for stale in shard_dir.glob("*.txt"):
-            if stale.name in want_files:
-                continue
-            try:
-                stale.unlink()
-            except OSError as exc:
-                print(f"catalogue: could not delete {stale.name} ({exc}). If it is a "
-                      f"Windows device name, remove it with:  del \\\\?\\{stale.resolve()}")
-        # Same promise, checked again on the published side (build-names-index.py
-        # → shard_file): the page fetches by key and a missing file is a silent
-        # shortfall, not an error a reader would ever see.
-        gone = sorted(k for k in want if not (shard_dir / shard_file(k)).is_file())
-        if gone:
-            raise SystemExit(f"catalogue: {len(gone)} shard(s) named in the names manifest "
-                             f"are missing from site/: {', '.join(gone[:10])}")
+    title_dir = out_dir / "titles"
+    n_shards = publish_shards(NAMES, shard_dir, names_meta, "names")
+    n_titles = publish_shards(TITLES, title_dir, titles_meta, "titles")
 
     idx = out_dir / "index.html"
     print(f"catalogue: {len(rows):,} records, {len(ents):,} entity slugs -> site/catalogue/  "
@@ -1228,6 +1319,17 @@ def main() -> int:
     print(f"  first screen baked into index.html: the newest "
           f"{min(SHOWN, len(rows)):,} rows and {baked['facets'].count('<label'):,} "
           f"facet options, {idx.stat().st_size/1024:.0f} KB of page")
+    if titles_meta:
+        print(f"  title index: {titles_meta['texts']:,} titles and hero lines over "
+              f"{n_titles:,} shards, fetched on demand")
+    else:
+        # After Part 3 of the split this is not a degraded search, it is no search at
+        # all — the titles will not be in the payload to fall back on.
+        print("  title index: not built — run scripts/build-title-index.py")
+        orphans = len(list(title_dir.glob("*.txt"))) if title_dir.exists() else 0
+        if orphans:
+            print(f"  WARNING: {orphans:,} published title shards under "
+                  f"site/catalogue/titles/ are now unreferenced.")
     if names_meta:
         print(f"  names index: {names_meta['names']:,} names over {n_shards:,} shards, "
               f"fetched on demand")

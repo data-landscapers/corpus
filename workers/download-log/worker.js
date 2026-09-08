@@ -46,7 +46,7 @@ const DOWNLOAD = /\.(pdf|csv)$/i;
 const EDITION = /-\d{4}-\d{2}-\d{2}(-\d+)?\.(pdf|csv)$/i;
 
 /** Derived data that is fetched, never cited, and has no claim on the published origin. */
-const R2_PREFIX = ["catalogue/names/"];
+const R2_PREFIX = ["catalogue/names/", "catalogue/titles/"];
 
 /**
  * The bulletin stays on GitHub Pages and is never looked for in R2.
