@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-08
 place: ZMB
 ledger_rows: 49
 not_held: 46
-record: 61d771da3124
+record: 41bec126e00c
 ---
 
 # Zambia: monthly update, August – September 2026
@@ -76,7 +76,7 @@ The technology ministry [put the country at about 26.2 million mobile subscripti
 
 A further Northern Province district administration was connected in August, and the account is unusually specific about what a connection reached. After the provincial ICT unit installed connectivity at Lupososhi District Administration and ran a virtual orientation on the national portal and two office collaboration tools, an official [printed a road-tax document from his own office instead of travelling to Kasama for it, days before it expired](https://techafricanews.com/2026/08/31/zamportal-teams-lupososhi-road-tax-local/). It is one office and one document: no district count, schedule or cost for the programme is published.
 
-A second account of the same period puts [internet subscriptions at 14.7m in 2025 against 10.4m in 2021, and mobile population coverage at 95% over 2022 to 2025](https://www.freightnews.co.za/article/giving-business-and-citizens-a-smart-edge-0). The coverage figure is government-reported and sits beside a separate ministerial claim of 94% for the same period — a gap of one point that nothing published reconciles, and a reminder that every coverage number here comes from the same source as the target it is measured against.
+A second account of the same period puts [internet subscriptions at 14.7m in 2025 against 10.4m in 2021, and mobile population coverage at 95% over 2022 to 2025](https://www.freightnews.co.za/article/giving-business-and-citizens-a-smart-edge-0). The coverage figure is government-reported and does not reconcile with the ministry's own separate claim for the same period — a reminder that every coverage number here comes from the same source as the target it is measured against.
 <!-- /narrative -->
 ### Energy
 
