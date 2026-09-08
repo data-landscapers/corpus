@@ -10,22 +10,33 @@ built on them would start a three-hour build in the middle of a conversation.
 
 What can tell them apart is already written and already crosses. The cycle's closing
 sequence sets the rotation row's `Start`, `End` and `Duration`, clears `New-Start`, writes
-the whole of it into **`cycle-manifest.json`** as `rotation`, **commits**, and only then
-mirrors. So:
+the whole of it into **`cycle-manifest.json`** as `rotation`, and only then mirrors. So:
 
   - **`rotation.newest_close.end` advances on a cycle close and on nothing else.** A manual
     mirror carries the same manifest across, the watermark here does not move, and this
     exits 1. A pass that mirrors without closing a rotation day rewrites the manifest and
     carries the same `newest_close` forward, which is the same non-event.
   - **Reading the new close from the mirror is itself the proof the mirror carried it.** An
-    `end` visible here cannot have arrived except by an FFS run that started after the commit
-    that wrote it. That is why nothing in this file reads FreeFileSync's exit code or its
-    session logs in `logs/mirror-ffs/` — which is just as well, because `SWEEP-CYCLE.md` says
-    plainly that nothing gates on that exit code.
-  - **Nothing changes on the OSINT side.** OSINT writes this signal for its own reasons and
-    has done since long before Corpus read it. There is no note to send, no new file, and no
-    dependency for OSINT to honour — which is the only version of this that respects the
-    read-only rule rather than working around it.
+    `end` visible here cannot have arrived except by a mirroring run that started after the
+    manifest carrying it was written. That is why nothing in this file reads FreeFileSync's
+    exit code or its session logs in `logs/mirror-ffs/` — which is just as well, because
+    `SWEEP-CYCLE.md` says plainly that nothing gates on that exit code.
+  - **The manifest is not a committed file** *(measured 2026-09-08; `notes-for-osint` 133)*.
+    This docstring used to say the closing sequence commits it, and the bullet above used to
+    rest the guarantee on "the commit that wrote it". Neither is so: OSINT's `.gitignore`
+    names `cycle-manifest.json` and no commit has ever touched it. The guarantee survives
+    unchanged — it never needed the commit, only that the manifest is written before the
+    mirroring pass that carries it — but two things follow that cost a night on 2026-09-07:
+    nothing in OSINT's history restores the file if a pass removes it, and its `head` field
+    and the history that field names are captured independently, so `head` can land either
+    side of HEAD. `osint_lib.read_manifest` already refuses the second case; the first is
+    what note 133 asks OSINT to close.
+  - **Nothing is asked of OSINT's writing.** OSINT writes this signal for its own reasons and
+    has done since long before Corpus read it: no new file, no new field, nothing to poll —
+    which is the only version of this that respects the read-only rule rather than working
+    around it. **What is asked, once, is that the file survive** — note 133, after it did not
+    on 2026-09-07. That is a smaller thing than a dependency to honour on every pass, but it
+    is not nothing, and this bullet used to claim it was.
 
 **It reads the manifest, not `logs/sweep-cycle_log.md`** *(2026-09-06, `notes-for-corpus`
 16)*. Until then this parsed OSINT's rotation table directly, header-asserted, because
