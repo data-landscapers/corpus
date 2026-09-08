@@ -3,9 +3,9 @@ title: Egypt — monthly update, August – September 2026
 compiled: 2026-09-08
 period: 2026-08-01 to 2026-09-08
 place: EGY
-ledger_rows: 83
+ledger_rows: 85
 not_held: 49
-record: 02c892ab3d31
+record: 3a92ea1f05e7
 ---
 
 # Egypt: monthly update, August – September 2026
@@ -78,6 +78,8 @@ The data-centre position moved by cancellation. [Telecom Egypt's board withdrew 
 <!-- narrative: ict-infrastructure--infra-connect -->
 An independent measurement published on 3 August 2026 gave the first full-year reading of Egypt's 5G launch. Six months after commercial service began in June 2025, the 5G median download speed had fallen to about 89 Mbps from 110.5 Mbps on launch day, and the combined 4G and 5G median stood at 34.77 Mbps against a pre-launch baseline of 37.68 Mbps ([measurement](https://www.ookla.com/articles/5g-north-africa-2026)). Egypt is the only one of the four North African launch markets with no published coverage or quality obligation attached to its award.
 
+The Red Sea bypass gained a builder. On 7 September the incumbent's agreement with Power Sub Link to construct the [200 km Sharm El Sheikh to Taba cable was reported, extending its Red Sea festoon into a continuous Suez – Zafarana – Ras Ghareb – Sharm El Sheikh – Taba route designed for about 5 petabits per second](https://capacityglobal.com/news/telecom-egypt-5pbs-red-sea-bypass/). Earlier accounts put the contractor as Greek; no cost, landing-station arrangement or in-service date is held either way.
+
 Attention has moved to the band above it. The incumbent, the regulator and a Chinese vendor [ran a mobile base station and a data call over upper 6 GHz on 19 August, reported at about 1.7 Gbps per user](https://itweb.africa/article/telecom-egypt-tests-high-capacity-spectrum/RgeVDqPRka37KJN3) and stated by the operator as the first such trial in Egypt and in Africa. It is a trial: no allocation, award, licence or commercial date follows it, and the throughput figure is the operator's own.
 
 GSMA Intelligence's country-by-country survey [puts Egyptian 5G take-up at 3 per cent](https://digitalmag.ci/acces-a-internet-etat-dadoption-de-la-technologie-5g-par-les-pays-africains/) and projects 60 per cent population coverage and 35 per cent take-up by 2030, crediting an early-2026 spectrum agreement with doubling operator capacity.
@@ -149,6 +151,10 @@ The unified card's terms reached the base. It is [issued free as a prepaid, fing
 
 <!-- narrative: technology--tech-ai -->
 The [second edition of the national artificial-intelligence strategy is unchanged as an instrument](https://gate.ahram.org.eg/News/5882834.aspx), with delivery bodies added around it — a responsible-AI centre established late 2025 and a university capacity programme. The ICT minister describes [Karnak, a locally contextual Arabic large language model, as available to startups as a base for applications](https://gate.ahram.org.eg/News/5670246.aspx); no release date, licence, parameter count, access terms or user count is held, and the strategy text itself is not held either.
+
+The compute under it was signed for on 8 September, when the communications minister attended a Cairo ceremony at which [Vodafone Business, Elsewedy Electric and Cassava Technologies undertook to establish Africa Data Centres Egypt and the country's first sovereign artificial-intelligence data centre](https://www.maspero.eg/economy/2026/09/08/987328/%DA%A4%D9%88%D8%AF%D8%A7%D9%81%D9%88%D9%86-%D9%88%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D9%8A-%D9%88%D9%83%D8%A7%D8%B3%D8%A7%D9%81%D8%A7-%D8%AA%D8%A4%D8%B3%D8%B3%D9%88%D9%86-%D8%A3%D9%83%D8%A8%D8%B1-%D9%85%D8%B1%D9%83%D8%B2-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%88%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1), the state framing both as localising advanced technology and hosting and processing data domestically. It is a signing: no site, date or capacity for the AI centre is stated.
+
+Public awareness is the one series here with two points on it. The cabinet information centre put those who had heard of artificial-intelligence applications at [65% in 2026 against 22% in 2023, work the leading use at 51.7% ahead of personal use and study, with about 94% of users rating the accuracy of the answers they get](https://www.youm7.com/story/2026/9/7/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D9%88%D8%B9%D9%8A-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%8A%D9%82%D9%81%D8%B2-%D9%85%D9%86-22-%D9%84%D9%8065/7538408). Sample size, method and margin are not stated.
 <!-- /narrative -->
 ### ICT Industry
 

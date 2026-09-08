@@ -3,9 +3,9 @@ title: Cote d'Ivoire — monthly update, August – September 2026
 compiled: 2026-09-08
 period: 2026-08-01 to 2026-09-08
 place: CIV
-ledger_rows: 49
+ledger_rows: 52
 not_held: 10
-record: c21001569e51
+record: 9a63fa0daa0c
 ---
 
 # Cote d'Ivoire: monthly update, August – September 2026
@@ -26,6 +26,8 @@ Money and institutions moved with them. The government [authorised a United Stat
 
 <!-- narrative: governance--gov-policy -->
 The draft cyber-security strategy for 2026 to 2030 was [put to stakeholder review on 23 July](https://www.aip.ci/cote-divoire-aip-cybersecurite-lanssi-prepare-une-nouvelle-strategie-nationale-face-a-la-montee-des-menaces-numeriques/) and awaits the Council of Ministers; the 2021 to 2025 text remains the instrument formally in force. The draft extends scope to artificial intelligence, emerging technologies and cloud.
+
+Closing the national workshop on prioritising public digital services on 4 September, the digital transition minister argued for [unified governance through a relaunched National Digital Council placed under the Prime Minister, presenting it as a condition of the state's digital transformation](https://www.linfodrome.com/economie/125096-digitalisation-des-services-publics-la-cote-d-ivoire-veut-un-pilote-unique-pour-ses-projets-d-etat), against a paperless state by 2030. It is an argument for a relaunch: no decree, membership or first meeting is held.
 
 The universal-service agency published its own five-year plan on 11 August. It [rests on four pillars — universal connectivity, digital services and financial inclusion, digital usage and literacy, and operational excellence — across ten projects, four of them funded at FCFA 60.144bn through the national development plan and six from the agency's own funds](https://digitalmag.ci/parlons-projet-gilles-thierry-beugre-devoile-le-plan-strategique-2026-2030-de-lansut/). The [stated targets are 300 newly connected localities, smartphone penetration of 80% by 2028 against 40% now, and more than 15,000 km of new fibre by 2028, against a starting point at which 70% of rural households have no internet access](https://digitalmag.ci/parlons-projet-gilles-thierry-beugre-devoile-le-plan-strategique-2026-2030-de-lansut/). No adoption instrument is published; the plan is the agency's own.
 
@@ -130,6 +132,8 @@ Four days into the invoicing checks the traders' federation answered with an ins
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
+The investment promotion centre runs an [e-Licences platform taking investor licences, permits and authorisations online](https://www.linfodrome.com/economie/125162-cote-d-ivoire-le-cepici-mise-sur-le-numerique-pour-fluidifier-le-parcours-des-investisseurs), with ministry focal points trained in late August 2026 to keep its content current. No count of licences carried or processing time is published.
+
 All 39 first-instance tribunals were [connected to the justice platform on 29 June 2026](https://www.fratmat.info/article/2642911/societe/e-justice-les-39-tribunaux-de-premiere-instance-desormais-connectes-au-reseau-numerique-ivoirien), completing an arc that began with a two-court pilot in January 2025; nationality certificates and criminal-record extracts are now issued digitally nationwide. The account describes this as completing phase one, with no phase-two scope or date. The regulator's compliance platform [went live on 2 July 2026](https://www.fratmat.info/article/2642985/economie/ntic/protection-des-donnees-a-caractere-personnel-certinum-entre-en-service-pour-accelerer-la-conformite-numerique-en-cote-divoire), slipping from a 25 June date, replacing about a hundred physical files a month with online submission, real-time tracking and traceability for conformity, processing authorisations and video-surveillance authorisations. It was built over two years and piloted by the identification office and the treasury.
 
 August turned to the supply side and to the state's own paperwork. The ministry [launched Ivoire GovTech Lab on 29 July, publishing government digitalisation projects for direct bidding by start-ups and small firms](https://iafrica.com/cote-divoire-opens-applications-for-30-company-tech-support-programme-as-ai-adoption-becomes-a-ministry-pillar/), opened applications for two 30-company support programmes, and set out a 2026-2028 roadmap naming artificial-intelligence adoption among seven strategic pillars; no project list, budget or award record for the lab is published. Separately the electronic-signature programme run by the public service ministry, which already covers the civil service, the tax administration and the construction and mining ministries, [reached the commerce ministry, whose leadership began enrolling on 12 August](https://digitalmag.ci/digitalisation-en-cote-divoire-le-ministere-du-commerce-integre-la-signature-electronique/). No certificate authority, standard, enrolment total or statement of legal effect is held for it.
@@ -175,6 +179,8 @@ The cyber agency and a technology school validated curricula for two cyber-secur
 
 <!-- narrative: inclusion--include-access -->
 Access moved by putting the counter where people already are. The civil-registry agency [opened an office inside a Yopougon shopping centre on 14 August](https://www.oneci.ci/actualites/1787127124). It is one site, with no opening hours, service list or plan for further locations published.
+
+On 4 September the national coordination of disabled people's associations and the incumbent operator [signed a partnership at Abobo Sogefiha for training in digital tools toward autonomy and employment, a first office-skills course already running at the coordination's headquarters, refurbished and equipped under the initiative](https://www.linfodrome.com/economie/125103-a-abobo-un-partenariat-strategique-pour-renforcer-l-inclusion-numerique-des-personnes-handicapees). It is an operator foundation's programme rather than a public one, and the base holds no state instrument on digital accessibility against which to read it.
 <!-- /narrative -->
 
 ## Data
