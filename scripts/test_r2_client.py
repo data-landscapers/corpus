@@ -183,16 +183,21 @@ def test_verify_refuses_on_size_and_on_md5():
         f.parent.mkdir(parents=True, exist_ok=True)
         f.write_bytes(b"the real bytes")
         key = "reports/KEN/KEN-status-2026-08-19.pdf"
-        good = {"size": 14, "etag": rc.etag_of(b"the real bytes")}
+        good = {"size": 14, "etag": rc.etag_of(b"the real bytes"), "type": "application/pdf"}
 
         check("intact verifies", rs.verify(FakeR2({key: good}), site, [f]), [])
         ok("missing blocks", rs.verify(FakeR2({}), site, [f]), "a missing object verified")
         ok("wrong size blocks",
-           rs.verify(FakeR2({key: {"size": 3, "etag": good["etag"]}}), site, [f]),
+           rs.verify(FakeR2({key: {**good, "size": 3}}), site, [f]),
            "a truncated object verified")
         ok("wrong md5 blocks",
-           rs.verify(FakeR2({key: {"size": 14, "etag": "0" * 32}}), site, [f]),
+           rs.verify(FakeR2({key: {**good, "etag": "0" * 32}}), site, [f]),
            "a corrupt object verified")
+        # Not data loss — the bytes are right — but after --prune-local there is no local copy
+        # to notice it against, and the reader gets a PDF the browser saves instead of opens.
+        ok("wrong content type blocks",
+           rs.verify(FakeR2({key: {**good, "type": "application/octet-stream"}}), site, [f]),
+           "an object with the wrong content type verified")
 
 
 def test_upload_skips_what_already_matches():
@@ -217,12 +222,43 @@ def test_upload_skips_what_already_matches():
             p.write_bytes(b"body")
         files = sorted(rs.candidates(site))
         held = {"reports/A/A-status-2026-08-19.pdf":
-                {"size": 4, "etag": rc.etag_of(b"body")}}
+                {"size": 4, "etag": rc.etag_of(b"body"), "type": "application/pdf"}}
         fake = FakeR2(held)
-        counts = rs.upload(fake, site, files, apply=True)
+        counts = rs.upload(fake, site, files, apply=True, workers=1)
         check("uploaded only the missing one", fake.put_keys,
               ["reports/B/B-status-2026-08-19.pdf"])
         check("counts", (counts["sent"], counts["skipped"]), (1, 1))
+
+
+def test_upload_corrects_a_wrong_content_type_in_place():
+    """A change to TYPES must self-heal on the next sync, not need the bucket emptied.
+
+    This is how the `.txt` name shards were repaired: 5,658 objects went up as
+    `application/octet-stream` before `.txt` was in the map, and matched on size and MD5 for
+    ever after. Comparing the type is what lets `--apply` put them right."""
+    class FakeR2:
+        def __init__(self, held):
+            self.held = held
+            self.put_types = {}
+
+        def head(self, key):
+            return self.held.get(key)
+
+        def put(self, key, data, ctype):
+            self.put_types[key] = ctype
+            return rc.etag_of(data)
+
+    with tempfile.TemporaryDirectory() as tmp:
+        site = Path(tmp)
+        p = site / "catalogue/names/ab.txt"
+        p.parent.mkdir(parents=True, exist_ok=True)
+        p.write_bytes(b"body")
+        key = "catalogue/names/ab.txt"
+        fake = FakeR2({key: {"size": 4, "etag": rc.etag_of(b"body"),
+                             "type": "application/octet-stream"}})
+        counts = rs.upload(fake, site, rs.candidates(site), apply=True, workers=1)
+        check("re-uploaded despite matching bytes", counts["sent"], 1)
+        check("with the right type", fake.put_types.get(key), "text/plain; charset=utf-8")
 
 
 def main() -> int:

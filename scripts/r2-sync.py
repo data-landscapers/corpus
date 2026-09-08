@@ -115,11 +115,19 @@ def upload(bucket: r2_client.R2, site: Path, files: list[Path], apply: bool,
     def one(f: Path):
         key = f.relative_to(site).as_posix()
         data = f.read_bytes()
+        want = r2_client.content_type(f)
         held = bucket.head(key)
-        if held and held["size"] == len(data) and held["etag"] == r2_client.etag_of(data):
+        # **The content type is part of "already current".** R2 hands back whatever was recorded
+        # at upload and the Worker copies it onto the response, so an object whose bytes are
+        # right and whose type is wrong is a PDF the browser saves instead of opening. Comparing
+        # it here is what makes a correction to `TYPES` self-heal on the next sync instead of
+        # needing the bucket emptied.
+        if (held and held["size"] == len(data)
+                and held["etag"] == r2_client.etag_of(data)
+                and held.get("type", "") == want):
             return (False, 0)
         if apply:
-            bucket.put(key, data, r2_client.content_type(f))
+            bucket.put(key, data, want)
         return (True, len(data))
 
     results = _each(files, one, workers, "uploaded" if apply else "checked")
@@ -140,6 +148,12 @@ def verify(bucket: r2_client.R2, site: Path, files: list[Path],
             return f"{key} — {held['size']} bytes in the bucket, {len(data)} on disk"
         if held["etag"] != r2_client.etag_of(data):
             return f"{key} — MD5 differs"
+        want = r2_client.content_type(f)
+        if held.get("type", "") != want:
+            # Not a data-loss risk — the bytes are right — but the reader gets a file the
+            # browser mishandles, and after `--prune-local` there is no local copy to notice it
+            # against. Blocking here costs one `--apply`, which corrects the type in place.
+            return f"{key} — served as {held.get('type') or 'nothing'}, should be {want}"
         return None
 
     return sorted(b for b in _each(files, one, workers, "verified") if b)

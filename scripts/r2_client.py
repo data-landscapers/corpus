@@ -48,6 +48,7 @@ S3_NS = "{http://s3.amazonaws.com/doc/2006-03-01/}"
 TYPES = {
     ".pdf": "application/pdf",
     ".csv": "text/csv; charset=utf-8",
+    ".txt": "text/plain; charset=utf-8",     # the catalogue's 5,658 name shards
     ".json": "application/json",
     ".js": "application/javascript",
 }
@@ -166,13 +167,20 @@ class R2:
     # ------------------------------------------------------------------ verbs
 
     def head(self, key: str) -> dict | None:
-        """Size and ETag, or None when the object is not there. The existence test."""
+        """Size, ETag and content type, or None when the object is not there.
+
+        **The content type is returned because R2 serves back exactly what was recorded at
+        upload, and nothing downstream can correct it.** The Worker copies it onto the response
+        with `writeHttpMetadata`, so an object stored as `application/octet-stream` is a PDF the
+        browser offers to save rather than open — wrong in a way that is invisible from the
+        bucket listing and obvious to a reader."""
         r = self._send(self._request("HEAD", key), allow_404=True)
         if r is None:
             return None
         with r:
             return {"size": int(r.headers.get("Content-Length", 0)),
-                    "etag": (r.headers.get("ETag") or "").strip('"')}
+                    "etag": (r.headers.get("ETag") or "").strip('"'),
+                    "type": (r.headers.get("Content-Type") or "").strip()}
 
     def put(self, key: str, data: bytes, content_type: str | None = None) -> str:
         """Upload, returning the ETag. Overwrites — R2 has no versioning here and none is wanted."""
