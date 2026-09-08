@@ -14,6 +14,14 @@ last_reviewed: 2026-08-28
 
 <!-- newest first: a new block goes directly below this line -->
 
+## 2026-09-08 23:13 · build
+
+- The two progress reports outside their word band are XNA at 403 words over 12 ledger
+  rows and XWA at 1,477 over 84. The band is a fixed 800-1150 for every region, so it
+  cannot fit both, and clearing XNA means padding 400 words about 12 rows. Both left as
+  they are. The fix is the skeleton’s band, which is a published-shape decision and
+  yours. Register hits are at their floor of 91.
+
 ## 2026-09-08 17:05 · build
 
 - `report-register-check.py` defaults to all 60 units and no run had used it that way —
