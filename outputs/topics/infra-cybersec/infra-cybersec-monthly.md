@@ -4,14 +4,12 @@ compiled: 2026-09-08
 period: 2026-08-01 to 2026-09-08
 subject: infra.cybersec
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; TCD; COG; CIV; SWZ; GAB; GHA; KEN; LSO; LBR; LBY; MWI; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 051ab4756946
+record: 2b3277b1c636
 ---
 
 # Cybersecurity: monthly update, August 2026
 
 *34 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 

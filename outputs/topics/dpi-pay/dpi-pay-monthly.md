@@ -4,7 +4,7 @@ compiled: 2026-09-08
 period: 2026-08-01 to 2026-09-08
 subject: dpi.pay
 places: DZA; BWA; BFA; BDI; CMR; CAF; TCD; COM; COG; CIV; COD; EGY; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: ca140a3898ff
+record: d1da753c7ecc
 ---
 
 # Digital Payments and Fintech: monthly update, August 2026
@@ -114,6 +114,8 @@ The strategy that would order all of this is not yet written. The central bank [
 ## Kenya
 
 Borrowers can [repay Hustler Fund loans in loyalty points from 23 July](https://www.the-star.co.ke/news/2026-07-23-borrowers-can-now-repay-hustler-fund-loans-using-bonga-points), five points settling one shilling, recovering KSh 3m in the first week. A second operator launched a merchant wallet on 3 August.
+
+The platforms Kenyans use to be paid changed their rules one after another over the past year: [an international payments provider imposed restrictions, a domestic dollar-banking service withdrew that product, a remittance operator paused its wallet and a streaming platform cut monetisation](https://techcabal.com/2026/09/08/the-platforms-that-help-kenyans-get-paid-are-changing-the-rules/). Four separate commercial decisions rather than a regulatory change; no user numbers, values or regulator response are held.
 
 ## Lesotho
 
@@ -237,6 +239,8 @@ A second QR estate surfaced beside the bank-led standard. A proprietary scheme [
 ## South Sudan
 
 Financial technology gained a supporter rather than a system. Support for the sector [was reported in August from a foreign government](https://www.itweb.africa/article/uk-supports-south-sudan-fintech/dgp45qaBlN9vX9l8), with no value, instrument, recipient or programme document held. Separately the national payment system bill [went through a five-day validation workshop in Juba](https://itweb.africa/article/south-sudan-pushes-cashless-transition/nWJad7bNDyL7bjO1) and remains a bill.
+
+The rail that already moves government money to people stopped moving it. On 4 August the agriculture ministry [acknowledged about six pending payment cycles under the Shabaka Meisha safety net, attributing them to temporary local-currency shortages and administrative steps and giving no resumption date](https://www.eyeradio.org/statement-ministry-of-agriculture-and-food-security-reassures-shabaka-meisha-beneficiaries-on-cash-transfer-payment-delays/), noting that an earlier six-month backlog had been cleared in July 2025. It is the country's only government-to-person channel of any size, and it is donor-financed.
 
 ## Sudan
 

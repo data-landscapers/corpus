@@ -4,7 +4,7 @@ compiled: 2026-09-08
 period: 2026-08-01 to 2026-09-08
 subject: dpi.exchange
 places: DZA; AGO; BEN; BFA; CMR; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 93414426895a
+record: c99f3557e46e
 ---
 
 # Data Exchange: monthly update, August 2026
@@ -161,6 +161,8 @@ A physical exchange broke ground alongside it. Works on the [Ressano Garcia one-
 Health data began moving between systems on its own. A national interoperability layer [is reported exchanging data automatically between three digital health platforms and the national health information system](https://www.linkedin.com/posts/data-fi-project_niger-dhis2-interoperability-activity-7493677620434288642-RoBC), the first such integration against the 32 or more largely separate platforms the country held in 2023. The e-health directorate had [shown it working with several systems on 8 July, the disease-surveillance platform's data now transferred automatically rather than re-entered each week](https://anp.ne/sante-numerique-ouverture-de-latelier-de-validation-de-la-feuille-de-route-budgetisee-du-schema-directeur-national-de-la-e-sante-2025-2029/). How many of the remaining platforms are connected is not stated.
 
 ## Nigeria
+
+The education repository put figures against its institution count. It now holds [907 enrolled institutions — 259 universities and 163 polytechnics among them — past 400,000 theses and dissertations with 115,000 credentials verified](https://www.thisdaylive.com/2026/09/07/nerds-academic-database-hits-400000-115000-credentials-verified/), reported on 7 September. [Submissions run 409,456 undergraduate against 1,563 postgraduate](https://www.thisdaylive.com/2026/09/07/nerds-academic-database-hits-400000-115000-credentials-verified/), a ratio of 262 to one, so what is being built is a record of first degrees.
 
 Nine agencies took bilateral cover under the amended identity Act inside a fortnight, among them [Solid Minerals](https://www.thisdaylive.com/2026/07/20/alake-nimc-partner-to-deploy-digital-identity-against-illegal-mining/), [the Presidency](https://www.thisdaylive.com/2026/07/22/shettima-nigerias-digital-transformation-under-tinubu-unrivalled-hails-ongoing-reforms-by-nimc-management/) and [Women Affairs and the Bank of Industry](https://www.thisdaylive.com/2026/07/24/nimc-seals-strategic-partnerships-with-women-affairs-ministry-boi-to-deepen-digital-identity-financial-inclusion/); no account states a lawful basis, consent mechanism or retention rule for the sharing that follows. The [Nigeria Data Exchange now moves personal data between ministries in production](https://www.biometricupdate.com/202607/nigeria-unveils-digital-govt-platform-for-unified-access-to-public-services) behind the Government Service Portal, on the same silence. Against the single-source-of-truth framing, named practitioners [describe the arrangement as federated linkage on a shared identifier](https://www.vanguardngr.com/2026/07/nin-contradiction-high-cost-of-false-integration/), with banks still reconciling by hand. The [National Single Window](https://www.vanguardngr.com/2026/08/customs-agents-disagree-over-national-single-window-operations/), launched in March, is contested by licensed customs agents who say clearance paperwork has multiplied rather than consolidated.
 

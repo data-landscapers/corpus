@@ -3,13 +3,13 @@ title: Digitalisation of sub-national government — monthly update, August 2026
 compiled: 2026-09-08
 period: 2026-08-01 to 2026-09-08
 subject: digital.localgov
-places: AGO; BFA; BDI; GHA; MWI; MLI; NAM; NGA; RWA; SEN; ZAF; SDN; TZA; TGO; UGA; ZMB; ZWE
-record: 1821033a5486
+places: AGO; BFA; BDI; CMR; GHA; GNB; MWI; MLI; NAM; NGA; RWA; SEN; ZAF; SDN; TZA; TGO; UGA; ZMB; ZWE
+record: 07f762be58f1
 ---
 
 # Digitalisation of sub-national government: monthly update, August 2026
 
-*17 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*19 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -29,9 +29,17 @@ Citizen service centres stand at [two pilot sites under construction, with archi
 
 Local government gained equipment rather than systems. A development agency [handed laptops, uninterruptible power supplies, printers and photocopiers to provincial governors and communal administrators, alongside vehicles](https://lerenouveau.bi/le-pnud-octroie-un-don-destine-aux-gouverneurs-de-province-et-administrateurs-communaux/). It is the most direct addition to the ICT equipment held by Burundian local government offices this ledger records, and it is a donation: no count of offices reached, no maintenance arrangement and no connectivity provision accompanies it.
 
+## Cameroon
+
+Metering is where local digitisation is actually buying hardware. The state water utility [awarded a Chinese manufacturer a FCFA 721.76m contract on 17 August 2026 to deploy 3,000 smart meters, the first 7.5 per cent of the 40,000 planned under a World Bank-financed programme](https://leconomie.info/article/camwater-confie-a-une-entreprise-chinoise-le-deploiement-de-3-000-compteurs-intelligents-pour-72176-millions-de-fcfa). No installation schedule, data-handling arrangement or tariff effect is stated, and what the meters read is household consumption.
+
 ## Ghana
 
 Local government has gone in one month from a reform strategy's integration target to a signed programme covering every assembly in the country. The Office of the Head of the Local Government Service [signed a memorandum on 3 September with a Ghanaian networks company to turn all 261 metropolitan, municipal and district assemblies into what both parties call smart assemblies, spanning waste management, public safety, education, healthcare, environmental monitoring and citizen engagement](https://kumasimail.com/ohlgs-celltel-seal-deal-to-turn-261-assemblies-in-ghana-into-smart-communities/). No contract value, financing structure or timeline is stated, which is the whole of what would make it testable. Separately a governance organisation [launched a citizen-reporting platform in South Tongu District that routes service-delivery complaints to the assembly and keeps the reporting citizen informed until resolution](https://gna.org.gh/2026/09/ghana-governance-africa-launches-digital-platform-to-deepen-participation-in-local-governance/) - a civil-society instrument in one district, not an assembly system.
+
+## Guinea-Bissau
+
+The capital’s council put a date on its own modernisation. Bissau city council [announced the launch on 9 September 2026 of a modernisation and digital transformation programme for the institution, on a plan approved at the council’s first strategic retreat](https://ang.gw/camara-municipal-de-bissau-anuncia-para-quarta-feira-lancamento-do-projeto-de-modernizacao-e-transformacao-digital-da-instituicao/). No component list, budget, timetable or partner is stated.
 
 ## Malawi
 

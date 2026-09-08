@@ -4,7 +4,7 @@ compiled: 2026-09-08
 period: 2026-08-01 to 2026-09-08
 subject: dpi.registry
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COM; COG; CIV; COD; EGY; ERI; SWZ; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MWI; MLI; MRT; MUS; MAR; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 67eb70adcd37
+record: f4533d7981a0
 ---
 
 # Registries (population, land, address, etc.): monthly update, August 2026
@@ -201,6 +201,8 @@ The tour reached its fourth region and brought a fourth set of figures. At Agade
 ## Nigeria
 
 [Civil registration](https://www.nigeriacommunicationsweek.com.ng/npc-opens-nationwide-digital-birth-death-registration-platform/) went nationwide from 1 July on a platform run as a public-private partnership, a private contractor carrying availability and security duties over the register of births and deaths.
+
+The electoral roll got its own numbers on 8 September. The commission said the register was [approaching 100 million ahead of the 2027 general elections, on 10,772,421 new registrants in the latest continuous registration exercise, with a real-time election readiness tracker to be deployed across the 36 states and the federal capital territory](https://www.vanguardngr.com/2026/09/2027-polls-voter-register-nears-100m-inec/). The totals are its own; no register audit, duplicate rate or link to the national identity number accompanies them, and the devices that read the roll failed at a state election three weeks earlier.
 
 A second register was put on the same path, without a date. The maritime administration says it is [moving towards full automation of the Nigerian ship registry so that operators can register and transact remotely, including payment, without attending its offices](https://von.gov.ng/nimasa-embraces-digitisation-to-end-operational-delays/), framed as part of reforms to remove human contact, block revenue leakages and cut delays. It is a statement of direction: no date, cost or vendor accompanies it.
 

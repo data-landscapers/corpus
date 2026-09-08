@@ -4,7 +4,7 @@ compiled: 2026-09-08
 period: 2026-08-01 to 2026-09-08
 subject: tech.ai
 places: DZA; AGO; BEN; BFA; CMR; CAF; TCD; COM; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GHA; KEN; LBR; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 1b04e86fda1e
+record: 1368842ca31c
 ---
 
 # AI: monthly update, August 2026
@@ -78,6 +78,10 @@ Underneath the strategy, one piece of actual capability began. [Collection of Li
 ## Egypt
 
 The [second edition of the national artificial-intelligence strategy is unchanged as an instrument](https://gate.ahram.org.eg/News/5882834.aspx), with delivery bodies added around it — a responsible-AI centre established late 2025 and a university capacity programme. The ICT minister describes [Karnak, a locally contextual Arabic large language model, as available to startups as a base for applications](https://gate.ahram.org.eg/News/5670246.aspx); no release date, licence, parameter count, access terms or user count is held, and the strategy text itself is not held either.
+
+The compute under it was signed for on 8 September, when the communications minister attended a Cairo ceremony at which [Vodafone Business, Elsewedy Electric and Cassava Technologies undertook to establish Africa Data Centres Egypt and the country's first sovereign artificial-intelligence data centre](https://www.maspero.eg/economy/2026/09/08/987328/%DA%A4%D9%88%D8%AF%D8%A7%D9%81%D9%88%D9%86-%D9%88%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D9%8A-%D9%88%D9%83%D8%A7%D8%B3%D8%A7%D9%81%D8%A7-%D8%AA%D8%A4%D8%B3%D8%B3%D9%88%D9%86-%D8%A3%D9%83%D8%A8%D8%B1-%D9%85%D8%B1%D9%83%D8%B2-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%88%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1), the state framing both as localising advanced technology and hosting and processing data domestically. It is a signing: no site, date or capacity for the AI centre is stated.
+
+Public awareness is the one series here with two points on it. The cabinet information centre put those who had heard of artificial-intelligence applications at [65% in 2026 against 22% in 2023, work the leading use at 51.7% ahead of personal use and study, with about 94% of users rating the accuracy of the answers they get](https://www.youm7.com/story/2026/9/7/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D9%88%D8%B9%D9%8A-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%8A%D9%82%D9%81%D8%B2-%D9%85%D9%86-22-%D9%84%D9%8065/7538408). Sample size, method and margin are not stated.
 
 ## Equatorial Guinea
 

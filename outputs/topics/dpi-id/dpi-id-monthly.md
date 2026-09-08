@@ -3,13 +3,13 @@ title: Digital Identity and CRVS — monthly update, August 2026
 compiled: 2026-09-08
 period: 2026-08-01 to 2026-09-08
 subject: dpi.id
-places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COM; COG; COD; EGY; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MWI; MRT; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 9fe19002a0bf
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COM; COG; COD; EGY; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MWI; MRT; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 0cad200a6a8f
 ---
 
 # Digital Identity and CRVS: monthly update, August 2026
 
-*40 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*41 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -91,6 +91,10 @@ What is not on the record is the counterweight. A published critique argues the 
 
 The enrolment rules reached the base for the first time, which matters more than the enrolment count for anyone trying to work out who can be enrolled. The programme's own page lists [33 accepted proof-of-identity documents, from the local administration card and passport to birth, education, marriage and business records](https://id.gov.et/proof), and a separate account sets out what non-citizens must present: [an origin card and passport for foreign nationals of Ethiopian origin, a residence or work permit plus passport for other foreign residents, and a valid refugee card for recognised refugees](https://ethioaffairs.com/2026/09/04/ethiopia-announces-document-requirements-for-foreign-nationals-applying-for-fayda-digital-id/). Neither carries its own issue date, so both are dated to capture — and the refugee route stated here is the operative counterpart to the refugee-inclusion framework the base already holds.
 
+## Gabon
+
+A bus fare is about to become a biometric credential. The national transport company is [preparing a biometric transport card for Libreville buses, securing the collection of personal data before digitising access to the service](https://www.gabonreview.com/bus-a-libreville-la-cnt-prepare-la-carte-de-transport-biometrique/). No issuance date, data controller, retention rule or fare structure is stated.
+
 ## Gambia
 
 The [National Identity Management System went live on 1 July 2026](https://standard.gm/barrow-inaugurates-national-data-centre-digital-identity-system/), issuing GAM ID cards on the spot, with nationwide enrolment from 4 August 2026. On 7 August the interior ministry [began a nationwide rollout of new ten-year biometric national identity cards, with registration opening simultaneously at six centres](https://www.voicegambia.com/gambia-rolls-out-new-10-year-national-identity-cards/), produced with a Ghana-based supplier. No enrolment or issuance figure has been published since launch, so the system's reach is unestablished.
@@ -167,6 +171,8 @@ The identification agency exists in law. It [was created by decree of 22 April 2
 
 ## Nigeria
 
+A state credential went further than the national one. Lagos made the [residents registration number mandatory for admission and enrolment in every public and private school in the state, schools required to record a valid number from 14 September](https://www.vanguardngr.com/2026/09/2026-27-session-lagos-makes-lasrra-number-compulsory-for-school-admission/), the stated purpose being a verifiable learner database for planning, monitoring and service delivery. No exemption, appeal route or treatment of unregistered children is stated, and the credential is the state's rather than the national identity number.
+
 Identity gained infrastructure and kept its gap. The passport became [cryptographically verifiable at 111 member states' borders](https://www.biometricupdate.com/202607/nigeria-achieves-full-icao-pkd-integration-for-its-biometric-passport) on 16 July; the identity authority [took the national root certification authority over from NITDA](https://techafricanews.com/2026/07/22/nitda-and-nimc-deepen-partnership-to-accelerate-nigerias-digital-public-infrastructure/) on 21 July; and [V-Pass went live](https://www.biometricupdate.com/202607/nigerias-id-authority-takes-on-new-duties-to-secure-growing-digital-ecosystem) for airport security checks and boarding on the number and face biometrics. Registration stands at [136 million against a target of 180 million by 31 December](https://guardian.ng/news/nimc-enrols-136-million-nigerians-as-coker-odusote-pushes-stronger-inter-ministerial-partnership/), leaving about 100 million people uncaptured on the information minister's own figure. The root certification authority it took over also created a conflict: the NIMC Act 2026 makes the identity commission the root authority while the [still-pending Digital Economy and E-Governance Bill carries its own electronic-signature provisions](https://techcabal.com/2026/08/13/nigerias-identity-law-raises-questions-over-digital-signatures/), and which instrument governs digital signatures is unresolved.
 
 
@@ -236,6 +242,8 @@ The identity register is the most heavily integrated rail the base holds anywher
 
 
 The budget behind it was set out to Parliament on 19 August: the home affairs ministry [put the identifier's rollout among its 2026/27 priorities under the national blueprint, alongside new district registration offices and a headquarters at Dodoma](https://dailynews.co.tz/security-digital-identity-and-technology-set-to-spur-tanzanias-growth/). No cost line or timetable accompanies the priority.
+
+Where the checks run became the point. The central bank [backed a credit bureau’s locally hosted fraud detection, anti-money-laundering screening and know-your-customer verification for Tanzanian lenders](https://www.thecitizen.co.tz/tanzania/business/bank-of-tanzania-backs-creditinfo-s-locally-operated-fraud-identity-solutions-5586696), the local operation being what is claimed for it. No directive, licence, hosting requirement or supervisory condition is held.
 
 ## Togo
 

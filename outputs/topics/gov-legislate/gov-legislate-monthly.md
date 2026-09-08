@@ -3,13 +3,13 @@ title: Legislation and regulation — monthly update, August 2026
 compiled: 2026-09-08
 period: 2026-08-01 to 2026-09-08
 subject: gov.legislate
-places: DZA; AGO; BDI; CMR; CPV; TCD; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; UGA; ZWE
-record: a89336061986
+places: DZA; AGO; BEN; BDI; CMR; CPV; TCD; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; UGA; ZWE
+record: a25172093b7d
 ---
 
 # Legislation and regulation: monthly update, August 2026
 
-*39 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*40 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -30,6 +30,10 @@ What the vote settles and what it leaves open are different things. The law [req
 The National Assembly [approved legislative authorisation 166 votes to nil on 30 July](https://www.opais.ao/politica/parlamento-aprova-autorizacao-legislativa-sobre-assinatura-electronica-com-166-votos-a-favor/) for the President to legislate an electronic-signature and digital-certification regime, valid 90 days after publication of the enabling law — so the regime defining an accrediting authority, a root certification entity and the evidential weight of a signature will be an executive instrument, grounded on the insufficiency of two 2011 texts.
 
 The national cybersecurity centre, whose statute was published in December 2025, is still described in the future tense by the minister responsible: on 10 August he [said it would be launched during 2026](https://www.telecompaper.com/news/angola-targets-launch-of-national-cybersecurity-centre-in-2026--1579430) to monitor digital threats, defend critical infrastructure and coordinate incident response.
+
+## Benin
+
+The framework statute reached into the workplace. On a newspaper’s reading of [article 379 of the Code du numérique, a company phone, a company-issued number or a work messaging group does not by itself entitle an employer to read the messages on it](https://www.lanation.bj/societe/societe-votre-patron-peut-il-lire-vos-messages-whatsapp-professionnels). It is a reading rather than a regulator decision or a judgment, and the base holds no enforcement action on workplace monitoring.
 
 ## Burundi
 
@@ -276,6 +280,8 @@ The month's legislating was about commercial justice and civil status rather tha
 ## Uganda
 
 Three instruments sit at three stages and none is in force in the window. The Protection of Sovereignty Bill 2026 [carries a central bank technical assessment to joint committees](https://www.newvision.co.ug/category/news/bou-governor-atingi-ego-say-sovereignty-bill-NV_232814_052026), with enactment reported but unconfirmed. The regulator's order suspending public internet [is discontinued, full restoration having been announced in January](https://pulse.internetsociety.org/documents/48/UCC_directive_Talkio.pdf). And the finance ministry [stated at a retreat with parliamentary committees that digital lending platforms will be regulated](https://www.monitor.co.ug/uganda/news/national/govt-moves-to-tighten-regulation-of-digital-lenders-as-financial-inclusion-rises-5561784), naming no bill, instrument or date.
+
+January’s shutdown directive reached the record in its own words. A newspaper [republished the Uganda Communications Commission text in full on 7 September](https://www.newvision.co.ug/category/news/uganda-communications-commission-explains-int-NV_226210_092026): made on the Inter-Agency Security Committee’s recommendation, it suspended public internet access, the sale and registration of new SIM cards and outbound data roaming to One Network Area countries across mobile, fibre, leased line, fixed wireless, microwave and satellite; ordered operators to disable mobile VPN services and block any public bypass; whitelisted an exclusion list covering national referral hospital systems, core banking and clearing, tax and government payment gateways, immigration, electoral commission portals, voter verification and result tabulation, utilities, air traffic control and railway signalling; required incident reporting within 30 minutes; and required any operator unable to comply to shut down its entire internet infrastructure, on pain of fines or licence suspension. The directive the base held was a scanned PDF with no text layer.
 
 ## Zimbabwe
 

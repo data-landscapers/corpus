@@ -3,13 +3,13 @@ title: Data Storage — monthly update, August 2026
 compiled: 2026-09-08
 period: 2026-08-01 to 2026-09-08
 subject: infra.store
-places: DZA; AGO; BWA; BFA; CMR; CPV; CAF; COG; CIV; EGY; GNQ; GMB; KEN; LSO; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SLE; SOM; ZAF; SSD; TZA; ZWE
-record: e82474130fb9
+places: DZA; AGO; BWA; BFA; CMR; CPV; CAF; COG; CIV; EGY; GNQ; GMB; KEN; LSO; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SLE; SOM; ZAF; SSD; TZA; TUN; ZWE
+record: bbec36f4e680
 ---
 
 # Data Storage: monthly update, August 2026
 
-*30 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*31 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -157,6 +157,8 @@ The national data centre went backwards in the telling. A facility described at 
 
 The commercial estate is expanding on the operator's own numbers rather than on a published plan. An international operator is [scaling its Johannesburg facility to 24MW and holds a ZAR7.5bn South African expansion budget covering that site plus banked land in Johannesburg and Cape Town](https://www.itweb.co.za/article/equinix-doubles-down-on-joburg-data-centre-expansion/PmxVE7KEObLqQY85), with further build-out held pending demand. No grid connection, water use or municipal approval detail is stated — and a civil-society coalition used the same week to call for deceleration, transparency and public participation in data-centre expansion, which is the argument the absent detail is about.
 
+On 8 September a ratings agency put a name to the ceiling. It [rated South Africa's water resilience relatively low, on water stress in Johannesburg, Gauteng and elsewhere, named energy and water as the key risks to a pipeline it describes as almost twice the size of current global operating capacity across emerging markets, and counted more than 60 known data centres at about 500MW of disclosed capacity](https://www.sundaytimes.timeslive.co.za/news/2026-09-08-sas-data-centre-boom-risks-hitting-a-wall-over-water-and-power/), suggesting operators may need decentralised modular energy that bypasses the main grid. Power dominates the local argument; the assessment says water is the constraint that will decide it.
+
 
 The expansion also drew its first organised objection. A civil-society coalition [submitted concerns to the human rights commission on 10 August calling for a halt on data-centre developments pending transparent public participation, citing strain on scarce water, land and electricity](https://climatejusticecoalition.org/cjc-public-participation-in-south-africas-data-centre-expansion/). No participation process, commission response or moratorium is on record, which is what makes the objection the only thing here that can be dated.
 
@@ -175,6 +177,10 @@ The only nationally owned data centre in the base is a [Tier 2 facility at Hai M
 A data-centre group named its Tanzanian site as under development while raising [committed capital from US$350m to US$380m](https://tech.africa/raxio-380m-committed-capital/), giving no Tanzanian size, cost or date.
 
 A sector review of 5 August put a count on what is already there: [ten data centres in Dar es Salaam and one in Dodoma, operated by six carriers](https://african.business/2026/08/free-article/tanzanias-digital-dividend). It is a count and nothing more — no capacity, load or utilisation accompanies it — and it is a trade magazine's rather than the regulator's, so it does not replace the state's own count of public centres commissioned.
+
+## Tunisia
+
+Public hosting was centralised by circular. A prime ministerial circular of 2 September 2026 [requires public bodies’ websites to be hosted only at the national computing centre and takes administrative files off mobile applications](https://www.alchourouk.com/article/%D9%85%D9%86%D8%B4%D9%88%D8%B1-%D8%AD%D9%83%D9%88%D9%85%D9%8A-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%AA%D8%A3%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D9%84%D9%84%D9%87%D9%8A%D8%A7%D9%83%D9%84-%D8%A7%D9%84%D8%B9%D9%85%D9%88%D9%85%D9%8A%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D9%87%D8%AF%D9%8A%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%8A%D8%A8%D8%B1%D9%86%D9%8A%D8%A9), to strengthen the security of public digital systems against cyber threats. The circular text is not held, only a newspaper account of it, and no compliance deadline, exemption route or migration plan for bodies hosted elsewhere is stated.
 
 ## Zimbabwe
 

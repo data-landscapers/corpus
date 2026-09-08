@@ -4,7 +4,7 @@ compiled: 2026-09-08
 period: 2026-08-01 to 2026-09-08
 subject: infra.connect
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 07b08aaadefa
+record: e3da23fb8192
 ---
 
 # Connectivity: monthly update, August 2026
@@ -95,6 +95,8 @@ A cross-border route was reaffirmed rather than started. The Tanzanian and Congo
 
 An independent measurement published on 3 August 2026 gave the first full-year reading of Egypt's 5G launch. Six months after commercial service began in June 2025, the 5G median download speed had fallen to about 89 Mbps from 110.5 Mbps on launch day, and the combined 4G and 5G median stood at 34.77 Mbps against a pre-launch baseline of 37.68 Mbps ([measurement](https://www.ookla.com/articles/5g-north-africa-2026)). Egypt is the only one of the four North African launch markets with no published coverage or quality obligation attached to its award.
 
+The Red Sea bypass gained a builder. On 7 September the incumbent's agreement with Power Sub Link to construct the [200 km Sharm El Sheikh to Taba cable was reported, extending its Red Sea festoon into a continuous Suez – Zafarana – Ras Ghareb – Sharm El Sheikh – Taba route designed for about 5 petabits per second](https://capacityglobal.com/news/telecom-egypt-5pbs-red-sea-bypass/). Earlier accounts put the contractor as Greek; no cost, landing-station arrangement or in-service date is held either way.
+
 Attention has moved to the band above it. The incumbent, the regulator and a Chinese vendor [ran a mobile base station and a data call over upper 6 GHz on 19 August, reported at about 1.7 Gbps per user](https://itweb.africa/article/telecom-egypt-tests-high-capacity-spectrum/RgeVDqPRka37KJN3) and stated by the operator as the first such trial in Egypt and in Africa. It is a trial: no allocation, award, licence or commercial date follows it, and the throughput figure is the operator's own.
 
 GSMA Intelligence's country-by-country survey [puts Egyptian 5G take-up at 3 per cent](https://digitalmag.ci/acces-a-internet-etat-dadoption-de-la-technologie-5g-par-les-pays-africains/) and projects 60 per cent population coverage and 35 per cent take-up by 2030, crediting an early-2026 spectrum agreement with doubling operator capacity.
@@ -122,6 +124,8 @@ The national internet exchange point opened a reboot workshop at Libreville on 3
 The country renumbered its mobile network. [The transition to nine-digit numbers began on 4 September 2026, existing numbers taking a two-digit operator prefix — 87 for Africell, 83 for QCell and 86 for Comium](https://thepoint.gm/africa/gambia/headlines/pura-gambia-transitions-to-9-digit-mobile-numbers-today); [Gamcel numbers are not affected in this phase and keep their seven digits](https://thepoint.gm/africa/gambia/headlines/pura-gambia-transitions-to-9-digit-mobile-numbers-today). The numbering plan instrument is not published, and nothing states when the deferred operator joins.
 
 ## Ghana
+
+The assignment now has a date on it: the minister said on 7 September that spectrum assignment would be [completed and 5G deployment begin by December 2026](https://www.myjoyonline.com/ghana-to-begin-5g-deployment-by-december-2026-sam-george/), alongside a road-excavation coordination framework, an Emergency Telecommunications Framework and upgraded network-quality standards operators would be required to meet. It is a ministerial statement, not a published award timetable.
 
 The regulator's [consolidated response of 31 July](https://nca.org.gh/wp-content/uploads/2026/07/NCA-Consolidated-Response-5G-RFA-2026.pdf) answered sixty written queries from four prospective applicants, formally amended the request for applications in seven places, and shifted every subsequent date by 21 days, with licence fees now due 17 November. [It refused any extension to the 70% population coverage obligation of 6 March 2027 while confirming that obligation is band- and technology-neutral and can be met in substantial part from existing deployment](https://nca.org.gh/wp-content/uploads/2026/07/NCA-Consolidated-Response-5G-RFA-2026.pdf). It also rewrote the dominant operator's rural schedule from licence-relative years into fixed dates of December 2029, 2032 and 2035, expressly so that buying spectrum would not accelerate an equivalent existing commitment. [And it recharacterised the 40% premium on that operator's reserve prices in writing as a price for attributable value rather than a sanction or a market-power remedy, declining to publish its valuation model during a live assignment](https://nca.org.gh/wp-content/uploads/2026/07/NCA-Consolidated-Response-5G-RFA-2026.pdf).
 
@@ -302,6 +306,8 @@ The second operator [launched fibre-to-the-home in Dodoma](https://www.ecofinage
 
 The month's other route is a border crossing that has not begun. The foreign minister said the two countries would [fast-track a national fibre-optic cable from Kigoma to Kalemie in the Democratic Republic of Congo through Lake Tanganyika, alongside a standard gauge railway link through Burundi and a joint economic commission](https://dailynews.co.tz/tanzania-drc-agree-to-fast-track-sgr-link-and-fibre-optic-cable-across-lake-tanganyika/). No route survey, cost, financing, landing point or delivery date is published.
 
+The regulator scored quality for the quarter to June 2026: [the state operator highest at 98.1%, ahead of the largest operator at 97.7% and the third at 97.1%](https://techafricanews.com/2026/09/07/ttcl-tops-tanzania-telecom-quality-rankings-2026/) — the state operator leading on quality while holding a small share of the market. The measurement’s components and the underlying market shares are not stated.
+
 ## Togo
 
 The Council of Ministers [authorised a five-year renewable licence for Internet-of-Things networks](https://togopresse.tg/les-grandes-decisions-du-conseil-des-ministres-du-4-aout-2026/) on 4 August; the decree authorises the grant rather than recording it, and no licence number, fee, coverage obligation or ownership of the licensee is published. Separately, [capacity was added on a second submarine system for route diversity](https://www.mobileeurope.co.uk/csquared-boosts-internet-resilence-integrating-with-2africa-west/) after three multi-country West African outages in twenty-eight months — a pan-regional arrangement carrying no Togo-specific capacity, price or route figure.
@@ -321,6 +327,8 @@ The second operator reported the same demand from the other side: [19.7 million 
 On 5 August the network operator with the largest published footprint released its 2025 sustainability report, recording for the year to 31 December 2025 [24.2 million subscribers, population coverage of 96.2% 3G, 88.6% 4G and 19% 5G, 27,037 km of fibre and 45% of network sites on solar or hydro](https://www.mtn.co.ug/wp-content/uploads/sites/7/2026/08/MTN-Uganda-Sustainability-Report-2025-Digital-1.pdf). These are the company's own unaudited figures and the base holds no prior-year comparator.
 
 The largest mobile operator [extended its group-level Starlink partnership to Uganda](https://techafricanews.com/2026/08/27/mtn-uganda-starlink-expand-connectivity-remote-areas/) to bring satellite-backed connectivity to remote areas. It is distinct from the satellite operator's own licence, and no coverage target, site count or tariff is given.
+
+A second international route is being procured under a presidential directive rather than by tender. The state transmission company [cancelled open bidding for a commercialisation partner for its fibre network and moved to prepare a proposal for a single named company for the Uganda-Tanzania connection, the parliamentary committee on state enterprises asking why firms that had expressed interest were dropped](https://nilepost.co.ug/news/368959/uetcl-in-spotlight-over-uganda-tanzania-fibre-connection). A State House letter of 27 August 2025 had told the ICT and energy ministers that a Tanzanian route could be cheaper than the existing route through Kenya, which the President described as full of commercial players looking for profit. No contract, value, timetable or committee finding is held, and the cost comparison is an assertion.
 
 ## Zambia
 

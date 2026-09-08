@@ -4,7 +4,7 @@ compiled: 2026-09-08
 period: 2026-08-01 to 2026-09-08
 subject: gov.policy
 places: BFA; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; GMB; GHA; GIN; GNB; KEN; LSO; LBY; MWI; MLI; MRT; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 0a7b6c043ec0
+record: b817dfd82ae2
 ---
 
 # Strategies, plans and policies: monthly update, August 2026
@@ -48,6 +48,8 @@ The education ministry's digital roadmap [was validated at a Brazzaville worksho
 ## Cote d'Ivoire
 
 The draft cyber-security strategy for 2026 to 2030 was [put to stakeholder review on 23 July](https://www.aip.ci/cote-divoire-aip-cybersecurite-lanssi-prepare-une-nouvelle-strategie-nationale-face-a-la-montee-des-menaces-numeriques/) and awaits the Council of Ministers; the 2021 to 2025 text remains the instrument formally in force. The draft extends scope to artificial intelligence, emerging technologies and cloud.
+
+Closing the national workshop on prioritising public digital services on 4 September, the digital transition minister argued for [unified governance through a relaunched National Digital Council placed under the Prime Minister, presenting it as a condition of the state's digital transformation](https://www.linfodrome.com/economie/125096-digitalisation-des-services-publics-la-cote-d-ivoire-veut-un-pilote-unique-pour-ses-projets-d-etat), against a paperless state by 2030. It is an argument for a relaunch: no decree, membership or first meeting is held.
 
 The universal-service agency published its own five-year plan on 11 August. It [rests on four pillars — universal connectivity, digital services and financial inclusion, digital usage and literacy, and operational excellence — across ten projects, four of them funded at FCFA 60.144bn through the national development plan and six from the agency's own funds](https://digitalmag.ci/parlons-projet-gilles-thierry-beugre-devoile-le-plan-strategique-2026-2030-de-lansut/). The [stated targets are 300 newly connected localities, smartphone penetration of 80% by 2028 against 40% now, and more than 15,000 km of new fibre by 2028, against a starting point at which 70% of rural households have no internet access](https://digitalmag.ci/parlons-projet-gilles-thierry-beugre-devoile-le-plan-strategique-2026-2030-de-lansut/). No adoption instrument is published; the plan is the agency's own.
 
@@ -172,6 +174,8 @@ The multi-agency answer to mobile-money fraud got a drafting session. A two-day 
 A data governance framework was named as in development for the first time. Meeting United Nations agencies on 5 September, the communications minister [named the framework alongside the government data centre at the telecommunications authority tower and a redundancy site at State House](https://sierraloaded.sl/news/communication-strengthens-partnership/). No draft, scope, adoption route or timetable is published for the framework, and the redundancy site appears here with no capacity or commissioning date — two things named into existence in one meeting.
 
 ## South Africa
+
+The regulator opened two inquiries and the state put two studies out to tender, all of them into the same question. On 4 September the regulator said it would [inquire into the impact of over-the-top services on consumers, naming Netflix and WhatsApp, on the ground that such services have disrupted regulated linear broadcasting's competition for audiences and revenue](https://www.sundaytimes.timeslive.co.za/news/2026-09-07-ott-prices-in-line-of-fire-icasa-takes-aim-at-netflix-and-whatsapp/), and in a separate notice that it intends to inquire into the cost of telecommunications services, aligned with its earlier data-services market inquiries. Neither carries published terms of reference or a timetable, and it is not the first decade in which the cost of communicating has been inquired into.
 
 The state put two studies out to tender and conceded the gap they are meant to fill. The communications department's market-analysis tender [concedes a current policy vacuum and that the price benefits expected from the 2022 spectrum auction remain largely unmet](https://www.timeslive.co.za/news/business/2026-08-01-sas-data-price-puzzle/), naming market concentration, spectrum allocation and the burden on prepaid consumers as structural causes; its deliverables are a cost-to-communicate roadmap and an assessment of progress on the 2019 data-services market inquiry recommendations. A second tender [seeks an ICT-indicators and scenario-modelling system to steer the digital economy to 2050](https://www.itweb.co.za/article/top-ict-tenders-dcdt-eyes-2050-digital-economy-vision/KPNG878NLorq4mwD), with no award, value or delivery date. Against both, the reform programme's quarterly report [concedes progress has been uneven and in certain instances slower than initially anticipated](https://www.treasury.gov.za/comm_media/press/2026/Operation%20Vulindlela%20Progress%20Report%20Q1%20-%202026.pdf), against the 80% on-track figure that remains its dated prior.
 

@@ -4,7 +4,7 @@ compiled: 2026-09-08
 period: 2026-08-01 to 2026-09-08
 subject: dpi.govtech
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 131d51dab9d2
+record: 0e1f04320b6f
 ---
 
 # Other GovTech and e-Gov: monthly update, August 2026
@@ -73,6 +73,8 @@ The 2027 budget orientations carry three govtech commitments and one system alre
 
 The platform the state already uses to watch itself surfaced on 7 August, when the Prime Minister [received the two-year delivery report on the president's twelve-project programme, tracked through Guidam, the government's sovereign digital data platform](https://tchadinfos.com/2026/08/07/tchad-le-premier-ministre-recoit-le-rapport-biennal-dexecution-du-programme-du-chef-de-letat/), ahead of a cabinet seminar to align implementation reporting. Neither the report nor any description of the platform's custodian, supplier, hosting or public accessibility is held.
 
+The freight platform’s roll-out reached two more places. Training ran at Ngaoundéré for transporters and forwarders, and on 4 September the steering committee [presented the platform to authorities and freight operators of Logone Occidental province, at a meeting chaired by the province’s secretary general](https://lendjampost.com/logone-occidental-le-bnft-devoile-sa-plateforme-e-bnft-aux-acteurs-du-fret/). Three of the seven named locations are now on the record.
+
 ## Comoros
 
 The Portail unique du citoyen entered the base as a concept note: a single portal meant to [gather every sectoral e-government portal and service in one place, set inside the national e-government plan and the 2028 digital strategy](https://puc.gouv.km/about). The initiative is still asking government entities to report the platforms they have built, so that a database of them can be assembled before deployment. No build, supplier, budget or date is stated.
@@ -82,6 +84,8 @@ The Portail unique du citoyen entered the base as a concept note: a single porta
 A public-administration digitalisation task force [was gazetted on 6 August, as decree 2026-261 of 29 July 2026](https://sgg.cg/JO/2026/congo-jo-2026-32.pdf). No session of it is on record, and the decree names no deliverable, deadline or budget â€” an instrument creating a body, with the work still to be defined.
 
 ## Cote d'Ivoire
+
+The investment promotion centre runs an [e-Licences platform taking investor licences, permits and authorisations online](https://www.linfodrome.com/economie/125162-cote-d-ivoire-le-cepici-mise-sur-le-numerique-pour-fluidifier-le-parcours-des-investisseurs), with ministry focal points trained in late August 2026 to keep its content current. No count of licences carried or processing time is published.
 
 All 39 first-instance tribunals were [connected to the justice platform on 29 June 2026](https://www.fratmat.info/article/2642911/societe/e-justice-les-39-tribunaux-de-premiere-instance-desormais-connectes-au-reseau-numerique-ivoirien), completing an arc that began with a two-court pilot in January 2025; nationality certificates and criminal-record extracts are now issued digitally nationwide. The account describes this as completing phase one, with no phase-two scope or date. The regulator's compliance platform [went live on 2 July 2026](https://www.fratmat.info/article/2642985/economie/ntic/protection-des-donnees-a-caractere-personnel-certinum-entre-en-service-pour-accelerer-la-conformite-numerique-en-cote-divoire), slipping from a 25 June date, replacing about a hundred physical files a month with online submission, real-time tracking and traceability for conformity, processing authorisations and video-surveillance authorisations. It was built over two years and piloted by the identification office and the treasury.
 
@@ -146,6 +150,8 @@ The electoral commission's digitalisation produced its first published contest f
 ## Ghana
 
 The finance ministry reported to Parliament that the customs valuation system had [analysed about 366,000 declarations to 17 July](https://www.myjoyonline.com/publican-ai-system-generates-gh%c2%a2300m-additional-revenue-since-rollout-ato-forson/), 24% triggering more than one risk indicator, with collections up 17.5% against a 6.3% rise in declared value. A second public sector reform strategy was validated on 30 July on seven pillars, 27 programmes and 135 activities.
+
+The paper record gained a contract. The ministry said on 7 September that a contract had been [signed on 13 August to digitise 3.5 million public records held by the Public Records and Archives Administration Department](https://www.myjoyonline.com/government-begins-digitisation-of-3-5-million-public-records-sam-george/), as part of moving public administration off paper. No contractor, value, timetable or completion date was stated.
 
 The revenue side gained a plan on 12 August. A [Korean-backed Tax Modernisation Master Plan covering income tax, value-added tax, tax administration and electronic tax administration was set out](https://www.graphic.com.gh/business/business-news/ghana-korea-unveil-master-plan-for-tax-modernisation.html), with artificial intelligence already in service on customs valuation. No cost, timetable or implementation schedule accompanies it, which puts it a stage behind the customs system it is presented alongside.
 
@@ -242,6 +248,8 @@ The ombudsman's 2025 annual report, presented on 23 July, gives the counterpoint
 
 
 One portal went the other way. The Court of Cassation's site [has been down for more than a week with no official explanation](https://www.alnahar.ma/121842.html), on a bar-association lawyer's account, at a point where the courts increasingly expect rulings to be tracked online. No court or ministry statement is held.
+
+Filing a candidacy became an online act. The interior ministry [made the elections portal the compulsory route for candidacy declarations to the 23 September legislative elections, closing it at noon on 8 September](https://assabah.ma/947667.html). No filing count, fallback for candidates without access or support arrangement is stated.
 
 ## Mozambique
 

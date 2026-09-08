@@ -4,7 +4,7 @@ compiled: 2026-09-08
 period: 2026-08-01 to 2026-09-08
 subject: include.access
 places: DZA; AGO; BWA; BDI; CMR; CAF; COM; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GHA; KEN; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NAM; NER; NGA; STP; SEN; SYC; SLE; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: bf1bc05100ed
+record: 8d735bbffb96
 ---
 
 # Access to services: monthly update, August 2026
@@ -51,6 +51,8 @@ The justice ministry's site carries a [live contact form letting a citizen selec
 
 Access moved by putting the counter where people already are. The civil-registry agency [opened an office inside a Yopougon shopping centre on 14 August](https://www.oneci.ci/actualites/1787127124). It is one site, with no opening hours, service list or plan for further locations published.
 
+On 4 September the national coordination of disabled people's associations and the incumbent operator [signed a partnership at Abobo Sogefiha for training in digital tools toward autonomy and employment, a first office-skills course already running at the coordination's headquarters, refurbished and equipped under the initiative](https://www.linfodrome.com/economie/125103-a-abobo-un-partenariat-strategique-pour-renforcer-l-inclusion-numerique-des-personnes-handicapees). It is an operator foundation's programme rather than a public one, and the base holds no state instrument on digital accessibility against which to read it.
+
 ## Djibouti
 
 The urban rehabilitation agency runs [a complaint-management portal that routes recovery and technical problems to named internal divisions](https://www.doleances.arulos.dj/). It is the only digital citizen-feedback channel the base holds, and it covers one agency's own business: no whole-of-government mechanism, service standard or complaint volume is published.
@@ -96,6 +98,8 @@ The mid-year fiscal review of 23 July recorded GH¢485m paid to cash-grant benef
 ## Kenya
 
 The Auditor-General's findings on the Hustler Fund entered the record on 23 July: [104,631 loans worth KSh 116.5m](https://www.the-star.co.ke/news/2026-07-23-borrowers-can-now-repay-hustler-fund-loans-using-bonga-points) were issued to borrowers whose national identity details were missing from the customer database, against a 15% default rate and state funding down to KSh 300m in the year to June 2026.
+
+A measure of harm arrived where the base had none. A UN children’s agency report found [about one million internet-using Kenyan children exposed to unwanted sexual content online, a rate of 20.1% and the third highest of 21 countries surveyed behind Uganda and Ethiopia, with most child victims knowing their abusers personally, WhatsApp the platform most used to target them, and about 1% of cases reported to police](https://nation.africa/kenya/news/gender/when-the-danger-comes-through-a-child-s-phone-one-in-five-children-exposed-to-sexual-content-online-5583836). The findings rest on nationally representative household survey data collected between 2020 and 2025 from children aged 12 to 17. The report itself is not held, only a newspaper account of it.
 
 ## Liberia
 

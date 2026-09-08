@@ -3,13 +3,13 @@ title: Rural digital data capture — monthly update, August 2026
 compiled: 2026-09-08
 period: 2026-08-01 to 2026-09-08
 subject: digital.rural
-places: BDI; TCD; COM; SWZ; GHA; GIN; LSO; LBY; MWI; MLI; MUS; NGA; SEN; SLE; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 9ea3fa4f0341
+places: BDI; TCD; COM; SWZ; GHA; GIN; KEN; LSO; LBY; MWI; MLI; MUS; NGA; SEN; SLE; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: f4482667cc34
 ---
 
 # Rural digital data capture: monthly update, August 2026
 
-*20 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*21 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -38,6 +38,10 @@ It is a standing description dated to capture rather than an event, and it sits 
 ## Guinea
 
 The first rural digital service to reach farmers this month was a private one carried on a state bank's counters. An agritech firm and the state rural bank [launched a first cohort at Conakry on 6 August pairing field sensors, weather alerts and agronomic advice with the bank's network of over 1,000 service points](https://www.guinee7.com/2026/08/07/kumy-et-le-crg-unissent-leurs-forces-pour-les-agriculteurs/). No cohort size, cost or coverage is stated, and the base still holds no state rural digital-services programme to set beside it.
+
+## Kenya
+
+Rural digitalisation arrived as a marketplace rather than an office. [Mkulima Bora, built by a private developer with a German development agency and Rift Valley county governments, connects smallholders directly with bulk buyers and verified input suppliers, with search by county, sub-county and ward, a map view, negotiated offers and logistics booking](https://govstack.global/news/from-govstack-principles-to-practice-connecting-kenyan-farmers-with-markets-through-mkulima-bora/). It is built on reusable components and open standards rather than as a closed system, so that registration, consent management, registries, messaging and scheduling connect to existing government infrastructure. The account is the standards initiative’s own, and it states no county list, user count or public funding.
 
 ## Lesotho
 

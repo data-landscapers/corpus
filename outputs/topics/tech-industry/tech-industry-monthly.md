@@ -3,19 +3,23 @@ title: ICT Industry — monthly update, August 2026
 compiled: 2026-09-08
 period: 2026-08-01 to 2026-09-08
 subject: tech.industry
-places: DZA; BWA; EGY; GNQ; SWZ; GAB; GHA; MAR; NER; NGA; SEN; ZAF; SDN; TZA; TGO; ZMB; ZWE
-record: 2317c1f07d0d
+places: DZA; AGO; BWA; EGY; GNQ; SWZ; GAB; GHA; MUS; MAR; NER; NGA; SEN; ZAF; SDN; TZA; TGO; ZMB; ZWE
+record: 5e21e709d837
 ---
 
 # ICT Industry: monthly update, August 2026
 
-*17 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*19 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
 The state's electronics industry began selling digital infrastructure rather than devices. Its electronics firm, in a consortium with two other companies, [signed a protocol with the coordination of a Congolese new-city expansion project for digital technologies, electronic payment systems, digital equipment and associated services, with knowledge transfer and a centre for innovation covering payment systems, cybersecurity and applied artificial intelligence](https://algerie-eco.com/2026/09/04/inatel-signe-un-accord-strategique-pour-le-projet-de-nouvelle-ville-de-kinshasa/), signed before this country's ambassador. No amount is stated by any party, so what is recorded is the direction of travel rather than a commitment: the firm had previously exported only payment terminals into the same market.
+
+## Angola
+
+The sector was given a growth rate and nothing to read it against. The secretary of state for telecommunications told the close of the seventeenth technology innovation fair that [the telecommunications, information technology and media sector grew 14.3% in its contribution to gross domestic product in the second quarter of 2026, among the five best-performing sectors](https://angop.ao/noticias/economia/secretario-de-estado-reconhece-contributo-das-telecomunicacoes-na-economia/). It is a rate given in a speech: no level, no base, no statistical release, and a sector that bundles media with telecommunications and IT.
 
 ## Botswana
 
@@ -44,6 +48,10 @@ A ride-hailing platform [began recruiting drivers at Libreville in partnership w
 ## Ghana
 
 On 27 July a company filed a writ claiming authorship of the 2007 design of the dominant mobile-money platform; the operator answered on 31 July that the claims are without merit and it will contest fully.
+
+## Mauritius
+
+The month’s industry news is a stake, not a product. A pan-African investment fund [took a minority holding in a Mauritian digital transformation consultancy](https://www.wearetech.africa/fr/fils/breves/breves-simple/le-fonds-africinvest-investit-dans-la-societe-mauricienne-spoon-consulting), with no sum disclosed. Neither the stake size, the use of proceeds nor a holding period is stated.
 
 ## Morocco
 

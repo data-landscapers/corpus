@@ -4,7 +4,7 @@ compiled: 2026-09-08
 period: 2026-08-01 to 2026-09-08
 subject: data.statistics
 places: BWA; BDI; CMR; CAF; TCD; COM; COG; COD; GNQ; GAB; GHA; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; TGO; UGA; ZWE
-record: cc6657f0a364
+record: 083fa96ea305
 ---
 
 # National statistics: monthly update, August 2026
@@ -140,6 +140,8 @@ The office also published [a frame update for the continuous population survey a
 ## Togo
 
 The dissemination layer is being rebuilt while the strategy above it has lapsed. The 2024 [national statistical yearbook](https://inseed.tg/download/7668/) was reissued in a revised edition in August, compiled from sectoral administrative systems and ministry returns as well as censuses. The [2020-2024 statistics strategy](https://afristat.org/wp-content/uploads/2022/04/22_Togo-SNDS-II_Adopte-CNS-le-27aout20_avant-propos-signe-MPDC.pdf) beneath it expired with no successor adopted; orientations were set in June, and orientations are not a strategy.
+
+The statistics institute put a second survey in the field. The third harmonised household living-conditions survey [runs to December 2026, covering poverty, income and employment](https://www.togofirst.com/en/economic-governance/0409-19955-togo-launches-household-living-conditions-survey-running-through-december) — the second of two rounds opened within six weeks, after a demographic and health gap of more than a decade.
 
 ## Uganda
 

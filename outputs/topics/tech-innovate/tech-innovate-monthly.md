@@ -3,13 +3,13 @@ title: Innovation ecosystem — monthly update, August 2026
 compiled: 2026-09-08
 period: 2026-08-01 to 2026-09-08
 subject: tech.innovate
-places: DZA; BWA; BFA; CMR; CPV; COM; CIV; COD; EGY; ERI; SWZ; GAB; GMB; GHA; GIN; KEN; LBR; MLI; NAM; NER; NGA; RWA; SYC; ZAF; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: fd4a6aeb719f
+places: DZA; AGO; BWA; BFA; CMR; CPV; COM; CIV; COD; EGY; ERI; SWZ; GAB; GMB; GHA; GIN; KEN; LBR; MLI; NAM; NER; NGA; RWA; SYC; ZAF; SDN; TZA; TUN; UGA; ZMB; ZWE
+record: 2043f13b3591
 ---
 
 # Innovation ecosystem: monthly update, August 2026
 
-*30 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*31 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -18,6 +18,10 @@ record: fd4a6aeb719f
 The student start-up conversion scheme reports [673 start-ups, 3,949 patents and 2,339 innovative-project labels between 2022 and July 2026, against a 2030 target of 5,000 labelled products](https://elwatan.dz/strategie-nationale-de-lintelligence-artificielle-kamel-baddari-fixe-la-feuille-de-route/). It lets students convert final-year projects into start-ups or patents and is supported by a prototype-financing scheme and the country's first venture-capital fund. The ministerial order behind it is not held, neither its date nor its text.
 
 The money attached to the President of the Republic's Prize for the best start-up [was raised by presidential decree 26-277 of 23 August 2026](https://www.joradp.dz/FTP/jo-francais/2026/F2026060.pdf), amending article 3 of the founding decree of January. The amounts and the award cycle are set by decree rather than by a programme document.
+
+## Angola
+
+The month’s startup news is a lawsuit. The founders of Paga3, owned by Cafeje-Comércio e Indústria, [accuse Standard Bank Angola of using strategic information shared in a pilot project to develop a similar product, in a case that entered court about a year ago and awaits a decision on interim relief; the bank rejects the accusation and calls the claim abusive](https://www.novojornal.co.ao/economia/detalhe/projecto-paga3-acusa-standard-bank-angola-de-uso-indevido-de-start-up---banco-rejeita-acusacao-e-considera-reclamacao-abusiva-74476.html). The source is paywalled beyond its opening, so neither party’s pleadings nor the case number is on record.
 
 ## Botswana
 
@@ -102,7 +106,7 @@ A civil-society organisation [launched an application for reporting and checking
 
 ## Namibia
 
-Two small pieces of ecosystem plumbing. The ninth national ICT summit [received over N$1.2 million ahead of the event](https://www.nbcnews.na/node/118562), and the communications regulator [held a second entrepreneurship breakfast in Oshakati to build the northern digital economy](https://economist.com.na/cran-drives-northern-digital-economy-at-second-entrepreneurship-breakfast-in-oshakati/). Both are convening rather than capital: nothing in the record held names a company founded, funded or scaled through either.
+Two small pieces of plumbing. The ninth national ICT summit [received over N$1.2 million ahead of the event](https://www.nbcnews.na/node/118562), and the communications regulator [held a second entrepreneurship breakfast in Oshakati to build the northern digital economy](https://economist.com.na/cran-drives-northern-digital-economy-at-second-entrepreneurship-breakfast-in-oshakati/). Both are convening rather than capital: nothing in the record held names a company founded, funded or scaled through either.
 
 ## Niger
 

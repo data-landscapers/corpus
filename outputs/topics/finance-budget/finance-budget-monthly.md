@@ -4,7 +4,7 @@ compiled: 2026-09-08
 period: 2026-08-01 to 2026-09-08
 subject: finance.budget
 places: AGO; COD; EGY; GMB; NER; SEN; SDN; TUN
-record: ae69922a15b2
+record: 8ca152b28548
 ---
 
 # Domestic budget appropriations and expenditure: monthly update, August 2026
@@ -19,7 +19,7 @@ August ended with three presidential authorisations in a single week. The presid
 
 ## DR Congo
 
-The money behind the finance inspectorate's digitalisation turns out to be domestic. The US$22 million presented in May as already-identified financing [is the state's own allocation rather than donor money](https://www.deskeco.com/2026/08/26/rdc-les-22-millions-usd-annonces-pour-le-projet-de-digitalisation-du-controle-de-ligf-proviendront/), its inspecteur général chef de service confirmed. That distinction matters for a programme whose durability depends on whether it survives a budget cycle rather than a grant period; the record held carries no disbursement schedule against it.
+The money behind the finance inspectorate's digitalisation is domestic. The US$22 million presented in May as already-identified financing [is the state's own allocation rather than donor money](https://www.deskeco.com/2026/08/26/rdc-les-22-millions-usd-annonces-pour-le-projet-de-digitalisation-du-controle-de-ligf-proviendront/), its inspecteur général chef de service confirmed. That distinction matters for a programme whose durability depends on whether it survives a budget cycle rather than a grant period; the record held carries no disbursement schedule against it.
 
 ## Egypt
 

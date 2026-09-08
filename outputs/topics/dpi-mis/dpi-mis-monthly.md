@@ -3,13 +3,13 @@ title: Sectoral management information systems (HMIS, EMIS, etc.) — monthly up
 compiled: 2026-09-08
 period: 2026-08-01 to 2026-09-08
 subject: dpi.mis
-places: DZA; AGO; BEN; BWA; BDI; CMR; CPV; CAF; COM; COG; CIV; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NGA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: e39deeef1f01
+places: DZA; AGO; BEN; BWA; BDI; CMR; CPV; CAF; COM; COG; CIV; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: d296d302c82b
 ---
 
 # Sectoral management information systems (HMIS, EMIS, etc.): monthly update, August 2026
 
-*44 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*45 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -156,6 +156,10 @@ Federal [HR and payroll](https://fmino.gov.ng/fg-launches-ippis-human-resource-m
 The federal payroll is to be audited from the outside. The President [directed the finance minister on 28 August to coordinate a forensic audit of the integrated personnel and payroll information system and related payroll, pension and financial-management platforms - reconciling ghost-worker figures, tracing how ineligible persons were enrolled, reviewing access, identity, biometric and bank-account controls, and examining the interfaces with the financial management system and the Treasury Single Account](https://www.thisdaylive.com/2026/08/29/fake-agencies-tinubu-orders-forensic-sweep-of-ippis-ministries-fg-institutions/), alongside a definitive inventory of every federal agency and its legal basis.
 
 The delivery end of the social-protection architecture failed its audit. The Auditor-General's 2024 report states that [the government could not provide auditors with sufficient evidence that ₦33.75bn of cash transfers intended for more than 3,295,207 vulnerable households reached genuine beneficiaries, the payment platform's statements not having been supplied](https://punchng.com/falana-serap-demand-probe-into-n33-75bn-cash-transfer/), and a civil-society organisation puts over ₦78.8bn across social protection programmes as diverted, unaccounted for or irregularly spent. The audit report itself is not held, and no response from the agencies named is on file — but the finding is about the same register and the same rail the unified architecture is being designed on top of.
+
+## Rwanda
+
+The judiciary set technology as a priority for the year ahead. At the launch of the 2026/2027 judicial year on 4 September the Chief Justice said the judiciary would [continue promoting the use of technology to accelerate the delivery of justice services](https://www.newtimes.co.rw/article/38718/news/rwanda/emerging-crimes-digital-justice-whats-ahead-in-new-judicial-year), alongside greater use of alternative dispute resolution and a revision of the Code of Judicial Procedure to provide for pre-filing mediation. It is a priority: no target, budget or measure is attached to it.
 
 ## Sao Tome and Principe
 

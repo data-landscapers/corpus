@@ -3,13 +3,13 @@ title: Public debate and participation in policymaking — monthly update, Augus
 compiled: 2026-09-08
 period: 2026-08-01 to 2026-09-08
 subject: gov.discourse
-places: BEN; BFA; CMR; TCD; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; MWI; MLI; MUS; MAR; NAM; NER; NGA; SYC; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: fb80ae5268ec
+places: BEN; BFA; CMR; TCD; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; MWI; MLI; MUS; MAR; NAM; NER; NGA; SEN; SYC; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 1444edc67675
 ---
 
 # Public debate and participation in policymaking: monthly update, August 2026
 
-*35 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*36 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -32,6 +32,8 @@ The 2026 national Internet Governance Forum [met at the Palais des Congres in Ya
 On 4 August the Haute autorité des médias et de l'audiovisuel [announced](https://www.lepaystchad.com/tchad-la-hama-suspend-lexamen-des-demandes-de-creation-des-journaux-en-ligne/) that it suspends, "jusqu'à nouvel ordre", examination of applications to create online newspapers. The regulator presented the freeze as implementation of its 2026–2028 three-year strategic plan, one axis of which is to clean up the profession and better address "information disorder", and said it would study new arrangements for governing online newspapers with all stakeholders. The communiqué carried no date of its own, set no end date, no published criteria and no transitional treatment for applications already filed, so the outlets already licensed become a closed list for the duration.
 
 A [national internet governance forum devoted to artificial intelligence is in preparation](https://tchadinfos.com/2026/08/25/gouvernance-dinternet-le-tchad-prepare-un-forum-national-consacre-a-lintelligence-artificielle/), with no date, venue or agenda yet announced.
+
+A report by two research organisations [documents 44 fabricated identities — 35 ghost journalists and nine fake experts — placed in African media between 2021 and 2026, which it links to Russian influence operations](https://lendjampost.com/desinformation-en-afrique-un-rapport-alerte-sur-un-reseau-de-journalistes-fantomes-lie-a-des-operations-dinfluence-russes/). The report itself is not held, only a Chadian newspaper’s account of it, and no Chadian outlet, byline or piece is named in what is held.
 
 ## Congo
 
@@ -119,6 +121,8 @@ Simplification is law and is not yet practice. A member's written question to th
 
 The administrative rule that would matter most for digital services was proposed from outside government. A party's election manifesto [proposes that administrative silence count as approval, that prior authorisations be reduced, and that artificial intelligence be used in the governance of public policy](https://www.lodj.ma/La-petite-revolution-administrative-cachee-dans-le-programme-de-l-Istiqlal_a183608.html). It binds nobody unless the party forms a government, and no bill, scope, exempted-decision list or timetable exists — but tacit approval is the one reform that would change what a digital procedure actually delivers, rather than how it is submitted.
 
+The spyware allegations were argued rather than adjudicated. Two Moroccan commentaries on 8 September set out the domestic case: an academic and politician [rejected as overstated the July 2026 consortium findings tying Moroccan bodies to the compromise of the Spanish prime minister’s phone](https://assabah.ma/948467.html), and a separate press analysis [asked whether the Spanish courts will reopen a related file](https://www.hespress.com/%d9%85%d9%86-%d8%aa%d8%b5%d9%81%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%86%d8%b8%d8%b1%d9%8a-%d8%a5%d9%84%d9%89-%d8%a8%d9%8a%d8%ba%d8%a7%d8%b3%d9%88%d8%b3-%d9%87%d9%84-%d9%8a%d9%81%d8%aa%d8%ad-1804139.html) — neither the findings nor any court filing is held here, and the base establishes nothing about the underlying allegation either way.
+
 ## Namibia
 
 The dominant mobile operator [publicly rejected customer claims that it takes data](https://www.namibian.com.na/we-dont-steal-your-data-mtc/), its data adviser telling a trade-fair discussion on 30 August 2026 that billing is consumption-based, attributing rapid depletion to video streaming and hotspot sharing, and distinguishing consumption from bundle expiry. The operator said it is building a control letting customers opt in or out of airtime being spent on data once a bundle runs out; no implementation date was given. It is the one argument in this section held with a company rather than a ministry, and the only one that produced a stated product change.
@@ -131,6 +135,10 @@ A state observatory monitored the country's media and platforms through a securi
 
 The month's one item is a formal demand rather than a policy change: a rights organisation and the Guild of Editors [jointly called on 24 August 2026 for enforcement of the Cybercrimes Act to be suspended pending repeal or revision, arguing that the 2024 amendment failed to cure the defect the ECOWAS Court of Justice identified in 2022 when it ruled the original section 24 vague, arbitrary and in breach of the African Charter](https://blueprint.ng/cybercrimes-serap-nge-seek-reform-media-freedom-cites-ecowas-court-verdicts/). No government or prosecutorial response is on file.
 
+## Senegal
+
+Where a mast is put became a parliamentary question. A member of the National Assembly [addressed written questions to several ministers over the proliferation of telecommunications masts sited close to residential areas, seeking clarification of the conditions under which they are installed](https://www.seneweb.com/fr/news/Societe/pylones-de-telecommunications-a-proximite-des-habitations-thierno-alassane-sall-alerte-sur-les-risques_n_503519.html). The questions are put and not answered, and the base holds no siting rule, exposure standard or regulator position against which to read them.
+
 ## Seychelles
 
 [Parliament amended the Seychelles Broadcasting Corporation Act in June 2026](https://www.afrobarometer.org/publication/ad1219-seychellois-endorse-medias-oversight-role-but-many-doubt-that-it-is-truly-free/), transferring greater power over the appointment and dismissal of the public broadcaster's board from the independent Constitutional Appointments Authority to the President. The base holds no primary text of the amendment; what it holds is Afrobarometer's August dispatch, which reports it citing Broadcast Media Africa and the International Press Institute, and sets it against the survey it was publishing.
@@ -139,7 +147,9 @@ That survey, fielded in 2025, finds [45% of Seychellois calling the media somewh
 
 ## Somalia
 
-A former prime minister published an argument that [the country cannot afford another term of lost wealth](https://www.dawan.africa/news/khaire-somalia-cannot-afford-another-term-of-lost-wealth-op-ed). It is a signed opinion on resource governance rather than a policy position, and it carries no digital component of its own. It is held because public argument of this kind is otherwise absent from this ledger, and the absence is itself the finding: a base that records instruments and no debate about them cannot show a reader where the pressure on those instruments comes from.
+The state gave a number for what it removes from the internet. On 3 September the information ministry's director general said the federal government had [closed 82,000 social media pages during 2026 that it alleges carried armed-group propaganda, across Facebook, TikTok and Telegram, with the count still rising](https://www.hiiraan.com/security4/2026/Sep/206174/somali_government_closes_82000_extremistlinked_social_media_pages_in_2026.aspx), placing the removals as the ideological front of a counter-terrorism strategy alongside its military and economic ones. The count, the platforms and the attribution are the ministry's; no legal basis, appeal route, oversight mechanism or platform confirmation was stated.
+
+Separately, a former prime minister published an argument that [the country cannot afford another term of lost wealth](https://www.dawan.africa/news/khaire-somalia-cannot-afford-another-term-of-lost-wealth-op-ed). It is a signed opinion on resource governance rather than a policy position, and it carries no digital component of its own.
 
 ## South Africa
 
