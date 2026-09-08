@@ -44,6 +44,7 @@ title: Corpus process log
 
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 <!-- newest first: a new entry goes directly below this line -->
+2026-09-08 06:32 · fix · unclocked · Monthly word budget is now a rate per ledger row — country 300+25 to 1,200+55, region 300+25 to 900+55. All 60 inside band; the old flat band held 12 of 54.
 2026-09-08 06:10 · render · 9m · 251 documents, 38-item bulletin, 38 topic pages; catalogue 20,211 on 5,658 name shards, finance 1,421 deals US$106,565m; 133 stale editions pruned; deployed — ok
 2026-09-08 06:00 · build · 1h19m · 45 units, 196 sources: 62 rows moved, 61 minted, GMB backfilled 29. Catalogue 20,211 (rebuilt mid-run as the base moved), topics 76 docs, bulletin 38 items — ok
 2026-09-08 04:41 · notes · 25m · Note 23 closed: Corpus derives no slug — `vault_lib` reads the `raw/` filename stem. The six stale forms were real filenames Corpus catalogued, never committed under those names. All 42 units swept: 0 citations to unheld slugs. Share `c18417b`.
