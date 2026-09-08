@@ -3,9 +3,9 @@ title: Nigeria — monthly update, August – September 2026
 compiled: 2026-09-08
 period: 2026-08-01 to 2026-09-08
 place: NGA
-ledger_rows: 158
+ledger_rows: 161
 not_held: 9
-record: 510cf828adaa
+record: 2eafca6523c8
 ---
 
 # Nigeria: monthly update, August – September 2026
@@ -151,6 +151,8 @@ The communications regulator [issued a Guidance Note on cybersecurity budgets on
 ### Data Exchange
 
 <!-- narrative: dpi--dpi-exchange -->
+The education repository put figures against its institution count. It now holds [907 enrolled institutions — 259 universities and 163 polytechnics among them — past 400,000 theses and dissertations with 115,000 credentials verified](https://www.thisdaylive.com/2026/09/07/nerds-academic-database-hits-400000-115000-credentials-verified/), reported on 7 September. [Submissions run 409,456 undergraduate against 1,563 postgraduate](https://www.thisdaylive.com/2026/09/07/nerds-academic-database-hits-400000-115000-credentials-verified/), a ratio of 262 to one, so what is being built is a record of first degrees.
+
 Nine agencies took bilateral cover under the amended identity Act inside a fortnight, among them [Solid Minerals](https://www.thisdaylive.com/2026/07/20/alake-nimc-partner-to-deploy-digital-identity-against-illegal-mining/), [the Presidency](https://www.thisdaylive.com/2026/07/22/shettima-nigerias-digital-transformation-under-tinubu-unrivalled-hails-ongoing-reforms-by-nimc-management/) and [Women Affairs and the Bank of Industry](https://www.thisdaylive.com/2026/07/24/nimc-seals-strategic-partnerships-with-women-affairs-ministry-boi-to-deepen-digital-identity-financial-inclusion/); no account states a lawful basis, consent mechanism or retention rule for the sharing that follows. The [Nigeria Data Exchange now moves personal data between ministries in production](https://www.biometricupdate.com/202607/nigeria-unveils-digital-govt-platform-for-unified-access-to-public-services) behind the Government Service Portal, on the same silence. Against the single-source-of-truth framing, named practitioners [describe the arrangement as federated linkage on a shared identifier](https://www.vanguardngr.com/2026/07/nin-contradiction-high-cost-of-false-integration/), with banks still reconciling by hand. The [National Single Window](https://www.vanguardngr.com/2026/08/customs-agents-disagree-over-national-single-window-operations/), launched in March, is contested by licensed customs agents who say clearance paperwork has multiplied rather than consolidated.
 
 A state built its own exchange for the most sensitive category of all. Lagos [set out a Smart Health Information Platform on 8 August, to connect patient records, laboratory results and biological data across facilities](https://thesun.ng/lagos-pushes-ai-health-data-to-transform-healthcare-delivery/) and to underpin an artificial-intelligence-driven health system, citing the Ebola and COVID-19 outbreaks as the case for moving off siloed facility records. No legal basis, data-controller arrangement, consent model, retention rule or relationship to the national data-protection regime is stated for it — the same silence the federal exchanges above are described in.
@@ -158,6 +160,8 @@ A state built its own exchange for the most sensitive category of all. Lagos [se
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
+A state credential went further than the national one. Lagos made the [residents registration number mandatory for admission and enrolment in every public and private school in the state, schools required to record a valid number from 14 September](https://www.vanguardngr.com/2026/09/2026-27-session-lagos-makes-lasrra-number-compulsory-for-school-admission/), the stated purpose being a verifiable learner database for planning, monitoring and service delivery. No exemption, appeal route or treatment of unregistered children is stated, and the credential is the state's rather than the national identity number.
+
 Identity gained infrastructure and kept its gap. The passport became [cryptographically verifiable at 111 member states' borders](https://www.biometricupdate.com/202607/nigeria-achieves-full-icao-pkd-integration-for-its-biometric-passport) on 16 July; the identity authority [took the national root certification authority over from NITDA](https://techafricanews.com/2026/07/22/nitda-and-nimc-deepen-partnership-to-accelerate-nigerias-digital-public-infrastructure/) on 21 July; and [V-Pass went live](https://www.biometricupdate.com/202607/nigerias-id-authority-takes-on-new-duties-to-secure-growing-digital-ecosystem) for airport security checks and boarding on the number and face biometrics. Registration stands at [136 million against a target of 180 million by 31 December](https://guardian.ng/news/nimc-enrols-136-million-nigerians-as-coker-odusote-pushes-stronger-inter-ministerial-partnership/), leaving about 100 million people uncaptured on the information minister's own figure. The root certification authority it took over also created a conflict: the NIMC Act 2026 makes the identity commission the root authority while the [still-pending Digital Economy and E-Governance Bill carries its own electronic-signature provisions](https://techcabal.com/2026/08/13/nigerias-identity-law-raises-questions-over-digital-signatures/), and which instrument governs digital signatures is unresolved.
 
 
@@ -201,6 +205,8 @@ On the cross-border rail the operator reported [Nigeria–Rwanda volumes approac
 
 <!-- narrative: dpi--dpi-registry -->
 [Civil registration](https://www.nigeriacommunicationsweek.com.ng/npc-opens-nationwide-digital-birth-death-registration-platform/) went nationwide from 1 July on a platform run as a public-private partnership, a private contractor carrying availability and security duties over the register of births and deaths.
+
+The electoral roll got its own numbers on 8 September. The commission said the register was [approaching 100 million ahead of the 2027 general elections, on 10,772,421 new registrants in the latest continuous registration exercise, with a real-time election readiness tracker to be deployed across the 36 states and the federal capital territory](https://www.vanguardngr.com/2026/09/2027-polls-voter-register-nears-100m-inec/). The totals are its own; no register audit, duplicate rate or link to the national identity number accompanies them, and the devices that read the roll failed at a state election three weeks earlier.
 
 A second register was put on the same path, without a date. The maritime administration says it is [moving towards full automation of the Nigerian ship registry so that operators can register and transact remotely, including payment, without attending its offices](https://von.gov.ng/nimasa-embraces-digitisation-to-end-operational-delays/), framed as part of reforms to remove human contact, block revenue leakages and cut delays. It is a statement of direction: no date, cost or vendor accompanies it.
 <!-- /narrative -->
