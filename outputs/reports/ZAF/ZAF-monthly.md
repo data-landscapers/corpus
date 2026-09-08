@@ -3,9 +3,9 @@ title: South Africa — monthly update, August – September 2026
 compiled: 2026-09-08
 period: 2026-08-01 to 2026-09-08
 place: ZAF
-ledger_rows: 136
+ledger_rows: 138
 not_held: 23
-record: fad71f4333bf
+record: f5c5498f40f8
 ---
 
 # South Africa: monthly update, August – September 2026
@@ -27,6 +27,8 @@ Two long-running instruments reached dates. The [analogue television switch-off 
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
+The regulator opened two inquiries and the state put two studies out to tender, all of them into the same question. On 4 September the regulator said it would [inquire into the impact of over-the-top services on consumers, naming Netflix and WhatsApp, on the ground that such services have disrupted regulated linear broadcasting's competition for audiences and revenue](https://www.sundaytimes.timeslive.co.za/news/2026-09-07-ott-prices-in-line-of-fire-icasa-takes-aim-at-netflix-and-whatsapp/), and in a separate notice that it intends to inquire into the cost of telecommunications services, aligned with its earlier data-services market inquiries. Neither carries published terms of reference or a timetable, and it is not the first decade in which the cost of communicating has been inquired into.
+
 The state put two studies out to tender and conceded the gap they are meant to fill. The communications department's market-analysis tender [concedes a current policy vacuum and that the price benefits expected from the 2022 spectrum auction remain largely unmet](https://www.timeslive.co.za/news/business/2026-08-01-sas-data-price-puzzle/), naming market concentration, spectrum allocation and the burden on prepaid consumers as structural causes; its deliverables are a cost-to-communicate roadmap and an assessment of progress on the 2019 data-services market inquiry recommendations. A second tender [seeks an ICT-indicators and scenario-modelling system to steer the digital economy to 2050](https://www.itweb.co.za/article/top-ict-tenders-dcdt-eyes-2050-digital-economy-vision/KPNG878NLorq4mwD), with no award, value or delivery date. Against both, the reform programme's quarterly report [concedes progress has been uneven and in certain instances slower than initially anticipated](https://www.treasury.gov.za/comm_media/press/2026/Operation%20Vulindlela%20Progress%20Report%20Q1%20-%202026.pdf), against the 80% on-track figure that remains its dated prior.
 
 A third instrument is being fast-tracked rather than tendered. The Presidency and the planning and evaluation department [put a digital dashboard monitoring mega infrastructure projects before the parliamentary committee on the Presidency](https://www.parliament.gov.za/press-releases/media-alert-committee-presidency-assess-progress-implementing-sona-commitments-and-tracking-mega-infrastructure-projects), alongside a wider review of progress against the state-of-the-nation commitments. No delivery date, data source, custodian or statement of whether the dashboard will be public is given — which for a monitoring instrument is the whole of the question. The portfolio minister separately [set out persistent governance and liquidity problems across the department's eleven state-owned entities](https://www.itweb.co.za/article/malatsi-details-persistent-headaches-at-portfolio-depts/4r1ly7R9aK4vpmda), citing progress stabilising boards and the state IT agency's leadership, a completed public broadcaster funding model now with the Treasury, and ruling out a compulsory household levy.
@@ -95,6 +97,8 @@ On the resilience the 2025 double break exposed, the state-affiliated wholesaler
 
 <!-- narrative: ict-infrastructure--infra-store -->
 The commercial estate is expanding on the operator's own numbers rather than on a published plan. An international operator is [scaling its Johannesburg facility to 24MW and holds a ZAR7.5bn South African expansion budget covering that site plus banked land in Johannesburg and Cape Town](https://www.itweb.co.za/article/equinix-doubles-down-on-joburg-data-centre-expansion/PmxVE7KEObLqQY85), with further build-out held pending demand. No grid connection, water use or municipal approval detail is stated — and a civil-society coalition used the same week to call for deceleration, transparency and public participation in data-centre expansion, which is the argument the absent detail is about.
+
+On 8 September a ratings agency put a name to the ceiling. It [rated South Africa's water resilience relatively low, on water stress in Johannesburg, Gauteng and elsewhere, named energy and water as the key risks to a pipeline it describes as almost twice the size of current global operating capacity across emerging markets, and counted more than 60 known data centres at about 500MW of disclosed capacity](https://www.sundaytimes.timeslive.co.za/news/2026-09-08-sas-data-centre-boom-risks-hitting-a-wall-over-water-and-power/), suggesting operators may need decentralised modular energy that bypasses the main grid. Power dominates the local argument; the assessment says water is the constraint that will decide it.
 
 
 The expansion also drew its first organised objection. A civil-society coalition [submitted concerns to the human rights commission on 10 August calling for a halt on data-centre developments pending transparent public participation, citing strain on scarce water, land and electricity](https://climatejusticecoalition.org/cjc-public-participation-in-south-africas-data-centre-expansion/). No participation process, commission response or moratorium is on record, which is what makes the objection the only thing here that can be dated.
