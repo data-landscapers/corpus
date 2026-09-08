@@ -39,6 +39,7 @@ import importlib.util
 import sys
 import urllib.error
 import urllib.request
+import uuid
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -164,8 +165,15 @@ def serves(key: str, timeout: int = 30) -> str:
 
     A `200` proves nothing on its own while the file is still on Pages, so this is read for the
     header the Worker sets and Pages does not: an immutable `cache-control`. That is the one
-    observable difference between the two origins."""
-    req = urllib.request.Request(f"{SITE_BASE}/{key}", method="HEAD",
+    observable difference between the two origins.
+
+    **A cache-buster is appended because otherwise this measures Cloudflare's cache rather than
+    the Worker.** Anything fetched before the Worker was deployed sits at the edge as a Pages
+    response for four hours, and a check that read those would report `pages` for a file the
+    Worker is in fact serving — failing the cutover for a reason that fixes itself. The query
+    string reaches neither the R2 key nor the KV key, both of which are the path alone."""
+    bust = f"?cb={uuid.uuid4().hex[:12]}"
+    req = urllib.request.Request(f"{SITE_BASE}/{key}{bust}", method="HEAD",
                                  headers={"user-agent": "corpus-r2-sync"})
     try:
         with urllib.request.urlopen(req, timeout=timeout) as r:

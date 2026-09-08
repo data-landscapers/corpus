@@ -112,9 +112,16 @@ async function fromR2(request, env, key) {
     // `onlyIf` hands R2 the conditional headers, so a reader with the file cached gets a 304
     // and no body is billed or transferred. `range` serves the byte ranges a PDF viewer asks
     // for when it opens a large file without downloading all of it.
+    //
+    // **`range` is passed only when the request actually carried one.** Handed the full header
+    // set unconditionally, R2 resolves the absent Range to the whole object and reports it back
+    // as a span — which read as "this was a range request" and turned every ordinary download
+    // into a `206 Partial Content` covering the entire file. Legal by the letter, wrong in
+    // practice, and the sort of thing a download manager and a cache each mishandle differently.
+    const wantsRange = request.headers.has("range");
     const object = await env.EDITIONS.get(key, {
       onlyIf: request.headers,
-      range: request.headers,
+      ...(wantsRange ? { range: request.headers } : {}),
     });
     if (object === null) return null;                          // not in the bucket: origin answers
 
@@ -143,7 +150,7 @@ async function fromR2(request, env, key) {
     // **`content-length` is left to the runtime on anything carrying a body.** It computes one
     // from the stream, and a header that disagreed with the bytes actually sent is a truncated
     // download rather than an error anybody would see.
-    const span = object.range;
+    const span = wantsRange ? object.range : null;
     if (span && typeof span.offset === "number" && typeof span.length === "number") {
       const end = span.offset + span.length - 1;
       headers.set("content-range", `bytes ${span.offset}-${end}/${object.size}`);
