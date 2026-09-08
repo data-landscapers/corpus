@@ -1,6 +1,6 @@
 ---
 title: Algeria — digital transformation and data governance status report
-compiled: 2026-09-07
+compiled: 2026-09-08
 place: DZA
 region: XNA
 built_by: STATUS-INIT
@@ -152,7 +152,7 @@ The legal basis arrived only at the end of 2025. [Presidential Decree 25-320 of 
 
 What actually crosses is narrower than the framework, and older than it. [Citizens no longer submit civil status documents the national automated civil status register already holds, because authorised institutions including the Ministry of Justice retrieve them electronically](https://interieur.gov.dz/index.php/fr/mes-d%C3%A9marches-administratives/etat-civil?id=117) (2023), and [a single electronic company-creation portal run by the trade register enrols a new business simultaneously with the tax authority, the CASNOS and CNAS social security funds and the statistics office under one common identifier issued within three days](https://www.algerieinvest.dz/creation-dentreprise-toutes-les-formalites-administratives-se-feront-de-maniere-electronique/) (2023). [The tax, customs, human resource, social insurance and procurement systems each exchange data with other government systems](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), while [the whole-of-government interoperability framework was still in draft in 2025 and the exchange platform it would govern only partly in use](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update).
 
-[Dzair Services, presented as the single national platform through which administrations exchange verified data automatically, was still being extended in early 2026, with services and administrations being added](https://www.wearetech.africa/en/fils-uk/news/tech/algeria-launches-dzair-services-to-centralize-public-digital-platforms), and [Algeria joined the 50-in-5 digital public infrastructure campaign in March 2026 as its fifteenth African member](https://techreviewafrica.com/news/4649/algeria-joins-50in5-initiative-pledges-to-strengthen-africas-digital-public-infrastructure). [Published analysis in Le Matin d'Algérie holds that forms are dematerialised without changing the logics that produce them, leaving the citizen to bridge administrations that still cannot talk to each other](https://lematindalgerie.com/quand-le-digital-masque-limmobilisme-de-letat/).
+[Dzair Services, presented as the single national platform through which administrations exchange verified data automatically, was still being extended in early 2026, with services and administrations being added](https://www.wearetech.africa/en/fils-uk/news/tech/algeria-launches-dzair-services-to-centralize-public-digital-platforms), and [Algeria joined the 50-in-5 digital public infrastructure campaign in March 2026 as its fifteenth African member](https://techreviewafrica.com/news/4649/algeria-joins-50in5-initiative-pledges-to-strengthen-africas-digital-public-infrastructure). [Published analysis in Le Matin d'Algérie holds that forms are moved online without changing the logics that produce them, leaving the citizen to bridge administrations that still cannot talk to each other](https://lematindalgerie.com/quand-le-digital-masque-limmobilisme-de-letat/).
 
 ### Digital Identity and CRVS
 <!-- dpi.id -->

@@ -1,6 +1,6 @@
 ---
 title: Rwanda — digital transformation and data governance status report
-compiled: 2026-08-30
+compiled: 2026-09-08
 place: RWA
 region: XEA
 built_by: STATUS-INIT
@@ -271,7 +271,7 @@ What sits inside those conditions is small. The [active developer community](htt
 ### Innovation ecosystem
 <!-- tech.innovate -->
 
-Rwandan startups [raised about USD 26 million in equity and debt venture funding in 2024, enough for a place among Africa's top ten markets and below the USD 50 million threshold associated with an established ecosystem](https://partechpartners.com/africa-reports/2024-africa-tech-venture-capital-report) — the clearest measure of an ecosystem that is real, visible and still sub-scale. It [ranks 104th of 133 economies in the WIPO Global Innovation Index 2024, leading the low-income country group](https://www.wipo.int/edocs/gii-ranking/2024/rw.pdf).
+Rwandan startups [raised about USD 26 million in equity and debt venture funding in 2024, enough for a place among Africa's top ten markets and below the USD 50 million threshold associated with an established ecosystem](https://partechpartners.com/africa-reports/2024-africa-tech-venture-capital-report) — the clearest measure of a sector that is real, visible and still sub-scale. It [ranks 104th of 133 economies in the WIPO Global Innovation Index 2024, leading the low-income country group](https://www.wipo.int/edocs/gii-ranking/2024/rw.pdf).
 
 Activity is concentrated in financial technology, and that is where the institutional scaffolding has gone. The [Rwanda FinTech Centre, a one-stop hub run by the ICT ministry with the ICT Chamber, the Kigali International Financial Centre, the Rwanda FinTech Association and Luxembourg Cooperation, was inaugurated in March 2026](https://itweb.africa/article/rwandas-fintech-centre-sets-the-stage-for-growth/mYZRX79gzjLqOgA8), alongside a [FinTech Strategy 2024–2029 intended to diversify the sector beyond payments](https://itweb.africa/article/rwandas-fintech-centre-sets-the-stage-for-growth/mYZRX79gzjLqOgA8). A [regulatory sandbox for fintech held its second Demo Day in 2026](https://itweb.africa/article/rwanda-strengthens-african-fintech-hub-role/kYbe9MXba5bvAWpG), and the ministry's [Hanga Ventures Ignite programme showcases inclusion-focused startups, among them Kayko in SME finance and bookkeeping and Save Directly with a "Save Now, Buy Later" product](https://techreviewafrica.com/news/5673/rwanda-showcases-fintech-innovation-driving-financial-inclusion-through-hanga-ventures-ignite-programme) (May 2026).
 

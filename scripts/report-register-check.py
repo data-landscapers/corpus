@@ -80,9 +80,14 @@ TERMS = [
                     r"doubl(ed|ing) down", r"poised to", r"sets? the stage", r"paves? the way",
                     r"marks? a turning point"], True),
     ("jargon", [r"demateriali[sz]", r"dématériali", r"attack surface", r"ecosystem",
-                r"\bunlock(s|ed|ing)?\b", r"leapfrog", r"at scale", r"citizen journey",
+                r"\bunlock(s|ed|ing)?\b", r"leapfrog", r"\bat scale\b", r"citizen journey",
                 r"low-hanging"], False),
 ]
+# `at scale` carries word boundaries because without a leading one it matches **`that scale`**,
+# and "nothing since operates at that scale" is a measured comparison against a figure the
+# sentence has just given — the opposite of the vague booster the rule is against. Four of the
+# fourteen reported hits were that sentence. A check whose hits a writer learns to wave through
+# is worse than no check, so a false positive here is a defect and not a tolerance.
 # Case-sensitive, and that is the whole point: `US$40m` and the United States are not the
 # first-person plural, and a check that flags them every time teaches a reader to skip it.
 # A leading full stop is excluded for the same reason: `L.I. 2523` is a legislative instrument

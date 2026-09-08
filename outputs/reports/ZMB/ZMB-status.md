@@ -1,6 +1,6 @@
 ---
 title: Zambia — digital transformation and data governance status report
-compiled: 2026-08-21
+compiled: 2026-09-08
 place: ZMB
 region: XSA
 built_by: STATUS-INIT
@@ -189,7 +189,7 @@ Retail money moves over the National Financial Switch, [operated by the Zambia E
 
 Governance of the switch seats the central bank and the commercial banks: [non-bank payment providers have no seat on the clearing house board and put their views through an association instead](https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_Zambia.pdf) (2023). Across borders the country is connected at wholesale level only, through [the SADC and COMESA regional settlement systems, with no instant retail link out of the national scheme](https://africanenda.org/wp-content/uploads/SIIPS2023_CaseStudy_Zambia.pdf) (2023). Payments to the state run through the interbank system, whose [2024 rules provide for the central bank to process Revenue Authority transactions and point to integration with the financial management system and the treasury single account](https://www.boz.zm/ZIPSSRules2024.pdf), and that [account is in use across ministries, departments and agencies, settling over both gross-settlement and fast payment rails](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025).
 
-Identity has not been the binding constraint on access: the [refugee certificate has counted as valid know-your-customer documentation for mobile money and SIM registration since 2017](https://data.unhcr.org/en/documents/download/71306), which is how refugees in the settlements receive digital payments. Banking is the weaker channel — [access to banking services scores 35.9 out of 100](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-zm.pdf), and still ranks 11th of 54 African states (2023).
+Identity has not been the constraint on access: the [refugee certificate has counted as valid know-your-customer documentation for mobile money and SIM registration since 2017](https://data.unhcr.org/en/documents/download/71306), which is how refugees in the settlements receive digital payments. Banking is the weaker channel — [access to banking services scores 35.9 out of 100](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-zm.pdf), and still ranks 11th of 54 African states (2023).
 
 ### Registries
 <!-- dpi.registry -->

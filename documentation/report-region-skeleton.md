@@ -76,6 +76,13 @@ Same schema, `documentation/report-layer.md` §1 — but three of its columns do
 
 The region's ceiling rate matches the country's; its intercept is lower because a region has no status report to carry the standing description, so less of its monthly is fixed overhead. See `report-country-skeleton.md` → *Word budget* for the rest of the reasoning.
 
+**The progress band stays flat, and the two documents outside it stand** *(2026-09-08)*. A progress report's length is set by its form — eight sections, one narrative block each — and not by its input, which is why the monthly's rate does not carry over: `XAF` writes 1,145 words over 163 rows and `XNA` 403 over 12, so a per-row floor that fitted the thin region would demand 1,880 words of the thick one. What the five measured points show is a band that binds at both tails and pins the middle: 403 (12 rows, 4 sections), 892 (49, 6), 1,140 (44, 7), 1,145 (163, 8), 1,477 (84, 8) against 800–1,150.
+
+- **`XNA`, under by 397, stands.** North Africa's regional ledger carries 12 rows across four of the eight sections. Writing it up to 800 words means writing about what is not on the ledger, which is the failure this budget exists to prevent; the floor is the wrong instrument for a region that thin.
+- **`XWA`, over by 327, stands for now.** It is the most verbose of the five per section — 364 words on *systems* where `XAF` spends 193 over twice the rows — so a trim is real work rather than a fitting exercise. It is not done here because three of the five sit within 10 words of the ceiling, which says the ceiling is shaping the writing rather than catching excess, and trimming a sixth document to a number under review would bake that in.
+
+**What the measurement points to is a per-section band**, which the check cannot express: `BUDGET_RATE_LINE` resolves a rate against `ledger_rows`, and the driver here is the section count the document prints. That is new machinery, so it waits for the freeze to lift; until it does, these two exceptions are ruled and a third would be news.
+
 Count prose with links reduced to their anchor text (`re.sub(r'\[([^\]]*)\]\([^)]*\)', r'\1', body)`).
 
 ## Markers

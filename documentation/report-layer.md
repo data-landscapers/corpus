@@ -184,3 +184,14 @@ Nothing here is a source: reports are derived views, never cited by a wiki page,
 **No document in this layer carries a comment section.** The argument belongs downstream, in the published work these reports feed. A labelled comment section is a licence: prose written towards a verdict at the end leaks the verdict into the body.
 
 **The prose never narrates the ledger.** "Twenty-three rows moved this month" is a fact about the document, not about the unit. Write about the systems.
+
+**The register is against the report's vocabulary, not against the world's.** That is the rule behind the jargon group's case-sensitivity, and case is not enough on its own — sources write `ecosystem` in lower case in running prose too. The test that works is whose sentence it is: a term inside `[…](url)`, or naming an instrument, a study, an index band or a defined term, is the source speaking and stands; the same term in the report's bare prose is Corpus speaking, and that is what the rule reaches.
+
+**A standing hit is not an unfixed one, and no script can tell them apart** — which is why check K reports and a person rules. The estate was ruled through on 2026-09-08, 203 hits to 91. What went was every hit in Corpus's own voice: the `binding constraint` frame (34), thirty flash verbs, `at scale` used as a booster (7), `turns out to be`, `counter-example`, `unlocks`, `attack surface`, `citizen journey`, and `ecosystem` or `dematerialisation` wherever a plainer word said the same thing. **The 91 that remain are five standing categories, recorded here so a later run recognises the floor instead of ruling it again:**
+
+- **First person, 27.** Roman numerals (`Phase I`, `Tier I to Tier III`, `NFIS I`, `Diário da República I Série`), catalogue slugs carrying `-us-`, quoted source speech, and Telecom Egypt's brand `WE`. `FIRST_PERSON` already excludes the commonest of these; the residue is the price of not excluding more.
+- **`landed`, 4.** A submarine cable is *landed* at a landing station: the industry's word and the sources', not a flourish.
+- **`ecosystem`, 48**, and **`dematerialis`, 9.** Every one is a source's own name for the thing — a study's title, an index's category, a proclamation's defined term, a francophone administration's word for its own programme. Substituting a plainer word would misreport.
+- **`at scale`, 3.** All inside link text rendering a source's sentence.
+
+A drain that leaves the count above zero is finished, not abandoned. What would not be finished is a hit nobody has ruled on: the floor moves only when the estate is ruled through again, and a run that finds it higher has found new prose to fix.

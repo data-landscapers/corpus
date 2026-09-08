@@ -1,6 +1,6 @@
 ---
 title: DR Congo — digital transformation and data governance status report
-compiled: 2026-09-04
+compiled: 2026-09-08
 place: COD
 region: XCA
 built_by: STATUS-INIT
@@ -285,7 +285,7 @@ The ground the sector runs on is improving slowly from a low base. [Business and
 ### Innovation ecosystem
 <!-- tech.innovate -->
 
-DR Congo's startup funding record is one company deep. [The ecosystem raised US$38 million in 2022 on Partech data, but 98% of it went to a single Web3 company, Jambo, and the largest fintech round since was Tuma's US$500,000 in 2023](https://techcabal.com/2023/06/22/tuma/).
+DR Congo's startup funding record is one company deep. [Startups raised US$38 million in 2022 on Partech data, but 98% of it went to a single Web3 company, Jambo, and the largest fintech round since was Tuma's US$500,000 in 2023](https://techcabal.com/2023/06/22/tuma/).
 
 The support layer is thicker than the money going through it. [A directory published in April 2026 with the International Trade Centre and FCDO maps at least ten active entrepreneur-support and tech hubs, among them Silikin Village, Ingenious City, LUBA Hub, Kobo Hub and the Centre d'innovation de Lubumbashi](https://www.briter.co/insights/reports/tech-hubs-directory-in-drc), and [government financing for technology firms, support for small enterprises and public-private arrangements for delivering government services online are recorded as in place](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). The sector policy validated in August 2026 [carries innovation and start-ups as one of its six axes to a 2030 horizon](https://actu7.cd/2026/08/04/rdc-augustin-kibassa-lance-la-politique-sectorielle-de-leconomie-numerique-et-la-strategie-nationale-de-lia-pour-batir-un-congo-souverain-connecte-innovant-et-inclusif/).
 

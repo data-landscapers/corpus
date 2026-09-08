@@ -1,6 +1,6 @@
 ---
 title: Egypt — digital transformation and data governance status report
-compiled: 2026-09-07
+compiled: 2026-09-08
 place: EGY
 region: XNA
 built_by: STATUS-INIT
@@ -273,7 +273,7 @@ Government technology spending reaches domestic suppliers through [a programme t
 ### Innovation ecosystem
 <!-- tech.innovate -->
 
-Egypt is [North Africa's leading startup ecosystem by funding, with US$524m raised in the second half of 2025](https://techcabal.com/2025/12/19/how-egypts-startup-ecosystem-fared-in-2025/), and the year's notable exit was [GlobalFoundries' acquisition of the Egyptian chip-design startup InfiniLink](https://techcabal.com/2025/12/19/how-egypts-startup-ecosystem-fared-in-2025/) — a hardware exit in an ecosystem whose money mostly goes to fintech.
+Egypt is [North Africa's leading startup ecosystem by funding, with US$524m raised in the second half of 2025](https://techcabal.com/2025/12/19/how-egypts-startup-ecosystem-fared-in-2025/), and the year's notable exit was [GlobalFoundries' acquisition of the Egyptian chip-design startup InfiniLink](https://techcabal.com/2025/12/19/how-egypts-startup-ecosystem-fared-in-2025/) — a hardware exit in a market whose money mostly goes to fintech.
 
 The state's financing instrument is the [Egypt Startup Charter, which attaches a headline EGP 50bn to a target of 5,000 startups](https://techcabal.com/2025/12/19/how-egypts-startup-ecosystem-fared-in-2025/) (December 2025). Private capital has been arriving for longer than the charter has existed: [Partech counted around US$297m of equity funding into Egyptian tech startups in 2024, among Africa's top three venture destinations](https://partechpartners.com/africa-reports/2024-africa-tech-venture-capital-report).
 

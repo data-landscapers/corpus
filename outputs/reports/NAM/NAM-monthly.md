@@ -131,7 +131,7 @@ The state's own first artificial-intelligence contract asks the same question of
 ### Innovation ecosystem
 
 <!-- narrative: technology--tech-innovate -->
-Two small pieces of ecosystem plumbing. The ninth national ICT summit [received over N$1.2 million ahead of the event](https://www.nbcnews.na/node/118562), and the communications regulator [held a second entrepreneurship breakfast in Oshakati to build the northern digital economy](https://economist.com.na/cran-drives-northern-digital-economy-at-second-entrepreneurship-breakfast-in-oshakati/). Both are convening rather than capital: nothing in the record held names a company founded, funded or scaled through either.
+Two small pieces of plumbing. The ninth national ICT summit [received over N$1.2 million ahead of the event](https://www.nbcnews.na/node/118562), and the communications regulator [held a second entrepreneurship breakfast in Oshakati to build the northern digital economy](https://economist.com.na/cran-drives-northern-digital-economy-at-second-entrepreneurship-breakfast-in-oshakati/). Both are convening rather than capital: nothing in the record held names a company founded, funded or scaled through either.
 <!-- /narrative -->
 
 ## Capacity

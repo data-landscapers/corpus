@@ -1,6 +1,6 @@
 ---
 title: Namibia — digital transformation and data governance status report
-compiled: 2026-09-06
+compiled: 2026-09-08
 place: NAM
 region: XSA
 built_by: STATUS-INIT
@@ -109,7 +109,7 @@ Namibia is one of the [few African states to have shut Starlink out](https://itw
 
 [Paratus broke the state-linked duopoly on 2 September 2025, launching Namibia's first privately owned mobile network, a data-only LTE and 5G service](https://www.connectingafrica.com/investment/paratus-launches-namibia-s-first-private-mobile-network), in a market where [the majority state-owned MTC held more than two million subscribers and over 90 percent of the market against TN Mobile's roughly 336,000 (September 2025)](https://www.connectingafrica.com/investment/paratus-launches-namibia-s-first-private-mobile-network). [MTC switched on 5G in Windhoek, Swakopmund and Walvis Bay in August 2025](https://itweb.africa/article/namibia-expedites-data-centre-smart-city-development/KWEBb7yLVARvmRjO). Reach beyond the towns is the constraint: [4G covered about 88 percent of the population in 2024, against a government target of full coverage by 2030](https://www.ecofinagency.com/news-digital/0406-47149-namibia-targets-100-telecom-coverage-nationwide-by-2030), but [a population density of 3.76 people per square kilometre keeps 5G phased and city-first while rural areas stay on 2G and 3G (February 2026)](https://www.telecomreviewafrica.com/articles/features/28266-towards-a-5g-enabled-digitalized-namibia-in-2026/). [Twenty-five PowerCom towers costing N$40 million were inaugurated across nine regions in August 2025](https://www.namibiansun.com/technology/namibia-bolsters-digital-access-with-25-new-network-towers2025-08-25167910), and [the Equiano subsea cable lands on the coast](https://www.namibiansun.com/nmh-hub/grounding-the-cloud-in-namibia-nmh005717-3015-6100).
 
-Coverage now runs ahead of use. [The regulator has proposed tax breaks on 4G-capable handsets, treating device affordability rather than coverage as the binding constraint, after an operator reported low use of its 4G towers in Kunene (February 2026)](https://itweb.africa/article/namibian-regulator-proposes-tax-breaks-on-4g-devices/). [Internet and computer access is Namibia's most improved of all 96 IIAG indicators, up 38.1 points over 2014-2023 to 49.6 out of 100 and 13th of 54 — rapid gain that still leaves it below halfway, while mobile communications ranks only 21st of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-na.pdf).
+Coverage now runs ahead of use. [The regulator has proposed tax breaks on 4G-capable handsets, treating device affordability rather than coverage as the constraint, after an operator reported low use of its 4G towers in Kunene (February 2026)](https://itweb.africa/article/namibian-regulator-proposes-tax-breaks-on-4g-devices/). [Internet and computer access is Namibia's most improved of all 96 IIAG indicators, up 38.1 points over 2014-2023 to 49.6 out of 100 and 13th of 54 — rapid gain that still leaves it below halfway, while mobile communications ranks only 21st of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-na.pdf).
 
 ### Data Storage
 <!-- infra.store -->

@@ -1,6 +1,6 @@
 ---
 title: Libya — digital transformation and data governance status report
-compiled: 2026-09-06
+compiled: 2026-09-08
 place: LBY
 region: XNA
 built_by: STATUS-INIT
@@ -166,7 +166,7 @@ The number carries the whole administrative state. [Law No. 8 of 2014 makes the 
 
 Civil registration is the country's strongest administrative function, [scoring 75.0 out of 100 in 2023 and seventh of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ly.pdf), resting on [a single automated Civil Registration Authority database linking 12 branches, 133 issuing offices and 400 service offices, with near-complete birth registration](https://seha.ly/media/statistics_reports/vital-statistics-report-for-the-year-2020mD5xx9G.pdf). [The Intilaqa project had reconciled electronic against paper records for 97% of 1.8 million families by September 2024](https://libyaherald.com/2024/09/pm-aldabaiba-follows-up-on-intilaqa-project-for-matching-civil-registry-electronic-data-with-paper-records/). [The most recent nationwide figure for how many Libyans hold a number dates from 2013](https://www.ecoi.net/en/document/1315457.html).
 
-[LY-DNID is being rolled out in three levels: the first, for government-to-government exchange, is in use across public institutions; the second, verification for citizens, entered pilot trials in November 2025; the third, biometric, is in technical trials](https://www.gia.gov.ly/en/2025/11/20/the-general-information-authority-launches-the-trial-phases-of-the-second-level-of-the-national-digital-identity-system-ly-dnid/). The [biometric trials run with the Central Bank of Libya, the anti-money-laundering authority and participating banks, and have not entered operational use for know-your-customer checks](https://www.gia.gov.ly/en/2026/04/19/general-information-authority-central-bank-of-libya-national-authority-for-combating-money-laundering-with-the-relevant-authorities/). Meanwhile [the 2014 law requires ten fingerprints, an iris scan, a photograph and a signature for every citizen](https://security-legislation.ly/latest-laws/law-no-8-of-2014-on-the-national-id-number/) though the card in circulation carries no chip.
+[LY-DNID is being introduced in three levels: the first, for government-to-government exchange, is in use across public institutions; the second, verification for citizens, entered pilot trials in November 2025; the third, biometric, is in technical trials](https://www.gia.gov.ly/en/2025/11/20/the-general-information-authority-launches-the-trial-phases-of-the-second-level-of-the-national-digital-identity-system-ly-dnid/). The [biometric trials run with the Central Bank of Libya, the anti-money-laundering authority and participating banks, and have not entered operational use for know-your-customer checks](https://www.gia.gov.ly/en/2026/04/19/general-information-authority-central-bank-of-libya-national-authority-for-combating-money-laundering-with-the-relevant-authorities/). Meanwhile [the 2014 law requires ten fingerprints, an iris scan, a photograph and a signature for every citizen](https://security-legislation.ly/latest-laws/law-no-8-of-2014-on-the-national-id-number/) though the card in circulation carries no chip.
 
 ### Digital Payments and Fintech
 <!-- dpi.pay -->
