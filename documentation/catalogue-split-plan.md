@@ -2,7 +2,7 @@
 type: plan
 title: catalogue-split-plan.md — how the catalogue split gets done, in four shippable parts
 last_reviewed: 2026-09-08
-status: live — Part 1 starting 2026-09-08; all four to land before go-live
+status: live — Part 1 done 2026-09-08; 2, 3 and 4 to land before go-live
 ---
 
 # Doing the catalogue split
@@ -59,6 +59,17 @@ Two things help. That export test keeps working throughout and fails loudly. And
 browser automation, so the real page can be driven and its interactions observed rather than
 reasoned about.
 
+> **Amended 2026-09-08, doing Part 1: the first of those is not true on this machine.** There is no
+> `node` on the PATH here, so `test_catalogue_export.py` does not fail loudly — it prints `skipped`
+> and returns 0, and has been doing so for however long node has been absent. The safety net the
+> paragraph above leans on is not under the work; `RENDER.md` reaches for node and jsdom for the
+> datatable test in the same way and has the same hole. **So the browser is the check, not the
+> backstop**, and Parts 3 and 4 should plan on driving the real page rather than on a test run
+> catching them — Part 4's *done when* is `test_catalogue_export.py` passing with the JSON deleted,
+> and on this machine that sentence currently means nothing. Installing node would fix both tests
+> at once and is Bill's call; nothing here is blocked on it, because the same comparisons can be
+> run in the browser and were for Part 1.
+
 ## The four parts
 
 **Staged, not big-bang.** Each part is independently shippable and independently revertible; a
@@ -79,13 +90,34 @@ has downloaded and parsed.
 *Done when:* the page shows results with JavaScript disabled, and shows the same results it shows
 today once the payload lands.
 
+> **Done, 2026-09-08.** Both, and the second is checked rather than asserted:
+> `scripts/test_catalogue_firstscreen.py` lifts the page's own `rowHTML` and `optsHTML` out of the
+> built file — the lift `test_catalogue_export.py` already uses — runs them over the payload the
+> page ships, and compares the result to the markup baked into the same file. Verified in the
+> browser as well, which is what actually settled it here: node is not on this machine, so that
+> test skipped, and the check that ran was a `DOMParser` over the fetched page against the live
+> DOM after redraw. **Results, facets, count and note came back character for character
+> identical** — 103,033 characters of rows and 18,959 of facets. The page renders complete with
+> every `<script>` stripped, and a `<noscript>` paragraph says what is missing and points at the
+> whole-catalogue downloads.
+>
+> **Two things changed that the plan did not name.** The facet sidebar was built with
+> `createElement` and `appendChild`, a shape only a browser can produce; it is now two pure
+> functions returning strings, which is what let the builder write the same markup. And entity
+> display names are decided at build time instead of in the reader's browser — the prettifier
+> moved to `catalogue.py`, because the baked rows have to carry the same labels the page draws and
+> two copies of that rule would have been the thing that drifted. The page ships `entpretty`
+> alongside `entnames` for it: **+217 KB raw on a 9.1 MB payload**, against 3,758 label
+> computations removed from every page load, and both maps land in the fetched half at Part 3.
+> `index.html` goes from 37 KB to 160 KB, which is the whole point of the exercise.
+
 ### Part 2 — Title and hero search shards
 
 **No dependencies; can go before or after Part 1.** Tokenise title *and* `catalogue_hero` at build
 time into prefix shards posting document ids, on the `build-names-index.py` model. The shards live
 in R2 with `names/`.
 
-**Hero must be tokenised alongside title, not after it.** `index.html` line 191 folds hero into the
+**Hero must be tokenised alongside title, not after it.** `index.html` folds hero into the
 per-row search blob (`r._s = r[0] + r[1] + r[12] + r[7] + …`), so it is searched today. Missing it
 would silently narrow what search finds — the results just look thinner and nobody reports that.
 
@@ -149,7 +181,7 @@ assuming on the day:
 
 | Part | State |
 |---|---|
-| 1 — bake the first screen | starting 2026-09-08 |
+| 1 — bake the first screen | **done 2026-09-08** |
 | 2 — title and hero search shards | not started |
 | 3 — filter index and row-text chunks | not started |
 | 4 — drop `raw-catalogue.json` | not started |

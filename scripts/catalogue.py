@@ -19,9 +19,18 @@ Refresh that snapshot when the vocabularies change.
 
 The catalogue carries metadata only — never source bodies. Each record links to
 its publisher (`build-catalogue.py`).
+
+**The first screen is baked in** — the newest hundred rows and the three facet
+menus are written into `index.html` as markup, so the page shows results before
+the payload has arrived and with JavaScript off entirely
+(`documentation/catalogue-split-plan.md`, Part 1). Everything under *the baked
+first screen* below mirrors a function in the page's own JavaScript, and
+`scripts/test_catalogue_firstscreen.py` runs the page's copy over the payload and
+compares it to what was baked. Change one and the other has to move.
 """
 from __future__ import annotations
-import ast, csv, hashlib, json, re, shutil, sys
+import ast, csv, hashlib, json, re, shutil, sys, unicodedata
+from collections import Counter
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -192,6 +201,221 @@ def disambiguate(ent_names: dict) -> dict:
     return out
 
 
+# ---- entity display names ---------------------------------------------------
+# These used to be computed in the reader's browser. They are computed here now
+# because the baked first screen below has to write the same labels the live page
+# writes, and the honest way to have one set of labels is to have one place that
+# decides them. The page ships two maps -- `entnames`, what the sources call the
+# thing, and `entpretty`, the slug written out where nothing has named it -- and
+# does nothing with a slug in neither but read it as itself.
+
+# Short tokens in this vocabulary are overwhelmingly acronyms (ITU, UNDP, NIMC,
+# ODPC, DRC, ICT), so a token of four characters or fewer is uppercased unless it
+# is in PLAIN_SHORT. That list was populated by measuring, not guessing: of the
+# 6,774 slugs, 1,548 distinct tokens of four characters or fewer would be
+# uppercased, and the frequent ones were read off and sorted by hand. Re-measure
+# the same way after a big ingest; the tail below about ten occurrences is not
+# worth chasing, because a wrong entry shows up as ODPC right and BANK wrong,
+# which is visible and cheap. Ambiguous cases are left uppercase deliberately:
+# `sa` is as often South Africa as société anonyme, and `car` is more often the
+# Central African Republic than a vehicle.
+FUNC_WORDS = {"of", "for", "and", "the", "de", "du", "des", "da", "do", "das", "dos",
+              "la", "le", "les", "el", "al", "in", "on", "at", "et", "em", "na",
+              "no", "aux", "o"}
+PLAIN_SHORT = {"bank", "fund", "data", "tech", "news", "post", "west", "east", "cape",
+               "town", "city", "gov", "new", "tax", "land", "port", "hub", "net",
+               "pay", "tel", "web", "gas", "oil", "air", "sea", "cash", "card",
+               "link", "soft", "cloud", "fibre", "fiber", "group",
+               # measured off the vocabulary, 2026-08-24
+               "cote", "faso", "togo", "mali", "cabo", "chad", "sao", "tome", "arab",
+               "act", "law", "bill", "code", "plan", "deal", "cour", "unit", "food",
+               "home", "one", "lab", "open", "blue", "cert", "tide", "jean", "moov",
+               "kopa", "yas", "ltd", "inc", "pty"}
+
+
+def pretty_label(slug: str) -> str:
+    """A slug written out as a name, for an entity nothing has named.
+
+    A slug is not a display name, and this is only a guess at how to write one --
+    `build-entity-names.py` derives the real ones from the sources and those always
+    win. Title-case, except the function words, which stay lower unless they open
+    the name, and the short tokens, which are read as acronyms.
+    """
+    out = []
+    for ix, w in enumerate(slug.split("-")):
+        if not w:
+            out.append(w)
+        elif w in FUNC_WORDS:
+            out.append(w if ix else w[:1].upper() + w[1:])
+        elif len(w) <= 4 and w not in PLAIN_SHORT:
+            out.append(w.upper())
+        else:
+            out.append(w[:1].upper() + w[1:])
+    return " ".join(out)
+
+
+# ---- the baked first screen -------------------------------------------------
+# `documentation/catalogue-split-plan.md` Part 1. The newest hundred rows and the
+# three facet menus are all known here, so they are written into `index.html` as
+# real markup rather than left for the browser to draw once 3 MB of payload has
+# arrived and parsed. The page redraws over the top on load, which is what keeps
+# this honest: a difference between what is baked and what the page draws corrects
+# itself in front of the reader rather than persisting unseen.
+#
+# **Everything below mirrors a function in the page's own JavaScript**, and only
+# for the unfiltered default state -- no query, no facet selected, no type-ahead
+# term, no option cap. That is the whole of what can be baked, and writing only
+# that is what keeps these short. `scripts/test_catalogue_firstscreen.py` lifts
+# the page's own `rowHTML` and `optsHTML` out of the built file and proves the two
+# agree; when one of them changes, the other has to.
+
+SHOWN = 100          # `state.shown` in the page, and the two have to agree
+PRE = "<2020"        # `PRE` in the page -- the pre-2020 year bucket
+
+_ESC = {ord("<"): "&lt;", ord(">"): "&gt;", ord("&"): "&amp;"}
+
+
+def esc(s) -> str:
+    """The page's `esc()` -- `<`, `>` and `&`, for a text node."""
+    return str(s).translate(_ESC)
+
+
+def att(s) -> str:
+    """The page's `att()` -- `esc()` and then the quote, for a quoted attribute."""
+    return esc(s).replace('"', "&quot;")
+
+
+def coll(s: str) -> tuple:
+    """A sort key standing in for JavaScript's `localeCompare`.
+
+    The page sorts the country facet by `localeCompare`, which compares base
+    letters first and treats an accent as a tiebreak, so Côte d'Ivoire falls
+    between Congo and Djibouti rather than after Zimbabwe where a code-point sort
+    puts it. Stripping the combining marks and casefolding reproduces that for a
+    vocabulary of country names; the raw string is the tiebreak, as it is there.
+    """
+    base = "".join(c for c in unicodedata.normalize("NFD", s)
+                   if not unicodedata.combining(c))
+    return (base.casefold(), s)
+
+
+def row_html(r, places, topics, entlabel, ents) -> str:
+    """One result row -- the page's `rowHTML()`, in Python."""
+    tags = []
+    for p in r[3][:4]:
+        tags.append(f'<span class="tag pl" data-add="places" data-v="{p}">'
+                    f'{places.get(p) or p}</span>')
+    for t in r[4][:4]:
+        tags.append(f'<span class="tag" data-add="topics" data-v="{t}">'
+                    f'{topics.get(t) or t}</span>')
+    for e in [ents[i] for i in r[10]][:3]:
+        tags.append(f'<span class="tag en" data-add="ents" data-v="{e}">'
+                    f'{esc(entlabel.get(e) or e)}</span>')
+    if r[9] == "paywalled":
+        tags.append('<span class="flag">paywalled</span>')
+    if r[9] == "excerpt":
+        tags.append('<span class="flag">excerpt only</span>')
+    if r[8]:
+        tags.append('<span class="flag">document held</span>')
+    sub = f'<p class="sub">{esc(r[12])}</p>' if r[12] else ""
+    return ('<div class="row"><div class="date">' + (r[2] or "undated") + "</div><div>"
+            f'<p class="ttl"><a href="{r[6]}" target="_blank" rel="noopener">'
+            f'{esc(r[0])}</a></p>{sub}'
+            f'<p class="meta">{esc(r[1] or "publisher not recorded")}</p>'
+            f'<div class="tags">{"".join(tags)}</div></div></div>')
+
+
+def opts_html(key, keys, labels, cnt, groups=None, group_names=None) -> str:
+    """A facet's option list -- the page's `optsHTML()`, unfiltered."""
+    html, last_g = [], None
+    for k in keys:
+        lab = labels[k]
+        if groups is not None:
+            g = groups.get(k) or "—"
+            if g != last_g:
+                name = str(group_names.get(g) or g) if group_names is not None else g
+                html.append(f'<div class="grp">{name}</div>')
+                last_g = g
+        n = cnt.get(k, 0)
+        html.append(f'<label class="opt{"" if n else " zero"}">'
+                    f'<input type="checkbox" data-f="{key}" value="{att(k)}">'
+                    f'<span class="lbl" title="{att(lab)}">{esc(lab)}</span>'
+                    f'<span class="n">{n:,}</span></label>')
+    return "".join(html) or '<div class="grp">no matches</div>'
+
+
+def facet_html(key, title, keys, labels, cnt, groups=None, group_names=None,
+               searchable=False) -> str:
+    """A whole facet block -- the page's `facetHTML()`, unfiltered."""
+    h = f'<div class="facet"><h3>{title}</h3>'
+    if searchable:
+        h += (f'<input class="ftype" data-f="{key}" '
+              f'placeholder="Filter {title.lower()}" autocomplete="off">')
+    return (h + f'<div class="opts" data-opts="{key}">'
+            + opts_html(key, keys, labels, cnt, groups, group_names)
+            + "</div></div>")
+
+
+def first_screen(rows, ents, places, regions, topics, cats, torder, entlabel) -> dict:
+    """The markup the page draws with nothing filtered: facets, rows, count, note."""
+    n = len(rows)
+
+    place_cnt, topic_cnt, year_cnt = Counter(), Counter(), Counter()
+    year_lab = {}
+    for r in rows:
+        place_cnt.update(r[3])
+        topic_cnt.update(r[4])
+        y = r[2][:4]
+        bucket = (PRE if int(y) < 2020 else y) if y.isdigit() else ""
+        if bucket:
+            year_cnt[bucket] += 1
+            year_lab[bucket] = "< 2020" if bucket == PRE else bucket
+
+    # `placeGroups`, `placeGroupNames` and `placeOrder` in the page. Regions head
+    # the list, then the country groups by region name, then whatever the
+    # vocabulary gives no region to; inside a group, by country name.
+    pg = {k: ("@regions" if k.startswith("X") else (regions.get(k) or "@none"))
+          for k in places}
+    pgn = {"@regions": "Regions", "@none": "Elsewhere"}
+    for k, reg in regions.items():
+        if reg:
+            pgn[reg] = places.get(reg) or reg
+    by_grp: dict = {}
+    for k in places:
+        by_grp.setdefault(pg[k], []).append(k)
+
+    def grp_key(g):
+        if g == "@regions":
+            return (0, ())
+        if g == "@none":
+            return (2, ())
+        return (1, coll(str(pgn.get(g) or g)))
+
+    place_keys = []
+    for g in sorted(by_grp, key=grp_key):
+        place_keys += sorted(by_grp[g], key=lambda k: coll(places[k]))
+    place_keys = [k for k in place_keys if place_cnt.get(k)]
+    topic_keys = [k for k in torder if topics.get(k) is not None and topic_cnt.get(k)]
+    year_keys = sorted((k for k in year_lab if k != PRE), reverse=True)
+    if PRE in year_lab:
+        year_keys.append(PRE)
+
+    return {
+        "facets": (facet_html("places", "Country", place_keys, places, place_cnt,
+                              pg, pgn, True)
+                   + facet_html("topics", "Topic", topic_keys, topics, topic_cnt,
+                                cats, None, True)
+                   + facet_html("years", "Year published", year_keys, year_lab, year_cnt)),
+        "results": "".join(row_html(r, places, topics, entlabel, ents)
+                           for r in rows[:SHOWN]),
+        "count": f"<b>{n:,}</b> of {n:,} records",
+        # Set through `textContent` in the page, so it is text and is escaped here.
+        "note": esc(f"Browsing {n:,} catalogue records. Filter state is in the URL "
+                    f"— copy the address bar to share this view."),
+        "n": n,
+    }
+
+
 def pack_rows(cdir: Path):
     """The ten browse fields, the entity tags as field 10, and two more since.
 
@@ -284,12 +508,19 @@ BODY = r"""
   <div class="chips" id="chips"></div>
 
   <div class="cols">
-    <aside id="facets"></aside>
+    <aside id="facets">{facets}</aside>
     <main>
-      <div class="countrow"><p class="count" id="count"></p></div>
-      <div id="results"></div>
+      <div class="countrow"><p class="count" id="count">{count}</p></div>
+      <div id="results">{results}</div>
+      <noscript>
+        <p class="note">These are the newest {shown} of {n} records, most recent
+        first. Filtering, searching and cutting a selection are all done in the
+        browser, so with JavaScript off they are not available &mdash; take the whole
+        catalogue from the CSV or JSON link above instead. It is the same data, every
+        record and every field.</p>
+      </noscript>
       <button class="more" id="more" hidden>Show more</button>
-      <p class="note" id="note"></p>
+      <p class="note" id="note">{note}</p>
     </main>
   </div>
 </div>
@@ -318,45 +549,15 @@ SCRIPT = r"""
   // Expand once, in place: the strings are interned, so this costs array slots
   // rather than 24,891 copies, and every filter below then treats entities
   // exactly like places and topics.
-  var ENTS = D.ents || [], ENTLABEL = {}, DERIVED = D.entnames || {};
-  (function(){
-    // A slug is not a display name — deriving those is stage 2
-    // (documentation/archived/catalogue-search.md). Until then the label is the slug,
-    // mechanically prettified: title-case, except short tokens, which in this
-    // vocabulary are overwhelmingly acronyms (ITU, UNDP, NIMC, ODPC, DRC, ICT).
-    //
-    // WORD is the exception list — short tokens that are ordinary words — and it
-    // was populated by measuring, not guessing: of the 6,774 slugs, 1,548 distinct
-    // tokens of four characters or fewer would be uppercased, and the frequent
-    // ones were read off and sorted by hand. Re-measure the same way after a big
-    // ingest; the tail below about ten occurrences is not worth chasing, because
-    // a wrong entry shows up as ODPC right and BANK wrong, which is visible and
-    // cheap. Ambiguous cases are left uppercase deliberately: `sa` is as often
-    // South Africa as société anonyme, and `car` is more often the Central
-    // African Republic than a vehicle.
-    var FUNC = {of:1,for:1,and:1,the:1,de:1,du:1,des:1,da:1,do:1,das:1,dos:1,la:1,le:1,les:1,
-                el:1,al:1,in:1,on:1,at:1,et:1,em:1,na:1,no:1,aux:1,o:1},
-        WORD = {bank:1,fund:1,data:1,tech:1,news:1,post:1,west:1,east:1,cape:1,town:1,city:1,
-                gov:1,new:1,tax:1,land:1,port:1,hub:1,net:1,pay:1,tel:1,web:1,gas:1,oil:1,
-                air:1,sea:1,cash:1,card:1,link:1,soft:1,cloud:1,fibre:1,fiber:1,group:1,
-                // measured off the vocabulary, 2026-08-24
-                cote:1,faso:1,togo:1,mali:1,cabo:1,chad:1,sao:1,tome:1,arab:1,
-                act:1,law:1,bill:1,code:1,plan:1,deal:1,cour:1,unit:1,food:1,home:1,
-                one:1,lab:1,open:1,blue:1,cert:1,tide:1,jean:1,moov:1,kopa:1,yas:1,
-                ltd:1,inc:1,pty:1};
-    function cap(w){ return w.charAt(0).toUpperCase() + w.slice(1); }
-    for (var i = 0; i < ENTS.length; i++){
-      // A derived name always wins: it is what the sources themselves call the thing,
-      // where the prettifier is only a guess at how to write the slug.
-      if (DERIVED[ENTS[i]]){ ENTLABEL[ENTS[i]] = DERIVED[ENTS[i]]; continue; }
-      ENTLABEL[ENTS[i]] = ENTS[i].split('-').map(function(w, ix){
-        if (!w) return w;
-        if (FUNC[w]) return ix === 0 ? cap(w) : w;
-        if (w.length <= 4 && !WORD[w]) return w.toUpperCase();
-        return cap(w);
-      }).join(' ');
-    }
-  })();
+  // Labels are decided at build time (`catalogue.py` → `pretty_label`), because the
+  // baked first screen has to write the same ones the page writes and there can only
+  // be one place that decides them. `entnames` is what the sources call the thing and
+  // always wins; `entpretty` is the slug written out where nothing has named it; a
+  // slug in neither reads as itself.
+  var ENTS = D.ents || [], DERIVED = D.entnames || {}, PRETTY = D.entpretty || {},
+      ENTLABEL = {};
+  for (var li = 0; li < ENTS.length; li++)
+    ENTLABEL[ENTS[li]] = DERIVED[ENTS[li]] || PRETTY[ENTS[li]] || ENTS[li];
 
   ROWS.forEach(function(r){
     r[10] = (r[10] || []).map(function(i){ return ENTS[i]; });
@@ -619,50 +820,51 @@ SCRIPT = r"""
   // places by region then name, topics by the taxonomy's sort order. Where it is
   // absent the facet still falls back to count-descending, which is right for a
   // vocabulary with no inherent sequence.
-  function facetBlock(key, title, idx, labels, groups, groupNames, searchable, limit, order){
-    var c = counts(key, idx);
-    var sel = state[key];
-    var el = document.createElement('div');
-    el.className = 'facet';
-    var h = '<h3>' + title + '</h3>';
-    if (searchable) h += '<input class="ftype" data-f="' + key + '" placeholder="Filter ' + title.toLowerCase() + '" autocomplete="off">';
-    h += '<div class="opts" data-opts="' + key + '"></div>';
-    el.innerHTML = h;
+  //
+  // **A facet is a string, not a built element.** It used to be assembled with
+  // `createElement` and an `appendChild`, which is a shape only a browser can
+  // produce — and `catalogue.py` has to produce the same markup at build time for
+  // the baked sidebar. So the two halves below are pure: values in, string out.
+  var FBLOCK = {};   // the render inputs per facet, kept so a type-ahead keystroke
+                     // repaints from them rather than recounting the whole corpus
+  function optsHTML(key, keys, labels, c, sel, groups, groupNames, limit, term){
+    // `limit` caps how many options are put in the DOM, not how many can be
+    // found: the type-ahead filters the whole vocabulary and the cap applies
+    // to what survives it. Without this the entity facet renders 6,774
+    // checkboxes on every redraw, which is what makes an uncapped vocabulary
+    // affordable at all. A checked option is always drawn, however deep.
+    var html = '', lastG = null, drawn = 0, hidden = 0;
+    for (var ki = 0; ki < keys.length; ki++){
+      var k = keys[ki], lab = labels[k], on = sel.indexOf(k) > -1;
+      if (term && lab.toLowerCase().indexOf(term) === -1 && k.indexOf(term) === -1) continue;
+      if (limit && drawn >= limit && !on){ hidden++; continue; }
+      if (groups){
+        var g = groups[k] || '—';
+        if (g !== lastG){ html += '<div class="grp">' + (groupNames ? (groupNames[g]||g) : g) + '</div>'; lastG = g; }
+      }
+      var n = c[k] || 0;
+      html += '<label class="opt' + (n ? '' : ' zero') + '">' +
+        '<input type="checkbox" data-f="' + key + '" value="' + att(k) + '"' + (on ? ' checked' : '') + '>' +
+        '<span class="lbl" title="' + att(lab) + '">' + esc(lab) + '</span>' +
+        '<span class="n">' + n.toLocaleString() + '</span></label>';
+      drawn++;
+    }
+    if (hidden) html += '<div class="trunc">' + hidden.toLocaleString() + ' more — type above to narrow</div>';
+    return html || '<div class="grp">no matches</div>';
+  }
+  function facetHTML(key, title, idx, labels, groups, groupNames, searchable, limit, order, term){
+    var c = counts(key, idx), sel = state[key];
     var keys = (order || Object.keys(labels)).filter(function(k){
       return labels[k] !== undefined && (c[k] || sel.indexOf(k) > -1);
     });
     if (!order) keys.sort(function(a,b){ return (c[b]||0)-(c[a]||0) || labels[a].localeCompare(labels[b]); });
-    var box = el.querySelector('[data-opts]');
-    function paint(term){
-      // `limit` caps how many options are put in the DOM, not how many can be
-      // found: the type-ahead filters the whole vocabulary and the cap applies
-      // to what survives it. Without this the entity facet renders 6,774
-      // checkboxes on every redraw, which is what makes an uncapped vocabulary
-      // affordable at all. A checked option is always drawn, however deep.
-      var html = '', lastG = null, drawn = 0, hidden = 0;
-      for (var ki = 0; ki < keys.length; ki++){
-        var k = keys[ki], lab = labels[k], on = sel.indexOf(k) > -1;
-        if (term && lab.toLowerCase().indexOf(term) === -1 && k.indexOf(term) === -1) continue;
-        if (limit && drawn >= limit && !on){ hidden++; continue; }
-        if (groups){
-          var g = groups[k] || '—';
-          if (g !== lastG){ html += '<div class="grp">' + (groupNames ? (groupNames[g]||g) : g) + '</div>'; lastG = g; }
-        }
-        var n = c[k] || 0;
-        html += '<label class="opt' + (n ? '' : ' zero') + '">' +
-          '<input type="checkbox" data-f="' + key + '" value="' + att(k) + '"' + (on ? ' checked' : '') + '>' +
-          '<span class="lbl" title="' + att(lab) + '">' + esc(lab) + '</span>' +
-          '<span class="n">' + n.toLocaleString() + '</span></label>';
-        drawn++;
-      }
-      if (hidden) html += '<div class="trunc">' + hidden.toLocaleString() + ' more — type above to narrow</div>';
-      box.innerHTML = html || '<div class="grp">no matches</div>';
-    }
-    paint('');
-    if (searchable){
-      el.querySelector('.ftype').addEventListener('input', function(){ paint(this.value.trim().toLowerCase()); });
-    }
-    return el;
+    FBLOCK[key] = {keys: keys, labels: labels, c: c, sel: sel, groups: groups,
+                   groupNames: groupNames, limit: limit};
+    var h = '<div class="facet"><h3>' + title + '</h3>';
+    if (searchable) h += '<input class="ftype" data-f="' + key + '" placeholder="Filter ' + title.toLowerCase() + '" autocomplete="off">';
+    return h + '<div class="opts" data-opts="' + key + '">' +
+           optsHTML(key, keys, labels, c, sel, groups, groupNames, limit, term) +
+           '</div></div>';
   }
   // ---- the year facet: 2020 onward, newest first, then one pre-2020 bucket -----
   function yearLabels(){
@@ -719,18 +921,19 @@ SCRIPT = r"""
   }
 
   function drawFacets(){
-    var f = document.getElementById('facets');
-    var keep = {};
+    var f = document.getElementById('facets'), keep = {};
     f.querySelectorAll('.ftype').forEach(function(i){ keep[i.dataset.f] = i.value; });
-    f.innerHTML = '';
+    function term(k){ return (keep[k] || '').trim().toLowerCase(); }
     var pg = placeGroups(), pgn = placeGroupNames(), yl = yearLabels();
-    f.appendChild(facetBlock('places','Country', 3, D.places, pg, pgn, true, 0, placeOrder(pg, pgn)));
     // Topics in the taxonomy's own order, which carries the Level 1 grouping with it.
-    f.appendChild(facetBlock('topics','Topic', 4, D.topics, D.cats, null, true, 0, D.torder));
-    f.appendChild(facetBlock('years','Year published', 'y', yl, null, null, false, 0, yearOrder(yl)));
-    f.querySelectorAll('.ftype').forEach(function(i){
-      if (keep[i.dataset.f]) { i.value = keep[i.dataset.f]; i.dispatchEvent(new Event('input')); }
-    });
+    f.innerHTML =
+      facetHTML('places','Country', 3, D.places, pg, pgn, true, 0, placeOrder(pg, pgn), term('places')) +
+      facetHTML('topics','Topic', 4, D.topics, D.cats, null, true, 0, D.torder, term('topics')) +
+      facetHTML('years','Year published', 'y', yl, null, null, false, 0, yearOrder(yl), '');
+    // The inputs are new elements, so what a reader had typed goes back into them.
+    // The options were rendered against it above, so this restores the text and not
+    // the filtering — which is what the old `dispatchEvent` was doing a second pass for.
+    f.querySelectorAll('.ftype').forEach(function(i){ if (keep[i.dataset.f]) i.value = keep[i.dataset.f]; });
   }
   function drawChips(){
     var c = document.getElementById('chips'), h = '';
@@ -748,6 +951,30 @@ SCRIPT = r"""
     if (h) h += '<button class="clearall" id="clearall">Clear all</button>';
     c.innerHTML = h;
   }
+  // One result row. Pure, for the same reason `optsHTML` is: `catalogue.py` →
+  // `row_html` writes the newest hundred of these into the page at build time, and
+  // `test_catalogue_firstscreen.py` lifts this function out of the built file to
+  // prove the two still agree.
+  function rowHTML(r){
+    var tags = '';
+    r[3].slice(0,4).forEach(function(p){ tags += '<span class="tag pl" data-add="places" data-v="' + p + '">' + (D.places[p]||p) + '</span>'; });
+    r[4].slice(0,4).forEach(function(t){ tags += '<span class="tag" data-add="topics" data-v="' + t + '">' + (D.topics[t]||t) + '</span>'; });
+    // The named-actor *facet* has gone (prep/catalogue.md §7); the tags stay, because
+    // they say what a record is about and clicking one is the "more like this" the
+    // sidebar list never was. The chip above it is how a reader takes it off again.
+    r[10].slice(0,3).forEach(function(e){ tags += '<span class="tag en" data-add="ents" data-v="' + e + '">' + esc(ENTLABEL[e]||e) + '</span>'; });
+    if (r[9] === 'paywalled') tags += '<span class="flag">paywalled</span>';
+    if (r[9] === 'excerpt') tags += '<span class="flag">excerpt only</span>';
+    if (r[8]) tags += '<span class="flag">document held</span>';
+    return '<div class="row"><div class="date">' + (r[2]||'undated') + '</div><div>' +
+      '<p class="ttl"><a href="' + r[6] + '" target="_blank" rel="noopener">' + esc(r[0]) + '</a></p>' +
+      // The subtitle OSINT writes onto a record at ingest. Records taken in
+      // before 2026-09-05 carry none, and the line is simply absent for them
+      // rather than standing empty (notes-for-corpus 20).
+      (r[12] ? '<p class="sub">' + esc(r[12]) + '</p>' : '') +
+      '<p class="meta">' + esc(r[1] || 'publisher not recorded') + '</p>' +
+      '<div class="tags">' + tags + '</div></div></div>';
+  }
   function drawResults(){
     var out = ROWS.filter(function(r){ return passes(r, null); });
     if (state.sort === 'old') out = out.slice().reverse();
@@ -758,26 +985,7 @@ SCRIPT = r"""
     document.getElementById('count').innerHTML =
       '<b>' + out.length.toLocaleString() + '</b> of ' + ROWS.length.toLocaleString() + ' records';
     var slice = out.slice(0, state.shown), h = '';
-    slice.forEach(function(r){
-      var tags = '';
-      r[3].slice(0,4).forEach(function(p){ tags += '<span class="tag pl" data-add="places" data-v="' + p + '">' + (D.places[p]||p) + '</span>'; });
-      r[4].slice(0,4).forEach(function(t){ tags += '<span class="tag" data-add="topics" data-v="' + t + '">' + (D.topics[t]||t) + '</span>'; });
-      // The named-actor *facet* has gone (prep/catalogue.md §7); the tags stay, because
-      // they say what a record is about and clicking one is the "more like this" the
-      // sidebar list never was. The chip above it is how a reader takes it off again.
-      r[10].slice(0,3).forEach(function(e){ tags += '<span class="tag en" data-add="ents" data-v="' + e + '">' + esc(ENTLABEL[e]||e) + '</span>'; });
-      if (r[9] === 'paywalled') tags += '<span class="flag">paywalled</span>';
-      if (r[9] === 'excerpt') tags += '<span class="flag">excerpt only</span>';
-      if (r[8]) tags += '<span class="flag">document held</span>';
-      h += '<div class="row"><div class="date">' + (r[2]||'undated') + '</div><div>' +
-           '<p class="ttl"><a href="' + r[6] + '" target="_blank" rel="noopener">' + esc(r[0]) + '</a></p>' +
-           // The subtitle OSINT writes onto a record at ingest. Records taken in
-           // before 2026-09-05 carry none, and the line is simply absent for them
-           // rather than standing empty (notes-for-corpus 20).
-           (r[12] ? '<p class="sub">' + esc(r[12]) + '</p>' : '') +
-           '<p class="meta">' + esc(r[1] || 'publisher not recorded') + '</p>' +
-           '<div class="tags">' + tags + '</div></div></div>';
-    });
+    for (var si = 0; si < slice.length; si++) h += rowHTML(slice[si]);
     document.getElementById('results').innerHTML = h || '<p class="empty">Nothing matches those filters. Try removing one.</p>';
     var m = document.getElementById('more');
     m.hidden = out.length <= state.shown;
@@ -848,6 +1056,19 @@ SCRIPT = r"""
     }
     if (t.id === 'more'){ state.shown += 100; drawResults(); }
     if (t.dataset && t.dataset.dl && !t.disabled){ exportSelection(t.dataset.dl); }
+  });
+  // The facet type-aheads are redrawn with the sidebar, so the listener is on the
+  // document rather than on each input. It repaints one facet's options from
+  // `FBLOCK`, which is why that cache exists: recounting the corpus on a keystroke
+  // is the same work as a whole redraw.
+  document.addEventListener('input', function(e){
+    var t = e.target;
+    if (!t || !t.className || String(t.className).indexOf('ftype') === -1) return;
+    var key = t.dataset.f, b = FBLOCK[key],
+        box = document.querySelector('[data-opts="' + key + '"]');
+    if (!b || !box) return;
+    box.innerHTML = optsHTML(key, b.keys, b.labels, b.c, b.sel, b.groups, b.groupNames,
+                             b.limit, t.value.trim().toLowerCase());
   });
   var timer;
   document.getElementById('q').addEventListener('input', function(){
@@ -928,9 +1149,17 @@ def main() -> int:
     for name in ("raw-catalogue.csv", "raw-catalogue.json"):
         shutil.copyfile(cdir / name, out_dir / name)
 
+    # `entnames` is what the sources call an entity; `entpretty` is the slug written
+    # out for the rest. Two maps and not one merged one, because the derived names are
+    # also search aliases in the page (`r._s`) and the prettified ones must not be:
+    # they are the slug again, and the slug is already in that blob de-hyphenated.
+    derived = {s: n for s, n in ent_names.items() if s in set(ents)}
+    pretty = {s: pretty_label(s) for s in ents if s not in derived}
+    entlabel = {**derived, **pretty}
+
     payload = {"places": places, "regions": regions, "topics": topics, "cats": cats,
                "torder": torder,
-               "ents": ents, "entnames": {s: n for s, n in ent_names.items() if s in set(ents)},
+               "ents": ents, "entnames": derived, "entpretty": pretty,
                "names": payload_names, "cols": csv_cols(),
                "rawver": stamp(out_dir / "raw-catalogue.json"), "rows": rows}
     data_js = out_dir / "catalogue-data.js"
@@ -939,12 +1168,24 @@ def main() -> int:
         json.dump(payload, fh, ensure_ascii=False, separators=(",", ":"))
         fh.write(";")
 
+    # The first screen, written into the markup rather than left for the browser to
+    # draw when 3 MB of payload has arrived (documentation/catalogue-split-plan.md,
+    # Part 1). The page redraws over the top on load.
+    baked = first_screen(rows, ents, places, regions, topics, cats, torder, entlabel)
+    slots = {"facets": baked["facets"], "count": baked["count"],
+             "results": baked["results"], "note": baked["note"],
+             "shown": f"{min(SHOWN, baked['n']):,}", "n": f"{baked['n']:,}"}
+    # One pass, so that a `{token}` inside a baked title is left alone rather than
+    # read as a slot by a later replacement.
+    body = re.sub(r"\{(facets|count|results|note|shown|n)\}",
+                  lambda m: slots[m.group(1)], BODY)
+
     # the page. `{ver}` is substituted here rather than through `PAGE.format`, because
     # SCRIPT is JavaScript and full of braces `format` would try to read.
     html = PAGE.format(favicon=f"{MAIN_SITE}/assets/favicon.svg",
                        styles=styles(1, "home.css", "catalogue.css"),
                        ga=ga(),
-                       chrome=CHROME, body=BODY, foot=FOOT,
+                       chrome=CHROME, body=body, foot=FOOT,
                        script=SCRIPT.replace("{ver}", stamp(data_js)))
     (out_dir / "index.html").write_text(external_links(html), encoding="utf-8")
 
@@ -981,8 +1222,12 @@ def main() -> int:
             raise SystemExit(f"catalogue: {len(gone)} shard(s) named in the names manifest "
                              f"are missing from site/: {', '.join(gone[:10])}")
 
+    idx = out_dir / "index.html"
     print(f"catalogue: {len(rows):,} records, {len(ents):,} entity slugs -> site/catalogue/  "
           f"(index.html, catalogue-data.js {data_js.stat().st_size/1024:.0f} KB, csv, json)")
+    print(f"  first screen baked into index.html: the newest "
+          f"{min(SHOWN, len(rows)):,} rows and {baked['facets'].count('<label'):,} "
+          f"facet options, {idx.stat().st_size/1024:.0f} KB of page")
     if names_meta:
         print(f"  names index: {names_meta['names']:,} names over {n_shards:,} shards, "
               f"fetched on demand")

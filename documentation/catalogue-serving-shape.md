@@ -53,7 +53,7 @@ They are usually discussed as one problem. They are three, they have different d
 
 **2. Git history churn, which is invisible in `site/`.** All three catalogue files are rewritten wholesale on every render and committed. At 40,000 that is roughly 17 MB of new, permanently-retained blob per build — git stores them zlib-compressed, so the compressed figures are the right ones to add up — plus whatever fraction of the ~114 MB names index churned that night. The log shows renders on consecutive days. Call it 6 GB a year of history that no prune can reach, because `prune-editions.py` deletes files from the tree and git keeps the blob; `design.md` §9 already says so about editions and it is equally true here. `du` on `.git` did not complete in 100 seconds over the Cowork mount, which is not a measurement but is a signal.
 
-**3. The eager payload — §6's problem, and the least urgent of the three.** At 40,000 the page ships 5.4 MB gzipped and then parses a 16.8 MB JavaScript source literal before it can draw anything. The bandwidth is survivable; the parse is not the kind of thing that degrades gracefully on a mid-range phone, and `index.html` line 185 then builds a second full-corpus string allocation (`r._s`, the per-row search blob of title + publisher + entity slugs) on top of the array it just parsed.
+**3. The eager payload — §6's problem, and the least urgent of the three.** At 40,000 the page ships 5.4 MB gzipped and then parses a 16.8 MB JavaScript source literal before it can draw anything. The bandwidth is survivable; the parse is not the kind of thing that degrades gracefully on a mid-range phone, and the page's `ROWS.forEach` pass then builds a second full-corpus string allocation (`r._s`, the per-row search blob of title + publisher + entity slugs) on top of the array it just parsed.
 
 ## Sharding by year is the wrong instrument
 
@@ -95,7 +95,7 @@ at. **The hero text is an argument for doing the split, not against it**: unspli
 of gzip every visitor pays before the page draws; split, it is 50 KB more on a chunk.
 
 **One thing in the plan above needs correcting.** This note treats title, URL and slug as *display*
-text. Hero is not only display — `site/catalogue/index.html` line 191 folds it into the per-row
+text. Hero is not only display — `site/catalogue/index.html` folds it into the per-row
 search blob (`r._s = r[0] + r[1] + r[12] + r[7] + …`), so it is searched as well as shown. The
 bullet about moving free-text search onto the `names/` mechanism therefore has to tokenise **hero
 alongside title**, not title alone. That is more text per shard and no change of shape; the
