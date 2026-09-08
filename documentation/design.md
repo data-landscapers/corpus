@@ -2,7 +2,7 @@
 type: doc
 title: Phase 3 — the public site
 status: built and deployed
-last_reviewed: 2026-08-28
+last_reviewed: 2026-09-08
 ---
 
 # Phase 3 — the public site
@@ -68,7 +68,9 @@ Cheap, because the base already holds what they need — and what distinguishes 
 
 ## 6. Open
 
-- **Serving shape of the catalogue — decided 2026-09-04, in `documentation/catalogue-serving-shape.md`.** Not open any more, and the bullet that stood here was wrong twice over: it projected 30,000 records for spring 2027 when the log's own growth rate puts them in mid-October 2026, and it reached for year-shards, which the decision rejects because the page filters across the whole corpus and a year shard only helps a reader who has already chosen a year. The payload splits between filtering and displaying instead. Implementation waits for the end of the freeze.
+- **Serving shape of the catalogue — closed 2026-09-08, and no longer an open question.** Decided in `documentation/catalogue-serving-shape.md`; built in four parts and recorded in `documentation/archived/catalogue-split-plan.md`. The payload splits between **filtering** — a filter index of integers, fetched once — and **displaying** — row text in chunks, fetched only for rows about to be drawn; free-text search moved onto prefix shards served from R2; and the first screen is written into the markup at build time, so the page draws with JavaScript off entirely. **A reader pays 0.73 MB gzipped before the first draw, against 3.73 MB.**
+
+  What stood here was wrong twice over, and the second error is the one worth keeping. It reached for year-shards, which the decision rejects because the page filters across the whole corpus and a year shard only helps a reader who has already chosen a year. And it projected 30,000 records for spring 2027, which the log's own growth rate puts at **mid-October 2026** — five months out, and pointed at the smaller of the two numbers the decision had to plan for. **A figure written into a design record with nothing reading it back is a figure nobody re-checks**; `RENDER.md` now states counts as facts about the last build rather than as expectations, for the same reason.
 - **The home page.** It has to say what this is, to someone arriving from a link, in about eight seconds, without becoming a dashboard. Hardest page on the site.
 
 ## 7. Preconditions — met
