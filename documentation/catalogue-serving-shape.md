@@ -2,7 +2,7 @@
 type: decision
 title: catalogue-serving-shape.md — how the catalogue is served at 40,000 records
 last_reviewed: 2026-09-04
-status: decided; the `names/` move to R2 was built on 2026-09-08, the catalogue split is still deferred
+status: decided; `names/` moved to R2 2026-09-08; the split is still deferred to 2026-09-28, and the hero-text amendment of 2026-09-08 makes deferring it again the wrong call
 ---
 
 # The serving shape of the catalogue
@@ -58,6 +58,51 @@ They are usually discussed as one problem. They are three, they have different d
 The boundary is cheap; the *access pattern* is what makes it wrong. The catalogue page's core interaction is to filter and sort **across the whole corpus** — a place, a topic, an entity, a free-text string — and only then to look at what came back. A year shard only helps a reader who has already chosen a year, and there is no year facet in the sidebar that is not a filter over everything. Every other filter would have to fetch every shard, so the common case gets *worse*: the same total bytes, now as N round trips with N parse steps. And §6 is right that the boundary is expensive to move once anything external consumes it, which argues for not choosing a bad one quickly.
 
 There is also a measured reason to expect little from encoding alone. A columnar re-encode of the whole payload — dictionaries for publisher, places, topics and hostname, dates as integer day-offsets, titles and URL paths as newline-joined blobs, slugs stripped of their redundant date prefix — was prototyped and measured at **5.08 MB raw / 1.74 MB gzip against the present 7.03 MB / 2.24 MB**. That is a 28% cut raw and 22% gzipped: real, worth having, and nowhere near enough. At 40,000 it still lands at 12.1 MB raw and 4.2 MB gzipped. **You cannot encode your way out of shipping 40,000 titles and 40,000 URLs**, and those two columns plus the slug are 4.36 MB of the present 7.03 MB. The redundancy the dictionaries exploit is redundancy gzip was already exploiting.
+
+## Amendment, 2026-09-08 — the hero text, which did not exist when this was measured
+
+**Everything above was measured against a payload with no `catalogue_hero` in it, and the column
+tables are short by one column.** OSINT began filling that field in September: **0 of the 13,264
+records ingested in July and August carry it, and 2,384 of September's 5,630 do — 42% of the
+month's intake against 16.9% of the corpus.** It is a one-line summary of the source, ~93
+characters, and it is on its way to being on everything.
+
+**Measured, not projected** — the current payload with the field filled in for every record, from
+the heroes already written:
+
+| | raw | gzip |
+|---|---|---|
+| now, hero on 16.9% | 8.87 MB | 2.95 MB |
+| same records, hero on 100% | 10.44 MB | 3.73 MB |
+| **at 40,000, hero on 16.9%** | 17.55 MB | 5.83 MB |
+| **at 40,000, hero on 100%** | **20.65 MB** | **7.38 MB** |
+
+So the eager payload this note called *the least urgent of the three constraints* is heading for
+**37% more than the 16.8 MB / 5.4 MB it was measured at**. The three constraints keep their
+order, but the third one arrives sooner and larger than stated.
+
+**The decision does not change, and the reason is worth stating: hero text lands entirely on the
+fetched half of the split.** It is not a facet, so it adds nothing whatever to the filter index —
+re-measured with the field filled in, that index is still **~1.3 MB gzipped at 40,000**, and the
+claim that makes this whole decision (*under a megabyte at 40,000, tractable at 100,000*) survives
+the new column with room to spare. Hero joins title, URL and slug in the row-text chunks, taking
+them from ~128 KB to **~177 KB per 500 rows** — a cost paid only for rows a reader actually looks
+at. **The hero text is an argument for doing the split, not against it**: unsplit, it is 0.8 MB
+of gzip every visitor pays before the page draws; split, it is 50 KB more on a chunk.
+
+**One thing in the plan above needs correcting.** This note treats title, URL and slug as *display*
+text. Hero is not only display — `site/catalogue/index.html` line 191 folds it into the per-row
+search blob (`r._s = r[0] + r[1] + r[12] + r[7] + …`), so it is searched as well as shown. The
+bullet about moving free-text search onto the `names/` mechanism therefore has to tokenise **hero
+alongside title**, not title alone. That is more text per shard and no change of shape; the
+mechanism was built for 208,000 entity names and this is smaller. Missing it would silently
+narrow what search finds, which is the kind of regression nobody reports — the results simply
+look thinner.
+
+**What this changes about timing: nothing, and that is the point.** The split was already deferred
+to the end of the freeze on 2026-09-28. Hero does not move that date. What it does remove is the
+option of deferring it *again* — the payload is now growing on two axes at once, records and
+columns, and the second one was not in the plan.
 
 ## The decision: split the payload where the work splits
 
