@@ -14,13 +14,14 @@ last_reviewed: 2026-08-28
 
 <!-- newest first: a new block goes directly below this line -->
 
-## 2026-09-08 14:30 · catalogue split
+## 2026-09-08 15:10 · catalogue split
 
-- The catalogue's search shards (`titles/`, `names/`) are built and proved but **not
-  served**: they need `python scripts/r2-sync.py --apply` and a deploy of
-  `workers/download-log/worker.js`, whose `R2_PREFIX` now carries `catalogue/titles/`.
-  Both are committed as source; neither is CC's to run. Until they do, search matches
-  publishers and actors only. Everything else in the split works from a plain push.
+- The title shards are **uploaded and verified** — 2,283 objects, 29.4 MB, and
+  `--verify` passes on all 7,965 in the bucket. What is left is **deploying
+  `workers/download-log/worker.js`**, whose `R2_PREFIX` now carries
+  `catalogue/titles/`; until it goes, the live page 404s every title shard and search
+  reaches publishers, actors and source names but not titles. The test after
+  deploying: `digital public infrastructure` returns 259, not 245.
 
 
 
