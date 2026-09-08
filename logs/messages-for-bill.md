@@ -13,19 +13,3 @@ last_reviewed: 2026-08-28
 *(**Form.** `## YYYY-MM-DD HH:MM · job`, then one bullet per item: what happened, what the run did about it, what Bill's options are. Insert directly under the marker — appending puts the newest block at the bottom of a file that reads top-down.)*
 
 <!-- newest first: a new block goes directly below this line -->
-
-## 2026-09-08 15:10 · catalogue split
-
-- The title shards are **uploaded and verified** — 2,283 objects, 29.4 MB, and
-  `--verify` passes on all 7,965 in the bucket. What is left is **deploying
-  `workers/download-log/worker.js`**, whose `R2_PREFIX` now carries
-  `catalogue/titles/`; until it goes, the live page 404s every title shard and search
-  reaches publishers, actors and source names but not titles. The test after
-  deploying: `digital public infrastructure` returns 259, not 245.
-
-
-
-
-
-
-
