@@ -1,11 +1,11 @@
 ---
 title: Central Africa — monthly update, August – September 2026
-compiled: 2026-09-05
-period: 2026-08-01 to 2026-09-05
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 place: XCA
 ledger_rows: 9
 not_held: 0
-record: 94157e465ca5
+record: ea149b2a12b9
 ---
 
 # Central Africa: monthly update, August – September 2026
@@ -24,6 +24,8 @@ Payments infrastructure carried the month: BEAC put [SYSTAC 2 into production on
 
 <!-- narrative: institutions--gov-regional -->
 Africa CDC [closed a regional advocacy workshop in Libreville on 21 August](https://union.sonapresse.com/index.php/fr/africa-cdc-une-feuille-de-route-ambitieuse-pour-le-partage-des-donnees-sanitaires) setting a six-week deadline for drafting an inter-country health-data-sharing convention and a four-week deadline for a formal sharing mechanism, to be put to the health ministers of the seven of nine member states that have yet to sign the underlying protocol. The deadlines fall after this window and are not yet due.
+
+The regional data-governance framework closed its consultations. [The Douala sessions ended on 4 September with 27 participants and European Union and German development backing, a framework and an accompanying roadmap due out of them](https://www.uneca.org/stories/eca-and-partners-advance-eccas-regional-data-governance-framework). No draft text, adoption route, member-state commitment or publication date for either is held — which leaves the region with a process and no instrument.
 <!-- /narrative -->
 
 ## Instruments and harmonisation

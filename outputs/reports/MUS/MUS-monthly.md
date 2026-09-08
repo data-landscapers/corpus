@@ -1,11 +1,11 @@
 ---
 title: Mauritius — monthly update, August – September 2026
-compiled: 2026-09-06
-period: 2026-08-01 to 2026-09-06
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 place: MUS
-ledger_rows: 36
+ledger_rows: 37
 not_held: 7
-record: c16b46d97e4f
+record: a3546393b8cc
 ---
 
 # Mauritius: monthly update, August – September 2026
@@ -157,6 +157,13 @@ The incumbent operator opened a national cybersecurity and artificial-intelligen
 <!-- narrative: data--data-statistics -->
 
 The central bank opened its own statistics rather than waiting for the statutory framework to be rewritten. It [launched a central statistical database on 3 September, developed with the International Monetary Fund and the African Development Bank, opening statistical information to businesses, researchers, policymakers and citizens](https://gis.govmu.org/gis/?page_id=4008); the prime minister said a standards and codes report had underscored the need to strengthen statistical capacity and modernise dissemination, and that the statistics statute and the central bank statute are being reviewed. No series list, update cadence, licence or machine-readable access route is stated for the portal.
+<!-- /narrative -->
+### Open data
+
+<!-- narrative: data--data-open -->
+
+
+The central bank put its statistics on a standards-based platform. It [launched its statistical data platform on 3 September, built with monetary fund and development bank support on an open data platform with standardised statistical data and metadata dissemination, and stated as the first African central bank on that platform's second version](https://www.bom.mu/media/media-releases/bank-mauritius-expands-access-official-statistics-rollout-bomstats-platform). No dataset count, series coverage, licence or machine-readable access statement accompanies the launch — which for a platform whose point is machine-readable dissemination is the thing a user would check first.
 <!-- /narrative -->
 
 ## Geopolitics

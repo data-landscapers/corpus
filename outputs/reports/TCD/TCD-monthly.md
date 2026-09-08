@@ -1,11 +1,11 @@
 ---
 title: Chad — monthly update, August – September 2026
-compiled: 2026-09-06
-period: 2026-08-01 to 2026-09-06
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 place: TCD
-ledger_rows: 40
+ledger_rows: 41
 not_held: 23
-record: 6d36593c7392
+record: 0af2bcf8d00a
 ---
 
 # Chad: monthly update, August – September 2026
@@ -95,6 +95,8 @@ On 24 July the Ministry of Finance took delivery of [3,000 smart electronic paym
 The 2027 budget orientations, reported 4 August, [restate](https://lendjampost.com/budget-2027-le-tchad-mise-sur-le-numerique-pour-verrouiller-les-finances-publiques/) the mandate for exclusive electronic payment of state obligations — bank or mobile transfer only, against a standardised electronic invoice — for a start of 1 January 2027. The same regime had already been [mandated for budget year 2026](https://lendjampost.com/budget-2026-au-tchad-zero-cash-zero-papier-zero-facture-fantome/) — exclusively bank or mobile payments, cash and cheques out; nothing in the base shows that 2026 mandate operating, so the restatement is a year's slip rather than a new commitment. Chad had already launched the standardised electronic invoice itself, among the first CEMAC states to do so, under the 2026 budget; the August orientations move only the exclusivity date.
 
 On 29 July, at Douala, the BEAC and GIMAC [launched the CEMAC's interoperable QR-code payment standard](https://leconomie.info/article/paiement-numerique-le-gimac-officialise-la-norme-qr-code-interoperable-de-la-cemac), in force under a monetary-union regulation of 8 April 2026 across all six member states including Chad and letting any bank, mobile-money or microfinance account settle a purchase at any merchant's code, routed and settled through the regional switch. No Chadian bank, wallet or merchant deployment is on record: Chad is covered by the regulation rather than shown live.
+
+The electronic money market has more providers and no newer numbers. [Two further providers have joined the two mobile operators' services, and users report fees they consider high, with competition presented as the hope rather than the position, against 160,000 to 240,000 accounts over 2020 to 2022](https://tchadinfos.com/2026/09/04/monnaie-electronique-entre-engouement-frais-eleves-et-espoir-de-concurrence/). No current account count, transaction volume, tariff schedule or regulator series is published, so the market's growth is described and not measured.
 <!-- /narrative -->
 ### Registries
 

@@ -1,11 +1,11 @@
 ---
 title: Burundi — monthly update, August – September 2026
-compiled: 2026-09-07
-period: 2026-08-01 to 2026-09-07
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 place: BDI
-ledger_rows: 32
+ledger_rows: 33
 not_held: 15
-record: 1d7f753ea85c
+record: 972fab050717
 ---
 
 # Burundi: monthly update, August – September 2026
@@ -78,6 +78,8 @@ At the counter, none of that reaches the constraint. Traders at Karusi [report t
 <!-- narrative: dpi--dpi-registry -->
 
 The register, not the card, is what carries the right to vote. The electoral commission [said more than one million new voters are expected for the 2027 presidential election, with partial registration planned for October 2026 in more than 4,000 centres that will also serve as polling stations, targeting those under 18 at the 2025 registration and citizens returned since 2025](https://www.sosmediasburundi.org/en/2026/09/03/2027-presidential-election-more-than-one-million-new-voters-ceni-accelerates-preparations/), and its president said a voter who loses their card keeps the right to vote provided they are in the electoral database. That is the clearest statement this base holds of how identity works at the poll here. No register size, audit terms or duplicate-detection method is published.
+
+The obligation behind any future social register is now on the record. An [ordinance of 7 February makes acquisition of the medical assistance card compulsory, a scheme dating from 1984 and reformed in 2012](https://www.iwacu-burundi.org/la-cam-une-avancee-vers-une-protection-sociale-plus-inclusive/), and the account weighs it as a step towards broader social protection. No enrolment count, card format, register or digital component is described — so what exists is a duty to hold a card, and nothing published about the system that would issue or read it.
 <!-- /narrative -->
 ### Sectoral management information systems
 

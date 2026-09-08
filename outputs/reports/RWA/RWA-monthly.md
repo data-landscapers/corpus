@@ -1,11 +1,11 @@
 ---
 title: Rwanda — monthly update, August – September 2026
-compiled: 2026-09-05
-period: 2026-08-01 to 2026-09-05
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 place: RWA
-ledger_rows: 42
+ledger_rows: 43
 not_held: 8
-record: 79ca253a7c01
+record: 51c729fdaae0
 ---
 
 # Rwanda: monthly update, August – September 2026
@@ -153,6 +153,8 @@ As at 3 August the development bank is [the sole committed backer, at US$6m, of 
 
 <!-- narrative: capacity--capacity-literacy -->
 [More than 5,000 teachers across every district were trained in the first phase of a national artificial-intelligence literacy programme, reported complete at end-2025](https://www.linkedin.com/pulse/africas-biggest-ai-risk-isnt-being-left-behind-its-misread-njila-3zj4c/). The assertion is a diplomat's, in an opinion piece, and no ministry primary is held for it.
+
+The online-safety half of literacy was taught to the adults rather than the children. A civil-society internet chapter [trained 50 parents and teachers in Karongi District on online safety and on using the national e-services portal](https://www.internetsociety.org/blog/2026/09/empowering-parents-in-rwanda-through-digital-literacy-training/). It is a single district cohort run by a non-governmental body, with no curriculum, follow-up, national programme or reach target published — and it sits beside a restriction on minors' social-media use that is still in development.
 <!-- /narrative -->
 ### Training and skills
 

@@ -1,11 +1,11 @@
 ---
 title: Morocco — monthly update, August – September 2026
-compiled: 2026-09-05
-period: 2026-08-01 to 2026-09-05
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 place: MAR
-ledger_rows: 33
+ledger_rows: 34
 not_held: 15
-record: 3ba1c6d1b562
+record: d61f7d9d3aef
 ---
 
 # Morocco: monthly update, August – September 2026
@@ -45,6 +45,8 @@ Morocco's regional reach extended past the continent this month: the UN Economic
 
 <!-- narrative: governance--gov-discourse -->
 Simplification is law and is not yet practice. A member's written question to the digital transition ministry put the ombudsman's 2025 finding on the record: [agencies still ask citizens for paper copies of documents the administration already holds electronically, and impose undisclosed extra conditions](https://nichan.ma/361721/), which is what the procedural simplification law was passed to stop. No ministry answer is held. The complaint from the other end is about coverage rather than paperwork: residents of one Sefrou commune [are asking for new or strengthened transmission stations, describing reliable connectivity as a condition of schooling, work and emergency access](https://www.adyare.ma/32404.html).
+
+The administrative rule that would matter most for digital services was proposed from outside government. A party's election manifesto [proposes that administrative silence count as approval, that prior authorisations be reduced, and that artificial intelligence be used in the governance of public policy](https://www.lodj.ma/La-petite-revolution-administrative-cachee-dans-le-programme-de-l-Istiqlal_a183608.html). It binds nobody unless the party forms a government, and no bill, scope, exempted-decision list or timetable exists — but tacit approval is the one reform that would change what a digital procedure actually delivers, rather than how it is submitted.
 <!-- /narrative -->
 
 ## Finance

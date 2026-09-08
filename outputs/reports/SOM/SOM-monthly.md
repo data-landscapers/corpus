@@ -1,11 +1,11 @@
 ---
 title: Somalia — monthly update, August – September 2026
-compiled: 2026-09-03
-period: 2026-08-01 to 2026-09-03
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 place: SOM
-ledger_rows: 23
+ledger_rows: 24
 not_held: 1
-record: 81cb79f22f31
+record: 1c56c817d867
 ---
 
 # Somalia: monthly update, August – September 2026
@@ -96,6 +96,8 @@ The federal electronic visa is running and contested: [a fee exemption for one r
 The Somali National University [launched an AI centre on 20 July](https://techafricanews.com/2026/07/20/somali-national-university-launches-ai-centre-to-advance-research-and-digital-innovation/) for research and digital skills. No funding, staffing or research programme is stated, and the country still holds no national artificial intelligence policy of any kind.
 
 August added a product and an assessment. A private artificial-intelligence centre [launched Garad.ai on 7 August alongside the communications and technology ministry](https://www.dawan.africa/news/somalia-plans-national-data-centre-to-strengthen-digital-infrastructure); the record describes the launch rather than the product, and states no capability, language coverage, user base or hosting arrangement for it. Separately a national AI readiness assessment is under way, [led by the same ministry with UNESCO and joined by a private university on 17 August](https://techreviewafrica.com/news/6784/somalia-boosts-national-ai-readiness-assessment-with-support-from-academia), examining artificial-intelligence policy, data governance and higher-education capacity. No methodology, participant list, score or publication date is stated — so the assessment is, for now, the closest thing the country has to a policy position on the subject.
+
+Ownership was stated as the goal rather than capability. A senior government adviser told a food-systems forum panel in Kigali that [the disaster management agency is building systems so that government holds full ownership of disaster data](https://shabellemedia.com/somalia-participates-in-africa-food-systems-forum-in-rwanda/). No system, agreement or transition plan away from partner-held data is named, so what is recorded is an intention about custody — which is the question the early-warning platform's own arrangements leave open.
 <!-- /narrative -->
 
 ## Capacity

@@ -1,11 +1,11 @@
 ---
 title: Congo — monthly update, August – September 2026
-compiled: 2026-09-05
-period: 2026-08-01 to 2026-09-05
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 place: COG
 ledger_rows: 22
 not_held: 6
-record: 727ccc577388
+record: 130676dd1e14
 ---
 
 # Congo: monthly update, August – September 2026
@@ -86,6 +86,8 @@ On 3 August the [public-revenue platform went live on the national payments swit
 
 <!-- narrative: dpi--dpi-registry -->
 The minister recorded on 10 July that the [regulator has run the postal addressing project for two years and the ministry has not taken it up for deployment](https://www.adiac-congo.com/content/numeriquegouvernance-frederic-malik-nguema-nze-fait-de-larpce-son-fer-de-lance-170823), his own framing being that without the handover the work has not had the expected impact. The registry that does have a system waiting for it went before the Senate. On 7 August the interior minister [said ministry and municipal staff are themselves among those running networks selling forged civil-status documents, and announced investigations to dismantle them](https://datsoue.news/2026/08/08/congo-etat-civil-jean-olessongo-ondaye-annonce-la-traque-des-reseaux-de-falsification/), naming the integrated civil-status system as the structural fix; the ministers [set out the platform as the way to centralise birth, marriage and death records](https://brazzavilleinsider.com/congo-bets-on-digital-records-to-curb-civil-fraud/). Its three modules were validated in February and its deployment is still unfunded, so what changed this month is the case made for it rather than its build state.
+
+Control arrived before the system did. A [circular of 1 September 2026 from the territorial administration bans antedating of civil-status acts and changes of identity or filiation without a court decision](https://lesechos-congobrazza.com/societe/12368-etat-civil-au-congo-brazzaville-fini-le-temps-des-actes-bricoles). It is an administrative control placed on a paper process while the validated integrated civil-status software waits for deployment funding, and no volume of irregular acts is published to say how large the problem it addresses is.
 <!-- /narrative -->
 ### Sectoral management information systems
 
