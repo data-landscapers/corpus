@@ -1,11 +1,11 @@
 ---
 title: DR Congo — monthly update, August – September 2026
-compiled: 2026-09-06
-period: 2026-08-01 to 2026-09-06
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 place: COD
-ledger_rows: 56
+ledger_rows: 59
 not_held: 6
-record: 1c996a0e2756
+record: cad09b5f1d23
 ---
 
 # DR Congo: monthly update, August – September 2026
@@ -112,6 +112,8 @@ The exchange being built is between revenue agencies rather than between citizen
 
 <!-- narrative: dpi--dpi-id -->
 Identification in the window is a provincial operation rather than a national one. Training of the agents for an operation registering Mbororo herders in Nord-Ubangi [closed at Gbadolite on 17 August](https://lepotentiel.cd/2026/08/18/nord-ubangi-la-formation-des-identificateurs-des-mbororo-sacheve-a-gbadolite/). Registering a named population as a distinct category is a decision with consequences beyond the register, and no legal basis, data controller, retention rule or purpose limitation is published for it.
+
+Continentally, the laboratory system the country's current Ebola response runs on was assessed before the outbreak began. A multi-country study [covering 26 countries found every one with a functioning surveillance system and core diagnostic capacity and 3,964 laboratories mapped across fourteen, and named digital interoperability between laboratories and surveillance platforms — alongside specimen referral, workforce surge and domestic financing — as the weak points](https://aslm.org/inside-the-system-that-was-ready-how-years-of-quiet-investment-shaped-africas-ebola-response/), which is where the response has had to improvise. It is a reference study written up by its own author rather than a dated development here, and the base holds no national laboratory-interoperability position to set against it.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -128,11 +130,15 @@ Two further registers were announced as part of a financial-sector package rathe
 The registry ground also drew a vendor. A Kenyan platform operator [pitched the digital economy ministry on 12 August on digital company registries, beneficial-ownership traceability and real-time state-revenue tracking](https://acp.cd/economie/rdc-la-mise-en-place-de-registres-numeriques-recommandee-pour-moderniser-ladministration/), citing its own deployments in Malawi and South Sudan; the minister asked officials to continue talks toward a partnership. It is a sales meeting, and the claims in it are the vendor's.
 
 The company that built the vehicle identification platform [is refusing to hand it to the government without compensation](https://www.africaintelligence.com/central-africa/2026/08/25/kinshasa-struggles-to-take-control-of-vehicle-registration-it-system,110864451-art) and is preparing legal action in Belgium after a mediation attempt failed. A state registry whose operating platform the state does not control is a governance exposure and not only a commercial dispute; no contract terms, valuation or filing date is on file.
+
+A second registry-shaped system was announced on the certification side. The standards control office [plans a national QR-code system letting consumers scan a product — medicines included — to verify its certification status, with consumer checks stated as opening within weeks and resting on 88 laboratories across 29 sites](https://www.wearetech.africa/en/fils-uk/news/tech/drc-to-roll-out-qr-code-system-to-track-products-and-fight-counterfeits). No launch date, register, cost or enforcement route is published, and the laboratory counts are the office's own.
 <!-- /narrative -->
 ### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->
 Enforcement caught up with the standardised electronic invoice. The finance minister [closed the fiscal clinics and ordered immediate targeted sanctions against non-compliant taxpayers and against tax-administration staff](https://actualite.cd/2026/08/06/facture-normalisee-doudou-fwamba-clot-les-cliniques-fiscales-et-annonce-des-sanctions). Naming the administration's own staff alongside the taxpayers is the part worth recording; no compliance rate, sanction count or invoice volume is published.
+
+The revenue side of the digitisation put a number on itself. On a broadcast accountability programme on 3 September the finance minister said [monthly value-added tax collection had passed FC 320bn against an average of FC 280bn — about US$141.4m a month — attributing the rise to generalised e-filing at the tax directorate and the phased rollout of the standardised invoice](https://7sur7.cd/index.php/2026/09/03/rdc-les-recettes-mensuelles-de-la-tva-passent-de-1237-plus-de-1414-millions-grace-aux). The attribution is his own, with no counterfactual, compliance rate or invoice-volume series behind it. In the same broadcast he named [the interconnection of the three revenue agencies and a data warehouse as under way, alongside a digital public-finance programme he put at more than US$150m to be built with a Chinese network vendor](https://7sur7.cd/index.php/2026/09/03/rdc-les-recettes-mensuelles-de-la-tva-passent-de-1237-plus-de-1414-millions-grace-aux) — the largest figure attached to any digital programme the base holds for the country, and one with no contract, procurement route, scope document or timetable published behind it.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -178,6 +184,8 @@ The land ministry [closed a roughly month-long course for 50 conservators of pro
 
 <!-- narrative: inclusion--include-access -->
 On 23 July a state bank and the payroll monitoring committee settled the technical and organisational terms for [paying civil servants in rural territories, scoped to three named territories and others where no other bank operates](https://actualite.cd/2026/07/24/paie-des-agents-publics-la-cadeco-et-le-csp-prets-lancer-la-paie-de-proximite-en-milieu). August 2026 was named as a target, with the bank's director-general calling a fixed date premature and the state contract unsigned. What subscribers pay moved the other way. Users and resellers in Bukavu say a [1GB bundle that ran 48 hours at 1,500 Congolese francs now expires in 24 at the same price](https://laprunellerdc.cd/bukavu-des-usagers-denoncent-la-modification-des-tarifs-des-forfaits-internet/), and a 2GB 48-hour bundle at 2,000 francs has been replaced by 1GB over 72 hours; subscribers across the eastern provinces [report the same pattern across four operators and have asked a consumer body to intervene](https://radiomaendeleo.org/forfaits-internet-les-abonnes-denoncent-une-hausse-des-prix-et-une-reduction-de-la-validite/). Both ends are subscribers' accounts; no operator or regulator has stated anything.
+
+Accessibility entered the record as an argument about a process rather than a system. A tribune set out [six levers for deaf participation in the national dialogue relaunched on 17 July 2026 — interpretation, captioning, accessible documents and the rest — on the ground that a democracy that speaks without being understood has already excluded part of its citizenry](https://actualite.cd/2026/09/04/dialogue-national-en-rdc-sans-les-personnes-sourdes-linclusion-restera-un-slogan-tribune). No public data on deaf access to state processes is held, which is what makes the piece the base's only statement on the question.
 <!-- /narrative -->
 ### Digital divides
 
@@ -196,6 +204,8 @@ The planning minister [announced recruitment of mapping agents and fixed general
 
 <!-- narrative: data--data-open -->
 The month's one open-data movement came from the central bank rather than from the state's open-data policy, which the base still does not hold. The bank [relaunched its website on 14 August as a public economic-data portal carrying exchange rates, inflation, interest rates, statistics and indicators, with a currency converter and a search facility](https://numerico.cd/2026/08/17/la-bcc-a-desormais-un-site-internet-2-0-new-look-plus-fonctionnel), its governor framing the site as part of a reform whose stated objectives include digitalising payments and automating control processes. It is a publication channel rather than a data release: no machine-readable download, licence or update schedule is stated, and the national data governance strategy remains **Not held**.
+
+The gap the open-data portal does not cover was named from outside government. The national academy of sciences [called for a national policy on the management and security of environmental data, setting the absence against an observing network that carried more than 125 synoptic weather stations and 400 hydrometric stations in the 1960s, few of which still work](https://acp.cd/science-sante-environnement/rdc-alerte-sur-lurgence-delaborer-une-politique-de-gestion-des-donnees-environnementales/). It is an academic call rather than a government commitment: no draft, sponsoring ministry or timetable exists, and the station counts are the study's own historical figures — which is itself the finding, since nothing more recent is published.
 <!-- /narrative -->
 ### Use of satellite data
 
