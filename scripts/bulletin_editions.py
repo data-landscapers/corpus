@@ -187,6 +187,23 @@ def missing(out_dir: Path) -> list[str]:
             if not (out_dir / str(e.get("file", ""))).exists()]
 
 
+def _long_date(iso: str, form: str) -> str:
+    """`2026-09-08` -> `Tuesday 8 September`, or "" where the value will not parse.
+
+    **The day number is substituted, not formatted** *(2026-09-08)*. This read `%A %-d %B`, and
+    `%-d` — the GNU extension for an unpadded day — raises `ValueError: Invalid format string` on
+    Windows, which is the only platform Corpus renders on. The `except ValueError` around it was
+    written for a stamp that will not parse and was silently swallowing a code fault instead, so
+    every edition in the bulletin's picker has been labelled with a bare ISO date rather than the
+    long form the label was designed to print. A check or a fallback that fires on all of its
+    input has stopped being either."""
+    try:
+        d = dt.date.fromisoformat(iso)
+    except ValueError:
+        return ""
+    return d.strftime(form.replace("{d}", str(d.day)))
+
+
 def label(entry: dict) -> str:
     """`Saturday 22 August, 09:35 — 25 entries`.
 
@@ -195,15 +212,23 @@ def label(entry: dict) -> str:
     question a reader choosing between two cuts of the same day is actually asking. It is
     deliberately not the document's byline: that names `collected_to:`, when collection stopped,
     which is the different question *how recent is any of this* (Bill, 2026-08-23). A stamp that will not
-    parse degrades to the date alone rather than printing a fragment of one."""
+    parse degrades to the date alone rather than printing a fragment of one.
+
+    **The compiled date is named whenever it is not the edition's own** *(2026-09-08)*. The label
+    used to join the edition's date to the stamp's time unconditionally, which is right on the
+    same day and false on any other: an edition cut on the morning of the 8th from a collection
+    that closed at 21:23 on the 7th was published as `Tuesday 8 September, 21:23` — a moment that
+    had not happened when the file was written, on a page a reader is choosing a citation from.
+    A cut is routinely made the morning after its window closes, so this was the ordinary case
+    rather than an edge one. Where the two dates agree nothing changes; where they differ the
+    stamp is printed whole and says which day it belongs to."""
     edition = str(entry.get("edition", ""))
     day = editions.edition_key(edition)[0] or edition[:10]
-    try:
-        shown = dt.date.fromisoformat(day).strftime("%A %-d %B")
-    except ValueError:
-        shown = day
+    shown = _long_date(day, "%A {d} %B") or day
     stamp = str(entry.get("compiled", ""))
-    when = stamp.split(" ", 1)[1] if " " in stamp else ""
+    stamp_day, _, when = stamp.partition(" ")
+    if when and stamp_day and stamp_day != day:
+        when = f"compiled {_long_date(stamp_day, '{d} %B') or stamp_day}, {when}"
     n = int(entry.get("items") or 0)
     parts = [shown + (f", {when}" if when else "")]
     # **No count where no count is known.** An adopted entry — a PDF on disk the manifest never

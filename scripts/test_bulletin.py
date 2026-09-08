@@ -628,6 +628,41 @@ def case_a_manifest_stamp_is_read_as_local(tmp):
         f"a manifest stamp was shifted off the value it carries:\n{b.document()[:400]}")
 
 
+
+# --------------------------------------------------------------------------- #
+# The edition picker's label
+# --------------------------------------------------------------------------- #
+
+def case_the_label_never_states_a_time_that_did_not_happen(tmp: Path) -> None:
+    """An edition cut the morning after its window closed must not borrow its own date.
+
+    The label joined the edition's date to the `compiled` stamp's time, which is right on the
+    same day and false on any other. The 2026-09-08 cut of a collection that closed at 21:23 on
+    the 7th published as `Tuesday 8 September, 21:23` — a moment that had not happened when the
+    file was written, in a picker a reader chooses a citation from."""
+    be = _load("bulletin_editions")
+    out = be.label({"edition": "2026-09-08", "compiled": "2026-09-07 21:23", "items": 38})
+    assert "Tuesday 8 September" in out, out
+    assert "7 September, 21:23" in out, out
+    assert "8 September, 21:23" not in out, f"the edition's date wearing another day's time: {out}"
+
+    same = be.label({"edition": "2026-09-08-2", "compiled": "2026-09-08 10:46", "items": 48})
+    assert same == "Tuesday 8 September, 10:46 — 48 entries", same
+
+
+def case_the_label_prints_the_long_date_on_this_platform(tmp: Path) -> None:
+    """`%-d` is a GNU extension and raises on Windows, which is where Corpus renders.
+
+    The `except ValueError` around the format was written for a stamp that will not parse, and
+    was swallowing a code fault on every call instead — so every edition in the picker carried a
+    bare ISO date. A fallback that fires on all of its input has stopped being one."""
+    be = _load("bulletin_editions")
+    assert be._long_date("2026-09-08", "%A {d} %B") == "Tuesday 8 September"
+    assert be._long_date("2026-09-01", "{d} %B") == "1 September", "the day is unpadded"
+    assert be._long_date("not-a-date", "%A {d} %B") == "", "an unparseable value still degrades"
+    assert be.label({"edition": "2026-09-04", "compiled": "", "items": 0}) == "Friday 4 September"
+
+
 CASES = [
     ("the manifest answers on its own", case_the_manifest_answers_on_its_own),
     ("a manifest stamp is read as local", case_a_manifest_stamp_is_read_as_local),
@@ -665,6 +700,10 @@ CASES = [
      case_the_rotation_close_does_not_compete_with_the_stated_one),
     ("a mirror with no stated close falls back and says so",
      case_a_mirror_with_no_stated_close_falls_back_and_says_so),
+    ("the label never states a time that did not happen",
+     case_the_label_never_states_a_time_that_did_not_happen),
+    ("the label prints the long date on this platform",
+     case_the_label_prints_the_long_date_on_this_platform),
     ("a close in the future is refused",
      case_a_close_in_the_future_is_refused),
 ]
