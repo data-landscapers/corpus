@@ -1,11 +1,11 @@
 ---
 title: Liberia — monthly update, August – September 2026
-compiled: 2026-09-05
-period: 2026-08-01 to 2026-09-05
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 place: LBR
-ledger_rows: 31
+ledger_rows: 34
 not_held: 6
-record: 61503a6d7994
+record: 7effed58ce4a
 ---
 
 # Liberia: monthly update, August – September 2026
@@ -86,6 +86,8 @@ The central bank also put on record how the system was built. Its own account is
 Speaking on 21 July, the Posts and Telecommunications Minister said [rollout of a national digital postal address system had begun across all fifteen counties](https://elbcnews.com/2026/07/23/commissioner-honnah-reaffirms-liberia-telecom-authoritys-commitment-to-expanding-digital-access/), with no completion date or budget line given.
 
 The central bank is preparing a register of a different kind. It announced on 14 August that it is [extending the 2010 movable-assets collateral registry to cover immovable property such as land, buildings and fixed machinery](https://elbcnews.com/2026/08/14/central-bank-of-liberia-prepares-to-launch-collateral-registry/), as part of a wider financial-sector reform. No launch date, registration volume, fee schedule or relationship to the land registry is stated.
+
+The collateral registry acquired users rather than another regulation. The central bank and the banking institute [trained 35 lenders on it, registration of security interests being mandatory, and named planned links to the national identity, land and traffic registries](https://frontpageafricaonline.com/liberias-new-collateral-registry-opens-credit-doors-for-smes-tightens-lending-controls/). The links are the interesting half and the unevidenced half: they are stated as planned, with no technical route, agreement or date, and no registration count has been published since launch.
 <!-- /narrative -->
 ### Sectoral management information systems
 
@@ -129,6 +131,18 @@ On 31 July, 19 young leaders took the [first of three media and information lite
 
 <!-- narrative: capacity--capacity-training -->
 UNDP also [announced a partnership with the University of Liberia to establish the country's first master's degree in artificial intelligence](https://www.undp.org/liberia/blog/liberias-digital-future-will-be-defined-investments-we-make-people-today), with no commitment amount disclosed.
+
+A second route into the national university was signed rather than built: a [tripartite memorandum of 27 August under which a foreign online university covers 97% of online tuition for more than 200 students, with three smart classrooms due in 2027](https://www.liberianobserver.com/news/ul-signs-tripartite-partnership/article_5cddfcff-d093-4f21-a8b5-4ad801df628a.html). No commitment amount is stated, so what the base holds is a tuition-waiver share, a student count and a classroom count with no money behind any of them.
+<!-- /narrative -->
+
+## Inclusion
+
+### Access to services
+
+<!-- narrative: inclusion--include-access -->
+
+
+Two institutions moved outward in the same week. The telecommunications regulator [opened its first service centre outside Monrovia, at Buchanan in Grand Bassa County, on 4 September, handling consumer complaints and community-radio compliance](https://newspublictrust.com/lta-begins-decentralizing-its-regulatory-and-consumer-protection-services) — the first time the base records regulatory redress being available anywhere but the capital, with no staffing, opening hours, caseload target or programme of further centres published. And the information commission, with a transparency organisation, [ran freedom-of-information compliance visits from 11 August to 2 September covering the national identification registry, the statistics institute, the community empowerment agency and the water and sewer corporation, with three more agencies scheduled for 8 to 10 September](https://gnnliberia.com/iic-cental-step-up-transparency-anti-corruption-drive/). No findings, compliance scores or enforcement actions from the round are published, and it is a partnership exercise rather than a statutory inspection regime — which is the difference between visiting an agency and being able to make it answer.
 <!-- /narrative -->
 
 ## Data
