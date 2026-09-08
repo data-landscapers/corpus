@@ -49,7 +49,24 @@ Where the browse payload's bytes actually are, per column, uncompressed:
 
 At the 22-day average, 30,000 arrives around **mid-October 2026** and 40,000 around **mid-November 2026**. Spring 2027 was out by about five months, and the number it was pointed at was the smaller one. §6's other clause — that a single fetch *stops being defensible around 15–20k rows* — is not a future condition either: the catalogue entered that band in the last week of August and is inside it now.
 
-The lesson worth keeping is not that the arithmetic slipped. It is that a projection written into a design record with no mechanism reading it back is a projection nobody re-checks. `RENDER.md` Step 5 carries the same defect independently — *Expect ~10,700 records*, a statement that has been wrong for weeks and that a render prints past every night.
+The lesson worth keeping is not that the arithmetic slipped. It is that a projection written into a design record with no mechanism reading it back is a projection nobody re-checks. `RENDER.md` Step 5 carried the same defect independently — *Expect ~10,700 records*, a statement that had been wrong for weeks and that a render printed past every night.
+
+> **The rate above is a backfill rate, and it is ending — Bill, 2026-09-08.** The 333 a day that
+> the dates below are built on came from a month of `status-init` and `progress-filler` filling in
+> *history*, which is nearly complete. **The forward rate is 1,000–2,000 new items a month.**
+>
+> From 20,267 records on 2026-09-08 — 9,733 short of 30,000 and 19,733 short of 40,000 — that puts
+> **30,000 between February and July 2027**, and **40,000 between July 2027 and April 2028**.
+> Ten months to twenty, against the two months the arithmetic above gives. Both dates below are
+> superseded; the *ordering* of the three constraints is not.
+>
+> **Nothing in the decision changes and the work is already done.** What changes is urgency, and
+> it changes in the same direction as the two things that have happened since: the editions and
+> the shard indexes moved to R2, so `site/` is **67 MB against the 1 GB ceiling** rather than 924
+> MB, and the split shipped, so the eager payload is 0.73 MB gzipped rather than 3.73 MB.
+> Constraint 1 bound first and hardest on both counts and now binds on neither. **This note is
+> kept as the argument, not as a schedule**, and the next figure written into it should say what
+> would make it re-checked.
 
 ## Three constraints, in the order they bind
 

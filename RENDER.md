@@ -134,14 +134,14 @@ python scripts/topic-page.py      # every topic   -> site/topics/{slug}/index.ht
 python scripts/catalogue.py       # -> site/catalogue/index.html, data/, raw-catalogue.csv
 ```
 
-Reads `outputs/catalogue/raw-catalogue.json` and the vocabularies in `outputs/vocab/`. Metadata only, each record linking to its publisher. Stale place/topic labels mean `outputs/vocab/` wants refreshing from OSINT's `lookups/`. **The record count is not a fixed expectation and no figure is written here** — it was `~10,700` for weeks after the catalogue passed 16,000, which is a statement a render prints past every night without anything noticing. The count for the last build is in `outputs/catalogue/stats.json` and on the previous render's own log line; the serving shape it is heading for is `documentation/catalogue-serving-shape.md`.
+Reads `outputs/catalogue/raw-catalogue.json` and the vocabularies in `outputs/vocab/`. Metadata only, each record linking to its publisher. Stale place/topic labels mean `outputs/vocab/` wants refreshing from OSINT's `lookups/`. **The record count is not a fixed expectation and no figure is written here** — it was `~10,700` for weeks after the catalogue passed 16,000, which is a statement a render prints past every night without anything noticing. The count for the last build is in `outputs/catalogue/stats.json` and on the previous render's own log line. **The serving shape is settled**, not pending: decided in `documentation/catalogue-serving-shape.md` and built in four parts recorded in `documentation/archived/catalogue-split-plan.md`, all of them live since 2026-09-08.
 
 **The page's data is split in two** (`documentation/archived/catalogue-split-plan.md`, Part 3), and `site/catalogue/data/` is both halves:
 
 - **`filter-index.json`**, fetched once, ~2.3 MB and 0.68 MB gzipped: everything a facet, a count or a sort needs and nothing a row shows. Dates and publishers dictionary-encoded, places, topics and actors as offsets into vocabularies, and one A–Z rank per record.
-- **`rows-NNN.json`**, 500 records each, ~154 KB and 53 KB gzipped: title, URL, slug and hero, plus the columns only the download needs. Fetched for the rows about to be drawn and no others.
+- **`rows-NNN.json`**, 500 records each, ~157 KB and 53 KB gzipped: title, URL, slug and hero, plus the columns only the download needs. Fetched for the rows about to be drawn and no others.
 
-**Both are tracked**, unlike the two shard indexes, and the reason is that the page cannot draw a single row without them: keeping them on Pages is what makes a `git push` enough to serve a working catalogue. They cost about what `catalogue-data.js` cost before them, so the churn is unchanged; moving them to R2 is a live option and is noted in the plan.
+**Both are tracked**, unlike the two shard indexes, and the reason is that the page cannot draw a single row without them: keeping them on Pages is what makes a `git push` enough to serve a working catalogue. They cost about what `catalogue-data.js` cost before them, so the churn is unchanged. Moving them to R2 remains available and is a decision on its own, not a step anyone is waiting on.
 
 **The chunk files are internal.** They are named, sized and shaped for this page and will change without notice; `raw-catalogue.csv` is the supported way to consume this data. `catalogue.py` says so where it writes them.
 
@@ -155,7 +155,7 @@ python scripts/test_catalogue_firstscreen.py  # baked markup == what the page dr
 python scripts/test_catalogue_export.py       # every record rebuilt == raw-catalogue.csv (needs node)
 ```
 
-**The A–Z sort is decided at build time now**, because the page no longer holds the titles: `catalogue.py` → `coll()` ranks them and ships one integer per record. It approximates the browser's own collation and does not reproduce it — measured against Chrome's `localeCompare` over all 20,267 titles, 1.6% of adjacent pairs sort the other way and the first A–Z screen shares 91 rows of 100. What it buys is that a `#sort=az` link means the same thing for every reader, which `localeCompare` never did.
+**The A–Z sort is decided at build time now**, because the page no longer holds the titles: `catalogue.py` → `coll()` ranks them and ships one integer per record. It approximates the browser's own collation and does not reproduce it — measured against Chrome's `localeCompare` on 2026-09-08, over the 20,267 titles held that day: 1.6% of adjacent pairs sorted the other way and the first A–Z screen shared 91 rows of 100. That is a reading taken once, not a figure the build maintains. What it buys is that a `#sort=az` link means the same thing for every reader, which `localeCompare` never did.
 
 ### The names index — build it before the page
 
