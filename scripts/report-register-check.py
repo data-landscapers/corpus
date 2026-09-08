@@ -84,7 +84,10 @@ TERMS = [
 ]
 # Case-sensitive, and that is the whole point: `US$40m` and the United States are not the
 # first-person plural, and a check that flags them every time teaches a reader to skip it.
-FIRST_PERSON = re.compile(r"(?<![\w'’])(I|us)(?![\w'’])")
+# A leading full stop is excluded for the same reason: `L.I. 2523` is a legislative instrument
+# and `S.I.` a statutory one, and a country whose statute book is cited that way was reporting
+# three or four first-person hits per status document, every one of them a citation.
+FIRST_PERSON = re.compile(r"(?<![\w'’.])(I|us)(?![\w'’])")
 
 
 BUDGET_LINE = re.compile(r"([\d,]+)\s*[–-]\s*([\d,]+)(?: words)? for an? (status|monthly|progress)")
