@@ -1,21 +1,23 @@
 ---
 title: Energy — monthly update, August 2026
-compiled: 2026-09-07
-period: 2026-08-01 to 2026-09-07
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 subject: infra.energy
-places: BWA; BDI; CAF; TCD; COM; ETH; GHA; KEN; LSO; LBY; MDG; MWI; MUS; MOZ; SLE; ZAF; SSD; UGA; ZMB; ZWE
-record: bc10cde5fc93
+places: BWA; BDI; CAF; TCD; COM; ETH; GMB; GHA; KEN; LSO; LBY; MDG; MWI; MUS; MOZ; SLE; ZAF; SSD; UGA; ZMB; ZWE
+record: 61ca2943d962
 ---
 
 # Energy: monthly update, August 2026
 
-*20 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*21 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
 ## Botswana
 
 The facility's power is the unusual part. [On-site gas-fired generation is supplemented by solar introduced to cover periods of lower gas availability, with battery and compressed-gas storage under review](https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85) — solar specified as firming for gas, the reverse of the usual diesel-backup arrangement. [An initial 5 MW solar development was assessed during the quarter and an extension of the gas gathering network to connect a further production well is stated subject to funding](https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85); neither carries a capital cost, approval or date, and the company states both are work-programme items rather than guidance. The second gates the data centre: capacity growth turns on upstream gas work rather than on demand.
+
+The price of the energy the sector runs on is under review, and the utility's own case is a large one: its consultation paper [makes the case for a 46% tariff rise on a P9.585bn revenue requirement against a P3.477bn funding gap](https://www.bera.co.bw/downloads/Electricity/BPC%202026-27%20Tariff%20Application%20-%20Public%20Notice/2026-27%20BPC%20Electricity%20Tariff%20Application%20Consultation%20Paper.pdf). It is an application rather than a determination: no regulator decision, effective date or data-centre tariff schedule accompanies it, and the base still holds no measured electricity cost for any digital facility in the country.
 
 ## Burundi
 
@@ -38,6 +40,10 @@ The thermal plant on Mwali was [down to 1,000 litres of diesel a day against a s
 ## Ethiopia
 
 The incumbent's renewable programme reached [39.72 MW of installed solar across 190 fully solar-powered sites, 867 hybrid systems and 1,114 lithium-ion storage units](https://techafricanews.com/2026/08/04/ethio-telecom-combines-reforestation-with-renewable-telecom-infrastructure-expansion/), 12.72 MW of it added over the financial year, with diesel generator running time down by up to 40%. The figures are the operator's own and unaudited.
+
+## Gambia
+
+The power the digital estate runs on was explained and priced in the same month. The utility put the year's worst outages down to [ageing generating units and spare parts taking six to seven months to import, promising relief within a fortnight](https://standard.gm/nawec-blames-maintenance-challenges-for-worst-power-outages1/); a lender's public finance review puts [tariffs at an average US$0.21 a kilowatt-hour, among the highest globally, driven by weak utility financial performance with subsidies found misdirected](https://standard.gm/world-bank-says-weak-financial-performance-makes-gambias-electricity-tariffs-among-the-highest-globally/). The target above both is now traceable to its instrument: a [draft national compact seeking US$552m to reach 100% access by 2030](https://nawec.gm/wp-content/uploads/2025/09/Gambia-Compact-M300.pdf), unsigned and unfunded.
 
 ## Ghana
 

@@ -1,15 +1,15 @@
 ---
 title: Strategies, plans and policies — monthly update, August 2026
-compiled: 2026-09-07
-period: 2026-08-01 to 2026-09-07
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 subject: gov.policy
-places: BFA; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; GNQ; ERI; SWZ; GMB; GHA; GIN; GNB; KEN; LSO; LBY; MWI; MLI; MRT; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: d5549e60508e
+places: BFA; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; GMB; GHA; GIN; GNB; KEN; LSO; LBY; MWI; MLI; MRT; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 0a7b6c043ec0
 ---
 
 # Strategies, plans and policies: monthly update, August 2026
 
-*39 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*40 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -52,6 +52,10 @@ The draft cyber-security strategy for 2026 to 2030 was [put to stakeholder revie
 The universal-service agency published its own five-year plan on 11 August. It [rests on four pillars — universal connectivity, digital services and financial inclusion, digital usage and literacy, and operational excellence — across ten projects, four of them funded at FCFA 60.144bn through the national development plan and six from the agency's own funds](https://digitalmag.ci/parlons-projet-gilles-thierry-beugre-devoile-le-plan-strategique-2026-2030-de-lansut/). The [stated targets are 300 newly connected localities, smartphone penetration of 80% by 2028 against 40% now, and more than 15,000 km of new fibre by 2028, against a starting point at which 70% of rural households have no internet access](https://digitalmag.ci/parlons-projet-gilles-thierry-beugre-devoile-le-plan-strategique-2026-2030-de-lansut/). No adoption instrument is published; the plan is the agency's own.
 
 The space agency got its first head more than a year after the decree that created it. The government [appointed an inaugural Director General of the Space Agency, a public administrative institution of a scientific and technological character under the higher education ministry with programme areas spanning Earth observation, space meteorology, astronomy, satellite navigation and satellite communications](https://spaceinafrica.com/2026/08/28/dr-tidiane-ouattara-appointed-inaugural-dg-of-cote-divoires-space-agency-2/); the appointment date is not stated.
+
+## Djibouti
+
+The interoperability framework acquired a statement of intent for the first time since it was published in 2022. The Council of Ministers' [2026 work programme of 1 September names paperless services and interoperability among the state-modernisation priorities](https://africa24tv.com/djibouti-2026-government-work-programme-omar-guelleh-sets-out-his-key-priorities/). Nothing in it evidences the framework in use, and no system, timetable or budget is attached — so what has changed is that the government has said the word, not that anything is interoperable.
 
 ## DR Congo
 
@@ -152,6 +156,8 @@ The agency meant to hold that ground acquired its first stated function since ca
 
 The body meant to steer digital governance has not started. The digital governance steering committee, [created in March 2026, was still stated five months later to be operational in the near future](https://www.biometricupdate.com/202608/senegal-seeks-to-fully-align-sovereignty-vision-with-dpi-strategy). A coordinating body that has not convened is what sits behind the strategies this section otherwise records as adopted but unreadable.
 
+The roadmap acquired a shape and a hole in the same statement. Presented at an international forum on 4 September, the New Deal Technologique is [54 projects across 12 programmes at US$2bn over ten years, of which US$700m is unallocated](https://dig.watch/event/wsis-forum-2026/new-technological-deal-or-or-how-a-global-south-digital-strategy-for-impactful-ict-transformation). The figures are the government's own and no project list, allocation schedule or financing plan for the unallocated third accompanies them, so what is established is the size of the programme and the size of the gap in it.
+
 ## Seychelles
 
 Cabinet approved measures to operationalise the Multidimensional Vulnerability Index on 22 July 2026, naming "enhanced data and institutional capacity" and alignment of planning and budgeting frameworks as the instruments, with no implementation detail yet given. [President Herminie restated a "fully digitalised e-government by 2030" target on 4 August](https://statehouse.gov.sc/news/7165/president-herminie-receives-credentials-from-maltas-first-high-commissioner-to-seychelles), while receiving Malta's first High Commissioner's credentials and naming bilateral technical cooperation as the route under discussion. On 10 August the institution meant to carry that work was described as back in place: [the National Institute for Science, Technology and Innovation has been reinstated, its Secretariat sitting under the Office of the Vice-President](https://statehouse.gov.sc/news/7184/president-herminie-science-technology-and-innovation-belong-at-the-centre-of-a-people-centred-society) after five years in which it was closed and its functions folded into a ministry division. Its Secretary of State puts its near-term focus on technological innovation in government procedures and on accelerating the digitalisation of public-service delivery. No commencement notice for the NISTI Act 2025 is on record, so the body is described as functioning without the statute behind it being shown to be in force.
@@ -162,6 +168,8 @@ Delivering a ministerial statement on 4 August after [MPs demanded an explanatio
 
 
 The multi-agency answer to mobile-money fraud got a drafting session. A two-day workshop on 18 and 19 August [brought the central bank, the telecom and mobile-money operators and the cybersecurity bodies together to draft a roadmap](https://www.wearetech.africa/fr/fils/actualites/finance/sierra-leone-vers-une-feuille-de-route-contre-la-fraude-liee-au-mobile-money), after parliamentary pressure over identity-theft scams on one operator's network. No roadmap, deadline or funding line has been published.
+
+A data governance framework was named as in development for the first time. Meeting United Nations agencies on 5 September, the communications minister [named the framework alongside the government data centre at the telecommunications authority tower and a redundancy site at State House](https://sierraloaded.sl/news/communication-strengthens-partnership/). No draft, scope, adoption route or timetable is published for the framework, and the redundancy site appears here with no capacity or commissioning date — two things named into existence in one meeting.
 
 ## South Africa
 

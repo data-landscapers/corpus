@@ -1,10 +1,10 @@
 ---
 title: Literacy — monthly update, August 2026
-compiled: 2026-09-07
-period: 2026-08-01 to 2026-09-07
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 subject: capacity.literacy
 places: AGO; COM; COD; GHA; KEN; LBR; MOZ; RWA; SEN; SSD; TZA; TGO; ZMB
-record: 3602759c41c0
+record: ad0088d4191f
 ---
 
 # Literacy: monthly update, August 2026
@@ -44,6 +44,8 @@ The month's only movement on digital literacy was a demand for it. At the launch
 ## Rwanda
 
 [More than 5,000 teachers across every district were trained in the first phase of a national artificial-intelligence literacy programme, reported complete at end-2025](https://www.linkedin.com/pulse/africas-biggest-ai-risk-isnt-being-left-behind-its-misread-njila-3zj4c/). The assertion is a diplomat's, in an opinion piece, and no ministry primary is held for it.
+
+The online-safety half of literacy was taught to the adults rather than the children. A civil-society internet chapter [trained 50 parents and teachers in Karongi District on online safety and on using the national e-services portal](https://www.internetsociety.org/blog/2026/09/empowering-parents-in-rwanda-through-digital-literacy-training/). It is a single district cohort run by a non-governmental body, with no curriculum, follow-up, national programme or reach target published — and it sits beside a restriction on minors' social-media use that is still in development.
 
 ## Senegal
 

@@ -1,10 +1,10 @@
 ---
 title: Connectivity — monthly update, August 2026
-compiled: 2026-09-07
-period: 2026-08-01 to 2026-09-07
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 subject: infra.connect
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 65707497822f
+record: 07b08aaadefa
 ---
 
 # Connectivity: monthly update, August 2026
@@ -127,6 +127,12 @@ The regulator's [consolidated response of 31 July](https://nca.org.gh/wp-content
 
 Beneath the licensing argument, the traffic that never leaves the country was counted. On 16 August the Accra exchange was reported [past 200 Gbps, against three exchanges that barely overlap: only 4 of 39 connected networks peer at all three, so most local traffic still transits abroad](https://tech.africa/accra-three-internet-exchanges/). The headline figure is the smaller finding. An exchange is worth the traffic it keeps local, and three partly-overlapping exchanges keep less of it than one would.
 
+The build was then put in proportion. On 6 September the minister put the national requirement at [about 6,000 additional cell sites against roughly 1,100 in the current round, which is to complete in 2027](https://thehighstreetjournal.com/ghana-needs-6000-new-cell-sites-to-improve-nationwide-connectivity-minister/) — stated without the coverage or quality standard it is measured against. What is actually being built is [800 sites committed by the dominant operator with 180 already active and carrying traffic, and a 2026 plan of 2,698 sites at the second operator of which 1,890 are live within a network of roughly 9,000](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/), and the regulator spent the week [taking radio-frequency exposure messaging to market traders and transport operators in Koforidua](https://techafricanews.com/2026/09/07/ghana-nca-public-education-telecom-masts-infrastructure-concerns/) after opposition to a mast at a lorry station — the cost of the build showing up as consent rather than capital.
+
+The backbone under it is losing ground faster than the record showed. Industry now projects [8,578 fibre cuts nationwide in 2026, 4,289 of them already in the first half, at roughly US$2,045 a repair against more than US$20m spent on repairs in 2025](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/), with major corridors averaging 72 cuts a month and uncoordinated excavation under the government's own road programme accounting for about half of road-related cuts. The dig-once policy that answers it has slipped again: a [joint Cabinet memorandum with the roads ministry now awaits Cabinet](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/), its third-quarter 2026 implementation target passed with no instrument on record. Against that, [voice over LTE has risen from about 7% of traffic to 22.43% on 8.4 million subscribers](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/).
+
+The state's own operator got its board back. On 3 September a seven-member board was sworn in for the company behind the AT Ghana brand, [releasing policy directives that had gone unimplemented for almost two months for want of one: spectrum in three bands from the regulator, and core-network access from the universal-access fund, both held back pending audited accounts](https://www.myjoyonline.com/sam-george-swears-in-at-ghanas-ppl-net-board-as-directors-vow-we-will-not-let-ghana-down/). Neither the bands nor the terms of the access are published.
+
 ## Guinea
 
 Facebook, YouTube and TikTok became inaccessible on 28 July 2026. The Association des Blogueurs de Guinée activated its monitoring protocol the same morning, ran connectivity tests through the day through independent monitors in Conakry and the interior, and [concluded that the results converge on a targeted block of those three platforms, arguing the precision of the restriction excludes an ordinary outage](https://www.guinee360.com/28/07/2026/perturbation-de-lacces-a-internet-en-guinee-lablogui-denonce-un-blocage-cible-de-facebook-youtube-et-tiktok/). It grounded its objection in article 19 of the constitution, article 9 of the African Charter and article 19 of the ICCPR.
@@ -146,6 +152,8 @@ Kenya and Tanzania [launched a cross-border terrestrial fibre link](https://www.
 The largest procurement in the window is a surveillance build sold as traffic management. The roads authority is out to tender on [Nairobi's Intelligent Transport System Phase II at Ksh10bn, about US$83.8m, covering CCTV, e-police monitoring and vehicle-detection systems at 60 junctions on a 30-month design-build contract financed by a South Korean development loan](https://www.kenyans.co.ke/news/126063-kura-expands-nairobis-ksh10b-smart-traffic-project-phase-ii), with the bid deadline pushed back two weeks to 19 August. No data-protection authorisation, retention rule or oversight arrangement for the cameras and detection systems is reported, and no award has been made.
 
 An industry survey filled a gap in the record on 5G: commercial networks opened between October 2022 and July 2023, the largest operator [doubled its 5G sites to about 1,700 in 2025](https://digitalmag.ci/acces-a-internet-etat-dadoption-de-la-technologie-5g-par-les-pays-africains/), and coverage is projected to reach 94 per cent by 2030, helped by rules that let operators refarm existing spectrum. The service is used mainly as an alternative to fibre for connecting homes and businesses.
+
+On the delivery side of the same programme, coordination was stepped up rather than the schedule revised: two principal secretaries began [co-chairing a standing review of the implementing agencies on 4 September, the coordination framed against a target of taking the technology industry from US$7bn to US$100bn](https://peopledaily.digital/news/govt-steps-up-digital-superhighway-implementation). No revised delivery date came with it, and 63,000km of the 100,000km fibre target remains outstanding before the 2027 deadline.
 
 ## Lesotho
 
@@ -268,6 +276,10 @@ Cape Town's municipal planning tribunal [approved two Equinix data centres](http
 
 One date the state does not have is the oldest. The communications department [told parliament that no date has been set for the analogue television switch-off](https://techcentral.co.za/still-no-end-in-sight-to-south-africas-digital-migration-saga/284937/), sixteen years past the original 2010 deadline, with estimates of households still dependent on analogue ranging from about 500,000 on one civil-society account to between 2.2m and 4.5m on two others. The record reconciles none of them, and the absence of a date is now carried as a gap.
 
+Two things arrived on 7 September that answer the same question from opposite ends. A development bank and planning commission study [costs universal, meaningful household broadband at about R140bn under least-cost deployment and well above R200bn under fibre-led scenarios, or R108bn to R142bn in 2025 real terms depending on the economic scenario](https://www.nationalplanningcommission.org.za/assets/Documents/SA%20Digital%20Infrastructure%20Investment%20Study.pdf), built on a 0.76 square-kilometre hexagonal-grid mapping exercise against the 2030 development plan and the 2050 infrastructure plan. It is a costing with no appropriation, delivery vehicle or commencement attached to any scenario, and it lands beside a national broadband map launched in March and still not published. Meanwhile the price of what is already built moved the wrong way: the competition authority puts [wired internet up 3.5% and wireless up 4.1% over the first half of 2026, against cumulative headline inflation of 3.8%](https://www.itweb.co.za/article/sas-internet-costs-climb-but-other-bills-rise-faster/mYZRXv9gbykMOgA8) — a reversal of the six years to July 2026, in which wired rose 18.6% and wireless 6.4% against headline inflation of 36%, and the first period in which a service the authority treats as essential outran the basket.
+
+On the resilience the 2025 double break exposed, the state-affiliated wholesaler [completed a third Cape Town to Pretoria route via Springbok and Mahikeng](https://www.businessday.co.za/companies/2026-09-07-openserve-completes-third-fibre-route-to-reduce-network-outage-risk/), inside a wholesale network of about 180,000km carrying just under R3bn of capital expenditure a year. No capacity or diversity measure is published for the new path.
+
 ## South Sudan
 
 Prices rose and the numbers behind them did not appear. The information minister [publicly defended the telecommunications tariff increase on 24 August](https://www.radiotamazuj.org/en/news/article/information-minister-ateny-defends-telecom-tariff-increase); the regulator maintains it is a revision of the exchange rate used to calculate charges rather than a tariff increase, and neither regulator nor operators have published the revised rates. A cost defended without a price is a position the base can record and a reader cannot check.
@@ -319,6 +331,8 @@ On 5 August the institute confirmed that connectivity gaps persist at Nakonde, V
 The technology ministry [put the country at about 26.2 million mobile subscriptions in 2025, up from 23.2 million in 2024, with about 14.7 million mobile internet subscriptions](https://www.lusakatimes.com/2026/08/28/govt-to-strengthen-cyber-security-capacity/) - its own figures, given in a seminar address rather than a regulator publication.
 
 A further Northern Province district administration was connected in August, and the account is unusually specific about what a connection reached. After the provincial ICT unit installed connectivity at Lupososhi District Administration and ran a virtual orientation on the national portal and two office collaboration tools, an official [printed a road-tax document from his own office instead of travelling to Kasama for it, days before it expired](https://techafricanews.com/2026/08/31/zamportal-teams-lupososhi-road-tax-local/). It is one office and one document: no district count, schedule or cost for the programme is published.
+
+A second account of the same period puts [internet subscriptions at 14.7m in 2025 against 10.4m in 2021, and mobile population coverage at 95% over 2022 to 2025](https://www.freightnews.co.za/article/giving-business-and-citizens-a-smart-edge-0). The coverage figure is government-reported and does not reconcile with the ministry's own separate claim for the same period — a reminder that every coverage number here comes from the same source as the target it is measured against.
 
 ## Zimbabwe
 

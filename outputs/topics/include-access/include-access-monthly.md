@@ -1,21 +1,23 @@
 ---
 title: Access to services — monthly update, August 2026
-compiled: 2026-09-07
-period: 2026-08-01 to 2026-09-07
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 subject: include.access
-places: DZA; AGO; BWA; BDI; CMR; CAF; COM; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GHA; KEN; LBY; MDG; MWI; MLI; MAR; MOZ; NAM; NER; NGA; STP; SEN; SYC; SLE; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: ecee9f40a077
+places: DZA; AGO; BWA; BDI; CMR; CAF; COM; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GHA; KEN; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NAM; NER; NGA; STP; SEN; SYC; SLE; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: bf1bc05100ed
 ---
 
 # Access to services: monthly update, August 2026
 
-*38 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*39 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
 Consumer cloud storage prices were [raised for new subscribers from 27 July 2026](https://www.africaninsider.com/business/google-one-gets-more-expensive-in-africa-nigerian-users-face-52-hike/), in this market alongside two others on the continent. One provider's consumer tariff is thin evidence for affordability, and the account gives no local subscriber base against which to read it. It is recorded because it is the only dated consumer cloud price the base holds here, and a price that moves is more use than a market with no price at all.
+
+The social card's working group reached its fifth session, [setting the card's indicators and data and building towards a unified database, with the President's June 2026 three-month deadline putting delivery before the end of September](https://ecotimesdz.com/carte-sociale-nationale-algerie-hcn/). The deadline is the President's rather than the project's, and no delivery, data-sharing instrument, beneficiary count or governing decree is published — so a database that is to unify social data is three weeks from a deadline with nothing published about what it will contain.
 
 ## Angola
 
@@ -53,13 +55,19 @@ Access moved by putting the counter where people already are. The civil-registry
 
 The urban rehabilitation agency runs [a complaint-management portal that routes recovery and technical problems to named internal divisions](https://www.doleances.arulos.dj/). It is the only digital citizen-feedback channel the base holds, and it covers one agency's own business: no whole-of-government mechanism, service standard or complaint volume is published.
 
+The corridor programme put training against formalisation rather than connectivity: [forty women traders took export-readiness training at Bishoftu on 30 and 31 July 2026 under a EUR 32m European corridor programme, covering business formalisation, product standards, export documentation and customs procedure](https://horneconomicreview.com/2026/09/03/from-export-readiness-to-market-access-eu-backed-support-strengthens-womens-participation-in-trade-along-the-djibouti-ethiopia-corridor/). The training was delivered on the Ethiopian side of the corridor and no Djiboutian cohort, customs-system component or digital element is separately costed.
+
 ## DR Congo
 
 On 23 July a state bank and the payroll monitoring committee settled the technical and organisational terms for [paying civil servants in rural territories, scoped to three named territories and others where no other bank operates](https://actualite.cd/2026/07/24/paie-des-agents-publics-la-cadeco-et-le-csp-prets-lancer-la-paie-de-proximite-en-milieu). August 2026 was named as a target, with the bank's director-general calling a fixed date premature and the state contract unsigned. What subscribers pay moved the other way. Users and resellers in Bukavu say a [1GB bundle that ran 48 hours at 1,500 Congolese francs now expires in 24 at the same price](https://laprunellerdc.cd/bukavu-des-usagers-denoncent-la-modification-des-tarifs-des-forfaits-internet/), and a 2GB 48-hour bundle at 2,000 francs has been replaced by 1GB over 72 hours; subscribers across the eastern provinces [report the same pattern across four operators and have asked a consumer body to intervene](https://radiomaendeleo.org/forfaits-internet-les-abonnes-denoncent-une-hausse-des-prix-et-une-reduction-de-la-validite/). Both ends are subscribers' accounts; no operator or regulator has stated anything.
 
+Accessibility entered the record as an argument about a process rather than a system. A tribune set out [six levers for deaf participation in the national dialogue relaunched on 17 July 2026 — interpretation, captioning, accessible documents and the rest — on the ground that a democracy that speaks without being understood has already excluded part of its citizenry](https://actualite.cd/2026/09/04/dialogue-national-en-rdc-sans-les-personnes-sourdes-linclusion-restera-un-slogan-tribune). No public data on deaf access to state processes is held, which is what makes the piece the base's only statement on the question.
+
 ## Egypt
 
 The month's clearest inclusion move was a reopening rather than an extension. From 24 July the state accepted ration-card grievance and data-update forms at 500 post offices on Friday afternoons and Saturday mornings, alongside the online route that had until then been the only channel for appeals against the 2026 eligibility criteria, with a daily adjudication committee, results notified by text message and every case checked against official databases.
+
+The only outcome measure the base holds for refugee assistance is the delivering agency's own. Its [year-end monitoring of 2024 multi-purpose cash assistance interviewed 393 of 434 sampled households and found 99% able to buy items they could not previously afford](https://data.unhcr.org/en/documents/details/114784). It is a self-evaluation on a sample rather than the caseload, and it reports purchasing ability rather than any outcome — which is worth stating plainly beside the asylum regulations now in force.
 
 ## Equatorial Guinea
 
@@ -79,6 +87,8 @@ What firms say they need is not more hubs but a network that stays up. At a Mbab
 
 The month's movement on access is participation rather than service. The National Dialogue Commission [reports that its conference ran from 15 July to 22 August 2026, with around 4,000 participants deliberating eight national agenda items and recommendations submitted to the Commission](https://ethiondc.org.et/en/national-dialogue-conference-concludes-successfully/). It is the Commission's own account, and nothing in the record held states which recommendations were taken up. Nothing moved this month on digital access to public services, on refugee inclusion or on device affordability.
 
+The corridor programme put training against formalisation rather than connectivity. [Forty women traders took export-readiness training at Bishoftu on 30 and 31 July 2026 under a EUR 32m European corridor programme, covering business formalisation, product standards, export documentation and customs procedure, against a stated 94% of the traders concerned operating unlicensed](https://horneconomicreview.com/2026/09/03/from-export-readiness-to-market-access-eu-backed-support-strengthens-womens-participation-in-trade-along-the-djibouti-ethiopia-corridor/). That [94%](https://horneconomicreview.com/2026/09/03/from-export-readiness-to-market-access-eu-backed-support-strengthens-womens-participation-in-trade-along-the-djibouti-ethiopia-corridor/) is the programme's characterisation of its own target group rather than a national measure, and no digital component of the corridor programme is separately costed.
+
 ## Ghana
 
 The mid-year fiscal review of 23 July recorded GH¢485m paid to cash-grant beneficiaries in the first half of 2026 and named no allocation at all to the communications ministry, the access fund, the coders programme or the artificial-intelligence strategy.
@@ -86,6 +96,10 @@ The mid-year fiscal review of 23 July recorded GH¢485m paid to cash-grant benef
 ## Kenya
 
 The Auditor-General's findings on the Hustler Fund entered the record on 23 July: [104,631 loans worth KSh 116.5m](https://www.the-star.co.ke/news/2026-07-23-borrowers-can-now-repay-hustler-fund-loans-using-bonga-points) were issued to borrowers whose national identity details were missing from the customer database, against a 15% default rate and state funding down to KSh 300m in the year to June 2026.
+
+## Liberia
+
+Two institutions moved outward in the same week. The telecommunications regulator [opened its first service centre outside Monrovia, at Buchanan in Grand Bassa County, on 4 September, handling consumer complaints and community-radio compliance](https://newspublictrust.com/lta-begins-decentralizing-its-regulatory-and-consumer-protection-services) — the first time the base records regulatory redress being available anywhere but the capital, with no staffing, opening hours, caseload target or programme of further centres published. And the information commission, with a transparency organisation, [ran freedom-of-information compliance visits from 11 August to 2 September covering the national identification registry, the statistics institute, the community empowerment agency and the water and sewer corporation, with three more agencies scheduled for 8 to 10 September](https://gnnliberia.com/iic-cental-step-up-transparency-anti-corruption-drive/). No findings, compliance scores or enforcement actions from the round are published, and it is a partnership exercise rather than a statutory inspection regime — which is the difference between visiting an agency and being able to make it answer.
 
 ## Libya
 
@@ -208,3 +222,5 @@ The health minister told the National Assembly on 17 July that more than 400 hea
 At a payments conference on 24 July a research firm reported that 95% of transport payments remain cash, that 56% of respondents found digital systems complicated with people with disabilities particularly affected ([conference account](https://bullszimbabwe.com/digital-payments-surge-but-adoption-lags-survey/)).
 
 A media institute's August review sets the country's headline connectivity figure against what it costs. It records [internet penetration at 84.55% on the regulator's fourth-quarter 2025 data, many households spending more than 10% of income to be online against the United Nations' 2% benchmark, and only 62% of the population with reliable electricity](https://zimbabwe.misa.org/2026/08/16/internet-affordability-and-access-in-zimbabwe/), and asks whether the 2026-2030 artificial-intelligence strategy can be delivered on those foundations. The penetration figure counts active subscriptions rather than individual users, which is the gap the affordability finding sits in.
+
+A larger round of the regulator's disability training ran, and it reached teachers rather than learners: a [five-day workshop at Chiredzi for 37 teachers with visual impairments and their assistants and aides, drawn from all ten provinces, covering assistive technologies and accessible digital platforms](https://dig.watch/updates/zimbabwe-ict-skills-teachers-visual-impairments), facilitated with the same civil-society internet chapter as the June cohort. The Act that would give any of this a statutory footing was passed in November 2025 and still awaits commencement.

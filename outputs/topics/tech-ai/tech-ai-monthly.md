@@ -1,10 +1,10 @@
 ---
 title: AI — monthly update, August 2026
-compiled: 2026-09-07
-period: 2026-08-01 to 2026-09-07
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 subject: tech.ai
 places: DZA; AGO; BEN; BFA; CMR; CAF; TCD; COM; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GHA; KEN; LBR; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 9121db349f5a
+record: 1b04e86fda1e
 ---
 
 # AI: monthly update, August 2026
@@ -91,6 +91,8 @@ On 6 July the prime minister told the [Global Dialogue on AI Governance in Genev
 
 A [regional health body and a private firm signed a memorandum in Eswatini on 4 August to scale AI-enabled health solutions](https://eswatinipositivenews.online/ecsa-hc-skye-africa-intelligence-partner-to-scale-ai-health-solutions/), naming no system, no data-sharing terms and no money.
 
+The audit office took its own artificial-intelligence commitment regional, [hosting a week-long peer programme at which supreme audit institutions across the region weighed the use of artificial intelligence in government audit](https://eswatinipositivenews.online/auditors-embrace-ai-to-protect-public-funds/). As with the strategic plan in August, no tool, pilot, audit methodology or procurement is named — what the base holds is the intention and the forum it was stated in.
+
 ## Gabon
 
 An operator [launched a voice artificial-intelligence service reachable by dialling 333 from an ordinary feature phone](https://fr.infosgabon.com/gabon-mia-lintelligence-artificielle-sans-internet/), with no smartphone and no internet connection required. Delivering an AI service over the voice channel reaches the part of the population a data-only service does not; no user count, language coverage or tariff is published.
@@ -100,6 +102,8 @@ An operator [launched a voice artificial-intelligence service reachable by diall
 UNESCO's Accra head replied from the same platform that strategies without funding and execution remain shell documents.
 
 Applications opened on 1 July for an applied artificial-intelligence lab in Accra, closing 31 August with no cohort size or Ghana-specific spend disclosed.
+
+The external assessment of readiness arrived on 7 September. Ghana is [one of 77 countries to have run UNESCO's readiness assessment methodology, under an EU-funded project on implementing the ethics recommendation](https://www.unesco.org/en/articles/ai-readiness-assessment-methodology-ghana), and the draft findings presented at consultation stated that the country lacks binding AI-specific regulation and comprehensive data governance frameworks. The report also puts a third dating on the national strategy — 2023-2033, approved 24 April 2026 — against the held text titled 2025-2035 and dated December 2025 and a [ministerial statement placing Cabinet approval in the week before 26 February 2026](https://www.citinewsroom.com/2026/02/ghanas-national-ai-strategy-secures-cabinet-approval-sam-george/). None of the three is reconciled.
 
 ## Kenya
 
@@ -198,6 +202,8 @@ The Somali National University [launched an AI centre on 20 July](https://techaf
 
 August added a product and an assessment. A private artificial-intelligence centre [launched Garad.ai on 7 August alongside the communications and technology ministry](https://www.dawan.africa/news/somalia-plans-national-data-centre-to-strengthen-digital-infrastructure); the record describes the launch rather than the product, and states no capability, language coverage, user base or hosting arrangement for it. Separately a national AI readiness assessment is under way, [led by the same ministry with UNESCO and joined by a private university on 17 August](https://techreviewafrica.com/news/6784/somalia-boosts-national-ai-readiness-assessment-with-support-from-academia), examining artificial-intelligence policy, data governance and higher-education capacity. No methodology, participant list, score or publication date is stated — so the assessment is, for now, the closest thing the country has to a policy position on the subject.
 
+Ownership was stated as the goal rather than capability. A senior government adviser told a food-systems forum panel in Kigali that [the disaster management agency is building systems so that government holds full ownership of disaster data](https://shabellemedia.com/somalia-participates-in-africa-food-systems-forum-in-rwanda/). No system, agreement or transition plan away from partner-held data is named, so what is recorded is an intention about custody — which is the question the early-warning platform's own arrangements leave open.
+
 ## South Africa
 
 The Labour Court [stayed disciplinary proceedings](https://www.itweb.co.za/article/ai-hallucinations-strike-again-at-sa-courts/Pero3qZ31oGvQb6m) against three municipal employees on prima facie evidence that a ruling relied on authorities that do not exist. SARS disclosed that [100% of verification cases and 88.41% of complex audits](https://techcabal.com/2026/07/27/ai-south-africas-taxman/) are selected by automated risk assessment. Huawei reported [1,400 local partners accounting for 94.7% of its local revenue](https://techafricanews.com/2026/07/27/huawei-calls-for-stronger-digital-infrastructure-to-scale-ai-in-south-africa/) at its Sandton partner event, where South Africa's founding membership of the China-led World AI Cooperation Organisation was noted; the figures are company-reported.
@@ -210,6 +216,10 @@ The closest thing to a rule on state automated decision-making is a court case, 
 
 Two smaller items sit at the other end of the same subject. A robotics firm [opened a manufacturing plant and showroom in Durban for an artificial-intelligence humanoid tutor, targeting deployment across roughly 23,000 public schools](https://www.itweb.co.za/article/humanoid-tutor-manufacturing-plant-opens-in-durban/G98YdMLGNwV7X2PD), on a founder's stated ambition rather than a procurement. And a university's radio-telescope demonstrator [was selected to fly aboard a Chinese lunar mission in 2029](https://www.itweb.co.za/article/african-scientists-to-put-radio-telescope-on-moon/RgeVDqPRkKa7KJN3), described as the first all-African space-exploration mission and building on the country's existing radio-astronomy programme.
 
+An existing statute was asserted against a new practice rather than a new rule being made. Provincial police warned that [creating and sharing artificial-intelligence face-swap images of oneself in police uniform can breach section 68 of the South African Police Service Act 68 of 1995, which makes impersonating a police official an offence](https://www.itweb.co.za/article/saps-sounds-alarm-over-ai-generated-police-images/lwrKx73YyNOqmg1o). It is a provincial warning with no case, charge or takedown route behind it — and the only enforcement position the base holds on synthetic imagery.
+
+Two forward-looking statements arrived with nothing built behind them: a market forecast that [80% of governments will use artificial-intelligence agents by 2028, with the revenue service exploring digital twinning in tax processing](https://sundayworld.co.za/technology/ai-agents-could-change-face-of-service-delivery/), and a deputy minister's framing of inclusion as [connection, capability and command — the third being who builds and shapes the technology rather than who reaches it](https://www.sanews.gov.za/south-africa/call-inclusive-approach-ai-revolution), at a first summit on youth, artificial intelligence and the future of work. Neither carries a programme, budget or date.
+
 ## Sudan
 
 A partner consortium [built a deep-learning model detecting school locations and boundaries from satellite imagery at 95 per cent accuracy across Sudan](https://www.omdena.com/blog/giga-unicef), delivered by 52 engineers over six weeks and designed for integration into a school-connectivity mapping system. It is the second artificial-intelligence application the base holds inside an education system, and like the first it is externally built: the state's own role in both is as the subject of the mapping rather than its operator.
@@ -221,6 +231,8 @@ At an international AI meeting on 18 July the ICT minister stated that a [nation
 Twelve days later, at a training event on 30 July, an archives officer said [government is still drafting AI guidelines](https://www.mwananchi.co.tz/mw/habari/biashara/maeneo-manne-ya-kujizatiti-wataalamu-wa-tehama-tanzania-5541292); an [external policy outlook published the same day placed Tanzania among states still developing a strategy](https://cipit.strathmore.edu/east-african-artificial-intelligence-policy-outlook-report/).
 
 Three deployments were reported. A cardiac institute stated on 16 July that its [digital patient tracking system is in use for medical-camp follow-up](https://www.thecitizen.co.tz/tanzania/news/national/jkci-s-digital-patient-tracking-system-sets-new-standard-for-follow-up-healthcare-in-tanzania-5528476), alongside AI-enabled echocardiography and contactless vital-signs monitoring, with no patient volumes or procurement route. A peer-reviewed study published 3 August reported a ports enquiry chatbot at [95.1% weighted task success with fifteen domain experts](https://digitalcommons.kennesaw.edu/ajis/vol18/iss2/3), with no production deployment. At the agricultural exhibition on 4 August a university showed [a medicine-authenticity lookup at development stage and a voice-driven mobile-money service for blind users in testing](https://www.thecitizen.co.tz/tanzania/news/national/ardhi-university-unveils-ai-solutions-to-fight-counterfeit-drugs-expand-financial-access-5546322); both are student prototypes, self-reported, with no institutional partner, regulator or funder named.
+
+The only movement on machine-generated content is in the argument rather than the rule. Technology, academic and creative voices [backed digital watermarking of machine-generated content as a way to restore accountability and discourage over-reliance on the tools, following the European transparency duties that took effect on 2 August 2026](https://www.thecitizen.co.tz/tanzania/news/national/experts-back-watermarks-to-curb-excessive-reliance-on-ai-5581724). No domestic proposal, consultation or instrument follows from it, against online content rules that already prohibit such content outright.
 
 ## Togo
 
@@ -243,6 +255,8 @@ What developers here build on is being decided ahead of the strategy. A wire rep
 
 Crop-disease and precision-agriculture tools are [being piloted under GAINAfrica](https://aimnews.org/2026/08/25/europa-introduz-inteligencia-artificial-generativa-para-transformar-africa/), a Horizon Europe project led by La Sapienza in Rome and running in five African countries. No user count, evaluation or end date is published.
 
+A domestic model reached a continental prize rather than a deployment: a startup building [credit scoring for smallholder farmers who lack collateral took US$50,000, about 190m shillings, in growth funding at a Kigali food-systems summit](https://nilepost.co.ug/technology/369117/ugandan-startup-sandi-ai-wins-shs190m-gogettaz-agripreneur-prize). No user count, lender partnership, loan volume or model documentation is published. In the same week the state set artificial intelligence against a sector rather than a system, [making "Digital Agenda and Artificial Intelligence to Redesign Tourism" the theme of national World Tourism Day celebrations, against 793,815 visitors in the first half of 2026 and receipts up 25.6% to 2.30tn shillings](https://www.monitor.co.ug/uganda/news/national/uganda-turns-to-ai-to-drive-tourism-growth-5583524) — a framing with no programme, budget or system behind it.
+
 ## Zambia
 
 The month's artificial-intelligence entry is a competition rather than a capability. Applications [closed on 18 August for an AI for Public Good Challenge run with a UN development agency](https://www.undp.org/zambia/news/call-applications-ai-public-good-challenge). No entry count, prize, selection criterion or follow-on funding is published, and the base still holds no national artificial-intelligence laboratory, model or compute position.
@@ -252,3 +266,5 @@ The month's artificial-intelligence entry is a competition rather than a capabil
 The same 29 July address committed to indigenous-language corpora work led by universities ([launch account](https://spikedmedia.co.zw/zimbabwe-bets-on-digital-gold-inside-the-launch-of-ndarama-and-the-push-for-ai-sovereignty/)).
 
 The listed infrastructure company described its remote monitoring system and digital twin as advancing rather than in production for the quarter ended May 2026 ([trading update](https://itweb.africa/article/infraco-expands-ai-powered-towers/RgeVDvPRmeoMKJN3)).
+
+The first indigenous-language models in service are commercial rather than national. The dominant operator's artificial-intelligence subsidiary [is phasing in a Ndebele-speaking customer-support assistant from September, trained on thousands of hours of recorded Ndebele speech, alongside a Shona assistant it says already resolves more than 70% of enquiries](https://cite.org.zw/econet-ai-nears-completion-of-ndebele-speaking-chatbot/). The resolution rate is the operator's own, and no dataset, evaluation, error rate or escalation route is published. What matters for the record is where the corpora sit: outside the indigenous-language programme the state has committed to and whose ring-fenced share is still unstated.

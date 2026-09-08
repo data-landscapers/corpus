@@ -1,15 +1,15 @@
 ---
 title: Data protection — monthly update, August 2026
-compiled: 2026-09-07
-period: 2026-08-01 to 2026-09-07
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 subject: gov.protect
-places: AGO; BEN; BFA; CAF; DJI; COD; EGY; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LBR; MWI; MLI; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; UGA; ZMB; ZWE
-record: c3660422e326
+places: AGO; BEN; BWA; BFA; CAF; DJI; COD; EGY; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LBR; MWI; MLI; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; UGA; ZMB; ZWE
+record: 1d0615b93d77
 ---
 
 # Data protection: monthly update, August 2026
 
-*34 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*35 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -22,6 +22,12 @@ A report published on 15 August by the South African organisation Intelwatch [fo
 ## Benin
 
 Body-worn cameras have become standard kit for traffic police in the largest city, on the [500 devices and the dedicated information system the Council of Ministers authorised on 1 March 2023](https://sgg.gouv.bj/cm/2023-03-01/) for the police and customs, piloted from 2024 in three cities. What the record does not carry is the part that governs the footage: [who may view it, how long it is kept and whether a citizen can obtain their own sequence remain unstated](https://www.lanation.bj/actualites/cameras-pietons-a-cotonou-pourquoi-sont-elles-de-plus-en-plus-visibles-sur-les-policiers). A collection authorised by decree and a retention rule published nowhere is the shape this ledger already holds for the data-protection layer generally.
+
+The data-protection authority took its position abroad rather than issuing it at home. Its president told a fintech regulators' forum in Johannesburg that [trust, cooperation between regulators and coordination with financial authorities are what secure the growth of artificial intelligence and cross-border data flows](https://www.lanation.bj/numerique/ia-et-flux-transfrontaliers-en-afrique-lappel-de-lapdp-benin-a-une-gouvernance-fiable-des-donnees). It is a set of recommendations rather than an instrument, and no bilateral or regional arrangement follows from it on the record.
+
+## Botswana
+
+The commencement instrument behind the data-protection regime is now held in full: [Statutory Instrument 86 of 2021 brought the Data Protection Act No. 32 of 2018 into operation on publication on 15 October 2021](https://www.dataguidance.com/sites/default/files/government_gazette_15th_october_2021.pdf). It dates a regime the base had been carrying from its 2024 re-enactment, and it is the kind of document that settles when an obligation actually started rather than when it was last restated.
 
 ## Burkina Faso
 
@@ -75,6 +81,8 @@ The body that carries both of the country's information statutes surfaced in the
 
 The data-protection regulator's own enforcement record did not change; the action framed as a data-privacy violation in the month was taken by the central bank. But the cyber security authority produced the first enforcement of its kind the base holds, and its subject is another arm of the state. It [fined the Registrar of Companies GH¢240,000 for engaging an unlicensed cybersecurity provider and fined that provider GH¢120,000 for operating without a licence](https://www.gbcghanaonline.com/wp-content/uploads/2026/08/2026-August-CSA-Sanctions-ORC-and-Purpleline-12-08-26.pdf), after the registrar ignored a June 2026 directive to engage a licensed tier-one critical-information-infrastructure provider under the Cybersecurity Act 2020. The registrar has since contested it, [saying the procurement of its network and security operations centre was substantially complete before the tier-one directive was issued](https://www.myjoyonline.com/orc-challenges-csa-cybersecurity-sanction-says-penalty-was-premature-and-procedurally-unfair/); no adjudication of that timeline is held.
 
+The regulator's own first-half numbers reached the base on 7 September, and they measure activity rather than enforcement: a [51.5% rise in regulatory activity and a 98.4% rise in newly registered data controllers over the first half of 2026, with a public campaign put at an estimated 25 million people reached](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/). The controller figure is a growth rate published without the base it grew from, and no fine or prosecution has yet been.
+
 ## Guinea
 
 Enforcement arrived before the institutions did. A first-instance court [convicted a defendant under the cybersecurity and data-protection law on 19 August, imposing six months' imprisonment of which five were suspended, a 40 million GNF fine and deletion of the defendant's social-media account](https://mediaguinee.com/2026/08/tpi-dixinn-bella-bah-condamne-a-6-mois-de-prison-dont-5-avec-sursis-40-millions-gnf-damende-et-a-la-suppression-de-son-compte-facebook/) â€” the first conviction under that law on file, and an account deletion ordered by a court rather than by a platform. Separately the central bank [warned against unauthorised crypto-asset and online trading platforms](https://www.africaguinee.com/crypto-actifs-et-placements-financiers-en-ligne-la-banque-centrale-alerte-sur-les-plateformes-non-autorisees-de-trading/), naming no platform and stating no licensing route.
@@ -126,6 +134,8 @@ A civil-society platform began watching the same election from the data side, [t
 Child protection online entered the record as a consultation rather than a rule. Nigeria is [consulting on age limits, identity verification and platform liability, one of several African states moving from a minimum age for opening an account towards design duties on the platforms themselves](https://www.agenceecofin.com/actualites/2708-141074-en-afrique-comme-ailleurs-les-etats-s-emparent-de-la-protection-des-mineurs-sur-les-reseaux-sociaux), against an African Union child online safety policy of 2024 asking states to require protection by design and by default, risk assessments, researcher access to platform data and independent oversight. No draft instrument, closing date or responsible body is named, and the constraint reported across the region is enforcement rather than law.
 
 An underground market trading national identity and bank verification numbers [shut down after an investigative report named its operator](https://fij.ng/article/after-fijs-investigation-ebis-illegal-data-market-shuts-down-but-ndpc-retains-him-as-licensee/), who remains a registered licensee of the data-protection commission. The closure and the licence surviving it are both the commission's own disposition; no enforcement notice against the operator is on file.
+
+The commission opened a second framework alongside its enforcement work: validation of a [data privacy framework for electronic commerce, at an Abuja workshop run with the German development agency and following a private-sector session in Lagos](https://techreviewafrica.com/public/news/7060/nigeria-moves-to-enhance-data-privacy-framework-for-e-commerce). No draft text, scope, commencement date or enforcement route is published, so what exists is a consultation rather than an instrument.
 
 ## Rwanda
 

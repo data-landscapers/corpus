@@ -1,10 +1,10 @@
 ---
 title: Regional collaboration — monthly update, August 2026
-compiled: 2026-09-07
-period: 2026-08-01 to 2026-09-07
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 subject: gov.regional
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COG; CIV; COD; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; TZA; TGO; TUN; ZWE
-record: 4f77b82666e1
+record: cecd109d0783
 ---
 
 # Regional collaboration: monthly update, August 2026
@@ -60,6 +60,8 @@ The [African Telecommunications Union's return to Kinshasa was ratified on 23 Ju
 ## Eswatini
 
 The King was [elected Chairperson of the SADC Organ on Politics, Defence and Security Cooperation](https://www.sadc.int/latest-news/communique-46th-ordinary-summit-sadc-heads-state-and-government-17th-august-2026) at the bloc's 46th summit in Durban on 17 August. It is a security portfolio, not a digital one, and no ICT or data responsibility attaches to it in the communique.
+
+A second regional channel opened alongside the SADC one. The Digital Cooperation Organization's secretary-general [met the ICT minister on cooperation to accelerate digital transformation, the country presenting 1.76m mobile connections against a population of about 1.3m and 95% fourth-generation coverage](https://techreviewafrica.com/news/7055/eswatini-and-dco-explore-cooperation-to-accelerate-digital-transformation). These are exploratory talks with no memorandum, work programme or membership step recorded, and the connection and coverage figures are the government's own.
 
 ## Ethiopia
 

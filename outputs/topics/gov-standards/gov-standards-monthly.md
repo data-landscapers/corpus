@@ -1,15 +1,15 @@
 ---
 title: Standards — monthly update, August 2026
-compiled: 2026-09-07
-period: 2026-08-01 to 2026-09-07
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 subject: gov.standards
-places: AGO; BEN; CPV; CAF; TCD; COM; CIV; COD; EGY; GNQ; SWZ; GAB; GMB; GIN; KEN; LBY; MWI; MLI; MRT; MUS; MOZ; NER; NGA; RWA; STP; SEN; SYC; SOM; ZAF; SDN; TZA; TGO; UGA; ZMB
-record: 523fc2de0103
+places: AGO; BEN; CPV; CAF; TCD; COM; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GIN; KEN; LBY; MWI; MLI; MRT; MUS; MOZ; NER; NGA; RWA; STP; SEN; SYC; SOM; ZAF; SDN; TZA; TGO; UGA; ZMB
+record: 89c25df51778
 ---
 
 # Standards: monthly update, August 2026
 
-*34 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*35 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -59,6 +59,10 @@ A quality-of-service regulation of 2018 is [confirmed in force on the regulator'
 
 Asked on 4 August how online publications comply with the data-protection law, the ICT ministry [answered that implementation, enforcement and oversight do not fall within its direct mandate](https://times.co.sz/40740/news/new-regulations-to-crack-whip-on-online-media/) but are vested in ESCCOM.
 
+## Ethiopia
+
+A standing readiness instrument the base had not held was named from practice rather than from the regulator. A practitioner's case is that a [central bank microfinance directive of 2022 already defines the governance, risk-management and operational readiness that institutions skip when they buy digital wallets before building the capability to run them](https://capitalethiopia.com/2026/09/06/when-digital-ambition-becomes-a-tripping-stone/). The directive text is not held and no supervisory finding, enforcement action or compliance count is published, so what the base has is the rule's existence and one account of how it is being ignored.
+
 ## Gabon
 
 Service quality is the one obligation the base cannot show being enforced. Reporting of 25 August 2026 states that at a departmental capital, a commune since 1996 with a prefecture, town hall and schools, [the incumbent sells data bundles on a network whose coverage appears and disappears while prepaid credit and bundle validity run down normally, and puts the regulator's inaction to the president of its regulatory council](https://depeches241.com/?p=29909). No quality-of-service determination, decision or sanction is published, which is why the row stands here as ***Not held***.
@@ -81,6 +85,8 @@ Two sets of standards arrived, one binding and one draft. The revenue allocation
 ## Libya
 
 On 2 August the Municipal Guard's Investigation and Information Gathering Office, acting on Central Bank instructions and with the Ministry of Economy and Trade, [said any surcharge on card payment is prohibited](https://libyaherald.com/2026/08/municipal-guard-warns-against-imposing-surcharge-for-debit-card-payments/) and that the displayed price is the final price. [Complaints had reported spreads reaching 20% in some clinics and medical centres](https://libyaherald.com/2026/08/municipal-guard-warns-against-imposing-surcharge-for-debit-card-payments/).
+
+The committee behind the national information system spent its sixth meeting fixing its own composition. Meeting in Tripoli on 1 September it [reviewed financial indicators and settled its membership rules, tying permanent seats to the office of director of an information and documentation centre and requiring a written letter for a proxy](https://www.gia.gov.ly/en/2026/09/06/during-its-sixth-regular-meeting-in-tripoli-the-high-technical-committee-for-the-national-information-system-reviewed-financial-indicators-and-established-rules-for-membership-and-future-work/). Its mandate, its published output and the indicators it reviewed are not held — what is established is that it meets, and now who sits on it.
 
 ## Malawi
 
@@ -159,3 +165,5 @@ The sector agreed to count itself consistently. The technology ministry [will st
 ## Zambia
 
 The standards bureau states its own position rather than reporting a change. Its service page [puts more than 50 international standards adopted as Zambian Standards, within a catalogue of more than 6,500 national standards across sectors including information and communication technology](https://www.zabs.org.zm/standards-development). The page carries no date, so the figures are dated to retrieval, and no breakdown by sector or year of adoption is published — an adoption count with no series behind it.
+
+The trust layer under the interoperability standards was stood up. The communications regulator [operationalised the National Digital Trust Anchor in its capacity as national root certification authority, the framework issuing and verifying digital certificates and signatures establishing the identity of people and organisations, on the legal base of the electronic communications and transactions statute](https://zambia24.com/2026/09/07/zambia-bets-on-digital-trust/). No certificate count, subordinate-authority list, accreditation route or fee schedule is published, and the launch reaches the base through a news report rather than the regulator's own notice — which for a root certification authority is the one thing a relying party would want to be able to check.

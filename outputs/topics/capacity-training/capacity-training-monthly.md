@@ -1,10 +1,10 @@
 ---
 title: Training and skills — monthly update, August 2026
-compiled: 2026-09-07
-period: 2026-08-01 to 2026-09-07
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 subject: capacity.training
 places: AGO; BEN; BDI; CMR; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: c1532c2208ce
+record: 5b04295b990f
 ---
 
 # Training and skills: monthly update, August 2026
@@ -85,11 +85,15 @@ The national university's technology school [offers three bachelor's degrees and
 
 Training capacity was the month's activity. A youth agency [signed for 2,000 vendor-certified microdegree places on 14 July](https://www.myjoyonline.com/yea-partners-ghana-digital-centres-to-train-2000-youth-in-ai-cybersecurity-and-digital-skills/) — Ghana taking 2,000 of the 3,000 allocated to the whole continent — fully government-funded, with 600 paid internships and a five-region pilot, and no programme cost disclosed. [A university became the first tertiary institution to embed the national coders programme permanently in its curriculum on 29 July, receiving a further 2,000 laptops the next day](https://www.myjoyonline.com/yea-partners-ghana-digital-centres-to-train-2000-youth-in-ai-cybersecurity-and-digital-skills/). Three universities — Kumasi Technical University, the Kwame Nkrumah University of Science and Technology and the University of Mines and Technology — [completed the first pilot of the European-funded UNIHUBS blended-learning course in entrepreneurship, innovation and digital skills, run from late June to July and reported on 3 September](https://www.ghanawebbers.com/GhanaHomePage/business/KsTU-KNUST-and-UMaT-Join-EU-Program-for-Innovation-and-Digital-Skills-2174760), covering business development, technology transfer in higher education, digital marketing and professional communication. The consortium treated it as a quality-assurance run before pilots in Kenya and Tanzania this month; no participant count, budget or grant number is published, and the account is the project's own.
 
+The coders programme published its funnel rather than a headline for the first time: [141,954 registered accounts, 27,782 admitted learners and 5,812 logged course completions as at 2 August 2026, cybersecurity the largest track at 8,570](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/), with 30,444 admitted through one commercial platform, 10,143 through a second and 24,394 learners self-paced. Registration is not admission and admission is not completion, and it is the ratio between them rather than any one number that measures the programme against its target of a million.
+
 ## Kenya
 
 The 117th digital hub was [commissioned in Baringo on 20 July](https://techafricanews.com/2026/07/20/kenya-launches-117th-jitume-digital-hub-to-expand-digital-access-in-baringo-county/) on the ceremony series, against a separate installed-base series of about 350 that the programme's own officials also use.
 
 Certification reached the platform economy from the other direction, in one county and at small scale. A ride-hailing operator and the Mombasa county government [launched a programme to license 400 delivery riders through the national Recognition of Prior Learning framework, the operator committing KES 1.5 million: riders complete 21 days of accredited training at a certified driving school before the transport and safety authority licenses them on demonstrated competency, under a January 2026 memorandum covering compliance, safety, youth employment and platform adoption, and the operator will share trip and demand data with the county for infrastructure planning including the siting of electric-vehicle charging points](https://techcabal.com/2026/08/27/bolt-mombasa-formalise-400-delivery-riders-training-and-licences/). Four hundred riders is set against a sector a 2025 parliamentary report puts at more than two million, and no data-sharing agreement, retention rule or privacy basis for the trip and demand data accompanies it.
+
+Teaching practice moved before any curriculum did. A mathematics and science teacher-training centre [ran an international workshop for 100 teachers on 3 and 4 September on digital literacy for competency-based science teaching, its acting chief executive warning against dependence on artificial intelligence in classrooms](https://www.kenyanews.go.ke/cemastea-champions-responsible-ai-use-in-competency-based-stem-education/). No guidance document, cascade plan or teacher-reach target is published behind it.
 
 ## Lesotho
 
@@ -98,6 +102,8 @@ MICSTI reported [digital-literacy training running across all ten districts](htt
 ## Liberia
 
 UNDP also [announced a partnership with the University of Liberia to establish the country's first master's degree in artificial intelligence](https://www.undp.org/liberia/blog/liberias-digital-future-will-be-defined-investments-we-make-people-today), with no commitment amount disclosed.
+
+A second route into the national university was signed rather than built: a [tripartite memorandum of 27 August under which a foreign online university covers 97% of online tuition for more than 200 students, with three smart classrooms due in 2027](https://www.liberianobserver.com/news/ul-signs-tripartite-partnership/article_5cddfcff-d093-4f21-a8b5-4ad801df628a.html). No commitment amount is stated, so what the base holds is a tuition-waiver share, a student count and a classroom count with no money behind any of them.
 
 ## Libya
 
@@ -184,6 +190,8 @@ One intervention was announced against that pipeline, at the far end of the coun
 
 The industry association put up a route of its own, [launching a portal to link employers, ICT jobseekers and graduates and professional development in one platform rather than as a conventional job board, against what it calls the disconnect between people holding ICT skills and the businesses that need them](https://www.itweb.co.za/article/saicta-targets-ict-jobs-gap-with-new-portal/KjlyrvwBrx5qk6am); no listing, placement or funding figure accompanies it. At the other end of the pipeline, industry began paying for places itself. Two domestic firms [joined a data-centre operations academy as industry partners and are sponsoring a full candidate cohort for its 2026 intake, the first South African firms to fund a whole cohort, one opening a newly launched Midrand OEM training facility and the other a live operational data centre to supply the practical component of a graduate-to-employment pipeline](https://datacentresafrica.com/master-power-technologies-and-digital-parks-africa-join-ibtc-dc-academy-as-key-ecosystem-partners/), the sponsoring founder framing it as a recruitment expense rather than a training one — which is the clearest statement yet of why the estate's operators are not waiting for the state pipeline above. No cohort size, placement rate or cost per place is published.
 
+The demand side was measured, and it is worse than the delivery programmes suggest. Employers report [about 55% of workers showing little or no proficiency in mathematics or data skills, 55% saying their workforce has only basic digital literacy, 52% finding it difficult to hire anyone prepared for digital transformation and 70% rating workforce technology skills poor or very poor, against 118,500 unfilled ICT vacancies of which 36% are junior roles](https://businessexplainer.co.za/opinion/2026/09/07/sa-is-not-future-ready-says-oosthuysen/) — with the country placed second in the world on education spending and 67th on digital skills. The figures reach the base through an industry opinion piece citing a university survey and a non-profit's vacancy count; neither underlying dataset is held, and the ranking pair is quoted without its index.
+
 ## South Sudan
 
 Two private training deliverables closed the month. A mobile operator's money arm [graduated 1,225 entrepreneurs from a digital-finance skills programme on 24 August](https://techafricanews.com/2026/08/24/mtn-momo-equips-1225-entrepreneurs-digital-finance-skills/), and the same operator [opened an ICT hub at Aweil in Northern Bahr el Ghazal](https://techafricanews.com/2026/08/31/mtn-south-sudan-launches-aweil-ict-hub-to-boost-digital-skills-and-youth-innovation/). Both are the operator's own programmes and its own figures; no state training line stands beside them on this ledger.
@@ -195,6 +203,8 @@ Türkiye's higher education council and the Sudanese higher education ministry [
 ## Tanzania
 
 Training in the window is bought rather than built. Zanzibar's public service [signed a three-year memorandum for artificial-intelligence and cybersecurity capacity building](https://www.thecitizen.co.tz/tanzania/zanzibar/zanzibar-public-servants-to-build-capacity-in-ai-cybersecurity-5560558), and an operator's foundation [expanded its digital skills programme for young people](https://techafricanews.com/2026/08/26/airtel-africa-foundation-digital-skills-tanzanian-youth/). Neither carries a cohort size, curriculum, certification or cost on the record held, so the base can date the commitments and cannot size them.
+
+The instrument behind teacher training entered the base, and it is eleven years old. The [2015 ICT competency standards for teachers, built with the United Nations education agency on its global framework and covering six modules across two knowledge stages](https://teachertaskforce.org/sites/default/files/2022-12/2015_MoE-and-vocational-training-Tanzania-UNESCO_ICT-competency-standards-for-teachers-in-Tanzania_EN.pdf), are what the base holds; a 2025 revision is referred to and not published. Delivery against the revision moved in the window — government secondary school teachers took a [four-day programme in Arusha from 1 to 4 September covering 10 of the revised standards' 15 modules, under a third phase funded through a Korean funds-in-trust arrangement](https://dailynews.co.tz/tanzanias-digital-education-transformation-begins-with-the-teacher/) — which is the first time the base can see modules being delivered rather than a training count. Fifteen modules against the held text's six is the gap the unpublished revision would close, and no teacher-reach figure is published against the target the digital economy framework carries.
 
 ## Togo
 

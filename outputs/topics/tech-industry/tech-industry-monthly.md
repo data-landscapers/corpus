@@ -1,15 +1,15 @@
 ---
 title: ICT Industry — monthly update, August 2026
-compiled: 2026-09-07
-period: 2026-08-01 to 2026-09-07
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 subject: tech.industry
-places: DZA; BWA; EGY; GNQ; GAB; GHA; MAR; NER; NGA; SEN; ZAF; SDN; TZA; TGO; ZMB; ZWE
-record: a7d6db06b12e
+places: DZA; BWA; EGY; GNQ; SWZ; GAB; GHA; MAR; NER; NGA; SEN; ZAF; SDN; TZA; TGO; ZMB; ZWE
+record: 2317c1f07d0d
 ---
 
 # ICT Industry: monthly update, August 2026
 
-*16 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*17 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -32,6 +32,10 @@ Salvador Nguema Funtam took over at GITGE with a new deputy, the outcome of the 
 The consultancy AVANTE brought public institutions, banks and technology firms to the Hotel Anda China in Malabo on 22 July with the backing of the national development agency ANDGE. Panellists included the ministry's director-general for artificial intelligence, GITGE's technical director and BANGE's deputy head of digital and electronic banking.
 
 The base's first record of a national e-commerce platform arrived on 14 August, when the economy ministry and [SelBa24 met to organise the country's first e-commerce and digital-payments seminar-workshop](https://www.guineaecuatorialpress.com/noticias/ministerio_de_economia_y_selba24_impulsan_el_primer_seminario_sobre_comercio_electronico_y_pagos_digitales_en_guinea_ecuatorial), to run simultaneously in Malabo and Bata between September and October and to train SMEs, traders and farmers to open and run free online stores on the platform. Nothing about SelBa24 itself — its ownership, merchant count, transaction volume or launch date — is stated.
+
+## Eswatini
+
+A state-facing platform changed hands rather than being built. The [Taiwan-funded platform connecting local businesses to wider markets was handed over to the investment promotion authority at the international trade fair on 3 September, with funding for a third-phase scale-up still being sought](https://eswatinipositivenews.online/taiwan-opens-global-markets-for-eswatini-through-buy-eswatini/). No listing count, transaction volume, cost or phase-three budget is published, so what the state has taken on is a platform whose running costs are unstated.
 
 ## Gabon
 
@@ -73,6 +77,8 @@ Domestic production is a licensable activity and nothing establishes that it is 
 ## Tanzania
 
 The sector has multiplied and says it cannot scale. A United Nations capital development fund [counts 171 active fintech companies in 2026 against 33 in 2021, alongside more than 70 per cent of adults holding a mobile money account and 6.4 billion digital payment transactions in 2024](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-fintechs-banks-told-to-rethink-partnerships-5583302), and founders told a Dar es Salaam session that partnerships with banks and mobile operators remain the main barrier - banks assessing early-stage firms through a static lens, the core processing layer commoditised as institutions build in house, limited patient capital, talent shortages, regulatory and tax uncertainty and the cost of acquiring customers. The stated ambition is to be a leading African fintech market by 2031, with no intermediate target on file.
+
+One account of the trading economy the fintech count sits above reached the base: an e-commerce sector that runs on [an Instagram storefront, a WhatsApp sales desk, a mobile-money rail, a motorcycle courier for the last mile and long-distance buses across the border](https://thechanzo.com/2026/09/04/instagram-mobile-money-and-a-boda-tanzanias-e-commerce-economy/), rather than on platforms with catalogues and checkout. It is a reported description rather than a measurement, and the base holds no transaction volume, merchant count or dispute mechanism for any part of it.
 
 ## Togo
 

@@ -1,15 +1,15 @@
 ---
 title: Registries (population, land, address, etc.) — monthly update, August 2026
-compiled: 2026-09-07
-period: 2026-08-01 to 2026-09-07
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 subject: dpi.registry
-places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COM; COG; CIV; COD; EGY; ERI; SWZ; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MWI; MLI; MRT; MUS; MAR; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 6484d7e440d0
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COM; COG; CIV; COD; EGY; ERI; SWZ; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MWI; MLI; MRT; MUS; MAR; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 67eb70adcd37
 ---
 
 # Registries (population, land, address, etc.): monthly update, August 2026
 
-*46 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*47 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -45,6 +45,8 @@ Civil registration is being digitised one commune at a time, and the training is
 
 The register, not the card, is what carries the right to vote. The electoral commission [said more than one million new voters are expected for the 2027 presidential election, with partial registration planned for October 2026 in more than 4,000 centres that will also serve as polling stations, targeting those under 18 at the 2025 registration and citizens returned since 2025](https://www.sosmediasburundi.org/en/2026/09/03/2027-presidential-election-more-than-one-million-new-voters-ceni-accelerates-preparations/), and its president said a voter who loses their card keeps the right to vote provided they are in the electoral database. That is the clearest statement this base holds of how identity works at the poll here. No register size, audit terms or duplicate-detection method is published.
 
+The obligation behind any future social register is now on the record. An [ordinance of 7 February makes acquisition of the medical assistance card compulsory, a scheme dating from 1984 and reformed in 2012](https://www.iwacu-burundi.org/la-cam-une-avancee-vers-une-protection-sociale-plus-inclusive/), and the account weighs it as a step towards broader social protection. No enrolment count, card format, register or digital component is described — so what exists is a duty to hold a card, and nothing published about the system that would issue or read it.
+
 ## Cameroon
 
 The [national civil-status registry platform was reported deployed in pilot councils on 16 July](https://techafricanews.com/2026/07/16/cameroon-urges-north-west-councils-to-accelerate-digital-transformation/); the source names no councils and gives no target. The one delivery figure on the record for the wider programme comes from outside government: the national human rights commission, [calling for a modernised and interoperable civil registry on 10 August, put birth-certificate cases processed under a World Bank-backed programme at over 49,000](https://kamerinfosplus.com/2026/08/10/etat-civil-la-cdhc-veut-un-systeme-moderne-digitalise-et-accessible-a-tous/).
@@ -63,6 +65,8 @@ The Registre social unique (RSU) reported [62,000 households enrolled as of 10 J
 
 The minister recorded on 10 July that the [regulator has run the postal addressing project for two years and the ministry has not taken it up for deployment](https://www.adiac-congo.com/content/numeriquegouvernance-frederic-malik-nguema-nze-fait-de-larpce-son-fer-de-lance-170823), his own framing being that without the handover the work has not had the expected impact. The registry that does have a system waiting for it went before the Senate. On 7 August the interior minister [said ministry and municipal staff are themselves among those running networks selling forged civil-status documents, and announced investigations to dismantle them](https://datsoue.news/2026/08/08/congo-etat-civil-jean-olessongo-ondaye-annonce-la-traque-des-reseaux-de-falsification/), naming the integrated civil-status system as the structural fix; the ministers [set out the platform as the way to centralise birth, marriage and death records](https://brazzavilleinsider.com/congo-bets-on-digital-records-to-curb-civil-fraud/). Its three modules were validated in February and its deployment is still unfunded, so what changed this month is the case made for it rather than its build state.
 
+Control arrived before the system did. A [circular of 1 September 2026 from the territorial administration bans antedating of civil-status acts and changes of identity or filiation without a court decision](https://lesechos-congobrazza.com/societe/12368-etat-civil-au-congo-brazzaville-fini-le-temps-des-actes-bricoles). It is an administrative control placed on a paper process while the validated integrated civil-status software waits for deployment funding, and no volume of irregular acts is published to say how large the problem it addresses is.
+
 ## Cote d'Ivoire
 
 Civil-registry software is [installed with hardware in every municipal and sub-prefecture civil-status centre for digital recording of births, marriages and deaths, financed by the European Union](https://www.aip.ci/cote-divoire-aip-digitalisation-de-letat-civil-les-sous-prefets-du-goh-mobilises-pour-accompagner-la-reforme-de-loneci/). Supervision is assigned to sub-prefects rather than to registrars, and the reform is framed as anti-fraud rather than as access.
@@ -78,6 +82,8 @@ Two further registers were announced as part of a financial-sector package rathe
 The registry ground also drew a vendor. A Kenyan platform operator [pitched the digital economy ministry on 12 August on digital company registries, beneficial-ownership traceability and real-time state-revenue tracking](https://acp.cd/economie/rdc-la-mise-en-place-de-registres-numeriques-recommandee-pour-moderniser-ladministration/), citing its own deployments in Malawi and South Sudan; the minister asked officials to continue talks toward a partnership. It is a sales meeting, and the claims in it are the vendor's.
 
 The company that built the vehicle identification platform [is refusing to hand it to the government without compensation](https://www.africaintelligence.com/central-africa/2026/08/25/kinshasa-struggles-to-take-control-of-vehicle-registration-it-system,110864451-art) and is preparing legal action in Belgium after a mediation attempt failed. A state registry whose operating platform the state does not control is a governance exposure and not only a commercial dispute; no contract terms, valuation or filing date is on file.
+
+A second registry-shaped system was announced on the certification side. The standards control office [plans a national QR-code system letting consumers scan a product — medicines included — to verify its certification status, with consumer checks stated as opening within weeks and resting on 88 laboratories across 29 sites](https://www.wearetech.africa/en/fils-uk/news/tech/drc-to-roll-out-qr-code-system-to-track-products-and-fight-counterfeits). No launch date, register, cost or enforcement route is published, and the laboratory counts are the office's own.
 
 ## Egypt
 
@@ -95,6 +101,10 @@ The social registry began its [second regional rollout in Lubombo on an E41.7 mi
 
 The electoral commission is reviewing a [proposal to make the chief code compulsory at voter registration, alongside a six-month residency rule](https://times.co.sz/41170/news/chief-code-rule-divides-ezulwini-residents/), after it divided residents at Ezulwini — the same code the home affairs ministry was asking citizens to correct eight days later.
 
+## Gabon
+
+A domestic commentary put the governance question on transport digitalisation in public: it places the [digitalisation of transport titles and documents among the state's modernisation projects and asks who governs it and whether local suppliers are used](https://gabonactu.com/blog/2026/09/07/digitalisation-des-titres-et-actes-de-transport-au-gabon-entre-gouvernance-numerique-et-valorisation-de-la-competence-locale/). It is an opinion piece rather than a programme document — no contracting authority, supplier, scope, cost or timetable is on the record — which is why it reaches this report as the only account of a project the state has not described.
+
 ## Gambia
 
 The country published its first unified land policy, and it is the month's clearest statement of intent about a public register. The [National Land Policy 2026-2035 mandates a digitalised National Land Administration System, a centralised Land Information System and digitised land registration](https://policies.gov.gm/f/6d4b253b-ef9d-11f0-b086-029254d29bb1), alongside new Certificates of Customary Ownership, and carries a costed ten-year implementation roadmap. It is a mandate rather than a build: no supplier, budget line, custodian or start date is stated for either system, and no data-protection provision for the land record is reported — in a year in which the Personal Data Protection and Privacy Act 2025 came into force.
@@ -102,11 +112,15 @@ The country published its first unified land policy, and it is the month's clear
 
 A register the country already runs was disputed in the same week. Opposition parties put it to the electoral commission that [212,095 supplementary registrations had been announced against 179,445 records on the data distributed to them](https://gambiaj.com/news/politics/elections/political-parties-renew-concerns-over-iec-voter-register-discrepancies/), a gap the commission attributed to unverified processing outputs. No reconciled figure has been published, and a presidential election is due this year.
 
+Two registers moved from intention to a dated position. The land system has consultants [drafting a land information system with the draft due at the end of September 2026, the lands minister putting land disputes at 62% of court cases](https://www.voicegambia.com/land-disputes-consume-major-share-of-gambias-judicial-resources-reveals-minister-bah/) — which is worth reading against what a parliamentary committee found a year earlier: [leases taking up to five years, no land policy behind laws dating from the 1990s, and the survey department down to two of its eight vehicles](https://www.voicegambia.com/2025/11/28/national-assembly-committee-exposes-severe-gaps-in-land-administration/). And the tax system moved from planned to contracted: a [US$7.27m, 24-month contract signed on 7 October 2025 on lender funding](https://thepoint.gm/africa/gambia/headlines/gra-signs-7-2m-with-arabsofttmi-consortium-to-boost-itas), with the revenue authority since [briefing manufacturers ahead of rollout and pledging fully online filing](https://www.voicegambia.com/2026/06/17/gra-says-new-itas-will-transform-tax-administration-in-the-gambia/).
+
 ## Ghana
 
 Two registries entered the base this month as standing descriptions rather than events. The revenue authority's own page sets out [the taxpayer identification number system it maintains under the 2016 revenue administration Act](https://gra.gov.gh/tin/), and the national digital address system's [official page records it live](https://www.ghanapostgps.com/). Neither carries an internal date, so both are dated to capture and neither reports a change: what moved is the base's own coverage, not the registries.
 
 Nothing published with either gives a register size, a coverage rate or a public-sector consumer, which is the figure each would need before it could be said to be working.
+
+A third registry arrived as a private product reading public records. [Marrify launched in Accra on 28 August, letting users search and verify registered marriage and divorce records drawn from the registrar-general's department, the courts, district assemblies and the Gazette](https://itweb.africa/article/ghana-launches-digital-marriage-records-platform/VgZeyqJlpyX7djX9), presented by the gender ministry as answering the need for reliable information before people marry. No data-sharing agreement, fee schedule, coverage figure or record count is published, so what is established is that the records are searchable, not that they are complete.
 
 ## Guinea
 
@@ -133,6 +147,8 @@ A sector got its own register. Lesotho [launched a National Farmers Portal, plac
 Speaking on 21 July, the Posts and Telecommunications Minister said [rollout of a national digital postal address system had begun across all fifteen counties](https://elbcnews.com/2026/07/23/commissioner-honnah-reaffirms-liberia-telecom-authoritys-commitment-to-expanding-digital-access/), with no completion date or budget line given.
 
 The central bank is preparing a register of a different kind. It announced on 14 August that it is [extending the 2010 movable-assets collateral registry to cover immovable property such as land, buildings and fixed machinery](https://elbcnews.com/2026/08/14/central-bank-of-liberia-prepares-to-launch-collateral-registry/), as part of a wider financial-sector reform. No launch date, registration volume, fee schedule or relationship to the land registry is stated.
+
+The collateral registry acquired users rather than another regulation. The central bank and the banking institute [trained 35 lenders on it, registration of security interests being mandatory, and named planned links to the national identity, land and traffic registries](https://frontpageafricaonline.com/liberias-new-collateral-registry-opens-credit-doors-for-smes-tightens-lending-controls/). The links are the interesting half and the unevidenced half: they are stated as planned, with no technical route, agreement or date, and no registration count has been published since launch.
 
 ## Libya
 
@@ -251,6 +267,8 @@ The alien register issued its first cards. The identity authority [began issuing
 The business register meanwhile [opened its financial-year stakeholder engagements](https://ursb.go.ug/2026/08/26/non-individual-registry-begins-fy2026-27-stakeholder-engagements/). No registration volume, turnaround time or service change is stated with them.
 
 A sectoral register was added beside them. The trade, industry and cooperatives ministry, with the National Sugar Stakeholders Council, [launched a Sugar Industry Information Management System to register every sugarcane farmer in the country and centralise data across cane cultivation, harvesting, milling, processing, distribution and market trends](https://www.newvision.co.ug/category/agriculture/trade-ministry-launches-digital-system-to-reg-NV_239987_092026). No farmer count, registration deadline, cost or data-protection provision is published, and nothing states how it relates to the national identification register.
+
+The country's other identifier-bearing register went the other way. Parliament's infrastructure committee opened a fact-finding inquiry into the digital number plate system on 2 September after complaints from vehicle dealers: [daily production has fallen from about 350 plates to about 100, and members put the cost of the backlog at more than 4bn shillings a week against a first-registration fee of 714,300 shillings](https://businesstimesug.com/parliament-probes-digital-plate-crisis-as-delays-cost-uganda-shs4bn-weekly/). The weekly loss is legislators' own estimate rather than an audited figure, and the operator has published no account of the shortfall.
 
 ## Zambia
 

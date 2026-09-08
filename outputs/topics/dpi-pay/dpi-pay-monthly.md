@@ -1,10 +1,10 @@
 ---
 title: Digital Payments and Fintech — monthly update, August 2026
-compiled: 2026-09-07
-period: 2026-08-01 to 2026-09-07
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 subject: dpi.pay
 places: DZA; BWA; BFA; BDI; CMR; CAF; TCD; COM; COG; CIV; COD; EGY; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 73e83abb2cc5
+record: ca140a3898ff
 ---
 
 # Digital Payments and Fintech: monthly update, August 2026
@@ -50,6 +50,8 @@ On 24 July the Ministry of Finance took delivery of [3,000 smart electronic paym
 The 2027 budget orientations, reported 4 August, [restate](https://lendjampost.com/budget-2027-le-tchad-mise-sur-le-numerique-pour-verrouiller-les-finances-publiques/) the mandate for exclusive electronic payment of state obligations — bank or mobile transfer only, against a standardised electronic invoice — for a start of 1 January 2027. The same regime had already been [mandated for budget year 2026](https://lendjampost.com/budget-2026-au-tchad-zero-cash-zero-papier-zero-facture-fantome/) — exclusively bank or mobile payments, cash and cheques out; nothing in the base shows that 2026 mandate operating, so the restatement is a year's slip rather than a new commitment. Chad had already launched the standardised electronic invoice itself, among the first CEMAC states to do so, under the 2026 budget; the August orientations move only the exclusivity date.
 
 On 29 July, at Douala, the BEAC and GIMAC [launched the CEMAC's interoperable QR-code payment standard](https://leconomie.info/article/paiement-numerique-le-gimac-officialise-la-norme-qr-code-interoperable-de-la-cemac), in force under a monetary-union regulation of 8 April 2026 across all six member states including Chad and letting any bank, mobile-money or microfinance account settle a purchase at any merchant's code, routed and settled through the regional switch. No Chadian bank, wallet or merchant deployment is on record: Chad is covered by the regulation rather than shown live.
+
+The electronic money market has more providers and no newer numbers. [Two further providers have joined the two mobile operators' services, and users report fees they consider high, with competition presented as the hope rather than the position, against 160,000 to 240,000 accounts over 2020 to 2022](https://tchadinfos.com/2026/09/04/monnaie-electronique-entre-engouement-frais-eleves-et-espoir-de-concurrence/). No current account count, transaction volume, tariff schedule or regulator series is published, so the market's growth is described and not measured.
 
 ## Comoros
 
@@ -100,6 +102,8 @@ The dominant operator opened a channel to the next cohort of providers instead. 
 
 Card acceptance widened from outside the domestic rails. A commercial bank and an international card scheme [opened online acceptance of that scheme's cards to participating merchants in nine African markets including Ghana on 19 August](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/), settling in local currency, US dollars or both; the merchant count is given for the nine markets together and not for Ghana.
 
+The virtual-asset regime acquired its coordinating machinery. A five-agency committee is [constituted and chaired by the central bank governor, joining the securities regulator, the finance ministry, the cyber security authority and the financial intelligence centre, working towards having the Virtual Asset Service Providers Act fully in force by 2027](https://bitcoinke.io/2026/09/ghana-sets-up-virtual-assets-committee/), and on 4 September the securities regulator [admitted a second sandbox cohort of ten participants, run with the central bank to test and refine the framework the Act introduced](https://www.myjoyonline.com/yellow-card-joins-ghanas-second-virtual-asset-regulatory-sandbox/), one of them a stablecoin infrastructure provider testing stablecoin payment, fiat settlement and wallet infrastructure under supervision. The cohort list, the first cohort's outcomes and the sandbox's exit criteria are not published.
+
 ## Guinea
 
 [NimbaPay opened for operations on 22 July 2026](https://mediaguinee.com/2026/07/le-pm-amadou-oury-bah-lance-les-operations-de-la-plateforme-nimbapay-initiee-par-la-bcrg-nous-devons-rattraper-notre-retard/), making banks, electronic-money institutions and microfinance institutions interoperable nationwide. The governor of the central bank [put financial-account access at 4% in 2011 and about 36% in 2024](https://mediaguinee.com/2026/07/le-pm-amadou-oury-bah-lance-les-operations-de-la-plateforme-nimbapay-initiee-par-la-bcrg-nous-devons-rattraper-notre-retard/), and named state payments and cross-border payments as the next phases. It was [built in 127 days on Mojaloop open source by Guinéenne de Monétique, with AfricaNenda and Thitsa Works, expressly so that the state retains control of the infrastructure](https://www.ecofinagency.com/news-digital/2807-57779-guinea-launches-nimbapay-its-national-instant-payment-system). The following day the central bank stated that [more than 70% of payments are still made in cash even at merchants already equipped with electronic solutions](https://mediaguinee.com/2026/07/paiements-digitaux-ofmg-la-cciag-et-la-bcrg-engagent-une-demarche-pour-encourager-les-transactions-electroniques-en-guinee/), and named interoperable merchant QR codes and fiscal incentives as workstreams under study. Its [project register records the RTGS migration to ISO 20022 held by unpaid invoices to the supplier CMA and customs clearance, and PAPSS participation with no transaction recorded](https://www.bcrg.gn/projets-de-reformes-en-cours-a-travers-la-dsmp/).
@@ -128,6 +132,8 @@ The central bank also put on record how the system was built. Its own account is
 
 Payments moved outward rather than inward. The central bank [is reported to be planning accession to China's cross-border interbank payment system after talks with the People's Bank of China](https://www.scmp.com/news/china/diplomacy/article/3364171/why-chinese-yuan-could-soon-be-africas-most-important-currency). The account is a foreign newspaper's: no Libyan statement, timetable or membership step is held, and nothing is said about what it would mean for settlement currency or correspondent banking.
 
+The central bank governor set out four things at once at a Tripoli conference on 7 September: a [link to the Arab regional payments platform, a study track on a central bank digital currency and stablecoins, a cyber-skills programme, and a pilot for accession to China's cross-border interbank system targeted at early 2027](https://libyaherald.com/2026/09/cbl-governor-issa-launches-several-initiatives-and-reviews-achievements-at-tripoli-arab-savings-and-financial-literacy-conference). None carries an instrument, budget, participant list or delivery date, and the transfer-value figure the same account reports is not taken into the base.
+
 ## Madagascar
 
 On 3 August MVola's new director general [gave the first account of the platform migration behind the outages of May and June](https://www.lexpress.mg/2026/08/alexandre-castel-directeur-general-de.html). The core platform was replaced in May 2026; he states that money does not vanish from accounts, that reported cases have been regularised, and that the platform is stabilised with further work outstanding. No regulator is named, no incident report is published and no compensation is mentioned. Separately, [Airtel Money integrated Baobab Bank into its mobile banking service on 17 July](https://techafricanews.com/2026/07/17/airtel-money-madagascar-and-baobab-bank-partner-to-expand-mobile-banking-services/). The African Development Bank and AXIAN [launched a digital finance programme on 2 September targeting 34,000 women-led businesses in Madagascar, Tanzania and Senegal through the Mixx and MVola platforms](https://www.ecofinagency.com/news-finances/0409-58613-afdb-axian-take-digital-finance-to-34-000-women-led-businesses-in-africa), under a US$160 million senior corporate loan approved to the group in January 2025 with a US$2.5 million grant for financial literacy and credit access and more than US$10 million allocated for 22,000 women entrepreneurs in Madagascar through MVola. The grant is not a lending pool, and no enrolment or disbursement figure is published for the programme itself.
@@ -148,6 +154,8 @@ The financial services regulator [issued guidance notes on stablecoins, with an 
 ## Mozambique
 
 Payments moved in two directions. The central bank [set limits on payments abroad made with bank cards, revoking its December 2025 notice](https://www.bancomoc.mz/en/media/highlights/notice-no-4-gbm-2026-establishes-limits-on-payments-abroad-made-using-bank-cards-and-revokes-notice-no-9-gbm-2025-of-9-december/) â€” a restriction on what a card can do rather than an extension of it. In the other direction a health agency [reported cumulative disbursement of US$14.4m to health workers over mobile money for campaign payments](https://techafricanews.com/2026/08/11/who-mozambique-channels-14-4m-through-mobile-money-for-health-campaigns/), the largest use of the mobile-money rail for public payment the base holds here.
+
+The public payroll became a credit rail. A [memorandum between the dominant mobile money operator, a microbank and the state financial information centre puts a salary-advance product on the operator's short code for more than 380,000 civil servants](https://techreviewafrica.com/news/7081/m-pesa-maximo-microbanco-and-cedsif-open-formal-credit-access-to-380000-mozambican-civil-servants). It is a memorandum rather than a live product: no launch date, interest rate, advance ceiling, repayment mechanism or default treatment is published, and nothing describes how payroll data would reach the lender.
 
 ## Namibia
 
@@ -190,6 +198,10 @@ The withdrawn credit product came back on 24 August. The dominant operator [resu
 
 One private figure crossed a round number. A digital bank [passed 30 million registered users in Nigeria](https://www.wearetech.africa/fr/fils/breves/breves-simple/la-banque-numerique-fairmoney-depasse-les-30-millions-dusagers-au-nigeria) on its own count, which is a registration total rather than an active or transacting one and has no earlier figure on the ledger to read it against.
 
+The survey behind the country's headline inclusion figure entered the base in full, and it is three years old. [Formal financial inclusion reached 64% of adults, about 71.7 million, in 2023 from 56% in 2020, banking uptake moving 51% to 52% and non-bank formal products 32% to 57%, on 26,930 interviews across all 36 states and the federal capital territory](https://a2f.ng/wp-content/uploads/2024/07/A2F-2023-SURVEY-REPORT-1.pdf); exclusion fell ten percentage points, but [roughly 28.9 million adults remain outside the formal system and the share counted financially healthy fell to 16%](https://thesun.ng/how-nigeria-can-bring-29m-adults-into-financial-system-nimasa-director-ani/). Fieldwork ran August to October 2023, so every payment-system change since sits outside it.
+
+On the cross-border rail the operator reported [Nigeria–Rwanda volumes approaching and in places exceeding Nigeria–Ghana, corridors with Cameroon, Niger and Benin growing on trade in Nigerian goods, and church contributions remitted from elsewhere in Africa as a notable component of activity](https://nairametrics.com/2026/09/05/nigerian-churches-drive-rising-cross-border-payments-across-africa-papss-says/) — no volumes, values or period attached to any of it. In the other direction, [diaspora inflows held steady at US$21.8bn in 2025 on central bank figures, against an average 8.46% cost to send US$200 into the region and app-based rivals quoting 2–3% on the London–Lagos corridor](https://techtrends.africa/how-remittance-startups-are-undercutting-western-union-across-africa/).
+
 ## Rwanda
 
 Effective 14 July the central bank [designated one rail as the national instant payment system](https://itweb.africa/article/rwanda-migrates-retail-payments-to-ekash/rxP3jqBEnOoMA2ye) by directive, connecting 22 financial institutions bank to wallet to merchant in any direction, with a per-transaction ceiling. An interoperable bank-to-wallet transfer that could previously cost as much as RWF 5,000 now costs [a flat RWF 20 regardless of amount](https://african.business/2026/07/innov-africa-deals/rwanda-unifies-digital-payments-with-national-launch-of-ekash), about one US cent on the publisher's own conversion. The directive itself is not held.
@@ -209,6 +221,8 @@ The country leads its monetary union on electronic money, on figures that also s
 A re-platforming of the national payment rails — real-time gross settlement and automated clearing — is reported to have been contracted in early August, but no award notice from the Bank of Sierra Leone or the procurement authority is published, and the aggregator listing that carried the figures is not an origin this base accepts. The award is not held, and no amount, supplier or scope is stated here on that basis.
 
 The same 4 August ministerial statement [disclosed about 390 Orange mobile-money fraud complaints logged in 2026 to date and more than 18,000 police requests for subscriber data answered](https://sierraleoneconcordtimes.com/government-unveils-multi-agency-strategy-to-tackle-rising-cyber-fraud/).
+
+A self-service route into pensions was announced. The social security trust [is to launch an application for pensioners and contributors with a short-code fallback for feature phones, biometric verification, and integration with the three mobile-money services](https://sierraloaded.sl/news/nassit-launch-mobile-app-pensioners/). It is announced rather than launched: no launch date, pensioner count, transaction route or fee arrangement is published, and the short-code fallback is the part that decides whether it reaches anyone outside the smartphone base.
 
 ## South Africa
 
@@ -284,6 +298,8 @@ Retail participation in the securities market is the one digital adoption figure
 The regional rail above the domestic one acquired its rules. The regional clearing house [published the scheme rulebook for instant low-cost cross-border retail payments, with a gender audit and strategy to 2030 drawn from research along the corridor with Malawi](https://www.linkedin.com/posts/comesa-clearing-house_comesaclearinghouse-drpp-regionalintegration-activity-7492550470780182528-vX_W). No Zambian transaction volume, participant count or fee schedule is published.
 
 Acceptance also widened from outside. A commercial bank and an international card scheme [opened online acceptance of that scheme's cards to participating merchants in nine African markets including Zambia on 19 August](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/), settling in local currency, US dollars or both; the merchant count is given for the nine markets together and not for Zambia.
+
+The account base under the inclusion figure was stated: [14.7m registered mobile money accounts in 2024 on the monetary fund's financial access survey, of which 77% hold a balance, against one adult in five holding any account at all in 2011](https://thefintechtimes.com/zambia-mobile-money-opened-doors-fintech-has-to-go-further/), with the central bank phasing out cheque clearing behind it. Registered accounts are not people, and the balance share is the only measure of activity the base holds against the count.
 
 ## Zimbabwe
 

@@ -1,10 +1,10 @@
 ---
 title: National statistics — monthly update, August 2026
-compiled: 2026-09-07
-period: 2026-08-01 to 2026-09-07
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 subject: data.statistics
 places: BWA; BDI; CMR; CAF; TCD; COM; COG; COD; GNQ; GAB; GHA; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; TGO; UGA; ZWE
-record: 9602a234f6d3
+record: cc6657f0a364
 ---
 
 # National statistics: monthly update, August 2026
@@ -60,6 +60,8 @@ INEGE opened a three-day validation workshop on 27 July at the Ministry of Finan
 Census preparation was validated a second time in four weeks without an enumeration date being set. The scientific committee [validated the project document, the resource-mobilisation strategy and the communication strategy for the fifth population and housing census and the first agricultural census](https://ahoraeg.com/politica/2026/08/20/el-comite-cientifico-valida-los-documentos-estrategicos-del-v-censo-de-poblacion-y-del-i-agropecuario/), reading into the record the 2025 decree ordering both operations and the resolution that created the committees. The project document is stated to fix objectives, methodology, timetable and the agricultural sample size; none of it is published, and neither is a date on which anyone will be counted.
 
 The fifth interministerial council of the year [adopted a National Quality Assurance Framework for official statistics on 25 August, a standardised protocol for the collection, processing and dissemination of socio-economic data presented as aligning national method with international standards](https://ahoraeg.com/politica/2026/08/25/el-gobierno-afianza-la-disciplina-fiscal-y-la-transparencia-en-el-quinto-consejo-interministerial-del-2026/); the framework text is not published.
+
+The statistics institute went out to the ministries rather than waiting for their returns. A [ministry-by-ministry supervision tour of statistical services began on 2 September at the interior and education ministries and runs to 9 September, ordered by the national statistics council's eighth session of 27 August, to assess each service's state and consolidate the national statistical system](https://realequatorialguinea.com/inege/inege-inicia-una-gira-por-los-servicios-estadisticos-de-los-ministerios-para-consolidar-el-sistema-estadistico-nacional/). No findings, service inventory or report from the tour is published, and the account is the institute's own.
 
 ## Gabon
 
@@ -142,6 +144,8 @@ The dissemination layer is being rebuilt while the strategy above it has lapsed.
 ## Uganda
 
 The statistics bureau [commissioned 80 field data collectors on 4 August](https://nilepost.co.ug/news/361056/ubos-commissions-80-data-collectors-for-9th-uganda-national-household-survey) for the ninth national household survey, deployed in 16 language-based teams after fifteen days' training, for twelve months of collection. No sample size, budget, funder or publication date was stated.
+
+The bureau went to cultural institutions for the administrative records the civil register does not capture, signing [memoranda with the Samia Bugwe and Tieng Adhola institutions on collecting, managing and sharing community-generated information, births and deaths particularly](https://ubc.go.ug/2026/09/06/ubos-partners-with-samia-bugwe-and-tieng-adhola-to-improve-community-data/), with the bureau providing technical support and training. Its own argument for it is the interesting part: better administrative records would strengthen the population register and reduce what a national census costs. Neither text is held and no coverage or start date is published.
 
 ## Zimbabwe
 

@@ -1,15 +1,15 @@
 ---
 title: Digital divides — monthly update, August 2026
-compiled: 2026-09-07
-period: 2026-08-01 to 2026-09-07
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 subject: include.divides
-places: AGO; BWA; BDI; COD; EGY; SWZ; GHA; KEN; MWI; MOZ; NER; NGA; SEN; ZAF; UGA
-record: a567ea30c12c
+places: AGO; BWA; BDI; COD; EGY; SWZ; GMB; GHA; GNB; KEN; MWI; MOZ; NER; NGA; SEN; ZAF; UGA
+record: 0c9180dbaefd
 ---
 
 # Digital divides: monthly update, August 2026
 
-*15 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*17 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -37,6 +37,10 @@ Accessibility followed a similar pattern of demonstration without obligation. On
 
 On 6 August the [Macetjeni Integrated Business, Employment and Innovation Hub was launched in the Lubombo Region](https://eswatinipositivenews.online/govt-launches-macetjeni-ihub-to-drive-digital-innovation/), the second after Pigg's Peak, established by the Small Enterprises Development Company with ESCCOM and UNDP. A third hub is in preparation for Shiselweni, with no start date, provider or cohort size given.
 
+## Gambia
+
+The schools' side of the divide has a figure for the first time, and it is small: [13.2% of schools have internet available for teaching, across a system of 830,895 learners](http://web.archive.org/web/20260429205056/https://mobse.gov.gm/wp-content/uploads/2025/10/The-Gambia-Education-Statistics-Summary-Report-ESSR-2025.pdf), on the education ministry's own statistics summary. No breakdown by level, region or school type comes with it — but it is the denominator every education-technology programme in this report has been running without.
+
 ## Ghana
 
 At a policy dialogue on 29 July the regulator said an existing hotspot authorisation [could found a dedicated community-network regime](https://www.myjoyonline.com/isoc-ghana-urges-policy-reforms-to-expand-community-networks-and-bridge-rural-digital-divide/), with no timetable, consultation or draft announced; a civil-society policy lead placed four other African states ahead of Ghana on enabling frameworks.
@@ -44,6 +48,12 @@ At a policy dialogue on 29 July the regulator said an existing hotspot authorisa
 The [draft digital economy and innovation development fund bill](https://amchamghana.org/2026/07/30/amcham-ghana-joins-key-stakeholder-talks-on-new-digital-economy-fund/) would also convert the universal-access fund into a wider innovation and skills fund, with the fate of the rural-access earmark unestablished.
 
 Existing money went the other way. An implementing partner's account of 12 August reports that [connectivity and digital-inclusion work in Ghana slowed or stopped after the American aid wind-down of 2025, in which 83% of the agency's programmes were cut](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html), the multi-funder Women in the Digital Economy Fund losing its American component while the parts other funders backed continued. No replacement funder is named and no Ghanaian figure is given.
+
+The rural project's own numbers reached the base on 5 September. [1,400 of 2,016 rural telephony sites are live and the universal-access fund carries a GHS 30m allocation for the project in 2026](https://www.myjoyonline.com/govt-to-upgrade-all-rural-telephony-networks-to-4g-capability-sam-george/), with the minister directing that every site be upgraded to at least 4G on the ground that 2G and 3G no longer carry the services the sites exist to deliver, a directive [repeated on an Eastern Region site inspection the next day](https://newsalertgh.com/2026/09/06/sam-george-inspects-rural-telephony-projects-to-boost-mobile-network-connectivity-in-eastern-region/). It carries no timetable, cost or contracting route, and 616 sites are not yet live. Above it, [smartphone penetration is put at 71.8% in June 2026 against 27.5% a decade earlier](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/) — the minister's figure, on a different base from the household survey the record already holds.
+
+## Guinea-Bissau
+
+The first measurement of adolescent access the base holds is academic rather than official. A [survey of 2,039 Bissau adolescents finds computer and internet access limited and unevenly distributed, skewed against girls and against pupils in state schools, with the pandemic having exposed rather than created the gap](https://hdl.handle.net/20.500.11815/8043). It covers the capital rather than the country, and nothing official exists at any date to set beside it — which is why a doctoral thesis is the best evidence this report has on who among the young can get online.
 
 ## Kenya
 

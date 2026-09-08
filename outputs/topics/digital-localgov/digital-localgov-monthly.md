@@ -1,10 +1,10 @@
 ---
 title: Digitalisation of sub-national government — monthly update, August 2026
-compiled: 2026-09-07
-period: 2026-08-01 to 2026-09-07
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 subject: digital.localgov
 places: AGO; BFA; BDI; GHA; MWI; MLI; NAM; NGA; RWA; SEN; ZAF; SDN; TZA; TGO; UGA; ZMB; ZWE
-record: af7e524bcacb
+record: 1821033a5486
 ---
 
 # Digitalisation of sub-national government: monthly update, August 2026
@@ -51,6 +51,8 @@ Enugu [opened free digital storefronts, company-registration support, digital-tr
 
 Anambra began the second phase of its own state strategy, [expanding its OneGov platform to digitise government services and formalise small and medium enterprises](https://punchng.com/anambra-deepens-digital-push-targets-sme-formalisation/); the platform [logged about 14,000 visits over three weeks in July](https://punchng.com/anambra-deepens-digital-push-targets-sme-formalisation/) despite limited publicity. Visits are not registrations or transactions, and no service count, formalisation figure or cost is stated. A development agency separately [reaffirmed its support for the state's youth digital-skills programmes](https://von.gov.ng/undp-reaffirms-partnership-with-anambra-digital-economy/).
 
+One state measured its own agencies rather than announcing a platform. The Anambra ICT agency [assessed about 25 ministries, departments and agencies for digital compliance, data protection and readiness to deliver services digitally](https://von.gov.ng/anambra-assesses-25-mdas-for-digital-compliance/), reporting compliance with the 2023 data protection Act as uncertain in some of them and records management uneven. No scoring method, agency list or published report is held.
+
 ## Rwanda
 
 The argument about local delivery was made in public. A published commentary [held that Rwanda's next decade of decentralisation requires urgent focus on delivery rather than structure](https://www.newtimes.co.rw/article/38460/opinions/rwandas-next-decade-of-decentralisation-requires-urgent-focus-on-delivery). It is one author's case, not a government position, and the record held carries no measure of service delivery at district level against which to test it.
@@ -67,6 +69,8 @@ That is an addition to the record rather than a development. No compliance asses
 
 Two municipal items, one opening a counter and one pricing the problem. Home Affairs [opened an appointment-only office inside the Cape Town Civic Centre on 24 August, which the city describes as the first municipal facility to host a national home affairs office; 148 people applied on the opening day, and Atlantis is named next](https://www.timeslive.co.za/news/south-africa/2026-08-24-cape-town-residents-get-a-new-way-to-beat-home-affairs-queues/). The local government association [issued a request for proposal for consultants to build a municipal revenue management plan across the 257 municipalities it represents, putting consumer debt at about R467.2bn, municipalities' own debt to creditors at about R160.8bn, and annual water and electricity revenue loss at about R25bn from leaks, theft, illegal connections and weaknesses in metering and billing](https://www.sundaytimes.timeslive.co.za/news/2026-08-24-salga-needs-consultants-help-to-fix-almost-r500bn-municipal-debt/).
 
+A second province published delivery figures rather than a platform. The Gauteng department's 2025/26 annual report records [96 public Wi-Fi hotspots installed at schools, libraries, hospitals, clinics, hostels and licence testing centres, offering up to 500MB of free internet a day, alongside 33 e-services live, 99% provincial network uptime and 7,271 cameras on the provincial safety network](https://www.gov.za/news/media-statements/gauteng-e-government-accelerates-digital-transformation-e-gov-delivers-more). It is the department's own account as presented to the legislature, with no audited outturn, usage figure or prior-year comparison in what the base holds.
+
 ## Sudan
 
 The institutional route from the centre to the states was documented rather than changed. The National Information Center, established under a 1999 constitutional decree, [carries a state coordination directorate responsible for following up technology projects and training at state level](https://nic.gov.sd/public/departments). That establishes who is accountable; it does not establish what reaches a state office. No budget, staffing or equipment figure for local government technology is published.
@@ -74,6 +78,8 @@ The institutional route from the centre to the states was documented rather than
 ## Tanzania
 
 A [constituency digitalisation strategy opened on 4 August with 20 computers and two printers valued at TZS 100m donated by a consumer lender](https://ippmedia.co.tz/the-guardian/business/read/bayport-donates-100m-tech-facility-to-kibambas-education-department-2026-08-04-131047), starting with the education department's administration, inter-departmental communication and examination coordination, with secondary schools stated next and ward offices in phases over three to four years. It was announced by the ICT minister in the constituency she represents, and no funding is disclosed for any phase beyond the donated equipment.
+
+The mandatory project-records system produced a throughput figure for the first time: [150 development projects registered since its launch on 1 July 2026, against a target of more than 500](https://www.tanzaniainvest.com/economy/e-delivery-150-projects-vision-2050), with the planning commission pressing ministries' policy and planning directors to register faster, the platform being the instrument through which the 2050 development vision is to be implemented. No deadline attaches to the 500 target, no list of registered projects is published, and nothing states what registration obliges an institution to do.
 
 ## Togo
 

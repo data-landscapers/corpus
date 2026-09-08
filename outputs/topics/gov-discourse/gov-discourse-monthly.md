@@ -1,15 +1,15 @@
 ---
 title: Public debate and participation in policymaking — monthly update, August 2026
-compiled: 2026-09-07
-period: 2026-08-01 to 2026-09-07
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 subject: gov.discourse
-places: BEN; BFA; CMR; TCD; COG; CIV; COD; EGY; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; MWI; MLI; MUS; MAR; NAM; NER; NGA; SYC; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB
-record: a4e190e42fb8
+places: BEN; BFA; CMR; TCD; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; MWI; MLI; MUS; MAR; NAM; NER; NGA; SYC; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: fb80ae5268ec
 ---
 
 # Public debate and participation in policymaking: monthly update, August 2026
 
-*33 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*35 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -51,6 +51,10 @@ The audiovisual and communications council and the press-freedom council [formal
 
 Two administrative reforms are stated and neither is dated. The head of the Council of State told circuit presidents the Council [continues to implement an integrated digital transformation plan](https://www.youm7.com/story/2026/8/3/%D8%B1%D8%A6%D9%8A%D8%B3-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D9%8A%D8%AA%D8%A7%D8%A8%D8%B9-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1-%D8%A7%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D9%8A-%D9%88%D9%8A%D8%A4%D9%83%D8%AF-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%86%D8%A9-%D8%A3%D8%B3%D8%A7%D8%B3-%D8%A7%D9%84%D8%B9%D8%AF%D8%A7%D9%84%D8%A9/7501770) to speed litigation, naming no system, date or deliverable — the only first-hand record that this branch has a digitisation programme at all. A [proposed cut of the VAT credit-refund period to four months, three for smaller firms](https://www.alborsaanews.com/2026/07/29/1982823), still awaits its legislative steps, and will not meet its objects while the problems obstructing proof of balances remain.
 
+## Equatorial Guinea
+
+Two enforcement bodies agreed to exchange information rather than to publish any. The attorney general's office and the national anti-corruption commission [agreed a permanent coordination mechanism on 3 September: institutional liaison points for continuous contact, an information-exchange protocol and periodic reviews](https://realequatorialguinea.com/sociedad/fiscalia-y-comision-anticorrupcion-pactan-coordinacion-permanente-para-luchar-contra-la-corrupcion-en-guinea-ecuatorial/). No protocol text, data categories, safeguards or first review date is published, and neither body publishes a caseload against which any of it could be read.
+
 ## Eritrea
 
 Outside consultation reached Asmara. A water-security project [held two rounds of geodesign workshops in July 2026 with more than twenty government, academic, private-sector and non-governmental participants, alongside a hydrological-modelling training session for Eritrean technical experts](https://www.eurac.edu/en/news/center-for-global-mountain-safeguard-research/nbs4water-geodesign-workshops-advance-nature-based-planning-for-asmaras-water-sec). It is the convener's own account of process, and it sits against a state the record elsewhere describes as silencing criticism systematically.
@@ -83,6 +87,8 @@ One item moved in this window and it is a contested procurement rather than a po
 
 The commission answered on 27 August. It [said no company has been awarded the 2027 election-technology tender, that tenders for the management system's hardware and for ballot papers are frozen at the Public Procurement Administrative Review Board on a request for review, and that the documents were published on 11 August with generic performance-based specifications](https://www.standardmedia.co.ke/business/national/article/2001556378/iebc-rejects-gachaguas-claims-defends-2027-polls-preparations). The forum that would normally host this argument met the same week: KICTANet [published the report of the nineteenth Kenya Internet Governance Forum, held with more than 300 participants and confirming Kenya as host of the global forum, in Nairobi for the first time since 2011](https://www.kictanet.or.ke/keigf-2026-report-digital-futures/).
 
+The Digital Superhighway's procurement went to court and lost. On 4 September the High Court [quashed the 2024 advisory opinion of the Attorney-General that had cleared payments connected to the Sh15bn Nightigale tender, and referred the conflict-of-interest question to the anti-corruption commission](https://www.pulse.co.ke/story/ag-opinion-clearing-sh15bn-digital-superhighway-tender-quashed-2026090416090271184). The challenge came from a consumer federation, which had contested [the award of two 2022-23 tenders and the payment made to the communications regulator's former chairperson on the strength of that opinion](https://cofek.africa/news/high-court-nullifies-the-attorney-general-s-opinion-on-which-communications-authority-relied). The judgment itself is not held, and no response from the agencies or the Attorney-General is on file — but the opinion that stood behind the payments no longer does.
+
 ## Lesotho
 
 The state opened a channel for hearing what its digital services are actually like to use: a [public survey opened on 9 August covering access, usability, trust and skills gaps across online applications, digital payments and health and education platforms](https://selibeng.com/invitation-to-participate-in-the-public-digital-services-experience-survey/), run with the United Nations development programme as part of a digital readiness assessment. No closing date, sample target or commitment to publish the results is stated, so what it will settle is not yet knowable.
@@ -110,6 +116,8 @@ The month's other forum was external in origin. At the national Internet Governa
 ## Morocco
 
 Simplification is law and is not yet practice. A member's written question to the digital transition ministry put the ombudsman's 2025 finding on the record: [agencies still ask citizens for paper copies of documents the administration already holds electronically, and impose undisclosed extra conditions](https://nichan.ma/361721/), which is what the procedural simplification law was passed to stop. No ministry answer is held. The complaint from the other end is about coverage rather than paperwork: residents of one Sefrou commune [are asking for new or strengthened transmission stations, describing reliable connectivity as a condition of schooling, work and emergency access](https://www.adyare.ma/32404.html).
+
+The administrative rule that would matter most for digital services was proposed from outside government. A party's election manifesto [proposes that administrative silence count as approval, that prior authorisations be reduced, and that artificial intelligence be used in the governance of public policy](https://www.lodj.ma/La-petite-revolution-administrative-cachee-dans-le-programme-de-l-Istiqlal_a183608.html). It binds nobody unless the party forms a government, and no bill, scope, exempted-decision list or timetable exists — but tacit approval is the one reform that would change what a digital procedure actually delivers, rather than how it is submitted.
 
 ## Namibia
 
@@ -155,6 +163,8 @@ The room where digital policy is argued is now on record: the [national internet
 
 Parliament's own case file arrived, and it makes the revision of the 2022 cyber-offences decree-law measurable rather than announced. The bill was [deposited on 20 February 2024, referred to committee on 10 April 2025, carries 38 sponsors and has not been voted](https://www.arp.tn/loi/project/4139); its operative text — the amendments themselves — is not published on the assembly's own page, which is a dated absence rather than an unsought one. [The committee named the revision its top priority in January 2026](https://www.webdo.tn/fr/actualite/national/tunisie-le-parlement-place-la-revision-du-decret-54-en-tete-de-ses-priorites/392137/); two and a half years after deposit, that priority has produced no vote.
 
+The parliamentary record of the amending bill is now held, and it dates the revision further back than the committee's January priority statement suggested: the bill was [before the general legislation committee on 22 October 2025, still under review and unpassed](https://www.arp.tn/reunion/details/7412). A revision named a top priority in January 2026 had by then already been in committee for three months, and it has not passed since.
+
 ## Uganda
 
 Public argument in the window is being made by civil society rather than in Parliament. A joint civil-society submission [was filed for the country's fourth-cycle Universal Periodic Review](https://cipesa.org/wp-content/files/Uganda_UPR_Review.pdf), the review itself not yet held, and a [climate information integrity project was launched](https://cipesa.org/2026/08/cipesa-and-unesco-partner-on-project-to-strengthen-climate-change-information-integrity-in-africa/) with a regional research organisation and a UN agency. Both are external channels: nothing on this ledger records a domestic consultation the state itself opened in the month.
@@ -166,3 +176,7 @@ The same Postal and Courier Services Bill consultation — the only open public 
 On 1 August the Human Rights Commission disclosed that its case review meeting had considered 105 alleged violations linked to the election period, of which 62 were resolved administratively.
 
 The election itself, on 13 August, produced the fullest external account of the country's digital systems the base holds. Observer missions recorded a [hybrid digital and manual voter-registration system with an online pre-registration portal, logging 8,786,300 registered voters, up 25% since 2021](https://www.eeas.europa.eu/sites/default/files/2026/documents/EU%20EOM%20Zambia%202026_Preliminary%20Statement%2015_8_FINAL_website2.pdf). A domestic coalition [found election-day process largely transparent but flagged an online-only accreditation system that blocked 11 accredited monitors, and the electoral commission's refusal to share the voters register](https://www.zambiamonitor.com/churches-group-rates-conduct-of-august-general-elections/). The European mission found online free expression unduly curtailed under the 2025 Cyber Security Act amid arrests for speech offences, and a regional media institute [recorded a journalist detained for two weeks under the Cyber Crimes Act and judged the access-to-information law and decriminalised defamation paper victories undermined by the two 2025 statutes](https://misa.org/blog/misa-regional-preliminary-statement-on-media-freedom-digital-rights-and-access-to-information-in-the-2026-zambia-general-elections/). These are preliminary statements; no final report, government response or commission account of the accreditation and register decisions is held.
+
+## Zimbabwe
+
+Planning moved a generation further out. The ICT ministry's permanent secretary was [appointed to the parliamentary body planning a thirty-year national roadmap to 2056](https://technomag.co.zw/dr-b-chirume-appointed-to-parliamentary-committee-of-the-future-as-zimbabwe-eyes-30-year-digital-roadmap/), which the ministry presents as putting the sector at the centre of long-term national planning. No terms of reference, membership list, work programme or output for the committee is held, and the roadmap itself does not yet exist - so what is established is a seat at a table, not a plan.

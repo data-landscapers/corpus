@@ -1,15 +1,15 @@
 ---
 title: Data Exchange — monthly update, August 2026
-compiled: 2026-09-07
-period: 2026-08-01 to 2026-09-07
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 subject: dpi.exchange
-places: DZA; AGO; BEN; BFA; CMR; TCD; COG; CIV; DJI; COD; EGY; GNQ; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NER; NGA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 539b35ae0284
+places: DZA; AGO; BEN; BFA; CMR; TCD; COG; CIV; DJI; COD; EGY; GNQ; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NER; NGA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: d299b7e3e6bf
 ---
 
 # Data Exchange: monthly update, August 2026
 
-*40 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*41 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -78,6 +78,12 @@ The national interoperability framework the World Bank named as absent in 2024 i
 The regional interoperable QR-code standard was launched at Douala on 29 July 2026 under the monetary union regulation of 8 April 2026, in force across all six member states and settled through the regional switch, with the Gabonese scheme as its pilot ([launch](https://www.gabonreview.com/cemac-moins-de-cash-plus-de-numerique-la-beac-deploie-le-qr-code-interoperable/)). The switch's 2025 figures, presented the following day, were 20.3m transactions worth FCFA 863bn across 153 participants ([figures](https://leconomie.info/article/paiements-numeriques-gimacpay-enregistre-203-millions-de-transactions-pour-863-milliards-de-fcfa-en-2025)). On 9 July the central bank acceded to the pan-African payment and settlement system, with member-state banks to be connected by the end of 2026 ([announcement](https://www.agenceecofin.com/actualites-finance/1007-140077-les-banques-de-la-cemac-seront-integrees-au-systeme-de-paiement-papss-d-ici-fin-2026)).
 
 A different kind of exchange went live in August. The airport-security committee [moved its advance passenger information and passenger-name-record system into its operational phase on 14 August](https://agpgabon.ga/gabon-transport-aerien-le-deploiement-du-systeme-api-pnr-entre-dans-sa-phase-operationnelle/), naming Royal Air Maroc lead carrier for IATA-code implementation under the state's convention with SECURIPORT, with border risk-screening the stated purpose. The convention terms, the retention rule for passenger data and any authorisation by the data-protection authority are not held — and the country's biometric-processing prohibition, with the defect already recorded in its derogation, sits alongside it unremarked.
+
+The private half of the health system was brought into a standing channel for the first time. The health ministry [instituted quarterly consultations with the association of private health establishments, the agenda naming the transmission of health data from private clinics among its items](https://agpgabon.ga/gabon-sante-le-ministere-instaure-un-dialogue-trimestriel-avec-le-secteur-prive/). No data standard, transmission route, reporting obligation or first meeting date is published, and the base holds no measure of what share of care the private sector accounts for — so the channel exists and what will flow through it does not.
+
+## Gambia
+
+The first register link to be agreed is between education and health rather than between the registers the interoperability indicator counts. A [memorandum connects the education and health information systems to flag vulnerable children and verify enrolment](https://gambiana.com/mobse-and-health-ministry-sign-deal-to-link-education-and-health-data-systems/). It is a memorandum rather than a live interface, and the project's own indicator for register interoperability still stands at zero.
 
 ## Ghana
 
@@ -190,6 +196,8 @@ The only description the base holds of how import revenue is actually collected 
 [The National Investment Authority said on 4 August 2026](https://sudanhorizon.com/the-national-investment-authority-in-the-process-of-electronic-single-window/) that a fully electronic single window for investment would operate only once all investment-related entities are linked electronically, with no list, sequence or date given — a precondition stated while the Authority is itself still building its first website.
 
 Two further systems were directed rather than delivered. The national economic management committee, chaired by the Prime Minister, [directed the finance ministry and the central bank to expedite completion of the bank's electronic application system with the digital transformation ministry, to strengthen oversight of financial transactions](https://sudanhorizon.com/national-economic-management-committee-urges-finance-ministry-to-expedite-electronic-system-completion/) — no description of the system, its scope or its data is given beyond the instruction to finish it. And the agricultural bank said a [digital agricultural platform developed with the agriculture and digital transformation ministries is expected to launch soon](https://sudanhorizon.com/agricultural-bank-announces-start-of-second-phase-financing-procedures-for-farming-season-by-end-of-month/), alongside second-phase season financing opening by end-August and a grain-silo agreement with a Chinese company; no launch date, function or farmer register is stated.
+
+The first service the base holds that names agency-to-agency links went live. A [needs-disclosure service on the national platform lets an investor complete the step digitally, and wires the industry, transport, agriculture and customs bodies to each other electronically](https://atheernews.net/222149/). The links are asserted in the launch announcement and nothing else: no data-sharing instrument, service volume or processing time is published.
 
 ## Tanzania
 

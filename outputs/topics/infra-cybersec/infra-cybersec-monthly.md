@@ -1,10 +1,10 @@
 ---
 title: Cybersecurity — monthly update, August 2026
-compiled: 2026-09-07
-period: 2026-08-01 to 2026-09-07
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 subject: infra.cybersec
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; TCD; COG; CIV; SWZ; GAB; GHA; KEN; LSO; LBR; LBY; MWI; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 9cdef4fdc193
+record: 051ab4756946
 ---
 
 # Cybersecurity: monthly update, August 2026
@@ -29,6 +29,8 @@ A regional preparatory meeting on radiocommunications opened in Luanda on 3 Augu
 
 Check Point Research's July telemetry [puts Angolan organisations at 5,714 attacks a week against an African average of 3,237](https://techtrends.africa/ransomware-attacks-double-year-over-year/), the highest of the four African markets it broke out — the vendor's installed base, not a national measurement.
 
+The year's national technology fair took cybersecurity as its theme rather than its subject. Opening the seventeenth edition at the telecommunications institute on 3 September under the heading of [cybersecurity and digital trust in the era of artificial intelligence, the telecommunications minister argued the country's digital future depends on research, training and building national solutions](https://angop.ao/noticias/economia/ministro-defende-aposta-na-investigacao-para-futuro-digital-de-angola/). It is a ministerial position rather than an instrument, and it sits over a strategy, a council and a centre that the base still records as having no operating account.
+
 ## Benin
 
 The month's one figure for how exposed the country is came from a vendor rather than the state. In a national newspaper interview the head of the computer emergency response body [cited 631 ransomware threats detected in Benin in 2024, on security-vendor telemetry reported through Interpol's Africa assessment](https://lanation.bj/numerique/francois-amour-bakpe-a-propos-des-cybermenaces-les-631-detections-doivent-nous-inciter-a-renforcer-la-prevention-et-la-reaction), attributing the rise to fast adoption outrunning security practice and to a criminal market where access and tooling can be rented rather than built. How much of the national estate that vendor sees is unpublished, so the count is not a measure of national exposure, and no incident, ransom-payment or recovery figure stands beside it.
@@ -48,6 +50,8 @@ Alongside the build, the state published a count of what it has tested. [205 sta
 ## Cameroon
 
 The month produced the base's first measure of what cybercrime costs an individual here. A comparative study puts the [average loss per online job scam at 132,000 FCFA for Cameroonian victims, against 58,000 FCFA in Chad](https://issafrica.org/research/books-and-other-publications/digital-deception-online-job-scams-amid-cybercrime-vulnerability-in-cameroon-and-chad), and finds 82% of the Cameroonian cases to be WhatsApp-based social engineering linked to Nigerian networks, where the Chadian pattern is more localised SMS and voice phishing. It is a survey of respondents rather than a reported-crime series, and no sample size or national loss total is carried in the record held.
+
+The gap between the governing statute and the threat it governs was measured from outside government. A policy institute's brief puts [cyberattacks up 156% between 2020 and 2023, financial losses from digital fraud above US$45m over the same period, and the national ICT agency's cybercrime unit at 23% of its establishment](https://nkafu.org/cybersecurity-as-industrial-policy-protecting-cameroons-digital-economy/), and argues that cybersecurity belongs in the national development strategy as industrial policy rather than as a compliance obligation. The figures are the institute's own, with no underlying series or agency return held — which is itself part of its case.
 
 ## Cape Verde
 
@@ -88,6 +92,8 @@ The regulator also [held a two-day consultative and validation workshop with UNI
 
 It started teaching. A session at Accra on 19 August [put newsroom devices to journalists as deliberate targets rather than accidental victims, citing an Angolan journalist's 2024 spyware infection as the regional precedent](https://www.ghanabusinessnews.com/2026/08/19/journalists-facing-growing-digital-threats-cybersecurity-expert-warns/). No count of journalists trained under the project has been published.
 
+The response team behind the licensing regime published a volume figure for the first time: it [handled 3,363 incidents between January and June 2026 and ran vulnerability assessments across 25 critical information infrastructure institutions](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/). There is no breakdown by type, sector or outcome, so it establishes how much came in and nothing about what happened to it.
+
 ## Kenya
 
 The presidency's website was [defaced on 18 July with a 5 BTC ransom demand and restored on 20 July](https://itweb.africa/article/kenya-restores-presidential-website-after-cyber-attack/Gb3Bw7WadxLq2k6V) — the second compromise of that portal in eight months. State House says no evidence of data access was found; cause and attribution are undisclosed.
@@ -97,6 +103,8 @@ The regulator's own quarterly report reached the base, the primary behind a figu
 A vendor threat report published on 13 August put the exposure at the ordinary end rather than the novel one: [malicious email attachments dominated, 46.2% of them scripts, quick-response-code phishing rose 145% between the second half of 2025 and the first of 2026, exploitation of a 2017 Office vulnerability more than doubled, and one loader became the country's fourth most-detected malware family](https://techtrends.africa/eset-threat-report-kenyan-organisations-are-being-attacked-by-the-basics/). The figures are the vendor's own detections, not a national incident series.
 
 The instrument establishing the new agency also reached the base this month, three months after it took effect. The [State Corporations (National Cybersecurity Agency) Order, 2026 — Legal Notice 89 of 2026, gazetted and commenced on 15 May 2026 — makes it an autonomous body corporate headquartered in Nairobi City County under the direction of the Cabinet Secretary for internal security, charged with formulating national cybersecurity strategy, auditing and certifying the resilience of designated critical information infrastructure, running the National Cybersecurity Operations Centre and maintaining a Cybersecurity Centre of Excellence, with a board seating the internal-security, Treasury and ICT principal secretaries alongside one academic and one private-sector appointee](https://new.kenyalaw.org/akn/ke/act/ln/2026/89/eng@2026-05-15). Nothing in the record shows it exercising any of those powers yet. Leadership was named in the same month: an inaugural non-executive chair was announced and the President [appointed a director to lead it](https://www.kbc.co.ke/dr-martin-koyabe-appointed-to-lead-national-cybersecurity-agency/). No budget line, staff complement or first published function is on file, and the National Cybersecurity Policy beside it is still only planned.
+
+The standards the new agency will enforce were put to the people who would have to work them. The technology authority [tested the National Information Security Framework's audit, risk-management and certification mechanisms at a Nairobi workshop, to establish whether they are practical for national implementation](https://educationnews.co.ke/ict-authority-steps-up-protection-of-govt-systems-critical-information-infrastructure/) ahead of certifying critical information infrastructure. Neither the framework text nor the certification criteria nor the list of infrastructure to be certified is published.
 
 ## Lesotho
 
@@ -145,6 +153,8 @@ The national response team put a number on what it is seeing. It [reported ranso
 The trust layer beneath the September electronic identity launch was signed in the last week of the month. The communications regulator and a German identity vendor [signed an implementation agreement with the home affairs ministry connecting it to the regulator's national trust framework](https://www.itweb.africa/article/namibia-advances-national-digital-trust-framework/lwrKx73Y1pAqmg1o), with the regulator as national root certification authority and the ministry becoming the first certification service provider through the issue of electronic identity documents. It is the first named certification service provider on this ledger, and it arrives a fortnight before the credential it is meant to certify.
 
 A private initiative opened alongside it. A Namibian technology company [launched the Global Cybersecurity Initiative in Windhoek, a pan-African platform presented as connecting businesses, governments and innovators for commercial partnership rather than as an exhibition, opening across Namibia, Kenya, Botswana, Ghana, Nigeria, Zambia and South Africa with a stated target of 52 African countries by 2029](https://www.thevillager.com.na/technology/2026/global-cybersecurity-initiative-unifying-africa-via-cybersecurity/). No government party, funding, governance arrangement or membership figure is published, and the [US$4bn a year its chairman gave as Africa's cybercrime losses](https://www.thevillager.com.na/technology/2026/global-cybersecurity-initiative-unifying-africa-via-cybersecurity/) comes without a source.
+
+The trust chain acquired its first link below the root, and the state is on both ends of it. The regulator [accredited the home affairs, immigration, safety and security ministry as the country's first certification service provider, on a four-year accreditation announced in Windhoek on 1 September following the key-signing ceremony of 28 August](https://neweralive.na/home-affairs-becomes-namibias-first-certification-service-provider/). No second provider is on the record.
 
 ## Nigeria
 

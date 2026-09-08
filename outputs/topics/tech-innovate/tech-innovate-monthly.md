@@ -1,15 +1,15 @@
 ---
 title: Innovation ecosystem — monthly update, August 2026
-compiled: 2026-09-07
-period: 2026-08-01 to 2026-09-07
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 subject: tech.innovate
-places: DZA; BFA; CMR; CPV; COM; CIV; COD; EGY; ERI; SWZ; GAB; GHA; GIN; KEN; LBR; MLI; NAM; NER; NGA; RWA; SYC; ZAF; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: 0ecc10a4d066
+places: DZA; BFA; CMR; CPV; COM; CIV; COD; EGY; ERI; SWZ; GAB; GMB; GHA; GIN; KEN; LBR; MLI; NAM; NER; NGA; RWA; SYC; ZAF; SDN; TZA; TUN; UGA; ZMB; ZWE
+record: 7191db935146
 ---
 
 # Innovation ecosystem: monthly update, August 2026
 
-*28 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*29 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -57,6 +57,8 @@ On 15 August the Ministry of Information [interviewed Shambko Apps Group, a self
 
 [Digital transformation was named a priority of the Eswatini-Taiwan relationship](https://independentnews.co.sz/47014/business/digital-innovation-take-centre-stage-on-eswatini-taiwan-cooperation/) at a leaders' meeting in Taipei, with no instrument, figure or implementing agency named; the meeting's own date is not established.
 
+Three days earlier [about 150 delegates — industry leaders, entrepreneurs, policymakers and development partners — met at Manzini under a United Nations enterprise programme on cutting small-enterprise costs with digital tools](https://www.undp.org/eswatini/news/work-smarter-embrace-technology-cut-costs-grow), with no follow-on commitment, tool or funding line published.
+
 ## Gabon
 
 The open-innovation programme was launched on 14 July 2026 with the employers' federation, addressing a population the organisers put at 150 to 200 start-ups, with pre-selection on 24 July and a final on 4 August ([launch](https://www.gabonreview.com/kimba-connect-le-gabon-lance-son-premier-defi-national-dopen-innovation-pour-accelerer-la-transformation-numerique/)). The final was postponed on 6 August after participating start-ups objected to how the edition was organised, and a [revised agenda published on 11 August](https://agpgabon.ga/gabon-numerique-kimba-connect-le-bilan-de-la-premiere-preselection-dresse/) runs pitches to 24 August and moves the final to late September or early October. The same account gives the programme's first participation figures: 155 registered start-ups, 133 of which submitted against its 16 published challenges, and 66 shortlisted. The figures are the organisers' own and no laureate list or selection criteria has been published.
@@ -64,6 +66,10 @@ The open-innovation programme was launched on 14 July 2026 with the employers' f
 On 4 July, at the data-centre inauguration, the ministry and the facility's operator signed a memorandum giving ministry-supported start-ups professional hosting at preferential rates ([account](https://www.wearetech.africa/en/fils-uk/news/tech/gabon-launches-14-million-tier-iii-data-center-in-digital-sovereignty-push)). No rate, eligibility list or take-up figure has been published.
 
 The state digital incubator was not closed after all. It [has been placed under interim management, a deputy director general of the state holding that owns 30 per cent of its capital taking the post pending a new model, with a state takeover, conversion to a parapublic entity, absorption into the national innovation centre or supervision by the holding all under discussion](https://union.sonapresse.com/fr/sing-une-restructuration-en-vue-apres-le-depart-du-directeur-general); the digital economy ministry is to decide.
+
+## Gambia
+
+The hub estate is listed rather than surveyed. [Four hubs appear in a continental directory — a disruptive lab, a technology company, a startup incubator and a co-working network](https://new.afrilabs.com/index.php/hub_country/gambia/), alongside a [developer group chapter in the capital reporting about 992 members and running artificial-intelligence and civic-technology meetups](https://gdg.community.dev/gdg-banjul/). No membership, funding, cohort or survival figure is published for any of them, so what the base holds is a count of names.
 
 ## Ghana
 
@@ -125,6 +131,8 @@ The finance ministry, the African Development Bank and the regional body [launch
 ## Tanzania
 
 The government launched [InnoIP Tanzania](https://fullshangweblog.co.tz/2026/08/23/577246/), a programme to help more than 5,000 innovators register and protect their work as intellectual property. No registration count, budget line or closing date has been published behind the target.
+
+A private channel opened alongside the state ventures programme. The leading mobile operator entered a [three-year partnership with a global entrepreneurship network to reach 1,000 entrepreneurs and 40 ventures, with a first cohort of entrepreneur-support organisations due in October 2026](https://ippmedia.co.tz/the-guardian/business/read/vodacom-bridge-for-billions-partner-to-boost-startup-ecosystem-2026-09-07-142532). No commitment amount is stated, so what exists is a set of targets with no measurable resource behind them.
 
 ## Tunisia
 

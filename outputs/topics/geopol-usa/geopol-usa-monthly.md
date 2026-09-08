@@ -1,10 +1,10 @@
 ---
 title: US / hyperscaler activities — monthly update, August 2026
-compiled: 2026-09-07
-period: 2026-08-01 to 2026-09-07
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 subject: geopol.usa
 places: DJI; EGY; KEN; LSO; MUS; NGA; STP; SEN; UGA; ZWE
-record: e1b65193aff5
+record: 165dbb3799d4
 ---
 
 # US / hyperscaler activities: monthly update, August 2026

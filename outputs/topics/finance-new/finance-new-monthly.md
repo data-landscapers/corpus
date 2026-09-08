@@ -1,17 +1,21 @@
 ---
 title: New investments — monthly update, August 2026
-compiled: 2026-09-07
-period: 2026-08-01 to 2026-09-07
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 subject: finance.new
-places: BEN; BFA; CMR; TCD; COG; CIV; COD; EGY; SWZ; ETH; GHA; KEN; MWI; MUS; MAR; MOZ; NGA; RWA; ZAF; TZA; ZMB; ZWE
-record: 189d7b3bf42d
+places: AGO; BEN; BFA; CMR; TCD; COG; CIV; COD; EGY; SWZ; ETH; GHA; KEN; MWI; MUS; MAR; MOZ; NGA; RWA; ZAF; TZA; ZMB; ZWE
+record: 9f7364ceb20d
 ---
 
 # New investments: monthly update, August 2026
 
-*22 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*23 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
+
+## Angola
+
+The higher-education programme entered the base with its digital content itemised. A [US$150m loan and a US$50m education-partnership grant, phase one of a US$550m multi-phase programme closing 31 December 2028, carry US$10m to digitalise higher-education service delivery and build digital competency, US$15m to establish a national research and education network and upgrade university networks, and US$15m to modernise the sector management information system](https://c2a.portais.gov.ao/uploads/26pad_english_test_p179154_mpa_phase_1_gpe_qar_answered_74704772466e18d05d13fd_9552e1cf64.pdf). A [second results-based funding round of US$20,470,284 across seven higher-education institutions was announced on 4 September](https://angop.ao/noticias/educacao/sete-instituicoes-do-ensino-superior-recebem-mais-20-milhoes-de-dolares/), with no per-institution split or results framework published. The appraisal document is dated November 2023 and reaches the base through the government's own consultation portal, which is why a three-year-old commitment is new evidence here.
 
 ## Benin
 
@@ -41,6 +45,8 @@ The month's one new financing commitment is large and thinly documented. The gov
 
 The African Development Bank's e-government programme is meanwhile the [route by which several of the ministry's digital projects reach the market, through open tenders and calls for expressions of interest](https://digitalmag.ci/services-publics-financements-bad-des-projets-numeriques-en-cote-divoire-appels-doffres-et-avis-a-manifestation-dinteret/), with the winners of the two 30-company support programmes among the intended bidders. No award, value or project list is published.
 
+A further figure was attached to the digitalisation programme at the prioritisation workshop: [US$150m, about FCFA 88.5bn, stated as lender support for digitalising public services, against a state informatics company count of 315 services already digitalised](https://afriksoir.net/connectivite-des-infrastructures-publiques-la-cote-divoire-se-lance-dans-la-modernisation-de-son-administration/). It was stated at a workshop rather than in a financing instrument, and its relationship to the inclusive-digitalisation credit already ratified by decree is not explained — two figures for the same donor and the same purpose, with no statement of whether they are one commitment or two.
+
 ## DR Congo
 
 A development fund committed [US$32.8m into an upsized US$179m senior secured facility on 5 August](https://www.eaif.com/eaaif-accelerates-africas-digital-transformation-with-a-combined-usd-82-8-million-commitment-to-eastcastle-drc-and-liquid-intelligent-technologies/), funding 728 new passive towers to take the network to 1,800, 70% of them rural, with solar and battery upgrades. [The same lender committed US$30m to the same borrower in 2023, when the network stood at 1,072 active towers](https://www.eaif.com/eaaif-accelerates-africas-digital-transformation-with-a-combined-usd-82-8-million-commitment-to-eastcastle-drc-and-liquid-intelligent-technologies/).
@@ -60,6 +66,8 @@ The month's finance entry is an allegation rather than a commitment. Corruption 
 ## Ghana
 
 Two new commitments enter the base this month, one domestic and one from a development partner. The government [put GH¢100 million, about US$8.88 million, behind the Ghana National Research Fund for 2026](https://shore.africa/2026/08/31/ghana-ai-research-fund/), separately from its US$250 million commitment to a national artificial-intelligence computing centre; no disbursement or call for proposals is reported against the allocation. The UN capital development fund [began a second phase with a Ghanaian microcredit company on a US$200,000 grant it expects to catalyse US$1 million in loans and savings](https://gna.org.gh/2026/09/uncdf-fido-begin-phase-two-partnership-to-expand-digital-finance-for-msmes/), after a first phase on US$30,000 that reached 470 enterprises across three regions and recorded 1,988 youth loans totalling GHS494,760.
+
+A third, much smaller commitment closed the month: a Ghanaian remittance startup moving money from the United States to Ghana [raised US$333,000 from a blockchain foundation's community fund, to launch an international payment card usable online and in stores](https://www.wearetech.africa/en/fils-uk/brief/brief-simple/ghana-s-seevcash-raises-333-000-launches-visa-card). The commitment date is not stated in the source and no valuation, corridor volume or user count is published.
 
 ## Kenya
 
@@ -105,6 +113,8 @@ One programme opened in the window, and it is not yet a commitment to anybody. O
 ## Tanzania
 
 A Korean development cooperation fund [committed US$170m to build an AI and digital technology training institute, approved at its 159th management committee and announced on 23 August 2026](https://techafricanews.com/2026/08/25/south-korea-approves-170-million-loan-ai-digital-training-tanzania/) - the fund's first AI project, with the institute to offer four programmes. No site, start date or disbursement schedule is published.
+
+The women's digital-finance programme launched on 2 September turns out to have been committed a year and a half earlier, and inside a much larger facility: a [US$160m development bank senior corporate loan to the telecoms group approved on 31 January 2025, of which a US$2.5m grant was earmarked for financial literacy and credit access for 34,000 women-led businesses across Madagascar, Tanzania and Senegal](https://afdb.africa-newsroom.com/press/african-development-bank-partners-with-axian-telecom-to-accelerate-africas-digital-transformation?lang=en). So the September announcement is the launch of an earmarked component rather than new capital, and no tenor, disbursement schedule or Tanzanian share is published for either.
 
 ## Zambia
 

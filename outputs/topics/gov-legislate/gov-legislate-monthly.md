@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — monthly update, August 2026
-compiled: 2026-09-07
-period: 2026-08-01 to 2026-09-07
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 subject: gov.legislate
 places: DZA; AGO; BDI; CMR; CPV; TCD; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; UGA; ZWE
-record: 774fffe99a66
+record: a89336061986
 ---
 
 # Legislation and regulation: monthly update, August 2026
@@ -79,6 +79,8 @@ A third route opened on 10 August, outside both: a party draft, described by its
 
 On 4 August the Ministry of Justice gazetted a deferral of the title-based property register for one Sohag survey section by a year to July 2027.
 
+The data-protection regulations went to the market before they bite. The ministry's investment conference on 7 September [carried a session on the executive regulations alongside ICT investment, artificial intelligence and startup finance](https://egyptinnovate.com/en/news/minister-of-communications-to-inaugurate-tech-invest-egypt-6-next-monday), seven weeks before the grace period closes on 1 November. No guidance, decision or transfer licence issued under them is on the record.
+
 ## Equatorial Guinea
 
 The full text of the 2024 social media and computer crime law reached the base this month: it [criminalises computer fraud, identity theft and false news online](https://www.guineaecuatorialpress.com/noticias/ley_por_la_que_se_regula_el_uso_de_las_redes_sociales_los_delitos_informaticos_y_la_ciber_delincuencia) and creates the national cybersecurity agency the ledger has carried as an entity with no premises, staffing or budget on record. The government [reasserted the law's full force on 1 July amid rising complaints, naming neither artificial intelligence nor deepfakes](https://www.guineaecuatorialpress.com/noticias/el_gobierno_recuerda_la_plena_vigencia_de_la_ley_que_regula_el_uso_de_las_redes_sociales_los_delitos_informaticos_y_la_ciber_delincuencia). Alongside it the information minister [presented a press-law reform bill on 6 August regulating digital media and cable television for the first time](https://ahoraeg.com/politica/2026/08/07/el-gobierno-propone-por-primera-vez-regular-los-medios-digitales-y-la-tv-por-cable-en-la-nueva-ley-de-prensa/), now under committee review with no adoption date and no bill text published. The Chamber of Deputies' own account of the sitting shows it was not presented alone: [a separate Copyright and Related Rights bill went to the chamber the same day](https://www.guineaecuatorialpress.com/noticias/comienza_en_la_camara_de_los_diputados_varios__proyectos_de_leyes), implementing Equatorial Guinea's 1997 Berne Convention accession and its 2015 Bangui Agreement obligations under OAPI, so the copyright provisions are a companion instrument rather than part of the audiovisual bill.
@@ -114,6 +116,8 @@ A second instrument was validated on [31 July 2026: the State Intelligence Servi
 ## Ghana
 
 The ministry took industry comment on 27 July on the [draft digital economy and innovation development fund bill](https://amchamghana.org/2026/07/30/amcham-ghana-joins-key-stakeholder-talks-on-new-digital-economy-fund/); the levy rate and governance structure are unestablished, and the draft is not published. Speaking at an artificial-intelligence summit on 29 July, the ministry named a data harmonisation Act and a proposed data exchange Act as the enabling layer under a ten-year implementation plan — the first mention on file of an exchange statute distinct from harmonisation, and neither has a published draft.
+
+The month closed on a ministerial account of the legislative programme itself: under a World Bank-backed acceleration project, [a review of fifteen pieces of ICT legislation is about half complete, with stakeholder consultation already finished on part of it](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/).
 
 ## Guinea
 
@@ -196,6 +200,8 @@ Two instruments moved on the same week, one drafting and one made. The labour mi
 ## Namibia
 
 The Data Protection Bill has not moved. It [is still in finalisation and has not been tabled](https://www.namibian.com.na/govt-to-introduce-data-protection-bill-in-september/), against the September introduction the ministry had named. The bill has been described as being finalised across successive periods, and the electronic identity rollout it would govern begins in that same month.
+
+The instrument the accreditation was granted under is now held in full: [General Notice 953 of 2025 under the Electronic Transactions Act, brought into force on 15 June 2026, sets the regulator's accreditation regime for security products and services and for the certification service providers that supply them](https://www.lac.org.na/laws/annoREG/Electronic%20Transactions%20Act%204%20of%202019-Regulations%202025-953.pdf). No accreditation register, fee schedule or list of accredited products is published alongside it, so who else may apply and on what terms is established while who has is not.
 
 ## Niger
 

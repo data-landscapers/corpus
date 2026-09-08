@@ -1,10 +1,10 @@
 ---
 title: Research institutions — monthly update, August 2026
-compiled: 2026-09-07
-period: 2026-08-01 to 2026-09-07
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 subject: capacity.research
 places: CAF; COM; COG; CIV; EGY; ETH; GHA; KEN; LBY; MOZ; NER; RWA; SLE; ZAF; TZA; UGA
-record: 1c75c36bc187
+record: efd77bb8f0ee
 ---
 
 # Research institutions: monthly update, August 2026
