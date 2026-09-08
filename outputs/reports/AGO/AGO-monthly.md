@@ -1,11 +1,11 @@
 ---
 title: Angola — monthly update, August – September 2026
-compiled: 2026-09-05
-period: 2026-08-01 to 2026-09-05
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 place: AGO
-ledger_rows: 43
+ledger_rows: 46
 not_held: 7
-record: e298ce1be085
+record: 18195500ed87
 ---
 
 # Angola: monthly update, August – September 2026
@@ -62,6 +62,13 @@ The standards estate entered the record this month rather than moving in it. The
 <!-- narrative: finance--finance-budget -->
 August ended with three presidential authorisations in a single week. The president [authorised US$210.91 million for an integrated ecosystem of state digital services](https://angop.ao/noticias/economia/governo-investe-usd-210-milhoes-na-digitalizacao-da-administracao-publica/), [US$13 million for the public administration interoperability platform](https://pti.ao/pr-autoriza-13-milhoes-de-dolares-para-plataforma-de-interoperabilidade-da-administracao-publica/) and [US$4.6 million to strengthen state cybersecurity](https://diariodosnegocios.com/governo-investe-46-milhoes-de-dolares-para-reforcar-ciberseguranca-do-estado/). These are authorisations to spend rather than money spent, and they land against a cyber-security appropriation the ledger recorded falling earlier in the year. Nothing in the record held sets out what the integrated ecosystem consists of, who will build it, or by when.
 <!-- /narrative -->
+### New investments
+
+<!-- narrative: finance--finance-new -->
+
+
+The higher-education programme entered the base with its digital content itemised. A [US$150m loan and a US$50m education-partnership grant, phase one of a US$550m multi-phase programme closing 31 December 2028, carry US$10m to digitalise higher-education service delivery and build digital competency, US$15m to establish a national research and education network and upgrade university networks, and US$15m to modernise the sector management information system](https://c2a.portais.gov.ao/uploads/26pad_english_test_p179154_mpa_phase_1_gpe_qar_answered_74704772466e18d05d13fd_9552e1cf64.pdf). A [second results-based funding round of US$20,470,284 across seven higher-education institutions was announced on 4 September](https://angop.ao/noticias/educacao/sete-instituicoes-do-ensino-superior-recebem-mais-20-milhoes-de-dolares/), with no per-institution split or results framework published. The appraisal document is dated November 2023 and reaches the base through the government's own consultation portal, which is why a three-year-old commitment is new evidence here.
+<!-- /narrative -->
 
 ## ICT Infrastructure
 
@@ -87,6 +94,8 @@ The Executive's first answer to the National Assembly on critical-infrastructure
 A regional preparatory meeting on radiocommunications opened in Luanda on 3 August, seven days into the outage and two before it closed, with the resilience of telecommunications infrastructure on its agenda.
 
 Check Point Research's July telemetry [puts Angolan organisations at 5,714 attacks a week against an African average of 3,237](https://techtrends.africa/ransomware-attacks-double-year-over-year/), the highest of the four African markets it broke out — the vendor's installed base, not a national measurement.
+
+The year's national technology fair took cybersecurity as its theme rather than its subject. Opening the seventeenth edition at the telecommunications institute on 3 September under the heading of [cybersecurity and digital trust in the era of artificial intelligence, the telecommunications minister argued the country's digital future depends on research, training and building national solutions](https://angop.ao/noticias/economia/ministro-defende-aposta-na-investigacao-para-futuro-digital-de-angola/). It is a ministerial position rather than an instrument, and it sits over a strategy, a council and a centre that the base still records as having no operating account.
 <!-- /narrative -->
 
 ## DPI
@@ -122,6 +131,8 @@ The education ministry made school enrolment independent of documentation. Circu
 
 <!-- narrative: dpi--dpi-mis -->
 The education ministry and a domestic technology firm [expanded their work on the integrity of the national education database](https://angop.ao/noticias/educacao/med-reforca-a-integridade-da-base-nacional-de-dados/) under a five-year, thirty-country data challenge, with the ministry's planning office as counterpart; [the initiative was launched in Luanda from 5 to 7 August](https://adeanet.org/en/news/angola-embarks-journey-transform-education-data-systems). No data-quality baseline, scope or completion date is published, and no contract or programme document is held.
+
+The research and education network is funded rather than only presented: [US$15m within the tertiary education project to establish it and upgrade university networks, with the draft network recorded as under way in the lender's April 2026 implementation report](https://c2a.portais.gov.ao/uploads/26pad_english_test_p179154_mpa_phase_1_gpe_qar_answered_74704772466e18d05d13fd_9552e1cf64.pdf). No operator, governance model, connection count or commissioning date is published, so what has moved is the money rather than the network.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -129,6 +140,8 @@ The education ministry and a domestic technology firm [expanded their work on th
 The government-systems movement in the window is a procurement decision rather than a build. The executive [authorised an integrated digital transformation programme for the public finances by presidential order, as a direct award, covering modernisation of finance ministry services and a restructuring of state bodies and framed as raising revenue collection and cutting bureaucracy](https://correiokianda.info/executivo-preve-gastar-cerca-mais-de-2-mil-milhoes-de-kwanzas-para-digitalizar-financas-publicas/). What a direct award removes is the part of the record a reader could check: the supplier, the scope document and the delivery schedule are all unpublished, so the programme enters the ledger as an intention with a price attached and nothing behind it. Against that, the one government system already in service produced its first operating figures: the tax authority reported on 23 August that [51,245 large taxpayers and state suppliers had joined electronic invoicing since November 2025, issuing 36,341,801 invoices at a daily run-rate near 400,000 and peaking around 700,000, through 255 automatically certified software packages](https://angop.ao/en/noticias/economia/mais-de-50-mil-contribuintes-aderem-a-facturacao-electronica-em-angola/). The figures are the collector's own and the mandate reaches general and simplified-regime taxpayers only in 2027, so this is the compliant half of the base rather than the base.
 
 The health ministry's recruitment competition shows what online registration costs when it goes wrong. Of more than 420,000 who registered in July, [more than 170,000 were excluded for defective registration, leaving more than 262,000 to sit tests for 6,030 posts on 21-25 September, sat simultaneously nationwide and marked online](https://novojornal.co.ao/sociedade/detalhe/minsa-seleccionou-262-mil-candidatos-para-concurso-publico-mas-excluiu-170-mil-por-ma-inscricao-74185.html); a complaints window ran from 25 to 31 August.
+
+The in-person counterpart to the missing online service inventory does publish numbers. The [one-stop citizen service network stands at 16 subunits with eight more committed by 2027, units at Kilamba and Cuito due this year, and recorded 1.49m visits in the first half of 2026 and Kz2.47bn paid to the treasury](https://www.africa-newsroom.com/press/angola-governante-anuncia-a-construcao-de-mais-oito-subunidades-do-siac-ate-2027?lang=pt). They are the secretary of state's own figures, published without a service breakdown, a waiting-time measure or any online equivalent — so the state can say how many people came through a door and still not say what it does online.
 <!-- /narrative -->
 
 ## Digitalisation
