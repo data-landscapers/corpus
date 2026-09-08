@@ -3,9 +3,9 @@ title: South Sudan — monthly update, August – September 2026
 compiled: 2026-09-08
 period: 2026-08-01 to 2026-09-08
 place: SSD
-ledger_rows: 33
+ledger_rows: 34
 not_held: 12
-record: e0bb6172a915
+record: af63a9a0757c
 ---
 
 # South Sudan: monthly update, August – September 2026
@@ -17,7 +17,7 @@ record: e0bb6172a915
 <!-- narrative: summary -->
 Identity documents and training were the month's deliverables. School-based national identity card registration [opened for examination candidates at a Juba secondary school on 4 August, with expansion stated](https://www.onecitizendaily.com/index.php/2026/07/13/thousand-begin-collecting-national-identity-cards-in-greater-yei/), the outgoing immigration chief [gave passport stock and tenure figures at the handover of the directorate](https://www.sudanspost.com/outgoing-immigration-chief-says-he-tackled-passport-id-card-shortages/), and the education ministry [launched an education-in-emergencies management information system after training 35 master trainers](https://www.unesco.org/en/articles/south-sudan-launches-new-education-emergencies-data-system-strengthen-crisis-education-response).
 
-Connectivity got more expensive and no easier to check. The information minister [publicly defended the telecommunications tariff increase on 24 August](https://www.radiotamazuj.org/en/news/article/information-minister-ateny-defends-telecom-tariff-increase), which the regulator maintains is an exchange-rate revision rather than a tariff rise, and the revised rates are still unpublished. Regionally, East African states [opened a joint bank account to fund a communications-satellite feasibility study, with deposits due by 30 September](https://chimpreports.com/east-african-states-open-bank-account-to-fund-joint-communications-satellite-study/). A national payment system bill [went through a five-day validation workshop in Juba](https://itweb.africa/article/south-sudan-pushes-cashless-transition/nWJad7bNDyL7bjO1), and an ICT authority [is being established while the legislation for it is still awaited](https://www.eyeradio.org/govt-set-to-establish-ict-authority-to-regulate-internet-service-providers-ateny/).
+Connectivity got more expensive and no easier to check. The information minister [publicly defended the telecommunications tariff increase on 24 August](https://www.radiotamazuj.org/en/news/article/information-minister-ateny-defends-telecom-tariff-increase), which the regulator maintains is an exchange-rate revision rather than a tariff rise, and the revised rates are still unpublished. Regionally, East African states [opened a joint bank account to fund a communications-satellite feasibility study, with deposits due by 30 September](https://chimpreports.com/east-african-states-open-bank-account-to-fund-joint-communications-satellite-study/). A national payment system bill [went through a five-day validation workshop in Juba](https://itweb.africa/article/south-sudan-pushes-cashless-transition/nWJad7bNDyL7bjO1), and an ICT authority [is being established while the legislation for it is still awaited](https://www.eyeradio.org/govt-set-to-establish-ict-authority-to-regulate-internet-service-providers-ateny/). The one government payment channel already running went the other way: the agriculture ministry [acknowledged about six pending cash-transfer cycles on 4 August](https://www.eyeradio.org/statement-ministry-of-agriculture-and-food-security-reassures-shabaka-meisha-beneficiaries-on-cash-transfer-payment-delays/).
 <!-- /narrative -->
 
 ## Governance
@@ -97,6 +97,8 @@ The largest registration actually carried out in the window was not the state's.
 
 <!-- narrative: dpi--dpi-pay -->
 Financial technology gained a supporter rather than a system. Support for the sector [was reported in August from a foreign government](https://www.itweb.africa/article/uk-supports-south-sudan-fintech/dgp45qaBlN9vX9l8), with no value, instrument, recipient or programme document held. Separately the national payment system bill [went through a five-day validation workshop in Juba](https://itweb.africa/article/south-sudan-pushes-cashless-transition/nWJad7bNDyL7bjO1) and remains a bill.
+
+The rail that already moves government money to people stopped moving it. On 4 August the agriculture ministry [acknowledged about six pending payment cycles under the Shabaka Meisha safety net, attributing them to temporary local-currency shortages and administrative steps and giving no resumption date](https://www.eyeradio.org/statement-ministry-of-agriculture-and-food-security-reassures-shabaka-meisha-beneficiaries-on-cash-transfer-payment-delays/), noting that an earlier six-month backlog had been cleared in July 2025. It is the country's only government-to-person channel of any size, and it is donor-financed.
 <!-- /narrative -->
 ### Registries
 
