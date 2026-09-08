@@ -1,11 +1,11 @@
 ---
 title: Equatorial Guinea — monthly update, August – September 2026
-compiled: 2026-09-04
-period: 2026-08-01 to 2026-09-04
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 place: GNQ
-ledger_rows: 24
+ledger_rows: 26
 not_held: 6
-record: 1d9d9287a9b4
+record: 28810412ef8f
 ---
 
 # Equatorial Guinea: monthly update, August – September 2026
@@ -36,6 +36,13 @@ The full text of the 2024 social media and computer crime law reached the base t
 
 <!-- narrative: governance--gov-standards -->
 A quality-of-service regulation of 2018 is [confirmed in force on the regulator's own legislation index](https://ortelge.com/legislacion/reglamentos/). Only its title and date are held, not its text; the same index lists an inspection and sanctions regulation of 2020 and a broadband-market update of February 2026, neither of which the ledger carries as a row.
+<!-- /narrative -->
+### Public debate and participation in policymaking
+
+<!-- narrative: governance--gov-discourse -->
+
+
+Two enforcement bodies agreed to exchange information rather than to publish any. The attorney general's office and the national anti-corruption commission [agreed a permanent coordination mechanism on 3 September: institutional liaison points for continuous contact, an information-exchange protocol and periodic reviews](https://realequatorialguinea.com/sociedad/fiscalia-y-comision-anticorrupcion-pactan-coordinacion-permanente-para-luchar-contra-la-corrupcion-en-guinea-ecuatorial/). No protocol text, data categories, safeguards or first review date is published, and neither body publishes a caseload against which any of it could be read.
 <!-- /narrative -->
 
 ## ICT Infrastructure
@@ -114,6 +121,8 @@ INEGE opened a three-day validation workshop on 27 July at the Ministry of Finan
 Census preparation was validated a second time in four weeks without an enumeration date being set. The scientific committee [validated the project document, the resource-mobilisation strategy and the communication strategy for the fifth population and housing census and the first agricultural census](https://ahoraeg.com/politica/2026/08/20/el-comite-cientifico-valida-los-documentos-estrategicos-del-v-censo-de-poblacion-y-del-i-agropecuario/), reading into the record the 2025 decree ordering both operations and the resolution that created the committees. The project document is stated to fix objectives, methodology, timetable and the agricultural sample size; none of it is published, and neither is a date on which anyone will be counted.
 
 The fifth interministerial council of the year [adopted a National Quality Assurance Framework for official statistics on 25 August, a standardised protocol for the collection, processing and dissemination of socio-economic data presented as aligning national method with international standards](https://ahoraeg.com/politica/2026/08/25/el-gobierno-afianza-la-disciplina-fiscal-y-la-transparencia-en-el-quinto-consejo-interministerial-del-2026/); the framework text is not published.
+
+The statistics institute went out to the ministries rather than waiting for their returns. A [ministry-by-ministry supervision tour of statistical services began on 2 September at the interior and education ministries and runs to 9 September, ordered by the national statistics council's eighth session of 27 August, to assess each service's state and consolidate the national statistical system](https://realequatorialguinea.com/inege/inege-inicia-una-gira-por-los-servicios-estadisticos-de-los-ministerios-para-consolidar-el-sistema-estadistico-nacional/). No findings, service inventory or report from the tour is published, and the account is the institute's own.
 <!-- /narrative -->
 
 ## Geopolitics

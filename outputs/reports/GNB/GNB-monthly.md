@@ -1,11 +1,11 @@
 ---
 title: Guinea-Bissau — monthly update, August – September 2026
-compiled: 2026-09-04
-period: 2026-08-01 to 2026-09-04
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 place: GNB
-ledger_rows: 3
+ledger_rows: 4
 not_held: 2
-record: b635b8d93c61
+record: e449831b478a
 ---
 
 # Guinea-Bissau: monthly update, August – September 2026
@@ -37,4 +37,14 @@ The national digitalisation programme [launched nationally in August, at US$60m,
 
 <!-- narrative: dpi--dpi-registry -->
 The register moved without the electorate changing. The electoral support office [handed the updated register to the elections commission in physical and electronic form for the 30 August referendum, recording 966,152 registered voters — unchanged from the last update](https://ang.gw/referendo-30-de-agosto-gtape-entrega-cadernos-eleitorais-a-cne/), having also [issued 25,146 replacement voter cards in a 30-day nationwide operation from 13 July to 11 August through 51 brigades covering every region](https://ang.gw/gtape-anuncia-emissao-de-25-146-cartoes-do-eleitor-da-2a-via/). So the month's work was replacing credentials rather than adding registrants, and no audit or de-duplication statement accompanies the handover.
+<!-- /narrative -->
+
+## Inclusion
+
+### Digital divides
+
+<!-- narrative: inclusion--include-divides -->
+
+
+The first measurement of adolescent access the base holds is academic rather than official. A [survey of 2,039 Bissau adolescents finds computer and internet access limited and unevenly distributed, skewed against girls and against pupils in state schools, with the pandemic having exposed rather than created the gap](https://hdl.handle.net/20.500.11815/8043). It covers the capital rather than the country, and nothing official exists at any date to set beside it — which is why a doctoral thesis is the best evidence this report has on who among the young can get online.
 <!-- /narrative -->

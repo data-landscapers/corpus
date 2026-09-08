@@ -1,11 +1,11 @@
 ---
 title: Guinea — monthly update, August – September 2026
-compiled: 2026-09-07
-period: 2026-08-01 to 2026-09-07
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 place: GIN
-ledger_rows: 32
+ledger_rows: 33
 not_held: 4
-record: f851c4eb55db
+record: 7ce870d76da2
 ---
 
 # Guinea: monthly update, August – September 2026
@@ -105,6 +105,8 @@ Health information systems here are being built by private operators rather than
 The treasury [began rolling out Œil du Trésor](https://mediaguinee.com/2026/07/gestion-des-fonds-publics-avec-transparence-le-tresor-public-accelere-la-digitalisation-a-travers-la-plateforme-oeil-du-tresor/), a platform for prefectural treasurers to submit and track fund calls. No cost, vendor or completion date was disclosed.
 
 Two more of the administration's own paper processes went onto systems in August. [GEME, an electronic system for managing state mission orders, was launched on 13 August](https://guineejet.info/guinee-la-gestion-des-missions-de-letat-se-digitalise/) to control costs and improve accountability; no custodian, coverage, cost baseline or saving target is stated. The next day the President said he would [personally oversee GEDA, the decrees-and-orders management tool](https://guineenews.org/2026/08/14/decrets-et-arretes-mamadi-doumbouya-reprend-personnellement-les-commandes-de-geda/), to speed administrative processing, tying it to accelerating the Simandou 2040 programme. Personal oversight by the head of state is not an institutional control, and no throughput figure or publication rule is stated for either system.
+
+A second citizen-facing platform launched, and one already running was presented abroad as evidence. The youth fund [launched a national platform for youth information, orientation, training, support and job placement, live on the web and on one mobile app store with the other to follow, with a national call for partners](https://guineenews.org/wp-content/uploads/2026/09/communique-de-press-FONIJ-2.pdf) — no user count, vacancy volume, placement figure or funding arrangement published. Days later the anti-corruption agency [took the procurement platform and the mining cadastre to the United Nations convention review group at Vienna as evidence of transparency reform](https://guineenews.org/2026/09/04/a-vienne-la-guinee-porte-sa-voix-contre-la-corruption-et-plaide-pour-une-gouvernance-plus-transparente/), which is the first time the base records either system being used as an argument rather than described as a service.
 <!-- /narrative -->
 
 ## Digitalisation

@@ -1,11 +1,11 @@
 ---
 title: Algeria — monthly update, August – September 2026
-compiled: 2026-09-06
-period: 2026-08-01 to 2026-09-06
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 place: DZA
-ledger_rows: 35
+ledger_rows: 37
 not_held: 7
-record: e48e0220effd
+record: b4db9cba697e
 ---
 
 # Algeria: monthly update, August – September 2026
@@ -89,6 +89,8 @@ Two registry developments pulled in opposite directions. The education ministry 
 
 <!-- narrative: dpi--dpi-mis -->
 Two internal systems moved in different registers. The tax administration [published its first user guide for electronic payment on its platform, setting out seventeen rejection reasons](https://www.wearetech.africa/en/fils-uk/news/public-management/algeria-orders-fast-tracking-of-digital-tax-data-integration) â€” a document describing the failure modes of a live system, which is more than most such platforms disclose. And the interior and transport ministry [signalled activation of tachograph monitoring of professional transport](https://www.echoroukonline.com/%D8%A7%D9%84%D8%AA%D8%A7%D9%83%D9%88%D8%BA%D8%B1%D8%A7%D9%81-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D9%86%D8%B5-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86), with no start date, fleet scope or data-handling rule stated.
+
+A second joint session of the digitalisation high commission and the domestic trade ministry [took the data sources themselves as its subject — how they are produced, updated and kept consistent — towards a unified digital mechanism for regulating the national market](https://www.aps.dz/en/algeria/education-technology/mtr4nrdp-benmouloud-abdellatif-chair-second-meeting-to-establish-unified-digital-mechanism-for-national-market-regulation). It is the first account the base holds here of provenance being treated as the problem to solve rather than the platform.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -137,6 +139,8 @@ The money attached to the President of the Republic's Prize for the best start-u
 
 <!-- narrative: inclusion--include-access -->
 Consumer cloud storage prices were [raised for new subscribers from 27 July 2026](https://www.africaninsider.com/business/google-one-gets-more-expensive-in-africa-nigerian-users-face-52-hike/), in this market alongside two others on the continent. One provider's consumer tariff is thin evidence for affordability, and the account gives no local subscriber base against which to read it. It is recorded because it is the only dated consumer cloud price the base holds here, and a price that moves is more use than a market with no price at all.
+
+The social card's working group reached its fifth session, [setting the card's indicators and data and building towards a unified database, with the President's June 2026 three-month deadline putting delivery before the end of September](https://ecotimesdz.com/carte-sociale-nationale-algerie-hcn/). The deadline is the President's rather than the project's, and no delivery, data-sharing instrument, beneficiary count or governing decree is published — so a database that is to unify social data is three weeks from a deadline with nothing published about what it will contain.
 <!-- /narrative -->
 
 ## Geopolitics
