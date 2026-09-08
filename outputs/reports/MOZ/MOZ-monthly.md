@@ -1,11 +1,11 @@
 ---
 title: Mozambique — monthly update, August – September 2026
-compiled: 2026-09-05
-period: 2026-08-01 to 2026-09-05
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 place: MOZ
-ledger_rows: 60
+ledger_rows: 61
 not_held: 19
-record: c7b61224dfc2
+record: f7e65d27d207
 ---
 
 # Mozambique: monthly update, August – September 2026
@@ -116,11 +116,15 @@ Separately the government [opened discussions with a local partner on a mobile d
 
 <!-- narrative: dpi--dpi-pay -->
 Payments moved in two directions. The central bank [set limits on payments abroad made with bank cards, revoking its December 2025 notice](https://www.bancomoc.mz/en/media/highlights/notice-no-4-gbm-2026-establishes-limits-on-payments-abroad-made-using-bank-cards-and-revokes-notice-no-9-gbm-2025-of-9-december/) â€” a restriction on what a card can do rather than an extension of it. In the other direction a health agency [reported cumulative disbursement of US$14.4m to health workers over mobile money for campaign payments](https://techafricanews.com/2026/08/11/who-mozambique-channels-14-4m-through-mobile-money-for-health-campaigns/), the largest use of the mobile-money rail for public payment the base holds here.
+
+The public payroll became a credit rail. A [memorandum between the dominant mobile money operator, a microbank and the state financial information centre puts a salary-advance product on the operator's short code for more than 380,000 civil servants](https://techreviewafrica.com/news/7081/m-pesa-maximo-microbanco-and-cedsif-open-formal-credit-access-to-380000-mozambican-civil-servants). It is a memorandum rather than a live product: no launch date, interest rate, advance ceiling, repayment mechanism or default treatment is published, and nothing describes how payroll data would reach the lender.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
 The tax authority made the fiscal clearance certificate available online from 3 August with a ten working-day issuance ceiling and a published complaints address ([authority account](https://mznews.co.mz/en/autoridade-tributaria-lanca-solicitacao-online-da-certidao-de-quitacao-fiscal-a-partir-de-3-de-agosto/)).
+
+The agency's own account of the citizen portal names what it rests on: [the government network, the government cloud storage platform, state electronic payments and digital identity](https://pt.linkedin.com/posts/atdi-ip_atdi-apresenta-portal-do-cidad%C3%A3o-e-coloca-activity-7501551667520368640-SmSp). Which of those is actually in service behind it is not stated, and no service count beyond about 140, user figure or launch date accompanies the presentation — so the dependencies are published and their readiness is not.
 <!-- /narrative -->
 
 ## Technology

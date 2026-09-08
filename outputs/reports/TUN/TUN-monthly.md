@@ -1,11 +1,11 @@
 ---
 title: Tunisia — monthly update, August – September 2026
-compiled: 2026-09-06
-period: 2026-08-01 to 2026-09-06
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 place: TUN
 ledger_rows: 44
 not_held: 6
-record: c7d33015205d
+record: 791d0fb4154f
 ---
 
 # Tunisia: monthly update, August – September 2026
@@ -38,6 +38,8 @@ Tunisia chairs and convenes rather than signs. It [was elected chair of the Arab
 
 <!-- narrative: governance--gov-discourse -->
 Parliament's own case file arrived, and it makes the revision of the 2022 cyber-offences decree-law measurable rather than announced. The bill was [deposited on 20 February 2024, referred to committee on 10 April 2025, carries 38 sponsors and has not been voted](https://www.arp.tn/loi/project/4139); its operative text — the amendments themselves — is not published on the assembly's own page, which is a dated absence rather than an unsought one. [The committee named the revision its top priority in January 2026](https://www.webdo.tn/fr/actualite/national/tunisie-le-parlement-place-la-revision-du-decret-54-en-tete-de-ses-priorites/392137/); two and a half years after deposit, that priority has produced no vote.
+
+The parliamentary record of the amending bill is now held, and it dates the revision further back than the committee's January priority statement suggested: the bill was [before the general legislation committee on 22 October 2025, still under review and unpassed](https://www.arp.tn/reunion/details/7412). A revision named a top priority in January 2026 had by then already been in committee for three months, and it has not passed since.
 <!-- /narrative -->
 
 ## Finance
@@ -101,6 +103,8 @@ The social-housing application platform [has a completion timetable, set at a fo
 
 <!-- narrative: dpi--dpi-mis -->
 The health estate reported volume and the education estate reported failure. [120,000 remote examinations were carried out across 26 hospitals](https://www.lapresse.tn/2026/08/25/hopital-numerique-120-000-examens-a-distance-realises-dans-26-hopitaux/), with no period, denominator or specialty breakdown stated. The education ministry's school-life platform, launched at the start of the month, was within three weeks [reported failing during the enrolment period](https://www.lapresse.tn/2026/08/26/viescolaire-education-tn-pourquoi-linscription-en-ligne-vire-au-parcours-du-combattant/), with no service-availability figure, incident account or fallback route published.
+
+The school platform's first mass use is measured, and the measurement is mid-campaign. Remote enrolment reached [1.691m pupils by 3 September 2026, 81% of those eligible, of whom 1.587m — 76% of the eligible total — had also paid the fees](https://directinfo.webmanagercenter.com/2026/09/03/rentree-scolaire-2026-2027-en-tunisie-plus-de-169-million-deleves-inscrits-a-distance/). The shares are the education ministry's own, and nothing is published about the fifth of eligible pupils who had not enrolled online — which is the number that would say whether the platform is a route or a requirement.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 

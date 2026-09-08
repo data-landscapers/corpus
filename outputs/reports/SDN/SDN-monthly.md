@@ -1,11 +1,11 @@
 ---
 title: Sudan — monthly update, August – September 2026
-compiled: 2026-09-05
-period: 2026-08-01 to 2026-09-05
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 place: SDN
 ledger_rows: 37
 not_held: 5
-record: 71574d549a57
+record: 2bd410af9d83
 ---
 
 # Sudan: monthly update, August – September 2026
@@ -72,6 +72,8 @@ Satellite connectivity moved from contested to locally severed. An armed group [
 [The National Investment Authority said on 4 August 2026](https://sudanhorizon.com/the-national-investment-authority-in-the-process-of-electronic-single-window/) that a fully electronic single window for investment would operate only once all investment-related entities are linked electronically, with no list, sequence or date given — a precondition stated while the Authority is itself still building its first website.
 
 Two further systems were directed rather than delivered. The national economic management committee, chaired by the Prime Minister, [directed the finance ministry and the central bank to expedite completion of the bank's electronic application system with the digital transformation ministry, to strengthen oversight of financial transactions](https://sudanhorizon.com/national-economic-management-committee-urges-finance-ministry-to-expedite-electronic-system-completion/) — no description of the system, its scope or its data is given beyond the instruction to finish it. And the agricultural bank said a [digital agricultural platform developed with the agriculture and digital transformation ministries is expected to launch soon](https://sudanhorizon.com/agricultural-bank-announces-start-of-second-phase-financing-procedures-for-farming-season-by-end-of-month/), alongside second-phase season financing opening by end-August and a grain-silo agreement with a Chinese company; no launch date, function or farmer register is stated.
+
+The first service the base holds that names agency-to-agency links went live. A [needs-disclosure service on the national platform lets an investor complete the step digitally, and wires the industry, transport, agriculture and customs bodies to each other electronically](https://atheernews.net/222149/). The links are asserted in the launch announcement and nothing else: no data-sharing instrument, service volume or processing time is published.
 <!-- /narrative -->
 ### Digital Identity and CRVS
 
@@ -94,6 +96,8 @@ An address register remains an obligation rather than a system. The regulator's 
 
 <!-- narrative: dpi--dpi-mis -->
 [The Civil Service Diwan launched Bayan, an integrated national HR database for every public employee's record, on 6 August 2026](https://www.sudanakhbar.com/1822457), described as integrable with digital ID, e-signature, PKI, the Kafa'a recruitment platform and the finance ministry's Wafi payroll platform. No coverage, cost or data-protection arrangement was disclosed for a national HR database stood up during an active war.
+
+The civil-service platform's purpose was argued rather than measured. A commentary holds that its value lies in [removing manipulation and favouritism from civil-service appointments rather than in the digitisation itself](https://alhakim.net/142125). It is an opinion piece, and the base holds no appointment volume, grievance count or audit against which the claim could be tested — which is the same gap the platform's own launch left.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
