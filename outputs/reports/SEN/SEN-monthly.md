@@ -1,11 +1,11 @@
 ---
 title: Senegal — monthly update, August – September 2026
-compiled: 2026-09-07
-period: 2026-08-01 to 2026-09-07
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 place: SEN
-ledger_rows: 51
+ledger_rows: 54
 not_held: 5
-record: 986481b7f486
+record: 52a11b38958d
 ---
 
 # Senegal: monthly update, August – September 2026
@@ -26,6 +26,8 @@ Civil registration is the busiest part of the record and the least funded. Remed
 
 <!-- narrative: governance--gov-policy -->
 The body meant to steer digital governance has not started. The digital governance steering committee, [created in March 2026, was still stated five months later to be operational in the near future](https://www.biometricupdate.com/202608/senegal-seeks-to-fully-align-sovereignty-vision-with-dpi-strategy). A coordinating body that has not convened is what sits behind the strategies this section otherwise records as adopted but unreadable.
+
+The roadmap acquired a shape and a hole in the same statement. Presented at an international forum on 4 September, the New Deal Technologique is [54 projects across 12 programmes at US$2bn over ten years, of which US$700m is unallocated](https://dig.watch/event/wsis-forum-2026/new-technological-deal-or-or-how-a-global-south-digital-strategy-for-impactful-ict-transformation). The figures are the government's own and no project list, allocation schedule or financing plan for the unallocated third accompanies them, so what is established is the size of the programme and the size of the gap in it.
 <!-- /narrative -->
 ### Legislation and regulation
 
@@ -117,6 +119,8 @@ The digitisation the audit is measuring has its own figures. The civil-status ag
 
 <!-- narrative: dpi--dpi-mis -->
 The higher-education, research and innovation ministry [reported a further step in the digital transformation of its services](https://mesrisenegal.sn/2026/08/22/mesri-une-nouvelle-etape-franchie-dans-la-transformation-numerique-des-services/), framed around interoperability; no service list, user count or completion date is given.
+
+The agricultural information layer is to be rebuilt rather than extended. The market regulation agency and a Belgian development agency [held a workshop on 4 September to design a modernised market information system, with funding sought through the 2027 budget](https://lesoleil.sn/actualites/economie/lagence-de-regulation-des-marches-et-enabel-conjuguent-leurs-forces-pour-renforcer-les-systemes-dinformation/). No design document, cost, coverage or timetable is published, and the funding is sought rather than secured — which is the difference between this and the satellite work already running on the same crops.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -124,6 +128,8 @@ The higher-education, research and innovation ministry [reported a further step 
 The month's clearest movement is a removal rather than an addition. The tax authority [withdrew the paper fiscal stamp on 20 July, making the digital service the sole recognised channel nationwide](https://www.wearetech.africa/fr/fils/actualites/tech/le-senegal-supprime-le-timbre-fiscal-physique-au-profit-dune-version-numerique), with QR-coded stamps bought and received remotely. Unused paper stamps were exchangeable until 15 August and no offline or assisted route is stated. Eight days later the [free electronic stamp service was suspended by its provider, citing an administrative decision outside its control, with refunds promised within 72 hours and users stating they now pay additional fees for an identical service](https://lesoleil.sn/actualites/diotali-suspend-son-service-gratuit-de-timbre-fiscal-electronique-et-annonce-le-remboursement-de-ses-usagers/) — the first consumer-cost consequence of state-platform exclusivity the base holds, and it is not stated whether the decision was addressed to that provider or to the distribution channel generally. Separately the state procurement platform is [operating and named by the procurement regulator as intended to capture the procedures of a thousand administrations](https://arcop.sn/2026/07/30/encadre-appel-une-plateforme-strategique-a-proteger/), with its protection a stated priority alongside critical state digital infrastructure; no count of administrations onboarded, procurement volume, availability record or security accreditation is given.
 
 Parliament's own systems entered the record for the first time, and only as a purchase order: on 5 August the United Nations development programme [opened a tender to supply IT equipment for the National Assembly's SIPOP system](https://www.developmentaid.org/tenders/view/1695673/acquisition-dequipements-informatiques-sipop). What that system does, what it costs and when it runs are all absent from the notice, which is the whole of what the base holds on it.
+
+A second single-window model was announced alongside the one already operating. The civil service minister, speaking in Baku, said the country [plans a single public services centre modelled on Azerbaijan's ASAN Khidmet within three to four months](https://www.trend.az/azerbaijan/society/4220630.html) — with no site, budget, service list, legal basis or stated relationship to the citizen single window that has been running passport, business-creation, police-clearance and nationality services since March. The constraint on delivering any of it outside the capital was named the same day: closing a tour of Louga, Saint-Louis, Dagana and Matam, the director of the state's deconcentrated service network [put connectivity as the absolute priority, on the ground that without it there is no dematerialisation at the service centres at all](https://www.socialnetlink.org/2026/09/04/senegal-services-isidore-diouf-erige-la-connectivite-en-priorite-absolue-pour-reussir-la-dematerialisation/).
 <!-- /narrative -->
 
 ## Digitalisation
