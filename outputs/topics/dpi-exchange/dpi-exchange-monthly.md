@@ -3,13 +3,13 @@ title: Data Exchange — monthly update, August 2026
 compiled: 2026-09-08
 period: 2026-08-01 to 2026-09-08
 subject: dpi.exchange
-places: DZA; AGO; BEN; BFA; CMR; TCD; COG; CIV; DJI; COD; EGY; GNQ; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NER; NGA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: d299b7e3e6bf
+places: DZA; AGO; BEN; BFA; CMR; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 93414426895a
 ---
 
 # Data Exchange: monthly update, August 2026
 
-*41 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*43 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -72,6 +72,10 @@ The 19 July cabinet meeting produced the window's substantive disclosure: 105 go
 ## Equatorial Guinea
 
 The national interoperability framework the World Bank named as absent in 2024 is still absent, and August put a cost on that. At the National Development Agency's directorship handover on 7 August, its outgoing Inspector General [named limited data-sharing by line ministries as the agency's main obstacle](https://www.guineaecuatorialpress.com/noticias/milagrosa_obono_angue_preside_el_acto_oficial_de_entrega_de_despacho_de_la_agencia_nacional_de_desarrollo) to monitoring delivery against the National Sustainable Development Strategy. The agency is the body meant to see across government, and it is describing itself as unable to.
+
+## Ethiopia
+
+A delegation joined the [UNDP Africa Accelerator for Digital Public Infrastructure's session of 2-3 September](https://www.linkedin.com/posts/africa-accelerator-for-digital-public-infrastructure-share-7501243526484123648-U4ba) alongside Malawi, Rwanda, Sierra Leone and Zambia, on moving digital public infrastructure blueprints to execution, verifiable credentials and consented data sharing, and reusable open-source deployment code. Attendance and a [published agenda](https://www.undp.org/africa/projects/africa-accelerator-digital-public-infrastructure-aa4dpi) are the whole of what is established; nothing on the record commits the country to a programme.
 
 ## Gabon
 
@@ -161,6 +165,10 @@ Health data began moving between systems on its own. A national interoperability
 Nine agencies took bilateral cover under the amended identity Act inside a fortnight, among them [Solid Minerals](https://www.thisdaylive.com/2026/07/20/alake-nimc-partner-to-deploy-digital-identity-against-illegal-mining/), [the Presidency](https://www.thisdaylive.com/2026/07/22/shettima-nigerias-digital-transformation-under-tinubu-unrivalled-hails-ongoing-reforms-by-nimc-management/) and [Women Affairs and the Bank of Industry](https://www.thisdaylive.com/2026/07/24/nimc-seals-strategic-partnerships-with-women-affairs-ministry-boi-to-deepen-digital-identity-financial-inclusion/); no account states a lawful basis, consent mechanism or retention rule for the sharing that follows. The [Nigeria Data Exchange now moves personal data between ministries in production](https://www.biometricupdate.com/202607/nigeria-unveils-digital-govt-platform-for-unified-access-to-public-services) behind the Government Service Portal, on the same silence. Against the single-source-of-truth framing, named practitioners [describe the arrangement as federated linkage on a shared identifier](https://www.vanguardngr.com/2026/07/nin-contradiction-high-cost-of-false-integration/), with banks still reconciling by hand. The [National Single Window](https://www.vanguardngr.com/2026/08/customs-agents-disagree-over-national-single-window-operations/), launched in March, is contested by licensed customs agents who say clearance paperwork has multiplied rather than consolidated.
 
 A state built its own exchange for the most sensitive category of all. Lagos [set out a Smart Health Information Platform on 8 August, to connect patient records, laboratory results and biological data across facilities](https://thesun.ng/lagos-pushes-ai-health-data-to-transform-healthcare-delivery/) and to underpin an artificial-intelligence-driven health system, citing the Ebola and COVID-19 outbreaks as the case for moving off siloed facility records. No legal basis, data-controller arrangement, consent model, retention rule or relationship to the national data-protection regime is stated for it — the same silence the federal exchanges above are described in.
+
+## Rwanda
+
+A delegation joined the [UNDP Africa Accelerator for Digital Public Infrastructure's session of 2-3 September](https://www.linkedin.com/posts/africa-accelerator-for-digital-public-infrastructure-share-7501243526484123648-U4ba) alongside Ethiopia, Malawi, Sierra Leone and Zambia, working through the move from blueprint to execution, verifiable credentials and consented data-sharing frameworks, and reusable open-source deployment code. What is on record is attendance and a [published agenda](https://www.undp.org/africa/projects/africa-accelerator-digital-public-infrastructure-aa4dpi); no country programme, commitment or deliverable follows from it.
 
 ## Senegal
 

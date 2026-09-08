@@ -298,8 +298,16 @@ def check():
 
     Cheap by construction, because a lift can only carry links that already resolved where they
     were written. It is run anyway: cheap and redundant is the right shape for the check that
-    catches a link the lift itself mangled."""
-    held = set(rr.slug_urls().values())
+    catches a link the lift itself mangled.
+
+    **The held set is the one `report-render.check_links()` uses, and it has to be** *(2026-09-08)*.
+    It was `slug_urls()` alone, which is the publisher addresses and not the catalogue entries a
+    record with a documented absence of a URL resolves to (`slug_offline()`). Those entries had
+    never reached a topic document before; the first that did failed here while passing in the
+    place document it was lifted from, which is the one thing this check's own docstring says
+    cannot happen. A check that fails on a link its own renderer produced correctly is worse than
+    no check, because the next real failure is read as this one."""
+    held = set(rr.slug_urls().values()) | set(rr.slug_offline().values())
     held |= {rr.link_target(u) for u in held}
     bad = docs = 0
     for folder in sorted(os.listdir(TOPICS)) if os.path.isdir(TOPICS) else []:

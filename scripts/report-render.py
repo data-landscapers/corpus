@@ -503,7 +503,9 @@ def slug_offline():
 
     Kept apart from `slug_urls()` because the two are different claims. A `slug_urls()` entry
     says *the publisher has this at that address*; this says *we hold it, nobody publishes it,
-    and here is what was searched*. Only the first belongs in check G's held set."""
+    and here is what was searched*. Both belong in check G's held set, and `check_links()` adds
+    this one there explicitly — the target is a page of Corpus's own catalogue, so it is held by
+    construction."""
     return {r["slug"].strip(): f"{SITE_BASE}/catalogue/#q={urllib.parse.quote(r['slug'].strip())}"
             for r in catalogue_rows()
             if not (r.get("url") or "").strip() and (r.get("url_note") or "").strip()}

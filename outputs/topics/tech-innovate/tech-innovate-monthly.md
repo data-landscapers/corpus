@@ -3,13 +3,13 @@ title: Innovation ecosystem — monthly update, August 2026
 compiled: 2026-09-08
 period: 2026-08-01 to 2026-09-08
 subject: tech.innovate
-places: DZA; BFA; CMR; CPV; COM; CIV; COD; EGY; ERI; SWZ; GAB; GMB; GHA; GIN; KEN; LBR; MLI; NAM; NER; NGA; RWA; SYC; ZAF; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: 7191db935146
+places: DZA; BWA; BFA; CMR; CPV; COM; CIV; COD; EGY; ERI; SWZ; GAB; GMB; GHA; GIN; KEN; LBR; MLI; NAM; NER; NGA; RWA; SYC; ZAF; SDN; TZA; TUN; UGA; ZMB; ZWE
+record: fd4a6aeb719f
 ---
 
 # Innovation ecosystem: monthly update, August 2026
 
-*29 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*30 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -18,6 +18,10 @@ record: 7191db935146
 The student start-up conversion scheme reports [673 start-ups, 3,949 patents and 2,339 innovative-project labels between 2022 and July 2026, against a 2030 target of 5,000 labelled products](https://elwatan.dz/strategie-nationale-de-lintelligence-artificielle-kamel-baddari-fixe-la-feuille-de-route/). It lets students convert final-year projects into start-ups or patents and is supported by a prototype-financing scheme and the country's first venture-capital fund. The ministerial order behind it is not held, neither its date nor its text.
 
 The money attached to the President of the Republic's Prize for the best start-up [was raised by presidential decree 26-277 of 23 August 2026](https://www.joradp.dz/FTP/jo-francais/2026/F2026060.pdf), amending article 3 of the founding decree of January. The amounts and the award cycle are set by decree rather than by a programme document.
+
+## Botswana
+
+The sector was counted for the first time. An inaugural census puts more than 100 startups in operation across fintech, e-commerce, agritech, artificial intelligence, mobility, edtech and healthtech, and states the whole of what they have raised since 2019 as a single figure the progress report carries ([census](/catalogue/#q=2026-08-03-botswana-startup-ecosystem-report-2026)) - where the 2021 diagnostic could only call the early-stage finance market nascent. The count is the publisher's own compilation rather than a deal database, and the report carries no recoverable address, so it is cited to its catalogue entry.
 
 ## Burkina Faso
 
