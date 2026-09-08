@@ -29,6 +29,7 @@ import hashlib
 import hmac
 import json
 import os
+import time
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -155,14 +156,54 @@ class R2:
             req.add_header(k, v)
         return req
 
-    def _send(self, req: urllib.request.Request, allow_404: bool = False):
-        try:
-            return urllib.request.urlopen(req, timeout=self.timeout)
-        except urllib.error.HTTPError as e:
-            if e.code == 404 and allow_404:
-                return None
-            detail = e.read().decode("utf-8", "replace")[:400]
-            raise RuntimeError(f"R2 {req.get_method()} {req.full_url} → {e.code}: {detail}") from e
+    def _send(self, req: urllib.request.Request, allow_404: bool = False, attempts: int = 5):
+        """Send, retrying the faults that mean *try again* and raising the ones that mean *stop*.
+
+        **A 503 from R2 is weather, not a verdict.** Cloudflare returns one occasionally under
+        any sustained load, and at 8,139 objects an occasional one is a near certainty — so a
+        single transient fault used to abort a whole sync two thirds of the way through. Retried
+        with a widening wait; a fault that survives five attempts is real and still raises.
+
+        **Only the transient codes are retried.** A 403 is the wrong token scope and a 404 is a
+        missing object; repeating either just asks the same question again more slowly. The
+        request is re-signed each time because SigV4 covers a timestamp that goes stale."""
+        transient = {408, 429, 500, 502, 503, 504}
+        for attempt in range(attempts):
+            try:
+                return urllib.request.urlopen(req, timeout=self.timeout)
+            except urllib.error.HTTPError as e:
+                if e.code == 404 and allow_404:
+                    return None
+                if e.code in transient and attempt < attempts - 1:
+                    time.sleep(2 ** attempt * 0.5)
+                    req = self._resign(req)
+                    continue
+                detail = e.read().decode("utf-8", "replace")[:400]
+                raise RuntimeError(
+                    f"R2 {req.get_method()} {req.full_url} → {e.code}: {detail}") from e
+            except (urllib.error.URLError, TimeoutError, ConnectionError) as e:
+                # A dropped connection is the same class of problem as a 503 and gets the same
+                # answer. The last attempt raises rather than returning something half-read.
+                if attempt < attempts - 1:
+                    time.sleep(2 ** attempt * 0.5)
+                    req = self._resign(req)
+                    continue
+                raise RuntimeError(f"R2 {req.get_method()} {req.full_url} → {e}") from e
+
+    def _resign(self, req: urllib.request.Request) -> urllib.request.Request:
+        """Rebuild a request with a fresh timestamp and signature, keeping method, URL and body.
+
+        SigV4 signs `x-amz-date`, and Cloudflare rejects a signature more than a few minutes old,
+        so a retry that replayed the original request would start failing on 403 the moment the
+        backoff outlasted the clock skew window."""
+        parsed = urllib.parse.urlsplit(req.full_url)
+        key = urllib.parse.unquote(parsed.path).lstrip("/")
+        key = key[len(self.bucket):].lstrip("/") if key.startswith(self.bucket) else key
+        query = dict(urllib.parse.parse_qsl(parsed.query))
+        keep = {k: v for k, v in req.headers.items()
+                if k.lower() in ("content-type", "content-length")}
+        return self._request(req.get_method(), key, query=query,
+                             body=req.data or b"", headers=keep)
 
     # ------------------------------------------------------------------ verbs
 
