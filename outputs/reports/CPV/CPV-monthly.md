@@ -1,11 +1,11 @@
 ---
 title: Cape Verde — monthly update, August – September 2026
-compiled: 2026-09-04
-period: 2026-08-01 to 2026-09-04
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 place: CPV
-ledger_rows: 8
+ledger_rows: 10
 not_held: 35
-record: 8082fd9db7ca
+record: a99584ed0741
 ---
 
 # Cape Verde: monthly update, August – September 2026
@@ -43,6 +43,13 @@ The Prime Minister told Parliament during the State of the Nation debate on 31 J
 <!-- narrative: ict-infrastructure--infra-connect -->
 The regulator's quarterly market series, which had stopped at the second quarter of 2025 in this base, resumed on 5 August with the [first-quarter 2026 report: 588,603 active SIM cards at 113.9% penetration, down 0.8% on the quarter, and 511,702 internet access subscriptions, up 1% on the quarter and down 4% on the year](https://www.arme.cv/index.php/noticia-geral/1392-arme-publica-relatorio-indicadores-estatisticos-das-comunicacoes-eletronicas-1o-trimestre-de-2026). [The composition of internet access moved rather than its level — mobile broadband subscriptions fell 16.4% year on year while fixed broadband rose 12.9%, and 86% of subscriptions are still delivered over mobile broadband on a small screen](https://www.arme.cv/index.php/noticia-geral/1392-arme-publica-relatorio-indicadores-estatisticos-das-comunicacoes-eletronicas-1o-trimestre-de-2026). [Market shares by internet subscription are CVTelecom 72%, Unitel T+ 27.3% and Starlink 0.64%, the satellite operator up 0.20 percentage points on the quarter](https://www.arme.cv/index.php/noticia-geral/1392-arme-publica-relatorio-indicadores-estatisticos-das-comunicacoes-eletronicas-1o-trimestre-de-2026). The series carries no breakdown by island or municipality.
 <!-- /narrative -->
+### Data Storage
+
+<!-- narrative: ict-infrastructure--infra-store -->
+
+
+A second facility was announced without particulars: a [teleport digital hub is to open at Praia, announced at a Brazil-Cabo Verde-Portugal business forum on 4 September](https://observador.pt/2026/09/04/brasil-e-portugal-querem-reforcar-negocios-com-cabo-verde-e-apostar-no-mercado-africano/). No operator, site, capacity, investment figure or date is given, and nothing states how it relates to the 5G strategy's target of regional digital-hub status by 2030.
+<!-- /narrative -->
 ### Cybersecurity
 
 <!-- narrative: ict-infrastructure--infra-cybersec -->
@@ -51,6 +58,13 @@ The surveillance programme moved to a third phase on foreign money. China [made 
 
 ## DPI
 
+### Sectoral management information systems
+
+<!-- narrative: dpi--dpi-mis -->
+
+
+Procurement opened behind the announced health digitalisation. [Expressions of interest close on 18 September 2026 for a consultancy to train and support use of the health information system, its portal and the open-source district health platform, under a US$29m concessional health-security project](https://static.expressodasilhas.cv/media/pub/v2/pdf/2026/09/1788545549351.pdf). It is a training and support contract rather than a build — which is the part an announced system usually lacks, and the part that decides whether it is used.
+<!-- /narrative -->
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->

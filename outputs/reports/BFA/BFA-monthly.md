@@ -1,11 +1,11 @@
 ---
 title: Burkina Faso — monthly update, August – September 2026
-compiled: 2026-09-05
-period: 2026-08-01 to 2026-09-05
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 place: BFA
 ledger_rows: 30
 not_held: 8
-record: 2925128fdbd4
+record: cd37fdb7a87e
 ---
 
 # Burkina Faso: monthly update, August – September 2026
@@ -109,6 +109,8 @@ Civil registration is being digitised one commune at a time, and the training is
 Automated traffic enforcement entered operation at midnight on 1 August after an April pilot, reading plates against the vehicle database, serving fines by message with a link to the national payments rail, and immobilising vehicles for non-payment within a month. It [logged 1,099 offences between midnight and noon that day](https://lefaso.net/spip.php?article148326) and five payments. Neither held account reports a legal basis, retention rule or data-protection authorisation; [the justification given is 15,614 road accidents in 2025](https://lefaso.net/spip.php?article148326). A pension formalities portal also launched on 21 July, presented as improving data exchange between three administrations rather than as a web front end. The Council of Ministers of 23 July separately converted the trade single window's operator into a state company.
 
 The health ministry's accreditation portal, launched on 7 August, arrived with the one thing most of these launches lack — a use figure. It had taken [more than 247 applications since a soft launch in April 2026, of which 39 were validated](https://burkina24.com/2026/08/07/burkina-faso-e-agrement-officiellement-lance-pour-simplifier-les-procedures-administratives-dans-la-sante/) by the day of the official launch. The counts are the ministry's own, and the record does not explain the gap between the two.
+
+The automated traffic system's first month is measured, and the gap is collection. [19,910 offences were recorded between 1 and 31 August 2026, generating CFA146.559m in fines, of which CFA16.1m had been recovered at the review of 4 September](https://www.agenceecofin.com/actualites-numerique/0709-141342-burkina-faso-260-000-d-amendes-generes-par-la-video-verbalisation-en-un-mois). The state's answer is a body rather than a system: a [motorised police brigade created on 2 September specifically to trace drivers who evade the camera-issued fines](https://burkina24.com/2026/09/03/securite-routiere-a-ouagadougou-naissance-de-la-bricir-pour-en-finir-avec-lincivisme-sur-les-routes/). Barely a ninth of the month's fines were collected, and no appeal, error or contested-notice figure is published — which is what a reader would need to tell non-payment from wrongly-issued notices.
 <!-- /narrative -->
 
 ## Digitalisation

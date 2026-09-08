@@ -1,11 +1,11 @@
 ---
 title: Botswana — monthly update, August – September 2026
-compiled: 2026-09-05
-period: 2026-08-01 to 2026-09-05
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 place: BWA
-ledger_rows: 28
+ledger_rows: 30
 not_held: 8
-record: f8eba4c2837e
+record: 043584e7859b
 ---
 
 # Botswana: monthly update, August – September 2026
@@ -22,6 +22,13 @@ Regional agreements were the other half: [an ICT memorandum with Namibia signed 
 
 ## Governance
 
+### Data protection
+
+<!-- narrative: governance--gov-protect -->
+
+
+The commencement instrument behind the data-protection regime is now held in full: [Statutory Instrument 86 of 2021 brought the Data Protection Act No. 32 of 2018 into operation on publication on 15 October 2021](https://www.dataguidance.com/sites/default/files/government_gazette_15th_october_2021.pdf). It dates a regime the base had been carrying from its 2024 re-enactment, and it is the kind of document that settles when an obligation actually started rather than when it was last restated.
+<!-- /narrative -->
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
@@ -48,6 +55,8 @@ The Kala data centre [completed its first full quarter of continuous operation t
 
 <!-- narrative: ict-infrastructure--infra-energy -->
 The facility's power is the unusual part. [On-site gas-fired generation is supplemented by solar introduced to cover periods of lower gas availability, with battery and compressed-gas storage under review](https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85) — solar specified as firming for gas, the reverse of the usual diesel-backup arrangement. [An initial 5 MW solar development was assessed during the quarter and an extension of the gas gathering network to connect a further production well is stated subject to funding](https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85); neither carries a capital cost, approval or date, and the company states both are work-programme items rather than guidance. The second gates the data centre: capacity growth turns on upstream gas work rather than on demand.
+
+The price of the energy the sector runs on is under review, and the utility's own case is a large one: its consultation paper [makes the case for a 46% tariff rise on a P9.585bn revenue requirement against a P3.477bn funding gap](https://www.bera.co.bw/downloads/Electricity/BPC%202026-27%20Tariff%20Application%20-%20Public%20Notice/2026-27%20BPC%20Electricity%20Tariff%20Application%20Consultation%20Paper.pdf). It is an application rather than a determination: no regulator decision, effective date or data-centre tariff schedule accompanies it, and the base still holds no measured electricity cost for any digital facility in the country.
 <!-- /narrative -->
 ### Cybersecurity
 

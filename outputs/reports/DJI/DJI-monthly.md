@@ -1,11 +1,11 @@
 ---
 title: Djibouti — monthly update, August – September 2026
-compiled: 2026-09-05
-period: 2026-08-01 to 2026-09-05
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 place: DJI
-ledger_rows: 13
+ledger_rows: 15
 not_held: 11
-record: b05d560ec93e
+record: ac8d5140cbf2
 ---
 
 # Djibouti: monthly update, August – September 2026
@@ -22,6 +22,13 @@ On artificial intelligence the record moved to the policy side. The [first natio
 
 ## Governance
 
+### Strategies, plans and policies
+
+<!-- narrative: governance--gov-policy -->
+
+
+The interoperability framework acquired a statement of intent for the first time since it was published in 2022. The Council of Ministers' [2026 work programme of 1 September names paperless services and interoperability among the state-modernisation priorities](https://africa24tv.com/djibouti-2026-government-work-programme-omar-guelleh-sets-out-his-key-priorities/). Nothing in it evidences the framework in use, and no system, timetable or budget is attached — so what has changed is that the government has said the word, not that anything is interoperable.
+<!-- /narrative -->
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->
@@ -80,6 +87,8 @@ Against unemployment, the state is [using digital channels to connect graduates 
 
 <!-- narrative: inclusion--include-access -->
 The urban rehabilitation agency runs [a complaint-management portal that routes recovery and technical problems to named internal divisions](https://www.doleances.arulos.dj/). It is the only digital citizen-feedback channel the base holds, and it covers one agency's own business: no whole-of-government mechanism, service standard or complaint volume is published.
+
+The corridor programme put training against formalisation rather than connectivity: [forty women traders took export-readiness training at Bishoftu on 30 and 31 July 2026 under a EUR 32m European corridor programme, covering business formalisation, product standards, export documentation and customs procedure](https://horneconomicreview.com/2026/09/03/from-export-readiness-to-market-access-eu-backed-support-strengthens-womens-participation-in-trade-along-the-djibouti-ethiopia-corridor/). The training was delivered on the Ethiopian side of the corridor and no Djiboutian cohort, customs-system component or digital element is separately costed.
 <!-- /narrative -->
 
 ## Data
