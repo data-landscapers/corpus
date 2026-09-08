@@ -256,6 +256,76 @@ def case_apply_deletes_and_accounts_for_it(tmp):
     assert lines[1] == f"{TODAY},reports/KEN/KEN-status-2026-08-20.pdf,2026-08-20,2026-08-22,2026-08-22,5", lines[1]
 
 
+# --------------------------------------------------------------------------- the bucket
+#
+# After the move (`documentation/editions-serving-shape.md`) most editions are in R2 and not in
+# the tree. These pin the two things that are only true while both stores hold editions — that a
+# document half-migrated is still one document, and that an edition in both places leaves both.
+
+
+class FakeBucket:
+    """The bucket as `editions_in_bucket` uses it: a listing, and a delete that records."""
+
+    def __init__(self, objects: dict):
+        self.objects = dict(objects)
+        self.deleted: list[str] = []
+
+    def list(self, prefix: str = "") -> dict:
+        return {k: v for k, v in self.objects.items() if k.startswith(prefix)}
+
+    def delete(self, key: str) -> None:
+        self.deleted.append(key)
+        self.objects.pop(key, None)
+
+
+def case_the_bucket_and_the_tree_are_one_document(tmp):
+    """An edition on disk superseded by one that is only in R2 must still be a candidate.
+
+    This is the case that decides whether the merge is real. If the two sources are separate
+    documents, the disk edition is the newest of its own set, reads as the current edition, and
+    is kept for ever — the site would accumulate exactly what the rule exists to remove."""
+    put(tmp, "reports/KEN/KEN-status-2026-08-20.pdf")
+    bucket = FakeBucket({"reports/KEN/KEN-status-2026-08-29.pdf": 1234})
+    groups = pe.merge_groups(pe.editions_on_disk(tmp), pe.editions_in_bucket(bucket))
+    rows = {r["rel"]: (r["verdict"], r["why"])
+            for r in pe.plan(tmp, set(), TODAY, FORWARD, 7, groups=groups)}
+    assert rows["reports/KEN/KEN-status-2026-08-20.pdf"][0] == "delete", \
+        f"the disk edition is superseded by one in R2 and must go: {rows}"
+    assert rows["reports/KEN/KEN-status-2026-08-29.pdf"][0] == "keep", \
+        f"the bucket holds the current edition: {rows}"
+
+
+def case_an_edition_in_both_stores_leaves_both(tmp):
+    """Mid-migration a file is on disk and in R2. One row, and deleting it empties both.
+
+    Two rows would be worse than untidy: the same edition would appear twice in one document's
+    list, the earlier copy would read as superseded by the later one, and the rule would delete a
+    file it had that moment decided to keep."""
+    disk = put(tmp, "reports/KEN/KEN-status-2026-08-20.pdf")
+    put(tmp, "reports/KEN/KEN-status-2026-08-29.pdf")
+    bucket = FakeBucket({"reports/KEN/KEN-status-2026-08-20.pdf": 1,
+                         "reports/KEN/KEN-status-2026-08-29.pdf": 1})
+    groups = pe.merge_groups(pe.editions_on_disk(tmp), pe.editions_in_bucket(bucket))
+    rows = pe.plan(tmp, set(), TODAY, FORWARD, 7, groups=groups)
+    assert len(rows) == 2, f"one row per edition, not one per copy: {[r['rel'] for r in rows]}"
+    doomed = [r for r in rows if r["verdict"] == "delete"]
+    assert len(doomed) == 1, f"only the superseded edition goes: {doomed}"
+    doomed[0]["remove"]()
+    assert not disk.exists(), "the copy on disk survived"
+    assert bucket.deleted == ["reports/KEN/KEN-status-2026-08-20.pdf"], \
+        f"the copy in the bucket survived: {bucket.deleted}"
+
+
+def case_a_names_shard_is_not_an_edition(tmp):
+    """The bucket also holds `catalogue/names/`, and the rule must never see it."""
+    bucket = FakeBucket({"catalogue/names/ab.json": 10,
+                         "reports/KEN/KEN-status-2026-08-29.pdf": 10})
+    got = pe.editions_in_bucket(bucket)
+    keys = [k for g in got.values() for _, i in g for k in [i.key]]
+    assert keys == ["reports/KEN/KEN-status-2026-08-29.pdf"], \
+        f"derived data has no retention rule and must not be listed: {keys}"
+
+
 CASES = [
     ("the current edition is never deleted", case_current_edition_is_never_deleted),
     ("everything published before the rule stands", case_the_set_already_published_stands),
@@ -274,6 +344,9 @@ CASES = [
     ("bulletins prune without a download record", case_bulletins_prune_without_a_download_record),
     ("deleting a bulletin rewrites the listing", case_deleting_a_bulletin_rewrites_the_listing),
     ("--apply deletes the unfetched edition and records it", case_apply_deletes_and_accounts_for_it),
+    ("the bucket and the tree are one document", case_the_bucket_and_the_tree_are_one_document),
+    ("an edition in both stores leaves both", case_an_edition_in_both_stores_leaves_both),
+    ("a names shard is not an edition", case_a_names_shard_is_not_an_edition),
 ]
 
 

@@ -178,7 +178,13 @@ def editions_on_disk(site: Path) -> dict:
     Undated downloads carry no edition and are invisible here — `raw-catalogue.csv` is the
     deliberate one (§9, Bill's call: an index over other people's records is not an edition).
     The stem is what is left after the edition is stripped, which is the test `editions.py`
-    uses, and it is what separates `KEN-nonstate` from `KEN-nonstate-fields`."""
+    uses, and it is what separates `KEN-nonstate` from `KEN-nonstate-fields`.
+
+    **The group key is the directory *relative to the tree*, not the absolute parent**, so that
+    editions of one document group together whether they are found on disk or in the bucket
+    (`editions_in_bucket`). During the migration a document has editions in both, and a key that
+    disagreed between the two sources would split it into two documents — each with its own
+    "current edition", and the older of the two would be kept for ever while the newer went."""
     groups: dict = {}
     for f in sorted(site.rglob("*")):
         if not f.is_file() or f.suffix.lower() not in (".pdf", ".csv"):
@@ -187,9 +193,108 @@ def editions_on_disk(site: Path) -> dict:
         if edition is None:
             continue
         stem = f.stem[: -(len(edition) + 1)]
-        groups.setdefault((str(f.parent), stem, f.suffix), []).append((ed.edition_key(edition), f))
+        where = f.parent.relative_to(site).as_posix()
+        groups.setdefault((where, stem, f.suffix), []).append((ed.edition_key(edition), f))
     for g in groups.values():
         g.sort()
+    return groups
+
+
+class BucketEdition:
+    """An edition that lives in R2 rather than on disk, presenting what `plan` needs of it.
+
+    `documentation/editions-serving-shape.md`. After the move the published tree no longer holds
+    the editions, so a pruner that only walked `site/` would find nothing to consider and would
+    report a clean run for ever — retention silently switched off, which is exactly the failure
+    the liveness checks exist to make impossible on the record side."""
+
+    __slots__ = ("key", "size", "_bucket")
+
+    def __init__(self, key: str, size: int, bucket):
+        self.key, self.size, self._bucket = key, size, bucket
+
+    def unlink(self) -> None:
+        self._bucket.delete(self.key)
+
+    def __repr__(self) -> str:
+        return f"BucketEdition({self.key!r})"
+
+
+class BothStores:
+    """One edition that is currently in two places, and must leave both or neither.
+
+    **This shape exists only during the migration**, between `r2-sync.py --apply` putting a copy
+    in the bucket and `--prune-local` taking the copy off disk. It has to be handled and cannot
+    be ignored in either direction: two rows for one edition would let the pruner treat a file as
+    superseding itself and delete the copy it had just decided to keep, while deleting one store
+    and not the other leaves the Worker's Pages fallback still serving a file the rule has
+    retired. So the two are one row, and `unlink` empties both."""
+
+    __slots__ = ("items",)
+
+    def __init__(self, items):
+        self.items = list(items)
+
+    @property
+    def key(self) -> str:
+        for i in self.items:
+            if isinstance(i, BucketEdition):
+                return i.key
+        return ""
+
+    @property
+    def size(self) -> int:
+        return max((i.size if isinstance(i, BucketEdition) else i.stat().st_size)
+                   for i in self.items)
+
+    def unlink(self) -> None:
+        for i in self.items:
+            i.unlink()
+
+
+def merge_groups(disk: dict, bucket_groups: dict) -> dict:
+    """Disk and bucket editions as one set of documents, one row per edition.
+
+    The group key is the relative directory, which both sources spell the same way, so a document
+    half-migrated is still one document with one current edition."""
+    merged: dict = {}
+    for source in (disk, bucket_groups):
+        for gk, found in source.items():
+            merged.setdefault(gk, {})
+            for ekey, item in found:
+                merged[gk].setdefault(ekey, []).append(item)
+    out: dict = {}
+    for gk, editions in merged.items():
+        rows = []
+        for ekey, items in editions.items():
+            rows.append((ekey, items[0] if len(items) == 1 else BothStores(items)))
+        rows.sort(key=lambda t: t[0])
+        out[gk] = rows
+    return out
+
+
+def editions_in_bucket(bucket, prefixes=("reports/", "topics/", "countries/", "finance/")) -> dict:
+    """Every dated edition in R2, grouped exactly as `editions_on_disk` groups the tree.
+
+    Only the trees that hold editions are listed. `catalogue/names/` is in the same bucket and is
+    not an edition — it is derived data with no retention rule — and listing it here would put
+    thousands of objects in front of a deletion rule that has no business considering them."""
+    groups: dict = {}
+    for prefix in prefixes:
+        for key, size in bucket.list(prefix).items():
+            name = key.rsplit("/", 1)[-1]
+            stem, _, ext = name.rpartition(".")
+            ext = "." + ext.lower()
+            if ext not in (".pdf", ".csv"):
+                continue
+            edition = ed.edition_of(stem)
+            if edition is None:
+                continue
+            where = key.rsplit("/", 1)[0] if "/" in key else ""
+            groups.setdefault((where, stem[: -(len(edition) + 1)], ext), []).append(
+                (ed.edition_key(edition), BucketEdition(key, size, bucket)))
+    for g in groups.values():
+        g.sort(key=lambda t: t[0])
     return groups
 
 
@@ -198,7 +303,8 @@ def is_bulletin(path: Path, site: Path) -> bool:
 
 
 def plan(site: Path, fetched: set[str], today: str, forward_from: str, lag_days: int,
-         retention_days: int = ba.RETENTION_DAYS, record_ok: bool = True) -> list[dict]:
+         retention_days: int = ba.RETENTION_DAYS, record_ok: bool = True,
+         groups: dict | None = None) -> list[dict]:
     """What is deletable, and why. Pure: it reads the tree and the record and removes nothing.
 
     **The bulletin leaves this rule and takes a stated retention window instead. It is not
@@ -222,16 +328,22 @@ def plan(site: Path, fetched: set[str], today: str, forward_from: str, lag_days:
     edition a week, but a different week each, and never the week the colophon named."""
     cutoff = dt.date.fromisoformat(today) - dt.timedelta(days=lag_days)
     out = []
-    for found in editions_on_disk(site).values():
+    if groups is None:
+        groups = editions_on_disk(site)
+    for found in groups.values():
         for i, (key, path) in enumerate(found):
-            rel = path.relative_to(site).as_posix()
+            on_disk = isinstance(path, Path)
+            rel = path.relative_to(site).as_posix() if on_disk else path.key
             row = {"path": path, "rel": rel, "edition": _name(key), "bytes": 0,
-                   "superseded_by": "", "superseded_on": "", "verdict": "", "why": ""}
+                   "superseded_by": "", "superseded_on": "", "verdict": "", "why": "",
+                   "size": (lambda p=path: p.stat().st_size) if on_disk
+                           else (lambda p=path: p.size),
+                   "remove": path.unlink}
             if i == len(found) - 1:
                 row.update(verdict="keep", why="current edition")
                 out.append(row)
                 continue
-            if is_bulletin(path, site):
+            if on_disk and is_bulletin(path, site):
                 if ba.within_window(_name(key), today, retention_days):
                     row.update(verdict="keep",
                                why=f"inside the {retention_days}-day bulletin window")
@@ -309,6 +421,8 @@ def main(argv=None) -> int:
     p.add_argument("--retention-days", type=int, default=ba.RETENTION_DAYS,
                    help=f"how long a bulletin edition is kept, from its edition date "
                         f"(default {ba.RETENTION_DAYS}); the number its colophon prints")
+    p.add_argument("--no-r2", action="store_true",
+                   help="prune the tree only and never open the bucket (testing, and a scratch tree)")
     p.add_argument("--keys-from", metavar="FILE",
                    help="read the key list from a file instead of the API (testing)")
     p.add_argument("--today", default=dt.date.today().isoformat(), help="override the run date (testing)")
@@ -354,14 +468,45 @@ def main(argv=None) -> int:
         print(f"PRUNE: download-governed retention declined — {declined}")
         print("       The bulletin's own window is unaffected and is applied below.")
 
+    # **After the move most editions are in R2 and not in the tree**, so a pruner that only
+    # walked `site/` would find nothing to consider and report a clean run for ever — retention
+    # switched off in silence, which is the exact failure the record's liveness checks exist to
+    # prevent on the other side. The bucket is therefore listed and merged with the tree.
+    groups = editions_on_disk(site)
+    where_from = "on disk"
+    if not args.no_r2:
+        try:
+            import r2_client                                       # noqa: PLC0415 — optional
+            bucket = r2_client.R2()
+        except LookupError:
+            # No R2 credentials at all: this machine predates the move, or is a scratch tree.
+            # Disk-only is exactly the old behaviour and is correct, so it is not a refusal.
+            bucket = None
+        except Exception as e:                                     # noqa: BLE001
+            bucket = None
+            print(f"PRUNE: the bucket could not be opened ({e}) — pruning the tree only")
+        if bucket is not None:
+            try:
+                in_bucket = editions_in_bucket(bucket)
+                groups = merge_groups(groups, in_bucket)
+                where_from = (f"across the tree and the bucket "
+                              f"({sum(len(v) for v in in_bucket.values())} in R2)")
+            except Exception as e:                                 # noqa: BLE001
+                # The bucket exists but would not list. Falling back to the tree cannot delete
+                # anything wrongly — an edition whose successor is only in R2 simply looks
+                # current and is kept — but it does mean the bucket is not being pruned, and
+                # that must be said rather than discovered later as a bill.
+                print(f"PRUNE: the bucket would not list ({e}) — pruning the tree only. "
+                      f"Nothing in R2 is being retired; this wants looking at.")
+
     rows = plan(site, fetched_set(keys), args.today, args.forward_from, args.lag_days,
-                args.retention_days, record_ok=record_ok)
+                args.retention_days, record_ok=record_ok, groups=groups)
     doomed = [r for r in rows if r["verdict"] == "delete"]
     for r in doomed:
-        r["bytes"] = r["path"].stat().st_size
+        r["bytes"] = r["size"]()
     freed = sum(r["bytes"] for r in doomed)
 
-    print(f"PRUNE: {len(rows)} editions on disk, {len(keys)} paths in the download record, "
+    print(f"PRUNE: {len(rows)} editions {where_from}, {len(keys)} paths in the download record, "
           f"{len(rows) - len(doomed)} kept, {len(doomed)} deletable ({freed / 1e6:.1f} MB)")
     for r in doomed:
         print(f"  {'delete' if args.apply else 'would delete'}  {r['rel']}  ({r['why']})")
@@ -374,9 +519,11 @@ def main(argv=None) -> int:
     gone = []
     for r in doomed:
         try:
-            r["path"].unlink()
+            r["remove"]()
             gone.append(r)
-        except OSError as e:
+        except (OSError, RuntimeError) as e:
+            # RuntimeError is `r2_client`'s: a bucket delete that the API refused. It is reported
+            # and skipped like a failed unlink — the edition stays, which is the safe direction.
             print(f"PRUNE FAIL: {r['rel']} — {e}")
     if gone:
         try:
@@ -393,7 +540,7 @@ def main(argv=None) -> int:
     # already writing a ledger, so this is one more write inside an operation it is doing
     # anyway. Rebuilt rather than edited: the rebuild drops whatever is no longer on disk,
     # which is the same self-healing pass the renderer runs and needs no list of what went.
-    if any(is_bulletin(r["path"], site) for r in gone):
+    if any(isinstance(r["path"], Path) and is_bulletin(r["path"], site) for r in gone):
         bulletin_dir = site / BULLETIN_DIR
         try:
             entries = ba.refreshed(bulletin_dir, args.today, retention_days=args.retention_days)

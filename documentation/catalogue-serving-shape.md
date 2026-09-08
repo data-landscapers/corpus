@@ -2,7 +2,7 @@
 type: decision
 title: catalogue-serving-shape.md — how the catalogue is served at 40,000 records
 last_reviewed: 2026-09-04
-status: decided; implementation deferred to the end of the freeze (2026-09-28)
+status: decided; the `names/` move to R2 was built on 2026-09-08, the catalogue split is still deferred
 ---
 
 # The serving shape of the catalogue
@@ -105,5 +105,7 @@ The freeze runs to 2026-09-27 and the test is *wrong* against *missing* (`CLAUDE
 ## What this leaves open
 
 **The editions layer, which is the real ceiling problem.** 814 MB of the site's 924 MB is `reports/` and `topics/`, and this note does nothing about it. Retention is already conditional on somebody having downloaded the file (`design.md` §9, `prune-editions.py`), so the cheap move has been made. The next one is probably the same one recommended for `names/` — the dated PDFs are citable artefacts, but a citable artefact does not have to be served from the same origin as the page, and the Worker is already in the path of every download. That is a bigger decision than this one and wants its own note.
+
+> **Resolved, 2026-09-08 — `documentation/editions-serving-shape.md`.** It is the same move, and it was built together with the `names/` one recommended above rather than after it: the dated editions and the names shards go to R2 behind the Worker at the URLs they already have. The paragraph above was right that the editions are the ceiling problem and right about the shape of the answer. What it did not anticipate is that the pre-worker archive would be cleared first (1,237 editions, 374 MB) — which bought three weeks and was never the solution.
 
 **Whether the browse payload's chunk boundary is a public commitment.** The chunks are fetched by the page and by nothing else, so on the face of it they are private and re-choosable. That was true of `raw-catalogue.json` too, right up until the export started reading it. State plainly, in `catalogue.py`, that the chunk files are internal and carry no stability promise — the whole-catalogue CSV is the supported way to consume this data — or the boundary will acquire a second consumer the same way the last one did.

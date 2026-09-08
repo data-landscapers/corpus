@@ -215,6 +215,21 @@ python scripts/prune-editions.py --apply
 
 **A refusal is a normal outcome and never fails the run.** The script exits 0 either way and declines wholesale — on a missing credential (it needs a Cloudflare API token with KV read scope, `documentation/cloudflare.md` → *Credentials*), an API error, an empty key listing or a stale-looking download record — printing `PRUNE: declined` with the reason. Persistent refusal means the Worker or token wants looking at; until then the rule is simply not in effect. Deletions are appended to `logs/deleted-editions.csv`, committed with the render.
 
+## Step 6b — put this render's editions in R2, and take them out of the tree
+
+```bash
+python scripts/r2-sync.py --apply
+python scripts/r2-sync.py --prune-local --apply
+```
+
+**The dated editions and the names shards are served from R2, not from GitHub Pages** (`documentation/editions-serving-shape.md`). The URL is unchanged — the Worker serves the bucket at the path the file had under `site/` — so nothing a reader holds is affected, and §9 is untouched. This runs after Step 6a so that an edition the pruner has just retired is never uploaded, and before Step 7 so that the editions this render cut never enter git at all.
+
+**The second command deletes nothing it has not just read back out of the bucket**, at the same byte count and the same MD5, and it refuses wholesale rather than file by file. A failure at either line leaves the tree intact and the site serving — the Worker falls through to Pages for anything the bucket does not hold, which during a half-finished sync is the file itself.
+
+**It needs the R2 key pair** in `logs/.cloudflare-r2.json` or the environment (`documentation/editions-serving-shape.md` → *Credentials*), which is a different credential from the KV token Step 6a uses. Without it both lines print `R2: declined` and exit 1; the render is still publishable, the tree simply keeps its editions and grows against the 1 GB ceiling, so a persistent refusal wants acting on rather than living with.
+
+**On the first run after a change to what counts as an edition**, add `--check-serving`: it asks the live site which origin answered for a sample of keys. The selection rule exists in both `r2-sync.py` and the Worker and they have to agree; this is the only check that does not take their word for it.
+
 ## Step 7 — verify, commit, deploy
 
 **Check that every link leaving the site opens a new tab, before the push and not after.** It is the one page-wide property nothing else asserts: `target` is one attribute among 55,000 anchors, and a builder that stopped applying it looks exactly like a page nobody edited.

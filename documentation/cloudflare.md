@@ -13,18 +13,21 @@ status: current — describes the live configuration
 
 **Two sites, one Cloudflare account, two zones.** `data-landscapers.io` is where both sites live; `data-landscapers.com` exists now only to redirect every old URL to its `.io` twin, path intact, and will go on existing for that purpose indefinitely.
 
-**Cloudflare sits in front of GitHub Pages, which is still the origin and still holds the files.** Nothing about publishing changed when Cloudflare arrived: RENDER commits `site/`, a push triggers the Pages workflow, and Pages serves. Cloudflare terminates TLS at its edge, forwards to Pages, and does two jobs of its own — the redirects from `.com`, and the download log.
+**Cloudflare sits in front of GitHub Pages, and since 2026-09-08 it also holds the editions.** Publishing is unchanged — RENDER commits `site/`, a push triggers the Pages workflow, and Pages serves the pages. What moved is the dated `.pdf`/`.csv` editions and the `catalogue/names/` shards, which now live in the R2 bucket `editions` and are served through the Worker at the URLs they already had. **`documentation/editions-serving-shape.md` is the reference for that half** — what moves, the migration order, the cost in safety of a Worker that used to be out of the serving path and is now in it. Cloudflare terminates TLS at its edge and does three jobs of its own: the redirects from `.com`, the download log, and serving the editions.
 
 **The download log is the part Corpus reads back.** A Worker notes the path of every `.pdf` and `.csv` a reader takes and writes it to a KV store. On Bill's machine, RENDER reads that store and deletes superseded editions nobody ever took. Nothing online ever writes to the repo; the record travels one way, and the only thing that acts on it runs where the repo is.
 
 ```
-reader ──► Cloudflare edge ──► GitHub Pages (origin, holds site/)
-              │
+reader ──► Cloudflare edge ──► Worker `download-log` ──┬─► R2 `editions`  dated .pdf/.csv,
+              │                                        │                  catalogue/names/
               ├─ .com hostnames: 301 to .io, path preserved
               ├─ http: 301 to https, except /.well-known/acme-challenge/
-              └─ Worker `download-log`: notes the path of a .pdf/.csv ──► KV `downloads`
-                                                                              │
-                    Bill's machine:  RENDER Step 6a ── prune-editions.py ◄────┘
+              │                                        └─► GitHub Pages   pages, assets, the
+              │                                                           catalogue, the bulletin
+              └─ the Worker also notes the path of a .pdf/.csv ──► KV `downloads`
+                                                                       │
+        Bill's machine:  RENDER Step 6a ── prune-editions.py ◄─────────┘
+                         RENDER Step 6b ── r2-sync.py ──► R2
 ```
 
 ## Zones and DNS
@@ -83,7 +86,9 @@ reader ──► Cloudflare edge ──► GitHub Pages (origin, holds site/)
 
 **`workers/download-log/worker.js` is the code, deployed as a Worker named `download-log`, on the route `corpus.data-landscapers.io/*`.**
 
-**It sees a request for a `.pdf` or `.csv`, writes the file's path into KV, and passes the request through untouched.** The response is fetched and returned whatever happens in the logging, so a Worker that breaks costs a missing log entry rather than a broken download. That asymmetry is what makes it safe to hang a deletion rule off: the record can be incomplete, never wrong in the direction that would delete a file somebody is holding.
+**It sees a request for a `.pdf` or `.csv` and writes the file's path into KV.** The response is obtained first — from R2 where the bucket holds the object, from GitHub Pages otherwise — and returned whatever happens in the logging, which runs in `waitUntil` and whose failure is swallowed. So a logger that breaks costs a missing log entry rather than a broken download. That asymmetry is what makes it safe to hang a deletion rule off: the record can be incomplete, never wrong in the direction that would delete a file somebody is holding.
+
+**The Worker is no longer out of the serving path, and that is a real change in what a fault costs.** Until 2026-09-08 it fetched from origin and could withhold nothing; now, for a file that exists only in the bucket, it is the only route to that file. `documentation/editions-serving-shape.md` → *What this costs in safety* is the full account and the three things built to hold the line. The one that matters here: **R2 is tried, never required** — a miss, a throw or an absent binding falls through to Pages.
 
 **The route covers the whole site and the Worker filters by file extension.** One route cannot miss a directory added later, and the free allowance is 100,000 requests a day against a site that will not approach it. The cost is that the Worker runs on page views too and returns them untouched.
 
@@ -112,7 +117,7 @@ reports/KEN/KEN-status-2026-08-18.pdf     {"first":"2026-08-18","last":"2026-08-
 **Five conditions, all of which must hold before a file is deleted.**
 
 1. **It is not the current edition.** The newest edition of any document is never touched.
-2. **It was published after 2026-08-18**, the day the Worker went live. The rule applies **forward only**: the ~1,053 editions already published have no record for the period before the Worker existed, so every one of them would be deleted for want of evidence.
+2. **It was published after 2026-08-18**, the day the Worker went live. The rule applies **forward only**: an edition from before the Worker existed has no record for its period, so applying *delete unless somebody took it* to one would delete it for want of evidence. **The archive this protected was cleared by hand on 2026-09-08** — 1,237 editions and 374 MB, on the grounds that the site was not yet live and every fetch in the record was Bill's own testing, so no reader's citation rested on any of them (`design.md` §9, `scripts/drop-pre-worker-editions.py`). The condition stays in the rule and now protects only the 164 pre-worker editions that are still the current edition of a document unmoved since July, which condition 1 protects anyway.
 3. **It was superseded more than seven days ago** — long enough that a late log entry still arrives before the deletion, and it covers the reader who browses on Monday and downloads on Friday from a link they kept.
 4. **The download record is healthy** — see the two checks below.
 5. **Nothing ever fetched it.** Any hit at all protects, in any casing, a crawler's included.
@@ -125,7 +130,7 @@ reports/KEN/KEN-status-2026-08-18.pdf     {"first":"2026-08-18","last":"2026-08-
 
 **Deletions are recorded in `logs/deleted-editions.csv`**, committed with the render. Git keeps the blob for ever regardless; the ledger is the part a person can read. `--ledger` points that elsewhere, which is what a rehearsal against a scratch tree should use.
 
-**What this does not do is shrink the repository.** Deleting a PDF from `site/` removes it from the published site and leaves the blob in `.git`. The saving is against GitHub Pages' soft ceiling of about 1 GB; getting repository weight back is a different operation entirely.
+**What this does not do is shrink the repository.** Deleting a PDF from `site/` removes it from the published site and leaves the blob in `.git`. The saving is against GitHub Pages' soft ceiling of about 1 GB; getting repository weight back is a different operation entirely. **What does stop the growth is Step 6b**: an edition uploaded to R2 and removed from the tree before the commit never enters git at all, so from 2026-09-08 the history stops accruing editions rather than merely stopping serving them.
 
 ## Credentials
 
@@ -134,6 +139,8 @@ reports/KEN/KEN-status-2026-08-18.pdf     {"first":"2026-08-18","last":"2026-08-
 **Supply it as the environment variables `CF_ACCOUNT_ID`, `CF_KV_NAMESPACE_ID` and `CF_API_TOKEN`, or as those three keys in `logs/.cloudflare-kv.json`**, which `.gitignore` excludes. Environment variables take precedence. The token is a secret and must never be committed.
 
 **Both IDs appear in one place.** Open the `downloads` namespace in the dashboard and the address reads `dash.cloudflare.com/<ACCOUNT_ID>/workers/kv/namespaces/<NAMESPACE_ID>`.
+
+**R2 needs a second, separate credential, and it is much stronger.** `scripts/r2-sync.py` writes the editions bucket over the S3-compatible endpoint with an *Object Read & Write* key pair — `CF_R2_ACCESS_KEY_ID` and `CF_R2_SECRET_ACCESS_KEY`, minted under *R2 · Manage API tokens* — supplied in the environment or in `logs/.cloudflare-r2.json`, which `.gitignore` excludes. **This one can overwrite and delete published editions**, where the KV token cannot write at all, so it is the credential in this repo with the most behind it. `documentation/editions-serving-shape.md` → *Doing it* has the full setup.
 
 ## Confirming it all still works
 
