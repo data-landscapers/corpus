@@ -1,11 +1,11 @@
 ---
 title: Zimbabwe — monthly update, August – September 2026
-compiled: 2026-09-05
-period: 2026-08-01 to 2026-09-05
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 place: ZWE
-ledger_rows: 51
+ledger_rows: 54
 not_held: 7
-record: aed3066838e0
+record: a89258622ac7
 ---
 
 # Zimbabwe: monthly update, August – September 2026
@@ -55,6 +55,11 @@ The approval date itself is now settled from the primary record: the Office of t
 A Rwandan immigration delegation toured two border posts on 29 July under a 2024 bilateral memorandum ([visit account](https://www.zbcnews.co.zw/rwanda-eyes-zimbabwes-border-technology-to-strengthen-immigration-systems/)).
 
 Harare then hosted the regional attempt to write common rules for the thing all these systems run on. Southern African regulators, data-protection authorities and artificial-intelligence task forces [met for a three-day workshop to harmonise national data-governance rules](https://spikedmedia.co.zw/one-voice-for-africas-data-inside-harares-push-to-harmonise-the-rules-of-the-digital-age/), anchored to the African Union data policy framework, a continental data governance blueprint, the regional data strategy and a UNESCO toolkit, with the convening body noting that only 1% of data-centre capacity sits within Africa. No outcome document, commitment or timetable from it is held.
+<!-- /narrative -->
+### Public debate and participation in policymaking
+
+<!-- narrative: governance--gov-discourse -->
+Planning moved a generation further out. The ICT ministry's permanent secretary was [appointed to the parliamentary body planning a thirty-year national roadmap to 2056](https://technomag.co.zw/dr-b-chirume-appointed-to-parliamentary-committee-of-the-future-as-zimbabwe-eyes-30-year-digital-roadmap/), which the ministry presents as putting the sector at the centre of long-term national planning. No terms of reference, membership list, work programme or output for the committee is held, and the roadmap itself does not yet exist - so what is established is a seat at a table, not a plan.
 <!-- /narrative -->
 
 ## Finance
@@ -172,6 +177,8 @@ Schools are where the terminals have gone. The education minister told the Senat
 The same 29 July address committed to indigenous-language corpora work led by universities ([launch account](https://spikedmedia.co.zw/zimbabwe-bets-on-digital-gold-inside-the-launch-of-ndarama-and-the-push-for-ai-sovereignty/)).
 
 The listed infrastructure company described its remote monitoring system and digital twin as advancing rather than in production for the quarter ended May 2026 ([trading update](https://itweb.africa/article/infraco-expands-ai-powered-towers/RgeVDvPRmeoMKJN3)).
+
+The first indigenous-language models in service are commercial rather than national. The dominant operator's artificial-intelligence subsidiary [is phasing in a Ndebele-speaking customer-support assistant from September, trained on thousands of hours of recorded Ndebele speech, alongside a Shona assistant it says already resolves more than 70% of enquiries](https://cite.org.zw/econet-ai-nears-completion-of-ndebele-speaking-chatbot/). The resolution rate is the operator's own, and no dataset, evaluation, error rate or escalation route is published. What matters for the record is where the corpora sit: outside the indigenous-language programme the state has committed to and whose ring-fenced share is still unstated.
 <!-- /narrative -->
 ### ICT Industry
 
@@ -202,6 +209,8 @@ The health minister told the National Assembly on 17 July that more than 400 hea
 At a payments conference on 24 July a research firm reported that 95% of transport payments remain cash, that 56% of respondents found digital systems complicated with people with disabilities particularly affected ([conference account](https://bullszimbabwe.com/digital-payments-surge-but-adoption-lags-survey/)).
 
 A media institute's August review sets the country's headline connectivity figure against what it costs. It records [internet penetration at 84.55% on the regulator's fourth-quarter 2025 data, many households spending more than 10% of income to be online against the United Nations' 2% benchmark, and only 62% of the population with reliable electricity](https://zimbabwe.misa.org/2026/08/16/internet-affordability-and-access-in-zimbabwe/), and asks whether the 2026-2030 artificial-intelligence strategy can be delivered on those foundations. The penetration figure counts active subscriptions rather than individual users, which is the gap the affordability finding sits in.
+
+A larger round of the regulator's disability training ran, and it reached teachers rather than learners: a [five-day workshop at Chiredzi for 37 teachers with visual impairments and their assistants and aides, drawn from all ten provinces, covering assistive technologies and accessible digital platforms](https://dig.watch/updates/zimbabwe-ict-skills-teachers-visual-impairments), facilitated with the same civil-society internet chapter as the June cohort. The Act that would give any of this a statutory footing was passed in November 2025 and still awaits commencement.
 <!-- /narrative -->
 
 ## Data
