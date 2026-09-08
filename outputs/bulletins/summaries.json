@@ -3694,6 +3694,11 @@
     "written": "2026-09-08",
     "summary": "The Gauteng provincial department's 2025/26 annual report records 96 public Wi-Fi hotspots offering up to 500MB of free internet a day, 33 e-services live, 99% provincial network uptime and 7,271 cameras on the provincial safety network. The figures are the department's own, with no audited outturn or prior-year comparison in the account."
   },
+  "2026-09-07-gdn-dpi-inclusivity-survey-deployment-linkedin": {
+    "published": "2026-09-07",
+    "written": "2026-09-08",
+    "summary": "The Global Development Network has begun fieldwork on a five-country DPI Inclusivity Survey covering Sierra Leone and Ghana alongside Chile, Bangladesh and Indonesia, with partner teams at the Institute for Development and the University of Ghana. Running to April and engaging more than 5,000 households, it asks whether digital identity and digital payment systems leave people feeling more economically, socially and politically included, rather than measuring registration and access."
+  },
   "2026-09-07-ghana-biometric-sim-verification-resolve-unshaken": {
     "published": "2026-09-07",
     "written": "2026-09-08",
@@ -3808,5 +3813,50 @@
     "published": "2026-09-07",
     "written": "2026-09-08",
     "summary": "The communications regulator has operationalised the National Digital Trust Anchor as national root certification authority, under the electronic communications and transactions statute. The framework is to issue and verify the certificates and signatures that establish who a person or organisation is online. No certificate count, list of subordinate authorities or accreditation route accompanies the launch."
+  },
+  "2026-09-08-kictanet-south-sudan-audpf-data-governance-workshop": {
+    "published": "2026-09-08",
+    "written": "2026-09-08",
+    "summary": "The African Union Commission, AUDA-NEPAD, GIZ and KICTANet convened a three-day workshop in Juba from 8 to 10 September on domesticating the African Union Data Policy Framework in South Sudan. This is a forward notice of the convening; no outcome or workplan is on record."
+  },
+  "2026-09-08-techafricanews-egypt-8bn-outsourcing-exports": {
+    "published": "2026-09-08",
+    "written": "2026-09-08",
+    "summary": "Egypt's communications minister put outsourcing exports at US$5.1 billion at the end of 2025 and set a US$8 billion target for 2028, opening the sixth Tech Invest Egypt conference in Cairo, and gave ICT sector growth of 24.3 per cent for the fourth quarter of the 2025/26 financial year as the highest on record. It is the third ministerial figure for the same 2025 outturn — US$4.8 billion and US$5.2 billion are also on the record — and no statistical release stands behind any of them."
+  },
+  "2026-09-08-techafricanews-egypt-vodafone-elsewedy-cassava-data-centre": {
+    "published": "2026-09-08",
+    "written": "2026-09-08",
+    "summary": "Two data centre partnerships announced in Cairo project about US$1 billion of investment between them. The first establishes Africa Data Centres Egypt, combining Vodafone Business, Elsewedy Electric and Cassava Technologies, starting at 20MW over three years on a targeted path to 200MW; the second, between Vodafone Business and Cassava, is described as Egypt's first sovereign AI data centre, offering GPU-as-a-Service locally so that AI workloads run without moving data out of the country. The sums are projections stated at announcement rather than committed capital."
+  },
+  "2026-09-08-techafricanews-kenya-data-centre-licence-framework": {
+    "published": "2026-09-08",
+    "written": "2026-09-08",
+    "summary": "The Communications Authority of Kenya has proposed a standalone Data Centre licence for co-location operators, taking them out of the Network Facilities Provider-Tier 2 category they currently sit under, and opened comment for thirty days from its public notice. The Authority gives visibility over data-centre operations, support for investment and proportionality with comparable jurisdictions as its reasons; the notice itself is not held, so the closing date is unestablished."
+  },
+  "2026-09-08-techafricanews-m-pesa-ethiopia-awash-bank-cardless-atm": {
+    "published": "2026-09-08",
+    "written": "2026-09-08",
+    "summary": "M-PESA Ethiopia has extended cardless ATM withdrawals to Awash Bank's machines, letting wallet holders draw cash without a bank card by authorising the withdrawal in the app. The service has been live with Bank of Abyssinia since August; the date it started with Awash Bank is not stated."
+  },
+  "2026-09-08-techafricanews-south-africa-subsea-cable-ai-digital-skills": {
+    "published": "2026-09-08",
+    "written": "2026-09-08",
+    "summary": "South Africa's operator association has asked the Competition Commission for a five-year exemption letting Vodacom, MTN, Telkom, Cell C, Rain and Liquid share limited infrastructure planning information through an independent third party, to find connectivity gaps and avoid duplicated build. The communications minister, who called the proposal encouraging for rural areas and townships, also argued that disruption to Middle East routes gives the country an opening as an alternative submarine cable hub."
+  },
+  "2026-09-08-undp-africa-accelerator-digital-public-infrastructure": {
+    "published": "2026-09-08",
+    "written": "2026-09-08",
+    "summary": "UNDP has published the standing description of its Africa Accelerator for Digital Public Infrastructure, led jointly by the Regional Bureau for Africa and the Digital and AI Hub, which supports countries to assess digital readiness, strengthen governance, build implementation capacity and develop investment-ready programmes across digital identity, digital payments and data exchange. Its first published cohort session ran on 2 and 3 September with delegations from Ethiopia, Malawi, Rwanda, Sierra Leone and Zambia; no budget, duration or deliverable set is published for the accelerator itself."
+  },
+  "2026-09-08-wearetech-benin-paludisme-ia-diagnostic": {
+    "published": "2026-09-08",
+    "written": "2026-09-08",
+    "summary": "Benin's health ministry has contracted the South Korean firm Noul to put twenty AI-assisted malaria diagnostic devices into the main public referral hospitals, moving the miLab MAL system from individual facilities into the national malaria control programme, which has classified it as a point-of-service diagnostic. The device automates blood-smear preparation, digitisation and image analysis; the supporting evidence is the vendor's account of a 2025 evaluation in 211 children, and the award date is not established."
+  },
+  "2026-09-08-wearetech-workke-kennedy-mokaya-kenya": {
+    "published": "2026-09-08",
+    "written": "2026-09-08",
+    "summary": "WorkKE, a Kenyan platform launched in 2024, matches businesses to freelancers and uses local cybercafes as access relays, releasing escrow-held payments as project stages are validated and settling over mobile money. It reports more than 1,650 registered users, over 500 of them freelancers, and 200 partner cybercafes, and is extending into Uganda, Tanzania, Nigeria, South Africa and Ghana; the counts are the company's own."
   }
 }
