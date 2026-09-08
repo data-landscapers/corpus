@@ -70,9 +70,11 @@ Same schema, `documentation/report-layer.md` §1 — but three of its columns do
 
 ## Word budget
 
-**Prose only, tables excluded: 800–1,150 words for a progress report, 500–1,300 for a monthly.**
+**Prose only, tables excluded: 800–1,150 words for a progress report, and 300 + 25 to 900 + 55 words a row for a monthly** — an intercept plus a rate per ledger row inside the document's own window, resolved against the `ledger_rows` it prints. `scripts/report-register-check.py` reads this line — the same script, this skeleton, for an `X__` unit.
 
-Deliberately low: a region's ledger is short outside `XAF`, and the failure mode of a thin ledger with a fat budget is prose that fills the gap with the general knowledge the model brought with it. `scripts/report-register-check.py` reads this line — the same script, this skeleton, for an `X__` unit. The monthly's ceiling is per document rather than per block, on the country monthly's own reasoning (`report-country-skeleton.md` → *Word budget*): a quiet month should still be short.
+**The deliberately low flat band is now stated as a rate, which is what it was reaching for** *(2026-09-08)*. A region's ledger is short outside `XAF`, and the failure mode of a thin ledger with a fat budget is prose that fills the gap with the general knowledge the model brought with it — so the budget should be small when the ledger is. A flat 500–1,300 said that by assuming the ledger is always short, and `XAF` is the standing case where it is not: 101 rows moved into its window on 2026-09-08 and the document ran to 6,175 words. A rate says the same thing without the assumption, and it binds harder on the thin regions than the flat number did: three rows buy 375–1,065 words where the old floor allowed 500 for nothing in particular.
+
+The region's ceiling rate matches the country's; its intercept is lower because a region has no status report to carry the standing description, so less of its monthly is fixed overhead. See `report-country-skeleton.md` → *Word budget* for the rest of the reasoning.
 
 Count prose with links reduced to their anchor text (`re.sub(r'\[([^\]]*)\]\([^)]*\)', r'\1', body)`).
 

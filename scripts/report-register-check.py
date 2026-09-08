@@ -39,6 +39,7 @@ Usage:
   python scripts/report-register-check.py --terms         # print what it looks for
 """
 import argparse
+import collections
 import csv
 import glob
 import os
@@ -92,21 +93,89 @@ FIRST_PERSON = re.compile(r"(?<![\w'’.])(I|us)(?![\w'’])")
 
 BUDGET_LINE = re.compile(r"([\d,]+)\s*[–-]\s*([\d,]+)(?: words)? for an? (status|monthly|progress)")
 
+# **A budget may be flat or a rate per ledger row**, and the skeleton says which by how it is
+# written: `N–M for a {doc}` is flat, `A + B to C + D words a row for a {doc}` is a rate. The
+# second form exists because the monthly's length is set by its input rather than by its form —
+# see the country skeleton, → *Word budget*. The two patterns cannot match each other's sentence:
+# the flat one requires `words? for`, and a rate line always reads `words a row for`.
+BUDGET_RATE_LINE = re.compile(
+    r"([\d,]+)\s*\+\s*([\d,]+)\s+to\s+([\d,]+)\s*\+\s*([\d,]+)\s*words a row for an? "
+    r"(status|monthly|progress)")
+
+
+class Band(collections.namedtuple("Band", "lo_base lo_per hi_base hi_per")):
+    """A word budget, resolved against the number of ledger rows the document carries.
+
+    A flat band has zero per-row terms and ignores the argument; a rate band does not. Keeping one
+    type for both means the caller never branches on which kind a skeleton happened to name."""
+
+    __slots__ = ()
+
+    @property
+    def scaled(self):
+        return bool(self.lo_per or self.hi_per)
+
+    def at(self, rows):
+        return (self.lo_base + self.lo_per * rows, self.hi_base + self.hi_per * rows)
+
+    def describe(self, rows):
+        lo, hi = self.at(rows)
+        return f"{lo}-{hi} on {rows} row(s)" if self.scaled else f"{lo}-{hi}"
+
+
+def _num(s):
+    return int(s.replace(",", ""))
+
+
+# **Which documents each skeleton must name**, asserted rather than inferred from what parsed.
+# A skeleton that names two of its documents is not a parse failure — `found` is non-empty — and
+# `main()` skips a kind with no band, so a reworded line for one document would silently stop
+# budgeting that document while every other check kept reporting normally. That is the shape the
+# rate line makes likelier, being a longer sentence than the flat one, so it is closed here.
+# A country's progress prose is budgeted per indicator, so the country skeleton does not name it.
+REQUIRED = {"country": {"status", "monthly"}, "region": {"progress", "monthly"}}
+
 
 def budgets(kind="country"):
-    """{doc kind: (low, high)} read from that process's skeleton, which is the knob.
+    """{doc kind: Band} read from that process's skeleton, which is the knob.
 
-    The pattern reads each `N–M for a {doc}` pair independently, so a skeleton may name one
-    document (a region, which issues the progress report only) or three."""
+    The patterns read each budget independently and in either form, so a skeleton may name one
+    document (a region, which issues the progress report and a monthly) or three."""
     path = SKELETONS[kind]
-    found = {m.group(3): (int(m.group(1).replace(",", "")), int(m.group(2).replace(",", "")))
-             for m in BUDGET_LINE.finditer(open(path, encoding="utf-8").read())}
-    if not found:
-        print(f"FATAL: the word-budget line in {os.path.relpath(path, ROOT)} no longer matches the "
-              "pattern this script reads. Fix one or the other — a check that silently stops "
-              "checking is worse than no check.", file=sys.stderr)
+    text = open(path, encoding="utf-8").read()
+    found = {m.group(3): Band(_num(m.group(1)), 0, _num(m.group(2)), 0)
+             for m in BUDGET_LINE.finditer(text)}
+    found.update({m.group(5): Band(_num(m.group(1)), _num(m.group(2)),
+                                   _num(m.group(3)), _num(m.group(4)))
+                  for m in BUDGET_RATE_LINE.finditer(text)})
+    missing = REQUIRED[kind] - set(found)
+    if missing:
+        print(f"FATAL: the word-budget line in {os.path.relpath(path, ROOT)} no longer names "
+              f"{', '.join(sorted(missing))} in a form this script reads — flat `N–M for a {{doc}}` "
+              "or a rate `A + B to C + D words a row for a {doc}`. Fix one or the other — a check "
+              "that silently stops checking is worse than no check.", file=sys.stderr)
         sys.exit(2)
     return found
+
+
+LEDGER_ROWS = re.compile(r"^ledger_rows:\s*(\d+)\s*$", re.M)
+
+
+def ledger_rows(text, path):
+    """The row count the document was rendered from, off its own frontmatter.
+
+    **A rate band with no row count is a check that cannot run, and it says so rather than scoring
+    the document at nought rows** — a nought would make every scaled band `lo_base-hi_base` and
+    quietly fail every thick document under band, which is the failure this form was introduced to
+    end. `report-render.py` writes the field on every place monthly; its absence means the document
+    was written by something else."""
+    m = LEDGER_ROWS.search(text)
+    if m:
+        return int(m.group(1))
+    print(f"FATAL: {os.path.relpath(path, ROOT)} carries no `ledger_rows:` and its budget is a "
+          "rate per row, so it cannot be checked. Re-render it, or give the skeleton a flat band.",
+          file=sys.stderr)
+    sys.exit(2)
 
 
 def mask_urls(text):
@@ -467,12 +536,15 @@ def main():
         elif authored:
             head = f"{rel}  (not budgeted — authored baseline, prose outside the markers)"
         else:
-            lo, hi = band_for[kind]
+            budget_band = band_for[kind]
+            rows = (ledger_rows(open(path, encoding="utf-8").read(), path)
+                    if budget_band.scaled else 0)
+            lo, hi = budget_band.at(rows)
             band = "" if lo <= words <= hi else (f"  OVER by {words - hi}" if words > hi
                                                  else f"  UNDER by {lo - words}")
             if band:
                 over += 1
-            head = f"{rel}  {words} words ({lo}-{hi}){band}"
+            head = f"{rel}  {words} words ({budget_band.describe(rows)}){band}"
         print(head + f"  {len(hits)} register hit(s)"
               + (f"  {len(figs)} uncited block(s)" if figs else ""))
         for line, label, text in hits:
