@@ -7,6 +7,10 @@ status: current — describes the live configuration
 
 # The Cloudflare layer
 
+> **If you are picking this up cold, read `documentation/how-the-site-is-served.md` first.** It
+> explains the whole arrangement in plain language in about five minutes. This file is the
+> operational reference — what is configured, and how to check it still works.
+
 *(Written 2026-08-18, from three files that between them built this: `archived/domain-move.md`, `archived/delete-unless-downloaded.md` and the Worker's own README. Those recorded how the thing was arrived at — the options weighed, the dead ends, the dashboard screens that had moved. This one records only what is true now, and what depends on it. If you are picking this up cold, this file is the whole picture and you do not need the archived three.)*
 
 ## The shape of it

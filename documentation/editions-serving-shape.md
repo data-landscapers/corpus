@@ -2,10 +2,14 @@
 type: decision
 title: editions-serving-shape.md — where the dated editions are served from
 last_reviewed: 2026-09-08
-status: decided and built; the account-side steps and the cutover are outstanding
+status: done — decided, built and cut over on 2026-09-08
 ---
 
 # The serving shape of the editions
+
+> **`documentation/how-the-site-is-served.md` is the plain-language version of what this note
+> decided.** Read that if you want to understand the arrangement; read this if you want to know
+> why it was chosen and what it cost.
 
 *(This is the note `catalogue-serving-shape.md` → *The editions layer* said would be needed and
 deferred. Written 2026-09-08 at Bill's instruction to build the move now rather than at the end
@@ -198,7 +202,18 @@ bucket, and there is no reason to.
 
 ## Dates
 
-- **2026-09-08** — decided and built. The pre-worker archive cleared (1,237 editions, 374 MB);
-  `r2_client.py`, `r2-sync.py` and the Worker's serving half written and tested; `prune-editions.py`
-  taught to prune both stores. The account-side steps and the cutover are outstanding and are
-  Bill's.
+- **2026-09-08** — decided, built and cut over, all in one session. The pre-worker archive
+  cleared (1,237 editions, 374 MB); `r2_client.py`, `r2-sync.py` and the Worker's serving half
+  written and tested; `prune-editions.py` taught to prune both stores. Bucket created, 8,139
+  objects uploaded and verified twice, the Worker deployed with both bindings over the API, and
+  the local copies deleted. **`site/` 1,316 MB → 82 MB.**
+
+  **Four faults were found by probing the live site rather than by trusting the deploy**, and
+  each is worth remembering because none of them would have announced itself. The 5,658 `.txt`
+  name shards went up as `application/octet-stream` because `.txt` was missing from the type
+  map, and matched on size and MD5 for ever after — fixed by making the content type part of
+  what "already current" means. A single Cloudflare `503` two thirds of the way through a resync
+  aborted the whole run, correctly but unhelpfully; the transient codes are now retried. Passing
+  R2 the whole header set as `range` made it resolve the absent Range to the entire object, so
+  every ordinary download answered `206 Partial Content`. And `--check-serving` was reading
+  Cloudflare's edge cache rather than the Worker, reporting `pages` for files R2 was serving.
