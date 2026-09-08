@@ -3,10 +3,10 @@ title: Burkina Faso — progress report, September 2025 – September 2026
 compiled: 2026-09-08
 period: 2025-09-01 to 2026-09-08
 place: BFA
-ledger_rows: 145
+ledger_rows: 146
 not_held: 8
 indicators: 121
-record: e33c6aa1eb02
+record: fa195390bd7a
 ---
 
 # Burkina Faso: progress report, September 2025 – September 2026
@@ -24,7 +24,7 @@ Where a row reads ***No evidence***, the base holds nothing on that indicator. *
 
 | Topic | Indicator | Developments | Progress |
 |---|---|---|---|
-| Strategies, plans and policies | Digital transformation strategy | The digital ministry [worked out its contribution to the 2026-2030 national plan in August 2026](https://lefaso.net/spip.php?article148658); the plan text, the digital component and any target are unheld. <details><summary>Full record</summary>2026-08-17 — [a ministerial session considered what the digital transition ministry contributes to the RELANCE 2026-2030 national plan](https://lefaso.net/spip.php?article148658). No baseline was held before it.<br>The plan text, the digital component, any budget line and any target are all unheld, so what the record shows is that the process is running and not what it will produce.<br>What the country has instead of a published strategy is a list of twelve structuring projects, named across the ministry's own reporting and visible in this report as the data centres, the citizen service centres, the supervision centre and the white-zone programme. Each is traceable; the document that would tie them together is not.</details> | Advanced, a process running with nothing published from it |
+| Strategies, plans and policies | Digital transformation strategy | The digital ministry [worked out its contribution to the 2026-2030 national plan in August 2026](https://lefaso.net/spip.php?article148658); the plan text, the digital component and any target are unheld. <details><summary>Full record</summary>2026-08-17 — [a ministerial session considered what the digital transition ministry contributes to the RELANCE 2026-2030 national plan](https://lefaso.net/spip.php?article148658). No baseline was held before it.<br>The plan text, the digital component, any budget line and any target are all unheld, so what the record shows is that the process is running and not what it will produce.<br>What the country has instead of a published strategy is a list of twelve structuring projects, named across the ministry's own reporting and visible in this report as the data centres, the citizen service centres, the supervision centre and the white-zone programme. Each is traceable; the document that would tie them together is not.<br>The territorial plan is being reworked. The authorities are [revising the national plan for the digital development of the territory to a 2030 horizon](https://www.wearetech.africa/fr/fils/actualites/telecom/le-burkina-faso-repense-l-amenagement-numerique-de-son-territoire-a-l-horizon-2030), against an international telecommunications union figure putting about 70 per cent of the population off the internet in 2024. A revision under way, with no draft, budget, target or adoption date held.</details> | Advanced, a process running with nothing published from it |
 | Strategies, plans and policies | ICT strategy |  | ***No evidence*** |
 | Strategies, plans and policies | Broadband strategy |  | ***No evidence*** |
 | Strategies, plans and policies | Data storage / cloud strategy |  | ***No evidence*** |

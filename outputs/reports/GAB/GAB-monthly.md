@@ -3,9 +3,9 @@ title: Gabon — monthly update, August – September 2026
 compiled: 2026-09-08
 period: 2026-08-01 to 2026-09-08
 place: GAB
-ledger_rows: 37
+ledger_rows: 38
 not_held: 17
-record: 10a2fd369bb9
+record: 813d5469b4b8
 ---
 
 # Gabon: monthly update, August – September 2026
@@ -86,6 +86,11 @@ The regional interoperable QR-code standard was launched at Douala on 29 July 20
 A different kind of exchange went live in August. The airport-security committee [moved its advance passenger information and passenger-name-record system into its operational phase on 14 August](https://agpgabon.ga/gabon-transport-aerien-le-deploiement-du-systeme-api-pnr-entre-dans-sa-phase-operationnelle/), naming Royal Air Maroc lead carrier for IATA-code implementation under the state's convention with SECURIPORT, with border risk-screening the stated purpose. The convention terms, the retention rule for passenger data and any authorisation by the data-protection authority are not held — and the country's biometric-processing prohibition, with the defect already recorded in its derogation, sits alongside it unremarked.
 
 The private half of the health system was brought into a standing channel for the first time. The health ministry [instituted quarterly consultations with the association of private health establishments, the agenda naming the transmission of health data from private clinics among its items](https://agpgabon.ga/gabon-sante-le-ministere-instaure-un-dialogue-trimestriel-avec-le-secteur-prive/). No data standard, transmission route, reporting obligation or first meeting date is published, and the base holds no measure of what share of care the private sector accounts for — so the channel exists and what will flow through it does not.
+<!-- /narrative -->
+### Digital Identity and CRVS
+
+<!-- narrative: dpi--dpi-id -->
+A bus fare is about to become a biometric credential. The national transport company is [preparing a biometric transport card for Libreville buses, securing the collection of personal data before digitising access to the service](https://www.gabonreview.com/bus-a-libreville-la-cnt-prepare-la-carte-de-transport-biometrique/). No issuance date, data controller, retention rule or fare structure is stated.
 <!-- /narrative -->
 ### Registries
 

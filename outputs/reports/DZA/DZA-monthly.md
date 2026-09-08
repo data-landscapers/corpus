@@ -3,9 +3,9 @@ title: Algeria — monthly update, August – September 2026
 compiled: 2026-09-08
 period: 2026-08-01 to 2026-09-08
 place: DZA
-ledger_rows: 37
+ledger_rows: 38
 not_held: 7
-record: b4db9cba697e
+record: 4651a8833078
 ---
 
 # Algeria: monthly update, August – September 2026

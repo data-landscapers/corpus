@@ -3,9 +3,9 @@ title: Guinea-Bissau — monthly update, August – September 2026
 compiled: 2026-09-08
 period: 2026-08-01 to 2026-09-08
 place: GNB
-ledger_rows: 4
+ledger_rows: 5
 not_held: 2
-record: e449831b478a
+record: 0d95b8cec2b8
 ---
 
 # Guinea-Bissau: monthly update, August – September 2026
@@ -37,6 +37,14 @@ The national digitalisation programme [launched nationally in August, at US$60m,
 
 <!-- narrative: dpi--dpi-registry -->
 The register moved without the electorate changing. The electoral support office [handed the updated register to the elections commission in physical and electronic form for the 30 August referendum, recording 966,152 registered voters — unchanged from the last update](https://ang.gw/referendo-30-de-agosto-gtape-entrega-cadernos-eleitorais-a-cne/), having also [issued 25,146 replacement voter cards in a 30-day nationwide operation from 13 July to 11 August through 51 brigades covering every region](https://ang.gw/gtape-anuncia-emissao-de-25-146-cartoes-do-eleitor-da-2a-via/). So the month's work was replacing credentials rather than adding registrants, and no audit or de-duplication statement accompanies the handover.
+<!-- /narrative -->
+
+## Digitalisation
+
+### Digitalisation of sub-national government
+
+<!-- narrative: digitalisation--digital-localgov -->
+The capital’s council put a date on its own modernisation. Bissau city council [announced the launch on 9 September 2026 of a modernisation and digital transformation programme for the institution, on a plan approved at the council’s first strategic retreat](https://ang.gw/camara-municipal-de-bissau-anuncia-para-quarta-feira-lancamento-do-projeto-de-modernizacao-e-transformacao-digital-da-instituicao/). No component list, budget, timetable or partner is stated.
 <!-- /narrative -->
 
 ## Inclusion

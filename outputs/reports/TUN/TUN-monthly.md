@@ -3,9 +3,9 @@ title: Tunisia — monthly update, August – September 2026
 compiled: 2026-09-08
 period: 2026-08-01 to 2026-09-08
 place: TUN
-ledger_rows: 44
+ledger_rows: 46
 not_held: 6
-record: 791d0fb4154f
+record: 00f7cb8231d9
 ---
 
 # Tunisia: monthly update, August – September 2026
@@ -58,6 +58,11 @@ A restricted ministerial council on [4 August 2026 set the orientations of the 2
 A measurement study of North African 5G published on [3 August 2026](https://www.ookla.com/articles/5g-north-africa-2026), cited rather than absorbed, reports the Tunisian 5G median down 30% from launch by month six and the combined 4G and 5G median below the pre-launch baseline, while fixed-wireless lines rose to 319,554 by May 2026 under the regulator's 30 Mbps obligation. Nothing published bears on the submarine cables, data centres or satellite licensing.
 
 The one physical build to move was a stalled one. The grands projets commission [ordered immediate procurement to complete the Cite Numerique d'Ennahli technology park](https://www.lapresse.tn/2026/08/10/grands-projets-acceleration-de-lextension-de-la-centrale-de-borj-el-amri-et-de-deux-projets-hospitalier-et-numerique/) at a review session chaired by the Prime Minister on 10 August, alongside unrelated power-station and hospital projects. No cost, completion date, occupancy plan or account of why the park was incomplete is stated.
+<!-- /narrative -->
+### Data Storage
+
+<!-- narrative: ict-infrastructure--infra-store -->
+Public hosting was centralised by circular. A prime ministerial circular of 2 September 2026 [requires public bodies’ websites to be hosted only at the national computing centre and takes administrative files off mobile applications](https://www.alchourouk.com/article/%D9%85%D9%86%D8%B4%D9%88%D8%B1-%D8%AD%D9%83%D9%88%D9%85%D9%8A-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%AA%D8%A3%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D9%84%D9%84%D9%87%D9%8A%D8%A7%D9%83%D9%84-%D8%A7%D9%84%D8%B9%D9%85%D9%88%D9%85%D9%8A%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D9%87%D8%AF%D9%8A%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%8A%D8%A8%D8%B1%D9%86%D9%8A%D8%A9), to strengthen the security of public digital systems against cyber threats. The circular text is not held, only a newspaper account of it, and no compliance deadline, exemption route or migration plan for bodies hosted elsewhere is stated.
 <!-- /narrative -->
 ### Cybersecurity
 

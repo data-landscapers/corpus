@@ -87,7 +87,9 @@ The memorandum with an equipment supplier is non-binding and was signed in Febru
 No operating capacity, utilisation or facility count for the country appears anywhere in this ledger, so the priority is stated and the estate is unmeasured.",TUN-infra.store-dc-policy|TUN-infra.store-solecrypt
 infra.store--local-data-centre-capacity-national-providers,Advanced,The health ministry confirmed an [intention to adopt domestic cloud solutions](2026-02-13 Tunisia Advances Digital Health Reform With AI and National Cloud Strategy) for national health data.,"The confirmation came in February 2026 ([intention](2026-02-13 Tunisia Advances Digital Health Reform With AI and National Cloud Strategy)).
 
-No provider, capacity, procurement or timetable is named. The dataset it would host is the linked health record for which no legal basis is held, so the sovereignty question and the lawfulness question are both open on the same data.",TUN-infra.store-health-cloud
+No provider, capacity, procurement or timetable is named. The dataset it would host is the linked health record for which no legal basis is held, so the sovereignty question and the lawfulness question are both open on the same data.
+
+Public hosting was centralised by circular. A prime ministerial circular of 2 September 2026 [requires public bodies’ websites to be hosted only at the national computing centre and takes administrative files off mobile applications](2026-09-04-alchourouk-circular-securing-public-digital-systems). The circular text is not held, and no compliance deadline, exemption route or migration plan is stated.",TUN-infra.store-health-cloud|TUN-infra.store-public-hosting-circular
 infra.energy--sufficient-energy-and-water-for-data-centres,Advanced,A developer's [solar site for data-centre power](2026-02-06-dcd-solecrypt-schneider-bizerte-data-center) was at base-camp stage in November 2025.,"It reaches the base through the same account as the data-centre memorandum ([site](2026-02-06-dcd-solecrypt-schneider-bizerte-data-center)).
 
 No capacity, commissioning date or connection arrangement is stated. It is the only energy item in this ledger, and it belongs to a private developer rather than to the state.",TUN-infra.energy-solar
@@ -189,7 +191,9 @@ capacity.training--graduates-entering-dt-ecosystem,Advanced,"[Digital skills are
 
 The women entrepreneurs cohort opened in August 2026 with the training launch's own date not established in the source ([cohort](2026-08-19-assabahnews-escwa-women-entrepreneurs-ecommerce-ai-training)).
 
-One cohort of a hundred is the entire delivered training record for this country in the period.",TUN-capacity.training-skills|TUN-capacity.training-women-entrepreneurs-digital-training
+One cohort of a hundred is the entire delivered training record for this country in the period.
+
+The employment minister said artificial intelligence [would be added to vocational training programmes for the 2026-2027 intake](2026-09-07-alchourouk-ai-in-vocational-training-programmes). No curriculum, place count, centre list or funding accompanies it.",TUN-capacity.training-skills|TUN-capacity.training-women-entrepreneurs-digital-training|TUN-capacity.training-ai-in-vocational-training
 data.statistics--censuses-and-surveys,Advanced,"The regulator's observatory published a [one-page synthesis of its 2026 internet and digital skills survey](2026-07-24-int-tunisie-synthese-enquete-internet-competences-numeriques-2026), and the full report is not published.","The synthesis carries no printed date and is dated from the earliest press report of its publication. The full survey report — sample design, fieldwork dates, question wording — is not published, and the observatory has issued full report documents for 2023, 2021 and 2019 but only this synthesis for 2026 ([synthesis](2026-07-24-int-tunisie-synthese-enquete-internet-competences-numeriques-2026), [survey](2026-07-27-tunisie-enquete-int-2026-usage-internet-competences-numeriques)).
 
 Use of online public administration comes from the same survey ([e-government](2026-07-28-tunisie-enquete-observatoire-int-2026-ia-achats-en-ligne)).

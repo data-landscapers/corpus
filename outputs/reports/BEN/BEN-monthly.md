@@ -3,9 +3,9 @@ title: Benin — monthly update, August – September 2026
 compiled: 2026-09-08
 period: 2026-08-01 to 2026-09-08
 place: BEN
-ledger_rows: 25
+ledger_rows: 27
 not_held: 4
-record: b3c318229f9b
+record: 7c8eeb463ea4
 ---
 
 # Benin: monthly update, August – September 2026
@@ -22,6 +22,11 @@ Two working systems tightened. A university [made its academic-records platform 
 
 ## Governance
 
+### Legislation and regulation
+
+<!-- narrative: governance--gov-legislate -->
+The framework statute reached into the workplace. On a newspaper’s reading of [article 379 of the Code du numérique, a company phone, a company-issued number or a work messaging group does not by itself entitle an employer to read the messages on it](https://www.lanation.bj/societe/societe-votre-patron-peut-il-lire-vos-messages-whatsapp-professionnels). It is a reading rather than a regulator decision or a judgment, and the base holds no enforcement action on workplace monitoring.
+<!-- /narrative -->
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->

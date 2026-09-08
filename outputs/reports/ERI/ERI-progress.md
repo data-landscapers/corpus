@@ -3,10 +3,10 @@ title: Eritrea — progress report, September 2025 – September 2026
 compiled: 2026-09-08
 period: 2025-09-01 to 2026-09-08
 place: ERI
-ledger_rows: 52
+ledger_rows: 53
 not_held: 16
 indicators: 121
-record: cecacdfb5ecf
+record: 7765d26024e8
 ---
 
 # Eritrea: progress report, September 2025 – September 2026

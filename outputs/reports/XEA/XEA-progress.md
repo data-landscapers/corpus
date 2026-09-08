@@ -3,16 +3,16 @@ title: East Africa — progress report, September 2025 – September 2026
 compiled: 2026-09-08
 period: 2025-09-01 to 2026-09-08
 place: XEA
-ledger_rows: 49
+ledger_rows: 50
 not_held: 0
-record: 2625f4e432c2
+record: 79723387a726
 ---
 
 # East Africa: progress report, September 2025 – September 2026
 
 *Compiled 2026-09-08 by Claude Opus from the documents in the Corpus repository. Sections run from the region's institutions outwards to what funds them. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 49 bodies, instruments and systems on this place's ledger, 33 changed position between 2025-09-01 and 2026-09-08, 3 did not, 13 carry no stated baseline, and 0 are ***Not held*** at both ends.*
+*Of 50 bodies, instruments and systems on this place's ledger, 33 changed position between 2025-09-01 and 2026-09-08, 3 did not, 14 carry no stated baseline, and 0 are ***Not held*** at both ends.*
 
 *Shape check, run before the comparison: 101 sources for this place in the window — 27 in the earlier half (2025-09 to 2026-02), 74 in the later (2026-03 to 2026-09). The two halves are comparable, so the comparison is made over the whole window.*
 
@@ -114,6 +114,7 @@ Two data-protection tracks moved in different directions: the EAC's cross-border
 |---|---|---|---|
 | EAC labour mobility and electronic visa charges | Free movement within the bloc, electronic visa portals in use | [A USD 50 fee imposed on citizens of Kenya, Uganda, Rwanda and the Democratic Republic of Congo through the electronic visa portal (2026-07)](https://techcabal.com/2026/07/20/south-sudan-slaps-visa-kenya-rwanda-uganda/) | Regressed |
 | EAC travel-document and passport harmonisation (NCIP national-ID travel, EAC e-Passport) | Since January 2014, national identity cards of Uganda, Rwanda and Kenya have been recognised as a valid travel document alongside national and EAC passports under the Northern Corridor Integration Projects, allowing citizens to cross the three borders and remain up to six months without further documentation | [Somalia, a full EAC member since March 2024, was cleared to adopt and print the EAC e-Passport in February 2026. South Sudan's civil-registry directorate said in July 2026 it will introduce the EAC passport under the Community agreement alongside a new ten-year national booklet — an announced intention requiring the passport act to be amended and approval from the Council of Ministers and the Transitional National Legislative Assembly, with no legislative timetable given](https://citizenshiprightsafrica.org/the-experience-of-cross-border-travel-using-national-id/) | Advanced |
+| Mutual recognition of national identity documents | Not held | [A 2018 study for the regional bloc set out a four-milestone architecture for regional identity interoperability, recording that South Sudan had issued more than a million identity cards by then (2018-08)](https://documents1.worldbank.org/curated/en/337501535031584335/pdf/129621-ACS.pdf) | ***Baseline not held*** |
 
 ### Digital Payments and Fintech
 

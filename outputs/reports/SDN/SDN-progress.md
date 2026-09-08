@@ -3,10 +3,10 @@ title: Sudan — progress report, September 2025 – September 2026
 compiled: 2026-09-08
 period: 2025-09-01 to 2026-09-08
 place: SDN
-ledger_rows: 143
+ledger_rows: 144
 not_held: 5
 indicators: 121
-record: 609171b015e0
+record: 4a72d4708006
 ---
 
 # Sudan: progress report, September 2025 – September 2026

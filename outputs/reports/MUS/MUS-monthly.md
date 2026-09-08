@@ -3,9 +3,9 @@ title: Mauritius — monthly update, August – September 2026
 compiled: 2026-09-08
 period: 2026-08-01 to 2026-09-08
 place: MUS
-ledger_rows: 37
+ledger_rows: 38
 not_held: 7
-record: a3546393b8cc
+record: b42b5e402a67
 ---
 
 # Mauritius: monthly update, August – September 2026
@@ -140,6 +140,11 @@ The [virtual reality programme in primary schools](https://mdpa.govmu.org/mdpa/i
 The state's artificial-intelligence apparatus gained a building and the incumbent operator gained a language. The [first AI Innovation Lab was inaugurated on 21 August under the national strategy and its FAIR guidelines](https://cajnewsafrica.com/2026/08/21/mauritius-commissions-pioneering-ai-innovation-lab/); no capacity, staffing, access rule or research programme is published for it.
 
 The incumbent operator set out what sits behind its own platform. Its chief executive described [a cloud partnership with a hyperscaler, sovereign data centres, a plan to train 50,000 people in artificial-intelligence skills, and a voice model built for Mauritian Creole](https://sundaytimesmauritius.com/interview-veemal-gungadin-ceo-of-mauritius-telecom-our-core-objective-through-our-partnership-with-aws-is-to-create-high-skilled-jobs-for-young-professionals/), and recorded a retreat in the same interview: the schools pilot moved from a student tutor to a teacher assistant after teacher and parent resistance. The figures and the claim of a first are the operator's own, given in an interview.
+<!-- /narrative -->
+### ICT Industry
+
+<!-- narrative: technology--tech-industry -->
+The month’s industry news is a stake, not a product. A pan-African investment fund [took a minority holding in a Mauritian digital transformation consultancy](https://www.wearetech.africa/fr/fils/breves/breves-simple/le-fonds-africinvest-investit-dans-la-societe-mauricienne-spoon-consulting), with no sum disclosed. Neither the stake size, the use of proceeds nor a holding period is stated.
 <!-- /narrative -->
 
 ## Capacity

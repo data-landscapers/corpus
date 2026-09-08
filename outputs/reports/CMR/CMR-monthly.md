@@ -3,9 +3,9 @@ title: Cameroon — monthly update, August – September 2026
 compiled: 2026-09-08
 period: 2026-08-01 to 2026-09-08
 place: CMR
-ledger_rows: 34
+ledger_rows: 35
 not_held: 5
-record: 43e6df7790bb
+record: 96e54924860c
 ---
 
 # Cameroon: monthly update, August – September 2026
@@ -116,6 +116,14 @@ Health and education information systems both gained instruments and neither rep
 
 <!-- narrative: dpi--dpi-govtech -->
 The water utility [began rolling out a centralised commercial platform, WATERIS, with five days of internal training from 10 August](https://lecourrierducameroun.net/2026/08/16/camwater-met-le-cap-sur-la-modernisation-commerciale-et-lexcellence-operationnelle-a-travers-lecosysteme-integre-wateris/), replacing decentralised commercial management with automated meter reading and more electronic payment channels. The account is the director general's; no customer count, cost or completion date is stated.
+<!-- /narrative -->
+
+## Digitalisation
+
+### Digitalisation of sub-national government
+
+<!-- narrative: digitalisation--digital-localgov -->
+Metering is where local digitisation is actually buying hardware. The state water utility [awarded a Chinese manufacturer a FCFA 721.76m contract on 17 August 2026 to deploy 3,000 smart meters, the first 7.5 per cent of the 40,000 planned under a World Bank-financed programme](https://leconomie.info/article/camwater-confie-a-une-entreprise-chinoise-le-deploiement-de-3-000-compteurs-intelligents-pour-72176-millions-de-fcfa). No installation schedule, data-handling arrangement or tariff effect is stated, and what the meters read is household consumption.
 <!-- /narrative -->
 
 ## Technology
