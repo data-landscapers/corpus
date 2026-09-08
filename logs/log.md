@@ -48,6 +48,7 @@ title: Corpus process log
 
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 <!-- newest first: a new entry goes directly below this line -->
+2026-09-08 18:50 · render · unclocked · register drained 203 to 91; reports+home+countries+catalogue rendered, deployed — ok
 2026-09-08 16:23 · render · 17m · reports+home+countries+catalogue rendered, deployed — ok. Catalogue 20,370; 3,170 objects to R2, 186 MB out of the tree
 2026-09-08 16:06 · build · 16m · catalogue 20,370 (+103), finance 62 places, 106 sources considered across 6 units, 1 ledger row better evidenced, 1 baseline revised — ok
 2026-09-08 15:20 · render · 18m · reports+home+countries+catalogue rendered, deployed — ok. Nothing changed but BUILT-FROM: every page, PDF and CSV came back byte-identical, and R2 had 0 of 8,277 objects to upload
