@@ -1,11 +1,11 @@
 ---
 title: Ethiopia — monthly update, August – September 2026
-compiled: 2026-09-05
-period: 2026-08-01 to 2026-09-05
+compiled: 2026-09-08
+period: 2026-08-01 to 2026-09-08
 place: ETH
-ledger_rows: 34
+ledger_rows: 37
 not_held: 5
-record: 4fbfa67f5c15
+record: 6f475538bb2f
 ---
 
 # Ethiopia: monthly update, August – September 2026
@@ -38,6 +38,13 @@ Two further positions sit beside it. A public critique [set out the absence of i
 
 <!-- narrative: governance--gov-regional -->
 The regional transit corridor moved from agreement to build. Ethio telecom [entered active deployment of the Horizon Fiber Initiative, with end-to-end solution architecture finalised and site-material procurement complete](https://techafricanews.com/2026/08/20/ethio-telecom-active-deployment-africa-middle-east-fibre-corridor/), on a multi-terabit terrestrial route linking Djibouti's subsea landings through Ethiopia and Sudan to Jeddah. No route length, capacity, cost, in-service date or transit-revenue projection is published, so the regional-hub claim rests on the geography alone — and one of the four territories the route crosses is at war.
+<!-- /narrative -->
+### Standards
+
+<!-- narrative: governance--gov-standards -->
+
+
+A standing readiness instrument the base had not held was named from practice rather than from the regulator. A practitioner's case is that a [central bank microfinance directive of 2022 already defines the governance, risk-management and operational readiness that institutions skip when they buy digital wallets before building the capability to run them](https://capitalethiopia.com/2026/09/06/when-digital-ambition-becomes-a-tripping-stone/). The directive text is not held and no supervisory finding, enforcement action or compliance count is published, so what the base has is the rule's existence and one account of how it is being ignored.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 
@@ -80,6 +87,8 @@ Four days later that enterprise set out where the credential goes next. Its wall
 Enrolment passed a further mark at the close of the period. The programme [put registrations at 49.1m on 24 August, on 12,000 biometric registration kits deployed and 150 agencies integrated, with more than 194m eKYC verifications performed against the register](https://www.biometricupdate.com/202608/fayda-digital-id-nears-50m-enrollments-as-adoption-reshapes-ethiopias-economy). The counts are the programme's own and unaudited, and the [prime-ministerial expectation that the credential will contribute 7% of GDP by 2030](https://www.biometricupdate.com/202608/fayda-digital-id-nears-50m-enrollments-as-adoption-reshapes-ethiopias-economy) is stated alongside them as a projection rather than a measurement. The reporting outlet's "90 million by 2027" is its own framing: the programme's target is 90m by 2028.
 
 What is not on the record is the counterweight. A published critique argues the system [risks becoming an instrument of mass profiling in the absence of independent data-protection impact assessments, meaningful citizen rights and legal limits on state access](https://www.linkedin.com/posts/ewnetudebela_fayda-ethiopia-digitalid-activity-7492312232127586304-yqel), against the registrations above, up from 16.4m in June 2025, and a 90m target. The base holds no such assessment, no redress mechanism and no statutory access limit, and that absence is now recorded as a gap.
+
+The enrolment rules reached the base for the first time, which matters more than the enrolment count for anyone trying to work out who can be enrolled. The programme's own page lists [33 accepted proof-of-identity documents, from the local administration card and passport to birth, education, marriage and business records](https://id.gov.et/proof), and a separate account sets out what non-citizens must present: [an origin card and passport for foreign nationals of Ethiopian origin, a residence or work permit plus passport for other foreign residents, and a valid refugee card for recognised refugees](https://ethioaffairs.com/2026/09/04/ethiopia-announces-document-requirements-for-foreign-nationals-applying-for-fayda-digital-id/). Neither carries its own issue date, so both are dated to capture — and the refugee route stated here is the operative counterpart to the refugee-inclusion framework the base already holds.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -101,6 +110,8 @@ A technology group and a bank [signed an agreement to digitise the agricultural 
 
 <!-- narrative: dpi--dpi-govtech -->
 The unified public-service platform launched with [185 services against 41 across twelve federal agencies a year earlier](https://techreviewafrica.com/news/5997/ethiopia-launches-unified-mesob-platform-to-accelerate-national-digital-transformation), anchored on the national identity credential. An account of 13 August puts the platform at [more than 2,200 services](https://www.biometricupdate.com/202608/benin-draws-lessons-from-ethiopia-to-shape-its-dpi-development-roadmap), on the occasion of a Beninese benchmarking visit; the base cannot reconcile that with the launch count two months earlier and the two may rest on different counting bases. Its own regional executives say [services are being onboarded before the systems beneath them are digitised](https://birrmetrics.com/mesob-meets-the-monster-it-was-built-to-kill/), that two incompatible integration models have emerged, that no legal framework compels an institution to digitise before joining, and that the platform ran close to a year with no dedicated regulatory framework. Separately the Auditor General's annual report, presented on 6 July, [credits electronic procurement with the decline in cash shortages across 163 audited federal institutions](https://www.ofag.gov.et/ofag/the-office-of-the-federal-auditor-general-presents-its-annual-audit-report-to-the-house-of-peoples-representatives/) while finding budget-execution gaps, billions of Birr uncollected and repeated financial-rule violations alongside the digital adoption. No Birr amount is attached to the credit, and the report itself is not held.
+
+A service portal was built inside an agency rather than procured. The commodity exchange [launched one using its own information-technology staff, replacing in-person visits to offices that drew more than 150 callers a day in peak season with a stated thirty-minute service-level target](https://capitalethiopia.com/2026/09/06/ecx-launches-digital-portal-to-cut-red-tape-for-traders). Both figures are the exchange's own, and no user count, service list or measured turnaround is published — but an in-house build is a different capability claim from a procurement, and it is the first of its kind the base holds here.
 <!-- /narrative -->
 
 ## Capacity
@@ -124,6 +135,8 @@ Against it the FY2026/27 federal budget [carries *Artificial Intelligence Univer
 
 <!-- narrative: inclusion--include-access -->
 The month's movement on access is participation rather than service. The National Dialogue Commission [reports that its conference ran from 15 July to 22 August 2026, with around 4,000 participants deliberating eight national agenda items and recommendations submitted to the Commission](https://ethiondc.org.et/en/national-dialogue-conference-concludes-successfully/). It is the Commission's own account, and nothing in the record held states which recommendations were taken up. Nothing moved this month on digital access to public services, on refugee inclusion or on device affordability.
+
+The corridor programme put training against formalisation rather than connectivity. [Forty women traders took export-readiness training at Bishoftu on 30 and 31 July 2026 under a EUR 32m European corridor programme, covering business formalisation, product standards, export documentation and customs procedure, against a stated 94% of the traders concerned operating unlicensed](https://horneconomicreview.com/2026/09/03/from-export-readiness-to-market-access-eu-backed-support-strengthens-womens-participation-in-trade-along-the-djibouti-ethiopia-corridor/). The 94% is the programme's characterisation of its own target group rather than a national measure, and no digital component of the corridor programme is separately costed.
 <!-- /narrative -->
 
 ## Geopolitics
