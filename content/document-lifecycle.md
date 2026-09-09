@@ -62,9 +62,9 @@ An archive of classified documents is still not something anyone can read. The w
 
 - **62 place hubs**, one per country and region: a compiled *Recent developments* section, with the standing account of the place written around it.
 - **38 topic pages**, one per Level-2 topic: not a list of what happened, but the argument — what is true of the topic once it is lifted off the country it came from.
-- **599 intersections**, a place crossed with a topic, where there is sufficient material to require a page of its own.
+- **1,049 intersections** (September 2026), a place crossed with a topic, where there is sufficient material to require a page of its own.
 
-62 places against 38 topics allows more than two thousand intersections; 599 exist. That is the design, not a backlog: the wiki is built to depth on demand, so a thin country page reflects what is being asked of the base rather than how quiet that country is.
+62 places against 38 topics allows more than two thousand intersections; 1,049 exist. That is the design, not a backlog: the wiki is built to depth on demand, so a thin country page reflects what is being asked of the base rather than how quiet that country is.
 
 All three are compiled from the sources rather than written into, so running a compile twice changes nothing.
 

@@ -237,7 +237,7 @@
       <tr>
       <td><strong>Rebuild the datasets</strong></td>
       <td><code>scripts/<wbr>rebuild.py --<wbr>all</code></td>
-      <td>The purely mechanical compiles: the catalogue of every record held, the non-state finance dataset, the budget tables, the vocabulary snapshot and the names index. Pure functions of the evidence — they just run.</td>
+      <td>The purely mechanical compiles: the catalogue of every record held, the non-state finance dataset, the budget tables, the vocabulary snapshot, and the two indexes the catalogue searches through — one of the names occurring inside the sources, one of their titles. Pure functions of the evidence — they just run.</td>
       </tr>
       <tr>
       <td><strong>Decide whether a document moves a position</strong></td>
@@ -281,8 +281,8 @@
       </tr>
       <tr>
       <td><strong>Publish the pages</strong></td>
-      <td><code>scripts/<wbr>home.py</code>, <code>country.py</code>, <code>topic-<wbr>page.py</code>, <code>catalogue.py</code>, <code>finance.py</code></td>
-      <td>The home page and its country and topic matrices, each country's page and finance table, the searchable catalogue of every record held, and the all-Africa finance landing. Counts on every page are drawn from the same catalogue, so they cannot disagree.</td>
+      <td><code>scripts/<wbr>home.py</code>, <code>country.py</code>, <code>region.py</code>, <code>topic-<wbr>page.py</code>, <code>catalogue.py</code>, <code>finance.py</code>, <code>methodology.py</code></td>
+      <td>The home page and its country and topic matrices, each country's and each region's page and finance table, the searchable catalogue of every record held, the all-Africa finance landing, and these methodology pages. Counts on every page are drawn from the same catalogue, so they cannot disagree.</td>
       </tr>
       <tr>
       <td><strong>Retire editions nobody took</strong></td>
@@ -290,9 +290,14 @@
       <td>Deletes a superseded edition only where nothing ever downloaded it, and never the current one, nothing under a week old, and nothing published before the rule came in. Bulletins keep a week regardless. Any uncertainty resolves towards keeping the file.</td>
       </tr>
       <tr>
+      <td><strong>Move the dated files off the page host</strong></td>
+      <td><code>scripts/<wbr>r2-<wbr>sync.py</code>, <code>RENDER.md</code> step 6b</td>
+      <td>The dated reports and datasets, and the catalogue's search indexes, are uploaded to a file store and served from there at the addresses they already had; the page host keeps the pages. The order is upload, serve, verify, then delete the local copy — the site is serving throughout, and nothing is deleted that has not just been seen intact in the store.</td>
+      </tr>
+      <tr>
       <td><strong>Deploy</strong></td>
       <td><code>RENDER.md</code> step 7</td>
-      <td>Commits and pushes; the hosting workflow serves what was committed. The render <em>is</em> the build — nothing is compiled at deploy time and nothing is generated when a reader asks for a page. Running the render is the instruction to publish, so there is no separate approval step.</td>
+      <td>Checks that every outbound link on every built page opens a new tab — a finding stops the push — then commits and pushes. The hosting workflow serves the pages and the file store serves the rest, at one set of addresses a reader cannot tell apart. The render <em>is</em> the build — nothing is compiled at deploy time and nothing is generated when a reader asks for a page. Running the render is the instruction to publish, so there is no separate approval step.</td>
       </tr>
       <tr>
       <td><strong>Top up the bulletin at midday</strong></td>
