@@ -66,142 +66,17 @@ FOOT = foot(depth=2)
 # the nav section a region belongs to is "Countries & Regions", not
 # "Countries", so the finance sub-page's breadcrumb says so rather than
 # naming the section a region is not a member of.
-REGION = """<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>{name} — Data Landscapers</title>
-<meta name="description" content="{name}: digital transformation and data governance. Reports, sources and non-state finance, from the Data Landscapers base.">
-<link rel="canonical" href="{base}/countries/{iso}/">
-{styles}
-<link rel="icon" href="{favicon}" type="image/svg+xml">
-<meta property="og:title" content="{name} — Data Landscapers">
-<meta property="og:description" content="{name}: digital transformation and data governance, from the Data Landscapers base.">
-<meta property="og:url" content="{base}/countries/{iso}/">
-<meta property="og:type" content="website">
-<meta property="og:site_name" content="Data Landscapers">
-{ga}
-</head>
-<body>
-<div class="site-wrap">
+# The place page is `country.py`'s. The copy that stood here was **byte-identical** to
+# `COUNTRY` — 61 lines, not one of them different — so it was purely a second place for
+# the same page to be edited, and the finance template beside it shows what that costs.
+# `common` already supplies `iso=code`, which is the only thing the two pass differently.
+REGION = country.COUNTRY
 
-{chrome}
-
-  <main id="main">
-  <div class="container">
-
-    <div class="country-head">
-      <h1>{name}</h1>
-      <div class="country-head__meta">{iso} &nbsp;·&nbsp; last updated {built}</div>
-    </div>
-
-    <h2 class="section-heading">Reports</h2>
-{reports}
-
-    <h2 class="section-heading">Catalogue</h2>
-    <p>{catalogue_intro}</p>
-    <div class="table-acts">
-      <a class="btn" href="{base}/catalogue/#places={iso}">Browse {name} in the catalogue &rarr;</a>
-      <a class="btn btn--accent" href="{cat_csv}" download>&darr; {name} catalogue CSV</a>
-    </div>
-
-    <h2 class="section-heading">Non-state finance</h2>
-{finance_section}
-
-    <h2 class="section-heading">Public budgeting and expenditure</h2>
-    <p>{budget_intro}</p>
-
-    <div class="colophon">
-      <strong>About this page</strong>
-      <dl>
-        <dt>Last updated</dt><dd class="mono">{built}</dd>
-        <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></dd>
-      </dl>
-    </div>
-
-  </div>
-  </main>
-
-{foot}
-
-</div>
-</body>
-</html>
-"""
-
-FINANCE = """<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>{name} — non-state finance — Data Landscapers</title>
-<meta name="description" content="Every non-state commitment to {name}'s digital sector held in the Data Landscapers base, all fields, searchable and downloadable.">
-<link rel="canonical" href="{base}/countries/{iso}/finance.html">
-{artefacts}
-{styles}
-<link rel="icon" href="{favicon}" type="image/svg+xml">
-{ga}
-</head>
-<body>
-<div class="site-wrap">
-
-{chrome}
-
-  <main id="main">
-  <div class="container container--wide">
-
-    <div class="country-head">
-      <div class="crumb"><a href="{base}/countries/">Countries &amp; Regions</a> &nbsp;/&nbsp; <a href="index.html">{name}</a> &nbsp;/&nbsp; Non-state finance</div>
-      <h1>Non-state finance</h1>
-      <div class="country-head__meta">{name} &nbsp;·&nbsp; {fin_n} commitments &nbsp;·&nbsp; US${fin_total}m &nbsp;·&nbsp; {y0}&ndash;{y1}</div>
-    </div>
-
-    <p>Every non-state commitment the base holds for {name}. One row per commitment; each is tagged to one place only, so per-place totals sum without double-counting. <strong>Click any row to open the full record</strong> &mdash; the columns show what a reader scans by, and the rest of the fields sit underneath rather than four screens to the right. Sort on any column heading, filter with the dropdowns, and search across every field whether or not it is shown. The <code>url</code> column is the publisher&rsquo;s own link to the source the row was read from.</p>
-
-    <div class="dl-datatable"
-      data-src="{csv_name}"
-      data-cols="start_year, financier, sector, instrument, commitment_usd_m, status, title, description, recipient_organisation, url"
-      data-filters="financier, sector, instrument, status, beneficiary_type"
-      data-numeric="start_year, end_year, commitment_usd_m"
-      data-links="url"
-      data-detail="description"
-      data-sort="start_year:desc"
-      data-empty="No commitment matches those filters.">
-      <div class="dt-controls">
-        <span class="dt-title">{name} &mdash; non-state finance</span>
-        <span class="dt-count">{fin_n} rows</span>
-        <a class="btn" href="{csv_name}" download>&darr; CSV</a>
-        <a class="btn" href="{fields_name}" download>&darr; Metadata</a>
-      </div>
-      <noscript>
-        <p>The table is drawn in the browser from <a href="{csv_name}">{csv_name}</a>. With JavaScript off, download that file &mdash; it is the same data, every row and every field, and the <a href="{fields_name}">field dictionary</a> says what each column means.</p>
-      </noscript>
-    </div>
-
-    <div class="colophon">
-      <strong>About this table</strong>
-      <dl>
-        <dt>Built</dt><dd class="mono">{built}</dd>
-        <dt>Edition</dt><dd class="mono">{csv_edition}</dd>
-        <dt>This file</dt><dd><a href="{csv_name}">{csv_name}</a> &mdash; a dated edition, retained as published and never revised</dd>
-        <dt>Source</dt><dd><code>outputs/non-state-finance/{iso}-nonstate.csv</code>, compiled by the finance pass</dd>
-        <dt>Fields</dt><dd><a href="{fields_name}">non-state-finance-metadata.csv</a> &mdash; what each column means. One dictionary for every place's table, not a copy per place</dd>
-        <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></dd>
-      </dl>
-    </div>
-
-  </div>
-  </main>
-
-{foot}
-
-</div>
-
-{datatable}
-</body>
-</html>
-"""
+# The finance page is `country.py`'s, with `unit="place"`. It was a copy of that
+# template differing in three lines of wording until 2026-09-09; the header there
+# records what the copy cost. This module already takes `FINANCE_BLOCK`, `pivot`,
+# `report_rows` and `report_editions` from the same place, for the same reason.
+FINANCE = country.FINANCE
 
 
 def build(code: str) -> list[Path]:
@@ -248,6 +123,7 @@ def build(code: str) -> list[Path]:
 
     if fin:
         (out_dir / "finance.html").write_text(external_links(FINANCE.format(
+            unit="place",
             fin_total=f"{sum(amounts):,.0f}",
             y0=(min(ys) if ys else "&mdash;"), y1=(max(ys) if ys else "&mdash;"),
             styles=styles(2, "home.css", "country.css", "datatable.css"),

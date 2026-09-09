@@ -511,6 +511,18 @@ FINANCE_BLOCK = """    <p>Commitments to {name}&rsquo;s digital sector from fina
 FINANCE_EMPTY = """    <p>No non-state finance commitments are currently held for {name}.</p>"""
 
 
+# The non-state finance table, for a country page and a region page alike.
+#
+# **One template, not two** *(2026-09-09)*. `region.py` carried a copy of this that differed in
+# three lines of wording, and a copy is a place for the two to disagree — which they already
+# had: the crumb here still said "Countries" after `/countries/` was renamed *Countries &
+# Regions* on 2026-09-02, and the copy had been corrected. It cost a defect the same day this
+# was merged, too: the `dl-artefact` record was added here and the region pages went on
+# minting an edition every render until the copy was found.
+#
+# `{unit}` is the whole of the difference — "country" on a country page, "place" on a region's,
+# where the rows are the countries beneath it. `region.py` imports this rather than holding
+# its own, the way it already imports `FINANCE_BLOCK`, `pivot` and `report_rows`.
 FINANCE = """<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -533,12 +545,12 @@ FINANCE = """<!DOCTYPE html>
   <div class="container container--wide">
 
     <div class="country-head">
-      <div class="crumb"><a href="{base}/countries/">Countries</a> &nbsp;/&nbsp; <a href="index.html">{name}</a> &nbsp;/&nbsp; Non-state finance</div>
+      <div class="crumb"><a href="{base}/countries/">Countries &amp; Regions</a> &nbsp;/&nbsp; <a href="index.html">{name}</a> &nbsp;/&nbsp; Non-state finance</div>
       <h1>Non-state finance</h1>
       <div class="country-head__meta">{name} &nbsp;·&nbsp; {fin_n} commitments &nbsp;·&nbsp; US${fin_total}m &nbsp;·&nbsp; {y0}&ndash;{y1}</div>
     </div>
 
-    <p>Every non-state commitment the base holds for {name}. One row per commitment; each is tagged to one country only, so per-country totals sum without double-counting. <strong>Click any row to open the full record</strong> &mdash; the columns show what a reader scans by, and the rest of the fields sit underneath rather than four screens to the right. Sort on any column heading, filter with the dropdowns, and search across every field whether or not it is shown. The <code>url</code> column is the publisher&rsquo;s own link to the source the row was read from.</p>
+    <p>Every non-state commitment the base holds for {name}. One row per commitment; each is tagged to one {unit} only, so per-{unit} totals sum without double-counting. <strong>Click any row to open the full record</strong> &mdash; the columns show what a reader scans by, and the rest of the fields sit underneath rather than four screens to the right. Sort on any column heading, filter with the dropdowns, and search across every field whether or not it is shown. The <code>url</code> column is the publisher&rsquo;s own link to the source the row was read from.</p>
 
     <div class="dl-datatable"
       data-src="{csv_name}"
@@ -567,7 +579,7 @@ FINANCE = """<!DOCTYPE html>
         <dt>Edition</dt><dd class="mono">{csv_edition}</dd>
         <dt>This file</dt><dd><a href="{csv_name}">{csv_name}</a> &mdash; a dated edition, retained as published and never revised</dd>
         <dt>Source</dt><dd><code>outputs/non-state-finance/{iso}-nonstate.csv</code>, compiled by the finance pass</dd>
-        <dt>Fields</dt><dd><a href="{fields_name}">non-state-finance-metadata.csv</a> &mdash; what each column means. One dictionary for every country&rsquo;s table, not a copy per country</dd>
+        <dt>Fields</dt><dd><a href="{fields_name}">non-state-finance-metadata.csv</a> &mdash; what each column means. One dictionary for every {unit}&rsquo;s table, not a copy per {unit}</dd>
         <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></dd>
       </dl>
     </div>
@@ -649,6 +661,7 @@ def build(iso: str) -> list[Path]:
 
     if fin:
         (out_dir / "finance.html").write_text(external_links(FINANCE.format(
+            unit="country",
             fin_total=f"{sum(amounts):,.0f}",
             y0=(min(ys) if ys else "&mdash;"), y1=(max(ys) if ys else "&mdash;"),
             styles=styles(2, "home.css", "country.css", "datatable.css"),
