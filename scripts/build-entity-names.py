@@ -173,7 +173,16 @@ def derive(items, place_tokens, only=None):
             for n in cache.get(rel, ()):
                 tally[n] += 1
         best, best_key = None, None
-        for cand, seen in tally.items():
+        # **Sorted, because a tie has to resolve the same way twice** *(2026-09-09)*.
+        # `names_in()` returns a set, so the Counter's insertion order is the hash
+        # order of a set of strings — randomised per process. With a strict `>` below,
+        # candidates that score identically were separated by nothing but that order,
+        # and two runs over an unmoved corpus disagreed on 145 of 286 slugs: `aber-burundi`
+        # read "ABER. Il" one run and "L'ABER" the next, and every one of those names is
+        # written into the catalogue page as `entpretty`. Sorting makes the first
+        # alphabetically win among equals — an arbitrary rule, which is what a tie is,
+        # but the same arbitrary rule every time.
+        for cand, seen in sorted(tally.items()):
             s = score(slug, cand, place_tokens)
             if s is None:
                 continue
