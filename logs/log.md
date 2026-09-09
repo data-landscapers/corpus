@@ -48,6 +48,7 @@ title: Corpus process log
 
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 <!-- newest first: a new entry goes directly below this line -->
+2026-09-09 12:05 · render · unclocked · country pages had lost their report rows - editions now read off the page, not the pruned PDF; topic-page.py same fix
 2026-09-09 11:36 · render · 11m · Bill's 15 formatting fixes: 174 reports repaged, 76 topic editions cut, all builders rebuilt, deployed - ok
 2026-09-09 02:51 · render · 17m · reports+home+countries+catalogue rendered, deployed — ok. The 23:13 build reaches the site: 102 new editions of 251 documents; catalogue 20,553; pruner took 276 editions, 88.8 MB; tree 66 MB
 2026-09-09 02:34 · build · 7m · catalogue 20,553 unmoved, 0 unconsidered sources, stage 5 and topics unchanged, bulletin window rolls to 40 items; build-entity-names tie-break was hash-order random, fixed, 239 names settle; register 91 at floor

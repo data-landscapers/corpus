@@ -17,11 +17,11 @@ last_reviewed: 2026-08-28
 ## 2026-09-09 11:36 · render
 
 - Since the editions moved to R2 and `--prune-local` empties the tree, `editions.py`
-  picks a name by looking on disk — and finds nothing. So a document that moves **twice
-  in one day** takes the same dated name twice and the second upload overwrites a
-  published artefact. Today's re-mints were byte-identical, so nothing is damaged. I
-  fixed the same root cause in `--repage`; this one needs a decision on where the name
-  check reads from.
+  names a new edition by looking on disk — and finds nothing. A document that moves
+  **twice in one day** takes the same dated name twice, and the second upload overwrites
+  a published artefact. Nothing is damaged yet. The three readers of editions are fixed
+  and read the rendered page instead; this one *writes* a name, and needs your call on
+  where it should look.
 
 ## 2026-09-08 23:13 · build
 
