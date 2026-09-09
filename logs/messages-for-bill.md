@@ -16,12 +16,12 @@ last_reviewed: 2026-08-28
 
 ## 2026-09-09 11:36 · render
 
-- Since the editions moved to R2 and `--prune-local` empties the tree, `editions.py`
-  names a new edition by looking on disk — and finds nothing. A document that moves
-  **twice in one day** takes the same dated name twice, and the second upload overwrites
-  a published artefact. Nothing is damaged yet. The three readers of editions are fixed
-  and read the rendered page instead; this one *writes* a name, and needs your call on
-  where it should look.
+- `editions.py` picks a new edition's filename by checking the folder for that name, and
+  since the editions moved to R2 the folder is emptied after every render — so the check
+  always says *free*, and a document cut twice in one day takes the same name twice.
+  **This fired today: my render overwrote 44 topic PDFs the 02:34 render had published**,
+  where §9 wanted `-2`. One had been fetched. Needs your call on where that check reads
+  from.
 
 ## 2026-09-08 23:13 · build
 
