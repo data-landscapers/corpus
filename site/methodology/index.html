@@ -71,18 +71,18 @@
       <p>The aim of Corpus is to provide a fast-track information service for researchers and analysts working on the digital transformation of Africa, including digital public infrastructures and data governance.</p>
       <h2 id="scope">Scope</h2>
       <ul>
-      <li><strong>Geographical</strong>
+      <li><strong>Geographical</strong><br />
         All documents are tagged with one or more country or region iso-3 codes. The list is available <a href="lookups/#countries">here</a>.</li>
-      <li><strong>Topics</strong>
+      <li><strong>Topics</strong><br />
         Corpus has developed its own <a href="lookups/#topics">two-level taxonomy</a> of topics. All documents are tagged with at least one level 2 topic.</li>
-      <li><strong>Finance</strong>
+      <li><strong>Finance</strong><br />
         Corpus is attempting to produce a single integrated view of all financing of digital transformation. The first part of this, non-state financing, is live. It includes all public and private investments sourced from the International Aid Transparency Initiative, investor portals and news articles. The second part, national budgeting, spend and auditing is still under development.</li>
-      <li><strong>Time</strong>
+      <li><strong>Time</strong><br />
         Corpus' primary focus is current news with over 2,000 documents now being added each month. Older documents are collected to provide baselines to status and progress reports.</li>
       </ul>
       <h2 id="infrastructure">Infrastructure</h2>
       <ul>
-      <li><strong>Architecture</strong>
+      <li><strong>Architecture</strong><br />
         Corpus is built by two networked machines.<ul>
       <li>The first is responsible for data collection and classification. Its repository is private. </li>
       <li>The second is responsible for summarising content and keeping reports and datasets up to date. Its repository is available at https://github.com/data-landscapers/corpus. </li>
@@ -98,32 +98,32 @@
       <h2 id="data-collection">Data collection</h2>
       <p>The data collection machine runs a nightly sweep cycle which consists of a standard daily search and fetch and (currently) one of 3 focused searches that repeat every 3 days. Most of the searches are defined by lookup lists that can be altered without</p>
       <ul>
-      <li><strong>Daily</strong>
+      <li><strong>Daily</strong><br />
         Searches for items published in the past 48 hours for:<ul>
       <li>A fixed list of <a href="lookups/#daily-journals">trade journals</a>.</li>
       <li>A general search for systems &amp; infrastructure</li>
       <li>A general search for policy, governance &amp; citizen feedback</li>
       </ul>
       </li>
-      <li><strong>Day 1</strong>
+      <li><strong>Day 1</strong><br />
         Searches for digital transformation items published since the last time this day was run for:<ul>
       <li>A fixed list of <a href="lookups/#national-newspapers">national newspapers</a></li>
       <li>A fixed list of <a href="lookups/#academic-journals">academic journals</a></li>
       <li>A fixed list of <a href="lookups/#ngos-and-think-tanks">NGOs and think tanks</a></li>
       </ul>
       </li>
-      <li><strong>Day 2</strong>
+      <li><strong>Day 2</strong><br />
         Non-state finance<ul>
       <li>API extraction of newly published IATI activities</li>
       <li>Searches for digital transformation items published since the last time this day was run for a fixed list of <a href="lookups/#financiers">financiers</a></li>
       </ul>
       </li>
-      <li><strong>Day 3</strong>
+      <li><strong>Day 3</strong><br />
         Four separate deep searches for each country:<ul>
       <li>Non-state finance</li>
       <li>Governance (institutions and instruments, excluding data exchange)</li>
       <li>Data exchange (content, not transport)</li>
-      <li>Demand and political economy
+      <li>Demand and political economy<br />
         Deep searches for regions and <a href="lookups/#regional-institutions">regional institutions</a> focusing on:</li>
       <li>Policy collaboration and coordination</li>
       <li>Legal harmonisation</li>

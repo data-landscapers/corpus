@@ -133,9 +133,28 @@ def soft_breaks(html: str) -> str:
 
 
 def convert(md_path: Path) -> str:
+    """The page's markdown, as HTML.
+
+    **`nl2br`, because a line break in these files is meant** *(Bill, 2026-09-09)*.
+    Markdown's own rule joins a continuation line to the one above it with a space, so
+
+        - **Geographical**
+          All documents are tagged with one or more country codes.
+
+    published as one run-on line with the label swallowed into the sentence. Every
+    such break in `content/` is deliberate — a bold label, then what it means — and
+    there are eleven of them, all in `methodology.md`. Nothing else moves: rendering
+    all four pages with and without the extension differs by exactly those `<br>`s,
+    tables and every other list included.
+
+    **The convention it fixes is that prose here is not hard-wrapped.** One paragraph
+    is one line, however long, and a break is a break. A future editor who wraps a
+    long sentence for tidiness will see the wrap on the page, which is the trade for
+    having the breaks that are meant come out.
+    """
     return soft_breaks(markdown.markdown(
         md_path.read_text(encoding="utf-8"),
-        extensions=["tables", "attr_list", "sane_lists", "toc"]))
+        extensions=["tables", "attr_list", "sane_lists", "toc", "nl2br"]))
 
 
 def slug(heading: str) -> str:
