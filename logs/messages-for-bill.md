@@ -14,15 +14,6 @@ last_reviewed: 2026-08-28
 
 <!-- newest first: a new block goes directly below this line -->
 
-## 2026-09-09 11:36 · render
-
-- `editions.py` picks a new edition's filename by checking the folder for that name, and
-  since the editions moved to R2 the folder is emptied after every render — so the check
-  always says *free*, and a document cut twice in one day takes the same name twice.
-  **This fired today: my render overwrote 44 topic PDFs the 02:34 render had published**,
-  where §9 wanted `-2`. One had been fetched. Needs your call on where that check reads
-  from.
-
 ## 2026-09-08 23:13 · build
 
 - The two progress reports outside their word band are XNA at 403 words over 12 ledger
