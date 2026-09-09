@@ -169,11 +169,21 @@ def publish_finance_csvs(iso: str, out_dir: Path, cols: list[str]) -> dict[str, 
     # follows that a new edition has to mean new content, so the comparison must not be
     # able to see the line endings. Normalising here rather than in `editions.publish`
     # keeps that function byte-exact for the PDFs it also publishes.
+    #
+    # **`page=` is how `publish` sees the previous edition once the tree has been pruned**
+    # *(2026-09-09)*. `finance.html` is written after this returns, because it links the CSV
+    # by name — so at this moment it is still last run's page, carrying last run's record,
+    # which is exactly the comparison the deleted file used to provide. Without it every
+    # render minted a fresh edition of all 61 CSVs, not one differing by a byte.
     src = (OUTPUTS / "non-state-finance" / f"{iso}-nonstate.csv").read_bytes()
-    data, _ = editions.publish(src.replace(b"\r\n", b"\n"),
-                               out_dir, f"{iso}-nonstate", ".csv")
+    body = src.replace(b"\r\n", b"\n")
+    data, _ = editions.publish(body, out_dir, f"{iso}-nonstate", ".csv",
+                               page=out_dir / "finance.html")
+    edition = editions.edition_of(data.stem) or ""
     return {"csv_name": data.name, "fields_name": f"../../metadata/{METADATA_CSV}",
-            "csv_edition": editions.edition_of(data.stem) or ""}
+            "csv_edition": edition,
+            "artefacts": editions.artefact_meta(f"{iso}-nonstate", edition,
+                                                editions.digest(body))}
 
 
 def report_editions(iso: str) -> list[dict]:
@@ -509,6 +519,7 @@ FINANCE = """<!DOCTYPE html>
 <title>{name} — non-state finance — Data Landscapers</title>
 <meta name="description" content="Every non-state commitment to {name}'s digital sector held in the Data Landscapers base, all fields, searchable and downloadable.">
 <link rel="canonical" href="{base}/countries/{iso}/finance.html">
+{artefacts}
 {styles}
 <link rel="icon" href="{favicon}" type="image/svg+xml">
 {ga}

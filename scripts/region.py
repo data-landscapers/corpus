@@ -138,6 +138,7 @@ FINANCE = """<!DOCTYPE html>
 <title>{name} — non-state finance — Data Landscapers</title>
 <meta name="description" content="Every non-state commitment to {name}'s digital sector held in the Data Landscapers base, all fields, searchable and downloadable.">
 <link rel="canonical" href="{base}/countries/{iso}/finance.html">
+{artefacts}
 {styles}
 <link rel="icon" href="{favicon}" type="image/svg+xml">
 {ga}

@@ -116,6 +116,115 @@ def case_undated_predecessor_is_retired(tmp):
     assert not stale.exists(), "a held-off publish must still retire the undated name"
 
 
+# ---------------------------------------------------------------------------
+# The pruned tree: what these functions can still see after the editions move
+# ---------------------------------------------------------------------------
+
+"""Since 2026-09-08 the dated file is uploaded to R2 and deleted from the tree, so every case
+below runs against an **empty directory** — which is the state a render actually finds. Each
+one failed before the page became the record, and each failed silently: the suffix cases by
+overwriting a published name, the publish cases by minting an edition that revises nothing."""
+
+
+def page_with(tmp: Path, name: str, *artefacts: tuple[str, str, str]) -> Path:
+    """A page as the previous render left it, carrying its own edition and its artefacts'."""
+    page = tmp / name
+    page.write_text(
+        "<html><head>\n"
+        + "\n".join(ed.artefact_meta(*a) for a in artefacts)
+        + '\n</head><body><div class="article-header__byline" data-edition="IGNORED">'
+          "</div></body></html>",
+        encoding="utf-8")
+    return page
+
+
+def case_the_page_names_the_edition_when_the_tree_is_empty(tmp):
+    page = tmp / "KEN-status.html"
+    page.write_text('<div data-edition="2026-09-09">x</div>', encoding="utf-8")
+    assert ed.edition_on_page(page) == "2026-09-09"
+    assert ed.edition_on_page(tmp / "nothing.html") is None
+    # A page from before the field existed says nothing rather than guessing.
+    bare = tmp / "old.html"
+    bare.write_text("<html></html>", encoding="utf-8")
+    assert ed.edition_on_page(bare) is None
+
+
+def case_a_pruned_tree_still_suffixes_the_second_edition(tmp):
+    """The 44-PDF failure of 2026-09-09, as a test. Nothing on disk; the morning's edition is
+    known only from the page, and the afternoon's cut must not land on its name."""
+    page = tmp / "dpi-id-progress.html"
+    page.write_text('<div data-edition="2026-09-09">x</div>', encoding="utf-8")
+    got = ed.next_edition(tmp, "dpi-id-progress", "2026-09-09",
+                          current=ed.edition_on_page(page))
+    assert got == "2026-09-09-2", f"reused the published name: {got}"
+    page.write_text('<div data-edition="2026-09-09-2">x</div>', encoding="utf-8")
+    assert ed.next_edition(tmp, "dpi-id-progress", "2026-09-09",
+                           current=ed.edition_on_page(page)) == "2026-09-09-3"
+
+
+def case_a_page_from_another_day_does_not_suffix(tmp):
+    """Yesterday's edition is not a name taken today: today's first cut stays unsuffixed."""
+    assert ed.next_edition(tmp, "KEN-status", TODAY, current="2026-08-01") == TODAY
+
+
+def case_disk_and_page_are_both_consulted(tmp):
+    """Whichever knows about more editions wins. Disk covers a file written earlier in this
+    same run, before any sync; the page covers everything already published."""
+    (tmp / f"KEN-status-{TODAY}.pdf").write_bytes(b"x")
+    assert ed.next_edition(tmp, "KEN-status", TODAY, current=None) == f"{TODAY}-2"
+    assert ed.next_edition(tmp, "KEN-status", TODAY, current=f"{TODAY}-2") == f"{TODAY}-3"
+    assert ed.next_edition(tmp, "KEN-status", TODAY, current="2026-01-01") == f"{TODAY}-2"
+
+
+def case_publish_holds_off_on_the_page_record_alone(tmp):
+    """The 61-CSV churn. The published file is in the bucket, not the tree; the page's digest
+    says the bytes have not moved, so no edition is cut and the standing name comes back."""
+    data = b"a,b\n1,2\n"
+    page = page_with(tmp, "finance.html",
+                     ("KEN-nonstate", "2026-09-04", ed.digest(data)))
+    path, minted = ed.publish(data, tmp, "KEN-nonstate", ".csv", today=TODAY, page=page)
+    assert not minted, "minted an edition over an unchanged CSV that was already published"
+    assert path.name == "KEN-nonstate-2026-09-04.csv", path.name
+    assert not list(tmp.glob("*.csv")), "wrote a file for an edition it did not cut"
+
+
+def case_publish_cuts_when_the_page_record_differs(tmp):
+    data = b"a,b\n1,3\n"
+    page = page_with(tmp, "finance.html",
+                     ("KEN-nonstate", "2026-09-04", ed.digest(b"a,b\n1,2\n")))
+    path, minted = ed.publish(data, tmp, "KEN-nonstate", ".csv", today=TODAY, page=page)
+    assert minted and path.name == f"KEN-nonstate-{TODAY}.csv", path.name
+    assert path.read_bytes() == data
+
+
+def case_publish_suffixes_against_the_page_when_the_tree_is_empty(tmp):
+    """Changed twice in a day, with the first cut already pruned out of the tree."""
+    page = page_with(tmp, "finance.html",
+                     ("KEN-nonstate", TODAY, ed.digest(b"a,b\n1,2\n")))
+    path, minted = ed.publish(b"a,b\n1,9\n", tmp, "KEN-nonstate", ".csv",
+                              today=TODAY, page=page)
+    assert minted and path.name == f"KEN-nonstate-{TODAY}-2.csv", path.name
+
+
+def case_one_page_records_several_artefacts(tmp):
+    page = page_with(tmp, "finance.html",
+                     ("KEN-nonstate", "2026-09-04", "a" * 12),
+                     ("all-nonstate", "2026-09-07", "b" * 12))
+    got = ed.artefacts_on_page(page)
+    assert got == {"KEN-nonstate": ("2026-09-04", "a" * 12),
+                   "all-nonstate": ("2026-09-07", "b" * 12)}, got
+    # A stem this page says nothing about must not borrow another's record.
+    path, minted = ed.publish(b"z", tmp, "XXX-nonstate", ".csv", today=TODAY, page=page)
+    assert minted and path.name == f"XXX-nonstate-{TODAY}.csv", path.name
+
+
+def case_no_page_falls_back_to_minting(tmp):
+    """Wrong only in the safe direction: an edition minted needlessly, never a name reused."""
+    path, minted = ed.publish(b"a", tmp, "KEN-nonstate", ".csv", today=TODAY, page=None)
+    assert minted and path.name == f"KEN-nonstate-{TODAY}.csv"
+    assert ed.next_edition(tmp, "KEN-status", TODAY, current=None) == TODAY
+
+
 CASES = [
     ("the edition grammar parses every name in the tree", case_grammar),
     ("editions order by date, then by same-day sequence as a number", case_ordering),
@@ -125,6 +234,23 @@ CASES = [
     ("publish cuts again when the bytes move, retaining the earlier edition", case_publish_cuts_on_a_change),
     ("a second publish in a day is suffixed, not overwritten", case_publish_suffixes_within_a_day),
     ("the undated predecessor is retired either way", case_undated_predecessor_is_retired),
+    ("the page names the edition when the tree is empty",
+     case_the_page_names_the_edition_when_the_tree_is_empty),
+    ("a pruned tree still suffixes the second edition of a day",
+     case_a_pruned_tree_still_suffixes_the_second_edition),
+    ("yesterday's edition does not suffix today's first",
+     case_a_page_from_another_day_does_not_suffix),
+    ("disk and page are both consulted, the higher wins",
+     case_disk_and_page_are_both_consulted),
+    ("publish holds off on the page record alone",
+     case_publish_holds_off_on_the_page_record_alone),
+    ("publish cuts when the page record differs",
+     case_publish_cuts_when_the_page_record_differs),
+    ("publish suffixes against the page when the tree is empty",
+     case_publish_suffixes_against_the_page_when_the_tree_is_empty),
+    ("one page records several artefacts, each its own",
+     case_one_page_records_several_artefacts),
+    ("no page at all falls back to minting", case_no_page_falls_back_to_minting),
 ]
 
 

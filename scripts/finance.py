@@ -129,6 +129,7 @@ PAGE = """<!DOCTYPE html>
 <title>Finance — Data Landscapers</title>
 <meta name="description" content="Money committed to Africa's digital sector: every non-state commitment held in the Data Landscapers base, searchable and downloadable, plus the state of the domestic budget record.">
 <link rel="canonical" href="{base}/finance/">
+{artefacts}
 {styles}
 <link rel="icon" href="{main}/assets/favicon.svg" type="image/svg+xml">
 {ga}
@@ -204,7 +205,7 @@ PAGE = """<!DOCTYPE html>
 """
 
 
-def render(agg: dict, names: dict, csv_name: str) -> str:
+def render(agg: dict, names: dict, csv_name: str, artefacts: str = "") -> str:
     """The Finance page: non-state finance with its table, then national budgets
     with an explanation of why there is nothing under it yet.
 
@@ -227,6 +228,7 @@ def render(agg: dict, names: dict, csv_name: str) -> str:
         styles=styles(1, "home.css", "country.css", "datatable.css"), ga=ga(),
         datatable=script("datatable.js", 1),
         csv_name=csv_name, labels=labels, metadata=METADATA_CSV,
+        artefacts=artefacts,
         page_intro=indent(copy("finance", "page-intro")),
         non_state_intro=indent(copy("finance", "non-state-intro")),
         table_note=indent(copy("finance", "non-state-table-note")),
@@ -248,11 +250,18 @@ def main() -> int:
     # LF on the way out, for the reason `country.py` sets out at its own `publish` call:
     # a line-ending difference moves the bytes without moving a value, and would mint an
     # edition that revises nothing.
-    csv_path, _ = editions.publish(
-        (sdir / "all-nonstate.csv").read_bytes().replace(b"\r\n", b"\n"),
-        out, "all-nonstate", ".csv")
-    (out / "index.html").write_text(external_links(render(agg, names, csv_path.name)),
-                                    encoding="utf-8")
+    #
+    # **`page=` carries the comparison the pruned file used to make** *(2026-09-09)*. The
+    # page is written on the line below, so here it is still last run's and still holds
+    # last run's digest — the only local record of what is published once `--prune-local`
+    # has taken the CSV out of the tree.
+    body = (sdir / "all-nonstate.csv").read_bytes().replace(b"\r\n", b"\n")
+    page = out / "index.html"
+    csv_path, _ = editions.publish(body, out, "all-nonstate", ".csv", page=page)
+    artefacts = editions.artefact_meta(
+        "all-nonstate", editions.edition_of(csv_path.stem) or "", editions.digest(body))
+    page.write_text(external_links(render(agg, names, csv_path.name, artefacts)),
+                    encoding="utf-8")
     stale = out / "all.html"
     if stale.exists():                 # the table's own page, folded into index.html
         stale.unlink()

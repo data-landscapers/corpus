@@ -918,9 +918,18 @@ def render(md_path: Path, out_dir: Path, edition: str | None = None,
     # A cut edition never lands on a name that is already taken (§9). Only when the renderer is
     # choosing the name: an explicit `--edition` is an operator naming one exactly, and the
     # repair above is restoring one that was published.
+    #
+    # **The page says which names are taken, because the tree no longer does** *(2026-09-09)*.
+    # `next_edition` looked only on disk, and since `--prune-local` empties the tree after every
+    # render it found nothing and returned the plain date every time. On 2026-09-09 the 02:34
+    # render published 44 topic PDFs and the 11:30 render — whose documents had genuinely moved,
+    # so a new edition was right — cut them again over the same names. §9 wanted `-2` on each.
+    # The served page carries the edition it is offering in `data-edition` and is never pruned,
+    # so it is the record of what is already published under today's date.
     if edition is None and pdf:
         edition = editions.next_edition(
-            out_dir, md_path.stem, date.today().isoformat())
+            out_dir, md_path.stem, date.today().isoformat(),
+            current=editions.edition_on_page(out_dir / f"{stem_html_of(md_path)}.html"))
 
     # The listing the page will show, with the edition being minted folded in. Computed before
     # the page is built because the picker is rendered into it, and persisted only after

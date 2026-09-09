@@ -21,6 +21,7 @@ date. The finance CSVs are, because they are a compiled finding of ours that a r
 
 from __future__ import annotations
 
+import hashlib
 import re
 from datetime import date
 from pathlib import Path
@@ -31,6 +32,52 @@ from pathlib import Path
 # `KEN-monthly-2026-07-2026-08-05` — yield the edition rather than the window.
 EDITION = re.compile(r"^(?P<date>\d{4}-\d{2}-\d{2})(?:-(?P<seq>\d+))?$")
 STEM_EDITION = re.compile(r"-(\d{4}-\d{2}-\d{2}(?:-\d+)?)$")
+
+
+# **The page is the record of what is published** *(2026-09-09)*.
+#
+# This module used to say, in `next_edition` below, that *existence on disk is the test* — the
+# retained artefacts are the record of which names are spoken for. That was true until
+# 2026-09-08, when the editions moved to R2 and `r2-sync.py --prune-local` began deleting the
+# local copy once the bucket had it. From that day the folder was empty at the moment these
+# functions looked in it, and both of the questions they answer got the wrong answer silently:
+# *is today's name taken?* (always no, so the same dated name was reused) and *have the bytes
+# moved?* (nothing to compare against, so a fresh edition every render).
+#
+# On 2026-09-09 that cost 44 topic PDFs: the 02:34 render published them and the 11:30 render,
+# whose documents had genuinely moved, cut new ones over the same names. §9 wanted `-2`.
+#
+# The page is the artefact that answers both and cannot go missing. It is written by the same
+# run that cuts the edition, it is never pruned, it is in git, and it is already the gate's
+# source of truth for whether a document has moved (`render.py` → `held_edition`). A document
+# page carries `data-edition` and `dl-record` for itself; a page that publishes *other* dated
+# artefacts — a finance CSV — carries one `dl-artefact` line for each.
+ARTEFACT = re.compile(r'<meta name="dl-artefact" content="([^"|]+)\|([^"|]+)\|([0-9a-f]+)">')
+
+
+def digest(data: bytes) -> str:
+    """The content digest recorded beside an edition. Same algorithm and length as
+    `render.py`'s `record()`, which digests a document body for the same purpose."""
+    return hashlib.sha1(data).hexdigest()[:12]
+
+
+def artefact_meta(stem: str, edition: str, record: str) -> str:
+    """The line a page carries for each dated artefact it publishes. One writer, so the
+    emitters cannot disagree with `artefacts_on_page` about the format."""
+    return f'<meta name="dl-artefact" content="{stem}|{edition}|{record}">'
+
+
+def artefacts_on_page(html_path: Path | None) -> dict[str, tuple[str, str]]:
+    """`{stem: (edition, record)}` for every dated artefact a page publishes.
+
+    Read from the page as it stands *before* this run rewrites it — which is the state that
+    says what is currently published. A page that predates this field, or no page at all,
+    yields nothing, and the caller mints: wrong only in the safe direction, the same call
+    `held_edition` makes for a document with no stored digest."""
+    if html_path is None or not html_path.exists():
+        return {}
+    return {m.group(1): (m.group(2), m.group(3))
+            for m in ARTEFACT.finditer(html_path.read_text(encoding="utf-8"))}
 
 
 def edition_of(stem: str) -> str | None:
@@ -74,7 +121,8 @@ def latest(out_dir: Path, stem: str, ext: str) -> Path | None:
     return found[-1][1] if found else None
 
 
-def next_edition(out_dir: Path, stem: str, today: str, ext: str = ".pdf") -> str:
+def next_edition(out_dir: Path, stem: str, today: str, ext: str = ".pdf",
+                 current: str | None = None) -> str:
     """Today's edition for this document — suffixed if today's name is already taken.
 
     **The first edition of a day is unsuffixed and the second takes `-2`** (§9). Two editions in
@@ -86,38 +134,42 @@ def next_edition(out_dir: Path, stem: str, today: str, ext: str = ".pdf") -> str
     break every URL already handed out, which is the one thing §9 exists to prevent — so the
     names are asymmetric, and since most days have one edition most of them stay clean.
 
-    Existence on disk is the test, not a count kept somewhere. The retained artefacts *are* the
-    record of which names are spoken for."""
-    if not (out_dir / f"{stem}-{today}{ext}").exists():
-        return today
+    **Two sources say what is taken, and the highest wins** *(2026-09-09)*. Existence on disk
+    was the only test until the editions moved to R2; `current` is the edition the page is
+    already publishing, which is what survives `--prune-local` and is the answer whenever the
+    tree has been emptied. Disk is kept because it is authoritative when it has anything to
+    say — a file written earlier in this same run, before any sync — and because it costs a
+    stat. Neither alone is sufficient: see the note at the head of this module for the 44 PDFs
+    that were overwritten while disk was the only source."""
+    taken = 0
+    if (out_dir / f"{stem}-{today}{ext}").exists():
+        taken = 1
     n = 2
     while (out_dir / f"{stem}-{today}-{n}{ext}").exists():
+        taken = n
         n += 1
-    return f"{today}-{n}"
+    if current:
+        day, seq = edition_key(current)
+        if day == today:
+            taken = max(taken, seq)
+    return today if taken == 0 else f"{today}-{taken + 1}"
 
 
-# The edition a rendered page is offering, written into its byline by `render.py`.
+# The edition a rendered document page is offering, written into its byline by `render.py`.
 PAGE_EDITION = re.compile(r'data-edition="([^"]+)"')
 
 
-def edition_on_page(html_path: Path) -> str | None:
+def edition_on_page(html_path: Path | None) -> str | None:
     """The edition a rendered document is currently offering, read off the page.
 
-    **The dated file is no longer on disk to be looked at** *(2026-09-09)*. Every builder that
-    needed to know which edition was current used to glob the directory for the newest dated
-    PDF, on the premise this module states above — *the retained artefacts are the record of
-    which names are spoken for*. That premise held until 2026-09-08, when the editions moved to
-    R2 and `r2-sync.py --prune-local` began deleting the local copy once the bucket had it.
-    From then on the glob matched nothing on any document that had not just been re-cut, and
-    the consumer failed silently in whatever way was natural to it: `country.py` printed *No
-    reports are yet published for this place* on all 62 place pages.
+    The document's own counterpart to `artefacts_on_page`, which covers the dated files a page
+    publishes *besides* itself. Same reasoning, stated at the head of this module: the page is
+    written by the run that cut the edition, is never pruned, and is in git.
 
-    The page is the right thing to ask, and it is the only local artefact that survives a
-    prune: `render.py` writes the edition it cut into the byline as `data-edition`, the HTML
-    is rewritten on every render and is never pruned, and it is by construction the edition
-    the page's own download link names. `render.py` already reads it back this way for its
-    content gate — this is that read, shared."""
-    if not html_path.exists():
+    Also the answer to *which edition is current* for anything that used to glob the directory
+    for the newest dated PDF — `country.py`'s report rows and `topic-page.py`'s download links
+    both did, and both went blank on the first render after the tree was pruned."""
+    if html_path is None or not html_path.exists():
         return None
     m = PAGE_EDITION.search(html_path.read_text(encoding="utf-8"))
     return m.group(1) if m else None
@@ -143,7 +195,7 @@ def retire_undated(out_dir: Path, stem: str, ext: str) -> Path | None:
 
 
 def publish(data: bytes, out_dir: Path, stem: str, ext: str = ".csv",
-            today: str | None = None) -> tuple[Path, bool]:
+            today: str | None = None, page: Path | None = None) -> tuple[Path, bool]:
     """Publish `data` as a dated edition of `{stem}{ext}`. Returns `(path, minted)`.
 
     **A new edition is cut only when the bytes have moved**, which is §9's rule applied to an
@@ -152,16 +204,30 @@ def publish(data: bytes, out_dir: Path, stem: str, ext: str = ".csv",
     render, which is why `render.py` has to compare a digest of the *source* instead. A CSV
     written from unchanged data is the same file.
 
-    **The retained editions are their own record**, so nothing has to be kept beside them. That
-    also means the gate cannot drift out of step with what is actually published — if the file
-    is there, its bytes are the truth about what was published under that name."""
+    **`page` is where that comparison goes when the file is not in the tree** *(2026-09-09)*.
+    The retained editions were their own record until `--prune-local` started removing them,
+    and from then on the file was never there to compare against: every render minted a new
+    edition of all 61 finance CSVs, none of which differed from its predecessor by a byte.
+    Pass the page that links this artefact — it is written after the CSV precisely because it
+    links it by name, so at this moment it still carries the previous run's record — and the
+    digest it holds answers the same question. The returned path may then name a file that is
+    in the bucket rather than the tree; callers use its *name*, which is what the link needs.
+
+    Disk still wins where it has anything to say: it is exact rather than a digest, and it
+    covers an artefact written earlier in the same run."""
     out_dir.mkdir(parents=True, exist_ok=True)
     current = latest(out_dir, stem, ext)
     if current is not None and current.read_bytes() == data:
         retire_undated(out_dir, stem, ext)
         return current, False
 
-    edition = next_edition(out_dir, stem, today or date.today().isoformat(), ext)
+    published, record = artefacts_on_page(page).get(stem, (None, None))
+    if current is None and published and record == digest(data):
+        retire_undated(out_dir, stem, ext)
+        return out_dir / f"{stem}-{published}{ext}", False
+
+    edition = next_edition(out_dir, stem, today or date.today().isoformat(), ext,
+                           current=published)
     path = out_dir / f"{stem}-{edition}{ext}"
     path.write_bytes(data)
     retire_undated(out_dir, stem, ext)
