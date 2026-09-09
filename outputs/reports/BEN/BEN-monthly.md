@@ -1,11 +1,11 @@
 ---
 title: Benin — monthly update, August – September 2026
-compiled: 2026-09-08
-period: 2026-08-01 to 2026-09-08
+compiled: 2026-09-09
+period: 2026-08-01 to 2026-09-09
 place: BEN
-ledger_rows: 27
+ledger_rows: 28
 not_held: 4
-record: 7c8eeb463ea4
+record: c788c81f6162
 ---
 
 # Benin: monthly update, August – September 2026
@@ -120,6 +120,11 @@ Two cohorts opened in the month, both small and both institutional. The state in
 
 ## Data
 
+### National statistics
+
+<!-- narrative: data--data-statistics -->
+A national agricultural census is under preparation with [Food and Agriculture Organization technical assistance for its preparation and execution](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-41301-762022). The record is an activity listing rather than a census document, and it carries no fieldwork date, budget or reference period.
+<!-- /narrative -->
 ### Open data
 
 <!-- narrative: data--data-open -->

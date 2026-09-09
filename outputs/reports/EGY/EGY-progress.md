@@ -1,12 +1,12 @@
 ---
 title: Egypt — progress report, September 2025 – September 2026
-compiled: 2026-09-08
-period: 2025-09-01 to 2026-09-08
+compiled: 2026-09-09
+period: 2025-09-01 to 2026-09-09
 place: EGY
 ledger_rows: 283
-not_held: 49
+not_held: 48
 indicators: 121
-record: aa5592e2ea65
+record: 6997b1be9802
 ---
 
 # Egypt: progress report, September 2025 – September 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the base holds nothing on that indicator. **That is a statement about this base, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-09-01 to 2026-09-08.*
+*The period is 2025-09-01 to 2026-09-09.*
 
 **Progress values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the base holds a standing position and nothing in the period touched it. ***No evidence*** — the base holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Advanced, regulations still pending*.
 
@@ -209,7 +209,6 @@ Where a row reads ***No evidence***, the base holds nothing on that indicator. *
 | National emergency readiness centre incident and advisory record | An annual report or regulator incident statistics giving reported incidents, sectors affected and response times for 2025 or 2026 | not yet probed |
 | Critical information infrastructure protection regulation | A regulator or cabinet instrument designating critical information infrastructure and setting security obligations on its operators, including the data centres now being licensed | not yet probed |
 | Submarine cable protection regime for Egyptian waters | An Egyptian instrument on cable protection zones, anchoring restrictions or repair-vessel access; the analysis the wiki holds is Africa-wide and names none for Egypt | not yet probed |
-| Egypt's internet exchange points | A regulator or exchange-registry entry naming Egypt's exchange points, their members and peak traffic; nothing in the base names one, which sits oddly against the 15% content-locality reading | not yet probed |
 | 2Africa Egyptian landing stations and ready-for-service dates | The consortium's landing-station list or the incumbent's segment announcements naming the Egyptian Mediterranean and Red Sea landings | not yet probed |
 | National broadband plan and any universal service obligation or fund | The published national broadband plan or the regulator instrument establishing a universal service fund, with coverage targets and a financing line | not yet probed |
 | 5G coverage and subscriber base | A regulator quarterly bulletin giving 5G population coverage, base-station count and subscribers; the equivalent is held for Morocco and Tunisia in the same source and absent for Egypt | not yet probed |

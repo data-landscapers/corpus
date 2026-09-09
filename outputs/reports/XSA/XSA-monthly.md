@@ -1,11 +1,11 @@
 ---
 title: Southern Africa — monthly update, August – September 2026
-compiled: 2026-09-08
-period: 2026-08-01 to 2026-09-08
+compiled: 2026-09-09
+period: 2026-08-01 to 2026-09-09
 place: XSA
-ledger_rows: 16
+ledger_rows: 17
 not_held: 2
-record: 17769caed052
+record: c3cf5c013f0b
 ---
 
 # Southern Africa: monthly update, August – September 2026
@@ -62,6 +62,14 @@ COMESA [went to market for a Digital Information Knowledge and Collaboration Pla
 Five revenue administrations — Malawi, Mozambique, South Africa, Zambia and Zimbabwe — [adopted a joint roadmap and action plan for customs-to-customs data exchange at a three-day Pretoria meeting hosted by the South African revenue service, closing 26 August](https://farmersreviewafrica.com/southern-african-customs-administrations-agree-roadmap-for-faster-digital-trade/). No delivery date is stated.
 
 The incoming SADC chair also [made one-stop border posts and digitised border systems a chairship priority at the 46th summit](https://www.sanews.gov.za/south-africa/sadc-seeks-turn-borders-gateways-trade-travel-and-regional-integration), tying them to a corridor trip-monitoring system integrating transport, immigration and customs data, online permitting and operator accreditation, one member's electronic visa and travel authorisation, and a proposed regional tourism visa — with progress to be measured in border-crossing times reduced rather than agreements signed. No baseline crossing time, target or timetable is published.
+<!-- /narrative -->
+
+## Coordination and collaboration
+
+### Innovation ecosystem
+
+<!-- narrative: coordination--tech-innovate -->
+An [eight-month accelerator supporting twelve teams across Southern Africa building affordable AI tools for local classrooms](https://www.wearetech.africa/fr/fils/breves/breves-simple/injini-lance-un-programme-pour-soutenir-12-start-up-en-afrique-australe) launched on 9 September 2026, with seed funding for the five strongest projects at the end. It is the only regional innovation programme the base holds for this period.
 <!-- /narrative -->
 
 ## Capacity and inclusion

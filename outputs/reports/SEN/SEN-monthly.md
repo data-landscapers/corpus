@@ -1,11 +1,11 @@
 ---
 title: Senegal — monthly update, August – September 2026
-compiled: 2026-09-08
-period: 2026-08-01 to 2026-09-08
+compiled: 2026-09-09
+period: 2026-08-01 to 2026-09-09
 place: SEN
 ledger_rows: 55
 not_held: 5
-record: c6fce709d357
+record: 255961870c0c
 ---
 
 # Senegal: monthly update, August – September 2026
@@ -27,7 +27,7 @@ Civil registration is the busiest part of the record and the least funded. Remed
 <!-- narrative: governance--gov-policy -->
 The body meant to steer digital governance has not started. The digital governance steering committee, [created in March 2026, was still stated five months later to be operational in the near future](https://www.biometricupdate.com/202608/senegal-seeks-to-fully-align-sovereignty-vision-with-dpi-strategy). A coordinating body that has not convened is what sits behind the strategies this section otherwise records as adopted but unreadable.
 
-The roadmap acquired a shape and a hole in the same statement. Presented at an international forum on 4 September, the New Deal Technologique is [54 projects across 12 programmes at US$2bn over ten years, of which US$700m is unallocated](https://dig.watch/event/wsis-forum-2026/new-technological-deal-or-or-how-a-global-south-digital-strategy-for-impactful-ict-transformation). The figures are the government's own and no project list, allocation schedule or financing plan for the unallocated third accompanies them, so what is established is the size of the programme and the size of the gap in it.
+The roadmap acquired a shape and a hole in the same statement. Presented at an international forum on 4 September, the New Deal Technologique is [54 projects across 12 programmes at US$2bn over ten years, of which US$700m is unallocated](https://dig.watch/event/wsis-forum-2026/new-technological-deal-or-or-how-a-global-south-digital-strategy-for-impactful-ict-transformation). The figures are the government's own and no project list, allocation schedule or financing plan for the unallocated third accompanies them, so what is established is the size of the programme and the size of the gap in it. The prime minister's [general policy statement of 8 September refocused the programme on a sovereign cloud for the state's sensitive data and an accelerated sectoral AI strategy](https://www.wearetech.africa/fr/fils/actualites/tech/senegal-priorites-numeriques-recentrees-sur-le-cloud-souverain-et-l-ia), narrowing selection to initiatives that are feasible, financed and able to produce measurable results.
 <!-- /narrative -->
 ### Legislation and regulation
 

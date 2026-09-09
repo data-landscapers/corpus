@@ -1,12 +1,12 @@
 ---
 title: Morocco — progress report, September 2025 – September 2026
-compiled: 2026-09-08
-period: 2025-09-01 to 2026-09-08
+compiled: 2026-09-09
+period: 2025-09-01 to 2026-09-09
 place: MAR
 ledger_rows: 184
-not_held: 15
+not_held: 14
 indicators: 121
-record: af5393d0d84a
+record: 981bac9139d7
 ---
 
 # Morocco: progress report, September 2025 – September 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the base holds nothing on that indicator. **That is a statement about this base, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-09-01 to 2026-09-08.*
+*The period is 2025-09-01 to 2026-09-09.*
 
 **Progress values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the base holds a standing position and nothing in the period touched it. ***No evidence*** — the base holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Advanced, regulations still pending*.
 
@@ -208,7 +208,6 @@ Where a row reads ***No evidence***, the base holds nothing on that indicator. *
 | Morocco-China technology cooperation framework | A signed state-to-state instrument; the base holds six sources on this subject and every one is a vendor relationship, with no government-level framework on file | 2026-08-06 |
 | Morocco-United States bilateral digital or artificial-intelligence agreement | A signed bilateral instrument on digital or artificial-intelligence cooperation; the base now holds the 2023 protocol extending the two states' 2006 science and technology agreement, which is not one, and otherwise a commercial guide, ambassadorial attendance at two openings and an unresolved satellite licensing position | 2026-08-06 |
 | Founding decree or statute for the Al-Jazari institutes | The founding agreements or the constituting decree; the base now holds the ministry's own accounts of four regional or thematic signings from 2025-04-14 and of the founding institute launched 2026-01-12, and no statute, legal form, governance structure, budget, campus or intake for any of them | 2026-08-06 |
-| National artificial-intelligence roadmap "Morocco AI 2030" | The roadmap text or a ministry announcement of the roadmap itself; the ministry's 2026-01-12 record names "AI Made in Morocco" as a national event and frames the founding institute as consolidating Maroc IA 2030, so the two names are an event and a framework rather than two roadmaps, and no text of either is held | 2026-08-06 |
 | Official start-up investment statistics | A publication by the digital development agency, the investment agency or the ministry giving funded-company counts and amounts; the agency's own 1,028-entry start-up database (2025-01-03) carries no funding amounts, and investment totals remain two third-party trackers whose 2025 Morocco figures disagree | 2026-08-06 |
 | Start-up legal status | A bill, decree or published legal definition of start-up status; the base carries a 3,000-start-up target and several accelerator programmes, and no instrument conferring status | 2026-08-06 |
 | Accession to the modernised Council of Europe data-protection convention | The ratification or accession instrument for the modernising protocol, or a statement that Morocco has not acceded to it; accession to Convention 108 itself is now established from the 2012 committee opinion and the regulator's recital of a 2019 ratification, and nothing on file addresses the modernised text | 2026-08-06 |

@@ -1,11 +1,11 @@
 ---
 title: South Sudan — monthly update, August – September 2026
-compiled: 2026-09-08
-period: 2026-08-01 to 2026-09-08
+compiled: 2026-09-09
+period: 2026-08-01 to 2026-09-09
 place: SSD
-ledger_rows: 34
+ledger_rows: 35
 not_held: 12
-record: af63a9a0757c
+record: c3a84f6c7084
 ---
 
 # South Sudan: monthly update, August – September 2026

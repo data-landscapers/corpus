@@ -1,11 +1,11 @@
 ---
 title: Cote d'Ivoire — monthly update, August – September 2026
-compiled: 2026-09-08
-period: 2026-08-01 to 2026-09-08
+compiled: 2026-09-09
+period: 2026-08-01 to 2026-09-09
 place: CIV
 ledger_rows: 52
 not_held: 10
-record: 9a63fa0daa0c
+record: 562200c6f999
 ---
 
 # Cote d'Ivoire: monthly update, August – September 2026
@@ -91,9 +91,7 @@ The rural programme's own account reached the base for the first time. Its [firs
 ### Data Storage
 
 <!-- narrative: ict-infrastructure--infra-store -->
-
-
-The financing behind the sovereign data centre is now on the record, and it is a fraction of the project. The United States export credit agency [approved a guarantee of US$66,138,119 on 21 August 2025, with the finance and budget ministry as borrower and the digital transition ministry as end user](https://www.exim.gov/news/minutes/board-meeting-minutes-2025-08-21), against the US$170m the government authorised in July 2026. It is known from the agency's own board minutes rather than from a signed facility, and nothing published explains how the rest of the authorised cost is to be met.
+The financing behind the sovereign data centre is now on the record, and it is a fraction of the project. The United States export credit agency [approved a guarantee of US$66,138,119 on 21 August 2025, with the finance and budget ministry as borrower and the digital transition ministry as end user](https://www.exim.gov/news/minutes/board-meeting-minutes-2025-08-21), against the US$170m the government authorised in July 2026. It is known from the agency's own board minutes rather than from a signed facility, and nothing published explains how the rest of the authorised cost is to be met. Opening of the state data centre is [targeted for 2027 at an estimated US$66 million, specified at 1.73MW of IT capacity within 3MW of total power, 228 racks and 10 petabytes of storage](https://www.datacenterdynamics.com/en/news/ivory-coast-targets-launch-of-first-state-owned-data-center-in-2027/).
 <!-- /narrative -->
 ### Cybersecurity
 

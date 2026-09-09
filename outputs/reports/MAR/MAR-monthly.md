@@ -1,11 +1,11 @@
 ---
 title: Morocco — monthly update, August – September 2026
-compiled: 2026-09-08
-period: 2026-08-01 to 2026-09-08
+compiled: 2026-09-09
+period: 2026-08-01 to 2026-09-09
 place: MAR
-ledger_rows: 37
-not_held: 15
-record: 57735db266be
+ledger_rows: 38
+not_held: 14
+record: 6b3a912b863a
 ---
 
 # Morocco: monthly update, August – September 2026

@@ -1,11 +1,11 @@
 ---
 title: Rwanda — monthly update, August – September 2026
-compiled: 2026-09-08
-period: 2026-08-01 to 2026-09-08
+compiled: 2026-09-09
+period: 2026-08-01 to 2026-09-09
 place: RWA
 ledger_rows: 45
 not_held: 9
-record: 59cb1002ed66
+record: 06ce362d0bbb
 ---
 
 # Rwanda: monthly update, August – September 2026
@@ -47,7 +47,7 @@ Rwanda is [preparing a restriction on social media use by under-16s](https://www
 Country consultations for a [regional artificial-intelligence framework were held at Kigali on 3 August](https://rwandainspirer.com/rwanda-highlights-ai-policy-progress-as-comesa-seeks-regional-framework/), to feed a study toward a regional strategy, model policy guidelines and model regulatory frameworks; no text or timetable is published, and Rwanda reported unquantified progress on its own national policy. The [bilateral licence passporting memorandum with Ghana remains unpublished by either central bank](https://techafricanews.com/2026/07/30/the-compliance-cost-can-africa-build-a-regulatory-home-for-its-fintechs/) eighteen months after signature, cited as a working precedent with no firm reported as having used it.
 
 
-One piece of regional machinery moved from design into use. A continental alliance and a German development agency say [a digital identity issued in Rwanda, Ghana or Benin is now being recognised in the other two, with eighteen further countries said to be joining](https://www.giz.de/en/newsroom/storys/interview-herken-kone-smart-africa-digital-sovereignty). No scale, service, date or governing instrument is stated for any of it.
+One piece of regional machinery moved from design into use. A continental alliance and a German development agency say [a digital identity issued in Rwanda, Ghana or Benin is now being recognised in the other two, with eighteen further countries said to be joining](https://www.giz.de/en/newsroom/storys/interview-herken-kone-smart-africa-digital-sovereignty). No scale, service, date or governing instrument is stated for any of it. The delegation also completed a [two-week learning mission to India on digital public infrastructure, concluded 7 September](https://www.undp.org/africa/press-releases/undps-aa4dpi-programme-deepens-south-south-cooperation-digital-public-infrastructure), alongside four other countries and African Union representatives.
 <!-- /narrative -->
 ### Standards
 
@@ -76,7 +76,7 @@ The month's financing arrived as a parliamentary approval rather than a disburse
 The legacy-network retirement plan the ministry announced on 28 July fixes third-generation service off nationwide on [30 June 2027](https://www.minict.gov.rw/news-detail/rwanda-to-switch-off-3g-networks-on-30-june-2027), with operator pilot shutdowns during 2026 and critical-system migration completed in the first half of 2027. December 2028 is the working date for the second-generation network, conditional on coverage, voice reliability including emergency calls, continuity of mobile money, migration of dependent systems and affordable handsets. The technical precondition followed days later: the dominant operator launched voice over fourth-generation networks, reported on 3 August, with no coverage, handset-base or subscriber figure and no reference to the sunset. [A subsea operator announced a 25,000 km system across fifteen countries on 9 July with no timeline disclosed](https://www.minict.gov.rw/news-detail/rwanda-to-switch-off-3g-networks-on-30-june-2027); a landlocked country's exposure to it is backhaul rather than a landing. As at 30 July the World Bank's successor nine-year country partnership framework is prepared but not launched, with no committed envelope on the record.
 
 
-The cross-border route got its operator's own description as the peering forum met in Kigali: [a 2,000km protected corridor from Goma to Mombasa connecting Kigali, Kampala and Nairobi, inside a network the operator puts across sixteen African countries](https://paratus.africa/blog/paratus-rwanda-rings-in-afpif-2026/). Both figures are the operator's own.
+The cross-border route got its operator's own description as the peering forum met in Kigali: [a 2,000km protected corridor from Goma to Mombasa connecting Kigali, Kampala and Nairobi, inside a network the operator puts across sixteen African countries](https://paratus.africa/blog/paratus-rwanda-rings-in-afpif-2026/). Both figures are the operator's own. The [2,000-kilometre Goma-to-Mombasa terrestrial route through Kigali, Kampala and Nairobi was announced live and carrying traffic on 9 September](https://techtrendske.co.ke/2026/09/09/paratus-expands-east-africa-connectivity-itw-africa/), with access to subsea capacity at Mombasa.
 <!-- /narrative -->
 ### Data Storage
 
