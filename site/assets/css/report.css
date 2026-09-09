@@ -156,6 +156,36 @@
    prevent. */
 .bulletin-item[hidden], .bulletin-filter[hidden] { display: none; }
 
+/* **A bullet at the head of each item, and the summary under the headline it
+   belongs to** (Bill, 2026-09-09). An edition is sixty-odd items in two
+   paragraphs each, and where the summary ran to a single line the item and the
+   one below it read as one block of text: nothing on the page said where an
+   entry started. A hanging bullet says it, and indenting the whole item to the
+   width of that bullet puts the summary under the first word of its own title
+   rather than out at the margin with the next item's.
+
+   `::before` on the wrapper rather than a real list: the items are `<div>`s the
+   filter hides one at a time, and `display: list-item` would be the third
+   element here carrying an author `display` — see the note above for what that
+   costs. The marker is absolutely positioned, so it does not enter the flow and
+   the paragraph's own line-height goes on setting the leading. */
+.bulletin-item {
+  position: relative;
+  padding-left: 1.15rem;
+  margin-bottom: 1rem;
+}
+.bulletin-item::before {
+  content: "\2022";
+  position: absolute;
+  left: 0;
+  top: 0;
+  line-height: 1.6;
+  color: var(--accent);
+}
+/* The two paragraphs are one entry, so they sit closer to each other than the
+   entry does to the next one. */
+.bulletin-item > p { margin-bottom: 0.35rem; }
+
 /* The mini-archive picker, in the colophon beside `This file`. Sized to the
    colophon's own small type rather than to the country filter's: this is
    reference matter about the document, not a control over its contents.
@@ -279,18 +309,34 @@ table.indicator td:nth-child(2) { font-weight: 600; }
 table.indicator td:nth-child(3) { font-family: var(--serif); text-transform: none;
   letter-spacing: 0; }
 
+/* The same frame sliced by subject (topic progress reports): country |
+   developments | progress. Three columns rather than four — the subject is the
+   heading above the table, so it is not repeated down it — and the room the
+   Topic column gave up goes to Developments, which carries the same prose and
+   the same expander here as it does there. */
+table.topic-progress td:nth-child(1), table.topic-progress th:nth-child(1) { width: 20%; }
+table.topic-progress td:nth-child(2), table.topic-progress th:nth-child(2) { width: 64%; }
+table.topic-progress td:nth-child(3), table.topic-progress th:nth-child(3) { width: 16%; }
+table.topic-progress td:nth-child(1) { font-weight: 600; }
+table.topic-progress td:nth-child(2) { font-family: var(--serif); text-transform: none;
+  letter-spacing: 0; }
+
 /* The row's expander. `summary` is the affordance and has to look like one;
    the record itself is set apart from the terse summary above it so the two
    do not read as one paragraph. */
-table.indicator details { margin-top: 0.45rem; }
-table.indicator summary { cursor: pointer; font-family: "Lato", sans-serif;
+table.indicator details, table.topic-progress details { margin-top: 0.45rem; }
+table.indicator summary, table.topic-progress summary { cursor: pointer;
+  font-family: "Lato", sans-serif;
   font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.06em;
   color: var(--accent); }
-table.indicator details[open] summary { margin-bottom: 0.35rem; }
-table.indicator details > :not(summary) { color: var(--ink-light); }
+table.indicator details[open] summary,
+table.topic-progress details[open] summary { margin-bottom: 0.35rem; }
+table.indicator details > :not(summary),
+table.topic-progress details > :not(summary) { color: var(--ink-light); }
 
 /* The qualifying clause a Mixed value must carry, set outside its badge. */
-table.indicator .badge-note { display: block; margin-top: 0.3rem;
+table.indicator .badge-note, table.topic-progress .badge-note { display: block;
+  margin-top: 0.3rem;
   font-family: var(--serif); font-size: 0.74rem; line-height: 1.35;
   color: var(--ink-light); text-transform: none; letter-spacing: 0; }
 
@@ -457,7 +503,8 @@ a.badge:hover::after { opacity: 1; }
      sentence onto three lines — one before the link, one for it, one after. A
      measured Developments cell fell from 246pt to 164pt when the rule went,
      with no content lost. */
-  table.indicator details > summary { display: none; }
+  table.indicator details > summary,
+  table.topic-progress details > summary { display: none; }
 
   /* Fixed layout makes the declared column percentages binding, so long cell
      text wraps instead of widening the table. */

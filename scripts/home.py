@@ -373,15 +373,7 @@ TEMPLATE = """<!DOCTYPE html>
   </div>
   </main>
 
-  <footer class="site-footer">
-    <div class="site-footer__inner">
-      <p class="site-footer__copy"><a href="https://creativecommons.org/licenses/by/4.0/" style="color:inherit;border-bottom:none;">CC BY 4.0</a> {year} Bill Anderson / Data Landscapers Ltd &nbsp;·&nbsp; Registered in the UK · Co. No. 16040544</p>
-      <div class="site-footer__links">
-        <a href="{main_site}/">data-landscapers.io</a>
-        <a href="{base}/methodology/">Methodology</a>
-      </div>
-    </div>
-  </footer>
+{foot}
 
 </div>
 </body>
@@ -622,7 +614,7 @@ def build() -> Path:
         docs_year=f"{s['by_year'].get(this_year, 0):,}",
         docs_month=f"{s['by_month'].get(this_month, 0):,}",
         bulletin=bulletin_section(),
-        chrome=chrome(None, depth=0),
+        chrome=chrome(None, depth=0), foot=foot(depth=0),
         styles=styles(0, "home.css"), ga=ga(),
         hero=copy_inline("home", "hero"),
         countries_intro=copy_inline("home", "countries-intro"),

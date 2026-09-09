@@ -28,6 +28,12 @@
 
 .report-row { display: flex; gap: 1.5rem; align-items: center; justify-content: space-between; padding: 0.8rem 0; border-bottom: 1px solid var(--rule); }
 .report-row:first-of-type { border-top: 1px solid var(--rule); }
+/* The list closes on white, not on a rule (Bill, 2026-09-09). The last row's
+   border-bottom sat a few millimetres above the terracotta rule that opens
+   `Catalogue`, so the section boundary was drawn twice in two colours and the
+   grey one read as a stray line under the reports. The rules between rows are
+   what separate them; the one after the last row separates nothing. */
+.report-row:last-of-type { border-bottom: none; }
 .report-row__kind { font-family: var(--display); font-weight: 700; font-size: 1.12rem; }
 .report-row__blurb { font-size: 0.86rem; color: var(--ink-light); margin-top: 0.1rem; }
 .report-row__meta { font-size: 0.75rem; color: var(--ink-faint); margin-top: 0.4rem; }
