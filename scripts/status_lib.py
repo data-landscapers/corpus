@@ -36,7 +36,9 @@ import taxonomy_lib  # noqa: E402
 REPO = os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
 DPI_CSV = os.path.join(REPO, "prep", "africa-dpi-data.csv")
 FINANCE_CSV = os.path.join(REPO, "outputs", "non-state-finance", "all-nonstate.csv")
-CATALOGUE_CSV = os.path.join(REPO, "outputs", "catalogue", "raw-catalogue.csv")
+# The internal table, not the download: this needs the record key, which came out of the
+# published columns on 2026-09-09 (`build-catalogue.py` -> `CSV_COLS`). Same rows.
+CATALOGUE_CSV = os.path.join(REPO, "outputs", "catalogue", "catalogue-internal.csv")
 IIAG_CSV = os.path.join(REPO, "lookups", "iiag-profiles.csv")
 # The acquire feed sits in a transfer folder outside both repos, which OSINT is given access to,
 # so an OSINT session can read and mark the same file rather than wait for a copy carried across

@@ -4,9 +4,11 @@
 The website needs one thing the index cannot give it directly: a **committed,
 self-contained, filterable list of the holdings**. `index/` is local scaffolding —
 untracked, rebuilt, 14 MB of parser detail nobody outside a script should read.
-This is the published view of it: one JSON file the site fetches, one CSV for
-everything else, and the facet counts a filter UI needs so it does not have to
-scan the rows to build its own menus.
+This is the published view of it: one JSON file the site builds from, one CSV
+anyone can download, and the facet counts a filter UI needs so it does not have to
+scan the rows to build its own menus. A third file, `catalogue-internal.csv`, is the
+download with the record key put back for the scripts that need it — see `CSV_COLS`
+below, which is where the line between the two is drawn and argued.
 
 It goes to `outputs/` because that is the folder the website serves, alongside
 the finance exports, and it is **tracked** for the same reason they are — a
@@ -46,6 +48,10 @@ if hasattr(sys.stdout, "reconfigure"):
 OUT_DIR = os.path.join(V.ROOT, "outputs", "catalogue")
 JSON_PATH = os.path.join(OUT_DIR, "raw-catalogue.json")
 CSV_PATH = os.path.join(OUT_DIR, "raw-catalogue.csv")
+# The same rows with the slug on them, for the scripts that resolve a citation or key a
+# store by it. Internal: nothing copies it into `site/` and nothing links it. See
+# `INTERNAL_COLS` below for why it exists at all.
+INTERNAL_CSV_PATH = os.path.join(OUT_DIR, "catalogue-internal.csv")
 # What the catalogue was built from, so a later stage can tell whether it still holds.
 # The report layer resolves its citations here rather than against `index/` (2026-08-14),
 # and a resolution table nobody can date is one that goes stale in silence.
@@ -71,9 +77,31 @@ def entity_names():
         return {r["slug"]: r["display"] for r in csv.DictReader(fh) if r.get("display")}
 
 
-CSV_COLS = ["slug", "title", "publisher", "author", "published", "date_precision",
-            "places", "topics", "entities", "lens", "body_completeness", "finance",
-            "artefact", "words", "ingested", "url", "url_note"]
+# **Two column sets, and the difference between them is the boundary between what is
+# published and what is Corpus's own working detail** *(Bill, 2026-09-09)*.
+#
+# `CSV_COLS` is the download — `raw-catalogue.csv`, the country and region cuts, and the
+# selection a reader cuts in the browser (`catalogue.py` -> `csv_cols()` reads this list
+# by syntax tree, so the three cannot disagree). It carries what identifies and places a
+# document: who published it, when, where it is about, and where to go and read it.
+#
+# Six columns came out of it. `slug`, `lens`, `body_completeness`, `finance`, `artefact`
+# and `words` are Corpus's and OSINT's handling notes about a record rather than facts
+# about the document — a key into another repository's tree, a classification the site no
+# longer shows, a completeness grade for our own copy, a filing flag, the names of files
+# only we hold, and a word count of a body the catalogue deliberately does not publish.
+#
+# `INTERNAL_COLS` is the same rows with `slug` restored, written beside it as
+# `catalogue-internal.csv` and **never published**: the report layer resolves every
+# citation through `slug -> url` and the bulletin keys its summary store on the slug, so
+# the key has to survive somewhere a script can read it. The other five survive in
+# `raw-catalogue.json`, which is the full record and is likewise internal. The rule is
+# one line: **anything that needs the key reads the internal table; the download is the
+# public one.**
+CSV_COLS = ["title", "publisher", "author", "published", "date_precision",
+            "places", "topics", "entities", "ingested", "url", "url_note"]
+
+INTERNAL_COLS = ["slug"] + CSV_COLS
 
 
 def items(rows):
@@ -208,14 +236,21 @@ def write(rows, meta, stamp):
     # `test_catalogue_export.py` compares the bytes, so the two cannot drift apart in
     # silence. Every Python reader of this file already opens it `utf-8-sig`, which reads
     # both forms; `bulletin.py` and `lint-scope.py` were the two that did not and now do.
-    with open(CSV_PATH, "w", encoding="utf-8-sig", newline="") as fh:
-        w = csv.DictWriter(fh, fieldnames=CSV_COLS, extrasaction="ignore")
-        w.writeheader()
+    #
+    # Both CSVs are written from one pass over the same flattened rows, so the internal
+    # table is the download plus a key rather than a second reading of the vault.
+    with open(CSV_PATH, "w", encoding="utf-8-sig", newline="") as pub, \
+            open(INTERNAL_CSV_PATH, "w", encoding="utf-8-sig", newline="") as int_:
+        wp = csv.DictWriter(pub, fieldnames=CSV_COLS, extrasaction="ignore")
+        wi = csv.DictWriter(int_, fieldnames=INTERNAL_COLS, extrasaction="ignore")
+        wp.writeheader()
+        wi.writeheader()
         for r in rows:
             flat = dict(r)
             for k in ("places", "topics", "entities", "lens", "artefact"):
                 flat[k] = "; ".join(flat[k])
-            w.writerow(flat)
+            wp.writerow(flat)
+            wi.writerow(flat)
     return doc
 
 
@@ -248,7 +283,10 @@ def main():
     doc = write(rows, meta, stamp)
     print(f"catalogue: {doc['count']:,} sources -> outputs/catalogue/")
     print(f"  raw-catalogue.json {os.path.getsize(JSON_PATH)/1e6:.1f} MB, "
-          f"raw-catalogue.csv {os.path.getsize(CSV_PATH)/1e6:.1f} MB")
+          f"raw-catalogue.csv {os.path.getsize(CSV_PATH)/1e6:.1f} MB "
+          f"({len(CSV_COLS)} columns, published), "
+          f"catalogue-internal.csv {os.path.getsize(INTERNAL_CSV_PATH)/1e6:.1f} MB "
+          f"({len(INTERNAL_COLS)} columns, not published)")
     print(f"  facets: {len(doc['facets']['places'])} places, "
           f"{len(doc['facets']['topics'])} topics, "
           f"{len(doc['facets']['publisher'])} publishers, "

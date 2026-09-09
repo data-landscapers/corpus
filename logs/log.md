@@ -48,6 +48,7 @@ title: Corpus process log
 
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 <!-- newest first: a new entry goes directly below this line -->
+2026-09-09 14:12 · catalogue · 1h20m · Six columns out of every catalogue download: slug, lens, body_completeness, finance, artefact, words. raw-catalogue.csv, the 62 country and region cuts and the browser's own CSV/JSON carry eleven; catalogue-internal.csv keeps the slug citations resolve by
 2026-09-09 13:00 · build · unclocked · bulletin top-up: window 2026-09-08 to 2026-09-09, 56 items, 16 new summaries, rendered edition 2026-09-09-2 — ok
 2026-09-09 12:55 · render · unclocked · region.py takes country.py's page and finance templates; the byte-identical copy and a stale crumb both gone
 2026-09-09 12:32 · render · unclocked · editions now read off the page not the pruned tree - same-day suffix and the publish gate both work again, 9 new cases

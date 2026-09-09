@@ -60,7 +60,9 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from scope_lib import facets, verdict  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
-CATALOGUE = ROOT / "outputs" / "catalogue" / "raw-catalogue.csv"
+# The internal table, not the download: `--json` reports by slug, and the slug stopped
+# being a published column on 2026-09-09 (`build-catalogue.py` -> `CSV_COLS`).
+CATALOGUE = ROOT / "outputs" / "catalogue" / "catalogue-internal.csv"
 
 
 def classify(since: str | None) -> dict[str, list[dict]]:

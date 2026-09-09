@@ -61,7 +61,7 @@ python scripts/rebuild.py --all        # vocab snapshot + catalogue + finance/bu
 
 Writes `outputs/catalogue/`, `outputs/non-state-finance/`, `outputs/budgets/`, refreshes `outputs/vocab/`, and prints the stage-4 work order. Commit `outputs/` and `outputs/vocab/`.
 
-**Stage 2 is a precondition of stages 4 and 5.** The report layer resolves every citation through `outputs/catalogue/raw-catalogue.csv`; `report-render.py` refuses a catalogue older than `raw/` (`vault_lib.StaleCatalogue`), and the repair is to run this stage first. `--all` satisfies it in the right order.
+**Stage 2 is a precondition of stages 4 and 5.** The report layer resolves every citation through `outputs/catalogue/catalogue-internal.csv` — the download's rows with the slug still on them, which is what a citation resolves *by* and is not a published column (`build-catalogue.py` → `CSV_COLS`, 2026-09-09); `report-render.py` refuses a catalogue older than `raw/` (`vault_lib.StaleCatalogue`), and the repair is to run this stage first. `--all` satisfies it in the right order.
 
 **It is also the pin.** *Older than* means a record deleted or edited since the catalogue was built — not one **added** since, which the catalogue does not list and nothing can cite. That is what lets a build run while OSINT is working beside it; `CYCLE.md` → *A cycle ignores what OSINT sends after it has started* carries the reasoning, and the run says how many arrived that it left out.
 

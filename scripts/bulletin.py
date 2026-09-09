@@ -153,7 +153,10 @@ import taxonomy_lib  # noqa: E402
 CORPUS = Path(__file__).resolve().parent.parent
 OUTPUTS = CORPUS / "outputs"
 BULLETINS = OUTPUTS / "bulletins"
-CATALOGUE = OUTPUTS / "catalogue" / "raw-catalogue.csv"
+# The internal table rather than the download, because the summary store is keyed on the
+# record slug and the slug is not a published column (`build-catalogue.py` -> `CSV_COLS`,
+# 2026-09-09). Same rows, same build.
+CATALOGUE = OUTPUTS / "catalogue" / "catalogue-internal.csv"
 COUNTRIES = OUTPUTS / "vocab" / "countries.csv"
 STORE = BULLETINS / "summaries.json"
 DOCUMENT = BULLETINS / "corpus-bulletin.md"

@@ -31,7 +31,9 @@ and renders whatever ledgers already exist.
 Stages
   1. vocab      snapshot lookups/{countries.csv,taxonomy.md} -> outputs/vocab/   (so JOB 2
                 never has to read outside outputs/ — NOTES-FOR-OSINT #9)
-  2. catalogue  raw/ -> outputs/catalogue/{raw-catalogue.csv,json}
+  2. catalogue  raw/ -> outputs/catalogue/{raw-catalogue.csv,json} and catalogue-internal.csv
+                (the download, the record it is cut from, and the download plus the slug the
+                 report layer resolves citations by — build-catalogue.py -> CSV_COLS)
   3. finance    raw/ -> outputs/non-state-finance/ + outputs/budgets/ (+ all-nonstate.csv)
   4. update     the report update — the ledgers' move. `--scan` here prints the work order
                 (units holding sources the ledger has not considered); the authoring itself is

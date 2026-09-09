@@ -372,16 +372,22 @@
   // **`path` is deliberately not here.** The published JSON carried it — a vault-relative
   // filename that meant nothing to a reader, was never in the CSV, and is not worth a
   // megabyte across the chunks to keep. Everything `csv_cols()` names is.
+  //
+  // **Six more left on 2026-09-09** *(Bill)*: `slug`, `lens`, `body_completeness`,
+  // `finance`, `artefact` and `words`. They are Corpus's and OSINT's handling notes
+  // about a record rather than facts about the document, and the argument is written
+  // out at `build-catalogue.py` -> `CSV_COLS`. The JSON a reader downloads is this
+  // object, so dropping them here drops them from both downloads at once; the CSV
+  // takes its columns from `csv_cols()` and would ignore a stray field anyway, which
+  // is exactly the silent divergence this function is tested against.
   function itemOf(i, t){
     return {
-      slug: t[2], title: t[0], publisher: PUBS[cPub[i]], author: t[4],
+      title: t[0], publisher: PUBS[cPub[i]], author: t[4],
       published: DATES[cDate[i]], date_precision: t[5],
       places: cPl[i].map(function(k){ return PLK[k]; }),
       topics: cTp[i].map(function(k){ return TPK[k]; }),
       entities: cEn[i].map(function(k){ return ENTS[k]; }),
-      lens: t[6], body_completeness: COMP[cCmp[i]], finance: t[7],
-      artefact: t[11], words: t[8], ingested: t[9],
-      url: t[1], url_note: t[10], catalogue_hero: t[3]
+      ingested: t[6], url: t[1], url_note: t[7], catalogue_hero: t[3]
     };
   }
 
@@ -892,7 +898,7 @@
   // **The one fetch the page cannot do without.** Everything above waits on it; the
   // markup the reader is already looking at was written at build time and stands if
   // it never arrives.
-  fetch('data/filter-index.json?v=6ad3dfa1')
+  fetch('data/filter-index.json?v=be5b0624')
     .then(function(res){ if (!res.ok) throw new Error(res.status); return res.json(); })
     .then(start)
     .catch(function(){

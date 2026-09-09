@@ -5,7 +5,7 @@
       -> site/catalogue/index.html                    the browse-and-filter surface
       -> site/catalogue/data/filter-index.json        facets, counts and sorts
       -> site/catalogue/data/rows-NNN.json            row text, 500 records a file
-      -> site/catalogue/raw-catalogue.csv             the full download, published from source
+      -> site/catalogue/raw-catalogue.csv             the download: every row, the published columns
 
 Promoted from `prototypes/catalogue-prototype.html` + `prototypes/build-catalogue-data.py`
 once the browse surface was agreed. It reads the catalogue Corpus builds itself
@@ -494,8 +494,15 @@ def pack_rows(cdir: Path):
     whole**, and it still is the shape the page assembles a row back into before
     drawing it (`rowOf` there, `row_html` here) — keeping it means the markup and the
     bake are decided in one place while the transport underneath changed completely.
-    `extra` is the seven columns `raw-catalogue.csv` carries that no row on the page
-    ever shows, held apart because they ride the chunks and nothing else reads them.
+    `extra` is the columns `raw-catalogue.csv` carries that no row on the page ever
+    shows, held apart because they ride the chunks and nothing else reads them.
+
+    **It was seven columns until 2026-09-09 and is now four.** `lens`, `finance`,
+    `words` and `artefact` came out of the download that day (`build-catalogue.py` ->
+    `CSV_COLS`), and the page draws none of them: the filter index carries the
+    artefact *flag* and the completeness for the row's own tags, and the four here had
+    no reader left but the export. A field nothing reads is a field that rides to
+    every reader who opens a chunk, so they go rather than sit.
 
     Entities are **dictionary-encoded**: field 10 holds integer offsets into a
     vocabulary array shipped once, not the slugs themselves. 24,891 tags drawn
@@ -540,12 +547,8 @@ def pack_rows(cdir: Path):
     extra = [[
         i.get("author") or "",
         i.get("date_precision") or "",
-        i.get("lens") or [],
-        bool(i.get("finance")),
-        i.get("words") or 0,
         i.get("ingested") or "",
         i.get("url_note") or "",
-        i.get("artefact") or [],
     ] for i in items]
     order = sorted(range(len(rows)), key=lambda n: rows[n][2], reverse=True)
     head = d if isinstance(d, dict) else {}
@@ -575,14 +578,16 @@ def pack_rows(cdir: Path):
 # paragraph exists because the last private format here, `raw-catalogue.json`, acquired
 # a second consumer while nobody was saying it must not, and then had to be kept for it.
 CHUNK = 500                    # rows per chunk file; `CH` in the page
-CHUNK_FIELDS = ("title", "url", "slug", "hero",          # what a row draws
-                "author", "date_precision", "lens", "finance",
-                "words", "ingested", "url_note", "artefact")   # what the download needs
+CHUNK_FIELDS = ("title", "url", "slug", "hero",                  # what a row draws
+                "author", "date_precision", "ingested", "url_note")   # what the download needs
 
 # **The chunks carry every column of `raw-catalogue.csv` that the filter index does
-# not** (Part 4). The index holds `artefact` as a flag, because a flag is all a row
-# draws; the download carries the filenames themselves, so those ride here. That is the
-# whole of what `raw-catalogue.json` was still being published for.
+# not** (Part 4). That is the whole of what `raw-catalogue.json` was still being
+# published for.
+#
+# `slug` stays although the download no longer carries it (2026-09-09): it is field 2
+# of the thirteen `rowOf` reassembles, and the shape is what keeps the bake here and
+# the page's own drawing in step. It is not written into any file a reader downloads.
 
 
 def az_ranks(rows) -> list[int]:
@@ -1005,16 +1010,22 @@ SCRIPT = r"""
   // **`path` is deliberately not here.** The published JSON carried it — a vault-relative
   // filename that meant nothing to a reader, was never in the CSV, and is not worth a
   // megabyte across the chunks to keep. Everything `csv_cols()` names is.
+  //
+  // **Six more left on 2026-09-09** *(Bill)*: `slug`, `lens`, `body_completeness`,
+  // `finance`, `artefact` and `words`. They are Corpus's and OSINT's handling notes
+  // about a record rather than facts about the document, and the argument is written
+  // out at `build-catalogue.py` -> `CSV_COLS`. The JSON a reader downloads is this
+  // object, so dropping them here drops them from both downloads at once; the CSV
+  // takes its columns from `csv_cols()` and would ignore a stray field anyway, which
+  // is exactly the silent divergence this function is tested against.
   function itemOf(i, t){
     return {
-      slug: t[2], title: t[0], publisher: PUBS[cPub[i]], author: t[4],
+      title: t[0], publisher: PUBS[cPub[i]], author: t[4],
       published: DATES[cDate[i]], date_precision: t[5],
       places: cPl[i].map(function(k){ return PLK[k]; }),
       topics: cTp[i].map(function(k){ return TPK[k]; }),
       entities: cEn[i].map(function(k){ return ENTS[k]; }),
-      lens: t[6], body_completeness: COMP[cCmp[i]], finance: t[7],
-      artefact: t[11], words: t[8], ingested: t[9],
-      url: t[1], url_note: t[10], catalogue_hero: t[3]
+      ingested: t[6], url: t[1], url_note: t[7], catalogue_hero: t[3]
     };
   }
 

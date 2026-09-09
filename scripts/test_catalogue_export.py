@@ -22,6 +22,12 @@ rendering as `false` instead of `False`), the encoding of every column into the 
 payload, and the reassembly of a record out of it. Nothing else in the build would
 notice any of them.
 
+**The columns are the published set, which is not every column the catalogue holds.**
+Six came out of the download on 2026-09-09 (`build-catalogue.py` -> `CSV_COLS`), so what
+is compared here is the page's cut against `raw-catalogue.csv` as it now stands. The
+fuller table beside it, `catalogue-internal.csv`, is not published and is not what the
+page cuts from, so it is not in this comparison at all.
+
 The row **order** is taken from `outputs/catalogue/raw-catalogue.json`, which is the
 file `raw-catalogue.csv` was written from and is not published. An export's own order is
 the reader's view order, deliberately, so it is not what is being checked here — the
@@ -74,12 +80,16 @@ const api = new Function('CSVCOLS', 'PUBS', 'DATES', 'PLK', 'TPK', 'COMP', 'ENTS
   '\nreturn {itemOf, toCSV};')(D.cols, PUBS, DATES, PLK, TPK, COMP, ENTS,
                               cDate, cPub, cPl, cTp, cEn, cCmp);
 
-// Every record, rebuilt from the payload the page fetches.
+// Every record, rebuilt from the payload the page fetches, keyed on the chunk's own
+// slug field — field 2 of CHUNK_FIELDS. The export itself has carried no slug since
+// 2026-09-09, so the key has to come from the payload rather than from the record the
+// page builds out of it; the page still holds it because `rowOf` reassembles a row of
+// thirteen fields whether it draws them all or not.
 const built = {};
 for (let i = 0; i < D.n; i++){
-  const it = api.itemOf(i, rows[i]);
-  if (built[it.slug]) throw new Error('two records share the slug ' + it.slug);
-  built[it.slug] = it;
+  const it = api.itemOf(i, rows[i]), slug = rows[i][2];
+  if (built[slug]) throw new Error('two records share the slug ' + slug);
+  built[slug] = it;
 }
 
 // In the order `raw-catalogue.csv` was written in, which is the JSON's own.

@@ -359,7 +359,7 @@ def index_rows():
     return _INDEX
 
 
-CATALOGUE = os.path.join(ROOT, "outputs", "catalogue", "raw-catalogue.csv")
+CATALOGUE = os.path.join(ROOT, "outputs", "catalogue", "catalogue-internal.csv")
 CATALOGUE_STAMP = os.path.join(ROOT, "outputs", "catalogue", "catalogue-stamp.json")
 SITE_BASE = "https://corpus.data-landscapers.io"
 
@@ -367,15 +367,20 @@ _CATALOGUE = None
 
 
 def catalogue_rows():
-    """`outputs/catalogue/raw-catalogue.csv`, read once per run and checked against `raw/`.
+    """`outputs/catalogue/catalogue-internal.csv`, read once per run and checked against `raw/`.
 
-    **The report layer resolves its citations against the published catalogue, not against
+    **The report layer resolves its citations against the catalogue, not against
     `index/`** *(Bill, 2026-08-14)*. The catalogue is Corpus's own committed artefact — a
     `slug -> url` table for every record in `raw/`, built by stage 2 of the same run — and the
     index is local scaffolding that stage 2 happens to build it from. Citing the published view
-    rather than the scaffolding means what a document links to is the same table a reader can
+    rather than the scaffolding means what a document links to is the rows a reader can
     download and check. Verified 2026-08-14 that the two agree exactly: 9,404 URLs each,
     identical maps, over all 5,189 slugs the 57 ledgers cite.
+
+    **It reads the internal table rather than `raw-catalogue.csv` as of 2026-09-09**, because
+    the slug came out of the download that day (`build-catalogue.py` -> `CSV_COLS`): a key into
+    OSINT's tree is a handling detail rather than a fact about the document. Same rows, same
+    build, one column more — what a reader downloads is still this table's public columns.
 
     **Resolution only.** The shape check (§7) still reads the index, because it asks a different
     question — how many sources the base holds per month, and for a region which slugs are in

@@ -8,10 +8,5 @@ author,"Author, where known"
 places,iso-3 codes for the countries and/or regions covered
 topics,Ids for the Corpus taxonomy used to classify documents. See 
 entities,Tag ids for organisations or people regularly referenced in documents
-words,The length of the document in word count
-finance,A flag indicating whether the document deals with financing
 url,The public url of the original document
-slug,The key of the metadata record in Corpus
-lens,
-body_completeness,
-artefact,
+url_note,"Why no url is given, where a documented search found the document is not online; the catalogue record is then the source"

@@ -32,7 +32,7 @@ Decisions taken and not to be re-opened without a reason. Each is Bill's decisio
 
 | Surface | Source | Notes |
 |---|---|---|
-| Catalogue | `outputs/catalogue/raw-catalogue.{json,csv}` | metadata only, never bodies |
+| Catalogue | `outputs/catalogue/raw-catalogue.{json,csv}` | metadata only, never bodies; the CSV is the download, the JSON is internal |
 | Country reports | `outputs/reports/{ISO3}/` | Status, monthly update, twelve-month progress |
 | Regional reports | `outputs/reports/{X__}/` | Progress only |
 | Topic reports | `outputs/topics/{slug}/` | One Level-2 slug across places, two documents each |
@@ -41,6 +41,10 @@ Decisions taken and not to be re-opened without a reason. Each is Bill's decisio
 | Metadata | frontmatter, facets, freshness | Part of the offer rather than an afterthought |
 
 All seven exist and publish.
+
+**What the catalogue download carries is a narrower thing than what the catalogue holds** *(Bill, 2026-09-09)*. `raw-catalogue.csv`, the country and region cuts and a reader's filtered selection carry eleven columns: title, publisher, author, published, date_precision, places, topics, entities, ingested, url, url_note — what identifies a document, places it, and sends a reader to the publisher's own copy. Six columns came out that day: `slug`, `lens`, `body_completeness`, `finance`, `artefact` and `words`. They are handling notes rather than facts about the document — a key into OSINT's tree, a classification the site no longer shows, a completeness grade for our own copy of a body we do not publish, a filing flag, the names of files only we hold, and the length of that unpublished body.
+
+The rows still exist whole on this side: `catalogue-internal.csv` is the download plus `slug`, for the report layer's citation resolution and the bulletin's summary store, and `raw-catalogue.json` is the full record. Neither is published, linked or copied into `site/`. `build-catalogue.py` → `CSV_COLS` is where the line is drawn, and `catalogue.py` reads it from there rather than restating it, so the browser's cut and the published file cannot disagree.
 
 ## 3. Structure
 
