@@ -1,11 +1,11 @@
 ---
 title: Kenya — monthly update, August – September 2026
-compiled: 2026-09-08
-period: 2026-08-01 to 2026-09-08
+compiled: 2026-09-09
+period: 2026-08-01 to 2026-09-09
 place: KEN
-ledger_rows: 146
+ledger_rows: 151
 not_held: 7
-record: 0b4f39b0cf49
+record: 4751a97b558e
 ---
 
 # Kenya: monthly update, August – September 2026
@@ -283,6 +283,14 @@ The KenSafeSpace digital-rights coalition [closed on 28 July](https://www.kictan
 The larger withdrawal is American. An implementing partner's account published on 12 August reports that [work bringing connectivity and digital inclusion to remote Kenyan counties slowed or stopped after the 2025 wind-down, in which 83% of the agency's programmes were cut](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html), and that [the multi-funder Women in the Digital Economy Fund lost its American component while the parts other funders backed continued](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html). What is described as lost is not the money alone but the convening: the party that got competitors, ministries and communities into the same project. No replacement funder is named, and no figure for the Kenyan share is stated.
 
 Domestic provision was restated in the same fortnight. The regulator's Universal Service Fund [put a target of 120,000 people across 19 counties over three years on its Digital Skilling Project](https://techafricanews.com/2026/08/19/kenya-targets-120000-people-for-digital-skills-training-across-19-counties/), aimed at unserved and underserved areas and framed as the skills half of a connectivity programme. It is a target stated at a stakeholders' workshop: no budget line, delivery partner, county list or start date accompanies it, and the fund's own FY2025/26 account is still unpublished.
+<!-- /narrative -->
+
+## Data
+
+### National statistics
+
+<!-- narrative: data--data-statistics -->
+The communications regulator and the University of Nairobi began reviewing preliminary findings from a joint national survey on child online protection and safety on 9 September 2026, with the report structure and thematic areas agreed ahead of validation and the findings intended as the evidence base for regulatory interventions. Neither the sample size nor the fieldwork period is held.
 <!-- /narrative -->
 
 ## Geopolitics
