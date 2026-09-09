@@ -1,11 +1,11 @@
 ---
 title: Ethiopia — monthly update, August – September 2026
-compiled: 2026-09-08
-period: 2026-08-01 to 2026-09-08
+compiled: 2026-09-09
+period: 2026-08-01 to 2026-09-09
 place: ETH
 ledger_rows: 38
 not_held: 5
-record: 74e7b1139ce3
+record: fd9d886d0228
 ---
 
 # Ethiopia: monthly update, August – September 2026
@@ -65,7 +65,7 @@ The month's finance entry is an allegation rather than a commitment. Corruption 
 ### Connectivity
 
 <!-- narrative: ict-infrastructure--infra-connect -->
-The incumbent closed its financial year with [data and internet at 31.1% of revenue against mobile voice at 23.5%](https://www.fanamc.com/english/215-8-billion-birr-revenue-and-9-13-trillion-birr-in-digital-transactions-ethio-telecoms-new-economic-footprint/) — the first year in which voice was not the largest share — on 215.8bn Birr of revenue and 92.9bn Birr of operating profit, the operator's own unaudited figures. Build-out continued underneath it: a progress review on 10 August put [879 sites completed under one vendor programme and 4G population coverage at 92%](https://techafricanews.com/2026/08/10/ethio-telecom-and-zte-advance-network-modernisation-as-4g-coverage-hits-92/), a figure scoped to that vendor's own footprint and not reconciled against the 95.5% national coverage claimed for the wider contract set. The second licensee reported [14.7 million ninety-day active customers at 30 June](https://www.businessdailyafrica.com/bd/corporate/companies/safaricom-invests-extra-sh1-4bn-in-ethiopia-unit-5541682), against a target of positive earnings by March 2027.
+The incumbent closed its financial year with [data and internet at 31.1% of revenue against mobile voice at 23.5%](https://www.fanamc.com/english/215-8-billion-birr-revenue-and-9-13-trillion-birr-in-digital-transactions-ethio-telecoms-new-economic-footprint/) — the first year in which voice was not the largest share — on 215.8bn Birr of revenue and 92.9bn Birr of operating profit, the operator's own unaudited figures. Build-out continued underneath it: a progress review on 10 August put [879 sites completed under one vendor programme and 4G population coverage at 92%](https://techafricanews.com/2026/08/10/ethio-telecom-and-zte-advance-network-modernisation-as-4g-coverage-hits-92/), a figure scoped to that vendor's own footprint and not reconciled against the 95.5% national coverage claimed for the wider contract set. The second licensee now puts itself at [15 million ninety-day active customers and more than 3,600 sites in five years of operation](https://techafricanews.com/2026/09/09/safaricom-ethiopia-government-network-expansion-digital-transformation/), and told the innovation and technology minister that timely customs clearance of telecommunications equipment and fibre cable constrains further rollout. The incumbent's Year II business plan sets [2026/27 targets of 96.2 million customers, 4G sites from 6,924 to 11,014, 5G towns from 33 to 73 and international gateway capacity from 4.3 Tbps to 5.2 Tbps](https://www.ethiotelecom.et/ethio-telecom-next-horizon-digital-beyond-strategy-2028-year-ii-2019-efy-2026-27-annual-business-plan/); they are targets published by the operator, and no outturn against them is held.
 <!-- /narrative -->
 ### Energy
 
