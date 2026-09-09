@@ -30,7 +30,7 @@ The aim of Corpus is to provide a fast-track information service for researchers
 The data collection machine runs a nightly sweep cycle which consists of a standard daily search and fetch and (currently) one of 3 focused searches that repeat every 3 days. Most of the searches are defined by lookup lists that can be altered without
 
 - **Daily**
-  Searches for items published in the past 48 hours for:
+  Searches for items published in at least the past 24 hours, and back to the end of the previous run where that is longer, for:
 	- A fixed list of [trade journals](lookups/#daily-journals).
 	- A general search for systems & infrastructure
 	- A general search for policy, governance & citizen feedback

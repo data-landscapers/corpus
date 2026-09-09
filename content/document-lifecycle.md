@@ -6,7 +6,7 @@ The next day it was a linked claim in three Corpus documents: a line in Somalia'
 
 ## Systematic discovery
 
-Nothing arrives in Corpus without a search. The looking is done by a **sweep cycle** working one day of a rotation at a time. Some sweeps run every time: a fixed list of trade journals, and a search of the open web for the last 36 hours. The rest take turns — newspapers, academic journals and think tanks on one day; financiers and donors' own structured reporting on another; deep per-country and regional research on a third. (Budgets, expenditure and audits will be a fourth.)
+Nothing arrives in Corpus without a search. The looking is done by a **sweep cycle** working one day of a rotation at a time. Some sweeps run every time: a fixed list of trade journals, and a search of the open web. Both run over the same window: at least the past 24 hours, and back to the end of the previous run where that is longer. The rest take turns — newspapers, academic journals and think tanks on one day; financiers and donors' own structured reporting on another; deep per-country and regional research on a third. (Budgets, expenditure and audits will be a fourth.)
 
 The list sweeps work a **window**: what this domain published since the last run, with a day of overlap so a story indexed late is caught next time. The content sweeps ask what has appeared since they last ran, however long ago. Two kinds of empty result are expected and neither is chased: search indexes lag a day or two, and most publishers do not publish at weekends.
 
