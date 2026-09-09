@@ -1,10 +1,10 @@
 ---
 title: Data Storage — monthly update, August – September 2026
 compiled: 2026-09-09
-period: 2026-08-01 to 2026-09-08
+period: 2026-08-01 to 2026-09-09
 subject: infra.store
 places: DZA; AGO; BWA; BFA; CMR; CPV; CAF; COG; CIV; EGY; GNQ; GMB; KEN; LSO; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SLE; SOM; ZAF; SSD; TZA; TUN; ZWE
-record: 2e47de7ab995
+record: 85f9f783c537
 ---
 
 # Data Storage: monthly update, August – September 2026
@@ -51,7 +51,7 @@ The national data centre remains a thing asserted rather than reported. On 10 Au
 
 ## Cote d'Ivoire
 
-The financing behind the sovereign data centre is now on the record, and it is a fraction of the project. The United States export credit agency [approved a guarantee of US$66,138,119 on 21 August 2025, with the finance and budget ministry as borrower and the digital transition ministry as end user](https://www.exim.gov/news/minutes/board-meeting-minutes-2025-08-21), against the US$170m the government authorised in July 2026. It is known from the agency's own board minutes rather than from a signed facility, and nothing published explains how the rest of the authorised cost is to be met.
+The financing behind the sovereign data centre is now on the record, and it is a fraction of the project. The United States export credit agency [approved a guarantee of US$66,138,119 on 21 August 2025, with the finance and budget ministry as borrower and the digital transition ministry as end user](https://www.exim.gov/news/minutes/board-meeting-minutes-2025-08-21), against the US$170m the government authorised in July 2026. It is known from the agency's own board minutes rather than from a signed facility, and nothing published explains how the rest of the authorised cost is to be met. Opening of the state data centre is [targeted for 2027 at an estimated US$66 million, specified at 1.73MW of IT capacity within 3MW of total power, 228 racks and 10 petabytes of storage](https://www.datacenterdynamics.com/en/news/ivory-coast-targets-launch-of-first-state-owned-data-center-in-2027/).
 
 ## Egypt
 

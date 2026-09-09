@@ -1,10 +1,10 @@
 ---
 title: Standards — monthly update, August – September 2026
 compiled: 2026-09-09
-period: 2026-08-01 to 2026-09-08
+period: 2026-08-01 to 2026-09-09
 subject: gov.standards
 places: AGO; BEN; CPV; CAF; TCD; COM; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GIN; KEN; LBY; MWI; MLI; MRT; MUS; MOZ; NER; NGA; RWA; STP; SEN; SYC; SOM; ZAF; SDN; TZA; TGO; UGA; ZMB
-record: dc6fa8df988f
+record: 2a8f5da69205
 ---
 
 # Standards: monthly update, August – September 2026
@@ -166,4 +166,4 @@ The sector agreed to count itself consistently. The technology ministry [will st
 
 The standards bureau states its own position rather than reporting a change. Its service page [puts more than 50 international standards adopted as Zambian Standards, within a catalogue of more than 6,500 national standards across sectors including information and communication technology](https://www.zabs.org.zm/standards-development). The page carries no date, so the figures are dated to retrieval, and no breakdown by sector or year of adoption is published — an adoption count with no series behind it.
 
-The trust layer under the interoperability standards was stood up. The communications regulator [operationalised the National Digital Trust Anchor in its capacity as national root certification authority, the framework issuing and verifying digital certificates and signatures establishing the identity of people and organisations, on the legal base of the electronic communications and transactions statute](https://zambia24.com/2026/09/07/zambia-bets-on-digital-trust/). No certificate count, subordinate-authority list, accreditation route or fee schedule is published, and the launch reaches the base through a news report rather than the regulator's own notice — which for a root certification authority is the one thing a relying party would want to be able to check.
+The trust layer under the interoperability standards was stood up. The communications regulator [operationalised the National Digital Trust Anchor in its capacity as national root certification authority, the framework issuing and verifying digital certificates and signatures establishing the identity of people and organisations, on the legal base of the electronic communications and transactions statute](https://zambia24.com/2026/09/07/zambia-bets-on-digital-trust/). No certificate count, subordinate-authority list, accreditation route or fee schedule is published, and the launch reaches the base through a news report rather than the regulator's own notice — which for a root certification authority is the one thing a relying party would want to be able to check. The [national public key infrastructure was launched with a named security vendor](https://www.itweb.africa/article/zambia-launches-national-digital-trust-infrastructure/VgZeyqJlpzp7djX9), its master cryptographic keys generated under independently audited conditions, held offline and split among multiple custodians so that no single entity has unilateral control.

@@ -1,10 +1,10 @@
 ---
 title: Training and skills — monthly update, August – September 2026
 compiled: 2026-09-09
-period: 2026-08-01 to 2026-09-08
+period: 2026-08-01 to 2026-09-09
 subject: capacity.training
 places: AGO; BEN; BDI; CMR; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: ce31a4c24383
+record: 824a4deaf5c0
 ---
 
 # Training and skills: monthly update, August – September 2026
@@ -103,7 +103,7 @@ MICSTI reported [digital-literacy training running across all ten districts](htt
 
 UNDP also [announced a partnership with the University of Liberia to establish the country's first master's degree in artificial intelligence](https://www.undp.org/liberia/blog/liberias-digital-future-will-be-defined-investments-we-make-people-today), with no commitment amount disclosed.
 
-A second route into the national university was signed rather than built: a [tripartite memorandum of 27 August under which a foreign online university covers 97% of online tuition for more than 200 students, with three smart classrooms due in 2027](https://www.liberianobserver.com/news/ul-signs-tripartite-partnership/article_5cddfcff-d093-4f21-a8b5-4ad801df628a.html). No commitment amount is stated, so what the base holds is a tuition-waiver share, a student count and a classroom count with no money behind any of them.
+A second route into the national university was signed rather than built: a [tripartite memorandum of 27 August under which a foreign online university covers 97% of online tuition for more than 200 students, with three smart classrooms due in 2027](https://www.liberianobserver.com/news/ul-signs-tripartite-partnership/article_5cddfcff-d093-4f21-a8b5-4ad801df628a.html). No commitment amount is stated, so what the base holds is a tuition-waiver share, a student count and a classroom count with no money behind any of them. [National stakeholder consultations on establishing the university's master's programme in artificial intelligence are running with UNDP support](https://www.undp.org/liberia/press-releases/building-liberias-ai-future-undp-ul-consult-stakeholders), bringing together government institutions, development partners, academia, private-sector actors and civil society.
 
 ## Libya
 

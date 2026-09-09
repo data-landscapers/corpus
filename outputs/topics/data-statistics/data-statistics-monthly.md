@@ -1,17 +1,21 @@
 ---
 title: National statistics — monthly update, August – September 2026
 compiled: 2026-09-09
-period: 2026-08-01 to 2026-09-08
+period: 2026-08-01 to 2026-09-09
 subject: data.statistics
-places: BWA; BDI; CMR; CAF; TCD; COM; COG; COD; GNQ; GAB; GHA; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; TGO; UGA; ZWE
-record: 005c317c709d
+places: BEN; BWA; BDI; CMR; CAF; TCD; COM; COG; COD; GNQ; GAB; GHA; KEN; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; TGO; UGA; ZWE
+record: 662e9b1288b3
 ---
 
 # National statistics: monthly update, August – September 2026
 
-*29 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*31 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
+
+## Benin
+
+A national agricultural census is under preparation with [Food and Agriculture Organization technical assistance for its preparation and execution](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-41301-762022). The record is an activity listing rather than a census document, and it carries no fieldwork date, budget or reference period.
 
 ## Botswana
 
@@ -70,6 +74,10 @@ On 21 July an interministerial committee fixed the terms of a second census of e
 ## Ghana
 
 The statistical service [published the third wave of its six-monthly governance panel on 6 August](https://www.graphic.com.gh/news/politics/ghana-news-governance-reforms-yielding-results-but-remain-fragile-government-statistician.html), run across all sixteen regions, with the Government Statistician putting its findings to digital remedies — digitising public services and publishing official fees among them. The report text is not held. Separately the finance minister [asked the service to develop a methodology for quarterly employment statistics](https://www.myjoyonline.com/finance-minister-urges-gss-to-publish-quarterly-employment-rate-data/); none is published and no timetable is set.
+
+## Kenya
+
+The communications regulator and the University of Nairobi began reviewing preliminary findings from a joint national survey on child online protection and safety on 9 September 2026, with the report structure and thematic areas agreed ahead of validation and the findings intended as the evidence base for regulatory interventions. Neither the sample size nor the fieldwork period is held.
 
 ## Lesotho
 

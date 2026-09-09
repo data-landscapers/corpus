@@ -1,10 +1,10 @@
 ---
 title: Connectivity — monthly update, August – September 2026
 compiled: 2026-09-09
-period: 2026-08-01 to 2026-09-08
+period: 2026-08-01 to 2026-09-09
 subject: infra.connect
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 38bbfc918c62
+record: 04c0df58c017
 ---
 
 # Connectivity: monthly update, August – September 2026
@@ -111,7 +111,7 @@ The one dated position here is a standing statutory right rather than a change. 
 
 ## Ethiopia
 
-The incumbent closed its financial year with [data and internet at 31.1% of revenue against mobile voice at 23.5%](https://www.fanamc.com/english/215-8-billion-birr-revenue-and-9-13-trillion-birr-in-digital-transactions-ethio-telecoms-new-economic-footprint/) — the first year in which voice was not the largest share — on 215.8bn Birr of revenue and 92.9bn Birr of operating profit, the operator's own unaudited figures. Build-out continued underneath it: a progress review on 10 August put [879 sites completed under one vendor programme and 4G population coverage at 92%](https://techafricanews.com/2026/08/10/ethio-telecom-and-zte-advance-network-modernisation-as-4g-coverage-hits-92/), a figure scoped to that vendor's own footprint and not reconciled against the 95.5% national coverage claimed for the wider contract set. The second licensee reported [14.7 million ninety-day active customers at 30 June](https://www.businessdailyafrica.com/bd/corporate/companies/safaricom-invests-extra-sh1-4bn-in-ethiopia-unit-5541682), against a target of positive earnings by March 2027.
+The incumbent closed its financial year with [data and internet at 31.1% of revenue against mobile voice at 23.5%](https://www.fanamc.com/english/215-8-billion-birr-revenue-and-9-13-trillion-birr-in-digital-transactions-ethio-telecoms-new-economic-footprint/) — the first year in which voice was not the largest share — on 215.8bn Birr of revenue and 92.9bn Birr of operating profit, the operator's own unaudited figures. Build-out continued underneath it: a progress review on 10 August put [879 sites completed under one vendor programme and 4G population coverage at 92%](https://techafricanews.com/2026/08/10/ethio-telecom-and-zte-advance-network-modernisation-as-4g-coverage-hits-92/), a figure scoped to that vendor's own footprint and not reconciled against the 95.5% national coverage claimed for the wider contract set. The second licensee now puts itself at [15 million ninety-day active customers and more than 3,600 sites in five years of operation](https://techafricanews.com/2026/09/09/safaricom-ethiopia-government-network-expansion-digital-transformation/), and told the innovation and technology minister that timely customs clearance of telecommunications equipment and fibre cable constrains further rollout. The incumbent's Year II business plan sets [2026/27 targets of 96.2 million customers, 4G sites from 6,924 to 11,014, 5G towns from 33 to 73 and international gateway capacity from 4.3 Tbps to 5.2 Tbps](https://www.ethiotelecom.et/ethio-telecom-next-horizon-digital-beyond-strategy-2028-year-ii-2019-efy-2026-27-annual-business-plan/); they are targets published by the operator, and no outturn against them is held.
 
 ## Gabon
 
@@ -256,7 +256,7 @@ Lagos put a figure on its own build. The state says it has [laid about 3,000km o
 The legacy-network retirement plan the ministry announced on 28 July fixes third-generation service off nationwide on [30 June 2027](https://www.minict.gov.rw/news-detail/rwanda-to-switch-off-3g-networks-on-30-june-2027), with operator pilot shutdowns during 2026 and critical-system migration completed in the first half of 2027. December 2028 is the working date for the second-generation network, conditional on coverage, voice reliability including emergency calls, continuity of mobile money, migration of dependent systems and affordable handsets. The technical precondition followed days later: the dominant operator launched voice over fourth-generation networks, reported on 3 August, with no coverage, handset-base or subscriber figure and no reference to the sunset. [A subsea operator announced a 25,000 km system across fifteen countries on 9 July with no timeline disclosed](https://www.minict.gov.rw/news-detail/rwanda-to-switch-off-3g-networks-on-30-june-2027); a landlocked country's exposure to it is backhaul rather than a landing. As at 30 July the World Bank's successor nine-year country partnership framework is prepared but not launched, with no committed envelope on the record.
 
 
-The cross-border route got its operator's own description as the peering forum met in Kigali: [a 2,000km protected corridor from Goma to Mombasa connecting Kigali, Kampala and Nairobi, inside a network the operator puts across sixteen African countries](https://paratus.africa/blog/paratus-rwanda-rings-in-afpif-2026/). Both figures are the operator's own.
+The cross-border route got its operator's own description as the peering forum met in Kigali: [a 2,000km protected corridor from Goma to Mombasa connecting Kigali, Kampala and Nairobi, inside a network the operator puts across sixteen African countries](https://paratus.africa/blog/paratus-rwanda-rings-in-afpif-2026/). Both figures are the operator's own. The [2,000-kilometre Goma-to-Mombasa terrestrial route through Kigali, Kampala and Nairobi was announced live and carrying traffic on 9 September](https://techtrendske.co.ke/2026/09/09/paratus-expands-east-africa-connectivity-itw-africa/), with access to subsea capacity at Mombasa.
 
 ## Senegal
 
@@ -306,7 +306,7 @@ The second operator [launched fibre-to-the-home in Dodoma](https://www.ecofinage
 
 The month's other route is a border crossing that has not begun. The foreign minister said the two countries would [fast-track a national fibre-optic cable from Kigoma to Kalemie in the Democratic Republic of Congo through Lake Tanganyika, alongside a standard gauge railway link through Burundi and a joint economic commission](https://dailynews.co.tz/tanzania-drc-agree-to-fast-track-sgr-link-and-fibre-optic-cable-across-lake-tanganyika/). No route survey, cost, financing, landing point or delivery date is published.
 
-The regulator scored quality for the quarter to June 2026: [the state operator highest at 98.1%, ahead of the largest operator at 97.7% and the third at 97.1%](https://techafricanews.com/2026/09/07/ttcl-tops-tanzania-telecom-quality-rankings-2026/) — the state operator leading on quality while holding a small share of the market. The measurement’s components and the underlying market shares are not stated.
+The regulator scored quality for the quarter to June 2026: [the state operator highest at 98.1%, ahead of the largest operator at 97.7% and the third at 97.1%](https://techafricanews.com/2026/09/07/ttcl-tops-tanzania-telecom-quality-rankings-2026/) — the state operator leading on quality while holding a small share of the market. The measurement’s components and the underlying market shares are not stated. The state operator [agreed with the Burundian backbone operator to raise cross-border capacity from 4Gbps to 10Gbps](https://techafricanews.com/2026/09/09/ttcl-bbs-increase-tanzania-burundi-connectivity-capacity-10gbps/), reported 9 September.
 
 ## Togo
 

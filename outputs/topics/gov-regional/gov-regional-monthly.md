@@ -1,10 +1,10 @@
 ---
 title: Regional collaboration — monthly update, August – September 2026
 compiled: 2026-09-09
-period: 2026-08-01 to 2026-09-08
+period: 2026-08-01 to 2026-09-09
 subject: gov.regional
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COG; CIV; COD; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; TZA; TGO; TUN; ZWE
-record: ec8363653110
+record: ae7caa397ba8
 ---
 
 # Regional collaboration: monthly update, August – September 2026
@@ -150,7 +150,7 @@ The second meeting of the Africa Public Key Infrastructure Forum, held in Abuja,
 Country consultations for a [regional artificial-intelligence framework were held at Kigali on 3 August](https://rwandainspirer.com/rwanda-highlights-ai-policy-progress-as-comesa-seeks-regional-framework/), to feed a study toward a regional strategy, model policy guidelines and model regulatory frameworks; no text or timetable is published, and Rwanda reported unquantified progress on its own national policy. The [bilateral licence passporting memorandum with Ghana remains unpublished by either central bank](https://techafricanews.com/2026/07/30/the-compliance-cost-can-africa-build-a-regulatory-home-for-its-fintechs/) eighteen months after signature, cited as a working precedent with no firm reported as having used it.
 
 
-One piece of regional machinery moved from design into use. A continental alliance and a German development agency say [a digital identity issued in Rwanda, Ghana or Benin is now being recognised in the other two, with eighteen further countries said to be joining](https://www.giz.de/en/newsroom/storys/interview-herken-kone-smart-africa-digital-sovereignty). No scale, service, date or governing instrument is stated for any of it.
+One piece of regional machinery moved from design into use. A continental alliance and a German development agency say [a digital identity issued in Rwanda, Ghana or Benin is now being recognised in the other two, with eighteen further countries said to be joining](https://www.giz.de/en/newsroom/storys/interview-herken-kone-smart-africa-digital-sovereignty). No scale, service, date or governing instrument is stated for any of it. The delegation also completed a [two-week learning mission to India on digital public infrastructure, concluded 7 September](https://www.undp.org/africa/press-releases/undps-aa4dpi-programme-deepens-south-south-cooperation-digital-public-infrastructure), alongside four other countries and African Union representatives.
 
 ## Senegal
 

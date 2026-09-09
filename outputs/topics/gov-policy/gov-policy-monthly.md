@@ -1,10 +1,10 @@
 ---
 title: Strategies, plans and policies — monthly update, August – September 2026
 compiled: 2026-09-09
-period: 2026-08-01 to 2026-09-08
+period: 2026-08-01 to 2026-09-09
 subject: gov.policy
 places: BFA; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; GMB; GHA; GIN; GNB; KEN; LSO; LBY; MWI; MLI; MRT; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 8e7153f02ed7
+record: 8cac43d30860
 ---
 
 # Strategies, plans and policies: monthly update, August – September 2026
@@ -158,7 +158,7 @@ The agency meant to hold that ground acquired its first stated function since ca
 
 The body meant to steer digital governance has not started. The digital governance steering committee, [created in March 2026, was still stated five months later to be operational in the near future](https://www.biometricupdate.com/202608/senegal-seeks-to-fully-align-sovereignty-vision-with-dpi-strategy). A coordinating body that has not convened is what sits behind the strategies this section otherwise records as adopted but unreadable.
 
-The roadmap acquired a shape and a hole in the same statement. Presented at an international forum on 4 September, the New Deal Technologique is [54 projects across 12 programmes at US$2bn over ten years, of which US$700m is unallocated](https://dig.watch/event/wsis-forum-2026/new-technological-deal-or-or-how-a-global-south-digital-strategy-for-impactful-ict-transformation). The figures are the government's own and no project list, allocation schedule or financing plan for the unallocated third accompanies them, so what is established is the size of the programme and the size of the gap in it.
+The roadmap acquired a shape and a hole in the same statement. Presented at an international forum on 4 September, the New Deal Technologique is [54 projects across 12 programmes at US$2bn over ten years, of which US$700m is unallocated](https://dig.watch/event/wsis-forum-2026/new-technological-deal-or-or-how-a-global-south-digital-strategy-for-impactful-ict-transformation). The figures are the government's own and no project list, allocation schedule or financing plan for the unallocated third accompanies them, so what is established is the size of the programme and the size of the gap in it. The prime minister's [general policy statement of 8 September refocused the programme on a sovereign cloud for the state's sensitive data and an accelerated sectoral AI strategy](https://www.wearetech.africa/fr/fils/actualites/tech/senegal-priorites-numeriques-recentrees-sur-le-cloud-souverain-et-l-ia), narrowing selection to initiatives that are feasible, financed and able to produce measurable results.
 
 ## Seychelles
 

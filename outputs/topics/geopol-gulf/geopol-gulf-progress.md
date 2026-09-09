@@ -1,10 +1,10 @@
 ---
 title: Gulf/UAE activities — progress report, September 2025 – September 2026
 compiled: 2026-09-09
-period: 2025-09-01 to 2026-09-08
+period: 2025-09-01 to 2026-09-09
 subject: geopol.gulf
 places: AGO; BEN; BWA; BFA; BDI; CAF; TCD; COM; COG; CIV; DJI; COD; GNQ; SWZ; ETH; GAB; GMB; GNB; KEN; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 3dcfe4ee02bc
+record: f2f601ee5038
 ---
 
 # Gulf/UAE activities: progress report, September 2025 – September 2026
@@ -12,6 +12,8 @@ record: 3dcfe4ee02bc
 *46 countries. Each row below is carried verbatim from that country's own progress report, which answers a fixed frame of indicators over the period; nothing is written here. A country not listed under an indicator has ***No evidence*** on it in its own report.*
 
 **Progress values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the base holds a standing position and nothing in the period touched it. ***No evidence*** — the base holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Advanced, regulations still pending*.
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Gulf MoUs, engagements and commitments
 

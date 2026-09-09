@@ -1,10 +1,10 @@
 ---
 title: Domestic budget appropriations and expenditure — monthly update, August – September 2026
 compiled: 2026-09-09
-period: 2026-08-01 to 2026-09-08
+period: 2026-08-01 to 2026-09-09
 subject: finance.budget
 places: AGO; COD; EGY; GMB; NER; SEN; SDN; TUN
-record: e12c169209d6
+record: f2b3d4f49285
 ---
 
 # Domestic budget appropriations and expenditure: monthly update, August – September 2026
@@ -15,7 +15,7 @@ record: e12c169209d6
 
 ## Angola
 
-August ended with three presidential authorisations in a single week. The president [authorised US$210.91 million for an integrated ecosystem of state digital services](https://angop.ao/noticias/economia/governo-investe-usd-210-milhoes-na-digitalizacao-da-administracao-publica/), [US$13 million for the public administration interoperability platform](https://pti.ao/pr-autoriza-13-milhoes-de-dolares-para-plataforma-de-interoperabilidade-da-administracao-publica/) and [US$4.6 million to strengthen state cybersecurity](https://diariodosnegocios.com/governo-investe-46-milhoes-de-dolares-para-reforcar-ciberseguranca-do-estado/). These are authorisations to spend rather than money spent, and they land against a cyber-security appropriation the ledger recorded falling earlier in the year. Nothing in the record held sets out what the integrated ecosystem consists of, who will build it, or by when.
+August ended with three presidential authorisations in a single week. The president [authorised US$210.91 million for an integrated ecosystem of state digital services](https://angop.ao/noticias/economia/governo-investe-usd-210-milhoes-na-digitalizacao-da-administracao-publica/), [US$13 million for the public administration interoperability platform](https://pti.ao/pr-autoriza-13-milhoes-de-dolares-para-plataforma-de-interoperabilidade-da-administracao-publica/) and [US$4.6 million to strengthen state cybersecurity](https://diariodosnegocios.com/governo-investe-46-milhoes-de-dolares-para-reforcar-ciberseguranca-do-estado/). These are authorisations to spend rather than money spent, and they land against a cyber-security appropriation the ledger recorded falling earlier in the year. Nothing in the record held sets out what that integrated set of services consists of, who will build it, or by when.
 
 ## DR Congo
 

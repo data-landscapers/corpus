@@ -1,15 +1,17 @@
 ---
 title: India activities — monthly update, August – September 2026
 compiled: 2026-09-09
-period: 2026-08-01 to 2026-09-08
+period: 2026-08-01 to 2026-09-09
 subject: geopol.india
 places: EGY; ETH; MWI; MAR; NAM; RWA; SLE; ZMB
-record: 1a879d51d85b
+record: 1086ace3bd85
 ---
 
 # India activities: monthly update, August – September 2026
 
 *8 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Egypt
 
