@@ -25,8 +25,11 @@ fact from an empty field.** `wiki/schemas.md` §4 admits a record with no URL wh
 absence is final — and the record itself, usually with an `artefact:` beside it,
 *is* the source. Corpus read only the empty field and reported nine such records as
 uncitable (`notes-for-corpus` 22); carrying the note is what lets the citation path
-tell a documented absence from a missing value, and it puts the reasoning in the
-table a reader can download rather than only in OSINT's tree.
+tell a documented absence from a missing value, which is why `status_lib` sends such
+a citation to the catalogue entry rather than dropping the link. It is carried in
+`catalogue-internal.csv` and not in the download: the note is written for our own
+checks, and a reader meeting it in a column of facts about the document would read
+it as one.
 
 Usage:
   python scripts/build-catalogue.py                 write outputs/catalogue/
@@ -85,23 +88,27 @@ def entity_names():
 # by syntax tree, so the three cannot disagree). It carries what identifies and places a
 # document: who published it, when, where it is about, and where to go and read it.
 #
-# Six columns came out of it. `slug`, `lens`, `body_completeness`, `finance`, `artefact`
-# and `words` are Corpus's and OSINT's handling notes about a record rather than facts
-# about the document — a key into another repository's tree, a classification the site no
-# longer shows, a completeness grade for our own copy, a filing flag, the names of files
-# only we hold, and a word count of a body the catalogue deliberately does not publish.
+# Seven columns came out of it. `slug`, `lens`, `body_completeness`, `finance`,
+# `artefact`, `words` and `url_note` are Corpus's and OSINT's handling notes about a
+# record rather than facts about the document — a key into another repository's tree, a
+# classification the site no longer shows, a completeness grade for our own copy, a
+# filing flag, the names of files only we hold, a word count of a body the catalogue
+# deliberately does not publish, and a note written for our own checks about why a
+# record has no URL. `url_note` went on 2026-09-09 with the other six *(Bill)*: it reads
+# as a lint's working note in a column a reader would expect to be about the document.
 #
-# `INTERNAL_COLS` is the same rows with `slug` restored, written beside it as
-# `catalogue-internal.csv` and **never published**: the report layer resolves every
-# citation through `slug -> url` and the bulletin keys its summary store on the slug, so
-# the key has to survive somewhere a script can read it. The other five survive in
+# `INTERNAL_COLS` is the same rows with `slug` and `url_note` restored, written beside it
+# as `catalogue-internal.csv` and **never published**: the report layer resolves every
+# citation through `slug -> url`, the bulletin keys its summary store on the slug, and
+# `status_lib` sends a citation of a record with no URL to the catalogue entry instead,
+# which is the one thing `url_note` is read for. The other five survive in
 # `raw-catalogue.json`, which is the full record and is likewise internal. The rule is
 # one line: **anything that needs the key reads the internal table; the download is the
 # public one.**
 CSV_COLS = ["title", "publisher", "author", "published", "date_precision",
-            "places", "topics", "entities", "ingested", "url", "url_note"]
+            "places", "topics", "entities", "ingested", "url"]
 
-INTERNAL_COLS = ["slug"] + CSV_COLS
+INTERNAL_COLS = ["slug"] + CSV_COLS + ["url_note"]
 
 
 def items(rows):

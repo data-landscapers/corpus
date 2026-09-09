@@ -497,12 +497,12 @@ def pack_rows(cdir: Path):
     `extra` is the columns `raw-catalogue.csv` carries that no row on the page ever
     shows, held apart because they ride the chunks and nothing else reads them.
 
-    **It was seven columns until 2026-09-09 and is now four.** `lens`, `finance`,
-    `words` and `artefact` came out of the download that day (`build-catalogue.py` ->
-    `CSV_COLS`), and the page draws none of them: the filter index carries the
-    artefact *flag* and the completeness for the row's own tags, and the four here had
-    no reader left but the export. A field nothing reads is a field that rides to
-    every reader who opens a chunk, so they go rather than sit.
+    **It was seven columns until 2026-09-09 and is now three.** `lens`, `finance`,
+    `words`, `artefact` and `url_note` came out of the download that day
+    (`build-catalogue.py` -> `CSV_COLS`), and the page draws none of them: the filter
+    index carries the artefact *flag* and the completeness for the row's own tags, and
+    the five had no reader left but the export. A field nothing reads is a field that
+    rides to every reader who opens a chunk, so they go rather than sit.
 
     Entities are **dictionary-encoded**: field 10 holds integer offsets into a
     vocabulary array shipped once, not the slugs themselves. 24,891 tags drawn
@@ -548,7 +548,6 @@ def pack_rows(cdir: Path):
         i.get("author") or "",
         i.get("date_precision") or "",
         i.get("ingested") or "",
-        i.get("url_note") or "",
     ] for i in items]
     order = sorted(range(len(rows)), key=lambda n: rows[n][2], reverse=True)
     head = d if isinstance(d, dict) else {}
@@ -578,8 +577,8 @@ def pack_rows(cdir: Path):
 # paragraph exists because the last private format here, `raw-catalogue.json`, acquired
 # a second consumer while nobody was saying it must not, and then had to be kept for it.
 CHUNK = 500                    # rows per chunk file; `CH` in the page
-CHUNK_FIELDS = ("title", "url", "slug", "hero",                  # what a row draws
-                "author", "date_precision", "ingested", "url_note")   # what the download needs
+CHUNK_FIELDS = ("title", "url", "slug", "hero",       # what a row draws
+                "author", "date_precision", "ingested")   # what the download needs
 
 # **The chunks carry every column of `raw-catalogue.csv` that the filter index does
 # not** (Part 4). That is the whole of what `raw-catalogue.json` was still being
@@ -708,11 +707,17 @@ BODY = r"""
          whole copy of the catalogue cost 17 MB of `site/` and as much again in every
          commit, to serve a file the page can assemble on the one click that asks
          for it (split plan, Part 4). -->
+    <!-- The CSV's size is printed beside it and `data-dlfile` puts a waiting note in
+         `#dlmsg` on the click: the browser fetches all seven megabytes before it
+         offers a save dialog, and for those seconds a plain link looks like a dead
+         button (Bill, 2026-09-09, having clicked it three times). The link stays a
+         link, so it still works with JavaScript off — the note is the only thing the
+         script adds. -->
     <div class="dlbox">
       <table>
         <tr><th colspan="3">Downloads</th></tr>
-        <tr><td>Whole catalogue</td>
-            <td><a class="btn" href="raw-catalogue.csv" download>&darr; CSV</a></td>
+        <tr><td>Whole catalogue <span class="dlsize">{csvsize}</span></td>
+            <td><a class="btn" href="raw-catalogue.csv" download data-dlfile="1">&darr; CSV</a></td>
             <td><button class="btn" data-dl="json" data-all="1" disabled>&darr; JSON</button></td></tr>
         <tr><td>This selection</td>
             <td><button class="btn" data-dl="csv" disabled>&darr; CSV</button></td>
@@ -1011,13 +1016,13 @@ SCRIPT = r"""
   // filename that meant nothing to a reader, was never in the CSV, and is not worth a
   // megabyte across the chunks to keep. Everything `csv_cols()` names is.
   //
-  // **Six more left on 2026-09-09** *(Bill)*: `slug`, `lens`, `body_completeness`,
-  // `finance`, `artefact` and `words`. They are Corpus's and OSINT's handling notes
-  // about a record rather than facts about the document, and the argument is written
-  // out at `build-catalogue.py` -> `CSV_COLS`. The JSON a reader downloads is this
-  // object, so dropping them here drops them from both downloads at once; the CSV
-  // takes its columns from `csv_cols()` and would ignore a stray field anyway, which
-  // is exactly the silent divergence this function is tested against.
+  // **Seven more left on 2026-09-09** *(Bill)*: `slug`, `lens`, `body_completeness`,
+  // `finance`, `artefact`, `words` and `url_note`. They are Corpus's and OSINT's
+  // handling notes about a record rather than facts about the document, and the
+  // argument is written out at `build-catalogue.py` -> `CSV_COLS`. The JSON a reader
+  // downloads is this object, so dropping them here drops them from both downloads at
+  // once; the CSV takes its columns from `csv_cols()` and would ignore a stray field
+  // anyway, which is exactly the silent divergence this function is tested against.
   function itemOf(i, t){
     return {
       title: t[0], publisher: PUBS[cPub[i]], author: t[4],
@@ -1025,7 +1030,7 @@ SCRIPT = r"""
       places: cPl[i].map(function(k){ return PLK[k]; }),
       topics: cTp[i].map(function(k){ return TPK[k]; }),
       entities: cEn[i].map(function(k){ return ENTS[k]; }),
-      ingested: t[6], url: t[1], url_note: t[7], catalogue_hero: t[3]
+      ingested: t[6], url: t[1], catalogue_hero: t[3]
     };
   }
 
@@ -1043,7 +1048,7 @@ SCRIPT = r"""
   // publishing it. `itemOf` above rebuilds the record the cut is made from, and
   // `test_catalogue_export.py` runs it over every record against `raw-catalogue.csv`,
   // because a reconstruction is exactly the kind of thing that drifts in silence.
-  var CSVCOLS = [], VIEW = [], dlMsg = '';
+  var CSVCOLS = [], VIEW = [], dlMsg = '', fileClick = 0;
   // Row text, one chunk of 500 at a time, kept for the session. A chunk that fails
   // to arrive is **not** remembered as absent: the next thing the reader does asks
   // for it again, which is right for the data the page cannot draw without.
@@ -1152,6 +1157,16 @@ SCRIPT = r"""
               'CSV at the top of the page.';
       drawDownload();
     });
+  }
+
+  // `#dlmsg` on its own, without redrawing the buttons. `drawDownload` cannot be
+  // called before the filter index has arrived — it prints the record count on the
+  // whole-catalogue button — and the file link works from the first paint, so the
+  // note it puts up has to be writable earlier than that.
+  function say(text){
+    dlMsg = text;
+    var m = document.getElementById('dlmsg');
+    if (m) m.textContent = text;
   }
 
   function drawDownload(){
@@ -1510,6 +1525,34 @@ SCRIPT = r"""
     }
     if (t.id === 'more'){ state.shown += 100; drawResults(); }
     if (t.dataset && t.dataset.dl && !t.disabled){ exportSelection(t.dataset.dl, !!t.dataset.all); }
+    // **A plain download link gives no feedback at all, and this one takes about five
+    // seconds.** The browser fetches the whole file before it opens a save dialog, so
+    // nothing on the page moves and the button looks broken; Bill pressed it three
+    // times on 2026-09-09 and got three downloads. Every other download in this box
+    // speaks through `#dlmsg` and now so does this one.
+    //
+    // A second press inside the window is swallowed rather than obeyed, because the
+    // first one is still working and a second file helps nobody. The window is short
+    // — six seconds — so a click that genuinely did nothing is retriable straight
+    // after, which is why this is a swallow and not a disable.
+    //
+    // **Four words, and the size sits beside the link rather than in the sentence**
+    // *(Bill, 2026-09-09)*: the reader needs to know the click landed, not why it is
+    // slow.
+    if (t.dataset && t.dataset.dlfile){
+      var now = Date.now();
+      if (now - fileClick < 6000){
+        e.preventDefault();
+        say('Still downloading, please wait.');
+        return;
+      }
+      fileClick = now;
+      var note = 'Downloading, please wait.';
+      say(note);
+      // Nothing tells a page when a save dialog opened, so the note goes on a timer,
+      // and only if nothing has written over it in the meantime.
+      setTimeout(function(){ if (dlMsg === note) say(''); }, 20000);
+    }
   });
   // The facet type-aheads are redrawn with the sidebar, so the listener is on the
   // document rather than on each input. It repaints one facet's options from
@@ -1668,12 +1711,18 @@ def main() -> int:
     # draw when 3 MB of payload has arrived (documentation/archived/catalogue-split-plan.md,
     # Part 1). The page redraws over the top on load.
     baked = first_screen(rows, ents, places, regions, topics, cats, torder, entlabel)
+    # The CSV's own size, printed beside the link and repeated in the waiting note.
+    # Measured off the file just copied, so it cannot drift from what a reader gets;
+    # it is the size on disk, which is what the save dialog will show, rather than the
+    # ~2 MB that crosses the wire gzipped.
+    csv_mb = (out_dir / "raw-catalogue.csv").stat().st_size / 1e6
     slots = {"facets": baked["facets"], "count": baked["count"],
              "results": baked["results"], "note": baked["note"],
-             "shown": f"{min(SHOWN, baked['n']):,}", "n": f"{baked['n']:,}"}
+             "shown": f"{min(SHOWN, baked['n']):,}", "n": f"{baked['n']:,}",
+             "csvsize": f"{csv_mb:.1f} MB"}
     # One pass, so that a `{token}` inside a baked title is left alone rather than
     # read as a slot by a later replacement.
-    body = re.sub(r"\{(facets|count|results|note|shown|n)\}",
+    body = re.sub(r"\{(facets|count|results|note|shown|n|csvsize)\}",
                   lambda m: slots[m.group(1)], BODY)
 
     # the page. `{ver}` is substituted here rather than through `PAGE.format`, because

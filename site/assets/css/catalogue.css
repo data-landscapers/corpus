@@ -66,6 +66,11 @@ designer looks for the catalogue's CSS.
   text-decoration:none}
 .cat .dlbox .btn[disabled]{border-color:var(--rule);color:var(--ink-faint);cursor:default}
 .cat .dlbox .btn[disabled]:hover{background:none;color:var(--ink-faint);border-color:var(--rule)}
+/* The file size, printed beside the whole-catalogue link. A 7 MB download takes a
+   few seconds before the browser offers a save dialog, and a reader who was told the
+   size reads that pause as the file arriving rather than as a dead button. */
+.cat .dlbox .dlsize{color:var(--ink-faint);font-family:var(--mono);font-size:.7rem;
+  letter-spacing:.02em}
 /* The one warning colour on the page, taken from main.css's amber badge
    rather than invented here. */
 .cat .dlbox .dlmsg{color:#7a5000;font-size:.78rem;line-height:1.45;

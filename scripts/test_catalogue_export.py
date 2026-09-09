@@ -23,7 +23,7 @@ payload, and the reassembly of a record out of it. Nothing else in the build wou
 notice any of them.
 
 **The columns are the published set, which is not every column the catalogue holds.**
-Six came out of the download on 2026-09-09 (`build-catalogue.py` -> `CSV_COLS`), so what
+Seven came out of the download on 2026-09-09 (`build-catalogue.py` -> `CSV_COLS`), so what
 is compared here is the page's cut against `raw-catalogue.csv` as it now stands. The
 fuller table beside it, `catalogue-internal.csv`, is not published and is not what the
 page cuts from, so it is not in this comparison at all.

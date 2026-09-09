@@ -9,7 +9,7 @@
 <link rel="stylesheet" href="../assets/css/main.css?v=e83cdd85">
 <link rel="stylesheet" href="../assets/css/corpus.css?v=58a36a78">
 <link rel="stylesheet" href="../assets/css/home.css?v=1e09f478">
-<link rel="stylesheet" href="../assets/css/catalogue.css?v=02038c33">
+<link rel="stylesheet" href="../assets/css/catalogue.css?v=988e9b4b">
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-BF3X4N6YML"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -69,11 +69,17 @@
          whole copy of the catalogue cost 17 MB of `site/` and as much again in every
          commit, to serve a file the page can assemble on the one click that asks
          for it (split plan, Part 4). -->
+    <!-- The CSV's size is printed beside it and `data-dlfile` puts a waiting note in
+         `#dlmsg` on the click: the browser fetches all seven megabytes before it
+         offers a save dialog, and for those seconds a plain link looks like a dead
+         button (Bill, 2026-09-09, having clicked it three times). The link stays a
+         link, so it still works with JavaScript off — the note is the only thing the
+         script adds. -->
     <div class="dlbox">
       <table>
         <tr><th colspan="3">Downloads</th></tr>
-        <tr><td>Whole catalogue</td>
-            <td><a class="btn" href="raw-catalogue.csv" download>&darr; CSV</a></td>
+        <tr><td>Whole catalogue <span class="dlsize">7.0 MB</span></td>
+            <td><a class="btn" href="raw-catalogue.csv" download data-dlfile="1">&darr; CSV</a></td>
             <td><button class="btn" data-dl="json" data-all="1" disabled>&darr; JSON</button></td></tr>
         <tr><td>This selection</td>
             <td><button class="btn" data-dl="csv" disabled>&darr; CSV</button></td>
@@ -373,13 +379,13 @@
   // filename that meant nothing to a reader, was never in the CSV, and is not worth a
   // megabyte across the chunks to keep. Everything `csv_cols()` names is.
   //
-  // **Six more left on 2026-09-09** *(Bill)*: `slug`, `lens`, `body_completeness`,
-  // `finance`, `artefact` and `words`. They are Corpus's and OSINT's handling notes
-  // about a record rather than facts about the document, and the argument is written
-  // out at `build-catalogue.py` -> `CSV_COLS`. The JSON a reader downloads is this
-  // object, so dropping them here drops them from both downloads at once; the CSV
-  // takes its columns from `csv_cols()` and would ignore a stray field anyway, which
-  // is exactly the silent divergence this function is tested against.
+  // **Seven more left on 2026-09-09** *(Bill)*: `slug`, `lens`, `body_completeness`,
+  // `finance`, `artefact`, `words` and `url_note`. They are Corpus's and OSINT's
+  // handling notes about a record rather than facts about the document, and the
+  // argument is written out at `build-catalogue.py` -> `CSV_COLS`. The JSON a reader
+  // downloads is this object, so dropping them here drops them from both downloads at
+  // once; the CSV takes its columns from `csv_cols()` and would ignore a stray field
+  // anyway, which is exactly the silent divergence this function is tested against.
   function itemOf(i, t){
     return {
       title: t[0], publisher: PUBS[cPub[i]], author: t[4],
@@ -387,7 +393,7 @@
       places: cPl[i].map(function(k){ return PLK[k]; }),
       topics: cTp[i].map(function(k){ return TPK[k]; }),
       entities: cEn[i].map(function(k){ return ENTS[k]; }),
-      ingested: t[6], url: t[1], url_note: t[7], catalogue_hero: t[3]
+      ingested: t[6], url: t[1], catalogue_hero: t[3]
     };
   }
 
@@ -405,7 +411,7 @@
   // publishing it. `itemOf` above rebuilds the record the cut is made from, and
   // `test_catalogue_export.py` runs it over every record against `raw-catalogue.csv`,
   // because a reconstruction is exactly the kind of thing that drifts in silence.
-  var CSVCOLS = [], VIEW = [], dlMsg = '';
+  var CSVCOLS = [], VIEW = [], dlMsg = '', fileClick = 0;
   // Row text, one chunk of 500 at a time, kept for the session. A chunk that fails
   // to arrive is **not** remembered as absent: the next thing the reader does asks
   // for it again, which is right for the data the page cannot draw without.
@@ -514,6 +520,16 @@
               'CSV at the top of the page.';
       drawDownload();
     });
+  }
+
+  // `#dlmsg` on its own, without redrawing the buttons. `drawDownload` cannot be
+  // called before the filter index has arrived — it prints the record count on the
+  // whole-catalogue button — and the file link works from the first paint, so the
+  // note it puts up has to be writable earlier than that.
+  function say(text){
+    dlMsg = text;
+    var m = document.getElementById('dlmsg');
+    if (m) m.textContent = text;
   }
 
   function drawDownload(){
@@ -872,6 +888,34 @@
     }
     if (t.id === 'more'){ state.shown += 100; drawResults(); }
     if (t.dataset && t.dataset.dl && !t.disabled){ exportSelection(t.dataset.dl, !!t.dataset.all); }
+    // **A plain download link gives no feedback at all, and this one takes about five
+    // seconds.** The browser fetches the whole file before it opens a save dialog, so
+    // nothing on the page moves and the button looks broken; Bill pressed it three
+    // times on 2026-09-09 and got three downloads. Every other download in this box
+    // speaks through `#dlmsg` and now so does this one.
+    //
+    // A second press inside the window is swallowed rather than obeyed, because the
+    // first one is still working and a second file helps nobody. The window is short
+    // — six seconds — so a click that genuinely did nothing is retriable straight
+    // after, which is why this is a swallow and not a disable.
+    //
+    // **Four words, and the size sits beside the link rather than in the sentence**
+    // *(Bill, 2026-09-09)*: the reader needs to know the click landed, not why it is
+    // slow.
+    if (t.dataset && t.dataset.dlfile){
+      var now = Date.now();
+      if (now - fileClick < 6000){
+        e.preventDefault();
+        say('Still downloading, please wait.');
+        return;
+      }
+      fileClick = now;
+      var note = 'Downloading, please wait.';
+      say(note);
+      // Nothing tells a page when a save dialog opened, so the note goes on a timer,
+      // and only if nothing has written over it in the meantime.
+      setTimeout(function(){ if (dlMsg === note) say(''); }, 20000);
+    }
   });
   // The facet type-aheads are redrawn with the sidebar, so the listener is on the
   // document rather than on each input. It repaints one facet's options from
@@ -898,7 +942,7 @@
   // **The one fetch the page cannot do without.** Everything above waits on it; the
   // markup the reader is already looking at was written at build time and stands if
   // it never arrives.
-  fetch('data/filter-index.json?v=be5b0624')
+  fetch('data/filter-index.json?v=4e22f705')
     .then(function(res){ if (!res.ok) throw new Error(res.status); return res.json(); })
     .then(start)
     .catch(function(){
