@@ -14,6 +14,15 @@ last_reviewed: 2026-08-28
 
 <!-- newest first: a new block goes directly below this line -->
 
+## 2026-09-09 11:36 · render
+
+- Since the editions moved to R2 and `--prune-local` empties the tree, `editions.py`
+  picks a name by looking on disk — and finds nothing. So a document that moves **twice
+  in one day** takes the same dated name twice and the second upload overwrites a
+  published artefact. Today's re-mints were byte-identical, so nothing is damaged. I
+  fixed the same root cause in `--repage`; this one needs a decision on where the name
+  check reads from.
+
 ## 2026-09-08 23:13 · build
 
 - The two progress reports outside their word band are XNA at 403 words over 12 ledger
