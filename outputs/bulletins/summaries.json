@@ -4223,5 +4223,85 @@
     "published": "2026-09-08",
     "written": "2026-09-08",
     "summary": "WorkKE, a Kenyan platform launched in 2024, matches businesses to freelancers and uses local cybercafes as access relays, releasing escrow-held payments as project stages are validated and settling over mobile money. It reports more than 1,650 registered users, over 500 of them freelancers, and 200 partner cybercafes, and is extending into Uganda, Tanzania, Nigeria, South Africa and Ghana; the counts are the company's own."
+  },
+  "2026-09-09-hapijournal-egypt-digital-platform-400-services": {
+    "published": "2026-09-09",
+    "written": "2026-09-09",
+    "summary": "Egypt's communications minister Raafat Hendy put the Digital Egypt platform at about 245 live services and set a target of more than 400 by 2030, and said a digital identity platform has launched so that transactions requiring personal verification — powers of attorney, notarisation — can be completed without attending an office. He also said an integrated data centre strategy is being prepared for launch by the end of 2026, and that outsourcing exports reached $5.1bn in 2025 against an $8bn target for 2028; ITIDA put outsourcing employment above 195,000, from about 90,000 in 2021. The report is of the minister's remarks to a business delegation, and none of the targets carries a published implementation document."
+  },
+  "2026-09-09-itweb-africa-malawi-exam-results-online": {
+    "published": "2026-09-09",
+    "written": "2026-09-09",
+    "summary": "Malawi's education ministry and the national examinations board released the 2026 school certificate results online on 7 September, candidates and examination centres reading them through e-results portals rather than waiting for printed results delivered to districts. The board introduced e-registration in 2022 and the results portals in 2024, and examination fees are now paid through banks and mobile wallets by candidates or parents directly, which it says removes the risk of fees collected by teachers on students' behalf going astray. Of 188,169 candidates, 111,510 passed, a 59.26 per cent pass rate."
+  },
+  "2026-09-09-itweb-africa-zambia-digital-trust-infrastructure": {
+    "published": "2026-09-09",
+    "written": "2026-09-09",
+    "summary": "Zambia and Altron Security have launched a National Public Key Infrastructure, intended as a sovereign root of trust for digital identity, electronic signatures and secure online government, with certificates carrying legal validity under the country's electronic communications and transactions law. The master cryptographic keys were generated under independently audited conditions in a purpose-built facility and are held offline, split among several custodians so that no single body controls them. The Smart Zambia Institute's national coordinator said the launch is only the beginning and its value depends on whether government can sustain the infrastructure, fund it and get public institutions to adopt it."
+  },
+  "2026-09-09-itweb-co-za-iec-election-disinformation-code": {
+    "published": "2026-09-09",
+    "written": "2026-09-09",
+    "summary": "South Africa's Electoral Commission has gazetted a Disinformation Code for the local government elections on 4 November, binding political parties, candidates and anyone acting on their instruction or for reward across all election-related communication, online or offline, paid or unpaid. Parties and candidates must check information before sharing it, publicly retract and correct anything false within 36 hours of becoming aware of it, label AI-generated content and political advertising, and report online disinformation to Real411 within 36 hours; fake accounts, bot networks, coordinated inauthentic behaviour, doxing and cyberbullying are prohibited, as is disinformation targeting the commission or its staff. Contravention carries the sanctions applying to the Electoral Code of Conduct under the Municipal Electoral Act 27 of 2000, and parties will undertake to comply at the signing ceremony on 23 September; the source gives no gazette number or date for the final code."
+  },
+  "2026-09-09-itweb-co-za-sa-ai-infrastructure-lags-governance": {
+    "published": "2026-09-09",
+    "written": "2026-09-09",
+    "summary": "A column by Johan Steyn on the Africa AI Governance Index, published in July by the Nairobi-based Lawyers Hub, which ranks South Africa eleventh in Africa on its capacity to govern AI, scoring 2.10 out of four against Rwanda's 3.25, Nigeria's 2.81 and Benin's 2.58 — the only three the index classifies as having established AI governance. The index scores all 54 states across eight pillars and 80 indicators per country, and finds every African sub-region scoring highest on strategy and lowest on implementation. The argument is that South Africa built the infrastructure first: its draft national AI policy was withdrawn on 26 April 2026 after several cited academic sources were found not to exist, leaving no dedicated policy until revised documents reach Cabinet in November 2026."
+  },
+  "2026-09-09-techafricanews-gabon-four-digital-projects": {
+    "published": "2026-09-09",
+    "written": "2026-09-09",
+    "summary": "Gabon set out four public-administration digital projects at the sixth steering committee of the e-Gabon-SIS project and the Gabon Digital programme on 8 September 2026, chaired by digital economy minister Mark-Alexandre Doumba: migration of the Single Master File to an integrated human resources management system, a government interoperability platform for exchanging data between institutions, a National Digital Identity System, and a government messaging system due before the end of 2026. No budget or delivery date is published for the first three."
+  },
+  "2026-09-09-techafricanews-ghana-ai-robotics-bootcamp": {
+    "published": "2026-09-09",
+    "written": "2026-09-09",
+    "summary": "Ghana's communications ministry has launched a five-day AI and robotics summer bootcamp for 100 students from 19 schools, split into four age cohorts covering coding, robotics and AI from ages 6 to 18. Younger participants work through visual and block-based activities and older ones through programming and design exercises."
+  },
+  "2026-09-09-techafricanews-kenya-child-online-protection-survey": {
+    "published": "2026-09-09",
+    "written": "2026-09-09",
+    "summary": "The Communications Authority of Kenya and the University of Nairobi's Institute for Development Studies have begun reviewing preliminary findings from a joint national survey on children's online experiences and safety, agreeing the report structure and thematic areas ahead of validation. The authority says the findings are intended as the evidence base for regulatory interventions on child online protection; nothing has been published yet."
+  },
+  "2026-09-09-techafricanews-mtn-south-sudan-rumbek-ict-hub": {
+    "published": "2026-09-09",
+    "written": "2026-09-09",
+    "summary": "MTN South Sudan opened the Rumbek ICT Hub in Lakes State on 8 September 2026, a digital learning and innovation centre offering ICT training, learning resources and capacity-building for young people. It was launched with the Lakes State Government and endorsed by the national ICT minister; no cost, duration or intake figure is published."
+  },
+  "2026-09-09-techcabal-africa-ai-race-not-next-chatgpt": {
+    "published": "2026-09-09",
+    "written": "2026-09-09",
+    "summary": "An analysis arguing that the consequential AI adoption in Africa is enterprise and industrial rather than consumer-facing — systems processing invoices, optimising energy use and running mines rather than chatbots. It draws on 4Sight Holdings, which frames its work as automating routine business processes rather than adding assistants, and ABB, whose South African process automation manager describes mining's problem as islands of automation that do not operate as one connected system. The case made is that the continent's constraints — unreliable power, cost pressure, dangerous working environments — raise the return on automation rather than lowering it, and that the obstacle is organisational: structured data, mapped processes and change management, not the technology."
+  },
+  "2026-09-09-techcabal-dlocal-ghana-epsp-licence": {
+    "published": "2026-09-09",
+    "written": "2026-09-09",
+    "summary": "dLocal Ghana, the subsidiary of the Uruguayan payments company, has secured an Enhanced Payment Service Provider licence from the Bank of Ghana, letting it provide local collections, merchant acquiring, mobile-money acceptance and payouts in its own name where it had previously routed Ghana flows through its global platform and regulated third-party partners. It will roll the services out on operational readiness rather than at once. Paystack and Flutterwave hold comparable licences and Fincra was licensed in the enhanced category in May 2026; Bank of Ghana data put mobile money at GH¢4.54 trillion in 2025, up 50.8 per cent on 2024."
+  },
+  "2026-09-09-techtrendske-lulu-coastal-cable-kenya": {
+    "published": "2026-09-09",
+    "written": "2026-09-09",
+    "summary": "A consortium unveiled the LuLu Coastal Cable System at ITW Africa 2026, presented as the first fully protected submarine cable dedicated to Kenya's Indian Ocean coastline: 500km linking five landing points from Mombasa to Lamu, including Vipingo Special Economic Zone, Kilifi and Malindi, pairing a seabed cable with a parallel protected terrestrial route. It is specified at 144 fibres and up to 60Tbps per fibre pair over a 25-year design life, with service targeted for the second quarter of 2028 subject to contract execution, and the Mombasa landing connecting it to cables already landed at the port. The co-developers named are INDOI of Mauritius, Blue Trade Investments as the Kenya-registered landing party, ARISE IIP, AfriTrade Consulting Group and Kingdom Bank; no project value or financing structure is stated."
+  },
+  "2026-09-09-techtrendske-paratus-east-africa-connectivity-itw": {
+    "published": "2026-09-09",
+    "written": "2026-09-09",
+    "summary": "Paratus said its 2,000km Goma-to-Mombasa terrestrial fibre route is live and carrying traffic, announced at the ITW and Datacloud Africa conference in Nairobi. The route links eastern DRC to the Kenyan coast through Kigali, Kampala and Nairobi, with access to subsea capacity landing at Mombasa. Starlink services have launched in Uganda alongside it, and the company is introducing a Layer 2 connectivity service over low-earth-orbit satellite for the East African market."
+  },
+  "2026-09-09-wearetech-injini-programme-12-startups-afrique-australe": {
+    "published": "2026-09-09",
+    "written": "2026-09-09",
+    "summary": "The South African edtech accelerator Injini has launched an eight-month programme for twelve teams across Southern Africa building affordable AI tools adapted to local classrooms. The five strongest projects will receive seed funding at the end of it to develop their tools and test their impact with pupils and teachers; no amount is stated."
+  },
+  "2026-09-09-wearetech-jules-johanes-aho-benin-solutions-entreprises": {
+    "published": "2026-09-09",
+    "written": "2026-09-09",
+    "summary": "Jules Johanes Aho co-founded and runs Bénin Codeurs, a Cotonou firm founded in 2025 that designs and deploys custom software for organisations, from prototype to production with post-launch support, and offers team reinforcement so companies can add developers without direct hiring. The firm says it can mobilise a technical team within 48 hours. He co-founded a first company, Horygin Agence, in 2023, working on automation and digital marketing."
+  },
+  "2026-09-09-wearetech-magalie-bemba-mines-technologies-souverainete": {
+    "published": "2026-09-09",
+    "written": "2026-09-09",
+    "summary": "Magalie Bemba, a Congolese technology entrepreneur and public policy adviser, is among six African finalists in the Most Impactful Initiative category of the Women in Tech Global Awards 2026. She founded CODES Africa in Kinshasa in 2024, a platform running conferences and competitions on innovation and cybersecurity that has extended to Libreville and Kolwezi, and whose MiningTech Summit brings public decision-makers and industry together on digital sovereignty, traceability and local value creation; she also sits on the ICT committee of the DRC's National Assembly."
   }
 }
