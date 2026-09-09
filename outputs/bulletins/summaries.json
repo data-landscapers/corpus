@@ -4029,6 +4029,11 @@
     "written": "2026-09-08",
     "summary": "Notes from a central bank payments conference in Istanbul argue for rethinking how instant payment systems are regulated."
   },
+  "2026-09-08-au-commissioner-ai-for-good-global-commission": {
+    "published": "2026-09-08",
+    "written": "2026-09-09",
+    "summary": "The African Union's commissioner for infrastructure and energy took a seat among more than 40 founding members of the ITU-convened AI for Good Global Commission, meeting for the first time in Geneva. The commission, co-chaired by Rwanda's president, has named closing the divide that leaves an estimated 2.2 billion people offline as a principal priority."
+  },
   "2026-09-08-caribou-dpi-adoption-governance-problem": {
     "published": "2026-09-08",
     "written": "2026-09-08",
@@ -4039,10 +4044,25 @@
     "written": "2026-09-08",
     "summary": "A rights organisation maps Uganda’s digital-economy growth against the gaps it finds in biometric-data, artificial-intelligence and platform-work safeguards."
   },
+  "2026-09-08-cisa-china-ai-distillation-campaigns-advisory": {
+    "published": "2026-09-08",
+    "written": "2026-09-09",
+    "summary": "US security agencies issued a joint advisory alleging that China-based AI companies are extracting proprietary capabilities from US frontier models through industrial-scale knowledge distillation, described as the core of their development strategy rather than a supplement, and recommending mitigations."
+  },
+  "2026-09-08-citinewsroom-ghana-npp-rural-telephony-30-days": {
+    "published": "2026-09-08",
+    "written": "2026-09-09",
+    "summary": "Ghana's opposition gave the communications ministry 30 days to publish a full status report on the Rural Telephony and Digital Inclusion Project, asking for sites constructed, connected, operational and built but out of service. The project runs on a EUR155 million China Eximbank facility against a target of 2,016 sites, with 1,961 stated as constructed at the January 2025 handover and 46 disputed as unconnectable."
+  },
   "2026-09-08-citizenza-gauteng-wifi-digital-skills-smart-safety": {
     "published": "2026-09-08",
     "written": "2026-09-08",
     "summary": "Gauteng’s e-government department reported progress on free public Wi-Fi sites, digital-skills training and smart-safety technology across the province."
+  },
+  "2026-09-08-connectingafrica-gulf-crisis-cloud-strategies-africa": {
+    "published": "2026-09-08",
+    "written": "2026-09-09",
+    "summary": "Instability in the Gulf has put redundancy, data-sovereignty rules for cross-border failover and the physical resilience of data centres back at the centre of cloud investment decisions, the piece argues, with availability zones in small coastal states hard to separate and maritime insurance costs for cable-laying vessels spiking. It reads the disruption as an opening for African markets."
   },
   "2026-09-08-govstack-mkulima-bora-kenya-agricultural-marketplace": {
     "published": "2026-09-08",
@@ -4069,6 +4089,11 @@
     "written": "2026-09-08",
     "summary": "A privately owned Libyan bank said it will launch a direct mobile payment service to China, capped at US$5,000 a transaction and US$50,000 a year."
   },
+  "2026-09-08-lesoleil-rentree-numerique-souverainete-technologique": {
+    "published": "2026-09-08",
+    "written": "2026-09-09",
+    "summary": "A Senegalese daily's digital-season piece sets out Africa's technological sovereignty problem: dependence on foreign infrastructure, platforms and cloud services against the cost of building domestic alternatives. It is commentary rather than a record of any instrument."
+  },
   "2026-09-08-mar-haddad-pegasus-sanchez-claims": {
     "published": "2026-09-08",
     "written": "2026-09-08",
@@ -4078,6 +4103,11 @@
     "published": "2026-09-08",
     "written": "2026-09-08",
     "summary": "A Moroccan analysis asks why Spanish prosecutors have taken no action against a former intelligence officer since 2010, and whether the spyware row now reopens that file."
+  },
+  "2026-09-08-maroc-ia-2030-avancees-presentees-rabat": {
+    "published": "2026-09-08",
+    "written": "2026-09-09",
+    "summary": "Morocco's digital transition ministry presented the main advances of the Maroc IA 2030 roadmap in Rabat, framing it as the move from design into implementation. The minister-delegate said the national AI conference had been the founding stage and that the AI Made in Morocco roadmap now enters a phase of concrete delivery."
   },
   "2026-09-08-maspero-vodafone-elsewedy-cassava-egypt-data-centre": {
     "published": "2026-09-08",
@@ -4094,10 +4124,30 @@
     "written": "2026-09-08",
     "summary": "A digital rights organisation marks International Literacy Day by arguing what technology owes African education, against a projection of 830 million African young people by 2050."
   },
+  "2026-09-08-premiumtimes-nitda-unified-regulatory-framework-africa": {
+    "published": "2026-09-08",
+    "written": "2026-09-09",
+    "summary": "Nigeria's IT development agency called for a unified regulatory approach across Africa and a single interface through which technology companies engage government, arguing that approvals spread across several agencies delay projects and deter investment."
+  },
+  "2026-09-08-pti-angola-ai-platform-world-bank-pada": {
+    "published": "2026-09-08",
+    "written": "2026-09-09",
+    "summary": "Angola authorised US$6 million of World Bank money for an artificial-intelligence platform for the public sector under Presidential Order no. 342/26. The funding runs through the Projecto de Aceleracao Digital de Angola and sits in a sequence of recent authorisations covering public digital infrastructure, interoperability, digital skills and government cybersecurity."
+  },
+  "2026-09-08-pulse-kenya-ca-nnai-data-centre-licence-rules": {
+    "published": "2026-09-08",
+    "written": "2026-09-09",
+    "summary": "Kenya's Communications Authority issued an enhanced framework for numbering, naming, addressing and identification resources and opened consultations on network equipment specifications and on deactivating and recycling inactive numbers. Short codes move to allocation on a services basis rather than per operator, and the same set of notices carries the Authority's separate proposal for a standalone data centre licence category."
+  },
   "2026-09-08-sajim-digital-negligence-tertiary-students-cyberbullying": {
     "published": "2026-09-08",
     "written": "2026-09-08",
     "summary": "A survey of 289 South African tertiary students finds weak awareness of their own digital footprint driving exposure to cyberbullying."
+  },
+  "2026-09-08-techafrica-eg-ix-egypt-peak-traffic-18-members": {
+    "published": "2026-09-08",
+    "written": "2026-09-09",
+    "summary": "Egypt's main internet exchange EG-IX peaked at 722.19Gb/s over the preceding day across 18 member networks holding about 3Tbps of provisioned ports over 31 connections, every one running IPv6. Only five members are Egyptian; the exchange is owned by the state-controlled incumbent and run on a vendor platform, where most large African exchanges are member-owned or neutrally run."
   },
   "2026-09-08-techafricanews-dcspay-kotani-pay-stablecoin-payouts": {
     "published": "2026-09-08",
@@ -4189,6 +4239,11 @@
     "written": "2026-09-08",
     "summary": "A ratings agency rates South Africa’s water resilience relatively low and names energy and water as the risks to a data-centre pipeline, suggesting operators may need modular energy that bypasses the grid."
   },
+  "2026-09-08-undp-aa4dpi-south-south-dpi-mission": {
+    "published": "2026-09-08",
+    "written": "2026-09-09",
+    "summary": "Delegations from Ethiopia, Malawi, Rwanda, Sierra Leone and Zambia, with African Union representatives, concluded a two-week South-South learning mission to India on digital public infrastructure. Convened under UNDP's newly launched Africa Accelerator for Digital Public Infrastructure, it took delegates through New Delhi, Pune and Bengaluru to examine India's digital identity, payment and data exchange systems."
+  },
   "2026-09-08-undp-africa-accelerator-digital-public-infrastructure": {
     "published": "2026-09-08",
     "written": "2026-09-08",
@@ -4214,6 +4269,11 @@
     "written": "2026-09-08",
     "summary": "Burkina Faso is revising its digital territorial development plan to a 2030 horizon, against an international union figure putting about 70 per cent of the population off the internet in 2024."
   },
+  "2026-09-08-wearetech-samrawit-tarekegn-soins-domicile": {
+    "published": "2026-09-08",
+    "written": "2026-09-09",
+    "summary": "An Ethiopian engineer's Addis Ababa venture, founded in 2021, runs an online platform for booking home care and domestic help, listing skills, languages, coverage areas and rates before booking. It is extending its network to nursing, social work and psychology profiles with continuing training for its workers."
+  },
   "2026-09-08-wearetech-tanzanie-formation-filles-tic": {
     "published": "2026-09-08",
     "written": "2026-09-08",
@@ -4224,10 +4284,60 @@
     "written": "2026-09-08",
     "summary": "WorkKE, a Kenyan platform launched in 2024, matches businesses to freelancers and uses local cybercafes as access relays, releasing escrow-held payments as project stages are validated and settling over mobile money. It reports more than 1,650 registered users, over 500 of them freelancers, and 200 partner cybercafes, and is extending into Uganda, Tanzania, Nigeria, South Africa and Ghana; the counts are the company's own."
   },
+  "2026-09-09-algeria-tender-mobile-coverage-underserved-areas": {
+    "published": "2026-09-09",
+    "written": "2026-09-09",
+    "summary": "Algeria's Postal and Electronic Communications Regulatory Authority launched a competitive tender on 7 September to extend mobile wireless coverage to 3,000 sparsely populated areas, under its universal service mandate in Law no. 18-04 of 10 May 2018."
+  },
+  "2026-09-09-cioafrica-nobus-nairobi-availability-zone": {
+    "published": "2026-09-09",
+    "written": "2026-09-09",
+    "summary": "Nobus Cloud Services, a Nigerian public cloud provider operated from Lagos, went live with a Nairobi availability zone designated Nobus-EA-AZ1, letting Kenyan organisations provision workloads locally. It opened alongside a programme offering free cloud credits and technical support to African startups and enterprises."
+  },
+  "2026-09-09-dcd-ivory-coast-state-owned-data-center-2027": {
+    "published": "2026-09-09",
+    "written": "2026-09-09",
+    "summary": "Cote d'Ivoire is targeting 2027 for the opening of its first state-owned data centre, built by Cybastion at an estimated US$66 million under an Export-Import Bank of the United States financing package. The facility is specified at 1.73MW of IT capacity within 3MW of total power, 228 racks and 10 petabytes of storage."
+  },
+  "2026-09-09-dcmag-free-cable-sous-marin-reunion-afrique-du-sud": {
+    "published": "2026-09-09",
+    "written": "2026-09-09",
+    "summary": "Free, through Telco OI, joined the EUR93 million ReuNION consortium led by La Reunion Connectee to build a submarine cable linking La Reunion directly to South Africa. The 16-fibre-pair system is planned for service in 2028 as successor to SAFE, in service since 2002 and at end of life."
+  },
+  "2026-09-09-digital-parks-africa-nigeria-data-centre-1-lagos": {
+    "published": "2026-09-09",
+    "written": "2026-09-09",
+    "summary": "Digital Parks Africa announced Nigeria Data Centre 1, a carrier-neutral facility in Lagos and its first outside southern Africa, at ITW Africa. The developer frames the build as an extension from power and technical services into data centre operations, aimed at financial institutions, cloud and connectivity providers; no investment value is stated."
+  },
+  "2026-09-09-ericsson-ghana-nca-5g-cybersecurity-resilience": {
+    "published": "2026-09-09",
+    "written": "2026-09-09",
+    "summary": "An Ericsson delegation called on Ghana's National Communications Authority to discuss 5G deployment, quality of service, cybersecurity and network resilience. The Authority's deputy director-general said 5G licence conditions require 70 per cent population coverage by March 2027 and that compliance monitoring would be strengthened."
+  },
+  "2026-09-09-ethio-telecom-4g-expansion-11014-sites": {
+    "published": "2026-09-09",
+    "written": "2026-09-09",
+    "summary": "Ethio Telecom is to expand its 4G network from 6,924 to 11,014 sites in 2026/27 under the Year II plan of its Next Horizon strategy. It is a published target, not an outturn."
+  },
+  "2026-09-09-ghana-france-telecoms-cooperation": {
+    "published": "2026-09-09",
+    "written": "2026-09-09",
+    "summary": "Ghana's communications minister met the French ambassador to discuss expanding access to affordable connectivity, French investment in digital infrastructure and approaches to digital disinformation, and to exchange views ahead of the Internet Governance Forum in November."
+  },
   "2026-09-09-hapijournal-egypt-digital-platform-400-services": {
     "published": "2026-09-09",
     "written": "2026-09-09",
     "summary": "Egypt's communications minister Raafat Hendy put the Digital Egypt platform at about 245 live services and set a target of more than 400 by 2030, and said a digital identity platform has launched so that transactions requiring personal verification — powers of attorney, notarisation — can be completed without attending an office. He also said an integrated data centre strategy is being prepared for launch by the end of 2026, and that outsourcing exports reached $5.1bn in 2025 against an $8bn target for 2028; ITIDA put outsourcing employment above 195,000, from about 90,000 in 2021. The report is of the minister's remarks to a business delegation, and none of the targets carries a published implementation document."
+  },
+  "2026-09-09-itweb-africa-bank-of-uganda-security-measures": {
+    "published": "2026-09-09",
+    "written": "2026-09-09",
+    "summary": "Bank of Uganda's governor told Parliament's Public Accounts Committee that the central bank has strengthened its internal security systems after a physical break-in and allegations of system manipulation at its headquarters. He said the incidents involved a physical breach and fraudulent payments rather than an external cyberattack."
+  },
+  "2026-09-09-itweb-africa-kenya-cross-border-data-transfer-guidance": {
+    "published": "2026-09-09",
+    "written": "2026-09-09",
+    "summary": "Kenya's Office of the Data Protection Commissioner issued guidance on cross-border transfers of personal data, setting out the legal, regulatory and operational obligations of every entity that transfers personal data abroad or receives it from abroad, the safeguards required and the mechanisms for ensuring adequate protection in the recipient country."
   },
   "2026-09-09-itweb-africa-malawi-exam-results-online": {
     "published": "2026-09-09",
@@ -4248,6 +4358,46 @@
     "published": "2026-09-09",
     "written": "2026-09-09",
     "summary": "A column by Johan Steyn on the Africa AI Governance Index, published in July by the Nairobi-based Lawyers Hub, which ranks South Africa eleventh in Africa on its capacity to govern AI, scoring 2.10 out of four against Rwanda's 3.25, Nigeria's 2.81 and Benin's 2.58 — the only three the index classifies as having established AI governance. The index scores all 54 states across eight pillars and 80 indicators per country, and finds every African sub-region scoring highest on strategy and lowest on implementation. The argument is that South Africa built the infrastructure first: its draft national AI policy was withdrawn on 26 April 2026 after several cited academic sources were found not to exist, leaving no dedicated policy until revised documents reach Cabinet in November 2026."
+  },
+  "2026-09-09-itweb-coalition-warns-crypto-rules": {
+    "published": "2026-09-09",
+    "written": "2026-09-09",
+    "summary": "A South African crypto industry coalition asked National Treasury and the Reserve Bank to redraft proposed cross-border crypto asset regulations, warning of job losses, effects on millions of holders and lost tax revenue. Its members say they support regulation, transparency and financial-crime measures but not rules that discriminate against the activity."
+  },
+  "2026-09-09-itweb-shein-temu-sa-ecommerce-rules": {
+    "published": "2026-09-09",
+    "written": "2026-09-09",
+    "summary": "South Africa's crackdown on low-value imports has significantly slowed cross-border e-commerce growth and pushed the two largest platforms from tax arbitrage towards local fulfilment and supply chains, on the Online Retail in South Africa study."
+  },
+  "2026-09-09-kbc-kenya-digital-infrastructure-itw-datacloud-africa": {
+    "published": "2026-09-09",
+    "written": "2026-09-09",
+    "summary": "Kenyan ministers opening the ITW and Datacloud Africa Conference in Nairobi named route diversity, cybersecurity, reliable power, data governance and infrastructure resilience as the conditions for further investment, and positioned connectivity as the foundation for Africa's participation in the global digital economy. No new instrument or commitment was announced."
+  },
+  "2026-09-09-kenya-us-cooperation-ai-cybersecurity": {
+    "published": "2026-09-09",
+    "written": "2026-09-09",
+    "summary": "Kenya and the United States discussed deepening cooperation on artificial intelligence, cybersecurity, digital infrastructure and investment on the sidelines of the AmCham Business Summit. The talks covered university and research partnerships and positioning Kenya for US foreign direct investment; no instrument was signed."
+  },
+  "2026-09-09-mk-korea-45-african-countries-ai-k-ai-package": {
+    "published": "2026-09-09",
+    "written": "2026-09-09",
+    "summary": "South Korea agreed to cooperate with 45 African countries on artificial intelligence, tying AI solutions, AI data centres and power supply facilities to projects financed by its Economic Development Cooperation Fund. No commitment sum is stated."
+  },
+  "2026-09-09-nigeriacommsweek-uk-dap-siun-connectivity-hub-ogun": {
+    "published": "2026-09-09",
+    "written": "2026-09-09",
+    "summary": "The UK Digital Access Programme inaugurated the Siun Community Self-Built Connectivity Hub in Obafemi Owode, Ogun State. It is one of ten community-centred hubs the programme supports in Nigeria on a model that places ownership and management with local communities and pairs affordable access with digital skills; how many of the ten are open is not stated."
+  },
+  "2026-09-09-nitda-trust-transparency-digital-governance": {
+    "published": "2026-09-09",
+    "written": "2026-09-09",
+    "summary": "Nigeria's IT development agency told a multi-stakeholder meeting on digital governance in Abuja that the question must shift from what technology can do to how it should be governed, raising accountability when digital systems fail, transparency in algorithmic decision-making and a route for citizens to challenge automated decisions. It used AI-driven grant disbursement as the worked example."
+  },
+  "2026-09-09-safaricom-ethiopia-government-network-expansion": {
+    "published": "2026-09-09",
+    "written": "2026-09-09",
+    "summary": "Safaricom Ethiopia put itself at 15 million 90-day active customers and more than 3,600 sites in five years of operation, at a meeting with the innovation and technology minister. Its chief executive raised infrastructure and supply-chain constraints on further rollout, including the timely customs clearance of telecommunications equipment and fibre cable."
   },
   "2026-09-09-techafricanews-gabon-four-digital-projects": {
     "published": "2026-09-09",
@@ -4279,6 +4429,11 @@
     "written": "2026-09-09",
     "summary": "dLocal Ghana, the subsidiary of the Uruguayan payments company, has secured an Enhanced Payment Service Provider licence from the Bank of Ghana, letting it provide local collections, merchant acquiring, mobile-money acceptance and payouts in its own name where it had previously routed Ghana flows through its global platform and regulated third-party partners. It will roll the services out on operational readiness rather than at once. Paystack and Flutterwave hold comparable licences and Fincra was licensed in the enhanced category in May 2026; Bank of Ghana data put mobile money at GH¢4.54 trillion in 2025, up 50.8 per cent on 2024."
   },
+  "2026-09-09-techcabal-mtn-nigeria-100-million-subscribers": {
+    "published": "2026-09-09",
+    "written": "2026-09-09",
+    "summary": "MTN Nigeria became the first Nigerian operator to pass 100 million subscribers, ending July 2026 with 100.86 million on regulator data, up from 98.64 million in June and 51.76 per cent of the market. It spent NGN620.5 billion on capital expenditure excluding lease additions in the first half of 2026 on spectrum, fibre backhaul and other network infrastructure."
+  },
   "2026-09-09-techtrendske-lulu-coastal-cable-kenya": {
     "published": "2026-09-09",
     "written": "2026-09-09",
@@ -4288,6 +4443,31 @@
     "published": "2026-09-09",
     "written": "2026-09-09",
     "summary": "Paratus said its 2,000km Goma-to-Mombasa terrestrial fibre route is live and carrying traffic, announced at the ITW and Datacloud Africa conference in Nairobi. The route links eastern DRC to the Kenyan coast through Kigali, Kampala and Nairobi, with access to subsea capacity landing at Mombasa. Starlink services have launched in Uganda alongside it, and the company is introducing a Layer 2 connectivity service over low-earth-orbit satellite for the East African market."
+  },
+  "2026-09-09-terrapay-alipay-cross-border-qr-payments": {
+    "published": "2026-09-09",
+    "written": "2026-09-09",
+    "summary": "TerraPay and Alipay+ announced a partnership to enable cross-border QR payments for African digital wallets. In the initial phase 15 African wallets connected to TerraPay's Xend interoperability network would be able to pay at more than 150 million merchants, extending the network from account-to-account transfers into in-store payments."
+  },
+  "2026-09-09-ttcl-bbs-tanzania-burundi-capacity": {
+    "published": "2026-09-09",
+    "written": "2026-09-09",
+    "summary": "Tanzania's state operator agreed with Burundi Backbone System to raise cross-border capacity from 4Gbps to 10Gbps through the National ICT Broadband Backbone, framed as a response to demand for cross-border digital services and enterprise connectivity."
+  },
+  "2026-09-09-undp-liberia-msc-ai-consultations": {
+    "published": "2026-09-09",
+    "written": "2026-09-09",
+    "summary": "The University of Liberia, with UNDP support, is running national stakeholder consultations on establishing Liberia's first MSc in Artificial Intelligence, bringing together government institutions, development partners, academia, private-sector actors and civil society."
+  },
+  "2026-09-09-ustda-csquared-ghana-fibre-feasibility": {
+    "published": "2026-09-09",
+    "written": "2026-09-09",
+    "summary": "The US Trade and Development Agency signed an agreement on 9 September to fund a feasibility study for open-access fibre laid along Northern Electricity Distribution Company lines, which span more than 60 per cent of Ghana. The study is to assess commercial viability, quantify demand and develop a financing strategy; no grant value is stated."
+  },
+  "2026-09-09-von-eu-eib-boost-africa-impact-forum-abuja": {
+    "published": "2026-09-09",
+    "written": "2026-09-09",
+    "summary": "The EU used the Boost Africa Impact Forum in Abuja to argue that access to finance realises African entrepreneurial potential only alongside technical expertise, networks and an enabling business environment. Its ambassador said the initiative, run with the European Investment Bank and the African Development Bank, has attracted more than EUR100 million; the figure is cumulative rather than a dated commitment."
   },
   "2026-09-09-wearetech-injini-programme-12-startups-afrique-australe": {
     "published": "2026-09-09",
@@ -4303,5 +4483,20 @@
     "published": "2026-09-09",
     "written": "2026-09-09",
     "summary": "Magalie Bemba, a Congolese technology entrepreneur and public policy adviser, is among six African finalists in the Most Impactful Initiative category of the Women in Tech Global Awards 2026. She founded CODES Africa in Kinshasa in 2024, a platform running conferences and competitions on innovation and cybersecurity that has extended to Libreville and Kolwezi, and whose MiningTech Summit brings public decision-makers and industry together on digital sovereignty, traceability and local value creation; she also sits on the ICT committee of the DRC's National Assembly."
+  },
+  "2026-09-09-wearetech-senegal-cloud-souverain-ia": {
+    "published": "2026-09-09",
+    "written": "2026-09-09",
+    "summary": "Senegal put a sovereign cloud for the state's sensitive data and an accelerated sectoral AI strategy at the centre of its digital priorities, in the prime minister's general policy statement of 8 September. The refocus sits within the New Deal technologique and narrows selection to initiatives that are feasible, financed and able to produce measurable results."
+  },
+  "2026-09-09-yonhap-afdb-president-korea-africa-ai": {
+    "published": "2026-09-09",
+    "written": "2026-09-09",
+    "summary": "The African Development Bank's president said Korea and Africa hold complementary strengths in the AI era and set out an intention to put AI infrastructure, enabling regulation, capacity building and joint investment at the top of the Korea-Africa agenda. It is a statement of priority; no instrument or sum is attached."
+  },
+  "2026-09-09-yonhap-korea-africa-k-ai-package-edcf-koafec": {
+    "published": "2026-09-09",
+    "written": "2026-09-09",
+    "summary": "South Korea set out the K-AI Package at the 8th KOAFEC ministerial in Seoul, tying AI solutions, AI data centres and power supply facilities to infrastructure projects financed by its Economic Development Cooperation Fund. Delegations from 45 African countries adopted a joint declaration, approved 13 new trust-fund projects and signed a letter of intent for a Korea-Africa AI Hub at the African Development Bank. No commitment sum is stated."
   }
 }
