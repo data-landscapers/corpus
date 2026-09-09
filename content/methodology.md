@@ -13,7 +13,7 @@ The aim of Corpus is to provide a fast-track information service for researchers
 - **Finance**
   Corpus is attempting to produce a single integrated view of all financing of digital transformation. The first part of this, non-state financing, is live. It includes all public and private investments sourced from the International Aid Transparency Initiative, investor portals and news articles. The second part, national budgeting, spend and auditing is still under development.
 - **Time**
-  Corpus' primary focus is current news with over 5,000 documents now being added each month (2026). Older documents are collected to provide baselines to status and progress reports.
+  Corpus' primary focus is current news with over 2,000 documents now being added each month. Older documents are collected to provide baselines to status and progress reports.
 
 ## Infrastructure
 
