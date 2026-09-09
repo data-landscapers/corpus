@@ -1,5 +1,5 @@
 ---
-title: Mozambique — digital transformation and data governance status report
+title: Mozambique: status report
 compiled: 2026-09-08
 place: MOZ
 region: XSA

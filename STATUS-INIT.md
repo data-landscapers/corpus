@@ -177,7 +177,7 @@ The five `geopol.*` slugs, `data.satellite` and `finance.mou` have no indicator 
 
 ```
 ---
-title: Rwanda — digital transformation and data governance status report
+title: Rwanda: status report
 compiled: 2026-08-14
 place: RWA
 region: XEA

@@ -1,5 +1,5 @@
 ---
-title: Sao Tome and Principe — digital transformation and data governance status report
+title: Sao Tome and Principe: status report
 compiled: 2026-09-06
 place: STP
 region: XWA

@@ -1,5 +1,5 @@
 ---
-title: Senegal — digital transformation and data governance status report
+title: Senegal: status report
 compiled: 2026-09-06
 place: SEN
 region: XWA

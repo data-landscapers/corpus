@@ -1,5 +1,5 @@
 ---
-title: Namibia — digital transformation and data governance status report
+title: Namibia: status report
 compiled: 2026-09-08
 place: NAM
 region: XSA

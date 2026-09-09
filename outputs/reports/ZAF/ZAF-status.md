@@ -1,5 +1,5 @@
 ---
-title: South Africa — digital transformation and data governance status report
+title: South Africa: status report
 compiled: 2026-09-01
 place: ZAF
 region: XSA

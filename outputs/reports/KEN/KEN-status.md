@@ -1,5 +1,5 @@
 ---
-title: Kenya — digital transformation and data governance status report
+title: Kenya: status report
 compiled: 2026-09-06
 place: KEN
 region: XEA

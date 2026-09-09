@@ -1,5 +1,5 @@
 ---
-title: Botswana — digital transformation and data governance status report
+title: Botswana: status report
 compiled: 2026-09-04
 place: BWA
 region: XSA

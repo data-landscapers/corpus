@@ -1,5 +1,5 @@
 ---
-title: Niger — digital transformation and data governance status report
+title: Niger: status report
 compiled: 2026-09-06
 place: NER
 region: XWA

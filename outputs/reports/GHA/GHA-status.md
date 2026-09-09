@@ -1,5 +1,5 @@
 ---
-title: Ghana — digital transformation and data governance status report
+title: Ghana: status report
 compiled: 2026-09-08
 place: GHA
 region: XWA

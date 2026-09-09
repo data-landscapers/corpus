@@ -1,5 +1,5 @@
 ---
-title: Gabon — digital transformation and data governance status report
+title: Gabon: status report
 compiled: 2026-09-08
 place: GAB
 region: XCA

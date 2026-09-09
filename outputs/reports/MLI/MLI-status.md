@@ -1,5 +1,5 @@
 ---
-title: Mali — digital transformation and data governance status report
+title: Mali: status report
 compiled: 2026-09-06
 place: MLI
 region: XWA

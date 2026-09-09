@@ -1,5 +1,5 @@
 ---
-title: Tunisia — digital transformation and data governance status report
+title: Tunisia: status report
 compiled: 2026-09-06
 place: TUN
 region: XNA

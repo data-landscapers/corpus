@@ -1,5 +1,5 @@
 ---
-title: Mauritania — digital transformation and data governance status report
+title: Mauritania: status report
 compiled: 2026-09-06
 place: MRT
 region: XWA

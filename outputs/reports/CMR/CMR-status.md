@@ -1,5 +1,5 @@
 ---
-title: Cameroon — digital transformation and data governance status report
+title: Cameroon: status report
 compiled: 2026-09-08
 place: CMR
 region: XCA

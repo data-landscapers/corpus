@@ -1,5 +1,5 @@
 ---
-title: Central African Republic — digital transformation and data governance status report
+title: Central African Republic: status report
 compiled: 2026-09-08
 place: CAF
 region: XCA

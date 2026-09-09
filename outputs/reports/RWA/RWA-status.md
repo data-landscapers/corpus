@@ -1,5 +1,5 @@
 ---
-title: Rwanda — digital transformation and data governance status report
+title: Rwanda: status report
 compiled: 2026-09-08
 place: RWA
 region: XEA

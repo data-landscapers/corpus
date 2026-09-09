@@ -1,5 +1,5 @@
 ---
-title: Sudan — digital transformation and data governance status report
+title: Sudan: status report
 compiled: 2026-09-08
 place: SDN
 region: XEA

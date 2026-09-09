@@ -1,5 +1,5 @@
 ---
-title: Eritrea — digital transformation and data governance status report
+title: Eritrea: status report
 compiled: 2026-09-04
 place: ERI
 region: XEA

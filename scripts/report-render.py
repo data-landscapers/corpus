@@ -1146,7 +1146,10 @@ def render(unit, today):
     block, keep, dropped = blocker(path, subj)
     not_held = sum(1 for r in ledger if stem(r["status"]) == NOT_HELD)
     name = place_name(unit)
-    out = front(f"{name} — digital transformation and data governance status report",
+    # **The status report is titled `{name}: status report`** *(Bill, 2026-09-09)*. The long
+    # form named the whole subject of the site in every page title, tab and share card, and
+    # the body heading below has said the short form since it was written; the two now agree.
+    out = front(f"{name}: status report",
                 today, unit, len(ledger), not_held) + [
         f"# {name}: status report",
         "",

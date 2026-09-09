@@ -1,5 +1,5 @@
 ---
-title: Madagascar — digital transformation and data governance status report
+title: Madagascar: status report
 compiled: 2026-09-06
 place: MDG
 region: XEA

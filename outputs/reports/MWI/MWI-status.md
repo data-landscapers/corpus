@@ -1,5 +1,5 @@
 ---
-title: Malawi — digital transformation and data governance status report
+title: Malawi: status report
 compiled: 2026-09-01
 place: MWI
 region: XSA

@@ -1,5 +1,5 @@
 ---
-title: Egypt — digital transformation and data governance status report
+title: Egypt: status report
 compiled: 2026-09-08
 place: EGY
 region: XNA

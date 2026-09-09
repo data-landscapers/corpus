@@ -1,5 +1,5 @@
 ---
-title: Morocco — digital transformation and data governance status report
+title: Morocco: status report
 compiled: 2026-09-08
 place: MAR
 region: XNA

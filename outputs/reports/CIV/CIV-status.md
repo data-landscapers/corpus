@@ -1,5 +1,5 @@
 ---
-title: Cote d'Ivoire — digital transformation and data governance status report
+title: Cote d'Ivoire: status report
 compiled: 2026-09-06
 place: CIV
 region: XWA

@@ -96,14 +96,6 @@ REGION = """<!DOCTYPE html>
       <div class="country-head__meta">{iso} &nbsp;·&nbsp; last updated {built}</div>
     </div>
 
-    <div class="stat-bar">
-      <div class="stat-bar__inner">
-        <span class="stat-bar__item">Systems &amp; instruments <strong>{tracked}</strong></span>
-        <span class="stat-bar__item">Primary sources held <strong>{sources}</strong></span>
-        <span class="stat-bar__item">Financial commitments <strong>{fin_n}</strong></span>
-      </div>
-    </div>
-
     <h2 class="section-heading">Reports</h2>
 {reports}
 
@@ -242,8 +234,7 @@ def build(code: str) -> list[Path]:
         finance_section = country.FINANCE_EMPTY.format(name=name)
 
     (out_dir / "index.html").write_text(external_links(REGION.format(
-        tracked=country.tracked(code)[0],
-        sources=f"{n_place:,}", cat_total=f"{n_all:,}", cat_csv=cat_csv,
+        cat_csv=cat_csv,
         catalogue_intro=copy_inline("country", "catalogue-intro",
                                     sources=f"{n_place:,}", name=name),
         budget_intro=copy_inline("country", "budget-intro"),

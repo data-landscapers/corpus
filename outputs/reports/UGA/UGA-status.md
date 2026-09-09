@@ -1,5 +1,5 @@
 ---
-title: Uganda — digital transformation and data governance status report
+title: Uganda: status report
 compiled: 2026-09-08
 place: UGA
 region: XEA

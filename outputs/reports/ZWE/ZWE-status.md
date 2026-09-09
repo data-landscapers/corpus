@@ -1,5 +1,5 @@
 ---
-title: Zimbabwe — digital transformation and data governance status report
+title: Zimbabwe: status report
 compiled: 2026-09-08
 place: ZWE
 region: XSA

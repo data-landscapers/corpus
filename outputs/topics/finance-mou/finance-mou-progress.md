@@ -1,13 +1,13 @@
 ---
-title: MoUs and other agreements — progress report, 2025-09-01 to 2026-09-08
-compiled: 2026-09-08
+title: MoUs and other agreements — progress report, September 2025 – September 2026
+compiled: 2026-09-09
 period: 2025-09-01 to 2026-09-08
 subject: finance.mou
 places: DZA; AGO; BWA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 491986abc807
+record: 68437cf3bd48
 ---
 
-# MoUs and other agreements: progress report, 2025-09-01 to 2026-09-08
+# MoUs and other agreements: progress report, September 2025 – September 2026
 
 *50 countries. Each row below is carried verbatim from that country's own progress report, which answers a fixed frame of indicators over the period; nothing is written here. A country not listed under an indicator has ***No evidence*** on it in its own report.*
 

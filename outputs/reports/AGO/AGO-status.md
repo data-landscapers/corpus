@@ -1,5 +1,5 @@
 ---
-title: Angola — digital transformation and data governance status report
+title: Angola: status report
 compiled: 2026-09-08
 place: AGO
 region: XSA

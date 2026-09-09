@@ -1,5 +1,5 @@
 ---
-title: Equatorial Guinea — digital transformation and data governance status report
+title: Equatorial Guinea: status report
 compiled: 2026-09-08
 place: GNQ
 region: XCA

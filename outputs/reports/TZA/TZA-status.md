@@ -1,5 +1,5 @@
 ---
-title: Tanzania — digital transformation and data governance status report
+title: Tanzania: status report
 compiled: 2026-09-08
 place: TZA
 region: XEA

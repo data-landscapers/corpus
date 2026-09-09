@@ -1,13 +1,13 @@
 ---
-title: EU activities — progress report, 2025-09-01 to 2026-09-08
-compiled: 2026-09-08
+title: EU activities — progress report, September 2025 – September 2026
+compiled: 2026-09-09
 period: 2025-09-01 to 2026-09-08
 subject: geopol.eu
 places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 1a9a655a6ce2
+record: 85b0f3e6cf25
 ---
 
-# EU activities: progress report, 2025-09-01 to 2026-09-08
+# EU activities: progress report, September 2025 – September 2026
 
 *52 countries. Each row below is carried verbatim from that country's own progress report, which answers a fixed frame of indicators over the period; nothing is written here. A country not listed under an indicator has ***No evidence*** on it in its own report.*
 

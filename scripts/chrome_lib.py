@@ -268,14 +268,15 @@ def chrome(active: str | None = None, depth: int = 1, *,
 def foot(depth: int = 1, year: int | None = None) -> str:
     """The footer. `depth` is unused today — the footer holds no relative paths —
     and is taken anyway so that a caller need not know that, and so adding one
-    later is a change here rather than at five call sites."""
+    later is a change here rather than at five call sites.
+
+    **The company holds the licence, and the two links are gone** *(Bill, 2026-09-09)*.
+    `Bill Anderson /` named a person beside the company that is the licensor; and the link row
+    repeated what is already above it — the masthead logo goes to `data-landscapers.io` and
+    Methodology is a nav item on every page. A footer that restates the header is furniture."""
     return f"""  <footer class="site-footer">
     <div class="site-footer__inner">
-      <p class="site-footer__copy"><a href="https://creativecommons.org/licenses/by/4.0/" style="color:inherit;border-bottom:none;">CC BY 4.0</a> {year or date.today().year} Bill Anderson / Data Landscapers Ltd &nbsp;·&nbsp; Registered in the UK · Co. No. 16040544</p>
-      <div class="site-footer__links">
-        <a href="{MAIN_SITE}/">data-landscapers.io</a>
-        <a href="{SITE_BASE}/methodology/">Methodology</a>
-      </div>
+      <p class="site-footer__copy"><a href="https://creativecommons.org/licenses/by/4.0/" style="color:inherit;border-bottom:none;">CC BY 4.0</a> {year or date.today().year} Data Landscapers Ltd &nbsp;·&nbsp; Registered in the UK · Co. No. 16040544</p>
     </div>
   </footer>"""
 

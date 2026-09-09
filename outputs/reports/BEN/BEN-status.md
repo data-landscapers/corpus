@@ -1,5 +1,5 @@
 ---
-title: Benin — digital transformation and data governance status report
+title: Benin: status report
 compiled: 2026-09-08
 place: BEN
 region: XWA

@@ -1,5 +1,5 @@
 ---
-title: Guinea-Bissau — digital transformation and data governance status report
+title: Guinea-Bissau: status report
 compiled: 2026-09-08
 place: GNB
 region: XWA

@@ -1,13 +1,13 @@
 ---
-title: Data Storage — monthly update, August 2026
-compiled: 2026-09-08
+title: Data Storage — monthly update, August – September 2026
+compiled: 2026-09-09
 period: 2026-08-01 to 2026-09-08
 subject: infra.store
 places: DZA; AGO; BWA; BFA; CMR; CPV; CAF; COG; CIV; EGY; GNQ; GMB; KEN; LSO; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SLE; SOM; ZAF; SSD; TZA; TUN; ZWE
-record: bbec36f4e680
+record: 2e47de7ab995
 ---
 
-# Data Storage: monthly update, August 2026
+# Data Storage: monthly update, August – September 2026
 
 *31 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 

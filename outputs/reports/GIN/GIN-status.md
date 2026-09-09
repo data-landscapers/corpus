@@ -1,5 +1,5 @@
 ---
-title: Guinea — digital transformation and data governance status report
+title: Guinea: status report
 compiled: 2026-08-21
 place: GIN
 region: XWA

@@ -1,5 +1,5 @@
 ---
-title: Ethiopia — digital transformation and data governance status report
+title: Ethiopia: status report
 compiled: 2026-09-01
 place: ETH
 region: XEA

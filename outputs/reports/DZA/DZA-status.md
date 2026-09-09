@@ -1,5 +1,5 @@
 ---
-title: Algeria — digital transformation and data governance status report
+title: Algeria: status report
 compiled: 2026-09-08
 place: DZA
 region: XNA

@@ -1,13 +1,13 @@
 ---
-title: Other GovTech and e-Gov — monthly update, August 2026
-compiled: 2026-09-08
+title: Other GovTech and e-Gov — monthly update, August – September 2026
+compiled: 2026-09-09
 period: 2026-08-01 to 2026-09-08
 subject: dpi.govtech
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 0e1f04320b6f
+record: df3285edf10a
 ---
 
-# Other GovTech and e-Gov: monthly update, August 2026
+# Other GovTech and e-Gov: monthly update, August – September 2026
 
 *48 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 

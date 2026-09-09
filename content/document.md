@@ -1,16 +1,12 @@
 # Document furniture
 
-The standing notes that appear on every rendered document, and the two glossaries that explain a report's status and movement values. Read by `scripts/render.py` (the notes, as HTML) and `scripts/report-render.py` (the glossaries, as markdown).
+The standing note that appears on every bulletin, and the glossaries that explain a report's status, movement and progress values. Read by `scripts/render.py` (the note, as HTML) and `scripts/report-render.py` (the glossaries, as markdown).
 
-`report-notes` appears on all 241 reports; `bulletin-notes` appears on the bulletin alone, and is the whole of what *About this document* says there — Bill wrote it on 2026-08-21 (`prep/bulletin.md` 15) and it replaced two paragraphs about batch acquisition and what the page is not.
+`bulletin-notes` appears on the bulletin alone, and is the whole of what *About this document* says there — Bill wrote it on 2026-08-21 (`prep/bulletin.md` 15) and it replaced two paragraphs about batch acquisition and what the page is not.
 
-Editing rule: these appear on *every* document of their kind, so a sentence added here is a sentence added several hundred times. Say less rather than more.
+`report-notes` was the same furniture on all 241 reports and **came off on 2026-09-09** (Bill). Its two paragraphs said that figures are dated and that a dated edition is not revised; the document says both of those itself, in the byline, in the Edition row and on every dated figure. A report's *About this document* is now the Edition, This file and Licence rows and nothing else.
 
-## report-notes
-
-Figures are dated because most are time-varying: a figure carries the date it was true, not the date you are reading it. Where the base holds no reliable statement, the document says **Not held** rather than leaving a silence — those are counted, and listed at the end.
-
-This is a dated edition and is not revised after publication. If a figure here has moved, the current edition will say so.
+Editing rule: this appears on *every* document of its kind, so a sentence added here is a sentence added several hundred times. Say less rather than more.
 
 ## bulletin-notes
 

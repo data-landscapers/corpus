@@ -1,13 +1,13 @@
 ---
-title: India activities — progress report, 2025-09-01 to 2026-09-08
-compiled: 2026-09-08
+title: India activities — progress report, September 2025 – September 2026
+compiled: 2026-09-09
 period: 2025-09-01 to 2026-09-08
 subject: geopol.india
 places: AGO; BEN; BWA; BFA; BDI; CMR; CPV; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBY; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; TGO; TUN; UGA; ZMB; ZWE
-record: cb97cd2637aa
+record: ec4af3b3e66f
 ---
 
-# India activities: progress report, 2025-09-01 to 2026-09-08
+# India activities: progress report, September 2025 – September 2026
 
 *46 countries. Each row below is carried verbatim from that country's own progress report, which answers a fixed frame of indicators over the period; nothing is written here. A country not listed under an indicator has ***No evidence*** on it in its own report.*
 

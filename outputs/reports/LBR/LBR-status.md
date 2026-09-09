@@ -1,5 +1,5 @@
 ---
-title: Liberia — digital transformation and data governance status report
+title: Liberia: status report
 compiled: 2026-09-08
 place: LBR
 region: XWA

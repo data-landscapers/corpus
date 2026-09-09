@@ -1,5 +1,5 @@
 ---
-title: Gambia — digital transformation and data governance status report
+title: Gambia: status report
 compiled: 2026-09-06
 place: GMB
 region: XWA

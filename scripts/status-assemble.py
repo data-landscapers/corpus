@@ -94,7 +94,7 @@ def main():
 
     fm = [
         "---",
-        f"title: {name} — digital transformation and data governance status report",
+        f"title: {name}: status report",
         f"compiled: {args.compiled}",
         f"place: {iso}",
         f"region: {region}",

@@ -1,5 +1,5 @@
 ---
-title: Mauritius — digital transformation and data governance status report
+title: Mauritius: status report
 compiled: 2026-09-08
 place: MUS
 region: XEA

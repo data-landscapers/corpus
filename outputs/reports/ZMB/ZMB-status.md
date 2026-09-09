@@ -1,5 +1,5 @@
 ---
-title: Zambia — digital transformation and data governance status report
+title: Zambia: status report
 compiled: 2026-09-08
 place: ZMB
 region: XSA

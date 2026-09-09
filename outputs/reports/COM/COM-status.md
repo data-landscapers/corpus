@@ -1,5 +1,5 @@
 ---
-title: Comoros — digital transformation and data governance status report
+title: Comoros: status report
 compiled: 2026-09-08
 place: COM
 region: XEA

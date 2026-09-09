@@ -1,5 +1,5 @@
 ---
-title: Djibouti — digital transformation and data governance status report
+title: Djibouti: status report
 compiled: 2026-09-08
 place: DJI
 region: XEA

@@ -1,5 +1,5 @@
 ---
-title: Chad — digital transformation and data governance status report
+title: Chad: status report
 compiled: 2026-09-05
 place: TCD
 region: XCA

@@ -1,5 +1,5 @@
 ---
-title: Nigeria — digital transformation and data governance status report
+title: Nigeria: status report
 compiled: 2026-09-08
 place: NGA
 region: XWA

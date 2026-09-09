@@ -1,13 +1,13 @@
 ---
-title: Training and skills — monthly update, August 2026
-compiled: 2026-09-08
+title: Training and skills — monthly update, August – September 2026
+compiled: 2026-09-09
 period: 2026-08-01 to 2026-09-08
 subject: capacity.training
 places: AGO; BEN; BDI; CMR; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: a2098416a37e
+record: ce31a4c24383
 ---
 
-# Training and skills: monthly update, August 2026
+# Training and skills: monthly update, August – September 2026
 
 *42 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 

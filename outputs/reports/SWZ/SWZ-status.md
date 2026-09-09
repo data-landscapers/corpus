@@ -1,5 +1,5 @@
 ---
-title: Eswatini — digital transformation and data governance status report
+title: Eswatini: status report
 compiled: 2026-09-01
 place: SWZ
 region: XSA

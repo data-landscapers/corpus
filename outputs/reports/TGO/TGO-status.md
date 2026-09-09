@@ -1,5 +1,5 @@
 ---
-title: Togo — digital transformation and data governance status report
+title: Togo: status report
 compiled: 2026-09-06
 place: TGO
 region: XWA

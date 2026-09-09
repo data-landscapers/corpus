@@ -1,5 +1,5 @@
 ---
-title: DR Congo — digital transformation and data governance status report
+title: DR Congo: status report
 compiled: 2026-09-08
 place: COD
 region: XCA

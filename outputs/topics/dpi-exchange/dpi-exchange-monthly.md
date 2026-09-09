@@ -1,13 +1,13 @@
 ---
-title: Data Exchange — monthly update, August 2026
-compiled: 2026-09-08
+title: Data Exchange — monthly update, August – September 2026
+compiled: 2026-09-09
 period: 2026-08-01 to 2026-09-08
 subject: dpi.exchange
 places: DZA; AGO; BEN; BFA; CMR; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: c99f3557e46e
+record: 09315887bec9
 ---
 
-# Data Exchange: monthly update, August 2026
+# Data Exchange: monthly update, August – September 2026
 
 *43 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 

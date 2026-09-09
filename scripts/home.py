@@ -548,14 +548,6 @@ TOPICS_TEMPLATE = """<!DOCTYPE html>
 
 {chrome}
 
-  <div class="stat-bar">
-    <div class="stat-bar__inner">
-      <span class="stat-bar__label">Primary sources in corpus</span>
-      <span class="stat-bar__item">Total <strong>{docs}</strong></span>
-      <span class="stat-bar__item">Subjects tracked <strong>{ntopics}</strong></span>
-    </div>
-  </div>
-
   <main id="main">
   <div class="container">
 
@@ -570,7 +562,7 @@ TOPICS_TEMPLATE = """<!DOCTYPE html>
       <strong>About this page</strong>
       <dl>
         <dt>Built</dt><dd class="mono">{built}</dd>
-        <dt>Vocabulary</dt><dd class="mono">lookups/taxonomy.csv</dd>
+        <dt>Vocabulary</dt><dd><a href="{base}/methodology/lookups/#topics">{base}/methodology/lookups/#topics</a></dd>
         <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></dd>
       </dl>
     </div>
@@ -593,9 +585,12 @@ def build_topics() -> Path:
     folders `topic-page.py` builds, so `/topics/` resolves and every
     `/topics/{slug}/` goes on resolving beneath it. `ntopics` counts the
     taxonomy rather than the catalogue's distinct topics: the page prints a box
-    per subject in the file, so the number in the stat bar and the number of
-    boxes are the same number, which they were not while one counted what had
-    been tagged."""
+    per subject in the file, so the count in the page description and the number
+    of boxes are the same number, which they were not while one counted what had
+    been tagged.
+
+    **The stat bar came off on 2026-09-09** *(Bill)*. Two totals over a page whose
+    whole content is the same counts, broken out by subject."""
     s = load_stats()
     built = date.today().isoformat()
     ntopics = len(taxonomy_lib.keys())
@@ -604,7 +599,7 @@ def build_topics() -> Path:
         favicon=f"{MAIN_SITE}/assets/favicon.svg",
         chrome=chrome("topics", depth=1), foot=foot(depth=1),
         styles=styles(1, "home.css"), ga=ga(),
-        docs=f"{s['documents']:,}", ntopics=ntopics,
+        ntopics=ntopics,
         topics=topic_grid(s["by_topic"]),
         topics_intro=copy_inline("home", "topics-intro"),
         topics_caveat=copy_inline("topics", "caveat", n=f"{ntopics}"),

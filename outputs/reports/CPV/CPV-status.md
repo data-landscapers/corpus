@@ -1,5 +1,5 @@
 ---
-title: Cape Verde — digital transformation and data governance status report
+title: Cape Verde: status report
 compiled: 2026-09-08
 place: CPV
 region: XWA

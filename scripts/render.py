@@ -48,8 +48,6 @@ SITE = CORPUS / "site"
 SITE_BASE = "https://corpus.data-landscapers.io"
 MAIN_SITE = "https://data-landscapers.io"
 LICENCE, LICENCE_URL = "CC BY 4.0", "https://creativecommons.org/licenses/by/4.0/"
-ORG = "Bill Anderson / Data Landscapers Ltd"
-COMPANY = "Registered in the UK · Co. No. 16040544"
 
 # The small-caps kicker above the title. **The bulletin has none** *(Bill, 2026-08-21)*: it read
 # "DAILY BULLETIN" above a title reading "Bulletin", which is the same word twice and a claim
@@ -230,7 +228,7 @@ def badge_class(text: str, vocab=BADGE) -> str:
 
 
 def classify_table(headers: list[str]) -> str:
-    """A report holds three shapes of table, told apart by their header row.
+    """A report holds four shapes of table, told apart by their header row.
 
     The ledgers are `System or instrument | Status | As at`. The region progress
     report's movement tables are `System or instrument | At <date> |
@@ -252,6 +250,15 @@ def classify_table(headers: list[str]) -> str:
     # different widths — the Developments cell carries prose and the row's expander.
     if len(headers) == 4 and headers[3].startswith("progress"):
         return "indicator"
+    # The topic progress report's own shape, `Country | Developments | Progress` — the same
+    # indicator frame sliced by subject rather than by place, so the same vocabulary and the
+    # same badges *(Bill, 2026-09-09)*. It fell through to `gaps` while the test was the
+    # four-column one, which is why the Progress column printed as plain text on
+    # `/topics/` and as a coloured badge on the country report it was lifted from. A class
+    # of its own rather than `indicator`: the widths are keyed on `nth-child` and there is
+    # one column fewer.
+    if len(headers) == 3 and headers[2].startswith("progress"):
+        return "topic-progress"
     return "gaps"
 
 
@@ -272,6 +279,8 @@ def style_tables(html: str) -> str:
             return badge_rows(table, col=3, vocab=BADGE_MOVEMENT)
         if cls == "indicator":
             return badge_rows(table, col=3, vocab=BADGE_PROGRESS, split_qualifier=True)
+        if cls == "topic-progress":
+            return badge_rows(table, col=2, vocab=BADGE_PROGRESS, split_qualifier=True)
         return table
 
     return re.sub(r"<table>.*?</table>", do_table, html, flags=re.S)
@@ -467,10 +476,13 @@ TEMPLATE = """<!DOCTYPE html>
 """
 
 
-# The two standing notes live in `content/document.md` now (Bill, 2026-08-19): they are
-# reader-facing prose, they appear on every document rendered, and they were the least
-# reachable text on the site for the person whose job is to revise them.
-REPORT_NOTES = copy("document", "report-notes")
+# The bulletin's standing note lives in `content/document.md` (Bill, 2026-08-19): it is
+# reader-facing prose, it appears on every bulletin rendered, and it was the least reachable
+# text on the site for the person whose job is to revise it.
+#
+# **The reports' two paragraphs came off on 2026-09-09** *(Bill)*. They said that figures are
+# dated and that a dated edition is not revised — both of which the document already says, in
+# the byline, in the Edition row and on every dated figure — several hundred times over.
 BULLETIN_NOTES = copy("document", "bulletin-notes")
 
 
@@ -595,7 +607,7 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
     url_html = (f"{SITE_BASE}/{rel}/" if stem_html == "index"
                 else f"{SITE_BASE}/{rel_html}.html")
 
-    rows, not_held = meta.get("ledger_rows", ""), meta.get("not_held", "")
+    not_held = meta.get("not_held", "")
     # A document may state its own byline — the bulletin does, since the window is the one thing a
     # reader needs from the header and no ledger count describes it.
     # **The byline says who compiled it and from what, and no longer counts what is missing**
@@ -610,11 +622,14 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
     # the Data Landscapers source base", which named a thing a reader cannot inspect and said
     # nothing about how the document came to exist. The new line is the disclosure: a model wrote
     # it, over this repository's own holdings, and the catalogue beside it is the list of those
-    # holdings. `ledger_rows` still fills the count where a document carries one.
+    # holdings.
+    #
+    # **The ledger count came off the byline too** *(Bill, 2026-09-09)*. `{ledger_rows} systems and
+    # instruments tracked` opened the monthly and the progress report on a number, where the status
+    # report — which carries the same field — already opened on the disclosure. One byline for every
+    # document, and the counts stay in the document, where they can be seen rather than asserted.
     subtitle = meta.get("subtitle") or (
-        f"{rows} systems and instruments tracked" if rows
-        else "compiled by Claude Opus from the documents in the Corpus repository"
-    )
+        "compiled by Claude Opus from the documents in the Corpus repository")
 
     # **The colophon names the file, and the byline names the clock** *(Bill, 2026-08-21, second
     # ruling)*. The bulletin's Edition row briefly showed `compiled:` to the minute, so that a
@@ -642,11 +657,14 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
     # edit, so the header takes a modifier class and `report.css` turns the border off for it.
     header_mod = " article-header--bulletin" if kind == "bulletin" else ""
 
-    # Which nav item lights up. A bulletin is its own item; a country or region report
-    # belongs under Countries, and everything else under no item at all rather than a
-    # wrong one — `chrome()` matches this against its labels and marks nothing if it
-    # does not recognise it.
-    nav_active = "bulletin" if kind == "bulletin" else "countries"
+    # Which nav item lights up. A bulletin is its own item; a country or region report belongs
+    # under Countries & Regions and a topic report under Topics — **read off the tree the
+    # document was authored in** *(Bill, 2026-09-09)*, not off its kind, which cannot tell a
+    # country's monthly from a subject's. Anything else lights nothing rather than the wrong
+    # thing: `chrome()` matches this against its labels and marks nothing it does not recognise.
+    nav_active = ("bulletin" if kind == "bulletin"
+                  else "topics" if tree_of(md_path) == "topics"
+                  else "countries")
 
     # The stylesheet set and the site chrome both come from `chrome_lib` — the same
     # `main.css` + `corpus.css` + page-type sheet every other page loads, and the same
@@ -710,13 +728,12 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
         download = ""
         colophon_rows = f"          <dt>This file</dt><dd>{url_html}</dd>"
 
-    # **`Current edition` comes off the bulletin** *(Bill, 2026-08-21)*. On a report it points a
-    # reader holding a dated PDF at the live page, which is the whole reason the row exists. The
-    # bulletin has one page, that page is the current edition, and the row printed its own
-    # address back at whoever was already on it.
-    current_row = ("" if kind == "bulletin" else
-                   f'          <dt>Current edition</dt>'
-                   f'<dd><a href="{url_html}">{url_html}</a></dd>\n')
+    # **`Current edition` comes off every document** *(Bill, 2026-09-09)*. It came off the bulletin
+    # on 2026-08-21 because the row printed its own address back at whoever was already on it; the
+    # same is true of a report read on the web, which is how a report is read. `This file` below
+    # names the PDF, which is the only copy that can go stale in a reader's hands, and the byline
+    # dates it. So the row is gone, and `current_row` now carries the bulletin's own rows alone.
+    current_row = ""
 
     # **The retention promise goes on the PDF, not only on the page** (`bulletin-archive.md`).
     # A reader who downloads the file may never see the page it came from, and §9's commitment
@@ -746,7 +763,7 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
         page_script=page_script,
         byline=byline,
         edition_display=edition_display,
-        colophon_notes=BULLETIN_NOTES if kind == "bulletin" else REPORT_NOTES,
+        colophon_notes=BULLETIN_NOTES if kind == "bulletin" else "",
         description=(f"{kind_label} — {title}. Edition of {edition_display}." if kind_label
                      else f"{title}: {subtitle}"),
         short_title=h1 or title,
@@ -759,7 +776,7 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
         permalink_html=url_html,
         current_url=url_html,
         licence=LICENCE, licence_url=LICENCE_URL,
-        org=ORG, company=COMPANY, main_site=MAIN_SITE,
+        main_site=MAIN_SITE,
         site_base=SITE_BASE, year=edition[:4],
         record=rec,
     )
@@ -851,6 +868,16 @@ def render(md_path: Path, out_dir: Path, edition: str | None = None,
     if held is not None:
         html_path = out_dir / f"{stem_html_of(md_path)}.html"
         pdf_path = out_dir / f"{md_path.stem}-{held}.pdf" if pdf else None
+        # **A missing PDF is the normal state under `--repage`, not a repair** *(2026-09-09)*.
+        # Since the editions moved to R2 (RENDER.md Step 6b), `--prune-local` deletes every
+        # dated PDF from the tree once the bucket has it — so by the next render there is no
+        # local file for the test below to find, and every `--repage` fell through to the
+        # repair branch and re-cut the PDF it is defined never to touch. Under today's
+        # stylesheet, over a published name: exactly the revision §9 forbids, on the one flag
+        # written to avoid it. `--repage` therefore drops the PDF here and returns the page
+        # alone; the row and the download link still name the file, because R2 is serving it.
+        if repage and pdf_path is not None and not pdf_path.exists():
+            pdf_path = None
         if pdf_path is None or pdf_path.exists():
             if is_bulletin or repage:
                 # The page is refreshed so the byline is current; the edition passed in is the

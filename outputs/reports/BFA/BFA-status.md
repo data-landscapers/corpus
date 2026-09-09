@@ -1,5 +1,5 @@
 ---
-title: Burkina Faso — digital transformation and data governance status report
+title: Burkina Faso: status report
 compiled: 2026-09-08
 place: BFA
 region: XWA

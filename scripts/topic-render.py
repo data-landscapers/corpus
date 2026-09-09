@@ -62,9 +62,6 @@ ROOT = vault_lib.ROOT
 REPORTS = os.path.join(ROOT, "outputs", "reports")
 TOPICS = os.path.join(ROOT, "outputs", "topics")
 
-MONTHS = ("January", "February", "March", "April", "May", "June",
-          "July", "August", "September", "October", "November", "December")
-
 PLACEHOLDER = "_(narrative not yet written)_"
 
 
@@ -171,10 +168,22 @@ def period_of(texts):
     return f"{min(starts)} to {max(closes)}", False
 
 
-def month_label(period):
-    """`2026-07-01 to 2026-08-14` -> `July 2026` — the month a monthly window opens in."""
-    m = re.match(r"(\d{4})-(\d{2})", period or "")
-    return f"{MONTHS[int(m.group(2)) - 1]} {m.group(1)}" if m else (period or "")
+def span_label(period):
+    """`2025-09-01 to 2026-09-08` -> `September 2025 – September 2026`; a window inside one month
+    gives that month alone.
+
+    **The same label the place reports carry** *(Bill, 2026-09-09)*. This was `month_label`, which
+    printed the month a window *opened* in and nothing else: a topic monthly covering the same
+    2026-08-01 to 2026-09-08 window as the country monthlies it is lifted from was headed "August
+    2026" where every one of them said "August – September 2026", and the topic progress report
+    was headed with the raw ISO period, "2025-09-01 to 2026-09-08", because it had no label
+    function at all. `rr.month_span` is the country reports' own, so the two cannot now disagree.
+    """
+    parts = (period or "").split(" to ")
+    try:
+        return rr.month_span(parts[0], parts[-1])
+    except (ValueError, IndexError):
+        return period or ""
 
 
 def build_monthly(subject, label, today):
@@ -188,7 +197,7 @@ def build_monthly(subject, label, today):
     places = [u for u, _ in carried]
     out = [
         "---",
-        f"title: {label} — monthly update, {month_label(period)}",
+        f"title: {label} — monthly update, {span_label(period)}",
         f"compiled: {today}",
         f"period: {period}",
         f"subject: {subject}",
@@ -196,7 +205,7 @@ def build_monthly(subject, label, today):
         rr.PENDING,
         "---",
         "",
-        f"# {label}: monthly update, {month_label(period)}",
+        f"# {label}: monthly update, {span_label(period)}",
         "",
         f"*{len(places)} places. Every block below is carried verbatim from that place's own "
         f"monthly update, where it was written, sourced and checked; nothing is written here.*",
@@ -247,7 +256,7 @@ def build_progress(subject, label, today):
     period, one_window = period_of([texts[u] for u in places])
     out = [
         "---",
-        f"title: {label} — progress report, {period}",
+        f"title: {label} — progress report, {span_label(period)}",
         f"compiled: {today}",
         f"period: {period}",
         f"subject: {subject}",
@@ -255,7 +264,7 @@ def build_progress(subject, label, today):
         rr.PENDING,
         "---",
         "",
-        f"# {label}: progress report, {period}",
+        f"# {label}: progress report, {span_label(period)}",
         "",
         f"*{len(places)} countries. Each row below is carried verbatim from that country's own "
         f"progress report, which answers a fixed frame of indicators over the period; nothing is "

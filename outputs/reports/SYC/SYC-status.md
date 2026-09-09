@@ -1,5 +1,5 @@
 ---
-title: Seychelles — digital transformation and data governance status report
+title: Seychelles: status report
 compiled: 2026-09-06
 place: SYC
 region: XEA

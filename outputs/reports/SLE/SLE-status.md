@@ -1,5 +1,5 @@
 ---
-title: Sierra Leone — digital transformation and data governance status report
+title: Sierra Leone: status report
 compiled: 2026-09-06
 place: SLE
 region: XWA

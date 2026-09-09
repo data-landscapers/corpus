@@ -1,5 +1,5 @@
 ---
-title: Lesotho — digital transformation and data governance status report
+title: Lesotho: status report
 compiled: 2026-09-08
 place: LSO
 region: XSA

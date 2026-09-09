@@ -1,5 +1,5 @@
 ---
-title: Somalia — digital transformation and data governance status report
+title: Somalia: status report
 compiled: 2026-09-03
 place: SOM
 region: XEA
