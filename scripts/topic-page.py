@@ -81,19 +81,21 @@ def period_label(kind: str, period: str) -> str:
 
 
 def edition_pdf(folder: Path, stem: str) -> str:
-    """The newest dated PDF for this document, or "".
+    """The dated PDF this document's page is offering, or "".
 
-    Read off the directory rather than computed from today: the PDF is retained edition over
-    edition and the newest one is whatever the last render actually cut, which is not necessarily
-    today — a document that did not change is not re-rendered and keeps the edition it has.
+    **Read off the rendered page, not off the directory** *(2026-09-09)*. This globbed
+    `{stem}-20*.pdf` and took the newest by `editions.py`'s ordering, which was right while the
+    dated file was in the tree. Since the editions moved to R2 on 2026-09-08 and
+    `--prune-local` deletes the local copy, the glob matches nothing on any document that was
+    not re-cut by the run in progress — so a topic whose documents had not moved would have
+    silently lost its download links. `country.py` had the identical fault and lost its whole
+    Reports section to it.
 
-    **Newest by `editions.py`'s ordering, not by filename** *(2026-08-18)*. Sorting the names and
-    taking the last was right until §9's same-day `-2` suffix existed, and then quietly wrong in
-    the one case it matters: `-2026-08-18-2.pdf` sorts *before* `-2026-08-18.pdf`, because `-`
-    precedes `.`, so the newer edition of the two would never be the one offered."""
-    dated = [(editions.edition_key(editions.edition_of(p.stem) or ""), p.name)
-             for p in folder.glob(f"{stem}-20*.pdf")]
-    return max(dated)[1] if dated else ""
+    The page carries the edition it was cut with in `data-edition`, is never pruned, and is
+    written by the same run that cut the PDF; the filename follows from it by `render.py`'s
+    own naming, and the Worker serves it from the bucket at that path."""
+    edition = editions.edition_on_page(folder / f"{stem}.html")
+    return f"{stem}-{edition}.pdf" if edition else ""
 
 
 def document_rows(slug_path: str) -> str:

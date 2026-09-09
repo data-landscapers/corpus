@@ -96,6 +96,33 @@ def next_edition(out_dir: Path, stem: str, today: str, ext: str = ".pdf") -> str
     return f"{today}-{n}"
 
 
+# The edition a rendered page is offering, written into its byline by `render.py`.
+PAGE_EDITION = re.compile(r'data-edition="([^"]+)"')
+
+
+def edition_on_page(html_path: Path) -> str | None:
+    """The edition a rendered document is currently offering, read off the page.
+
+    **The dated file is no longer on disk to be looked at** *(2026-09-09)*. Every builder that
+    needed to know which edition was current used to glob the directory for the newest dated
+    PDF, on the premise this module states above — *the retained artefacts are the record of
+    which names are spoken for*. That premise held until 2026-09-08, when the editions moved to
+    R2 and `r2-sync.py --prune-local` began deleting the local copy once the bucket had it.
+    From then on the glob matched nothing on any document that had not just been re-cut, and
+    the consumer failed silently in whatever way was natural to it: `country.py` printed *No
+    reports are yet published for this place* on all 62 place pages.
+
+    The page is the right thing to ask, and it is the only local artefact that survives a
+    prune: `render.py` writes the edition it cut into the byline as `data-edition`, the HTML
+    is rewritten on every render and is never pruned, and it is by construction the edition
+    the page's own download link names. `render.py` already reads it back this way for its
+    content gate — this is that read, shared."""
+    if not html_path.exists():
+        return None
+    m = PAGE_EDITION.search(html_path.read_text(encoding="utf-8"))
+    return m.group(1) if m else None
+
+
 def retire_undated(out_dir: Path, stem: str, ext: str) -> Path | None:
     """Remove the undated predecessor of a now-dated artefact. Returns it, or None.
 

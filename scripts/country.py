@@ -177,42 +177,34 @@ def publish_finance_csvs(iso: str, out_dir: Path, cols: list[str]) -> dict[str, 
 
 
 def report_editions(iso: str) -> list[dict]:
-    """The published editions, read off the *PDF* filenames — the PDF is the
-    dated artefact (`render.py`, 2026-08-11), so it is the one whose name
-    tells a reader which edition is current. The HTML link is derived from
-    it by dropping the trailing `-{edition}`, which is exactly how `render.py`
-    names the undated permalink. Only the newest edition of each kind is
-    offered; earlier PDFs stay on disk (retained editions, §9) but are not
-    linked from the country page.
+    """The published editions, read off each rendered page's own byline.
 
-    **The edition is parsed and ordered by `editions.py`** *(2026-08-18)*.
-    This used to take the last three hyphen-separated parts of the stem and sort the strings,
-    which was right for exactly one filename grammar: §9's same-day `-2` suffix reads as
-    `08-18-2` under that rule, and sorts wrong under it too. A country page that offers a
-    superseded PDF looks completely normal, so this could only ever have been found by reading
-    it."""
-    found: dict[str, list[tuple[str, str, str]]] = {}
-    for f in sorted((SITE / "reports" / iso).glob(f"{iso}-*.pdf")):
-        parts = f.stem.split("-")
-        edition = editions.edition_of(f.stem)
-        if len(parts) < 2 or edition is None:
-            continue
-        kind = parts[1]
-        # The HTML permalink is {iso}-{kind}.html, with no period — it is always
-        # the current document (render.py, Bill 2026-08-13). Deriving it by
-        # stripping the edition off the PDF stem used to leave the period in
-        # (`AGO-monthly-2026-07.html`) and would now link to a file that no
-        # longer exists.
-        found.setdefault(kind, []).append((edition, f.name, f"{iso}-{kind}.html"))
+    **Read off the page, not off the PDF on disk** *(2026-09-09)*. This globbed
+    `site/reports/{iso}/{iso}-*.pdf` and took the newest, on the premise that the retained
+    artefact is the record of what is published. That stopped being true on 2026-09-08, when
+    the editions moved to R2 and `--prune-local` began deleting the local copy: from the first
+    render in which a document was not re-cut, the glob matched nothing and this returned an
+    empty list — so every country and region page printed *No reports are yet published for
+    this place* while all three reports sat rendered in the directory next to it.
+
+    The HTML is never pruned and carries the edition it is offering in `data-edition`, so it
+    answers the same question and cannot go missing. `editions.edition_on_page` is the read,
+    shared with `topic-page.py`, which had the identical fault.
+
+    The PDF name is derived rather than looked up: `render.py` names it
+    `{unit}-{kind}-{edition}.pdf` and the Worker serves it from the bucket at the path it had
+    under `site/`, so the link resolves whether or not the file is in the tree. The HTML
+    permalink carries no edition — it is always the current document (Bill, 2026-08-13)."""
     rows = []
     for kind in ("status", "monthly", "progress"):
-        if kind not in found:
+        html_name = f"{iso}-{kind}.html"
+        edition = editions.edition_on_page(SITE / "reports" / iso / html_name)
+        if edition is None:
             continue
-        edition, pdf_name, html_name = max(found[kind],
-                                           key=lambda row: editions.edition_key(row[0]))
         rows.append({
             "kind": kind, "label": KIND[kind][0], "blurb": KIND[kind][1],
-            "edition": edition, "html": html_name, "pdf": pdf_name,
+            "edition": edition, "html": html_name,
+            "pdf": f"{iso}-{kind}-{edition}.pdf",
         })
     return rows
 
