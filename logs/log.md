@@ -48,6 +48,7 @@ title: Corpus process log
 
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 <!-- newest first: a new entry goes directly below this line -->
+2026-09-09 22:41 · build · 32m · catalogue 20,615, finance 1,865 deals, 26 units and 79 sources read, 26 rows minted and 30 moved, EGY IXP and MAR AI roadmap leave gaps.csv, register floor 91 to 79, bulletin 95 items - ok
 2026-09-09 22:09 · notes · unclocked · note 26 closed: the daily window on both methodology pages is one high-water window, not 48 or 36 hours
 2026-09-09 15:10 · methodology · 35m · Process inventory reviewed against the week: r2-sync row added, region.py and methodology.py added to the publishing row, title index named beside the names index, deploy row now describes two hosts. Intersections 599 -> 1,049, monthly intake 2,000 -> 5,000
 2026-09-09 14:38 · catalogue · 40m · url_note out of the download too - a lint's working note in a column of facts about the document; downloads carry ten columns. Whole-catalogue CSV now says 'Downloading, please wait' and swallows a second click
