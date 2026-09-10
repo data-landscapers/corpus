@@ -3,13 +3,13 @@ title: Research institutions — monthly update, August – September 2026
 compiled: 2026-09-10
 period: 2026-08-01 to 2026-09-10
 subject: capacity.research
-places: CAF; COM; COG; CIV; COD; EGY; ETH; GHA; KEN; LBY; MOZ; NER; RWA; SLE; ZAF; TZA; UGA
-record: ca6e656136ae
+places: CAF; COM; COG; CIV; COD; EGY; ETH; GHA; KEN; LBY; MAR; MOZ; NER; RWA; SLE; ZAF; TZA; UGA
+record: b52e8c3fe46b
 ---
 
 # Research institutions: monthly update, August – September 2026
 
-*17 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*18 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -54,6 +54,10 @@ The base gained its first account of a named Kenyan data-science career, a [data
 ## Libya
 
 On 4 August the Libyan Authority for Scientific Research's scientific committee [approved an integrated cloud platform for higher education and scientific research](https://www.lananews.com/ar/?p=499199), described in the authority's own account as using Microsoft 365.
+
+## Morocco
+
+Two published outputs show what the university departments are working on, neither of them adopted by anyone. Researchers at two universities built an [electronic voting model combining biometric verification of the voter, blockchain and the ability to keep working where connectivity is weak or absent, tested in a field trial with 300 participants and published on 4 September in a peer-reviewed cybersecurity journal](https://www.hespress.com/%d8%aa%d8%ac%d8%b1%d8%a8%d8%a9-%d9%85%d8%ba%d8%b1%d8%a8%d9%8a%d8%a9-%d9%84%d9%84%d8%aa%d8%b5%d9%88%d9%8a%d8%aa-%d8%a7%d9%84%d8%b1%d9%82%d9%85%d9%8a-%d8%aa%d8%ac%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b9-1802990.html). It is a research platform, not an electoral system the authorities have taken up. Separately a scientific review available from 1 September records an [expansion of Moroccan research applying artificial intelligence to drought, water scarcity and rising temperatures, across water, agriculture, energy, cities and natural hazards](https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%8a%d9%88%d8%b3%d8%b9-%d8%a3%d8%a8%d8%ad%d8%a7%d8%ab-%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a-%d9%84%d9%85-1804454.html). Neither account carries a paper count, a funding figure or any record of operational adoption.
 
 ## Mozambique
 

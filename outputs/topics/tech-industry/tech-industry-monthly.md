@@ -3,13 +3,13 @@ title: ICT Industry — monthly update, August – September 2026
 compiled: 2026-09-10
 period: 2026-08-01 to 2026-09-10
 subject: tech.industry
-places: DZA; AGO; BWA; EGY; GNQ; SWZ; GAB; GHA; MUS; MAR; NER; NGA; SEN; ZAF; SDN; TZA; TGO; ZMB; ZWE
-record: 362256d62d79
+places: DZA; AGO; BWA; EGY; GNQ; SWZ; GAB; GHA; KEN; MUS; MAR; NER; NGA; SEN; ZAF; SDN; TZA; TGO; UGA; ZMB; ZWE
+record: f0462f7ba53e
 ---
 
 # ICT Industry: monthly update, August – September 2026
 
-*19 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*21 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -48,6 +48,10 @@ A ride-hailing platform [began recruiting drivers at Libreville in partnership w
 ## Ghana
 
 On 27 July a company filed a writ claiming authorship of the 2007 design of the dominant mobile-money platform; the operator answered on 31 July that the claims are without merit and it will contest fully.
+
+## Kenya
+
+The month's movement in the sector was a fibre operator saying it intends to stop selling fibre. The Kenyan business of a pan-African backbone owner [is repositioning from connectivity provider to a layered artificial-intelligence, cloud and cybersecurity business on top of its own network](https://techtrendske.co.ke/2026/09/10/interview-liquid-bets-on-ai-as-next-growth-frontier-for-africas-fibre-network/), its chief executive arguing on 10 September that connectivity becomes the foundation of digital infrastructure rather than the product. He [put Africa at 0.6% of world data-centre capacity](https://www.itweb.africa/article/interview-liquid-targets-africas-data-centre-gap/xA9POvNE2Gxqo4J8), the concern he said African telecom executives raise most. It is a stated strategy in two interviews at one conference: no revenue split, investment figure, capacity addition or service launch date accompanies it.
 
 ## Mauritius
 
@@ -91,6 +95,10 @@ One account of the trading economy the fintech count sits above reached the base
 ## Togo
 
 [Fuel marking and traceability began at Lome](https://togopresse.tg/commerce-illegal-des-hydrocarbures-le-processus-de-marquage-et-de-tracabilite-des-produits-petroliers-lance-au-togo/), the obligation having applied since 1 July: every litre through legal channels carries a molecular marker verifiable at depot, station and roadside, with sanctions running to seizure and closure. Neither the contract amendment nor the marking regulation is held, and no contract value, duration or data-ownership term is published.
+
+## Uganda
+
+One domestic firm passed into foreign ownership, and the consideration is not on the record. A Nigerian technology company [acquired a Ugandan banking-software firm, bringing every stage of credit — from verifying the borrower's identity to repayment — onto a single platform](https://www.wearetech.africa/fr/fils/breves/breves-simple/creditchek-rachete-algosys-pour-faciliter-le-credit-en-afrique-de-lest), the companies saying the combination lets African financial institutions assess loan applications faster and lend more readily. No price is disclosed, and no revenue, customer count, headcount or regulatory clearance is published for either party — so what left the country cannot be sized.
 
 ## Zambia
 

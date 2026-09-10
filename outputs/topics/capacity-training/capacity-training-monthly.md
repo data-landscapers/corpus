@@ -3,15 +3,19 @@ title: Training and skills — monthly update, August – September 2026
 compiled: 2026-09-10
 period: 2026-08-01 to 2026-09-10
 subject: capacity.training
-places: AGO; BEN; BDI; CMR; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: ad27a80f6ce9
+places: DZA; AGO; BEN; BDI; CMR; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 852ca9173504
 ---
 
 # Training and skills: monthly update, August – September 2026
 
-*42 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*43 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
+
+## Algeria
+
+One instruction, issued on a minister's social-media account rather than by circular. The higher education and scientific research minister directed the [five higher schools specialising in economics, finance and management to modernise their training and embed artificial intelligence, at a working meeting at the Kolea hub on 10 September](https://www.echoroukonline.com/%d8%a8%d8%af%d8%a7%d8%b1%d9%8a-%d9%8a%d8%a3%d9%85%d8%b1-%d8%a8%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d8%a7%d9%84%d8%aa%d9%83%d9%88%d9%8a%d9%86-%d9%88%d8%a5%d8%af%d8%b1%d8%a7%d8%ac-%d8%a7%d9%84%d8%b0%d9%83), saying the economy is a main engine for delivering the national development programme and that these institutions must train people able to understand economic change, support investment and create jobs. No curriculum, timetable, teaching capacity or funding is published, and the five schools are not named.
 
 ## Angola
 

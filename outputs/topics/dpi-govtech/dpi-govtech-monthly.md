@@ -3,13 +3,13 @@ title: Other GovTech and e-Gov — monthly update, August – September 2026
 compiled: 2026-09-10
 period: 2026-08-01 to 2026-09-10
 subject: dpi.govtech
-places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: a812fe063cd0
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: cd16609c1348
 ---
 
 # Other GovTech and e-Gov: monthly update, August – September 2026
 
-*48 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*49 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -257,6 +257,10 @@ The tax authority made the fiscal clearance certificate available online from 3 
 
 The agency's own account of the citizen portal names what it rests on: [the government network, the government cloud storage platform, state electronic payments and digital identity](https://pt.linkedin.com/posts/atdi-ip_atdi-apresenta-portal-do-cidad%C3%A3o-e-coloca-activity-7501551667520368640-SmSp). Which of those is actually in service behind it is not stated, and no service count beyond about 140, user figure or launch date accompanies the presentation — so the dependencies are published and their readiness is not.
 
+## Namibia
+
+One service moved online and the warning about it came from the people it is for. The health ministry launched a digital disability assessment system, and [disability advocates warned that poor rural connectivity, inadequate equipment and limited digital skills could turn it into a new barrier rather than remove one](https://www.namibian.com.na/digital-disability-system-faces-rural-roadblocks/), a youth disability organisation welcoming the digital shift but making its success conditional on whether the system is accessible beyond the major urban centres and on whether follow-up support exists. No launch date, site coverage, assessment volume, accessibility standard or offline fallback is published, and the ministry's own account of the system is not held.
+
 ## Nigeria
 
 The [Government Service Portal](https://www.biometricupdate.com/202607/nigeria-unveils-digital-govt-platform-for-unified-access-to-public-services) was soft-launched on 30 July as a single sign-on gateway built with Korean financing, piloted since 2025, [the Korean agency named as a delivery partner alongside the communications ministry](https://spacewatchafrica.com/galaxy-backbone-unveils-government-service-portal-to-simplify-access-to-public-services/). Behind the login it integrates with the national data exchange so agencies share citizen data rather than each re-collecting it. The lawful basis and the audit arrangements are unstated, and no published rule answers either.
@@ -283,7 +287,7 @@ The month's clearest movement is a removal rather than an addition. The tax auth
 
 Parliament's own systems entered the record for the first time, and only as a purchase order: on 5 August the United Nations development programme [opened a tender to supply IT equipment for the National Assembly's SIPOP system](https://www.developmentaid.org/tenders/view/1695673/acquisition-dequipements-informatiques-sipop). What that system does, what it costs and when it runs are all absent from the notice, which is the whole of what the base holds on it.
 
-A second single-window model was announced alongside the one already operating. The civil service minister, speaking in Baku, said the country [plans a single public services centre modelled on Azerbaijan's ASAN Khidmet within three to four months](https://www.trend.az/azerbaijan/society/4220630.html) — with no site, budget, service list, legal basis or stated relationship to the citizen single window that has been running passport, business-creation, police-clearance and nationality services since March. The constraint on delivering any of it outside the capital was named the same day: closing a tour of Louga, Saint-Louis, Dagana and Matam, the director of the state's deconcentrated service network [put connectivity as the absolute priority, on the ground that without it there is no dematerialisation at the service centres at all](https://www.socialnetlink.org/2026/09/04/senegal-services-isidore-diouf-erige-la-connectivite-en-priorite-absolue-pour-reussir-la-dematerialisation/).
+A second single-window model was announced alongside the one already operating. The civil service minister, speaking in Baku, said the country [plans a single public services centre modelled on Azerbaijan's ASAN Khidmet within three to four months](https://www.trend.az/azerbaijan/society/4220630.html) — with no site, budget, service list, legal basis or stated relationship to the citizen single window that has been running passport, business-creation, police-clearance and nationality services since March. The constraint on delivering any of it outside the capital was named the same day: closing a tour of Louga, Saint-Louis, Dagana and Matam, the director of the state's deconcentrated service network [put connectivity as the absolute priority, on the ground that without it there is no the removal of paper at the service centres at all](https://www.socialnetlink.org/2026/09/04/senegal-services-isidore-diouf-erige-la-connectivite-en-priorite-absolue-pour-reussir-la-the removal of paper/).
 
 ## Seychelles
 

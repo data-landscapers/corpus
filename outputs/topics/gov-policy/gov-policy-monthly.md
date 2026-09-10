@@ -3,15 +3,19 @@ title: Strategies, plans and policies — monthly update, August – September 2
 compiled: 2026-09-10
 period: 2026-08-01 to 2026-09-10
 subject: gov.policy
-places: BFA; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; GMB; GHA; GIN; GNB; KEN; LSO; LBY; MWI; MLI; MRT; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 47b86fa1fe55
+places: DZA; BFA; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; GMB; GHA; GIN; GNB; KEN; LSO; LBY; MWI; MLI; MRT; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 80953f8a7eb0
 ---
 
 # Strategies, plans and policies: monthly update, August – September 2026
 
-*40 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*41 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
+
+## Algeria
+
+Nothing moved on the 2030 strategy's own targets this month; what was published was a restatement of the vision behind them. State media described the transformation as [resting on data-protection and cybersecurity laws and on local infrastructure including national data centres, and as aimed at transparency in public management and at combating administrative malpractice](https://www.elmoudjahid.dz/fr/editorials/a-l-ere-du-tout-numerique-4195). It carries no target, budget or completion date, and sixteen months after the strategy was published the base still holds no delivery figure against any of its three headline targets.
 
 ## Burkina Faso
 

@@ -3,13 +3,13 @@ title: Digital Payments and Fintech — monthly update, August – September 202
 compiled: 2026-09-10
 period: 2026-08-01 to 2026-09-10
 subject: dpi.pay
-places: DZA; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: a33ab4926b59
+places: DZA; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 6c1dd887821d
 ---
 
 # Digital Payments and Fintech: monthly update, August – September 2026
 
-*42 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*43 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -152,6 +152,10 @@ On 25 July the central bank's expected banknote replacement cost for 2026 was re
 Two things moved in the regional rails above it. The regional clearing house [published the scheme rulebook for instant low-cost cross-border retail payments, with a gender audit and strategy to 2030 drawn from research along the corridor with Zambia](https://www.linkedin.com/posts/comesa-clearing-house_comesaclearinghouse-drpp-regionalintegration-activity-7492550470780182528-vX_W), giving the platform operational and governance rules it lacked. Separately a commercial bank and an international card scheme [opened online acceptance of that scheme's cards in nine African markets including Malawi on 19 August](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/); the merchant count is given for the nine together and not for Malawi.
 
 The same report gives the mobile-money platform its first published revenue line: [MK51.93bn in 2025, up 77 per cent, on a stated base of more than 140,000 active agents](https://malawi24.com/2026/08/24/can-tnms-mk30-87bn-investment-meet-demand/).
+
+## Mauritania
+
+A retrospective rather than an operator disclosure, and it is the base's first account of where the market came from. A state-owned bank's mobile service, [announced in late 2019 as the country's first fully mobile bank and launched in 2020, is credited with making the domestic digital payments market rather than entering a mature one](https://lequotidien.mr/?p=40492): opening an account from a phone, transferring and paying merchants were new to a wide part of the population, and transferring money by phone has since become a daily behaviour. The piece is a defence against complaints of faults and slowness, and it carries no user count, transaction volume, value, agent network or outage record — so what the service does now cannot be sized from it.
 
 ## Mauritius
 

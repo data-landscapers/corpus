@@ -3,13 +3,13 @@ title: Use of satellite data — monthly update, August – September 2026
 compiled: 2026-09-10
 period: 2026-08-01 to 2026-09-10
 subject: data.satellite
-places: BDI; COM; COG; CIV; COD; EGY; ERI; GHA; LBR; LBY; MLI; MOZ; NAM; NER; RWA; SLE; SOM; TZA; UGA; ZMB
-record: 2e50fad59819
+places: BDI; COM; COG; CIV; DJI; COD; EGY; ERI; GHA; LBR; LBY; MLI; MOZ; NAM; NER; RWA; SLE; SOM; TZA; UGA; ZMB
+record: cbc9a0121694
 ---
 
 # Use of satellite data: monthly update, August – September 2026
 
-*20 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*21 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -28,6 +28,10 @@ The national mapping institute began putting its own holdings into a usable form
 ## Cote d'Ivoire
 
 The national meteorological agency [signed a convention on 10 August with a private company combining artificial intelligence, satellite data, drones and georeferenced data to monitor farm holdings and anticipate weather-linked risk](https://sodexam.com/climat-et-agriculture-la-sodexam-et-jool-international-misent-sur-lintelligence-artificielle/). It is an agreement to develop solutions rather than a service: no product, value, timetable or user is named, and it is the second such convention the agency has signed this year.
+
+## Djibouti
+
+The month's movement was political rather than technical. The head of state [took part on 10 September in the second day of the first International Space Summit at the Grand Palais in Paris, convened at the French president's invitation and gathering delegations from more than 120 countries](https://www.lanation.dj/le-president-guelleh-au-sommet-international-sur-lespace-djibouti-defend-une-ambition-spatiale-au-service-du-developpement/), arguing for a space ambition serving development. State media used the occasion to set out the programme's own record since 2020: [first specialists trained, two nanosatellites designed and put into orbit, ground capacity developed and cooperation established with major French space institutions](https://www.lanation.dj/djibouti-a-la-conquete-de-lespace-un-pari-sur-la-science-la-souverainete-et-lavenir/). No satellite name, launch date, ground-station location, budget or data-use record accompanies the account, and the summit produced no commitment the base can read.
 
 ## DR Congo
 

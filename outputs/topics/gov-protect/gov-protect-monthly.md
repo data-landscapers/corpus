@@ -3,13 +3,13 @@ title: Data protection — monthly update, August – September 2026
 compiled: 2026-09-10
 period: 2026-08-01 to 2026-09-10
 subject: gov.protect
-places: AGO; BEN; BWA; BFA; CAF; DJI; COD; EGY; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LBR; MWI; MLI; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; UGA; ZMB; ZWE
-record: de21a9b85e33
+places: AGO; BEN; BWA; BFA; CPV; CAF; DJI; COD; EGY; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LBR; MWI; MLI; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; UGA; ZMB; ZWE
+record: db5db725dbf0
 ---
 
 # Data protection: monthly update, August – September 2026
 
-*35 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*36 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -34,6 +34,10 @@ The commencement instrument behind the data-protection regime is now held in ful
 On 3 August the legislature [voted the personal-data protection bill and the organic law creating a merged communications and data-protection authority](https://www.sidwaya.info/surete-aerienne-et-protection-des-donnees-a-caractere-personnel-lassemblee-legislative-du-peuple-adopte-les-projets-de-lois/). The new law prohibits and sanctions processing without consent, indexes administrative fines to turnover excluding tax and scales them by gravity, and prohibits transferring sensitive data abroad. The merged authority takes the data-protection commission's mandate and is given its own rule-making power with artificial intelligence named specifically. Neither text is held, neither is promulgated, and no commencement, seat or leadership is stated.
 
 The same 23 July sitting replaced the 2017 decree governing the non-profit register, fixing for the first time a retention period for that data after dissolution.
+
+## Cape Verde
+
+Oversight of the state's own intelligence capability moved by administrative act rather than statute, and the act is contested. The prime minister's [delegation of powers over the Republic's information service to the minister of internal administration was formalised by despacho no 15/2026 in the official gazette](https://www.anacao.cv/noticia/2026/09/08/servico-de-informacoes-da-republica-entre-a-defesa-do-estado-e-os-limites-da-democracia/), with the opposition calling it unconstitutional, the government invoking the delegation regime provided for in the Organic Law of the Government, and the President of the Republic declining to address it publicly after discussing it with the prime minister. The despacho text is not held, so whether the delegated powers reach communications interception or data access is not established here.
 
 ## Central African Republic
 

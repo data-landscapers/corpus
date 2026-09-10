@@ -3,13 +3,13 @@ title: AI — monthly update, August – September 2026
 compiled: 2026-09-10
 period: 2026-08-01 to 2026-09-10
 subject: tech.ai
-places: DZA; AGO; BEN; BFA; CMR; CAF; TCD; COM; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GHA; KEN; LBR; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 97045f318150
+places: DZA; AGO; BEN; BFA; BDI; CMR; CAF; TCD; COM; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GHA; KEN; LBR; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 851d698cb7ef
 ---
 
 # AI: monthly update, August – September 2026
 
-*38 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*40 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -34,6 +34,10 @@ A [four-country comparative study presented on 10 August found no AI-specific le
 Automated enforcement produced the month's only measurement of a system deciding for itself: [1,099 offences detected in the first twelve hours of operation](https://lefaso.net/spip.php?article148326), with no accuracy, contest route or false-positive figure beside it.
 
 Asked in plenary where artificial intelligence sat in the new data-protection law, the justice minister said it was [already integrated through the ban on transferring sensitive data abroad, with the national roadmap to become dedicated regulation later](https://www.sidwaya.info/surete-aerienne-et-protection-des-donnees-a-caractere-personnel-lassemblee-legislative-du-peuple-adopte-les-projets-de-lois/). No draft, timetable or scope for that regulation is on file.
+
+## Burundi
+
+The strategy went looking for money. The finance and budget minister carried its ambitions to the Korea-Africa economic cooperation ministerial in Seoul, [seeking the financing and partnerships to turn it into concrete projects](https://www.wearetech.africa/fr/fils/actualites/tech/intelligence-artificielle-a-seoul-le-burundi-presente-ses-ambitions), the account naming connectivity, data infrastructure and local skills as what the strategy validated in April provides for, against national digital capacity it describes as limited. No commitment, partner or project is reported as resulting, which leaves the strategy where the base already had it: adopted, unfunded and unimplemented.
 
 ## Cameroon
 
@@ -138,6 +142,10 @@ The artificial-intelligence strategy is being argued over before it is adopted. 
 On 1 August the Semaine du Numerique [recommended a national AI strategy](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html), which Mali does not have, alongside an AES protocol on AI governance. The [Centre d'intelligence artificielle et de robotique closed the week with a demonstration of a locally built intrusion-detection technology](https://lessor.ml/posts/semaine-du-numerique-notre-pays-veut-accelerer-sa-transformation-digitale-6a6e52f6dcfc0).
 
 Mali joined a regional framework rather than making one. Six francophone West African states [adopted common artificial-intelligence governance guidelines on 9 July, led by an advocacy organisation and announced at the Global Dialogue on AI Governance](https://www.wearetech.africa/en/fils-uk/news/tech/six-francophone-west-african-countries-unite-on-ai-governance-framework). The guidelines are non-binding and no Malian implementing instrument follows from them on the record.
+
+## Mauritania
+
+The month's artificial-intelligence record is a training room. The national meteorological authority [ran a two-day workshop in Nouakchott from 8 September for regional administrators and its own staff on an AI-based agricultural, hydrological and meteorological early warning system](https://www.ami.mr/archives/267828), to strengthen national capacity to forecast climate risks and reduce their effects on agriculture and water resources, and to equip regional staff to use AI techniques in processing and analysing meteorological data. Training on a platform is not the platform in service: no coverage, forecast product, accuracy measure, funder or operational start date is published.
 
 ## Mauritius
 
