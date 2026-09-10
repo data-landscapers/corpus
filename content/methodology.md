@@ -21,13 +21,14 @@ The aim of Corpus is to provide a fast-track information service for researchers
   Corpus is built by two networked machines.
 	- The first is responsible for data collection and classification. Its repository is private. 
 	- The second is responsible for summarising content and keeping reports and datasets up to date. Its repository is available at https://github.com/data-landscapers/corpus. 
+	- Each machine reviews the work of the other and automatically exchanges and implements actionable notes 
 - **Technology**
 	  - Search and fetch is managed by [Exa](https://exa.ai/)
 	  - Claude Code is responsible for running all other processes. It is run on Opus, with routine bulk work delegated to Sonnet.
 	  - All process instructions are written in markdown and managed by Obsidian
 ## Data collection
 
-The data collection machine runs a nightly sweep cycle which consists of a standard daily search and fetch and (currently) one of 3 focused searches that repeat every 3 days. Most of the searches are defined by lookup lists that can be altered without
+The data collection machine runs a nightly sweep cycle which consists of a standard daily search and fetch and (currently) one of 2 focused searches that repeat every second day. Most of the searches are defined by lookup lists that can be altered without
 
 - **Daily**
   Searches for items published in at least the past 24 hours, and back to the end of the previous run where that is longer, for:
@@ -35,24 +36,21 @@ The data collection machine runs a nightly sweep cycle which consists of a stand
 	- A general search for systems & infrastructure
 	- A general search for policy, governance & citizen feedback
 - **Day 1**
-  Searches for digital transformation items published since the last time this day was run for:
 	- A fixed list of [national newspapers](lookups/#national-newspapers)
 	- A fixed list of [academic journals](lookups/#academic-journals)
 	- A fixed list of [NGOs and think tanks](lookups/#ngos-and-think-tanks)
+	- A fixed list of [regional institutions](lookups/#regional-institutions) focusing on:
+		- Policy collaboration and coordination
+		- Legal harmonisation
+		- Shared infrastructure
 - **Day 2**
-  Non-state finance
 	- API extraction of newly published IATI activities
-	- Searches for digital transformation items published since the last time this day was run for a fixed list of [financiers](lookups/#financiers)
-- **Day 3**
-  Four separate deep searches for each country:
-	- Non-state finance
-	- Governance (institutions and instruments, excluding data exchange)
-	- Data exchange (content, not transport)
-	- Demand and political economy
-  Deep searches for regions and [regional institutions](lookups/#regional-institutions) focusing on:
-	- Policy collaboration and coordination
-	- Legal harmonisation
-	- Shared infrastructure
+	- A fixed list of [financiers](lookups/#financiers)
+	- Four separate deep searches for each country covering
+		- Non-state finance
+		- Governance (institutions and instruments, excluding data exchange)
+		- Data exchange (content, not transport)
+		- Demand and political economy
 
 ## What qualifies as a source
 
