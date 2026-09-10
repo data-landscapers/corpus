@@ -1,15 +1,15 @@
 ---
 title: Access to services — monthly update, August – September 2026
-compiled: 2026-09-09
-period: 2026-08-01 to 2026-09-09
+compiled: 2026-09-10
+period: 2026-08-01 to 2026-09-10
 subject: include.access
-places: DZA; AGO; BWA; BDI; CMR; CAF; COM; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GHA; KEN; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NAM; NER; NGA; STP; SEN; SYC; SLE; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: acde9cd572f7
+places: DZA; AGO; BWA; BDI; CMR; CAF; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GHA; KEN; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NAM; NER; NGA; STP; SEN; SYC; SLE; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 771b60f75df0
 ---
 
 # Access to services: monthly update, August – September 2026
 
-*39 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*40 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -46,6 +46,10 @@ It is the clearest instance on this ledger of a digital feedback channel reachin
 ## Comoros
 
 The justice ministry's site carries a [live contact form letting a citizen select a complaint as the object of a request, alongside administrative information, case follow-up and document access](https://justice.gouv.km/nous-contacter/); it was built under a French-financed justice project. It is the widest general-purpose citizen feedback channel in the base, and no response time, case count or escalation route is stated. The page is undated and is dated by the day it was retrieved.
+
+## Congo
+
+The state-control ministry publishes an [online channel for reporting irregularities in public administration](https://www.controle-etat.gouv.cg/signaler), taking reports of corruption, misappropriation of public funds, favouritism, poor service quality, unexplained absence of officials and excessive delay, under a stated confidentiality guarantee. The page carries no date of its own and no figure for reports received or resolved, so what the base holds is that the channel exists.
 
 ## Cote d'Ivoire
 

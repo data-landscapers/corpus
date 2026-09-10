@@ -1,11 +1,11 @@
 ---
 title: Congo — monthly update, August – September 2026
-compiled: 2026-09-08
-period: 2026-08-01 to 2026-09-08
+compiled: 2026-09-10
+period: 2026-08-01 to 2026-09-10
 place: COG
-ledger_rows: 22
+ledger_rows: 24
 not_held: 6
-record: 130676dd1e14
+record: 0519b04dfed0
 ---
 
 # Congo: monthly update, August – September 2026
@@ -106,6 +106,14 @@ A public-administration digitalisation task force [was gazetted on 6 August, as 
 
 <!-- narrative: capacity--capacity-research -->
 Researchers and faculty met in Brazzaville on 21 and 22 August to [set rules for the use of artificial intelligence in research](https://congotimes.com/2026/08/24/congos-researchers-confront-ais-real-limits/). No code, guideline text or adopting institution has come out of it yet.
+<!-- /narrative -->
+
+## Inclusion
+
+### Access to services
+
+<!-- narrative: inclusion--include-access -->
+The state-control ministry publishes an [online channel for reporting irregularities in public administration](https://www.controle-etat.gouv.cg/signaler), taking reports of corruption, misappropriation of public funds, favouritism, poor service quality, unexplained absence of officials and excessive delay, under a stated confidentiality guarantee. The page carries no date of its own and no figure for reports received or resolved, so what the base holds is that the channel exists.
 <!-- /narrative -->
 
 ## Data

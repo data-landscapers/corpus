@@ -72,6 +72,22 @@ def no_evidence(iso, pairs):
     return out
 
 
+def _reopened(iso: str):
+    """`report-scan.py --slugs {ISO}`, which reads the base and is authoritative."""
+    import subprocess
+    wr = CORPUS / "scripts" / ".workroot"
+    # Invoked by its path *inside* the workroot, not by the Corpus path: the script
+    # derives the base root from its own location, and the workroot's own `scripts`
+    # junction is what makes raw/ and wiki/ resolve. Passing the Corpus path with the
+    # workroot as cwd looks equivalent and is not.
+    out = subprocess.run([sys.executable, "scripts/report-scan.py", "--slugs", iso],
+                         cwd=wr, capture_output=True, text=True)
+    if out.returncode != 0:
+        raise SystemExit(f"reread-brief: report-scan failed for {iso}: "
+                         + out.stderr[-600:])
+    return [l.strip() for l in out.stdout.splitlines() if l.strip()]
+
+
 def notes():
     """slug -> (topics, published, note), read once over raw/."""
     out = {}
@@ -89,6 +105,15 @@ def brief(iso: str) -> int:
     considered = {l.strip() for l in (d / "considered.txt").read_text(
         encoding="utf-8").splitlines() if l.strip()}
 
+    # The reopened set comes from report-scan, never from the manifest. OSINT renames
+    # some files at ingest — 986 of 9,178 staged names match no slug in raw/ — so a
+    # staged name absent from considered.txt usually means the file is considered under
+    # a *different* name, not that it is outstanding. Matching the two by similarity was
+    # tried on 2026-09-10 and attached unrelated documents to indicators; it is wrong and
+    # is not to be reattempted. Where a staged name is not in the reopened set, the
+    # document is not this pass's work.
+    reopened = set(_reopened(iso))
+
     led = list(csv.DictReader((d / "ledger.csv").read_text(encoding="utf-8-sig").splitlines()))
     bysub = defaultdict(list)
     for r in led:
@@ -103,7 +128,7 @@ def brief(iso: str) -> int:
                 continue
             slug = os.path.basename(path)
             slug = slug[:-3] if slug.endswith(".md") else slug
-            if iid in empty and slug not in considered:
+            if iid in empty and slug in reopened:
                 staged[iid].append((slug, (r.get("brief") or "?").strip(),
                                     (r.get("published") or "").strip()))
 
