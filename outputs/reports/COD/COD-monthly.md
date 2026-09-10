@@ -1,11 +1,11 @@
 ---
 title: DR Congo — monthly update, August – September 2026
-compiled: 2026-09-09
-period: 2026-08-01 to 2026-09-09
+compiled: 2026-09-10
+period: 2026-08-01 to 2026-09-10
 place: COD
-ledger_rows: 63
+ledger_rows: 66
 not_held: 6
-record: 055267c29366
+record: 3b9be6fba04d
 ---
 
 # DR Congo: monthly update, August – September 2026
@@ -146,6 +146,14 @@ The revenue side of the digitisation put a number on itself. On a broadcast acco
 The month's only movement in government platforms was a procurement, and not the state's own: Belgium's development agency [opened a tender on 1 August for artificial-intelligence modules to be built into the national employment agency's platform](https://www.enabel.be/app/uploads/2026/08/COD22022-10116-CSC_PUB-1.pdf), for job matching aimed at youth unemployment, with offers due on 7 September. No contract value, award or delivery date is on record, and the digital government platform it would sit beside remains at Planned with its target already missed.
 <!-- /narrative -->
 
+## Digitalisation
+
+### Rural digital data capture
+
+<!-- narrative: digitalisation--digital-rural -->
+A three-week digital enrolment pilot in April [replaced paper forms with application-based capture across 20 primary schools in Kasai and registered 8,634 pupils, among them disabled and pregnant or mother students the paper system had not counted](https://corusinternational.org/fr/blog/2026/case-scaling-education-data-drc). Making the uncounted visible is what the trial was for; twenty schools is its whole extent, and no national rollout, device count or connectivity provision is published.
+<!-- /narrative -->
+
 ## Technology
 
 ### AI
@@ -176,6 +184,11 @@ The employment office launched a [portal and mobile application in July](https:/
 The digital economy ministry [opened the first of a planned series of five-day training sessions for 580 of its own agents and managers](https://actu7.cd/2026/08/24/le-ministere-de-leconomie-numerique-lance-la-premiere-session-de-formation-de-pres-de-600-agents-et-cadres-de-son-administration/) at the INPES in Kinshasa on 24 August 2026. No curriculum, completion target or budget line is published.
 
 The land ministry [closed a roughly month-long course for 50 conservators of property titles on 25 August, drawn from several provinces and run with the national school of administration as part of a capacity-building programme under the land reform](https://actualite.cd/2026/08/25/rdc-oneige-nsele-cloture-la-formation-de-50-conservateurs-des-titres-immobiliers-pour), setting it alongside archiving operations already running in seven pilot land districts of Kinshasa; no further wave or provincial timetable is stated.
+<!-- /narrative -->
+### Research institutions
+
+<!-- narrative: capacity--capacity-research -->
+The national university's transdisciplinary research programme [awarded its excellence prize on 29 August to a project building an artificial-intelligence and spatial-analysis decision-support tool for traffic governance in Kinshasa](https://www.unikin.ac.cd/prix-d-excellence-en-recherche-transdisciplinaire-ares-unikin). It is applied digital research produced inside a Congolese department rather than commissioned abroad. No domestic public funding line for digital or artificial-intelligence research is held.
 <!-- /narrative -->
 
 ## Inclusion

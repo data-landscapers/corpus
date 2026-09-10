@@ -3,13 +3,13 @@ title: Research institutions — monthly update, August – September 2026
 compiled: 2026-09-10
 period: 2026-08-01 to 2026-09-10
 subject: capacity.research
-places: CAF; COM; COG; CIV; EGY; ETH; GHA; KEN; LBY; MOZ; NER; RWA; SLE; ZAF; TZA; UGA
-record: 2bddf6029d80
+places: CAF; COM; COG; CIV; COD; EGY; ETH; GHA; KEN; LBY; MOZ; NER; RWA; SLE; ZAF; TZA; UGA
+record: ca6e656136ae
 ---
 
 # Research institutions: monthly update, August – September 2026
 
-*16 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*17 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -28,6 +28,10 @@ Researchers and faculty met in Brazzaville on 21 and 22 August to [set rules for
 ## Cote d'Ivoire
 
 The cyber agency and a technology school validated curricula for two cyber-security master's degrees on 28 July, with enrolment stated for the September 2026 academic year and no intake size or funding published.
+
+## DR Congo
+
+The national university's transdisciplinary research programme [awarded its excellence prize on 29 August to a project building an artificial-intelligence and spatial-analysis decision-support tool for traffic governance in Kinshasa](https://www.unikin.ac.cd/prix-d-excellence-en-recherche-transdisciplinaire-ares-unikin). It is applied digital research produced inside a Congolese department rather than commissioned abroad. No domestic public funding line for digital or artificial-intelligence research is held.
 
 ## Egypt
 
