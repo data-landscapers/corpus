@@ -33,7 +33,7 @@ from pathlib import Path
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import editions  # noqa: E402  — §9's filename grammar has one implementation
 import vault_lib  # noqa: E402
-from chrome_lib import chrome, external_links, foot, ga, styles  # noqa: E402
+from chrome_lib import chrome, external_links, feedback, foot, ga, styles  # noqa: E402
 from copy_lib import copy_inline  # noqa: E402
 
 CORPUS = Path(__file__).resolve().parent.parent
@@ -169,6 +169,7 @@ PAGE = """<!DOCTYPE html>
     <div class="crumb"><a href="{base}/topics/">Topics</a> &nbsp;/&nbsp; {crumb}</div>
 
     <div class="country-head">
+      {feedback}
       <h1>{title}</h1>
       <div class="country-head__meta">{meta}</div>
     </div>
@@ -201,6 +202,7 @@ def write(path: str, title: str, description: str, crumb: str, meta: str, body: 
     out_dir.mkdir(parents=True, exist_ok=True)
     dst = out_dir / "index.html"
     dst.write_text(external_links(PAGE.format(
+        feedback=feedback(title, f"{SITE_BASE}/topics/{path}/"),
         base=SITE_BASE, path=path, title=e(title), description=e(description),
         crumb=crumb, meta=meta, body=body,
         favicon=f"{MAIN_SITE}/assets/favicon.svg",

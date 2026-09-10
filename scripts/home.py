@@ -54,7 +54,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import taxonomy_lib  # noqa: E402
 from copy_lib import copy, copy_inline  # noqa: E402
-from chrome_lib import chrome, external_links, foot, ga, styles  # noqa: E402
+from chrome_lib import chrome, external_links, feedback, foot, ga, styles  # noqa: E402
 
 CORPUS = Path(__file__).resolve().parent.parent
 OUTPUTS = CORPUS / "outputs"
@@ -344,6 +344,7 @@ TEMPLATE = """<!DOCTYPE html>
   <div class="container">
 
     <div class="hero">
+      {feedback}
 {hero}
     </div>
 
@@ -437,6 +438,7 @@ COUNTRIES_TEMPLATE = """<!DOCTYPE html>
 
     <!-- h2, matching Regions below (Bill, 2026-09-02) — both are sections of one
          page, not a page title, so neither takes an h1. -->
+    {feedback}
     <h2 class="section-heading" id="countries">Countries</h2>
     <p class="section-intro">{countries_intro}</p>
     <div class="boxes">
@@ -491,6 +493,7 @@ def build_countries() -> Path:
     regional = sum(v for k, v in by_place.items() if k.startswith("X"))
     built = date.today().isoformat()
     doc = COUNTRIES_TEMPLATE.format(
+        feedback=feedback("Countries & Regions", f"{SITE_BASE}/countries/"),
         base=SITE_BASE, built=built,
         favicon=f"{MAIN_SITE}/assets/favicon.svg",
         chrome=chrome("countries", depth=1), foot=foot(depth=1),
@@ -546,6 +549,7 @@ TOPICS_TEMPLATE = """<!DOCTYPE html>
   <main id="main">
   <div class="container">
 
+    {feedback}
     <h1>Topics</h1>
     <p class="section-intro">{topics_intro}</p>
 
@@ -590,6 +594,7 @@ def build_topics() -> Path:
     built = date.today().isoformat()
     ntopics = len(taxonomy_lib.keys())
     doc = TOPICS_TEMPLATE.format(
+        feedback=feedback("Topics", f"{SITE_BASE}/topics/"),
         base=SITE_BASE, built=built,
         favicon=f"{MAIN_SITE}/assets/favicon.svg",
         chrome=chrome("topics", depth=1), foot=foot(depth=1),
@@ -619,6 +624,7 @@ def build() -> Path:
         bulletin=bulletin_section(),
         chrome=chrome(None, depth=0), foot=foot(depth=0),
         styles=styles(0, "home.css"), ga=ga(),
+        feedback=feedback("Corpus home", f"{SITE_BASE}/"),
         hero=copy("home", "hero"),
         progress_intro=copy_inline("home", "progress-intro"),
         countries_intro=copy_inline("home", "countries-intro"),

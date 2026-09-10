@@ -37,7 +37,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import editions  # noqa: E402  - one implementation of the edition grammar (§9)
 from copy_lib import copy  # noqa: E402
-from chrome_lib import chrome, external_links, foot, ga, script, styles  # noqa: E402
+from chrome_lib import chrome, external_links, feedback, foot, ga, script, styles  # noqa: E402
 
 CORPUS = Path(__file__).resolve().parent.parent
 OUTPUTS = CORPUS / "outputs"
@@ -143,6 +143,7 @@ PAGE = """<!DOCTYPE html>
   <div class="container container--wide">
 
     <div class="country-head">
+      {feedback}
       <h1>Finance</h1>
     </div>
 
@@ -224,6 +225,7 @@ def render(agg: dict, names: dict, csv_name: str, artefacts: str = "") -> str:
     labels = html.escape(json.dumps({"recipient_country": used}, ensure_ascii=False), quote=True)
     yr = f"{agg['year_min']}–{agg['year_max']}" if agg["year_min"] else "n/a"
     return PAGE.format(
+        feedback=feedback("Finance", f"{SITE_BASE}/finance/"),
         base=SITE_BASE, main=MAIN_SITE, chrome=CHROME, foot=FOOT,
         styles=styles(1, "home.css", "country.css", "datatable.css"), ga=ga(),
         datatable=script("datatable.js", 1),

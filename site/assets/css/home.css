@@ -123,3 +123,12 @@
 .colophon dl { display: grid; grid-template-columns: 9rem 1fr; gap: 0.3rem 1rem; margin: 0.5rem 0 0; }
 .colophon dt { font-family: var(--mono); font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.07em; color: var(--ink-faint); }
 .colophon dd { margin: 0; }
+
+/* The feedback ask on the home page, which has no `h1` to sit beside.
+   Elsewhere it floats onto the heading's line; here it takes a line of its own
+   above the standfirst, right-aligned. Both of the other arrangements were
+   tried and both are wrong on this page: a float re-rags the first two lines of
+   the standfirst, and taking it out of flow overlaps them, because `.hero p`
+   is capped at 46rem and 46rem is wider than what the container leaves. */
+.hero .feedback-ask { display: block; float: none; text-align: right;
+  margin: 0 0 0.55rem; }

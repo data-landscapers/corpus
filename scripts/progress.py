@@ -51,7 +51,7 @@ from datetime import date
 from pathlib import Path
 
 import markdown
-from chrome_lib import chrome, external_links, foot, ga, script, styles  # noqa: E402
+from chrome_lib import chrome, external_links, feedback, foot, ga, script, styles  # noqa: E402
 
 CORPUS = Path(__file__).resolve().parent.parent
 CONTENT_DIR = CORPUS / "content"
@@ -94,6 +94,7 @@ PAGE = """<!DOCTYPE html>
   <main id="main">
   <div class="container">
     <header class="article-header">
+      {feedback}
       <h1 class="article-header__title">{h1}</h1>
     </header>
 
@@ -357,6 +358,7 @@ def write(out_dir: Path, *, h1, title, description, url, depth, body, counted,
           source) -> None:
     out_dir.mkdir(parents=True, exist_ok=True)
     (out_dir / "index.html").write_text(external_links(PAGE.format(
+        feedback=feedback(title, f"{SITE_BASE}{url}"),
         h1=h1, title=title, description=description, canonical=f"{SITE_BASE}{url}",
         main=MAIN_SITE, chrome=chrome("progress", depth=depth), foot=foot(depth=depth),
         styles=styles(depth, "home.css", "progress.css"), ga=ga(),

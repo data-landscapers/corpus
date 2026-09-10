@@ -65,7 +65,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from copy_lib import copy_inline  # noqa: E402
-from chrome_lib import chrome, external_links, foot, ga, script, styles  # noqa: E402
+from chrome_lib import chrome, external_links, feedback, foot, ga, script, styles  # noqa: E402
 import editions  # noqa: E402  — §9's filename grammar has one implementation
 
 CORPUS = Path(__file__).resolve().parent.parent
@@ -460,6 +460,7 @@ COUNTRY = """<!DOCTYPE html>
   <div class="container">
 
     <div class="country-head">
+      {feedback}
       <h1>{name}</h1>
       <div class="country-head__meta">{iso} &nbsp;·&nbsp; last updated {built}</div>
     </div>
@@ -546,6 +547,7 @@ FINANCE = """<!DOCTYPE html>
 
     <div class="country-head">
       <div class="crumb"><a href="{base}/countries/">Countries &amp; Regions</a> &nbsp;/&nbsp; <a href="index.html">{name}</a> &nbsp;/&nbsp; Non-state finance</div>
+      {feedback}
       <h1>Non-state finance</h1>
       <div class="country-head__meta">{name} &nbsp;·&nbsp; {fin_n} commitments &nbsp;·&nbsp; US${fin_total}m &nbsp;·&nbsp; {y0}&ndash;{y1}</div>
     </div>
@@ -648,6 +650,7 @@ def build(iso: str) -> list[Path]:
         finance_section = FINANCE_EMPTY.format(name=name)
 
     (out_dir / "index.html").write_text(external_links(COUNTRY.format(
+        feedback=feedback(name, f"{SITE_BASE}/countries/{iso}/"),
         cat_csv=cat_csv,
         catalogue_intro=copy_inline("country", "catalogue-intro",
                                     sources=f"{n_place:,}", name=name),
@@ -661,6 +664,8 @@ def build(iso: str) -> list[Path]:
 
     if fin:
         (out_dir / "finance.html").write_text(external_links(FINANCE.format(
+            feedback=feedback(f"{name} — non-state finance",
+                              f"{SITE_BASE}/countries/{iso}/finance.html"),
             unit="country",
             fin_total=f"{sum(amounts):,.0f}",
             y0=(min(ys) if ys else "&mdash;"), y1=(max(ys) if ys else "&mdash;"),

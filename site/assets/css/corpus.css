@@ -83,3 +83,47 @@ h1, h2, h3, h4 { scroll-margin-top: calc(var(--header-h) + 46px); }
   :root { --prose: 0.94rem; }
   body { font-size: var(--prose); }
 }
+
+/* --- the feedback ask ------------------------------------------------------
+ *
+ * The link `chrome_lib.feedback()` writes immediately before a page's `<h1>`
+ * (Bill, 2026-09-10). It sits on the heading's first line, hard right.
+ *
+ * **The footer was the obvious home and it was the wrong one.** Several pages
+ * here are very long — a status report runs to 37 sections — and a reader who
+ * has an opinion forms it early and does not scroll to the bottom to act on it.
+ * The heading line is above the fold on every page in the site and, apart from
+ * the catalogue's download box, it is empty.
+ *
+ * **A float rather than a flex row.** Four different wrappers hold an `h1` on
+ * this site — `.country-head`, `.article-header`, `.cathead` and the bare `h1`
+ * on the topic pages — and a flex rule would have to be written into all four
+ * and remembered for the fifth. A float needs nothing of its parent. It cannot
+ * overflow the wrapper either: at 0.72rem it is shorter than every `h1` on the
+ * site, so it always fits inside the heading's own line box.
+ *
+ * Not uppercased, unlike the other mono eyebrows. It is a question, and
+ * "USEFUL? WRONG?" reads as shouting rather than as an invitation.
+ */
+.feedback-ask {
+  float: right;
+  margin: 0.45rem 0 0.25rem 1.5rem;
+  font-family: var(--mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.02em;
+  color: var(--accent);
+  border-bottom: 1px solid transparent;
+  white-space: nowrap;
+}
+.feedback-ask:hover { color: var(--accent-dk); border-bottom-color: var(--accent-dk); }
+
+/* Narrow screens: the heading needs the whole width, so the ask goes above it
+   on a line of its own rather than wrapping into the title. */
+@media (max-width: 34rem) {
+  .feedback-ask { float: none; display: block; margin: 0 0 0.4rem; }
+}
+
+/* Print takes the colophon's `Feedback` row instead — a dated PDF is read away
+   from the browser that would action a mailto, and the colophon is where that
+   document already says how to cite and licence it. */
+@media print { .feedback-ask { display: none; } }

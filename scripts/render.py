@@ -31,8 +31,8 @@ from pathlib import Path
 import markdown
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from chrome_lib import (asset_version, chrome, external_links, foot, ga,  # noqa: E402
-                        styles)
+from chrome_lib import (asset_version, chrome, external_links, feedback,  # noqa: E402
+                        feedback_row, foot, ga, styles)
 from copy_lib import copy  # noqa: E402
 
 # The edition grammar and the same-day suffix live in `editions.py`, because `country.py`,
@@ -452,7 +452,8 @@ TEMPLATE = """<!DOCTYPE html>
       </div>
 
       <header class="article-header{header_mod}">
-{kicker}        <h1 class="article-header__title">{h1}</h1>
+{kicker}        {feedback}
+        <h1 class="article-header__title">{h1}</h1>
         <div class="article-header__meta">
           <div class="article-header__byline" data-edition="{edition}">{byline}</div>
           <div class="screen-only">{download}</div>
@@ -468,7 +469,7 @@ TEMPLATE = """<!DOCTYPE html>
         <dl>
           <dt>Edition</dt><dd class="edition">{edition_display}</dd>
 {current_row}{colophon_rows}
-          <dt>Licence</dt><dd><a href="{licence_url}">{licence}</a></dd>
+{feedback_row}          <dt>Licence</dt><dd><a href="{licence_url}">{licence}</a></dd>
         </dl>
 {colophon_notes}
       </section>
@@ -764,6 +765,8 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
             current_row += archive_picker(archive or [], edition)
 
     doc = TEMPLATE.format(
+        feedback=feedback(h1 or title, url_html),
+        feedback_row=feedback_row(h1 or title, url_html),
         title=title,
         download=download,
         colophon_rows=colophon_rows,

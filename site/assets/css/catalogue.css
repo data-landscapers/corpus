@@ -142,3 +142,9 @@ designer looks for the catalogue's CSS.
 .cat .more:hover{border-color:var(--accent);color:var(--accent)}
 .cat .note{margin-top:1.75rem;padding-top:0.9rem;border-top:1px solid var(--rule);font-size:0.75rem;color:var(--ink-faint);max-width:70ch}
 @media (max-width:860px){.cat .cols{grid-template-columns:1fr}}
+
+/* The feedback ask, under the lede rather than on the heading line: the
+   `.cathead` grid gives the right-hand cell to the download buttons, so this is
+   the one page where that space is not free. */
+.cat .cathead__ask{margin:0.9rem 0 0}
+.cat .cathead__ask .feedback-ask{float:none;margin:0}

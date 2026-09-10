@@ -38,7 +38,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from copy_lib import copy_inline  # noqa: E402
-from chrome_lib import chrome, external_links, foot, ga, script, styles  # noqa: E402
+from chrome_lib import chrome, external_links, feedback, foot, ga, script, styles  # noqa: E402
 import country  # noqa: E402 — the per-page machinery this reuses wholesale
 
 CORPUS = Path(__file__).resolve().parent.parent
@@ -110,6 +110,7 @@ def build(code: str) -> list[Path]:
         finance_section = country.FINANCE_EMPTY.format(name=name)
 
     (out_dir / "index.html").write_text(external_links(REGION.format(
+        feedback=feedback(name, f"{SITE_BASE}/countries/{code}/"),
         cat_csv=cat_csv,
         catalogue_intro=copy_inline("country", "catalogue-intro",
                                     sources=f"{n_place:,}", name=name),
@@ -123,6 +124,8 @@ def build(code: str) -> list[Path]:
 
     if fin:
         (out_dir / "finance.html").write_text(external_links(FINANCE.format(
+            feedback=feedback(f"{name} — non-state finance",
+                              f"{SITE_BASE}/countries/{code}/finance.html"),
             unit="place",
             fin_total=f"{sum(amounts):,.0f}",
             y0=(min(ys) if ys else "&mdash;"), y1=(max(ys) if ys else "&mdash;"),

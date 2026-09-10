@@ -28,6 +28,7 @@ from __future__ import annotations
 
 import hashlib
 import re
+import urllib.parse
 from datetime import date
 from pathlib import Path
 
@@ -269,6 +270,80 @@ def chrome(active: str | None = None, depth: int = 1, *,
 {corpus_links}
     </div>
   </nav>"""
+
+
+# ---------------------------------------------------------------------------
+# The feedback ask
+# ---------------------------------------------------------------------------
+
+# Where reader feedback goes (Bill, 2026-09-10). A role address rather than a
+# personal one, and that is the whole point: this string is baked into every
+# report PDF's colophon, and a published edition is never re-cut, so the address
+# has to be one that survives being handed to somebody else. It is also what
+# lets the destination become a form later without invalidating a citation.
+FEEDBACK_TO = "info@data-landscapers.io"
+
+# The visible text (Bill, 2026-09-10). Four words, and the order is deliberate:
+# the positive first, the correction second. "Something wrong on this page?"
+# collects corrections and nothing else, because a reader who found the page
+# useful is not the audience it names — and which reports are worth building
+# more of is the more valuable of the two answers.
+FEEDBACK_LABEL = "Useful? Wrong? Tell us"
+
+# The prompt the reader sees in their own compose window, where they have
+# already decided to write, rather than on the page where it would be clutter.
+# The last clause is the one that earns its place: nobody volunteers what they
+# used a page *for*, and it is the only thing here that says which of the 54
+# countries and 38 topics are worth more of the week.
+FEEDBACK_PROMPT = "Wrong, missing, or useful — and if you used it, what for:"
+
+
+def feedback(what: str, url: str) -> str:
+    """The feedback link, for placing immediately before a page's `<h1>`.
+
+    `what` names the page in the mail subject ("Kenya", "Catalogue", a report
+    title); `url` is the page's canonical address, repeated in the body because
+    a subject line is the first thing a forwarded mail loses.
+
+    **Before the h1, not inside a flex row with it.** The site has four heading
+    wrappers — `.country-head`, `.article-header`, `.cathead` and a bare `<h1>`
+    on the topic pages — and making all four a flex container is the four-copy
+    edit this module exists to stop. A float placed ahead of the heading sits on
+    its first line whatever block encloses it, needs nothing of the wrapper, and
+    is shorter than any `h1` on the site, so it can never overflow one.
+
+    The mailto carries a subject and a body, so what arrives is already labelled
+    with the page it is about. That is the whole reason this is not a form: a
+    form needs a third-party backend, a dependency and a spam surface, and buys
+    nothing over this except a captcha."""
+    return f'<a class="feedback-ask" href="{feedback_href(what, url)}">{FEEDBACK_LABEL}</a>'
+
+
+def feedback_href(what: str, url: str) -> str:
+    """The `mailto:` itself, with the page named in the subject and repeated in
+    the body — a subject line is the first thing a forwarded mail loses.
+
+    `&amp;` rather than a bare `&`: every caller drops this into an HTML
+    attribute, and `external_links()` re-reads those tags afterwards."""
+    q = urllib.parse.quote
+    subject = q(f"Corpus feedback — {what}")
+    body = q(f"Page: {url}\n\n{FEEDBACK_PROMPT}\n\n")
+    return f"mailto:{FEEDBACK_TO}?subject={subject}&amp;body={body}"
+
+
+def feedback_row(what: str, url: str) -> str:
+    """The same ask as a colophon `<dt>`/`<dd>` pair, for a rendered document.
+
+    **A report gets both this and the header link, and that is deliberate.** The
+    header link is what a reader who disagrees on page one uses; this is what a
+    reader who has just finished thirty-seven sections uses, holding the most
+    formed opinion of the document they will ever have and already looking at
+    the block that tells them how to cite it. It is also the only one of the two
+    that survives into the PDF, which is read away from the browser that would
+    action a `mailto` — hence the address in plain sight rather than behind a
+    label."""
+    return (f'          <dt>Feedback</dt><dd><a href="{feedback_href(what, url)}">'
+            f'{FEEDBACK_TO}</a></dd>\n')
 
 
 def foot(depth: int = 1, year: int | None = None) -> str:
