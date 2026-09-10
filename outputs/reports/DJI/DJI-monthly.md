@@ -1,11 +1,11 @@
 ---
 title: Djibouti — monthly update, August – September 2026
-compiled: 2026-09-08
-period: 2026-08-01 to 2026-09-08
+compiled: 2026-09-10
+period: 2026-08-01 to 2026-09-10
 place: DJI
-ledger_rows: 15
+ledger_rows: 18
 not_held: 11
-record: ac8d5140cbf2
+record: 0c264bb839fb
 ---
 
 # Djibouti: monthly update, August – September 2026
@@ -97,6 +97,11 @@ The corridor programme put training against formalisation rather than connectivi
 
 <!-- narrative: data--data-open -->
 The account of the archive programme published on 3 August also [establishes that 126 years of the Journal officiel are digitised and published online](https://www.lanation.dj/djibouti-entre-dans-lere-des-archives-numeriques-le-sgg-et-le-pnud-unissent-leurs-forces-pour-dematerialiser-la-memoire-de-letat/). The account gives no date for when publication began.
+<!-- /narrative -->
+### Use of satellite data
+
+<!-- narrative: data--data-satellite -->
+The month's movement was political rather than technical. The head of state [took part on 10 September in the second day of the first International Space Summit at the Grand Palais in Paris, convened at the French president's invitation and gathering delegations from more than 120 countries](https://www.lanation.dj/le-president-guelleh-au-sommet-international-sur-lespace-djibouti-defend-une-ambition-spatiale-au-service-du-developpement/), arguing for a space ambition serving development. State media used the occasion to set out the programme's own record since 2020: [first specialists trained, two nanosatellites designed and put into orbit, ground capacity developed and cooperation established with major French space institutions](https://www.lanation.dj/djibouti-a-la-conquete-de-lespace-un-pari-sur-la-science-la-souverainete-et-lavenir/). No satellite name, launch date, ground-station location, budget or data-use record accompanies the account, and the summit produced no commitment the base can read.
 <!-- /narrative -->
 
 ## Geopolitics

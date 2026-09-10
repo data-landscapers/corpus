@@ -1,11 +1,11 @@
 ---
 title: Algeria — monthly update, August – September 2026
-compiled: 2026-09-09
-period: 2026-08-01 to 2026-09-09
+compiled: 2026-09-10
+period: 2026-08-01 to 2026-09-10
 place: DZA
-ledger_rows: 39
+ledger_rows: 42
 not_held: 7
-record: 3917f1ab9584
+record: e445fdfcf8d4
 ---
 
 # Algeria: monthly update, August – September 2026
@@ -22,6 +22,11 @@ Underneath, the interior minister [ordered rapid correction of faults in vehicle
 
 ## Governance
 
+### Strategies, plans and policies
+
+<!-- narrative: governance--gov-policy -->
+Nothing moved on the 2030 strategy's own targets this month; what was published was a restatement of the vision behind them. State media described the transformation as [resting on data-protection and cybersecurity laws and on local infrastructure including national data centres, and as aimed at transparency in public management and at combating administrative malpractice](https://www.elmoudjahid.dz/fr/editorials/a-l-ere-du-tout-numerique-4195). It carries no target, budget or completion date, and sixteen months after the strategy was published the base still holds no delivery figure against any of its three headline targets.
+<!-- /narrative -->
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
@@ -131,6 +136,14 @@ The state's electronics industry began selling digital infrastructure rather tha
 The student start-up conversion scheme reports [673 start-ups, 3,949 patents and 2,339 innovative-project labels between 2022 and July 2026, against a 2030 target of 5,000 labelled products](https://elwatan.dz/strategie-nationale-de-lintelligence-artificielle-kamel-baddari-fixe-la-feuille-de-route/). It lets students convert final-year projects into start-ups or patents and is supported by a prototype-financing scheme and the country's first venture-capital fund. The ministerial order behind it is not held, neither its date nor its text.
 
 The money attached to the President of the Republic's Prize for the best start-up [was raised by presidential decree 26-277 of 23 August 2026](https://www.joradp.dz/FTP/jo-francais/2026/F2026060.pdf), amending article 3 of the founding decree of January. The amounts and the award cycle are set by decree rather than by a programme document.
+<!-- /narrative -->
+
+## Capacity
+
+### Training and skills
+
+<!-- narrative: capacity--capacity-training -->
+One instruction, issued on a minister's social-media account rather than by circular. The higher education and scientific research minister directed the [five higher schools specialising in economics, finance and management to modernise their training and embed artificial intelligence, at a working meeting at the Kolea hub on 10 September](https://www.echoroukonline.com/%d8%a8%d8%af%d8%a7%d8%b1%d9%8a-%d9%8a%d8%a3%d9%85%d8%b1-%d8%a8%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d8%a7%d9%84%d8%aa%d9%83%d9%88%d9%8a%d9%86-%d9%88%d8%a5%d8%af%d8%b1%d8%a7%d8%ac-%d8%a7%d9%84%d8%b0%d9%83), saying the economy is a main engine for delivering the national development programme and that these institutions must train people able to understand economic change, support investment and create jobs. No curriculum, timetable, teaching capacity or funding is published, and the five schools are not named.
 <!-- /narrative -->
 
 ## Inclusion
