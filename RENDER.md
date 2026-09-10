@@ -128,6 +128,33 @@ python scripts/topic-page.py      # every topic   -> site/topics/{slug}/index.ht
 
 **`country.py` builds the 54 country pages; `region.py` builds the eight region and bloc pages the same way, minus a status report** (`REPORT-REGION.md`: a region issues a monthly update and a progress report, never a status). Both write into `site/countries/`, one directory of place pages side by side — `region.py` reuses `country.py`'s own machinery (report rows, the finance pivot, the catalogue cut) rather than a second implementation of it (`scripts/region.py`'s module docstring). The home page's region boxes (`scripts/home.py`, `region_boxes()`) link here as of 2026-09-02, in place of the catalogue filter they opened before a region had a page of its own to open.
 
+## Step 4a — build the two progress tables
+
+```bash
+python scripts/progress.py        # -> site/progress/ and site/progress/countries/
+```
+
+**One builder, two readings of one grid.** Every country progress report answers the
+same fixed frame of 121 indicators, so the answers form a 54 &times; 121 grid with a value
+in every cell; `/progress/` counts it down the columns (per indicator, how many
+countries at each value) and `/progress/countries/` down the rows. Nothing is computed
+beyond the tally, and every topics row is asserted to sum to 54 and every countries row
+to 121 — a build where one does not has misread a report rather than found something,
+and stops.
+
+**It reads the published reports, not `indicators.csv`.** The per-country CSV holds only
+the rows carrying evidence, so *No evidence* would become a subtraction this page
+performed rather than a number a report states. Parsing the markdown costs a table walk
+and buys the property that these counts cannot disagree with the report a reader clicks
+through to.
+
+**Runs after Step 2**, like `topic-page.py` and `region.py`: every indicator row links a
+bookmark inside a topic progress report, and `check_links()` refuses to build if a
+report is missing or has lost the `id` — a dead anchor on the site's most linked-to page
+is a defect, not a cosmetic. It writes no edition and reads no `outputs/` beyond the
+reports, so it is safe to run on its own after an edit to `content/progress-topics.md`
+or `content/progress-countries.md`, which is the usual reason to run it.
+
 ## Step 5 — build the catalogue page
 
 ```bash
@@ -238,21 +265,6 @@ cd /tmp && npm install jsdom && node prototypes/datatable-test.mjs   # from a co
 
 > **Line endings, when building from a Cowork session.** `csv.writer` emits `\r\n`; Windows git normalises to LF on commit and Linux git does not, so a rebuild in the Cowork sandbox rewrites every published CSV with CRLF and git reports the whole file changed. A published edition must not be revised (§9), so **check for CR-only churn before committing a rebuild** and restore those files: `for f in $(git diff --name-only); do [ -z "$(git diff --ignore-cr-at-eol -- "$f")" ] && git checkout HEAD -- "$f"; done`. A `.gitattributes` would settle it permanently, but 186 tracked files already hold CRLF, so adding one renormalises them all at once — a decision for a session doing only that.
 
-## Step 6b — build the methodology pages
-
-```bash
-python scripts/methodology.py     # -> site/methodology/ + its three annexes
-```
-
-**Four pages, four markdown files, no data.** `/methodology/` and its annexes
-`document-lifecycle/`, `process-inventory/` and `lookups/` are `content/`
-converted and wrapped in the site chrome — the one page type on the site derived
-from nothing but its own file, so it neither reads `outputs/` nor cares whether
-the rest of this runbook ran. The script's own header is the description; `PAGES`
-in it is the list, and adding a fifth page means a row there and a content file,
-nothing else. It writes no edition and nothing here is citable, so it is safe to
-run on its own after an edit to `content/` — which is the usual reason to run it.
-
 ## Step 6a — prune superseded editions nobody took
 
 ```bash
@@ -277,6 +289,21 @@ python scripts/r2-sync.py --prune-local --apply
 **It needs the R2 key pair** in `logs/.cloudflare-r2.json` or the environment (`documentation/editions-serving-shape.md` → *Credentials*), which is a different credential from the KV token Step 6a uses. Without it both lines print `R2: declined` and exit 1; the render is still publishable, the tree simply keeps its editions and grows against the 1 GB ceiling, so a persistent refusal wants acting on rather than living with.
 
 **On the first run after a change to what counts as an edition**, add `--check-serving`: it asks the live site which origin answered for a sample of keys. The selection rule exists in both `r2-sync.py` and the Worker and they have to agree; this is the only check that does not take their word for it.
+
+## Step 6c — build the methodology pages
+
+```bash
+python scripts/methodology.py     # -> site/methodology/ + its three annexes
+```
+
+**Four pages, four markdown files, no data.** `/methodology/` and its annexes
+`document-lifecycle/`, `process-inventory/` and `lookups/` are `content/`
+converted and wrapped in the site chrome — the one page type on the site derived
+from nothing but its own file, so it neither reads `outputs/` nor cares whether
+the rest of this runbook ran. The script's own header is the description; `PAGES`
+in it is the list, and adding a fifth page means a row there and a content file,
+nothing else. It writes no edition and nothing here is citable, so it is safe to
+run on its own after an edit to `content/` — which is the usual reason to run it.
 
 ## Step 7 — verify, commit, deploy
 
