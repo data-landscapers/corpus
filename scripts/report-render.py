@@ -173,10 +173,14 @@ MOVEMENTS = ("Advanced", "Stalled", "Regressed", "Closed", NO_CHANGE, BASELINE_N
 
 NO_EVIDENCE = "No evidence"
 MIXED = "Mixed"
-PROGRESS = ("Advanced", "Stalled", "Regressed", MIXED, NO_CHANGE, NO_EVIDENCE)
+# Renamed from "Advanced" on 2026-09-10 (Bill): as a value in a column headed
+# *Progress* it read as a standing grade — a country being advanced — rather than
+# as the thing it says, that the indicator moved inside the period.
+MOVEMENT = "Movement"
+PROGRESS = (MOVEMENT, "Stalled", "Regressed", MIXED, NO_CHANGE, NO_EVIDENCE)
 """The indicator layer's own closed set — `MOVEMENTS`'s sibling, not its successor.
 
-The two share four words and are not the same vocabulary, and neither derives from the other
+The two share three words and are not the same vocabulary, and neither derives from the other
 *(`progress-report-redesign.md` §2)*. `MOVEMENTS` describes **a ledger row** moving between two
 dated positions and keeps serving the monthly; `PROGRESS` describes **an indicator** over a
 window, and its last two values have no counterpart there. *Mixed* exists because several rows

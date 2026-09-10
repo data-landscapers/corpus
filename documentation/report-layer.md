@@ -37,7 +37,9 @@ status: in force; Corpus-owned
 | `probe_at` | For a ***Not held*** row: the date the gap was last searched for (§4). Empty on a held row. |
 | `note` | One clause, only where the row needs a caveat a reader would otherwise ask for. |
 
-**A row's `published` is a fact about a source, not about the run.** A run that reads twenty sources and changes no row is a correct and normal outcome. `published` is also what ages a row out of a report: the ledger is the one place the monthly and the progress report are aged from, and month turnover is the window moving past a value already held.
+**A row's `published` is a fact about a source, not about the run.** A run that reads twenty sources and changes no row is a correct and normal outcome.
+
+**But a run that reads twenty sources and *mints* no row, where the base held no position on what they name, is not** *(2026-09-10)*. The row test above admits a thing the base is meeting for the first time — a reader can name it and its position can move — and such a row opens at `movement: Baseline not held`, which is what that value is for. A source establishing that a named system exists and is live, against a ledger holding nothing on it, mints. Treating it as *nothing moves* because it did not change inside the window is the error `documentation/considered-not-carried.md` records, and it is invisible downstream: the indicator frame then reports ***No evidence***, truthfully about the ledger and falsely about the base. `published` is also what ages a row out of a report: the ledger is the one place the monthly and the progress report are aged from, and month turnover is the window moving past a value already held.
 
 **The file is kept sorted by taxonomy Level-1, then Level-2, then name.** `report-render.py`'s `resort_ledger()` re-orders on every load, rewriting only when the order changes; content, `row_id`s and column order are untouched, which keeps `ledger.csv` diff-readable.
 

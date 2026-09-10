@@ -237,14 +237,14 @@ Many of the decisions made by Corpus are based on the various lookup tables list
 ## Progress Categories
 | Value | Meaning |
 | ----- | ------- |
-| Advanced | A system entered service, a stage was completed or an instrument was made |
+| Movement | A system entered service, a stage was completed or an instrument was made |
 | Stalled | A stated target passed without delivery |
 | Regressed | An instrument was withdrawn or neutralised, or a reported position worsened |
 | Mixed | The indicator's instruments moved in different directions in the period |
 | No change | The base holds a standing position and nothing in the period touched it |
 | No evidence | The base holds nothing on this indicator at all |
 
-A value may carry a qualifying clause after a comma, as in *Advanced, regulations still pending*.
+A value may carry a qualifying clause after a comma, as in *Movement, regulations still pending*.
 
 ## Daily journals
 | url                                  | title                    | notes_file                           |

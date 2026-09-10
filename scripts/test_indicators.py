@@ -18,7 +18,7 @@ left alone for check M to refuse.
 
 **The checks** — the four rules §3 says are testable are tested here on fixtures, in both
 directions where §3 says both directions. The point of the group is that these are the only
-machine-decidable claims in the vocabulary: *Advanced* against *No change* is a drafter's
+machine-decidable claims in the vocabulary: *Movement* against *No change* is a drafter's
 judgement and no test here pretends otherwise.
 
 Nothing in this file touches `outputs/`, and the two that would need a catalogue — resolving a
@@ -133,8 +133,8 @@ check("the summary leads and the full record follows in an expander",
 check("a No evidence row renders as nothing at all",
       rr.developments_cell({}, URLS, []), "")
 check("***No evidence*** is marked; the other values are not",
-      (rr.mark_progress("No evidence"), rr.mark_progress("Advanced")),
-      ("***No evidence***", "Advanced"))
+      (rr.mark_progress("No evidence"), rr.mark_progress("Movement")),
+      ("***No evidence***", "Movement"))
 check("a qualified No evidence is marked on its stem",
       rr.mark_progress("No evidence, nothing swept"), "***No evidence, nothing swept***")
 
@@ -184,7 +184,7 @@ def with_rows(rows, fn):
     return rc, buf.getvalue()
 
 
-GOOD = dict(indicator_id=IID, progress="Advanced", summary="a [claim](a-real-slug)",
+GOOD = dict(indicator_id=IID, progress="Movement", summary="a [claim](a-real-slug)",
             developments="the record", row_ids="ZZZ-a")
 check("a well-formed row passes check I", with_rows([GOOD], rr.check_indicators)[0], 0)
 check("and passes check L", with_rows([GOOD], rr.check_indicator_prose)[0], 0)
@@ -316,7 +316,7 @@ def reg(rows):
 
 
 CLEAN = dict(
-    indicator_id=IID, progress="Advanced",
+    indicator_id=IID, progress="Movement",
     summary="The strategy was [approved by cabinet](a-slug) in March, five years late.",
     developments="2026-03-04 — cabinet [approved the national ICT strategy](a-slug), five "
                  "years after the previous one lapsed. No implementation plan was published "

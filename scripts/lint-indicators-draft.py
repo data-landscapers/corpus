@@ -44,7 +44,7 @@ FIGURE = re.compile(r"(?:US\$|R|EUR|£|\$)\s?\d[\d,.]*\s?(?:m|bn|billion|million
                     r"|\b\d{4,}\b")
 YEAR = re.compile(r"^(?:19|20)\d\d$")
 BANDS = {"summary": (8, 40), "developments": (25, 200)}
-VOCAB = {"Advanced", "Stalled", "Regressed", "Mixed", "No change"}
+VOCAB = {"Movement", "Stalled", "Regressed", "Mixed", "No change"}
 
 frame = {r["indicator_id"] for r in csv.DictReader(open(os.path.join(ROOT, "lookups", "indicators.csv"), encoding="utf-8-sig", newline=""))}
 ledger = {r["row_id"]: r for r in csv.DictReader(open(os.path.join(ROOT, "outputs", "reports", unit, "ledger.csv"), encoding="utf-8-sig", newline=""))}

@@ -66,7 +66,7 @@ MAIN_SITE = "https://data-landscapers.io"
 # (2026-09-10): best to worst, then the frame's own answer last. That is not the
 # order the reports' legend states them in, and deliberately — a legend defines,
 # a table is read across.
-COLUMNS = ["Advanced", "Mixed", "No change", "Stalled", "Regressed", "No evidence"]
+COLUMNS = ["Movement", "Mixed", "No change", "Stalled", "Regressed", "No evidence"]
 
 # Group headers only. XAF (all Africa), XSS (sub-Saharan) and XGL (global) are
 # excluded because they contain the others: a country would be counted twice
