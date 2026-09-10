@@ -48,6 +48,7 @@ title: Corpus process log
 
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 <!-- newest first: a new entry goes directly below this line -->
+2026-09-11 00:26 · render · 13m · 251 documents, home, 62 place pages, catalogue 20,807, finance 1,425 deals, R2 2,587 objects, 1 bulletin edition pruned, deployed — ok
 2026-09-11 00:12 · build · 1h15m · catalogue 20,807, finance 1,983 deals, 43 units and 222 sources read, 53 rows moved and 90 minted, XWA back inside its band, bulletin 92 items — ok
 2026-09-10 16:31 · doc · unclocked · bulletin cadence: page promises the overnight sweep only; top-up kept, run sporadically
 2026-09-10 16:04 · render · 2h24m · 251 reports repaged for the Movement badge fix, home+progress-intro, body prose to 17px, 416 editions to R2, deployed - ok
