@@ -1,11 +1,11 @@
 ---
 title: Cameroon — monthly update, August – September 2026
-compiled: 2026-09-08
-period: 2026-08-01 to 2026-09-08
+compiled: 2026-09-10
+period: 2026-08-01 to 2026-09-10
 place: CMR
-ledger_rows: 35
-not_held: 5
-record: 96e54924860c
+ledger_rows: 38
+not_held: 4
+record: 83bb1866c0e1
 ---
 
 # Cameroon: monthly update, August – September 2026
@@ -68,6 +68,11 @@ The regulator's director-general said the [preparatory work for 5G is practicall
 The state operator spent the month selling capacity it has already built. It [showed the Zamengoe data centre to a second prospective tenant on 13 August](https://techafricanews.com/2026/08/14/camtel-showcases-zamengoe-data-center-to-plan-international-cameroon/), presenting hosting, storage and security services and the facility's Tier III certification, eight months after the central bank toured the same site with a view to hosting. The base holds no signed hosting contract from either visit.
 
 The Douala project was confirmed and qualified in the same week. The vendor [confirmed US$75m, about FCFA 42.25bn, for a data centre designed in part for artificial-intelligence workloads with dedicated power generation](https://www.biometricupdate.com/202609/cybastion-backs-cameroon-digital-sovereignty-with-75m-infrastructure-project), while the [planning ministry described it as an intention presented at the first bilateral economic forum rather than a commitment](https://www.businessincameroon.com/public-management/0709-16693-us-firm-cybastion-plans-75-million-ai-data-center-and-power-plant-in-douala). The distinction is worth holding onto: the same vendor's Ivorian project is underwritten by a United States export-credit guarantee, which is the shape a commitment takes on the record, and nothing of that kind is published here.
+<!-- /narrative -->
+### Energy
+
+<!-- narrative: ict-infrastructure--infra-energy -->
+The energy ministry announced that the [gas-fired thermal plant at Kribi would be shut down for the whole of a pipeline maintenance window from 5 to 7 August, cutting the southern interconnected grid's generation capacity and disrupting supply in some localities](https://minee.cm/en/communique-de-presse-perturbations-temporaires-de-la-fourniture-de-lenergie-electrique-pourraient-etre-observees-dans-certaines-localites-du-pays-05-08-2026/), with all other available generation mobilised to limit the effect. It is the clearest statement the base holds of how one plant's outage reaches the grid the country's data centres sit on. No data centre's supply arrangement, tariff or backup duty is published.
 <!-- /narrative -->
 ### Cybersecurity
 

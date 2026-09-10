@@ -3,13 +3,13 @@ title: Energy — monthly update, August – September 2026
 compiled: 2026-09-10
 period: 2026-08-01 to 2026-09-10
 subject: infra.energy
-places: BWA; BFA; BDI; CAF; TCD; COM; ETH; GMB; GHA; KEN; LSO; LBY; MDG; MWI; MUS; MOZ; SLE; ZAF; SSD; UGA; ZMB; ZWE
-record: 820f59252e46
+places: BWA; BFA; BDI; CMR; CAF; TCD; COM; ETH; GMB; GHA; KEN; LSO; LBY; MDG; MWI; MUS; MOZ; SLE; ZAF; SSD; UGA; ZMB; ZWE
+record: d13b133f716f
 ---
 
 # Energy: monthly update, August – September 2026
 
-*22 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*23 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -26,6 +26,10 @@ A [26.4 MW thermal plant was commissioned at Bobo 2 on 7 August, raising that si
 ## Burundi
 
 Among the regulator's remedies for degraded service, named [on 3 August](https://www.iwacu-burundi.org/telecommunications-un-casse-tete-pour-les-abonnes/), is a planned study on powering mobile base stations.
+
+## Cameroon
+
+The energy ministry announced that the [gas-fired thermal plant at Kribi would be shut down for the whole of a pipeline maintenance window from 5 to 7 August, cutting the southern interconnected grid's generation capacity and disrupting supply in some localities](https://minee.cm/en/communique-de-presse-perturbations-temporaires-de-la-fourniture-de-lenergie-electrique-pourraient-etre-observees-dans-certaines-localites-du-pays-05-08-2026/), with all other available generation mobilised to limit the effect. It is the clearest statement the base holds of how one plant's outage reaches the grid the country's data centres sit on. No data centre's supply arrangement, tariff or backup duty is published.
 
 ## Central African Republic
 
