@@ -93,6 +93,19 @@ if hasattr(sys.stdout, "reconfigure"):
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
+# **Refuse to run from inside the workroot** *(2026-09-11)*. Reached through the workroot's own
+# `scripts` junction, `__file__` puts ROOT at `.workroot`, so `STATE`, `HOLD` and `SENTINEL` all
+# resolve to files that do not exist there. The state file is the watermark: read as absent, the
+# trigger reports a close it has already built as **ready**, and `--claim` then dies writing to a
+# `logs/` directory the workroot has none of. A trigger that answers differently depending on the
+# directory it was invoked from is worse than one that fails, because the wrong answer is the one
+# that starts a duplicate cycle. Same guard, and the same reason, as `rebuild.py`.
+if os.path.basename(ROOT) == ".workroot" or os.sep + ".workroot" + os.sep in ROOT + os.sep:
+    raise SystemExit(
+        "osint-cycle-ready.py: refusing to run from inside scripts/.workroot/ — the watermark "
+        "lives in the repo's own logs/, and from here it reads as absent, which reports an "
+        "already-built close as ready. Run it from the repo root.")
+
 # The mirror `SWEEP-CYCLE.md` -> *Mirror* writes to, seen from this machine: OSINT syncs
 # `C:\OSINT` onto `O:\` = `\\bill-vivobook\osint`, and this *is* bill-vivobook, so the share
 # resolves back to a local path. Overridable for the same reason `status_lib.EXCHANGE` is — a
