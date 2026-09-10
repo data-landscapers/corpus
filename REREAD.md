@@ -108,18 +108,20 @@ lost to rendering the old tables faithfully.
 Repaired: **BEN** (50 ***No evidence*** → 2), **COG** (60 → 2),
 **CPV** (57 → 8), **BFA** (51 → 4), **GIN** (46 → 4), **CMR** (40 → 7),
 **COD** (42 → 3), **GAB** (47 → 5), **ERI** (61 → 0), **AGO** (51 → 0),
-**NER** (13 → 0), **MRT** (38 → 1), **SLE** (11 → 0).
+**NER** (13 → 0), **MRT** (38 → 1), **SLE** (11 → 0), **MLI** (32 → 0),
+**MOZ** (3 → 0), **SYC** (3 → 0), **TCD** (6 → 0), **CAF** (22 → 0),
+**DZA** (24 → 2), **ZAF** (1 → 0), **NAM** (1 → 0), **SOM** (2 → 0).
 
-Reopened and waiting: none.
+**The queue is empty.** `python scripts/lint-considered.py` returned clean over
+the whole estate on 2026-09-10 — 859 sources over 467 indicators in 22 units at
+the start of the day, none at the end of it.
 
-The tail, 9 units and 28 sources `lint-considered.py` still reports, worked
-in this order: **MLI** 6, **MOZ** 5, **SYC** 4, **TCD** 4, **CAF** 3,
-**DZA** 2, **ZAF** 2, **NAM** 1, **SOM** 1.
-Reopen each with `reopen-considered.py --unit {ISO} --apply` before step 2.
-
-Mauritania's one remaining ***No evidence*** is `geopol.india`: the base holds
-no row and no source on any Indian engagement, and inventing one would be the
-opposite defect.
+Three indicators in the tail are correctly still ***No evidence*** and were left
+that way: Mauritania's `geopol.india`, Algeria's `geopol.usa` and Algeria's
+`include.access--gender-equity`. In each the base holds no row and no source,
+and the staged document that was meant to answer the last of them — a gazette
+issue whose anti-trafficking decree has no digital content — does not. Minting
+a row there would be the opposite defect.
 
 ## Two smaller losses, measured only for Benin
 

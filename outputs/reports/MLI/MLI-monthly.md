@@ -1,11 +1,11 @@
 ---
 title: Mali — monthly update, August – September 2026
-compiled: 2026-09-06
-period: 2026-08-01 to 2026-09-06
+compiled: 2026-09-10
+period: 2026-08-01 to 2026-09-10
 place: MLI
 ledger_rows: 33
-not_held: 2
-record: 0a3aff65b812
+not_held: 1
+record: f284a7af10c9
 ---
 
 # Mali: monthly update, August – September 2026
