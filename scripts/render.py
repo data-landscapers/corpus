@@ -878,15 +878,35 @@ def render(md_path: Path, out_dir: Path, edition: str | None = None,
     if held is not None:
         html_path = out_dir / f"{stem_html_of(md_path)}.html"
         pdf_path = out_dir / f"{md_path.stem}-{held}.pdf" if pdf else None
-        # **A missing PDF is the normal state under `--repage`, not a repair** *(2026-09-09)*.
+        # **A missing PDF is the normal state for a held document, and never a repair.**
+        #
         # Since the editions moved to R2 (RENDER.md Step 6b), `--prune-local` deletes every
         # dated PDF from the tree once the bucket has it — so by the next render there is no
-        # local file for the test below to find, and every `--repage` fell through to the
-        # repair branch and re-cut the PDF it is defined never to touch. Under today's
-        # stylesheet, over a published name: exactly the revision §9 forbids, on the one flag
-        # written to avoid it. `--repage` therefore drops the PDF here and returns the page
-        # alone; the row and the download link still name the file, because R2 is serving it.
-        if repage and pdf_path is not None and not pdf_path.exists():
+        # local file to find. The absence carries no information: it is what a successful sync
+        # leaves behind, not damage.
+        #
+        # This was scoped to `--repage` when it was written *(2026-09-09)*, which fixed the
+        # flag and left the plain render doing the very thing the flag had been written to
+        # avoid. A held document whose PDF had been pruned fell through to a repair branch
+        # that re-cut it **under its own published name**, with today's stylesheet — changing
+        # the bytes under a live citation, which is the one thing design.md §9 forbids
+        # absolutely. On 2026-09-10 a routine Step 2 loop re-cut 102 published editions that
+        # way; they were caught before `r2-sync --apply` uploaded them over the originals, and
+        # nothing was published. Catching it needed someone reading a `git status` and knowing
+        # what a past-dated untracked PDF meant, which is not a control.
+        #
+        # So the test is unconditional now and there is no repair branch. A held document
+        # returns its page and no PDF; the row, the colophon and the download link go on
+        # naming the file, because R2 is serving it.
+        #
+        # **What detects a genuinely lost edition is `r2-sync.py --verify`**, which reads the
+        # bucket and reports anything not in it, intact, by size and MD5. That is a real test
+        # against the place the file actually lives. Re-cutting on a local absence was never
+        # one: it could not tell a pruned file from a lost one, and it answered both by
+        # overwriting a published artefact. Restoring one it reports is `--edition <date>`,
+        # which cuts under that exact name — an operator naming a file to rebuild, which is
+        # what a repair always was.
+        if pdf_path is not None and not pdf_path.exists():
             pdf_path = None
         if pdf_path is None or pdf_path.exists():
             if is_bulletin or repage:
@@ -920,10 +940,6 @@ def render(md_path: Path, out_dir: Path, edition: str | None = None,
                 if not html_path.exists() or html_path.read_text(encoding="utf-8") != served:
                     html_path.write_text(served, encoding="utf-8", newline="")
             return html_path, pdf_path, False
-        # The page names an edition whose PDF is not there — a file deleted by hand, or a run
-        # that died between the two writes. Cut it again under **its own** name rather than
-        # minting a new one: the published URL is the thing being repaired, not superseded.
-        edition = held
 
     # A cut edition never lands on a name that is already taken (§9). Only when the renderer is
     # choosing the name: an explicit `--edition` is an operator naming one exactly, and the
