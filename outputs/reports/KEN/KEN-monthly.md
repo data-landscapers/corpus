@@ -1,11 +1,11 @@
 ---
 title: Kenya — monthly update, August – September 2026
-compiled: 2026-09-09
-period: 2026-08-01 to 2026-09-09
+compiled: 2026-09-10
+period: 2026-08-01 to 2026-09-10
 place: KEN
-ledger_rows: 151
+ledger_rows: 161
 not_held: 7
-record: 4751a97b558e
+record: 276da690f201
 ---
 
 # Kenya: monthly update, August – September 2026
@@ -237,6 +237,11 @@ An analysis published on 23 July recorded that the National AI Strategy, costed 
 The draft then drew its first substantive submission, and a headline figure. A civil-society organisation [urged institutional independence for the proposed AI council and mandatory human-rights impact assessments](https://cipesa.org/2026/08/cipesa-urges-kenya-to-align-and-strengthen-its-draft-ai-policy/) on 14 August, with the draft reported as nearing Cabinet consideration. Alongside it, a commercial data compiler's mid-year update [put 97.5% of Kenya's online adults using an artificial-intelligence tool monthly, first globally, ahead of the United Arab Emirates at 94.2% and Indonesia at 93.6%](https://www.itweb.africa/article/kenya-tops-global-ai-usage-rankings/5yONP7Ero1NMXWrb). It is a self-reported survey of online adults rather than a population measure.
 
 The ministry meanwhile put up an assistant of its own. The ICT cabinet secretary [put up a platform, hosted on his own official website, intended as a single entry point routing citizens to the agency or service responsible for a given digital programme](https://www.kenyans.co.ke/news/126535-cs-kabogo-unveils-ai-platform-transform-ict-ministry-operations); its developers say it will launch once the underlying information, routing and review safeguards are in place, so it is not yet answering questions. A public-information service sited on a minister's website rather than a government domain carries no stated operator or accountability route.
+<!-- /narrative -->
+### ICT Industry
+
+<!-- narrative: technology--tech-industry -->
+The month's movement in the sector was a fibre operator saying it intends to stop selling fibre. The Kenyan business of a pan-African backbone owner [is repositioning from connectivity provider to a layered artificial-intelligence, cloud and cybersecurity business on top of its own network](https://techtrendske.co.ke/2026/09/10/interview-liquid-bets-on-ai-as-next-growth-frontier-for-africas-fibre-network/), its chief executive arguing on 10 September that connectivity becomes the foundation of digital infrastructure rather than the product. He [put Africa at 0.6% of world data-centre capacity](https://www.itweb.africa/article/interview-liquid-targets-africas-data-centre-gap/xA9POvNE2Gxqo4J8), the concern he said African telecom executives raise most. It is a stated strategy in two interviews at one conference: no revenue split, investment figure, capacity addition or service launch date accompanies it.
 <!-- /narrative -->
 ### Innovation ecosystem
 
