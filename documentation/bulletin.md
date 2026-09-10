@@ -52,6 +52,7 @@ The page dropped the report apparatus it had inherited without earning: no kicke
 2. **The summaries are model-authored**, bounded by keeping what it writes: `outputs/bulletins/summaries.json` is the store, `--write` the only way in, `--scan` asks only where there is none. Without it every item would be summarised twice, worded differently, and both published.
 3. **Detail sits in one place** — the summarise-once discipline and the anchor rule above.
 4. **A dated PDF is cut like everything else.** Being superseded tomorrow is the reason to want a copy today: every other document can be re-read at its own URL, and this one cannot.
+5. **The page promises the overnight sweep and nothing else** *(2026-09-10, Bill)*. The overnight cycle is 7/365 and is a necessity; the midday top-up is a run someone chooses to make, and once the site is public a promised refresh that does not arrive is a worse fault than a bulletin that only ever claims what the nightly sweep gave it. So the standing copy says *at the end of each data collection sweep* — true of every run, and true on the many days no top-up happens. `BULLETIN-TOPUP.md` stays exactly as it is: the run is kept and is run when the morning's catch is worth publishing early, it is simply not advertised.
 
 ## What it is not
 

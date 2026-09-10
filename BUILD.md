@@ -181,7 +181,7 @@ Commit the topic tree.
 
 ## Stage 7 — the bulletin (window select; model authoring)
 
-One document over a two-day window: `outputs/bulletins/corpus-bulletin.md`, published at `/bulletin/`. Design note: `documentation/bulletin.md`. **This stage also runs on its own at midday** — `BULLETIN-TOPUP.md` is that run: this stage, one render, no sentinel, and the cycle trigger deliberately does not fire on it.
+One document over a two-day window: `outputs/bulletins/corpus-bulletin.md`, published at `/bulletin/`. Design note: `documentation/bulletin.md`. **This stage can also run on its own at midday** — `BULLETIN-TOPUP.md` is that run: this stage, one render, no sentinel, and the cycle trigger deliberately does not fire on it.
 
 ```bash
 python scripts/bulletin.py --scan          # the window, and which items still need a summary

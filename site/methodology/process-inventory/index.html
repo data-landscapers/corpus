@@ -301,9 +301,9 @@
       <td>Checks that every outbound link on every built page opens a new tab — a finding stops the push — then commits and pushes. The hosting workflow serves the pages and the file store serves the rest, at one set of addresses a reader cannot tell apart. The render <em>is</em> the build — nothing is compiled at deploy time and nothing is generated when a reader asks for a page. Running the render is the instruction to publish, so there is no separate approval step.</td>
       </tr>
       <tr>
-      <td><strong>Top up the bulletin at midday</strong></td>
+      <td><strong>Top up the bulletin during the day</strong></td>
       <td><code>BULLETIN-<wbr>TOPUP.md</code></td>
-      <td>Re-runs the bulletin stage alone against the morning sweep's catch, republishing the catalogue and the counts alongside it so no page states a figure another page contradicts. Deliberately does not trigger a full build.</td>
+      <td>Run by hand, some days and not others, when a morning's catch is worth publishing before that night's sweep. Re-runs the bulletin stage alone, republishing the catalogue and the counts alongside it so no page states a figure another page contradicts. Deliberately does not trigger a full build.</td>
       </tr>
       <tr>
       <td><strong>Send something back the other way</strong></td>

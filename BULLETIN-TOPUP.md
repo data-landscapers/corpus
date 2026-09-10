@@ -2,6 +2,8 @@
 
 Trigger: **"run the bulletin top-up"**, typed by hand, after OSINT has run `SWEEP-BULLETIN.md`. Manual only: it exists to put a time of day on a document, and a time of day is Bill's to choose.
 
+**Sporadic, and not promised on the page.** The bulletin's standing copy claims the overnight sweep only, so a morning without a top-up publishes nothing false — `documentation/bulletin.md` → *The decisions* 5.
+
 **What it is for.** OSINT's overnight sweep leaves the bulletin's two-day window holding yesterday in full and nothing of today. `SWEEP-BULLETIN.md` fills that gap on OSINT's side — a today-only sweep, a scoped ingest, a mirror, late morning. This is the other half: without this run the top-up reaches the mirror and stops there, because nothing on this side reads it.
 
 **It is BUILD stage 7, its render, and the pages that publish a count of the base — and nothing else.** Every rule stays in `BUILD.md`, `RENDER.md` and `documentation/bulletin.md`; what is written here is only what differs about running that stage alone at midday.
