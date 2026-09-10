@@ -56,3 +56,29 @@ h1, h2, h3, h4 { scroll-margin-top: calc(var(--header-h) + 46px); }
 .stat-bar__label { font-family: var(--mono); font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--ink-faint); }
 .stat-bar__item { font-family: var(--serif); font-size: 0.85rem; color: var(--ink-light); }
 .stat-bar__item strong { font-family: var(--display); font-size: 1rem; font-weight: 700; color: var(--accent-dk); margin-left: 0.3rem; }
+
+/* ── BODY PROSE, ONE STEP DOWN ──
+ * 17px against the website's 18px *(Bill, 2026-09-10)*.
+ *
+ * The two sites are the same measurement — root 18px, body 1rem, 1.6 leading,
+ * a 926px measure on both an article and a report — so this is not drift being
+ * corrected, it is a Corpus page being asked to sit a step below the website's.
+ * A Corpus page is a long document read for reference rather than an essay read
+ * once, and at the same size it reads heavier than the thing it is a companion
+ * to.
+ *
+ * **`body`, not `html`.** Everything else on the page — headings, nav, tables,
+ * badges, the stat bar — is sized in `rem`, so moving the root would take the
+ * whole scale down with it and this is only about the prose. Moving `body`
+ * moves exactly what inherits from it: paragraphs, list items, the text inside
+ * a `details`. `rem` rather than `17px` so the 720px breakpoint, where the root
+ * drops to 16px, takes the same proportion down with it.
+ *
+ * **Screen only.** `report.css` sets the print root to 10pt and the dated PDFs
+ * are cut from it; a body rule that reached print would reflow every one of
+ * them for a change that was asked about a web page. The PDF's prose stays at
+ * its 10pt.
+ */
+@media screen {
+  body { font-size: 0.94rem; }
+}

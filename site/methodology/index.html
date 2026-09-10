@@ -7,8 +7,8 @@
 <meta name="description" content="How the Data Landscapers corpus is built: what is collected, how it is classified, how figures are dated, and what the base does not claim.">
 <link rel="canonical" href="https://corpus.data-landscapers.io/methodology/">
 <link rel="stylesheet" href="../assets/css/main.css?v=e83cdd85">
-<link rel="stylesheet" href="../assets/css/corpus.css?v=58a36a78">
-<link rel="stylesheet" href="../assets/css/home.css?v=1e09f478">
+<link rel="stylesheet" href="../assets/css/corpus.css?v=cd09cbd2">
+<link rel="stylesheet" href="../assets/css/home.css?v=9ca836ac">
 <link rel="stylesheet" href="../assets/css/methodology.css?v=b2a109a9">
 <link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-BF3X4N6YML"></script>
@@ -87,6 +87,7 @@
         Corpus is built by two networked machines.<ul>
       <li>The first is responsible for data collection and classification. Its repository is private. </li>
       <li>The second is responsible for summarising content and keeping reports and datasets up to date. Its repository is available at https://github.com/data-landscapers/corpus. </li>
+      <li>Each machine reviews the work of the other and automatically exchanges and implements actionable notes </li>
       </ul>
       </li>
       <li><strong>Technology</strong><ul>
@@ -97,7 +98,7 @@
       </li>
       </ul>
       <h2 id="data-collection">Data collection</h2>
-      <p>The data collection machine runs a nightly sweep cycle which consists of a standard daily search and fetch and (currently) one of 3 focused searches that repeat every 3 days. Most of the searches are defined by lookup lists that can be altered without</p>
+      <p>The data collection machine runs a nightly sweep cycle which consists of a standard daily search and fetch and (currently) one of 2 focused searches that repeat every second day. Most of the searches are defined by lookup lists that can be altered without</p>
       <ul>
       <li><strong>Daily</strong><br />
         Searches for items published in at least the past 24 hours, and back to the end of the previous run where that is longer, for:<ul>
@@ -106,29 +107,28 @@
       <li>A general search for policy, governance &amp; citizen feedback</li>
       </ul>
       </li>
-      <li><strong>Day 1</strong><br />
-        Searches for digital transformation items published since the last time this day was run for:<ul>
+      <li><strong>Day 1</strong><ul>
       <li>A fixed list of <a href="lookups/#national-newspapers">national newspapers</a></li>
       <li>A fixed list of <a href="lookups/#academic-journals">academic journals</a></li>
       <li>A fixed list of <a href="lookups/#ngos-and-think-tanks">NGOs and think tanks</a></li>
-      </ul>
-      </li>
-      <li><strong>Day 2</strong><br />
-        Non-state finance<ul>
-      <li>API extraction of newly published IATI activities</li>
-      <li>Searches for digital transformation items published since the last time this day was run for a fixed list of <a href="lookups/#financiers">financiers</a></li>
-      </ul>
-      </li>
-      <li><strong>Day 3</strong><br />
-        Four separate deep searches for each country:<ul>
-      <li>Non-state finance</li>
-      <li>Governance (institutions and instruments, excluding data exchange)</li>
-      <li>Data exchange (content, not transport)</li>
-      <li>Demand and political economy<br />
-        Deep searches for regions and <a href="lookups/#regional-institutions">regional institutions</a> focusing on:</li>
+      <li>A fixed list of <a href="lookups/#regional-institutions">regional institutions</a> focusing on:<ul>
       <li>Policy collaboration and coordination</li>
       <li>Legal harmonisation</li>
       <li>Shared infrastructure</li>
+      </ul>
+      </li>
+      </ul>
+      </li>
+      <li><strong>Day 2</strong><ul>
+      <li>API extraction of newly published IATI activities</li>
+      <li>A fixed list of <a href="lookups/#financiers">financiers</a></li>
+      <li>Four separate deep searches for each country covering<ul>
+      <li>Non-state finance</li>
+      <li>Governance (institutions and instruments, excluding data exchange)</li>
+      <li>Data exchange (content, not transport)</li>
+      <li>Demand and political economy</li>
+      </ul>
+      </li>
       </ul>
       </li>
       </ul>

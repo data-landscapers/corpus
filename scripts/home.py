@@ -53,7 +53,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import taxonomy_lib  # noqa: E402
-from copy_lib import copy_inline  # noqa: E402
+from copy_lib import copy, copy_inline  # noqa: E402
 from chrome_lib import chrome, external_links, foot, ga, styles  # noqa: E402
 
 CORPUS = Path(__file__).resolve().parent.parent
@@ -344,8 +344,11 @@ TEMPLATE = """<!DOCTYPE html>
   <div class="container">
 
     <div class="hero">
-      <p>{hero}</p>
+{hero}
     </div>
+
+    <h2 class="section-heading" id="progress"><a href="{base}/progress/">Progress</a></h2>
+    <p class="section-intro">{progress_intro}</p>
 
 {bulletin}
     <h2 class="section-heading" id="countries"><a href="{base}/countries/">Countries &amp; Regions</a></h2>
@@ -616,7 +619,8 @@ def build() -> Path:
         bulletin=bulletin_section(),
         chrome=chrome(None, depth=0), foot=foot(depth=0),
         styles=styles(0, "home.css"), ga=ga(),
-        hero=copy_inline("home", "hero"),
+        hero=copy("home", "hero"),
+        progress_intro=copy_inline("home", "progress-intro"),
         countries_intro=copy_inline("home", "countries-intro"),
         regions_intro=copy_inline("home", "regions-intro"),
         topics_intro=copy_inline("home", "topics-intro"),

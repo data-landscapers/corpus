@@ -23,9 +23,17 @@
 
 /* Hero: smaller type and no trailing whitespace, so the copy sits right above
  * the Countries rule (Bill, 2026-08-13, item 3). Text is placeholder pending a
- * rewrite, so the size is deliberately modest. */
+ * rewrite, so the size is deliberately modest.
+ *
+ * **The zero bottom margin is the *last* paragraph's, not every paragraph's**
+ * *(2026-09-10)*. The hero was one paragraph when it was written and became two
+ * when Bill split it; a blanket `margin-bottom: 0` set the two solid against
+ * each other, which reads as one paragraph with a line break in the wrong place.
+ * `p + p` puts the space back between them and leaves the trailing zero — the
+ * thing the rule was actually for — where it was. */
 .hero { padding: 1.75rem 0 0; margin-bottom: 0.6rem; }
 .hero p { font-size: 1.05rem; line-height: 1.5; max-width: 46rem; margin-bottom: 0; }
+.hero p + p { margin-top: 0.7rem; }
 
 .section-intro { font-size: 1rem; line-height: 1.6; color: var(--ink-light); max-width: 46rem; margin-bottom: 1.25rem; }
 .section-intro--todo { color: var(--ink-faint); font-style: italic; }

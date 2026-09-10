@@ -99,12 +99,22 @@ BADGE_MOVEMENT = [
 # base, which is the reading §4's opening paragraph exists to prevent.
 BADGE_PROGRESS = [
     ("no evidence", "badge--grey"),
+    ("movement",    "badge--green"),
     ("advanced",    "badge--green"),
     ("stalled",     "badge--amber"),
     ("regressed",   "badge--red"),
     ("mixed",       "badge--amber"),
     ("no change",   "badge--grey"),
 ]
+
+# **`Movement` is this column's positive value and `Advanced` is the old name for it**
+# *(2026-09-10)*. The reports' own key was rewritten to *Movement* and the renderer's list was
+# not, so 8,982 cells across the estate fell through to `badge--grey` — every positive row on
+# every country and topic progress report printed the same colour as *No change*, which is the
+# one distinction the column exists to make. `Advanced` stays because 235 rows still carry it;
+# it is not a synonym kept for taste, it is a value still in the corpus. The movement tables of
+# the region reports are a different column and keep `Advanced` as their live term, which is why
+# `BADGE_MOVEMENT` is not touched here.
 
 
 def frontmatter(text: str) -> tuple[dict, str]:
