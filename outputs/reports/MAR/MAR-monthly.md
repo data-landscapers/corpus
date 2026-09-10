@@ -1,11 +1,11 @@
 ---
 title: Morocco — monthly update, August – September 2026
-compiled: 2026-09-09
-period: 2026-08-01 to 2026-09-09
+compiled: 2026-09-10
+period: 2026-08-01 to 2026-09-10
 place: MAR
-ledger_rows: 38
+ledger_rows: 40
 not_held: 14
-record: 6b3a912b863a
+record: 650e5ea5786e
 ---
 
 # Morocco: monthly update, August – September 2026
@@ -144,6 +144,14 @@ The institutional side did move. Four public-interest institutes [were establish
 
 <!-- narrative: technology--tech-industry -->
 The industry and trade ministry [added video games to the innovation funding programme](https://en.7news.ma/morocco-adds-video-games-to-innovation-funding-programme/), so companies in the sector can now apply for government funding to develop and test new games. No allocation, ceiling or first award has been published.
+<!-- /narrative -->
+
+## Capacity
+
+### Research institutions
+
+<!-- narrative: capacity--capacity-research -->
+Two published outputs show what the university departments are working on, neither of them adopted by anyone. Researchers at two universities built an [electronic voting model combining biometric verification of the voter, blockchain and the ability to keep working where connectivity is weak or absent, tested in a field trial with 300 participants and published on 4 September in a peer-reviewed cybersecurity journal](https://www.hespress.com/%d8%aa%d8%ac%d8%b1%d8%a8%d8%a9-%d9%85%d8%ba%d8%b1%d8%a8%d9%8a%d8%a9-%d9%84%d9%84%d8%aa%d8%b5%d9%88%d9%8a%d8%aa-%d8%a7%d9%84%d8%b1%d9%82%d9%85%d9%8a-%d8%aa%d8%ac%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b9-1802990.html). It is a research platform, not an electoral system the authorities have taken up. Separately a scientific review available from 1 September records an [expansion of Moroccan research applying artificial intelligence to drought, water scarcity and rising temperatures, across water, agriculture, energy, cities and natural hazards](https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%8a%d9%88%d8%b3%d8%b9-%d8%a3%d8%a8%d8%ad%d8%a7%d8%ab-%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a-%d9%84%d9%85-1804454.html). Neither account carries a paper count, a funding figure or any record of operational adoption.
 <!-- /narrative -->
 
 ## Inclusion

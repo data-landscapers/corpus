@@ -1,11 +1,11 @@
 ---
 title: Rwanda — monthly update, August – September 2026
-compiled: 2026-09-09
-period: 2026-08-01 to 2026-09-09
+compiled: 2026-09-10
+period: 2026-08-01 to 2026-09-10
 place: RWA
-ledger_rows: 45
+ledger_rows: 48
 not_held: 9
-record: 06ce362d0bbb
+record: 45059a96d8f2
 ---
 
 # Rwanda: monthly update, August – September 2026
