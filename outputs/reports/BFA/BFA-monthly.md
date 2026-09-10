@@ -3,9 +3,9 @@ title: Burkina Faso — monthly update, August – September 2026
 compiled: 2026-09-10
 period: 2026-08-01 to 2026-09-10
 place: BFA
-ledger_rows: 33
+ledger_rows: 35
 not_held: 8
-record: 81fd69dee300
+record: ffc21885c46c
 ---
 
 # Burkina Faso: monthly update, August – September 2026

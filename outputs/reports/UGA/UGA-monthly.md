@@ -1,11 +1,11 @@
 ---
 title: Uganda — monthly update, August – September 2026
-compiled: 2026-09-09
-period: 2026-08-01 to 2026-09-09
+compiled: 2026-09-10
+period: 2026-08-01 to 2026-09-10
 place: UGA
-ledger_rows: 88
+ledger_rows: 90
 not_held: 12
-record: 0a758c556fc3
+record: ed12ed256b18
 ---
 
 # Uganda: monthly update, August – September 2026
@@ -188,6 +188,11 @@ What developers here build on is being decided ahead of the strategy. A wire rep
 Crop-disease and precision-agriculture tools are [being piloted under GAINAfrica](https://aimnews.org/2026/08/25/europa-introduz-inteligencia-artificial-generativa-para-transformar-africa/), a Horizon Europe project led by La Sapienza in Rome and running in five African countries. No user count, evaluation or end date is published.
 
 A domestic model reached a continental prize rather than a deployment: a startup building [credit scoring for smallholder farmers who lack collateral took US$50,000, about 190m shillings, in growth funding at a Kigali food-systems summit](https://nilepost.co.ug/technology/369117/ugandan-startup-sandi-ai-wins-shs190m-gogettaz-agripreneur-prize). No user count, lender partnership, loan volume or model documentation is published. In the same week the state set artificial intelligence against a sector rather than a system, [making "Digital Agenda and Artificial Intelligence to Redesign Tourism" the theme of national World Tourism Day celebrations, against 793,815 visitors in the first half of 2026 and receipts up 25.6% to 2.30tn shillings](https://www.monitor.co.ug/uganda/news/national/uganda-turns-to-ai-to-drive-tourism-growth-5583524) — a framing with no programme, budget or system behind it.
+<!-- /narrative -->
+### ICT Industry
+
+<!-- narrative: technology--tech-industry -->
+One domestic firm passed into foreign ownership, and the consideration is not on the record. A Nigerian technology company [acquired a Ugandan banking-software firm, bringing every stage of credit — from verifying the borrower's identity to repayment — onto a single platform](https://www.wearetech.africa/fr/fils/breves/breves-simple/creditchek-rachete-algosys-pour-faciliter-le-credit-en-afrique-de-lest), the companies saying the combination lets African financial institutions assess loan applications faster and lend more readily. No price is disclosed, and no revenue, customer count, headcount or regulatory clearance is published for either party — so what left the country cannot be sized.
 <!-- /narrative -->
 ### Innovation ecosystem
 

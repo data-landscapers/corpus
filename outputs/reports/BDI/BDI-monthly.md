@@ -1,11 +1,11 @@
 ---
 title: Burundi — monthly update, August – September 2026
-compiled: 2026-09-09
-period: 2026-08-01 to 2026-09-09
+compiled: 2026-09-10
+period: 2026-08-01 to 2026-09-10
 place: BDI
-ledger_rows: 34
+ledger_rows: 35
 not_held: 15
-record: 200a53fc835c
+record: db346bf18148
 ---
 
 # Burundi: monthly update, August – September 2026
@@ -103,6 +103,14 @@ Local government gained equipment rather than systems. A development agency [han
 
 <!-- narrative: digitalisation--digital-rural -->
 Civil registration is the one rural system with a number attached to it. Marking African Civil Registration Day, the territorial administration directorate [set out digitalisation of civil status in pilot communes and decentralisation down to zone level, with planned interoperability with health facilities for births and deaths notified through hill chiefs, and a UN agency stated that thirteen communes already hold a biometric registration system](https://www.rtnb.bi/?mypost%3Fid=596). Thirteen is the whole of the count: against well over a hundred communes, what the base records is a pilot that has been running for at least a quarter and a national position that has not moved.
+<!-- /narrative -->
+
+## Technology
+
+### AI
+
+<!-- narrative: technology--tech-ai -->
+The strategy went looking for money. The finance and budget minister carried its ambitions to the Korea-Africa economic cooperation ministerial in Seoul, [seeking the financing and partnerships to turn it into concrete projects](https://www.wearetech.africa/fr/fils/actualites/tech/intelligence-artificielle-a-seoul-le-burundi-presente-ses-ambitions), the account naming connectivity, data infrastructure and local skills as what the strategy validated in April provides for, against national digital capacity it describes as limited. No commitment, partner or project is reported as resulting, which leaves the strategy where the base already had it: adopted, unfunded and unimplemented.
 <!-- /narrative -->
 
 ## Capacity

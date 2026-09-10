@@ -1,11 +1,11 @@
 ---
 title: Niger — monthly update, August – September 2026
-compiled: 2026-09-06
-period: 2026-08-01 to 2026-09-06
+compiled: 2026-09-10
+period: 2026-08-01 to 2026-09-10
 place: NER
-ledger_rows: 32
+ledger_rows: 33
 not_held: 2
-record: b39292505217
+record: 2ac704952231
 ---
 
 # Niger: monthly update, August – September 2026

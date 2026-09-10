@@ -1,11 +1,11 @@
 ---
 title: North Africa — monthly update, August – September 2026
-compiled: 2026-09-02
-period: 2026-08-01 to 2026-09-02
+compiled: 2026-09-10
+period: 2026-08-01 to 2026-09-10
 place: XNA
-ledger_rows: 3
+ledger_rows: 4
 not_held: 0
-record: b2906a908b7a
+record: aed47079e5f0
 ---
 
 # North Africa: monthly update, August – September 2026

@@ -1,11 +1,11 @@
 ---
 title: Central Africa — monthly update, August – September 2026
-compiled: 2026-09-08
-period: 2026-08-01 to 2026-09-08
+compiled: 2026-09-10
+period: 2026-08-01 to 2026-09-10
 place: XCA
 ledger_rows: 9
 not_held: 0
-record: ea149b2a12b9
+record: 895039e20cd3
 ---
 
 # Central Africa: monthly update, August – September 2026
@@ -26,6 +26,8 @@ Payments infrastructure carried the month: BEAC put [SYSTAC 2 into production on
 Africa CDC [closed a regional advocacy workshop in Libreville on 21 August](https://union.sonapresse.com/index.php/fr/africa-cdc-une-feuille-de-route-ambitieuse-pour-le-partage-des-donnees-sanitaires) setting a six-week deadline for drafting an inter-country health-data-sharing convention and a four-week deadline for a formal sharing mechanism, to be put to the health ministers of the seven of nine member states that have yet to sign the underlying protocol. The deadlines fall after this window and are not yet due.
 
 The regional data-governance framework closed its consultations. [The Douala sessions ended on 4 September with 27 participants and European Union and German development backing, a framework and an accompanying roadmap due out of them](https://www.uneca.org/stories/eca-and-partners-advance-eccas-regional-data-governance-framework). No draft text, adoption route, member-state commitment or publication date for either is held — which leaves the region with a process and no instrument.
+
+A second account of the same Douala workshop [names the African Union development agency, the UN economic commission and the African Union Commission as engaged alongside the European and German backing, and presents the exercise as a further step in the community's regional digital integration](https://journaldesnations.net/afrique-centrale-la-ceeac-avance-vers-un-cadre-commun-de-gouvernance-des-donnees-transfrontalieres/). It adds partners and no text.
 <!-- /narrative -->
 
 ## Instruments and harmonisation
@@ -54,6 +56,8 @@ The African Union's PIDA programme [published a project prospectus for ECCAS-lev
 BEAC [put SYSTAC 2 into production on 3 August](https://www.beac.int/wp-content/uploads/2026/08/CP_MISE-EN-PROD-SYSTAC.pdf), the bank's own communique settling a date a trade-press account had misdated to 2027: a centralised, fully online ISO 20022-compliant platform for transfers, direct debits, cheques and card payments across all six CEMAC states, with the instant-payments module explicitly not yet in production and the incoming RTGS system SYGMA V10 dated only to "the coming weeks". [Further reporting through the month](https://www.ecofinagency.com/news-finances/1408-58143-beac-deploys-new-cemac-retail-payment-platform-as-regional-rtgs-upgrade-nears) added no new capability beyond BEAC's own account.
 
 BEAC's July accession to PAPSS had its first public test this month: a Cameroonian trade outlet [reported on 25 August that Cameroonian businesses still had no operational access](https://africtelegraph.com/blog/papss-en-cemac-les-entreprises-camerounaises-encore-en-attente/) to the continental settlement rail, with no public list yet of operational Cameroonian banks, open corridors, tariffs or ceilings.
+
+The accession then moved to the banks that have to use it. On 9 September the central bank and the operator [held a webinar to accelerate the accession of the zone's commercial banks, setting out the practical terms of participation and the next steps in the process](https://fr.journalducameroun.com/integration-financiere-la-beac-et-le-papss-mobilisent-les-banques-de-la-cemac/), the central bank framing it as a move toward African financial sovereignty and reduced dependence on the dollar and the euro. Still no member-state bank is named as acceded or in process, and no timetable, volume or corridor figure is published — a month after businesses in the zone's largest economy reported no operational access, the answer is another briefing.
 <!-- /narrative -->
 ### National statistics
 

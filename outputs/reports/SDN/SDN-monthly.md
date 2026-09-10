@@ -1,11 +1,11 @@
 ---
 title: Sudan — monthly update, August – September 2026
-compiled: 2026-09-08
-period: 2026-08-01 to 2026-09-08
+compiled: 2026-09-10
+period: 2026-08-01 to 2026-09-10
 place: SDN
-ledger_rows: 38
+ledger_rows: 39
 not_held: 5
-record: 5848d92a71e2
+record: 9e2c9708db6c
 ---
 
 # Sudan: monthly update, August – September 2026
