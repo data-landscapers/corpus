@@ -1,9 +1,5 @@
-The same counts read down the places. For each country, how many of the 121 indicators came out at each value.
+Every country progress report looks for evidence impacting on 121 indicators over the past year. It classifies progress on each indicator according to [six statuses](https://corpus.data-landscapers.io/methodology/lookups/#progress-categories). This table counts the answers: for each country, how many of the 121 indicators came out at each value.
 
-Nothing here is computed beyond the counting. Each number is a tally of what that country's own progress report says, and every row sums to 121 because the frame asks every question of every country. Follow a country to its progress report to read what the numbers are made of.
+Click on a country to see its full progress report.
 
-*No evidence* means the base holds nothing on that indicator for that country. A high count says what has not been collected here yet, not what does not exist.
-
-Regions group the rows and carry no counts: a region progress report is a movement ledger over that region's own institutions, not a run through the indicator frame.
-
-The same counts read down the indicators are on the [topics page](../).
+*Movement* means that some progress, however minimal has been made. *No evidence* means the repository holds nothing on that indicator for that country.
