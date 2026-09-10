@@ -1,11 +1,11 @@
 ---
 title: Burkina Faso — monthly update, August – September 2026
-compiled: 2026-09-08
-period: 2026-08-01 to 2026-09-08
+compiled: 2026-09-10
+period: 2026-08-01 to 2026-09-10
 place: BFA
-ledger_rows: 31
+ledger_rows: 33
 not_held: 8
-record: 2e210146aa04
+record: 81fd69dee300
 ---
 
 # Burkina Faso: monthly update, August – September 2026
@@ -68,6 +68,11 @@ The month's one new external route is a proposal rather than a link. Burkinabè 
 
 <!-- narrative: ict-infrastructure--infra-store -->
 A wholly domestic commercial hosting provider [launched on 31 July](https://www.aib.media/burkina-souverainete-numerique-ika-cloud-le-premier-hebergeur-100-local-des-donnees/) with more than 600 domain names, more than 196 web hostings and 98% availability at launch — the vendor's own figures, with capacity, tier and certification unstated.
+<!-- /narrative -->
+### Energy
+
+<!-- narrative: ict-infrastructure--infra-energy -->
+A [26.4 MW thermal plant was commissioned at Bobo 2 on 7 August, raising that site from 60 MW to 86.4 MW at over FCFA 33 billion financed entirely from national funds](https://www.aib.media/guiriko-une-nouvelle-centrale-thermique-de-264-mw-mise-en-service-pour-renforcer-les-capacites-de-production-electrique-de-bobo-2/), presented as reducing supply interruptions. It follows a 50 MW plant seventeen days earlier. Neither is tied to a digital load: nothing states what any data centre or telecom site draws, and no interruption series is published against which either can be judged.
 <!-- /narrative -->
 ### Cybersecurity
 

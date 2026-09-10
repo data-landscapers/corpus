@@ -1,15 +1,15 @@
 ---
 title: Energy — monthly update, August – September 2026
-compiled: 2026-09-09
-period: 2026-08-01 to 2026-09-09
+compiled: 2026-09-10
+period: 2026-08-01 to 2026-09-10
 subject: infra.energy
-places: BWA; BDI; CAF; TCD; COM; ETH; GMB; GHA; KEN; LSO; LBY; MDG; MWI; MUS; MOZ; SLE; ZAF; SSD; UGA; ZMB; ZWE
-record: 29672b984ce2
+places: BWA; BFA; BDI; CAF; TCD; COM; ETH; GMB; GHA; KEN; LSO; LBY; MDG; MWI; MUS; MOZ; SLE; ZAF; SSD; UGA; ZMB; ZWE
+record: 820f59252e46
 ---
 
 # Energy: monthly update, August – September 2026
 
-*21 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*22 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -18,6 +18,10 @@ record: 29672b984ce2
 The facility's power is the unusual part. [On-site gas-fired generation is supplemented by solar introduced to cover periods of lower gas availability, with battery and compressed-gas storage under review](https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85) — solar specified as firming for gas, the reverse of the usual diesel-backup arrangement. [An initial 5 MW solar development was assessed during the quarter and an extension of the gas gathering network to connect a further production well is stated subject to funding](https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85); neither carries a capital cost, approval or date, and the company states both are work-programme items rather than guidance. The second gates the data centre: capacity growth turns on upstream gas work rather than on demand.
 
 The price of the energy the sector runs on is under review, and the utility's own case is a large one: its consultation paper [makes the case for a 46% tariff rise on a P9.585bn revenue requirement against a P3.477bn funding gap](https://www.bera.co.bw/downloads/Electricity/BPC%202026-27%20Tariff%20Application%20-%20Public%20Notice/2026-27%20BPC%20Electricity%20Tariff%20Application%20Consultation%20Paper.pdf). It is an application rather than a determination: no regulator decision, effective date or data-centre tariff schedule accompanies it, and the base still holds no measured electricity cost for any digital facility in the country.
+
+## Burkina Faso
+
+A [26.4 MW thermal plant was commissioned at Bobo 2 on 7 August, raising that site from 60 MW to 86.4 MW at over FCFA 33 billion financed entirely from national funds](https://www.aib.media/guiriko-une-nouvelle-centrale-thermique-de-264-mw-mise-en-service-pour-renforcer-les-capacites-de-production-electrique-de-bobo-2/), presented as reducing supply interruptions. It follows a 50 MW plant seventeen days earlier. Neither is tied to a digital load: nothing states what any data centre or telecom site draws, and no interruption series is published against which either can be judged.
 
 ## Burundi
 

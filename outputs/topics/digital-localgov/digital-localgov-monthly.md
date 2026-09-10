@@ -1,10 +1,10 @@
 ---
 title: Digitalisation of sub-national government — monthly update, August – September 2026
-compiled: 2026-09-09
-period: 2026-08-01 to 2026-09-09
+compiled: 2026-09-10
+period: 2026-08-01 to 2026-09-10
 subject: digital.localgov
 places: AGO; BFA; BDI; CMR; GHA; GNB; MWI; MLI; NAM; NGA; RWA; SEN; ZAF; SDN; TZA; TGO; UGA; ZMB; ZWE
-record: 84f59969f220
+record: 9ec2d6e1ef3b
 ---
 
 # Digitalisation of sub-national government: monthly update, August – September 2026
