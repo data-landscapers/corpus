@@ -3,15 +3,21 @@ title: Public debate and participation in policymaking — monthly update, Augus
 compiled: 2026-09-10
 period: 2026-08-01 to 2026-09-10
 subject: gov.discourse
-places: BEN; BFA; CMR; TCD; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; MWI; MLI; MUS; MAR; NAM; NER; NGA; SEN; SYC; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 84cb9b2c52e3
+places: AGO; BEN; BFA; CMR; TCD; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; MWI; MLI; MUS; MAR; NAM; NER; NGA; SEN; SYC; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 79f638871f55
 ---
 
 # Public debate and participation in policymaking: monthly update, August – September 2026
 
-*36 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*37 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
+
+## Angola
+
+The consultation on the artificial intelligence bill can now be counted, which is unusual for this base. The telecommunications ministry's portal [records 18 contributions from companies, 18 from specialists and 5 from the general public](https://consultapublica.minttics.gov.ao/) against the 20-page bill it serves, a text dated September 2025 whose comparative section reviews artificial-intelligence regulation in the United States, the European Union, China, Japan, Canada and Brazil and the national strategies of Egypt, Kenya, South Africa and Rwanda. Forty-one contributions is a small number and it is a published one; nothing else on this ledger states how many people answered a government consultation.
+
+The duty behind it is general. The [administrative procedure code of 2022](https://lex.ao/docs/assembleia-nacional/2022/lei-n-o-31-22-de-30-de-agosto/) requires administrative bodies to enable participation by individuals and associations in forming their decisions, with hearing of interested parties and public consultation on draft regulations. What the portal adds is evidence that the duty produces something measurable when a ministry chooses to measure it.
 
 ## Benin
 

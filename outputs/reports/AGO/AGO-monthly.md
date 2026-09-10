@@ -1,11 +1,11 @@
 ---
 title: Angola — monthly update, August – September 2026
-compiled: 2026-09-09
-period: 2026-08-01 to 2026-09-09
+compiled: 2026-09-10
+period: 2026-08-01 to 2026-09-10
 place: AGO
-ledger_rows: 49
+ledger_rows: 51
 not_held: 7
-record: a7429b97184e
+record: 3498ff66f7f9
 ---
 
 # Angola: monthly update, August – September 2026
@@ -53,6 +53,13 @@ The national satellite began earning its keep across the border. Mozambique's st
 
 <!-- narrative: governance--gov-standards -->
 The standards estate entered the record this month rather than moving in it. The national quality-infrastructure institute, formed by the 2021 merger of the standardisation and accreditation bodies, is [an ISO correspondent member](https://www.iso.org/member/316519.html) — a category that carries no vote on ISO technical work — and in March [published its 2026 national standards catalogue, incorporating 140 new standards](https://iniq.gov.ao/2026/03/13/%f0%9d%90%88%f0%9d%90%8d%f0%9d%90%88%f0%9d%90%90-%f0%9d%90%83%f0%9d%90%88%f0%9d%90%92%f0%9d%90%8f%f0%9d%90%8e%f0%9d%90%8d%f0%9d%90%88%f0%9d%90%81%f0%9d%90%88%f0%9d%90%8b%f0%9d%90%88%f0%9d%90%99/), among them texts arising from SADC regional harmonisation across the circular economy, construction and building materials, food, quality management, safety rules, technology suppliers, occupational health and safety and vehicle safety. The institute states that Angolan standards are voluntary and are made mandatory only by legislation in the public interest, which is where a reader has to look for their force.
+<!-- /narrative -->
+### Public debate and participation in policymaking
+
+<!-- narrative: governance--gov-discourse -->
+The consultation on the artificial intelligence bill can now be counted, which is unusual for this base. The telecommunications ministry's portal [records 18 contributions from companies, 18 from specialists and 5 from the general public](https://consultapublica.minttics.gov.ao/) against the 20-page bill it serves, a text dated September 2025 whose comparative section reviews artificial-intelligence regulation in the United States, the European Union, China, Japan, Canada and Brazil and the national strategies of Egypt, Kenya, South Africa and Rwanda. Forty-one contributions is a small number and it is a published one; nothing else on this ledger states how many people answered a government consultation.
+
+The duty behind it is general. The [administrative procedure code of 2022](https://lex.ao/docs/assembleia-nacional/2022/lei-n-o-31-22-de-30-de-agosto/) requires administrative bodies to enable participation by individuals and associations in forming their decisions, with hearing of interested parties and public consultation on draft regulations. What the portal adds is evidence that the duty produces something measurable when a ministry chooses to measure it.
 <!-- /narrative -->
 
 ## Finance

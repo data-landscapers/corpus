@@ -107,12 +107,14 @@ lost to rendering the old tables faithfully.
 
 Repaired: **BEN** (50 ***No evidence*** → 2), **COG** (60 → 2),
 **CPV** (57 → 8), **BFA** (51 → 4), **GIN** (46 → 4), **CMR** (40 → 7),
-**COD** (42 → 3), **GAB** (47 → 5), **ERI** (61 → 0).
+**COD** (42 → 3), **GAB** (47 → 5), **ERI** (61 → 0), **AGO** (51 → 0).
 
-Reopened and waiting: none — the reopened queue is clear.
+Reopened and waiting: none.
 
-Not yet reopened, 13 units, 103 sources over 75 indicators — the tail
-`lint-considered.py` still reports.
+The tail, 12 units and 69 sources `lint-considered.py` still reports, worked
+in this order: **NER** 16, **MRT** 15, **SLE** 10, **MLI** 6, **MOZ** 5,
+**SYC** 4, **TCD** 4, **CAF** 3, **DZA** 2, **ZAF** 2, **NAM** 1, **SOM** 1.
+Reopen each with `reopen-considered.py --unit {ISO} --apply` before step 2.
 
 ## Two smaller losses, measured only for Benin
 
