@@ -14,6 +14,15 @@ last_reviewed: 2026-08-28
 
 <!-- newest first: a new block goes directly below this line -->
 
+## 2026-09-10 09:40 · investigation
+
+- **467 of the 698 *No evidence* rows are false.** The base holds a document on the
+  indicator, in the window; stage 4 marked it considered, minted no row, and a
+  considered slug is never reopened. 860 documents, 22 units. No check sees it: all
+  test the frame against the ledger, and the ledger is what lost the evidence.
+  `documentation/considered-not-carried.md`. Yours: the re-read is scope, the lint
+  is a feature under the freeze.
+
 ## 2026-09-08 23:13 · build
 
 - The two progress reports outside their word band are XNA at 403 words over 12 ledger
