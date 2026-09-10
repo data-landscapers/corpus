@@ -80,5 +80,6 @@ h1, h2, h3, h4 { scroll-margin-top: calc(var(--header-h) + 46px); }
  * its 10pt.
  */
 @media screen {
-  body { font-size: 0.94rem; }
+  :root { --prose: 0.94rem; }
+  body { font-size: var(--prose); }
 }

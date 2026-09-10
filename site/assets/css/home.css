@@ -35,7 +35,14 @@
 .hero p { font-size: 1.05rem; line-height: 1.5; max-width: 46rem; margin-bottom: 0; }
 .hero p + p { margin-top: 0.7rem; }
 
-.section-intro { font-size: 1rem; line-height: 1.6; color: var(--ink-light); max-width: 46rem; margin-bottom: 1.25rem; }
+/* **`--prose`, not `1rem`** *(2026-09-10)*. This is the home page's body text — the
+   paragraph under each section heading is the only prose the page has — and it was
+   pinned at the size `body` used to be. So when the body rule moved to 0.94rem in
+   `corpus.css` it went on printing at 18px, and the one page a reader meets first was
+   the one page that ignored the change. The token is defined beside that rule and this
+   is the only other place prose is sized, so the two cannot drift apart again. It falls
+   back to 1rem for print, where `corpus.css` deliberately defines nothing. */
+.section-intro { font-size: var(--prose, 1rem); line-height: 1.6; color: var(--ink-light); max-width: 46rem; margin-bottom: 1.25rem; }
 .section-intro--todo { color: var(--ink-faint); font-style: italic; }
 
 /* Footnote/caveat sits tight under its matrix, and the next section's rule
