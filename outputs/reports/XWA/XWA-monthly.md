@@ -1,11 +1,11 @@
 ---
 title: West Africa — monthly update, August – September 2026
-compiled: 2026-09-05
-period: 2026-08-01 to 2026-09-05
+compiled: 2026-09-10
+period: 2026-08-01 to 2026-09-10
 place: XWA
-ledger_rows: 26
+ledger_rows: 29
 not_held: 1
-record: 08c849fb11b3
+record: 2deafa0facde
 ---
 
 # West Africa: monthly update, August – September 2026
@@ -46,6 +46,11 @@ The central bank of the West African Monetary Union [is running a structured int
 
 <!-- narrative: instruments--gov-legislate -->
 A press-freedom organisation [reported the cybercrime statutes of Burkina Faso, Mali, Niger and Guinea being used to prosecute journalists](https://thenationonlineng.net/mfwa-sahel-juntas-weaponising-cybercrime-laws-to-silence-journalists/), presented at a press-freedom conference on 14 August, and called for the repeal of the vague public-order and human-dignity provisions the statutes carry. The finding is one organisation's; no government response and no case count are held.
+<!-- /narrative -->
+### Data protection
+
+<!-- narrative: instruments--gov-protect -->
+The region's data-protection authorities met rather than legislated. Senegal's personal data protection commission [opened a four-day sharing seminar in Dakar on 7 September, bringing together several African and international data-protection authorities to strengthen cooperation between countries, share experience and promote responsible data governance against the demands of digital transformation and artificial intelligence](https://aps.sn/gouvernance-des-donnees-la-cdp-reunit-plusieurs-autorites-africaines-a-dakar/). The authorities attending are not named and no communique or cooperation instrument is published, so this is a convening and not yet a harmonisation step - which is the same shape the Revised Supplementary Act adopted in July takes in this record, adopted and not reproduced.
 <!-- /narrative -->
 ### Standards
 

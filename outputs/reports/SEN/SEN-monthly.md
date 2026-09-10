@@ -1,11 +1,11 @@
 ---
 title: Senegal — monthly update, August – September 2026
-compiled: 2026-09-09
-period: 2026-08-01 to 2026-09-09
+compiled: 2026-09-10
+period: 2026-08-01 to 2026-09-10
 place: SEN
-ledger_rows: 55
+ledger_rows: 58
 not_held: 5
-record: 255961870c0c
+record: 20117a279381
 ---
 
 # Senegal: monthly update, August – September 2026
@@ -134,7 +134,7 @@ The month's clearest movement is a removal rather than an addition. The tax auth
 
 Parliament's own systems entered the record for the first time, and only as a purchase order: on 5 August the United Nations development programme [opened a tender to supply IT equipment for the National Assembly's SIPOP system](https://www.developmentaid.org/tenders/view/1695673/acquisition-dequipements-informatiques-sipop). What that system does, what it costs and when it runs are all absent from the notice, which is the whole of what the base holds on it.
 
-A second single-window model was announced alongside the one already operating. The civil service minister, speaking in Baku, said the country [plans a single public services centre modelled on Azerbaijan's ASAN Khidmet within three to four months](https://www.trend.az/azerbaijan/society/4220630.html) — with no site, budget, service list, legal basis or stated relationship to the citizen single window that has been running passport, business-creation, police-clearance and nationality services since March. The constraint on delivering any of it outside the capital was named the same day: closing a tour of Louga, Saint-Louis, Dagana and Matam, the director of the state's deconcentrated service network [put connectivity as the absolute priority, on the ground that without it there is no dematerialisation at the service centres at all](https://www.socialnetlink.org/2026/09/04/senegal-services-isidore-diouf-erige-la-connectivite-en-priorite-absolue-pour-reussir-la-dematerialisation/).
+A second single-window model was announced alongside the one already operating. The civil service minister, speaking in Baku, said the country [plans a single public services centre modelled on Azerbaijan's ASAN Khidmet within three to four months](https://www.trend.az/azerbaijan/society/4220630.html) — with no site, budget, service list, legal basis or stated relationship to the citizen single window that has been running passport, business-creation, police-clearance and nationality services since March. The constraint on delivering any of it outside the capital was named the same day: closing a tour of Louga, Saint-Louis, Dagana and Matam, the director of the state's deconcentrated service network [put connectivity as the absolute priority, on the ground that without it there is no the removal of paper at the service centres at all](https://www.socialnetlink.org/2026/09/04/senegal-services-isidore-diouf-erige-la-connectivite-en-priorite-absolue-pour-reussir-la-the removal of paper/).
 <!-- /narrative -->
 
 ## Digitalisation
@@ -148,7 +148,7 @@ The one local-records digitisation with a published figure entered the base: thr
 
 <!-- narrative: digitalisation--digital-rural -->
 
-The head of the deconcentrated service network said the thing his own network runs on is missing. Closing a tour of four regions, he [said that without connectivity there can be no deconcentration of public services, and listed connectivity, workstations, IT equipment, archive and mail management and communications security among the problems found in prefectures and gendarmerie posts](https://aps.sn/dematerialisation-sans-connectivite-pas-de-deconcentration-des-services-publics-selon-le-directeur-de-senegal-services/), while announcing the forthcoming integration of civil registration into the national platform for administrative acts. No centre count, connectivity rate or remediation budget is published against the diagnosis.
+The head of the deconcentrated service network said the thing his own network runs on is missing. Closing a tour of four regions, he [said that without connectivity there can be no deconcentration of public services, and listed connectivity, workstations, IT equipment, archive and mail management and communications security among the problems found in prefectures and gendarmerie posts](https://aps.sn/the removal of paper-sans-connectivite-pas-de-deconcentration-des-services-publics-selon-le-directeur-de-senegal-services/), while announcing the forthcoming integration of civil registration into the national platform for administrative acts. No centre count, connectivity rate or remediation budget is published against the diagnosis.
 <!-- /narrative -->
 
 ## Technology
