@@ -107,12 +107,13 @@ lost to rendering the old tables faithfully.
 
 Repaired: **BEN** (50 ***No evidence*** → 2), **COG** (60 → 2),
 **CPV** (57 → 8), **BFA** (51 → 4), **GIN** (46 → 4), **CMR** (40 → 7),
-**COD** (42 → 3), **GAB** (47 → 5), **ERI** (61 → 0), **AGO** (51 → 0).
+**COD** (42 → 3), **GAB** (47 → 5), **ERI** (61 → 0), **AGO** (51 → 0),
+**NER** (13 → 0).
 
 Reopened and waiting: none.
 
-The tail, 12 units and 69 sources `lint-considered.py` still reports, worked
-in this order: **NER** 16, **MRT** 15, **SLE** 10, **MLI** 6, **MOZ** 5,
+The tail, 11 units and 53 sources `lint-considered.py` still reports, worked
+in this order: **MRT** 15, **SLE** 10, **MLI** 6, **MOZ** 5,
 **SYC** 4, **TCD** 4, **CAF** 3, **DZA** 2, **ZAF** 2, **NAM** 1, **SOM** 1.
 Reopen each with `reopen-considered.py --unit {ISO} --apply` before step 2.
 
