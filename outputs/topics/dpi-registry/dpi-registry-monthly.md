@@ -3,13 +3,13 @@ title: Registries (population, land, address, etc.) — monthly update, August �
 compiled: 2026-09-10
 period: 2026-08-01 to 2026-09-10
 subject: dpi.registry
-places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COM; COG; CIV; COD; EGY; ERI; SWZ; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MWI; MLI; MRT; MUS; MAR; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 56494a3fbef6
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; TCD; COM; COG; CIV; COD; EGY; ERI; SWZ; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MWI; MLI; MRT; MUS; MAR; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: b71b469e84a9
 ---
 
 # Registries (population, land, address, etc.): monthly update, August – September 2026
 
-*47 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*48 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -50,6 +50,10 @@ The obligation behind any future social register is now on the record. An [ordin
 ## Cameroon
 
 The [national civil-status registry platform was reported deployed in pilot councils on 16 July](https://techafricanews.com/2026/07/16/cameroon-urges-north-west-councils-to-accelerate-digital-transformation/); the source names no councils and gives no target. The one delivery figure on the record for the wider programme comes from outside government: the national human rights commission, [calling for a modernised and interoperable civil registry on 10 August, put birth-certificate cases processed under a World Bank-backed programme at over 49,000](https://kamerinfosplus.com/2026/08/10/etat-civil-la-cdhc-veut-un-systeme-moderne-digitalise-et-accessible-a-tous/).
+
+## Cape Verde
+
+The registries directorate began publishing about itself. Its new statistical bulletin [reports 2,944 births registered nationally in the first half of 2026 across 23 conservatorias, an average of 16 a day](https://expressodasilhas.cv/pais/2026/08/04/nasceram-2944-criancas-no-primeiro-trimestre/103955), and states that the bulletin exists to publish performance indicators and the volume of acts practised by the services. Until now the register's output reached the public only through the statistics office, a year or more late.
 
 ## Chad
 

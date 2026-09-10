@@ -1,11 +1,11 @@
 ---
 title: Cape Verde — monthly update, August – September 2026
-compiled: 2026-09-08
-period: 2026-08-01 to 2026-09-08
+compiled: 2026-09-10
+period: 2026-08-01 to 2026-09-10
 place: CPV
-ledger_rows: 10
-not_held: 35
-record: a99584ed0741
+ledger_rows: 12
+not_held: 30
+record: 0141e787bb9c
 ---
 
 # Cape Verde: monthly update, August – September 2026
@@ -58,6 +58,16 @@ The surveillance programme moved to a third phase on foreign money. China [made 
 
 ## DPI
 
+### Digital Payments and Fintech
+
+<!-- narrative: dpi--dpi-pay -->
+Complaints about bank fraud [rose from 10 in 2024 to 25 in 2025, a rise of 150 per cent](https://expressodasilhas.cv/economia/2026/08/17/reclamacoes-por-fraude-bancaria-aumentam-150-em-2025/104150), which the central bank attributes to the growing digitalisation of financial services and the security of digital channels. Fraud was the [second most complained-of matter after bank accounts, inside 278 complaints for the year, against which twenty-five supervision measures were adopted and CVE 3,154,582 was restituted to consumers](https://expressodasilhas.cv/economia/2026/08/17/reclamacoes-por-fraude-bancaria-aumentam-150-em-2025/104150). It is the first fraud series the base holds, and two years is not yet a trend.
+<!-- /narrative -->
+### Registries
+
+<!-- narrative: dpi--dpi-registry -->
+The registries directorate began publishing about itself. Its new statistical bulletin [reports 2,944 births registered nationally in the first half of 2026 across 23 conservatorias, an average of 16 a day](https://expressodasilhas.cv/pais/2026/08/04/nasceram-2944-criancas-no-primeiro-trimestre/103955), and states that the bulletin exists to publish performance indicators and the volume of acts practised by the services. Until now the register's output reached the public only through the statistics office, a year or more late.
+<!-- /narrative -->
 ### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->

@@ -3,13 +3,13 @@ title: Digital Payments and Fintech — monthly update, August – September 202
 compiled: 2026-09-10
 period: 2026-08-01 to 2026-09-10
 subject: dpi.pay
-places: DZA; BWA; BFA; BDI; CMR; CAF; TCD; COM; COG; CIV; COD; EGY; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 56691dd5f98a
+places: DZA; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: a33ab4926b59
 ---
 
 # Digital Payments and Fintech: monthly update, August – September 2026
 
-*41 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*42 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -38,6 +38,10 @@ Payments had the month's densest run. On 9 July the regional central bank [joine
 The continental rail reached the monetary union without reaching its businesses. The central bank joined the pan-African payment and settlement system on 9 July, which [an analysis of the trade minister's 21 August call to business describes as the necessary monetary and regulatory piece and not one that opens the service to customers: commercial banks, fintechs and payment providers must still connect technically and switch on the channels that initiate transactions](https://africtelegraph.com/blog/papss-en-cemac-les-entreprises-camerounaises-encore-en-attente/). The operator's coverage claims - 28 countries, more than 190 banks and fintechs, 16 switches - establish reachability rather than that any institution here can yet send and receive.
 
 A domestic entrant arrived on 31 August. A Cameroonian technology company [launched a payments platform carrying transfers across mobile-money networks, wallet management, bill and airtime payment, payment links and developer interfaces, opening here with a stated ambition to reach other African markets](https://techafricanews.com/2026/08/31/looping-binary-launches-lbpay-digital-payments-cameroon/). It is a launch announcement on the company's own account: no user, merchant or transaction figure, licence or partner bank is named.
+
+## Cape Verde
+
+Complaints about bank fraud [rose from 10 in 2024 to 25 in 2025, a rise of 150 per cent](https://expressodasilhas.cv/economia/2026/08/17/reclamacoes-por-fraude-bancaria-aumentam-150-em-2025/104150), which the central bank attributes to the growing digitalisation of financial services and the security of digital channels. Fraud was the [second most complained-of matter after bank accounts, inside 278 complaints for the year, against which twenty-five supervision measures were adopted and CVE 3,154,582 was restituted to consumers](https://expressodasilhas.cv/economia/2026/08/17/reclamacoes-por-fraude-bancaria-aumentam-150-em-2025/104150). It is the first fraud series the base holds, and two years is not yet a trend.
 
 ## Central African Republic
 
