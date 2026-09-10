@@ -13,7 +13,7 @@ Corpus is a repository of summaries and indices of public documents tracking pro
 
 ## bulletin-intro
 
-The bulletin lists all new content published today and yesterday. The first build takes place overnight and is refreshed in the middle of the day to catch this morning's publications. The bulletin can be filtered by country and topic.
+The bulletin lists the latest new content. Typically this is yesterday's news, built automatically overnight. On occasion an additional data collection run takes place during the day and the bulletin will reflect both today and yesterday. The bulletin can be filtered by country and topic.
 
 ## countries-intro
 
