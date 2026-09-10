@@ -105,9 +105,9 @@ lost to rendering the old tables faithfully.
 
 ## The queue
 
-Repaired: **BEN** (50 ***No evidence*** → 2).
+Repaired: **BEN** (50 ***No evidence*** → 2), **COG** (60 → 2).
 
-Reopened and waiting: **COG** 82 slugs, **CPV** 87, **BFA** 85, **GIN** 69,
+Reopened and waiting: **CPV** 87 slugs, **BFA** 85, **GIN** 69,
 **CMR** 67, **COD** 66, **GAB** 65, **ERI** 46.
 
 Not yet reopened, 13 units, 103 sources over 75 indicators — the tail
