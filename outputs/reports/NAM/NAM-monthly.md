@@ -1,11 +1,11 @@
 ---
 title: Namibia — monthly update, August – September 2026
-compiled: 2026-09-08
-period: 2026-08-01 to 2026-09-08
+compiled: 2026-09-10
+period: 2026-08-01 to 2026-09-10
 place: NAM
-ledger_rows: 44
+ledger_rows: 46
 not_held: 11
-record: d4776dc58ae5
+record: 2c90dac46205
 ---
 
 # Namibia: monthly update, August – September 2026
@@ -109,6 +109,11 @@ The securities depository was used for the first time by a listed corporate issu
 
 <!-- narrative: dpi--dpi-mis -->
 The Roads Authority [commissioned a N$13 million project control system](https://neweralive.na/n13-million-project-control-system-launched/) to strengthen oversight of road projects. No project count, user base or reporting output accompanies it.
+<!-- /narrative -->
+### Other GovTech and e-Gov
+
+<!-- narrative: dpi--dpi-govtech -->
+One service moved online and the warning about it came from the people it is for. The health ministry launched a digital disability assessment system, and [disability advocates warned that poor rural connectivity, inadequate equipment and limited digital skills could turn it into a new barrier rather than remove one](https://www.namibian.com.na/digital-disability-system-faces-rural-roadblocks/), a youth disability organisation welcoming the digital shift but making its success conditional on whether the system is accessible beyond the major urban centres and on whether follow-up support exists. No launch date, site coverage, assessment volume, accessibility standard or offline fallback is published, and the ministry's own account of the system is not held.
 <!-- /narrative -->
 
 ## Digitalisation

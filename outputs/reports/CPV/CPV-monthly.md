@@ -3,9 +3,9 @@ title: Cape Verde — monthly update, August – September 2026
 compiled: 2026-09-10
 period: 2026-08-01 to 2026-09-10
 place: CPV
-ledger_rows: 12
+ledger_rows: 15
 not_held: 30
-record: 0141e787bb9c
+record: d6ba9e171bb8
 ---
 
 # Cape Verde: monthly update, August – September 2026
@@ -29,6 +29,11 @@ A [strategic consultation on the national digital transformation agenda was conv
 
 <!-- narrative: governance--gov-legislate -->
 The regulator [opened a public consultation on licensing, spectrum use, frequency coordination, user protection, network security and emergency communications for satellite operators, with submissions to 31 August](https://spaceinafrica.com/2026/08/05/cape-verde-opens-public-consultation-on-new-satellite-communications-regulatory-framework/). It is a direct response to the satellite service launched in the archipelago in December 2024, and is distinct from the general-authorisation regime under which that service was licensed. No draft text or adoption date is published.
+<!-- /narrative -->
+### Data protection
+
+<!-- narrative: governance--gov-protect -->
+Oversight of the state's own intelligence capability moved by administrative act rather than statute, and the act is contested. The prime minister's [delegation of powers over the Republic's information service to the minister of internal administration was formalised by despacho no 15/2026 in the official gazette](https://www.anacao.cv/noticia/2026/09/08/servico-de-informacoes-da-republica-entre-a-defesa-do-estado-e-os-limites-da-democracia/), with the opposition calling it unconstitutional, the government invoking the delegation regime provided for in the Organic Law of the Government, and the President of the Republic declining to address it publicly after discussing it with the prime minister. The despacho text is not held, so whether the delegated powers reach communications interception or data access is not established here.
 <!-- /narrative -->
 ### Standards
 

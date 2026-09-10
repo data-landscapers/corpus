@@ -1,11 +1,11 @@
 ---
 title: Mauritania — monthly update, August – September 2026
-compiled: 2026-09-06
-period: 2026-08-01 to 2026-09-06
+compiled: 2026-09-10
+period: 2026-08-01 to 2026-09-10
 place: MRT
-ledger_rows: 16
+ledger_rows: 19
 not_held: 4
-record: def763cce526
+record: 4a49a23e6691
 ---
 
 # Mauritania: monthly update, August – September 2026
@@ -60,6 +60,11 @@ The national government cloud is close enough to service to be shown off. On 11 
 
 The identity application is now load-bearing, and the month showed what that means. It [carries about 1.5 million citizens and 554,027 remote services, and underpins identity verification for the state services portal's fifteen-plus services and for private financial applications](https://techrek.info/fr/houwiyeti-de-nouveau-operationnelle-de-la-maintenance-periodique-a-la-question-de-la-souverainete-numerique/) — and a full day of scheduled maintenance on 8 August took all of it down at once. The usage figures are the reporting outlet's; no operator statement on the outage or on redundancy is held.
 <!-- /narrative -->
+### Digital Payments and Fintech
+
+<!-- narrative: dpi--dpi-pay -->
+A retrospective rather than an operator disclosure, and it is the base's first account of where the market came from. A state-owned bank's mobile service, [announced in late 2019 as the country's first fully mobile bank and launched in 2020, is credited with making the domestic digital payments market rather than entering a mature one](https://lequotidien.mr/?p=40492): opening an account from a phone, transferring and paying merchants were new to a wide part of the population, and transferring money by phone has since become a daily behaviour. The piece is a defence against complaints of faults and slowness, and it carries no user count, transaction volume, value, agent network or outage record — so what the service does now cannot be sized from it.
+<!-- /narrative -->
 ### Registries
 
 <!-- narrative: dpi--dpi-registry -->
@@ -79,6 +84,14 @@ The clearest disclosure of the month came at a [workshop on the tax regime for p
 Khdamati, the remote-transactions platform named as the third phase of the Ijraati roadmap in February and untouched since, moved into integration work in August. On 13 August the ministry [took forward its integration with the Diwan territorial-administration system with the German embassy's charge d'affaires and GIZ's resident director](https://ami.mr/fr/archives/300915), as part of decentralisation and local-development cooperation. Diwan itself is not separately held, and the integration is reported as under discussion rather than delivered.
 
 Separately the state is preparing to [recruit 3,852 education-sector agents through a national competitive examination](https://ami.mr/fr/archives/300856), with ministries coordinating the digital mechanisms planned for the process. No platform is named.
+<!-- /narrative -->
+
+## Technology
+
+### AI
+
+<!-- narrative: technology--tech-ai -->
+The month's artificial-intelligence record is a training room. The national meteorological authority [ran a two-day workshop in Nouakchott from 8 September for regional administrators and its own staff on an AI-based agricultural, hydrological and meteorological early warning system](https://www.ami.mr/archives/267828), to strengthen national capacity to forecast climate risks and reduce their effects on agriculture and water resources, and to equip regional staff to use AI techniques in processing and analysing meteorological data. Training on a platform is not the platform in service: no coverage, forecast product, accuracy measure, funder or operational start date is published.
 <!-- /narrative -->
 
 ## Capacity
