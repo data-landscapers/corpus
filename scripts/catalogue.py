@@ -689,11 +689,10 @@ FOOT = foot(depth=1)
 BODY = r"""
 <div class="cat">
   <div class="cathead">
+    """ + feedback("Catalogue", f"{SITE_BASE}/catalogue/") + r"""
     <div class="cathead__text">
       <h1>Catalogue</h1>
       <div class="lede">""" + copy("catalogue", "lede") + r"""</div>
-      <p class="cathead__ask">""" + feedback(
-          "Catalogue", f"{SITE_BASE}/catalogue/") + r"""</p>
     </div>
 
     <!-- The downloads sit beside the lede rather than under it (prep/catalogue.md
