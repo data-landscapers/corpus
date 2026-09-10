@@ -1,11 +1,11 @@
 ---
 title: Gabon — monthly update, August – September 2026
-compiled: 2026-09-09
-period: 2026-08-01 to 2026-09-09
+compiled: 2026-09-10
+period: 2026-08-01 to 2026-09-10
 place: GAB
-ledger_rows: 42
-not_held: 17
-record: b45f09c393d4
+ledger_rows: 44
+not_held: 18
+record: 192a3ea271e1
 ---
 
 # Gabon: monthly update, August – September 2026
@@ -142,6 +142,14 @@ The state digital incubator was not closed after all. It [has been placed under 
 Certification training is [under way for participants at Libreville's American Corner under a digital-skills programme run with United States embassies](https://techafricanews.com/2026/08/11/cybastion-and-u-s-embassies-partner-to-expand-digital-skills-training-across-africa/). No cohort size or completion date is published.
 
 More than 130 young people have been [trained in cybersecurity, networks, artificial intelligence and programming since June 2026](https://gabonmediatime.com/gabon-etats-unis-130-jeunes-formes-en-cybersecurite-reseaux-ia-et-programmation/) under a programme with the United States. No curriculum, certification or placement outcome is published.
+<!-- /narrative -->
+
+## Inclusion
+
+### Access to services
+
+<!-- narrative: inclusion--include-access -->
+The communications regulator [put its consumer short code 1331 back in service after a period of unavailability, announced at a 20 August meeting with operators and consumer associations](https://www.arcep.ga/pages/detail_actu/119), and set out the route a complaint takes: to the operator first, then to the regulator, with quality incidents reported through an application. A reactivation says what the position was before it. No complaint volume or resolution figure is published, and no national feedback portal exists.
 <!-- /narrative -->
 
 ## Data

@@ -3,13 +3,13 @@ title: Access to services — monthly update, August – September 2026
 compiled: 2026-09-10
 period: 2026-08-01 to 2026-09-10
 subject: include.access
-places: DZA; AGO; BWA; BDI; CMR; CAF; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GHA; KEN; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NAM; NER; NGA; STP; SEN; SYC; SLE; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 771b60f75df0
+places: DZA; AGO; BWA; BDI; CMR; CAF; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NAM; NER; NGA; STP; SEN; SYC; SLE; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 3f1b2477ebd8
 ---
 
 # Access to services: monthly update, August – September 2026
 
-*40 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*41 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -94,6 +94,10 @@ What firms say they need is not more hubs but a network that stays up. At a Mbab
 The month's movement on access is participation rather than service. The National Dialogue Commission [reports that its conference ran from 15 July to 22 August 2026, with around 4,000 participants deliberating eight national agenda items and recommendations submitted to the Commission](https://ethiondc.org.et/en/national-dialogue-conference-concludes-successfully/). It is the Commission's own account, and nothing in the record held states which recommendations were taken up. Nothing moved this month on digital access to public services, on refugee inclusion or on device affordability.
 
 The corridor programme put training against formalisation rather than connectivity. [Forty women traders took export-readiness training at Bishoftu on 30 and 31 July 2026 under a EUR 32m European corridor programme, covering business formalisation, product standards, export documentation and customs procedure, against a stated 94% of the traders concerned operating unlicensed](https://horneconomicreview.com/2026/09/03/from-export-readiness-to-market-access-eu-backed-support-strengthens-womens-participation-in-trade-along-the-djibouti-ethiopia-corridor/). That [94%](https://horneconomicreview.com/2026/09/03/from-export-readiness-to-market-access-eu-backed-support-strengthens-womens-participation-in-trade-along-the-djibouti-ethiopia-corridor/) is the programme's characterisation of its own target group rather than a national measure, and no digital component of the corridor programme is separately costed.
+
+## Gabon
+
+The communications regulator [put its consumer short code 1331 back in service after a period of unavailability, announced at a 20 August meeting with operators and consumer associations](https://www.arcep.ga/pages/detail_actu/119), and set out the route a complaint takes: to the operator first, then to the regulator, with quality incidents reported through an application. A reactivation says what the position was before it. No complaint volume or resolution figure is published, and no national feedback portal exists.
 
 ## Ghana
 
