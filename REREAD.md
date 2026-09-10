@@ -106,10 +106,10 @@ lost to rendering the old tables faithfully.
 ## The queue
 
 Repaired: **BEN** (50 ***No evidence*** → 2), **COG** (60 → 2),
-**CPV** (57 → 8).
+**CPV** (57 → 8), **BFA** (51 → 4).
 
-Reopened and waiting: **BFA** 85 slugs, **GIN** 69,
-**CMR** 67, **COD** 66, **GAB** 65, **ERI** 46.
+Reopened and waiting: **GIN** 69 slugs, **CMR** 67, **COD** 66,
+**GAB** 65, **ERI** 46.
 
 Not yet reopened, 13 units, 103 sources over 75 indicators — the tail
 `lint-considered.py` still reports.
