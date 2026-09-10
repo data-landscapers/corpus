@@ -3,13 +3,13 @@ title: Use of satellite data — monthly update, August – September 2026
 compiled: 2026-09-10
 period: 2026-08-01 to 2026-09-10
 subject: data.satellite
-places: BDI; COM; COG; CIV; COD; EGY; GHA; LBR; LBY; MLI; MOZ; NAM; NER; RWA; SLE; SOM; TZA; UGA; ZMB
-record: 752979c9fa46
+places: BDI; COM; COG; CIV; COD; EGY; ERI; GHA; LBR; LBY; MLI; MOZ; NAM; NER; RWA; SLE; SOM; TZA; UGA; ZMB
+record: 2e50fad59819
 ---
 
 # Use of satellite data: monthly update, August – September 2026
 
-*19 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*20 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -36,6 +36,10 @@ Two routes into earth observation opened in the window, one contracted and one a
 ## Egypt
 
 A [trilateral memorandum with Japan's land and agriculture ministries](https://www.youm7.com/story/2026/8/2/%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%88%D8%A7%D9%84%D8%A3%D9%82%D9%85%D8%A7%D8%B1-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D9%8A%D8%A9-%D9%85%D8%B5%D8%B1-%D8%AA%D8%B3%D8%AA%D8%B9%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D8%A7%D9%84%D9%8A%D8%A7%D8%A8%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D8%AC%D9%8A%D9%84/7499442) covers joint research and the application of artificial intelligence to monitoring water structures and flood risk, with Egypt intending to use a Japanese satellite rainfall product across Nile basin states. No money, date or named system is stated, and the instrumentation targets are old physical structures, the barrages first.
+
+## Eritrea
+
+Eritrea is covered by satellite monitoring it does not produce. A regional climate centre's advisory of 10 August [uses precipitation index analysis with satellite-derived soil-moisture and vegetation-stress monitoring to raise its alert level and forecast below-normal rainfall over western Eritrea](https://www.icpac.net/documents/1113/Climate_Watch_Advisory_-_The_Evolving_Dry_Conditions_in_the_Northern_Parts_of__2tBmKGt.pdf). It sits alongside a food agency dataset carrying [dekadal rainfall indicators computed from satellite precipitation imagery blended with station data and short-term forecasts, aggregated to subnational units and refreshed roughly every two weeks](https://data.humdata.org/dataset/eri-rainfall-subnational). Both are addressed to Eritrea; neither is made in it. Eritrea's own delegation to the desertification convention listed setting up a modern national meteorological service among its forward strategies, which places a modern service as an objective rather than an institution; what exists is split between a civil aviation meteorological service and an agricultural meteorology unit. The ministry staff trained this year in remote sensing and land-cover classification are the capacity that would one day read imagery, not a product built from it.
 
 ## Ghana
 

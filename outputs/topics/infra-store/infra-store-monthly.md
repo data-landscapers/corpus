@@ -3,13 +3,13 @@ title: Data Storage — monthly update, August – September 2026
 compiled: 2026-09-10
 period: 2026-08-01 to 2026-09-10
 subject: infra.store
-places: DZA; AGO; BWA; BFA; CMR; CPV; CAF; COG; CIV; EGY; GNQ; GMB; KEN; LSO; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SLE; SOM; ZAF; SSD; TZA; TUN; ZWE
-record: 7f02e876a342
+places: DZA; AGO; BWA; BFA; CMR; CPV; CAF; COG; CIV; EGY; GNQ; ERI; GMB; KEN; LSO; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SLE; SOM; ZAF; SSD; TZA; TUN; ZWE
+record: 23ae698daca6
 ---
 
 # Data Storage: monthly update, August – September 2026
 
-*31 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*32 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -64,6 +64,10 @@ The operator's own hub moved on its schedule rather than its capacity. Its chief
 ## Equatorial Guinea
 
 The government [formally pressed the supplier to deliver the equipment still outstanding under the 2020 contract to digitise the state broadcaster's technical infrastructure](https://www.guineaecuatorialpress.com/noticias/guinea_ecuatorial_exige_a_startimes_cumplir_con_el_envio_del_material_pendiente_para_digitalizar_rtvge). Six years after signature the contract is being chased rather than closed, and no delivery schedule, contract value or penalty is on file.
+
+## Eritrea
+
+Domestic hosting appears on this base for the first time, and it is the state operator that put it there. Eritel [publishes a private cloud service hosted entirely in its own data centres, in three subscription tiers of 100, 250 and 500 gigabytes for 20, 50 and 100 users, each carrying a 90 per cent uptime service level and a recovery-time objective of up to six days](https://eritel.com.er/contents.php?id=1046). Those are subscription sizes rather than a statement of the estate behind them: no aggregate capacity figure, facility count or location is published for Eritrea by anyone, and a six-day recovery objective is the measure of what backup means in this market. Three weeks earlier a diaspora outlet [set out a national digital infrastructure agenda — a submarine cable landing at Massawa and Assab, redundant fibre, an exchange point at Asmara, domestic data-centre capacity, diversified technology partners and a national digital infrastructure authority](https://mesobjournal.com/post/eritrea-digital-sovereignty-red-sea-internet-gateway). It is an independent publication rather than a think tank or a government document, and nothing records the adoption of any part of it.
 
 ## Gambia
 

@@ -1,11 +1,11 @@
 ---
 title: Eritrea — monthly update, August – September 2026
-compiled: 2026-09-08
-period: 2026-08-01 to 2026-09-08
+compiled: 2026-09-10
+period: 2026-08-01 to 2026-09-10
 place: ERI
-ledger_rows: 7
-not_held: 16
-record: 834d2a3b8e74
+ledger_rows: 10
+not_held: 23
+record: dbc6814fb6a6
 ---
 
 # Eritrea: monthly update, August – September 2026
@@ -15,7 +15,7 @@ record: 834d2a3b8e74
 ## Summary of the month
 
 <!-- narrative: summary -->
-Five rows move in the month, and four of them establish an absence rather than a system — which is the characteristic shape of this base. A legal-research pass dated 1 August [re-verified that no comprehensive data-protection law is in force, no supervisory authority exists and no enforcement decisions have been published](https://research.lawlab.africa/eritrea/). The postal union's August addressing reference [does not list Eritrea among the countries operating a postal-code system](https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf). Against those, two things exist: a water project [held geodesign workshops in Asmara with more than twenty government, academic, private-sector and non-governmental participants](https://www.eurac.edu/en/news/center-for-global-mountain-safeguard-research/nbs4water-geodesign-workshops-advance-nature-based-planning-for-asmaras-water-sec), and the state telecommunications provider [runs a live web complaint form for internet faults](https://eritel.com.er/internet_complaint_hub.php?id=1041). The month's one piece of ordinary news is a software collective: on 15 August the information ministry [interviewed Shambko Apps Group, which has released five Tigrinya-language mobile applications](https://shabait.com/2026/08/15/technology-as-a-bridge-between-generations-a-conversation-with-shambko-apps-group/) built to the national curriculum. Eritrean reporting on this base remains limited to the information ministry's own outlet and a diaspora one.
+Ten rows move in the month, and several of them establish an absence rather than a system — which is the characteristic shape of this base. A legal-research pass dated 1 August [re-verified that no comprehensive data-protection law is in force, no supervisory authority exists and no enforcement decisions have been published](https://research.lawlab.africa/eritrea/). The postal union's August addressing reference [does not list Eritrea among the countries operating a postal-code system](https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf). Against those, three things exist: a water project [held geodesign workshops in Asmara with more than twenty government, academic, private-sector and non-governmental participants](https://www.eurac.edu/en/news/center-for-global-mountain-safeguard-research/nbs4water-geodesign-workshops-advance-nature-based-planning-for-asmaras-water-sec); the state telecommunications provider [runs a live web complaint form for internet faults](https://eritel.com.er/internet_complaint_hub.php?id=1041); and the same provider [publishes a private cloud service hosted entirely in its own data centres](https://eritel.com.er/contents.php?id=1046), the first primary evidence on this base that provider-hosted storage exists in the country at all. A regional climate centre's advisory of 10 August [forecasts below-normal rainfall over western Eritrea from satellite-derived soil-moisture and vegetation-stress monitoring](https://www.icpac.net/documents/1113/Climate_Watch_Advisory_-_The_Evolving_Dry_Conditions_in_the_Northern_Parts_of__2tBmKGt.pdf): the country is covered by monitoring produced abroad. The month's one piece of ordinary news is a software collective: on 15 August the information ministry [interviewed Shambko Apps Group, which has released five Tigrinya-language mobile applications](https://shabait.com/2026/08/15/technology-as-a-bridge-between-generations-a-conversation-with-shambko-apps-group/) built to the national curriculum. Eritrean writing about Eritrea's own infrastructure still comes from the information ministry's outlet or a diaspora one: the month's [proposal for a cable landing, an exchange point at Asmara and a national digital infrastructure authority](https://mesobjournal.com/post/eritrea-digital-sovereignty-red-sea-internet-gateway) came from the second, and carries no sign of government adoption.
 <!-- /narrative -->
 
 ## Governance
@@ -34,6 +34,14 @@ The data-protection position was re-verified rather than changed. A legal-resear
 
 <!-- narrative: governance--gov-discourse -->
 Outside consultation reached Asmara. A water-security project [held two rounds of geodesign workshops in July 2026 with more than twenty government, academic, private-sector and non-governmental participants, alongside a hydrological-modelling training session for Eritrean technical experts](https://www.eurac.edu/en/news/center-for-global-mountain-safeguard-research/nbs4water-geodesign-workshops-advance-nature-based-planning-for-asmaras-water-sec). It is the convener's own account of process, and it sits against a state the record elsewhere describes as silencing criticism systematically.
+<!-- /narrative -->
+
+## ICT Infrastructure
+
+### Data Storage
+
+<!-- narrative: ict-infrastructure--infra-store -->
+Domestic hosting appears on this base for the first time, and it is the state operator that put it there. Eritel [publishes a private cloud service hosted entirely in its own data centres, in three subscription tiers of 100, 250 and 500 gigabytes for 20, 50 and 100 users, each carrying a 90 per cent uptime service level and a recovery-time objective of up to six days](https://eritel.com.er/contents.php?id=1046). Those are subscription sizes rather than a statement of the estate behind them: no aggregate capacity figure, facility count or location is published for Eritrea by anyone, and a six-day recovery objective is the measure of what backup means in this market. Three weeks earlier a diaspora outlet [set out a national digital infrastructure agenda — a submarine cable landing at Massawa and Assab, redundant fibre, an exchange point at Asmara, domestic data-centre capacity, diversified technology partners and a national digital infrastructure authority](https://mesobjournal.com/post/eritrea-digital-sovereignty-red-sea-internet-gateway). It is an independent publication rather than a think tank or a government document, and nothing records the adoption of any part of it.
 <!-- /narrative -->
 
 ## DPI
@@ -58,4 +66,12 @@ On 15 August the Ministry of Information [interviewed Shambko Apps Group, a self
 
 <!-- narrative: inclusion--include-access -->
 One digital feedback channel is on the record, and it belongs to the operator rather than the state. The sole state telecommunications provider [runs a live web form for internet-connectivity, website-access and web-application complaints, with telephone and email alternatives](https://eritel.com.er/internet_complaint_hub.php?id=1041). No whole-of-government complaint route is recorded, and no volume of complaints made or resolved is published.
+<!-- /narrative -->
+
+## Data
+
+### Use of satellite data
+
+<!-- narrative: data--data-satellite -->
+Eritrea is covered by satellite monitoring it does not produce. A regional climate centre's advisory of 10 August [uses precipitation index analysis with satellite-derived soil-moisture and vegetation-stress monitoring to raise its alert level and forecast below-normal rainfall over western Eritrea](https://www.icpac.net/documents/1113/Climate_Watch_Advisory_-_The_Evolving_Dry_Conditions_in_the_Northern_Parts_of__2tBmKGt.pdf). It sits alongside a food agency dataset carrying [dekadal rainfall indicators computed from satellite precipitation imagery blended with station data and short-term forecasts, aggregated to subnational units and refreshed roughly every two weeks](https://data.humdata.org/dataset/eri-rainfall-subnational). Both are addressed to Eritrea; neither is made in it. Eritrea's own delegation to the desertification convention listed setting up a modern national meteorological service among its forward strategies, which places a modern service as an objective rather than an institution; what exists is split between a civil aviation meteorological service and an agricultural meteorology unit. The ministry staff trained this year in remote sensing and land-cover classification are the capacity that would one day read imagery, not a product built from it.
 <!-- /narrative -->
