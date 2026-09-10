@@ -1,11 +1,11 @@
 ---
 title: Cote d'Ivoire — monthly update, August – September 2026
-compiled: 2026-09-09
-period: 2026-08-01 to 2026-09-09
+compiled: 2026-09-10
+period: 2026-08-01 to 2026-09-10
 place: CIV
-ledger_rows: 52
+ledger_rows: 55
 not_held: 10
-record: 562200c6f999
+record: d249e6a6c01c
 ---
 
 # Cote d'Ivoire: monthly update, August – September 2026
