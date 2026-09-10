@@ -14,6 +14,14 @@ last_reviewed: 2026-08-28
 
 <!-- newest first: a new block goes directly below this line -->
 
+## 2026-09-11 01:20 · build
+
+- The 2026-09-08 block on progress reports outside their band is now half cleared:
+  **XWA is inside it at 1,139 words**, the oldest material in six narrative blocks
+  having come out this run. **XNA still sits 397 under** on four ledger rows, and
+  clearing it would mean padding. So the open decision is narrower than it was:
+  one region, and whether a fixed 800-1150 band should bind a region this thin.
+
 ## 2026-09-10 09:40 · investigation
 
 - **467 of the 698 *No evidence* rows are false.** The base holds a document on the
