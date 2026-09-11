@@ -326,7 +326,7 @@ git push
 
 Deploy: the GitHub Pages workflow publishes whatever is committed in `site/` on a push touching `site/**`. It does not build — the render above is the build; the push triggers it. **The push is authorised by this runbook and is not a question to put**: running RENDER *is* the instruction to publish.
 
-**The push is not the deploy, so check the run before the log says `deployed`.** On 2026-09-11 the workflow failed at *Deploy to GitHub Pages* (a one-off `id-token` refusal), the log said `deployed — ok`, and the site kept the previous evening's bulletin. Read the run for the commit just pushed — before the mirror step and again after it if it still reads `in_progress`:
+**The push is not the deploy, so check the run before the log says `deployed`.** The deploy step fails now and then on GitHub's side — a 10-minute timeout on 2026-09-10, an `id-token` refusal on 2026-09-11 — and on the second the log said `deployed — ok` while the site kept the previous evening's bulletin. Read the run for the commit just pushed — before the mirror step and again after it if it still reads `in_progress`:
 
 ```bash
 curl -s "https://api.github.com/repos/data-landscapers/corpus/actions/runs?head_sha=$(git rev-parse HEAD)" | python -c "import json,sys; r=json.load(sys.stdin).get('workflow_runs',[]); print(r[0]['status'], r[0]['conclusion']) if r else print('no run')"
