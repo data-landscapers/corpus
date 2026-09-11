@@ -652,7 +652,7 @@ arse-burkina-faso,ARSE II,full,1
 arse-togo,L’ARSE,full,2
 arseg-angola,ARSEG,full,1
 arsel-cameroon,ARSEL,full,3
-arso,ARSO Joined,full,1
+arso,ISO and ARSO,full,2
 art-cameroon,ART Cameroun,full,1
 art-cameroun,Cameroun. L'ART,full,1
 artac,ARTAC,full,3
@@ -1351,7 +1351,7 @@ cinetpay,CinetPay,full,1
 cipa-botswana,Companies and Intellectual Property Agency,acronym,1
 cipc,Companies and Intellectual Property Commission,acronym,3
 cipesa,CIPESA,full,9
-cipit,CIPIT,full,5
+cipit,CIPIT,full,7
 cips,CIPS公司,full,1
 cirad,CIRAD,full,2
 circle,Circle,full,1
@@ -1623,7 +1623,7 @@ council-of-governors-kenya,Council of Governors,full,3
 council-of-higher-education-turkiye,Council of Higher Education,partial,1
 council-of-ministers-algeria,Council of Ministers,full,1
 council-of-ministers-ethiopia,Council of Ministers,full,4
-council-of-ministers-mozambique,Council of Ministers,full,1
+council-of-ministers-mozambique,Council of Ministers,full,3
 council-of-ministers-somalia,Council of Ministers,full,1
 council-of-ministers-south-sudan,President. The Council of Ministers,full,1
 council-of-ministers-sudan,Council of Ministers,full,1
@@ -1751,6 +1751,7 @@ data-protection-commission-ghana,Ghana. The Data Protection Commission,full,1
 data-protection-commission-lesotho,Data Protection Commission,full,1
 data-protection-law-cabo-verde,Data Protection Law,partial,1
 data-protection-office-mauritius,Data Protection Office,full,5
+data-science-law-lab,Data Science Law Lab,full,1
 data-systems-crossroads,Data Systems,partial,1
 data-tech-international,Data Tech International,full,1
 data354,Data354,full,1
@@ -1801,6 +1802,7 @@ dennis-odife-panel,Dennis Odife Panel,full,1
 deo-electronique,DEO Electronique,full,1
 deon-regulations-2025,DEON Regulations,partial,5
 department-of-agricultural-research-lesotho,Comments The Department of Agricultural Research,full,1
+department-of-basic-education-south-africa,Department of Basic Education,full,1
 department-of-civil-and-national-registration-botswana,Department of Civil and National Registration,full,1
 department-of-climate-change-and-meteorological-services-malawi,Department of Climate Change and Meteorological Services,full,1
 department-of-communications-and-digital-technologies-south-africa,Department of Communications and Digital Technologies,full,4
@@ -2045,6 +2047,7 @@ drc-national-digital-plan-pnn2,National Digital Plan,partial,2
 drsrs,Directorate of Resource Surveys and Remote Sensing,acronym,1
 ds-i-africa-law,DS-I Africa Law,full,1
 ds-tech-namibia,DS Tech Namibia,full,1
+dsfsi,DSFSI,full,1
 dsi-fonction-publique-civ,Fonction Publique,partial,1
 dsnisi-togo,DSNISI,full,2
 dsnpq-guinea-bissau,DSNPQ,full,1
@@ -3259,6 +3262,7 @@ ijraati,Ijraati,full,1
 ika-conseils,IKA Conseils,full,1
 ika-solution,IKA Solution,full,2
 ika-technology,IKA TECHNOLOGY,full,1
+ikamvayouth,IkamvaYouth,full,1
 ikea-egypt,IKEA Egypt,full,1
 ikoue,Ikoue,full,1
 ilea-botswana,International Law Enforcement Academy,acronym,1
@@ -4111,7 +4115,7 @@ martin-davis,Martin Davis,full,1
 martin-elia-lomuro,Martin Elia Lomuro,full,1
 martin-mokgware,Martin Mokgware,full,1
 masaar,Masaar,full,1
-masakhane,Masakhane,full,5
+masakhane,Masakhane,full,6
 masakhane-research-foundation,Masakhane Research Foundation,full,2
 masayuki-kayahara,Masayuki Kayahara,full,1
 mascom,Mascom,full,1
@@ -7245,7 +7249,7 @@ united-arab-emirates,United Arab Emirates,full,1
 united-bank-for-africa,United Bank for Africa,full,2
 united-capital-bank-sudan,United Capital Bank,full,1
 united-democratic-party-gambia,United Democratic Party,full,1
-united-nations,United Nations,full,4
+united-nations,United Nations,full,6
 united-nations-foundation,United Nations Foundation,full,1
 united-sa,United SA,full,1
 united-states-artificial-intelligence-institute,United States Artificial Intelligence Institute,full,1
