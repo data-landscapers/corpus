@@ -1,0 +1,11 @@
+row_id,subject,briefs_run,candidates_returned,fetched,staged_baseline,not_selected,dropped,drop_codes,outcome,subject_rows_at_probe
+XSA-gov.regional-crasa,gov.regional,1,3,1,1,2,0,,staged,8
+XSA-gov.regional-capital-market-integration-promotion,gov.regional,1,3,1,1,2,0,,staged,8
+XSA-gov.regional-sadc,gov.regional,1,3,1,1,2,0,,staged,8
+XSA-finance.new-uk-science-and-technology-accelerator,finance.new,1,3,0,0,3,0,,nil,2
+XSA-infra.connect-regional-connectivity-indicators,infra.connect,1,3,1,1,2,0,,staged,5
+XSA-infra.connect-sadc-satellite,infra.connect,0,0,0,0,0,0,,held,5
+XSA-dpi.exchange-one-stop-border-posts,dpi.exchange,0,0,0,0,0,0,,held,5
+XSA-dpi.exchange-sadc-aims,dpi.exchange,1,4,1,1,3,0,,staged,5
+XSA-tech.ai-sadc-ai-position,tech.ai,1,3,1,1,2,0,,staged,2
+XSA-capacity.research-research-and-development-spending,capacity.research,1,3,1,1,2,0,,staged,1

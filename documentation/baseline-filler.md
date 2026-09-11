@@ -6,7 +6,7 @@ last_reviewed: 2026-09-11
 
 # Baseline filler — find the missing start positions in the region progress reports
 
-**Queued, not run.** Written 2026-09-11 at Bill's request. Trigger: "**run the baseline filler**", optionally naming a region (`XAF`, `XWA`…). Until he says so, nothing here fetches.
+**Run for all six regions on 2026-09-11** (see *Runs*); a re-run regenerates the list first. Written 2026-09-11 at Bill's request. Trigger: "**run the baseline filler**", optionally naming a region (`XAF`, `XWA`…). Until he says so, nothing here fetches.
 
 ## What
 
@@ -43,5 +43,12 @@ Order: that table, top down — the most unanswered rows first.
 - **The 10 `held` rows need no ingest.** The base already holds a document stating their start position — the selected register names each `raw/` file — so the next report update can set `position_start` from it directly. Until it does, those rows keep printing ***Baseline not held***.
 - **The 36 staged rows wait on Bill's hand-carry and OSINT's ingest** (`notes-for-osint` 136), then the report update.
 - **Dedup is by exact URL against `lookups/raw-url-index.csv`**, run through a helper that also flags a same-path match on another host. It misses a held document filed under a different URL; the slices caught three that way by title. A later run should search `raw/` titles as well.
+
+**XWA, XEA, XCA, XSA, XNA, 2026-09-11.** 61 rows, list regenerated at run time and matching the snapshot: **31 staged** (29 files, one answering two XSA rows, and one XWA row answered by a file already in the XAF batch), **25 held**, **5 nil**. By region, staged/held/nil: XWA 15/8/2, XEA 6/6/1, XCA 2/8/1, XSA 7/2/1, XNA 1/1/0. Records: `logs/progress-filler/{XWA,XEA,XCA,XSA,XNA}-2026-09-11{,-selected,-unselected}.csv`.
+
+- **One folder, not five.** At Bill's request the batch is staged flat in `new-queue\regions-baseline\`, not `new-queue\{XUNIT}\baseline\`; each file's `sweep_batch` still names its own region.
+- **Most held rows are held on their own source.** Where a row's only source predates 2025-09-01 (an enacting act, a 2018 study), that source is its start position, following the XAF precedent. The report update sets `position_start` from it.
+- **For the report update:** `XWA-finance.new-janngo-startup-fund` carries `published` 2026-08-09, but its staged baseline dates the fund's first close to 2022 and the EUR10.5m approval appears to be from December 2021, so check the row's date against its source. `XSA-tech.ai-sadc-ai-position`'s better lead (the SADC Parliamentary Forum's 57th plenary communiqué) would not fetch; it sits in the unselected register.
+- **Taxonomy check against `wiki/topics-index.md`**: `wiki/taxonomy.md`, which PROGRESS-FILLER §5a names, is not in the mirror.
 
 **Cost.** 119 briefs, against the ~121-gap country passes costed in `documentation/archived/progress-filler-cost-{ZAF,AGO,GNB}.md` — roughly one country pass of the week, less the progress briefs.
