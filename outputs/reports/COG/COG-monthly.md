@@ -30,7 +30,7 @@ The education ministry's digital roadmap [was validated at a Brazzaville worksho
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
-The broadcasting regulator and its counterpart across the river [signed a memorandum formalising their partnership after two days of work on 19 and 20 August](https://www.adiac-congo.com/content/medias-le-csac-et-le-cslc-formalisent-leur-partenariat-institutionnel-171340). No text, scope or commencement is published, so what the base holds is that two regulators have agreed to cooperate.
+The broadcasting regulator and its counterpart across the river [signed a memorandum formalising their partnership after two days of work on 19 and 20 August](https://www.adiac-congo.com/content/medias-le-csac-et-le-cslc-formalisent-leur-partenariat-institutionnel-171340). No text, scope or commencement is published, so what the repository holds is that two regulators have agreed to cooperate.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 
@@ -53,7 +53,7 @@ A number was put on the sector's future. Consultancy forecasts reported by the s
 <!-- narrative: ict-infrastructure--infra-store -->
 The published roadmap names [sovereign hosting and connectivity at the two highest tiers](https://www.adiac-congo.com/content/le-numerique-au-service-dun-congo-plus-performant-plus-souverain-et-plus-proche-de-ses) among its infrastructure programmes; neither exists, with no standing-up instrument, host body, budget or date.
 
-The national data centre remains a thing asserted rather than reported. On 10 August the state operator [showed the minister a real-time security operations centre running across its Brazzaville, Pointe-Noire and Oyo data centres](https://www.adiac-congo.com/content/numerique-congo-telecom-une-entreprise-structuree-aux-yeux-du-ministere-de-tutelle-171196), alongside nationwide fibre connectivity for citizens, businesses and state bodies. It is the fullest description of the operator's estate the base holds, and it is still a ministerial visit rather than an inauguration report: no capacity, certification or utilisation figure is given for any of the three sites, and nothing reconciles it with the [works reported suspended at 95% completion in late 2025](https://www.sikafinance.com/marches/congo-lachevement-du-data-center-national-bloque-par-un-defaut-de-financement-gouvernemental_57001).
+The national data centre remains a thing asserted rather than reported. On 10 August the state operator [showed the minister a real-time security operations centre running across its Brazzaville, Pointe-Noire and Oyo data centres](https://www.adiac-congo.com/content/numerique-congo-telecom-une-entreprise-structuree-aux-yeux-du-ministere-de-tutelle-171196), alongside nationwide fibre connectivity for citizens, businesses and state bodies. It is the fullest description of the operator's estate the repository holds, and it is still a ministerial visit rather than an inauguration report: no capacity, certification or utilisation figure is given for any of the three sites, and nothing reconciles it with the [works reported suspended at 95% completion in late 2025](https://www.sikafinance.com/marches/congo-lachevement-du-data-center-national-bloque-par-un-defaut-de-financement-gouvernemental_57001).
 <!-- /narrative -->
 ### Cybersecurity
 
@@ -75,7 +75,7 @@ The larger exchange was contracted out. Customs-procedure digitalisation under t
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
-The credential layer moved on stock rather than on design: the government [announced 100,000 blank passports and a new payment mechanism, alongside 330,000 identity cards](https://starducongo.info/congo-passeports-le-gouvernement-annonce-100-000-passeports-vierges-et-un-nouveau-mecanisme-de-paiement/). The instrument behind the card is older — [Decret 2024-2692 of 21 November 2024 institutes the computerised national identity card](https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/117585/COG-117585.pdf) — and the unique identification number it rests on has been instituted since 2004. What the base still does not hold is an issuance series against those volumes.
+The credential layer moved on stock rather than on design: the government [announced 100,000 blank passports and a new payment mechanism, alongside 330,000 identity cards](https://starducongo.info/congo-passeports-le-gouvernement-annonce-100-000-passeports-vierges-et-un-nouveau-mecanisme-de-paiement/). The instrument behind the card is older — [Decret 2024-2692 of 21 November 2024 institutes the computerised national identity card](https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/117585/COG-117585.pdf) — and the unique identification number it rests on has been instituted since 2004. What the repository still does not hold is an issuance series against those volumes.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -113,7 +113,7 @@ Researchers and faculty met in Brazzaville on 21 and 22 August to [set rules for
 ### Access to services
 
 <!-- narrative: inclusion--include-access -->
-The state-control ministry publishes an [online channel for reporting irregularities in public administration](https://www.controle-etat.gouv.cg/signaler), taking reports of corruption, misappropriation of public funds, favouritism, poor service quality, unexplained absence of officials and excessive delay, under a stated confidentiality guarantee. The page carries no date of its own and no figure for reports received or resolved, so what the base holds is that the channel exists.
+The state-control ministry publishes an [online channel for reporting irregularities in public administration](https://www.controle-etat.gouv.cg/signaler), taking reports of corruption, misappropriation of public funds, favouritism, poor service quality, unexplained absence of officials and excessive delay, under a stated confidentiality guarantee. The page carries no date of its own and no figure for reports received or resolved, so what the repository holds is that the channel exists.
 <!-- /narrative -->
 
 ## Data

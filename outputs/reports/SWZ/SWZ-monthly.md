@@ -88,7 +88,7 @@ The home affairs ministry [asked citizens to check that the chief code on their 
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
-The mobile money platform moved underneath its users. An operator [completed migration of its money platform to a cloud-native vendor platform across four African markets](https://techafricanews.com/2026/08/21/ericsson-mtn-complete-momo-cloud-migration-across-four-african-markets/), this one among them. No downtime, subscriber count or feature change is stated for the Eswatini market, so the base holds that the rail changed hands technically and nothing about what that cost its users.
+The mobile money platform moved underneath its users. An operator [completed migration of its money platform to a cloud-native vendor platform across four African markets](https://techafricanews.com/2026/08/21/ericsson-mtn-complete-momo-cloud-migration-across-four-african-markets/), this one among them. No downtime, subscriber count or feature change is stated for the Eswatini market, so the repository holds that the rail changed hands technically and nothing about what that cost its users.
 <!-- /narrative -->
 ### Registries
 
@@ -124,7 +124,7 @@ On 6 July the prime minister told the [Global Dialogue on AI Governance in Genev
 
 A [regional health body and a private firm signed a memorandum in Eswatini on 4 August to scale AI-enabled health solutions](https://eswatinipositivenews.online/ecsa-hc-skye-africa-intelligence-partner-to-scale-ai-health-solutions/), naming no system, no data-sharing terms and no money.
 
-The audit office took its own artificial-intelligence commitment regional, [hosting a week-long peer programme at which supreme audit institutions across the region weighed the use of artificial intelligence in government audit](https://eswatinipositivenews.online/auditors-embrace-ai-to-protect-public-funds/). As with the strategic plan in August, no tool, pilot, audit methodology or procurement is named — what the base holds is the intention and the forum it was stated in.
+The audit office took its own artificial-intelligence commitment regional, [hosting a week-long peer programme at which supreme audit institutions across the region weighed the use of artificial intelligence in government audit](https://eswatinipositivenews.online/auditors-embrace-ai-to-protect-public-funds/). As with the strategic plan in August, no tool, pilot, audit methodology or procurement is named — what the repository holds is the intention and the forum it was stated in.
 <!-- /narrative -->
 ### ICT Industry
 
@@ -156,7 +156,7 @@ The hub itself opened on 6 August at Macetjeni in the Lubombo Region, [the secon
 <!-- narrative: inclusion--include-access -->
 The country's second innovation hub opened at [Macetjeni in the Lubombo region on 7 August, extending digital-skills and small-business support to a rural community](https://times.co.sz/41030/news/empowering-lubombo-macetjeni-ihub-officially-launched/), built by the small enterprise development company with the communications commission and UNDP under a youth empowerment programme, and following the Piggs Peak hub of 2025. No financing figure was disclosed for the facility, and no user, training or enterprise-support count is published for either.
 
-What firms say they need is not more hubs but a network that stays up. At a Mbabane panel on 7 August, logistics, renewable-energy and creator-economy speakers [argued that unreliable connectivity is now a direct cost to business, outweighing any saving from cheaper data](https://independentnews.co.sz/47133/business/reliable-connectivity-now-critical-for-business-growth/), describing real-time fleet tracking, remote solar-system monitoring and social-platform market access as core to operations, and urged investment in rural connectivity to widen economic participation. It is a panel of interested parties, and the base holds no reliability series to test it against.
+What firms say they need is not more hubs but a network that stays up. At a Mbabane panel on 7 August, logistics, renewable-energy and creator-economy speakers [argued that unreliable connectivity is now a direct cost to business, outweighing any saving from cheaper data](https://independentnews.co.sz/47133/business/reliable-connectivity-now-critical-for-business-growth/), describing real-time fleet tracking, remote solar-system monitoring and social-platform market access as core to operations, and urged investment in rural connectivity to widen economic participation. It is a panel of interested parties, and the repository holds no reliability series to test it against.
 <!-- /narrative -->
 ### Digital divides
 

@@ -55,7 +55,7 @@ Separately, and with no stated relationship to Kobong, the state began drafting 
 ### Energy
 
 <!-- narrative: ict-infrastructure--infra-energy -->
-The electricity corporation [states it has held supply availability above 99 per cent on the transmission network and around 95 per cent on distribution for the past years](https://lec.co.ls/transmission-distribution/), attributing the faults that remain to an ageing network and to weather. The figures are the utility's own and the base holds nothing that tests them.
+The electricity corporation [states it has held supply availability above 99 per cent on the transmission network and around 95 per cent on distribution for the past years](https://lec.co.ls/transmission-distribution/), attributing the faults that remain to an ageing network and to weather. The figures are the utility's own and the repository holds nothing that tests them.
 <!-- /narrative -->
 ### Cybersecurity
 
@@ -78,12 +78,12 @@ A freeze on refugee identity documents is reported to have left [families strand
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
-The national e-invoicing platform [went to nationwide rollout](https://snitechnology.net/lesotho-introduces-the-lekuka-national-e-invoicing-system/). Nationwide is the supplier's word: no taxpayer count, threshold, phase-in schedule or revenue-authority statement is held, so the base can record that the platform is being introduced and not how far it has reached.
+The national e-invoicing platform [went to nationwide rollout](https://snitechnology.net/lesotho-introduces-the-lekuka-national-e-invoicing-system/). Nationwide is the supplier's word: no taxpayer count, threshold, phase-in schedule or revenue-authority statement is held, so the repository can record that the platform is being introduced and not how far it has reached.
 <!-- /narrative -->
 ### Registries
 
 <!-- narrative: dpi--dpi-registry -->
-A sector got its own register. Lesotho [launched a National Farmers Portal, placing every farmer in a single digital registry](https://www.prnewswire.com/news-releases/lesotho-launches-national-farmers-portal-giving-every-farmer-a-place-in-a-single-digital-registry-302864372.html). A farmer register is the base for subsidy, extension and insurance delivery, so what matters next is enrolment and what other systems it connects to. The record held carries neither: no farmer count, and no statement that the portal exchanges data with the social registry or any payment mechanism.
+A sector got its own register. Lesotho [launched a National Farmers Portal, placing every farmer in a single digital registry](https://www.prnewswire.com/news-releases/lesotho-launches-national-farmers-portal-giving-every-farmer-a-place-in-a-single-digital-registry-302864372.html). A farmer register is the repository for subsidy, extension and insurance delivery, so what matters next is enrolment and what other systems it connects to. The record held carries neither: no farmer count, and no statement that the portal exchanges data with the social registry or any payment mechanism.
 <!-- /narrative -->
 ### Sectoral management information systems
 

@@ -43,7 +43,7 @@ The minister responsible for decentralisation and local development said on 25 A
 
 ## Chad
 
-The 2027 budget orientations [prohibit any ministry putting in place a computer system incompatible with the existing platforms](https://lendjampost.com/budget-2027-le-tchad-mise-sur-le-numerique-pour-verrouiller-les-finances-publiques/), and require tax, customs, treasury, budget, accounting, cadastre, identity, state property and land registry to interconnect on a single identifier. It is the strongest interoperability commitment this ledger carries, and the base holds none of the framing text: no cost, phasing or implementing agency is named.
+The 2027 budget orientations [prohibit any ministry putting in place a computer system incompatible with the existing platforms](https://lendjampost.com/budget-2027-le-tchad-mise-sur-le-numerique-pour-verrouiller-les-finances-publiques/), and require tax, customs, treasury, budget, accounting, cadastre, identity, state property and land registry to interconnect on a single identifier. It is the strongest interoperability commitment this ledger carries, and the repository holds none of the framing text: no cost, phasing or implementing agency is named.
 
 ## Congo
 
@@ -83,7 +83,7 @@ The regional interoperable QR-code standard was launched at Douala on 29 July 20
 
 A different kind of exchange went live in August. The airport-security committee [moved its advance passenger information and passenger-name-record system into its operational phase on 14 August](https://agpgabon.ga/gabon-transport-aerien-le-deploiement-du-systeme-api-pnr-entre-dans-sa-phase-operationnelle/), naming Royal Air Maroc lead carrier for IATA-code implementation under the state's convention with SECURIPORT, with border risk-screening the stated purpose. The convention terms, the retention rule for passenger data and any authorisation by the data-protection authority are not held — and the country's biometric-processing prohibition, with the defect already recorded in its derogation, sits alongside it unremarked.
 
-The private half of the health system was brought into a standing channel for the first time. The health ministry [instituted quarterly consultations with the association of private health establishments, the agenda naming the transmission of health data from private clinics among its items](https://agpgabon.ga/gabon-sante-le-ministere-instaure-un-dialogue-trimestriel-avec-le-secteur-prive/). No data standard, transmission route, reporting obligation or first meeting date is published, and the base holds no measure of what share of care the private sector accounts for — so the channel exists and what will flow through it does not.
+The private half of the health system was brought into a standing channel for the first time. The health ministry [instituted quarterly consultations with the association of private health establishments, the agenda naming the transmission of health data from private clinics among its items](https://agpgabon.ga/gabon-sante-le-ministere-instaure-un-dialogue-trimestriel-avec-le-secteur-prive/). No data standard, transmission route, reporting obligation or first meeting date is published, and the repository holds no measure of what share of care the private sector accounts for — so the channel exists and what will flow through it does not.
 
 ## Gambia
 
@@ -152,7 +152,7 @@ Morocco [promulgated the OECD multilateral competent authority agreement on the 
 
 ## Mozambique
 
-The roads fund runs an [open-data portal publishing road, bridge and infrastructure project data under a Creative Commons licence and the open contracting standard for infrastructure](https://www.dadosinfra.co.mz/), validated as a publisher against that standard in 2026. It is the base's clearest instance of Mozambican government data published to an external standard rather than to a page.
+The roads fund runs an [open-data portal publishing road, bridge and infrastructure project data under a Creative Commons licence and the open contracting standard for infrastructure](https://www.dadosinfra.co.mz/), validated as a publisher against that standard in 2026. It is the repository's clearest instance of Mozambican government data published to an external standard rather than to a page.
 
 A physical exchange broke ground alongside it. Works on the [Ressano Garcia one-stop border post began on 17 August at a stated 980 million meticais](https://aimnews.org/2026/08/17/governo-moderniza-fronteira-de-ressano-garcia-com-980-milhoes/). No completion date, systems specification or customs-integration arrangement is published.
 
@@ -199,7 +199,7 @@ A third exchange was put out for comment rather than arranged. The revenue servi
 
 ## South Sudan
 
-The only description the base holds of how import revenue is actually collected is an account of a sanctioned contractor collecting it. A UK-registered firm [manages national revenue through a US-dollar e-Permit charge levied on imports before any tax assessment is issued, enforced at all border points by the Ugandan and Kenyan revenue authorities alongside the firm's own staff deployed under national revenue authority cover](https://thecapitaltimes.co.ug/on-the-spot-ura-links-with-us-sanctioned-south-sudan-firm-crawford-capital-raises-concern), and collection has continued since the United States sanctioned the firm on 12 May over the diversion of public resources and foreign assistance. The Tanzanian and Rwandan revenue authorities have publicly dissociated themselves. No contract, legal instrument or revenue figure is published, and no national authority is recorded as answering the account.
+The only description the repository holds of how import revenue is actually collected is an account of a sanctioned contractor collecting it. A UK-registered firm [manages national revenue through a US-dollar e-Permit charge levied on imports before any tax assessment is issued, enforced at all border points by the Ugandan and Kenyan revenue authorities alongside the firm's own staff deployed under national revenue authority cover](https://thecapitaltimes.co.ug/on-the-spot-ura-links-with-us-sanctioned-south-sudan-firm-crawford-capital-raises-concern), and collection has continued since the United States sanctioned the firm on 12 May over the diversion of public resources and foreign assistance. The Tanzanian and Rwandan revenue authorities have publicly dissociated themselves. No contract, legal instrument or revenue figure is published, and no national authority is recorded as answering the account.
 
 ## Sudan
 
@@ -207,7 +207,7 @@ The only description the base holds of how import revenue is actually collected 
 
 Two further systems were directed rather than delivered. The national economic management committee, chaired by the Prime Minister, [directed the finance ministry and the central bank to expedite completion of the bank's electronic application system with the digital transformation ministry, to strengthen oversight of financial transactions](https://sudanhorizon.com/national-economic-management-committee-urges-finance-ministry-to-expedite-electronic-system-completion/) — no description of the system, its scope or its data is given beyond the instruction to finish it. And the agricultural bank said a [digital agricultural platform developed with the agriculture and digital transformation ministries is expected to launch soon](https://sudanhorizon.com/agricultural-bank-announces-start-of-second-phase-financing-procedures-for-farming-season-by-end-of-month/), alongside second-phase season financing opening by end-August and a grain-silo agreement with a Chinese company; no launch date, function or farmer register is stated.
 
-The first service the base holds that names agency-to-agency links went live. A [needs-disclosure service on the national platform lets an investor complete the step digitally, and wires the industry, transport, agriculture and customs bodies to each other electronically](https://atheernews.net/222149/). The links are asserted in the launch announcement and nothing else: no data-sharing instrument, service volume or processing time is published.
+The first service the repository holds that names agency-to-agency links went live. A [needs-disclosure service on the national platform lets an investor complete the step digitally, and wires the industry, transport, agriculture and customs bodies to each other electronically](https://atheernews.net/222149/). The links are asserted in the launch announcement and nothing else: no data-sharing instrument, service volume or processing time is published.
 
 ## Tanzania
 

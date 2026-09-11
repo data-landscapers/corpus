@@ -48,7 +48,7 @@ Simplification is law and is not yet practice. A member's written question to th
 
 The administrative rule that would matter most for digital services was proposed from outside government. A party's election manifesto [proposes that administrative silence count as approval, that prior authorisations be reduced, and that artificial intelligence be used in the governance of public policy](https://www.lodj.ma/La-petite-revolution-administrative-cachee-dans-le-programme-de-l-Istiqlal_a183608.html). It binds nobody unless the party forms a government, and no bill, scope, exempted-decision list or timetable exists — but tacit approval is the one reform that would change what a digital procedure actually delivers, rather than how it is submitted.
 
-The spyware allegations were argued rather than adjudicated. Two Moroccan commentaries on 8 September set out the domestic case: an academic and politician [rejected as overstated the July 2026 consortium findings tying Moroccan bodies to the compromise of the Spanish prime minister’s phone](https://assabah.ma/948467.html), and a separate press analysis [asked whether the Spanish courts will reopen a related file](https://www.hespress.com/%d9%85%d9%86-%d8%aa%d8%b5%d9%81%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%86%d8%b8%d8%b1%d9%8a-%d8%a5%d9%84%d9%89-%d8%a8%d9%8a%d8%ba%d8%a7%d8%b3%d9%88%d8%b3-%d9%87%d9%84-%d9%8a%d9%81%d8%aa%d8%ad-1804139.html) — neither the findings nor any court filing is held here, and the base establishes nothing about the underlying allegation either way.
+The spyware allegations were argued rather than adjudicated. Two Moroccan commentaries on 8 September set out the domestic case: an academic and politician [rejected as overstated the July 2026 consortium findings tying Moroccan bodies to the compromise of the Spanish prime minister’s phone](https://assabah.ma/948467.html), and a separate press analysis [asked whether the Spanish courts will reopen a related file](https://www.hespress.com/%d9%85%d9%86-%d8%aa%d8%b5%d9%81%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d9%86%d8%b8%d8%b1%d9%8a-%d8%a5%d9%84%d9%89-%d8%a8%d9%8a%d8%ba%d8%a7%d8%b3%d9%88%d8%b3-%d9%87%d9%84-%d9%8a%d9%81%d8%aa%d8%ad-1804139.html) — neither the findings nor any court filing is held here, and the repository establishes nothing about the underlying allegation either way.
 <!-- /narrative -->
 
 ## Finance
@@ -160,7 +160,7 @@ Two published outputs show what the university departments are working on, neith
 
 <!-- narrative: inclusion--include-access -->
 
-A national survey put a number on the gap between owning a phone and being online. Preliminary results of the third national disability survey [put prevalence at 8.7 per cent of the population, up from 6.8 per cent in 2014, across 20,412 households, with the employment rate among people with disabilities at 12.7 per cent - 23 per cent of men and 4 per cent of women - and only 20 per cent reporting internet access despite most owning mobile phones](https://en.hespress.com/144841-morocco-disability-rate-rises-to-8-7-as-access-gaps-persist.html). Officials caution that the 1.9-point rise partly reflects broader detection rather than an equivalent rise in disability. The base holds no accessibility standard, audit or enforcement mechanism to read the access figure against.
+A national survey put a number on the gap between owning a phone and being online. Preliminary results of the third national disability survey [put prevalence at 8.7 per cent of the population, up from 6.8 per cent in 2014, across 20,412 households, with the employment rate among people with disabilities at 12.7 per cent - 23 per cent of men and 4 per cent of women - and only 20 per cent reporting internet access despite most owning mobile phones](https://en.hespress.com/144841-morocco-disability-rate-rises-to-8-7-as-access-gaps-persist.html). Officials caution that the 1.9-point rise partly reflects broader detection rather than an equivalent rise in disability. The repository holds no accessibility standard, audit or enforcement mechanism to read the access figure against.
 <!-- /narrative -->
 
 ## Data
@@ -176,7 +176,7 @@ The open-data portal is operating with four published procedure volumes — [man
 ### EU activities
 
 <!-- narrative: geopolitics--geopol-eu -->
-Morocco holds [no European Union adequacy decision: the Commission's list names sixteen jurisdictions plus one international organisation, none of them in Africa](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en). Neither source establishing this is tagged to Morocco, and no Morocco-tagged governance source the base holds mentions the European Union at all.
+Morocco holds [no European Union adequacy decision: the Commission's list names sixteen jurisdictions plus one international organisation, none of them in Africa](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en). Neither source establishing this is tagged to Morocco, and no Morocco-tagged governance source the repository holds mentions the European Union at all.
 <!-- /narrative -->
 ### India activities
 

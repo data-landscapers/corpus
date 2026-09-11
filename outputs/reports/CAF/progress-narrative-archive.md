@@ -52,7 +52,7 @@ The electoral register is the window's largest measured movement: from [1,641,08
 
 Land administration stalled: a [US$1.6m agreement of April 2024 for an electronic cadastre, and 1,700 hectares tokenised in June 2025, have produced no delivery record](https://www.journaldebangui.com/rca-bangui-renforce-son-partenariat-avec-les-emirats-arabes/); the [2026 framework carries FCFA 1,275,000 across the mining cadastre and a petroleum database](http://www.finances.gouv.cf/sites/default/files/2026-03/Cadre%20des%20D%C3%A9penses%20%C3%A0%20Moyen%20Terme%202026.pdf).
 
-Statistics is where the state built something new: [enumerator teams went into the field in July for about 7,000 households in three two-month waves, entirely by tablet](https://www.icasees.org/index.php/actualites/387-icasees-enquete-harmonisee-sur-les-conditions-de-vie-des-menages-ehcvm-2026-mieux-connaitre-les-realites-des-menages-centrafricains-pour-mieux-orienter-les-politiques-publiques), the first harmonised survey the base holds.
+Statistics is where the state built something new: [enumerator teams went into the field in July for about 7,000 households in three two-month waves, entirely by tablet](https://www.icasees.org/index.php/actualites/387-icasees-enquete-harmonisee-sur-les-conditions-de-vie-des-menages-ehcvm-2026-mieux-connaitre-les-realites-des-menages-centrafricains-pour-mieux-orienter-les-politiques-publiques), the first harmonised survey the repository holds.
 
 ## technology
 

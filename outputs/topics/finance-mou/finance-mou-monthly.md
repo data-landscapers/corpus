@@ -33,7 +33,7 @@ The judiciary took on a foreign partner for its access-to-justice work. A memora
 
 ## Nigeria
 
-Nothing was signed in this window that the base records. What entered it is an institutional fact rather than a development: the finance ministry's [international economic relations department is the administrative home managing bilateral and multilateral economic relationships, memoranda of understanding and concessional financing](https://finance.gov.ng/fmf/international-economics-relations-department/), and it is the closest thing to an umbrella instrument the base holds. The page is undated on the ministry site and lists no relationship, agreement or financing volume.
+Nothing was signed in this window that the repository records. What entered it is an institutional fact rather than a development: the finance ministry's [international economic relations department is the administrative home managing bilateral and multilateral economic relationships, memoranda of understanding and concessional financing](https://finance.gov.ng/fmf/international-economics-relations-department/), and it is the closest thing to an umbrella instrument the repository holds. The page is undated on the ministry site and lists no relationship, agreement or financing volume.
 
 ## Rwanda
 

@@ -16,13 +16,13 @@ renderer used.*
 
 ## summary
 
-Over the twelve months, Kenya's regulatory layer went from empty to fully drafted in two areas that had no instrument at all — artificial intelligence and virtual assets — while the state's own digital spending fell for a second consecutive year. The shape check above records how uneven the base is; the comparison rests mostly on its later half, and rows whose only source is recent but which describe long-standing systems carry their position from earlier rather than as movement.
+Over the twelve months, Kenya's regulatory layer went from empty to fully drafted in two areas that had no instrument at all — artificial intelligence and virtual assets — while the state's own digital spending fell for a second consecutive year. The shape check above records how uneven the repository is; the comparison rests mostly on its later half, and rows whose only source is recent but which describe long-standing systems carry their position from earlier rather than as movement.
 
 ## governance
 
 The clearest band change in this report is here. Virtual assets went from no statute at all to an Act commenced in November 2025, gazetted regulations in July 2026 with capital set by licence class, a seizure and freezing framework, and a hard compliance deadline of 4 November 2026. Artificial intelligence went from one strategy to four instruments — a 226-page draft policy, a Senate bill on a separate track, draft regulator guidance reaching offshore processing through transfer rules, and a costed-but-unfunded strategy — and not one of them is binding.
 
-Enforcement capacity became visible in the estimates for the first time: Data Protection Services received KSh 917.3m in the 2026/27 original estimates, where through 2025/26 the regulator had no separately visible line. What this base cannot yet show is what that capacity produced: the regulator's caseload bulletin and its statutory register of data handlers are both published and both unheld.
+Enforcement capacity became visible in the estimates for the first time: Data Protection Services received KSh 917.3m in the 2026/27 original estimates, where through 2025/26 the regulator had no separately visible line. What this repository cannot yet show is what that capacity produced: the regulator's caseload bulletin and its statutory register of data handlers are both published and both unheld.
 
 The Data Protection Act itself was not amended. What accumulated on top of it is enforcement episodes, litigation and third-party analysis: a constitutional petition decided in May 2026 [awarding eleven petitioners KES 900,000 each for a sustained and systematic compromise of subscriber data](https://www.the-star.co.ke/news/2026-08-03-gra-probes-licensed-betting-firms-over-alleged-data-breach-claims), a 40-day registration ultimatum to 224 betting firms of which 15 were fully registered, and an investigation opened into three licensed operators. The one instrument that lost reach did so through the courts.
 
@@ -64,7 +64,7 @@ The patron layer accreted announcements without delivery. Four bilateral channel
 
 ## capacity
 
-Throughput is published where a programme is new and withheld where it is old. The hubs programme reports [more than 140,000 young people trained and more than 41,000 linked to economic opportunity since 2023](https://www.radio47.fm/news/technopolis-launches-ol-kalou-jitume-digital-hub-graduates-106-youths-33109/) across [117 hubs on the ceremony series and about 350 on the installed-base series](https://techafricanews.com/2026/07/20/kenya-launches-117th-jitume-digital-hub-to-expand-digital-access-in-baringo-county/) - two counts of the same estate that the base cannot reconcile. The schools programme, by contrast, is [unchanged on 1,170,846 devices in 22,891 primary schools, with no device, school or learning-outcome figure published since 2022](https://edu-design.co/wp-content/uploads/2019/09/Digital-Literacy-Programme.pdf).
+Throughput is published where a programme is new and withheld where it is old. The hubs programme reports [more than 140,000 young people trained and more than 41,000 linked to economic opportunity since 2023](https://www.radio47.fm/news/technopolis-launches-ol-kalou-jitume-digital-hub-graduates-106-youths-33109/) across [117 hubs on the ceremony series and about 350 on the installed-base series](https://techafricanews.com/2026/07/20/kenya-launches-117th-jitume-digital-hub-to-expand-digital-access-in-baringo-county/) - two counts of the same estate that the repository cannot reconcile. The schools programme, by contrast, is [unchanged on 1,170,846 devices in 22,891 primary schools, with no device, school or learning-outcome figure published since 2022](https://edu-design.co/wp-content/uploads/2019/09/Digital-Literacy-Programme.pdf).
 
 The three European vocational commitments are all where they were - [EUR 9.9m](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2023-PC-25165), [EUR 18m](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=DE-1-202265189) and [EUR 5m whose scheduled end year has been reached with no closure statement held](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=DE-1-201665298) - none with an outturn published.
 
@@ -72,7 +72,7 @@ The three European vocational commitments are all where they were - [EUR 9.9m](h
 
 One programme closed and one opened. The digital-rights coalition ended in July 2026 after 30 months; a successor training programme began the same day. An arid-lands access programme passed its scheduled March 2026 completion with no completion report on file.
 
-Six donor instruments held position all year at their original commitment values because the base holds commitments and no disbursement for any of them. That is not a finding about the programmes; it is a finding about what is published.
+Six donor instruments held position all year at their original commitment values because the repository holds commitments and no disbursement for any of them. That is not a finding about the programmes; it is a finding about what is published.
 
 The measured positions moved modestly and in one direction. Smartphone connections passed 50 million in March 2026 from 48.7 million in December 2025, with feature phones falling to 28.5 million. The flagship lending fund's repayment is now accepted in a privately issued loyalty currency at a rate the issuer sets.
 

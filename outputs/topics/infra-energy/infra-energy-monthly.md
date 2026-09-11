@@ -17,7 +17,7 @@ record: 4a53792437c5
 
 The facility's power is the unusual part. [On-site gas-fired generation is supplemented by solar introduced to cover periods of lower gas availability, with battery and compressed-gas storage under review](https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85) — solar specified as firming for gas, the reverse of the usual diesel-backup arrangement. [An initial 5 MW solar development was assessed during the quarter and an extension of the gas gathering network to connect a further production well is stated subject to funding](https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85); neither carries a capital cost, approval or date, and the company states both are work-programme items rather than guidance. The second gates the data centre: capacity growth turns on upstream gas work rather than on demand.
 
-The price of the energy the sector runs on is under review, and the utility's own case is a large one: its consultation paper [makes the case for a 46% tariff rise on a P9.585bn revenue requirement against a P3.477bn funding gap](https://www.bera.co.bw/downloads/Electricity/BPC%202026-27%20Tariff%20Application%20-%20Public%20Notice/2026-27%20BPC%20Electricity%20Tariff%20Application%20Consultation%20Paper.pdf). It is an application rather than a determination: no regulator decision, effective date or data-centre tariff schedule accompanies it, and the base still holds no measured electricity cost for any digital facility in the country.
+The price of the energy the sector runs on is under review, and the utility's own case is a large one: its consultation paper [makes the case for a 46% tariff rise on a P9.585bn revenue requirement against a P3.477bn funding gap](https://www.bera.co.bw/downloads/Electricity/BPC%202026-27%20Tariff%20Application%20-%20Public%20Notice/2026-27%20BPC%20Electricity%20Tariff%20Application%20Consultation%20Paper.pdf). It is an application rather than a determination: no regulator decision, effective date or data-centre tariff schedule accompanies it, and the repository still holds no measured electricity cost for any digital facility in the country.
 
 ## Burkina Faso
 
@@ -29,7 +29,7 @@ Among the regulator's remedies for degraded service, named [on 3 August](https:/
 
 ## Cameroon
 
-The energy ministry announced that the [gas-fired thermal plant at Kribi would be shut down for the whole of a pipeline maintenance window from 5 to 7 August, cutting the southern interconnected grid's generation capacity and disrupting supply in some localities](https://minee.cm/en/communique-de-presse-perturbations-temporaires-de-la-fourniture-de-lenergie-electrique-pourraient-etre-observees-dans-certaines-localites-du-pays-05-08-2026/), with all other available generation mobilised to limit the effect. It is the clearest statement the base holds of how one plant's outage reaches the grid the country's data centres sit on. No data centre's supply arrangement, tariff or backup duty is published.
+The energy ministry announced that the [gas-fired thermal plant at Kribi would be shut down for the whole of a pipeline maintenance window from 5 to 7 August, cutting the southern interconnected grid's generation capacity and disrupting supply in some localities](https://minee.cm/en/communique-de-presse-perturbations-temporaires-de-la-fourniture-de-lenergie-electrique-pourraient-etre-observees-dans-certaines-localites-du-pays-05-08-2026/), with all other available generation mobilised to limit the effect. It is the clearest statement the repository holds of how one plant's outage reaches the grid the country's data centres sit on. No data centre's supply arrangement, tariff or backup duty is published.
 
 ## Central African Republic
 
@@ -43,7 +43,7 @@ The grid the digital estate sits on went backwards. After a fire at the Farcha t
 
 ## Comoros
 
-The thermal plant on Mwali was [down to 1,000 litres of diesel a day against a stated requirement of 7,000, with a total blackout feared](https://alwatwan.net/societe/p%C3%A9nurie-de-carburant-%C3%A0-mwali-i-l%E2%80%99%C3%A9lectricit%C3%A9-de-nouveau-rationn%C3%A9e.html) on 4 August. The island has no fuel depot sized to its needs and depends on maritime resupply, and the account records repeated earlier ruptures in the same year. It is the first measured figure for fuel supply to any island's generation in the base.
+The thermal plant on Mwali was [down to 1,000 litres of diesel a day against a stated requirement of 7,000, with a total blackout feared](https://alwatwan.net/societe/p%C3%A9nurie-de-carburant-%C3%A0-mwali-i-l%E2%80%99%C3%A9lectricit%C3%A9-de-nouveau-rationn%C3%A9e.html) on 4 August. The island has no fuel depot sized to its needs and depends on maritime resupply, and the account records repeated earlier ruptures in the same year. It is the first measured figure for fuel supply to any island's generation in the repository.
 
 ## Ethiopia
 
@@ -57,15 +57,15 @@ The power the digital estate runs on was explained and priced in the same month.
 
 The transmission system failed nationally twice in three weeks. A major fault on the Akosombo-Volta line at about 4.30am on 20 August [tripped the Akosombo units and some thermal plants](https://www.graphic.com.gh/news/general-news/gridco-on-why-there-is-a-second-nationwide-electric-power-outage.html), three weeks after [a system disturbance at about 3.11am on 29 July had tripped generating plants simultaneously](https://gna.org.gh/2026/07/gridco-attributes-nationwide-power-outage-to-system-disturbance/). The operator opened a technical investigation into the first and said further measures were needed to strengthen reliability after the second; no interruption index is published for either.
 
-On 28 August the energy ministry [launched a GHS598 million project to connect 206 communities across all 18 districts of the Volta Region within six months](https://gna.org.gh/2026/08/government-launches-ghs598m-electrification-project-for-206-volta-communities/), part of a programme covering four regions this year and four more annually to 2030. It is the largest funded rural-electrification commitment the base holds, and it lands in the same month as the second national outage.
+On 28 August the energy ministry [launched a GHS598 million project to connect 206 communities across all 18 districts of the Volta Region within six months](https://gna.org.gh/2026/08/government-launches-ghs598m-electrification-project-for-206-volta-communities/), part of a programme covering four regions this year and four more annually to 2030. It is the largest funded rural-electrification commitment the repository holds, and it lands in the same month as the second national outage.
 
 ## Kenya
 
-The distributor put a limit on the energy transition in public. On 11 August KPLC [urged that the quantum of variable renewable generation coming onto the system be moderated to protect grid stability](https://newsroom.kplc.co.ke/articles/variable-renewable-energy-sources-vres-quantum-to-be-moderated-to-ensure-grid-stability). It is a statement of position rather than a curtailment rule, a connection standard or a published limit, and nothing in the base says what quantum the utility considers safe. A week earlier the Senate energy committee [received a status report on the off-grid solar access project and asked for assurances that it is delivering](https://www.parliament.go.ke/node/26195). The data-centre load the grid is being built to carry remains unmeasured in this ledger.
+The distributor put a limit on the energy transition in public. On 11 August KPLC [urged that the quantum of variable renewable generation coming onto the system be moderated to protect grid stability](https://newsroom.kplc.co.ke/articles/variable-renewable-energy-sources-vres-quantum-to-be-moderated-to-ensure-grid-stability). It is a statement of position rather than a curtailment rule, a connection standard or a published limit, and nothing in the repository says what quantum the utility considers safe. A week earlier the Senate energy committee [received a status report on the off-grid solar access project and asked for assurances that it is delivering](https://www.parliament.go.ke/node/26195). The data-centre load the grid is being built to carry remains unmeasured in this ledger.
 
 ## Lesotho
 
-The electricity corporation [states it has held supply availability above 99 per cent on the transmission network and around 95 per cent on distribution for the past years](https://lec.co.ls/transmission-distribution/), attributing the faults that remain to an ageing network and to weather. The figures are the utility's own and the base holds nothing that tests them.
+The electricity corporation [states it has held supply availability above 99 per cent on the transmission network and around 95 per cent on distribution for the past years](https://lec.co.ls/transmission-distribution/), attributing the faults that remain to an ageing network and to weather. The figures are the utility's own and the repository holds nothing that tests them.
 
 ## Libya
 

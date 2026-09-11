@@ -23,7 +23,7 @@ The vendor relationship moved a step, and only a step. The prime minister [witne
 
 ## Kenya
 
-A delegation from a Korean university and development institute [came to Nairobi to evaluate the outcomes](https://www.itweb.africa/article/korea-backs-kenya-digital-economy/KA3WwMdzpwBvrydZ) of South Korea's development assistance to the digital economy. No findings, envelope or successor programme has been published, and the row sits under this heading because the base holds no separate slug for Korea.
+A delegation from a Korean university and development institute [came to Nairobi to evaluate the outcomes](https://www.itweb.africa/article/korea-backs-kenya-digital-economy/KA3WwMdzpwBvrydZ) of South Korea's development assistance to the digital economy. No findings, envelope or successor programme has been published, and the row sits under this heading because the repository holds no separate slug for Korea.
 
 ## Lesotho
 

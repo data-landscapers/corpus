@@ -167,7 +167,8 @@ NO_CHANGE = "No change"
 # only: a cell that explains *why* it has no start ("Not held: the 2022 edition is not…") keeps
 # its explanation.
 NO_BASELINE = {"not held", "baseline not held", "not previously held by this base",
-               "not held in the base", "no account held"}
+               "not held in the base", "not previously held by this repository",
+               "not held in the repository", "no account held"}
 MARKER = re.compile(r"<!-- narrative: ([a-z0-9-]+) -->\n(.*?)\n<!-- /narrative -->", re.S)
 
 # The two vocabularies, documentation/report-layer.md §3. They are STEMS: a value may be followed by a
@@ -875,7 +876,7 @@ def shape_line(unit, start, end):
     months = [m for m in sorted(hist) if start[:7] <= m <= end[:7]]
     if not months:
         # The printed close is the sentinel here too — this line goes into the document.
-        return f"*Shape check: the base holds no dated sources for this place in {start} to {CLOSE}.*"
+        return f"*Shape check: the repository holds no dated sources for this place in {start} to {CLOSE}.*"
     half = len(months) // 2
     early = sum(hist[m] for m in months[:half])
     late = sum(hist[m] for m in months[half:])

@@ -15,7 +15,7 @@ record: 279a72802375
 
 ## Burundi
 
-Civil registration is the one rural system with a number attached to it. Marking African Civil Registration Day, the territorial administration directorate [set out digitalisation of civil status in pilot communes and decentralisation down to zone level, with planned interoperability with health facilities for births and deaths notified through hill chiefs, and a UN agency stated that thirteen communes already hold a biometric registration system](https://www.rtnb.bi/?mypost%3Fid=596). Thirteen is the whole of the count: against well over a hundred communes, what the base records is a pilot that has been running for at least a quarter and a national position that has not moved.
+Civil registration is the one rural system with a number attached to it. Marking African Civil Registration Day, the territorial administration directorate [set out digitalisation of civil status in pilot communes and decentralisation down to zone level, with planned interoperability with health facilities for births and deaths notified through hill chiefs, and a UN agency stated that thirteen communes already hold a biometric registration system](https://www.rtnb.bi/?mypost%3Fid=596). Thirteen is the whole of the count: against well over a hundred communes, what the repository records is a pilot that has been running for at least a quarter and a national position that has not moved.
 
 ## Chad
 
@@ -35,13 +35,13 @@ Rural data collection got hardware rather than a system. The agriculture ministr
 
 ## Ghana
 
-The police service's own page on its criminal data bureau entered the base this month, and what it establishes is where the paper stops: [the bureau at investigations headquarters receives fingerprints and crime details on forms sent in from police stations](https://police.gov.gh/en/index.php/criminal-data-service-bureau-cdsb/), including rural and district ones. The digitisation is at the centre and the stations feed it on paper.
+The police service's own page on its criminal data bureau entered the repository this month, and what it establishes is where the paper stops: [the bureau at investigations headquarters receives fingerprints and crime details on forms sent in from police stations](https://police.gov.gh/en/index.php/criminal-data-service-bureau-cdsb/), including rural and district ones. The digitisation is at the centre and the stations feed it on paper.
 
 It is a standing description dated to capture rather than an event, and it sits against the interior ministry's own sector plan, which names limited logistics particularly in rural and border communities as the constraint on digitisation reaching those stations.
 
 ## Guinea
 
-The first rural digital service to reach farmers this month was a private one carried on a state bank's counters. An agritech firm and the state rural bank [launched a first cohort at Conakry on 6 August pairing field sensors, weather alerts and agronomic advice with the bank's network of over 1,000 service points](https://www.guinee7.com/2026/08/07/kumy-et-le-crg-unissent-leurs-forces-pour-les-agriculteurs/). No cohort size, cost or coverage is stated, and the base still holds no state rural digital-services programme to set beside it.
+The first rural digital service to reach farmers this month was a private one carried on a state bank's counters. An agritech firm and the state rural bank [launched a first cohort at Conakry on 6 August pairing field sensors, weather alerts and agronomic advice with the bank's network of over 1,000 service points](https://www.guinee7.com/2026/08/07/kumy-et-le-crg-unissent-leurs-forces-pour-les-agriculteurs/). No cohort size, cost or coverage is stated, and the repository still holds no state rural digital-services programme to set beside it.
 
 ## Kenya
 
@@ -53,7 +53,7 @@ Two movements reached rural service points from opposite directions. Thirty [SMS
 
 ## Libya
 
-The renewable energy authority's off-grid programme is now on the record at [400 solar systems, 310 kW peak, for remote clusters and border posts](https://reaol.ly/index.php/portfolio/pro1/). It is power rather than connectivity, and it is the largest counted state provision outside the cities the base holds; the other reaches beyond the capital this year are [15 sentinel disease surveillance sites](https://ncdc.org.ly/Ar/29_9_2025-2/) and a [police station records system launched in Tripoli](https://lana.gov.ly/post.php?id=347992&lang=ar).
+The renewable energy authority's off-grid programme is now on the record at [400 solar systems, 310 kW peak, for remote clusters and border posts](https://reaol.ly/index.php/portfolio/pro1/). It is power rather than connectivity, and it is the largest counted state provision outside the cities the repository holds; the other reaches beyond the capital this year are [15 sentinel disease surveillance sites](https://ncdc.org.ly/Ar/29_9_2025-2/) and a [police station records system launched in Tripoli](https://lana.gov.ly/post.php?id=347992&lang=ar).
 
 ## Malawi
 
@@ -65,7 +65,7 @@ The same week [recommended an updated universal-access strategy with a white-zon
 
 ## Mauritius
 
-The [virtual reality programme in primary schools](https://mdpa.govmu.org/mdpa/index.php/virtual-reality-in-primary-schools-vrps/) is the second digital programme now running in the primary estate, after the [education platform launched in January](https://lexpress.mu/node/553891) under the operator pilot. Neither publishes a school count or a pupil reach. On an island of this size the rural indicators are answered by national programmes rather than by a rural one, and what the base cannot say of either programme is how much of the estate it has reached.
+The [virtual reality programme in primary schools](https://mdpa.govmu.org/mdpa/index.php/virtual-reality-in-primary-schools-vrps/) is the second digital programme now running in the primary estate, after the [education platform launched in January](https://lexpress.mu/node/553891) under the operator pilot. Neither publishes a school count or a pupil reach. On an island of this size the rural indicators are answered by national programmes rather than by a rural one, and what the repository cannot say of either programme is how much of the estate it has reached.
 
 ## Nigeria
 
@@ -93,7 +93,7 @@ Two records of rural service digitisation carry the same date, both from the bod
 
 ## Uganda
 
-Rural digitalisation moved a district at a time, below the clinic rather than in it. A donor [handed 306 smartphones to village health teams in Masaka on 11 August, to capture and transmit community health data in real time](https://khronicledispatches.com/2026/08/11/kofih-equips-masaka-vhts-with-306-smartphones-in-push-to-digitize-community-healthcare/). It follows a [death-notification workflow built into the electronic community health information system and piloted in 17 districts](https://www.nature.com/articles/s41598-026-47970-0) earlier in the year, against persistent under-ascertainment of community deaths. Neither is at national scale, and nothing in the base states how many rural health facilities keep electronic records at all.
+Rural digitalisation moved a district at a time, below the clinic rather than in it. A donor [handed 306 smartphones to village health teams in Masaka on 11 August, to capture and transmit community health data in real time](https://khronicledispatches.com/2026/08/11/kofih-equips-masaka-vhts-with-306-smartphones-in-push-to-digitize-community-healthcare/). It follows a [death-notification workflow built into the electronic community health information system and piloted in 17 districts](https://www.nature.com/articles/s41598-026-47970-0) earlier in the year, against persistent under-ascertainment of community deaths. Neither is at national scale, and nothing in the repository states how many rural health facilities keep electronic records at all.
 
 ## Zambia
 

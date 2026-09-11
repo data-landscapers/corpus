@@ -37,11 +37,11 @@ A domestically built platform for creating online shops was [profiled on 26 Augu
 
 ## Cape Verde
 
-The innovation record moved to the extent that two institutions said they intend to work together. The national university and the economy ministry [are projecting a partnership on innovation, entrepreneurship and employment](https://unicv.edu.cv/pt/nots-geral/5931-uni-cv-e-ministerio-da-economia-projetam-parceria-para-inovacao-empreendedorismo-e-emprego). Projected is the operative word: no scope, funding or programme accompanies it, and nothing here is yet an instrument the base can track.
+The innovation record moved to the extent that two institutions said they intend to work together. The national university and the economy ministry [are projecting a partnership on innovation, entrepreneurship and employment](https://unicv.edu.cv/pt/nots-geral/5931-uni-cv-e-ministerio-da-economia-projetam-parceria-para-inovacao-empreendedorismo-e-emprego). Projected is the operative word: no scope, funding or programme accompanies it, and nothing here is yet an instrument the repository can track.
 
 ## Comoros
 
-The hackathon launched in April closed its first phase, [a hundred young people trained and ten finalists funded at EUR 1,500 to 5,000 each at a ceremony on 6 August, under a EUR 4 million European Union programme implemented by the French technical cooperation agency](https://www.lagazettedescomores.com/soci%C3%A9t%C3%A9/hackathon-wamanga-wa-komor-la-premi%C3%A8re-phase-retient-10-projets-innovants-.html). It is the most concrete completed outcome the base holds for Comorian start-ups, and it is a grant round. No start-up statute or domestic innovation fund exists.
+The hackathon launched in April closed its first phase, [a hundred young people trained and ten finalists funded at EUR 1,500 to 5,000 each at a ceremony on 6 August, under a EUR 4 million European Union programme implemented by the French technical cooperation agency](https://www.lagazettedescomores.com/soci%C3%A9t%C3%A9/hackathon-wamanga-wa-komor-la-premi%C3%A8re-phase-retient-10-projets-innovants-.html). It is the most concrete completed outcome the repository holds for Comorian start-ups, and it is a grant round. No start-up statute or domestic innovation fund exists.
 
 ## Cote d'Ivoire
 
@@ -59,7 +59,7 @@ Egypt [led the continent in the first half of 2026 with US$327m raised, US$183m 
 
 ## Eritrea
 
-On 15 August the Ministry of Information [interviewed Shambko Apps Group, a self-organised software collective that has released five Tigrinya-language mobile applications](https://shabait.com/2026/08/15/technology-as-a-bridge-between-generations-a-conversation-with-shambko-apps-group/) — literacy, puzzle, cultural-heritage and arithmetic tools built to the national curriculum — and set out a plan to extend them to Eritrea's eight other national languages. It is the first non-state software effort the base holds for Eritrea. No download count, distribution channel or funding source is stated, and the account is the state broadcaster's own.
+On 15 August the Ministry of Information [interviewed Shambko Apps Group, a self-organised software collective that has released five Tigrinya-language mobile applications](https://shabait.com/2026/08/15/technology-as-a-bridge-between-generations-a-conversation-with-shambko-apps-group/) — literacy, puzzle, cultural-heritage and arithmetic tools built to the national curriculum — and set out a plan to extend them to Eritrea's eight other national languages. It is the first non-state software effort the repository holds for Eritrea. No download count, distribution channel or funding source is stated, and the account is the state broadcaster's own.
 
 ## Eswatini
 
@@ -77,7 +77,7 @@ The state digital incubator was not closed after all. It [has been placed under 
 
 ## Gambia
 
-The hub estate is listed rather than surveyed. [Four hubs appear in a continental directory — a disruptive lab, a technology company, a startup incubator and a co-working network](https://new.afrilabs.com/index.php/hub_country/gambia/), alongside a [developer group chapter in the capital reporting about 992 members and running artificial-intelligence and civic-technology meetups](https://gdg.community.dev/gdg-banjul/). No membership, funding, cohort or survival figure is published for any of them, so what the base holds is a count of names.
+The hub estate is listed rather than surveyed. [Four hubs appear in a continental directory — a disruptive lab, a technology company, a startup incubator and a co-working network](https://new.afrilabs.com/index.php/hub_country/gambia/), alongside a [developer group chapter in the capital reporting about 992 members and running artificial-intelligence and civic-technology meetups](https://gdg.community.dev/gdg-banjul/). No membership, funding, cohort or survival figure is published for any of them, so what the repository holds is a count of names.
 
 ## Ghana
 
@@ -128,13 +128,13 @@ A third incubator entered the record, and the first of them to open applications
 
 ## South Africa
 
-The month's addition is a standing one. The small business department's [network of incubation and digital hubs](http://www.dsbd.gov.za/article/incubation-and-digital-hubs) is now on the record, which matters because the two centres opened earlier in the year — a continental digital transformation centre established with the International Telecommunication Union, and an industry and technology centre hosted by a university — both sit on top of an existing state hub estate that the base had never described.
+The month's addition is a standing one. The small business department's [network of incubation and digital hubs](http://www.dsbd.gov.za/article/incubation-and-digital-hubs) is now on the record, which matters because the two centres opened earlier in the year — a continental digital transformation centre established with the International Telecommunication Union, and an industry and technology centre hosted by a university — both sit on top of an existing state hub estate that the repository had never described.
 
 No hub count, spend or enterprise figure is published for any of the three, so the estate is established and its output is not. Both openings fall outside this month and are carried in the progress report.
 
 ## Sudan
 
-The finance ministry, the African Development Bank and the regional body [launched the national component of an entrepreneurship and innovation project on 19 August 2026, delivered through the University of Khartoum's entrepreneurship incubator](https://sudanhorizon.com/sudanafdb-and-igad-support-eentrepreneurship-and-startups/), part of a regional operation of about USD 3.255 million also covering South Sudan and Djibouti. Alongside it the base took in a standing account of the country's main private startup organisation, [established in April 2018 and running a hub and support programmes](https://249startups.com/about/), which had opened [a 500-place youth entrepreneurship programme in Kassala](https://menastartupdigest.com/249startups-launches-i-upshift-program-in-kassala-to-empower-500-youth/). No count of active hubs or of capital placed is published.
+The finance ministry, the African Development Bank and the regional body [launched the national component of an entrepreneurship and innovation project on 19 August 2026, delivered through the University of Khartoum's entrepreneurship incubator](https://sudanhorizon.com/sudanafdb-and-igad-support-eentrepreneurship-and-startups/), part of a regional operation of about USD 3.255 million also covering South Sudan and Djibouti. Alongside it the repository took in a standing account of the country's main private startup organisation, [established in April 2018 and running a hub and support programmes](https://249startups.com/about/), which had opened [a 500-place youth entrepreneurship programme in Kassala](https://menastartupdigest.com/249startups-launches-i-upshift-program-in-kassala-to-empower-500-youth/). No count of active hubs or of capital placed is published.
 
 ## Tanzania
 
@@ -154,7 +154,7 @@ The startup environment was assessed rather than funded. A continental alliance 
 
 ## Zambia
 
-A donor-funded accelerator began staffing up: a private hub [called for facilitators and group coaches for a twelve-month incubator running masterclasses, group coaching and access to funding for digital startups](https://bongohive.co.zm/call-for-facilitators-and-group-coaches/). No cohort size, budget or start date is stated, and the government innovation fund the base looked for is still not held.
+A donor-funded accelerator began staffing up: a private hub [called for facilitators and group coaches for a twelve-month incubator running masterclasses, group coaching and access to funding for digital startups](https://bongohive.co.zm/call-for-facilitators-and-group-coaches/). No cohort size, budget or start date is stated, and the government innovation fund the repository looked for is still not held.
 
 ## Zimbabwe
 

@@ -23,7 +23,7 @@ The statistics office and the national university [launched a second Statistics 
 
 ## Burundi
 
-The statistical strategy reported on itself. The statutory sector statistics group met for the second quarter [with the recommendations of the mid-term evaluation of the third national statistics strategy on its agenda](https://www.insbu.bi/actualitesEtEvenements), which establishes both that a third-generation strategy is in force and that its mid-term evaluation has reported. Neither the strategy nor the evaluation is published, so the base can date the process and cannot read what it found.
+The statistical strategy reported on itself. The statutory sector statistics group met for the second quarter [with the recommendations of the mid-term evaluation of the third national statistics strategy on its agenda](https://www.insbu.bi/actualitesEtEvenements), which establishes both that a third-generation strategy is in force and that its mid-term evaluation has reported. Neither the strategy nor the evaluation is published, so the repository can date the process and cannot read what it found.
 
 ## Cameroon
 
@@ -47,7 +47,7 @@ The statistics institute ran a [sensitisation campaign across the archipelago's 
 
 The census apparatus moved alongside it: [the fifth population and housing census finalised its methodological and digital instruments at a retreat from 10 to 17 August](https://lagazettedescomores.com/soci%C3%A9t%C3%A9/rgph-5-lancement-de-la-finalisation-des-outils-m%C3%A9thodologiques-et-num%C3%A9riques-19385.html). No enumeration date is published.
 
-Two standing instruments entered the base at the end of the month, both dated by retrieval rather than by publication. The institute's [national microdata archive held fifteen datasets at 23 August](https://www.nada.inseed-comores.org/index.php/home), and a [modernisation project with the institute as national project owner is running, prioritising disaster and fisheries data and the institute's own digital infrastructure for statistical collection, processing, dissemination and storage](https://unstats.un.org/UNSDWebsite/capacity-development/data-for-now/country-details/Comoros). Neither carries an output or a completion date.
+Two standing instruments entered the repository at the end of the month, both dated by retrieval rather than by publication. The institute's [national microdata archive held fifteen datasets at 23 August](https://www.nada.inseed-comores.org/index.php/home), and a [modernisation project with the institute as national project owner is running, prioritising disaster and fisheries data and the institute's own digital infrastructure for statistical collection, processing, dissemination and storage](https://unstats.un.org/UNSDWebsite/capacity-development/data-for-now/country-details/Comoros). Neither carries an output or a completion date.
 
 ## Congo
 
@@ -97,11 +97,11 @@ The statistical office and the communications regulator [put a Fourth National I
 
 ## Mali
 
-The statistics institute runs a [microdata archive under its own domain holding 107 studies](https://microdata.instat.ml/index.php/catalog/), led by the 2022 census and near-annual agricultural surveys since 1996/1997. It is a first-party statistical archive rather than a whole-of-government open-data portal, and the base holds nothing of the latter kind.
+The statistics institute runs a [microdata archive under its own domain holding 107 studies](https://microdata.instat.ml/index.php/catalog/), led by the 2022 census and near-annual agricultural surveys since 1996/1997. It is a first-party statistical archive rather than a whole-of-government open-data portal, and the repository holds nothing of the latter kind.
 
 ## Mauritania
 
-The fifth general population and housing census [presented its final regional results from 3 August](https://www.ami.mr/archives/265803). No methodology note, response rate or dissemination calendar accompanies the presentation, so what the base holds is that the results exist rather than what they say.
+The fifth general population and housing census [presented its final regional results from 3 August](https://www.ami.mr/archives/265803). No methodology note, response rate or dissemination calendar accompanies the presentation, so what the repository holds is that the results exist rather than what they say.
 
 ## Mauritius
 
@@ -133,7 +133,7 @@ An outside assessment put the statistical system at two speeds. An International
 
 ## Seychelles
 
-The statistical work of the window is climate data with a funding line behind it. Seychelles [launched its national implementation of a nine-country African island-states resilience programme, backed by a US$4.943 million readiness grant, whose data leg is a standardised approach to institutional readiness, multi-hazard risk assessment and information systems](https://www.uneca.org/eca-events/national-launch-resislands-initiative-republic-seychelles), the stated purpose being to build pipelines of climate-resilient projects able to reach international finance. The grant figure covers all nine countries; the national share is not published, so the base can date the launch and not size it.
+The statistical work of the window is climate data with a funding line behind it. Seychelles [launched its national implementation of a nine-country African island-states resilience programme, backed by a US$4.943 million readiness grant, whose data leg is a standardised approach to institutional readiness, multi-hazard risk assessment and information systems](https://www.uneca.org/eca-events/national-launch-resislands-initiative-republic-seychelles), the stated purpose being to build pipelines of climate-resilient projects able to reach international finance. The grant figure covers all nine countries; the national share is not published, so the repository can date the launch and not size it.
 
 ## Sierra Leone
 

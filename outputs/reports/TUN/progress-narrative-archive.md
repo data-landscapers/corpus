@@ -72,4 +72,4 @@ Skills acquired a statutory home. Artificial intelligence, data analysis, progra
 
 These carry no reliable position at either end of the period. Two of them bear directly on what moved: the legal basis for the linked national health dataset, built inside this window, and the issuance of the biometric identity card and passport, whose enabling laws predate it by two years and whose rollout is unestablished.
 
-The third is fiscal, and it frames the rest. In a year in which the state made identity compulsory, promulgated a five-year plan naming digital as a pillar, and put its digital transition into the 2027 budget orientations, the base holds no appropriation figure for any of it at either end.
+The third is fiscal, and it frames the rest. In a year in which the state made identity compulsory, promulgated a five-year plan naming digital as a pillar, and put its digital transition into the 2027 budget orientations, the repository holds no appropriation figure for any of it at either end.

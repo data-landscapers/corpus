@@ -52,7 +52,7 @@ Most of what this section contains did not exist on the record twelve months ago
 
 The apostille platform moved from planned at Hague accession on 25 August 2025 to implemented at launch on 9 July 2026. The Bank of Algeria [joined PAPSS](https://www.afreximbank.com/bank-of-algeria-joins-papss-network-accelerating-financial-integration-in-africa-as-algeria-prepares-to-host-iatf-2025) on 15 August 2025, two weeks into the window.
 
-Three long-standing systems cannot be dated from the base at either end: the older Bawabatak portal, the electronic commercial register, and the card and terminal estate. The rails were operating throughout the window and only the counts changed.
+Three long-standing systems cannot be dated from the repository at either end: the older Bawabatak portal, the electronic commercial register, and the card and terminal estate. The rails were operating throughout the window and only the counts changed.
 
 ## technology
 

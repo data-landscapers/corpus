@@ -35,7 +35,7 @@ There is [no dedicated European Union country programme for Mali for 2025 to 202
 
 ## Morocco
 
-Morocco holds [no European Union adequacy decision: the Commission's list names sixteen jurisdictions plus one international organisation, none of them in Africa](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en). Neither source establishing this is tagged to Morocco, and no Morocco-tagged governance source the base holds mentions the European Union at all.
+Morocco holds [no European Union adequacy decision: the Commission's list names sixteen jurisdictions plus one international organisation, none of them in Africa](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en). Neither source establishing this is tagged to Morocco, and no Morocco-tagged governance source the repository holds mentions the European Union at all.
 
 ## Nigeria
 

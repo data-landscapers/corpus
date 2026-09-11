@@ -76,4 +76,4 @@ Sub-national inclusion acquired its first named commitment: a [ministerial missi
 
 These carry no reliable position at either end of the period. Three of them sit directly under what the year built: the compute the artificial-intelligence stack assumes, the enterprise adoption the strategy addresses, and the enacted text of the budget that funds both.
 
-The rest are areas the base has never held for Mauritius — technical capacity, satellite data, rural capture, local government and digital literacy — and a year of unusually dense policy activity did not close any of them.
+The rest are areas the repository has never held for Mauritius — technical capacity, satellite data, rural capture, local government and digital literacy — and a year of unusually dense policy activity did not close any of them.

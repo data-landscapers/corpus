@@ -59,7 +59,7 @@ This is a repair, not an opening. [Government officials accused the company in 2
 
 ## Sudan
 
-The China relationship acquired a physical address. Sudan's minister of digital transformation and communications [attended the opening of a digital cooperation centre with China](https://sudanhorizon.com/sudans-minister-of-digital-transformation-participates-in-opening-of-china-africa-digital-technology-cooperation-center/). Until this month the base held nothing at all on Chinese digital engagement with Sudan. What it still holds nothing on is the instrument behind the centre, its value, or what it is to do.
+The China relationship acquired a physical address. Sudan's minister of digital transformation and communications [attended the opening of a digital cooperation centre with China](https://sudanhorizon.com/sudans-minister-of-digital-transformation-participates-in-opening-of-china-africa-digital-technology-cooperation-center/). Until this month the repository held nothing at all on Chinese digital engagement with Sudan. What it still holds nothing on is the instrument behind the centre, its value, or what it is to do.
 
 ## Togo
 

@@ -19,7 +19,7 @@ The standards estate entered the record this month rather than moving in it. The
 
 ## Benin
 
-Benin's standards body is now inside the international system rather than beside it: the Agence Nationale de Normalisation [is recorded as a full member of ISO](https://www.iso.org/member/308845.html), having [launched the national NB conformity mark in April](https://anm.bj/fr/actualite/7503). Membership is a standing on paper; what the base does not hold is a standards catalogue, a certified-product count, or any ICT-specific Beninese standard.
+Benin's standards body is now inside the international system rather than beside it: the Agence Nationale de Normalisation [is recorded as a full member of ISO](https://www.iso.org/member/308845.html), having [launched the national NB conformity mark in April](https://anm.bj/fr/actualite/7503). Membership is a standing on paper; what the repository does not hold is a standards catalogue, a certified-product count, or any ICT-specific Beninese standard.
 
 ## Cape Verde
 
@@ -33,11 +33,11 @@ Two of the operators visited said they had not been told registration was requir
 
 ## Chad
 
-The standards agency published its first adoptions: [the quality management systems committee adopted ten international standards as draft Chadian norms on 5 August 2026, with sessions of the electrotechnical and petroleum products committees either side of it](https://atnor.td/). It is the first movement the base holds against a mandate standing since 2014.
+The standards agency published its first adoptions: [the quality management systems committee adopted ten international standards as draft Chadian norms on 5 August 2026, with sessions of the electrotechnical and petroleum products committees either side of it](https://atnor.td/). It is the first movement the repository holds against a mandate standing since 2014.
 
 ## Comoros
 
-The government's own concept note for a single citizen portal [names an interoperability framework and a government enterprise architecture as components of the Plan National e-Gouv](https://puc.gouv.km/about). It is the first record in the base of either, and neither document is published: what the note asks for is a census of the e-government platforms ministries have already built. The page carries no date and is dated by the day it was retrieved.
+The government's own concept note for a single citizen portal [names an interoperability framework and a government enterprise architecture as components of the Plan National e-Gouv](https://puc.gouv.km/about). It is the first record in the repository of either, and neither document is published: what the note asks for is a census of the e-government platforms ministries have already built. The page carries no date and is dated by the day it was retrieved.
 
 ## Cote d'Ivoire
 
@@ -61,11 +61,11 @@ Asked on 4 August how online publications comply with the data-protection law, t
 
 ## Ethiopia
 
-A standing readiness instrument the base had not held was named from practice rather than from the regulator. A practitioner's case is that a [central bank microfinance directive of 2022 already defines the governance, risk-management and operational readiness that institutions skip when they buy digital wallets before building the capability to run them](https://capitalethiopia.com/2026/09/06/when-digital-ambition-becomes-a-tripping-stone/). The directive text is not held and no supervisory finding, enforcement action or compliance count is published, so what the base has is the rule's existence and one account of how it is being ignored.
+A standing readiness instrument the repository had not held was named from practice rather than from the regulator. A practitioner's case is that a [central bank microfinance directive of 2022 already defines the governance, risk-management and operational readiness that institutions skip when they buy digital wallets before building the capability to run them](https://capitalethiopia.com/2026/09/06/when-digital-ambition-becomes-a-tripping-stone/). The directive text is not held and no supervisory finding, enforcement action or compliance count is published, so what the repository has is the rule's existence and one account of how it is being ignored.
 
 ## Gabon
 
-Service quality is the one obligation the base cannot show being enforced. Reporting of 25 August 2026 states that at a departmental capital, a commune since 1996 with a prefecture, town hall and schools, [the incumbent sells data bundles on a network whose coverage appears and disappears while prepaid credit and bundle validity run down normally, and puts the regulator's inaction to the president of its regulatory council](https://depeches241.com/?p=29909). No quality-of-service determination, decision or sanction is published, which is why the row stands here as ***Not held***.
+Service quality is the one obligation the repository cannot show being enforced. Reporting of 25 August 2026 states that at a departmental capital, a commune since 1996 with a prefecture, town hall and schools, [the incumbent sells data bundles on a network whose coverage appears and disappears while prepaid credit and bundle validity run down normally, and puts the regulator's inaction to the president of its regulatory council](https://depeches241.com/?p=29909). No quality-of-service determination, decision or sanction is published, which is why the row stands here as ***Not held***.
 
 ## Gambia
 
@@ -120,7 +120,7 @@ The standards move of the month is aimed at the innovation estate rather than at
 
 ## Rwanda
 
-The [government-wide enterprise architecture framework, version 2.1, is in force to govern ICT architecture standards](https://risa.prod.risa.rw/fileadmin/user_upload/RISA/Publications/1.Guidelines/GOR_s_Enterprise_Architecture_Framework.pdf) and is now held in excerpt. It is distinct from the interoperability framework named in earlier academic work, for which the base still holds no separate instrument.
+The [government-wide enterprise architecture framework, version 2.1, is in force to govern ICT architecture standards](https://risa.prod.risa.rw/fileadmin/user_upload/RISA/Publications/1.Guidelines/GOR_s_Enterprise_Architecture_Framework.pdf) and is now held in excerpt. It is distinct from the interoperability framework named in earlier academic work, for which the repository still holds no separate instrument.
 
 ## Sao Tome and Principe
 
@@ -150,7 +150,7 @@ Two standing accounts entered the record and no standard was made. The national 
 
 ## Tanzania
 
-The window's only standards movement is a visit. The communications regulator [undertook a two-day benchmarking visit to its Kenyan counterpart to exchange experience and practice in regulating satellite communications](https://techafricanews.com/2026/08/27/kenya-tanzania-deepen-satellite-regulatory-cooperation/). Nothing was signed and nothing issued: it is carried because the base holds no other statement of how this regulator approaches satellite licensing, and it will settle or lapse on whether anything follows.
+The window's only standards movement is a visit. The communications regulator [undertook a two-day benchmarking visit to its Kenyan counterpart to exchange experience and practice in regulating satellite communications](https://techafricanews.com/2026/08/27/kenya-tanzania-deepen-satellite-regulatory-cooperation/). Nothing was signed and nothing issued: it is carried because the repository holds no other statement of how this regulator approaches satellite licensing, and it will settle or lapse on whether anything follows.
 
 ## Togo
 
@@ -166,4 +166,4 @@ The sector agreed to count itself consistently. The technology ministry [will st
 
 The standards bureau states its own position rather than reporting a change. Its service page [puts more than 50 international standards adopted as Zambian Standards, within a catalogue of more than 6,500 national standards across sectors including information and communication technology](https://www.zabs.org.zm/standards-development). The page carries no date, so the figures are dated to retrieval, and no breakdown by sector or year of adoption is published — an adoption count with no series behind it.
 
-The trust layer under the interoperability standards was stood up. The communications regulator [operationalised the National Digital Trust Anchor in its capacity as national root certification authority, the framework issuing and verifying digital certificates and signatures establishing the identity of people and organisations, on the legal base of the electronic communications and transactions statute](https://zambia24.com/2026/09/07/zambia-bets-on-digital-trust/). No certificate count, subordinate-authority list, accreditation route or fee schedule is published, and the launch reaches the base through a news report rather than the regulator's own notice — which for a root certification authority is the one thing a relying party would want to be able to check. The [national public key infrastructure was launched with a named security vendor](https://www.itweb.africa/article/zambia-launches-national-digital-trust-infrastructure/VgZeyqJlpzp7djX9), its master cryptographic keys generated under independently audited conditions, held offline and split among multiple custodians so that no single entity has unilateral control.
+The trust layer under the interoperability standards was stood up. The communications regulator [operationalised the National Digital Trust Anchor in its capacity as national root certification authority, the framework issuing and verifying digital certificates and signatures establishing the identity of people and organisations, on the legal base of the electronic communications and transactions statute](https://zambia24.com/2026/09/07/zambia-bets-on-digital-trust/). No certificate count, subordinate-authority list, accreditation route or fee schedule is published, and the launch reaches the repository through a news report rather than the regulator's own notice — which for a root certification authority is the one thing a relying party would want to be able to check. The [national public key infrastructure was launched with a named security vendor](https://www.itweb.africa/article/zambia-launches-national-digital-trust-infrastructure/VgZeyqJlpzp7djX9), its master cryptographic keys generated under independently audited conditions, held offline and split among multiple custodians so that no single entity has unilateral control.

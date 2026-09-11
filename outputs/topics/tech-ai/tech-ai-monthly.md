@@ -23,7 +23,7 @@ Three external events are dated in the month and moved nothing. The Post and Tel
 
 ## Angola
 
-Money reached artificial intelligence in the administration for the first time this month, ahead of any policy saying what it is for. A presidential order of 27 August [authorised six million United States dollars for the acquisition and implementation of an artificial-intelligence platform for the public administration and opened a public tender for it](https://pti.ao/executivo-desembolsa-usd-6-milhoes-para-plataforma-de-inteligencia-artificial-na-administracao-publica/). What the platform is to do, which bodies would use it and on what data are not stated, and the base holds no national instrument on artificial intelligence in government against which to read the spend.
+Money reached artificial intelligence in the administration for the first time this month, ahead of any policy saying what it is for. A presidential order of 27 August [authorised six million United States dollars for the acquisition and implementation of an artificial-intelligence platform for the public administration and opened a public tender for it](https://pti.ao/executivo-desembolsa-usd-6-milhoes-para-plataforma-de-inteligencia-artificial-na-administracao-publica/). What the platform is to do, which bodies would use it and on what data are not stated, and the repository holds no national instrument on artificial intelligence in government against which to read the spend.
 
 ## Benin
 
@@ -37,7 +37,7 @@ Asked in plenary where artificial intelligence sat in the new data-protection la
 
 ## Burundi
 
-The strategy went looking for money. The finance and budget minister carried its ambitions to the Korea-Africa economic cooperation ministerial in Seoul, [seeking the financing and partnerships to turn it into concrete projects](https://www.wearetech.africa/fr/fils/actualites/tech/intelligence-artificielle-a-seoul-le-burundi-presente-ses-ambitions), the account naming connectivity, data infrastructure and local skills as what the strategy validated in April provides for, against national digital capacity it describes as limited. No commitment, partner or project is reported as resulting, which leaves the strategy where the base already had it: adopted, unfunded and unimplemented.
+The strategy went looking for money. The finance and budget minister carried its ambitions to the Korea-Africa economic cooperation ministerial in Seoul, [seeking the financing and partnerships to turn it into concrete projects](https://www.wearetech.africa/fr/fils/actualites/tech/intelligence-artificielle-a-seoul-le-burundi-presente-ses-ambitions), the account naming connectivity, data infrastructure and local skills as what the strategy validated in April provides for, against national digital capacity it describes as limited. No commitment, partner or project is reported as resulting, which leaves the strategy where the repository already had it: adopted, unfunded and unimplemented.
 
 ## Cameroon
 
@@ -53,7 +53,7 @@ No membership, funding or output is published for the grouping, and it stands ag
 
 ## Chad
 
-The base holds its first record of an artificial-intelligence strategy for Chad: a [consultancy is being recruited to draft a National Digital Transformation and Artificial Intelligence Strategy for 2026 to 2031](https://www.ungm.org/Public/Notice/311924). The row that stood as not held is settled to that extent and no further; there is no draft, adoption route or delivery date.
+The repository holds its first record of an artificial-intelligence strategy for Chad: a [consultancy is being recruited to draft a National Digital Transformation and Artificial Intelligence Strategy for 2026 to 2031](https://www.ungm.org/Public/Notice/311924). The row that stood as not held is settled to that extent and no further; there is no draft, adoption route or delivery date.
 
 ## Comoros
 
@@ -99,7 +99,7 @@ On 6 July the prime minister told the [Global Dialogue on AI Governance in Genev
 
 A [regional health body and a private firm signed a memorandum in Eswatini on 4 August to scale AI-enabled health solutions](https://eswatinipositivenews.online/ecsa-hc-skye-africa-intelligence-partner-to-scale-ai-health-solutions/), naming no system, no data-sharing terms and no money.
 
-The audit office took its own artificial-intelligence commitment regional, [hosting a week-long peer programme at which supreme audit institutions across the region weighed the use of artificial intelligence in government audit](https://eswatinipositivenews.online/auditors-embrace-ai-to-protect-public-funds/). As with the strategic plan in August, no tool, pilot, audit methodology or procurement is named — what the base holds is the intention and the forum it was stated in.
+The audit office took its own artificial-intelligence commitment regional, [hosting a week-long peer programme at which supreme audit institutions across the region weighed the use of artificial intelligence in government audit](https://eswatinipositivenews.online/auditors-embrace-ai-to-protect-public-funds/). As with the strategic plan in August, no tool, pilot, audit methodology or procurement is named — what the repository holds is the intention and the forum it was stated in.
 
 ## Gabon
 
@@ -228,13 +228,13 @@ The closest thing to a rule on state automated decision-making is a court case, 
 
 Two smaller items sit at the other end of the same subject. A robotics firm [opened a manufacturing plant and showroom in Durban for an artificial-intelligence humanoid tutor, targeting deployment across roughly 23,000 public schools](https://www.itweb.co.za/article/humanoid-tutor-manufacturing-plant-opens-in-durban/G98YdMLGNwV7X2PD), on a founder's stated ambition rather than a procurement. And a university's radio-telescope demonstrator [was selected to fly aboard a Chinese lunar mission in 2029](https://www.itweb.co.za/article/african-scientists-to-put-radio-telescope-on-moon/RgeVDqPRkKa7KJN3), described as the first all-African space-exploration mission and building on the country's existing radio-astronomy programme.
 
-An existing statute was asserted against a new practice rather than a new rule being made. Provincial police warned that [creating and sharing artificial-intelligence face-swap images of oneself in police uniform can breach section 68 of the South African Police Service Act 68 of 1995, which makes impersonating a police official an offence](https://www.itweb.co.za/article/saps-sounds-alarm-over-ai-generated-police-images/lwrKx73YyNOqmg1o). It is a provincial warning with no case, charge or takedown route behind it — and the only enforcement position the base holds on synthetic imagery.
+An existing statute was asserted against a new practice rather than a new rule being made. Provincial police warned that [creating and sharing artificial-intelligence face-swap images of oneself in police uniform can breach section 68 of the South African Police Service Act 68 of 1995, which makes impersonating a police official an offence](https://www.itweb.co.za/article/saps-sounds-alarm-over-ai-generated-police-images/lwrKx73YyNOqmg1o). It is a provincial warning with no case, charge or takedown route behind it — and the only enforcement position the repository holds on synthetic imagery.
 
 Two forward-looking statements arrived with nothing built behind them: a market forecast that [80% of governments will use artificial-intelligence agents by 2028, with the revenue service exploring digital twinning in tax processing](https://sundayworld.co.za/technology/ai-agents-could-change-face-of-service-delivery/), and a deputy minister's framing of inclusion as [connection, capability and command — the third being who builds and shapes the technology rather than who reaches it](https://www.sanews.gov.za/south-africa/call-inclusive-approach-ai-revolution), at a first summit on youth, artificial intelligence and the future of work. Neither carries a programme, budget or date.
 
 ## Sudan
 
-A partner consortium [built a deep-learning model detecting school locations and boundaries from satellite imagery at 95 per cent accuracy across Sudan](https://www.omdena.com/blog/giga-unicef), delivered by 52 engineers over six weeks and designed for integration into a school-connectivity mapping system. It is the second artificial-intelligence application the base holds inside an education system, and like the first it is externally built: the state's own role in both is as the subject of the mapping rather than its operator.
+A partner consortium [built a deep-learning model detecting school locations and boundaries from satellite imagery at 95 per cent accuracy across Sudan](https://www.omdena.com/blog/giga-unicef), delivered by 52 engineers over six weeks and designed for integration into a school-connectivity mapping system. It is the second artificial-intelligence application the repository holds inside an education system, and like the first it is externally built: the state's own role in both is as the subject of the mapping rather than its operator.
 
 ## Tanzania
 
@@ -271,7 +271,7 @@ A domestic model reached a continental prize rather than a deployment: a startup
 
 ## Zambia
 
-The month's artificial-intelligence entry is a competition rather than a capability. Applications [closed on 18 August for an AI for Public Good Challenge run with a UN development agency](https://www.undp.org/zambia/news/call-applications-ai-public-good-challenge). No entry count, prize, selection criterion or follow-on funding is published, and the base still holds no national artificial-intelligence laboratory, model or compute position.
+The month's artificial-intelligence entry is a competition rather than a capability. Applications [closed on 18 August for an AI for Public Good Challenge run with a UN development agency](https://www.undp.org/zambia/news/call-applications-ai-public-good-challenge). No entry count, prize, selection criterion or follow-on funding is published, and the repository still holds no national artificial-intelligence laboratory, model or compute position.
 
 ## Zimbabwe
 

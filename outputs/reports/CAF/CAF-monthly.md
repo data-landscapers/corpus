@@ -27,7 +27,7 @@ Two services reached users. [Electricity bills became payable over mobile money 
 <!-- narrative: governance--gov-policy -->
 The World Bank published a public finance review of the Central African Republic on 2 July 2026, and it puts digitisation at the centre of what it proposes. Against domestic revenue of about [FCFA 187bn, or 10.1% of GDP, in a 2025 budget of about FCFA 385bn](https://www.radiondekeluka.org/103981-finances-publiques-en-centrafrique-ce-que-revele-la-revue-de-la-banque-mondiale), it argues for a rise to 12% in the short and medium term and 15% in the long term, and estimates that [digitising the tax administration alone could raise up to two points of GDP in the short term](https://www.radiondekeluka.org/103981-finances-publiques-en-centrafrique-ce-que-revele-la-revue-de-la-banque-mondiale). Electronic public procurement and a digital cadastre are named among its longer-term recommendations, against [63% of public contracts let by direct award in 2023 and 11% of domestically financed investment executed that year](https://www.radiondekeluka.org/103981-finances-publiques-en-centrafrique-ce-que-revele-la-revue-de-la-banque-mondiale).
 
-It is the first independent assessment the base holds of the ground the government's own public-finances digitalisation plan 2025-2027 covers. That plan's costed operational annex, due in April 2025, is still unpublished.
+It is the first independent assessment the repository holds of the ground the government's own public-finances digitalisation plan 2025-2027 covers. That plan's costed operational annex, due in April 2025, is still unpublished.
 <!-- /narrative -->
 ### Data protection
 
@@ -52,7 +52,7 @@ The country's dependence on one neighbour was examined. A published assessment [
 ### Data Storage
 
 <!-- narrative: ict-infrastructure--infra-store -->
-The base's only entry on storage this month is a continental project prospectus. A regional data-centre programme [is listed at the definition stage, 25% complete](https://au-pida.org/prospectus/brochure-onepage.php?id=17), with no site, capacity, cost or operator attached to it, and the base holds no account of where the country's own public systems are hosted.
+The repository's only entry on storage this month is a continental project prospectus. A regional data-centre programme [is listed at the definition stage, 25% complete](https://au-pida.org/prospectus/brochure-onepage.php?id=17), with no site, capacity, cost or operator attached to it, and the repository holds no account of where the country's own public systems are hosted.
 <!-- /narrative -->
 ### Energy
 
@@ -67,7 +67,7 @@ Against a baseline of 28MW installed and 16 to 18 hours of daily load-shedding, 
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
-Electricity bills became payable over mobile money at [a Bangui launch on 4 August, under a contract dated October 2025](https://oubanguimedias.com/2026/08/07/centrafrique-telecel-et-enerca-signent-un-partenariat-pour-digitaliser-le-paiement-des-factures-delectricite/), a partnership between a mobile operator and the state electricity utility. No tariff, coverage figure or transaction volume is published, and the ten months between contract and launch is the only measure the base holds of what such a build takes in time here.
+Electricity bills became payable over mobile money at [a Bangui launch on 4 August, under a contract dated October 2025](https://oubanguimedias.com/2026/08/07/centrafrique-telecel-et-enerca-signent-un-partenariat-pour-digitaliser-le-paiement-des-factures-delectricite/), a partnership between a mobile operator and the state electricity utility. No tariff, coverage figure or transaction volume is published, and the ten months between contract and launch is the only measure the repository holds of what such a build takes in time here.
 <!-- /narrative -->
 ### Sectoral management information systems
 
@@ -95,7 +95,7 @@ No membership, funding or output is published for the grouping, and it stands ag
 ### Research institutions
 
 <!-- narrative: capacity--capacity-research -->
-Nothing moved in the research base this period. What changed is the record: the base had carried no university, statistics-institute or donor research document for the country at all, and now holds the University of Bangui's [Institut superieur de technologie](https://www.univ-bangui.org/technologie/), which supplies most of the country's professional engineering graduates and runs a master's in engineering sciences. The page carries no date, enrolment or research-output figure, so the position it settles is one of existence rather than of scale.
+Nothing moved in the research base this period. What changed is the record: the repository had carried no university, statistics-institute or donor research document for the country at all, and now holds the University of Bangui's [Institut superieur de technologie](https://www.univ-bangui.org/technologie/), which supplies most of the country's professional engineering graduates and runs a master's in engineering sciences. The page carries no date, enrolment or research-output figure, so the position it settles is one of existence rather than of scale.
 <!-- /narrative -->
 
 ## Inclusion

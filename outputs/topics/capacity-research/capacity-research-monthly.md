@@ -15,7 +15,7 @@ record: 44ccefed06b4
 
 ## Central African Republic
 
-Nothing moved in the research base this period. What changed is the record: the base had carried no university, statistics-institute or donor research document for the country at all, and now holds the University of Bangui's [Institut superieur de technologie](https://www.univ-bangui.org/technologie/), which supplies most of the country's professional engineering graduates and runs a master's in engineering sciences. The page carries no date, enrolment or research-output figure, so the position it settles is one of existence rather than of scale.
+Nothing moved in the research base this period. What changed is the record: the repository had carried no university, statistics-institute or donor research document for the country at all, and now holds the University of Bangui's [Institut superieur de technologie](https://www.univ-bangui.org/technologie/), which supplies most of the country's professional engineering graduates and runs a master's in engineering sciences. The page carries no date, enrolment or research-output figure, so the position it settles is one of existence rather than of scale.
 
 ## Comoros
 
@@ -35,7 +35,7 @@ The national university's transdisciplinary research programme [awarded its exce
 
 ## Egypt
 
-The month's research contribution is an outside assessment of a question the state has not published one on. A peer-reviewed study [assessed administrative readiness and institutional capacity for governing artificial-intelligence-driven digital transformation in the public health system](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2026.1883794/full), written by authors at Egyptian, Saudi and Jordanian institutions. The base holds no state readiness assessment of the same question against which to read it.
+The month's research contribution is an outside assessment of a question the state has not published one on. A peer-reviewed study [assessed administrative readiness and institutional capacity for governing artificial-intelligence-driven digital transformation in the public health system](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2026.1883794/full), written by authors at Egyptian, Saudi and Jordanian institutions. The repository holds no state readiness assessment of the same question against which to read it.
 
 ## Ethiopia
 
@@ -49,7 +49,7 @@ The month's research capacity news is a funding gap stated by the minister who h
 
 ## Kenya
 
-The base gained its first account of a named Kenyan data-science career, a [data-for-social-impact leader profiled](https://data.org/news/pathways-to-impact-agnes-kiragga/) in a series of conversations with practitioners. It is an interview rather than an institutional record, and carries no programme, funding or output figure.
+The repository gained its first account of a named Kenyan data-science career, a [data-for-social-impact leader profiled](https://data.org/news/pathways-to-impact-agnes-kiragga/) in a series of conversations with practitioners. It is an interview rather than an institutional record, and carries no programme, funding or output figure.
 
 ## Libya
 
@@ -65,11 +65,11 @@ At the university data centre's inauguration the communications minister propose
 
 ## Niger
 
-The [Council of Ministers of 21 August 2026 took decisions on research and innovation](https://www.gouv.ne/index.php/les-communiques-du-gouvernement/1284-conclusions-du-conseil-des-ministres-du-vendredi-21-aout-2026). Cabinet conclusions name what is decided without carrying the text of it, so the base holds the announcement and not the instruments.
+The [Council of Ministers of 21 August 2026 took decisions on research and innovation](https://www.gouv.ne/index.php/les-communiques-du-gouvernement/1284-conclusions-du-conseil-des-ministres-du-vendredi-21-aout-2026). Cabinet conclusions name what is decided without carrying the text of it, so the repository holds the announcement and not the instruments.
 
 ## Rwanda
 
-An [academic security operation centre is running through a university network based in Rwanda, described as operating on multiple levels to meet cybersecurity monitoring needs and to build a cybersecurity workforce in Rwanda and beyond](https://www.africa.engineering.cmu.edu/news/2026/08/24-academic-security-operation-center.html). No monitored-estate, incident or staffing figure is published, so the size of what the centre actually does cannot be stated from the base.
+An [academic security operation centre is running through a university network based in Rwanda, described as operating on multiple levels to meet cybersecurity monitoring needs and to build a cybersecurity workforce in Rwanda and beyond](https://www.africa.engineering.cmu.edu/news/2026/08/24-academic-security-operation-center.html). No monitored-estate, incident or staffing figure is published, so the size of what the centre actually does cannot be stated from the repository.
 
 ## Sierra Leone
 

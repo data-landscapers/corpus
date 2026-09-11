@@ -54,5 +54,5 @@ The capital’s council put a date on its own modernisation. Bissau city council
 <!-- narrative: inclusion--include-divides -->
 
 
-The first measurement of adolescent access the base holds is academic rather than official. A [survey of 2,039 Bissau adolescents finds computer and internet access limited and unevenly distributed, skewed against girls and against pupils in state schools, with the pandemic having exposed rather than created the gap](https://hdl.handle.net/20.500.11815/8043). It covers the capital rather than the country, and nothing official exists at any date to set beside it — which is why a doctoral thesis is the best evidence this report has on who among the young can get online.
+The first measurement of adolescent access the repository holds is academic rather than official. A [survey of 2,039 Bissau adolescents finds computer and internet access limited and unevenly distributed, skewed against girls and against pupils in state schools, with the pandemic having exposed rather than created the gap](https://hdl.handle.net/20.500.11815/8043). It covers the capital rather than the country, and nothing official exists at any date to set beside it — which is why a doctoral thesis is the best evidence this report has on who among the young can get online.
 <!-- /narrative -->

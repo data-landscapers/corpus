@@ -93,7 +93,7 @@ At the same event the communications minister put the research and education net
 ### Cybersecurity
 
 <!-- narrative: ict-infrastructure--infra-cybersec -->
-The national response team put a number on what it is seeing. It [reported ransomware infection attempts detected on the national network and told organisations not to pay ransoms but to report them](https://jornalnoticias.co.mz/destaque/intic-na-campanha-contra-ransomware-nao-paguem-resgate-denunciem/). It is the first such count the base holds; no period, sector breakdown or successful-infection figure accompanies it.
+The national response team put a number on what it is seeing. It [reported ransomware infection attempts detected on the national network and told organisations not to pay ransoms but to report them](https://jornalnoticias.co.mz/destaque/intic-na-campanha-contra-ransomware-nao-paguem-resgate-denunciem/). It is the first such count the repository holds; no period, sector breakdown or successful-infection figure accompanies it.
 <!-- /narrative -->
 
 ## DPI
@@ -101,7 +101,7 @@ The national response team put a number on what it is seeing. It [reported ranso
 ### Data Exchange
 
 <!-- narrative: dpi--dpi-exchange -->
-The roads fund runs an [open-data portal publishing road, bridge and infrastructure project data under a Creative Commons licence and the open contracting standard for infrastructure](https://www.dadosinfra.co.mz/), validated as a publisher against that standard in 2026. It is the base's clearest instance of Mozambican government data published to an external standard rather than to a page.
+The roads fund runs an [open-data portal publishing road, bridge and infrastructure project data under a Creative Commons licence and the open contracting standard for infrastructure](https://www.dadosinfra.co.mz/), validated as a publisher against that standard in 2026. It is the repository's clearest instance of Mozambican government data published to an external standard rather than to a page.
 
 A physical exchange broke ground alongside it. Works on the [Ressano Garcia one-stop border post began on 17 August at a stated 980 million meticais](https://aimnews.org/2026/08/17/governo-moderniza-fronteira-de-ressano-garcia-com-980-milhoes/). No completion date, systems specification or customs-integration arrangement is published.
 <!-- /narrative -->
@@ -115,7 +115,7 @@ Separately the government [opened discussions with a local partner on a mobile d
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
-Payments moved in two directions. The central bank [set limits on payments abroad made with bank cards, revoking its December 2025 notice](https://www.bancomoc.mz/en/media/highlights/notice-no-4-gbm-2026-establishes-limits-on-payments-abroad-made-using-bank-cards-and-revokes-notice-no-9-gbm-2025-of-9-december/) â€” a restriction on what a card can do rather than an extension of it. In the other direction a health agency [reported cumulative disbursement of US$14.4m to health workers over mobile money for campaign payments](https://techafricanews.com/2026/08/11/who-mozambique-channels-14-4m-through-mobile-money-for-health-campaigns/), the largest use of the mobile-money rail for public payment the base holds here.
+Payments moved in two directions. The central bank [set limits on payments abroad made with bank cards, revoking its December 2025 notice](https://www.bancomoc.mz/en/media/highlights/notice-no-4-gbm-2026-establishes-limits-on-payments-abroad-made-using-bank-cards-and-revokes-notice-no-9-gbm-2025-of-9-december/) â€” a restriction on what a card can do rather than an extension of it. In the other direction a health agency [reported cumulative disbursement of US$14.4m to health workers over mobile money for campaign payments](https://techafricanews.com/2026/08/11/who-mozambique-channels-14-4m-through-mobile-money-for-health-campaigns/), the largest use of the mobile-money rail for public payment the repository holds here.
 
 The public payroll became a credit rail. A [memorandum between the dominant mobile money operator, a microbank and the state financial information centre puts a salary-advance product on the operator's short code for more than 380,000 civil servants](https://techreviewafrica.com/news/7081/m-pesa-maximo-microbanco-and-cedsif-open-formal-credit-access-to-380000-mozambican-civil-servants). It is a memorandum rather than a live product: no launch date, interest rate, advance ceiling, repayment mechanism or default treatment is published, and nothing describes how payroll data would reach the lender.
 <!-- /narrative -->
@@ -150,7 +150,7 @@ A body was inaugurated where the observatory is still a remark. An [Association 
 ### Literacy
 
 <!-- narrative: capacity--capacity-literacy -->
-The month's only movement on digital literacy was a demand for it. At the launch of a UNESCO-organised dialogue series in Maputo, an NGO [called for a national digital-literacy programme for young people, arguing digital skills are now a precondition for meaningful democratic participation](https://clubofmozambique.com/news/mozambique-create-national-digital-literacy-programme-for-young-people-ngo/). The base holds no such programme or strategy, and a civil-society call is evidence that none exists rather than a step towards one; the absence is now dated.
+The month's only movement on digital literacy was a demand for it. At the launch of a UNESCO-organised dialogue series in Maputo, an NGO [called for a national digital-literacy programme for young people, arguing digital skills are now a precondition for meaningful democratic participation](https://clubofmozambique.com/news/mozambique-create-national-digital-literacy-programme-for-young-people-ngo/). The repository holds no such programme or strategy, and a civil-society call is evidence that none exists rather than a step towards one; the absence is now dated.
 <!-- /narrative -->
 ### Training and skills
 
@@ -172,9 +172,9 @@ The central bank's Financial Inclusion Report 2025, reported on 24 July, counted
 
 August added the price side of the same picture. A standard data package [fell from 9.4% of monthly gross national income per head in 2022 to 2.67% in March 2026](https://www.oeconomico.com/mocambique-cria-mapa-nacional-da-banda-larga-para-orientar-investimento-e-reduzir-assimetrias-digitais/), on World Bank Digital Acceleration Project figures released with the coverage map. The basket behind the standard package is not defined in the record held.
 
-What none of these measures reaches is what the money does. A study of 900 households published on 7 August finds that [mobile money improves household welfare through active use rather than account ownership, reducing reliance on own food production and strengthening resilience through remittances, with women gaining financial autonomy and young people using it to stabilise consumption](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0343349). It is a single academic study of a sample, not a national series, and it is the only evidence of outcome the base holds against the access counts above.
+What none of these measures reaches is what the money does. A study of 900 households published on 7 August finds that [mobile money improves household welfare through active use rather than account ownership, reducing reliance on own food production and strengthening resilience through remittances, with women gaining financial autonomy and young people using it to stabilise consumption](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0343349). It is a single academic study of a sample, not a national series, and it is the only evidence of outcome the repository holds against the access counts above.
 
-A commercial bank [opened its mobile banking application to customers without consuming their mobile data balances or packages](https://360mozambique.com/innovation/tech/millennium-bim-offers-zero-data-access-to-smart-izi-banking-app/). Zero-rating a single private application raises a net-neutrality question the base holds no ruling on, and no user count or operator agreement is published behind it.
+A commercial bank [opened its mobile banking application to customers without consuming their mobile data balances or packages](https://360mozambique.com/innovation/tech/millennium-bim-offers-zero-data-access-to-smart-izi-banking-app/). Zero-rating a single private application raises a net-neutrality question the repository holds no ruling on, and no user count or operator agreement is published behind it.
 <!-- /narrative -->
 ### Digital divides
 

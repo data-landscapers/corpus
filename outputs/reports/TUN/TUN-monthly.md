@@ -25,7 +25,7 @@ Then the education platform showed what happens when a channel becomes the only 
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
-Policy movement in the window was a meeting rather than an instrument. The head of government [chaired a ministerial council devoted to digitalisation, stating that it is a necessity rather than a choice](https://pm.gov.tn/fr/decision-gouvernementale/zenzri-lors-dun-conseil-ministeriel-la-digitalisation-nest-pas-un-choix). The council's decisions are not itemised in the record held, so what the base can carry is the fact that it met and the framing it used.
+Policy movement in the window was a meeting rather than an instrument. The head of government [chaired a ministerial council devoted to digitalisation, stating that it is a necessity rather than a choice](https://pm.gov.tn/fr/decision-gouvernementale/zenzri-lors-dun-conseil-ministeriel-la-digitalisation-nest-pas-un-choix). The council's decisions are not itemised in the record held, so what the repository can carry is the fact that it met and the framing it used.
 
 The customs administration [settled a 2026-2030 strategic plan built around digitisation, presented with a governance charter, its axes covering border protection, an environment for attracting foreign investment, revenue collection, working methods and social responsibility](https://www.alchourouk.com/article/%D8%A7%D9%84%D8%AF%D9%8A%D9%88%D8%A7%D9%86%D8%A9-%D8%AA%D8%B6%D8%A8%D8%B7-%D9%85%D8%AE%D8%B7%D8%B7%D9%87%D8%A7-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A-2026-2030); the plan document itself is not published.
 <!-- /narrative -->
@@ -95,9 +95,9 @@ A second identifier moved a step behind it. At a ministerial session at La Kasba
 <!-- narrative: dpi--dpi-pay -->
 Tunisia's payments market is large enough for the question of who bears a loss to matter, and the law does not answer it. A published legal analysis finds [no Tunisian text — not the 2000 electronic commerce law, the 2023 cybersecurity decree-law, nor the central bank's 2024 circular — allocating the loss between bank, merchant and cardholder when an electronic payment is hijacked, altered or blocked by a cyber incident](https://www.tunisiaonlinenews.com/tunisia-cyber-risk-who-pays-when-electronic-payments-fail/), against 164.8 million transactions worth 29.5bn dinars in 2025, up 12.3%, and reported cyber incidents rising from 63,000 in 2021 to more than 155,000 in 2022. The absence is now recorded as a gap.
 
-The month's other payments item was an outage notice rather than a policy: the interbank switch [announced a planned technical intervention overnight on 11 August](https://fr.linkedin.com/posts/monetique-tunisie_information-importante-dans-le-cadre-activity-7492663715733983232-dNXD), which is the only public statement the base holds about the availability of the rail those 164.8 million transactions run on.
+The month's other payments item was an outage notice rather than a policy: the interbank switch [announced a planned technical intervention overnight on 11 August](https://fr.linkedin.com/posts/monetique-tunisie_information-importante-dans-le-cadre-activity-7492663715733983232-dNXD), which is the only public statement the repository holds about the availability of the rail those 164.8 million transactions run on.
 
-The founding instrument behind the online honour loans is now held: [Decree 2026-148 of 23 July 2026, published in the official journal, fixes the conditions and criteria on which the micro-financings are granted](https://lake.jort.tn/journal-officiel/fr/2026/075.pdf) - the text the base had been carrying only through a secondary account of its ceilings and grace period.
+The founding instrument behind the online honour loans is now held: [Decree 2026-148 of 23 July 2026, published in the official journal, fixes the conditions and criteria on which the micro-financings are granted](https://lake.jort.tn/journal-officiel/fr/2026/075.pdf) - the text the repository had been carrying only through a secondary account of its ceilings and grace period.
 <!-- /narrative -->
 ### Registries
 

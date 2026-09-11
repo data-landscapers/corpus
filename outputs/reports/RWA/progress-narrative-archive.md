@@ -16,7 +16,7 @@ renderer used.*
 
 ## summary
 
-Not one new Rwandan statute reached the books in the twelve months the base can evidence. What changed is institutional and commercial: a payment rail became mandatory, an identity programme opened enrolment against a hard 2027 deadline, an artificial-intelligence agency and an institute of computing were approved, and a frontier vendor entered government. The shape check above records the coverage cliff, so much of what looks like new information about the 2021 data-protection law and the 2024 SIM regulation is fresh reporting on unchanged positions.
+Not one new Rwandan statute reached the books in the twelve months the repository can evidence. What changed is institutional and commercial: a payment rail became mandatory, an identity programme opened enrolment against a hard 2027 deadline, an artificial-intelligence agency and an institute of computing were approved, and a frontier vendor entered government. The shape check above records the coverage cliff, so much of what looks like new information about the 2021 data-protection law and the 2024 SIM regulation is fresh reporting on unchanged positions.
 
 ## governance
 
@@ -54,7 +54,7 @@ The fisc moved the other way. The domestically financed development programme fe
 
 At the window's opening this section was a policy and a summit: a 2023 artificial-intelligence policy, a continental declaration adopted in Kigali four months earlier, a coding academy, an innovation fund and an innovation city that had broken ground — no dedicated institution, no foreign frontier vendor in government, and no in-country cloud.
 
-Twelve months on the base can name a Cabinet-approved agency, a three-year vendor memorandum spanning health, public-sector developers and education, a [US$50m primary-care health pilot beginning here](https://techafricanews.com/2026/01/22/gates-foundation-and-openai-commit-50m-to-ai-powered-health-systems-in-africa/), the first regional hybrid-cloud deployment, and an institute of computing approved to open in September 2026. The direction of travel is institutional formalisation of a commercial dependency that arrived first: the vendor stack went into production in February, the agency was approved in June, the school in July.
+Twelve months on the repository can name a Cabinet-approved agency, a three-year vendor memorandum spanning health, public-sector developers and education, a [US$50m primary-care health pilot beginning here](https://techafricanews.com/2026/01/22/gates-foundation-and-openai-commit-50m-to-ai-powered-health-systems-in-africa/), the first regional hybrid-cloud deployment, and an institute of computing approved to open in September 2026. The direction of travel is institutional formalisation of a commercial dependency that arrived first: the vendor stack went into production in February, the agency was approved in June, the school in July.
 
 Almost none of it is yet measurable. The agency has no published structure, budget or law, and the health pilot has published no clinic count since January. The one genuinely both-ends-dated movement is employment, [from about 12,000 to 19,000 sector workers](https://www.ktpress.rw/2026/07/why-tech-is-rwandas-fastest-growing-source-of-new-jobs/), and the one downward move is the fisc.
 

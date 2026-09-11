@@ -27,7 +27,7 @@ Regional agreements were the other half: [an ICT memorandum with Namibia signed 
 <!-- narrative: governance--gov-protect -->
 
 
-The commencement instrument behind the data-protection regime is now held in full: [Statutory Instrument 86 of 2021 brought the Data Protection Act No. 32 of 2018 into operation on publication on 15 October 2021](https://www.dataguidance.com/sites/default/files/government_gazette_15th_october_2021.pdf). It dates a regime the base had been carrying from its 2024 re-enactment, and it is the kind of document that settles when an obligation actually started rather than when it was last restated.
+The commencement instrument behind the data-protection regime is now held in full: [Statutory Instrument 86 of 2021 brought the Data Protection Act No. 32 of 2018 into operation on publication on 15 October 2021](https://www.dataguidance.com/sites/default/files/government_gazette_15th_october_2021.pdf). It dates a regime the repository had been carrying from its 2024 re-enactment, and it is the kind of document that settles when an obligation actually started rather than when it was last restated.
 <!-- /narrative -->
 ### Regional collaboration
 
@@ -49,14 +49,14 @@ Domestic access moved on a much smaller scale. The backbone company [completed i
 ### Data Storage
 
 <!-- narrative: ict-infrastructure--infra-store -->
-The Kala data centre [completed its first full quarter of continuous operation to 30 June, with revenue the company itself describes as modest and at proof-of-concept scale](https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85). It is designed for up to 1 MW and expansion is subject to funding. The base holds nothing on the facility before September 2025.
+The Kala data centre [completed its first full quarter of continuous operation to 30 June, with revenue the company itself describes as modest and at proof-of-concept scale](https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85). It is designed for up to 1 MW and expansion is subject to funding. The repository holds nothing on the facility before September 2025.
 <!-- /narrative -->
 ### Energy
 
 <!-- narrative: ict-infrastructure--infra-energy -->
 The facility's power is the unusual part. [On-site gas-fired generation is supplemented by solar introduced to cover periods of lower gas availability, with battery and compressed-gas storage under review](https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85) — solar specified as firming for gas, the reverse of the usual diesel-backup arrangement. [An initial 5 MW solar development was assessed during the quarter and an extension of the gas gathering network to connect a further production well is stated subject to funding](https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85); neither carries a capital cost, approval or date, and the company states both are work-programme items rather than guidance. The second gates the data centre: capacity growth turns on upstream gas work rather than on demand.
 
-The price of the energy the sector runs on is under review, and the utility's own case is a large one: its consultation paper [makes the case for a 46% tariff rise on a P9.585bn revenue requirement against a P3.477bn funding gap](https://www.bera.co.bw/downloads/Electricity/BPC%202026-27%20Tariff%20Application%20-%20Public%20Notice/2026-27%20BPC%20Electricity%20Tariff%20Application%20Consultation%20Paper.pdf). It is an application rather than a determination: no regulator decision, effective date or data-centre tariff schedule accompanies it, and the base still holds no measured electricity cost for any digital facility in the country.
+The price of the energy the sector runs on is under review, and the utility's own case is a large one: its consultation paper [makes the case for a 46% tariff rise on a P9.585bn revenue requirement against a P3.477bn funding gap](https://www.bera.co.bw/downloads/Electricity/BPC%202026-27%20Tariff%20Application%20-%20Public%20Notice/2026-27%20BPC%20Electricity%20Tariff%20Application%20Consultation%20Paper.pdf). It is an application rather than a determination: no regulator decision, effective date or data-centre tariff schedule accompanies it, and the repository still holds no measured electricity cost for any digital facility in the country.
 <!-- /narrative -->
 ### Cybersecurity
 
@@ -136,5 +136,5 @@ China's ambassador [publicly offered AI cooperation in smart mining, digital gov
 ### Gulf/UAE activities
 
 <!-- narrative: geopolitics--geopol-gulf -->
-The heads of agreement behind the data centre are unchanged, and the [operator's quarterly account of 3 August does not name the counterparty](https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85). It remains the only source of its kind the base holds for Botswana at any date.
+The heads of agreement behind the data centre are unchanged, and the [operator's quarterly account of 3 August does not name the counterparty](https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85). It remains the only source of its kind the repository holds for Botswana at any date.
 <!-- /narrative -->

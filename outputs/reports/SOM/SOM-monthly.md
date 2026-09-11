@@ -107,7 +107,7 @@ Ownership was stated as the goal rather than capability. A senior government adv
 ### Training and skills
 
 <!-- narrative: capacity--capacity-training -->
-In the north, the Somaliland administration [launched fixed-asset training for public financial accountability on 4 August](https://www.somalilandcurrent.com/somaliland-launches-major-fixed-asset-training-to-strengthen-public-financial-accountability/). No participant total, system or completion date is stated, and the base carries no earlier position for it.
+In the north, the Somaliland administration [launched fixed-asset training for public financial accountability on 4 August](https://www.somalilandcurrent.com/somaliland-launches-major-fixed-asset-training-to-strengthen-public-financial-accountability/). No participant total, system or completion date is stated, and the repository carries no earlier position for it.
 <!-- /narrative -->
 
 ## Data

@@ -48,7 +48,7 @@ Satellite access travelled from prohibition to conditional licence inside the wi
 
 Data-centre capacity moved less than announcements suggest. A [sovereign cloud service opened in March 2026](https://www.independent.co.ug/abq-cloud-launches-ugandan-sovereign-cloud-ecosystem) inside an existing colocation building. A Masaka facility promised for late 2025 was [rebased to the first quarter of 2026](https://pctechmag.com/2025/10/centenary-group-set-to-launch-its-green-tier-3-data-centre-in-2026) and no launch is reported. The Karuma supercomputer, announced in 2025 for a 2026 rollout start, has nothing built. No national data-centre capacity figure exists at either end of the window.
 
-On cybersecurity the record shows an instrument replaced and an instrument struck out. The updated [national information security framework issued in July 2026](https://itweb.africa/article/uganda-launches-updated-cybersecurity-framework/LPwQ57lboKAqNgkj) supersedes an earlier edition the base does not hold, and the [Constitutional Court nullified the Computer Misuse Act's principal speech offences in March](https://www.newvision.co.ug/category/news/constitutional-court-nullifies-key-computer-m-NV_230010_042026).
+On cybersecurity the record shows an instrument replaced and an instrument struck out. The updated [national information security framework issued in July 2026](https://itweb.africa/article/uganda-launches-updated-cybersecurity-framework/LPwQ57lboKAqNgkj) supersedes an earlier edition the repository does not hold, and the [Constitutional Court nullified the Computer Misuse Act's principal speech offences in March](https://www.newvision.co.ug/category/news/constitutional-court-nullifies-key-computer-m-NV_230010_042026).
 
 ## dpi
 

@@ -39,7 +39,7 @@ On 31 July, 19 young leaders took the [first of three media and information lite
 
 ## Mozambique
 
-The month's only movement on digital literacy was a demand for it. At the launch of a UNESCO-organised dialogue series in Maputo, an NGO [called for a national digital-literacy programme for young people, arguing digital skills are now a precondition for meaningful democratic participation](https://clubofmozambique.com/news/mozambique-create-national-digital-literacy-programme-for-young-people-ngo/). The base holds no such programme or strategy, and a civil-society call is evidence that none exists rather than a step towards one; the absence is now dated.
+The month's only movement on digital literacy was a demand for it. At the launch of a UNESCO-organised dialogue series in Maputo, an NGO [called for a national digital-literacy programme for young people, arguing digital skills are now a precondition for meaningful democratic participation](https://clubofmozambique.com/news/mozambique-create-national-digital-literacy-programme-for-young-people-ngo/). The repository holds no such programme or strategy, and a civil-society call is evidence that none exists rather than a step towards one; the absence is now dated.
 
 ## Rwanda
 
@@ -53,7 +53,7 @@ Connectivity is being aimed at classrooms. The education ministry [plans to conn
 
 ## South Sudan
 
-Renovation began in August on [three government facilities designated as digital skills centres in Central Equatoria](https://www.sceniushub.com/post/scenius-hub-and-central-equatoria-state-ministry-of-information-and-communication-advance-implement) under a five-year programme aimed partly at civil servants. It is the first physical training capacity in the base, and it lands against a service whose digital literacy has been described as low since 2023 and never measured.
+Renovation began in August on [three government facilities designated as digital skills centres in Central Equatoria](https://www.sceniushub.com/post/scenius-hub-and-central-equatoria-state-ministry-of-information-and-communication-advance-implement) under a five-year programme aimed partly at civil servants. It is the first physical training capacity in the repository, and it lands against a service whose digital literacy has been described as low since 2023 and never measured.
 
 ## Tanzania
 

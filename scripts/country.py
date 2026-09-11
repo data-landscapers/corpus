@@ -556,7 +556,7 @@ FINANCE = """<!DOCTYPE html>
       <div class="article-header__byline">{name} &nbsp;·&nbsp; {fin_n} commitments &nbsp;·&nbsp; US${fin_total}m &nbsp;·&nbsp; {y0}&ndash;{y1}</div>
     </header>
 
-    <p>Every non-state commitment the base holds for {name}. One row per commitment; each is tagged to one {unit} only, so per-{unit} totals sum without double-counting. <strong>Click any row to open the full record</strong> &mdash; the columns show what a reader scans by, and the rest of the fields sit underneath rather than four screens to the right. Sort on any column heading, filter with the dropdowns, and search across every field whether or not it is shown. The <code>url</code> column is the publisher&rsquo;s own link to the source the row was read from.</p>
+    <p>Every non-state commitment the repository holds for {name}. One row per commitment; each is tagged to one {unit} only, so per-{unit} totals sum without double-counting. <strong>Click any row to open the full record</strong> &mdash; the columns show what a reader scans by, and the rest of the fields sit underneath rather than four screens to the right. Sort on any column heading, filter with the dropdowns, and search across every field whether or not it is shown. The <code>url</code> column is the publisher&rsquo;s own link to the source the row was read from.</p>
 
     <div class="dl-datatable"
       data-src="{csv_name}"

@@ -23,7 +23,7 @@ Nine rows moved, and the month's substance is in the registers and the statistic
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->
-A further agreement between the two jurisdictions on [exchanging information to combat money laundering is to be signed](https://observador.pt/2026/08/24/macau-e-sao-tome-e-principe-vao-assinar-acordo-para-combater-lavagem-de-dinheiro/). It is the second instrument with the same counterpart and the base holds no signature date or text for it.
+A further agreement between the two jurisdictions on [exchanging information to combat money laundering is to be signed](https://observador.pt/2026/08/24/macau-e-sao-tome-e-principe-vao-assinar-acordo-para-combater-lavagem-de-dinheiro/). It is the second instrument with the same counterpart and the repository holds no signature date or text for it.
 <!-- /narrative -->
 ### Standards
 
@@ -51,7 +51,7 @@ The central bank [refreshed its payment-system statistics on 28 August 2026](htt
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
-The month's government-systems movement is hardware. A UN agency [handed computing equipment to the tax directorate under an EU-funded regional programme, to modernise tax administration and the handling of fiscal data](https://rstp.st/2026/08/18/pnud-entrega-equipamentos-informaticos-a-direcao-geral-dos-impostos/). No value is stated for the equipment and no delivery schedule accompanies it, so what the base holds is a donation and an intention rather than a system with a capability attached.
+The month's government-systems movement is hardware. A UN agency [handed computing equipment to the tax directorate under an EU-funded regional programme, to modernise tax administration and the handling of fiscal data](https://rstp.st/2026/08/18/pnud-entrega-equipamentos-informaticos-a-direcao-geral-dos-impostos/). No value is stated for the equipment and no delivery schedule accompanies it, so what the repository holds is a donation and an intention rather than a system with a capability attached.
 <!-- /narrative -->
 
 ## Capacity

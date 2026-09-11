@@ -25,7 +25,7 @@ Underneath, the interior minister [ordered rapid correction of faults in vehicle
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
-Nothing moved on the 2030 strategy's own targets this month; what was published was a restatement of the vision behind them. State media described the transformation as [resting on data-protection and cybersecurity laws and on local infrastructure including national data centres, and as aimed at transparency in public management and at combating administrative malpractice](https://www.elmoudjahid.dz/fr/editorials/a-l-ere-du-tout-numerique-4195). It carries no target, budget or completion date, and sixteen months after the strategy was published the base still holds no delivery figure against any of its three headline targets.
+Nothing moved on the 2030 strategy's own targets this month; what was published was a restatement of the vision behind them. State media described the transformation as [resting on data-protection and cybersecurity laws and on local infrastructure including national data centres, and as aimed at transparency in public management and at combating administrative malpractice](https://www.elmoudjahid.dz/fr/editorials/a-l-ere-du-tout-numerique-4195). It carries no target, budget or completion date, and sixteen months after the strategy was published the repository still holds no delivery figure against any of its three headline targets.
 <!-- /narrative -->
 ### Legislation and regulation
 
@@ -83,7 +83,7 @@ The unified national digital identity is being used as a single sign-on, and the
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
-The payments layer gained a governing body and a small number. A central bank regulation [established a National Payments Committee](https://www.echoroukonline.com/%d8%aa%d8%ad%d8%b1%d9%83-%d8%b1%d8%b3%d9%85%d9%8a-%d9%84%d8%a5%d9%86%d9%87%d8%a7%d8%a1-%d9%87%d9%8a%d9%85%d9%86%d8%a9-%d8%a7%d9%84%d9%83%d8%a7%d8%b4-%d9%88%d8%aa%d9%82%d8%b1%d9%8a%d8%b1-%d8%b3), and the count of web merchants accepting electronic payment [passed 1,000 at the end of June](https://alger16.dz/?p=65795). A thousand merchants is a small number for a market this size, and it is the first such count the base holds, so the level is stated and the direction is not.
+The payments layer gained a governing body and a small number. A central bank regulation [established a National Payments Committee](https://www.echoroukonline.com/%d8%aa%d8%ad%d8%b1%d9%83-%d8%b1%d8%b3%d9%85%d9%8a-%d9%84%d8%a5%d9%86%d9%87%d8%a7%d8%a1-%d9%87%d9%8a%d9%85%d9%86%d8%a9-%d8%a7%d9%84%d9%83%d8%a7%d8%b4-%d9%88%d8%aa%d9%82%d8%b1%d9%8a%d8%b1-%d8%b3), and the count of web merchants accepting electronic payment [passed 1,000 at the end of June](https://alger16.dz/?p=65795). A thousand merchants is a small number for a market this size, and it is the first such count the repository holds, so the level is stated and the direction is not.
 <!-- /narrative -->
 ### Registries
 
@@ -95,7 +95,7 @@ Two registry developments pulled in opposite directions. The education ministry 
 <!-- narrative: dpi--dpi-mis -->
 Two internal systems moved in different registers. The tax administration [published its first user guide for electronic payment on its platform, setting out seventeen rejection reasons](https://www.wearetech.africa/en/fils-uk/news/public-management/algeria-orders-fast-tracking-of-digital-tax-data-integration) â€” a document describing the failure modes of a live system, which is more than most such platforms disclose. And the interior and transport ministry [signalled activation of tachograph monitoring of professional transport](https://www.echoroukonline.com/%D8%A7%D9%84%D8%AA%D8%A7%D9%83%D9%88%D8%BA%D8%B1%D8%A7%D9%81-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D9%86%D8%B5-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86), with no start date, fleet scope or data-handling rule stated.
 
-A second joint session of the digitalisation high commission and the domestic trade ministry [took the data sources themselves as its subject — how they are produced, updated and kept consistent — towards a unified digital mechanism for regulating the national market](https://www.aps.dz/en/algeria/education-technology/mtr4nrdp-benmouloud-abdellatif-chair-second-meeting-to-establish-unified-digital-mechanism-for-national-market-regulation). It is the first account the base holds here of provenance being treated as the problem to solve rather than the platform.
+A second joint session of the digitalisation high commission and the domestic trade ministry [took the data sources themselves as its subject — how they are produced, updated and kept consistent — towards a unified digital mechanism for regulating the national market](https://www.aps.dz/en/algeria/education-technology/mtr4nrdp-benmouloud-abdellatif-chair-second-meeting-to-establish-unified-digital-mechanism-for-national-market-regulation). It is the first account the repository holds here of provenance being treated as the problem to solve rather than the platform.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -151,7 +151,7 @@ One instruction, issued on a minister's social-media account rather than by circ
 ### Access to services
 
 <!-- narrative: inclusion--include-access -->
-Consumer cloud storage prices were [raised for new subscribers from 27 July 2026](https://www.africaninsider.com/business/google-one-gets-more-expensive-in-africa-nigerian-users-face-52-hike/), in this market alongside two others on the continent. One provider's consumer tariff is thin evidence for affordability, and the account gives no local subscriber base against which to read it. It is recorded because it is the only dated consumer cloud price the base holds here, and a price that moves is more use than a market with no price at all.
+Consumer cloud storage prices were [raised for new subscribers from 27 July 2026](https://www.africaninsider.com/business/google-one-gets-more-expensive-in-africa-nigerian-users-face-52-hike/), in this market alongside two others on the continent. One provider's consumer tariff is thin evidence for affordability, and the account gives no local subscriber base against which to read it. It is recorded because it is the only dated consumer cloud price the repository holds here, and a price that moves is more use than a market with no price at all.
 
 The social card's working group reached its fifth session, [setting the card's indicators and data and building towards a unified database, with the President's June 2026 three-month deadline putting delivery before the end of September](https://ecotimesdz.com/carte-sociale-nationale-algerie-hcn/). The deadline is the President's rather than the project's, and no delivery, data-sharing instrument, beneficiary count or governing decree is published — so a database that is to unify social data is three weeks from a deadline with nothing published about what it will contain.
 <!-- /narrative -->

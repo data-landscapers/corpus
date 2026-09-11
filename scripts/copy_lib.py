@@ -34,7 +34,7 @@ rendered — use it to say what the file is for.
 A block may carry `{name}` placeholders, filled by keyword argument:
 
     ## finance-intro
-    Every non-state commitment the base holds for {name}.
+    Every non-state commitment the repository holds for {name}.
 
 **Values must arrive pre-formatted.** `{total:,.0f}` is not available: a format
 spec inside the prose puts presentation logic back in the file we just took it out

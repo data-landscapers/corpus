@@ -48,7 +48,7 @@ Nothing here changed maturity band. The identity system held position at both en
 
 What arrived on top of it is compulsion and commercialisation: mandatory harmonisation of every bank account with the credential by March 2026, backed by biometric kits distributed to 31 banks; a school-enrolment and examination mandate; commercialisation into the sovereign wealth fund as authentication-as-a-service; a refugee-inclusion framework; and a registration joint venture covering seven regions. The identity assessment framework the programme adopted as its official monitoring instrument predates the window and held position through it.
 
-Payments arrived in layers: an instant payment system, a telco-agnostic wallet, international card acceptance, a strategy proposing first-ever outbound cross-border transfers, and — in the window's final fortnight — utilities and regional tax collection inside the mobile-money app. The switch that makes all of it work carries no baseline the base can date.
+Payments arrived in layers: an instant payment system, a telco-agnostic wallet, international card acceptance, a strategy proposing first-ever outbound cross-border transfers, and — in the window's final fortnight — utilities and regional tax collection inside the mobile-money app. The switch that makes all of it work carries no baseline the repository can date.
 
 ## technology
 
@@ -64,6 +64,6 @@ Neither headline measurement was re-taken inside the window: [mobile connections
 
 Seven subjects carry no reliable position at either end, all probed once on 2026-08-04. Five returned a named document. The telecom licensing directive, the Ministry of Finance mid-year review for 2025/26, the Auditor General's report for EFY 2017, and an account of the capital city's one-stop platform are all now acquisition lines.
 
-Ethiopia's subnational digital tier — eleven service centres and more than 150 services in Addis Ababa alone, with online services also reported in three other cities — is entirely absent from the base.
+Ethiopia's subnational digital tier — eleven service centres and more than 150 services in Addis Ababa alone, with online services also reported in three other cities — is entirely absent from the repository.
 
 Two absences stand dated: no licensing framework for low-earth-orbit satellite operators, and no Ethiopia-specific Gulf digital instrument.

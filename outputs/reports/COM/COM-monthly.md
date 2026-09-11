@@ -19,7 +19,7 @@ Twenty-three rows moved, and the month divides into three kinds of thing. One fa
 
 One set of things validated rather than built: a [national data governance strategy for 2027 to 2031 went to a workshop in Moroni on 24 and 25 August](https://www.nepad.org/news/lauda-nepad-sassocie-lunion-des-comores-pour-impulser-la-transformation-numerique), and the citizen portal that would federate government services [entered the record as a concept note still asking ministries what platforms they have](https://puc.gouv.km/about).
 
-And one set of standing positions the base had simply never recorded - the university's technology departments, the justice ministry's complaint form, the earth-observation dashboard covering the country, and the [statistics institute's microdata archive at fifteen datasets](https://www.nada.inseed-comores.org/index.php/home). None of them is new; all of them are newly on file, which is what a backfill month looks like.
+And one set of standing positions the repository had simply never recorded - the university's technology departments, the justice ministry's complaint form, the earth-observation dashboard covering the country, and the [statistics institute's microdata archive at fifteen datasets](https://www.nada.inseed-comores.org/index.php/home). None of them is new; all of them are newly on file, which is what a backfill month looks like.
 <!-- /narrative -->
 
 ## Governance
@@ -34,7 +34,7 @@ A second strategy was validated in the same period, this one on data: government
 ### Standards
 
 <!-- narrative: governance--gov-standards -->
-The government's own concept note for a single citizen portal [names an interoperability framework and a government enterprise architecture as components of the Plan National e-Gouv](https://puc.gouv.km/about). It is the first record in the base of either, and neither document is published: what the note asks for is a census of the e-government platforms ministries have already built. The page carries no date and is dated by the day it was retrieved.
+The government's own concept note for a single citizen portal [names an interoperability framework and a government enterprise architecture as components of the Plan National e-Gouv](https://puc.gouv.km/about). It is the first record in the repository of either, and neither document is published: what the note asks for is a census of the e-government platforms ministries have already built. The page carries no date and is dated by the day it was retrieved.
 <!-- /narrative -->
 
 ## ICT Infrastructure
@@ -49,7 +49,7 @@ The connectivity project the agency carries reached the stage before financing. 
 ### Energy
 
 <!-- narrative: ict-infrastructure--infra-energy -->
-The thermal plant on Mwali was [down to 1,000 litres of diesel a day against a stated requirement of 7,000, with a total blackout feared](https://alwatwan.net/societe/p%C3%A9nurie-de-carburant-%C3%A0-mwali-i-l%E2%80%99%C3%A9lectricit%C3%A9-de-nouveau-rationn%C3%A9e.html) on 4 August. The island has no fuel depot sized to its needs and depends on maritime resupply, and the account records repeated earlier ruptures in the same year. It is the first measured figure for fuel supply to any island's generation in the base.
+The thermal plant on Mwali was [down to 1,000 litres of diesel a day against a stated requirement of 7,000, with a total blackout feared](https://alwatwan.net/societe/p%C3%A9nurie-de-carburant-%C3%A0-mwali-i-l%E2%80%99%C3%A9lectricit%C3%A9-de-nouveau-rationn%C3%A9e.html) on 4 August. The island has no fuel depot sized to its needs and depends on maritime resupply, and the account records repeated earlier ruptures in the same year. It is the first measured figure for fuel supply to any island's generation in the repository.
 <!-- /narrative -->
 
 ## DPI
@@ -73,12 +73,12 @@ The Registre social unique (RSU) reported [62,000 households enrolled as of 10 J
 
 <!-- narrative: dpi--dpi-mis -->
 
-The base holds one movement on school records this window, and it is private rather than ministerial. Cschool, a school-management platform built to centralise pupil enrolment, report cards, examinations, financial tracking, parent communication and online payment of fees, [was launched at Comor'Lab on 25 August](https://alwatwan.net/societe/transformation-num%C3%A9rique-i-abdoul-wahid-hassani-lance-officiellement-%C2%ABcschool%C2%BB.html); no adoption decision, procurement route or school count is stated, and the hosting association's call for the education ministry to require interoperability with existing systems drew no answer on adoption.
+The repository holds one movement on school records this window, and it is private rather than ministerial. Cschool, a school-management platform built to centralise pupil enrolment, report cards, examinations, financial tracking, parent communication and online payment of fees, [was launched at Comor'Lab on 25 August](https://alwatwan.net/societe/transformation-num%C3%A9rique-i-abdoul-wahid-hassani-lance-officiellement-%C2%ABcschool%C2%BB.html); no adoption decision, procurement route or school count is stated, and the hosting association's call for the education ministry to require interoperability with existing systems drew no answer on adoption.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
-The Portail unique du citoyen entered the base as a concept note: a single portal meant to [gather every sectoral e-government portal and service in one place, set inside the national e-government plan and the 2028 digital strategy](https://puc.gouv.km/about). The initiative is still asking government entities to report the platforms they have built, so that a database of them can be assembled before deployment. No build, supplier, budget or date is stated.
+The Portail unique du citoyen entered the repository as a concept note: a single portal meant to [gather every sectoral e-government portal and service in one place, set inside the national e-government plan and the 2028 digital strategy](https://puc.gouv.km/about). The initiative is still asking government entities to report the platforms they have built, so that a database of them can be assembled before deployment. No build, supplier, budget or date is stated.
 <!-- /narrative -->
 
 ## Digitalisation
@@ -99,7 +99,7 @@ A Comorian graduate student, Soilahoudine Mohamed of Mvouni, [launched Komori Tt
 ### Innovation ecosystem
 
 <!-- narrative: technology--tech-innovate -->
-The hackathon launched in April closed its first phase, [a hundred young people trained and ten finalists funded at EUR 1,500 to 5,000 each at a ceremony on 6 August, under a EUR 4 million European Union programme implemented by the French technical cooperation agency](https://www.lagazettedescomores.com/soci%C3%A9t%C3%A9/hackathon-wamanga-wa-komor-la-premi%C3%A8re-phase-retient-10-projets-innovants-.html). It is the most concrete completed outcome the base holds for Comorian start-ups, and it is a grant round. No start-up statute or domestic innovation fund exists.
+The hackathon launched in April closed its first phase, [a hundred young people trained and ten finalists funded at EUR 1,500 to 5,000 each at a ceremony on 6 August, under a EUR 4 million European Union programme implemented by the French technical cooperation agency](https://www.lagazettedescomores.com/soci%C3%A9t%C3%A9/hackathon-wamanga-wa-komor-la-premi%C3%A8re-phase-retient-10-projets-innovants-.html). It is the most concrete completed outcome the repository holds for Comorian start-ups, and it is a grant round. No start-up statute or domestic innovation fund exists.
 <!-- /narrative -->
 
 ## Capacity
@@ -127,7 +127,7 @@ The research institute that has run the data-governance work since May [recorded
 ### Access to services
 
 <!-- narrative: inclusion--include-access -->
-The justice ministry's site carries a [live contact form letting a citizen select a complaint as the object of a request, alongside administrative information, case follow-up and document access](https://justice.gouv.km/nous-contacter/); it was built under a French-financed justice project. It is the widest general-purpose citizen feedback channel in the base, and no response time, case count or escalation route is stated. The page is undated and is dated by the day it was retrieved.
+The justice ministry's site carries a [live contact form letting a citizen select a complaint as the object of a request, alongside administrative information, case follow-up and document access](https://justice.gouv.km/nous-contacter/); it was built under a French-financed justice project. It is the widest general-purpose citizen feedback channel in the repository, and no response time, case count or escalation route is stated. The page is undated and is dated by the day it was retrieved.
 <!-- /narrative -->
 
 ## Data
@@ -139,7 +139,7 @@ The statistics institute ran a [sensitisation campaign across the archipelago's 
 
 The census apparatus moved alongside it: [the fifth population and housing census finalised its methodological and digital instruments at a retreat from 10 to 17 August](https://lagazettedescomores.com/soci%C3%A9t%C3%A9/rgph-5-lancement-de-la-finalisation-des-outils-m%C3%A9thodologiques-et-num%C3%A9riques-19385.html). No enumeration date is published.
 
-Two standing instruments entered the base at the end of the month, both dated by retrieval rather than by publication. The institute's [national microdata archive held fifteen datasets at 23 August](https://www.nada.inseed-comores.org/index.php/home), and a [modernisation project with the institute as national project owner is running, prioritising disaster and fisheries data and the institute's own digital infrastructure for statistical collection, processing, dissemination and storage](https://unstats.un.org/UNSDWebsite/capacity-development/data-for-now/country-details/Comoros). Neither carries an output or a completion date.
+Two standing instruments entered the repository at the end of the month, both dated by retrieval rather than by publication. The institute's [national microdata archive held fifteen datasets at 23 August](https://www.nada.inseed-comores.org/index.php/home), and a [modernisation project with the institute as national project owner is running, prioritising disaster and fisheries data and the institute's own digital infrastructure for statistical collection, processing, dissemination and storage](https://unstats.un.org/UNSDWebsite/capacity-development/data-for-now/country-details/Comoros). Neither carries an output or a completion date.
 <!-- /narrative -->
 ### Open data
 

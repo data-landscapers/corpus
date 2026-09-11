@@ -30,6 +30,6 @@ Click any row to open the full record. Sort on any column heading, filter with t
 
 What a government commits from its own budget is the other half of the picture, and the more important half: domestic spending is where a state's actual priorities are visible, and where external finance either is or is not being matched.
 
-**Nothing is published here yet.** The base holds budget extracts for a number of countries, but not enough of them, and not on a consistent enough basis, to put a table on a public page without it being read as a comparison it cannot support — budget documents differ by country in what they call a line, which years they cover and whether the figure is an allocation, a revision or an outturn. Publishing them side by side before that is settled would produce exactly the false precision this section exists to avoid.
+**Nothing is published here yet.** The repository holds budget extracts for a number of countries, but not enough of them, and not on a consistent enough basis, to put a table on a public page without it being read as a comparison it cannot support — budget documents differ by country in what they call a line, which years they cover and whether the figure is an allocation, a revision or an outturn. Publishing them side by side before that is settled would produce exactly the false precision this section exists to avoid.
 
 Until then, the per-country reports carry what is held, stated as what it is.

@@ -28,11 +28,11 @@ Data-protection enforcement moved from dormant to active without producing an ou
 
 Access to the network was restricted and the record of it is entirely third-party. No restriction was in force at 1 August 2025; a monitoring organisation records [eight shutdowns across 2025, including a five-day nationwide blackout at the October election](https://www.accessnow.org/internet-shutdowns-2025/), with no restoration date, no gazetted instrument and no regulator order held for any of them.
 
-The National Data Management Framework did not move: stakeholder drafting was under way for a January 2026 target and the base holds no record of completion or slippage past it.
+The National Data Management Framework did not move: stakeholder drafting was under way for a January 2026 target and the repository holds no record of completion or slippage past it.
 
 ## finance
 
-External financing commitments were opened rather than closed in the period. Four unpriced tracks entered the record — [frameworks with Brazil and Poland and agreements in drafting with Russia](https://dailynews.co.tz/brazil-poland-back-dars-push-for-digital-growth/), and a [vendor memorandum signed in Shanghai](https://www.mawasiliano.go.tz/news/tanzania-na-huawei-watia-saini-makubaliano-ya-kuimarisha-ushirikiano-katika-uchumi-wa-kidijitali-na-ubunifu) — none carrying an amount or a term. The one priced arrival is a [US$25m credit facility, extendable to US$50m, for remittance and stablecoin corridors](https://www.eabusinessworld.com/2026/05/29/nala-50m-mufg-payment-infrastructure/). The largest commitment in the base, the [US$150m Digital Tanzania Project](https://projects.worldbank.org/en/projects-operations/project-detail/P160766), did not move and is scheduled to close in 2026 with no closure recorded.
+External financing commitments were opened rather than closed in the period. Four unpriced tracks entered the record — [frameworks with Brazil and Poland and agreements in drafting with Russia](https://dailynews.co.tz/brazil-poland-back-dars-push-for-digital-growth/), and a [vendor memorandum signed in Shanghai](https://www.mawasiliano.go.tz/news/tanzania-na-huawei-watia-saini-makubaliano-ya-kuimarisha-ushirikiano-katika-uchumi-wa-kidijitali-na-ubunifu) — none carrying an amount or a term. The one priced arrival is a [US$25m credit facility, extendable to US$50m, for remittance and stablecoin corridors](https://www.eabusinessworld.com/2026/05/29/nala-50m-mufg-payment-infrastructure/). The largest commitment in the repository, the [US$150m Digital Tanzania Project](https://projects.worldbank.org/en/projects-operations/project-detail/P160766), did not move and is scheduled to close in 2026 with no closure recorded.
 
 ## ict-infrastructure
 

@@ -15,7 +15,7 @@ record: 303f87c3d059
 
 ## Burundi
 
-The national mapping and meteorological institute put two standing capabilities on the record. Its service page [names identifying and managing agricultural, urban and protected areas among the four purposes of Burundian cartography, and states that mapping has modernised through remote sensing, satellite positioning, geographic information systems and drones](https://www.igebu.bi/Services/cartographie/), and it [publishes a satellite imagery viewer whose named dynamic layers are geostationary precipitation, infrared and convection products on automatic update](https://www.igebu.bi/data-tools/). Both are descriptions of what the institute does rather than dated events, and they are the first the base holds.
+The national mapping and meteorological institute put two standing capabilities on the record. Its service page [names identifying and managing agricultural, urban and protected areas among the four purposes of Burundian cartography, and states that mapping has modernised through remote sensing, satellite positioning, geographic information systems and drones](https://www.igebu.bi/Services/cartographie/), and it [publishes a satellite imagery viewer whose named dynamic layers are geostationary precipitation, infrared and convection products on automatic update](https://www.igebu.bi/data-tools/). Both are descriptions of what the institute does rather than dated events, and they are the first the repository holds.
 
 ## Comoros
 
@@ -31,7 +31,7 @@ The national meteorological agency [signed a convention on 10 August with a priv
 
 ## Djibouti
 
-The month's movement was political rather than technical. The head of state [took part on 10 September in the second day of the first International Space Summit at the Grand Palais in Paris, convened at the French president's invitation and gathering delegations from more than 120 countries](https://www.lanation.dj/le-president-guelleh-au-sommet-international-sur-lespace-djibouti-defend-une-ambition-spatiale-au-service-du-developpement/), arguing for a space ambition serving development. State media used the occasion to set out the programme's own record since 2020: [first specialists trained, two nanosatellites designed and put into orbit, ground capacity developed and cooperation established with major French space institutions](https://www.lanation.dj/djibouti-a-la-conquete-de-lespace-un-pari-sur-la-science-la-souverainete-et-lavenir/). No satellite name, launch date, ground-station location, budget or data-use record accompanies the account, and the summit produced no commitment the base can read.
+The month's movement was political rather than technical. The head of state [took part on 10 September in the second day of the first International Space Summit at the Grand Palais in Paris, convened at the French president's invitation and gathering delegations from more than 120 countries](https://www.lanation.dj/le-president-guelleh-au-sommet-international-sur-lespace-djibouti-defend-une-ambition-spatiale-au-service-du-developpement/), arguing for a space ambition serving development. State media used the occasion to set out the programme's own record since 2020: [first specialists trained, two nanosatellites designed and put into orbit, ground capacity developed and cooperation established with major French space institutions](https://www.lanation.dj/djibouti-a-la-conquete-de-lespace-un-pari-sur-la-science-la-souverainete-et-lavenir/). No satellite name, launch date, ground-station location, budget or data-use record accompanies the account, and the summit produced no commitment the repository can read.
 
 ## DR Congo
 
@@ -51,7 +51,7 @@ Two satellite-derived systems were [named as live deployments at a university le
 
 ## Liberia
 
-The Land Authority took the country's geospatial ambition abroad rather than to a budget. At the United Nations' sixteenth global geospatial information management session in August it [sought international partnerships and technical support to build a National Spatial Data Infrastructure](https://www.liberianobserver.com/news/lla-takes-liberia-s-land-modernization-drive-to-un-geospatial-forum/article_6395fd70-5dfc-496a-bc1c-944a19aff053.html) — a coordinated geospatial framework for land administration, mapping and national planning. It is an approach for support rather than a programme: no funding, custodian, standard or timetable is stated, and the base still holds no earth-observation or geospatial data programme of any kind.
+The Land Authority took the country's geospatial ambition abroad rather than to a budget. At the United Nations' sixteenth global geospatial information management session in August it [sought international partnerships and technical support to build a National Spatial Data Infrastructure](https://www.liberianobserver.com/news/lla-takes-liberia-s-land-modernization-drive-to-un-geospatial-forum/article_6395fd70-5dfc-496a-bc1c-944a19aff053.html) — a coordinated geospatial framework for land administration, mapping and national planning. It is an approach for support rather than a programme: no funding, custodian, standard or timetable is stated, and the repository still holds no earth-observation or geospatial data programme of any kind.
 
 ## Libya
 

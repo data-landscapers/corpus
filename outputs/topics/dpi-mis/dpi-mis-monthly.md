@@ -17,7 +17,7 @@ record: 1aaca315820f
 
 Two internal systems moved in different registers. The tax administration [published its first user guide for electronic payment on its platform, setting out seventeen rejection reasons](https://www.wearetech.africa/en/fils-uk/news/public-management/algeria-orders-fast-tracking-of-digital-tax-data-integration) â€” a document describing the failure modes of a live system, which is more than most such platforms disclose. And the interior and transport ministry [signalled activation of tachograph monitoring of professional transport](https://www.echoroukonline.com/%D8%A7%D9%84%D8%AA%D8%A7%D9%83%D9%88%D8%BA%D8%B1%D8%A7%D9%81-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D9%86%D8%B5-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86), with no start date, fleet scope or data-handling rule stated.
 
-A second joint session of the digitalisation high commission and the domestic trade ministry [took the data sources themselves as its subject — how they are produced, updated and kept consistent — towards a unified digital mechanism for regulating the national market](https://www.aps.dz/en/algeria/education-technology/mtr4nrdp-benmouloud-abdellatif-chair-second-meeting-to-establish-unified-digital-mechanism-for-national-market-regulation). It is the first account the base holds here of provenance being treated as the problem to solve rather than the platform.
+A second joint session of the digitalisation high commission and the domestic trade ministry [took the data sources themselves as its subject — how they are produced, updated and kept consistent — towards a unified digital mechanism for regulating the national market](https://www.aps.dz/en/algeria/education-technology/mtr4nrdp-benmouloud-abdellatif-chair-second-meeting-to-establish-unified-digital-mechanism-for-national-market-regulation). It is the first account the repository holds here of provenance being treated as the problem to solve rather than the platform.
 
 ## Angola
 
@@ -27,7 +27,7 @@ The research and education network is funded rather than only presented: [US$15m
 
 ## Benin
 
-The tax directorate's information-system modernisation surfaced in the window only because its funder republished the project sheet. The EUR 2m project [runs from 9 August 2023 to 31 December 2026](https://www.expertisefrance.fr/fr/projets/projet-dappui-la-modernisation-des-systemes-dinformation-pamsi-de-la-dgi-du-benin), which puts it four months from its stated end. What the sheet does not carry is any statement of what has been delivered — no module, no milestone, no completion status — so the base can date the project and price it, and cannot say whether it is finishing or merely ending.
+The tax directorate's information-system modernisation surfaced in the window only because its funder republished the project sheet. The EUR 2m project [runs from 9 August 2023 to 31 December 2026](https://www.expertisefrance.fr/fr/projets/projet-dappui-la-modernisation-des-systemes-dinformation-pamsi-de-la-dgi-du-benin), which puts it four months from its stated end. What the sheet does not carry is any statement of what has been delivered — no module, no milestone, no completion status — so the repository can date the project and price it, and cannot say whether it is finishing or merely ending.
 
 ## Botswana
 
@@ -51,7 +51,7 @@ Health information in the window is a single link run by someone other than the 
 
 ## Comoros
 
-The base holds one movement on school records this window, and it is private rather than ministerial. Cschool, a school-management platform built to centralise pupil enrolment, report cards, examinations, financial tracking, parent communication and online payment of fees, [was launched at Comor'Lab on 25 August](https://alwatwan.net/societe/transformation-num%C3%A9rique-i-abdoul-wahid-hassani-lance-officiellement-%C2%ABcschool%C2%BB.html); no adoption decision, procurement route or school count is stated, and the hosting association's call for the education ministry to require interoperability with existing systems drew no answer on adoption.
+The repository holds one movement on school records this window, and it is private rather than ministerial. Cschool, a school-management platform built to centralise pupil enrolment, report cards, examinations, financial tracking, parent communication and online payment of fees, [was launched at Comor'Lab on 25 August](https://alwatwan.net/societe/transformation-num%C3%A9rique-i-abdoul-wahid-hassani-lance-officiellement-%C2%ABcschool%C2%BB.html); no adoption decision, procurement route or school count is stated, and the hosting association's call for the education ministry to require interoperability with existing systems drew no answer on adoption.
 
 ## Congo
 
@@ -67,7 +67,7 @@ Four days into the invoicing checks the traders' federation answered with an ins
 
 Enforcement caught up with the standardised electronic invoice. The finance minister [closed the fiscal clinics and ordered immediate targeted sanctions against non-compliant taxpayers and against tax-administration staff](https://actualite.cd/2026/08/06/facture-normalisee-doudou-fwamba-clot-les-cliniques-fiscales-et-annonce-des-sanctions). Naming the administration's own staff alongside the taxpayers is the part worth recording; no compliance rate, sanction count or invoice volume is published.
 
-The revenue side of the digitisation put a number on itself. On a broadcast accountability programme on 3 September the finance minister said [monthly value-added tax collection had passed FC 320bn against an average of FC 280bn — about US$141.4m a month — attributing the rise to generalised e-filing at the tax directorate and the phased rollout of the standardised invoice](https://7sur7.cd/index.php/2026/09/03/rdc-les-recettes-mensuelles-de-la-tva-passent-de-1237-plus-de-1414-millions-grace-aux). The attribution is his own, with no counterfactual, compliance rate or invoice-volume series behind it. In the same broadcast he named [the interconnection of the three revenue agencies and a data warehouse as under way, alongside a digital public-finance programme he put at more than US$150m to be built with a Chinese network vendor](https://7sur7.cd/index.php/2026/09/03/rdc-les-recettes-mensuelles-de-la-tva-passent-de-1237-plus-de-1414-millions-grace-aux) — the largest figure attached to any digital programme the base holds for the country, and one with no contract, procurement route, scope document or timetable published behind it.
+The revenue side of the digitisation put a number on itself. On a broadcast accountability programme on 3 September the finance minister said [monthly value-added tax collection had passed FC 320bn against an average of FC 280bn — about US$141.4m a month — attributing the rise to generalised e-filing at the tax directorate and the phased rollout of the standardised invoice](https://7sur7.cd/index.php/2026/09/03/rdc-les-recettes-mensuelles-de-la-tva-passent-de-1237-plus-de-1414-millions-grace-aux). The attribution is his own, with no counterfactual, compliance rate or invoice-volume series behind it. In the same broadcast he named [the interconnection of the three revenue agencies and a data warehouse as under way, alongside a digital public-finance programme he put at more than US$150m to be built with a Chinese network vendor](https://7sur7.cd/index.php/2026/09/03/rdc-les-recettes-mensuelles-de-la-tva-passent-de-1237-plus-de-1414-millions-grace-aux) — the largest figure attached to any digital programme the repository holds for the country, and one with no contract, procurement route, scope document or timetable published behind it.
 
 ## Egypt
 
@@ -139,7 +139,7 @@ Three health systems reached the record in the same window and none of them carr
 
 ## Mauritius
 
-Two sector information systems sit at opposite ends of the same problem this window. A validation workshop [endorsed a proposal for a national Fisheries Information System, for submission under a multilateral fisheries fund's project-implementation grant window](https://lexpress.mu/node/561717) — a system that does not exist yet and has no award behind it. Meanwhile the health estate shows what happens after a system is built: patients discharged from a national centre [were reported still looking for their medical records](https://ionnews.mu/lia-au-service-de-la-sante-des-patients-cherchent-toujours-leurs-dossiers-medicaux/), against a one-patient-one-record ambition. The base holds no delivery figure for either.
+Two sector information systems sit at opposite ends of the same problem this window. A validation workshop [endorsed a proposal for a national Fisheries Information System, for submission under a multilateral fisheries fund's project-implementation grant window](https://lexpress.mu/node/561717) — a system that does not exist yet and has no award behind it. Meanwhile the health estate shows what happens after a system is built: patients discharged from a national centre [were reported still looking for their medical records](https://ionnews.mu/lia-au-service-de-la-sante-des-patients-cherchent-toujours-leurs-dossiers-medicaux/), against a one-patient-one-record ambition. The repository holds no delivery figure for either.
 
 ## Morocco
 
@@ -197,7 +197,7 @@ On 5 August the education ministry [launched an Education in Emergencies Managem
 
 [The Civil Service Diwan launched Bayan, an integrated national HR database for every public employee's record, on 6 August 2026](https://www.sudanakhbar.com/1822457), described as integrable with digital ID, e-signature, PKI, the Kafa'a recruitment platform and the finance ministry's Wafi payroll platform. No coverage, cost or data-protection arrangement was disclosed for a national HR database stood up during an active war.
 
-The civil-service platform's purpose was argued rather than measured. A commentary holds that its value lies in [removing manipulation and favouritism from civil-service appointments rather than in the digitisation itself](https://alhakim.net/142125). It is an opinion piece, and the base holds no appointment volume, grievance count or audit against which the claim could be tested — which is the same gap the platform's own launch left.
+The civil-service platform's purpose was argued rather than measured. A commentary holds that its value lies in [removing manipulation and favouritism from civil-service appointments rather than in the digitisation itself](https://alhakim.net/142125). It is an opinion piece, and the repository holds no appointment volume, grievance count or audit against which the claim could be tested — which is the same gap the platform's own launch left.
 
 ## Tanzania
 
@@ -209,7 +209,7 @@ The state's own asset record is being enforced rather than built. The finance mi
 
 Togo put a [platform online centralising climate-risk data across agriculture, forestry, water resources, tourism and energy](https://www.togofirst.com/en/itc/2408-19852-togo-launches-platform-to-improve-climate-risk-monitoring). Drought and flood indicators are keyed by field agents and checked by sector and regional focal points before national consolidation, time-stamped to leave an audit trail; no launch date is given. The modules for a [National Malaria Data Repository were approved](https://www.togofirst.com/en/health/2608-19870-togo-launches-digital-platform-to-improve-malaria-response) after a training-of-trainers workshop, with no go-live date or facility coverage stated.
 
-Both sit on a system the base can now describe: [DHIS2 has been the health ministry's platform since 2016](https://dhis2.org/climate/country-profiles/togo/) and is the national repository. The chain into it still begins on paper at the facility.
+Both sit on a system the repository can now describe: [DHIS2 has been the health ministry's platform since 2016](https://dhis2.org/climate/country-profiles/togo/) and is the national repository. The chain into it still begins on paper at the facility.
 
 ## Tunisia
 

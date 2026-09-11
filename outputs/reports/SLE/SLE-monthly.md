@@ -51,7 +51,7 @@ Data-protection work in the window was training rather than enforcement, and it 
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
-Regional health data gained an institutional seat. The health minister [attended the inaugural board meeting of the Health Intelligence Centres for Africa in Addis Ababa with the head of the national health information hub, Sierra Leone being a founding member and sitting on the strategic advisory board](https://sierraloaded.sl/news/health-minister-represents-sierra-leone/). Founding membership is a position the base can state; what it cannot yet state is what the body will do with member states' health data, since no constitutive instrument, budget or data-sharing arrangement is published.
+Regional health data gained an institutional seat. The health minister [attended the inaugural board meeting of the Health Intelligence Centres for Africa in Addis Ababa with the head of the national health information hub, Sierra Leone being a founding member and sitting on the strategic advisory board](https://sierraloaded.sl/news/health-minister-represents-sierra-leone/). Founding membership is a position the repository can state; what it cannot yet state is what the body will do with member states' health data, since no constitutive instrument, budget or data-sharing arrangement is published.
 <!-- /narrative -->
 
 ## ICT Infrastructure
@@ -96,7 +96,7 @@ In a 4 August ministerial statement responding to the mobile-money fraud surge, 
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
-A re-platforming of the national payment rails — real-time gross settlement and automated clearing — is reported to have been contracted in early August, but no award notice from the Bank of Sierra Leone or the procurement authority is published, and the aggregator listing that carried the figures is not an origin this base accepts. The award is not held, and no amount, supplier or scope is stated here on that basis.
+A re-platforming of the national payment rails — real-time gross settlement and automated clearing — is reported to have been contracted in early August, but no award notice from the Bank of Sierra Leone or the procurement authority is published, and the aggregator listing that carried the figures is not an origin this repository accepts. The award is not held, and no amount, supplier or scope is stated here on that basis.
 
 The same 4 August ministerial statement [disclosed about 390 Orange mobile-money fraud complaints logged in 2026 to date and more than 18,000 police requests for subscriber data answered](https://sierraleoneconcordtimes.com/government-unveils-multi-agency-strategy-to-tackle-rising-cyber-fraud/).
 
@@ -163,7 +163,7 @@ The council that would steer research funding is still writing its own first pla
 ### Access to services
 
 <!-- narrative: inclusion--include-access -->
-Financial inclusion is put at [about 40% of adults for 2025](https://thefintechtimes.com/rebuilding-financial-services-through-fintech-in-sierra-leone/). It is a named analyst's assessment rather than an official series, and the base holds no state measurement to set beside it.
+Financial inclusion is put at [about 40% of adults for 2025](https://thefintechtimes.com/rebuilding-financial-services-through-fintech-in-sierra-leone/). It is a named analyst's assessment rather than an official series, and the repository holds no state measurement to set beside it.
 
 
 The cost of the handset is being financed rather than reduced. An operator and a commercial bank [opened a 24-month device-financing scheme to individual and business customers, on top of their existing prepaid card relationship](https://www.thewatchnewssl.com/africells-ecobank-boost-digital-inclusion/). No price, interest rate, eligibility test or uptake figure is stated.

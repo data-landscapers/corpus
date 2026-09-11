@@ -58,7 +58,7 @@ The month's other forum was external in origin. At the national Internet Governa
 ### New investments
 
 <!-- narrative: finance--finance-new -->
-A United Nations development agency published its [country annual report for 2025](https://www.undp.org/mauritius-seychelles/publications/undp-mauritius-2025-annual-report), held in full. It is the agency's own account of its year rather than an independent evaluation, and the digital component is not separately costed in it, so no figure can be lifted from it for this section. What it gives the base is the shape of one external programme against which domestic appropriations can be read.
+A United Nations development agency published its [country annual report for 2025](https://www.undp.org/mauritius-seychelles/publications/undp-mauritius-2025-annual-report), held in full. It is the agency's own account of its year rather than an independent evaluation, and the digital component is not separately costed in it, so no figure can be lifted from it for this section. What it gives the repository is the shape of one external programme against which domestic appropriations can be read.
 <!-- /narrative -->
 
 ## ICT Infrastructure
@@ -91,7 +91,7 @@ August supplied the first figure for what any of this is against: [more than 4,0
 
 The ministry's own communique put [4,076 cybersecurity and online-behaviour reports between January and July 2026 against a cybercrime unit of seventeen investigators](https://lexpress.mu/node/561791). Both figures come from the same communique, which is what makes the ratio quotable.
 
-The instrument behind the blocking figures is now held, and it settles how they are counted. [Telecommunication Directive 2 of 2025, issued on 24 March 2025 under the ICT Act, moved the four internet service licence holders off the regulator's centralised child-sexual-abuse filter and onto on-premises filtering in each operator's own network against the Project Arachnid blacklist by 1 May 2025, with no deep packet inspection, HTTPS blocking only at domain level, monthly returns of access attempts and blocked addresses and domains, and an annual external security audit](https://www.icta.mu/documents/2025/03/TD_2_of_2025.pdf). The blocked-attempt totals the base carries are therefore hit counts against a list, not unique users and not confirmed retrievals.
+The instrument behind the blocking figures is now held, and it settles how they are counted. [Telecommunication Directive 2 of 2025, issued on 24 March 2025 under the ICT Act, moved the four internet service licence holders off the regulator's centralised child-sexual-abuse filter and onto on-premises filtering in each operator's own network against the Project Arachnid blacklist by 1 May 2025, with no deep packet inspection, HTTPS blocking only at domain level, monthly returns of access attempts and blocked addresses and domains, and an annual external security audit](https://www.icta.mu/documents/2025/03/TD_2_of_2025.pdf). The blocked-attempt totals the repository carries are therefore hit counts against a list, not unique users and not confirmed retrievals.
 <!-- /narrative -->
 
 ## DPI
@@ -99,7 +99,7 @@ The instrument behind the blocking figures is now held, and it settles how they 
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
-The financial services regulator [issued guidance notes on stablecoins, with an annexure, on 13 August](https://www.fscmauritius.org/media/dyedhu0b/fsc-guidance-notes-on-stablecoins-and-annexure.pdf), the latest instalment of its fintech series. It follows the central bank's guideline for payment aggregators in July, which brought aggregators under a stated supervisory expectation for the first time. Two regulators have now written to two edges of the payments market inside six weeks; neither instrument carries an enforcement power the base can see used, and no complaint volume or redress route for payment users is published anywhere.
+The financial services regulator [issued guidance notes on stablecoins, with an annexure, on 13 August](https://www.fscmauritius.org/media/dyedhu0b/fsc-guidance-notes-on-stablecoins-and-annexure.pdf), the latest instalment of its fintech series. It follows the central bank's guideline for payment aggregators in July, which brought aggregators under a stated supervisory expectation for the first time. Two regulators have now written to two edges of the payments market inside six weeks; neither instrument carries an enforcement power the repository can see used, and no complaint volume or redress route for payment users is published anywhere.
 <!-- /narrative -->
 ### Registries
 
@@ -109,7 +109,7 @@ The [Finance Act 2026 was assented on 12 August](https://mauritiusassembly.govmu
 ### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->
-Two sector information systems sit at opposite ends of the same problem this window. A validation workshop [endorsed a proposal for a national Fisheries Information System, for submission under a multilateral fisheries fund's project-implementation grant window](https://lexpress.mu/node/561717) — a system that does not exist yet and has no award behind it. Meanwhile the health estate shows what happens after a system is built: patients discharged from a national centre [were reported still looking for their medical records](https://ionnews.mu/lia-au-service-de-la-sante-des-patients-cherchent-toujours-leurs-dossiers-medicaux/), against a one-patient-one-record ambition. The base holds no delivery figure for either.
+Two sector information systems sit at opposite ends of the same problem this window. A validation workshop [endorsed a proposal for a national Fisheries Information System, for submission under a multilateral fisheries fund's project-implementation grant window](https://lexpress.mu/node/561717) — a system that does not exist yet and has no award behind it. Meanwhile the health estate shows what happens after a system is built: patients discharged from a national centre [were reported still looking for their medical records](https://ionnews.mu/lia-au-service-de-la-sante-des-patients-cherchent-toujours-leurs-dossiers-medicaux/), against a one-patient-one-record ambition. The repository holds no delivery figure for either.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -129,7 +129,7 @@ Cabinet [took note of a plan to consolidate the government portal and the separa
 ### Rural digital data capture
 
 <!-- narrative: digitalisation--digital-rural -->
-The [virtual reality programme in primary schools](https://mdpa.govmu.org/mdpa/index.php/virtual-reality-in-primary-schools-vrps/) is the second digital programme now running in the primary estate, after the [education platform launched in January](https://lexpress.mu/node/553891) under the operator pilot. Neither publishes a school count or a pupil reach. On an island of this size the rural indicators are answered by national programmes rather than by a rural one, and what the base cannot say of either programme is how much of the estate it has reached.
+The [virtual reality programme in primary schools](https://mdpa.govmu.org/mdpa/index.php/virtual-reality-in-primary-schools-vrps/) is the second digital programme now running in the primary estate, after the [education platform launched in January](https://lexpress.mu/node/553891) under the operator pilot. Neither publishes a school count or a pupil reach. On an island of this size the rural indicators are answered by national programmes rather than by a rural one, and what the repository cannot say of either programme is how much of the estate it has reached.
 <!-- /narrative -->
 
 ## Technology

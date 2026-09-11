@@ -25,7 +25,7 @@ Two working systems tightened. A university [made its academic-records platform 
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-The framework statute reached into the workplace. On a newspaper’s reading of [article 379 of the Code du numérique, a company phone, a company-issued number or a work messaging group does not by itself entitle an employer to read the messages on it](https://www.lanation.bj/societe/societe-votre-patron-peut-il-lire-vos-messages-whatsapp-professionnels). It is a reading rather than a regulator decision or a judgment, and the base holds no enforcement action on workplace monitoring.
+The framework statute reached into the workplace. On a newspaper’s reading of [article 379 of the Code du numérique, a company phone, a company-issued number or a work messaging group does not by itself entitle an employer to read the messages on it](https://www.lanation.bj/societe/societe-votre-patron-peut-il-lire-vos-messages-whatsapp-professionnels). It is a reading rather than a regulator decision or a judgment, and the repository holds no enforcement action on workplace monitoring.
 <!-- /narrative -->
 ### Data protection
 
@@ -42,7 +42,7 @@ The cross-border digital identity work Benin does through Smart Africa moved fro
 ### Standards
 
 <!-- narrative: governance--gov-standards -->
-Benin's standards body is now inside the international system rather than beside it: the Agence Nationale de Normalisation [is recorded as a full member of ISO](https://www.iso.org/member/308845.html), having [launched the national NB conformity mark in April](https://anm.bj/fr/actualite/7503). Membership is a standing on paper; what the base does not hold is a standards catalogue, a certified-product count, or any ICT-specific Beninese standard.
+Benin's standards body is now inside the international system rather than beside it: the Agence Nationale de Normalisation [is recorded as a full member of ISO](https://www.iso.org/member/308845.html), having [launched the national NB conformity mark in April](https://anm.bj/fr/actualite/7503). Membership is a standing on paper; what the repository does not hold is a standards catalogue, a certified-product count, or any ICT-specific Beninese standard.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 
@@ -94,7 +94,7 @@ One commune is now completely mapped, and the map shows who the register cannot 
 ### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->
-The tax directorate's information-system modernisation surfaced in the window only because its funder republished the project sheet. The EUR 2m project [runs from 9 August 2023 to 31 December 2026](https://www.expertisefrance.fr/fr/projets/projet-dappui-la-modernisation-des-systemes-dinformation-pamsi-de-la-dgi-du-benin), which puts it four months from its stated end. What the sheet does not carry is any statement of what has been delivered — no module, no milestone, no completion status — so the base can date the project and price it, and cannot say whether it is finishing or merely ending.
+The tax directorate's information-system modernisation surfaced in the window only because its funder republished the project sheet. The EUR 2m project [runs from 9 August 2023 to 31 December 2026](https://www.expertisefrance.fr/fr/projets/projet-dappui-la-modernisation-des-systemes-dinformation-pamsi-de-la-dgi-du-benin), which puts it four months from its stated end. What the sheet does not carry is any statement of what has been delivered — no module, no milestone, no completion status — so the repository can date the project and price it, and cannot say whether it is finishing or merely ending.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 

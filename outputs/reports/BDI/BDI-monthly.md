@@ -77,7 +77,7 @@ At the counter, none of that reaches the constraint. Traders at Karusi [report t
 
 <!-- narrative: dpi--dpi-registry -->
 
-The register, not the card, is what carries the right to vote. The electoral commission [said more than one million new voters are expected for the 2027 presidential election, with partial registration planned for October 2026 in more than 4,000 centres that will also serve as polling stations, targeting those under 18 at the 2025 registration and citizens returned since 2025](https://www.sosmediasburundi.org/en/2026/09/03/2027-presidential-election-more-than-one-million-new-voters-ceni-accelerates-preparations/), and its president said a voter who loses their card keeps the right to vote provided they are in the electoral database. That is the clearest statement this base holds of how identity works at the poll here. No register size, audit terms or duplicate-detection method is published.
+The register, not the card, is what carries the right to vote. The electoral commission [said more than one million new voters are expected for the 2027 presidential election, with partial registration planned for October 2026 in more than 4,000 centres that will also serve as polling stations, targeting those under 18 at the 2025 registration and citizens returned since 2025](https://www.sosmediasburundi.org/en/2026/09/03/2027-presidential-election-more-than-one-million-new-voters-ceni-accelerates-preparations/), and its president said a voter who loses their card keeps the right to vote provided they are in the electoral database. That is the clearest statement this repository holds of how identity works at the poll here. No register size, audit terms or duplicate-detection method is published.
 
 The obligation behind any future social register is now on the record. An [ordinance of 7 February makes acquisition of the medical assistance card compulsory, a scheme dating from 1984 and reformed in 2012](https://www.iwacu-burundi.org/la-cam-une-avancee-vers-une-protection-sociale-plus-inclusive/), and the account weighs it as a step towards broader social protection. No enrolment count, card format, register or digital component is described — so what exists is a duty to hold a card, and nothing published about the system that would issue or read it.
 <!-- /narrative -->
@@ -102,7 +102,7 @@ Local government gained equipment rather than systems. A development agency [han
 ### Rural digital data capture
 
 <!-- narrative: digitalisation--digital-rural -->
-Civil registration is the one rural system with a number attached to it. Marking African Civil Registration Day, the territorial administration directorate [set out digitalisation of civil status in pilot communes and decentralisation down to zone level, with planned interoperability with health facilities for births and deaths notified through hill chiefs, and a UN agency stated that thirteen communes already hold a biometric registration system](https://www.rtnb.bi/?mypost%3Fid=596). Thirteen is the whole of the count: against well over a hundred communes, what the base records is a pilot that has been running for at least a quarter and a national position that has not moved.
+Civil registration is the one rural system with a number attached to it. Marking African Civil Registration Day, the territorial administration directorate [set out digitalisation of civil status in pilot communes and decentralisation down to zone level, with planned interoperability with health facilities for births and deaths notified through hill chiefs, and a UN agency stated that thirteen communes already hold a biometric registration system](https://www.rtnb.bi/?mypost%3Fid=596). Thirteen is the whole of the count: against well over a hundred communes, what the repository records is a pilot that has been running for at least a quarter and a national position that has not moved.
 <!-- /narrative -->
 
 ## Technology
@@ -110,7 +110,7 @@ Civil registration is the one rural system with a number attached to it. Marking
 ### AI
 
 <!-- narrative: technology--tech-ai -->
-The strategy went looking for money. The finance and budget minister carried its ambitions to the Korea-Africa economic cooperation ministerial in Seoul, [seeking the financing and partnerships to turn it into concrete projects](https://www.wearetech.africa/fr/fils/actualites/tech/intelligence-artificielle-a-seoul-le-burundi-presente-ses-ambitions), the account naming connectivity, data infrastructure and local skills as what the strategy validated in April provides for, against national digital capacity it describes as limited. No commitment, partner or project is reported as resulting, which leaves the strategy where the base already had it: adopted, unfunded and unimplemented.
+The strategy went looking for money. The finance and budget minister carried its ambitions to the Korea-Africa economic cooperation ministerial in Seoul, [seeking the financing and partnerships to turn it into concrete projects](https://www.wearetech.africa/fr/fils/actualites/tech/intelligence-artificielle-a-seoul-le-burundi-presente-ses-ambitions), the account naming connectivity, data infrastructure and local skills as what the strategy validated in April provides for, against national digital capacity it describes as limited. No commitment, partner or project is reported as resulting, which leaves the strategy where the repository already had it: adopted, unfunded and unimplemented.
 <!-- /narrative -->
 
 ## Capacity
@@ -131,7 +131,7 @@ A rural community digital hub [opened at Shombo](https://www.linkedin.com/posts/
 ### Digital divides
 
 <!-- narrative: inclusion--include-divides -->
-The telecommunications regulator told a workshop that very few Burundians use the internet. It characterised the level without publishing a figure, so the finding the base can carry is the regulator's own [statement that use is low](https://www.iwacu-burundi.org/englishnews/number-of-internet-users-in-burundi-is-low-says-arct/), not a percentage.
+The telecommunications regulator told a workshop that very few Burundians use the internet. It characterised the level without publishing a figure, so the finding the repository can carry is the regulator's own [statement that use is low](https://www.iwacu-burundi.org/englishnews/number-of-internet-users-in-burundi-is-low-says-arct/), not a percentage.
 <!-- /narrative -->
 
 ## Data
@@ -139,10 +139,10 @@ The telecommunications regulator told a workshop that very few Burundians use th
 ### National statistics
 
 <!-- narrative: data--data-statistics -->
-The statistical strategy reported on itself. The statutory sector statistics group met for the second quarter [with the recommendations of the mid-term evaluation of the third national statistics strategy on its agenda](https://www.insbu.bi/actualitesEtEvenements), which establishes both that a third-generation strategy is in force and that its mid-term evaluation has reported. Neither the strategy nor the evaluation is published, so the base can date the process and cannot read what it found.
+The statistical strategy reported on itself. The statutory sector statistics group met for the second quarter [with the recommendations of the mid-term evaluation of the third national statistics strategy on its agenda](https://www.insbu.bi/actualitesEtEvenements), which establishes both that a third-generation strategy is in force and that its mid-term evaluation has reported. Neither the strategy nor the evaluation is published, so the repository can date the process and cannot read what it found.
 <!-- /narrative -->
 ### Use of satellite data
 
 <!-- narrative: data--data-satellite -->
-The national mapping and meteorological institute put two standing capabilities on the record. Its service page [names identifying and managing agricultural, urban and protected areas among the four purposes of Burundian cartography, and states that mapping has modernised through remote sensing, satellite positioning, geographic information systems and drones](https://www.igebu.bi/Services/cartographie/), and it [publishes a satellite imagery viewer whose named dynamic layers are geostationary precipitation, infrared and convection products on automatic update](https://www.igebu.bi/data-tools/). Both are descriptions of what the institute does rather than dated events, and they are the first the base holds.
+The national mapping and meteorological institute put two standing capabilities on the record. Its service page [names identifying and managing agricultural, urban and protected areas among the four purposes of Burundian cartography, and states that mapping has modernised through remote sensing, satellite positioning, geographic information systems and drones](https://www.igebu.bi/Services/cartographie/), and it [publishes a satellite imagery viewer whose named dynamic layers are geostationary precipitation, infrared and convection products on automatic update](https://www.igebu.bi/data-tools/). Both are descriptions of what the institute does rather than dated events, and they are the first the repository holds.
 <!-- /narrative -->

@@ -23,7 +23,7 @@ The creative sector was surveyed for a digital purpose. A two-day multistakehold
 
 ## Burundi
 
-The telecommunications regulator told a workshop that very few Burundians use the internet. It characterised the level without publishing a figure, so the finding the base can carry is the regulator's own [statement that use is low](https://www.iwacu-burundi.org/englishnews/number-of-internet-users-in-burundi-is-low-says-arct/), not a percentage.
+The telecommunications regulator told a workshop that very few Burundians use the internet. It characterised the level without publishing a figure, so the finding the repository can carry is the regulator's own [statement that use is low](https://www.iwacu-burundi.org/englishnews/number-of-internet-users-in-burundi-is-low-says-arct/), not a percentage.
 
 ## DR Congo
 
@@ -49,11 +49,11 @@ The [draft digital economy and innovation development fund bill](https://amchamg
 
 Existing money went the other way. An implementing partner's account of 12 August reports that [connectivity and digital-inclusion work in Ghana slowed or stopped after the American aid wind-down of 2025, in which 83% of the agency's programmes were cut](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html), the multi-funder Women in the Digital Economy Fund losing its American component while the parts other funders backed continued. No replacement funder is named and no Ghanaian figure is given.
 
-The rural project's own numbers reached the base on 5 September. [1,400 of 2,016 rural telephony sites are live and the universal-access fund carries a GHS 30m allocation for the project in 2026](https://www.myjoyonline.com/govt-to-upgrade-all-rural-telephony-networks-to-4g-capability-sam-george/), with the minister directing that every site be upgraded to at least 4G on the ground that 2G and 3G no longer carry the services the sites exist to deliver, a directive [repeated on an Eastern Region site inspection the next day](https://newsalertgh.com/2026/09/06/sam-george-inspects-rural-telephony-projects-to-boost-mobile-network-connectivity-in-eastern-region/). It carries no timetable, cost or contracting route, and 616 sites are not yet live. Above it, [smartphone penetration is put at 71.8% in June 2026 against 27.5% a decade earlier](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/) — the minister's figure, on a different base from the household survey the record already holds.
+The rural project's own numbers reached the repository on 5 September. [1,400 of 2,016 rural telephony sites are live and the universal-access fund carries a GHS 30m allocation for the project in 2026](https://www.myjoyonline.com/govt-to-upgrade-all-rural-telephony-networks-to-4g-capability-sam-george/), with the minister directing that every site be upgraded to at least 4G on the ground that 2G and 3G no longer carry the services the sites exist to deliver, a directive [repeated on an Eastern Region site inspection the next day](https://newsalertgh.com/2026/09/06/sam-george-inspects-rural-telephony-projects-to-boost-mobile-network-connectivity-in-eastern-region/). It carries no timetable, cost or contracting route, and 616 sites are not yet live. Above it, [smartphone penetration is put at 71.8% in June 2026 against 27.5% a decade earlier](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/) — the minister's figure, on a different base from the household survey the record already holds.
 
 ## Guinea-Bissau
 
-The first measurement of adolescent access the base holds is academic rather than official. A [survey of 2,039 Bissau adolescents finds computer and internet access limited and unevenly distributed, skewed against girls and against pupils in state schools, with the pandemic having exposed rather than created the gap](https://hdl.handle.net/20.500.11815/8043). It covers the capital rather than the country, and nothing official exists at any date to set beside it — which is why a doctoral thesis is the best evidence this report has on who among the young can get online.
+The first measurement of adolescent access the repository holds is academic rather than official. A [survey of 2,039 Bissau adolescents finds computer and internet access limited and unevenly distributed, skewed against girls and against pupils in state schools, with the pandemic having exposed rather than created the gap](https://hdl.handle.net/20.500.11815/8043). It covers the capital rather than the country, and nothing official exists at any date to set beside it — which is why a doctoral thesis is the best evidence this report has on who among the young can get online.
 
 ## Kenya
 
@@ -65,7 +65,7 @@ Domestic provision was restated in the same fortnight. The regulator's Universal
 
 ## Malawi
 
-The universal service fund is in operation and funded from the regulator's annual budget allocation, and its [director general stated existing funding levels remain insufficient to meet the country's connectivity needs](https://itweb.africa/article/malawi-explores-ai-digital-ids-collaboration/nWJadMbNlybMbjO1). A school connectivity project runs under it and the secondary-school skills work above is stated to draw on it. No income, balance or disbursement figure is held for any year, and the base holds no regulator annual report or fund account at all.
+The universal service fund is in operation and funded from the regulator's annual budget allocation, and its [director general stated existing funding levels remain insufficient to meet the country's connectivity needs](https://itweb.africa/article/malawi-explores-ai-digital-ids-collaboration/nWJadMbNlybMbjO1). A school connectivity project runs under it and the secondary-school skills work above is stated to draw on it. No income, balance or disbursement figure is held for any year, and the repository holds no regulator annual report or fund account at all.
 
 ## Mozambique
 

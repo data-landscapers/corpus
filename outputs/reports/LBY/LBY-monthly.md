@@ -95,7 +95,7 @@ An independent count put a figure on what the enforcement is chasing. A data ana
 <!-- narrative: dpi--dpi-pay -->
 Payments moved outward rather than inward. The central bank [is reported to be planning accession to China's cross-border interbank payment system after talks with the People's Bank of China](https://www.scmp.com/news/china/diplomacy/article/3364171/why-chinese-yuan-could-soon-be-africas-most-important-currency). The account is a foreign newspaper's: no Libyan statement, timetable or membership step is held, and nothing is said about what it would mean for settlement currency or correspondent banking.
 
-The central bank governor set out four things at once at a Tripoli conference on 7 September: a [link to the Arab regional payments platform, a study track on a central bank digital currency and stablecoins, a cyber-skills programme, and a pilot for accession to China's cross-border interbank system targeted at early 2027](https://libyaherald.com/2026/09/cbl-governor-issa-launches-several-initiatives-and-reviews-achievements-at-tripoli-arab-savings-and-financial-literacy-conference). None carries an instrument, budget, participant list or delivery date, and the transfer-value figure the same account reports is not taken into the base.
+The central bank governor set out four things at once at a Tripoli conference on 7 September: a [link to the Arab regional payments platform, a study track on a central bank digital currency and stablecoins, a cyber-skills programme, and a pilot for accession to China's cross-border interbank system targeted at early 2027](https://libyaherald.com/2026/09/cbl-governor-issa-launches-several-initiatives-and-reviews-achievements-at-tripoli-arab-savings-and-financial-literacy-conference). None carries an instrument, budget, participant list or delivery date, and the transfer-value figure the same account reports is not taken into the repository.
 <!-- /narrative -->
 ### Registries
 
@@ -126,7 +126,7 @@ A complaints route was put behind the visa system. The citizen service centre an
 ### Rural digital data capture
 
 <!-- narrative: digitalisation--digital-rural -->
-The renewable energy authority's off-grid programme is now on the record at [400 solar systems, 310 kW peak, for remote clusters and border posts](https://reaol.ly/index.php/portfolio/pro1/). It is power rather than connectivity, and it is the largest counted state provision outside the cities the base holds; the other reaches beyond the capital this year are [15 sentinel disease surveillance sites](https://ncdc.org.ly/Ar/29_9_2025-2/) and a [police station records system launched in Tripoli](https://lana.gov.ly/post.php?id=347992&lang=ar).
+The renewable energy authority's off-grid programme is now on the record at [400 solar systems, 310 kW peak, for remote clusters and border posts](https://reaol.ly/index.php/portfolio/pro1/). It is power rather than connectivity, and it is the largest counted state provision outside the cities the repository holds; the other reaches beyond the capital this year are [15 sentinel disease surveillance sites](https://ncdc.org.ly/Ar/29_9_2025-2/) and a [police station records system launched in Tripoli](https://lana.gov.ly/post.php?id=347992&lang=ar).
 <!-- /narrative -->
 
 ## Capacity

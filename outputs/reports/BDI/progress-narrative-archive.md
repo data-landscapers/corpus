@@ -66,4 +66,4 @@ Access is the one inclusion measure that moved this period, and it moved against
 
 ## gaps
 
-Ten rows carry no reliable position at either end. The pattern is that Burundi's absences are of foundations rather than of applications: no census result under the registers, no interoperability framework under the interoperating systems, no open-data policy under an access-to-information bill with no text, and no compute or hosting specification under a national data centre that is still a stated priority. Where a system exists, the base can usually date it; where the thing beneath a system should exist, it usually cannot.
+Ten rows carry no reliable position at either end. The pattern is that Burundi's absences are of foundations rather than of applications: no census result under the registers, no interoperability framework under the interoperating systems, no open-data policy under an access-to-information bill with no text, and no compute or hosting specification under a national data centre that is still a stated priority. Where a system exists, the repository can usually date it; where the thing beneath a system should exist, it usually cannot.

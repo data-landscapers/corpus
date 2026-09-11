@@ -146,12 +146,12 @@ The month's one measure of what connectivity costs a Malian is a comparison with
 ### National statistics
 
 <!-- narrative: data--data-statistics -->
-The statistics institute runs a [microdata archive under its own domain holding 107 studies](https://microdata.instat.ml/index.php/catalog/), led by the 2022 census and near-annual agricultural surveys since 1996/1997. It is a first-party statistical archive rather than a whole-of-government open-data portal, and the base holds nothing of the latter kind.
+The statistics institute runs a [microdata archive under its own domain holding 107 studies](https://microdata.instat.ml/index.php/catalog/), led by the 2022 census and near-annual agricultural surveys since 1996/1997. It is a first-party statistical archive rather than a whole-of-government open-data portal, and the repository holds nothing of the latter kind.
 <!-- /narrative -->
 ### Open data
 
 <!-- narrative: data--data-open -->
-Open data moved from absent to partial. The statistics institute [publishes an open data licence agreement](https://www.instat-mali.org/laravel-filemanager/files/shares/doc/conditions-utilisation-donnees-ouvertes_doc.pdf) and held a national workshop in June 2026 on statistical data modelling and [migration to a second-generation open data portal platform](https://instat-mali.org/fr/actualites-et-evenements/atelier-national-sur-la-modelisation-sdmx-et-la-migration-vers-la-plateforme-open-data-portal-odp-20). Both are the institute's, covering its own data rather than government data generally, and the base still holds no dataset count, portal address or open-data policy instrument.
+Open data moved from absent to partial. The statistics institute [publishes an open data licence agreement](https://www.instat-mali.org/laravel-filemanager/files/shares/doc/conditions-utilisation-donnees-ouvertes_doc.pdf) and held a national workshop in June 2026 on statistical data modelling and [migration to a second-generation open data portal platform](https://instat-mali.org/fr/actualites-et-evenements/atelier-national-sur-la-modelisation-sdmx-et-la-migration-vers-la-plateforme-open-data-portal-odp-20). Both are the institute's, covering its own data rather than government data generally, and the repository still holds no dataset count, portal address or open-data policy instrument.
 <!-- /narrative -->
 ### Use of satellite data
 

@@ -30,7 +30,7 @@ The [full-digitisation decree entered force in December 2025 with a January 2026
 
 ## finance
 
-External financing commitments were unchanged over the period: the [Chinese education technical cooperation](http://nsd.mofcom.gov.cn/article/jmxw/201504/20150400929291.shtml) commitment and the [air traffic management loan](https://www.focac.org/eng/zfgx_4/zzjw/t1530557.htm) both stood as committed at start and end, with no implementation record entering the base.
+External financing commitments were unchanged over the period: the [Chinese education technical cooperation](http://nsd.mofcom.gov.cn/article/jmxw/201504/20150400929291.shtml) commitment and the [air traffic management loan](https://www.focac.org/eng/zfgx_4/zzjw/t1530557.htm) both stood as committed at start and end, with no implementation record entering the repository.
 
 ## ict-infrastructure
 

@@ -24,11 +24,11 @@ The data-protection authority did not move at either end: [created in law, not e
 
 ## governance
 
-Both statutes held their position. [Loi n° 2024/017 remains in force with no supervisory authority operating](https://prc.cm/fr/multimedia/documents/10258-loi-n-2024-017-du-23-12-2024-web), and [Loi n° 2010/012 remains in force and invoked to justify network restrictions](https://lejour.cm/cameroun-quand-les-lois-sur-la-cybercriminalite-menacent-les-libertes/), civil-society reform recommendations pending. What changed around them is the count of restrictions: from none recorded in the base for the year to August 2025 to [four shutdowns in 2025, including election-period restrictions on social platforms](https://www.accessnow.org/internet-shutdowns-2025/).
+Both statutes held their position. [Loi n° 2024/017 remains in force with no supervisory authority operating](https://prc.cm/fr/multimedia/documents/10258-loi-n-2024-017-du-23-12-2024-web), and [Loi n° 2010/012 remains in force and invoked to justify network restrictions](https://lejour.cm/cameroun-quand-les-lois-sur-la-cybercriminalite-menacent-les-libertes/), civil-society reform recommendations pending. What changed around them is the count of restrictions: from none recorded in the repository for the year to August 2025 to [four shutdowns in 2025, including election-period restrictions on social platforms](https://www.accessnow.org/internet-shutdowns-2025/).
 
 The satellite licence moved without resolving. From a [refusal in March 2025](https://www.camerounweb.com/CameroonHomePage/NewsArchive/EXCLUSIF-Le-Cameroun-refuse-d-octroyer-une-licence-Starlink-l-entreprise-d-Elon-Musk-dans-le-viseur-des-autorit-s-779264) to a [draft concession convention finalised in December 2025 and a file still undecided at the ministry](https://newswatchcameroon.com/cameroon-starlink-licensing-stalls-over-security-sovereignty-concerns/), with the 2024 seizure circular operative at both ends.
 
-Regulatory capability improved: the regulator went from issuing sanctions off manual inspections to [holding quality-of-service monitoring platforms handed over in January 2026](https://techafricanews.com/2026/01/07/cameroon-strengthens-telecom-oversight-as-trb-receives-qos-monitoring-platforms/), with field inspections at Douala in April and no sanction on record since. One regional commitment lapsed: [free roaming was mandated for delivery by 30 June 2026](https://techreviewafrica.com/news/4133) and the base holds no record of implementation.
+Regulatory capability improved: the regulator went from issuing sanctions off manual inspections to [holding quality-of-service monitoring platforms handed over in January 2026](https://techafricanews.com/2026/01/07/cameroon-strengthens-telecom-oversight-as-trb-receives-qos-monitoring-platforms/), with field inspections at Douala in April and no sanction on record since. One regional commitment lapsed: [free roaming was mandated for delivery by 30 June 2026](https://techreviewafrica.com/news/4133) and the repository holds no record of implementation.
 
 ## finance
 
@@ -56,7 +56,7 @@ The largest statistical movement is the census: from a last enumeration in 2005 
 
 ## digitalisation
 
-The base carries one row here and no position for it a year ago, so the chapter records a level rather than a movement: [230 councils, about 64% nationally, supported by the ICT agency, with 335 municipal portals developed and 145 authorities equipped](https://techafricanews.com/2026/07/16/cameroon-urges-north-west-councils-to-accelerate-digital-transformation/).
+The repository carries one row here and no position for it a year ago, so the chapter records a level rather than a movement: [230 councils, about 64% nationally, supported by the ICT agency, with 335 municipal portals developed and 145 authorities equipped](https://techafricanews.com/2026/07/16/cameroon-urges-north-west-councils-to-accelerate-digital-transformation/).
 
 ## technology
 
@@ -78,7 +78,7 @@ The census is where the year's data work is, and it is not finished: enumeration
 
 ## geopolitics
 
-The base holds one row in this chapter and it is a conversation rather than a commitment: the state operator's cloud approach to a US hyperscaler is [talks only, with no agreement, investment commitment, timeline, or answer on where Cameroonian data would sit](https://www.ecofinagency.com/news-digital/2407-57711-camtel-explores-cloud-ai-partnership-with-amazon-web-services). European, Gulf and Indian engagement are each carried as ***Not held***, so this chapter mainly records how little of the country's external technology relationships the base can show.
+The repository holds one row in this chapter and it is a conversation rather than a commitment: the state operator's cloud approach to a US hyperscaler is [talks only, with no agreement, investment commitment, timeline, or answer on where Cameroonian data would sit](https://www.ecofinagency.com/news-digital/2407-57711-camtel-explores-cloud-ai-partnership-with-amazon-web-services). European, Gulf and Indian engagement are each carried as ***Not held***, so this chapter mainly records how little of the country's external technology relationships the repository can show.
 
 ## gaps
 

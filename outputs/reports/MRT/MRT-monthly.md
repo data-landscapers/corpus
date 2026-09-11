@@ -17,7 +17,7 @@ record: 4a49a23e6691
 <!-- narrative: summary -->
 Registries and government services carried the month. The Council of Ministers [adopted decrees on 27 August establishing a national information system for the central criminal-record register and a national digital reference for land and cadastral data](https://www.ami.mr/archives/267317) â€” two registries created as instruments, with no build, budget or operator attached to either. The state services portal [took on the water utility's services from 4 August](https://ami.mr/fr/archives/300346), a civil-service competition for 390 posts [was run digitally from application through to examination](https://lequotidien.mr/?p=40000&lang=fr), and the transport regulator [gave ride-hailing operators fifteen days to bring their authorisations into line with the law](https://lequotidien.mr/?p=40128&lang=fr).
 
-Infrastructure moved on two fronts: [a commercial 5G network launched at Nouakchott on 10 August](https://ghabess.net/23385), and [the national cloud platform entered data-security testing and migration preparation ahead of go-live](https://alwiam.info/ar/51206). The national identity application [went down for a full day of scheduled maintenance on 8 August](https://techrek.info/fr/houwiyeti-de-nouveau-operationnelle-de-la-maintenance-periodique-a-la-question-de-la-souverainete-numerique/), the first interruption the base holds for it, and the fifth census [presented its final regional results from 3 August](https://www.ami.mr/archives/265803).
+Infrastructure moved on two fronts: [a commercial 5G network launched at Nouakchott on 10 August](https://ghabess.net/23385), and [the national cloud platform entered data-security testing and migration preparation ahead of go-live](https://alwiam.info/ar/51206). The national identity application [went down for a full day of scheduled maintenance on 8 August](https://techrek.info/fr/houwiyeti-de-nouveau-operationnelle-de-la-maintenance-periodique-a-la-question-de-la-souverainete-numerique/), the first interruption the repository holds for it, and the fifth census [presented its final regional results from 3 August](https://www.ami.mr/archives/265803).
 <!-- /narrative -->
 
 ## Governance
@@ -63,7 +63,7 @@ The identity application is now load-bearing, and the month showed what that mea
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
-A retrospective rather than an operator disclosure, and it is the base's first account of where the market came from. A state-owned bank's mobile service, [announced in late 2019 as the country's first fully mobile bank and launched in 2020, is credited with making the domestic digital payments market rather than entering a mature one](https://lequotidien.mr/?p=40492): opening an account from a phone, transferring and paying merchants were new to a wide part of the population, and transferring money by phone has since become a daily behaviour. The piece is a defence against complaints of faults and slowness, and it carries no user count, transaction volume, value, agent network or outage record — so what the service does now cannot be sized from it.
+A retrospective rather than an operator disclosure, and it is the repository's first account of where the market came from. A state-owned bank's mobile service, [announced in late 2019 as the country's first fully mobile bank and launched in 2020, is credited with making the domestic digital payments market rather than entering a mature one](https://lequotidien.mr/?p=40492): opening an account from a phone, transferring and paying merchants were new to a wide part of the population, and transferring money by phone has since become a daily behaviour. The piece is a defence against complaints of faults and slowness, and it carries no user count, transaction volume, value, agent network or outage record — so what the service does now cannot be sized from it.
 <!-- /narrative -->
 ### Registries
 
@@ -109,5 +109,5 @@ The university opened the first edition of a summer school on language models fo
 ### National statistics
 
 <!-- narrative: data--data-statistics -->
-The fifth general population and housing census [presented its final regional results from 3 August](https://www.ami.mr/archives/265803). No methodology note, response rate or dissemination calendar accompanies the presentation, so what the base holds is that the results exist rather than what they say.
+The fifth general population and housing census [presented its final regional results from 3 August](https://www.ami.mr/archives/265803). No methodology note, response rate or dissemination calendar accompanies the presentation, so what the repository holds is that the results exist rather than what they say.
 <!-- /narrative -->

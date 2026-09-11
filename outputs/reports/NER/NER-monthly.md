@@ -49,7 +49,7 @@ A state observatory monitored the country's media and platforms through a securi
 ### Domestic budget appropriations and expenditure
 
 <!-- narrative: finance--finance-budget -->
-The budget moved and the digital line did not appear in it. The Council of Ministers [rectified the 2026 finance law on 21 August, raising the general State budget from 2,922.22 to 2,980.54 billion FCFA](https://anp.ne/loi-des-finances-2026-le-budget-general-de-letat-au-titre-de-lannee-2026-passe-a-2-98054-milliards-de-francs-cfa/), citing security spending, the government's new configuration, oil prices and tax simplification. Neither it nor the [ordonnance it amends](https://finances.gouv.ne/index.php/lois-de-finances/file/1303-ordonnance-n-2025-44) names an appropriation for communications or the digital economy, so the base holds the total and still not the line.
+The budget moved and the digital line did not appear in it. The Council of Ministers [rectified the 2026 finance law on 21 August, raising the general State budget from 2,922.22 to 2,980.54 billion FCFA](https://anp.ne/loi-des-finances-2026-le-budget-general-de-letat-au-titre-de-lannee-2026-passe-a-2-98054-milliards-de-francs-cfa/), citing security spending, the government's new configuration, oil prices and tax simplification. Neither it nor the [ordonnance it amends](https://finances.gouv.ne/index.php/lois-de-finances/file/1303-ordonnance-n-2025-44) names an appropriation for communications or the digital economy, so the repository holds the total and still not the line.
 <!-- /narrative -->
 
 ## ICT Infrastructure
@@ -59,7 +59,7 @@ The budget moved and the digital line did not appear in it. The Council of Minis
 <!-- narrative: ict-infrastructure--infra-connect -->
 On 27 July the telecommunications regulator [opened a second drive-test campaign over Niamey, running to 28 August 2026](https://www.lesahel.org/communications-electroniques-larcep-lance-une-campagne-de-controle-de-la-qualite-des-services-offerts-par-les-operateurs-de-telephonie-mobile-et-dinternet/), to verify the corrective actions ordered after the April-May control found voice and mobile-data quality deficient at all four operators, with SMS alone compliant and one operator additionally below the 4G coverage thresholds.
 
-Retail pricing moved without the tariff moving. An operator [announced a night bundle of 3.5GB for 500 FCFA usable between 23:00 and 06:00](https://fr.linkedin.com/posts/moovafricaniger_moovafricaniger-unmondenouveauvousappelle-activity-7500583380221136897-nfFf), about 143 FCFA a gigabyte and the second promotional cut in nine months. The last measured basket the base holds is from 2023.
+Retail pricing moved without the tariff moving. An operator [announced a night bundle of 3.5GB for 500 FCFA usable between 23:00 and 06:00](https://fr.linkedin.com/posts/moovafricaniger_moovafricaniger-unmondenouveauvousappelle-activity-7500583380221136897-nfFf), about 143 FCFA a gigabyte and the second promotional cut in nine months. The last measured basket the repository holds is from 2023.
 <!-- /narrative -->
 
 ## DPI
@@ -124,7 +124,7 @@ Two university facilities moved within three days. Dosso [called for projects to
 ### Research institutions
 
 <!-- narrative: capacity--capacity-research -->
-The [Council of Ministers of 21 August 2026 took decisions on research and innovation](https://www.gouv.ne/index.php/les-communiques-du-gouvernement/1284-conclusions-du-conseil-des-ministres-du-vendredi-21-aout-2026). Cabinet conclusions name what is decided without carrying the text of it, so the base holds the announcement and not the instruments.
+The [Council of Ministers of 21 August 2026 took decisions on research and innovation](https://www.gouv.ne/index.php/les-communiques-du-gouvernement/1284-conclusions-du-conseil-des-ministres-du-vendredi-21-aout-2026). Cabinet conclusions name what is decided without carrying the text of it, so the repository holds the announcement and not the instruments.
 <!-- /narrative -->
 
 ## Inclusion

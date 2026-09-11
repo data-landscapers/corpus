@@ -18,7 +18,7 @@ Searching and fetching go through [Exa](https://exa.ai/), in two modes, dependin
 
 **Agent mode**, where the target is a topic — no query string but a written brief, from which the Agent composes and follows its own searches. This is what the open-web sweep runs on, and the per-country, regional and financier briefs. It finds what a query would not, because it can follow a lead. The Somalia report came in that way: Dawan Africa is on no list.
 
-A brief cannot be fenced, so two rules are absolute. **Nothing the Agent writes is ever stored** — its output is a synthesis, exactly the second-hand material the base refuses, so its job ends at discovery. **And its dates are not evidence**: every publication date is re-established from the fetched page.
+A brief cannot be fenced, so two rules are absolute. **Nothing the Agent writes is ever stored** — its output is a synthesis, exactly the second-hand material the repository refuses, so its job ends at discovery. **And its dates are not evidence**: every publication date is re-established from the fetched page.
 
 ## Screening and storing
 
@@ -64,7 +64,7 @@ An archive of classified documents is still not something anyone can read. The w
 - **38 topic pages**, one per Level-2 topic: not a list of what happened, but the argument — what is true of the topic once it is lifted off the country it came from.
 - **1,049 intersections** (September 2026), a place crossed with a topic, where there is sufficient material to require a page of its own.
 
-62 places against 38 topics allows more than two thousand intersections; 1,049 exist. That is the design, not a backlog: the wiki is built to depth on demand, so a thin country page reflects what is being asked of the base rather than how quiet that country is.
+62 places against 38 topics allows more than two thousand intersections; 1,049 exist. That is the design, not a backlog: the wiki is built to depth on demand, so a thin country page reflects what is being asked of the repository rather than how quiet that country is.
 
 All three are compiled from the sources rather than written into, so running a compile twice changes nothing.
 
@@ -78,7 +78,7 @@ A **lint pass** runs alongside. Most of its thirty-odd checks fix rather than re
 
 ## From storage to publication
 
-The publishing side reads the evidence and not the working, and cannot write into the collection repository at all: anything it needs to send back goes to a shared folder outside both, carried across by hand. The site is a derived view of the base, and a derived view that writes to its source stops being derivable.
+The publishing side reads the evidence and not the working, and cannot write into the collection repository at all: anything it needs to send back goes to a shared folder outside both, carried across by hand. The site is a derived view of the repository, and a derived view that writes to its source stops being derivable.
 
 The build rebuilds what is mechanical — the catalogue, the finance dataset, the vocabularies, a names index — then asks the question that needs judgement. For each country it lists the sources **not yet considered** (a set difference, not a date window, so an interrupted run resumes where it stopped) and reads each against that country's **ledger**: one row per named system or instrument, with a status, the event that fixed it, and the sources that establish it. The test for a row is whether a reader could name the thing and whether its position could be different next quarter.
 
@@ -86,7 +86,7 @@ Most sources move nothing, and that is the point of a record layer: a report on 
 
 ## Different outputs for different needs
 
-The monthly update and the progress report are two slices of the same ledger, which is why they cannot disagree: the monthly renders the rows that moved in the last month, the progress report compares each indicator at the two ends of a thirteen-month window. A month in which nothing moved still issues a monthly that says so. The **status report** answers *where is this now*: for most countries it is authored from sources the base will never hold, and revised in place rather than rebuilt — the price of its being able to state things the archive does not.
+The monthly update and the progress report are two slices of the same ledger, which is why they cannot disagree: the monthly renders the rows that moved in the last month, the progress report compares each indicator at the two ends of a thirteen-month window. A month in which nothing moved still issues a monthly that says so. The **status report** answers *where is this now*: for most countries it is authored from sources the repository will never hold, and revised in place rather than rebuilt — the price of its being able to state things the archive does not.
 
 The **bulletin** has no ledger and selects on a window of *publication* — today and yesterday, or today alone from 18:00 — — what the world published, not what Corpus fetched — so an empty window still produces a bulletin saying so, and why. An absent bulletin and a build that did not run are otherwise the same thing.
 

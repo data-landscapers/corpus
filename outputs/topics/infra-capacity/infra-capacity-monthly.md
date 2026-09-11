@@ -19,11 +19,11 @@ The revenue authority's own platform went into production. From 4 August [all ne
 
 ## DR Congo
 
-Assembly capacity for digital hardware appears in this base for the first time, as a framework rather than a plant. The coordination office of the Kinshasa expansion project and an Algerian-led consortium [agreed a memorandum on 30 August for an assembly and production facility at Maluku covering electronic payment terminals, cash machines and computers, with an innovation centre for payment technologies, cybersecurity and applied artificial intelligence and vocational training attached](https://bankable.africa/en/digital/0309-3526-kinshasa-kia-mona-plans-digital-equipment-assembly-facility). No investment figure, production capacity or construction timetable is stated, so what is signed is an intention to cooperate rather than a commitment anyone can be held to.
+Assembly capacity for digital hardware appears in this repository for the first time, as a framework rather than a plant. The coordination office of the Kinshasa expansion project and an Algerian-led consortium [agreed a memorandum on 30 August for an assembly and production facility at Maluku covering electronic payment terminals, cash machines and computers, with an innovation centre for payment technologies, cybersecurity and applied artificial intelligence and vocational training attached](https://bankable.africa/en/digital/0309-3526-kinshasa-kia-mona-plans-digital-equipment-assembly-facility). No investment figure, production capacity or construction timetable is stated, so what is signed is an intention to cooperate rather than a commitment anyone can be held to.
 
 ## Ghana
 
-The cable inventory did not move; what moved is the base's reading of it. The regulator [names five submarine cable providers on an undated page](https://nca.org.gh/submarine-cable-landing/) resting the licence on section 3(8) of the Electronic Communications Act 2008, a list that predates later landings, while an analyst brief [counts six cables at Accra and about 2.5 Tbps of international capacity in use](https://cms.d4dhub.eu/assets/Initiatives/Data-Governance-in-Africa/Digital-Investment-Facility/2507_Country-Market-Briefs/Data-Center-Market-Brief-Ghana.pdf) on a 2024 estimate. Neither is the regulator's own current count.
+The cable inventory did not move; what moved is the repository's reading of it. The regulator [names five submarine cable providers on an undated page](https://nca.org.gh/submarine-cable-landing/) resting the licence on section 3(8) of the Electronic Communications Act 2008, a list that predates later landings, while an analyst brief [counts six cables at Accra and about 2.5 Tbps of international capacity in use](https://cms.d4dhub.eu/assets/Initiatives/Data-Governance-in-Africa/Digital-Investment-Facility/2507_Country-Market-Briefs/Data-Center-Market-Brief-Ghana.pdf) on a 2024 estimate. Neither is the regulator's own current count.
 
 ## Kenya
 
@@ -43,7 +43,7 @@ Cabinet [approved an institute of computing on 24 July](https://www.ktpress.rw/2
 
 ## Senegal
 
-A continental count puts [seven data centres in Senegal at mid-2025, level with Ghana, against South Africa's 56, Kenya's 19 and Nigeria's 17](https://www.seneweb.com/fr/news/16/du-gabon-au-senegal-comment-lafrique-accelere-sur-les-data-centers-pour-ne-plus-brader-ses-donnees_n_500226.html). It is a reference figure, cited and not absorbed: the base holds no Senegalese primary count and no capacity figure at all.
+A continental count puts [seven data centres in Senegal at mid-2025, level with Ghana, against South Africa's 56, Kenya's 19 and Nigeria's 17](https://www.seneweb.com/fr/news/16/du-gabon-au-senegal-comment-lafrique-accelere-sur-les-data-centers-pour-ne-plus-brader-ses-donnees_n_500226.html). It is a reference figure, cited and not absorbed: the repository holds no Senegalese primary count and no capacity figure at all.
 
 ## South Africa
 
@@ -51,4 +51,4 @@ Parliament's science committee reported after an oversight visit that the [Centr
 
 ## Togo
 
-The digital agency's [governance model for building and maintaining government systems](https://ressources.digital.gouv.tg/shares/documentations/Cadre_de_digitalisation_des_services_publics/html/gouvernance.html) is now held: ministry, agency, public institutions, a super-integrator training integrators on the agency's low-code platforms, and integrators. It names giving itself the force of law as still outstanding. What arrived is the base's holding of the document, not a change in the arrangement.
+The digital agency's [governance model for building and maintaining government systems](https://ressources.digital.gouv.tg/shares/documentations/Cadre_de_digitalisation_des_services_publics/html/gouvernance.html) is now held: ministry, agency, public institutions, a super-integrator training integrators on the agency's low-code platforms, and integrators. It names giving itself the force of law as still outstanding. What arrived is the repository's holding of the document, not a change in the arrangement.

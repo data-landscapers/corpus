@@ -40,7 +40,7 @@ What arrived: an executive order that creates a coordination council rather than
 
 ## ict-infrastructure
 
-Satellite broadband regressed. The largest provider had become Nigeria's second-largest ISP on Q4 2024 figures; by September 2025 it had paused new orders over congestion, and by December [more than 66,000 of its users](https://techcabal.com/2025/12/31/starlink-new-biometric-update-for-nigerians/) were required to submit an identity number and headshot under a regime built for SIM cards. [What arrived: a rebased optical backbone, a landing permit for a second satellite constellation, a hyperscale campus at Lekki, four sovereign-cloud initiatives, a cyber resilience framework with four-hour incident reporting, and the removal of the 5% telecom excise duty](https://techcabal.com/2025/12/31/starlink-new-biometric-update-for-nigerians/). The national fibre programme was in development on 2025-08-01 and is in development now. The data-centre estate held its position while the localisation deadline that will test it was set. And the grid behind both has no dated position at either end that the base can state, and the localisation deadline falls on 2027-01-01.
+Satellite broadband regressed. The largest provider had become Nigeria's second-largest ISP on Q4 2024 figures; by September 2025 it had paused new orders over congestion, and by December [more than 66,000 of its users](https://techcabal.com/2025/12/31/starlink-new-biometric-update-for-nigerians/) were required to submit an identity number and headshot under a regime built for SIM cards. [What arrived: a rebased optical backbone, a landing permit for a second satellite constellation, a hyperscale campus at Lekki, four sovereign-cloud initiatives, a cyber resilience framework with four-hour incident reporting, and the removal of the 5% telecom excise duty](https://techcabal.com/2025/12/31/starlink-new-biometric-update-for-nigerians/). The national fibre programme was in development on 2025-08-01 and is in development now. The data-centre estate held its position while the localisation deadline that will test it was set. And the grid behind both has no dated position at either end that the repository can state, and the localisation deadline falls on 2027-01-01.
 
 ## dpi
 
@@ -68,7 +68,7 @@ What arrived: the sovereign multilingual model in September 2025; the risk-based
 
 What held position: the national strategy and trust, the hyperscaler skilling commitments, and the state deployments. All were in place before the window opened and none moved.
 
-The surveillance estate carries no baseline the base can state: the largest AI deployment in the country by expenditure — [above US$470m](https://itweb.africa/article/nigeria-leads-africa-in-470m-ai-surveillance-spend/RgeVDvPRePyMKJN3) on facial recognition and number-plate tracking, with about 10,000 cameras — cannot be dated at either end of a twelve-month window, and the research finding attached to it is that there is little evidence it reduces crime.
+The surveillance estate carries no baseline the repository can state: the largest AI deployment in the country by expenditure — [above US$470m](https://itweb.africa/article/nigeria-leads-africa-in-470m-ai-surveillance-spend/RgeVDvPRePyMKJN3) on facial recognition and number-plate tracking, with about 10,000 cameras — cannot be dated at either end of a twelve-month window, and the research finding attached to it is that there is little evidence it reduces crime.
 
 ## capacity
 

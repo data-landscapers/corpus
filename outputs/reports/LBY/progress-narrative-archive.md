@@ -66,4 +66,4 @@ Access moved the other way. Holders of administrative numbers [protested exclusi
 
 ## gaps
 
-Eleven rows carry no position at either end. Five are subjects the base holds nothing on for Libya — data-centre capacity, power supply to network sites, rural digital services, digital literacy, and any budget appropriation for digital government — so they are absences in the record before they are absences in the country. The rest name systems and instruments the state refers to and the base has not captured, several of them under dated headlines on the General Information Authority's own site.
+Eleven rows carry no position at either end. Five are subjects the repository holds nothing on for Libya — data-centre capacity, power supply to network sites, rural digital services, digital literacy, and any budget appropriation for digital government — so they are absences in the record before they are absences in the country. The rest name systems and instruments the state refers to and the repository has not captured, several of them under dated headlines on the General Information Authority's own site.

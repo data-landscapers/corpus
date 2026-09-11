@@ -37,7 +37,7 @@ The instrument the accreditation was granted under is now held in full: [General
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->
-Namibia said no to a data deal. The government [rejected a United States health data and specimen-sharing proposal, citing sovereignty](https://www.namibian.com.na/us-health-deal-faces-data-privacy-backlash-in-namibia/), while the two sides [raced to finalise HIV funding talks with the data-sharing question still open](https://www.namibian.com.na/critical-moment/). A refusal of this kind is rare enough on this base to be worth recording as its own position. What the record held does not carry is the text of what was proposed, or what the funding now depends on.
+Namibia said no to a data deal. The government [rejected a United States health data and specimen-sharing proposal, citing sovereignty](https://www.namibian.com.na/us-health-deal-faces-data-privacy-backlash-in-namibia/), while the two sides [raced to finalise HIV funding talks with the data-sharing question still open](https://www.namibian.com.na/critical-moment/). A refusal of this kind is rare enough on this repository to be worth recording as its own position. What the record held does not carry is the text of what was proposed, or what the funding now depends on.
 <!-- /narrative -->
 ### Regional collaboration
 
@@ -85,7 +85,7 @@ The identity ministry reported on 23 July that it printed 166,237 identity docum
 
 The regional outreach opened in Omaheke on 27 July and ran to 5 August across all seven constituencies, delivered with a development agency and the regulator ([outreach account](https://neweralive.na/e-ids-outreach-kicks-off-in-omaheke/)). The regional governor said marginalised communities need to be convinced to take up the card, and the ministry team named low literacy as the obstacle to understanding it ([governor's account](https://www.namibiansun.com/technology/govt-dismisses-mark-of-the-beast-conspiracies-over-e-ids-nmh013991-1-17373)).
 
-Alongside the outreach runs a [Youth e-ID Ambassadors Programme, using young people to promote take-up of the credential and civic participation](https://www.undp.org/namibia/news/young-namibians-leading-change-digital-innovation-green-jobs). Participant numbers, cost, duration and any effect on enrolment are unstated, and the funding agency's own account is the only one the base holds.
+Alongside the outreach runs a [Youth e-ID Ambassadors Programme, using young people to promote take-up of the credential and civic participation](https://www.undp.org/namibia/news/young-namibians-leading-change-digital-innovation-green-jobs). Participant numbers, cost, duration and any effect on enrolment are unstated, and the funding agency's own account is the only one the repository holds.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -144,7 +144,7 @@ Two small pieces of plumbing. The ninth national ICT summit [received over N$1.2
 ### Training and skills
 
 <!-- narrative: capacity--capacity-training -->
-A private provider [opened an artificial-intelligence academy in Windhoek](https://futuremedianews.com.na/2026/08/25/v5-digital-launches-ai-academy-for-namibian-organisations/) for Namibian organisations. It is a commercial offering rather than a public programme, which is what the base otherwise holds nothing of here; no intake, curriculum or fee structure is published.
+A private provider [opened an artificial-intelligence academy in Windhoek](https://futuremedianews.com.na/2026/08/25/v5-digital-launches-ai-academy-for-namibian-organisations/) for Namibian organisations. It is a commercial offering rather than a public programme, which is what the repository otherwise holds nothing of here; no intake, curriculum or fee structure is published.
 <!-- /narrative -->
 
 ## Inclusion

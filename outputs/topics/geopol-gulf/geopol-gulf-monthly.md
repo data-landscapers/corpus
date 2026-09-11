@@ -15,7 +15,7 @@ record: b86ce3e9a2f2
 
 ## Botswana
 
-The heads of agreement behind the data centre are unchanged, and the [operator's quarterly account of 3 August does not name the counterparty](https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85). It remains the only source of its kind the base holds for Botswana at any date.
+The heads of agreement behind the data centre are unchanged, and the [operator's quarterly account of 3 August does not name the counterparty](https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85). It remains the only source of its kind the repository holds for Botswana at any date.
 
 ## Gambia
 
@@ -23,7 +23,7 @@ Gulf involvement is now on the record in two forms, neither carrying a figure. T
 
 ## Kenya
 
-Kenya and Qatar [agreed on 12 August to institutionalise annual bilateral political consultations](https://www.zawya.com/en/press-release/africa-press-releases/kenya-qatar-agree-to-deepen-bilateral-cooperation-429489), the inaugural round led on the Kenyan side at principal secretary level. The account names no digital instrument, no committed amount and no project. That is the shape of the Gulf record here generally: seven memoranda signed with the United Arab Emirates in May 2025 and diaspora consultations in Riyadh in July 2026, none of them describing what was agreed in terms this base can put on a system or an instrument.
+Kenya and Qatar [agreed on 12 August to institutionalise annual bilateral political consultations](https://www.zawya.com/en/press-release/africa-press-releases/kenya-qatar-agree-to-deepen-bilateral-cooperation-429489), the inaugural round led on the Kenyan side at principal secretary level. The account names no digital instrument, no committed amount and no project. That is the shape of the Gulf record here generally: seven memoranda signed with the United Arab Emirates in May 2025 and diaspora consultations in Riyadh in July 2026, none of them describing what was agreed in terms this repository can put on a system or an instrument.
 
 ## South Sudan
 

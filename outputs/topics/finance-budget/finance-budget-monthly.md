@@ -23,7 +23,7 @@ The money behind the finance inspectorate's digitalisation is domestic. The US$2
 
 ## Egypt
 
-The sector's own money was put before parliament. The planning minister told the House of Representatives that [EGP 13bn of public investment is allocated to the communications and information technology sector in the 2025/26 plan](https://moic.gov.eg/news/2134), against plan targets of US$8.5bn in annual digital exports of which US$6bn from outsourcing. It is a plan allocation rather than an outturn, and the base holds no execution figure against it — nor any published state digital appropriation, which is recorded as ***Not held***.
+The sector's own money was put before parliament. The planning minister told the House of Representatives that [EGP 13bn of public investment is allocated to the communications and information technology sector in the 2025/26 plan](https://moic.gov.eg/news/2134), against plan targets of US$8.5bn in annual digital exports of which US$6bn from outsourcing. It is a plan allocation rather than an outturn, and the repository holds no execution figure against it — nor any published state digital appropriation, which is recorded as ***Not held***.
 
 ## Gambia
 
@@ -33,11 +33,11 @@ Four days later the revenue authority [published a 2026 target of D27.5 billion]
 
 ## Niger
 
-The budget moved and the digital line did not appear in it. The Council of Ministers [rectified the 2026 finance law on 21 August, raising the general State budget from 2,922.22 to 2,980.54 billion FCFA](https://anp.ne/loi-des-finances-2026-le-budget-general-de-letat-au-titre-de-lannee-2026-passe-a-2-98054-milliards-de-francs-cfa/), citing security spending, the government's new configuration, oil prices and tax simplification. Neither it nor the [ordonnance it amends](https://finances.gouv.ne/index.php/lois-de-finances/file/1303-ordonnance-n-2025-44) names an appropriation for communications or the digital economy, so the base holds the total and still not the line.
+The budget moved and the digital line did not appear in it. The Council of Ministers [rectified the 2026 finance law on 21 August, raising the general State budget from 2,922.22 to 2,980.54 billion FCFA](https://anp.ne/loi-des-finances-2026-le-budget-general-de-letat-au-titre-de-lannee-2026-passe-a-2-98054-milliards-de-francs-cfa/), citing security spending, the government's new configuration, oil prices and tax simplification. Neither it nor the [ordonnance it amends](https://finances.gouv.ne/index.php/lois-de-finances/file/1303-ordonnance-n-2025-44) names an appropriation for communications or the digital economy, so the repository holds the total and still not the line.
 
 ## Senegal
 
-The constraint on that deployment is money, and the agency said so itself. On 17 August its director-general said [the agency's 2026 budget had still not been notified](https://aps.sn/kaolack-lanec-accelere-la-digitalisation-de-letat-civil/), and named that as what is holding back the pace of the Kaolack phase — the deployment of the civil-status software and activation of the citizen request platform across Nioro, Ndiedieng and Kaolack between 10 and 20 August. The base holds no appropriation figure for the agency for 2026, which is recorded as a gap.
+The constraint on that deployment is money, and the agency said so itself. On 17 August its director-general said [the agency's 2026 budget had still not been notified](https://aps.sn/kaolack-lanec-accelere-la-digitalisation-de-letat-civil/), and named that as what is holding back the pace of the Kaolack phase — the deployment of the civil-status software and activation of the citizen request platform across Nioro, Ndiedieng and Kaolack between 10 and 20 August. The repository holds no appropriation figure for the agency for 2026, which is recorded as a gap.
 
 ## Sudan
 

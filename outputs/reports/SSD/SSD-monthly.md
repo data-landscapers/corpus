@@ -55,14 +55,14 @@ The e-government contract came under an allegation the minister denies. The info
 ### Connectivity
 
 <!-- narrative: ict-infrastructure--infra-connect -->
-Prices rose and the numbers behind them did not appear. The information minister [publicly defended the telecommunications tariff increase on 24 August](https://www.radiotamazuj.org/en/news/article/information-minister-ateny-defends-telecom-tariff-increase); the regulator maintains it is a revision of the exchange rate used to calculate charges rather than a tariff increase, and neither regulator nor operators have published the revised rates. A cost defended without a price is a position the base can record and a reader cannot check.
+Prices rose and the numbers behind them did not appear. The information minister [publicly defended the telecommunications tariff increase on 24 August](https://www.radiotamazuj.org/en/news/article/information-minister-ateny-defends-telecom-tariff-increase); the regulator maintains it is a revision of the exchange rate used to calculate charges rather than a tariff increase, and neither regulator nor operators have published the revised rates. A cost defended without a price is a position the repository can record and a reader cannot check.
 
 Regionally, East African states [opened a joint bank account to fund a feasibility study for a communications satellite, with deposits due by 30 September 2026](https://chimpreports.com/east-african-states-open-bank-account-to-fund-joint-communications-satellite-study/). No contribution figure for this country, study scope or reporting date is stated.
 <!-- /narrative -->
 ### Data Storage
 
 <!-- narrative: ict-infrastructure--infra-store -->
-The only nationally owned data centre in the base is a [Tier 2 facility at Hai Malakal in Juba](https://trinitytechnologies.tech/about.html) offering colocation, hosting, data management, backup and replication, run by a South Sudanese-owned operator and commissioned in 2019. No capacity figure or power rating is published, and no second national provider appears.
+The only nationally owned data centre in the repository is a [Tier 2 facility at Hai Malakal in Juba](https://trinitytechnologies.tech/about.html) offering colocation, hosting, data management, backup and replication, run by a South Sudanese-owned operator and commissioned in 2019. No capacity figure or power rating is published, and no second national provider appears.
 <!-- /narrative -->
 ### Energy
 
@@ -78,7 +78,7 @@ The larger supply picture moved too: the energy minister reported on 18 August t
 
 <!-- narrative: dpi--dpi-exchange -->
 
-The only description the base holds of how import revenue is actually collected is an account of a sanctioned contractor collecting it. A UK-registered firm [manages national revenue through a US-dollar e-Permit charge levied on imports before any tax assessment is issued, enforced at all border points by the Ugandan and Kenyan revenue authorities alongside the firm's own staff deployed under national revenue authority cover](https://thecapitaltimes.co.ug/on-the-spot-ura-links-with-us-sanctioned-south-sudan-firm-crawford-capital-raises-concern), and collection has continued since the United States sanctioned the firm on 12 May over the diversion of public resources and foreign assistance. The Tanzanian and Rwandan revenue authorities have publicly dissociated themselves. No contract, legal instrument or revenue figure is published, and no national authority is recorded as answering the account.
+The only description the repository holds of how import revenue is actually collected is an account of a sanctioned contractor collecting it. A UK-registered firm [manages national revenue through a US-dollar e-Permit charge levied on imports before any tax assessment is issued, enforced at all border points by the Ugandan and Kenyan revenue authorities alongside the firm's own staff deployed under national revenue authority cover](https://thecapitaltimes.co.ug/on-the-spot-ura-links-with-us-sanctioned-south-sudan-firm-crawford-capital-raises-concern), and collection has continued since the United States sanctioned the firm on 12 May over the diversion of public resources and foreign assistance. The Tanzanian and Rwandan revenue authorities have publicly dissociated themselves. No contract, legal instrument or revenue figure is published, and no national authority is recorded as answering the account.
 <!-- /narrative -->
 ### Digital Identity and CRVS
 
@@ -116,7 +116,7 @@ On 5 August the education ministry [launched an Education in Emergencies Managem
 ### Literacy
 
 <!-- narrative: capacity--capacity-literacy -->
-Renovation began in August on [three government facilities designated as digital skills centres in Central Equatoria](https://www.sceniushub.com/post/scenius-hub-and-central-equatoria-state-ministry-of-information-and-communication-advance-implement) under a five-year programme aimed partly at civil servants. It is the first physical training capacity in the base, and it lands against a service whose digital literacy has been described as low since 2023 and never measured.
+Renovation began in August on [three government facilities designated as digital skills centres in Central Equatoria](https://www.sceniushub.com/post/scenius-hub-and-central-equatoria-state-ministry-of-information-and-communication-advance-implement) under a five-year programme aimed partly at civil servants. It is the first physical training capacity in the repository, and it lands against a service whose digital literacy has been described as low since 2023 and never measured.
 <!-- /narrative -->
 ### Training and skills
 

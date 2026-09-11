@@ -43,7 +43,7 @@ The capital’s council put a date on its own modernisation. Bissau city council
 
 ## Malawi
 
-The spending dashboard is running and its address is not on the record. The ministry [stated the real-time constituency development fund dashboard's coverage and its complaints channel](https://www.nyasatimes.com/ben-phiri-unveils-malawis-real-time-cdf-dashboard-as-minister-flags-erosion-of-trust-risk-in-councils/), at the same event that disclosed councils receiving clean audit opinions falling to 18 in 2024/25 from 22 the year before. No address for the dashboard is established in anything the base holds, so a transparency instrument published against a falling audit record cannot itself be inspected.
+The spending dashboard is running and its address is not on the record. The ministry [stated the real-time constituency development fund dashboard's coverage and its complaints channel](https://www.nyasatimes.com/ben-phiri-unveils-malawis-real-time-cdf-dashboard-as-minister-flags-erosion-of-trust-risk-in-councils/), at the same event that disclosed councils receiving clean audit opinions falling to 18 in 2024/25 from 22 the year before. No address for the dashboard is established in anything the repository holds, so a transparency instrument published against a falling audit record cannot itself be inspected.
 
 ## Mali
 
@@ -67,7 +67,7 @@ The argument about local delivery was made in public. A published commentary [he
 
 ## Senegal
 
-The one local-records digitisation with a published figure entered the base: through the building-permit platform [more than 200,000 permit files were digitised and the physical archives of the Dakar region's urbanism directorates secured](https://www.adie.sn/projets/teledac). The platform moves the permit procedure online across four Dakar communes, extended to the region's 52 communes and 10 sub-prefectures, and now carries dozens of procedures across other sectors. Coverage is the Dakar region, not the country, and the page carries no date of its own.
+The one local-records digitisation with a published figure entered the repository: through the building-permit platform [more than 200,000 permit files were digitised and the physical archives of the Dakar region's urbanism directorates secured](https://www.adie.sn/projets/teledac). The platform moves the permit procedure online across four Dakar communes, extended to the region's 52 communes and 10 sub-prefectures, and now carries dozens of procedures across other sectors. Coverage is the Dakar region, not the country, and the page carries no date of its own.
 
 ## South Africa
 
@@ -77,7 +77,7 @@ That is an addition to the record rather than a development. No compliance asses
 
 Two municipal items, one opening a counter and one pricing the problem. Home Affairs [opened an appointment-only office inside the Cape Town Civic Centre on 24 August, which the city describes as the first municipal facility to host a national home affairs office; 148 people applied on the opening day, and Atlantis is named next](https://www.timeslive.co.za/news/south-africa/2026-08-24-cape-town-residents-get-a-new-way-to-beat-home-affairs-queues/). The local government association [issued a request for proposal for consultants to build a municipal revenue management plan across the 257 municipalities it represents, putting consumer debt at about R467.2bn, municipalities' own debt to creditors at about R160.8bn, and annual water and electricity revenue loss at about R25bn from leaks, theft, illegal connections and weaknesses in metering and billing](https://www.sundaytimes.timeslive.co.za/news/2026-08-24-salga-needs-consultants-help-to-fix-almost-r500bn-municipal-debt/).
 
-A second province published delivery figures rather than a platform. The Gauteng department's 2025/26 annual report records [96 public Wi-Fi hotspots installed at schools, libraries, hospitals, clinics, hostels and licence testing centres, offering up to 500MB of free internet a day, alongside 33 e-services live, 99% provincial network uptime and 7,271 cameras on the provincial safety network](https://www.gov.za/news/media-statements/gauteng-e-government-accelerates-digital-transformation-e-gov-delivers-more). It is the department's own account as presented to the legislature, with no audited outturn, usage figure or prior-year comparison in what the base holds.
+A second province published delivery figures rather than a platform. The Gauteng department's 2025/26 annual report records [96 public Wi-Fi hotspots installed at schools, libraries, hospitals, clinics, hostels and licence testing centres, offering up to 500MB of free internet a day, alongside 33 e-services live, 99% provincial network uptime and 7,271 cameras on the provincial safety network](https://www.gov.za/news/media-statements/gauteng-e-government-accelerates-digital-transformation-e-gov-delivers-more). It is the department's own account as presented to the legislature, with no audited outturn, usage figure or prior-year comparison in what the repository holds.
 
 ## Sudan
 
@@ -105,4 +105,4 @@ Connectivity followed the collection: the state ICT institute [equipped a town c
 
 ## Zimbabwe
 
-The base's first evidence on the subnational tier is one council's own statement. Kwekwe City Council [bills rates, refuse, sewerage and water centrally through a municipal resource-planning package, each property carrying a unique account number and tariff code](https://kwekwecity.org.zw/departments/finance/), and names information technology and e-governance among its finance department's five key functions. No user count, collection rate or digital-channel adoption figure is published, and nothing establishes the council as representative of other local authorities.
+The repository's first evidence on the subnational tier is one council's own statement. Kwekwe City Council [bills rates, refuse, sewerage and water centrally through a municipal resource-planning package, each property carrying a unique account number and tariff code](https://kwekwecity.org.zw/departments/finance/), and names information technology and e-governance among its finance department's five key functions. No user count, collection rate or digital-channel adoption figure is published, and nothing establishes the council as representative of other local authorities.

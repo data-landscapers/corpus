@@ -20,7 +20,7 @@ Over the twelve months Côte d'Ivoire moved from a legislative story to an opera
 
 ## governance
 
-The regulatory institutions moved and the statutes did not. A new six-year regulatory council took office in May 2026; the cyber agency consolidated a cybercrime unit, an emergency response team and an alert line into an operating apparatus; a register of data-protection officers was created; and a compliance platform replaced paper. Across the same year, the 2013 data-protection law and the 2013 electronic-transactions law were not amended, and the base is no closer to holding their texts or their decrees than it was a year ago.
+The regulatory institutions moved and the statutes did not. A new six-year regulatory council took office in May 2026; the cyber agency consolidated a cybercrime unit, an emergency response team and an alert line into an operating apparatus; a register of data-protection officers was created; and a compliance platform replaced paper. Across the same year, the 2013 data-protection law and the 2013 electronic-transactions law were not amended, and the repository is no closer to holding their texts or their decrees than it was a year ago.
 
 The clearest regression is in publication. The regulator's statutory annual activity report has now been absent for 2024 as well as 2023, and [the levy that funds it was cut 43.8% to FCFA 2.58bn for 2026](https://www.dgbf.ci/wp-content/uploads/2025/12/Loi-de-Finances-2026.pdf). A regulator that acquired new tooling and new leadership this year still has no published account of what its levy buys.
 
@@ -50,7 +50,7 @@ The service layer filled in around them: an identity-backed postal application a
 
 At the window's opening this section was a strategy stack and little else: two documents handed to the Prime Minister five months earlier and not demonstrably adopted, a costing of FCFA 912bn with no appropriation behind it, a startup act from 2023 with no labelled companies, and an innovation fund three weeks old.
 
-Twelve months on, artificial intelligence has moved from paper into two operating things — a citizen assistant in March 2026 and a draft cyber-security strategy that for the first time puts the technology inside a binding-track national instrument, and does so under the cyber authority rather than the digital ministry. The United States relationship converted from announcement to authorisation. A Chinese layer became visible at all, where the base previously held none. And the ministry replaced its expiring strategy with a 2026 to 2028 roadmap, then added two accelerators and a state procurement channel in the last week of July.
+Twelve months on, artificial intelligence has moved from paper into two operating things — a citizen assistant in March 2026 and a draft cyber-security strategy that for the first time puts the technology inside a binding-track national instrument, and does so under the cyber authority rather than the digital ministry. The United States relationship converted from announcement to authorisation. A Chinese layer became visible at all, where the repository previously held none. And the ministry replaced its expiring strategy with a 2026 to 2028 roadmap, then added two accelerators and a state procurement channel in the last week of July.
 
 Everything else sits where it sat. The safe-artificial-intelligence label, the national committee, the promised agency, the acceleration programme, the FCFA 100bn fund and the industry strategy have not moved in a year, and several have gone a full year without a further mention. The fund's own six-month mobilisation window closed in January 2026 with nothing capitalised.
 
@@ -66,7 +66,7 @@ What merely accreted detail: the rural programme delivered 500 of 575 and the sh
 
 ## data
 
-One row moved, and it is a count rather than a capability: the enterprise census [reached 1.4 million entities by 5 June 2025 and promised aggregated results before year-end](https://www.fratmat.info/article/2634457/economie/recensement-general-des-entreprises-et-etablissements-14-million-dentites-recensees), which the base cannot confirm happened. The access-to-information programme has published [nothing later than its own launch](https://www.fratmat.info/article/2635603/culture/access-caidp-un-tournant-pour-la-transparence-et-lacces-a-linformation-en-cote-divoire), and the Grand Abidjan geoportal is [still not built](https://www.fratmat.info/article/2642517/economie/ville-intelligente-le-projet-de-promotion-du-geoportail-du-grand-abidjan-lance).
+One row moved, and it is a count rather than a capability: the enterprise census [reached 1.4 million entities by 5 June 2025 and promised aggregated results before year-end](https://www.fratmat.info/article/2634457/economie/recensement-general-des-entreprises-et-etablissements-14-million-dentites-recensees), which the repository cannot confirm happened. The access-to-information programme has published [nothing later than its own launch](https://www.fratmat.info/article/2635603/culture/access-caidp-un-tournant-pour-la-transparence-et-lacces-a-linformation-en-cote-divoire), and the Grand Abidjan geoportal is [still not built](https://www.fratmat.info/article/2642517/economie/ville-intelligente-le-projet-de-promotion-du-geoportail-du-grand-abidjan-lance).
 
 ## geopolitics
 

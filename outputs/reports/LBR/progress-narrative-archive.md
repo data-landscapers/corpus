@@ -58,4 +58,4 @@ The one place inclusion moved was education: the Ministry of Education's [digita
 
 ## gaps
 
-Nine rows carry no position at either end, six of them subjects the base holds nothing on and three documents the record points at without containing. Two of the three are instruments the state has itself said it needs: a national cybersecurity strategy, whose absence the House recorded when it ordered the breach investigation, and the interoperability framework the digital-government order provides for. None was probed within this period; each is carried into the next.
+Nine rows carry no position at either end, six of them subjects the repository holds nothing on and three documents the record points at without containing. Two of the three are instruments the state has itself said it needs: a national cybersecurity strategy, whose absence the House recorded when it ordered the breach investigation, and the interoperability framework the digital-government order provides for. None was probed within this period; each is carried into the next.

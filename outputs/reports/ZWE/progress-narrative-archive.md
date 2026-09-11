@@ -66,7 +66,7 @@ Free public wireless hotspots went from an unnumbered installation programme to 
 
 ## gaps
 
-Twenty-eight rows are ***Not held*** at both ends, and all 28 were searched on 6 August. Twenty-five name published documents and three are searched absences — among them the local-ownership rule for telecommunications operators, which the base could see only as a headline in captured page furniture and which the probe establishes was made and then repealed within weeks.
+Twenty-eight rows are ***Not held*** at both ends, and all 28 were searched on 6 August. Twenty-five name published documents and three are searched absences — among them the local-ownership rule for telecommunications operators, which the repository could see only as a headline in captured page furniture and which the probe establishes was made and then repealed within weeks.
 
 Three of them tightened during the window. The regulator's first-quarter 2026 report is absent, so the fibre and base-station figures this report carries for that quarter come from a ministerial briefing rather than from the series that would corroborate them. The universal services fund's accounts are absent, at the point where the fund is being committed to a tower relocation programme, a year of school and digital-centre connectivity, and an unquantified artificial-intelligence share. And the satellite operator's licence terms are absent, while [its subscriptions grew 67% across the window](https://technomag.co.zw/wp-content/uploads/2026/04/Q4-2025-Abridged-Sector-performance-report-HMed-final-1.pdf) and a continental study set African licence fees against what states charge for mobile spectrum.
 

@@ -31,7 +31,7 @@ School equipment moved as procurement. A national request for proposals [opened 
 
 ## Cameroon
 
-Training moved as a building rather than as a cohort. Stakeholders [met on 20 August on a public-service digital training campus and its learning platform](https://globalinfosnews.com/smart-campus-lms-formation-4-0-la-mutation-numerique-des-agents-publics-camerounais-est-en-marche/). No site, budget, curriculum or intake is published, so what the base holds is an intention with a meeting behind it.
+Training moved as a building rather than as a cohort. Stakeholders [met on 20 August on a public-service digital training campus and its learning platform](https://globalinfosnews.com/smart-campus-lms-formation-4-0-la-mutation-numerique-des-agents-publics-camerounais-est-en-marche/). No site, budget, curriculum or intake is published, so what the repository holds is an intention with a meeting behind it.
 
 ## Comoros
 
@@ -47,7 +47,7 @@ Outside the service, a German-funded accelerator closed a three-month cohort on 
 
 ## Djibouti
 
-Against unemployment, the state is [using digital channels to connect graduates with recruiters](https://www.wearetech.africa/fr/fils/actualites/tech/face-au-chomage-djibouti-mise-sur-le-numerique-pour-connecter-diplomes-et-recruteurs). The account names no platform, no registration count and no placement figure, so what is held is a stated direction rather than a measurable one. It is read here alongside the [spring economic monitor](https://documents1.worldbank.org/curated/en/099209305122650698/pdf/IDU-3d483253-60ba-4a4c-b634-fc8f02408c05.pdf), whose school-to-work analysis is the closest thing the base holds to a measure of the problem the initiative is written against.
+Against unemployment, the state is [using digital channels to connect graduates with recruiters](https://www.wearetech.africa/fr/fils/actualites/tech/face-au-chomage-djibouti-mise-sur-le-numerique-pour-connecter-diplomes-et-recruteurs). The account names no platform, no registration count and no placement figure, so what is held is a stated direction rather than a measurable one. It is read here alongside the [spring economic monitor](https://documents1.worldbank.org/curated/en/099209305122650698/pdf/IDU-3d483253-60ba-4a4c-b634-fc8f02408c05.pdf), whose school-to-work analysis is the closest thing the repository holds to a measure of the problem the initiative is written against.
 
 ## DR Congo
 
@@ -63,7 +63,7 @@ The state's university artificial-intelligence programme closed its fourth round
 
 ## Equatorial Guinea
 
-An investigation opened into [where more than 425 million CFA francs allocated to equip the university computer room at Bata went](https://realequatorialguinea.com/sociedad/investigan-el-destino-de-mas-de-425-millones-de-francos-cfa-para-equipar-la-sala-de-informatica-de-la-unge-en-bata/). It is a capacity line the base can date and price, and cannot yet say produced anything; no finding, charge or recovery has followed.
+An investigation opened into [where more than 425 million CFA francs allocated to equip the university computer room at Bata went](https://realequatorialguinea.com/sociedad/investigan-el-destino-de-mas-de-425-millones-de-francos-cfa-para-equipar-la-sala-de-informatica-de-la-unge-en-bata/). It is a capacity line the repository can date and price, and cannot yet say produced anything; no finding, charge or recovery has followed.
 
 ## Eswatini
 
@@ -83,7 +83,7 @@ More than 130 young people have been [trained in cybersecurity, networks, artifi
 
 ## Gambia
 
-The national university's technology school [offers three bachelor's degrees and six-month diplomas in artificial intelligence, cybersecurity and data science](https://www.utg.edu.gm/schools-faculties/itc/), the widest named provision the base holds. It follows the President's June direction to the applied science university to [fast-track a second phase including a college of computer engineering](https://op.gov.gm/statement-his-excellency-president-adama-barrow-chancellor-gambia-university-applied-science).
+The national university's technology school [offers three bachelor's degrees and six-month diplomas in artificial intelligence, cybersecurity and data science](https://www.utg.edu.gm/schools-faculties/itc/), the widest named provision the repository holds. It follows the President's June direction to the applied science university to [fast-track a second phase including a college of computer engineering](https://op.gov.gm/statement-his-excellency-president-adama-barrow-chancellor-gambia-university-applied-science).
 
 ## Ghana
 
@@ -107,7 +107,7 @@ MICSTI reported [digital-literacy training running across all ten districts](htt
 
 UNDP also [announced a partnership with the University of Liberia to establish the country's first master's degree in artificial intelligence](https://www.undp.org/liberia/blog/liberias-digital-future-will-be-defined-investments-we-make-people-today), with no commitment amount disclosed.
 
-A second route into the national university was signed rather than built: a [tripartite memorandum of 27 August under which a foreign online university covers 97% of online tuition for more than 200 students, with three smart classrooms due in 2027](https://www.liberianobserver.com/news/ul-signs-tripartite-partnership/article_5cddfcff-d093-4f21-a8b5-4ad801df628a.html). No commitment amount is stated, so what the base holds is a tuition-waiver share, a student count and a classroom count with no money behind any of them. [National stakeholder consultations on establishing the university's master's programme in artificial intelligence are running with UNDP support](https://www.undp.org/liberia/press-releases/building-liberias-ai-future-undp-ul-consult-stakeholders), bringing together government institutions, development partners, academia, private-sector actors and civil society.
+A second route into the national university was signed rather than built: a [tripartite memorandum of 27 August under which a foreign online university covers 97% of online tuition for more than 200 students, with three smart classrooms due in 2027](https://www.liberianobserver.com/news/ul-signs-tripartite-partnership/article_5cddfcff-d093-4f21-a8b5-4ad801df628a.html). No commitment amount is stated, so what the repository holds is a tuition-waiver share, a student count and a classroom count with no money behind any of them. [National stakeholder consultations on establishing the university's master's programme in artificial intelligence are running with UNDP support](https://www.undp.org/liberia/press-releases/building-liberias-ai-future-undp-ul-consult-stakeholders), bringing together government institutions, development partners, academia, private-sector actors and civil society.
 
 ## Libya
 
@@ -145,7 +145,7 @@ The European Union digital programme's training reached delivery. [Pilot trainin
 
 ## Namibia
 
-A private provider [opened an artificial-intelligence academy in Windhoek](https://futuremedianews.com.na/2026/08/25/v5-digital-launches-ai-academy-for-namibian-organisations/) for Namibian organisations. It is a commercial offering rather than a public programme, which is what the base otherwise holds nothing of here; no intake, curriculum or fee structure is published.
+A private provider [opened an artificial-intelligence academy in Windhoek](https://futuremedianews.com.na/2026/08/25/v5-digital-launches-ai-academy-for-namibian-organisations/) for Namibian organisations. It is a commercial offering rather than a public programme, which is what the repository otherwise holds nothing of here; no intake, curriculum or fee structure is published.
 
 ## Niger
 
@@ -182,7 +182,7 @@ On the skills side, [eighty young people graduated from a nine-month digital-lit
 
 ## Somalia
 
-In the north, the Somaliland administration [launched fixed-asset training for public financial accountability on 4 August](https://www.somalilandcurrent.com/somaliland-launches-major-fixed-asset-training-to-strengthen-public-financial-accountability/). No participant total, system or completion date is stated, and the base carries no earlier position for it.
+In the north, the Somaliland administration [launched fixed-asset training for public financial accountability on 4 August](https://www.somalilandcurrent.com/somaliland-launches-major-fixed-asset-training-to-strengthen-public-financial-accountability/). No participant total, system or completion date is stated, and the repository carries no earlier position for it.
 
 ## South Africa
 
@@ -194,7 +194,7 @@ One intervention was announced against that pipeline, at the far end of the coun
 
 The industry association put up a route of its own, [launching a portal to link employers, ICT jobseekers and graduates and professional development in one platform rather than as a conventional job board, against what it calls the disconnect between people holding ICT skills and the businesses that need them](https://www.itweb.co.za/article/saicta-targets-ict-jobs-gap-with-new-portal/KjlyrvwBrx5qk6am); no listing, placement or funding figure accompanies it. At the other end of the pipeline, industry began paying for places itself. Two domestic firms [joined a data-centre operations academy as industry partners and are sponsoring a full candidate cohort for its 2026 intake, the first South African firms to fund a whole cohort, one opening a newly launched Midrand OEM training facility and the other a live operational data centre to supply the practical component of a graduate-to-employment pipeline](https://datacentresafrica.com/master-power-technologies-and-digital-parks-africa-join-ibtc-dc-academy-as-key-ecosystem-partners/), the sponsoring founder framing it as a recruitment expense rather than a training one — which is the clearest statement yet of why the estate's operators are not waiting for the state pipeline above. No cohort size, placement rate or cost per place is published.
 
-The demand side was measured, and it is worse than the delivery programmes suggest. Employers report [about 55% of workers showing little or no proficiency in mathematics or data skills, 55% saying their workforce has only basic digital literacy, 52% finding it difficult to hire anyone prepared for digital transformation and 70% rating workforce technology skills poor or very poor, against 118,500 unfilled ICT vacancies of which 36% are junior roles](https://businessexplainer.co.za/opinion/2026/09/07/sa-is-not-future-ready-says-oosthuysen/) — with the country placed second in the world on education spending and 67th on digital skills. The figures reach the base through an industry opinion piece citing a university survey and a non-profit's vacancy count; neither underlying dataset is held, and the ranking pair is quoted without its index.
+The demand side was measured, and it is worse than the delivery programmes suggest. Employers report [about 55% of workers showing little or no proficiency in mathematics or data skills, 55% saying their workforce has only basic digital literacy, 52% finding it difficult to hire anyone prepared for digital transformation and 70% rating workforce technology skills poor or very poor, against 118,500 unfilled ICT vacancies of which 36% are junior roles](https://businessexplainer.co.za/opinion/2026/09/07/sa-is-not-future-ready-says-oosthuysen/) — with the country placed second in the world on education spending and 67th on digital skills. The figures reach the repository through an industry opinion piece citing a university survey and a non-profit's vacancy count; neither underlying dataset is held, and the ranking pair is quoted without its index.
 
 ## South Sudan
 
@@ -206,9 +206,9 @@ Türkiye's higher education council and the Sudanese higher education ministry [
 
 ## Tanzania
 
-Training in the window is bought rather than built. Zanzibar's public service [signed a three-year memorandum for artificial-intelligence and cybersecurity capacity building](https://www.thecitizen.co.tz/tanzania/zanzibar/zanzibar-public-servants-to-build-capacity-in-ai-cybersecurity-5560558), and an operator's foundation [expanded its digital skills programme for young people](https://techafricanews.com/2026/08/26/airtel-africa-foundation-digital-skills-tanzanian-youth/). Neither carries a cohort size, curriculum, certification or cost on the record held, so the base can date the commitments and cannot size them.
+Training in the window is bought rather than built. Zanzibar's public service [signed a three-year memorandum for artificial-intelligence and cybersecurity capacity building](https://www.thecitizen.co.tz/tanzania/zanzibar/zanzibar-public-servants-to-build-capacity-in-ai-cybersecurity-5560558), and an operator's foundation [expanded its digital skills programme for young people](https://techafricanews.com/2026/08/26/airtel-africa-foundation-digital-skills-tanzanian-youth/). Neither carries a cohort size, curriculum, certification or cost on the record held, so the repository can date the commitments and cannot size them.
 
-The instrument behind teacher training entered the base, and it is eleven years old. The [2015 ICT competency standards for teachers, built with the United Nations education agency on its global framework and covering six modules across two knowledge stages](https://teachertaskforce.org/sites/default/files/2022-12/2015_MoE-and-vocational-training-Tanzania-UNESCO_ICT-competency-standards-for-teachers-in-Tanzania_EN.pdf), are what the base holds; a 2025 revision is referred to and not published. Delivery against the revision moved in the window — government secondary school teachers took a [four-day programme in Arusha from 1 to 4 September covering 10 of the revised standards' 15 modules, under a third phase funded through a Korean funds-in-trust arrangement](https://dailynews.co.tz/tanzanias-digital-education-transformation-begins-with-the-teacher/) — which is the first time the base can see modules being delivered rather than a training count. Fifteen modules against the held text's six is the gap the unpublished revision would close, and no teacher-reach figure is published against the target the digital economy framework carries.
+The instrument behind teacher training entered the repository, and it is eleven years old. The [2015 ICT competency standards for teachers, built with the United Nations education agency on its global framework and covering six modules across two knowledge stages](https://teachertaskforce.org/sites/default/files/2022-12/2015_MoE-and-vocational-training-Tanzania-UNESCO_ICT-competency-standards-for-teachers-in-Tanzania_EN.pdf), are what the repository holds; a 2025 revision is referred to and not published. Delivery against the revision moved in the window — government secondary school teachers took a [four-day programme in Arusha from 1 to 4 September covering 10 of the revised standards' 15 modules, under a third phase funded through a Korean funds-in-trust arrangement](https://dailynews.co.tz/tanzanias-digital-education-transformation-begins-with-the-teacher/) — which is the first time the repository can see modules being delivered rather than a training count. Fifteen modules against the held text's six is the gap the unpublished revision would close, and no teacher-reach figure is published against the target the digital economy framework carries.
 
 ## Togo
 

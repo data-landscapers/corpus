@@ -18,7 +18,7 @@ renderer used.*
 
 Zambia spent the twelve months to 6 August 2026 building collection systems and enforcement powers, and did not move the two measures that would show digital services reaching people. Government services onboarded rose from about 300 to over 400 ([Accountant General's office](https://itweb.africa/article/digital-services-strengthen-zambia-finances/JBwEr7n3zk3M6Db2)), a government-owned private 4G network was launched, and enforcement of the Cyber Crimes Act was declared fully operational ([enforcement account](https://africabusinessinsight.com/zambia-begins-enforcing-controversial-cyber-crimes-act-amid-digital-economy-growth/)).
 
-Over the same period internet use held at 33.0% of the population ([compiler analysis](https://datareportal.com/reports/digital-2026-zambia)), biometric enrolment on the national register did not clearly advance and its figures do not reconcile ([ministry account](https://znbc.co.zm/?p=10211)), and biometric card issuance was deferred until after the August 2026 election. The data protection regulator, operational throughout, produced no enforcement action the base can record.
+Over the same period internet use held at 33.0% of the population ([compiler analysis](https://datareportal.com/reports/digital-2026-zambia)), biometric enrolment on the national register did not clearly advance and its figures do not reconcile ([ministry account](https://znbc.co.zm/?p=10211)), and biometric card issuance was deferred until after the August 2026 election. The data protection regulator, operational throughout, produced no enforcement action the repository can record.
 
 ## governance
 
@@ -52,7 +52,7 @@ One position did not move because it was never operationalised: the data-exchang
 
 ## technology
 
-Zambia's artificial intelligence position moved from a parliamentary motion to a strategy described as nearly complete, and no further. A motion urging the government to develop an AI policy and legal framework was under public debate in July 2025; by 17 July 2026 the Presidential Delivery Unit said the strategy was nearing completion ([statement](https://techafricanews.com/2026/07/17/zambia-eyes-ai-leadership-following-global-robotics-challenge-milestone/)). No draft, publication date, budget or institutional architecture is held at either end, and a continental review of 1 July 2026 treats a Zambian strategy as an existing text — an unreconciled position the base cannot settle.
+Zambia's artificial intelligence position moved from a parliamentary motion to a strategy described as nearly complete, and no further. A motion urging the government to develop an AI policy and legal framework was under public debate in July 2025; by 17 July 2026 the Presidential Delivery Unit said the strategy was nearing completion ([statement](https://techafricanews.com/2026/07/17/zambia-eyes-ai-leadership-following-global-robotics-challenge-milestone/)). No draft, publication date, budget or institutional architecture is held at either end, and a continental review of 1 July 2026 treats a Zambian strategy as an existing text — an unreconciled position the repository cannot settle.
 
 The one defined state AI mandate created in the period is defensive and sits with the cyber regulator, because no artificial intelligence institution exists.
 
@@ -68,4 +68,4 @@ The absences that shaped this period are the same ones that shaped the last. The
 
 Two outcomes from inside the period were never reported: the April 2025 campaign to issue 3.5 million identity documents produced no completion figure, and the regulator's announced quarterly network-performance reporting has produced no report.
 
-Zambia also has no domestic budget archive and no statistics agency publication of any kind in the base, so neither the appropriations nor the statistics in this report rest on a primary state document.
+Zambia also has no domestic budget archive and no statistics agency publication of any kind in the repository, so neither the appropriations nor the statistics in this report rest on a primary state document.

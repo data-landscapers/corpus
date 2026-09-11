@@ -27,9 +27,9 @@ Southern Africa's month was dominated by handovers and workshops rather than ins
 
 Southern Africa's preparatory process for the ITU's 2027 World Radiocommunication Conference reached its regional stage. A [third SADC preparatory meeting closed at Luanda on 7 August with harmonised SADC Common Positions and Proposals on key WRC-27 agenda items](https://angop.ao/en/noticias/sociedade/sadc-harmoniza-posicao-para-conferencia-mundial-de-radio/), spectrum allocation for International Mobile Telecommunications named as the sensitive debate; the position document itself is not published. The position travels next to the African preparatory meeting at Tunis, 7–11 September, ahead of WRC-27 in Shanghai.
 
-CRASA, the regional telecommunications regulators' association, [held the first Finance, Risk and Audit Committee meeting of its 2026/27 financial year at Maseru on 20–21 August](https://techreviewafrica.com/news/6868/crasa-holds-finance-risk-and-audit-committee-meeting-in-lesotho), reviewing financial and audit matters and assessing institutional risk across its regional programmes. No budget, audit opinion or risk register reaches the base from the account, which is a trade report of the association's own meeting.
+CRASA, the regional telecommunications regulators' association, [held the first Finance, Risk and Audit Committee meeting of its 2026/27 financial year at Maseru on 20–21 August](https://techreviewafrica.com/news/6868/crasa-holds-finance-risk-and-audit-committee-meeting-in-lesotho), reviewing financial and audit matters and assessing institutional risk across its regional programmes. No budget, audit opinion or risk register reaches the repository from the account, which is a trade report of the association's own meeting.
 
-The regulators' association met on its own workplan rather than on a rule. Its consumer and stakeholder policy committee [held the financial year's first ordinary in-person meeting at Gaborone from 2 to 4 September 2026 to advance the 2026/27 workplan](https://events.crasa.org/events/). No agenda outcome, decision or published workplan follows it on the record, which is the standing shape of this body's output in the base.
+The regulators' association met on its own workplan rather than on a rule. Its consumer and stakeholder policy committee [held the financial year's first ordinary in-person meeting at Gaborone from 2 to 4 September 2026 to advance the 2026/27 workplan](https://events.crasa.org/events/). No agenda outcome, decision or published workplan follows it on the record, which is the standing shape of this body's output in the repository.
 <!-- /narrative -->
 
 ## Instruments and harmonisation
@@ -57,7 +57,7 @@ A shared SADC satellite advanced procedurally: a [technical submission on orbita
 ### Data Exchange
 
 <!-- narrative: systems--dpi-exchange -->
-COMESA [went to market for a Digital Information Knowledge and Collaboration Platform on 27 August](https://www.comesa.int/consultancy-for-the-development-of-comesa-digital-information-knowledge-collaboration-platform/), inviting technical and financial proposals under contract reference CS/CC/06/(846-2026); no budget, timetable or award reaches the base beyond the request itself — a procurement notice, not yet a system.
+COMESA [went to market for a Digital Information Knowledge and Collaboration Platform on 27 August](https://www.comesa.int/consultancy-for-the-development-of-comesa-digital-information-knowledge-collaboration-platform/), inviting technical and financial proposals under contract reference CS/CC/06/(846-2026); no budget, timetable or award reaches the repository beyond the request itself — a procurement notice, not yet a system.
 
 Five revenue administrations — Malawi, Mozambique, South Africa, Zambia and Zimbabwe — [adopted a joint roadmap and action plan for customs-to-customs data exchange at a three-day Pretoria meeting hosted by the South African revenue service, closing 26 August](https://farmersreviewafrica.com/southern-african-customs-administrations-agree-roadmap-for-faster-digital-trade/). No delivery date is stated.
 
@@ -69,7 +69,7 @@ The incoming SADC chair also [made one-stop border posts and digitised border sy
 ### Innovation ecosystem
 
 <!-- narrative: coordination--tech-innovate -->
-An [eight-month accelerator supporting twelve teams across Southern Africa building affordable AI tools for local classrooms](https://www.wearetech.africa/fr/fils/breves/breves-simple/injini-lance-un-programme-pour-soutenir-12-start-up-en-afrique-australe) launched on 9 September 2026, with seed funding for the five strongest projects at the end. It is the only regional innovation programme the base holds for this period.
+An [eight-month accelerator supporting twelve teams across Southern Africa building affordable AI tools for local classrooms](https://www.wearetech.africa/fr/fils/breves/breves-simple/injini-lance-un-programme-pour-soutenir-12-start-up-en-afrique-australe) launched on 9 September 2026, with seed funding for the five strongest projects at the end. It is the only regional innovation programme the repository holds for this period.
 <!-- /narrative -->
 
 ## Capacity and inclusion

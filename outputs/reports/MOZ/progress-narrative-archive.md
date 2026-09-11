@@ -48,11 +48,11 @@ Payments moved further than any other system. At the start of the window there w
 
 Identity production rose against its own prior year: 856,101 cards on 813,307 applications in the first half of 2026, against 730,527 on 677,305 a year earlier ([directorate account](https://clubofmozambique.com/news/mozambique-dnic-produces-over-800-thousand-national-identity-cards-in-the-first-semester/)). Free issuance widened from the identity card alone to three documents and was extended to 2027.
 
-The interoperability platform is the position that did not move visibly in either direction: it is described as under implementation and the base holds no operator, go-live date or list of connected agencies at either end of the window.
+The interoperability platform is the position that did not move visibly in either direction: it is described as under implementation and the repository holds no operator, go-live date or list of connected agencies at either end of the window.
 
 ## technology
 
-Everything in this section is newer than the window. At 1 August 2025 the base carried no artificial-intelligence commission, no draft strategy in circulation, no intellectual property policy and no membership of any international artificial-intelligence body.
+Everything in this section is newer than the window. At 1 August 2025 the repository carried no artificial-intelligence commission, no draft strategy in circulation, no intellectual property policy and no membership of any international artificial-intelligence body.
 
 By 6 August 2026 the commission had been created by decree and was issuing opinions ([commission account](https://clubofmozambique.com/news/commission-begins-advising-government-on-the-use-of-artificial-intelligence-in-mozambique/)), a draft national strategy had been presented at an international workshop and entered provincial consultation ([presentation account](https://techafricanews.com/2026/05/25/mozambique-presents-draft-national-ai-strategy-at-itu-workshop-in-kenya/)), the Intellectual Property Policy and Strategy 2026-2035 had been approved with a mandate to study the patentability of inventions made by artificial intelligence ([approval account](https://360mozambique.com/development/mozambique-approves-ip-strategy-to-study-ai-patentability-and-digital-rights/)), and Mozambique had become a founding member of an international cooperation organisation ([signing account](https://clubofmozambique.com/news/mozambique-becomes-founding-member-of-world-ai-cooperation-organization-waico/)).
 

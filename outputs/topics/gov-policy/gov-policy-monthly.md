@@ -15,7 +15,7 @@ record: c6beade97840
 
 ## Algeria
 
-Nothing moved on the 2030 strategy's own targets this month; what was published was a restatement of the vision behind them. State media described the transformation as [resting on data-protection and cybersecurity laws and on local infrastructure including national data centres, and as aimed at transparency in public management and at combating administrative malpractice](https://www.elmoudjahid.dz/fr/editorials/a-l-ere-du-tout-numerique-4195). It carries no target, budget or completion date, and sixteen months after the strategy was published the base still holds no delivery figure against any of its three headline targets.
+Nothing moved on the 2030 strategy's own targets this month; what was published was a restatement of the vision behind them. State media described the transformation as [resting on data-protection and cybersecurity laws and on local infrastructure including national data centres, and as aimed at transparency in public management and at combating administrative malpractice](https://www.elmoudjahid.dz/fr/editorials/a-l-ere-du-tout-numerique-4195). It carries no target, budget or completion date, and sixteen months after the strategy was published the repository still holds no delivery figure against any of its three headline targets.
 
 ## Burkina Faso
 
@@ -33,11 +33,11 @@ A [strategic consultation on the national digital transformation agenda was conv
 
 The World Bank published a public finance review of the Central African Republic on 2 July 2026, and it puts digitisation at the centre of what it proposes. Against domestic revenue of about [FCFA 187bn, or 10.1% of GDP, in a 2025 budget of about FCFA 385bn](https://www.radiondekeluka.org/103981-finances-publiques-en-centrafrique-ce-que-revele-la-revue-de-la-banque-mondiale), it argues for a rise to 12% in the short and medium term and 15% in the long term, and estimates that [digitising the tax administration alone could raise up to two points of GDP in the short term](https://www.radiondekeluka.org/103981-finances-publiques-en-centrafrique-ce-que-revele-la-revue-de-la-banque-mondiale). Electronic public procurement and a digital cadastre are named among its longer-term recommendations, against [63% of public contracts let by direct award in 2023 and 11% of domestically financed investment executed that year](https://www.radiondekeluka.org/103981-finances-publiques-en-centrafrique-ce-que-revele-la-revue-de-la-banque-mondiale).
 
-It is the first independent assessment the base holds of the ground the government's own public-finances digitalisation plan 2025-2027 covers. That plan's costed operational annex, due in April 2025, is still unpublished.
+It is the first independent assessment the repository holds of the ground the government's own public-finances digitalisation plan 2025-2027 covers. That plan's costed operational annex, due in April 2025, is still unpublished.
 
 ## Chad
 
-The policy movement of the window is advice rather than instrument. The economic, social, cultural and environmental council [closed a plenary session running 5 to 19 August on the public administration facing the digital transition, and adopted recommendations calling for an affirmed national digitalisation policy of wider scope, a durable national financing mechanism for the sector, adequate power supply, stronger public-agent skills and public-private partnerships](https://www.ndjamenaactu.com/2026/08/19/tchad-le-cesce-plaide-pour-une-transition-numerique-inclusive-et-securisee/). What the list describes is a stack the base can confirm is missing at almost every layer — which is why the recommendations read as a gap analysis. Nothing binds government to act on them and no response is on record.
+The policy movement of the window is advice rather than instrument. The economic, social, cultural and environmental council [closed a plenary session running 5 to 19 August on the public administration facing the digital transition, and adopted recommendations calling for an affirmed national digitalisation policy of wider scope, a durable national financing mechanism for the sector, adequate power supply, stronger public-agent skills and public-private partnerships](https://www.ndjamenaactu.com/2026/08/19/tchad-le-cesce-plaide-pour-une-transition-numerique-inclusive-et-securisee/). What the list describes is a stack the repository can confirm is missing at almost every layer — which is why the recommendations read as a gap analysis. Nothing binds government to act on them and no response is on record.
 
 ## Comoros
 
@@ -79,7 +79,7 @@ Two plans and no strategy is still the position. The transport ministry's [half-
 
 ## Eritrea
 
-The month adds the sector's policy furniture rather than a new instrument. A country profile lists the legal basis as [Communications Proclamation 102 of 1998, the Regulations on Telecommunications Networks and Services of the same year, and a 2003 proclamation establishing the state telecommunications corporation](http://web.archive.org/web/20260824175022/https://dig.watch/countries/eritrea), none of which the base holds as text. The one sector-specific policy named anywhere is for education: an education profile last modified on 2 September records a [National Policy for ICT in Education, a 2018-2022 sector plan aiming at technology infrastructure and e-learning, and an initiative the ministry launched in January 2005](https://education-profiles.org/sub-saharan-africa/eritrea/~technology), and the sector plan itself states that incorporating technology remains difficult for want of facilities, equipment and teacher training. The profile carrying it is a legacy platform its publisher states is no longer updated. No national digital or ICT strategy appears at any date, so the sector is governed by three texts from 1998 and 2003 that nobody on this base has read.
+The month adds the sector's policy furniture rather than a new instrument. A country profile lists the legal basis as [Communications Proclamation 102 of 1998, the Regulations on Telecommunications Networks and Services of the same year, and a 2003 proclamation establishing the state telecommunications corporation](http://web.archive.org/web/20260824175022/https://dig.watch/countries/eritrea), none of which the repository holds as text. The one sector-specific policy named anywhere is for education: an education profile last modified on 2 September records a [National Policy for ICT in Education, a 2018-2022 sector plan aiming at technology infrastructure and e-learning, and an initiative the ministry launched in January 2005](https://education-profiles.org/sub-saharan-africa/eritrea/~technology), and the sector plan itself states that incorporating technology remains difficult for want of facilities, equipment and teacher training. The profile carrying it is a legacy platform its publisher states is no longer updated. No national digital or ICT strategy appears at any date, so the sector is governed by three texts from 1998 and 2003 that nobody on this repository has read.
 
 ## Eswatini
 
@@ -156,7 +156,7 @@ Beyond the switch-off dates, the ministry's retirement plan makes timetable exte
 
 A development agency reported on 6 July, from engagements run to March 2026, that Rwandan participants said [no dedicated national organisation conducts artificial-intelligence risk assessments, evaluations or monitoring of errors and harms](https://www.undp.org/publications/small-states-big-signals-what-adoption-practice-reveals-about-trust-safety-and-ai-performance-globally), while the technology sits in payments, judiciary filing, identity verification and service delivery. The report is qualitative and claims no representativeness.
 
-The agency meant to hold that ground acquired its first stated function since cabinet approved it in June. Answering early-stage artificial-intelligence firms pressing publicly for infrastructure and funding, the ICT ministry [said on 17 August that the National AI Agency would coordinate shared compute and data-centre capacity for start-ups and researchers](https://allafrica.com/stories/202608170713.html). No establishing law, compute capacity, access rule or budget is attached to it, and the base still records no sovereign compute of any kind.
+The agency meant to hold that ground acquired its first stated function since cabinet approved it in June. Answering early-stage artificial-intelligence firms pressing publicly for infrastructure and funding, the ICT ministry [said on 17 August that the National AI Agency would coordinate shared compute and data-centre capacity for start-ups and researchers](https://allafrica.com/stories/202608170713.html). No establishing law, compute capacity, access rule or budget is attached to it, and the repository still records no sovereign compute of any kind.
 
 ## Senegal
 
@@ -207,7 +207,7 @@ The [government roadmap for 2026-2031 is in force](https://www.republiquetogolai
 
 ## Tunisia
 
-Policy movement in the window was a meeting rather than an instrument. The head of government [chaired a ministerial council devoted to digitalisation, stating that it is a necessity rather than a choice](https://pm.gov.tn/fr/decision-gouvernementale/zenzri-lors-dun-conseil-ministeriel-la-digitalisation-nest-pas-un-choix). The council's decisions are not itemised in the record held, so what the base can carry is the fact that it met and the framing it used.
+Policy movement in the window was a meeting rather than an instrument. The head of government [chaired a ministerial council devoted to digitalisation, stating that it is a necessity rather than a choice](https://pm.gov.tn/fr/decision-gouvernementale/zenzri-lors-dun-conseil-ministeriel-la-digitalisation-nest-pas-un-choix). The council's decisions are not itemised in the record held, so what the repository can carry is the fact that it met and the framing it used.
 
 The customs administration [settled a 2026-2030 strategic plan built around digitisation, presented with a governance charter, its axes covering border protection, an environment for attracting foreign investment, revenue collection, working methods and social responsibility](https://www.alchourouk.com/article/%D8%A7%D9%84%D8%AF%D9%8A%D9%88%D8%A7%D9%86%D8%A9-%D8%AA%D8%B6%D8%A8%D8%B7-%D9%85%D8%AE%D8%B7%D8%B7%D9%87%D8%A7-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A-2026-2030); the plan document itself is not published.
 
@@ -217,7 +217,7 @@ The ICT ministry [states a device-tax-cut paper is ready for cabinet before the 
 
 ## Zambia
 
-The national artificial-intelligence strategy has reached the end of the period it was written for. The technology ministry's permanent secretary [says it is nearing the end of its cycle and is due for review](https://api.oecdai.org/storage/policy-initiatives/Apr2026/117ojpi25umobje3ol-Zambia-Ai-Strategy-Book-option-2.pdf). A strategy due for review before its successor exists is the position the base can state; no review terms of reference, timetable or drafting body is published.
+The national artificial-intelligence strategy has reached the end of the period it was written for. The technology ministry's permanent secretary [says it is nearing the end of its cycle and is due for review](https://api.oecdai.org/storage/policy-initiatives/Apr2026/117ojpi25umobje3ol-Zambia-Ai-Strategy-Book-option-2.pdf). A strategy due for review before its successor exists is the position the repository can state; no review terms of reference, timetable or drafting body is published.
 
 ## Zimbabwe
 

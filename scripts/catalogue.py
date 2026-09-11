@@ -1599,7 +1599,7 @@ PAGE = """<!DOCTYPE html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Catalogue — Data Landscapers</title>
-<meta name="description" content="The Data Landscapers catalogue: every source held in the base, metadata only, each record linking to its publisher.">
+<meta name="description" content="The Data Landscapers catalogue: every source held in the repository, metadata only, each record linking to its publisher.">
 <link rel="icon" href="{favicon}">
 {styles}
 {ga}

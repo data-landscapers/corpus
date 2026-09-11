@@ -58,10 +58,10 @@ The state's exit from mobile ownership is the sector's one movement. At the star
 
 Set against it, the [blockchain platform agreed in January 2025](https://itweb.africa/article/the-gambia-signs-blockchain-pact-to-boost-digital-economy/8OKdWqDXbnYqbznQ) is at the same position at both ends of the window: a memorandum, with no build, pilot, funding or withdrawal reported in nineteen months.
 
-On artificial intelligence there is nothing to compare. The base carried no Gambian position at the start of the period and carries none now.
+On artificial intelligence there is nothing to compare. The repository carried no Gambian position at the start of the period and carries none now.
 
 ## gaps
 
-These rows carry no reliable position at either end of the period, so no movement can be stated for them. They are not evenly distributed: the largest concentration is around the two new data centres, where the base holds nothing on power, nothing on the technical capacity that runs them and nothing on any body responsible for their security.
+These rows carry no reliable position at either end of the period, so no movement can be stated for them. They are not evenly distributed: the largest concentration is around the two new data centres, where the repository holds nothing on power, nothing on the technical capacity that runs them and nothing on any body responsible for their security.
 
-The second concentration is fiscal. A year in which the state's central claim for digitalisation is a revenue claim is also a year in which no appropriation line for the digital programme appears anywhere in the base, and no domestic measure of what access costs a household has been published at either end.
+The second concentration is fiscal. A year in which the state's central claim for digitalisation is a revenue claim is also a year in which no appropriation line for the digital programme appears anywhere in the repository, and no domestic measure of what access costs a household has been published at either end.
