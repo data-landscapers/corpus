@@ -4,7 +4,7 @@
 
 ## What it is
 
-One document, rewritten whenever its content moves, covering the sources **published** on the day of the build and the day before it: `outputs/bulletins/corpus-bulletin.md`, served at `/bulletin/`.
+One document, rewritten whenever its content moves, covering the sources **published** on the day of the build and the day before it — or on the day of the build alone when it runs from 18:00 (`bulletin.py` → `TODAY_ONLY_FROM`, Bill 2026-09-11): `outputs/bulletins/corpus-bulletin.md`, served at `/bulletin/`.
 
 The taxonomy's Level-1 categories are its sections, each opening onto the Level-2 topics beneath it, both ordered by `lookups/taxonomy.csv` — order and labels alike, so the nav bar and the headings it jumps to are generated from one list and cannot disagree. Each item is summarised **once**, in the first section it appears in; every other topic it carries holds a cross-reference. Beside each headline sit the places the item touches — countries and regions alike — as boxes linking to those places' pages. `scripts/bulletin.py` selects the window, decides where each summary lands and writes the file; the summaries are written by BUILD, one to three sentences each.
 

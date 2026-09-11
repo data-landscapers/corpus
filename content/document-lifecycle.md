@@ -88,7 +88,7 @@ Most sources move nothing, and that is the point of a record layer: a report on 
 
 The monthly update and the progress report are two slices of the same ledger, which is why they cannot disagree: the monthly renders the rows that moved in the last month, the progress report compares each indicator at the two ends of a thirteen-month window. A month in which nothing moved still issues a monthly that says so. The **status report** answers *where is this now*: for most countries it is authored from sources the base will never hold, and revised in place rather than rebuilt — the price of its being able to state things the archive does not.
 
-The **bulletin** has no ledger and selects on a two-day window of *publication* — what the world published, not what Corpus fetched — so an empty window still produces a bulletin saying so, and why. An absent bulletin and a build that did not run are otherwise the same thing.
+The **bulletin** has no ledger and selects on a window of *publication* — today and yesterday, or today alone from 18:00 — — what the world published, not what Corpus fetched — so an empty window still produces a bulletin saying so, and why. An absent bulletin and a build that did not run are otherwise the same thing.
 
 ## Final checks and publications
 

@@ -134,10 +134,10 @@ class Bench:
         path.write_text(json.dumps(data), encoding="utf-8")
         bulletin.osint_lib.MANIFEST = str(path)
 
-    def assemble(self) -> str:
+    def assemble(self, hour: int = 0) -> str:
         out = io.StringIO()
         with redirect_stdout(out):
-            code = bulletin.assemble(RUN)
+            code = bulletin.assemble(RUN, hour=hour)
         assert code == 0, f"--assemble exited {code}"
         return out.getvalue()
 
@@ -337,6 +337,31 @@ def case_the_byline_states_the_days_in_hand(tmp):
     b2.stamp("2026-05-14 00:05")
     b2.assemble()
     assert "published on 13 and 14 May 2026" in b2.document(), b2.document()[:400]
+
+
+def case_the_evening_window_is_today_alone(tmp):
+    """From 18:00 the window is the run's date alone; before it, and the day before
+    *(Bill, 2026-09-11)*. An evening run carrying yesterday beside today read as yesterday's page."""
+    assert bulletin.window(RUN, 0) == (YESTERDAY, TODAY)
+    assert bulletin.window(RUN, 17) == (YESTERDAY, TODAY)
+    assert bulletin.window(RUN, 18) == (TODAY, TODAY)
+    assert bulletin.window(RUN, 23) == (TODAY, TODAY)
+
+    b = Bench(tmp, [row("y", YESTERDAY, "KEN", "gov.policy"),
+                    row("t", TODAY, "NGA", "gov.policy")])
+    b.stamp("2026-05-14 20:05")
+    b.assemble(hour=20)
+    doc = b.document()
+    assert "items: 1" in doc and "published on 14 May 2026" in doc, doc[:400]
+    assert "example.invalid/y" not in doc, "yesterday's item is outside an evening window"
+    b.restore()
+
+    e = Bench(tmp, [row("y", YESTERDAY, "KEN", "gov.policy")])
+    e.stamp("2026-05-14 20:05")
+    e.assemble(hour=20)
+    doc = e.document()
+    assert "items: 0" in doc and "publication date of 14 May 2026." in doc, doc[:600]
+    assert "on that day" in doc and " or " not in doc.split("# Bulletin")[1][:200]
 
 
 def case_a_missing_summary_stops_the_run(tmp):
@@ -682,6 +707,7 @@ CASES = [
     ("the stamp is outside the edition digest", case_the_stamp_is_outside_the_edition_digest),
     ("an empty window is a finished bulletin", case_an_empty_window_is_a_finished_bulletin),
     ("the byline states the days in hand", case_the_byline_states_the_days_in_hand),
+    ("the evening window is today alone", case_the_evening_window_is_today_alone),
     ("a missing summary stops the run", case_a_missing_summary_stops_the_run),
     ("nothing selected is ever dropped", case_nothing_selected_is_ever_dropped),
     ("out-of-remit records are named, not dropped", case_out_of_remit_records_are_named_not_dropped),

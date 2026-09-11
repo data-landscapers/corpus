@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
-"""bulletin.py — the bulletin: one document over a two-day window.
+"""bulletin.py — the bulletin: one document over the newest day or two of publication.
 
     python scripts/bulletin.py --scan                 what is in the window, and what still needs a summary
     python scripts/bulletin.py --write {slug} --text "…"   record one item's summary (or pipe it on stdin)
     python scripts/bulletin.py --assemble             write outputs/bulletins/corpus-bulletin.md
     python scripts/bulletin.py --date 2026-08-16 …    run any of the above against another day
+    python scripts/bulletin.py --hour 20 …            … or at another hour (default: now)
 
 **One document, not two** *(Bill, 2026-08-21, `prep/bulletin.md`)*. The country bulletin is
 retired: it covered the same window as the topic bulletin, item for item, and differed only in
@@ -26,14 +27,21 @@ countries, and matched exactly like countries: **selecting *Africa* gives the it
 story, tagged continentally — and a roll-up would make *Africa* a second name for *All*.
 
 **The window is publication, not acquisition** *(Bill, 2026-08-17)*. An item is in the bulletin
-when its `published` date is the run's date or the day before it, and for no other reason. The
+when its `published` date falls in the window, and for no other reason. The
 corpus acquires in batches — 184 records landed on 2026-08-16 carrying publication dates spread
 across the ten days before it — so most runs select a handful and some select none. **An empty
 window is a finished bulletin, not a failure**: the document says the window was empty and says
 why, because a silence is indistinguishable from a build that did not run.
 
-**A summary is written once and kept.** The window is two days wide and the build runs daily, so
-almost every item is selected twice; re-summarising it the second time would burn the model stage
+**The window is two days before 18:00 and one from it** *(Bill, 2026-09-11)*. A build in the
+small hours or during the day takes the run's date and the day before it, because the day has
+barely started and yesterday is the news. From 18:00 it takes the run's date alone: an evening
+run has most of the day in hand, and carrying yesterday beside it is how a page built on the
+9th came to read *8 and 9 September*. `TODAY_ONLY_FROM` is the setting, and the hour is the
+build clock's rather than OSINT's, since it is the build that decides what today is.
+
+**A summary is written once and kept.** The window is usually two days wide and the build runs daily,
+so most items are selected twice; re-summarising it the second time would burn the model stage
 again and word the same item differently on consecutive days. `outputs/bulletins/summaries.json`
 is the store, `--write` is the only way into it, and `--scan` asks for summaries only for items
 that do not have one. Entries age out 30 days after publication, which is 28 days after the last
@@ -165,6 +173,7 @@ RAW = CORPUS / "scripts" / ".workroot" / "raw"
 SITE_BASE = "https://corpus.data-landscapers.io"
 
 KEEP_DAYS = 30          # how long a written summary is retained after its item's publication date
+TODAY_ONLY_FROM = 18    # from this hour the window is the run's date alone; before it, and the day before
 UNTOPICED = "\x00untopiced"     # section key for a record carrying no topic at all
 UNTOPICED_LABEL = "Not topic-specific"
 OTHER_L1 = "Other"
@@ -220,7 +229,11 @@ def topic_order() -> list[str]:
 
 # ── the window ─────────────────────────────────────────────────────
 
-def window(run_date: date) -> tuple[str, str]:
+def window(run_date: date, hour: int = 0) -> tuple[str, str]:
+    """`(start, end)` — the run's date and the day before it, or the run's date alone from
+    `TODAY_ONLY_FROM`. The default hour is the small-hours build's."""
+    if hour >= TODAY_ONLY_FROM:
+        return run_date.isoformat(), run_date.isoformat()
     return (run_date - timedelta(days=1)).isoformat(), run_date.isoformat()
 
 
@@ -228,7 +241,7 @@ def facets(value: str) -> list[str]:
     return [v.strip() for v in value.split(";") if v.strip()]
 
 
-def select(run_date: date) -> tuple[list[dict], list[dict]]:
+def select(run_date: date, hour: int = 0) -> tuple[list[dict], list[dict]]:
     """The window, split into what is published and what the remit excludes.
 
     Equality on the `published` column does the date-precision work for free: a month-precision
@@ -251,7 +264,7 @@ def select(run_date: date) -> tuple[list[dict], list[dict]]:
     **The excluded rows are returned rather than dropped**, because a filter that removes items
     silently is the same failure as the missing filter: `--scan` and `--assemble` both say how many
     the remit turned away, so a day when it turns away a great deal is visible on the run."""
-    start, end = window(run_date)
+    start, end = window(run_date, hour)
     rows, excluded = [], []
     with CATALOGUE.open(encoding="utf-8-sig", newline="") as fh:
         for row in csv.DictReader(fh):
@@ -334,9 +347,9 @@ def raw_path(row: dict) -> str:
     return f"raw/{year}/{slug}.md"
 
 
-def scan(run_date: date, as_json: bool) -> int:
-    start, end = window(run_date)
-    rows, excluded = select(run_date)
+def scan(run_date: date, as_json: bool, hour: int = 0) -> int:
+    start, end = window(run_date, hour)
+    rows, excluded = select(run_date, hour)
     store = load_store()
     pending = [r for r in rows if r["slug"] not in store]
 
@@ -393,6 +406,8 @@ def long_date(iso: str) -> str:
 def window_phrase(start: str, end: str, joiner: str = "and") -> str:
     """`15 and 16 August 2026`. The joiner turns over to `or` for the sentences that state an
     absence — nothing was published on the one day *or* the other, which *and* does not say."""
+    if start == end:
+        return long_date(start)             # an evening window is one day, and names it once
     a, b = date.fromisoformat(start), date.fromisoformat(end)
     if a.month == b.month:
         return f"{a.day} {joiner} {b.day} {b:%B %Y}"
@@ -403,7 +418,8 @@ def covered_phrase(rows: list[dict], start: str, end: str) -> str:
     """The days the bulletin **actually covers**, which is not always the days it looked at
     *(Bill, 2026-08-21)*.
 
-    The window is the run's date and the day before it, and the run happens in the small hours:
+    Before 18:00 the window is the run's date and the day before it, and the nightly run happens
+    in the small hours:
     on 2026-08-21 the sweep closed at 00:14 and not one of the fifty items it caught carried a
     publication date of the 21st. The byline said *published on 20 and 21 August 2026* anyway,
     which reads as a claim that the 21st was covered and found empty when in truth the day had
@@ -652,7 +668,8 @@ def body_of(rows: list[dict], store: dict, names: dict[str, str], start: str, en
             f"{window_phrase(start, end, 'or')}.",
             "",
             "The corpus acquires in batches rather than continuously, so an empty window means "
-            "nothing was **published** on those two days — not that nothing arrived. Records "
+            f"nothing was **published** on {'that day' if start == end else 'those two days'}"
+            " — not that nothing arrived. Records "
             "ingested in the same period but published earlier are in the country and topic "
             "reports, which select on what a record moves rather than on when it was published.",
             "",
@@ -676,12 +693,12 @@ def body_of(rows: list[dict], store: dict, names: dict[str, str], start: str, en
 
 
 def document(rows: list[dict], store: dict, run_date: date, collected: str, compiled: str,
-             names: dict[str, str]) -> str:
+             names: dict[str, str], hour: int = 0) -> str:
     """The whole markdown file. Both stamps are `YYYY-MM-DD HH:MM` and both are passed in rather
     than read from a clock here — see `assemble()` for why. `collected` is when the material
     stopped moving and is what the byline states; `compiled` is the newest ingest and is what the
     edition picker shows."""
-    start, end = window(run_date)
+    start, end = window(run_date, hour)
     when = datetime.strptime(collected, "%Y-%m-%d %H:%M")
     subtitle = (f"Last updated {when:%d-%m-%Y} at {when:%H:%M} — "
                 f"Covering sources published on {covered_phrase(rows, start, end)}")
@@ -771,8 +788,8 @@ def stamps_for(now: datetime | None = None) -> tuple[str, str, str]:
     return collected.strftime(osint_lib.TS), newest.strftime(osint_lib.TS), source
 
 
-def assemble(run_date: date, now: datetime | None = None) -> int:
-    rows, excluded = select(run_date)
+def assemble(run_date: date, now: datetime | None = None, hour: int = 0) -> int:
+    rows, excluded = select(run_date, hour)
     store = load_store()
     missing = [r["slug"] for r in rows if r["slug"] not in store]
     if missing:
@@ -803,9 +820,9 @@ def assemble(run_date: date, now: datetime | None = None) -> int:
     before = DOCUMENT.read_text(encoding="utf-8") if DOCUMENT.exists() else None
     held = held_stamps(DOCUMENT)
     clock_only = (before is not None and held is not None
-                  and document(rows, store, run_date, *held, names) == before)
+                  and document(rows, store, run_date, *held, names, hour) == before)
 
-    text = document(rows, store, run_date, collected, compiled, names)
+    text = document(rows, store, run_date, collected, compiled, names, hour)
     where = DOCUMENT.relative_to(CORPUS)
     if text == before:
         print(f"unchanged  {where}  (last updated {held[0]}; the clock has not moved either)")
@@ -849,6 +866,8 @@ def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--date", default=None, help="run date (default today)")
+    ap.add_argument("--hour", type=int, default=None,
+                    help=f"run hour 0-23 (default now); from {TODAY_ONLY_FROM} the window is today alone")
     ap.add_argument("--scan", action="store_true", help="the window and the work order")
     ap.add_argument("--json", action="store_true", help="with --scan, machine-readable")
     ap.add_argument("--write", metavar="SLUG", default=None, help="record one item's summary")
@@ -856,14 +875,16 @@ def main() -> int:
     ap.add_argument("--assemble", action="store_true", help="write the bulletin")
     args = ap.parse_args()
 
-    run_date = date.fromisoformat(args.date) if args.date else date.today()
+    now = datetime.now()
+    run_date = date.fromisoformat(args.date) if args.date else now.date()
+    hour = now.hour if args.hour is None else args.hour
 
     if args.write:
         text = args.text if args.text is not None else sys.stdin.read()
         return write_summary(args.write, text, run_date)
     if args.assemble:
-        return assemble(run_date)
-    return scan(run_date, args.json)
+        return assemble(run_date, hour=hour)
+    return scan(run_date, args.json, hour)
 
 
 if __name__ == "__main__":

@@ -181,7 +181,7 @@ Commit the topic tree.
 
 ## Stage 7 — the bulletin (window select; model authoring)
 
-One document over a two-day window: `outputs/bulletins/corpus-bulletin.md`, published at `/bulletin/`. Design note: `documentation/bulletin.md`. **This stage can also run on its own at midday** — `BULLETIN-TOPUP.md` is that run: this stage, one render, no sentinel, and the cycle trigger deliberately does not fire on it.
+One document over the newest day or two of publication: `outputs/bulletins/corpus-bulletin.md`, published at `/bulletin/`. Design note: `documentation/bulletin.md`. **This stage can also run on its own at midday** — `BULLETIN-TOPUP.md` is that run: this stage, one render, no sentinel, and the cycle trigger deliberately does not fire on it.
 
 ```bash
 python scripts/bulletin.py --scan          # the window, and which items still need a summary
@@ -194,7 +194,7 @@ python scripts/bulletin.py --write {slug} --text "…"
 python scripts/bulletin.py --assemble      # then commit outputs/bulletins/
 ```
 
-- **The window is publication, not acquisition**: an item is in when its `published` date is today or yesterday. **An empty window is a finished bulletin** — `--assemble` writes the document saying the window was empty and why, because an absent bulletin is indistinguishable from a build that did not run.
+- **The window is publication, not acquisition**: an item is in when its `published` date is today or yesterday — **today alone when the stage runs from 18:00** (`bulletin.py` → `TODAY_ONLY_FROM`). **An empty window is a finished bulletin** — `--assemble` writes the document saying the window was empty and why, because an absent bulletin is indistinguishable from a build that did not run.
 - **A summary is written once and kept** in `outputs/bulletins/summaries.json`; `--scan` asks only for what is not in it; entries age out 30 days after publication. The model stage costs one day's news per run, not two.
 - **`--assemble` stops rather than publishing a gap**: an item in the window with no summary fails the command and names the slugs. Same rule as *Narrative integrity*, and mechanical.
 - **Everything in a summary is sourced by construction** — each entry opens with the item's title linked to the publisher's record. That does not license a fact the item does not carry, and a verbatim sentence lifted from the body is a register failure caught here, at writing time.
