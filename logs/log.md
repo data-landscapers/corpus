@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-09-11 19:29 · build · unclocked · held baseline rows set: 31 of 35 region-ledger rows given position_start and movement from their held raw document (25 No change, 6 Advanced, 4 skipped); six region progress reports re-rendered, checks G-M pass
 2026-09-11 18:15 · filler · unclocked · regions baseline filler (XWA XEA XCA XSA XNA): 61 rows, 31 staged (29 files, new-queue regions-baseline, undelivered), 25 held, 5 nil; notes-for-osint 137
 2026-09-11 17:45 · filler · unclocked · XAF baseline filler: 58 rows, 36 staged (34 files, new-queue XAF baseline, undelivered), 10 held, 12 nil; notes-for-osint 136
 2026-09-11 17:18 · render · 6m · progress keys redefine Movement (98 reports), region Baseline not held boxed both columns, lookups tables from CSVs with downloads, Metadata buttons to lookups; deployed

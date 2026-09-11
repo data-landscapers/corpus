@@ -5,14 +5,14 @@ period: 2025-09-01 to 2026-09-11
 place: XSA
 ledger_rows: 46
 not_held: 2
-record: ade06bf6d864
+record: 9c2d5d30dfea
 ---
 
 # Southern Africa: progress report, September 2025 – September 2026
 
 *Compiled 2026-09-11 by Claude Opus from the documents in the Corpus repository. Sections run from the region's institutions outwards to what funds them. Each row sets the position at the start of the period against the position at the end, and the Progress column says how it moved. The period runs to the date of issue rather than to the last month's close.*
 
-*Of 46 bodies, instruments and systems on this place's ledger, 25 changed position between 2025-09-01 and 2026-09-11, 9 did not, 10 carry no stated baseline, and 2 are ***Not held*** at both ends.*
+*Of 46 bodies, instruments and systems on this place's ledger, 26 changed position between 2025-09-01 and 2026-09-11, 10 did not, 8 carry no stated baseline, and 2 are ***Not held*** at both ends.*
 
 *Shape check, run before the comparison: 67 sources for this place in the window — 13 in the earlier half (2025-09 to 2026-03), 54 in the later (2026-04 to 2026-09). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
@@ -106,9 +106,9 @@ The community's own instruments did not move. The Digital Transformation Strateg
 |---|---|---|---|
 | Powertel-Paratus cross-border fibre corridor | Did not exist | [Phase 1 live and carrying traffic, on a route to link Zimbabwe with Botswana, Zambia and South Africa](https://itweb.africa/article/powertel-paratus-zimbabwe-switch-on-new-digital-highway/Gb3Bw7WadXZq2k6V) | Movement |
 | SADC regional internet exchange point | No host selection process on record | [BoFiNet of Botswana and one Zimbabwean company shortlisted; no award held in the eight months since](https://itweb.africa/article/botswana-seeks-to-host-sadc-internet-exchange/j5alr7QALmK7pYQk) | Movement |
+| SADC shared satellite | Framework for the SADC Shared Satellite Programme approved by ICT ministers, with no orbital filing held (2019-09) | [A technical submission on orbital positions filed with the ITU and the radiocommunication sector met to secure the slot, with a working group created to assess financing mechanisms and payment model; the project is stated to be at an early stage and no cost, launch date or operator is held (2026-08)](https://angop.ao/en/noticias/sociedade/sadc-harmoniza-posicao-para-conferencia-mundial-de-radio/) | Movement |
 | SADC Regional Infrastructure Development Master Plan | In force since 2012, carrying the ICT sector plan for a Digital SADC | [Unchanged, with under two years to its horizon; no revision or successor held](https://www.sadc.int/document/regional-infrastructure-development-master-plan-executive-summary-2012) | No change |
 | Regional connectivity indicators | ***Baseline not held*** | [Internet penetration 57.2%, 4G population coverage 79.2% and mobile penetration 95.2%, the last already past the regional target set for 2030 (2026-08)](https://www.sadc.int/sites/default/files/2026-08/Remarks%20of%20the%20SADC%20Executive%20Secretary%20at%20the%20Council%20of%20Ministers%20meeting%20on%2012%20August%202026%20Durban%2C%20South%20Africa.pdf) | ***Baseline not held*** |
-| SADC shared satellite | ***Baseline not held*** | [A technical submission on orbital positions filed with the ITU and the radiocommunication sector met to secure the slot, with a working group created to assess financing mechanisms and payment model; the project is stated to be at an early stage and no cost, launch date or operator is held (2026-08)](https://angop.ao/en/noticias/sociedade/sadc-harmoniza-posicao-para-conferencia-mundial-de-radio/) | ***Baseline not held*** |
 
 ### Technical Capacity
 
@@ -130,7 +130,7 @@ The community's own instruments did not move. The Digital Transformation Strateg
 | COMESA Digital Information Knowledge and Collaboration Platform | Did not exist | [The secretariat has invited technical and financial proposals from eligible firms to develop the platform under contract reference CS/CC/06/(846-2026), with the minimum technical requirements set out in terms of reference annexed to the request. No budget, timetable, award or scope beyond the title reaches the base](https://www.comesa.int/consultancy-for-the-development-of-comesa-digital-information-knowledge-collaboration-platform/) | Movement |
 | Customs-to-customs data exchange roadmap | Did not exist | [a joint roadmap and action plan for customs-to-customs data exchange adopted by five administrations — Malawi, Mozambique, South Africa, Zambia and Zimbabwe — at a three-day meeting in Pretoria hosted by the South African revenue service](https://farmersreviewafrica.com/southern-african-customs-administrations-agree-roadmap-for-faster-digital-trade/) | Movement |
 | Regional customs-to-customs data exchange roadmap | Did not exist | [Customs administrations from five countries - Malawi, Mozambique, South Africa, Zambia and Zimbabwe - adopted a roadmap and action plan for customs-to-customs data exchange at a three-day meeting in Pretoria ending 26 August 2026, hosted by the South African revenue service and attended by the regional secretariat, to exchange trade information before consignments reach the border so that documentation and risk assessment happen earlier, phased from priority corridors and building on links already running between Zambia and Malawi and between Zambia and Zimbabwe](https://southernafricantimes.com/five-southern-african-countries-move-to-link-customs-data-as-trade-corridors-face-pressure-to-cut-delays/) | Movement |
-| One-stop border posts and digitised border systems | ***Baseline not held*** | [A chairship priority tying one-stop border posts to the corridor trip monitoring system that integrates transport, immigration and customs data, to online permitting and operator accreditation, to one member's electronic visa and travel authorisation, and to a proposed regional tourism visa, with progress to be measured in border-crossing times reduced rather than agreements signed](https://www.sanews.gov.za/south-africa/sadc-seeks-turn-borders-gateways-trade-travel-and-regional-integration) | ***Baseline not held*** |
+| One-stop border posts and digitised border systems | One-stop border posts completed at Kazungula (Botswana-Zambia), Nakonde/Tunduma (Tanzania-Zambia) and Mwami/Mchinji (Zambia-Malawi), noted by transport ministers (2019-09) | [A chairship priority tying one-stop border posts to the corridor trip monitoring system that integrates transport, immigration and customs data, to online permitting and operator accreditation, to one member's electronic visa and travel authorisation, and to a proposed regional tourism visa, with progress to be measured in border-crossing times reduced rather than agreements signed](https://www.sanews.gov.za/south-africa/sadc-seeks-turn-borders-gateways-trade-travel-and-regional-integration) | No change |
 | SADC Agricultural Information Management System | ***Baseline not held*** | [Member-state readiness under assessment with the FAO and the EU; no platform, membership or timetable held](https://www.mmegi.bw/news/botswana-moves-to-strengthen-agricultural-data-integration/news) | ***Baseline not held*** |
 
 ### Digital Identity and CRVS

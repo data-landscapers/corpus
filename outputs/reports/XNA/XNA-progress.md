@@ -5,14 +5,14 @@ period: 2025-09-01 to 2026-09-11
 place: XNA
 ledger_rows: 13
 not_held: 0
-record: c125e1b342b9
+record: eec0ad03a9af
 ---
 
 # North Africa: progress report, September 2025 – September 2026
 
 *Compiled 2026-09-11 by Claude Opus from the documents in the Corpus repository. Sections run from the region's institutions outwards to what funds them. Each row sets the position at the start of the period against the position at the end, and the Progress column says how it moved. The period runs to the date of issue rather than to the last month's close.*
 
-*Of 13 bodies, instruments and systems on this place's ledger, 10 changed position between 2025-09-01 and 2026-09-11, 1 did not, 2 carry no stated baseline, and 0 are ***Not held*** at both ends.*
+*Of 13 bodies, instruments and systems on this place's ledger, 11 changed position between 2025-09-01 and 2026-09-11, 1 did not, 1 carry no stated baseline, and 0 are ***Not held*** at both ends.*
 
 *Shape check, run before the comparison: 10 sources for this place in the window — 4 in the earlier half (2025-12 to 2026-02), 6 in the later (2026-07 to 2026-09). The two halves are comparable, so the comparison is made over the whole window.*
 
@@ -59,9 +59,9 @@ Two Arab-League AI-ethics instruments sit on the ledger, adopted within weeks of
 
 | Body, instrument or system | At 2025-09-01 | At 2026-09-11 | Progress |
 |---|---|---|---|
+| Algerian 5G rollout | 5G licences awarded by ARPCE competitive tender, Ooredoo ranked second; no network yet launched (2025-07) | [Launched on USD 492 million of licences awarded to the three mobile operators (2025-12)](https://itweb.africa/article/mobilis-djezzy-ooredoo-lead-algerias-492m-5g-rollout/lwrKxq3YVEP7mg1o) | Movement |
 | Medusa submarine cable system — ViaTunisia (Bizerte–Marseille) segment | Under construction; EU CEF Digital co-financing of €9.6m against a €32m total project budget (the European Commission's own project record, correcting the €10m/~30% figure trade press had carried), project start 1 March 2023 | [Bizerte–Marseille segment operational, landing at Bizerte and connecting into Orange's Marseille interconnection hub; part of the wider 8,760km Medusa system, which the landing partner puts at 17 landing points across the northern and southern Mediterranean](https://digital-strategy.ec.europa.eu/en/news/viatunisia) | Movement |
 | North Africa post-5G mobile network experience (Ookla) | Pre-5G-launch mobile network experience baseline (each market's own prior measurement) | [Combined 4G+5G median ended below the pre-launch baseline in Egypt, Morocco and Tunisia a year after their 5G launches, with 4G itself down 28% in Morocco and Tunisia; Algeria — whose own 5G licences were only awarded in December 2025 — alone improved](https://www.ookla.com/articles/5g-north-africa-2026) | Regressed, mixed |
-| Algerian 5G rollout | ***Baseline not held*** | [Launched on USD 492 million of licences awarded to the three mobile operators (2025-12)](https://itweb.africa/article/mobilis-djezzy-ooredoo-lead-algerias-492m-5g-rollout/lwrKxq3YVEP7mg1o) | ***Baseline not held*** |
 
 ### Digital Payments and Fintech
 
