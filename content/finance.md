@@ -16,7 +16,9 @@ Draft wording. This is the part to rewrite.
 
 This table documents money committed to Africa's digital sector by financiers other than the state: bilateral and multilateral donors, development finance institutions, foundations, private investors, vendors and operators and private. One row per commitment, each tagged to a single recipient country, so the figures sum without double-counting.
 
-**These are commitments, not disbursements.** This is because of the availability of data. A value in the table is the amount announced, in the year it was announced, converted from the announcing party's own currency at a dated rate — and a multi-year commitment sits wholly in its start year rather than being spread across the years it will be spent in. Money announced is not money arrived. We have insufficient evidence on which commitments were honoured.
+**These are commitments, not disbursements.** This is because of the availability of data. A value in the table is the amount announced, in the year it was announced, converted from the announcing party's own currency at a dated rate — and a multi-year commitment sits wholly in its start year rather than being spread across the years it will be spent in. Money announced is not money arrived. We have insufficient evidence on which commitments were honoured. 
+
+While we take pains to avoid double counting **do not attempt a simple aggregation of this table** without understanding the different instruments, financiers and beneficiary types.
 
 The data is sourced from the International Aid Transparency Initiative's datastore, investor's own published portfolio's, press announcements and the media in general.
 

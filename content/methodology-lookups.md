@@ -235,14 +235,15 @@ Many of the decisions made by Corpus are based on the various lookup tables list
 | geopol.india--india-mous-engagements-and-commitments                              | Geopolitics        | India activities                                | India MoUs, engagements and commitments                             |
 
 ## Progress Categories
-| Value | Meaning |
-| ----- | ------- |
-| Movement | A system entered service, a stage was completed or an instrument was made |
-| Stalled | A stated target passed without delivery |
-| Regressed | An instrument was withdrawn or neutralised, or a reported position worsened |
-| Mixed | The indicator's instruments moved in different directions in the period |
-| No change | The base holds a standing position and nothing in the period touched it |
-| No evidence | The base holds nothing on this indicator at all |
+| Value             | Meaning                                                                       |
+| ----------------- | ----------------------------------------------------------------------------- |
+| Movement          | Some form of progress, however minor, has been recorded                       |
+| Stalled           | A stated target passed without delivery                                       |
+| Regressed         | An instrument was withdrawn or neutralised, or a reported position worsened   |
+| Mixed             | The indicator's instruments moved in different directions in the period       |
+| No change         | The repository holds a standing position and nothing in the period touched it |
+| No evidence       | The repository holds nothing on this indicator at all                         |
+| Baseline not held | There is evidence of movement but no baseline to compare it against           |
 
 A value may carry a qualifying clause after a comma, as in *Movement, regulations still pending*.
 
