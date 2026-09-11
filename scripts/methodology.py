@@ -300,7 +300,7 @@ PAGES = [
          title="Methodology", nav="Methodology", strip=False, body="", tables=False,
          description=("How the Data Landscapers corpus is built: what is collected, "
                       "how it is classified, how figures are dated, and what the "
-                      "base does not claim.")),
+                      "repository does not claim.")),
     dict(source="document-lifecycle.md", slug="document-lifecycle",
          h1="The life of a document", title="Methodology — document lifecycle",
          nav="Document Lifecycle", strip=True, body="", tables=False,

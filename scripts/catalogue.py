@@ -833,7 +833,7 @@ SCRIPT = r"""
     });
 
     // The year facet counts and filters on the *bucket*, not on the year: everything
-    // before 2020 is one option (prep/catalogue.md §8). The base thins out fast going
+    // before 2020 is one option (prep/catalogue.md §8). The repository thins out fast going
     // back, and a column of single-figure years was most of the facet's height for a
     // handful of records. An undated row has no bucket and no year, as before.
     // Computed off the date dictionary — 2,107 entries rather than 20,267 rows.
