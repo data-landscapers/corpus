@@ -81,6 +81,8 @@ status: in force; Corpus-owned
 
 Both lists are the authoritative statement of `report-render.py`'s `STATUSES` and `MOVEMENTS` tuples; a change to one is a change to the other.
 
+**The region progress report prints *Advanced* as *Movement*, under a column headed *Progress*** *(Bill, 2026-09-11)*, so that it reads in the words of the country and topic progress reports. The ledger keeps *Advanced*; `as_progress()` translates on the way out, and check I accepts either.
+
 **Both vocabularies are stems, not fixed strings.** A value may take a comma and a short qualifying clause where the plain stem would mislead: *Implemented, under appeal* · *Planned, not proceeding* · *Advanced, slipped*. Check I tests the stem. Without the qualifier, real progress against a moved deadline reads as either success or failure, and both are wrong.
 
 **A system that did not exist at the start of the window is *Advanced*, not a special value** — the fact goes in `position_start`, where a reader can see it. Reserve ***Baseline not held*** for what the base genuinely cannot say.

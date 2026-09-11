@@ -105,9 +105,8 @@ PAGE = """<!DOCTYPE html>
     <div class="colophon">
       <strong>About this page</strong>
       <dl>
-        <dt>Built</dt><dd class="mono">{built}</dd>
+        <dt>Updated</dt><dd class="mono">{built}</dd>
         <dt>Counted from</dt><dd>{counted}</dd>
-        <dt>Text</dt><dd><code>{source}</code></dd>
         <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></dd>
       </dl>
     </div>
@@ -129,10 +128,11 @@ def progress_rows(md_path: Path):
     """Every `(Topic, Indicator, value)` in a report's Progress tables.
 
     A progress report holds two kinds of table and only one of them is this one:
-    the indicator frame ends in a `Progress` column, the ledger that shares the
-    page ends in `Movement`. They share four of their six words, so keying on the
-    header rather than on the values is what keeps a movement out of a progress
-    count."""
+    the indicator frame, `Topic | Indicator | Developments | Progress`. The region
+    report's ledger has ended in `Progress` too since 2026-09-11 (Bill), and shares
+    most of its words, so the test is the first two headers as well as the last —
+    keying on the header rather than on the values is what keeps a region's ledger
+    out of a country count."""
     lines = md_path.read_text(encoding="utf-8").split("\n")
     i = 0
     while i < len(lines) - 1:
@@ -140,7 +140,7 @@ def progress_rows(md_path: Path):
         if lines[i].startswith("|") and rule and set(rule) <= set("-: "):
             header = [c.strip() for c in lines[i].strip().strip("|").split("|")]
             i += 2
-            if header[-1] == "Progress":
+            if header[-1] == "Progress" and header[:2] == ["Topic", "Indicator"]:
                 while i < len(lines) and lines[i].startswith("|"):
                     cells = [c.strip() for c in lines[i].strip().strip("|").split("|")]
                     yield cells[0], cells[1], stem(cells[-1])
@@ -179,9 +179,9 @@ def load_countries():
 def read_grid(indicators):
     """`(iso, indicator_id) -> value` over every country progress report.
 
-    Regions are skipped by having no Progress table at all rather than by name:
-    their reports run a movement ledger, so `progress_rows` yields nothing for
-    them and they drop out without a list to maintain."""
+    Regions are skipped by having no indicator frame rather than by name: their
+    reports run a ledger, so `progress_rows` yields nothing for them and they drop
+    out without a list to maintain."""
     pair_to_id = {(r["Topic"], r["Progress indicator"]): r["indicator_id"]
                   for r in indicators}
     grid, bad = {}, []
@@ -354,8 +354,7 @@ def check_links(indicators) -> None:
             + "\n  ".join(dead[:20]))
 
 
-def write(out_dir: Path, *, h1, title, description, url, depth, body, counted,
-          source) -> None:
+def write(out_dir: Path, *, h1, title, description, url, depth, body, counted) -> None:
     out_dir.mkdir(parents=True, exist_ok=True)
     (out_dir / "index.html").write_text(external_links(PAGE.format(
         feedback=feedback(title, f"{SITE_BASE}{url}"),
@@ -363,7 +362,7 @@ def write(out_dir: Path, *, h1, title, description, url, depth, body, counted,
         main=MAIN_SITE, chrome=chrome("progress", depth=depth), foot=foot(depth=depth),
         styles=styles(depth, "progress.css"), ga=ga(),
         script=script("progress-sticky.js", depth),
-        body=indent(body), counted=counted, source=source,
+        body=indent(body), counted=counted,
         built=date.today().isoformat(),
     )), encoding="utf-8")
 
@@ -384,7 +383,7 @@ def main() -> int:
           url="/progress/", depth=1,
           body=toc("topics") + intro("progress-topics")
                + topics_table(indicators, grid),
-          counted=counted, source="content/progress-topics.md")
+          counted=counted)
     print(f"progress: {len(indicators)} indicators over {places} places "
           f"-> site/progress/index.html")
 
@@ -396,7 +395,7 @@ def main() -> int:
           url="/progress/countries/", depth=2,
           body=toc("countries") + intro("progress-countries")
                + countries_table(indicators, grid, names, region),
-          counted=counted, source="content/progress-countries.md")
+          counted=counted)
     print(f"progress: {places} places over {len(indicators)} indicators "
           f"-> site/progress/countries/index.html")
     return 0

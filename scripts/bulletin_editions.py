@@ -177,6 +177,29 @@ def record_cut(out_dir: Path, edition: str, filename: str, compiled: str, items:
     return entries
 
 
+def distinct(entries: list[dict], current: str = "") -> list[dict]:
+    """The picker's list: one edition per `compiled` stamp, the one carrying the most items.
+
+    **Two cuts from one collection are one bulletin to a reader** *(Bill, 2026-09-11)*. A re-cut
+    that adds an item mints a new dated file, and the picker listed both under the same time —
+    four at once on 2026-09-06. The manifest keeps them all, because every one is a published
+    file; only the listing narrows. A tie goes to the newer cut, and the edition the page is
+    showing is always kept, so the picker never loses its own selection. An adopted entry has no
+    stamp and is never grouped."""
+    best: dict[str, dict] = {}
+    for e in entries:                                 # newest first, so a tie keeps the newer
+        stamp = str(e.get("compiled", ""))
+        if not stamp:
+            continue
+        held = best.get(stamp)
+        if (held is None or e.get("edition") == current
+                or (held.get("edition") != current
+                    and int(e.get("items") or 0) > int(held.get("items") or 0))):
+            best[stamp] = e
+    keep = {id(e) for e in best.values()}
+    return [e for e in entries if not e.get("compiled") or id(e) in keep]
+
+
 def missing(out_dir: Path) -> list[str]:
     """Entries in the manifest with no file behind them — RENDER's assertion.
 

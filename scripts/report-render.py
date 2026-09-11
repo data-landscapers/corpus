@@ -169,7 +169,10 @@ MARKER = re.compile(r"<!-- narrative: ([a-z0-9-]+) -->\n(.*?)\n<!-- /narrative -
 # comma and a qualifying clause ("Implemented, under appeal"), and check I tests the stem.
 STATUSES = ("Implemented", "Piloting", "In development", "Planned", "Discontinued", "Enacted",
             "Under review", NOT_HELD)
-MOVEMENTS = ("Advanced", "Stalled", "Regressed", "Closed", NO_CHANGE, BASELINE_NOT_HELD)
+# `Movement` is accepted beside `Advanced` since 2026-09-11: the region progress report prints the
+# one as the other (`as_progress()`), so a ledger written after reading that report may say either.
+MOVEMENTS = ("Advanced", "Movement", "Stalled", "Regressed", "Closed", NO_CHANGE,
+             BASELINE_NOT_HELD)
 
 NO_EVIDENCE = "No evidence"
 MIXED = "Mixed"
@@ -193,6 +196,14 @@ defect, not a tidy-up."""
 def stem(value):
     """The part of a status or movement value before its qualifying clause."""
     return (value or "").split(",")[0].strip()
+
+
+def as_progress(value):
+    """A ledger movement in the words of the progress reports: `Advanced` prints as `Movement`,
+    qualifier kept *(Bill, 2026-09-11)*. The region progress report is the only caller; the ledger
+    itself keeps `Advanced`, which is why this is a rendering step and not a rewrite of the data."""
+    s = stem(value)
+    return MOVEMENT + value[len(s):] if s == "Advanced" else value
 
 # Both glossaries live in `content/document.md` now (Bill, 2026-08-19). They are markdown
 # on the way into a markdown document, so `copy_md` rather than `copy`.
@@ -1310,7 +1321,7 @@ def render_progress_movement(unit, today, month, window, end=None):
         b = cite(b, r, urls) if b else f"{mark(r['status'])} ({r.get('published') or 'undated'})"
         if not a:
             a, move = mark(BASELINE_NOT_HELD), (move or BASELINE_NOT_HELD)
-        return a, b, (move or NO_CHANGE)
+        return a, b, as_progress(move or NO_CHANGE)
 
     # A row whose most recent record was published after the window closed belongs to the status
     # report, not to a comparison it post-dates. Counted, named, kept out of the movement tables.
@@ -1321,7 +1332,7 @@ def render_progress_movement(unit, today, month, window, end=None):
     def mv(r):
         return stem(rows_ends[r["row_id"]][2])
 
-    movers = [r for r in held if mv(r) in ("Advanced", "Stalled", "Regressed", "Closed")]
+    movers = [r for r in held if mv(r) in (MOVEMENT, "Stalled", "Regressed", "Closed")]
     unbased = [r for r in held if mv(r) == BASELINE_NOT_HELD]
     steady = [r for r in held if mv(r) == NO_CHANGE]
     # The title carries the window as months rather than as two ISO dates *(Bill, 2026-08-25)*:
@@ -1331,9 +1342,9 @@ def render_progress_movement(unit, today, month, window, end=None):
     # exact date is the point.
     span = month_span(start, end)
     opener = ([f"*Compiled {today} by Claude Opus from the documents in the Corpus repository. "
-               f"{prof['sections_note']} Each opens with a movement ledger comparing the position "
-               f"at the start and end of the period, which runs to the date of issue rather than "
-               f"to the last month's close.*", ""]
+               f"{prof['sections_note']} Each row sets the position at the start of the period "
+               f"against the position at the end, and the Progress column says how it moved. The "
+               f"period runs to the date of issue rather than to the last month's close.*", ""]
               if prof["sections_note"] else [])
     out = front(f"{name} — progress report, {span}", today, unit, len(ledger), not_held,
                 period=f"{start} to {CLOSE}") + [
@@ -1367,7 +1378,7 @@ def render_progress_movement(unit, today, month, window, end=None):
         out += ["", f"## {section}", ""]
         for subject, srows in by_subject(rows):
             out += [f"### {taxonomy_lib.label(subject)}", "",
-                    f"| {prof['object']} | At {start} | At {CLOSE} | Movement |",
+                    f"| {prof['object']} | At {start} | At {CLOSE} | Progress |",
                     "|---|---|---|---|"]
             for r in sorted(srows, key=lambda r: (rank.get(mv(r), 0), r["name"].lower())):
                 a, b, m = rows_ends[r["row_id"]]

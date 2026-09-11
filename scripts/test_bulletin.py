@@ -688,7 +688,28 @@ def case_the_label_prints_the_long_date_on_this_platform(tmp: Path) -> None:
     assert be.label({"edition": "2026-09-04", "compiled": "", "items": 0}) == "Friday 4 September"
 
 
+def case_the_picker_lists_one_edition_per_compiled_stamp(tmp: Path) -> None:
+    """Re-cuts of one collection are one bulletin: keep the fullest, ties to the newer, and never
+    drop the edition the page is showing."""
+    be = _load("bulletin_editions")
+    entries = [
+        {"edition": "2026-09-11-2", "compiled": "2026-09-10 21:21", "items": 93},
+        {"edition": "2026-09-11", "compiled": "2026-09-10 21:21", "items": 92},
+        {"edition": "2026-09-06-3", "compiled": "2026-09-05 22:16", "items": 13},
+        {"edition": "2026-09-06-2", "compiled": "2026-09-05 22:16", "items": 15},
+        {"edition": "2026-09-04-3", "compiled": "2026-09-04 07:43", "items": 43},
+        {"edition": "2026-09-04-2", "compiled": "2026-09-04 07:43", "items": 43},
+        {"edition": "2026-09-03", "compiled": "", "items": 0},
+    ]
+    got = [e["edition"] for e in be.distinct(entries, "2026-09-11-2")]
+    assert got == ["2026-09-11-2", "2026-09-06-2", "2026-09-04-3", "2026-09-03"], got
+    shown = [e["edition"] for e in be.distinct(entries, "2026-09-11")]
+    assert "2026-09-11" in shown and "2026-09-11-2" not in shown, shown
+
+
 CASES = [
+    ("the picker lists one edition per compiled stamp",
+     case_the_picker_lists_one_edition_per_compiled_stamp),
     ("the manifest answers on its own", case_the_manifest_answers_on_its_own),
     ("a manifest stamp is read as local", case_a_manifest_stamp_is_read_as_local),
     ("a manifest naming an unknown commit is refused",

@@ -20,7 +20,7 @@ Bulletins are kept for a week — the last week's editions are listed above, eac
 
 ## movement-vocab
 
-**Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
+**Progress values.** *Movement* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Closed* — the programme ended. *No change* — the base holds a standing position and nothing in the period touched it. ***Baseline not held*** — there is evidence of movement but no baseline to compare it against. A value may carry a qualifying clause after a comma, as in *Movement, slipped*.
 
 ## progress-vocab
 

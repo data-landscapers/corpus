@@ -83,7 +83,7 @@ BADGE = [
 # versa.
 BADGE_MOVEMENT = [
     ("baseline not held", "badge--red"),
-    ("advanced",          "badge--green"),
+    ("movement",          "badge--green"),
     ("stalled",           "badge--amber"),
     ("regressed",         "badge--red"),
     ("closed",            "badge--grey"),
@@ -112,9 +112,9 @@ BADGE_PROGRESS = [
 # not, so 8,982 cells across the estate fell through to `badge--grey` — every positive row on
 # every country and topic progress report printed the same colour as *No change*, which is the
 # one distinction the column exists to make. `Advanced` stays because 235 rows still carry it;
-# it is not a synonym kept for taste, it is a value still in the corpus. The movement tables of
-# the region reports are a different column and keep `Advanced` as their live term, which is why
-# `BADGE_MOVEMENT` is not touched here.
+# it is not a synonym kept for taste, it is a value still in the corpus. The region reports'
+# ledgers followed on 2026-09-11 (Bill): `report-render.py` prints their `Advanced` as `Movement`,
+# which is why `BADGE_MOVEMENT` carries `movement` and no longer `advanced`.
 
 
 def frontmatter(text: str) -> tuple[dict, str]:
@@ -253,7 +253,10 @@ def classify_table(headers: list[str]) -> str:
     """
     if len(headers) > 1 and headers[1].startswith("status"):
         return "ledger"
-    if len(headers) == 4 and headers[3].startswith("movement"):
+    # The region ledger's last column has been headed `Progress` since 2026-09-11 (Bill), so its
+    # `At <date>` second column is what tells it from the indicator frame now.
+    if len(headers) == 4 and (headers[3].startswith("movement")
+                              or (headers[1].startswith("at ") and headers[3].startswith("progress"))):
         return "movement"
     # The indicator frame: `Topic | Indicator | Developments | Progress`. Four columns like the
     # movement table and badged on the last like it, but a different vocabulary and very
@@ -513,6 +516,7 @@ def archive_picker(entries: list[dict], current: str) -> str:
     same progressive enhancement the country filter uses: with no script the reader has the
     current PDF and no dead control, which is the right failure.
     """
+    entries = bulletin_editions.distinct(entries, current)
     if len(entries) < 2:
         # One edition is not an archive, and a picker offering only the file already named two
         # rows above is furniture.
