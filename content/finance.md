@@ -8,21 +8,21 @@ Draft wording. This is the part to rewrite.
 
 ## page-intro
 
-Who is paying for Africa's digital transformation, and on what terms. This page holds what the base can say about that: every commitment from a financier other than the state, and — when there is something to show — what governments are committing from their own budgets.
+**It is currently impossible to calculate total investments into digital transformation.** There are three main reasons for this. Firstly no one has integrated non-state finance data with national budgets, expenditure and audits. Secondly no one has attempted to align the full spectrum of cross-border and domestic, public and private investment. Thirdly, with the  exception of the World Bank, no investors have attempted to adopt a common modern taxonomy that classifies investments in categories compatible with digital transformation. 
 
-The two are not comparable quantities and are not presented as one. External finance is announced, and announcements are public; domestic spending is budgeted, and budget documents are neither uniform nor easy to read against each other. Putting them in the same table would imply a like-for-like the sources cannot support.
+**Over the next year we aim to fill this vacuum.** Data on national budgets is currently not available and will be published when deep dives into national budget documentation is complete.
 
 ## non-state-intro
 
-Money committed to Africa's digital sector by financiers other than the state: development finance institutions, foundations, vendors, operators and private investors. One row per commitment, each tagged to a single recipient country, so the figures sum without double-counting.
+This table documents money committed to Africa's digital sector by financiers other than the state: bilateral and multilateral donors, development finance institutions, foundations, private investors, vendors and operators and private. One row per commitment, each tagged to a single recipient country, so the figures sum without double-counting.
 
-**These are commitments, not disbursements.** A figure is the amount announced, in the year it was announced, converted from the announcing party's own currency at a dated rate — and a multi-year commitment sits wholly in its start year rather than being spread across the years it will be spent in. Money announced is not money arrived, and this base cannot tell you which commitments were honoured.
+**These are commitments, not disbursements.** This is because of the availability of data. A value in the table is the amount announced, in the year it was announced, converted from the announcing party's own currency at a dated rate — and a multi-year commitment sits wholly in its start year rather than being spread across the years it will be spent in. Money announced is not money arrived. We have insufficient evidence on which commitments were honoured.
 
-**The totals are a record of what has been reported, not a measure of the market.** The base holds what was published and could be verified; a financier that does not announce its deals is invisible here. Read a total as a floor.
+The data is sourced from the International Aid Transparency Initiative's datastore, investor's own published portfolio's, press announcements and the media in general.
 
 ## non-state-table-note
 
-Click any row to open the full record. The columns show what a reader scans by; every remaining field, including the source description in full, sits underneath. Sort on any column heading, filter with the dropdowns, and search across every field whether or not it is shown. The regional codes are recipients in their own right, not aggregates of the countries beside them.
+Click any row to open the full record. Sort on any column heading, filter with the dropdowns, and search across every field whether or not it is shown. The regional codes are recipients in their own right, not aggregates of the countries beside them.
 
 ## budgets-intro
 
