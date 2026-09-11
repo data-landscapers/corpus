@@ -36,4 +36,12 @@ Order: that table, top down — the most unanswered rows first.
 - **Authorisation.** §0 authorised the progress pass alone. Bill's trigger is this pass's authorisation, on the same boundary: nothing written to `C:\OSINT`, nothing entering a ledger directly.
 - **The loop closes through BUILD, not here.** Once OSINT ingests a batch, the report update sets `position_start` on the row from the new source and the next render moves its Progress. A staged file that never comes back through ingest changes nothing.
 
+## Runs
+
+**XAF, 2026-09-11.** 58 rows: **36 staged** (34 files in `new-queue\XAF\baseline\`, two each answering two rows), **10 held**, **12 nil**. Records: `logs/progress-filler/XAF-2026-09-11{,-selected,-unselected}.csv`. Three picks were withdrawn at merge as not stating their row's pre-window position (the reasons are in the unselected register), which is why those rows are nil.
+
+- **The 10 `held` rows need no ingest.** The base already holds a document stating their start position — the selected register names each `raw/` file — so the next report update can set `position_start` from it directly. Until it does, those rows keep printing ***Baseline not held***.
+- **The 36 staged rows wait on Bill's hand-carry and OSINT's ingest** (`notes-for-osint` 136), then the report update.
+- **Dedup is by exact URL against `lookups/raw-url-index.csv`**, run through a helper that also flags a same-path match on another host. It misses a held document filed under a different URL; the slices caught three that way by title. A later run should search `raw/` titles as well.
+
 **Cost.** 119 briefs, against the ~121-gap country passes costed in `documentation/archived/progress-filler-cost-{ZAF,AGO,GNB}.md` — roughly one country pass of the week, less the progress briefs.
