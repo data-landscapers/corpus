@@ -163,6 +163,11 @@ def issues(unit):
 NOT_HELD = "Not held"
 BASELINE_NOT_HELD = "Baseline not held"
 NO_CHANGE = "No change"
+# The ways a region ledger's `position_start` says it has none, lower-cased. Whole-cell matches
+# only: a cell that explains *why* it has no start ("Not held: the 2022 edition is not…") keeps
+# its explanation.
+NO_BASELINE = {"not held", "baseline not held", "not previously held by this base",
+               "not held in the base", "no account held"}
 MARKER = re.compile(r"<!-- narrative: ([a-z0-9-]+) -->\n(.*?)\n<!-- /narrative -->", re.S)
 
 # The two vocabularies, documentation/report-layer.md §3. They are STEMS: a value may be followed by a
@@ -1319,8 +1324,18 @@ def render_progress_movement(unit, today, month, window, end=None):
         move = (r.get("movement") or "").strip()
         # Only the end position is cited: it is the position this run established.
         b = cite(b, r, urls) if b else f"{mark(r['status'])} ({r.get('published') or 'undated'})"
-        if not a:
-            a, move = mark(BASELINE_NOT_HELD), (move or BASELINE_NOT_HELD)
+        # **No start position is one value, however the ledger words it** *(Bill, 2026-09-11)*.
+        # An empty cell, "Not held", "No account held" and the rest all print as a boxed
+        # ***Baseline not held***, and the row's Progress follows: movement with nothing to
+        # measure it from is what *Baseline not held* now means, so an `Advanced` on a row with
+        # no start is not a Movement.
+        if not a or a.strip("* ").lower() in NO_BASELINE:
+            a, move = mark(BASELINE_NOT_HELD), BASELINE_NOT_HELD
+        # The converse slip: "Did not exist" *is* a start position, and `report-layer.md` §3
+        # makes a thing that did not exist at the start a movement, never a missing baseline.
+        # 19 region rows carried both on 2026-09-11.
+        elif a.lower() == "did not exist" and stem(move) == BASELINE_NOT_HELD:
+            move = MOVEMENT
         return a, b, as_progress(move or NO_CHANGE)
 
     # A row whose most recent record was published after the window closed belongs to the status

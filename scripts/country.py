@@ -180,7 +180,10 @@ def publish_finance_csvs(iso: str, out_dir: Path, cols: list[str]) -> dict[str, 
     data, _ = editions.publish(body, out_dir, f"{iso}-nonstate", ".csv",
                                page=out_dir / "finance.html")
     edition = editions.edition_of(data.stem) or ""
+    # The table's Metadata button opens the dictionary as a table on the lookups page, which
+    # offers the CSV itself; the noscript and colophon links still name the file (Bill, 2026-09-11).
     return {"csv_name": data.name, "fields_name": f"../../metadata/{METADATA_CSV}",
+            "fields_page": "../../methodology/lookups/#non-state-finance-metadata",
             "csv_edition": edition,
             "artefacts": editions.artefact_meta(f"{iso}-nonstate", edition,
                                                 editions.digest(body))}
@@ -568,7 +571,7 @@ FINANCE = """<!DOCTYPE html>
         <span class="dt-title">{name} &mdash; non-state finance</span>
         <span class="dt-count">{fin_n} rows</span>
         <a class="btn btn--sm" href="{csv_name}" download>&darr; CSV</a>
-        <a class="btn btn--sm" href="{fields_name}" download>&darr; Metadata</a>
+        <a class="btn btn--sm" href="{fields_page}">Metadata</a>
       </div>
       <noscript>
         <p>The table is drawn in the browser from <a href="{csv_name}">{csv_name}</a>. With JavaScript off, download that file &mdash; it is the same data, every row and every field, and the <a href="{fields_name}">field dictionary</a> says what each column means.</p>

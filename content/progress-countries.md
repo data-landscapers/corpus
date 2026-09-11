@@ -2,4 +2,4 @@ Every country progress report looks for evidence impacting on 121 indicators ove
 
 Click on a country to see its full progress report.
 
-*Movement* means that some progress, however minimal has been made. *No evidence* means the repository holds nothing on that indicator for that country.
+*Movement* means that some form of progress, however minor, has been recorded. *No evidence* means the repository holds nothing on that indicator for that country.

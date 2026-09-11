@@ -29,8 +29,8 @@ are named below and left to the authoring pass; this driver produces everything 
 and renders whatever ledgers already exist.
 
 Stages
-  1. vocab      snapshot lookups/{countries.csv,taxonomy.md} -> outputs/vocab/   (so JOB 2
-                never has to read outside outputs/ — NOTES-FOR-OSINT #9)
+  1. vocab      snapshot lookups/{countries.csv,taxonomy.md,sweep-*.csv} -> outputs/vocab/
+                (so JOB 2 never has to read outside outputs/ — NOTES-FOR-OSINT #9)
   2. catalogue  raw/ -> outputs/catalogue/{raw-catalogue.csv,json} and catalogue-internal.csv
                 (the download, the record it is cut from, and the download plus the slug the
                  report layer resolves citations by — build-catalogue.py -> CSV_COLS)
@@ -209,10 +209,33 @@ def run_soft(*args):
     return r.returncode
 
 
+# The sweep lists the methodology lookups page prints and offers as CSV (Bill, 2026-09-11). They
+# are OSINT's and change when it adds a source, so the page is drawn from this snapshot rather than
+# from a hand copy in `content/`; RENDER still reads nothing outside Corpus.
+SWEEP_LISTS = ("sweep-daily.csv", "sweep-newspapers.csv", "sweep-journals.csv",
+               "sweep-thinktanks.csv", "sweep-regional-orgs.csv")
+
+
+def snapshot_financiers():
+    """`sweep-financiers.csv` is a bare column of slugs with no header; the names are in
+    `financier-names.csv`. The snapshot joins them, so the page and the download carry a name
+    beside each slug. A slug with no name keeps the slug."""
+    lk = os.path.join(OSINT, "lookups")
+    with open(os.path.join(lk, "financier-names.csv"), encoding="utf-8-sig", newline="") as fh:
+        names = {r["financier_slug"]: r["canonical_name"] for r in csv.DictReader(fh)}
+    with open(os.path.join(lk, "sweep-financiers.csv"), encoding="utf-8-sig", newline="") as fh:
+        slugs = [ln.strip() for ln in fh if ln.strip()]
+    with open(os.path.join(VOCAB, "sweep-financiers.csv"), "w", encoding="utf-8", newline="") as fh:
+        w = csv.writer(fh, lineterminator="\n")
+        w.writerow(["financier-slug", "Name"])
+        w.writerows([s, names.get(s, s)] for s in slugs)
+
+
 def snapshot_vocab():
     os.makedirs(VOCAB, exist_ok=True)
-    for name in ("countries.csv", "taxonomy.md"):
+    for name in ("countries.csv", "taxonomy.md", *SWEEP_LISTS):
         shutil.copyfile(os.path.join(OSINT, "lookups", name), os.path.join(VOCAB, name))
+    snapshot_financiers()
     print(f"  vocab -> outputs/vocab/ ({', '.join(os.listdir(VOCAB))})")
 
 

@@ -289,7 +289,10 @@ def style_tables(html: str) -> str:
             table = label_status_header(table)
             return badge_rows(table, col=1, vocab=BADGE)
         if cls == "movement":
-            return badge_rows(table, col=3, vocab=BADGE_MOVEMENT)
+            # The start column is prose, except where there is no start: that cell is boxed
+            # like the Progress value it forces *(Bill, 2026-09-11)*.
+            table = badge_rows(table, col=3, vocab=BADGE_MOVEMENT)
+            return badge_rows(table, col=1, vocab=BADGE_MOVEMENT, only="baseline not held")
         if cls == "indicator":
             return badge_rows(table, col=3, vocab=BADGE_PROGRESS, split_qualifier=True)
         if cls == "topic-progress":
@@ -316,7 +319,8 @@ def label_status_header(table: str) -> str:
     )
 
 
-def badge_rows(table: str, col: int, vocab, split_qualifier: bool = False) -> str:
+def badge_rows(table: str, col: int, vocab, split_qualifier: bool = False,
+               only: str | None = None) -> str:
     """Turn one column into the site's badge component.
 
     The cell is often a source link (always, for a ledger's Status; never,
@@ -324,14 +328,25 @@ def badge_rows(table: str, col: int, vocab, split_qualifier: bool = False) -> st
     so the badge is applied *to* the link where there is one rather than
     around it — the status keeps its colour and stays one click from the
     record it came from.
+
+    `only` badges a cell whose whole text is that value and leaves every other
+    cell in the column alone — for a column of prose that sometimes holds a
+    vocabulary value instead.
+
+    **The cell is replaced by position, not by matching its text** *(2026-09-11)*.
+    It was `row.replace(cell, …, 1)`, which rewrites the *first* identical cell in
+    the row: a region row whose start and Progress cells both read ***Baseline not
+    held*** had its start cell boxed and its Progress cell left plain.
     """
     def do_row(m: re.Match) -> str:
         row = m.group(0)
-        cells = re.findall(r"<td[^>]*>.*?</td>", row, re.S)
+        cells = list(re.finditer(r"<td[^>]*>.*?</td>", row, re.S))
         if len(cells) <= col:
             return row
         target = cells[col]
-        inner = re.sub(r"^<td[^>]*>|</td>$", "", target, flags=re.S).strip()
+        inner = re.sub(r"^<td[^>]*>|</td>$", "", target.group(0), flags=re.S).strip()
+        if only and re.sub(r"<[^>]+>", "", inner).strip().lower() != only:
+            return row
         cls = badge_class(inner, vocab)
         if inner.startswith("<a "):
             new = re.sub(r"^<a ", f'<a class="badge {cls}" ', inner, count=1)
@@ -347,7 +362,7 @@ def badge_rows(table: str, col: int, vocab, split_qualifier: bool = False) -> st
                    f'<span class="badge-note">{tail.strip()}</span>')
         else:
             new = f'<span class="badge {cls}">{inner}</span>'
-        return row.replace(target, f"<td>{new}</td>", 1)
+        return row[:target.start()] + f"<td>{new}</td>" + row[target.end():]
 
     return re.sub(r"<tr>\s*<td.*?</tr>", do_row, table, flags=re.S)
 

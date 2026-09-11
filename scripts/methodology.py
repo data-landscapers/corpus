@@ -46,10 +46,26 @@ chrome of every published page; the stub is written by hand, not built here.
 
 Uses `copy_lib` only in spirit: `##` in these files is a section heading of the
 document, not a key, so both are read whole.
+
+**The lookups annex is the one page here with data in it** *(Bill, 2026-09-11)*. Its
+lists change — OSINT adds a newspaper, a financier, an institution — so a table
+pasted into `methodology-lookups.md` is a second copy that goes stale (the
+newspapers table was already a row behind its file when this changed). A table
+there is now a directive, `<!-- table: path/to.csv | optional, columns -->`, and
+`lookup_tables()` draws it from the file at build time. Every table on the page
+carries a CSV button: the source file, copied beside the page (or linked where it
+already sits in `site/`), or for a table still written in the markdown, that table
+written out. The copy in `site/` is a build product like every other file there,
+rewritten each run and never edited; the lookup stays the one copy anyone keeps.
+They carry no edition date, for the reason `site/metadata/` does not: they describe
+vocabularies, not findings.
 """
 from __future__ import annotations
 
+import csv
+import os
 import re
+import shutil
 from datetime import date
 from pathlib import Path
 
@@ -133,7 +149,85 @@ def soft_breaks(html: str) -> str:
         html)
 
 
-def convert(md_path: Path) -> str:
+TABLE = re.compile(r"^<!--\s*table:\s*(\S+?)\s*(?:\|\s*(.*?))?\s*-->\s*$")
+RULE = re.compile(r"^\|?[\s:|-]+\|?\s*$")
+
+
+def csv_button(href: str) -> list[str]:
+    """The download, as a raw HTML block — blank lines either side so markdown leaves it be."""
+    return ["", f'<p class="lookup-csv"><a class="btn btn--sm" href="{href}" download>'
+                f'&darr; CSV</a></p>', ""]
+
+
+def md_table(header: list[str], rows: list[list[str]]) -> list[str]:
+    def cell(v: str) -> str:
+        return v.replace("|", "\\|").replace("\n", " ").strip()
+    return (["| " + " | ".join(cell(h) for h in header) + " |",
+             "|" + "---|" * len(header)]
+            + ["| " + " | ".join(cell(c) for c in r) + " |" for r in rows])
+
+
+def lookup_tables(text: str, out_dir: Path) -> str:
+    """Draw every `<!-- table: … -->` from its file, and put a CSV button on every table.
+
+    A directive names a path from the repo root and, optionally, the columns to show; the
+    download is the whole file whatever the page shows. A table still written in the
+    markdown is written out as `{section-slug}.csv`. CSVs this run did not write are
+    deleted, so a table taken off the page takes its download with it. A directive naming
+    a missing file or column stops the build: a page quietly missing a list looks finished."""
+    out_dir.mkdir(parents=True, exist_ok=True)
+    lines, out, heading, written, i = text.splitlines(), [], "", set(), 0
+    while i < len(lines):
+        ln = lines[i]
+        if ln.startswith("## "):
+            heading = ln[3:].strip()
+        m = TABLE.match(ln)
+        if m:
+            src = CORPUS / m.group(1)
+            if not src.exists():
+                raise SystemExit(f"methodology.py: the {heading!r} table reads {m.group(1)}, "
+                                 f"which is not there.")
+            with open(src, encoding="utf-8-sig", newline="") as fh:
+                header, *rows = [r for r in csv.reader(fh) if r]
+            if m.group(2):
+                cols = [c.strip() for c in m.group(2).split(",")]
+                gone = [c for c in cols if c not in header]
+                if gone:
+                    raise SystemExit(f"methodology.py: {m.group(1)} has no column "
+                                     f"{', '.join(gone)} for the {heading!r} table.")
+                idx = [header.index(c) for c in cols]
+                header, rows = cols, [[r[k] if k < len(r) else "" for k in idx] for r in rows]
+            if src.is_relative_to(CORPUS / "site"):
+                href = Path(os.path.relpath(src, out_dir)).as_posix()
+            else:
+                shutil.copyfile(src, out_dir / src.name)
+                written.add(src.name)
+                href = src.name
+            out += csv_button(href) + md_table(header, rows)
+            i += 1
+            continue
+        if ln.startswith("|") and i + 1 < len(lines) and RULE.match(lines[i + 1]):
+            block = []
+            while i < len(lines) and lines[i].startswith("|"):
+                block.append(lines[i])
+                i += 1
+            name = f"{slug(heading)}.csv"
+            with open(out_dir / name, "w", encoding="utf-8", newline="") as fh:
+                csv.writer(fh, lineterminator="\n").writerows(
+                    [c.strip() for c in row.strip().strip("|").split("|")]
+                    for k, row in enumerate(block) if k != 1)
+            written.add(name)
+            out += csv_button(name) + block
+            continue
+        out.append(ln)
+        i += 1
+    for f in out_dir.glob("*.csv"):
+        if f.name not in written:
+            f.unlink()
+    return "\n".join(out) + "\n"
+
+
+def convert(md_path: Path, text: str | None = None) -> str:
     """The page's markdown, as HTML.
 
     **`nl2br`, because a line break in these files is meant** *(Bill, 2026-09-09)*.
@@ -154,7 +248,7 @@ def convert(md_path: Path) -> str:
     having the breaks that are meant come out.
     """
     return soft_breaks(markdown.markdown(
-        md_path.read_text(encoding="utf-8"),
+        md_path.read_text(encoding="utf-8") if text is None else text,
         extensions=["tables", "attr_list", "sane_lists", "toc", "nl2br"]))
 
 
@@ -203,42 +297,47 @@ def indent(html: str) -> str:
 # `methodology.css` and there is no second use of it yet.
 PAGES = [
     dict(source="methodology.md", slug="", h1="Methodology",
-         title="Methodology", nav="Methodology", strip=False, body="",
+         title="Methodology", nav="Methodology", strip=False, body="", tables=False,
          description=("How the Data Landscapers corpus is built: what is collected, "
                       "how it is classified, how figures are dated, and what the "
                       "base does not claim.")),
     dict(source="document-lifecycle.md", slug="document-lifecycle",
          h1="The life of a document", title="Methodology — document lifecycle",
-         nav="Document Lifecycle", strip=True, body="",
+         nav="Document Lifecycle", strip=True, body="", tables=False,
          description=("One document's journey through Corpus, from a Somali news "
                       "site to three published reports: how it was found, screened, "
                       "classified, stored, and turned into a dated claim.")),
     dict(source="process-inventory.md", slug="process-inventory",
          h1="Process inventory", title="Methodology — process inventory",
-         nav="Process Inventory", strip=False,
+         nav="Process Inventory", strip=False, tables=False,
          body=" article-body--inventory",
          description=("Every procedure Corpus runs, in the order the work happens: "
                       "what each step does, and which instruction file or script "
                       "does it.")),
     dict(source="methodology-lookups.md", slug="lookups", h1="Process lookups",
          title="Methodology — process lookups", nav="Process Lookups",
-         strip=True, body="",
+         strip=True, body="", tables=True,
          description=("The fixed lists behind the corpus: country and region codes, "
-                      "the topic taxonomy, and the journals, newspapers, financiers "
-                      "and institutions the sweeps search.")),
+                      "the topic taxonomy, the journals, newspapers, financiers "
+                      "and institutions the sweeps search, and what each column of "
+                      "the downloadable tables means.")),
 ]
 
 
 def build(md_path: Path, out_dir: Path, *, h1: str, title: str, description: str,
-          canonical: str, depth: int, prefix: str = "", body_class: str = "") -> int:
+          canonical: str, depth: int, prefix: str = "", body_class: str = "",
+          tables: bool = False) -> int:
     out_dir.mkdir(parents=True, exist_ok=True)
+    text = md_path.read_text(encoding="utf-8")
+    if tables:
+        text = lookup_tables(text, out_dir)
     (out_dir / "index.html").write_text(external_links(PAGE.format(
         feedback=feedback(title, canonical),
         h1=h1, title=title, description=description, canonical=canonical,
         base=SITE_BASE, main=MAIN_SITE, body_class=body_class,
         chrome=chrome('methodology', depth=depth), foot=foot(depth=depth),
         styles=styles(depth, "methodology.css"), ga=ga(),
-        body=indent(prefix + convert(md_path)),
+        body=indent(prefix + convert(md_path, text)),
         source=md_path.relative_to(CORPUS).as_posix(),
         built=date.today().isoformat(),
     )), encoding="utf-8")
@@ -261,7 +360,7 @@ def main() -> int:
         words = build(
             src, out, h1=page["h1"], title=page["title"],
             description=page["description"], canonical=f"{SITE_BASE}{url}",
-            depth=depth, body_class=page["body"],
+            depth=depth, body_class=page["body"], tables=page["tables"],
             prefix=see_also(page["slug"])
             + (contents_strip(src) if page["strip"] else ""))
         print(f"methodology: {words:,} words -> site{url}index.html")

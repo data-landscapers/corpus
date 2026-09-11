@@ -296,11 +296,13 @@ python scripts/r2-sync.py --prune-local --apply
 python scripts/methodology.py     # -> site/methodology/ + its three annexes
 ```
 
-**Four pages, four markdown files, no data.** `/methodology/` and its annexes
+**Four pages, four markdown files.** `/methodology/` and its annexes
 `document-lifecycle/`, `process-inventory/` and `lookups/` are `content/`
-converted and wrapped in the site chrome — the one page type on the site derived
-from nothing but its own file, so it neither reads `outputs/` nor cares whether
-the rest of this runbook ran. The script's own header is the description; `PAGES`
+converted and wrapped in the site chrome. **The lookups annex also reads data**
+*(2026-09-11)*: its tables are drawn at build time from the files they list —
+`lookups/`, the sweep lists BUILD stage 1 snapshots into `outputs/vocab/`, and
+`site/metadata/` — and each is offered as a CSV beside the page. Nothing else
+here cares whether the rest of this runbook ran. The script's own header is the description; `PAGES`
 in it is the list, and adding a fifth page means a row there and a content file,
 nothing else. It writes no edition and nothing here is citable, so it is safe to
 run on its own after an edit to `content/` — which is the usual reason to run it.

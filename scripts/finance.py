@@ -170,7 +170,7 @@ PAGE = """<!DOCTYPE html>
         <span class="dt-title">Africa &mdash; non-state finance</span>
         <span class="dt-count">{deals} rows</span>
         <a class="btn btn--sm" href="{csv_name}" download>&darr; CSV</a>
-        <a class="btn btn--sm" href="../metadata/{metadata}" download>&darr; Metadata</a>
+        <a class="btn btn--sm" href="../methodology/lookups/#non-state-finance-metadata">Metadata</a>
       </div>
       <noscript>
         <p>The table is drawn in the browser from <a href="{csv_name}">{csv_name}</a>. With JavaScript off, download that file &mdash; it is the same data, every row and every field. At {deals} rows it is the one table on this site that could not sensibly be written into the page itself.</p>
