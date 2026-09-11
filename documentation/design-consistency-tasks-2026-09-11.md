@@ -3,24 +3,37 @@ type: tasks
 title: Design consistency — tasks for Claude Code
 date: 2026-09-11
 source: documentation/design-consistency-review-2026-09-11.md (finding codes A1–C7 refer to it)
-status: 1, 9 and 11 done 2026-09-11 (CC); the rest waits for the freeze to lapse on 2026-09-27
+status: 1–12 done 2026-09-11 (CC, on Bill's instruction to set the freeze aside); 13 is Bill's
 ---
 
 # Design consistency — tasks for CC
 
 ## Where this stands (CC, 2026-09-11)
 
-**Done.** These were defects under the freeze test (something wrong, not something missing), so they went ahead. Each was measured before and after in Chrome at 390×844 and 1366×768.
+**Tasks 1–12 are done; 13 is Bill's.** Bill set the freeze aside for this work. Every change was measured before and after, in Chrome at 390×844 and 1366×768, with `design-review-audit.js` run under Playwright. Main-site figures are from the live site after deploy. Upstream commits are `14b0b6a`, `fd78524` and `d1f46fe`; Corpus's shared copies are marked at `fd78524`.
 
 - **1 (A1):** `chrome_lib.chrome()` now carries the website's hamburger markup. Below 900px the `corpus-nav` is one row that scrolls sideways. At 390px, header plus nav is 105px, down from 198px, and the hamburger opens the four main-site items. Nothing moved at 1366px.
 - **11 (C4):** the pivot and both progress tables sit in `.table-scroll` (`corpus.css`), which scrolls at 720px and below only. At wider widths the progress table's sticky header keeps working. The colophon `dd` is `overflow-wrap: anywhere` in a `minmax(0, 1fr)` column. The review missed one page: the report colophon on `/bulletin/` ran to 512px because the edition picker is sized by its longest option. It has a screen-only fix in `report.css`, so no PDF reflows. `scrollWidth` now equals the viewport width on all 13 pages measured.
 - **9 (A3):** a script at the foot of data-landscapers `_layouts/default.html` (commit `14b0b6a`). Run against the live `/portfolio/`, links opening in place fell from 14 of 17 to 0, and no internal link gained a target.
 
-The pages were re-rendered with `render.py --repage` and the page builders: 423 HTML files changed, and no edition, CSV or PDF was minted. `lint-external-links.py` is clean.
+- **2 (A4):** the task ran the wrong way. On 2026-09-09 Bill took `Bill Anderson /` and the link row off Corpus's footer, so the stale one was the main site's. Bill chose Corpus's wording, and the main site's layout now carries it word for word. The CC BY link's inline style became `.site-footer__copy a` in `main.css`.
+- **3 (A5):** buttons are `.btn` (0.82rem) and a new `.btn--sm` (0.7rem) for the data-table toolbar and the catalogue's download box. `datatable.js` puts `btn--sm` on the buttons it creates. The article and report PDF buttons lost their inline 0.8rem. The audit now reports only 14.76px and 12.6px.
+- **4 (A2, C1–C3, C7):** **`.article-header` became the page head; there is no new `.page-head`.** It was already the head for the essay, every report, progress and methodology, and the print CSS and `test_editions.py` key on it, so a rename would have touched all of those for no gain. It gained `__crumb`, `__meta` (`__byline` left, `__actions` right) and a `--norule` modifier. `.country-head`, `.crumb` and the bare `h1` are retired; `.cathead` survives only as the catalogue's grid hook. Every page has one `h1` except the two home pages.
+  - The head starts at the same point everywhere. The `h1` sits at 89px on the main site's index pages and at 127px on Corpus pages with nothing above the title. It drops one row, to 155–157px, where a crumb or a report's kicker comes first, and to 182px on Countries & Regions, which keeps its stat bar above the head. Before, the offsets were 109, 127, 131, 139 and 157px.
+  - **Crumbs** go on pages below a nav index: place pages, their finance tables and topic pages. Documents keep their kicker instead of gaining a crumb row. The review's suggestion put crumbs on reports too, but that costs a line against a fold budget they already miss.
+  - `.report-row__meta` and the `/finance/` stat line carry `.byline`, the one byline style. `region.py` was missing from the task's builder list and is covered.
+- **5 (A6):** the byline and the PDF button were already on one row. The standfirst lost its tinted box. The Kenya monthly's first body line moved from 531px to 504px; the status report is unchanged at 462px, the bulletin is at 488px and methodology at 311px. **300px is not reachable** without taking the standfirst or the contents bar off the first screen, and both were placed there by decision. So `house-style.md` records the measured figure instead of a target the reports cannot meet.
+- **6 (B1, B4, B5, A8):** inline `style` attributes are at 0 on `/`, `/writing/`, `/portfolio/` and `/about/` (they were 48, 94, 282 and 15). `/portfolio/` has no `<style>` block left. All three lists are built on the `.article-list` classes, and the category chip is `.badge--grey`. The sidebar label colour, the first section's missing rule and the aside padding (now 1.75rem) moved into CSS, as did the article footer (`.article-footer`) and the about page (`.about-row`). `/writing/`, `/portfolio/` and `/about/` each have an `h1`.
+- **7 (B2):** `.filter-select` joins the `.data-table-controls select` rule; on `/writing/` it measures Lato, 14.4px, 2px radius, `--rule` border. The bulletin's filter, whose own comment calls it the same control, now matches it, and the edition picker takes the control radius of 2px.
+- **8 (B3):** `.lab-notice` now uses the amber badge tints and the 3px callout border, and sits below the page head. The working paper's first line moved from 485px to 471px. It is still over 300px because of the kicker and a two-line title.
+- **10 (A7):** the table's badges use the house tints, the scrollbar thumb has a 3px radius, and the head is closed by a 1px `--rule`. The breakout width is stated once as `--dt-max: 1800px`, unchanged; **Bill to confirm the figure.** The article layout's asset stamp went from `v=3` to `v=4`: a fixed stamp is a cache key, and the live table went on serving the old files until the stamp was bumped. On the live working paper the table draws 306 rows, sorts, and wears the new styles.
+- **12 (C5):** `home.css` now holds the hero alone and loads only on the home page; everything else in it moved to `corpus.css`. Every other page loads `main.css`, `corpus.css`, at most one page-type sheet, and `datatable.css` where it has a table.
 
-**Task 2 is backwards.** On 2026-09-09 Bill took `Bill Anderson /` and the link row off the Corpus footer, because the company is the licensor (`chrome_lib.foot()` docstring). The main site's footer is therefore the stale one, not Corpus's. Aligning them means changing the main site's copyright line. That is a statement about who holds the licence, on Bill's own site, so it is his call and has not been done.
+Each Corpus change reached the served pages through `render.py --repage` and the page builders; no edition, CSV or PDF was minted. `lint-external-links.py` and `lint-shared-assets.py` are clean.
 
-**Waiting for the freeze to lapse (2026-09-27):** tasks 3–8, 10 and 12. None of them is a reader losing something. They are consolidation: a new component, class clean-up, and moving rules between sheets. That is the kind of work the freeze exists to hold back. Task 4 rewrites the markup that 3, 5, 6, 7 and 8 touch, so it goes first, as one pass. Task 4 names nine builders under "six" and omits `region.py`, which shares `country.py`'s head.
+At 390px the live main site shows the hamburger and nothing overflows on the six pages audited: home, writing, portfolio, about, an essay and a working paper.
+
+**Found in passing:** `scripts/test_render_gate.py` fails one case, "a deleted PDF is re-cut under its own name". It fails the same way at `0fa288f`, before any of this work, and has not been investigated.
 
 **Task 13 (C6)** is still Bill's call.
 

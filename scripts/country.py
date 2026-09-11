@@ -414,7 +414,7 @@ def report_rows(rows: list[dict], iso: str) -> str:
         <div class="report-row__main">
           <div class="report-row__kind">{r['label']}</div>
           <div class="report-row__blurb">{r['blurb']}</div>
-          <div class="report-row__meta">Edition of <span class="mono">{r['edition']}</span>
+          <div class="report-row__meta byline">Edition of <span class="mono">{r['edition']}</span>
             {' &nbsp;·&nbsp; ' + counts if counts else ''}</div>
         </div>
         <div class="report-row__acts">
@@ -459,11 +459,12 @@ COUNTRY = """<!DOCTYPE html>
   <main id="main">
   <div class="container">
 
-    <div class="country-head">
+    <header class="article-header article-header--norule">
+      <div class="article-header__crumb"><a href="{base}/countries/">Countries &amp; Regions</a></div>
       {feedback}
-      <h1>{name}</h1>
-      <div class="country-head__meta">{iso} &nbsp;·&nbsp; last updated {built}</div>
-    </div>
+      <h1 class="article-header__title">{name}</h1>
+      <div class="article-header__byline">{iso} &nbsp;·&nbsp; last updated {built}</div>
+    </header>
 
     <h2 class="section-heading">Reports</h2>
 {reports}
@@ -545,12 +546,12 @@ FINANCE = """<!DOCTYPE html>
   <main id="main">
   <div class="container container--wide">
 
-    <div class="country-head">
-      <div class="crumb"><a href="{base}/countries/">Countries &amp; Regions</a> &nbsp;/&nbsp; <a href="index.html">{name}</a> &nbsp;/&nbsp; Non-state finance</div>
+    <header class="article-header">
+      <div class="article-header__crumb"><a href="{base}/countries/">Countries &amp; Regions</a> &nbsp;/&nbsp; <a href="index.html">{name}</a></div>
       {feedback}
-      <h1>Non-state finance</h1>
-      <div class="country-head__meta">{name} &nbsp;·&nbsp; {fin_n} commitments &nbsp;·&nbsp; US${fin_total}m &nbsp;·&nbsp; {y0}&ndash;{y1}</div>
-    </div>
+      <h1 class="article-header__title">Non-state finance</h1>
+      <div class="article-header__byline">{name} &nbsp;·&nbsp; {fin_n} commitments &nbsp;·&nbsp; US${fin_total}m &nbsp;·&nbsp; {y0}&ndash;{y1}</div>
+    </header>
 
     <p>Every non-state commitment the base holds for {name}. One row per commitment; each is tagged to one {unit} only, so per-{unit} totals sum without double-counting. <strong>Click any row to open the full record</strong> &mdash; the columns show what a reader scans by, and the rest of the fields sit underneath rather than four screens to the right. Sort on any column heading, filter with the dropdowns, and search across every field whether or not it is shown. The <code>url</code> column is the publisher&rsquo;s own link to the source the row was read from.</p>
 
@@ -566,8 +567,8 @@ FINANCE = """<!DOCTYPE html>
       <div class="dt-controls">
         <span class="dt-title">{name} &mdash; non-state finance</span>
         <span class="dt-count">{fin_n} rows</span>
-        <a class="btn" href="{csv_name}" download>&darr; CSV</a>
-        <a class="btn" href="{fields_name}" download>&darr; Metadata</a>
+        <a class="btn btn--sm" href="{csv_name}" download>&darr; CSV</a>
+        <a class="btn btn--sm" href="{fields_name}" download>&darr; Metadata</a>
       </div>
       <noscript>
         <p>The table is drawn in the browser from <a href="{csv_name}">{csv_name}</a>. With JavaScript off, download that file &mdash; it is the same data, every row and every field, and the <a href="{fields_name}">field dictionary</a> says what each column means.</p>
@@ -657,7 +658,7 @@ def build(iso: str) -> list[Path]:
         budget_intro=copy_inline("country", "budget-intro"),
         reports=report_rows(report_editions(iso), iso),
         finance_section=finance_section,
-        styles=styles(2, "home.css", "country.css"), ga=ga(),
+        styles=styles(2, "country.css"), ga=ga(),
         **common)), encoding="utf-8")
 
     written = [out_dir / "index.html", out_dir / cat_csv]
@@ -669,7 +670,7 @@ def build(iso: str) -> list[Path]:
             unit="country",
             fin_total=f"{sum(amounts):,.0f}",
             y0=(min(ys) if ys else "&mdash;"), y1=(max(ys) if ys else "&mdash;"),
-            styles=styles(2, "home.css", "country.css", "datatable.css"),
+            styles=styles(2, "country.css", "datatable.css"),
             datatable=script("datatable.js", 2),
             ga=ga(), **csv_names, **common)), encoding="utf-8")
         written.append(out_dir / "finance.html")

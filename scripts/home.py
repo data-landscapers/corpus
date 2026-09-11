@@ -437,8 +437,12 @@ COUNTRIES_TEMPLATE = """<!DOCTYPE html>
   <div class="container">
 
     <!-- h2, matching Regions below (Bill, 2026-09-02) — both are sections of one
-         page, not a page title, so neither takes an h1. -->
-    {feedback}
+         page, not a page title, so neither takes an h1. The page title above them
+         is the house page head (2026-09-11), which every page carries. -->
+    <header class="article-header article-header--norule">
+      {feedback}
+      <h1 class="article-header__title">Countries &amp; Regions</h1>
+    </header>
     <h2 class="section-heading" id="countries">Countries</h2>
     <p class="section-intro">{countries_intro}</p>
     <div class="boxes">
@@ -497,7 +501,7 @@ def build_countries() -> Path:
         base=SITE_BASE, built=built,
         favicon=f"{MAIN_SITE}/assets/favicon.svg",
         chrome=chrome("countries", depth=1), foot=foot(depth=1),
-        styles=styles(1, "home.css"), ga=ga(),
+        styles=styles(1), ga=ga(),
         docs=f"{s['documents']:,}",
         ncountries=sum(1 for k, v in by_place.items() if not k.startswith("X") and v),
         countries=country_boxes(by_place),
@@ -549,8 +553,10 @@ TOPICS_TEMPLATE = """<!DOCTYPE html>
   <main id="main">
   <div class="container">
 
-    {feedback}
-    <h1>Topics</h1>
+    <header class="article-header">
+      {feedback}
+      <h1 class="article-header__title">Topics</h1>
+    </header>
     <p class="section-intro">{topics_intro}</p>
 
 {topics}
@@ -598,7 +604,7 @@ def build_topics() -> Path:
         base=SITE_BASE, built=built,
         favicon=f"{MAIN_SITE}/assets/favicon.svg",
         chrome=chrome("topics", depth=1), foot=foot(depth=1),
-        styles=styles(1, "home.css"), ga=ga(),
+        styles=styles(1), ga=ga(),
         ntopics=ntopics,
         topics=topic_grid(s["by_topic"]),
         topics_intro=copy_inline("home", "topics-intro"),

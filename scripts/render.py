@@ -456,7 +456,7 @@ TEMPLATE = """<!DOCTYPE html>
         <h1 class="article-header__title">{h1}</h1>
         <div class="article-header__meta">
           <div class="article-header__byline" data-edition="{edition}">{byline}</div>
-          <div class="screen-only">{download}</div>
+          <div class="article-header__actions screen-only">{download}</div>
         </div>
       </header>
 
@@ -732,8 +732,7 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
     # what the arrow already says, and a button on its own line below the byline had the header
     # ending on a call to action rather than on what the document is.
     if pdf:
-        download = (f'<a href="{SITE_BASE}/{rel_pdf}.pdf" class="btn btn--accent" '
-                    f'style="font-size:0.8rem;">&darr; PDF</a>')
+        download = f'<a href="{SITE_BASE}/{rel_pdf}.pdf" class="btn btn--accent">&darr; PDF</a>'
         colophon_rows = f"          <dt>This file</dt><dd>{SITE_BASE}/{rel_pdf}.pdf</dd>"
     else:
         download = ""

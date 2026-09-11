@@ -33,17 +33,17 @@
 
 /* --- report header ------------------------------------------------------- */
 
-/* The standfirst: the *Compiled …* paragraph every report opens with. Same
-   treatment as the site's article subtitle, given a tint so it reads as
-   apparatus rather than argument. */
+/* The standfirst: the *Compiled …* paragraph every report opens with. The house
+   callout — a 3px accent rule on the left — and no longer a tinted box
+   (2026-09-11): a second boxed block above the contents bar was the heaviest
+   thing between the title and the first line of the report. */
 .report-standfirst {
   font-size: 0.9rem;
   line-height: 1.5;
   color: var(--ink-light);
-  background: var(--paper-warm);
   border-left: 3px solid var(--accent);
-  padding: 0.75rem 1.25rem;
-  margin: 0 0 1.25rem;
+  padding: 0.1rem 0 0.1rem 1rem;
+  margin: 0 0 1rem;
 }
 
 .report-standfirst code { background: rgba(255,255,255,.6); }
@@ -122,13 +122,15 @@
   color: var(--ink-faint);
 }
 
+/* The house control, value for value with `.filter-select` in main.css, which the
+   Lab index's filter became on 2026-09-11 — so "same control" stays true. */
 .bulletin-filter select {
-  font-family: var(--mono);
+  font-family: var(--serif);
   font-size: 0.8rem;
-  padding: 4px 8px;
+  padding: 0.35rem 0.7rem;
   border: 1px solid var(--rule);
-  border-radius: 3px;
-  background: #fff;
+  border-radius: 2px;
+  background: white;
   color: var(--ink);
   cursor: pointer;
 }
@@ -201,7 +203,7 @@
   max-width: 100%;
   padding: 2px 6px;
   border: 1px solid var(--rule);
-  border-radius: 3px;
+  border-radius: 2px;   /* a control: the house's 2px, not the container's 3 */
   background: #fff;
   color: var(--ink);
   cursor: pointer;
@@ -241,18 +243,9 @@
    two stay on the same level at every width. `min-width: 0` is what lets a
    flex item shrink below its content: without it the byline refuses to narrow
    and pushes the button off the right edge. */
-.article-header__byline { font-size: 0.8rem; color: var(--ink-faint); }
-
-.article-header__meta {
-  display: flex;
-  align-items: flex-end;      /* the button's foot on the byline's last line */
-  justify-content: space-between;
-  flex-wrap: nowrap;
-  gap: 1.5rem;
-}
-
-.article-header__meta > .article-header__byline { flex: 1 1 auto; min-width: 0; }
-.article-header__meta > .screen-only { flex: 0 0 auto; }
+/* The rules themselves went up to `main.css` on 2026-09-11 as the house page
+   head's byline row (`.article-header__meta`, `__actions`), which every page on
+   both sites now uses — the essay's PDF button sits the same way. */
 
 /* The status-value key. Reference matter, not prose. */
 .report-key {

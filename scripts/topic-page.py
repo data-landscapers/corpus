@@ -121,7 +121,7 @@ def document_rows(slug_path: str) -> str:
         <div class="report-row__main">
           <div class="report-row__kind">{label}</div>
           <div class="report-row__blurb">{blurb}</div>
-          <div class="report-row__meta">{' &nbsp;·&nbsp; '.join(bits)}</div>
+          <div class="report-row__meta byline">{' &nbsp;·&nbsp; '.join(bits)}</div>
         </div>
         <div class="report-row__acts">
           <a class="btn" href="{stem}.html">Read</a>
@@ -166,13 +166,12 @@ PAGE = """<!DOCTYPE html>
   <main id="main">
   <div class="container">
 
-    <div class="crumb"><a href="{base}/topics/">Topics</a> &nbsp;/&nbsp; {crumb}</div>
-
-    <div class="country-head">
+    <header class="article-header article-header--norule">
+      <div class="article-header__crumb"><a href="{base}/topics/">Topics</a> &nbsp;/&nbsp; {crumb}</div>
       {feedback}
-      <h1>{title}</h1>
-      <div class="country-head__meta">{meta}</div>
-    </div>
+      <h1 class="article-header__title">{title}</h1>
+      <div class="article-header__byline">{meta}</div>
+    </header>
 
 {body}
 
@@ -206,7 +205,7 @@ def write(path: str, title: str, description: str, crumb: str, meta: str, body: 
         base=SITE_BASE, path=path, title=e(title), description=e(description),
         crumb=crumb, meta=meta, body=body,
         favicon=f"{MAIN_SITE}/assets/favicon.svg",
-        styles=styles(2, "home.css", "country.css"), ga=ga(),
+        styles=styles(2, "country.css"), ga=ga(),
         chrome=chrome("topics", depth=2),
         foot=foot(depth=2),
     )), encoding="utf-8")

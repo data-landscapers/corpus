@@ -237,7 +237,7 @@ def build(md_path: Path, out_dir: Path, *, h1: str, title: str, description: str
         h1=h1, title=title, description=description, canonical=canonical,
         base=SITE_BASE, main=MAIN_SITE, body_class=body_class,
         chrome=chrome('methodology', depth=depth), foot=foot(depth=depth),
-        styles=styles(depth, "home.css", "methodology.css"), ga=ga(),
+        styles=styles(depth, "methodology.css"), ga=ga(),
         body=indent(prefix + convert(md_path)),
         source=md_path.relative_to(CORPUS).as_posix(),
         built=date.today().isoformat(),

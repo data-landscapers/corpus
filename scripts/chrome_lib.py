@@ -313,12 +313,11 @@ def feedback(what: str, url: str) -> str:
     title); `url` is the page's canonical address, repeated in the body because
     a subject line is the first thing a forwarded mail loses.
 
-    **Before the h1, not inside a flex row with it.** The site has four heading
-    wrappers — `.country-head`, `.article-header`, `.cathead` and a bare `<h1>`
-    on the topic pages — and making all four a flex container is the four-copy
-    edit this module exists to stop. A float placed ahead of the heading sits on
-    its first line whatever block encloses it, needs nothing of the wrapper, and
-    is shorter than any `h1` on the site, so it can never overflow one.
+    **Before the h1, not inside a flex row with it.** A float placed ahead of the
+    heading sits on its first line whatever block encloses it, needs nothing of the
+    wrapper, and is shorter than any `h1` on the site, so it can never overflow one.
+    Every page head is `.article-header` since 2026-09-11 (there were four
+    wrappers), but the catalogue's is a grid and places the ask itself.
 
     The mailto carries a subject and a body, so what arrives is already labelled
     with the page it is about. That is the whole reason this is not a form: a
@@ -362,10 +361,13 @@ def foot(depth: int = 1, year: int | None = None) -> str:
     **The company holds the licence, and the two links are gone** *(Bill, 2026-09-09)*.
     `Bill Anderson /` named a person beside the company that is the licensor; and the link row
     repeated what is already above it — the masthead logo goes to `data-landscapers.io` and
-    Methodology is a nav item on every page. A footer that restates the header is furniture."""
+    Methodology is a nav item on every page. A footer that restates the header is furniture.
+
+    **The main site carries this footer word for word** *(Bill, 2026-09-11)*: its layout
+    dropped the name and its LinkedIn and GitHub row the same day. Change one, change both."""
     return f"""  <footer class="site-footer">
     <div class="site-footer__inner">
-      <p class="site-footer__copy"><a href="https://creativecommons.org/licenses/by/4.0/" style="color:inherit;border-bottom:none;">CC BY 4.0</a> {year or date.today().year} Data Landscapers Ltd &nbsp;·&nbsp; Registered in the UK · Co. No. 16040544</p>
+      <p class="site-footer__copy"><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> {year or date.today().year} Data Landscapers Ltd &nbsp;·&nbsp; Registered in the UK · Co. No. 16040544</p>
     </div>
   </footer>"""
 

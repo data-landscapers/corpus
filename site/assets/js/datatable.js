@@ -171,7 +171,7 @@
      disabled and can be copied, opened in a tab, or right-clicked like any link. */
   function downloadLink(href, label) {
     var a = document.createElement('a');
-    a.className = 'btn';
+    a.className = 'btn btn--sm';
     a.href = href;
     a.setAttribute('download', '');
     a.innerHTML = '&darr; ' + esc(label);

@@ -688,10 +688,10 @@ FOOT = foot(depth=1)
 
 BODY = r"""
 <div class="cat">
-  <div class="cathead">
+  <div class="article-header cathead">
     """ + feedback("Catalogue", f"{SITE_BASE}/catalogue/") + r"""
     <div class="cathead__text">
-      <h1>Catalogue</h1>
+      <h1 class="article-header__title">Catalogue</h1>
       <div class="lede">""" + copy("catalogue", "lede") + r"""</div>
     </div>
 
@@ -718,13 +718,13 @@ BODY = r"""
       <table>
         <tr><th colspan="3">Downloads</th></tr>
         <tr><td>Whole catalogue <span class="dlsize">{csvsize}</span></td>
-            <td><a class="btn" href="raw-catalogue.csv" download data-dlfile="1">&darr; CSV</a></td>
-            <td><button class="btn" data-dl="json" data-all="1" disabled>&darr; JSON</button></td></tr>
+            <td><a class="btn btn--sm" href="raw-catalogue.csv" download data-dlfile="1">&darr; CSV</a></td>
+            <td><button class="btn btn--sm" data-dl="json" data-all="1" disabled>&darr; JSON</button></td></tr>
         <tr><td>This selection</td>
-            <td><button class="btn" data-dl="csv" disabled>&darr; CSV</button></td>
-            <td><button class="btn" data-dl="json" disabled>&darr; JSON</button></td></tr>
+            <td><button class="btn btn--sm" data-dl="csv" disabled>&darr; CSV</button></td>
+            <td><button class="btn btn--sm" data-dl="json" disabled>&darr; JSON</button></td></tr>
         <tr><td>Metadata</td>
-            <td><a class="btn" href="../metadata/catalogue-metadata.csv" download>&darr; CSV</a></td>
+            <td><a class="btn btn--sm" href="../metadata/catalogue-metadata.csv" download>&darr; CSV</a></td>
             <td></td></tr>
       </table>
       <p class="dlmsg" id="dlmsg"></p>
@@ -1729,7 +1729,7 @@ def main() -> int:
     # the page. `{ver}` is substituted here rather than through `PAGE.format`, because
     # SCRIPT is JavaScript and full of braces `format` would try to read.
     html = PAGE.format(favicon=f"{MAIN_SITE}/assets/favicon.svg",
-                       styles=styles(1, "home.css", "catalogue.css"),
+                       styles=styles(1, "catalogue.css"),
                        ga=ga(),
                        chrome=CHROME, body=body, foot=FOOT,
                        script=SCRIPT.replace("{ver}", stamp(index_json)))

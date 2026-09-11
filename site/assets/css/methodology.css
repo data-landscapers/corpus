@@ -1,9 +1,9 @@
 /* methodology.css — the methodology page and its three annexes.
  *
- * Loaded after `main.css`, `corpus.css` and `home.css` by `scripts/methodology.py`,
- * and by nothing else. These four pages are prose and tables and want almost
- * nothing of their own; `home.css` is here for `.colophon`, which every page on
- * the site carries and which has lived there since before it was shared.
+ * Loaded after `main.css` and `corpus.css` by `scripts/methodology.py`, and by
+ * nothing else. These four pages are prose and tables and want almost nothing of
+ * their own; `.colophon` comes from `corpus.css` (from `home.css` on 2026-09-11,
+ * when these pages stopped loading it).
  *
  * Nothing here restates identity — no colour outside the `:root` tokens, no face,
  * no type scale (documentation/house-style.md → Where style lives). Table geometry

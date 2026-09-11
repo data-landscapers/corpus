@@ -1,29 +1,20 @@
-/* country.css — the country page and its non-state-finance table, on top of
- * main.css and home.css (same relation report.css has to main.css: palette,
- * type scale, links and site chrome come from there — this file adds only
- * the layout unique to these two pages). See build/country.py.
+/* country.css — the place and topic pages, their non-state-finance tables and
+ * `/finance/`, on top of main.css and corpus.css (same relation report.css has
+ * to main.css: palette, type scale, links and site chrome come from there —
+ * this file adds only the layout unique to these pages). See scripts/country.py.
  *
- * .colophon, .caveat and .section-intro already live in home.css, which was
- * reorganised on 2026-08-11 specifically so the country page could reuse
- * them rather than redefine them (build/home.css's own header note). Only
- * what neither main.css nor home.css already carries is here.
+ * .colophon, .caveat and .section-intro live in corpus.css (from home.css on
+ * 2026-09-11). Only what neither of those carries is here.
  */
 
 /* The h1 override is gone (2026-08-24): 3rem was a fourth h1 size on a site
    that now has one, and the page opened on a country name three lines tall.
    `main.css`'s clamp(1.6rem, 3vw, 2rem) applies. */
-/* **No rule under the name** (Bill, 2026-09-09). `.section-heading` opens the
-   first section with a terracotta rule of its own a few millimetres below, so
-   the page drew two lines in two colours to say one thing. The padding stays:
-   the gap is what separated the heading block from the section, and the grey
-   line was only ever underlining it. */
-.country-head { padding-bottom: 0.9rem; margin-bottom: 1.25rem; }
-.country-head h1 { margin-bottom: 0.25rem; }
-.country-head__meta { font-family: var(--mono); font-size: 0.72rem; color: var(--ink-faint); letter-spacing: 0.03em; }
-
-/* Used by the full non-state-finance table's breadcrumb (finance.html). */
-.crumb { font-family: var(--mono); font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.09em; color: var(--ink-faint); margin-bottom: 0.6rem; }
-.crumb a { color: var(--ink-faint); }
+/* `.country-head` and `.crumb` went on 2026-09-11: these pages open on the house
+   page head, `.article-header` in main.css, with its crumb slot. **No rule under
+   the name** (Bill, 2026-09-09) survives as `.article-header--norule`, for the
+   same reason — `.section-heading` opens the first section with a rule of its own
+   a few millimetres below. */
 
 /* The shared .stat-bar (main.css) is a full-bleed strip on the home page;
    here it sits inside the content column, so it takes its own border and
@@ -48,7 +39,8 @@
 .report-row + .report-row { border-top: 1px solid var(--rule); }
 .report-row__kind { font-family: var(--display); font-weight: 700; font-size: 1.12rem; }
 .report-row__blurb { font-size: 0.86rem; color: var(--ink-light); margin-top: 0.1rem; }
-.report-row__meta { font-size: 0.75rem; color: var(--ink-faint); margin-top: 0.4rem; }
+/* Type from `.byline` (main.css), which the row carries: one byline style, not a third. */
+.report-row__meta { margin-top: 0.4rem; }
 .report-row__meta .nh { color: var(--accent); }
 .report-row__acts { display: flex; gap: 0.5rem; align-items: center; flex-shrink: 0; }
 .report-row__acts .btn { padding: 0.4rem 1rem; }

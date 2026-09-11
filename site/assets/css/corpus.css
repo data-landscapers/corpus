@@ -73,6 +73,75 @@ h1, h2, h3, h4 { scroll-margin-top: calc(var(--header-h) + 46px); }
 .stat-bar__item { font-family: var(--serif); font-size: 0.85rem; color: var(--ink-light); }
 .stat-bar__item strong { font-family: var(--display); font-size: 1rem; font-weight: 700; color: var(--accent-dk); margin-left: 0.3rem; }
 
+/* ── SECTIONS, BOX GRIDS, COLOPHON ──
+ * From `home.css` on 2026-09-11, where they had lived since the home page was the
+ * only page — by then six other page types loaded `home.css` for them. Layout for
+ * components several Corpus pages share; no identity. */
+
+/* **`--prose`, not `1rem`** *(2026-09-10)*. The paragraph under each section
+   heading was pinned at the size `body` used to be, so when the body rule moved to
+   0.94rem below it went on printing at 18px. The token is defined in the body rule
+   and this is the only other place prose is sized, so the two cannot drift apart
+   again. It falls back to 1rem for print, where this file defines no `--prose`. */
+.section-intro { font-size: var(--prose, 1rem); line-height: 1.6; color: var(--ink-light); max-width: 46rem; margin-bottom: 1.25rem; }
+.section-intro--todo { color: var(--ink-faint); font-style: italic; }
+
+/* Footnote/caveat sits tight under its matrix, and the next section's rule
+ * follows close behind it (Bill, 2026-08-13, item 5). `main.css`'s
+ * `:first-of-type` rule still zeroes the top margin of a page's first section. */
+.caveat { font-size: 0.76rem; color: var(--ink-faint); line-height: 1.5; margin: 0.5rem 0 0; }
+.section-heading { margin-top: 1.4rem; }
+
+/* A section heading that is a link — the home page's Bulletin, Finance and
+ * Catalogue — reads as a heading, not as a link in a heading's clothing: the
+ * heading's own colour, picking up the accent on hover like the nav does. */
+.section-heading a { color: inherit; border-bottom: none; }
+.section-heading a:hover { color: var(--accent); border-bottom: none; }
+
+/* Country / region matrix: seven boxes to a row, a touch shorter than before,
+ * and a shared min-height so countries and regions line up box-for-box (Bill,
+ * 2026-08-13, items 4 and 6). Regions get a wider column: only eight boxes with
+ * longer names, every one on a single line. */
+.boxes { display: grid; grid-template-columns: repeat(auto-fill, minmax(6.6rem, 1fr)); gap: 4px; margin: 1rem 0 0.5rem; }
+.boxes--regions { grid-template-columns: repeat(auto-fill, minmax(11.5rem, 1fr)); }
+.box { display: flex; flex-direction: column; align-items: flex-start; justify-content: center; min-height: 3rem; padding: 0.4rem 0.55rem; border: 1px solid var(--rule); border-radius: 3px; background: color-mix(in srgb, var(--accent) calc(var(--fill) * 14%), var(--paper)); color: var(--ink); }
+.box:hover { border-color: var(--accent); color: var(--ink); }
+.box__k { font-family: var(--serif); font-size: 0.8rem; font-weight: 600; line-height: 1.2; }
+.box__n { font-size: 0.7rem; color: var(--ink-light); line-height: 1.2; }
+
+/* Topic matrix, `/topics/` (Bill, 2026-08-24): an h3 per Level-1 category
+ * carrying its slug stem and its roll-up count, and one row of Level-2 boxes
+ * beneath it. **Four to a row, every box two lines deep**, so ten categories line
+ * up one way down the page rather than ten; the minimum is a floor, not a height.
+ *
+ * The count floats rather than sitting beside the label in a flex row, and is
+ * written first in the markup because that is the only order a float can work
+ * in: floated, it comes off the first line only, which fits all 38 labels in two. */
+.topic-group { display: flex; align-items: baseline; gap: 0.45rem; margin: 1.7rem 0 0.4rem; font-size: 1rem; }
+.topic-group__k { font-family: var(--mono); font-size: 0.7rem; font-weight: 400; color: var(--ink-faint); }
+.topic-group__n { margin-left: auto; font-family: var(--mono); font-size: 0.72rem; font-weight: 400; color: var(--ink-light); }
+.tsub__inner { display: grid; grid-template-columns: repeat(4, 1fr); gap: 4px; padding: 6px; margin-bottom: 4px; background: color-mix(in srgb, var(--accent) 4%, var(--paper)); border: 1px solid var(--rule); border-radius: 3px; }
+.sbox { display: block; min-height: 2.95rem; padding: 0.4rem 0.6rem; border: 1px solid var(--rule); border-radius: 3px; background: color-mix(in srgb, var(--accent) calc(var(--fill) * 12%), var(--paper)); color: var(--ink); }
+.sbox:hover { border-color: var(--accent); color: var(--ink); }
+/* A subject the catalogue holds and the taxonomy does not has no page behind it,
+   so its box prints its count and is not a link. It reads as inert rather than broken. */
+.sbox--nopage { color: var(--ink-light); border-style: dashed; }
+.sbox--nopage:hover { border-color: var(--rule); }
+.sbox__l { font-size: 0.78rem; line-height: 1.25; }
+.sbox__n { float: right; margin-left: 0.5rem; font-family: var(--mono); font-size: 0.72rem; line-height: 1.35; color: var(--ink-light); white-space: nowrap; }
+/* Two columns on a phone rather than four of nothing. */
+@media (max-width: 700px) {
+  .tsub__inner { grid-template-columns: repeat(2, 1fr); }
+}
+
+/* "About this page": every Corpus page that is not a rendered document ends on one. */
+.colophon { margin: 3.5rem 0 2rem; padding: 1.25rem 1.5rem; background: var(--paper-warm); border: 1px solid var(--rule); font-size: 0.8rem; }
+.colophon dl { display: grid; grid-template-columns: 9rem minmax(0, 1fr); gap: 0.3rem 1rem; margin: 0.5rem 0 0; }
+.colophon dt { font-family: var(--mono); font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.07em; color: var(--ink-faint); }
+/* A build hash or a file path is one unbreakable word, and pushed phone pages
+   sideways until it could break anywhere (2026-09-11). */
+.colophon dd { margin: 0; overflow-wrap: anywhere; }
+
 /* ── BODY PROSE, ONE STEP DOWN ──
  * 17px against the website's 18px *(Bill, 2026-09-10)*.
  *
@@ -111,10 +180,9 @@ h1, h2, h3, h4 { scroll-margin-top: calc(var(--header-h) + 46px); }
  * The heading line is above the fold on every page in the site and, apart from
  * the catalogue's download box, it is empty.
  *
- * **A float rather than a flex row.** Four different wrappers hold an `h1` on
- * this site — `.country-head`, `.article-header`, `.cathead` and the bare `h1`
- * on the topic pages — and a flex rule would have to be written into all four
- * and remembered for the fifth. A float needs nothing of its parent. It cannot
+ * **A float rather than a flex row.** It was written when four different
+ * wrappers held an `h1` here; there is one now (`.article-header`, 2026-09-11),
+ * but a float still needs nothing of its parent, which is why it stays. It cannot
  * overflow the wrapper either: at 0.72rem it is shorter than every `h1` on the
  * site, so it always fits inside the heading's own line box.
  *

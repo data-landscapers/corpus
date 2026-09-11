@@ -1,24 +1,11 @@
-/* home.css — the home page, on top of the site's own main.css.
+/* home.css — the Corpus home page, and nothing else.
  *
- * Same relation report.css has to main.css: palette, type scale, links and
- * the site chrome all come from main.css (§1: same family, not a separate
- * identity). This file adds only the layout the home page needs — the
- * hero, the section intro copy and the country/region/topic box grids —
- * and nothing else. See build/home.py.
- *
- * Revised 2026-08-11 (Bill's numbered change list): dropped the four-card
- * grid, the two-up "what the base holds" bar tables, and the classes that
- * served only them (.cards/.card/.two-up/table.bars) — nothing else in the
- * site used them (checked before removing).
- *
- * Revised again 2026-08-11: dropped the hero's own rule (the faint line
- * stacked on the Countries heading's bold one) and .hero__sub/.n, unused
- * once Bill trimmed the hero to one line; section headings resized to match
- * an article's h2 sub-headings.
- *
- * Revised again 2026-08-11: .corpus-nav, .stat-bar and .section-heading
- * moved to main.css — the country page needs them too, and a class two page
- * types share belongs in the shared stylesheet, not copied between them.
+ * **Loaded by `home.py`'s `build()` alone since 2026-09-11.** It had become a
+ * second `corpus.css`: the box grids, the topic matrix, the colophon and the
+ * section intros were used on the countries, topics, country, finance, progress
+ * and methodology pages, so all of them loaded it and `finance.html` loaded five
+ * sheets. Those rules moved to `corpus.css`; what is left is the hero, which is
+ * this page's only. (The house checklist: at most one page-type stylesheet.)
  */
 
 /* Hero: smaller type and no trailing whitespace, so the copy sits right above
@@ -34,97 +21,6 @@
 .hero { padding: 1.75rem 0 0; margin-bottom: 0.6rem; }
 .hero p { font-size: 1.05rem; line-height: 1.5; max-width: 46rem; margin-bottom: 0; }
 .hero p + p { margin-top: 0.7rem; }
-
-/* **`--prose`, not `1rem`** *(2026-09-10)*. This is the home page's body text — the
-   paragraph under each section heading is the only prose the page has — and it was
-   pinned at the size `body` used to be. So when the body rule moved to 0.94rem in
-   `corpus.css` it went on printing at 18px, and the one page a reader meets first was
-   the one page that ignored the change. The token is defined beside that rule and this
-   is the only other place prose is sized, so the two cannot drift apart again. It falls
-   back to 1rem for print, where `corpus.css` deliberately defines nothing. */
-.section-intro { font-size: var(--prose, 1rem); line-height: 1.6; color: var(--ink-light); max-width: 46rem; margin-bottom: 1.25rem; }
-.section-intro--todo { color: var(--ink-faint); font-style: italic; }
-
-/* Footnote/caveat sits tight under its matrix, and the next section's rule
- * follows close behind it (Bill, 2026-08-13, item 5). The heading override is
- * home-only — country pages load country.css, not this file — and the
- * :first-of-type rule in main.css still zeroes the top margin of Countries. */
-.caveat { font-size: 0.76rem; color: var(--ink-faint); line-height: 1.5; margin: 0.5rem 0 0; }
-.section-heading { margin-top: 1.4rem; }
-
-/* The Bulletin heading is a link, because its two boxes came off on 2026-08-21
- * and the heading is now the only way into the page. It should read as a
- * heading, not as a link in a heading's clothing — so it takes the heading's
- * own colour and picks up the accent on hover, like the nav does. */
-.section-heading a { color: inherit; border-bottom: none; }
-.section-heading a:hover { color: var(--accent); border-bottom: none; }
-
-/* Country / region matrix: seven boxes to a row, a touch shorter than before,
- * and a shared min-height so countries and regions line up box-for-box (Bill,
- * 2026-08-13, items 4 and 6). The longest region name ("Sub-Saharan Africa")
- * is the only label that runs to two lines and so rides a hair taller. */
-.boxes { display: grid; grid-template-columns: repeat(auto-fill, minmax(6.6rem, 1fr)); gap: 4px; margin: 1rem 0 0.5rem; }
-/* Regions: only eight boxes with longer names, so they get a wider column and
- * do not follow the countries' seven-per-row (Bill, 2026-08-13). Wider boxes
- * keep every region name — "Sub-Saharan Africa" included — on one line, so the
- * boxes match the country boxes' height (item 6). */
-.boxes--regions { grid-template-columns: repeat(auto-fill, minmax(11.5rem, 1fr)); }
-.box { display: flex; flex-direction: column; align-items: flex-start; justify-content: center; min-height: 3rem; padding: 0.4rem 0.55rem; border: 1px solid var(--rule); border-radius: 3px; background: color-mix(in srgb, var(--accent) calc(var(--fill) * 14%), var(--paper)); color: var(--ink); }
-.box:hover { border-color: var(--accent); color: var(--ink); }
-.box__k { font-family: var(--serif); font-size: 0.8rem; font-weight: 600; line-height: 1.2; }
-.box__n { font-size: 0.7rem; color: var(--ink-light); line-height: 1.2; }
-
-/* Topic matrix, `site/topics/` (Bill, 2026-08-24): an h3 per Level-1 category
- * carrying its slug stem and its roll-up count, and one row of Level-2 boxes
- * beneath it. The count sits in the heading rather than in a box of its own
- * because the category has no report to open — the box that used to lead the
- * row went to an index page while every other box on the page goes to
- * documents. The ten Level-1 tiles and the panel each of them opened went
- * with the matrix when it came off the home page — a page of its own prints the
- * whole taxonomy at once, so there is nothing left to expand and no script on
- * the page at all. The class names are the panel's and outlived it; the row is
- * this page's only, now that the category pages have gone too.
- *
- * **Four to a row, every box two lines deep** (Bill, 2026-08-24). Auto-fill let
- * each category set its own column count off its own longest label, so ten rows
- * of boxes lined up ten different ways down one page — the taxonomy looked
- * ragged when it is not. Four fixed columns and a two-line minimum give every
- * box the same footprint whether its label runs to one line or two, which is
- * what makes the categories comparable at a glance. The minimum is a floor and
- * not a height: a label that needs a third line at a narrow window gets one. */
-.topic-group { display: flex; align-items: baseline; gap: 0.45rem; margin: 1.7rem 0 0.4rem; font-size: 1rem; }
-.topic-group__k { font-family: var(--mono); font-size: 0.7rem; font-weight: 400; color: var(--ink-faint); }
-.topic-group__n { margin-left: auto; font-family: var(--mono); font-size: 0.72rem; font-weight: 400; color: var(--ink-light); }
-.tsub__inner { display: grid; grid-template-columns: repeat(4, 1fr); gap: 4px; padding: 6px; margin-bottom: 4px; background: color-mix(in srgb, var(--accent) 4%, var(--paper)); border: 1px solid var(--rule); border-radius: 3px; }
-/* The count floats rather than sitting beside the label in a flex row, and is
- * written first in the markup because that is the only order a float can work
- * in. A flex row makes the label a box, so the count's width comes off *every*
- * line of it, and at four columns that is 153px for a label of up to 46
- * characters: three of the taxonomy's labels wrapped to a third line, which is
- * exactly the raggedness four fixed columns were meant to remove. Floated, the
- * count is subtracted from the first line only and the rest of the label runs
- * the full width of the box, which fits all 38 in two lines with room over. */
-.sbox { display: block; min-height: 2.95rem; padding: 0.4rem 0.6rem; border: 1px solid var(--rule); border-radius: 3px; background: color-mix(in srgb, var(--accent) calc(var(--fill) * 12%), var(--paper)); color: var(--ink); }
-.sbox:hover { border-color: var(--accent); color: var(--ink); }
-/* A subject the catalogue holds and the taxonomy does not has no page behind it,
-   so its box prints its count and is not a link. It reads as inert rather than broken. */
-.sbox--nopage { color: var(--ink-light); border-style: dashed; }
-.sbox--nopage:hover { border-color: var(--rule); }
-.sbox__l { font-size: 0.78rem; line-height: 1.25; }
-.sbox__n { float: right; margin-left: 0.5rem; font-family: var(--mono); font-size: 0.72rem; line-height: 1.35; color: var(--ink-light); white-space: nowrap; }
-
-/* Two columns on a phone rather than four of nothing: the labels are sentences,
- * not codes, and four of them across 375px wraps every one to four lines. */
-@media (max-width: 700px) {
-  .tsub__inner { grid-template-columns: repeat(2, 1fr); }
-}
-
-.colophon { margin: 3.5rem 0 2rem; padding: 1.25rem 1.5rem; background: var(--paper-warm); border: 1px solid var(--rule); font-size: 0.8rem; }
-.colophon dl { display: grid; grid-template-columns: 9rem minmax(0, 1fr); gap: 0.3rem 1rem; margin: 0.5rem 0 0; }
-.colophon dt { font-family: var(--mono); font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.07em; color: var(--ink-faint); }
-/* A build hash or a file path is one unbreakable word, and pushed phone pages
-   sideways until it could break anywhere (2026-09-11). */
-.colophon dd { margin: 0; overflow-wrap: anywhere; }
 
 /* The feedback ask on the home page, which has no `h1` to sit beside.
    Elsewhere it floats onto the heading's line; here it takes a line of its own

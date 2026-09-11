@@ -117,7 +117,7 @@ def build(code: str) -> list[Path]:
         budget_intro=copy_inline("country", "budget-intro"),
         reports=country.report_rows(country.report_editions(code), code),
         finance_section=finance_section,
-        styles=styles(2, "home.css", "country.css"), ga=ga(),
+        styles=styles(2, "country.css"), ga=ga(),
         **common)), encoding="utf-8")
 
     written = [out_dir / "index.html", out_dir / cat_csv]
@@ -129,7 +129,7 @@ def build(code: str) -> list[Path]:
             unit="place",
             fin_total=f"{sum(amounts):,.0f}",
             y0=(min(ys) if ys else "&mdash;"), y1=(max(ys) if ys else "&mdash;"),
-            styles=styles(2, "home.css", "country.css", "datatable.css"),
+            styles=styles(2, "country.css", "datatable.css"),
             datatable=script("datatable.js", 2),
             ga=ga(), **csv_names, **common)), encoding="utf-8")
         written.append(out_dir / "finance.html")

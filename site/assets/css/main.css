@@ -204,6 +204,10 @@ figcaption { font-size: 0.82rem; color: var(--accent); margin-top: 0.5rem; line-
 .btn:hover { background: var(--ink); color: var(--paper); border-color: var(--ink); }
 .btn--accent { border-color: var(--accent); color: var(--accent); }
 .btn--accent:hover { background: var(--accent); color: white; border-color: var(--accent); }
+/* The one other size, for a download inside a toolbar or a box of them — the
+   data table's bar, the catalogue's download box (2026-09-11). Two sizes, both
+   classes: before this there were three, two of them inline. */
+.btn--sm { font-size: 0.7rem; padding: 0.3rem 0.75rem; }
 
 /* ── SECTION HEADING ──
    The one device that opens a major page section: a 2px ink top rule under a
@@ -275,7 +279,12 @@ figcaption { font-size: 0.82rem; color: var(--accent); margin-top: 0.5rem; line-
 .article-list__title { font-family: var(--display); font-size: 1.2rem; font-weight: 700; line-height: 1.3; margin-bottom: 0.4rem; }
 .article-list__title a { color: var(--ink); border: none; }
 .article-list__title a:hover { color: var(--accent); }
+.article-list__subtitle { font-size: 0.9rem; font-style: italic; color: var(--ink-faint); margin: 0 0 0.1rem; }
 .article-list__excerpt { font-size: 0.9rem; color: var(--ink-light); line-height: 1.6; margin-top: 0.3rem; }
+.article-list__excerpt p { margin: 0; }
+/* The category is a label, so it takes the grey badge — the green chip it wore
+   was the Lab's *active* status, and green means a positive state everywhere else. */
+.article-list__meta .badge { margin-right: 0.5rem; }
 .article-list__tags { margin-top: 0.5rem; font-family: var(--mono); font-size: 0.67rem; text-transform: uppercase; letter-spacing: 0.07em; color: var(--ink-faint); }
 
 /* ── ARTICLE PAGE ──
@@ -295,8 +304,38 @@ figcaption { font-size: 0.82rem; color: var(--accent); margin-top: 0.5rem; line-
    synthesises an oblique from the regular — which reads as the subtitle having
    silently changed typeface (documentation/house-style-review-2026-08-24.md §1). */
 .article-header__subtitle { font-family: var(--serif); font-size: 1.05rem; font-weight: 400; font-style: italic; line-height: 1.45; color: var(--ink-light); margin-bottom: 0.75rem; }
-.article-header__byline { font-size: 0.8rem; color: var(--ink-faint); font-family: var(--mono); }
+/* The byline role, stated once. `.byline` is the same rule for a meta line
+   outside a page head — a report row's edition line, a section's counts. */
+.article-header__byline, .byline { font-size: 0.8rem; color: var(--ink-faint); font-family: var(--mono); }
+
+/* **The page head, on every page of both sites** *(2026-09-11)*. `.article-header`
+   was the essay's; it is now the one wrapper for any page title, with its slots in
+   a fixed order — crumb, kicker, `h1`, subtitle, then the byline row with any
+   buttons pushed right. Corpus had four wrappers doing this job at four heights
+   and the main site's index pages had none; one wrapper puts the `h1` at the same
+   offset everywhere, which is what makes the fold budget checkable. */
+/* For a page whose first section opens with `.section-heading`'s own rule
+   directly below: two lines a few millimetres apart say one thing twice. */
+.article-header--norule { border-bottom: none; }
+.article-header__crumb { font-family: var(--mono); font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.09em; color: var(--ink-faint); margin-bottom: 0.5rem; }
+.article-header__crumb a { color: var(--ink-faint); border: none; }
+.article-header__crumb a:hover { color: var(--accent); }
+/* Byline left, buttons right, on one line. The byline shrinks and wraps inside
+   its own box rather than the buttons dropping below it: a page head that ends
+   on a button has put its call to action before saying what the page is. */
+.article-header__meta { display: flex; align-items: flex-end; justify-content: space-between; gap: 1.5rem; }
+.article-header__meta > .article-header__byline { flex: 1 1 auto; min-width: 0; }
+.article-header__actions { flex: 0 0 auto; display: flex; gap: 0.5rem; align-items: center; }
+
+/* The working-paper notice, below the page head rather than above it so the title
+   still opens the page. The amber badge tints and the house 3px callout border —
+   it was three literals of its own and a fourth border width, inline. */
+.lab-notice { background: #fdf6e0; border-left: 3px solid var(--accent); padding: 0.9rem 1.2rem; margin: 0 0 1.25rem; font-family: var(--mono); font-size: 0.8rem; color: #7a5000; line-height: 1.5; }
+.lab-notice strong { text-transform: uppercase; letter-spacing: 0.06em; font-size: 0.75rem; }
+
 .article-body { max-width: var(--col-content); }
+.article-footer { padding: 1.75rem 0; border-top: 1px solid var(--rule); margin-top: 1.75rem; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem; }
+.article-footer__back { font-size: 0.82rem; color: var(--ink-faint); font-family: var(--mono); text-transform: uppercase; letter-spacing: 0.07em; border: none; }
 
 .article-body table { border-collapse: collapse; width: 100%; margin: 1.25rem 0; font-size: 0.88rem; }
 .article-body table th, .article-body table td { border: 1px solid var(--rule); padding: 0.5rem 0.75rem; text-align: left; vertical-align: top; }
@@ -305,9 +344,12 @@ figcaption { font-size: 0.82rem; color: var(--accent); margin-top: 0.5rem; line-
 .data-table-wrap { margin: 1.5rem 0; border: 1px solid var(--rule); border-radius: 3px; background: white; }
 
 .data-table-controls { padding: 0.75rem 1rem; border-bottom: 1px solid var(--rule); display: flex; gap: 0.75rem; flex-wrap: wrap; align-items: center; background: var(--paper-warm); }
-.data-table-controls input[type="search"], .data-table-controls select { font-family: var(--serif); font-size: 0.8rem; padding: 0.35rem 0.7rem; border: 1px solid var(--rule); border-radius: 2px; background: white; color: var(--ink); outline: none; }
-.data-table-controls input[type="search"] { min-width: 220px; }
-.data-table-controls input[type="search"]:focus, .data-table-controls select:focus { border-color: var(--accent); }
+/* `.filter-select` is the same control standing on its own — the category filter
+   over a list. It was an unstyled select with `#ccc`, `#333` and a 3px radius. */
+.data-table-controls input[type="search"], .data-table-controls select, .filter-select { font-family: var(--serif); font-size: 0.8rem; padding: 0.35rem 0.7rem; border: 1px solid var(--rule); border-radius: 2px; background: white; color: var(--ink); outline: none; cursor: pointer; }
+.data-table-controls input[type="search"] { min-width: 220px; cursor: text; }
+.data-table-controls input[type="search"]:focus, .data-table-controls select:focus, .filter-select:focus { border-color: var(--accent); }
+.article-list-filter { margin: 0 0 0.5rem; }
 .data-table-controls label { font-size: 0.75rem; font-family: var(--mono); text-transform: uppercase; letter-spacing: 0.07em; color: var(--ink-faint); }
 .data-table-count { font-family: var(--mono); font-size: 0.7rem; color: var(--ink-faint); margin-left: auto; }
 
@@ -348,6 +390,17 @@ table.data-table td.mono { font-family: var(--mono); font-size: 0.72rem; color: 
 
 /* ── ABOUT PAGE ── */
 .about-intro { display: grid; grid-template-columns: 1fr 200px; gap: 3rem; padding: 1.75rem 0; border-bottom: 1px solid var(--rule); }
+.about-page .about-intro { padding: 0 0 1.5rem; }
+.about-intro .btn { margin-top: 0.5rem; }
+.about-photo { width: 180px; border-radius: 2px; }
+.about-page .cv-section__label { margin: 1.25rem 0 0.5rem; }
+/* A ruled strip: the contact line and the subscribe row. */
+.about-row { padding: 1rem 0; border-bottom: 1px solid var(--rule); }
+.about-row--first { border-top: 1px solid var(--rule); }
+.about-row--split { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem; }
+.about-row .cv-section__label { margin: 0 0 0.5rem; }
+.about-row p { margin: 0; }
+.about-row--split p { font-size: 0.92rem; color: var(--ink-light); }
 
 /* ── WIP PAGE ── */
 /* Same value as .article-list__item: the Lab list and the writing list are the
@@ -372,6 +425,7 @@ table.data-table td.mono { font-family: var(--mono); font-size: 0.72rem; color: 
 .site-footer { border-top: 1px solid var(--rule); margin-top: auto; padding: 1.5rem 0; }
 .site-footer__inner { max-width: var(--col-wide); margin: 0 auto; padding: 0 1.5rem; display: flex; justify-content: space-between; align-items: flex-end; flex-wrap: wrap; gap: 1rem; }
 .site-footer__copy { font-size: 0.78rem; color: var(--ink-faint); font-family: var(--mono); }
+.site-footer__copy a { color: inherit; border-bottom: none; }
 .site-footer__links { display: flex; gap: 1.5rem; }
 .site-footer__links a { font-size: 0.72rem; color: var(--ink-faint); border: none; font-family: var(--mono); }
 .site-footer__links a:hover { color: var(--accent); }
@@ -382,7 +436,13 @@ table.data-table td.mono { font-family: var(--mono); font-size: 0.72rem; color: 
 
 .sidebar-block { padding-bottom: 1.25rem; margin-bottom: 1.25rem; border-bottom: 1px solid var(--rule); }
 .sidebar-block:last-child { border-bottom: none; }
-.sidebar-block__label { font-family: var(--mono); font-size: 0.67rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--ink-faint); margin-bottom: 0.75rem; }
+/* Terracotta: every sidebar label on the site was being forced to it inline. */
+.sidebar-block__label { font-family: var(--mono); font-size: 0.67rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--accent); margin-bottom: 0.75rem; }
+/* 1.75rem, the house ceiling on a vertical gap; it was 2.5rem inline. */
+.home-sidebar { padding-top: 1.75rem; }
+/* No rule above the home page's first section (Bill, 2026-09-11, commit d0fa2b4):
+   the header's own bottom rule is directly above it. */
+.home-main > .section-heading:first-child { border-top: none; }
 .sidebar-block p, .sidebar-block li { font-size: 0.85rem; line-height: 1.55; color: var(--ink-light); }
 .sidebar-block ul { padding-left: 0; list-style: none; }
 .sidebar-block li { padding: 0.4rem 0; border-bottom: 1px solid var(--rule); }

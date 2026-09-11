@@ -23,7 +23,7 @@ Root 18px. Body: Lato 400, line-height 1.6, paragraph margin 0.9rem. The scale, 
 | h3 — subsection | Lato 600 | 1.05rem, margin-top 1.4rem |
 | Subtitle / standfirst | Lato 400 italic | 1.05rem, `--ink-light` |
 | Kicker, labels, table headers | JetBrains Mono 500 uppercase | 0.67–0.72rem, letter-spaced |
-| Byline | JetBrains Mono 400 | 0.8rem, `--ink-faint` |
+| Byline | JetBrains Mono 400 | 0.8rem, `--ink-faint` — `.article-header__byline` in a page head, `.byline` anywhere else |
 
 The subtitle is pinned explicitly — never left to inheritance, never weight 300 (the 300-italic web face fails intermittently and browsers synthesise a fake oblique).
 
@@ -32,6 +32,18 @@ The subtitle is pinned explicitly — never left to inheritance, never weight 30
 Header 70px, logo 50px, wordmark 1.35rem with the tagline under it in **green** (`--green`) — green because the tagline is the masthead's own line and not a link, and everything in the row beside it is. Main site: header sticky, one nav row, **Corpus first**. Corpus: **both rows stick** — the header, then the mono `corpus-nav` beneath it at `top: var(--header-h)`, 107px in all. The masthead is the way back out of a long report, so it stays reachable. Corpus chrome comes from `chrome_lib.py` only — no page builds its own header, and the nav lists only pages that exist. Every corpus page carries the main-site row above its own, and both sites open the row on the same item.
 
 The header row is a fixed budget too: at 980px the wordmark, a 2rem gap and seven nav items have to coexist, and the tagline is the widest thing in it. That is why the tagline is 0.66rem and the nav 0.74rem/1.25rem — sized to leave the gap standing, not for their own sake. Below 900px the nav collapses to the hamburger, because that is the width at which the row would otherwise collide rather than merely tighten.
+
+**One footer on both sites, word for word** *(Bill, 2026-09-11)*: the licence, the year, `Data Landscapers Ltd` and the company line — no name beside the company, no link row. `chrome_lib.foot()` writes it for Corpus and `_layouts/default.html` for the main site.
+
+## Page head
+
+**Every page title sits in `.article-header`, on both sites** *(2026-09-11)*. It was the essay's; Corpus had grown four wrappers doing the same job at four heights (`.country-head`, `.cathead`, a bare `h1`, and this), and the main site's index pages had no `h1` at all. One wrapper puts the `h1` at one offset — 89px on the main site, 127px on Corpus, the difference being the `corpus-nav` — which is what makes the fold budget checkable page by page.
+
+The slots, in this order and no other: `__crumb`, `__kicker`, `h1.__title`, `__subtitle`, then `__meta` — `__byline` left and `__actions` right on one line, the byline wrapping inside its own box rather than the buttons dropping below it. `--norule` drops the closing rule when a `.section-heading` follows directly, so the page does not draw two lines to say one thing. The catalogue's head is the one variant: a grid, with the download box beside the title.
+
+**The crumb goes on pages reached by drilling below a nav index** — a place page, its finance table, a topic page — and nowhere else. It names the ancestors, not the page. A rendered document carries its kind as a kicker instead: it is reached from a place or topic page, and a crumb row there would be one more line spent against a fold budget the reports already miss. The two home pages carry no `h1`.
+
+Buttons come in two sizes, both classes: `.btn` (0.82rem) and `.btn--sm` (0.7rem) for a toolbar or a box of downloads — the data table's bar, the catalogue's download box. Never a size inline.
 
 In-page jump navigation (category bars, report section lists, article TOCs) is one idiom — the bulletin's terracotta small caps: mono 0.72rem uppercase letter-spaced links in `--accent` (hover `--accent-dk`), separated by middots, closed below by a single 1px rule. Not dashes, not grey, not a second style of bar. The distinction from site chrome holds: the corpus-nav is the same voice but grey (`--ink-light`), taking the accent only on hover/active — terracotta all the time marks the page's own contents, grey marks the site's.
 
@@ -55,6 +67,8 @@ Dense but not cramped. Two hard rules and no enumerated scale: **no vertical mar
 
 Measured on 2026-08-24, at the values now in `main.css`: an article's first line lands at **259px** (was ~430px), leaving ~509px — about 17 lines of prose. Corpus pays more at every scroll position, because both chrome rows stick there: **107px**, against the 128px it started at. A `/writing/` index entry is ~162px, so **four entries** land above the fold where three did; five is not reachable without cutting the summary line, and the summary is the reason the index is worth reading.
 
+**The rendered documents miss it, and the figure is recorded here rather than a target they cannot meet** *(2026-09-11)*. At 1366×768 a status report's first line sits at **462px** and a monthly update's at **504px**: a kicker, a two-line title, the byline row with its PDF button, the standfirst and a two-row contents bar come first, and each of them is there by decision. The standfirst lost its tinted box that day, which is what moved the monthly from 531px. The main site's working paper is at 471px for the same reason — a kicker and a two-line title — with its notice now below the page head rather than above it.
+
 **The header and the article header spend the same budget.** When the site header went 60px → 70px so the wordmark could carry its weight, `.article-header` gave back 9px and the sum came out at 259 rather than 268. Re-run it when any of `.site-header__inner` height, `.article-header`'s three values, or the h1 clamp changes — those four are the whole of the arithmetic, and raising one means finding the difference in another.
 
 ## Print
@@ -64,7 +78,7 @@ The screen page and the PDF are one document; `report.css`'s `@page` / `@media p
 ## Checklist for a new page
 
 1. Loads `main.css` first, `corpus.css` on Corpus, then at most one page-type stylesheet, for that page type's own components only.
-2. Chrome from `chrome_lib` (Corpus) or the Jekyll layouts (main site); nothing hand-rolled.
+2. Chrome from `chrome_lib` (Corpus) or the Jekyll layouts (main site); nothing hand-rolled. The title in `.article-header`.
 3. Every heading, label and boundary maps to a row of the tables above.
 4. Jump nav, if any, in the mono-middot idiom.
 5. Fold budget met at 1366×768.

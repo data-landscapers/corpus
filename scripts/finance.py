@@ -142,15 +142,15 @@ PAGE = """<!DOCTYPE html>
   <main id="main">
   <div class="container container--wide">
 
-    <div class="country-head">
+    <header class="article-header">
       {feedback}
-      <h1>Finance</h1>
-    </div>
+      <h1 class="article-header__title">Finance</h1>
+    </header>
 
 {page_intro}
 
     <h2 class="section-heading" id="non-state">Non-state finance</h2>
-    <div class="country-head__meta">{deals} commitments &nbsp;·&nbsp; US${total}m &nbsp;·&nbsp; {financiers} financiers &nbsp;·&nbsp; {places} recipient countries &nbsp;·&nbsp; {yr}</div>
+    <div class="byline">{deals} commitments &nbsp;·&nbsp; US${total}m &nbsp;·&nbsp; {financiers} financiers &nbsp;·&nbsp; {places} recipient countries &nbsp;·&nbsp; {yr}</div>
 
 {non_state_intro}
 
@@ -169,8 +169,8 @@ PAGE = """<!DOCTYPE html>
       <div class="dt-controls">
         <span class="dt-title">Africa &mdash; non-state finance</span>
         <span class="dt-count">{deals} rows</span>
-        <a class="btn" href="{csv_name}" download>&darr; CSV</a>
-        <a class="btn" href="../metadata/{metadata}" download>&darr; Metadata</a>
+        <a class="btn btn--sm" href="{csv_name}" download>&darr; CSV</a>
+        <a class="btn btn--sm" href="../metadata/{metadata}" download>&darr; Metadata</a>
       </div>
       <noscript>
         <p>The table is drawn in the browser from <a href="{csv_name}">{csv_name}</a>. With JavaScript off, download that file &mdash; it is the same data, every row and every field. At {deals} rows it is the one table on this site that could not sensibly be written into the page itself.</p>
@@ -227,7 +227,7 @@ def render(agg: dict, names: dict, csv_name: str, artefacts: str = "") -> str:
     return PAGE.format(
         feedback=feedback("Finance", f"{SITE_BASE}/finance/"),
         base=SITE_BASE, main=MAIN_SITE, chrome=CHROME, foot=FOOT,
-        styles=styles(1, "home.css", "country.css", "datatable.css"), ga=ga(),
+        styles=styles(1, "country.css", "datatable.css"), ga=ga(),
         datatable=script("datatable.js", 1),
         csv_name=csv_name, labels=labels, metadata=METADATA_CSV,
         artefacts=artefacts,

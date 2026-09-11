@@ -21,12 +21,13 @@ identity grew inside once already, and `scripts/catalogue.py` is not where a
 designer looks for the catalogue's CSS.
  */
 
-.cat{max-width:var(--col-content);margin:0 auto;padding:1.25rem 1.5rem 1.75rem;color:var(--ink)}
+/* No top padding: the page head's own 1rem puts the title where it is on every
+   other page (2026-09-11). */
+.cat{max-width:var(--col-content);margin:0 auto;padding:0 1.5rem 1.75rem;color:var(--ink)}
 .cat *{box-sizing:border-box}
 /* Links are the house blue. They were terracotta, which is the accent this
    site reserves for jump navs and apparatus — see main.css `.article-toc`. */
 .cat a:hover{text-decoration:underline}
-.cat h1{margin:0 0 0.3rem;letter-spacing:-.01em}
 /* The lede is body text at body size, and takes whatever width the downloads
    box leaves it (prep/catalogue.md §1) — it used to be 14px grey capped at
    74ch, which read as a caption on a page whose first job is to explain what
@@ -57,7 +58,7 @@ designer looks for the catalogue's CSS.
 .cat .dlbox td{padding:0.25rem 0;font-size:.85rem;color:var(--ink);white-space:nowrap;
   vertical-align:middle}
 .cat .dlbox td+td{padding-left:0.75rem;width:1%}
-.cat .dlbox .btn{padding:.35rem .9rem;font-size:.78rem;border-width:1.5px;
+.cat .dlbox .btn{border-width:1.5px;
   border-radius:2px;display:inline-block;text-decoration:none;
   font-family:var(--serif);font-weight:600;letter-spacing:.03em;
   border-style:solid;border-color:var(--accent);color:var(--accent);background:none;
