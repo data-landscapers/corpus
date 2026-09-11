@@ -1,10 +1,10 @@
 ---
 title: Digital Payments and Fintech — monthly update, August – September 2026
-compiled: 2026-09-10
-period: 2026-08-01 to 2026-09-10
+compiled: 2026-09-11
+period: 2026-08-01 to 2026-09-11
 subject: dpi.pay
 places: DZA; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 6c1dd887821d
+record: 8cc2807304f1
 ---
 
 # Digital Payments and Fintech: monthly update, August – September 2026

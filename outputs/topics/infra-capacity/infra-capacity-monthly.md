@@ -1,15 +1,17 @@
 ---
 title: Technical Capacity — monthly update, August – September 2026
-compiled: 2026-09-10
-period: 2026-08-01 to 2026-09-10
+compiled: 2026-09-11
+period: 2026-08-01 to 2026-09-11
 subject: infra.capacity
 places: BDI; COD; GHA; KEN; LBY; MOZ; RWA; SEN; ZAF; TGO
-record: f50afe9bfc88
+record: 7489ce5179ef
 ---
 
 # Technical Capacity: monthly update, August – September 2026
 
 *10 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Burundi
 

@@ -1,10 +1,10 @@
 ---
 title: Strategies, plans and policies — monthly update, August – September 2026
-compiled: 2026-09-10
-period: 2026-08-01 to 2026-09-10
+compiled: 2026-09-11
+period: 2026-08-01 to 2026-09-11
 subject: gov.policy
 places: DZA; BFA; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; GMB; GHA; GIN; GNB; KEN; LSO; LBY; MWI; MLI; MRT; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 80953f8a7eb0
+record: c6beade97840
 ---
 
 # Strategies, plans and policies: monthly update, August – September 2026
