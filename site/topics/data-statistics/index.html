@@ -7,8 +7,8 @@
 <meta name="description" content="National statistics across Africa: monthly updates compiled place by place and progress reports compiled indicator by indicator from the Data Landscapers base.">
 <link rel="canonical" href="https://corpus.data-landscapers.io/topics/data-statistics/">
 <link rel="stylesheet" href="../../assets/css/main.css?v=e83cdd85">
-<link rel="stylesheet" href="../../assets/css/corpus.css?v=9182ece3">
-<link rel="stylesheet" href="../../assets/css/home.css?v=595b3230">
+<link rel="stylesheet" href="../../assets/css/corpus.css?v=b7266658">
+<link rel="stylesheet" href="../../assets/css/home.css?v=80bfbdea">
 <link rel="stylesheet" href="../../assets/css/country.css?v=0c76ce73">
 <link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
 <meta property="og:title" content="National statistics — Data Landscapers">
@@ -35,7 +35,10 @@
           <span class="site-logo__sub">Mapping Africa&rsquo;s data landscape</span>
         </span>
       </a>
-      <nav class="site-nav" aria-label="Main navigation">
+      <button class="nav-toggle" aria-label="Toggle navigation" onclick="this.classList.toggle('open'); document.getElementById('site-nav').classList.toggle('open')">
+        <span></span><span></span><span></span>
+      </button>
+      <nav class="site-nav" id="site-nav" aria-label="Main navigation">
         <a href="https://corpus.data-landscapers.io/" class="active">Corpus</a>
         <a href="https://data-landscapers.io/writing/">Work in progress</a>
         <a href="https://data-landscapers.io/portfolio/">Portfolio</a>

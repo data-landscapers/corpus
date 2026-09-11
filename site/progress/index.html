@@ -7,8 +7,8 @@
 <meta name="description" content="How far each of 121 indicators has moved across 54 African countries, counted from the country progress reports.">
 <link rel="canonical" href="https://corpus.data-landscapers.io/progress/">
 <link rel="stylesheet" href="../assets/css/main.css?v=e83cdd85">
-<link rel="stylesheet" href="../assets/css/corpus.css?v=9182ece3">
-<link rel="stylesheet" href="../assets/css/home.css?v=595b3230">
+<link rel="stylesheet" href="../assets/css/corpus.css?v=b7266658">
+<link rel="stylesheet" href="../assets/css/home.css?v=80bfbdea">
 <link rel="stylesheet" href="../assets/css/progress.css?v=91ef93fd">
 <link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-BF3X4N6YML"></script>
@@ -30,7 +30,10 @@
           <span class="site-logo__sub">Mapping Africa&rsquo;s data landscape</span>
         </span>
       </a>
-      <nav class="site-nav" aria-label="Main navigation">
+      <button class="nav-toggle" aria-label="Toggle navigation" onclick="this.classList.toggle('open'); document.getElementById('site-nav').classList.toggle('open')">
+        <span></span><span></span><span></span>
+      </button>
+      <nav class="site-nav" id="site-nav" aria-label="Main navigation">
         <a href="https://corpus.data-landscapers.io/" class="active">Corpus</a>
         <a href="https://data-landscapers.io/writing/">Work in progress</a>
         <a href="https://data-landscapers.io/portfolio/">Portfolio</a>
@@ -66,7 +69,7 @@
       </nav>
       <p>Every country progress report looks for evidence impacting on 121 indicators over the past year. It classifies progress on each indicator according to <a href="https://corpus.data-landscapers.io/methodology/lookups/#progress-categories">six statuses</a>. This table counts the answers: for each indicator, how many of the 54 countries came out at each value.</p>
       <p>Click on a topic to see its progress report, or an indicator for its section within that report.</p>
-      <p><em>Movement</em> means that some progress, however minimal has been made. <em>No evidence</em> means the repository holds nothing on that indicator for that country.</p><table class="progress-table">
+      <p><em>Movement</em> means that some progress, however minimal has been made. <em>No evidence</em> means the repository holds nothing on that indicator for that country.</p><div class="table-scroll"><table class="progress-table">
       <thead>
       <tr><th class="rowhead">Topic / Indicator</th><th class="num">Movement</th><th class="num">Mixed</th><th class="num">No change</th><th class="num">Stalled</th><th class="num">Regressed</th><th class="num">No evidence</th></tr>
       </thead>
@@ -231,7 +234,7 @@
       <tr class="group"><th scope="rowgroup"><a href="../topics/geopol-india/geopol-india-progress.html">INDIA ACTIVITIES</a></th><td class="num"></td><td class="num"></td><td class="num"></td><td class="num"></td><td class="num"></td><td class="num"></td></tr>
       <tr><td class="rowhead indicator"><a href="../topics/geopol-india/geopol-india-progress.html#india-mous-engagements-and-commitments">India MoUs, engagements and commitments</a></td><td class="num">23</td><td class="num">1</td><td class="num">25</td><td class="num zero">0</td><td class="num zero">0</td><td class="num">5</td></tr>
       </tbody>
-      </table>
+      </table></div>
     </article>
 
     <div class="colophon">
