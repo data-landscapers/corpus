@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-09-11 16:15 · render · unclocked · region progress rebuilt in progress-report words, bulletin picker deduped, finance instrument filter, progress colophon; 6 new region editions — ok
 2026-09-11 11:25 · render · 11m · 251 documents rendered (44 editions cut, 0 failed), home, countries, regions, topics, progress, catalogue, finance, methodology; 1,611 objects to R2, 0 pruned; deployed — ok
 2026-09-11 11:14 · build · 13m · catalogue 20,822, finance 1,983 deals, 6 units and 18 sources read, 1 row moved and 2 minted, MOZ baseline revised, scope 12 in and 3 XGL unverified, register 77, XNA still under band, bulletin 93 items — ok
 2026-09-11 10:01 · fix · unclocked · deploy workflow: per-attempt artifact so re-runs work, 20-min deploy wait, self-deploys on edit (1622472); run 34581869065 succeeded, live bulletin now 10 September
