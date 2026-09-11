@@ -1,0 +1,122 @@
+indicator_id,Topic Sort,Indicator Sort,Topic L1,Topic,Topic L2,Progress indicator
+gov.policy--digital-transformation-strategy,1,1,Governance,"Strategies, plans and policies",gov.policy,Digital transformation strategy
+gov.policy--ict-strategy,1,2,Governance,"Strategies, plans and policies",gov.policy,ICT strategy
+gov.policy--broadband-strategy,1,3,Governance,"Strategies, plans and policies",gov.policy,Broadband strategy
+gov.policy--data-storage-cloud-strategy,1,4,Governance,"Strategies, plans and policies",gov.policy,Data storage / cloud strategy
+gov.policy--data-interoperability-framework-roadmap,1,5,Governance,"Strategies, plans and policies",gov.policy,Data interoperability framework / roadmap
+gov.policy--ai-strategy,1,6,Governance,"Strategies, plans and policies",gov.policy,AI strategy
+gov.policy--data-localisation-policies,1,7,Governance,"Strategies, plans and policies",gov.policy,Data localisation policies
+gov.policy--data-governance-policy,1,8,Governance,"Strategies, plans and policies",gov.policy,Data governance policy
+gov.policy--open-data-policy,1,9,Governance,"Strategies, plans and policies",gov.policy,Open data policy
+gov.legislate--data-protection-legislation,2,10,Governance,Legislation and regulation,gov.legislate,Data protection legislation
+gov.legislate--cybersecurity-legislation,2,11,Governance,Legislation and regulation,gov.legislate,Cybersecurity legislation
+gov.legislate--legislation-covering-digital-id,2,12,Governance,Legislation and regulation,gov.legislate,Legislation covering digital id
+gov.legislate--digital-payments-legislation,2,13,Governance,Legislation and regulation,gov.legislate,Digital payments legislation
+gov.legislate--legislation-enabling-data-interoperability,2,14,Governance,Legislation and regulation,gov.legislate,Legislation enabling data interoperability
+gov.legislate--ai-legislation-regulations,2,15,Governance,Legislation and regulation,gov.legislate,AI legislation / regulations
+gov.legislate--e-commerce-legislation,2,16,Governance,Legislation and regulation,gov.legislate,E-commerce legislation
+gov.legislate--statistics-legislation,2,17,Governance,Legislation and regulation,gov.legislate,Statistics legislation
+gov.legislate--access-to-information-legislation,2,18,Governance,Legislation and regulation,gov.legislate,Access to information legislation
+gov.protect--data-protection-authority,3,19,Governance,Data protection,gov.protect,Data protection authority
+gov.protect--national-data-protection-readiness,3,20,Governance,Data protection,gov.protect,National data protection readiness
+gov.regional--regional-policy-collaboration,4,21,Governance,Regional collaboration,gov.regional,Regional policy collaboration
+gov.regional--regional-legal-harmonisation,4,22,Governance,Regional collaboration,gov.regional,Regional legal harmonisation
+gov.regional--shared-regional-infrastructure,4,23,Governance,Regional collaboration,gov.regional,Shared regional infrastructure
+gov.regional--cross-border-data-transfers,4,24,Governance,Regional collaboration,gov.regional,Cross-border data transfers
+gov.standards--national-interoperability-standards,5,25,Governance,Standards,gov.standards,National interoperability standards
+gov.standards--national-quality-standards,5,26,Governance,Standards,gov.standards,National quality standards
+gov.standards--adoption-of-international-standards,5,27,Governance,Standards,gov.standards,Adoption of international standards
+gov.discourse--non-governmental-contribution-to-national-policy,6,28,Governance,Public debate and participation in policymaking,gov.discourse,Non-governmental contribution to national policy
+gov.discourse--open-discussion-of-government-policy,6,29,Governance,Public debate and participation in policymaking,gov.discourse,Open discussion of government policy
+finance.budget--sustainable-domestic-financing-of-digital-transformation,7,30,Finance,Domestic budget appropriations and expenditure,finance.budget,Sustainable domestic financing of digital transformation
+finance.mou--strategic-relationships,8,31,Finance,MoUs and other agreements,finance.mou,Strategic relationships
+finance.new--mobilisation-of-non-state-finance,9,32,Finance,New investments,finance.new,Mobilisation of non-state finance
+finance.new--development-partner-project-financing,9,33,Finance,New investments,finance.new,Development-partner project financing
+infra.connect--mobile-penetration,10,34,ICT Infrastructure,Connectivity,infra.connect,Mobile penetration
+infra.connect--internet-usage,10,35,ICT Infrastructure,Connectivity,infra.connect,Internet usage
+infra.connect--mobile-affordability,10,36,ICT Infrastructure,Connectivity,infra.connect,Mobile affordability
+infra.connect--national-fibre-backbone,10,37,ICT Infrastructure,Connectivity,infra.connect,National fibre backbone
+infra.connect--international-internet-bandwidth,10,38,ICT Infrastructure,Connectivity,infra.connect,International internet bandwidth
+infra.connect--internet-exchange-points,10,39,ICT Infrastructure,Connectivity,infra.connect,Internet Exchange Points
+infra.connect--satellite-broadband-licensing-and-availability,10,40,ICT Infrastructure,Connectivity,infra.connect,Satellite broadband licensing and availability
+infra.store--local-data-centre-capacity-all-providers,11,41,ICT Infrastructure,Data Storage,infra.store,Local data centre capacity (all providers)
+infra.store--local-data-centre-capacity-national-providers,11,42,ICT Infrastructure,Data Storage,infra.store,Local data centre capacity (national providers)
+infra.store--off-site-backup-capacity,11,43,ICT Infrastructure,Data Storage,infra.store,Off-site backup capacity
+infra.energy--sufficient-energy-and-water-for-data-centres,12,44,ICT Infrastructure,Energy,infra.energy,Sufficient energy and water for data centres
+infra.energy--grid-reliability,12,45,ICT Infrastructure,Energy,infra.energy,Grid reliability
+infra.energy--rural-electrification,12,46,ICT Infrastructure,Energy,infra.energy,Rural electrification
+infra.capacity--robustness-of-government-hardware-and-software,13,47,ICT Infrastructure,Technical Capacity,infra.capacity,Robustness of government hardware and software
+infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems,13,48,ICT Infrastructure,Technical Capacity,infra.capacity,"Local capacity to maintain, manage and develop government systems"
+infra.cybersec--national-cybersecurity-readiness,14,49,ICT Infrastructure,Cybersecurity,infra.cybersec,National cybersecurity readiness
+dpi.exchange--national-data-exchange-system,15,50,DPI,Data Exchange,dpi.exchange,National data exchange system
+dpi.exchange--use-of-digital-id-in-other-systems,15,51,DPI,Data Exchange,dpi.exchange,Use of digital id in other systems
+dpi.exchange--interoperability-of-health-systems,15,52,DPI,Data Exchange,dpi.exchange,Interoperability of health systems
+dpi.exchange--interoperability-of-education-systems,15,53,DPI,Data Exchange,dpi.exchange,Interoperability of education systems
+dpi.exchange--interoperability-of-social-protection-systems,15,54,DPI,Data Exchange,dpi.exchange,Interoperability of social protection systems
+dpi.id--robustness-of-system,16,55,DPI,Digital Identity and CRVS,dpi.id,Robustness of system
+dpi.id--registration-of-entire-population,16,56,DPI,Digital Identity and CRVS,dpi.id,Registration of entire population
+dpi.id--national-maintenance-of-id-and-credentials-systems,16,57,DPI,Digital Identity and CRVS,dpi.id,National maintenance of id and credentials systems
+dpi.id--authentication,16,58,DPI,Digital Identity and CRVS,dpi.id,Authentication
+dpi.id--digital-id-from-birth,16,59,DPI,Digital Identity and CRVS,dpi.id,Digital id from birth
+dpi.id--interoperability-of-birth-registration-and-digital-id,16,60,DPI,Digital Identity and CRVS,dpi.id,Interoperability of birth registration and digital id
+dpi.id--use-by-other-systems,16,61,DPI,Digital Identity and CRVS,dpi.id,Use by other systems
+dpi.pay--governance-role-of-central-bank,17,62,DPI,Digital Payments and Fintech,dpi.pay,Governance role of central bank
+dpi.pay--g2p-functionality,17,63,DPI,Digital Payments and Fintech,dpi.pay,G2P functionality
+dpi.pay--revenue-collection,17,64,DPI,Digital Payments and Fintech,dpi.pay,Revenue collection
+dpi.pay--b2b-and-b2g-functionality,17,65,DPI,Digital Payments and Fintech,dpi.pay,B2B and B2G functionality
+dpi.pay--p2p-p2g-and-p2b-functionality,17,66,DPI,Digital Payments and Fintech,dpi.pay,"P2P, P2G and P2B functionality"
+dpi.pay--population-uptake,17,67,DPI,Digital Payments and Fintech,dpi.pay,Population uptake
+dpi.pay--cross-border-functionality,17,68,DPI,Digital Payments and Fintech,dpi.pay,Cross-border functionality
+dpi.pay--consumer-protection,17,69,DPI,Digital Payments and Fintech,dpi.pay,Consumer protection
+dpi.registry--population-register,18,70,DPI,Registries,dpi.registry,Population register
+dpi.registry--civil-register,18,71,DPI,Registries,dpi.registry,Civil register
+dpi.registry--address-register,18,72,DPI,Registries,dpi.registry,Address register
+dpi.registry--business-register,18,73,DPI,Registries,dpi.registry,Business register
+dpi.registry--social-protection-register,18,74,DPI,Registries,dpi.registry,Social protection register
+dpi.registry--electoral-register,18,75,DPI,Registries,dpi.registry,Electoral register
+dpi.registry--tax-register,18,76,DPI,Registries,dpi.registry,Tax register
+dpi.registry--land-register,18,77,DPI,Registries,dpi.registry,Land register
+dpi.mis--health,19,78,DPI,Sectoral management information systems,dpi.mis,Health
+dpi.mis--education,19,79,DPI,Sectoral management information systems,dpi.mis,Education
+dpi.mis--social-protection,19,80,DPI,Sectoral management information systems,dpi.mis,Social protection
+dpi.mis--justice,19,81,DPI,Sectoral management information systems,dpi.mis,Justice
+dpi.mis--tax,19,82,DPI,Sectoral management information systems,dpi.mis,Tax
+dpi.mis--customs,19,83,DPI,Sectoral management information systems,dpi.mis,Customs
+dpi.mis--land,19,84,DPI,Sectoral management information systems,dpi.mis,Land
+dpi.govtech--e-government-services,20,85,DPI,Other GovTech and e-Gov,dpi.govtech,e-government services
+digital.localgov--ict-infrastructure-for-local-government,21,86,Digitalisation,Digitalisation of sub-national government,digital.localgov,ICT infrastructure for local government
+digital.localgov--digitalisation-of-local-government-records,21,87,Digitalisation,Digitalisation of sub-national government,digital.localgov,Digitalisation of local government records
+digital.rural--digitalisation-of-rural-health-clinics,22,88,Digitalisation,Rural digital data capture,digital.rural,Digitalisation of rural health clinics
+digital.rural--digitalisation-of-rural-primary-schools,22,89,Digitalisation,Rural digital data capture,digital.rural,Digitalisation of rural primary schools
+digital.rural--digitalisation-of-rural-registry-offices,22,90,Digitalisation,Rural digital data capture,digital.rural,Digitalisation of rural registry offices
+digital.rural--digitalisation-of-rural-police-stations,22,91,Digitalisation,Rural digital data capture,digital.rural,Digitalisation of rural police stations
+tech.ai--use-of-ai-in-government-administration,23,92,Technology,AI,tech.ai,Use of AI in government administration
+tech.ai--use-of-ai-in-sectoral-management-information-systems,23,93,Technology,AI,tech.ai,Use of AI in sectoral management information systems
+tech.ai--development-of-national-regional-ai-systems,23,94,Technology,AI,tech.ai,Development of national / regional AI systems
+tech.ai--control-of-ai-abuse,23,95,Technology,AI,tech.ai,Control of AI abuse
+tech.industry--national-capacity-in-dt-related-production,24,96,Technology,ICT Industry,tech.industry,National capacity in DT-related production
+tech.innovate--technology-hubs,25,97,Technology,Innovation ecosystem,tech.innovate,Technology hubs
+tech.innovate--tech-startup-ecosystem,25,98,Technology,Innovation ecosystem,tech.innovate,Tech startup ecosystem
+capacity.literacy--digital-literacy-civil-service,26,99,Capacity,Literacy,capacity.literacy,Digital literacy (civil service)
+capacity.literacy--digital-literacy-general-population,26,100,Capacity,Literacy,capacity.literacy,Digital literacy (general population)
+capacity.training--dt-related-training-in-secondary-education,27,101,Capacity,Training and skills,capacity.training,DT-related training in secondary education
+capacity.training--dt-related-university-facilities-and-qualifications,27,102,Capacity,Training and skills,capacity.training,DT-related university facilities and qualifications
+capacity.training--graduates-entering-dt-ecosystem,27,103,Capacity,Training and skills,capacity.training,Graduates entering DT ecosystem
+capacity.research--think-tanks-and-academic-departments-contributing-to-dt-policy,28,104,Capacity,Research institutions,capacity.research,Think tanks and academic departments contributing to DT policy
+include.access--citizen-feedback-portals,29,105,Inclusion,Access to services,include.access,Citizen feedback portals
+include.access--citizen-participation-in-policy,29,106,Inclusion,Access to services,include.access,Citizen participation in policy
+include.access--gender-equity,29,107,Inclusion,Access to services,include.access,Gender equity
+include.access--inclusion-of-persons-with-disabilities,29,108,Inclusion,Access to services,include.access,Inclusion of persons with disabilities
+include.access--inclusion-of-refugees-and-idps,29,109,Inclusion,Access to services,include.access,Inclusion of refugees and IDPs
+include.divides--bridging-of-digital-divides,30,110,Inclusion,Digital divides,include.divides,Bridging of digital divides
+data.statistics--national-strategy-for-development-of-statistics,31,111,Data,National statistics,data.statistics,National strategy for development of statistics
+data.statistics--censuses-and-surveys,31,112,Data,National statistics,data.statistics,Censuses and surveys
+data.statistics--statistics-from-administrative-data,31,113,Data,National statistics,data.statistics,Statistics from administrative data
+data.open--use-of-open-data,32,114,Data,Open data,data.open,Use of open data
+data.satellite--agricultural-use-of-satellite-data,33,115,Data,Use of satellite data,data.satellite,Agricultural use of satellite data
+data.satellite--meteorological-use-of-satellite-data,33,116,Data,Use of satellite data,data.satellite,Meteorological use of satellite data
+geopol.usa--usa-hyperscaler-mous-engagements-and-commitments,34,117,Geopolitics,US / hyperscaler activities,geopol.usa,"USA / hyperscaler MoUs, engagements and commitments"
+geopol.china--chinese-mous-engagements-and-commitments,35,118,Geopolitics,China activities,geopol.china,"Chinese MoUs, engagements and commitments"
+geopol.eu--eu-mous-engagements-and-commitments,36,119,Geopolitics,EU activities,geopol.eu,"EU MoUs, engagements and commitments"
+geopol.gulf--gulf-mous-engagements-and-commitments,37,120,Geopolitics,Gulf/UAE activities,geopol.gulf,"Gulf MoUs, engagements and commitments"
+geopol.india--india-mous-engagements-and-commitments,38,121,Geopolitics,India activities,geopol.india,"India MoUs, engagements and commitments"

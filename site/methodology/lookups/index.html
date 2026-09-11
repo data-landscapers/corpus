@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Methodology — process lookups — Data Landscapers</title>
-<meta name="description" content="The fixed lists behind the corpus: country and region codes, the topic taxonomy, and the journals, newspapers, financiers and institutions the sweeps search.">
+<meta name="description" content="The fixed lists behind the corpus: country and region codes, the topic taxonomy, the journals, newspapers, financiers and institutions the sweeps search, and what each column of the downloadable tables means.">
 <link rel="canonical" href="https://corpus.data-landscapers.io/methodology/lookups/">
 <link rel="stylesheet" href="../../assets/css/main.css?v=a004bc3c">
 <link rel="stylesheet" href="../../assets/css/corpus.css?v=42a1181a">
@@ -90,10 +90,18 @@
       <a href="#financiers">Financiers</a>
       <span class="article-toc__sep" aria-hidden="true">&middot;</span>
       <a href="#regional-institutions">Regional institutions</a>
+      <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+      <a href="#catalogue-metadata">Catalogue metadata</a>
+      <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+      <a href="#non-state-finance-metadata">Non-state finance metadata</a>
       </nav>
       <h2 id="introduction">Introduction</h2>
       <p>Many of the decisions made by Corpus are based on the various lookup tables listed here. It allows for significant configuration changes to search and classification without interfering with the underlying code.</p>
+      <!-- A "table:" comment below names a CSV, and optionally the columns to show; the page draws that table from the file at build time (scripts/methodology.py, lookup_tables). Edit the file, not a copy here. -->
+
       <h2 id="countries">Countries</h2>
+      <p class="lookup-csv"><a class="btn btn--sm" href="countries.csv" download>&darr; CSV</a></p>
+
       <table>
       <thead>
       <tr>
@@ -416,6 +424,8 @@
       </tbody>
       </table>
       <h2 id="topics">Topics</h2>
+      <p class="lookup-csv"><a class="btn btn--sm" href="taxonomy.csv" download>&darr; CSV</a></p>
+
       <table>
       <thead>
       <tr>
@@ -657,6 +667,8 @@
       </tbody>
       </table>
       <h2 id="indicators">Indicators</h2>
+      <p class="lookup-csv"><a class="btn btn--sm" href="indicators.csv" download>&darr; CSV</a></p>
+
       <table>
       <thead>
       <tr>
@@ -1396,6 +1408,8 @@
       </tbody>
       </table>
       <h2 id="progress-categories">Progress Categories</h2>
+      <p class="lookup-csv"><a class="btn btn--sm" href="progress-categories.csv" download>&darr; CSV</a></p>
+
       <table>
       <thead>
       <tr>
@@ -1436,6 +1450,8 @@
       </table>
       <p>A value may carry a qualifying clause after a comma, as in <em>Movement, regulations still pending</em>.</p>
       <h2 id="daily-journals">Daily journals</h2>
+      <p class="lookup-csv"><a class="btn btn--sm" href="sweep-daily.csv" download>&darr; CSV</a></p>
+
       <table>
       <thead>
       <tr>
@@ -1500,9 +1516,16 @@
       <td>TechTrends Africa</td>
       <td>sweep/domains/techtrends-africa.md</td>
       </tr>
+      <tr>
+      <td>https://www.linkedin.com</td>
+      <td>LinkedIn</td>
+      <td>sweep/domains/linkedin.md</td>
+      </tr>
       </tbody>
       </table>
       <h2 id="national-newspapers">National newspapers</h2>
+      <p class="lookup-csv"><a class="btn btn--sm" href="sweep-newspapers.csv" download>&darr; CSV</a></p>
+
       <table>
       <thead>
       <tr>
@@ -2025,6 +2048,8 @@
       </tbody>
       </table>
       <h2 id="academic-journals">Academic journals</h2>
+      <p class="lookup-csv"><a class="btn btn--sm" href="sweep-journals.csv" download>&darr; CSV</a></p>
+
       <table>
       <thead>
       <tr>
@@ -2125,7 +2150,7 @@
       <td>IP and information technology law in the Global South</td>
       </tr>
       <tr>
-      <td>https://ajpdp.unilag.edu.ng/</td>
+      <td>http://www.ajpdp.up.ac.za/</td>
       <td>African Journal on Privacy and Data Protection (AJPDP)</td>
       <td>Privacy and data protection from an African perspective</td>
       </tr>
@@ -2207,6 +2232,8 @@
       </tbody>
       </table>
       <h2 id="ngos-and-think-tanks">NGOs and think-tanks</h2>
+      <p class="lookup-csv"><a class="btn btn--sm" href="sweep-thinktanks.csv" download>&darr; CSV</a></p>
+
       <table>
       <thead>
       <tr>
@@ -2444,6 +2471,8 @@
       </tbody>
       </table>
       <h2 id="financiers">Financiers</h2>
+      <p class="lookup-csv"><a class="btn btn--sm" href="sweep-financiers.csv" download>&darr; CSV</a></p>
+
       <table>
       <thead>
       <tr>
@@ -2583,6 +2612,8 @@
       </tbody>
       </table>
       <h2 id="regional-institutions">Regional institutions</h2>
+      <p class="lookup-csv"><a class="btn btn--sm" href="sweep-regional-orgs.csv" download>&darr; CSV</a></p>
+
       <table>
       <thead>
       <tr>
@@ -2756,6 +2787,152 @@
       <td>African Internet Governance Forum</td>
       <td>African IGF</td>
       <td>Internet governance forum</td>
+      </tr>
+      </tbody>
+      </table>
+      <h2 id="catalogue-metadata">Catalogue metadata</h2>
+      <p class="lookup-csv"><a class="btn btn--sm" href="../../metadata/catalogue-metadata.csv" download>&darr; CSV</a></p>
+
+      <table>
+      <thead>
+      <tr>
+      <th>Column</th>
+      <th>Definition</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td>published</td>
+      <td>The date the document was published</td>
+      </tr>
+      <tr>
+      <td>date_precision</td>
+      <td>Whether the published date is precise to day, month or year</td>
+      </tr>
+      <tr>
+      <td>ingested</td>
+      <td>The date the document was added to Corpus</td>
+      </tr>
+      <tr>
+      <td>title</td>
+      <td>Title of the document</td>
+      </tr>
+      <tr>
+      <td>publisher</td>
+      <td>Publisher</td>
+      </tr>
+      <tr>
+      <td>author</td>
+      <td>Author, where known</td>
+      </tr>
+      <tr>
+      <td>places</td>
+      <td>iso-3 codes for the countries and/or regions covered</td>
+      </tr>
+      <tr>
+      <td>topics</td>
+      <td>Ids for the Corpus taxonomy used to classify documents. The taxonomy is listed at https://corpus.data-landscapers.io/methodology/lookups/#topics</td>
+      </tr>
+      <tr>
+      <td>entities</td>
+      <td>Tag ids for organisations or people regularly referenced in documents</td>
+      </tr>
+      <tr>
+      <td>url</td>
+      <td>The public url of the original document</td>
+      </tr>
+      </tbody>
+      </table>
+      <h2 id="non-state-finance-metadata">Non-state finance metadata</h2>
+      <p class="lookup-csv"><a class="btn btn--sm" href="../../metadata/non-state-finance-metadata.csv" download>&darr; CSV</a></p>
+
+      <table>
+      <thead>
+      <tr>
+      <th>Column</th>
+      <th>Definition</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td>recipient_country</td>
+      <td>The ISO 3166-1 alpha-3 code for the country</td>
+      </tr>
+      <tr>
+      <td>start_year</td>
+      <td>The year in which the finance was approved or committed. In some circumstances this may be a planned, rather than actual, start year.</td>
+      </tr>
+      <tr>
+      <td>end_year</td>
+      <td>The year in which the financed activity ended or is due to end</td>
+      </tr>
+      <tr>
+      <td>financier</td>
+      <td>The short or abbreviated name of the institution providing the finance</td>
+      </tr>
+      <tr>
+      <td>sector</td>
+      <td>This is defined by Data Landscaper's own taxonomy which can be found at https:\data-landscapers.io\taxonomy</td>
+      </tr>
+      <tr>
+      <td>instrument</td>
+      <td>The financial instrument such as grant, loan equity.</td>
+      </tr>
+      <tr>
+      <td>commitment_usd_m</td>
+      <td>The committed value of  the finance in millions of US dollars. If the commitment was made in a different currency this is reported in the original amount column and has been converted to USD using IMF annual average rates.</td>
+      </tr>
+      <tr>
+      <td>amount_basis</td>
+      <td>Commitments are used in this table as data on actual disbursements is often missing. There are a few transactions where only a disbursement, rather than commitment, figure is available. This column records this.</td>
+      </tr>
+      <tr>
+      <td>amount_quality</td>
+      <td>Data in this table is collected from a variety of sources, including the press. This column attempts to assess the reliability of the data.</td>
+      </tr>
+      <tr>
+      <td>status</td>
+      <td>Whether the contract is pipeline, approved, active or closed</td>
+      </tr>
+      <tr>
+      <td>title</td>
+      <td>The title of the investment</td>
+      </tr>
+      <tr>
+      <td>description</td>
+      <td>A brief description of the investment</td>
+      </tr>
+      <tr>
+      <td>beneficiary_type</td>
+      <td>e.g. Government, private sector</td>
+      </tr>
+      <tr>
+      <td>recipient_organisation</td>
+      <td>The name of the institution receiving the finance</td>
+      </tr>
+      <tr>
+      <td>original_amount</td>
+      <td>The amount and currency of the legal commitment</td>
+      </tr>
+      <tr>
+      <td>project_id</td>
+      <td>If the financier maintains a public portfolio, this is the Id of their record</td>
+      </tr>
+      <tr>
+      <td>iati_activity_id</td>
+      <td>If the financier publishes their activities to the International Aid Transparency Initiative, this is the unique identifier used in IATI xml data.</td>
+      </tr>
+      <tr>
+      <td>url</td>
+      <td>A public url referencing the source from which the data in this table has been collected.</td>
+      </tr>
+      <tr>
+      <td>financier_slug</td>
+      <td>The financier identifier within the Corpus repository</td>
+      </tr>
+      <tr>
+      <td>record</td>
+      <td>The identifier of the record within the  Corpus repository</td>
       </tr>
       </tbody>
       </table>

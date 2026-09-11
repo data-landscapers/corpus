@@ -1,0 +1,8 @@
+Value,Meaning
+Movement,"Some form of progress, however minor, has been recorded"
+Stalled,A stated target passed without delivery
+Regressed,"An instrument was withdrawn or neutralised, or a reported position worsened"
+Mixed,The indicator's instruments moved in different directions in the period
+No change,The repository holds a standing position and nothing in the period touched it
+No evidence,The repository holds nothing on this indicator at all
+Baseline not held,There is evidence of movement but no baseline to compare it against
