@@ -4,7 +4,7 @@ title: Bulletin
 subtitle: Last updated 10-09-2026 at 20:40 — Covering sources published on 10 September 2026
 window_start: 2026-09-10
 window_end: 2026-09-11
-items: 92
+items: 93
 collected_to: 2026-09-10 20:40
 compiled: 2026-09-10 21:21
 ---
@@ -216,6 +216,14 @@ Cote d'Ivoire's digital transition minister called for a move from artificial in
 **[ATU calls for stronger spectrum policy as Africa prepares for WRC-27](https://www.techreviewafrica.com/news/7102/atu-calls-for-stronger-spectrum-policy-as-africa-prepares-for-wrc-27)** — TechReviewAfrica, 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TUN/" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
 
 The African telecommunications union's secretary-general called for stronger alignment among African administrations on spectrum policy, at the 11th Africa spectrum management conference in Tunis. He singled out the mid-band ranges where mobile broadband demand will need capacity and coordination, and argued that policy must extend beyond identifying frequencies to how spectrum is priced and licensed. <span class="bulletin-item__also">*Also under [Regional collaboration](#regional-collaboration) and [Connectivity](#connectivity).*</span>
+
+</div>
+
+<div class="bulletin-item" data-places="KEN" markdown="1">
+
+**[American Tech Stack Roundtable: Advancing Kenya's Digital Transformation through Strategic Partnership](https://www.linkedin.com/feed/update/urn:li:activity:7503464370874789888/)** — State Department for ICT and the Digital Economy, Kenya (via LinkedIn), 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
+
+Kenya's principal secretary for ICT and the digital economy gave the keynote at an American Chamber of Commerce roundtable in Nairobi on US technology partnership, with the US Commerce Department, the US Trade and Development Agency, Google, Microsoft and Oracle in the room. He named the energy backbone, data protection and data governance frameworks, and infrastructure for cloud and AI capacity as the government's investment priorities, and asked US firms for long-term partnerships. The post names no agreement or commitment. <span class="bulletin-item__also">*Also under [US / hyperscaler activities](#us-hyperscaler-activities) and [ICT Industry](#ict-industry).*</span>
 
 </div>
 
@@ -1591,6 +1599,14 @@ Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 
 </div>
 
+<div class="bulletin-item bulletin-item--xref" data-places="KEN" markdown="1">
+
+**[American Tech Stack Roundtable: Advancing Kenya's Digital Transformation through Strategic Partnership](https://www.linkedin.com/feed/update/urn:li:activity:7503464370874789888/)** — State Department for ICT and the Digital Economy, Kenya (via LinkedIn), 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
+
+Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
+
+</div>
+
 ### Innovation ecosystem
 
 <div class="bulletin-item bulletin-item--xref" data-places="ZAF" markdown="1">
@@ -1872,6 +1888,14 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 **[AWS puts $2.3bn behind Africa's cloud, AI future](https://www.itweb.co.za/article/aws-puts-23bn-behind-africas-cloud-ai-future/PmxVE7KEYWxqQY85)** — ITWeb South Africa, 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
 
 Summarised under [Data Storage](#data-storage).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="KEN" markdown="1">
+
+**[American Tech Stack Roundtable: Advancing Kenya's Digital Transformation through Strategic Partnership](https://www.linkedin.com/feed/update/urn:li:activity:7503464370874789888/)** — State Department for ICT and the Digital Economy, Kenya (via LinkedIn), 10 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
+
+Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
 
 </div>
 
