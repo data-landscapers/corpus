@@ -142,15 +142,19 @@ def case_a_report_page_is_not_refreshed_in_place(tmp):
     assert html.stat().st_mtime_ns == was, "a held-off report must not have its page rewritten"
 
 
-def case_missing_pdf_is_repaired_in_place(tmp):
+def case_a_pruned_pdf_is_not_recut(tmp):
+    """A held document's PDF missing from the tree is the normal state since `r2-sync.py
+    --prune-local`, and re-cutting it under its own name rewrote published editions on
+    2026-09-10 (`render.py`, the gate's *A missing PDF is … never a repair*). This case asserted
+    the repair until 2026-09-11, so it failed on the behaviour the fix put in."""
     src, out, html, _ = fixture(tmp, pdf=True)
     edition = edition_of(html)
     pdf = out / f"{src.stem}-{edition}.pdf"
     assert pdf.exists(), "the fixture must have cut a PDF to delete"
     pdf.unlink()
-    _, again, minted = render_mod.render(src, out, pdf=True)
-    assert minted, "an edition whose PDF is gone must be cut again"
-    assert again == pdf, "the repair must restore the published name, not mint a new one"
+    _, _, minted = render_mod.render(src, out, pdf=True)
+    assert not minted, "a held document must not be re-cut because its PDF was pruned"
+    assert not pdf.exists(), "a published name must never be written a second time"
     assert edition_of(html) == edition, "the page must still name the edition it named"
 
 
@@ -205,7 +209,7 @@ CASES = [
     ("the bulletin refreshes its page while holding its edition",
      case_the_bulletin_refreshes_its_page_while_holding_its_edition),
     ("a report's page is not refreshed in place", case_a_report_page_is_not_refreshed_in_place),
-    ("a deleted PDF is re-cut under its own name", case_missing_pdf_is_repaired_in_place),
+    ("a pruned PDF is not re-cut", case_a_pruned_pdf_is_not_recut),
     ("a published edition survives a same-day re-cut, to the byte", case_a_published_edition_is_never_overwritten),
     ("--force cuts regardless", case_force_overrides),
     ("an explicit --edition cuts regardless", case_explicit_edition_overrides),
