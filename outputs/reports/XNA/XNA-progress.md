@@ -5,7 +5,7 @@ period: 2025-09-01 to 2026-09-11
 place: XNA
 ledger_rows: 13
 not_held: 0
-record: feb77763bca7
+record: c125e1b342b9
 ---
 
 # North Africa: progress report, September 2025 – September 2026
@@ -16,7 +16,7 @@ record: feb77763bca7
 
 *Shape check, run before the comparison: 10 sources for this place in the window — 4 in the earlier half (2025-12 to 2026-02), 6 in the later (2026-07 to 2026-09). The two halves are comparable, so the comparison is made over the whole window.*
 
-**Progress values.** *Movement* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Closed* — the programme ended. *No change* — the base holds a standing position and nothing in the period touched it. ***Baseline not held*** — there is evidence of movement but no baseline to compare it against. A value may carry a qualifying clause after a comma, as in *Movement, slipped*.
+**Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Closed* — the programme ended. *No change* — the base holds a standing position and nothing in the period touched it. ***Baseline not held*** — there is evidence of movement but no baseline to compare it against. A value may carry a qualifying clause after a comma, as in *Movement, slipped*.
 
 ## Summary of the period
 
@@ -34,7 +34,7 @@ North Africa's ledger opens thin and moves through the Arab League rather than t
 | Arab conference of nationality and civil-status directors (recommendations) | Did not exist | [Recommended member states expand reliance on digital identity, strengthen legal frameworks protecting personal data in civil-status registers, and share defences against cyber threats aimed at those registers; a model data-protection framework for civil-status registers is to be circulated, and Iraq's proposal for a unified Arab identity was referred to member states for study](https://gate.ahram.org.eg/News/5891986.aspx) | Movement |
 | Arab ICT Ministers Council AI working groups (AICTM Executive Bureau) | Did not exist | [Six working groups chartered under the Arab League's AI governance/digital committee at the 58th AICTM Executive Bureau session; Egypt chairs AI Governance and Quantum Computing, Libya chairs AI Data and Digital Infrastructure, Tunisia chairs AI Innovation — the Governance group's remit includes activating the 2025 Arab Charter for AI Ethics; no framework text, timetable or output yet published from any of the six groups](https://sis.gov.eg/en/media-center/news/egypt-wins-chairmanship-of-ai-governance-quantum-computing-working-groups-at-arab-ai-committee/) | Movement |
 | Arab Maghreb Union treaty | In force, dormant (2025-08) | [In force since 1 July 1989 with a binding judicial organ, and no summit held since 1994 - a legal frame for regional harmonisation with no active machinery behind it](https://treaties.un.org/doc/Publication/UNTS/Volume%201546/volume-1546-I-26844-English.pdf) | No change |
-| AI Forward Summit 2026 | Not previously held by this base | [A regional artificial-intelligence summit opened at Yasmine Hammamet, Tunisia, on 9 September 2026, organised by the Arab information and communication technologies organisation with Tunisia's communication technologies ministry under the theme 'Shaping the future of AI: from vision to value'. A secretary of state told the opening that the summit has become an important forum for dialogue on the future of AI in Arab countries and on making the technological revolution a lever for development, cooperation and peace; the Arab League secretary-general's participation was presented as a commitment to joint Arab action.](https://www.radionationale.tn/article/6aa1b13f0d094f0934cf67ef/) | ***Baseline not held*** |
+| AI Forward Summit 2026 | ***Baseline not held*** | [A regional artificial-intelligence summit opened at Yasmine Hammamet, Tunisia, on 9 September 2026, organised by the Arab information and communication technologies organisation with Tunisia's communication technologies ministry under the theme 'Shaping the future of AI: from vision to value'. A secretary of state told the opening that the summit has become an important forum for dialogue on the future of AI in Arab countries and on making the technological revolution a lever for development, cooperation and peace; the Arab League secretary-general's participation was presented as a commitment to joint Arab action.](https://www.radionationale.tn/article/6aa1b13f0d094f0934cf67ef/) | ***Baseline not held*** |
 
 <!-- narrative: institutions -->
 Both rows on this section are new this year and both are Arab League tracks rather than AU or REC ones. The AI committee now has its six working groups staffed, three of them chaired by African states, with the Governance group tasked to activate the Arab Charter for AI Ethics — but no framework text or output from any group. The civil-status directors' conference produced recommendations on digital identity and register data protection, with no adoption route yet named.
@@ -61,7 +61,7 @@ Two Arab-League AI-ethics instruments sit on the ledger, adopted within weeks of
 |---|---|---|---|
 | Medusa submarine cable system — ViaTunisia (Bizerte–Marseille) segment | Under construction; EU CEF Digital co-financing of €9.6m against a €32m total project budget (the European Commission's own project record, correcting the €10m/~30% figure trade press had carried), project start 1 March 2023 | [Bizerte–Marseille segment operational, landing at Bizerte and connecting into Orange's Marseille interconnection hub; part of the wider 8,760km Medusa system, which the landing partner puts at 17 landing points across the northern and southern Mediterranean](https://digital-strategy.ec.europa.eu/en/news/viatunisia) | Movement |
 | North Africa post-5G mobile network experience (Ookla) | Pre-5G-launch mobile network experience baseline (each market's own prior measurement) | [Combined 4G+5G median ended below the pre-launch baseline in Egypt, Morocco and Tunisia a year after their 5G launches, with 4G itself down 28% in Morocco and Tunisia; Algeria — whose own 5G licences were only awarded in December 2025 — alone improved](https://www.ookla.com/articles/5g-north-africa-2026) | Regressed, mixed |
-| Algerian 5G rollout | Not held | [Launched on USD 492 million of licences awarded to the three mobile operators (2025-12)](https://itweb.africa/article/mobilis-djezzy-ooredoo-lead-algerias-492m-5g-rollout/lwrKxq3YVEP7mg1o) | ***Baseline not held*** |
+| Algerian 5G rollout | ***Baseline not held*** | [Launched on USD 492 million of licences awarded to the three mobile operators (2025-12)](https://itweb.africa/article/mobilis-djezzy-ooredoo-lead-algerias-492m-5g-rollout/lwrKxq3YVEP7mg1o) | ***Baseline not held*** |
 
 ### Digital Payments and Fintech
 
