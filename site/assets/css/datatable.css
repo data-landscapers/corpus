@@ -13,8 +13,8 @@
 .dl-datatable {
   --dt-top: 0px;                      /* set by the script from the sticky chrome */
   --dt-bar: 3.1rem;                   /* height of the controls bar, likewise */
-  /* The widest the table breaks out to, stated once (2026-09-11). It is a
-     decision, not a side effect: 94vw of the window, up to this. */
+  /* The widest the table breaks out to, stated once, and confirmed by Bill on
+     2026-09-11. A decision, not a side effect: 94vw of the window, up to this. */
   --dt-max: 1800px;
   margin: 2rem 0;
   border: 1px solid var(--rule);

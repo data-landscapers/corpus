@@ -167,6 +167,16 @@ h1, h2, h3, h4 { scroll-margin-top: calc(var(--header-h) + 46px); }
 @media screen {
   :root { --prose: 0.94rem; }
   body { font-size: var(--prose); }
+  /* **The headings came down by the same step** *(Bill, 2026-09-11)*. With only the
+     body moved, h3 stood 1.12 times its paragraph against the house's 1.05, and h2
+     1.54 against 1.45 — the report sub-headings visibly outweighed their text. So
+     h2–h4 and `.section-heading` take the same 0.94, which keeps the house ratios.
+     The page title (`h1`) is not scaled: it is sized against the viewport, not the
+     prose. A rule with a class of its own (`.topic-group`, a report's apparatus)
+     keeps its size, and print is untouched, as above. */
+  h2, .section-heading { font-size: calc(1.45rem * 0.94); }
+  h3 { font-size: calc(1.05rem * 0.94); }
+  h4 { font-size: calc(1rem * 0.94); }
 }
 
 /* --- the feedback ask ------------------------------------------------------

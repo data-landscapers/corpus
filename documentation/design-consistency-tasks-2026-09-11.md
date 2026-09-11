@@ -35,7 +35,9 @@ At 390px the live main site shows the hamburger and nothing overflows on the six
 
 **Found in passing:** `scripts/test_render_gate.py` fails one case, "a deleted PDF is re-cut under its own name". It fails the same way at `0fa288f`, before any of this work, and has not been investigated.
 
-**Task 13 (C6)** is still Bill's call.
+**Task 13 (C6):** Bill chose to scale the headings. `corpus.css`'s screen block now sets h2–h4 and `.section-heading` to 0.94 of the house sizes, the same step as the body prose. The `h1` and print are not scaled.
+
+**Bill's follow-ups, the same day:** he confirmed the 1800px table width. The main site's category chip is the green badge. The Corpus home hero and the Portfolio intro are body size — the hero went from 1.05rem to the prose size, and Portfolio's intro is a plain paragraph below the page head rather than its italic subtitle.
 
 Ground rules for every task here, from `documentation/house-style.md`: anything shared changes **upstream in data-landscapers first**, is copied down, and the marker (`MAIN-CSS-FROM` / `DATATABLE-FROM`) is updated; `scripts/lint-shared-assets.py` must pass afterwards. No new colours, faces or radii. Corpus presentation changes are applied with `render.py --repage`, not `--force`. Re-run `documentation/design-review-audit.js` (paste into the console on a page, or run it under Playwright) before and after to confirm the numbers below moved.
 

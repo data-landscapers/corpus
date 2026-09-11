@@ -25,6 +25,8 @@ Root 18px. Body: Lato 400, line-height 1.6, paragraph margin 0.9rem. The scale, 
 | Kicker, labels, table headers | JetBrains Mono 500 uppercase | 0.67–0.72rem, letter-spaced |
 | Byline | JetBrains Mono 400 | 0.8rem, `--ink-faint` — `.article-header__byline` in a page head, `.byline` anywhere else |
 
+**On Corpus, h2–h4 and `.section-heading` are 0.94 of these on screen** *(Bill, 2026-09-11)*, the same step the body prose takes there, so the heading-to-body ratios stay the house's. The `h1` and print are not scaled.
+
 The subtitle is pinned explicitly — never left to inheritance, never weight 300 (the 300-italic web face fails intermittently and browsers synthesise a fake oblique).
 
 ## Chrome and navigation

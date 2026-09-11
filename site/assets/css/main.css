@@ -282,8 +282,8 @@ figcaption { font-size: 0.82rem; color: var(--accent); margin-top: 0.5rem; line-
 .article-list__subtitle { font-size: 0.9rem; font-style: italic; color: var(--ink-faint); margin: 0 0 0.1rem; }
 .article-list__excerpt { font-size: 0.9rem; color: var(--ink-light); line-height: 1.6; margin-top: 0.3rem; }
 .article-list__excerpt p { margin: 0; }
-/* The category is a label, so it takes the grey badge — the green chip it wore
-   was the Lab's *active* status, and green means a positive state everywhere else. */
+/* The category chip is the green badge (Bill, 2026-09-11) — `.badge--green`, the
+   same tints the chip always had, as a class rather than the Lab's retired status chip. */
 .article-list__meta .badge { margin-right: 0.5rem; }
 .article-list__tags { margin-top: 0.5rem; font-family: var(--mono); font-size: 0.67rem; text-transform: uppercase; letter-spacing: 0.07em; color: var(--ink-faint); }
 
