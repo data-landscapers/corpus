@@ -433,6 +433,13 @@ a.badge:hover::after { opacity: 1; }
   .report-colophon dl { grid-template-columns: 1fr; gap: 0 0; }
   .report-colophon dd { margin-bottom: 0.6rem; }
 }
+/* A bare `1fr` column is never narrower than its widest item, and the bulletin's
+   edition picker is sized by its longest option — so on a phone the colophon ran
+   to 512px and took the page sideways with it (2026-09-11). Screen only: the rule
+   above can match a PDF page, and no published edition should reflow for this. */
+@media screen and (max-width: 640px) {
+  .report-colophon dl { grid-template-columns: minmax(0, 1fr); }
+}
 
 /* --- print --------------------------------------------------------------- */
 

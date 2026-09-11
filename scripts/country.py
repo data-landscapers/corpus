@@ -343,13 +343,13 @@ def pivot(rows: list[dict]) -> str:
     # the word on the page was doing a different job from the word in the schema: a reader arriving
     # from the Topics tab reads these rows as topics, and "sector" collides with the economic sense
     # the finance vocabulary uses elsewhere.
-    return f"""<table class="pivot">
+    return f"""<div class="table-scroll"><table class="pivot">
         <thead><tr><th scope="col">Topic</th>{head}<th class="num total">Total</th></tr></thead>
         <tbody>
 {chr(10).join(body)}
         </tbody>
         <tfoot><tr><th scope="row">All sectors</th>{foot}<td class="num total">{grand}</td></tr></tfoot>
-      </table>"""
+      </table></div>"""
 
 
 # `full_rows` retired 2026-08-19: the finance table is now drawn in the browser

@@ -223,7 +223,7 @@ def cells(counts: Counter) -> str:
 
 def head() -> str:
     cols = "".join(f'<th class="num">{c}</th>' for c in COLUMNS)
-    return ('<table class="progress-table">\n<thead>\n'
+    return ('<div class="table-scroll"><table class="progress-table">\n<thead>\n'
             f'<tr><th class="rowhead">Topic / Indicator</th>{cols}</tr>\n'
             '</thead>\n<tbody>\n')
 
@@ -264,7 +264,7 @@ def topics_table(indicators, grid) -> str:
             f'<tr><td class="rowhead indicator">'
             f'<a href="../topics/{slug}/{slug}-progress.html#{anchor}">'
             f'{row["Progress indicator"]}</a></td>{cells(counts)}</tr>\n')
-    out.append("</tbody>\n</table>\n")
+    out.append("</tbody>\n</table></div>\n")
     return "".join(out)
 
 
@@ -298,7 +298,7 @@ def countries_table(indicators, grid, names, region) -> str:
             f'<tr><td class="rowhead country">'
             f'<a href="../../reports/{iso}/{iso}-progress.html">{names[iso]}</a>'
             f'</td>{cells(counts)}</tr>\n')
-    out.append("</tbody>\n</table>\n")
+    out.append("</tbody>\n</table></div>\n")
     return "".join(out)
 
 

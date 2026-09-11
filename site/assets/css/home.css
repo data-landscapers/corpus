@@ -120,9 +120,11 @@
 }
 
 .colophon { margin: 3.5rem 0 2rem; padding: 1.25rem 1.5rem; background: var(--paper-warm); border: 1px solid var(--rule); font-size: 0.8rem; }
-.colophon dl { display: grid; grid-template-columns: 9rem 1fr; gap: 0.3rem 1rem; margin: 0.5rem 0 0; }
+.colophon dl { display: grid; grid-template-columns: 9rem minmax(0, 1fr); gap: 0.3rem 1rem; margin: 0.5rem 0 0; }
 .colophon dt { font-family: var(--mono); font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.07em; color: var(--ink-faint); }
-.colophon dd { margin: 0; }
+/* A build hash or a file path is one unbreakable word, and pushed phone pages
+   sideways until it could break anywhere (2026-09-11). */
+.colophon dd { margin: 0; overflow-wrap: anywhere; }
 
 /* The feedback ask on the home page, which has no `h1` to sit beside.
    Elsewhere it floats onto the heading's line; here it takes a line of its own

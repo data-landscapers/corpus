@@ -236,7 +236,12 @@ def chrome(active: str | None = None, depth: int = 1, *,
     corpus home rather than the website, and three links to pages that do not
     exist (`/data/`, `/regions/`, `/countries/`, all 404 on every bulletin and
     every report since they were written). Two copies of a nav is one nav and
-    one liability; the liability was the one nobody was reading."""
+    one liability; the liability was the one nobody was reading.
+
+    **The hamburger is the website's markup, character for character** *(2026-09-11)*.
+    `main.css` hides `.site-nav` below 900px on the assumption that `.nav-toggle` is
+    there to open it; this header had never carried one, so on a phone every Corpus
+    page lost the main-site row entirely."""
     a = (active or "").strip().lower()
     hdr = " screen-only" if screen_only else ""
     root = base if base is not None else assets(depth)
@@ -258,7 +263,10 @@ def chrome(active: str | None = None, depth: int = 1, *,
           <span class="site-logo__sub">Mapping Africa&rsquo;s data landscape</span>
         </span>
       </a>
-      <nav class="site-nav" aria-label="Main navigation">
+      <button class="nav-toggle" aria-label="Toggle navigation" onclick="this.classList.toggle('open'); document.getElementById('site-nav').classList.toggle('open')">
+        <span></span><span></span><span></span>
+      </button>
+      <nav class="site-nav" id="site-nav" aria-label="Main navigation">
         <a href="{SITE_BASE}/" class="active">Corpus</a>
 {main_links}
       </nav>
