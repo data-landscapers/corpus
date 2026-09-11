@@ -83,8 +83,8 @@ _MAIN_NAV = [
     ("Work in progress", "writing"),
     ("Portfolio", "portfolio"),
     ("About", "about"),
-    ("Contact", "contact"),
-    ("Search", "search"),
+    # Contact and Search left the main site's nav on 2026-09-11 (Bill); both paths
+    # keep a redirect stub upstream because pages rendered before then still link them.
 ]
 
 
