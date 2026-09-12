@@ -1,11 +1,11 @@
 ---
 title: Nigeria — monthly update, August – September 2026
-compiled: 2026-09-10
-period: 2026-08-01 to 2026-09-10
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 place: NGA
-ledger_rows: 174
+ledger_rows: 181
 not_held: 9
-record: 62a41679cc28
+record: 24ea12e0ebc7
 ---
 
 # Nigeria: monthly update, August – September 2026
@@ -62,6 +62,8 @@ Child protection online entered the record as a consultation rather than a rule.
 An underground market trading national identity and bank verification numbers [shut down after an investigative report named its operator](https://fij.ng/article/after-fijs-investigation-ebis-illegal-data-market-shuts-down-but-ndpc-retains-him-as-licensee/), who remains a registered licensee of the data-protection commission. The closure and the licence surviving it are both the commission's own disposition; no enforcement notice against the operator is on file.
 
 The commission opened a second framework alongside its enforcement work: validation of a [data privacy framework for electronic commerce, at an Abuja workshop run with the German development agency and following a private-sector session in Lagos](https://techreviewafrica.com/public/news/7060/nigeria-moves-to-enhance-data-privacy-framework-for-e-commerce). No draft text, scope, commencement date or enforcement route is published, so what exists is a consultation rather than an instrument.
+
+The consultation acquired a political timetable on 10 September, when the education minister [trailed regulation of internet access for children under 16, to be announced by the security agencies within days or weeks](https://saharareporters.com/2026/09/11/nigeria-regulate-internet-access-children-below-16-education-minister-announces). The announcement is to come from the security agencies rather than a regulator, and no draft instrument is named.
 <!-- /narrative -->
 ### Regional collaboration
 
@@ -92,7 +94,7 @@ The month's one item is a formal demand rather than a policy change: a rights or
 
 <!-- narrative: finance--finance-mou -->
 
-Nothing was signed in this window that the repository records. What entered it is an institutional fact rather than a development: the finance ministry's [international economic relations department is the administrative home managing bilateral and multilateral economic relationships, memoranda of understanding and concessional financing](https://finance.gov.ng/fmf/international-economics-relations-department/), and it is the closest thing to an umbrella instrument the repository holds. The page is undated on the ministry site and lists no relationship, agreement or financing volume.
+The one memorandum signed in the window is domestic: the technology development agency and the national chambers of commerce [signed an agreement on small-business digital adoption on the sidelines of GITEX Nigeria, covering a shared enterprise platform, capacity building and the national digital conference](https://punchng.com/nitda-naccima-deepen-push-for-msmes-digital-adoption/), with no sum or deliverable attached. The other entry is an institutional fact rather than a development: the finance ministry's [international economic relations department is the administrative home managing bilateral and multilateral economic relationships, memoranda of understanding and concessional financing](https://finance.gov.ng/fmf/international-economics-relations-department/), and it is the closest thing to an umbrella instrument the repository holds. The page is undated on the ministry site and lists no relationship, agreement or financing volume.
 <!-- /narrative -->
 ### New investments
 
@@ -156,6 +158,8 @@ The education repository put figures against its institution count. It now holds
 Nine agencies took bilateral cover under the amended identity Act inside a fortnight, among them [Solid Minerals](https://www.thisdaylive.com/2026/07/20/alake-nimc-partner-to-deploy-digital-identity-against-illegal-mining/), [the Presidency](https://www.thisdaylive.com/2026/07/22/shettima-nigerias-digital-transformation-under-tinubu-unrivalled-hails-ongoing-reforms-by-nimc-management/) and [Women Affairs and the Bank of Industry](https://www.thisdaylive.com/2026/07/24/nimc-seals-strategic-partnerships-with-women-affairs-ministry-boi-to-deepen-digital-identity-financial-inclusion/); no account states a lawful basis, consent mechanism or retention rule for the sharing that follows. The [Nigeria Data Exchange now moves personal data between ministries in production](https://www.biometricupdate.com/202607/nigeria-unveils-digital-govt-platform-for-unified-access-to-public-services) behind the Government Service Portal, on the same silence. Against the single-source-of-truth framing, named practitioners [describe the arrangement as federated linkage on a shared identifier](https://www.vanguardngr.com/2026/07/nin-contradiction-high-cost-of-false-integration/), with banks still reconciling by hand. The [National Single Window](https://www.vanguardngr.com/2026/08/customs-agents-disagree-over-national-single-window-operations/), launched in March, is contested by licensed customs agents who say clearance paperwork has multiplied rather than consolidated.
 
 A state built its own exchange for the most sensitive category of all. Lagos [set out a Smart Health Information Platform on 8 August, to connect patient records, laboratory results and biological data across facilities](https://thesun.ng/lagos-pushes-ai-health-data-to-transform-healthcare-delivery/) and to underpin an artificial-intelligence-driven health system, citing the Ebola and COVID-19 outbreaks as the case for moving off siloed facility records. No legal basis, data-controller arrangement, consent model, retention rule or relationship to the national data-protection regime is stated for it — the same silence the federal exchanges above are described in.
+
+Three more exchanges were proposed in September, none yet built. The education ministry [disclosed talks with the national youth service scheme on an interface to verify qualifications against the repository](https://www.thestar.ng/fg-nysc-plan-digital-link-to-curb-certificate-fraud/); at Seme-Krake the customs service [offered Benin real-time exchange of declarations, manifests, transit data, risk profiles and enforcement alerts, the two administrations sharing one post but no system](https://tribuneonlineng.com/nigeria-benin-republic-move-to-close-trade-gaps-at-seme-border/); and the financial intelligence unit [opened co-design with banks, fintechs and insurers of a platform to share intelligence against illicit flows](https://von.gov.ng/nfiu-mobilises-private-sector-to-combat-illicit-financial-flows/). None states a legal basis for the sharing.
 <!-- /narrative -->
 ### Digital Identity and CRVS
 
@@ -231,6 +235,8 @@ Two more federal fronts opened in the same week. The communications ministry [la
 A state payroll moved onto one record. Ondo State [launched Ondo Pay on 4 September, bringing employee records, salary computation, approvals, reporting, payroll processing and pension migration into one environment with a mobile self-service application for payslips and permitted record updates](https://www.thisdaylive.com/2026/09/04/aiyedatiwa-ushers-in-new-era-of-digital-governance-with-ondo-pay/); the state says bank-verification-number integration, controlled access and auditable workflows are meant to remove duplicate and non-genuine records and unauthorised payments. No cost, vendor or headcount is published, so the claim cannot be tested against a payroll figure.
 
 The police opened a public fraud-reporting channel on 1 September, and it is the fourth such platform in a decade. [The app lets people report suspected financial fraud, upload evidence, track cases and receive feedback, built by the force's own ICT department with financial-sector stakeholders](https://techcabal.com/2026/09/07/nigerias-police-vigilant-app-raises-questions-duplicate-fraud-reporting/), and it arrives over a cybercrime centre already logging about 146,000 reports and about ₦58bn in recovered assets. Nothing published says how the new channel routes against the centre already running, or what became of the three earlier platforms.
+
+Two September measures reach further into the state. A [single 112 emergency number, approved by the National Economic Council, went to a rollout committee of the police, communications regulator, emergency agency and road safety corps on 8 September](https://www.naltf.gov.ng/shettima-urges-swift-action-as-nigeria-prepares-for-nationwide-rollout-of-112-emergency-line), with funding promised once the roadmap exists. And the procurement bureau's [Digital Submission Portal was made mandatory for every federal agency's procurement requests](https://developmentdiaries.com/as-nigerias-procurement-goes-digital-why-cant-citizens-see-the-contracts/), an internal record that publishes no award. On the one citizen survey held, [digital-government adoption stands at 50% while net satisfaction fell five points from 2024 to 64%](https://techeconomy.ng/report-nigerias-digital-government-adoption-now-50-weekly-usage-hits-91).
 <!-- /narrative -->
 
 ## Digitalisation
@@ -274,6 +280,8 @@ The one domestically built model to ship this month went the other way, at a res
 [A drive-to-own vehicle financier raised US$250m at a US$2.1bn valuation on 5 August](https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/), financing a 42,000-vehicle fleet across fourteen countries against platform earnings — making ride-hailing income the credit-scoring and repayment rail for drivers outside formal banking, a class of alternative-data underwriting no Nigerian instrument addresses. The communications regulator [leased its Digital Industrial Park and Learning Centre to Enugu State for fifteen years](https://www.thisdaylive.com/2026/08/04/ncc-leases-digital-industrial-park-learning-centre-to-enugu/), its executive vice chairman saying that buildings alone do not create innovation; no rent, investment commitment or performance condition is stated. A [crowdsourced food-price platform reports about 2,500 users](https://www.wearetech.africa/en/fils-uk/solutions/nigeria-s-bango-uses-price-data-to-bring-transparency-to-food-markets).
 
 NITDA [inaugurated a Technical Working Group to build a multi-agency national regulatory sandbox](https://nitda.gov.ng/nitda-inaugurates-sandbox-technical-working-group-to-strengthen-regulatory-framework-for-digital-innovation/9560/), deliberately sector-agnostic, letting innovators test emerging technologies with several regulators at once before full market approval. It is distinct from the central bank's own sector sandbox, and no framework text, member list or timetable has been published.
+
+At its Abuja forum on 9 September the EU put a figure on Boost Africa: [EUR108 million invested across Africa, stated to have attracted about EUR400 million more and up to 15,000 jobs](https://www.thisdaylive.com/2026/09/09/eu-eib-invest-e108m-to-drive-african-entrepreneurship-create-15000-jobs/), cumulative rather than a Nigerian commitment.
 <!-- /narrative -->
 
 ## Capacity
@@ -294,6 +302,8 @@ A [digital self-care platform went live for University of Lagos students](https:
 Away from the campuses, German cooperation [opened a tender on 4 August for the IT equipment of rural job centres in Ogun and Plateau States](https://publicprocurement.org/german-cooperation-invitation-to-tender-for-electronic-equipment-for-rural-job-centers-for-ogun-plateau-state/), under a youth-employment project. A procurement notice fixes the equipment stage and nothing else: how many centres, at what cost, and when they open are all unstated.
 
 The accessibility requirement is not reaching the platforms it binds. [None of eight public websites audited in May 2026, among them the admissions board, the identity commission, the revenue service and the disability commission itself, had implemented baseline accessibility features; an earlier assessment of all 36 states and the Federal Capital Territory found 26 non-compliant with the technology agency's website guidelines and 14 sites unusable for people with disabilities; and the Nigeria Web Design Standards, launched in July 2025 with a toolkit promised within eight to ten weeks, had published none by August 2026 with no evidence of Federal Executive Council approval or of implementation](https://techcabal.com/2026/08/31/nigeria-wants-assistive-tech-who-is-fixing-its-inaccessible-digital-platforms/). The commission's own estimate is [35 million Nigerians with disabilities](https://techcabal.com/2026/08/31/nigeria-wants-assistive-tech-who-is-fixing-its-inaccessible-digital-platforms/).
+
+Zero-rated education access moved from consultation to a start date. At the 10 September launch [the education minister set 1 October 2026 for about five million students to receive 100MB a day on approved educational platforms](https://newstimes.com.ng/2026/09/ncc-launches-zero-rated-access-to-educational-platforms/), [public senior secondary and tertiary students first, through participating mobile operators](https://www.thepointng.com/reactions-as-fg-plans-daily-free-data-for-nigerian-students/). No approved-platform list or funding arrangement is published, and the minister's own caution that zero rating should not open every platform calling itself educational leaves the whitelist the open question.
 <!-- /narrative -->
 ### Digital divides
 
@@ -316,6 +326,8 @@ A state put a household survey at the centre of its budgeting. Katsina [launched
 
 <!-- narrative: data--data-open -->
 The month's open-data movement is civil society's rather than government's. A civic-technology foundation [published a 2026-2030 strategy on 3 September to institutionalise participatory budgeting and subnational public-project tracking in 10 to 15 states, building on two existing platforms that let citizens monitor budget implementation and identify completed, delayed or abandoned public projects](https://nannews.ng/promad-unveils-5-year-strategy-to-scale-up-civic-tech-citizen-participation/). No budget, funder, delivery timetable or state is named.
+
+Government procurement went the other way: online, but not open. The procurement bureau's [submission portal became mandatory for agencies while contract awards, prices and delivery stay unpublished, although the 2007 procurement Act and the 2011 freedom of information Act require award particulars to be](https://developmentdiaries.com/as-nigerias-procurement-goes-digital-why-cant-citizens-see-the-contracts/).
 <!-- /narrative -->
 
 ## Geopolitics
