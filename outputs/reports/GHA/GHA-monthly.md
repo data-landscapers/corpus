@@ -1,11 +1,11 @@
 ---
 title: Ghana — monthly update, August – September 2026
-compiled: 2026-09-10
-period: 2026-08-01 to 2026-09-10
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 place: GHA
-ledger_rows: 122
+ledger_rows: 125
 not_held: 9
-record: 01e877eb027f
+record: e6ba13458484
 ---
 
 # Ghana: monthly update, August – September 2026
@@ -153,6 +153,8 @@ The dominant operator opened a channel to the next cohort of providers instead. 
 Card acceptance widened from outside the domestic rails. A commercial bank and an international card scheme [opened online acceptance of that scheme's cards to participating merchants in nine African markets including Ghana on 19 August](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/), settling in local currency, US dollars or both; the merchant count is given for the nine markets together and not for Ghana.
 
 The virtual-asset regime acquired its coordinating machinery. A five-agency committee is [constituted and chaired by the central bank governor, joining the securities regulator, the finance ministry, the cyber security authority and the financial intelligence centre, working towards having the Virtual Asset Service Providers Act fully in force by 2027](https://bitcoinke.io/2026/09/ghana-sets-up-virtual-assets-committee/), and on 4 September the securities regulator [admitted a second sandbox cohort of ten participants, run with the central bank to test and refine the framework the Act introduced](https://www.myjoyonline.com/yellow-card-joins-ghanas-second-virtual-asset-regulatory-sandbox/), one of them a stablecoin infrastructure provider testing stablecoin payment, fiat settlement and wallet infrastructure under supervision. The cohort list, the first cohort's outcomes and the sandbox's exit criteria are not published.
+
+The central bank widened its enforcement. On 8 September it [named a second list of 20 unlicensed digital loan apps](https://www.bog.gov.gh/wp-content/uploads/2026/09/Notice-No.29-BOG-SEC-GOV-2026-Notice-PUBLICATION-OF-UNLICENSED-DIGITAL-CREDIT-SERVICE-PROVIDERS-ON-THE-BANKS-WEBSITE-SOCIAL-MEDIA-PLATFORMS-AND-OTHER-COMM-CHANNELS.pdf), five weeks after the first, [warning banks and payment providers not to process for them](https://gna.org.gh/2026/09/bog-names-20-unlicensed-digital-loan-providers/); the register of licensed providers it undertook to publish is still not out.
 <!-- /narrative -->
 ### Registries
 
@@ -167,6 +169,8 @@ A third registry arrived as a private product reading public records. [Marrify l
 
 <!-- narrative: dpi--dpi-mis -->
 One sectoral system was assessed rather than built. A Danish-funded gap assessment of the meteorological agency [reported gaps across its ICT infrastructure, digital systems, data governance and cybersecurity framework](https://techafricanews.com/2026/08/20/dmi-assessment-highlights-ict-cybersecurity-and-data-gaps-at-ghanas-gmet/), presented to the communications ministry in Accra under a bilateral weather and climate cooperation. Neither the assessment text nor any cost, timetable or funding line for the roadmap it recommends is published, so what the month holds is a diagnosis and no commitment to act on it.
+
+The health insurer [described electronic claims, biometric member verification and one-time attendance codes as in operation, with active membership at 70% in August 2026 against an 80% year-end target](https://theoverseeronline.com/victor-bampoe-2-3/), its own account with no claims or rejection figures.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -206,6 +210,8 @@ UNESCO's Accra head replied from the same platform that strategies without fundi
 Applications opened on 1 July for an applied artificial-intelligence lab in Accra, closing 31 August with no cohort size or Ghana-specific spend disclosed.
 
 The external assessment of readiness arrived on 7 September. Ghana is [one of 77 countries to have run UNESCO's readiness assessment methodology, under an EU-funded project on implementing the ethics recommendation](https://www.unesco.org/en/articles/ai-readiness-assessment-methodology-ghana), and the draft findings presented at consultation stated that the country lacks binding AI-specific regulation and comprehensive data governance frameworks. The report also puts a third dating on the national strategy — 2023-2033, approved 24 April 2026 — against the held text titled 2025-2035 and dated December 2025 and a [ministerial statement placing Cabinet approval in the week before 26 February 2026](https://www.citinewsroom.com/2026/02/ghanas-national-ai-strategy-secures-cabinet-approval-sam-george/). None of the three is reconciled.
+
+Two applied systems launched outside government. The development bank's [AI platform gives farmers agronomic guidance and loan officers portfolio intelligence on a messaging app, after a pilot of more than 8,500 queries in three months](https://gna.org.gh/2026/09/dbg-partners-launch-ai-platform-to-transform-agricultural-financing/), and a non-profit with the dominant operator [opened a toll-free voice line answering in six languages, an AI system included, for callers without data](https://www.ghanamma.com/2026/09/10/viamo-launches-231-voice-platform-in-ghana-creating-a-new-national-channel-for-inclusive-communication-and-offline-ai/).
 <!-- /narrative -->
 ### ICT Industry
 
@@ -259,6 +265,8 @@ The [draft digital economy and innovation development fund bill](https://amchamg
 Existing money went the other way. An implementing partner's account of 12 August reports that [connectivity and digital-inclusion work in Ghana slowed or stopped after the American aid wind-down of 2025, in which 83% of the agency's programmes were cut](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html), the multi-funder Women in the Digital Economy Fund losing its American component while the parts other funders backed continued. No replacement funder is named and no Ghanaian figure is given.
 
 The rural project's own numbers reached the repository on 5 September. [1,400 of 2,016 rural telephony sites are live and the universal-access fund carries a GHS 30m allocation for the project in 2026](https://www.myjoyonline.com/govt-to-upgrade-all-rural-telephony-networks-to-4g-capability-sam-george/), with the minister directing that every site be upgraded to at least 4G on the ground that 2G and 3G no longer carry the services the sites exist to deliver, a directive [repeated on an Eastern Region site inspection the next day](https://newsalertgh.com/2026/09/06/sam-george-inspects-rural-telephony-projects-to-boost-mobile-network-connectivity-in-eastern-region/). It carries no timetable, cost or contracting route, and 616 sites are not yet live. Above it, [smartphone penetration is put at 71.8% in June 2026 against 27.5% a decade earlier](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/) — the minister's figure, on a different base from the household survey the record already holds.
+
+The rural telephony count now has a dated start. The previous minister's February 2024 statement [put 1,010 sites built, 659 integrated and 618 on air against the 2,016 target](https://moc.gov.gh/wp-content/uploads/2023/03/FEB-2024-PRESS-BRIEFING_MOCD.pdf), which is the figure the present government's 1,400 live sites should be read against.
 <!-- /narrative -->
 
 ## Data
