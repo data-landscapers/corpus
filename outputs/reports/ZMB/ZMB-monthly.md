@@ -1,11 +1,11 @@
 ---
 title: Zambia — monthly update, August – September 2026
-compiled: 2026-09-09
-period: 2026-08-01 to 2026-09-09
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 place: ZMB
-ledger_rows: 50
+ledger_rows: 52
 not_held: 46
-record: c296b70c16c5
+record: cde6d4bbd26d
 ---
 
 # Zambia: monthly update, August – September 2026
@@ -28,6 +28,8 @@ Three standing positions entered the record this month rather than moving in it.
 
 <!-- narrative: governance--gov-policy -->
 The national artificial-intelligence strategy has reached the end of the period it was written for. The technology ministry's permanent secretary [says it is nearing the end of its cycle and is due for review](https://api.oecdai.org/storage/policy-initiatives/Apr2026/117ojpi25umobje3ol-Zambia-Ai-Strategy-Book-option-2.pdf). A strategy due for review before its successor exists is the position the repository can state; no review terms of reference, timetable or drafting body is published.
+
+The second term opened on a new blueprint. The state ICT institute [endorsed the Grow Zambia Agenda 2026-2031 for its eight digital-infrastructure targets and said it is building a real-time Cabinet dashboard to monitor it](https://cajnewsafrica.com/2026/09/10/zambia-places-ict-at-centre-of-new-economic-blueprint/); the targets themselves are not published.
 <!-- /narrative -->
 ### Data protection
 
@@ -51,6 +53,8 @@ The same Postal and Courier Services Bill consultation — the only open public 
 On 1 August the Human Rights Commission disclosed that its case review meeting had considered 105 alleged violations linked to the election period, of which 62 were resolved administratively.
 
 The election itself, on 13 August, produced the fullest external account of the country's digital systems the repository holds. Observer missions recorded a [hybrid digital and manual voter-registration system with an online pre-registration portal, logging 8,786,300 registered voters, up 25% since 2021](https://www.eeas.europa.eu/sites/default/files/2026/documents/EU%20EOM%20Zambia%202026_Preliminary%20Statement%2015_8_FINAL_website2.pdf). A domestic coalition [found election-day process largely transparent but flagged an online-only accreditation system that blocked 11 accredited monitors, and the electoral commission's refusal to share the voters register](https://www.zambiamonitor.com/churches-group-rates-conduct-of-august-general-elections/). The European mission found online free expression unduly curtailed under the 2025 Cyber Security Act amid arrests for speech offences, and a regional media institute [recorded a journalist detained for two weeks under the Cyber Crimes Act and judged the access-to-information law and decriminalised defamation paper victories undermined by the two 2025 statutes](https://misa.org/blog/misa-regional-preliminary-statement-on-media-freedom-digital-rights-and-access-to-information-in-the-2026-zambia-general-elections/). These are preliminary statements; no final report, government response or commission account of the accreditation and register decisions is held.
+
+The criminal route for online speech was used. A Lusaka magistrate [convicted a vlogger on 11 September under section 54 of the Cyber Security and Cyber Crimes Act 2021 for forwarding a WhatsApp screenshot about a presidential aide](https://www.mwebantu.com/court-convicts-vlogger-chishimba-over-mwanawasa-allegations/).
 <!-- /narrative -->
 
 ## Finance

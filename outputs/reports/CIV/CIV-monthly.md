@@ -1,11 +1,11 @@
 ---
 title: Cote d'Ivoire — monthly update, August – September 2026
-compiled: 2026-09-10
-period: 2026-08-01 to 2026-09-10
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 place: CIV
-ledger_rows: 55
+ledger_rows: 57
 not_held: 10
-record: d249e6a6c01c
+record: 6469ffab2084
 ---
 
 # Cote d'Ivoire: monthly update, August – September 2026
@@ -141,12 +141,23 @@ September gave the programme a shortlist. A national prioritisation workshop clo
 The prioritisation workshop's second day produced something more consequential than the list. The nine working groups, sitting on different sectors, [converged on the same diagnosis — procedures still largely manual — and on the same answer: shared public infrastructure rather than nine separate builds, with a national single sign-on tied to the population register and the national identification number, 47 of the 49 bodies invited attending](https://afriksoir.net/transformation-numerique-les-neuf-groupes-de-travail-saccordent-sur-des-infrastructures-publiques-communes/). That is a design decision arrived at by the departments who would have to use it, which is a different thing from one imposed on them.
 <!-- /narrative -->
 
+## Digitalisation
+
+### Rural digital data capture
+
+<!-- narrative: digitalisation--digital-rural -->
+
+Medical drone delivery is to leave the centre-west. The Council of Ministers [noted on 9 September a partnership with Zipline for ten drone hubs supplying health facilities, a 27-month first phase at Daloa, Biankouma, San Pedro and Kouto, a US grant building them and the state paying operations](https://www.gouv.ci/publications/conseils-des-ministres/3386). No contract value is published.
+<!-- /narrative -->
+
 ## Technology
 
 ### AI
 
 <!-- narrative: technology--tech-ai -->
 The meteorological agency [signed a memorandum with China's meteorological administration at Shanghai](https://www.aip.ci/cote-divoire-aip-la-sodexam-signe-un-memorandum-dentente-avec-ladministration-meteorologique-chinoise/). It is a cooperation instrument rather than a system: no scope, model, data-sharing term or duration is published.
+
+The national AI conference ended with a list and a deadline: [77 priority use cases selected from hundreds, and a national roadmap for them to be finalised within three weeks](https://www.lemeridien.ci/intelligence-artificielle-la-cote-divoire-retient-77-priorites-et-se-donne-trois-semaines-pour-passer-a-laction/). The state [signed a voluntary national AI pact with the employers' confederation and the chamber of commerce](https://afriksoir.net/cote-divoire-letat-et-le-prive-scellent-un-pacte-pour-accelerer-la-revolution-de-lia/), with no legal or financial obligation attached.
 <!-- /narrative -->
 ### Innovation ecosystem
 

@@ -1,11 +1,11 @@
 ---
 title: Cameroon — monthly update, August – September 2026
-compiled: 2026-09-10
-period: 2026-08-01 to 2026-09-10
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 place: CMR
-ledger_rows: 40
+ledger_rows: 42
 not_held: 4
-record: b5b55049770c
+record: bd2b4cee9121
 ---
 
 # Cameroon: monthly update, August – September 2026
@@ -53,6 +53,8 @@ The 2026 national Internet Governance Forum [met at the Palais des Congres in Ya
 
 <!-- narrative: finance--finance-new -->
 What deters investment was named out loud. At a United States-convened business climate forum in Yaoundé, [financial technology and foreign-exchange rules rather than the investment case dominated the discussion](https://www.businessincameroon.com/public-management/2708-16628-cameroon-s-regulatory-hurdles-take-center-stage-in-talks-to-unlock-u-s-investment), and a separate assessment [set out what is still getting in the way of United States digital investment despite strong demand](https://www.ecofinagency.com/news-digital/2808-58424-u-s-digital-investment-in-cameroon-what-is-still-getting-in-the-way). Demand is not the constraint here and both accounts say so; the record held carries no rule changed in response.
+
+The EU's digital money was set out in September: [CFAF 9.83bn for the regional Digital Business Boost for Africa and CFAF 9.83bn for Digital Acceleration in Cameroon, signed on 16 June](https://www.businessincameroon.com/cooperation/1109-16730-cameroon-eu-shape-new-sme-agenda-around-finance-and-digitalization).
 <!-- /narrative -->
 
 ## ICT Infrastructure
@@ -129,6 +131,8 @@ The water utility [began rolling out a centralised commercial platform, WATERIS,
 
 <!-- narrative: digitalisation--digital-localgov -->
 Metering is where local digitisation is actually buying hardware. The state water utility [awarded a Chinese manufacturer a FCFA 721.76m contract on 17 August 2026 to deploy 3,000 smart meters, the first 7.5 per cent of the 40,000 planned under a World Bank-financed programme](https://leconomie.info/article/camwater-confie-a-une-entreprise-chinoise-le-deploiement-de-3-000-compteurs-intelligents-pour-72176-millions-de-fcfa). No installation schedule, data-handling arrangement or tariff effect is stated, and what the meters read is household consumption.
+
+The housing and telecoms ministries [launched a National Action Plan for Smart City Development with UN-Habitat on 8 September, on three pillars with decentralised authorities as lead actors and the mobile operators and state operator named for delivery](https://fr.journalducameroun.com/plan-national-villes-intelligentes-ce-que-le-cameroun-va-changer-dans-ses-villes/). No costing or pilot city list is published.
 <!-- /narrative -->
 
 ## Technology

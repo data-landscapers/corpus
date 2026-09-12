@@ -1,11 +1,11 @@
 ---
 title: DR Congo — monthly update, August – September 2026
-compiled: 2026-09-10
-period: 2026-08-01 to 2026-09-10
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 place: COD
-ledger_rows: 66
+ledger_rows: 68
 not_held: 6
-record: 3b9be6fba04d
+record: e4db1184b06b
 ---
 
 # DR Congo: monthly update, August – September 2026
@@ -28,6 +28,8 @@ The Digital Code moved from statute to prosecution. [Prosecutors were instructed
 Experts validated the [sectoral digital economy policy 2026-2030 on 21 and 22 July, subject to completing the costing, indicators and institutional responsibilities](https://www.mediacongo.net/article-actualite-165910_economie_numerique_les_experts_valident_le_projet_de_politique_sectorielle_2026_2030.html). A restitution workshop on 29 and 30 July presented a ten-dimension maturity diagnostic and named the [instruments to be articulated: the digital and data strategies, the AI strategy, the identity platform, the sovereign cloud, a certification authority and a cybersecurity agency](https://actu7.cd/2026/07/29/augustin-kibassa-maliba-lance-le-chantier-dun-cadre-strategique-pour-accelerer-la-transformation-digitale-de-la-rdc/), plus a rule barring AI platform deployment without data quality, auditability and human supervision.
 
 The connectivity side of that framework acquired numbers in August. The universal service fund [published a National Connectivity Strategy 2026-2035 built on a shared-infrastructure model led by a tower company, and signed subsidy agreements with the four mobile operators to extend service to 40 underserved localities covering about 258,000 people](https://developingtelecoms.com/telecom-business/telecom-regulation/20678-drc-unveils-10-year-strategy-to-close-connectivity-gaps-through-shared-infrastructure.html), against a target of 3,000 localities and 16 million people by 2030. The strategy text is not held, and neither the subsidy amounts, the tower company nor the selection rule for the first 40 localities is stated.
+
+Two World Bank-supported studies [on infrastructure sharing, national roaming, local-loop unbundling and telecom taxation were presented in Kinshasa on 9 September, recommending lower duties on equipment and new sites and a central infrastructure database](https://numerico.cd/2026/09/09/pact-et-telecoms-en-rdc-baisse-des-couts-en-vue/). No government decision on them is recorded.
 <!-- /narrative -->
 ### Legislation and regulation
 
@@ -119,6 +121,8 @@ Continentally, the laboratory system the country's current Ebola response runs o
 
 <!-- narrative: dpi--dpi-pay -->
 Fare collection took its first digital step. The state bus operator Transco [opened the trial phase of QR-code electronic ticketing in Kinshasa on 31 August, its director general scanning the first code on the inaugural run](https://acp.cd/business/kinshasa-la-vente-des-produits-maraichers-presentee-comme-un-levier-de-renforcement-financier/). It is a trial on one operator's buses. No fare volume, route coverage or payment provider is named, and nothing connects it to the national payment rails.
+
+The revenue chain's own record came into dispute. The tax directorate [wrote to the finance minister on 3 September alleging deleted and back-dated receipts on the ISYS-REGIES platform](https://congoguardian.com/2026/09/10/presumee-cyber-maffia-a-la-banque-centrale-sur-les-recettes-de-la-dgi-versions-croisees/), and the central bank [replied on 10 September that validated transactions are traceable and cannot be altered, explaining the gaps against its accounting system](https://actualite.cd/2026/09/11/rdc-la-bcc-dement-toute-manipulation-des-recettes-de-letat-et-clarifie-les-ecarts-entre). No independent audit is published.
 <!-- /narrative -->
 ### Registries
 
