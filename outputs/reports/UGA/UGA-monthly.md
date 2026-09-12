@@ -1,11 +1,11 @@
 ---
 title: Uganda — monthly update, August – September 2026
-compiled: 2026-09-10
-period: 2026-08-01 to 2026-09-10
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 place: UGA
-ledger_rows: 90
+ledger_rows: 94
 not_held: 12
-record: ed12ed256b18
+record: 39082a4c629a
 ---
 
 # Uganda: monthly update, August – September 2026
@@ -42,6 +42,12 @@ The data protection office's letter of 17 July confirmed compliance with the fiv
 On 14 August the ICT ministry launched a [three-year child online-safety campaign in Kampala with the communications regulator and a private partner](https://www.itweb.africa/article/uganda-commits-to-making-cyber-space-safe-for-minors/dgp45MaBl1kqX9l8). No budget, reach target or evaluation arrangement is published for it, which is the same gap that closed the previous awareness campaign without a measured result.
 
 The sharpest test of the protection regime in the window came from another arm of the state. The revenue authority has [issued more than 1,000 compliance notices since June 2026, and wrote to a commercial bank on 27 July seeking five years of customer bank statements, the directors' personal identity information and the bank-client correspondence](https://www.theeastafrican.co.ke/tea/business-tech/ugandan-revenue-authority-turns-up-heat-on-taxpayers-5561674), under the Tax Procedures Code Act and against a ten-month collection shortfall of Ush1.5 trillion. Nothing from the data protection office is on record about it.
+<!-- /narrative -->
+### Regional collaboration
+
+<!-- narrative: governance--gov-regional -->
+
+Uganda and South Sudan [signed a memorandum in Juba on 7 September for real-time epidemiological data sharing, mutual outbreak notification, joint surveillance and harmonised screening at border crossings](https://www.radiotamazuj.org/en/news/article/south-sudan-uganda-sign-agreement-on-cross-border-health-security). No data platform, legal safeguard or budget is named.
 <!-- /narrative -->
 ### Standards
 
@@ -110,6 +116,8 @@ The identity authority put its own constraint on the record on 7 August: it is [
 Four days later the Auditor General's account of the same authority reached the press, and it puts a size on the consequence. As at late October 2025 [17 million citizens were still awaiting national identity cards, only 0.2% of first-time applicants had been cleared for printing, the staff vacancy rate stood at 26% and identity renewal faced a UGX256.8bn funding shortfall](https://redpepper.co.ug/id-nightmare-ugandans-curse-nira-over-r-nile-like-long-queues-confusing-collection-points-rejected-new-ids/150319/) — reported amid cross-district queue chaos over collection of new cards. The figures are ten months old at publication, and the authority publishes no current backlog series against which to test them.
 
 The Cabinet decision of 1 September was narrowed twice in the week after it. The finance minister said on 3 September that it [does not make the identification number the taxpayer number but requires the two to be interoperable — "we are not saying the NIN is the TIN; we are saying the NIN and the TIN must be able to read each other"](https://mulengeranews.com/minister-musasizi-explains-why-nin-is-to-be-used-as-tin-as-icpau-commits-to-enforce-ai-adoption-in-accountancy-sector/), and the revenue authority added on 7 September that [holding an identification number does not by itself make its holder a taxpayer](https://nilepost.co.ug/business/369514/ura-explains-use-of-nins-to-replace-tins), the purpose being a single secure identifier for government services and more accurate taxpayer records. The decision itself is not held, and no instrument, commencement date or migration plan has been published for what is now described as two identifiers reading each other rather than one replacing the other.
+
+The cards are printed and not working. The registration authority [holds about 5.4 million printed cards uncollected, with 418 of 571 posts filled and 201 at client counters](https://www.independent.co.ug/nira-staffing-crisis-leaves-millions-of-ids-gathering-dust/), and told legislators on 9 September that [one mobile operator is the only partner fully onboarded to the information-exchange module it opened in March, so new cards are refused at banks and SIM counters](https://businessfocus.co.ug/nira-on-spot-as-new-national-ids-fail-to-work-for-sim-registration-banks-and-driving-permits/).
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -145,6 +153,8 @@ The country's other identifier-bearing register went the other way. Parliament's
 A health surveillance pilot moved to the stage where the model's answer is visible to the person making the decision. An artificial-intelligence febrile-illness workflow built into the community health information system [recorded high agreement with village health teams' unaided judgments in a first phase and has entered a three-month second phase in which workers see the model's interpretation, across four districts](https://iafrica.com/ugandan-ai-health-pilot-records-high-agreement-with-community-workers-now-enters-the-harder-phase/). No agreement percentage, sample size or case count has been published, so the headline finding cannot be checked; the first phase itself logged low testing volumes, inconsistent commodity availability, device underperformance, unreliable connectivity and supervision gaps.
 
 A private platform entered the health stack from outside it. A digital-health company [launched a platform on 3 September letting urban specialists run virtual multidisciplinary ward rounds with rural inpatient teams in real time, with per-bed cryptographic tokens and triage on live vital signs](https://nilepost.co.ug/business/368668/chil-group-launches-digital-platform-linking-rural-hospitals-to-urban-specialists), covering more than 260 medical wards it says often lack cardiologists, neurologists and intensivists. No facility list, patient volume, tariff, clinical evaluation or integration with the national health information stack is published.
+
+The parish programme's system was audited short of its design. The Auditor-General [found two of seven pillar modules fully implemented, 178 of 13,253 parish tablets non-functional, 29 with ineligible users and none supported with internet connectivity](https://www.oag.go.ug/storage/megareports/THEPDM@THM2025.pdf), and in September one district [reported 31 of its 61 tablets dead and parishes back on manual records](https://chimpreports.com/alarm-raised-as-50-of-zombo-pdm-tablets-fail-to-function/).
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -158,6 +168,8 @@ Upstream of any of it, German cooperation [tendered a consultancy on 5 August to
 The public procurement and disposal authority [partnered with a budget-advocacy group to strengthen monitoring of government contracts](https://ubc.go.ug/2026/08/21/ppda-partners-with-csbag-to-strengthen-monitoring-of-government-contracts/). No scope, dataset or first published finding accompanies the announcement.
 
 The procurement system was restated as a fiscal-discipline instrument rather than a procurement one, the finance minister setting it [alongside budget-execution controls and the accounting profession's own role in evidence-based decision-making at a professional seminar on 3 September](https://www.finance.go.ug/media-center/news-and-updates/musasizi-tasks-accountants-fiscal-discipline-accountability). No new onboarding or throughput figures came with it.
+
+The revenue authority [told manufacturers its replacement tax platform has been in build since February 2026, web-only and keyed on national identity and business registration numbers](https://mulengeranews.com/ura-engages-manufacturers-on-new-tax-reforms-digital-systems-and-import-fee-changes/), an account that sits unreconciled with the award the Appeals Tribunal set aside.
 <!-- /narrative -->
 
 ## Digitalisation
