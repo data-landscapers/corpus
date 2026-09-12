@@ -1,11 +1,11 @@
 ---
 title: Sierra Leone — monthly update, August – September 2026
-compiled: 2026-09-10
-period: 2026-08-01 to 2026-09-10
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 place: SLE
-ledger_rows: 40
+ledger_rows: 43
 not_held: 5
-record: ca6fbec46b68
+record: 4ed77424dd68
 ---
 
 # Sierra Leone: monthly update, August – September 2026
@@ -42,6 +42,8 @@ The regulator has said the [Subscribers Regulations 2025 will fine operators 25,
 Mobile-money fraud reached Parliament. A legal analysis found the [National Communications Authority Act 2022 addresses its enforcement powers to licensees only, with no statutory reversal mechanism, no SIM-swap safeguards and no allocation of loss for authorised push payment fraud](https://owlpress-sl.com/dont-call-meeting-inside-whatsapp-scam-emptying-orange-money/); a former minister replied that the [central bank's existing know-your-customer rules are adequate and only enforcement is missing](https://sierraloaded.sl/news/sylvia-blyden-kyc-mobile-money-fraud/), identifying no provision by instrument or section. The two accounts have not been reconciled.
 
 A further instrument entered consultation: the Public Financial Management Act 2026 [went to stakeholder consultation in Freetown on 18 August, with digital reforms proposed in it](https://sierraloaded.sl/news/digital-reforms-proposed-new-finance-law/). The draft is not published, so which reforms those are cannot be read off the record.
+
+A [Digital Government Bill with data-governance and child-protection provisions is being prepared with the Attorney-General's office](https://sierraloaded.sl/local/reviews-security-childrens-vaccination-data/), with no draft or timetable published.
 <!-- /narrative -->
 ### Data protection
 
@@ -175,6 +177,8 @@ The cost of the handset is being financed rather than reduced. An operator and a
 
 <!-- narrative: data--data-statistics -->
 A second national collection was launched inside nine months. The [2026 Demographic and Health Survey was launched on 4 August](https://sierraleone.unfpa.org/en/news/united-nations-reaffirms-support-sierra-leone-officially-launches-2entity26-demographic-and), after the 2026 census in December. Neither carries a published enumeration date, budget or field methodology.
+
+The census has a date and a hole in its budget. The president [set Census Night for 1 December 2026 and put the financing gap at US$37m, against US$24m committed by government of which about US$15m is disbursed](https://statehouse.gov.sl/2026/09/11/sierra-leones-president-bio-calls-for-faster-development-delivery-stronger-coordination-at-depac-meeting/). The civil registration authority [put a draft 2025 vital statistics report to two days of stakeholder validation](https://sierraloaded.sl/news/ncra-validation-sierra-leones-statistics/).
 <!-- /narrative -->
 ### Use of satellite data
 

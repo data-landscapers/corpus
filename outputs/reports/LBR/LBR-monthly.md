@@ -1,11 +1,11 @@
 ---
 title: Liberia — monthly update, August – September 2026
-compiled: 2026-09-10
-period: 2026-08-01 to 2026-09-10
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 place: LBR
-ledger_rows: 35
+ledger_rows: 36
 not_held: 6
-record: cad333843c19
+record: 268752fba45b
 ---
 
 # Liberia: monthly update, August – September 2026
@@ -33,7 +33,7 @@ One piece of it is now a signed instrument. The regulator [signed satellite comm
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->
-The data-protection statute exists. The Personal Information Act [was signed into force on 19 August alongside the cybercrime law](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/le-liberia-adopte-les-lois-sur-la-cybercriminalite-et-la-protection-des-donnees). What follows a signature is the part the repository cannot yet see: no commencement date, supervisory authority, appointment or implementing regulation is held.
+The data-protection statute exists, and has for longer than announced. A ministerial statement [presented it as signed on 19 August](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/le-liberia-adopte-les-lois-sur-la-cybercriminalite-et-la-protection-des-donnees), but [the printed Act was approved on 9 March 2026 and took effect on publication on 23 March, giving an Independent Information Commissioner 24 months for implementing rules](https://mopt.gov.lr/wp-content/uploads/2026/09/An_Act_For_The_Collection_Processing_-Transmission_-Storage_-Protection_-And_Use_Of_Personal-_Information_In_Liberia_Printed_Version_20260323_063904.pdf). No appointment, rule or registration regime under it is held.
 <!-- /narrative -->
 ### Regional collaboration
 
@@ -53,7 +53,7 @@ The month's one channel built to hear from the public rather than about it was r
 ### Cybersecurity
 
 <!-- narrative: ict-infrastructure--infra-cybersec -->
-The Cybercrime Act 2025 [was signed into force by the President on 19 August 2026](https://www.wearetech.africa/en/fils-uk/news/public-management/liberia-enacts-cybercrime-and-data-protection-laws), ending a wait that ran from the Senate's concurrence through most of this year. The full text the repository holds is still the 2021 base bill, which carries none of the 2025 provisions, so the Act is on record as in force and not as read.
+The Cybercrime Act 2025 was [announced as signed on 19 August 2026](https://www.wearetech.africa/en/fils-uk/news/public-management/liberia-enacts-cybercrime-and-data-protection-laws), and the enacted text has now been read: [approved on 3 July and printed on 24 July, it creates a National Cybersecurity Council with the national CERT as technical arm, requires breach reports within 72 hours and protects whistleblowers](https://mopt.gov.lr/wp-content/uploads/2026/09/Cybercime_Act_of_2025_Printed_Version_20260724_063806.pdf). Commentary [reads its speech-adjacent offences at sections 15 to 20 against the constitution's free-expression article and the 2019 press-freedom Act](https://frontpageafricaonline.com/liberias-free-speech-balancing-act-and-what-the-cybercrime-law-actually-changed/).
 <!-- /narrative -->
 
 ## DPI
@@ -103,6 +103,8 @@ Licensing moved off paper in the same week. The telecommunications regulator [pu
 
 
 A second permit process is following it online. The education ministry says it is [digitising operating permits for private schools after finding schools submitting mismatched teacher-qualification records, and has mapped schools across five counties with donor support to extend the mapping to ten more](https://newspublictrust.com/education-ministry-advances-digital-school-permit-system-while-funding-provided-to-renovate-public-schools). No platform, cost or completion date is named.
+
+The internal audit agency [launched an audit management system on 10 September to automate audits across ministries, agencies and public corporations](https://frontpageafricaonline.com/liberia-iaa-launches-digital-platform-to-improve-audit-processes/), a year after [tendering a consultancy to build it](https://iaa.gov.lr/processes-automation/); no cost, vendor or onboarding count is published.
 <!-- /narrative -->
 
 ## Technology
