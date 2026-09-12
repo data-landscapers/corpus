@@ -1,11 +1,11 @@
 ---
 title: Senegal — monthly update, August – September 2026
-compiled: 2026-09-10
-period: 2026-08-01 to 2026-09-10
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 place: SEN
-ledger_rows: 58
+ledger_rows: 60
 not_held: 5
-record: 20117a279381
+record: 34e3ce7b62d4
 ---
 
 # Senegal: monthly update, August – September 2026
@@ -28,6 +28,8 @@ Civil registration is the busiest part of the record and the least funded. Remed
 The body meant to steer digital governance has not started. The digital governance steering committee, [created in March 2026, was still stated five months later to be operational in the near future](https://www.biometricupdate.com/202608/senegal-seeks-to-fully-align-sovereignty-vision-with-dpi-strategy). A coordinating body that has not convened is what sits behind the strategies this section otherwise records as adopted but unreadable.
 
 The roadmap acquired a shape and a hole in the same statement. Presented at an international forum on 4 September, the New Deal Technologique is [54 projects across 12 programmes at US$2bn over ten years, of which US$700m is unallocated](https://dig.watch/event/wsis-forum-2026/new-technological-deal-or-or-how-a-global-south-digital-strategy-for-impactful-ict-transformation). The figures are the government's own and no project list, allocation schedule or financing plan for the unallocated third accompanies them, so what is established is the size of the programme and the size of the gap in it. The prime minister's [general policy statement of 8 September refocused the programme on a sovereign cloud for the state's sensitive data and an accelerated sectoral AI strategy](https://www.wearetech.africa/fr/fils/actualites/tech/senegal-priorites-numeriques-recentrees-sur-le-cloud-souverain-et-l-ia), narrowing selection to initiatives that are feasible, financed and able to produce measurable results.
+
+The new prime minister's [general policy declaration of 8 September kept the New Deal technologique as the framework and named a sovereign cloud to host sensitive state data on national soil](https://droit-et-politique-en-afrique.info/wp-content/uploads/2026/09/Declaration-de-politique-generale-du-Premier-ministre-Ahamadou-Alhaminou-Mohamed-Lo-8-septembre-2026.pdf), with a stated change of method: [projects must now show feasibility, financing and demonstrated impact before they proceed](https://www.socialnetlink.org/2026/09/08/dpg-cloud-souverain-ia-le-gouvernement-veut-passer-des-annonces-a-lexecution-du-new-deal-technologique/). No project list or costing accompanies it.
 <!-- /narrative -->
 ### Legislation and regulation
 
@@ -172,6 +174,8 @@ A French insurance-technology company [acquired Tanel, a Senegalese health-techn
 
 <!-- narrative: capacity--capacity-literacy -->
 Connectivity is being aimed at classrooms. The education ministry [plans to connect more than 8,000 primary schools to the internet through Starlink](https://techgriot.co/english/africa/2026/08/senegal-to-connect-8000-primary-schools-via-starlink/). Satellite is the route because terrestrial reach is the constraint, and a plan of that size would change what the Digital Schools programme can assume. Nothing in the record held names a school connected, a cost or a funding source.
+
+The civil service plan cleared validation on 10 September, [setting role-graded digital competences for state employees in data, information systems, AI and cybersecurity](https://www.wearetech.africa/fr/fils/actualites/tech/senegal-un-plan-national-de-formation-pour-adapter-l-administration-a-l-ere-numerique), with no target population, budget or start date published.
 <!-- /narrative -->
 ### Training and skills
 
@@ -185,6 +189,8 @@ Two facts about the state's own capacity arrived in the same week and point oppo
 
 <!-- narrative: inclusion--include-access -->
 The flagship access programme is under investigation. The National Assembly [voted 129-0 to open a commission of inquiry into about 48 billion FCFA committed since 2017 under the student-computer programme, over alleged procurement breaches and 800 defective machines stored unused at the country's largest university](https://www.seneweb.com/fr/news/Politique/un-etudiant-un-ordinateur-lassemblee-ouvre-une-enquete-sur-pres-de-48-milliards-de-fcfa_n_501999.html). Nine years in, the programme publishes no delivery total, unit cost or student-reach figure, so the inquiry's envelope is the only quantity the record holds about it.
+
+The Council of Ministers on 10 September [directed the state digital company to set up an information system to monitor and handle citizens' concerns](https://aps.sn/le-communique-du-conseil-des-ministres-du-jeudi-10-septembre-2026/), with no scope, channel or date stated.
 <!-- /narrative -->
 ### Digital divides
 

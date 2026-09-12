@@ -1,11 +1,11 @@
 ---
 title: Egypt — monthly update, August – September 2026
-compiled: 2026-09-10
-period: 2026-08-01 to 2026-09-10
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 place: EGY
-ledger_rows: 92
+ledger_rows: 94
 not_held: 48
-record: 004eac6d92c5
+record: 83005c0c35ea
 ---
 
 # Egypt: monthly update, August – September 2026
@@ -126,6 +126,8 @@ On 4 August the state-land regularisation platform was reported at [more than 30
 The social insurance authority reported on 3 August that it had served 8,621,000 people in about four months and cleared 92% of its arrears backlog — while the 95 online services it undertook in February within six months remained forthcoming as that window fell due ([authority account](https://gate.ahram.org.eg/News/5882131.aspx)).
 
 The health stock chain went onto one record. The procurement authority told the prime minister on 2 September that it is [building a national medical-stock database and has moved stocktaking onto a mobile scanning application, putting the system at 38,000 health-sector users, 11,000 medical facilities and 2,000 suppliers across the procurement, storage, dispensing and reconciliation cycle, with warehouses standardised by actual operating state and stock balances updating in real time](https://www.youm7.com/story/2026/9/2/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D9%8A%D8%AA%D8%A7%D8%A8%D8%B9-%D8%AA%D9%88%D8%A7%D9%81%D8%B1-%D8%A7%D9%84%D8%A3%D8%AF%D9%88%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%A9-%D8%A8%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%8A%D8%A7%D8%AA-%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9/7533639). The figures and the claim that the design meets audit and finance requirements are the authority's own; about EGP 90bn is allocated this financial year for medicines and medical supplies, and no completion date or independent audit of the system is published.
+
+Remote justice arrived with a price list. The justice ministry's [E-Court platform went live on 31 August for first-instance criminal courts, charging lawyers EGP 500 a year, EGP 500 per remote felony hearing and EGP 10 a page for case-file copies](https://manassa.news/en/news/33836); the Lawyers Syndicate calls the fees unconstitutional, and no legal basis for them is published.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -143,6 +145,8 @@ The justice and communications ministries [signed a three-year cooperation proto
 One platform went the other way. The prime minister said on 3 September that [faults in the unified electricity platform and discrepancies in prepaid-meter readings are a government priority and that remedial steps will be announced transparently](https://www.youm7.com/story/2026/9/3/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D9%84%D9%80-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D8%B9-%D8%B3%D8%A3%D8%B9%D9%82%D8%AF-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D8%A7-%D9%85%D8%B9-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1/7535176), the question put to him describing the platform as having stopped working, with top-up values differing from meter readings or from the figures the utility holds. The operator has published no outage notice, fault count or restoration date, so the position rests on a prime-ministerial answer to a journalist.
 
 The unified card's terms reached the repository. It is [issued free as a prepaid, fingerprint-authenticated card through the postal service, carrying bread and ration subsidy alongside health insurance, and usable at point-of-sale terminals and cash machines](https://www.egyptindependent.com/everything-you-need-to-know-about-the-unified-card-a-new-alternative-to-the-ration-card/). The account is a newspaper explainer of a gradual rollout: no issuance count, coverage figure, governorate list or completion date is published, so the card's design is established and its reach is not.
+
+The services platform put new totals on itself at its UN award shortlisting: [12.9 million registered citizens, more than 240 services and about 60 million transactions, integrated with 109 government entities](https://www.maspero.eg/economy/2026/09/09/987902/%D9%85%D9%86%D8%B5%D8%A9-%D9%85%D8%B5%D8%B1-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D8%AA%D8%AA%D8%A3%D9%87%D9%84-%D9%84%D9%84%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A7%D9%84%D9%86%D9%87%D8%A7%D8%A6%D9%8A%D8%A9-%D9%84%D8%AC%D9%88%D8%A7%D8%A6%D8%B2-%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D9%84_%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A), the ministry's own figures.
 <!-- /narrative -->
 
 ## Technology
