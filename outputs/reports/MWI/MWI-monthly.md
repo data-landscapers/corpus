@@ -1,11 +1,11 @@
 ---
 title: Malawi — monthly update, August – September 2026
-compiled: 2026-09-10
-period: 2026-08-01 to 2026-09-10
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 place: MWI
-ledger_rows: 52
+ledger_rows: 54
 not_held: 38
-record: 747eb2c623a6
+record: 4b7c7ecaad69
 ---
 
 # Malawi: monthly update, August – September 2026
@@ -81,6 +81,8 @@ The operator's annual report [puts network infrastructure investment at MK30.87b
 
 <!-- narrative: ict-infrastructure--infra-store -->
 The revenue authority's own resilience improved on donor money. Its [World Bank-funded secondary data centre and uninterruptible power supply upgrades are reported as improving service continuity, cutting queues and improving customs-duty accuracy at border posts and the international airport](https://www.nyasatimes.com/backup-data-centre-boosts-continuity-at-malawi-revenue-authority/), under a six-year, US$150m regional trade and connectivity project running to 2027. The financing commitment date is not stated in the record held, and no capacity, location or availability figure is given for the facility.
+
+The second operator reached its third data centre by purchase. It [bought another company's Tier III facility at Kanengo for K12bn, about US$6.9m, to join with its Limbe site as one cloud](https://www.itweb.africa/article/tnm-expands-malawi-data-infrastructure/mYZRXM9gbA6vOgA8), three months after the build it announced was due.
 <!-- /narrative -->
 ### Energy
 
@@ -93,6 +95,8 @@ The generator's own account of 22 August [records reduced hydropower generation 
 The month's cybersecurity item is a loss rather than a control. The state oil company [was defrauded of K700m after attackers hijacked email from its Mozambican fuel-handling contractor and supplied false banking details, instructing its bank on 29 April 2026 to wire US$403,605 to a fraudulent account](https://malawi24.com/2026/08/24/malawi-loses-k700m-in-nocma-cyber-heist/); the fraud surfaced two weeks later when the genuine contractor demanded payment, and was confirmed publicly on 24 August 2026. The company attributes the control weaknesses to the government-to-government fuel procurement model being introduced before operational and cybersecurity procedures were in place. No regulator finding, prosecution or recovery is on file.
 
 The regulator put its own name to the methods a week later. It issued a public alert on rising digital fraud against mobile money and digital financial services, naming [fake social cash transfer messages demanding a payment before assistance, failed-payment pretexts redirecting money to a second number, spoofed transaction alerts, fake competition prizes and takeovers of messaging accounts used to solicit money from contacts](https://malawi24.com/2026/09/04/macra-sounds-alarm-over-rising-digital-scams/), and stating that bodies running social cash transfer programmes do not use ordinary messaging to request money from beneficiaries. The alert carries no incident count, loss figure or enforcement action, so the regulator is on record about the methods and not about their scale.
+
+The regulator's own monitoring system came back under scrutiny. It [installed a system to watch misinformation on Facebook, X and LinkedIn in January 2025 under a US$1.5m contract awarded 15 days earlier, eight months before the election](https://www.nyasatimes.com/questions-grow-over-malawis-social-media-monitoring-system-amid-oversight-concerns/), and [civil-society letters, a presidency appeal and a rights-commission inspection that was abandoned left it running](https://moz24h.co.mz/part-2-a-ghanaian-contractor-a-1-5-million-contract-and-a-surveillance-system-that-remains-unexplained/). No audit, retention rule or oversight body is published.
 <!-- /narrative -->
 
 ## DPI
@@ -111,6 +115,8 @@ Two days later the South African side notified the update from its end, [publish
 The registration bureau reported on 13 July 2026 that more than 13.5 million people hold a national digital identity, with over 150,000 enrolled between April and June, 53% of them women ([registration bureau](https://www.biometricupdate.com/202607/malawi-reaches-13-5m-digital-ids-as-universal-coverage-comes-into-view)). On 6 July it [set the forthcoming mobile credential's launch for September 2026](https://itweb.africa/article/malawi-to-unveil-digital-ids-in-september/P3gQ2MGAZaAvnRD1), and on 5 August a separate distributed-ledger wallet was stated to be in pilot; neither announcement names the other.
 
 Using the system got more expensive. The bureau [raised fees for national identity card replacement, electronic know-your-customer verification, civil registration and marriage services](https://malawi24.com/2026/08/17/nrb-hikes-registration-fees/) under the National Registration (Amendment) Regulations 2026, gazetted on 31 July. The fee levels and their previous values are not in the record held, so the size of the increase is not established. The charge for electronic know-your-customer verification is a charge on third parties for using the identity system, levied in the month the bureau reported approaching universal coverage.
+
+The wallet has a date. The registration bureau [set its national launch for 16 September, International Identity Day, carrying a digital ID with the card's validity](https://www.biometricupdate.com/202609/malawi-to-launch-digital-id-wallet-as-national-id-coverage-reaches-99), [plus birth and marriage certificates, liveness checks and the physical card still valid](https://www.channelafrica.co.za/channelafrica/news/malawi-takes-national-ids-digital-with-nzika-wallet/).
 <!-- /narrative -->
 ### Digital Payments and Fintech
 

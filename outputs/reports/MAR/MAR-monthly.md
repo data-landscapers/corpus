@@ -1,11 +1,11 @@
 ---
 title: Morocco — monthly update, August – September 2026
-compiled: 2026-09-10
-period: 2026-08-01 to 2026-09-10
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 place: MAR
-ledger_rows: 40
+ledger_rows: 42
 not_held: 14
-record: 650e5ea5786e
+record: 5ef601dc5417
 ---
 
 # Morocco: monthly update, August – September 2026
@@ -82,6 +82,8 @@ The Dakhla campus acquired a shape without acquiring a date. It is [planned as a
 
 
 The compute platform behind that estate acquired a price. A press account citing third-party analysis [puts the Casablanca project at roughly US$1.2bn and up to 500MW, naming a South Korean cloud operator, a chip maker and the platform's developer, with a second renewable-powered project planned for Dakhla](https://en.walaw.press/country/geopolitics/QWSP/articles/morocco_bets_on_data_centers_and_artificial_intelligence_to_strengthen_its_digital_position_in_africa/GPFFXPMLMSMF). Neither figure comes from a filing, and the question the same account raises is whether hosting foreign-operated infrastructure builds anything domestic beyond the hosting.
+
+The Dakhla campus now has a size: [100 hectares and 500MW, in a portfolio presented as taking national data-centre capacity towards one gigawatt](https://leseco.ma/maroc/maroc-ia-2030-le-royaume-passe-de-lambition-a-laction.html), with no financing close or build date.
 <!-- /narrative -->
 ### Cybersecurity
 
@@ -139,11 +141,19 @@ The one artificial-intelligence figure to move in the window is a ranking rather
 
 
 The institutional side did move. Four public-interest institutes [were established by publication in the Official Gazette, covering artificial-intelligence research and sovereign systems, education, industrial automation and smart cities](https://en.7news.ma/morocco-ai-institutes/), under the national digital and artificial-intelligence strategies. No budget, staffing or opening date is stated for any of them.
+
+The AI roadmap was presented as moving to delivery on 8 September. The ministry [set targets of MAD 100bn in value added, 50,000 jobs and 200,000 certified talents by 2030](https://www.mmsp.gov.ma/fr/actualites/madame-amal-el-fallah-seghrouchni-pr%C3%A9sid%C3%A9-le-8-septembre-2026-%C3%A0-rabat-une-pr%C3%A9sentation-consacr%C3%A9e-%C3%A0-l%E2%80%99%C3%A9tat-actuel-de-la-feuille-de-route-%C2%AB-maroc-pour-l%E2%80%99intelligence-artificielle-2030-%C2%BB), [showed a sovereign AI marketplace, an assistant on the administrative-procedures portal and a national e-wallet proof of concept](https://panorapost.ma/post.php?id=57071), and the four JAZARI institutes [held general assemblies and moved to operations](https://www.mmsp.gov.ma/fr/actualites/les-assembl%C3%A9es-g%C3%A9n%C3%A9rales-de-quatre-instituts-%C2%AB-jazari-%C2%BB-se-sont-tenues-le-8-septembre-2026-%C3%A0-rabat-sous-la-pr%C3%A9sidence-de-madame-la-ministre-amal-el-fallah-seghrouchni). The roadmap document is still not published.
 <!-- /narrative -->
 ### ICT Industry
 
 <!-- narrative: technology--tech-industry -->
 The industry and trade ministry [added video games to the innovation funding programme](https://en.7news.ma/morocco-adds-video-games-to-innovation-funding-programme/), so companies in the sector can now apply for government funding to develop and test new games. No allocation, ceiling or first award has been published.
+<!-- /narrative -->
+### Innovation ecosystem
+
+<!-- narrative: technology--tech-innovate -->
+
+The state put money behind the startup strategy. A decree of 3 August [authorised Tamwilcom to invest up to MAD 347m over three years through the Fonds Catalytique Startups in funds backing Moroccan and foreign startups](https://librentreprise.ma/2026/09/10/feu-vert-a-tamwilcom-pour-investir-347-mdh-dans-les-startups/); no manager or first commitment is published.
 <!-- /narrative -->
 
 ## Capacity
