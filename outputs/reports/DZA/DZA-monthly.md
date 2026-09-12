@@ -1,11 +1,11 @@
 ---
 title: Algeria — monthly update, August – September 2026
-compiled: 2026-09-10
-period: 2026-08-01 to 2026-09-10
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 place: DZA
-ledger_rows: 42
+ledger_rows: 43
 not_held: 7
-record: e445fdfcf8d4
+record: 8ce214f6db8a
 ---
 
 # Algeria: monthly update, August – September 2026
@@ -89,6 +89,8 @@ The payments layer gained a governing body and a small number. A central bank re
 
 <!-- narrative: dpi--dpi-registry -->
 Two registry developments pulled in opposite directions. The education ministry [ordered its wilaya directorates and schools to accept electronically issued civil-status documents and stop demanding paper copies](https://interlignes.dz/education-nationale-rappel-a-lordre-du-ministere/), warning staff that unjustified refusal engages their responsibility â€” an obligation inside one ministry rather than a general rule. On vehicle registration the interior minister [called for rapid correction of technical problems and malfunctions](https://lechodalgerie.dz/immatriculationsayoud-exige-des-correctifs-rapides/) in the system, with no fault description, backlog figure or completion date given.
+
+The prime minister [ordered an immediate national census of economic land on a unified template, with a consolidated map due at the investment agency's one-stop window by the end of September](https://www.lejourdalgerie.com/foncier-economique-sifi-ghrieb-ordonne-un-recensement-immediat/).
 <!-- /narrative -->
 ### Sectoral management information systems
 
@@ -96,6 +98,8 @@ Two registry developments pulled in opposite directions. The education ministry 
 Two internal systems moved in different registers. The tax administration [published its first user guide for electronic payment on its platform, setting out seventeen rejection reasons](https://www.wearetech.africa/en/fils-uk/news/public-management/algeria-orders-fast-tracking-of-digital-tax-data-integration) â€” a document describing the failure modes of a live system, which is more than most such platforms disclose. And the interior and transport ministry [signalled activation of tachograph monitoring of professional transport](https://www.echoroukonline.com/%D8%A7%D9%84%D8%AA%D8%A7%D9%83%D9%88%D8%BA%D8%B1%D8%A7%D9%81-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D9%86%D8%B5-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86), with no start date, fleet scope or data-handling rule stated.
 
 A second joint session of the digitalisation high commission and the domestic trade ministry [took the data sources themselves as its subject — how they are produced, updated and kept consistent — towards a unified digital mechanism for regulating the national market](https://www.aps.dz/en/algeria/education-technology/mtr4nrdp-benmouloud-abdellatif-chair-second-meeting-to-establish-unified-digital-mechanism-for-national-market-regulation). It is the first account the repository holds here of provenance being treated as the problem to solve rather than the platform.
+
+The market-supply system [reached the government meeting of 9 September as a unified digital system for regulating and supplying the national market](https://www.aps.dz/en/algeria/national-news/mtu81f2g-penal-code-fire-damage-compensation-digitization-on-agenda), after two joint sessions on its data sources.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -111,6 +115,8 @@ The services-import platform announced on 27 July becomes the exclusive route fr
 August added two more, and one admission. The trade ministry's [complaints platform for economic operators went live on 11 August](https://www.horizons.dz/2026/08/operateurs-economiques-une-nouvelle-plateforme-numerique-pour-le-traitement-des-preoccupations-a-distance/), for remote filing and tracking of concerns about import and export procedures, and the ministry describes it as the fifth platform it has put into service this year. The Ombudsman institution will [pilot a videoconference citizen-reception service from September 2026](https://www.horizons.dz/2026/08/instance-du-mediateur-de-la-republique-nouvelle-vision/), to ease access for citizens in remote areas and people with specific needs. Against that, on 10 August the interior minister [ordered his own ministry to accelerate digitisation projects he described as stalled](https://www.horizons.dz/2026/08/numerisation-sayoud-ordonne-daccelerer-la-mise-en-oeuvre-des-projets/), naming vehicle-registration and civil-status services, at a review held under presidential instructions to speed cross-sector interconnection. He does not say in what respect they have stalled, and gives no completion figure or revised timetable.
 
 The state fuel distributor [made its e-Mahata platform the single window for ordering tyres](https://just-infodz.com/naftal-pneus-algerie-incoherence-himayatak/), requiring electronic payment and capping one make at two purchases per citizen per six months â€” a rationing rule enforced through an identity-bound ordering platform rather than at the counter. Separately, the labour ministry [launched an online corruption-reporting platform, Tabligh](https://just-infodz.com/lutte-corruption-algerie-plateforme-tabligh-mtess/), covering the central administration, with no report volume, handling procedure or protection for reporters published.
+
+The national portal grew by count. The high commission [put it at 150 services on 9 September, against 21 at launch, when three water-sector services went live](https://algerie54.dz/hydraulique-lancement-de-trois-nouveaux-services-via-le-portail-national-des-services-numeriques), alongside [five tax certificates and attestations](https://elwatan.dz/dzair-digital-services-impots-integration-de-cinq-nouveaux-services-numeriques/). The same week the president [ordered the investor single window effectively in service by the end of September and all investment procedures digitised with the tax, state-property and customs administrations](https://elwatan.dz/le-president-tebboune-ordonne-lacceleration-de-la-numerisation-mise-en-service-du-guichet-unique-fin-septembre/).
 <!-- /narrative -->
 
 ## Technology
@@ -123,6 +129,8 @@ On 25 July the Higher Education Minister announced that from the 2026–2027 aca
 The strategy itself moved in August rather than July. A [joint inter-ministerial roadmap was agreed to deploy artificial intelligence across public services, prioritising sovereign open-source models, high-performance computing centres, national data storage and stronger safeguards for public-sector applications](https://itweb.africa/article/algeria-launches-public-service-ai/lwrKxv3Y1oyMmg1o), reported on 12 August by the higher education minister, with intensive university training programmes, a dedicated research centre and specialised research units, and a joint monitoring committee established to oversee delivery against a stated timeline. The strategy text is still not published and the ethical-AI law has not moved.
 
 Three external events are dated in the month and moved nothing. The Post and Telecommunications Minister told the inaugural [UN Global Dialogue on AI Governance](https://techreviewafrica.com/news/6195/algeria-advocates-for-practical-ai-governance-measures-at-un-global-dialogue-in-geneva) in Geneva on 6 July that global governance should move from principles to technology transfer and capacity building. Smart Africa's chief executive met him on [13 July](https://techreviewafrica.com/news/6272/smart-africa-and-algeria-hold-discussions-on-ai-adoption-and-digital-integration) on AI adoption and digital integration; no agreement or commitment is reported. Algérie Télécom received a [WSIS Forum certificate of appreciation](https://www.echoroukonline.com/%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%8A%D8%AA%D9%88%D8%AC) on 9 July. The award is a certificate of appreciation; the ministry described it as confirmation of Algeria's standing.
+
+The strategy acquired machinery before a published text. A second coordination meeting on 8 September [created five thematic commissions, a national AI and data research centre, short-term projects for AI-based tax administration and a multisectoral AI system, and a target of 50,000 AI specialists by 2030](https://www.mesrs.dz/fr/2026/09/le-ministre-de-lenseignement-superieur-et-de-la-recherche-scientifique-preside-la-premiere-reunion-de-coordination-consacree-a-la-mise-en-oeuvre-de-la-strategie-nationale-de-lintelli/), building on the [joint monitoring committee installed at the first meeting on 5 August](https://www.aps.dz/fr/algerie/education-et-technologie/msg23yd3-reunion-de-coordination-pour-la-mise-en-%C5%93uvre-de-la-strategie-nationale-en-matiere-de-l-ia).
 <!-- /narrative -->
 ### ICT Industry
 
