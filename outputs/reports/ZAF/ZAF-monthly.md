@@ -1,11 +1,11 @@
 ---
 title: South Africa — monthly update, August – September 2026
-compiled: 2026-09-11
-period: 2026-08-01 to 2026-09-11
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 place: ZAF
-ledger_rows: 149
+ledger_rows: 153
 not_held: 23
-record: e71348a38e02
+record: 42b480ee0b4e
 ---
 
 # South Africa: monthly update, August – September 2026
@@ -32,6 +32,8 @@ The regulator opened two inquiries and the state put two studies out to tender, 
 The state put two studies out to tender and conceded the gap they are meant to fill. The communications department's market-analysis tender [concedes a current policy vacuum and that the price benefits expected from the 2022 spectrum auction remain largely unmet](https://www.timeslive.co.za/news/business/2026-08-01-sas-data-price-puzzle/), naming market concentration, spectrum allocation and the burden on prepaid consumers as structural causes; its deliverables are a cost-to-communicate roadmap and an assessment of progress on the 2019 data-services market inquiry recommendations. A second tender [seeks an ICT-indicators and scenario-modelling system to steer the digital economy to 2050](https://www.itweb.co.za/article/top-ict-tenders-dcdt-eyes-2050-digital-economy-vision/KPNG878NLorq4mwD), with no award, value or delivery date. Against both, the reform programme's quarterly report [concedes progress has been uneven and in certain instances slower than initially anticipated](https://www.treasury.gov.za/comm_media/press/2026/Operation%20Vulindlela%20Progress%20Report%20Q1%20-%202026.pdf), against the 80% on-track figure that remains its dated prior.
 
 A third instrument is being fast-tracked rather than tendered. The Presidency and the planning and evaluation department [put a digital dashboard monitoring mega infrastructure projects before the parliamentary committee on the Presidency](https://www.parliament.gov.za/press-releases/media-alert-committee-presidency-assess-progress-implementing-sona-commitments-and-tracking-mega-infrastructure-projects), alongside a wider review of progress against the state-of-the-nation commitments. No delivery date, data source, custodian or statement of whether the dashboard will be public is given — which for a monitoring instrument is the whole of the question. The portfolio minister separately [set out persistent governance and liquidity problems across the department's eleven state-owned entities](https://www.itweb.co.za/article/malatsi-details-persistent-headaches-at-portfolio-depts/4r1ly7R9aK4vpmda), citing progress stabilising boards and the state IT agency's leadership, a completed public broadcaster funding model now with the Treasury, and ruling out a compulsory household levy.
+
+The regulator formalised two inquiries on 4 September. It gazetted [a section 4B market inquiry into the impact of over-the-top services on telecommunications, broadcasting and postal licensees](https://www.ellipsis.co.za/wp-content/uploads/2026/09/Notice-of-Intention-to-Conduct-a-Market-Inquiry-into-the-impact-of-OTT-services-on-licensees-20260409.pdf) and [a second into the affordability of voice and broadband for low-income households, rural communities, youth and informal-sector workers](https://www.ellipsis.co.za/wp-content/uploads/2026/09/Notice-of-Intention-to-Conduct-a-Market-Inquiry-into-the-affordability-of-telecommunications-services-in-SA-0260409.pdf), each in four phases. Neither sets a date for findings or commits to regulating on them.
 <!-- /narrative -->
 ### Legislation and regulation
 
@@ -141,6 +143,8 @@ Its own research estate showed what the exposure costs. The science minister tol
 Two exchanges were arranged this month and neither states what happens to the data. The medicines regulator [opened a pilot inviting sponsors and investigators to report serious adverse events through an externally hosted module](https://www.sahpra.org.za/document/pilot-project-for-electronic-reporting-of-serious-adverse-events-e-reporting-for-industry-vigiflow-module/), routing South African clinical-trial safety data through infrastructure hosted by the WHO's Uppsala centre and adopting its reporting standard rather than a domestic one; no pilot duration, participant target, data-residency statement or transition date to mandatory reporting is published. The revenue service [signed an implementation arrangement with Malawi's revenue authority for a secure platform exchanging customs information in real time](https://itweb.africa/article/malawi-sa-sign-digital-customs-deal/raYAyqorGalMJ38N), aligned to the World Customs Organisation data model and operationalising a mutual assistance agreement negotiated in 2019. No go-live date is stated, and no purpose-limitation, retention or reciprocity terms are published.
 
 A third exchange was put out for comment rather than arranged. The revenue service [published a consultation paper proposing a five-corner digital VAT model — electronic invoicing, an interoperability framework and electronic reporting — moving toward VAT auto-assessment, with a phased rollout from 2026/27 and feedback due 16 October](https://www.sars.gov.za/vat-modernisation-consultation-paper-august-2026/). It is the one of the three that will reach every registered business, and it is the one still open to be argued with; no cost to business, exemption threshold or accreditation regime for service providers is stated.
+
+The consultation already has a statute under it. The revenue service confirmed on 8 September that [the VAT Act has carried e-invoice, e-reporting and interoperability-framework definitions since 1 April 2026](https://www.sars.gov.za/businesses-and-employers/my-business-and-tax/vat-connect-issue-21-september-2026/), so the definitions were enacted before the model they serve was put out for comment. At the land borders, a review with Lesotho on 9 September [agreed to accelerate smart one-stop border posts at Maseru and Ficksburg](https://www.africa-newsroom.com/press/lesothosouth-africa-binational-commission-bnc-midterm-review-concludes-in-pretoria?lang=en), with no date or design published.
 <!-- /narrative -->
 ### Digital Identity and CRVS
 
@@ -156,6 +160,8 @@ By mid-August the branch channel had a locator of its own. The department [launc
 The draft digital-identity regulations drew their sharpest technical criticism yet. A published argument holds that they [under-specify verifier authentication, transparency about the purpose of a request, and enforcement of data minimisation](https://it-online.co.za/2026/08/11/share-doesnt-mean-surrender-when-it-comes-to-digital-id/), and urges binding rules requiring a requesting party to prove who it is, state why it is asking, and log every share — so that accountability falls on institutions rather than on the citizen who consented.
 
 The department put a number on the fraud it is chasing. The minister [said about 300,000 identity documents have been blocked behind court orders where duplicates or people illegally in the country were detected, that the great majority of identity-theft cases involve the manual green identity book still held by about 16 million people, and that the answer is expanding the smart card and the electronic travel authorisation](https://www.sundaytimes.timeslive.co.za/news/2026-08-27-home-affairs-blocks-300000-ids-amid-fraud-crackdown/).
+
+What the credential will rest on is still missing. The state has [policy, draft regulations and a presidential promise for a public key infrastructure, and no root of trust deployed, while Zambia and Namibia launched national root certification authorities inside a fortnight](https://techcentral.co.za/south-africa-behind-neighbours-digital-id/286057/).
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -167,6 +173,8 @@ The Reserve Bank gazetted a [national interoperable payment code standard](https
 What that migration costs the institutions running it surfaced in one bank's half-year results. [Technology spending reached R8.78bn in the first half of 2026, up 7%, against digitally active customers up 14%, with a further R200m software impairment after a R2.4bn write-down in 2025, and a cost-to-income ratio still rising](https://techcabal.com/2026/08/18/absas-digital-push-comes-with-a-540-million-price-tag/) across a 17-country, 13.4-million-customer footprint. It is one bank's own group figure, so it bounds the cost of digital migration at a single institution rather than for the sector.
 
 A second QR estate surfaced beside the bank-led standard. A proprietary scheme [claimed more than 600,000 acceptance locations and more than 19 million inclusions across consumer banking, fintech and financial service provider applications, and was added to a handset maker's wallet on eligible devices](https://www.itweb.co.za/article/samsung-sa-expands-digital-wallet-ecosystem/xA9POvNE6n8qo4J8). The figures are the scheme provider's own, carried in the handset maker's statement, and nothing on this ledger relates the scheme to the national payment code standard.
+
+Cape Town is taking cash out of a second kind of counter: [three of its 18 driving licence testing centres, at Brackenfell, Fish Hoek and Strand, pilot cashless transactions from 1 October](https://www.itweb.co.za/article/cape-town-pilots-cashless-driving-licence-centres/6GxRKqYQEXbqb3Wj), after six service offices went cashless on 1 September. No alternative for residents without cards is stated.
 <!-- /narrative -->
 ### Registries
 
@@ -199,6 +207,8 @@ Two services were told to integrate or to open. The Public Protector [found the 
 The month's longest departmental procurement went to the least connected population in the country. Correctional services [advertised a fifteen-year tender for an inmate communication system across 243 centres, replacing copper telephony that has deteriorated beyond support for about 166,000 inmates](https://www.itweb.co.za/article/top-ict-tenders-inmates-to-get-telecoms-upgrade/KzQenvjyx98qZd2r), the appointed supplier to design, install, integrate, operate and maintain it and to tie it to the inmate cash system so that airtime is bought from prisoners' own balances, with monitoring, recording, data storage, security and compliance in scope. No contract value is published and [bids close on 14 September](https://www.itweb.co.za/article/top-ict-tenders-inmates-to-get-telecoms-upgrade/KzQenvjyx98qZd2r), so nothing is awarded.
 
 The social security agency [opened a messaging self-service channel letting a grant beneficiary check application status, review status and proof-of-life verification without visiting an office, after verification by mobile number, one-time PIN and identity number](https://www.citizen.co.za/alberton-record/news-headlines/local-news/2026/08/28/sassa-rolls-out-whatsapp-self-service-for-grant-beneficiaries/); no usage figure is published.
+
+The nomination dispute reached the system's own record. The electoral commission's [audit trail shows no system activity in two of the six disputed councils in the final two hours before the deadline, and 2,274 candidates from 45 parties captured but never submitted as final](https://www.dailymaverick.co.za/article/2026-09-11-iec-audit-trail-challenges-ancs-claim-of-technical-problems/), against the governing party's account that technical problems stopped its operators.
 <!-- /narrative -->
 
 ## Digitalisation
@@ -285,6 +295,8 @@ One cooperation arrangement addressed a group the grants system serves and the d
 The state's own IT agency was told why it cannot deliver. The Public Service Commission's investigation of government IT procurement over 2020 to 2025 found [86% of managing-director roles held on an acting or interim basis, board tenures too short for strategic continuity, and irregular expenditure above R2bn across four audited years read as control failure through absent deterrence](https://www.itweb.co.za/article/sita-prioritises-exec-placements-as-it-looks-to-revival/Kjlyr7wBrQ4vk6am); the agency told Parliament in August it is finalising executive recruitment, naming no appointment or date, while some of the hundred-plus departments it carries look elsewhere.
 
 The grant-review audit reached [105,600 of 352,000 targeted reviews with an estimated R450-million saved](https://www.dailymaverick.co.za/article/2026-08-24-sassa-grant-reviews-strand-vulnerable-south-africans-in-systemic-chaos/), while suspending lawful beneficiaries' payments without effective notice. The saving is the agency's own estimate; the suspensions are reported against it.
+
+Two feedback channels were in view in September, one state and one civil. The [Presidential Hotline, running since September 2009 on the state IT agency's case-management platform, was under oversight review on 9 September](https://www.sanews.gov.za/south-africa/mohai-conducts-oversight-visit-presidential-hotline-call-centre) with automation on the agenda, and the [ParliMeter platform tracking MP attendance, bills, committees and ministerial answers passed to the Parliamentary Monitoring Group as its EU-funded phase closed](https://myza.co.za/parlimeter-enters-its-next-chapter/). Neither publishes a resolution rate or usage figure.
 <!-- /narrative -->
 ### Digital divides
 
