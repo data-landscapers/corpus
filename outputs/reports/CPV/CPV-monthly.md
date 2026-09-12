@@ -1,11 +1,11 @@
 ---
 title: Cape Verde — monthly update, August – September 2026
-compiled: 2026-09-10
-period: 2026-08-01 to 2026-09-10
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 place: CPV
-ledger_rows: 15
+ledger_rows: 16
 not_held: 30
-record: d6ba9e171bb8
+record: 9f1e3dc3120f
 ---
 
 # Cape Verde: monthly update, August – September 2026
@@ -72,6 +72,8 @@ Complaints about bank fraud [rose from 10 in 2024 to 25 in 2025, a rise of 150 p
 
 <!-- narrative: dpi--dpi-registry -->
 The registries directorate began publishing about itself. Its new statistical bulletin [reports 2,944 births registered nationally in the first half of 2026 across 23 conservatorias, an average of 16 a day](https://expressodasilhas.cv/pais/2026/08/04/nasceram-2944-criancas-no-primeiro-trimestre/103955), and states that the bulletin exists to publish performance indicators and the volume of acts practised by the services. Until now the register's output reached the public only through the statistics office, a year or more late.
+
+The social registry now has a coverage figure: the UN country team [put the Cadastro Social Único at 64% of the population at the government's high-level partnership meeting on 10 September](https://www.africa-newsroom.com/press/governo-de-cabo-verde-e-organizacao-das-nacoes-unidas-onu-iniciam-a-discussao-de-alinhamento-e-cooperacao-para-os-proximos-anos?lang=pt), where discussion of the next cooperation framework, for 2028-2032, opened.
 <!-- /narrative -->
 ### Sectoral management information systems
 

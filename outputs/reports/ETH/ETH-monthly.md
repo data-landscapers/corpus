@@ -1,11 +1,11 @@
 ---
 title: Ethiopia — monthly update, August – September 2026
-compiled: 2026-09-09
-period: 2026-08-01 to 2026-09-09
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 place: ETH
-ledger_rows: 38
+ledger_rows: 40
 not_held: 5
-record: fd9d886d0228
+record: 4df64f6c3205
 ---
 
 # Ethiopia: monthly update, August – September 2026
@@ -103,6 +103,8 @@ Payments extended into utilities and tax. Prepaid electricity purchase entered t
 The market also drew a new foreign supplier. A South African financial-technology firm [entered the Ethiopian payments market with a local engineering partner on 17 August](https://www.itweb.co.za/article/sybrin-strengthens-east-african-presence-to-support-ethiopias-digital-payments-modernisation/5yONP7Erow8MXWrb), aligning onboarding, fraud-management and workflow-automation tools with the National Digital Payments Strategy 2026-2030. No commitment value, customer or deployment date is disclosed.
 
 Federal authorities began [testing whether a single payment window can serve the whole government, starting with health](https://addisfortune.news/fed-tests-a-payment-window-for-the-whole-government-starting-with-health). No transaction volume, participating-institution list or rollout timetable accompanies the pilot.
+
+Scale and use are far apart. A diagnostic report [counts more than 135 million mobile wallets opened against fewer than one adult in ten holding a mobile money account, and 0.4% relying on one alone](https://akofada.shega.co/insights/research-reports/mobile-money-in-ethiopia-a-diagnostic-report), while the national switch [says its instant-payment service passed 1 million transactions in a day in May](https://techreviewafrica.com/news/7138/ethswitch-takes-ethiopias-digital-payments-push-to-global-fintech-stage).
 <!-- /narrative -->
 ### Sectoral management information systems
 

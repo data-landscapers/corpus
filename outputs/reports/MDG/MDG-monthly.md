@@ -1,11 +1,11 @@
 ---
 title: Madagascar — monthly update, August – September 2026
-compiled: 2026-09-07
-period: 2026-08-01 to 2026-09-07
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 place: MDG
-ledger_rows: 26
+ledger_rows: 29
 not_held: 5
-record: d8996db73fe6
+record: 2d087886636d
 ---
 
 # Madagascar: monthly update, August – September 2026
@@ -35,6 +35,12 @@ Madagascar attached itself to three external arrangements in twelve days, none o
 
 ## ICT Infrastructure
 
+### Connectivity
+
+<!-- narrative: ict-infrastructure--infra-connect -->
+
+The satellite route to isolated areas moved from announcement to hardware: the digital ministry [received 300 satellite kits with free internet service under a partnership with the operator](https://www.tiatanindrazana.mg/actualites/fifandraisan-davitra-sy-ny-nomerika-67990.php), after free connectivity at the main public universities. No site list is published.
+<!-- /narrative -->
 ### Data Storage
 
 <!-- narrative: ict-infrastructure--infra-store -->
@@ -57,6 +63,12 @@ The health platform took a step the interoperability layer above it has not yet 
 
 <!-- narrative: dpi--dpi-pay -->
 On 3 August MVola's new director general [gave the first account of the platform migration behind the outages of May and June](https://www.lexpress.mg/2026/08/alexandre-castel-directeur-general-de.html). The core platform was replaced in May 2026; he states that money does not vanish from accounts, that reported cases have been regularised, and that the platform is stabilised with further work outstanding. No regulator is named, no incident report is published and no compensation is mentioned. Separately, [Airtel Money integrated Baobab Bank into its mobile banking service on 17 July](https://techafricanews.com/2026/07/17/airtel-money-madagascar-and-baobab-bank-partner-to-expand-mobile-banking-services/). The African Development Bank and AXIAN [launched a digital finance programme on 2 September targeting 34,000 women-led businesses in Madagascar, Tanzania and Senegal through the Mixx and MVola platforms](https://www.ecofinagency.com/news-finances/0409-58613-afdb-axian-take-digital-finance-to-34-000-women-led-businesses-in-africa), under a US$160 million senior corporate loan approved to the group in January 2025 with a US$2.5 million grant for financial literacy and credit access and more than US$10 million allocated for 22,000 women entrepreneurs in Madagascar through MVola. The grant is not a lending pool, and no enrolment or disbursement figure is published for the programme itself.
+<!-- /narrative -->
+### Registries
+
+<!-- narrative: dpi--dpi-registry -->
+
+The social registry [reached about 2.7 million households, nearly 12 million people, with eight districts added to the 20 already surveyed](https://newsmada.com/2026/09/10/protection-sociale-le-rsu-elargit-son-filet/).
 <!-- /narrative -->
 ### Sectoral management information systems
 
@@ -97,6 +109,8 @@ The digital ministry [received 259 applications by 1 August 2026 for ten establi
 
 <!-- narrative: inclusion--include-access -->
 The month's only market measurement came from an operator: MVola's director general put the whole Malagasy mobile-money market at [six to seven million active users against a population of about thirty million, with rural areas under-served](https://www.lexpress.mg/2026/08/alexandre-castel-directeur-general-de.html), and set doubling or tripling that as the five-to-ten-year test.
+
+A postal microfinance institution [launched 12-month laptop credit for 1,400 master's students in September, funded from the connectivity project](https://newsmada.com/2026/09/08/projet-pilote-laptop-facilitation-de-lacces-aux-outils-numeriques/).
 <!-- /narrative -->
 
 ## Data

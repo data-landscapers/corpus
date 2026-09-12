@@ -1,11 +1,11 @@
 ---
 title: Rwanda — monthly update, August – September 2026
-compiled: 2026-09-10
-period: 2026-08-01 to 2026-09-10
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 place: RWA
-ledger_rows: 48
+ledger_rows: 49
 not_held: 9
-record: 45059a96d8f2
+record: 1ea422afe6ac
 ---
 
 # Rwanda: monthly update, August – September 2026
@@ -112,6 +112,8 @@ The social registry has run an appeals process since it opened in early 2024, an
 Effective 14 July the central bank [designated one rail as the national instant payment system](https://itweb.africa/article/rwanda-migrates-retail-payments-to-ekash/rxP3jqBEnOoMA2ye) by directive, connecting 22 financial institutions bank to wallet to merchant in any direction, with a per-transaction ceiling. An interoperable bank-to-wallet transfer that could previously cost as much as RWF 5,000 now costs [a flat RWF 20 regardless of amount](https://african.business/2026/07/innov-africa-deals/rwanda-unifies-digital-payments-with-national-launch-of-ekash), about one US cent on the publisher's own conversion. The directive itself is not held.
 
 The layer the rail does not touch moved the other way. Regulator statistics for the first quarter of 2026, reported on 31 July, [put the second operator's share of the mobile-money market at 14.3% against 16.9% a year earlier, and its active agents at 48,847 against 53,316](https://taarifa.rw/2026/07/31/ekash-was-designed-to-bridge-the-digital-divide-but-airtel-moneys-struggles-risk-leaving-rural-users-behind/) — a contraction in the cash-in and cash-out network on which rural households depend, over exactly the period interoperability was meant to help.
+
+The central bank put the gap on its own record: [85.3% of Rwandans hold a digital account and 92% still pay mainly in cash](https://www.ktpress.rw/2026/09/central-bank-takes-aim-at-cash-as-92-still-rely-on-it/), and it launched a national campaign touring the districts to close it, with no target published.
 <!-- /narrative -->
 ### Registries
 

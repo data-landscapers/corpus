@@ -184,7 +184,9 @@ infra.connect--satellite-broadband-licensing-and-availability,Movement,"A [direc
 
 A separate low-earth-orbit rural broadband partnership was deepened in June 2026, with no rural site count or subscriber figure published ([partnership](2026-06-01-airtel-eutelsat-rural-broadband-techafricanews)).
 
-An arrangement to connect ten enclaved zones under the connectivity project was discussed in March 2025 and nothing has been connected, with no site or date published ([zones](2025-03-20-starlink-decim-dix-zones-enclavees-2424)).",MDG-infra.connect-starlink-dtc|MDG-infra.connect-eutelsat|MDG-infra.connect-starlink-enclaved
+An arrangement to connect ten enclaved zones under the connectivity project was discussed in March 2025 and nothing has been connected, with no site or date published ([zones](2025-03-20-starlink-decim-dix-zones-enclavees-2424)).
+
+2026-09 - the digital ministry [received 300 satellite kits with free service for isolated areas](2026-09-08-mdg-tiatanindrazana-mndpt-starlink-universites), with no site list published.",MDG-infra.connect-starlink-dtc|MDG-infra.connect-eutelsat|MDG-infra.connect-starlink-enclaved
 infra.store--local-data-centre-capacity-all-providers,Movement,A [commercial capacity estimate for 2024](2025-07-01-madagascar-data-center-market-brief-xalam) is the only figure held; government capacity was tendered in February 2026.,"A market briefing gives a country-level commercial data-centre capacity estimate as at 2024, the only such figure located ([briefing](2025-07-01-madagascar-data-center-market-brief-xalam)).
 
 Infrastructure equipment for the two government data centres was tendered in three lots in February 2026 ([tender](2026-02-12-appel-offres-datacenters-ugd-prodigy)), after an air-conditioning quotation for the secondary site in August 2025 ([quotation](2025-08-28-prodigy-iavoloha-datacenter-aircon-tender)).
@@ -328,7 +330,9 @@ dpi.registry--social-protection-register,Movement,"The social registry [reached 
 
 The registry reached 2.6 million households by May 2026, up from 990,000 in February 2023, exceeding the ministry's target of 2.5 million by June, with registration continuing in 99 districts to December 2026 ([count](2026-05-13-rsu-2-6-millions-menages-lexpress)).
 
-A proposed USD 50 million additional financing would expand it across all 23 regions and extend the project to December 2027 ([financing](2026-01-23-safety-nets-additional-financing-worldbank)). The merger with the biometric identity database remains unfinished.",MDG-dpi.registry-rsu|MDG-dpi.exchange-efokontany
+A proposed USD 50 million additional financing would expand it across all 23 regions and extend the project to December 2027 ([financing](2026-01-23-safety-nets-additional-financing-worldbank)). The merger with the biometric identity database remains unfinished.
+
+2026-09-10 - the registry [reached about 2.7 million households, nearly 12 million people](2026-09-10-mdg-newsmada-registre-social-unique-extension).",MDG-dpi.registry-rsu|MDG-dpi.exchange-efokontany
 dpi.registry--electoral-register,Movement,"A [full reconstitution of the electoral roll](2026-07-29-madagascar-ceni-full-electoral-roll-revision-2027) opened in July 2026, running four months and gated on presentation of a national identity card.","The reconstitution began at Talata Volonondry and runs to 24 November 2026 through five registration channels, replacing a roll the commission records as contested ([reconstitution](2026-07-29-madagascar-ceni-full-electoral-roll-revision-2027)).
 
 The commission states that an unregistered citizen may not observe polling in their own place of residence, lodge a complaint or contest results, which makes the identity-card gate a condition on political participation and not only on voting.",MDG-dpi.registry-electoral-roll
@@ -480,7 +484,9 @@ The page carries no publication date of its own; its year is inferred from those
 No registration system, identity credential, cash transfer mechanism or service portal for refugees or internally displaced people is held, and the social registry's coverage of displaced households is not stated anywhere in the repository.",MDG-include.access-rimap
 include.divides--bridging-of-digital-divides,Movement,"An [affordable-device facility](2025-11-20-worldbank-decim-madagascar-supervision-digital-nov-2025) approved nine applications and made a US$2.5m first call, and [664,000 devices](2026-06-24-madagascar-worldbank-review-543m-prodigy-decim-ecofin) had been distributed by June 2026.","The facility is a US$24m sub-component of the connectivity project: an April 2025 call closed with nothing contracted, and by November 2025 nine applications were approved with only two operator contracts unsigned, a US$2.5m first call for funds made on 7 November and a student-laptop pilot proposed for about 700 computers ([facility](2025-11-20-worldbank-decim-madagascar-supervision-digital-nov-2025)).
 
-The June 2026 portfolio review records 664,000 devices distributed, against a rural-connectivity tender document that slipped from October 2025 to January 2026 ([review](2026-06-24-madagascar-worldbank-review-543m-prodigy-decim-ecofin), [supervision](2025-11-20-worldbank-decim-madagascar-supervision-digital-nov-2025)).",MDG-include.access-fonds-decim|MDG-infra.connect-decim
+The June 2026 portfolio review records 664,000 devices distributed, against a rural-connectivity tender document that slipped from October 2025 to January 2026 ([review](2026-06-24-madagascar-worldbank-review-543m-prodigy-decim-ecofin), [supervision](2025-11-20-worldbank-decim-madagascar-supervision-digital-nov-2025)).
+
+2026-09 - a [laptop credit pilot for 1,400 master's students opened](2026-09-08-mdg-newsmada-paositra-pilote-laptop-decim).",MDG-include.access-fonds-decim|MDG-infra.connect-decim
 data.statistics--national-strategy-for-development-of-statistics,No change,The [second-generation statistics strategy](2024-03-11-instat-snds-ii-2023) is in force; no implementation or mid-term report under it is held.,"The strategy was published as the second generation of the national statistical development plan ([strategy](2024-03-11-instat-snds-ii-2023)).
 
 The statistics office marked African and world statistics day in November 2025 ([observance](2025-11-13-instat-jms-jas-2025)).
