@@ -1,11 +1,11 @@
 ---
 title: Somalia — monthly update, August – September 2026
-compiled: 2026-09-08
-period: 2026-08-01 to 2026-09-08
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 place: SOM
-ledger_rows: 25
+ledger_rows: 28
 not_held: 1
-record: 0ae5b543b847
+record: 2edfea8b8948
 ---
 
 # Somalia: monthly update, August – September 2026
@@ -71,6 +71,8 @@ The Auditor-General put a number on how far the state's own systems are from tal
 
 <!-- narrative: dpi--dpi-id -->
 Cabinet [approved a third-generation e-passport plan on 6 August](https://shabellemedia.com/somali-cabinet-approves-third-generation-e-passport-plan-reviews-security-and-economic-developments/). No issuance date is published, and it follows the clearance in February to adopt and print the East African Community e-passport.
+
+The credential was proposed for speech as well as services. On 7 September the deputy prime minister [asked the information ministry to require the national identity number to open a social media account](https://thesomalidigest.com/the-ministry-of-information-wants-a-name-behind-every-somali-account/), in a country where about 2m people hold it; [commentary on the forum asks for a rights test before any such rule](https://www.dawan.africa/news/opinion-my-reflections-on-the-strategic-and-communication-forum-2026).
 <!-- /narrative -->
 ### Registries
 
@@ -81,6 +83,8 @@ Somalia [launched its first unified national registry of health facilities](http
 
 <!-- narrative: dpi--dpi-mis -->
 Health information gained a project and a set of funders. The health minister [launched a Pandemic Fund project in Mogadishu to strengthen prevention, preparedness, detection and response for infectious disease and public health emergencies](https://afenet.net/the-minister-of-health-somalia-launched-the-pandemic-fund-project/), with multilateral and regional partners named alongside it. What is not published is the part that would make it a system: no budget, no duration, and no specification of the surveillance and reporting infrastructure the project is meant to build.
+
+The planning ministry [launched a digital system on 8 September to monitor National Transformation Plan projects across all 26 federal ministries against performance indicators](https://www.dawan.africa/news/somalia-launches-digital-system-to-track-national-transformation-plan), after reviewing 153 donor-funded projects.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -112,6 +116,12 @@ In the north, the Somaliland administration [launched fixed-asset training for p
 
 ## Data
 
+### Open data
+
+<!-- narrative: data--data-open -->
+
+The national research and education network [set up Somalia's first DataCite national consortium, letting universities and research centres mint persistent identifiers for more than 30 types of research output and data](https://www.dawan.so/news/somaliren-oo-soomaaliya-ka-hirgelisay-dalladdii-ugu-horreysay-ee-qaran-ee-datacite). No member count is published.
+<!-- /narrative -->
 ### Use of satellite data
 
 <!-- narrative: data--data-satellite -->

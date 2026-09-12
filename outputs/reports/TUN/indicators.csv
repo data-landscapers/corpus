@@ -156,7 +156,9 @@ dpi.mis--health,Movement,"The [national health portal](2026-07-23-tunisia-finali
 
 The digital hospital project is a plan line with telemedicine and imaging first ([hospital](2026-06-01-tunisie-plan-developpement-2026-2030), [council](2026-02-13-tunisie-conseil-ministeriel-digitalisation-complete)).
 
-A completed cybersecurity audit is more than most systems in this frame can show. The legal basis for the linked dataset the portal serves is separately recorded as not held, so the technical assurance is ahead of the legal one.",TUN-dpi.mis-sahetna|TUN-dpi.mis-digital-hospital
+A completed cybersecurity audit is more than most systems in this frame can show. The legal basis for the linked dataset the portal serves is separately recorded as not held, so the technical assurance is ahead of the legal one.
+
+2026-09 - the health ministry and UNICEF [set the priorities for a national maternal, newborn and child care platform](2026-09-08-tun-letemps-psim-plateforme-sante-mere-enfant-unicef), with no build date stated.",TUN-dpi.mis-sahetna|TUN-dpi.mis-digital-hospital|TUN-dpi.mis-psim-maternal-child-health-platform
 dpi.mis--education,Movement,"A [school life platform](2026-08-06-tunisia-education-ministry-digital-school-life-platform) was launched in August 2026, and its legal basis and relationship to an [earlier education platform](2024-01-08 Tunisia Unveils Digital Platform to Boost Education Transparency, Equity) are not stated.","The platform was announced by ministry communique on 6 August 2026, and neither its legal basis nor its relationship to the 2024 education platform is stated ([platform](2026-08-06-tunisia-education-ministry-digital-school-life-platform)).
 
 The earlier platform was launched in January 2024 to improve education transparency and equity ([earlier](2024-01-08 Tunisia Unveils Digital Platform to Boost Education Transparency, Equity)).
@@ -377,7 +379,9 @@ dpi.registry--tax-register,Movement,"[Tax-file and transfer-pricing filings beca
 
 [A February 2026 ministerial order separately mandates an electronic tax identity card sealed by the national certification agency and issued within one working day through the business register](2026-02-13-jort-019-declaration-existence-societes-distance).
 
-No count of registered taxpayers or of filings made electronically is published.",TUN-dpi.registry-tax-register|TUN-dpi.registry-rne
+No count of registered taxpayers or of filings made electronically is published.
+
+2026-09 - the platform [added real-time filing status, delegated access and supplier tax checks for public enterprises](2026-09-08-tun-leconomistemaghrebin-dgi-plateforme-tej-schema-xsd).",TUN-dpi.registry-tax-register|TUN-dpi.registry-rne
 finance.new--mobilisation-of-non-state-finance,"Mixed, a private power financing closed while the state's own mobilisation vehicle shows no realised investment","[About EUR 96 million closed for a solar independent power project](2026-07-01-tunisie-eurus-energy-sidi-bouzid-ii-solaire-financement), while [the partnership fund's 4 billion dollar pipeline stays proposed](2024-01-30-tunisie-igppp-fonds-developpement-projets-ppp).","[The public-private partnership project development fund was created in the first quarter of 2022 with a 15 million dinar public contribution and an expected 17 million dollars in international donations, against a pipeline exceeding 4 billion dollars in proposed investment across renewable energy, water, green hydrogen and a Sfax tramway](2024-01-30-tunisie-igppp-fonds-developpement-projets-ppp). The pipeline figure is proposed investment, not realised, and the donations are unnamed.
 
 [Financing of about EUR 96 million closed on 1 July 2026 for a 100 MW solar independent power project, on non-recourse debt from the EBRD and the EIB with an EU guarantee, a EUR 5.5 million grid-connection grant and a political-risk guarantee, against a 25-year power purchase agreement with the national utility](2026-07-01-tunisie-eurus-energy-sidi-bouzid-ii-solaire-financement).

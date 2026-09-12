@@ -1,11 +1,11 @@
 ---
 title: Zimbabwe — monthly update, August – September 2026
-compiled: 2026-09-10
-period: 2026-08-01 to 2026-09-10
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 place: ZWE
-ledger_rows: 55
+ledger_rows: 57
 not_held: 7
-record: c19a487d7696
+record: 23bbc165b6e2
 ---
 
 # Zimbabwe: monthly update, August – September 2026
@@ -48,6 +48,8 @@ Two further protection questions surfaced without a regulator attached. The anti
 The government put the national data volume at [179 petabytes against 114 previously](https://technomag.co.zw/from-114pb-to-179pb-as-zimbabwes-data-doubles-govt-tells-tech-firms-corporate-responsibility-is-non-negotiable/) and cited the near-doubling in telling technology firms that corporate responsibility is not negotiable, resting the point on the National Child Online Protection Policy approved by Cabinet in June. Separately, civil-society organisations say [data-protection certification fees are high enough to exclude rural communities and young women](https://www.midweekwatch.com/civil-society-raises-alarm-as-exorbitant-data-protection-certification-fees-threaten-to-exclude-rural-communities-and-young-women/) from compliance; no fee schedule, exemption or regulator response is on file. The repository had been carrying that child-protection policy as three separate rows, minted from three separate reports; they are now resolved to one.
 
 The approval date itself is now settled from the primary record: the Office of the President and Cabinet's own briefing dates approval to the [Seventeenth Cabinet Meeting of 2 June 2026, and sets out nine strategic focus areas from institutional capacity and legal framework through technical control and corporate responsibility to monitoring and learning, aligned to the Constitution and the Children's Act, with legislation carrying enforceable sanctions to follow](https://www.zbcnews.co.zw/wp-content/uploads/2026/06/17th-PRESS-FINAL.pdf). The repository had been carrying 10 July 2026, which is the policy's Bulawayo launch.
+
+The child online protection policy moved to delivery. The ICT minister [told the National Assembly on 9 September that content gateways are being installed on public free Wi-Fi and in schools, with teacher and parent training](https://newziana.co.zw/zim-rolling-out-gateways-teacher-and-parents-training-in-line-with-the-child-online-protection-policy/), under an implementation committee with two other ministries.
 <!-- /narrative -->
 ### Regional collaboration
 
@@ -112,6 +114,8 @@ The national incident response team is named in the ICT ministry's own priority 
 <!-- narrative: dpi--dpi-exchange -->
 
 Customs data crossed a border on paper this month, in the form of an agreement to stop it having to. Customs administrations from five countries [adopted a roadmap and action plan for customs-to-customs data exchange at a meeting in Pretoria ending 26 August, to exchange trade information before consignments reach the border so that documentation and risk assessment happen earlier](https://southernafricantimes.com/five-southern-african-countries-move-to-link-customs-data-as-trade-corridors-face-pressure-to-cut-delays/), building on a link this country already runs with Zambia. Data standards, interoperability, cybersecurity, legal authority and information quality are all recorded as unresolved, and no corridor or target crossing time is named.
+
+The registry check reached the wallets. The central bank [shut down ghost, fictitious and duplicate mobile money wallets after linking the civil registry's national database with subscriber records](https://businesstimes.co.zw/rbz-shuts-down-ghost-wallets/); no count of closed wallets is published.
 <!-- /narrative -->
 ### Digital Identity and CRVS
 
@@ -197,6 +201,12 @@ The same institute's [innovation hub hosted a three-day expo from 28 to 30 July]
 
 <!-- narrative: capacity--capacity-training -->
 The artificial-intelligence grand challenge opened on 4 August [across agriculture, health, education, financial services, mining and public administration, and was stated as a recurring programme](https://technomag.co.zw/zimbabwe-bets-on-ai-innovation-as-government-launches-national-grand-challenge/). The regulator reported [738 applications received and 68 projects selected for a boot camp in Nyanga, narrowed to 18 candidates for the next stage](https://binduraeye.co.zw/mavetera-urges-ai-solutions-that-benefit-communities-as-nyanga-challenge-progresses/). No award, prize or budget has been published against any of it.
+<!-- /narrative -->
+### Research institutions
+
+<!-- narrative: capacity--capacity-research -->
+
+The regulator [opened a national digital technologies policy research programme with the research council and the industrial research centre, inviting proposals on AI governance, data sovereignty and platform regulation by 3 October](https://yuthaxis.com/wp-content/uploads/2026/09/Call-for-Policy-Proposal-joint.pdf). No grant size or number of awards is stated.
 <!-- /narrative -->
 
 ## Inclusion

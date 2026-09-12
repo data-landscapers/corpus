@@ -1,11 +1,11 @@
 ---
 title: Tunisia — monthly update, August – September 2026
-compiled: 2026-09-10
-period: 2026-08-01 to 2026-09-10
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 place: TUN
-ledger_rows: 49
+ledger_rows: 50
 not_held: 6
-record: 98f61aec379f
+record: 93b1328cd201
 ---
 
 # Tunisia: monthly update, August – September 2026
@@ -103,6 +103,8 @@ The founding instrument behind the online honour loans is now held: [Decree 2026
 
 <!-- narrative: dpi--dpi-registry -->
 The social-housing application platform [has a completion timetable, set at a follow-up meeting on 3 August, with interconnection to the beneficiary database still under way](https://www.webmanagercenter.com/2026/08/04/570984/logements-sociaux-en-tunisie-une-plateforme-numerique-pour-accelerer-les-demandes-daccession-a-la-propriete/). The interconnection is the part that decides what the platform is: an application front end that cannot read the beneficiary register is a form, and no date for that link is published.
+
+The tax platform widened. From September [TEJ adds real-time filing status, delegated access, supplier tax-standing checks for public enterprises and all withholding-tax certificates](https://www.leconomistemaghrebin.com/2026/09/08/fiscalite-numerique-la-dgi-enrichit-la-plateforme-tej/).
 <!-- /narrative -->
 ### Sectoral management information systems
 
@@ -110,6 +112,8 @@ The social-housing application platform [has a completion timetable, set at a fo
 The health estate reported volume and the education estate reported failure. [120,000 remote examinations were carried out across 26 hospitals](https://www.lapresse.tn/2026/08/25/hopital-numerique-120-000-examens-a-distance-realises-dans-26-hopitaux/), with no period, denominator or specialty breakdown stated. The education ministry's school-life platform, launched at the start of the month, was within three weeks [reported failing during the enrolment period](https://www.lapresse.tn/2026/08/26/viescolaire-education-tn-pourquoi-linscription-en-ligne-vire-au-parcours-du-combattant/), with no service-availability figure, incident account or fallback route published.
 
 The school platform's first mass use is measured, and the measurement is mid-campaign. Remote enrolment reached [1.691m pupils by 3 September 2026, 81% of those eligible, of whom 1.587m — 76% of the eligible total — had also paid the fees](https://directinfo.webmanagercenter.com/2026/09/03/rentree-scolaire-2026-2027-en-tunisie-plus-de-169-million-deleves-inscrits-a-distance/). The shares are the education ministry's own, and nothing is published about the fifth of eligible pupils who had not enrolled online — which is the number that would say whether the platform is a route or a requirement.
+
+The health ministry and UNICEF [set the priority needs for a national digital platform covering the care of mothers, newborns and children](https://www.letemps.news/2026/09/08/sante-vers-une-plateforme-numerique-dediee-a-la-sante-de-la-mere-et-de-lenfant/), after a benchmarking study; no build date or host is stated.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
