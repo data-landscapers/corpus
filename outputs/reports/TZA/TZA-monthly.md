@@ -1,11 +1,11 @@
 ---
 title: Tanzania — monthly update, August – September 2026
-compiled: 2026-09-10
-period: 2026-08-01 to 2026-09-10
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 place: TZA
-ledger_rows: 81
+ledger_rows: 86
 not_held: 5
-record: 3025697fda86
+record: b0c741117986
 ---
 
 # Tanzania: monthly update, August – September 2026
@@ -54,6 +54,8 @@ Tanzania was the one being studied this month. A Somali government delegation [e
 
 <!-- narrative: governance--gov-standards -->
 The window's only standards movement is a visit. The communications regulator [undertook a two-day benchmarking visit to its Kenyan counterpart to exchange experience and practice in regulating satellite communications](https://techafricanews.com/2026/08/27/kenya-tanzania-deepen-satellite-regulatory-cooperation/). Nothing was signed and nothing issued: it is carried because the repository holds no other statement of how this regulator approaches satellite licensing, and it will settle or lapse on whether anything follows.
+
+Zanzibar's government [told its House of Representatives on 9 September that a guideline on shared fibre poles and a single fibre contractor is being prepared](https://www.mwananchi.co.tz/mw/zanzibar/habari/serikali-yaandaa-mwongozo-kudhibiti-utitiri-wa-nguzo-za-fiber-mitaani-5589092), after each provider erected its own.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 
@@ -114,6 +116,8 @@ The same budget statement [provides for cybercrime investigation centres at Dodo
 The public procurement appeals authority [directed all domestic and international bidders to lodge challenges through its online module and announced plans to integrate it with the judiciary's system](https://www.thecitizen.co.tz/tanzania/news/national/ppaa-pushes-online-appeals-to-boost-transparency-in-public-tenders-5542668), reported 31 July, with hearings by video conference already taking cases from bidders in five other countries. No date is attached to the integration.
 
 On forest-products revenue the government chose integration over replacement, a two-day technical working group in Dodoma [settling on joining the existing systems rather than building a new one](https://dailynews.co.tz/government-moves-to-integrate-forest-revenue-systems/). That is the working group's stated choice and not yet an outcome: no interface specification, timetable or go-live date is on file.
+
+The health ministry [described cutting the number of health systems, linking private and public ones, and preparing a national Health Data Centre as a single access point for research and trials](https://www.moh.go.tz/sw/news-single/sekta-binafsi-kuendelea-kushirikishwa-kuboresha-huduma-za-afya-nchini); no access rule beyond user role is published.
 <!-- /narrative -->
 ### Digital Identity and CRVS
 
@@ -149,6 +153,8 @@ The state operator took its card into a stadium. On 30 August it and the Zanziba
 At an agricultural exhibition on 4 August the e-government agency stated that [more than 6,000 cooperative societies are registered](https://dailynews.co.tz/ega-drives-digital-farming/) on its management system. No user counts, spend or timeline were given.
 
 Birth registration gained a fourth estimate. The constitutional and legal affairs minister [put under-five registration at 65%, against 55% in 2020](https://www.biometricupdate.com/202608/birth-registration-emerges-as-foundation-for-digital-public-infrastructure), attributing the rise to sustained investment and awareness campaigns. The repository already holds estimates of [about 60% for 2022](https://www.biometricupdate.com/202601/tanzania-working-on-legislative-framework-for-infant-id-registration) and a [five-year range of 61 to 76%](https://www.biometricupdate.com/202606/unicef-seeks-partner-to-expand-birth-registration-legal-identity-in-tanzania) on different bases, and does not reconcile them to one series.
+
+The lands ministry [inspected a National Land Data Infrastructure project building a central land database and access platform on new aerial imagery](https://www.tanzaniainvest.com/economy/national-land-database-digital-land-services), with no financier, cost or completion date stated.
 <!-- /narrative -->
 ### Sectoral management information systems
 
@@ -156,6 +162,8 @@ Birth registration gained a fourth estimate. The constitutional and legal affair
 At the same exhibition the agency described a farmer-records and permits system and a fertiliser monitoring system, with no user counts, spend or timeline given.
 
 The state's own asset record is being enforced rather than built. The finance ministry is [tightening enforcement of the central electronic system for recording and monitoring public assets, citing a hydropower project at about TSh6tn and a railway at about TSh10.6tn](https://businessinsider.co.tz/tanzania-pushes-digital-asset-tracking-to-protect-public-wealth/), with legal backing through amendments to the Public Finance Act and the Public Assets Management Regulations 2024. No count of assets recorded, entities complying or value reconciled is published, so the two named investments are cited as scale rather than as entries in the system.
+
+Community health work is being tied to the payment rail. Local government's ICT director [said a blueprint exists for community health worker systems, with a joint dashboard to track services and payments](https://dailynews.co.tz/tanzania-moves-to-integrate-primary-healthcares-digital-systems-to-boost-its-services-delivery/), built by local experts; the blueprint itself is not published.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -209,6 +217,8 @@ One account of the trading economy the fintech count sits above reached the repo
 The government launched [InnoIP Tanzania](https://fullshangweblog.co.tz/2026/08/23/577246/), a programme to help more than 5,000 innovators register and protect their work as intellectual property. No registration count, budget line or closing date has been published behind the target.
 
 A private channel opened alongside the state ventures programme. The leading mobile operator entered a [three-year partnership with a global entrepreneurship network to reach 1,000 entrepreneurs and 40 ventures, with a first cohort of entrepreneur-support organisations due in October 2026](https://ippmedia.co.tz/the-guardian/business/read/vodacom-bridge-for-billions-partner-to-boost-startup-ecosystem-2026-09-07-142532). No commitment amount is stated, so what exists is a set of targets with no measurable resource behind them.
+
+A UN programme [put TZS 1.3bn into a fifth cohort of 14 businesses at Innovation Week and launched a platform matching innovators with investors](https://www.undp.org/tanzania/stories/9000-sparks-one-flame-inside-week-ignited-tanzanias-trillion-dollar-future), reporting over US$3m to innovators since 2021 on its own count.
 <!-- /narrative -->
 
 ## Capacity
