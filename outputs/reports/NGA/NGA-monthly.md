@@ -3,9 +3,9 @@ title: Nigeria — monthly update, August – September 2026
 compiled: 2026-09-13
 period: 2026-08-01 to 2026-09-13
 place: NGA
-ledger_rows: 181
+ledger_rows: 183
 not_held: 9
-record: 24ea12e0ebc7
+record: e948aa85e4be
 ---
 
 # Nigeria: monthly update, August – September 2026
@@ -81,6 +81,8 @@ The second meeting of the Africa Public Key Infrastructure Forum, held in Abuja,
 The clearance gate over federal IT spending was quantified for the first time. The technology development agency's director-general told a bar association conference that it [reviewed 1,092 project proposals from 326 ministries, departments and agencies between July 2023 and July 2026, worth more than N4.24 trillion, and cleared 1,056 of them worth N3.84 trillion](https://techafricanews.com/2026/08/27/nitda-urges-public-institutions-prioritise-homegrown-digital-solutions/) — about N400bn and 36 proposals not cleared, on criteria and for reasons that are not published. He urged a Nigeria First approach in procurement so that public spending creates market for indigenous suppliers.
 
 The standards move of the month is aimed at the innovation estate rather than at government systems. A draft [National Innovation Hub Standards Framework went to an Abuja validation exercise, giving hubs a self-assessment tool across seven dimensions and about 35 categories and a defined maturity pathway](https://von.gov.ng/nigeria-unveils-innovation-hub-framework-to-boost-digital-economy/), against a count of more than 339 hubs heavily concentrated in Lagos and Abuja — the stated purpose being to make a hub in a state outside those two legible enough to be funded without its founders relocating. At the same workshop the [EU delegation put Team Europe support for the country's digital sector at more than €820m between 2021 and 2027](https://punchng.com/fg-to-begin-90000km-fibre-rollout-in-october-minister/). It is a draft at validation, so what the framework will require of a hub, and who will assess it, is not yet settled.
+
+The device register went live and met resistance. The board [stated the Device Management System live, blocking stolen devices across networks](https://von.gov.ng/ncc-deploys-8526-telecom-sites-vows-to-end-call-masking/), while manufacturers [asked for a longer implementation timeline against a charge of about N670 per IMEI](https://www.thisdaylive.com/2026/09/09/stakeholders-push-for-extension-of-dms-implementation-timeline-seek-clarification-on-grey-areas/).
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 
@@ -127,6 +129,8 @@ Beneath all of that the licensed retail-ISP market is a rounding error and is co
 Katsina State [began the last-mile stage of its fibre network, the state investment promotion agency coordinating with commercial providers to move from core installation to connections for homes, businesses and public facilities across all 34 local government areas, with right-of-way fees waived and a roadmap target of 2,000-3,000 km of fibre and 70 per cent broadband penetration](https://dailyquery.com.ng/connecting-the-future-katsina-state-launches-mass-fibre-optic-network-for-homes-and-businesses/) for which no date is given. The satellite programme got its financing shape: the operator [disclosed that NIGCOMSAT-2A and 2B will be vendor-financed and backed by export-import banks, with the amount official only once financing closes](https://nigeriacommunicationsweek.com.ng/2026/08/28/fg-taps-french-israeli-firms-to-build-new-satellites-for-nigeria).
 
 Lagos put a figure on its own build. The state says it has [laid about 3,000km of a planned 6,000km unified fibre network between 2019 and 2025 and plans to secure 200-400MW of state-procured electricity](https://www.vanguardngr.com/2026/09/80bn-digital-economy-sanwo-olu-eyes-africas-innovation-capital/), alongside a claim of more than US$80bn in commitments to technology development. Both figures are the state's own, given at a trade exhibition, with no route, cost or independent verification published.
+
+Operators are two-thirds of the way to their site commitments: the regulator's board [recorded 8,526 of 12,179 committed coverage and capacity sites deployed, up from about 5,000 at its previous meeting](https://von.gov.ng/ncc-deploys-8526-telecom-sites-vows-to-end-call-masking/), and blamed fibre cuts for a sharp rise in June disruptions.
 <!-- /narrative -->
 ### Data Storage
 
@@ -213,6 +217,8 @@ On the cross-border rail the operator reported [Nigeria–Rwanda volumes approac
 The electoral roll got its own numbers on 8 September. The commission said the register was [approaching 100 million ahead of the 2027 general elections, on 10,772,421 new registrants in the latest continuous registration exercise, with a real-time election readiness tracker to be deployed across the 36 states and the federal capital territory](https://www.vanguardngr.com/2026/09/2027-polls-voter-register-nears-100m-inec/). The totals are its own; no register audit, duplicate rate or link to the national identity number accompanies them, and the devices that read the roll failed at a state election three weeks earlier.
 
 A second register was put on the same path, without a date. The maritime administration says it is [moving towards full automation of the Nigerian ship registry so that operators can register and transact remotely, including payment, without attending its offices](https://von.gov.ng/nimasa-embraces-digitisation-to-end-operational-delays/), framed as part of reforms to remove human contact, block revenue leakages and cut delays. It is a statement of direction: no date, cost or vendor accompanies it.
+
+The companies registry [announced AI across business registration with Google, in English, Hausa, Yoruba, Igbo and Pidgin](https://www.thisdaylive.com/2026/09/12/bauchi-gov-commends-cacs-ai-initiative-commission-partners-google-for-multilingual-business-registry/), with no contract or launch date published.
 <!-- /narrative -->
 ### Sectoral management information systems
 
