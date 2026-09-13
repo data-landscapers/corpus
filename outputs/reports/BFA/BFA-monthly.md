@@ -3,9 +3,9 @@ title: Burkina Faso — monthly update, August – September 2026
 compiled: 2026-09-13
 period: 2026-08-01 to 2026-09-13
 place: BFA
-ledger_rows: 36
+ledger_rows: 38
 not_held: 8
-record: 566dde10d5f4
+record: 87f5eed30475
 ---
 
 # Burkina Faso: monthly update, August – September 2026
@@ -146,6 +146,19 @@ Asked in plenary where artificial intelligence sat in the new data-protection la
 
 <!-- narrative: technology--tech-innovate -->
 The first Sahel Tech Innovation Challenge closed in Ouagadougou, taking 600 submitted projects from 23 African countries down to 100, then 60, then 10 finalists. First prize went to a [Burkinabe agricultural artificial-intelligence tool built to work in national languages](https://www.aib.media/stic26-des-burkinabe-decrochent-le-premier-prix-avec-leur-ia-agricole-integrant-les-langues-nationales-terra-ai/). No prize value, follow-on funding or second edition is announced.
+<!-- /narrative -->
+
+## Data
+
+### National statistics
+
+<!-- narrative: data--data-statistics -->
+The statistics institute [announced a national statistical innovation observatory at the statistics council's session of 11 September, using satellite imagery, mobile-phone, web and weather data and artificial intelligence to produce indicators for all 351 communes within days](https://lefaso.net/spip.php?article149178). The same session reviewed a [draft 2027 statistical programme costed at CFA 10.6 billion, 52.7% of it state-financed](https://lefaso.net/spip.php?article149178). No timetable for the observatory and no data-access agreement with mobile operators is stated.
+<!-- /narrative -->
+### Open data
+
+<!-- narrative: data--data-open -->
+The finance ministry cited [a 2025 Open Data Inventory score of 77 out of 100, first in West Africa and second in Africa](https://lefaso.net/spip.php?article149178). The inventory scores official statistics published online; the national open-data portal founded in 2015 still serves no catalogue.
 <!-- /narrative -->
 
 ## Geopolitics

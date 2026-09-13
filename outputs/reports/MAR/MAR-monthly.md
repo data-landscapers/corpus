@@ -3,9 +3,9 @@ title: Morocco — monthly update, August – September 2026
 compiled: 2026-09-13
 period: 2026-08-01 to 2026-09-13
 place: MAR
-ledger_rows: 42
+ledger_rows: 44
 not_held: 14
-record: 5ef601dc5417
+record: 537fdae46d84
 ---
 
 # Morocco: monthly update, August – September 2026
@@ -158,6 +158,11 @@ The state put money behind the startup strategy. A decree of 3 August [authorise
 
 ## Capacity
 
+### Training and skills
+
+<!-- narrative: capacity--capacity-training -->
+The Génération AIoT programme [opened seven cohorts in Casablanca, Fès and Oujda, aiming at 1,200 trained people a year from February 2027](https://consonews.ma/communiques-de-presse/le-programme-generation-aiot-vise-1-200-talents-formes-par-an-des-fevrier-2027). Launched in February by the digital transition ministry with a foundation and a technology firm, it [had drawn 2,118 applications and gathered 95 participants](https://consonews.ma/communiques-de-presse/le-programme-generation-aiot-vise-1-200-talents-formes-par-an-des-fevrier-2027). No completion or placement figure is published.
+<!-- /narrative -->
 ### Research institutions
 
 <!-- narrative: capacity--capacity-research -->

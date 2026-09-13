@@ -3,9 +3,9 @@ title: Cape Verde — monthly update, August – September 2026
 compiled: 2026-09-13
 period: 2026-08-01 to 2026-09-13
 place: CPV
-ledger_rows: 16
+ledger_rows: 17
 not_held: 30
-record: 9f1e3dc3120f
+record: 81f9441f627f
 ---
 
 # Cape Verde: monthly update, August – September 2026
@@ -94,4 +94,12 @@ A municipal council [presented a services platform it plans to put into public p
 
 <!-- narrative: technology--tech-innovate -->
 The innovation record moved to the extent that two institutions said they intend to work together. The national university and the economy ministry [are projecting a partnership on innovation, entrepreneurship and employment](https://unicv.edu.cv/pt/nots-geral/5931-uni-cv-e-ministerio-da-economia-projetam-parceria-para-inovacao-empreendedorismo-e-emprego). Projected is the operative word: no scope, funding or programme accompanies it, and nothing here is yet an instrument the repository can track.
+<!-- /narrative -->
+
+## Data
+
+### Open data
+
+<!-- narrative: data--data-open -->
+The fisheries ministry presented a [public Fisheries Information System giving structured access to data on landings, licences, catches, revenues, subsidies and the sector's legal framework](https://maa.gov.cv/index.php/noticias/425-cabo-verde-destaca-avancos-na-transparencia-das-pescas-em-evento-internacional-da-fiti-na-fao) at the FAO fisheries committee, built under the fisheries transparency standard the country joined in 2023. No launch date, licence or update frequency is given.
 <!-- /narrative -->

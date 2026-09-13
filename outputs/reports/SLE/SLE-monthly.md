@@ -3,9 +3,9 @@ title: Sierra Leone — monthly update, August – September 2026
 compiled: 2026-09-13
 period: 2026-08-01 to 2026-09-13
 place: SLE
-ledger_rows: 43
+ledger_rows: 44
 not_held: 5
-record: 4ed77424dd68
+record: 7051839c4bfb
 ---
 
 # Sierra Leone: monthly update, August – September 2026
@@ -140,6 +140,11 @@ The agriculture ministry is [finalising an upgraded interactive voice response p
 
 <!-- narrative: technology--tech-ai -->
 The electoral commission is thinking two years ahead. It [publicly considered the use of artificial intelligence for the 2028 elections](https://sierraloaded.sl/news/ecsl-use-ai-for-2028-sierra-leone-elections/). What function is contemplated, and what safeguards would attach to it, is not stated. An electoral body considering artificial intelligence in public is worth recording early, because the decisions that matter are taken before procurement rather than after it.
+<!-- /narrative -->
+### Innovation ecosystem
+
+<!-- narrative: technology--tech-innovate -->
+The communications minister [said a Startup Act is expected in the first quarter of 2027, alongside an innovation investment fund and a planned tech city](https://sierraloaded.sl/news/fatima-bio-launch-flot-financial-platform/). No draft or consultation is on file.
 <!-- /narrative -->
 
 ## Capacity

@@ -3,9 +3,9 @@ title: Nigeria — monthly update, August – September 2026
 compiled: 2026-09-13
 period: 2026-08-01 to 2026-09-13
 place: NGA
-ledger_rows: 183
+ledger_rows: 185
 not_held: 9
-record: e948aa85e4be
+record: 5455179e8b93
 ---
 
 # Nigeria: monthly update, August – September 2026
@@ -334,6 +334,11 @@ A state put a household survey at the centre of its budgeting. Katsina [launched
 The month's open-data movement is civil society's rather than government's. A civic-technology foundation [published a 2026-2030 strategy on 3 September to institutionalise participatory budgeting and subnational public-project tracking in 10 to 15 states, building on two existing platforms that let citizens monitor budget implementation and identify completed, delayed or abandoned public projects](https://nannews.ng/promad-unveils-5-year-strategy-to-scale-up-civic-tech-citizen-participation/). No budget, funder, delivery timetable or state is named.
 
 Government procurement went the other way: online, but not open. The procurement bureau's [submission portal became mandatory for agencies while contract awards, prices and delivery stay unpublished, although the 2007 procurement Act and the 2011 freedom of information Act require award particulars to be](https://developmentdiaries.com/as-nigerias-procurement-goes-digital-why-cant-citizens-see-the-contracts/).
+<!-- /narrative -->
+### Use of satellite data
+
+<!-- narrative: data--data-satellite -->
+The innovation minister said [the Federal Executive Council has approved a programme of six new satellites, four of them Earth-observation, and a Centre for Space Transport and Propulsion](https://businessday.ng/technology/article/nigeria-targets-1bn-space-investment-as-africa-pushes-space-sovereignty/), and sought private and foreign partners at the space summit in Paris. No manufacturer, cost, launch date or use for the data is given, and whether the two communications satellites are the ones approved in August is not stated.
 <!-- /narrative -->
 
 ## Geopolitics

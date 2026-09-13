@@ -3,9 +3,9 @@ title: Cameroon — monthly update, August – September 2026
 compiled: 2026-09-13
 period: 2026-08-01 to 2026-09-13
 place: CMR
-ledger_rows: 42
+ledger_rows: 43
 not_held: 4
-record: bd2b4cee9121
+record: 6a7415987f4e
 ---
 
 # Cameroon: monthly update, August – September 2026

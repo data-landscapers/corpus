@@ -3,9 +3,9 @@ title: Libya — monthly update, August – September 2026
 compiled: 2026-09-13
 period: 2026-08-01 to 2026-09-13
 place: LBY
-ledger_rows: 47
+ledger_rows: 48
 not_held: 2
-record: 1b2af107a983
+record: 0eaba7bcc6b6
 ---
 
 # Libya: monthly update, August – September 2026
@@ -125,6 +125,11 @@ A complaints route was put behind the visa system. The citizen service centre an
 
 ## Digitalisation
 
+### Digitalisation of sub-national government
+
+<!-- narrative: digitalisation--digital-localgov -->
+A Tripoli municipality [began electronic archiving of staff data, records and documents in its human resources department on 11 September](https://lana.gov.ly/post.php?id=365312&lang=ar), the latest of several single-council records projects; no national standard or shared system for municipal records is on file.
+<!-- /narrative -->
 ### Rural digital data capture
 
 <!-- narrative: digitalisation--digital-rural -->

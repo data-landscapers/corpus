@@ -3,9 +3,9 @@ title: Gabon — monthly update, August – September 2026
 compiled: 2026-09-13
 period: 2026-08-01 to 2026-09-13
 place: GAB
-ledger_rows: 48
+ledger_rows: 49
 not_held: 18
-record: befb52d2a285
+record: fc1876357d90
 ---
 
 # Gabon: monthly update, August – September 2026

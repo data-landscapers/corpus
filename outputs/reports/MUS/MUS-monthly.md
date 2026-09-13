@@ -3,9 +3,9 @@ title: Mauritius — monthly update, August – September 2026
 compiled: 2026-09-13
 period: 2026-08-01 to 2026-09-13
 place: MUS
-ledger_rows: 39
+ledger_rows: 42
 not_held: 7
-record: a941702080d4
+record: a3824f11d7ab
 ---
 
 # Mauritius: monthly update, August – September 2026
@@ -40,6 +40,11 @@ And on [30 July the ICT minister committed to Electronic Transactions Act amendm
 The primary text of the [Data Protection Officer Regulations 2026](https://mitci.govmu.org/mitci/wp-content/uploads/2026/06/117_The-Data-Protection_Designation-Tasks-and-Position-of-Data-Protection-Officers_Reg.pdf) is now held, as Government Notice No. 117 of 2026 made under the Data Protection Act.
 
 A third bill was set out in public rather than in print. The ICT minister said the [Road Traffic (Amendment) Bill would make the digital driving licence an official electronic version equivalent to the traditional one and let holders settle fixed traffic penalties at any court and, above all, online](https://lexpress.mu/s/avinash-ramtohul-batir-un-avenir-ou-les-services-publics-suivent-levolution-technologique-562186), putting the affected population at more than 800,000 licence holders and saying the licence depends on interconnecting transport services, law enforcement and public administration. The Bill text is not held and no enactment or commencement date is stated.
+<!-- /narrative -->
+### Data protection
+
+<!-- narrative: governance--gov-protect -->
+Interception gained its first reform instrument since the 2025 parliamentary revelations. The [National Crime Agency Bill published by the National Assembly would make interception of communications, real-time collection and traffic-data preservation by the new agency subject to Judge in Chambers orders](https://mauritiusassembly.govmu.org/mauritiusassembly/wp-content/uploads/2026/09/The-National-Crime-Agency-Bill-2026.pdf). The Assembly stands adjourned to 20 October, and no judicial-authorisation requirement is in force.
 <!-- /narrative -->
 ### Regional collaboration
 

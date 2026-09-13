@@ -3,9 +3,9 @@ title: Liberia — monthly update, August – September 2026
 compiled: 2026-09-13
 period: 2026-08-01 to 2026-09-13
 place: LBR
-ledger_rows: 36
+ledger_rows: 38
 not_held: 6
-record: 268752fba45b
+record: f075b0d1caf4
 ---
 
 # Liberia: monthly update, August – September 2026
@@ -39,6 +39,11 @@ The data-protection statute exists, and has for longer than announced. A ministe
 
 <!-- narrative: governance--gov-regional -->
 At the African Telecommunications Union plenipotentiary session in Abuja in July, Liberia [negotiated a waiver of US$361,151.36 in arrears dating back to 1982, deposited its instrument of ratification and had its voting rights restored](https://techafricanews.com/2026/08/03/liberia-secures-us361151-atu-debt-waiver-restores-voting-rights/).
+<!-- /narrative -->
+### Standards
+
+<!-- narrative: governance--gov-standards -->
+The education ministry [opened a five-day session to develop and validate a Statutory School Record-Keeping Booklet, one nationwide system for school records on students, teachers, attendance and infrastructure](https://www.africa-newsroom.com/press/liberia-ministry-moves-to-standardize-school-records-nationwide?lang=en). How the booklet relates to the education management information system being modernised is not stated.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 

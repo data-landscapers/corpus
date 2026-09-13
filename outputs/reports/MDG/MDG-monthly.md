@@ -3,9 +3,9 @@ title: Madagascar — monthly update, August – September 2026
 compiled: 2026-09-13
 period: 2026-08-01 to 2026-09-13
 place: MDG
-ledger_rows: 29
+ledger_rows: 31
 not_held: 5
-record: 2d087886636d
+record: af81e4cb3d32
 ---
 
 # Madagascar: monthly update, August – September 2026
@@ -97,6 +97,11 @@ A [Madagascar-Egypt government partnership on the use of artificial intelligence
 
 ## Capacity
 
+### Literacy
+
+<!-- narrative: capacity--capacity-literacy -->
+The vocational training ministry [signed a partnership with France's Pix public-interest group on 11 September to develop and certify young people's digital skills, including exam centres, trainer training and a study of putting Pix into vocational curricula](https://www.moov.mg/article/121011-metfp-et-gip-pix-un-partenariat-pour-renforcer-et-certifier-les-competences-numeriques-des-jeunes). No candidate target, cost or start date is given.
+<!-- /narrative -->
 ### Training and skills
 
 <!-- narrative: capacity--capacity-training -->

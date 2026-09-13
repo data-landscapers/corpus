@@ -3,9 +3,9 @@ title: Congo — monthly update, August – September 2026
 compiled: 2026-09-13
 period: 2026-08-01 to 2026-09-13
 place: COG
-ledger_rows: 26
+ledger_rows: 29
 not_held: 6
-record: 6246960756b0
+record: 75f6041cbd34
 ---
 
 # Congo: monthly update, August – September 2026

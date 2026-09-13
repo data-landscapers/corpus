@@ -3,9 +3,9 @@ title: Guinea — monthly update, August – September 2026
 compiled: 2026-09-13
 period: 2026-08-01 to 2026-09-13
 place: GIN
-ledger_rows: 34
+ledger_rows: 35
 not_held: 5
-record: a7e21c2d179d
+record: 69727543047c
 ---
 
 # Guinea: monthly update, August – September 2026
@@ -130,6 +130,14 @@ The first rural digital service to reach farmers this month was a private one ca
 
 <!-- narrative: technology--tech-innovate -->
 The instrument the innovation layer waits on is still a draft: the [startup bill went through a relecture session at the commerce ministry on 29 April 2025](https://www.mipme.gov.gn/seance-de-relecture-du-projet-de-loi-sur-les-startups/), and no promulgated act has been found since. In August a [national innovation strategy went out to tender under Belgian development financing](https://www.enabel.be/app/uploads/2026/08/GIN23009-10070_Strategie_Innovation17082026.pdf), procured ahead of the statute that would give it a legal base.
+<!-- /narrative -->
+
+## Inclusion
+
+### Access to services
+
+<!-- narrative: inclusion--include-access -->
+The statistics institute [agreed on 10 September to assess which fourth-census data can be used to identify persons with disabilities, toward a disability card planned by the women, family and solidarity ministry](https://nimba224.com/rgph-4-les-donnees-du-recensement-bientot-mobilisees-pour-mieux-identifier-les-personnes-vivant-avec-un-handicap/). It is the first government instrument on disability the repository holds for the country, and no timetable or card design is given.
 <!-- /narrative -->
 
 ## Data
