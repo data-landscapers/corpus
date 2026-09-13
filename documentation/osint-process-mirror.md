@@ -13,7 +13,7 @@
 - **Two added gates.** The block-quote gate acknowledges a quote it has read by hash. It caught the one quote predicted, in `osint-no-request-feed.md`, which is a rule and is acknowledged. A secret gate also refuses any `.env` value or token-shaped string. Files are read from a commit with `git archive`, never from the working tree.
 - **Staleness is not `PROCESS-FROM != HEAD`.** An export that changes no published file makes no commit, and `PROCESS-FROM` then keeps naming the older commit, which is still true. LINT #37 (`export-process-mirror.py --check`) fails when a published file differs between `PROCESS-FROM` and `origin/master`, the last push. Checking at the next night's lint against the last push means the night's own unpushed procedure edits never raise a false finding.
 - **The export runs after the night's final push**, as the close's last line, and a refusal goes on the closing line rather than blocking the night.
-- **Announced** from Corpus's `README.md` and the methodology page once the repository is live.
+- **Live and announced 2026-09-13**: [data-landscapers/osint-process](https://github.com/data-landscapers/osint-process), public, Issues off, linked from Corpus's `README.md`, `/methodology/` and `/methodology/process-inventory/`.
 
 ## The decision
 

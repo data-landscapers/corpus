@@ -2,7 +2,7 @@
 
 Corpus is run by written procedure. Every step below is a markdown file - an instruction document a language model reads and follows - or a Python script that checks or renders what those steps produced. The table below contains an inventory of processes, in the order the work happens: collection first, then classification and storage, then the reports, then the checks that run before anything is published.
 
-Two repositories are involved and the split is visible in the file names. Collection and classification run on the private machine that holds the source text; everything from *Notice a cycle has closed* onwards runs on a second machine using the metadata the first machine has stored. [Document Lifecycle](../document-lifecycle/) is the same system told as a story, following one document from a Somali news site to three published reports.
+Two repositories are involved and the split is visible in the file names. Collection and classification run on the private machine that holds the source text; everything from *Notice a cycle has closed* onwards runs on a second machine using the metadata the first machine has stored. The collection side's files are published at [data-landscapers/osint-process](https://github.com/data-landscapers/osint-process); the publishing side's at [data-landscapers/corpus](https://github.com/data-landscapers/corpus). [Document Lifecycle](../document-lifecycle/) is the same system told as a story, following one document from a Somali news site to three published reports.
 
 ## The processes
 

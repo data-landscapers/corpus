@@ -38,6 +38,8 @@ In short: two machines. A private one searches, fetches, screens and classifies 
 
 **What is not here** is the full text of the documents. It sits in a private repository because publishing it would infringe copyright. Everything public — here and on the site — is metadata, classification and summary.
 
+**The collection side's process is public too.** Its procedures, scripts and vocabularies — how documents are searched for, screened, classified and stored — are exported nightly to [data-landscapers/osint-process](https://github.com/data-landscapers/osint-process).
+
 ## Working with us
 
 **Use the reports and data.** Everything on the site is published under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Reports and datasets are dated editions and a published edition is never revised, so cite the edition you used; a correction appears as a new edition saying what changed.
@@ -52,11 +54,11 @@ In short: two machines. A private one searches, fetches, screens and classifies 
 
 **Challenge the taxonomy and indicators.** The topics and indicators decide what counts as progress. If they miss something that matters in your field, say so.
 
-**Reuse the method.** The pipeline is not specific to Africa or to digital transformation. If you want to build something similar, the process inventory and this repository are the place to start, and we are happy to talk.
+**Reuse the method.** The pipeline is not specific to Africa or to digital transformation. If you want to build something similar, the process inventory, this repository and [osint-process](https://github.com/data-landscapers/osint-process) are the place to start, and we are happy to talk.
 
 ### Before you open a pull request
 
-Start with an email. The site is rebuilt nightly by automated processes, so a change made directly to `site/` or `outputs/` is overwritten at the next build, and the source lists live in the private collection repository rather than here. We will work out with you where a change belongs.
+Start with an email. The site is rebuilt nightly by automated processes, so a change made directly to `site/` or `outputs/` is overwritten at the next build, and the source lists live in the collection repository rather than here. We will work out with you where a change belongs.
 
 ## Licence
 

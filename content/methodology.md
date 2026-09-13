@@ -19,7 +19,7 @@ The aim of Corpus is to provide a fast-track information service for researchers
 
 - **Architecture**
   Corpus is built by two networked machines.
-	- The first is responsible for data collection and classification. Its repository is private. 
+	- The first is responsible for data collection and classification. Its repository is private because it holds the full text of documents; its procedures, scripts and vocabularies are published at https://github.com/data-landscapers/osint-process. 
 	- The second is responsible for summarising content and keeping reports and datasets up to date. Its repository is available at https://github.com/data-landscapers/corpus. 
 	- Each machine reviews the work of the other and automatically exchanges and implements actionable notes 
 - **Technology**
