@@ -4,7 +4,7 @@ compiled: 2026-09-13
 period: 2026-08-01 to 2026-09-13
 subject: dpi.exchange
 places: DZA; AGO; BEN; BWA; BFA; CMR; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: cc75bff8912a
+record: b5dca2799fd9
 ---
 
 # Data Exchange: monthly update, August – September 2026
@@ -72,6 +72,8 @@ The exchange being built is between revenue agencies rather than between citizen
 ## Egypt
 
 The 19 July cabinet meeting produced the window's substantive disclosure: 105 government bodies connected and 100 national databases linked through the government digital switch, with the digital treasury's operating model applied to a number of services and e-signature and e-seal live and integrated with digital identity ([cabinet readout](https://gate.ahram.org.eg/News/5813424.aspx)). No register of the connected bodies, lawful basis or audit arrangement accompanies the figures.
+
+The financial regulator [ordered consumer and small-business lenders to report approvals, repayments and legal action to the credit bureau in real time, under decisions 174 and 175 of 2026](https://english.ahram.org.eg/NewsContent/3/12/576524/Business/Economy/Egypt-mandates-realtime-credit-reporting-for-consu.aspx).
 
 ## Equatorial Guinea
 

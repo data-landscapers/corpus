@@ -4,7 +4,7 @@ compiled: 2026-09-13
 period: 2026-08-01 to 2026-09-13
 subject: gov.legislate
 places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; TCD; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; UGA; ZWE
-record: 8737335773d3
+record: 8f96b13091c3
 ---
 
 # Legislation and regulation: monthly update, August – September 2026
@@ -98,6 +98,8 @@ The press bill cleared the lower house: [the Chamber of Deputies unanimously app
 ## Eswatini
 
 In the same 4 August answer, the ICT ministry said it had completed the Online Media Publishing Guidelines 2026, introducing a registration requirement for online publishers bound to accuracy, privacy protection, child safeguarding and the responsible use of AI. Neither the text nor a commencement date is public.
+
+An [Immigration Bill would let a system-generated communication bar a foreign national's entry, at an implementation cost of about E6 million](https://times.co.sz/43339/news/new-proposed-law-to-screen-foreigners-entering-country/), with no appeal route described.
 
 ## Ethiopia
 

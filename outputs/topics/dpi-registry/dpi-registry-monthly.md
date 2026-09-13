@@ -4,7 +4,7 @@ compiled: 2026-09-13
 period: 2026-08-01 to 2026-09-13
 subject: dpi.registry
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; TCD; COM; COG; CIV; COD; EGY; ERI; SWZ; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 5ef4306f0b15
+record: a9de4757b1d4
 ---
 
 # Registries (population, land, address, etc.): monthly update, August – September 2026
@@ -113,6 +113,8 @@ Addressing left the pilot stage in one town: [Matsapha became the first municipa
 
 A domestic commentary put the governance question on transport digitalisation in public: it places the [digitalisation of transport titles and documents among the state's modernisation projects and asks who governs it and whether local suppliers are used](https://gabonactu.com/blog/2026/09/07/digitalisation-des-titres-et-actes-de-transport-au-gabon-entre-gouvernance-numerique-et-valorisation-de-la-competence-locale/). It is an opinion piece rather than a programme document — no contracting authority, supplier, scope, cost or timetable is on the record — which is why it reaches this report as the only account of a project the state has not described.
 
+The beneficiary file behind the social register's intended base is unreliable: the Court of Accounts [found about 120,000 of the roughly one million people on the economically weak persons' health fund file improperly registered](https://union.sonapresse.com/fr/cnamgs-120-000-beneficiaires-indument-enregistres).
+
 ## Gambia
 
 The country published its first unified land policy, and it is the month's clearest statement of intent about a public register. The [National Land Policy 2026-2035 mandates a digitalised National Land Administration System, a centralised Land Information System and digitised land registration](https://policies.gov.gm/f/6d4b253b-ef9d-11f0-b086-029254d29bb1), alongside new Certificates of Customary Ownership, and carries a costed ten-year implementation roadmap. It is a mandate rather than a build: no supplier, budget line, custodian or start date is stated for either system, and no data-protection provision for the land record is reported — in a year in which the Personal Data Protection and Privacy Act 2025 came into force.
@@ -217,6 +219,8 @@ The tour reached its fourth region and brought a fourth set of figures. At Agade
 The electoral roll got its own numbers on 8 September. The commission said the register was [approaching 100 million ahead of the 2027 general elections, on 10,772,421 new registrants in the latest continuous registration exercise, with a real-time election readiness tracker to be deployed across the 36 states and the federal capital territory](https://www.vanguardngr.com/2026/09/2027-polls-voter-register-nears-100m-inec/). The totals are its own; no register audit, duplicate rate or link to the national identity number accompanies them, and the devices that read the roll failed at a state election three weeks earlier.
 
 A second register was put on the same path, without a date. The maritime administration says it is [moving towards full automation of the Nigerian ship registry so that operators can register and transact remotely, including payment, without attending its offices](https://von.gov.ng/nimasa-embraces-digitisation-to-end-operational-delays/), framed as part of reforms to remove human contact, block revenue leakages and cut delays. It is a statement of direction: no date, cost or vendor accompanies it.
+
+The companies registry [announced AI across business registration with Google, in English, Hausa, Yoruba, Igbo and Pidgin](https://www.thisdaylive.com/2026/09/12/bauchi-gov-commends-cacs-ai-initiative-commission-partners-google-for-multilingual-business-registry/), with no contract or launch date published.
 
 ## Rwanda
 

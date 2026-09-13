@@ -4,7 +4,7 @@ compiled: 2026-09-13
 period: 2026-08-01 to 2026-09-13
 subject: gov.discourse
 places: AGO; BEN; BFA; CMR; TCD; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; MWI; MLI; MUS; MAR; NAM; NER; NGA; SEN; SYC; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: bf7094aed6af
+record: d72908fead57
 ---
 
 # Public debate and participation in policymaking: monthly update, August – September 2026
@@ -194,6 +194,8 @@ On 1 August the Human Rights Commission disclosed that its case review meeting h
 The election itself, on 13 August, produced the fullest external account of the country's digital systems the repository holds. Observer missions recorded a [hybrid digital and manual voter-registration system with an online pre-registration portal, logging 8,786,300 registered voters, up 25% since 2021](https://www.eeas.europa.eu/sites/default/files/2026/documents/EU%20EOM%20Zambia%202026_Preliminary%20Statement%2015_8_FINAL_website2.pdf). A domestic coalition [found election-day process largely transparent but flagged an online-only accreditation system that blocked 11 accredited monitors, and the electoral commission's refusal to share the voters register](https://www.zambiamonitor.com/churches-group-rates-conduct-of-august-general-elections/). The European mission found online free expression unduly curtailed under the 2025 Cyber Security Act amid arrests for speech offences, and a regional media institute [recorded a journalist detained for two weeks under the Cyber Crimes Act and judged the access-to-information law and decriminalised defamation paper victories undermined by the two 2025 statutes](https://misa.org/blog/misa-regional-preliminary-statement-on-media-freedom-digital-rights-and-access-to-information-in-the-2026-zambia-general-elections/). These are preliminary statements; no final report, government response or commission account of the accreditation and register decisions is held.
 
 The criminal route for online speech was used. A Lusaka magistrate [convicted a vlogger on 11 September under section 54 of the Cyber Security and Cyber Crimes Act 2021 for forwarding a WhatsApp screenshot about a presidential aide](https://www.mwebantu.com/court-convicts-vlogger-chishimba-over-mwanawasa-allegations/).
+
+A second case followed the next day: [a tailor in Mansa was arrested under the cyber crimes statute over a TikTok video insulting the president](https://diggers.news/local/2026/09/12/mansa-tailor-nabbed-for-insulting-hh-on-tiktok/).
 
 ## Zimbabwe
 

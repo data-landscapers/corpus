@@ -4,7 +4,7 @@ compiled: 2026-09-13
 period: 2026-08-01 to 2026-09-13
 subject: infra.connect
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 0671b176e2ee
+record: f7ca56daf31b
 ---
 
 # Connectivity: monthly update, August – September 2026
@@ -139,6 +139,8 @@ The backbone under it is losing ground faster than the record showed. Industry n
 
 The state's own operator got its board back. On 3 September a seven-member board was sworn in for the company behind the AT Ghana brand, [releasing policy directives that had gone unimplemented for almost two months for want of one: spectrum in three bands from the regulator, and core-network access from the universal-access fund, both held back pending audited accounts](https://www.myjoyonline.com/sam-george-swears-in-at-ghanas-ppl-net-board-as-directors-vow-we-will-not-let-ghana-down/). Neither the bands nor the terms of the access are published.
 
+The first 5G spectrum is assigned. The regulator [awarded both 700 MHz lots on 11 September to the dominant operator, the sole qualified applicant, for US$100.9m, US$100,000 above the floor its 40% premium set](https://nca.org.gh/2026/09/11/update-on-the-5g-spectrum-licensing-process/); [one press account prints US$109.9m](https://www.graphic.com.gh/news/general-news/nca-assigns-5g-spectrum-to-mtn-ghanas-scancom-plc-for-us-109-9-million.html), against the regulator's own release.
+
 ## Guinea
 
 Facebook, YouTube and TikTok became inaccessible on 28 July 2026. The Association des Blogueurs de Guinée activated its monitoring protocol the same morning, ran connectivity tests through the day through independent monitors in Conakry and the interior, and [concluded that the results converge on a targeted block of those three platforms, arguing the precision of the restriction excludes an ordinary outage](https://www.guinee360.com/28/07/2026/perturbation-de-lacces-a-internet-en-guinee-lablogui-denonce-un-blocage-cible-de-facebook-youtube-et-tiktok/). It grounded its objection in article 19 of the constitution, article 9 of the African Charter and article 19 of the ICCPR.
@@ -256,6 +258,8 @@ Beneath all of that the licensed retail-ISP market is a rounding error and is co
 Katsina State [began the last-mile stage of its fibre network, the state investment promotion agency coordinating with commercial providers to move from core installation to connections for homes, businesses and public facilities across all 34 local government areas, with right-of-way fees waived and a roadmap target of 2,000-3,000 km of fibre and 70 per cent broadband penetration](https://dailyquery.com.ng/connecting-the-future-katsina-state-launches-mass-fibre-optic-network-for-homes-and-businesses/) for which no date is given. The satellite programme got its financing shape: the operator [disclosed that NIGCOMSAT-2A and 2B will be vendor-financed and backed by export-import banks, with the amount official only once financing closes](https://nigeriacommunicationsweek.com.ng/2026/08/28/fg-taps-french-israeli-firms-to-build-new-satellites-for-nigeria).
 
 Lagos put a figure on its own build. The state says it has [laid about 3,000km of a planned 6,000km unified fibre network between 2019 and 2025 and plans to secure 200-400MW of state-procured electricity](https://www.vanguardngr.com/2026/09/80bn-digital-economy-sanwo-olu-eyes-africas-innovation-capital/), alongside a claim of more than US$80bn in commitments to technology development. Both figures are the state's own, given at a trade exhibition, with no route, cost or independent verification published.
+
+Operators are two-thirds of the way to their site commitments: the regulator's board [recorded 8,526 of 12,179 committed coverage and capacity sites deployed, up from about 5,000 at its previous meeting](https://von.gov.ng/ncc-deploys-8526-telecom-sites-vows-to-end-call-masking/), and blamed fibre cuts for a sharp rise in June disruptions.
 
 ## Rwanda
 

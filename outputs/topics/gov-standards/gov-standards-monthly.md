@@ -4,7 +4,7 @@ compiled: 2026-09-13
 period: 2026-08-01 to 2026-09-13
 subject: gov.standards
 places: AGO; BEN; CPV; CAF; TCD; COM; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GIN; KEN; LBY; MWI; MLI; MRT; MUS; MOZ; NER; NGA; RWA; STP; SEN; SYC; SOM; ZAF; SDN; TZA; TGO; UGA; ZMB
-record: 60e8e0dd10ec
+record: c737a70264e3
 ---
 
 # Standards: monthly update, August – September 2026
@@ -115,6 +115,8 @@ The regulator's quality-of-service thresholds are not held. Its 2021 annual repo
 The clearance gate over federal IT spending was quantified for the first time. The technology development agency's director-general told a bar association conference that it [reviewed 1,092 project proposals from 326 ministries, departments and agencies between July 2023 and July 2026, worth more than N4.24 trillion, and cleared 1,056 of them worth N3.84 trillion](https://techafricanews.com/2026/08/27/nitda-urges-public-institutions-prioritise-homegrown-digital-solutions/) — about N400bn and 36 proposals not cleared, on criteria and for reasons that are not published. He urged a Nigeria First approach in procurement so that public spending creates market for indigenous suppliers.
 
 The standards move of the month is aimed at the innovation estate rather than at government systems. A draft [National Innovation Hub Standards Framework went to an Abuja validation exercise, giving hubs a self-assessment tool across seven dimensions and about 35 categories and a defined maturity pathway](https://von.gov.ng/nigeria-unveils-innovation-hub-framework-to-boost-digital-economy/), against a count of more than 339 hubs heavily concentrated in Lagos and Abuja — the stated purpose being to make a hub in a state outside those two legible enough to be funded without its founders relocating. At the same workshop the [EU delegation put Team Europe support for the country's digital sector at more than €820m between 2021 and 2027](https://punchng.com/fg-to-begin-90000km-fibre-rollout-in-october-minister/). It is a draft at validation, so what the framework will require of a hub, and who will assess it, is not yet settled.
+
+The device register went live and met resistance. The board [stated the Device Management System live, blocking stolen devices across networks](https://von.gov.ng/ncc-deploys-8526-telecom-sites-vows-to-end-call-masking/), while manufacturers [asked for a longer implementation timeline against a charge of about N670 per IMEI](https://www.thisdaylive.com/2026/09/09/stakeholders-push-for-extension-of-dms-implementation-timeline-seek-clarification-on-grey-areas/).
 
 ## Rwanda
 

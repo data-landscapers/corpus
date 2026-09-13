@@ -3,13 +3,13 @@ title: Strategies, plans and policies — monthly update, August – September 2
 compiled: 2026-09-13
 period: 2026-08-01 to 2026-09-13
 subject: gov.policy
-places: DZA; BFA; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; GMB; GHA; GIN; GNB; KEN; LSO; LBY; MWI; MLI; MRT; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 42416d50dabe
+places: DZA; BFA; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; GMB; GHA; GIN; GNB; KEN; LSO; LBY; MWI; MLI; MRT; MUS; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 72fc4e2ac090
 ---
 
 # Strategies, plans and policies: monthly update, August – September 2026
 
-*41 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*42 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Algeria
 
@@ -135,6 +135,10 @@ The same 1 August recommendations also included establishing [a Conseil national
 ## Mauritania
 
 The road transport regulator [gave ride-hailing companies operating through digital applications 15 days to bring their authorisations into line with the law, warning that failure within the deadline could bring legal proceedings including suspension of the activity, with no further notice or warning required](https://lequotidien.mr/?p=40128&lang=fr). The communique sets the warning against growing use of digital platforms for transport services; no operator is named and no count of non-compliant authorisations is given.
+
+## Mauritius
+
+Cabinet [approved Mauritius Vision 2050 on 11 September, targeting a US$50bn economy with digital among seven strategic sectors](https://lexpress.mu/s/mauritius-vision-2050-lobjectif-dune-economie-a-usd-50-milliards-dici-2050-562497); the document is not published.
 
 ## Mozambique
 

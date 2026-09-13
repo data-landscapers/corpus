@@ -4,7 +4,7 @@ compiled: 2026-09-13
 period: 2026-08-01 to 2026-09-13
 subject: dpi.mis
 places: DZA; AGO; BEN; BWA; BDI; CMR; CPV; CAF; COM; COG; CIV; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 8f70191245f3
+record: 8acced609edf
 ---
 
 # Sectoral management information systems (HMIS, EMIS, etc.): monthly update, August – September 2026
@@ -232,6 +232,8 @@ The health estate reported volume and the education estate reported failure. [12
 The school platform's first mass use is measured, and the measurement is mid-campaign. Remote enrolment reached [1.691m pupils by 3 September 2026, 81% of those eligible, of whom 1.587m — 76% of the eligible total — had also paid the fees](https://directinfo.webmanagercenter.com/2026/09/03/rentree-scolaire-2026-2027-en-tunisie-plus-de-169-million-deleves-inscrits-a-distance/). The shares are the education ministry's own, and nothing is published about the fifth of eligible pupils who had not enrolled online — which is the number that would say whether the platform is a route or a requirement.
 
 The health ministry and UNICEF [set the priority needs for a national digital platform covering the care of mothers, newborns and children](https://www.letemps.news/2026/09/08/sante-vers-une-plateforme-numerique-dediee-a-la-sante-de-la-mere-et-de-lenfant/), after a benchmarking study; no build date or host is stated.
+
+The family ministry [brought a case system for child-protection delegates into service on 11 September, digitising notifications on children at risk](https://www.alchourouk.com/article/%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D9%85%D9%86%D8%AF%D9%88%D8%A8%D9%8A-%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%B7%D9%81%D9%88%D9%84%D8%A9); no access rule or volume is published.
 
 ## Uganda
 
