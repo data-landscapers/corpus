@@ -5,14 +5,14 @@ period: 2025-09-01 to 2026-09-13
 place: XCA
 ledger_rows: 43
 not_held: 0
-record: 3dc19a92d6bb
+record: 1c1424f7a4c6
 ---
 
 # Central Africa: progress report, September 2025 – September 2026
 
 *Compiled 2026-09-13 by Claude Opus from the documents in the Corpus repository. Sections run from the region's institutions outwards to what funds them. Each row sets the position at the start of the period against the position at the end, and the Progress column says how it moved. The period runs to the date of issue rather than to the last month's close.*
 
-*Of 43 bodies, instruments and systems on this place's ledger, 32 changed position between 2025-09-01 and 2026-09-13, 8 did not, 3 carry no stated baseline, and 0 are ***Not held*** at both ends.*
+*Of 43 bodies, instruments and systems on this place's ledger, 34 changed position between 2025-09-01 and 2026-09-13, 8 did not, 1 carry no stated baseline, and 0 are ***Not held*** at both ends.*
 
 *Shape check, run before the comparison: 74 sources for this place in the window — 24 in the earlier half (2025-09 to 2026-03), 50 in the later (2026-04 to 2026-09). The two halves are comparable, so the comparison is made over the whole window.*
 
@@ -98,7 +98,7 @@ CEMAC's two 2019-era free-movement instruments sit at opposite ends of the deliv
 |---|---|---|---|
 | Central Africa Peering Forum | Did not exist | [Central Africa's own regional peering event, covering peering, interconnection, routing security and RPKI, closing a 2026 calendar that already ran West Africa's forum in Cotonou (June) and the continental AfPIF in Kigali (August)](https://tech.africa/capf-2026/) | Movement |
 | Central African Backbone | National segments built and interconnected — the Central African Republic's national backbone inaugurated in February 2023 with an interconnection to Congo | [Extending in three directions at once: Congo's 600 km backbone linking Cameroon and the Central African Republic, Cameroon seeking USD 195 million to expand its own, and Congo Telecom stating an ambition to lead regional digital transit (2026-06)](https://techreviewafrica.com/news/6002/congo-telecom-reiterates-ambition-to-lead-digital-transit-and-technology-hub-in-central-africa) | Movement |
-| Central African Republic interconnection through South Sudan | ***Baseline not held*** | [Announced to reduce dependence on fragile regional networks and improve access to international capacity (2026-05)](https://africabusinessinsight.com/central-african-republic-seeks-new/) | ***Baseline not held*** |
+| Central African Republic interconnection through South Sudan | A Juba-Ri Yubu route to the Central African Republic listed by a World Bank study as a proposed link and gap to close, with no link operating (2022-09) | [Announced to reduce dependence on fragile regional networks and improve access to international capacity (2026-05)](https://africabusinessinsight.com/central-african-republic-seeks-new/) | Movement |
 | Nigeria-Equatorial Guinea subsea cable | ***Baseline not held*** | [Signed to expand broadband capacity and regional cybersecurity between West and Central Africa (2026-02)](https://www.connectingafrica.com/fiber-networking/nigeria-equatorial-guinea-subsea-cable-to-strengthen-regional-connectivity) | ***Baseline not held*** |
 
 ### Data Storage
@@ -172,7 +172,7 @@ Payments infrastructure carries the period's clearest delivery: SYSTAC 2 replace
 
 | Body, instrument or system | At 2025-09-01 | At 2026-09-13 | Progress |
 |---|---|---|---|
-| African Institute of Informatics (IAI-Cameroun) | ***Baseline not held*** | [Operating as an inter-state training institution, with the regional commission opening collaboration on education and digital skills (2026-08)](https://www.journaletudiant.com/enseignement-superieur-iai-cameroun-recoit-la-ceeac/) | ***Baseline not held*** |
+| African Institute of Informatics (IAI-Cameroun) | Operating, and training the public service ministry's staff under a convention signed on 10 July 2018 (2018-07) | [Operating as an inter-state training institution, with the regional commission opening collaboration on education and digital skills (2026-08)](https://www.journaletudiant.com/enseignement-superieur-iai-cameroun-recoit-la-ceeac/) | Movement, collaboration with the regional commission opened |
 
 ### Access to services
 
@@ -181,7 +181,7 @@ Payments infrastructure carries the period's clearest delivery: SYSTAC 2 replace
 | Economic inclusion of refugees in Central Africa | Diagnosed under the regional inclusive and resilient value chains project, following a private-sector-for-refugees framework: over 4 million displaced, and only 5 percent of refugees in Chad and the Central African Republic holding national IDs (2024) | [Diagnosed under the regional inclusive and resilient value chains project, following a private-sector-for-refugees framework (2024)](https://thedocs.worldbank.org/en/doc/6e08e3de56af95a203769a1f4f1e7c17-0610062024/original/2024-Technical-Report-UNLOCKING-THE-ECONOMIC-POWER-OF-REFUGEES-IN-CENTRAL-AFRICA.pdf) | No change |
 
 <!-- narrative: capacity -->
-Capacity in this region is held by institutions the repository can name and cannot measure. The African Institute of Informatics is inter-state by construction, and the period's only development on it is a [visit from the ECCAS commissioner for gender and human development opening collaboration on education and digital skills](https://www.journaletudiant.com/enseignement-superieur-iai-cameroun-recoit-la-ceeac/) — no enrolment, no qualification, no commitment beyond the visit. On the inclusion half, the regional inclusive and resilient value chains project produced [a technical diagnostic of refugees' economic position across Central Africa under a private-sector-for-refugees framework](https://thedocs.worldbank.org/en/doc/6e08e3de56af95a203769a1f4f1e7c17-0610062024/original/2024-Technical-Report-UNLOCKING-THE-ECONOMIC-POWER-OF-REFUGEES-IN-CENTRAL-AFRICA.pdf), which is a study rather than a programme. The institute has no position at the start of the period, so it reads as baseline not held; the diagnostic predates the period and nothing has moved it since, so that row reads no change. The region is building a record on capacity, not yet moving one.
+Capacity in this region is held by institutions the repository can name and cannot measure. The African Institute of Informatics is inter-state by construction, and the period's only development on it is a [visit from the ECCAS commissioner for gender and human development opening collaboration on education and digital skills](https://www.journaletudiant.com/enseignement-superieur-iai-cameroun-recoit-la-ceeac/) — no enrolment, no qualification, no commitment beyond the visit. On the inclusion half, the regional inclusive and resilient value chains project produced [a technical diagnostic of refugees' economic position across Central Africa under a private-sector-for-refugees framework](https://thedocs.worldbank.org/en/doc/6e08e3de56af95a203769a1f4f1e7c17-0610062024/original/2024-Technical-Report-UNLOCKING-THE-ECONOMIC-POWER-OF-REFUGEES-IN-CENTRAL-AFRICA.pdf), which is a study rather than a programme. The institute was already [training the Cameroonian public service ministry's staff under a 2018 convention](https://www.minfopra.gov.cm/index.php/fr/105-a-la-une/843-minfopra-iai-un-protocole-d-accord-pour-la-formation-et-le-recyclage-des-personnels-desormais-signe), so the visit adds a regional partner to a working institution; the diagnostic predates the period and nothing has moved it since, so that row reads no change. The region is building a record on capacity, not yet moving one.
 <!-- /narrative -->
 
 ## Finance
