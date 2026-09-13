@@ -1,12 +1,12 @@
 ---
 title: Guinea: status report
-compiled: 2026-08-21
+compiled: 2026-09-13
 place: GIN
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 8
-sources_cited: 131
+sources_cited: 132
 sections_written: 37
 not_established: 2
 acquire_lines: 45
@@ -109,7 +109,7 @@ The state is now an operator as well as rule-maker, [holding 87.5 per cent of MT
 ### Data Storage
 <!-- infra.store -->
 
-Guinea [opened a national data centre in Conakry in September 2025, certified Tier III by the Uptime Institute, to host government data and cut dependence on foreign hosting, and took sovereign management of the .gn country domain at the same time](https://www.ecofinagency.com/news-digital/0409-48427-guinea-opens-tier-3-national-data-center-to-strengthen-digital-transition). The facility is [a named structuring project of the National Strategy for State Digitalisation to 2027, overseen by the state digitalisation agency ANDE and the Ministry of Posts, Telecommunications and Digital Economy](https://ande.gov.gn/file/2025/01/Strategie-Numerique_Guinee-2027_v1.2.pdf).
+Guinea's national data centre is built and not yet working: a year after it [opened in Conakry in September 2025, certified Tier III by the Uptime Institute, to host government data and cut dependence on foreign hosting](https://www.ecofinagency.com/news-digital/0409-48427-guinea-opens-tier-3-national-data-center-to-strengthen-digital-transition), the prime minister [found it still not fully operational, about 90% complete on nearly US$10m of investment with one payment outstanding](https://www.visionguinee.info/bah-oury-nous-avons-besoin-de-rattraper-notre-retard-et-de-renforcer-notre-souverainete-numerique/) (September 2026). The state [took sovereign management of the .gn country domain at the same time as the opening](https://www.ecofinagency.com/news-digital/0409-48427-guinea-opens-tier-3-national-data-center-to-strengthen-digital-transition). The facility is [a named structuring project of the National Strategy for State Digitalisation to 2027, overseen by the state digitalisation agency ANDE and the Ministry of Posts, Telecommunications and Digital Economy](https://ande.gov.gn/file/2025/01/Strategie-Numerique_Guinee-2027_v1.2.pdf).
 
 The rule on where data must sit is far weaker than the place now built to hold it. Localisation is [a stated priority whose enforcing legal framework is still being put in place](https://smartafrica.org/fr/le-transform-africa-summit-2025-confirme-la-dynamique-continentale-pour-une-afrique-digitale-unie-et-souveraine-depuis-la-guinee/) (2025), and the one binding mandate on the books is sectoral: [credit databases and their backup sites may leave Guinea only with prior central bank authorisation, under the 2019 Credit Bureau Law](https://cnt.gov.gn/archive.assemblee/www.assemblee.gov.gn/conakry-le-30-decembre-2019-l20190056an-loi-relative-aux-bureaux-dinformation-sur-le-credit.html). So the sovereignty being built is physical — a building, a domain, a landing station — well ahead of the law that would oblige anyone to use it.
 
