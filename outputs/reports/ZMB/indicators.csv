@@ -435,7 +435,7 @@ dpi.govtech--e-government-services,Movement,"The [national portal](2026-07-10-di
 
 Authentication has been separated out into a service of its own: [ZamPass runs as the national authentication and access control service from the government service bus domain, with companion mobile applications and a consent endpoint](2026-01-01-zampass). It is a single-page application that publishes nothing about its enrolment base, the identities it authenticates against, or which services sit behind it.
 
-The Secretary to the Cabinet [directed every government institution to adopt the Smart Office Platform and told the Smart Zambia Institute to report by the end of October 2026 on the onboarding of ministries, provinces, spending agencies and state-owned enterprises](2026-09-04-lusakatimes-smart-office-platform), the direction given at the handover of the system to the airports corporation. No count of institutions onboarded is published.
+The Secretary to the Cabinet [directed every government institution to adopt the Smart Office Platform and told the Smart Zambia Institute to report by the end of October 2026 on the onboarding of ministries, provinces, spending agencies and state-owned enterprises](2026-09-04-lusakatimes-smart-office-platform). No count of institutions onboarded is published.
 
 2026-09-05 - the office system moved beyond ministries: the airports corporation [became the first state-owned enterprise onboarded, the system commissioned and handed over by the Secretary to the Cabinet, with a further 406 staff to be trained across its stations by the end of November](2026-09-05-efficacynews-zacl-smart-office-adoption).
 
