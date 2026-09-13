@@ -1,11 +1,11 @@
 ---
 title: Eritrea — monthly update, August – September 2026
-compiled: 2026-09-11
-period: 2026-08-01 to 2026-09-11
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 place: ERI
 ledger_rows: 10
 not_held: 23
-record: 6121c734d138
+record: 3a77341d23b4
 ---
 
 # Eritrea: monthly update, August – September 2026

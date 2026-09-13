@@ -1,11 +1,11 @@
 ---
 title: Southern Africa — monthly update, August – September 2026
-compiled: 2026-09-10
-period: 2026-08-01 to 2026-09-10
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 place: XSA
 ledger_rows: 18
 not_held: 2
-record: a15b5e0228d6
+record: f0633b4a50db
 ---
 
 # Southern Africa: monthly update, August – September 2026

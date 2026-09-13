@@ -1,11 +1,11 @@
 ---
 title: Sao Tome and Principe — monthly update, August – September 2026
-compiled: 2026-09-06
-period: 2026-08-01 to 2026-09-06
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 place: STP
 ledger_rows: 9
 not_held: 6
-record: 22c9fd0bffe0
+record: e5131907f718
 ---
 
 # Sao Tome and Principe: monthly update, August – September 2026
