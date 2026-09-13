@@ -68,7 +68,9 @@ dpi.id--robustness-of-system,Movement,"A [confederation biometric identity card]
 
 The passport opened enrolment on 16 July 2026 with the president the first enrollee, five categories issued to international civil aviation specification over thirty-four pages ([passport](2026-07-16-aes-biometric-passport-tiani-first-enrollee-actuniger), [editorial](2026-07-21-lesahel-editorial-passeports-biometriques-aes), [enrolment start](2026-07-23-niger-passeport-biometrique-aes-pm-zeine-enrolement)).
 
-Four biometric modalities on a mandatory card, with no published supervisory record from the data protection authority, is the shape a named analyst warns about.",NER-dpi.id-cnibaes|NER-dpi.id-aespassport
+Four biometric modalities on a mandatory card, with no published supervisory record from the data protection authority, is the shape a named analyst warns about.
+
+2026-09-15 - [mass enrolment for the confederal passport opens at 45,000 FCFA, ECOWAS enrolment having closed](2026-09-09-ner-nigerdiaspora-enrolement-passeport-biometrique-aes).",NER-dpi.id-cnibaes|NER-dpi.id-aespassport
 dpi.id--registration-of-entire-population,Movement,"The [universal identification programme](2026-07-27-lesahel-wuri-niger-restructure-identification-universelle) was restructured onto the statutory register stack with a goal of 22m enrolled, above a [pilot of more than 3,000](2025-02-21-bioenable-mosip-national-digital-id-pilot-biometricupdate) in four communes.","The programme was operational with a goal of 22m enrolled by 2026 and has been restructured to carry the statutory register stack, with enrolment starting in the capital ([programme](2026-07-27-lesahel-wuri-niger-restructure-identification-universelle), [pilot](2025-05-01-wuri-niger-birth-certificate-pilot-filingue-biometricupdate)).
 
 An open-source identity pilot enrolled more than 3,000 people across four communes, with no later enrolment figure published ([open source](2025-02-21-bioenable-mosip-national-digital-id-pilot-biometricupdate)).
@@ -321,7 +323,9 @@ finance.mou--strategic-relationships,Movement,"A [package of bilateral accords w
 
 The [second session of the joint commission with Algeria closed on 24 March 2026](2026-03-24-niger-anp-accords-niger-algerie) with the two prime ministers signing accords and memoranda spanning health, transport, environment, foreign affairs, higher education, petroleum, energy, youth, communication and trade; the communiqué itemises no stand-alone digital or data-governance instrument within the package.
 
-No text of either instrument is held, and no implementation milestone against them is on file.",NER-finance.mou-chadfibre|NER-gov.regional-algeria
+No text of either instrument is held, and no implementation milestone against them is on file.
+
+2026-09-08 - the Algerian state operator [signed conventions for a skills centre and donated equipment for a 100 Gbps Agadez fibre link](2026-09-08-dza-anp-algerie-telecom-conventions-niger-telecom-escep).",NER-finance.mou-chadfibre|NER-gov.regional-algeria|NER-finance.mou-algerie-telecom-conventions
 finance.new--mobilisation-of-non-state-finance,Movement,"A [fintech deployment at Maradi brought in over 130 million FCFA of fee revenue](2025-10-12-niger-uncdf-ipaymoney-universites), against a rural project's own private-investment indicator.","A [catalytic grant](2025-10-12-niger-uncdf-ipaymoney-universites) enabled a Nigerien fintech to deploy its digital payment platform at Dan Dicko Dankoulodo University in Maradi, bringing in over 130 million FCFA of additional fee revenue, cutting registration from weeks to between 48 and 72 hours, and now spreading to universities in Niamey and Agadez.
 
 The rural digital inclusion project's own indicator [recorded USD 7,522,666 of private investment raised as at 30 June 2024](2025-08-28-worldbank-niger-smart-villages-isr-private-investment) against a December 2025 target of USD 25,000,000.
@@ -341,7 +345,9 @@ gov.discourse--open-discussion-of-government-policy,Regressed,"Niger [scored 27 
 
 Six journalists were [arrested in Niamey on 30 October 2025](2025-11-06-niger-hrw-journalistes-arretes-cybercriminalite) for sharing an invitation to a state-organised press conference, three detained and charged under the cybercrime law with distributing a document liable to disturb public order.
 
-The interior ministry [suspended hundreds of the 4,122 registered associations on 21 November 2025](2025-12-01-niger-civicus-suspension-ong), including 332 foreign ones, for not publishing 2024 financial statements, leaving about 100 authorised to continue.",NER-gov.discourse-freedomscore|NER-gov.legislate-cybercrimelaw|NER-gov.discourse-ngosuspension
+The interior ministry [suspended hundreds of the 4,122 registered associations on 21 November 2025](2025-12-01-niger-civicus-suspension-ong), including 332 foreign ones, for not publishing 2024 financial statements, leaving about 100 authorised to continue.
+
+2026-09-10 - the [Council of Ministers adopted a draft ordinance on the electronic press and a decree on foreign correspondents' accreditation](2026-09-10-ner-gouv-conseil-ministres-presse-electronique-correspondants).",NER-gov.discourse-freedomscore|NER-gov.legislate-cybercrimelaw|NER-gov.discourse-ngosuspension|NER-gov.legislate-electronic-press-ordinance
 gov.legislate--access-to-information-legislation,Regressed,"The media regulator created in 2025 [suspended nine foreign outlets in May 2026](2026-05-09-niger-anp-suspension-neuf-medias-francais), while the 2011 access charter still has no implementing decree.","The president [signed the ordinance creating the national communication observatory on 1 September 2025](2025-09-01-niger-gouv-ordonnance-creation-onc), the transition-era media regulator provided for by article 71 of the founding charter and tasked with guaranteeing freedom of information and equitable access to public media.
 
 That body [suspended nine French outlets on 8 May 2026](2026-05-09-niger-anp-suspension-neuf-medias-francais) — including two international broadcasters, a news agency and two magazines — on grounds of public order, social cohesion, institutional stability and the morale of the defence and security forces.

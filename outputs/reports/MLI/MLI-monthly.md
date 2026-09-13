@@ -1,11 +1,11 @@
 ---
 title: Mali — monthly update, August – September 2026
-compiled: 2026-09-10
-period: 2026-08-01 to 2026-09-10
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 place: MLI
-ledger_rows: 33
+ledger_rows: 34
 not_held: 1
-record: f284a7af10c9
+record: 31829ea9039e
 ---
 
 # Mali: monthly update, August – September 2026
@@ -40,6 +40,8 @@ On 1 August the Semaine du Numerique's recommendations included [a data-manageme
 
 <!-- narrative: governance--gov-protect -->
 On 3 August the [data-protection authority opened its second 2026 session](https://orbiteinfo.com/mali-lapdp-ouvre-sa-2e-session-2026-avec-1-000-dossiers-au-programme/) with more than 1,000 files before it over ten days — authorisations, declarations, video-surveillance oversight, formal notices and direct sanction procedures — its president grounding the sanctions in Loi n2013-015 as amended.
+
+The largest privacy fact of the month came from outside the country. A model provider's threat report [says a consultant working with the state security agency used its AI model to build Lakana 360, a platform monitoring about 25 million SIM cards across all three mobile operators and capturing call records, messages and voice traffic, with a warrant requirement removed from one component](https://www.anthropic.com/threat-intelligence-report-september-2026). No Malian authority's response or legal basis for the interception is on record.
 <!-- /narrative -->
 ### Regional collaboration
 
@@ -131,6 +133,8 @@ The same 22 July an operator [reported 350 young people placed on the labour mar
 On 30 July UNESCO and Japan [handed the education ministry FCFA 88,740,927 of equipment for eight teacher-training institutes](https://www.unesco.org/fr/articles/lunesco-remet-des-equipements-et-materiels-informatiques-au-ministere-de-leducation-nationale-au) — 40 laptops, 16 all-in-one computers, 32 tablets, and projectors, whiteboards, printers and backup devices — with no maintenance, connectivity or software provision stated.
 
 On 1 August recruitment opened for the first cohort of a [digital-skills programme for 15,000 young people](https://lessor.ml/posts/semaine-du-numerique-notre-pays-veut-accelerer-sa-transformation-digitale-6a6e52f6dcfc0) run under a convention with the Association Kabakoo.
+
+The youth digital skills convention delivered its [first cohort of 1,000, in bursaried four-month training toward a target of 15,000 over three years](https://www.maliweb.net/technologie/kabakoo-academies-et-la-dnen-lancent-la-premiere-cohorte-de-leur-partenariat-pour-renforcer-les-competences-numeriques-des-jeunes-au-mali-3119774.html).
 <!-- /narrative -->
 
 ## Inclusion

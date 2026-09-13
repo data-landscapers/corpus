@@ -416,7 +416,9 @@ dpi.exchange--use-of-digital-id-in-other-systems,Movement,The identity number is
 
 2026-03-23 — [phase one of the labour market information system went operational with completed integrations to the identification system, the company registry and the government SMS gateway](2026-03-23-ministry-of-higher-education-committee-of-supply-speech).
 
-No count of systems consuming the identifier is published.",BWA-dpi.mis-labour-market-information-system|BWA-dpi.exchange-health-information-exchange|BWA-dpi.registry-national-identity-register
+No count of systems consuming the identifier is published.
+
+2026-09 - the bankers' association [launched a national eKYC project verifying bank customers against the citizen database](2026-09-11-bwa-businesstechafrica-national-ekyc), with no go-live date stated.",BWA-dpi.mis-labour-market-information-system|BWA-dpi.exchange-health-information-exchange|BWA-dpi.registry-national-identity-register|BWA-dpi.exchange-national-ekyc
 dpi.exchange--interoperability-of-health-systems,Movement,The [health information exchange’s client and facilities registries were reported ready for deployment in March 2026](2026-03-05-ministry-of-health-committee-of-supply-speech).,"2026-01-01 — [a case study set out the national eHealth enterprise architecture and its HL7 FHIR interoperability framework](2026-01-01-developing-a-national-ehealth-enterprise-architecture-in-botswana), describing a health sector running numerous unconnected systems.
 
 2026-03-05 — [the ministry reported the exchange’s client and facilities registries ready for deployment and phase one of the electronic medical record rolling out](2026-03-05-ministry-of-health-committee-of-supply-speech).

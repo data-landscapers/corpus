@@ -1,11 +1,11 @@
 ---
 title: Equatorial Guinea — monthly update, August – September 2026
-compiled: 2026-09-10
-period: 2026-08-01 to 2026-09-10
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 place: GNQ
 ledger_rows: 28
 not_held: 6
-record: 29e6162a0f1b
+record: ff4cdb956f43
 ---
 
 # Equatorial Guinea: monthly update, August – September 2026
@@ -31,6 +31,8 @@ Two plans and no strategy is still the position. The transport ministry's [half-
 
 <!-- narrative: governance--gov-legislate -->
 The full text of the 2024 social media and computer crime law reached the repository this month: it [criminalises computer fraud, identity theft and false news online](https://www.guineaecuatorialpress.com/noticias/ley_por_la_que_se_regula_el_uso_de_las_redes_sociales_los_delitos_informaticos_y_la_ciber_delincuencia) and creates the national cybersecurity agency the ledger has carried as an entity with no premises, staffing or budget on record. The government [reasserted the law's full force on 1 July amid rising complaints, naming neither artificial intelligence nor deepfakes](https://www.guineaecuatorialpress.com/noticias/el_gobierno_recuerda_la_plena_vigencia_de_la_ley_que_regula_el_uso_de_las_redes_sociales_los_delitos_informaticos_y_la_ciber_delincuencia). Alongside it the information minister [presented a press-law reform bill on 6 August regulating digital media and cable television for the first time](https://ahoraeg.com/politica/2026/08/07/el-gobierno-propone-por-primera-vez-regular-los-medios-digitales-y-la-tv-por-cable-en-la-nueva-ley-de-prensa/), now under committee review with no adoption date and no bill text published. The Chamber of Deputies' own account of the sitting shows it was not presented alone: [a separate Copyright and Related Rights bill went to the chamber the same day](https://www.guineaecuatorialpress.com/noticias/comienza_en_la_camara_de_los_diputados_varios__proyectos_de_leyes), implementing Equatorial Guinea's 1997 Berne Convention accession and its 2015 Bangui Agreement obligations under OAPI, so the copyright provisions are a companion instrument rather than part of the audiovisual bill.
+
+The press bill cleared the lower house: [the Chamber of Deputies unanimously approved on 11 September the bill replacing the 1997 press law, which covered no digital journalism](https://www.guineaecuatorialpress.com/index.php/noticias/la_camara_de_los_diputados_ha_aprobado_tres_proyectos_de_leyes_presentados_por_el_gobierno).
 <!-- /narrative -->
 ### Standards
 

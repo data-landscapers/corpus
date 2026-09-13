@@ -1,11 +1,11 @@
 ---
 title: Niger — monthly update, August – September 2026
-compiled: 2026-09-10
-period: 2026-08-01 to 2026-09-10
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 place: NER
-ledger_rows: 33
+ledger_rows: 36
 not_held: 2
-record: 2ac704952231
+record: b27b8cee4f01
 ---
 
 # Niger: monthly update, August – September 2026
@@ -26,6 +26,8 @@ The other thread is hardware and skills. The electronics assembly plant at Hamda
 
 <!-- narrative: governance--gov-legislate -->
 The civil-status reforms are being explained rather than amended. The national awareness tour reached its fourth stage with [a workshop opening in Agadez on the civil-status and personal-identification reforms](https://anp.ne/ouverture-a-agadez-dun-atelier-de-sensibilisation-sur-les-reformes-en-matiere-de-letat-civil-et-didentification-des-personnes-au-niger/), where [the region mobilised its actors around inclusive governance of the new regime](https://airinfoagadez.com/2026/08/28/reformes-de-letat-civil-et-de-lidentification-agadez-mobilise-ses-acteurs-pour-une-gouvernance-inclusive/). Explaining a reform is not implementing it, and the record held carries no count of registrations made under the new regime in any region the tour has passed through.
+
+Online media are to be brought under dedicated rules: the Council of Ministers [adopted a draft ordinance on the electronic press and a decree on accrediting foreign correspondents on 10 September](https://www.gouv.ne/index.php/les-communiques-du-gouvernement/1303-conclusions-du-conseil-des-ministres-du-jeudi-10-septembre-2026).
 <!-- /narrative -->
 ### Regional collaboration
 
@@ -51,6 +53,12 @@ A state observatory monitored the country's media and platforms through a securi
 <!-- narrative: finance--finance-budget -->
 The budget moved and the digital line did not appear in it. The Council of Ministers [rectified the 2026 finance law on 21 August, raising the general State budget from 2,922.22 to 2,980.54 billion FCFA](https://anp.ne/loi-des-finances-2026-le-budget-general-de-letat-au-titre-de-lannee-2026-passe-a-2-98054-milliards-de-francs-cfa/), citing security spending, the government's new configuration, oil prices and tax simplification. Neither it nor the [ordonnance it amends](https://finances.gouv.ne/index.php/lois-de-finances/file/1303-ordonnance-n-2025-44) names an appropriation for communications or the digital economy, so the repository holds the total and still not the line.
 <!-- /narrative -->
+### MoUs and other agreements
+
+<!-- narrative: finance--finance-mou -->
+
+The Algerian state operator [signed conventions in Niamey on 8 September for a skills centre and donated transmission equipment for a 100 Gbps Ngezam-Agadez link on the national backbone](https://anp.ne/cooperation-algerie-telecom-signe-deux-conventions-de-partenariat-avec-niger-telecom-et-escep-niger/); no value is stated.
+<!-- /narrative -->
 
 ## ICT Infrastructure
 
@@ -60,6 +68,7 @@ The budget moved and the digital line did not appear in it. The Council of Minis
 On 27 July the telecommunications regulator [opened a second drive-test campaign over Niamey, running to 28 August 2026](https://www.lesahel.org/communications-electroniques-larcep-lance-une-campagne-de-controle-de-la-qualite-des-services-offerts-par-les-operateurs-de-telephonie-mobile-et-dinternet/), to verify the corrective actions ordered after the April-May control found voice and mobile-data quality deficient at all four operators, with SMS alone compliant and one operator additionally below the 4G coverage thresholds.
 
 Retail pricing moved without the tariff moving. An operator [announced a night bundle of 3.5GB for 500 FCFA usable between 23:00 and 06:00](https://fr.linkedin.com/posts/moovafricaniger_moovafricaniger-unmondenouveauvousappelle-activity-7500583380221136897-nfFf), about 143 FCFA a gigabyte and the second promotional cut in nine months. The last measured basket the repository holds is from 2023.
+
 <!-- /narrative -->
 
 ## DPI
@@ -73,6 +82,8 @@ Health data began moving between systems on its own. A national interoperability
 
 <!-- narrative: dpi--dpi-id -->
 The identification agency exists in law. It [was created by decree of 22 April 2026, with its statutes approved by a companion decree](https://www.lesahel.org/dosso-lancement-de-la-tournee-nationale-de-sensibilisation-sur-letat-civil/), and a national awareness tour is taking the civil-status and identification reforms to the regions, officially launched at Dosso on 14 August. No enrolment figure, budget or operating date for the agency is published, so what has moved is the instrument and not yet the register.
+
+The passport break with ECOWAS is complete. [Mass enrolment for the confederal biometric passport opens on 15 September at 45,000 FCFA, enrolment for the ECOWAS passport having closed on 10 September](https://nigerdiaspora.net/societe-niger/niger-lenrolement-pour-le-passeport-biometrique-aes-debute-le-15-septembre-2026).
 <!-- /narrative -->
 ### Digital Payments and Fintech
 

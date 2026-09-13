@@ -1,11 +1,11 @@
 ---
 title: Burkina Faso — monthly update, August – September 2026
-compiled: 2026-09-10
-period: 2026-08-01 to 2026-09-10
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 place: BFA
-ledger_rows: 35
+ledger_rows: 36
 not_held: 8
-record: ffc21885c46c
+record: 566dde10d5f4
 ---
 
 # Burkina Faso: monthly update, August – September 2026
@@ -26,6 +26,12 @@ Enforcement went live first. Automated traffic enforcement [started at midnight 
 
 <!-- narrative: governance--gov-policy -->
 Policy work this month was procedural rather than substantive. The digital transition ministry [held a CASEM session on what it contributes to the RELANCE 2026-2030 national plan](https://lefaso.net/spip.php?article148658). The plan text, the digital component, any budget line and any target are all unpublished, so what the record holds is that the process is running and not what it is expected to produce.
+<!-- /narrative -->
+### Legislation and regulation
+
+<!-- narrative: governance--gov-legislate -->
+
+Civil status abroad got a new legal base: the Council of Ministers [adopted a decree on 10 September replacing the 1963 rules on diplomatic and consular civil-status powers and introducing mobile consular missions](https://www.rtb.bf/2026/09/10/conseil-des-ministres-n26-du-10-septembre-2026/).
 <!-- /narrative -->
 ### Data protection
 
@@ -107,6 +113,7 @@ The regional instant-payment rail moved its deadlines rather than its coverage: 
 <!-- narrative: dpi--dpi-registry -->
 
 Civil registration is being digitised one commune at a time, and the training is the visible part. Delegated officers and transcribing agents in Pouni [were trained over 72 hours from 31 August to 2 September on smartphone configuration and real-time entry of births, marriages and deaths at central and secondary registration offices](https://www.aib.media/sanguie-pouni-des-agents-de-letat-civil-outilles-a-lutilisation-de-la-plateforme-veneem/), funded under a regional local-governance project in the 2026 budget year. Thirty communes hold fully digitised registers; no count of officers trained or acts entered through the platform is published.
+
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 

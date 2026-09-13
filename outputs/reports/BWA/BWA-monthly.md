@@ -1,11 +1,11 @@
 ---
 title: Botswana — monthly update, August – September 2026
-compiled: 2026-09-08
-period: 2026-08-01 to 2026-09-08
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 place: BWA
-ledger_rows: 33
+ledger_rows: 34
 not_held: 8
-record: 59d6e9de1379
+record: 7b36663ed508
 ---
 
 # Botswana: monthly update, August – September 2026
@@ -66,10 +66,17 @@ A published account documents a [growing digital safety problem](https://www.mme
 
 ## DPI
 
+### Data Exchange
+
+<!-- narrative: dpi--dpi-exchange -->
+
+The identity register is being opened to banks: the bankers' association [launched a national eKYC project letting banks verify customers against the national citizen database](https://www.businesstechafrica.co.za/article/botswana-launches-national-ekyc-project-to-make-bank-verification-easier), with no go-live date or data-protection arrangement stated.
+<!-- /narrative -->
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
 The credential's problem this month is forgery rather than production. The labour and home affairs ministry [is contending with a cartel producing fake identity documents](https://allafrica.com/stories/202608260258.html). That is a statement about the integrity of the Omang credential, not only about the backlog in issuing it, and the two compound each other: a slow replacement queue is what makes a forged card useful. No arrest, prosecution or volume figure is in the record held.
+
 <!-- /narrative -->
 ### Digital Payments and Fintech
 

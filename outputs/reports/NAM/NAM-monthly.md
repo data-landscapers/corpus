@@ -1,11 +1,11 @@
 ---
 title: Namibia — monthly update, August – September 2026
-compiled: 2026-09-10
-period: 2026-08-01 to 2026-09-10
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 place: NAM
 ledger_rows: 46
 not_held: 11
-record: 2c90dac46205
+record: 6c2cecaf5f4d
 ---
 
 # Namibia: monthly update, August – September 2026
@@ -38,6 +38,8 @@ The instrument the accreditation was granted under is now held in full: [General
 
 <!-- narrative: governance--gov-protect -->
 Namibia said no to a data deal. The government [rejected a United States health data and specimen-sharing proposal, citing sovereignty](https://www.namibian.com.na/us-health-deal-faces-data-privacy-backlash-in-namibia/), while the two sides [raced to finalise HIV funding talks with the data-sharing question still open](https://www.namibian.com.na/critical-moment/). A refusal of this kind is rare enough on this repository to be worth recording as its own position. What the record held does not carry is the text of what was proposed, or what the funding now depends on.
+
+Refusing to share health data had a price. After the government rejected US terms on health data and specimens, the two governments [announced that US HIV funding ends after a single US$45m year in fiscal 2027](https://healthpolicy-watch.news/us-to-phase-out-hiv-support/).
 <!-- /narrative -->
 ### Regional collaboration
 
