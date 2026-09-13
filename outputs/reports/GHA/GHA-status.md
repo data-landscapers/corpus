@@ -1,12 +1,12 @@
 ---
 title: Ghana: status report
-compiled: 2026-09-08
+compiled: 2026-09-13
 place: GHA
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 15
-sources_cited: 195
+sources_cited: 196
 sections_written: 37
 not_established: 3
 acquire_lines: 60
@@ -91,7 +91,7 @@ Against the dollar sums announced around artificial intelligence, [the ministry'
 ### Connectivity
 <!-- infra.connect -->
 
-Ghana put [eleven lots of 5G spectrum on the market on 16 July 2026 at a total reserve of US$230m](https://nca.org.gh/wp-content/uploads/2026/07/RFA_5G_Spectrum_16072026.pdf), and priced it higher for its largest operator: MTN Ghana, the [only carrier designated as holding Significant Market Power, carries a 40% premium](https://nca.org.gh/wp-content/uploads/2026/07/RFA_5G_Spectrum_16072026.pdf) lifting its reserve to US$50.4m a lot at 700 MHz and US$33.6m at 3 GHz. It follows the National Communications Authority's [deletion of the exclusivity clause from NGIC's wholesale 5G licence](https://techafricanews.com/2026/07/17/ghana-ends-ngics-exclusive-wholesale-5g-licence-to-boost-competition/) on 15 July 2026 and the [opening of applications two days later](https://techafricanews.com/2026/07/17/ghana-opens-applications-for-mobile-broadband-and-5g-spectrum-licences/), now closing [27 August 2026](https://nca.org.gh/wp-content/uploads/2026/07/NCA-Consolidated-Response-5G-RFA-2026.pdf). The obligation on those licences — 70% population coverage by 6 March 2027 — is [band- and technology-neutral, and the Authority has confirmed that for an incumbent it is capable of being met in substantial part from existing deployment](https://nca.org.gh/wp-content/uploads/2026/07/NCA-Consolidated-Response-5G-RFA-2026.pdf).
+Ghana assigned its first 5G spectrum on 11 September 2026, when [both 700 MHz lots went to MTN Ghana, the sole qualified applicant, for US$100.9m](https://nca.org.gh/2026/09/11/update-on-the-5g-spectrum-licensing-process/), from [eleven lots put on the market on 16 July 2026 at a total reserve of US$230m](https://nca.org.gh/wp-content/uploads/2026/07/RFA_5G_Spectrum_16072026.pdf), priced higher for the largest operator: MTN Ghana, the [only carrier designated as holding Significant Market Power, carries a 40% premium](https://nca.org.gh/wp-content/uploads/2026/07/RFA_5G_Spectrum_16072026.pdf) lifting its reserve to US$50.4m a lot at 700 MHz and US$33.6m at 3 GHz. It follows the National Communications Authority's [deletion of the exclusivity clause from NGIC's wholesale 5G licence](https://techafricanews.com/2026/07/17/ghana-ends-ngics-exclusive-wholesale-5g-licence-to-boost-competition/) on 15 July 2026 and the [opening of applications two days later](https://techafricanews.com/2026/07/17/ghana-opens-applications-for-mobile-broadband-and-5g-spectrum-licences/), which closed on [27 August 2026](https://nca.org.gh/wp-content/uploads/2026/07/NCA-Consolidated-Response-5G-RFA-2026.pdf). The obligation on those licences — 70% population coverage by 6 March 2027 — is [band- and technology-neutral, and the Authority has confirmed that for an incumbent it is capable of being met in substantial part from existing deployment](https://nca.org.gh/wp-content/uploads/2026/07/NCA-Consolidated-Response-5G-RFA-2026.pdf).
 
 Reach is not the constraint. [3G and 4G population coverage both exceed 99%](https://www.gsma.com/about-us/regions/africa/wp-content/uploads/2025/09/GSMA_Ghana-Report_September-2025.pdf), the best in West Africa, while [just under 70% of Ghanaians used the internet](https://data.worldbank.org/indicator/IT.NET.USER.ZS) in 2023 and [about 21m people, some 60% of the population, are unique mobile users](https://www.gsma.com/about-us/regions/africa/wp-content/uploads/2025/09/GSMA_Ghana-Report_September-2025.pdf) (2025) against [116.84% SIM penetration](https://nca.org.gh/wp-content/uploads/2025/05/Q3-2024-Statistical-Bulletin-Third-Quarter-Volume-9-Isuue-3.pdf) in the regulator's Q3 2024 returns. Most of the largest operator's subscribers are [still not on 4G — 48% at 30 June 2026, below both smaller rivals](https://www.connectingafrica.com/5g-networks/ghana-extends-5g-spectrum-license-application-deadline).
 
