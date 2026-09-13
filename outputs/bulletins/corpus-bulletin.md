@@ -1,10 +1,10 @@
 ---
 type: bulletin
 title: Bulletin
-subtitle: Last updated 13-09-2026 at 01:01 — Covering sources published on 12 September 2026
+subtitle: Last updated 13-09-2026 at 01:01 — Covering sources published on 12 and 13 September 2026
 window_start: 2026-09-12
 window_end: 2026-09-13
-items: 27
+items: 28
 collected_to: 2026-09-13 01:01
 compiled: 2026-09-13 01:40
 ---
@@ -44,8 +44,11 @@ compiled: 2026-09-13 01:40
 </optgroup>
 <optgroup label="Countries">
 <option value="DZA">Algeria</option>
+<option value="AGO">Angola</option>
 <option value="CIV">Côte d'Ivoire</option>
+<option value="COD">DRC</option>
 <option value="EGY">Egypt</option>
+<option value="GMB">Gambia</option>
 <option value="GHA">Ghana</option>
 <option value="GIN">Guinea</option>
 <option value="KEN">Kenya</option>
@@ -53,6 +56,7 @@ compiled: 2026-09-13 01:40
 <option value="MAR">Morocco</option>
 <option value="NGA">Nigeria</option>
 <option value="SEN">Senegal</option>
+<option value="SLE">Sierra Leone</option>
 <option value="SOM">Somalia</option>
 <option value="ZAF">South Africa</option>
 <option value="TUN">Tunisia</option>
@@ -235,6 +239,14 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 ## ICT Infrastructure
 
 ### Connectivity
+
+<div class="bulletin-item" data-places="GMB SLE AGO COD" markdown="1">
+
+**[Investors - Africell](https://www.africell.com/investors/)** — Africell, 13 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GMB/" title="GMB">Gambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SLE/" title="SLE">Sierra Leone</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/AGO/" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/COD/" title="COD">DRC</a>
+
+The operator's investor page lists four markets — The Gambia, Sierra Leone, Angola and the Democratic Republic of Congo — with more than 14 million subscribers, more than 2,500 towers and revenue above US$400m. Its US$360m of 10.5% senior secured notes mature in October 2029. <span class="bulletin-item__also">*Also under [ICT Industry](#ict-industry).*</span>
+
+</div>
 
 <div class="bulletin-item" data-places="XGL" markdown="1">
 
@@ -567,6 +579,14 @@ Summarised under [Registries](#registries).
 **[Why a $103,000 US visa tax might be the best thing to happen to Africa's tech ecosystem](https://techcabal.com/2026/09/12/digital-nomads-h-1b-visa/)** — TechCabal, 12 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
 
 A TechCabal analysis argues that a proposed US$103,265 H-1B fee and a wage-weighted visa lottery, put forward by the US Department of Homeland Security, will make distributed teams in Lagos, Nairobi and Cape Town cheaper for American firms than hiring through the visa route. It is an opinion piece on a proposal, not a rule in force. <span class="bulletin-item__also">*Also under [Training and skills](#training-and-skills) and [US / hyperscaler activities](#us-hyperscaler-activities).*</span>
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="GMB SLE AGO COD" markdown="1">
+
+**[Investors - Africell](https://www.africell.com/investors/)** — Africell, 13 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GMB/" title="GMB">Gambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SLE/" title="SLE">Sierra Leone</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/AGO/" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/COD/" title="COD">DRC</a>
+
+Summarised under [Connectivity](#connectivity).
 
 </div>
 
