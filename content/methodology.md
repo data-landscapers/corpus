@@ -19,8 +19,8 @@ The aim of Corpus is to provide a fast-track information service for researchers
 
 - **Architecture**
   Corpus is built by two networked machines.
-	- The first is responsible for data collection and classification. Its repository is private because it holds the full text of documents; its procedures, scripts and vocabularies are published at https://github.com/data-landscapers/osint-process. 
-	- The second is responsible for summarising content and keeping reports and datasets up to date. Its repository is available at https://github.com/data-landscapers/corpus. 
+	- The first is responsible for data collection and classification. Its repository is private because it holds the full text of documents; its processes are public ([see below](#open-repositories)). 
+	- The second is responsible for summarising content and keeping reports and datasets up to date. Its repository is public. 
 	- Each machine reviews the work of the other and automatically exchanges and implements actionable notes 
 - **Technology**
 	  - Search and fetch is managed by [Exa](https://exa.ai/)
@@ -28,7 +28,7 @@ The aim of Corpus is to provide a fast-track information service for researchers
 	  - All process instructions are written in markdown and managed by Obsidian
 ## Data collection
 
-The data collection machine runs a nightly sweep cycle which consists of a standard daily search and fetch and (currently) one of 2 focused searches that repeat every second day. Most of the searches are defined by lookup lists that can be altered without
+The data collection machine runs a nightly sweep cycle which consists of a standard daily search and fetch and (currently) one of 2 focused searches that repeat every second day. Most of the searches are defined by lookup lists that can be altered without changing any code.
 
 - **Daily**
   Searches for items published in at least the past 24 hours, and back to the end of the previous run where that is longer, for:
@@ -86,4 +86,34 @@ The non-state finance dataset aims at a claim nobody else supports well: an inte
 - **A published file is never silently revised.** Reports and datasets are issued as dated editions. A correction is a new edition with its own date stating what changed and why; the record it corrects remains on the record.
 - **Capture is not endorsement.** Holding a document, or profiling an organisation, implies no view of either.
 
+## Open repositories
 
+Everything except the text of the documents is public.
+
+- **[data-landscapers/osint-process](https://github.com/data-landscapers/osint-process)**
+  The collection side: every sweep, ingest and lint procedure, the scripts, the vocabularies and source lists, and the specifications for classification and finance records. Exported nightly from the private repository.
+- **[data-landscapers/corpus](https://github.com/data-landscapers/corpus)**
+  The publishing side: the scripts that build every report and dataset, the page text and the design record.
+- **Not published**
+  The full text of documents (copyright), the compiled evidence pages behind the reports, and operational logs.
+
+Code is MIT-licensed. Reports and datasets are [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+## Collaboration
+
+Corpus gets better with people who know a country, a sector or a source.
+
+- **Corrections**
+  Every page has a feedback link. A wrong date, a misread law or a finance record that fails the five-fact test is the most useful thing to send.
+- **Sources**
+  Tell us about newspapers, regulators, gazettes, journals or financiers missing from the [lookup lists](lookups/), or send primary documents we lack.
+- **Depth**
+  Coverage follows active work. A partner on a country, sector or set of indicators deepens that part of the base.
+- **Budgets**
+  National budget, expenditure and audit data is the largest open piece of work.
+- **Taxonomy**
+  If the topics or indicators miss something that matters, say so.
+- **Reuse**
+  The method is not specific to Africa. Both repositories are there to build on.
+
+Start with an email to [info@data-landscapers.io](mailto:info@data-landscapers.io), not a pull request. Both repositories are rebuilt automatically, so a direct change is overwritten.

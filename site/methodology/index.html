@@ -86,8 +86,8 @@
       <ul>
       <li><strong>Architecture</strong><br />
         Corpus is built by two networked machines.<ul>
-      <li>The first is responsible for data collection and classification. Its repository is private because it holds the full text of documents; its procedures, scripts and vocabularies are published at https://github.com/data-landscapers/osint-process. </li>
-      <li>The second is responsible for summarising content and keeping reports and datasets up to date. Its repository is available at https://github.com/data-landscapers/corpus. </li>
+      <li>The first is responsible for data collection and classification. Its repository is private because it holds the full text of documents; its processes are public (<a href="#open-repositories">see below</a>). </li>
+      <li>The second is responsible for summarising content and keeping reports and datasets up to date. Its repository is public. </li>
       <li>Each machine reviews the work of the other and automatically exchanges and implements actionable notes </li>
       </ul>
       </li>
@@ -99,7 +99,7 @@
       </li>
       </ul>
       <h2 id="data-collection">Data collection</h2>
-      <p>The data collection machine runs a nightly sweep cycle which consists of a standard daily search and fetch and (currently) one of 2 focused searches that repeat every second day. Most of the searches are defined by lookup lists that can be altered without</p>
+      <p>The data collection machine runs a nightly sweep cycle which consists of a standard daily search and fetch and (currently) one of 2 focused searches that repeat every second day. Most of the searches are defined by lookup lists that can be altered without changing any code.</p>
       <ul>
       <li><strong>Daily</strong><br />
         Searches for items published in at least the past 24 hours, and back to the end of the previous run where that is longer, for:<ul>
@@ -164,6 +164,34 @@
       <li><strong>A published file is never silently revised.</strong> Reports and datasets are issued as dated editions. A correction is a new edition with its own date stating what changed and why; the record it corrects remains on the record.</li>
       <li><strong>Capture is not endorsement.</strong> Holding a document, or profiling an organisation, implies no view of either.</li>
       </ul>
+      <h2 id="open-repositories">Open repositories</h2>
+      <p>Everything except the text of the documents is public.</p>
+      <ul>
+      <li><strong><a href="https://github.com/data-landscapers/osint-process" target="_blank" rel="noopener">data-landscapers/osint-process</a></strong><br />
+        The collection side: every sweep, ingest and lint procedure, the scripts, the vocabularies and source lists, and the specifications for classification and finance records. Exported nightly from the private repository.</li>
+      <li><strong><a href="https://github.com/data-landscapers/corpus" target="_blank" rel="noopener">data-landscapers/corpus</a></strong><br />
+        The publishing side: the scripts that build every report and dataset, the page text and the design record.</li>
+      <li><strong>Not published</strong><br />
+        The full text of documents (copyright), the compiled evidence pages behind the reports, and operational logs.</li>
+      </ul>
+      <p>Code is MIT-licensed. Reports and datasets are <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a>.</p>
+      <h2 id="collaboration">Collaboration</h2>
+      <p>Corpus gets better with people who know a country, a sector or a source.</p>
+      <ul>
+      <li><strong>Corrections</strong><br />
+        Every page has a feedback link. A wrong date, a misread law or a finance record that fails the five-fact test is the most useful thing to send.</li>
+      <li><strong>Sources</strong><br />
+        Tell us about newspapers, regulators, gazettes, journals or financiers missing from the <a href="lookups/">lookup lists</a>, or send primary documents we lack.</li>
+      <li><strong>Depth</strong><br />
+        Coverage follows active work. A partner on a country, sector or set of indicators deepens that part of the base.</li>
+      <li><strong>Budgets</strong><br />
+        National budget, expenditure and audit data is the largest open piece of work.</li>
+      <li><strong>Taxonomy</strong><br />
+        If the topics or indicators miss something that matters, say so.</li>
+      <li><strong>Reuse</strong><br />
+        The method is not specific to Africa. Both repositories are there to build on.</li>
+      </ul>
+      <p>Start with an email to <a href="mailto:info@data-landscapers.io">info@data-landscapers.io</a>, not a pull request. Both repositories are rebuilt automatically, so a direct change is overwritten.</p>
     </article>
 
     <div class="colophon">
