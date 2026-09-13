@@ -73,6 +73,13 @@ in prose. Prose checks get run when someone remembers:
   - **title** — an all-ASCII title whose own body carries the accented form of
     its words is a transliteration this run did, not orthography the source
     lacked, and the body is the evidence for the repair.
+  - **flat** — a French or Portuguese body carrying almost no accented letters
+    is itself a transliteration, and `title` cannot see it: that check repairs a
+    title *from* the body, so a flattened body gives it nothing to compare
+    against and it passes in silence *(OSINT `notes-for-corpus` 27, 2026-09-13:
+    20 such bodies reached `raw/`)*. An intact body in either language carries
+    about 29 to 34 accented letters per 1,000 characters and a flattened one
+    0.0 to 0.3, with nothing between, so a floor of 5 is not a tuning choice.
 
 **Nothing is fixed.** Every finding here is a judgement about which of two things
 is wrong — repair the title or leave it, refetch the body or delete the file —
@@ -85,7 +92,7 @@ Usage:  python scripts/lint-staged-queue.py [PATH ...] [--checks LIST]
         PATH           a directory (walked for *.md) or a single file; each
                        directory is scored as its own batch, since the batch is
                        what makes a token common and what a crossing pairs within
-        --checks       comma-separated from url,body,date,yaml,title (default all)
+        --checks       comma-separated from url,body,date,yaml,title,flat (default all)
         --common F     drop title tokens occurring in more than this fraction of
                        the batch's bodies (default 0.40; ignored under 20 files)
         --min-title F  a title scoring at or above this fraction on its own body
@@ -104,7 +111,7 @@ except ImportError:  # the yaml check is the only thing that needs it
     yaml = None
 
 NEW_QUEUE = os.path.join(EXCHANGE, "new-queue")
-ALL_CHECKS = ("url", "body", "date", "yaml", "title")
+ALL_CHECKS = ("url", "body", "date", "yaml", "title", "flat")
 
 # Tokens that carry no evidence anywhere, whatever the batch's own frequencies
 # say. Kept short on purpose: `--common` is the real filter and it calibrates
@@ -568,6 +575,41 @@ def check_title(docs: list[Doc]) -> list[tuple[str, str, list[str]]]:
     return findings
 
 
+# Function words that survive flattening, so they identify the language of a body
+# whose accents are gone. Counted as whole words, lower-cased.
+FR_WORDS = {"les", "des", "une", "pour", "dans", "sur", "par", "est", "aux", "qui", "avec", "sont"}
+PT_WORDS = {"dos", "das", "uma", "para", "com", "pelo", "pela", "nao", "sao", "ao", "aos", "seu"}
+FLAT_FLOOR = 5.0       # accented letters per 1,000 characters
+FLAT_MIN_CHARS = 2000  # below this a body is too short to measure
+
+
+def check_flat(docs: list[Doc]) -> list[tuple[str, str, list[str]]]:
+    """A French or Portuguese body with almost no accented letters in it."""
+    findings = []
+    for d in docs:
+        body = d.body
+        if len(body) < FLAT_MIN_CHARS:
+            continue
+        words = re.findall(r"[^\W\d_]+", deaccent(body).lower(), re.UNICODE)
+        if len(words) < 300:
+            continue
+        fr = sum(1 for w in words if w in FR_WORDS) / len(words)
+        pt = sum(1 for w in words if w in PT_WORDS) / len(words)
+        if max(fr, pt) < 0.03:
+            continue                            # not French or Portuguese
+        accented = sum(1 for c in body if c.isalpha() and not c.isascii()
+                       and any(unicodedata.combining(x) for x in unicodedata.normalize("NFD", c)))
+        density = 1000.0 * accented / len(body)
+        if density < FLAT_FLOOR:
+            lang = "French" if fr >= pt else "Portuguese"
+            findings.append((
+                "FLAT", d.path,
+                [f"{lang} body carries {density:.1f} accented letters per 1,000 characters "
+                 f"(intact bodies carry about 30): transliterated at capture, refetch it"],
+            ))
+    return findings
+
+
 def walk(path: str) -> list[str]:
     if os.path.isfile(path):
         return [path]
@@ -639,6 +681,8 @@ def main() -> int:
             findings += check_yaml(docs)
         if "title" in checks:
             findings += check_title(docs)
+        if "flat" in checks:
+            findings += check_flat(docs)
 
         print(f"{label} — {len(docs)} file(s)"
               + (f", {len(bad_reads)} unreadable" if bad_reads else ""))
@@ -646,7 +690,7 @@ def main() -> int:
             print("  clean")
             continue
         order = {"MISFILED": 0, "CROSSED": 1, "SUSPECT": 2,
-                 "YAML": 3, "DATE": 4, "TITLE": 5}
+                 "YAML": 3, "DATE": 4, "TITLE": 5, "FLAT": 6}
         for sev, path, lines in sorted(findings, key=lambda f: (order[f[0]], f[1])):
             found += 1
             print(f"  {sev}  {os.path.basename(path) if path else '(batch)'}")

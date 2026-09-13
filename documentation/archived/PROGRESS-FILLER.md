@@ -93,12 +93,13 @@ Each gap gets **two Exa Agent briefs** (`agent_run`, `effort: "medium"`): a natu
 
 **The split is by brief, and one document goes in one folder.** A document selected as anyone's baseline is staged under `baseline\`, even where other indicators took it as progress — **baseline wins**, because the baseline layer is what a thin week should carry first, and the selected register still records the document under every indicator that chose it. The dedup at §4 and the merge at §6 work **across the pair**; and the batch is splittable by construction — §7's scheduling is a folder move.
 
-**Four staging checks run as one command — `python scripts/lint-staged-queue.py`, over `new-queue/` or one folder — and §8 makes it a step rather than a memory:**
+**Five staging checks run as one command — `python scripts/lint-staged-queue.py`, over `new-queue/` or one folder — and §8 makes it a step rather than a memory:**
 
 - **A body must belong to its own frontmatter.** A crossed file carries a correct `url:`, filename and frontmatter over another item's verbatim body — invisible to every URL check — and its `note:`, written from the body, is then a finding derived from the wrong document under a citation that checks out. The check is exact where the capture wrote its own `URL:` line into the body, structural otherwise (title tokens, `url:` host and `publisher:`, the body's opening heading). §6 has the cause and the prevention.
 - **The date prefix is padded, never partial** — year only takes `YYYY-01-01`, month only `YYYY-MM-01`, `date_precision` carries the truth. A partial prefix sorts wrongly and does not shard.
 - **`note:` must be a quoted scalar** — an unquoted value containing `": "` does not parse. Round-trip every staged file through a YAML parser; zero hits is the check working.
 - **A title must carry the source's own orthography.** An ASCII-transliterated title over a correct-UTF-8 body is a staging fault, and most are recoverable without a refetch: rewrite the title from a line in its own body that de-accents to exactly the same string, guarding against all-caps PDF headers.
+- **A body must carry its own orthography too** *(added 2026-09-13, `notes-for-corpus` 27)*. The title check repairs a title *from* the body, so a body flattened at capture gives it nothing to compare against and passes in silence; 20 such bodies reached `raw/`. Check `flat` flags a French or Portuguese body under 5 accented letters per 1,000 characters, where intact ones carry about 30. The only repair is a refetch.
 
 ## 5a. What ingest found — read this before staging another batch
 
