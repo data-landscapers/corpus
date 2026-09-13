@@ -1,11 +1,11 @@
 ---
 title: Congo — monthly update, August – September 2026
-compiled: 2026-09-10
-period: 2026-08-01 to 2026-09-10
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 place: COG
-ledger_rows: 25
+ledger_rows: 26
 not_held: 6
-record: c1acc9d63993
+record: 6246960756b0
 ---
 
 # Congo: monthly update, August – September 2026
@@ -31,6 +31,8 @@ The education ministry's digital roadmap [was validated at a Brazzaville worksho
 
 <!-- narrative: governance--gov-regional -->
 The broadcasting regulator and its counterpart across the river [signed a memorandum formalising their partnership after two days of work on 19 and 20 August](https://www.adiac-congo.com/content/medias-le-csac-et-le-cslc-formalisent-leur-partenariat-institutionnel-171340). No text, scope or commencement is published, so what the repository holds is that two regulators have agreed to cooperate.
+
+A seminar with the DRC [closed with a Brazzaville Declaration urging digitalised migration and customs procedures along the 2,400km border](https://www.groupecongomedias.com/congo-rdc-mobilite-transfrontaliere-brazzaville-jette-les-bases-dun-nouvel-espace-commun/); it binds neither government.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 

@@ -1,11 +1,11 @@
 ---
 title: Seychelles — monthly update, August – September 2026
-compiled: 2026-09-06
-period: 2026-08-01 to 2026-09-06
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 place: SYC
-ledger_rows: 19
+ledger_rows: 21
 not_held: 6
-record: ff535142f167
+record: ff45ea7a6e43
 ---
 
 # Seychelles: monthly update, August – September 2026
@@ -26,6 +26,8 @@ The rest is institutional. The national science, technology and innovation insti
 
 <!-- narrative: governance--gov-policy -->
 Cabinet approved measures to operationalise the Multidimensional Vulnerability Index on 22 July 2026, naming "enhanced data and institutional capacity" and alignment of planning and budgeting frameworks as the instruments, with no implementation detail yet given. [President Herminie restated a "fully digitalised e-government by 2030" target on 4 August](https://statehouse.gov.sc/news/7165/president-herminie-receives-credentials-from-maltas-first-high-commissioner-to-seychelles), while receiving Malta's first High Commissioner's credentials and naming bilateral technical cooperation as the route under discussion. On 10 August the institution meant to carry that work was described as back in place: [the National Institute for Science, Technology and Innovation has been reinstated, its Secretariat sitting under the Office of the Vice-President](https://statehouse.gov.sc/news/7184/president-herminie-science-technology-and-innovation-belong-at-the-centre-of-a-people-centred-society) after five years in which it was closed and its functions folded into a ministry division. Its Secretary of State puts its near-term focus on technological innovation in government procedures and on accelerating the digitalisation of public-service delivery. No commencement notice for the NISTI Act 2025 is on record, so the body is described as functioning without the statute behind it being shown to be in force.
+
+Cabinet [approved a Digital Economic Transformation Forum on 9 September to agree a national digital architecture and pilots](https://www.statehouse.gov.sc/cabinet-decisions/7247/cabinet-business-wednesday-09th-september-2026), the nearest thing to a plan the repository holds.
 <!-- /narrative -->
 ### Data protection
 
@@ -58,10 +60,17 @@ That survey, fielded in 2025, finds [45% of Seychellois calling the media somewh
 <!-- narrative: dpi--dpi-exchange -->
 The corridor Seychelles had a memorandum for was signed with somebody else. The AfCFTA Secretariat and Quest Ghana [signed a joint venture agreement in Accra on 31 August to establish the AfCFTA Digital Trade Corridor, to facilitate, track and settle cross-border trade transactions](https://www.citinewsroom.com/2026/08/afcfta-quest-ghana-sign-deal-to-establish-digital-trade-corridor/) — the same secretariat and the same company as the Seychelles memorandum of March, which remains under review. The corridor is proceeding, and it is proceeding through Accra. Nothing in the record held says whether the Seychelles arrangement is superseded, subsumed or simply waiting.
 <!-- /narrative -->
+### Digital Payments and Fintech
+
+<!-- narrative: dpi--dpi-pay -->
+
+The social protection registry gained a use: [an agreement signed in September puts post-disaster cash transfers on its beneficiary registry and payment rails](https://nation.sc/articles/32242/seychelles-signs-cash-transfer-pact-to-boost-climate-preparedness), with no value or trigger stated.
+<!-- /narrative -->
 ### Registries
 
 <!-- narrative: dpi--dpi-registry -->
 The land register moved a step further into the announced-but-not-delivered category it has occupied since 2024. The Registration Division [said a new land search system was coming soon, on a page that serves only a truncated teaser](https://registrationdivision.gov.sc/exciting-update-new-land-searchsystem-coming-soon-to-seychelles/), nearly two years after the lands and ICT departments [tendered for a Land Management Administration Information System interfacing with the population database, the digital identity, Immigration and the Division itself, on a nine-month delivery from award](https://www.pou.gov.sc/tenders/consultancies/1275-design-and-development-of-the-land-management-administration-information-system-lmais). No award, commissioning or completion statement for either is held.
+
 <!-- /narrative -->
 ### Sectoral management information systems
 

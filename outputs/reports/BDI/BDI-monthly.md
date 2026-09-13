@@ -1,11 +1,11 @@
 ---
 title: Burundi — monthly update, August – September 2026
-compiled: 2026-09-10
-period: 2026-08-01 to 2026-09-10
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 place: BDI
 ledger_rows: 35
 not_held: 15
-record: db346bf18148
+record: 5d194733f248
 ---
 
 # Burundi: monthly update, August – September 2026

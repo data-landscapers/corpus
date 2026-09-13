@@ -1,11 +1,11 @@
 ---
 title: Togo — monthly update, August – September 2026
-compiled: 2026-09-10
-period: 2026-08-01 to 2026-09-10
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 place: TGO
 ledger_rows: 49
 not_held: 22
-record: 78a089a44f75
+record: c9b635379411
 ---
 
 # Togo: monthly update, August – September 2026
@@ -115,6 +115,8 @@ Both sit on a system the repository can now describe: [DHIS2 has been the health
 One procedure came off paper. The council of ministers [adopted a decree on 26 August amending the investment-approval committee so that the approval procedure is handled electronically](https://www.republiquetogolaise.tg/gestion-publique/2708-12211-conseil-des-ministres-du-26-aout-2026). The ministry the same week [set out accelerating reforms across governance, land and digital, naming cyberdefence and biometrics](https://www.republicoftogo.com/toutes-les-rubriques/eco-finance/gouvernance-foncier-numerique-les-reformes-accelerent). Neither account carries a timetable or a cost.
 
 The transit-tracking system took on a new cargo type: the revenue office [opened a Lome pilot on 1 September extending electronic tracking to trucks carrying petroleum products in transit to Burkina Faso, Mali and Niger](https://www.togofirst.com/en/public-finance/0209-19934-togo-pilots-electronic-tracking-for-petroleum-transit-cargo), under a system operational since October 2022. No device count, cost or evaluation criterion is published.
+
+The public-services portal [moved to a modernised version in September that keeps existing logins and past requests, after handling more than 400,000 requests in 2024](https://lomebougeinfo.tg/modernisation-du-portail-des-services-publics-togolais/).
 <!-- /narrative -->
 
 ## Digitalisation

@@ -1,11 +1,11 @@
 ---
 title: Mauritania — monthly update, August – September 2026
-compiled: 2026-09-10
-period: 2026-08-01 to 2026-09-10
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 place: MRT
 ledger_rows: 19
 not_held: 4
-record: 4a49a23e6691
+record: 8b3a1a270680
 ---
 
 # Mauritania: monthly update, August – September 2026

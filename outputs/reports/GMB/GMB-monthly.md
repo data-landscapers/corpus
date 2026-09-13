@@ -1,11 +1,11 @@
 ---
 title: Gambia — monthly update, August – September 2026
-compiled: 2026-09-08
-period: 2026-08-01 to 2026-09-08
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 place: GMB
 ledger_rows: 49
 not_held: 4
-record: 92af307ae173
+record: 1bf1509ff284
 ---
 
 # Gambia: monthly update, August – September 2026
@@ -68,6 +68,8 @@ Four days later the revenue authority [published a 2026 target of D27.5 billion]
 
 <!-- narrative: ict-infrastructure--infra-connect -->
 The country renumbered its mobile network. [The transition to nine-digit numbers began on 4 September 2026, existing numbers taking a two-digit operator prefix — 87 for Africell, 83 for QCell and 86 for Comium](https://thepoint.gm/africa/gambia/headlines/pura-gambia-transitions-to-9-digit-mobile-numbers-today); [Gamcel numbers are not affected in this phase and keep their seven digits](https://thepoint.gm/africa/gambia/headlines/pura-gambia-transitions-to-9-digit-mobile-numbers-today). The numbering plan instrument is not published, and nothing states when the deferred operator joins.
+
+The number change has a legal base and an end date. The regulator's [National Numbering Plan 2026 took effect on 3 September](https://pura.gm/wp-content/uploads/2026/09/scan0001_compressed.pdf) with [a migration framework of eight readiness gates and rollback states](https://pura.gm/wp-content/uploads/2026/09/The-Gambia-National-Numbering-Plan-Migration-Governance-and-Go-Live-framework-2026-1-1.pdf), and [seven-digit numbers retire permanently on 28 February 2027](https://thepoint.gm/africa/gambia/headlines/gambia-opens-new-chapter-in-digital-growth-with-nine-digit-numbering-system).
 <!-- /narrative -->
 ### Data Storage
 

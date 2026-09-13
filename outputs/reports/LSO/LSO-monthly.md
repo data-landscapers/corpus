@@ -1,11 +1,11 @@
 ---
 title: Lesotho — monthly update, August – September 2026
-compiled: 2026-09-08
-period: 2026-08-01 to 2026-09-08
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 place: LSO
-ledger_rows: 28
+ledger_rows: 29
 not_held: 4
-record: adb0713d36f7
+record: b8a9aaee3d6c
 ---
 
 # Lesotho: monthly update, August – September 2026
@@ -31,6 +31,12 @@ The month's policy work is a strategy being drafted rather than one adopted. A [
 
 <!-- narrative: governance--gov-legislate -->
 No instrument was made, gazetted or brought into force in this window. [Reporting of the CSIRT launch](https://itweb.africa/article/lesotho-steps-up-national-cyber-security/Pero3qZ3J4jvQb6m) discloses that the Computer Crime and Cybersecurity Bill has been split into a Cybercrime Bill and a Cybersecurity Bill, both awaiting National Assembly approval, and the ministerial reference to a national cybersecurity strategy that the wiki does not hold.
+<!-- /narrative -->
+### Regional collaboration
+
+<!-- narrative: governance--gov-regional -->
+
+The border is to be digitised from both sides: the Bi-National Commission's mid-term review [agreed to accelerate smart one-stop border posts at Maseru and Ficksburg](https://www.africa-newsroom.com/press/lesothosouth-africa-binational-commission-bnc-midterm-review-concludes-in-pretoria?lang=en), with no design or date published.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 
@@ -89,6 +95,7 @@ A sector got its own register. Lesotho [launched a National Farmers Portal, plac
 
 <!-- narrative: dpi--dpi-mis -->
 The national commission [advertised a consultancy to strengthen its capacity to coordinate national monitoring and evaluation reporting](https://selibeng.com/consultant-to-strengthen-nac-capacity-to-coordinate-national-me-reporting/). A tender for the capacity to coordinate reporting is itself a statement that the reporting is not coordinated; no scope, budget or deliverable date is published.
+
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 

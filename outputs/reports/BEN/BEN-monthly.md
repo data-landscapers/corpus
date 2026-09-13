@@ -1,11 +1,11 @@
 ---
 title: Benin — monthly update, August – September 2026
-compiled: 2026-09-10
-period: 2026-08-01 to 2026-09-10
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 place: BEN
-ledger_rows: 30
+ledger_rows: 31
 not_held: 4
-record: b9050aeefa08
+record: d654821f85d7
 ---
 
 # Benin: monthly update, August – September 2026
@@ -79,6 +79,8 @@ The month's one figure for how exposed the country is came from a vendor rather 
 The exchange [recorded more than 138 million requests in total](https://statistiques.xroad.bj/), 32.7m in the preceding thirty days, across 73 members, 176 information systems and 512 services.
 
 A second kind of data exchange entered the record in August, and it is regional rather than national. The BIC-UEMOA credit information bureau held its first Cotonou data forum on 23 July, [reported on 13 August](https://www.lanation.bj/economie/1er-cafe-des-donnees-du-bic-uemoa-a-cotonou-la-qualite-des-informations-au-coeur-des-travaux), with the finance ministry framing data quality as the route to cutting credit-approval turnaround to 48 hours. The bureau spans all eight union states with 321 data providers, about 48 million contracts and more than 20 million active borrowers. The figures are the operator's own and union-wide; nothing Benin-specific — coverage, dispute rate or the data-protection basis for the file — is held.
+
+At the busiest land border, the systems gap was named on the record: Nigeria's customs chief [told a joint assessment at Seme-Krake that the two administrations work under one roof but not on one system, and offered real-time exchange of declarations, manifests and risk alerts](https://tribuneonlineng.com/nigeria-benin-republic-move-to-close-trade-gaps-at-seme-border/). Benin's reply is not reported.
 <!-- /narrative -->
 ### Digital Identity and CRVS
 

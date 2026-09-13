@@ -1,11 +1,11 @@
 ---
 title: Djibouti — monthly update, August – September 2026
-compiled: 2026-09-10
-period: 2026-08-01 to 2026-09-10
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 place: DJI
 ledger_rows: 18
 not_held: 11
-record: 0c264bb839fb
+record: 9ba5340aba66
 ---
 
 # Djibouti: monthly update, August – September 2026
@@ -71,6 +71,8 @@ The LinkWise interview of 23 July also [named a cross-border data corridor linki
 The national AI strategy that has been in preparation since January acquired a launch date, a shape and then a forum. Djibouti's first national artificial-intelligence forum [opened at the Palais du Peuple on the morning of 2 September under the President's patronage](https://www.lanation.dj/premier-forum-national-sur-lintelligence-artificielle-djibouti-prend-le-virage-de-la-revolution-technologique/); the strategy was [set for official launch there](https://www.lanation.dj/premier-forum-djiboutien-sur-lintelligence-artificielle-un-pari-sur-la-souverainete-numerique/), carried by the digital economy ministry and the Secretariat General of the Government with UNESCO and UN ESCWA support, and runs to 2032 on eight axes: ethical AI governance, data and digital infrastructure, education and human capital, economy and employment, social inclusion and gender, strategic sectors, responsible technological infrastructure, and international cooperation. The ministry [convened cross-ministerial focal points on 15 August](https://www.techreviewafrica.com/news/6777/djibouti-intensifies-preparations-for-national-artificial-intelligence-forum) to coordinate it. Whether the text was in fact launched at the forum is not yet on the record.
 
 The forum will also present the national readiness assessment behind the strategy, which puts Djibouti at [24.5 out of 100 on AI readiness against an ICT development index of 61.6](https://www.lanation.dj/premier-forum-djiboutien-sur-lintelligence-artificielle-un-pari-sur-la-souverainete-numerique/) — the gap the strategy is written against, and one the account attributes to the submarine cables landing in Djibouti and the data centres built around them. Neither the assessment report nor the strategy text is held.
+
+The strategy now has a shape: [the first national AI strategy, for 2026-2030, was presented on six axes - governance, cybersecurity, training, research, innovation and inclusion](https://lobservateur.info/article/119465/covid-19/intelligence-artificielle-djibouti-lance-sa-premiere-strategie-nationale). Its text is not published.
 <!-- /narrative -->
 
 ## Capacity

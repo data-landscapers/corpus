@@ -1,11 +1,11 @@
 ---
 title: South Sudan — monthly update, August – September 2026
-compiled: 2026-09-10
-period: 2026-08-01 to 2026-09-10
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 place: SSD
-ledger_rows: 36
+ledger_rows: 37
 not_held: 12
-record: 24624aa7f811
+record: 995f7a73ee6e
 ---
 
 # South Sudan: monthly update, August – September 2026
@@ -43,6 +43,8 @@ There is still no data protection authority, and the communications regulator ca
 
 <!-- narrative: governance--gov-regional -->
 The one regional move in the window is a pledge without a workplan. On 12 August the minister [visited the African Telecommunications Union's Nairobi headquarters and pledged deeper collaboration on infrastructure, capacity building and standardisation](https://techreviewafrica.com/news/6713/south-sudan-pledges-stronger-collaboration-with-atu-on-digital-infrastructure-and-capacity-building). No workplan, contribution or membership status is stated, and it sits alongside the payment-system bill validated the same month with East African Community and Bank of Uganda backing — the substantive regional support in this record runs through that bill rather than through the union.
+
+South Sudan and Uganda [signed a memorandum in Juba for real-time epidemiological data sharing, mutual outbreak notification and joint surveillance at the border](https://www.radiotamazuj.org/en/news/article/south-sudan-uganda-sign-agreement-on-cross-border-health-security), with no platform named.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 

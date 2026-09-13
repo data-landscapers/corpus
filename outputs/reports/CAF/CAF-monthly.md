@@ -1,11 +1,11 @@
 ---
 title: Central African Republic — monthly update, August – September 2026
-compiled: 2026-09-10
-period: 2026-08-01 to 2026-09-10
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 place: CAF
 ledger_rows: 16
 not_held: 5
-record: f47fee5f96b1
+record: e98f3aef61d8
 ---
 
 # Central African Republic: monthly update, August – September 2026

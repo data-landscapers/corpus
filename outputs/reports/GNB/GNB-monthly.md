@@ -1,11 +1,11 @@
 ---
 title: Guinea-Bissau — monthly update, August – September 2026
-compiled: 2026-09-08
-period: 2026-08-01 to 2026-09-08
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 place: GNB
-ledger_rows: 5
+ledger_rows: 6
 not_held: 2
-record: 0d95b8cec2b8
+record: e8131354fb96
 ---
 
 # Guinea-Bissau: monthly update, August – September 2026
@@ -32,11 +32,18 @@ The national digitalisation programme [launched nationally in August, at US$60m,
 
 <!-- narrative: dpi--dpi-exchange -->
 [The government approved a national interoperability regulation](https://pt.linkedin.com/posts/wardip-guin%C3%A9-bissau_governo-aprova-regulamento-nacional-de-interoperabilidade-activity-7491768929355194368-Vk5Q), announced on 8 August 2026 by the World Bank-backed Western Africa Regional Digital Integration Program, which supports the work and presents the framework as Guinea-Bissau's contribution to the regional programme. A draft decree on the interoperability of public and private digital systems had been approved by the Council of Ministers on 10 July 2025 and had not moved since; the announcement names no decree number, no gazettal and no entry-into-force date, and the paired data-governance and cybersecurity decrees approved alongside it in 2025 remain where they were.
+
 <!-- /narrative -->
 ### Registries
 
 <!-- narrative: dpi--dpi-registry -->
 The register moved without the electorate changing. The electoral support office [handed the updated register to the elections commission in physical and electronic form for the 30 August referendum, recording 966,152 registered voters — unchanged from the last update](https://ang.gw/referendo-30-de-agosto-gtape-entrega-cadernos-eleitorais-a-cne/), having also [issued 25,146 replacement voter cards in a 30-day nationwide operation from 13 July to 11 August through 51 brigades covering every region](https://ang.gw/gtape-anuncia-emissao-de-25-146-cartoes-do-eleitor-da-2a-via/). So the month's work was replacing credentials rather than adding registrants, and no audit or de-duplication statement accompanies the handover.
+<!-- /narrative -->
+### Sectoral management information systems
+
+<!-- narrative: dpi--dpi-mis -->
+
+The prime minister [pledged computerised teacher posting, salaries paid through banks or mobile money, and a digital audit of the education payroll](https://ang.gw/pm-promete-elevar-para-15-por-cento-do-orcamento-geral-do-estado-os-fundos-destinados-ao-setor-do-ensino-nacional/), with no timetable published.
 <!-- /narrative -->
 
 ## Digitalisation
