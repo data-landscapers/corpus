@@ -291,7 +291,7 @@ def style_tables(html: str) -> str:
         if cls == "movement":
             # The start column is prose, except where there is no start: that cell is boxed
             # like the Progress value it forces *(Bill, 2026-09-11)*.
-            table = badge_rows(table, col=3, vocab=BADGE_MOVEMENT)
+            table = badge_rows(table, col=3, vocab=BADGE_MOVEMENT, split_qualifier=True)
             return badge_rows(table, col=1, vocab=BADGE_MOVEMENT, only="baseline not held")
         if cls == "indicator":
             return badge_rows(table, col=3, vocab=BADGE_PROGRESS, split_qualifier=True)
@@ -350,15 +350,23 @@ def badge_rows(table: str, col: int, vocab, split_qualifier: bool = False,
         cls = badge_class(inner, vocab)
         if inner.startswith("<a "):
             new = re.sub(r"^<a ", f'<a class="badge {cls}" ', inner, count=1)
-        elif split_qualifier and "<" not in inner and "," in inner:
+        elif split_qualifier and re.fullmatch(r"(<strong><em>)?[^<>,]+,[^<>]+(</em></strong>)?", inner):
             # **The badge carries the stem; the qualifying clause sits beside it.** A badge is a
             # label and has to read as one at a glance. That held while qualifiers were "Advanced,
             # slipped", and stops holding on the indicator frame, where *Mixed* must name which
             # instruments moved which way (`progress-report-redesign.md` §3) and the clause is
             # routinely longer than the value it qualifies. Colouring is unaffected: `badge_class`
             # already keys on the head term.
-            head, _, tail = inner.partition(",")
-            new = (f'<span class="badge {cls}">{head.strip()}</span>'
+            #
+            # The region ledger's Progress column took the same treatment on 2026-09-13 (Bill):
+            # its qualifiers ("No change, a fiftieth deposit announced for September 2026") were
+            # printing inside the badge. A ***Baseline not held*** value arrives bold-italic from
+            # `report-render.py`'s `mark()`, so the marker is lifted off and put back on the stem.
+            marked = inner.startswith("<strong><em>")
+            plain = re.sub(r"</?(strong|em)>", "", inner)
+            head, _, tail = plain.partition(",")
+            head = f"<strong><em>{head.strip()}</em></strong>" if marked else head.strip()
+            new = (f'<span class="badge {cls}">{head}</span>'
                    f'<span class="badge-note">{tail.strip()}</span>')
         else:
             new = f'<span class="badge {cls}">{inner}</span>'
