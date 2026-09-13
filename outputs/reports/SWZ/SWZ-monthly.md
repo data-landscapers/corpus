@@ -3,9 +3,9 @@ title: Eswatini — monthly update, August – September 2026
 compiled: 2026-09-13
 period: 2026-08-01 to 2026-09-13
 place: SWZ
-ledger_rows: 39
+ledger_rows: 40
 not_held: 4
-record: 27727af805e1
+record: 54103701d4a4
 ---
 
 # Eswatini: monthly update, August – September 2026
@@ -31,6 +31,8 @@ The National Data Governance Policy is still being written. The ICT minister [to
 
 <!-- narrative: governance--gov-legislate -->
 In the same 4 August answer, the ICT ministry said it had completed the Online Media Publishing Guidelines 2026, introducing a registration requirement for online publishers bound to accuracy, privacy protection, child safeguarding and the responsible use of AI. Neither the text nor a commencement date is public.
+
+An [Immigration Bill would let a system-generated communication bar a foreign national's entry, at an implementation cost of about E6 million](https://times.co.sz/43339/news/new-proposed-law-to-screen-foreigners-entering-country/), with no appeal route described.
 <!-- /narrative -->
 ### Data protection
 

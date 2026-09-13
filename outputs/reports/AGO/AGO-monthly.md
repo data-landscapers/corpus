@@ -3,9 +3,9 @@ title: Angola — monthly update, August – September 2026
 compiled: 2026-09-13
 period: 2026-08-01 to 2026-09-13
 place: AGO
-ledger_rows: 53
+ledger_rows: 54
 not_held: 7
-record: 1c71bd1302c5
+record: 83d375635a26
 ---
 
 # Angola: monthly update, August – September 2026
@@ -75,6 +75,8 @@ August ended with three presidential authorisations in a single week. The presid
 
 
 The higher-education programme entered the repository with its digital content itemised. A [US$150m loan and a US$50m education-partnership grant, phase one of a US$550m multi-phase programme closing 31 December 2028, carry US$10m to digitalise higher-education service delivery and build digital competency, US$15m to establish a national research and education network and upgrade university networks, and US$15m to modernise the sector management information system](https://c2a.portais.gov.ao/uploads/26pad_english_test_p179154_mpa_phase_1_gpe_qar_answered_74704772466e18d05d13fd_9552e1cf64.pdf). A [second results-based funding round of US$20,470,284 across seven higher-education institutions was announced on 4 September](https://angop.ao/noticias/educacao/sete-instituicoes-do-ensino-superior-recebem-mais-20-milhoes-de-dolares/), with no per-institution split or results framework published. The appraisal document is dated November 2023 and reaches the repository through the government's own consultation portal, which is why a three-year-old commitment is new evidence here.
+
+The US export-import bank [announced a US$99.6m loan to the private mobile operator for network technology in Angola, framed as diversifying the country's technology sources](https://www.novojornal.co.ao/economia/detalhe/exim-bank-dos-eua-anuncia-emprestimo-de-996-milhoes-de-dolares-a-africell-para-investimento-em-tecnologia-em-angola-74587.html).
 <!-- /narrative -->
 
 ## ICT Infrastructure

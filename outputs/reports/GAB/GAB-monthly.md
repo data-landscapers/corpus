@@ -3,9 +3,9 @@ title: Gabon — monthly update, August – September 2026
 compiled: 2026-09-13
 period: 2026-08-01 to 2026-09-13
 place: GAB
-ledger_rows: 47
+ledger_rows: 48
 not_held: 18
-record: 1253f6ccff54
+record: befb52d2a285
 ---
 
 # Gabon: monthly update, August – September 2026
@@ -98,6 +98,8 @@ A bus fare is about to become a biometric credential. The national transport com
 
 <!-- narrative: dpi--dpi-registry -->
 A domestic commentary put the governance question on transport digitalisation in public: it places the [digitalisation of transport titles and documents among the state's modernisation projects and asks who governs it and whether local suppliers are used](https://gabonactu.com/blog/2026/09/07/digitalisation-des-titres-et-actes-de-transport-au-gabon-entre-gouvernance-numerique-et-valorisation-de-la-competence-locale/). It is an opinion piece rather than a programme document — no contracting authority, supplier, scope, cost or timetable is on the record — which is why it reaches this report as the only account of a project the state has not described.
+
+The beneficiary file behind the social register's intended base is unreliable: the Court of Accounts [found about 120,000 of the roughly one million people on the economically weak persons' health fund file improperly registered](https://union.sonapresse.com/fr/cnamgs-120-000-beneficiaires-indument-enregistres).
 <!-- /narrative -->
 ### Sectoral management information systems
 

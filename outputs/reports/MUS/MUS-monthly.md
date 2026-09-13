@@ -3,9 +3,9 @@ title: Mauritius — monthly update, August – September 2026
 compiled: 2026-09-13
 period: 2026-08-01 to 2026-09-13
 place: MUS
-ledger_rows: 38
+ledger_rows: 39
 not_held: 7
-record: 4e432ec35231
+record: a941702080d4
 ---
 
 # Mauritius: monthly update, August – September 2026
@@ -22,6 +22,12 @@ Speech and security were the month's other subjects. The ministry [reminded the 
 
 ## Governance
 
+### Strategies, plans and policies
+
+<!-- narrative: governance--gov-policy -->
+
+Cabinet [approved Mauritius Vision 2050 on 11 September, targeting a US$50bn economy with digital among seven strategic sectors](https://lexpress.mu/s/mauritius-vision-2050-lobjectif-dune-economie-a-usd-50-milliards-dici-2050-562497); the document is not published.
+<!-- /narrative -->
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
@@ -39,6 +45,7 @@ A third bill was set out in public rather than in print. The ICT minister said t
 
 <!-- narrative: governance--gov-regional -->
 The continental internet registry seated here is still without a settled board. One outlet's analysis records that the registry [named a person to all eight board seats on 12 September 2025 while withholding every candidate vote tally its own election guidelines promised](https://btw.media/en/afrinic-eight-seat-board-election-result-evidence-gap), and that the appeal court has now [set aside its 2023 appeal for want of corporate authority without ruling on the official receiver's permission or on statutory leave](https://btw.media/en/governance/rir-watchdog/afrinic/story/afrinic-appeal-receiver-permission-statutory-leave-undecided). The chain from election through appointment to quorum is therefore unresolved and the receiver undischarged. No registry statement on the withheld tallies is held.
+
 <!-- /narrative -->
 ### Standards
 

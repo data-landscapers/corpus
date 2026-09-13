@@ -1,11 +1,11 @@
 ---
 title: North Africa — monthly update, August – September 2026
-compiled: 2026-09-10
-period: 2026-08-01 to 2026-09-10
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 place: XNA
-ledger_rows: 4
+ledger_rows: 5
 not_held: 0
-record: aed47079e5f0
+record: 213bb1680ad7
 ---
 
 # North Africa: monthly update, August – September 2026
@@ -26,6 +26,8 @@ North Africa's AI diplomacy moved through the Arab League rather than the AU thi
 The Arab League's new AI governance and digital committee has its working groups staffed. The [58th ordinary session of the AICTM Executive Bureau confirmed the full slate of six working-group chairs on 1 August](https://www.businesstec.news/23334), three of them African: Egypt chairs AI Governance and Quantum Computing, Libya chairs AI Data and Digital Infrastructure, and Tunisia chairs AI Innovation. [Egypt's own chairmanship was reported a day earlier](https://sis.gov.eg/en/media-center/news/egypt-wins-chairmanship-of-ai-governance-quantum-computing-working-groups-at-arab-ai-committee/), the AI Governance group's remit stated as including activation of the 2025 Arab Charter for AI Ethics. No framework text, timetable or output has been published from any of the six groups.
 
 A [conference of Arab nationality and civil-status directors closed in Tunis on 20 August](https://gate.ahram.org.eg/News/5891986.aspx) recommending that member states expand reliance on digital identity, strengthen the legal frameworks protecting personal data in civil-status registers, and share defences against cyber threats aimed at those registers. A model data-protection framework for such registers is to be circulated, and Iraq's proposal for a unified Arab identity was referred to member states for study. The outputs are recommendations only, with no adoption route, timetable or governance body named.
+
+The Arab League's education and science organisation [published its Charter on the Ethics of Artificial Intelligence in English](https://n.alecso.org/fr/n/216-l-alecso-publie-la-version-anglaise-de-sa-charte-sur-l-ethique-de-l-intelligence-artificielle-2), a non-binding text drafted with member-state experts.
 <!-- /narrative -->
 
 ## Shared systems and infrastructure

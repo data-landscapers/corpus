@@ -3,18 +3,18 @@ title: North Africa — progress report, September 2025 – September 2026
 compiled: 2026-09-13
 period: 2025-09-01 to 2026-09-13
 place: XNA
-ledger_rows: 13
+ledger_rows: 14
 not_held: 0
-record: 9dba39269433
+record: f34bb22637ff
 ---
 
 # North Africa: progress report, September 2025 – September 2026
 
 *Compiled 2026-09-13 by Claude Opus from the documents in the Corpus repository. Sections run from the region's institutions outwards to what funds them. Each row sets the position at the start of the period against the position at the end, and the Progress column says how it moved. The period runs to the date of issue rather than to the last month's close.*
 
-*Of 13 bodies, instruments and systems on this place's ledger, 11 changed position between 2025-09-01 and 2026-09-13, 1 did not, 1 carry no stated baseline, and 0 are ***Not held*** at both ends.*
+*Of 14 bodies, instruments and systems on this place's ledger, 11 changed position between 2025-09-01 and 2026-09-13, 1 did not, 2 carry no stated baseline, and 0 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 10 sources for this place in the window — 4 in the earlier half (2025-12 to 2026-02), 6 in the later (2026-07 to 2026-09). The two halves are comparable, so the comparison is made over the whole window.*
+*Shape check, run before the comparison: 12 sources for this place in the window — 4 in the earlier half (2025-12 to 2026-02), 8 in the later (2026-07 to 2026-09). The two halves are comparable, so the comparison is made over the whole window.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Closed* — the programme ended. *No change* — the repository holds a standing position and nothing in the period touched it. ***Baseline not held*** — there is evidence of movement but no baseline to compare it against. A value may carry a qualifying clause after a comma, as in *Movement, slipped*.
 
@@ -35,6 +35,7 @@ North Africa's ledger opens thin and moves through the Arab League rather than t
 | Arab ICT Ministers Council AI working groups (AICTM Executive Bureau) | Did not exist | [Six working groups chartered under the Arab League's AI governance/digital committee at the 58th AICTM Executive Bureau session; Egypt chairs AI Governance and Quantum Computing, Libya chairs AI Data and Digital Infrastructure, Tunisia chairs AI Innovation — the Governance group's remit includes activating the 2025 Arab Charter for AI Ethics; no framework text, timetable or output yet published from any of the six groups](https://sis.gov.eg/en/media-center/news/egypt-wins-chairmanship-of-ai-governance-quantum-computing-working-groups-at-arab-ai-committee/) | Movement |
 | Arab Maghreb Union treaty | In force, dormant (2025-08) | [In force since 1 July 1989 with a binding judicial organ, and no summit held since 1994 - a legal frame for regional harmonisation with no active machinery behind it](https://treaties.un.org/doc/Publication/UNTS/Volume%201546/volume-1546-I-26844-English.pdf) | No change |
 | AI Forward Summit 2026 | ***Baseline not held*** | [A regional artificial-intelligence summit opened at Yasmine Hammamet, Tunisia, on 9 September 2026, organised by the Arab information and communication technologies organisation with Tunisia's communication technologies ministry under the theme 'Shaping the future of AI: from vision to value'. A secretary of state told the opening that the summit has become an important forum for dialogue on the future of AI in Arab countries and on making the technological revolution a lever for development, cooperation and peace; the Arab League secretary-general's participation was presented as a commitment to joint Arab action.](https://www.radionationale.tn/article/6aa1b13f0d094f0934cf67ef/) | ***Baseline not held*** |
+| ALECSO Charter on the Ethics of Artificial Intelligence | ***Baseline not held*** | [The Arab education, culture and science organisation's AI ethics charter, drafted in Arabic with member-state experts, now published in English](https://n.alecso.org/fr/n/216-l-alecso-publie-la-version-anglaise-de-sa-charte-sur-l-ethique-de-l-intelligence-artificielle-2) | ***Baseline not held*** |
 
 <!-- narrative: institutions -->
 Both rows on this section are new this year and both are Arab League tracks rather than AU or REC ones. The AI committee now has its six working groups staffed, three of them chaired by African states, with the Governance group tasked to activate the Arab Charter for AI Ethics — but no framework text or output from any group. The civil-status directors' conference produced recommendations on digital identity and register data protection, with no adoption route yet named.
