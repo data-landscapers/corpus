@@ -1,12 +1,12 @@
 ---
 title: Zimbabwe: status report
-compiled: 2026-09-08
+compiled: 2026-09-13
 place: ZWE
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 7
-sources_cited: 140
+sources_cited: 141
 sections_written: 37
 not_established: 1
 acquire_lines: 37
@@ -190,7 +190,7 @@ The wallet competition has turned physical. [EcoCash has wired cash withdrawals 
 ### Registries
 <!-- dpi.registry -->
 
-Zimbabwe is abolishing the paper title deed. [Statutory Instrument 76 of 2025, gazetted on 18 July 2025, creates a class of "securitised deeds" to replace it](https://www.newzimbabwe.com/legal-discussions-with-vengai-madzima-digitization-of-the-deeds-registry-in-zimbabwe), and [existing deeds must be validated and securitised into a digital registry over a 24-month transition, with a nationwide validation programme under way](https://www.newsday.co.zw/local-news/article/200054925/title-deeds-validation-programme-goes-nationwide). [Once the window closes only securitised deeds will be valid for legal and administrative purposes, unless the Minister extends the transition by notice in the Gazette](https://nehandaradio.com/2025/08/01/avoid-the-rush-avoid-the-risk-how-to-secure-your-property-in-zimbabwe-with-the-new-digital-deed-system). [Sixteen law firms were selected in April 2026 for a Title Deed Validation and Reissuance Pilot testing the Digital Land Administration Platform, the operational system behind the scheme](https://www.newzimbabwe.com/legal-discussions-with-vengai-madzima-title-deed-validation-and-reissuance-pilot-programme-of-zimbabwe/).
+Zimbabwe is abolishing the paper title deed. [Statutory Instrument 76 of 2025, gazetted on 18 July 2025, creates a class of "securitised deeds" to replace it](https://www.newzimbabwe.com/legal-discussions-with-vengai-madzima-digitization-of-the-deeds-registry-in-zimbabwe), and [existing deeds must be validated and securitised into a digital registry over a 24-month transition, with a nationwide validation programme under way](https://www.newsday.co.zw/local-news/article/200054925/title-deeds-validation-programme-goes-nationwide). [The justice minister told Parliament on 9 September 2026 that the window closes in July 2027, after which the Digital Land Administrative Platform becomes the sole authoritative property register and an unvalidated paper deed cannot be used to sell or transfer land in a formal transaction, though it is not invalidated, at a validation fee of US$215](https://openparly.com/unvalidated-title-deeds-to-lose-formal-recognition-in-11-months/); [the Minister may extend the transition by notice in the Gazette](https://nehandaradio.com/2025/08/01/avoid-the-rush-avoid-the-risk-how-to-secure-your-property-in-zimbabwe-with-the-new-digital-deed-system). [Sixteen law firms were selected in April 2026 for a Title Deed Validation and Reissuance Pilot testing the Digital Land Administration Platform, the operational system behind the scheme](https://www.newzimbabwe.com/legal-discussions-with-vengai-madzima-title-deed-validation-and-reissuance-pilot-programme-of-zimbabwe/).
 
 One case drove it: [the deed of Dr Dzingai Mutumbuka, Zimbabwe's first black Minister of Education, was stolen from the Deeds Registry itself, fraudulently altered with an official's help and used to sell his Chisipite property while he was abroad](https://www.newzimbabwe.com/legal-discussions-with-vengai-madzima-digitization-of-the-deeds-registry-in-zimbabwe).
 
