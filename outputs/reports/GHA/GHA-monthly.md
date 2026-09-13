@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-13
 place: GHA
 ledger_rows: 125
 not_held: 9
-record: e6ba13458484
+record: 00a9475cd9d2
 ---
 
 # Ghana: monthly update, August – September 2026
@@ -94,6 +94,8 @@ The build was then put in proportion. On 6 September the minister put the nation
 The backbone under it is losing ground faster than the record showed. Industry now projects [8,578 fibre cuts nationwide in 2026, 4,289 of them already in the first half, at roughly US$2,045 a repair against more than US$20m spent on repairs in 2025](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/), with major corridors averaging 72 cuts a month and uncoordinated excavation under the government's own road programme accounting for about half of road-related cuts. The dig-once policy that answers it has slipped again: a [joint Cabinet memorandum with the roads ministry now awaits Cabinet](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/), its third-quarter 2026 implementation target passed with no instrument on record. Against that, [voice over LTE has risen from about 7% of traffic to 22.43% on 8.4 million subscribers](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/).
 
 The state's own operator got its board back. On 3 September a seven-member board was sworn in for the company behind the AT Ghana brand, [releasing policy directives that had gone unimplemented for almost two months for want of one: spectrum in three bands from the regulator, and core-network access from the universal-access fund, both held back pending audited accounts](https://www.myjoyonline.com/sam-george-swears-in-at-ghanas-ppl-net-board-as-directors-vow-we-will-not-let-ghana-down/). Neither the bands nor the terms of the access are published.
+
+The first 5G spectrum is assigned. The regulator [awarded both 700 MHz lots on 11 September to the dominant operator, the sole qualified applicant, for US$100.9m, US$100,000 above the floor its 40% premium set](https://nca.org.gh/2026/09/11/update-on-the-5g-spectrum-licensing-process/); [one press account prints US$109.9m](https://www.graphic.com.gh/news/general-news/nca-assigns-5g-spectrum-to-mtn-ghanas-scancom-plc-for-us-109-9-million.html), against the regulator's own release.
 <!-- /narrative -->
 ### Energy
 

@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-13
 place: XAF
 ledger_rows: 119
 not_held: 3
-record: 6651cb984bf8
+record: 520bceb61207
 ---
 
 # Africa: monthly update, August – September 2026
@@ -119,6 +119,8 @@ Stablecoins drew their first coordinated regulatory attention: at a UN Economic 
 Elsewhere: [Standard Bank extended online UnionPay acceptance to nearly 900 merchants across nine markets](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/) against a stated 7 million UnionPay cards issued continent-wide; MTN Group's half-year results to 30 June [recorded 13.0 billion transactions carrying US$330.5bn, up 17.2% in volume, on 70.8 million monthly active mobile-money users](https://senspdf.jse.co.za/documents/2026/JSE/ISSE/MTN/MTNH126.pdf); AfricaNenda's deputy chief executive [put the cost of sending money within Africa at 8.78% of the amount sent](https://techcabal.com/2026/08/17/africa-is-building-a-single-payments-market-but-its-currencies-remain-divided/), against an SDG target of 3%, in an interview rather than a published series — a figure for movement *within* Africa, which is not the one the published series measures: the World Bank's Remittance Prices Worldwide put [the cost of sending US$200 into Sub-Saharan Africa at 8.46% in the third quarter of 2025, against a global average of 6.36% and the United Nations target of 3%, with banks close to 15% and much of the cost carried in exchange-rate spreads rather than disclosed fees](https://techtrends.africa/how-remittance-startups-are-undercutting-western-union-across-africa/); a research firm's policy brief [put unmet trade finance demand at US$74bn-US$100bn](https://www.thisdaylive.com/2026/08/11/pac-research-identifies-digital-innovation-financial-reforms-as-key-to-closing-africas-100bn-trade-finance-gap/), with commercial banks intermediating about 23% of continental trade against 40% over 2011-2019; and instant-payment interoperability was [described as meeting a regulatory wall of divergent national rules](https://www.newtimes.co.rw/article/38524/news/africas-instant-payments-hitting-regulatory-wall/amp).
 
 A commercial rail widened alongside the public ones. A stablecoin payments platform [partnered a local payout provider to extend stablecoin payouts across African markets, settling into local currency through the partner’s rails](https://techafricanews.com/2026/09/08/dcspay-partners-with-kotani-pay-to-expand-stablecoin-payouts-across-africa/). No country list, volume, licence or central bank position is stated.
+
+The continental rail reported growth without a base: [volumes up about 1,000% and values up about 120% year on year, with 24 central banks connected](https://www.afreximbank.com/papss-targets-accelerated-adoption-and-transaction-growth-as-network-expands-across-africa/), figures that carry no absolute totals.
 <!-- /narrative -->
 ### Sectoral management information systems
 
@@ -180,6 +182,8 @@ Smartphone affordability worsened on a research house's own tracking: [shipments
 
 <!-- narrative: finance--finance-mou -->
 Afreximbank's corporate academy and CreditRegistry [signed a three-year memorandum from Cairo on 25 August](https://www.afreximbank.com/afreximbank-academy-and-creditregistry-join-forces-to-equip-millions-across-global-africa-with-financial-and-trade-skills/) integrating the latter's credit-education curriculum into digital financial-literacy training, and undertaking to drive awareness of the bank's MANSA due-diligence repository and of PAPSS; [a first initiative targets 20,000-30,000 learners against a stated ambition of reaching about three million families and businesses](https://www.afreximbank.com/afreximbank-academy-and-creditregistry-join-forces-to-equip-millions-across-global-africa-with-financial-and-trade-skills/), with no budget or delivery schedule published. A [five-year memorandum between an Indian technology company, a continental investment council and an Ivorian mobile operator](https://enterpriseai.economictimes.indiatimes.com/news/industry/blue-cloud-softech-signs-5-year-africa-pact-for-telecom-digital-infrastructure-projects/133366356), dated 7 August and fully executed 19 August per a regulatory filing, covers national fibre backbones, 4G/5G, submarine cable landing, digital identity and digital-payment platforms across the continent, with no financial commitment disclosed and no country programme yet named.
+
+The Seoul ministerial [closed on 11 September with two AfDB-Korea agreements and a structure for an AI hub](https://www.rfi.fr/fr/afrique/20260912-le-sommet-cor%C3%A9e-du-sud-afrique-aboutit-sur-des-accords-pour-la-cr%C3%A9ation-d-un-hub-pour-l-ia); no sum is attached.
 <!-- /narrative -->
 ### New investments
 
