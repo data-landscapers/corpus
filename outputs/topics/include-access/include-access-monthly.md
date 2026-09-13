@@ -1,17 +1,15 @@
 ---
 title: Access to services — monthly update, August – September 2026
-compiled: 2026-09-11
-period: 2026-08-01 to 2026-09-11
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 subject: include.access
 places: DZA; AGO; BWA; BDI; CMR; CAF; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NAM; NER; NGA; STP; SEN; SYC; SLE; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 621a7b6f8504
+record: 78eec9b6beae
 ---
 
 # Access to services: monthly update, August – September 2026
 
 *41 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -121,6 +119,8 @@ On 5 August a Central Bank source told Libya Herald that cash distribution to co
 
 The month's only market measurement came from an operator: MVola's director general put the whole Malagasy mobile-money market at [six to seven million active users against a population of about thirty million, with rural areas under-served](https://www.lexpress.mg/2026/08/alexandre-castel-directeur-general-de.html), and set doubling or tripling that as the five-to-ten-year test.
 
+A postal microfinance institution [launched 12-month laptop credit for 1,400 master's students in September, funded from the connectivity project](https://newsmada.com/2026/09/08/projet-pilote-laptop-facilitation-de-lacces-aux-outils-numeriques/).
+
 ## Malawi
 
 The first usable figure for how many Malawians are online came from the operators' own trade association rather than from the state. Its report [puts 80% of the population offline despite 87% 4G population coverage, and estimates MWK 1.1 trillion of economic value and 490,000 jobs by 2030 from closing the usage gap](https://techafricanews.com/2026/08/20/gsma-malawi-digital-transformation-policy-action/), setting out six policy priorities for the government and the regulator. The gap it identifies is usage and not coverage, which is a finding the repository had no measurement for; the value estimate is modelled by an interested party, and among the six asks is cutting the mobile-service taxes its members pay. Against it stands [a presidential target of 80% internet usage by 2026](https://itweb.africa/article/malawi-president-orders-digital-revolution/kYbe9MXbob9vAWpG) that has never had a published baseline.
@@ -166,6 +166,8 @@ Away from the campuses, German cooperation [opened a tender on 4 August for the 
 
 The accessibility requirement is not reaching the platforms it binds. [None of eight public websites audited in May 2026, among them the admissions board, the identity commission, the revenue service and the disability commission itself, had implemented baseline accessibility features; an earlier assessment of all 36 states and the Federal Capital Territory found 26 non-compliant with the technology agency's website guidelines and 14 sites unusable for people with disabilities; and the Nigeria Web Design Standards, launched in July 2025 with a toolkit promised within eight to ten weeks, had published none by August 2026 with no evidence of Federal Executive Council approval or of implementation](https://techcabal.com/2026/08/31/nigeria-wants-assistive-tech-who-is-fixing-its-inaccessible-digital-platforms/). The commission's own estimate is [35 million Nigerians with disabilities](https://techcabal.com/2026/08/31/nigeria-wants-assistive-tech-who-is-fixing-its-inaccessible-digital-platforms/).
 
+Zero-rated education access moved from consultation to a start date. At the 10 September launch [the education minister set 1 October 2026 for about five million students to receive 100MB a day on approved educational platforms](https://newstimes.com.ng/2026/09/ncc-launches-zero-rated-access-to-educational-platforms/), [public senior secondary and tertiary students first, through participating mobile operators](https://www.thepointng.com/reactions-as-fg-plans-daily-free-data-for-nigerian-students/). No approved-platform list or funding arrangement is published, and the minister's own caution that zero rating should not open every platform calling itself educational leaves the whitelist the open question.
+
 ## Sao Tome and Principe
 
 Two communities turned resident-identified priorities into completed works in six and a half months through pilot participatory budgeting exercises: [a paved stretch of the Estrada da Oficina in Alges, Cantagalo district, and a new water capture and distribution system with a decanting process at Ribeira Palma Praia, Lemba district](https://www.cascais.pt/noticia/orcamento-participativo-transforma-sao-tome-e-principe). The project was a partnership between two civil-society organisations and the two district councils, with support from a Portuguese municipality and the European Union, and residents took part at every stage from identifying the problem to delivering the investment. The publisher is the partner municipality rather than a Sao Tomean body, and the source describes pilot experiences rather than a national participatory budgeting system.
@@ -173,6 +175,8 @@ Two communities turned resident-identified priorities into completed works in si
 ## Senegal
 
 The flagship access programme is under investigation. The National Assembly [voted 129-0 to open a commission of inquiry into about 48 billion FCFA committed since 2017 under the student-computer programme, over alleged procurement breaches and 800 defective machines stored unused at the country's largest university](https://www.seneweb.com/fr/news/Politique/un-etudiant-un-ordinateur-lassemblee-ouvre-une-enquete-sur-pres-de-48-milliards-de-fcfa_n_501999.html). Nine years in, the programme publishes no delivery total, unit cost or student-reach figure, so the inquiry's envelope is the only quantity the record holds about it.
+
+The Council of Ministers on 10 September [directed the state digital company to set up an information system to monitor and handle citizens' concerns](https://aps.sn/le-communique-du-conseil-des-ministres-du-jeudi-10-septembre-2026/), with no scope, channel or date stated.
 
 ## Seychelles
 
@@ -194,6 +198,8 @@ One cooperation arrangement addressed a group the grants system serves and the d
 The state's own IT agency was told why it cannot deliver. The Public Service Commission's investigation of government IT procurement over 2020 to 2025 found [86% of managing-director roles held on an acting or interim basis, board tenures too short for strategic continuity, and irregular expenditure above R2bn across four audited years read as control failure through absent deterrence](https://www.itweb.co.za/article/sita-prioritises-exec-placements-as-it-looks-to-revival/Kjlyr7wBrQ4vk6am); the agency told Parliament in August it is finalising executive recruitment, naming no appointment or date, while some of the hundred-plus departments it carries look elsewhere.
 
 The grant-review audit reached [105,600 of 352,000 targeted reviews with an estimated R450-million saved](https://www.dailymaverick.co.za/article/2026-08-24-sassa-grant-reviews-strand-vulnerable-south-africans-in-systemic-chaos/), while suspending lawful beneficiaries' payments without effective notice. The saving is the agency's own estimate; the suspensions are reported against it.
+
+Two feedback channels were in view in September, one state and one civil. The [Presidential Hotline, running since September 2009 on the state IT agency's case-management platform, was under oversight review on 9 September](https://www.sanews.gov.za/south-africa/mohai-conducts-oversight-visit-presidential-hotline-call-centre) with automation on the agenda, and the [ParliMeter platform tracking MP attendance, bills, committees and ministerial answers passed to the Parliamentary Monitoring Group as its EU-funded phase closed](https://myza.co.za/parlimeter-enters-its-next-chapter/). Neither publishes a resolution rate or usage figure.
 
 ## South Sudan
 

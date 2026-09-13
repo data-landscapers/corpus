@@ -1,17 +1,15 @@
 ---
 title: Technical Capacity — monthly update, August – September 2026
-compiled: 2026-09-11
-period: 2026-08-01 to 2026-09-11
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 subject: infra.capacity
 places: BDI; COD; GHA; KEN; LBY; MOZ; RWA; SEN; ZAF; TGO
-record: 7489ce5179ef
+record: edbef11696e4
 ---
 
 # Technical Capacity: monthly update, August – September 2026
 
 *10 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
 
 ## Burundi
 
@@ -27,7 +25,7 @@ The cable inventory did not move; what moved is the repository's reading of it. 
 
 ## Kenya
 
-Two capacity items advanced without a figure attached to either. Nationwide broadcast-logger deployment is complete with a monitoring room at the regulator's centre, [joint regulator training concluding on 27 July](https://techafricanews.com/2026/07/27/communications-authority-of-kenya-and-kfcb-complete-joint-broadcast-monitoring-training/), with no cost, coverage or channel-count disclosed. The advanced science and technology institute has its charter issued and its [operationalisation under review with the Korean export credit agency](https://techafricanews.com/2026/08/03/kenya-advances-korea-partnership-to-boost-ai-research-and-digital-infrastructure/), with no allocation for the year disclosed and no commitment amount stated.
+Two capacity items advanced without a figure attached to either. Nationwide broadcast-logger deployment is complete with a monitoring room at the regulator's centre, [joint regulator training concluding on 27 July](https://techafricanews.com/2026/07/27/communications-authority-of-kenya-and-kfcb-complete-joint-broadcast-monitoring-training/), with no cost, coverage or channel-count disclosed. The advanced science and technology institute, its [operationalisation under review with the Korean export credit agency](https://techafricanews.com/2026/08/03/kenya-advances-korea-partnership-to-boost-ai-research-and-digital-infrastructure/) in August, was [stated completed at US$94m by the Treasury principal secretary in Seoul on 10 September](https://peopledaily.digital/business/kenya-south-korea-deepen-ksh-129-4b-development-partnership), with no opening, intake or operating budget published.
 
 ## Libya
 

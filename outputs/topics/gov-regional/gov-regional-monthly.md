@@ -1,17 +1,15 @@
 ---
 title: Regional collaboration — monthly update, August – September 2026
-compiled: 2026-09-11
-period: 2026-08-01 to 2026-09-11
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 subject: gov.regional
-places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COG; CIV; COD; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; TZA; TGO; TUN; ZWE
-record: b7f93f5e9d82
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COG; CIV; COD; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZWE
+record: 429787748dc6
 ---
 
 # Regional collaboration: monthly update, August – September 2026
 
-*39 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+*41 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Algeria
 
@@ -48,6 +46,8 @@ The telecommunications minister [received an Azerbaijani delegation in N'Djamena
 ## Congo
 
 The broadcasting regulator and its counterpart across the river [signed a memorandum formalising their partnership after two days of work on 19 and 20 August](https://www.adiac-congo.com/content/medias-le-csac-et-le-cslc-formalisent-leur-partenariat-institutionnel-171340). No text, scope or commencement is published, so what the repository holds is that two regulators have agreed to cooperate.
+
+A seminar with the DRC [closed with a Brazzaville Declaration urging digitalised migration and customs procedures along the 2,400km border](https://www.groupecongomedias.com/congo-rdc-mobilite-transfrontaliere-brazzaville-jette-les-bases-dun-nouvel-espace-commun/); it binds neither government.
 
 ## Cote d'Ivoire
 
@@ -91,6 +91,10 @@ Guinea took the presidency of the regional audiovisual regulators' platform on 3
 ## Kenya
 
 The continental data convention still has no Kenyan signature behind it, but the repository can now say why. A policy brief prepared for the accession process records that [Kenya has neither signed nor ratified the Malabo Convention, that the Cabinet approved a process step towards accession in September 2025, that the data protection commissioner then led national consultations closing 6 October 2025, and that the Attorney-General had cleared the Convention before the process stalled twice on cabinet reshuffles](https://fra1.digitaloceanspaces.com/mzdocs/prod/media/publications/documents/2026/Building_a_Resilient_Kenya_.pdf); twenty African Union member states had ratified as at March 2026. A [high-level parliamentary dialogue on accession was called for 7 September 2026](https://posts.kictanet.or.ke/invitation-high-level-malabo-convention-dialogue-monday-7th-september-2026-4/). What has moved is the process, not the treaty position, and no instrument of accession is on the record. A peer-reviewed review of health-data governance in four countries [records only Rwanda as a signatory and finds all four frameworks fragmented, with weak harmonisation of cross-border transfers and capacity gaps](https://datascience.codata.org/articles/10.5334/dsj-2026-031).
+
+## Lesotho
+
+The border is to be digitised from both sides: the Bi-National Commission's mid-term review [agreed to accelerate smart one-stop border posts at Maseru and Ficksburg](https://www.africa-newsroom.com/press/lesothosouth-africa-binational-commission-bnc-midterm-review-concludes-in-pretoria?lang=en), with no design or date published.
 
 ## Liberia
 
@@ -178,6 +182,8 @@ Regional cooperation moved from documents to a stated test this month. The highe
 
 The one regional move in the window is a pledge without a workplan. On 12 August the minister [visited the African Telecommunications Union's Nairobi headquarters and pledged deeper collaboration on infrastructure, capacity building and standardisation](https://techreviewafrica.com/news/6713/south-sudan-pledges-stronger-collaboration-with-atu-on-digital-infrastructure-and-capacity-building). No workplan, contribution or membership status is stated, and it sits alongside the payment-system bill validated the same month with East African Community and Bank of Uganda backing — the substantive regional support in this record runs through that bill rather than through the union.
 
+South Sudan and Uganda [signed a memorandum in Juba for real-time epidemiological data sharing, mutual outbreak notification and joint surveillance at the border](https://www.radiotamazuj.org/en/news/article/south-sudan-uganda-sign-agreement-on-cross-border-health-security), with no platform named.
+
 ## Tanzania
 
 Tanzania was the one being studied this month. A Somali government delegation [examined the labour and employment digital systems in Dodoma on 28 August](https://www.kazi.go.tz/news/somalia-yakoshwa-na-mifumo-ya-kidijitali-sekta-ya-kazi-na-ajira), and Somalia is [seeking to learn from the wider public-service digitalisation experience](https://dailynews.co.tz/somalia-eyes-tanzanias-e-governance-model/). Both accounts are the host's. Nothing in the record held sets out what is to be transferred, on what terms, or whether either side has committed anything beyond a visit.
@@ -189,6 +195,10 @@ A [regional dialogue at the Togo-Ghana joint border post on 13 August sought to 
 ## Tunisia
 
 Tunisia chairs and convenes rather than signs. It [was elected chair of the Arab League's working group on artificial-intelligence innovation and technological solutions at the permanent committee's inaugural meeting in Tunis](https://www.businesstec.news/23334), and [hosted the ninth Arab conference of directors of nationality and civil-status departments, which closed in Tunis on 19 August](https://gate.ahram.org.eg/News/5891986.aspx). Neither carries a work programme, a decision or a text on the record.
+
+## Uganda
+
+Uganda and South Sudan [signed a memorandum in Juba on 7 September for real-time epidemiological data sharing, mutual outbreak notification, joint surveillance and harmonised screening at border crossings](https://www.radiotamazuj.org/en/news/article/south-sudan-uganda-sign-agreement-on-cross-border-health-security). No data platform, legal safeguard or budget is named.
 
 ## Zimbabwe
 

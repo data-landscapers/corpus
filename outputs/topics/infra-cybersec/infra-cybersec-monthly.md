@@ -1,17 +1,15 @@
 ---
 title: Cybersecurity — monthly update, August – September 2026
-compiled: 2026-09-11
-period: 2026-08-01 to 2026-09-11
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 subject: infra.cybersec
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; TCD; COG; CIV; SWZ; GAB; GHA; KEN; LSO; LBR; LBY; MWI; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 03fb3dd52889
+record: c8559d21c2f4
 ---
 
 # Cybersecurity: monthly update, August – September 2026
 
 *34 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -106,13 +104,15 @@ The instrument establishing the new agency also reached the repository this mont
 
 The standards the new agency will enforce were put to the people who would have to work them. The technology authority [tested the National Information Security Framework's audit, risk-management and certification mechanisms at a Nairobi workshop, to establish whether they are practical for national implementation](https://educationnews.co.ke/ict-authority-steps-up-protection-of-govt-systems-critical-information-infrastructure/) ahead of certifying critical information infrastructure. Neither the framework text nor the certification criteria nor the list of infrastructure to be certified is published.
 
+By September the agency existed in law and in one appointment. The government's scorecard [reports the director-general recruited and deployed, board seats and technical posts still being filled, and the agency not yet fully operational](https://www.the-star.co.ke/news/2026-09-11-kenya-steps-up-push-to-get-new-cyber-agency-running). The prosecutor's office meanwhile [issued a reference guide setting out each offence under the cybercrimes Act with its elements, required evidence, sample charges and court application templates](https://nc4.go.ke/regulations/rapid-reference-guide/).
+
 ## Lesotho
 
 The [interim Lesotho National Computer Security Incident Response Team](https://www.gov.ls/ict/ministry-of-information-communications-science-technology-and-innovation-launched-lescomcsirt-and-inaugural-national-cybersecurity-forum/) and the inaugural National Cybersecurity Forum were launched in Maseru on 29 July 2026. The forum is described by the Lesotho Communications Authority as a standing collaboration across government, industry, regulators, financial institutions and telecommunications providers. The response team is thus operating ahead of its enabling statute — the Cybercrime and Cybersecurity Bills it would sit under remain before the National Assembly — and on no published timetable. The ministry also reported a first Chief Information Security Officer appointed across government and a national Security Operations Centre being stood up.
 
 ## Liberia
 
-The Cybercrime Act 2025 [was signed into force by the President on 19 August 2026](https://www.wearetech.africa/en/fils-uk/news/public-management/liberia-enacts-cybercrime-and-data-protection-laws), ending a wait that ran from the Senate's concurrence through most of this year. The full text the repository holds is still the 2021 base bill, which carries none of the 2025 provisions, so the Act is on record as in force and not as read.
+The Cybercrime Act 2025 was [announced as signed on 19 August 2026](https://www.wearetech.africa/en/fils-uk/news/public-management/liberia-enacts-cybercrime-and-data-protection-laws), and the enacted text has now been read: [approved on 3 July and printed on 24 July, it creates a National Cybersecurity Council with the national CERT as technical arm, requires breach reports within 72 hours and protects whistleblowers](https://mopt.gov.lr/wp-content/uploads/2026/09/Cybercime_Act_of_2025_Printed_Version_20260724_063806.pdf). Commentary [reads its speech-adjacent offences at sections 15 to 20 against the constitution's free-expression article and the 2019 press-freedom Act](https://frontpageafricaonline.com/liberias-free-speech-balancing-act-and-what-the-cybercrime-law-actually-changed/).
 
 ## Libya
 
@@ -125,6 +125,8 @@ The interior ministry answered with an agreement rather than an instrument. It [
 The month's cybersecurity item is a loss rather than a control. The state oil company [was defrauded of K700m after attackers hijacked email from its Mozambican fuel-handling contractor and supplied false banking details, instructing its bank on 29 April 2026 to wire US$403,605 to a fraudulent account](https://malawi24.com/2026/08/24/malawi-loses-k700m-in-nocma-cyber-heist/); the fraud surfaced two weeks later when the genuine contractor demanded payment, and was confirmed publicly on 24 August 2026. The company attributes the control weaknesses to the government-to-government fuel procurement model being introduced before operational and cybersecurity procedures were in place. No regulator finding, prosecution or recovery is on file.
 
 The regulator put its own name to the methods a week later. It issued a public alert on rising digital fraud against mobile money and digital financial services, naming [fake social cash transfer messages demanding a payment before assistance, failed-payment pretexts redirecting money to a second number, spoofed transaction alerts, fake competition prizes and takeovers of messaging accounts used to solicit money from contacts](https://malawi24.com/2026/09/04/macra-sounds-alarm-over-rising-digital-scams/), and stating that bodies running social cash transfer programmes do not use ordinary messaging to request money from beneficiaries. The alert carries no incident count, loss figure or enforcement action, so the regulator is on record about the methods and not about their scale.
+
+The regulator's own monitoring system came back under scrutiny. It [installed a system to watch misinformation on Facebook, X and LinkedIn in January 2025 under a US$1.5m contract awarded 15 days earlier, eight months before the election](https://www.nyasatimes.com/questions-grow-over-malawis-social-media-monitoring-system-amid-oversight-concerns/), and [civil-society letters, a presidency appeal and a rights-commission inspection that was abandoned left it running](https://moz24h.co.mz/part-2-a-ghanaian-contractor-a-1-5-million-contract-and-a-surveillance-system-that-remains-unexplained/). No audit, retention rule or oversight body is published.
 
 ## Mauritius
 

@@ -1,17 +1,15 @@
 ---
 title: Data protection — monthly update, August – September 2026
-compiled: 2026-09-11
-period: 2026-08-01 to 2026-09-11
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 subject: gov.protect
 places: AGO; BEN; BWA; BFA; CPV; CAF; DJI; COD; EGY; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LBR; MWI; MLI; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; UGA; ZMB; ZWE
-record: 54591dc6c94f
+record: c46b0edf37a5
 ---
 
 # Data protection: monthly update, August – September 2026
 
 *36 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
 
 ## Angola
 
@@ -104,7 +102,7 @@ A gap the regulator does not cover was named at the internet governance forum, w
 
 ## Liberia
 
-The data-protection statute exists. The Personal Information Act [was signed into force on 19 August alongside the cybercrime law](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/le-liberia-adopte-les-lois-sur-la-cybercriminalite-et-la-protection-des-donnees). What follows a signature is the part the repository cannot yet see: no commencement date, supervisory authority, appointment or implementing regulation is held.
+The data-protection statute exists, and has for longer than announced. A ministerial statement [presented it as signed on 19 August](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/le-liberia-adopte-les-lois-sur-la-cybercriminalite-et-la-protection-des-donnees), but [the printed Act was approved on 9 March 2026 and took effect on publication on 23 March, giving an Independent Information Commissioner 24 months for implementing rules](https://mopt.gov.lr/wp-content/uploads/2026/09/An_Act_For_The_Collection_Processing_-Transmission_-Storage_-Protection_-And_Use_Of_Personal-_Information_In_Liberia_Printed_Version_20260323_063904.pdf). No appointment, rule or registration regime under it is held.
 
 ## Malawi
 
@@ -113,6 +111,8 @@ A gap the repository has carried since April closed this month, though not by th
 ## Mali
 
 On 3 August the [data-protection authority opened its second 2026 session](https://orbiteinfo.com/mali-lapdp-ouvre-sa-2e-session-2026-avec-1-000-dossiers-au-programme/) with more than 1,000 files before it over ten days — authorisations, declarations, video-surveillance oversight, formal notices and direct sanction procedures — its president grounding the sanctions in Loi n2013-015 as amended.
+
+The largest privacy fact of the month came from outside the country. A model provider's threat report [says a consultant working with the state security agency used its AI model to build Lakana 360, a platform monitoring about 25 million SIM cards across all three mobile operators and capturing call records, messages and voice traffic, with a warrant requirement removed from one component](https://www.anthropic.com/threat-intelligence-report-september-2026). No Malian authority's response or legal basis for the interception is on record.
 
 ## Morocco
 
@@ -125,6 +125,8 @@ The data-protection law is closer to Parliament than it has been. Authorities [a
 ## Namibia
 
 Namibia said no to a data deal. The government [rejected a United States health data and specimen-sharing proposal, citing sovereignty](https://www.namibian.com.na/us-health-deal-faces-data-privacy-backlash-in-namibia/), while the two sides [raced to finalise HIV funding talks with the data-sharing question still open](https://www.namibian.com.na/critical-moment/). A refusal of this kind is rare enough on this repository to be worth recording as its own position. What the record held does not carry is the text of what was proposed, or what the funding now depends on.
+
+Refusing to share health data had a price. After the government rejected US terms on health data and specimens, the two governments [announced that US HIV funding ends after a single US$45m year in fiscal 2027](https://healthpolicy-watch.news/us-to-phase-out-hiv-support/).
 
 ## Nigeria
 
@@ -140,6 +142,8 @@ Child protection online entered the record as a consultation rather than a rule.
 An underground market trading national identity and bank verification numbers [shut down after an investigative report named its operator](https://fij.ng/article/after-fijs-investigation-ebis-illegal-data-market-shuts-down-but-ndpc-retains-him-as-licensee/), who remains a registered licensee of the data-protection commission. The closure and the licence surviving it are both the commission's own disposition; no enforcement notice against the operator is on file.
 
 The commission opened a second framework alongside its enforcement work: validation of a [data privacy framework for electronic commerce, at an Abuja workshop run with the German development agency and following a private-sector session in Lagos](https://techreviewafrica.com/public/news/7060/nigeria-moves-to-enhance-data-privacy-framework-for-e-commerce). No draft text, scope, commencement date or enforcement route is published, so what exists is a consultation rather than an instrument.
+
+The consultation acquired a political timetable on 10 September, when the education minister [trailed regulation of internet access for children under 16, to be announced by the security agencies within days or weeks](https://saharareporters.com/2026/09/11/nigeria-regulate-internet-access-children-below-16-education-minister-announces). The announcement is to come from the security agencies rather than a regulator, and no draft instrument is named.
 
 ## Rwanda
 
@@ -209,3 +213,5 @@ Two further protection questions surfaced without a regulator attached. The anti
 The government put the national data volume at [179 petabytes against 114 previously](https://technomag.co.zw/from-114pb-to-179pb-as-zimbabwes-data-doubles-govt-tells-tech-firms-corporate-responsibility-is-non-negotiable/) and cited the near-doubling in telling technology firms that corporate responsibility is not negotiable, resting the point on the National Child Online Protection Policy approved by Cabinet in June. Separately, civil-society organisations say [data-protection certification fees are high enough to exclude rural communities and young women](https://www.midweekwatch.com/civil-society-raises-alarm-as-exorbitant-data-protection-certification-fees-threaten-to-exclude-rural-communities-and-young-women/) from compliance; no fee schedule, exemption or regulator response is on file. The repository had been carrying that child-protection policy as three separate rows, minted from three separate reports; they are now resolved to one.
 
 The approval date itself is now settled from the primary record: the Office of the President and Cabinet's own briefing dates approval to the [Seventeenth Cabinet Meeting of 2 June 2026, and sets out nine strategic focus areas from institutional capacity and legal framework through technical control and corporate responsibility to monitoring and learning, aligned to the Constitution and the Children's Act, with legislation carrying enforceable sanctions to follow](https://www.zbcnews.co.zw/wp-content/uploads/2026/06/17th-PRESS-FINAL.pdf). The repository had been carrying 10 July 2026, which is the policy's Bulawayo launch.
+
+The child online protection policy moved to delivery. The ICT minister [told the National Assembly on 9 September that content gateways are being installed on public free Wi-Fi and in schools, with teacher and parent training](https://newziana.co.zw/zim-rolling-out-gateways-teacher-and-parents-training-in-line-with-the-child-online-protection-policy/), under an implementation committee with two other ministries.

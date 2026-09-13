@@ -1,17 +1,15 @@
 ---
 title: Data Storage — monthly update, August – September 2026
-compiled: 2026-09-11
-period: 2026-08-01 to 2026-09-11
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 subject: infra.store
-places: DZA; AGO; BWA; BFA; CMR; CPV; CAF; COG; CIV; EGY; GNQ; ERI; GMB; KEN; LSO; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SLE; SOM; ZAF; SSD; TZA; TUN; ZWE
-record: 8d63b2fa7398
+places: DZA; AGO; BWA; BFA; CMR; CPV; CAF; COG; CIV; EGY; GNQ; ERI; GMB; GIN; KEN; LSO; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SLE; SOM; ZAF; SSD; TZA; TUN; ZWE
+record: 130b7f8832a8
 ---
 
 # Data Storage: monthly update, August – September 2026
 
-*32 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+*33 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Algeria
 
@@ -20,6 +18,8 @@ The second of the state's two data centres passed its design review. The digital
 ## Angola
 
 The government's own hosting moved rather than the commercial estate. The telecommunications ministry [reinaugurated the government cloud's backup centre on 25 August after modernisation](https://pti.ao/minttics-conclui-modernizacao-do-centro-de-backup-da-cloud-do-governo/). No capacity, power figure or recovery objective is published with it, so what the repository holds is that the facility exists and has been worked on.
+
+The state printer [inaugurated a data centre on 11 September with more than 170 TB of storage and full redundancy for the official gazette's records](https://angop.ao/noticias/economia/imprensa-nacional-inaugura-data-center/); no investment value is disclosed.
 
 ## Botswana
 
@@ -73,6 +73,10 @@ Domestic hosting appears on this repository for the first time, and it is the st
 
 The first private data centre was inaugurated on 29 April 2026 and announced from the State House, the [operator claiming it as the country's first](https://www.datacenterdynamics.com/en/news/qgroup-launches-data-center-in-the-gambia-claims-it-is-the-countrys-first/). No capacity, occupancy or certification figure accompanies the claim, which leaves the country's private hosting estate established in existence and unmeasured in every other respect.
 
+## Guinea
+
+The national data centre was found idle a year after its opening. The prime minister [visited on 9 September and said the nearly US$10m facility, inaugurated in September 2025, is about 90% complete with one payment stuck and still not fully operational, calling the delay unacceptable](https://www.visionguinee.info/bah-oury-nous-avons-besoin-de-rattraper-notre-retard-et-de-renforcer-notre-souverainete-numerique/).
+
 ## Kenya
 
 On 4 August the operator building the 44MW Tatu City data centre [moved completion to July 2027](https://techtrendske.co.ke/2026/08/04/airtels-nxtra-data-centre-in-kenya-on-track-for-july-2027/) from a first-quarter 2027 date.
@@ -102,6 +106,8 @@ The month's only storage development is a private one. A commercial provider's s
 
 The revenue authority's own resilience improved on donor money. Its [World Bank-funded secondary data centre and uninterruptible power supply upgrades are reported as improving service continuity, cutting queues and improving customs-duty accuracy at border posts and the international airport](https://www.nyasatimes.com/backup-data-centre-boosts-continuity-at-malawi-revenue-authority/), under a six-year, US$150m regional trade and connectivity project running to 2027. The financing commitment date is not stated in the record held, and no capacity, location or availability figure is given for the facility.
 
+The second operator reached its third data centre by purchase. It [bought another company's Tier III facility at Kanengo for K12bn, about US$6.9m, to join with its Limbe site as one cloud](https://www.itweb.africa/article/tnm-expands-malawi-data-infrastructure/mYZRXM9gbA6vOgA8), three months after the build it announced was due.
+
 ## Mauritania
 
 The national government cloud is close enough to service to be shown off. On 11 August a visiting development-bank vice-president [was briefed at the national data centre on data-security testing and migration preparation ahead of go-live](https://alwiam.info/ar/51206). No go-live date, migration scope or capacity figure is stated.
@@ -118,6 +124,8 @@ The Dakhla campus acquired a shape without acquiring a date. It is [planned as a
 
 
 The compute platform behind that estate acquired a price. A press account citing third-party analysis [puts the Casablanca project at roughly US$1.2bn and up to 500MW, naming a South Korean cloud operator, a chip maker and the platform's developer, with a second renewable-powered project planned for Dakhla](https://en.walaw.press/country/geopolitics/QWSP/articles/morocco_bets_on_data_centers_and_artificial_intelligence_to_strengthen_its_digital_position_in_africa/GPFFXPMLMSMF). Neither figure comes from a filing, and the question the same account raises is whether hosting foreign-operated infrastructure builds anything domestic beyond the hosting.
+
+The Dakhla campus now has a size: [100 hectares and 500MW, in a portfolio presented as taking national data-centre capacity towards one gigawatt](https://leseco.ma/maroc/maroc-ia-2030-le-royaume-passe-de-lambition-a-laction.html), with no financing close or build date.
 
 ## Mozambique
 

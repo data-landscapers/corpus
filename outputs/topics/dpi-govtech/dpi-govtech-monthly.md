@@ -1,17 +1,15 @@
 ---
 title: Other GovTech and e-Gov — monthly update, August – September 2026
-compiled: 2026-09-11
-period: 2026-08-01 to 2026-09-11
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 subject: dpi.govtech
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 216c233b1723
+record: f09092ffe704
 ---
 
 # Other GovTech and e-Gov: monthly update, August – September 2026
 
 *49 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -26,6 +24,8 @@ The services-import platform announced on 27 July becomes the exclusive route fr
 August added two more, and one admission. The trade ministry's [complaints platform for economic operators went live on 11 August](https://www.horizons.dz/2026/08/operateurs-economiques-une-nouvelle-plateforme-numerique-pour-le-traitement-des-preoccupations-a-distance/), for remote filing and tracking of concerns about import and export procedures, and the ministry describes it as the fifth platform it has put into service this year. The Ombudsman institution will [pilot a videoconference citizen-reception service from September 2026](https://www.horizons.dz/2026/08/instance-du-mediateur-de-la-republique-nouvelle-vision/), to ease access for citizens in remote areas and people with specific needs. Against that, on 10 August the interior minister [ordered his own ministry to accelerate digitisation projects he described as stalled](https://www.horizons.dz/2026/08/numerisation-sayoud-ordonne-daccelerer-la-mise-en-oeuvre-des-projets/), naming vehicle-registration and civil-status services, at a review held under presidential instructions to speed cross-sector interconnection. He does not say in what respect they have stalled, and gives no completion figure or revised timetable.
 
 The state fuel distributor [made its e-Mahata platform the single window for ordering tyres](https://just-infodz.com/naftal-pneus-algerie-incoherence-himayatak/), requiring electronic payment and capping one make at two purchases per citizen per six months â€” a rationing rule enforced through an identity-bound ordering platform rather than at the counter. Separately, the labour ministry [launched an online corruption-reporting platform, Tabligh](https://just-infodz.com/lutte-corruption-algerie-plateforme-tabligh-mtess/), covering the central administration, with no report volume, handling procedure or protection for reporters published.
+
+The national portal grew by count. The high commission [put it at 150 services on 9 September, against 21 at launch, when three water-sector services went live](https://algerie54.dz/hydraulique-lancement-de-trois-nouveaux-services-via-le-portail-national-des-services-numeriques), alongside [five tax certificates and attestations](https://elwatan.dz/dzair-digital-services-impots-integration-de-cinq-nouveaux-services-numeriques/). The same week the president [ordered the investor single window effectively in service by the end of September and all investment procedures digitised with the tax, state-property and customs administrations](https://elwatan.dz/le-president-tebboune-ordonne-lacceleration-de-la-numerisation-mise-en-service-du-guichet-unique-fin-septembre/).
 
 ## Angola
 
@@ -119,6 +119,8 @@ One platform went the other way. The prime minister said on 3 September that [fa
 
 The unified card's terms reached the repository. It is [issued free as a prepaid, fingerprint-authenticated card through the postal service, carrying bread and ration subsidy alongside health insurance, and usable at point-of-sale terminals and cash machines](https://www.egyptindependent.com/everything-you-need-to-know-about-the-unified-card-a-new-alternative-to-the-ration-card/). The account is a newspaper explainer of a gradual rollout: no issuance count, coverage figure, governorate list or completion date is published, so the card's design is established and its reach is not.
 
+The services platform put new totals on itself at its UN award shortlisting: [12.9 million registered citizens, more than 240 services and about 60 million transactions, integrated with 109 government entities](https://www.maspero.eg/economy/2026/09/09/987902/%D9%85%D9%86%D8%B5%D8%A9-%D9%85%D8%B5%D8%B1-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D8%AA%D8%AA%D8%A3%D9%87%D9%84-%D9%84%D9%84%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A7%D9%84%D9%86%D9%87%D8%A7%D8%A6%D9%8A%D8%A9-%D9%84%D8%AC%D9%88%D8%A7%D8%A6%D8%B2-%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D9%84_%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A), the ministry's own figures.
+
 ## Equatorial Guinea
 
 The Comité Nacional de la Cuenta Única del Tesoro, chaired by the prime minister, [approved a work programme and institutional roadmap](https://www.guineaecuatorialpress.com/noticias/el_gobierno_impulsa_la_implementacion_de_la_cuenta_unica_del_tesoro) at the Presidency on 5 August 2026. The general census of all state bank accounts is complete; the new financial-management model will be built on AMS/X and SINTAG, both already used by the BEAC, interconnected with the Treasury's public-finance systems; and implementation runs in five phases with entry into production in the first quarter of 2027. No cost, implementing agency or supplier is stated.
@@ -180,6 +182,8 @@ The platform also failed twice. On 26 August the payment layer [went down for mu
 
 Its legal footing moved the other way. On 27 August the Treasury [presented draft regulations to the National Assembly's delegated legislation committee that would replace eCitizen's convenience fee with a statutory access fee and vest ownership, hosting, administration, maintenance and security of the platform in the Treasury](https://sokodirectory.com/2026/08/treasury-unveils-plan-to-replace-ecitizen-convenience-fees-with-access-fees/), and members of parliament [demanded clarity on who owns the platform](https://peopledaily.digital/news/mps-demand-clarity-on-ecitizen-ownership-as-treasury-unveils-new-regulations) as they did so.
 
+On the one citizen survey held, [digital-government adoption stands at 49% and net satisfaction fell five points from 2024 to 64%, with 12% of users reporting no problems, the lowest share of 44 countries surveyed](https://techtrendske.co.ke/2026/09/10/kenyans-among-worlds-heaviest-ai-users-survey-shows/).
+
 ## Lesotho
 
 At the launch of the national response team the ministry [also stated a plan to move ICT services out of the civil service into a separate agency](https://www.gov.ls/ict/ministry-of-information-communications-science-technology-and-innovation-launched-lescomcsirt-and-inaugural-national-cybersecurity-forum/). No enabling instrument, budget, staffing or date accompanies it, so the plan is on record and the agency is not.
@@ -192,6 +196,8 @@ Licensing moved off paper in the same week. The telecommunications regulator [pu
 
 
 A second permit process is following it online. The education ministry says it is [digitising operating permits for private schools after finding schools submitting mismatched teacher-qualification records, and has mapped schools across five counties with donor support to extend the mapping to ten more](https://newspublictrust.com/education-ministry-advances-digital-school-permit-system-while-funding-provided-to-renovate-public-schools). No platform, cost or completion date is named.
+
+The internal audit agency [launched an audit management system on 10 September to automate audits across ministries, agencies and public corporations](https://frontpageafricaonline.com/liberia-iaa-launches-digital-platform-to-improve-audit-processes/), a year after [tendering a consultancy to build it](https://iaa.gov.lr/processes-automation/); no cost, vendor or onboarding count is published.
 
 ## Libya
 
@@ -257,6 +263,8 @@ The tax authority made the fiscal clearance certificate available online from 3 
 
 The agency's own account of the citizen portal names what it rests on: [the government network, the government cloud storage platform, state electronic payments and digital identity](https://pt.linkedin.com/posts/atdi-ip_atdi-apresenta-portal-do-cidad%C3%A3o-e-coloca-activity-7501551667520368640-SmSp). Which of those is actually in service behind it is not stated, and no service count beyond about 140, user figure or launch date accompanies the presentation — so the dependencies are published and their readiness is not.
 
+The citizen portal put a live count beside its target: [21 services already offered against about 140 planned, the agency citing 66% of Mozambicans without identification](https://www.brasil247.com/blog/mocambique-acelera-modernizacao-do-estado-para-colocar-servicos-basicos-na-palma-do-cidadao/). The prime minister [directed the state digital certification system extended across all sectors](https://techreviewafrica.com/news/7110/mozambique-pm-urges-intic-to-expand-digital-certification-across-state-institutions).
+
 ## Namibia
 
 One service moved online and the warning about it came from the people it is for. The health ministry launched a digital disability assessment system, and [disability advocates warned that poor rural connectivity, inadequate equipment and limited digital skills could turn it into a new barrier rather than remove one](https://www.namibian.com.na/digital-disability-system-faces-rural-roadblocks/), a youth disability organisation welcoming the digital shift but making its success conditional on whether the system is accessible beyond the major urban centres and on whether follow-up support exists. No launch date, site coverage, assessment volume, accessibility standard or offline fallback is published, and the ministry's own account of the system is not held.
@@ -272,6 +280,8 @@ Two more federal fronts opened in the same week. The communications ministry [la
 A state payroll moved onto one record. Ondo State [launched Ondo Pay on 4 September, bringing employee records, salary computation, approvals, reporting, payroll processing and pension migration into one environment with a mobile self-service application for payslips and permitted record updates](https://www.thisdaylive.com/2026/09/04/aiyedatiwa-ushers-in-new-era-of-digital-governance-with-ondo-pay/); the state says bank-verification-number integration, controlled access and auditable workflows are meant to remove duplicate and non-genuine records and unauthorised payments. No cost, vendor or headcount is published, so the claim cannot be tested against a payroll figure.
 
 The police opened a public fraud-reporting channel on 1 September, and it is the fourth such platform in a decade. [The app lets people report suspected financial fraud, upload evidence, track cases and receive feedback, built by the force's own ICT department with financial-sector stakeholders](https://techcabal.com/2026/09/07/nigerias-police-vigilant-app-raises-questions-duplicate-fraud-reporting/), and it arrives over a cybercrime centre already logging about 146,000 reports and about ₦58bn in recovered assets. Nothing published says how the new channel routes against the centre already running, or what became of the three earlier platforms.
+
+Two September measures reach further into the state. A [single 112 emergency number, approved by the National Economic Council, went to a rollout committee of the police, communications regulator, emergency agency and road safety corps on 8 September](https://www.naltf.gov.ng/shettima-urges-swift-action-as-nigeria-prepares-for-nationwide-rollout-of-112-emergency-line), with funding promised once the roadmap exists. And the procurement bureau's [Digital Submission Portal was made mandatory for every federal agency's procurement requests](https://developmentdiaries.com/as-nigerias-procurement-goes-digital-why-cant-citizens-see-the-contracts/), an internal record that publishes no award. On the one citizen survey held, [digital-government adoption stands at 50% while net satisfaction fell five points from 2024 to 64%](https://techeconomy.ng/report-nigerias-digital-government-adoption-now-50-weekly-usage-hits-91).
 
 ## Rwanda
 
@@ -326,11 +336,15 @@ The month's longest departmental procurement went to the least connected populat
 
 The social security agency [opened a messaging self-service channel letting a grant beneficiary check application status, review status and proof-of-life verification without visiting an office, after verification by mobile number, one-time PIN and identity number](https://www.citizen.co.za/alberton-record/news-headlines/local-news/2026/08/28/sassa-rolls-out-whatsapp-self-service-for-grant-beneficiaries/); no usage figure is published.
 
+The nomination dispute reached the system's own record. The electoral commission's [audit trail shows no system activity in two of the six disputed councils in the final two hours before the deadline, and 2,274 candidates from 45 parties captured but never submitted as final](https://www.dailymaverick.co.za/article/2026-09-11-iec-audit-trail-challenges-ancs-claim-of-technical-problems/), against the governing party's account that technical problems stopped its operators.
+
 ## Sudan
 
 [Baladna was adopted as the sole national platform for all foreign-trade transactions on 5 August 2026](https://sudantribune.net/article/317080), with permits issuable from any location, at a finance-ministry-chaired meeting that also resolved to unify state-level border-trade protocols into a single national legal framework. [The Judicial Authority signed a contract with the National Technical Company on 4 August](https://alwatannewssd.com/88831/) for a judiciary digital-transformation project, financed by the finance ministry and vetted by the justice ministry's contracts department, with no value, duration, system list or delivery timetable disclosed. A second procurement system entered service: [Nazaha, a national digital public-procurement and contracting platform, was launched and stated as aimed at transparency and fair competition in the allocation of government contracts](https://www.connectingafrica.com/digital-inclusion/sudan-unveils-new-digital-public-procurement-system) (12 August). No coverage, entity count, procurement value or mandatory-use instrument is published for it.
 
 A third oversight system was announced without a shape. The finance ministry says a [comprehensive electronic oversight system covering public bodies and government companies is forthcoming](https://sudanhorizon.com/finance-ministry-package-of-reform-policies-without-imposing-new-burdens/), in the same statement in which it attributes a significant rise in first-half 2026 public revenue to expanding the electronic collection system, rolling out electronic invoicing and tightening customs and tax exemptions, without new taxes. No revenue figure, baseline or attribution method is given for the rise, and no scope, custodian or timetable for the oversight system.
+
+Identity services are being rebuilt in the capital. The police [reopened the Omdurman and Bahri service complexes, with transactions rising from 206,362 in 2025 to 522,225 in 2026](https://sudan4news.com/?p=35463), and [set out a plan to issue passports, ID cards and licences from home, with cash abolished at the counters through seven banks](https://fjajpress.net/en/police-forum-5-digital-transformation-and-identity-protection-take-center-stage-in-the-battle-of-dignity/).
 
 ## Tanzania
 
@@ -345,6 +359,8 @@ The commodity exchange took its first crop online. The cereals regulator [sold 3
 One procedure came off paper. The council of ministers [adopted a decree on 26 August amending the investment-approval committee so that the approval procedure is handled electronically](https://www.republiquetogolaise.tg/gestion-publique/2708-12211-conseil-des-ministres-du-26-aout-2026). The ministry the same week [set out accelerating reforms across governance, land and digital, naming cyberdefence and biometrics](https://www.republicoftogo.com/toutes-les-rubriques/eco-finance/gouvernance-foncier-numerique-les-reformes-accelerent). Neither account carries a timetable or a cost.
 
 The transit-tracking system took on a new cargo type: the revenue office [opened a Lome pilot on 1 September extending electronic tracking to trucks carrying petroleum products in transit to Burkina Faso, Mali and Niger](https://www.togofirst.com/en/public-finance/0209-19934-togo-pilots-electronic-tracking-for-petroleum-transit-cargo), under a system operational since October 2022. No device count, cost or evaluation criterion is published.
+
+The public-services portal [moved to a modernised version in September that keeps existing logins and past requests, after handling more than 400,000 requests in 2024](https://lomebougeinfo.tg/modernisation-du-portail-des-services-publics-togolais/).
 
 ## Tunisia
 
@@ -365,6 +381,8 @@ Upstream of any of it, German cooperation [tendered a consultancy on 5 August to
 The public procurement and disposal authority [partnered with a budget-advocacy group to strengthen monitoring of government contracts](https://ubc.go.ug/2026/08/21/ppda-partners-with-csbag-to-strengthen-monitoring-of-government-contracts/). No scope, dataset or first published finding accompanies the announcement.
 
 The procurement system was restated as a fiscal-discipline instrument rather than a procurement one, the finance minister setting it [alongside budget-execution controls and the accounting profession's own role in evidence-based decision-making at a professional seminar on 3 September](https://www.finance.go.ug/media-center/news-and-updates/musasizi-tasks-accountants-fiscal-discipline-accountability). No new onboarding or throughput figures came with it.
+
+The revenue authority [told manufacturers its replacement tax platform has been in build since February 2026, web-only and keyed on national identity and business registration numbers](https://mulengeranews.com/ura-engages-manufacturers-on-new-tax-reforms-digital-systems-and-import-fee-changes/), an account that sits unreconciled with the award the Appeals Tribunal set aside.
 
 ## Zambia
 

@@ -1,17 +1,15 @@
 ---
 title: Literacy — monthly update, August – September 2026
-compiled: 2026-09-10
-period: 2026-08-01 to 2026-09-10
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 subject: capacity.literacy
 places: AGO; COM; COD; GHA; KEN; LBR; MOZ; RWA; SEN; SSD; TZA; TGO; ZMB
-record: 072776b4089d
+record: f4f2acb1c927
 ---
 
 # Literacy: monthly update, August – September 2026
 
 *13 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
 
 ## Angola
 
@@ -50,6 +48,8 @@ The online-safety half of literacy was taught to the adults rather than the chil
 ## Senegal
 
 Connectivity is being aimed at classrooms. The education ministry [plans to connect more than 8,000 primary schools to the internet through Starlink](https://techgriot.co/english/africa/2026/08/senegal-to-connect-8000-primary-schools-via-starlink/). Satellite is the route because terrestrial reach is the constraint, and a plan of that size would change what the Digital Schools programme can assume. Nothing in the record held names a school connected, a cost or a funding source.
+
+The civil service plan cleared validation on 10 September, [setting role-graded digital competences for state employees in data, information systems, AI and cybersecurity](https://www.wearetech.africa/fr/fils/actualites/tech/senegal-un-plan-national-de-formation-pour-adapter-l-administration-a-l-ere-numerique), with no target population, budget or start date published.
 
 ## South Sudan
 

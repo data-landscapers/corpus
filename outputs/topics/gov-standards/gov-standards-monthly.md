@@ -1,17 +1,15 @@
 ---
 title: Standards — monthly update, August – September 2026
-compiled: 2026-09-11
-period: 2026-08-01 to 2026-09-11
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 subject: gov.standards
 places: AGO; BEN; CPV; CAF; TCD; COM; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GIN; KEN; LBY; MWI; MLI; MRT; MUS; MOZ; NER; NGA; RWA; STP; SEN; SYC; SOM; ZAF; SDN; TZA; TGO; UGA; ZMB
-record: 9f870ed508d9
+record: 60e8e0dd10ec
 ---
 
 # Standards: monthly update, August – September 2026
 
 *35 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
 
 ## Angola
 
@@ -151,6 +149,8 @@ Two standing accounts entered the record and no standard was made. The national 
 ## Tanzania
 
 The window's only standards movement is a visit. The communications regulator [undertook a two-day benchmarking visit to its Kenyan counterpart to exchange experience and practice in regulating satellite communications](https://techafricanews.com/2026/08/27/kenya-tanzania-deepen-satellite-regulatory-cooperation/). Nothing was signed and nothing issued: it is carried because the repository holds no other statement of how this regulator approaches satellite licensing, and it will settle or lapse on whether anything follows.
+
+Zanzibar's government [told its House of Representatives on 9 September that a guideline on shared fibre poles and a single fibre contractor is being prepared](https://www.mwananchi.co.tz/mw/zanzibar/habari/serikali-yaandaa-mwongozo-kudhibiti-utitiri-wa-nguzo-za-fiber-mitaani-5589092), after each provider erected its own.
 
 ## Togo
 

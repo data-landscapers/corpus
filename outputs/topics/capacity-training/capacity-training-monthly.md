@@ -1,17 +1,15 @@
 ---
 title: Training and skills — monthly update, August – September 2026
-compiled: 2026-09-11
-period: 2026-08-01 to 2026-09-11
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 subject: capacity.training
 places: DZA; AGO; BEN; BDI; CMR; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 5ff2da32fb6a
+record: 32af33619583
 ---
 
 # Training and skills: monthly update, August – September 2026
 
 *43 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -128,6 +126,8 @@ The same 22 July an operator [reported 350 young people placed on the labour mar
 On 30 July UNESCO and Japan [handed the education ministry FCFA 88,740,927 of equipment for eight teacher-training institutes](https://www.unesco.org/fr/articles/lunesco-remet-des-equipements-et-materiels-informatiques-au-ministere-de-leducation-nationale-au) — 40 laptops, 16 all-in-one computers, 32 tablets, and projectors, whiteboards, printers and backup devices — with no maintenance, connectivity or software provision stated.
 
 On 1 August recruitment opened for the first cohort of a [digital-skills programme for 15,000 young people](https://lessor.ml/posts/semaine-du-numerique-notre-pays-veut-accelerer-sa-transformation-digitale-6a6e52f6dcfc0) run under a convention with the Association Kabakoo.
+
+The youth digital skills convention delivered its [first cohort of 1,000, in bursaried four-month training toward a target of 15,000 over three years](https://www.maliweb.net/technologie/kabakoo-academies-et-la-dnen-lancent-la-premiere-cohorte-de-leur-partenariat-pour-renforcer-les-competences-numeriques-des-jeunes-au-mali-3119774.html).
 
 ## Mauritania
 

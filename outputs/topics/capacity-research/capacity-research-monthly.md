@@ -1,17 +1,15 @@
 ---
 title: Research institutions — monthly update, August – September 2026
-compiled: 2026-09-11
-period: 2026-08-01 to 2026-09-11
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 subject: capacity.research
-places: CAF; COM; COG; CIV; COD; EGY; ETH; GHA; KEN; LBY; MAR; MOZ; NER; RWA; SLE; ZAF; TZA; UGA
-record: 44ccefed06b4
+places: CAF; COM; COG; CIV; COD; EGY; ETH; GHA; KEN; LBY; MAR; MOZ; NER; RWA; SLE; ZAF; TZA; UGA; ZWE
+record: f730941cc740
 ---
 
 # Research institutions: monthly update, August – September 2026
 
-*18 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+*19 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Central African Republic
 
@@ -86,3 +84,7 @@ A national institution of science and technology was [selected as the country's 
 ## Uganda
 
 Academic research capacity enters this record for the first time, and as a conversation. The national university and Japan's international cooperation agency [explored strengthening academic, research and innovation collaboration between Uganda, Japan and other African countries, with a focus on artificial intelligence, aerospace engineering, materials and remote sensing, food value chains, energy, water and climate change](https://news.mak.ac.ug/2026/09/jica-makerere-university-explore-new-frontiers-in-ai-and-research-collaboration/). No agreement, funding, programme or timetable is named on either side.
+
+## Zimbabwe
+
+The regulator [opened a national digital technologies policy research programme with the research council and the industrial research centre, inviting proposals on AI governance, data sovereignty and platform regulation by 3 October](https://yuthaxis.com/wp-content/uploads/2026/09/Call-for-Policy-Proposal-joint.pdf). No grant size or number of awards is stated.

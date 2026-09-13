@@ -1,17 +1,15 @@
 ---
 title: National statistics — monthly update, August – September 2026
-compiled: 2026-09-11
-period: 2026-08-01 to 2026-09-11
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 subject: data.statistics
-places: BEN; BWA; BDI; CMR; CAF; TCD; COM; COG; COD; GNQ; GAB; GHA; KEN; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; TGO; UGA; ZWE
-record: 6082c6b90a41
+places: BEN; BWA; BDI; CMR; CAF; TCD; COM; COG; COD; GNQ; SWZ; GAB; GHA; KEN; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; TGO; UGA; ZWE
+record: 92797f08dd05
 ---
 
 # National statistics: monthly update, August – September 2026
 
-*31 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+*32 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Benin
 
@@ -66,6 +64,10 @@ Census preparation was validated a second time in four weeks without an enumerat
 The fifth interministerial council of the year [adopted a National Quality Assurance Framework for official statistics on 25 August, a standardised protocol for the collection, processing and dissemination of socio-economic data presented as aligning national method with international standards](https://ahoraeg.com/politica/2026/08/25/el-gobierno-afianza-la-disciplina-fiscal-y-la-transparencia-en-el-quinto-consejo-interministerial-del-2026/); the framework text is not published.
 
 The statistics institute went out to the ministries rather than waiting for their returns. A [ministry-by-ministry supervision tour of statistical services began on 2 September at the interior and education ministries and runs to 9 September, ordered by the national statistics council's eighth session of 27 August, to assess each service's state and consolidate the national statistical system](https://realequatorialguinea.com/inege/inege-inicia-una-gira-por-los-servicios-estadisticos-de-los-ministerios-para-consolidar-el-sistema-estadistico-nacional/). No findings, service inventory or report from the tour is published, and the account is the institute's own.
+
+## Eswatini
+
+The inclusion survey is in the field: [the 2026 FinScope round covers 3,200 households in 320 enumeration areas, the first measurement since the 2018 round put inclusion at 87%](https://eswatinipositivenews.online/eswatini-targets-100-financial-inclusion-through-finscope-survey/), with no publication date given.
 
 ## Gabon
 
@@ -138,6 +140,8 @@ The statistical work of the window is climate data with a funding line behind it
 ## Sierra Leone
 
 A second national collection was launched inside nine months. The [2026 Demographic and Health Survey was launched on 4 August](https://sierraleone.unfpa.org/en/news/united-nations-reaffirms-support-sierra-leone-officially-launches-2entity26-demographic-and), after the 2026 census in December. Neither carries a published enumeration date, budget or field methodology.
+
+The census has a date and a hole in its budget. The president [set Census Night for 1 December 2026 and put the financing gap at US$37m, against US$24m committed by government of which about US$15m is disbursed](https://statehouse.gov.sl/2026/09/11/sierra-leones-president-bio-calls-for-faster-development-delivery-stronger-coordination-at-depac-meeting/). The civil registration authority [put a draft 2025 vital statistics report to two days of stakeholder validation](https://sierraloaded.sl/news/ncra-validation-sierra-leones-statistics/).
 
 ## South Africa
 

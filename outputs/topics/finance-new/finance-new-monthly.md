@@ -1,17 +1,15 @@
 ---
 title: New investments — monthly update, August – September 2026
-compiled: 2026-09-11
-period: 2026-08-01 to 2026-09-11
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 subject: finance.new
 places: AGO; BEN; BFA; CMR; TCD; COG; CIV; COD; EGY; SWZ; ETH; GHA; KEN; MWI; MUS; MAR; MOZ; NGA; RWA; ZAF; TZA; ZMB; ZWE
-record: 9ed068645cc5
+record: db433a011ae7
 ---
 
 # New investments: monthly update, August – September 2026
 
 *23 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
 
 ## Angola
 
@@ -28,6 +26,8 @@ The regional development bank's Digital Transformation Fund [was presented to pu
 ## Cameroon
 
 What deters investment was named out loud. At a United States-convened business climate forum in Yaoundé, [financial technology and foreign-exchange rules rather than the investment case dominated the discussion](https://www.businessincameroon.com/public-management/2708-16628-cameroon-s-regulatory-hurdles-take-center-stage-in-talks-to-unlock-u-s-investment), and a separate assessment [set out what is still getting in the way of United States digital investment despite strong demand](https://www.ecofinagency.com/news-digital/2808-58424-u-s-digital-investment-in-cameroon-what-is-still-getting-in-the-way). Demand is not the constraint here and both accounts say so; the record held carries no rule changed in response.
+
+The EU's digital money was set out in September: [CFAF 9.83bn for the regional Digital Business Boost for Africa and CFAF 9.83bn for Digital Acceleration in Cameroon, signed on 16 June](https://www.businessincameroon.com/cooperation/1109-16730-cameroon-eu-shape-new-sme-agenda-around-finance-and-digitalization).
 
 ## Chad
 

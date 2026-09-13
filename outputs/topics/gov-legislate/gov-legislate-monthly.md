@@ -1,17 +1,15 @@
 ---
 title: Legislation and regulation — monthly update, August – September 2026
-compiled: 2026-09-11
-period: 2026-08-01 to 2026-09-11
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 subject: gov.legislate
-places: DZA; AGO; BEN; BDI; CMR; CPV; TCD; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; UGA; ZWE
-record: bf32c9caaa07
+places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; TCD; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; UGA; ZWE
+record: 8737335773d3
 ---
 
 # Legislation and regulation: monthly update, August – September 2026
 
-*40 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+*41 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Algeria
 
@@ -35,6 +33,10 @@ The national cybersecurity centre, whose statute was published in December 2025,
 
 The framework statute reached into the workplace. On a newspaper’s reading of [article 379 of the Code du numérique, a company phone, a company-issued number or a work messaging group does not by itself entitle an employer to read the messages on it](https://www.lanation.bj/societe/societe-votre-patron-peut-il-lire-vos-messages-whatsapp-professionnels). It is a reading rather than a regulator decision or a judgment, and the repository holds no enforcement action on workplace monitoring.
 
+## Burkina Faso
+
+Civil status abroad got a new legal base: the Council of Ministers [adopted a decree on 10 September replacing the 1963 rules on diplomatic and consular civil-status powers and introducing mobile consular missions](https://www.rtb.bf/2026/09/10/conseil-des-ministres-n26-du-10-septembre-2026/).
+
 ## Burundi
 
 An [access-to-information bill is on the National Assembly's order paper for the session opened at the Kigobe Congress Palace on 3 August 2026](https://lerenouveau.bi/assemblee-nationale-ouverture-de-la-session-parlementaire-ordinaire-daout-2026/). The first vice-president listed it among the bills the chamber will examine. Article 176 caps ordinary sessions at three months, putting the outer bound for passage in this sitting at roughly end-October 2026. No text, tabling number, sponsoring ministry or timetable was published and no copy is held — the announcement establishes only that the bill exists and is scheduled. Burundi has had no access-to-information statute on file to date.
@@ -54,6 +56,8 @@ The regulator [opened a public consultation on licensing, spectrum use, frequenc
 Chad's digital statutes entered the repository this month by being listed, not by being made. The regulator's register [names the 2015 laws on cybersecurity, electronic transactions and personal data protection as the laws it works under](https://arcep.td/lois.html) and links the text of none; the statistics institute [names Loi n. 026/PR/2019 and four decrees](https://www.inseed.td/index.php/systeme-statistique-national/textes-reglementaires).
 
 On payments there is nothing national to name at all: the central bank's register [gives the regional payment systems regulation of December 2016 as the instrument in force](https://www.beac.int/systemes-paiement/instructions-circulaires-reglements/). A payments law that is regional and a practice that runs on conventions with four operators leave no statute a citizen can be pointed to.
+
+The Council of Ministers [adopted a draft labour code on 3 September that replaces the 1996 law and brings digital platform workers under a presumption of salaried status](https://lendjampost.com/travail-le-tchad-change-les-regles-entre-employe-et-employeur/); it is not yet before the legislature.
 
 ## Cote d'Ivoire
 
@@ -88,6 +92,8 @@ The data-protection regulations went to the market before they bite. The ministr
 ## Equatorial Guinea
 
 The full text of the 2024 social media and computer crime law reached the repository this month: it [criminalises computer fraud, identity theft and false news online](https://www.guineaecuatorialpress.com/noticias/ley_por_la_que_se_regula_el_uso_de_las_redes_sociales_los_delitos_informaticos_y_la_ciber_delincuencia) and creates the national cybersecurity agency the ledger has carried as an entity with no premises, staffing or budget on record. The government [reasserted the law's full force on 1 July amid rising complaints, naming neither artificial intelligence nor deepfakes](https://www.guineaecuatorialpress.com/noticias/el_gobierno_recuerda_la_plena_vigencia_de_la_ley_que_regula_el_uso_de_las_redes_sociales_los_delitos_informaticos_y_la_ciber_delincuencia). Alongside it the information minister [presented a press-law reform bill on 6 August regulating digital media and cable television for the first time](https://ahoraeg.com/politica/2026/08/07/el-gobierno-propone-por-primera-vez-regular-los-medios-digitales-y-la-tv-por-cable-en-la-nueva-ley-de-prensa/), now under committee review with no adoption date and no bill text published. The Chamber of Deputies' own account of the sitting shows it was not presented alone: [a separate Copyright and Related Rights bill went to the chamber the same day](https://www.guineaecuatorialpress.com/noticias/comienza_en_la_camara_de_los_diputados_varios__proyectos_de_leyes), implementing Equatorial Guinea's 1997 Berne Convention accession and its 2015 Bangui Agreement obligations under OAPI, so the copyright provisions are a companion instrument rather than part of the audiovisual bill.
+
+The press bill cleared the lower house: [the Chamber of Deputies unanimously approved on 11 September the bill replacing the 1997 press law, which covered no digital journalism](https://www.guineaecuatorialpress.com/index.php/noticias/la_camara_de_los_diputados_ha_aprobado_tres_proyectos_de_leyes_presentados_por_el_gobierno).
 
 ## Eswatini
 
@@ -211,6 +217,8 @@ The instrument the accreditation was granted under is now held in full: [General
 
 The civil-status reforms are being explained rather than amended. The national awareness tour reached its fourth stage with [a workshop opening in Agadez on the civil-status and personal-identification reforms](https://anp.ne/ouverture-a-agadez-dun-atelier-de-sensibilisation-sur-les-reformes-en-matiere-de-letat-civil-et-didentification-des-personnes-au-niger/), where [the region mobilised its actors around inclusive governance of the new regime](https://airinfoagadez.com/2026/08/28/reformes-de-letat-civil-et-de-lidentification-agadez-mobilise-ses-acteurs-pour-une-gouvernance-inclusive/). Explaining a reform is not implementing it, and the record held carries no count of registrations made under the new regime in any region the tour has passed through.
 
+Online media are to be brought under dedicated rules: the Council of Ministers [adopted a draft ordinance on the electronic press and a decree on accrediting foreign correspondents on 10 September](https://www.gouv.ne/index.php/les-communiques-du-gouvernement/1303-conclusions-du-conseil-des-ministres-du-jeudi-10-septembre-2026).
+
 ## Nigeria
 
 On 29 July a claimant won the [first damages award](https://saharareporters.com/2026/08/01/court-slams-stanbicibtc-over-data-privacy-breach-awards-ex-customers-n15million-orders) under the Act — ₦15m, ₦500,000 costs and 10% post-judgment interest — against a bank that kept marketing after consent was withdrawn. Liability rested on three instruments at once. The court also held that personal data must be erased on termination but refused wholesale deletion where statutory banking and anti-money-laundering retention applies.
@@ -245,6 +253,8 @@ The regulator has said the [Subscribers Regulations 2025 will fine operators 25,
 Mobile-money fraud reached Parliament. A legal analysis found the [National Communications Authority Act 2022 addresses its enforcement powers to licensees only, with no statutory reversal mechanism, no SIM-swap safeguards and no allocation of loss for authorised push payment fraud](https://owlpress-sl.com/dont-call-meeting-inside-whatsapp-scam-emptying-orange-money/); a former minister replied that the [central bank's existing know-your-customer rules are adequate and only enforcement is missing](https://sierraloaded.sl/news/sylvia-blyden-kyc-mobile-money-fraud/), identifying no provision by instrument or section. The two accounts have not been reconciled.
 
 A further instrument entered consultation: the Public Financial Management Act 2026 [went to stakeholder consultation in Freetown on 18 August, with digital reforms proposed in it](https://sierraloaded.sl/news/digital-reforms-proposed-new-finance-law/). The draft is not published, so which reforms those are cannot be read off the record.
+
+A [Digital Government Bill with data-governance and child-protection provisions is being prepared with the Attorney-General's office](https://sierraloaded.sl/local/reviews-security-childrens-vaccination-data/), with no draft or timetable published.
 
 ## Somalia
 

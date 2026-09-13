@@ -1,17 +1,15 @@
 ---
 title: Digital divides — monthly update, August – September 2026
-compiled: 2026-09-11
-period: 2026-08-01 to 2026-09-11
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 subject: include.divides
 places: AGO; BWA; BDI; COD; EGY; SWZ; GMB; GHA; GNB; KEN; MWI; MOZ; NER; NGA; SEN; ZAF; UGA
-record: 61fbdc1fcb9f
+record: 4a82f0576a91
 ---
 
 # Digital divides: monthly update, August – September 2026
 
 *17 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
 
 ## Angola
 
@@ -51,6 +49,8 @@ Existing money went the other way. An implementing partner's account of 12 Augus
 
 The rural project's own numbers reached the repository on 5 September. [1,400 of 2,016 rural telephony sites are live and the universal-access fund carries a GHS 30m allocation for the project in 2026](https://www.myjoyonline.com/govt-to-upgrade-all-rural-telephony-networks-to-4g-capability-sam-george/), with the minister directing that every site be upgraded to at least 4G on the ground that 2G and 3G no longer carry the services the sites exist to deliver, a directive [repeated on an Eastern Region site inspection the next day](https://newsalertgh.com/2026/09/06/sam-george-inspects-rural-telephony-projects-to-boost-mobile-network-connectivity-in-eastern-region/). It carries no timetable, cost or contracting route, and 616 sites are not yet live. Above it, [smartphone penetration is put at 71.8% in June 2026 against 27.5% a decade earlier](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/) — the minister's figure, on a different base from the household survey the record already holds.
 
+The rural telephony count now has a dated start. The previous minister's February 2024 statement [put 1,010 sites built, 659 integrated and 618 on air against the 2,016 target](https://moc.gov.gh/wp-content/uploads/2023/03/FEB-2024-PRESS-BRIEFING_MOCD.pdf), which is the figure the present government's 1,400 live sites should be read against.
+
 ## Guinea-Bissau
 
 The first measurement of adolescent access the repository holds is academic rather than official. A [survey of 2,039 Bissau adolescents finds computer and internet access limited and unevenly distributed, skewed against girls and against pupils in state schools, with the pandemic having exposed rather than created the gap](https://hdl.handle.net/20.500.11815/8043). It covers the capital rather than the country, and nothing official exists at any date to set beside it — which is why a doctoral thesis is the best evidence this report has on who among the young can get online.
@@ -62,6 +62,8 @@ The KenSafeSpace digital-rights coalition [closed on 28 July](https://www.kictan
 The larger withdrawal is American. An implementing partner's account published on 12 August reports that [work bringing connectivity and digital inclusion to remote Kenyan counties slowed or stopped after the 2025 wind-down, in which 83% of the agency's programmes were cut](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html), and that [the multi-funder Women in the Digital Economy Fund lost its American component while the parts other funders backed continued](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html). What is described as lost is not the money alone but the convening: the party that got competitors, ministries and communities into the same project. No replacement funder is named, and no figure for the Kenyan share is stated.
 
 Domestic provision was restated in the same fortnight. The regulator's Universal Service Fund [put a target of 120,000 people across 19 counties over three years on its Digital Skilling Project](https://techafricanews.com/2026/08/19/kenya-targets-120000-people-for-digital-skills-training-across-19-counties/), aimed at unserved and underserved areas and framed as the skills half of a connectivity programme. It is a target stated at a stakeholders' workshop: no budget line, delivery partner, county list or start date accompanies it, and the fund's own FY2025/26 account is still unpublished.
+
+One programme did reach the refugee-hosting counties: a Dutch-funded course [targeting 1,700 refugee and host-community youth in Garissa and Turkana, with more than 700 enrolled from over 1,000 applications](https://techmoran.com/2026/09/11/power-learn-project-trains-1700-youth-in-kenya-ai-cloud-skills/).
 
 ## Malawi
 

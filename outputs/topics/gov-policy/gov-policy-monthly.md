@@ -1,17 +1,15 @@
 ---
 title: Strategies, plans and policies — monthly update, August – September 2026
-compiled: 2026-09-11
-period: 2026-08-01 to 2026-09-11
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 subject: gov.policy
 places: DZA; BFA; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; GMB; GHA; GIN; GNB; KEN; LSO; LBY; MWI; MLI; MRT; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: c6beade97840
+record: 42416d50dabe
 ---
 
 # Strategies, plans and policies: monthly update, August – September 2026
 
 *41 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -38,6 +36,8 @@ It is the first independent assessment the repository holds of the ground the go
 ## Chad
 
 The policy movement of the window is advice rather than instrument. The economic, social, cultural and environmental council [closed a plenary session running 5 to 19 August on the public administration facing the digital transition, and adopted recommendations calling for an affirmed national digitalisation policy of wider scope, a durable national financing mechanism for the sector, adequate power supply, stronger public-agent skills and public-private partnerships](https://www.ndjamenaactu.com/2026/08/19/tchad-le-cesce-plaide-pour-une-transition-numerique-inclusive-et-securisee/). What the list describes is a stack the repository can confirm is missing at almost every layer — which is why the recommendations read as a gap analysis. Nothing binds government to act on them and no response is on record.
+
+The strategy's money has started to arrive, slowly: [US$790.5m of the US$20.5bn pledged at Abu Dhabi, 3.9%, is now signed across seventeen companies](https://lesfaitsdici.com/en/790-millions-de-dollars-deja-engages-dans-tchad-connexion-2030/).
 
 ## Comoros
 
@@ -68,6 +68,8 @@ The interoperability framework acquired a statement of intent for the first time
 Experts validated the [sectoral digital economy policy 2026-2030 on 21 and 22 July, subject to completing the costing, indicators and institutional responsibilities](https://www.mediacongo.net/article-actualite-165910_economie_numerique_les_experts_valident_le_projet_de_politique_sectorielle_2026_2030.html). A restitution workshop on 29 and 30 July presented a ten-dimension maturity diagnostic and named the [instruments to be articulated: the digital and data strategies, the AI strategy, the identity platform, the sovereign cloud, a certification authority and a cybersecurity agency](https://actu7.cd/2026/07/29/augustin-kibassa-maliba-lance-le-chantier-dun-cadre-strategique-pour-accelerer-la-transformation-digitale-de-la-rdc/), plus a rule barring AI platform deployment without data quality, auditability and human supervision.
 
 The connectivity side of that framework acquired numbers in August. The universal service fund [published a National Connectivity Strategy 2026-2035 built on a shared-infrastructure model led by a tower company, and signed subsidy agreements with the four mobile operators to extend service to 40 underserved localities covering about 258,000 people](https://developingtelecoms.com/telecom-business/telecom-regulation/20678-drc-unveils-10-year-strategy-to-close-connectivity-gaps-through-shared-infrastructure.html), against a target of 3,000 localities and 16 million people by 2030. The strategy text is not held, and neither the subsidy amounts, the tower company nor the selection rule for the first 40 localities is stated.
+
+Two World Bank-supported studies [on infrastructure sharing, national roaming, local-loop unbundling and telecom taxation were presented in Kinshasa on 9 September, recommending lower duties on equipment and new sites and a central infrastructure database](https://numerico.cd/2026/09/09/pact-et-telecoms-en-rdc-baisse-des-couts-en-vue/). No government decision on them is recorded.
 
 ## Egypt
 
@@ -138,6 +140,8 @@ The road transport regulator [gave ride-hailing companies operating through digi
 
 Two strategies are being written and neither is adopted. The National Cyber Security Strategy 2026-2030 [was reviewed with a donor partner alongside an evaluation of its 2021-2025 predecessor](https://revista.tempo.co.mz/intic-e-finlandia-reforcam-cooperacao-para-a-estrategia-nacional-de-seguranca-cibernetica-2026-2030/), succeeding a policy whose own period ended last year. The National Digital Transformation Strategy [has been in drafting since February](https://www.trade.gov/market-intelligence/mozambique-digital-transformation-strategy) and is in drafting still â€” no change at either end of the window.
 
+Financial data residency was rewritten. The central bank [gazetted Aviso 6/GBM/2026 on 31 August, requiring every bank's primary data centre and principal information systems in national territory and revoking the 2003 rule](https://www.bancomoc.mz/media/j2fgaf3a/aviso-6_gbm_2026-de-18-de-agosto_-br_166_i_s%C3%A9rie_2026_31-de-agosto.pdf), in force 60 days after publication.
+
 ## Namibia
 
 The ICT minister met a consultancy delegation in Windhoek on 3 August on trustworthy artificial intelligence, broadband access, cybersecurity, data centres, clean energy and women in technology, and stated that consultations on the strategy framework had already begun under the research council and that government has prioritised a strategy before introducing legislation ([ministerial account](https://itweb.africa/article/namibia-taps-deloitte-for-ai/KzQenMjyxWY7Zd2r)). No contract, terms of reference or procurement route involving the consultancy is established ([second account](https://techafricanews.com/2026/08/05/namibia-and-deloitte-discuss-ai-strategy-and-digital-infrastructure-development/)).
@@ -164,9 +168,13 @@ The body meant to steer digital governance has not started. The digital governan
 
 The roadmap acquired a shape and a hole in the same statement. Presented at an international forum on 4 September, the New Deal Technologique is [54 projects across 12 programmes at US$2bn over ten years, of which US$700m is unallocated](https://dig.watch/event/wsis-forum-2026/new-technological-deal-or-or-how-a-global-south-digital-strategy-for-impactful-ict-transformation). The figures are the government's own and no project list, allocation schedule or financing plan for the unallocated third accompanies them, so what is established is the size of the programme and the size of the gap in it. The prime minister's [general policy statement of 8 September refocused the programme on a sovereign cloud for the state's sensitive data and an accelerated sectoral AI strategy](https://www.wearetech.africa/fr/fils/actualites/tech/senegal-priorites-numeriques-recentrees-sur-le-cloud-souverain-et-l-ia), narrowing selection to initiatives that are feasible, financed and able to produce measurable results.
 
+The new prime minister's [general policy declaration of 8 September kept the New Deal technologique as the framework and named a sovereign cloud to host sensitive state data on national soil](https://droit-et-politique-en-afrique.info/wp-content/uploads/2026/09/Declaration-de-politique-generale-du-Premier-ministre-Ahamadou-Alhaminou-Mohamed-Lo-8-septembre-2026.pdf), with a stated change of method: [projects must now show feasibility, financing and demonstrated impact before they proceed](https://www.socialnetlink.org/2026/09/08/dpg-cloud-souverain-ia-le-gouvernement-veut-passer-des-annonces-a-lexecution-du-new-deal-technologique/). No project list or costing accompanies it.
+
 ## Seychelles
 
 Cabinet approved measures to operationalise the Multidimensional Vulnerability Index on 22 July 2026, naming "enhanced data and institutional capacity" and alignment of planning and budgeting frameworks as the instruments, with no implementation detail yet given. [President Herminie restated a "fully digitalised e-government by 2030" target on 4 August](https://statehouse.gov.sc/news/7165/president-herminie-receives-credentials-from-maltas-first-high-commissioner-to-seychelles), while receiving Malta's first High Commissioner's credentials and naming bilateral technical cooperation as the route under discussion. On 10 August the institution meant to carry that work was described as back in place: [the National Institute for Science, Technology and Innovation has been reinstated, its Secretariat sitting under the Office of the Vice-President](https://statehouse.gov.sc/news/7184/president-herminie-science-technology-and-innovation-belong-at-the-centre-of-a-people-centred-society) after five years in which it was closed and its functions folded into a ministry division. Its Secretary of State puts its near-term focus on technological innovation in government procedures and on accelerating the digitalisation of public-service delivery. No commencement notice for the NISTI Act 2025 is on record, so the body is described as functioning without the statute behind it being shown to be in force.
+
+Cabinet [approved a Digital Economic Transformation Forum on 9 September to agree a national digital architecture and pilots](https://www.statehouse.gov.sc/cabinet-decisions/7247/cabinet-business-wednesday-09th-september-2026), the nearest thing to a plan the repository holds.
 
 ## Sierra Leone
 
@@ -184,6 +192,8 @@ The regulator opened two inquiries and the state put two studies out to tender, 
 The state put two studies out to tender and conceded the gap they are meant to fill. The communications department's market-analysis tender [concedes a current policy vacuum and that the price benefits expected from the 2022 spectrum auction remain largely unmet](https://www.timeslive.co.za/news/business/2026-08-01-sas-data-price-puzzle/), naming market concentration, spectrum allocation and the burden on prepaid consumers as structural causes; its deliverables are a cost-to-communicate roadmap and an assessment of progress on the 2019 data-services market inquiry recommendations. A second tender [seeks an ICT-indicators and scenario-modelling system to steer the digital economy to 2050](https://www.itweb.co.za/article/top-ict-tenders-dcdt-eyes-2050-digital-economy-vision/KPNG878NLorq4mwD), with no award, value or delivery date. Against both, the reform programme's quarterly report [concedes progress has been uneven and in certain instances slower than initially anticipated](https://www.treasury.gov.za/comm_media/press/2026/Operation%20Vulindlela%20Progress%20Report%20Q1%20-%202026.pdf), against the 80% on-track figure that remains its dated prior.
 
 A third instrument is being fast-tracked rather than tendered. The Presidency and the planning and evaluation department [put a digital dashboard monitoring mega infrastructure projects before the parliamentary committee on the Presidency](https://www.parliament.gov.za/press-releases/media-alert-committee-presidency-assess-progress-implementing-sona-commitments-and-tracking-mega-infrastructure-projects), alongside a wider review of progress against the state-of-the-nation commitments. No delivery date, data source, custodian or statement of whether the dashboard will be public is given — which for a monitoring instrument is the whole of the question. The portfolio minister separately [set out persistent governance and liquidity problems across the department's eleven state-owned entities](https://www.itweb.co.za/article/malatsi-details-persistent-headaches-at-portfolio-depts/4r1ly7R9aK4vpmda), citing progress stabilising boards and the state IT agency's leadership, a completed public broadcaster funding model now with the Treasury, and ruling out a compulsory household levy.
+
+The regulator formalised two inquiries on 4 September. It gazetted [a section 4B market inquiry into the impact of over-the-top services on telecommunications, broadcasting and postal licensees](https://www.ellipsis.co.za/wp-content/uploads/2026/09/Notice-of-Intention-to-Conduct-a-Market-Inquiry-into-the-impact-of-OTT-services-on-licensees-20260409.pdf) and [a second into the affordability of voice and broadband for low-income households, rural communities, youth and informal-sector workers](https://www.ellipsis.co.za/wp-content/uploads/2026/09/Notice-of-Intention-to-Conduct-a-Market-Inquiry-into-the-affordability-of-telecommunications-services-in-SA-0260409.pdf), each in four phases. Neither sets a date for findings or commits to regulating on them.
 
 ## South Sudan
 
@@ -218,6 +228,8 @@ The ICT ministry [states a device-tax-cut paper is ready for cabinet before the 
 ## Zambia
 
 The national artificial-intelligence strategy has reached the end of the period it was written for. The technology ministry's permanent secretary [says it is nearing the end of its cycle and is due for review](https://api.oecdai.org/storage/policy-initiatives/Apr2026/117ojpi25umobje3ol-Zambia-Ai-Strategy-Book-option-2.pdf). A strategy due for review before its successor exists is the position the repository can state; no review terms of reference, timetable or drafting body is published.
+
+The second term opened on a new blueprint. The state ICT institute [endorsed the Grow Zambia Agenda 2026-2031 for its eight digital-infrastructure targets and said it is building a real-time Cabinet dashboard to monitor it](https://cajnewsafrica.com/2026/09/10/zambia-places-ict-at-centre-of-new-economic-blueprint/); the targets themselves are not published.
 
 ## Zimbabwe
 

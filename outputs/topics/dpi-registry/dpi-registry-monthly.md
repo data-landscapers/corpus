@@ -1,21 +1,21 @@
 ---
 title: Registries (population, land, address, etc.) — monthly update, August – September 2026
-compiled: 2026-09-11
-period: 2026-08-01 to 2026-09-11
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 subject: dpi.registry
-places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; TCD; COM; COG; CIV; COD; EGY; ERI; SWZ; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MWI; MLI; MRT; MUS; MAR; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 94c4b4ceb53b
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; TCD; COM; COG; CIV; COD; EGY; ERI; SWZ; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 5ef4306f0b15
 ---
 
 # Registries (population, land, address, etc.): monthly update, August – September 2026
 
-*48 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+*49 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Algeria
 
 Two registry developments pulled in opposite directions. The education ministry [ordered its wilaya directorates and schools to accept electronically issued civil-status documents and stop demanding paper copies](https://interlignes.dz/education-nationale-rappel-a-lordre-du-ministere/), warning staff that unjustified refusal engages their responsibility â€” an obligation inside one ministry rather than a general rule. On vehicle registration the interior minister [called for rapid correction of technical problems and malfunctions](https://lechodalgerie.dz/immatriculationsayoud-exige-des-correctifs-rapides/) in the system, with no fault description, backlog figure or completion date given.
+
+The prime minister [ordered an immediate national census of economic land on a unified template, with a consolidated map due at the investment agency's one-stop window by the end of September](https://www.lejourdalgerie.com/foncier-economique-sifi-ghrieb-ordonne-un-recensement-immediat/).
 
 ## Angola
 
@@ -54,6 +54,8 @@ The [national civil-status registry platform was reported deployed in pilot coun
 ## Cape Verde
 
 The registries directorate began publishing about itself. Its new statistical bulletin [reports 2,944 births registered nationally in the first half of 2026 across 23 conservatorias, an average of 16 a day](https://expressodasilhas.cv/pais/2026/08/04/nasceram-2944-criancas-no-primeiro-trimestre/103955), and states that the bulletin exists to publish performance indicators and the volume of acts practised by the services. Until now the register's output reached the public only through the statistics office, a year or more late.
+
+The social registry now has a coverage figure: the UN country team [put the Cadastro Social Único at 64% of the population at the government's high-level partnership meeting on 10 September](https://www.africa-newsroom.com/press/governo-de-cabo-verde-e-organizacao-das-nacoes-unidas-onu-iniciam-a-discussao-de-alinhamento-e-cooperacao-para-os-proximos-anos?lang=pt), where discussion of the next cooperation framework, for 2028-2032, opened.
 
 ## Chad
 
@@ -104,6 +106,8 @@ Civil registration completeness reached [61 per cent of births and 62 per cent o
 The social registry began its [second regional rollout in Lubombo on an E41.7 million data-collection exercise](https://eswatinipositivenews.online/e41-7m-imbeleko-rollout-targets-vulnerable-households-in-lubombo/), two of four regions in two years.
 
 The electoral commission is reviewing a [proposal to make the chief code compulsory at voter registration, alongside a six-month residency rule](https://times.co.sz/41170/news/chief-code-rule-divides-ezulwini-residents/), after it divided residents at Ezulwini — the same code the home affairs ministry was asking citizens to correct eight days later.
+
+Addressing left the pilot stage in one town: [Matsapha became the first municipality to roll out the national postcode and addressing project, with street signs due within eight weeks](https://eswatinipositivenews.online/matsapha-first-to-roll-out-addressing-system-in-eight-weeks/). The electoral commission is [adding biometric capture to continuous voter registration ahead of the 2028 elections](https://eswatinipositivenews.online/biometric-technology-set-to-strengthen-voter-registration/).
 
 ## Gabon
 
@@ -159,6 +163,10 @@ The collateral registry acquired users rather than another regulation. The centr
 On 3 August the interior and labour ministries [agreed in Benghazi to create a unified national database of expatriate workers](https://www.lananews.com/ar/?p=499082) and a dedicated electronic platform, citing Labour Relations Law No. 12 of 2010 and Law No. 24 of 2023, together with joint ministerial committees and joint inspection campaigns drawing in passport investigations.
 
 The health ministry's registration portal reported its first numbers. PharmaGate [has registered 131 local and 53 foreign pharmaceutical companies and is being extended to the products themselves, confining attendance at the ministry to the final stage and licence collection](https://libyaherald.com/2026/08/ministry-of-health-developing-its-pharmagate-system-to-regulate-register-pharmaceutical-companies).
+
+## Madagascar
+
+The social registry [reached about 2.7 million households, nearly 12 million people, with eight districts added to the 20 already surveyed](https://newsmada.com/2026/09/10/protection-sociale-le-rsu-elargit-son-filet/).
 
 ## Malawi
 
@@ -258,6 +266,8 @@ At an agricultural exhibition on 4 August the e-government agency stated that [m
 
 Birth registration gained a fourth estimate. The constitutional and legal affairs minister [put under-five registration at 65%, against 55% in 2020](https://www.biometricupdate.com/202608/birth-registration-emerges-as-foundation-for-digital-public-infrastructure), attributing the rise to sustained investment and awareness campaigns. The repository already holds estimates of [about 60% for 2022](https://www.biometricupdate.com/202601/tanzania-working-on-legislative-framework-for-infant-id-registration) and a [five-year range of 61 to 76%](https://www.biometricupdate.com/202606/unicef-seeks-partner-to-expand-birth-registration-legal-identity-in-tanzania) on different bases, and does not reconcile them to one series.
 
+The lands ministry [inspected a National Land Data Infrastructure project building a central land database and access platform on new aerial imagery](https://www.tanzaniainvest.com/economy/national-land-database-digital-land-services), with no financier, cost or completion date stated.
+
 ## Togo
 
 The [second national birth-registration catch-up campaign opened at Agbandi on 31 July](https://atop.tg/identite-juridique-la-deuxieme-campagne-nationale-de-rattrapage-des-enregistrements-de-naissances-lancee/), targeting a further 6,461 children across 25 communes and taking the two campaigns to 11,461. The same report [carries the funder's figure of nearly 7,400 for the same campaign](https://atop.tg/identite-juridique-la-deuxieme-campagne-nationale-de-rattrapage-des-enregistrements-de-naissances-lancee/), and the two are not reconciled.
@@ -265,6 +275,8 @@ The [second national birth-registration catch-up campaign opened at Agbandi on 3
 ## Tunisia
 
 The social-housing application platform [has a completion timetable, set at a follow-up meeting on 3 August, with interconnection to the beneficiary database still under way](https://www.webmanagercenter.com/2026/08/04/570984/logements-sociaux-en-tunisie-une-plateforme-numerique-pour-accelerer-les-demandes-daccession-a-la-propriete/). The interconnection is the part that decides what the platform is: an application front end that cannot read the beneficiary register is a form, and no date for that link is published.
+
+The tax platform widened. From September [TEJ adds real-time filing status, delegated access, supplier tax-standing checks for public enterprises and all withholding-tax certificates](https://www.leconomistemaghrebin.com/2026/09/08/fiscalite-numerique-la-dgi-enrichit-la-plateforme-tej/).
 
 ## Uganda
 

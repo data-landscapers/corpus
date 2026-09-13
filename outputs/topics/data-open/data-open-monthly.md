@@ -1,17 +1,15 @@
 ---
 title: Open data — monthly update, August – September 2026
-compiled: 2026-09-10
-period: 2026-08-01 to 2026-09-10
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 subject: data.open
-places: BEN; TCD; COM; DJI; COD; GAB; GMB; GHA; GIN; LBR; LBY; MDG; MLI; MUS; MAR; NAM; NGA; SEN; TZA; TUN; ZWE
-record: bd078622818c
+places: BEN; TCD; COM; DJI; COD; GAB; GMB; GHA; GIN; LBR; LBY; MDG; MLI; MUS; MAR; NAM; NGA; SEN; SOM; TZA; TUN; ZWE
+record: b6312e5e24c2
 ---
 
 # Open data: monthly update, August – September 2026
 
-*21 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+*22 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Benin
 
@@ -88,9 +86,15 @@ A second dataset arrived from outside government altogether. A privately built a
 
 The month's open-data movement is civil society's rather than government's. A civic-technology foundation [published a 2026-2030 strategy on 3 September to institutionalise participatory budgeting and subnational public-project tracking in 10 to 15 states, building on two existing platforms that let citizens monitor budget implementation and identify completed, delayed or abandoned public projects](https://nannews.ng/promad-unveils-5-year-strategy-to-scale-up-civic-tech-citizen-participation/). No budget, funder, delivery timetable or state is named.
 
+Government procurement went the other way: online, but not open. The procurement bureau's [submission portal became mandatory for agencies while contract awards, prices and delivery stay unpublished, although the 2007 procurement Act and the 2011 freedom of information Act require award particulars to be](https://developmentdiaries.com/as-nigerias-procurement-goes-digital-why-cant-citizens-see-the-contracts/).
+
 ## Senegal
 
 The national data archive is the only Senegalese public-data system that publishes how much its data is used: [4,808,203 views on the 2013 census, 24,422 on the 2024-2025 agricultural survey and 19,910 on the 2023 census](http://anads.ansd.sn/index.php/catalog), with access stated per dataset as either licensed or withheld. Views are not downloads, and a licensed and partly withheld catalogue is not an open-licence portal — which is the finding, since no whole-of-government open-data portal operates behind it.
+
+## Somalia
+
+The national research and education network [set up Somalia's first DataCite national consortium, letting universities and research centres mint persistent identifiers for more than 30 types of research output and data](https://www.dawan.so/news/somaliren-oo-soomaaliya-ka-hirgelisay-dalladdii-ugu-horreysay-ee-qaran-ee-datacite). No member count is published.
 
 ## Tanzania
 

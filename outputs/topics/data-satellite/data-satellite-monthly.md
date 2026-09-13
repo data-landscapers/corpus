@@ -1,17 +1,15 @@
 ---
 title: Use of satellite data — monthly update, August – September 2026
-compiled: 2026-09-11
-period: 2026-08-01 to 2026-09-11
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 subject: data.satellite
 places: BDI; COM; COG; CIV; DJI; COD; EGY; ERI; GHA; LBR; LBY; MLI; MOZ; NAM; NER; RWA; SLE; SOM; TZA; UGA; ZMB
-record: 303f87c3d059
+record: d27c573fe71c
 ---
 
 # Use of satellite data: monthly update, August – September 2026
 
 *21 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
 
 ## Burundi
 

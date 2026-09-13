@@ -1,17 +1,15 @@
 ---
 title: Innovation ecosystem — monthly update, August – September 2026
-compiled: 2026-09-11
-period: 2026-08-01 to 2026-09-11
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 subject: tech.innovate
-places: DZA; AGO; BWA; BFA; CMR; CPV; COM; CIV; COD; EGY; ERI; SWZ; GAB; GMB; GHA; GIN; KEN; LBR; MLI; NAM; NER; NGA; RWA; SYC; ZAF; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: e1ae1e20868e
+places: DZA; AGO; BWA; BFA; CMR; CPV; COM; CIV; COD; EGY; ERI; SWZ; GAB; GMB; GHA; GIN; KEN; LBR; MLI; MAR; NAM; NER; NGA; RWA; SYC; ZAF; SDN; TZA; TUN; UGA; ZMB; ZWE
+record: d1d432d075f3
 ---
 
 # Innovation ecosystem: monthly update, August – September 2026
 
-*31 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+*32 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Algeria
 
@@ -104,6 +102,10 @@ UNDP set out its contributions at the summit, adding in its own account of 3 Aug
 
 A civil-society organisation [launched an application for reporting and checking online content, alongside the closing report of a digital campaign against viral falsehood which it says reached 68,885 people](https://www.maliweb.net/technologie/citoyens-20-women-tech-mali-lance-une-application-pour-lutter-contre-la-desinformation-3119410.html). It is aimed at young people and civil-society organisations, and funded through a Danish foreign-ministry facility with support from the ministry responsible for communication and the digital economy. No user or report-volume figure is published.
 
+## Morocco
+
+The state put money behind the startup strategy. A decree of 3 August [authorised Tamwilcom to invest up to MAD 347m over three years through the Fonds Catalytique Startups in funds backing Moroccan and foreign startups](https://librentreprise.ma/2026/09/10/feu-vert-a-tamwilcom-pour-investir-347-mdh-dans-les-startups/); no manager or first commitment is published.
+
 ## Namibia
 
 Two small pieces of plumbing. The ninth national ICT summit [received over N$1.2 million ahead of the event](https://www.nbcnews.na/node/118562), and the communications regulator [held a second entrepreneurship breakfast in Oshakati to build the northern digital economy](https://economist.com.na/cran-drives-northern-digital-economy-at-second-entrepreneurship-breakfast-in-oshakati/). Both are convening rather than capital: nothing in the record held names a company founded, funded or scaled through either.
@@ -117,6 +119,8 @@ The innovation estate gained a site and not yet a hub. A university at Diffa [wa
 [A drive-to-own vehicle financier raised US$250m at a US$2.1bn valuation on 5 August](https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/), financing a 42,000-vehicle fleet across fourteen countries against platform earnings — making ride-hailing income the credit-scoring and repayment rail for drivers outside formal banking, a class of alternative-data underwriting no Nigerian instrument addresses. The communications regulator [leased its Digital Industrial Park and Learning Centre to Enugu State for fifteen years](https://www.thisdaylive.com/2026/08/04/ncc-leases-digital-industrial-park-learning-centre-to-enugu/), its executive vice chairman saying that buildings alone do not create innovation; no rent, investment commitment or performance condition is stated. A [crowdsourced food-price platform reports about 2,500 users](https://www.wearetech.africa/en/fils-uk/solutions/nigeria-s-bango-uses-price-data-to-bring-transparency-to-food-markets).
 
 NITDA [inaugurated a Technical Working Group to build a multi-agency national regulatory sandbox](https://nitda.gov.ng/nitda-inaugurates-sandbox-technical-working-group-to-strengthen-regulatory-framework-for-digital-innovation/9560/), deliberately sector-agnostic, letting innovators test emerging technologies with several regulators at once before full market approval. It is distinct from the central bank's own sector sandbox, and no framework text, member list or timetable has been published.
+
+At its Abuja forum on 9 September the EU put a figure on Boost Africa: [EUR108 million invested across Africa, stated to have attracted about EUR400 million more and up to 15,000 jobs](https://www.thisdaylive.com/2026/09/09/eu-eib-invest-e108m-to-drive-african-entrepreneurship-create-15000-jobs/), cumulative rather than a Nigerian commitment.
 
 ## Rwanda
 
@@ -141,6 +145,8 @@ The finance ministry, the African Development Bank and the regional body [launch
 The government launched [InnoIP Tanzania](https://fullshangweblog.co.tz/2026/08/23/577246/), a programme to help more than 5,000 innovators register and protect their work as intellectual property. No registration count, budget line or closing date has been published behind the target.
 
 A private channel opened alongside the state ventures programme. The leading mobile operator entered a [three-year partnership with a global entrepreneurship network to reach 1,000 entrepreneurs and 40 ventures, with a first cohort of entrepreneur-support organisations due in October 2026](https://ippmedia.co.tz/the-guardian/business/read/vodacom-bridge-for-billions-partner-to-boost-startup-ecosystem-2026-09-07-142532). No commitment amount is stated, so what exists is a set of targets with no measurable resource behind them.
+
+A UN programme [put TZS 1.3bn into a fifth cohort of 14 businesses at Innovation Week and launched a platform matching innovators with investors](https://www.undp.org/tanzania/stories/9000-sparks-one-flame-inside-week-ignited-tanzanias-trillion-dollar-future), reporting over US$3m to innovators since 2021 on its own count.
 
 ## Tunisia
 

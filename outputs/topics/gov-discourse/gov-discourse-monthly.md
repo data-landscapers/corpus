@@ -1,17 +1,15 @@
 ---
 title: Public debate and participation in policymaking — monthly update, August – September 2026
-compiled: 2026-09-11
-period: 2026-08-01 to 2026-09-11
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 subject: gov.discourse
 places: AGO; BEN; BFA; CMR; TCD; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; MWI; MLI; MUS; MAR; NAM; NER; NGA; SEN; SYC; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 60937fcf43aa
+record: bf7094aed6af
 ---
 
 # Public debate and participation in policymaking: monthly update, August – September 2026
 
 *37 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
 
 ## Angola
 
@@ -40,6 +38,8 @@ On 4 August the Haute autorité des médias et de l'audiovisuel [announced](http
 A [national internet governance forum devoted to artificial intelligence is in preparation](https://tchadinfos.com/2026/08/25/gouvernance-dinternet-le-tchad-prepare-un-forum-national-consacre-a-lintelligence-artificielle/), with no date, venue or agenda yet announced.
 
 A report by two research organisations [documents 44 fabricated identities — 35 ghost journalists and nine fake experts — placed in African media between 2021 and 2026, which it links to Russian influence operations](https://lendjampost.com/desinformation-en-afrique-un-rapport-alerte-sur-un-reseau-de-journalistes-fantomes-lie-a-des-operations-dinfluence-russes/). The report itself is not held, only a Chadian newspaper’s account of it, and no Chadian outlet, byline or piece is named in what is held.
+
+The Lac restriction is nearly two years old. A citizen's [open letter to the president asks for the province's internet access to be reviewed](https://www.toumaiwebmedias.com/lac-un-citoyen-appelle-a-un-reexamen-de-la-connectivite-internet/); no official justification is on record.
 
 ## Congo
 
@@ -192,6 +192,8 @@ The same Postal and Courier Services Bill consultation — the only open public 
 On 1 August the Human Rights Commission disclosed that its case review meeting had considered 105 alleged violations linked to the election period, of which 62 were resolved administratively.
 
 The election itself, on 13 August, produced the fullest external account of the country's digital systems the repository holds. Observer missions recorded a [hybrid digital and manual voter-registration system with an online pre-registration portal, logging 8,786,300 registered voters, up 25% since 2021](https://www.eeas.europa.eu/sites/default/files/2026/documents/EU%20EOM%20Zambia%202026_Preliminary%20Statement%2015_8_FINAL_website2.pdf). A domestic coalition [found election-day process largely transparent but flagged an online-only accreditation system that blocked 11 accredited monitors, and the electoral commission's refusal to share the voters register](https://www.zambiamonitor.com/churches-group-rates-conduct-of-august-general-elections/). The European mission found online free expression unduly curtailed under the 2025 Cyber Security Act amid arrests for speech offences, and a regional media institute [recorded a journalist detained for two weeks under the Cyber Crimes Act and judged the access-to-information law and decriminalised defamation paper victories undermined by the two 2025 statutes](https://misa.org/blog/misa-regional-preliminary-statement-on-media-freedom-digital-rights-and-access-to-information-in-the-2026-zambia-general-elections/). These are preliminary statements; no final report, government response or commission account of the accreditation and register decisions is held.
+
+The criminal route for online speech was used. A Lusaka magistrate [convicted a vlogger on 11 September under section 54 of the Cyber Security and Cyber Crimes Act 2021 for forwarding a WhatsApp screenshot about a presidential aide](https://www.mwebantu.com/court-convicts-vlogger-chishimba-over-mwanawasa-allegations/).
 
 ## Zimbabwe
 

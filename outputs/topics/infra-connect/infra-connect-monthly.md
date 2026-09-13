@@ -1,17 +1,15 @@
 ---
 title: Connectivity — monthly update, August – September 2026
-compiled: 2026-09-11
-period: 2026-08-01 to 2026-09-11
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 subject: infra.connect
-places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 6278d579448d
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 0671b176e2ee
 ---
 
 # Connectivity: monthly update, August – September 2026
 
-*45 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+*46 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Algeria
 
@@ -119,9 +117,13 @@ On 27 July the Libreville seminar on space communications closed with eleven rec
 
 The national internet exchange point opened a reboot workshop at Libreville on 3 August, running to 8 August, with the Internet Society and AFRINIC as technical partners ([opening](https://agpgabon.ga/gabon-lancement-de-latelier-national-gabix-reboot/)). It [closed on 8 August with certificates presented after six days of peering, security and sovereignty training](https://agpgabon.ga/numerique-latelier-gabix-reboot-propulse-linterconnexion-locale-au-gabon/); AFRINIC called for a network of trained ambassadors to carry the skills into firms and administrations, and operator representatives named broader institutional buy-in as the task that remains. No participant number and no post-relaunch member count has been published.
 
+The backbone is moving to a partnership. The state infrastructure holding company and a private operator [validated a PPP over 3,420km of national backbone, 1,769km already built and 1,651km planned, with signature set for 14 September](https://techafricanews.com/2026/09/11/gabon-national-backbone-3420km-network-project/). No capital or open-access terms are published.
+
 ## Gambia
 
 The country renumbered its mobile network. [The transition to nine-digit numbers began on 4 September 2026, existing numbers taking a two-digit operator prefix — 87 for Africell, 83 for QCell and 86 for Comium](https://thepoint.gm/africa/gambia/headlines/pura-gambia-transitions-to-9-digit-mobile-numbers-today); [Gamcel numbers are not affected in this phase and keep their seven digits](https://thepoint.gm/africa/gambia/headlines/pura-gambia-transitions-to-9-digit-mobile-numbers-today). The numbering plan instrument is not published, and nothing states when the deferred operator joins.
+
+The number change has a legal base and an end date. The regulator's [National Numbering Plan 2026 took effect on 3 September](https://pura.gm/wp-content/uploads/2026/09/scan0001_compressed.pdf) with [a migration framework of eight readiness gates and rollback states](https://pura.gm/wp-content/uploads/2026/09/The-Gambia-National-Numbering-Plan-Migration-Governance-and-Go-Live-framework-2026-1-1.pdf), and [seven-digit numbers retire permanently on 28 February 2027](https://thepoint.gm/africa/gambia/headlines/gambia-opens-new-chapter-in-digital-growth-with-nine-digit-numbering-system).
 
 ## Ghana
 
@@ -168,6 +170,10 @@ The incumbent operator [began selling managed satellite connectivity as an enter
 LPTIC [met Nokia's regional director on 15 July](https://alwasat.ly/news/libya/524936) to discuss network modernisation and 5G deployment; no agreement was announced.
 
 On 7 August LTT and ARABSAT [announced a Strategic Partnership Agreement](https://techafricanews.com/2026/08/07/arabsat-and-ltt-sign-strategic-partnership-to-strengthen-libyas-digital-infrastructure/) under which ARABSAT will supply High Throughput Satellite capacity on Arabsat-6A at 30.5 degrees east for LTT's existing and future requirements. ARABSAT's chief executive described the agreement as reflecting the institutional relationship with the Libyan International Telecommunications Company, one of ARABSAT's principal shareholders. No contract value, duration, throughput, coverage or service date was published.
+
+## Madagascar
+
+The satellite route to isolated areas moved from announcement to hardware: the digital ministry [received 300 satellite kits with free internet service under a partnership with the operator](https://www.tiatanindrazana.mg/actualites/fifandraisan-davitra-sy-ny-nomerika-67990.php), after free connectivity at the main public universities. No site list is published.
 
 ## Malawi
 

@@ -1,15 +1,15 @@
 ---
 title: MoUs and other agreements — monthly update, August – September 2026
-compiled: 2026-09-10
-period: 2026-08-01 to 2026-09-10
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 subject: finance.mou
-places: DZA; CIV; COD; GHA; KEN; NGA; RWA; UGA
-record: 5b5ad81a0791
+places: DZA; CIV; COD; GHA; KEN; NER; NGA; RWA; UGA
+record: 843d64f25865
 ---
 
 # MoUs and other agreements: monthly update, August – September 2026
 
-*8 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*9 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Algeria
 
@@ -31,9 +31,13 @@ The country renewed the agreement under which several of its digital customs sys
 
 The judiciary took on a foreign partner for its access-to-justice work. A memorandum [was signed at the Supreme Court on 10 August with a Netherlands justice-innovation institute, with an intergovernmental development-law organisation and the Netherlands embassy participating](https://www.hiil.org/news/hiil-and-kenyas-judiciary-formalise-partnership/), building on the country's own access-to-justice blueprint. No value, term or deliverable is stated. In the same week the chamber of commerce and the council of governors [signed a five-year agreement to harmonise county business licensing and digitise small-enterprise data across all 47 counties](https://www.kenyachamber.or.ke/2026/08/13/kncci-and-cog-sign-landmark-strategic-partnership-to-drive-msme-growth-data-digitization-and-county-led-economic-development/), with no budget, milestone or data-governance arrangement for the pooled data stated.
 
+## Niger
+
+The Algerian state operator [signed conventions in Niamey on 8 September for a skills centre and donated transmission equipment for a 100 Gbps Ngezam-Agadez link on the national backbone](https://anp.ne/cooperation-algerie-telecom-signe-deux-conventions-de-partenariat-avec-niger-telecom-et-escep-niger/); no value is stated.
+
 ## Nigeria
 
-Nothing was signed in this window that the repository records. What entered it is an institutional fact rather than a development: the finance ministry's [international economic relations department is the administrative home managing bilateral and multilateral economic relationships, memoranda of understanding and concessional financing](https://finance.gov.ng/fmf/international-economics-relations-department/), and it is the closest thing to an umbrella instrument the repository holds. The page is undated on the ministry site and lists no relationship, agreement or financing volume.
+The one memorandum signed in the window is domestic: the technology development agency and the national chambers of commerce [signed an agreement on small-business digital adoption on the sidelines of GITEX Nigeria, covering a shared enterprise platform, capacity building and the national digital conference](https://punchng.com/nitda-naccima-deepen-push-for-msmes-digital-adoption/), with no sum or deliverable attached. The other entry is an institutional fact rather than a development: the finance ministry's [international economic relations department is the administrative home managing bilateral and multilateral economic relationships, memoranda of understanding and concessional financing](https://finance.gov.ng/fmf/international-economics-relations-department/), and it is the closest thing to an umbrella instrument the repository holds. The page is undated on the ministry site and lists no relationship, agreement or financing volume.
 
 ## Rwanda
 

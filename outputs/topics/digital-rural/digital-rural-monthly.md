@@ -1,17 +1,15 @@
 ---
 title: Rural digital data capture — monthly update, August – September 2026
-compiled: 2026-09-10
-period: 2026-08-01 to 2026-09-10
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 subject: digital.rural
-places: BDI; TCD; COM; COD; SWZ; GHA; GIN; KEN; LSO; LBY; MWI; MLI; MUS; NGA; SEN; SLE; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 279a72802375
+places: BDI; TCD; COM; CIV; COD; SWZ; GHA; GIN; KEN; LSO; LBY; MWI; MLI; MUS; NGA; SEN; SLE; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: c0a5bc48fdb1
 ---
 
 # Rural digital data capture: monthly update, August – September 2026
 
-*22 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+*23 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Burundi
 
@@ -24,6 +22,10 @@ Civil registration is the one rural system with a number attached to it. Marking
 ## Comoros
 
 The civil-status modernisation project took its design into the countryside, [consulting midwives, village chiefs, cadis and mayors at Fomboni on Mwali about registration difficulties on 28 August and continuing into the rural districts of Djando and Nioumachoi](https://lagazettedescomores.com/soci%C3%A9t%C3%A9/%C3%A9tat-civil-l%E2%80%99amecc-veut-enterrer-les-registres-sur-papier-.html), with still-unregistered rural residents named as the problem to solve. Consultation is not digitisation: no rural registry office is recorded as converted, and no office count exists on file.
+
+## Cote d'Ivoire
+
+Medical drone delivery is to leave the centre-west. The Council of Ministers [noted on 9 September a partnership with Zipline for ten drone hubs supplying health facilities, a 27-month first phase at Daloa, Biankouma, San Pedro and Kouto, a US grant building them and the state paying operations](https://www.gouv.ci/publications/conseils-des-ministres/3386). No contract value is published.
 
 ## DR Congo
 

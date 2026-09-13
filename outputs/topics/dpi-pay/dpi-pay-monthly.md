@@ -1,21 +1,23 @@
 ---
 title: Digital Payments and Fintech — monthly update, August – September 2026
-compiled: 2026-09-11
-period: 2026-08-01 to 2026-09-11
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 subject: dpi.pay
-places: DZA; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 8cc2807304f1
+places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: a8af14848e72
 ---
 
 # Digital Payments and Fintech: monthly update, August – September 2026
 
-*43 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+*45 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Algeria
 
 The payments layer gained a governing body and a small number. A central bank regulation [established a National Payments Committee](https://www.echoroukonline.com/%d8%aa%d8%ad%d8%b1%d9%83-%d8%b1%d8%b3%d9%85%d9%8a-%d9%84%d8%a5%d9%86%d9%87%d8%a7%d8%a1-%d9%87%d9%8a%d9%85%d9%86%d8%a9-%d8%a7%d9%84%d9%83%d8%a7%d8%b4-%d9%88%d8%aa%d9%82%d8%b1%d9%8a%d8%b1-%d8%b3), and the count of web merchants accepting electronic payment [passed 1,000 at the end of June](https://alger16.dz/?p=65795). A thousand merchants is a small number for a market this size, and it is the first such count the repository holds, so the level is stated and the direction is not.
+
+## Angola
+
+A renminbi route opened for Angola-China trade: the largest private bank [signed a clearing memorandum with Bank of China on 8 September, giving it a renminbi clearing account and indirect access to China's cross-border interbank payment system](https://angop.ao/noticias/economia/bai-e-bank-of-china-assinam-acordo-para-pagamentos-transfronteiricos/). No volume or value is published.
 
 ## Botswana
 
@@ -73,6 +75,8 @@ A private schools federation signed a convention on 21 July putting fee collecti
 
 Fare collection took its first digital step. The state bus operator Transco [opened the trial phase of QR-code electronic ticketing in Kinshasa on 31 August, its director general scanning the first code on the inaugural run](https://acp.cd/business/kinshasa-la-vente-des-produits-maraichers-presentee-comme-un-levier-de-renforcement-financier/). It is a trial on one operator's buses. No fare volume, route coverage or payment provider is named, and nothing connects it to the national payment rails.
 
+The revenue chain's own record came into dispute. The tax directorate [wrote to the finance minister on 3 September alleging deleted and back-dated receipts on the ISYS-REGIES platform](https://congoguardian.com/2026/09/10/presumee-cyber-maffia-a-la-banque-centrale-sur-les-recettes-de-la-dgi-versions-croisees/), and the central bank [replied on 10 September that validated transactions are traceable and cannot be altered, explaining the gaps against its accounting system](https://actualite.cd/2026/09/11/rdc-la-bcc-dement-toute-manipulation-des-recettes-de-letat-et-clarifie-les-ecarts-entre). No independent audit is published.
+
 ## Egypt
 
 Two things moved on the payment rails. The instant payment network [began crediting inbound cross-border remittances instantly at all banks operating in Egypt](https://gate.ahram.org.eg/News/5541984.aspx). And factoring, where the platform now [vets invoices before financing to enforce the ban on double-funding a receivable](https://www.dailynewsegypt.com/2026/02/08/egypts-fra-launches-digital-factoring-portal-to-curb-financing-risks), against factored paper up 77.8% in 2025 to EGP 132.2bn.
@@ -83,6 +87,8 @@ The operator that builds the state's payment infrastructure also became a lender
 
 The mobile money platform moved underneath its users. An operator [completed migration of its money platform to a cloud-native vendor platform across four African markets](https://techafricanews.com/2026/08/21/ericsson-mtn-complete-momo-cloud-migration-across-four-african-markets/), this one among them. No downtime, subscriber count or feature change is stated for the Eswatini market, so the repository holds that the rail changed hands technically and nothing about what that cost its users.
 
+A bank wallet is closing for want of use: Standard Bank [will decommission its Unayo platform by 31 December 2026, saying only about 30% of its 200,000 retail clients transact on it](https://www.eswatiniobserver.com/standard-bank-eyes-integrated-banking-as-unayo-phased-out/).
+
 ## Ethiopia
 
 Payments extended into utilities and tax. Prepaid electricity purchase entered the mobile-money super app on 29 July for smart-meter customers, and a digital tax-payment service for one regional revenue bureau launched on 28 July as the first of a planned series.
@@ -90,6 +96,8 @@ Payments extended into utilities and tax. Prepaid electricity purchase entered t
 The market also drew a new foreign supplier. A South African financial-technology firm [entered the Ethiopian payments market with a local engineering partner on 17 August](https://www.itweb.co.za/article/sybrin-strengthens-east-african-presence-to-support-ethiopias-digital-payments-modernisation/5yONP7Erow8MXWrb), aligning onboarding, fraud-management and workflow-automation tools with the National Digital Payments Strategy 2026-2030. No commitment value, customer or deployment date is disclosed.
 
 Federal authorities began [testing whether a single payment window can serve the whole government, starting with health](https://addisfortune.news/fed-tests-a-payment-window-for-the-whole-government-starting-with-health). No transaction volume, participating-institution list or rollout timetable accompanies the pilot.
+
+Scale and use are far apart. A diagnostic report [counts more than 135 million mobile wallets opened against fewer than one adult in ten holding a mobile money account, and 0.4% relying on one alone](https://akofada.shega.co/insights/research-reports/mobile-money-in-ethiopia-a-diagnostic-report), while the national switch [says its instant-payment service passed 1 million transactions in a day in May](https://techreviewafrica.com/news/7138/ethswitch-takes-ethiopias-digital-payments-push-to-global-fintech-stage).
 
 ## Gambia
 
@@ -107,6 +115,8 @@ The dominant operator opened a channel to the next cohort of providers instead. 
 Card acceptance widened from outside the domestic rails. A commercial bank and an international card scheme [opened online acceptance of that scheme's cards to participating merchants in nine African markets including Ghana on 19 August](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/), settling in local currency, US dollars or both; the merchant count is given for the nine markets together and not for Ghana.
 
 The virtual-asset regime acquired its coordinating machinery. A five-agency committee is [constituted and chaired by the central bank governor, joining the securities regulator, the finance ministry, the cyber security authority and the financial intelligence centre, working towards having the Virtual Asset Service Providers Act fully in force by 2027](https://bitcoinke.io/2026/09/ghana-sets-up-virtual-assets-committee/), and on 4 September the securities regulator [admitted a second sandbox cohort of ten participants, run with the central bank to test and refine the framework the Act introduced](https://www.myjoyonline.com/yellow-card-joins-ghanas-second-virtual-asset-regulatory-sandbox/), one of them a stablecoin infrastructure provider testing stablecoin payment, fiat settlement and wallet infrastructure under supervision. The cohort list, the first cohort's outcomes and the sandbox's exit criteria are not published.
+
+The central bank widened its enforcement. On 8 September it [named a second list of 20 unlicensed digital loan apps](https://www.bog.gov.gh/wp-content/uploads/2026/09/Notice-No.29-BOG-SEC-GOV-2026-Notice-PUBLICATION-OF-UNLICENSED-DIGITAL-CREDIT-SERVICE-PROVIDERS-ON-THE-BANKS-WEBSITE-SOCIAL-MEDIA-PLATFORMS-AND-OTHER-COMM-CHANNELS.pdf), five weeks after the first, [warning banks and payment providers not to process for them](https://gna.org.gh/2026/09/bog-names-20-unlicensed-digital-loan-providers/); the register of licensed providers it undertook to publish is still not out.
 
 ## Guinea
 
@@ -218,6 +228,8 @@ Effective 14 July the central bank [designated one rail as the national instant 
 
 The layer the rail does not touch moved the other way. Regulator statistics for the first quarter of 2026, reported on 31 July, [put the second operator's share of the mobile-money market at 14.3% against 16.9% a year earlier, and its active agents at 48,847 against 53,316](https://taarifa.rw/2026/07/31/ekash-was-designed-to-bridge-the-digital-divide-but-airtel-moneys-struggles-risk-leaving-rural-users-behind/) — a contraction in the cash-in and cash-out network on which rural households depend, over exactly the period interoperability was meant to help.
 
+The central bank put the gap on its own record: [85.3% of Rwandans hold a digital account and 92% still pay mainly in cash](https://www.ktpress.rw/2026/09/central-bank-takes-aim-at-cash-as-92-still-rely-on-it/), and it launched a national campaign touring the districts to close it, with no target published.
+
 ## Sao Tome and Principe
 
 The central bank [refreshed its payment-system statistics on 28 August 2026](https://www.bcstp.st/Banco-Central?x=wOgqPO8BlRrdHdPOd1%2BEuA%3D%3D&z=UaqDemAwZxwMBbembGGx9g%3D%3D), recording the internet banking series from 2014 and the interbank clearing series from 2013 as last published that day, and the payment-card operations series from 2011 as last published on 3 July. Its [payment systems report, which sets out developments in the national payment system and the most important clearing and settlement events](https://bcstp.st/Banco-Central?x=1TO4%2Bebti5rf2nJ1j8MKBg%3D%3D&z=C2im%2BH0SvXYxbX7SU4Hq3A%3D%3D), was last published on 17 April 2026. The instrument set behind the series has not changed - debit cards on a single domestic network, cheques and bank transfers - and no mobile money or wallet product appears anywhere in it.
@@ -225,6 +237,10 @@ The central bank [refreshed its payment-system statistics on 28 August 2026](htt
 ## Senegal
 
 The country leads its monetary union on electronic money, on figures that also show how little of the union's account base is alive. It [held 29.7 per cent of union electronic-money outstandings and 26.5 per cent of large microfinance assets at the end of 2025, hosting 81 large institutions and 2.28 million of the union's 14.66 million accounts](https://digitalmag.ci/monnaie-electronique-dans-luemoa-le-senegal-concentre-297-des-actifs-et-occupe-la-premiere-place/); union-wide, [electronic-money outstandings rose 35.2 per cent to CFAF 1,923.2 billion and accounts reached 172.9 million, of which only 60.6 million were active](https://digitalmag.ci/monnaie-electronique-dans-luemoa-le-senegal-concentre-297-des-actifs-et-occupe-la-premiere-place/). The domestic market is a duopoly, [one provider on close to 80 per cent of outstandings against the other's 19 per cent](https://digitalmag.ci/monnaie-electronique-dans-luemoa-le-senegal-concentre-297-des-actifs-et-occupe-la-premiere-place/). The African Development Bank and AXIAN [launched a digital finance programme on 2 September targeting 34,000 women-led businesses in Madagascar, Tanzania and Senegal through the Mixx and MVola platforms](https://www.ecofinagency.com/news-finances/0409-58613-afdb-axian-take-digital-finance-to-34-000-women-led-businesses-in-africa), under a US$160 million senior corporate loan approved to the group in January 2025 with a US$2.5 million grant for financial literacy and credit access. No Senegalese share of the programme's target, and no enrolment or disbursement figure, is published.
+
+## Seychelles
+
+The social protection registry gained a use: [an agreement signed in September puts post-disaster cash transfers on its beneficiary registry and payment rails](https://nation.sc/articles/32242/seychelles-signs-cash-transfer-pact-to-boost-climate-preparedness), with no value or trigger stated.
 
 ## Sierra Leone
 
@@ -244,6 +260,8 @@ What that migration costs the institutions running it surfaced in one bank's hal
 
 A second QR estate surfaced beside the bank-led standard. A proprietary scheme [claimed more than 600,000 acceptance locations and more than 19 million inclusions across consumer banking, fintech and financial service provider applications, and was added to a handset maker's wallet on eligible devices](https://www.itweb.co.za/article/samsung-sa-expands-digital-wallet-ecosystem/xA9POvNE6n8qo4J8). The figures are the scheme provider's own, carried in the handset maker's statement, and nothing on this ledger relates the scheme to the national payment code standard.
 
+Cape Town is taking cash out of a second kind of counter: [three of its 18 driving licence testing centres, at Brackenfell, Fish Hoek and Strand, pilot cashless transactions from 1 October](https://www.itweb.co.za/article/cape-town-pilots-cashless-driving-licence-centres/6GxRKqYQEXbqb3Wj), after six service offices went cashless on 1 September. No alternative for residents without cards is stated.
+
 ## South Sudan
 
 Financial technology gained a supporter rather than a system. Support for the sector [was reported in August from a foreign government](https://www.itweb.africa/article/uk-supports-south-sudan-fintech/dgp45qaBlN9vX9l8), with no value, instrument, recipient or programme document held. Separately the national payment system bill [went through a five-day validation workshop in Juba](https://itweb.africa/article/south-sudan-pushes-cashless-transition/nWJad7bNDyL7bjO1) and remains a bill.
@@ -253,6 +271,8 @@ The rail that already moves government money to people stopped moving it. On 4 A
 ## Sudan
 
 [The Central Bank revoked the Al-Asjad payment-switch licence on 4 July 2026](https://sudantribune.net/article/315827), days after the platform launched in Port Sudan with a Sovereignty Council representative present; no specific breach was disclosed, and unconfirmed press reports say the firm was incorporated only in late 2025 with a Dubai branch. [The national payment switch launched live on 6 August](https://cbos.gov.sd/en/content/tender-announcement-national-instant-payment-system-project-nips), connecting Omdurman National Bank as first and only participant and completing a first ATM withdrawal over the switch; the Central Bank's own framing is restoration of war-damaged infrastructure, not a new rail, and no schedule for connecting further banks was given. [Al Jazeera field reporting from Omdurman and Khalifa markets on 31 July](https://www.aljazeera.net/ebusiness/2026/7/31/banking-apps-currency-sudan) found bank apps, chiefly Bankak, dominant in retail settlement, driven by cash scarcity and currency collapse rather than technology uptake, with recurring failure modes including no-smartphone workarounds, app outages and mistaken transfers.
+
+The payment outages ran on. [Intermittent failures of the dominant banking app and another e-payment service pushed traders back to cash](https://www.dabangasudan.org/en/all-news/article/bankak-outages-disrupt-sudans-digital-payments-and-markets) and [prompted a social-media campaign to withdraw funds and switch banks](https://akher-khabar.com/archives/63864). The finance ministry [signed a framework with 11 companies to supply portable electronic collection devices to state institutions](https://suda.news/51307).
 
 ## Tanzania
 

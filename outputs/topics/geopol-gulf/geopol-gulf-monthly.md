@@ -1,17 +1,15 @@
 ---
 title: Gulf/UAE activities — monthly update, August – September 2026
-compiled: 2026-09-10
-period: 2026-08-01 to 2026-09-10
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 subject: geopol.gulf
 places: BWA; GMB; KEN; SSD; ZWE
-record: b86ce3e9a2f2
+record: a2867ea944eb
 ---
 
 # Gulf/UAE activities: monthly update, August – September 2026
 
 *5 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
 
 ## Botswana
 

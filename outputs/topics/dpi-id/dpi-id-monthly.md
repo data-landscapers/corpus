@@ -1,17 +1,15 @@
 ---
 title: Digital Identity and CRVS — monthly update, August – September 2026
-compiled: 2026-09-11
-period: 2026-08-01 to 2026-09-11
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 subject: dpi.id
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COM; COG; COD; EGY; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MWI; MRT; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: f43015585dc0
+record: 83c871a0cce5
 ---
 
 # Digital Identity and CRVS: monthly update, August – September 2026
 
 *41 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -141,11 +139,15 @@ A second identity register is being built outside the state entirely. On 16 Augu
 
 An independent count put a figure on what the enforcement is chasing. A data analysis built on 66 official publications of the Attorney General's office to April 2026 [found 278,969 nationality files exposed to forgery over a 43-year window, with 10,620 families and more than 4,000 individuals implicated, and named five mechanisms from insertion of records into family registers to direct manipulation of the registry database](https://alwasat.ly/news/475886). It is an outside analysis of published prosecutions rather than an official audit, and no state response to the count is held.
 
+The forgery count grew: [3,090 national numbers issued on forged civil-status data at the Majdul registry office were halted and suspects referred for investigation](https://libyaalahrar.tv/2026/09/10/%D8%A5%D9%8A%D9%82%D8%A7%D9%81-3090-%D8%B1%D9%82%D9%85%D8%A7-%D9%88%D8%B7%D9%86%D9%8A%D8%A7-%D9%85%D8%B2%D9%88%D8%B1%D8%A7-%D9%88%D8%A5%D8%AD%D8%A7%D9%84%D8%A9-%D9%85%D8%AA%D9%87%D9%85%D9%8A%D9%86-%D9%84%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82/).
+
 ## Malawi
 
 The registration bureau reported on 13 July 2026 that more than 13.5 million people hold a national digital identity, with over 150,000 enrolled between April and June, 53% of them women ([registration bureau](https://www.biometricupdate.com/202607/malawi-reaches-13-5m-digital-ids-as-universal-coverage-comes-into-view)). On 6 July it [set the forthcoming mobile credential's launch for September 2026](https://itweb.africa/article/malawi-to-unveil-digital-ids-in-september/P3gQ2MGAZaAvnRD1), and on 5 August a separate distributed-ledger wallet was stated to be in pilot; neither announcement names the other.
 
 Using the system got more expensive. The bureau [raised fees for national identity card replacement, electronic know-your-customer verification, civil registration and marriage services](https://malawi24.com/2026/08/17/nrb-hikes-registration-fees/) under the National Registration (Amendment) Regulations 2026, gazetted on 31 July. The fee levels and their previous values are not in the record held, so the size of the increase is not established. The charge for electronic know-your-customer verification is a charge on third parties for using the identity system, levied in the month the bureau reported approaching universal coverage.
+
+The wallet has a date. The registration bureau [set its national launch for 16 September, International Identity Day, carrying a digital ID with the card's validity](https://www.biometricupdate.com/202609/malawi-to-launch-digital-id-wallet-as-national-id-coverage-reaches-99), [plus birth and marriage certificates, liveness checks and the physical card still valid](https://www.channelafrica.co.za/channelafrica/news/malawi-takes-national-ids-digital-with-nzika-wallet/).
 
 ## Mauritania
 
@@ -168,6 +170,8 @@ Alongside the outreach runs a [Youth e-ID Ambassadors Programme, using young peo
 ## Niger
 
 The identification agency exists in law. It [was created by decree of 22 April 2026, with its statutes approved by a companion decree](https://www.lesahel.org/dosso-lancement-de-la-tournee-nationale-de-sensibilisation-sur-letat-civil/), and a national awareness tour is taking the civil-status and identification reforms to the regions, officially launched at Dosso on 14 August. No enrolment figure, budget or operating date for the agency is published, so what has moved is the instrument and not yet the register.
+
+The passport break with ECOWAS is complete. [Mass enrolment for the confederal biometric passport opens on 15 September at 45,000 FCFA, enrolment for the ECOWAS passport having closed on 10 September](https://nigerdiaspora.net/societe-niger/niger-lenrolement-pour-le-passeport-biometrique-aes-debute-le-15-septembre-2026).
 
 ## Nigeria
 
@@ -204,6 +208,8 @@ In a 4 August ministerial statement responding to the mobile-money fraud surge, 
 
 Cabinet [approved a third-generation e-passport plan on 6 August](https://shabellemedia.com/somali-cabinet-approves-third-generation-e-passport-plan-reviews-security-and-economic-developments/). No issuance date is published, and it follows the clearance in February to adopt and print the East African Community e-passport.
 
+The credential was proposed for speech as well as services. On 7 September the deputy prime minister [asked the information ministry to require the national identity number to open a social media account](https://thesomalidigest.com/the-ministry-of-information-wants-a-name-behind-every-somali-account/), in a country where about 2m people hold it; [commentary on the forum asks for a rights test before any such rule](https://www.dawan.africa/news/opinion-my-reflections-on-the-strategic-and-communication-forum-2026).
+
 ## South Africa
 
 Absa [joined the bank-branch smart identity channel](https://www.sanews.gov.za/south-africa/home-affairs-announces-absa-joining-banking-sector-provide-smart-ids), which the department put at 296 branches and more than 385,000 applications in four months; Operation Vulindlela's quarterly report [gave 203,887 applications across 171 branches](https://www.treasury.gov.za/comm_media/press/2026/Operation%20Vulindlela%20Progress%20Report%20Q1%20-%202026.pdf). The reference periods differ and the figures have not been reconciled. Mobile operators and the justice department agreed a framework to [replace document presentation in SIM registration with real-time departmental verification](https://techcabal.com/2026/07/20/south-africa-wants-every-sim-card-to-become-a-trusted-digital-id/). The repository has since taken in a submission made on the closing day of the draft Identification Regulations' comment period on 6 June, in which a research organisation asked the department to suspend the regulations pending a published digital identity policy, an enacted National Identification and Registration Bill and demonstrated compliance with the data-protection Act, on the ground that they build biometric enrolment, trusted-entity accreditation and real-time verification with no formal role for the Information Regulator. The submission is held as a supplied document with no published address, so it cannot be linked to a reader.
@@ -217,6 +223,8 @@ By mid-August the branch channel had a locator of its own. The department [launc
 The draft digital-identity regulations drew their sharpest technical criticism yet. A published argument holds that they [under-specify verifier authentication, transparency about the purpose of a request, and enforcement of data minimisation](https://it-online.co.za/2026/08/11/share-doesnt-mean-surrender-when-it-comes-to-digital-id/), and urges binding rules requiring a requesting party to prove who it is, state why it is asking, and log every share — so that accountability falls on institutions rather than on the citizen who consented.
 
 The department put a number on the fraud it is chasing. The minister [said about 300,000 identity documents have been blocked behind court orders where duplicates or people illegally in the country were detected, that the great majority of identity-theft cases involve the manual green identity book still held by about 16 million people, and that the answer is expanding the smart card and the electronic travel authorisation](https://www.sundaytimes.timeslive.co.za/news/2026-08-27-home-affairs-blocks-300000-ids-amid-fraud-crackdown/).
+
+What the credential will rest on is still missing. The state has [policy, draft regulations and a presidential promise for a public key infrastructure, and no root of trust deployed, while Zambia and Namibia launched national root certification authorities inside a fortnight](https://techcentral.co.za/south-africa-behind-neighbours-digital-id/286057/).
 
 ## South Sudan
 
@@ -266,6 +274,8 @@ The identity authority put its own constraint on the record on 7 August: it is [
 Four days later the Auditor General's account of the same authority reached the press, and it puts a size on the consequence. As at late October 2025 [17 million citizens were still awaiting national identity cards, only 0.2% of first-time applicants had been cleared for printing, the staff vacancy rate stood at 26% and identity renewal faced a UGX256.8bn funding shortfall](https://redpepper.co.ug/id-nightmare-ugandans-curse-nira-over-r-nile-like-long-queues-confusing-collection-points-rejected-new-ids/150319/) — reported amid cross-district queue chaos over collection of new cards. The figures are ten months old at publication, and the authority publishes no current backlog series against which to test them.
 
 The Cabinet decision of 1 September was narrowed twice in the week after it. The finance minister said on 3 September that it [does not make the identification number the taxpayer number but requires the two to be interoperable — "we are not saying the NIN is the TIN; we are saying the NIN and the TIN must be able to read each other"](https://mulengeranews.com/minister-musasizi-explains-why-nin-is-to-be-used-as-tin-as-icpau-commits-to-enforce-ai-adoption-in-accountancy-sector/), and the revenue authority added on 7 September that [holding an identification number does not by itself make its holder a taxpayer](https://nilepost.co.ug/business/369514/ura-explains-use-of-nins-to-replace-tins), the purpose being a single secure identifier for government services and more accurate taxpayer records. The decision itself is not held, and no instrument, commencement date or migration plan has been published for what is now described as two identifiers reading each other rather than one replacing the other.
+
+The cards are printed and not working. The registration authority [holds about 5.4 million printed cards uncollected, with 418 of 571 posts filled and 201 at client counters](https://www.independent.co.ug/nira-staffing-crisis-leaves-millions-of-ids-gathering-dust/), and told legislators on 9 September that [one mobile operator is the only partner fully onboarded to the information-exchange module it opened in March, so new cards are refused at banks and SIM counters](https://businessfocus.co.ug/nira-on-spot-as-new-national-ids-fail-to-work-for-sim-registration-banks-and-driving-permits/).
 
 ## Zambia
 

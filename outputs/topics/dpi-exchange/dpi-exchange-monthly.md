@@ -1,17 +1,15 @@
 ---
 title: Data Exchange — monthly update, August – September 2026
-compiled: 2026-09-11
-period: 2026-08-01 to 2026-09-11
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 subject: dpi.exchange
-places: DZA; AGO; BEN; BFA; CMR; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 364e2a4d534b
+places: DZA; AGO; BEN; BWA; BFA; CMR; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: cc75bff8912a
 ---
 
 # Data Exchange: monthly update, August – September 2026
 
-*43 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+*44 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Algeria
 
@@ -30,6 +28,12 @@ The public-administration digital infrastructure contract [entered execution on 
 The exchange [recorded more than 138 million requests in total](https://statistiques.xroad.bj/), 32.7m in the preceding thirty days, across 73 members, 176 information systems and 512 services.
 
 A second kind of data exchange entered the record in August, and it is regional rather than national. The BIC-UEMOA credit information bureau held its first Cotonou data forum on 23 July, [reported on 13 August](https://www.lanation.bj/economie/1er-cafe-des-donnees-du-bic-uemoa-a-cotonou-la-qualite-des-informations-au-coeur-des-travaux), with the finance ministry framing data quality as the route to cutting credit-approval turnaround to 48 hours. The bureau spans all eight union states with 321 data providers, about 48 million contracts and more than 20 million active borrowers. The figures are the operator's own and union-wide; nothing Benin-specific — coverage, dispute rate or the data-protection basis for the file — is held.
+
+At the busiest land border, the systems gap was named on the record: Nigeria's customs chief [told a joint assessment at Seme-Krake that the two administrations work under one roof but not on one system, and offered real-time exchange of declarations, manifests and risk alerts](https://tribuneonlineng.com/nigeria-benin-republic-move-to-close-trade-gaps-at-seme-border/). Benin's reply is not reported.
+
+## Botswana
+
+The identity register is being opened to banks: the bankers' association [launched a national eKYC project letting banks verify customers against the national citizen database](https://www.businesstechafrica.co.za/article/botswana-launches-national-ekyc-project-to-make-bank-verification-easier), with no go-live date or data-protection arrangement stated.
 
 ## Burkina Faso
 
@@ -168,6 +172,8 @@ Nine agencies took bilateral cover under the amended identity Act inside a fortn
 
 A state built its own exchange for the most sensitive category of all. Lagos [set out a Smart Health Information Platform on 8 August, to connect patient records, laboratory results and biological data across facilities](https://thesun.ng/lagos-pushes-ai-health-data-to-transform-healthcare-delivery/) and to underpin an artificial-intelligence-driven health system, citing the Ebola and COVID-19 outbreaks as the case for moving off siloed facility records. No legal basis, data-controller arrangement, consent model, retention rule or relationship to the national data-protection regime is stated for it — the same silence the federal exchanges above are described in.
 
+Three more exchanges were proposed in September, none yet built. The education ministry [disclosed talks with the national youth service scheme on an interface to verify qualifications against the repository](https://www.thestar.ng/fg-nysc-plan-digital-link-to-curb-certificate-fraud/); at Seme-Krake the customs service [offered Benin real-time exchange of declarations, manifests, transit data, risk profiles and enforcement alerts, the two administrations sharing one post but no system](https://tribuneonlineng.com/nigeria-benin-republic-move-to-close-trade-gaps-at-seme-border/); and the financial intelligence unit [opened co-design with banks, fintechs and insurers of a platform to share intelligence against illicit flows](https://von.gov.ng/nfiu-mobilises-private-sector-to-combat-illicit-financial-flows/). None states a legal basis for the sharing.
+
 ## Rwanda
 
 A delegation joined the [UNDP Africa Accelerator for Digital Public Infrastructure's session of 2-3 September](https://www.linkedin.com/posts/africa-accelerator-for-digital-public-infrastructure-share-7501243526484123648-U4ba) alongside Ethiopia, Malawi, Sierra Leone and Zambia, working through the move from blueprint to execution, verifiable credentials and consented data-sharing frameworks, and reusable open-source deployment code. What is on record is attendance and a [published agenda](https://www.undp.org/africa/projects/africa-accelerator-digital-public-infrastructure-aa4dpi); no country programme, commitment or deliverable follows from it.
@@ -197,6 +203,8 @@ Two exchanges were arranged this month and neither states what happens to the da
 
 A third exchange was put out for comment rather than arranged. The revenue service [published a consultation paper proposing a five-corner digital VAT model — electronic invoicing, an interoperability framework and electronic reporting — moving toward VAT auto-assessment, with a phased rollout from 2026/27 and feedback due 16 October](https://www.sars.gov.za/vat-modernisation-consultation-paper-august-2026/). It is the one of the three that will reach every registered business, and it is the one still open to be argued with; no cost to business, exemption threshold or accreditation regime for service providers is stated.
 
+The consultation already has a statute under it. The revenue service confirmed on 8 September that [the VAT Act has carried e-invoice, e-reporting and interoperability-framework definitions since 1 April 2026](https://www.sars.gov.za/businesses-and-employers/my-business-and-tax/vat-connect-issue-21-september-2026/), so the definitions were enacted before the model they serve was put out for comment. At the land borders, a review with Lesotho on 9 September [agreed to accelerate smart one-stop border posts at Maseru and Ficksburg](https://www.africa-newsroom.com/press/lesothosouth-africa-binational-commission-bnc-midterm-review-concludes-in-pretoria?lang=en), with no date or design published.
+
 ## South Sudan
 
 The only description the repository holds of how import revenue is actually collected is an account of a sanctioned contractor collecting it. A UK-registered firm [manages national revenue through a US-dollar e-Permit charge levied on imports before any tax assessment is issued, enforced at all border points by the Ugandan and Kenyan revenue authorities alongside the firm's own staff deployed under national revenue authority cover](https://thecapitaltimes.co.ug/on-the-spot-ura-links-with-us-sanctioned-south-sudan-firm-crawford-capital-raises-concern), and collection has continued since the United States sanctioned the firm on 12 May over the diversion of public resources and foreign assistance. The Tanzanian and Rwandan revenue authorities have publicly dissociated themselves. No contract, legal instrument or revenue figure is published, and no national authority is recorded as answering the account.
@@ -214,6 +222,8 @@ The first service the repository holds that names agency-to-agency links went li
 The public procurement appeals authority [directed all domestic and international bidders to lodge challenges through its online module and announced plans to integrate it with the judiciary's system](https://www.thecitizen.co.tz/tanzania/news/national/ppaa-pushes-online-appeals-to-boost-transparency-in-public-tenders-5542668), reported 31 July, with hearings by video conference already taking cases from bidders in five other countries. No date is attached to the integration.
 
 On forest-products revenue the government chose integration over replacement, a two-day technical working group in Dodoma [settling on joining the existing systems rather than building a new one](https://dailynews.co.tz/government-moves-to-integrate-forest-revenue-systems/). That is the working group's stated choice and not yet an outcome: no interface specification, timetable or go-live date is on file.
+
+The health ministry [described cutting the number of health systems, linking private and public ones, and preparing a national Health Data Centre as a single access point for research and trials](https://www.moh.go.tz/sw/news-single/sekta-binafsi-kuendelea-kushirikishwa-kuboresha-huduma-za-afya-nchini); no access rule beyond user role is published.
 
 ## Togo
 
@@ -238,3 +248,5 @@ A register of a different kind opened alongside it. Zambia [launched a fully dig
 ## Zimbabwe
 
 Customs data crossed a border on paper this month, in the form of an agreement to stop it having to. Customs administrations from five countries [adopted a roadmap and action plan for customs-to-customs data exchange at a meeting in Pretoria ending 26 August, to exchange trade information before consignments reach the border so that documentation and risk assessment happen earlier](https://southernafricantimes.com/five-southern-african-countries-move-to-link-customs-data-as-trade-corridors-face-pressure-to-cut-delays/), building on a link this country already runs with Zambia. Data standards, interoperability, cybersecurity, legal authority and information quality are all recorded as unresolved, and no corridor or target crossing time is named.
+
+The registry check reached the wallets. The central bank [shut down ghost, fictitious and duplicate mobile money wallets after linking the civil registry's national database with subscriber records](https://businesstimes.co.zw/rbz-shuts-down-ghost-wallets/); no count of closed wallets is published.

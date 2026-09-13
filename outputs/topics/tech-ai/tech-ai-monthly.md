@@ -1,17 +1,15 @@
 ---
 title: AI — monthly update, August – September 2026
-compiled: 2026-09-11
-period: 2026-08-01 to 2026-09-11
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 subject: tech.ai
 places: DZA; AGO; BEN; BFA; BDI; CMR; CAF; TCD; COM; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GHA; KEN; LBR; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 00991b0479d7
+record: 4bdf2aa85e4f
 ---
 
 # AI: monthly update, August – September 2026
 
 *40 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -20,6 +18,8 @@ On 25 July the Higher Education Minister announced that from the 2026–2027 aca
 The strategy itself moved in August rather than July. A [joint inter-ministerial roadmap was agreed to deploy artificial intelligence across public services, prioritising sovereign open-source models, high-performance computing centres, national data storage and stronger safeguards for public-sector applications](https://itweb.africa/article/algeria-launches-public-service-ai/lwrKxv3Y1oyMmg1o), reported on 12 August by the higher education minister, with intensive university training programmes, a dedicated research centre and specialised research units, and a joint monitoring committee established to oversee delivery against a stated timeline. The strategy text is still not published and the ethical-AI law has not moved.
 
 Three external events are dated in the month and moved nothing. The Post and Telecommunications Minister told the inaugural [UN Global Dialogue on AI Governance](https://techreviewafrica.com/news/6195/algeria-advocates-for-practical-ai-governance-measures-at-un-global-dialogue-in-geneva) in Geneva on 6 July that global governance should move from principles to technology transfer and capacity building. Smart Africa's chief executive met him on [13 July](https://techreviewafrica.com/news/6272/smart-africa-and-algeria-hold-discussions-on-ai-adoption-and-digital-integration) on AI adoption and digital integration; no agreement or commitment is reported. Algérie Télécom received a [WSIS Forum certificate of appreciation](https://www.echoroukonline.com/%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%8A%D8%AA%D9%88%D8%AC) on 9 July. The award is a certificate of appreciation; the ministry described it as confirmation of Algeria's standing.
+
+The strategy acquired machinery before a published text. A second coordination meeting on 8 September [created five thematic commissions, a national AI and data research centre, short-term projects for AI-based tax administration and a multisectoral AI system, and a target of 50,000 AI specialists by 2030](https://www.mesrs.dz/fr/2026/09/le-ministre-de-lenseignement-superieur-et-de-la-recherche-scientifique-preside-la-premiere-reunion-de-coordination-consacree-a-la-mise-en-oeuvre-de-la-strategie-nationale-de-lintelli/), building on the [joint monitoring committee installed at the first meeting on 5 August](https://www.aps.dz/fr/algerie/education-et-technologie/msg23yd3-reunion-de-coordination-pour-la-mise-en-%C5%93uvre-de-la-strategie-nationale-en-matiere-de-l-ia).
 
 ## Angola
 
@@ -63,6 +63,8 @@ A Comorian graduate student, Soilahoudine Mohamed of Mvouni, [launched Komori Tt
 
 The meteorological agency [signed a memorandum with China's meteorological administration at Shanghai](https://www.aip.ci/cote-divoire-aip-la-sodexam-signe-un-memorandum-dentente-avec-ladministration-meteorologique-chinoise/). It is a cooperation instrument rather than a system: no scope, model, data-sharing term or duration is published.
 
+The national AI conference ended with a list and a deadline: [77 priority use cases selected from hundreds, and a national roadmap for them to be finalised within three weeks](https://www.lemeridien.ci/intelligence-artificielle-la-cote-divoire-retient-77-priorites-et-se-donne-trois-semaines-pour-passer-a-laction/). The state [signed a voluntary national AI pact with the employers' confederation and the chamber of commerce](https://afriksoir.net/cote-divoire-letat-et-le-prive-scellent-un-pacte-pour-accelerer-la-revolution-de-lia/), with no legal or financial obligation attached.
+
 ## Djibouti
 
 On 17 July an upgraded AI weather early-warning system was [handed over at the World AI Conference in Shanghai](https://www.wearetech.africa/fr/fils/actualites/tech/djibouti-deploie-une-nouvelle-version-de-son-systeme-d-alerte-meteo-fonde-sur-l-ia). Version 2.0 adds observation and autonomous alerting through smart terminals combining satellite, ground data and forecast models, and sharpens forecast resolution to 3 km from 9 km. The first system was supplied by the China Meteorological Administration in July 2025 and entered service in December 2025.
@@ -72,6 +74,8 @@ The LinkWise interview of 23 July also [named a cross-border data corridor linki
 The national AI strategy that has been in preparation since January acquired a launch date, a shape and then a forum. Djibouti's first national artificial-intelligence forum [opened at the Palais du Peuple on the morning of 2 September under the President's patronage](https://www.lanation.dj/premier-forum-national-sur-lintelligence-artificielle-djibouti-prend-le-virage-de-la-revolution-technologique/); the strategy was [set for official launch there](https://www.lanation.dj/premier-forum-djiboutien-sur-lintelligence-artificielle-un-pari-sur-la-souverainete-numerique/), carried by the digital economy ministry and the Secretariat General of the Government with UNESCO and UN ESCWA support, and runs to 2032 on eight axes: ethical AI governance, data and digital infrastructure, education and human capital, economy and employment, social inclusion and gender, strategic sectors, responsible technological infrastructure, and international cooperation. The ministry [convened cross-ministerial focal points on 15 August](https://www.techreviewafrica.com/news/6777/djibouti-intensifies-preparations-for-national-artificial-intelligence-forum) to coordinate it. Whether the text was in fact launched at the forum is not yet on the record.
 
 The forum will also present the national readiness assessment behind the strategy, which puts Djibouti at [24.5 out of 100 on AI readiness against an ICT development index of 61.6](https://www.lanation.dj/premier-forum-djiboutien-sur-lintelligence-artificielle-un-pari-sur-la-souverainete-numerique/) — the gap the strategy is written against, and one the account attributes to the submarine cables landing in Djibouti and the data centres built around them. Neither the assessment report nor the strategy text is held.
+
+The strategy now has a shape: [the first national AI strategy, for 2026-2030, was presented on six axes - governance, cybersecurity, training, research, innovation and inclusion](https://lobservateur.info/article/119465/covid-19/intelligence-artificielle-djibouti-lance-sa-premiere-strategie-nationale). Its text is not published.
 
 ## DR Congo
 
@@ -113,6 +117,8 @@ Applications opened on 1 July for an applied artificial-intelligence lab in Accr
 
 The external assessment of readiness arrived on 7 September. Ghana is [one of 77 countries to have run UNESCO's readiness assessment methodology, under an EU-funded project on implementing the ethics recommendation](https://www.unesco.org/en/articles/ai-readiness-assessment-methodology-ghana), and the draft findings presented at consultation stated that the country lacks binding AI-specific regulation and comprehensive data governance frameworks. The report also puts a third dating on the national strategy — 2023-2033, approved 24 April 2026 — against the held text titled 2025-2035 and dated December 2025 and a [ministerial statement placing Cabinet approval in the week before 26 February 2026](https://www.citinewsroom.com/2026/02/ghanas-national-ai-strategy-secures-cabinet-approval-sam-george/). None of the three is reconciled.
 
+Two applied systems launched outside government. The development bank's [AI platform gives farmers agronomic guidance and loan officers portfolio intelligence on a messaging app, after a pilot of more than 8,500 queries in three months](https://gna.org.gh/2026/09/dbg-partners-launch-ai-platform-to-transform-agricultural-financing/), and a non-profit with the dominant operator [opened a toll-free voice line answering in six languages, an AI system included, for callers without data](https://www.ghanamma.com/2026/09/10/viamo-launches-231-voice-platform-in-ghana-creating-a-new-national-channel-for-inclusive-communication-and-offline-ai/).
+
 ## Kenya
 
 The draft AI policy was published for comment on 21 July and comment closed on 4 August. It runs to 226 pages, asserts [effects-based jurisdiction over entities outside Kenya](https://nairobibusinessmonthly.com/kenyas-draft-ai-policy-seeks-power-over-foreign-tech-giants/) whose outputs have direct and foreseeable effects in the country, leaves "high risk" undefined and states no penalties. Its labour chapter [sets minimum standards for content moderators, data annotators and evaluators](https://itweb.africa/article/kenya-sets-standards-for-ai-workers/raYAyMorGzX7J38N), binding on international firms operating through outsourcing partners.
@@ -122,6 +128,8 @@ An analysis published on 23 July recorded that the National AI Strategy, costed 
 The draft then drew its first substantive submission, and a headline figure. A civil-society organisation [urged institutional independence for the proposed AI council and mandatory human-rights impact assessments](https://cipesa.org/2026/08/cipesa-urges-kenya-to-align-and-strengthen-its-draft-ai-policy/) on 14 August, with the draft reported as nearing Cabinet consideration. Alongside it, a commercial data compiler's mid-year update [put 97.5% of Kenya's online adults using an artificial-intelligence tool monthly, first globally, ahead of the United Arab Emirates at 94.2% and Indonesia at 93.6%](https://www.itweb.africa/article/kenya-tops-global-ai-usage-rankings/5yONP7Ero1NMXWrb). It is a self-reported survey of online adults rather than a population measure.
 
 The ministry meanwhile put up an assistant of its own. The ICT cabinet secretary [put up a platform, hosted on his own official website, intended as a single entry point routing citizens to the agency or service responsible for a given digital programme](https://www.kenyans.co.ke/news/126535-cs-kabogo-unveils-ai-platform-transform-ict-ministry-operations); its developers say it will launch once the underlying information, routing and review safeguards are in place, so it is not yet answering questions. A public-information service sited on a minister's website rather than a government domain carries no stated operator or accountability route.
+
+Misuse reached the record from the supplier's side. A model provider [disclosed that it had removed a domestic actor's account mass-producing posts in batches of 50, praising the energy minister's tariff decision and claiming the opposition was fracturing ahead of 2027](https://www.itweb.africa/article/anthropic-flags-kenya-ai-influence-operation/kLgB1MezZe6q59N4), with no reach established; the minister [denied any ministry role](https://www.the-star.co.ke/news/2026-09-11-wandayi-distances-himself-from-ai-campaign-praising-tariff-move). The state's own compute moved a step: a [Letter of Agreement with the UN development agency commits to operationalising sovereign AI infrastructure at the Konza Data Centre](https://techreviewafrica.com/news/7149/kenya-undp-move-to-operationalise-sovereign-ai-infrastructure-at-konza-data-centre), and the Treasury [describes the Konza Digital Media City as recently approved for Korean financing](https://peopledaily.digital/business/kenya-south-korea-deepen-ksh-129-4b-development-partnership).
 
 ## Liberia
 
@@ -159,6 +167,8 @@ The one artificial-intelligence figure to move in the window is a ranking rather
 
 
 The institutional side did move. Four public-interest institutes [were established by publication in the Official Gazette, covering artificial-intelligence research and sovereign systems, education, industrial automation and smart cities](https://en.7news.ma/morocco-ai-institutes/), under the national digital and artificial-intelligence strategies. No budget, staffing or opening date is stated for any of them.
+
+The AI roadmap was presented as moving to delivery on 8 September. The ministry [set targets of MAD 100bn in value added, 50,000 jobs and 200,000 certified talents by 2030](https://www.mmsp.gov.ma/fr/actualites/madame-amal-el-fallah-seghrouchni-pr%C3%A9sid%C3%A9-le-8-septembre-2026-%C3%A0-rabat-une-pr%C3%A9sentation-consacr%C3%A9e-%C3%A0-l%E2%80%99%C3%A9tat-actuel-de-la-feuille-de-route-%C2%AB-maroc-pour-l%E2%80%99intelligence-artificielle-2030-%C2%BB), [showed a sovereign AI marketplace, an assistant on the administrative-procedures portal and a national e-wallet proof of concept](https://panorapost.ma/post.php?id=57071), and the four JAZARI institutes [held general assemblies and moved to operations](https://www.mmsp.gov.ma/fr/actualites/les-assembl%C3%A9es-g%C3%A9n%C3%A9rales-de-quatre-instituts-%C2%AB-jazari-%C2%BB-se-sont-tenues-le-8-septembre-2026-%C3%A0-rabat-sous-la-pr%C3%A9sidence-de-madame-la-ministre-amal-el-fallah-seghrouchni). The roadmap document is still not published.
 
 ## Mozambique
 

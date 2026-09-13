@@ -1,23 +1,23 @@
 ---
 title: Sectoral management information systems (HMIS, EMIS, etc.) — monthly update, August – September 2026
-compiled: 2026-09-11
-period: 2026-08-01 to 2026-09-11
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 subject: dpi.mis
-places: DZA; AGO; BEN; BWA; BDI; CMR; CPV; CAF; COM; COG; CIV; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 1aaca315820f
+places: DZA; AGO; BEN; BWA; BDI; CMR; CPV; CAF; COM; COG; CIV; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 8f70191245f3
 ---
 
 # Sectoral management information systems (HMIS, EMIS, etc.): monthly update, August – September 2026
 
-*45 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+*46 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Algeria
 
 Two internal systems moved in different registers. The tax administration [published its first user guide for electronic payment on its platform, setting out seventeen rejection reasons](https://www.wearetech.africa/en/fils-uk/news/public-management/algeria-orders-fast-tracking-of-digital-tax-data-integration) â€” a document describing the failure modes of a live system, which is more than most such platforms disclose. And the interior and transport ministry [signalled activation of tachograph monitoring of professional transport](https://www.echoroukonline.com/%D8%A7%D9%84%D8%AA%D8%A7%D9%83%D9%88%D8%BA%D8%B1%D8%A7%D9%81-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D9%86%D8%B5-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86), with no start date, fleet scope or data-handling rule stated.
 
 A second joint session of the digitalisation high commission and the domestic trade ministry [took the data sources themselves as its subject — how they are produced, updated and kept consistent — towards a unified digital mechanism for regulating the national market](https://www.aps.dz/en/algeria/education-technology/mtr4nrdp-benmouloud-abdellatif-chair-second-meeting-to-establish-unified-digital-mechanism-for-national-market-regulation). It is the first account the repository holds here of provenance being treated as the problem to solve rather than the platform.
+
+The market-supply system [reached the government meeting of 9 September as a unified digital system for regulating and supplying the national market](https://www.aps.dz/en/algeria/national-news/mtu81f2g-penal-code-fire-damage-compensation-digitization-on-agenda), after two joint sessions on its data sources.
 
 ## Angola
 
@@ -75,6 +75,8 @@ The social insurance authority reported on 3 August that it had served 8,621,000
 
 The health stock chain went onto one record. The procurement authority told the prime minister on 2 September that it is [building a national medical-stock database and has moved stocktaking onto a mobile scanning application, putting the system at 38,000 health-sector users, 11,000 medical facilities and 2,000 suppliers across the procurement, storage, dispensing and reconciliation cycle, with warehouses standardised by actual operating state and stock balances updating in real time](https://www.youm7.com/story/2026/9/2/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D9%8A%D8%AA%D8%A7%D8%A8%D8%B9-%D8%AA%D9%88%D8%A7%D9%81%D8%B1-%D8%A7%D9%84%D8%A3%D8%AF%D9%88%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%A9-%D8%A8%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%8A%D8%A7%D8%AA-%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9/7533639). The figures and the claim that the design meets audit and finance requirements are the authority's own; about EGP 90bn is allocated this financial year for medicines and medical supplies, and no completion date or independent audit of the system is published.
 
+Remote justice arrived with a price list. The justice ministry's [E-Court platform went live on 31 August for first-instance criminal courts, charging lawyers EGP 500 a year, EGP 500 per remote felony hearing and EGP 10 a page for case-file copies](https://manassa.news/en/news/33836); the Lawyers Syndicate calls the fees unconstitutional, and no legal basis for them is published.
+
 ## Equatorial Guinea
 
 Two sectoral systems moved, both at the design stage. A ministerial workshop [agreed to build a single import-valuation database and to bring an automated customs valuation module into service](https://lagdeguinea.com/gobierno-refuerza-el-control-aduanero-y-agiliza-reformas-economicas/), and the universal health insurance technical committee [presented the national health accounts for 2021 to 2023](https://www.guineaecuatorialpress.com/noticias/el_comite_tecnico_multisectorial_del_seguro_medico_universal_presenta_las_cuentas_nacionales_de_salud_2021-2023). Neither carries a supplier, a cost or a date. What the customs agreement replaces, and how valuation is done now, is not stated in the record held.
@@ -101,9 +103,15 @@ The month's one management system came from outside government. The Gambia Red C
 
 One sectoral system was assessed rather than built. A Danish-funded gap assessment of the meteorological agency [reported gaps across its ICT infrastructure, digital systems, data governance and cybersecurity framework](https://techafricanews.com/2026/08/20/dmi-assessment-highlights-ict-cybersecurity-and-data-gaps-at-ghanas-gmet/), presented to the communications ministry in Accra under a bilateral weather and climate cooperation. Neither the assessment text nor any cost, timetable or funding line for the roadmap it recommends is published, so what the month holds is a diagnosis and no commitment to act on it.
 
+The health insurer [described electronic claims, biometric member verification and one-time attendance codes as in operation, with active membership at 70% in August 2026 against an 80% year-end target](https://theoverseeronline.com/victor-bampoe-2-3/), its own account with no claims or rejection figures.
+
 ## Guinea
 
 Health information systems here are being built by private operators rather than by the ministry. A Guinean academy's [Visa Medical hospital-digitisation model is deployed in 19 Guinean hospitals with more than a million users on a self-financed basis, and is being extended to Chad, the Democratic Republic of the Congo and Morocco](https://guineenews.org/2026/08/13/financer-la-digitalisation-des-hopitaux-sans-endetter-letat-le-pari-reussi-dune-healthtech-guineenne-devenue-panafricaine/). Separately, a Guinea-based physician's platform [coordinates blood donation and blood-bank logistics across West Africa](http://www.wearetech.africa/en/fils-uk/tech-stars/esdras-azanmassou-builds-a-connected-network-for-safer-blood-donation), founded in 2022 to stop units expiring at one facility while another is short. Both are private; the figures are their own, and neither account states a ministry relationship, a patient-data protection arrangement or any interoperability with the national health information system, which remains In development.
+
+## Guinea-Bissau
+
+The prime minister [pledged computerised teacher posting, salaries paid through banks or mobile money, and a digital audit of the education payroll](https://ang.gw/pm-promete-elevar-para-15-por-cento-do-orcamento-geral-do-estado-os-fundos-destinados-ao-setor-do-ensino-nacional/), with no timetable published.
 
 ## Kenya
 
@@ -112,6 +120,8 @@ Health claims authorisation failed at the counter through the month. A teachers'
 An academic review published on 5 August put the child-protection case system on the other side of that ledger, [crediting it with cutting duplication and improving real-time coordination between agencies, with recorded cases rising from 20,235 in 2016/17 to 54,583 in 2021/22](https://blogs.lse.ac.uk/africaatlse/2026/08/05/can-technology-bridge-the-gaps-in-kenyas-multi-agency-governance/). The most recent of those figures is four years old, and the system is American-funded — which places it in the same account as the withdrawal recorded under inclusion below.
 
 The claims platform was quantified from the settlement end for the first time. The health ministry and the counties jointly put [settlement at 78% across all 47 counties with KSh 159.3bn paid, and reconciliation and sign-off completed for legacy insurance-fund claims](https://www.health.go.ke/national-and-county-governments-strengthen-coordination-health-reforms), at an intergovernmental budget council session on 31 August. It is their own joint figure, published without a denominator, an ageing profile or a rejection breakdown — and it is not on the same basis as the authorisation failures still being reported at facility counters, which nothing in the session retracts.
+
+The education register failed its first money test. The principal secretary [told the Public Accounts Committee in late August that the latest capitation round used neither the new system nor its predecessor but manually verified data, because the new system is incomplete](https://techweez.com/2026/09/09/the-nemis-to-kemis-dilemma/); schools reported failed logins and unsaved submissions during the Grade 10 selection it was required for, and MPs had already flagged KES 103.99bn paid against unverified numbers on the old one.
 
 ## Lesotho
 
@@ -183,6 +193,8 @@ Two sectoral systems moved in the same week. The government [launched a digital 
 
 Health information gained a project and a set of funders. The health minister [launched a Pandemic Fund project in Mogadishu to strengthen prevention, preparedness, detection and response for infectious disease and public health emergencies](https://afenet.net/the-minister-of-health-somalia-launched-the-pandemic-fund-project/), with multilateral and regional partners named alongside it. What is not published is the part that would make it a system: no budget, no duration, and no specification of the surveillance and reporting infrastructure the project is meant to build.
 
+The planning ministry [launched a digital system on 8 September to monitor National Transformation Plan projects across all 26 federal ministries against performance indicators](https://www.dawan.africa/news/somalia-launches-digital-system-to-track-national-transformation-plan), after reviewing 153 donor-funded projects.
+
 ## South Africa
 
 The student funding scheme's administrator submitted a stabilisation plan stating that [ICT is the scheme's biggest operational risk, fragmented, manual and not fit for purpose](https://www.itweb.co.za/article/nsfas-says-ict-is-its-biggest-operational-risk/rW1xLv5ngJy7Rk6m). The same submission reports 66 major audit findings and a disclaimer audit opinion from the Auditor-General, 115 overdue internal audit findings and nine material irregularities, five of them data or systems defects. The scheme was placed under administration in May and its governance failures referred to the Special Investigating Unit.
@@ -205,6 +217,8 @@ At the same exhibition the agency described a farmer-records and permits system 
 
 The state's own asset record is being enforced rather than built. The finance ministry is [tightening enforcement of the central electronic system for recording and monitoring public assets, citing a hydropower project at about TSh6tn and a railway at about TSh10.6tn](https://businessinsider.co.tz/tanzania-pushes-digital-asset-tracking-to-protect-public-wealth/), with legal backing through amendments to the Public Finance Act and the Public Assets Management Regulations 2024. No count of assets recorded, entities complying or value reconciled is published, so the two named investments are cited as scale rather than as entries in the system.
 
+Community health work is being tied to the payment rail. Local government's ICT director [said a blueprint exists for community health worker systems, with a joint dashboard to track services and payments](https://dailynews.co.tz/tanzania-moves-to-integrate-primary-healthcares-digital-systems-to-boost-its-services-delivery/), built by local experts; the blueprint itself is not published.
+
 ## Togo
 
 Togo put a [platform online centralising climate-risk data across agriculture, forestry, water resources, tourism and energy](https://www.togofirst.com/en/itc/2408-19852-togo-launches-platform-to-improve-climate-risk-monitoring). Drought and flood indicators are keyed by field agents and checked by sector and regional focal points before national consolidation, time-stamped to leave an audit trail; no launch date is given. The modules for a [National Malaria Data Repository were approved](https://www.togofirst.com/en/health/2608-19870-togo-launches-digital-platform-to-improve-malaria-response) after a training-of-trainers workshop, with no go-live date or facility coverage stated.
@@ -217,11 +231,15 @@ The health estate reported volume and the education estate reported failure. [12
 
 The school platform's first mass use is measured, and the measurement is mid-campaign. Remote enrolment reached [1.691m pupils by 3 September 2026, 81% of those eligible, of whom 1.587m — 76% of the eligible total — had also paid the fees](https://directinfo.webmanagercenter.com/2026/09/03/rentree-scolaire-2026-2027-en-tunisie-plus-de-169-million-deleves-inscrits-a-distance/). The shares are the education ministry's own, and nothing is published about the fifth of eligible pupils who had not enrolled online — which is the number that would say whether the platform is a route or a requirement.
 
+The health ministry and UNICEF [set the priority needs for a national digital platform covering the care of mothers, newborns and children](https://www.letemps.news/2026/09/08/sante-vers-une-plateforme-numerique-dediee-a-la-sante-de-la-mere-et-de-lenfant/), after a benchmarking study; no build date or host is stated.
+
 ## Uganda
 
 A health surveillance pilot moved to the stage where the model's answer is visible to the person making the decision. An artificial-intelligence febrile-illness workflow built into the community health information system [recorded high agreement with village health teams' unaided judgments in a first phase and has entered a three-month second phase in which workers see the model's interpretation, across four districts](https://iafrica.com/ugandan-ai-health-pilot-records-high-agreement-with-community-workers-now-enters-the-harder-phase/). No agreement percentage, sample size or case count has been published, so the headline finding cannot be checked; the first phase itself logged low testing volumes, inconsistent commodity availability, device underperformance, unreliable connectivity and supervision gaps.
 
 A private platform entered the health stack from outside it. A digital-health company [launched a platform on 3 September letting urban specialists run virtual multidisciplinary ward rounds with rural inpatient teams in real time, with per-bed cryptographic tokens and triage on live vital signs](https://nilepost.co.ug/business/368668/chil-group-launches-digital-platform-linking-rural-hospitals-to-urban-specialists), covering more than 260 medical wards it says often lack cardiologists, neurologists and intensivists. No facility list, patient volume, tariff, clinical evaluation or integration with the national health information stack is published.
+
+The parish programme's system was audited short of its design. The Auditor-General [found two of seven pillar modules fully implemented, 178 of 13,253 parish tablets non-functional, 29 with ineligible users and none supported with internet connectivity](https://www.oag.go.ug/storage/megareports/THEPDM@THM2025.pdf), and in September one district [reported 31 of its 61 tablets dead and parishes back on manual records](https://chimpreports.com/alarm-raised-as-50-of-zombo-pdm-tablets-fail-to-function/).
 
 ## Zambia
 
