@@ -60,7 +60,7 @@ Start with an email. The site is rebuilt nightly by automated processes, so a ch
 
 ## Licence
 
-Reports and datasets: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). No licence has yet been set for the code in this repository; ask if that matters for what you have in mind.
+Code: [MIT](LICENSE). Reports, datasets and page text (`site/`, `outputs/`, `content/`): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ## Contact
 
