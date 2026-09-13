@@ -408,7 +408,9 @@ dpi.pay--population-uptake,Movement,"[Account ownership](2025-08-10-mobile-money
 
 The mobile money platform migrated to a cloud-native vendor platform across four markets; the performance figures are the vendor's own and no downtime, cost or subscriber-impact figure is stated ([migration](2026-08-21-tan-ericsson-mtn-momo-cloud-migration)).
 
-Neither uptake figure is a domestic series, so what the payment switch and the post-office channel changed cannot be measured from this repository.",SWZ-include.access-accounts|SWZ-dpi.pay-cash|SWZ-dpi.pay-momo-platform-cloud-migration
+Neither uptake figure is a domestic series, so what the payment switch and the post-office channel changed cannot be measured from this repository.
+
+2026-09 - a bank [set its mobile banking platform to close by 31 December 2026, with only about 30% of its 200,000 retail clients transacting](2026-09-09-swz-observer-standard-bank-unayo-phased-out-integrated-banking).",SWZ-include.access-accounts|SWZ-dpi.pay-cash|SWZ-dpi.pay-momo-platform-cloud-migration|SWZ-dpi.pay-unayo-wallet
 dpi.pay--cross-border-functionality,Movement,"[Migration of regional low-value flows to a bloc settlement system](2026-07-21-egypt-eswatini-deepen-banking-cooperation) is reported under way with no timetable, and [accession to a continental payment system](2026-07-21-egypt-eswatini-deepen-banking-cooperation) was discussed with a bilateral partner.","The migration is reported as under way with no timetable, volume, value or mandating instrument given ([migration](2026-07-21-egypt-eswatini-deepen-banking-cooperation)).
 
 The central bank governor discussed leveraging another country's experience to accelerate continental accession ([accession](2026-07-21-egypt-eswatini-deepen-banking-cooperation)).
@@ -429,7 +431,7 @@ dpi.registry--address-register,Movement,[National addressing standards](2026-07-
 
 Mbabane is leading implementation of a national street addressing and house numbering programme, framed as a smart-city initiative to make deliveries, emergency response and navigation work ([Mbabane](2026-07-23-mbabane-national-addressing-pilot)), and Ezulwini is among the pilot municipalities ([Ezulwini](2026-07-20-ezulwini-national-addressing-pilot)).
 
-What exists is a standard and two pilots. No address register, no count of addressed properties and no national coverage figure is held, and the standard is six weeks old at the close of this window.",SWZ-gov.standards-national-addressing-standards
+2026-09 - [Matsapha became the first municipality to roll out addresses under the national project](2026-09-11-swz-positivenews-matsapha-national-postcode-addressing-rollout). No address register, count of addressed properties or national coverage figure is held.",SWZ-gov.standards-national-addressing-standards|SWZ-dpi.registry-national-postcode-addressing-project
 dpi.registry--business-register,Movement,"Company registration runs online with [incorporation in a day](2025-01-01-eswatini-company-registration-procedure), and a Bill to replace the 2009 Act and digitise registration is between the two Houses.","Company name search and reservation run online with incorporation in a day ([procedure](2025-01-01-eswatini-company-registration-procedure)), and a one-stop shop for investors opened in July 2025 offering a trading licence and a taxpayer number in one place.
 
 The Companies Bill of 2024, which would replace the Companies Act of 2009 and digitise company registration, passed the House of Assembly on 18 September 2025 ([passage](2025-09-18-eswatiniobserver-mps-pass-companies-bill)) and the Senate moved on 5 March 2026 to take it at the stage it had reached ([order paper](2026-03-05-senate-order-paper-companies-bill)).
@@ -450,7 +452,7 @@ The commission's own account of the process describes voter registration on an o
 
 A proposal to make the chief code compulsory at registration, alongside a six-month residency rule, divided residents at Ezulwini and is under commission review ([debate](2026-08-10-times-eswatini-chief-code-rule-divides-ezulwini)).
 
-The same code is the one the home affairs ministry asked citizens to correct on their identity documents in August 2026. No registered-voter count is held at any date on this repository.",SWZ-dpi.registry-voter-register|SWZ-dpi.id-nationalid
+The same code is the one the home affairs ministry asked citizens to correct on their identity documents in August 2026. Biometric capture is [being added to continuous registration ahead of 2028](2026-09-11-swz-positivenews-biometric-voter-registration); no registered-voter count is held.",SWZ-dpi.registry-voter-register|SWZ-dpi.id-nationalid
 dpi.registry--tax-register,No change,"Taxpayer identification number registration is [free but paper-based](2024-01-01-eswatini-tin-registration-procedure), on a form collected from an office or downloaded, with twelve supporting documents.","The procedure is free and administered by the revenue service under the value added tax statute, with the form collected from an office or downloaded and twelve supporting documents required, from a certified certificate of incorporation to evidence of a fixed place of business and the capacity to keep accounting records ([procedure](2024-01-01-eswatini-tin-registration-procedure)).
 
 There is no online submission route, which sits against company registration in the same ministry running through the government portal ([company](2025-01-01-eswatini-company-registration-procedure)).

@@ -1,11 +1,11 @@
 ---
 title: Chad — monthly update, August – September 2026
-compiled: 2026-09-08
-period: 2026-08-01 to 2026-09-08
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 place: TCD
-ledger_rows: 42
+ledger_rows: 45
 not_held: 23
-record: 985f94b384dc
+record: e4f7f398410b
 ---
 
 # Chad: monthly update, August – September 2026
@@ -26,6 +26,8 @@ The money came from two directions. Chad and China [signed two grant agreements 
 
 <!-- narrative: governance--gov-policy -->
 The policy movement of the window is advice rather than instrument. The economic, social, cultural and environmental council [closed a plenary session running 5 to 19 August on the public administration facing the digital transition, and adopted recommendations calling for an affirmed national digitalisation policy of wider scope, a durable national financing mechanism for the sector, adequate power supply, stronger public-agent skills and public-private partnerships](https://www.ndjamenaactu.com/2026/08/19/tchad-le-cesce-plaide-pour-une-transition-numerique-inclusive-et-securisee/). What the list describes is a stack the repository can confirm is missing at almost every layer — which is why the recommendations read as a gap analysis. Nothing binds government to act on them and no response is on record.
+
+The strategy's money has started to arrive, slowly: [US$790.5m of the US$20.5bn pledged at Abu Dhabi, 3.9%, is now signed across seventeen companies](https://lesfaitsdici.com/en/790-millions-de-dollars-deja-engages-dans-tchad-connexion-2030/).
 <!-- /narrative -->
 ### Legislation and regulation
 
@@ -33,6 +35,8 @@ The policy movement of the window is advice rather than instrument. The economic
 Chad's digital statutes entered the repository this month by being listed, not by being made. The regulator's register [names the 2015 laws on cybersecurity, electronic transactions and personal data protection as the laws it works under](https://arcep.td/lois.html) and links the text of none; the statistics institute [names Loi n. 026/PR/2019 and four decrees](https://www.inseed.td/index.php/systeme-statistique-national/textes-reglementaires).
 
 On payments there is nothing national to name at all: the central bank's register [gives the regional payment systems regulation of December 2016 as the instrument in force](https://www.beac.int/systemes-paiement/instructions-circulaires-reglements/). A payments law that is regional and a practice that runs on conventions with four operators leave no statute a citizen can be pointed to.
+
+The Council of Ministers [adopted a draft labour code on 3 September that replaces the 1996 law and brings digital platform workers under a presumption of salaried status](https://lendjampost.com/travail-le-tchad-change-les-regles-entre-employe-et-employeur/); it is not yet before the legislature.
 <!-- /narrative -->
 ### Regional collaboration
 
@@ -52,6 +56,8 @@ On 4 August the Haute autorité des médias et de l'audiovisuel [announced](http
 A [national internet governance forum devoted to artificial intelligence is in preparation](https://tchadinfos.com/2026/08/25/gouvernance-dinternet-le-tchad-prepare-un-forum-national-consacre-a-lintelligence-artificielle/), with no date, venue or agenda yet announced.
 
 A report by two research organisations [documents 44 fabricated identities — 35 ghost journalists and nine fake experts — placed in African media between 2021 and 2026, which it links to Russian influence operations](https://lendjampost.com/desinformation-en-afrique-un-rapport-alerte-sur-un-reseau-de-journalistes-fantomes-lie-a-des-operations-dinfluence-russes/). The report itself is not held, only a Chadian newspaper’s account of it, and no Chadian outlet, byline or piece is named in what is held.
+
+The Lac restriction is nearly two years old. A citizen's [open letter to the president asks for the province's internet access to be reviewed](https://www.toumaiwebmedias.com/lac-un-citoyen-appelle-a-un-reexamen-de-la-connectivite-internet/); no official justification is on record.
 <!-- /narrative -->
 
 ## Finance

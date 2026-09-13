@@ -1,11 +1,11 @@
 ---
 title: Sudan — monthly update, August – September 2026
-compiled: 2026-09-10
-period: 2026-08-01 to 2026-09-10
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 place: SDN
-ledger_rows: 39
+ledger_rows: 41
 not_held: 5
-record: 9e2c9708db6c
+record: 522169338a94
 ---
 
 # Sudan: monthly update, August – September 2026
@@ -86,6 +86,8 @@ Bankers [backed the directive as necessary for the banking system's soundness wh
 
 <!-- narrative: dpi--dpi-pay -->
 [The Central Bank revoked the Al-Asjad payment-switch licence on 4 July 2026](https://sudantribune.net/article/315827), days after the platform launched in Port Sudan with a Sovereignty Council representative present; no specific breach was disclosed, and unconfirmed press reports say the firm was incorporated only in late 2025 with a Dubai branch. [The national payment switch launched live on 6 August](https://cbos.gov.sd/en/content/tender-announcement-national-instant-payment-system-project-nips), connecting Omdurman National Bank as first and only participant and completing a first ATM withdrawal over the switch; the Central Bank's own framing is restoration of war-damaged infrastructure, not a new rail, and no schedule for connecting further banks was given. [Al Jazeera field reporting from Omdurman and Khalifa markets on 31 July](https://www.aljazeera.net/ebusiness/2026/7/31/banking-apps-currency-sudan) found bank apps, chiefly Bankak, dominant in retail settlement, driven by cash scarcity and currency collapse rather than technology uptake, with recurring failure modes including no-smartphone workarounds, app outages and mistaken transfers.
+
+The payment outages ran on. [Intermittent failures of the dominant banking app and another e-payment service pushed traders back to cash](https://www.dabangasudan.org/en/all-news/article/bankak-outages-disrupt-sudans-digital-payments-and-markets) and [prompted a social-media campaign to withdraw funds and switch banks](https://akher-khabar.com/archives/63864). The finance ministry [signed a framework with 11 companies to supply portable electronic collection devices to state institutions](https://suda.news/51307).
 <!-- /narrative -->
 ### Registries
 
@@ -105,6 +107,8 @@ The civil-service platform's purpose was argued rather than measured. A commenta
 [Baladna was adopted as the sole national platform for all foreign-trade transactions on 5 August 2026](https://sudantribune.net/article/317080), with permits issuable from any location, at a finance-ministry-chaired meeting that also resolved to unify state-level border-trade protocols into a single national legal framework. [The Judicial Authority signed a contract with the National Technical Company on 4 August](https://alwatannewssd.com/88831/) for a judiciary digital-transformation project, financed by the finance ministry and vetted by the justice ministry's contracts department, with no value, duration, system list or delivery timetable disclosed. A second procurement system entered service: [Nazaha, a national digital public-procurement and contracting platform, was launched and stated as aimed at transparency and fair competition in the allocation of government contracts](https://www.connectingafrica.com/digital-inclusion/sudan-unveils-new-digital-public-procurement-system) (12 August). No coverage, entity count, procurement value or mandatory-use instrument is published for it.
 
 A third oversight system was announced without a shape. The finance ministry says a [comprehensive electronic oversight system covering public bodies and government companies is forthcoming](https://sudanhorizon.com/finance-ministry-package-of-reform-policies-without-imposing-new-burdens/), in the same statement in which it attributes a significant rise in first-half 2026 public revenue to expanding the electronic collection system, rolling out electronic invoicing and tightening customs and tax exemptions, without new taxes. No revenue figure, baseline or attribution method is given for the rise, and no scope, custodian or timetable for the oversight system.
+
+Identity services are being rebuilt in the capital. The police [reopened the Omdurman and Bahri service complexes, with transactions rising from 206,362 in 2025 to 522,225 in 2026](https://sudan4news.com/?p=35463), and [set out a plan to issue passports, ID cards and licences from home, with cash abolished at the counters through seven banks](https://fjajpress.net/en/police-forum-5-digital-transformation-and-identity-protection-take-center-stage-in-the-battle-of-dignity/).
 <!-- /narrative -->
 
 ## Digitalisation

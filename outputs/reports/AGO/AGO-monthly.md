@@ -1,11 +1,11 @@
 ---
 title: Angola — monthly update, August – September 2026
-compiled: 2026-09-10
-period: 2026-08-01 to 2026-09-10
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 place: AGO
-ledger_rows: 51
+ledger_rows: 53
 not_held: 7
-record: 3531b1a78b3c
+record: 1c71bd1302c5
 ---
 
 # Angola: monthly update, August – September 2026
@@ -88,6 +88,8 @@ Two lines moved and neither is national. An operator [installed 20 towers in Cab
 
 <!-- narrative: ict-infrastructure--infra-store -->
 The government's own hosting moved rather than the commercial estate. The telecommunications ministry [reinaugurated the government cloud's backup centre on 25 August after modernisation](https://pti.ao/minttics-conclui-modernizacao-do-centro-de-backup-da-cloud-do-governo/). No capacity, power figure or recovery objective is published with it, so what the repository holds is that the facility exists and has been worked on.
+
+The state printer [inaugurated a data centre on 11 September with more than 170 TB of storage and full redundancy for the official gazette's records](https://angop.ao/noticias/economia/imprensa-nacional-inaugura-data-center/); no investment value is disclosed.
 <!-- /narrative -->
 ### Cybersecurity
 
@@ -120,6 +122,12 @@ On 28 July the justice ministry [launched an at-home service priced at Kz 250,00
 The single digital identity, named as a workstream since 2024 and as [a component of the US$150m public digital infrastructure contract in June](https://angop.ao/noticias/economia/ima-e-tis-formalizam-contrato-para-implementacao-do-projecto-digitais-publicas/), acquired a price and a procurement. [Despacho Presidencial 300/26 of 13 August authorised US$28m and opened the public tender](https://pti.ao/pr-aprova-usd-28-milhoes-para-aquisicao-de-plataforma-de-identidade-digital-e-assinaturas-electronicas/) for a National Digital Identity and Electronic Signatures Platform, specified to support up to 30 million digital identities and to let citizens, firms and public officials use one digital credential for public services, digital contracts, electronic verification of customers and legally valid electronic signatures. No supplier, timetable, or relationship to the earlier contract is stated.
 
 The territorial administration ministry is updating the voter register at a religious pilgrimage, [stationing brigades at the Muxima sanctuary from 29 August to 6 September under the 2026-2027 official electoral registration, with more than a million citizens already enrolled for the 2027 general election](https://novojornal.co.ao/politica/detalhe/mat-aproveita-peregrinacao-a-muxima-para-pescar-dados-eleitorais-74244.html); pilgrims need an identity card or voter card to take part.
+<!-- /narrative -->
+### Digital Payments and Fintech
+
+<!-- narrative: dpi--dpi-pay -->
+
+A renminbi route opened for Angola-China trade: the largest private bank [signed a clearing memorandum with Bank of China on 8 September, giving it a renminbi clearing account and indirect access to China's cross-border interbank payment system](https://angop.ao/noticias/economia/bai-e-bank-of-china-assinam-acordo-para-pagamentos-transfronteiricos/). No volume or value is published.
 <!-- /narrative -->
 ### Registries
 

@@ -1,11 +1,11 @@
 ---
 title: Eswatini — monthly update, August – September 2026
-compiled: 2026-09-10
-period: 2026-08-01 to 2026-09-10
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 place: SWZ
-ledger_rows: 36
+ledger_rows: 39
 not_held: 4
-record: 3708aefc3062
+record: 27727af805e1
 ---
 
 # Eswatini: monthly update, August – September 2026
@@ -89,6 +89,8 @@ The home affairs ministry [asked citizens to check that the chief code on their 
 
 <!-- narrative: dpi--dpi-pay -->
 The mobile money platform moved underneath its users. An operator [completed migration of its money platform to a cloud-native vendor platform across four African markets](https://techafricanews.com/2026/08/21/ericsson-mtn-complete-momo-cloud-migration-across-four-african-markets/), this one among them. No downtime, subscriber count or feature change is stated for the Eswatini market, so the repository holds that the rail changed hands technically and nothing about what that cost its users.
+
+A bank wallet is closing for want of use: Standard Bank [will decommission its Unayo platform by 31 December 2026, saying only about 30% of its 200,000 retail clients transact on it](https://www.eswatiniobserver.com/standard-bank-eyes-integrated-banking-as-unayo-phased-out/).
 <!-- /narrative -->
 ### Registries
 
@@ -98,6 +100,8 @@ Civil registration completeness reached [61 per cent of births and 62 per cent o
 The social registry began its [second regional rollout in Lubombo on an E41.7 million data-collection exercise](https://eswatinipositivenews.online/e41-7m-imbeleko-rollout-targets-vulnerable-households-in-lubombo/), two of four regions in two years.
 
 The electoral commission is reviewing a [proposal to make the chief code compulsory at voter registration, alongside a six-month residency rule](https://times.co.sz/41170/news/chief-code-rule-divides-ezulwini-residents/), after it divided residents at Ezulwini — the same code the home affairs ministry was asking citizens to correct eight days later.
+
+Addressing left the pilot stage in one town: [Matsapha became the first municipality to roll out the national postcode and addressing project, with street signs due within eight weeks](https://eswatinipositivenews.online/matsapha-first-to-roll-out-addressing-system-in-eight-weeks/). The electoral commission is [adding biometric capture to continuous voter registration ahead of the 2028 elections](https://eswatinipositivenews.online/biometric-technology-set-to-strengthen-voter-registration/).
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -162,4 +166,13 @@ What firms say they need is not more hubs but a network that stays up. At a Mbab
 
 <!-- narrative: inclusion--include-divides -->
 On 6 August the [Macetjeni Integrated Business, Employment and Innovation Hub was launched in the Lubombo Region](https://eswatinipositivenews.online/govt-launches-macetjeni-ihub-to-drive-digital-innovation/), the second after Pigg's Peak, established by the Small Enterprises Development Company with ESCCOM and UNDP. A third hub is in preparation for Shiselweni, with no start date, provider or cohort size given.
+<!-- /narrative -->
+
+## Data
+
+### National statistics
+
+<!-- narrative: data--data-statistics -->
+
+The inclusion survey is in the field: [the 2026 FinScope round covers 3,200 households in 320 enumeration areas, the first measurement since the 2018 round put inclusion at 87%](https://eswatinipositivenews.online/eswatini-targets-100-financial-inclusion-through-finscope-survey/), with no publication date given.
 <!-- /narrative -->

@@ -1,11 +1,11 @@
 ---
 title: Mozambique — monthly update, August – September 2026
-compiled: 2026-09-10
-period: 2026-08-01 to 2026-09-10
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 place: MOZ
-ledger_rows: 65
+ledger_rows: 67
 not_held: 19
-record: b1ea638612c4
+record: 3757c84b31b2
 ---
 
 # Mozambique: monthly update, August – September 2026
@@ -26,6 +26,8 @@ Artificial intelligence acquired institutions faster than instruments. A [nation
 
 <!-- narrative: governance--gov-policy -->
 Two strategies are being written and neither is adopted. The National Cyber Security Strategy 2026-2030 [was reviewed with a donor partner alongside an evaluation of its 2021-2025 predecessor](https://revista.tempo.co.mz/intic-e-finlandia-reforcam-cooperacao-para-a-estrategia-nacional-de-seguranca-cibernetica-2026-2030/), succeeding a policy whose own period ended last year. The National Digital Transformation Strategy [has been in drafting since February](https://www.trade.gov/market-intelligence/mozambique-digital-transformation-strategy) and is in drafting still â€” no change at either end of the window.
+
+Financial data residency was rewritten. The central bank [gazetted Aviso 6/GBM/2026 on 31 August, requiring every bank's primary data centre and principal information systems in national territory and revoking the 2003 rule](https://www.bancomoc.mz/media/j2fgaf3a/aviso-6_gbm_2026-de-18-de-agosto_-br_166_i_s%C3%A9rie_2026_31-de-agosto.pdf), in force 60 days after publication.
 <!-- /narrative -->
 ### Legislation and regulation
 
@@ -125,6 +127,8 @@ The public payroll became a credit rail. A [memorandum between the dominant mobi
 The tax authority made the fiscal clearance certificate available online from 3 August with a ten working-day issuance ceiling and a published complaints address ([authority account](https://mznews.co.mz/en/autoridade-tributaria-lanca-solicitacao-online-da-certidao-de-quitacao-fiscal-a-partir-de-3-de-agosto/)).
 
 The agency's own account of the citizen portal names what it rests on: [the government network, the government cloud storage platform, state electronic payments and digital identity](https://pt.linkedin.com/posts/atdi-ip_atdi-apresenta-portal-do-cidad%C3%A3o-e-coloca-activity-7501551667520368640-SmSp). Which of those is actually in service behind it is not stated, and no service count beyond about 140, user figure or launch date accompanies the presentation — so the dependencies are published and their readiness is not.
+
+The citizen portal put a live count beside its target: [21 services already offered against about 140 planned, the agency citing 66% of Mozambicans without identification](https://www.brasil247.com/blog/mocambique-acelera-modernizacao-do-estado-para-colocar-servicos-basicos-na-palma-do-cidadao/). The prime minister [directed the state digital certification system extended across all sectors](https://techreviewafrica.com/news/7110/mozambique-pm-urges-intic-to-expand-digital-certification-across-state-institutions).
 <!-- /narrative -->
 
 ## Technology

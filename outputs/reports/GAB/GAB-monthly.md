@@ -1,11 +1,11 @@
 ---
 title: Gabon — monthly update, August – September 2026
-compiled: 2026-09-10
-period: 2026-08-01 to 2026-09-10
+compiled: 2026-09-13
+period: 2026-08-01 to 2026-09-13
 place: GAB
-ledger_rows: 46
+ledger_rows: 47
 not_held: 18
-record: 6d63a8bfeb76
+record: 1253f6ccff54
 ---
 
 # Gabon: monthly update, August – September 2026
@@ -67,6 +67,8 @@ The regulator [established a tripartite dialogue forum at Libreville on 20 Augus
 On 27 July the Libreville seminar on space communications closed with eleven recommendations, confirming a hybrid fibre and satellite model on [2,000 km of fibre already deployed](https://agpgabon.ga/gabon-seminaire-sur-levolution-des-communications-spatiales-11-recommandations-adoptees/).
 
 The national internet exchange point opened a reboot workshop at Libreville on 3 August, running to 8 August, with the Internet Society and AFRINIC as technical partners ([opening](https://agpgabon.ga/gabon-lancement-de-latelier-national-gabix-reboot/)). It [closed on 8 August with certificates presented after six days of peering, security and sovereignty training](https://agpgabon.ga/numerique-latelier-gabix-reboot-propulse-linterconnexion-locale-au-gabon/); AFRINIC called for a network of trained ambassadors to carry the skills into firms and administrations, and operator representatives named broader institutional buy-in as the task that remains. No participant number and no post-relaunch member count has been published.
+
+The backbone is moving to a partnership. The state infrastructure holding company and a private operator [validated a PPP over 3,420km of national backbone, 1,769km already built and 1,651km planned, with signature set for 14 September](https://techafricanews.com/2026/09/11/gabon-national-backbone-3420km-network-project/). No capital or open-access terms are published.
 <!-- /narrative -->
 ### Cybersecurity
 
