@@ -3,13 +3,13 @@ title: Use of satellite data — monthly update, August – September 2026
 compiled: 2026-09-13
 period: 2026-08-01 to 2026-09-13
 subject: data.satellite
-places: BDI; COM; COG; CIV; DJI; COD; EGY; ERI; GHA; LBR; LBY; MLI; MOZ; NAM; NER; RWA; SLE; SOM; TZA; UGA; ZMB
-record: d27c573fe71c
+places: BDI; COM; COG; CIV; DJI; COD; EGY; ERI; GHA; LBR; LBY; MLI; MOZ; NAM; NER; NGA; RWA; SLE; SOM; TZA; UGA; ZMB
+record: 71a3d50e43f6
 ---
 
 # Use of satellite data: monthly update, August – September 2026
 
-*21 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*22 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Burundi
 
@@ -70,6 +70,10 @@ China [handed over a satellite data-receiving ground station at the earth statio
 ## Niger
 
 The national geographic institute [runs a remote-sensing unit producing Sentinel-based imagery for forest, land-use and territorial monitoring, and describes itself as an exclusive satellite-imagery distributor in several countries](https://ignn.net/la-teledetection-et-technique-spacialestts.html). No programme name, partner or date is published, and the page carries no date of its own, so the position is dated to retrieval rather than to any event.
+
+## Nigeria
+
+The innovation minister said [the Federal Executive Council has approved a programme of six new satellites, four of them Earth-observation, and a Centre for Space Transport and Propulsion](https://businessday.ng/technology/article/nigeria-targets-1bn-space-investment-as-africa-pushes-space-sovereignty/), and sought private and foreign partners at the space summit in Paris. No manufacturer, cost, launch date or use for the data is given, and whether the two communications satellites are the ones approved in August is not stated.
 
 ## Rwanda
 

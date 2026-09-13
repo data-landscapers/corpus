@@ -3,13 +3,13 @@ title: Training and skills — monthly update, August – September 2026
 compiled: 2026-09-13
 period: 2026-08-01 to 2026-09-13
 subject: capacity.training
-places: DZA; AGO; BEN; BDI; CMR; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 32af33619583
+places: DZA; AGO; BEN; BDI; CMR; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: bd0d004482b2
 ---
 
 # Training and skills: monthly update, August – September 2026
 
-*43 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*44 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Algeria
 
@@ -138,6 +138,10 @@ The university opened the first edition of a summer school on language models fo
 ## Mauritius
 
 The incumbent operator opened a national cybersecurity and artificial-intelligence awareness programme for secondary students with the education ministry, [starting on 13 August at the Mahatma Gandhi Institute with about 500 Grade 10 to Grade 12 students drawn from all four education zones](https://techreviewafrica.com/news/6758/mauritius-telecom-launches-national-cybersecurity-and-ai-awareness-programme-for-students), and free ten-hour AWS training on offer alongside. A [companion account of the same workshop](https://lexpress.mu/node/561500) describes its content as online risk and responsible use of new technologies. It is an operator-run programme rather than a curriculum change, and no full-year target, budget or evaluation is stated.
+
+## Morocco
+
+The Génération AIoT programme [opened seven cohorts in Casablanca, Fès and Oujda, aiming at 1,200 trained people a year from February 2027](https://consonews.ma/communiques-de-presse/le-programme-generation-aiot-vise-1-200-talents-formes-par-an-des-fevrier-2027). Launched in February by the digital transition ministry with a foundation and a technology firm, it [had drawn 2,118 applications and gathered 95 participants](https://consonews.ma/communiques-de-presse/le-programme-generation-aiot-vise-1-200-talents-formes-par-an-des-fevrier-2027). No completion or placement figure is published.
 
 ## Mozambique
 

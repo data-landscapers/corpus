@@ -3,13 +3,13 @@ title: Standards — monthly update, August – September 2026
 compiled: 2026-09-13
 period: 2026-08-01 to 2026-09-13
 subject: gov.standards
-places: AGO; BEN; CPV; CAF; TCD; COM; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GIN; KEN; LBY; MWI; MLI; MRT; MUS; MOZ; NER; NGA; RWA; STP; SEN; SYC; SOM; ZAF; SDN; TZA; TGO; UGA; ZMB
-record: c737a70264e3
+places: AGO; BEN; CPV; CAF; TCD; COM; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GIN; KEN; LBR; LBY; MWI; MLI; MRT; MUS; MOZ; NER; NGA; RWA; STP; SEN; SYC; SOM; ZAF; SDN; TZA; TGO; UGA; ZMB
+record: c6fbe392c707
 ---
 
 # Standards: monthly update, August – September 2026
 
-*35 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*36 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Angola
 
@@ -79,6 +79,10 @@ Two days after introducing the equipment distributor licence, the Communications
 
 
 Two sets of standards arrived, one binding and one draft. The revenue allocation commission [gazetted binding standards for county own-source revenue automation, covering the system lifecycle from procurement to audit and requiring data ownership and portability safeguards to cut vendor lock-in](https://cra.go.ke/2026/08/14/cra-gazettes-standards-and-guidelines-for-county-own-source-revenue-automation/); no compliance date, county baseline or enforcement mechanism accompanies them. The pharmacy regulator [published draft guidelines for digital pharmacy services covering telepharmacy, electronic prescribing and digital health records](https://web.pharmacyboardkenya.org/download/draft-guidelines-for-digital-pharmacy-services-in-kenya/), with no consultation close or adoption date stated. The text is [a second revision that widens the scope of regulation from internet pharmacy services to digital pharmacy services generally, reaching digital health platforms, pharmacy chains and third-party technology, hosting, payment and logistics providers, and carrying a 2026 effective date against a 2029 review](https://web.pharmacyboardkenya.org/download/draft-guidelines-for-digital-pharmacy-services-in-kenya/?wpdmdl=14068); its approval blocks are unsigned.
+
+## Liberia
+
+The education ministry [opened a five-day session to develop and validate a Statutory School Record-Keeping Booklet, one nationwide system for school records on students, teachers, attendance and infrastructure](https://www.africa-newsroom.com/press/liberia-ministry-moves-to-standardize-school-records-nationwide?lang=en). How the booklet relates to the education management information system being modernised is not stated.
 
 ## Libya
 

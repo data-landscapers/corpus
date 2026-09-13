@@ -3,13 +3,13 @@ title: Access to services — monthly update, August – September 2026
 compiled: 2026-09-13
 period: 2026-08-01 to 2026-09-13
 subject: include.access
-places: DZA; AGO; BWA; BDI; CMR; CAF; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NAM; NER; NGA; STP; SEN; SYC; SLE; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 78eec9b6beae
+places: DZA; AGO; BWA; BDI; CMR; CAF; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NAM; NER; NGA; STP; SEN; SYC; SLE; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 9196b325d903
 ---
 
 # Access to services: monthly update, August – September 2026
 
-*41 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*42 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Algeria
 
@@ -100,6 +100,10 @@ The communications regulator [put its consumer short code 1331 back in service a
 ## Ghana
 
 The mid-year fiscal review of 23 July recorded GH¢485m paid to cash-grant beneficiaries in the first half of 2026 and named no allocation at all to the communications ministry, the access fund, the coders programme or the artificial-intelligence strategy.
+
+## Guinea
+
+The statistics institute [agreed on 10 September to assess which fourth-census data can be used to identify persons with disabilities, toward a disability card planned by the women, family and solidarity ministry](https://nimba224.com/rgph-4-les-donnees-du-recensement-bientot-mobilisees-pour-mieux-identifier-les-personnes-vivant-avec-un-handicap/). It is the first government instrument on disability the repository holds for the country, and no timetable or card design is given.
 
 ## Kenya
 

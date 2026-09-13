@@ -3,13 +3,13 @@ title: Literacy — monthly update, August – September 2026
 compiled: 2026-09-13
 period: 2026-08-01 to 2026-09-13
 subject: capacity.literacy
-places: AGO; COM; COD; GHA; KEN; LBR; MOZ; RWA; SEN; SSD; TZA; TGO; ZMB
-record: f4f2acb1c927
+places: AGO; COM; COD; GHA; KEN; LBR; MDG; MOZ; RWA; SEN; SSD; TZA; TGO; ZMB
+record: 198828bfd515
 ---
 
 # Literacy: monthly update, August – September 2026
 
-*13 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*14 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Angola
 
@@ -34,6 +34,10 @@ The regulator [donated computers to a school in Turkana on 30 July, one of 23 in
 ## Liberia
 
 On 31 July, 19 young leaders took the [first of three media and information literacy sessions in Monrovia, run through the UN electoral support project with the National Elections Commission and the Press Union on Canadian funding](https://www.undp.org/liberia/press-releases/young-liberians-strengthen-digital-citizenship-and-information-integrity-safeguard-democracy). Six external funders and implementers stand behind a programme whose stated purpose is national resilience against misinformation before elections, and no budget figure is disclosed for it.
+
+## Madagascar
+
+The vocational training ministry [signed a partnership with France's Pix public-interest group on 11 September to develop and certify young people's digital skills, including exam centres, trainer training and a study of putting Pix into vocational curricula](https://www.moov.mg/article/121011-metfp-et-gip-pix-un-partenariat-pour-renforcer-et-certifier-les-competences-numeriques-des-jeunes). No candidate target, cost or start date is given.
 
 ## Mozambique
 

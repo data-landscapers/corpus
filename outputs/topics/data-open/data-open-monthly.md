@@ -3,17 +3,25 @@ title: Open data — monthly update, August – September 2026
 compiled: 2026-09-13
 period: 2026-08-01 to 2026-09-13
 subject: data.open
-places: BEN; TCD; COM; DJI; COD; GAB; GMB; GHA; GIN; LBR; LBY; MDG; MLI; MUS; MAR; NAM; NGA; SEN; SOM; TZA; TUN; ZWE
-record: b6312e5e24c2
+places: BEN; BFA; CPV; TCD; COM; DJI; COD; GAB; GMB; GHA; GIN; LBR; LBY; MDG; MLI; MUS; MAR; NAM; NGA; SEN; SOM; TZA; TUN; ZWE
+record: 9b544704aaa3
 ---
 
 # Open data: monthly update, August – September 2026
 
-*22 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*24 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Benin
 
 The Open Government Partnership action plan's co-creation opened this month, eighteen months after the country joined. The budget directorate published a [38-activity co-creation matrix naming for each step the responsible body, its partners, the funding source and an indicative deadline, running from the June 2025 ministerial order that established the national committee through preparation, departmental consultation and adoption to documentation of the process after December 2026, with activity 32 committing government to publish a what-was-heard, what-was-kept-and-why report alongside a matrix of reasoned responses](https://budgetbenin.bj/storage/2026/08/Feuille-de-route-OGP.pdf). The plan itself is not adopted, and no consultation record or commitment text is published.
+
+## Burkina Faso
+
+The finance ministry cited [a 2025 Open Data Inventory score of 77 out of 100, first in West Africa and second in Africa](https://lefaso.net/spip.php?article149178). The inventory scores official statistics published online; the national open-data portal founded in 2015 still serves no catalogue.
+
+## Cape Verde
+
+The fisheries ministry presented a [public Fisheries Information System giving structured access to data on landings, licences, catches, revenues, subsidies and the sector's legal framework](https://maa.gov.cv/index.php/noticias/425-cabo-verde-destaca-avancos-na-transparencia-das-pescas-em-evento-internacional-da-fiti-na-fao) at the FAO fisheries committee, built under the fisheries transparency standard the country joined in 2023. No launch date, licence or update frequency is given.
 
 ## Chad
 

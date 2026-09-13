@@ -3,13 +3,13 @@ title: National statistics — monthly update, August – September 2026
 compiled: 2026-09-13
 period: 2026-08-01 to 2026-09-13
 subject: data.statistics
-places: BEN; BWA; BDI; CMR; CAF; TCD; COM; COG; COD; GNQ; SWZ; GAB; GHA; KEN; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; TGO; UGA; ZWE
-record: 92797f08dd05
+places: BEN; BWA; BFA; BDI; CMR; CAF; TCD; COM; COG; COD; GNQ; SWZ; GAB; GHA; KEN; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; TGO; UGA; ZWE
+record: bcb05410acd9
 ---
 
 # National statistics: monthly update, August – September 2026
 
-*32 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*33 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Benin
 
@@ -18,6 +18,10 @@ A national agricultural census is under preparation with [Food and Agriculture O
 ## Botswana
 
 The statistics office and the national university [launched a second Statistics Development Strategy for 2026 to 2030 on 12 August](https://www.ub.bw/news/ub-joins-statistics-botswana-launch-second-bsds-2026-2030-strategy), framed as a roadmap to an agile and responsive statistical system and aligned to the twelfth national development plan. No budget, delivery milestone or indicator set is published with it.
+
+## Burkina Faso
+
+The statistics institute [announced a national statistical innovation observatory at the statistics council's session of 11 September, using satellite imagery, mobile-phone, web and weather data and artificial intelligence to produce indicators for all 351 communes within days](https://lefaso.net/spip.php?article149178). The same session reviewed a [draft 2027 statistical programme costed at CFA 10.6 billion, 52.7% of it state-financed](https://lefaso.net/spip.php?article149178). No timetable for the observatory and no data-access agreement with mobile operators is stated.
 
 ## Burundi
 

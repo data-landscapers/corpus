@@ -3,13 +3,13 @@ title: Digitalisation of sub-national government — monthly update, August – 
 compiled: 2026-09-13
 period: 2026-08-01 to 2026-09-13
 subject: digital.localgov
-places: AGO; BFA; BDI; CMR; GHA; GNB; MWI; MLI; NAM; NGA; RWA; SEN; ZAF; SDN; TZA; TGO; UGA; ZMB; ZWE
-record: a4ee151772c5
+places: AGO; BFA; BDI; CMR; GHA; GNB; LBY; MWI; MLI; NAM; NGA; RWA; SEN; ZAF; SDN; TZA; TGO; UGA; ZMB; ZWE
+record: 16f06194b06f
 ---
 
 # Digitalisation of sub-national government: monthly update, August – September 2026
 
-*19 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*20 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Angola
 
@@ -40,6 +40,10 @@ Local government has gone in one month from a reform strategy's integration targ
 ## Guinea-Bissau
 
 The capital’s council put a date on its own modernisation. Bissau city council [announced the launch on 9 September 2026 of a modernisation and digital transformation programme for the institution, on a plan approved at the council’s first strategic retreat](https://ang.gw/camara-municipal-de-bissau-anuncia-para-quarta-feira-lancamento-do-projeto-de-modernizacao-e-transformacao-digital-da-instituicao/). No component list, budget, timetable or partner is stated.
+
+## Libya
+
+A Tripoli municipality [began electronic archiving of staff data, records and documents in its human resources department on 11 September](https://lana.gov.ly/post.php?id=365312&lang=ar), the latest of several single-council records projects; no national standard or shared system for municipal records is on file.
 
 ## Malawi
 

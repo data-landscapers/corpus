@@ -3,13 +3,13 @@ title: Innovation ecosystem — monthly update, August – September 2026
 compiled: 2026-09-13
 period: 2026-08-01 to 2026-09-13
 subject: tech.innovate
-places: DZA; AGO; BWA; BFA; CMR; CPV; COM; CIV; COD; EGY; ERI; SWZ; GAB; GMB; GHA; GIN; KEN; LBR; MLI; MAR; NAM; NER; NGA; RWA; SYC; ZAF; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: d1d432d075f3
+places: DZA; AGO; BWA; BFA; CMR; CPV; COM; CIV; COD; EGY; ERI; SWZ; GAB; GMB; GHA; GIN; KEN; LBR; MLI; MAR; NAM; NER; NGA; RWA; SYC; SLE; ZAF; SDN; TZA; TUN; UGA; ZMB; ZWE
+record: bad38c4d6159
 ---
 
 # Innovation ecosystem: monthly update, August – September 2026
 
-*32 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*33 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Algeria
 
@@ -129,6 +129,10 @@ As at 3 August the development bank is [the sole committed backer, at US$6m, of 
 ## Seychelles
 
 A third incubator entered the record, and the first of them to open applications rather than ground. A conservation trust [launched a Business, Technology and Innovation Incubator with support from the science and innovation institute and two environmental funds, opening its 2026 cohort to applications with up to twelve months of incubation, mentoring and access to seed funding](https://www.linkedin.com/posts/seyccat-seychelles-conservation-and-climate-adaptation-trust_launch-of-business-technology-and-innovation-activity-7492516083128565761-JJ74). The announcement is the implementing trust's own, and no cohort size or fund size is stated.
+
+## Sierra Leone
+
+The communications minister [said a Startup Act is expected in the first quarter of 2027, alongside an innovation investment fund and a planned tech city](https://sierraloaded.sl/news/fatima-bio-launch-flot-financial-platform/). No draft or consultation is on file.
 
 ## South Africa
 
