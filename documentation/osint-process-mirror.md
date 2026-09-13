@@ -4,6 +4,17 @@
 
 *This note is the specification. It lands in Corpus because everything CC produces lands in Corpus; the work it describes is OSINT's, and reaches OSINT as a numbered note in `C:\corpus-osint-xfer\notes-for-osint.md` when Bill says so.*
 
+## As built — 2026-09-13
+
+**Bill commissioned it on 2026-09-13 and set the freeze aside for it.** OSINT was short on quota, so CORPUS did the work and OSINT is left one fast-forward: CORPUS built the commit in a scratch clone of `C:\OSINT` at `b7df68ca5` (read only; nothing written to OSINT), ran the first export from that commit, and handed it over as `notes-for-osint` 138 with a bundle, so OSINT's HEAD becomes the exact commit the mirror's `PROCESS-FROM` names. The sections below are the specification as written; where the build departs, this section wins.
+
+- **Licence: MIT**, matching Corpus's code. **`rejected-urls.csv` withheld**, the conservative side of item 2 below.
+- **178 files, 2.4 MB.** The manifest has moved since 2 September. Newly published: `financier-names.csv`, `region-membership.csv` and `report-region-sections.csv`, which are vocabularies. Newly withheld: `xgl-ruled.csv`, `entity-slugs-ruled.csv` and `budget-init-backlog.csv`, which are rulings or state. **`HANDOVER-corpus-osint-link.md` is withheld**: it carries the `osintshare` password and LAN addresses. Root procedures, lookups and `wiki/` specs are listed by name. `scripts/` and `documentation/` are published whole, as the table below has them. A new file at a listed level is reported as *unclassified* until someone rules on it.
+- **Two added gates.** The block-quote gate acknowledges a quote it has read by hash. It caught the one quote predicted, in `osint-no-request-feed.md`, which is a rule and is acknowledged. A secret gate also refuses any `.env` value or token-shaped string. Files are read from a commit with `git archive`, never from the working tree.
+- **Staleness is not `PROCESS-FROM != HEAD`.** An export that changes no published file makes no commit, and `PROCESS-FROM` then keeps naming the older commit, which is still true. LINT #37 (`export-process-mirror.py --check`) fails when a published file differs between `PROCESS-FROM` and `origin/master`, the last push. Checking at the next night's lint against the last push means the night's own unpushed procedure edits never raise a false finding.
+- **The export runs after the night's final push**, as the close's last line, and a refusal goes on the closing line rather than blocking the night.
+- **Announced** from Corpus's `README.md` and the methodology page once the repository is live.
+
 ## The decision
 
 **Publish the process layer as a one-way mirror. Do not split the repository.**
