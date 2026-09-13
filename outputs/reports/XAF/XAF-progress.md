@@ -5,7 +5,7 @@ period: 2025-09-01 to 2026-09-13
 place: XAF
 ledger_rows: 178
 not_held: 3
-record: 65784ff2aa6a
+record: 122dc8c38214
 ---
 
 # Africa: progress report, September 2025 – September 2026
@@ -55,7 +55,7 @@ One fact runs underneath the rest. Official development assistance fell sharply 
 | ATU Strategic Plan 2027-2031 | ***Baseline not held*** | [A draft Strategic Plan for 2027-2031 was circulated to member states for comment ahead of CPL-26; the draft is not published, and no adopted plan, budget or final acts of the conference are held](https://atuuat.africa/wp-content/uploads/2026/06/EN_Invitation-to-CPL-26-Related-Meetings.docx-REV-June-18-2.pdf) | ***Baseline not held*** |
 
 <!-- narrative: institutions -->
-The institutional layer moved most. A council of 42 heads of state was established for artificial intelligence, a secretary general was elected at the telecommunications union, a continental sovereignty declaration was adopted for 2026-2030, and a parliaments project opened with a six-legislature cohort. The continental free trade area counts 49 of 54 signatories as having deposited instruments of ratification, [the count the AU reported in July 2025](https://archives.au.int/bitstream/handle/123456789/11189/EX%20CL%201625%20%28XLVII%29_E.pdf?isAllowed=y&sequence=1), with a fiftieth announced for September 2026.
+The institutional layer moved most. A council of 42 heads of state was established for artificial intelligence, a secretary general was elected at the telecommunications union, a continental sovereignty declaration was adopted for 2026-2030, and a parliaments project opened with a six-legislature cohort. The continental free trade area counts 49 of 54 signatories as having deposited ratifications, [the count the AU reported in July 2025](https://archives.au.int/bitstream/handle/123456789/11189/EX%20CL%201625%20%28XLVII%29_E.pdf?isAllowed=y&sequence=1).
 
 What has not moved is the digital trade protocol's own domestication: state parties committed to expedite it under eight calls to action and the repository still holds no ratification count. The regional registry remains under an appeal-court order and a receivership, and closed the year naming a chief executive designate for January 2027 while Mauritius police confirmed [two alleged forgery cases](https://www.theregister.com/networks/2026/08/27/police-investigating-possible-forgery-at-afrinic-election/5293100) arising from the board election it annulled without ever stating why. A mandate is cheaper to adopt than to work, and the difference between the two is what this section cannot yet show.
 <!-- /narrative -->
