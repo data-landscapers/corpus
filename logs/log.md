@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-09-13 11:03 · build · 14m · catalogue 21,375, 28 units and 53 sources read, regions baseline batch set 31 start positions, 7 GovTech rows minted, scope 142 in and 5 XGL unverified, register 77, note 139 for OSINT, bulletin unchanged — ok
 2026-09-13 09:40 · build · 10m · defect: region progress badges carried the qualifier inside the box; render.py splits it out as on country and topic tables, six region pages repaged, no edition cut, deployed — ok
 2026-09-13 09:28 · render · 13m · 251 documents, 11 editions cut, home, 54 countries, 8 regions, 38 topics, progress, catalogue 21,349, finance 1,432 deals; R2 2,726 uploaded, prune 0; links clean; deployed — ok
 2026-09-13 09:15 · build · 16m · catalogue 21,349, 24 units and 61 sources read, XAF baseline batch set 30 start positions, 8 rows minted across 8 ledgers, scope 124 in and 5 XGL unverified, register 77, XNA still under band, bulletin 28 items — ok
