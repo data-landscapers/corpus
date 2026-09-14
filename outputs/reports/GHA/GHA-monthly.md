@@ -1,11 +1,11 @@
 ---
 title: Ghana — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-14
+period: 2026-08-01 to 2026-09-14
 place: GHA
 ledger_rows: 125
 not_held: 9
-record: 00a9475cd9d2
+record: 9410bd0aa37a
 ---
 
 # Ghana: monthly update, August – September 2026
@@ -242,6 +242,8 @@ The education council completed a revised basic-education curriculum adding codi
 Training capacity was the month's activity, and it reached the degree itself: the ministry said on 7 September that it had [signed memoranda with eleven universities to embed digital certifications into degree and diploma programmes](https://www.myjoyonline.com/govt-signs-mous-with-11-universities-to-embed-digital-certifications-in-degree-programmes/), naming five of them and leaving six, the certifications, the start date and any student number unstated. A youth agency [signed for 2,000 vendor-certified microdegree places on 14 July](https://www.myjoyonline.com/yea-partners-ghana-digital-centres-to-train-2000-youth-in-ai-cybersecurity-and-digital-skills/) — Ghana taking 2,000 of the 3,000 allocated to the whole continent — fully government-funded, with 600 paid internships and a five-region pilot, and no programme cost disclosed. [A university became the first tertiary institution to embed the national coders programme permanently in its curriculum on 29 July, receiving a further 2,000 laptops the next day](https://www.myjoyonline.com/yea-partners-ghana-digital-centres-to-train-2000-youth-in-ai-cybersecurity-and-digital-skills/). Three universities — Kumasi Technical University, the Kwame Nkrumah University of Science and Technology and the University of Mines and Technology — [completed the first pilot of the European-funded UNIHUBS blended-learning course in entrepreneurship, innovation and digital skills, run from late June to July and reported on 3 September](https://www.ghanawebbers.com/GhanaHomePage/business/KsTU-KNUST-and-UMaT-Join-EU-Program-for-Innovation-and-Digital-Skills-2174760), covering business development, technology transfer in higher education, digital marketing and professional communication. The consortium treated it as a quality-assurance run before pilots in Kenya and Tanzania this month; no participant count, budget or grant number is published, and the account is the project's own.
 
 The coders programme published its funnel rather than a headline for the first time: [141,954 registered accounts, 27,782 admitted learners and 5,812 logged course completions as at 2 August 2026, cybersecurity the largest track at 8,570](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/), with 30,444 admitted through one commercial platform, 10,143 through a second and 24,394 learners self-paced. Registration is not admission and admission is not completion, and it is the ratio between them rather than any one number that measures the programme against its target of a million.
+
+The coders programme is to reach first-year degrees: the minister [said 12 universities have signed memoranda to carry its courses in Level 100](https://www.myjoyonline.com/digital-skills-training-producing-solution-driven-youth-for-ghanas-future-sam-george/).
 <!-- /narrative -->
 ### Research institutions
 

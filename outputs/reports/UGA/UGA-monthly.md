@@ -1,11 +1,11 @@
 ---
 title: Uganda — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-14
+period: 2026-08-01 to 2026-09-14
 place: UGA
-ledger_rows: 94
+ledger_rows: 95
 not_held: 12
-record: 39082a4c629a
+record: 449e1c506048
 ---
 
 # Uganda: monthly update, August – September 2026
@@ -244,6 +244,8 @@ An [ICT hub for persons with disabilities was commissioned in Kasese](https://ni
 The commercial route to a connected device is credit. Buy-now-pay-later schemes run by five providers [put smartphones in the hands of more than 500,000 Ugandans in a year, against about 22% of Ugandans using mobile internet despite 96% network coverage, with financed devices costing 30 to 50% more than the cash price](https://pctechmag.com/2026/08/can-device-financing-solve-the-problem-of-smartphone-penetration/). It is a trade analysis rather than a regulator series, and no default, repossession or total-cost-of-credit figure is published for the schemes.
 
 A six-year donor digital-inclusion programme [ended, with stakeholders urging the government to take over what it was doing](https://www.pulse.ug/story/uncdf-digital-inclusion-uganda-government-takeover-2026082616160487381). No successor instrument, budget line or transfer of assets is on file, which makes the closure a stated exposure rather than an inference.
+
+Mobile-industry research [put internet use at about a quarter of refugee women against about half of refugee men](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/blog/closing-the-digital-divide-for-refugee-women-means-understanding-their-full-experience-of-connectivity/), with device and data costs the main barrier.
 <!-- /narrative -->
 ### Digital divides
 

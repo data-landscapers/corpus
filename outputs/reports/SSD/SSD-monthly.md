@@ -1,11 +1,11 @@
 ---
 title: South Sudan — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-14
+period: 2026-08-01 to 2026-09-14
 place: SSD
-ledger_rows: 37
+ledger_rows: 38
 not_held: 12
-record: 995f7a73ee6e
+record: 2e8202d1d17d
 ---
 
 # South Sudan: monthly update, August – September 2026
@@ -72,6 +72,8 @@ The only nationally owned data centre in the repository is a [Tier 2 facility at
 Two connections completed in one week. A project [connecting more than 400 customers in the border town of Nimule](https://www.eyeradio.org/400-customers-connected-as-nimule-electrification-project-launches/) on imported Ugandan power launched on 15 August, and two days later government and a development agency handed over a [150 kWp solar plant with 200 kWh of battery storage giving continuous power to the Aweil Regional Reference Laboratory](https://www.undp.org/south-sudan/news/government-undp-launch-17m-aweil-reference-lab-solar-system-and-incinerator-funded-global-fund) in Northern Bahr el Ghazal.
 
 The larger supply picture moved too: the energy minister reported on 18 August that [transmission works are advancing to bring Ugandan hydropower to Juba through Nimule](https://www.eyeradio.org/juba-set-to-receive-karuma-hydropower-by-late-2026-says-energy-minister/), with a distribution substation already built at Nesitu. Against a rural population almost entirely unserved, four hundred customers is the scale of what completed.
+
+The operator [reported more than 500 sites modernised with solar-hybrid power, diesel use at them down by more than half and population broadband coverage at 85%%](https://techafricanews.com/2026/09/14/mtn-south-sudan-expands-network-coverage-to-85-percent-through-infrastructure-modernisation/), on its own account.
 <!-- /narrative -->
 
 ## DPI

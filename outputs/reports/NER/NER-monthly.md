@@ -1,11 +1,11 @@
 ---
 title: Niger — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-14
+period: 2026-08-01 to 2026-09-14
 place: NER
 ledger_rows: 36
 not_held: 2
-record: b27b8cee4f01
+record: 1512e22cf3f9
 ---
 
 # Niger: monthly update, August – September 2026
@@ -28,6 +28,8 @@ The other thread is hardware and skills. The electronics assembly plant at Hamda
 The civil-status reforms are being explained rather than amended. The national awareness tour reached its fourth stage with [a workshop opening in Agadez on the civil-status and personal-identification reforms](https://anp.ne/ouverture-a-agadez-dun-atelier-de-sensibilisation-sur-les-reformes-en-matiere-de-letat-civil-et-didentification-des-personnes-au-niger/), where [the region mobilised its actors around inclusive governance of the new regime](https://airinfoagadez.com/2026/08/28/reformes-de-letat-civil-et-de-lidentification-agadez-mobilise-ses-acteurs-pour-une-gouvernance-inclusive/). Explaining a reform is not implementing it, and the record held carries no count of registrations made under the new regime in any region the tour has passed through.
 
 Online media are to be brought under dedicated rules: the Council of Ministers [adopted a draft ordinance on the electronic press and a decree on accrediting foreign correspondents on 10 September](https://www.gouv.ne/index.php/les-communiques-du-gouvernement/1303-conclusions-du-conseil-des-ministres-du-jeudi-10-septembre-2026).
+
+The online press answered the draft ordinance in its own name: fourteen editors [welcomed the text on 13 September and asked to be consulted on the rules that will apply it](https://actuniger.com/societe/22346-presse-en-ligne-au-niger-les-editeurs-saluent-le-projet-de-loi-et-plaident-pour-une-mise-en-oeuvre-concertee.html).
 <!-- /narrative -->
 ### Regional collaboration
 

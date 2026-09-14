@@ -1,11 +1,11 @@
 ---
 title: Mali — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-14
+period: 2026-08-01 to 2026-09-14
 place: MLI
 ledger_rows: 34
 not_held: 1
-record: 31829ea9039e
+record: b90680ed1147
 ---
 
 # Mali: monthly update, August – September 2026
@@ -59,6 +59,8 @@ The standards agency's own budget is the month's clearest measure of it. Its fou
 
 <!-- narrative: governance--gov-discourse -->
 The same 3 August the cybercrime pole [sentenced Chahana Takiou to 12 months with six suspended](https://lessor.ml/posts/mali-le-journaliste-chahana-takiou-ecope-dune-peine-de-12-mois-dont-6-avec-sursis-6a70f92a500ac) on a charge of undermining the credit of the state through the judicial institution, over remarks at a Bamako media forum in June 2026 arguing that journalists should be tried under press-offence law.
+
+A second editor followed. The cybercrime tribunal [sentenced the publication director of Le Témoin to two years in prison on 14 September](https://www.maliweb.net/societe/justice/cybercriminalite-le-journaliste-abdrahamane-keita-condamne-a-deux-ans-de-prison-ferme-3119923.html), over a remark about Kidal made on television in June; the defence intends to appeal.
 <!-- /narrative -->
 
 ## ICT Infrastructure

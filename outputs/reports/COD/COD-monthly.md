@@ -1,11 +1,11 @@
 ---
 title: DR Congo — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-14
+period: 2026-08-01 to 2026-09-14
 place: COD
-ledger_rows: 72
+ledger_rows: 74
 not_held: 6
-record: 2b937ab3be8c
+record: 1f90193e1332
 ---
 
 # DR Congo: monthly update, August – September 2026
@@ -116,6 +116,8 @@ The exchange being built is between revenue agencies rather than between citizen
 Identification in the window is a provincial operation rather than a national one. Training of the agents for an operation registering Mbororo herders in Nord-Ubangi [closed at Gbadolite on 17 August](https://lepotentiel.cd/2026/08/18/nord-ubangi-la-formation-des-identificateurs-des-mbororo-sacheve-a-gbadolite/). Registering a named population as a distinct category is a decision with consequences beyond the register, and no legal basis, data controller, retention rule or purpose limitation is published for it.
 
 Continentally, the laboratory system the country's current Ebola response runs on was assessed before the outbreak began. A multi-country study [covering 26 countries found every one with a functioning surveillance system and core diagnostic capacity and 3,964 laboratories mapped across fourteen, and named digital interoperability between laboratories and surveillance platforms — alongside specimen referral, workforce surge and domestic financing — as the weak points](https://aslm.org/inside-the-system-that-was-ready-how-years-of-quiet-investment-shaped-africas-ebola-response/), which is where the response has had to improvise. It is a reference study written up by its own author rather than a dated development here, and the repository holds no national laboratory-interoperability position to set against it.
+
+The identity pilot is hiring before it enrols: the ministry [retained 50 agents from more than 9,000 candidates, to start training on 15 September](https://www.digitalbusiness.africa/rdc-plus-de-9-000-candidats-au-test-de-recrutement-de-rdc-pass-50-retenus-pour-la-phase-pilote/).
 <!-- /narrative -->
 ### Digital Payments and Fintech
 

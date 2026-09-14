@@ -1,11 +1,11 @@
 ---
 title: Togo — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-14
+period: 2026-08-01 to 2026-09-14
 place: TGO
-ledger_rows: 50
+ledger_rows: 51
 not_held: 22
-record: 191d2b8962be
+record: c2115f15ddde
 ---
 
 # Togo: monthly update, August – September 2026
@@ -96,6 +96,8 @@ What no amount of enrolment has produced is a way to use the credential: there i
 Payments moved on a deadline. Retirement allowances [began paying by bank transfer and mobile money in July, and stop on 31 August for beneficiaries who have not registered payment details](https://actu-togo.tg/2026/08/04/togo-paiements-des-allocations-de-retraite-les-beneficiaires-invites-a-utiliser-le-numero-vert-8220/); no beneficiary count is published, and no alternative is stated for someone without a bank account, a handset or an identity document. The regional [deadline to connect to the instant payment platform moved from 30 June to 30 September](https://www.togofirst.com/fr/finance/0304-18641-la-bceao-fixe-au-30-juin-l-adhesion-des-operateurs-a-sa-plateforme-de-paiement-instantane-pi-spi).
 
 Elsewhere a domestic financial-technology firm founded in 2024 [runs a single platform interconnecting bank transfers, mobile wallets and dollar stablecoins, exposing payment operations to autonomous software agents](https://www.wearetech.africa/fr/fils/tech-stars/le-togolais-esso-dong-djafalo-interconnecte-banques-mobile-money-et-cryptos), with no volume, licence or customer figure stated.
+
+Certified electronic invoicing is not yet running. The revenue office [briefed about 50 firms on 10 September on a gradual rollout](https://www.togofirst.com/en/economic-governance/1409-20049-togo-s-tax-authority-employers-discuss-certified-e-invoicing-reform), and standardised paper invoices stay valid until launch.
 <!-- /narrative -->
 ### Registries
 

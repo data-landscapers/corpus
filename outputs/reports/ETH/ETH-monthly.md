@@ -1,11 +1,11 @@
 ---
 title: Ethiopia — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-14
+period: 2026-08-01 to 2026-09-14
 place: ETH
-ledger_rows: 40
+ledger_rows: 41
 not_held: 5
-record: 4df64f6c3205
+record: a8e23034ad17
 ---
 
 # Ethiopia: monthly update, August – September 2026
@@ -144,6 +144,8 @@ Against it the FY2026/27 federal budget [carries *Artificial Intelligence Univer
 The month's movement on access is participation rather than service. The National Dialogue Commission [reports that its conference ran from 15 July to 22 August 2026, with around 4,000 participants deliberating eight national agenda items and recommendations submitted to the Commission](https://ethiondc.org.et/en/national-dialogue-conference-concludes-successfully/). It is the Commission's own account, and nothing in the record held states which recommendations were taken up. Nothing moved this month on digital access to public services, on refugee inclusion or on device affordability.
 
 The corridor programme put training against formalisation rather than connectivity. [Forty women traders took export-readiness training at Bishoftu on 30 and 31 July 2026 under a EUR 32m European corridor programme, covering business formalisation, product standards, export documentation and customs procedure, against a stated 94% of the traders concerned operating unlicensed](https://horneconomicreview.com/2026/09/03/from-export-readiness-to-market-access-eu-backed-support-strengthens-womens-participation-in-trade-along-the-djibouti-ethiopia-corridor/). That [94%](https://horneconomicreview.com/2026/09/03/from-export-readiness-to-market-access-eu-backed-support-strengthens-womens-participation-in-trade-along-the-djibouti-ethiopia-corridor/) is the programme's characterisation of its own target group rather than a national measure, and no digital component of the corridor programme is separately costed.
+
+Mobile-industry research [found refugee women twice as likely as men to have their SIM registered in someone else's name](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/blog/closing-the-digital-divide-for-refugee-women-means-understanding-their-full-experience-of-connectivity/).
 <!-- /narrative -->
 
 ## Geopolitics

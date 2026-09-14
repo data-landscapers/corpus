@@ -1,11 +1,11 @@
 ---
 title: Morocco — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-14
+period: 2026-08-01 to 2026-09-14
 place: MAR
-ledger_rows: 44
+ledger_rows: 45
 not_held: 14
-record: 537fdae46d84
+record: ea79571743d8
 ---
 
 # Morocco: monthly update, August – September 2026
@@ -35,6 +35,8 @@ The data-protection statute is being recast rather than replaced. The regulator'
 
 <!-- narrative: governance--gov-protect -->
 The data-protection authority moved first on the election. It [set out in a communiqué of 28 August the rules binding political parties, candidates and artificial-intelligence-generated content during the campaign](https://fr.walaw.press/country/cirdi/QWSP/articles/legislatives_2026_la_cndp_encadre_l_usage_des_donnees_personnelles_et_de_l_ia_pendant_la_campagne/GPFLSXGWQQFM), having already [set out the requirements for processing personal data in the legislative elections](https://maroc.ma/fr/actualites/elections-legislatives-la-cndp-fixe-les-imperatifs-respecter-dans-le-traitement-des-donnees-caractere). Naming synthetic content in an election instrument is the notable part. The record held carries no enforcement action under it and no complaint mechanism a voter could use.
+
+Spying claims reached a prosecutor. The Casablanca prosecutor general [opened a judicial investigation on 14 September into a party leader's claim that his party's phones were monitored](https://nichan.ma/365880/), citing the conduct of the elections.
 <!-- /narrative -->
 ### Regional collaboration
 

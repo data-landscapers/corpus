@@ -1,11 +1,11 @@
 ---
 title: Senegal — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-14
+period: 2026-08-01 to 2026-09-14
 place: SEN
-ledger_rows: 60
+ledger_rows: 61
 not_held: 5
-record: 34e3ce7b62d4
+record: 3e0db3a5e9da
 ---
 
 # Senegal: monthly update, August – September 2026
@@ -71,6 +71,12 @@ Where a mast is put became a parliamentary question. A member of the National As
 
 <!-- narrative: finance--finance-budget -->
 The constraint on that deployment is money, and the agency said so itself. On 17 August its director-general said [the agency's 2026 budget had still not been notified](https://aps.sn/kaolack-lanec-accelere-la-digitalisation-de-letat-civil/), and named that as what is holding back the pace of the Kaolack phase — the deployment of the civil-status software and activation of the citizen request platform across Nioro, Ndiedieng and Kaolack between 10 and 20 August. The repository holds no appropriation figure for the agency for 2026, which is recorded as a gap.
+<!-- /narrative -->
+### New investments
+
+<!-- narrative: finance--finance-new -->
+
+A US firm [announced US$300m for Senegal's digital infrastructure](https://lesoleil.sn/actualites/economie/transformation-numerique-cybastion-annonce-un-investissement-de-300-millions-de-dollars-au-senegal/), with no instrument, project or timetable behind the figure.
 <!-- /narrative -->
 
 ## ICT Infrastructure

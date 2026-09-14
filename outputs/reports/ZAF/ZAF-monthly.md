@@ -1,11 +1,11 @@
 ---
 title: South Africa — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-14
+period: 2026-08-01 to 2026-09-14
 place: ZAF
-ledger_rows: 154
+ledger_rows: 156
 not_held: 23
-record: 7df863d886d5
+record: 10df07ef1180
 ---
 
 # South Africa: monthly update, August – September 2026
@@ -74,6 +74,8 @@ The rights commission put a position on the record about who should arbitrate wh
 
 <!-- narrative: finance--finance-new -->
 One programme opened in the window, and it is not yet a commitment to anybody. On 11 August the United Kingdom [published an expression-of-interest call for a Southern Africa science and technology accelerator worth up to GBP2.5m over three years to March 2030, with up to GBP400,000 for 2026/27](https://www.gov.uk/international-development-funding/science-and-technology-accelerator-systems-sta-s-southern-africa-programme), covering artificial intelligence and emerging technologies and digital access alongside climate, energy, health and space. South Africa is the primary focus and Zimbabwe and Zambia the first year's. The fund is resourced and the delivery consortium is not chosen, so what the money buys is a matter for a contract expected later in the year.
+
+The fibre recapitalisation has a figure from its lead investor, which [put its commitment at more than R2.1bn at an aggregate R14.4bn valuation for the fibre companies](https://www.itweb.co.za/article/sa-investment-firm-ploughs-r21bn-into-digital-economy/KzQenMjyjEA7Zd2r).
 <!-- /narrative -->
 
 ## ICT Infrastructure
@@ -133,6 +135,8 @@ Two independent readings of the year both point at the same thing. The financial
 The state's answer to its own exposure is a training tender. The public service and administration department is [tendering to build a training programme for departmental information security officers across the public sector](https://www.itweb.co.za/article/top-ict-tenders-dpsa-targets-info-security-officer-training/WnpNgM21Zx87VrGd), to implement the directive on public service information security. No officer count, curriculum, budget or compliance deadline under that directive is stated.
 
 Its own research estate showed what the exposure costs. The science minister told the National Assembly on 24 August that the late-May breach of the national supercomputer was caused by [vulnerabilities associated with the legacy high-performance computing system](https://www.itweb.co.za/article/cause-of-breach-on-sas-supercomputer-revealed/KPNG878NLeGq4mwD), with unauthorised access to parts of the environment and crypto-currency mining malware deployed, and that [ageing components are technically constrained or no longer fully supported by their original vendors](https://www.itweb.co.za/article/cause-of-breach-on-sas-supercomputer-revealed/KPNG878NLeGq4mwD). A [remediation and resilience programme covering access controls, privileged-access management, network segmentation, patch management and monitoring has since run, with forensic support and independent assurance from the council's own specialists](https://www.itweb.co.za/article/cause-of-breach-on-sas-supercomputer-revealed/KPNG878NLeGq4mwD). No cost, data-loss finding or outage duration is stated, and the account is the department's own — against the same centre having reached maximum capacity earlier in the month.
+
+One vendor carried three firms' exposure. A provider [that runs verification checks for Cell C, EasyEquities and Bidvest Bank reported a breach on 9 September](https://www.connectingafrica.com/cybersecurity/sa-s-cell-c-easyequities-and-bidvest-bank-warn-customers-of-data-leak).
 <!-- /narrative -->
 
 ## DPI
@@ -187,6 +191,8 @@ Home Affairs reported [377,060 identity numbers still blocked](https://iol.co.za
 The student funding scheme's administrator submitted a stabilisation plan stating that [ICT is the scheme's biggest operational risk, fragmented, manual and not fit for purpose](https://www.itweb.co.za/article/nsfas-says-ict-is-its-biggest-operational-risk/rW1xLv5ngJy7Rk6m). The same submission reports 66 major audit findings and a disclaimer audit opinion from the Auditor-General, 115 overdue internal audit findings and nine material irregularities, five of them data or systems defects. The scheme was placed under administration in May and its governance failures referred to the Special Investigating Unit.
 
 A revenue system went back to market. The home affairs department [re-advertised its revenue administration system over 275 fixed sites and 230 mobile units, replacing a generic 400-plus site listing and making point-of-sale devices and mobile offices the primary transaction channels, with only suppliers on the state IT agency's RFB 1183 transversal contract eligible to bid](https://www.itweb.co.za/article/top-ict-tenders-home-affairs-expands-revenue-admin-tender/dgp45MaBlAbqX9l8). It is a tender, not an award: no value, closing date, bidder or delivery schedule is held.
+
+The police have no single system for logging reported incidents, on the state IT agency's own tender: it [is procuring a 36-month incident management solution, bids closing 22 September](https://www.itweb.co.za/article/top-ict-tenders-sita-sees-activity-surge/lwrKx73YyZRqmg1o).
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 

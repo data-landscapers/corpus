@@ -1,11 +1,11 @@
 ---
 title: Angola — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-14
+period: 2026-08-01 to 2026-09-14
 place: AGO
-ledger_rows: 56
+ledger_rows: 57
 not_held: 7
-record: 96dfda5f3cb8
+record: c3b4ad2d5f2c
 ---
 
 # Angola: monthly update, August – September 2026
@@ -115,6 +115,8 @@ The year's national technology fair took cybersecurity as its theme rather than 
 
 <!-- narrative: dpi--dpi-exchange -->
 The public-administration digital infrastructure contract [entered execution on 31 July](https://lidermagazine.ao/revolucao-digital-em-marcha-ima-inicia-projecto-que-vai-mudar-a-administracao-publica/), the point at which a signed instrument becomes a build. No component list, milestone schedule or completion date accompanies the start.
+
+The land-concession single window is moving to the provinces: the cadastral institute [trained Huambo's municipal administrations on its procedures on 14 September](https://angop.ao/noticias/sociedade/governo-do-huambo-moderniza-praticas-de-gestao-de-direitos-fundiarios/), under [the 2025 decree that created it](https://lex.ao/docs/presidente-da-republica/2025/decreto-presidencial-n-o-84-25-de-16-de-abril/).
 <!-- /narrative -->
 ### Digital Identity and CRVS
 

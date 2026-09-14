@@ -1,11 +1,11 @@
 ---
 title: Tunisia — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-14
+period: 2026-08-01 to 2026-09-14
 place: TUN
-ledger_rows: 52
+ledger_rows: 53
 not_held: 6
-record: 1aab3468db35
+record: 347c06447568
 ---
 
 # Tunisia: monthly update, August – September 2026
@@ -129,6 +129,12 @@ The industry ministry [opened a unified digital services platform on 28 August, 
 
 ## Digitalisation
 
+### Digitalisation of sub-national government
+
+<!-- narrative: digitalisation--digital-localgov -->
+
+The capital [began taking building-permit applications through the national platform on 14 September](https://www.assabahnews.tn/ar/الاخبار/وطنية/154018-بلدية-تونس-الشروع-في-اعتماد-المنصة-الرقمية-تعمير-لايداع-ومتابعة-ملفات-رخص-البناء), without closing the paper route.
+<!-- /narrative -->
 ### Rural digital data capture
 
 <!-- narrative: digitalisation--digital-rural -->

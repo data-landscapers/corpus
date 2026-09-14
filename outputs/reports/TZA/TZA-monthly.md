@@ -1,11 +1,11 @@
 ---
 title: Tanzania — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-14
+period: 2026-08-01 to 2026-09-14
 place: TZA
-ledger_rows: 86
+ledger_rows: 87
 not_held: 5
-record: b0c741117986
+record: 811529b753b5
 ---
 
 # Tanzania: monthly update, August – September 2026
@@ -247,6 +247,8 @@ A national institution of science and technology was [selected as the country's 
 
 <!-- narrative: inclusion--include-access -->
 Access moved for a group the digital estate rarely reaches. The central bank [launched Braille editions of its publications in Dar es Salaam on 20 August](https://www.mwananchi.co.tz/mw/habari/biashara/bot-yazindua-machapisho-ya-nukta-nundu-kwa-wasioona-5564948). It is a print accommodation rather than a digital one, and no equivalent screen-reader or accessible-format commitment for the bank's online material is on the record.
+
+Mobile-industry research [found identity requirements for SIM registration leave refugee women registering lines through local citizens or intermediaries](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/blog/closing-the-digital-divide-for-refugee-women-means-understanding-their-full-experience-of-connectivity/).
 <!-- /narrative -->
 
 ## Data

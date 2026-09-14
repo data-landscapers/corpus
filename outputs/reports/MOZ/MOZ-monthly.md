@@ -1,11 +1,11 @@
 ---
 title: Mozambique — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-14
+period: 2026-08-01 to 2026-09-14
 place: MOZ
-ledger_rows: 67
+ledger_rows: 68
 not_held: 19
-record: 3757c84b31b2
+record: aa0b0464bdd7
 ---
 
 # Mozambique: monthly update, August – September 2026
@@ -129,6 +129,8 @@ The tax authority made the fiscal clearance certificate available online from 3 
 The agency's own account of the citizen portal names what it rests on: [the government network, the government cloud storage platform, state electronic payments and digital identity](https://pt.linkedin.com/posts/atdi-ip_atdi-apresenta-portal-do-cidad%C3%A3o-e-coloca-activity-7501551667520368640-SmSp). Which of those is actually in service behind it is not stated, and no service count beyond about 140, user figure or launch date accompanies the presentation — so the dependencies are published and their readiness is not.
 
 The citizen portal put a live count beside its target: [21 services already offered against about 140 planned, the agency citing 66% of Mozambicans without identification](https://www.brasil247.com/blog/mocambique-acelera-modernizacao-do-estado-para-colocar-servicos-basicos-na-palma-do-cidadao/). The prime minister [directed the state digital certification system extended across all sectors](https://techreviewafrica.com/news/7110/mozambique-pm-urges-intic-to-expand-digital-certification-across-state-institutions).
+
+The government's own email went down: the digital agency [announced CorreioGOV restored on 14 September, with some services still restricted](https://clubofmozambique.com/news/mozambique-government-email-service-restored-after-maintenance-work/), without giving the cause or when the outage began.
 <!-- /narrative -->
 
 ## Technology

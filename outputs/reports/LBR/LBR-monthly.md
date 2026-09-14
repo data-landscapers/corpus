@@ -1,11 +1,11 @@
 ---
 title: Liberia — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-14
+period: 2026-08-01 to 2026-09-14
 place: LBR
 ledger_rows: 38
 not_held: 6
-record: f075b0d1caf4
+record: 4e6f0ace7d10
 ---
 
 # Liberia: monthly update, August – September 2026
@@ -34,6 +34,8 @@ One piece of it is now a signed instrument. The regulator [signed satellite comm
 
 <!-- narrative: governance--gov-protect -->
 The data-protection statute exists, and has for longer than announced. A ministerial statement [presented it as signed on 19 August](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/le-liberia-adopte-les-lois-sur-la-cybercriminalite-et-la-protection-des-donnees), but [the printed Act was approved on 9 March 2026 and took effect on publication on 23 March, giving an Independent Information Commissioner 24 months for implementing rules](https://mopt.gov.lr/wp-content/uploads/2026/09/An_Act_For_The_Collection_Processing_-Transmission_-Storage_-Protection_-And_Use_Of_Personal-_Information_In_Liberia_Printed_Version_20260323_063904.pdf). No appointment, rule or registration regime under it is held.
+
+The statute's first test in public came from officials themselves: several [posted enrolment lists of children in a social protection programme to Facebook](https://frontpageafricaonline.com/liberian-officials-post-vulnerable-childrens-data-to-prove-aid-programs-work/), including home addresses, as proof the programme was real.
 <!-- /narrative -->
 ### Regional collaboration
 
@@ -74,6 +76,8 @@ The special economic zone authority said a [trade information portal could ease 
 The identity build reached the legislature. The National Identification Registry says [procurement of an Austrian firm to build a new biometric identification system under a public-private partnership is complete, and the concession agreement is with the President ahead of legislative ratification](https://www.thenewdawnliberia.com/liberia-picks-austrian-firm-for-new-biometric-id-system/); a day later, [consultations on the draft agreement had concluded and it had gone to Parliament for approval](https://www.biometricupdate.com/202608/liberia-advances-ppp-backed-digital-id-rollout-with-osd), with the registry stating it will disclose the terms only once ratification is complete and officials saying issuance will be free for poor first-time applicants. Mass enrolment has been suspended since 23 June 2025, so the country has been more than a year without one, and coverage stands [below 15% of a population above five million](https://www.biometricupdate.com/202608/liberia-advances-ppp-backed-digital-id-rollout-with-osd). No concession value, term, revenue model or data-protection provision is published.
 
 A second identity register is being built outside the state entirely. On 16 August the commercial motorcycle and tricycle riders' union and a private digital services company [signed a memorandum to build a digital identity, GPS tracking and a rider database](https://www.thenewdawnliberia.com/motorcycle-union-digital-liberia-sign-deal-to-track-riders-combat-theft/), aimed at curbing vehicle theft and linking informal-sector riders to formal financial and government services. It covers continuous location tracking of a working population, and no data-protection basis, custodian, retention rule or consent mechanism is reported for it.
+
+The identity concession has a stated scope. The registry [plans to join the identity register to civil registration and vital statistics in one system](https://www.biometricupdate.com/202609/liberia-to-link-national-id-crvs-in-planned-infrastructure-upgrade), though the agreement still waits on Parliament.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 

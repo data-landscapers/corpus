@@ -1,11 +1,11 @@
 ---
 title: Burkina Faso — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-14
+period: 2026-08-01 to 2026-09-14
 place: BFA
-ledger_rows: 38
+ledger_rows: 39
 not_held: 8
-record: 87f5eed30475
+record: 50e7413eeea9
 ---
 
 # Burkina Faso: monthly update, August – September 2026
@@ -123,6 +123,8 @@ Automated traffic enforcement entered operation at midnight on 1 August after an
 The health ministry's accreditation portal, launched on 7 August, arrived with the one thing most of these launches lack — a use figure. It had taken [more than 247 applications since a soft launch in April 2026, of which 39 were validated](https://burkina24.com/2026/08/07/burkina-faso-e-agrement-officiellement-lance-pour-simplifier-les-procedures-administratives-dans-la-sante/) by the day of the official launch. The counts are the ministry's own, and the record does not explain the gap between the two.
 
 The automated traffic system's first month is measured, and the gap is collection. [19,910 offences were recorded between 1 and 31 August 2026, generating CFA146.559m in fines, of which CFA16.1m had been recovered at the review of 4 September](https://www.agenceecofin.com/actualites-numerique/0709-141342-burkina-faso-260-000-d-amendes-generes-par-la-video-verbalisation-en-un-mois). The state's answer is a body rather than a system: a [motorised police brigade created on 2 September specifically to trace drivers who evade the camera-issued fines](https://burkina24.com/2026/09/03/securite-routiere-a-ouagadougou-naissance-de-la-bricir-pour-en-finir-avec-lincivisme-sur-les-routes/). Barely a ninth of the month's fines were collected, and no appeal, error or contested-notice figure is published — which is what a reader would need to tell non-payment from wrongly-issued notices.
+
+Electronic signature is to enter administrative procedures: the ministry [set its official launch for 15 September](https://www.wearetech.africa/fr/fils/actualites/tech/burkina-faso-l-administration-passe-a-la-signature-electronique). The same day the modernisation council [heard the Prime Minister name weak citizen uptake of the digital service platforms as a persistent shortcoming](https://www.sidwaya.info/%f0%9d%90%8c%f0%9d%90%a8%f0%9d%90%9d%f0%9d%90%9e%f0%9d%90%ab%f0%9d%90%a7%f0%9d%90%a2%f0%9d%90%ac%f0%9d%90%9a%f0%9d%90%ad%f0%9d%90%a2%f0%9d%90%a8%f0%9d%90%a7-%f0%9d%90%9d%f0%9d%90%9e-%f0%9d%90%a5/), without a figure for it.
 <!-- /narrative -->
 
 ## Digitalisation

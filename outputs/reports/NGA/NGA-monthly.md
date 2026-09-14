@@ -1,11 +1,11 @@
 ---
 title: Nigeria — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-14
+period: 2026-08-01 to 2026-09-14
 place: NGA
-ledger_rows: 185
+ledger_rows: 188
 not_held: 9
-record: 5455179e8b93
+record: fc9907814234
 ---
 
 # Nigeria: monthly update, August – September 2026
@@ -32,6 +32,8 @@ An [Artificial Intelligence and Cyber Diplomacy Unit sits inside the foreign min
 Two coordination bodies were constituted in August, one with a deadline that tells you what it is. The Head of Service [inaugurated an eleven-member technical working committee to coordinate the federal civil service's cabinet-approved digital transformation agenda, tasked with drafting the architecture, roadmap and governance mechanisms within one week](https://www.thisdaylive.com/2026/08/17/hos-inaugurates-technical-working-committee-on-digital-transformation-agenda/) ahead of a steering committee; no terms of reference, budget or publication commitment is stated. And a national strategy for the digital transformation of technical and vocational education was [validated at an Abuja workshop by UNESCO, the education ministry and the technical education board](https://www.thisdaylive.com/2026/08/12/unesco-fg-nbte-seek-human-centred-digital-transformation-of-nigerias-technical-vocational-education-training-system/), which named connectivity, teacher digital competency, financing and coordination as the gaps to close before implementation. Validated is not adopted, and neither text is held.
 
 The month's substantive instrument is the cloud policy. On 17 August the communications ministry [issued a National Digital Cloud Policy](https://fmcide.gov.ng/federal-government-unveils-national-digital-cloud-policy-to-drive-investment-digital-sovereignty-and-government-transformation/) superseding the 2019 cloud policy, in force on publication apart from its sovereignty provisions, which await presidential approval. It makes cloud the default for new federal systems, with [time-bound exemptions assessed by the IT development agency against published criteria and held in a register](https://techcabal.com/2026/08/18/nigerias-new-cloud-policy-puts-government-at-the-centre-of-its-cloud-market/); pools ministry demand through the government infrastructure company into framework agreements bought on a National Digital Marketplace, with the procurement bureau overseeing compliance; and [sorts government and regulated data into four levels — national-security data hosted only in Nigeria, financial, health, biometric and identity data stored at rest in Nigeria, internal operational records hybrid by prior authorisation, and public data unrestricted](https://techcabal.com/2026/08/18/nigerias-new-cloud-policy-puts-government-at-the-centre-of-its-cloud-market/). Commercial data carries no general localisation duty, and a regulator has to apply for a category to be designated sovereign. The [ministry states the 2019 Cloud First principle was applied unevenly for want of a coordinating framework](https://fmcide.gov.ng/federal-government-unveils-national-digital-cloud-policy-to-drive-investment-digital-sovereignty-and-government-transformation/), which is what the aggregation, marketplace, provider registration and compliance machinery is for. The policy text carries no published canonical link, and its relationship to the draft National Policy on Data and Cloud — five years in draft — is not stated.
+
+The cloud programme gained its investment case: the agency's [strategy, dated August, offers investors an Approval in Principle pathway with government as anchor customer](https://nitda.gov.ng/wp-content/uploads/2026/08/NITDA26-CLOUD-INV-STRATEGY-2025-FN-1.pdf).
 <!-- /narrative -->
 ### Legislation and regulation
 
@@ -46,6 +48,8 @@ The bench put its own view on the record. Fifty-four judicial officers [adopted 
 The [ECOWAS Community Court of Justice held that access to the internet is a right within the right to freedom of expression](https://citizenshipdaily.com/ecowas-court-declares-internet-access-a-right-awards-journalist-n10-million-against-fg/), and ordered Nigeria to pay N10 million to the journalist Jide Oyekunle over his assault, detention and phone seizure while covering a protest. The court traced the holding to two of its own earlier judgments, which makes this a settled regional position rather than a first ruling; nothing on file records compliance or payment.
 
 The securities regulator's draft virtual-asset rules were reported in fuller detail on 31 August. They would [require customer assets to be segregated from a firm's own with 80 per cent held offline, minimum paid-up capital of N2bn for digital-asset exchanges and custodians, a fidelity insurance bond covering at least 25 per cent of the applicable minimum, material incidents notified within 24 hours and reported in detail within 48, and SEC approval before a foreign-issued stablecoin may be listed](https://techcabal.com/2026/08/31/nigeria-sec-wants-digital-asset-firms-to-store-80-of-customer-funds-offline/). No commencement date or transition period is stated.
+
+The platform penalty moved toward a deal: Meta [is negotiating a settlement with the commission after a first appeal was rejected](https://www.africaintelligence.fr/afrique-ouest/2026/09/14/apres-son-amende-de-220-millions-de-dollars-meta-tente-de-negocier-un-compromis-avec-abuja,110876270-art), on a single paywalled account.
 <!-- /narrative -->
 ### Data protection
 
@@ -64,6 +68,8 @@ An underground market trading national identity and bank verification numbers [s
 The commission opened a second framework alongside its enforcement work: validation of a [data privacy framework for electronic commerce, at an Abuja workshop run with the German development agency and following a private-sector session in Lagos](https://techreviewafrica.com/public/news/7060/nigeria-moves-to-enhance-data-privacy-framework-for-e-commerce). No draft text, scope, commencement date or enforcement route is published, so what exists is a consultation rather than an instrument.
 
 The consultation acquired a political timetable on 10 September, when the education minister [trailed regulation of internet access for children under 16, to be announced by the security agencies within days or weeks](https://saharareporters.com/2026/09/11/nigeria-regulate-internet-access-children-below-16-education-minister-announces). The announcement is to come from the security agencies rather than a regulator, and no draft instrument is named.
+
+The commission [moved into a new Abuja headquarters on 14 September, reporting 356 licensed compliance organisations](https://businessday.ng/news/article/nigeria-targets-200-telecom-towers-by-december-plans-new-satellite-beyond-fibre-coverage/), and its chief executive [put compliance among advertising agencies at 12.3%](https://www.cyberera.com.ng/ndpc-and-arcon-forge-synergy-to-deepen-responsible-data-processing-in-marketing/).
 <!-- /narrative -->
 ### Regional collaboration
 
@@ -83,6 +89,8 @@ The clearance gate over federal IT spending was quantified for the first time. T
 The standards move of the month is aimed at the innovation estate rather than at government systems. A draft [National Innovation Hub Standards Framework went to an Abuja validation exercise, giving hubs a self-assessment tool across seven dimensions and about 35 categories and a defined maturity pathway](https://von.gov.ng/nigeria-unveils-innovation-hub-framework-to-boost-digital-economy/), against a count of more than 339 hubs heavily concentrated in Lagos and Abuja — the stated purpose being to make a hub in a state outside those two legible enough to be funded without its founders relocating. At the same workshop the [EU delegation put Team Europe support for the country's digital sector at more than €820m between 2021 and 2027](https://punchng.com/fg-to-begin-90000km-fibre-rollout-in-october-minister/). It is a draft at validation, so what the framework will require of a hub, and who will assess it, is not yet settled.
 
 The device register went live and met resistance. The board [stated the Device Management System live, blocking stolen devices across networks](https://von.gov.ng/ncc-deploys-8526-telecom-sites-vows-to-end-call-masking/), while manufacturers [asked for a longer implementation timeline against a charge of about N670 per IMEI](https://www.thisdaylive.com/2026/09/09/stakeholders-push-for-extension-of-dms-implementation-timeline-seek-clarification-on-grey-areas/).
+
+Two texts signed in August are now held in full. The [cloud computing guideline sets Cloud First for federal institutions from 1 January 2027](https://nitda.gov.ng/wp-content/uploads/2026/08/NATIONAL-GUIDELINE-FOR-CLOUD-COMPUTING-IN-NIGERIA-2026_Final.pdf), and the [infrastructure assurance framework sets four certification classes on the same commencement date](https://nitda.gov.ng/wp-content/uploads/2026/08/NATIONAL-DIGITAL-INFRASTRUCTURE-ASSURANCE-FRAMEWORK-2026_Final.pdf).
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 
@@ -131,6 +139,8 @@ Katsina State [began the last-mile stage of its fibre network, the state investm
 Lagos put a figure on its own build. The state says it has [laid about 3,000km of a planned 6,000km unified fibre network between 2019 and 2025 and plans to secure 200-400MW of state-procured electricity](https://www.vanguardngr.com/2026/09/80bn-digital-economy-sanwo-olu-eyes-africas-innovation-capital/), alongside a claim of more than US$80bn in commitments to technology development. Both figures are the state's own, given at a trade exhibition, with no route, cost or independent verification published.
 
 Operators are two-thirds of the way to their site commitments: the regulator's board [recorded 8,526 of 12,179 committed coverage and capacity sites deployed, up from about 5,000 at its previous meeting](https://von.gov.ng/ncc-deploys-8526-telecom-sites-vows-to-end-call-masking/), and blamed fibre cuts for a sharp rise in June disruptions.
+
+The tower programme set a first milestone and the satellite programme a first contract. The ministry [said at least 200 towers will be live by December](https://businessday.ng/news/article/nigeria-targets-200-telecom-towers-by-december-plans-new-satellite-beyond-fibre-coverage/), and Thales Alenia Space [signed to build NigComSat-2A](https://www.thalesaleniaspace.com/en/press-releases/thales-alenia-space-wins-nigcomsat-contract-build-nigcomsat-2a-geostationary). A [second virtual network operator began commercial service](https://techcabal.com/2026/09/14/lebara-launches-nigerias-second-commercial-mvno-network/).
 <!-- /narrative -->
 ### Data Storage
 
@@ -296,6 +306,8 @@ At its Abuja forum on 9 September the EU put a figure on Boost Africa: [EUR108 m
 
 <!-- narrative: capacity--capacity-training -->
 A [diaspora health-workforce registry is described as newly launched](https://fmino.gov.ng/fg-commends-nigerian-health-professionals-in-diaspora-for-strengthening-healthcare-delivery/), with no launch date, custodian agency, enrolment terms or data-protection basis stated in anything held — a register standing up ahead of its governance.
+
+The federal training academy [launched on 14 September with more than N10.5bn committed for over 32,000 trainees](https://www.thisdaylive.com/2026/09/14/fg-invests-n10-5bn-in-digital-training-academy-to-equip-over-32000-nigerians/).
 <!-- /narrative -->
 
 ## Inclusion

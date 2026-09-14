@@ -1,11 +1,11 @@
 ---
 title: Kenya — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-14
+period: 2026-08-01 to 2026-09-14
 place: KEN
-ledger_rows: 168
+ledger_rows: 169
 not_held: 7
-record: 43e38dc238c7
+record: e9c349b043a4
 ---
 
 # Kenya: monthly update, August – September 2026
@@ -119,6 +119,8 @@ The largest procurement in the window is a surveillance build sold as traffic ma
 An industry survey filled a gap in the record on 5G: commercial networks opened between October 2022 and July 2023, the largest operator [doubled its 5G sites to about 1,700 in 2025](https://digitalmag.ci/acces-a-internet-etat-dadoption-de-la-technologie-5g-par-les-pays-africains/), and coverage is projected to reach 94 per cent by 2030, helped by rules that let operators refarm existing spectrum. The service is used mainly as an alternative to fibre for connecting homes and businesses.
 
 On the delivery side of the same programme, coordination was stepped up rather than the schedule revised: two principal secretaries began [co-chairing a standing review of the implementing agencies on 4 September, the coordination framed against a target of taking the technology industry from US$7bn to US$100bn](https://peopledaily.digital/news/govt-steps-up-digital-superhighway-implementation). No revised delivery date came with it, and 63,000km of the 100,000km fibre target remains outstanding before the 2027 deadline.
+
+One wholesale fibre entrant is leaving. Airtel [is winding up its Kenyan fibre subsidiary after two years, having returned its facilities licence](https://techweez.com/2026/09/14/fiber-airtel-kenya-telesonic-shutdown/).
 <!-- /narrative -->
 ### Data Storage
 
