@@ -18,7 +18,9 @@ ignores it anyway. Leaving it out is the honest version.
 
 **Both files are written only when their bytes change**, so a render that added no
 page adds nothing to the commit. `robots.txt` lives here rather than as a hand-kept
-file because `site/` is generated end to end (`site/README.md`).
+file because `site/` is generated end to end (`site/README.md`). It carries the
+`Sitemap:` line and nothing else: Cloudflare prepends its managed block, crawler
+rules included, so a `User-agent` group here would repeat Cloudflare's.
 """
 from __future__ import annotations
 
@@ -74,7 +76,7 @@ def main() -> int:
            '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
            + "".join(f"  <url><loc>{escape(u)}</loc></url>\n" for u in listed)
            + "</urlset>\n")
-    robots = f"User-agent: *\nAllow: /\n\nSitemap: {SITE_BASE}/sitemap.xml\n"
+    robots = f"Sitemap: {SITE_BASE}/sitemap.xml\n"
     wrote = [name for name, text in (("sitemap.xml", xml), ("robots.txt", robots))
              if write_if_changed(SITE / name, text)]
     print(f"sitemap: {len(listed)} pages, {len(skipped)} left out ({', '.join(skipped) or 'none'})"
