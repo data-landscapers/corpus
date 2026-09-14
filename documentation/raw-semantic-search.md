@@ -2,7 +2,7 @@
 type: design-note
 title: raw-semantic-search.md — searching OSINT's raw/ by meaning, for the writing
 last_reviewed: 2026-09-04
-status: design and instructions; the build is a feature and waits for the freeze to lift on 2026-09-27
+status: design and instructions; not yet built
 ---
 
 # Searching `raw/` by meaning
@@ -125,11 +125,9 @@ All four are multilingual, which is not optional here: 220 documents are heavily
 
 **Record the survey as a query file.** `queries/` already has a template with frontmatter scoping by place, topic, entity and lens, plus `pending`, `done` and `results`. A search worth running once during a chapter is worth being able to reconstruct in six months; a chat session is not a record.
 
-## 10. Where this sits against the freeze
+## 10. When to build it
 
-**This is a feature, not a defect, and it waits.** Nothing is *wrong* — no check passes over nothing, no stamp is impossible; something is *missing*, which under the test in `CLAUDE.md` makes it a feature. It is not one of the commissioned strategic-review tasks and it is not report-layer machinery wearing a script's clothes. **The build therefore starts on 2026-09-28**, which is close to when the writing resumes in any case.
-
-Three things can be done before then without touching the freeze, because none is a process change: check the 205 PDFs with no extracted text; use the ICR and outcome-rating seam, which needs no new tooling; and adopt the describe-the-ideal-document query style with Exa immediately.
+**Bill's call.** The freeze this section once waited on was retired on 2026-09-14. Three things need no build and can be done any time: check the 205 PDFs with no extracted text; use the ICR and outcome-rating seam, which needs no new tooling; and adopt the describe-the-ideal-document query style with Exa.
 
 ## 11. What this does not do
 

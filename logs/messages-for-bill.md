@@ -28,8 +28,8 @@ last_reviewed: 2026-08-28
   indicator, in the window; stage 4 marked it considered, minted no row, and a
   considered slug is never reopened. 860 documents, 22 units. No check sees it: all
   test the frame against the ledger, and the ledger is what lost the evidence.
-  `documentation/considered-not-carried.md`. Yours: the re-read is scope, the lint
-  is a feature under the freeze.
+  `documentation/considered-not-carried.md`. Yours: the re-read is scope, and
+  whether to add the lint.
 
 ## 2026-09-08 23:13 · build
 

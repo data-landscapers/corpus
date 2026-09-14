@@ -536,7 +536,7 @@ def slug_offline():
     open. Serving the held file is refused by `design.md` §8 — `outputs/` carries metadata and
     compiled prose, never a verbatim source body — and republishing a third party's document
     is a licensing exposure this side does not get to take on its own. A page per record is a
-    new page type on the site, which is a feature and the freeze is running. What is left is
+    new page type on the site, and not one built for this. What is left is
     the route that already exists: the catalogue page reads `#q=` off the fragment and
     prefills its search, so `/catalogue/#q={slug}` lands a reader on the record's own row —
     title, publisher, date, and the `url_note` itself in the CSV beside it. The reader gets

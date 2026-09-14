@@ -2,7 +2,7 @@
 type: design-note
 title: exa-highlights-assessment.md — what Exa's highlights would and would not save the progress filler
 last_reviewed: 2026-09-02
-status: assessment for the post-freeze queue; two in-freeze defects named in §6
+status: assessment; two defects named in §6
 ---
 
 # Exa highlights, measured against the filler as it actually runs
@@ -60,9 +60,7 @@ The three archived cost write-ups cover runs one to three. The series is now 33 
 
 **A note against over-reading the nil count.** GNB's record shows the Agent doing genuine research — finding that the most authoritative instrument in existence is a draft, a terms of reference or a donor project document, and evidencing that a *projeto* never reached the *Boletim Oficial*. That is not a lookup, and a cheaper effort level may not do it. The trial should be read on the hard chapters, not the easy ones.
 
-## 6. Two defects found while measuring, both fixable inside the freeze
-
-These are *wrong*, not *missing*, and they are in the report layer's own machinery, so both exemptions apply.
+## 6. Two defects found while measuring
 
 **`ERI-2026-08-31.csv` is empty in five of its twelve columns, for all 108 rows.** `candidates_returned`, `fetched`, `not_selected`, `dropped` and `subject_rows_at_probe` are blank throughout. Two things follow. §7's claim that the cap is auditable from the run CSV alone is false for ERI. And §0's re-run policy reads `subject_rows_at_probe` to decide whether a prior nil is skipped or re-opened, so ERI's rows cannot be adjudicated by it at all — a later run has no recorded count to compare against and must re-buy the whole country. `ZMB-2026-08-29.csv` has the same fault on 7 of 65 rows. Whether the fields can be reconstructed from the selected and unselected registers has not been checked.
 
@@ -72,16 +70,16 @@ These are *wrong*, not *missing*, and they are in the report layer's own machine
 
 ## 7. What to do, and when
 
-**Now, inside the freeze**: the two defects in §6, and establish whether the `maxCharacters` default is real.
+**First**: the two defects in §6, and establish whether the `maxCharacters` default is real.
 
-**Post-freeze, from 2026-09-28**, in this order:
+**Then**, in this order:
 
 1. **Reconcile §4a's text with what the run does.** The procedure describes selection with bodies in hand; the run selects from lead descriptions. Whichever is right, the file should say it, because the justification in *Why this is not the value-drop sweeps are forbidden* rests on holding the bodies.
 2. **A highlights tier between the Agent and the fetch** — highlights for every candidate, full capture only for the survivors. This is where §4a's evidence claim becomes true again, at a context cost comparable to today's lead list.
 3. **A Dynamic Highlights trial on one country**, scored against that country's existing `-unselected.csv`.
 4. **The effort-level A/B**, one chapter, low against medium.
 
-**One practical obstacle to (2) and (3).** The Exa MCP surface available to a Cowork session exposes no `highlights` parameter and no `dynamic` flag — `web_search_exa` takes a query and a result count, `web_fetch_exa` takes URLs and `maxCharacters`. Whether the MCP the filler runs against is the same one has not been checked. If it is, this is an API-side change rather than a parameter change, which is a further reason it is post-freeze work rather than a tweak.
+**One practical obstacle to (2) and (3).** The Exa MCP surface available to a Cowork session exposes no `highlights` parameter and no `dynamic` flag — `web_search_exa` takes a query and a result count, `web_fetch_exa` takes URLs and `maxCharacters`. Whether the MCP the filler runs against is the same one has not been checked. If it is, this is an API-side change rather than a parameter change, not a parameter tweak.
 
 ## 8. What is unverified
 
