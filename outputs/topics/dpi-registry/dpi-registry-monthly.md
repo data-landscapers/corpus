@@ -1,15 +1,17 @@
 ---
 title: Registries (population, land, address, etc.) — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-14
+period: 2026-08-01 to 2026-09-14
 subject: dpi.registry
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; TCD; COM; COG; CIV; COD; EGY; ERI; SWZ; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: a9de4757b1d4
+record: 0410ee10e23a
 ---
 
 # Registries (population, land, address, etc.): monthly update, August – September 2026
 
 *49 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 

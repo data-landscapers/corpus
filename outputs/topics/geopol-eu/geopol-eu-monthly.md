@@ -1,15 +1,17 @@
 ---
 title: EU activities — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-14
+period: 2026-08-01 to 2026-09-14
 subject: geopol.eu
 places: GNQ; GMB; KEN; MWI; MLI; MAR; NGA; SEN; SYC
-record: 4d5104252721
+record: e66d30729c18
 ---
 
 # EU activities: monthly update, August – September 2026
 
 *9 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Equatorial Guinea
 

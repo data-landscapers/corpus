@@ -1,15 +1,17 @@
 ---
 title: Other GovTech and e-Gov — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-14
+period: 2026-08-01 to 2026-09-14
 subject: dpi.govtech
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 9a404814ed6f
+record: d016ff6c080a
 ---
 
 # Other GovTech and e-Gov: monthly update, August – September 2026
 
 *49 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -50,6 +52,8 @@ Automated traffic enforcement entered operation at midnight on 1 August after an
 The health ministry's accreditation portal, launched on 7 August, arrived with the one thing most of these launches lack — a use figure. It had taken [more than 247 applications since a soft launch in April 2026, of which 39 were validated](https://burkina24.com/2026/08/07/burkina-faso-e-agrement-officiellement-lance-pour-simplifier-les-procedures-administratives-dans-la-sante/) by the day of the official launch. The counts are the ministry's own, and the record does not explain the gap between the two.
 
 The automated traffic system's first month is measured, and the gap is collection. [19,910 offences were recorded between 1 and 31 August 2026, generating CFA146.559m in fines, of which CFA16.1m had been recovered at the review of 4 September](https://www.agenceecofin.com/actualites-numerique/0709-141342-burkina-faso-260-000-d-amendes-generes-par-la-video-verbalisation-en-un-mois). The state's answer is a body rather than a system: a [motorised police brigade created on 2 September specifically to trace drivers who evade the camera-issued fines](https://burkina24.com/2026/09/03/securite-routiere-a-ouagadougou-naissance-de-la-bricir-pour-en-finir-avec-lincivisme-sur-les-routes/). Barely a ninth of the month's fines were collected, and no appeal, error or contested-notice figure is published — which is what a reader would need to tell non-payment from wrongly-issued notices.
+
+Electronic signature is to enter administrative procedures: the ministry [set its official launch for 15 September](https://www.wearetech.africa/fr/fils/actualites/tech/burkina-faso-l-administration-passe-a-la-signature-electronique). The same day the modernisation council [heard the Prime Minister name weak citizen uptake of the digital service platforms as a persistent shortcoming](https://www.sidwaya.info/%f0%9d%90%8c%f0%9d%90%a8%f0%9d%90%9d%f0%9d%90%9e%f0%9d%90%ab%f0%9d%90%a7%f0%9d%90%a2%f0%9d%90%ac%f0%9d%90%9a%f0%9d%90%ad%f0%9d%90%a2%f0%9d%90%a8%f0%9d%90%a7-%f0%9d%90%9d%f0%9d%90%9e-%f0%9d%90%a5/), without a figure for it.
 
 ## Burundi
 
@@ -266,6 +270,8 @@ The tax authority made the fiscal clearance certificate available online from 3 
 The agency's own account of the citizen portal names what it rests on: [the government network, the government cloud storage platform, state electronic payments and digital identity](https://pt.linkedin.com/posts/atdi-ip_atdi-apresenta-portal-do-cidad%C3%A3o-e-coloca-activity-7501551667520368640-SmSp). Which of those is actually in service behind it is not stated, and no service count beyond about 140, user figure or launch date accompanies the presentation — so the dependencies are published and their readiness is not.
 
 The citizen portal put a live count beside its target: [21 services already offered against about 140 planned, the agency citing 66% of Mozambicans without identification](https://www.brasil247.com/blog/mocambique-acelera-modernizacao-do-estado-para-colocar-servicos-basicos-na-palma-do-cidadao/). The prime minister [directed the state digital certification system extended across all sectors](https://techreviewafrica.com/news/7110/mozambique-pm-urges-intic-to-expand-digital-certification-across-state-institutions).
+
+The government's own email went down: the digital agency [announced CorreioGOV restored on 14 September, with some services still restricted](https://clubofmozambique.com/news/mozambique-government-email-service-restored-after-maintenance-work/), without giving the cause or when the outage began.
 
 ## Namibia
 

@@ -1,15 +1,17 @@
 ---
 title: Rural digital data capture — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-14
+period: 2026-08-01 to 2026-09-14
 subject: digital.rural
 places: BDI; TCD; COM; CIV; COD; SWZ; GHA; GIN; KEN; LSO; LBY; MWI; MLI; MUS; NGA; SEN; SLE; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: c0a5bc48fdb1
+record: b0333cadd871
 ---
 
 # Rural digital data capture: monthly update, August – September 2026
 
 *23 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Burundi
 

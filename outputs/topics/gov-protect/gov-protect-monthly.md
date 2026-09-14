@@ -1,15 +1,17 @@
 ---
 title: Data protection — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-14
+period: 2026-08-01 to 2026-09-14
 subject: gov.protect
 places: AGO; BEN; BWA; BFA; CPV; CAF; DJI; COD; EGY; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LBR; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; UGA; ZMB; ZWE
-record: 4576e5e71368
+record: 4531d37fbf3c
 ---
 
 # Data protection: monthly update, August – September 2026
 
 *37 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Angola
 
@@ -104,6 +106,8 @@ A gap the regulator does not cover was named at the internet governance forum, w
 
 The data-protection statute exists, and has for longer than announced. A ministerial statement [presented it as signed on 19 August](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/le-liberia-adopte-les-lois-sur-la-cybercriminalite-et-la-protection-des-donnees), but [the printed Act was approved on 9 March 2026 and took effect on publication on 23 March, giving an Independent Information Commissioner 24 months for implementing rules](https://mopt.gov.lr/wp-content/uploads/2026/09/An_Act_For_The_Collection_Processing_-Transmission_-Storage_-Protection_-And_Use_Of_Personal-_Information_In_Liberia_Printed_Version_20260323_063904.pdf). No appointment, rule or registration regime under it is held.
 
+The statute's first test in public came from officials themselves: several [posted enrolment lists of children in a social protection programme to Facebook](https://frontpageafricaonline.com/liberian-officials-post-vulnerable-childrens-data-to-prove-aid-programs-work/), including home addresses, as proof the programme was real.
+
 ## Malawi
 
 A gap the repository has carried since April closed this month, though not by the route that would have settled it. The United States embassy [said Malawian biological specimens will be shared with Washington only during public health emergencies and outbreaks and that no personally identifiable information passes under the agreements](https://mwnation.com/us-insists-specimen-data-wont-be-shared/), dating the specimen-sharing agreement to 11 February 2026 inside a five-year health package valued at US$936 million. Malawi must supply requested specimens within seven days and gets priority access to any resulting diagnostics, vaccines or therapeutics only after meeting its own domestic needs - a clause Malawian health advocates call a major limitation. The instrument's own text remains withheld and in litigation, so what is now on the record is the shape of the deal and both governments' account of it, not its terms.
@@ -121,6 +125,8 @@ Interception gained its first reform instrument since the 2025 parliamentary rev
 ## Morocco
 
 The data-protection authority moved first on the election. It [set out in a communiqué of 28 August the rules binding political parties, candidates and artificial-intelligence-generated content during the campaign](https://fr.walaw.press/country/cirdi/QWSP/articles/legislatives_2026_la_cndp_encadre_l_usage_des_donnees_personnelles_et_de_l_ia_pendant_la_campagne/GPFLSXGWQQFM), having already [set out the requirements for processing personal data in the legislative elections](https://maroc.ma/fr/actualites/elections-legislatives-la-cndp-fixe-les-imperatifs-respecter-dans-le-traitement-des-donnees-caractere). Naming synthetic content in an election instrument is the notable part. The record held carries no enforcement action under it and no complaint mechanism a voter could use.
+
+Spying claims reached a prosecutor. The Casablanca prosecutor general [opened a judicial investigation on 14 September into a party leader's claim that his party's phones were monitored](https://nichan.ma/365880/), citing the conduct of the elections.
 
 ## Mozambique
 
@@ -148,6 +154,8 @@ An underground market trading national identity and bank verification numbers [s
 The commission opened a second framework alongside its enforcement work: validation of a [data privacy framework for electronic commerce, at an Abuja workshop run with the German development agency and following a private-sector session in Lagos](https://techreviewafrica.com/public/news/7060/nigeria-moves-to-enhance-data-privacy-framework-for-e-commerce). No draft text, scope, commencement date or enforcement route is published, so what exists is a consultation rather than an instrument.
 
 The consultation acquired a political timetable on 10 September, when the education minister [trailed regulation of internet access for children under 16, to be announced by the security agencies within days or weeks](https://saharareporters.com/2026/09/11/nigeria-regulate-internet-access-children-below-16-education-minister-announces). The announcement is to come from the security agencies rather than a regulator, and no draft instrument is named.
+
+The commission [moved into a new Abuja headquarters on 14 September, reporting 356 licensed compliance organisations](https://businessday.ng/news/article/nigeria-targets-200-telecom-towers-by-december-plans-new-satellite-beyond-fibre-coverage/), and its chief executive [put compliance among advertising agencies at 12.3%](https://www.cyberera.com.ng/ndpc-and-arcon-forge-synergy-to-deepen-responsible-data-processing-in-marketing/).
 
 ## Rwanda
 

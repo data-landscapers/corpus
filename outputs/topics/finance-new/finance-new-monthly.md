@@ -1,15 +1,17 @@
 ---
 title: New investments — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-14
+period: 2026-08-01 to 2026-09-14
 subject: finance.new
-places: AGO; BEN; BFA; CMR; TCD; COG; CIV; COD; EGY; SWZ; ETH; GHA; KEN; MWI; MUS; MAR; MOZ; NGA; RWA; ZAF; TZA; ZMB; ZWE
-record: 4db99b7332e3
+places: AGO; BEN; BFA; CMR; TCD; COG; CIV; COD; EGY; SWZ; ETH; GHA; KEN; MWI; MUS; MAR; MOZ; NGA; RWA; SEN; ZAF; TZA; ZMB; ZWE
+record: a491355b2e8e
 ---
 
 # New investments: monthly update, August – September 2026
 
-*23 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*24 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Angola
 
@@ -108,9 +110,15 @@ The lending frame around all of it was settled earlier in the summer and its num
 
 The month's financing arrived as a parliamentary approval rather than a disbursement. The Chamber of Deputies [approved two financing agreements worth a combined Rwf279 billion, funding national strategy measures that include broadband expansion, a labour market information system linking job seekers to employers, and technology for livestock traceability](https://www.newtimes.co.rw/article/38320/news/finance/mps-approve-rwf279bn-financing-to-boost-job-creation). Three digital lines sit inside one headline number and none of them is separately priced, so the repository can record that the money was voted and not what share of it reaches any of the three.
 
+## Senegal
+
+A US firm [announced US$300m for Senegal's digital infrastructure](https://lesoleil.sn/actualites/economie/transformation-numerique-cybastion-annonce-un-investissement-de-300-millions-de-dollars-au-senegal/), with no instrument, project or timetable behind the figure.
+
 ## South Africa
 
 One programme opened in the window, and it is not yet a commitment to anybody. On 11 August the United Kingdom [published an expression-of-interest call for a Southern Africa science and technology accelerator worth up to GBP2.5m over three years to March 2030, with up to GBP400,000 for 2026/27](https://www.gov.uk/international-development-funding/science-and-technology-accelerator-systems-sta-s-southern-africa-programme), covering artificial intelligence and emerging technologies and digital access alongside climate, energy, health and space. South Africa is the primary focus and Zimbabwe and Zambia the first year's. The fund is resourced and the delivery consortium is not chosen, so what the money buys is a matter for a contract expected later in the year.
+
+The fibre recapitalisation has a figure from its lead investor, which [put its commitment at more than R2.1bn at an aggregate R14.4bn valuation for the fibre companies](https://www.itweb.co.za/article/sa-investment-firm-ploughs-r21bn-into-digital-economy/KzQenMjyjEA7Zd2r).
 
 ## Tanzania
 

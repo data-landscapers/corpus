@@ -1,15 +1,17 @@
 ---
 title: Digital Payments and Fintech — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-14
+period: 2026-08-01 to 2026-09-14
 subject: dpi.pay
 places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: a8af14848e72
+record: 3a0e899d0f47
 ---
 
 # Digital Payments and Fintech: monthly update, August – September 2026
 
 *45 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -82,6 +84,8 @@ The revenue chain's own record came into dispute. The tax directorate [wrote to 
 Two things moved on the payment rails. The instant payment network [began crediting inbound cross-border remittances instantly at all banks operating in Egypt](https://gate.ahram.org.eg/News/5541984.aspx). And factoring, where the platform now [vets invoices before financing to enforce the ban on double-funding a receivable](https://www.dailynewsegypt.com/2026/02/08/egypts-fra-launches-digital-factoring-portal-to-curb-financing-risks), against factored paper up 77.8% in 2025 to EGP 132.2bn.
 
 The operator that builds the state's payment infrastructure also became a lender. On 13 August it [agreed the full acquisition of an Egyptian non-bank lender to small and medium firms](https://www.zawya.com/en/press-release/companies-news/efg-hermes-advises-efinance-on-strategic-acquisition-of-tamweely-financial-services-430407), extending its own infrastructure into direct lending. No consideration is disclosed in the records held, and neither states any separation between running government payment rails and holding a lending book that runs on them.
+
+Operator wallets kept growing faster than the gap closed: the telecom regulator [counted 57.01m in the first half of 2026, up 23% in a year, with 67% registered to men](https://www.youm7.com/story/2026/9/14/%D9%83%D9%8A%D9%81-%D8%BA%D9%8A%D8%B1%D8%AA-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9-%D8%B9%D8%A7%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%81%D8%B9-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1/7540929).
 
 ## Eswatini
 
@@ -296,6 +300,8 @@ The state operator took its card into a stadium. On 30 August it and the Zanziba
 Payments moved on a deadline. Retirement allowances [began paying by bank transfer and mobile money in July, and stop on 31 August for beneficiaries who have not registered payment details](https://actu-togo.tg/2026/08/04/togo-paiements-des-allocations-de-retraite-les-beneficiaires-invites-a-utiliser-le-numero-vert-8220/); no beneficiary count is published, and no alternative is stated for someone without a bank account, a handset or an identity document. The regional [deadline to connect to the instant payment platform moved from 30 June to 30 September](https://www.togofirst.com/fr/finance/0304-18641-la-bceao-fixe-au-30-juin-l-adhesion-des-operateurs-a-sa-plateforme-de-paiement-instantane-pi-spi).
 
 Elsewhere a domestic financial-technology firm founded in 2024 [runs a single platform interconnecting bank transfers, mobile wallets and dollar stablecoins, exposing payment operations to autonomous software agents](https://www.wearetech.africa/fr/fils/tech-stars/le-togolais-esso-dong-djafalo-interconnecte-banques-mobile-money-et-cryptos), with no volume, licence or customer figure stated.
+
+Certified electronic invoicing is not yet running. The revenue office [briefed about 50 firms on 10 September on a gradual rollout](https://www.togofirst.com/en/economic-governance/1409-20049-togo-s-tax-authority-employers-discuss-certified-e-invoicing-reform), and standardised paper invoices stay valid until launch.
 
 ## Tunisia
 

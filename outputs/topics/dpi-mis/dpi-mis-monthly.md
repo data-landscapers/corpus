@@ -1,15 +1,17 @@
 ---
 title: Sectoral management information systems (HMIS, EMIS, etc.) — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-14
+period: 2026-08-01 to 2026-09-14
 subject: dpi.mis
 places: DZA; AGO; BEN; BWA; BDI; CMR; CPV; CAF; COM; COG; CIV; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 8acced609edf
+record: 4fe56793b1e1
 ---
 
 # Sectoral management information systems (HMIS, EMIS, etc.): monthly update, August – September 2026
 
 *46 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -76,6 +78,8 @@ The social insurance authority reported on 3 August that it had served 8,621,000
 The health stock chain went onto one record. The procurement authority told the prime minister on 2 September that it is [building a national medical-stock database and has moved stocktaking onto a mobile scanning application, putting the system at 38,000 health-sector users, 11,000 medical facilities and 2,000 suppliers across the procurement, storage, dispensing and reconciliation cycle, with warehouses standardised by actual operating state and stock balances updating in real time](https://www.youm7.com/story/2026/9/2/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D9%8A%D8%AA%D8%A7%D8%A8%D8%B9-%D8%AA%D9%88%D8%A7%D9%81%D8%B1-%D8%A7%D9%84%D8%A3%D8%AF%D9%88%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%A9-%D8%A8%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%8A%D8%A7%D8%AA-%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9/7533639). The figures and the claim that the design meets audit and finance requirements are the authority's own; about EGP 90bn is allocated this financial year for medicines and medical supplies, and no completion date or independent audit of the system is published.
 
 Remote justice arrived with a price list. The justice ministry's [E-Court platform went live on 31 August for first-instance criminal courts, charging lawyers EGP 500 a year, EGP 500 per remote felony hearing and EGP 10 a page for case-file copies](https://manassa.news/en/news/33836); the Lawyers Syndicate calls the fees unconstitutional, and no legal basis for them is published.
+
+Remote criminal hearings opened to lawyers at a price. The justice ministry's platform [listed EGP 500 a year for felony hearings and EGP 100 for detention renewals](https://www.shorouknews.com/news/view.aspx?cdate=08092026&id=bdee860b-5577-416e-be32-2bf2085c6952), lawyers [asked the Administrative Judiciary Court to annul the fees as not set by statute](https://www.safha1.com/15703), and the ministry [replied that use is optional and was requested by the bar](https://www.youm7.com/story/2026/9/14/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B9%D8%AF%D9%84-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D8%B6%D9%8A-%D8%B9%D9%86-%D8%A8%D8%B9%D8%AF-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D9%8B%D8%A7-%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A6%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF/7546339).
 
 ## Equatorial Guinea
 
@@ -200,6 +204,8 @@ The planning ministry [launched a digital system on 8 September to monitor Natio
 The student funding scheme's administrator submitted a stabilisation plan stating that [ICT is the scheme's biggest operational risk, fragmented, manual and not fit for purpose](https://www.itweb.co.za/article/nsfas-says-ict-is-its-biggest-operational-risk/rW1xLv5ngJy7Rk6m). The same submission reports 66 major audit findings and a disclaimer audit opinion from the Auditor-General, 115 overdue internal audit findings and nine material irregularities, five of them data or systems defects. The scheme was placed under administration in May and its governance failures referred to the Special Investigating Unit.
 
 A revenue system went back to market. The home affairs department [re-advertised its revenue administration system over 275 fixed sites and 230 mobile units, replacing a generic 400-plus site listing and making point-of-sale devices and mobile offices the primary transaction channels, with only suppliers on the state IT agency's RFB 1183 transversal contract eligible to bid](https://www.itweb.co.za/article/top-ict-tenders-home-affairs-expands-revenue-admin-tender/dgp45MaBlAbqX9l8). It is a tender, not an award: no value, closing date, bidder or delivery schedule is held.
+
+The police have no single system for logging reported incidents, on the state IT agency's own tender: it [is procuring a 36-month incident management solution, bids closing 22 September](https://www.itweb.co.za/article/top-ict-tenders-sita-sees-activity-surge/lwrKx73YyZRqmg1o).
 
 ## South Sudan
 

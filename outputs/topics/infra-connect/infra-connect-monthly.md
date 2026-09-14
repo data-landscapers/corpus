@@ -1,15 +1,17 @@
 ---
 title: Connectivity — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-14
+period: 2026-08-01 to 2026-09-14
 subject: infra.connect
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: f7ca56daf31b
+record: a7117d35f58d
 ---
 
 # Connectivity: monthly update, August – September 2026
 
 *46 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -163,6 +165,8 @@ An industry survey filled a gap in the record on 5G: commercial networks opened 
 
 On the delivery side of the same programme, coordination was stepped up rather than the schedule revised: two principal secretaries began [co-chairing a standing review of the implementing agencies on 4 September, the coordination framed against a target of taking the technology industry from US$7bn to US$100bn](https://peopledaily.digital/news/govt-steps-up-digital-superhighway-implementation). No revised delivery date came with it, and 63,000km of the 100,000km fibre target remains outstanding before the 2027 deadline.
 
+One wholesale fibre entrant is leaving. Airtel [is winding up its Kenyan fibre subsidiary after two years, having returned its facilities licence](https://techweez.com/2026/09/14/fiber-airtel-kenya-telesonic-shutdown/).
+
 ## Lesotho
 
 The incumbent operator [began selling managed satellite connectivity as an enterprise service on 26 August](https://www.thereporter.co.ls/2026/08/26/vodacom-launches-satellite-broadband-for-enterprises/). For a landlocked country whose every terrestrial route to the internet crosses South Africa, it is the first international path that does not.
@@ -260,6 +264,8 @@ Katsina State [began the last-mile stage of its fibre network, the state investm
 Lagos put a figure on its own build. The state says it has [laid about 3,000km of a planned 6,000km unified fibre network between 2019 and 2025 and plans to secure 200-400MW of state-procured electricity](https://www.vanguardngr.com/2026/09/80bn-digital-economy-sanwo-olu-eyes-africas-innovation-capital/), alongside a claim of more than US$80bn in commitments to technology development. Both figures are the state's own, given at a trade exhibition, with no route, cost or independent verification published.
 
 Operators are two-thirds of the way to their site commitments: the regulator's board [recorded 8,526 of 12,179 committed coverage and capacity sites deployed, up from about 5,000 at its previous meeting](https://von.gov.ng/ncc-deploys-8526-telecom-sites-vows-to-end-call-masking/), and blamed fibre cuts for a sharp rise in June disruptions.
+
+The tower programme set a first milestone and the satellite programme a first contract. The ministry [said at least 200 towers will be live by December](https://businessday.ng/news/article/nigeria-targets-200-telecom-towers-by-december-plans-new-satellite-beyond-fibre-coverage/), and Thales Alenia Space [signed to build NigComSat-2A](https://www.thalesaleniaspace.com/en/press-releases/thales-alenia-space-wins-nigcomsat-contract-build-nigcomsat-2a-geostationary). A [second virtual network operator began commercial service](https://techcabal.com/2026/09/14/lebara-launches-nigerias-second-commercial-mvno-network/).
 
 ## Rwanda
 

@@ -1,15 +1,17 @@
 ---
 title: Strategies, plans and policies — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-14
+period: 2026-08-01 to 2026-09-14
 subject: gov.policy
 places: DZA; BFA; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; GMB; GHA; GIN; GNB; KEN; LSO; LBY; MWI; MLI; MRT; MUS; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 72fc4e2ac090
+record: 1ab8e88f4656
 ---
 
 # Strategies, plans and policies: monthly update, August – September 2026
 
 *42 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -157,6 +159,8 @@ An [Artificial Intelligence and Cyber Diplomacy Unit sits inside the foreign min
 Two coordination bodies were constituted in August, one with a deadline that tells you what it is. The Head of Service [inaugurated an eleven-member technical working committee to coordinate the federal civil service's cabinet-approved digital transformation agenda, tasked with drafting the architecture, roadmap and governance mechanisms within one week](https://www.thisdaylive.com/2026/08/17/hos-inaugurates-technical-working-committee-on-digital-transformation-agenda/) ahead of a steering committee; no terms of reference, budget or publication commitment is stated. And a national strategy for the digital transformation of technical and vocational education was [validated at an Abuja workshop by UNESCO, the education ministry and the technical education board](https://www.thisdaylive.com/2026/08/12/unesco-fg-nbte-seek-human-centred-digital-transformation-of-nigerias-technical-vocational-education-training-system/), which named connectivity, teacher digital competency, financing and coordination as the gaps to close before implementation. Validated is not adopted, and neither text is held.
 
 The month's substantive instrument is the cloud policy. On 17 August the communications ministry [issued a National Digital Cloud Policy](https://fmcide.gov.ng/federal-government-unveils-national-digital-cloud-policy-to-drive-investment-digital-sovereignty-and-government-transformation/) superseding the 2019 cloud policy, in force on publication apart from its sovereignty provisions, which await presidential approval. It makes cloud the default for new federal systems, with [time-bound exemptions assessed by the IT development agency against published criteria and held in a register](https://techcabal.com/2026/08/18/nigerias-new-cloud-policy-puts-government-at-the-centre-of-its-cloud-market/); pools ministry demand through the government infrastructure company into framework agreements bought on a National Digital Marketplace, with the procurement bureau overseeing compliance; and [sorts government and regulated data into four levels — national-security data hosted only in Nigeria, financial, health, biometric and identity data stored at rest in Nigeria, internal operational records hybrid by prior authorisation, and public data unrestricted](https://techcabal.com/2026/08/18/nigerias-new-cloud-policy-puts-government-at-the-centre-of-its-cloud-market/). Commercial data carries no general localisation duty, and a regulator has to apply for a category to be designated sovereign. The [ministry states the 2019 Cloud First principle was applied unevenly for want of a coordinating framework](https://fmcide.gov.ng/federal-government-unveils-national-digital-cloud-policy-to-drive-investment-digital-sovereignty-and-government-transformation/), which is what the aggregation, marketplace, provider registration and compliance machinery is for. The policy text carries no published canonical link, and its relationship to the draft National Policy on Data and Cloud — five years in draft — is not stated.
+
+The cloud programme gained its investment case: the agency's [strategy, dated August, offers investors an Approval in Principle pathway with government as anchor customer](https://nitda.gov.ng/wp-content/uploads/2026/08/NITDA26-CLOUD-INV-STRATEGY-2025-FN-1.pdf).
 
 ## Rwanda
 

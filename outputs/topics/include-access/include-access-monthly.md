@@ -1,15 +1,17 @@
 ---
 title: Access to services — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-14
+period: 2026-08-01 to 2026-09-14
 subject: include.access
 places: DZA; AGO; BWA; BDI; CMR; CAF; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NAM; NER; NGA; STP; SEN; SYC; SLE; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 9196b325d903
+record: 46908bc91557
 ---
 
 # Access to services: monthly update, August – September 2026
 
 *42 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -92,6 +94,8 @@ What firms say they need is not more hubs but a network that stays up. At a Mbab
 The month's movement on access is participation rather than service. The National Dialogue Commission [reports that its conference ran from 15 July to 22 August 2026, with around 4,000 participants deliberating eight national agenda items and recommendations submitted to the Commission](https://ethiondc.org.et/en/national-dialogue-conference-concludes-successfully/). It is the Commission's own account, and nothing in the record held states which recommendations were taken up. Nothing moved this month on digital access to public services, on refugee inclusion or on device affordability.
 
 The corridor programme put training against formalisation rather than connectivity. [Forty women traders took export-readiness training at Bishoftu on 30 and 31 July 2026 under a EUR 32m European corridor programme, covering business formalisation, product standards, export documentation and customs procedure, against a stated 94% of the traders concerned operating unlicensed](https://horneconomicreview.com/2026/09/03/from-export-readiness-to-market-access-eu-backed-support-strengthens-womens-participation-in-trade-along-the-djibouti-ethiopia-corridor/). That [94%](https://horneconomicreview.com/2026/09/03/from-export-readiness-to-market-access-eu-backed-support-strengthens-womens-participation-in-trade-along-the-djibouti-ethiopia-corridor/) is the programme's characterisation of its own target group rather than a national measure, and no digital component of the corridor programme is separately costed.
+
+Mobile-industry research [found refugee women twice as likely as men to have their SIM registered in someone else's name](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/blog/closing-the-digital-divide-for-refugee-women-means-understanding-their-full-experience-of-connectivity/).
 
 ## Gabon
 
@@ -213,6 +217,8 @@ Access got dearer and the machinery for questioning it got weaker, in the same w
 
 Access moved for a group the digital estate rarely reaches. The central bank [launched Braille editions of its publications in Dar es Salaam on 20 August](https://www.mwananchi.co.tz/mw/habari/biashara/bot-yazindua-machapisho-ya-nukta-nundu-kwa-wasioona-5564948). It is a print accommodation rather than a digital one, and no equivalent screen-reader or accessible-format commitment for the bank's online material is on the record.
 
+Mobile-industry research [found identity requirements for SIM registration leave refugee women registering lines through local citizens or intermediaries](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/blog/closing-the-digital-divide-for-refugee-women-means-understanding-their-full-experience-of-connectivity/).
+
 ## Togo
 
 A service was built for people who cannot rely on a connection. A pilot of LébéNam, [an offline-capable platform for reporting gender-based violence and routing victims to the nearest care point](https://www.afrikelles.tg/lebenam-linnovation-numerique-au-service-de-la-lutte-contre-les-vbg/), was run this month. Designing for intermittent connectivity is the notable part; no case volume, coverage or referral outcome is in the record held.
@@ -232,6 +238,8 @@ An [ICT hub for persons with disabilities was commissioned in Kasese](https://ni
 The commercial route to a connected device is credit. Buy-now-pay-later schemes run by five providers [put smartphones in the hands of more than 500,000 Ugandans in a year, against about 22% of Ugandans using mobile internet despite 96% network coverage, with financed devices costing 30 to 50% more than the cash price](https://pctechmag.com/2026/08/can-device-financing-solve-the-problem-of-smartphone-penetration/). It is a trade analysis rather than a regulator series, and no default, repossession or total-cost-of-credit figure is published for the schemes.
 
 A six-year donor digital-inclusion programme [ended, with stakeholders urging the government to take over what it was doing](https://www.pulse.ug/story/uncdf-digital-inclusion-uganda-government-takeover-2026082616160487381). No successor instrument, budget line or transfer of assets is on file, which makes the closure a stated exposure rather than an inference.
+
+Mobile-industry research [put internet use at about a quarter of refugee women against about half of refugee men](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/blog/closing-the-digital-divide-for-refugee-women-means-understanding-their-full-experience-of-connectivity/), with device and data costs the main barrier.
 
 ## Zambia
 

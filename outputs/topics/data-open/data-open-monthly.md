@@ -1,15 +1,17 @@
 ---
 title: Open data — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-14
+period: 2026-08-01 to 2026-09-14
 subject: data.open
 places: BEN; BFA; CPV; TCD; COM; DJI; COD; GAB; GMB; GHA; GIN; LBR; LBY; MDG; MLI; MUS; MAR; NAM; NGA; SEN; SOM; TZA; TUN; ZWE
-record: 9b544704aaa3
+record: fe67152e644c
 ---
 
 # Open data: monthly update, August – September 2026
 
 *24 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Benin
 

@@ -1,15 +1,17 @@
 ---
 title: Digitalisation of sub-national government — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-14
+period: 2026-08-01 to 2026-09-14
 subject: digital.localgov
-places: AGO; BFA; BDI; CMR; GHA; GNB; LBY; MWI; MLI; NAM; NGA; RWA; SEN; ZAF; SDN; TZA; TGO; UGA; ZMB; ZWE
-record: 16f06194b06f
+places: AGO; BFA; BDI; CMR; GHA; GNB; LBY; MWI; MLI; NAM; NGA; RWA; SEN; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: ea95172002f3
 ---
 
 # Digitalisation of sub-national government: monthly update, August – September 2026
 
-*20 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*21 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Angola
 
@@ -96,6 +98,10 @@ The mandatory project-records system produced a throughput figure for the first 
 ## Togo
 
 A commune of Greater Lome began building the kind of register a municipality has not had. Golfe 2 [launched a georeferenced census of households, businesses and taxpayers on 11 August, running to 10 October](https://www.republicoftogo.com/toutes-les-rubriques/politique/une-connaissance-plus-precise-du-territoire-communal), to build a secure municipal database. No data-protection basis, custodian, retention rule or access arrangement is stated for a file that ties households, businesses and tax position to a location.
+
+## Tunisia
+
+The capital [began taking building-permit applications through the national platform on 14 September](https://www.assabahnews.tn/ar/الاخبار/وطنية/154018-بلدية-تونس-الشروع-في-اعتماد-المنصة-الرقمية-تعمير-لايداع-ومتابعة-ملفات-رخص-البناء), without closing the paper route.
 
 ## Uganda
 

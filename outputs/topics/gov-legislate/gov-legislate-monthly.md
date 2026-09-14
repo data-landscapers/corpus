@@ -1,15 +1,17 @@
 ---
 title: Legislation and regulation — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-14
+period: 2026-08-01 to 2026-09-14
 subject: gov.legislate
 places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; TCD; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; UGA; ZWE
-record: 8f96b13091c3
+record: 3cdbe76fb61d
 ---
 
 # Legislation and regulation: monthly update, August – September 2026
 
 *41 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -221,6 +223,8 @@ The civil-status reforms are being explained rather than amended. The national a
 
 Online media are to be brought under dedicated rules: the Council of Ministers [adopted a draft ordinance on the electronic press and a decree on accrediting foreign correspondents on 10 September](https://www.gouv.ne/index.php/les-communiques-du-gouvernement/1303-conclusions-du-conseil-des-ministres-du-jeudi-10-septembre-2026).
 
+The online press answered the draft ordinance in its own name: fourteen editors [welcomed the text on 13 September and asked to be consulted on the rules that will apply it](https://actuniger.com/societe/22346-presse-en-ligne-au-niger-les-editeurs-saluent-le-projet-de-loi-et-plaident-pour-une-mise-en-oeuvre-concertee.html).
+
 ## Nigeria
 
 On 29 July a claimant won the [first damages award](https://saharareporters.com/2026/08/01/court-slams-stanbicibtc-over-data-privacy-breach-awards-ex-customers-n15million-orders) under the Act — ₦15m, ₦500,000 costs and 10% post-judgment interest — against a bank that kept marketing after consent was withdrawn. Liability rested on three instruments at once. The court also held that personal data must be erased on termination but refused wholesale deletion where statutory banking and anti-money-laundering retention applies.
@@ -233,6 +237,8 @@ The bench put its own view on the record. Fifty-four judicial officers [adopted 
 The [ECOWAS Community Court of Justice held that access to the internet is a right within the right to freedom of expression](https://citizenshipdaily.com/ecowas-court-declares-internet-access-a-right-awards-journalist-n10-million-against-fg/), and ordered Nigeria to pay N10 million to the journalist Jide Oyekunle over his assault, detention and phone seizure while covering a protest. The court traced the holding to two of its own earlier judgments, which makes this a settled regional position rather than a first ruling; nothing on file records compliance or payment.
 
 The securities regulator's draft virtual-asset rules were reported in fuller detail on 31 August. They would [require customer assets to be segregated from a firm's own with 80 per cent held offline, minimum paid-up capital of N2bn for digital-asset exchanges and custodians, a fidelity insurance bond covering at least 25 per cent of the applicable minimum, material incidents notified within 24 hours and reported in detail within 48, and SEC approval before a foreign-issued stablecoin may be listed](https://techcabal.com/2026/08/31/nigeria-sec-wants-digital-asset-firms-to-store-80-of-customer-funds-offline/). No commencement date or transition period is stated.
+
+The platform penalty moved toward a deal: Meta [is negotiating a settlement with the commission after a first appeal was rejected](https://www.africaintelligence.fr/afrique-ouest/2026/09/14/apres-son-amende-de-220-millions-de-dollars-meta-tente-de-negocier-un-compromis-avec-abuja,110876270-art), on a single paywalled account.
 
 ## Rwanda
 

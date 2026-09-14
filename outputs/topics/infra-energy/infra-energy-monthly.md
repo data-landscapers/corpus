@@ -1,15 +1,17 @@
 ---
 title: Energy — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-14
+period: 2026-08-01 to 2026-09-14
 subject: infra.energy
 places: BWA; BFA; BDI; CMR; CAF; TCD; COM; ETH; GMB; GHA; KEN; LSO; LBY; MDG; MWI; MUS; MOZ; SLE; ZAF; SSD; UGA; ZMB; ZWE
-record: 4d8b87d9cd9d
+record: 52f99ea71640
 ---
 
 # Energy: monthly update, August – September 2026
 
 *23 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Botswana
 
@@ -100,6 +102,8 @@ It closes a build programme rather than opening one: the last unit of the two fl
 Two connections completed in one week. A project [connecting more than 400 customers in the border town of Nimule](https://www.eyeradio.org/400-customers-connected-as-nimule-electrification-project-launches/) on imported Ugandan power launched on 15 August, and two days later government and a development agency handed over a [150 kWp solar plant with 200 kWh of battery storage giving continuous power to the Aweil Regional Reference Laboratory](https://www.undp.org/south-sudan/news/government-undp-launch-17m-aweil-reference-lab-solar-system-and-incinerator-funded-global-fund) in Northern Bahr el Ghazal.
 
 The larger supply picture moved too: the energy minister reported on 18 August that [transmission works are advancing to bring Ugandan hydropower to Juba through Nimule](https://www.eyeradio.org/juba-set-to-receive-karuma-hydropower-by-late-2026-says-energy-minister/), with a distribution substation already built at Nesitu. Against a rural population almost entirely unserved, four hundred customers is the scale of what completed.
+
+The operator [reported more than 500 sites modernised with solar-hybrid power, diesel use at them down by more than half and population broadband coverage at 85%%](https://techafricanews.com/2026/09/14/mtn-south-sudan-expands-network-coverage-to-85-percent-through-infrastructure-modernisation/), on its own account.
 
 ## Uganda
 

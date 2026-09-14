@@ -1,15 +1,17 @@
 ---
 title: Data Exchange — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-14
+period: 2026-08-01 to 2026-09-14
 subject: dpi.exchange
 places: DZA; AGO; BEN; BWA; BFA; CMR; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: b5dca2799fd9
+record: 52da4dedffe4
 ---
 
 # Data Exchange: monthly update, August – September 2026
 
 *44 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -22,6 +24,8 @@ A second unified path was proposed on 3 September. A working meeting at the digi
 ## Angola
 
 The public-administration digital infrastructure contract [entered execution on 31 July](https://lidermagazine.ao/revolucao-digital-em-marcha-ima-inicia-projecto-que-vai-mudar-a-administracao-publica/), the point at which a signed instrument becomes a build. No component list, milestone schedule or completion date accompanies the start.
+
+The land-concession single window is moving to the provinces: the cadastral institute [trained Huambo's municipal administrations on its procedures on 14 September](https://angop.ao/noticias/sociedade/governo-do-huambo-moderniza-praticas-de-gestao-de-direitos-fundiarios/), under [the 2025 decree that created it](https://lex.ao/docs/presidente-da-republica/2025/decreto-presidencial-n-o-84-25-de-16-de-abril/).
 
 ## Benin
 

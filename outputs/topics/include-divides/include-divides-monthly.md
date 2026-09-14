@@ -1,15 +1,17 @@
 ---
 title: Digital divides — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-14
+period: 2026-08-01 to 2026-09-14
 subject: include.divides
 places: AGO; BWA; BDI; COD; EGY; SWZ; GMB; GHA; GNB; KEN; MWI; MOZ; NER; NGA; SEN; ZAF; UGA
-record: 4a82f0576a91
+record: a850d963df2e
 ---
 
 # Digital divides: monthly update, August – September 2026
 
 *17 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Angola
 

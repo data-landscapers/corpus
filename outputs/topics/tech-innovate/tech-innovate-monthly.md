@@ -1,15 +1,17 @@
 ---
 title: Innovation ecosystem — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-14
+period: 2026-08-01 to 2026-09-14
 subject: tech.innovate
 places: DZA; AGO; BWA; BFA; CMR; CPV; COM; CIV; COD; EGY; ERI; SWZ; GAB; GMB; GHA; GIN; KEN; LBR; MLI; MAR; NAM; NER; NGA; RWA; SYC; SLE; ZAF; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: bad38c4d6159
+record: 69be48e61954
 ---
 
 # Innovation ecosystem: monthly update, August – September 2026
 
 *33 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 

@@ -1,15 +1,17 @@
 ---
 title: Training and skills — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-14
+period: 2026-08-01 to 2026-09-14
 subject: capacity.training
 places: DZA; AGO; BEN; BDI; CMR; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: bd0d004482b2
+record: d44180c6573f
 ---
 
 # Training and skills: monthly update, August – September 2026
 
 *44 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -89,6 +91,8 @@ Training capacity was the month's activity, and it reached the degree itself: th
 
 The coders programme published its funnel rather than a headline for the first time: [141,954 registered accounts, 27,782 admitted learners and 5,812 logged course completions as at 2 August 2026, cybersecurity the largest track at 8,570](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/), with 30,444 admitted through one commercial platform, 10,143 through a second and 24,394 learners self-paced. Registration is not admission and admission is not completion, and it is the ratio between them rather than any one number that measures the programme against its target of a million.
 
+The coders programme is to reach first-year degrees: the minister [said 12 universities have signed memoranda to carry its courses in Level 100](https://www.myjoyonline.com/digital-skills-training-producing-solution-driven-youth-for-ghanas-future-sam-george/).
+
 ## Kenya
 
 The 117th digital hub was [commissioned in Baringo on 20 July](https://techafricanews.com/2026/07/20/kenya-launches-117th-jitume-digital-hub-to-expand-digital-access-in-baringo-county/) on the ceremony series, against a separate installed-base series of about 350 that the programme's own officials also use.
@@ -160,6 +164,8 @@ Two university facilities moved within three days. Dosso [called for projects to
 ## Nigeria
 
 A [diaspora health-workforce registry is described as newly launched](https://fmino.gov.ng/fg-commends-nigerian-health-professionals-in-diaspora-for-strengthening-healthcare-delivery/), with no launch date, custodian agency, enrolment terms or data-protection basis stated in anything held — a register standing up ahead of its governance.
+
+The federal training academy [launched on 14 September with more than N10.5bn committed for over 32,000 trainees](https://www.thisdaylive.com/2026/09/14/fg-invests-n10-5bn-in-digital-training-academy-to-equip-over-32000-nigerians/).
 
 ## Rwanda
 
