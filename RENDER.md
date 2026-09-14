@@ -307,6 +307,14 @@ in it is the list, and adding a fifth page means a row there and a content file,
 nothing else. It writes no edition and nothing here is citable, so it is safe to
 run on its own after an edit to `content/` — which is the usual reason to run it.
 
+## Step 6d — the sitemap
+
+```bash
+python scripts/sitemap.py         # -> site/sitemap.xml + site/robots.txt
+```
+
+**Last of the writers, because it reads the tree the others left.** Every HTML page under its own canonical address; a redirect or a page canonical to somewhere else is left out. Both files are rewritten only when their bytes change. The script's header is the description.
+
 ## Step 7 — verify, commit, deploy
 
 **Check that every link leaving the site opens a new tab, before the push and not after.** It is the one page-wide property nothing else asserts: `target` is one attribute among 55,000 anchors, and a builder that stopped applying it looks exactly like a page nobody edited.

@@ -1600,6 +1600,7 @@ PAGE = """<!DOCTYPE html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Catalogue — Data Landscapers</title>
 <meta name="description" content="The Data Landscapers catalogue: every source held in the repository, metadata only, each record linking to its publisher.">
+<link rel="canonical" href="https://corpus.data-landscapers.io/catalogue/">
 <link rel="icon" href="{favicon}">
 {styles}
 {ga}
