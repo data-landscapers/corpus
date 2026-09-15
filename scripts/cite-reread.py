@@ -168,8 +168,9 @@ def worksheet(unit, ctx):
                             w.append(f"**Finance row:** {r.get('recipient_country')} · {r.get('financier')} · {r.get('instrument')} · {r.get('original_amount')} · US${r.get('commitment_usd_m')}m · {r.get('start_year')}-{r.get('end_year')} · {r.get('status')} · {r.get('title')}")
                     elif url in dpi:
                         counts["dpi"] += 1
-                        for r in dpi[url][:3]:
-                            w.append(f"**AfDB dataset:** {r.get('Country')} · {r.get('Variable Name')} · {r.get('Value Name')} ({r.get('Year')}) — {(r.get('Comments') or '')[:400]}")
+                        own = [r for r in dpi[url] if r.get("Country") == unit] or dpi[url]
+                        for r in own[:4]:
+                            w.append(f"**AfDB dataset:** {r.get('Country')} · {r.get('Variable Name')} · {r.get('Value Name')} ({r.get('Year')}) — {r.get('Comments') or ''}")
                     elif url in iiag:
                         counts["iiag"] += 1
                         w.append("**Ibrahim Index profile** — check against the held IIAG profile record for this country if the catalogue carries one")
@@ -208,6 +209,13 @@ def apply(unit):
     if not tot:
         raise SystemExit(f"{unit}: summary carries no TOTALS line")
     counts = dict(kv.split("=") for kv in tot[-1][len("TOTALS:"):].split())
+    wr = os.path.join(HERE, ".workroot")
+
+    def register_lines():
+        _, reg = run([sys.executable, "scripts/report-register-check.py", "--unit", unit], cwd=wr)
+        return {re.sub(r":\d+\s", " ", ln.strip()) for ln in reg.splitlines() if re.match(r"\s+outputs.*\[", ln)}
+
+    before = register_lines()
     code, out = run([sys.executable, patch])
     print(out.strip()[-1500:])
     if code:
@@ -218,15 +226,15 @@ def apply(unit):
         print(out)
         run(["git", "checkout", "--", f"outputs/reports/{unit}"])
         raise SystemExit(f"{unit}: gate failed, reverted: {bad}")
-    wr = os.path.join(HERE, ".workroot")
     run([sys.executable, "scripts/report-render.py", "--unit", unit, "--render", "--doc", "all"], cwd=wr)
     code, out = run([sys.executable, "scripts/report-render.py", "--unit", unit, "--check"], cwd=wr)
     fails = [ln.strip() for ln in out.splitlines() if "FAIL" in ln]
-    code, reg = run([sys.executable, "scripts/report-register-check.py", "--unit", unit], cwd=wr)
-    hits = [ln.strip() for ln in reg.splitlines() if re.match(r"\s+outputs.*\[", ln)]
-    print(f"{unit}: status gate PASS; render check {'FAIL ' + str(fails) if fails else 'PASS'}; register lines: {len(hits)}")
-    for h in hits:
+    # A register hit or band breach the patch introduced is the patch's to fix, not the floor's.
+    new_hits = sorted(register_lines() - before)
+    print(f"{unit}: status gate PASS; render check {'FAIL ' + str(fails) if fails else 'PASS'}; new register/band lines: {len(new_hits)}")
+    for h in new_hits:
         print("   ", h)
+    fails = fails + new_hits
     rows = progress()
     for r in rows:
         if r["unit"] == unit:
@@ -238,7 +246,7 @@ def apply(unit):
         w = csv.DictWriter(fh, fieldnames=list(rows[0].keys()), lineterminator="\n")
         w.writeheader(); w.writerows(rows)
     if fails:
-        raise SystemExit(f"{unit}: report-render check failed — fix before committing; progress row written")
+        raise SystemExit(f"{unit}: render check or new register/band lines — fix before committing; progress row written, nothing committed")
     run(["git", "add", f"outputs/reports/{unit}", "logs/cite-reread-progress.csv"])
     msg = (f"CITE-REREAD {unit}: {repaired} claims repaired over {counts.get('held_checked')} held links\n\n"
            "Co-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>\n"
