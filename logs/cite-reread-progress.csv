@@ -2,7 +2,7 @@ unit,state,date,links,held_checked,claims_repaired,note
 AGO,owed,,,,,
 BDI,owed,,,,,
 BEN,done,2026-09-15,359,359,120,"supported 191, coarsened 101, relinked 9, dropped 10, gateway 48, not held 0"
-BFA,owed,,,,,
+BFA,done,2026-09-15,347,347,108,"supported 220, coarsened 82, relinked 18, dropped 8, gateway 19, not held 0"
 BWA,done,2026-09-15,312,312,138,"supported 174, coarsened 115, relinked 17, dropped 6, gateway 0, not held 0"
 CAF,done,2026-09-15,295,249,90,"supported 159, coarsened 62, relinked 17, dropped 11, gateway 46, not held 0"
 CIV,owed,,,,,
