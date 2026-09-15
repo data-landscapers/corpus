@@ -82,7 +82,7 @@ def load_catalogue():
     with open(os.path.join(REPO, "outputs", "catalogue", "catalogue-internal.csv"), encoding="utf-8-sig", newline="") as fh:
         for r in csv.DictReader(fh):
             for v in status_lib._variants(r["url"].strip()):
-                cat[v] = r["slug"]
+                cat.setdefault(v, []).append(r["slug"])   # a URL can carry two held records
     return cat
 
 
@@ -132,10 +132,8 @@ def worksheet(unit, ctx):
                     w.append(f"### ¶{pi}.{si} — {url}")
                     w.append(f"**Link text:** {m.group(1)}")
                     w.append(f"**Sentence:** {claim}")
-                    if url in cat:
-                        s = cat[url]
+                    for s in cat.get(url, []):
                         rp = raw.get(s)
-                        counts["held"] += 1
                         if not rp:
                             w.append(f"**Held:** `{s}` — body file not found under raw/")
                         else:
@@ -150,6 +148,8 @@ def worksheet(unit, ctx):
                                 w.append(f"**Figures not in source:** {', '.join(missing)}")
                             for p in ps or ["(no passage matched the claim's figures or names)"]:
                                 w.append(f"> {p}")
+                    if url in cat:
+                        counts["held"] += 1
                     elif url in fin:
                         counts["finance"] += 1
                         for r in fin[url][:3]:
