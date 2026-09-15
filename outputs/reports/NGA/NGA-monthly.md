@@ -1,11 +1,11 @@
 ---
 title: Nigeria — monthly update, August – September 2026
-compiled: 2026-09-14
-period: 2026-08-01 to 2026-09-14
+compiled: 2026-09-15
+period: 2026-08-01 to 2026-09-15
 place: NGA
-ledger_rows: 188
+ledger_rows: 189
 not_held: 9
-record: fc9907814234
+record: d388f1f25861
 ---
 
 # Nigeria: monthly update, August – September 2026
@@ -141,6 +141,8 @@ Lagos put a figure on its own build. The state says it has [laid about 3,000km o
 Operators are two-thirds of the way to their site commitments: the regulator's board [recorded 8,526 of 12,179 committed coverage and capacity sites deployed, up from about 5,000 at its previous meeting](https://von.gov.ng/ncc-deploys-8526-telecom-sites-vows-to-end-call-masking/), and blamed fibre cuts for a sharp rise in June disruptions.
 
 The tower programme set a first milestone and the satellite programme a first contract. The ministry [said at least 200 towers will be live by December](https://businessday.ng/news/article/nigeria-targets-200-telecom-towers-by-december-plans-new-satellite-beyond-fibre-coverage/), and Thales Alenia Space [signed to build NigComSat-2A](https://www.thalesaleniaspace.com/en/press-releases/thales-alenia-space-wins-nigcomsat-contract-build-nigcomsat-2a-geostationary). A [second virtual network operator began commercial service](https://techcabal.com/2026/09/14/lebara-launches-nigerias-second-commercial-mvno-network/).
+
+Rural connectivity was folded into the electrification programme. A rural infrastructure company [secured a World Bank-backed results-based facility to deploy 2G, 4G, broadband and community Wi-Fi in 500 unserved and underserved communities under the US$750m DARES programme with the Rural Electrification Agency](https://punchng.com/hotspot-secures-world-bank-facility-for-500-communities/). The account rests on documents seen by one newspaper and gives no facility amount or signing date.
 <!-- /narrative -->
 ### Data Storage
 

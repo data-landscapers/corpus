@@ -1,11 +1,11 @@
 ---
 title: South Africa — monthly update, August – September 2026
-compiled: 2026-09-14
-period: 2026-08-01 to 2026-09-14
+compiled: 2026-09-15
+period: 2026-08-01 to 2026-09-15
 place: ZAF
-ledger_rows: 156
+ledger_rows: 159
 not_held: 23
-record: 10df07ef1180
+record: 24f10b21cc07
 ---
 
 # South Africa: monthly update, August – September 2026
@@ -96,6 +96,8 @@ One date the state does not have is the oldest. The communications department [t
 Two things arrived on 7 September that answer the same question from opposite ends. A development bank and planning commission study [costs universal, meaningful household broadband at about R140bn under least-cost deployment and well above R200bn under fibre-led scenarios, or R108bn to R142bn in 2025 real terms depending on the economic scenario](https://www.nationalplanningcommission.org.za/assets/Documents/SA%20Digital%20Infrastructure%20Investment%20Study.pdf), built on a 0.76 square-kilometre hexagonal-grid mapping exercise against the 2030 development plan and the 2050 infrastructure plan. It is a costing with no appropriation, delivery vehicle or commencement attached to any scenario, and it lands beside a national broadband map launched in March and still not published. Meanwhile the price of what is already built moved the wrong way: the competition authority puts [wired internet up 3.5% and wireless up 4.1% over the first half of 2026, against cumulative headline inflation of 3.8%](https://www.itweb.co.za/article/sas-internet-costs-climb-but-other-bills-rise-faster/mYZRXv9gbykMOgA8) — a reversal of the six years to July 2026, in which wired rose 18.6% and wireless 6.4% against headline inflation of 36%, and the first period in which a service the authority treats as essential outran the basket.
 
 On the resilience the 2025 double break exposed, the state-affiliated wholesaler [completed a third Cape Town to Pretoria route via Springbok and Mahikeng](https://www.businessday.co.za/companies/2026-09-07-openserve-completes-third-fibre-route-to-reduce-network-outage-risk/), inside a wholesale network of about 180,000km carrying just under R3bn of capital expenditure a year. No capacity or diversity measure is published for the new path.
+
+The British-funded community network programme launched in August put figures on itself: [R7m for 25 local community network operators in KwaZulu-Natal to deploy 250 public Wi-Fi hotspots, connect 150 public facilities and reach 1,500 homes](https://www.itweb.co.za/article/woan-comeback-in-kzn-with-r7m-uk-funding/VgZeyvJlpkBMdjX9), on the shared open-access model the national wireless network was to use before it was put on hold. All three are targets.
 <!-- /narrative -->
 ### Data Storage
 
@@ -215,6 +217,8 @@ The month's longest departmental procurement went to the least connected populat
 The social security agency [opened a messaging self-service channel letting a grant beneficiary check application status, review status and proof-of-life verification without visiting an office, after verification by mobile number, one-time PIN and identity number](https://www.citizen.co.za/alberton-record/news-headlines/local-news/2026/08/28/sassa-rolls-out-whatsapp-self-service-for-grant-beneficiaries/); no usage figure is published.
 
 The nomination dispute reached the system's own record. The electoral commission's [audit trail shows no system activity in two of the six disputed councils in the final two hours before the deadline, and 2,274 candidates from 45 parties captured but never submitted as final](https://www.dailymaverick.co.za/article/2026-09-11-iec-audit-trail-challenges-ancs-claim-of-technical-problems/), against the governing party's account that technical problems stopped its operators.
+
+At the border, the Border Management Authority [introduced a Port Health Management System at Durban Harbour on 15 September, replacing shipping agents' e-mailed requests with online service requests, inspections, free pratique applications, endorsements, invoicing and payment](https://www.itweb.co.za/article/bma-replaces-e-mail-with-digital-port-system/P3gQ2qGAlky7nRD1). Durban is the pilot site, and no date is given for other ports.
 <!-- /narrative -->
 
 ## Digitalisation
@@ -249,6 +253,8 @@ Two smaller items sit at the other end of the same subject. A robotics firm [ope
 An existing statute was asserted against a new practice rather than a new rule being made. Provincial police warned that [creating and sharing artificial-intelligence face-swap images of oneself in police uniform can breach section 68 of the South African Police Service Act 68 of 1995, which makes impersonating a police official an offence](https://www.itweb.co.za/article/saps-sounds-alarm-over-ai-generated-police-images/lwrKx73YyNOqmg1o). It is a provincial warning with no case, charge or takedown route behind it — and the only enforcement position the repository holds on synthetic imagery.
 
 Two forward-looking statements arrived with nothing built behind them: a market forecast that [80% of governments will use artificial-intelligence agents by 2028, with the revenue service exploring digital twinning in tax processing](https://sundayworld.co.za/technology/ai-agents-could-change-face-of-service-delivery/), and a deputy minister's framing of inclusion as [connection, capability and command — the third being who builds and shapes the technology rather than who reaches it](https://www.sanews.gov.za/south-africa/call-inclusive-approach-ai-revolution), at a first summit on youth, artificial intelligence and the future of work. Neither carries a programme, budget or date.
+
+The state airports company [set a five-year plan to 2031 to bring AI into check-in, security, baggage handling and parking, with terminal patrol robots and a metaverse proof of concept in its first year, tied to a R21.7bn capital pipeline that also covers wider infrastructure modernisation](https://www.itweb.co.za/article/acsa-bets-r217bn-on-metaverse-patrol-robots/5yONP7ErVkeMXWrb). The pipeline is not broken down.
 <!-- /narrative -->
 ### ICT Industry
 
@@ -303,6 +309,8 @@ The state's own IT agency was told why it cannot deliver. The Public Service Com
 The grant-review audit reached [105,600 of 352,000 targeted reviews with an estimated R450-million saved](https://www.dailymaverick.co.za/article/2026-08-24-sassa-grant-reviews-strand-vulnerable-south-africans-in-systemic-chaos/), while suspending lawful beneficiaries' payments without effective notice. The saving is the agency's own estimate; the suspensions are reported against it.
 
 Two feedback channels were in view in September, one state and one civil. The [Presidential Hotline, running since September 2009 on the state IT agency's case-management platform, was under oversight review on 9 September](https://www.sanews.gov.za/south-africa/mohai-conducts-oversight-visit-presidential-hotline-call-centre) with automation on the agenda, and the [ParliMeter platform tracking MP attendance, bills, committees and ministerial answers passed to the Parliamentary Monitoring Group as its EU-funded phase closed](https://myza.co.za/parlimeter-enters-its-next-chapter/). Neither publishes a resolution rate or usage figure.
+
+A private referral app linking rural health workers with specialist doctors [passed three million patients referred](https://www.wearetech.africa/fr/fils/breves/breves-simple/afrique-du-sud-la-plateforme-vula-franchit-le-cap-des-3-millions-de-patients), a cumulative count across five southern African countries with no split for South Africa.
 <!-- /narrative -->
 ### Digital divides
 

@@ -1,11 +1,11 @@
 ---
 title: Malawi — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-15
+period: 2026-08-01 to 2026-09-15
 place: MWI
-ledger_rows: 54
+ledger_rows: 55
 not_held: 38
-record: 4b7c7ecaad69
+record: b157db32eaf0
 ---
 
 # Malawi: monthly update, August – September 2026
@@ -76,6 +76,8 @@ The ICT minister told Parliament that [additional mobile operator licences are u
 The gap the licensing round is meant to close acquired figures in August. An industry association report published ahead of its Malawi summit on 20 August [puts fourth-generation coverage at 87% of the population against mobile-internet penetration of 12.5%, with mobile-money adoption described as near universal, and scores Malawi 36 of 100 on its digital nations and society index and 55 of 100 on policy and regulation](https://techafricanews.com/2026/08/13/digital-africa-summit-heads-to-malawi-as-the-country-enters-its-next-digital-chapter/). These are the association's own figures; no official national subscriber and coverage series is held.
 
 The operator's annual report [puts network infrastructure investment at MK30.87bn in 2025, mainly modernisation, 4G site expansion and 5G](https://malawi24.com/2026/08/24/can-tnms-mk30-87bn-investment-meet-demand/); the [US$31m the same operator stated in August](https://techafricanews.com/2026/08/17/tnm-invests-us31-million-to-expand-network-coverage-across-malawi/) carried no period and is not reconciled with it.
+
+An independent tower company [said it had built 233 sites in 2026, 40% of them in remote rural areas, with 55 more due by early October, 28 of them rural](https://techafricanews.com/2026/09/15/helios-towers-rural-connectivity-malawi-55-new-sites/), at a meeting where the regulator urged lower-cost infrastructure for underserved communities. The figures are the company's own.
 <!-- /narrative -->
 ### Data Storage
 
