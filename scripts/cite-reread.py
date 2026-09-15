@@ -77,6 +77,18 @@ def passages(body, claim, k=2, width=420):
     return out, missing
 
 
+def sentences(para):
+    """Sentences of a paragraph, split only outside links. `status_lib.sentences()` splits inside link
+    text too (`S.I. No. 74`, `poa! Internet`), which cut a link in half and dropped it from the
+    worksheet; masking the links first keeps every link inside exactly one sentence."""
+    masked = LINK.sub(lambda m: "x" * len(m.group(0)), para)
+    out, start = [], 0
+    for b in re.finditer(r"(?<=[.!?])\s+(?=[A-Z“\"'\[])", masked):
+        out.append(para[start:b.start()].strip()); start = b.end()
+    out.append(para[start:].strip())
+    return [s for s in out if s]
+
+
 def load_catalogue():
     cat = {}
     with open(os.path.join(REPO, "outputs", "catalogue", "catalogue-internal.csv"), encoding="utf-8-sig", newline="") as fh:
@@ -124,7 +136,7 @@ def worksheet(unit, ctx):
                 counts["derived"] += 1
                 w += [f"### ¶{pi} — derived paragraph, not checked", ""]
                 continue
-            for si, sent in enumerate(status_lib.sentences(para), 1):
+            for si, sent in enumerate(sentences(para), 1):
                 for m in LINK.finditer(sent):
                     url = m.group(2) or m.group(3)
                     counts["links"] += 1
