@@ -1,6 +1,6 @@
 ---
 title: Equatorial Guinea: status report
-compiled: 2026-09-08
+compiled: 2026-09-15
 place: GNQ
 region: XCA
 built_by: STATUS-INIT
@@ -213,7 +213,7 @@ The delivery record is candid. At the same March 2024 board CNIAPGE recorded an 
 
 The offices that would do the work are short of the equipment to do it with. Ministerial inspection visits to the Delegaciones Regionales, the sub-national arm of central administration, [found poor infrastructure and insufficient computer equipment, office supplies and transport, as recorded at the Council of Ministers sitting of 14 July 2023 in Bata](https://www.guineaecuatorialpress.com/index.php/noticias/ampliacion_de_referencia_del_consejo_de_ministros_de_14_de_julio_de_2023), the same sitting setting down [the regional delegations' ICT infrastructure as poor](https://www.guineaecuatorialpress.com/index.php/noticias/ampliacion_de_referencia_del_consejo_de_ministros_de_14_de_julio_de_2023).
 
-[The e-government services set out for the continental region in March 2025 are in Bata](https://www.guineaecuatorialpress.com/noticias/audiencia_entre_martina_masugu_oyana_y_melanio_ebendeng_oyana) — official training, civil-registry improvements, DGT Digital for vehicle management, and pre-registration of births from reference hospitals. Beneath them the underlying process is unchanged: [civil registration runs as a centralised, manual one, with no electronic exchange of records between local registry offices and the central level](https://data.unicef.org/crvs/equatorial-guinea/) (2024).
+[The e-government services set out for the continental region in March 2025 are in Bata](https://www.guineaecuatorialpress.com/noticias/audiencia_entre_martina_masugu_oyana_y_melanio_ebendeng_oyana) — official training, civil-registry improvements, DGT Digital for vehicle management, and pre-registration of births from reference hospitals. Beneath them the underlying process is unchanged: [civil registration runs as a centralised, manual one, with no electronic exchange of records between local registry offices and the central level](https://data.unicef.org/crvs/equatorial-guinea/) (2017).
 
 [UNDP lists the ayuntamientos of Malabo and Bata among its government partners in the country](https://www.undp.org/sites/g/files/zskgke326/files/2025-12/informe_anual_del_pnud_2024_version_ingles.pdf) (2024). Away from the two cities the administration travels to the citizen rather than the other way about: [Annobón has no permanent office of the national document-issuing centre and depends on periodic commissions from the mainland, the most recent a seven-day deployment from mid-July 2026 that issued identity documents and passports on the island to residents reaching majority](https://infoannobon.com/el-gobierno-despliega-en-annobon-una-jornada-masiva-de-documentacion-para-acercar-la-administracion/).
 
