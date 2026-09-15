@@ -17,8 +17,8 @@ The 2026-09-15 build read the status-acquire backfill for six units in full and 
 ## Scope
 
 - **In:** every inline link in the 48 `built_by: STATUS-INIT` baselines not yet `done` in the progress file — about 17,000 links to 7,800 distinct URLs.
-- **Checked:** a link resolving to a held body in `raw/` (~6,000 URLs), a finance-table row, or an AfDB dataset row — everything there is evidence on this machine for.
-- **Not checked, counted:** links to sources not held (~1,800 URLs). There is nothing local to read them against, and fetching them is a different job with a different cost. The count per unit goes in the progress file so the size of what remains unverified is stated, not implied away.
+- **Checked:** a link resolving to a held body in `raw/` (~6,000 of the URLs), or to a finance-table or AfDB dataset row (most of the rest) — the worksheet prints the row, and the claim is judged against it. On the first batch every link resolved to one of these, which is what check A requires.
+- **Not checked, counted:** a link to nothing on this machine, if any turns up, and a *gateway* — a held landing page for a dataset whose country values the body does not print. Both are counted in the progress file so what remains unverified is stated, not implied away.
 - **Out:** `<!-- derived -->` paragraphs (the report's own arithmetic), and the ledger and indicators except where they repeat a baseline error being repaired.
 
 ## The loop
