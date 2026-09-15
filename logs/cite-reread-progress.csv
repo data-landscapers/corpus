@@ -31,7 +31,7 @@ MDG,done,2026-09-15,,,,read against source bodies during the 2026-09-15 build (s
 MLI,done,2026-09-15,250,250,64,"supported 186, coarsened 55, relinked 3, dropped 6, gateway 0, not held 0"
 MOZ,done,2026-09-15,357,357,88,"supported 244, coarsened 66, relinked 15, dropped 7, gateway 25, not held 0"
 MRT,done,2026-09-15,270,270,47,"supported 223, coarsened 42, relinked 5, dropped 0, gateway 0, not held 0"
-MUS,owed,,,,,
+MUS,done,2026-09-15,318,259,73,"supported 186, coarsened 65, relinked 8, dropped 0, gateway 34, not held 25"
 MWI,owed,,,,,
 NAM,owed,,,,,
 NER,owed,,,,,
