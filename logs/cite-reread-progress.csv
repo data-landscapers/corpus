@@ -22,7 +22,7 @@ GIN,done,2026-09-15,267,267,102,"supported 165, coarsened 77, relinked 18, dropp
 GMB,done,2026-09-15,360,360,124,"supported 236, coarsened 106, relinked 12, dropped 6, gateway 0, not held 0"
 GNB,done,2026-09-15,368,350,147,"supported 221, coarsened 116, relinked 14, dropped 17, gateway 0, not held 0"
 GNQ,done,2026-09-15,,,,read against source bodies during the 2026-09-15 build (stage 4 backfill)
-KEN,owed,,,,,
+KEN,done,2026-09-15,447,407,116,"supported 291, coarsened 84, relinked 12, dropped 20, gateway 40, not held 0"
 LBR,done,2026-09-15,,,,read against source bodies during the 2026-09-15 build (stage 4 backfill)
 LBY,done,2026-09-15,,,,read against source bodies during the 2026-09-15 build (stage 4 backfill)
 LSO,done,2026-09-15,,,,read against source bodies during the 2026-09-15 build (stage 4 backfill)
