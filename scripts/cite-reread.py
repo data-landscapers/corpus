@@ -4,6 +4,7 @@
     python scripts/cite-reread.py worksheet AGO      # -> logs/cite-reread/AGO-worksheet.md
     python scripts/cite-reread.py worksheet all      # every unit still owed in the progress file
     python scripts/cite-reread.py status             # what the progress file says is left
+    python scripts/cite-reread.py apply AGO          # patch, gate, render, record, commit one unit
 
 `CITE-REREAD.md` is the procedure. This script does the mechanical half: for every inline link in a
 `built_by: STATUS-INIT` baseline it writes the claim the link sits on, what the link resolves to, and
@@ -178,14 +179,74 @@ def progress():
         return list(csv.DictReader(fh))
 
 
+def run(cmd, cwd=REPO):
+    import subprocess
+    r = subprocess.run(cmd, cwd=cwd, capture_output=True, text=True, encoding="utf-8", errors="replace")
+    return r.returncode, r.stdout + r.stderr
+
+
+def apply(unit):
+    """Apply one unit's patch, gate it, render it, record it, commit it. `CITE-REREAD.md` → *The loop*, 3-4.
+
+    A patch that fails A, B, E, G or FM is reverted and the unit stays `owed` with the reason — the
+    last good baseline is at HEAD because every earlier unit was committed alone."""
+    patch = os.path.join(OUT, f"{unit}-patch.py")
+    summ = os.path.join(OUT, f"{unit}-summary.md")
+    tot = [ln for ln in io.open(summ, encoding="utf-8").read().splitlines() if ln.startswith("TOTALS:")]
+    if not tot:
+        raise SystemExit(f"{unit}: summary carries no TOTALS line")
+    counts = dict(kv.split("=") for kv in tot[-1][len("TOTALS:"):].split())
+    code, out = run([sys.executable, patch])
+    print(out.strip()[-1500:])
+    if code:
+        raise SystemExit(f"{unit}: patch failed (exit {code}); nothing committed")
+    code, out = run([sys.executable, os.path.join(HERE, "status-check.py"), "--unit", unit])
+    bad = [ln.strip() for ln in out.splitlines() if re.match(r"\s*check (A|B|E|G|FM) ", ln) and "PASS" not in ln]
+    if bad:
+        print(out)
+        run(["git", "checkout", "--", f"outputs/reports/{unit}"])
+        raise SystemExit(f"{unit}: gate failed, reverted: {bad}")
+    wr = os.path.join(HERE, ".workroot")
+    run([sys.executable, "scripts/report-render.py", "--unit", unit, "--render", "--doc", "all"], cwd=wr)
+    code, out = run([sys.executable, "scripts/report-render.py", "--unit", unit, "--check"], cwd=wr)
+    fails = [ln.strip() for ln in out.splitlines() if "FAIL" in ln]
+    code, reg = run([sys.executable, "scripts/report-register-check.py", "--unit", unit], cwd=wr)
+    hits = [ln.strip() for ln in reg.splitlines() if re.match(r"\s+outputs.*\[", ln)]
+    print(f"{unit}: status gate PASS; render check {'FAIL ' + str(fails) if fails else 'PASS'}; register lines: {len(hits)}")
+    for h in hits:
+        print("   ", h)
+    rows = progress()
+    for r in rows:
+        if r["unit"] == unit:
+            repaired = sum(int(counts.get(k, 0)) for k in ("coarsened", "relinked", "dropped"))
+            r.update(state="done", date=__import__("datetime").date.today().isoformat(), links=counts.get("links", ""),
+                     held_checked=counts.get("held_checked", ""), claims_repaired=str(repaired),
+                     note=f"supported {counts.get('supported')}, coarsened {counts.get('coarsened')}, relinked {counts.get('relinked')}, dropped {counts.get('dropped')}, gateway {counts.get('gateway')}, not held {counts.get('not_held')}")
+    with open(PROGRESS, "w", encoding="utf-8", newline="") as fh:
+        w = csv.DictWriter(fh, fieldnames=list(rows[0].keys()), lineterminator="\n")
+        w.writeheader(); w.writerows(rows)
+    if fails:
+        raise SystemExit(f"{unit}: report-render check failed — fix before committing; progress row written")
+    run(["git", "add", f"outputs/reports/{unit}", "logs/cite-reread-progress.csv"])
+    msg = (f"CITE-REREAD {unit}: {repaired} claims repaired over {counts.get('held_checked')} held links\n\n"
+           "Co-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>\n"
+           "Claude-Session: https://claude.ai/code/session_01YGULwKCQKYvGq61x84oUj9\n")
+    code, out = run(["git", "commit", "-q", "-m", msg])
+    print(f"{unit}: committed" if code == 0 else f"{unit}: commit returned {code}: {out[-300:]}")
+
+
 def main():
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
-    if len(sys.argv) < 2 or sys.argv[1] not in ("worksheet", "status"):
+    if len(sys.argv) < 2 or sys.argv[1] not in ("worksheet", "status", "apply"):
         print(__doc__); sys.exit(2)
     rows = progress()
     if sys.argv[1] == "status":
         left = [r["unit"] for r in rows if r["state"] != "done"]
         print(f"{len(rows) - len(left)} of {len(rows)} done; left: {' '.join(left)}")
+        return
+    if sys.argv[1] == "apply":
+        for u in sys.argv[2:]:
+            apply(u)
         return
     units = [r["unit"] for r in rows if r["state"] != "done"] if sys.argv[2] == "all" else sys.argv[2:]
     ctx = (load_catalogue(), load_raw_paths(),
