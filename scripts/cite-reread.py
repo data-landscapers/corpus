@@ -216,15 +216,26 @@ def apply(unit):
         return {re.sub(r":\d+\s", " ", ln.strip()) for ln in reg.splitlines() if re.match(r"\s+outputs.*\[", ln)}
 
     before = register_lines()
+    # Snapshot the unit's bytes: a `git checkout` revert rewrites the files through autocrlf, so a
+    # CSV written with LF comes back CRLF and the patch's exact strings no longer match on a re-run.
+    unit_dir = os.path.join(REPO, "outputs", "reports", unit)
+    snap = {f: open(os.path.join(unit_dir, f), "rb").read() for f in os.listdir(unit_dir)
+            if os.path.isfile(os.path.join(unit_dir, f))}
+
+    def restore():
+        for f, data in snap.items():
+            open(os.path.join(unit_dir, f), "wb").write(data)
+
     code, out = run([sys.executable, patch])
     print(out.strip()[-1500:])
     if code:
-        raise SystemExit(f"{unit}: patch failed (exit {code}); nothing committed")
+        restore()
+        raise SystemExit(f"{unit}: patch failed (exit {code}); files restored, nothing committed")
     code, out = run([sys.executable, os.path.join(HERE, "status-check.py"), "--unit", unit])
     bad = [ln.strip() for ln in out.splitlines() if re.match(r"\s*check (A|B|E|G|FM) ", ln) and "PASS" not in ln]
     if bad:
         print(out)
-        run(["git", "checkout", "--", f"outputs/reports/{unit}"])
+        restore()
         raise SystemExit(f"{unit}: gate failed, reverted: {bad}")
     run([sys.executable, "scripts/report-render.py", "--unit", unit, "--render", "--doc", "all"], cwd=wr)
     code, out = run([sys.executable, "scripts/report-render.py", "--unit", unit, "--check"], cwd=wr)
