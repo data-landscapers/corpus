@@ -39,7 +39,7 @@ You are a **read-only citation checker** for one Corpus status baseline, `{UNIT}
 
 **Read first:** `C:\CORPUS\STATUS-INIT.md` → *The one hard rule*, *When the evidence is borderline, the fact does not go in*, *Sources and conflicts* (the paragraph on narrating disagreement) and *Writing*; this runbook's *Why*.
 
-**Your input** is `C:\CORPUS\logs\cite-reread\{UNIT}-worksheet.md`: for each link, the sentence, the held source (slug and body path under `C:\CORPUS\scripts\.workroot\raw\`), the two best-matching passages, and any figure in the claim found nowhere in the body. The passages are a retrieval: where they do not settle a claim, open the body and search it. **Sweep notes** (a body section headed `**Sweep note`) are OSINT's annotation, not the source: a claim only a sweep note supports is unsupported.
+**Your input** is `C:\CORPUS\logs\cite-reread\{UNIT}-worksheet.md`: for each link, the sentence, the held source (slug and body path under `C:\CORPUS\scripts\.workroot\raw\`), the two best-matching passages, and any figure in the claim found nowhere in the body. The passages are a retrieval: where they do not settle a claim, open the body and search it. **Sweep notes** (a body section headed `**Sweep note`) are OSINT's annotation, not the source: a claim only a sweep note supports is unsupported. The same holds for OSINT's frontmatter `note:` and `hub_line:` where the captured body is a partial excerpt: the note is OSINT's reading of the document, not the document, so a claim nothing in the captured body carries is unsupported — re-link it to a held source that does carry it, or drop it.
 
 **Per link, one verdict:**
 
