@@ -1,10 +1,10 @@
 ---
 title: Access to services — monthly update, August – September 2026
-compiled: 2026-09-14
-period: 2026-08-01 to 2026-09-14
+compiled: 2026-09-15
+period: 2026-08-01 to 2026-09-15
 subject: include.access
 places: DZA; AGO; BWA; BDI; CMR; CAF; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NAM; NER; NGA; STP; SEN; SYC; SLE; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 46908bc91557
+record: a382b3242848
 ---
 
 # Access to services: monthly update, August – September 2026
@@ -208,6 +208,8 @@ The state's own IT agency was told why it cannot deliver. The Public Service Com
 The grant-review audit reached [105,600 of 352,000 targeted reviews with an estimated R450-million saved](https://www.dailymaverick.co.za/article/2026-08-24-sassa-grant-reviews-strand-vulnerable-south-africans-in-systemic-chaos/), while suspending lawful beneficiaries' payments without effective notice. The saving is the agency's own estimate; the suspensions are reported against it.
 
 Two feedback channels were in view in September, one state and one civil. The [Presidential Hotline, running since September 2009 on the state IT agency's case-management platform, was under oversight review on 9 September](https://www.sanews.gov.za/south-africa/mohai-conducts-oversight-visit-presidential-hotline-call-centre) with automation on the agenda, and the [ParliMeter platform tracking MP attendance, bills, committees and ministerial answers passed to the Parliamentary Monitoring Group as its EU-funded phase closed](https://myza.co.za/parlimeter-enters-its-next-chapter/). Neither publishes a resolution rate or usage figure.
+
+A private referral app linking rural health workers with specialist doctors [passed three million patients referred](https://www.wearetech.africa/fr/fils/breves/breves-simple/afrique-du-sud-la-plateforme-vula-franchit-le-cap-des-3-millions-de-patients), a cumulative count across five southern African countries with no split for South Africa.
 
 ## South Sudan
 

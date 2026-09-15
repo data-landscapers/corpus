@@ -1,10 +1,10 @@
 ---
 title: MoUs and other agreements — monthly update, August – September 2026
-compiled: 2026-09-14
-period: 2026-08-01 to 2026-09-14
+compiled: 2026-09-15
+period: 2026-08-01 to 2026-09-15
 subject: finance.mou
 places: DZA; CIV; COD; GHA; KEN; NER; NGA; RWA; UGA
-record: 29a8c92eee08
+record: cac6b58ca326
 ---
 
 # MoUs and other agreements: monthly update, August – September 2026

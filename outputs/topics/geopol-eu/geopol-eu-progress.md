@@ -1,10 +1,10 @@
 ---
 title: EU activities — progress report, September 2025 – September 2026
-compiled: 2026-09-14
-period: 2025-09-01 to 2026-09-14
+compiled: 2026-09-15
+period: 2025-09-01 to 2026-09-15
 subject: geopol.eu
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: ca68fbeb279f
+record: 56ed86ea5b90
 ---
 
 # EU activities: progress report, September 2025 – September 2026

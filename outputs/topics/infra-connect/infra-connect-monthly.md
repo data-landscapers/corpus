@@ -1,10 +1,10 @@
 ---
 title: Connectivity — monthly update, August – September 2026
-compiled: 2026-09-14
-period: 2026-08-01 to 2026-09-14
+compiled: 2026-09-15
+period: 2026-08-01 to 2026-09-15
 subject: infra.connect
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: a7117d35f58d
+record: b186ba54dc4f
 ---
 
 # Connectivity: monthly update, August – September 2026
@@ -191,6 +191,8 @@ The gap the licensing round is meant to close acquired figures in August. An ind
 
 The operator's annual report [puts network infrastructure investment at MK30.87bn in 2025, mainly modernisation, 4G site expansion and 5G](https://malawi24.com/2026/08/24/can-tnms-mk30-87bn-investment-meet-demand/); the [US$31m the same operator stated in August](https://techafricanews.com/2026/08/17/tnm-invests-us31-million-to-expand-network-coverage-across-malawi/) carried no period and is not reconciled with it.
 
+An independent tower company [said it had built 233 sites in 2026, 40% of them in remote rural areas, with 55 more due by early October, 28 of them rural](https://techafricanews.com/2026/09/15/helios-towers-rural-connectivity-malawi-55-new-sites/), at a meeting where the regulator urged lower-cost infrastructure for underserved communities. The figures are the company's own.
+
 ## Mali
 
 On 15 July CSquared [added capacity on the 2Africa West subsea system](https://www.mobileeurope.co.uk/csquared-boosts-internet-resilence-integrating-with-2africa-west/) to the West African backbone whose inland fibre reaches Mali, giving an independent route behind the Abidjan, Accra and Lagos landings.
@@ -267,6 +269,8 @@ Operators are two-thirds of the way to their site commitments: the regulator's b
 
 The tower programme set a first milestone and the satellite programme a first contract. The ministry [said at least 200 towers will be live by December](https://businessday.ng/news/article/nigeria-targets-200-telecom-towers-by-december-plans-new-satellite-beyond-fibre-coverage/), and Thales Alenia Space [signed to build NigComSat-2A](https://www.thalesaleniaspace.com/en/press-releases/thales-alenia-space-wins-nigcomsat-contract-build-nigcomsat-2a-geostationary). A [second virtual network operator began commercial service](https://techcabal.com/2026/09/14/lebara-launches-nigerias-second-commercial-mvno-network/).
 
+Rural connectivity was folded into the electrification programme. A rural infrastructure company [secured a World Bank-backed results-based facility to deploy 2G, 4G, broadband and community Wi-Fi in 500 unserved and underserved communities under the US$750m DARES programme with the Rural Electrification Agency](https://punchng.com/hotspot-secures-world-bank-facility-for-500-communities/). The account rests on documents seen by one newspaper and gives no facility amount or signing date.
+
 ## Rwanda
 
 The legacy-network retirement plan the ministry announced on 28 July fixes third-generation service off nationwide on [30 June 2027](https://www.minict.gov.rw/news-detail/rwanda-to-switch-off-3g-networks-on-30-june-2027), with operator pilot shutdowns during 2026 and critical-system migration completed in the first half of 2027. December 2028 is the working date for the second-generation network, conditional on coverage, voice reliability including emergency calls, continuity of mobile money, migration of dependent systems and affordable handsets. The technical precondition followed days later: the dominant operator launched voice over fourth-generation networks, reported on 3 August, with no coverage, handset-base or subscriber figure and no reference to the sunset. [A subsea operator announced a 25,000 km system across fifteen countries on 9 July with no timeline disclosed](https://www.minict.gov.rw/news-detail/rwanda-to-switch-off-3g-networks-on-30-june-2027); a landlocked country's exposure to it is backhaul rather than a landing. As at 30 July the World Bank's successor nine-year country partnership framework is prepared but not launched, with no committed envelope on the record.
@@ -299,6 +303,8 @@ One date the state does not have is the oldest. The communications department [t
 Two things arrived on 7 September that answer the same question from opposite ends. A development bank and planning commission study [costs universal, meaningful household broadband at about R140bn under least-cost deployment and well above R200bn under fibre-led scenarios, or R108bn to R142bn in 2025 real terms depending on the economic scenario](https://www.nationalplanningcommission.org.za/assets/Documents/SA%20Digital%20Infrastructure%20Investment%20Study.pdf), built on a 0.76 square-kilometre hexagonal-grid mapping exercise against the 2030 development plan and the 2050 infrastructure plan. It is a costing with no appropriation, delivery vehicle or commencement attached to any scenario, and it lands beside a national broadband map launched in March and still not published. Meanwhile the price of what is already built moved the wrong way: the competition authority puts [wired internet up 3.5% and wireless up 4.1% over the first half of 2026, against cumulative headline inflation of 3.8%](https://www.itweb.co.za/article/sas-internet-costs-climb-but-other-bills-rise-faster/mYZRXv9gbykMOgA8) — a reversal of the six years to July 2026, in which wired rose 18.6% and wireless 6.4% against headline inflation of 36%, and the first period in which a service the authority treats as essential outran the basket.
 
 On the resilience the 2025 double break exposed, the state-affiliated wholesaler [completed a third Cape Town to Pretoria route via Springbok and Mahikeng](https://www.businessday.co.za/companies/2026-09-07-openserve-completes-third-fibre-route-to-reduce-network-outage-risk/), inside a wholesale network of about 180,000km carrying just under R3bn of capital expenditure a year. No capacity or diversity measure is published for the new path.
+
+The British-funded community network programme launched in August put figures on itself: [R7m for 25 local community network operators in KwaZulu-Natal to deploy 250 public Wi-Fi hotspots, connect 150 public facilities and reach 1,500 homes](https://www.itweb.co.za/article/woan-comeback-in-kzn-with-r7m-uk-funding/VgZeyvJlpkBMdjX9), on the shared open-access model the national wireless network was to use before it was put on hold. All three are targets.
 
 ## South Sudan
 

@@ -1,10 +1,10 @@
 ---
 title: AI — monthly update, August – September 2026
-compiled: 2026-09-14
-period: 2026-08-01 to 2026-09-14
+compiled: 2026-09-15
+period: 2026-08-01 to 2026-09-15
 subject: tech.ai
 places: DZA; AGO; BEN; BFA; BDI; CMR; CAF; TCD; COM; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GHA; KEN; LBR; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: d654223028bd
+record: 08bb8989d342
 ---
 
 # AI: monthly update, August – September 2026
@@ -243,6 +243,8 @@ Two smaller items sit at the other end of the same subject. A robotics firm [ope
 An existing statute was asserted against a new practice rather than a new rule being made. Provincial police warned that [creating and sharing artificial-intelligence face-swap images of oneself in police uniform can breach section 68 of the South African Police Service Act 68 of 1995, which makes impersonating a police official an offence](https://www.itweb.co.za/article/saps-sounds-alarm-over-ai-generated-police-images/lwrKx73YyNOqmg1o). It is a provincial warning with no case, charge or takedown route behind it — and the only enforcement position the repository holds on synthetic imagery.
 
 Two forward-looking statements arrived with nothing built behind them: a market forecast that [80% of governments will use artificial-intelligence agents by 2028, with the revenue service exploring digital twinning in tax processing](https://sundayworld.co.za/technology/ai-agents-could-change-face-of-service-delivery/), and a deputy minister's framing of inclusion as [connection, capability and command — the third being who builds and shapes the technology rather than who reaches it](https://www.sanews.gov.za/south-africa/call-inclusive-approach-ai-revolution), at a first summit on youth, artificial intelligence and the future of work. Neither carries a programme, budget or date.
+
+The state airports company [set a five-year plan to 2031 to bring AI into check-in, security, baggage handling and parking, with terminal patrol robots and a metaverse proof of concept in its first year, tied to a R21.7bn capital pipeline that also covers wider infrastructure modernisation](https://www.itweb.co.za/article/acsa-bets-r217bn-on-metaverse-patrol-robots/5yONP7ErVkeMXWrb). The pipeline is not broken down.
 
 ## Sudan
 
