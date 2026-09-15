@@ -8,7 +8,7 @@ CAF,done,2026-09-15,295,249,90,"supported 159, coarsened 62, relinked 17, droppe
 CIV,done,2026-09-15,422,422,133,"supported 289, coarsened 96, relinked 25, dropped 12, gateway 0, not held 0"
 CMR,done,2026-09-15,409,409,110,"supported 248, coarsened 81, relinked 15, dropped 14, gateway 51, not held 0"
 COD,owed,,,,,
-COG,owed,,,,,
+COG,done,2026-09-15,319,319,120,"supported 161, coarsened 104, relinked 13, dropped 3, gateway 38, not held 0"
 COM,owed,,,,,
 CPV,owed,,,,,
 DJI,owed,,,,,
