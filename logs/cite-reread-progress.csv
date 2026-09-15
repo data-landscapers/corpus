@@ -18,7 +18,7 @@ ERI,done,2026-09-15,301,301,134,"supported 167, coarsened 81, relinked 16, dropp
 ETH,done,2026-09-15,342,342,120,"supported 196, coarsened 96, relinked 10, dropped 14, gateway 26, not held 0"
 GAB,done,2026-09-15,349,349,108,"supported 188, coarsened 90, relinked 16, dropped 2, gateway 53, not held 0"
 GHA,owed,,,,,
-GIN,owed,,,,,
+GIN,done,2026-09-15,267,267,102,"supported 165, coarsened 77, relinked 18, dropped 7, gateway 0, not held 0"
 GMB,owed,,,,,
 GNB,owed,,,,,
 GNQ,done,2026-09-15,,,,read against source bodies during the 2026-09-15 build (stage 4 backfill)
