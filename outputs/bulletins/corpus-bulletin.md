@@ -1,12 +1,12 @@
 ---
 type: bulletin
 title: Bulletin
-subtitle: Last updated 14-09-2026 at 20:31 — Covering sources published on 14 September 2026
+subtitle: Last updated 15-09-2026 at 12:20 — Covering sources published on 14 and 15 September 2026
 window_start: 2026-09-14
-window_end: 2026-09-14
-items: 65
-collected_to: 2026-09-14 20:31
-compiled: 2026-09-14 20:53
+window_end: 2026-09-15
+items: 80
+collected_to: 2026-09-15 12:20
+compiled: 2026-09-15 12:31
 ---
 
 # Bulletin
@@ -46,14 +46,19 @@ compiled: 2026-09-14 20:53
 <option value="DZA">Algeria</option>
 <option value="AGO">Angola</option>
 <option value="BFA">Burkina Faso</option>
+<option value="CMR">Cameroon</option>
+<option value="COM">Comoros</option>
 <option value="CIV">Côte d'Ivoire</option>
 <option value="COD">DRC</option>
 <option value="EGY">Egypt</option>
+<option value="GNQ">Eq. Guinea</option>
 <option value="ETH">Ethiopia</option>
 <option value="GMB">Gambia</option>
 <option value="GHA">Ghana</option>
 <option value="KEN">Kenya</option>
 <option value="LBR">Liberia</option>
+<option value="MDG">Madagascar</option>
+<option value="MWI">Malawi</option>
 <option value="MLI">Mali</option>
 <option value="MUS">Mauritius</option>
 <option value="MAR">Morocco</option>
@@ -80,6 +85,14 @@ compiled: 2026-09-14 20:53
 
 ### Strategies, plans and policies
 
+<div class="bulletin-item" data-places="XSA" markdown="1">
+
+**[SADC bloc rethinks telecoms regulation](https://www.itweb.africa/article/sadc-bloc-rethinks-telecoms-regulation/PmxVEMKEYk1vQY85)** — ITWeb Africa, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XSA/" title="XSA">Southern Africa</a>
+
+The Communications Regulators' Association of Southern Africa opened its 46th executive committee meeting in Mangochi, Malawi, chaired by the Malawian regulator, with AI, satellite services, cross-border platforms and cybersecurity on the agenda. The three-day meeting is also reviewing regional consumer-protection and universal-service frameworks. <span class="bulletin-item__also">*Also under [Regional collaboration](#regional-collaboration).*</span>
+
+</div>
+
 <div class="bulletin-item" data-places="SEN" markdown="1">
 
 **[Nouveau Directeur de l’ARTP : Au-delà du mérite, des défis à relever](https://lesoleil.sn/actualites/nouveau-directeur-de-lartp-au-dela-du-merite-des-defis-a-relever/)** — Le Soleil, 14 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SEN/" title="SEN">Senegal</a>
@@ -97,6 +110,14 @@ Nigeria's communications minister Bosun Tijani withdrew his candidacy for ITU De
 </div>
 
 ### Legislation and regulation
+
+<div class="bulletin-item" data-places="MAR" markdown="1">
+
+**[Coordination and Technology | Civil Registration System | Morocco](https://www.crvslaws.org/morocco/civil-registration-system/coordination-technology)** — CRVS Laws, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MAR/" title="MAR">Morocco</a>
+
+A legal analysis of Morocco's civil registration law finds that Decree 2.22.04 permits, but does not require, the interior ministry to share civil-status data with the statistics authority. Law 36.21 establishes a digital registration system, and no national coordinating committee for civil registration, statistics and identity exists. <span class="bulletin-item__also">*Also under [Digital Identity and CRVS](#digital-identity-and-crvs) and [National statistics](#national-statistics).*</span>
+
+</div>
 
 <div class="bulletin-item" data-places="EGY" markdown="1">
 
@@ -214,6 +235,14 @@ CÃ´te d'Ivoire hosts the fourth and final African preparatory meeting for the 
 
 </div>
 
+<div class="bulletin-item bulletin-item--xref" data-places="XSA" markdown="1">
+
+**[SADC bloc rethinks telecoms regulation](https://www.itweb.africa/article/sadc-bloc-rethinks-telecoms-regulation/PmxVEMKEYk1vQY85)** — ITWeb Africa, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XSA/" title="XSA">Southern Africa</a>
+
+Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
+
+</div>
+
 ### Public debate and participation in policymaking
 
 <div class="bulletin-item" data-places="MAR TUN XNA" markdown="1">
@@ -308,6 +337,30 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 ### New investments
 
+<div class="bulletin-item" data-places="DZA CMR NGA EGY" markdown="1">
+
+**[Madica invests $200,000 in five African startups, enters Algeria and Cameroon](https://techcabal.com/2026/09/15/madica-five-startups/)** — TechCabal, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/DZA/" title="DZA">Algeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/CMR/" title="CMR">Cameroon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/EGY/" title="EGY">Egypt</a>
+
+Pre-seed programme Madica invested $200,000 each in five startups, its first in Algeria (HR software firm Talenteo) and Cameroon (neobank Paysika), alongside ChipMango in Nigeria and Delta Oil and Bekia in Egypt. Its portfolio now stands at 18 companies in 10 markets, with $1.6m deployed in 2026. <span class="bulletin-item__also">*Also under [Innovation ecosystem](#innovation-ecosystem).*</span>
+
+</div>
+
+<div class="bulletin-item" data-places="NGA" markdown="1">
+
+**[Hotspot secures World Bank facility for 500 communities](https://punchng.com/hotspot-secures-world-bank-facility-for-500-communities/)** — Punch, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
+
+Nigerian rural infrastructure firm Hotspot Network secured a World Bank-backed results-based facility to bring 2G, 4G, broadband and community Wi-Fi to 500 unserved communities. The work sits under the US$750m DARES renewable-energy access programme run with the Rural Electrification Agency; the facility's amount and signing date are not reported. <span class="bulletin-item__also">*Also under [Connectivity](#connectivity) and [Digital divides](#digital-divides).*</span>
+
+</div>
+
+<div class="bulletin-item" data-places="ZAF" markdown="1">
+
+**[DBSA backs 48 000km fibre rollout across SA](https://www.itweb.co.za/article/dbsa-backs-48-000km-fibre-rollout-across-sa/KzQenqjyj41MZd2r)** — ITWeb South Africa, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
+
+The Development Bank of Southern Africa said businesses it financed through fund management contributed to 47,545km of fibre deployed in South Africa in the year to March 2026. It reported R20.7bn in disbursements and net profit up 47% to R7.8bn, but gave no fibre-specific investment figure. <span class="bulletin-item__also">*Also under [Connectivity](#connectivity).*</span>
+
+</div>
+
 <div class="bulletin-item" data-places="XAF" markdown="1">
 
 **[“$200k isn’t enough”: Madica’s Emmanuel Adegboye on the brutal reality of early-stage funding](https://techcabal.com/2026/09/14/madica-africa/)** — TechCabal, 14 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
@@ -335,6 +388,22 @@ South African investment firm DNI announced more than R2.1 billion across Frogfo
 ## ICT Infrastructure
 
 ### Connectivity
+
+<div class="bulletin-item" data-places="ZAF" markdown="1">
+
+**[WOAN comeback in KZN with R7m UK funding](https://www.itweb.co.za/article/woan-comeback-in-kzn-with-r7m-uk-funding/VgZeyvJlpkBMdjX9)** — ITWeb South Africa, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
+
+A R7m UK-funded programme in KwaZulu-Natal, run with South Africa's communications department, will support 25 local community network operators to deploy 250 public Wi-Fi hotspots, connect 150 schools, libraries and clinics and reach 1,500 homes. It applies the shared wireless open-access model locally after the national version was put on hold; no term or completion date is given. <span class="bulletin-item__also">*Also under [Access to services](#access-to-services).*</span>
+
+</div>
+
+<div class="bulletin-item" data-places="MWI" markdown="1">
+
+**[Helios Towers Expands Rural Connectivity Push in Malawi With 55 New Sites](https://techafricanews.com/2026/09/15/helios-towers-rural-connectivity-malawi-55-new-sites/)** — Tech Africa News, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MWI/" title="MWI">Malawi</a>
+
+Helios Towers Malawi said it had built 233 tower sites in 2026, 40% in remote rural areas, with 55 more due by early October. The company gave the figures at a meeting with regulator MACRA, which pressed for lower-cost infrastructure in underserved areas. <span class="bulletin-item__also">*Also under [Digital divides](#digital-divides).*</span>
+
+</div>
 
 <div class="bulletin-item" data-places="NGA XAF" markdown="1">
 
@@ -389,6 +458,22 @@ Kenya installed a free public Wi-Fi hotspot at Nyaru in Keiyo South, carrying fi
 **[Airtel Africa Shuts Down Kenya Fiber Unit After Two Years](https://techweez.com/2026/09/14/fiber-airtel-kenya-telesonic-shutdown/)** — Techweez, 14 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
 
 Airtel Africa is winding up Airtel Kenya Telesonic, its wholesale fibre subsidiary, two years after launch, with a KES 16.1 million loss and no revenue in 2025. Its facilities licence was returned to the Communications Authority in February, with gazettement pending. <span class="bulletin-item__also">*Also under [ICT Industry](#ict-industry).*</span>
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="NGA" markdown="1">
+
+**[Hotspot secures World Bank facility for 500 communities](https://punchng.com/hotspot-secures-world-bank-facility-for-500-communities/)** — Punch, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
+
+Summarised under [New investments](#new-investments).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="ZAF" markdown="1">
+
+**[DBSA backs 48 000km fibre rollout across SA](https://www.itweb.co.za/article/dbsa-backs-48-000km-fibre-rollout-across-sa/KzQenqjyj41MZd2r)** — ITWeb South Africa, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
+
+Summarised under [New investments](#new-investments).
 
 </div>
 
@@ -538,6 +623,14 @@ Summarised under [Public debate and participation in policymaking](#public-debat
 
 ### Data Exchange
 
+<div class="bulletin-item" data-places="GNQ" markdown="1">
+
+**[Support for the Reinforcement of the mobilization of non-oil revenues](https://www.pamfp.org/en/support-for-the-reinforcement-of-the-mobilization-of-non-oil-revenues/)** — PAMFP, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GNQ/" title="GNQ">Eq. Guinea</a>
+
+An undated page from Equatorial Guinea's public-finance modernisation programme sets out plans for a unique taxpayer identification number and an integrated revenue system linking the tax, customs and treasury administrations. It also lists extending the SYDONIA customs system to seven sites outside Malabo; no timetable or delivery status is given. <span class="bulletin-item__also">*Also under [Sectoral management information systems](#sectoral-management-information-systems) and [Other GovTech and e-Gov](#other-govtech-and-e-gov).*</span>
+
+</div>
+
 <div class="bulletin-item" data-places="RWA" markdown="1">
 
 **[Irembo hosts African partners to share lessons on digital public services](https://techreviewafrica.com/news/7203/irembo-hosts-african-partners-to-share-lessons-on-digital-public-services)** — TechReviewAfrica, 14 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a>
@@ -555,6 +648,22 @@ Summarised under [Regional collaboration](#regional-collaboration).
 </div>
 
 ### Digital Identity and CRVS
+
+<div class="bulletin-item" data-places="MAR" markdown="1">
+
+**[Programme de modernisation de l'état civil](https://www.collectivites-territoriales.gov.ma/fr/programme-de-modernisation-de-letat-civil)** — Ministry of the Interior, Direction Generale des Collectivites Territoriales (Morocco), 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MAR/" title="MAR">Morocco</a>
+
+An undated Moroccan interior ministry page describes the 2011-2015 programme to computerise civil registration across 2,176 civil-status offices staffed by more than 12,000 municipal officials, including digitising historical registers. It records a steering committee created by ministerial order in November 2010; no completion figures are given. <span class="bulletin-item__also">*Also under [Registries](#registries) and [Digitalisation of sub-national government](#digitalisation-of-sub-national-government).*</span>
+
+</div>
+
+<div class="bulletin-item" data-places="BFA" markdown="1">
+
+**[ID Day 2026 : l'ONI ouvre plusieurs sites d'enrôlement à Ouagadougou face à l'affluence pour la CIB-AES](https://www.fasoamazone.net/2026/09/15/id-day-2026-loni-ouvre-plusieurs-sites-denrolement-a-ouagadougou-face-a-laffluence-pour-la-cib-aes/)** — FasoAmazone, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/BFA/" title="BFA">Burkina Faso</a>
+
+Burkina Faso's national identification office opened nine extra enrolment sites across Ouagadougou for the Sahel alliance biometric identity card after heavy demand at its main centre. Cards are promised within 48 hours during the special operation, which runs to International Identity Day on 16 September; no enrolment figures are given. <span class="bulletin-item__also">*Also under [Access to services](#access-to-services).*</span>
+
+</div>
 
 <div class="bulletin-item" data-places="COD" markdown="1">
 
@@ -596,6 +705,14 @@ Burkina Faso's digital transition ministry set the official launch of electronic
 
 </div>
 
+<div class="bulletin-item bulletin-item--xref" data-places="MAR" markdown="1">
+
+**[Coordination and Technology | Civil Registration System | Morocco](https://www.crvslaws.org/morocco/civil-registration-system/coordination-technology)** — CRVS Laws, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MAR/" title="MAR">Morocco</a>
+
+Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+</div>
+
 <div class="bulletin-item bulletin-item--xref" data-places="GMB" markdown="1">
 
 **[GALA condemns fresh ID Card application requirement for citizens](https://thepoint.gm/africa/gambia/national-news/gala-condemns-fresh-id-card-application-requirement-for-citizens)** — The Point, 14 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GMB/" title="GMB">Gambia</a>
@@ -605,6 +722,14 @@ Summarised under [Public debate and participation in policymaking](#public-debat
 </div>
 
 ### Digital Payments and Fintech
+
+<div class="bulletin-item" data-places="SEN" markdown="1">
+
+**[Senegal and Wave Explore Collaboration to Accelerate Digital Public Services](https://techafricanews.com/2026/09/15/senegal-wave-collaboration-digital-public-services/)** — Tech Africa News, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SEN/" title="SEN">Senegal</a>
+
+Senegal's government held talks with mobile-money company Wave on 10 September 2026 about digitising transport, health and Treasury services, with data management and the Telecommunications Code also discussed. No agreement was announced; further workshops are planned. <span class="bulletin-item__also">*Also under [Other GovTech and e-Gov](#other-govtech-and-e-gov).*</span>
+
+</div>
 
 <div class="bulletin-item" data-places="EGY" markdown="1">
 
@@ -696,6 +821,14 @@ Angola's cadastral institute trained Huambo province's 17 municipalities on the 
 
 </div>
 
+<div class="bulletin-item bulletin-item--xref" data-places="MAR" markdown="1">
+
+**[Programme de modernisation de l'état civil](https://www.collectivites-territoriales.gov.ma/fr/programme-de-modernisation-de-letat-civil)** — Ministry of the Interior, Direction Generale des Collectivites Territoriales (Morocco), 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MAR/" title="MAR">Morocco</a>
+
+Summarised under [Digital Identity and CRVS](#digital-identity-and-crvs).
+
+</div>
+
 <div class="bulletin-item bulletin-item--xref" data-places="LBR" markdown="1">
 
 **[Liberia to link national ID, CRVS in planned infrastructure upgrade](https://www.biometricupdate.com/202609/liberia-to-link-national-id-crvs-in-planned-infrastructure-upgrade)** — Biometric Update, 14 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/LBR/" title="LBR">Liberia</a>
@@ -705,6 +838,14 @@ Summarised under [Digital Identity and CRVS](#digital-identity-and-crvs).
 </div>
 
 ### Sectoral management information systems
+
+<div class="bulletin-item bulletin-item--xref" data-places="GNQ" markdown="1">
+
+**[Support for the Reinforcement of the mobilization of non-oil revenues](https://www.pamfp.org/en/support-for-the-reinforcement-of-the-mobilization-of-non-oil-revenues/)** — PAMFP, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GNQ/" title="GNQ">Eq. Guinea</a>
+
+Summarised under [Data Exchange](#data-exchange).
+
+</div>
 
 <div class="bulletin-item bulletin-item--xref" data-places="LBR" markdown="1">
 
@@ -723,6 +864,14 @@ Summarised under [Digital Identity and CRVS](#digital-identity-and-crvs).
 </div>
 
 ### Other GovTech and e-Gov
+
+<div class="bulletin-item" data-places="ZAF" markdown="1">
+
+**[BMA replaces e-mail with digital port system](https://www.itweb.co.za/article/bma-replaces-e-mail-with-digital-port-system/P3gQ2qGAlky7nRD1)** — ITWeb South Africa, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
+
+South Africa's Border Management Authority launched a Port Health Management System at Durban Harbour, replacing shipping agents' e-mailed requests with online inspections, free pratique applications, endorsements, invoicing and payment. Durban is the pilot; no date is set for other ports.
+
+</div>
 
 <div class="bulletin-item" data-places="BFA" markdown="1">
 
@@ -769,6 +918,22 @@ Mozambique's digital transformation agency said the government email service Cor
 **[Burkina/Bonne gouvernance : Le Burkina veut accélérer la transformation de son administration](https://lefaso.net/spip.php?article149213)** — leFaso.net, 14 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/BFA/" title="BFA">Burkina Faso</a>
 
 A second account of the same council session reports the permanent secretary's figures: hundreds of procedures dematerialised, more than 10,000 recruitments and over 200 organisation charts revised. The session set orientations for 2027.
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="GNQ" markdown="1">
+
+**[Support for the Reinforcement of the mobilization of non-oil revenues](https://www.pamfp.org/en/support-for-the-reinforcement-of-the-mobilization-of-non-oil-revenues/)** — PAMFP, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GNQ/" title="GNQ">Eq. Guinea</a>
+
+Summarised under [Data Exchange](#data-exchange).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="SEN" markdown="1">
+
+**[Senegal and Wave Explore Collaboration to Accelerate Digital Public Services](https://techafricanews.com/2026/09/15/senegal-wave-collaboration-digital-public-services/)** — Tech Africa News, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SEN/" title="SEN">Senegal</a>
+
+Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 
 </div>
 
@@ -832,6 +997,14 @@ Summarised under [Cybersecurity](#cybersecurity).
 
 ### Digitalisation of sub-national government
 
+<div class="bulletin-item bulletin-item--xref" data-places="MAR" markdown="1">
+
+**[Programme de modernisation de l'état civil](https://www.collectivites-territoriales.gov.ma/fr/programme-de-modernisation-de-letat-civil)** — Ministry of the Interior, Direction Generale des Collectivites Territoriales (Morocco), 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MAR/" title="MAR">Morocco</a>
+
+Summarised under [Digital Identity and CRVS](#digital-identity-and-crvs).
+
+</div>
+
 <div class="bulletin-item bulletin-item--xref" data-places="TUN" markdown="1">
 
 **[بلدية تونس: الشروع في اعتماد المنصة الرقمية "تعمير" لايداع ومتابعة ملفات رخص البناء](https://www.assabahnews.tn/ar/الاخبار/وطنية/154018-بلدية-تونس-الشروع-في-اعتماد-المنصة-الرقمية-تعمير-لايداع-ومتابعة-ملفات-رخص-البناء)** — Assabah News, 14 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TUN/" title="TUN">Tunisia</a>
@@ -851,6 +1024,14 @@ Summarised under [Registries](#registries).
 ## Technology
 
 ### AI
+
+<div class="bulletin-item" data-places="ZAF" markdown="1">
+
+**[ACSA bets R21.7bn on metaverse, patrol robots](https://www.itweb.co.za/article/acsa-bets-r217bn-on-metaverse-patrol-robots/5yONP7ErVkeMXWrb)** — ITWeb South Africa, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
+
+Airports Company South Africa's annual report sets a plan to 2031 to bring AI, connected sensors, blockchain and robotics into airport operations, from check-in and baggage handling to patrol robots and a metaverse proof of concept. The plan sits within a R21.7bn five-year capital pipeline that also covers wider modernisation.
+
+</div>
 
 <div class="bulletin-item" data-places="KEN" markdown="1">
 
@@ -909,6 +1090,14 @@ Summarised under [Public debate and participation in policymaking](#public-debat
 </div>
 
 ### ICT Industry
+
+<div class="bulletin-item" data-places="MDG COM SEN TGO TZA" markdown="1">
+
+**[AXIAN Telecom Rebrands as Yas Group, Unifying Corporate Identity Across Africa](https://techafricanews.com/2026/09/15/axian-telecom-adopts-yas-group-as-new-corporate-identity-across-africa/)** — Tech Africa News, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MDG/" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/COM/" title="COM">Comoros</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SEN/" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TGO/" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TZA/" title="TZA">Tanzania</a>
+
+AXIAN Telecom is renaming itself Yas Group, extending to corporate level the brand its operators in Madagascar, Comoros, Senegal, Togo and Tanzania adopted in November 2024. Tower, infrastructure and fintech units such as TowerCo of Africa and Mixx keep their own names.
+
+</div>
 
 <div class="bulletin-item" data-places="KEN" markdown="1">
 
@@ -976,11 +1165,27 @@ Summarised under [Connectivity](#connectivity).
 
 ### Innovation ecosystem
 
+<div class="bulletin-item" data-places="ZAF" markdown="1">
+
+**[Afrique du Sud : la plateforme Vula franchit le cap des 3 millions de patients](https://www.wearetech.africa/fr/fils/breves/breves-simple/afrique-du-sud-la-plateforme-vula-franchit-le-cap-des-3-millions-de-patients)** — wearetech.africa, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
+
+South African referral app Vula Mobile, which connects rural health workers with specialist doctors, has passed three million patients referred. It operates in five southern African countries, which the report does not name. <span class="bulletin-item__also">*Also under [Access to services](#access-to-services).*</span>
+
+</div>
+
 <div class="bulletin-item" data-places="SEN" markdown="1">
 
 **[Babacar Mbengue traque et valorise les déchets électroniques au Sénégal](https://www.wearetech.africa/fr/fils/tech-stars/babacar-mbengue-traque-et-valorise-les-dechets-electroniques-au-senegal)** — wearetech.africa, 14 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SEN/" title="SEN">Senegal</a>
 
 A profile of Senegalese engineer Babacar Mbengue, whose company RKovera, founded in January 2026, runs a traceability platform for e-waste collection, certified data erasure and recovery of metals.
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="DZA CMR NGA EGY" markdown="1">
+
+**[Madica invests $200,000 in five African startups, enters Algeria and Cameroon](https://techcabal.com/2026/09/15/madica-five-startups/)** — TechCabal, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/DZA/" title="DZA">Algeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/CMR/" title="CMR">Cameroon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/EGY/" title="EGY">Egypt</a>
+
+Summarised under [New investments](#new-investments).
 
 </div>
 
@@ -1058,6 +1263,30 @@ Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
 
 ### Access to services
 
+<div class="bulletin-item bulletin-item--xref" data-places="ZAF" markdown="1">
+
+**[WOAN comeback in KZN with R7m UK funding](https://www.itweb.co.za/article/woan-comeback-in-kzn-with-r7m-uk-funding/VgZeyvJlpkBMdjX9)** — ITWeb South Africa, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
+
+Summarised under [Connectivity](#connectivity).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="BFA" markdown="1">
+
+**[ID Day 2026 : l'ONI ouvre plusieurs sites d'enrôlement à Ouagadougou face à l'affluence pour la CIB-AES](https://www.fasoamazone.net/2026/09/15/id-day-2026-loni-ouvre-plusieurs-sites-denrolement-a-ouagadougou-face-a-laffluence-pour-la-cib-aes/)** — FasoAmazone, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/BFA/" title="BFA">Burkina Faso</a>
+
+Summarised under [Digital Identity and CRVS](#digital-identity-and-crvs).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="ZAF" markdown="1">
+
+**[Afrique du Sud : la plateforme Vula franchit le cap des 3 millions de patients](https://www.wearetech.africa/fr/fils/breves/breves-simple/afrique-du-sud-la-plateforme-vula-franchit-le-cap-des-3-millions-de-patients)** — wearetech.africa, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
+
+Summarised under [Innovation ecosystem](#innovation-ecosystem).
+
+</div>
+
 <div class="bulletin-item bulletin-item--xref" data-places="EGY" markdown="1">
 
 **[وزارة العدل: التقاضي عن بعد تطبيقًا لقانون الإجراءات الجنائية الجديد](https://www.youm7.com/story/2026/9/14/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B9%D8%AF%D9%84-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D8%B6%D9%8A-%D8%B9%D9%86-%D8%A8%D8%B9%D8%AF-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D9%8B%D8%A7-%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A6%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF/7546339)** — Youm7, 14 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/EGY/" title="EGY">Egypt</a>
@@ -1108,6 +1337,22 @@ Summarised under [Digital Identity and CRVS](#digital-identity-and-crvs).
 
 ### Digital divides
 
+<div class="bulletin-item bulletin-item--xref" data-places="NGA" markdown="1">
+
+**[Hotspot secures World Bank facility for 500 communities](https://punchng.com/hotspot-secures-world-bank-facility-for-500-communities/)** — Punch, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
+
+Summarised under [New investments](#new-investments).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="MWI" markdown="1">
+
+**[Helios Towers Expands Rural Connectivity Push in Malawi With 55 New Sites](https://techafricanews.com/2026/09/15/helios-towers-rural-connectivity-malawi-55-new-sites/)** — Tech Africa News, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MWI/" title="MWI">Malawi</a>
+
+Summarised under [Connectivity](#connectivity).
+
+</div>
+
 <div class="bulletin-item bulletin-item--xref" data-places="EGY" markdown="1">
 
 **[كيف غيرت المحافظ الإلكترونية عادات الدفع في مصر؟](https://www.youm7.com/story/2026/9/14/%D9%83%D9%8A%D9%81-%D8%BA%D9%8A%D8%B1%D8%AA-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9-%D8%B9%D8%A7%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%81%D8%B9-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1/7540929)** — Youm7, 14 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/EGY/" title="EGY">Egypt</a>
@@ -1151,6 +1396,14 @@ Summarised under [Digital Identity and CRVS](#digital-identity-and-crvs).
 ## Data
 
 ### National statistics
+
+<div class="bulletin-item bulletin-item--xref" data-places="MAR" markdown="1">
+
+**[Coordination and Technology | Civil Registration System | Morocco](https://www.crvslaws.org/morocco/civil-registration-system/coordination-technology)** — CRVS Laws, 15 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MAR/" title="MAR">Morocco</a>
+
+Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+</div>
 
 <div class="bulletin-item bulletin-item--xref" data-places="GHA" markdown="1">
 
