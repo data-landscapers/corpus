@@ -30,7 +30,7 @@ MAR,done,2026-09-15,,,,read against source bodies during the 2026-09-15 build (s
 MDG,done,2026-09-15,,,,read against source bodies during the 2026-09-15 build (stage 4 backfill)
 MLI,done,2026-09-15,250,250,64,"supported 186, coarsened 55, relinked 3, dropped 6, gateway 0, not held 0"
 MOZ,owed,,,,,
-MRT,owed,,,,,
+MRT,done,2026-09-15,270,270,47,"supported 223, coarsened 42, relinked 5, dropped 0, gateway 0, not held 0"
 MUS,owed,,,,,
 MWI,owed,,,,,
 NAM,owed,,,,,
