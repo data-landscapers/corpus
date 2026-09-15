@@ -1,12 +1,12 @@
 ---
 title: Libya: status report
-compiled: 2026-09-08
+compiled: 2026-09-15
 place: LBY
 region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-10
 intersections_read: 7
-sources_cited: 123
+sources_cited: 124
 sections_written: 37
 not_established: 0
 acquire_lines: 50
@@ -40,7 +40,7 @@ Where the state now wants data to move, the statute book is silent. The General 
 ### Data protection
 <!-- gov.protect -->
 
-Libya's only enforceable data protection rule is a central bank circular. The [Personal Data Protection Regulation, Circular No. 18 of June 2025](https://informatics.ly/en/session/personal-data-protection-regulation-session/), bars banks, fintechs, payment providers and other supervised entities from storing personal, financial, credit or sensitive data outside Libya, carries fines of LYD 100,000 per violation and becomes mandatory on 1 July 2026 — the country's only data localisation requirement, and a sectoral one.
+Libya's only enforceable data protection rule is a central bank circular. The [Personal Data Protection Regulation, Circular No. 18 of 2025](https://informatics.ly/en/session/personal-data-protection-regulation-session/), bars banks, fintechs, payment providers and other supervised entities from storing personal, financial, credit or sensitive data outside Libya, carries fines of LYD 100,000 per violation and becomes mandatory on 1 July 2026 — the country's only data localisation requirement, and a sectoral one.
 
 There is [no standalone data protection law and no data protection authority: privacy provisions are scattered across Law No. 6 of 2022 on Electronic Transactions, Law No. 5 of 2022 on Combating Cybercrime, the 2011 Constitutional Declaration and Act No. 4 of 1990, while a national personal data protection law remains at committee-level drafting with the National Council for Public Freedoms and Human Rights](https://www.dlapiperdataprotection.com/index.html?t=law&c=LY) (2024). [Nothing monitors implementation or compliance, and nothing is published on complaints or enforcement](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). [Articles 73 to 79 of the electronic transactions law](https://lawsociety.ly/en/legislation/law-no-6-of-2022-concerning-electronic-transactions/) do set publicly available rules on the collection, processing, confidentiality and cross-border transfer of personal data by public entities and accredited authentication providers, including consent requirements and a right for individuals to access and update their data; no equivalent procedural rules have been published for the National ID Number database. [No Libyan law requires anyone, payment service providers included, to notify users or any authority of a data breach within a set time](https://www.dlapiperdataprotection.com/guide.pdf?c=LY) (2024).
 
@@ -117,7 +117,7 @@ The one rule on where data may sit is sectoral. The [Central Bank's personal dat
 ### Energy
 <!-- infra.energy -->
 
-The [General Electricity Company of Libya warned in August 2025 of near-total grid collapse](https://www.africa-energy.com/news-centre/article/gas-output-slump-worsens-libyas-power-crisis), after a complete regional outage in the east in May 2025 and against a background of extended daily load-shedding, gas feedstock shortages, ageing and damaged plant and deliberate disruption of gas supply. [Electricity reached 73.2% of the population in 2023, up from 70.0% in 2022](https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS?locations=LY), low for a state whose revenue comes from hydrocarbons, and [access to energy scored 68.9 out of 100 in 2023, 11th of 54 African states but down 5.5 points since 2014](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ly.pdf). Urban Libya is close to universally connected; [rural Libya is far behind it](https://data.worldbank.org/indicator/EG.ELC.ACCS.RU.ZS?locations=LY).
+Most of Libya went dark when [several main power stations, Al-Khaleej and Misrata among them, dropped off the grid in the early hours of 18 July 2026 and about 1,350 MW of generating capacity was lost, according to the electricity ministry of the government appointed by the House of Representatives](https://alwasat.ly/news/libya/525055). [The General Electricity Company of Libya's stations were already running on record volumes of imported diesel in October 2024 as domestic gas output fell, with no other source of generation to fall back on](https://www.africa-energy.com/news-centre/article/gas-output-slump-worsens-libyas-power-crisis). [Electricity reached 73.2% of the population in 2023, up from 70.0% in 2022](https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS?locations=LY), low for a state whose revenue comes from hydrocarbons, and [access to energy scored 68.9 out of 100 in 2023, 11th of 54 African states but down 5.5 points since 2014](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ly.pdf). Urban Libya is close to universally connected; [rural Libya is far behind it](https://data.worldbank.org/indicator/EG.ELC.ACCS.RU.ZS?locations=LY).
 
 There is little behind the grid to steady it: [renewables account for about 3% of total final energy consumption (2021), and there is no utility-scale grid-connected renewable capacity](https://data.worldbank.org/indicator/EG.FEC.RNEW.ZS?locations=LY). The [Renewable Energy Authority launched a National Strategy for Renewable Energy and Energy Efficiency 2023-2035 with USAID support in December 2023, alongside a 'Go Green' initiative targeting 500MW of distributed rooftop photovoltaic capacity](https://www.reaol.gov.ly/en/strategy/). Power meanwhile stays [close to free at the point of use, under one of the world's heaviest energy subsidy regimes](https://www.imf.org/en/publications/selected-issues-papers/issues/2025/07/12/energy-subsidy-reform-in-libya-568564) (2023).
 

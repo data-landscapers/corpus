@@ -1,12 +1,12 @@
 ---
 title: Cote d'Ivoire: status report
-compiled: 2026-09-06
+compiled: 2026-09-15
 place: CIV
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 13
-sources_cited: 208
+sources_cited: 209
 sections_written: 37
 not_established: 0
 acquire_lines: 59
@@ -27,7 +27,7 @@ Delivery belongs to that ministry, which the GovTech index records as [an establ
 
 The legal base for electronic signature and trust services in Côte d'Ivoire is older than almost everything now built on it: the national public key infrastructure rests on [loi n°2013-546 of 30 July 2013 on electronic transactions, together with the 2014 and 2016 decrees on cryptology services, electronic signature and electronic archiving](https://www.aip.ci/cote-divoire-aip-lanssi-met-en-service-linfrastructure-a-cles-publiques-nationale/). The same 2013 package carries [a law on the fight against cybercrime alongside the transactions law](https://telecom.gouv.ci/new/publications/sous-categorie/7), and [Law No. 2013-450 of 19 June 2013 on the protection of personal data](https://lexterra.ci/data/civil/Data_perso/2013-06-19_Loi_2013-450_Protection_donn%C3%A9es_personnelles.pdf), which adapts the ECOWAS Supplementary Act of 2010, grants rights of access, correction and erasure and requires consent for sensitive data including biometrics.
 
-Since then the state has legislated mainly by ordinance and decree. [Ordonnance n°2017-500 of 2 August 2017 on electronic services](https://anssi.gouv.ci/documents/22/Ordonnance_2017-500_02_ao%C3%BBt_2017_sur_les_eservices.pdf) is in force, and the Council of Ministers of [18 June 2025 adopted a decree formalising the digital nationality certificate](https://www.fratmat.info/article/2634726/politique/communique-du-conseil-des-ministres-ce-mercredi-18-juin-2025), which gave the electronically issued certificate a legal basis rather than launching a service. Identity is the clearest case of the pattern: [there is no single standalone digital identity law covering the full lifecycle](https://cipit.strathmore.edu/wp-content/uploads/2021/04/InclusionExclusionWestAfrica.pdf), and the mandate for the biometric card is assembled instead from [identity-card statutes going back to 1962 and a series of later ordinances and decrees](https://id4d.worldbank.org/sites/default/files/2018-04/Cote%20d'Ivoire_ID4D_Diagnostic_Web040618.pdf).
+Since then the state has legislated mainly by ordinance and decree. [Ordonnance n°2017-500 of 2 August 2017 on electronic services](https://anssi.gouv.ci/documents/22/Ordonnance_2017-500_02_ao%C3%BBt_2017_sur_les_eservices.pdf) is in force, and the Council of Ministers of [18 June 2025 adopted a decree formalising the digital nationality certificate](https://www.fratmat.info/article/2634726/politique/communique-du-conseil-des-ministres-ce-mercredi-18-juin-2025), which gave the electronically issued certificate a legal basis rather than launching a service. Identity is the clearest case of the pattern: [there is no single standalone digital identity law covering the full lifecycle](https://cipit.strathmore.edu/wp-content/uploads/2021/04/InclusionExclusionWestAfrica.pdf), and the biometric card rests instead on [Loi n°2019-566 of 26 June 2019, five articles that make enrolment compulsory from 16 and leave the card's technical specifications, application, renewal and the move off the paper card to the Council of Ministers](https://www.ids.ac.uk/publications/biometric-digital-id-in-africa/).
 
 Where digital-specific law is silent, general law does the work. [Data-centre construction is caught by the environmental impact regime of Loi n°96-766 and Décret n°96-894](https://www.raxiogroup.com/wp-content/uploads/2026/01/Cote-DIvoire-IVORY-COAST-ESIA-EXECUTIVE-SUMMARY.pdf), under which the Grand-Bassam project's impact study went to the Agence Nationale de l'Environnement for validation, and the framework for exchanging data between public bodies rests on [the 2013 data protection law read with the e-services ordinance](https://anssi.gouv.ci/reglementations/textes-nationaux/decrets-nationaux/). Payments law is barely national at all: the binding rules are regional, from [the WAEMU instruments governing electronic money](https://www.bceao.int/sites/default/files/2021-04/GUIDE%20POUR%20LA%20CONSTITUTION%20DES%20DOSSIERS%20POUR%20L%E2%80%99E%CC%81MISSION%20DE%20LA%20MONNAIE%20E%CC%81LECTRONIQUE%20PAR%20LES%20TRE%CC%81SORS%20PUBLICS%20NATIONAUX.pdf) to the [central bank's interoperability deadline of 30 June 2026](https://www.fratmat.info/article/2641755/economie/uemoa-linteroperabilite-des-paiements-devient-obligatoire-des-le-30-juin-2026).
 
