@@ -6,7 +6,7 @@ BFA,done,2026-09-15,347,347,108,"supported 220, coarsened 82, relinked 18, dropp
 BWA,done,2026-09-15,312,312,138,"supported 174, coarsened 115, relinked 17, dropped 6, gateway 0, not held 0"
 CAF,done,2026-09-15,295,249,90,"supported 159, coarsened 62, relinked 17, dropped 11, gateway 46, not held 0"
 CIV,owed,,,,,
-CMR,owed,,,,,
+CMR,done,2026-09-15,409,409,110,"supported 248, coarsened 81, relinked 15, dropped 14, gateway 51, not held 0"
 COD,owed,,,,,
 COG,owed,,,,,
 COM,owed,,,,,
