@@ -10,6 +10,10 @@ opened: 2026-09-15
 
 **The one-line brief for a fresh session.** *The authored status baselines carry claims their linked sources do not make; six units were repaired on 2026-09-15; the other 48 are re-read here, one agent per unit, against the held source bodies, and each repair is applied, checked and committed by the parent.*
 
+## State at pause — 2026-09-15
+
+**Paused at 33 of 54 when the session's usage ran out; resume with `python scripts/cite-reread.py status` and the loop below.** Every `done` unit is committed and passes A, B, E, G and FM. The 21 `owed` units are untouched; eight were in flight and their partial patches were discarded. `logs/.hold-cycle` was lifted so cycles are not blocked while the job waits — set it again on resuming. **The repaired baselines are committed but not yet rendered**: the next cycle's RENDER publishes them, or a plain `RENDER.md` run. Units done before the brief gained the rule that a held primary beats an AfDB dataset row (KEN onward) judged dataset claims against the row alone — a residual worth a targeted pass once the 21 are through.
+
 ## Why
 
 The 2026-09-15 build read the status-acquire backfill for six units in full and found claims in all six baselines that the linked source does not support: figures misdated by years, institutions the source never names, detail the source does not contain, a sweep annotation read as the source speaking. About 70 were repaired (MAR 18, LBR 17, LBY 12, LSO 10, MDG 5, GNQ 3). The other 48 baselines were written by the same fan-out (`STATUS-INIT.md` → *The run*), and check A tests only that a link is **held**, never that it **says** the thing — so a misattributed claim passes every check there is. These documents are published and downloadable.
