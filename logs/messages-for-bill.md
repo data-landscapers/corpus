@@ -14,6 +14,10 @@ last_reviewed: 2026-08-28
 
 <!-- newest first: a new block goes directly below this line -->
 
+## 2026-09-15 15:05 · build
+
+- **Authored status baselines cite sources that do not say what they are cited for.** Read against the source bodies this cycle, all six backfill units had such claims: misdated figures, wrong institutions, detail absent from the link. About 70 were repaired (MAR 18, LBR 17, LBY 12, LSO 10, MDG 5, GNQ 3). The other 48 baselines were built the same way and have not been checked. Yours: whether to commission a per-unit citation re-read.
+
 ## 2026-09-11 01:20 · build
 
 - The 2026-09-08 block on progress reports outside their band is now half cleared:
