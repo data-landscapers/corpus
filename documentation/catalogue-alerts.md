@@ -223,6 +223,8 @@ suite. Nothing the site builds needs it and the suite skips cleanly without it.
 10. Open **Emails → Drafts**. Expect one draft. Check the subject and that the audience filter names only the alerts with matches.
 11. Use Buttondown's **subscriber preview** on that draft for each test address in turn. Expect each to see only its own sections: three sections for the third address, one for the second, and the main-site section only where the box was ticked.
 12. Check the draft's archive setting is off, and that no address appears anywhere in the Worker's **Logs** tab.
+
+    **Built: the archive setting is not on the draft screen** (2026-09-16; its menu offers History, Delete, Send draft, Markdown mode, and Buttondown's own API refuses the dashboard's session). What is established is the request: `archival_mode: "disabled"` is asserted by `scripts/test_alerts_worker.py`, and Buttondown accepted the email while rejecting, in the same call, filter values it did not like — so it validates this body rather than ignoring fields. **The outcome is checked in E3 instead**: after the first released Monday, the issue must be absent from `https://buttondown.com/data-landscapers/archive/`.
 13. Delete the draft. Run the cron again. Expect it to stop without sending — `sent:<date>` is set.
 14. Open the manage link from the preview. Expect your alerts listed. Edit one to add a country, delete another, save.
 15. In Buttondown, check the subscriber's tags match the edit, and that `alert site` survived it.
@@ -233,7 +235,7 @@ suite. Nothing the site builds needs it and the suite skips cleanly without it.
 
 1. Tell the CC session the tests passed.
 2. Clear `last_sent_through` and any `sent:<date>` keys left by the tests.
-3. Release the first two Mondays as drafts, by hand. Only then consider `about_to_send`, and only if you want the send unattended — `draft` is a settled end state, not a probation. A template mistake here reaches everyone at once, which is the one way this design is worse than a feed per alert.
+3. Release the first two Mondays as drafts, by hand. After the first, open `https://buttondown.com/data-landscapers/archive/` and confirm the issue is **not** listed (D12's outcome check). Only then consider `about_to_send`, and only if you want the send unattended — `draft` is a settled end state, not a probation. A template mistake here reaches everyone at once, which is the one way this design is worse than a feed per alert.
 4. **Stop the old main-site alert, once the digest has sent once.** Delete the RSS-to-email feed held at Draft in A11 if there was one; if the main-site alert was sent by hand, stop sending it. **Both running is the failure this design exists to prevent** — a reader holding `alert site` would get the same post in a hand-sent mail and again in Monday's digest.
 5. The session updates `design.md` §6 to say alerts are built, and logs the run.
 6. **Nothing is announced, to anyone.** Existing subscribers move to the weekly rhythm without notice (Bill, 2026-09-16); the digest itself says what it is, and the first one a reader opens looks like the alert they signed up for. The link on the main site's newsletter page (B8) is the announcement to everyone who is not already subscribed.
