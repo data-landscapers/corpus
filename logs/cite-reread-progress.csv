@@ -48,7 +48,7 @@ SYC,done,2026-09-16,336,232,39,"supported 224, coarsened 27, relinked 10, droppe
 TCD,done,2026-09-16,341,320,39,"supported 234, coarsened 31, relinked 8, dropped 0, gateway 47, not held 21"
 TGO,done,2026-09-16,399,344,18,"supported 326, coarsened 9, relinked 5, dropped 4, gateway 26, not held 29"
 TUN,done,2026-09-16,415,220,26,"supported 296, coarsened 18, relinked 3, dropped 5, gateway 93, not held 0"
-TZA,owed,,,,,
+TZA,done,2026-09-16,395,338,21,"supported 358, coarsened 15, relinked 4, dropped 2, gateway 16, not held 0"
 UGA,done,2026-09-16,411,356,30,"supported 364, coarsened 26, relinked 3, dropped 1, gateway 17, not held 0"
 ZAF,owed,,,,,
 ZMB,owed,,,,,
