@@ -206,8 +206,9 @@
 
     var q = new URLSearchParams(location.search);
     // `?ok=confirmed` is where Buttondown sends a reader after they click the link in
-    // its confirmation email; `?ok=1` is the Worker's own redirect after a sign-up.
-    if (q.get('ok') === 'confirmed') { said('confirmed', true); } else if (q.get('ok')) { said('ok', true); }
+    // its confirmation email; `?ok=added` is the Worker's redirect for a reader already
+    // confirmed, and `?ok=1` for a new one who has an email to click.
+    if (q.get('ok') === 'confirmed' || q.get('ok') === 'added') { said(q.get('ok'), true); } else if (q.get('ok')) { said('ok', true); }
     if (q.get('e')) { said('e-' + q.get('e'), false); }
 
     var frag = fragment();

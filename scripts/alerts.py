@@ -88,7 +88,7 @@ ROW_COLS = ["title", "publisher", "published", "ingested", "places", "topics", "
 BLOCKS = ["title", "lede", "how", "what", "site", "several", "manage", "manage-title",
           "manage-lede",
           "manage-empty", "manage-saved", "manage-none", "feed", "privacy",
-          "ok", "confirmed", "e-check", "e-input", "e-later", "e-blocked"]
+          "ok", "added", "confirmed", "e-check", "e-input", "e-later", "e-blocked"]
 
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
@@ -320,6 +320,7 @@ def config(page: str, voc: dict) -> str:
             "several": copy_inline("alerts", "several"),
             "ok": copy_inline("alerts", "ok"),
             "confirmed": copy_inline("alerts", "confirmed"),
+            "added": copy_inline("alerts", "added"),
             "e-check": copy_inline("alerts", "e-check"),
             "e-input": copy_inline("alerts", "e-input"),
             "e-later": copy_inline("alerts", "e-later"),

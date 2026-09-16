@@ -10,7 +10,8 @@ by hand, and sits inline in Part A of the design beside the step that types it. 
 body is built by the Worker (`workers/alerts/worker.js`) and is not prose anyone edits.
 
 The keys `e-check`, `e-input`, `e-later` and `e-blocked` are the four `?e=` values the Worker redirects
-back with, and `ok` is `?ok=1`. Renaming one means changing the Worker too. `confirmed` is
+back with, and `ok` is `?ok=1`. Renaming one means changing the Worker too. `added` is `?ok=added`,
+for a reader already confirmed. `confirmed` is
 `?ok=confirmed`, the address Buttondown sends a reader to after they confirm.
 
 ## title
@@ -82,6 +83,10 @@ Your email address is held by Buttondown, the service that sends the alerts, and
 ## ok
 
 Check your inbox. Click the link in the email from Data Landscapers to start your alert.
+
+## added
+
+Added. It will be in your next Monday email.
 
 ## confirmed
 

@@ -766,10 +766,15 @@ async function subscribeRoute(request, env) {
       const why = await refusal(res);
       return back(`?e=${/-(subscriber_blocked|ip_address_spammy|email_blocked)$/.test(why) ? "blocked" : "later"}&why=${why}`);
     }
+    // A reader who is already confirmed gets no confirmation email, so "check your inbox"
+    // is wrong for them. Buttondown's reply says which they are; the address in the same
+    // reply is not read.
+    let type = "";
+    try { type = String((await res.json()).type || ""); } catch (err) { type = ""; }
+    return back(type === "regular" ? "?ok=added" : "?ok=1");
   } catch (err) {
     return back("?e=later");
   }
-  return back("?ok=1");
 }
 
 async function manageListRoute(request, env) {
