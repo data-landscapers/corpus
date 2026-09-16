@@ -132,3 +132,9 @@ logs/progress-filler/tmp*/
 
 # CITE-REREAD worksheets, agent patches and summaries — working files; the record is git
 logs/cite-reread/
+
+# The bearer token for `POST /api/alerts/run` on the corpus-alerts Worker, which runs the
+# Monday digest on demand (design step D9). Its twin is the Worker secret `RUN_TOKEN`. In
+# `draft` mode a stranger holding it could only build a draft, but they could also move the
+# send window forward and cost readers a week — so it never enters git.
+logs/.alerts-run-token

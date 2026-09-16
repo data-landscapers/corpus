@@ -508,6 +508,9 @@ export default {
       if (path === "/api/alerts/manage/save" && request.method === "POST") {
         return await manageSaveRoute(request, env);
       }
+      if (path === "/api/alerts/run" && request.method === "POST") {
+        return await runRoute(request, env);
+      }
     } catch (err) {
       // The error's message, never the request: a body here would be an address in a
       // response. Every message that can reach this line is one this file writes
@@ -520,8 +523,7 @@ export default {
   },
 
   async scheduled(event, env, ctx) {
-    ctx.waitUntil(runCron(env).catch((err) =>
-      cronStatus(env, { stage: "failed", error: String((err && err.message) || err) })));
+    ctx.waitUntil(runCronRecorded(env));
   },
 };
 
@@ -918,6 +920,44 @@ async function cronStatus(env, fields) {
   } catch (err) {
     // A status that cannot be written must not turn a successful run into a failed one.
   }
+}
+
+/** The cron, with its failure recorded in `cron_status` rather than only thrown. */
+async function runCronRecorded(env) {
+  try {
+    await runCron(env);
+  } catch (err) {
+    await cronStatus(env, { stage: "failed", error: String((err && err.message) || err) });
+  }
+  return env.ALERTS.get("cron_status", { type: "json" });
+}
+
+/**
+ * `POST /api/alerts/run` with `Authorization: Bearer <RUN_TOKEN>` — the Monday job, now.
+ *
+ * **Why it exists.** The dashboard offers no button to fire a cron, and on 2026-09-16 a
+ * five-minute schedule left no trace at all, so D9 could not be run. This runs exactly what
+ * the schedule runs, `sent:` guard included, and answers with `cron_status`.
+ *
+ * **Why it has a token.** In `draft` mode the worst a stranger could build is a draft — but a
+ * run also moves `last_sent_through` forward, and a window moved on a Thursday is four days a
+ * Monday reader never gets. With no `RUN_TOKEN` bound the route does not exist (404), so
+ * removing the secret is how to switch it off.
+ */
+async function runRoute(request, env) {
+  const want = String(env.RUN_TOKEN || "").trim();
+  if (!want) { return new Response("Not found", { status: 404 }); }
+  const got = (request.headers.get("authorization") || "").replace(/^Bearer\s+/i, "").trim();
+  if (!sameString(got, want)) { return json({ error: "forbidden" }, 403); }
+  return json(await runCronRecorded(env));
+}
+
+/** Compare without stopping at the first differing character. */
+function sameString(a, b) {
+  if (a.length !== b.length) { return false; }
+  let diff = 0;
+  for (let i = 0; i < a.length; i += 1) { diff |= a.charCodeAt(i) ^ b.charCodeAt(i); }
+  return diff === 0;
 }
 
 async function runCron(env) {

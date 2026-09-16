@@ -218,6 +218,8 @@ suite. Nothing the site builds needs it and the suite skips cleanly without it.
 7. In Buttondown, open **Subscribers**. Expect your address with two tags: `alert site` and one `alert <id>`.
 8. Sign up a second and third test address: one with a single country and no main-site box, one with three alerts set up in three submissions.
 9. With `SEND_MODE` still `draft`, run the cron by hand — the dashboard's **Trigger** button, or `wrangler cron trigger --cron "0 7 * * MON"`.
+
+    **Built: neither exists here.** The dashboard has no trigger button and this machine has no wrangler, and a five-minute schedule left no trace (2026-09-16). The Worker has `POST /api/alerts/run` instead, which runs exactly what the cron runs and answers with `cron_status`. It needs the Worker secret `RUN_TOKEN`, whose value is in the gitignored `logs/.alerts-run-token`; a CC session calls it from there. With no `RUN_TOKEN` bound the route is a 404.
 10. Open **Emails → Drafts**. Expect one draft. Check the subject and that the audience filter names only the alerts with matches.
 11. Use Buttondown's **subscriber preview** on that draft for each test address in turn. Expect each to see only its own sections: three sections for the third address, one for the second, and the main-site section only where the box was ticked.
 12. Check the draft's archive setting is off, and that no address appears anywhere in the Worker's **Logs** tab.
