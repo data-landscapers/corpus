@@ -704,6 +704,28 @@ async function feedRoute(request, env, url, ctx) {
   return res;
 }
 
+/**
+ * Why Buttondown refused a call, as `<status>-<code>` — `400-rate_limited`, `403-`.
+ *
+ * **The code only, never the `detail`.** Buttondown's `code` is an enum
+ * (`SubscriberInputValidationErrorCode`: `email_blocked`, `ip_address_spammy`, …) and names
+ * no one; its `detail` is prose and may quote the address it refused. The code goes into the
+ * redirect so a failed sign-up says why in the address bar, which is where D5's first
+ * `?e=later` left nothing to go on (2026-09-16). Anything not shaped like an enum is dropped.
+ */
+async function refusal(res) {
+  let code = "";
+  try {
+    const body = await res.json();
+    if (body && typeof body.code === "string" && /^[a-z_]{1,60}$/.test(body.code)) {
+      code = body.code;
+    }
+  } catch (err) {
+    code = "";
+  }
+  return `${res.status}-${code}`;
+}
+
 async function subscribeRoute(request, env) {
   const back = (q) => seeOther(`${site(env)}/alerts/${q}`);
   const form = await request.formData();
@@ -737,7 +759,7 @@ async function subscribeRoute(request, env) {
       headers: { "X-Buttondown-Collision-Behavior": "add" },
       body: subscriberBody(email, tags, ip, `${site(env)}/alerts/`),
     });
-    if (!res.ok) { return back("?e=later"); }
+    if (!res.ok) { return back(`?e=later&why=${await refusal(res)}`); }
   } catch (err) {
     return back("?e=later");
   }
