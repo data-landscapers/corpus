@@ -62,6 +62,14 @@ reader ──► Cloudflare edge ──► Worker `download-log` ──┬─►
 
 **Any `MX` and `TXT` records on the `.com` are email and domain verification and are unrelated to the above.** Leave them alone.
 
+### The sending domain — mail records on the `.io`
+
+**The `.io` zone sends no mail as of 2026-09-16**, which is why the table above has no `MX` and no `TXT`. Alerts change that: Buttondown sends from a `data-landscapers.io` address, and `documentation/catalogue-alerts.md` A3 is the decision and the reasoning. **The root domain and Buttondown's manual records, not its managed DNS and not its Cloudflare integration** — managed DNS cannot be used on a root domain and would delegate a subdomain this file could no longer describe, and the integration wants a DNS-edit grant over the zone that serves both sites, the Workers routes and every edition URL.
+
+**The mail records are the exception to *all three hostnames are proxied*.** Buttondown's `CNAME` rows go in as **DNS only — grey cloud**; proxied, they answer with Cloudflare's addresses instead of Buttondown's and DKIM verification never passes. `TXT` and `NS` cannot be proxied, so they carry no such trap. **Do not orange these rows while tidying the zone**: nothing about the dashboard distinguishes them from the hostnames above, and the failure they cause is a verification that quietly stops passing rather than a page that stops loading.
+
+**The rows themselves are Buttondown's and belong in the table above once they verify** — type, name, content and `DNS only` for each. Whoever adds them updates the count in *the live zone* with them. Because the zone had no SPF record, Buttondown's is the only one; **if this domain ever gains a second sender, merge into one `v=spf1 … ~all` record rather than adding a second**, which is a permanent failure rather than a degraded one. There is no `DMARC` record and none is needed to send; `p=none` with a reporting address is the cheap first step if it is ever wanted.
+
 ## TLS
 
 **SSL/TLS mode is Full (strict), on both zones.** Cloudflare talks to GitHub over HTTPS and validates the certificate. Flexible would put plain HTTP on that leg, GitHub would redirect it to HTTPS, and the redirect would arrive back at Cloudflare to be stripped again — a loop.
