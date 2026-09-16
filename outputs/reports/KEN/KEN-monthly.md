@@ -1,11 +1,11 @@
 ---
 title: Kenya — monthly update, August – September 2026
-compiled: 2026-09-14
-period: 2026-08-01 to 2026-09-14
+compiled: 2026-09-16
+period: 2026-08-01 to 2026-09-16
 place: KEN
-ledger_rows: 169
+ledger_rows: 173
 not_held: 7
-record: e9c349b043a4
+record: dda181db11d3
 ---
 
 # Kenya: monthly update, August – September 2026
