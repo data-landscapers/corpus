@@ -39,7 +39,7 @@ NGA,owed,,,,,
 RWA,owed,,,,,
 SDN,done,2026-09-16,259,233,22,"supported 211, coarsened 21, relinked 0, dropped 1, gateway 0, not held 26"
 SEN,owed,,,,,
-SLE,owed,,,,,
+SLE,done,2026-09-16,331,305,30,"supported 275, coarsened 27, relinked 3, dropped 0, gateway 26, not held 0"
 SOM,owed,,,,,
 SSD,owed,,,,,
 STP,owed,,,,,
