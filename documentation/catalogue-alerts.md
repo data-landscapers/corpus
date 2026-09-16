@@ -2,7 +2,7 @@
 type: design-note
 title: catalogue-alerts.md — one weekly email per reader, built by a Cloudflare Worker and sent by Buttondown
 last_reviewed: 2026-09-16
-status: A-D done 2026-09-16; email and page cosmetics done and confirmed in a real email; one fresh sign-up still to check the confirmation email's banner, manage link and redirect; then E
+status: built and deployed 2026-09-16; E2 and E4 done; E3 on Monday 2026-09-21 — check `cron_status` first, then release the draft by hand
 ---
 
 # Catalogue alerts
@@ -240,7 +240,7 @@ suite. Nothing the site builds needs it and the suite skips cleanly without it.
 
 1. Tell the CC session the tests passed.
 2. Clear `last_sent_through` and any `sent:<date>` keys left by the tests.
-3. Release the first two Mondays as drafts, by hand. After the first, open `https://buttondown.com/data-landscapers/archive/` and confirm the issue is **not** listed (D12's outcome check). Only then consider `about_to_send`, and only if you want the send unattended — `draft` is a settled end state, not a probation. A template mistake here reaches everyone at once, which is the one way this design is worse than a feed per alert.
+3. **First, on Monday morning, check that the cron fired**: KV → `alerts` → a `cron_status` key dated that morning. Cloudflare's schedule was never seen to fire during testing — a five-minute test schedule left no trace — so this is unproven until then. If the key is missing, a CC session runs `POST /api/alerts/run` with the token in `logs/.alerts-run-token`, which builds the same draft, and then finds out why the schedule did not fire. Release the first two Mondays as drafts, by hand. After the first, open `https://buttondown.com/data-landscapers/archive/` and confirm the issue is **not** listed (D12's outcome check). Only then consider `about_to_send`, and only if you want the send unattended — `draft` is a settled end state, not a probation. A template mistake here reaches everyone at once, which is the one way this design is worse than a feed per alert.
 4. **Stop the old main-site alert, once the digest has sent once.** Delete the RSS-to-email feed held at Draft in A11 if there was one; if the main-site alert was sent by hand, stop sending it. **Both running is the failure this design exists to prevent** — a reader holding `alert site` would get the same post in a hand-sent mail and again in Monday's digest.
 5. The session updates `design.md` §6 to say alerts are built, and logs the run.
 6. **Nothing is announced, to anyone.** Existing subscribers move to the weekly rhythm without notice (Bill, 2026-09-16); the digest itself says what it is, and the first one a reader opens looks like the alert they signed up for. The link on the main site's newsletter page (B8) is the announcement to everyone who is not already subscribed.
