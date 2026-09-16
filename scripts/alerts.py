@@ -253,6 +253,12 @@ def picker(kind: str, label: str, options: str) -> str:
 </div>"""
 
 
+# **The page script loads before Turnstile's, and Turnstile is told which callback to call.**
+# `api.js` is async, so it normally arrives after `alerts.js` has run and found no
+# `window.turnstile`; `alerts.js` then leaves `onloadTurnstileCallback` for it. Cloudflare
+# calls that only if the script URL names it in `onload=` — without it (2026-09-16, step D5)
+# the widget never rendered, no token was posted, and every sign-up came back `?e=check`.
+# `alerts.js` goes first so the callback is defined before `api.js` can possibly run.
 PAGE = """<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -286,8 +292,8 @@ PAGE = """<!DOCTYPE html>
 {foot}
 
 <script>window.ALERTS = {config};</script>
-<script src="https://challenges.cloudflare.com/turnstile/v0/api.js?render=explicit" async defer></script>
 {alerts_js}
+<script src="https://challenges.cloudflare.com/turnstile/v0/api.js?render=explicit&amp;onload=onloadTurnstileCallback" async defer></script>
 </div>
 </body>
 </html>

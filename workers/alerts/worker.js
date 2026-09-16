@@ -572,10 +572,13 @@ function bd(env, path, init) {
  * right direction: no tag, no subscriber, no confirmation email.
  */
 async function turnstileOk(request, env, token) {
-  if (!env.TURNSTILE_SECRET || !token) { return false; }
+  // Trimmed for the reason `urlVar` trims: the dashboard keeps a pasted space.
+  const secret = String(env.TURNSTILE_SECRET || "").trim();
+  const response = String(token || "").trim();
+  if (!secret || !response) { return false; }
   const form = new FormData();
-  form.append("secret", env.TURNSTILE_SECRET);
-  form.append("response", token);
+  form.append("secret", secret);
+  form.append("response", response);
   const ip = request.headers.get("cf-connecting-ip");
   if (ip) { form.append("remoteip", ip); }
   const res = await fetch("https://challenges.cloudflare.com/turnstile/v0/siteverify",
