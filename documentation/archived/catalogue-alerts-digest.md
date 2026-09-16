@@ -1,8 +1,18 @@
 ---
 type: design-note
-title: catalogue-alerts-digest.md — alternative to catalogue-alerts.md: one weekly email per reader, built by the Worker
-last_reviewed: 2026-09-15
-status: proposed by Cowork 2026-09-15 for CC to weigh against catalogue-alerts.md; not decided
+title: catalogue-alerts-digest.md — superseded: the digest design won and was folded into catalogue-alerts.md
+last_reviewed: 2026-09-16
+status: closed 2026-09-16; kept for the comparison, not for the build
+---
+
+# Verdict, 2026-09-16
+
+**This design won, and it is no longer read.** `documentation/catalogue-alerts.md` is now the single buildable spec: the digest send, the multi-select alerts, the manage page and the cron window are folded into it, and the per-feed design it displaced is recorded there as a rejected decision. Nothing below is the build brief. **Two live notes, one a diff against the other, is how a build goes wrong** — the session that builds this would have had to hold both and resolve them.
+
+Three of the five questions in *What must be proved first* closed against Buttondown's documentation on 2026-09-16, including the one that could have killed the design: `subscriber.tags` is a list of tag **names** and the docs' own example tests it with `{% if 'python' in subscriber.tags %}`. The merged note's Part 4 carries what closed and the one line left open.
+
+Four defects in the text below were fixed in the merge rather than left for the build: the alert definition stored no tag **id**, which the email's audience filter needs; the per-tag subscriber count it reached for does not exist on Buttondown's tag object, and `/tags/{id}/analytics` reports subscribers *created with* a tag rather than those holding it, so the count comes from one paginated pass over `/subscribers` instead; **`archival_mode` was unset**, which would have published every reader's sections together at a permanent public URL; and `manage/list` carried no Turnstile. The magic-link rationale in *Decisions* was also wrong on fact — `POST /v1/subscribers/{id}/send-magic-link` exists — and the real reason, that its link lands in Buttondown's portal which cannot edit a Corpus-held definition, is in the merged note.
+
 ---
 
 # Catalogue alerts — the digest alternative
