@@ -1,15 +1,15 @@
 ---
 title: New investments — monthly update, August – September 2026
-compiled: 2026-09-15
-period: 2026-08-01 to 2026-09-15
+compiled: 2026-09-16
+period: 2026-08-01 to 2026-09-16
 subject: finance.new
-places: AGO; BEN; BFA; CMR; TCD; COG; CIV; COD; EGY; SWZ; ETH; GHA; KEN; MWI; MUS; MAR; MOZ; NGA; RWA; SEN; ZAF; TZA; ZMB; ZWE
-record: aad8b935ea1c
+places: AGO; BEN; BFA; CMR; CAF; TCD; COG; CIV; DJI; COD; EGY; SWZ; ETH; GHA; KEN; MWI; MUS; MAR; MOZ; NER; NGA; RWA; SEN; ZAF; TZA; ZMB; ZWE
+record: 5026e9785da3
 ---
 
 # New investments: monthly update, August – September 2026
 
-*24 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*27 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -33,6 +33,10 @@ What deters investment was named out loud. At a United States-convened business 
 
 The EU's digital money was set out in September: [CFAF 9.83bn for the regional Digital Business Boost for Africa and CFAF 9.83bn for Digital Acceleration in Cameroon, signed on 16 June](https://www.businessincameroon.com/cooperation/1109-16730-cameroon-eu-shape-new-sme-agenda-around-finance-and-digitalization).
 
+## Central African Republic
+
+The regional programme acquired a date rather than money. The country's component of the Central Africa digital integration programme [is to launch in April 2027, after a week of work in Bangui by a financier mission covering connectivity, public services, data and cybersecurity](https://www.agenceecofin.com/actualites-numerique/1509-141566-centrafrique-connectivite-services-publics-donnees-les-chantiers-du-cardip-de-la-banque-mondiale). No national allocation or workplan is published.
+
 ## Chad
 
 The digital transformation project [shows US$12,220,932 disbursed and three thousand electronic payment terminals handed to the finance ministry](https://www.lepaystchad.com/tchad-3-000-terminaux-de-paiement-electronique-remis-au-ministere-des-finances-pour-moderniser-la-collecte-des-recettes-publiques/), with about 500 unserved localities named as the outstanding challenge. Its envelope is [carried as FCFA 76.45bn in one source and US$92.2m in another](https://projects.worldbank.org/en/projects-operations/project-detail/P180000) — the first close to total project cost, the second to the grant alone — and no source reconciles them. A [further programme of about FCFA 8bn sits at pipeline stage](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-TD-K00-019), 90 per cent externally committed with a closing date of 31 January 2029, covering electronic tax, standardised electronic invoicing, customs upgrades, tax teleservice centres and one-stop-shop interconnection. It is an aid-transparency record, not a signed instrument.
@@ -50,6 +54,10 @@ The month's one new financing commitment is large and thinly documented. The gov
 The African Development Bank's e-government programme is meanwhile the [route by which several of the ministry's digital projects reach the market, through open tenders and calls for expressions of interest](https://digitalmag.ci/services-publics-financements-bad-des-projets-numeriques-en-cote-divoire-appels-doffres-et-avis-a-manifestation-dinteret/), with the winners of the two 30-company support programmes among the intended bidders. No award, value or project list is published.
 
 A further figure was attached to the digitalisation programme at the prioritisation workshop: [US$150m, about FCFA 88.5bn, stated as lender support for digitalising public services, against a state informatics company count of 315 services already digitalised](https://afriksoir.net/connectivite-des-infrastructures-publiques-la-cote-divoire-se-lance-dans-la-modernisation-de-son-administration/). It was stated at a workshop rather than in a financing instrument, and its relationship to the inclusive-digitalisation credit already ratified by decree is not explained — two figures for the same donor and the same purpose, with no statement of whether they are one commitment or two.
+
+## Djibouti
+
+The investment on offer was estimated rather than committed. A country private sector diagnostic [identified at least US$600 million of private investment and about 12,000 jobs available over five years across off-grid solar energy, data centres and tourism, with the policy actions that would unlock them](https://www.worldbank.org/en/news/press-release/2026/09/14/world-bank-group-report-identifies-significant-private-investment-potential-for-dj). Nothing in it is a transaction.
 
 ## DR Congo
 
@@ -99,6 +107,10 @@ A corporate venture fund of US$250m, writing cheques of up to US$5m into regiona
 ## Mozambique
 
 The digital foundations programme runs to 2027 with the European Union delegation funding and the telecommunications union implementing. It reports [a national digital skills assessment drawing on more than 30 interviews and a survey of about 400 young people, a Matola pilot training 50 young people and 5 teachers, 15 women trained under a govtech challenge, more than 100 participants in artificial-intelligence training for young women and more than 320 stakeholders reached by accessibility work](https://www.itu.int/en/ITU-D/Regional-Presence/Africa/Pages/projects/2023/mozambique-vamoz-digital.aspx). The project page is undated and rolling, so none of those outputs can be placed inside this window, and no disbursement update is held.
+
+## Niger
+
+Rural connectivity was financed rather than built. A [US$100m agreement, about CFA 55bn, was signed for a smart villages project for rural growth and financial inclusion, to be implemented by the information society agency across every region, its main aim to widen access to mobile telephony and broadband in rural areas](https://finances.gouv.ne/index.php/une/743-signature-d-un-accord-de-financement-du-projet-villages-intelligents-pour-la-croissance-rurale-et-l-inclusion-financiere-reduire-la-fracture-numerique-entre-les-zones-urbaines-et-le-milieu-rural-du-niger). No start date or coverage target is published.
 
 ## Nigeria
 

@@ -1,15 +1,15 @@
 ---
 title: MoUs and other agreements — monthly update, August – September 2026
-compiled: 2026-09-15
-period: 2026-08-01 to 2026-09-15
+compiled: 2026-09-16
+period: 2026-08-01 to 2026-09-16
 subject: finance.mou
-places: DZA; CIV; COD; GHA; KEN; NER; NGA; RWA; UGA
-record: cac6b58ca326
+places: DZA; CIV; COD; GHA; KEN; MAR; MOZ; NER; NGA; RWA; TZA; UGA
+record: 9c048f46ebf3
 ---
 
 # MoUs and other agreements: monthly update, August – September 2026
 
-*9 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*12 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -33,6 +33,14 @@ The country renewed the agreement under which several of its digital customs sys
 
 The judiciary took on a foreign partner for its access-to-justice work. A memorandum [was signed at the Supreme Court on 10 August with a Netherlands justice-innovation institute, with an intergovernmental development-law organisation and the Netherlands embassy participating](https://www.hiil.org/news/hiil-and-kenyas-judiciary-formalise-partnership/), building on the country's own access-to-justice blueprint. No value, term or deliverable is stated. In the same week the chamber of commerce and the council of governors [signed a five-year agreement to harmonise county business licensing and digitise small-enterprise data across all 47 counties](https://www.kenyachamber.or.ke/2026/08/13/kncci-and-cog-sign-landmark-strategic-partnership-to-drive-msme-growth-data-digitization-and-county-led-economic-development/), with no budget, milestone or data-governance arrangement for the pooled data stated.
 
+## Morocco
+
+The digital transition ministry and a critical digital-infrastructure supplier [signed a memorandum in Rabat on developing digital infrastructure, cloud computing and artificial intelligence](https://panorapost.ma/post.php?id=56584). No value, deliverable or date is published, so what is held is an intention.
+
+## Mozambique
+
+The finance ministry and Brazil's public services management ministry [formalised a memorandum on exchanging experience and training staff in public procurement, payroll management, digital transformation and administrative modernisation](https://aimnews.org/2026/09/14/mocambique-e-brasil-aprofundam-cooperacao-para-modernizar-gestao-publica/). No value, deliverable or date accompanies it.
+
 ## Niger
 
 The Algerian state operator [signed conventions in Niamey on 8 September for a skills centre and donated transmission equipment for a 100 Gbps Ngezam-Agadez link on the national backbone](https://anp.ne/cooperation-algerie-telecom-signe-deux-conventions-de-partenariat-avec-niger-telecom-et-escep-niger/); no value is stated.
@@ -44,6 +52,10 @@ The one memorandum signed in the window is domestic: the technology development 
 ## Rwanda
 
 The month's one agreement is in capital markets. On 7 August the Capital Markets Authority [signed a memorandum with a Nigerian registrar company](https://radiotv10.rw/en/cma-rwanda-partners-with-nigerias-africa-prudential-to-advance-capital-markets-development/) to cooperate on registrar services, securities administration, investor identification, data management and digital capital-markets systems. It follows a study visit in June to that company's digital investor-services model — virtual shareholder meetings, electronic voting and mobile-based investment tracking. No term, value or workplan is published, and nothing in the account addresses the protection of the investor data the cooperation is about.
+
+## Tanzania
+
+A Korean track was pressed at the Korea-Africa economic cooperation ministerial, where the finance minister [agreed to accelerate delivery of a stated US$2.5bn Korean commitment covering transport infrastructure, technology, culture, industry and health](https://www.jamhurimedia.co.tz/tanzania-na-korea-zatafuta-ushirikiano-imara-wa-kiuchumi/), and a university partnership [was pressed on artificial intelligence, digital skills, research and technology entrepreneurship](https://businessinsider.co.tz/tanzania-hanyang-erica-deepens-tech-partnership/). Neither carries a signed instrument, a digital allocation or a date.
 
 ## Uganda
 

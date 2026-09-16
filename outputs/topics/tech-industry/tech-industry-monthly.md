@@ -1,15 +1,15 @@
 ---
 title: ICT Industry — monthly update, August – September 2026
-compiled: 2026-09-15
-period: 2026-08-01 to 2026-09-15
+compiled: 2026-09-16
+period: 2026-08-01 to 2026-09-16
 subject: tech.industry
-places: DZA; AGO; BWA; EGY; GNQ; SWZ; GAB; GHA; KEN; MUS; MAR; NER; NGA; SEN; ZAF; SDN; TZA; TGO; UGA; ZMB; ZWE
-record: 680f62648f8d
+places: DZA; AGO; BWA; EGY; GNQ; SWZ; GAB; GHA; KEN; MUS; MAR; MOZ; NER; NGA; SEN; ZAF; SDN; TZA; TGO; UGA; ZMB; ZWE
+record: 434edaf84694
 ---
 
 # ICT Industry: monthly update, August – September 2026
 
-*21 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*22 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -60,6 +60,10 @@ The month’s industry news is a stake, not a product. A pan-African investment 
 ## Morocco
 
 The industry and trade ministry [added video games to the innovation funding programme](https://en.7news.ma/morocco-adds-video-games-to-innovation-funding-programme/), so companies in the sector can now apply for government funding to develop and test new games. No allocation, ceiling or first award has been published.
+
+## Mozambique
+
+The state is looking for a partner to take part of its telecommunications operator. Government [opened the selection of a strategic investor to take part of the state's shareholding, seeking financial, technological and management capacity, with a multisectoral technical team running the negotiation](https://profile.co.mz/governo-procura-novo-investidor-para-recuperar-tmcel/). No stake size, valuation or timetable is published.
 
 ## Niger
 

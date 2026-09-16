@@ -1,15 +1,15 @@
 ---
 title: Digitalisation of sub-national government — monthly update, August – September 2026
-compiled: 2026-09-15
-period: 2026-08-01 to 2026-09-15
+compiled: 2026-09-16
+period: 2026-08-01 to 2026-09-16
 subject: digital.localgov
-places: AGO; BFA; BDI; CMR; GHA; GNB; LBY; MWI; MLI; NAM; NGA; RWA; SEN; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: bf42221d4f40
+places: AGO; BFA; BDI; CMR; TCD; GHA; GNB; LBY; MWI; MLI; NAM; NGA; RWA; SEN; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 423406c4d6c9
 ---
 
 # Digitalisation of sub-national government: monthly update, August – September 2026
 
-*21 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*22 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -34,6 +34,10 @@ Local government gained equipment rather than systems. A development agency [han
 Metering is where local digitisation is actually buying hardware. The state water utility [awarded a Chinese manufacturer a FCFA 721.76m contract on 17 August 2026 to deploy 3,000 smart meters, the first 7.5 per cent of the 40,000 planned under a World Bank-financed programme](https://leconomie.info/article/camwater-confie-a-une-entreprise-chinoise-le-deploiement-de-3-000-compteurs-intelligents-pour-72176-millions-de-fcfa). No installation schedule, data-handling arrangement or tariff effect is stated, and what the meters read is household consumption.
 
 The housing and telecoms ministries [launched a National Action Plan for Smart City Development with UN-Habitat on 8 September, on three pillars with decentralised authorities as lead actors and the mobile operators and state operator named for delivery](https://fr.journalducameroun.com/plan-national-villes-intelligentes-ce-que-le-cameroun-va-changer-dans-ses-villes/). No costing or pilot city list is published.
+
+## Chad
+
+A second town began digitising its own services. The Abeche town hall, the provincial telecommunications delegation and the ICT development agency [met to strengthen a partnership digitising municipal services and training staff in digital tools](https://www.alwihdainfo.com/tchad-la-commune-dabeche-et-les-telecommunications-unissent-leurs-forces-pour-accelerer-la-digitalisation/). No service, budget or delivery date is published.
 
 ## Ghana
 

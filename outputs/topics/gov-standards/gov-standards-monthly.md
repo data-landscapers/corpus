@@ -1,15 +1,15 @@
 ---
 title: Standards — monthly update, August – September 2026
-compiled: 2026-09-15
-period: 2026-08-01 to 2026-09-15
+compiled: 2026-09-16
+period: 2026-08-01 to 2026-09-16
 subject: gov.standards
-places: AGO; BEN; CPV; CAF; TCD; COM; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GIN; KEN; LBR; LBY; MWI; MLI; MRT; MUS; MOZ; NER; NGA; RWA; STP; SEN; SYC; SOM; ZAF; SDN; TZA; TGO; UGA; ZMB
-record: aff4fd3d0351
+places: AGO; BEN; CPV; CAF; TCD; COM; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GIN; KEN; LBR; LBY; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SOM; ZAF; SDN; TZA; TGO; UGA; ZMB
+record: b2dc0b66cfd2
 ---
 
 # Standards: monthly update, August – September 2026
 
-*36 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*37 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -111,6 +111,10 @@ Mauritius moved to bind its own digital services to a standard. Cabinet [took no
 ## Mozambique
 
 The regulator opened a free public device-identity lookup on 4 August, checked against a registry held by an industry association ([regulator notice](https://www.incm.gov.mz/2026/08/04/disponivel-plataforma-de-base-de-dados-para-consulta-de-imei/)). The notice sets out no type approval, import control, blocking regime or penalty.
+
+## Namibia
+
+How the state speaks was standardised before what it runs was. The communications minister [launched a harmonised government communication strategy for 2026 to 2030 and a government corporate brand identity manual, both approved by cabinet in March 2026](https://nambusinessexpress.com/?p=15515). No implementation plan, and no compliance requirement on ministries, is published.
 
 ## Niger
 

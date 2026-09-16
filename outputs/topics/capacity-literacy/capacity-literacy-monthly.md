@@ -1,15 +1,15 @@
 ---
 title: Literacy — monthly update, August – September 2026
-compiled: 2026-09-14
-period: 2026-08-01 to 2026-09-14
+compiled: 2026-09-16
+period: 2026-08-01 to 2026-09-16
 subject: capacity.literacy
-places: AGO; COM; COD; GHA; KEN; LBR; MDG; MOZ; RWA; SEN; SSD; TZA; TGO; ZMB
-record: 79779382648e
+places: AGO; COM; COD; EGY; GHA; KEN; LBR; MDG; MOZ; RWA; SEN; SSD; TZA; TGO; ZMB
+record: 345d4708f4db
 ---
 
 # Literacy: monthly update, August – September 2026
 
-*14 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*15 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -24,6 +24,10 @@ The one literacy development in the window is an announcement rather than an act
 ## DR Congo
 
 A [campaign to publicise the digital code launched in Kinshasa on 6 August, mobilising 2,000 young volunteers for 30 days at two publications a day](https://acp.cd/economie/rdc-la-campagne-de-vulgarisation-du-code-du-numerique-lancee-a-kinshasa/) on cybersecurity, data protection and responsible internet use, carried by the ministry with UNDP support. The code was promulgated in March 2023, and no budget for the campaign and no measure of its effect is stated.
+
+## Egypt
+
+Devices were announced rather than delivered. As the school year opened, the education minister [put free tablets at about 700,000 secondary students a year with an extension to technical education, above 1.2 million devices announced in total](https://egyptwindow.net/article/4906806), a figure set in the same account against connection costs and teacher readiness. No count of devices delivered or in use is published.
 
 ## Ghana
 
