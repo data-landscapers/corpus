@@ -716,12 +716,20 @@ async function feedRoute(request, env, url, ctx) {
  * redirect so a failed sign-up says why in the address bar, which is where D5's first
  * `?e=later` left nothing to go on (2026-09-16). Anything not shaped like an enum is dropped.
  */
-async function refusal(res) {
+async function refusal(res, withMessages) {
   let code = "";
   try {
     const body = await res.json();
     if (body && typeof body.code === "string" && /^[a-z_]{1,60}$/.test(body.code)) {
       code = body.code;
+    } else if (body && Array.isArray(body.detail)) {
+      // A 422 is a list of field errors rather than a code. The field path and error type
+      // name a place in the request, never a value from it; the prose message may quote
+      // the value, so it is included only where the caller says the request held nothing
+      // personal — the email body, never a subscriber.
+      code = body.detail.slice(0, 5).map((d) =>
+        [(d.loc || []).join("."), d.type, withMessages ? d.msg : ""].filter(Boolean).join(":"))
+        .join(" | ");
     }
   } catch (err) {
     code = "";
@@ -766,8 +774,8 @@ async function subscribeRoute(request, env) {
       // Buttondown's firewall (Settings → Firewall) turns a sign-up away with
       // `subscriber_blocked`. "Try again later" is the wrong advice for that — a retry is
       // what raises the risk score — so it gets a message of its own.
-      const why = await refusal(res);
-      return back(`?e=${/-(subscriber_blocked|ip_address_spammy|email_blocked)$/.test(why) ? "blocked" : "later"}&why=${why}`);
+      const why = encodeURIComponent(await refusal(res));
+      return back(`?e=${/-(subscriber_blocked|ip_address_spammy|email_blocked)$/.test(decodeURIComponent(why)) ? "blocked" : "later"}&why=${why}`);
     }
     // A reader who is already confirmed gets no confirmation email, so "check your inbox"
     // is wrong for them. Buttondown's reply says which they are; the address in the same
@@ -1012,7 +1020,7 @@ async function runCron(env) {
   const body = renderDigest(sections, { siteBase: site(env) });
   const email = buildEmail(sections, { monday: today, body, sendMode: env.SEND_MODE });
   const res = await bd(env, "/emails", { method: "POST", body: email });
-  if (!res.ok) { throw new Error(`emails ${await refusal(res)}`); }
+  if (!res.ok) { throw new Error(`emails ${await refusal(res, true)}`); }
   const made = await res.json();
 
   await env.ALERTS.put("last_sent_through", plan.to);
