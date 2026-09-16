@@ -49,7 +49,7 @@ TCD,done,2026-09-16,341,320,39,"supported 234, coarsened 31, relinked 8, dropped
 TGO,done,2026-09-16,399,344,18,"supported 326, coarsened 9, relinked 5, dropped 4, gateway 26, not held 29"
 TUN,done,2026-09-16,415,220,26,"supported 296, coarsened 18, relinked 3, dropped 5, gateway 93, not held 0"
 TZA,owed,,,,,
-UGA,owed,,,,,
+UGA,done,2026-09-16,411,356,30,"supported 364, coarsened 26, relinked 3, dropped 1, gateway 17, not held 0"
 ZAF,owed,,,,,
 ZMB,owed,,,,,
 ZWE,owed,,,,,
