@@ -79,6 +79,21 @@ const MAX_WINDOW_DAYS = 21;
 const TAG_BASE = "tag:corpus.data-landscapers.io,2026:";
 
 /**
+ * The first line of every digest: the site logo and *New from Data Landscapers*, as one image.
+ *
+ * **It is in the body because nowhere else holds it in a real email** (Bill, 2026-09-16).
+ * Buttondown's template puts its icon above the subject and the newsletter name below it;
+ * in a sent email the icon is fixed at 40px whatever CSS says, and the Header field shows
+ * only on the web version. So the newsletter icon is a transparent image, CSS hides the
+ * template's subject and name, and this image leads the body. The `width` attribute is what
+ * mail clients obey; the style lets a phone shrink it. `site/assets/email-banner.png` is drawn
+ * at 3x for this size.
+ */
+const BANNER = '<img src="https://corpus.data-landscapers.io/assets/email-banner.png" ' +
+  'width="446" alt="New from Data Landscapers" ' +
+  'style="display:block;width:446px;max-width:100%;height:auto;border:0;margin:0 0 16px">';
+
+/**
  * A Buttondown subscriber id, in either of the two forms it comes in: a UUID with hyphens,
  * as `{{ subscriber.id }}` renders in an email, or a TypeID with an underscore, `sub_…`, as
  * the dashboard shows it. The first version allowed hyphens only, so a manage link built
@@ -321,7 +336,7 @@ function planDigest(o) {
  * **names**, and Buttondown's own example is `{% if 'python' in subscriber.tags %}`.
  */
 function renderDigest(sections, o) {
-  const out = ["New this week for your alerts.", ""];
+  const out = [BANNER, "", "New this week for your alerts.", ""];
   for (const s of sections) {
     out.push(`{% if "${s.tag}" in subscriber.tags %}`);
     out.push(`## ${mdText(s.heading)}`, "");

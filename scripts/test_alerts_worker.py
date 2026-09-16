@@ -294,7 +294,9 @@ check("a definition's stored tag_id is the fallback when the list lacks it",
 
 print("\nthe body, character for character")
 
-GOLDEN = """New this week for your alerts.
+GOLDEN = """<img src="https://corpus.data-landscapers.io/assets/email-banner.png" width="446" alt="New from Data Landscapers" style="display:block;width:446px;max-width:100%;height:auto;border:0;margin:0 0 16px">
+
+New this week for your alerts.
 
 {% if "alert site" in subscriber.tags %}
 ## New on data-landscapers.io
