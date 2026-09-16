@@ -212,6 +212,8 @@ suite. Nothing the site builds needs it and the suite skips cleanly without it.
 4. Click **Get alerts**. Expect the alerts page with Kenya, Nigeria and the AI topic already selected, and the main-site box unticked.
 5. Tick the main-site box. Enter your own email address and submit.
 6. Expect the page's *check your inbox* message, then Buttondown's confirmation email. Click the confirm link.
+
+    **Where the confirm link lands is Buttondown's setting.** On 2026-09-16 it landed on the site's home page. Point Buttondown's post-confirmation redirect at `https://corpus.data-landscapers.io/alerts/?ok=confirmed`, which shows *Confirmed. Your alerts start with the next Monday email.* One confirmation email serves the catalogue and main-site sign-ups alike, and the alerts page covers both.
 7. In Buttondown, open **Subscribers**. Expect your address with two tags: `alert site` and one `alert <id>`.
 8. Sign up a second and third test address: one with a single country and no main-site box, one with three alerts set up in three submissions.
 9. With `SEND_MODE` still `draft`, run the cron by hand — the dashboard's **Trigger** button, or `wrangler cron trigger --cron "0 7 * * MON"`.
