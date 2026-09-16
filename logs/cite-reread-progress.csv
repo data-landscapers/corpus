@@ -50,6 +50,6 @@ TGO,done,2026-09-16,399,344,18,"supported 326, coarsened 9, relinked 5, dropped 
 TUN,done,2026-09-16,415,220,26,"supported 296, coarsened 18, relinked 3, dropped 5, gateway 93, not held 0"
 TZA,done,2026-09-16,395,338,21,"supported 358, coarsened 15, relinked 4, dropped 2, gateway 16, not held 0"
 UGA,done,2026-09-16,411,356,30,"supported 364, coarsened 26, relinked 3, dropped 1, gateway 17, not held 0"
-ZAF,owed,,,,,
+ZAF,done,2026-09-16,404,375,21,"supported 361, coarsened 17, relinked 1, dropped 3, gateway 22, not held 0"
 ZMB,done,2026-09-16,339,307,32,"supported 275, coarsened 26, relinked 5, dropped 1, gateway 32, not held 0"
 ZWE,done,2026-09-16,345,284,27,"supported 278, coarsened 18, relinked 2, dropped 7, gateway 40, not held 0"
