@@ -43,10 +43,11 @@ not reach this file by accident.
 
 ## The Turnstile site key
 
-`TURNSTILE_SITE_KEY` below is a placeholder until the widget exists — it is created in
-the design's step C3, after this was built. C4 replaces the constant, re-renders and
-pushes. The build prints a line while it is unset; the page renders the widget either
-way, because a wrong key fails visibly in the widget rather than silently in the form.
+`TURNSTILE_SITE_KEY` below is the `corpus-alerts` widget's, set on 2026-09-16 (design
+step C4, replacing the placeholder B built with). **A site key is public** and belongs
+in the page; the secret that pairs with it is the Worker's `TURNSTILE_SECRET` binding
+and never enters this repo. The build still prints a line if the constant is ever put
+back to a placeholder, because a page whose form cannot submit looks entirely well.
 """
 from __future__ import annotations
 
@@ -76,8 +77,10 @@ BACKFILL_DAYS = 90
 MAX_PER_FACET = 5
 MAX_ALERTS = 10
 
-# Replaced in C4 with the key from the `corpus-alerts` Turnstile widget.
-TURNSTILE_SITE_KEY = "TURNSTILE-SITE-KEY-NOT-SET"
+# The `corpus-alerts` Turnstile widget, created 2026-09-16 (design step C3). **The site
+# key is public** — it is written into the page and every reader's browser has it. The
+# secret that pairs with it is the Worker's `TURNSTILE_SECRET` binding and is never here.
+TURNSTILE_SITE_KEY = "0x4AAAAAAE4PyA_1ozsqH54J"
 
 # The columns of a `recent.json` row, all of them `CSV_COLS`, plus the row's own id.
 ROW_COLS = ["title", "publisher", "published", "ingested", "places", "topics", "url"]
