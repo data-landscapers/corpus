@@ -302,7 +302,7 @@ A note on method.
 {% endif %}
 
 {% if "alert 4f1c8a20b3" in subscriber.tags %}
-## Kenya, Nigeria · Artificial intelligence
+### Kenya, Nigeria · Artificial intelligence
 
 **[Kenya opens a data centre](https://example.org/1)**
 Nation · published 2026-09-15

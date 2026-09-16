@@ -343,7 +343,9 @@ function renderDigest(sections, o) {
   const out = [BANNER, ""];
   for (const s of sections) {
     out.push(`{% if "${s.tag}" in subscriber.tags %}`);
-    if (s.tag !== SITE_TAG) { out.push(`## ${mdText(s.heading)}`, ""); }
+    // `###`, an h3: the site sets a section heading at h3 size, and at h2 the email's headings
+    // outweighed the banner above them (Bill, 2026-09-16).
+    if (s.tag !== SITE_TAG) { out.push(`### ${mdText(s.heading)}`, ""); }
     const blocks = s.items.map((it) => {
       const lines = [`**[${mdText(it.title)}](${mdUrl(it.url)})**`];
       if (it.line) { lines.push(mdText(it.line)); }
