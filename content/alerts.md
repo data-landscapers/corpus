@@ -9,7 +9,7 @@ tag descriptions, the newsletter description — is typed into Buttondown's sett
 by hand, and sits inline in Part A of the design beside the step that types it. The digest
 body is built by the Worker (`workers/alerts/worker.js`) and is not prose anyone edits.
 
-The keys `e-check`, `e-input` and `e-later` are the three `?e=` values the Worker redirects
+The keys `e-check`, `e-input`, `e-later` and `e-blocked` are the four `?e=` values the Worker redirects
 back with, and `ok` is `?ok=1`. Renaming one means changing the Worker too. `confirmed` is
 `?ok=confirmed`, the address Buttondown sends a reader to after they confirm.
 
@@ -98,3 +98,7 @@ Pick a country, a topic or the main-site box, and check the email address.
 ## e-later
 
 Something went wrong on our side. Please try again later.
+
+## e-blocked
+
+We could not accept this sign-up. Trying again will not help; email info@data-landscapers.io and we will add you by hand.

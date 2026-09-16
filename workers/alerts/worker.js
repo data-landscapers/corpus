@@ -759,7 +759,13 @@ async function subscribeRoute(request, env) {
       headers: { "X-Buttondown-Collision-Behavior": "add" },
       body: subscriberBody(email, tags, ip, `${site(env)}/alerts/`),
     });
-    if (!res.ok) { return back(`?e=later&why=${await refusal(res)}`); }
+    if (!res.ok) {
+      // Buttondown's firewall (Settings → Firewall) turns a sign-up away with
+      // `subscriber_blocked`. "Try again later" is the wrong advice for that — a retry is
+      // what raises the risk score — so it gets a message of its own.
+      const why = await refusal(res);
+      return back(`?e=${/-(subscriber_blocked|ip_address_spammy|email_blocked)$/.test(why) ? "blocked" : "later"}&why=${why}`);
+    }
   } catch (err) {
     return back("?e=later");
   }
