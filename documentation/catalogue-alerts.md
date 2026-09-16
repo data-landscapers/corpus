@@ -47,7 +47,7 @@ Menu names are Buttondown's as documented on 2026-09-16; if a screen has moved, 
     **The send time is fixed in UTC on purpose, and will not track London.** Cloudflare cron triggers are UTC-only, so `0 7 * * 1` means 07:00 UTC all year: 08:00 London in summer, 07:00 London in winter. Pinning it to London instead would mean editing the cron at both daylight-saving boundaries for ever, and it would be the wrong target anyway — **this readership is African, and African timezones do not observe daylight saving**, so a UTC-fixed send is the one that never moves for the people receiving it. London is the timezone that drifts here, not UTC.
 5. Set the description to: *Weekly email alerts: new writing on data-landscapers.io and new documents in the Corpus catalogue.*
 6. Open **Settings → Subscribing** and confirm double opt-in is on.
-7. Replace the confirmation email text with the text in Part 2, *Confirmation email*.
+7. **Copy the confirmation-link variable out of Buttondown's default template before you touch it**, then replace the text with Part 2, *Confirmation email*. Part 2 writes the link as `{{ confirmation_url }}`, which is what Buttondown documented on 2026-09-16 — **if the default in front of you uses a different name, that one is right and Part 2 is stale.** Paste the whole default into a scratch file first. A confirmation email whose link variable does not resolve renders as literal braces, sends happily, and leaves every new subscriber unable to confirm; nothing in Buttondown warns about it and the reader has no way to report it.
 8. Open **Settings → Portal** and confirm the subscriber portal is on. It is what a reader uses to unsubscribe; alerts are edited on the site's manage page, not here.
 9. Open **Tags** and create the tag **`alert site`**: colour `#1a5f7a`, public description *New writing on data-landscapers.io*, subscriber-editable **off**.
 10. Open **Subscribers**, select every active subscriber, and add the tag `alert site`. Check that the tag's count equals the active subscriber count. There are a few of them (Bill, 2026-09-16), so this is a one-screen job. **It keeps the content they signed up for and changes when it arrives** — see *Existing subscribers get a cadence change, not a no-change* in Part 3.
@@ -56,7 +56,11 @@ Menu names are Buttondown's as documented on 2026-09-16; if a screen has moved, 
     - **No such feed exists**, because the main-site alert has been composed and sent by hand. Nothing to change here. What has to stop instead is the hand-send itself, and that is E4.
 12. Open **API → Keys**.
 13. Create a key labelled **corpus-alerts-worker**.
-14. Give it **write** for `subscriber_access` and for whatever the key screen calls email sending (`emails_access`), **read** for tags if tags are a separate scope, and **none** for everything else. `automations_access` is not needed. If a call fails with 403, the Worker's log names the endpoint; widen the one scope it names and nothing else.
+14. Give it **write** for `subscriber_access` and for whatever the key screen calls email sending (`emails_access`), **read** for tags if tags are a separate scope, and **none** for everything else. `automations_access` is not needed — nothing in this design uses an automation.
+
+    **These scope names are the one thing in Part A not verified against Buttondown's schema.** `openapi.json` describes endpoints, not the key screen's labels, so the names above are inferred from the endpoints the Worker calls: `/v1/subscribers` (read and write), `/v1/tags` (read, and write on first use of a new alert) and `/v1/emails` (write). **If the labels on screen do not match, paste them into `logs/messages-for-bill.md` or hand them to the next CC session and this step gets pinned to what is actually there** — leaving it inferred is how it stays wrong for the next person. Meanwhile grant the narrowest set that covers those three endpoints.
+
+    **A wrong guess here surfaces late and reads as a different bug.** A key missing the sending scope fails at the *first cron*, a week after everything else tested clean, as a 403 the Worker turns into a silent no-send. If a call fails, the Worker's log names the endpoint; widen the one scope it names and nothing else.
 15. Copy the key into your password manager. It is used in C6.
 
 ### B. Build (CC session)
@@ -285,7 +289,7 @@ Subject: **Confirm your Data Landscapers alert**
 >
 > If this wasn't you, ignore this email and nothing will be sent.
 
-Keep whatever confirmation-link variable Buttondown's default template uses if it differs from `{{ confirmation_url }}`; copy it from the default before replacing the text.
+The link variable is the one thing here that may not be `{{ confirmation_url }}`; **A7 owns that check** and says what to do if the default in front of you differs.
 
 ### The digest body (built by the Worker, B5 step 5)
 
