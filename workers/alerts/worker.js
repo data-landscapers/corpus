@@ -520,7 +520,8 @@ export default {
   },
 
   async scheduled(event, env, ctx) {
-    ctx.waitUntil(runCron(env));
+    ctx.waitUntil(runCron(env).catch((err) =>
+      cronStatus(env, { stage: "failed", error: String((err && err.message) || err) })));
   },
 };
 
@@ -898,8 +899,30 @@ async function loadDefs(env, tally) {
   return defs;
 }
 
+/**
+ * `cron_status` in KV: when the cron last ran, how far it got, and what stopped it.
+ *
+ * **The cron's errors used to go only to Cloudflare's logs**, which D9 showed are not where
+ * anyone looks: the run left nothing in KV and nothing in Buttondown, and whether it had run
+ * at all could not be told from either (2026-09-16). One key, overwritten each run, readable
+ * on the KV pairs screen. It holds counts, stages and error codes — never an address, and
+ * never a Buttondown `detail`.
+ *
+ * Two writes a run — one on starting, one on finishing — because KV's free tier allows a
+ * thousand writes a day, and a schedule left at every five minutes for testing makes 288 runs.
+ */
+async function cronStatus(env, fields) {
+  try {
+    await env.ALERTS.put("cron_status", JSON.stringify(
+      Object.assign({ at: new Date().toISOString() }, fields)));
+  } catch (err) {
+    // A status that cannot be written must not turn a successful run into a failed one.
+  }
+}
+
 async function runCron(env) {
   const today = isoDay(new Date());
+  await cronStatus(env, { stage: "started" });
   const alreadySent = (await env.ALERTS.get(`sent:${today}`)) !== null;
   const plan = cronPlan({
     today,
@@ -908,6 +931,7 @@ async function runCron(env) {
   });
   if (plan.skip) {
     if (plan.reason === "caught-up") { await env.ALERTS.put("last_sent_through", plan.to); }
+    await cronStatus(env, { stage: "skipped", reason: plan.reason });
     return;
   }
 
@@ -934,17 +958,24 @@ async function runCron(env) {
     if ((await env.ALERTS.get(key)) === null) { await env.ALERTS.put(key, today); }
   }
 
+  const counts = {
+    from: plan.from, to: plan.to,
+    records: (recent.items || []).length, posts: (feed.items || []).length,
+    tags: Object.keys(tally).length, sections: sections.length, orphans: orphans.length,
+  };
   if (!sections.length) {
     await env.ALERTS.put("last_sent_through", plan.to);
+    await cronStatus(env, Object.assign({ stage: "nothing-matched" }, counts));
     return;
   }
 
   const body = renderDigest(sections, { siteBase: site(env) });
   const email = buildEmail(sections, { monday: today, body, sendMode: env.SEND_MODE });
   const res = await bd(env, "/emails", { method: "POST", body: email });
-  if (!res.ok) { throw new Error(`emails ${res.status}`); }
+  if (!res.ok) { throw new Error(`emails ${await refusal(res)}`); }
   const made = await res.json();
 
   await env.ALERTS.put("last_sent_through", plan.to);
   await env.ALERTS.put(`sent:${today}`, made && made.id ? String(made.id) : "sent");
+  await cronStatus(env, Object.assign({ stage: "email-created", mode: email.status }, counts));
 }
