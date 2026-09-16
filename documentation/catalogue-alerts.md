@@ -349,10 +349,9 @@ Something went wrong on our side. Please try again later.
 ### The digest body (built by the Worker, B5 step 5)
 
 ```
-New this week for your alerts.
+<img src="https://corpus.data-landscapers.io/assets/email-banner.png" width="446" …>
 
 {% if "alert site" in subscriber.tags %}
-## New on data-landscapers.io
 
 **[{title}]({url})**
 {description}
@@ -371,7 +370,7 @@ New this week for your alerts.
 Change or stop your alerts: https://corpus.data-landscapers.io/alerts/manage/#s={{ subscriber.id }}
 ```
 
-One `{% if %}` block per non-empty alert, the main-site section first. The Worker writes the items in; only `subscriber.tags` and `subscriber.id` are left for Buttondown to render. Buttondown adds the unsubscribe footer itself.
+One `{% if %}` block per non-empty alert, the main-site section first. **The banner is the whole of the opening**: the opening sentence and the main-site section's heading were dropped on 2026-09-16 because both repeated what the banner says (Bill). The Worker writes the items in; only `subscriber.tags` and `subscriber.id` are left for Buttondown to render. Buttondown adds the unsubscribe footer itself.
 
 ---
 

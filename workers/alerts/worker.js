@@ -336,10 +336,14 @@ function planDigest(o) {
  * **names**, and Buttondown's own example is `{% if 'python' in subscriber.tags %}`.
  */
 function renderDigest(sections, o) {
-  const out = [BANNER, "", "New this week for your alerts.", ""];
+  // No opening sentence and no heading over the main site's section: the banner already says
+  // *New from Data Landscapers*, and a line repeating it under the banner read as a second
+  // title (Bill, 2026-09-16). The catalogue sections keep their headings — they are how a
+  // reader with several alerts tells them apart.
+  const out = [BANNER, ""];
   for (const s of sections) {
     out.push(`{% if "${s.tag}" in subscriber.tags %}`);
-    out.push(`## ${mdText(s.heading)}`, "");
+    if (s.tag !== SITE_TAG) { out.push(`## ${mdText(s.heading)}`, ""); }
     const blocks = s.items.map((it) => {
       const lines = [`**[${mdText(it.title)}](${mdUrl(it.url)})**`];
       if (it.line) { lines.push(mdText(it.line)); }
