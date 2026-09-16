@@ -2,7 +2,7 @@
 type: design-note
 title: catalogue-alerts.md — one weekly email per reader, built by a Cloudflare Worker and sent by Buttondown
 last_reviewed: 2026-09-16
-status: Parts A and B done 2026-09-16; C next (Bill), then D-E
+status: A, B, C done 2026-09-16; D1-D8 passed (D17 too); D9 in progress — cron left no draft, `cron_status` added to find out why; then D10-D16, E
 ---
 
 # Catalogue alerts
