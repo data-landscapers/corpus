@@ -46,8 +46,10 @@
 .alert-pick optgroup{font-family:var(--mono);font-size:.67rem;
                      text-transform:uppercase;letter-spacing:.06em;
                      color:var(--ink-faint)}
+/* An option inherits its optgroup's styling in Chrome, capitals and tracking included,
+   so every country read in upper case under its group heading. Reset explicitly. */
 .alert-pick option{font-family:var(--serif);font-size:.78rem;color:var(--ink);
-                   padding:.1rem .2rem}
+                   text-transform:none;letter-spacing:0;padding:.1rem .2rem}
 
 .alert-field{margin:1.25rem 0}
 .alert-field label{display:block;font-family:var(--mono);font-size:.72rem;
