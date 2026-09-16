@@ -32,7 +32,7 @@ MLI,done,2026-09-15,250,250,64,"supported 186, coarsened 55, relinked 3, dropped
 MOZ,done,2026-09-15,357,357,88,"supported 244, coarsened 66, relinked 15, dropped 7, gateway 25, not held 0"
 MRT,done,2026-09-15,270,270,47,"supported 223, coarsened 42, relinked 5, dropped 0, gateway 0, not held 0"
 MUS,done,2026-09-15,318,259,73,"supported 186, coarsened 65, relinked 8, dropped 0, gateway 34, not held 25"
-MWI,owed,,,,,
+MWI,done,2026-09-16,386,386,45,"supported 314, coarsened 25, relinked 19, dropped 1, gateway 27, not held 0"
 NAM,done,2026-09-16,314,275,44,"supported 231, coarsened 25, relinked 18, dropped 1, gateway 39, not held 0"
 NER,done,2026-09-16,264,149,25,"supported 209, coarsened 19, relinked 4, dropped 2, gateway 30, not held 0"
 NGA,owed,,,,,
