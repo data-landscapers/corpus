@@ -352,7 +352,7 @@ TEMPLATE = """<!DOCTYPE html>
     <p class="section-intro">{progress_intro}</p>
 
 {bulletin}
-    <h2 class="section-heading" id="alerts"><a href="{base}/alerts/">Weekly news alerts</a></h2>
+    <h2 class="section-heading" id="alerts"><a href="{base}/catalogue/">Weekly news alerts</a></h2>
     <p class="section-intro">{alerts_intro}</p>
 
     <h2 class="section-heading" id="countries"><a href="{base}/countries/">Countries &amp; Regions</a></h2>
