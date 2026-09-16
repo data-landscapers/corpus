@@ -1,11 +1,11 @@
 ---
 title: Libya — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-16
+period: 2026-08-01 to 2026-09-16
 place: LBY
-ledger_rows: 48
+ledger_rows: 51
 not_held: 2
-record: 0eaba7bcc6b6
+record: 6120a0d49f83
 ---
 
 # Libya: monthly update, August – September 2026
@@ -28,6 +28,11 @@ The registers are the harder half. An independent analysis of the prosecutor's o
 On 26 July the Ministry of Civil Service [discussed implementation of its digital transformation plan with Huawei Libya](https://lana.gov.ly/post.php?id=362365&lang=ar), covering the ministry's systems and electronic services. No agreement, scope or value was announced.
 
 On 4 August the same ministry [convened the General Information Authority, the Libyan Digital Company and its own IT office to prepare a national digital transformation plan](https://alwasat.ly/news/libya/526991) covering digitised administrative procedures, unified databases and integration between state institutions. No timetable, budget, lead agency or published document was stated, and the announcement was made on the ministry's Facebook page.
+<!-- /narrative -->
+### Legislation and regulation
+
+<!-- narrative: governance--gov-legislate -->
+Trade was tied to the banking system and to a register. Importing goods for trade outside banking channels [is prohibited from 30 September 2026 under decision 449 of 2026, which ties import operations to banking and customs procedures and to registration on the unified digital trade system](https://libyaherald.com/2026/09/tripoli-chamber-of-commerce-discusses-decision-to-regulate-imports-for-the-purpose-of-trade), and the capital's chamber of commerce has met on whether the date can be met and what the decision will cost its members.
 <!-- /narrative -->
 ### Regional collaboration
 

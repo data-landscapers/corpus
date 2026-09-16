@@ -1,11 +1,11 @@
 ---
 title: Mozambique — monthly update, August – September 2026
-compiled: 2026-09-14
-period: 2026-08-01 to 2026-09-14
+compiled: 2026-09-16
+period: 2026-08-01 to 2026-09-16
 place: MOZ
-ledger_rows: 68
+ledger_rows: 73
 not_held: 19
-record: aa0b0464bdd7
+record: f536f682f826
 ---
 
 # Mozambique: monthly update, August – September 2026
@@ -57,6 +57,11 @@ The regulator opened a free public device-identity lookup on 4 August, checked a
 
 ## Finance
 
+### MoUs and other agreements
+
+<!-- narrative: finance--finance-mou -->
+The finance ministry and Brazil's public services management ministry [formalised a memorandum on exchanging experience and training staff in public procurement, payroll management, digital transformation and administrative modernisation](https://aimnews.org/2026/09/14/mocambique-e-brasil-aprofundam-cooperacao-para-modernizar-gestao-publica/). No value, deliverable or date accompanies it.
+<!-- /narrative -->
 ### New investments
 
 <!-- narrative: finance--finance-new -->
@@ -149,6 +154,11 @@ The national strategy behind all of this is still in drafting, and its consultat
 A body to watch it is named but not made. At a cultural-economy dialogue in Maputo on 14 August the institute's board president [named a National Artificial Intelligence Observatory as expected to support transparency, build trust and measure the impact of AI deployment](https://techafricanews.com/2026/08/18/mozambique-explores-ais-role-in-driving-cultural-and-creative-economy/). It exists as a remark: no establishing instrument, host, membership, funding or method is on the record.
 
 A body was inaugurated where the observatory is still a remark. An [Association of Artificial Intelligence was launched in Maputo on 27 August under a named president, which the national ICT institute describes as a step towards a unified technical platform joining government, academia, the private sector, the technological community and civil society](https://itweb.africa/article/mozambique-steps-up-ai-drive/nWJadvbND3dvbjO1). No constitution, membership, funding or relationship to the strategy or the artificial-intelligence commission is published; what is established is an inauguration and a stated purpose.
+<!-- /narrative -->
+### ICT Industry
+
+<!-- narrative: technology--tech-industry -->
+The state is looking for a partner to take part of its telecommunications operator. Government [opened the selection of a strategic investor to take part of the state's shareholding, seeking financial, technological and management capacity, with a multisectoral technical team running the negotiation](https://profile.co.mz/governo-procura-novo-investidor-para-recuperar-tmcel/). No stake size, valuation or timetable is published.
 <!-- /narrative -->
 
 ## Capacity

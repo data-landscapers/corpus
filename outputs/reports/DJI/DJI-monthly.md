@@ -1,11 +1,11 @@
 ---
 title: Djibouti — monthly update, August – September 2026
-compiled: 2026-09-15
-period: 2026-08-01 to 2026-09-15
+compiled: 2026-09-16
+period: 2026-08-01 to 2026-09-16
 place: DJI
-ledger_rows: 18
+ledger_rows: 19
 not_held: 12
-record: d79627086700
+record: 2a314f04c946
 ---
 
 # Djibouti: monthly update, August – September 2026
@@ -33,6 +33,14 @@ The interoperability framework acquired a statement of intent for the first time
 
 <!-- narrative: governance--gov-protect -->
 On 4 August 2026 the state daily *La Nation* [described the Police Nationale and road-safety officers carrying body-worn cameras routinely in central Djibouti](https://www.lanation.dj/la-bodycam-un-bouclier-de-verite-au-service-des-policiers-et-des-citoyens/), not piloting them. The protocols it reports require the device to be worn visibly and the subject to be told they are being recorded, with recording triggered manually or automatically according to the type of intervention or the threat level detected. No retention period, access rule, data controller or authorising instrument is named, and nothing on file establishes one as at 4 August 2026. The Digital Code's prior-authorisation regime, in force since 30 June 2025, reaches biometric processing, and no authorisation or published rule covering the camera fleet is held.
+<!-- /narrative -->
+
+## Finance
+
+### New investments
+
+<!-- narrative: finance--finance-new -->
+The investment on offer was estimated rather than committed. A country private sector diagnostic [identified at least US$600 million of private investment and about 12,000 jobs available over five years across off-grid solar energy, data centres and tourism, with the policy actions that would unlock them](https://www.worldbank.org/en/news/press-release/2026/09/14/world-bank-group-report-identifies-significant-private-investment-potential-for-dj). Nothing in it is a transaction.
 <!-- /narrative -->
 
 ## ICT Infrastructure
