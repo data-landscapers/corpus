@@ -60,11 +60,24 @@ reader ──► Cloudflare edge ──► Worker `download-log` ──┬─►
 
 **`100::` is the IPv6 discard address and nothing is behind it.** A redirect rule runs at the edge before any origin is contacted, but a *proxied* record must exist for the request to reach the edge — so the record's only job is to exist. There is no `www` record on either zone's `.com` side, because `www.data-landscapers.com` never existed and nothing published references it.
 
-**Any `MX` and `TXT` records on the `.com` are email and domain verification and are unrelated to the above.** Leave them alone.
+**Any `MX` and `TXT` records on either zone are email and domain verification and are unrelated to the above.** Leave them alone. **Both zones have them** — the `.io`'s are listed under *The sending domain* below, and the tables above count only the rows that serve HTTP.
 
 ### The sending domain — mail records on the `.io`
 
-**The `.io` zone sends no mail as of 2026-09-16**, which is why the table above has no `MX` and no `TXT`. Alerts change that: Buttondown sends from a `data-landscapers.io` address, and `documentation/catalogue-alerts.md` A3 is the decision and the reasoning. **The root domain and Buttondown's manual records, not its managed DNS and not its Cloudflare integration** — managed DNS cannot be used on a root domain and would delegate a subdomain this file could no longer describe, and the integration wants a DNS-edit grant over the zone that serves both sites, the Workers routes and every edition URL.
+**The `.io` zone carries mail records, and this file said it did not.** *Six records serve the sites* above counts the rows that serve **HTTP**, and the sentence about `MX` and `TXT` being "on the `.com`" read as though the `.io` had none. It has, and a resolver said so on 2026-09-16:
+
+| Type | Name     | Content                                                   | Purpose                        |
+| ---- | -------- | --------------------------------------------------------- | ------------------------------ |
+| MX   | `@`      | `datalandscapers-io01b.mail.protection.outlook.com` (0)   | Microsoft 365 receives mail    |
+| TXT  | `@`      | `v=spf1 include:secureserver.net -all`                    | SPF — GoDaddy, **hard fail**   |
+| TXT  | `@`      | `MS=ms66509802`                                           | Microsoft 365 domain proof     |
+| TXT  | `@`      | `google-site-verification=WCxwyKIHqVh-SmHZZjmrkYBcRz8IrRncrw0TdE9Q1Ds` | Google domain proof |
+
+There is **no `DMARC` record** at `_dmarc.data-landscapers.io`. The `.com` mirrors the arrangement: same M365 MX, its own `TXT` rows.
+
+**Two things follow, and the first was nearly a defect.** `documentation/catalogue-alerts.md` A3 chose the root sending domain partly because this file reported no `TXT` at all and therefore no SPF record to collide with. **There is one, so Buttondown's SPF include must be merged into it and never added beside it** — two `v=spf1` rows is a PermError that fails authentication for every sender on the domain, M365 included, where one imperfect row merely fails Buttondown. And the existing row ends `-all`, a hard fail, listing only GoDaddy: **anything sending as `data-landscapers.io` that is not in that record is rejected outright**, so the merge decides whether alerts arrive at all, not merely whether they authenticate. (It does not list `spf.protection.outlook.com` either, so mail sent from M365 on this domain already hard-fails. That is Bill's mail arrangement, outside Corpus, and noted here only so the next reader does not mistake it for something alerts broke.)
+
+**The sending-domain decision stands.** Buttondown sends from a `data-landscapers.io` address; `documentation/catalogue-alerts.md` A3 holds the decision and the reasoning. **The root domain and Buttondown's manual records, not its managed DNS and not its Cloudflare integration** — managed DNS cannot be used on a root domain and would delegate a subdomain this file could no longer describe, and the integration wants a DNS-edit grant over the zone that serves both sites, the Workers routes and every edition URL. DKIM is unaffected by any of the above, and the SPF merge is one row. **What the correction does change is that reputation isolation is now a live argument rather than a moot one**: newsletter sending shares a domain with Bill's M365 correspondence, which is harmless at a handful of subscribers and is the reason to move to a sending subdomain if the list ever grows enough for a complaint rate to matter.
 
 **The mail records are the exception to *all three hostnames are proxied*.** Buttondown's `CNAME` rows go in as **DNS only — grey cloud**; proxied, they answer with Cloudflare's addresses instead of Buttondown's and DKIM verification never passes. `TXT` and `NS` cannot be proxied, so they carry no such trap. **Do not orange these rows while tidying the zone**: nothing about the dashboard distinguishes them from the hostnames above, and the failure they cause is a verification that quietly stops passing rather than a page that stops loading.
 
