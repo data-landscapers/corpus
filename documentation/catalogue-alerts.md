@@ -2,7 +2,7 @@
 type: design-note
 title: catalogue-alerts.md — one weekly email per reader, built by a Cloudflare Worker and sent by Buttondown
 last_reviewed: 2026-09-16
-status: specified, not built; Bill implements the week of 2026-09-21
+status: Part A done 2026-09-16; B next (CC), then C-E (Bill)
 ---
 
 # Catalogue alerts
@@ -84,6 +84,8 @@ Menu names are Buttondown's as documented on 2026-09-16; if a screen has moved, 
 ### B. Build (CC session)
 
 1. Start a fresh CC session in `C:\CORPUS` with this brief: *"Build catalogue alerts per `documentation/catalogue-alerts.md` Part 1 B, then stop for Bill's deploy."*
+
+    **Part A is done (2026-09-16) and B does not depend on any of it.** Two things the fresh session should not stop to ask about. **The Turnstile site key does not exist yet** — it is created in C3, after this — so B3 writes a named placeholder constant and C4 replaces it, re-renders and pushes; do not block on it and do not invent a key. And **the Buttondown API key is Bill's to paste in C6**, never committed and never needed by this session: B writes the Worker to read it from a secret binding and stops there.
 2. CC builds B3–B7, runs RENDER's catalogue step, commits and pushes, then does B8–B9 in `data-landscapers` as their own commit.
 3. **`scripts/alerts.py`** writes four files, and RENDER runs it straight after `catalogue.py`, with a line added to `RENDER.md` Step 5:
    - **`site/alerts/recent.json`**: the records ingested in the last **28 days** that pass the **backfill rule**. A record passes if the end of its publication period is no more than **90 days** before its `ingested` date. The period is the day, the month or the year, according to `date_precision`. Records with no `published` date are excluded. Each row carries `id`, `title`, `publisher`, `published`, `ingested`, `places` (array), `topics` (array) and `url`. `id` is the first 16 hex characters of the SHA-256 of `url`, or of `title|publisher|published` when there is no URL. The source is `outputs/catalogue/raw-catalogue.json`, and only columns already in `CSV_COLS` are used, so nothing unpublished leaks. **28 days, not 14**: the send window catches up after a missed Monday, and it can only catch up over records the file still carries.
