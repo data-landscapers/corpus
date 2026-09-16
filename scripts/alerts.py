@@ -246,7 +246,7 @@ def picker(kind: str, label: str, options: str) -> str:
     duplicate id on every row after the first; `data-pick` is how the script finds
     a select, on both pages, whether it was built here or cloned."""
     return f"""<div class="alert-pick">
-  <span class="alert-pick__lab">{esc(label)}<span class="alert-pick__cap">up to {MAX_PER_FACET}</span></span>
+  <span class="alert-pick__lab">{esc(label)}<span class="alert-pick__cap">up to {MAX_PER_FACET} — click to add or remove</span></span>
   <select name="{kind}" multiple size="8" data-pick="{kind}" aria-label="{esc(label)}">
 {options}
   </select>

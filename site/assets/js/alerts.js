@@ -94,6 +94,28 @@
     return p;
   }
 
+  /* A click toggles one option; it does not replace the selection.
+   *
+   * A native `<select multiple>` replaces on a plain click and adds only on Ctrl+click,
+   * which nobody outside a spreadsheet knows — Bill clicked Nigeria and lost Kenya
+   * (2026-09-16, step D14). So a mouse press on an option is taken over: the option flips,
+   * the list keeps its scroll position, and a `change` fires so `normalise` still applies
+   * Any and the cap. The keyboard is left alone, and so are phones, whose pickers are
+   * checkbox lists already and send no mousedown on an option. */
+  document.addEventListener('mousedown', function (e) {
+    var o = e.target;
+    if (!o || o.tagName !== 'OPTION') { return; }
+    var sel = o.closest('select[data-pick]');
+    if (!sel || o.disabled) { return; }
+    e.preventDefault();
+    var top = sel.scrollTop;
+    o.selected = !o.selected;
+    sel.focus();
+    sel.scrollTop = top;
+    setTimeout(function () { sel.scrollTop = top; }, 0);
+    sel.dispatchEvent(new Event('change', { bubbles: true }));
+  });
+
   // ---------------------------------------------------------------- fragment
 
   /* `#places=KEN,NGA&topics=tech.ai&site=1` — the catalogue's own fragment, so the
