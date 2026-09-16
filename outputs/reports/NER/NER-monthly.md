@@ -1,11 +1,11 @@
 ---
 title: Niger — monthly update, August – September 2026
-compiled: 2026-09-14
-period: 2026-08-01 to 2026-09-14
+compiled: 2026-09-16
+period: 2026-08-01 to 2026-09-16
 place: NER
-ledger_rows: 36
+ledger_rows: 38
 not_held: 2
-record: 1512e22cf3f9
+record: f4f0b9ec1d07
 ---
 
 # Niger: monthly update, August – September 2026
@@ -60,6 +60,11 @@ The budget moved and the digital line did not appear in it. The Council of Minis
 <!-- narrative: finance--finance-mou -->
 
 The Algerian state operator [signed conventions in Niamey on 8 September for a skills centre and donated transmission equipment for a 100 Gbps Ngezam-Agadez link on the national backbone](https://anp.ne/cooperation-algerie-telecom-signe-deux-conventions-de-partenariat-avec-niger-telecom-et-escep-niger/); no value is stated.
+<!-- /narrative -->
+### New investments
+
+<!-- narrative: finance--finance-new -->
+Rural connectivity was financed rather than built. A [US$100m agreement, about CFA 55bn, was signed for a smart villages project for rural growth and financial inclusion, to be implemented by the information society agency across every region, its main aim to widen access to mobile telephony and broadband in rural areas](https://finances.gouv.ne/index.php/une/743-signature-d-un-accord-de-financement-du-projet-villages-intelligents-pour-la-croissance-rurale-et-l-inclusion-financiere-reduire-la-fracture-numerique-entre-les-zones-urbaines-et-le-milieu-rural-du-niger). No start date or coverage target is published.
 <!-- /narrative -->
 
 ## ICT Infrastructure

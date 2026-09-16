@@ -1672,6 +1672,15 @@ def check_asof(unit):
     folder, ledger, _ = load(unit)
     pubs = [(r.get("published") or "").strip() for r in ledger]
     newest = max([p for p in pubs if p] or [""])
+    # **A monthly is dated against the rows a monthly carries** *(2026-09-16)*. A `kind: measure`
+    # row belongs to the progress report only (`report-layer.md` §1), so moving one leaves the
+    # monthly's content untouched and its `compiled:` where it was — correct, and yet a ledger-wide
+    # `newest` then failed the monthly for not showing a row it is not allowed to show, with a
+    # re-render as the stated repair that could not clear it. The progress report keeps the
+    # ledger-wide date, because measures are its business.
+    pubs_doc = [(r.get("published") or "").strip() for r in ledger
+                if (r.get("kind") or "instrument").strip() != "measure"]
+    newest_monthly = max([p for p in pubs_doc if p] or [""])
     if not newest:
         print("check J: PASS (no dated source on this ledger)")
         return 0
@@ -1687,9 +1696,10 @@ def check_asof(unit):
             continue
         text = open(os.path.join(folder, fn), encoding="utf-8").read()
         m = re.search(r"^compiled:\s*(\d{4}-\d{2}-\d{2})", text, re.M)
-        if m and m.group(1) < newest:
+        against = newest_monthly if fn.endswith("-monthly.md") else newest
+        if m and against and m.group(1) < against:
             bad.append(f"{fn}: compiled {m.group(1)}, but the ledger cites a source published "
-                       f"{newest} — the document does not yet show it, re-render")
+                       f"{against} — the document does not yet show it, re-render")
         if fn.endswith("-progress.md"):
             # **The shape check is asserted of the region document only** *(2026-08-26)*. §7's
             # rule is "no period comparison without the shape check recorded", and a country
