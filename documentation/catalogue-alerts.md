@@ -2,7 +2,7 @@
 type: design-note
 title: catalogue-alerts.md — one weekly email per reader, built by a Cloudflare Worker and sent by Buttondown
 last_reviewed: 2026-09-16
-status: A, B, C done 2026-09-16 except A10 (existing subscribers not yet tagged `alert site`, found in D11); sending domain re-verified on the subdomain after being switched to the root; D1-D11 and D17 passed; D12-D16 next, then E
+status: A-D done 2026-09-16 (D12's outcome moves to E3); before E, A10 is still owed — existing subscribers are not tagged `alert site`; cosmetics next, then E
 ---
 
 # Catalogue alerts
