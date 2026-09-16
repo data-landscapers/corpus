@@ -412,6 +412,8 @@ Three of the five questions this design opened on 2026-09-15 are closed against 
 - **`subscriber.id`** is documented as the subscriber's unique id, and `GET /v1/subscribers/{id_or_email}` takes an id, so the manage key needs no second lookup.
 - **Neither the filter list nor the body has a documented cap.** `EmailFilterGroup.filters` is an unbounded array in the schema, and `EmailInput.body` carries no `maxLength` where `subject` carries 2000. The count is Corpus's to control in any case: at most one filter per alert with a subscriber, and at most 25 items per section.
 
+**Settled in D9, 2026-09-16: ids.** Every filter carrying a tag name came back `422 Tag filters must be valid tag identifiers`. The Worker now reads `GET /v1/tags` at send time for the name-to-id map — so the key's scopes do cover tags — and refuses to build the email if any section's tag has no id. The question as it stood:
+
 One question is left, and it is a single line of code either way:
 
 - **Does an email filter on `subscriber.tags` take the tag's name or its id?** The schema types `value` as a plain string and gives no example. `Subscriber.tags` is a list of names, which makes the name the likely answer, but a 30-second check in D settles it: build one draft, look at the audience count Buttondown reports, and if it is zero, switch. The Worker stores both in `def:<id>`, so the switch is one constant.

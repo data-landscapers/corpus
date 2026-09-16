@@ -173,7 +173,11 @@ POSTS = """[
    "date":"2026-07-01","description":"Out of the window."}
 ]"""
 
-PLAN = (f'planDigest({{tally: {TALLY}, defs: {DEFS}, records: {RECORDS}, '
+# What `GET /v1/tags` returns, by name. `alert 4f1c8a20b3` is deliberately given an id here that
+# differs from the `tag_id` its definition holds: Buttondown's own list is the one that counts.
+TAG_IDS = '{"alert site": "tag_site", "alert 4f1c8a20b3": "tag_kenya", "alert 00aaff1122": "tag_zaf"}'
+
+PLAN = (f'planDigest({{tally: {TALLY}, defs: {DEFS}, records: {RECORDS}, tagIds: {TAG_IDS}, '
         f'mainPosts: {POSTS}, from: "2026-09-08", to: "2026-09-15", cap: 2, '
         f'siteBase: "https://corpus.data-landscapers.io"}})')
 
@@ -273,8 +277,19 @@ check("a record with no URL points at the catalogue",
       "#q=Nigeria's%20%7B%25%20raw%20%25%7D%20%5BAI%5D%20strategy")
 check("a main-site post outside the window is left out",
       [i["title"] for i in plan["sections"][0]["items"]], ["Mapping the continent"])
-check("the site section's filter is the tag name, always",
-      plan["sections"][0]["filter"], "alert site")
+check("the audience filter takes Buttondown's tag id, not the name",
+      [s["filter"] for s in plan["sections"]], ["tag_site", "tag_kenya"])
+check("every section has an id to filter on", plan["unresolved"], [])
+check("a section with no id anywhere is reported, not sent",
+      js(f'planDigest({{tally: {TALLY}, defs: {DEFS}, records: {RECORDS}, tagIds: {{}}, '
+         f'mainPosts: {POSTS}, from: "2026-09-08", to: "2026-09-15", cap: 2, '
+         f'siteBase: "x"}}).unresolved'),
+      ["alert site"])
+check("a definition's stored tag_id is the fallback when the list lacks it",
+      js(f'planDigest({{tally: {TALLY}, defs: {DEFS}, records: {RECORDS}, tagIds: {{}}, '
+         f'mainPosts: {POSTS}, from: "2026-09-08", to: "2026-09-15", cap: 2, '
+         f'siteBase: "x"}}).sections[1].filter'),
+      "t1")
 
 
 print("\nthe body, character for character")
@@ -322,7 +337,7 @@ check("the archive is off", email["archival_mode"], "disabled")
 check("the filter is an or", email["filters"]["predicate"], "or")
 check("one filter per non-empty alert, and no others",
       [f["value"] for f in email["filters"]["filters"]],
-      ["alert site", "alert 4f1c8a20b3"])
+      ["tag_site", "tag_kenya"])
 check("the filter is on subscriber.tags",
       sorted({f["field"] for f in email["filters"]["filters"]}), ["subscriber.tags"])
 check("SEND_MODE draft is a draft", email["status"], "draft")

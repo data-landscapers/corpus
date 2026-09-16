@@ -60,16 +60,15 @@ const MAX_ALERTS = 10;
 /** The send window never reaches back further than this, however long the cron was down. */
 const MAX_WINDOW_DAYS = 21;
 
-/**
- * Does an email audience filter on `subscriber.tags` take the tag's **name** or its **id**?
- *
- * Buttondown's schema types the value as a plain string and gives no example. `Subscriber.tags`
- * is a list of names, which makes the name the likely answer, and if `/v1/tags` turns out to be
- * outside the API key's scopes this Worker never holds an id anyway. Design step D settles it
- * in thirty seconds: build one draft and read the audience count Buttondown reports. If it is
- * zero, this constant is the switch — `def:<id>` stores both, so nothing else moves.
+/*
+ * AN AUDIENCE FILTER ON `subscriber.tags` TAKES A TAG'S **ID**, NOT ITS NAME — settled in D9 on
+ * 2026-09-16, when every filter carrying a name came back `422 Tag filters must be valid tag
+ * identifiers`. The body's Liquid test still uses names, because `subscriber.tags` in a template
+ * is a list of names. So the two halves of one section are keyed differently, and the cron looks
+ * every id up from `GET /v1/tags` at send time rather than trusting `def:<id>.tag_id`: that is
+ * empty for any tag whose creation call was refused, and `alert site` was made by hand and has no
+ * definition at all.
  */
-const FILTER_BY = "name";                  // "name" | "id"
 
 /**
  * The tag URI namespace for feed entry ids. **The year is fixed and is not the current one.**
@@ -251,6 +250,7 @@ function planDigest(o) {
   const tally = o.tally || {};
   const defs = o.defs || {};
   const cap = o.cap || ITEM_CAP;
+  const tagIds = o.tagIds || {};
   const sections = [];
   const orphans = [];
 
@@ -260,7 +260,7 @@ function planDigest(o) {
     if (posts.length) {
       sections.push({
         tag: SITE_TAG,
-        filter: SITE_TAG,          // created by hand, so no id is ever held for it
+        filter: tagIds[SITE_TAG] || "",
         heading: "New on data-landscapers.io",
         items: posts.slice(0, cap).map((p) => ({
           title: p.title, url: p.url, line: p.description || "",
@@ -284,7 +284,7 @@ function planDigest(o) {
     if (!hits.length) { continue; }
     sections.push({
       tag: name,
-      filter: FILTER_BY === "id" && def.tag_id ? String(def.tag_id) : name,
+      filter: tagIds[name] || (def.tag_id ? String(def.tag_id) : ""),
       heading: def.label || alertLabel(def.places, def.topics, o.vocab),
       items: hits.slice(0, cap).map((r) => ({
         title: r.title,
@@ -297,7 +297,11 @@ function planDigest(o) {
     });
   }
 
-  return { sections, orphans };
+  // A section whose tag has no id cannot be put in the audience filter, and sending it
+  // without one would send it to nobody — or, filtered on nothing, to everybody. The caller
+  // refuses to build the email while this list is not empty.
+  const unresolved = sections.filter((s) => !s.filter).map((s) => s.tag);
+  return { sections, orphans, unresolved };
 }
 
 /**
@@ -898,6 +902,30 @@ async function tallyTags(env) {
   return tally;
 }
 
+/**
+ * `{tag name: tag id}` for every tag on the newsletter, from `GET /v1/tags`.
+ *
+ * The audience filter needs ids and the body needs names (see the note at the top of the
+ * file), and this is the only place both are held by Buttondown itself rather than by KV.
+ */
+async function tagIdsByName(env) {
+  const ids = {};
+  let url = "/tags?page_size=100";
+  let pages = 0;
+  while (url && pages < 50) {
+    const res = await bd(env, url);
+    if (!res.ok) { throw new Error(`tags ${await refusal(res)}`); }
+    const page = await res.json();
+    for (const t of page.results || []) {
+      if (t && t.name && t.id) { ids[t.name] = String(t.id); }
+    }
+    url = page.next && String(page.next).startsWith(API)
+      ? String(page.next).slice(API.length) : "";
+    pages += 1;
+  }
+  return ids;
+}
+
 /** Every `def:` entry, keyed by tag name, for the tags this week's tally actually found. */
 async function loadDefs(env, tally) {
   const defs = {};
@@ -992,8 +1020,9 @@ async function runCron(env) {
   ]);
 
   const defs = await loadDefs(env, tally);
-  const { sections, orphans } = planDigest({
-    tally, defs,
+  const tagIds = await tagIdsByName(env);
+  const { sections, orphans, unresolved } = planDigest({
+    tally, defs, tagIds,
     records: recent.items || [],
     mainPosts: feed.items || [],
     from: plan.from, to: plan.to,
@@ -1004,6 +1033,10 @@ async function runCron(env) {
   for (const name of orphans) {
     const key = `orphan:${name}`;
     if ((await env.ALERTS.get(key)) === null) { await env.ALERTS.put(key, today); }
+  }
+
+  if (unresolved.length) {
+    throw new Error(`no Buttondown tag id for ${unresolved.join(", ")}`);
   }
 
   const counts = {
