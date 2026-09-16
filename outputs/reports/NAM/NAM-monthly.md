@@ -1,11 +1,11 @@
 ---
 title: Namibia — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-16
+period: 2026-08-01 to 2026-09-16
 place: NAM
-ledger_rows: 46
+ledger_rows: 47
 not_held: 11
-record: 6c2cecaf5f4d
+record: 5cddca96c7e4
 ---
 
 # Namibia: monthly update, August – September 2026
@@ -47,6 +47,11 @@ Refusing to share health data had a price. After the government rejected US term
 The memorandum with Botswana was signed. The two ICT ministries [signed at Kasane on 7 August, covering digital transformation, cybersecurity, connectivity and skills development](https://techreviewafrica.com/news/6641/namibia-and-botswana-sign-ict-cooperation-agreement), and published detail with it: [the Trans-Kalahari Corridor's remaining 4G gaps costed at about N$52 million across 13 new sites, and the Gobabis-Buitepos fibre link completed and interconnecting with the Botswana backbone company at Charles Hill](https://observer24.com.na/trans-kalahari-4g-rollout-requires-n52m/), the first direct cross-border fibre link between the two operators. The signed instrument itself is not held.
 
 Four lighter engagements ran alongside. Cabinet approved a memorandum on information technology cooperation with [the Republic of Congo, authorising the minister to sign without publishing scope, financing or a signature date](https://neweralive.na/cabinet-approves-ict-agreement-with-congo-endorses-regional-cooperation/). Namibia joined four other governments as a founding partner of [a pan-African African-language artificial-intelligence initiative launched at Abuja on 24 July](https://iafrica.com/gsma-and-five-african-governments-launch-atlas-umoja-ai-to-scale-nigerias-language-model-template-across-the-continent/), committing ministerial support rather than a named contribution. [The fourth joint trade committee in New Delhi on 12 August advanced cybersecurity and digital-economy cooperation with India](https://cajnewsafrica.com/2026/08/12/namibia-solidifies-cybersecurity-digital-ties-with-india/). The regional regulators' association [opened its legal and policy committee at Windhoek from 10 to 12 August, on artificial-intelligence governance, data governance, digital public infrastructure and regulatory harmonisation](https://techreviewafrica.com/news/6684/crasa-legal-and-policy-committee-opens-meeting-on-ai-data-governance-and-regional-ict-regulation), and the communications regulator [signed a five-year memorandum with the electricity distributor at Ondangwa on information and data sharing and rural electrification](https://nambusinessexpress.com/?p=15262). None of the five publishes a work programme, term or timetable.
+<!-- /narrative -->
+### Standards
+
+<!-- narrative: governance--gov-standards -->
+How the state speaks was standardised before what it runs was. The communications minister [launched a harmonised government communication strategy for 2026 to 2030 and a government corporate brand identity manual, both approved by cabinet in March 2026](https://nambusinessexpress.com/?p=15515). No implementation plan, and no compliance requirement on ministries, is published.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 

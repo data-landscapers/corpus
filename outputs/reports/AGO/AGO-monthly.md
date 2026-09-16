@@ -1,11 +1,11 @@
 ---
 title: Angola — monthly update, August – September 2026
-compiled: 2026-09-14
-period: 2026-08-01 to 2026-09-14
+compiled: 2026-09-16
+period: 2026-08-01 to 2026-09-16
 place: AGO
 ledger_rows: 57
 not_held: 7
-record: c3b4ad2d5f2c
+record: bd4f0090768f
 ---
 
 # Angola: monthly update, August – September 2026
@@ -144,7 +144,7 @@ The electoral register, updating since 15 June against a universe of 16.7 millio
 
 Field enrolment for the single social register [opened in a pilot phase at Sumbe, in Cuanza-Sul](https://angop.ao/noticias/sociedade/cadastro-social-nico-inicia-fase-piloto-no-sumbe/), directed by the social-action minister, to identify and characterise Angolan families and especially those in need. The register itself was activated in July; this is the first enrolment operation on record behind it.
 
-The education ministry made school enrolment independent of documentation. Circular 05/2026 of 19 August [orders every public and private school teaching primary and first-cycle secondary education to enrol children holding no birth certificate and no identity card, and to compile by the end of October a survey of undocumented pupils for the justice ministry's registry directorate, whose services are then to travel to the schools and register them](https://novojornal.co.ao/sociedade/detalhe/med-obriga-escolas-a-aceitar-matricula-de-criancas-que-ainda-nao-possuem-registo-de-nascimento-e-bi-74156.html); the ministry says the 17-21 August enrolment round drew large numbers of children with no registration of any kind.
+The education ministry made school enrolment independent of documentation. Circular 05/2026 of 19 August [orders every public and private school teaching primary and first-cycle secondary education to enrol children holding no birth certificate and no identity card, and to compile by the end of October a survey of undocumented pupils for the justice ministry's registry directorate, whose services are then to travel to the schools and register them](https://novojornal.co.ao/sociedade/detalhe/med-obriga-escolas-a-aceitar-matricula-de-criancas-que-ainda-nao-possuem-registo-de-nascimento-e-bi-74156.html); the ministry says the 17-21 August enrolment round drew large numbers of children with no registration of any kind. Two more objections landed in mid-September: the main opposition party [said state means were being used to register the governing party's own members early](https://www.noticiasaominuto.com/mundo/3051772/unita-acusa-angola-de-usar-registo-eleitoral-para-beneficiar-mpla), and a civic movement [said parties and civil society have been kept out of supervising the proof-of-life step, leaving nobody scrutinising it](https://angola24horas.com/politica/item/35035-ninguem-esta-a-fiscalizar-mudei-questiona-transparencia-do-registo-eleitoral-em-angola). The electoral administration's answer is not held.
 <!-- /narrative -->
 ### Sectoral management information systems
 
