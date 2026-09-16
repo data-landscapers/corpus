@@ -159,6 +159,7 @@ or `content/progress-countries.md`, which is the usual reason to run it.
 
 ```bash
 python scripts/catalogue.py       # -> site/catalogue/index.html, data/, raw-catalogue.csv
+python scripts/alerts.py          # -> site/alerts/ — the two pages and the two files the Worker reads
 ```
 
 Reads `outputs/catalogue/raw-catalogue.json` and the vocabularies in `outputs/vocab/`. Metadata only, each record linking to its publisher. Stale place/topic labels mean `outputs/vocab/` wants refreshing from OSINT's `lookups/`. **The record count is not a fixed expectation and no figure is written here** — it was `~10,700` for weeks after the catalogue passed 16,000, which is a statement a render prints past every night without anything noticing. The count for the last build is in `outputs/catalogue/stats.json` and on the previous render's own log line. **The serving shape is settled**, not pending: decided in `documentation/catalogue-serving-shape.md` and built in four parts recorded in `documentation/archived/catalogue-split-plan.md`, all of them live since 2026-09-08.
@@ -187,6 +188,23 @@ python scripts/test_catalogue_export.py       # every record rebuilt == raw-cata
 ```
 
 **The A–Z sort is decided at build time now**, because the page no longer holds the titles: `catalogue.py` → `coll()` ranks them and ships one integer per record. It approximates the browser's own collation and does not reproduce it — measured against Chrome's `localeCompare` on 2026-09-08, over the 20,267 titles held that day: 1.6% of adjacent pairs sorted the other way and the first A–Z screen shared 91 rows of 100. That is a reading taken once, not a figure the build maintains. What it buys is that a `#sort=az` link means the same thing for every reader, which `localeCompare` never did.
+
+### The alert pages — straight after the catalogue
+
+`scripts/alerts.py` writes `site/alerts/`: the sign-up page, the manage page, and the two data files the `corpus-alerts` Worker reads. It runs **after** `catalogue.py` and from the same `outputs/catalogue/raw-catalogue.json`, so the alert menus carry the vocabulary the catalogue's facets carry. `documentation/catalogue-alerts.md` is the design; `workers/alerts/README.md` points at it from the code.
+
+**`recent.json` is 28 rolling days and is rewritten every render.** About 4,800 records and 1.8 MB, 0.56 MB gzipped to a reader; the Worker fetches it once a week and caches it for fifteen minutes. It is tracked, like the catalogue's `data/` payload, because a `git push` has to be enough to make the alerts work. The window is 28 days rather than 14 because the send window catches up to 21 after a missed Monday and can only catch up over records the file still carries. A record is in it only if the **end** of its publication period is within 90 days of its ingest date — without that rule an alert would be mostly backfill, which is the figure in the script's own header.
+
+**Nothing in the file is unpublished.** Its columns are a subset of `build-catalogue.py`'s `CSV_COLS` plus a hash of the URL, and the test below asserts it rather than trusting the loop.
+
+**The Turnstile site key is a constant in `scripts/alerts.py`.** Until the widget exists the build prints a line saying the form will not submit; replacing the constant and re-rendering is step C4 of the design.
+
+```bash
+python scripts/test_alerts.py          # the backfill rule, the record id, the published columns
+python scripts/test_alerts_worker.py   # the Worker's pure core (needs node, or `pip install dukpy`)
+```
+
+**The second one is the Worker's whole test suite**, and it runs without Cloudflare: `workers/alerts/worker.js` is written in two halves with a marker line between them, and everything above it — what an alert id is, what matches, what the body says, what goes in the audience filter — is pure and is loaded straight into a JavaScript engine. Node is preferred and Duktape (`dukpy`) is the fallback, because node is not installed here and a Worker test that never runs is not a test. It skips with neither.
 
 ### The names index — build it before the page
 

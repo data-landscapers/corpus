@@ -1,0 +1,104 @@
+/* alerts.css — layout for the two alert pages, and nothing else.
+
+   `site/alerts/index.html` (sign up) and `site/alerts/manage/index.html` (edit),
+   both written by `scripts/alerts.py`. The rule `catalogue.css`'s header note
+   records the hard way applies here too: **no colour that is not a `:root` token
+   from `main.css`**, no type scale of its own, and the house radii — 2px on a
+   control, 3px on a container. What is left is layout, which is all a page-type
+   stylesheet is for (documentation/house-style.md → Where style lives).
+
+   The two pages share every class. A manage row is the sign-up form's picker pair
+   with a delete button beside it, which is why there is one `.alert-picks` rule
+   and not two.
+ */
+
+.alerts{color:var(--ink)}
+.alerts *{box-sizing:border-box}
+
+/* The form and the explanation sit side by side on a wide screen and stack on a
+   narrow one. The explanation is second in the source as well as second on a
+   phone: a reader who came from the catalogue's Get alerts button already knows
+   what they want and should meet the controls first. */
+.alert-cols{display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:2.5rem;
+            align-items:start;padding-bottom:2rem}
+@media (max-width:760px){.alert-cols{grid-template-columns:1fr;gap:1.5rem}}
+
+.alert-picks{display:grid;grid-template-columns:1fr 1fr;gap:1.25rem}
+@media (max-width:560px){.alert-picks{grid-template-columns:1fr}}
+
+.alert-pick__lab{display:block;font-family:var(--mono);font-size:.72rem;
+                 text-transform:uppercase;letter-spacing:.07em;
+                 color:var(--ink-faint);margin-bottom:.35rem}
+.alert-pick__cap{text-transform:none;letter-spacing:0;margin-left:.4rem}
+.alert-pick select{width:100%;font-family:var(--serif);font-size:.9rem;
+                   color:var(--ink);background:#fff;border:1px solid var(--rule);
+                   border-radius:2px;padding:.3rem}
+.alert-pick select:focus{outline:none;border-color:var(--accent)}
+/* A selected option in a native multi-select is painted by the platform and is
+   the one place the house palette cannot reach; `accent-color` is the hook that
+   does reach it in every current browser, and where it does not the platform
+   blue is a legible fallback rather than a broken one. */
+.alert-pick select{accent-color:var(--accent)}
+.alert-pick optgroup{font-family:var(--mono);font-size:.7rem;
+                     text-transform:uppercase;letter-spacing:.06em;
+                     color:var(--ink-faint)}
+.alert-pick option{font-family:var(--serif);font-size:.9rem;color:var(--ink);
+                   padding:.1rem .2rem}
+
+.alert-field{margin:1.25rem 0}
+.alert-field label{display:block;font-family:var(--mono);font-size:.72rem;
+                   text-transform:uppercase;letter-spacing:.07em;
+                   color:var(--ink-faint);margin-bottom:.35rem}
+.alert-field input{width:100%;max-width:26rem;font-family:var(--serif);
+                   font-size:.92rem;color:var(--ink);background:#fff;
+                   border:1px solid var(--rule);border-radius:2px;
+                   padding:.55rem .8rem}
+.alert-field input:focus{outline:none;border-color:var(--accent)}
+
+.alert-check{margin:1.25rem 0}
+.alert-check label{display:flex;gap:.6rem;align-items:flex-start;
+                   font-size:.92rem;color:var(--ink-light);cursor:pointer}
+.alert-check input{margin-top:.25rem;accent-color:var(--accent)}
+
+.alert-note{font-size:.82rem;color:var(--ink-faint);margin:.75rem 0 0}
+.alert-note[hidden]{display:none}
+
+/* One status line, three colours: the confirmation, the two the Worker redirects
+   back with, and the page's own refusals. `role="status"` is on the element, so a
+   screen reader hears it without the page moving focus. */
+.alert-msg{border:1px solid var(--rule);border-left:3px solid var(--accent);
+           border-radius:3px;background:var(--paper-warm);
+           padding:.75rem 1rem;margin:0 0 1.5rem;font-size:.92rem}
+.alert-msg[hidden]{display:none}
+.alert-msg--ok{border-left-color:var(--green)}
+
+.alert-about{border-left:1px solid var(--rule);padding-left:1.5rem}
+@media (max-width:760px){.alert-about{border-left:0;border-top:1px solid var(--rule);
+                                      padding-left:0;padding-top:1.25rem}}
+.alert-about h2{font-family:var(--mono);font-size:.7rem;text-transform:uppercase;
+                letter-spacing:.1em;color:var(--accent);margin:1.5rem 0 .5rem}
+.alert-about h2:first-child{margin-top:0}
+.alert-about p,.alert-about ol,.alert-about ul{font-size:.88rem;
+                                               color:var(--ink-light);margin:0 0 .75rem}
+.alert-about ol,.alert-about ul{padding-left:1.2rem}
+
+/* The feed offer is collapsed because it is for the minority who use a reader,
+   and the address is long. It is on the page at all because it is the version of
+   this that needs no email address at all (design.md §1). */
+.alert-feed{border-top:1px solid var(--rule);padding-top:1.25rem;
+            margin-bottom:2.5rem;font-size:.88rem;color:var(--ink-light)}
+.alert-feed summary{cursor:pointer;font-family:var(--mono);font-size:.72rem;
+                    text-transform:uppercase;letter-spacing:.07em;
+                    color:var(--ink-faint)}
+.alert-feed code{display:inline-block;word-break:break-all;background:var(--code-bg);
+                 border-radius:2px;padding:.2rem .4rem;font-size:.8rem}
+.alert-feed p[hidden]{display:none}
+
+/* A manage row is a bordered block so that Delete belongs to one alert visibly.
+   The button sits at the end on a wide row and under the pickers on a narrow one,
+   which is what the grid does on its own. */
+.alert-row{border:1px solid var(--rule);border-radius:3px;padding:1rem;
+           margin-bottom:1rem}
+.alert-row__del{margin-top:.75rem}
+.alert-manage[hidden]{display:none}
+#turnstile{margin:1.25rem 0}

@@ -2,7 +2,7 @@
 type: design-note
 title: catalogue-alerts.md — one weekly email per reader, built by a Cloudflare Worker and sent by Buttondown
 last_reviewed: 2026-09-16
-status: Part A done 2026-09-16; B next (CC), then C-E (Bill)
+status: Parts A and B done 2026-09-16; C next (Bill), then D-E
 ---
 
 # Catalogue alerts
@@ -84,6 +84,24 @@ Menu names are Buttondown's as documented on 2026-09-16; if a screen has moved, 
 15. Copy the key into your password manager. It is used in C6.
 
 ### B. Build (CC session)
+
+**Done 2026-09-16**, in Corpus and in `data-landscapers` as two commits. What follows is the
+brief as it was written; the notes marked **Built** record where a step landed differently
+from the way it reads here, and are the only part worth re-reading.
+
+**Built: the Worker is written in two halves.** B6 asked for the Worker's tests "under the
+same runner as `download-log`'s", and `download-log` has no tests and this machine has no
+JavaScript runtime at all — so a Worker test written that way would never have run. Instead
+`worker.js` carries a marker line: above it every rule is a pure function taking plain data
+and returning plain data, below it the I/O that does no deciding.
+`scripts/test_alerts_worker.py` loads the half above the marker into node where node exists
+and into Duktape (`pip install dukpy`) where it does not, and runs all fourteen of B6's
+cases. Three of them — the `/tags` call, the absent `type` key, the absent `console.log` —
+are read off the source instead, because they are about which branch a call sits in rather
+than about a value. **New decisions go above the marker**, or they leave the test suite.
+
+**Built: `pip install dukpy` is a new dependency of the test suite**, and only of the test
+suite. Nothing the site builds needs it and the suite skips cleanly without it.
 
 1. Start a fresh CC session in `C:\CORPUS` with this brief: *"Build catalogue alerts per `documentation/catalogue-alerts.md` Part 1 B, then stop for Bill's deploy."*
 
@@ -267,6 +285,16 @@ Every alert email has a link to change your alerts or stop them.
 ### `## manage-title`
 
 Your alerts
+
+### `## manage-lede`
+
+Change the countries and topics you get alerts for, add another, or remove them all.
+
+*(Added in the build, 2026-09-16. Every page here carries a lede under its `<h1>`, and
+without one of its own the manage page was running the sign-up page's — an invitation to
+subscribe, shown to somebody who already has. `## manage` stays on the sign-up page, where
+saying that every email carries a manage link is news; on the manage page it is a sentence
+telling the reader where they already are.)*
 
 ### `## manage-empty`
 

@@ -90,6 +90,15 @@
         <tr><td>Metadata</td>
             <td><a class="btn btn--sm" href="../metadata/catalogue-metadata.csv" download>&darr; CSV</a></td>
             <td></td></tr>
+        <!-- Not a download, and it sits in the downloads box all the same: this is the
+             other thing a reader does with a selection they have just built, and the
+             box is where a selection is already the subject. `drawDownload` rewrites
+             the href on every redraw so the link carries the filters the reader is
+             looking at. It stays live with nothing selected and then opens the alerts
+             page blank, which is a page worth reaching from here either way. -->
+        <tr><td>New documents</td>
+            <td><a class="btn btn--sm" href="../alerts/" id="getalerts">Get alerts</a></td>
+            <td></td></tr>
       </table>
       <p class="dlmsg" id="dlmsg"></p>
     </div>
@@ -557,6 +566,19 @@
       }
     });
     msg.textContent = dlMsg === 'busy' ? 'Preparing the file…' : (dlMsg || '');
+
+    // The alerts link carries the current places and topics as the page's own
+    // fragment, so the alerts page opens with them already picked. Only those two
+    // travel: an alert is a country-and-topic selection and has no notion of a
+    // search term, a year or an actor, and a fragment carrying one would promise
+    // something the alert cannot keep.
+    var ga = document.getElementById('getalerts');
+    if (ga){
+      var frag = [];
+      if (state.places.length) frag.push('places=' + encodeURIComponent(state.places.join(',')));
+      if (state.topics.length) frag.push('topics=' + encodeURIComponent(state.topics.join(',')));
+      ga.href = '../alerts/' + (frag.length ? '#' + frag.join('&') : '');
+    }
   }
 
   // The selected facet values as **offsets**, resolved once a redraw rather than once
