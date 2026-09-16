@@ -42,7 +42,7 @@ SEN,done,2026-09-16,406,378,36,"supported 342, coarsened 30, relinked 6, dropped
 SLE,done,2026-09-16,331,305,30,"supported 275, coarsened 27, relinked 3, dropped 0, gateway 26, not held 0"
 SOM,owed,,,,,
 SSD,done,2026-09-16,328,275,51,"supported 246, coarsened 40, relinked 7, dropped 4, gateway 31, not held 0"
-STP,owed,,,,,
+STP,done,2026-09-16,374,342,29,"supported 313, coarsened 24, relinked 3, dropped 2, gateway 0, not held 32"
 SWZ,owed,,,,,
 SYC,done,2026-09-16,336,232,39,"supported 224, coarsened 27, relinked 10, dropped 2, gateway 73, not held 0"
 TCD,owed,,,,,
