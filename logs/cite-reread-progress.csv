@@ -34,7 +34,7 @@ MRT,done,2026-09-15,270,270,47,"supported 223, coarsened 42, relinked 5, dropped
 MUS,done,2026-09-15,318,259,73,"supported 186, coarsened 65, relinked 8, dropped 0, gateway 34, not held 25"
 MWI,owed,,,,,
 NAM,owed,,,,,
-NER,owed,,,,,
+NER,done,2026-09-16,264,149,25,"supported 209, coarsened 19, relinked 4, dropped 2, gateway 30, not held 0"
 NGA,owed,,,,,
 RWA,owed,,,,,
 SDN,done,2026-09-16,259,233,22,"supported 211, coarsened 21, relinked 0, dropped 1, gateway 0, not held 26"
