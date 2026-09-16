@@ -153,7 +153,7 @@
   function spend(fn) {
     var t = token;
     token = null;
-    if (window.turnstile && widget !== null) { window.turnstile.reset(widget); }
+    if (turnstileReady() && widget !== null) { window.turnstile.reset(widget); }
     fn(t);
   }
 
@@ -162,9 +162,21 @@
     waiting.push(fn);
   }
 
+  /* Is Cloudflare's script here — tested by the method, not by the name.
+   *
+   * A browser makes every element with an `id` a global of the same name, so while
+   * the container was `<div id="turnstile">`, `window.turnstile` was that empty div
+   * until `api.js` arrived. The old test saw it, called `render` on a div, threw, and
+   * never left the callback — no widget, and every sign-up failed the check
+   * (2026-09-16, step D5). The container is `alerts-turnstile` now, and the test
+   * asks for the function it is about to call, so a renamed id cannot bring it back. */
+  function turnstileReady() {
+    return !!(window.turnstile && typeof window.turnstile.render === 'function');
+  }
+
   function renderTurnstile() {
-    var host = document.getElementById('turnstile');
-    if (!host || !window.turnstile) { return false; }
+    var host = document.getElementById('alerts-turnstile');
+    if (!host || !turnstileReady()) { return false; }
     widget = window.turnstile.render(host, {
       sitekey: C.turnstileKey,
       callback: onToken,

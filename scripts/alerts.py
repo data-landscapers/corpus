@@ -359,7 +359,7 @@ def signup_body(voc: dict) -> str:
                  placeholder="you@example.com">
         </div>
 
-        <div id="turnstile"></div>
+        <div id="alerts-turnstile"></div>
 
         <button type="submit" class="btn" id="go">Set up alerts</button>
         <p class="alert-note">{copy_inline("alerts", "manage")}</p>
@@ -404,7 +404,7 @@ def manage_body(voc: dict) -> str:
       <p class="alert-note" id="several" hidden>{copy_inline("alerts", "several")}</p>
 
       <button type="button" class="btn btn--sm" id="add">Add alert</button>
-      <div id="turnstile"></div>
+      <div id="alerts-turnstile"></div>
       <button type="button" class="btn" id="save">Save</button>
     </div>
 
