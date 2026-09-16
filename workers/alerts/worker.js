@@ -78,6 +78,15 @@ const MAX_WINDOW_DAYS = 21;
  */
 const TAG_BASE = "tag:corpus.data-landscapers.io,2026:";
 
+/**
+ * A Buttondown subscriber id, in either of the two forms it comes in: a UUID with hyphens,
+ * as `{{ subscriber.id }}` renders in an email, or a TypeID with an underscore, `sub_…`, as
+ * the dashboard shows it. The first version allowed hyphens only, so a manage link built
+ * from the dashboard's id listed nothing and saved nothing (2026-09-16, D14). The check is
+ * there to keep a path segment out of Buttondown's URL, not to know the format.
+ */
+const SUBSCRIBER_ID = /^[A-Za-z0-9_-]{8,64}$/;
+
 const MONTHS = ["January", "February", "March", "April", "May", "June",
                 "July", "August", "September", "October", "November", "December"];
 
@@ -798,7 +807,7 @@ async function manageListRoute(request, env) {
     return json({ error: "check" }, 400);
   }
   const s = String(body.s || "");
-  if (!/^[A-Za-z0-9-]{8,64}$/.test(s)) { return json({ site: false, alerts: [] }); }
+  if (!SUBSCRIBER_ID.test(s)) { return json({ site: false, alerts: [] }); }
 
   const res = await bd(env, `/subscribers/${encodeURIComponent(s)}`);
   if (!res.ok) { return json({ site: false, alerts: [] }); }
@@ -820,7 +829,7 @@ async function manageSaveRoute(request, env) {
     return json({ error: "check" }, 400);
   }
   const s = String(body.s || "");
-  if (!/^[A-Za-z0-9-]{8,64}$/.test(s)) { return json({ error: "input" }, 400); }
+  if (!SUBSCRIBER_ID.test(s)) { return json({ error: "input" }, 400); }
 
   const wanted = Array.isArray(body.alerts) ? body.alerts : [];
   if (wanted.length > MAX_ALERTS) { return json({ error: "input" }, 400); }

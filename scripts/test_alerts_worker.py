@@ -452,6 +452,11 @@ check("alert tags are recognised by shape",
          'ALERT_TAG.test("alert 4f1c8a20"), ALERT_TAG.test("wip-import")]'),
       [True, True, False, False, False, False])
 
+check("a subscriber id passes in both of Buttondown's forms, and a path does not",
+      js('[SUBSCRIBER_ID.test("sub_0vv0sth0p68038he7avwn9cnf1"), '
+         'SUBSCRIBER_ID.test("3f1c2a4e-1b2c-4d5e-8f90-123456789abc"), '
+         'SUBSCRIBER_ID.test("../emails"), SUBSCRIBER_ID.test("a@b.co")]'),
+      [True, True, False, False])
 check("an address shaped like one passes",
       js('[looksLikeEmail("reader@example.org"), looksLikeEmail("a@b.co"), '
          'looksLikeEmail("reader@example"), looksLikeEmail("reader"), '
