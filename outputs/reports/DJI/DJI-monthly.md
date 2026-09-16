@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-16
 place: DJI
 ledger_rows: 19
 not_held: 12
-record: 2a314f04c946
+record: 7da97a133ff2
 ---
 
 # Djibouti: monthly update, August – September 2026
@@ -40,7 +40,7 @@ On 4 August 2026 the state daily *La Nation* [described the Police Nationale and
 ### New investments
 
 <!-- narrative: finance--finance-new -->
-The investment on offer was estimated rather than committed. A country private sector diagnostic [identified at least US$600 million of private investment and about 12,000 jobs available over five years across off-grid solar energy, data centres and tourism, with the policy actions that would unlock them](https://www.worldbank.org/en/news/press-release/2026/09/14/world-bank-group-report-identifies-significant-private-investment-potential-for-dj). Nothing in it is a transaction.
+The investment on offer was estimated rather than committed. A country private sector diagnostic [identified at least US$600 million of private investment and about 12,000 jobs available over five years across off-grid solar energy, data centres and tourism, with the policy actions that would bring them about](https://www.worldbank.org/en/news/press-release/2026/09/14/world-bank-group-report-identifies-significant-private-investment-potential-for-dj). Nothing in it is a transaction.
 <!-- /narrative -->
 
 ## ICT Infrastructure
