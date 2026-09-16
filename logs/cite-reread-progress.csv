@@ -44,7 +44,7 @@ SOM,owed,,,,,
 SSD,done,2026-09-16,328,275,51,"supported 246, coarsened 40, relinked 7, dropped 4, gateway 31, not held 0"
 STP,owed,,,,,
 SWZ,owed,,,,,
-SYC,owed,,,,,
+SYC,done,2026-09-16,336,232,39,"supported 224, coarsened 27, relinked 10, dropped 2, gateway 73, not held 0"
 TCD,owed,,,,,
 TGO,done,2026-09-16,399,344,18,"supported 326, coarsened 9, relinked 5, dropped 4, gateway 26, not held 29"
 TUN,done,2026-09-16,415,220,26,"supported 296, coarsened 18, relinked 3, dropped 5, gateway 93, not held 0"
