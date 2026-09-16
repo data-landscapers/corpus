@@ -509,8 +509,12 @@ export default {
         return await manageSaveRoute(request, env);
       }
     } catch (err) {
-      // The message, never the request. A body here would be an address in a log.
-      return json({ error: "unavailable" }, 503);
+      // The error's message, never the request: a body here would be an address in a
+      // response. Every message that can reach this line is one this file writes
+      // (`vocab.json 404`, `subscribers 403`) or the runtime's own, and none carries a
+      // reader's data — so it is returned, because a 503 that says only "unavailable"
+      // is how D1 cost a round of guessing.
+      return json({ error: "unavailable", detail: String((err && err.message) || err) }, 503);
     }
     return new Response("Not found", { status: 404 });
   },
@@ -569,9 +573,23 @@ async function turnstileOk(request, env, token) {
   return data.success === true;
 }
 
+/**
+ * Where `recent.json` and `vocab.json` are read from: the committed copies in the Corpus
+ * repository, not the published site.
+ *
+ * **Not `SITE`, and the reason is Cloudflare's, not ours.** `corpus.data-landscapers.io/*` is
+ * `download-log`'s route, so a fetch from here to the site's own address is one Worker fetching
+ * through another on the same zone — which Cloudflare refuses unless a compatibility flag is set
+ * that the dashboard does not offer (design step D1, 2026-09-16: every call came back 503). The
+ * repository holds the same bytes, because `site/` is rendered locally and committed, and GitHub
+ * Pages serves what was pushed. It lags a push by a few minutes, which a file read once a week
+ * and cached for fifteen minutes does not notice.
+ */
+const DATA_BASE = "https://raw.githubusercontent.com/data-landscapers/corpus/main/site";
+
 /** `recent.json` and `vocab.json`, cached at the edge — the site rebuilds them once a day. */
 async function siteJson(env, name, ttl) {
-  const res = await fetch(`${site(env)}/alerts/${name}`, {
+  const res = await fetch(`${DATA_BASE}/alerts/${name}`, {
     cf: { cacheTtl: ttl, cacheEverything: true },
   });
   if (!res.ok) { throw new Error(`${name} ${res.status}`); }
