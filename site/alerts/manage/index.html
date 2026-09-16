@@ -9,7 +9,7 @@
 <meta name="robots" content="noindex, nofollow">
 <link rel="stylesheet" href="../../assets/css/main.css?v=a004bc3c">
 <link rel="stylesheet" href="../../assets/css/corpus.css?v=42a1181a">
-<link rel="stylesheet" href="../../assets/css/alerts.css?v=81d6247c">
+<link rel="stylesheet" href="../../assets/css/alerts.css?v=1c9300c2">
 <link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-BF3X4N6YML"></script>
 <script>
@@ -64,26 +64,49 @@
 
     <div class="alert-msg" id="msg" role="status" hidden></div>
 
-    <div class="alert-manage" id="manage" hidden>
-      <div class="alert-check">
-        <label><input type="checkbox" id="site">
-        <span>Also send me new writing from data-landscapers.io: articles, working papers and datasets, once a week.</span></label>
+    <div class="alert-cols">
+      <div>
+        <div class="alert-manage" id="manage" hidden>
+          <div class="alert-check">
+            <label><input type="checkbox" id="site">
+            <span>Also send me new writing from data-landscapers.io: articles, working papers and datasets, once a week.</span></label>
+          </div>
+
+          <div id="rows"></div>
+
+          <p class="alert-note" id="several" hidden>An alert covers up to five countries and five topics. Your selection had more, so pick the ones you want below.</p>
+
+          <button type="button" class="btn btn--sm" id="add">Add alert</button>
+          <div id="alerts-turnstile"></div>
+          <button type="button" class="btn" id="save">Save</button>
+        </div>
+
+        <p class="alert-note" id="nokey" hidden>This page opens from the link at the
+        foot of an alert email. Open it from there to see your alerts.</p>
       </div>
 
-      <div id="rows"></div>
-
-      <p class="alert-note" id="several" hidden>An alert covers up to five countries and five topics. Your selection had more, so pick the ones you want below.</p>
-
-      <button type="button" class="btn btn--sm" id="add">Add alert</button>
-      <div id="alerts-turnstile"></div>
-      <button type="button" class="btn" id="save">Save</button>
+      <aside class="alert-about">
+        <h2>How this page works</h2>
+        <ol>
+<li>Each box below is one alert. Click a country or topic to add it; click it again to remove it.</li>
+<li><strong>Add alert</strong> for another, <strong>Delete</strong> to drop one.</li>
+<li>Press <strong>Save</strong>. Your next Monday email uses what is saved here.</li>
+</ol>
+        <h2>What an alert covers</h2>
+        <p>An alert can cover up to five countries and five topics. A document matches if it is about any of the countries and any of the topics. Choose <strong>Any</strong> to widen either side.</p>
+<p>You can hold up to ten alerts. They all arrive together, in one email on Monday.</p>
+<p>An alert lists documents published in roughly the last three months as they reach the catalogue. Older documents we add to the archive are not sent; find those in the catalogue.</p>
+<p>A region, such as West Africa, covers documents about the region as a whole, not every document about each country in it.</p>
+        <h2>Your link</h2>
+        <p>This page opens from the link in your alert emails. Anyone you forward one of those emails to can open it too.</p>
+        <h2>Your address</h2>
+        <p>Your email address is held by Buttondown, the service that sends the alerts, and used only to send them. This site does not store it. <a href="https://buttondown.com/legal/privacy" target="_blank" rel="noopener">Buttondown's privacy policy</a>.</p>
+      </aside>
     </div>
-
-    <p class="alert-note" id="nokey" hidden>This page opens from the link at the
-    foot of an alert email. Open it from there to see your alerts.</p>
 
     <template id="rowtpl">
       <div class="alert-row">
+        <p class="alert-row__sum" aria-live="polite"></p>
         <div class="alert-picks">
 <div class="alert-pick">
   <span class="alert-pick__lab">Country<span class="alert-pick__cap">up to 5 — click to add or remove</span></span>
@@ -236,8 +259,8 @@
     </div>
   </footer>
 
-<script>window.ALERTS = {"page":"manage","site":"https://corpus.data-landscapers.io","mainSite":"https://data-landscapers.io","turnstileKey":"0x4AAAAAAE4PyA_1ozsqH54J","maxPerFacet":5,"maxAlerts":10,"places":{"XAF":"Africa","XCA":"Central Africa","XEA":"East Africa","XGL":"Global/Developing Countries","XNA":"North Africa","XSA":"Southern Africa","XSS":"Sub-Saharan Africa","XWA":"West Africa","DZA":"Algeria","AGO":"Angola","BEN":"Benin","BWA":"Botswana","BFA":"Burkina Faso","BDI":"Burundi","CMR":"Cameroon","CPV":"Cape Verde","CAF":"Central African Republic","TCD":"Chad","COM":"Comoros","COG":"Congo","CIV":"Cote d'Ivoire","COD":"DR Congo","DJI":"Djibouti","EGY":"Egypt","GNQ":"Equatorial Guinea","ERI":"Eritrea","SWZ":"Eswatini","ETH":"Ethiopia","GAB":"Gabon","GMB":"Gambia","GHA":"Ghana","GIN":"Guinea","GNB":"Guinea-Bissau","KEN":"Kenya","LSO":"Lesotho","LBR":"Liberia","LBY":"Libya","MDG":"Madagascar","MWI":"Malawi","MLI":"Mali","MRT":"Mauritania","MUS":"Mauritius","MAR":"Morocco","MOZ":"Mozambique","NAM":"Namibia","NER":"Niger","NGA":"Nigeria","RWA":"Rwanda","STP":"Sao Tome and Principe","SEN":"Senegal","SYC":"Seychelles","SLE":"Sierra Leone","SOM":"Somalia","ZAF":"South Africa","SSD":"South Sudan","SDN":"Sudan","TZA":"Tanzania","TGO":"Togo","TUN":"Tunisia","UGA":"Uganda","ZMB":"Zambia","ZWE":"Zimbabwe"},"topics":{"gov.policy":"Strategies, plans and policies","gov.legislate":"Legislation and regulation","gov.protect":"Data protection","gov.regional":"Regional collaboration","gov.standards":"Standards","gov.discourse":"Public debate and participation in policymaking","finance.budget":"Domestic budget appropriations and expenditure","finance.mou":"MoUs and other agreements","finance.new":"New investments","infra.connect":"Connectivity","infra.store":"Data Storage","infra.energy":"Energy","infra.capacity":"Technical Capacity","infra.cybersec":"Cybersecurity","dpi.exchange":"Data Exchange","dpi.id":"Digital Identity and CRVS","dpi.pay":"Digital Payments and Fintech","dpi.registry":"Registries","dpi.mis":"Sectoral management information systems","dpi.govtech":"Other GovTech and e-Gov","digital.localgov":"Digitalisation of sub-national government","digital.rural":"Rural digital data capture","tech.ai":"AI","tech.industry":"ICT Industry","tech.innovate":"Innovation ecosystem","capacity.literacy":"Literacy","capacity.training":"Training and skills","capacity.research":"Research institutions","include.access":"Access to services","include.divides":"Digital divides","data.statistics":"National statistics","data.open":"Open data","data.satellite":"Use of satellite data","geopol.usa":"US / hyperscaler activities","geopol.china":"China activities","geopol.eu":"EU activities","geopol.gulf":"Gulf/UAE activities","geopol.india":"India activities"},"messages":{"several":"An alert covers up to five countries and five topics. Your selection had more, so pick the ones you want below.","ok":"Check your inbox. Click the link in the email from Data Landscapers to start your alert.","confirmed":"Confirmed. Your alerts start with the next Monday email.","added":"Added. It will be in your next Monday email.","e-check":"The check that you are not a robot did not complete. Please try again.","e-input":"Pick a country, a topic or the main-site box, and check the email address.","e-later":"Something went wrong on our side. Please try again later.","e-blocked":"We could not accept this sign-up. Trying again will not help; email info@data-landscapers.io and we will add you by hand.","manage-empty":"You have no alerts set up. Add one below.","manage-saved":"Saved. Your next Monday email will use the alerts above.","manage-none":"You have no alerts left, so we will send you nothing. Your address stays on the list. To remove it, use the unsubscribe link in any email from us."}};</script>
-<script src="../../assets/js/alerts.js?v=61bdcb95"></script>
+<script>window.ALERTS = {"page":"manage","site":"https://corpus.data-landscapers.io","mainSite":"https://data-landscapers.io","turnstileKey":"0x4AAAAAAE4PyA_1ozsqH54J","maxPerFacet":5,"maxAlerts":10,"places":{"XAF":"Africa","XCA":"Central Africa","XEA":"East Africa","XGL":"Global/Developing Countries","XNA":"North Africa","XSA":"Southern Africa","XSS":"Sub-Saharan Africa","XWA":"West Africa","DZA":"Algeria","AGO":"Angola","BEN":"Benin","BWA":"Botswana","BFA":"Burkina Faso","BDI":"Burundi","CMR":"Cameroon","CPV":"Cape Verde","CAF":"Central African Republic","TCD":"Chad","COM":"Comoros","COG":"Congo","CIV":"Cote d'Ivoire","COD":"DR Congo","DJI":"Djibouti","EGY":"Egypt","GNQ":"Equatorial Guinea","ERI":"Eritrea","SWZ":"Eswatini","ETH":"Ethiopia","GAB":"Gabon","GMB":"Gambia","GHA":"Ghana","GIN":"Guinea","GNB":"Guinea-Bissau","KEN":"Kenya","LSO":"Lesotho","LBR":"Liberia","LBY":"Libya","MDG":"Madagascar","MWI":"Malawi","MLI":"Mali","MRT":"Mauritania","MUS":"Mauritius","MAR":"Morocco","MOZ":"Mozambique","NAM":"Namibia","NER":"Niger","NGA":"Nigeria","RWA":"Rwanda","STP":"Sao Tome and Principe","SEN":"Senegal","SYC":"Seychelles","SLE":"Sierra Leone","SOM":"Somalia","ZAF":"South Africa","SSD":"South Sudan","SDN":"Sudan","TZA":"Tanzania","TGO":"Togo","TUN":"Tunisia","UGA":"Uganda","ZMB":"Zambia","ZWE":"Zimbabwe"},"topics":{"gov.policy":"Strategies, plans and policies","gov.legislate":"Legislation and regulation","gov.protect":"Data protection","gov.regional":"Regional collaboration","gov.standards":"Standards","gov.discourse":"Public debate and participation in policymaking","finance.budget":"Domestic budget appropriations and expenditure","finance.mou":"MoUs and other agreements","finance.new":"New investments","infra.connect":"Connectivity","infra.store":"Data Storage","infra.energy":"Energy","infra.capacity":"Technical Capacity","infra.cybersec":"Cybersecurity","dpi.exchange":"Data Exchange","dpi.id":"Digital Identity and CRVS","dpi.pay":"Digital Payments and Fintech","dpi.registry":"Registries","dpi.mis":"Sectoral management information systems","dpi.govtech":"Other GovTech and e-Gov","digital.localgov":"Digitalisation of sub-national government","digital.rural":"Rural digital data capture","tech.ai":"AI","tech.industry":"ICT Industry","tech.innovate":"Innovation ecosystem","capacity.literacy":"Literacy","capacity.training":"Training and skills","capacity.research":"Research institutions","include.access":"Access to services","include.divides":"Digital divides","data.statistics":"National statistics","data.open":"Open data","data.satellite":"Use of satellite data","geopol.usa":"US / hyperscaler activities","geopol.china":"China activities","geopol.eu":"EU activities","geopol.gulf":"Gulf/UAE activities","geopol.india":"India activities"},"messages":{"several":"An alert covers up to five countries and five topics. Your selection had more, so pick the ones you want below.","ok":"Check your inbox. Click the link in the email from Data Landscapers to start your alert.","confirmed":"Confirmed. Your alerts start with the next Monday email.","added":"Added. It will be in your next Monday email.","manage-confirmed":"Confirmed. These are your alerts. Your first email comes on Monday.","e-check":"The check that you are not a robot did not complete. Please try again.","e-input":"Pick a country, a topic or the main-site box, and check the email address.","e-later":"Something went wrong on our side. Please try again later.","e-blocked":"We could not accept this sign-up. Trying again will not help; email info@data-landscapers.io and we will add you by hand.","manage-empty":"You have no alerts set up. Add one below.","manage-saved":"Saved. Your next Monday email will use the alerts above.","manage-none":"You have no alerts left, so we will send you nothing. Your address stays on the list. To remove it, use the unsubscribe link in any email from us."}};</script>
+<script src="../../assets/js/alerts.js?v=e9759c81"></script>
 <script src="https://challenges.cloudflare.com/turnstile/v0/api.js?render=explicit&amp;onload=onloadTurnstileCallback" async defer></script>
 </div>
 </body>

@@ -86,7 +86,7 @@ TURNSTILE_SITE_KEY = "0x4AAAAAAE4PyA_1ozsqH54J"
 ROW_COLS = ["title", "publisher", "published", "ingested", "places", "topics", "url"]
 
 BLOCKS = ["title", "lede", "how", "what", "site", "several", "manage", "manage-title",
-          "manage-lede",
+          "manage-lede", "manage-how", "manage-link", "manage-confirmed", "already",
           "manage-empty", "manage-saved", "manage-none", "feed", "privacy",
           "ok", "added", "confirmed", "e-check", "e-input", "e-later", "e-blocked"]
 
@@ -321,6 +321,7 @@ def config(page: str, voc: dict) -> str:
             "ok": copy_inline("alerts", "ok"),
             "confirmed": copy_inline("alerts", "confirmed"),
             "added": copy_inline("alerts", "added"),
+            "manage-confirmed": copy_inline("alerts", "manage-confirmed"),
             "e-check": copy_inline("alerts", "e-check"),
             "e-input": copy_inline("alerts", "e-input"),
             "e-later": copy_inline("alerts", "e-later"),
@@ -369,6 +370,8 @@ def signup_body(voc: dict) -> str:
       </form>
 
       <aside class="alert-about">
+        <h2>Already have alerts?</h2>
+        {copy("alerts", "already")}
         <h2>How it works</h2>
         {copy("alerts", "how")}
         <h2>What an alert covers</h2>
@@ -396,26 +399,42 @@ def manage_body(voc: dict) -> str:
     of not building a `<select>` from JSON in two places."""
     return f"""    <div class="alert-msg" id="msg" role="status" hidden></div>
 
-    <div class="alert-manage" id="manage" hidden>
-      <div class="alert-check">
-        <label><input type="checkbox" id="site">
-        <span>{copy_inline("alerts", "site")}</span></label>
+    <div class="alert-cols">
+      <div>
+        <div class="alert-manage" id="manage" hidden>
+          <div class="alert-check">
+            <label><input type="checkbox" id="site">
+            <span>{copy_inline("alerts", "site")}</span></label>
+          </div>
+
+          <div id="rows"></div>
+
+          <p class="alert-note" id="several" hidden>{copy_inline("alerts", "several")}</p>
+
+          <button type="button" class="btn btn--sm" id="add">Add alert</button>
+          <div id="alerts-turnstile"></div>
+          <button type="button" class="btn" id="save">Save</button>
+        </div>
+
+        <p class="alert-note" id="nokey" hidden>This page opens from the link at the
+        foot of an alert email. Open it from there to see your alerts.</p>
       </div>
 
-      <div id="rows"></div>
-
-      <p class="alert-note" id="several" hidden>{copy_inline("alerts", "several")}</p>
-
-      <button type="button" class="btn btn--sm" id="add">Add alert</button>
-      <div id="alerts-turnstile"></div>
-      <button type="button" class="btn" id="save">Save</button>
+      <aside class="alert-about">
+        <h2>How this page works</h2>
+        {copy("alerts", "manage-how")}
+        <h2>What an alert covers</h2>
+        {copy("alerts", "what")}
+        <h2>Your link</h2>
+        {copy("alerts", "manage-link")}
+        <h2>Your address</h2>
+        {copy("alerts", "privacy")}
+      </aside>
     </div>
-
-    <p class="alert-note" id="nokey" hidden>This page opens from the link at the
-    foot of an alert email. Open it from there to see your alerts.</p>
 
     <template id="rowtpl">
       <div class="alert-row">
+        <p class="alert-row__sum" aria-live="polite"></p>
         <div class="alert-picks">
 {picker("places", "Country", place_options(voc))}
 {picker("topics", "Topic", topic_options(voc))}

@@ -106,5 +106,10 @@
 .alert-row{border:1px solid var(--rule);border-radius:3px;padding:1rem;
            margin-bottom:1rem}
 .alert-row__del{margin-top:.75rem}
+/* The one-line summary above each alert's two lists: a long list scrolls, and the reader
+   should not have to scroll it to find out what they picked (Bill, 2026-09-16). */
+.alert-row__sum{font-size:.88rem;color:var(--ink);margin:0 0 .75rem;line-height:1.45}
+.alert-row__sum b{font-family:var(--mono);font-size:.72rem;text-transform:uppercase;
+                  letter-spacing:.07em;color:var(--accent);margin-right:.5rem}
 .alert-manage[hidden]{display:none}
 #alerts-turnstile{margin:1.25rem 0}

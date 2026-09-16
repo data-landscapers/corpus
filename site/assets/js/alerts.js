@@ -292,7 +292,16 @@
     var key = readKey();
     var wrap = document.getElementById('manage');
     var nokey = document.getElementById('nokey');
-    if (!key) { if (nokey) { nokey.hidden = false; } return; }
+    /* `#s=…&confirmed=1` is where Buttondown sends a reader after they confirm, with their
+     * id in `s` if its redirect setting fills in `{{ subscriber.id }}`. If it does not, the
+     * key arrives as literal braces: say *confirmed* anyway, and leave the note pointing at
+     * the link in the email. */
+    var confirmed = fragment().confirmed === '1';
+    if (!/^[A-Za-z0-9_-]{8,64}$/.test(key)) {
+      if (confirmed) { said('confirmed', true); }
+      if (nokey) { nokey.hidden = false; }
+      return;
+    }
 
     var rows = document.getElementById('rows');
     var tpl = document.getElementById('rowtpl');
@@ -302,6 +311,27 @@
     var max = C.maxAlerts || 10;
 
     function count() { return rows.querySelectorAll('.alert-row').length; }
+
+    /* `Alert 1  Countries — Botswana; Topics — Data protection`, above each row's lists,
+     * redrawn on every change and renumbered on every delete. The labels are the
+     * vocabulary's, so the sentence reads as the lists do. */
+    function names(codes, vocab) {
+      return codes.length ? codes.map(function (c) { return vocab[c] || c; }).join(', ') : 'Any';
+    }
+    function summarise() {
+      Array.prototype.forEach.call(rows.querySelectorAll('.alert-row'), function (row, i) {
+        var p = pickers(row);
+        var sum = row.querySelector('.alert-row__sum');
+        if (!sum) { return; }
+        sum.textContent = '';
+        var b = document.createElement('b');
+        b.textContent = 'Alert ' + (i + 1);
+        sum.appendChild(b);
+        sum.appendChild(document.createTextNode(
+          'Countries \u2014 ' + names(picked(p.places), C.places) +
+          '; Topics \u2014 ' + names(picked(p.topics), C.topics)));
+      });
+    }
 
     function addRow(alert) {
       if (count() >= max) { return null; }
@@ -313,6 +343,7 @@
         if (alert.topics && alert.topics.length) { preselect(p.topics, alert.topics, C.topics); }
       }
       if (add) { add.disabled = count() >= max; }
+      summarise();
       return row;
     }
 
@@ -340,6 +371,7 @@
     rows.addEventListener('change', function (e) {
       if (e.target.dataset && e.target.dataset.pick) {
         if (!normalise(e.target) && several) { several.hidden = false; }
+        summarise();
       }
     });
 
@@ -348,6 +380,7 @@
         var row = e.target.closest('.alert-row');
         if (row) { row.remove(); }
         if (add) { add.disabled = count() >= max; }
+        summarise();
       }
     });
 
@@ -372,7 +405,9 @@
         if (site) { site.checked = !!(data && data.site); }
         var held = (data && data.alerts) || [];
         held.forEach(addRow);
-        if (!held.length) { said('manage-empty', false); addRow(null); }
+        if (confirmed) { said('manage-confirmed', true); }
+        else if (!held.length) { said('manage-empty', false); }
+        if (!held.length) { addRow(null); }
       });
     });
   }

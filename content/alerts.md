@@ -44,6 +44,12 @@ A region, such as West Africa, covers documents about the region as a whole, not
 
 Also send me new writing from data-landscapers.io: articles, working papers and datasets, once a week.
 
+## already
+
+Every alert email ends with a link to your alerts, and so does the email that confirms your address. Use it to see, change or remove what you have.
+
+Setting up another alert here adds it to the ones you already have. Nothing is replaced.
+
 ## several
 
 An alert covers up to five countries and five topics. Your selection had more, so pick the ones you want below.
@@ -59,6 +65,20 @@ Your alerts
 ## manage-lede
 
 Change the countries and topics you get alerts for, add another, or remove them all.
+
+## manage-how
+
+1. Each box below is one alert. Click a country or topic to add it; click it again to remove it.
+2. **Add alert** for another, **Delete** to drop one.
+3. Press **Save**. Your next Monday email uses what is saved here.
+
+## manage-link
+
+This page opens from the link in your alert emails. Anyone you forward one of those emails to can open it too.
+
+## manage-confirmed
+
+Confirmed. These are your alerts. Your first email comes on Monday.
 
 ## manage-empty
 
