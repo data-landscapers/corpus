@@ -1,11 +1,11 @@
 ---
 title: Egypt — monthly update, August – September 2026
-compiled: 2026-09-14
-period: 2026-08-01 to 2026-09-14
+compiled: 2026-09-16
+period: 2026-08-01 to 2026-09-16
 place: EGY
-ledger_rows: 100
+ledger_rows: 105
 not_held: 48
-record: dc57e30d13a8
+record: 45640b9d8844
 ---
 
 # Egypt: monthly update, August – September 2026
@@ -183,6 +183,11 @@ Egypt [led the continent in the first half of 2026 with US$327m raised, US$183m 
 
 ## Capacity
 
+### Literacy
+
+<!-- narrative: capacity--capacity-literacy -->
+Devices were announced rather than delivered. As the school year opened, the education minister [put free tablets at about 700,000 secondary students a year with an extension to technical education, above 1.2 million devices announced in total](https://egyptwindow.net/article/4906806), a figure set in the same account against connection costs and teacher readiness. No count of devices delivered or in use is published.
+<!-- /narrative -->
 ### Training and skills
 
 <!-- narrative: capacity--capacity-training -->

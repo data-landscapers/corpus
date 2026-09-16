@@ -1,11 +1,11 @@
 ---
 title: Tanzania — monthly update, August – September 2026
-compiled: 2026-09-14
-period: 2026-08-01 to 2026-09-14
+compiled: 2026-09-16
+period: 2026-08-01 to 2026-09-16
 place: TZA
-ledger_rows: 87
+ledger_rows: 91
 not_held: 5
-record: 811529b753b5
+record: 0bfd8c067fb4
 ---
 
 # Tanzania: monthly update, August – September 2026
@@ -65,6 +65,11 @@ The month's one finding about political speech came from outside the state. A ci
 
 ## Finance
 
+### MoUs and other agreements
+
+<!-- narrative: finance--finance-mou -->
+A Korean track was pressed at the Korea-Africa economic cooperation ministerial, where the finance minister [agreed to accelerate delivery of a stated US$2.5bn Korean commitment covering transport infrastructure, technology, culture, industry and health](https://www.jamhurimedia.co.tz/tanzania-na-korea-zatafuta-ushirikiano-imara-wa-kiuchumi/), and a university partnership [was pressed on artificial intelligence, digital skills, research and technology entrepreneurship](https://businessinsider.co.tz/tanzania-hanyang-erica-deepens-tech-partnership/). Neither carries a signed instrument, a digital allocation or a date.
+<!-- /narrative -->
 ### New investments
 
 <!-- narrative: finance--finance-new -->
