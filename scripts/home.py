@@ -352,6 +352,9 @@ TEMPLATE = """<!DOCTYPE html>
     <p class="section-intro">{progress_intro}</p>
 
 {bulletin}
+    <h2 class="section-heading" id="alerts"><a href="{base}/alerts/">Weekly news alerts</a></h2>
+    <p class="section-intro">{alerts_intro}</p>
+
     <h2 class="section-heading" id="countries"><a href="{base}/countries/">Countries &amp; Regions</a></h2>
     <p class="section-intro">{countries_intro}</p>
     <p class="section-intro">{regions_intro}</p>
@@ -628,6 +631,8 @@ def build() -> Path:
         docs_year=f"{s['by_year'].get(this_year, 0):,}",
         docs_month=f"{s['by_month'].get(this_month, 0):,}",
         bulletin=bulletin_section(),
+        # Under the bulletin: the other way to hear about new material (Bill, 2026-09-16).
+        alerts_intro=copy_inline("home", "weekly-news-alerts-intro"),
         chrome=chrome(None, depth=0), foot=foot(depth=0),
         styles=styles(0, "home.css"), ga=ga(),
         feedback=feedback("Corpus home", f"{SITE_BASE}/"),

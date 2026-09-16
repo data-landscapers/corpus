@@ -21,6 +21,10 @@ Digital transformation involves far more than the headline strategies, acts and 
 
 The bulletin lists the latest new content. Typically this is yesterday's news, built automatically overnight. On occasion an additional data collection run takes place during the day and the bulletin will reflect both today and yesterday. The bulletin can be filtered by country and topic.
 
+## weekly-news-alerts-intro
+
+You can subscribe to customised weekly news updates that will be delivered every Monday morning. Go to the [catalogue](https://corpus.data-landscapers.io/catalogue/) and click on "Get alerts".
+
 ## countries-intro
 
 For each country four reports have been built and are modified whenever newly arrived content merits an update. The ***Status Report*** attempts to summarise the current state of the digital transformation landscape, The ***Monthly Update*** references all new content published since the beginning of the last calendar month. The ***Progress Report*** tracks movement on [121 indicators](https://corpus.data-landscapers.io/methodology/lookups/#indicators) over the past 12 months. The ***Non-state Finance Report*** lists all known financial commitments made since 2015. A fifth report on state budgeting and expenditure is outstanding.
