@@ -30,19 +30,23 @@
                  text-transform:uppercase;letter-spacing:.07em;
                  color:var(--ink-faint);margin-bottom:.35rem}
 .alert-pick__cap{text-transform:none;letter-spacing:0;margin-left:.4rem}
-.alert-pick select{width:100%;font-family:var(--serif);font-size:.9rem;
+.alert-pick select{width:100%;font-family:var(--serif);font-size:.78rem;
                    color:var(--ink);background:#fff;border:1px solid var(--rule);
                    border-radius:2px;padding:.3rem}
 .alert-pick select:focus{outline:none;border-color:var(--accent)}
+/* The menus are the catalogue's facet lists in another control, so they take the
+   facet sizes from `catalogue.css`: 0.78rem an option, 0.67rem a group heading. They
+   were 0.9rem, which on this site's 18px root is 16px and read as oversized beside
+   everything else on the page (Bill, 2026-09-16). */
 /* A selected option in a native multi-select is painted by the platform and is
    the one place the house palette cannot reach; `accent-color` is the hook that
    does reach it in every current browser, and where it does not the platform
    blue is a legible fallback rather than a broken one. */
 .alert-pick select{accent-color:var(--accent)}
-.alert-pick optgroup{font-family:var(--mono);font-size:.7rem;
+.alert-pick optgroup{font-family:var(--mono);font-size:.67rem;
                      text-transform:uppercase;letter-spacing:.06em;
                      color:var(--ink-faint)}
-.alert-pick option{font-family:var(--serif);font-size:.9rem;color:var(--ink);
+.alert-pick option{font-family:var(--serif);font-size:.78rem;color:var(--ink);
                    padding:.1rem .2rem}
 
 .alert-field{margin:1.25rem 0}
