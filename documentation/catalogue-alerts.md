@@ -74,11 +74,13 @@ Menu names are Buttondown's as documented on 2026-09-16; if a screen has moved, 
     - **No such feed exists**, because the main-site alert has been composed and sent by hand. Nothing to change here. What has to stop instead is the hand-send itself, and that is E4.
 12. Open **API → Keys**.
 13. Create a key labelled **corpus-alerts-worker**.
-14. Give it **write** for `subscriber_access` and for whatever the key screen calls email sending (`emails_access`), **read** for tags if tags are a separate scope, and **none** for everything else. `automations_access` is not needed — nothing in this design uses an automation.
+14. Grant **subscribers — read and write** and **emails — read and write**, and nothing else. **Done 2026-09-16, and those are the screen's own labels** (Bill): the scopes are named for the objects, not the `*_access` names the API schema suggested, and read/write is granted per object. *Automations* is not needed — nothing in this design uses one.
 
-    **These scope names are the one thing in Part A not verified against Buttondown's schema.** `openapi.json` describes endpoints, not the key screen's labels, so the names above are inferred from the endpoints the Worker calls: `/v1/subscribers` (read and write), `/v1/tags` (read, and write on first use of a new alert) and `/v1/emails` (write). **If the labels on screen do not match, paste them into `logs/messages-for-bill.md` or hand them to the next CC session and this step gets pinned to what is actually there** — leaving it inferred is how it stays wrong for the next person. Meanwhile grant the narrowest set that covers those three endpoints.
+    **There is no tags scope, and that is the thing to watch.** The Worker calls `GET` and `POST /v1/tags` to create an alert's tag with its public description and to read back its id. No scope on the screen covers tags by name, so either `subscribers` carries them or those calls will **403**. If they do, the fallback is already in Buttondown's own contract: `SubscriberInput.tags` states that *"tags that don't already exist will be created"*, so the subscribe call alone is enough to attach a tag — what is lost is the description and the id, not the tag.
 
-    **A wrong guess here surfaces late and reads as a different bug.** A key missing the sending scope fails at the *first cron*, a week after everything else tested clean, as a 403 the Worker turns into a silent no-send. If a call fails, the Worker's log names the endpoint; widen the one scope it names and nothing else.
+    **It surfaces at the first sign-up, not at the first cron**, which is the good version of this failure: D step 5 submits the form with Bill's own address and a 403 there names the endpoint in the Worker's log. Widen the one scope it names, and nothing else.
+
+    **It also touches Part 4's open question.** If `/v1/tags` cannot be read, the Worker has no tag ids at all, and the email audience filter must take tag **names** — which is the answer Part 4 already thinks more likely. The two resolve together, and both resolve in D.
 15. Copy the key into your password manager. It is used in C6.
 
 ### B. Build (CC session)
@@ -379,4 +381,6 @@ One question is left, and it is a single line of code either way:
 
 - **Does an email filter on `subscriber.tags` take the tag's name or its id?** The schema types `value` as a plain string and gives no example. `Subscriber.tags` is a list of names, which makes the name the likely answer, but a 30-second check in D settles it: build one draft, look at the audience count Buttondown reports, and if it is zero, switch. The Worker stores both in `def:<id>`, so the switch is one constant.
 
-And one for Bill's screen, not a spike: **confirm the API key can send.** The key screen's scope for emails is what A14 names; if `POST /v1/emails` returns 403 with `about_to_send`, that scope is the reason.
+**A14 may have answered it already.** The API key screen grants scopes per object and has no tags scope (Bill, 2026-09-16), so if `/v1/tags` returns 403 the Worker never holds a tag id and the filter must take names. Both resolve in D, and D's first sign-up is what decides them.
+
+The key's scopes are no longer open: **subscribers read and write, emails read and write**, which is what A14 records.
