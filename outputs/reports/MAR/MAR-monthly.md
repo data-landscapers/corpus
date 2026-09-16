@@ -1,11 +1,11 @@
 ---
 title: Morocco — monthly update, August – September 2026
-compiled: 2026-09-14
-period: 2026-08-01 to 2026-09-14
+compiled: 2026-09-16
+period: 2026-08-01 to 2026-09-16
 place: MAR
-ledger_rows: 45
+ledger_rows: 46
 not_held: 14
-record: ea79571743d8
+record: 551daad388f8
 ---
 
 # Morocco: monthly update, August – September 2026
@@ -55,6 +55,11 @@ The spyware allegations were argued rather than adjudicated. Two Moroccan commen
 
 ## Finance
 
+### MoUs and other agreements
+
+<!-- narrative: finance--finance-mou -->
+The digital transition ministry and a critical digital-infrastructure supplier [signed a memorandum in Rabat on developing digital infrastructure, cloud computing and artificial intelligence](https://panorapost.ma/post.php?id=56584). No value, deliverable or date is published, so what is held is an intention.
+<!-- /narrative -->
 ### New investments
 
 <!-- narrative: finance--finance-new -->

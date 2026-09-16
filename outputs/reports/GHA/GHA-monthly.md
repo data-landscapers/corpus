@@ -1,11 +1,11 @@
 ---
 title: Ghana — monthly update, August – September 2026
-compiled: 2026-09-14
-period: 2026-08-01 to 2026-09-14
+compiled: 2026-09-16
+period: 2026-08-01 to 2026-09-16
 place: GHA
-ledger_rows: 125
+ledger_rows: 128
 not_held: 9
-record: 9410bd0aa37a
+record: 662da1e07a5e
 ---
 
 # Ghana: monthly update, August – September 2026
@@ -96,6 +96,11 @@ The backbone under it is losing ground faster than the record showed. Industry n
 The state's own operator got its board back. On 3 September a seven-member board was sworn in for the company behind the AT Ghana brand, [releasing policy directives that had gone unimplemented for almost two months for want of one: spectrum in three bands from the regulator, and core-network access from the universal-access fund, both held back pending audited accounts](https://www.myjoyonline.com/sam-george-swears-in-at-ghanas-ppl-net-board-as-directors-vow-we-will-not-let-ghana-down/). Neither the bands nor the terms of the access are published.
 
 The first 5G spectrum is assigned. The regulator [awarded both 700 MHz lots on 11 September to the dominant operator, the sole qualified applicant, for US$100.9m, US$100,000 above the floor its 40% premium set](https://nca.org.gh/2026/09/11/update-on-the-5g-spectrum-licensing-process/); [one press account prints US$109.9m](https://www.graphic.com.gh/news/general-news/nca-assigns-5g-spectrum-to-mtn-ghanas-scancom-plc-for-us-109-9-million.html), against the regulator's own release.
+<!-- /narrative -->
+### Data Storage
+
+<!-- narrative: ict-infrastructure--infra-store -->
+The storage estate gained a number rather than a building. The communications minister [put an artificial-intelligence computing centre at US$250m, beside US$200m for digitalisation](https://www.citinewsroom.com/2026/09/govt-rolls-out-measures-to-address-ghanas-ai-digital-infrastructure-gaps-sam-george/), as the government's answer to capacity gaps a UNESCO readiness assessment identified. Nothing is procured, sited or dated, and no capacity figure accompanies either sum.
 <!-- /narrative -->
 ### Energy
 
