@@ -10,9 +10,17 @@ opened: 2026-09-15
 
 **The one-line brief for a fresh session.** *The authored status baselines carry claims their linked sources do not make; six units were repaired on 2026-09-15; the other 48 are re-read here, one agent per unit, against the held source bodies, and each repair is applied, checked and committed by the parent.*
 
-## State at pause — 2026-09-15
+## Closed — 2026-09-16
 
-**Paused at 33 of 54 when the session's usage ran out; resume with `python scripts/cite-reread.py status` and the loop below.** Every `done` unit is committed and passes A, B, E, G and FM. The 21 `owed` units are untouched; eight were in flight and their partial patches were discarded. `logs/.hold-cycle` was lifted so cycles are not blocked while the job waits — set it again on resuming. **The repaired baselines are committed but not yet rendered**: the next cycle's RENDER publishes them, or a plain `RENDER.md` run. Units done before the brief gained the rule that a held primary beats an AfDB dataset row (KEN onward) judged dataset claims against the row alone — a residual worth a targeted pass once the 21 are through.
+**All 54 units are `done`, committed one apiece and rendered.** 16,990 links read, 15,562 against a held body or a dataset row; 11,867 supported as written and **3,774 claims repaired** — 2,975 coarsened to what the source says, 479 re-linked to a held source that carries them, 320 dropped. 1,212 links are *gateway* and 137 *not held*: counted, not checked, and named below. Every unit passes A, B, E, G and FM, and the estate-wide register and band lines are unchanged from before the job.
+
+**Three residuals, each already where it belongs and none owed to this job:**
+
+- **The 11 uncatalogued Ibrahim Index profiles** (MLI MRT MUS NER SDN SLE STP SYC TCD TGO TUN) are the bulk of the *gateway* and *not held* counts: `lookups/iiag-profiles.csv` holds the URL, so check A passes, but no body exists to read a score against. All 11 are **already queued in the share's `africa-acquire.csv`** and will be held after the next acquisition batch; the other 43 profiles are catalogued and were checked.
+- **The GovTech Maturity Index** is the other half of *gateway*: the held body is the global report, which prints no country values. Nothing acquires it — the country values live in the GTMI data file, not the report.
+- **46 cited links name a country other than the unit** in their catalogue `places`, across 31 units — most are global reports catalogued to one place, but the class includes genuine cross-wiring (a Burundi-only UN chapter cited for Madagascar, a Comoros Eximbank loan cited for Cameroon, a Guinea MIGA guarantee cited for Guinea-Bissau). The units re-read after the scan settled their own; the rest are a half-day pass, not a re-run of this job. Reproduce with a `places`-vs-unit scan over the baselines' cited URLs.
+
+Units re-read before KEN judged AfDB dataset claims against the row alone, without the later rule that a held primary beats the row; the rule repaired contradictions wherever a later agent met one, and no unit was re-run for it.
 
 ## Why
 
