@@ -38,7 +38,7 @@ NER,done,2026-09-16,264,149,25,"supported 209, coarsened 19, relinked 4, dropped
 NGA,done,2026-09-16,422,408,39,"supported 369, coarsened 22, relinked 9, dropped 8, gateway 14, not held 0"
 RWA,done,2026-09-16,381,326,42,"supported 298, coarsened 31, relinked 6, dropped 5, gateway 41, not held 0"
 SDN,done,2026-09-16,259,233,22,"supported 211, coarsened 21, relinked 0, dropped 1, gateway 0, not held 26"
-SEN,owed,,,,,
+SEN,done,2026-09-16,406,378,36,"supported 342, coarsened 30, relinked 6, dropped 0, gateway 28, not held 0"
 SLE,done,2026-09-16,331,305,30,"supported 275, coarsened 27, relinked 3, dropped 0, gateway 26, not held 0"
 SOM,owed,,,,,
 SSD,owed,,,,,
