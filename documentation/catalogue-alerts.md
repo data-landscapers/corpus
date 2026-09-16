@@ -47,7 +47,23 @@ Menu names are Buttondown's as documented on 2026-09-16; if a screen has moved, 
     **The send time is fixed in UTC on purpose, and will not track London.** Cloudflare cron triggers are UTC-only, so `0 7 * * 1` means 07:00 UTC all year: 08:00 London in summer, 07:00 London in winter. Pinning it to London instead would mean editing the cron at both daylight-saving boundaries for ever, and it would be the wrong target anyway — **this readership is African, and African timezones do not observe daylight saving**, so a UTC-fixed send is the one that never moves for the people receiving it. London is the timezone that drifts here, not UTC.
 5. Set the description to: *Weekly email alerts: new writing on data-landscapers.io and new documents in the Corpus catalogue.*
 6. **Nothing to do: double opt-in cannot be turned off, so there is no toggle to find** (Buttondown's docs, read 2026-09-16; Bill looked for one and there is none). Buttondown requires it of every newsletter and states that it cannot be disabled globally. It can be waived only two ways, and knowing both is the point of this step: **per subscriber, by sending `type: "regular"` on the API call**, or newsletter-wide by asking Buttondown's support to set a hidden `should_require_double_optin` flag. Neither is wanted here. Open **Settings → Subscribing** only to find the **Confirmation** section, which is A7's screen.
-7. Open **Settings → Subscribing → Confirmation** (`https://buttondown.com/settings/subscribing/confirmation`) and paste the subject and body from Part 2, *Confirmation email*.
+7. Open **Settings → Subscribing → Confirmation** (`https://buttondown.com/settings/subscribing/confirmation`) and paste in the two fields below.
+
+    Subject:
+
+    ```
+    Confirm your Data Landscapers alert
+    ```
+
+    Body:
+
+    ```
+    You asked for weekly email alerts from Data Landscapers: new writing on data-landscapers.io, new documents in the Corpus catalogue, or both.
+
+    [Confirm your alerts]({{ confirmation_url }})
+
+    If this wasn't you, ignore this email and nothing will be sent.
+    ```
 
     **There is no default template to find, and an earlier version of this step asked for one.** The field is a *custom override* — `custom_subscription_confirmation_email_text`, schema default `""` — so the box is empty until something is typed into it, and Buttondown's built-in confirmation email is not exposed as editable text. Nothing is being replaced; something is being supplied for the first time.
 
@@ -208,7 +224,7 @@ Menu names are Buttondown's as documented on 2026-09-16; if a screen has moved, 
 
 ## Part 2 — Reader-facing text
 
-Blunt, per the site's copy rules. The page blocks go into `content/alerts.md` under these headings.
+Blunt, per the site's copy rules. **Everything here is site copy: the page blocks go into `content/alerts.md` under these headings, and the digest body is built by the Worker.** Text that is typed into Buttondown's own settings screens sits inline at the step that types it — A5's description, A7's confirmation email, A9's tag description — because a step Bill performs once should not send him to another section to find its own words.
 
 ### `## title`
 
@@ -287,18 +303,6 @@ Pick a country, a topic or the main-site box, and check the email address.
 ### `## e-later`
 
 Something went wrong on our side. Please try again later.
-
-### Confirmation email (Buttondown, A7)
-
-Subject: **Confirm your Data Landscapers alert**
-
-> You asked for weekly email alerts from Data Landscapers: new writing on data-landscapers.io, new documents in the Corpus catalogue, or both.
->
-> [Confirm your alerts]({{ confirmation_url }})
->
-> If this wasn't you, ignore this email and nothing will be sent.
-
-**Keep the link as a Markdown link.** Buttondown requires `{{ confirmation_url }}` to appear as an HTML or Markdown link, not as a bare variable, so the wording around it can change but the brackets cannot go. A7 has the screen and the reason.
 
 ### The digest body (built by the Worker, B5 step 5)
 
