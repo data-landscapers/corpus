@@ -342,7 +342,7 @@ function buildEmail(sections, o) {
   return {
     subject: `Data Landscapers alerts — week of ${longDay(o.monday)}`,
     body: o.body,
-    status: o.sendMode === "about_to_send" ? "about_to_send" : "draft",
+    status: String(o.sendMode || "").trim() === "about_to_send" ? "about_to_send" : "draft",
     archival_mode: "disabled",
     filters: {
       predicate: "or",
@@ -537,8 +537,20 @@ function seeOther(location) {
   return new Response(null, { status: 303, headers: { location } });
 }
 
-function site(env) { return env.SITE || "https://corpus.data-landscapers.io"; }
-function mainSite(env) { return env.MAIN_SITE || "https://data-landscapers.io"; }
+/**
+ * A URL variable as typed into the dashboard, trimmed of spaces and a trailing slash.
+ *
+ * The dashboard stores exactly what is pasted, and on 2026-09-16 `SITE` came through with a
+ * leading space that survived being re-entered — so every link this Worker writes began
+ * ` https://`. Trimming here means a stray space in a settings field is not a defect in
+ * every email.
+ */
+function urlVar(value, fallback) {
+  return String(value || fallback).trim().replace(/\/+$/, "");
+}
+
+function site(env) { return urlVar(env.SITE, "https://corpus.data-landscapers.io"); }
+function mainSite(env) { return urlVar(env.MAIN_SITE, "https://data-landscapers.io"); }
 
 function bd(env, path, init) {
   const opts = init || {};
