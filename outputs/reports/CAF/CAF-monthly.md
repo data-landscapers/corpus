@@ -1,11 +1,11 @@
 ---
 title: Central African Republic — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-16
+period: 2026-08-01 to 2026-09-16
 place: CAF
-ledger_rows: 16
+ledger_rows: 17
 not_held: 5
-record: e98f3aef61d8
+record: c01e60e08e43
 ---
 
 # Central African Republic: monthly update, August – September 2026
@@ -40,6 +40,14 @@ The month's sharpest item is an allegation about surveillance. A critical outlet
 Enforcement of the satellite-access rule moved from communiqué to the street. On 12 August the regulator [began a control operation across Bangui — Damala, Benz-Vi and Miskine, and the Don Bosco and Marabéna roundabouts — to identify internet-access points absent from its own registers](https://www.radiondekeluka.org/104273-telecom-le-ministere-des-telecommunications-et-larcep-lancent-la-chasse-aux-fournisseurs-illegaux-dinternet), on the digital economy minister's instruction. The ministry's estimate is [about 3,000 Starlink users in the country against 200 registered with the regulator](https://www.radiondekeluka.org/104273-telecom-le-ministere-des-telecommunications-et-larcep-lancent-la-chasse-aux-fournisseurs-illegaux-dinternet), and the operation is to extend progressively to provincial cities.
 
 Two of the operators visited said they had not been told registration was required and undertook to regularise. No register total is published, so the ratio stands on the ministry's own account.
+<!-- /narrative -->
+
+## Finance
+
+### New investments
+
+<!-- narrative: finance--finance-new -->
+The regional programme acquired a date rather than money. The country's component of the Central Africa digital integration programme [is to launch in April 2027, after a week of work in Bangui by a financier mission covering connectivity, public services, data and cybersecurity](https://www.agenceecofin.com/actualites-numerique/1509-141566-centrafrique-connectivite-services-publics-donnees-les-chantiers-du-cardip-de-la-banque-mondiale). No national allocation or workplan is published.
 <!-- /narrative -->
 
 ## ICT Infrastructure

@@ -1,11 +1,11 @@
 ---
 title: Comoros — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-16
+period: 2026-08-01 to 2026-09-16
 place: COM
-ledger_rows: 26
+ledger_rows: 27
 not_held: 24
-record: 3f55e49fd8c6
+record: 359d4490ccb1
 ---
 
 # Comoros: monthly update, August – September 2026

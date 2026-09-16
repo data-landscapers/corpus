@@ -1,11 +1,11 @@
 ---
 title: Zambia — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-16
+period: 2026-08-01 to 2026-09-16
 place: ZMB
-ledger_rows: 52
+ledger_rows: 54
 not_held: 46
-record: 0eb6bead0cd1
+record: 5b800e7877eb
 ---
 
 # Zambia: monthly update, August – September 2026
@@ -30,6 +30,11 @@ Three standing positions entered the record this month rather than moving in it.
 The national artificial-intelligence strategy has reached the end of the period it was written for. The technology ministry's permanent secretary [says it is nearing the end of its cycle and is due for review](https://api.oecdai.org/storage/policy-initiatives/Apr2026/117ojpi25umobje3ol-Zambia-Ai-Strategy-Book-option-2.pdf). A strategy due for review before its successor exists is the position the repository can state; no review terms of reference, timetable or drafting body is published.
 
 The second term opened on a new blueprint. The state ICT institute [endorsed the Grow Zambia Agenda 2026-2031 for its eight digital-infrastructure targets and said it is building a real-time Cabinet dashboard to monitor it](https://cajnewsafrica.com/2026/09/10/zambia-places-ict-at-centre-of-new-economic-blueprint/); the targets themselves are not published.
+<!-- /narrative -->
+### Legislation and regulation
+
+<!-- narrative: governance--gov-legislate -->
+The regulator removed an operator from the market. It [revoked a network and service licence with effect from 14 September, citing persistent failures to meet regulatory, operational and financial obligations](https://www.zambiamonitor.com/zicta-kicks-out-zedmobile-from-zambias-telecom-market-over-regulatory-non-compliance/), after assessing the operator's representations.
 <!-- /narrative -->
 ### Data protection
 

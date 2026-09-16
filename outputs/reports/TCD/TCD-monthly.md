@@ -1,11 +1,11 @@
 ---
 title: Chad — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-16
+period: 2026-08-01 to 2026-09-16
 place: TCD
-ledger_rows: 45
+ledger_rows: 46
 not_held: 23
-record: e4f7f398410b
+record: 82459bfa9c23
 ---
 
 # Chad: monthly update, August – September 2026
@@ -125,6 +125,11 @@ The freight platform’s roll-out reached two more places. Training ran at Ngaou
 
 ## Digitalisation
 
+### Digitalisation of sub-national government
+
+<!-- narrative: digitalisation--digital-localgov -->
+A second town began digitising its own services. The Abeche town hall, the provincial telecommunications delegation and the ICT development agency [met to strengthen a partnership digitising municipal services and training staff in digital tools](https://www.alwihdainfo.com/tchad-la-commune-dabeche-et-les-telecommunications-unissent-leurs-forces-pour-accelerer-la-digitalisation/). No service, budget or delivery date is published.
+<!-- /narrative -->
 ### Rural digital data capture
 
 <!-- narrative: digitalisation--digital-rural -->

@@ -1,11 +1,11 @@
 ---
 title: Botswana — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-16
+period: 2026-08-01 to 2026-09-16
 place: BWA
-ledger_rows: 34
+ledger_rows: 35
 not_held: 8
-record: 7b36663ed508
+record: 85bc144c0c92
 ---
 
 # Botswana: monthly update, August – September 2026
@@ -22,6 +22,11 @@ Regional agreements were the other half: [an ICT memorandum with Namibia signed 
 
 ## Governance
 
+### Strategies, plans and policies
+
+<!-- narrative: governance--gov-policy -->
+The data policy is being turned into something implementable. A five-day [data governance capacity-building and stakeholder engagement was held from 7 to 11 September to translate the national data policy's principles and direction into a national data strategy](https://dig.watch/updates/botswana-national-data-strategy-engagement), with continental and European support. No draft strategy or adoption date is published.
+<!-- /narrative -->
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->

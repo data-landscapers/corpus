@@ -289,7 +289,9 @@ dpi.exchange--national-data-exchange-system,Movement,There is no national data e
 
 Domestically the nearest step is Cabinet's April 2026 approval of a National Addressing System Bill creating a shared reference-data layer described as improving cross-agency access to data ([Bill](2026-04-03-seychelles-national-addressing-system-bill-cabinet)).
 
-What exists is a commitment and a reference register. No exchange layer, no registry of connected systems and no transaction volume is held.",SYC-dpi.registry-national-addressing|SYC-geopol.india-bilateral
+What exists is a commitment and a reference register. No exchange layer, no registry of connected systems and no transaction volume is held.
+
+2026-09-15 — marine data was given an owner: cabinet [approved a hydrographic office inside the maritime safety authority to coordinate hydrographic information across government](2026-09-15-syc-statehouse-hydrographic-office-data-coordination). No start date or data-sharing arrangement is published.",SYC-dpi.registry-national-addressing|SYC-geopol.india-bilateral|SYC-dpi.exchange-hydrographic-office
 dpi.exchange--use-of-digital-id-in-other-systems,Movement,The digital identity now gates [licensing services on monServis](2023-04-19-sla-online-services-seyid-monservis) and the [social protection platform](2025-10-21-asp-connect-digital-system-launch) launched in October 2025.,"The licensing authority's business and vehicle licence services moved to monServis and require SeyID authentication, the former gateway being obsolete ([licensing](2023-04-19-sla-online-services-seyid-monservis)).
 
 The social protection agency's platform, launched internally on 15 October 2025, is reached through the SeyID portal that hosts government-entity systems ([platform](2025-10-21-asp-connect-digital-system-launch)), and in March 2026 Cabinet extended its vendor support and directed the ICT department to lead the transition to government ownership ([Cabinet](2026-03-05-asp-connect-cabinet-stabilisation)).

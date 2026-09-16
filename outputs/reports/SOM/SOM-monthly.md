@@ -1,11 +1,11 @@
 ---
 title: Somalia — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-16
+period: 2026-08-01 to 2026-09-16
 place: SOM
-ledger_rows: 28
+ledger_rows: 29
 not_held: 1
-record: 2edfea8b8948
+record: bd318e85183d
 ---
 
 # Somalia: monthly update, August – September 2026

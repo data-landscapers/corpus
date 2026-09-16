@@ -1,11 +1,11 @@
 ---
 title: Equatorial Guinea — monthly update, August – September 2026
-compiled: 2026-09-15
-period: 2026-08-01 to 2026-09-15
+compiled: 2026-09-16
+period: 2026-08-01 to 2026-09-16
 place: GNQ
-ledger_rows: 29
+ledger_rows: 30
 not_held: 6
-record: 8f0b13fe34e4
+record: 8bafa470d123
 ---
 
 # Equatorial Guinea: monthly update, August – September 2026
