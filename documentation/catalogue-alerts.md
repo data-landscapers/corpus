@@ -36,8 +36,10 @@ Menu names are Buttondown's as documented on 2026-09-16; if a screen has moved, 
 7. Replace the confirmation email text with the text in Part 2, *Confirmation email*.
 8. Open **Settings → Portal** and confirm the subscriber portal is on. It is what a reader uses to unsubscribe; alerts are edited on the site's manage page, not here.
 9. Open **Tags** and create the tag **`alert site`**: colour `#1a5f7a`, public description *New writing on data-landscapers.io*, subscriber-editable **off**.
-10. Open **Subscribers**, select every active subscriber, and add the tag `alert site`. Check that the tag's count equals the active subscriber count. Existing subscribers signed up for main-site alerts, so this keeps what they already get.
-11. Open **Automations → RSS**. If a feed for `https://data-landscapers.io/feed.xml` exists, set its behaviour to **Draft** now. It is deleted in E, after the digest has sent once — delete it earlier and readers lose a week, leave it on Emails and they get the main site twice.
+10. Open **Subscribers**, select every active subscriber, and add the tag `alert site`. Check that the tag's count equals the active subscriber count. There are a few of them (Bill, 2026-09-16), so this is a one-screen job. **It keeps the content they signed up for and changes when it arrives** — see *Existing subscribers get a cadence change, not a no-change* in Part 3.
+11. Open **Automations → RSS**. Two cases, and which one you are in decides nothing later — only what there is to switch off:
+    - **A feed for `https://data-landscapers.io/feed.xml` exists**, whatever its behaviour. Set it to **Draft** now and note its settings. It is deleted in E, after the digest has sent once — delete it earlier and readers lose a week, leave it on Emails and they get the main site twice.
+    - **No such feed exists**, because the main-site alert has been composed and sent by hand. Nothing to change here. What has to stop instead is the hand-send itself, and that is E5.
 12. Open **API → Keys**.
 13. Create a key labelled **corpus-alerts-worker**.
 14. Give it **write** for `subscriber_access` and for whatever the key screen calls email sending (`emails_access`), **read** for tags if tags are a separate scope, and **none** for everything else. `automations_access` is not needed. If a call fails with 403, the Worker's log names the endpoint; widen the one scope it names and nothing else.
@@ -61,6 +63,8 @@ Menu names are Buttondown's as documented on 2026-09-16; if a screen has moved, 
    - **`site/alerts/manage/index.html`**: the manage page, same chrome, text from the same content file. It reads `#s=<subscriber id>` from the fragment, POSTs it to `manage/list`, and shows each alert as an editable row using the same pickers, with a delete button per row, an **Add alert** button up to ten, and the main-site checkbox. Saving posts to `manage/save`. **The subscriber id never leaves the fragment for a URL**: the page reads it from `location.hash` and sends it in a POST body, so it reaches no server log and no `Referer`.
 4. **Catalogue button.** In `catalogue.py`, add a row to the downloads box under *This selection*: **Get alerts**, a `.btn btn--sm` link to `../alerts/`. The page's script rewrites its `href` on every redraw to carry the current `places` and `topics` as a fragment. It stays enabled with nothing selected and then opens the alerts page blank.
 5. **`workers/alerts/worker.js`** is a new Worker, separate from `download-log`. `workers/alerts/README.md` is a pointer to this file. Bindings: KV `ALERTS`; secrets `BUTTONDOWN_API_KEY` and `TURNSTILE_SECRET`; variables `SITE` = `https://corpus.data-landscapers.io`, `MAIN_SITE` = `https://data-landscapers.io`, `SEND_MODE` = `draft`. One cron trigger, `0 7 * * 1`.
+
+   **`SEND_MODE` has two settled values and either may be permanent.** On `draft` the Worker builds the digest every Monday and leaves it in **Emails → Drafts** for Bill to release; on `about_to_send` Buttondown sends it unattended. `draft` is how the first two Mondays go (E3), and it is also the end state if Bill wants to keep his hand on the send — it is the workflow he already has for the main site, applied to a body he no longer writes. Nothing downstream reads the difference: the audience filter, the sections, the window and `sent:<date>` are identical either way, so switching is one variable and no redeploy.
 
    **KV keys.** `def:<alert id>` → `{places, topics, label, tag_name, tag_id, created}`; `last_sent_through` → a date; `sent:<YYYY-MM-DD>` → an email id; `orphan:<tag name>` → a date first seen. **KV holds definitions only, never an address**; a definition is no more personal than a catalogue URL. `tag_id` is stored because the body's section test uses the tag **name** while the email's audience filter uses whatever Part 4 settles — keeping both means the Worker needs no second round trip either way.
 
@@ -161,10 +165,11 @@ Menu names are Buttondown's as documented on 2026-09-16; if a screen has moved, 
 
 1. Tell the CC session the tests passed.
 2. Clear `last_sent_through` and any `sent:<date>` keys left by the tests.
-3. Set `SEND_MODE` to `about_to_send` only after **two** Mondays sent as drafts and released by hand. A template mistake here reaches everyone at once, which is the one way this design is worse than a feed per alert.
-4. After the first real send, delete the old main-site RSS automation held at Draft in A11.
-5. The session updates `design.md` §6 to say alerts are built, and logs the run.
-6. Nothing is announced by email: the list sends alerts only. The link on the main site's newsletter page (B8) is the announcement.
+3. Release the first two Mondays as drafts, by hand. Only then consider `about_to_send`, and only if you want the send unattended — `draft` is a settled end state, not a probation. A template mistake here reaches everyone at once, which is the one way this design is worse than a feed per alert.
+4. Add one line at the top of the **first** digest only, above the sections: *From now on this arrives every Monday, and covers new writing here as well as new documents in the Corpus catalogue.* Existing subscribers were getting an email per publication; this is the only notice they get of the change, and it belongs in the thing they open rather than in a mail of its own.
+5. **Stop the old main-site alert, once the digest has sent once.** Delete the RSS automation held at Draft in A11 if there was one; if the main-site alert was sent by hand, stop sending it. **Both running is the failure this design exists to prevent** — a reader holding `alert site` would get the same post in a hand-sent mail and again in Monday's digest.
+6. The session updates `design.md` §6 to say alerts are built, and logs the run.
+7. Nothing else is announced by email: the list sends alerts only. The link on the main site's newsletter page (B8) is the announcement to everyone who is not already subscribed.
 
 ### Later, not in this version
 
@@ -308,6 +313,8 @@ One `{% if %}` block per non-empty alert, the main-site section first. The Worke
 
 **One email per reader, not one per alert (2026-09-16).** The rejected design gave every alert its own Buttondown RSS-to-email feed. It is recorded here because its three limits are what this design exists to remove: an alert could cover only **one** country and **one** topic, because every combination needed its own feed and 62 places by 38 topics is 2,456 of them; a reader with five alerts got **five** emails every Monday; and an alert could not be **edited**, only dropped in Buttondown's portal and set up again. Sections in one body cost one KV entry and one tag per combination instead, so several countries and topics per alert become free.
 
+**Existing subscribers get a cadence change, not a no-change (Bill, 2026-09-16).** There are already a few subscribers on the list, set up to be alerted whenever new content is published, and Bill sends that alert himself. After this build they get the same content on a fixed weekly rhythm, bundled with any catalogue alerts they add, from a body the Worker wrote. Three things follow. **The main site's news is now up to six days late** — the price of one email per reader, and the reason a per-publication send is worth keeping in mind if that ever stings. **The old alert has to stop** (E5): both running means the same post twice. And **the change is announced in the first digest and nowhere else** (E4), because a mail announcing a mail is the sort of thing this list does not send. Keeping the send in Bill's hands is a separate question from the cadence, and `SEND_MODE: draft` answers it without touching anything else.
+
 **Five countries, five topics, ten alerts.** The caps keep the email readable and the tag count bounded. Turnstile and the vocabulary check stop a bot inventing definitions in bulk; unused definitions are pruned.
 
 **Weekly, Monday 07:00 UTC.** Buttondown's pricing assumes at most one email a day to the whole list, and this design sends one. Measured on 2026-09-14, the busiest country (Nigeria) had 125 documents ingested in a week and the busiest topic 278, before the backfill rule. Per-item sending would be unreadable; so would an uncapped section, which is what the 25 is for.
@@ -320,7 +327,7 @@ One `{% if %}` block per non-empty alert, the main-site section first. The Worke
 
 **Tag-adds to an existing address are not reconfirmed.** Someone could add an alert to an address that already subscribes. The harm is one unwanted section in an email that carries a manage link. Guarding against it means a confirmation step per alert, which Buttondown does not offer without taking the subscriber out of their other alerts.
 
-**Drafts for the first two Mondays.** A template mistake reaches the whole list at once rather than one feed's subscribers. That is the real cost of one email per reader, and two hand-released drafts are what pays it.
+**Drafts for the first two Mondays, and `draft` is allowed to be permanent.** A template mistake reaches the whole list at once rather than one feed's subscribers. That is the real cost of one email per reader, and two hand-released drafts are what pays it. Bill already releases the main-site alert by hand, so `draft` is not a training mode for him — it is his current workflow over a body he no longer has to write, and `about_to_send` is an option he may simply never want.
 
 **The archive is off.** `archival_mode: "disabled"` on every send. One body holds every reader's sections, and a web render has no subscriber to test, so the archive would publish all of them at a permanent URL.
 
