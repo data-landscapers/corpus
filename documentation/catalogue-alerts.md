@@ -54,6 +54,8 @@ Menu names are Buttondown's as documented on 2026-09-16; if a screen has moved, 
 
     [Confirm your alerts]({{ confirmation_url }})
 
+    Once confirmed, see and change your alerts at any time: [Your alerts](https://corpus.data-landscapers.io/alerts/manage/#s={{ subscriber.id }})
+
     If this wasn't you, ignore this email and nothing will be sent.
     ```
 
@@ -68,6 +70,7 @@ Menu names are Buttondown's as documented on 2026-09-16; if a screen has moved, 
 8. Open **Settings → Features → Portal** and turn the portal on. It is a **feature**, not a settings page — in the API it is an entry in the newsletter's `enabled_features` list alongside `archives`, `comments` and the rest — which is why *Settings → Portal* was not there to find (Bill, 2026-09-16).
 
     **Keep it on as the unsubscribe path that does not depend on Corpus.** Alerts are added and edited on the site's own manage page, and the alert tags are `subscriber_editable: false` (A9), so the portal shows a reader nothing about their alerts and is not where they are managed. What it gives is a Buttondown-hosted page for seeing and ending a subscription, reachable if the Worker or the site is down — the one reader-facing control in this design that should not have Corpus in its path. Buttondown's per-email unsubscribe link works regardless; this is the second route, not the only one.
+    **Email design (cosmetics, Bill, 2026-09-16).** The newsletter's icon is `site/assets/logo.png` (512×512 PNG — an SVG favicon does not render in most mail clients), uploaded at **Settings → General → Branding → Icon**. The newsletter name in each email's masthead is the template's `table.newsletter-masthead h3.colophon`, 12px grey by default; **Settings → Email → Custom CSS** carries `.newsletter-masthead .colophon { font-size: 22px; font-weight: 700; color: #2a6b3a; }`, the site's `--green`.
 9. Open **Tags** and create the tag **`alert site`**: colour `#1a5f7a`, public description *New writing on data-landscapers.io*, subscriber-editable **off**.
 10. Open **Subscribers**, select every active subscriber, and add the tag `alert site`. Check that the tag's count equals the active subscriber count. There are a few of them (Bill, 2026-09-16), so this is a one-screen job. **It keeps the content they signed up for and changes when it arrives** — see *Existing subscribers get a cadence change, not a no-change* in Part 3.
 11. Open **RSS-to-Email**, which is its own menu item and **not** part of *Automations* (Bill, 2026-09-16). The two are separate things in the API as well — `/external_feeds` for RSS-to-email, `/automations` for trigger-and-action workflows — and **this design uses neither**, so *Automations* needs no visit at all. What you are looking for here is an existing feed, and there are two cases; which one you are in decides nothing later, only what there is to switch off:
@@ -214,7 +217,7 @@ suite. Nothing the site builds needs it and the suite skips cleanly without it.
 5. Tick the main-site box. Enter your own email address and submit.
 6. Expect the page's *check your inbox* message, then Buttondown's confirmation email. Click the confirm link.
 
-    **Where the confirm link lands is Buttondown's setting.** On 2026-09-16 it landed on the site's home page. Point Buttondown's post-confirmation redirect at `https://corpus.data-landscapers.io/alerts/?ok=confirmed`, which shows *Confirmed. Your alerts start with the next Monday email.* One confirmation email serves the catalogue and main-site sign-ups alike, and the alerts page covers both.
+    **Where the confirm link lands is Buttondown's setting.** On 2026-09-16 it landed on the site's home page. Point Buttondown's post-confirmation redirect (**Settings → Subscribing → Redirects → After confirming**) at `https://corpus.data-landscapers.io/alerts/manage/#s={{ subscriber.id }}&confirmed=1`, which opens the reader's own alerts under *Confirmed. These are your alerts.* (cosmetics, 2026-09-16). **Whether Buttondown fills in `{{ subscriber.id }}` in a redirect is undocumented.** If it does not, the braces arrive literally and the manage page says *Confirmed* and points at the link in the email instead — which is why the confirmation email carries the manage link as well. The older target, `/alerts/?ok=confirmed`, still works. One confirmation email serves the catalogue and main-site sign-ups alike, and the alerts page covers both.
 7. In Buttondown, open **Subscribers**. Expect your address with two tags: `alert site` and one `alert <id>`.
 8. Sign up a second and third test address: one with a single country and no main-site box, one with three alerts set up in three submissions.
 9. With `SEND_MODE` still `draft`, run the cron by hand — the dashboard's **Trigger** button, or `wrangler cron trigger --cron "0 7 * * MON"`.
