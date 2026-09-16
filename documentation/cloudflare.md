@@ -83,10 +83,13 @@ There is **no `DMARC` record at the root**, `_dmarc.data-landscapers.io`. The `.
 
 | Type  | Name                                          | Content                                | Proxy      | Purpose                    |
 | ----- | --------------------------------------------- | -------------------------------------- | ---------- | -------------------------- |
-| TXT   | `20260529084906pm._domainkey.newsletter`      | `k=rsa; p=MIGfMA0…IDAQAB`              | n/a        | DKIM public key            |
+| TXT   | `20260916144548pm._domainkey.newsletter`      | `k=rsa; p=MIGfMA0…`                    | n/a        | DKIM public key (current)  |
+| TXT   | `20260529084906pm._domainkey.newsletter`      | `k=rsa; p=MIGfMA0…IDAQAB`              | n/a        | DKIM, **superseded — safe to delete** |
 | CNAME | `pm-bounces.newsletter`                       | `pm.mtasv.net`                         | **DNS only** | Return-path / bounces    |
 | CNAME | `track.newsletter`                            | `webhook-consumer.buttondown.email`    | **DNS only** | Click and open tracking  |
 | TXT   | `_dmarc.newsletter`                           | `v=DMARC1; p=quarantine; rua=mailto:…@inbound.postmarkapp.com; aspf=r; pct=100` | n/a | DMARC, subdomain only |
+
+**The DKIM key was reissued on 2026-09-16, and the reason is the thing to know.** Buttondown's sending domain had been switched to the root, `data-landscapers.io`, which made it generate a fresh record set for the root and mark the whole domain unverified — the dashboard's *Finish setting up your sending domain* banner, found during alerts test D11. Switching it back to `newsletter.data-landscapers.io` reissued the DKIM key under a new selector; the other three rows were unchanged and verified at once. **Changing the sending domain in Buttondown, in either direction, reissues DKIM** — expect one new `TXT` row every time. **Never add Buttondown's rows at the root**: its `_dmarc` row is `p=quarantine`, the root has no DMARC today, and the root's SPF already fails M365, so Bill's own mail would start being quarantined.
 
 The DKIM key is truncated above because its only reader is a resolver; the full row is whatever the zone holds. **Both `CNAME`s were confirmed grey from outside on 2026-09-16** — a resolver returns `pm.mtasv.net` and `webhook-consumer.buttondown.email` rather than Cloudflare addresses, which is the check that a row is `DNS only` and not proxied.
 
