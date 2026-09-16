@@ -205,7 +205,9 @@
     var feedmain = document.getElementById('feedmain');
 
     var q = new URLSearchParams(location.search);
-    if (q.get('ok')) { said('ok', true); }
+    // `?ok=confirmed` is where Buttondown sends a reader after they click the link in
+    // its confirmation email; `?ok=1` is the Worker's own redirect after a sign-up.
+    if (q.get('ok') === 'confirmed') { said('confirmed', true); } else if (q.get('ok')) { said('ok', true); }
     if (q.get('e')) { said('e-' + q.get('e'), false); }
 
     var frag = fragment();
