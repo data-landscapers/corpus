@@ -73,11 +73,28 @@ reader ──► Cloudflare edge ──► Worker `download-log` ──┬─►
 | TXT  | `@`      | `MS=ms66509802`                                           | Microsoft 365 domain proof     |
 | TXT  | `@`      | `google-site-verification=WCxwyKIHqVh-SmHZZjmrkYBcRz8IrRncrw0TdE9Q1Ds` | Google domain proof |
 
-There is **no `DMARC` record** at `_dmarc.data-landscapers.io`. The `.com` mirrors the arrangement: same M365 MX, its own `TXT` rows.
+There is **no `DMARC` record at the root**, `_dmarc.data-landscapers.io`. The `.com` mirrors the arrangement: same M365 MX, its own `TXT` rows.
 
 **The `MX` row is not part of the alerts setup and must not be changed for it.** Buttondown detected it and said so itself (Bill, 2026-09-16): it requires no `MX` record of its own, because `MX` governs what **receives** mail and sending governs nothing about it. Bill's M365 mail keeps working untouched. The row is listed here as an account of the zone, not as a thing alerts installed.
 
-**Two things follow, and the first was nearly a defect.** `documentation/catalogue-alerts.md` A3 chose the root sending domain partly because this file reported no `TXT` at all and therefore no SPF record to collide with. **There is one, so Buttondown's SPF include must be merged into it and never added beside it** — two `v=spf1` rows is a PermError that fails authentication for every sender on the domain, M365 included, where one imperfect row merely fails Buttondown. And the existing row ends `-all`, a hard fail, listing only GoDaddy: **anything sending as `data-landscapers.io` that is not in that record is rejected outright**, so the merge decides whether alerts arrive at all, not merely whether they authenticate. (It does not list `spf.protection.outlook.com` either, so mail sent from M365 on this domain already hard-fails. That is Bill's mail arrangement, outside Corpus, and noted here only so the next reader does not mistake it for something alerts broke.)
+#### Alerts send from `newsletter.data-landscapers.io`, not the root
+
+**Four rows added 2026-09-16, all verified by Buttondown and confirmed resolving.** Buttondown sends through **Postmark**, which is what `pm.mtasv.net` and `mtasv` are.
+
+| Type  | Name                                          | Content                                | Proxy      | Purpose                    |
+| ----- | --------------------------------------------- | -------------------------------------- | ---------- | -------------------------- |
+| TXT   | `20260529084906pm._domainkey.newsletter`      | `k=rsa; p=MIGfMA0…IDAQAB`              | n/a        | DKIM public key            |
+| CNAME | `pm-bounces.newsletter`                       | `pm.mtasv.net`                         | **DNS only** | Return-path / bounces    |
+| CNAME | `track.newsletter`                            | `webhook-consumer.buttondown.email`    | **DNS only** | Click and open tracking  |
+| TXT   | `_dmarc.newsletter`                           | `v=DMARC1; p=quarantine; rua=mailto:…@inbound.postmarkapp.com; aspf=r; pct=100` | n/a | DMARC, subdomain only |
+
+The DKIM key is truncated above because its only reader is a resolver; the full row is whatever the zone holds. **Both `CNAME`s were confirmed grey from outside on 2026-09-16** — a resolver returns `pm.mtasv.net` and `webhook-consumer.buttondown.email` rather than Cloudflare addresses, which is the check that a row is `DNS only` and not proxied.
+
+**The sending domain is a subdomain, and `catalogue-alerts.md` A3 had chosen the root.** Buttondown's manual flow put the records on `newsletter.` instead, and it is the better answer for the reason A3 had already flagged as live: newsletter reputation now sits on its own name rather than on the domain carrying Bill's M365 correspondence. The cost is that the `From` address reads `newsletter.data-landscapers.io`.
+
+**The SPF question is closed, and the answer is that there was nothing to do.** No `v=spf1` row was requested. The return path is `pm-bounces.newsletter.data-landscapers.io`, a `CNAME` onto `pm.mtasv.net`, so SPF is evaluated against **Postmark's** record and the root's `v=spf1 include:secureserver.net -all` never enters into it. Nothing was merged and nothing should be: **adding Buttondown to the root's SPF row would be a change with no sender behind it.** The root row's own defect stands untouched — it lists GoDaddy and not `spf.protection.outlook.com`, so mail sent *from* M365 on this domain already hard-fails SPF. That is Bill's mail arrangement, outside Corpus, and noted only so the next reader does not mistake it for something alerts broke.
+
+**`p=quarantine` makes an authentication failure silent.** The DMARC row applies to `newsletter.` alone and leaves the root unpoliced, which is right. But if a `CNAME` is ever proxied by accident, or the DKIM row is edited, the consequence is not a bounce Bill sees — it is quarantine, and the aggregate reports go to Postmark's `rua` address rather than to him. **So a send that authenticates is something to verify rather than assume**, which is what `catalogue-alerts.md` D covers. Adding Bill's own address as a second `rua` target is the cheap way to get visibility if it is ever wanted.
 
 **The sending-domain decision stands.** Buttondown sends from a `data-landscapers.io` address; `documentation/catalogue-alerts.md` A3 holds the decision and the reasoning. **The root domain and Buttondown's manual records, not its managed DNS and not its Cloudflare integration** — managed DNS cannot be used on a root domain and would delegate a subdomain this file could no longer describe, and the integration wants a DNS-edit grant over the zone that serves both sites, the Workers routes and every edition URL. DKIM is unaffected by any of the above, and the SPF merge is one row. **What the correction does change is that reputation isolation is now a live argument rather than a moot one**: newsletter sending shares a domain with Bill's M365 correspondence, which is harmless at a handful of subscribers and is the reason to move to a sending subdomain if the list ever grows enough for a complaint rate to matter.
 
