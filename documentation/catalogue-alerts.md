@@ -47,7 +47,13 @@ Menu names are Buttondown's as documented on 2026-09-16; if a screen has moved, 
     **The send time is fixed in UTC on purpose, and will not track London.** Cloudflare cron triggers are UTC-only, so `0 7 * * 1` means 07:00 UTC all year: 08:00 London in summer, 07:00 London in winter. Pinning it to London instead would mean editing the cron at both daylight-saving boundaries for ever, and it would be the wrong target anyway — **this readership is African, and African timezones do not observe daylight saving**, so a UTC-fixed send is the one that never moves for the people receiving it. London is the timezone that drifts here, not UTC.
 5. Set the description to: *Weekly email alerts: new writing on data-landscapers.io and new documents in the Corpus catalogue.*
 6. **Nothing to do: double opt-in cannot be turned off, so there is no toggle to find** (Buttondown's docs, read 2026-09-16; Bill looked for one and there is none). Buttondown requires it of every newsletter and states that it cannot be disabled globally. It can be waived only two ways, and knowing both is the point of this step: **per subscriber, by sending `type: "regular"` on the API call**, or newsletter-wide by asking Buttondown's support to set a hidden `should_require_double_optin` flag. Neither is wanted here. Open **Settings → Subscribing** only to find the **Confirmation** section, which is A7's screen.
-7. Open **Settings → Subscribing → Confirmation**. **Copy the confirmation-link variable out of Buttondown's default template before you touch it**, then replace the text with Part 2, *Confirmation email*. Part 2 writes the link as `{{ confirmation_url }}`, which is what Buttondown documented on 2026-09-16 — **if the default in front of you uses a different name, that one is right and Part 2 is stale.** Paste the whole default into a scratch file first. A confirmation email whose link variable does not resolve renders as literal braces, sends happily, and leaves every new subscriber unable to confirm; nothing in Buttondown warns about it and the reader has no way to report it.
+7. Open **Settings → Subscribing → Confirmation** (`https://buttondown.com/settings/subscribing/confirmation`) and paste the subject and body from Part 2, *Confirmation email*.
+
+    **There is no default template to find, and an earlier version of this step asked for one.** The field is a *custom override* — `custom_subscription_confirmation_email_text`, schema default `""` — so the box is empty until something is typed into it, and Buttondown's built-in confirmation email is not exposed as editable text. Nothing is being replaced; something is being supplied for the first time.
+
+    **The variable is `{{ confirmation_url }}`, and the schema requires it be a link.** Buttondown's own field description: *"Must contain `{{ confirmation_url }}` as an HTML or Markdown link."* A bare `{{ confirmation_url }}` sitting on its own line is neither, which is why Part 2 writes it as a Markdown link and why that shape should be kept when editing the wording. A confirmation email whose link does not resolve renders as literal braces, sends happily, and leaves every new subscriber unable to confirm — nothing in Buttondown warns about it and the reader has no way to report it.
+
+    **Subscribers who do not confirm get a reminder**, from a second field on the same screen (`custom_subscription_confirmation_reminder_email_text`), also empty by default. Leave it empty: Buttondown's own reminder is fine and a second piece of copy is a second thing to keep true.
 8. Open **Settings → Portal** and confirm the subscriber portal is on. It is what a reader uses to unsubscribe; alerts are edited on the site's manage page, not here.
 9. Open **Tags** and create the tag **`alert site`**: colour `#1a5f7a`, public description *New writing on data-landscapers.io*, subscriber-editable **off**.
 10. Open **Subscribers**, select every active subscriber, and add the tag `alert site`. Check that the tag's count equals the active subscriber count. There are a few of them (Bill, 2026-09-16), so this is a one-screen job. **It keeps the content they signed up for and changes when it arrives** — see *Existing subscribers get a cadence change, not a no-change* in Part 3.
@@ -288,11 +294,11 @@ Subject: **Confirm your Data Landscapers alert**
 
 > You asked for weekly email alerts from Data Landscapers: new writing on data-landscapers.io, new documents in the Corpus catalogue, or both.
 >
-> Confirm here: {{ confirmation_url }}
+> [Confirm your alerts]({{ confirmation_url }})
 >
 > If this wasn't you, ignore this email and nothing will be sent.
 
-The link variable is the one thing here that may not be `{{ confirmation_url }}`; **A7 owns that check** and says what to do if the default in front of you differs.
+**Keep the link as a Markdown link.** Buttondown requires `{{ confirmation_url }}` to appear as an HTML or Markdown link, not as a bare variable, so the wording around it can change but the brackets cannot go. A7 has the screen and the reason.
 
 ### The digest body (built by the Worker, B5 step 5)
 
