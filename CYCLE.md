@@ -1,7 +1,7 @@
 ---
 type: runbook
 title: The cycle — BUILD then RENDER in one run — instruction for Claude Code
-last_reviewed: 2026-08-28
+last_reviewed: 2026-09-17
 ---
 
 # The cycle — BUILD then RENDER in one run — runbook for Claude Code
@@ -10,7 +10,7 @@ last_reviewed: 2026-08-28
 
 ## This file is a driver, not a third runbook
 
-**`BUILD.md` and `RENDER.md` remain the procedures, unedited and unabridged.** This file names the order, the one seam between them and what changes there; everything else it delegates. A combined file that restated either half would drift from its original silently, leaving an unattended run two instructions on one step and no way to rule between them. **Nothing bridges the halves**: no state passed but the committed tree, and no work invented at the seam. The cycle drives three jobs rather than two — the notes drain below is an existing job whose *placement* this file fixes, and whose own rules stay where they already live. An instruction here that is not about *ordering* is an instruction in the wrong file.
+**`BUILD.md` and `RENDER.md` remain the procedures, unedited and unabridged.** This file names the order, the one seam between them and what changes there; everything else it delegates. A combined file that restated either half would drift from its original silently, leaving an unattended run two instructions on one step and no way to rule between them. **Nothing bridges the halves**: no state passed but the committed tree, and no work at the seam but the unit review, which has its own runbook. The cycle drives four jobs rather than two — the notes drain and the unit review below are jobs whose *placement* this file fixes, and whose own rules stay where they already live. An instruction here that is not about *ordering* is an instruction in the wrong file.
 
 ## Why running them together is better than running them apart
 
@@ -42,6 +42,10 @@ last_reviewed: 2026-08-28
 
 **What this does not do is freeze the tree at step 1.** A record arriving between the drain and stage 2 is built like any other; the cycle is consistent from stage 2 onward, which is what the render half needs. The site is then a view of the catalogue as built, and the sources that arrived after it are the next cycle's.
 
+## The unit review runs at the seam, on unattended cycles only
+
+**One country or region a cycle has all its reports reviewed whole** *(Bill, 2026-09-17)*: `UNIT-REVIEW.md` is the procedure and `scripts/unit-review.py` picks the unit and says whether one is owed — only on a cycle started by `/poll` or between 21:00 and 05:00, so a daytime hand-run cycle skips it. **It runs after the build and before the render** so the render publishes what it repaired; it skips itself if the build half did not finish, and a review that fails restores the unit to `HEAD` and never holds the render.
+
 ## The seam is a job boundary, not a joint
 
 **BUILD's ending sequence leaves the tree in exactly the state `RENDER.md` Step 0 tests for** — everything committed, a non-error build line, no sentinel. The cycle does not weld the halves; it runs the second at the point where the first has finished saying so.
@@ -55,14 +59,15 @@ last_reviewed: 2026-08-28
 1. **Drain `notes-for-corpus.md`**, as above. Nothing open, nothing to do — go straight to 2.
 2. **Read the sentinel.** If `logs/.build-in-progress` is present, an earlier build died unaccounted. **In a cycle this is a note, not a stop**: the run about to start is the repair — stage 4 resumes on a set difference. Say in the build line that it resumed.
 3. **Run `BUILD.md`, whole, stage 0 to the end of its ending sequence** — including the ending sequence, which is what puts the tree into the state the seam reads.
-4. **Run `RENDER.md` Step 0**, unchanged. A stop here ends the cycle.
-5. **Run `RENDER.md` Steps 1 to 7**, then its *Log* and its *Mirror*. Unchanged, in order.
+4. **Run `UNIT-REVIEW.md`** if `python scripts/unit-review.py next` (with `--poll` from the loop) names a unit. Exit 1 — go straight to 5.
+5. **Run `RENDER.md` Step 0**, unchanged. A stop here ends the cycle.
+6. **Run `RENDER.md` Steps 1 to 7**, then its *Log* and its *Mirror*. Unchanged, in order.
 
-The cycle has no stage of its own — step 1 is a job that already existed, run at the point that makes it count.
+The cycle has no stage of its own — steps 1 and 4 are jobs with their own runbooks, run at the point that makes them count.
 
 ## What does not change
 
-- **`· build ·` and `· render ·`, exactly as each half writes them — no `· cycle ·` job name**: `lint-mirror-freshness.py` finds the newest `· render ·` line, Step 0 greps for `· build ·`, and per-half durations stay comparable. A cycle is indistinguishable in the log from two runs an hour apart, which is correct — and a `· notes ·` line ahead of them, on the cycles where there was something to drain, is indistinguishable from the hand-run drains that wrote that line before.
+- **`· build ·`, `· review ·` and `· render ·`, exactly as each job writes them — no `· cycle ·` job name**: `lint-mirror-freshness.py` finds the newest `· render ·` line, Step 0 greps for `· build ·`, and per-half durations stay comparable. A cycle is indistinguishable in the log from two runs an hour apart, which is correct — and a `· notes ·` line ahead of them, on the cycles where there was something to drain, is indistinguishable from the hand-run drains that wrote that line before.
 - **Two message blocks, each written by the half that owes it, when it owes it** — held back and merged, the build half's message dies with a seam stop.
 - **The `.build-in-progress` sentinel stays, and there is no cycle sentinel.** A cycle that dies during the render half has already stood down its build; the repair is a render — or another whole cycle, whose build half finds nothing unconsidered and costs almost nothing. The render is idempotent, so re-running it is never the wrong move.
 - **Commit discipline is unchanged**: one commit per coherent stage in both halves; the cycle adds none.
@@ -93,7 +98,7 @@ nothing. On exit 2, write one block in logs/messages-for-bill.md and stop — do
 
 ## Handing over at the seam
 
-**The seam is the right place to stop for context, and the only one.** BUILD stage 4 is model authoring across forty-odd units; the render half deserves a session with room to read its own output. There is nothing to hand over but the instruction — a fresh session running `RENDER.md` from Step 0 is in exactly the position the cycle would have been in. **Stopping at the seam is a completed build, not an abandoned cycle.** Anywhere else, do not stop deliberately: inside stage 4 an interruption is survivable but invisible; inside the render half it leaves `site/` part-written and undeployed.
+**The seam is the right place to stop for context, and the only one** — after the unit review, if one ran; a review is not split across sessions. BUILD stage 4 is model authoring across forty-odd units; the render half deserves a session with room to read its own output. There is nothing to hand over but the instruction — a fresh session running `RENDER.md` from Step 0 is in exactly the position the cycle would have been in. **Stopping at the seam is a completed build, not an abandoned cycle.** Anywhere else, do not stop deliberately: inside stage 4 an interruption is survivable but invisible; inside the render half it leaves `site/` part-written and undeployed.
 
 ## Running the halves separately
 
