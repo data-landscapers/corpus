@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-17
 place: TUN
 ledger_rows: 57
 not_held: 5
-record: 33762f9549c5
+record: 206078be1aab
 ---
 
 # Tunisia: monthly update, August – September 2026

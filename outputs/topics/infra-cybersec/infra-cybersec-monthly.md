@@ -4,7 +4,7 @@ compiled: 2026-09-17
 period: 2026-08-01 to 2026-09-17
 subject: infra.cybersec
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; TCD; COG; CIV; SWZ; GAB; GHA; KEN; LSO; LBR; LBY; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: f719b3e562c9
+record: 8055c711ffda
 ---
 
 # Cybersecurity: monthly update, August – September 2026
@@ -22,10 +22,6 @@ The cybersecurity record this window is a warning about the state's own brand ra
 The incumbent operator's mobile voice, data and internet services failed nationwide from 02:20 on 28 July, affecting more than twenty million customers; fixed fibre and fixed-wireless stayed up throughout, so the failure was confined to the mobile layer. The network itself came back over four days — localised from 11:45 on 29 July, full second- and third-generation national coverage at about 23:00 on 30 July, and [messaging and electronic airtime sales back on 31 July](https://angop.ao/noticias/economia/unitel-recupera-servicos-de-mensagens-e-venda-de-recargas/). The services running on it took nine: the operator dates [voice, messaging, mobile data, internet access and the third-party services carried over its network to 5 August](https://angop.ao/noticias/economia/unitel-conclui-reposicao-dos-servicos-moveis/), and gives the same close in [its own market update](https://techafricanews.com/2026/08/06/unitel-restores-core-services-after-nationwide-cyberattack/). Four days in, [card terminals were unreliable in Luanda shops and at filling stations and citizens were queueing at the ATMs for cash](https://jornaloguardiao.com/2026/07/31/ciberataque-a-unitel-mantem-impacto-nos-pagamentos-e-provoca-corrida-aos-atm-em-luanda/); a week in, [the cardless payment app was still unusable and Luanda bank branches were queueing one to two hours](https://www.verangola.net/va/en/082026/Telecommunications/49721/Attack-on-Unitel-continues-to-affect-business-and-debt-settlement-in-Luanda.htm). No attribution, access vector or scope of data loss is established.
 
 The aftermath produced the first public pressure for rules rather than repair: customers and security practitioners [called for mandatory incident-reporting obligations and a national computer security incident response team](https://angop.ao/noticias/tecnologia/clientes-advogam-mecanismos-mais-robustos-para-prevenir-crimes-ciberneticos/), small businesses describing lost sales and failed card payments across the disruption. Angola has neither: the repository holds no CSIRT and no reporting duty, and the critical national infrastructure designation that would carry one is itself ***Not held***.
-
-The Executive's first answer to the National Assembly on critical-infrastructure risk, given on 31 July, was the standing build programme — the national data centre and the country-code domain — with no new measure, obligation or timetable announced. Telecommunications remains undesignated as critical national infrastructure, and named analysts argued during the month that it should be designated alongside power and water.
-
-A regional preparatory meeting on radiocommunications opened in Luanda on 3 August, seven days into the outage and two before it closed, with the resilience of telecommunications infrastructure on its agenda.
 
 Check Point Research's July telemetry [puts Angolan organisations at 5,714 attacks a week against an African average of 3,237](https://techtrends.africa/ransomware-attacks-double-year-over-year/), the highest of the four African markets it broke out — the vendor's installed base, not a national measurement.
 

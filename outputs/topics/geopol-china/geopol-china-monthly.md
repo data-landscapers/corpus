@@ -3,13 +3,13 @@ title: China activities — monthly update, August – September 2026
 compiled: 2026-09-17
 period: 2026-08-01 to 2026-09-17
 subject: geopol.china
-places: DZA; BWA; BFA; TCD; GMB; KEN; NER; NGA; SEN; SSD; SDN; TGO; ZMB; ZWE
-record: 57ce02e10aaf
+places: DZA; BWA; BFA; TCD; DJI; GMB; KEN; NER; NGA; SEN; SSD; SDN; TGO; ZMB; ZWE
+record: 2256cd281ac7
 ---
 
 # China activities: monthly update, August – September 2026
 
-*14 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*15 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -28,6 +28,10 @@ The month's only Chinese item is an approach rather than an agreement: the commu
 ## Chad
 
 The financing that did arrive in the window came from one partner. Chad and China [signed two grant agreements totalling 300 million yuan, in tranches of 100 million and 200 million that the minister of state called immediately mobilisable](https://ecomatin.net/le-tchad-obtient-25-milliards-fcfa-de-la-chine-pour-booster-ses-infrastructures-le-numerique-et-la-formation), for infrastructure and social development with digital technologies supported alongside; and earlier in the week the Chinese ambassador [announced 5,000 scholarships in technology and artificial intelligence](https://camerpressagency.com/tchad-chine-lambition-numerique-se-concretise/). Neither carries a project list, a digital allocation or a timetable, and the local-currency equivalents in circulation differ between outlets on their own conversion dates.
+
+## Djibouti
+
+The month's only movement here is a conversation. Djibouti [discussed the development of its digital infrastructure with Huawei, against its position on the telecommunications routes between Africa, Asia and the Middle East and its stated ambition to be a regional digital hub](https://www.wearetech.africa/fr/fils/actualites/tech/djibouti-echange-avec-huawei-sur-le-developpement-de-ses-infrastructures-numeriques). Nothing held records an agreement, a project or a value behind it.
 
 ## Gambia
 

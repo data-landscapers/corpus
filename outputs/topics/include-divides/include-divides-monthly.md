@@ -3,13 +3,13 @@ title: Digital divides — monthly update, August – September 2026
 compiled: 2026-09-17
 period: 2026-08-01 to 2026-09-17
 subject: include.divides
-places: AGO; BWA; BDI; COD; EGY; SWZ; GMB; GHA; GNB; KEN; MWI; MOZ; NER; NGA; SEN; ZAF; UGA
-record: 1bb1d1bfeabe
+places: AGO; BWA; BDI; COD; EGY; SWZ; GMB; GHA; GNB; KEN; MWI; MAR; MOZ; NER; NGA; RWA; SEN; ZAF; UGA
+record: fe7eab50ceea
 ---
 
 # Digital divides: monthly update, August – September 2026
 
-*17 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*19 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -71,6 +71,10 @@ One programme did reach the refugee-hosting counties: a Dutch-funded course [tar
 
 The universal service fund is in operation and funded from the regulator's annual budget allocation, and its [director general stated existing funding levels remain insufficient to meet the country's connectivity needs](https://itweb.africa/article/malawi-explores-ai-digital-ids-collaboration/nWJadMbNlybMbjO1). A school connectivity project runs under it and the secondary-school skills work above is stated to draw on it. No income, balance or disbursement figure is held for any year, and the repository holds no regulator annual report or fund account at all.
 
+## Morocco
+
+The divide reported this month is one of hours rather than of coverage. Residents of thirteen douars in the Ben Cherro area of Beni Mellal province say [phone service cuts from about 8pm until the following morning, with internet throughput degraded over the same hours, and that the consequences are sharpest in emergencies](https://al3omk.com/1188460.html). The account is a local association figure's through a news outlet; no operator statement, regulator measurement or restoration commitment stands beside it.
+
 ## Mozambique
 
 The inclusion figures move in opposite directions depending on which one is read. The central bank's 2025 report puts the [financial inclusion index at 36.4 points, classified moderate, with Cabo Delgado rising from 23.3 to 25.8](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/) — a national index that did not move while access points rose 36%. Underneath it the [gender gap in access to credit stands at 34% women against 66% men](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/), and women's mobile money holding rose 24% over the same period. The account gap is narrowing while the credit gap widens.
@@ -86,6 +90,10 @@ One training cohort is the whole of the window's movement here. [500 women worki
 A global memory-chip shortage was reported on 29 July as turning device cost into a divide variable in a market that imports nearly every computer it sells.
 
 Nothing moved on the identity gender gap, on rural access, or on the schools programme whose January 2026 completion date passed undelivered.
+
+## Rwanda
+
+What moved this month is a projection, not a measurement. An industry association [puts more than a million additional people on mobile internet by 2031 if smartphones are made more affordable and services more relevant to everyday life, naming lower-income and rural households as the target](https://www.gsma.com/newsroom/press-release/digital-reforms-could-connect-over-1-million-more-people-to-mobile-internet-in-rwanda-gsma-finds/). It is the association's own modelling, and no adopted reform or government response is recorded against it.
 
 ## Senegal
 

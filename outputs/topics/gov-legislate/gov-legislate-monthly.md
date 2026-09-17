@@ -4,7 +4,7 @@ compiled: 2026-09-17
 period: 2026-08-01 to 2026-09-17
 subject: gov.legislate
 places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; TCD; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; UGA; ZMB; ZWE
-record: 29790053b7d6
+record: 8335257e60af
 ---
 
 # Legislation and regulation: monthly update, August – September 2026
@@ -21,13 +21,9 @@ The electronic commerce law is in force and, on a consumer body's assessment, la
 
 The cybersecurity bill re-entered detailed consideration. Three specialised committees met jointly on 3 August and [voted it chapter by chapter](https://pti.ao/proposta-de-lei-da-ciberseguranca-entra-na-fase-de-analise-detalhada/) on three axes — drafting, systematisation and harmonisation — all presented as preserving the substance approved in generality in January 2026 on 105 votes for, one against and 75 abstentions. Deputies had suspended the same discussion on 7 and 8 July over drafting non-conformities in the preamble and first two chapters, one party warning that a redraft that deep might require a wholly new bill.
 
-Five days before that vote, the country's own delegation told a regional forum in Lusaka on 29 July that its cybersecurity law was still in a diagnostic phase. Both statements are the government's own.
-
 The bill then passed. The National Assembly [adopted it on 12 August by 104 votes to 56](https://angop.ao/fr/noticias/economia/angola-conta-com-lei-sobre-ciberseguranca/), the governing party for and the opposition against with no abstentions, on a text of presidential initiative directed at protecting networks, critical infrastructure and essential services through prevention, detection, incident response and restoration. The penalties are administrative and graduated: [seven to 70 minimum wages for individuals on the lightest infringements, rising to 500 for individuals and 4,000 for legal persons on the most serious](https://angop.ao/fr/noticias/economia/angola-conta-com-lei-sobre-ciberseguranca/). No promulgation, gazette number or entry-into-force date is on file.
 
 What the vote settles and what it leaves open are different things. The law [requires telecommunications operators to transmit any communication whose content is criminal or prejudicial to state security](https://www.rfi.fr/fr/afrique/20260817-angola-la-loi-sur-la-cybersécurité-adoptée-par-le-parlement-fait-craindre-un-tour-de-vis-sécuritaire), and the opposition and part of civil society object that neither the qualifying content nor the circumstances in which a subscriber's personal data reaches the authorities is defined — a lawyer quoted in the same account gives the circulation of a call to demonstrate as an example that might qualify. The vote came a year before the presidential election, days after the online-falsehoods law entered into force, and weeks after the cyberattack on the incumbent operator that the governing party cited for it.
-
-The National Assembly [approved legislative authorisation 166 votes to nil on 30 July](https://www.opais.ao/politica/parlamento-aprova-autorizacao-legislativa-sobre-assinatura-electronica-com-166-votos-a-favor/) for the President to legislate an electronic-signature and digital-certification regime, valid 90 days after publication of the enabling law — so the regime defining an accrediting authority, a root certification entity and the evidential weight of a signature will be an executive instrument, grounded on the insufficiency of two 2011 texts.
 
 The national cybersecurity centre, whose statute was published in December 2025, is still described in the future tense by the minister responsible: on 10 August he [said it would be launched during 2026](https://www.telecompaper.com/news/angola-targets-launch-of-national-cybersecurity-centre-in-2026--1579430) to monitor digital threats, defend critical infrastructure and coordinate incident response.
 

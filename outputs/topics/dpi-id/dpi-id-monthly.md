@@ -4,7 +4,7 @@ compiled: 2026-09-17
 period: 2026-08-01 to 2026-09-17
 subject: dpi.id
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COM; COG; COD; EGY; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MWI; MRT; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 253c5d776026
+record: b02fa4832fc1
 ---
 
 # Digital Identity and CRVS: monthly update, August – September 2026
@@ -18,8 +18,6 @@ record: 253c5d776026
 The unified national digital identity is being used as a single sign-on, and the record's first evidence of that is a sectoral one. On 12 August the sports ministry [integrated its platforms into the national services portal so that holders of the credential reach its WADHIFATI platform without registering again](https://www.horizons.dz/2026/08/les-plateformes-du-ministere-des-sports-integrees-dans-lecosysteme-national-des-services-numeriques/). The credential is issued by the Haut Commissariat a la Numerisation; no enrolment count, assurance level, governing instrument or data-protection basis for it is held, so what a reader can establish is that it works across two systems, not how many people hold it or on what legal footing.
 
 ## Angola
-
-On 28 July the justice ministry [launched an at-home service priced at Kz 250,000](https://angop.ao/noticias/politica/ministerio-da-justica-lanca-servico-de-tratamento-do-bi-ao-domicilio/) for processing and Kz 10,000 for delivery alone, in one province only, the minister justifying the fee as a product of exclusivity.
 
 The single digital identity, named as a workstream since 2024 and as [a component of the US$150m public digital infrastructure contract in June](https://angop.ao/noticias/economia/ima-e-tis-formalizam-contrato-para-implementacao-do-projecto-digitais-publicas/), acquired a price and a procurement. [Despacho Presidencial 300/26 of 13 August authorised US$28m and opened the public tender](https://pti.ao/pr-aprova-usd-28-milhoes-para-aquisicao-de-plataforma-de-identidade-digital-e-assinaturas-electronicas/) for a National Digital Identity and Electronic Signatures Platform, specified to support up to 30 million digital identities and to let citizens, firms and public officials use one digital credential for public services, digital contracts, electronic verification of customers and legally valid electronic signatures. No supplier, timetable, or relationship to the earlier contract is stated.
 

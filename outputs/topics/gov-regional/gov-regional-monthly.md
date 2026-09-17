@@ -3,13 +3,13 @@ title: Regional collaboration — monthly update, August – September 2026
 compiled: 2026-09-17
 period: 2026-08-01 to 2026-09-17
 subject: gov.regional
-places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COG; CIV; COD; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZWE
-record: d4fff6dc2474
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COG; CIV; COD; EGY; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZWE
+record: ed24d0c61623
 ---
 
 # Regional collaboration: monthly update, August – September 2026
 
-*41 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*42 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -58,6 +58,10 @@ Côte d'Ivoire is standing for a seat at the table that writes the rules. It [de
 ## DR Congo
 
 The [African Telecommunications Union's return to Kinshasa was ratified on 23 July at the union's plenipotentiary conference in Abuja, after the country paid more than US$1.4m in arrears](https://thepanafricanpress.info/one-year-of-suminwa-ii-jose-mpandas-telecom-milestones-in-the-drc/). No date for the move is stated, the arrears figure and the account are the minister's own, and a bid for a seat on the ITU's administrative council for 2027 to 2030 is still pending.
+
+## Egypt
+
+Regional work this month was attendance rather than agreement. The communications ministry [took part in the second Arab artificial-intelligence summit at Hammamet from 7 to 10 September, organised by the Arab ICT organisation with the League of Arab States, working towards unified Arab positions on artificial-intelligence governance, digital sovereignty and data protection](https://fintechgate.net/251952). No instrument, declaration text or work programme came out of it that the repository holds.
 
 ## Eswatini
 

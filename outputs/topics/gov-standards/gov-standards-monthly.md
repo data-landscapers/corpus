@@ -3,13 +3,13 @@ title: Standards — monthly update, August – September 2026
 compiled: 2026-09-17
 period: 2026-08-01 to 2026-09-17
 subject: gov.standards
-places: AGO; BEN; CPV; CAF; TCD; COM; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GIN; KEN; LBR; LBY; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SOM; ZAF; SDN; TZA; TGO; UGA; ZMB
-record: c669d575f8f5
+places: AGO; BEN; CPV; CAF; TCD; COM; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GIN; KEN; LBR; LBY; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB
+record: 2d6078c905a0
 ---
 
 # Standards: monthly update, August – September 2026
 
-*37 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*39 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -156,6 +156,10 @@ The auditor general's office and a partner supreme audit institution [completed 
 
 Parliament's communications committee [prefers strengthening the existing regulators through the ICT and media regulators forum to creating the four artificial-intelligence bodies the withdrawn draft policy proposed](https://www.timeslive.co.za/news/sci-tech/2026-07-31-parliament-against-creating-new-ai-watchdogs-for-sa-diko). The forum was launched in 2024 and no instrument establishing its powers is held.
 
+## South Sudan
+
+Standards work this month was participation in a regional process. The national communication authority [took part in the third African preparatory meeting for the 2027 World Radiocommunication Conference, hosted by Tunisia's frequency agency and coordinated by the African Telecommunications Union, where non-geostationary orbit and direct-to-device systems were among the items](https://techafricanews.com/2026/09/17/south-sudan-satellite-connectivity-african-telecom-meeting/). No national position or delegation mandate is published.
+
 ## Sudan
 
 Two standing accounts entered the record and no standard was made. The national standards body publishes [a catalogue of adopted Sudanese Standards against their international equivalents](https://www.ssmo.gov.sd/Content/SectorDetails/783020af-a1ce-46f5-aaa1-525dd82ca005), under the Standards Act of 2008; it is a cross-sector list rather than an information-technology one. The digital transformation ministry's own product page for its government-institution platform [names interoperability among the platform's design principles](https://baldna.gov.sd/product/1/details) and lists the government institutions already integrated onto it. A catalogue of product standards and a platform that integrates ministries are not the same thing as a published interoperability framework other systems can be built against, and no such framework is held.
@@ -171,6 +175,10 @@ Zanzibar's government [told its House of Representatives on 9 September that a g
 Togo launched the National Accounting Council, [the body a regional directive of 28 November 1997 requires each member state to establish](https://www.togofirst.com/en/economic-governance/3108-19908-togo-activates-national-accounting-council-to-improve-financial-reporting). [The directive itself](https://www.dge.gouv.ci/sites/default/files/tableau/TEXTES%20COMMUNAUTAIRES%20CLASSSIFIES/UEMOA/DIRECTIVE/Directive%20n%C2%B003-97-CM-UEMOA%20portant%20cr%C3%A9ation%20d%27un%20Conseil%20National%20de%20la%20Comptabilit%C3%A9%20ds%20l%27Uemoa..pdf) is now held. Twenty-nine years between obligation and institution is the finding.
 
 The standards machinery came into view too: the [national standards agency is a full member body](https://www.iso.org/member/2143.html) of the international standards organisation; under the food-system resilience programme it drew up [46 national standards and the accreditation committee 31 certification programmes](https://agriculture.gouv.tg/fsrp-togo-46-normes-nationales-et-31-programmes-de-certification-pour-renforcer-la-qualite-et-la-competitivite-des-produits-agroalimentaires/) in August — drawn up and disseminated, the ministry says, not homologated.
+
+## Tunisia
+
+Tunisia's standards work this month was as host. Its national frequency agency [opened four days of talks in Tunis for the third African preparatory meeting for the 2027 World Radiocommunication Conference, coordinated by the African Telecommunications Union, with governments and regulators working towards common positions on the frequencies used by mobile, satellite and other wireless services](https://www.cyberera.com.ng/african-delegations-demand-common-ground-in-tunis-ahead-of-2027-world-radiocommunication-conference/). No delegate count, agenda document or adopted position is published.
 
 ## Uganda
 
