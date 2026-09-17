@@ -128,6 +128,35 @@ with tempfile.TemporaryDirectory() as td:
     check("exit 1", rc, 1)
     check("names the offending root", "INDEX_ROOTS names ['logs']" in out, True)
 
+    print("the work clone is bounded too, and by what may be written rather than read")
+    rc, out = run(build(tmp, **{"a.py": 'p = os.path.join(CLONE, "scripts", "x.py")\n'
+                                        'q = CLONE / "lookups"\n'}))
+    check("the three writable trees pass", rc, 0)
+    rc, out = run(build(tmp, **{"a.py": 'p = os.path.join(CLONE, "raw", "2026")\n'}))
+    check("raw/ in the clone fails", rc, 1)
+    check("and says why raw/ is not the lane",
+          "script plus its input" in out or "outside" in out, True)
+    rc, out = run(build(tmp, **{"a.py": 'p = os.path.join(CLONE, "logs")\n'}))
+    check("OSINT's own files in the clone fail", rc, 1)
+    rc, out = run(build(tmp, **{"a.py": 'p = os.path.join(CLONE, name)\n'}))
+    check("a computed segment in the clone fails — a write nobody can read is unchecked",
+          rc, 1)
+
+    print("osint-patch.py's own allowed set is held to the same bound")
+    ok_patch = ('ALLOWED_DIRS = ("scripts/", "lookups/")\n'
+                'ALLOWED_FILES = ("wiki/index.md",)\n')
+    rc, out = run(build(tmp, **{"osint-patch.py": ok_patch, "a.py": "p = 1\n"}))
+    check("the set as written passes", rc, 0)
+    rc, out = run(build(tmp, **{"osint-patch.py": ok_patch.replace('"lookups/"', '"raw/"'),
+                                "a.py": "p = 1\n"}))
+    check("widening it to raw/ fails", rc, 1)
+    check("and names what would have been sent", "would send a patch touching ['raw']"
+          in out, True)
+    rc, out = run(build(tmp, **{"osint-patch.py": "ALLOWED = 1\n", "a.py": "p = 1\n"}))
+    check("a set this cannot read at all fails", rc, 1)
+    check("because a lane nothing bounds is the breach",
+          "A lane nothing bounds" in out, True)
+
     print("tests are not scanned — they build paths to prove the check works")
     rc, out = run(build(tmp, **{"test_a.py": 'p = os.path.join(MIRROR, "reviews")\n',
                                 "a.py": "p = 1\n"}))

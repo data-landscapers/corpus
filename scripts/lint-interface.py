@@ -62,6 +62,34 @@ READABLE = {"raw", "wiki", "lookups", "cycle-manifest.json"}
 # would pass the other.
 ROOT_NAMES = {"MIRROR", "OSINT"}
 
+# **The work clone is the same boundary at a different address** *(strategic review 4, R1
+# and R15)*. `osint-patch.py` clones the mirror and edits the clone, so a path built on that
+# root reaches OSINT's material exactly as a path on the mirror does — and unlike the mirror
+# it is written to. What may be written is narrower than what may be read: `scripts/`,
+# `lookups/` and the wiki index pages, never `raw/`, never wiki prose, never OSINT's own
+# files. `.git` is here because cloning and committing are how the lane works at all.
+CLONE_NAMES = {"CLONE"}
+# `WORK` is taken: `rebuild.py` binds it to Corpus's own `.workroot`, which is why the
+# clone constant is named for what it is rather than for where the work happens.
+CLONE_TREES = {"scripts", "lookups", "wiki", ".git"}
+
+# The script that owns the lane, and the constants that state its allowed set. They are read
+# out of the source rather than imported, for `index_roots`'s reason: the module opens a
+# clone and talks to git, and a lint should not need either to answer a question about text.
+PATCH_SCRIPT = "osint-patch.py"
+ALLOWED_RE = re.compile(r"^ALLOWED_(?:DIRS|FILES)\s*=\s*\(([^)]*)\)", re.M)
+
+
+def patch_allowed(src: str) -> set[str]:
+    """The first path segment of everything `osint-patch.py` says a patch may touch."""
+    out: set[str] = set()
+    for m in ALLOWED_RE.finditer(src):
+        for item in m.group(1).split(","):
+            item = item.strip().strip("\"'").replace("\\", "/")
+            if item:
+                out.add(item.split("/")[0])
+    return out
+
 # Reads outside READABLE that exist today, each with what ends it. Keyed by
 # (script, root). The reason is carried here rather than in a comment because the check
 # reports it: a run that trips this should be told what the path is off, not just that it
@@ -102,7 +130,7 @@ def _named(node) -> str | None:
     return None
 
 
-def segments(source: str) -> list[tuple[int, str, bool]]:
+def segments(source: str, roots: set[str] | None = None) -> list[tuple[int, str, bool]]:
     """(line number, first path segment, is_literal) for every OSINT path in `source`.
 
     Parsed rather than matched, because these files talk about the paths they read: this
@@ -111,6 +139,7 @@ def segments(source: str) -> list[tuple[int, str, bool]]:
     to stop writing the docstrings or to stop trusting the check. The tree carries no
     comments and no docstring bodies in expression position, so what it reports is what
     the script does."""
+    roots = ROOT_NAMES if roots is None else roots
     found: list[tuple[int, str, bool]] = []
     try:
         tree = ast.parse(source)
@@ -120,10 +149,10 @@ def segments(source: str) -> list[tuple[int, str, bool]]:
         seg = None
         if (isinstance(node, ast.Call) and isinstance(node.func, ast.Attribute)
                 and node.func.attr == "join" and len(node.args) >= 2
-                and isinstance(node.args[0], ast.Name) and node.args[0].id in ROOT_NAMES):
+                and isinstance(node.args[0], ast.Name) and node.args[0].id in roots):
             seg = node.args[1]
         elif (isinstance(node, ast.BinOp) and isinstance(node.op, ast.Div)
-              and isinstance(node.left, ast.Name) and node.left.id in ROOT_NAMES):
+              and isinstance(node.left, ast.Name) and node.left.id in roots):
             seg = node.right
         if seg is None:
             continue
@@ -159,8 +188,30 @@ def main() -> int:
                             f"readable set {sorted(READABLE)} - the workroot junctions "
                             f"every root in it.")
 
+    patch = os.path.join(args.scripts, PATCH_SCRIPT)
+    if os.path.exists(patch):
+        allowed = patch_allowed(io.open(patch, encoding="utf-8").read())
+        if not allowed:
+            failures.append(f"{PATCH_SCRIPT} no longer states ALLOWED_DIRS and ALLOWED_FILES "
+                            f"in a form this can read, so what a patch may touch is "
+                            f"unchecked. A lane nothing bounds is the breach itself.")
+        outside = allowed - CLONE_TREES
+        if outside:
+            failures.append(f"{PATCH_SCRIPT} would send a patch touching {sorted(outside)}, "
+                            f"outside {sorted(CLONE_TREES - {'.git'})}. raw/ frontmatter "
+                            f"travels as a script plus its input, and wiki prose is Phase B's.")
+
     for name in names:
         src = io.open(os.path.join(args.scripts, name), encoding="utf-8").read()
+        for line, seg, literal in segments(src, CLONE_NAMES):
+            if not literal:
+                failures.append(f"{name}:{line} builds a work-clone path from '{seg}', which "
+                                f"this cannot resolve. Use a literal — the clone is written "
+                                f"to, so a segment nobody can read is a write nobody checked.")
+            elif seg not in CLONE_TREES:
+                failures.append(f"{name}:{line} builds '{seg}/' in the work clone, outside "
+                                f"{sorted(CLONE_TREES)}. Corpus commits to OSINT's scripts, "
+                                f"lookups and index pages, and to nothing else of OSINT's.")
         for line, seg, literal in segments(src):
             if not literal:
                 key = (name, seg)

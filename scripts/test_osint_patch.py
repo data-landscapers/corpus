@@ -83,10 +83,10 @@ check("a quoted path (git quotes unusual names) is unquoted before the test",
 
 print("\nwhat git reports as changed is what is checked")
 tmp = Path(tempfile.mkdtemp(prefix="osint-patch-test-"))
-saved_work, saved_prepared = op.WORK, op.PREPARED
+saved_work, saved_prepared = op.CLONE, op.PREPARED
 try:
     r = repo(tmp)
-    op.WORK = str(r)
+    op.CLONE = str(r)
     op.PREPARED = str(tmp / "share" / "prepared")
 
     check("a clean clone has nothing to cut", op.changed(str(r)), [])
@@ -127,14 +127,14 @@ try:
           os.path.isdir(os.path.join(op.PREPARED, "job-105")), False)
 
     print("\nthe work clone may not sit inside either repository")
-    op.WORK = os.path.join(op.osint_lib.MIRROR, "scratch")
+    op.CLONE = os.path.join(op.osint_lib.MIRROR, "scratch")
     check("a clone inside the mirror is refused", bool(op.guard_paths()), True)
-    op.WORK = os.path.join(os.path.dirname(str(_here)), "scratch")
+    op.CLONE = os.path.join(os.path.dirname(str(_here)), "scratch")
     check("a clone inside Corpus is refused", bool(op.guard_paths()), True)
-    op.WORK = str(r)
+    op.CLONE = str(r)
     check("a clone outside both is fine", op.guard_paths(), None)
 finally:
-    op.WORK, op.PREPARED = saved_work, saved_prepared
+    op.CLONE, op.PREPARED = saved_work, saved_prepared
     # Windows keeps .git read-only files; rmtree with a chmod fallback.
     def _rm(func, path, _exc):
         os.chmod(path, 0o700)

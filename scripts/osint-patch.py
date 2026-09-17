@@ -51,7 +51,7 @@ import status_lib                                  # noqa: E402  the exchange sh
 
 # The work clone. Outside `C:\CORPUS` because it is not Corpus's material, and outside
 # `C:\OSINT` because nothing of Corpus's belongs inside the mirror at all.
-WORK = os.environ.get("CORPUS_OSINT_WORK", r"C:\osint-work")
+CLONE = os.environ.get("CORPUS_OSINT_WORK", r"C:\osint-work")
 
 # Where a cut patch series is delivered. The share is the one place both machines reach, and
 # `prepared/` is the review's name for work handed over ready to run.
@@ -93,7 +93,7 @@ def guard_paths() -> str | None:
     A clone under `C:\\OSINT` would be a write into the mirror; a clone under `C:\\CORPUS`
     would put OSINT's whole tree inside Corpus's history the first time somebody ran
     `git add -A`. Both are cheap to check and expensive to discover."""
-    work = os.path.abspath(WORK)
+    work = os.path.abspath(CLONE)
     for root, why in ((osint_lib.MIRROR, "the mirror, which Corpus never writes to"),
                       (os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
                        "the Corpus repository")):
@@ -104,7 +104,7 @@ def guard_paths() -> str | None:
 
 
 def clone_exists() -> bool:
-    return os.path.isdir(os.path.join(WORK, ".git"))
+    return os.path.isdir(os.path.join(CLONE, ".git"))
 
 
 def mirror_head() -> str:
@@ -122,16 +122,16 @@ def prepare(job: str, refresh: bool) -> int:
         return refuse(bad)
     head = mirror_head()
     if not clone_exists():
-        print(f"cloning {osint_lib.MIRROR} into {WORK} (once; later jobs fetch)")
-        git("clone", "--no-hardlinks", osint_lib.MIRROR, WORK, env=CLONE_ENV)
+        print(f"cloning {osint_lib.MIRROR} into {CLONE} (once; later jobs fetch)")
+        git("clone", "--no-hardlinks", osint_lib.MIRROR, CLONE, env=CLONE_ENV)
     elif refresh:
-        git("fetch", "origin", cwd=WORK, env=CLONE_ENV)
+        git("fetch", "origin", cwd=CLONE, env=CLONE_ENV)
     # **Whatever the last job left is discarded here, not carried into this one.** A patch
     # series is cut from `git status`, so an uncommitted stray from a previous sitting would
     # be delivered to OSINT inside somebody else's job.
-    git("reset", "--hard", head, cwd=WORK, env=CLONE_ENV)
-    git("clean", "-fd", cwd=WORK, env=CLONE_ENV)
-    print(f"work clone : {WORK}")
+    git("reset", "--hard", head, cwd=CLONE, env=CLONE_ENV)
+    git("clean", "-fd", cwd=CLONE, env=CLONE_ENV)
+    print(f"work clone : {CLONE}")
     print(f"base       : {head[:12]}  (the mirror's HEAD)")
     print(f"job        : {job}")
     print(f"allowed    : {', '.join(ALLOWED_DIRS + ALLOWED_FILES)}")
@@ -173,10 +173,10 @@ def cut(job: str, subject: str, dry_run: bool) -> int:
     if bad:
         return refuse(bad)
     if not clone_exists():
-        return refuse(f"no work clone at {WORK} - run prepare --job {job} first")
-    paths = changed(WORK)
+        return refuse(f"no work clone at {CLONE} - run prepare --job {job} first")
+    paths = changed(CLONE)
     if not paths:
-        return refuse(f"nothing has changed in {WORK} - there is no patch to cut")
+        return refuse(f"nothing has changed in {CLONE} - there is no patch to cut")
     stray = outside(paths)
     if stray:
         print(f"osint-patch: {len(stray)} path(s) outside the allowed set "
@@ -188,7 +188,7 @@ def cut(job: str, subject: str, dry_run: bool) -> int:
               file=sys.stderr)
         return 2
 
-    base = git("rev-parse", "HEAD", cwd=WORK).strip()
+    base = git("rev-parse", "HEAD", cwd=CLONE).strip()
     out_dir = os.path.join(PREPARED, f"job-{job}")
     print(f"job {job}: {len(paths)} file(s)")
     for p in paths:
@@ -197,14 +197,14 @@ def cut(job: str, subject: str, dry_run: bool) -> int:
         print(f"dry run - nothing committed, nothing written to {out_dir}")
         return 0
 
-    git("add", "--", *paths, cwd=WORK)
-    git("commit", "-m", f"job {job}: {subject}", cwd=WORK)
+    git("add", "--", *paths, cwd=CLONE)
+    git("commit", "-m", f"job {job}: {subject}", cwd=CLONE)
 
     os.makedirs(out_dir, exist_ok=True)
     for old in os.listdir(out_dir):                  # a re-cut replaces its own series
         if old.endswith(".patch") or old == "BASE":
             os.remove(os.path.join(out_dir, old))
-    git("format-patch", f"{base}..HEAD", "-o", out_dir, cwd=WORK)
+    git("format-patch", f"{base}..HEAD", "-o", out_dir, cwd=CLONE)
 
     with io.open(os.path.join(out_dir, "BASE"), "w", encoding="utf-8", newline="\n") as fh:
         fh.write(f"{base}\n")
