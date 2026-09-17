@@ -259,6 +259,25 @@ NS_HEADER = ["recipient_country", "start_year", "end_year", "financier", "sector
              "project_id", "iati_activity_id", "url", "financier_slug", "record"]
 
 
+def usd_m_cell(usd):
+    """The `commitment_usd_m` cell: US$m, and never a real amount printed as zero.
+
+    The column was `f"{usd:.0f}"`, which is right above a million and a falsehood below
+    it: on 2026-09-17 forty of the 1,455 deals published **0** against a stated amount —
+    a US$450,000 equity ticket, a US$350,000 census grant, UNESCO transfers down to
+    US$366.85. A reader downloading the CSV could not tell those from the 44 rows whose
+    amount genuinely is not held, which read blank, and summing the column loses them
+    silently. The aggregate never had the bug: `usd_millions` returns a float and the
+    subject totals add that, so this changes the published cell and no total.
+
+    Three significant figures below a million is enough to keep the smallest deal held
+    (US$366.85 → 0.000367) distinguishable from nothing, and an empty string stays what
+    it has always meant: no amount is held. A genuine zero is not a deal."""
+    if not usd:
+        return ""
+    return f"{usd:.0f}" if usd >= 1 else f"{usd:.3g}"
+
+
 def amount_quality(rec):
     """How the amount was arrived at — frontmatter first, body table as fallback.
 
@@ -279,7 +298,7 @@ def _ns_row(r, country, lab):
     start = T.get("Start year", "") or T.get("Commitment year", "") or (r["published"] or "")[:4]
     return [country, start, T.get("End year", ""),
             fin_name(fm_get(fm, "financier_slug")), lab.get(sec, sec),
-            T.get("Instrument", ""), (f"{usd:.0f}" if usd else ""), basis,
+            T.get("Instrument", ""), usd_m_cell(usd), basis,
             amount_quality(r), T.get("Status", ""),
             dewiki(r["title"]), dewiki(section(r["body"], "Description")),
             T.get("Beneficiary type", ""), recip_org(T), T.get("Original amount", ""),

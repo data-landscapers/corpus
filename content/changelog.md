@@ -1,5 +1,6 @@
 ## 17 September 2026
 
+- Financing amounts below one million dollars now appear at their real size in the downloadable tables, where 40 of them had been showing as zero. If you took a small grant or equity figure from a financing table before this date, check it again.
 - Topic labels in the financing tables are now short names rather than full descriptions, and four funders that were listed under abbreviated codes now appear under their proper names. The tables are easier to scan and filter, and funder names match the ones used in the source documents.
 - Every country and region now has its reports checked against the latest evidence about once a month. Out-of-date or unsupported statements in a report you read may have been corrected since your last visit.
 - The alerts page now puts the RSS feed address for your chosen countries and topics directly under the sign-up button. You can follow the catalogue in a feed reader without giving an email address.

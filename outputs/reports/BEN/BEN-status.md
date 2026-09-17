@@ -1,12 +1,12 @@
 ---
 title: Benin: status report
-compiled: 2026-09-15
+compiled: 2026-09-17
 place: BEN
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 9
-sources_cited: 149
+sources_cited: 150
 sections_written: 37
 not_established: 0
 acquire_lines: 41
@@ -39,7 +39,7 @@ The codified stack is narrow. Three instruments carry almost all of it — the 2
 ### Data protection
 <!-- gov.protect -->
 
-Benin's data protection authority is doing enforcement work, not just existing: [the APDP examined 907 compliance files in 2025 and validated 87.4 per cent of them](https://www.lanation.bj/numerique/protection-des-donnees-personnelles-en-2025-au-benin-lapdp-dresse-un-bilan-sous-le-signe-de-la-conformite), [carried out 64 control missions, issued 75 conformity certificates and recorded 37 designated data protection officers](https://www.lanation.bj/numerique/protection-des-donnees-personnelles-en-2025-au-benin-lapdp-dresse-un-bilan-sous-le-signe-de-la-conformite), and [took 14 major cases to its litigation session, some ending in fines](https://www.lanation.bj/numerique/protection-des-donnees-personnelles-en-2025-au-benin-lapdp-dresse-un-bilan-sous-le-signe-de-la-conformite). [Its 2025 activity report, one of a published series, records 782 control and litigation cases and 20 privacy complaints instructed](https://archive.apdp.bj/rapports-annuels/).
+Benin's data protection authority is doing enforcement work, not just existing: [the APDP examined 907 compliance files in 2025 and validated 87.4 per cent of them](https://www.lanation.bj/numerique/protection-des-donnees-personnelles-en-2025-au-benin-lapdp-dresse-un-bilan-sous-le-signe-de-la-conformite), [carried out 64 control missions, issued 75 conformity certificates and recorded 37 designated data protection officers](https://www.lanation.bj/numerique/protection-des-donnees-personnelles-en-2025-au-benin-lapdp-dresse-un-bilan-sous-le-signe-de-la-conformite), and [took 14 major cases to its litigation session, some ending in fines](https://www.lanation.bj/numerique/protection-des-donnees-personnelles-en-2025-au-benin-lapdp-dresse-un-bilan-sous-le-signe-de-la-conformite). [Its 2025 activity report, one of a published series, records 782 control and litigation cases and 20 privacy complaints instructed](https://archive.apdp.bj/rapports-annuels/). The capacity behind that work has just been enlarged: [seventeen officers were sworn in on 14 September 2026](https://techreviewafrica.com/news/7230/17-apdp-benin-officers-sworn-in-to-strengthen-commitment-to-personal-data-protection). It is staffing rather than enforcement — no case, sanction or inspection figure accompanies it.
 
 The regime it enforces is statutory. [Personal data protection is governed by the law of 6 January 2021 within the Digital Code, which establishes the APDP as supervisory authority](https://fraternite.bj/protection-des-donnees-a-caractere-personnel-au-benin-ce-que-dit-la-loi-du-06-janvier-2021/), with [rights of access, rectification, objection, portability and erasure](https://www.dlapiperdataprotection.com/index.html?c=BJ&t=law). [The APDP is an independent administrative authority with legal personality; it supervises processing, investigates breaches and issues sanctions, including over the biometric identification system](https://archive.apdp.bj/presentation/), and [its decisions may be appealed to the competent administrative jurisdiction](https://archive.apdp.bj/presentation/). [Article 427 of the Digital Code requires every controller to notify the authority and the affected data subject without delay of a breach and its likely consequences](https://www.dlapiperdataprotection.com/?c=BJ&t=breach-notification). [No data localisation requirement applies to personal or other data](https://www.dlapiperdataprotection.com/?t=law&c=BJ) (2024).
 

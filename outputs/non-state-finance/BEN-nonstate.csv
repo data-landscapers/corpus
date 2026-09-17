@@ -1,5 +1,5 @@
 ﻿recipient_country,start_year,end_year,financier,sector,instrument,commitment_usd_m,amount_basis,amount_quality,status,title,description,beneficiary_type,recipient_organisation,original_amount,project_id,iati_activity_id,url,financier_slug,record
-BEN,2026,2028,Food and Agriculture Organization (FAO),National statistics,Grant,0,commitment,stated,Active,Assistance technique pour la preparation et execution du Recensement National de lAgriculture (RNA),"Developper le document de projet du RNA
+BEN,2026,2028,Food and Agriculture Organization (FAO),National statistics,Grant,0.35,commitment,stated,Active,Assistance technique pour la preparation et execution du Recensement National de lAgriculture (RNA),"Developper le document de projet du RNA
 Developper les decrets officiels qui mettre en place un dispositif institutionnel de gouvernance du RNA (comite de pilotage et comite    technique)
 Elaborer et tester les instruments de collecte de donnees (note methodologiques, questionnaires, manuels d?instructions, applications CAPI, plan de tabulation, etc.) pour 
 -Cartographie/pre-denombrement
