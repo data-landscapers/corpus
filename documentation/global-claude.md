@@ -1,7 +1,7 @@
 ---
 type: doc
 title: global CLAUDE.md — the cross-project rules
-last_reviewed: 2026-08-19
+last_reviewed: 2026-09-17
 ---
 
 # CLAUDE.md — global
@@ -19,6 +19,8 @@ All projects should have these three folders attached; if any is missing, warn m
 - OSINT : `C:\OSINT`
 
 Cowork and Claude Code have read/write on Corpus and Data-landscapers. **Neither ever writes to OSINT, and there is no longer an exception** *(2026-08-20)*. What used to be one — a shared folder inside `C:\OSINT` — has moved out of both repositories to `C:\corpus-osint-xfer\`, a git repository of its own that Bill gives OSINT access to. That retires the exception rather than relocating it, because `C:\OSINT` is a **mirror**: a write there is discarded at the next sync, so it was never a delivery. Corpus's own `CLAUDE.md` carries the reasoning and the mechanics, and the share's `README.md` describes what is in it.
+
+**"OSINT" in that rule means the folder `C:\OSINT`, not the repository** *(Bill, 2026-09-17, strategic review 4, ruling R1)*. Corpus may prepare changes for OSINT's repository — git patches cut in a scratch clone of the mirror, or a script with its input — and deliver them to `C:\corpus-osint-xfer\prepared\`. OSINT checks each delivery and applies it itself, so OSINT's `master` still has one writer, and nothing lands in OSINT unless OSINT puts it there. What a delivery may touch is set out in Corpus's `CLAUDE.md`.
 
 ## Corpus is an extension of data-landscapers
 
