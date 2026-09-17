@@ -151,7 +151,9 @@ The Human Rights Commission considered 105 alleged violations and resolved 62; t
 
 2026-09-11 - a magistrate [convicted a vlogger under section 54 of the 2021 cyber Act for forwarding a WhatsApp screenshot to a group](2026-09-11-zmb-mwebantu-court-convicts-vlogger-cyber-security-act).
 
-2026-09-12 - a [tailor was arrested under the cyber Act over a TikTok video about the president](2026-09-12-zmb-diggers-mansa-tailor-arrest-cyber-crimes-act).",ZMB-gov.discourse-election-digital-systems|ZMB-gov.discourse-zicta-shutdown-consent-judgment|ZMB-gov.discourse-hrc-election-cases|ZMB-gov.discourse-cyber-crimes-act-speech-prosecutions
+2026-09-12 - a [tailor was arrested under the cyber Act over a TikTok video about the president](2026-09-12-zmb-diggers-mansa-tailor-arrest-cyber-crimes-act).
+
+2026-09-15 — [a vlogger was sentenced to nine months for forwarding a screenshot](2026-09-15-zmb-diggers-vlogger-9-months-sharing-screenshot-mwanawasa) under the 2021 cyber act.",ZMB-gov.discourse-election-digital-systems|ZMB-gov.discourse-zicta-shutdown-consent-judgment|ZMB-gov.discourse-hrc-election-cases|ZMB-gov.discourse-cyber-crimes-act-speech-prosecutions
 finance.budget--sustainable-domestic-financing-of-digital-transformation,Movement,"A [K255 million digital infrastructure and quality-of-service allocation](2026-05-15-zambia-approves-k255m-digital-infrastructure) was announced as approved, with the stage unclear and no funding source named.","Approved is the source's word, and whether this is a cabinet approval, an appropriation or an in-year release is not stated; the amount is carried in local currency only and no funding source is named ([allocation](2026-05-15-zambia-approves-k255m-digital-infrastructure), [record](2026-01-01-zmb-2026-govt-digital-infra-qos)).
 
 It is the only domestic financing figure in this ledger. Every other instrument here is externally financed or company-reported.",ZMB-finance.budget-digital-infrastructure-allocation
@@ -184,7 +186,9 @@ infra.connect--mobile-affordability,Movement,"The regulator's [2025 sector repor
 
 2026-03 — [the regulator's 2025 ICT and postal sector market performance report gave its own current mobile subscription and affordability figures](2026-03-28-zicta-2025-ict-postal-sector-market-performance-report-zambia-monitor), which is the more durable source.
 
-2025-12-30 — [an Act revised the person-to-person mobile money transfer levy schedule, effective 1 January 2026](2025-12-30-mobile-money-transaction-levy-amendment-act-2025). A transfer levy is an affordability question for the poorest users of the payment system, and no assessment of its incidence accompanies it.",ZMB-infra.connect-affordability
+2025-12-30 — [an Act revised the person-to-person mobile money transfer levy schedule, effective 1 January 2026](2025-12-30-mobile-money-transaction-levy-amendment-act-2025). A transfer levy is an affordability question for the poorest users of the payment system, and no assessment of its incidence accompanies it.
+
+2026-09-16 — [one operator cut its entry home fibre price to K300 a month for 6 Mbps](2026-09-16-zmb-efficacynews-liquid-zambia-fibre-entry-price-k300).",ZMB-infra.connect-affordability|ZMB-include.access-entry-level-home-fibre-price
 infra.connect--national-fibre-backbone,"Mixed, a backbone extension financed and 0 per cent drawn while the two national fibre-length figures cannot be reconciled",The [backbone extension financing stood at 0 per cent disbursement](2017-01-01-eximbank-cn-zmb-005-china-eximbank-provides-3332-million-preferential) as of July 2022 — the largest single undrawn digital-infrastructure commitment the repository holds — and the two [national fibre-length figures](2026-05-15-zambia-approves-k255m-digital-infrastructure) are irreconcilable.,"Corruption allegations from a former utility board chairman are on the record against the undrawn commitment ([extension](2017-01-01-eximbank-cn-zmb-005-china-eximbank-provides-3332-million-preferential)).
 
 Neither fibre-length figure states whether it counts backbone only or backbone plus metropolitan and access network, which is why they cannot be reconciled ([length](2026-05-15-zambia-approves-k255m-digital-infrastructure), [appraisal](2025-01-20 PID Appraisal Stage - Digital Zambia Acceleration Project (P505094))).
@@ -455,7 +459,9 @@ digital.rural--digitalisation-of-rural-primary-schools,Movement,"A target of [2,
 
 2026-04 — [the education ministry set a target of 2,500 additional schools connected to reliable internet by the end of 2026, prioritising rural and hard-to-reach areas](2026-04-16-2500-additional-schools-internet-connectivity-zanis). It is a target, not a rollout.
 
-2026-08-06 — [an operator connected a rural primary school's computer laboratory by satellite](2026-08-06-paratus-mphande-hills-primary-school-connectivity). One completed deployment against that target, with four months to run and no progress count published.",ZMB-digital.rural-primary-schools
+2026-08-06 — [an operator connected a rural primary school's computer laboratory by satellite](2026-08-06-paratus-mphande-hills-primary-school-connectivity). One completed deployment against that target, with four months to run and no progress count published.
+
+2026-09-15 — [a three-year programme began connecting 70 schools by satellite with solar power](2026-09-15-zmb-lusakatimes-government-launches-digital-learning-programme), free for the first year only.",ZMB-digital.rural-primary-schools|ZMB-digital.rural-lynx-school-connectivity-programme
 digital.rural--digitalisation-of-rural-registry-offices,Movement,"A [funding line for the integrated registration system](2025-09-26-2026-budget-address-gwan-local-authorities) sits behind [computerisation of card, passport and citizenship issuance](2025-08-29-zambia-monitor-digitalisation-identity-services).","2025-08 — [the registration department began computerising national registration card, passport and citizenship-document issuance with the state technology institute, targeting online applications including from the diaspora](2025-08-29-zambia-monitor-digitalisation-identity-services).
 
 2025-09 — [the 2026 budget address carries a funding line for the integrated national registration information system](2025-09-26-2026-budget-address-gwan-local-authorities).

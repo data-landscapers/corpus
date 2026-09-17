@@ -325,7 +325,9 @@ dpi.registry--civil-register,Movement,"About [ten million civil records](2026-05
 
 A civil registry and database management contract of EUR 8.5m was awarded in May 2025, with no delivery milestone published since ([contract](2025-05-16-madagascar-selects-in-groupe-8-5m-digital-id-biometricupdate)). No error rate or count of records still on paper is held.
 
-World Bank staff put [birth registration coverage at 74% in 2021, down from 80% in 2009, with two-thirds of civil registration offices lacking stable internet access](2023-10-10-worldbank-legal-identity-madagascar-namibia) (October 2023).",MDG-dpi.registry-record-digitisation|MDG-dpi.registry-in-groupe|MDG-dpi.registry-birth-registration-coverage
+World Bank staff put [birth registration coverage at 74% in 2021, down from 80% in 2009, with two-thirds of civil registration offices lacking stable internet access](2023-10-10-worldbank-legal-identity-madagascar-namibia) (October 2023).
+
+2026-09-15 — [close to 20 per cent of under-fives lack a birth certificate, and a second registration drive opened](2026-09-16-mdg-midimadagasikara-etat-civil-oif-izaho-tokana).",MDG-dpi.registry-record-digitisation|MDG-dpi.registry-in-groupe|MDG-dpi.registry-birth-registration-coverage
 dpi.registry--address-register,No change,"[Spatial data infrastructures are not yet implemented](2023-01-01-ftm-madagascar-report-iho) on the national geographic institute's own account, and no state address register exists.","The institute's own status report states under its ninth item that spatial data infrastructures are not yet implemented, the most recent dated authoritative statement located on the country's addressing and geospatial register infrastructure ([report](2023-01-01-ftm-madagascar-report-iho)).
 
 The only in-window addressing development is a community-built mobile layer whose publisher states it is not a government service and that its codes have no legal value ([layer](2026-07-13-adiresy-mobile-github)).
@@ -335,7 +337,9 @@ dpi.registry--business-register,Movement,The [online business registration platf
 
 A regional antenna opened at Manakara in May 2026, the platform having been live there since July 2025, coordinating registration between the tribunal, the statistics office, the tax administration and the board ([antenna](2026-05-26-edbm-manakara-antenne-newsmada)).
 
-A further antenna opened in the Sava region in July 2026, allowing local operators to register a company without travelling to the capital ([antenna](2026-07-02-edbm-sava-antenne-newsmada)). No registration volume through the platform is held.",MDG-dpi.registry-orinasa
+A further antenna opened in the Sava region in July 2026, allowing local operators to register a company without travelling to the capital ([antenna](2026-07-02-edbm-sava-antenne-newsmada)). No registration volume through the platform is held.
+
+2026-09-15 — [the first 124 cooperatives received biometric cards under a national cooperative census](2026-09-16-mdg-midimadagasikara-cooperatives-cartes-biometriques-analamanga).",MDG-dpi.registry-orinasa|MDG-dpi.registry-cooperatives-census-biometric-cards
 dpi.registry--social-protection-register,Movement,"The social registry [reached 2.6 million households](2026-05-13-rsu-2-6-millions-menages-lexpress) by May 2026, passing its June target early.","A decree of September 2017 created the beneficiary register for non-contributory social protection, the legal basis of the current registry ([decree](2017-09-19-decret-2017-844-rbrnc)).
 
 The registry reached 2.6 million households by May 2026, up from 990,000 in February 2023, exceeding the ministry's target of 2.5 million by June, with registration continuing in 99 districts to December 2026 ([count](2026-05-13-rsu-2-6-millions-menages-lexpress)).

@@ -1,11 +1,11 @@
 ---
 title: Cote d'Ivoire — monthly update, August – September 2026
-compiled: 2026-09-16
-period: 2026-08-01 to 2026-09-16
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 place: CIV
-ledger_rows: 58
+ledger_rows: 59
 not_held: 10
-record: c61486c00657
+record: 9fb91e63af73
 ---
 
 # Cote d'Ivoire: monthly update, August – September 2026
@@ -32,6 +32,8 @@ Closing the national workshop on prioritising public digital services on 4 Septe
 The universal-service agency published its own five-year plan on 11 August. It [rests on four pillars — universal connectivity, digital services and financial inclusion, digital usage and literacy, and operational excellence — across ten projects, four of them funded at FCFA 60.144bn through the national development plan and six from the agency's own funds](https://digitalmag.ci/parlons-projet-gilles-thierry-beugre-devoile-le-plan-strategique-2026-2030-de-lansut/). The [stated targets are 300 newly connected localities, smartphone penetration of 80% by 2028 against 40% now, and more than 15,000 km of new fibre by 2028, against a starting point at which 70% of rural households have no internet access](https://digitalmag.ci/parlons-projet-gilles-thierry-beugre-devoile-le-plan-strategique-2026-2030-de-lansut/). No adoption instrument is published; the plan is the agency's own.
 
 The space agency got its first head more than a year after the decree that created it. The government [appointed an inaugural Director General of the Space Agency, a public administrative institution of a scientific and technological character under the higher education ministry with programme areas spanning Earth observation, space meteorology, astronomy, satellite navigation and satellite communications](https://spaceinafrica.com/2026/08/28/dr-tidiane-ouattara-appointed-inaugural-dg-of-cote-divoires-space-agency-2/); the appointment date is not stated.
+
+The development plan's digital component was then costed for investors: on 15 September the minister [set out six opportunities worth 541.3 billion FCFA to the private sector](https://www.afriqueeconomie.net/2026/09/pnd-2026-2030-5413-milliards-de-fcfa-dopportunites-dinvestissement-presentees-au-secteur-prive-dans-le-numerique/), against a target of lifting the digital economy to 15 per cent of GDP by 2030.
 <!-- /narrative -->
 ### Legislation and regulation
 

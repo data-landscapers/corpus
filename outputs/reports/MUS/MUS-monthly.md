@@ -1,11 +1,11 @@
 ---
 title: Mauritius — monthly update, August – September 2026
-compiled: 2026-09-16
-period: 2026-08-01 to 2026-09-16
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 place: MUS
 ledger_rows: 43
 not_held: 7
-record: e972c8ae22d6
+record: 973ae8daa10f
 ---
 
 # Mauritius: monthly update, August – September 2026

@@ -1,11 +1,11 @@
 ---
 title: Zambia — monthly update, August – September 2026
-compiled: 2026-09-16
-period: 2026-08-01 to 2026-09-16
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 place: ZMB
-ledger_rows: 54
+ledger_rows: 56
 not_held: 46
-record: 5b800e7877eb
+record: 79ff4e156afa
 ---
 
 # Zambia: monthly update, August – September 2026
@@ -62,6 +62,8 @@ The election itself, on 13 August, produced the fullest external account of the 
 The criminal route for online speech was used. A Lusaka magistrate [convicted a vlogger on 11 September under section 54 of the Cyber Security and Cyber Crimes Act 2021 for forwarding a WhatsApp screenshot about a presidential aide](https://www.mwebantu.com/court-convicts-vlogger-chishimba-over-mwanawasa-allegations/).
 
 A second case followed the next day: [a tailor in Mansa was arrested under the cyber crimes statute over a TikTok video insulting the president](https://diggers.news/local/2026/09/12/mansa-tailor-nabbed-for-insulting-hh-on-tiktok/).
+
+The section 54 case ended in custody: [the vlogger was sentenced to nine months on 15 September](https://diggers.news/courts/2026/09/15/vlogger-gets-9-months-for-sharing-screenshot-about-mwanawasas-false-pregnancy/) for forwarding a screenshot.
 <!-- /narrative -->
 
 ## Finance
@@ -165,6 +167,8 @@ Connectivity followed the collection: the state ICT institute [equipped a town c
 
 <!-- narrative: digitalisation--digital-rural -->
 One rural school was connected. An operator [connected a primary school's computer laboratory in the Chipapa community by satellite](https://paratus.africa/zambia/paratus-zambia-expands-digital-learning-opportunities-at-mphande-hills-primary-school/), a completed deployment rather than a commitment. Set against the education ministry's own target for schools connected to reliable internet by the end of this year, it is one school with four months to run, and no progress count against that target is published.
+
+A larger programme followed on 15 September: [70 schools are to be connected by satellite with solar power over three years](https://www.lusakatimes.com/2026/09/15/government-launches-digital-learning-programme/), free for the first year and sold at affordable rates after.
 <!-- /narrative -->
 
 ## Technology
@@ -204,6 +208,8 @@ Training in the window is a private programme rather than a state one. A ride-ha
 
 <!-- narrative: inclusion--include-access -->
 The citizen support portal reached a ministry that has no offices in much of the country. Labour and social security staff [were trained to handle labour cases through the portal, extending it to districts with no physical office](https://www.zamjob.com/news-details.php?nid=388). Where a portal substitutes for a counter that was never there, the question is what happens to a claimant without connectivity — and no fallback, case volume or resolution figure is published for it.
+
+At home, [one fibre operator cut its entry price to K300 a month for 6 Mbps](https://efficacynews.africa/2026/09/16/liquid-zambia-cuts-fibre-entry-price-to-k300-and-increases-speeds/), an operator's own announcement rather than a market measure.
 <!-- /narrative -->
 
 ## Data

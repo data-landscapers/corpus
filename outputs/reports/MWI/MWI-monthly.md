@@ -1,11 +1,11 @@
 ---
 title: Malawi — monthly update, August – September 2026
-compiled: 2026-09-16
-period: 2026-08-01 to 2026-09-16
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 place: MWI
-ledger_rows: 59
+ledger_rows: 61
 not_held: 38
-record: 717b34fa612e
+record: e31773fe2494
 ---
 
 # Malawi: monthly update, August – September 2026
@@ -99,6 +99,8 @@ The month's cybersecurity item is a loss rather than a control. The state oil co
 The regulator put its own name to the methods a week later. It issued a public alert on rising digital fraud against mobile money and digital financial services, naming [fake social cash transfer messages demanding a payment before assistance, failed-payment pretexts redirecting money to a second number, spoofed transaction alerts, fake competition prizes and takeovers of messaging accounts used to solicit money from contacts](https://malawi24.com/2026/09/04/macra-sounds-alarm-over-rising-digital-scams/), and stating that bodies running social cash transfer programmes do not use ordinary messaging to request money from beneficiaries. The alert carries no incident count, loss figure or enforcement action, so the regulator is on record about the methods and not about their scale.
 
 The regulator's own monitoring system came back under scrutiny. It [installed a system to watch misinformation on Facebook, X and LinkedIn in January 2025 under a US$1.5m contract awarded 15 days earlier, eight months before the election](https://www.nyasatimes.com/questions-grow-over-malawis-social-media-monitoring-system-amid-oversight-concerns/), and [civil-society letters, a presidency appeal and a rights-commission inspection that was abandoned left it running](https://moz24h.co.mz/part-2-a-ghanaian-contractor-a-1-5-million-contract-and-a-surveillance-system-that-remains-unexplained/). No audit, retention rule or oversight body is published.
+
+The regulator then gave the fraud a source: [prisoners are behind up to 90 per cent of reported mobile-money scams](https://malawi24.com/2026/09/15/90-of-scams-linked-to-prisons/), on its own figure, which leaves open how inmates reach handsets and networks at all.
 <!-- /narrative -->
 
 ## DPI
@@ -119,6 +121,8 @@ The registration bureau reported on 13 July 2026 that more than 13.5 million peo
 Using the system got more expensive. The bureau [raised fees for national identity card replacement, electronic know-your-customer verification, civil registration and marriage services](https://malawi24.com/2026/08/17/nrb-hikes-registration-fees/) under the National Registration (Amendment) Regulations 2026, gazetted on 31 July. The fee levels and their previous values are not in the record held, so the size of the increase is not established. The charge for electronic know-your-customer verification is a charge on third parties for using the identity system, levied in the month the bureau reported approaching universal coverage.
 
 The wallet has a date. The registration bureau [set its national launch for 16 September, International Identity Day, carrying a digital ID with the card's validity](https://www.biometricupdate.com/202609/malawi-to-launch-digital-id-wallet-as-national-id-coverage-reaches-99), [plus birth and marriage certificates, liveness checks and the physical card still valid](https://www.channelafrica.co.za/channelafrica/news/malawi-takes-national-ids-digital-with-nzika-wallet/).
+
+The mobile credential launched on schedule. [The Nzika wallet went live in Lilongwe on 16 September](https://malawi24.com/2026/09/16/malawi-drops-expiry-dates-on-national-ids/), and at the launch the minister directed that national ID cards be issued without expiry dates from that day, ending the renewal regime that had left about two million cards expired.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 

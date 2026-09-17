@@ -1,11 +1,11 @@
 ---
 title: Liberia — monthly update, August – September 2026
-compiled: 2026-09-16
-period: 2026-08-01 to 2026-09-16
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 place: LBR
-ledger_rows: 39
+ledger_rows: 41
 not_held: 6
-record: 2adf3d0b7b58
+record: b6efa03bb87c
 ---
 
 # Liberia: monthly update, August – September 2026
@@ -22,6 +22,11 @@ Against that the state auditor supplied the month's hardest finding: a [digital 
 
 ## Governance
 
+### Strategies, plans and policies
+
+<!-- narrative: governance--gov-policy -->
+The financial inclusion strategy reached validation. The central bank's [draft went through a two-day validation and will be revised](https://frontpageafricaonline.com/liberia-cbls-new-financial-inclusion-plan-hinges-on-id-business-registry-reforms/), with participants naming the identification registry, business registration and credit reference systems as what it depends on; no launch date is set.
+<!-- /narrative -->
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
@@ -97,6 +102,8 @@ Speaking on 21 July, the Posts and Telecommunications Minister said [rollout of 
 The central bank is preparing a register of a different kind. It announced on 14 August that it is [extending the 2010 movable-assets collateral registry to cover immovable property such as land, buildings and fixed machinery](https://elbcnews.com/2026/08/14/central-bank-of-liberia-prepares-to-launch-collateral-registry/), as part of a wider financial-sector reform. No launch date, registration volume, fee schedule or relationship to the land registry is stated.
 
 The collateral registry acquired users rather than another regulation. The central bank and the banking institute [trained 35 lenders on it, registration of security interests being mandatory, and named planned links to the national identity, land and traffic registries](https://frontpageafricaonline.com/liberias-new-collateral-registry-opens-credit-doors-for-smes-tightens-lending-controls/). The links are the interesting half and the unevidenced half: they are stated as planned, with no technical route, agreement or date, and no registration count has been published since launch.
+
+The credit reference arrangement is now in court. A private bureau licensed in November 2025 [sued the central bank for about US$1.2 million](https://frontpageafricaonline.com/liberia-prime-credit-sues-central-bank-demands-nearly-us1-2m-over-credit-bureau-dispute/), alleging it never received the historical loan data it needed and was later told the bank lacked clear authority to license private bureaux.
 <!-- /narrative -->
 ### Sectoral management information systems
 

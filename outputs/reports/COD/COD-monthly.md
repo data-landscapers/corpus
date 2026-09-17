@@ -1,11 +1,11 @@
 ---
 title: DR Congo — monthly update, August – September 2026
-compiled: 2026-09-16
-period: 2026-08-01 to 2026-09-16
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 place: COD
 ledger_rows: 77
 not_held: 6
-record: e04dae90b9cb
+record: 1c38bc8ea8c2
 ---
 
 # DR Congo: monthly update, August – September 2026
@@ -118,6 +118,8 @@ Identification in the window is a provincial operation rather than a national on
 Continentally, the laboratory system the country's current Ebola response runs on was assessed before the outbreak began. A multi-country study [covering 26 countries found every one with a functioning surveillance system and core diagnostic capacity and 3,964 laboratories mapped across fourteen, and named digital interoperability between laboratories and surveillance platforms — alongside specimen referral, workforce surge and domestic financing — as the weak points](https://aslm.org/inside-the-system-that-was-ready-how-years-of-quiet-investment-shaped-africas-ebola-response/), which is where the response has had to improvise. It is a reference study written up by its own author rather than a dated development here, and the repository holds no national laboratory-interoperability position to set against it.
 
 The identity pilot is hiring before it enrols: the ministry [retained 50 agents from more than 9,000 candidates, to start training on 15 September](https://www.digitalbusiness.africa/rdc-plus-de-9-000-candidats-au-test-de-recrutement-de-rdc-pass-50-retenus-pour-la-phase-pilote/).
+
+The national digital identity platform moved to enrolment: [its first 50 agents began training on 15 September](https://7sur7.cd/2026/09/16/rdc-pass-lancement-de-la-formation-des-50-premiers-agents-denregistrement), the minister stating that it is an authentication tool and not a national identity card.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 

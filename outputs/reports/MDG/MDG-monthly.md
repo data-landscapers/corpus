@@ -1,11 +1,11 @@
 ---
 title: Madagascar — monthly update, August – September 2026
-compiled: 2026-09-16
-period: 2026-08-01 to 2026-09-16
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 place: MDG
-ledger_rows: 32
+ledger_rows: 34
 not_held: 5
-record: ff803ea03fff
+record: 9ef3aa9fb0ac
 ---
 
 # Madagascar: monthly update, August – September 2026
@@ -69,6 +69,8 @@ On 3 August MVola's new director general [gave the first account of the platform
 <!-- narrative: dpi--dpi-registry -->
 
 The social registry [reached about 2.7 million households, nearly 12 million people, with eight districts added to the 20 already surveyed](https://newsmada.com/2026/09/10/protection-sociale-le-rsu-elargit-son-filet/).
+
+On National Identity Day a second phase of the Izaho Tokana 2.0 registration drive opened, answering [a 2025 survey finding that close to 20 per cent of children under five hold no birth certificate](https://midi-madagasikara.mg/etat-civil-le-projet-de-loif-en-renfort-d-izaho-tokana-2-0/). The same week [the first 124 cooperatives received biometric cards under a national cooperative census](https://midi-madagasikara.mg/societes-cooperatives-124-structures-dotees-de-cartes-biometriques-a-analamanga/).
 <!-- /narrative -->
 ### Sectoral management information systems
 

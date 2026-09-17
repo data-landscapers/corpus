@@ -1,11 +1,11 @@
 ---
 title: Equatorial Guinea — monthly update, August – September 2026
-compiled: 2026-09-16
-period: 2026-08-01 to 2026-09-16
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 place: GNQ
-ledger_rows: 30
+ledger_rows: 31
 not_held: 6
-record: 8bafa470d123
+record: e42e8c11b8c4
 ---
 
 # Equatorial Guinea: monthly update, August – September 2026
@@ -53,6 +53,8 @@ Two enforcement bodies agreed to exchange information rather than to publish any
 
 <!-- narrative: ict-infrastructure--infra-connect -->
 Satellite service reached the country. [The operator's own principal confirmed on 29 August that the service is available in Equatorial Guinea](https://realequatorialguinea.com/destacado/mundo/elon-musk-confirma-que-el-internet-satelital-de-starlink-ya-esta-disponible-en-guinea-ecuatorial/), after an authorisation earlier in the year that reached only North American companies operating on the high seas within jurisdictional waters. No licence text, tariff, subscriber route or regulator statement accompanies the confirmation, so the repository holds a claim of availability and not the terms it is available on.
+
+Access then narrowed for everyone else. Since 2 September [bandwidth has been throttled and Facebook and TikTok unreachable without a VPN](https://www.seneweb.com/fr/news/Afrique/guinee-equatoriale-coupure-de-facebook-et-tiktok_n_504430.html), after a viral video accusing the vice-president of corruption whose author was arrested; no order has been published and the information ministry did not answer questions.
 <!-- /narrative -->
 ### Data Storage
 

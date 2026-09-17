@@ -1,11 +1,11 @@
 ---
 title: Libya — monthly update, August – September 2026
-compiled: 2026-09-16
-period: 2026-08-01 to 2026-09-16
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 place: LBY
-ledger_rows: 51
+ledger_rows: 52
 not_held: 2
-record: 6120a0d49f83
+record: 89913e2fd7da
 ---
 
 # Libya: monthly update, August – September 2026
@@ -126,6 +126,8 @@ On 30 July the Libyan Export Development Authority reported [LD 79.5 million of 
 On 9 August the economy and trade minister [launched an Exhibitions and Conferences Platform in Tripoli](https://libyaherald.com/2026/08/minister-of-economy-launches-digital-platform-for-organising-exhibitions-and-conferences-in-libya), presented as the country's first official specialised system for the sector: electronic management of registration, participation and event logistics, and an integrated database of exhibitions, conferences, organisers, participants and visitors. As with the expert register and the export window, no supplier, cost, hosting arrangement or data-protection basis is stated.
 
 A complaints route was put behind the visa system. The citizen service centre and the passports authority [agreed a joint mechanism to receive and handle citizens' and residents' enquiries and complaints on the electronic visa, and to unify the communication channels between the agencies involved](https://ar.libyaobserver.ly/article/38605). No caseload, response standard or list of the channels being unified is published, so the mechanism is established and its capacity is not.
+
+Customs [met international contractors on 15 September to revive automated inspection and coastal monitoring contracts concluded earlier](https://libyaherald.com/2026/09/leading-international-companies-discuss-with-customs-authority-activating-automated-inspection-contracts-projects/) and never completed; no value, date or company list is published.
 <!-- /narrative -->
 
 ## Digitalisation

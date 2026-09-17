@@ -1,11 +1,11 @@
 ---
 title: Togo — monthly update, August – September 2026
-compiled: 2026-09-16
-period: 2026-08-01 to 2026-09-16
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 place: TGO
-ledger_rows: 55
+ledger_rows: 57
 not_held: 22
-record: f5dce8b5cf48
+record: 01f0c207a595
 ---
 
 # Togo: monthly update, August – September 2026
@@ -103,6 +103,8 @@ Payments moved on a deadline. Retirement allowances [began paying by bank transf
 Elsewhere a domestic financial-technology firm founded in 2024 [runs a single platform interconnecting bank transfers, mobile wallets and dollar stablecoins, exposing payment operations to autonomous software agents](https://www.wearetech.africa/fr/fils/tech-stars/le-togolais-esso-dong-djafalo-interconnecte-banques-mobile-money-et-cryptos), with no volume, licence or customer figure stated.
 
 Certified electronic invoicing is not yet running. The revenue office [briefed about 50 firms on 10 September on a gradual rollout](https://www.togofirst.com/en/economic-governance/1409-20049-togo-s-tax-authority-employers-discuss-certified-e-invoicing-reform), and standardised paper invoices stay valid until launch.
+
+Public transport is next: [digital tickets are piloting on the state bus operator's student routes, with network rollout planned by the end of 2026](https://www.togofirst.com/en/transport/1509-20068-after-student-pilot-togo-plans-wider-rollout-of-digital-bus-ticketing).
 <!-- /narrative -->
 ### Registries
 
@@ -115,6 +117,8 @@ The [second national birth-registration catch-up campaign opened at Agbandi on 3
 Togo put a [platform online centralising climate-risk data across agriculture, forestry, water resources, tourism and energy](https://www.togofirst.com/en/itc/2408-19852-togo-launches-platform-to-improve-climate-risk-monitoring). Drought and flood indicators are keyed by field agents and checked by sector and regional focal points before national consolidation, time-stamped to leave an audit trail; no launch date is given. The modules for a [National Malaria Data Repository were approved](https://www.togofirst.com/en/health/2608-19870-togo-launches-digital-platform-to-improve-malaria-response) after a training-of-trainers workshop, with no go-live date or facility coverage stated.
 
 Both sit on a system the repository can now describe: [DHIS2 has been the health ministry's platform since 2016](https://dhis2.org/climate/country-profiles/togo/) and is the national repository. The chain into it still begins on paper at the facility.
+
+An agricultural information system changed hands: [SIHAM, which sends forecasts, prices and input availability to farmers free by SMS, was handed to the national farmers' organisation to run on 15 September](https://www.togofirst.com/en/agriculture/1609-20075-togo-rolls-out-siham-to-improve-farmers-access-to-agricultural-information).
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 

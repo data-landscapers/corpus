@@ -1,11 +1,11 @@
 ---
 title: Burkina Faso — monthly update, August – September 2026
-compiled: 2026-09-16
-period: 2026-08-01 to 2026-09-16
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 place: BFA
-ledger_rows: 40
+ledger_rows: 41
 not_held: 8
-record: bfa772a0150b
+record: ffa301dc612c
 ---
 
 # Burkina Faso: monthly update, August – September 2026
@@ -127,6 +127,8 @@ The health ministry's accreditation portal, launched on 7 August, arrived with t
 The automated traffic system's first month is measured, and the gap is collection. [19,910 offences were recorded between 1 and 31 August 2026, generating CFA146.559m in fines, of which CFA16.1m had been recovered at the review of 4 September](https://www.agenceecofin.com/actualites-numerique/0709-141342-burkina-faso-260-000-d-amendes-generes-par-la-video-verbalisation-en-un-mois). The state's answer is a body rather than a system: a [motorised police brigade created on 2 September specifically to trace drivers who evade the camera-issued fines](https://burkina24.com/2026/09/03/securite-routiere-a-ouagadougou-naissance-de-la-bricir-pour-en-finir-avec-lincivisme-sur-les-routes/). Barely a ninth of the month's fines were collected, and no appeal, error or contested-notice figure is published — which is what a reader would need to tell non-payment from wrongly-issued notices.
 
 Electronic signature is to enter administrative procedures: the ministry [set its official launch for 15 September](https://www.wearetech.africa/fr/fils/actualites/tech/burkina-faso-l-administration-passe-a-la-signature-electronique). The same day the modernisation council [heard the Prime Minister name weak citizen uptake of the digital service platforms as a persistent shortcoming](https://www.sidwaya.info/%f0%9d%90%8c%f0%9d%90%a8%f0%9d%90%9d%f0%9d%90%9e%f0%9d%90%ab%f0%9d%90%a7%f0%9d%90%a2%f0%9d%90%ac%f0%9d%90%9a%f0%9d%90%ad%f0%9d%90%a2%f0%9d%90%a8%f0%9d%90%a7-%f0%9d%90%9d%f0%9d%90%9e-%f0%9d%90%a5/), without a figure for it.
+
+Electronic signature arrived on its announced date. [FasoSign was launched on 15 September already integrated into the mission-order, administrative-mail and cadastre platforms](https://libreinfo.net/burkina-ladministration-publique-entre-dans-lere-de-la-signature-electronique-avec-fasosign/), its keys and certificates presented as held by the state itself; no signature count or adoption list is published.
 <!-- /narrative -->
 
 ## Digitalisation
@@ -150,6 +152,14 @@ Asked in plenary where artificial intelligence sat in the new data-protection la
 
 <!-- narrative: technology--tech-innovate -->
 The first Sahel Tech Innovation Challenge closed in Ouagadougou, taking 600 submitted projects from 23 African countries down to 100, then 60, then 10 finalists. First prize went to a [Burkinabe agricultural artificial-intelligence tool built to work in national languages](https://www.aib.media/stic26-des-burkinabe-decrochent-le-premier-prix-avec-leur-ia-agricole-integrant-les-langues-nationales-terra-ai/). No prize value, follow-on funding or second edition is announced.
+<!-- /narrative -->
+
+## Capacity
+
+### Training and skills
+
+<!-- narrative: capacity--capacity-training -->
+The one training development in the window is small and specific. An association of blind and partially sighted students [closed its fifth adapted computing course on 11 September, having trained 70 visually impaired pupils and students](https://www.sidwaya.info/formation-en-informatique-70-eleves-et-etudiants-en-situation-de-handicap-visuel-outilles/) from first computer use to e-mail and AI, and its president said they have no computers to practise on afterwards.
 <!-- /narrative -->
 
 ## Data

@@ -1,11 +1,11 @@
 ---
 title: Namibia — monthly update, August – September 2026
-compiled: 2026-09-16
-period: 2026-08-01 to 2026-09-16
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 place: NAM
 ledger_rows: 47
 not_held: 11
-record: 5cddca96c7e4
+record: fb2cb5af23b5
 ---
 
 # Namibia: monthly update, August – September 2026

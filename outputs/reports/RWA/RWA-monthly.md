@@ -1,11 +1,11 @@
 ---
 title: Rwanda — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 place: RWA
-ledger_rows: 50
+ledger_rows: 51
 not_held: 9
-record: d823c2d700f0
+record: a6f07a389974
 ---
 
 # Rwanda: monthly update, August – September 2026
@@ -114,6 +114,8 @@ Effective 14 July the central bank [designated one rail as the national instant 
 The layer the rail does not touch moved the other way. Regulator statistics for the first quarter of 2026, reported on 31 July, [put the second operator's share of the mobile-money market at 14.3% against 16.9% a year earlier, and its active agents at 48,847 against 53,316](https://taarifa.rw/2026/07/31/ekash-was-designed-to-bridge-the-digital-divide-but-airtel-moneys-struggles-risk-leaving-rural-users-behind/) — a contraction in the cash-in and cash-out network on which rural households depend, over exactly the period interoperability was meant to help.
 
 The central bank put the gap on its own record: [85.3% of Rwandans hold a digital account and 92% still pay mainly in cash](https://www.ktpress.rw/2026/09/central-bank-takes-aim-at-cash-as-92-still-rely-on-it/), and it launched a national campaign touring the districts to close it, with no target published.
+
+The online VAT order's own deadline has passed unmet: the revenue authority was to have a supplier registration portal in place by 29 July, and [a tax adviser recorded on 15 September that it is not yet in place](https://www.newtimes.co.rw/article/38960/opinions/rwandas-online-vat-regime-raises-compliance-questions-early), while unregistered suppliers already accrue penalties.
 <!-- /narrative -->
 ### Registries
 

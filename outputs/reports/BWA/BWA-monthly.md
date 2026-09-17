@@ -1,11 +1,11 @@
 ---
 title: Botswana — monthly update, August – September 2026
-compiled: 2026-09-16
-period: 2026-08-01 to 2026-09-16
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 place: BWA
-ledger_rows: 35
+ledger_rows: 36
 not_held: 8
-record: 85bc144c0c92
+record: 12676c523a49
 ---
 
 # Botswana: monthly update, August – September 2026
@@ -87,6 +87,8 @@ The credential's problem this month is forgery rather than production. The labou
 
 <!-- narrative: dpi--dpi-pay -->
 The month's three payments developments are all commercial and narrow. A commercial bank and the Yellow Light Taxi Association [launched card acceptance on the bank's mobile tap product for taxi operators in Gaborone on 9 August](https://businessweekly.co.bw/companies-markets/absa-opens-new-financing-cashless-payment-opportunities-for-taxi-operators), with access to business loans of up to P60,000 conditioned on the formal banking history the operators build through it. It is one bank and one association; no operator count, uptake figure or fee schedule is stated, and the credit on offer is tied to banking with the institution providing the terminal. Nine days later a remittance operator [issued a card on its wallet through a commercial bank and an international scheme](https://techafricanews.com/2026/08/18/mukuru-launches-card-in-botswana-with-access-bank-and-visa/), adding ATM withdrawal, in-store payment and domestic online purchase to a wallet that carried transfer and cash-out only. The operator's own account of the Companion Card puts the point of it plainly: [no separate bank account is required and the card works across every mobile network in the country, against an estimated 38 per cent of adults unbanked](https://www.connectingafrica.com/fintech/mukuru-launches-mobile-wallet-linked-visa-card-in-botswana). Here too there is no customer count, issuance volume or fee schedule on the record. A commercial bank and an international card scheme then [opened online acceptance of that scheme's cards to participating merchants in nine African markets including Botswana on 19 August](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/), settling in local currency, US dollars or both; the merchant count is given for the nine markets together and not for Botswana. The national payment switch and the citizen wallet both remain at Planned.
+
+A fourth came with a bank's annual results: FNBB [said its eWallet will send funds directly into all three mobile-money platforms](https://www.mmegi.bw/business/fnbb-muscles-into-mobile-money-race/news), with no start date or fee published.
 <!-- /narrative -->
 ### Registries
 

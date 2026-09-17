@@ -1,11 +1,11 @@
 ---
 title: Mozambique — monthly update, August – September 2026
-compiled: 2026-09-16
-period: 2026-08-01 to 2026-09-16
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 place: MOZ
-ledger_rows: 73
+ledger_rows: 74
 not_held: 19
-record: f536f682f826
+record: cd438a81d8da
 ---
 
 # Mozambique: monthly update, August – September 2026
@@ -43,6 +43,8 @@ A new Telecommunications and Scarce Resources Licensing Regulation, adopted by d
 The regulator's own account of the new licensing regulation is now held, settling the instrument the earlier report named without citing: [Decree 36/2026 on the licensing of telecommunications and scarce resources](https://www.incm.gov.mz/2026/08/21/licenciamento_telecomunicacoes_recursos_escassos/).
 
 Two instruments moved on the same week, one drafting and one made. The labour ministry and the ICT institute [met on 27 August on a targeted Labour Law revision to cover work carried out through digital platforms, with classification of the employment relationship, identifying the employer behind a platform, inspection and algorithmic transparency named as the open questions](https://clubofmozambique.com/news/mozambique-labour-law-review-debates-protection-of-digital-platform-workers-intic/) and no draft text or timetable stated. The Press and Media Law was [gazetted as Law 3/2026 of 26 May, revoking the law in force since 1991](https://cibercidadaos.org.mz/wp-content/uploads/2026/06/BR_98_I_SERIE_2.o-SUPLEMENTO_2026.pdf) and [presented publicly from 28 August for entry into force in December, bringing online-only publications inside the media framework and capping direct and indirect foreign capital in a media organisation at 35 per cent](https://clubofmozambique.com/news/mozambiques-press-and-media-law-caps-foreign-ownership-at-35/); the same supplement of the gazette carries Law 4/2026 on broadcasting and Law 5/2026 on the media council.
+
+On 15 September the Council of Ministers [approved a Postal Security Regulation](https://mznews.co.mz/governo-aprova-vovo-regulamento-para-reforcar-a-seguranca-postal-e-proteger-o-comercio-electronico/) setting controls against fraud, theft and cyber threats to the postal network as e-commerce parcels grow; its text is not held.
 <!-- /narrative -->
 ### Data protection
 
