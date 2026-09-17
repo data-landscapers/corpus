@@ -95,6 +95,28 @@ TERMS = [
 # three or four first-person hits per status document, every one of them a citation.
 FIRST_PERSON = re.compile(r"(?<![\w'’.])(I|us)(?![\w'’])")
 
+# **A capital `I` is more often a Roman numeral than a pronoun in this estate**, and the same
+# argument the case-sensitivity comment above makes applies to it: on 2026-09-17 every one of the
+# 22 first-person hits across the 54 baselines was a citation — `Diário da República I Série`,
+# `Parts I to VI`, `Book I of the Code`, `Phase I`, the quarter of Cameroon called `Limbe I`, and
+# `I-CEMAC` — and not one was a pronoun. Two shapes carry all of them. A numeral follows the thing
+# it enumerates, so an `I` after a capitalised word is a numeral; markdown and quotation marks are
+# stripped first because a citation usually opens a link. And `I-` before a capital is a name, not
+# a sentence. A pronoun does neither: it follows a lower-case word, a comma or an opening quote.
+ROMAN_I_AFTER = re.compile(r"[\[\(\"'“‘«]*([A-ZÀ-Þ])[\w'’.À-ɏ-]*\s+$")
+NAME_I_BEFORE = re.compile(r"^-[A-Z]")
+
+
+def first_person_hits(block):
+    """FIRST_PERSON matches with the Roman-numeral and hyphenated-name citations filtered out."""
+    for m in FIRST_PERSON.finditer(block):
+        if m.group(0) == "I":
+            if ROMAN_I_AFTER.search(block[:m.start()]):
+                continue
+            if NAME_I_BEFORE.match(block[m.end():]):
+                continue
+        yield m
+
 
 BUDGET_LINE = re.compile(r"([\d,]+)\s*[–-]\s*([\d,]+)(?: words)? for an? (status|monthly|progress)")
 
@@ -426,7 +448,7 @@ def check_indicators_file(path, bands):
                 for pat in patterns:
                     for mm in re.finditer(pat, block, re.I if icase else 0):
                         hits.append((line, f"{iid}/{field}", label, mm.group(0)))
-            for mm in FIRST_PERSON.finditer(block):
+            for mm in first_person_hits(block):
                 hits.append((line, f"{iid}/{field}", "first person", mm.group(0)))
             bare = unprovenanced_slug(raw)
             if bare:
@@ -469,7 +491,7 @@ def check_file(path, budget, authored=False):
             for pat in patterns:
                 for m in re.finditer(pat, block, re.I if icase else 0):
                     hits.append((line_of(text, start + m.start()), label, m.group(0)))
-        for m in FIRST_PERSON.finditer(block):
+        for m in first_person_hits(block):
             hits.append((line_of(text, start + m.start()), "first person", m.group(0)))
     for m in re.finditer(r"^## Comment\s*$", text, re.M):
         hits.append((line_of(text, m.start()), "comment section",
