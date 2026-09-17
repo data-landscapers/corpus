@@ -1,11 +1,11 @@
 ---
 title: Nigeria — monthly update, August – September 2026
-compiled: 2026-09-16
-period: 2026-08-01 to 2026-09-16
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 place: NGA
 ledger_rows: 196
 not_held: 9
-record: f5efa51a3b09
+record: 494e9d38d92b
 ---
 
 # Nigeria: monthly update, August – September 2026
@@ -192,6 +192,8 @@ The identity count was split in two on 7 September, and the halves do not agree 
 The same report rates the project [Moderately Satisfactory on both progress and implementation at Substantial overall risk, with the system-integrator contract for the modular open-source rebuild awarded and an implementation period of about eighteen months](https://documents1.worldbank.org/curated/en/099081126161526352/pdf/P167183-e7cea03a-8864-4dd8-984f-cca80474fd7c.pdf).
 
 A second use for election hardware was floated rather than agreed: the admissions board [asked the electoral commission for biometric verification machines that sit idle between elections, and the commission ordered a proof of concept on whether they are fit for it](https://von.gov.ng/jamb-inec-seek-collaboration-on-use-of-biometric-technology/). No device count, transfer basis or data-protection assessment is published, and the two registers rest on separate legal bases.
+
+The government then set itself a nearer deadline: [95 per cent identity number coverage by December 2026](https://www.thisdaylive.com/2026/09/16/fg-sets-december-deadline-for-95-nin-coverage/), announced on 16 September with the database put at nearly 140 million, a figure above the 117.5 million issued numbers the lender recorded for June.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -226,7 +228,7 @@ On the cross-border rail the operator reported [Nigeria–Rwanda volumes approac
 <!-- narrative: dpi--dpi-registry -->
 [Civil registration](https://www.nigeriacommunicationsweek.com.ng/npc-opens-nationwide-digital-birth-death-registration-platform/) went nationwide from 1 July on a platform run as a public-private partnership, a private contractor carrying availability and security duties over the register of births and deaths.
 
-The electoral roll got its own numbers on 8 September. The commission said the register was [approaching 100 million ahead of the 2027 general elections, on 10,772,421 new registrants in the latest continuous registration exercise, with a real-time election readiness tracker to be deployed across the 36 states and the federal capital territory](https://www.vanguardngr.com/2026/09/2027-polls-voter-register-nears-100m-inec/). The totals are its own; no register audit, duplicate rate or link to the national identity number accompanies them, and the devices that read the roll failed at a state election three weeks earlier.
+The electoral roll got its own numbers on 8 September. The commission said the register was [approaching 100 million ahead of the 2027 general elections, on 10,772,421 new registrants in the latest continuous registration exercise, with a real-time election readiness tracker to be deployed across the 36 states and the federal capital territory](https://www.vanguardngr.com/2026/09/2027-polls-voter-register-nears-100m-inec/). The totals are its own and no register audit or duplicate rate accompanies them, though on 15 September the commission told an African Union mission it [has integrated national identity numbers into cleaning the register](https://thecabal.ng/inec-integrates-nin-to-clean-national-voter-register-ahead-2027-polls/); and the devices that read the roll failed at a state election three weeks earlier.
 
 A second register was put on the same path, without a date. The maritime administration says it is [moving towards full automation of the Nigerian ship registry so that operators can register and transact remotely, including payment, without attending its offices](https://von.gov.ng/nimasa-embraces-digitisation-to-end-operational-delays/), framed as part of reforms to remove human contact, block revenue leakages and cut delays. It is a statement of direction: no date, cost or vendor accompanies it.
 
@@ -324,6 +326,8 @@ Away from the campuses, German cooperation [opened a tender on 4 August for the 
 The accessibility requirement is not reaching the platforms it binds. [None of eight public websites audited in May 2026, among them the admissions board, the identity commission, the revenue service and the disability commission itself, had implemented baseline accessibility features; an earlier assessment of all 36 states and the Federal Capital Territory found 26 non-compliant with the technology agency's website guidelines and 14 sites unusable for people with disabilities; and the Nigeria Web Design Standards, launched in July 2025 with a toolkit promised within eight to ten weeks, had published none by August 2026 with no evidence of Federal Executive Council approval or of implementation](https://techcabal.com/2026/08/31/nigeria-wants-assistive-tech-who-is-fixing-its-inaccessible-digital-platforms/). The commission's own estimate is [35 million Nigerians with disabilities](https://techcabal.com/2026/08/31/nigeria-wants-assistive-tech-who-is-fixing-its-inaccessible-digital-platforms/).
 
 Zero-rated education access moved from consultation to a start date. At the 10 September launch [the education minister set 1 October 2026 for about five million students to receive 100MB a day on approved educational platforms](https://newstimes.com.ng/2026/09/ncc-launches-zero-rated-access-to-educational-platforms/), [public senior secondary and tertiary students first, through participating mobile operators](https://www.thepointng.com/reactions-as-fg-plans-daily-free-data-for-nigerian-students/). No approved-platform list or funding arrangement is published, and the minister's own caution that zero rating should not open every platform calling itself educational leaves the whitelist the open question.
+
+A wider sample gave a less bleak figure: [47% of about 30 government digital platforms met an accessibility threshold](https://www.itweb.africa/article/nigerian-govt-platforms-fail-access-test/KA3Ww7dzPjkqrydZ) in an assessment presented to the technology agency, which said it is considering national accessibility standards.
 <!-- /narrative -->
 ### Digital divides
 

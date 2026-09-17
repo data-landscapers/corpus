@@ -1,11 +1,11 @@
 ---
 title: South Africa — monthly update, August – September 2026
-compiled: 2026-09-16
-period: 2026-08-01 to 2026-09-16
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 place: ZAF
-ledger_rows: 162
+ledger_rows: 163
 not_held: 23
-record: f675b578e8f1
+record: 98d1a7a1ceed
 ---
 
 # South Africa: monthly update, August – September 2026
@@ -50,6 +50,8 @@ The data-protection statute has been enforceable since 2021 and operates as an a
 
 
 The supervisor said plainly what it cannot do. At a webinar on 18 August the regulator [said it has no capability to test external systems for privacy compliance before launch, and is working with the justice department to amend the Act to cover artificial intelligence and privacy by design](https://www.timeslive.co.za/news/south-africa/2026-08-18-sahrc-sounds-alarm-over-misuse-of-personal-information-in-digital-age/), while the rights commission reframed misuse of personal information as a constitutional harm bearing on dignity, equality and access to services rather than a cybersecurity one. A peer-reviewed review published four days earlier [records South Africa among three of four countries studied that have not signed the continental data convention, and finds all four health-data governance frameworks fragmented](https://datascience.codata.org/articles/10.5334/dsj-2026-031).
+
+A supplier breach reached a whole sector. An extortion attack on an insurance-technology provider, detected on 14 June and notified to the regulator two days later, [exposed personal information linked to customers of about 45 insurers](https://www.itweb.co.za/article/hollard-rejects-hacking-claim-points-to-mip-cyber-breach/Pero37Z36boMQb6m); one insurer said on 16 September that a ransomware group's claim against it traced to that incident.
 <!-- /narrative -->
 ### Regional collaboration
 

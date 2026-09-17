@@ -1,11 +1,11 @@
 ---
 title: Gabon — monthly update, August – September 2026
-compiled: 2026-09-16
-period: 2026-08-01 to 2026-09-16
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 place: GAB
-ledger_rows: 50
+ledger_rows: 53
 not_held: 18
-record: 9c8ec367f246
+record: 55e66cec0a91
 ---
 
 # Gabon: monthly update, August – September 2026
@@ -70,6 +70,11 @@ The national internet exchange point opened a reboot workshop at Libreville on 3
 
 The backbone is moving to a partnership. The state infrastructure holding company and a private operator [validated a PPP over 3,420km of national backbone, 1,769km already built and 1,651km planned, with signature set for 14 September](https://techafricanews.com/2026/09/11/gabon-national-backbone-3420km-network-project/). No capital or open-access terms are published.
 <!-- /narrative -->
+### Data Storage
+
+<!-- narrative: ict-infrastructure--infra-store -->
+Chinese interest in state hosting became a site visit. A Chinese government delegation, following an earlier Huawei mission, [inspected the postal company's and Gabon Telecom's infrastructure on 15 September with an AI data centre for public administration applications in view](https://www.gabonreview.com/administration-publique-vers-un-data-center-ia-made-in-gabon-avec-la-chine/); the postal site has six blocks able to host more than 300 servers. No agreement, financing or timetable is on record.
+<!-- /narrative -->
 ### Cybersecurity
 
 <!-- narrative: ict-infrastructure--infra-cybersec -->
@@ -100,6 +105,8 @@ A bus fare is about to become a biometric credential. The national transport com
 A domestic commentary put the governance question on transport digitalisation in public: it places the [digitalisation of transport titles and documents among the state's modernisation projects and asks who governs it and whether local suppliers are used](https://gabonactu.com/blog/2026/09/07/digitalisation-des-titres-et-actes-de-transport-au-gabon-entre-gouvernance-numerique-et-valorisation-de-la-competence-locale/). It is an opinion piece rather than a programme document — no contracting authority, supplier, scope, cost or timetable is on the record — which is why it reaches this report as the only account of a project the state has not described.
 
 The beneficiary file behind the social register's intended base is unreliable: the Court of Accounts [found about 120,000 of the roughly one million people on the economically weak persons' health fund file improperly registered](https://union.sonapresse.com/fr/cnamgs-120-000-beneficiaires-indument-enregistres).
+
+Three ministers [met SNEDAI Groupe on 14 September on digitalising land tenure and civil registration](https://agpgabon.ga/gabon-digitalisation-le-gouvernement-echange-avec-le-snedai/), the company offering prefinancing; administrations were asked to name focal points, and no contract is held.
 <!-- /narrative -->
 ### Sectoral management information systems
 
@@ -136,6 +143,8 @@ The open-innovation programme was launched on 14 July 2026 with the employers' f
 On 4 July, at the data-centre inauguration, the ministry and the facility's operator signed a memorandum giving ministry-supported start-ups professional hosting at preferential rates ([account](https://www.wearetech.africa/en/fils-uk/news/tech/gabon-launches-14-million-tier-iii-data-center-in-digital-sovereignty-push)). No rate, eligibility list or take-up figure has been published.
 
 The state digital incubator was not closed after all. It [has been placed under interim management, a deputy director general of the state holding that owns 30 per cent of its capital taking the post pending a new model, with a state takeover, conversion to a parapublic entity, absorption into the national innovation centre or supervision by the holding all under discussion](https://union.sonapresse.com/fr/sing-une-restructuration-en-vue-apres-le-depart-du-directeur-general); the digital economy ministry is to decide.
+
+The national innovation centre and UNDP [signed on 15 September to open the TechSpace Masuku incubator at the science and technology university](https://agpgabon.ga/gabon-numerique-cgi-et-pnud-scellent-un-partenariat-en-faveur-de-linnovation-a-lustm/), aiming to train more than 300 young people; no value is stated.
 <!-- /narrative -->
 
 ## Capacity

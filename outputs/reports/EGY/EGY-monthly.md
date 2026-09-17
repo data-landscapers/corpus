@@ -1,11 +1,11 @@
 ---
 title: Egypt — monthly update, August – September 2026
-compiled: 2026-09-16
-period: 2026-08-01 to 2026-09-16
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 place: EGY
-ledger_rows: 105
+ledger_rows: 106
 not_held: 48
-record: 45640b9d8844
+record: a639956cb441
 ---
 
 # Egypt: monthly update, August – September 2026
@@ -187,6 +187,8 @@ Egypt [led the continent in the first half of 2026 with US$327m raised, US$183m 
 
 <!-- narrative: capacity--capacity-literacy -->
 Devices were announced rather than delivered. As the school year opened, the education minister [put free tablets at about 700,000 secondary students a year with an extension to technical education, above 1.2 million devices announced in total](https://egyptwindow.net/article/4906806), a figure set in the same account against connection costs and teacher readiness. No count of devices delivered or in use is published.
+
+The communications ministry [signed a three-year memorandum with Intel on 16 September to train one million citizens a year in AI](https://english.ahram.org.eg/News/576790.aspx) and certify 500 trainers a year; no cost is stated.
 <!-- /narrative -->
 ### Training and skills
 

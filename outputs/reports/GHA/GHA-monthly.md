@@ -1,11 +1,11 @@
 ---
 title: Ghana — monthly update, August – September 2026
-compiled: 2026-09-16
-period: 2026-08-01 to 2026-09-16
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 place: GHA
-ledger_rows: 128
+ledger_rows: 132
 not_held: 9
-record: 662da1e07a5e
+record: c2106e4d5e25
 ---
 
 # Ghana: monthly update, August – September 2026
@@ -171,6 +171,8 @@ Two registries entered the repository this month as standing descriptions rather
 Nothing published with either gives a register size, a coverage rate or a public-sector consumer, which is the figure each would need before it could be said to be working.
 
 A third registry arrived as a private product reading public records. [Marrify launched in Accra on 28 August, letting users search and verify registered marriage and divorce records drawn from the registrar-general's department, the courts, district assemblies and the Gazette](https://itweb.africa/article/ghana-launches-digital-marriage-records-platform/VgZeyqJlpyX7djX9), presented by the gender ministry as answering the need for reliable information before people marry. No data-sharing agreement, fee schedule, coverage figure or record count is published, so what is established is that the records are searchable, not that they are complete.
+
+The household registry published its national total: [11.24 million people in 2,906,288 households across all 16 regions, 508,870 households classed extremely poor](https://www.myjoyonline.com/ghanas-household-registry-now-profiles-11-24-million-people-for-social-protection-targeting/), the base for cash-grant targeting as that programme's ceiling rises to 450,000 households.
 <!-- /narrative -->
 ### Sectoral management information systems
 
@@ -198,6 +200,8 @@ Two systems moved in opposite directions in the same week. The online passport a
 <!-- narrative: digitalisation--digital-localgov -->
 
 Local government has gone in one month from a reform strategy's integration target to a signed programme covering every assembly in the country. The Office of the Head of the Local Government Service [signed a memorandum on 3 September with a Ghanaian networks company to turn all 261 metropolitan, municipal and district assemblies into what both parties call smart assemblies, spanning waste management, public safety, education, healthcare, environmental monitoring and citizen engagement](https://kumasimail.com/ohlgs-celltel-seal-deal-to-turn-261-assemblies-in-ghana-into-smart-communities/). No contract value, financing structure or timeline is stated, which is the whole of what would make it testable. Separately a governance organisation [launched a citizen-reporting platform in South Tongu District that routes service-delivery complaints to the assembly and keeps the reporting citizen informed until resolution](https://gna.org.gh/2026/09/ghana-governance-africa-launches-digital-platform-to-deepen-participation-in-local-governance/) - a civil-society instrument in one district, not an assembly system.
+
+Assembly business is to be put on air: the local government ministry [announced live nationwide broadcasts of assembly general meetings and town halls](https://www.graphic.com.gh/news/general-news/local-government-ministry-to-roll-out-live-broadcasts-of-assembly-meetings-nationwide.html) with the civic education commission and the state broadcaster, with no start date.
 <!-- /narrative -->
 ### Rural digital data capture
 
@@ -219,6 +223,8 @@ Applications opened on 1 July for an applied artificial-intelligence lab in Accr
 The external assessment of readiness arrived on 7 September. Ghana is [one of 77 countries to have run UNESCO's readiness assessment methodology, under an EU-funded project on implementing the ethics recommendation](https://www.unesco.org/en/articles/ai-readiness-assessment-methodology-ghana), and the draft findings presented at consultation stated that the country lacks binding AI-specific regulation and comprehensive data governance frameworks. The report also puts a third dating on the national strategy — 2023-2033, approved 24 April 2026 — against the held text titled 2025-2035 and dated December 2025 and a [ministerial statement placing Cabinet approval in the week before 26 February 2026](https://www.citinewsroom.com/2026/02/ghanas-national-ai-strategy-secures-cabinet-approval-sam-george/). None of the three is reconciled.
 
 Two applied systems launched outside government. The development bank's [AI platform gives farmers agronomic guidance and loan officers portfolio intelligence on a messaging app, after a pilot of more than 8,500 queries in three months](https://gna.org.gh/2026/09/dbg-partners-launch-ai-platform-to-transform-agricultural-financing/), and a non-profit with the dominant operator [opened a toll-free voice line answering in six languages, an AI system included, for callers without data](https://www.ghanamma.com/2026/09/10/viamo-launches-231-voice-platform-in-ghana-creating-a-new-national-channel-for-inclusive-communication-and-offline-ai/).
+
+Two automated systems reported. The police [set 1 October 2026 for full automated traffic enforcement](https://www.graphic.com.gh/news/general-news/police-to-enforce-automated-traffic-offences-from-october-1.html), with camera-captured offences reviewed before notices go out by SMS and fines paid through Ghana.gov within 14 days, after a pilot that issued about 120,000 caution notices. The revenue authority [put customs collections at up to US$450m a month against about US$350m before its AI valuation system](https://www.myjoyonline.com/customs-revenue-jumps-to-450m-monthly-since-ai-introduction/), its own figure and higher than the finance ministry's monthly series.
 <!-- /narrative -->
 ### ICT Industry
 
@@ -249,6 +255,8 @@ Training capacity was the month's activity, and it reached the degree itself: th
 The coders programme published its funnel rather than a headline for the first time: [141,954 registered accounts, 27,782 admitted learners and 5,812 logged course completions as at 2 August 2026, cybersecurity the largest track at 8,570](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/), with 30,444 admitted through one commercial platform, 10,143 through a second and 24,394 learners self-paced. Registration is not admission and admission is not completion, and it is the ratio between them rather than any one number that measures the programme against its target of a million.
 
 The coders programme is to reach first-year degrees: the minister [said 12 universities have signed memoranda to carry its courses in Level 100](https://www.myjoyonline.com/digital-skills-training-producing-solution-driven-youth-for-ghanas-future-sam-george/).
+
+The coders programme's registrations [stood at 141,954 accounts in August](https://www.graphic.com.gh/news/general-news/ghana-news-one-million-coders-programme-enrols-141-954.html), with the minister putting its signed university memoranda at twelve.
 <!-- /narrative -->
 ### Research institutions
 
@@ -289,6 +297,8 @@ The statistical service [published the third wave of its six-monthly governance 
 
 <!-- narrative: data--data-open -->
 The one open-data movement in the window is a system that exists and a commitment that cannot pay for it. The fisheries ministry and the national multi-stakeholder group built an online Fisheries Information System, launched at an ocean conference in June 2026, but [inadequate funding is constraining the 2024 Fisheries Transparency Initiative commitment it sits under](https://gna.org.gh/2026/08/funding-constraints-threaten-ghanas-fisheries-transparency-agenda/), with the minister pointing to part of a goods-and-services allocation and to unconcluded talks with Norway on reviving a development funding mechanism. A published system with no secured budget behind the disclosure regime is the familiar shape here, and the national open-data instrument remains **Not held**.
+
+An air-quality system reached testing: [a national air quality data hub built at a university laboratory went through utility testing with the environmental agency](https://www.myjoyonline.com/knust-epa-test-national-air-quality-data-hub-ahead-of-ghana-rollout/), which is to own it once a sustainability plan is agreed.
 <!-- /narrative -->
 ### Use of satellite data
 

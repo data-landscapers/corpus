@@ -1,11 +1,11 @@
 ---
 title: Eswatini — monthly update, August – September 2026
-compiled: 2026-09-16
-period: 2026-08-01 to 2026-09-16
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 place: SWZ
-ledger_rows: 41
-not_held: 4
-record: f56d23a8bdec
+ledger_rows: 43
+not_held: 3
+record: f70fefc4fc75
 ---
 
 # Eswatini: monthly update, August – September 2026
@@ -86,6 +86,8 @@ Government applications got somewhere to be tested. Eswatini [opened a Governmen
 
 <!-- narrative: dpi--dpi-id -->
 The home affairs ministry [asked citizens to check that the chief code on their identity documents matches their actual chiefdom](https://eswatinipositivenews.online/home-affairs-ministry-urges-emaswati-to-verify-chief-codes-2/), warning that an incorrect code creates difficulty in reaching government services. Six months after card production resumed from a technical suspension, the maintenance question has moved from the machine to the record.
+
+The system itself went down on 16 September: [a network blackout halted identity card and passport processing at Home Affairs in Mbabane and at postal counters](https://times.co.sz/43838/news/network-blackout-strikes-home-affairs-eptc/), with no restoration time and no offline procedure.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -124,7 +126,7 @@ Rural data collection got hardware rather than a system. The agriculture ministr
 ### AI
 
 <!-- narrative: technology--tech-ai -->
-Eswatini's second instrument to carry AI rules arrived in the month, and like the first it is not an AI instrument: the [Online Media Publishing Guidelines 2026 bind registered publishers to the responsible use of AI](https://times.co.sz/40740/news/new-regulations-to-crack-whip-on-online-media/), enforced through the registration requirement they create. There is still no national AI strategy or statute behind either.
+Eswatini's second instrument to carry AI rules arrived in the month, and like the first it is not an AI instrument: the [Online Media Publishing Guidelines 2026 bind registered publishers to the responsible use of AI](https://times.co.sz/40740/news/new-regulations-to-crack-whip-on-online-media/), enforced through the registration requirement they create. No national AI strategy or statute stands behind either, though on 16 September the ICT minister said [a consultant has been engaged to draft a strategy](https://eswatinipositivenews.online/eswatini-seeks-responsible-ai-use-through-national-strategy/).
 
 On 6 July the prime minister told the [Global Dialogue on AI Governance in Geneva that small and developing nations should not become mere consumers of technologies developed elsewhere](https://independentnews.co.sz/45686/business/eswatini-champions-human-centred-ai-and-how-to-guide-its-transformation-responsibly/), an address the National 4IR Strategy frames.
 
@@ -153,6 +155,8 @@ Three days earlier [about 150 delegates — industry leaders, entrepreneurs, pol
 At the Macetjeni handover the ICT ministry's principal secretary said [AI, robotics, coding and cybersecurity courses would follow](https://independentnews.co.sz/47100/business/ai-robotics-training-coming-to-innovation-hubs/) at the innovation hubs.
 
 The hub itself opened on 6 August at Macetjeni in the Lubombo Region, [the second of its kind, backed by the development programme with the communications regulator and the small-enterprise development company and aimed at young people, women and people with disabilities](https://www.undp.org/eswatini/news/macetjeni-ihub-opens-expand-digital-opportunities). It opens against [an internet-usage rate of 58% and youth unemployment of 56%](https://www.undp.org/eswatini/news/macetjeni-ihub-opens-expand-digital-opportunities). No intake target, running cost or funding term is published, so what a second hub is expected to change cannot be read from the account.
+
+In schools, the education minister [set out more than 1,140 computers donated by Taiwan to 49 schools and 40 interactive screens installed in five schools per region, with 106 more schools to follow](https://independentnews.co.sz/48373/news/technology-devices-take-schools-into-digital-era-handsome/), and a US$4.75 million Global Partnership grant whose terms were not given.
 <!-- /narrative -->
 
 ## Inclusion

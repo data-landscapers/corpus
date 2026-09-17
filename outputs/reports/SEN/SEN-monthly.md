@@ -1,11 +1,11 @@
 ---
 title: Senegal — monthly update, August – September 2026
-compiled: 2026-09-14
-period: 2026-08-01 to 2026-09-14
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 place: SEN
-ledger_rows: 61
-not_held: 5
-record: 3e0db3a5e9da
+ledger_rows: 62
+not_held: 4
+record: 621080344d0a
 ---
 
 # Senegal: monthly update, August – September 2026
@@ -77,6 +77,8 @@ The constraint on that deployment is money, and the agency said so itself. On 17
 <!-- narrative: finance--finance-new -->
 
 A US firm [announced US$300m for Senegal's digital infrastructure](https://lesoleil.sn/actualites/economie/transformation-numerique-cybastion-annonce-un-investissement-de-300-millions-de-dollars-au-senegal/), with no instrument, project or timetable behind the figure.
+
+The commitment was presented to the president in Washington on 14 September: [Cybastion named cybersecurity, data centres, technology transfer and capacity building as its uses](https://techafricanews.com/2026/09/16/senegal-300m-cybastion-digitalisation-projects/), still without an instrument or timetable.
 <!-- /narrative -->
 
 ## ICT Infrastructure
@@ -167,6 +169,8 @@ The head of the deconcentrated service network said the thing his own network ru
 A national prize ceremony on 30 July presented a [Wolof and French AI tutor reachable by ordinary phone call with no internet, its curriculum validated by school inspectors and hosted on servers in Senegal](https://aps.sn/allo-goor-gi-une-ia-avec-des-contenues-pedagogiques-certifies/). No user, pricing or evaluation figure is given, and the education ministry's role is asserted by the vendor rather than confirmed by it. The same readiness assessment records an [ethics committee as planned](https://www.seneweb.com/fr/news/Technologie/intelligence-artificielle-en-afrique-le-senegal-encore-a-la-traine_n_499460.html), with no statute, membership or chair. The state's own AI build was presented abroad rather than at home: the Senegal AI Factory was [set out to an international AI-process meeting in Tokyo as the main component of the Senegal Digital Factory under the technology strategy's eighth priority programme, covering national AI capability, startups, applied research and training](https://www.pressafrik.com/New-Deal-Technologique-le-Senegal-devoile-la-Senegal-AI-Factory-devant-la-communaute-internationale-a-Tokyo_a309281.html), with no launch date, budget, compute location or partner commitment stated.
 
 What none of it runs under is a statute. A four-country comparative study presented on 10 August [found no AI-specific legislation in force or in draft in Senegal](https://grain-africa.org/en/intelligence-artificielle-en-afrique-de-louest-grain-presente-les-resultats-dune-etude-comparative-pour-une-gouvernance-plus-inclusive-et-responsable-de-lia/), leaving the strategy stack and an ethics committee that is still only planned to carry the field between them.
+
+An outside score placed the country: Oxford Insights' 2025 index [put government AI readiness at 46.10, 97th in the world and first of the eight UEMOA states](https://www.seneweb.com/fr/news/Technologie/preparation-a-lia-le-senegal-leader-dans-luemoa-mais-la-region-reste-en-deca-de-la-moyenne-mondiale_n_504306.html).
 <!-- /narrative -->
 ### ICT Industry
 

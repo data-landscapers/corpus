@@ -1,11 +1,11 @@
 ---
 title: Kenya — monthly update, August – September 2026
-compiled: 2026-09-16
-period: 2026-08-01 to 2026-09-16
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 place: KEN
-ledger_rows: 173
+ledger_rows: 176
 not_held: 7
-record: dda181db11d3
+record: 444b47b290f8
 ---
 
 # Kenya: monthly update, August – September 2026
@@ -121,6 +121,8 @@ An industry survey filled a gap in the record on 5G: commercial networks opened 
 On the delivery side of the same programme, coordination was stepped up rather than the schedule revised: two principal secretaries began [co-chairing a standing review of the implementing agencies on 4 September, the coordination framed against a target of taking the technology industry from US$7bn to US$100bn](https://peopledaily.digital/news/govt-steps-up-digital-superhighway-implementation). No revised delivery date came with it, and 63,000km of the 100,000km fibre target remains outstanding before the 2027 deadline.
 
 One wholesale fibre entrant is leaving. Airtel [is winding up its Kenyan fibre subsidiary after two years, having returned its facilities licence](https://techweez.com/2026/09/14/fiber-airtel-kenya-telesonic-shutdown/).
+
+The backbone went back to tender. The ICT Authority [issued framework agreements for national backbone links and cross-border and metro links under the World Bank-financed digital economy project](https://techtrendske.co.ke/2026/09/16/kenya-floats-tender-for-national-fibre-backbone-cross-border-links/), each for three years extendable by two, with Treasury putting public-sector fibre at 30,454km in 2026 against 22,486km in 2022. No award is held.
 <!-- /narrative -->
 ### Data Storage
 
@@ -223,6 +225,8 @@ The platform also failed twice. On 26 August the payment layer [went down for mu
 Its legal footing moved the other way. On 27 August the Treasury [presented draft regulations to the National Assembly's delegated legislation committee that would replace eCitizen's convenience fee with a statutory access fee and vest ownership, hosting, administration, maintenance and security of the platform in the Treasury](https://sokodirectory.com/2026/08/treasury-unveils-plan-to-replace-ecitizen-convenience-fees-with-access-fees/), and members of parliament [demanded clarity on who owns the platform](https://peopledaily.digital/news/mps-demand-clarity-on-ecitizen-ownership-as-treasury-unveils-new-regulations) as they did so.
 
 On the one citizen survey held, [digital-government adoption stands at 49% and net satisfaction fell five points from 2024 to 64%, with 12% of users reporting no problems, the lowest share of 44 countries surveyed](https://techtrendske.co.ke/2026/09/10/kenyans-among-worlds-heaviest-ai-users-survey-shows/).
+
+Cargo seals left state hands. The revenue authority [approved 15 private vendors for electronic seals on transit cargo and set 26 October 2026 for retiring its own](https://www.kra.go.ke/news-center/public-notices/2393-approved-vendors-for-the-electronic-monitoring-and-tracking-of-goods-under-customs-control-and-transition-to-the-multi-vendor-user-owned-framework), with users choosing and contracting their vendor directly under the regional cargo tracking system.
 <!-- /narrative -->
 
 ## Digitalisation
@@ -252,6 +256,8 @@ Misuse reached the record from the supplier's side. A model provider [disclosed 
 
 <!-- narrative: technology--tech-industry -->
 The month's movement in the sector was a fibre operator saying it intends to stop selling fibre. The Kenyan business of a pan-African backbone owner [is repositioning from connectivity provider to a layered artificial-intelligence, cloud and cybersecurity business on top of its own network](https://techtrendske.co.ke/2026/09/10/interview-liquid-bets-on-ai-as-next-growth-frontier-for-africas-fibre-network/), its chief executive arguing on 10 September that connectivity becomes the foundation of digital infrastructure rather than the product. He [put Africa at 0.6% of world data-centre capacity](https://www.itweb.africa/article/interview-liquid-targets-africas-data-centre-gap/xA9POvNE2Gxqo4J8), the concern he said African telecom executives raise most. It is a stated strategy in two interviews at one conference: no revenue split, investment figure, capacity addition or service launch date accompanies it.
+
+The state's largest telecoms divestment was undone in court and is heading back there. The High Court voided the sale of a 15% Safaricom stake to Vodacom on 15 September, and on 16 September [Vodacom said it would appeal and seek a stay, and the finance minister said the Treasury would appeal too](https://www.connectingafrica.com/investment/vodacom-kenyan-government-to-appeal-court-ruling-voiding-safaricom-sale). How the proceeds already committed are treated is not on record.
 <!-- /narrative -->
 ### Innovation ecosystem
 
@@ -265,6 +271,8 @@ Venture funding data published on 27 July put Kenyan startups at [US$126m in the
 
 <!-- narrative: capacity--capacity-literacy -->
 The regulator [donated computers to a school in Turkana on 30 July, one of 23 institutions recently supported](https://techafricanews.com/2026/07/30/ca-kenya-expands-digital-inclusion-with-computer-donation-to-turkana-school/), with no quantity or value disclosed. Private money reached further into the same gap: three laboratories [opened at Kholera Primary, Moody Awori Primary and Ralak Girls High in the weekend to 25 August under a Rotary Foundation Global Grant, taking that programme to at least 13 schools on a stated USD 91,650](https://www.standardmedia.co.ke/education/article/2001556160/digital-divide-threatens-to-leave-vulnerable-learners-behind-as-jobs-go-high-tech), against a state literacy programme running since 2016 that has not reached every school equally.
+
+The state programme published its first delivery figures in years. Its second phase [began putting teacher laptops and smartboards into 10,382 public junior schools, with 91 of 98 Nairobi schools complete](https://techafricanews.com/2026/09/16/kenya-begins-digital-literacy-programme-phase-ii-device-rollout-in-nairobi/), and [1,000 ICT graduates are being recruited as 12-month interns to support it in schools](https://www.wearetech.africa/fr/fils/actualites/tech/kenya-1000-diplomes-en-tic-recrutes-pour-soutenir-la-numerisation-des-ecoles). No learning-outcome measure accompanies either.
 <!-- /narrative -->
 ### Training and skills
 

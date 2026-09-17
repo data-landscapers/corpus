@@ -1,11 +1,11 @@
 ---
 title: Uganda — monthly update, August – September 2026
-compiled: 2026-09-16
-period: 2026-08-01 to 2026-09-16
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 place: UGA
-ledger_rows: 99
+ledger_rows: 100
 not_held: 12
-record: ca046be3c56b
+record: fc11331a1445
 ---
 
 # Uganda: monthly update, August – September 2026
@@ -118,6 +118,8 @@ Four days later the Auditor General's account of the same authority reached the 
 The Cabinet decision of 1 September was narrowed twice in the week after it. The finance minister said on 3 September that it [does not make the identification number the taxpayer number but requires the two to be interoperable — "we are not saying the NIN is the TIN; we are saying the NIN and the TIN must be able to read each other"](https://mulengeranews.com/minister-musasizi-explains-why-nin-is-to-be-used-as-tin-as-icpau-commits-to-enforce-ai-adoption-in-accountancy-sector/), and the revenue authority added on 7 September that [holding an identification number does not by itself make its holder a taxpayer](https://nilepost.co.ug/business/369514/ura-explains-use-of-nins-to-replace-tins), the purpose being a single secure identifier for government services and more accurate taxpayer records. The decision itself is not held, and no instrument, commencement date or migration plan has been published for what is now described as two identifiers reading each other rather than one replacing the other.
 
 The cards are printed and not working. The registration authority [holds about 5.4 million printed cards uncollected, with 418 of 571 posts filled and 201 at client counters](https://www.independent.co.ug/nira-staffing-crisis-leaves-millions-of-ids-gathering-dust/), and told legislators on 9 September that [one mobile operator is the only partner fully onboarded to the information-exchange module it opened in March, so new cards are refused at banks and SIM counters](https://businessfocus.co.ug/nira-on-spot-as-new-national-ids-fail-to-work-for-sim-registration-banks-and-driving-permits/).
+
+The revenue authority then gave a firmer account than the finance minister's: [the TIN will be phased out for individuals in favour of the NIN, with companies using their registration number](https://www.newvision.co.ug/category/news/transitioning-from-tin-to-nin-will-create-job-NV_240692_092026).
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -155,6 +157,8 @@ A health surveillance pilot moved to the stage where the model's answer is visib
 A private platform entered the health stack from outside it. A digital-health company [launched a platform on 3 September letting urban specialists run virtual multidisciplinary ward rounds with rural inpatient teams in real time, with per-bed cryptographic tokens and triage on live vital signs](https://nilepost.co.ug/business/368668/chil-group-launches-digital-platform-linking-rural-hospitals-to-urban-specialists), covering more than 260 medical wards it says often lack cardiologists, neurologists and intensivists. No facility list, patient volume, tariff, clinical evaluation or integration with the national health information stack is published.
 
 The parish programme's system was audited short of its design. The Auditor-General [found two of seven pillar modules fully implemented, 178 of 13,253 parish tablets non-functional, 29 with ineligible users and none supported with internet connectivity](https://www.oag.go.ug/storage/megareports/THEPDM@THM2025.pdf), and in September one district [reported 31 of its 61 tablets dead and parishes back on manual records](https://chimpreports.com/alarm-raised-as-50-of-zombo-pdm-tablets-fail-to-function/).
+
+The tax stamps system published its scale: [more than 1,680 manufacturers and importers registered across 13 excisable products](https://nilepost.co.ug/business/370814/ura-lauds-manufacturers-on-dts-success), run for the revenue authority by SICPA since 2018.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -224,6 +228,8 @@ The state ICT institute reports [48,448 people trained in the financial year: 36
 The IT authority [invited expressions of interest for consultancy services to develop a National Digital Skills and Competence Framework](https://www.nita.go.ug/sites/default/files/2026-08/REOI%20-%20Digital%20Skills%20Framework_0.pdf). Nothing is yet awarded, and no scope value or delivery date is stated.
 
 An operator's programme published a cohort figure on 31 August. It [graduated 503 young people at the National ICT Innovation Hub from a hybrid course in information and communication technology, digital marketing, e-commerce, cybersecurity and artificial intelligence, taking its cumulative total to 1,191](https://techafricanews.com/2026/08/31/mtn-uganda-graduates-503-youth-digital-skills/). The counts are the operator's own, and no employment outcome, start year or cost per participant is published.
+
+The same operator [handed over the second of four university innovation hubs under a Shs4 billion three-year programme at Busitema](https://nilepost.co.ug/business/371109/digital-hubs-must-equip-youth-for-jobssays-ps-zawedde).
 <!-- /narrative -->
 ### Research institutions
 
