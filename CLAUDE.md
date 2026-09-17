@@ -70,3 +70,7 @@ The reason is the direction of dependency. The site is a derived view of the wik
 ## Editions
 
 **A published file is never revised.** `documentation/design.md` §9 is the full rule and the scripts implement it: the dated CSVs and PDFs under `site/` are citable artefacts, so a rebuild that rewrites one in place has broken something even when the content is identical. `RENDER.md` → *The finance tables* carries the trap this most often springs through — line endings under a Cowork build.
+
+## The change log
+
+**A change a reader could notice gets an entry in `content/changelog.md` in the same commit** *(Bill, 2026-09-17)*: a new feature, a page or link that moves, a correction across many reports. Routine builds and renders, and changes readers cannot see, get none. Dated to the day under a `## D Month YYYY` heading, newest first; **two terse sentences an entry** — what changed, then what it means for the reader. `scripts/methodology.py` publishes it at `/methodology/changelog/` on the next render.

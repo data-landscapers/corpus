@@ -66,6 +66,8 @@
       <span class="article-toc__sep" aria-hidden="true">&middot;</span>
       <a href="../document-lifecycle/">Document Lifecycle</a>
       <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+      <a href="../changelog/">Change Log</a>
+      <span class="article-toc__sep" aria-hidden="true">&middot;</span>
       <a href="../lookups/">Process Lookups</a>
       </nav>
       <h2 id="introduction">Introduction</h2>
@@ -255,6 +257,11 @@
       <td><strong>Ask whether the standing account changed</strong></td>
       <td><code>BUILD.md</code> → <em>Maintaining the status baseline</em>, <code>STATUS-<wbr>INIT.md</code></td>
       <td>The status report is the baseline all news is read against, and for most countries it has been authored from sources the repository will never hold. Once authored it is revised in place and never re-rendered from the ledger — a rebuild would destroy it while reporting success. Where borderline evidence conflicts, the section stands: an error in the baseline is invisible and propagates, a gap is visible and gets filled.</td>
+      </tr>
+      <tr>
+      <td><strong>Review each place's reports whole, about once a month</strong></td>
+      <td><code>UNIT-<wbr>REVIEW.md</code>, <code>scripts/<wbr>unit-<wbr>review.py</code></td>
+      <td>The build reads only what is new to a country, so nothing else re-reads its reports as a whole. On each overnight cycle the two countries or regions reviewed longest ago have their status, progress, monthly and non-state finance reports checked against the evidence as it now stands, and what is no longer right is repaired before the site is rebuilt. A rotation file records when each was last reviewed. Regions have no status report.</td>
       </tr>
       <tr>
       <td><strong>Re-render every report from its ledger</strong></td>

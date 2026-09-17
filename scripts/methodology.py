@@ -5,6 +5,7 @@
                                       site/methodology/lookups/index.html
                                       site/methodology/document-lifecycle/index.html
                                       site/methodology/process-inventory/index.html
+                                      site/methodology/changelog/index.html
 
 **The whole page is `content/methodology.md`.** There is no template here beyond the
 site chrome: the file is written as markdown with headings and sub-headings, and
@@ -15,11 +16,13 @@ derived from anything. A builder that offered slots would be inventing structure
 for a document whose structure is the author's business.
 
 **The annexes build the same way, from the same folder.** `/methodology/` is the
-hub and three long documents hang off it, one directory each, named after the
+hub and four documents hang off it, one directory each, named after the
 content file: `methodology-lookups.md` -> `lookups/` (the fixed lists),
 `document-lifecycle.md` -> `document-lifecycle/` (one document's journey through
 the system, told as a story) and `process-inventory.md` -> `process-inventory/`
-(the same system as a table of every procedure file). The hub carries a *See also*
+(the same system as a table of every procedure file) and `changelog.md` -> `changelog/`
+(what changed for readers, newest first: two sentences an entry, dated to the day — Bill,
+2026-09-17). The hub carries a *See also*
 line to the three and each annex carries one back; that line is written in the
 markdown, not here, because it is prose and the page is its file (2026-09-01, Bill).
 
@@ -288,7 +291,7 @@ def indent(html: str) -> str:
     return "\n".join("      " + ln if ln.strip() else ln for ln in html.splitlines())
 
 
-# The hub and its three annexes. `slug` is both the content file's stem (minus the
+# The hub and its four annexes. `slug` is both the content file's stem (minus the
 # `methodology-` prefix the lookups file still carries) and the directory under
 # `/methodology/`; `h1` is the page's own title and `nav` the label the see-also
 # bar uses for it — the two differ where a heading wants sentence case and a nav
@@ -314,6 +317,11 @@ PAGES = [
          description=("Every procedure Corpus runs, in the order the work happens: "
                       "what each step does, and which instruction file or script "
                       "does it.")),
+    dict(source="changelog.md", slug="changelog", h1="Change log",
+         title="Methodology — change log", nav="Change Log", strip=False, body="",
+         tables=False,
+         description=("Changes to Corpus that affect readers, newest first: what "
+                      "changed and what it means for you.")),
     dict(source="methodology-lookups.md", slug="lookups", h1="Process lookups",
          title="Methodology — process lookups", nav="Process Lookups",
          strip=True, body="", tables=True,
