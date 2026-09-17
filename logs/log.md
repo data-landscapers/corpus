@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-09-17 12:06 · **RENDER** · 7m · 251 documents, 3 AGO editions cut from the review, change log page published, home, places, topics, progress, catalogue 22,162, alerts, finance 1,453 deals; prune 0, R2 3 uploaded; links clean; pushed, deploy pending — ok
 2026-09-17 10:22 · **REVIEW** · 6m · AGO: status 5 sections revised, progress 7 indicators remapped, monthly 9 paragraphs cut, 1 gap updated, finance unchanged; note 141 for OSINT; DRC power-line MoU left in AGO finance, messages at cap — ok
 2026-09-17 08:15 · **RENDER** · 16m · 251 documents rendered, 0 failed; home, places, topics, progress, catalogue 22,162, alerts, finance; 372 editions pruned, 4,245 objects to R2; deployed — ok
 2026-09-17 07:59 · **BUILD** · 38m · catalogue 22,162, 47 units and 264 sources read, 61 rows minted and 35 moved, 3 gaps settled, 2 retired-record citations struck, mojibake repaired in 31 reports; scope 236 in and 3 XGL unverified, register 63, bulletin 93 items — ok
