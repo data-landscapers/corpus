@@ -48,8 +48,18 @@ MANIFEST = os.path.join(MIRROR, "cycle-manifest.json")
 
 # A reader that meets a schema it does not know stops rather than guesses (note 16). A field
 # that changed meaning under the same number is the one failure a fallback cannot catch,
-# because both readings parse.
-MANIFEST_SCHEMA = 1
+# because both readings parse. Schema 2 adds a `usage` block keyed by stage and the screening
+# counts, and changes nothing this module already reads, so both numbers are accepted and the
+# reader lands before OSINT's writer does (strategic review 4, register R07).
+MANIFEST_SCHEMAS = (1, 2)
+
+# Where a schema-2 manifest is kept once it has been read. The mirror holds one file and every
+# close overwrites it, so a `usage` block is on the disk for one night and then gone - and the
+# stage-cost table (register R22) is a reading across a whole rotation. Corpus keeps its own
+# dated copy of what it read, which is a Corpus artefact about Corpus's own reading; nothing is
+# written to the mirror and nothing here is a substitute for OSINT's record.
+ARCHIVE = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+                       "logs", "manifests")
 
 TS = "%Y-%m-%d %H:%M"
 
@@ -139,10 +149,10 @@ def read_manifest(path: str | None = None) -> tuple[dict | None, str]:
         return None, f"the cycle manifest will not parse ({exc}) - a half-copied mirror"
     if not isinstance(data, dict):
         return None, "the cycle manifest is not an object"
-    if data.get("schema") != MANIFEST_SCHEMA:
+    if data.get("schema") not in MANIFEST_SCHEMAS:
         return None, (f"the cycle manifest is schema {data.get('schema')!r}, and this reads "
-                      f"{MANIFEST_SCHEMA}. A schema this does not know is refused rather "
-                      f"than guessed at")
+                      f"{', '.join(str(n) for n in MANIFEST_SCHEMAS)}. A schema this does not "
+                      f"know is refused rather than guessed at")
     head = data.get("head")
     repo = os.path.dirname(path) or None
     here = mirror_head(repo)
@@ -154,7 +164,39 @@ def read_manifest(path: str | None = None) -> tuple[dict | None, str]:
         return None, (f"the cycle manifest names {head[:8]}, which is not in the history the "
                       f"mirror is holding at {here[:8]} - a half-copied mirror, not a stale "
                       f"manifest")
+    _keep(data, text)
     return data, "the cycle manifest"
+
+
+def _keep(data: dict, text: str) -> str | None:
+    """Keep a copy of a schema-2 manifest under `ARCHIVE`, and return where it went.
+
+    **A manifest is read many times a run and kept once.** Every stamp reader above calls
+    `read_manifest` again, so the copy is named after what it holds - the `written_utc` it
+    carries and the commit it names - and a name already on the disk is left alone rather
+    than rewritten. Two closes cannot collide: only a mirroring pass writes a manifest, and
+    it stamps the minute.
+
+    **It never raises and never reports.** This is bookkeeping beside the read, not the read:
+    a full disk or a read-only checkout must cost the caller its manifest, so every failure
+    here is swallowed and the caller gets what it came for. `None` means nothing was kept -
+    either the schema carries nothing worth keeping, or the write did not happen.
+    """
+    if data.get("schema", 1) < 2:
+        return None
+    stamp = (data.get("written_utc") or "").strip().replace(":", "").replace(" ", "-")
+    head = (data.get("head") or "")[:8]
+    name = "-".join(p for p in ("cycle-manifest", stamp, head) if p) + ".json"
+    path = os.path.join(ARCHIVE, name)
+    try:
+        if os.path.exists(path):
+            return path
+        os.makedirs(ARCHIVE, exist_ok=True)
+        with io.open(path, "w", encoding="utf-8", newline="\n") as fh:
+            fh.write(text if text.endswith("\n") else text + "\n")
+        return path
+    except OSError:
+        return None
 
 
 def _stamp(text) -> dt.datetime | None:

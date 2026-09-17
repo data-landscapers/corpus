@@ -31,6 +31,7 @@ import datetime as dt
 import importlib.util
 import io
 import json
+import os
 import shutil
 import sys
 import tempfile
@@ -145,10 +146,14 @@ def manifest_cases() -> tuple[int, int]:
     unknown schema and a half-copied file must both come back `None` **with a reason**, never
     as a plausible-looking stamp."""
     failures = 0
-    saved = osint_lib.MANIFEST
+    saved = (osint_lib.MANIFEST, osint_lib.ARCHIVE)
     tmp = Path(tempfile.mkdtemp(prefix="osint-manifest-test-"))
     try:
         osint_lib.MANIFEST = str(tmp / "cycle-manifest.json")
+        # The schema-2 case is read like any other, and a read keeps a copy: without this the
+        # suite writes into the repository's own `logs/manifests/` (caught 2026-09-17, one
+        # fixture manifest left behind in the working tree).
+        osint_lib.ARCHIVE = str(tmp / "manifests")
         path = Path(osint_lib.MANIFEST)
 
         # (name, file text or None, expected sweep_closed, a word the reason must carry)
@@ -161,6 +166,9 @@ def manifest_cases() -> tuple[int, int]:
              '{"schema": 1, "collection": {"sweep_cl', None, "half-copied"),
             ("a schema this reader does not know is refused, not guessed at",
              manifest(admission=1.0, closed=1.1, close_end=2.0, schema=99), None, "schema"),
+            ("schema 2 is read, so the reader lands before OSINT's writer does (R07)",
+             manifest(admission=1.0, closed=1.1, close_end=2.0, schema=2), stamp(1.1),
+             "manifest"),
             ("a manifest that is not an object at all is refused",
              '["schema", 1]', None, "not an object"),
             ("a manifest carrying no collection block answers None",
@@ -194,9 +202,70 @@ def manifest_cases() -> tuple[int, int]:
             print(f"  {'ok  ' if ok else 'FAIL'} {name}  (reason: {why[:70]})")
         path.rmdir()
     finally:
-        osint_lib.MANIFEST = saved
+        osint_lib.MANIFEST, osint_lib.ARCHIVE = saved
         shutil.rmtree(tmp, ignore_errors=True)
     return failures, len(cases) + 2
+
+
+def archive_cases() -> tuple[int, int]:
+    """What Corpus keeps of a manifest it has read (register R07).
+
+    The mirror holds one manifest and every close overwrites it, so a `usage` block lives on
+    the disk for one night. The stage-cost table reads a whole rotation, which means the copy
+    has to be taken at the moment of reading or not at all. Three properties are worth
+    pinning: a schema-1 manifest leaves nothing behind (there is nothing in it that the
+    mirror will not still hold tomorrow), a schema-2 one is kept, and reading the same one
+    twice keeps one file — every stamp reader calls `read_manifest` again, so a copy per read
+    would be a directory of duplicates by morning."""
+    failures = ran = 0
+    saved_manifest, saved_archive = osint_lib.MANIFEST, osint_lib.ARCHIVE
+    tmp = Path(tempfile.mkdtemp(prefix="osint-archive-test-"))
+    try:
+        osint_lib.MANIFEST = str(tmp / "cycle-manifest.json")
+        osint_lib.ARCHIVE = str(tmp / "manifests")
+        path = Path(osint_lib.MANIFEST)
+
+        for name, text, expected in [
+            ("a schema-1 manifest is read and nothing is kept",
+             manifest(admission=1.0, closed=1.1, close_end=2.0), 0),
+            ("a schema-2 manifest is kept once it has been read",
+             manifest(admission=1.0, closed=1.1, close_end=2.0, schema=2), 1),
+        ]:
+            path.write_text(text, encoding="utf-8")
+            data, why = osint_lib.read_manifest()
+            kept = sorted(Path(osint_lib.ARCHIVE).glob("*.json")) \
+                if os.path.isdir(osint_lib.ARCHIVE) else []
+            ok = data is not None and len(kept) == expected
+            failures += not ok
+            ran += 1
+            print(f"  {'ok  ' if ok else 'FAIL'} {name}  "
+                  f"(expected {expected} kept, got {len(kept)}; reason: {why[:40]})")
+
+        # The same manifest read again: every stamp reader calls through here, so this is the
+        # ordinary case rather than an edge one.
+        before = sorted(p.name for p in Path(osint_lib.ARCHIVE).glob("*.json"))
+        for _ in range(3):
+            osint_lib.read_manifest()
+        after = sorted(p.name for p in Path(osint_lib.ARCHIVE).glob("*.json"))
+        ok = before == after and len(after) == 1
+        failures += not ok
+        ran += 1
+        print(f"  {'ok  ' if ok else 'FAIL'} re-reading the same manifest keeps one file  "
+              f"(before {len(before)}, after {len(after)})")
+
+        # An archive that cannot be written must cost the caller nothing: the manifest is the
+        # read, the copy is bookkeeping beside it.
+        osint_lib.ARCHIVE = str(path)          # a file where a directory would have to go
+        data, why = osint_lib.read_manifest()
+        ok = data is not None
+        failures += not ok
+        ran += 1
+        print(f"  {'ok  ' if ok else 'FAIL'} an unwritable archive still returns the manifest  "
+              f"(reason: {why[:40]})")
+    finally:
+        osint_lib.MANIFEST, osint_lib.ARCHIVE = saved_manifest, saved_archive
+        shutil.rmtree(tmp, ignore_errors=True)
+    return failures, ran
 
 
 def collected_to_cases() -> tuple[int, int]:
@@ -288,12 +357,13 @@ def run() -> int:
         (osint_lib.MIRROR, osint_lib.MANIFEST, of.WATERMARK, of.head_committed) = saved
 
     man_failures, man_ran = manifest_cases()
+    arc_failures, arc_ran = archive_cases()
     col_failures, col_ran = collected_to_cases()
-    failures += man_failures + col_failures
+    failures += man_failures + arc_failures + col_failures
     # Counted off the case lists, not added up by hand. It read `len(CASES) + 4 + 6` until
     # 2026-08-24, when three cases were added to a sub-suite and the run went on reporting
     # 22 — a suite that miscounts itself is a suite that can quietly stop running something.
-    total = len(CASES) + man_ran + col_ran
+    total = len(CASES) + man_ran + arc_ran + col_ran
 
     print()
     if failures:
