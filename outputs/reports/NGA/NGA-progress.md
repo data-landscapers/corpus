@@ -3,10 +3,10 @@ title: Nigeria — progress report, September 2025 – September 2026
 compiled: 2026-09-17
 period: 2025-09-01 to 2026-09-17
 place: NGA
-ledger_rows: 405
-not_held: 9
+ledger_rows: 409
+not_held: 10
 indicators: 121
-record: 5ec5efa1b37a
+record: 4aa4b4bfb1a5
 ---
 
 # Nigeria: progress report, September 2025 – September 2026
@@ -214,4 +214,5 @@ Where a row reads ***No evidence***, the repository holds nothing on that indica
 | Proposed responsible-AI governance framework for public bodies | The instrument, terms of reference or ministerial statement establishing the proposed responsible-AI governance framework for public institutions. | 2026-08-14 |
 | Malabo Convention ratification position | An instrument of signature, ratification or accession to the African Union Convention on Cyber Security and Personal Data Protection, or an official statement of the government's position on it. | 2026-08-14 |
 | Rules governing automated decisions in hiring | a statute, labour-code provision, data-protection guidance note or regulator determination naming automated or algorithmic decisions in recruitment would settle it; probed 2026-09-08, a four-country comparative legal review finds none in the constitution, the labour code or the data-protection act | 2026-09-08 |
+| Coordinated framework for digital-ecosystem complaints | A published framework, terms of reference or memorandum naming a lead body and a referral route for digital-ecosystem complaints, or a commission statement that one has been adopted. | 2026-12-16 |
 
