@@ -56,7 +56,7 @@ Commands run from `scripts/.workroot/`, where `raw/` and `wiki/` resolve; the ro
 
    `BUILD.md` stage 4 is in force throughout: no fact without a source on its own sentence, the register of `report-layer.md` §10, *the repository* never *the base* in published prose, and **no finding noted and left** — a finding is repaired in this run, converted to a finished outcome (*Not held* with a `gaps.csv` line, a claim struck), or, if it needs more than a run, a block in `logs/messages-for-bill.md`.
 
-4. **Re-render and re-check**: `python scripts/report-render.py --unit {U} --doc all`, then the three checks in step 2 again. They pass, or the failing edit is repaired or reverted.
+4. **Re-render and re-check**: `python scripts/report-render.py --unit {U} --doc all --render`, then the three checks in step 2 again. They pass, or the failing edit is repaired or reverted.
 5. **Record and commit** — from the Corpus root, one commit for the unit, explicit paths, pushed straight away:
 
    ```bash
