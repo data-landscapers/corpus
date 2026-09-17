@@ -1,15 +1,15 @@
 ---
 type: runbook
-title: UNIT-REVIEW — one place's reports reviewed whole, once a night — instruction for Claude Code
+title: UNIT-REVIEW — two places' reports reviewed whole, every night — instruction for Claude Code
 opened: 2026-09-17
 last_reviewed: 2026-09-17
 ---
 
-# UNIT-REVIEW — one country or region a cycle, every report it issues
+# UNIT-REVIEW — two countries or regions a cycle, every report each issues
 
-*(Commissioned by Bill on 2026-09-17. Run by `CYCLE.md`, between the build and the render, when `scripts/unit-review.py next` names a unit. OSINT is read-only throughout.)*
+*(Commissioned by Bill on 2026-09-17. Run by `CYCLE.md`, between the build and the render, when `scripts/unit-review.py next` names units. OSINT is read-only throughout.)*
 
-**The one-line brief.** *BUILD reads only what is new to a unit, so nothing ever re-reads a unit's reports as a whole; this does, one place a cycle in rotation, and repairs what it finds before the render publishes it.*
+**The one-line brief.** *BUILD reads only what is new to a unit, so nothing ever re-reads a unit's reports as a whole; this does, two places a cycle in rotation — the 62 about once a month — and repairs what it finds before the render publishes it.*
 
 ## Why
 
@@ -22,7 +22,7 @@ python scripts/unit-review.py next --poll    # from the /poll loop
 python scripts/unit-review.py next           # any other cycle
 ```
 
-**Exit 0 prints the unit; exit 1 means none is owed now** — a cycle not started by `/poll` and outside 21:00–05:00 — and the review is skipped with no log line and no message. Exit 2 is a malformed `logs/unit-review.csv`: write one message block quoting it and go on to the render. The script's docstring holds the rotation order and the time rule; do not re-derive either.
+**Exit 0 prints tonight's two units, one a line, and each is reviewed in turn — steps 1 to 6 whole for the first, then for the second; exit 1 means none is owed now** — a cycle not started by `/poll` and outside 21:00–05:00 — and the review is skipped with no log line and no message. Exit 2 is a malformed `logs/unit-review.csv`: write one message block quoting it and go on to the render. Call it once and work the list it printed: `done` re-sorts the rotation, so a second call names a different pair. The script's docstring holds the rotation order, the count and the time rule; do not re-derive them.
 
 **Skip it too if the build half did not finish** — `logs/.build-in-progress` present, or the newest `· build ·` line `errored`. The seam will stop the cycle, and a review over a half-built unit reviews the wrong thing.
 
@@ -79,7 +79,7 @@ Commands run from `scripts/.workroot/`, where `raw/` and `wiki/` resolve; the ro
 
 ## When it fails
 
-**A review never holds the render.** It runs unattended under the cycle's rules: never stop to ask, take the conservative option and say so. If the run cannot finish — context, a check that will not clear, anything — restore the unit's files to `HEAD` (the last good state; nothing of this run's is committed until step 5), **do not stamp the rotation**, so the unit stays first in line, and log `python scripts/log-line.py review "{U}: <what stopped it> — errored"`. The cycle goes on to `RENDER.md` Step 0, whose check 3 needs `outputs/` clean.
+**A review never holds the render.** It runs unattended under the cycle's rules: never stop to ask, take the conservative option and say so. If the run cannot finish — context, a check that will not clear, anything — restore the unit's files to `HEAD` (the last good state; nothing of this run's is committed until step 5), **do not stamp the rotation**, so the unit stays first in line, and log `python scripts/log-line.py review "{U}: <what stopped it> — errored"`. The second unit is still reviewed; each unit's commit and log line are its own. The cycle then goes on to `RENDER.md` Step 0, whose check 3 needs `outputs/` clean.
 
 **A unit whose previous review line also `errored` is stamped anyway**, with a message block saying what stopped it twice — otherwise one unit a run cannot finish holds the head of the rotation for ever.
 

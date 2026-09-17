@@ -44,7 +44,7 @@ last_reviewed: 2026-09-17
 
 ## The unit review runs at the seam, on unattended cycles only
 
-**One country or region a cycle has all its reports reviewed whole** *(Bill, 2026-09-17)*: `UNIT-REVIEW.md` is the procedure and `scripts/unit-review.py` picks the unit and says whether one is owed — only on a cycle started by `/poll` or between 21:00 and 05:00, so a daytime hand-run cycle skips it. **It runs after the build and before the render** so the render publishes what it repaired; it skips itself if the build half did not finish, and a review that fails restores the unit to `HEAD` and never holds the render.
+**Two countries or regions a cycle have all their reports reviewed whole** *(Bill, 2026-09-17)*, so every place comes round about once a month: `UNIT-REVIEW.md` is the procedure and `scripts/unit-review.py` picks the units and says whether a review is owed — only on a cycle started by `/poll` or between 21:00 and 05:00, so a daytime hand-run cycle skips it. **It runs after the build and before the render** so the render publishes what it repaired; it skips itself if the build half did not finish, and a review that fails restores the unit to `HEAD` and never holds the render.
 
 ## The seam is a job boundary, not a joint
 
@@ -59,7 +59,7 @@ last_reviewed: 2026-09-17
 1. **Drain `notes-for-corpus.md`**, as above. Nothing open, nothing to do — go straight to 2.
 2. **Read the sentinel.** If `logs/.build-in-progress` is present, an earlier build died unaccounted. **In a cycle this is a note, not a stop**: the run about to start is the repair — stage 4 resumes on a set difference. Say in the build line that it resumed.
 3. **Run `BUILD.md`, whole, stage 0 to the end of its ending sequence** — including the ending sequence, which is what puts the tree into the state the seam reads.
-4. **Run `UNIT-REVIEW.md`** if `python scripts/unit-review.py next` (with `--poll` from the loop) names a unit. Exit 1 — go straight to 5.
+4. **Run `UNIT-REVIEW.md`** if `python scripts/unit-review.py next` (with `--poll` from the loop) names units, for each in turn. Exit 1 — go straight to 5.
 5. **Run `RENDER.md` Step 0**, unchanged. A stop here ends the cycle.
 6. **Run `RENDER.md` Steps 1 to 7**, then its *Log* and its *Mirror*. Unchanged, in order.
 

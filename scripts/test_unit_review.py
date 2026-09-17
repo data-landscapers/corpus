@@ -44,6 +44,7 @@ with tempfile.TemporaryDirectory() as tmp:
     case("daytime without --poll is not owed (exit 1)", code == 1)
     code, out = run(p, ["next", "--poll"], DAY)
     case("--poll is owed at any hour", code == 0 and out.startswith("AGO"))
+    case("two units a night", [l.split("\t")[0] for l in out.splitlines()] == ["AGO", "BEN"])
     code, out = run(p, ["next"], NIGHT)
     case("23:30 is owed", code == 0)
     code, out = run(p, ["next"], EARLY)

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 r"""unit-review.py — which place the cycle reviews tonight, and the record of when each was last.
 
-    python scripts/unit-review.py next [--poll]   print the unit owed a review; exit 1 if none is owed now
+    python scripts/unit-review.py next [--poll]   print tonight's units, one a line; exit 1 if none is owed now
     python scripts/unit-review.py done UNIT       stamp UNIT reviewed today
     python scripts/unit-review.py list            the rotation, most overdue first
 
@@ -9,7 +9,8 @@ r"""unit-review.py — which place the cycle reviews tonight, and the record of 
 `logs/unit-review.csv` — one row per country and region, with the date each was last
 reviewed — and answers two questions the runbook must not answer by judgement.
 
-**Which unit.** The one reviewed longest ago; a unit never reviewed comes before any that
+**Which units.** The two reviewed longest ago *(Bill, 2026-09-17: two a night, so the 62 come
+round about once a month)*; a unit never reviewed comes before any that
 has been, and a tie goes to the unit code in alphabetical order, so the first pass runs the
 54 countries A to Z and then the eight regions. That puts a region after the countries it
 aggregates, which is the order the reports themselves are built in.
@@ -40,6 +41,7 @@ ROTATION = os.path.join(ROOT, "logs", "unit-review.csv")
 COUNTRIES = os.path.join(ROOT, "lookups", "countries.csv")
 FIELDS = ["unit", "name", "kind", "last_reviewed"]
 NIGHT_FROM, NIGHT_TO = 21, 5          # local hours: owed from 21:00 until 04:59
+PER_NIGHT = 2                         # units reviewed per cycle; 62 units -> about a month a round
 
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
@@ -124,8 +126,8 @@ def main(argv=None, now: dt.datetime | None = None, path: str = ROTATION,
         if not owed_now(a.poll, now):
             print(f"not owed: {now:%H:%M} is outside {NIGHT_FROM:02d}:00-{NIGHT_TO:02d}:00 and the cycle is not from /poll")
             return 1
-        r = overdue_order(rows)[0]
-        print(f"{r['unit']}\t{r['kind']}\t{r['name']}\tlast reviewed {r['last_reviewed'] or 'never'}")
+        for r in overdue_order(rows)[:PER_NIGHT]:
+            print(f"{r['unit']}\t{r['kind']}\t{r['name']}\tlast reviewed {r['last_reviewed'] or 'never'}")
         return 0
 
     if a.cmd == "done":
