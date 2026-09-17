@@ -121,7 +121,7 @@ The internal audit agency [launched an audit management system on 10 September t
 ### AI
 
 <!-- narrative: technology--tech-ai -->
-The country's first working legal artificial intelligence was launched on 31 July: [CJ Lewis, built by a law library over Supreme Court opinions from 1861 to 2026 plus statutes and regulations, with human-rights support on the principles in its design](https://fpa.news/liberia-launches-first-legal-learning-artificial-intelligence-cj-lewis-to-expand-public-access-to-the-law/). No accuracy or evaluation figure is given, no model or vendor is named, and the corpus is a private compilation â€” which makes public access to the law rest on a private body's curation.
+The country's first working legal artificial intelligence was launched on 31 July: [CJ Lewis, built by a law library over Supreme Court opinions from 1861 to 2026 plus statutes and regulations, with human-rights support on the principles in its design](https://fpa.news/liberia-launches-first-legal-learning-artificial-intelligence-cj-lewis-to-expand-public-access-to-the-law/). No accuracy or evaluation figure is given, no model or vendor is named, and the corpus is a private compilation — which makes public access to the law rest on a private body's curation.
 <!-- /narrative -->
 ### Innovation ecosystem
 

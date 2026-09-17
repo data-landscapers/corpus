@@ -1,11 +1,11 @@
 ---
 title: Mauritania — monthly update, August – September 2026
-compiled: 2026-09-16
-period: 2026-08-01 to 2026-09-16
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 place: MRT
-ledger_rows: 20
-not_held: 4
-record: 3ff1b2f426dc
+ledger_rows: 24
+not_held: 3
+record: 3ebcda37e28d
 ---
 
 # Mauritania: monthly update, August – September 2026
@@ -15,7 +15,7 @@ record: 3ff1b2f426dc
 ## Summary of the month
 
 <!-- narrative: summary -->
-Registries and government services carried the month. The Council of Ministers [adopted decrees on 27 August establishing a national information system for the central criminal-record register and a national digital reference for land and cadastral data](https://www.ami.mr/archives/267317) â€” two registries created as instruments, with no build, budget or operator attached to either. The state services portal [took on the water utility's services from 4 August](https://ami.mr/fr/archives/300346), a civil-service competition for 390 posts [was run digitally from application through to examination](https://lequotidien.mr/?p=40000&lang=fr), and the transport regulator [gave ride-hailing operators fifteen days to bring their authorisations into line with the law](https://lequotidien.mr/?p=40128&lang=fr).
+Registries and government services carried the month. The Council of Ministers [adopted decrees on 27 August establishing a national information system for the central criminal-record register and a national digital reference for land and cadastral data](https://www.ami.mr/archives/267317) — two registries created as instruments, with no build, budget or operator attached to either. The state services portal [took on the water utility's services from 4 August](https://ami.mr/fr/archives/300346), a civil-service competition for 390 posts [was run digitally from application through to examination](https://lequotidien.mr/?p=40000&lang=fr), and the transport regulator [gave ride-hailing operators fifteen days to bring their authorisations into line with the law](https://lequotidien.mr/?p=40128&lang=fr).
 
 Infrastructure moved on two fronts: [a commercial 5G network launched at Nouakchott on 10 August](https://ghabess.net/23385), and [the national cloud platform entered data-security testing and migration preparation ahead of go-live](https://alwiam.info/ar/51206). The national identity application [went down for a full day of scheduled maintenance on 8 August](https://techrek.info/fr/houwiyeti-de-nouveau-operationnelle-de-la-maintenance-periodique-a-la-question-de-la-souverainete-numerique/), the first interruption the repository holds for it, and the fifth census [presented its final regional results from 3 August](https://www.ami.mr/archives/265803).
 <!-- /narrative -->
@@ -26,6 +26,8 @@ Infrastructure moved on two fronts: [a commercial 5G network launched at Nouakch
 
 <!-- narrative: governance--gov-policy -->
 The road transport regulator [gave ride-hailing companies operating through digital applications 15 days to bring their authorisations into line with the law, warning that failure within the deadline could bring legal proceedings including suspension of the activity, with no further notice or warning required](https://lequotidien.mr/?p=40128&lang=fr). The communique sets the warning against growing use of digital platforms for transport services; no operator is named and no count of non-compliant authorisations is given.
+
+On 16 September the Council of Ministers [took a statement proposing a national framework on minors' access to social media](https://www.ami.mr/archives/268298): an access threshold at 16, recommendation algorithms, infinite scroll and autoplay off by default for minors, no advertising targeted at them, and a reporting and support mechanism for children harmed online. It is a proposal; no draft text or date is published.
 <!-- /narrative -->
 ### Standards
 
@@ -49,6 +51,11 @@ The second operator [launched a commercial 5G network at Nouakchott on 10 August
 
 
 The national government cloud is close enough to service to be shown off. On 11 August a visiting development-bank vice-president [was briefed at the national data centre on data-security testing and migration preparation ahead of go-live](https://alwiam.info/ar/51206). No go-live date, migration scope or capacity figure is stated.
+<!-- /narrative -->
+### Cybersecurity
+
+<!-- narrative: ict-infrastructure--infra-cybersec -->
+An outside measure is the only dated position this month. The Internet Society [puts the country's internet resilience at 43 per cent, with 3 per cent of the 1,000 most-visited websites served from a local server or cache and a security preparedness score of 39.33 on the 2024 global cybersecurity index](https://pulse.internetsociety.org/en/reports/mr/). No national incident or response figure is held for the month.
 <!-- /narrative -->
 
 ## DPI

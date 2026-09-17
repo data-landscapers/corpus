@@ -66,7 +66,7 @@ The dominant mobile operator [publicly rejected customer claims that it takes da
 <!-- narrative: ict-infrastructure--infra-connect -->
 Spectrum is being taken back rather than added. Operators [were instructed to retire their 2G and 3G networks and refarm the spectrum, with one suggesting smartphone subsidies before the shutdown](https://www.namibiansun.com/local-news/mtc-suggests-smartphone-subsidies-before-2g-3g-shutdown-nmh015578-1-19462). A shutdown without a device programme moves the cost of the transition onto the users least able to carry it, and no date, subsidy or handset count is on the record.
 
-The largest mobile operator said it [will put N$624.9 million into telecommunications infrastructure in the 2025/26 financial year](https://www.namibiansun.com/mw-main/mtc-puts-n6249m-into-networks-NMH016998-3015-20874) â€” a stated commitment rather than a delivered figure.
+The largest mobile operator said it [will put N$624.9 million into telecommunications infrastructure in the 2025/26 financial year](https://www.namibiansun.com/mw-main/mtc-puts-n6249m-into-networks-NMH016998-3015-20874) — a stated commitment rather than a delivered figure.
 <!-- /narrative -->
 ### Data Storage
 

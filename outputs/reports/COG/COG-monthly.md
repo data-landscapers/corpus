@@ -15,7 +15,7 @@ record: 8d2f7cf4a277
 ## Summary of the month
 
 <!-- narrative: summary -->
-Revenue systems and the payroll carried the month. The public-revenue platform [went live for online payment of taxes, levies and customs duties after its pilot cohort completed](https://leconomie.info/congo-le-paiement-des-impots-et-taxes-bascule-en-ligne/), while [the treasury single account meant to centralise those receipts was still being finalised on the day it opened](https://leconomie.info/congo-le-paiement-des-impots-et-taxes-bascule-en-ligne/) â€” a collection rail running ahead of the account it collects into.
+Revenue systems and the payroll carried the month. The public-revenue platform [went live for online payment of taxes, levies and customs duties after its pilot cohort completed](https://leconomie.info/congo-le-paiement-des-impots-et-taxes-bascule-en-ligne/), while [the treasury single account meant to centralise those receipts was still being finalised on the day it opened](https://leconomie.info/congo-le-paiement-des-impots-et-taxes-bascule-en-ligne/) — a collection rail running ahead of the account it collects into.
 
 The payroll is where the record is unusually candid. Its operator's minutes and a Senate disclosure [put duplicate payroll numbers and deceased or retired staff still drawing salaries on the record](https://brazzavilleinsider.com/congo-bets-on-digital-records-to-curb-civil-fraud/), with an integrated civil-status system presented as the structural fix, its software validated and its deployment unfunded. Elsewhere customs digitalisation [was handed to a Nigerian firm on a 20-year, US$3.1bn concession signed at Abuja](https://www.adiac-congo.com/content/zlecaf-la-digitalisation-des-procedures-douanieres-confiee-au-nigerian-bergmans-171160), and a public-administration digitalisation task force [was gazetted on 6 August](https://sgg.cg/JO/2026/congo-jo-2026-32.pdf) with no session yet on record.
 <!-- /narrative -->
@@ -99,7 +99,7 @@ Health acquired equipment rather than a system. On 7 August the Global Fund and 
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
-A public-administration digitalisation task force [was gazetted on 6 August, as decree 2026-261 of 29 July 2026](https://sgg.cg/JO/2026/congo-jo-2026-32.pdf). No session of it is on record, and the decree names no deliverable, deadline or budget â€” an instrument creating a body, with the work still to be defined.
+A public-administration digitalisation task force [was gazetted on 6 August, as decree 2026-261 of 29 July 2026](https://sgg.cg/JO/2026/congo-jo-2026-32.pdf). No session of it is on record, and the decree names no deliverable, deadline or budget — an instrument creating a body, with the work still to be defined.
 <!-- /narrative -->
 
 ## Capacity
