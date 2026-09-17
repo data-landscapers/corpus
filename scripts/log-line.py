@@ -104,6 +104,37 @@ def entry_stamp(text: str) -> str:
     return text if len(text) > 10 else f"{text} 23:59"
 
 STAMP_FMT = "%Y-%m-%d %H:%M"
+
+# **The log keeps a month** *(Bill, 2026-09-17)*. Every write drops the entries dated more
+# than KEEP_DAYS before the newest entry, so the file prunes itself on any day a job runs;
+# git holds the rest. Measured from the newest entry rather than the clock, so a
+# back-dated write never prunes the lines around it. **The newest line of each job
+# survives however old**: RENDER Step 0 reads the newest build line and
+# lint-mirror-freshness the newest render line, and a month without a build must still
+# read as *no recent build*, not as *no build ever*.
+KEEP_DAYS = 31
+JOB_RE = re.compile(r"^\S+(?: \d{2}:\d{2})? · (?:\*\*)?(.+?)(?:\*\*)? · ")
+
+
+def prune(lines: list[str], at: int) -> int:
+    """Drop entries older than KEEP_DAYS before the newest; return how many went."""
+    entries = [(i, entry_stamp(m.group(1))) for i, l in enumerate(lines)
+               if i > at and (m := ENTRY_RE.match(l))]
+    if not entries:
+        return 0
+    newest = max(s for _, s in entries)
+    cutoff = (dt.datetime.strptime(newest, STAMP_FMT)
+              - dt.timedelta(days=KEEP_DAYS)).strftime("%Y-%m-%d")
+    newest_of_job: dict[str, tuple[int, str]] = {}
+    for i, s in entries:
+        j = JOB_RE.match(lines[i])
+        job = j.group(1).lower() if j else ""
+        if job not in newest_of_job or s > newest_of_job[job][1]:
+            newest_of_job[job] = (i, s)
+    keep = {i for i, _ in newest_of_job.values()}
+    drop = {i for i, s in entries if s[:10] < cutoff and i not in keep}
+    lines[:] = [l for i, l in enumerate(lines) if i not in drop]
+    return len(drop)
 TOOK_RE = re.compile(r"^(?:(\d+)d)?\s*(?:(\d+)h)?\s*(?:(\d+)m)?$")
 
 
@@ -330,6 +361,7 @@ def main() -> int:
         print(f"log-line: this line is older than the {where - at - 1} above it, so it "
               f"goes below them rather than at the top - check the timestamp is right.")
 
+    pruned = prune(lines, at)
     body = "\n".join(lines)
     if not body.endswith("\n"):
         body += "\n"
@@ -352,6 +384,9 @@ def main() -> int:
         sys.stdout.reconfigure(errors="replace")
     place = "the top of" if where == at + 1 else "its place in"
     print(f"log-line: wrote to {place} logs/log.md - {entry}")
+    if pruned:
+        print(f"log-line: pruned {pruned} line(s) older than {KEEP_DAYS} days before the "
+              f"newest; git holds them.")
     return 0
 
 

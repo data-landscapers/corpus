@@ -189,6 +189,23 @@ with tempfile.TemporaryDirectory() as td:
         stamps = [l.split(" · ")[0] for l in lines if " · " in l]
         check("the file reads newest-first throughout", stamps, sorted(stamps, reverse=True))
 
+    print("the log keeps a month, and the newest line of every job")
+    with tempfile.TemporaryDirectory() as td3:
+        t3 = Path(td3)
+        run(t3, ["render", "old render - ok", "--at", "2026-06-01 10:00"])
+        _, out2, _ = run(t3, ["build", "old build - ok", "--at", "2026-06-02 10:00"])
+        run(t3, ["build", "month-old build - ok", "--at", "2026-07-20 10:00"])
+        run(t3, ["build", "edge build - ok", "--at", "2026-07-16 10:00"])
+        rc, out, lines = run(t3, ["review", "today - ok", "--at", "2026-08-16 10:00"])
+        msgs = [l.split(" · ")[3] for l in lines if " · " in l]
+        check("the write still exits 0", rc, 0)
+        check("an old line with a newer one of its job is pruned", "old build - ok" in msgs, False)
+        check("a job's only line survives however old", "old render - ok" in msgs, True)
+        check("31 days back from the newest is kept", "edge build - ok" in msgs, True)
+        check("inside the month is kept", "month-old build - ok" in msgs, True)
+        check("the write that pruned says so", "pruned 1 line" in out2, True)
+        check("the fixture's own line (2026-08-16 build) is kept", "an earlier run — ok" in msgs, True)
+
     print("--start refuses a message; the closing call requires one")
     rc, out, _ = run(tmp, ["--start", "build", "message here"])
     check("--start with a message exits 1", rc, 1)
