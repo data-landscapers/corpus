@@ -215,9 +215,12 @@ python scripts/bulletin.py --assemble      # then commit outputs/bulletins/
 
 ```bash
 python scripts/report-register-check.py     # no --unit: the default is all 60
+python scripts/lint-considered.py           # every unit; the "No evidence" trap
 ```
 
 **This is the step that stops a finding living in a console.** Every other check in Job 1 is run per unit, on the units the pass worked, so a finding in a unit nobody touched is reported to nobody — and accumulates. On 2026-09-08 the estate-wide run had never been made: 203 register hits over 54 files, two progress reports outside their word band and one indicator cell, none of it in any log line or message. **Its counts go in the log line at step 3**, and anything the run did not clear gets a block at step 2. It is a disclosure the run computes, not one the operator has to remember, and it is **not a gate** — `report-layer.md` §10's tally is still a tally.
+
+**`lint-considered.py` runs here for the same reason** *(2026-09-17, strategic review 4 R13)*. It is the one query that would have caught the 467 false ***No evidence*** rows — a source marked considered, over an indicator the report says the base holds nothing on, cited by no ledger row — and stage 4's corrected step 2 is what stops a run making more of them. The repair is done and the lint reads clean; it runs estate-wide from here so that it goes on being read after everyone has forgotten what it was for. `documentation/considered-not-carried.md` is the defect and `REREAD.md` the repair loop, kept for the unit that turns out to have been missed.
 
 **2. Message Bill, if anything is owed him** — one block under the marker in `logs/messages-for-bill.md`, at most 80 words. Nothing owed, nothing written: the normal outcome. After writing one, `python scripts/lint-messages.py` counts both caps (five open blocks, 80 words each) and `python scripts/lint-preambles.py` checks that the file's preamble is still a pointer.
 
