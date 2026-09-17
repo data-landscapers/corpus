@@ -12,7 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
-2026-09-17 07:59 · build · 38m · catalogue 22,162, 47 units and 264 sources read, 86 rows minted and 43 moved, 5 gaps settled, 2 retired-record citations struck, mojibake repaired in 31 reports; scope 236 in and 3 XGL unverified, register 63, bulletin 93 items — ok
+2026-09-17 07:59 · build · 38m · catalogue 22,162, 47 units and 264 sources read, 61 rows minted and 35 moved, 3 gaps settled, 2 retired-record citations struck, mojibake repaired in 31 reports; scope 236 in and 3 XGL unverified, register 63, bulletin 93 items — ok
 2026-09-17 07:21 · notes · unclocked · Note 28 closed: osint_lib.read_manifest reports a failed read as unreadable with path and exception, never as absent; two test cases hold it. Corpus c414e4d, share 4ff81af. Also committed OSINT's pending share edits (e1fc852).
 2026-09-16 19:11 · build · unclocked · catalogue alerts built, deployed and tested end to end (D1-D17), cosmetics done; first digest Monday 2026-09-21 as a draft — ok
 2026-09-16 09:54 · render · unclocked · alerts built — pages, Worker, tests; B done, C next
