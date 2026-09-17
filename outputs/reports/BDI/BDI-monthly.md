@@ -1,11 +1,11 @@
 ---
 title: Burundi — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 place: BDI
 ledger_rows: 35
 not_held: 15
-record: 5d194733f248
+record: beb1fb0ebd66
 ---
 
 # Burundi: monthly update, August – September 2026
@@ -45,6 +45,8 @@ Two regional processes opened and neither has a text. A technical team [agreed o
 On 3 August the regulator ARCT [accepted that internet quality is degraded and named the causes](https://www.iwacu-burundi.org/telecommunications-un-casse-tete-pour-les-abonnes/): recurrent electricity cuts forcing base stations and data centres onto generators the operators struggle to fuel, unstable supply from the utility REGIDESO, bandwidth saturation in urban centres, ageing transmission equipment and simple absence of masts in parts of the country. It said it can apply the sanctions in operators' licence conditions, and named two remedies: a draft law enabling ICT infrastructure sharing and a PAFEN-financed mast-deployment programme. Lumitel and Econet Leo were contacted for that account and did not respond.
 
 On the money side, the universal service fund's [revised FY2026/27 procurement plan carries BIF 11.40bn for dedicated IP transit](https://armp.gov.bi/archives/10856) — 8 Mbit to public health facilities and 10 Mbit to schools — funded from the 1% levy on operator turnover rather than from the general budget.
+
+International capacity moved for the first time in the record: Tanzania's state operator and the Burundi Backbone System [agreed to raise the Tanzanian route from 4Gbps to 10Gbps](https://techafricanews.com/2026/09/09/ttcl-bbs-increase-tanzania-burundi-connectivity-capacity-10gbps/) on 9 September. Nothing is published for the Rwandan or Congolese routes, so the country's total is still unknown.
 <!-- /narrative -->
 ### Energy
 
