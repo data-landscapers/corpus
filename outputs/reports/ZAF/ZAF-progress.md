@@ -3,10 +3,10 @@ title: South Africa — progress report, September 2025 – September 2026
 compiled: 2026-09-17
 period: 2025-09-01 to 2026-09-17
 place: ZAF
-ledger_rows: 300
+ledger_rows: 305
 not_held: 23
 indicators: 121
-record: 30b6fc1a3455
+record: c39c6853fbbf
 ---
 
 # South Africa: progress report, September 2025 – September 2026
