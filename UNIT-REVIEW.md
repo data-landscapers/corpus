@@ -24,7 +24,7 @@ python scripts/unit-review.py next           # any other cycle
 
 **Exit 0 prints tonight's two units, one a line, and each is reviewed in turn — steps 1 to 6 whole for the first, then for the second; exit 1 means none is owed now** — a cycle not started by `/poll` and outside 21:00–05:00 — and the review is skipped with no log line and no message. Exit 2 is a malformed `logs/unit-review.csv`: write one message block quoting it and go on to the render. Call it once and work the list it printed: `done` re-sorts the rotation, so a second call names a different pair. The script's docstring holds the rotation order, the count and the time rule; do not re-derive them.
 
-**Skip it too if the build half did not finish** — `logs/.build-in-progress` present, or the newest `· build ·` line `errored`. The seam will stop the cycle, and a review over a half-built unit reviews the wrong thing.
+**Skip it too if the build half did not finish** — `logs/.build-in-progress` present, or the newest `· **BUILD** ·` line `errored`. The seam will stop the cycle, and a review over a half-built unit reviews the wrong thing.
 
 ## What a unit issues
 

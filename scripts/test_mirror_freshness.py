@@ -56,6 +56,10 @@ CASES: list[tuple[str, str | None, str | None, list[str], int]] = [
         mirror_line(5), run_line(1), [], 1,
     ),
     (
+        "older than a render logged in bold capitals",
+        mirror_line(5), run_line(1, "**RENDER**"), [], 1,
+    ),
+    (
         "simply old, with nothing else moving",
         mirror_line(24 * 8), run_line(24 * 9), [], 1,
     ),

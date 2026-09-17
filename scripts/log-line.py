@@ -19,7 +19,7 @@ breaking this. If it is missing, this fails rather than guessing where the entri
 — a wrong guess writes a run line into the frontmatter.
 
 **Every line carries how long the run took** *(Bill, 2026-08-17)*, as a third field:
-`YYYY-MM-DD HH:MM · job · 3h02m · what happened`. The duration is **measured, not
+`YYYY-MM-DD HH:MM · **JOB** · 3h02m · what happened`. The duration is **measured, not
 remembered** — a run stamps the clock into `logs/.run-start-{job}` when it begins and the
 closing call reads it back, so the number is not a session's recollection of when it
 started. `--since` and `--took` state it by hand where no stamp was taken.
@@ -320,8 +320,10 @@ def main() -> int:
         print(f"  {MARKER}")
         return 1
 
-    entry = "{:%Y-%m-%d %H:%M} · {} · {} · {}".format(
-        when, args.job, took, args.message.strip())
+    # The job name is written bold and upper-case so a run stands out on a skim
+    # (Bill, 2026-09-17); readers match it case-insensitively with or without the stars.
+    entry = "{:%Y-%m-%d %H:%M} · **{}** · {} · {}".format(
+        when, args.job.upper(), took, args.message.strip())
     where = insert_at(lines, at, when)
     lines.insert(where, entry)
     if where != at + 1:

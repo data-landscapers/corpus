@@ -24,7 +24,7 @@ last_reviewed: 2026-09-17
 
 **Its rules are not restated here.** How a note is read, actioned, closed and committed is `CLAUDE.md` → *The exchange* and the share's `README.md` → *Conventions*: re-read the file rather than trusting a copy held from earlier in the session, close a note by moving its full text and every dated annotation to `notes-for-corpus-resolved.md` with nothing left at the number, stage the share explicitly and push straight after committing. This file says only when it runs.
 
-**An empty queue is the normal outcome and writes nothing** — no log line, no message, no commit. Where the drain did work it writes its own `· notes ·` line before the build's, naming the numbers closed.
+**An empty queue is the normal outcome and writes nothing** — no log line, no message, no commit. Where the drain did work it writes its own `· **NOTES** ·` line before the build's, naming the numbers closed.
 
 **A note too large for the run does not hold the cycle, and neither does one that fails.** The unattended rule is the rule everywhere else: take the conservative option and state it, never stop to ask. Annotate the note with what was established, leave it open at its number, put a line in the build half's message to Bill, and go on to the build — a note left open is a note still queued, which is where it started. What the drain must not do is start the build over a half-written share: commit and push before stage 0, or leave the share untouched.
 
@@ -67,7 +67,7 @@ The cycle has no stage of its own — steps 1 and 4 are jobs with their own runb
 
 ## What does not change
 
-- **`· build ·`, `· review ·` and `· render ·`, exactly as each job writes them — no `· cycle ·` job name**: `lint-mirror-freshness.py` finds the newest `· render ·` line, Step 0 greps for `· build ·`, and per-half durations stay comparable. A cycle is indistinguishable in the log from two runs an hour apart, which is correct — and a `· notes ·` line ahead of them, on the cycles where there was something to drain, is indistinguishable from the hand-run drains that wrote that line before.
+- **`· **BUILD** ·`, `· **REVIEW** ·` and `· **RENDER** ·`, exactly as each job writes them — no `· **CYCLE** ·` job name**: `lint-mirror-freshness.py` finds the newest render line, Step 0 greps for the build line, and per-half durations stay comparable. A cycle is indistinguishable in the log from two runs an hour apart, which is correct — and a `· notes ·` line ahead of them, on the cycles where there was something to drain, is indistinguishable from the hand-run drains that wrote that line before.
 - **Two message blocks, each written by the half that owes it, when it owes it** — held back and merged, the build half's message dies with a seam stop.
 - **The `.build-in-progress` sentinel stays, and there is no cycle sentinel.** A cycle that dies during the render half has already stood down its build; the repair is a render — or another whole cycle, whose build half finds nothing unconsidered and costs almost nothing. The render is idempotent, so re-running it is never the wrong move.
 - **Commit discipline is unchanged**: one commit per coherent stage in both halves; the cycle adds none.

@@ -33,14 +33,14 @@ if [ -e logs/.build-in-progress ]; then
   echo "RENDER STOP: $(cat logs/.build-in-progress) — that build never finished"; exit 1
 fi
 # 2. the newest build line must exist and must not be an error line
-build_line=$(grep -m1 ' · build · ' logs/log.md)
+build_line=$(grep -m1 -i -E ' · (\*\*)?build(\*\*)? · ' logs/log.md)
 [ -n "$build_line" ] || { echo "RENDER STOP: no build line in logs/log.md"; exit 1; }
 case "$build_line" in *errored*) echo "RENDER STOP: last build errored — $build_line"; exit 1 ;; esac
 # 3. outputs/ must be committed — a finished build leaves nothing outstanding
 if [ -n "$(git status --porcelain outputs)" ]; then
   echo "RENDER STOP: outputs/ has uncommitted changes"; exit 1
 fi
-echo "build ok: ${build_line%% · build · *}"
+echo "build ok: ${build_line%% · *}"
 ```
 
 **Check 1 is the mechanism; the other two are cheap corroboration.** The sentinel survives exactly one thing — a session that died without saying so — and asserts the condition directly. (A timestamp test cannot: other jobs legitimately commit `outputs/`, and a died build commits its finished units and writes nothing, so timestamp logic fails in both directions.)
@@ -416,7 +416,7 @@ It backs up **both repos** — OSINT and Corpus, working trees and full git hist
 python scripts/lint-mirror-freshness.py     # 0 clean · 1 stale or failed · 2 nothing recorded
 ```
 
-It rules on three things: the newest mirror line recording `FAIL`; that line predating the newest `· render ·` line; and plain age (`--max-age-hours`, default 72 — the catch for a quiet fortnight in which nothing happened for the first two tests to compare against). Commits landed since the mirror are reported, not gated. **It reports and never fixes**: `mirror.bat` mirrors *onto* the backup copies, a destructive write a lint does not get to fire on its own opinion. Run it before the mirror to see whether one is owed, and after to confirm the line landed.
+It rules on three things: the newest mirror line recording `FAIL`; that line predating the newest `· **RENDER** ·` line; and plain age (`--max-age-hours`, default 72 — the catch for a quiet fortnight in which nothing happened for the first two tests to compare against). Commits landed since the mirror are reported, not gated. **It reports and never fixes**: `mirror.bat` mirrors *onto* the backup copies, a destructive write a lint does not get to fire on its own opinion. Run it before the mirror to see whether one is owed, and after to confirm the line landed.
 
 **RENDER runs the mirror.** The runbook is the authorisation and the destination is a backup whose purpose is to be overwritten by the current state. What stays Bill's is firing one *outside* a run.
 

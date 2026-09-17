@@ -102,6 +102,7 @@ with tempfile.TemporaryDirectory() as td:
     rc, out, lines = run(tmp, ["build", "nothing was stamped — ok"])
     check("exit 0", rc, 0)
     check("field reads unclocked", lines[0].split(" · ")[2], ll.UNCLOCKED)
+    check("the job is bold upper-case", lines[0].split(" · ")[1], "**BUILD**")
 
     print("--start then a closing call reports measured elapsed")
     rc, out, _ = run(tmp, ["--start", "build", "--at", stamped(182)])
@@ -151,12 +152,15 @@ with tempfile.TemporaryDirectory() as td:
     check("the bad stamp is gone", Path(ll.stamp_path("build")).exists(), False)
 
     print("the first two fields do not move — lint-mirror-freshness matches on them")
-    import re
-    RUN_RE = re.compile(r"^(\d{4}-\d{2}-\d{2} \d{2}:\d{2})\s+·\s+(\w[\w-]*)\s+·")
+    import importlib.util
+    _spec = importlib.util.spec_from_file_location(
+        "mirror_freshness", Path(__file__).with_name("lint-mirror-freshness.py"))
+    _mf = importlib.util.module_from_spec(_spec)
+    _spec.loader.exec_module(_mf)
     _, _, lines = run(tmp, ["render", "241 documents — ok"])
-    m = RUN_RE.match(lines[0])
+    m = _mf.RUN_RE.match(lines[0])
     check("the freshness regex still matches", bool(m), True)
-    check("and still reads the pass name", m.group(2) if m else None, "render")
+    check("and still reads the pass name", m.group(2).lower() if m else None, "render")
 
     print("a timestamp ahead of the clock is refused, not written")
     rc, out, lines = run(tmp, ["build", "x - ok", "--at", stamped(-180)])

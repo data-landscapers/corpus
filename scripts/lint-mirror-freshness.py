@@ -58,8 +58,9 @@ RUN_LOG = os.path.join(ROOT, "logs", "log.md")
 
 # `- **2026-08-16 12:54** - ok - osint(robocopy=3 bundle=0) corpus(...) ffs=0`
 MIRROR_RE = re.compile(r"^-\s+\*\*(\d{4}-\d{2}-\d{2} \d{2}:\d{2})\*\*\s*-\s*(\S+)\s*-\s*(.*)$")
-# `2026-08-16 12:50 · render · ...`
-RUN_RE = re.compile(r"^(\d{4}-\d{2}-\d{2} \d{2}:\d{2})\s+·\s+(\w[\w-]*)\s+·")
+# `2026-09-17 12:50 · **RENDER** · ...`, and the plain lower-case form lines carried
+# before 2026-09-17 — the job is matched with or without the stars, in either case.
+RUN_RE = re.compile(r"^(\d{4}-\d{2}-\d{2} \d{2}:\d{2})\s+·\s+(?:\*\*)?(\w[\w-]*)(?:\*\*)?\s+·")
 
 DEFAULT_MAX_AGE_HOURS = 72
 
@@ -99,7 +100,7 @@ def newest_run(pass_name: str) -> dt.datetime | None:
     with open(RUN_LOG, encoding="utf-8") as fh:
         for line in fh:
             m = RUN_RE.match(line.strip())
-            if m and m.group(2) == pass_name:
+            if m and m.group(2).lower() == pass_name.lower():
                 when = parse(m.group(1))
                 if best is None or when > best:
                     best = when
