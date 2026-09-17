@@ -14,10 +14,6 @@ last_reviewed: 2026-08-28
 
 <!-- newest first: a new block goes directly below this line -->
 
-## 2026-09-15 13:07 · build
-
-- **Authored status baselines cite sources that do not say what they are cited for.** Read against the source bodies this cycle, all six backfill units had such claims: misdated figures, wrong institutions, detail absent from the link. About 70 were repaired (MAR 18, LBR 17, LBY 12, LSO 10, MDG 5, GNQ 3). The other 48 baselines were built the same way and have not been checked. Yours: whether to commission a per-unit citation re-read.
-
 ## 2026-09-11 01:20 · build
 
 - The 2026-09-08 block on progress reports outside their band is now half cleared:
@@ -34,21 +30,3 @@ last_reviewed: 2026-08-28
   test the frame against the ledger, and the ledger is what lost the evidence.
   `documentation/considered-not-carried.md`. Yours: the re-read is scope, and
   whether to add the lint.
-
-## 2026-09-08 23:13 · build
-
-- The two progress reports outside their word band are XNA at 403 words over 12 ledger
-  rows and XWA at 1,477 over 84. The band is a fixed 800-1150 for every region, so it
-  cannot fit both, and clearing XNA means padding 400 words about 12 rows. Both left as
-  they are. The fix is the skeleton’s band, which is a published-shape decision and
-  yours. Register hits are at their floor of 91.
-
-## 2026-09-08 17:05 · build
-
-- `report-register-check.py` defaults to all 60 units and no run had used it that way —
-  each checked only what it touched, so findings elsewhere went unread: **203 register
-  hits over 54 files, XNA-progress 397 words under its band, XWA-progress 327 over, one
-  ZAF cell 40 over.** Those inside quoted source stand, so it is a
-  review list, not 203 defects. BUILD's ending sequence now runs it estate-wide.
-  Draining it is a session's work, yours to schedule.
-
