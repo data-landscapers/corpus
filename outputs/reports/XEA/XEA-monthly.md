@@ -1,11 +1,11 @@
 ---
 title: East Africa — monthly update, August – September 2026
-compiled: 2026-09-10
-period: 2026-08-01 to 2026-09-10
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 place: XEA
-ledger_rows: 20
+ledger_rows: 23
 not_held: 0
-record: 5ce88dc2f00c
+record: 48b23ee88e84
 ---
 
 # East Africa: monthly update, August – September 2026
@@ -28,6 +28,8 @@ The EAC Cross-Border Payment System Masterplan moved from a five-year framework 
 [IGAD member states adopted terms of reference for a Cross-Border Trade Knowledge-Sharing Network at the close of a two-day Nairobi consultation on 21 August, settling its membership, governance and role as a platform for evidence-based cross-border agricultural trade decisions, funded through the World Bank's Food Systems Resilience Programme](https://igad.int/igad-advances-cross-border-trade-knowledge-sharing-through-regional-consultation/).
 
 The [EAC Council of Ministers approved an electronic recruitment system and lifted the Community's standing recruitment moratorium at a Dedicated Meeting in Mombasa, 18-21 August, directing the Secretariat to advertise 69 priority positions across every partner state from FY 2026/2027](https://www.eac.int/press-releases/3583-eac-ministers-approve-phased-recruitment-to-strengthen-community-institutions).
+
+The 2023 IGAD Treaty reached its threshold: [five of seven member states have ratified and the Council of Ministers endorsed its entry into force on 15 September](https://igad.int/communique-of-the-74th-extraordinary-session-of-the-igad-council-of-ministers/), replacing the 1996 agreement; the date of entry into force is still to be notified.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 
@@ -41,6 +43,8 @@ A [Rwandan analyst argued on 1 August that East Africa has built an AI applicati
 
 <!-- narrative: instruments--tech-ai -->
 [COMESA consulted in Kigali on 6 August on two regional instruments it is drafting in parallel, an AI strategy and a digital-inclusion strategy, after similar engagements in Kenya and Zambia](https://www.comesa.int/consultations-held-to-shape-regional-artificial-intelligence-digital-inclusion-strategies-in-comesa/); neither has a published date, drafter or adoption route, and Rwanda's own AI-policy progress was cited at the same consultation as a case COMESA is drawing on for its regional framework.
+
+COMESA's work then reached validation: member states, the African Union and the World Bank [met in Eswatini from 16 September to validate a draft study on artificial intelligence and emerging technologies](https://times.co.sz/43849/news/eswatini-hosts-regional-push-for-practical-ai-policies/), the first phase before a regional AI strategy, model policy guidelines and a model regulatory framework are drafted. The study itself is not published. IGAD moved separately: its Council of Ministers [endorsed an IGAD Artificial Intelligence Centre of Excellence in principle on 15 September](https://igad.int/communique-of-the-74th-extraordinary-session-of-the-igad-council-of-ministers/) and asked member states to bid to host it, with no host, budget or mandate yet set.
 <!-- /narrative -->
 
 ## Shared systems and infrastructure
@@ -49,6 +53,11 @@ A [Rwandan analyst argued on 1 August that East Africa has built an AI applicati
 
 <!-- narrative: systems--infra-connect -->
 Africa's peering forum, AfPIF, [opened in Kigali on 13 August with landlocked markets at the centre of its 2026 edition, framed around inland East and Central African markets with no direct submarine-cable landing access](https://taarifa.rw/2026/08/13/african-peering-interconnection-forum-afpif-convenes-amid-push-for-inland-connectivity/). [Paratus marked its first anniversary in Rwanda at the same event on 18 August, showcasing the roughly 2,000km Goma–Mombasa fibre corridor it launched in February, which the company says now connects into a 16-country network alongside its Starlink-powered services](https://paratus.africa/blog/paratus-rwanda-rings-in-afpif-2026/).
+<!-- /narrative -->
+### Data Exchange
+
+<!-- narrative: systems--dpi-exchange -->
+The regional cargo-tracking platform changed hands at the seal. Kenya's revenue authority [opened the Regional Electronic Cargo Tracking System to private electronic-seal vendors](https://www.the-star.co.ke/business/markets/2026-09-16-traders-support-revenue-agencys-multi-vendor-cargo-tracking-system), which shippers welcomed as ending seal shortages behind delays at Mombasa, where transit cargo is more than 30 per cent of throughput. No vendor list or start date is published, and the shippers' council's own question - whether the systems interfaces are ready - is unanswered.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 

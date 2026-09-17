@@ -1,11 +1,11 @@
 ---
 title: Central Africa — monthly update, August – September 2026
-compiled: 2026-09-16
-period: 2026-08-01 to 2026-09-16
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 place: XCA
-ledger_rows: 10
+ledger_rows: 12
 not_held: 0
-record: 8066905a9fe4
+record: 8f21cb269aaf
 ---
 
 # Central Africa: monthly update, August – September 2026
@@ -44,6 +44,8 @@ A trade-press account of the CEMAC interoperable QR-code standard [put GIMAC's t
 
 <!-- narrative: systems--infra-connect -->
 A [Central Africa Peering Forum was announced for Yaounde, 30 September to 1 October](https://tech.africa/capf-2026/), covering peering, interconnection, routing security and RPKI. It closes a 2026 regional calendar that already ran West Africa's forum in Cotonou in June and the continental AfPIF in Kigali in August, and the announcement itself carries no agenda or attendance detail yet.
+
+Eight ECCAS states [met in Brazzaville on 15 and 16 September with the ITU and the regional regulators' assembly on a model framework for national emergency telecommunications plans](https://www.adiac-congo.com/content/telecoms-lafrique-centrale-renforce-ses-dispositifs-face-aux-catastrophes-naturelles-171621), which each state is to adapt; no framework is adopted and no national plan is held.
 <!-- /narrative -->
 ### Data Storage
 
@@ -58,6 +60,8 @@ BEAC [put SYSTAC 2 into production on 3 August](https://www.beac.int/wp-content/
 BEAC's July accession to PAPSS had its first public test this month: a Cameroonian trade outlet [reported on 25 August that Cameroonian businesses still had no operational access](https://africtelegraph.com/blog/papss-en-cemac-les-entreprises-camerounaises-encore-en-attente/) to the continental settlement rail, with no public list yet of operational Cameroonian banks, open corridors, tariffs or ceilings.
 
 The accession then moved to the banks that have to use it. On 9 September the central bank and the operator [held a webinar to accelerate the accession of the zone's commercial banks, setting out the practical terms of participation and the next steps in the process](https://fr.journalducameroun.com/integration-financiere-la-beac-et-le-papss-mobilisent-les-banques-de-la-cemac/), the central bank framing it as a move toward African financial sovereignty and reduced dependence on the dollar and the euro. Still no member-state bank is named as acceded or in process, and no timetable, volume or corridor figure is published — a month after businesses in the zone's largest economy reported no operational access, the answer is another briefing.
+
+The regional central bank named a digital currency as a reform priority. Its governor [met the IMF's Africa director on 14 September to define a banking model for the next decade, with a central bank digital currency among the priorities](https://www.lepaystchad.com/46551-2/), framed as protecting monetary sovereignty against private digital assets; no design, timetable or legal instrument is published.
 <!-- /narrative -->
 ### National statistics
 

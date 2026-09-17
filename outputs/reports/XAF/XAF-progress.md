@@ -3,16 +3,16 @@ title: Africa — progress report, September 2025 – September 2026
 compiled: 2026-09-17
 period: 2025-09-01 to 2026-09-17
 place: XAF
-ledger_rows: 185
+ledger_rows: 184
 not_held: 3
-record: 745e625b8585
+record: ddf7e1bf01f8
 ---
 
 # Africa: progress report, September 2025 – September 2026
 
 *Compiled 2026-09-17 by Claude Opus from the documents in the Corpus repository. Sections run from the region's institutions outwards to what funds them. Each row sets the position at the start of the period against the position at the end, and the Progress column says how it moved. The period runs to the date of issue rather than to the last month's close.*
 
-*Of 185 bodies, instruments and systems on this place's ledger, 119 changed position between 2025-09-01 and 2026-09-17, 27 did not, 36 carry no stated baseline, and 3 are ***Not held*** at both ends.*
+*Of 184 bodies, instruments and systems on this place's ledger, 119 changed position between 2025-09-01 and 2026-09-17, 27 did not, 35 carry no stated baseline, and 3 are ***Not held*** at both ends.*
 
 *Shape check, run before the comparison: 917 sources for this place in the window — 118 in the earlier half (2025-09 to 2026-02), 799 in the later (2026-03 to 2026-09). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
@@ -112,7 +112,6 @@ What has not moved is the digital trade protocol's own domestication: state part
 | Monitoring and evaluation of the AU Continental AI Strategy | Provided for in the Strategy through an African AI readiness index, a public monitoring dashboard and regional AI observatories, with nothing published | [Still nothing published; the Peace and Security Council requested the Commission and its AI Advisory Group to submit periodic reports on 2026-04-16, and the Strategy's own midterm review falls in 2027](https://au.int/sites/default/files/documents/44004-doc-EN-_Continental_AI_Strategy_July_2024.pdf) | No change |
 | Training data for African languages | A survey of 734 papers found the continent's languages scarcely reflected in state-of-the-art systems, with resource creation active and growing (2025-05) | [A research company has set out to build training data for a thousand African languages, after years in which the scarcity of that data was what stopped anyone building language technology for the continent (2026-09)](https://techcabal.com/2026/09/08/mansa-ai-african-languages/) | No change, a new target stated and nothing delivered |
 | Artificial-intelligence startups counted in a continental census | 669 AI startups among more than 900 AI stakeholders, in a separate continental mapping on different definitions and sources (2024-06) | [224 firms across 22 countries and a Pan-African category, founded 2002 to 2025; 195 active and 18 defunct by operating status, and 143 early stage, 72 growth stage and 9 mature by stage](https://doi.org/10.7910/DVN/Z0PKGO) | ***Baseline not held, the earlier count is from a different census and not a series*** |
-| COMESA study on artificial intelligence and emerging technologies | ***Baseline not held*** | [Member states, regional bodies, the African Union and the World Bank met in Eswatini from 16 September 2026 to validate a draft study under the World Bank-funded Inclusive Digitalisation in Eastern and Southern Africa programme, before a second phase developing a regional AI strategy, model policy guidelines and a model regulatory framework. The draft is not published](https://times.co.sz/43849/news/eswatini-hosts-regional-push-for-practical-ai-policies/) | ***Baseline not held*** |
 | Public capital committed to the AU Continental AI Strategy | ***Baseline not held*** | [About US$150m of public capital committed by African governments against an implementation cost the Strategy itself prices at between US$250bn and US$500bn - a fraction of one per cent - and an ambition to add US$1.5 trillion to Africa's GDP by 2030; independent research over the Strategy's first eighteen months found the funding heavily concentrated in Kenya, Nigeria, South Africa and Egypt, with little reaching the remaining member states](https://thevaultznews.com/2026/08/27/africa-risks-missing-2030-ai-targets-over-500-billion-financing-shortfall/) | ***Baseline not held*** |
 
 ### Open data

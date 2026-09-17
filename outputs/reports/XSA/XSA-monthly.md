@@ -1,11 +1,11 @@
 ---
 title: Southern Africa — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 place: XSA
-ledger_rows: 18
+ledger_rows: 19
 not_held: 2
-record: f0633b4a50db
+record: 7cc402e96c77
 ---
 
 # Southern Africa: monthly update, August – September 2026
@@ -30,6 +30,8 @@ Southern Africa's preparatory process for the ITU's 2027 World Radiocommunicatio
 CRASA, the regional telecommunications regulators' association, [held the first Finance, Risk and Audit Committee meeting of its 2026/27 financial year at Maseru on 20–21 August](https://techreviewafrica.com/news/6868/crasa-holds-finance-risk-and-audit-committee-meeting-in-lesotho), reviewing financial and audit matters and assessing institutional risk across its regional programmes. No budget, audit opinion or risk register reaches the repository from the account, which is a trade report of the association's own meeting.
 
 The regulators' association met on its own workplan rather than on a rule. Its consumer and stakeholder policy committee [held the financial year's first ordinary in-person meeting at Gaborone from 2 to 4 September 2026 to advance the 2026/27 workplan](https://events.crasa.org/events/). No agenda outcome, decision or published workplan follows it on the record, which is the standing shape of this body's output in the repository.
+
+Public accounts committees took digital systems into their remit. SADCOPAC [adopted 32 resolutions at its annual general meeting in Eswatini on 16 September](https://eswatinipositivenews.online/sadcopac-turns-oversight-into-action-with-32-resolutions/), committing each committee to map major digital transformation projects and complete at least one value-for-money review of a digital system within 12 months, with oversight extended to digital identity, e-procurement and e-payment systems.
 <!-- /narrative -->
 
 ## Instruments and harmonisation
@@ -43,6 +45,8 @@ The regulators' association met on its own workplan rather than on a rule. Its c
 
 <!-- narrative: instruments--tech-ai -->
 Two regional AI instruments moved in the same window, on different tracks. COMESA [held a four-day stakeholder consultation in Kigali in August](https://www.comesa.int/consultations-held-to-shape-regional-artificial-intelligence-digital-inclusion-strategies-in-comesa/) toward a regional AI strategy under the World Bank-supported IDEA programme, alongside a parallel digital-inclusion strategy; neither has a published draft, drafter or adoption route. SADC's own Regional Artificial Intelligence Strategy and Regulatory Framework is, by contrast, [attested only by a member state rather than by the Secretariat](https://itweb.africa/article/sadc-puts-spotlight-on-ai-data-governance/JN1gP7OAw5wqjL6m): Malawi's ICT ministry described it as under development, and a regional workshop at Harare on data governance in the AI age — convened with the World Bank, a continental alliance and a UN agency — set out to harmonise member states' data policy for AI readiness. No Secretariat document on the framework is held.
+
+COMESA's work then reached validation: member states, the African Union and the World Bank [met in Eswatini from 16 September to validate a draft study on artificial intelligence and emerging technologies](https://times.co.sz/43849/news/eswatini-hosts-regional-push-for-practical-ai-policies/), the first phase before a regional AI strategy, model policy guidelines and a model regulatory framework are drafted. The study itself is not published.
 <!-- /narrative -->
 
 ## Shared systems and infrastructure

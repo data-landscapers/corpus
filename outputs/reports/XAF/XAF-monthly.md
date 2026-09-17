@@ -3,9 +3,9 @@ title: Africa — monthly update, August – September 2026
 compiled: 2026-09-17
 period: 2026-08-01 to 2026-09-17
 place: XAF
-ledger_rows: 125
+ledger_rows: 124
 not_held: 3
-record: cb7896cbf33f
+record: e882ddd8c083
 ---
 
 # Africa: monthly update, August – September 2026
@@ -67,8 +67,6 @@ Two research and governance efforts moved: an [African Humanitarian AI Citation 
 Two commercial programmes opened: a [technology company offered African students one year of its paid AI assistant tier free from August](https://blog.google/intl/en-africa/one-year-of-gemini-on-us-for-students/), with no country list, eligibility rule or statement of what happens after the year; and the same company's [Africa Applied AI Lab, based at the Accra AI Community Centre, opened applications on 17 August](https://www.ictworks.org/apply-now-google-africa-applied-ai-lab-for-founders/) for a co-development cohort running mid-September to early December, giving selected startups pre-release model access, mentorship and go-to-market support with no equity taken and no cash award guaranteed; cohort size and selection criteria are not stated.
 
 The scarcity behind African-language models is being attacked at the data layer. A research company [has set out to build training data for a thousand African languages, after years in which the absence of that data was what stopped anyone building language technology for the continent](https://techcabal.com/2026/09/08/mansa-ai-african-languages/). It is an ambition rather than a delivered corpus: no language list, licence, funding or release is held, and it sits alongside the grant programme covering twenty-six language-model projects recorded separately.
-
-COMESA's regional AI work reached validation. Member states, the African Union and the World Bank [met in Eswatini from 16 September to validate a draft study on artificial intelligence and emerging technologies](https://times.co.sz/43849/news/eswatini-hosts-regional-push-for-practical-ai-policies/), before a second phase drafting a regional AI strategy, model policy guidelines and a model regulatory framework; the draft itself is not published.
 <!-- /narrative -->
 
 ## Shared systems and infrastructure

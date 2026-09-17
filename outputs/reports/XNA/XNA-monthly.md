@@ -1,11 +1,11 @@
 ---
 title: North Africa — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 place: XNA
-ledger_rows: 5
+ledger_rows: 6
 not_held: 0
-record: 213bb1680ad7
+record: 929148f1ed55
 ---
 
 # North Africa: monthly update, August – September 2026
@@ -36,4 +36,9 @@ The Arab League's education and science organisation [published its Charter on t
 
 <!-- narrative: systems--infra-connect -->
 A year after North Africa's first 5G launches, three of the four markets deliver a worse aggregate mobile experience than before them. Ookla's [one-year-on retrospective, published 3 August](https://www.ookla.com/articles/5g-north-africa-2026), found the combined 4G+5G median below the pre-launch baseline in Egypt, Morocco and Tunisia, with 4G itself down 28% in Morocco and Tunisia; Algeria alone improved. Ookla names regulatory design — coverage mandates, licence terms and fixed-wireless speed floors, which differ across all four markets — as the likely variable. Algeria's own 5G licences were awarded only in December 2025, so its market is the newest of the four and not yet reflected in a full year of data.
+<!-- /narrative -->
+### National statistics
+
+<!-- narrative: systems--data-statistics -->
+The only statistics development held is administrative. The Arab Maghreb Union [tendered an audit of the consultant fees paid under its 2023-2026 migration-statistics cooperation with Statistics Sweden](https://maghrebarabe.org/6762/), covering January to June 2026; nothing the project has produced for the Union or its member states is held.
 <!-- /narrative -->

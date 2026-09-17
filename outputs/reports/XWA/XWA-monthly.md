@@ -1,11 +1,11 @@
 ---
 title: West Africa — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 place: XWA
-ledger_rows: 29
+ledger_rows: 32
 not_held: 1
-record: 1d3df278c8b1
+record: 031ceb66e307
 ---
 
 # West Africa: monthly update, August – September 2026
@@ -61,6 +61,8 @@ Domain-name practitioners [announced an initiative to coordinate country-code do
 
 <!-- narrative: instruments--tech-ai -->
 The ECOWAS Regional AI Governance Framework, resolved at a Lagos thematic dialogue in January, remains undrafted six months on: no draft text, drafting body or timetable is held. A four-country comparative study presented on 10 August [found none of Benin, Senegal, Cote d'Ivoire or Burkina Faso holds AI-specific legislation in force or in draft](https://grain-africa.org/en/intelligence-artificielle-en-afrique-de-louest-grain-presente-les-resultats-dune-etude-comparative-pour-une-gouvernance-plus-inclusive-et-responsable-de-lia/), rating Cote d'Ivoire's strategy the most advanced of the four on inclusion and data governance and finding Burkina Faso's data-protection law the only one of the four to name AI-based processing.
+
+The monetary union's Commission has a draft of its own. [It presented a regional AI strategy to journalists on 14 September](https://www.horonyafinance.com/intelligence-artificielle-luemoa-prepare-une-strategie-regionale-pour-accelerer-la-transformation-economique-de-lunion/), built on four pillars from governance and regulation to innovation finance, with regional compute centres, a sovereign cloud, a regional AI academy and an innovation fund among its instruments; no adoption date or published text is held.
 <!-- /narrative -->
 
 ## Shared systems and infrastructure
@@ -85,6 +87,8 @@ The regional interbank electronic-payments switch, GIM-UEMOA, [is running under 
 The instant-payment platform PI-SPI [held 104 authorised institutions at 31 July](https://financesao.com/uemoa-pi-spi-atteint-104-etablissements-autorises/), against 80 connected at 24 June and 74 at the end of December 2025 — up from 45 at its September 2025 launch — with Senegal (24) and Cote d'Ivoire (23) holding nearly half between them, ahead of Mali (14), Burkina Faso (13), Benin (11), Togo (9) and Guinea-Bissau and Niger (5 each). The July figure counts institutions authorised and the June figure institutions connected, so the two are not measured on the same base.
 
 The banking commission's 2025 annual report [puts electronic-money issuance at 78 institutions at 31 December 2025 against 63 a year earlier](https://www.bceao.int/sites/default/files/2026-08/RAPPORT_ANNUEL_2025_DE_LA_COMMISSION_BANCAIRE.pdf) — 59 banks in partnership with telecommunications operators or technical providers, 18 licensed electronic-money issuers (up from 14, on approvals for Djogana Pay in Cote d'Ivoire, QuickPay SA and TouchPoint Financial Services in Senegal, and Tmoney in Togo), one microfinance institution and four national treasuries also issuing, concentrated in Senegal (5) and Cote d'Ivoire (4). Provisional data on 17 of the 18 licensed issuers [puts turnover at FCFA 323.2bn, up 12%, outstanding electronic money at FCFA 1,923.2bn, up 35.2%, and profit at FCFA 16.9bn against FCFA 6.1bn in 2024](https://www.horonyafinance.com/umoa-la-monnaie-electronique-gagne-du-terrain-les-encours-bondissent-de-352-en-2025/).
+
+The instant-payment platform opened to business use: the central bank [homologated the Business APIs of 23 participants on 16 September](https://ns2.bceao.int/sites/default/files/2026-09/Communique%CC%81_Liste%20des%20API-BUSINESS%20de%20PI-SPI%20homologue%CC%81es_sept2026_0.pdf), [nine of them in Senegal and seven in Cote d'Ivoire](https://www.bceao.int/sites/default/files/inline-files/Liste_des_API-Business_PI-SPI_%20homologue%CC%81es_sept2026.pdf), letting firms send and receive payments and submit bulk settlements across the Union whatever the counterparty's provider.
 <!-- /narrative -->
 ### Sectoral management information systems
 
@@ -100,6 +104,8 @@ A regional tax-administration forum project, financed by a grant the African Dev
 
 <!-- narrative: systems--data-statistics -->
 Two regional statistics workshops convened at Abidjan on 18-22 August under the Commission's research and statistics directorate: a second operationalisation workshop training national coordination and economic policy committee members to apply the common regional frameworks for compiling and publishing macroeconomic statistics, moving the Regional Statistical Programme 2023-2027 from adopted guidelines toward guides in active use, and [the sixth Regional Coordination Meeting, which reviewed and validated the third edition of the Regional Report on International Migration in West Africa](https://ang.gw/cote-divoire-cedeao-rumo-a-harmonizacao-dos-dados-migratorios-e-macroeconomicos/). Participants at both [reviewed the two regional statistical databases and took up harmonisation of member states' 2000-2025 national series for multilateral surveillance](https://www.ecowas.int/ecowas-strengthens-the-harmonization-of-migration-data-and-macroeconomic-convergence-in-west-africa/).
+
+ECOWAS member states [began validating a practical guide for population and housing censuses in Cotonou on 15 September](https://lanation.bj/societe/recensements-generaux-de-la-population-et-de-lhabitat-lafrique-de-louest-veut-harmoniser-ses-methodes), meant to make national census data comparable across the region; the guide is not published.
 <!-- /narrative -->
 
 ## Coordination and collaboration
