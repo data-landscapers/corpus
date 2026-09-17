@@ -9,7 +9,7 @@ intersections_read: 10
 sources_cited: 138
 sections_written: 37
 not_established: 2
-acquire_lines: 49
+acquire_lines: 48
 ---
 ## Governance
 

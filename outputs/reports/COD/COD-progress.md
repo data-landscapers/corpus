@@ -4,9 +4,9 @@ compiled: 2026-09-17
 period: 2025-09-01 to 2026-09-17
 place: COD
 ledger_rows: 204
-not_held: 6
+not_held: 7
 indicators: 121
-record: c8436f83b752
+record: f953985cd880
 ---
 
 # DR Congo: progress report, September 2025 – September 2026
@@ -211,4 +211,5 @@ Where a row reads ***No evidence***, the repository holds nothing on that indica
 | Gender-disaggregated connectivity or usage | a mobile-industry gender-gap country cut, or a statistics-institute or central-bank survey with sex-disaggregated tables | 2026-09-04 |
 | National digital literacy rate or skills baseline | an international digital-skills indicator for the country, a household survey module, or the sectoral policy's baseline annexe | 2026-09-04 |
 | Domestic public funding for digital and AI research | a finance-law section or programme line for scientific research, or the AI strategy's costed roadmap | 2026-09-04 |
+| Internet service quality in Kinshasa and the regulator's response | A regulator quality-of-service measurement, a published complaint series, or a determination or sanction against an operator on service quality. | 2026-12-17 |
 

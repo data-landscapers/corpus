@@ -3,9 +3,9 @@ title: Sierra Leone — monthly update, August – September 2026
 compiled: 2026-09-17
 period: 2026-08-01 to 2026-09-17
 place: SLE
-ledger_rows: 46
+ledger_rows: 47
 not_held: 5
-record: cf7e041ea420
+record: 4059655b0fc5
 ---
 
 # Sierra Leone: monthly update, August – September 2026

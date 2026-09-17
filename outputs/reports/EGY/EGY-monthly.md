@@ -3,9 +3,9 @@ title: Egypt — monthly update, August – September 2026
 compiled: 2026-09-17
 period: 2026-08-01 to 2026-09-17
 place: EGY
-ledger_rows: 106
+ledger_rows: 108
 not_held: 48
-record: a639956cb441
+record: 2fb96d26142f
 ---
 
 # Egypt: monthly update, August – September 2026
@@ -46,6 +46,11 @@ The data-protection regulations went to the market before they bite. The ministr
 The month's data-protection movement is an objection rather than a rule. A member of the Senate's constitutional and legislative affairs committee [objected to compulsory face-print collection by private operators for mobile line registration, arguing that identity can be verified by less intrusive means and that the 2020 personal data protection law classes biometrics as sensitive data](https://www.parlgate.com/95550). The collection itself is in operation; what the repository does not hold is the instrument authorising it, the retention rule or any operator-side safeguard — which is why the objection is the first record here of a practice already running. Parliamentary pressure ran the same way on artificial intelligence, where members [called for deterrent rules to govern it](https://www.algomhor.com/466466), and neither call has yet produced a text.
 
 The telecoms regulator [referred all four mobile operators to the Public Prosecution over lines registered in users' names without their knowledge](https://www.businesstec.news/23568), a disclosure made inside its half-year complaints report rather than as a separate enforcement notice. No charge, hearing date or penalty is on file.
+<!-- /narrative -->
+### Regional collaboration
+
+<!-- narrative: governance--gov-regional -->
+Regional work this month was attendance rather than agreement. The communications ministry [took part in the second Arab artificial-intelligence summit at Hammamet from 7 to 10 September, organised by the Arab ICT organisation with the League of Arab States, working towards unified Arab positions on artificial-intelligence governance, digital sovereignty and data protection](https://fintechgate.net/251952). No instrument, declaration text or work programme came out of it that the repository holds.
 <!-- /narrative -->
 ### Standards
 
