@@ -88,17 +88,22 @@
                                                color:var(--ink-light);margin:0 0 .75rem}
 .alert-about ol,.alert-about ul{padding-left:1.2rem}
 
-/* The feed offer is collapsed because it is for the minority who use a reader,
-   and the address is long. It is on the page at all because it is the version of
-   this that needs no email address at all (design.md §1). */
-.alert-feed{border-top:1px solid var(--rule);padding-top:1.25rem;
-            margin-bottom:2.5rem;font-size:.88rem;color:var(--ink-light)}
-.alert-feed summary{cursor:pointer;font-family:var(--mono);font-size:.72rem;
-                    text-transform:uppercase;letter-spacing:.07em;
-                    color:var(--ink-faint)}
+/* The feed offer sits in the form, under the button, because at the foot of the
+   page nobody found it (Bill, 2026-09-17), and the lede points here. It is the
+   version of this that needs no email address at all (design.md §1). */
+.alert-feed{border-top:1px solid var(--rule);margin-top:1.5rem;padding-top:1rem;
+            font-size:.88rem;color:var(--ink-light)}
+.alert-feed__lab{display:block;font-family:var(--mono);font-size:.72rem;
+                 text-transform:uppercase;letter-spacing:.07em;color:var(--ink-faint);
+                 margin-bottom:.4rem}
+.alert-feed p{margin:0 0 .6rem}
 .alert-feed code{display:inline-block;word-break:break-all;background:var(--code-bg);
                  border-radius:2px;padding:.2rem .4rem;font-size:.8rem}
-.alert-feed p[hidden]{display:none}
+.alert-feed__copy{font-family:var(--mono);font-size:.7rem;margin-left:.4rem;
+                  padding:.2rem .6rem;border:1px solid var(--rule);border-radius:2px;
+                  background:none;color:var(--ink-light);cursor:pointer}
+.alert-feed__copy:hover{border-color:var(--accent);color:var(--accent)}
+.alert-feed p[hidden],.alert-feed__copy[hidden]{display:none}
 
 /* A manage row is a bordered block so that Delete belongs to one alert visibly.
    The button sits at the end on a wide row and under the pickers on a narrow one,

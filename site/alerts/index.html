@@ -8,7 +8,7 @@
 <link rel="canonical" href="https://corpus.data-landscapers.io/alerts/">
 <link rel="stylesheet" href="../assets/css/main.css?v=a004bc3c">
 <link rel="stylesheet" href="../assets/css/corpus.css?v=42a1181a">
-<link rel="stylesheet" href="../assets/css/alerts.css?v=1c9300c2">
+<link rel="stylesheet" href="../assets/css/alerts.css?v=1df9d8b5">
 <link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-BF3X4N6YML"></script>
 <script>
@@ -58,7 +58,7 @@
     <header class="article-header">
       <a class="feedback-ask" href="mailto:info@data-landscapers.io?subject=Corpus%20feedback%20%E2%80%94%20Alerts&amp;body=Page%3A%20https%3A//corpus.data-landscapers.io/alerts/%0A%0AWrong%2C%20missing%2C%20or%20useful%20%E2%80%94%20and%20if%20you%20used%20it%2C%20what%20for%3A%0A%0A">Useful? Wrong? Tell us</a>
       <h1 class="article-header__title">Alerts</h1>
-      <div class="lede"><p>Get an email when new documents about your countries or topics reach the catalogue. Free, weekly, and you can stop at any time.</p></div>
+      <div class="lede"><p>Get an email when new documents about your countries or topics reach the catalogue. Free, weekly, and you can stop at any time. If you would rather use RSS, pick countries or topics, then copy the feed address under <strong>Set up alerts</strong>.</p></div>
     </header>
 
     <div class="alert-msg" id="msg" role="status" hidden></div>
@@ -220,6 +220,14 @@
 
         <button type="submit" class="btn" id="go">Set up alerts</button>
         <p class="alert-note">Every alert email has a link to change your alerts or stop them.</p>
+
+        <div class="alert-feed" id="feed">
+          <span class="alert-feed__lab">Or use RSS</span>
+          <p>No email needed. Paste this address into your feed reader. For another feed, change your picks and copy again.</p>
+          <p class="alert-feed__url"><code id="feedurl">https://corpus.data-landscapers.io/api/alerts/feed</code>
+          <button type="button" class="alert-feed__copy" id="feedcopy" hidden>Copy</button></p>
+          <p id="feedmain" hidden>And for the main site: <code>https://data-landscapers.io/feed.xml</code></p>
+        </div>
       </form>
 
       <aside class="alert-about">
@@ -243,12 +251,6 @@
       </aside>
     </div>
 
-    <details class="alert-feed">
-      <summary>No email — just a feed</summary>
-      <p>Use a feed reader? Copy this address instead. It shows the same documents and needs no email address.</p>
-      <p><code id="feedurl">https://corpus.data-landscapers.io/api/alerts/feed</code></p>
-      <p id="feedmain" hidden>And for the main site: <code>https://data-landscapers.io/feed.xml</code></p>
-    </details>
 
 
   </div>
@@ -261,7 +263,7 @@
   </footer>
 
 <script>window.ALERTS = {"page":"signup","site":"https://corpus.data-landscapers.io","mainSite":"https://data-landscapers.io","turnstileKey":"0x4AAAAAAE4PyA_1ozsqH54J","maxPerFacet":5,"maxAlerts":10,"places":{"XAF":"Africa","XCA":"Central Africa","XEA":"East Africa","XGL":"Global/Developing Countries","XNA":"North Africa","XSA":"Southern Africa","XSS":"Sub-Saharan Africa","XWA":"West Africa","DZA":"Algeria","AGO":"Angola","BEN":"Benin","BWA":"Botswana","BFA":"Burkina Faso","BDI":"Burundi","CMR":"Cameroon","CPV":"Cape Verde","CAF":"Central African Republic","TCD":"Chad","COM":"Comoros","COG":"Congo","CIV":"Cote d'Ivoire","COD":"DR Congo","DJI":"Djibouti","EGY":"Egypt","GNQ":"Equatorial Guinea","ERI":"Eritrea","SWZ":"Eswatini","ETH":"Ethiopia","GAB":"Gabon","GMB":"Gambia","GHA":"Ghana","GIN":"Guinea","GNB":"Guinea-Bissau","KEN":"Kenya","LSO":"Lesotho","LBR":"Liberia","LBY":"Libya","MDG":"Madagascar","MWI":"Malawi","MLI":"Mali","MRT":"Mauritania","MUS":"Mauritius","MAR":"Morocco","MOZ":"Mozambique","NAM":"Namibia","NER":"Niger","NGA":"Nigeria","RWA":"Rwanda","STP":"Sao Tome and Principe","SEN":"Senegal","SYC":"Seychelles","SLE":"Sierra Leone","SOM":"Somalia","ZAF":"South Africa","SSD":"South Sudan","SDN":"Sudan","TZA":"Tanzania","TGO":"Togo","TUN":"Tunisia","UGA":"Uganda","ZMB":"Zambia","ZWE":"Zimbabwe"},"topics":{"gov.policy":"Strategies, plans and policies","gov.legislate":"Legislation and regulation","gov.protect":"Data protection","gov.regional":"Regional collaboration","gov.standards":"Standards","gov.discourse":"Public debate and participation in policymaking","finance.budget":"Domestic budget appropriations and expenditure","finance.mou":"MoUs and other agreements","finance.new":"New investments","infra.connect":"Connectivity","infra.store":"Data Storage","infra.energy":"Energy","infra.capacity":"Technical Capacity","infra.cybersec":"Cybersecurity","dpi.exchange":"Data Exchange","dpi.id":"Digital Identity and CRVS","dpi.pay":"Digital Payments and Fintech","dpi.registry":"Registries","dpi.mis":"Sectoral management information systems","dpi.govtech":"Other GovTech and e-Gov","digital.localgov":"Digitalisation of sub-national government","digital.rural":"Rural digital data capture","tech.ai":"AI","tech.industry":"ICT Industry","tech.innovate":"Innovation ecosystem","capacity.literacy":"Literacy","capacity.training":"Training and skills","capacity.research":"Research institutions","include.access":"Access to services","include.divides":"Digital divides","data.statistics":"National statistics","data.open":"Open data","data.satellite":"Use of satellite data","geopol.usa":"US / hyperscaler activities","geopol.china":"China activities","geopol.eu":"EU activities","geopol.gulf":"Gulf/UAE activities","geopol.india":"India activities"},"messages":{"several":"An alert covers up to five countries and five topics. Your selection had more, so pick the ones you want below.","ok":"Check your inbox. Click the link in the email from Data Landscapers to start your alert.","confirmed":"Confirmed. Your alerts start with the next Monday email.","added":"Added. It will be in your next Monday email.","manage-confirmed":"Confirmed. These are your alerts. Your first email comes on Monday.","e-check":"The check that you are not a robot did not complete. Please try again.","e-input":"Pick a country, a topic or the main-site box, and check the email address.","e-later":"Something went wrong on our side. Please try again later.","e-blocked":"We could not accept this sign-up. Trying again will not help; email info@data-landscapers.io and we will add you by hand.","manage-empty":"You have no alerts set up. Add one below.","manage-saved":"Saved. Your next Monday email will use the alerts above.","manage-none":"You have no alerts left, so we will send you nothing. Your address stays on the list. To remove it, use the unsubscribe link in any email from us."}};</script>
-<script src="../assets/js/alerts.js?v=e9759c81"></script>
+<script src="../assets/js/alerts.js?v=6101e2e0"></script>
 <script src="https://challenges.cloudflare.com/turnstile/v0/api.js?render=explicit&amp;onload=onloadTurnstileCallback" async defer></script>
 </div>
 </body>

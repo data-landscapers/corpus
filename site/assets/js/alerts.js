@@ -225,6 +225,7 @@
     var several = document.getElementById('several');
     var feedurl = document.getElementById('feedurl');
     var feedmain = document.getElementById('feedmain');
+    var feedcopy = document.getElementById('feedcopy');
 
     var q = new URLSearchParams(location.search);
     // `?ok=confirmed` is where Buttondown sends a reader after they click the link in
@@ -250,6 +251,7 @@
       feedurl.textContent = qs.length
         ? C.site + '/api/alerts/feed?' + qs.join('&')
         : 'Pick a country or a topic first.';
+      if (feedcopy) { feedcopy.hidden = !qs.length || !navigator.clipboard; feedcopy.textContent = 'Copy'; }
       if (feedmain) { feedmain.hidden = !(site && site.checked); }
     }
 
@@ -270,6 +272,14 @@
         msg.scrollIntoView({ block: 'nearest' });
       }
     });
+
+    if (feedcopy) {
+      feedcopy.addEventListener('click', function () {
+        navigator.clipboard.writeText(feedurl.textContent).then(function () {
+          feedcopy.textContent = 'Copied';
+        });
+      });
+    }
 
     feed();
     startTurnstile(function () {});

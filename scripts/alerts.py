@@ -340,7 +340,7 @@ def signup_body(voc: dict) -> str:
     Worker and the Worker answers with a 303, so the browser's own navigation carries
     the result — no fetch, no JSON, and a page that is still on the reader's screen if
     the script did not load. What the script adds is the cap, the fragment preselect
-    and the feed URL; none of the three is the difference between subscribing and not.
+    and the feed URL and its Copy button; none of them is the difference between subscribing and not.
     """
     return f"""    <div class="alert-msg" id="msg" role="status" hidden></div>
 
@@ -367,6 +367,14 @@ def signup_body(voc: dict) -> str:
 
         <button type="submit" class="btn" id="go">Set up alerts</button>
         <p class="alert-note">{copy_inline("alerts", "manage")}</p>
+
+        <div class="alert-feed" id="feed">
+          <span class="alert-feed__lab">Or use RSS</span>
+          {copy("alerts", "feed")}
+          <p class="alert-feed__url"><code id="feedurl">{SITE_BASE}/api/alerts/feed</code>
+          <button type="button" class="alert-feed__copy" id="feedcopy" hidden>Copy</button></p>
+          <p id="feedmain" hidden>And for the main site: <code>{MAIN_SITE}/feed.xml</code></p>
+        </div>
       </form>
 
       <aside class="alert-about">
@@ -381,12 +389,6 @@ def signup_body(voc: dict) -> str:
       </aside>
     </div>
 
-    <details class="alert-feed">
-      <summary>No email — just a feed</summary>
-      {copy("alerts", "feed")}
-      <p><code id="feedurl">{SITE_BASE}/api/alerts/feed</code></p>
-      <p id="feedmain" hidden>And for the main site: <code>{MAIN_SITE}/feed.xml</code></p>
-    </details>
 """
 
 

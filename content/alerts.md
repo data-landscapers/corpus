@@ -20,7 +20,7 @@ Alerts
 
 ## lede
 
-Get an email when new documents about your countries or topics reach the catalogue. Free, weekly, and you can stop at any time.
+Get an email when new documents about your countries or topics reach the catalogue. Free, weekly, and you can stop at any time. If you would rather use RSS, pick countries or topics, then copy the feed address under **Set up alerts**.
 
 ## how
 
@@ -94,7 +94,7 @@ You have no alerts left, so we will send you nothing. Your address stays on the 
 
 ## feed
 
-Use a feed reader? Copy this address instead. It shows the same documents and needs no email address.
+No email needed. Paste this address into your feed reader. For another feed, change your picks and copy again.
 
 ## privacy
 

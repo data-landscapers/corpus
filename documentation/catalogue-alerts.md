@@ -123,7 +123,7 @@ suite. Nothing the site builds needs it and the suite skips cleanly without it.
      - a Cloudflare Turnstile widget (site key from C3, written in as a constant);
      - a submit button that posts to `/api/alerts/subscribe`.
 
-     A small script reads the fragment (`#places=KEN,NGA&topics=tech.ai`, the catalogue's own keys) and preselects every value, up to five each. Beyond five it preselects the first five and shows the *several* note. The fragment `#site=1` ticks the checkbox. Submitting with both selects on Any and the checkbox unticked is refused in the page. A second, collapsed section gives the plain Atom feed URL for the current selection, and `https://data-landscapers.io/feed.xml` when the checkbox is ticked, for readers who use a feed reader.
+     A small script reads the fragment (`#places=KEN,NGA&topics=tech.ai`, the catalogue's own keys) and preselects every value, up to five each. Beyond five it preselects the first five and shows the *several* note. The fragment `#site=1` ticks the checkbox. Submitting with both selects on Any and the checkbox unticked is refused in the page. A feed box under the submit button (moved there from a collapsed section at the foot of the page, Bill, 2026-09-17, with a pointer in the lede and a Copy button) gives the plain Atom feed URL for the current selection, and `https://data-landscapers.io/feed.xml` when the checkbox is ticked, for readers who use a feed reader.
    - **`site/alerts/manage/index.html`**: the manage page, same chrome, text from the same content file. It reads `#s=<subscriber id>` from the fragment, POSTs it to `manage/list`, and shows each alert as an editable row using the same pickers, with a delete button per row, an **Add alert** button up to ten, and the main-site checkbox. Saving posts to `manage/save`. **The subscriber id never leaves the fragment for a URL**: the page reads it from `location.hash` and sends it in a POST body, so it reaches no server log and no `Referer`.
 4. **Catalogue button.** In `catalogue.py`, add a row to the downloads box under *This selection*: **Get alerts**, a `.btn btn--sm` link to `../alerts/`. The page's script rewrites its `href` on every redraw to carry the current `places` and `topics` as a fragment. It stays enabled with nothing selected and then opens the alerts page blank.
 5. **`workers/alerts/worker.js`** is a new Worker, separate from `download-log`. `workers/alerts/README.md` is a pointer to this file. Bindings: KV `ALERTS`; secrets `BUTTONDOWN_API_KEY` and `TURNSTILE_SECRET`; variables `SITE` = `https://corpus.data-landscapers.io`, `MAIN_SITE` = `https://data-landscapers.io`, `SEND_MODE` = `draft`. One cron trigger, `0 7 * * MON`.
@@ -266,7 +266,7 @@ Alerts
 
 ### `## lede`
 
-Get an email when new documents about your countries or topics reach the catalogue. Free, weekly, and you can stop at any time.
+Get an email when new documents about your countries or topics reach the catalogue. Free, weekly, and you can stop at any time. If you would rather use RSS, pick countries or topics, then copy the feed address under **Set up alerts**.
 
 ### `## how`
 
@@ -326,7 +326,7 @@ You have no alerts left, so we will send you nothing. Your address stays on the 
 
 ### `## feed`
 
-Use a feed reader? Copy this address instead. It shows the same documents and needs no email address.
+No email needed. Paste this address into your feed reader. For another feed, change your picks and copy again.
 
 ### `## privacy`
 
