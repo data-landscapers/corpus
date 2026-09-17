@@ -97,6 +97,12 @@ def read_manifest(path: str | None = None) -> tuple[dict | None, str]:
     2026-09-06 this is the state in which Corpus has no reading of OSINT's clocks at all, and
     every reader below answers `None` and says why.
 
+    **Unreadable is not absent** *(`notes-for-corpus` 28)*. A read that fails — the mirror's
+    directory out of reach, a permission refused, a lock — says so with the path and the
+    exception, because *absent* is a claim about OSINT (a close that skipped its stamp) and a
+    failed read is a claim about this reader. Only a missing file in a directory that is
+    itself there is reported absent.
+
     **Unparseable.** The manifest is written before the mirror copies, so a truncated file is
     a copy caught in the middle, not a corrupt source.
 
@@ -116,11 +122,20 @@ def read_manifest(path: str | None = None) -> tuple[dict | None, str]:
     git is not evidence of a bad copy, and the schema and shape checks have already run.
     """
     path = path or MANIFEST
-    if not os.path.exists(path):
-        return None, "no cycle manifest on the mirror"
+    folder = os.path.dirname(path) or "."
     try:
-        data = json.loads(io.open(path, encoding="utf-8").read())
-    except (OSError, ValueError) as exc:
+        text = io.open(path, encoding="utf-8").read()
+    except FileNotFoundError as exc:
+        if not os.path.isdir(folder):
+            return None, (f"the cycle manifest is unreadable: {folder} cannot be reached "
+                          f"({type(exc).__name__}: {exc}) - a failed read, not a skipped stamp")
+        return None, f"no cycle manifest on the mirror at {path}"
+    except (OSError, UnicodeDecodeError) as exc:
+        return None, (f"the cycle manifest is unreadable: {path} "
+                      f"({type(exc).__name__}: {exc}) - a failed read, not a skipped stamp")
+    try:
+        data = json.loads(text)
+    except ValueError as exc:
         return None, f"the cycle manifest will not parse ({exc}) - a half-copied mirror"
     if not isinstance(data, dict):
         return None, "the cycle manifest is not an object"

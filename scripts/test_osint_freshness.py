@@ -179,10 +179,24 @@ def manifest_cases() -> tuple[int, int]:
             failures += not ok
             print(f"  {'ok  ' if ok else 'FAIL'} {name}  "
                   f"(expected {expected}, got {got_s}; reason: {why[:70]})")
+
+        # A read that fails is not an absence (notes-for-corpus 28): a path into a folder that
+        # is not there, and a path that is a folder rather than a file, must both say
+        # "unreadable" and never "no cycle manifest".
+        path.unlink(missing_ok=True)
+        unreachable = str(tmp / "no-such-mirror" / "cycle-manifest.json")
+        path.mkdir()
+        for name, where in [("a mirror that cannot be reached is unreadable, not absent", unreachable),
+                            ("a manifest that cannot be opened is unreadable, not absent", str(path))]:
+            _data, why = osint_lib.read_manifest(where)
+            ok = _data is None and "unreadable" in why and "no cycle manifest" not in why
+            failures += not ok
+            print(f"  {'ok  ' if ok else 'FAIL'} {name}  (reason: {why[:70]})")
+        path.rmdir()
     finally:
         osint_lib.MANIFEST = saved
         shutil.rmtree(tmp, ignore_errors=True)
-    return failures, len(cases)
+    return failures, len(cases) + 2
 
 
 def collected_to_cases() -> tuple[int, int]:
