@@ -107,12 +107,24 @@ BUDGET_RATE_LINE = re.compile(
     r"([\d,]+)\s*\+\s*([\d,]+)\s+to\s+([\d,]+)\s*\+\s*([\d,]+)\s*words a row for an? "
     r"(status|monthly|progress)")
 
+# **A third form, whose driver is the document's own section count** *(2026-09-17, strategic
+# review 4 R13)*. `N to M words a section for a {doc}` reads as a pure rate with no intercept:
+# a progress report writes one narrative block a section, so a region whose ledger reaches four
+# of the eight sections is budgeted for four. The flat band it replaces could only be met by
+# writing about what the ledger does not hold, which is the failure a word budget exists to
+# prevent — `report-region-skeleton.md` → *Word budget* named this as the shape the measurement
+# pointed to and deferred it as new machinery; this is that machinery.
+BUDGET_SECTION_LINE = re.compile(
+    r"([\d,]+)\s+to\s+([\d,]+)\s*words a section for an? (status|monthly|progress)")
 
-class Band(collections.namedtuple("Band", "lo_base lo_per hi_base hi_per")):
-    """A word budget, resolved against the number of ledger rows the document carries.
 
-    A flat band has zero per-row terms and ignores the argument; a rate band does not. Keeping one
-    type for both means the caller never branches on which kind a skeleton happened to name."""
+class Band(collections.namedtuple("Band", "lo_base lo_per hi_base hi_per driver")):
+    """A word budget, resolved against a count the document carries — rows or sections.
+
+    A flat band has zero per-unit terms and ignores the argument; a rate band does not. Keeping one
+    type for all three means the caller never branches on which kind a skeleton happened to name,
+    and `driver` says which count to resolve it against so the caller does not have to know that
+    either."""
 
     __slots__ = ()
 
@@ -120,12 +132,15 @@ class Band(collections.namedtuple("Band", "lo_base lo_per hi_base hi_per")):
     def scaled(self):
         return bool(self.lo_per or self.hi_per)
 
-    def at(self, rows):
-        return (self.lo_base + self.lo_per * rows, self.hi_base + self.hi_per * rows)
+    def at(self, n):
+        return (self.lo_base + self.lo_per * n, self.hi_base + self.hi_per * n)
 
-    def describe(self, rows):
-        lo, hi = self.at(rows)
-        return f"{lo}-{hi} on {rows} row(s)" if self.scaled else f"{lo}-{hi}"
+    def describe(self, n):
+        lo, hi = self.at(n)
+        return f"{lo}-{hi} on {n} {self.driver}(s)" if self.scaled else f"{lo}-{hi}"
+
+
+Band.__new__.__defaults__ = ("row",)
 
 
 def _num(s):
@@ -153,6 +168,8 @@ def budgets(kind="country"):
     found.update({m.group(5): Band(_num(m.group(1)), _num(m.group(2)),
                                    _num(m.group(3)), _num(m.group(4)))
                   for m in BUDGET_RATE_LINE.finditer(text)})
+    found.update({m.group(3): Band(0, _num(m.group(1)), 0, _num(m.group(2)), "section")
+                  for m in BUDGET_SECTION_LINE.finditer(text)})
     missing = REQUIRED[kind] - set(found)
     if missing:
         print(f"FATAL: the word-budget line in {os.path.relpath(path, ROOT)} no longer names "
@@ -457,7 +474,7 @@ def check_file(path, budget, authored=False):
     for m in re.finditer(r"^## Comment\s*$", text, re.M):
         hits.append((line_of(text, m.start()), "comment section",
                      "## Comment — removed from the layer 2026-08-04"))
-    return sorted(hits), words, figs
+    return sorted(hits), words, figs, len(spans)
 
 
 def main():
@@ -533,7 +550,7 @@ def main():
                     and not MARKER.search(open(path, encoding="utf-8").read()))
         if not (legacy or authored) and kind not in band_for:  # not budgeted by the skeleton
             continue
-        hits, words, figs = check_file(path, band_for, authored=authored)
+        hits, words, figs, sections = check_file(path, band_for, authored=authored)
         rel = os.path.relpath(path, ROOT)
         if legacy:
             # No band, and said so rather than printed as a clean nought.
@@ -542,8 +559,15 @@ def main():
             head = f"{rel}  (not budgeted — authored baseline, prose outside the markers)"
         else:
             budget_band = band_for[kind]
-            rows = (ledger_rows(open(path, encoding="utf-8").read(), path)
-                    if budget_band.scaled else 0)
+            # A section-driven band reads the document's own narrative blocks, which
+            # `check_file` has already counted; a row-driven one reads the frontmatter the
+            # render wrote. Neither is asked for where the band is flat.
+            if not budget_band.scaled:
+                rows = 0
+            elif budget_band.driver == "section":
+                rows = sections
+            else:
+                rows = ledger_rows(open(path, encoding="utf-8").read(), path)
             lo, hi = budget_band.at(rows)
             band = "" if lo <= words <= hi else (f"  OVER by {words - hi}" if words > hi
                                                  else f"  UNDER by {lo - words}")

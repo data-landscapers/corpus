@@ -71,6 +71,30 @@ check("a flat line beside a rate line still parses", rate["status"].at(0), (1000
 check("describe names the row count", rate["monthly"].describe(46), "1450-3730 on 46 row(s)")
 check("describe stays quiet on a flat band", flat["monthly"].describe(46), "700-2000")
 
+# A progress report's length is set by the sections it writes, so its band is a rate per
+# section and the check resolves it against the document's own narrative blocks rather than
+# against `ledger_rows` (R13, 2026-09-17). The three forms have to stay mutually exclusive:
+# a skeleton naming one document twice would carry two bands and the last parsed would win.
+SECTION = ("**Prose only: 1,000–1,450 words for a status report, 100 to 160 words a section "
+           "for a progress report, and 300 + 25 to 900 + 55 words a row for a monthly.**\n")
+
+print("\nthe per-section form parses and is driven by sections")
+per = budgets_from("region", SECTION)
+check("section progress is scaled", per["progress"].scaled, True)
+check("section progress names its driver", per["progress"].driver, "section")
+check("a four-section region is budgeted for four", per["progress"].at(4), (400, 640))
+check("an eight-section region is budgeted for eight", per["progress"].at(8), (800, 1280))
+check("describe names the section count", per["progress"].describe(4), "400-640 on 4 section(s)")
+check("the monthly beside it is still per row", per["monthly"].driver, "row")
+check("XNA's 403 words over 4 sections are inside the band",
+      per["progress"].at(4)[0] <= 403 <= per["progress"].at(4)[1], True)
+check("flat pattern does not match a section line",
+      [m.group(3) for m in rrc.BUDGET_LINE.finditer(SECTION)], ["status"])
+check("row pattern does not match a section line",
+      [m.group(5) for m in rrc.BUDGET_RATE_LINE.finditer(SECTION)], ["monthly"])
+check("section pattern finds nothing in a flat line",
+      [m.group(3) for m in rrc.BUDGET_SECTION_LINE.finditer(FLAT)], [])
+
 print("\nthe rate line cannot be mistaken for a flat one")
 # `1,200 + 55 words a row for a monthly` must not also satisfy the flat pattern, or the monthly
 # would carry two bands and the last one written would win by dict ordering.
