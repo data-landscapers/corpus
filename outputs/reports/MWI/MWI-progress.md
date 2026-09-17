@@ -3,10 +3,10 @@ title: Malawi — progress report, September 2025 – September 2026
 compiled: 2026-09-17
 period: 2025-09-01 to 2026-09-17
 place: MWI
-ledger_rows: 267
+ledger_rows: 265
 not_held: 38
 indicators: 121
-record: 09cf397f9a26
+record: b2370f1bcb95
 ---
 
 # Malawi: progress report, September 2025 – September 2026

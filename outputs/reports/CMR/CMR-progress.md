@@ -1,12 +1,12 @@
 ---
 title: Cameroon — progress report, September 2025 – September 2026
-compiled: 2026-09-16
-period: 2025-09-01 to 2026-09-16
+compiled: 2026-09-17
+period: 2025-09-01 to 2026-09-17
 place: CMR
-ledger_rows: 194
+ledger_rows: 195
 not_held: 4
 indicators: 121
-record: baf8acc54f71
+record: 6d8464764f04
 ---
 
 # Cameroon: progress report, September 2025 – September 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the repository holds nothing on that indicator. **That is a statement about this repository, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-09-01 to 2026-09-16.*
+*The period is 2025-09-01 to 2026-09-17.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the repository holds a standing position and nothing in the period touched it. ***No evidence*** — the repository holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Movement, regulations still pending*.
 

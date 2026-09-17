@@ -1,11 +1,11 @@
 ---
 title: Tunisia — monthly update, August – September 2026
-compiled: 2026-09-16
-period: 2026-08-01 to 2026-09-16
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 place: TUN
-ledger_rows: 56
+ledger_rows: 57
 not_held: 5
-record: 67fabf8bda18
+record: 33762f9549c5
 ---
 
 # Tunisia: monthly update, August – September 2026
@@ -33,6 +33,11 @@ The customs administration [settled a 2026-2030 strategic plan built around digi
 
 <!-- narrative: governance--gov-regional -->
 Tunisia chairs and convenes rather than signs. It [was elected chair of the Arab League's working group on artificial-intelligence innovation and technological solutions at the permanent committee's inaugural meeting in Tunis](https://www.businesstec.news/23334), and [hosted the ninth Arab conference of directors of nationality and civil-status departments, which closed in Tunis on 19 August](https://gate.ahram.org.eg/News/5891986.aspx). Neither carries a work programme, a decision or a text on the record.
+<!-- /narrative -->
+### Standards
+
+<!-- narrative: governance--gov-standards -->
+Tunisia's standards work this month was as host. Its national frequency agency [opened four days of talks in Tunis for the third African preparatory meeting for the 2027 World Radiocommunication Conference, coordinated by the African Telecommunications Union, with governments and regulators working towards common positions on the frequencies used by mobile, satellite and other wireless services](https://www.cyberera.com.ng/african-delegations-demand-common-ground-in-tunis-ahead-of-2027-world-radiocommunication-conference/). No delegate count, agenda document or adopted position is published.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 

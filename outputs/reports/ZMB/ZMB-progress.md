@@ -3,10 +3,10 @@ title: Zambia — progress report, September 2025 – September 2026
 compiled: 2026-09-17
 period: 2025-09-01 to 2026-09-17
 place: ZMB
-ledger_rows: 268
+ledger_rows: 269
 not_held: 46
 indicators: 121
-record: f61fa32901d7
+record: 99e81137cf85
 ---
 
 # Zambia: progress report, September 2025 – September 2026

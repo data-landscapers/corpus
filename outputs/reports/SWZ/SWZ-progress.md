@@ -3,10 +3,10 @@ title: Eswatini — progress report, September 2025 – September 2026
 compiled: 2026-09-17
 period: 2025-09-01 to 2026-09-17
 place: SWZ
-ledger_rows: 192
+ledger_rows: 193
 not_held: 3
 indicators: 121
-record: 0f8225affdff
+record: daf906ab8fa2
 ---
 
 # Eswatini: progress report, September 2025 – September 2026

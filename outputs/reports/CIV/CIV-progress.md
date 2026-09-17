@@ -3,10 +3,10 @@ title: Cote d'Ivoire — progress report, September 2025 – September 2026
 compiled: 2026-09-17
 period: 2025-09-01 to 2026-09-17
 place: CIV
-ledger_rows: 235
+ledger_rows: 236
 not_held: 10
 indicators: 121
-record: 1d07bb0a88a4
+record: 6eb7f33d714a
 ---
 
 # Cote d'Ivoire: progress report, September 2025 – September 2026

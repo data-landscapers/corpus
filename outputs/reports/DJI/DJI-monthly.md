@@ -3,9 +3,9 @@ title: Djibouti — monthly update, August – September 2026
 compiled: 2026-09-17
 period: 2026-08-01 to 2026-09-17
 place: DJI
-ledger_rows: 19
+ledger_rows: 20
 not_held: 12
-record: 8527a9a9882b
+record: 693e141df11b
 ---
 
 # Djibouti: monthly update, August – September 2026
@@ -120,4 +120,9 @@ The month's movement was political rather than technical. The head of state [too
 
 <!-- narrative: geopolitics--geopol-usa -->
 [A new impetus in digital and media cooperation between Djibouti and the United States was reported on 1 September 2026](https://www.lanation.dj/djibouti-etats-unis-un-nouvel-elan-pour-la-cooperation-numerique-et-mediatique/), with no instrument, sum or timetable published. What changed is that a bilateral digital relationship is on the record at all: the standing engagement until now was a hyperscaler's cable route that names Djibouti among its landings and has had no activation status published since 2021.
+<!-- /narrative -->
+### China activities
+
+<!-- narrative: geopolitics--geopol-china -->
+The month's only movement here is a conversation. Djibouti [discussed the development of its digital infrastructure with Huawei, against its position on the telecommunications routes between Africa, Asia and the Middle East and its stated ambition to be a regional digital hub](https://www.wearetech.africa/fr/fils/actualites/tech/djibouti-echange-avec-huawei-sur-le-developpement-de-ses-infrastructures-numeriques). Nothing held records an agreement, a project or a value behind it.
 <!-- /narrative -->

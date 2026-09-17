@@ -3,9 +3,9 @@ title: Rwanda — monthly update, August – September 2026
 compiled: 2026-09-17
 period: 2026-08-01 to 2026-09-17
 place: RWA
-ledger_rows: 51
+ledger_rows: 52
 not_held: 9
-record: a6f07a389974
+record: 3e77ee67b1dd
 ---
 
 # Rwanda: monthly update, August – September 2026
@@ -181,6 +181,14 @@ Where training did continue it went to the top of the system rather than the bot
 
 <!-- narrative: capacity--capacity-research -->
 An [academic security operation centre is running through a university network based in Rwanda, described as operating on multiple levels to meet cybersecurity monitoring needs and to build a cybersecurity workforce in Rwanda and beyond](https://www.africa.engineering.cmu.edu/news/2026/08/24-academic-security-operation-center.html). No monitored-estate, incident or staffing figure is published, so the size of what the centre actually does cannot be stated from the repository.
+<!-- /narrative -->
+
+## Inclusion
+
+### Digital divides
+
+<!-- narrative: inclusion--include-divides -->
+What moved this month is a projection, not a measurement. An industry association [puts more than a million additional people on mobile internet by 2031 if smartphones are made more affordable and services more relevant to everyday life, naming lower-income and rural households as the target](https://www.gsma.com/newsroom/press-release/digital-reforms-could-connect-over-1-million-more-people-to-mobile-internet-in-rwanda-gsma-finds/). It is the association's own modelling, and no adopted reform or government response is recorded against it.
 <!-- /narrative -->
 
 ## Data

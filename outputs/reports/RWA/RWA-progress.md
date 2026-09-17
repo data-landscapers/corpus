@@ -3,10 +3,10 @@ title: Rwanda — progress report, September 2025 – September 2026
 compiled: 2026-09-17
 period: 2025-09-01 to 2026-09-17
 place: RWA
-ledger_rows: 212
+ledger_rows: 213
 not_held: 9
 indicators: 121
-record: e9ba3a6ebbcf
+record: 19615fb77c8a
 ---
 
 # Rwanda: progress report, September 2025 – September 2026

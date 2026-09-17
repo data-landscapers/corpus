@@ -3,9 +3,9 @@ title: Morocco — monthly update, August – September 2026
 compiled: 2026-09-17
 period: 2026-08-01 to 2026-09-17
 place: MAR
-ledger_rows: 46
+ledger_rows: 47
 not_held: 14
-record: 1d8ae08c331e
+record: aa1f834d43c6
 ---
 
 # Morocco: monthly update, August – September 2026
@@ -183,6 +183,11 @@ Two published outputs show what the university departments are working on, neith
 <!-- narrative: inclusion--include-access -->
 
 A national survey put a number on the gap between owning a phone and being online. Preliminary results of the third national disability survey [put prevalence at 8.7 per cent of the population, up from 6.8 per cent in 2014, across 20,412 households, with the employment rate among people with disabilities at 12.7 per cent - 23 per cent of men and 4 per cent of women - and only 20 per cent reporting internet access despite most owning mobile phones](https://en.hespress.com/144841-morocco-disability-rate-rises-to-8-7-as-access-gaps-persist.html). Officials caution that the 1.9-point rise partly reflects broader detection rather than an equivalent rise in disability. The repository holds no accessibility standard, audit or enforcement mechanism to read the access figure against.
+<!-- /narrative -->
+### Digital divides
+
+<!-- narrative: inclusion--include-divides -->
+The divide reported this month is one of hours rather than of coverage. Residents of thirteen douars in the Ben Cherro area of Beni Mellal province say [phone service cuts from about 8pm until the following morning, with internet throughput degraded over the same hours, and that the consequences are sharpest in emergencies](https://al3omk.com/1188460.html). The account is a local association figure's through a news outlet; no operator statement, regulator measurement or restoration commitment stands beside it.
 <!-- /narrative -->
 
 ## Data

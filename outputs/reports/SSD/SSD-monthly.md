@@ -1,11 +1,11 @@
 ---
 title: South Sudan — monthly update, August – September 2026
-compiled: 2026-09-16
-period: 2026-08-01 to 2026-09-16
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 place: SSD
-ledger_rows: 39
+ledger_rows: 40
 not_held: 12
-record: 913405c9ed43
+record: f8564969b860
 ---
 
 # South Sudan: monthly update, August – September 2026
@@ -45,6 +45,11 @@ There is still no data protection authority, and the communications regulator ca
 The one regional move in the window is a pledge without a workplan. On 12 August the minister [visited the African Telecommunications Union's Nairobi headquarters and pledged deeper collaboration on infrastructure, capacity building and standardisation](https://techreviewafrica.com/news/6713/south-sudan-pledges-stronger-collaboration-with-atu-on-digital-infrastructure-and-capacity-building). No workplan, contribution or membership status is stated, and it sits alongside the payment-system bill validated the same month with East African Community and Bank of Uganda backing — the substantive regional support in this record runs through that bill rather than through the union.
 
 South Sudan and Uganda [signed a memorandum in Juba for real-time epidemiological data sharing, mutual outbreak notification and joint surveillance at the border](https://www.radiotamazuj.org/en/news/article/south-sudan-uganda-sign-agreement-on-cross-border-health-security), with no platform named.
+<!-- /narrative -->
+### Standards
+
+<!-- narrative: governance--gov-standards -->
+Standards work this month was participation in a regional process. The national communication authority [took part in the third African preparatory meeting for the 2027 World Radiocommunication Conference, hosted by Tunisia's frequency agency and coordinated by the African Telecommunications Union, where non-geostationary orbit and direct-to-device systems were among the items](https://techafricanews.com/2026/09/17/south-sudan-satellite-connectivity-african-telecom-meeting/). No national position or delegation mandate is published.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 

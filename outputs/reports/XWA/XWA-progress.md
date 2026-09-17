@@ -3,18 +3,18 @@ title: West Africa — progress report, September 2025 – September 2026
 compiled: 2026-09-17
 period: 2025-09-01 to 2026-09-17
 place: XWA
-ledger_rows: 89
+ledger_rows: 90
 not_held: 1
-record: c030a144d165
+record: c5821209097f
 ---
 
 # West Africa: progress report, September 2025 – September 2026
 
 *Compiled 2026-09-17 by Claude Opus from the documents in the Corpus repository. Sections run from the region's institutions outwards to what funds them. Each row sets the position at the start of the period against the position at the end, and the Progress column says how it moved. The period runs to the date of issue rather than to the last month's close.*
 
-*Of 89 bodies, instruments and systems on this place's ledger, 64 changed position between 2025-09-01 and 2026-09-17, 17 did not, 7 carry no stated baseline, and 1 is ***Not held*** at both ends.*
+*Of 90 bodies, instruments and systems on this place's ledger, 64 changed position between 2025-09-01 and 2026-09-17, 17 did not, 8 carry no stated baseline, and 1 is ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 176 sources for this place in the window — 37 in the earlier half (2025-09 to 2026-02), 139 in the later (2026-03 to 2026-09). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 177 sources for this place in the window — 37 in the earlier half (2025-09 to 2026-02), 140 in the later (2026-03 to 2026-09). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Closed* — the programme ended. *No change* — the repository holds a standing position and nothing in the period touched it. ***Baseline not held*** — there is evidence of movement but no baseline to compare it against. A value may carry a qualifying clause after a comma, as in *Movement, slipped*.
 
@@ -99,6 +99,7 @@ The Alliance of Sahel States, which severed its ECOWAS ties in 2024, is building
 |---|---|---|---|
 | ECOWAS Regional AI Governance Framework | Did not exist | [Resolved to be developed, citing algorithmic bias, labour displacement and information disorder; no draft, drafting body or date held in the six months since; a four-country comparative study presented on 2026-08-10 found none of Benin, Senegal, Cote d'Ivoire or Burkina Faso holds AI-specific legislation in force or in draft, rating Cote d'Ivoire's strategy the most advanced of the four on inclusion and data governance and finding Burkina Faso's data-protection law the only one to name AI-based processing](https://grain-africa.org/en/intelligence-artificielle-en-afrique-de-louest-grain-presente-les-resultats-dune-etude-comparative-pour-une-gouvernance-plus-inclusive-et-responsable-de-lia/) | Movement, marginal |
 | Francophone West African AI governance guidelines | Did not exist | [Adopted by Benin, Burkina Faso, Cote d'Ivoire, Guinea, Mali and Senegal; advisory, complementing national strategies rather than replacing them](https://www.wearetech.africa/en/fils-uk/news/tech/six-francophone-west-african-countries-unite-on-ai-governance-framework) | Movement |
+| Regional parliamentary workshop on regulating artificial intelligence | ***Baseline not held*** | Implemented (2026-09-16) | ***Baseline not held*** |
 | UEMOA regional artificial-intelligence strategy | ***Baseline not held*** | [The Commission's draft rests on four pillars - governance, ethics and regulation; infrastructure and services including regional compute centres, a sovereign cloud, open data and interoperability; human capital; and innovation finance - to be run through a regional steering committee, national focal points, a regional AI academy, university chairs and a regional AI innovation fund, with a costed action plan. No adoption date or published text is held](https://www.horonyafinance.com/intelligence-artificielle-luemoa-prepare-une-strategie-regionale-pour-accelerer-la-transformation-economique-de-lunion/) | ***Baseline not held*** |
 
 <!-- narrative: instruments -->
