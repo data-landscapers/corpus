@@ -1,10 +1,10 @@
 ---
 title: Access to services — monthly update, August – September 2026
-compiled: 2026-09-16
-period: 2026-08-01 to 2026-09-16
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 subject: include.access
 places: DZA; AGO; BWA; BDI; CMR; CAF; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NAM; NER; NGA; STP; SEN; SYC; SLE; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: b6ecde20ec37
+record: 08cf3f13a0f4
 ---
 
 # Access to services: monthly update, August – September 2026
@@ -176,6 +176,8 @@ The accessibility requirement is not reaching the platforms it binds. [None of e
 
 Zero-rated education access moved from consultation to a start date. At the 10 September launch [the education minister set 1 October 2026 for about five million students to receive 100MB a day on approved educational platforms](https://newstimes.com.ng/2026/09/ncc-launches-zero-rated-access-to-educational-platforms/), [public senior secondary and tertiary students first, through participating mobile operators](https://www.thepointng.com/reactions-as-fg-plans-daily-free-data-for-nigerian-students/). No approved-platform list or funding arrangement is published, and the minister's own caution that zero rating should not open every platform calling itself educational leaves the whitelist the open question.
 
+A wider sample gave a less bleak figure: [47% of about 30 government digital platforms met an accessibility threshold](https://www.itweb.africa/article/nigerian-govt-platforms-fail-access-test/KA3Ww7dzPjkqrydZ) in an assessment presented to the technology agency, which said it is considering national accessibility standards.
+
 ## Sao Tome and Principe
 
 Two communities turned resident-identified priorities into completed works in six and a half months through pilot participatory budgeting exercises: [a paved stretch of the Estrada da Oficina in Alges, Cantagalo district, and a new water capture and distribution system with a decanting process at Ribeira Palma Praia, Lemba district](https://www.cascais.pt/noticia/orcamento-participativo-transforma-sao-tome-e-principe). The project was a partnership between two civil-society organisations and the two district councils, with support from a Portuguese municipality and the European Union, and residents took part at every stage from identifying the problem to delivering the investment. The publisher is the partner municipality rather than a Sao Tomean body, and the source describes pilot experiences rather than a national participatory budgeting system.
@@ -246,6 +248,8 @@ Mobile-industry research [put internet use at about a quarter of refugee women a
 ## Zambia
 
 The citizen support portal reached a ministry that has no offices in much of the country. Labour and social security staff [were trained to handle labour cases through the portal, extending it to districts with no physical office](https://www.zamjob.com/news-details.php?nid=388). Where a portal substitutes for a counter that was never there, the question is what happens to a claimant without connectivity — and no fallback, case volume or resolution figure is published for it.
+
+At home, [one fibre operator cut its entry price to K300 a month for 6 Mbps](https://efficacynews.africa/2026/09/16/liquid-zambia-cuts-fibre-entry-price-to-k300-and-increases-speeds/), an operator's own announcement rather than a market measure.
 
 ## Zimbabwe
 

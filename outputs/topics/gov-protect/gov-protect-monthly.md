@@ -1,10 +1,10 @@
 ---
 title: Data protection — monthly update, August – September 2026
-compiled: 2026-09-16
-period: 2026-08-01 to 2026-09-16
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 subject: gov.protect
 places: AGO; BEN; BWA; BFA; CPV; CAF; DJI; COD; EGY; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LBR; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; UGA; ZMB; ZWE
-record: 280e7804baee
+record: 0b535e182074
 ---
 
 # Data protection: monthly update, August – September 2026
@@ -49,7 +49,7 @@ On 4 August 2026 the state daily *La Nation* [described the Police Nationale and
 
 ## DR Congo
 
-Data protection has an authority that does not exist, a code that is now being prosecuted, and a population whose service does not reach it. The prosecutor general [mobilised judicial police officers against offences committed on social media](https://kinshasamagazine.cd/rdc-le-parquet-mobilise-les-opj-contre-les-infractions-commises-sur-les-reseaux-sociaux/) â€” enforcement against speech running ahead of any body protecting the data the same code governs. In the east, [mobile and internet service has been off across Fizi territory, Baraka included, since 3 July, with a press-freedom call for restoration on 17 August](https://cpj.org/2026/08/drc-shutdown-of-internet-mobile-networks-in-east-extends-for-over-a-month-amid-war/). It is reported as war damage rather than an ordered restriction, and no licensing or administrative decision for occupied territory is held.
+Data protection has an authority that does not exist, a code that is now being prosecuted, and a population whose service does not reach it. The prosecutor general [mobilised judicial police officers against offences committed on social media](https://kinshasamagazine.cd/rdc-le-parquet-mobilise-les-opj-contre-les-infractions-commises-sur-les-reseaux-sociaux/) — enforcement against speech running ahead of any body protecting the data the same code governs. In the east, [mobile and internet service has been off across Fizi territory, Baraka included, since 3 July, with a press-freedom call for restoration on 17 August](https://cpj.org/2026/08/drc-shutdown-of-internet-mobile-networks-in-east-extends-for-over-a-month-amid-war/). It is reported as war damage rather than an ordered restriction, and no licensing or administrative decision for occupied territory is held.
 
 ## Egypt
 
@@ -89,7 +89,7 @@ The regulator's own first-half numbers reached the repository on 7 September, an
 
 ## Guinea
 
-Enforcement arrived before the institutions did. A first-instance court [convicted a defendant under the cybersecurity and data-protection law on 19 August, imposing six months' imprisonment of which five were suspended, a 40 million GNF fine and deletion of the defendant's social-media account](https://mediaguinee.com/2026/08/tpi-dixinn-bella-bah-condamne-a-6-mois-de-prison-dont-5-avec-sursis-40-millions-gnf-damende-et-a-la-suppression-de-son-compte-facebook/) â€” the first conviction under that law on file, and an account deletion ordered by a court rather than by a platform. Separately the central bank [warned against unauthorised crypto-asset and online trading platforms](https://www.africaguinee.com/crypto-actifs-et-placements-financiers-en-ligne-la-banque-centrale-alerte-sur-les-plateformes-non-autorisees-de-trading/), naming no platform and stating no licensing route.
+Enforcement arrived before the institutions did. A first-instance court [convicted a defendant under the cybersecurity and data-protection law on 19 August, imposing six months' imprisonment of which five were suspended, a 40 million GNF fine and deletion of the defendant's social-media account](https://mediaguinee.com/2026/08/tpi-dixinn-bella-bah-condamne-a-6-mois-de-prison-dont-5-avec-sursis-40-millions-gnf-damende-et-a-la-suppression-de-son-compte-facebook/) — the first conviction under that law on file, and an account deletion ordered by a court rather than by a platform. Separately the central bank [warned against unauthorised crypto-asset and online trading platforms](https://www.africaguinee.com/crypto-actifs-et-placements-financiers-en-ligne-la-banque-centrale-alerte-sur-les-plateformes-non-autorisees-de-trading/), naming no platform and stating no licensing route.
 
 ## Kenya
 
@@ -183,6 +183,8 @@ The data-protection statute has been enforceable since 2021 and operates as an a
 
 
 The supervisor said plainly what it cannot do. At a webinar on 18 August the regulator [said it has no capability to test external systems for privacy compliance before launch, and is working with the justice department to amend the Act to cover artificial intelligence and privacy by design](https://www.timeslive.co.za/news/south-africa/2026-08-18-sahrc-sounds-alarm-over-misuse-of-personal-information-in-digital-age/), while the rights commission reframed misuse of personal information as a constitutional harm bearing on dignity, equality and access to services rather than a cybersecurity one. A peer-reviewed review published four days earlier [records South Africa among three of four countries studied that have not signed the continental data convention, and finds all four health-data governance frameworks fragmented](https://datascience.codata.org/articles/10.5334/dsj-2026-031).
+
+A supplier breach reached a whole sector. An extortion attack on an insurance-technology provider, detected on 14 June and notified to the regulator two days later, [exposed personal information linked to customers of about 45 insurers](https://www.itweb.co.za/article/hollard-rejects-hacking-claim-points-to-mip-cyber-breach/Pero37Z36boMQb6m); one insurer said on 16 September that a ransomware group's claim against it traced to that incident.
 
 ## South Sudan
 

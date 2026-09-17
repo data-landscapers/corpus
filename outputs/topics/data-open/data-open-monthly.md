@@ -1,10 +1,10 @@
 ---
 title: Open data — monthly update, August – September 2026
-compiled: 2026-09-16
-period: 2026-08-01 to 2026-09-16
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 subject: data.open
 places: BEN; BFA; CPV; TCD; COM; DJI; COD; GAB; GMB; GHA; GIN; LBR; LBY; MDG; MLI; MUS; MAR; NAM; NGA; SEN; SOM; TZA; TUN; ZWE
-record: a165740a76c1
+record: 42e44dcbc0ed
 ---
 
 # Open data: monthly update, August – September 2026
@@ -54,6 +54,8 @@ One measured position moved into the record. The Gambia [ranked third in sub-Sah
 ## Ghana
 
 The one open-data movement in the window is a system that exists and a commitment that cannot pay for it. The fisheries ministry and the national multi-stakeholder group built an online Fisheries Information System, launched at an ocean conference in June 2026, but [inadequate funding is constraining the 2024 Fisheries Transparency Initiative commitment it sits under](https://gna.org.gh/2026/08/funding-constraints-threaten-ghanas-fisheries-transparency-agenda/), with the minister pointing to part of a goods-and-services allocation and to unconcluded talks with Norway on reviving a development funding mechanism. A published system with no secured budget behind the disclosure regime is the familiar shape here, and the national open-data instrument remains **Not held**.
+
+An air-quality system reached testing: [a national air quality data hub built at a university laboratory went through utility testing with the environmental agency](https://www.myjoyonline.com/knust-epa-test-national-air-quality-data-hub-ahead-of-ghana-rollout/), which is to own it once a sustainability plan is agreed.
 
 ## Guinea
 

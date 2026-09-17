@@ -1,10 +1,10 @@
 ---
 title: Literacy — monthly update, August – September 2026
-compiled: 2026-09-16
-period: 2026-08-01 to 2026-09-16
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 subject: capacity.literacy
 places: AGO; COM; COD; EGY; GHA; KEN; LBR; MDG; MOZ; RWA; SEN; SSD; TZA; TGO; ZMB
-record: 345d4708f4db
+record: ebe0918f3cfa
 ---
 
 # Literacy: monthly update, August – September 2026
@@ -29,6 +29,8 @@ A [campaign to publicise the digital code launched in Kinshasa on 6 August, mobi
 
 Devices were announced rather than delivered. As the school year opened, the education minister [put free tablets at about 700,000 secondary students a year with an extension to technical education, above 1.2 million devices announced in total](https://egyptwindow.net/article/4906806), a figure set in the same account against connection costs and teacher readiness. No count of devices delivered or in use is published.
 
+The communications ministry [signed a three-year memorandum with Intel on 16 September to train one million citizens a year in AI](https://english.ahram.org.eg/News/576790.aspx) and certify 500 trainers a year; no cost is stated.
+
 ## Ghana
 
 The education council completed a revised basic-education curriculum adding coding, artificial intelligence and technical subjects, announced on 20 July and not yet adopted.
@@ -36,6 +38,8 @@ The education council completed a revised basic-education curriculum adding codi
 ## Kenya
 
 The regulator [donated computers to a school in Turkana on 30 July, one of 23 institutions recently supported](https://techafricanews.com/2026/07/30/ca-kenya-expands-digital-inclusion-with-computer-donation-to-turkana-school/), with no quantity or value disclosed. Private money reached further into the same gap: three laboratories [opened at Kholera Primary, Moody Awori Primary and Ralak Girls High in the weekend to 25 August under a Rotary Foundation Global Grant, taking that programme to at least 13 schools on a stated USD 91,650](https://www.standardmedia.co.ke/education/article/2001556160/digital-divide-threatens-to-leave-vulnerable-learners-behind-as-jobs-go-high-tech), against a state literacy programme running since 2016 that has not reached every school equally.
+
+The state programme published its first delivery figures in years. Its second phase [began putting teacher laptops and smartboards into 10,382 public junior schools, with 91 of 98 Nairobi schools complete](https://techafricanews.com/2026/09/16/kenya-begins-digital-literacy-programme-phase-ii-device-rollout-in-nairobi/), and [1,000 ICT graduates are being recruited as 12-month interns to support it in schools](https://www.wearetech.africa/fr/fils/actualites/tech/kenya-1000-diplomes-en-tic-recrutes-pour-soutenir-la-numerisation-des-ecoles). No learning-outcome measure accompanies either.
 
 ## Liberia
 

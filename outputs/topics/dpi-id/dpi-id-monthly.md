@@ -1,10 +1,10 @@
 ---
 title: Digital Identity and CRVS — monthly update, August – September 2026
-compiled: 2026-09-16
-period: 2026-08-01 to 2026-09-16
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 subject: dpi.id
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COM; COG; COD; EGY; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MWI; MRT; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 5ef60d9f7c9d
+record: 253c5d776026
 ---
 
 # Digital Identity and CRVS: monthly update, August – September 2026
@@ -71,6 +71,8 @@ Continentally, the laboratory system the country's current Ebola response runs o
 
 The identity pilot is hiring before it enrols: the ministry [retained 50 agents from more than 9,000 candidates, to start training on 15 September](https://www.digitalbusiness.africa/rdc-plus-de-9-000-candidats-au-test-de-recrutement-de-rdc-pass-50-retenus-pour-la-phase-pilote/).
 
+The national digital identity platform moved to enrolment: [its first 50 agents began training on 15 September](https://7sur7.cd/2026/09/16/rdc-pass-lancement-de-la-formation-des-50-premiers-agents-denregistrement), the minister stating that it is an authentication tool and not a national identity card.
+
 ## Egypt
 
 Identity gained a second biometric front end and a liability problem in the same month. The central bank governor launched [Haweya, registering face and fingerprint biometrics and enabling remote account opening at 37 banks](https://www.biometricupdate.com/202511/egypt-rolls-out-digital-id-platform-to-scale-up-financial-inclusion), and the [national identity application reached a second release adding liveness detection](https://gate.ahram.org.eg/News/5813424.aspx). Neither carries an enrolment count or a governing decree. Against that, the telecommunications regulator [stated that registration alone does not establish criminal liability](https://english.ahram.org.eg/UI/Front/Inner.aspx?NewsContentID=574242) after lines were found registered to people without their knowledge, after reports of a nineteen-year-old sentenced in absentia to 25 years in a case turning on a line registered in his name in 2024; it says it is revising the rules towards biometric subscriber verification, with no date or target stated. Within a week the revision acquired shape: the regulator [tightened the registration rules, referred the four mobile operators to the prosecution and set a unified national digital-identity project alongside](https://gate.ahram.org.eg/News/5887018.aspx), and is [expanding mandatory facial verification at enrolment through its know-your-customer system, linked to the civil registry](https://www.biometricupdate.com/202608/egypt-expands-biometric-sim-registration-after-identity-misuse-case). Verification at enrolment does not prevent a line being handed on afterwards, which is the gap the case turned on. The scale of the problem showed in the complaint traffic: the regulator [logged over 3,000 line-fraud complaints and 100,000 call-centre inquiries in two days](https://www.egyptindependent.com/egypt-is-cracking-down-on-phone-line-fraud-ntra-assures/), saying it checks each disputed registration against the provider's own records. What the fix itself costs is now being asked in public: a member of parliament [has pressed the government on what institutional framework governs collection, storage and access to the facial-recognition data taken at registration](https://www.egyptindependent.com/mp-raises-concerns-over-egyptian-state-collecting-facial-recognition-data/), and digital-rights researchers argue that [biometric data cannot be reissued once compromised, which makes the protection framework the precondition rather than the sequel](https://www.madamasr.com/en/2026/08/12/feature/society/privacy-chaos-from-fraudulent-sim-registration-to-biometric-data-collection/). The health ministry is separately [stated to have taken birth and death registration electronic nationwide](https://www.youm7.com/story/2026/8/2/%D8%AE%D8%B7%D8%A9-%D8%A7%D9%84%D8%AA%D9%86%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A%D8%A9-2026-2027-%D8%AA%D8%B9%D8%AA%D9%85%D8%AF-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%89-%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9/7497444), on the development plan's own word and with no coverage rate published.
@@ -82,6 +84,8 @@ A telecom operator moved identity checks online: Telecom Egypt [launched electro
 ## Eswatini
 
 The home affairs ministry [asked citizens to check that the chief code on their identity documents matches their actual chiefdom](https://eswatinipositivenews.online/home-affairs-ministry-urges-emaswati-to-verify-chief-codes-2/), warning that an incorrect code creates difficulty in reaching government services. Six months after card production resumed from a technical suspension, the maintenance question has moved from the machine to the record.
+
+The system itself went down on 16 September: [a network blackout halted identity card and passport processing at Home Affairs in Mbabane and at postal counters](https://times.co.sz/43838/news/network-blackout-strikes-home-affairs-eptc/), with no restoration time and no offline procedure.
 
 ## Ethiopia
 
@@ -159,6 +163,8 @@ Using the system got more expensive. The bureau [raised fees for national identi
 
 The wallet has a date. The registration bureau [set its national launch for 16 September, International Identity Day, carrying a digital ID with the card's validity](https://www.biometricupdate.com/202609/malawi-to-launch-digital-id-wallet-as-national-id-coverage-reaches-99), [plus birth and marriage certificates, liveness checks and the physical card still valid](https://www.channelafrica.co.za/channelafrica/news/malawi-takes-national-ids-digital-with-nzika-wallet/).
 
+The mobile credential launched on schedule. [The Nzika wallet went live in Lilongwe on 16 September](https://malawi24.com/2026/09/16/malawi-drops-expiry-dates-on-national-ids/), and at the launch the minister directed that national ID cards be issued without expiry dates from that day, ending the renewal regime that had left about two million cards expired.
+
 ## Mauritania
 
 The identity application is now load-bearing, and the month showed what that means. It [carries about 1.5 million citizens and 554,027 remote services, and underpins identity verification for the state services portal's fifteen-plus services and for private financial applications](https://techrek.info/fr/houwiyeti-de-nouveau-operationnelle-de-la-maintenance-periodique-a-la-question-de-la-souverainete-numerique/) — and a full day of scheduled maintenance on 8 August took all of it down at once. The usage figures are the reporting outlet's; no operator statement on the outage or on redundancy is held.
@@ -197,6 +203,8 @@ The identity count was split in two on 7 September, and the halves do not agree 
 The same report rates the project [Moderately Satisfactory on both progress and implementation at Substantial overall risk, with the system-integrator contract for the modular open-source rebuild awarded and an implementation period of about eighteen months](https://documents1.worldbank.org/curated/en/099081126161526352/pdf/P167183-e7cea03a-8864-4dd8-984f-cca80474fd7c.pdf).
 
 A second use for election hardware was floated rather than agreed: the admissions board [asked the electoral commission for biometric verification machines that sit idle between elections, and the commission ordered a proof of concept on whether they are fit for it](https://von.gov.ng/jamb-inec-seek-collaboration-on-use-of-biometric-technology/). No device count, transfer basis or data-protection assessment is published, and the two registers rest on separate legal bases.
+
+The government then set itself a nearer deadline: [95 per cent identity number coverage by December 2026](https://www.thisdaylive.com/2026/09/16/fg-sets-december-deadline-for-95-nin-coverage/), announced on 16 September with the database put at nearly 140 million, a figure above the 117.5 million issued numbers the lender recorded for June.
 
 ## Rwanda
 
@@ -263,6 +271,8 @@ The budget behind it was set out to Parliament on 19 August: the home affairs mi
 
 Where the checks run became the point. The central bank [backed a credit bureau’s locally hosted fraud detection, anti-money-laundering screening and know-your-customer verification for Tanzanian lenders](https://www.thecitizen.co.tz/tanzania/business/bank-of-tanzania-backs-creditinfo-s-locally-operated-fraud-identity-solutions-5586696), the local operation being what is claimed for it. No directive, licence, hosting requirement or supervisory condition is held.
 
+On 16 September the Prime Minister [directed the identity authority to drop the age bar and register young children](https://www.mwananchi.co.tz/mw/habari/kitaifa/nida-yaondoa-kikwazo-cha-umri-namba-kuunganisha-huduma-za-kiraia-5597344), and the authority restated its plan to carry birth certificates, health insurance and the passport on the national ID; no start date is set.
+
 ## Togo
 
 Enrolment now goes to people rather than waiting for them. The documentation directorate [has spent about a year sending mobile identity-card teams to large public gatherings, handling every step of an application on site](https://togo-today.com/carte-didentite-la-direction-generale-de-la-documentation-nationale-veut-se-rapprocher-des-populations/), aiming to shorten processing times and put a card in the hands of the majority of Togolese by 2028. No count of cards issued through the mobile teams is published, so the register's own figure — more than six million unique identification numbers at the end of 2025 — remains the only measure of how far the effort has got.
@@ -286,6 +296,8 @@ Four days later the Auditor General's account of the same authority reached the 
 The Cabinet decision of 1 September was narrowed twice in the week after it. The finance minister said on 3 September that it [does not make the identification number the taxpayer number but requires the two to be interoperable — "we are not saying the NIN is the TIN; we are saying the NIN and the TIN must be able to read each other"](https://mulengeranews.com/minister-musasizi-explains-why-nin-is-to-be-used-as-tin-as-icpau-commits-to-enforce-ai-adoption-in-accountancy-sector/), and the revenue authority added on 7 September that [holding an identification number does not by itself make its holder a taxpayer](https://nilepost.co.ug/business/369514/ura-explains-use-of-nins-to-replace-tins), the purpose being a single secure identifier for government services and more accurate taxpayer records. The decision itself is not held, and no instrument, commencement date or migration plan has been published for what is now described as two identifiers reading each other rather than one replacing the other.
 
 The cards are printed and not working. The registration authority [holds about 5.4 million printed cards uncollected, with 418 of 571 posts filled and 201 at client counters](https://www.independent.co.ug/nira-staffing-crisis-leaves-millions-of-ids-gathering-dust/), and told legislators on 9 September that [one mobile operator is the only partner fully onboarded to the information-exchange module it opened in March, so new cards are refused at banks and SIM counters](https://businessfocus.co.ug/nira-on-spot-as-new-national-ids-fail-to-work-for-sim-registration-banks-and-driving-permits/).
+
+The revenue authority then gave a firmer account than the finance minister's: [the TIN will be phased out for individuals in favour of the NIN, with companies using their registration number](https://www.newvision.co.ug/category/news/transitioning-from-tin-to-nin-will-create-job-NV_240692_092026).
 
 ## Zambia
 

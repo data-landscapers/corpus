@@ -1,10 +1,10 @@
 ---
 title: Rural digital data capture — monthly update, August – September 2026
-compiled: 2026-09-16
-period: 2026-08-01 to 2026-09-16
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 subject: digital.rural
 places: BDI; TCD; COM; CIV; COD; SWZ; GHA; GIN; KEN; LSO; LBY; MWI; MLI; MUS; NGA; SEN; SLE; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 5cfe556fe30d
+record: a081368308ad
 ---
 
 # Rural digital data capture: monthly update, August – September 2026
@@ -102,6 +102,8 @@ Rural digitalisation moved a district at a time, below the clinic rather than in
 ## Zambia
 
 One rural school was connected. An operator [connected a primary school's computer laboratory in the Chipapa community by satellite](https://paratus.africa/zambia/paratus-zambia-expands-digital-learning-opportunities-at-mphande-hills-primary-school/), a completed deployment rather than a commitment. Set against the education ministry's own target for schools connected to reliable internet by the end of this year, it is one school with four months to run, and no progress count against that target is published.
+
+A larger programme followed on 15 September: [70 schools are to be connected by satellite with solar power over three years](https://www.lusakatimes.com/2026/09/15/government-launches-digital-learning-programme/), free for the first year and sold at affordable rates after.
 
 ## Zimbabwe
 

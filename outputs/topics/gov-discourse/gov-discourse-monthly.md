@@ -1,10 +1,10 @@
 ---
 title: Public debate and participation in policymaking — monthly update, August – September 2026
-compiled: 2026-09-16
-period: 2026-08-01 to 2026-09-16
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 subject: gov.discourse
 places: AGO; BEN; BFA; CMR; TCD; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; MWI; MLI; MUS; MAR; NAM; NER; NGA; SEN; SYC; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 4e43e0bb2d3e
+record: 0eea2f3e9d1b
 ---
 
 # Public debate and participation in policymaking: monthly update, August – September 2026
@@ -200,6 +200,8 @@ The election itself, on 13 August, produced the fullest external account of the 
 The criminal route for online speech was used. A Lusaka magistrate [convicted a vlogger on 11 September under section 54 of the Cyber Security and Cyber Crimes Act 2021 for forwarding a WhatsApp screenshot about a presidential aide](https://www.mwebantu.com/court-convicts-vlogger-chishimba-over-mwanawasa-allegations/).
 
 A second case followed the next day: [a tailor in Mansa was arrested under the cyber crimes statute over a TikTok video insulting the president](https://diggers.news/local/2026/09/12/mansa-tailor-nabbed-for-insulting-hh-on-tiktok/).
+
+The section 54 case ended in custody: [the vlogger was sentenced to nine months on 15 September](https://diggers.news/courts/2026/09/15/vlogger-gets-9-months-for-sharing-screenshot-about-mwanawasas-false-pregnancy/) for forwarding a screenshot.
 
 ## Zimbabwe
 

@@ -1,10 +1,10 @@
 ---
 title: ICT Industry — monthly update, August – September 2026
-compiled: 2026-09-16
-period: 2026-08-01 to 2026-09-16
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 subject: tech.industry
 places: DZA; AGO; BWA; EGY; GNQ; SWZ; GAB; GHA; KEN; MUS; MAR; MOZ; NER; NGA; SEN; ZAF; SDN; TZA; TGO; UGA; ZMB; ZWE
-record: 434edaf84694
+record: a51f265a28f9
 ---
 
 # ICT Industry: monthly update, August – September 2026
@@ -52,6 +52,8 @@ On 27 July a company filed a writ claiming authorship of the 2007 design of the 
 ## Kenya
 
 The month's movement in the sector was a fibre operator saying it intends to stop selling fibre. The Kenyan business of a pan-African backbone owner [is repositioning from connectivity provider to a layered artificial-intelligence, cloud and cybersecurity business on top of its own network](https://techtrendske.co.ke/2026/09/10/interview-liquid-bets-on-ai-as-next-growth-frontier-for-africas-fibre-network/), its chief executive arguing on 10 September that connectivity becomes the foundation of digital infrastructure rather than the product. He [put Africa at 0.6% of world data-centre capacity](https://www.itweb.africa/article/interview-liquid-targets-africas-data-centre-gap/xA9POvNE2Gxqo4J8), the concern he said African telecom executives raise most. It is a stated strategy in two interviews at one conference: no revenue split, investment figure, capacity addition or service launch date accompanies it.
+
+The state's largest telecoms divestment was undone in court and is heading back there. The High Court voided the sale of a 15% Safaricom stake to Vodacom on 15 September, and on 16 September [Vodacom said it would appeal and seek a stay, and the finance minister said the Treasury would appeal too](https://www.connectingafrica.com/investment/vodacom-kenyan-government-to-appeal-court-ruling-voiding-safaricom-sale). How the proceeds already committed are treated is not on record.
 
 ## Mauritius
 

@@ -1,10 +1,10 @@
 ---
 title: Registries (population, land, address, etc.) — monthly update, August – September 2026
-compiled: 2026-09-16
-period: 2026-08-01 to 2026-09-16
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 subject: dpi.registry
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; TCD; COM; COG; CIV; COD; EGY; ERI; SWZ; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 37249490a7e3
+record: e47784a5c094
 ---
 
 # Registries (population, land, address, etc.): monthly update, August – September 2026
@@ -15,7 +15,7 @@ record: 37249490a7e3
 
 ## Algeria
 
-Two registry developments pulled in opposite directions. The education ministry [ordered its wilaya directorates and schools to accept electronically issued civil-status documents and stop demanding paper copies](https://interlignes.dz/education-nationale-rappel-a-lordre-du-ministere/), warning staff that unjustified refusal engages their responsibility â€” an obligation inside one ministry rather than a general rule. On vehicle registration the interior minister [called for rapid correction of technical problems and malfunctions](https://lechodalgerie.dz/immatriculationsayoud-exige-des-correctifs-rapides/) in the system, with no fault description, backlog figure or completion date given.
+Two registry developments pulled in opposite directions. The education ministry [ordered its wilaya directorates and schools to accept electronically issued civil-status documents and stop demanding paper copies](https://interlignes.dz/education-nationale-rappel-a-lordre-du-ministere/), warning staff that unjustified refusal engages their responsibility — an obligation inside one ministry rather than a general rule. On vehicle registration the interior minister [called for rapid correction of technical problems and malfunctions](https://lechodalgerie.dz/immatriculationsayoud-exige-des-correctifs-rapides/) in the system, with no fault description, backlog figure or completion date given.
 
 The prime minister [ordered an immediate national census of economic land on a unified template, with a consolidated map due at the investment agency's one-stop window by the end of September](https://www.lejourdalgerie.com/foncier-economique-sifi-ghrieb-ordonne-un-recensement-immediat/).
 
@@ -37,7 +37,7 @@ One commune is now completely mapped, and the map shows who the register cannot 
 
 ## Botswana
 
-The vital-statistics report [describes the births and deaths registration system as partially automated and decentralised](https://statsbots.org.bw/sites/default/files/publications/Vital%20Statistics%20Report%202024.pdf) â€” a description of the system rather than a change to it. Separately, government [committed in Parliament on 19 August to an electoral-reform package including electronic voter registration](https://allafrica.com/stories/202608190305.html), with no bill, supplier, cost or date attached.
+The vital-statistics report [describes the births and deaths registration system as partially automated and decentralised](https://statsbots.org.bw/sites/default/files/publications/Vital%20Statistics%20Report%202024.pdf) — a description of the system rather than a change to it. Separately, government [committed in Parliament on 19 August to an electoral-reform package including electronic voter registration](https://allafrica.com/stories/202608190305.html), with no bill, supplier, cost or date attached.
 
 ## Burkina Faso
 
@@ -117,6 +117,8 @@ A domestic commentary put the governance question on transport digitalisation in
 
 The beneficiary file behind the social register's intended base is unreliable: the Court of Accounts [found about 120,000 of the roughly one million people on the economically weak persons' health fund file improperly registered](https://union.sonapresse.com/fr/cnamgs-120-000-beneficiaires-indument-enregistres).
 
+Three ministers [met SNEDAI Groupe on 14 September on digitalising land tenure and civil registration](https://agpgabon.ga/gabon-digitalisation-le-gouvernement-echange-avec-le-snedai/), the company offering prefinancing; administrations were asked to name focal points, and no contract is held.
+
 ## Gambia
 
 The country published its first unified land policy, and it is the month's clearest statement of intent about a public register. The [National Land Policy 2026-2035 mandates a digitalised National Land Administration System, a centralised Land Information System and digitised land registration](https://policies.gov.gm/f/6d4b253b-ef9d-11f0-b086-029254d29bb1), alongside new Certificates of Customary Ownership, and carries a costed ten-year implementation roadmap. It is a mandate rather than a build: no supplier, budget line, custodian or start date is stated for either system, and no data-protection provision for the land record is reported — in a year in which the Personal Data Protection and Privacy Act 2025 came into force.
@@ -133,6 +135,8 @@ Two registries entered the repository this month as standing descriptions rather
 Nothing published with either gives a register size, a coverage rate or a public-sector consumer, which is the figure each would need before it could be said to be working.
 
 A third registry arrived as a private product reading public records. [Marrify launched in Accra on 28 August, letting users search and verify registered marriage and divorce records drawn from the registrar-general's department, the courts, district assemblies and the Gazette](https://itweb.africa/article/ghana-launches-digital-marriage-records-platform/VgZeyqJlpyX7djX9), presented by the gender ministry as answering the need for reliable information before people marry. No data-sharing agreement, fee schedule, coverage figure or record count is published, so what is established is that the records are searchable, not that they are complete.
+
+The household registry published its national total: [11.24 million people in 2,906,288 households across all 16 regions, 508,870 households classed extremely poor](https://www.myjoyonline.com/ghanas-household-registry-now-profiles-11-24-million-people-for-social-protection-targeting/), the base for cash-grant targeting as that programme's ceiling rises to 450,000 households.
 
 ## Guinea
 
@@ -162,6 +166,8 @@ The central bank is preparing a register of a different kind. It announced on 14
 
 The collateral registry acquired users rather than another regulation. The central bank and the banking institute [trained 35 lenders on it, registration of security interests being mandatory, and named planned links to the national identity, land and traffic registries](https://frontpageafricaonline.com/liberias-new-collateral-registry-opens-credit-doors-for-smes-tightens-lending-controls/). The links are the interesting half and the unevidenced half: they are stated as planned, with no technical route, agreement or date, and no registration count has been published since launch.
 
+The credit reference arrangement is now in court. A private bureau licensed in November 2025 [sued the central bank for about US$1.2 million](https://frontpageafricaonline.com/liberia-prime-credit-sues-central-bank-demands-nearly-us1-2m-over-credit-bureau-dispute/), alleging it never received the historical loan data it needed and was later told the bank lacked clear authority to license private bureaux.
+
 ## Libya
 
 On 3 August the interior and labour ministries [agreed in Benghazi to create a unified national database of expatriate workers](https://www.lananews.com/ar/?p=499082) and a dedicated electronic platform, citing Labour Relations Law No. 12 of 2010 and Law No. 24 of 2023, together with joint ministerial committees and joint inspection campaigns drawing in passport investigations.
@@ -171,6 +177,8 @@ The health ministry's registration portal reported its first numbers. PharmaGate
 ## Madagascar
 
 The social registry [reached about 2.7 million households, nearly 12 million people, with eight districts added to the 20 already surveyed](https://newsmada.com/2026/09/10/protection-sociale-le-rsu-elargit-son-filet/).
+
+On National Identity Day a second phase of the Izaho Tokana 2.0 registration drive opened, answering [a 2025 survey finding that close to 20 per cent of children under five hold no birth certificate](https://midi-madagasikara.mg/etat-civil-le-projet-de-loif-en-renfort-d-izaho-tokana-2-0/). The same week [the first 124 cooperatives received biometric cards under a national cooperative census](https://midi-madagasikara.mg/societes-cooperatives-124-structures-dotees-de-cartes-biometriques-a-analamanga/).
 
 ## Malawi
 
@@ -218,7 +226,7 @@ The tour reached its fourth region and brought a fourth set of figures. At Agade
 
 [Civil registration](https://www.nigeriacommunicationsweek.com.ng/npc-opens-nationwide-digital-birth-death-registration-platform/) went nationwide from 1 July on a platform run as a public-private partnership, a private contractor carrying availability and security duties over the register of births and deaths.
 
-The electoral roll got its own numbers on 8 September. The commission said the register was [approaching 100 million ahead of the 2027 general elections, on 10,772,421 new registrants in the latest continuous registration exercise, with a real-time election readiness tracker to be deployed across the 36 states and the federal capital territory](https://www.vanguardngr.com/2026/09/2027-polls-voter-register-nears-100m-inec/). The totals are its own; no register audit, duplicate rate or link to the national identity number accompanies them, and the devices that read the roll failed at a state election three weeks earlier.
+The electoral roll got its own numbers on 8 September. The commission said the register was [approaching 100 million ahead of the 2027 general elections, on 10,772,421 new registrants in the latest continuous registration exercise, with a real-time election readiness tracker to be deployed across the 36 states and the federal capital territory](https://www.vanguardngr.com/2026/09/2027-polls-voter-register-nears-100m-inec/). The totals are its own and no register audit or duplicate rate accompanies them, though on 15 September the commission told an African Union mission it [has integrated national identity numbers into cleaning the register](https://thecabal.ng/inec-integrates-nin-to-clean-national-voter-register-ahead-2027-polls/); and the devices that read the roll failed at a state election three weeks earlier.
 
 A second register was put on the same path, without a date. The maritime administration says it is [moving towards full automation of the Nigerian ship registry so that operators can register and transact remotely, including payment, without attending its offices](https://von.gov.ng/nimasa-embraces-digitisation-to-end-operational-delays/), framed as part of reforms to remove human contact, block revenue leakages and cut delays. It is a statement of direction: no date, cost or vendor accompanies it.
 

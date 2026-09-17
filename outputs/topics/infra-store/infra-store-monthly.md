@@ -1,15 +1,15 @@
 ---
 title: Data Storage — monthly update, August – September 2026
-compiled: 2026-09-16
-period: 2026-08-01 to 2026-09-16
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 subject: infra.store
-places: DZA; AGO; BWA; BFA; CMR; CPV; CAF; COG; CIV; EGY; GNQ; ERI; GMB; GHA; GIN; KEN; LSO; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SLE; SOM; ZAF; SSD; TZA; TUN; ZWE
-record: f179da1b2e6b
+places: DZA; AGO; BWA; BFA; CMR; CPV; CAF; COG; CIV; EGY; GNQ; ERI; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SLE; SOM; ZAF; SSD; TZA; TUN; ZWE
+record: 505c8654cfc0
 ---
 
 # Data Storage: monthly update, August – September 2026
 
-*34 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*35 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -70,6 +70,10 @@ The government [formally pressed the supplier to deliver the equipment still out
 ## Eritrea
 
 Domestic hosting appears on this repository for the first time, and it is the state operator that put it there. Eritel [publishes a private cloud service hosted entirely in its own data centres, in three subscription tiers of 100, 250 and 500 gigabytes for 20, 50 and 100 users, each carrying a 90 per cent uptime service level and a recovery-time objective of up to six days](https://eritel.com.er/contents.php?id=1046). Those are subscription sizes rather than a statement of the estate behind them: no aggregate capacity figure, facility count or location is published for Eritrea by anyone, and a six-day recovery objective is the measure of what backup means in this market. Three weeks earlier a diaspora outlet [set out a national digital infrastructure agenda — a submarine cable landing at Massawa and Assab, redundant fibre, an exchange point at Asmara, domestic data-centre capacity, diversified technology partners and a national digital infrastructure authority](https://mesobjournal.com/post/eritrea-digital-sovereignty-red-sea-internet-gateway). It is an independent publication rather than a think tank or a government document, and nothing records the adoption of any part of it.
+
+## Gabon
+
+Chinese interest in state hosting became a site visit. A Chinese government delegation, following an earlier Huawei mission, [inspected the postal company's and Gabon Telecom's infrastructure on 15 September with an AI data centre for public administration applications in view](https://www.gabonreview.com/administration-publique-vers-un-data-center-ia-made-in-gabon-avec-la-chine/); the postal site has six blocks able to host more than 300 servers. No agreement, financing or timetable is on record.
 
 ## Gambia
 

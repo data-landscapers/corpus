@@ -1,10 +1,10 @@
 ---
 title: Data Exchange — monthly update, August – September 2026
-compiled: 2026-09-16
-period: 2026-08-01 to 2026-09-16
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 subject: dpi.exchange
 places: DZA; AGO; BEN; BWA; BFA; CMR; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 5b42656142fa
+record: e678302902b3
 ---
 
 # Data Exchange: monthly update, August – September 2026
@@ -47,7 +47,7 @@ Two states that share a river proposed sharing the data that would stop it drown
 
 On 29 July a joint communiqué [established a trilateral customs steering committee with Nigeria and Benin](https://von.gov.ng/nigeria-benin-cameroon-customs-deepen-regional-border-cooperation/), committing to harmonised procedures, digital interoperability and coordinated risk management on two named corridors, with no timeline, budget or system specification published. At home the layer that would carry any of this acquired an owner rather than a design: at the opening of the national internet governance forum on 18 August the posts and telecommunications ministry [tasked the state operator CAMTEL with carrying national data and infrastructure interoperability](https://www.digitalbusiness.africa/fgi-cameroun-camtel-mandatee-de-faciliter-linteroperabilite-nationale/), resting the mandate on its backbone, transmission, access and hosting infrastructure. No instrument, timetable or budget accompanies it.
 
-The minister responsible for decentralisation and local development said on 25 August 2026 that the administration [has built digital islands side by side and that these must end](https://www.digitalbusiness.africa/cameroun-georges-elanga-obam-veut-mettre-fin-aux-ilots-numeriques-de-ladministration/) â€” a ministerial commitment rather than a platform. The same problem framed the national Internet Governance Forum in Yaounde a week earlier.
+The minister responsible for decentralisation and local development said on 25 August 2026 that the administration [has built digital islands side by side and that these must end](https://www.digitalbusiness.africa/cameroun-georges-elanga-obam-veut-mettre-fin-aux-ilots-numeriques-de-ladministration/) — a ministerial commitment rather than a platform. The same problem framed the national Internet Governance Forum in Yaounde a week earlier.
 
 ## Chad
 

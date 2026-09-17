@@ -1,10 +1,10 @@
 ---
 title: Innovation ecosystem — monthly update, August – September 2026
-compiled: 2026-09-16
-period: 2026-08-01 to 2026-09-16
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 subject: tech.innovate
 places: DZA; AGO; BWA; BFA; CMR; CPV; COM; CIV; COD; EGY; ERI; SWZ; GAB; GMB; GHA; GIN; KEN; LBR; MLI; MAR; NAM; NER; NGA; RWA; SYC; SLE; ZAF; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: bbb726fd4fb9
+record: 31527cd2cbba
 ---
 
 # Innovation ecosystem: monthly update, August – September 2026
@@ -74,6 +74,8 @@ The open-innovation programme was launched on 14 July 2026 with the employers' f
 On 4 July, at the data-centre inauguration, the ministry and the facility's operator signed a memorandum giving ministry-supported start-ups professional hosting at preferential rates ([account](https://www.wearetech.africa/en/fils-uk/news/tech/gabon-launches-14-million-tier-iii-data-center-in-digital-sovereignty-push)). No rate, eligibility list or take-up figure has been published.
 
 The state digital incubator was not closed after all. It [has been placed under interim management, a deputy director general of the state holding that owns 30 per cent of its capital taking the post pending a new model, with a state takeover, conversion to a parapublic entity, absorption into the national innovation centre or supervision by the holding all under discussion](https://union.sonapresse.com/fr/sing-une-restructuration-en-vue-apres-le-depart-du-directeur-general); the digital economy ministry is to decide.
+
+The national innovation centre and UNDP [signed on 15 September to open the TechSpace Masuku incubator at the science and technology university](https://agpgabon.ga/gabon-numerique-cgi-et-pnud-scellent-un-partenariat-en-faveur-de-linnovation-a-lustm/), aiming to train more than 300 young people; no value is stated.
 
 ## Gambia
 

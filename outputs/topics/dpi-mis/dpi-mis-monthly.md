@@ -1,10 +1,10 @@
 ---
 title: Sectoral management information systems (HMIS, EMIS, etc.) — monthly update, August – September 2026
-compiled: 2026-09-16
-period: 2026-08-01 to 2026-09-16
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 subject: dpi.mis
 places: DZA; AGO; BEN; BWA; BDI; CMR; CPV; CAF; COM; COG; CIV; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 768e23537399
+record: d53898c59b09
 ---
 
 # Sectoral management information systems (HMIS, EMIS, etc.): monthly update, August – September 2026
@@ -15,7 +15,7 @@ record: 768e23537399
 
 ## Algeria
 
-Two internal systems moved in different registers. The tax administration [published its first user guide for electronic payment on its platform, setting out seventeen rejection reasons](https://www.wearetech.africa/en/fils-uk/news/public-management/algeria-orders-fast-tracking-of-digital-tax-data-integration) â€” a document describing the failure modes of a live system, which is more than most such platforms disclose. And the interior and transport ministry [signalled activation of tachograph monitoring of professional transport](https://www.echoroukonline.com/%D8%A7%D9%84%D8%AA%D8%A7%D9%83%D9%88%D8%BA%D8%B1%D8%A7%D9%81-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D9%86%D8%B5-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86), with no start date, fleet scope or data-handling rule stated.
+Two internal systems moved in different registers. The tax administration [published its first user guide for electronic payment on its platform, setting out seventeen rejection reasons](https://www.wearetech.africa/en/fils-uk/news/public-management/algeria-orders-fast-tracking-of-digital-tax-data-integration) — a document describing the failure modes of a live system, which is more than most such platforms disclose. And the interior and transport ministry [signalled activation of tachograph monitoring of professional transport](https://www.echoroukonline.com/%D8%A7%D9%84%D8%AA%D8%A7%D9%83%D9%88%D8%BA%D8%B1%D8%A7%D9%81-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D9%86%D8%B5-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86), with no start date, fleet scope or data-handling rule stated.
 
 A second joint session of the digitalisation high commission and the domestic trade ministry [took the data sources themselves as its subject — how they are produced, updated and kept consistent — towards a unified digital mechanism for regulating the national market](https://www.aps.dz/en/algeria/education-technology/mtr4nrdp-benmouloud-abdellatif-chair-second-meeting-to-establish-unified-digital-mechanism-for-national-market-regulation). It is the first account the repository holds here of provenance being treated as the problem to solve rather than the platform.
 
@@ -233,6 +233,8 @@ Togo put a [platform online centralising climate-risk data across agriculture, f
 
 Both sit on a system the repository can now describe: [DHIS2 has been the health ministry's platform since 2016](https://dhis2.org/climate/country-profiles/togo/) and is the national repository. The chain into it still begins on paper at the facility.
 
+An agricultural information system changed hands: [SIHAM, which sends forecasts, prices and input availability to farmers free by SMS, was handed to the national farmers' organisation to run on 15 September](https://www.togofirst.com/en/agriculture/1609-20075-togo-rolls-out-siham-to-improve-farmers-access-to-agricultural-information).
+
 ## Tunisia
 
 The health estate reported volume and the education estate reported failure. [120,000 remote examinations were carried out across 26 hospitals](https://www.lapresse.tn/2026/08/25/hopital-numerique-120-000-examens-a-distance-realises-dans-26-hopitaux/), with no period, denominator or specialty breakdown stated. The education ministry's school-life platform, launched at the start of the month, was within three weeks [reported failing during the enrolment period](https://www.lapresse.tn/2026/08/26/viescolaire-education-tn-pourquoi-linscription-en-ligne-vire-au-parcours-du-combattant/), with no service-availability figure, incident account or fallback route published.
@@ -250,6 +252,8 @@ A health surveillance pilot moved to the stage where the model's answer is visib
 A private platform entered the health stack from outside it. A digital-health company [launched a platform on 3 September letting urban specialists run virtual multidisciplinary ward rounds with rural inpatient teams in real time, with per-bed cryptographic tokens and triage on live vital signs](https://nilepost.co.ug/business/368668/chil-group-launches-digital-platform-linking-rural-hospitals-to-urban-specialists), covering more than 260 medical wards it says often lack cardiologists, neurologists and intensivists. No facility list, patient volume, tariff, clinical evaluation or integration with the national health information stack is published.
 
 The parish programme's system was audited short of its design. The Auditor-General [found two of seven pillar modules fully implemented, 178 of 13,253 parish tablets non-functional, 29 with ineligible users and none supported with internet connectivity](https://www.oag.go.ug/storage/megareports/THEPDM@THM2025.pdf), and in September one district [reported 31 of its 61 tablets dead and parishes back on manual records](https://chimpreports.com/alarm-raised-as-50-of-zombo-pdm-tablets-fail-to-function/).
+
+The tax stamps system published its scale: [more than 1,680 manufacturers and importers registered across 13 excisable products](https://nilepost.co.ug/business/370814/ura-lauds-manufacturers-on-dts-success), run for the revenue authority by SICPA since 2018.
 
 ## Zambia
 

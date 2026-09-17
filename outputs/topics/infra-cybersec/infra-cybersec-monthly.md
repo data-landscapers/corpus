@@ -1,15 +1,15 @@
 ---
 title: Cybersecurity — monthly update, August – September 2026
-compiled: 2026-09-16
-period: 2026-08-01 to 2026-09-16
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 subject: infra.cybersec
-places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; TCD; COG; CIV; SWZ; GAB; GHA; KEN; LSO; LBR; LBY; MWI; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 3dd4babdb719
+places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; TCD; COG; CIV; SWZ; GAB; GHA; KEN; LSO; LBR; LBY; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: f719b3e562c9
 ---
 
 # Cybersecurity: monthly update, August – September 2026
 
-*34 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*35 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -130,6 +130,12 @@ The regulator put its own name to the methods a week later. It issued a public a
 
 The regulator's own monitoring system came back under scrutiny. It [installed a system to watch misinformation on Facebook, X and LinkedIn in January 2025 under a US$1.5m contract awarded 15 days earlier, eight months before the election](https://www.nyasatimes.com/questions-grow-over-malawis-social-media-monitoring-system-amid-oversight-concerns/), and [civil-society letters, a presidency appeal and a rights-commission inspection that was abandoned left it running](https://moz24h.co.mz/part-2-a-ghanaian-contractor-a-1-5-million-contract-and-a-surveillance-system-that-remains-unexplained/). No audit, retention rule or oversight body is published.
 
+The regulator then gave the fraud a source: [prisoners are behind up to 90 per cent of reported mobile-money scams](https://malawi24.com/2026/09/15/90-of-scams-linked-to-prisons/), on its own figure, which leaves open how inmates reach handsets and networks at all.
+
+## Mauritania
+
+An outside measure is the only dated position this month. The Internet Society [puts the country's internet resilience at 43 per cent, with 3 per cent of the 1,000 most-visited websites served from a local server or cache and a security preparedness score of 39.33 on the 2024 global cybersecurity index](https://pulse.internetsociety.org/en/reports/mr/). No national incident or response figure is held for the month.
+
 ## Mauritius
 
 Two cyber measures moved. The [July omnibus would empower the central bank to establish a cyber threat intelligence sharing platform](https://maurice-info.mu/wp-content/uploads/2026/07/The-Economic-and-Financial-Measures-Miscellaneous-Provisions-Bill.pdf) and to require financial institutions, and others it specifies, to participate — the clearest instance of mandatory threat-intelligence sharing in primary legislation on this record. At a [workshop on 29 July](https://lexpress.mu/s/face-aux-cyberattaques-le-secteur-postal-prepare-sa-riposte-560993) the postal operator began being wired into the Universal Postal Union's global postal threat-sharing centre, with the ICT minister naming ISO/IEC 27001 as the standard he wants adopted.
@@ -180,7 +186,7 @@ The telecoms regulator ran two public-facing cyber messages in nine days. It [se
 
 The first tool rather than message came from an operator, not the state. On 18 August a mobile operator [launched a scam-alert channel for suspected fraud against its mobile-money service, reached on a *505# short code, an online form or a 111 call](https://techafricanews.com/2026/08/18/orange-sierra-leone-launches-scam-alert-tool-to-combat-fraud/). It is one operator's own channel: no report volume, response time, remedy, referral route to the police or coordination with the regulator's response is published, and the Cyber Security and Crime Act 2021 still carries no reported prosecution.
 
-The communications, technology and innovation ministry [published draft digital protection plans for four critical sectors](https://sierraloaded.sl/news/sierra-leone-plans-digital-systems-sectors/); nothing is adopted and no implementation date is given. An original investigation [documented 27 WhatsApp account-takeover cases](https://sierraloaded.sl/feature/inside-sierra-leone-whatsapp-takeover-scam/) and located the governance failure in the payout leg rather than in the platform â€” which makes it a mobile-money supervision question rather than a platform one.
+The communications, technology and innovation ministry [published draft digital protection plans for four critical sectors](https://sierraloaded.sl/news/sierra-leone-plans-digital-systems-sectors/); nothing is adopted and no implementation date is given. An original investigation [documented 27 WhatsApp account-takeover cases](https://sierraloaded.sl/feature/inside-sierra-leone-whatsapp-takeover-scam/) and located the governance failure in the payout leg rather than in the platform — which makes it a mobile-money supervision question rather than a platform one.
 
 ## South Africa
 

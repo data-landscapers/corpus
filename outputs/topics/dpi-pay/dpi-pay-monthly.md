@@ -1,10 +1,10 @@
 ---
 title: Digital Payments and Fintech — monthly update, August – September 2026
-compiled: 2026-09-16
-period: 2026-08-01 to 2026-09-16
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 subject: dpi.pay
 places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 3a3f98248a59
+record: 5d306a996501
 ---
 
 # Digital Payments and Fintech: monthly update, August – September 2026
@@ -24,6 +24,8 @@ A renminbi route opened for Angola-China trade: the largest private bank [signed
 ## Botswana
 
 The month's three payments developments are all commercial and narrow. A commercial bank and the Yellow Light Taxi Association [launched card acceptance on the bank's mobile tap product for taxi operators in Gaborone on 9 August](https://businessweekly.co.bw/companies-markets/absa-opens-new-financing-cashless-payment-opportunities-for-taxi-operators), with access to business loans of up to P60,000 conditioned on the formal banking history the operators build through it. It is one bank and one association; no operator count, uptake figure or fee schedule is stated, and the credit on offer is tied to banking with the institution providing the terminal. Nine days later a remittance operator [issued a card on its wallet through a commercial bank and an international scheme](https://techafricanews.com/2026/08/18/mukuru-launches-card-in-botswana-with-access-bank-and-visa/), adding ATM withdrawal, in-store payment and domestic online purchase to a wallet that carried transfer and cash-out only. The operator's own account of the Companion Card puts the point of it plainly: [no separate bank account is required and the card works across every mobile network in the country, against an estimated 38 per cent of adults unbanked](https://www.connectingafrica.com/fintech/mukuru-launches-mobile-wallet-linked-visa-card-in-botswana). Here too there is no customer count, issuance volume or fee schedule on the record. A commercial bank and an international card scheme then [opened online acceptance of that scheme's cards to participating merchants in nine African markets including Botswana on 19 August](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/), settling in local currency, US dollars or both; the merchant count is given for the nine markets together and not for Botswana. The national payment switch and the citizen wallet both remain at Planned.
+
+A fourth came with a bank's annual results: FNBB [said its eWallet will send funds directly into all three mobile-money platforms](https://www.mmegi.bw/business/fnbb-muscles-into-mobile-money-race/news), with no start date or fee published.
 
 ## Burkina Faso
 
@@ -177,7 +179,7 @@ The financial services regulator [issued guidance notes on stablecoins, with an 
 
 ## Mozambique
 
-Payments moved in two directions. The central bank [set limits on payments abroad made with bank cards, revoking its December 2025 notice](https://www.bancomoc.mz/en/media/highlights/notice-no-4-gbm-2026-establishes-limits-on-payments-abroad-made-using-bank-cards-and-revokes-notice-no-9-gbm-2025-of-9-december/) â€” a restriction on what a card can do rather than an extension of it. In the other direction a health agency [reported cumulative disbursement of US$14.4m to health workers over mobile money for campaign payments](https://techafricanews.com/2026/08/11/who-mozambique-channels-14-4m-through-mobile-money-for-health-campaigns/), the largest use of the mobile-money rail for public payment the repository holds here.
+Payments moved in two directions. The central bank [set limits on payments abroad made with bank cards, revoking its December 2025 notice](https://www.bancomoc.mz/en/media/highlights/notice-no-4-gbm-2026-establishes-limits-on-payments-abroad-made-using-bank-cards-and-revokes-notice-no-9-gbm-2025-of-9-december/) — a restriction on what a card can do rather than an extension of it. In the other direction a health agency [reported cumulative disbursement of US$14.4m to health workers over mobile money for campaign payments](https://techafricanews.com/2026/08/11/who-mozambique-channels-14-4m-through-mobile-money-for-health-campaigns/), the largest use of the mobile-money rail for public payment the repository holds here.
 
 The public payroll became a credit rail. A [memorandum between the dominant mobile money operator, a microbank and the state financial information centre puts a salary-advance product on the operator's short code for more than 380,000 civil servants](https://techreviewafrica.com/news/7081/m-pesa-maximo-microbanco-and-cedsif-open-formal-credit-access-to-380000-mozambican-civil-servants). It is a memorandum rather than a live product: no launch date, interest rate, advance ceiling, repayment mechanism or default treatment is published, and nothing describes how payroll data would reach the lender.
 
@@ -233,6 +235,8 @@ Effective 14 July the central bank [designated one rail as the national instant 
 The layer the rail does not touch moved the other way. Regulator statistics for the first quarter of 2026, reported on 31 July, [put the second operator's share of the mobile-money market at 14.3% against 16.9% a year earlier, and its active agents at 48,847 against 53,316](https://taarifa.rw/2026/07/31/ekash-was-designed-to-bridge-the-digital-divide-but-airtel-moneys-struggles-risk-leaving-rural-users-behind/) — a contraction in the cash-in and cash-out network on which rural households depend, over exactly the period interoperability was meant to help.
 
 The central bank put the gap on its own record: [85.3% of Rwandans hold a digital account and 92% still pay mainly in cash](https://www.ktpress.rw/2026/09/central-bank-takes-aim-at-cash-as-92-still-rely-on-it/), and it launched a national campaign touring the districts to close it, with no target published.
+
+The online VAT order's own deadline has passed unmet: the revenue authority was to have a supplier registration portal in place by 29 July, and [a tax adviser recorded on 15 September that it is not yet in place](https://www.newtimes.co.rw/article/38960/opinions/rwandas-online-vat-regime-raises-compliance-questions-early), while unregistered suppliers already accrue penalties.
 
 ## Sao Tome and Principe
 
@@ -302,6 +306,8 @@ Payments moved on a deadline. Retirement allowances [began paying by bank transf
 Elsewhere a domestic financial-technology firm founded in 2024 [runs a single platform interconnecting bank transfers, mobile wallets and dollar stablecoins, exposing payment operations to autonomous software agents](https://www.wearetech.africa/fr/fils/tech-stars/le-togolais-esso-dong-djafalo-interconnecte-banques-mobile-money-et-cryptos), with no volume, licence or customer figure stated.
 
 Certified electronic invoicing is not yet running. The revenue office [briefed about 50 firms on 10 September on a gradual rollout](https://www.togofirst.com/en/economic-governance/1409-20049-togo-s-tax-authority-employers-discuss-certified-e-invoicing-reform), and standardised paper invoices stay valid until launch.
+
+Public transport is next: [digital tickets are piloting on the state bus operator's student routes, with network rollout planned by the end of 2026](https://www.togofirst.com/en/transport/1509-20068-after-student-pilot-togo-plans-wider-rollout-of-digital-bus-ticketing).
 
 ## Tunisia
 

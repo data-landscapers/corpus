@@ -1,10 +1,10 @@
 ---
 title: Other GovTech and e-Gov — monthly update, August – September 2026
-compiled: 2026-09-16
-period: 2026-08-01 to 2026-09-16
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 subject: dpi.govtech
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: e00ba4571902
+record: 867c07eefe8b
 ---
 
 # Other GovTech and e-Gov: monthly update, August – September 2026
@@ -25,7 +25,7 @@ The services-import platform announced on 27 July becomes the exclusive route fr
 
 August added two more, and one admission. The trade ministry's [complaints platform for economic operators went live on 11 August](https://www.horizons.dz/2026/08/operateurs-economiques-une-nouvelle-plateforme-numerique-pour-le-traitement-des-preoccupations-a-distance/), for remote filing and tracking of concerns about import and export procedures, and the ministry describes it as the fifth platform it has put into service this year. The Ombudsman institution will [pilot a videoconference citizen-reception service from September 2026](https://www.horizons.dz/2026/08/instance-du-mediateur-de-la-republique-nouvelle-vision/), to ease access for citizens in remote areas and people with specific needs. Against that, on 10 August the interior minister [ordered his own ministry to accelerate digitisation projects he described as stalled](https://www.horizons.dz/2026/08/numerisation-sayoud-ordonne-daccelerer-la-mise-en-oeuvre-des-projets/), naming vehicle-registration and civil-status services, at a review held under presidential instructions to speed cross-sector interconnection. He does not say in what respect they have stalled, and gives no completion figure or revised timetable.
 
-The state fuel distributor [made its e-Mahata platform the single window for ordering tyres](https://just-infodz.com/naftal-pneus-algerie-incoherence-himayatak/), requiring electronic payment and capping one make at two purchases per citizen per six months â€” a rationing rule enforced through an identity-bound ordering platform rather than at the counter. Separately, the labour ministry [launched an online corruption-reporting platform, Tabligh](https://just-infodz.com/lutte-corruption-algerie-plateforme-tabligh-mtess/), covering the central administration, with no report volume, handling procedure or protection for reporters published.
+The state fuel distributor [made its e-Mahata platform the single window for ordering tyres](https://just-infodz.com/naftal-pneus-algerie-incoherence-himayatak/), requiring electronic payment and capping one make at two purchases per citizen per six months — a rationing rule enforced through an identity-bound ordering platform rather than at the counter. Separately, the labour ministry [launched an online corruption-reporting platform, Tabligh](https://just-infodz.com/lutte-corruption-algerie-plateforme-tabligh-mtess/), covering the central administration, with no report volume, handling procedure or protection for reporters published.
 
 The national portal grew by count. The high commission [put it at 150 services on 9 September, against 21 at launch, when three water-sector services went live](https://algerie54.dz/hydraulique-lancement-de-trois-nouveaux-services-via-le-portail-national-des-services-numeriques), alongside [five tax certificates and attestations](https://elwatan.dz/dzair-digital-services-impots-integration-de-cinq-nouveaux-services-numeriques/). The same week the president [ordered the investor single window effectively in service by the end of September and all investment procedures digitised with the tax, state-property and customs administrations](https://elwatan.dz/le-president-tebboune-ordonne-lacceleration-de-la-numerisation-mise-en-service-du-guichet-unique-fin-septembre/).
 
@@ -54,6 +54,8 @@ The health ministry's accreditation portal, launched on 7 August, arrived with t
 The automated traffic system's first month is measured, and the gap is collection. [19,910 offences were recorded between 1 and 31 August 2026, generating CFA146.559m in fines, of which CFA16.1m had been recovered at the review of 4 September](https://www.agenceecofin.com/actualites-numerique/0709-141342-burkina-faso-260-000-d-amendes-generes-par-la-video-verbalisation-en-un-mois). The state's answer is a body rather than a system: a [motorised police brigade created on 2 September specifically to trace drivers who evade the camera-issued fines](https://burkina24.com/2026/09/03/securite-routiere-a-ouagadougou-naissance-de-la-bricir-pour-en-finir-avec-lincivisme-sur-les-routes/). Barely a ninth of the month's fines were collected, and no appeal, error or contested-notice figure is published — which is what a reader would need to tell non-payment from wrongly-issued notices.
 
 Electronic signature is to enter administrative procedures: the ministry [set its official launch for 15 September](https://www.wearetech.africa/fr/fils/actualites/tech/burkina-faso-l-administration-passe-a-la-signature-electronique). The same day the modernisation council [heard the Prime Minister name weak citizen uptake of the digital service platforms as a persistent shortcoming](https://www.sidwaya.info/%f0%9d%90%8c%f0%9d%90%a8%f0%9d%90%9d%f0%9d%90%9e%f0%9d%90%ab%f0%9d%90%a7%f0%9d%90%a2%f0%9d%90%ac%f0%9d%90%9a%f0%9d%90%ad%f0%9d%90%a2%f0%9d%90%a8%f0%9d%90%a7-%f0%9d%90%9d%f0%9d%90%9e-%f0%9d%90%a5/), without a figure for it.
+
+Electronic signature arrived on its announced date. [FasoSign was launched on 15 September already integrated into the mission-order, administrative-mail and cadastre platforms](https://libreinfo.net/burkina-ladministration-publique-entre-dans-lere-de-la-signature-electronique-avec-fasosign/), its keys and certificates presented as held by the state itself; no signature count or adoption list is published.
 
 ## Burundi
 
@@ -85,7 +87,7 @@ The Portail unique du citoyen entered the repository as a concept note: a single
 
 ## Congo
 
-A public-administration digitalisation task force [was gazetted on 6 August, as decree 2026-261 of 29 July 2026](https://sgg.cg/JO/2026/congo-jo-2026-32.pdf). No session of it is on record, and the decree names no deliverable, deadline or budget â€” an instrument creating a body, with the work still to be defined.
+A public-administration digitalisation task force [was gazetted on 6 August, as decree 2026-261 of 29 July 2026](https://sgg.cg/JO/2026/congo-jo-2026-32.pdf). No session of it is on record, and the decree names no deliverable, deadline or budget — an instrument creating a body, with the work still to be defined.
 
 ## Cote d'Ivoire
 
@@ -190,6 +192,8 @@ Its legal footing moved the other way. On 27 August the Treasury [presented draf
 
 On the one citizen survey held, [digital-government adoption stands at 49% and net satisfaction fell five points from 2024 to 64%, with 12% of users reporting no problems, the lowest share of 44 countries surveyed](https://techtrendske.co.ke/2026/09/10/kenyans-among-worlds-heaviest-ai-users-survey-shows/).
 
+Cargo seals left state hands. The revenue authority [approved 15 private vendors for electronic seals on transit cargo and set 26 October 2026 for retiring its own](https://www.kra.go.ke/news-center/public-notices/2393-approved-vendors-for-the-electronic-monitoring-and-tracking-of-goods-under-customs-control-and-transition-to-the-multi-vendor-user-owned-framework), with users choosing and contracting their vendor directly under the regional cargo tracking system.
+
 ## Lesotho
 
 At the launch of the national response team the ministry [also stated a plan to move ICT services out of the civil service into a separate agency](https://www.gov.ls/ict/ministry-of-information-communications-science-technology-and-innovation-launched-lescomcsirt-and-inaugural-national-cybersecurity-forum/). No enabling instrument, budget, staffing or date accompanies it, so the plan is on record and the agency is not.
@@ -214,6 +218,8 @@ On 30 July the Libyan Export Development Authority reported [LD 79.5 million of 
 On 9 August the economy and trade minister [launched an Exhibitions and Conferences Platform in Tripoli](https://libyaherald.com/2026/08/minister-of-economy-launches-digital-platform-for-organising-exhibitions-and-conferences-in-libya), presented as the country's first official specialised system for the sector: electronic management of registration, participation and event logistics, and an integrated database of exhibitions, conferences, organisers, participants and visitors. As with the expert register and the export window, no supplier, cost, hosting arrangement or data-protection basis is stated.
 
 A complaints route was put behind the visa system. The citizen service centre and the passports authority [agreed a joint mechanism to receive and handle citizens' and residents' enquiries and complaints on the electronic visa, and to unify the communication channels between the agencies involved](https://ar.libyaobserver.ly/article/38605). No caseload, response standard or list of the channels being unified is published, so the mechanism is established and its capacity is not.
+
+Customs [met international contractors on 15 September to revive automated inspection and coastal monitoring contracts concluded earlier](https://libyaherald.com/2026/09/leading-international-companies-discuss-with-customs-authority-activating-automated-inspection-contracts-projects/) and never completed; no value, date or company list is published.
 
 ## Madagascar
 
@@ -363,6 +369,8 @@ The central bank [launched a sovereign yield curve system on 7 August](https://w
 Upstream of any single system, German cooperation [tendered a consultancy on 5 August to identify and prepare bankable digital public infrastructure projects across Tanzania, Kenya and Uganda](https://www.gtai.de/de/trade/tansania/ausschreibungen-projekte/consulting-digitale-oeffentliche-infrastrukturprojekte-ostafrika--2018684) — identity, data exchange, payments and e-government — under the European programme with the East African Community. A procurement notice fixes the consultancy and nothing about any project it may produce; neither value nor duration is stated.
 
 The commodity exchange took its first crop online. The cereals regulator [sold 335,238 kilogrammes of white maize in Rukwa Region in a first phase run on a digital trading system, with the mercantile exchange, the warehouse receipts board and the cooperative development commission joining the sale and an accredited laboratory testing aflatoxin and moisture before bidding](https://www.thecitizen.co.tz/tanzania/business/tanzania-makes-history-with-first-ever-digital-white-maize-auction-5572996); further phases are unannounced.
+
+Zanzibar's automated road cameras [reached the House of Representatives](https://www.mwananchi.co.tz/mw/zanzibar/habari/kamera-za-barabarani-zanzibar-zaibua-mjadala-kila-kona-5597252), members calling the 50 km/h limit too low and the Sh230,000 fine too high and asking why government vehicles go unpenalised.
 
 ## Togo
 

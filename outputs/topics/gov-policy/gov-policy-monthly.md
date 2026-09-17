@@ -1,15 +1,15 @@
 ---
 title: Strategies, plans and policies — monthly update, August – September 2026
-compiled: 2026-09-16
-period: 2026-08-01 to 2026-09-16
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 subject: gov.policy
-places: DZA; BWA; BFA; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; GMB; GHA; GIN; GNB; KEN; LSO; LBY; MWI; MLI; MRT; MUS; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: d2feb03cc5b9
+places: DZA; BWA; BFA; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MWI; MLI; MRT; MUS; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 4a2077861c37
 ---
 
 # Strategies, plans and policies: monthly update, August – September 2026
 
-*43 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*44 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -64,6 +64,8 @@ Closing the national workshop on prioritising public digital services on 4 Septe
 The universal-service agency published its own five-year plan on 11 August. It [rests on four pillars — universal connectivity, digital services and financial inclusion, digital usage and literacy, and operational excellence — across ten projects, four of them funded at FCFA 60.144bn through the national development plan and six from the agency's own funds](https://digitalmag.ci/parlons-projet-gilles-thierry-beugre-devoile-le-plan-strategique-2026-2030-de-lansut/). The [stated targets are 300 newly connected localities, smartphone penetration of 80% by 2028 against 40% now, and more than 15,000 km of new fibre by 2028, against a starting point at which 70% of rural households have no internet access](https://digitalmag.ci/parlons-projet-gilles-thierry-beugre-devoile-le-plan-strategique-2026-2030-de-lansut/). No adoption instrument is published; the plan is the agency's own.
 
 The space agency got its first head more than a year after the decree that created it. The government [appointed an inaugural Director General of the Space Agency, a public administrative institution of a scientific and technological character under the higher education ministry with programme areas spanning Earth observation, space meteorology, astronomy, satellite navigation and satellite communications](https://spaceinafrica.com/2026/08/28/dr-tidiane-ouattara-appointed-inaugural-dg-of-cote-divoires-space-agency-2/); the appointment date is not stated.
+
+The development plan's digital component was then costed for investors: on 15 September the minister [set out six opportunities worth 541.3 billion FCFA to the private sector](https://www.afriqueeconomie.net/2026/09/pnd-2026-2030-5413-milliards-de-fcfa-dopportunites-dinvestissement-presentees-au-secteur-prive-dans-le-numerique/), against a target of lifting the digital economy to 15 per cent of GDP by 2030.
 
 ## Djibouti
 
@@ -120,6 +122,10 @@ A revised Hustler Fund merchant tariff schedule takes effect on 7 August, delive
 
 The month's policy work is a strategy being drafted rather than one adopted. A [National AI Strategy is being written at the same five-day Maseru workshop as the data-centre blueprint, opened on 17 August by the communications ministry with the United Nations in Lesotho](https://techafricanews.com/2026/08/18/lesotho-begins-work-on-national-ai-strategy-and-data-centre-blueprint/), and is distinct from the National AI Policy signed in June. The deputy prime minister's keynote asked for Lesotho's existing capabilities, safeguards, infrastructure, policy and human capacity to be settled before AI investment is scaled. No publication date, custodian, scope or cost is stated, and nothing beyond the workshop is on the record.
 
+## Liberia
+
+The financial inclusion strategy reached validation. The central bank's [draft went through a two-day validation and will be revised](https://frontpageafricaonline.com/liberia-cbls-new-financial-inclusion-plan-hinges-on-id-business-registry-reforms/), with participants naming the identification registry, business registration and credit reference systems as what it depends on; no launch date is set.
+
 ## Libya
 
 On 26 July the Ministry of Civil Service [discussed implementation of its digital transformation plan with Huawei Libya](https://lana.gov.ly/post.php?id=362365&lang=ar), covering the ministry's systems and electronic services. No agreement, scope or value was announced.
@@ -142,13 +148,15 @@ The same 1 August recommendations also included establishing [a Conseil national
 
 The road transport regulator [gave ride-hailing companies operating through digital applications 15 days to bring their authorisations into line with the law, warning that failure within the deadline could bring legal proceedings including suspension of the activity, with no further notice or warning required](https://lequotidien.mr/?p=40128&lang=fr). The communique sets the warning against growing use of digital platforms for transport services; no operator is named and no count of non-compliant authorisations is given.
 
+On 16 September the Council of Ministers [took a statement proposing a national framework on minors' access to social media](https://www.ami.mr/archives/268298): an access threshold at 16, recommendation algorithms, infinite scroll and autoplay off by default for minors, no advertising targeted at them, and a reporting and support mechanism for children harmed online. It is a proposal; no draft text or date is published.
+
 ## Mauritius
 
 Cabinet [approved Mauritius Vision 2050 on 11 September, targeting a US$50bn economy with digital among seven strategic sectors](https://lexpress.mu/s/mauritius-vision-2050-lobjectif-dune-economie-a-usd-50-milliards-dici-2050-562497); the document is not published.
 
 ## Mozambique
 
-Two strategies are being written and neither is adopted. The National Cyber Security Strategy 2026-2030 [was reviewed with a donor partner alongside an evaluation of its 2021-2025 predecessor](https://revista.tempo.co.mz/intic-e-finlandia-reforcam-cooperacao-para-a-estrategia-nacional-de-seguranca-cibernetica-2026-2030/), succeeding a policy whose own period ended last year. The National Digital Transformation Strategy [has been in drafting since February](https://www.trade.gov/market-intelligence/mozambique-digital-transformation-strategy) and is in drafting still â€” no change at either end of the window.
+Two strategies are being written and neither is adopted. The National Cyber Security Strategy 2026-2030 [was reviewed with a donor partner alongside an evaluation of its 2021-2025 predecessor](https://revista.tempo.co.mz/intic-e-finlandia-reforcam-cooperacao-para-a-estrategia-nacional-de-seguranca-cibernetica-2026-2030/), succeeding a policy whose own period ended last year. The National Digital Transformation Strategy [has been in drafting since February](https://www.trade.gov/market-intelligence/mozambique-digital-transformation-strategy) and is in drafting still — no change at either end of the window.
 
 Financial data residency was rewritten. The central bank [gazetted Aviso 6/GBM/2026 on 31 August, requiring every bank's primary data centre and principal information systems in national territory and revoking the 2003 rule](https://www.bancomoc.mz/media/j2fgaf3a/aviso-6_gbm_2026-de-18-de-agosto_-br_166_i_s%C3%A9rie_2026_31-de-agosto.pdf), in force 60 days after publication.
 

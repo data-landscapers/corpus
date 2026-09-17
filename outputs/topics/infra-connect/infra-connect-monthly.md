@@ -1,10 +1,10 @@
 ---
 title: Connectivity — monthly update, August – September 2026
-compiled: 2026-09-16
-period: 2026-08-01 to 2026-09-16
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 subject: infra.connect
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 425cc9387107
+record: 30a0a32e6023
 ---
 
 # Connectivity: monthly update, August – September 2026
@@ -19,7 +19,9 @@ The one dated position is the licence award rather than any new build. [Three co
 
 ## Angola
 
-Two lines moved and neither is national. An operator [installed 20 towers in Cabinda with commercial service days away](https://angop.ao/es/noticias/tecnologia/servicos-de-telefonia-movel-africell-chegam-a-cabinda/), and the satellite licence application open since 2024 [remains unresolved](https://www.novojornal.co.ao/opiniao/detalhe/starlink-em-angola-conectividade-controlo-e-a-politica-silenciosa-do-ceu-73683.html), with no decision published either way.
+Two lines moved early in the window and neither was national; a third, in mid-September, was. An operator [installed 20 towers in Cabinda with commercial service days away](https://angop.ao/es/noticias/tecnologia/servicos-de-telefonia-movel-africell-chegam-a-cabinda/), and the satellite licence application open since 2024 [remains unresolved](https://www.novojornal.co.ao/opiniao/detalhe/starlink-em-angola-conectividade-controlo-e-a-politica-silenciosa-do-ceu-73683.html), with no decision published either way.
+
+The national fibre network [opened its first link at Lobito on 16 September](https://www.angop.ao/noticias/tecnologia/rede-de-banda-larga-de-fibra-optica-ja-funciona-em-benguela/), a DWDM route from Luanda through Bengo and Cuanza Sul, with Huambo, Namibe and Cabinda named next; the same day [a fibre-to-the-home service went live for a 1,000-dwelling housing centre at Baia Farta](https://angop.ao/noticias/tecnologia/ministro-mario-oliveira-lanca-servico-de-internet-tudonosso-na-baia-farta/). Separately the national radio [finished the Luanda phase of a transmitter programme meant to raise coverage from 63 to 76 per cent of the population](https://www.angop.ao/noticias/sociedade/rna-ganha-centro-de-monitorizacao-de-emissores/).
 
 ## Benin
 
@@ -105,6 +107,8 @@ GSMA Intelligence's country-by-country survey [puts Egyptian 5G take-up at 3 per
 
 Satellite service reached the country. [The operator's own principal confirmed on 29 August that the service is available in Equatorial Guinea](https://realequatorialguinea.com/destacado/mundo/elon-musk-confirma-que-el-internet-satelital-de-starlink-ya-esta-disponible-en-guinea-ecuatorial/), after an authorisation earlier in the year that reached only North American companies operating on the high seas within jurisdictional waters. No licence text, tariff, subscriber route or regulator statement accompanies the confirmation, so the repository holds a claim of availability and not the terms it is available on.
 
+Access then narrowed for everyone else. Since 2 September [bandwidth has been throttled and Facebook and TikTok unreachable without a VPN](https://www.seneweb.com/fr/news/Afrique/guinee-equatoriale-coupure-de-facebook-et-tiktok_n_504430.html), after a viral video accusing the vice-president of corruption whose author was arrested; no order has been published and the information ministry did not answer questions.
+
 ## Eswatini
 
 The one dated position here is a standing statutory right rather than a change. Free adjudication of consumer complaints against communications providers [runs under the Eswatini Communications Commission Act 2013, with windows of one month for post and courier, three for broadcasting and six for telecommunications](https://times.co.sz/40791/technology-today/consumers-guide-to-type-approved-communications-equipment/). It is structural provision and not movement: no complaint volume, adjudication count or outcome is published against it.
@@ -166,6 +170,8 @@ An industry survey filled a gap in the record on 5G: commercial networks opened 
 On the delivery side of the same programme, coordination was stepped up rather than the schedule revised: two principal secretaries began [co-chairing a standing review of the implementing agencies on 4 September, the coordination framed against a target of taking the technology industry from US$7bn to US$100bn](https://peopledaily.digital/news/govt-steps-up-digital-superhighway-implementation). No revised delivery date came with it, and 63,000km of the 100,000km fibre target remains outstanding before the 2027 deadline.
 
 One wholesale fibre entrant is leaving. Airtel [is winding up its Kenyan fibre subsidiary after two years, having returned its facilities licence](https://techweez.com/2026/09/14/fiber-airtel-kenya-telesonic-shutdown/).
+
+The backbone went back to tender. The ICT Authority [issued framework agreements for national backbone links and cross-border and metro links under the World Bank-financed digital economy project](https://techtrendske.co.ke/2026/09/16/kenya-floats-tender-for-national-fibre-backbone-cross-border-links/), each for three years extendable by two, with Treasury putting public-sector fibre at 30,454km in 2026 against 22,486km in 2022. No award is held.
 
 ## Lesotho
 
@@ -236,7 +242,7 @@ The ministry put numbers on how far the connecting has got and how far it is mea
 
 Spectrum is being taken back rather than added. Operators [were instructed to retire their 2G and 3G networks and refarm the spectrum, with one suggesting smartphone subsidies before the shutdown](https://www.namibiansun.com/local-news/mtc-suggests-smartphone-subsidies-before-2g-3g-shutdown-nmh015578-1-19462). A shutdown without a device programme moves the cost of the transition onto the users least able to carry it, and no date, subsidy or handset count is on the record.
 
-The largest mobile operator said it [will put N$624.9 million into telecommunications infrastructure in the 2025/26 financial year](https://www.namibiansun.com/mw-main/mtc-puts-n6249m-into-networks-NMH016998-3015-20874) â€” a stated commitment rather than a delivered figure.
+The largest mobile operator said it [will put N$624.9 million into telecommunications infrastructure in the 2025/26 financial year](https://www.namibiansun.com/mw-main/mtc-puts-n6249m-into-networks-NMH016998-3015-20874) — a stated commitment rather than a delivered figure.
 
 ## Niger
 

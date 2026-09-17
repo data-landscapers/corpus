@@ -1,15 +1,15 @@
 ---
 title: Training and skills — monthly update, August – September 2026
-compiled: 2026-09-16
-period: 2026-08-01 to 2026-09-16
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 subject: capacity.training
-places: DZA; AGO; BEN; BDI; CMR; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 8bc2edec6284
+places: DZA; AGO; BEN; BFA; BDI; CMR; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: d0928dd04352
 ---
 
 # Training and skills: monthly update, August – September 2026
 
-*44 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*45 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -24,6 +24,10 @@ A new technology centre [entered service in August](https://www.opais.ao/politic
 ## Benin
 
 Two cohorts opened in the month, both small and both institutional. The state information-systems agency [began a certification programme for 25 departmental information-security officers on 3 August](https://lanation.bj/numerique/cybersecurite-lasin-renforce-les-capacites-de-25-rssi), and the capital's town hall [opened an artificial-intelligence academy for 60 secondary pupils on 19 August](https://lanation.bj/numerique/cotonou-ai-academy-former-60-collegiens-en-ia-pour-repondre-aux-defis-urbains), framed on urban problems. Neither publishes a curriculum, a completion standard or a plan for a second cohort.
+
+## Burkina Faso
+
+The one training development in the window is small and specific. An association of blind and partially sighted students [closed its fifth adapted computing course on 11 September, having trained 70 visually impaired pupils and students](https://www.sidwaya.info/formation-en-informatique-70-eleves-et-etudiants-en-situation-de-handicap-visuel-outilles/) from first computer use to e-mail and AI, and its president said they have no computers to practise on afterwards.
 
 ## Burundi
 
@@ -71,6 +75,8 @@ At the Macetjeni handover the ICT ministry's principal secretary said [AI, robot
 
 The hub itself opened on 6 August at Macetjeni in the Lubombo Region, [the second of its kind, backed by the development programme with the communications regulator and the small-enterprise development company and aimed at young people, women and people with disabilities](https://www.undp.org/eswatini/news/macetjeni-ihub-opens-expand-digital-opportunities). It opens against [an internet-usage rate of 58% and youth unemployment of 56%](https://www.undp.org/eswatini/news/macetjeni-ihub-opens-expand-digital-opportunities). No intake target, running cost or funding term is published, so what a second hub is expected to change cannot be read from the account.
 
+In schools, the education minister [set out more than 1,140 computers donated by Taiwan to 49 schools and 40 interactive screens installed in five schools per region, with 106 more schools to follow](https://independentnews.co.sz/48373/news/technology-devices-take-schools-into-digital-era-handsome/), and a US$4.75 million Global Partnership grant whose terms were not given.
+
 ## Ethiopia
 
 The flagship coder-training programme is [now reported as a seven million coders initiative](https://www.ameco.et/english/ethiopia-launches-ambitious-7-million-coders-initiative-to-build-continental-tech-hub/), a target raised from the five million the digital transformation council had been working to. The raise is reported rather than gazetted, and no enrolment, completion or certification figure accompanies it.
@@ -92,6 +98,8 @@ Training capacity was the month's activity, and it reached the degree itself: th
 The coders programme published its funnel rather than a headline for the first time: [141,954 registered accounts, 27,782 admitted learners and 5,812 logged course completions as at 2 August 2026, cybersecurity the largest track at 8,570](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/), with 30,444 admitted through one commercial platform, 10,143 through a second and 24,394 learners self-paced. Registration is not admission and admission is not completion, and it is the ratio between them rather than any one number that measures the programme against its target of a million.
 
 The coders programme is to reach first-year degrees: the minister [said 12 universities have signed memoranda to carry its courses in Level 100](https://www.myjoyonline.com/digital-skills-training-producing-solution-driven-youth-for-ghanas-future-sam-george/).
+
+The coders programme's registrations [stood at 141,954 accounts in August](https://www.graphic.com.gh/news/general-news/ghana-news-one-million-coders-programme-enrols-141-954.html), with the minister putting its signed university memoranda at twelve.
 
 ## Kenya
 
@@ -237,6 +245,8 @@ The state ICT institute reports [48,448 people trained in the financial year: 36
 The IT authority [invited expressions of interest for consultancy services to develop a National Digital Skills and Competence Framework](https://www.nita.go.ug/sites/default/files/2026-08/REOI%20-%20Digital%20Skills%20Framework_0.pdf). Nothing is yet awarded, and no scope value or delivery date is stated.
 
 An operator's programme published a cohort figure on 31 August. It [graduated 503 young people at the National ICT Innovation Hub from a hybrid course in information and communication technology, digital marketing, e-commerce, cybersecurity and artificial intelligence, taking its cumulative total to 1,191](https://techafricanews.com/2026/08/31/mtn-uganda-graduates-503-youth-digital-skills/). The counts are the operator's own, and no employment outcome, start year or cost per participant is published.
+
+The same operator [handed over the second of four university innovation hubs under a Shs4 billion three-year programme at Busitema](https://nilepost.co.ug/business/371109/digital-hubs-must-equip-youth-for-jobssays-ps-zawedde).
 
 ## Zambia
 

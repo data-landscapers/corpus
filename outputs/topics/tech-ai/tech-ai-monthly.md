@@ -1,10 +1,10 @@
 ---
 title: AI — monthly update, August – September 2026
-compiled: 2026-09-16
-period: 2026-08-01 to 2026-09-16
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 subject: tech.ai
 places: DZA; AGO; BEN; BFA; BDI; CMR; CAF; TCD; COM; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GHA; KEN; LBR; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: b403a12a8c66
+record: 85ed3b313c2d
 ---
 
 # AI: monthly update, August – September 2026
@@ -99,7 +99,7 @@ On 7 August 2026 Óscar Ondo Ngomo left the director-generalship of GITGE, which
 
 ## Eswatini
 
-Eswatini's second instrument to carry AI rules arrived in the month, and like the first it is not an AI instrument: the [Online Media Publishing Guidelines 2026 bind registered publishers to the responsible use of AI](https://times.co.sz/40740/news/new-regulations-to-crack-whip-on-online-media/), enforced through the registration requirement they create. There is still no national AI strategy or statute behind either.
+Eswatini's second instrument to carry AI rules arrived in the month, and like the first it is not an AI instrument: the [Online Media Publishing Guidelines 2026 bind registered publishers to the responsible use of AI](https://times.co.sz/40740/news/new-regulations-to-crack-whip-on-online-media/), enforced through the registration requirement they create. No national AI strategy or statute stands behind either, though on 16 September the ICT minister said [a consultant has been engaged to draft a strategy](https://eswatinipositivenews.online/eswatini-seeks-responsible-ai-use-through-national-strategy/).
 
 On 6 July the prime minister told the [Global Dialogue on AI Governance in Geneva that small and developing nations should not become mere consumers of technologies developed elsewhere](https://independentnews.co.sz/45686/business/eswatini-champions-human-centred-ai-and-how-to-guide-its-transformation-responsibly/), an address the National 4IR Strategy frames.
 
@@ -121,6 +121,8 @@ The external assessment of readiness arrived on 7 September. Ghana is [one of 77
 
 Two applied systems launched outside government. The development bank's [AI platform gives farmers agronomic guidance and loan officers portfolio intelligence on a messaging app, after a pilot of more than 8,500 queries in three months](https://gna.org.gh/2026/09/dbg-partners-launch-ai-platform-to-transform-agricultural-financing/), and a non-profit with the dominant operator [opened a toll-free voice line answering in six languages, an AI system included, for callers without data](https://www.ghanamma.com/2026/09/10/viamo-launches-231-voice-platform-in-ghana-creating-a-new-national-channel-for-inclusive-communication-and-offline-ai/).
 
+Two automated systems reported. The police [set 1 October 2026 for full automated traffic enforcement](https://www.graphic.com.gh/news/general-news/police-to-enforce-automated-traffic-offences-from-october-1.html), with camera-captured offences reviewed before notices go out by SMS and fines paid through Ghana.gov within 14 days, after a pilot that issued about 120,000 caution notices. The revenue authority [put customs collections at up to US$450m a month against about US$350m before its AI valuation system](https://www.myjoyonline.com/customs-revenue-jumps-to-450m-monthly-since-ai-introduction/), its own figure and higher than the finance ministry's monthly series.
+
 ## Kenya
 
 The draft AI policy was published for comment on 21 July and comment closed on 4 August. It runs to 226 pages, asserts [effects-based jurisdiction over entities outside Kenya](https://nairobibusinessmonthly.com/kenyas-draft-ai-policy-seeks-power-over-foreign-tech-giants/) whose outputs have direct and foreseeable effects in the country, leaves "high risk" undefined and states no penalties. Its labour chapter [sets minimum standards for content moderators, data annotators and evaluators](https://itweb.africa/article/kenya-sets-standards-for-ai-workers/raYAyMorGzX7J38N), binding on international firms operating through outsourcing partners.
@@ -135,7 +137,7 @@ Misuse reached the record from the supplier's side. A model provider [disclosed 
 
 ## Liberia
 
-The country's first working legal artificial intelligence was launched on 31 July: [CJ Lewis, built by a law library over Supreme Court opinions from 1861 to 2026 plus statutes and regulations, with human-rights support on the principles in its design](https://fpa.news/liberia-launches-first-legal-learning-artificial-intelligence-cj-lewis-to-expand-public-access-to-the-law/). No accuracy or evaluation figure is given, no model or vendor is named, and the corpus is a private compilation â€” which makes public access to the law rest on a private body's curation.
+The country's first working legal artificial intelligence was launched on 31 July: [CJ Lewis, built by a law library over Supreme Court opinions from 1861 to 2026 plus statutes and regulations, with human-rights support on the principles in its design](https://fpa.news/liberia-launches-first-legal-learning-artificial-intelligence-cj-lewis-to-expand-public-access-to-the-law/). No accuracy or evaluation figure is given, no model or vendor is named, and the corpus is a private compilation — which makes public access to the law rest on a private body's curation.
 
 ## Madagascar
 
@@ -215,6 +217,8 @@ On 13 August the ICT ministry [held a two-day working session with a hyperscaler
 A national prize ceremony on 30 July presented a [Wolof and French AI tutor reachable by ordinary phone call with no internet, its curriculum validated by school inspectors and hosted on servers in Senegal](https://aps.sn/allo-goor-gi-une-ia-avec-des-contenues-pedagogiques-certifies/). No user, pricing or evaluation figure is given, and the education ministry's role is asserted by the vendor rather than confirmed by it. The same readiness assessment records an [ethics committee as planned](https://www.seneweb.com/fr/news/Technologie/intelligence-artificielle-en-afrique-le-senegal-encore-a-la-traine_n_499460.html), with no statute, membership or chair. The state's own AI build was presented abroad rather than at home: the Senegal AI Factory was [set out to an international AI-process meeting in Tokyo as the main component of the Senegal Digital Factory under the technology strategy's eighth priority programme, covering national AI capability, startups, applied research and training](https://www.pressafrik.com/New-Deal-Technologique-le-Senegal-devoile-la-Senegal-AI-Factory-devant-la-communaute-internationale-a-Tokyo_a309281.html), with no launch date, budget, compute location or partner commitment stated.
 
 What none of it runs under is a statute. A four-country comparative study presented on 10 August [found no AI-specific legislation in force or in draft in Senegal](https://grain-africa.org/en/intelligence-artificielle-en-afrique-de-louest-grain-presente-les-resultats-dune-etude-comparative-pour-une-gouvernance-plus-inclusive-et-responsable-de-lia/), leaving the strategy stack and an ethics committee that is still only planned to carry the field between them.
+
+An outside score placed the country: Oxford Insights' 2025 index [put government AI readiness at 46.10, 97th in the world and first of the eight UEMOA states](https://www.seneweb.com/fr/news/Technologie/preparation-a-lia-le-senegal-leader-dans-luemoa-mais-la-region-reste-en-deca-de-la-moyenne-mondiale_n_504306.html).
 
 ## Sierra Leone
 

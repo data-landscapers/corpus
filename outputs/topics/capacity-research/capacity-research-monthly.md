@@ -1,10 +1,10 @@
 ---
 title: Research institutions — monthly update, August – September 2026
-compiled: 2026-09-16
-period: 2026-08-01 to 2026-09-16
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 subject: capacity.research
 places: CAF; COM; COG; CIV; COD; EGY; ETH; GHA; KEN; LBY; MAR; MOZ; NER; RWA; SLE; ZAF; TZA; UGA; ZWE
-record: 1ea71f908fb0
+record: b21f8cb0d7f6
 ---
 
 # Research institutions: monthly update, August – September 2026
@@ -41,7 +41,7 @@ The month's research contribution is an outside assessment of a question the sta
 
 University connectivity is the delivery side of the research position. A funder's account [describes campus connectivity transforming learning across Ethiopian campuses](https://www.worldbank.org/en/news/feature/2026/08/24/how-better-connectivity-is-transforming-learning-across-ethiopian-campuses). It is the funder's own account, with no bandwidth, campus count or student figure in the record held.
 
-Against it the FY2026/27 federal budget [carries *Artificial Intelligence University Construction* as a single named capital project at ETB 5,000,000,000](https://www.mofed.gov.et/media/filer_public/c1/de/c1de6f52-b57e-4a94-91ff-cc22a2c751b8/2019_e_c_budget_year_goe_federal_budget_proclamation_part_two_updated.xlsx) â€” domestic money, appropriated rather than pledged, and large enough to dominate the year's digital total on its own. Nothing moved on the national artificial-intelligence policy itself, on model development, or on which foundation models the country runs.
+Against it the FY2026/27 federal budget [carries *Artificial Intelligence University Construction* as a single named capital project at ETB 5,000,000,000](https://www.mofed.gov.et/media/filer_public/c1/de/c1de6f52-b57e-4a94-91ff-cc22a2c751b8/2019_e_c_budget_year_goe_federal_budget_proclamation_part_two_updated.xlsx) — domestic money, appropriated rather than pledged, and large enough to dominate the year's digital total on its own. Nothing moved on the national artificial-intelligence policy itself, on model development, or on which foundation models the country runs.
 
 ## Ghana
 

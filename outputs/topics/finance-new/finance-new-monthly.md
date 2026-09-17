@@ -1,10 +1,10 @@
 ---
 title: New investments — monthly update, August – September 2026
-compiled: 2026-09-16
-period: 2026-08-01 to 2026-09-16
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 subject: finance.new
 places: AGO; BEN; BFA; CMR; CAF; TCD; COG; CIV; DJI; COD; EGY; SWZ; ETH; GHA; KEN; MWI; MUS; MAR; MOZ; NER; NGA; RWA; SEN; ZAF; TZA; ZMB; ZWE
-record: 5026e9785da3
+record: c6f0cdc416b8
 ---
 
 # New investments: monthly update, August – September 2026
@@ -57,7 +57,7 @@ A further figure was attached to the digitalisation programme at the prioritisat
 
 ## Djibouti
 
-The investment on offer was estimated rather than committed. A country private sector diagnostic [identified at least US$600 million of private investment and about 12,000 jobs available over five years across off-grid solar energy, data centres and tourism, with the policy actions that would unlock them](https://www.worldbank.org/en/news/press-release/2026/09/14/world-bank-group-report-identifies-significant-private-investment-potential-for-dj). Nothing in it is a transaction.
+The investment on offer was estimated rather than committed. A country private sector diagnostic [identified at least US$600 million of private investment and about 12,000 jobs available over five years across off-grid solar energy, data centres and tourism, with the policy actions that would bring them about](https://www.worldbank.org/en/news/press-release/2026/09/14/world-bank-group-report-identifies-significant-private-investment-potential-for-dj). Nothing in it is a transaction.
 
 ## DR Congo
 
@@ -125,6 +125,8 @@ The month's financing arrived as a parliamentary approval rather than a disburse
 ## Senegal
 
 A US firm [announced US$300m for Senegal's digital infrastructure](https://lesoleil.sn/actualites/economie/transformation-numerique-cybastion-annonce-un-investissement-de-300-millions-de-dollars-au-senegal/), with no instrument, project or timetable behind the figure.
+
+The commitment was presented to the president in Washington on 14 September: [Cybastion named cybersecurity, data centres, technology transfer and capacity building as its uses](https://techafricanews.com/2026/09/16/senegal-300m-cybastion-digitalisation-projects/), still without an instrument or timetable.
 
 ## South Africa
 

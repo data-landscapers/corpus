@@ -1,10 +1,10 @@
 ---
 title: Digitalisation of sub-national government — monthly update, August – September 2026
-compiled: 2026-09-16
-period: 2026-08-01 to 2026-09-16
+compiled: 2026-09-17
+period: 2026-08-01 to 2026-09-17
 subject: digital.localgov
 places: AGO; BFA; BDI; CMR; TCD; GHA; GNB; LBY; MWI; MLI; NAM; NGA; RWA; SEN; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 423406c4d6c9
+record: 675d2f640516
 ---
 
 # Digitalisation of sub-national government: monthly update, August – September 2026
@@ -42,6 +42,8 @@ A second town began digitising its own services. The Abeche town hall, the provi
 ## Ghana
 
 Local government has gone in one month from a reform strategy's integration target to a signed programme covering every assembly in the country. The Office of the Head of the Local Government Service [signed a memorandum on 3 September with a Ghanaian networks company to turn all 261 metropolitan, municipal and district assemblies into what both parties call smart assemblies, spanning waste management, public safety, education, healthcare, environmental monitoring and citizen engagement](https://kumasimail.com/ohlgs-celltel-seal-deal-to-turn-261-assemblies-in-ghana-into-smart-communities/). No contract value, financing structure or timeline is stated, which is the whole of what would make it testable. Separately a governance organisation [launched a citizen-reporting platform in South Tongu District that routes service-delivery complaints to the assembly and keeps the reporting citizen informed until resolution](https://gna.org.gh/2026/09/ghana-governance-africa-launches-digital-platform-to-deepen-participation-in-local-governance/) - a civil-society instrument in one district, not an assembly system.
+
+Assembly business is to be put on air: the local government ministry [announced live nationwide broadcasts of assembly general meetings and town halls](https://www.graphic.com.gh/news/general-news/local-government-ministry-to-roll-out-live-broadcasts-of-assembly-meetings-nationwide.html) with the civic education commission and the state broadcaster, with no start date.
 
 ## Guinea-Bissau
 
