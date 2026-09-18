@@ -1,0 +1,75 @@
+{
+ "schema": 2,
+ "written_utc": "2026-09-18 21:37",
+ "pass": "sweep cycle",
+ "head": "9ed766d71f5564e1757c056048fad0c4fa9dfbb5",
+ "head_committed_utc": "2026-09-18 21:37",
+ "collection": {
+  "last_admission": "2026-09-18 20:30",
+  "sweep_closed": "2026-09-18 19:24",
+  "ingest_started": "2026-09-18 19:30"
+ },
+ "rotation": {
+  "days": 3,
+  "newest_close": {
+   "day": "2",
+   "jobs": [
+    "SWEEP-FINANCIERS",
+    "SWEEP-IATI",
+    "SWEEP-COUNTRY-DEEP"
+   ],
+   "start": "2026-09-18 18:38",
+   "end": "2026-09-18 21:36",
+   "duration": "2:58",
+   "skipped": false,
+   "in_progress": false
+  },
+  "in_progress": []
+ },
+ "counts": {
+  "items_in": 486,
+  "admitted": 283,
+  "dropped": 197,
+  "screened": 1704,
+  "screen_dropped": 1219,
+  "awaiting_ingest": 0,
+  "raw_sources": 22632
+ },
+ "usage": {
+  "start": {
+   "time_utc": "2026-09-18 18:38",
+   "seven_day": 83.0,
+   "five_hour": 0.0
+  },
+  "notes": {
+   "time_utc": "2026-09-18 18:38",
+   "seven_day": 83.0,
+   "five_hour": 0.0
+  },
+  "sweep": {
+   "time_utc": "2026-09-18 19:24",
+   "seven_day": 87.0,
+   "five_hour": 15.0
+  },
+  "ingest": {
+   "time_utc": "2026-09-18 20:31",
+   "seven_day": 94.0,
+   "five_hour": 47.0
+  },
+  "lint": {
+   "time_utc": "2026-09-18 21:35",
+   "seven_day": 99.0,
+   "five_hour": 68.0
+  },
+  "close": {
+   "time_utc": "2026-09-18 21:37",
+   "seven_day": 99.0,
+   "five_hour": 68.0
+  },
+  "end": {
+   "time_utc": "2026-09-18 21:37",
+   "seven_day": 99.0,
+   "five_hour": 68.0
+  }
+ }
+}

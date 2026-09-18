@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-09-18 23:41 · **BUILD** · 38m · catalogue 22632, finance 62 places, scan 55 units, 47 ledgers updated, 71 bulletin summaries; scope 412 in remit, 3 XGL unverified, 0 unaccounted; register 45 standing hits — ok
 2026-09-18 19:29 · **HERO** · unclocked · Batch 09, the last (review 4 R30) to X:\prepared\hero-09.jsonl; 6 corrected. R30 done; 81 short-title records held for OSINT's rule candidate - ok
 2026-09-18 19:14 · **HERO** · unclocked · Batch 08 (review 4 R30) to X:\prepared\hero-08.jsonl, check clean; 17 corrected before delivery. About 500 left - ok
 2026-09-18 18:57 · **HERO** · unclocked · Batch 07 (review 4 R30) to X:\prepared\hero-07.jsonl, check clean; 33 corrected, mostly unsupported only/most/first - ok
