@@ -32,6 +32,7 @@ import os
 import random
 import re
 import sys
+import unicodedata
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import status_lib  # noqa: E402
@@ -161,13 +162,52 @@ def check(a) -> int:
                 print(f"line {i} {slug}: {'; '.join(why)}\n    {hero}")
             elif slug in recs and unsourced(hero, slug, recs[slug]):
                 verify.append(f"line {i} {slug}: {unsourced(hero, slug, recs[slug])}\n    {hero}")
+    crossed = neighbours(a.file, recs)
+    if crossed:
+        print(f"\n{len(crossed)} hero(es) share more with a neighbouring record than with their "
+              "own. Most are an English hero on a French or Arabic record, but this is how a "
+              "swapped pair in batch 03 was found. Read each against its own record:")
+        print("\n".join(crossed))
     if verify:
         print(f"\n{len(verify)} hero(es) carry a figure whose digits are not in the source text. "
               "Most are translations ('21 mil') or roundings, but not all: batch 01 had 13 "
               "of 48 invented, computed or over-precise. Read every one:")
         print("\n".join(verify))
-    print(f"hero-batch check: {n} line(s), {bad} with problems, {len(verify)} figure(s) to verify")
+    print(f"hero-batch check: {n} line(s), {bad} with problems, {len(verify)} figure(s) and "
+          f"{len(crossed)} possible crossing(s) to verify")
     return 1 if bad else 0
+
+
+COMMON = {"with", "from", "that", "this", "their", "have", "been", "will", "into", "over",
+          "under", "about", "across", "after", "africa", "african", "digital", "national",
+          "government"}
+
+
+def _toks(text: str) -> set:
+    t = unicodedata.normalize("NFKD", text).encode("ascii", "ignore").decode().lower()
+    return set(re.findall(r"[a-z]{4,}|\d[\d.,]*\d", t)) - COMMON
+
+
+def neighbours(path: str, recs: dict) -> list:
+    """Heroes that match a record up to two lines away better than their own: the trace a
+    writer leaves when it files one record's hero on the next (batch 03, lines 1687-1688)."""
+    with open(path, encoding="utf-8") as fh:
+        rows = [json.loads(l) for l in fh if l.strip()]
+
+    def src(slug):
+        fm, body = recs.get(slug, ({}, ""))
+        return _toks(f"{fm.get('title') or ''} {fm.get('note') or body[:BODY_CHARS]} "
+                     f"{slug.replace('-', ' ')}")
+    texts = [src(r["slug"]) for r in rows]
+    out = []
+    for i, r in enumerate(rows):
+        h = _toks(r["hero"])
+        own = len(h & texts[i])
+        for j in (i - 2, i - 1, i + 1, i + 2):
+            if 0 <= j < len(rows) and own <= 2 and len(h & texts[j]) >= own + 3:
+                out.append(f"line {i + 1} {r['slug']}: matches line {j + 1}\n    {r['hero']}")
+                break
+    return out
 
 
 def unsourced(hero: str, slug: str, rec) -> str:
