@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-09-18 14:03 · **STATUS-ACQUIRE** · unclocked · STP staged (review 4 R23): 20 of 28 rows in X:\new-queue\status-acquire-STP with READY, lint clean; 8 in the drop list, 3 of them unfetchable with Wayback unchecked (429). scripts/status-stage.py runs R26 - ok
 2026-09-18 12:25 · **RENDER** · 13m · 251 documents, 425 pages, catalogue 22,326, finance 1,455 deals; editions to R2; deployed — ok
 2026-09-18 12:11 · **REVIEW** · 5m · BWA: status 2 sub-sections revised, progress 4 cells mapped, monthly 3 blocks, finance 1 duplicate row merged; 0 notes for OSINT, 1 message for Bill — ok
 2026-09-18 12:05 · **REVIEW** · 18m · BFA: status 3 sub-sections revised, progress 4 cells mapped, monthly 9 blocks, finance 0 rows; 0 notes for OSINT; frontmatter escape decode fixed estate-wide — ok
