@@ -1,11 +1,11 @@
 ---
 title: Comoros — monthly update, August – September 2026
-compiled: 2026-09-16
-period: 2026-08-01 to 2026-09-16
+compiled: 2026-09-18
+period: 2026-08-01 to 2026-09-18
 place: COM
-ledger_rows: 27
+ledger_rows: 29
 not_held: 24
-record: 359d4490ccb1
+record: be3153a6f4e0
 ---
 
 # Comoros: monthly update, August – September 2026
@@ -50,6 +50,11 @@ The connectivity project the agency carries reached the stage before financing. 
 
 <!-- narrative: ict-infrastructure--infra-energy -->
 The thermal plant on Mwali was [down to 1,000 litres of diesel a day against a stated requirement of 7,000, with a total blackout feared](https://alwatwan.net/societe/p%C3%A9nurie-de-carburant-%C3%A0-mwali-i-l%E2%80%99%C3%A9lectricit%C3%A9-de-nouveau-rationn%C3%A9e.html) on 4 August. The island has no fuel depot sized to its needs and depends on maritime resupply, and the account records repeated earlier ruptures in the same year. It is the first measured figure for fuel supply to any island's generation in the repository.
+<!-- /narrative -->
+### Cybersecurity
+
+<!-- narrative: ict-infrastructure--infra-cybersec -->
+Cybersecurity cooperation moved outside the usual partners. A Russian embassy delegation visiting from 8 to 12 September [took up with the telecommunications and digital economy minister a memorandum on information security the two governments had already initialled, covering professional training, skills-building and the fight against cybercrime](https://alwatwan.net/politique/comores-russie-i-une-coop%C3%A9ration-bilat%C3%A9rale-appel%C3%A9e-%C3%A0-%C2%ABfranchir-un-nouveau-cap%C2%BB.html), with the Comorian side proposing a further document on training Comorian trainers. No signature date, text or funding is published, and the same visit prepared the opening of a Russian embassy in Moroni.
 <!-- /narrative -->
 
 ## DPI

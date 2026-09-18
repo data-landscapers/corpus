@@ -1,11 +1,11 @@
 ---
 title: Mozambique — monthly update, August – September 2026
-compiled: 2026-09-17
-period: 2026-08-01 to 2026-09-17
+compiled: 2026-09-18
+period: 2026-08-01 to 2026-09-18
 place: MOZ
-ledger_rows: 74
+ledger_rows: 76
 not_held: 19
-record: cd438a81d8da
+record: b0ee8651fd77
 ---
 
 # Mozambique: monthly update, August – September 2026

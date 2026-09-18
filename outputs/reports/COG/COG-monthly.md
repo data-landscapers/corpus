@@ -1,11 +1,11 @@
 ---
 title: Congo — monthly update, August – September 2026
-compiled: 2026-09-17
-period: 2026-08-01 to 2026-09-17
+compiled: 2026-09-18
+period: 2026-08-01 to 2026-09-18
 place: COG
-ledger_rows: 30
+ledger_rows: 31
 not_held: 6
-record: 722a59f11b22
+record: 6b11aa69da6d
 ---
 
 # Congo: monthly update, August – September 2026
@@ -50,6 +50,11 @@ A number was put on the sector's future. Consultancy forecasts reported by the s
 
 ## ICT Infrastructure
 
+### Connectivity
+
+<!-- narrative: ict-infrastructure--infra-connect -->
+The universal access and service fund put a cumulative figure on the record for the first time: [more than 380,000 people in formerly isolated areas now have communication infrastructure, and more than 250 localities are better linked to urban centres and essential services](https://labreveonline.com/le-congo-et-lafrique-centrale-sorganisent-pour-mieux-rsister-aux-catastrophes/). The figure was given at a regional workshop on emergency telecommunications, where the country's own plan is still to be written; it covers the fund's whole life rather than the period, and the fund has published no annual series against which to read it.
+<!-- /narrative -->
 ### Data Storage
 
 <!-- narrative: ict-infrastructure--infra-store -->

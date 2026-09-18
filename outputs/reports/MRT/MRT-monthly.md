@@ -1,11 +1,11 @@
 ---
 title: Mauritania — monthly update, August – September 2026
-compiled: 2026-09-17
-period: 2026-08-01 to 2026-09-17
+compiled: 2026-09-18
+period: 2026-08-01 to 2026-09-18
 place: MRT
-ledger_rows: 24
+ledger_rows: 25
 not_held: 3
-record: 3ebcda37e28d
+record: 98713337929d
 ---
 
 # Mauritania: monthly update, August – September 2026
@@ -60,6 +60,11 @@ An outside measure is the only dated position this month. The Internet Society [
 
 ## DPI
 
+### Data Exchange
+
+<!-- narrative: dpi--dpi-exchange -->
+One sector shows what the exchange is for. The housing minister said that [qualification and classification of construction firms now runs exclusively through a government platform linked electronically to the tax administration, the transport administration, the procurement commission, the social security fund and the registry administration](https://www.ami.mr/archives/268331), the purpose being to cut human intervention and fraud. A draft decree would replace the 2022 text, requiring accreditation for delegated project managers and inspection offices and cutting the commission from 22 members to 15; it is not adopted, and no file volume or turnaround figure is published.
+<!-- /narrative -->
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->

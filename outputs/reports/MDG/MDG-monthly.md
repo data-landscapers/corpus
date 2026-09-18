@@ -1,11 +1,11 @@
 ---
 title: Madagascar — monthly update, August – September 2026
-compiled: 2026-09-17
-period: 2026-08-01 to 2026-09-17
+compiled: 2026-09-18
+period: 2026-08-01 to 2026-09-18
 place: MDG
-ledger_rows: 34
+ledger_rows: 35
 not_held: 5
-record: 9ef3aa9fb0ac
+record: e7d5979563ec
 ---
 
 # Madagascar: monthly update, August – September 2026
@@ -58,6 +58,11 @@ Power went the wrong way in the last week of August. A defective circuit breaker
 
 <!-- narrative: dpi--dpi-exchange -->
 The health platform took a step the interoperability layer above it has not yet matched. The World Health Organization's quarterly bulletin, published in August, [records a June workshop launching the DHIS2 Tracker pilot for individual vaccination records across 20 public health centres and 54 private vaccination sites in one district of the capital](https://www.afro.who.int/sites/default/files/2026-08/Revue%20trimestrielle%20Version%20avril%20juin%202026%20OMS%20Madagascar.pdf), ahead of a planned national scale-up. Individual-record tracking is what makes a health system's data joinable to an identity system; the national exchange platform launched in April, and no integration between the two is recorded.
+<!-- /narrative -->
+### Digital Identity and CRVS
+
+<!-- narrative: dpi--dpi-id -->
+The identity programme marked its own day and started its next phase. [Phase II of the enrolment operation, Izaho Tokana 2.0, was launched on the second day of the 2026 National Identity Day, under the World Bank's DECIM project](https://midi-madagasikara.mg/etat-civil-loif-aux-cotes-de-madagascar-pour-la-journee-nationale-de-lidentite/), the day itself institutionalised by decree 2024-067 and supported this year by a high-level conference of more than 150 people preparing the 2027-2036 civil-registration decade. No target or coverage figure is given for the phase, so what it adds to the six million enrolments already reported is not established.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 

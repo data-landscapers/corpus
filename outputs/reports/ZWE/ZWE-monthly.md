@@ -1,11 +1,11 @@
 ---
 title: Zimbabwe — monthly update, August – September 2026
-compiled: 2026-09-16
-period: 2026-08-01 to 2026-09-16
+compiled: 2026-09-18
+period: 2026-08-01 to 2026-09-18
 place: ZWE
-ledger_rows: 59
+ledger_rows: 60
 not_held: 7
-record: 655b5fc02806
+record: f06a4a6a05fc
 ---
 
 # Zimbabwe: monthly update, August – September 2026
