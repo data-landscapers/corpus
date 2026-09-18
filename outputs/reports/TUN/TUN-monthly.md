@@ -1,11 +1,11 @@
 ---
 title: Tunisia — monthly update, August – September 2026
-compiled: 2026-09-17
-period: 2026-08-01 to 2026-09-17
+compiled: 2026-09-18
+period: 2026-08-01 to 2026-09-18
 place: TUN
-ledger_rows: 57
+ledger_rows: 58
 not_held: 5
-record: 206078be1aab
+record: 3b52d7cf6f3a
 ---
 
 # Tunisia: monthly update, August – September 2026
@@ -179,6 +179,11 @@ The month's inclusion movement was a marketplace rather than an access measure. 
 
 ## Data
 
+### National statistics
+
+<!-- narrative: data--data-statistics -->
+The National Statistics Council [reviewed the statistics institute's development strategy and its 2027 work programme at its second ordinary plenary of the year](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/154190-%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%84%D9%84%D8%A5%D8%AD%D8%B5%D8%A7%D8%A1-%D9%8A%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%84%D9%84%D8%A5%D8%AD%D8%B5%D8%A7%D8%A1-%D9%88%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%B9%D9%85%D9%84%D9%87-%D9%84%D8%B3%D9%86%D8%A9-2027) on 16 September, alongside its own annual statistical programme and the progress of the general agricultural census. Neither the strategy nor the work programme is published with the communique, which is the same pattern the statistics code and the SNDS 2026-2030 have followed: named on the record without being available on it.
+<!-- /narrative -->
 ### Open data
 
 <!-- narrative: data--data-open -->
