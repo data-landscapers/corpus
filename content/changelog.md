@@ -1,3 +1,8 @@
+## 18 September 2026
+
+- The figures for Tanzania's national identity programme have been corrected: the number of identity numbers issued was being reported as roughly two million when the correct figure is over twenty-three million, and the registration total was out by a digit. The mistake came from a transcription error in one of the sources and had spread to several pages.
+- The account of Kenya's sale of its stake in Safaricom now separates four amounts that had been reported as though they were the same one: the price paid for the shares, a separate advance on future dividends, the two added together, and the total held by the state investment fund the money went into. Readers comparing figures between pages should find them consistent now.
+
 ## 17 September 2026
 
 - Financing amounts below one million dollars now appear at their real size in the downloadable tables, where 40 of them had been showing as zero. If you took a small grant or equity figure from a financing table before this date, check it again.
