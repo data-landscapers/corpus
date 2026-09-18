@@ -1,11 +1,11 @@
 ---
 title: Southern Africa — monthly update, August – September 2026
-compiled: 2026-09-17
-period: 2026-08-01 to 2026-09-17
+compiled: 2026-09-18
+period: 2026-08-01 to 2026-09-18
 place: XSA
-ledger_rows: 19
+ledger_rows: 20
 not_held: 2
-record: 7cc402e96c77
+record: f047e0c3a9f5
 ---
 
 # Southern Africa: monthly update, August – September 2026
@@ -78,6 +78,11 @@ An [eight-month accelerator supporting twelve teams across Southern Africa build
 
 ## Capacity and inclusion
 
+### Training and skills
+
+<!-- narrative: capacity--capacity-training -->
+Regulatory capacity building acquired a university partner. The regional regulators' association and the LINK Centre at the University of the Witwatersrand [signed a memorandum on capacity building, applied research and policy development across the region, covering professional development programmes, short courses, masterclasses, policy dialogues and research in the ICT, postal, audio-visual, digital media and digitally enabled sectors](https://www.wits.ac.za/news/latest-news/research-news/2026/2026-09/crasa-and-link-centre-sign-mou-.html), and the identification of regulatory and skills gaps for member regulators. Activities are expressly subject to institutional processes, funding and separate project agreements, so the agreement establishes an intention and not a programme.
+<!-- /narrative -->
 ### Research institutions
 
 <!-- narrative: capacity--capacity-research -->
