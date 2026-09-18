@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-18
 place: UGA
 ledger_rows: 105
 not_held: 12
-record: 9e56153a4f43
+record: e05ca1cba448
 ---
 
 # Uganda: monthly update, August – September 2026
@@ -164,7 +164,7 @@ The parish programme's system was audited short of its design. The Auditor-Gener
 
 The tax stamps system published its scale: [more than 1,680 manufacturers and importers registered across 13 excisable products](https://nilepost.co.ug/business/370814/ura-lauds-manufacturers-on-dts-success), run for the revenue authority by SICPA since 2018.
 
-The parish model's reach was restated. An inter-ministerial meeting [put it at 3,571,108 beneficiaries against UGX 4.317 trillion capitalised through 10,589 parish SACCOs, lending up to UGX 1 million at 6 per cent a year](https://www.thekampalareport.com/latest/2026091868307/ugandas-parish-development-model-reaches-3-5-million-beneficiaries-with-1-1-billion-government-investment.html). The count is the government's own, and sits beside the audit findings above on the system that records it.
+The parish model's reach was restated. An inter-ministerial meeting [put it at 3,571,108 beneficiaries against UGX 4.317 trillion capitalised through 10,589 parish SACCOs, lending up to UGX 1 million at 6 per cent a year](https://www.thekampalareport.com/latest/2026091868307/ugandas-parish-development-model-reaches-3-5-million-beneficiaries-with-1-1-billion-government-investment.html). The count is the government's own.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
