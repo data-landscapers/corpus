@@ -122,6 +122,11 @@ def problems(hero: str, title: str) -> list:
     # hero that opens on its title bounces there even when the rest of it adds something.
     if title and (norm(hero) in norm(title) or norm(title) in norm(hero)):
         out.append("restates the title")
+    # lint #34's soft test: a hero opening on the title's first four words spends its first
+    # clause on what the reader has just read (notes-for-corpus 32).
+    head = norm(title).split()[:4]
+    if len(head) == 4 and norm(hero).split()[:4] == head:
+        out.append("opens on the title")
     return out
 
 
