@@ -3,9 +3,9 @@ title: Ghana — monthly update, August – September 2026
 compiled: 2026-09-18
 period: 2026-08-01 to 2026-09-18
 place: GHA
-ledger_rows: 133
+ledger_rows: 136
 not_held: 9
-record: ba86c0ed2354
+record: ecdfe089a7de
 ---
 
 # Ghana: monthly update, August – September 2026
@@ -146,6 +146,8 @@ The first paid round-the-clock identity centre opened on 1 August with all servi
 The central bank republished its standing directive on 2 September: under regulation 7 of the 2012 national identity register regulations, [the card has been the only identification accepted for transactions at every institution the bank licenses and regulates since 1 July 2022](https://www.bog.gov.gh/news/use-of-ghana-card-for-all-financial-transactions/). The repository had carried that requirement only from a January 2026 guidance note. Dated four years earlier, it makes the photocopy ban an enforcement step against a rule already long in force rather than a new obligation.
 
 The SIM half of the identity regime moved for the first time in nine months. The minister said on 7 September that [Parliament has passed the legislative instrument governing SIM registration and the biometric verification phase will be introduced before the end of 2026](https://asaaseradio.com/the-resolve-of-this-ministry-is-unshaken-sam-george-on-biometric-sim-verification/), the same account putting completion of the 2021-2023 exercise it replaces at 44.28% of subscribers. What has moved is the authority to act: no start date, enrolment route or subscriber deadline is published and the instrument itself is not held.
+
+The identification authority's head [said the Ghana Card will become an electronic wallet secured by biometrics and PIN, introduced in phases, linked to bank accounts and loadable through authorised vendors](https://www.modernghana.com/news/1528541/ghana-card-to-become-e-wallet-for-electronic-trans.html). No date or central-bank approval is stated.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -180,6 +182,8 @@ The household registry published its national total: [11.24 million people in 2,
 One sectoral system was assessed rather than built. A Danish-funded gap assessment of the meteorological agency [reported gaps across its ICT infrastructure, digital systems, data governance and cybersecurity framework](https://techafricanews.com/2026/08/20/dmi-assessment-highlights-ict-cybersecurity-and-data-gaps-at-ghanas-gmet/), presented to the communications ministry in Accra under a bilateral weather and climate cooperation. Neither the assessment text nor any cost, timetable or funding line for the roadmap it recommends is published, so what the month holds is a diagnosis and no commitment to act on it.
 
 The health insurer [described electronic claims, biometric member verification and one-time attendance codes as in operation, with active membership at 70% in August 2026 against an 80% year-end target](https://theoverseeronline.com/victor-bampoe-2-3/), its own account with no claims or rejection figures.
+
+The education ministry [said more than 6,000 of 8,000 complaints against this year's computerised school placements had been resolved](https://onuaonline.com/cssps-over-6000-of-8000-complaints-resolved-sept-18-reopening-date-unchanged/), with reopening left at 18 September.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -191,6 +195,8 @@ The paper record gained a contract. The ministry said on 7 September that a cont
 The revenue side gained a plan on 12 August. A [Korean-backed Tax Modernisation Master Plan covering income tax, value-added tax, tax administration and electronic tax administration was set out](https://www.graphic.com.gh/business/business-news/ghana-korea-unveil-master-plan-for-tax-modernisation.html), with artificial intelligence already in service on customs valuation. No cost, timetable or implementation schedule accompanies it, which puts it a stage behind the customs system it is presented alongside.
 
 Two systems moved in opposite directions in the same week. The online passport application service [went down on 25 August, the foreign ministry confirming a technical fault the same day and naming no cause and no restoration date](https://www.graphic.com.gh/news/general-news/ghana-passport-online-portal-down-over-technical-problem.html). The accountant-general's department, meanwhile, [will suspend from 15 September the salaries of government employees whose national identity details are missing from or do not match the payroll system, ahead of a nationwide re-verification exercise](https://www.myjoyonline.com/government-workers-without-valid-nia-details-risk-salary-suspension-from-september-15/), the directive prompted by discrepancies surfaced when the upgraded payslip system left some employees unable to open their payslips.
+
+The Rent Control Department's acting commissioner [called for an investigation into a digitisation programme on which US$1.7m was reportedly spent, having found four computers at the facility](https://www.adomonline.com/heads-must-roll-there-is-nothing-to-show-for-npps-1-7m-digitisation-rent-control-boss/). No audit finding is held.
 <!-- /narrative -->
 
 ## Digitalisation

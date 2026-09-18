@@ -3,9 +3,9 @@ title: Guinea — monthly update, August – September 2026
 compiled: 2026-09-18
 period: 2026-08-01 to 2026-09-18
 place: GIN
-ledger_rows: 37
+ledger_rows: 41
 not_held: 5
-record: b6fa95f22d8b
+record: db9b7be71c9d
 ---
 
 # Guinea: monthly update, August – September 2026
@@ -52,6 +52,8 @@ The committee meant to make the state's own financial data consistent [sat again
 
 <!-- narrative: governance--gov-discourse -->
 Neither the regulator ARPT, the operators nor the internet service providers issued an explanation for the social-media restriction, and the silence then had to cover more than a restriction: [a total two-hour national outage on 7 August, across mobile and fibre alike, was traced to the state landing-station operator, whose officials and the regulator both declined to explain it](https://lelynx.net/2026/08/internet-coupe-en-guinee-black-aout-total/). The precedent is on the record rather than inferred: under the post-coup transition a government spokesman owned a three-month digital cut and said that in Guinea the internet is not a right.
+
+The communication authority [banned France 24 with immediate effect on 17 September on every vector, satellite, cable, mobile applications, websites and social networks, withdrew its correspondents' accreditation and requisitioned the telecommunications regulator to enforce the ban](https://www.africaguinee.com/la-chaine-france-24-interdite-de-diffusion-en-guinee-larpt-et-canal-requisitionnes-par-la-hac/), citing an offence to the President.
 <!-- /narrative -->
 
 ## ICT Infrastructure
@@ -68,6 +70,8 @@ The restriction [disrupted business operations and online services](https://wadr
 <!-- narrative: ict-infrastructure--infra-store -->
 
 The national data centre was found idle a year after its opening. The prime minister [visited on 9 September and said the nearly US$10m facility, inaugurated in September 2025, is about 90% complete with one payment stuck and still not fully operational, calling the delay unacceptable](https://www.visionguinee.info/bah-oury-nous-avons-besoin-de-rattraper-notre-retard-et-de-renforcer-notre-souverainete-numerique/).
+
+The national data centre at Koloma is nearly built and not yet working. On a site visit the prime minister [ordered its commissioning accelerated, the project standing at about 90 per cent executed on close to US$10m and still not fully operational](https://sahelmatin.com/guinee-amadou-oury-bah-exige-lacceleration-de-la-mise-en-service-du-data-center-national/). No commissioning date was set.
 <!-- /narrative -->
 
 ## DPI
@@ -100,6 +104,8 @@ The strategy that would order all of this is not yet written. The central bank [
 The [terms of reference for the RETSSM movable-collateral registry, opened 27 July under IDA Credit No. 74440GN](https://letravail224.com/wp-content/uploads/2026/07/AMI-IT-WARDIP-3_Copier.pdf), set the objective as guaranteeing the availability, security, reliability and adoption of an operational registry — with the first work package finalising the institutional, legal and regulatory provisions it needs to function at all.
 
 The register that already works stopped working for the most basic reason there is. A civil-registration officer in Ratoma said on 7 August that the [secured paper the digital birth certificate is printed on had run out, leaving communes across Conakry and beyond unable to issue extracts for about a month](https://www.guinee360.com/07/08/2026/sans-papiers-securises-il-ne-peut-pas-y-avoir-dextraits-amadou-konia-camara-explique-lorigine-de-la-penurie/); his own commune processes all applicants regardless of home commune and holds reserve stock for urgent cases such as exam-result travel and medical need. No ministry statement, restocking date or national count of affected communes is held, and the absence is now recorded as a gap. Officials marking African civil-registration day three days later [named information gaps and material shortages as the remaining barriers to civil-status access](https://www.guinee360.com/10/08/2026/guinee-manque-dinformations-contraintes-materielles-les-freins-a-lacces-a-letat-civil/), the identification office's director general calling for tighter integration between health, civil-registration and statistical systems.
+
+The agriculture ministry [is preparing to hand over the first digital farmer cards, with a portal built by an insurance-technology firm to map holdings into a first national farmer database](https://guineejet.info/carte-numerique-dagriculteur-le-ministere-de-lagriculture-prepare-le-deploiement/). No enrolment target or date is stated.
 <!-- /narrative -->
 ### Sectoral management information systems
 
@@ -142,6 +148,12 @@ The statistics institute [agreed on 10 September to assess which fourth-census d
 
 ## Data
 
+### National statistics
+
+<!-- narrative: data--data-statistics -->
+
+The planning minister [launched the country's first general census of enterprises on 16 September, with two months of field collection in the Kindia pilot region](https://agpguinee.com/kindia-ins-le-rge-1-officiellement-lance-pour-cartographier-le-tissu-economique-guineen/). No national schedule, method or budget has been published.
+<!-- /narrative -->
 ### Open data
 
 <!-- narrative: data--data-open -->
