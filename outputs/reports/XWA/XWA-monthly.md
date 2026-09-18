@@ -1,11 +1,11 @@
 ---
 title: West Africa — monthly update, August – September 2026
-compiled: 2026-09-17
-period: 2026-08-01 to 2026-09-17
+compiled: 2026-09-18
+period: 2026-08-01 to 2026-09-18
 place: XWA
-ledger_rows: 33
+ledger_rows: 36
 not_held: 1
-record: dd9a57b03054
+record: 989886b03eff
 ---
 
 # West Africa: monthly update, August – September 2026
@@ -78,6 +78,11 @@ Nigerian and Burkinabe officials, meeting at a ministerial visit to Ouagadougou 
 The Commission named an Information Sharing and Analysis Centre as established under its [Joint Platform for Advancing Cybersecurity](https://www.ecowas.int/ecowas-advances-regional-cybersecurity-cooperation-through-sim3-auditor-capacity-building-programme/) — funded by Germany's Federal Foreign Office and implemented by GIZ — as the region's threat-intelligence sharing platform; no founding instrument, membership, feed or published output is held.
 
 Separately, an eight-month international police operation targeting West African organised-crime groups [concluded with 58 arrests](https://www.interpol.int/News-and-Events/News/2026/58-arrests-in-global-effort-to-dismantle-West-African-organized-crime-groups). The account is regional and does not break the arrests down by member state.
+<!-- /narrative -->
+### Digital Identity and CRVS
+
+<!-- narrative: systems--dpi-id -->
+The regional biometric card is now deployed by seven member states — Senegal, Guinea-Bissau, Ghana, Benin, The Gambia, Sierra Leone and Nigeria — and officials set out at a media workshop in Lagos how it is meant to work: [the chip card's stored identity data carries the issuing authority's digital signature, so any alteration breaks the trust chain at border authentication, and it is intended to replace the handwritten regional travel certificate](https://allafrica.com/stories/202609170091.html), with member states committed since April to work towards mutual acceptance at air, land and sea borders by December. In Nigeria the card [is renewable every five years, costs N35,500 and is applied for online with a single physical visit for biometric capture](https://tribuneonlineng.com/ecowas-steps-up-citizen-biometric-identity-push-for-seamless-cross-border-travel/). Deployment is counted in states that issue; no figure for cards in circulation, or for acceptance at a border, is published by anyone.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
