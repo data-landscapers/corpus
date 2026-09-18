@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-18
 place: LSO
 ledger_rows: 33
 not_held: 4
-record: 605ec8d2e981
+record: 97a696c2dad9
 ---
 
 # Lesotho: monthly update, August – September 2026
@@ -102,7 +102,7 @@ The national commission [advertised a consultancy to strengthen its capacity to 
 <!-- narrative: dpi--dpi-govtech -->
 At the launch of the national response team the ministry [also stated a plan to move ICT services out of the civil service into a separate agency](https://www.gov.ls/ict/ministry-of-information-communications-science-technology-and-innovation-launched-lescomcsirt-and-inaugural-national-cybersecurity-forum/). No enabling instrument, budget, staffing or date accompanies it, so the plan is on record and the agency is not.
 
-The data blueprint opened in July reached validation in September. A national workshop in Maseru with Smart Africa and GIZ [validated the draft Data Value Creation Blueprint, the first country to do so, reviewing its vision, pillars, use cases and an ecosystem diagnostic that calls the country's data landscape emerging but fragmented](https://lestimes.com/?p=91596). Validation is not adoption, and the text is not published.
+The data blueprint opened in July reached validation in September. A national workshop in Maseru with Smart Africa and GIZ [validated the draft Data Value Creation Blueprint, the first country to do so, reviewing its vision, pillars, use cases and a diagnostic that calls the country's data landscape emerging but fragmented](https://lestimes.com/?p=91596). Validation is not adoption, and the text is not published.
 <!-- /narrative -->
 
 ## Digitalisation
