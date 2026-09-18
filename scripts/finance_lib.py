@@ -22,6 +22,7 @@ per-country scripts draw on — the FX and financier-name loaders came out of
 `build-finance-page.py`, which now imports them rather than defining them.
 """
 import csv
+import json
 import os
 import re
 
@@ -68,8 +69,23 @@ def split_front(text):
 
 def fm_get(fm, key, default=""):
     # [ \t]* not \s* — \s eats the newline and spills a blank field onto the next line
-    m = re.search(r'^%s:[ \t]*"?([^\n]*?)"?[ \t]*$' % re.escape(key), fm, re.M)
-    return m.group(1).strip() if m else default
+    m = re.search(r'^%s:[ \t]*([^\n]*?)[ \t]*$' % re.escape(key), fm, re.M)
+    if not m:
+        return default
+    raw = m.group(1).strip()
+    # A **double**-quoted YAML scalar carries escapes; a single-quoted one does not.
+    # Stripping the quotes without decoding put a literal \\u2014 into the published finance
+    # tables (BFA unit review, 2026-09-18). `vault_lib._unquote` carries the same rule and
+    # the same reasoning; a string JSON refuses is left as it was.
+    if len(raw) >= 2 and raw[0] == raw[-1] and raw[0] in "\"'":
+        inner = raw[1:-1]
+        if raw[0] == '"' and "\\" in inner:
+            try:
+                return json.loads(raw)
+            except ValueError:
+                return inner
+        return inner
+    return raw
 
 
 def section(body, name):

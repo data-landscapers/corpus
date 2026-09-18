@@ -78,6 +78,18 @@ def stamped(minutes_ago: int) -> str:
     return (dt.datetime.now() - dt.timedelta(minutes=minutes_ago)).strftime(ll.STAMP_FMT)
 
 
+def day(days_ago: int, hhmm: str) -> str:
+    """A stamp `days_ago` days back, at `hhmm`.
+
+    A fixed date rots: the writer prunes entries more than 31 days behind the newest
+    line in the file, so a fixture dated in a past month starts vanishing the moment
+    the calendar passes it. These cases used 2026-08-17 and began failing on
+    2026-09-18, thirty-two days later, with a StopIteration on a line that had been
+    pruned as it was written.
+    """
+    return (dt.date.today() - dt.timedelta(days=days_ago)).isoformat() + " " + hhmm
+
+
 print("format_took — a duration a reader takes in at a glance")
 check("under a minute", ll.format_took(dt.timedelta(seconds=30)), "<1m")
 check("minutes only", ll.format_took(dt.timedelta(minutes=47)), "47m")
@@ -123,13 +135,13 @@ with tempfile.TemporaryDirectory() as td:
     print("--took and --since state it by hand")
     _, _, lines = run(tmp, ["build", "x — ok", "--took", "4h15m"])
     check("--took is used verbatim", lines[0].split(" · ")[2], "4h15m")
-    _, _, lines = run(tmp, ["build", "x — ok", "--since", "2026-08-17 06:00",
-                            "--at", "2026-08-17 09:30"])
+    _, _, lines = run(tmp, ["build", "x — ok", "--since", day(2, "06:00"),
+                            "--at", day(2, "09:30")])
     check("--since is measured against --at",
-          entry(lines, "2026-08-17 09:30").split(" · ")[2], "3h30m")
+          entry(lines, day(2, "09:30")).split(" · ")[2], "3h30m")
     rc, out, _ = run(tmp, ["build", "x — ok", "--took", "ages"])
     check("an unparseable --took refuses the write", rc, 1)
-    rc, out, _ = run(tmp, ["build", "x — ok", "--took", "1h", "--since", "2026-08-17 06:00"])
+    rc, out, _ = run(tmp, ["build", "x — ok", "--took", "1h", "--since", day(2, "06:00")])
     check("--took and --since together are refused", rc, 1)
 
     print("explicit beats a stamp that may belong to an abandoned run")
@@ -139,10 +151,10 @@ with tempfile.TemporaryDirectory() as td:
     check("and leaves the stamp alone", Path(ll.stamp_path("build")).exists(), True)
 
     print("a clock that runs backwards is reported as unclocked, not as a negative")
-    _, out, lines = run(tmp, ["build", "x — ok", "--since", "2026-08-17 12:00",
-                              "--at", "2026-08-17 09:00"])
+    _, out, lines = run(tmp, ["build", "x — ok", "--since", day(2, "12:00"),
+                              "--at", day(2, "09:00")])
     check("field reads unclocked",
-          entry(lines, "2026-08-17 09:00").split(" · ")[2], ll.UNCLOCKED)
+          entry(lines, day(2, "09:00")).split(" · ")[2], ll.UNCLOCKED)
     check("and the run is told why", "is after this line's own time" in out, True)
 
     print("an unreadable stamp is cleared rather than left to poison every later run")

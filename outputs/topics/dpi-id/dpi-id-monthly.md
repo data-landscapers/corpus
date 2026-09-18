@@ -4,7 +4,7 @@ compiled: 2026-09-18
 period: 2026-08-01 to 2026-09-18
 subject: dpi.id
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COM; COG; COD; EGY; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: ddb1580be0b3
+record: 2771e091ce31
 ---
 
 # Digital Identity and CRVS: monthly update, August – September 2026
@@ -35,7 +35,9 @@ The credential's problem this month is forgery rather than production. The labou
 
 The Sahel alliance's shared credential reached another town. Enrolment for the common biometric identity card [opened in Arbinda on 27 August](https://www.aib.media/soum-arbinda-la-cib-aes-suscite-un-fort-engouement-des-populations/). Arbinda is in the Soum province, which makes where enrolment opens a security question as much as an administrative one. The record held carries no enrolment total for the card, in Burkina Faso or across the alliance.
 
-Enrolment for the card then reached the capital under pressure of demand. The identification office [opened nine further sites across Ouagadougou — police stations, arrondissement offices and a cultural centre — and set delivery at 48 hours for a special operation running to 16 September](https://www.fasoamazone.net/2026/09/15/id-day-2026-loni-ouvre-plusieurs-sites-denrolement-a-ouagadougou-face-a-laffluence-pour-la-cib-aes/). No enrolment count accompanies it.
+Enrolment then reached the capital under pressure of demand. The identification office [opened nine further sites across Ouagadougou — police stations, arrondissement offices and a cultural centre — and set delivery at 48 hours for a special operation running to 16 September](https://www.fasoamazone.net/2026/09/15/id-day-2026-loni-ouvre-plusieurs-sites-denrolement-a-ouagadougou-face-a-laffluence-pour-la-cib-aes/), and ran special enrolment operations across every region for the seventh International Identity Day. No enrolment count accompanies either.
+
+The day itself named the identity chain's next use. The security minister made [the securing of academic and professional diplomas the theme of the commemoration, setting the aim as a centralised national interoperability and trust framework that leaves academic prerogatives with the institutions while making the production and verification chain tamper-proof](https://www.sidwaya.info/journee-internationale-de-lidentite-la-securisation-des-diplomes-au-coeur-de-la-viie-edition/). No instrument, operator or timetable is published for it.
 
 ## Burundi
 

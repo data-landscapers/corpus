@@ -4,7 +4,7 @@ compiled: 2026-09-18
 period: 2026-08-01 to 2026-09-18
 subject: gov.protect
 places: AGO; BEN; BWA; BFA; CPV; CAF; DJI; COD; EGY; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LBR; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; UGA; ZMB; ZWE
-record: ea609786112d
+record: 9eb39fbade57
 ---
 
 # Data protection: monthly update, August – September 2026
@@ -32,8 +32,6 @@ The commencement instrument behind the data-protection regime is now held in ful
 ## Burkina Faso
 
 On 3 August the legislature [voted the personal-data protection bill and the organic law creating a merged communications and data-protection authority](https://www.sidwaya.info/surete-aerienne-et-protection-des-donnees-a-caractere-personnel-lassemblee-legislative-du-peuple-adopte-les-projets-de-lois/). The new law prohibits and sanctions processing without consent, indexes administrative fines to turnover excluding tax and scales them by gravity, and prohibits transferring sensitive data abroad. The merged authority takes the data-protection commission's mandate and is given its own rule-making power with artificial intelligence named specifically. Neither text is held, neither is promulgated, and no commencement, seat or leadership is stated.
-
-The same 23 July sitting replaced the 2017 decree governing the non-profit register, fixing for the first time a retention period for that data after dissolution.
 
 ## Cape Verde
 

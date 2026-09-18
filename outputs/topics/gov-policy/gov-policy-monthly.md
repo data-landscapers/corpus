@@ -4,7 +4,7 @@ compiled: 2026-09-18
 period: 2026-08-01 to 2026-09-18
 subject: gov.policy
 places: DZA; BWA; BFA; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MWI; MLI; MRT; MUS; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 54b356599d40
+record: dc52cc4f9c01
 ---
 
 # Strategies, plans and policies: monthly update, August – September 2026
@@ -24,6 +24,8 @@ The data policy is being turned into something implementable. A five-day [data g
 ## Burkina Faso
 
 Policy work this month was procedural rather than substantive. The digital transition ministry [held a CASEM session on what it contributes to the RELANCE 2026-2030 national plan](https://lefaso.net/spip.php?article148658). The plan text, the digital component, any budget line and any target are all unpublished, so what the record holds is that the process is running and not what it is expected to produce.
+
+The other plan in hand is being redrawn rather than written: the authorities are [revising the national plan for the digital development of the territory to a 2030 horizon](https://www.wearetech.africa/fr/fils/actualites/telecom/le-burkina-faso-repense-l-amenagement-numerique-de-son-territoire-a-l-horizon-2030), against an international estimate putting about 70 per cent of the population off the internet in 2024. No revised text, timetable or cost is published.
 
 ## Cameroon
 

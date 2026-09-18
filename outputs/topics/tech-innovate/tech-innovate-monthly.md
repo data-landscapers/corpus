@@ -4,7 +4,7 @@ compiled: 2026-09-18
 period: 2026-08-01 to 2026-09-18
 subject: tech.innovate
 places: DZA; AGO; BWA; BFA; CMR; CPV; COM; CIV; COD; EGY; ERI; SWZ; GAB; GMB; GHA; GIN; KEN; LBR; MLI; MAR; NAM; NER; NGA; RWA; SYC; SLE; ZAF; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: cfdbb484953b
+record: 14f0e31534b8
 ---
 
 # Innovation ecosystem: monthly update, August – September 2026
@@ -30,6 +30,8 @@ The sector was counted for the first time. An inaugural census puts more than 10
 ## Burkina Faso
 
 The first Sahel Tech Innovation Challenge closed in Ouagadougou, taking 600 submitted projects from 23 African countries down to 100, then 60, then 10 finalists. First prize went to a [Burkinabe agricultural artificial-intelligence tool built to work in national languages](https://www.aib.media/stic26-des-burkinabe-decrochent-le-premier-prix-avec-leur-ia-agricole-integrant-les-langues-nationales-terra-ai/). No prize value, follow-on funding or second edition is announced.
+
+The national digital event returns in October: a second edition running [from 17 to 24 October, wholly online, with Rwanda as guest of honour and 95 entries taken in its innovation competition by 16 September](https://lefaso.net/spip.php?article149300). A third operator digital centre also [opened at a regional university on 31 July](https://burkina24.com/2026/08/04/koudougou-orange-burkina-faso-inaugure-son-troisieme-orange-digital-center-a-luniversite-norbert-zongo/), against a hub count the repository still holds only from a 2019 continental study.
 
 ## Cameroon
 

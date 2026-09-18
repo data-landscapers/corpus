@@ -4,7 +4,7 @@ compiled: 2026-09-18
 period: 2026-08-01 to 2026-09-18
 subject: infra.cybersec
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; TCD; COM; COG; CIV; SWZ; GAB; GHA; KEN; LSO; LBR; LBY; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 81270205cf44
+record: dac0a3674439
 ---
 
 # Cybersecurity: monthly update, August – September 2026
@@ -39,9 +39,11 @@ A published account documents a [growing digital safety problem](https://www.mme
 
 The Council of Ministers of 30 July [adopted two decrees applying the 2024 information-systems security law](https://burkina24.com/wp-content/uploads/2026/07/CONSEIL-DES-MINISTRES-N%C2%B025-DU-30-JUILLET-2026.pdf): one identifying, classifying and setting obligations for critical-infrastructure bodies, expressly spanning energy, water, health, telecommunications and finance, and one fixing periodic security audits and vesting auditor accreditation in the national cyberspace control body. The law had asserted both duties since July 2024 with no machinery attached.
 
-The building meant to carry the supervision got its first progress statement in seven months. The digital transition minister [inspected the site on 5 August](https://nouvellesafrique.com/transition_digitale-dr-aminata-zerbo-sabane-inspecte-deux-chantiers-majeurs-a-ouagadougou/), where the technical managers put physical execution across that worksite and the first citizen service centre together at about 20%; the account names the build the Centre d'opération du Réseau Backbone national and gives it the same supervisory function the January account gave the supervision centre. The stated delivery month is October 2026.
+The building meant to carry the supervision got its first progress statement in seven months. The digital transition minister [inspected the site on 5 August](https://nouvellesafrique.com/transition_digitale-dr-aminata-zerbo-sabane-inspecte-deux-chantiers-majeurs-a-ouagadougou/), where the technical managers put physical execution across that worksite and the first citizen service centre together at about 20%; the stated delivery month is October 2026.
 
 Alongside the build, the state published a count of what it has tested. [205 state digital platforms have been put through security testing to find and correct vulnerabilities, 1,460 platforms on the .bf domain reachable from the internet have been mapped, and 28 public bodies placed under reinforced protection](https://www.wearetech.africa/fr/fils/actualites/tech/burkina-faso-205-plateformes-publiques-testees-pour-renforcer-la-cybersecurite), all under the national critical-infrastructure programme. No period, finding, remediation rate or list of the bodies covered accompanies the figures.
+
+What the testing is against is now measured on two series that do not sit together. The cybercrime unit puts reported loss at [about FCFA 1.7bn in 2025 and FCFA 906,123,245 in the first half of 2026 on more than a thousand complaints in that half year](https://libreinfo.net/cybercriminalite-au-burkina-2/), while an August account of the same unit's figures gives [6,367 complaints and FCFA 1.872bn of losses for 2025](https://lefaso.net/spip.php?article148724). The unit also [equipped an audiovisual studio to produce educational content on digital risks](https://lefaso.net/spip.php?article149120), with deconstructing false information central to its remit.
 
 ## Cameroon
 

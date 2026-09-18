@@ -4,7 +4,7 @@ compiled: 2026-09-18
 period: 2026-08-01 to 2026-09-18
 subject: infra.connect
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 748a30d110f9
+record: 290bc9539dfc
 ---
 
 # Connectivity: monthly update, August – September 2026
@@ -37,9 +37,9 @@ Domestic access moved on a much smaller scale. The backbone company [completed i
 
 ## Burkina Faso
 
-At the Prime Minister's mid-year review of 25 July the digital ministry reported 46.7% physical execution of its 2026 objectives contract, the replacement public-administration network's architecture finalised with suppliers' bids under evaluation, and [satellite-operator admission negotiations advancing](https://www.queenmafa.net/2026/07/26/chantier-zero-donnee-a-lexterieur-120-plateformes-deja-repertoriees/); that operator remains unlicensed.
+Coverage is to be bought in towers. A plan reported this month puts [800 towers up, 250 through the digital transformation acceleration project and 550 through the universal access and service fund, to connect 1,000 white-zone localities by 2027](https://www.datacenterdynamics.com/en/news/burkina-faso-govt-to-build-800-telecom-towers-to-plug-coverage-gaps/); the regulator's own figures put attacks on telecommunications infrastructure at 106 in 2022 against 11 in 2019, which is the condition the towers are going up in.
 
-The regulator ran a four-day workshop with territorial authorities from 29 June to 2 July, naming local opposition and misinformation as continuing brakes on tower rollout. At an address-protocol forum on 3 July the regulator and operators again called for a migration plan with a firm calendar; none is adopted.
+The state backbone's price became visible for the first time. Three years into operating the publicly built 3,000 km network, its operating company [put wholesale capacity at about FCFA 35 million a month for a 10 Gb service](https://digitalmagazine.bf/2026/08/18/interview-avec-sagadibwaoga-michel-ouedraogo-dg-de-bfs-le-backbone-national-a-tenu-ses-promesses-trois-ans-dexploitation-de-la-fibre-optique-publique-burkinabe/). It is one figure from the seller, with no retail pass-through and no comparison published.
 
 The month's one new external route is a proposal rather than a link. Burkinabè and Nigerian digital ministries [met in Ouagadougou on 12 August to explore connecting Nigeria's planned 90,000km open-access fibre backbone into Burkina Faso](https://www.wearetech.africa/fr/fils/actualites/tech/infrastructures-ia-et-talents-le-burkina-faso-et-le-nigeria-renforcent-leur-cooperation-numerique), alongside cooperation on artificial intelligence in local languages, digital public infrastructure, cybersecurity and skills, and [a stated aim of halving internet costs through that backbone](https://techafricanews.com/2026/08/13/nigeria-and-burkina-faso-explore-project-bridge-to-cut-internet-costs-by-50/). No instrument was signed and the Nigerian backbone is itself unbuilt.
 

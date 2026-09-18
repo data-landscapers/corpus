@@ -4,7 +4,7 @@ compiled: 2026-09-18
 period: 2026-08-01 to 2026-09-18
 subject: dpi.pay
 places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 0ed3a31b7571
+record: 911f02550a4b
 ---
 
 # Digital Payments and Fintech: monthly update, August – September 2026
@@ -29,7 +29,9 @@ A fourth came with a bank's annual results: FNBB [said its eWallet will send fun
 
 ## Burkina Faso
 
-The regional instant-payment rail moved its deadlines rather than its coverage: the central bank [extended connection to 30 September 2026 for banks and payment institutions and 30 June 2027 for microfinance](https://techafricanews.com/2026/07/13/burkina-faso-targets-1000-white-zones-in-2026-connectivity-drive/), with 80 institutions connected union-wide at 24 June and 74 more in test.
+The payments rail acquired a new obligation rather than new users: it [became the collection channel for automated traffic fines from 1 August](https://lefaso.net/spip.php?article148326), carrying payment links served with the fine and vehicle immobilisation for non-payment within a month.
+
+Certified electronic invoicing moved from rule to product. The tax administration announced that [certified invoicing systems go on sale from 7 September 2026](https://burkina24.com/2026/09/01/communique-facture-electronique-certifiee-la-mise-en-vente-des-systemes-de-facturation-demarre-le-7-septembre-2026-au-burkina-faso/), under the 2025 order that established the certified invoice. No price, supplier list or take-up figure is published.
 
 ## Burundi
 

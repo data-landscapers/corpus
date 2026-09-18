@@ -47,7 +47,7 @@ DB_PATH = os.path.join(INDEX_DIR, "vault.db")
 
 # Bumped when a row's shape changes, so an index built by an older builder is
 # stale by definition rather than silently half-populated.
-INDEX_VERSION = 1
+INDEX_VERSION = 2   # 2: double-quoted frontmatter escapes decoded (BFA unit review, 2026-09-18)
 
 # Walked in full. `logs/` is deliberately absent: it is append-only prose, not
 # artefacts with frontmatter, and log.md alone would double the read.
@@ -214,9 +214,27 @@ def is_bare_domain(url_norm):
 # --------------------------------------------------------------------------- #
 
 def _unquote(v):
+    """Strip the quotes, and decode the escapes a **double**-quoted scalar may carry.
+
+    YAML processes \\uXXXX, \\n and \\" inside double quotes and takes them
+    literally inside single quotes, so the decode is conditioned on which quote was used.
+    Without it a record writing `title: "Digital for Girls and Women \\u2014 Burkina
+    Faso"` — valid YAML meaning an em dash — put those six characters into a published
+    CSV (found at the BFA unit review, 2026-09-18; 1,304 fields across the estate).
+
+    JSON's escape set is the subset of YAML's that matters here, so `json.loads` does the
+    work; anything it refuses falls back to the stripped string, which is what this
+    function returned before and is never worse.
+    """
     v = v.strip()
     if len(v) >= 2 and v[0] == v[-1] and v[0] in "\"'":
-        return v[1:-1]
+        inner = v[1:-1]
+        if v[0] == '"' and "\\" in inner:
+            try:
+                return json.loads(v)
+            except ValueError:
+                return inner
+        return inner
     return v
 
 

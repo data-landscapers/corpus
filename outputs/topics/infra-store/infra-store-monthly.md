@@ -4,7 +4,7 @@ compiled: 2026-09-18
 period: 2026-08-01 to 2026-09-18
 subject: infra.store
 places: DZA; AGO; BWA; BFA; CMR; CPV; CAF; COG; CIV; EGY; GNQ; ERI; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SLE; SOM; ZAF; SSD; TZA; TUN; ZWE
-record: 664bd2384ae8
+record: b263539d57ee
 ---
 
 # Data Storage: monthly update, August – September 2026
@@ -30,6 +30,8 @@ The Kala data centre [completed its first full quarter of continuous operation t
 ## Burkina Faso
 
 A wholly domestic commercial hosting provider [launched on 31 July](https://www.aib.media/burkina-souverainete-numerique-ika-cloud-le-premier-hebergeur-100-local-des-donnees/) with more than 600 domain names, more than 196 web hostings and 98% availability at launch — the vendor's own figures, with capacity, tier and certification unstated.
+
+The state's own cloud is in operation on the same sovereignty argument, its first two modular datacentres inaugurated at Ouagadougou under the zero-data-abroad programme to host and secure public data and to bring back data still held outside the country ([cloud](https://lefaso.net/spip.php?article148338)). The government publishes no capacity, operator or cost for it.
 
 ## Cameroon
 
