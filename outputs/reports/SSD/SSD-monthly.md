@@ -1,11 +1,11 @@
 ---
 title: South Sudan — monthly update, August – September 2026
-compiled: 2026-09-17
-period: 2026-08-01 to 2026-09-17
+compiled: 2026-09-18
+period: 2026-08-01 to 2026-09-18
 place: SSD
-ledger_rows: 40
+ledger_rows: 42
 not_held: 12
-record: 1b2a4832b7bd
+record: e0bda9861ef8
 ---
 
 # South Sudan: monthly update, August – September 2026
@@ -45,6 +45,8 @@ There is still no data protection authority, and the communications regulator ca
 The one regional move in the window is a pledge without a workplan. On 12 August the minister [visited the African Telecommunications Union's Nairobi headquarters and pledged deeper collaboration on infrastructure, capacity building and standardisation](https://techreviewafrica.com/news/6713/south-sudan-pledges-stronger-collaboration-with-atu-on-digital-infrastructure-and-capacity-building). No workplan, contribution or membership status is stated, and it sits alongside the payment-system bill validated the same month with East African Community and Bank of Uganda backing — the substantive regional support in this record runs through that bill rather than through the union.
 
 South Sudan and Uganda [signed a memorandum in Juba for real-time epidemiological data sharing, mutual outbreak notification and joint surveillance at the border](https://www.radiotamazuj.org/en/news/article/south-sudan-uganda-sign-agreement-on-cross-border-health-security), with no platform named.
+
+The revenue authority [signed a third customs memorandum with Uganda's, the first to cover digital interoperability and enforcement of Uganda's electronic permit system](https://jubaechotv.com.ss/south-sudan-uganda-sign-mou-to-strengthen-customs-cooperation/), on the corridor that carries most of the country's imports. No systems link or timetable is published.
 <!-- /narrative -->
 ### Standards
 
@@ -65,6 +67,8 @@ The e-government contract came under an allegation the minister denies. The info
 Prices rose and the numbers behind them did not appear. The information minister [publicly defended the telecommunications tariff increase on 24 August](https://www.radiotamazuj.org/en/news/article/information-minister-ateny-defends-telecom-tariff-increase); the regulator maintains it is a revision of the exchange rate used to calculate charges rather than a tariff increase, and neither regulator nor operators have published the revised rates. A cost defended without a price is a position the repository can record and a reader cannot check.
 
 Regionally, East African states [opened a joint bank account to fund a feasibility study for a communications satellite, with deposits due by 30 September 2026](https://chimpreports.com/east-african-states-open-bank-account-to-fund-joint-communications-satellite-study/). No contribution figure for this country, study scope or reporting date is stated.
+
+The Kenya-facing fibre route moved from plans to procurement. Under the World Bank regional digital project, the ministry [invited international bids on 10 September for fibre deployment on Route A-B, from Juba to Nadapal](https://tenderportal.ppdaa.gov.ss/sites/default/files/2026-09/Stamped%20SPN%20for%20deployment.pdf), [about 397 km, with bids closing on 26 October 2026](https://southsudanpress.com/analysis-south-sudan-fibre-juba-nadapal-procurement.html). It is the first route of the [announced 2,400 km programme](https://techafricanews.com/2025/10/09/south-sudan-announces-2400-km-fiber-optic-network-to-strengthen-digital-infrastructure/) to be tendered, and no construction date is set.
 <!-- /narrative -->
 ### Data Storage
 

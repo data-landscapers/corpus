@@ -1,11 +1,11 @@
 ---
 title: Mali — monthly update, August – September 2026
-compiled: 2026-09-17
-period: 2026-08-01 to 2026-09-17
+compiled: 2026-09-18
+period: 2026-08-01 to 2026-09-18
 place: MLI
-ledger_rows: 34
+ledger_rows: 35
 not_held: 1
-record: 0c134effb1c0
+record: 200102063602
 ---
 
 # Mali: monthly update, August – September 2026
@@ -95,6 +95,8 @@ A [national digital directory of diaspora skills was launched at a ceremony in W
 
 <!-- narrative: dpi--dpi-mis -->
 Three health systems reached the record in the same window and none of them carries a coverage figure. The national health information system [publishes its own description — case detection, the launch of interventions to prevent transmission and reduce morbidity, and the surveillance behind them](https://snisi.sante.gov.ml/about), running under a health and social information strategic plan for 2020-2024 whose period has expired and a national digital health plan for 2024-2028. The health insurance fund and the bodies it delegates management to [signed contracts towards universal coverage in July 2026](http://www.canam.ml/index.php/actualite), after digitising prior authorisation in May. And the revenue directorate [opened three options for filing declarations and depositing financial statements](https://bamada.net/mali-la-direction-generale-des-impots-ouvre-trois-options-pour-la-declaration-fiscale-et-le-depot-des-etats-financiers) in April 2026. No enrolment, claims volume or filing share is published for any of the three.
+
+The education ministry [validated the specification and mock-up of a portal to manage teacher postings and attendance](https://malijet.com/education_et_formation_au_mali/311884-education-le-mali-digitalise-la-gestion-de-la-mobilite-des.html), under a project funded by the European Union and run by NGOs. No build contract or launch date is stated.
 <!-- /narrative -->
 
 ## Digitalisation

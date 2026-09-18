@@ -1,11 +1,11 @@
 ---
 title: Gambia — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-18
+period: 2026-08-01 to 2026-09-18
 place: GMB
-ledger_rows: 49
+ledger_rows: 50
 not_held: 4
-record: 1bf1509ff284
+record: 572b25c25c4f
 ---
 
 # Gambia: monthly update, August – September 2026
@@ -33,6 +33,8 @@ The policy shelf was restocked, with an unusually frank admission attached. The 
 An Act already in force showed what passing one is worth on its own: the press union reported on 7 August that [most public institutions have yet to appoint the information officers the Access to Information Act requires, and that twenty-one-day requests go unanswered](https://www.voicegambia.com/gpu-says-access-to-information-law-yet-to-be-fully-implemented/). No government response, compliance count or enforcement action is on record. The Communications Bill 2025, meanwhile, stayed in committee. Two Assembly committees [met the Press Union and the Media Council on 18 July 2026](https://thepoint.gm/africa/gambia/national-news/lawmakers-engaged-over-communication-bill); the Union set out the media laws it wants repealed alongside the bill, and members said they could take stakeholder views into committee but not debate it publicly.
 
 A second instrument was validated on [31 July 2026: the State Intelligence Service Bill](https://thepoint.gm/africa/gambia/headlines/sis-validates-bill-to-reposition-as-robust-futuristic-intelligence-service), at a workshop attended by the National Security Adviser, the Chief of Defence Staff, the Assembly's defence committee and civil society. The Adviser said the draft prohibits torture, unlawful detention and political targeting, requires judicial warrants and oversight for intrusive measures, and gives the Assembly review of the Service's budgets. Its threat frame is cybercrime, espionage, disinformation and organised crime, so it is where Gambian communications interception would sit. The text is not held, the Bill has not been tabled, and it does not appear in the Assembly's bills library, checked 2026-08-08.
+
+The National Assembly [committed the Competition and Consumer Protection Commission Bill 2026 after its second reading on 15 September](https://mansabanko.gm/parliament-commits-bill-to-prohibit-anti-competitive-practices/). It would replace the 2007 competition and 2014 consumer protection Acts with a single independent commission.
 <!-- /narrative -->
 ### Data protection
 

@@ -3,9 +3,9 @@ title: Egypt — monthly update, August – September 2026
 compiled: 2026-09-18
 period: 2026-08-01 to 2026-09-18
 place: EGY
-ledger_rows: 112
+ledger_rows: 114
 not_held: 48
-record: 7eec602f3d0f
+record: 671d5c689ab3
 ---
 
 # Egypt: monthly update, August – September 2026
@@ -116,6 +116,8 @@ Identity gained a second biometric front end and a liability problem in the same
 The telecoms regulator [launched a remote biometric verification system in a pilot phase](https://www.zawya.com/en/economy/egypt-launches-biometric-verification-system-for-remote-digital-services-467752), built with ITIDA, CyShield and licensed electronic-signature companies, letting users reach services requiring identity verification and electronic signatures through mobile applications rather than company branches. Operators are to enable it in their own apps as their technical readiness allows, and its stated scope is to widen later to a broader range of digital services.
 
 A telecom operator moved identity checks online: Telecom Egypt [launched electronic customer identification with e-signature for mobile line sales](https://www.youm7.com/story/2026/9/12/%C2%AB%D9%88%D9%8A%C2%BB-%D8%AA%D8%B7%D9%84%D9%82-%D8%AE%D8%AF%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D9%82%D9%82-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A-%D9%85%D9%86-%D9%87%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D8%A7%D8%A1-E-KYC/7544416).
+
+Remote identity checks moved onto phones. The communications and interior ministries [launched a platform for biometric identity verification and electronic signature that licensed telecom operators can offer inside their own applications, with no branch visit](https://www.elmydannews.com/251837). It was built with the telecom regulator, the IT industry agency and a local developer; no user count or list of relying services is stated.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -125,6 +127,8 @@ Two things moved on the payment rails. The instant payment network [began credit
 The operator that builds the state's payment infrastructure also became a lender. On 13 August it [agreed the full acquisition of an Egyptian non-bank lender to small and medium firms](https://www.zawya.com/en/press-release/companies-news/efg-hermes-advises-efinance-on-strategic-acquisition-of-tamweely-financial-services-430407), extending its own infrastructure into direct lending. No consideration is disclosed in the records held, and neither states any separation between running government payment rails and holding a lending book that runs on them.
 
 Operator wallets kept growing faster than the gap closed: the telecom regulator [counted 57.01m in the first half of 2026, up 23% in a year, with 67% registered to men](https://www.youm7.com/story/2026/9/14/%D9%83%D9%8A%D9%81-%D8%BA%D9%8A%D8%B1%D8%AA-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9-%D8%B9%D8%A7%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%81%D8%B9-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1/7540929).
+
+The largest private bank's digital-bank venture, holding preliminary approval, [put its planned investment at up to US$300m ahead of a pilot for individual and diaspora customers](https://menastartupdigest.com/cib-backed-yomo-digital-bank-plans-egypt-launch-with-300m-investment/).
 <!-- /narrative -->
 ### Registries
 
@@ -141,6 +145,8 @@ The health stock chain went onto one record. The procurement authority told the 
 Remote justice arrived with a price list. The justice ministry's [E-Court platform went live on 31 August for first-instance criminal courts, charging lawyers EGP 500 a year, EGP 500 per remote felony hearing and EGP 10 a page for case-file copies](https://manassa.news/en/news/33836); the Lawyers Syndicate calls the fees unconstitutional, and no legal basis for them is published.
 
 Remote criminal hearings opened to lawyers at a price. The justice ministry's platform [listed EGP 500 a year for felony hearings and EGP 100 for detention renewals](https://www.shorouknews.com/news/view.aspx?cdate=08092026&id=bdee860b-5577-416e-be32-2bf2085c6952), lawyers [asked the Administrative Judiciary Court to annul the fees as not set by statute](https://www.safha1.com/15703), and the ministry [replied that use is optional and was requested by the bar](https://www.youm7.com/story/2026/9/14/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B9%D8%AF%D9%84-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D8%B6%D9%8A-%D8%B9%D9%86-%D8%A8%D8%B9%D8%AF-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D9%8B%D8%A7-%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A6%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF/7546339).
+
+The finance ministry [began surveying road-freight companies at land ports to link them to Nafeza, the single window already used for sea and air cargo](https://enterpriseam.com/logistics/2026/09/14/egypts-govt-is-bringing-overland-freight-into-nafeza-for-the-first-time-closing-a-gap-in-trade-digitization/), with consolidated land bills of lading and pre-arrival cargo data planned. The account rests on unnamed officials, and no timetable is set.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 

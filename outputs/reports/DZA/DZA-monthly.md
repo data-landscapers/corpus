@@ -1,11 +1,11 @@
 ---
 title: Algeria — monthly update, August – September 2026
-compiled: 2026-09-17
-period: 2026-08-01 to 2026-09-17
+compiled: 2026-09-18
+period: 2026-08-01 to 2026-09-18
 place: DZA
 ledger_rows: 43
 not_held: 7
-record: f0f4b548c0ff
+record: 967fc333020e
 ---
 
 # Algeria: monthly update, August – September 2026
@@ -117,6 +117,8 @@ August added two more, and one admission. The trade ministry's [complaints platf
 The state fuel distributor [made its e-Mahata platform the single window for ordering tyres](https://just-infodz.com/naftal-pneus-algerie-incoherence-himayatak/), requiring electronic payment and capping one make at two purchases per citizen per six months — a rationing rule enforced through an identity-bound ordering platform rather than at the counter. Separately, the labour ministry [launched an online corruption-reporting platform, Tabligh](https://just-infodz.com/lutte-corruption-algerie-plateforme-tabligh-mtess/), covering the central administration, with no report volume, handling procedure or protection for reporters published.
 
 The national portal grew by count. The high commission [put it at 150 services on 9 September, against 21 at launch, when three water-sector services went live](https://algerie54.dz/hydraulique-lancement-de-trois-nouveaux-services-via-le-portail-national-des-services-numeriques), alongside [five tax certificates and attestations](https://elwatan.dz/dzair-digital-services-impots-integration-de-cinq-nouveaux-services-numeriques/). The same week the president [ordered the investor single window effectively in service by the end of September and all investment procedures digitised with the tax, state-property and customs administrations](https://elwatan.dz/le-president-tebboune-ordonne-lacceleration-de-la-numerisation-mise-en-service-du-guichet-unique-fin-septembre/).
+
+The national portal kept adding services by sector in mid-September: [seven youth-sector services, among them a unified platform for youth facilities](https://www.algerie360.com/la-jeunesse-algerienne-dispose-enfin-de-son-portail-numerique-dedie/), and [the sports ministry's job service](https://algeriebrevesnews.dz/dzair-digital-services-integration-du-service-wadhifati-relevant-du-secteur-des-sports/). No updated total was given.
 <!-- /narrative -->
 
 ## Technology
