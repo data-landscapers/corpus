@@ -1,11 +1,11 @@
 ---
 title: Sao Tome and Principe — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-18
+period: 2026-08-01 to 2026-09-18
 place: STP
-ledger_rows: 9
+ledger_rows: 10
 not_held: 6
-record: e5131907f718
+record: 4e9bebb6b1e2
 ---
 
 # Sao Tome and Principe: monthly update, August – September 2026
@@ -29,6 +29,15 @@ A further agreement between the two jurisdictions on [exchanging information to 
 
 <!-- narrative: governance--gov-standards -->
 [BGFI Bank Sao Tome became the first bank in the country certified to ISO 9001:2015](https://www.telanon.info/economia/2026/08/03/53828/bgfi-bank-e-o-primeiro-banco-do-pais-certificado-pela-iso-90012015/), the certificate presented at a ceremony marking 55 years of its group in the presence of members of the government, the central bank and the diplomatic corps. The national quality body, an autonomous institute under the finance ministry, is [the country's correspondent member of the international standards organisation](https://www.iso.org/member/7310132.html) - the membership category for states without a fully developed national standards activity. A single private certification is the whole of the month's adoption record, and no public body is recorded as certified to any international standard.
+<!-- /narrative -->
+
+## ICT Infrastructure
+
+### Connectivity
+
+<!-- narrative: ict-infrastructure--infra-connect -->
+
+An independent index put a number on how fragile the connection is. The Internet Society [scores the country's internet resilience at 33 out of 100, below the Middle Africa average of 38 and the Africa average of 44](https://pulse.internetsociety.org/en/resilience/ST), across infrastructure, market readiness, performance and security. It is the first such score the repository holds for the country.
 <!-- /narrative -->
 
 ## DPI
