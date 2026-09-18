@@ -1,11 +1,11 @@
 ---
 title: Mauritius — monthly update, August – September 2026
-compiled: 2026-09-17
-period: 2026-08-01 to 2026-09-17
+compiled: 2026-09-18
+period: 2026-08-01 to 2026-09-18
 place: MUS
-ledger_rows: 43
+ledger_rows: 44
 not_held: 7
-record: 973ae8daa10f
+record: 43e36b1f4e7f
 ---
 
 # Mauritius: monthly update, August – September 2026
@@ -40,6 +40,8 @@ And on [30 July the ICT minister committed to Electronic Transactions Act amendm
 The primary text of the [Data Protection Officer Regulations 2026](https://mitci.govmu.org/mitci/wp-content/uploads/2026/06/117_The-Data-Protection_Designation-Tasks-and-Position-of-Data-Protection-Officers_Reg.pdf) is now held, as Government Notice No. 117 of 2026 made under the Data Protection Act.
 
 A third bill was set out in public rather than in print. The ICT minister said the [Road Traffic (Amendment) Bill would make the digital driving licence an official electronic version equivalent to the traditional one and let holders settle fixed traffic penalties at any court and, above all, online](https://lexpress.mu/s/avinash-ramtohul-batir-un-avenir-ou-les-services-publics-suivent-levolution-technologique-562186), putting the affected population at more than 800,000 licence holders and saying the licence depends on interconnecting transport services, law enforcement and public administration. The Bill text is not held and no enactment or commencement date is stated.
+
+The 2025 law on electronic transferable records was used for the first time. A commercial bank [took five electronic bills of exchange from a trading group, created in under 30 minutes and transferred in under an hour](https://tradetreasurypayments.com/articles/exclusive-africa-s-first-electronic-bill-of-exchange-goes-live-under-mauritian-law), under the Finance Act 2025 amendment that made Mauritius the first African jurisdiction to adopt the UNCITRAL model law on the subject.
 <!-- /narrative -->
 ### Data protection
 

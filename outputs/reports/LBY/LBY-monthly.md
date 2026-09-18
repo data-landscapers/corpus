@@ -1,11 +1,11 @@
 ---
 title: Libya — monthly update, August – September 2026
-compiled: 2026-09-17
-period: 2026-08-01 to 2026-09-17
+compiled: 2026-09-18
+period: 2026-08-01 to 2026-09-18
 place: LBY
-ledger_rows: 52
+ledger_rows: 54
 not_held: 2
-record: 89913e2fd7da
+record: 6adaf7573233
 ---
 
 # Libya: monthly update, August – September 2026
@@ -103,6 +103,8 @@ The forgery count grew: [3,090 national numbers issued on forged civil-status da
 Payments moved outward rather than inward. The central bank [is reported to be planning accession to China's cross-border interbank payment system after talks with the People's Bank of China](https://www.scmp.com/news/china/diplomacy/article/3364171/why-chinese-yuan-could-soon-be-africas-most-important-currency). The account is a foreign newspaper's: no Libyan statement, timetable or membership step is held, and nothing is said about what it would mean for settlement currency or correspondent banking.
 
 The central bank governor set out four things at once at a Tripoli conference on 7 September: a [link to the Arab regional payments platform, a study track on a central bank digital currency and stablecoins, a cyber-skills programme, and a pilot for accession to China's cross-border interbank system targeted at early 2027](https://libyaherald.com/2026/09/cbl-governor-issa-launches-several-initiatives-and-reviews-achievements-at-tripoli-arab-savings-and-financial-literacy-conference). None carries an instrument, budget, participant list or delivery date, and the transfer-value figure the same account reports is not taken into the repository.
+
+The central bank rewrote the wallet rules. [Circular 9/2026 replaces the 2017 instructions for licensed electronic-payment companies, setting daily limits for Libyans of LYD 100,000 person to person, 500,000 person to business and 2 million business to business, lower limits for foreigners, and opening wallets to lawful residents on a passport or residence document and a phone number in their name](https://bankawy.net/banks/mssrf-lebea-almrkze-edta-dtwabtd-jdedtt-llm/bankawy/). No count of wallets in use is published.
 <!-- /narrative -->
 ### Registries
 
@@ -170,6 +172,8 @@ On 5 August a Central Bank source told Libya Herald that cash distribution to co
 
 <!-- narrative: data--data-statistics -->
 On 5 August the Central Bank put [electronic transactions at LD 643 billion for the first seven months of 2026](https://libyaherald.com/2026/08/central-bank-source-to-libya-herald-cash-liquidity-to-reach-branches-sunday-withdrawal-limits-start-at-ld-3000-and-subject-to-increase), and forecast that they would exceed LD 1 trillion by the year's end.
+
+The information authority [met the information centres of the prime minister's office and several ministries in Tripoli on 14 September to agree how they supply indicators to a Unified Directory for National Indicators, and set the order for completing it](https://www.gia.gov.ly/en/2026/09/15/the-general-authority-for-information-continues-its-technical-meetings-to-follow-up-on-the-work-of-the-unified-directory-for-national-indicators-with-sectoral-information-centers/). The directory is not yet published.
 <!-- /narrative -->
 ### Open data
 

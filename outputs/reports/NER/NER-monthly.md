@@ -1,11 +1,11 @@
 ---
 title: Niger — monthly update, August – September 2026
-compiled: 2026-09-17
-period: 2026-08-01 to 2026-09-17
+compiled: 2026-09-18
+period: 2026-08-01 to 2026-09-18
 place: NER
-ledger_rows: 38
+ledger_rows: 40
 not_held: 2
-record: 49ee7d82f5ac
+record: 3afb080033e6
 ---
 
 # Niger: monthly update, August – September 2026
@@ -35,6 +35,8 @@ The online press answered the draft ordinance in its own name: fourteen editors 
 
 <!-- narrative: governance--gov-regional -->
 On 30 July a Nigerien technical mission led by the interior ministry's secretary-general was [received in Ouagadougou to study Burkina Faso's identification machinery](https://www.journalduniger.com/niger-burkina-cooperation-identite-numerique-biometrie/) — the civil-status modernisation directorate, the national identification office, the ICT agency and the WURI project. The delegation covered civil registration, migration, the digital agency, territorial surveillance, biometric-card production, the interior ministry's legal service and the ICT and finance ministries, and reported recommendations on issuing authentic documents and limiting document fraud.
+
+The confederation's communication regulators [opened a constitutive conference in Niamey on 17 September for a joint platform, framed around informational sovereignty and a common strategy against disinformation, with artificially generated content among the stated concerns](https://anp.ne/aes-creation-a-niamey-dune-plateforme-des-regulateurs-des-medias-et-communication-de-lespace-communautaire/). No charter, secretariat or powers have been published.
 <!-- /narrative -->
 ### Standards
 
@@ -91,6 +93,8 @@ Health data began moving between systems on its own. A national interoperability
 The identification agency exists in law. It [was created by decree of 22 April 2026, with its statutes approved by a companion decree](https://www.lesahel.org/dosso-lancement-de-la-tournee-nationale-de-sensibilisation-sur-letat-civil/), and a national awareness tour is taking the civil-status and identification reforms to the regions, officially launched at Dosso on 14 August. No enrolment figure, budget or operating date for the agency is published, so what has moved is the instrument and not yet the register.
 
 The passport break with ECOWAS is complete. [Mass enrolment for the confederal biometric passport opens on 15 September at 45,000 FCFA, enrolment for the ECOWAS passport having closed on 10 September](https://nigerdiaspora.net/societe-niger/niger-lenrolement-pour-le-passeport-biometrique-aes-debute-le-15-septembre-2026).
+
+Public enrolment for the confederation's passport began. [Enrolment opened in Niamey on 15 September at FCFA 45,000 for an ordinary passport and FCFA 29,750 for children and students, with regional and diaspora centres and online pre-enrolment through three mobile-money services to follow](https://www.biometricupdate.com/202609/niger-begins-operational-rollout-of-aes-biometric-passport). Niger is the last of the three states to issue the document, and no enrolment count is published.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
