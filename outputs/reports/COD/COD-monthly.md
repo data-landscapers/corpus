@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-18
 place: COD
 ledger_rows: 79
 not_held: 7
-record: 82eb9e722cb2
+record: 48d264d6be15
 ---
 
 # DR Congo: monthly update, August – September 2026
@@ -120,6 +120,8 @@ Continentally, the laboratory system the country's current Ebola response runs o
 The identity pilot is hiring before it enrols: the ministry [retained 50 agents from more than 9,000 candidates, to start training on 15 September](https://www.digitalbusiness.africa/rdc-plus-de-9-000-candidats-au-test-de-recrutement-de-rdc-pass-50-retenus-pour-la-phase-pilote/).
 
 The national digital identity platform moved to enrolment: [its first 50 agents began training on 15 September](https://7sur7.cd/2026/09/16/rdc-pass-lancement-de-la-formation-des-50-premiers-agents-denregistrement), the minister stating that it is an authentication tool and not a national identity card.
+
+On International Identity Day the identification office [said preparations for the population identification system are complete and that data collection will begin in December 2026](https://acp.cd/nation/rdc-lonip-reaffirme-son-engagement-en-faveur-dun-systeme-national-didentification-inclusif-et-securise/). No enrolment target or budget line accompanies the date.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -152,6 +154,8 @@ The revenue side of the digitisation put a number on itself. On a broadcast acco
 
 <!-- narrative: dpi--dpi-govtech -->
 The month's only movement in government platforms was a procurement, and not the state's own: Belgium's development agency [opened a tender on 1 August for artificial-intelligence modules to be built into the national employment agency's platform](https://www.enabel.be/app/uploads/2026/08/COD22022-10116-CSC_PUB-1.pdf), for job matching aimed at youth unemployment, with offers due on 7 September. No contract value, award or delivery date is on record, and the digital government platform it would sit beside remains at Planned with its target already missed.
+
+The foreign trade minister told the WTO Public Forum in Geneva that [93 of the 98 documents required for foreign-trade operations are now dematerialised, with the remaining five due by the end of 2026](https://desknews.cd/2026/09/17/rdc-julien-paluku-vante-la-dematerialisation-des-procedures-commerciales-pour-lutter-contre-la-corruption/). The figure is the government's own and no independent count is held.
 <!-- /narrative -->
 
 ## Digitalisation

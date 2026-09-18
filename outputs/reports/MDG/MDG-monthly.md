@@ -3,9 +3,9 @@ title: Madagascar — monthly update, August – September 2026
 compiled: 2026-09-18
 period: 2026-08-01 to 2026-09-18
 place: MDG
-ledger_rows: 35
+ledger_rows: 36
 not_held: 5
-record: e7d5979563ec
+record: 81d1e537c5ce
 ---
 
 # Madagascar: monthly update, August – September 2026
@@ -63,6 +63,8 @@ The health platform took a step the interoperability layer above it has not yet 
 
 <!-- narrative: dpi--dpi-id -->
 The identity programme marked its own day and started its next phase. [Phase II of the enrolment operation, Izaho Tokana 2.0, was launched on the second day of the 2026 National Identity Day, under the World Bank's DECIM project](https://midi-madagasikara.mg/etat-civil-loif-aux-cotes-de-madagascar-pour-la-journee-nationale-de-lidentite/), the day itself institutionalised by decree 2024-067 and supported this year by a high-level conference of more than 150 people preparing the 2027-2036 civil-registration decade. No target or coverage figure is given for the phase, so what it adds to the six million enrolments already reported is not established.
+
+Mass biometric registration entered its second phase. The interior minister [launched it at Anosy on National Identity Day, 16 September, assigning each person a unique identification number under World Bank financing](https://www.moov.mg/article/121321-enregistrement-biometrique-izaho-tokana-20-entre-dans-sa-deuxieme-phase), [with a target of more than 10 million citizens](https://www.2424.mg/identite-numerique-izaho-tokana-2-0-cible-plus-de-10-millions-de-citoyens-pour-sa-deuxieme-phase/). No enrolment count has been published yet.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 

@@ -3,9 +3,9 @@ title: Togo — monthly update, August – September 2026
 compiled: 2026-09-18
 period: 2026-08-01 to 2026-09-18
 place: TGO
-ledger_rows: 61
+ledger_rows: 62
 not_held: 22
-record: e704f3bdece1
+record: 32ce41e1d9ac
 ---
 
 # Togo: monthly update, August – September 2026
@@ -105,6 +105,8 @@ Elsewhere a domestic financial-technology firm founded in 2024 [runs a single pl
 Certified electronic invoicing is not yet running. The revenue office [briefed about 50 firms on 10 September on a gradual rollout](https://www.togofirst.com/en/economic-governance/1409-20049-togo-s-tax-authority-employers-discuss-certified-e-invoicing-reform), and standardised paper invoices stay valid until launch.
 
 Public transport is next: [digital tickets are piloting on the state bus operator's student routes, with network rollout planned by the end of 2026](https://www.togofirst.com/en/transport/1509-20068-after-student-pilot-togo-plans-wider-rollout-of-digital-bus-ticketing).
+
+Online tax filing reached the smallest taxpayers. The revenue office [launched e-TPU on 17 September, letting small and micro enterprises, artisans and traders declare and pay the single business tax from a phone without visiting a tax centre](https://www.otr.tg/index.php/en/1619-la-plateforme-de-declaration-et-de-paiement-en-ligne-de-la-taxe-professionnelle-unique-e-tpu-officiellement-lancee.html). No uptake figure has been published yet.
 <!-- /narrative -->
 ### Registries
 

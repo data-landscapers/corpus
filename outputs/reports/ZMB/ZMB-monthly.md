@@ -1,11 +1,11 @@
 ---
 title: Zambia — monthly update, August – September 2026
-compiled: 2026-09-17
-period: 2026-08-01 to 2026-09-17
+compiled: 2026-09-18
+period: 2026-08-01 to 2026-09-18
 place: ZMB
-ledger_rows: 57
+ledger_rows: 59
 not_held: 46
-record: ad255959f672
+record: c06095e3deb2
 ---
 
 # Zambia: monthly update, August – September 2026
@@ -211,9 +211,21 @@ The citizen support portal reached a ministry that has no offices in much of the
 
 At home, [one fibre operator cut its entry price to K300 a month for 6 Mbps](https://efficacynews.africa/2026/09/16/liquid-zambia-cuts-fibre-entry-price-to-k300-and-increases-speeds/), an operator's own announcement rather than a market measure.
 <!-- /narrative -->
+### Digital divides
+
+<!-- narrative: inclusion--include-divides -->
+
+A three-year programme run by the presidential delivery unit with private partners [will connect an initial 70 public schools by satellite, adding solar power where schools are off the grid](https://efficacynews.africa/2026/09/18/70-zambian-public-schools-to-receive-starlink-connectivity-under-three-year-programme/). No cost or school list is stated.
+<!-- /narrative -->
 
 ## Data
 
+### Open data
+
+<!-- narrative: data--data-open -->
+
+The finance ministry, the statistics agency and UNICEF [launched a national research repository bringing research and evaluations held in hard copy or scattered across institutions onto one platform](https://efficacynews.africa/2026/09/17/finance-ministry-zamstats-and-unicef-launch-national-research-repository/). No holdings count or licence terms are stated.
+<!-- /narrative -->
 ### Use of satellite data
 
 <!-- narrative: data--data-satellite -->
