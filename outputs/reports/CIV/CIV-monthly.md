@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-18
 place: CIV
 ledger_rows: 63
 not_held: 10
-record: 2e38e0aac83e
+record: 23d43349980e
 ---
 
 # Cote d'Ivoire: monthly update, August – September 2026
@@ -94,6 +94,8 @@ The rural programme's own account reached the repository for the first time. Its
 
 <!-- narrative: ict-infrastructure--infra-store -->
 The financing behind the sovereign data centre is now on the record, and it is a fraction of the project. The United States export credit agency [approved a guarantee of US$66,138,119 on 21 August 2025, with the finance and budget ministry as borrower and the digital transition ministry as end user](https://www.exim.gov/news/minutes/board-meeting-minutes-2025-08-21), against the US$170m the government authorised in July 2026. It is known from the agency's own board minutes rather than from a signed facility, and nothing published explains how the rest of the authorised cost is to be met. Opening of the state data centre is [targeted for 2027 at an estimated US$66 million, specified at 1.73MW of IT capacity within 3MW of total power, 228 racks and 10 petabytes of storage](https://www.datacenterdynamics.com/en/news/ivory-coast-targets-launch-of-first-state-owned-data-center-in-2027/).
+
+A data centre was [installed at the national polytechnic institute in Yamoussoukro to support electronic administration and the storage, processing and security of public data](https://www.ivoirematin.com/fr/news/Societe/administration-electronique-un-data-center-installe-a-linp-hb-de-yamoussoukro_n_125289.html). No capacity, operator or cost is stated.
 <!-- /narrative -->
 ### Cybersecurity
 
@@ -111,6 +113,8 @@ The minister told an information-systems seminar on 21 and 22 July that the firs
 The country's largest working data exchange is agricultural, and its pilot met its users in August. Producers at Meagui [pressed the coffee and cocoa board on 11 August over rollout gaps in the national cocoa traceability system](https://www.aip.ci/cote-divoire-aip-les-contraintes-du-systeme-national-de-tracabilite-au-centre-des-echanges-entre-producteurs-et-conseil-du-cafe-cacao-a-meagui/) — the conditions attached to the producer card, collection in remote zones, deceased and expired cardholders, and bank fees tied to the card. The regional delegate said pilot-phase issues are feeding refinements. No enrolment count, coverage figure, data-controller arrangement or fee schedule for the card is held. The board for the cashew sector began the same sequence a step earlier, [launching a producer and plantation census at Korhogo on 11 August](https://affairesetentreprises.ci/2026/08/17/cote-divoire-le-ccak-lance-le-recensement-des-producteurs-danacarde-premiere-etape-vers-une-tracabilite-de-la-filiere/) as the database that any producer card or traceability system would have to stand on; no timetable or budget for it is stated. Across the border, Mali's customs administration told a Bamako roundtable that its [interconnection with Ivorian customs has a transit-goods data pilot running](https://lagazettedusahel.com/interconnexion-des-systemes-douaniers-le-mali-accelere-sa-transformation-numerique/); the account is Mali's, no Ivorian statement is held, and no completion date for the full interconnection is given.
 
 The cocoa traceability system went live for the new season. Compulsory with the producer card from 1 September, it [recorded about 38,000 producers selling with their cards in its first 13 days, and over 26,000 tonnes bought at the farm gate, each transaction sent to the coffee and cocoa board in real time](https://www.aip.ci/cote-divoire-aip-38-000-producteurs-ont-vendu-leur-cacao-avec-leurs-cartes-depuis-le-1er-septembre/). The rollout gaps producers raised in August over card conditions and remote collection are not reported as settled.
+
+The credit bureau's data turned out to be mostly stale. On figures as at 10 June, [67.88 per cent of Ivorian contracts in the regional credit bureau had not been updated, against a union average of 46.20 per cent, and the country accounted for 60.17 per cent of all non-updated contracts in the union](https://news.abidjan.net/articles/749264/economie-qualite-des-donnees-de-credit-la-cote-divoire-mobilise-les-acteurs-financiers-pour-renforcer-le-dispositif-bic-uemoa). The finance ministry opened consultations on late and incomplete reporting, with three sectoral commissions to produce a national credit-information roadmap.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -171,6 +175,8 @@ The national AI conference ended with a list and a deadline: [77 priority use ca
 The ministry [launched two accelerator cohorts and a state procurement platform on 29 July](https://www.wearetech.africa/fr/fils/actualites/tech/la-cote-divoire-lance-deux-accelerateurs-pour-faire-emerger-ses-champions-du-numerique), fifteen startups and fifteen digital small firms each accompanied for 24 months, applications closing 13 September, against a target of FCFA 5 to 10bn mobilised from banks, funds and donors.
 
 A ten-year-old marketplace restructured on 31 August: the company [split its consumer and business activities and relaunched the consumer brand as Afrikrea, selling fashion, art and crafts internationally for African and diaspora creators with payment and delivery handled by the platform](https://www.wearetech.africa/fr/fils/breves/breves-simple/cote-d-ivoire-anka-relance-sa-place-de-marche-grand-public-sous-le-nom-dafrikrea). No merchant count, transaction volume or revenue figure is published, and the terms of the split are not stated.
+
+On 15 September the digital minister [presented six costed opportunities worth FCFA 541.3bn to the private sector, under a ministerial roadmap of seven pillars and 40 projects aiming to lift the digital economy to 15 per cent of GDP by 2030](https://www.aip.ci/cote-divoire-aip-pnd-2026-2030-le-ministre-djibril-ouattara-presente-les-sept-piliers-de-lacceleration-numerique/), from an estimated 6 to 8 per cent now.
 <!-- /narrative -->
 
 ## Capacity
