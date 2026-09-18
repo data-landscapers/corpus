@@ -3,9 +3,9 @@ title: Tanzania — monthly update, August – September 2026
 compiled: 2026-09-18
 period: 2026-08-01 to 2026-09-18
 place: TZA
-ledger_rows: 99
+ledger_rows: 101
 not_held: 5
-record: 13c4135a5e4c
+record: ddbb66c7560a
 ---
 
 # Tanzania: monthly update, August – September 2026
@@ -140,6 +140,8 @@ The budget behind it was set out to Parliament on 19 August: the home affairs mi
 Where the checks run became the point. The central bank [backed a credit bureau’s locally hosted fraud detection, anti-money-laundering screening and know-your-customer verification for Tanzanian lenders](https://www.thecitizen.co.tz/tanzania/business/bank-of-tanzania-backs-creditinfo-s-locally-operated-fraud-identity-solutions-5586696), the local operation being what is claimed for it. No directive, licence, hosting requirement or supervisory condition is held.
 
 On 16 September the Prime Minister [directed the identity authority to drop the age bar and register young children](https://www.mwananchi.co.tz/mw/habari/kitaifa/nida-yaondoa-kikwazo-cha-umri-namba-kuunganisha-huduma-za-kiraia-5597344), and the authority restated its plan to carry birth certificates, health insurance and the passport on the national ID; no start date is set.
+
+On International Identity Day the registration authority [said it will link the national identity to nine services, up from four, naming birth certificates, health insurance, the taxpayer number, driving licences and blood group](https://www.ippmedia.co.tz/nipashe/habari/kitaifa/read/nida-yako-kuwa-jamii-namba-huduma-9-kuunganishwa-2026-09-17-152047). It gave no timetable.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -176,6 +178,8 @@ At the same exhibition the agency described a farmer-records and permits system 
 The state's own asset record is being enforced rather than built. The finance ministry is [tightening enforcement of the central electronic system for recording and monitoring public assets, citing a hydropower project at about TSh6tn and a railway at about TSh10.6tn](https://businessinsider.co.tz/tanzania-pushes-digital-asset-tracking-to-protect-public-wealth/), with legal backing through amendments to the Public Finance Act and the Public Assets Management Regulations 2024. No count of assets recorded, entities complying or value reconciled is published, so the two named investments are cited as scale rather than as entries in the system.
 
 Community health work is being tied to the payment rail. Local government's ICT director [said a blueprint exists for community health worker systems, with a joint dashboard to track services and payments](https://dailynews.co.tz/tanzania-moves-to-integrate-primary-healthcares-digital-systems-to-boost-its-services-delivery/), built by local experts; the blueprint itself is not published.
+
+The planning ministry [presented e-Delivery as the system that will track every state development project from planning through funding to execution, with fund releases matched to what it records](https://dailynews.co.tz/govt-unveils-digital-system-to-track-projects/). No coverage figure or start date is given.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 

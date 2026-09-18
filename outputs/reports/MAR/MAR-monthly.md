@@ -1,11 +1,11 @@
 ---
 title: Morocco — monthly update, August – September 2026
-compiled: 2026-09-17
-period: 2026-08-01 to 2026-09-17
+compiled: 2026-09-18
+period: 2026-08-01 to 2026-09-18
 place: MAR
-ledger_rows: 47
+ledger_rows: 48
 not_held: 14
-record: 9fb6c191b425
+record: 19dd1daf0767
 ---
 
 # Morocco: monthly update, August – September 2026
@@ -137,6 +137,8 @@ The ombudsman's 2025 annual report, presented on 23 July, gives the counterpoint
 One portal went the other way. The Court of Cassation's site [has been down for more than a week with no official explanation](https://www.alnahar.ma/121842.html), on a bar-association lawyer's account, at a point where the courts increasingly expect rulings to be tracked online. No court or ministry statement is held.
 
 Filing a candidacy became an online act. The interior ministry [made the elections portal the compulsory route for candidacy declarations to the 23 September legislative elections, closing it at noon on 8 September](https://assabah.ma/947667.html). No filing count, fallback for candidates without access or support arrangement is stated.
+
+The digital transition ministry [launched a new version of the national Idarati portal on 18 September, with its e-services as a single access point to administrations' digital services](https://www.mmsp.gov.ma/fr/actualites/idarati-vers-une-administration-plus-proche-proactive-et-centr%C3%A9e-sur-le-citoyen). The ministry gives no count of services or users.
 <!-- /narrative -->
 
 ## Technology

@@ -3,9 +3,9 @@ title: Cote d'Ivoire — monthly update, August – September 2026
 compiled: 2026-09-18
 period: 2026-08-01 to 2026-09-18
 place: CIV
-ledger_rows: 62
+ledger_rows: 63
 not_held: 10
-record: 7638545da4e7
+record: 2e38e0aac83e
 ---
 
 # Cote d'Ivoire: monthly update, August – September 2026
@@ -109,6 +109,8 @@ The national cybersecurity agency [certified the country's first cohort of RGSSI
 The minister told an information-systems seminar on 21 and 22 July that the first services onto the interoperability platform [had been chosen largely by volunteering rather than against user priorities](https://www.fratmat.info/article/2643436/economie/gouvernance-numerique-djibril-ouattara-appelle-a-une-meilleure-coordination-pour-accelerer-linteroperabilite), against targets of 100 services online by end-2026 and 700 within three years. No count of services in production has been published. Fourteen migration bodies met on 30 July to [co-design a single collection and profiling tool for returning migrants](https://www.fratmat.info/article/2643436/economie/gouvernance-numerique-djibril-ouattara-appelle-a-une-meilleure-coordination-pour-accelerer-linteroperabilite) and a roadmap for transferring their data into one directorate; no legal basis, data-protection safeguard or timetable for pooling personal data across fourteen bodies is stated.
 
 The country's largest working data exchange is agricultural, and its pilot met its users in August. Producers at Meagui [pressed the coffee and cocoa board on 11 August over rollout gaps in the national cocoa traceability system](https://www.aip.ci/cote-divoire-aip-les-contraintes-du-systeme-national-de-tracabilite-au-centre-des-echanges-entre-producteurs-et-conseil-du-cafe-cacao-a-meagui/) — the conditions attached to the producer card, collection in remote zones, deceased and expired cardholders, and bank fees tied to the card. The regional delegate said pilot-phase issues are feeding refinements. No enrolment count, coverage figure, data-controller arrangement or fee schedule for the card is held. The board for the cashew sector began the same sequence a step earlier, [launching a producer and plantation census at Korhogo on 11 August](https://affairesetentreprises.ci/2026/08/17/cote-divoire-le-ccak-lance-le-recensement-des-producteurs-danacarde-premiere-etape-vers-une-tracabilite-de-la-filiere/) as the database that any producer card or traceability system would have to stand on; no timetable or budget for it is stated. Across the border, Mali's customs administration told a Bamako roundtable that its [interconnection with Ivorian customs has a transit-goods data pilot running](https://lagazettedusahel.com/interconnexion-des-systemes-douaniers-le-mali-accelere-sa-transformation-numerique/); the account is Mali's, no Ivorian statement is held, and no completion date for the full interconnection is given.
+
+The cocoa traceability system went live for the new season. Compulsory with the producer card from 1 September, it [recorded about 38,000 producers selling with their cards in its first 13 days, and over 26,000 tonnes bought at the farm gate, each transaction sent to the coffee and cocoa board in real time](https://www.aip.ci/cote-divoire-aip-38-000-producteurs-ont-vendu-leur-cacao-avec-leurs-cartes-depuis-le-1er-septembre/). The rollout gaps producers raised in August over card conditions and remote collection are not reported as settled.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -141,6 +143,8 @@ August turned to the supply side and to the state's own paperwork. The ministry 
 September gave the programme a shortlist. A national prioritisation workshop closed on 4 September having [examined 140 of 620 inventoried public services through nine working groups and retained 59 for immediate priority, with ten quick wins expected by the end of 2026 — among them diploma authentication, digital proof of life for pensioners, the computerised patient record and a digital post box](https://afriksoir.net/transformation-numerique-les-travaux-retiennent-59-services-prioritaires-et-dix-quick-wins-attendus-pour-la-fin-2026/). The list is not published, and [the minister put a governance framework for the digital transition ahead of it as the first priority, against ministries each building their own tools and platforms](https://www.aip.ci/aip-la-cote-divoire-envisage-une-gouvernance-unifiee-des-projets-numeriques-de-letat-ministre/); no such framework is on the record.
 
 The prioritisation workshop's second day produced something more consequential than the list. The nine working groups, sitting on different sectors, [converged on the same diagnosis — procedures still largely manual — and on the same answer: shared public infrastructure rather than nine separate builds, with a national single sign-on tied to the population register and the national identification number, 47 of the 49 bodies invited attending](https://afriksoir.net/transformation-numerique-les-neuf-groupes-de-travail-saccordent-sur-des-infrastructures-publiques-communes/). That is a design decision arrived at by the departments who would have to use it, which is a different thing from one imposed on them.
+
+The administration's electronic signature reached local government: the civil service ministry [enrolled Marcory's mayor and secretary-general in the system on 15 September, letting them sign administrative documents from any location](https://techafricanews.com/2026/09/18/cote-divoire-expands-electronic-signature-paperless-administration/). No count of enrolled officials is published.
 <!-- /narrative -->
 
 ## Digitalisation

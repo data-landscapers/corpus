@@ -3,9 +3,9 @@ title: Zimbabwe — monthly update, August – September 2026
 compiled: 2026-09-18
 period: 2026-08-01 to 2026-09-18
 place: ZWE
-ledger_rows: 60
+ledger_rows: 61
 not_held: 7
-record: f06a4a6a05fc
+record: 0c08b1890815
 ---
 
 # Zimbabwe: monthly update, August – September 2026
@@ -135,6 +135,8 @@ The quarter's own numbers came from the central bank rather than from a conferen
 
 
 Acceptance also widened from outside. A commercial bank and an international card scheme [opened online acceptance of that scheme's cards to participating merchants in nine African markets including Zimbabwe on 19 August](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/), settling in local currency, US dollars or both; the merchant count is given for the nine markets together and not for Zimbabwe.
+
+The World Bank [warned that the tax on intermediated money transfers discourages digital transactions, weakens intermediation and pushes activity toward cash](https://businesstimes.co.zw/world-bank-warns-zim-5/), as banks and businesses press for its abolition. No government response is recorded.
 <!-- /narrative -->
 ### Registries
 
