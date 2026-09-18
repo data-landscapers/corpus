@@ -1,11 +1,11 @@
 ---
 title: Sierra Leone — monthly update, August – September 2026
-compiled: 2026-09-17
-period: 2026-08-01 to 2026-09-17
+compiled: 2026-09-18
+period: 2026-08-01 to 2026-09-18
 place: SLE
-ledger_rows: 47
+ledger_rows: 48
 not_held: 5
-record: 4059655b0fc5
+record: 8ea9253458fc
 ---
 
 # Sierra Leone: monthly update, August – September 2026
@@ -149,6 +149,12 @@ The communications minister [said a Startup Act is expected in the first quarter
 
 ## Capacity
 
+### Literacy
+
+<!-- narrative: capacity--capacity-literacy -->
+
+The information minister [launched a National AI and Deepfake Sensitization Campaign on 16 September with the communications ministry and the science and technology directorate](https://nationalistsl.com/2026/09/information-minister-launches-national-ai-deepfake-sensitization-campaign/), under the theme of misinformation and the country's information future. No audience, duration or budget is stated.
+<!-- /narrative -->
 ### Training and skills
 
 <!-- narrative: capacity--capacity-training -->
@@ -184,6 +190,8 @@ The cost of the handset is being financed rather than reduced. An operator and a
 A second national collection was launched inside nine months. The [2026 Demographic and Health Survey was launched on 4 August](https://sierraleone.unfpa.org/en/news/united-nations-reaffirms-support-sierra-leone-officially-launches-2entity26-demographic-and), after the 2026 census in December. Neither carries a published enumeration date, budget or field methodology.
 
 The census has a date and a hole in its budget. The president [set Census Night for 1 December 2026 and put the financing gap at US$37m, against US$24m committed by government of which about US$15m is disbursed](https://statehouse.gov.sl/2026/09/11/sierra-leones-president-bio-calls-for-faster-development-delivery-stronger-coordination-at-depac-meeting/). The civil registration authority [put a draft 2025 vital statistics report to two days of stakeholder validation](https://sierraloaded.sl/news/ncra-validation-sierra-leones-statistics/).
+
+The census technical committee [received the national mapping completion report on 15 September](https://sierraloaded.sl/news/stats-sl-completes-mapping-of-census/), closing cartographic work for the country's first digital census ahead of Census Night on 1 December 2026.
 <!-- /narrative -->
 ### Use of satellite data
 

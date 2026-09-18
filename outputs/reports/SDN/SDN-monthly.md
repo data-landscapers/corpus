@@ -3,9 +3,9 @@ title: Sudan — monthly update, August – September 2026
 compiled: 2026-09-18
 period: 2026-08-01 to 2026-09-18
 place: SDN
-ledger_rows: 46
+ledger_rows: 47
 not_held: 5
-record: 1ed8b80e8362
+record: 414484299c8b
 ---
 
 # Sudan: monthly update, August – September 2026
@@ -88,6 +88,8 @@ Bankers [backed the directive as necessary for the banking system's soundness wh
 [The Central Bank revoked the Al-Asjad payment-switch licence on 4 July 2026](https://sudantribune.net/article/315827), days after the platform launched in Port Sudan with a Sovereignty Council representative present; no specific breach was disclosed, and unconfirmed press reports say the firm was incorporated only in late 2025 with a Dubai branch. [The national payment switch launched live on 6 August](https://cbos.gov.sd/en/content/tender-announcement-national-instant-payment-system-project-nips), connecting Omdurman National Bank as first and only participant and completing a first ATM withdrawal over the switch; the Central Bank's own framing is restoration of war-damaged infrastructure, not a new rail, and no schedule for connecting further banks was given. [Al Jazeera field reporting from Omdurman and Khalifa markets on 31 July](https://www.aljazeera.net/ebusiness/2026/7/31/banking-apps-currency-sudan) found bank apps, chiefly Bankak, dominant in retail settlement, driven by cash scarcity and currency collapse rather than technology uptake, with recurring failure modes including no-smartphone workarounds, app outages and mistaken transfers.
 
 The payment outages ran on. [Intermittent failures of the dominant banking app and another e-payment service pushed traders back to cash](https://www.dabangasudan.org/en/all-news/article/bankak-outages-disrupt-sudans-digital-payments-and-markets) and [prompted a social-media campaign to withdraw funds and switch banks](https://akher-khabar.com/archives/63864). The finance ministry [signed a framework with 11 companies to supply portable electronic collection devices to state institutions](https://suda.news/51307).
+
+The gap between cash and app money drew an order from the other side of the war. The RSF commander [told traders in areas his forces hold to charge one price whether customers pay in cash or through banking applications such as Bankak, ending the premium on app payments](https://thesudantimes.com/sudan/dagalo-orders-unified-cash-digital-payment-prices-in-darfur/). In Khartoum, meanwhile, [converting app balances into banknotes cost 5 per cent at most shops and up to 10 per cent at some](https://www.sudanindependent.com/news/economic/2026/09/16/%D8%A3%D8%B2%D9%85%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%83%D8%A7%D8%B4-%D8%A8%D8%A7%D9%84%D8%AE%D8%B1%D8%B7%D9%88%D9%85-%D9%88%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9), amid a cash shortage and restricted banking applications.
 <!-- /narrative -->
 ### Registries
 

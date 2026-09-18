@@ -3,9 +3,9 @@ title: Tunisia — monthly update, August – September 2026
 compiled: 2026-09-18
 period: 2026-08-01 to 2026-09-18
 place: TUN
-ledger_rows: 58
+ledger_rows: 59
 not_held: 5
-record: 5ea691056e6b
+record: a2d8d66fd50a
 ---
 
 # Tunisia: monthly update, August – September 2026
@@ -94,6 +94,8 @@ From 1 July 2026 the mobile identity became a condition of transacting with the 
 The health identifier's provenance became public on [27 July 2026](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/151109). A ministry adviser confirmed that the identifier built for Covid-19 vaccination, holding records of over 3 million childhood immunisations, was adopted as the national health identifier and bound to the national identity card, the social security number and school and university identifiers. [Roughly 100,000 medical files had been linked](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/151109). On protection of that linked dataset the ministry asserts only that data is stored confidentially and securely.
 
 A second identifier moved a step behind it. At a ministerial session at La Kasbah on 18 August the government decided to [upgrade the social identifier system, digitise social-security cards and services and put interconnected systems in place for real-time data exchange between the social funds, health structures and insured persons](https://www.pm.gov.tn/ar/article/mjls-wzary-19), with drafting of the reform texts to begin immediately. The communique states no timetable, no legal basis for the identifier and no scope.
+
+The mobile identity spread to another ministry. An agriculture ministry circular [requires every body under it to integrate E-Houwiya into its online services by 15 November 2026, making its identifier the sole reference for any new service and requiring strong multi-factor authentication](https://www.tunisie-tribune.com/2026/09/18/numerisation-le-ministere-de-lagriculture-integre-lidentite-numerique-e-houwiya-dici-novembre-2026/).
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
