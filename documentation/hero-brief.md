@@ -12,7 +12,7 @@ Each input line is one catalogue record: `slug`, `title`, `publisher`, `publishe
 - **Terse grammar.** A subtitle, not a sentence: drop articles and copulas, no terminal full stop. A semicolon, dash or comma series fits two facts.
 - **Complements the title, never repeats it.** The title says what the thing is called; the hero says what the reader gets by opening it: the figure, the date, the named party, the consequence.
 - **Plain text.** No bold, no `[[links]]`, no citations, no markdown.
-- **Only what the text says.** Every figure, name and date must be in `text`. Never add a fact from general knowledge. Where the text is thin, a shorter hero that says less is right; a guessed one is a defect.
+- **Only what the text says.** Every figure, name and date must be in `text`. Never add a fact from general knowledge, never compute a figure from others (sums, compounded rates), and never make one more precise than the text ("$330bn" stays "$330bn"). Where the text is thin, a shorter hero that says less is right; a guessed one is a defect.
 - **About the document, never about the record.** A `note` often mixes a summary with the vault's handling: how it was captured, stubs, duplicates, replacements, `cite_through`, date sources. A hero uses the summary only. "Stub", "captured", "held elsewhere" in a hero is a defect (R28 sample: 1 of 200).
 - **English even when the source is not**, with names kept as the source writes them.
 - **Every record gets one.** A directory page, an undated reference page, a dataset landing page still has something a reader gets: say what it lists or covers.

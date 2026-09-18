@@ -111,7 +111,7 @@ def problems(hero: str, title: str) -> list:
 
 def check(a) -> int:
     recs = records()
-    bad, n, seen = 0, 0, set()
+    bad, n, seen, verify = 0, 0, set(), []
     with open(a.file, encoding="utf-8") as fh:
         for i, line in enumerate(fh, 1):
             if not line.strip():
@@ -138,8 +138,27 @@ def check(a) -> int:
             if why:
                 bad += 1
                 print(f"line {i} {slug}: {'; '.join(why)}\n    {hero}")
-    print(f"hero-batch check: {n} line(s), {bad} with problems")
+            elif slug in recs and unsourced(hero, slug, recs[slug]):
+                verify.append(f"line {i} {slug}: {unsourced(hero, slug, recs[slug])}\n    {hero}")
+    if verify:
+        print(f"\n{len(verify)} hero(es) carry a figure whose digits are not in the source text. "
+              "Most are translations ('21 mil') or roundings, but not all: batch 01 had 13 "
+              "of 48 invented, computed or over-precise. Read every one:")
+        print("\n".join(verify))
+    print(f"hero-batch check: {n} line(s), {bad} with problems, {len(verify)} figure(s) to verify")
     return 1 if bad else 0
+
+
+def unsourced(hero: str, slug: str, rec) -> str:
+    """The first figure in `hero` whose digits appear nowhere in the text it was written from."""
+    fm, body = rec
+    text = f"{fm.get('title') or ''} {fm.get('note') or body[:BODY_CHARS]} {slug}"
+    digits = re.sub(r"\D", "", text)
+    for fig in re.findall(r"\d[\d,.]*", hero):
+        core = re.sub(r"\D", "", fig)
+        if len(core) >= 2 and core not in digits:
+            return fig
+    return ""
 
 
 def main() -> int:
