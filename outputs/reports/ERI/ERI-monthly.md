@@ -1,11 +1,11 @@
 ---
 title: Eritrea — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-18
+period: 2026-08-01 to 2026-09-18
 place: ERI
-ledger_rows: 10
+ledger_rows: 11
 not_held: 23
-record: 3a77341d23b4
+record: 185bf1af196e
 ---
 
 # Eritrea: monthly update, August – September 2026
@@ -24,6 +24,12 @@ Ten rows move in the month, and several of them establish an absence rather than
 
 <!-- narrative: governance--gov-policy -->
 The month adds the sector's policy furniture rather than a new instrument. A country profile lists the legal basis as [Communications Proclamation 102 of 1998, the Regulations on Telecommunications Networks and Services of the same year, and a 2003 proclamation establishing the state telecommunications corporation](http://web.archive.org/web/20260824175022/https://dig.watch/countries/eritrea), none of which the repository holds as text. The one sector-specific policy named anywhere is for education: an education profile last modified on 2 September records a [National Policy for ICT in Education, a 2018-2022 sector plan aiming at technology infrastructure and e-learning, and an initiative the ministry launched in January 2005](https://education-profiles.org/sub-saharan-africa/eritrea/~technology), and the sector plan itself states that incorporating technology remains difficult for want of facilities, equipment and teacher training. The profile carrying it is a legacy platform its publisher states is no longer updated. No national digital or ICT strategy appears at any date, so the sector is governed by three texts from 1998 and 2003 that nobody on this repository has read.
+<!-- /narrative -->
+### Legislation and regulation
+
+<!-- narrative: governance--gov-legislate -->
+
+The central bank tightened its hold on cash a second time. After the June order to deposit holdings by 31 July, Legal Notice No. 134/2026 of 9 September [caps the cash an individual may keep beyond 15 days at 25,000 nakfa, and private institutions at 50,000, 100,000 or 150,000 nakfa by grade, in force on publication](https://martinplaut.com/2026/09/18/eritreas-new-cash-restrictions/). The notice is known through a human-rights group's statement rather than its own text, and that statement records no cash machines or cards and thin branch access outside the main towns. Neither what counts as an acceptable reason for holding more nor the penalty is defined.
 <!-- /narrative -->
 ### Data protection
 

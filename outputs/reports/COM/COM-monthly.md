@@ -3,9 +3,9 @@ title: Comoros — monthly update, August – September 2026
 compiled: 2026-09-18
 period: 2026-08-01 to 2026-09-18
 place: COM
-ledger_rows: 29
+ledger_rows: 30
 not_held: 24
-record: be3153a6f4e0
+record: 472069095e60
 ---
 
 # Comoros: monthly update, August – September 2026
@@ -30,6 +30,8 @@ And one set of standing positions the repository had simply never recorded - the
 ANADEN, the digital development agency, [held the first meeting of its board of directors on 27 July 2026 at the Hôtel Retaj in Moroni](https://alwatwan.net/societe/gouvernance-du-num%C3%A9rique-i-l%E2%80%99anaden-installe-son-conseil-d%E2%80%99administration-et-d%C3%A9voile-ses-priorit%C3%A9s.html), members having been named by decree n°26-075/PR of 11 June 2026. The board adopted its rules of procedure and elected Nourdine Mohamed of the Commissariat général au Plan as chair, Najwa Aichem Hissami Eddine of the Presidency of the Union as vice-chair and El Amine Souef of the ICT ministry as rapporteur. It then examined ANADEN's 2026 action plan, presented by director-general Said Mouinou Ahamada, who [framed the session as the institutional footing for delivery of the Stratégie Comores Numérique 2028](https://lagazettedescomores.com/société/l’anaden-élit-son-bureau-du-conseil-d’administration-.html) and called for tighter coordination between the state bodies represented on the board. The agency had operated without constituted governance organs since the decree naming the board was signed seven weeks earlier.
 
 A second strategy was validated in the same period, this one on data: government, private sector and civil society met the African Union development agency in Moroni on 24 and 25 August to [review and validate a national data governance strategy for 2027 to 2031 over five pillars - digital infrastructure, data governance, interoperability, value creation and data skills](https://www.nepad.org/news/lauda-nepad-sassocie-lunion-des-comores-pour-impulser-la-transformation-numerique). Validation at a workshop is not adoption: the text is not published and no adopting instrument, date, budget or responsible body is on record.
+
+In September the agency turned to measuring where it stands. It and UNDP [signed a memorandum on 16 September to run a national digital readiness assessment covering skills, connectivity, public services, regulation and the digital economy across the three islands](https://www.wearetech.africa/fr/fils/actualites/tech/transformation-numerique-les-comores-passent-a-l-evaluation), presented as a way to target the next investments under the 2028 strategy. No timetable or publication date is given.
 <!-- /narrative -->
 ### Standards
 

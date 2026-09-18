@@ -1,11 +1,11 @@
 ---
 title: Guinea-Bissau — monthly update, August – September 2026
-compiled: 2026-09-13
-period: 2026-08-01 to 2026-09-13
+compiled: 2026-09-18
+period: 2026-08-01 to 2026-09-18
 place: GNB
-ledger_rows: 6
+ledger_rows: 7
 not_held: 2
-record: e8131354fb96
+record: 21730df0cd11
 ---
 
 # Guinea-Bissau: monthly update, August – September 2026
@@ -24,6 +24,15 @@ Two rows moved, one of them a decree that had been waiting a year. On 8 August t
 
 <!-- narrative: governance--gov-policy -->
 The national digitalisation programme [launched nationally in August, at US$60m, covering connectivity, data protection, the digital economy and electronic government](https://ang.gw/ministro-dos-transportes-e-economia-digital-considera-digitalizacao-como-um-dos-pilares-fundamentais-para-garantir-servicos-publicos-eficazes/). It is the delivery vehicle the 2025-2030 strategy has lacked, and it arrives with a fund plan behind it: the [2026-2031 strategic and financing plan for the universal access fund](https://wardip.gw/plano-estrategico-do-fundo-de-acesso-e-servicos-universais-2026-2031-consultoria-salience-2025/), delivered in May after a review recommended restructuring the fund itself.
+<!-- /narrative -->
+
+## ICT Infrastructure
+
+### Connectivity
+
+<!-- narrative: ict-infrastructure--infra-connect -->
+
+The satellite operator's licence stayed provisional. The regulator [extended Starlink's provisional general authorisation to 31 December 2026 by Despacho 15/CA/ARN/2026 of 14 September](https://arn.gw/comunicado-arn-tic/), to keep the service running while the definitive general-authorisation regime is put in place. The service has been live since June 2025, and no subscriber count or tariff has been published.
 <!-- /narrative -->
 
 ## DPI
