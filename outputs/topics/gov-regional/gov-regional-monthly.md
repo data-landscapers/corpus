@@ -4,7 +4,7 @@ compiled: 2026-09-18
 period: 2026-08-01 to 2026-09-18
 subject: gov.regional
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COG; CIV; COD; EGY; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZWE
-record: 4bb19ba9ff97
+record: f8adbf032dd5
 ---
 
 # Regional collaboration: monthly update, August – September 2026
@@ -146,6 +146,8 @@ Four lighter engagements ran alongside. Cabinet approved a memorandum on informa
 
 On 30 July a Nigerien technical mission led by the interior ministry's secretary-general was [received in Ouagadougou to study Burkina Faso's identification machinery](https://www.journalduniger.com/niger-burkina-cooperation-identite-numerique-biometrie/) — the civil-status modernisation directorate, the national identification office, the ICT agency and the WURI project. The delegation covered civil registration, migration, the digital agency, territorial surveillance, biometric-card production, the interior ministry's legal service and the ICT and finance ministries, and reported recommendations on issuing authentic documents and limiting document fraud.
 
+The confederation's communication regulators [opened a constitutive conference in Niamey on 17 September for a joint platform, framed around informational sovereignty and a common strategy against disinformation, with artificially generated content among the stated concerns](https://anp.ne/aes-creation-a-niamey-dune-plateforme-des-regulateurs-des-medias-et-communication-de-lespace-communautaire/). No charter, secretariat or powers have been published.
+
 ## Nigeria
 
 Ministers adopted an Abuja declaration on meaningful connectivity.
@@ -190,6 +192,8 @@ The one regional move in the window is a pledge without a workplan. On 12 August
 
 South Sudan and Uganda [signed a memorandum in Juba for real-time epidemiological data sharing, mutual outbreak notification and joint surveillance at the border](https://www.radiotamazuj.org/en/news/article/south-sudan-uganda-sign-agreement-on-cross-border-health-security), with no platform named.
 
+The revenue authority [signed a third customs memorandum with Uganda's, the first to cover digital interoperability and enforcement of Uganda's electronic permit system](https://jubaechotv.com.ss/south-sudan-uganda-sign-mou-to-strengthen-customs-cooperation/), on the corridor that carries most of the country's imports. No systems link or timetable is published.
+
 ## Tanzania
 
 Tanzania was the one being studied this month. A Somali government delegation [examined the labour and employment digital systems in Dodoma on 28 August](https://www.kazi.go.tz/news/somalia-yakoshwa-na-mifumo-ya-kidijitali-sekta-ya-kazi-na-ajira), and Somalia is [seeking to learn from the wider public-service digitalisation experience](https://dailynews.co.tz/somalia-eyes-tanzanias-e-governance-model/). Both accounts are the host's. Nothing in the record held sets out what is to be transferred, on what terms, or whether either side has committed anything beyond a visit.
@@ -205,6 +209,8 @@ Tunisia chairs and convenes rather than signs. It [was elected chair of the Arab
 ## Uganda
 
 Uganda and South Sudan [signed a memorandum in Juba on 7 September for real-time epidemiological data sharing, mutual outbreak notification, joint surveillance and harmonised screening at border crossings](https://www.radiotamazuj.org/en/news/article/south-sudan-uganda-sign-agreement-on-cross-border-health-security). No data platform, legal safeguard or budget is named.
+
+The revenue authority [signed a third customs memorandum with South Sudan's, the first to cover digital interoperability and enforcement of Uganda's electronic permit system](https://jubaechotv.com.ss/south-sudan-uganda-sign-mou-to-strengthen-customs-cooperation/).
 
 ## Zimbabwe
 

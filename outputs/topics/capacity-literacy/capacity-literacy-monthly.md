@@ -3,15 +3,13 @@ title: Literacy — monthly update, August – September 2026
 compiled: 2026-09-18
 period: 2026-08-01 to 2026-09-18
 subject: capacity.literacy
-places: AGO; COM; COD; EGY; GHA; KEN; LBR; MDG; MOZ; RWA; SEN; SSD; TZA; TGO; ZMB
-record: 80302adb6370
+places: AGO; COM; COD; EGY; GHA; KEN; LBR; MDG; MOZ; RWA; SEN; SLE; SSD; TZA; TGO; ZMB
+record: dd6b129aa2ce
 ---
 
 # Literacy: monthly update, August – September 2026
 
-*15 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+*16 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Angola
 
@@ -64,6 +62,10 @@ The online-safety half of literacy was taught to the adults rather than the chil
 Connectivity is being aimed at classrooms. The education ministry [plans to connect more than 8,000 primary schools to the internet through Starlink](https://techgriot.co/english/africa/2026/08/senegal-to-connect-8000-primary-schools-via-starlink/). Satellite is the route because terrestrial reach is the constraint, and a plan of that size would change what the Digital Schools programme can assume. Nothing in the record held names a school connected, a cost or a funding source.
 
 The civil service plan cleared validation on 10 September, [setting role-graded digital competences for state employees in data, information systems, AI and cybersecurity](https://www.wearetech.africa/fr/fils/actualites/tech/senegal-un-plan-national-de-formation-pour-adapter-l-administration-a-l-ere-numerique), with no target population, budget or start date published.
+
+## Sierra Leone
+
+The information minister [launched a National AI and Deepfake Sensitization Campaign on 16 September with the communications ministry and the science and technology directorate](https://nationalistsl.com/2026/09/information-minister-launches-national-ai-deepfake-sensitization-campaign/), under the theme of misinformation and the country's information future. No audience, duration or budget is stated.
 
 ## South Sudan
 

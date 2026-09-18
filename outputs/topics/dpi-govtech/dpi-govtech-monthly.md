@@ -4,7 +4,7 @@ compiled: 2026-09-18
 period: 2026-08-01 to 2026-09-18
 subject: dpi.govtech
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: a55e51c95510
+record: c941b590b8b4
 ---
 
 # Other GovTech and e-Gov: monthly update, August – September 2026
@@ -29,6 +29,8 @@ The state fuel distributor [made its e-Mahata platform the single window for ord
 
 The national portal grew by count. The high commission [put it at 150 services on 9 September, against 21 at launch, when three water-sector services went live](https://algerie54.dz/hydraulique-lancement-de-trois-nouveaux-services-via-le-portail-national-des-services-numeriques), alongside [five tax certificates and attestations](https://elwatan.dz/dzair-digital-services-impots-integration-de-cinq-nouveaux-services-numeriques/). The same week the president [ordered the investor single window effectively in service by the end of September and all investment procedures digitised with the tax, state-property and customs administrations](https://elwatan.dz/le-president-tebboune-ordonne-lacceleration-de-la-numerisation-mise-en-service-du-guichet-unique-fin-septembre/).
 
+The national portal kept adding services by sector in mid-September: [seven youth-sector services, among them a unified platform for youth facilities](https://www.algerie360.com/la-jeunesse-algerienne-dispose-enfin-de-son-portail-numerique-dedie/), and [the sports ministry's job service](https://algeriebrevesnews.dz/dzair-digital-services-integration-du-service-wadhifati-relevant-du-secteur-des-sports/). No updated total was given.
+
 ## Angola
 
 The government-systems movement in the window is a procurement decision rather than a build. The executive [authorised an integrated digital transformation programme for the public finances by presidential order, as a direct award, covering modernisation of finance ministry services and a restructuring of state bodies and framed as raising revenue collection and cutting bureaucracy](https://correiokianda.info/executivo-preve-gastar-cerca-mais-de-2-mil-milhoes-de-kwanzas-para-digitalizar-financas-publicas/). What a direct award removes is the part of the record a reader could check: the supplier, the scope document and the delivery schedule are all unpublished, so the programme enters the ledger as an intention with a price attached and nothing behind it. Against that, the one government system already in service produced its first operating figures: the tax authority reported on 23 August that [51,245 large taxpayers and state suppliers had joined electronic invoicing since November 2025, issuing 36,341,801 invoices at a daily run-rate near 400,000 and peaking around 700,000, through 255 automatically certified software packages](https://angop.ao/en/noticias/economia/mais-de-50-mil-contribuintes-aderem-a-facturacao-electronica-em-angola/). The figures are the collector's own and the mandate reaches general and simplified-regime taxpayers only in 2027, so this is the compliant half of the repository rather than the repository.
@@ -40,6 +42,8 @@ The in-person counterpart to the missing online service inventory does publish n
 ## Benin
 
 The University of Abomey-Calavi [made its ACTIA platform the sole channel for academic records, by a rectorate note of 31 July 2026](https://fraternite.bj/universite-dabomey-calavi-les-demandes-dactes-academiques-passent-desormais-par-la-plateforme-actia/). Closing the counter is what makes a platform load-bearing, and it is also the point at which anyone unable to use it stops being served; no alternative route for that case is stated.
+
+[UnivServices.bj went live for the 2026-2027 academic year at four public universities](https://chic-infos.com/benin-univservices-bj-centralise-les-services-destines-aux-etudiants/), with transport its first service and catering, housing and health announced to follow.
 
 ## Botswana
 
@@ -103,6 +107,8 @@ September gave the programme a shortlist. A national prioritisation workshop clo
 
 The prioritisation workshop's second day produced something more consequential than the list. The nine working groups, sitting on different sectors, [converged on the same diagnosis — procedures still largely manual — and on the same answer: shared public infrastructure rather than nine separate builds, with a national single sign-on tied to the population register and the national identification number, 47 of the 49 bodies invited attending](https://afriksoir.net/transformation-numerique-les-neuf-groupes-de-travail-saccordent-sur-des-infrastructures-publiques-communes/). That is a design decision arrived at by the departments who would have to use it, which is a different thing from one imposed on them.
 
+The administration's electronic signature reached local government: the civil service ministry [enrolled Marcory's mayor and secretary-general in the system on 15 September, letting them sign administrative documents from any location](https://techafricanews.com/2026/09/18/cote-divoire-expands-electronic-signature-paperless-administration/). No count of enrolled officials is published.
+
 ## Djibouti
 
 On 2 August 2026 the Secrétariat général du Gouvernement and UNDP [signed a letter of accord to digitise the SGG's paper archives](https://www.lanation.dj/djibouti-entre-dans-lere-des-archives-numeriques-le-sgg-et-le-pnud-unissent-leurs-forces-pour-dematerialiser-la-memoire-de-letat/) — indexing, scanning, capacity building for national teams, and secure backup at the ANSIE data centre. [It follows a state-funded programme running since 2023 which the parties report has transferred several thousand archive boxes to the National Archives and produced over 200,000 secured digital files for the Presidency](https://www.lanation.dj/djibouti-entre-dans-lere-des-archives-numeriques-le-sgg-et-le-pnud-unissent-leurs-forces-pour-dematerialiser-la-memoire-de-letat/). From September 2026 it extends to the audit and integrity institutions — the Chambre des Comptes, the two financial inspectorates, the anti-corruption commission, the public accounts directorate and the human-rights commission. The accord's text, value and duration are not stated.
@@ -110,6 +116,8 @@ On 2 August 2026 the Secrétariat général du Gouvernement and UNDP [signed a l
 ## DR Congo
 
 The month's only movement in government platforms was a procurement, and not the state's own: Belgium's development agency [opened a tender on 1 August for artificial-intelligence modules to be built into the national employment agency's platform](https://www.enabel.be/app/uploads/2026/08/COD22022-10116-CSC_PUB-1.pdf), for job matching aimed at youth unemployment, with offers due on 7 September. No contract value, award or delivery date is on record, and the digital government platform it would sit beside remains at Planned with its target already missed.
+
+The foreign trade minister told the WTO Public Forum in Geneva that [93 of the 98 documents required for foreign-trade operations are now paperless, with the remaining five due by the end of 2026](https://desknews.cd/2026/09/17/rdc-julien-paluku-vante-la-dematerialisation-des-procedures-commerciales-pour-lutter-contre-la-corruption/). The figure is the government's own and no independent count is held.
 
 ## Egypt
 
@@ -141,6 +149,8 @@ A GITGE study of the ministries, [reported on 2 July](https://ecofinge.com/un-es
 
 The state's auditor put artificial intelligence at the centre of its own next four years. The Auditor-General [launched a strategic plan for 2026 to 2030 naming artificial intelligence and digital transformation as the route to stronger public-sector accountability, urging more than 80 audit officers to adopt them](https://techafricanews.com/2026/08/17/eswatini-auditor-general-urges-oag-staff-to-embrace-ai-and-digital-transformation/), developed with the INTOSAI Development Initiative and the African organisation of English-speaking supreme audit institutions. The plan text is not held, and no tool, data access, assurance standard or safeguard for audit use of artificial intelligence is stated — in a country whose national artificial-intelligence strategy is recorded as ***Not held***.
 
+The prime minister [publicly acknowledged the e-Visa platform failing on reliability, payment processing and turnaround, worst at peak periods, with no manual fallback while it is fixed](https://eswatinipositivenews.online/pm-calls-for-disruption-to-fix-tourism-bottlenecks/); tourism operators at the same conference described five-day waits.
+
 ## Ethiopia
 
 The unified public-service platform launched with [185 services against 41 across twelve federal agencies a year earlier](https://techreviewafrica.com/news/5997/ethiopia-launches-unified-mesob-platform-to-accelerate-national-digital-transformation), anchored on the national identity credential. An account of 13 August puts the platform at [more than 2,200 services](https://www.biometricupdate.com/202608/benin-draws-lessons-from-ethiopia-to-shape-its-dpi-development-roadmap), on the occasion of a Beninese benchmarking visit; the repository cannot reconcile that with the launch count two months earlier and the two may rest on different counting bases. Its own regional executives say [services are being onboarded before the systems beneath them are digitised](https://birrmetrics.com/mesob-meets-the-monster-it-was-built-to-kill/), that two incompatible integration models have emerged, that no legal framework compels an institution to digitise before joining, and that the platform ran close to a year with no dedicated regulatory framework. Separately the Auditor General's annual report, presented on 6 July, [credits electronic procurement with the decline in cash shortages across 163 audited federal institutions](https://www.ofag.gov.et/ofag/the-office-of-the-federal-auditor-general-presents-its-annual-audit-report-to-the-house-of-peoples-representatives/) while finding budget-execution gaps, billions of Birr uncollected and repeated financial-rule violations alongside the digital adoption. No Birr amount is attached to the credit, and the report itself is not held.
@@ -168,6 +178,8 @@ The paper record gained a contract. The ministry said on 7 September that a cont
 The revenue side gained a plan on 12 August. A [Korean-backed Tax Modernisation Master Plan covering income tax, value-added tax, tax administration and electronic tax administration was set out](https://www.graphic.com.gh/business/business-news/ghana-korea-unveil-master-plan-for-tax-modernisation.html), with artificial intelligence already in service on customs valuation. No cost, timetable or implementation schedule accompanies it, which puts it a stage behind the customs system it is presented alongside.
 
 Two systems moved in opposite directions in the same week. The online passport application service [went down on 25 August, the foreign ministry confirming a technical fault the same day and naming no cause and no restoration date](https://www.graphic.com.gh/news/general-news/ghana-passport-online-portal-down-over-technical-problem.html). The accountant-general's department, meanwhile, [will suspend from 15 September the salaries of government employees whose national identity details are missing from or do not match the payroll system, ahead of a nationwide re-verification exercise](https://www.myjoyonline.com/government-workers-without-valid-nia-details-risk-salary-suspension-from-september-15/), the directive prompted by discrepancies surfaced when the upgraded payslip system left some employees unable to open their payslips.
+
+The Rent Control Department's acting commissioner [called for an investigation into a digitisation programme on which US$1.7m was reportedly spent, having found four computers at the facility](https://www.adomonline.com/heads-must-roll-there-is-nothing-to-show-for-npps-1-7m-digitisation-rent-control-boss/). No audit finding is held.
 
 ## Guinea
 
@@ -199,6 +211,8 @@ Cargo seals left state hands. The revenue authority [approved 15 private vendors
 ## Lesotho
 
 At the launch of the national response team the ministry [also stated a plan to move ICT services out of the civil service into a separate agency](https://www.gov.ls/ict/ministry-of-information-communications-science-technology-and-innovation-launched-lescomcsirt-and-inaugural-national-cybersecurity-forum/). No enabling instrument, budget, staffing or date accompanies it, so the plan is on record and the agency is not.
+
+The data blueprint opened in July reached validation in September. A national workshop in Maseru with Smart Africa and GIZ [validated the draft Data Value Creation Blueprint, the first country to do so, reviewing its vision, pillars, use cases and a diagnostic that calls the country's data landscape emerging but fragmented](https://lestimes.com/?p=91596). Validation is not adoption, and the text is not published.
 
 ## Liberia
 
@@ -270,6 +284,8 @@ The ombudsman's 2025 annual report, presented on 23 July, gives the counterpoint
 One portal went the other way. The Court of Cassation's site [has been down for more than a week with no official explanation](https://www.alnahar.ma/121842.html), on a bar-association lawyer's account, at a point where the courts increasingly expect rulings to be tracked online. No court or ministry statement is held.
 
 Filing a candidacy became an online act. The interior ministry [made the elections portal the compulsory route for candidacy declarations to the 23 September legislative elections, closing it at noon on 8 September](https://assabah.ma/947667.html). No filing count, fallback for candidates without access or support arrangement is stated.
+
+The digital transition ministry [launched a new version of the national Idarati portal on 18 September, with its e-services as a single access point to administrations' digital services](https://www.mmsp.gov.ma/fr/actualites/idarati-vers-une-administration-plus-proche-proactive-et-centr%C3%A9e-sur-le-citoyen). The ministry gives no count of services or users.
 
 ## Mozambique
 

@@ -3,13 +3,13 @@ title: Open data — monthly update, August – September 2026
 compiled: 2026-09-18
 period: 2026-08-01 to 2026-09-18
 subject: data.open
-places: BEN; BFA; CPV; TCD; COM; DJI; COD; GAB; GMB; GHA; GIN; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NGA; SEN; SOM; TZA; TUN; ZWE
-record: eb8e798bea75
+places: BEN; BFA; CPV; TCD; COM; DJI; COD; SWZ; GAB; GMB; GHA; GIN; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NGA; SEN; SOM; TZA; TUN; ZMB; ZWE
+record: 8c6caad70cdc
 ---
 
 # Open data: monthly update, August – September 2026
 
-*25 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*27 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -42,6 +42,10 @@ The account of the archive programme published on 3 August also [establishes tha
 The month's one open-data movement came from the central bank rather than from the state's open-data policy, which the repository still does not hold. The bank [relaunched its website on 14 August as a public economic-data portal carrying exchange rates, inflation, interest rates, statistics and indicators, with a currency converter and a search facility](https://numerico.cd/2026/08/17/la-bcc-a-desormais-un-site-internet-2-0-new-look-plus-fonctionnel), its governor framing the site as part of a reform whose stated objectives include digitalising payments and automating control processes. It is a publication channel rather than a data release: no machine-readable download, licence or update schedule is stated, and the national data governance strategy remains **Not held**.
 
 The gap the open-data portal does not cover was named from outside government. The national academy of sciences [called for a national policy on the management and security of environmental data, setting the absence against an observing network that carried more than 125 synoptic weather stations and 400 hydrometric stations in the 1960s, few of which still work](https://acp.cd/science-sante-environnement/rdc-alerte-sur-lurgence-delaborer-une-politique-de-gestion-des-donnees-environnementales/). It is an academic call rather than a government commitment: no draft, sponsoring ministry or timetable exists, and the station counts are the study's own historical figures — which is itself the finding, since nothing more recent is published.
+
+## Eswatini
+
+Two public dashboards were [launched at Ezulwini on 18 September, bringing economic, trade, investment and business-environment indicators and export-market information into one place with links to International Trade Centre tools](https://eswatinipositivenews.online/new-trade-dashboards-open-global-markets-for-eswatini/), with European Union support. No data licence or update schedule is stated.
 
 ## Gabon
 
@@ -121,6 +125,10 @@ An external assessment found the country [not meeting the minimum fiscal transpa
 The national public data registry [is confirmed live and enabling citizen data requests, in an independent reporting-mechanism report on the country's open-government commitments](https://www.opengovpartnership.org/documents/tunisia-results-report-2023-2025/). Confirmation by an external reviewer is a stronger record than a launch announcement, and no dataset count, request volume or response-time figure accompanies it.
 
 Where the state does not count, others do: a civil-society organisation [announced a femicide data platform for launch on 12 August](https://www.wearetech.africa/fr/fils/actualites/tech/tunisie-aswat-nissa-lancera-mercredi-une-plateforme-pour-recenser-les-feminicides). No official series on the same subject is held.
+
+## Zambia
+
+The finance ministry, the statistics agency and UNICEF [launched a national research repository bringing research and evaluations held in hard copy or scattered across institutions onto one platform](https://efficacynews.africa/2026/09/17/finance-ministry-zamstats-and-unicef-launch-national-research-repository/). No holdings count or licence terms are stated.
 
 ## Zimbabwe
 

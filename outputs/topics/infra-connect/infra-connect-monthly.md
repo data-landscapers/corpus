@@ -3,13 +3,13 @@ title: Connectivity — monthly update, August – September 2026
 compiled: 2026-09-18
 period: 2026-08-01 to 2026-09-18
 subject: infra.connect
-places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 290bc9539dfc
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 938a131fffe4
 ---
 
 # Connectivity: monthly update, August – September 2026
 
-*47 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*50 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -35,6 +35,8 @@ The western corridor did produce a Botswana segment. Alongside the Kasane memora
 
 Domestic access moved on a much smaller scale. The backbone company [completed its 2025/26 local access projects at P43m, taking fibre to Moshupa, Ramotswa/Taung and Thamaga and connecting 191 customers — 68, 66 and 57 across the three — with 210 construction jobs](https://techafricanews.com/2026/08/14/bofinet-completes-p43m-fibre-project-connects-three-botswana-villages/). The customer count is the operator's own and is a count of connections, not of premises passed.
 
+The mobile side put a figure and a date on the next generation. The incumbent operator [committed more than P240 million for 2026/27, targeting commercial 5G in strategic areas of the capital for October 2026 before an accelerated rollout to other cities and key villages, with 599 mobile-site capacity upgrades in the programme](https://www.itweb.africa/article/btc-steps-into-botswanas-5g-race/KWEBbvyLb2RqmRjO). It is a commitment and a target, with no coverage obligation or spectrum award attached. The starting point is a fourth-generation network the same private census calls near-universal and names among the country's competitive advantages, alongside extensive fibre and growing data-centre capacity ([census](/catalogue/#q=2026-08-03-botswana-startup-ecosystem-report-2026)); the coverage figure itself is a private compilation's, not a regulator return, and the progress report carries it.
+
 ## Burkina Faso
 
 Coverage is to be bought in towers. A plan reported this month puts [800 towers up, 250 through the digital transformation acceleration project and 550 through the universal access and service fund, to connect 1,000 white-zone localities by 2027](https://www.datacenterdynamics.com/en/news/burkina-faso-govt-to-build-800-telecom-towers-to-plug-coverage-gaps/); the regulator's own figures put attacks on telecommunications infrastructure at 106 in 2022 against 11 in 2019, which is the condition the towers are going up in.
@@ -55,6 +57,8 @@ International capacity moved for the first time in the record: Tanzania's state 
 
 The regulator's director-general said the [preparatory work for 5G is practically complete but set no date for commercial launch](https://www.businessincameroon.com/telecom/2608-16620-cameroon-says-5g-groundwork-nearly-complete-with-more-operator-investment-needed), calling for more operator investment. A regulator saying the groundwork is done while naming no date is the whole of the position: no spectrum award, coverage obligation or licence term is on file.
 
+The state operator [took delivery of a second shipment of equipment from China for 245 new mobile sites, which would take its declared network from 473 to 718, weighted to rural and district areas](https://www.businessincameroon.com/telecom/1809-16779-camtel-plans-245-new-mobile-sites-to-narrow-network-gap-with-rivals). No cost or completion date is stated.
+
 ## Cape Verde
 
 The regulator's quarterly market series, which had stopped at the second quarter of 2025 in this repository, resumed on 5 August with the [first-quarter 2026 report: 588,603 active SIM cards at 113.9% penetration, down 0.8% on the quarter, and 511,702 internet access subscriptions, up 1% on the quarter and down 4% on the year](https://www.arme.cv/index.php/noticia-geral/1392-arme-publica-relatorio-indicadores-estatisticos-das-comunicacoes-eletronicas-1o-trimestre-de-2026). [The composition of internet access moved rather than its level — mobile broadband subscriptions fell 16.4% year on year while fixed broadband rose 12.9%, and 86% of subscriptions are still delivered over mobile broadband on a small screen](https://www.arme.cv/index.php/noticia-geral/1392-arme-publica-relatorio-indicadores-estatisticos-das-comunicacoes-eletronicas-1o-trimestre-de-2026). [Market shares by internet subscription are CVTelecom 72%, Unitel T+ 27.3% and Starlink 0.64%, the satellite operator up 0.20 percentage points on the quarter](https://www.arme.cv/index.php/noticia-geral/1392-arme-publica-relatorio-indicadores-estatisticos-das-comunicacoes-eletronicas-1o-trimestre-de-2026). The series carries no breakdown by island or municipality.
@@ -62,6 +66,10 @@ The regulator's quarterly market series, which had stopped at the second quarter
 ## Central African Republic
 
 The country's dependence on one neighbour was examined. A published assessment [set out the options for reaching submarine cable capacity other than through Cameroon](https://www.camerounlink.com/news/2026/9/1/acces-aux-cables-sous-marins-quelles-options-pour-la-centrafrique-au-dela-du-cameroun-156491/). For a landlocked country, the transit route is the bandwidth constraint. The assessment names alternatives; the record held carries no route secured, no agreement signed and no capacity figure.
+
+## Chad
+
+The ministry measured the backbone's shortfall. Meeting the World Bank's resident representative on 15 September, the minister [put the remaining need at about 8,000 km of fibre for a full national mesh, with six provinces still unconnected](https://www.agenceecofin.com/actualites-numerique/1709-141662-infrastructure-numerique-le-tchad-a-encore-besoin-de-8000-km-de-fibre-optique). The ministry's own May review had [counted 1,275 km deployed](https://www.digitalbusiness.africa/pmice-le-tchad-accelere-les-verifications-autour-du-data-center-et-des-infrastructures-numeriques/).
 
 ## Comoros
 
@@ -159,6 +167,10 @@ Facebook, YouTube and TikTok became inaccessible on 28 July 2026. The Associatio
 
 The restriction [disrupted business operations and online services](https://wadr.org/guinea-social-media-restrictions-disrupt-businesses/), and was [still running on 7 August, outside any electoral period or declared crisis](https://www.jeuneafrique.com/1830582/politique/guinee-des-reseaux-sociaux-coupes-alors-que-mamadi-doumbouya-est-a-letranger/), with WhatsApp also disrupted and VPN traffic passing.
 
+## Guinea-Bissau
+
+The satellite operator's licence stayed provisional. The regulator [extended Starlink's provisional general authorisation to 31 December 2026 by Despacho 15/CA/ARN/2026 of 14 September](https://arn.gw/comunicado-arn-tic/), to keep the service running while the definitive general-authorisation regime is put in place. The service has been live since June 2025, and no subscriber count or tariff has been published.
+
 ## Kenya
 
 The Communications Authority introduced a [Communications Equipment Distributor licence](https://itweb.africa/article/kenya-introduces-telecom-equipment-licence/6GxRKMYQZbWMb3Wj) by public notice on 21 July 2026, mandatory before equipment type approval and customs clearance, with penalties of KSh 1m or three years.
@@ -244,11 +256,15 @@ The incumbent operator's ownership is in play. The government has [formed a tech
 
 The ministry put numbers on how far the connecting has got and how far it is meant to go: [149 localities and 418 schools connected, against a target of at least 300 localities, up to 4,000 schools and around 10,000 new 4G and 5G access points](https://www.agenceecofin.com/actualites-numerique/1808-140924-inclusion-numerique-le-mozambique-veut-connecter-300-localites-aux-services-telecoms). Both ends are the ministry's own and no completion date is given, which leaves a target without a deadline against a rural access rate the regulator itself puts at a quarter of the urban one. On 5G, [a provincial-capital deadline of June 2027 is attached to the spectrum licences](https://www.diarioeconomico.co.mz/2026/08/25/trends/telecom/mercado-financas-5g-em-todas-as-capitais-provinciais-ate-junho-de-2027/).
 
+The regulator answered complaints about data bundles. It [said it is building a tariff management system, due to operate in November 2026, to compare operators' packages, identify the effective price including validity, and stop data running out before a bundle's stated expiry](https://www.incm.gov.mz/2026/09/17/comunicado-incm-desenvolve-sistema-para-maior-transparencia-nas-tarifas-e-pacotes-de-dados/), and that it is restructuring packages in parallel. No rule or sanction has been published yet.
+
 ## Namibia
 
 Spectrum is being taken back rather than added. Operators [were instructed to retire their 2G and 3G networks and refarm the spectrum, with one suggesting smartphone subsidies before the shutdown](https://www.namibiansun.com/local-news/mtc-suggests-smartphone-subsidies-before-2g-3g-shutdown-nmh015578-1-19462). A shutdown without a device programme moves the cost of the transition onto the users least able to carry it, and no date, subsidy or handset count is on the record.
 
 The largest mobile operator said it [will put N$624.9 million into telecommunications infrastructure in the 2025/26 financial year](https://www.namibiansun.com/mw-main/mtc-puts-n6249m-into-networks-NMH016998-3015-20874) — a stated commitment rather than a delivered figure.
+
+The regulator's April-June bulletin [records active mobile subscriber modules up 2 per cent to about 2.79 million, mobile broadband up 2 per cent and fixed broadband up 1 per cent, with about N$243m invested in networks](https://neweralive.na/cyber-threats-rise-57-despite-ict-sector-growth/). Modules count connections, not people.
 
 ## Niger
 
@@ -290,6 +306,10 @@ The legacy-network retirement plan the ministry announced on 28 July fixes third
 
 The cross-border route got its operator's own description as the peering forum met in Kigali: [a 2,000km protected corridor from Goma to Mombasa connecting Kigali, Kampala and Nairobi, inside a network the operator puts across sixteen African countries](https://paratus.africa/blog/paratus-rwanda-rings-in-afpif-2026/). Both figures are the operator's own. The [2,000-kilometre Goma-to-Mombasa terrestrial route through Kigali, Kampala and Nairobi was announced live and carrying traffic on 9 September](https://techtrendske.co.ke/2026/09/09/paratus-expands-east-africa-connectivity-itw-africa/), with access to subsea capacity at Mombasa.
 
+## Sao Tome and Principe
+
+An independent index put a number on how fragile the connection is. The Internet Society [scores the country's internet resilience at 33 out of 100, below the Middle Africa average of 38 and the Africa average of 44](https://pulse.internetsociety.org/en/resilience/ST), across infrastructure, market readiness, performance and security. It is the first such score the repository holds for the country.
+
 ## Senegal
 
 The exchange point at Dakar is the month's measurable position: it carries [260 Gbps of member port capacity across six member networks, all six having joined within the preceding twelve months and none having left](https://pulse.internetsociety.org/en/ixp-tracker/ixp/1594/). The figures are registry self-declarations rather than measured traffic. The older [association-run exchange is constituted with its registered office at the telecommunications ministry](https://www.senix.sn/statuts.html) and names no members, traffic or operating site.
@@ -323,6 +343,8 @@ The British-funded community network programme launched in August put figures on
 Prices rose and the numbers behind them did not appear. The information minister [publicly defended the telecommunications tariff increase on 24 August](https://www.radiotamazuj.org/en/news/article/information-minister-ateny-defends-telecom-tariff-increase); the regulator maintains it is a revision of the exchange rate used to calculate charges rather than a tariff increase, and neither regulator nor operators have published the revised rates. A cost defended without a price is a position the repository can record and a reader cannot check.
 
 Regionally, East African states [opened a joint bank account to fund a feasibility study for a communications satellite, with deposits due by 30 September 2026](https://chimpreports.com/east-african-states-open-bank-account-to-fund-joint-communications-satellite-study/). No contribution figure for this country, study scope or reporting date is stated.
+
+The Kenya-facing fibre route moved from plans to procurement. Under the World Bank regional digital project, the ministry [invited international bids on 10 September for fibre deployment on Route A-B, from Juba to Nadapal](https://tenderportal.ppdaa.gov.ss/sites/default/files/2026-09/Stamped%20SPN%20for%20deployment.pdf), [about 397 km, with bids closing on 26 October 2026](https://southsudanpress.com/analysis-south-sudan-fibre-juba-nadapal-procurement.html). It is the first route of the [announced 2,400 km programme](https://techafricanews.com/2025/10/09/south-sudan-announces-2400-km-fiber-optic-network-to-strengthen-digital-infrastructure/) to be tendered, and no construction date is set.
 
 ## Sudan
 

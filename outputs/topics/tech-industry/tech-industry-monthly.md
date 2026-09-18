@@ -4,14 +4,12 @@ compiled: 2026-09-18
 period: 2026-08-01 to 2026-09-18
 subject: tech.industry
 places: DZA; AGO; BWA; EGY; GNQ; SWZ; GAB; GHA; KEN; MUS; MAR; MOZ; NER; NGA; SEN; ZAF; SDN; TZA; TGO; UGA; ZMB; ZWE
-record: 36ede9c5ec29
+record: 32cafad2a00b
 ---
 
 # ICT Industry: monthly update, August – September 2026
 
 *22 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 

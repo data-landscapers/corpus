@@ -4,7 +4,7 @@ compiled: 2026-09-18
 period: 2026-08-01 to 2026-09-18
 subject: finance.new
 places: AGO; BEN; BFA; CMR; CAF; TCD; COG; CIV; DJI; COD; EGY; SWZ; ETH; GHA; KEN; MWI; MUS; MAR; MOZ; NER; NGA; RWA; SEN; ZAF; TZA; ZMB; ZWE
-record: ee5de5937347
+record: d378f86bf7f0
 ---
 
 # New investments: monthly update, August – September 2026
@@ -89,6 +89,8 @@ On 4 August the development lender committed [US$24.2m across three Kenyan lende
 
 
 On the lending side, a guarantee structure was announced on 5 August: [a catalytic first-loss guarantee of US$24.2m across three Kenyan transactions, backed by US$11m of concessional financing, expected to catalyse about US$144.4m of local-currency lending to small and medium enterprises](https://www.4g-capital.com/post/4g-capital-partners-with-ifc-to-expand-financing-for-kenya-s-micro-and-small-businesses). The catalysed figure is an expectation rather than a disbursement. One of the three counterparties [reports having disbursed more than US$1bn cumulatively over thirteen years to micro and small businesses without collateral or financial records, underwriting on its own model rather than credit files](https://techcabal.com/2026/08/28/4g-capital/) — a lifetime total given in a profile, with no outstanding book, default rate or borrower count beside it.
+
+The World Bank's digital acceleration project was reviewed on 14 September: [more than 62,000 teachers trained and more than 5,000 smart boards distributed, reaching nearly 100,000 students, with disbursement delays raised](https://www.ecofinagency.com/news-digital/1509-58912-kenya-world-bank-take-stock-of-digital-economy-project-kdeap-s-gains-and-challenges). The operation closes in October 2028.
 
 ## Malawi
 

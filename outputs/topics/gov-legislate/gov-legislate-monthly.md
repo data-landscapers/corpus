@@ -3,13 +3,13 @@ title: Legislation and regulation — monthly update, August – September 2026
 compiled: 2026-09-18
 period: 2026-08-01 to 2026-09-18
 subject: gov.legislate
-places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; TCD; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; UGA; ZMB; ZWE
-record: ebbfd6f2e02f
+places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; TCD; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; UGA; ZMB; ZWE
+record: 5d3946594f62
 ---
 
 # Legislation and regulation: monthly update, August – September 2026
 
-*43 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*44 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -93,6 +93,12 @@ The full text of the 2024 social media and computer crime law reached the reposi
 
 The press bill cleared the lower house: [the Chamber of Deputies unanimously approved on 11 September the bill replacing the 1997 press law, which covered no digital journalism](https://www.guineaecuatorialpress.com/index.php/noticias/la_camara_de_los_diputados_ha_aprobado_tres_proyectos_de_leyes_presentados_por_el_gobierno).
 
+The 2024 social-media and computer-crime law was used in court for the first time on the public record. On 16 September lawyers for the vice-president [lodged four criminal complaints at a Malabo investigating court against a digital newspaper's journalist and three others under articles 2, 50 and 60](https://www.guineaecuatorialpress.com/noticias/el_despacho_que_representa_a_se_nguema_obiang_mangue_explica_las_acciones_contra_diadario_rombe_y_otras_tres_personas), using article 2 to reach conduct committed outside the country. The complaints came while Facebook and TikTok remained blocked.
+
+## Eritrea
+
+The central bank tightened its hold on cash a second time. After the June order to deposit holdings by 31 July, Legal Notice No. 134/2026 of 9 September [caps the cash an individual may keep beyond 15 days at 25,000 nakfa, and private institutions at 50,000, 100,000 or 150,000 nakfa by grade, in force on publication](https://martinplaut.com/2026/09/18/eritreas-new-cash-restrictions/). The notice is known through a human-rights group's statement rather than its own text, and that statement records no cash machines or cards and thin branch access outside the main towns. Neither what counts as an acceptable reason for holding more nor the penalty is defined.
+
 ## Eswatini
 
 In the same 4 August answer, the ICT ministry said it had completed the Online Media Publishing Guidelines 2026, introducing a registration requirement for online publishers bound to accuracy, privacy protection, child safeguarding and the responsible use of AI. Neither the text nor a commencement date is public.
@@ -122,6 +128,8 @@ Gabon also [brought non-resident digital platforms within Value Added Tax and th
 An Act already in force showed what passing one is worth on its own: the press union reported on 7 August that [most public institutions have yet to appoint the information officers the Access to Information Act requires, and that twenty-one-day requests go unanswered](https://www.voicegambia.com/gpu-says-access-to-information-law-yet-to-be-fully-implemented/). No government response, compliance count or enforcement action is on record. The Communications Bill 2025, meanwhile, stayed in committee. Two Assembly committees [met the Press Union and the Media Council on 18 July 2026](https://thepoint.gm/africa/gambia/national-news/lawmakers-engaged-over-communication-bill); the Union set out the media laws it wants repealed alongside the bill, and members said they could take stakeholder views into committee but not debate it publicly.
 
 A second instrument was validated on [31 July 2026: the State Intelligence Service Bill](https://thepoint.gm/africa/gambia/headlines/sis-validates-bill-to-reposition-as-robust-futuristic-intelligence-service), at a workshop attended by the National Security Adviser, the Chief of Defence Staff, the Assembly's defence committee and civil society. The Adviser said the draft prohibits torture, unlawful detention and political targeting, requires judicial warrants and oversight for intrusive measures, and gives the Assembly review of the Service's budgets. Its threat frame is cybercrime, espionage, disinformation and organised crime, so it is where Gambian communications interception would sit. The text is not held, the Bill has not been tabled, and it does not appear in the Assembly's bills library, checked 2026-08-08.
+
+The National Assembly [committed the Competition and Consumer Protection Commission Bill 2026 after its second reading on 15 September](https://mansabanko.gm/parliament-commits-bill-to-prohibit-anti-competitive-practices/). It would replace the 2007 competition and 2014 consumer protection Acts with a single independent commission.
 
 ## Ghana
 
@@ -188,6 +196,8 @@ And on [30 July the ICT minister committed to Electronic Transactions Act amendm
 The primary text of the [Data Protection Officer Regulations 2026](https://mitci.govmu.org/mitci/wp-content/uploads/2026/06/117_The-Data-Protection_Designation-Tasks-and-Position-of-Data-Protection-Officers_Reg.pdf) is now held, as Government Notice No. 117 of 2026 made under the Data Protection Act.
 
 A third bill was set out in public rather than in print. The ICT minister said the [Road Traffic (Amendment) Bill would make the digital driving licence an official electronic version equivalent to the traditional one and let holders settle fixed traffic penalties at any court and, above all, online](https://lexpress.mu/s/avinash-ramtohul-batir-un-avenir-ou-les-services-publics-suivent-levolution-technologique-562186), putting the affected population at more than 800,000 licence holders and saying the licence depends on interconnecting transport services, law enforcement and public administration. The Bill text is not held and no enactment or commencement date is stated.
+
+The 2025 law on electronic transferable records was used for the first time. A commercial bank [took five electronic bills of exchange from a trading group, created in under 30 minutes and transferred in under an hour](https://tradetreasurypayments.com/articles/exclusive-africa-s-first-electronic-bill-of-exchange-goes-live-under-mauritian-law), under the Finance Act 2025 amendment that made Mauritius the first African jurisdiction to adopt the UNCITRAL model law on the subject.
 
 ## Morocco
 
@@ -302,6 +312,8 @@ The month's legislating was about commercial justice and civil status rather tha
 Three instruments sit at three stages and none is in force in the window. The Protection of Sovereignty Bill 2026 [carries a central bank technical assessment to joint committees](https://www.newvision.co.ug/category/news/bou-governor-atingi-ego-say-sovereignty-bill-NV_232814_052026), with enactment reported but unconfirmed. The regulator's order suspending public internet [is discontinued, full restoration having been announced in January](https://pulse.internetsociety.org/documents/48/UCC_directive_Talkio.pdf). And the finance ministry [stated at a retreat with parliamentary committees that digital lending platforms will be regulated](https://www.monitor.co.ug/uganda/news/national/govt-moves-to-tighten-regulation-of-digital-lenders-as-financial-inclusion-rises-5561784), naming no bill, instrument or date.
 
 January’s shutdown directive reached the record in its own words. A newspaper [republished the Uganda Communications Commission text in full on 7 September](https://www.newvision.co.ug/category/news/uganda-communications-commission-explains-int-NV_226210_092026): made on the Inter-Agency Security Committee’s recommendation, it suspended public internet access, the sale and registration of new SIM cards and outbound data roaming to One Network Area countries across mobile, fibre, leased line, fixed wireless, microwave and satellite; ordered operators to disable mobile VPN services and block any public bypass; whitelisted an exclusion list covering national referral hospital systems, core banking and clearing, tax and government payment gateways, immigration, electoral commission portals, voter verification and result tabulation, utilities, air traffic control and railway signalling; required incident reporting within 30 minutes; and required any operator unable to comply to shut down its entire internet infrastructure, on pain of fines or licence suspension. The directive the repository held was a scanned PDF with no text layer.
+
+Digital lending came before Parliament's accountability committee. The central bank governor [said on 14 September that the bank will investigate claims that the mobile money operators it supervises helped digital lenders take repayments from the wallets of people who never guaranteed the loans](https://kikubolane.com/2026/09/15/ugandas-central-bank-to-probe-claims-mobile-money-users-are-paying-off-strangers-loans/); [both large operators denied deducting money without consent and asked the communications regulator to block unlicensed lending apps](https://pmldaily.com/news/2026/09/mtn-airtel-deny-deducting-customers-money-without-consent.html).
 
 ## Zambia
 

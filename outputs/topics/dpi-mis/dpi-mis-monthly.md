@@ -4,7 +4,7 @@ compiled: 2026-09-18
 period: 2026-08-01 to 2026-09-18
 subject: dpi.mis
 places: DZA; AGO; BEN; BWA; BDI; CMR; CPV; CAF; COM; COG; CIV; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 79d6816d77f9
+record: 38d8858fa087
 ---
 
 # Sectoral management information systems (HMIS, EMIS, etc.): monthly update, August – September 2026
@@ -27,13 +27,15 @@ The education ministry and a domestic technology firm [expanded their work on th
 
 The research and education network is funded rather than only presented: [US$15m within the tertiary education project to establish it and upgrade university networks, with the draft network recorded as under way in the lender's April 2026 implementation report](https://c2a.portais.gov.ao/uploads/26pad_english_test_p179154_mpa_phase_1_gpe_qar_answered_74704772466e18d05d13fd_9552e1cf64.pdf). No operator, governance model, connection count or commissioning date is published, so what has moved is the money rather than the network.
 
+Customs control got its own procurement in September. A presidential order of 14 September [authorised about AOA 90.5bn, some US$98m, in two lots by direct award for a customs supervision project covering centralised supervision, automated inspection and data analysis](https://poligrafoafrica.com/fact-check/joao-lourenco-aprova-ajuste-directo-de-quase-100-milhoes-usd-para-projecto-de-controlo-aduaneiro/), and delegated the contract to the finance minister. The order names no supplier and no timetable, and does not say how the project relates to the logistics single window announced in July.
+
 ## Benin
 
 The tax directorate's information-system modernisation surfaced in the window only because its funder republished the project sheet. The EUR 2m project [runs from 9 August 2023 to 31 December 2026](https://www.expertisefrance.fr/fr/projets/projet-dappui-la-modernisation-des-systemes-dinformation-pamsi-de-la-dgi-du-benin), which puts it four months from its stated end. What the sheet does not carry is any statement of what has been delivered — no module, no milestone, no completion status — so the repository can date the project and price it, and cannot say whether it is finishing or merely ending.
 
 ## Botswana
 
-The health ministry [signed a ten-year strategic partnership with a foreign health-systems operator](https://m42.ae/media-resources/news/m42-enters-africa-with-10-year-health-systems-partnership-to-strengthen-botswanas-health-sector/). The announcement is the counterparty's; no contract value, list of systems, data-handling terms or governance arrangement is published, so a ten-year commitment sits on the ledger with nothing describing what it obliges either side to do.
+The health ministry [signed a ten-year strategic partnership with the operator of Abu Dhabi's health information exchange on 22 August](https://oncodaily.com/voices/ministry-of-health-botswana-572024), covering pharmaceutical and medical supply and opening cooperation on digital health transformation, genomics, precision medicine and capacity development. The fuller account is [the counterparty's own](https://m42.ae/media-resources/news/m42-enters-africa-with-10-year-health-systems-partnership-to-strengthen-botswanas-health-sector/), which adds a national genomics programme. No contract value, list of systems, data-handling term or governance arrangement is published, so a ten-year commitment over health data sits on the ledger with nothing describing what it obliges either side to do.
 
 ## Burundi
 
@@ -81,6 +83,8 @@ Remote justice arrived with a price list. The justice ministry's [E-Court platfo
 
 Remote criminal hearings opened to lawyers at a price. The justice ministry's platform [listed EGP 500 a year for felony hearings and EGP 100 for detention renewals](https://www.shorouknews.com/news/view.aspx?cdate=08092026&id=bdee860b-5577-416e-be32-2bf2085c6952), lawyers [asked the Administrative Judiciary Court to annul the fees as not set by statute](https://www.safha1.com/15703), and the ministry [replied that use is optional and was requested by the bar](https://www.youm7.com/story/2026/9/14/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B9%D8%AF%D9%84-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D8%B6%D9%8A-%D8%B9%D9%86-%D8%A8%D8%B9%D8%AF-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D9%8B%D8%A7-%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A6%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF/7546339).
 
+The finance ministry [began surveying road-freight companies at land ports to link them to Nafeza, the single window already used for sea and air cargo](https://enterpriseam.com/logistics/2026/09/14/egypts-govt-is-bringing-overland-freight-into-nafeza-for-the-first-time-closing-a-gap-in-trade-digitization/), with consolidated land bills of lading and pre-arrival cargo data planned. The account rests on unnamed officials, and no timetable is set.
+
 ## Equatorial Guinea
 
 Two sectoral systems moved, both at the design stage. A ministerial workshop [agreed to build a single import-valuation database and to bring an automated customs valuation module into service](https://lagdeguinea.com/gobierno-refuerza-el-control-aduanero-y-agiliza-reformas-economicas/), and the universal health insurance technical committee [presented the national health accounts for 2021 to 2023](https://www.guineaecuatorialpress.com/noticias/el_comite_tecnico_multisectorial_del_seguro_medico_universal_presenta_las_cuentas_nacionales_de_salud_2021-2023). Neither carries a supplier, a cost or a date. What the customs agreement replaces, and how valuation is done now, is not stated in the record held.
@@ -111,6 +115,8 @@ One sectoral system was assessed rather than built. A Danish-funded gap assessme
 
 The health insurer [described electronic claims, biometric member verification and one-time attendance codes as in operation, with active membership at 70% in August 2026 against an 80% year-end target](https://theoverseeronline.com/victor-bampoe-2-3/), its own account with no claims or rejection figures.
 
+The education ministry [said more than 6,000 of 8,000 complaints against this year's computerised school placements had been resolved](https://onuaonline.com/cssps-over-6000-of-8000-complaints-resolved-sept-18-reopening-date-unchanged/), with reopening left at 18 September.
+
 ## Guinea
 
 Health information systems here are being built by private operators rather than by the ministry. A Guinean academy's [Visa Medical hospital-digitisation model is deployed in 19 Guinean hospitals with more than a million users on a self-financed basis, and is being extended to Chad, the Democratic Republic of the Congo and Morocco](https://guineenews.org/2026/08/13/financer-la-digitalisation-des-hopitaux-sans-endetter-letat-le-pari-reussi-dune-healthtech-guineenne-devenue-panafricaine/). Separately, a Guinea-based physician's platform [coordinates blood donation and blood-bank logistics across West Africa](http://www.wearetech.africa/en/fils-uk/tech-stars/esdras-azanmassou-builds-a-connected-network-for-safer-blood-donation), founded in 2022 to stop units expiring at one facility while another is short. Both are private; the figures are their own, and neither account states a ministry relationship, a patient-data protection arrangement or any interoperability with the national health information system, which remains In development.
@@ -128,6 +134,8 @@ An academic review published on 5 August put the child-protection case system on
 The claims platform was quantified from the settlement end for the first time. The health ministry and the counties jointly put [settlement at 78% across all 47 counties with KSh 159.3bn paid, and reconciliation and sign-off completed for legacy insurance-fund claims](https://www.health.go.ke/national-and-county-governments-strengthen-coordination-health-reforms), at an intergovernmental budget council session on 31 August. It is their own joint figure, published without a denominator, an ageing profile or a rejection breakdown — and it is not on the same basis as the authorisation failures still being reported at facility counters, which nothing in the session retracts.
 
 The education register failed its first money test. The principal secretary [told the Public Accounts Committee in late August that the latest capitation round used neither the new system nor its predecessor but manually verified data, because the new system is incomplete](https://techweez.com/2026/09/09/the-nemis-to-kemis-dilemma/); schools reported failed logins and unsaved submissions during the Grade 10 selection it was required for, and MPs had already flagged KES 103.99bn paid against unverified numbers on the old one.
+
+The health authority [made a functioning electronic medical records system a condition of provider contracts for the cycle opening 1 October and running to June 2029, with onboarding only through its central digital platform](https://tukio.co.ke/sha-sets-out-requirements-for-healthcare-providers-seeking-new-contracts/).
 
 ## Lesotho
 
@@ -153,6 +161,8 @@ Two internal systems are close to the point where they carry real work. The auto
 
 Three health systems reached the record in the same window and none of them carries a coverage figure. The national health information system [publishes its own description — case detection, the launch of interventions to prevent transmission and reduce morbidity, and the surveillance behind them](https://snisi.sante.gov.ml/about), running under a health and social information strategic plan for 2020-2024 whose period has expired and a national digital health plan for 2024-2028. The health insurance fund and the bodies it delegates management to [signed contracts towards universal coverage in July 2026](http://www.canam.ml/index.php/actualite), after digitising prior authorisation in May. And the revenue directorate [opened three options for filing declarations and depositing financial statements](https://bamada.net/mali-la-direction-generale-des-impots-ouvre-trois-options-pour-la-declaration-fiscale-et-le-depot-des-etats-financiers) in April 2026. No enrolment, claims volume or filing share is published for any of the three.
 
+The education ministry [validated the specification and mock-up of a portal to manage teacher postings and attendance](https://malijet.com/education_et_formation_au_mali/311884-education-le-mali-digitalise-la-gestion-de-la-mobilite-des.html), under a project funded by the European Union and run by NGOs. No build contract or launch date is stated.
+
 ## Mauritius
 
 Two sector information systems sit at opposite ends of the same problem this window. A validation workshop [endorsed a proposal for a national Fisheries Information System, for submission under a multilateral fisheries fund's project-implementation grant window](https://lexpress.mu/node/561717) — a system that does not exist yet and has no award behind it. Meanwhile the health estate shows what happens after a system is built: patients discharged from a national centre [were reported still looking for their medical records](https://ionnews.mu/lia-au-service-de-la-sante-des-patients-cherchent-toujours-leurs-dossiers-medicaux/), against a one-patient-one-record ambition. The repository holds no delivery figure for either.
@@ -172,6 +182,8 @@ Federal [HR and payroll](https://fmino.gov.ng/fg-launches-ippis-human-resource-m
 The federal payroll is to be audited from the outside. The President [directed the finance minister on 28 August to coordinate a forensic audit of the integrated personnel and payroll information system and related payroll, pension and financial-management platforms - reconciling ghost-worker figures, tracing how ineligible persons were enrolled, reviewing access, identity, biometric and bank-account controls, and examining the interfaces with the financial management system and the Treasury Single Account](https://www.thisdaylive.com/2026/08/29/fake-agencies-tinubu-orders-forensic-sweep-of-ippis-ministries-fg-institutions/), alongside a definitive inventory of every federal agency and its legal basis.
 
 The delivery end of the social-protection architecture failed its audit. The Auditor-General's 2024 report states that [the government could not provide auditors with sufficient evidence that ₦33.75bn of cash transfers intended for more than 3,295,207 vulnerable households reached genuine beneficiaries, the payment platform's statements not having been supplied](https://punchng.com/falana-serap-demand-probe-into-n33-75bn-cash-transfer/), and a civil-society organisation puts over ₦78.8bn across social protection programmes as diverted, unaccounted for or irregularly spent. The audit report itself is not held, and no response from the agencies named is on file — but the finding is about the same register and the same rail the unified architecture is being designed on top of.
+
+The health ministry [inaugurated the steering committee of a new office to coordinate, standardise and integrate health technology and data systems](https://health.gov.ng/fg-moves-to-accelerate-digital-health-transformation-with-national-health-technology-and-data-analytics-office/), charged with implementing the [national digital health architecture](https://www.digitalhealth.gov.ng/_files/ugd/83cfc4_4e435ffb27084421b62605872634624b.pdf). No staffing or budget is published.
 
 ## Rwanda
 
@@ -227,6 +239,8 @@ The state's own asset record is being enforced rather than built. The finance mi
 
 Community health work is being tied to the payment rail. Local government's ICT director [said a blueprint exists for community health worker systems, with a joint dashboard to track services and payments](https://dailynews.co.tz/tanzania-moves-to-integrate-primary-healthcares-digital-systems-to-boost-its-services-delivery/), built by local experts; the blueprint itself is not published.
 
+The planning ministry [presented e-Delivery as the system that will track every state development project from planning through funding to execution, with fund releases matched to what it records](https://dailynews.co.tz/govt-unveils-digital-system-to-track-projects/). No coverage figure or start date is given.
+
 ## Togo
 
 Togo put a [platform online centralising climate-risk data across agriculture, forestry, water resources, tourism and energy](https://www.togofirst.com/en/itc/2408-19852-togo-launches-platform-to-improve-climate-risk-monitoring). Drought and flood indicators are keyed by field agents and checked by sector and regional focal points before national consolidation, time-stamped to leave an audit trail; no launch date is given. The modules for a [National Malaria Data Repository were approved](https://www.togofirst.com/en/health/2608-19870-togo-launches-digital-platform-to-improve-malaria-response) after a training-of-trainers workshop, with no go-live date or facility coverage stated.
@@ -254,6 +268,8 @@ A private platform entered the health stack from outside it. A digital-health co
 The parish programme's system was audited short of its design. The Auditor-General [found two of seven pillar modules fully implemented, 178 of 13,253 parish tablets non-functional, 29 with ineligible users and none supported with internet connectivity](https://www.oag.go.ug/storage/megareports/THEPDM@THM2025.pdf), and in September one district [reported 31 of its 61 tablets dead and parishes back on manual records](https://chimpreports.com/alarm-raised-as-50-of-zombo-pdm-tablets-fail-to-function/).
 
 The tax stamps system published its scale: [more than 1,680 manufacturers and importers registered across 13 excisable products](https://nilepost.co.ug/business/370814/ura-lauds-manufacturers-on-dts-success), run for the revenue authority by SICPA since 2018.
+
+The parish model's reach was restated. An inter-ministerial meeting [put it at 3,571,108 beneficiaries against UGX 4.317 trillion capitalised through 10,589 parish SACCOs, lending up to UGX 1 million at 6 per cent a year](https://www.thekampalareport.com/latest/2026091868307/ugandas-parish-development-model-reaches-3-5-million-beneficiaries-with-1-1-billion-government-investment.html). The count is the government's own.
 
 ## Zambia
 

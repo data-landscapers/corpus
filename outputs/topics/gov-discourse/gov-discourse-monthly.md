@@ -3,13 +3,13 @@ title: Public debate and participation in policymaking — monthly update, Augus
 compiled: 2026-09-18
 period: 2026-08-01 to 2026-09-18
 subject: gov.discourse
-places: AGO; BEN; BFA; CMR; TCD; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; MWI; MLI; MUS; MAR; NAM; NER; NGA; SEN; SYC; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 9bfc9e44c5ed
+places: AGO; BEN; BFA; CMR; CAF; TCD; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; MWI; MLI; MUS; MAR; NAM; NER; NGA; SEN; SYC; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: f8c8f7b287d9
 ---
 
 # Public debate and participation in policymaking: monthly update, August – September 2026
 
-*37 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*38 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -32,6 +32,10 @@ The same organic law creating the merged communications and data-protection auth
 The state set itself a public venue for the question its record does not answer. The posts and telecommunications ministry is [hosting the 2026 national Internet Governance Forum in Yaounde from 18 to 20 August](https://afriqueitnews.com/crypto-et-web3/cameroun-fgi-2026-place-donnee-coeur-futurs-services-publics-numeriques/), on the theme of moving from fragmentation to interoperability and positioning data as the foundation of interoperable digital public infrastructure, with a plenary on a possible national data-governance strategic framework. The repository holds no government interoperability layer and no data-governance framework, so the plenary's subject is an absence rather than an instrument. What is held is a preview: no programme document, participant list or prior edition, and no outcome.
 
 The 2026 national Internet Governance Forum [met at the Palais des Congres in Yaounde from 18 to 20 August](https://techgriot.co/english/cameroon/2026/08/cameroons-fgi-2026-bet-on-data-to-connect-public-services/) under the theme of moving from fragmentation to interoperability and making data the backbone of public digital services. No resolution, communique or follow-up mechanism came out of it.
+
+## Central African Republic
+
+The government gave itself a unit to watch public debate. A presidential decree [created a communication-monitoring cell under the government spokesperson, with a permanent secretariat and three units, one dedicated to crisis communication, to monitoring national and international media and social networks, and to countering rumours](https://www.alwihdainfo.com/centrafrique-le-gouvernement-se-dote-dune-cellule-de-veille-communicationnelle-pour-contrer-les-rumeurs/). Its staff are to be appointed by decree in Council of Ministers. The decree as reported sets no safeguard on how the monitoring is used, and no budget is published.
 
 ## Chad
 
@@ -90,6 +94,8 @@ The same week the ministry took the governance argument outward and inward at on
 ## Guinea
 
 Neither the regulator ARPT, the operators nor the internet service providers issued an explanation for the social-media restriction, and the silence then had to cover more than a restriction: [a total two-hour national outage on 7 August, across mobile and fibre alike, was traced to the state landing-station operator, whose officials and the regulator both declined to explain it](https://lelynx.net/2026/08/internet-coupe-en-guinee-black-aout-total/). The precedent is on the record rather than inferred: under the post-coup transition a government spokesman owned a three-month digital cut and said that in Guinea the internet is not a right.
+
+The communication authority [banned France 24 with immediate effect on 17 September on every vector, satellite, cable, mobile applications, websites and social networks, withdrew its correspondents' accreditation and requisitioned the telecommunications regulator to enforce the ban](https://www.africaguinee.com/la-chaine-france-24-interdite-de-diffusion-en-guinee-larpt-et-canal-requisitionnes-par-la-hac/), citing an offence to the President.
 
 ## Kenya
 

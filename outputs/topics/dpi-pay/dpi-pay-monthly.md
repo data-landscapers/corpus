@@ -3,13 +3,13 @@ title: Digital Payments and Fintech — monthly update, August – September 202
 compiled: 2026-09-18
 period: 2026-08-01 to 2026-09-18
 subject: dpi.pay
-places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 911f02550a4b
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 6d5d4994cecc
 ---
 
 # Digital Payments and Fintech: monthly update, August – September 2026
 
-*45 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*46 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -20,6 +20,10 @@ The payments layer gained a governing body and a small number. A central bank re
 ## Angola
 
 A renminbi route opened for Angola-China trade: the largest private bank [signed a clearing memorandum with Bank of China on 8 September, giving it a renminbi clearing account and indirect access to China's cross-border interbank payment system](https://angop.ao/noticias/economia/bai-e-bank-of-china-assinam-acordo-para-pagamentos-transfronteiricos/). No volume or value is published.
+
+## Benin
+
+Online tax filing is spreading beyond the large taxpayers. The tax directorate [opens its declaration and payment platform to the small-business tax centres of Parakou from 21 September, Comè from 28 September and Lokossa from 5 October](https://beninwebtv.bj/benin-limpot-en-ligne-arrive-a-parakou-come-et-lokossa/).
 
 ## Botswana
 
@@ -47,9 +51,13 @@ The continental rail reached the monetary union without reaching its businesses.
 
 A domestic entrant arrived on 31 August. A Cameroonian technology company [launched a payments platform carrying transfers across mobile-money networks, wallet management, bill and airtime payment, payment links and developer interfaces, opening here with a stated ambition to reach other African markets](https://techafricanews.com/2026/08/31/looping-binary-launches-lbpay-digital-payments-cameroon/). It is a launch announcement on the company's own account: no user, merchant or transaction figure, licence or partner bank is named.
 
+A third mobile money provider [was licensed as a payment institution by finance ministry order of 21 July, announced on 17 September](https://www.agenceecofin.com/actualites-finance/1709-141667-cameroun-konoom-obtient-son-agrement-et-se-lance-sur-le-marche-du-paiement-mobile), into a market held by the two main operators. It has not yet launched.
+
 ## Cape Verde
 
 Complaints about bank fraud [rose from 10 in 2024 to 25 in 2025, a rise of 150 per cent](https://expressodasilhas.cv/economia/2026/08/17/reclamacoes-por-fraude-bancaria-aumentam-150-em-2025/104150), which the central bank attributes to the growing digitalisation of financial services and the security of digital channels. Fraud was the [second most complained-of matter after bank accounts, inside 278 complaints for the year, against which twenty-five supervision measures were adopted and CVE 3,154,582 was restituted to consumers](https://expressodasilhas.cv/economia/2026/08/17/reclamacoes-por-fraude-bancaria-aumentam-150-em-2025/104150). It is the first fraud series the repository holds, and two years is not yet a trend.
+
+Card traffic held steady through August. Residents [made 4,992,880 operations worth CVE 21,159.9m on the vinti4 network, 3,768,595 of them card purchases, 0.3 per cent fewer than in July](https://expressodasilhas.cv/economia/2026/09/14/quase-5-milhoes-de-operacoes-na-rede-vinti4-em-agosto/104611), on the central bank's monthly figures.
 
 ## Central African Republic
 
@@ -64,6 +72,8 @@ The 2027 budget orientations, reported 4 August, [restate](https://lendjampost.c
 On 29 July, at Douala, the BEAC and GIMAC [launched the CEMAC's interoperable QR-code payment standard](https://leconomie.info/article/paiement-numerique-le-gimac-officialise-la-norme-qr-code-interoperable-de-la-cemac), in force under a monetary-union regulation of 8 April 2026 across all six member states including Chad and letting any bank, mobile-money or microfinance account settle a purchase at any merchant's code, routed and settled through the regional switch. No Chadian bank, wallet or merchant deployment is on record: Chad is covered by the regulation rather than shown live.
 
 The electronic money market has more providers and no newer numbers. [Two further providers have joined the two mobile operators' services, and users report fees they consider high, with competition presented as the hope rather than the position, against 160,000 to 240,000 accounts over 2020 to 2022](https://tchadinfos.com/2026/09/04/monnaie-electronique-entre-engouement-frais-eleves-et-espoir-de-concurrence/). No current account count, transaction volume, tariff schedule or regulator series is published, so the market's growth is described and not measured.
+
+A September press account [places the 3,000 payment terminals in the revenue offices, with electronic invoicing compulsory under the 2026 finance law, and finds power cuts, thin provincial connectivity and agents' limited skills holding use back](https://lendjampost.com/tchad-la-digitalisation-de-ladministration-face-au-defi-de-lelectricite-et-de-la-connectivite/). No transaction count has been published.
 
 ## Comoros
 
@@ -90,6 +100,8 @@ Two things moved on the payment rails. The instant payment network [began credit
 The operator that builds the state's payment infrastructure also became a lender. On 13 August it [agreed the full acquisition of an Egyptian non-bank lender to small and medium firms](https://www.zawya.com/en/press-release/companies-news/efg-hermes-advises-efinance-on-strategic-acquisition-of-tamweely-financial-services-430407), extending its own infrastructure into direct lending. No consideration is disclosed in the records held, and neither states any separation between running government payment rails and holding a lending book that runs on them.
 
 Operator wallets kept growing faster than the gap closed: the telecom regulator [counted 57.01m in the first half of 2026, up 23% in a year, with 67% registered to men](https://www.youm7.com/story/2026/9/14/%D9%83%D9%8A%D9%81-%D8%BA%D9%8A%D8%B1%D8%AA-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9-%D8%B9%D8%A7%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%81%D8%B9-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1/7540929).
+
+The largest private bank's digital-bank venture, holding preliminary approval, [put its planned investment at up to US$300m ahead of a pilot for individual and diaspora customers](https://menastartupdigest.com/cib-backed-yomo-digital-bank-plans-egypt-launch-with-300m-investment/).
 
 ## Eswatini
 
@@ -139,6 +151,8 @@ Borrowers can [repay Hustler Fund loans in loyalty points from 23 July](https://
 
 The platforms Kenyans use to be paid changed their rules one after another over the past year: [an international payments provider imposed restrictions, a domestic dollar-banking service withdrew that product, a remittance operator paused its wallet and a streaming platform cut monetisation](https://techcabal.com/2026/09/08/the-platforms-that-help-kenyans-get-paid-are-changing-the-rules/). Four separate commercial decisions rather than a regulatory change; no user numbers, values or regulator response are held.
 
+The regulator's June-quarter return [put mobile money subscriptions at 54,005,800, up 1.2 per cent in the quarter, while more than 34,000 registered agents left the market](https://www.dawan.africa/news/kenya-mobile-money-accounts-hit-54-million-even-as-more-than-34000-agents-exit-the-market). Subscriptions count accounts, not people.
+
 ## Lesotho
 
 The national e-invoicing platform [went to nationwide rollout](https://snitechnology.net/lesotho-introduces-the-lekuka-national-e-invoicing-system/). Nationwide is the supplier's word: no taxpayer count, threshold, phase-in schedule or revenue-authority statement is held, so the repository can record that the platform is being introduced and not how far it has reached.
@@ -157,6 +171,8 @@ The central bank also put on record how the system was built. Its own account is
 Payments moved outward rather than inward. The central bank [is reported to be planning accession to China's cross-border interbank payment system after talks with the People's Bank of China](https://www.scmp.com/news/china/diplomacy/article/3364171/why-chinese-yuan-could-soon-be-africas-most-important-currency). The account is a foreign newspaper's: no Libyan statement, timetable or membership step is held, and nothing is said about what it would mean for settlement currency or correspondent banking.
 
 The central bank governor set out four things at once at a Tripoli conference on 7 September: a [link to the Arab regional payments platform, a study track on a central bank digital currency and stablecoins, a cyber-skills programme, and a pilot for accession to China's cross-border interbank system targeted at early 2027](https://libyaherald.com/2026/09/cbl-governor-issa-launches-several-initiatives-and-reviews-achievements-at-tripoli-arab-savings-and-financial-literacy-conference). None carries an instrument, budget, participant list or delivery date, and the transfer-value figure the same account reports is not taken into the repository.
+
+The central bank rewrote the wallet rules. [Circular 9/2026 replaces the 2017 instructions for licensed electronic-payment companies, setting daily limits for Libyans of LYD 100,000 person to person, 500,000 person to business and 2 million business to business, lower limits for foreigners, and opening wallets to lawful residents on a passport or residence document and a phone number in their name](https://bankawy.net/banks/mssrf-lebea-almrkze-edta-dtwabtd-jdedtt-llm/bankawy/). No count of wallets in use is published.
 
 ## Madagascar
 
@@ -230,6 +246,8 @@ The survey behind the country's headline inclusion figure entered the repository
 
 On the cross-border rail the operator reported [Nigeria–Rwanda volumes approaching and in places exceeding Nigeria–Ghana, corridors with Cameroon, Niger and Benin growing on trade in Nigerian goods, and church contributions remitted from elsewhere in Africa as a notable component of activity](https://nairametrics.com/2026/09/05/nigerian-churches-drive-rising-cross-border-payments-across-africa-papss-says/) — no volumes, values or period attached to any of it. In the other direction, [diaspora inflows held steady at US$21.8bn in 2025 on central bank figures, against an average 8.46% cost to send US$200 into the region and app-based rivals quoting 2–3% on the London–Lagos corridor](https://techtrends.africa/how-remittance-startups-are-undercutting-western-union-across-africa/).
 
+A new inclusion survey replaced the 2023 baseline. The 2026 round [puts digital financial services use at 64 per cent of adults from 47 per cent, mobile money at 38 per cent from 12 per cent, and exclusion at 21 per cent, with 53 per cent of the poorest fifth still excluded and 92 per cent of agricultural workers paid in cash](https://thenationonlineng.net/report-digital-finance-usage-hits-64/). At its launch the central bank said it had [completed its review of the third inclusion strategy and begun the fourth](https://www.premiumtimesng.com/business/business-news/910100-cbn-begins-work-on-new-financial-inclusion-strategy-targets-deeper-access.html), and the trade minister [inaugurated a steering committee for a strategy to let firms borrow against verified digital invoices](https://thesun.ng/fg-targets-cheap-loans-with-digital-invoices/).
+
 ## Rwanda
 
 Effective 14 July the central bank [designated one rail as the national instant payment system](https://itweb.africa/article/rwanda-migrates-retail-payments-to-ekash/rxP3jqBEnOoMA2ye) by directive, connecting 22 financial institutions bank to wallet to merchant in any direction, with a per-transaction ceiling. An interoperable bank-to-wallet transfer that could previously cost as much as RWF 5,000 now costs [a flat RWF 20 regardless of amount](https://african.business/2026/07/innov-africa-deals/rwanda-unifies-digital-payments-with-national-launch-of-ekash), about one US cent on the publisher's own conversion. The directive itself is not held.
@@ -284,6 +302,8 @@ The rail that already moves government money to people stopped moving it. On 4 A
 
 The payment outages ran on. [Intermittent failures of the dominant banking app and another e-payment service pushed traders back to cash](https://www.dabangasudan.org/en/all-news/article/bankak-outages-disrupt-sudans-digital-payments-and-markets) and [prompted a social-media campaign to withdraw funds and switch banks](https://akher-khabar.com/archives/63864). The finance ministry [signed a framework with 11 companies to supply portable electronic collection devices to state institutions](https://suda.news/51307).
 
+The gap between cash and app money drew an order from the other side of the war. The RSF commander [told traders in areas his forces hold to charge one price whether customers pay in cash or through banking applications such as Bankak, ending the premium on app payments](https://thesudantimes.com/sudan/dagalo-orders-unified-cash-digital-payment-prices-in-darfur/). In Khartoum, meanwhile, [converting app balances into banknotes cost 5 per cent at most shops and up to 10 per cent at some](https://www.sudanindependent.com/news/economic/2026/09/16/%D8%A3%D8%B2%D9%85%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%83%D8%A7%D8%B4-%D8%A8%D8%A7%D9%84%D8%AE%D8%B1%D8%B7%D9%88%D9%85-%D9%88%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9), amid a cash shortage and restricted banking applications.
+
 ## Tanzania
 
 The [mandatory electronic payments order came into operation on 1 July 2026](https://fbattorneys.co.tz/wp-content/uploads/2026/07/1784910470319-1.pdf). It is an order under the electronic transactions Act rather than regulations, as widely mis-reported; it is prospective only, businesses taking cash at commencement have until 1 January 2027 to comply, and cash remains legal tender.
@@ -310,6 +330,8 @@ Elsewhere a domestic financial-technology firm founded in 2024 [runs a single pl
 Certified electronic invoicing is not yet running. The revenue office [briefed about 50 firms on 10 September on a gradual rollout](https://www.togofirst.com/en/economic-governance/1409-20049-togo-s-tax-authority-employers-discuss-certified-e-invoicing-reform), and standardised paper invoices stay valid until launch.
 
 Public transport is next: [digital tickets are piloting on the state bus operator's student routes, with network rollout planned by the end of 2026](https://www.togofirst.com/en/transport/1509-20068-after-student-pilot-togo-plans-wider-rollout-of-digital-bus-ticketing).
+
+Online tax filing reached the smallest taxpayers. The revenue office [launched e-TPU on 17 September, letting small and micro enterprises, artisans and traders declare and pay the single business tax from a phone without visiting a tax centre](https://www.otr.tg/index.php/en/1619-la-plateforme-de-declaration-et-de-paiement-en-ligne-de-la-taxe-professionnelle-unique-e-tpu-officiellement-lancee.html). No uptake figure has been published yet.
 
 ## Tunisia
 
@@ -357,3 +379,5 @@ The quarter's own numbers came from the central bank rather than from a conferen
 
 
 Acceptance also widened from outside. A commercial bank and an international card scheme [opened online acceptance of that scheme's cards to participating merchants in nine African markets including Zimbabwe on 19 August](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/), settling in local currency, US dollars or both; the merchant count is given for the nine markets together and not for Zimbabwe.
+
+The World Bank [warned that the tax on intermediated money transfers discourages digital transactions, weakens intermediation and pushes activity toward cash](https://businesstimes.co.zw/world-bank-warns-zim-5/), as banks and businesses press for its abolition. No government response is recorded.

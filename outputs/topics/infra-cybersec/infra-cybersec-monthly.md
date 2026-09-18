@@ -4,14 +4,12 @@ compiled: 2026-09-18
 period: 2026-08-01 to 2026-09-18
 subject: infra.cybersec
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; TCD; COM; COG; CIV; SWZ; GAB; GHA; KEN; LSO; LBR; LBY; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: dac0a3674439
+record: 2adb971bd1fe
 ---
 
 # Cybersecurity: monthly update, August – September 2026
 
 *36 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -201,6 +199,10 @@ The state's answer to its own exposure is a training tender. The public service 
 Its own research estate showed what the exposure costs. The science minister told the National Assembly on 24 August that the late-May breach of the national supercomputer was caused by [vulnerabilities associated with the legacy high-performance computing system](https://www.itweb.co.za/article/cause-of-breach-on-sas-supercomputer-revealed/KPNG878NLeGq4mwD), with unauthorised access to parts of the environment and crypto-currency mining malware deployed, and that [ageing components are technically constrained or no longer fully supported by their original vendors](https://www.itweb.co.za/article/cause-of-breach-on-sas-supercomputer-revealed/KPNG878NLeGq4mwD). A [remediation and resilience programme covering access controls, privileged-access management, network segmentation, patch management and monitoring has since run, with forensic support and independent assurance from the council's own specialists](https://www.itweb.co.za/article/cause-of-breach-on-sas-supercomputer-revealed/KPNG878NLeGq4mwD). No cost, data-loss finding or outage duration is stated, and the account is the department's own — against the same centre having reached maximum capacity earlier in the month.
 
 One vendor carried three firms' exposure. A provider [that runs verification checks for Cell C, EasyEquities and Bidvest Bank reported a breach on 9 September](https://www.connectingafrica.com/cybersecurity/sa-s-cell-c-easyequities-and-bidvest-bank-warn-customers-of-data-leak).
+
+The June breach at an insurance-software supplier spread to its clients. After the supplier reportedly paid a ransom, [the attackers turned to extorting insurers directly](https://techcentral.co.za/hackers-extort-insurers-mip-ransom-hollard/286251/) and [dumped data allegedly taken from one insurer on the dark web, which a researcher confirmed was public](https://www.itweb.co.za/article/hollard-data-hits-dark-web-after-mip-hack/wbrpOqg2J5oMDLZn).
+
+Fake traffic-fine messages quoting motorists' correct number plates led the road traffic infringement agency [to consider investigating whether the national vehicle database had been accessed](https://www.itweb.co.za/article/inside-the-fake-aarto-fine-scam/DZQ58vV8BazMzXy2); the fines platform being impersonated says its own system was not breached.
 
 ## Sudan
 

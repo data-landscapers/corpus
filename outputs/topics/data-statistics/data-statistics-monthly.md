@@ -3,13 +3,13 @@ title: National statistics — monthly update, August – September 2026
 compiled: 2026-09-18
 period: 2026-08-01 to 2026-09-18
 subject: data.statistics
-places: BEN; BWA; BFA; BDI; CMR; CAF; TCD; COM; COG; COD; GNQ; SWZ; GAB; GHA; KEN; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; TGO; TUN; UGA; ZWE
-record: db37eb10c122
+places: BEN; BWA; BFA; BDI; CMR; CAF; TCD; COM; COG; COD; GNQ; SWZ; GAB; GHA; GIN; KEN; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; TGO; TUN; UGA; ZWE
+record: b3b69e64c17c
 ---
 
 # National statistics: monthly update, August – September 2026
 
-*34 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*35 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -20,6 +20,8 @@ A national agricultural census is under preparation with [Food and Agriculture O
 ## Botswana
 
 The statistics office and the national university [launched a second Statistics Development Strategy for 2026 to 2030 on 12 August](https://www.ub.bw/news/ub-joins-statistics-botswana-launch-second-bsds-2026-2030-strategy), framed as a roadmap to an agile and responsive statistical system and aligned to the twelfth national development plan. No budget, delivery milestone or indicator set is published with it.
+
+One absence in that system was dated this month. No gambling participation statistics are held as the country moves to lower the legal betting age, while an investigation reports [unregistered betting influencers drawing 4,000 to 15,000 responses to a single betting slip and directing followers to bookmakers through referral links](https://www.thegazette.news/news/weaving-the-slip/). The activity is documented and the population is not counted, which is the gap a statistical strategy would have to close.
 
 ## Burkina Faso
 
@@ -83,6 +85,10 @@ On 21 July an interministerial committee fixed the terms of a second census of e
 
 The statistical service [published the third wave of its six-monthly governance panel on 6 August](https://www.graphic.com.gh/news/politics/ghana-news-governance-reforms-yielding-results-but-remain-fragile-government-statistician.html), run across all sixteen regions, with the Government Statistician putting its findings to digital remedies — digitising public services and publishing official fees among them. The report text is not held. Separately the finance minister [asked the service to develop a methodology for quarterly employment statistics](https://www.myjoyonline.com/finance-minister-urges-gss-to-publish-quarterly-employment-rate-data/); none is published and no timetable is set.
 
+## Guinea
+
+The planning minister [launched the country's first general census of enterprises on 16 September, with two months of field collection in the Kindia pilot region](https://agpguinee.com/kindia-ins-le-rge-1-officiellement-lance-pour-cartographier-le-tissu-economique-guineen/). No national schedule, method or budget has been published.
+
 ## Kenya
 
 The communications regulator and the University of Nairobi began reviewing preliminary findings from a joint national survey on child online protection and safety on 9 September 2026, with the report structure and thematic areas agreed ahead of validation and the findings intended as the evidence base for regulatory interventions. Neither the sample size nor the fieldwork period is held.
@@ -94,6 +100,8 @@ The Bureau of Statistics [lists the strategy for 2022/23 to 2026/27 alongside th
 ## Libya
 
 On 5 August the Central Bank put [electronic transactions at LD 643 billion for the first seven months of 2026](https://libyaherald.com/2026/08/central-bank-source-to-libya-herald-cash-liquidity-to-reach-branches-sunday-withdrawal-limits-start-at-ld-3000-and-subject-to-increase), and forecast that they would exceed LD 1 trillion by the year's end.
+
+The information authority [met the information centres of the prime minister's office and several ministries in Tripoli on 14 September to agree how they supply indicators to a Unified Directory for National Indicators, and set the order for completing it](https://www.gia.gov.ly/en/2026/09/15/the-general-authority-for-information-continues-its-technical-meetings-to-follow-up-on-the-work-of-the-unified-directory-for-national-indicators-with-sectoral-information-centers/). The directory is not yet published.
 
 ## Madagascar
 
@@ -135,6 +143,8 @@ A state put a household survey at the centre of its budgeting. Katsina [launched
 
 The seventh demographic and health survey, collected between June and November 2025, [reached its final report in August 2026](https://dhsprogram.com/pubs/pdf/FR401/FR401.pdf) — 690 pages, almost entirely tables by design. The release notice in January had pointed to a signed press release rather than the report ([notice](https://statistics.gov.rw/node/805)), so the substantive document only entered the record this month. It joins a foreign private capital census of [424 enterprises at an 89.6 per cent response rate](https://statistics.gov.rw/data-sources/censuses/Foreign-Private-Capital-Census/foreign-private-capital-census-2025), reported in February.
 
+The higher education council said it is [building a national performance measurement framework to capture, digitise and publish standardised data on students, staff, research and graduate outcomes](https://taarifa.rw/2026/09/16/rwanda-building-data-driven-framework-to-measure-quality-of-higher-education/), having lacked comparable data across institutions. No publication date is set.
+
 ## Senegal
 
 An outside assessment put the statistical system at two speeds. An International Monetary Fund report [found macroeconomic statistics generally reliable while sector-specific statistical agencies are constrained by staffing and finance, and recommended a clearer coordination mandate for the statistics agency through a permanent inter-agency committee reconciling national accounts, public finance, debt, monetary and external-sector figures before publication](https://www.channelafrica.co.za/channelafrica/news/imf-calls-for-stronger-coordination-of-senegals-economic-data/), alongside broader public-debt reporting and steps toward the enhanced dissemination standard. The authorities accepted the recommendations under the 2024-2028 statistical strategy; nothing dated is published against any of them.
@@ -148,6 +158,8 @@ The statistical work of the window is climate data with a funding line behind it
 A second national collection was launched inside nine months. The [2026 Demographic and Health Survey was launched on 4 August](https://sierraleone.unfpa.org/en/news/united-nations-reaffirms-support-sierra-leone-officially-launches-2entity26-demographic-and), after the 2026 census in December. Neither carries a published enumeration date, budget or field methodology.
 
 The census has a date and a hole in its budget. The president [set Census Night for 1 December 2026 and put the financing gap at US$37m, against US$24m committed by government of which about US$15m is disbursed](https://statehouse.gov.sl/2026/09/11/sierra-leones-president-bio-calls-for-faster-development-delivery-stronger-coordination-at-depac-meeting/). The civil registration authority [put a draft 2025 vital statistics report to two days of stakeholder validation](https://sierraloaded.sl/news/ncra-validation-sierra-leones-statistics/).
+
+The census technical committee [received the national mapping completion report on 15 September](https://sierraloaded.sl/news/stats-sl-completes-mapping-of-census/), closing cartographic work for the country's first digital census ahead of Census Night on 1 December 2026.
 
 ## South Africa
 

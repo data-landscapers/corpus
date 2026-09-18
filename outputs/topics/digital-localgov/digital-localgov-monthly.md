@@ -4,7 +4,7 @@ compiled: 2026-09-18
 period: 2026-08-01 to 2026-09-18
 subject: digital.localgov
 places: AGO; BFA; BDI; CMR; TCD; GHA; GNB; LBY; MWI; MLI; NAM; NGA; RWA; SEN; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 8fee96f6c5db
+record: a013510ed31c
 ---
 
 # Digitalisation of sub-national government: monthly update, August – September 2026
@@ -68,6 +68,8 @@ Enugu [opened free digital storefronts, company-registration support, digital-tr
 Anambra began the second phase of its own state strategy, [expanding its OneGov platform to digitise government services and formalise small and medium enterprises](https://punchng.com/anambra-deepens-digital-push-targets-sme-formalisation/); the platform [logged about 14,000 visits over three weeks in July](https://punchng.com/anambra-deepens-digital-push-targets-sme-formalisation/) despite limited publicity. Visits are not registrations or transactions, and no service count, formalisation figure or cost is stated. A development agency separately [reaffirmed its support for the state's youth digital-skills programmes](https://von.gov.ng/undp-reaffirms-partnership-with-anambra-digital-economy/).
 
 One state measured its own agencies rather than announcing a platform. The Anambra ICT agency [assessed about 25 ministries, departments and agencies for digital compliance, data protection and readiness to deliver services digitally](https://von.gov.ng/anambra-assesses-25-mdas-for-digital-compliance/), reporting compliance with the 2023 data protection Act as uncertain in some of them and records management uneven. No scoring method, agency list or published report is held.
+
+[A UK-funded programme of state-level digital policy and institutional reform was inaugurated in Abia on 17 September](https://www.primepost.ng/2026/09/17/uk-inaugurates-spriret-initiative-in-abia-to-accelerate-digital-transformation/), run by a Nigerian NGO and starting from a baseline report on the state.
 
 ## Rwanda
 

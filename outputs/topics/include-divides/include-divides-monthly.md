@@ -3,13 +3,13 @@ title: Digital divides — monthly update, August – September 2026
 compiled: 2026-09-18
 period: 2026-08-01 to 2026-09-18
 subject: include.divides
-places: AGO; BWA; BDI; COD; EGY; SWZ; GMB; GHA; GNB; KEN; MWI; MAR; MOZ; NER; NGA; RWA; SEN; ZAF; UGA
-record: b2a15dd5f7bf
+places: AGO; BWA; BDI; COD; EGY; SWZ; GMB; GHA; GNB; KEN; MWI; MAR; MOZ; NER; NGA; RWA; SEN; ZAF; UGA; ZMB
+record: 9985cd6a38c6
 ---
 
 # Digital divides: monthly update, August – September 2026
 
-*19 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*20 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -108,3 +108,9 @@ Two measurements of the divide moved in opposite directions. Official household 
 A tower company [remitted UGX 20.9 billion to the universal service fund](https://techafricanews.com/2026/08/05/atc-uganda-contributes-ugx-20-9-billion-to-advance-digital-inclusion/), its statutory 2% of gross annual revenue, at a handover reported on 31 July. [The regulator's executive director stated at the same event that half of that 2% goes to the Consolidated Fund and only half is retained to finance the fund, and put cumulative programme reach at laboratories in more than 1,000 public secondary schools](https://techafricanews.com/2026/08/05/atc-uganda-contributes-ugx-20-9-billion-to-advance-digital-inclusion/). The period the payment covers was not published.
 
 Money went the other way as well. An implementing partner's account of 12 August reports that [work on connectivity and digital inclusion in Uganda slowed or stopped after the American aid wind-down of 2025, in which 83% of the agency's programmes were cut](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html), the multi-funder Women in the Digital Economy Fund losing its American component while the parts other funders backed continued. What is described as lost is the convening as much as the money. No replacement funder is named and no Ugandan figure is given.
+
+In the north, [a community broadband network built by a women's ICT organisation is in technical testing across 12 sites in Oyam district, with market traders already using it](https://observer.ug/technology/free-internet-access-excites-traders-in-oyam-market/). No user count or model for sustaining it is stated.
+
+## Zambia
+
+A three-year programme run by the presidential delivery unit with private partners [will connect an initial 70 public schools by satellite, adding solar power where schools are off the grid](https://efficacynews.africa/2026/09/18/70-zambian-public-schools-to-receive-starlink-connectivity-under-three-year-programme/). No cost or school list is stated.

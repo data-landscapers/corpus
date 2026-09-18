@@ -4,14 +4,12 @@ compiled: 2026-09-18
 period: 2026-08-01 to 2026-09-18
 subject: capacity.research
 places: CAF; COM; COG; CIV; COD; EGY; ETH; GHA; KEN; LBY; MAR; MOZ; NER; RWA; SLE; ZAF; TZA; UGA; ZWE
-record: 53c617f7326e
+record: 51af1467b413
 ---
 
 # Research institutions: monthly update, August – September 2026
 
 *19 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
 
 ## Central African Republic
 

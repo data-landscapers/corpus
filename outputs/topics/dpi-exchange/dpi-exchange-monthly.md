@@ -4,7 +4,7 @@ compiled: 2026-09-18
 period: 2026-08-01 to 2026-09-18
 subject: dpi.exchange
 places: DZA; AGO; BEN; BWA; BFA; CMR; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MAR; MOZ; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: dd8a7ebe6412
+record: d98d26aee171
 ---
 
 # Data Exchange: monthly update, August – September 2026
@@ -49,6 +49,8 @@ On 29 July a joint communiqué [established a trilateral customs steering commit
 
 The minister responsible for decentralisation and local development said on 25 August 2026 that the administration [has built digital islands side by side and that these must end](https://www.digitalbusiness.africa/cameroun-georges-elanga-obam-veut-mettre-fin-aux-ilots-numeriques-de-ladministration/) — a ministerial commitment rather than a platform. The same problem framed the national Internet Governance Forum in Yaounde a week earlier.
 
+Border records were put to work on the payroll. The finance ministry [matched the state payroll against border-movement data and flagged 5,971 public servants as no longer resident, holding their September and October pay pending justification by 31 October](https://cameroonpress.com/fichier-solde-5-971-agents-publics-dans-le-viseur-du-minfi-leurs-salaires-bloques-pendant-deux-mois/).
+
 ## Chad
 
 The 2027 budget orientations [prohibit any ministry putting in place a computer system incompatible with the existing platforms](https://lendjampost.com/budget-2027-le-tchad-mise-sur-le-numerique-pour-verrouiller-les-finances-publiques/), and require tax, customs, treasury, budget, accounting, cadastre, identity, state property and land registry to interconnect on a single identifier. It is the strongest interoperability commitment this ledger carries, and the repository holds none of the framing text: no cost, phasing or implementing agency is named.
@@ -64,6 +66,8 @@ The larger exchange was contracted out. Customs-procedure digitalisation under t
 The minister told an information-systems seminar on 21 and 22 July that the first services onto the interoperability platform [had been chosen largely by volunteering rather than against user priorities](https://www.fratmat.info/article/2643436/economie/gouvernance-numerique-djibril-ouattara-appelle-a-une-meilleure-coordination-pour-accelerer-linteroperabilite), against targets of 100 services online by end-2026 and 700 within three years. No count of services in production has been published. Fourteen migration bodies met on 30 July to [co-design a single collection and profiling tool for returning migrants](https://www.fratmat.info/article/2643436/economie/gouvernance-numerique-djibril-ouattara-appelle-a-une-meilleure-coordination-pour-accelerer-linteroperabilite) and a roadmap for transferring their data into one directorate; no legal basis, data-protection safeguard or timetable for pooling personal data across fourteen bodies is stated.
 
 The country's largest working data exchange is agricultural, and its pilot met its users in August. Producers at Meagui [pressed the coffee and cocoa board on 11 August over rollout gaps in the national cocoa traceability system](https://www.aip.ci/cote-divoire-aip-les-contraintes-du-systeme-national-de-tracabilite-au-centre-des-echanges-entre-producteurs-et-conseil-du-cafe-cacao-a-meagui/) — the conditions attached to the producer card, collection in remote zones, deceased and expired cardholders, and bank fees tied to the card. The regional delegate said pilot-phase issues are feeding refinements. No enrolment count, coverage figure, data-controller arrangement or fee schedule for the card is held. The board for the cashew sector began the same sequence a step earlier, [launching a producer and plantation census at Korhogo on 11 August](https://affairesetentreprises.ci/2026/08/17/cote-divoire-le-ccak-lance-le-recensement-des-producteurs-danacarde-premiere-etape-vers-une-tracabilite-de-la-filiere/) as the database that any producer card or traceability system would have to stand on; no timetable or budget for it is stated. Across the border, Mali's customs administration told a Bamako roundtable that its [interconnection with Ivorian customs has a transit-goods data pilot running](https://lagazettedusahel.com/interconnexion-des-systemes-douaniers-le-mali-accelere-sa-transformation-numerique/); the account is Mali's, no Ivorian statement is held, and no completion date for the full interconnection is given.
+
+The cocoa traceability system went live for the new season. Compulsory with the producer card from 1 September, it [recorded about 38,000 producers selling with their cards in its first 13 days, and over 26,000 tonnes bought at the farm gate, each transaction sent to the coffee and cocoa board in real time](https://www.aip.ci/cote-divoire-aip-38-000-producteurs-ont-vendu-leur-cacao-avec-leurs-cartes-depuis-le-1er-septembre/). The rollout gaps producers raised in August over card conditions and remote collection are not reported as settled.
 
 ## Djibouti
 
@@ -121,6 +125,8 @@ The Treasury is building the other kind of exchange — one that looks at the mo
 
 
 The regional payments interlink took another participant: a commercial bank group [went live on the pan-African system on 11 August, adding its branch network to instant cross-border transfers in local currencies](https://www.linkedin.com/posts/pan-african-payment-settlement-system_papss-papss-abcbank-activity-7492934194994774016-TGoX).
+
+The head of the public service [convened the examinations council, the public service commission and the education ministry to link academic credential databases directly to hiring agencies](https://nairobiwire.com/2026/09/kenya-academic-certificate-verification-fake-certificates.html), against fake certificates. No design or date is set.
 
 ## Lesotho
 

@@ -4,7 +4,7 @@ compiled: 2026-09-18
 period: 2026-08-01 to 2026-09-18
 subject: dpi.registry
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; TCD; COM; COG; CIV; COD; EGY; ERI; SWZ; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 7d6b478c1c59
+record: a9ea8575e5b5
 ---
 
 # Registries (population, land, address, etc.): monthly update, August – September 2026
@@ -48,6 +48,8 @@ The obligation behind any future social register is now on the record. An [ordin
 ## Cameroon
 
 The [national civil-status registry platform was reported deployed in pilot councils on 16 July](https://techafricanews.com/2026/07/16/cameroon-urges-north-west-councils-to-accelerate-digital-transformation/); the source names no councils and gives no target. The one delivery figure on the record for the wider programme comes from outside government: the national human rights commission, [calling for a modernised and interoperable civil registry on 10 August, put birth-certificate cases processed under a World Bank-backed programme at over 49,000](https://kamerinfosplus.com/2026/08/10/etat-civil-la-cdhc-veut-un-systeme-moderne-digitalise-et-accessible-a-tous/).
+
+The civil registration bureau's director [said on 14 September that digitalising birth, marriage and death records, begun in 2020, has stalled for want of funds, that FCFA 52bn is being sought, and that completion could come in 2029-2030 if it is found](https://ecomatin.net/cameroun-52-milliards-fcfa-recherches-pour-numeriser-letat-civil).
 
 ## Cape Verde
 
@@ -107,6 +109,8 @@ The electoral commission is reviewing a [proposal to make the chief code compuls
 
 Addressing left the pilot stage in one town: [Matsapha became the first municipality to roll out the national postcode and addressing project, with street signs due within eight weeks](https://eswatinipositivenews.online/matsapha-first-to-roll-out-addressing-system-in-eight-weeks/). The electoral commission is [adding biometric capture to continuous voter registration ahead of the 2028 elections](https://eswatinipositivenews.online/biometric-technology-set-to-strengthen-voter-registration/).
 
+The social registry is moving beyond its pilot region. The deputy prime minister [briefed Lubombo's members of parliament on 16 September ahead of household data collection there, asking them to build community trust in it](https://eswatinipositivenews.online/lubombo-mps-join-dpm-to-make-every-vulnerable-household-count/). No count of registered households has been published.
+
 ## Gabon
 
 A domestic commentary put the governance question on transport digitalisation in public: it places the [digitalisation of transport titles and documents among the state's modernisation projects and asks who governs it and whether local suppliers are used](https://gabonactu.com/blog/2026/09/07/digitalisation-des-titres-et-actes-de-transport-au-gabon-entre-gouvernance-numerique-et-valorisation-de-la-competence-locale/). It is an opinion piece rather than a programme document — no contracting authority, supplier, scope, cost or timetable is on the record — which is why it reaches this report as the only account of a project the state has not described.
@@ -114,6 +118,8 @@ A domestic commentary put the governance question on transport digitalisation in
 The beneficiary file behind the social register's intended base is unreliable: the Court of Accounts [found about 120,000 of the roughly one million people on the economically weak persons' health fund file improperly registered](https://union.sonapresse.com/fr/cnamgs-120-000-beneficiaires-indument-enregistres).
 
 Three ministers [met SNEDAI Groupe on 14 September on digitalising land tenure and civil registration](https://agpgabon.ga/gabon-digitalisation-le-gouvernement-echange-avec-le-snedai/), the company offering prefinancing; administrations were asked to name focal points, and no contract is held.
+
+The social security fund [launched e.CNSS, letting employers register online from Gabon or abroad instead of queueing at a counter](https://gabonclic.info/gabon-avec-sa-revolution-numerique-la-cnss-conjugue-le-service-public-au-present/). No registration count or link to the business register is stated.
 
 ## Gambia
 
@@ -139,6 +145,8 @@ The household registry published its national total: [11.24 million people in 2,
 The [terms of reference for the RETSSM movable-collateral registry, opened 27 July under IDA Credit No. 74440GN](https://letravail224.com/wp-content/uploads/2026/07/AMI-IT-WARDIP-3_Copier.pdf), set the objective as guaranteeing the availability, security, reliability and adoption of an operational registry — with the first work package finalising the institutional, legal and regulatory provisions it needs to function at all.
 
 The register that already works stopped working for the most basic reason there is. A civil-registration officer in Ratoma said on 7 August that the [secured paper the digital birth certificate is printed on had run out, leaving communes across Conakry and beyond unable to issue extracts for about a month](https://www.guinee360.com/07/08/2026/sans-papiers-securises-il-ne-peut-pas-y-avoir-dextraits-amadou-konia-camara-explique-lorigine-de-la-penurie/); his own commune processes all applicants regardless of home commune and holds reserve stock for urgent cases such as exam-result travel and medical need. No ministry statement, restocking date or national count of affected communes is held, and the absence is now recorded as a gap. Officials marking African civil-registration day three days later [named information gaps and material shortages as the remaining barriers to civil-status access](https://www.guinee360.com/10/08/2026/guinee-manque-dinformations-contraintes-materielles-les-freins-a-lacces-a-letat-civil/), the identification office's director general calling for tighter integration between health, civil-registration and statistical systems.
+
+The agriculture ministry [is preparing to hand over the first digital farmer cards, with a portal built by an insurance-technology firm to map holdings into a first national farmer database](https://guineejet.info/carte-numerique-dagriculteur-le-ministere-de-lagriculture-prepare-le-deploiement/). No enrolment target or date is stated.
 
 ## Guinea-Bissau
 

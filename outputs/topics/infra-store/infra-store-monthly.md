@@ -4,14 +4,12 @@ compiled: 2026-09-18
 period: 2026-08-01 to 2026-09-18
 subject: infra.store
 places: DZA; AGO; BWA; BFA; CMR; CPV; CAF; COG; CIV; EGY; GNQ; ERI; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SLE; SOM; ZAF; SSD; TZA; TUN; ZWE
-record: b263539d57ee
+record: 8bfe7acbd4f3
 ---
 
 # Data Storage: monthly update, August – September 2026
 
 *35 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -88,6 +86,8 @@ The storage estate gained a number rather than a building. The communications mi
 ## Guinea
 
 The national data centre was found idle a year after its opening. The prime minister [visited on 9 September and said the nearly US$10m facility, inaugurated in September 2025, is about 90% complete with one payment stuck and still not fully operational, calling the delay unacceptable](https://www.visionguinee.info/bah-oury-nous-avons-besoin-de-rattraper-notre-retard-et-de-renforcer-notre-souverainete-numerique/).
+
+The national data centre at Koloma is nearly built and not yet working. On a site visit the prime minister [ordered its commissioning accelerated, the project standing at about 90 per cent executed on close to US$10m and still not fully operational](https://sahelmatin.com/guinee-amadou-oury-bah-exige-lacceleration-de-la-mise-en-service-du-data-center-national/). No commissioning date was set.
 
 ## Kenya
 

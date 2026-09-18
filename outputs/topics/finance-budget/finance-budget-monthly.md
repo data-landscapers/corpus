@@ -4,14 +4,12 @@ compiled: 2026-09-18
 period: 2026-08-01 to 2026-09-18
 subject: finance.budget
 places: AGO; COD; EGY; GMB; NER; SEN; SDN; TZA; TUN
-record: 33528a5c3431
+record: b43dd02c8214
 ---
 
 # Domestic budget appropriations and expenditure: monthly update, August – September 2026
 
 *9 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
 
 ## Angola
 
