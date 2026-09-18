@@ -1,11 +1,11 @@
 ---
 title: Chad — monthly update, August – September 2026
-compiled: 2026-09-17
-period: 2026-08-01 to 2026-09-17
+compiled: 2026-09-18
+period: 2026-08-01 to 2026-09-18
 place: TCD
-ledger_rows: 48
+ledger_rows: 50
 not_held: 23
-record: d6e3abaa199d
+record: 6dd0708f0810
 ---
 
 # Chad: monthly update, August – September 2026
@@ -72,6 +72,12 @@ The fund's own appraisal report now settles the amount the repository could not 
 
 ## ICT Infrastructure
 
+### Connectivity
+
+<!-- narrative: ict-infrastructure--infra-connect -->
+
+The ministry measured the backbone's shortfall. Meeting the World Bank's resident representative on 15 September, the minister [put the remaining need at about 8,000 km of fibre for a full national mesh, with six provinces still unconnected](https://www.agenceecofin.com/actualites-numerique/1709-141662-infrastructure-numerique-le-tchad-a-encore-besoin-de-8000-km-de-fibre-optique). The ministry's own May review had [counted 1,275 km deployed](https://www.digitalbusiness.africa/pmice-le-tchad-accelere-les-verifications-autour-du-data-center-et-des-infrastructures-numeriques/).
+<!-- /narrative -->
 ### Energy
 
 <!-- narrative: ict-infrastructure--infra-energy -->
@@ -105,6 +111,8 @@ The 2027 budget orientations, reported 4 August, [restate](https://lendjampost.c
 On 29 July, at Douala, the BEAC and GIMAC [launched the CEMAC's interoperable QR-code payment standard](https://leconomie.info/article/paiement-numerique-le-gimac-officialise-la-norme-qr-code-interoperable-de-la-cemac), in force under a monetary-union regulation of 8 April 2026 across all six member states including Chad and letting any bank, mobile-money or microfinance account settle a purchase at any merchant's code, routed and settled through the regional switch. No Chadian bank, wallet or merchant deployment is on record: Chad is covered by the regulation rather than shown live.
 
 The electronic money market has more providers and no newer numbers. [Two further providers have joined the two mobile operators' services, and users report fees they consider high, with competition presented as the hope rather than the position, against 160,000 to 240,000 accounts over 2020 to 2022](https://tchadinfos.com/2026/09/04/monnaie-electronique-entre-engouement-frais-eleves-et-espoir-de-concurrence/). No current account count, transaction volume, tariff schedule or regulator series is published, so the market's growth is described and not measured.
+
+A September press account [places the 3,000 payment terminals in the revenue offices, with electronic invoicing compulsory under the 2026 finance law, and finds power cuts, thin provincial connectivity and agents' limited skills holding use back](https://lendjampost.com/tchad-la-digitalisation-de-ladministration-face-au-defi-de-lelectricite-et-de-la-connectivite/). No transaction count has been published.
 <!-- /narrative -->
 ### Registries
 

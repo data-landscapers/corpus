@@ -1,11 +1,11 @@
 ---
 title: Angola — monthly update, August – September 2026
-compiled: 2026-09-17
-period: 2026-08-01 to 2026-09-17
+compiled: 2026-09-18
+period: 2026-08-01 to 2026-09-18
 place: AGO
-ledger_rows: 59
+ledger_rows: 60
 not_held: 7
-record: f25ba88da896
+record: baad03791de2
 ---
 
 # Angola: monthly update, August – September 2026
@@ -140,6 +140,8 @@ The education ministry made school enrolment independent of documentation. Circu
 The education ministry and a domestic technology firm [expanded their work on the integrity of the national education database](https://angop.ao/noticias/educacao/med-reforca-a-integridade-da-base-nacional-de-dados/) under a five-year, thirty-country data challenge, with the ministry's planning office as counterpart; [the initiative was launched in Luanda from 5 to 7 August](https://adeanet.org/en/news/angola-embarks-journey-transform-education-data-systems). No data-quality baseline, scope or completion date is published, and no contract or programme document is held.
 
 The research and education network is funded rather than only presented: [US$15m within the tertiary education project to establish it and upgrade university networks, with the draft network recorded as under way in the lender's April 2026 implementation report](https://c2a.portais.gov.ao/uploads/26pad_english_test_p179154_mpa_phase_1_gpe_qar_answered_74704772466e18d05d13fd_9552e1cf64.pdf). No operator, governance model, connection count or commissioning date is published, so what has moved is the money rather than the network.
+
+Customs control got its own procurement in September. A presidential order of 14 September [authorised about AOA 90.5bn, some US$98m, in two lots by direct award for a customs supervision project covering centralised supervision, automated inspection and data analysis](https://poligrafoafrica.com/fact-check/joao-lourenco-aprova-ajuste-directo-de-quase-100-milhoes-usd-para-projecto-de-controlo-aduaneiro/), and delegated the contract to the finance minister. The order names no supplier and no timetable, and does not say how the project relates to the logistics single window announced in July.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 

@@ -3,9 +3,9 @@ title: Rwanda — monthly update, August – September 2026
 compiled: 2026-09-18
 period: 2026-08-01 to 2026-09-18
 place: RWA
-ledger_rows: 53
+ledger_rows: 54
 not_held: 9
-record: 44013ccc9f48
+record: abe34ebd045c
 ---
 
 # Rwanda: monthly update, August – September 2026
@@ -105,6 +105,8 @@ A delegation joined the [UNDP Africa Accelerator for Digital Public Infrastructu
 
 <!-- narrative: dpi--dpi-id -->
 The social registry has run an appeals process since it opened in early 2024, and [360,000 people challenged their category, with 93% of disputed classifications corrected](https://www.newtimes.co.rw/article/37878/news/rwanda/360000-claimsin-new-social-registryhandled-since-2024). Disputes trace largely to stale asset records — unrecorded land or vehicle sales — and the correction rate is the social affairs directorate's own.
+
+Enrolment passed ten million in September. The identification agency [put biometric capture at more than 10 million people across 27 of 30 districts as enrolment opened in Rusizi on 16 September](https://umunota.com/en/over-10-million-rwandans-registered-for-digital-id/), against about 14 million expected and a June 2027 deadline after which legacy cards lapse. The agency described the credential as usable as a card, as a QR code on a phone and through a separate access token.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -197,6 +199,8 @@ What moved this month is a projection, not a measurement. An industry associatio
 
 <!-- narrative: data--data-statistics -->
 The seventh demographic and health survey, collected between June and November 2025, [reached its final report in August 2026](https://dhsprogram.com/pubs/pdf/FR401/FR401.pdf) — 690 pages, almost entirely tables by design. The release notice in January had pointed to a signed press release rather than the report ([notice](https://statistics.gov.rw/node/805)), so the substantive document only entered the record this month. It joins a foreign private capital census of [424 enterprises at an 89.6 per cent response rate](https://statistics.gov.rw/data-sources/censuses/Foreign-Private-Capital-Census/foreign-private-capital-census-2025), reported in February.
+
+The higher education council said it is [building a national performance measurement framework to capture, digitise and publish standardised data on students, staff, research and graduate outcomes](https://taarifa.rw/2026/09/16/rwanda-building-data-driven-framework-to-measure-quality-of-higher-education/), having lacked comparable data across institutions. No publication date is set.
 <!-- /narrative -->
 ### Use of satellite data
 

@@ -1,11 +1,11 @@
 ---
 title: Equatorial Guinea — monthly update, August – September 2026
-compiled: 2026-09-17
-period: 2026-08-01 to 2026-09-17
+compiled: 2026-09-18
+period: 2026-08-01 to 2026-09-18
 place: GNQ
-ledger_rows: 31
+ledger_rows: 32
 not_held: 6
-record: e42e8c11b8c4
+record: 6f92f5deb5fb
 ---
 
 # Equatorial Guinea: monthly update, August – September 2026
@@ -33,6 +33,8 @@ Two plans and no strategy is still the position. The transport ministry's [half-
 The full text of the 2024 social media and computer crime law reached the repository this month: it [criminalises computer fraud, identity theft and false news online](https://www.guineaecuatorialpress.com/noticias/ley_por_la_que_se_regula_el_uso_de_las_redes_sociales_los_delitos_informaticos_y_la_ciber_delincuencia) and creates the national cybersecurity agency the ledger has carried as an entity with no premises, staffing or budget on record. The government [reasserted the law's full force on 1 July amid rising complaints, naming neither artificial intelligence nor deepfakes](https://www.guineaecuatorialpress.com/noticias/el_gobierno_recuerda_la_plena_vigencia_de_la_ley_que_regula_el_uso_de_las_redes_sociales_los_delitos_informaticos_y_la_ciber_delincuencia). Alongside it the information minister [presented a press-law reform bill on 6 August regulating digital media and cable television for the first time](https://ahoraeg.com/politica/2026/08/07/el-gobierno-propone-por-primera-vez-regular-los-medios-digitales-y-la-tv-por-cable-en-la-nueva-ley-de-prensa/), now under committee review with no adoption date and no bill text published. The Chamber of Deputies' own account of the sitting shows it was not presented alone: [a separate Copyright and Related Rights bill went to the chamber the same day](https://www.guineaecuatorialpress.com/noticias/comienza_en_la_camara_de_los_diputados_varios__proyectos_de_leyes), implementing Equatorial Guinea's 1997 Berne Convention accession and its 2015 Bangui Agreement obligations under OAPI, so the copyright provisions are a companion instrument rather than part of the audiovisual bill.
 
 The press bill cleared the lower house: [the Chamber of Deputies unanimously approved on 11 September the bill replacing the 1997 press law, which covered no digital journalism](https://www.guineaecuatorialpress.com/index.php/noticias/la_camara_de_los_diputados_ha_aprobado_tres_proyectos_de_leyes_presentados_por_el_gobierno).
+
+The 2024 social-media and computer-crime law was used in court for the first time on the public record. On 16 September lawyers for the vice-president [lodged four criminal complaints at a Malabo investigating court against a digital newspaper's journalist and three others under articles 2, 50 and 60](https://www.guineaecuatorialpress.com/noticias/el_despacho_que_representa_a_se_nguema_obiang_mangue_explica_las_acciones_contra_diadario_rombe_y_otras_tres_personas), using article 2 to reach conduct committed outside the country. The complaints came while Facebook and TikTok remained blocked.
 <!-- /narrative -->
 ### Standards
 

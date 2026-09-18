@@ -1,11 +1,11 @@
 ---
 title: Namibia — monthly update, August – September 2026
-compiled: 2026-09-17
-period: 2026-08-01 to 2026-09-17
+compiled: 2026-09-18
+period: 2026-08-01 to 2026-09-18
 place: NAM
-ledger_rows: 47
+ledger_rows: 48
 not_held: 11
-record: fb2cb5af23b5
+record: ad366e11cf8c
 ---
 
 # Namibia: monthly update, August – September 2026
@@ -67,6 +67,8 @@ The dominant mobile operator [publicly rejected customer claims that it takes da
 Spectrum is being taken back rather than added. Operators [were instructed to retire their 2G and 3G networks and refarm the spectrum, with one suggesting smartphone subsidies before the shutdown](https://www.namibiansun.com/local-news/mtc-suggests-smartphone-subsidies-before-2g-3g-shutdown-nmh015578-1-19462). A shutdown without a device programme moves the cost of the transition onto the users least able to carry it, and no date, subsidy or handset count is on the record.
 
 The largest mobile operator said it [will put N$624.9 million into telecommunications infrastructure in the 2025/26 financial year](https://www.namibiansun.com/mw-main/mtc-puts-n6249m-into-networks-NMH016998-3015-20874) — a stated commitment rather than a delivered figure.
+
+The regulator's April-June bulletin [records active mobile subscriber modules up 2 per cent to about 2.79 million, mobile broadband up 2 per cent and fixed broadband up 1 per cent, with about N$243m invested in networks](https://neweralive.na/cyber-threats-rise-57-despite-ict-sector-growth/). Modules count connections, not people.
 <!-- /narrative -->
 ### Data Storage
 

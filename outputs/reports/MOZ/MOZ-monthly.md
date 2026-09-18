@@ -3,9 +3,9 @@ title: Mozambique — monthly update, August – September 2026
 compiled: 2026-09-18
 period: 2026-08-01 to 2026-09-18
 place: MOZ
-ledger_rows: 76
+ledger_rows: 77
 not_held: 19
-record: b0ee8651fd77
+record: 8e82b2cf8018
 ---
 
 # Mozambique: monthly update, August – September 2026
@@ -78,6 +78,8 @@ The digital foundations programme runs to 2027 with the European Union delegatio
 The incumbent operator's ownership is in play. The government has [formed a technical team to negotiate the sale of part of the state's stake in the loss-making operator](https://aimnews.org/2026/08/12/technical-team-established-to-negotiate-sale-of-states-stake-in-tmcel/), which carried a US$400m debt in 2023, and [set January 2027 as its target for identifying a strategic partner](https://360mozambique.com/business/companies/mozambique-seeks-strategic-investor-for-tmcel-by-january-2027/). No buyer, share, valuation or treatment of the debt is stated.
 
 The ministry put numbers on how far the connecting has got and how far it is meant to go: [149 localities and 418 schools connected, against a target of at least 300 localities, up to 4,000 schools and around 10,000 new 4G and 5G access points](https://www.agenceecofin.com/actualites-numerique/1808-140924-inclusion-numerique-le-mozambique-veut-connecter-300-localites-aux-services-telecoms). Both ends are the ministry's own and no completion date is given, which leaves a target without a deadline against a rural access rate the regulator itself puts at a quarter of the urban one. On 5G, [a provincial-capital deadline of June 2027 is attached to the spectrum licences](https://www.diarioeconomico.co.mz/2026/08/25/trends/telecom/mercado-financas-5g-em-todas-as-capitais-provinciais-ate-junho-de-2027/).
+
+The regulator answered complaints about data bundles. It [said it is building a tariff management system, due to operate in November 2026, to compare operators' packages, identify the effective price including validity, and stop data running out before a bundle's stated expiry](https://www.incm.gov.mz/2026/09/17/comunicado-incm-desenvolve-sistema-para-maior-transparencia-nas-tarifas-e-pacotes-de-dados/), and that it is restructuring packages in parallel. No rule or sanction has been published yet.
 <!-- /narrative -->
 ### Data Storage
 
