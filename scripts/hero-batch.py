@@ -77,7 +77,8 @@ def delivered(recs: dict) -> set:
 
 
 # Titles this short trip OSINT's restatement test whatever the hero says (notes-for-corpus 31,
-# housekeeping job 118). They wait for that test to be loosened rather than get distorted heroes.
+# filed there as a rule candidate). They wait for that test to be loosened rather than get
+# distorted heroes.
 SHORT_TITLE = 2
 
 
