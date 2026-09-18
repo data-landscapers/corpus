@@ -51,6 +51,21 @@ def taxonomy_labels():
 def fy_label_from_year(y):        # commitment year -> fiscal-year label starting that year
     return f"{y}/{str(int(y)+1)[-2:]}" if y and y.isdigit() else (y or "—")
 
+
+def fy_normalise(lab):
+    """`2024/2025` -> `2024/25`, so one fiscal year is one column.
+
+    Non-state lines get their label from `fy_label_from_year`, which always writes the
+    short form; domestic-state lines take `fiscal_year_label` from the record as written,
+    and some are written long. A summary carrying both forms shows a reader two columns
+    for one year — Botswana's had `2025/26` and `2025/2026` side by side (unit review,
+    2026-09-18). Only a genuine consecutive pair is shortened; anything else is left alone.
+    """
+    m = re.fullmatch(r"(\d{4})/(\d{4})", (lab or "").strip())
+    if m and int(m.group(2)) == int(m.group(1)) + 1:
+        return "%s/%s" % (m.group(1), m.group(2)[-2:])
+    return lab
+
 def primary_subject(rec):
     """The subject a record is filed under: the explicit `primary_subject:`
     override where set, else the first non-finance slug in `topics:`
@@ -119,7 +134,7 @@ def clean(s):                                # de-wikilink and de-pipe for a tab
     return dewiki(s).replace("|", "/").strip()
 
 def fy_display(fm):                          # never a blank cell / blank link text
-    return fm_get(fm, "fiscal_year_label") or fm_get(fm, "fy_start")[:4] or "—"
+    return fy_normalise(fm_get(fm, "fiscal_year_label")) or fm_get(fm, "fy_start")[:4] or "—"
 
 def deal_usd(T):
     """The rule (Bill, 2026-07-29): always use commitment; where no commitment exists,
@@ -224,7 +239,7 @@ def aggregate3(ns, dom, fx):
         if s and u:
             nsb.setdefault(s, {}).setdefault(fy, 0); nsb[s][fy] += u; fys_ns.add(fy)
     for r in dom:
-        s = primary_subject(r); fy = fm_get(r["fm"], "fiscal_year_label")
+        s = primary_subject(r); fy = fy_normalise(fm_get(r["fm"], "fiscal_year_label"))
         a = num(fm_get(r["fm"], "appropriated_total"))
         rate = fx_rate(fx, fm_get(r["fm"], "currency"), fm_get(r["fm"], "fy_start")[:4])
         why = excl_reason(r, a, rate)

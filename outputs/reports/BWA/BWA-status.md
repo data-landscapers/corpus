@@ -1,12 +1,12 @@
 ---
 title: Botswana: status report
-compiled: 2026-09-15
+compiled: 2026-09-18
 place: BWA
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-02
 intersections_read: 10
-sources_cited: 159
+sources_cited: 161
 sections_written: 37
 not_established: 1
 acquire_lines: 35
@@ -22,6 +22,8 @@ The clearest policy movement is in universal access. [BOCRA's Universal Access a
 
 <!-- derived -->
 The Universal Access and Service Fund ran for more than eleven years before it was given a published governance and financing framework.
+
+The data policy is being turned into something implementable: a five-day [data governance capacity-building and stakeholder engagement was held from 7 to 11 September 2026 to translate the national data policy's principles into a national data strategy](https://dig.watch/updates/botswana-national-data-strategy-engagement), with continental and European support, and no draft or adoption date published.
 
 Artificial intelligence is the conspicuous hole. [Botswana was still drafting a national AI policy, with UNESCO's support, in August 2026](https://spikedmedia.co.zw/one-voice-for-africas-data-inside-harares-push-to-harmonise-the-rules-of-the-digital-age/), [the policy having reached an advanced stage by December 2025](https://www.unesco.org/ethics-ai/en/botswana). What exists alongside it is ministerial commentary: [Minister of Communications and Innovation David Tshere warned in July 2026 that AI chatbots had given harmful advice to children, including encouraging suicide, and called for stronger AI governance and developer accountability](https://dailynews.gov.bw/news-detail/92342). On the delivery side, the country's [e-government development ranking sits in the middle of the global table](https://desapublications.un.org/sites/default/files/publications/2024-10/Chapter%203%20%20E-Government%20Survey%202024.pdf) (2024).
 
@@ -180,6 +182,8 @@ The integrations Botswana can point to are ministry projects rather than a centr
 [An EU-funded Expertise France project with Estonia's ESTDEV, running from August 2024 to August 2027, is working on the National Interoperability Framework and its standards and guidelines, on core registries and on proof-of-concept solutions](https://www.expertisefrance.fr/en/projects/digital-transformation-botswana). [The programme document behind it set an interoperability framework for 2023 and core-registry compliance by 2027, and no structured implementation milestones have been published (2024)](https://expertise-france.gestmax.fr/_expertise_france/public_files/20220425-ad-digital-bw-final.pdf).
 
 What exists instead runs out of the identity register. [The National Identification System is interfaced with births and deaths registration, the electoral register, the Social Benefits Registration System, government payroll and the transport registry, allowing real-time cross-agency authentication of identity and biographic data](https://id4d.worldbank.org/sites/id4d/files/2018-04/Botswana_ID4D_DiagnosticWeb040418.pdf), but [section 20 of the National Registration Act confines that sharing to yes/no queries under departmental memoranda, with full data transfer prohibited without ministerial authorisation](https://id4d.worldbank.org/sites/id4d/files/2018-04/Botswana_ID4D_DiagnosticWeb040418.pdf).
+
+The first attempt to open that register beyond government came in September: the bankers' association [launched a national electronic know-your-customer project letting banks verify customers against the national citizen database](https://www.businesstechafrica.co.za/article/botswana-launches-national-ekyc-project-to-make-bank-verification-easier), with no go-live date, data-protection arrangement or statutory basis stated — which is what section 20 would have to accommodate.
 
 [The Digital Services Act, 2025 establishes a Digital Services Authority and places enterprise data inventory, information resource management and information security duties on government bodies](http://www.bocra.org.bw/sites/default/files/sites/default/files/documents/digital_services_ACT.pdf).
 

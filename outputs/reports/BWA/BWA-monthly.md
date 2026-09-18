@@ -1,11 +1,11 @@
 ---
 title: Botswana — monthly update, August – September 2026
-compiled: 2026-09-17
-period: 2026-08-01 to 2026-09-17
+compiled: 2026-09-18
+period: 2026-08-01 to 2026-09-18
 place: BWA
-ledger_rows: 36
+ledger_rows: 35
 not_held: 8
-record: 12676c523a49
+record: 1b469c24b791
 ---
 
 # Botswana: monthly update, August – September 2026
@@ -50,6 +50,8 @@ The [Plumtree-Bulawayo section of a regional fibre corridor went live on 6 July,
 The western corridor did produce a Botswana segment. Alongside the Kasane memorandum the two sides disclosed that [MTC has completed the Gobabis-Buitepos fibre link, now interconnecting with BoFiNet at Charles Hill](https://observer24.com.na/trans-kalahari-4g-rollout-requires-n52m/) — described as the first direct cross-border fibre link between the two operators — and costed the Trans-Kalahari Corridor's remaining 4G gaps at about N$52 million across 13 new sites. The two national incident-response teams are also said to be deepening cooperation. No capacity, commissioning date or traffic figure is published for the fibre link.
 
 Domestic access moved on a much smaller scale. The backbone company [completed its 2025/26 local access projects at P43m, taking fibre to Moshupa, Ramotswa/Taung and Thamaga and connecting 191 customers — 68, 66 and 57 across the three — with 210 construction jobs](https://techafricanews.com/2026/08/14/bofinet-completes-p43m-fibre-project-connects-three-botswana-villages/). The customer count is the operator's own and is a count of connections, not of premises passed.
+
+The mobile side put a figure and a date on the next generation. The incumbent operator [committed more than P240 million for 2026/27, targeting commercial 5G in strategic areas of the capital for October 2026 before an accelerated rollout to other cities and key villages, with 599 mobile-site capacity upgrades in the programme](https://www.itweb.africa/article/btc-steps-into-botswanas-5g-race/KWEBbvyLb2RqmRjO). It is a commitment and a target, with no coverage obligation or spectrum award attached. The starting point is a fourth-generation network the same private census calls near-universal and names among the country's competitive advantages, alongside extensive fibre and growing data-centre capacity ([census](/catalogue/#q=2026-08-03-botswana-startup-ecosystem-report-2026)); the coverage figure itself is a private compilation's, not a regulator return, and the progress report carries it.
 <!-- /narrative -->
 ### Data Storage
 
@@ -98,7 +100,7 @@ The vital-statistics report [describes the births and deaths registration system
 ### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->
-The health ministry [signed a ten-year strategic partnership with a foreign health-systems operator](https://m42.ae/media-resources/news/m42-enters-africa-with-10-year-health-systems-partnership-to-strengthen-botswanas-health-sector/). The announcement is the counterparty's; no contract value, list of systems, data-handling terms or governance arrangement is published, so a ten-year commitment sits on the ledger with nothing describing what it obliges either side to do.
+The health ministry [signed a ten-year strategic partnership with the operator of Abu Dhabi's health information exchange on 22 August](https://oncodaily.com/voices/ministry-of-health-botswana-572024), covering pharmaceutical and medical supply and opening cooperation on digital health transformation, genomics, precision medicine and capacity development. The fuller account is [the counterparty's own](https://m42.ae/media-resources/news/m42-enters-africa-with-10-year-health-systems-partnership-to-strengthen-botswanas-health-sector/), which adds a national genomics programme. No contract value, list of systems, data-handling term or governance arrangement is published, so a ten-year commitment over health data sits on the ledger with nothing describing what it obliges either side to do.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -138,6 +140,8 @@ The creative sector was surveyed for a digital purpose. A two-day multistakehold
 
 <!-- narrative: data--data-statistics -->
 The statistics office and the national university [launched a second Statistics Development Strategy for 2026 to 2030 on 12 August](https://www.ub.bw/news/ub-joins-statistics-botswana-launch-second-bsds-2026-2030-strategy), framed as a roadmap to an agile and responsive statistical system and aligned to the twelfth national development plan. No budget, delivery milestone or indicator set is published with it.
+
+One absence in that system was dated this month. No gambling participation statistics are held as the country moves to lower the legal betting age, while an investigation reports [unregistered betting influencers drawing 4,000 to 15,000 responses to a single betting slip and directing followers to bookmakers through referral links](https://www.thegazette.news/news/weaving-the-slip/). The activity is documented and the population is not counted, which is the gap a statistical strategy would have to close.
 <!-- /narrative -->
 
 ## Geopolitics
