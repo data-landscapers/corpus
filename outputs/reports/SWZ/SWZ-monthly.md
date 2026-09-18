@@ -1,11 +1,11 @@
 ---
 title: Eswatini — monthly update, August – September 2026
-compiled: 2026-09-17
-period: 2026-08-01 to 2026-09-17
+compiled: 2026-09-18
+period: 2026-08-01 to 2026-09-18
 place: SWZ
-ledger_rows: 44
+ledger_rows: 46
 not_held: 3
-record: c6c6aa9ca6b2
+record: 961ccef86872
 ---
 
 # Eswatini: monthly update, August – September 2026
@@ -106,11 +106,15 @@ The social registry began its [second regional rollout in Lubombo on an E41.7 mi
 The electoral commission is reviewing a [proposal to make the chief code compulsory at voter registration, alongside a six-month residency rule](https://times.co.sz/41170/news/chief-code-rule-divides-ezulwini-residents/), after it divided residents at Ezulwini — the same code the home affairs ministry was asking citizens to correct eight days later.
 
 Addressing left the pilot stage in one town: [Matsapha became the first municipality to roll out the national postcode and addressing project, with street signs due within eight weeks](https://eswatinipositivenews.online/matsapha-first-to-roll-out-addressing-system-in-eight-weeks/). The electoral commission is [adding biometric capture to continuous voter registration ahead of the 2028 elections](https://eswatinipositivenews.online/biometric-technology-set-to-strengthen-voter-registration/).
+
+The social registry is moving beyond its pilot region. The deputy prime minister [briefed Lubombo's members of parliament on 16 September ahead of household data collection there, asking them to build community trust in it](https://eswatinipositivenews.online/lubombo-mps-join-dpm-to-make-every-vulnerable-household-count/). No count of registered households has been published.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
 The state's auditor put artificial intelligence at the centre of its own next four years. The Auditor-General [launched a strategic plan for 2026 to 2030 naming artificial intelligence and digital transformation as the route to stronger public-sector accountability, urging more than 80 audit officers to adopt them](https://techafricanews.com/2026/08/17/eswatini-auditor-general-urges-oag-staff-to-embrace-ai-and-digital-transformation/), developed with the INTOSAI Development Initiative and the African organisation of English-speaking supreme audit institutions. The plan text is not held, and no tool, data access, assurance standard or safeguard for audit use of artificial intelligence is stated — in a country whose national artificial-intelligence strategy is recorded as ***Not held***.
+
+The prime minister [publicly acknowledged the e-Visa platform failing on reliability, payment processing and turnaround, worst at peak periods, with no manual fallback while it is fixed](https://eswatinipositivenews.online/pm-calls-for-disruption-to-fix-tourism-bottlenecks/); tourism operators at the same conference described five-day waits.
 <!-- /narrative -->
 
 ## Digitalisation
@@ -181,4 +185,10 @@ On 6 August the [Macetjeni Integrated Business, Employment and Innovation Hub wa
 <!-- narrative: data--data-statistics -->
 
 The inclusion survey is in the field: [the 2026 FinScope round covers 3,200 households in 320 enumeration areas, the first measurement since the 2018 round put inclusion at 87%](https://eswatinipositivenews.online/eswatini-targets-100-financial-inclusion-through-finscope-survey/), with no publication date given.
+<!-- /narrative -->
+### Open data
+
+<!-- narrative: data--data-open -->
+
+Two public dashboards were [launched at Ezulwini on 18 September, bringing economic, trade, investment and business-environment indicators and export-market information into one place with links to International Trade Centre tools](https://eswatinipositivenews.online/new-trade-dashboards-open-global-markets-for-eswatini/), with European Union support. No data licence or update schedule is stated.
 <!-- /narrative -->

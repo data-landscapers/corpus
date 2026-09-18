@@ -1,11 +1,11 @@
 ---
 title: Benin — monthly update, August – September 2026
-compiled: 2026-09-16
-period: 2026-08-01 to 2026-09-16
+compiled: 2026-09-18
+period: 2026-08-01 to 2026-09-18
 place: BEN
-ledger_rows: 36
+ledger_rows: 39
 not_held: 4
-record: 696327da372c
+record: f1c4f4d6bc7c
 ---
 
 # Benin: monthly update, August – September 2026
@@ -86,6 +86,14 @@ At the busiest land border, the systems gap was named on the record: Nigeria's c
 
 <!-- narrative: dpi--dpi-id -->
 The identity agency wants to analyse what it holds. It [opened a tender for the architecture of a business-intelligence environment over its national identity data](https://www.ungm.org/Public/Notice/312907). Analytics over a population register raises the question of what the analysis is for and who may run it; the tender notice in the record held does not answer either, and no purpose limitation is stated.
+
+On International Identity Day the identification agency [opened renewal of the biometric identity card online to all holders](https://beninwebtv.com/benin-la-carte-didentite-biometrique-peut-desormais-etre-renouvelee-en-ligne/), through an e-services platform available at any hour. No uptake figure has been published.
+<!-- /narrative -->
+### Digital Payments and Fintech
+
+<!-- narrative: dpi--dpi-pay -->
+
+Online tax filing is spreading beyond the large taxpayers. The tax directorate [opens its declaration and payment platform to the small-business tax centres of Parakou from 21 September, Comè from 28 September and Lokossa from 5 October](https://beninwebtv.bj/benin-limpot-en-ligne-arrive-a-parakou-come-et-lokossa/).
 <!-- /narrative -->
 ### Registries
 
@@ -102,6 +110,8 @@ The tax directorate's information-system modernisation surfaced in the window on
 
 <!-- narrative: dpi--dpi-govtech -->
 The University of Abomey-Calavi [made its ACTIA platform the sole channel for academic records, by a rectorate note of 31 July 2026](https://fraternite.bj/universite-dabomey-calavi-les-demandes-dactes-academiques-passent-desormais-par-la-plateforme-actia/). Closing the counter is what makes a platform load-bearing, and it is also the point at which anyone unable to use it stops being served; no alternative route for that case is stated.
+
+[UnivServices.bj went live for the 2026-2027 academic year at four public universities](https://chic-infos.com/benin-univservices-bj-centralise-les-services-destines-aux-etudiants/), with transport its first service and catering, housing and health announced to follow.
 <!-- /narrative -->
 
 ## Technology

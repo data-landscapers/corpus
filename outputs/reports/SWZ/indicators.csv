@@ -453,7 +453,9 @@ dpi.registry--social-protection-register,Movement,"A [social registry is pilotin
 
 [Targeting uses a proxy means test built on 20 variables from the household income and expenditure survey, and the programme carries US$2.5 million, about E42.5 million, of World Bank funding](2026-06-18-world-bank-injects-e42-5-million-social-registry); each region is to be given three months to implement.
 
-No national rollout date, no statement of which grant programmes will draw on the registry, and no data-protection or grievance arrangement for it, are on record.",SWZ-dpi.registry-social-registry-imbeleko
+No national rollout date, no statement of which grant programmes will draw on the registry, and no data-protection or grievance arrangement for it, are on record.
+
+2026-09-16 — the registry moved beyond its pilot region: the deputy prime minister [briefed Lubombo's members of parliament ahead of household data collection there](2026-09-16-lubombo-mps-join-dpm-to-make-every-vulnerable-household-count-eswatini-positiv). No registered-household count is stated.",SWZ-dpi.registry-social-registry-imbeleko
 dpi.registry--electoral-register,Movement,"The commission runs [continuous voter registration](2025-09-18-by-elections-registrations-begin), and a proposed compulsory chief code and residency rule are under review.","Continuous voter registration was operationalised from 19 to 28 September 2025 for two by-election divisions, open to newly eligible voters and to prospective candidates ([registration](2025-09-18-by-elections-registrations-begin)).
 
 The commission's own account of the process describes voter registration on an optical-mark-recognition identification system, production of a preliminary register and validation at chiefdom level ([process](2026-08-29-ebc-electoral-process)).
@@ -522,7 +524,9 @@ dpi.govtech--e-government-services,"Mixed, two citizen applications live while t
 
 The prime minister's own words — that the application must be watertight, that his office does not support outsourcing data to global technology companies, and that a memorandum signed without proper consideration for data protection is meaningless — are in his written responses tabled to the House of Assembly in March 2026 ([responses](2026-03-18-eswatini-observer-pm-denies-firing-ict-minister), [criticism](2025-07-04-biometricupdate-eswatini-giyh-privacy-criticism)).
 
-An assessment count of government services available online is held ([services](2026-05-21-critical-state-information-at-risk-in-9-govt-ministries)), and an electronic-government strategy is being founded on that same assessment with nothing yet produced ([strategy](2026-05-21-critical-state-information-at-risk-in-9-govt-ministries)).",SWZ-dpi.govtech-giyh|SWZ-dpi.govtech-taxpal|SWZ-infra.cybersec-govservices|SWZ-dpi.govtech-egovstrategy
+An assessment count of government services available online is held ([services](2026-05-21-critical-state-information-at-risk-in-9-govt-ministries)), and an electronic-government strategy is being founded on that same assessment with nothing yet produced ([strategy](2026-05-21-critical-state-information-at-risk-in-9-govt-ministries)).
+
+2026-09-17 — the prime minister [acknowledged the e-Visa platform failing on reliability, payments and turnaround, with no manual fallback](2026-09-17-pm-calls-for-disruption-to-fix-tourism-bottlenecks-eswatini-positive-news).",SWZ-dpi.govtech-giyh|SWZ-dpi.govtech-taxpal|SWZ-infra.cybersec-govservices|SWZ-dpi.govtech-egovstrategy|SWZ-dpi.govtech-e-visa
 digital.localgov--ict-infrastructure-for-local-government,Movement,[Thirty-eight constituency centres](2026-07-22-independentnews-digital-eswatini-project-leadership) are included in the digital project's connectivity target.,"The centres are part of the 1,031-institution target ([centres](2026-07-22-independentnews-digital-eswatini-project-leadership)).
 
 No timetable, service list or per-centre arrangement is published. Constituency centres are the tier at which most citizens meet the state in this country, so their inclusion in the connectivity target is the single most consequential line in it.",SWZ-digital.localgov-tinkhundla
@@ -697,7 +701,9 @@ The national data policy drafting opened in April 2026 with European Union, memb
 
 Where data is published it is published as documents: the 2025 civil registration report was launched publicly with national figures ([commemoration](2026-08-25-eswatini-crvs-gains-2025-report)).
 
-A report is not a dataset. No published dataset, licence or release obligation is held.",SWZ-data.open-none|SWZ-gov.policy-datapolicy|SWZ-gov.policy-digital-readiness-assessment
+A report is not a dataset. No published dataset, licence or release obligation is held.
+
+2026-09-18 — [two public trade and investment dashboards were launched](2026-09-18-new-trade-dashboards-open-global-markets-for-eswatini-eswatini-positive-news), gathering economic, trade and investment indicators with EU support. No licence or update schedule is stated.",SWZ-data.open-none|SWZ-gov.policy-datapolicy|SWZ-gov.policy-digital-readiness-assessment|SWZ-data.open-trade-investment-dashboards
 data.satellite--agricultural-use-of-satellite-data,Movement,"The agriculture ministry runs a [composite drought index](2022-04-01-eswatini-pre-harvest-crop-assessment-2021-22) on satellite inputs, and a space agency was announced in February 2026.","The ministry's crop assessment runs a national composite drought index on satellite rainfall, vegetation-index and land-surface-temperature inputs; the 2021/22 assessment put maize production at 127,315 tonnes, 27 per cent up on the previous season, at an average national yield of 1.7 tonnes a hectare ([assessment](2022-04-01-eswatini-pre-harvest-crop-assessment-2021-22)).
 
 An inaugural space science indaba convened by the ICT ministry in February 2026 to work the country's allocated orbital slot named agriculture, drought prediction and crop planning among the priority applications, and announced a national space agency ([indaba](2026-02-06-eswatini-inaugurates-space-science-indaba)).
