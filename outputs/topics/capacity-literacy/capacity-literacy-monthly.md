@@ -1,10 +1,10 @@
 ---
 title: Literacy — monthly update, August – September 2026
-compiled: 2026-09-17
-period: 2026-08-01 to 2026-09-17
+compiled: 2026-09-18
+period: 2026-08-01 to 2026-09-18
 subject: capacity.literacy
 places: AGO; COM; COD; EGY; GHA; KEN; LBR; MDG; MOZ; RWA; SEN; SSD; TZA; TGO; ZMB
-record: ebe0918f3cfa
+record: 80302adb6370
 ---
 
 # Literacy: monthly update, August – September 2026

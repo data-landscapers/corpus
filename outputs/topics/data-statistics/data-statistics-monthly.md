@@ -1,15 +1,15 @@
 ---
 title: National statistics — monthly update, August – September 2026
-compiled: 2026-09-17
-period: 2026-08-01 to 2026-09-17
+compiled: 2026-09-18
+period: 2026-08-01 to 2026-09-18
 subject: data.statistics
-places: BEN; BWA; BFA; BDI; CMR; CAF; TCD; COM; COG; COD; GNQ; SWZ; GAB; GHA; KEN; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; TGO; UGA; ZWE
-record: fca5138ca3ff
+places: BEN; BWA; BFA; BDI; CMR; CAF; TCD; COM; COG; COD; GNQ; SWZ; GAB; GHA; KEN; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; TGO; TUN; UGA; ZWE
+record: db37eb10c122
 ---
 
 # National statistics: monthly update, August – September 2026
 
-*33 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*34 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -160,6 +160,10 @@ The office also published [a frame update for the continuous population survey a
 The dissemination layer is being rebuilt while the strategy above it has lapsed. The 2024 [national statistical yearbook](https://inseed.tg/download/7668/) was reissued in a revised edition in August, compiled from sectoral administrative systems and ministry returns as well as censuses. The [2020-2024 statistics strategy](https://afristat.org/wp-content/uploads/2022/04/22_Togo-SNDS-II_Adopte-CNS-le-27aout20_avant-propos-signe-MPDC.pdf) beneath it expired with no successor adopted; orientations were set in June, and orientations are not a strategy.
 
 The statistics institute put a second survey in the field. The third harmonised household living-conditions survey [runs to December 2026, covering poverty, income and employment](https://www.togofirst.com/en/economic-governance/0409-19955-togo-launches-household-living-conditions-survey-running-through-december) — the second of two rounds opened within six weeks, after a demographic and health gap of more than a decade.
+
+## Tunisia
+
+The National Statistics Council [reviewed the statistics institute's development strategy and its 2027 work programme at its second ordinary plenary of the year](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/154190-%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%84%D9%84%D8%A5%D8%AD%D8%B5%D8%A7%D8%A1-%D9%8A%D8%B3%D8%AA%D8%B9%D8%B1%D8%B6-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%84%D9%84%D8%A5%D8%AD%D8%B5%D8%A7%D8%A1-%D9%88%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%B9%D9%85%D9%84%D9%87-%D9%84%D8%B3%D9%86%D8%A9-2027) on 16 September, alongside its own annual statistical programme and the progress of the general agricultural census. Neither the strategy nor the work programme is published with the communique, which is the same pattern the statistics code and the SNDS 2026-2030 have followed: named on the record without being available on it.
 
 ## Uganda
 

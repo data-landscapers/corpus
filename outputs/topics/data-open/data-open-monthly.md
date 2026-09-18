@@ -1,15 +1,15 @@
 ---
 title: Open data — monthly update, August – September 2026
-compiled: 2026-09-17
-period: 2026-08-01 to 2026-09-17
+compiled: 2026-09-18
+period: 2026-08-01 to 2026-09-18
 subject: data.open
-places: BEN; BFA; CPV; TCD; COM; DJI; COD; GAB; GMB; GHA; GIN; LBR; LBY; MDG; MLI; MUS; MAR; NAM; NGA; SEN; SOM; TZA; TUN; ZWE
-record: 42e44dcbc0ed
+places: BEN; BFA; CPV; TCD; COM; DJI; COD; GAB; GMB; GHA; GIN; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NGA; SEN; SOM; TZA; TUN; ZWE
+record: eb8e798bea75
 ---
 
 # Open data: monthly update, August – September 2026
 
-*24 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*25 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -74,6 +74,10 @@ The month's one dataset is a trial. On 12 August the acting industry and mineral
 ## Madagascar
 
 Madagascar's open data is institution-specific and has no policy over it. The National Assembly runs a [read-only interface serving five parliamentary datasets as JSON and CSV under an open licence, rate-limited to 60 requests a minute, its counters reading 163 deputies, 45 texts and 128 sittings](https://parlement.mg/opendata/). Against that, a [general portal is a reachable landing page with six undated category tiles and four unlinked project cards, naming no issuing institution, dataset count or licence, and credited in its footer only to a private vendor](https://opendata.mg/); the finance ministry's own portal does not resolve. No whole-of-government open-data policy or mandate is held.
+
+## Malawi
+
+What the right of access yields was measured for the first time. A newspaper investigation found that [65 per cent of 30 respondents received no answer to an information request inside the statutory 15-day period and 46.7 per cent gave up, with non-response the most cited reason a request failed](https://malawi24.com/2026/09/16/when-information-requests-go-nowhere/), and its own requests to ten public institutions — among them the Anti-Corruption Bureau, two ministries, the police and the revenue authority — produced the information in no case. The human rights commission's access-to-information unit says it can only make recommendations. It is one publication's survey rather than an official series, and no state figure exists to set beside it.
 
 ## Mali
 

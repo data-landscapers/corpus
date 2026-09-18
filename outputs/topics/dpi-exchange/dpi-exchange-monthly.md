@@ -1,15 +1,15 @@
 ---
 title: Data Exchange — monthly update, August – September 2026
-compiled: 2026-09-17
-period: 2026-08-01 to 2026-09-17
+compiled: 2026-09-18
+period: 2026-08-01 to 2026-09-18
 subject: dpi.exchange
-places: DZA; AGO; BEN; BWA; BFA; CMR; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: e678302902b3
+places: DZA; AGO; BEN; BWA; BFA; CMR; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MAR; MOZ; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: dd8a7ebe6412
 ---
 
 # Data Exchange: monthly update, August – September 2026
 
-*44 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*45 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -150,6 +150,10 @@ Two days later the South African side notified the update from its end, [publish
 The national public key infrastructure and electronic signature services were [recommended for effective deployment at the digital week on 1 August](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html). Nothing names a first service, an operator or a date.
 
 Customs is the one exchange with a build behind it. At a Bamako round table on 7 August convened by the Prime Minister's office and the chamber of commerce with private operators, the customs directorate [presented a project to interconnect customs information systems for goods in transit](https://apanews.net/mali-moves-to-streamline-foreign-trade-procedures/), aimed at cutting customs, transit and import-export processing times and building on a World Bank technical mission of 31 July. [Mali's implementation of the WTO Trade Facilitation Agreement was put at 83.6%](https://apanews.net/mali-moves-to-streamline-foreign-trade-procedures/) at the same consultation. No counterpart administration, timetable, cost or system name is stated.
+
+## Mauritania
+
+One sector shows what the exchange is for. The housing minister said that [qualification and classification of construction firms now runs exclusively through a government platform linked electronically to the tax administration, the transport administration, the procurement commission, the social security fund and the registry administration](https://www.ami.mr/archives/268331), the purpose being to cut human intervention and fraud. A draft decree would replace the 2022 text, requiring accreditation for delegated project managers and inspection offices and cutting the commission from 22 members to 15; it is not adopted, and no file volume or turnaround figure is published.
 
 ## Morocco
 

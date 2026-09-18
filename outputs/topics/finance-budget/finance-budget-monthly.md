@@ -1,15 +1,15 @@
 ---
 title: Domestic budget appropriations and expenditure — monthly update, August – September 2026
-compiled: 2026-09-17
-period: 2026-08-01 to 2026-09-17
+compiled: 2026-09-18
+period: 2026-08-01 to 2026-09-18
 subject: finance.budget
-places: AGO; COD; EGY; GMB; NER; SEN; SDN; TUN
-record: 71d90f0ffd40
+places: AGO; COD; EGY; GMB; NER; SEN; SDN; TZA; TUN
+record: 33528a5c3431
 ---
 
 # Domestic budget appropriations and expenditure: monthly update, August – September 2026
 
-*8 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*9 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -42,6 +42,10 @@ The constraint on that deployment is money, and the agency said so itself. On 17
 ## Sudan
 
 [Sudan's state minister of finance reaffirmed a commitment to implementing a Treasury Single Account system at the African Summit for Social Impact in Abuja on 2 August 2026](https://sudantribune.net/article/316950), inviting IGAD, COMESA, the World Bank, the IMF and the African Development Bank to future development-financing engagement, with no target date, phase or coverage given for the TSA itself.
+
+## Tanzania
+
+The identity system acquired a stated development allocation. At the Identity Day observance the Prime Minister put [more than 132bn/- to the registration authority's development projects for 2026/27, including 31 registration offices](https://dailynews.co.tz/unclaimed-ids-law-in-offing/), in the same speech in which he said the government cannot keep absorbing the cost of printing high-cost cards that are then abandoned. The figure comes from a speech rather than an appropriation document, and no prior-year allocation is held to read it against.
 
 ## Tunisia
 

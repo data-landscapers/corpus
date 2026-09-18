@@ -1,15 +1,15 @@
 ---
 title: Connectivity — monthly update, August – September 2026
-compiled: 2026-09-17
-period: 2026-08-01 to 2026-09-17
+compiled: 2026-09-18
+period: 2026-08-01 to 2026-09-18
 subject: infra.connect
-places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 30a0a32e6023
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 748a30d110f9
 ---
 
 # Connectivity: monthly update, August – September 2026
 
-*46 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*47 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -49,6 +49,8 @@ On 3 August the regulator ARCT [accepted that internet quality is degraded and n
 
 On the money side, the universal service fund's [revised FY2026/27 procurement plan carries BIF 11.40bn for dedicated IP transit](https://armp.gov.bi/archives/10856) — 8 Mbit to public health facilities and 10 Mbit to schools — funded from the 1% levy on operator turnover rather than from the general budget.
 
+International capacity moved for the first time in the record: Tanzania's state operator and the Burundi Backbone System [agreed to raise the Tanzanian route from 4Gbps to 10Gbps](https://techafricanews.com/2026/09/09/ttcl-bbs-increase-tanzania-burundi-connectivity-capacity-10gbps/) on 9 September. Nothing is published for the Rwandan or Congolese routes, so the country's total is still unknown.
+
 ## Cameroon
 
 The regulator's director-general said the [preparatory work for 5G is practically complete but set no date for commercial launch](https://www.businessincameroon.com/telecom/2608-16620-cameroon-says-5g-groundwork-nearly-complete-with-more-operator-investment-needed), calling for more operator investment. A regulator saying the groundwork is done while naming no date is the whole of the position: no spectrum award, coverage obligation or licence term is on file.
@@ -66,6 +68,10 @@ The country's dependence on one neighbour was examined. A published assessment [
 Comores Télécom [revised its retail fibre and mobile offer on 15 July 2026](https://alwatwan.net/societe/télécommunications-i-comores-télécom-lance-de-nouvelles-offres.html), cutting the entry fibre tariff from KMF 32,500 to KMF 30,000 a month while raising the basic allowance from 800 GB to 850 GB and adding unlimited calls to fixed lines. [Director-general Ali Hadji Mmadi also announced eSIM provisioning — KMF 5,000 to migrate an existing SIM, KMF 10,000 for a new one — and two paid value-added SMS services, a pharmacy-on-duty locator and prayer-time notifications](https://alwatwan.net/societe/télécommunications-i-comores-télécom-lance-de-nouvelles-offres.html). The account is the operator's own press event, and its internal dateline is inconsistent: it describes the launch as "yesterday, Monday 15 July," though 15 July 2026 fell on a Wednesday, so the date's precision is flagged uncertain.
 
 The connectivity project the agency carries reached the stage before financing. At a technical meeting on 10 August the [African Development Bank and the Multilateral Cooperation Center for Development Finance told the finance ministry they were ready to fund the feasibility studies as a grant](https://alwatwan.net/economie/connectivit%C3%A9-num%C3%A9rique-i-la-bad-et-le-mcdf-pr%C3%AAts-%C3%A0-soutenir-le-projet-comorien.html), the project covering data-centre studies and inter-island connectivity. No commitment amount, study contract or timetable is stated, so no finance record was built.
+
+## Congo
+
+The universal access and service fund put a cumulative figure on the record for the first time: [more than 380,000 people in formerly isolated areas now have communication infrastructure, and more than 250 localities are better linked to urban centres and essential services](https://labreveonline.com/le-congo-et-lafrique-centrale-sorganisent-pour-mieux-rsister-aux-catastrophes/). The figure was given at a regional workshop on emergency telecommunications, where the country's own plan is still to be written; it covers the fund's whole life rather than the period, and the fund has published no annual series against which to read it.
 
 ## Cote d'Ivoire
 

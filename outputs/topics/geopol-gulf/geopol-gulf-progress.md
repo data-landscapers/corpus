@@ -1,10 +1,10 @@
 ---
 title: Gulf/UAE activities — progress report, September 2025 – September 2026
-compiled: 2026-09-17
-period: 2025-09-01 to 2026-09-17
+compiled: 2026-09-18
+period: 2025-09-01 to 2026-09-18
 subject: geopol.gulf
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; GNQ; ERI; SWZ; ETH; GAB; GMB; GIN; GNB; KEN; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 83a00f96b6f3
+record: b8f6a0abdfca
 ---
 
 # Gulf/UAE activities: progress report, September 2025 – September 2026

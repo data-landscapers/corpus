@@ -1,15 +1,15 @@
 ---
 title: Cybersecurity — monthly update, August – September 2026
-compiled: 2026-09-17
-period: 2026-08-01 to 2026-09-17
+compiled: 2026-09-18
+period: 2026-08-01 to 2026-09-18
 subject: infra.cybersec
-places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; TCD; COG; CIV; SWZ; GAB; GHA; KEN; LSO; LBR; LBY; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 8055c711ffda
+places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; TCD; COM; COG; CIV; SWZ; GAB; GHA; KEN; LSO; LBR; LBY; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 81270205cf44
 ---
 
 # Cybersecurity: monthly update, August – September 2026
 
-*35 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*36 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -56,6 +56,10 @@ The surveillance programme moved to a third phase on foreign money. China [made 
 ## Chad
 
 The window's one cyber measure is a loss figure, and it comes from research rather than from the state. A comparative study of online job scams [puts the average loss for a Chadian victim at 58,000 FCFA per incident, against 132,000 FCFA in Cameroon](https://issafrica.org/research/books-and-other-publications/digital-deception-online-job-scams-amid-cybercrime-vulnerability-in-cameroon-and-chad), and finds the Chadian cases to be predominantly localised SMS and voice phishing — 70% of respondents — where the Cameroonian pattern is WhatsApp-based social engineering linked to Nigerian networks. It is a survey of respondents rather than a reported-crime series, and neither a sample size nor a national loss total is carried in the record held. Chad has no computer emergency response team and no adopted cybersecurity strategy, so there is nothing on the state's side of this to compare it against.
+
+## Comoros
+
+Cybersecurity cooperation moved outside the usual partners. A Russian embassy delegation visiting from 8 to 12 September [took up with the telecommunications and digital economy minister a memorandum on information security the two governments had already initialled, covering professional training, skills-building and the fight against cybercrime](https://alwatwan.net/politique/comores-russie-i-une-coop%C3%A9ration-bilat%C3%A9rale-appel%C3%A9e-%C3%A0-%C2%ABfranchir-un-nouveau-cap%C2%BB.html), with the Comorian side proposing a further document on training Comorian trainers. No signature date, text or funding is published, and the same visit prepared the opening of a Russian embassy in Moroni.
 
 ## Congo
 

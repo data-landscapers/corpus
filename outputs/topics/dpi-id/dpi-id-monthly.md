@@ -1,15 +1,15 @@
 ---
 title: Digital Identity and CRVS — monthly update, August – September 2026
-compiled: 2026-09-17
-period: 2026-08-01 to 2026-09-17
+compiled: 2026-09-18
+period: 2026-08-01 to 2026-09-18
 subject: dpi.id
-places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COM; COG; COD; EGY; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MWI; MRT; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: b02fa4832fc1
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COM; COG; COD; EGY; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: ddb1580be0b3
 ---
 
 # Digital Identity and CRVS: monthly update, August – September 2026
 
-*41 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*42 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -152,6 +152,10 @@ The identity concession has a stated scope. The registry [plans to join the iden
 An independent count put a figure on what the enforcement is chasing. A data analysis built on 66 official publications of the Attorney General's office to April 2026 [found 278,969 nationality files exposed to forgery over a 43-year window, with 10,620 families and more than 4,000 individuals implicated, and named five mechanisms from insertion of records into family registers to direct manipulation of the registry database](https://alwasat.ly/news/475886). It is an outside analysis of published prosecutions rather than an official audit, and no state response to the count is held.
 
 The forgery count grew: [3,090 national numbers issued on forged civil-status data at the Majdul registry office were halted and suspects referred for investigation](https://libyaalahrar.tv/2026/09/10/%D8%A5%D9%8A%D9%82%D8%A7%D9%81-3090-%D8%B1%D9%82%D9%85%D8%A7-%D9%88%D8%B7%D9%86%D9%8A%D8%A7-%D9%85%D8%B2%D9%88%D8%B1%D8%A7-%D9%88%D8%A5%D8%AD%D8%A7%D9%84%D8%A9-%D9%85%D8%AA%D9%87%D9%85%D9%8A%D9%86-%D9%84%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82/).
+
+## Madagascar
+
+The identity programme marked its own day and started its next phase. [Phase II of the enrolment operation, Izaho Tokana 2.0, was launched on the second day of the 2026 National Identity Day, under the World Bank's DECIM project](https://midi-madagasikara.mg/etat-civil-loif-aux-cotes-de-madagascar-pour-la-journee-nationale-de-lidentite/), the day itself institutionalised by decree 2024-067 and supported this year by a high-level conference of more than 150 people preparing the 2027-2036 civil-registration decade. No target or coverage figure is given for the phase, so what it adds to the six million enrolments already reported is not established.
 
 ## Malawi
 

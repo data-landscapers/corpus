@@ -1,10 +1,10 @@
 ---
 title: Data Storage — progress report, September 2025 – September 2026
-compiled: 2026-09-17
-period: 2025-09-01 to 2026-09-17
+compiled: 2026-09-18
+period: 2025-09-01 to 2026-09-18
 subject: infra.store
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 61eced7acd36
+record: 050ec6364598
 ---
 
 # Data Storage: progress report, September 2025 – September 2026
