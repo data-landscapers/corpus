@@ -1,11 +1,11 @@
 ---
 title: Malawi — monthly update, August – September 2026
-compiled: 2026-09-17
-period: 2026-08-01 to 2026-09-17
+compiled: 2026-09-18
+period: 2026-08-01 to 2026-09-18
 place: MWI
-ledger_rows: 59
+ledger_rows: 62
 not_held: 38
-record: a27b6815a4ab
+record: c74e13014220
 ---
 
 # Malawi: monthly update, August – September 2026
@@ -198,6 +198,11 @@ The universal service fund is in operation and funded from the regulator's annua
 
 <!-- narrative: data--data-statistics -->
 The statistical office and the communications regulator [put a Fourth National ICT Survey into the field from August to October across all districts, including the refugee camp at Dzaleka](https://malawidatanews.com/2026/08/14/national-ict-survey-on-the-cards/), covering mobile and computer ownership, internet access, digital financial services, e-commerce and cybersecurity awareness. No publication date for the results is stated, which is the part that decides whether it informs anything.
+<!-- /narrative -->
+### Open data
+
+<!-- narrative: data--data-open -->
+What the right of access yields was measured for the first time. A newspaper investigation found that [65 per cent of 30 respondents received no answer to an information request inside the statutory 15-day period and 46.7 per cent gave up, with non-response the most cited reason a request failed](https://malawi24.com/2026/09/16/when-information-requests-go-nowhere/), and its own requests to ten public institutions — among them the Anti-Corruption Bureau, two ministries, the police and the revenue authority — produced the information in no case. The human rights commission's access-to-information unit says it can only make recommendations. It is one publication's survey rather than an official series, and no state figure exists to set beside it.
 <!-- /narrative -->
 
 ## Geopolitics
