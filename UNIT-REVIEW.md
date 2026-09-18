@@ -2,7 +2,7 @@
 type: runbook
 title: UNIT-REVIEW — two places' reports reviewed whole, every night — instruction for Claude Code
 opened: 2026-09-17
-last_reviewed: 2026-09-17
+last_reviewed: 2026-09-18
 ---
 
 # UNIT-REVIEW — two countries or regions a cycle, every report each issues
@@ -52,7 +52,11 @@ Commands run from `scripts/.workroot/`, where `raw/` and `wiki/` resolve; the ro
    - **Status** (countries). Does each sub-section state the position the ledger and the newest held sources now establish? Superseded facts, figures whose *as of* has been overtaken, an opening sentence no longer carrying the best-evidenced news, a claim its link does not make. Revise under `BUILD.md` → *Maintaining the status baseline*, whose rules apply whole — including its revert rule and *a borderline source changes nothing*.
    - **Progress.** Does `indicators.csv` answer from the ledger as it stands — every moved or minted row mapped, each Developments cell current, each Progress judgement supported by what it cites? A *No evidence* over a ledger that holds the answer is the `considered-not-carried.md` defect and is repaired here. `documentation/indicator-mapping-conventions.md` is the procedure.
    - **Monthly.** Does every narrative block describe what is in the window? Sentences about a period that has moved on come out; a standing fact that belongs in the status report comes out of the monthly (`BUILD.md` stage 4 step 5).
-   - **Non-state finance.** The table is derived and **never hand-edited**. Read the rows for a deal counted twice, a recipient that is not this place, an amount whose basis or quality the description contradicts, a financier name that did not resolve, a row that is state finance, a total in `-summary.csv` the rows do not support. **Repair where the defect lives.** A fault in how Corpus compiles the rows — `scripts/build-finance-page.py` or `scripts/finance_lib.py` — is fixed here, then `python scripts/build-finance-page.py --all`. A fault in the record, or in the financier-name and deal maps the compile reads through the `lookups` junction, is OSINT's: an `[ACT]` note in `C:\corpus-osint-xfer\notes-for-osint.md` with `Affects: outputs/non-state-finance/{U}-nonstate.csv` (`CLAUDE.md` → *The exchange*), committed and pushed in the share.
+   - **Non-state finance.** The table is derived and **never hand-edited**. Read the rows for a deal counted twice, a recipient that is not this place, an amount whose basis or quality the description contradicts, a financier name that did not resolve, a row that is state finance, a total in `-summary.csv` the rows do not support — and read the unit's held sources for **a deal with no row at all**. **Repair where the defect lives.** A fault in how Corpus compiles the rows — `scripts/build-finance-page.py` or `scripts/finance_lib.py` — is fixed here, then `python scripts/build-finance-page.py --all`. The other two cases are OSINT's, and take different routes:
+     - **A deal with no record is minted, not asked for.** Write the draft deal record to `wiki/finance-record-spec.md` — its five-fact test, template, filename and *Verification* list — from the held source, whose `url:` it carries. First search `raw/` for the source's `deal_id`, project ID and financier-plus-recipient, so a deal already held is not drafted twice. Drafts go in `C:\corpus-osint-xfer\new-queue\unit-review-{U}\`, one folder a unit a night; **write `READY` last**, once every draft is in and checked. The cycle pulls the folder and ingest decides — a draft is not admitted by being queued, and one that duplicates a held record is dropped there. No note is written for a draft.
+     - **A held record that is wrong** — its instrument, amount, date or recipient — or a fault in the financier-name and deal maps the compile reads through the `lookups` junction, is an `[ACT]` note in `C:\corpus-osint-xfer\notes-for-osint.md` with `Affects: outputs/non-state-finance/{U}-nonstate.csv` (`CLAUDE.md` → *The exchange*). A note is for correcting what is held, never for requesting a record.
+
+     Either way the share is committed and pushed in the same run. *Worked example: `notes-for-osint` 141, Angola's first review, found a satellite loan filed as an MoU — a note, since the record was held — and two deals with no record: the US EXIM loan to Africell and the World Bank's Tertiary Education, Science and Technology Project. Under this rule those two are drafts in `new-queue\unit-review-AGO\`. (OSINT minted them from the note on 2026-09-17, before the rule was written, so none was queued.)*
 
    `BUILD.md` stage 4 is in force throughout: no fact without a source on its own sentence, the register of `report-layer.md` §10, *the repository* never *the base* in published prose, and **no finding noted and left** — a finding is repaired in this run, converted to a finished outcome (*Not held* with a `gaps.csv` line, a claim struck), or, if it needs more than a run, a block in `logs/messages-for-bill.md`.
 
@@ -72,7 +76,7 @@ Commands run from `scripts/.workroot/`, where `raw/` and `wiki/` resolve; the ro
 6. **Log it**:
 
    ```bash
-   python scripts/log-line.py review "{U}: status <n> sections revised, progress <n> cells, monthly <n> blocks, finance <n> rows; <n> notes for OSINT — ok"
+   python scripts/log-line.py review "{U}: status <n> sections revised, progress <n> cells, monthly <n> blocks, finance <n> rows; <n> deals queued, <n> notes for OSINT — ok"
    ```
 
    Counts of zero are written, not omitted, so a line says what was looked at.
@@ -85,4 +89,4 @@ Commands run from `scripts/.workroot/`, where `raw/` and `wiki/` resolve; the ro
 
 ## Boundary
 
-Nothing here writes to `C:\OSINT`. A defect in a record is a note in the share, never an edit — `CLAUDE.md` has the rule.
+Nothing here writes to `C:\OSINT`. A defect in a record is a note in the share and a missing record is a draft in `new-queue/`, never an edit — `CLAUDE.md` has the rule.
