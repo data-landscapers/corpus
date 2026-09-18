@@ -47,8 +47,11 @@ def records():
     """{slug: (frontmatter, body)} for every `raw/` source."""
     out = {}
     for path in glob.glob(os.path.join(RAW, "**", "*.md"), recursive=True):
-        with open(path, encoding="utf-8", errors="replace") as fh:
-            text = fh.read()
+        try:
+            with open(path, encoding="utf-8", errors="replace") as fh:
+                text = fh.read()
+        except FileNotFoundError:   # the mirror syncing under the walk
+            continue
         fm = V.parse_frontmatter(text)
         fm = fm[0] if isinstance(fm, tuple) else fm
         body = text.split("\n---", 2)[-1] if text.startswith("---") else text
@@ -56,17 +59,28 @@ def records():
     return out
 
 
-def delivered() -> set:
+def delivered(recs: dict) -> set:
+    """Slugs already sent and still owed an answer. A batch OSINT has applied (most of its
+    slugs now carry a hero) returns its refusals to the pool; one not yet applied holds all."""
     seen = set()
     for path in glob.glob(os.path.join(PREPARED, "hero-*.jsonl")):
         with open(path, encoding="utf-8") as fh:
-            seen |= {json.loads(l)["slug"] for l in fh if l.strip()}
+            slugs = [json.loads(l)["slug"] for l in fh if l.strip()]
+        done = [s for s in slugs if recs.get(s, ({}, ""))[0].get("catalogue_hero")]
+        seen |= set(done) if len(done) * 2 > len(slugs) else set(slugs)
     return seen
 
 
+# Titles this short trip OSINT's restatement test whatever the hero says (notes-for-corpus 31,
+# housekeeping job 118). They wait for that test to be loosened rather than get distorted heroes.
+SHORT_TITLE = 2
+
+
 def prepare(a) -> int:
-    recs, done = records(), delivered()
-    todo = [s for s, (fm, _) in recs.items() if not fm.get("catalogue_hero") and s not in done]
+    recs = records()
+    done = delivered(recs)
+    todo = [s for s, (fm, _) in recs.items() if not fm.get("catalogue_hero") and s not in done
+            and len(str(fm.get("title") or "").split()) > SHORT_TITLE]
     if a.sample:
         random.Random(a.seed).shuffle(todo)
     else:
@@ -104,7 +118,9 @@ def problems(hero: str, title: str) -> list:
     norm = lambda t: re.sub(r"\W+", " ", t.lower()).strip()  # noqa: E731
     if re.search(r"stub|captured|held elsewhere|cite_through|excerpt", hero, re.I):
         out.append("speaks of the record, not the document")
-    if title and (norm(hero) == norm(title) or norm(hero) in norm(title)):
+    # OSINT's `catalogue-hero-set.py` refuses either containment (notes-for-corpus 31), so a
+    # hero that opens on its title bounces there even when the rest of it adds something.
+    if title and (norm(hero) in norm(title) or norm(title) in norm(hero)):
         out.append("restates the title")
     return out
 

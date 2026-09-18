@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-09-18 14:50 · **HERO** · unclocked · Batch 02 (review 4 R30): 2,000 heroes on Sonnet to X:\prepared\hero-02.jsonl, check clean; 6 corrected for figures the source does not state - ok
 2026-09-18 14:31 · **HERO** · unclocked · Batch 01 (review 4 R30): 2,000 heroes on Sonnet to X:\prepared\hero-01.jsonl, check clean; 13 corrected for figures the source does not state. check now flags unsourced figures - ok
 2026-09-18 14:09 · **HERO** · unclocked · Sample of 200 written on Sonnet (review 4 R28) to X:\prepared\hero-00.jsonl, contract check clean; one hero rewritten for describing the record, one altered slug restored. hero-batch.py and hero-brief.md carry R30 - ok
 2026-09-18 14:03 · **STATUS-ACQUIRE** · unclocked · STP staged (review 4 R23): 20 of 28 rows in X:\new-queue\status-acquire-STP with READY, lint clean; 8 in the drop list, 3 of them unfetchable with Wayback unchecked (429). scripts/status-stage.py runs R26 - ok
