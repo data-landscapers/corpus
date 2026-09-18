@@ -1,11 +1,11 @@
 ---
 title: Liberia — monthly update, August – September 2026
-compiled: 2026-09-17
-period: 2026-08-01 to 2026-09-17
+compiled: 2026-09-18
+period: 2026-08-01 to 2026-09-18
 place: LBR
-ledger_rows: 41
+ledger_rows: 42
 not_held: 6
-record: b6efa03bb87c
+record: 9c5f1d908923
 ---
 
 # Liberia: monthly update, August – September 2026
@@ -83,6 +83,8 @@ The identity build reached the legislature. The National Identification Registry
 A second identity register is being built outside the state entirely. On 16 August the commercial motorcycle and tricycle riders' union and a private digital services company [signed a memorandum to build a digital identity, GPS tracking and a rider database](https://www.thenewdawnliberia.com/motorcycle-union-digital-liberia-sign-deal-to-track-riders-combat-theft/), aimed at curbing vehicle theft and linking informal-sector riders to formal financial and government services. It covers continuous location tracking of a working population, and no data-protection basis, custodian, retention rule or consent mechanism is reported for it.
 
 The identity concession has a stated scope. The registry [plans to join the identity register to civil registration and vital statistics in one system](https://www.biometricupdate.com/202609/liberia-to-link-national-id-crvs-in-planned-infrastructure-upgrade), though the agreement still waits on Parliament.
+
+The president's proclamation of a National Identification Day [put enrolment at about 720,000](https://www.africa-newsroom.com/press/liberia-president-boakai-declares-wednesday-september-16-as-national-identification-day?lang=en), with issuance suspended since June 2025. On the day, the registry [appealed to the legislature to ratify the US$54.7m build-operate-transfer agreement with its Austrian supplier](https://www.thenewdawnliberia.com/nir-seeks-legislative-approval-for-us54-7m-identity-deal/), and said [free cards under it would go only to disadvantaged and unemployed citizens, with employed Liberians and foreign residents paying a fee](https://allafrica.com/stories/202609170254.html).
 <!-- /narrative -->
 ### Digital Payments and Fintech
 

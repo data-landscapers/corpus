@@ -3,9 +3,9 @@ title: Gabon — monthly update, August – September 2026
 compiled: 2026-09-18
 period: 2026-08-01 to 2026-09-18
 place: GAB
-ledger_rows: 54
+ledger_rows: 55
 not_held: 18
-record: 6f2e619519ef
+record: 27c515fc17b6
 ---
 
 # Gabon: monthly update, August – September 2026
@@ -107,6 +107,8 @@ A domestic commentary put the governance question on transport digitalisation in
 The beneficiary file behind the social register's intended base is unreliable: the Court of Accounts [found about 120,000 of the roughly one million people on the economically weak persons' health fund file improperly registered](https://union.sonapresse.com/fr/cnamgs-120-000-beneficiaires-indument-enregistres).
 
 Three ministers [met SNEDAI Groupe on 14 September on digitalising land tenure and civil registration](https://agpgabon.ga/gabon-digitalisation-le-gouvernement-echange-avec-le-snedai/), the company offering prefinancing; administrations were asked to name focal points, and no contract is held.
+
+The social security fund [launched e.CNSS, letting employers register online from Gabon or abroad instead of queueing at a counter](https://gabonclic.info/gabon-avec-sa-revolution-numerique-la-cnss-conjugue-le-service-public-au-present/). No registration count or link to the business register is stated.
 <!-- /narrative -->
 ### Sectoral management information systems
 

@@ -3,9 +3,9 @@ title: Cape Verde — monthly update, August – September 2026
 compiled: 2026-09-18
 period: 2026-08-01 to 2026-09-18
 place: CPV
-ledger_rows: 19
+ledger_rows: 20
 not_held: 30
-record: 15ff98ee2eca
+record: 166efa77ccca
 ---
 
 # Cape Verde: monthly update, August – September 2026
@@ -67,6 +67,8 @@ The surveillance programme moved to a third phase on foreign money. China [made 
 
 <!-- narrative: dpi--dpi-pay -->
 Complaints about bank fraud [rose from 10 in 2024 to 25 in 2025, a rise of 150 per cent](https://expressodasilhas.cv/economia/2026/08/17/reclamacoes-por-fraude-bancaria-aumentam-150-em-2025/104150), which the central bank attributes to the growing digitalisation of financial services and the security of digital channels. Fraud was the [second most complained-of matter after bank accounts, inside 278 complaints for the year, against which twenty-five supervision measures were adopted and CVE 3,154,582 was restituted to consumers](https://expressodasilhas.cv/economia/2026/08/17/reclamacoes-por-fraude-bancaria-aumentam-150-em-2025/104150). It is the first fraud series the repository holds, and two years is not yet a trend.
+
+Card traffic held steady through August. Residents [made 4,992,880 operations worth CVE 21,159.9m on the vinti4 network, 3,768,595 of them card purchases, 0.3 per cent fewer than in July](https://expressodasilhas.cv/economia/2026/09/14/quase-5-milhoes-de-operacoes-na-rede-vinti4-em-agosto/104611), on the central bank's monthly figures.
 <!-- /narrative -->
 ### Registries
 
