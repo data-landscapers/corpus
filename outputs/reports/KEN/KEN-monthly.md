@@ -1,11 +1,11 @@
 ---
 title: Kenya — monthly update, August – September 2026
-compiled: 2026-09-17
-period: 2026-08-01 to 2026-09-17
+compiled: 2026-09-18
+period: 2026-08-01 to 2026-09-18
 place: KEN
-ledger_rows: 176
+ledger_rows: 182
 not_held: 7
-record: 444b47b290f8
+record: aed12e24f062
 ---
 
 # Kenya: monthly update, August – September 2026
@@ -30,6 +30,8 @@ The platform the state runs its services on had a bad month. eCitizen's payment 
 
 <!-- narrative: governance--gov-policy -->
 A revised Hustler Fund merchant tariff schedule takes effect on 7 August, delivered as voluntary alignment with central bank pricing principles rather than a gazetted rule.
+
+Government communication was centralised. The broadcasting principal secretary [described a newly adopted National Communication Policy built on 'One Government, One Voice', with a National Communication Centre to collate, validate and release state information](https://www.the-star.co.ke/news/2026-09-14-isaboke-on-kenyas-new-communication-revolution); the [final text is dated 22 January 2026](https://ict.go.ke/sites/default/files/2026-04/Final%20Communications%20Policy%20as%20at%2022nd%20January%202026.pdf). No budget or staffing for the centre is published.
 <!-- /narrative -->
 ### Legislation and regulation
 
@@ -99,6 +101,8 @@ On 4 August the development lender committed [US$24.2m across three Kenyan lende
 
 
 On the lending side, a guarantee structure was announced on 5 August: [a catalytic first-loss guarantee of US$24.2m across three Kenyan transactions, backed by US$11m of concessional financing, expected to catalyse about US$144.4m of local-currency lending to small and medium enterprises](https://www.4g-capital.com/post/4g-capital-partners-with-ifc-to-expand-financing-for-kenya-s-micro-and-small-businesses). The catalysed figure is an expectation rather than a disbursement. One of the three counterparties [reports having disbursed more than US$1bn cumulatively over thirteen years to micro and small businesses without collateral or financial records, underwriting on its own model rather than credit files](https://techcabal.com/2026/08/28/4g-capital/) — a lifetime total given in a profile, with no outstanding book, default rate or borrower count beside it.
+
+The World Bank's digital acceleration project was reviewed on 14 September: [more than 62,000 teachers trained and more than 5,000 smart boards distributed, reaching nearly 100,000 students, with disbursement delays raised](https://www.ecofinagency.com/news-digital/1509-58912-kenya-world-bank-take-stock-of-digital-economy-project-kdeap-s-gains-and-challenges). The operation closes in October 2028.
 <!-- /narrative -->
 
 ## ICT Infrastructure
@@ -173,6 +177,8 @@ The Treasury is building the other kind of exchange — one that looks at the mo
 
 
 The regional payments interlink took another participant: a commercial bank group [went live on the pan-African system on 11 August, adding its branch network to instant cross-border transfers in local currencies](https://www.linkedin.com/posts/pan-african-payment-settlement-system_papss-papss-abcbank-activity-7492934194994774016-TGoX).
+
+The head of the public service [convened the examinations council, the public service commission and the education ministry to link academic credential databases directly to hiring agencies](https://nairobiwire.com/2026/09/kenya-academic-certificate-verification-fake-certificates.html), against fake certificates. No design or date is set.
 <!-- /narrative -->
 ### Digital Identity and CRVS
 
@@ -182,6 +188,8 @@ Government is [procuring a system to cut identity-card issuance to ten days and 
 Two identity systems met the courts instead. The High Court [barred the transport authority from discontinuing physical vehicle logbooks](https://www.the-star.co.ke/news/2026-08-11-court-preserves-validity-of-ntsa-physical-logbooks) on 11 August, pending a petition arguing the electronic logbook was introduced without public participation and without adequate data-protection and cybersecurity impact assessments. Separately, the Attorney-General's six-month window to legislate on phone-number recycling, opened by the March judgment recognising a registered number as a protected digital identifier, [was still open in August with nothing tabled](https://www.kictanet.or.ke/https-www-kictanet-or-ke-phone-number-recycling-digital-identity-kenya/), while banks, savings societies and platforms continue to rely on numbers after reassignment.
 
 The transport and safety authority's own disclosure notice under the PPP Act settles the smart driving licence partnership the repository had held only in summary: a twenty-one-year Strategic Partnership with [a KCB Bank Limited and Pesa Print consortium, estimated at KSh 42bn over its first two to three years and funded entirely from private debt and equity, approved by Cabinet on 15 December 2025 after the Attorney-General cleared the draft agreement in January](https://gaa.go.ke/sites/default/files/2026-02/NTSA%20Public%20Notice%20on%20Disclosure%20On%20The%20Implementation%20Of%20The%20Public%20Private%20Partnership%20%28PPP%29%20Strategic%20Partnership%20For%20The%20Design%2C%20Supply%2C%20Delivery%2C%20Installation%20And%20Maintenance%20Of%20Smart%20Driving%20Licences%20And%20Associated%20Services.pdf). It is to issue 5 million polycarbonate cards every three years, stand up 102 enrolment centres, install 700 fixed and 300 mobile speed cameras behind a national command centre, and carry a licence wallet taking deposits and payments. The project began in 2017 with the National Bank of Kenya and passed to KCB by novation after Access Bank bought NBK. No financial close or first issuance date is named.
+
+The registration bureau said [more than 600,000 people who could not previously get identity cards have been registered since extra vetting in border counties was scrapped](https://radiogeneration.co.ke/news/114038/600000-secure-ids-after-government-drops-extra-vetting-in-border-counties), and [rights groups asked that the removal be made permanent](https://www.the-star.co.ke/counties/nairobi/2026-09-17-end-id-vetting-for-good-rights-groups-urge-government).
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -189,6 +197,8 @@ The transport and safety authority's own disclosure notice under the PPP Act set
 Borrowers can [repay Hustler Fund loans in loyalty points from 23 July](https://www.the-star.co.ke/news/2026-07-23-borrowers-can-now-repay-hustler-fund-loans-using-bonga-points), five points settling one shilling, recovering KSh 3m in the first week. A second operator launched a merchant wallet on 3 August.
 
 The platforms Kenyans use to be paid changed their rules one after another over the past year: [an international payments provider imposed restrictions, a domestic dollar-banking service withdrew that product, a remittance operator paused its wallet and a streaming platform cut monetisation](https://techcabal.com/2026/09/08/the-platforms-that-help-kenyans-get-paid-are-changing-the-rules/). Four separate commercial decisions rather than a regulatory change; no user numbers, values or regulator response are held.
+
+The regulator's June-quarter return [put mobile money subscriptions at 54,005,800, up 1.2 per cent in the quarter, while more than 34,000 registered agents left the market](https://www.dawan.africa/news/kenya-mobile-money-accounts-hit-54-million-even-as-more-than-34000-agents-exit-the-market). Subscriptions count accounts, not people.
 <!-- /narrative -->
 ### Registries
 
@@ -207,6 +217,8 @@ An academic review published on 5 August put the child-protection case system on
 The claims platform was quantified from the settlement end for the first time. The health ministry and the counties jointly put [settlement at 78% across all 47 counties with KSh 159.3bn paid, and reconciliation and sign-off completed for legacy insurance-fund claims](https://www.health.go.ke/national-and-county-governments-strengthen-coordination-health-reforms), at an intergovernmental budget council session on 31 August. It is their own joint figure, published without a denominator, an ageing profile or a rejection breakdown — and it is not on the same basis as the authorisation failures still being reported at facility counters, which nothing in the session retracts.
 
 The education register failed its first money test. The principal secretary [told the Public Accounts Committee in late August that the latest capitation round used neither the new system nor its predecessor but manually verified data, because the new system is incomplete](https://techweez.com/2026/09/09/the-nemis-to-kemis-dilemma/); schools reported failed logins and unsaved submissions during the Grade 10 selection it was required for, and MPs had already flagged KES 103.99bn paid against unverified numbers on the old one.
+
+The health authority [made a functioning electronic medical records system a condition of provider contracts for the cycle opening 1 October and running to June 2029, with onboarding only through its central digital platform](https://tukio.co.ke/sha-sets-out-requirements-for-healthcare-providers-seeking-new-contracts/).
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
