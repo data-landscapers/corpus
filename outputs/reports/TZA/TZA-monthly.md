@@ -1,11 +1,11 @@
 ---
 title: Tanzania — monthly update, August – September 2026
-compiled: 2026-09-17
-period: 2026-08-01 to 2026-09-17
+compiled: 2026-09-18
+period: 2026-08-01 to 2026-09-18
 place: TZA
-ledger_rows: 93
+ledger_rows: 99
 not_held: 5
-record: 07030f0a1818
+record: 13c4135a5e4c
 ---
 
 # Tanzania: monthly update, August – September 2026
@@ -65,6 +65,11 @@ The month's one finding about political speech came from outside the state. A ci
 
 ## Finance
 
+### Domestic budget appropriations and expenditure
+
+<!-- narrative: finance--finance-budget -->
+The identity system acquired a stated development allocation. At the Identity Day observance the Prime Minister put [more than 132bn/- to the registration authority's development projects for 2026/27, including 31 registration offices](https://dailynews.co.tz/unclaimed-ids-law-in-offing/), in the same speech in which he said the government cannot keep absorbing the cost of printing high-cost cards that are then abandoned. The figure comes from a speech rather than an appropriation document, and no prior-year allocation is held to read it against.
+<!-- /narrative -->
 ### MoUs and other agreements
 
 <!-- narrative: finance--finance-mou -->
