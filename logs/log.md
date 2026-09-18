@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-09-18 16:47 · **HERO** · unclocked · Batch 05 (review 4 R30) to X:\prepared\hero-05.jsonl; 61 corrected. Body-reader defect found and fixed; 100 applied heroes corrected in hero-fix-bodies.jsonl, notes-for-osint 146 - ok
 2026-09-18 15:45 · **HERO** · unclocked · Batch 04 (review 4 R30) to X:\prepared\hero-04.jsonl; 11 corrected. New wrong-record test found a swapped pair applied from batch 03: notes-for-osint 145 - ok
 2026-09-18 15:10 · **HERO** · unclocked · Batch 03 (review 4 R30): 2,000 heroes on Sonnet to X:\prepared\hero-03.jsonl, check clean; 3 figures and 5 title openings corrected. Notes 32 closed - ok
 2026-09-18 14:50 · **HERO** · unclocked · Batch 02 (review 4 R30): 2,000 heroes on Sonnet to X:\prepared\hero-02.jsonl, check clean; 6 corrected for figures the source does not state - ok

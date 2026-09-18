@@ -55,7 +55,11 @@ def records():
             continue
         fm = V.parse_frontmatter(text)
         fm = fm[0] if isinstance(fm, tuple) else fm
-        body = text.split("\n---", 2)[-1] if text.startswith("---") else text
+        # The body starts after the frontmatter's closing fence. Splitting on every `---` took
+        # the part after a body's own last rule instead, so a record with an appended
+        # companion act was described from the companion (batch 05, JORADP decree 25-320).
+        close = re.match(r"---\r?\n.*?\r?\n---[ \t]*\r?\n", text, re.S)
+        body = text[close.end():] if close else text
         out[os.path.splitext(os.path.basename(path))[0]] = (fm or {}, body.strip())
     return out
 
