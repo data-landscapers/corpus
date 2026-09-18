@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-18
 place: CAF
 ledger_rows: 18
 not_held: 5
-record: c5d7342a5d34
+record: e08050ebf692
 ---
 
 # Central African Republic: monthly update, August – September 2026
@@ -54,6 +54,8 @@ The government gave itself a unit to watch public debate. A presidential decree 
 
 <!-- narrative: finance--finance-new -->
 The regional programme acquired a date rather than money. The country's component of the Central Africa digital integration programme [is to launch in April 2027, after a week of work in Bangui by a financier mission covering connectivity, public services, data and cybersecurity](https://www.agenceecofin.com/actualites-numerique/1509-141566-centrafrique-connectivite-services-publics-donnees-les-chantiers-du-cardip-de-la-banque-mondiale). No national allocation or workplan is published.
+
+The country's own digital financing reported on itself. The public sector digital governance project's strategic committee [put it at 78% of activities complete and 54% disbursed](https://oubanguimedias.com/2026/08/19/centrafrique-le-projet-de-gouvernance-numerique-du-secteur-public-affiche-un-taux-davancement-de-78/) with six months to its December 2026 closing, the first disbursement reading since April 2025 on committee figures.
 <!-- /narrative -->
 
 ## ICT Infrastructure
