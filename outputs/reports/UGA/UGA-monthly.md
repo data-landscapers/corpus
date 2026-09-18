@@ -3,9 +3,9 @@ title: Uganda — monthly update, August – September 2026
 compiled: 2026-09-18
 period: 2026-08-01 to 2026-09-18
 place: UGA
-ledger_rows: 103
+ledger_rows: 105
 not_held: 12
-record: 7c514094b24a
+record: 9e56153a4f43
 ---
 
 # Uganda: monthly update, August – September 2026
@@ -33,6 +33,8 @@ The ICT ministry [states a device-tax-cut paper is ready for cabinet before the 
 Three instruments sit at three stages and none is in force in the window. The Protection of Sovereignty Bill 2026 [carries a central bank technical assessment to joint committees](https://www.newvision.co.ug/category/news/bou-governor-atingi-ego-say-sovereignty-bill-NV_232814_052026), with enactment reported but unconfirmed. The regulator's order suspending public internet [is discontinued, full restoration having been announced in January](https://pulse.internetsociety.org/documents/48/UCC_directive_Talkio.pdf). And the finance ministry [stated at a retreat with parliamentary committees that digital lending platforms will be regulated](https://www.monitor.co.ug/uganda/news/national/govt-moves-to-tighten-regulation-of-digital-lenders-as-financial-inclusion-rises-5561784), naming no bill, instrument or date.
 
 January’s shutdown directive reached the record in its own words. A newspaper [republished the Uganda Communications Commission text in full on 7 September](https://www.newvision.co.ug/category/news/uganda-communications-commission-explains-int-NV_226210_092026): made on the Inter-Agency Security Committee’s recommendation, it suspended public internet access, the sale and registration of new SIM cards and outbound data roaming to One Network Area countries across mobile, fibre, leased line, fixed wireless, microwave and satellite; ordered operators to disable mobile VPN services and block any public bypass; whitelisted an exclusion list covering national referral hospital systems, core banking and clearing, tax and government payment gateways, immigration, electoral commission portals, voter verification and result tabulation, utilities, air traffic control and railway signalling; required incident reporting within 30 minutes; and required any operator unable to comply to shut down its entire internet infrastructure, on pain of fines or licence suspension. The directive the repository held was a scanned PDF with no text layer.
+
+Digital lending came before Parliament's accountability committee. The central bank governor [said on 14 September that the bank will investigate claims that the mobile money operators it supervises helped digital lenders take repayments from the wallets of people who never guaranteed the loans](https://kikubolane.com/2026/09/15/ugandas-central-bank-to-probe-claims-mobile-money-users-are-paying-off-strangers-loans/); [both large operators denied deducting money without consent and asked the communications regulator to block unlicensed lending apps](https://pmldaily.com/news/2026/09/mtn-airtel-deny-deducting-customers-money-without-consent.html).
 <!-- /narrative -->
 ### Data protection
 
@@ -48,6 +50,8 @@ The sharpest test of the protection regime in the window came from another arm o
 <!-- narrative: governance--gov-regional -->
 
 Uganda and South Sudan [signed a memorandum in Juba on 7 September for real-time epidemiological data sharing, mutual outbreak notification, joint surveillance and harmonised screening at border crossings](https://www.radiotamazuj.org/en/news/article/south-sudan-uganda-sign-agreement-on-cross-border-health-security). No data platform, legal safeguard or budget is named.
+
+The revenue authority [signed a third customs memorandum with South Sudan's, the first to cover digital interoperability and enforcement of Uganda's electronic permit system](https://jubaechotv.com.ss/south-sudan-uganda-sign-mou-to-strengthen-customs-cooperation/).
 <!-- /narrative -->
 ### Standards
 
@@ -159,6 +163,8 @@ A private platform entered the health stack from outside it. A digital-health co
 The parish programme's system was audited short of its design. The Auditor-General [found two of seven pillar modules fully implemented, 178 of 13,253 parish tablets non-functional, 29 with ineligible users and none supported with internet connectivity](https://www.oag.go.ug/storage/megareports/THEPDM@THM2025.pdf), and in September one district [reported 31 of its 61 tablets dead and parishes back on manual records](https://chimpreports.com/alarm-raised-as-50-of-zombo-pdm-tablets-fail-to-function/).
 
 The tax stamps system published its scale: [more than 1,680 manufacturers and importers registered across 13 excisable products](https://nilepost.co.ug/business/370814/ura-lauds-manufacturers-on-dts-success), run for the revenue authority by SICPA since 2018.
+
+The parish model's reach was restated. An inter-ministerial meeting [put it at 3,571,108 beneficiaries against UGX 4.317 trillion capitalised through 10,589 parish SACCOs, lending up to UGX 1 million at 6 per cent a year](https://www.thekampalareport.com/latest/2026091868307/ugandas-parish-development-model-reaches-3-5-million-beneficiaries-with-1-1-billion-government-investment.html). The count is the government's own, and sits beside the audit findings above on the system that records it.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -259,6 +265,8 @@ Mobile-industry research [put internet use at about a quarter of refugee women a
 A tower company [remitted UGX 20.9 billion to the universal service fund](https://techafricanews.com/2026/08/05/atc-uganda-contributes-ugx-20-9-billion-to-advance-digital-inclusion/), its statutory 2% of gross annual revenue, at a handover reported on 31 July. [The regulator's executive director stated at the same event that half of that 2% goes to the Consolidated Fund and only half is retained to finance the fund, and put cumulative programme reach at laboratories in more than 1,000 public secondary schools](https://techafricanews.com/2026/08/05/atc-uganda-contributes-ugx-20-9-billion-to-advance-digital-inclusion/). The period the payment covers was not published.
 
 Money went the other way as well. An implementing partner's account of 12 August reports that [work on connectivity and digital inclusion in Uganda slowed or stopped after the American aid wind-down of 2025, in which 83% of the agency's programmes were cut](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html), the multi-funder Women in the Digital Economy Fund losing its American component while the parts other funders backed continued. What is described as lost is the convening as much as the money. No replacement funder is named and no Ugandan figure is given.
+
+In the north, [a community broadband network built by a women's ICT organisation is in technical testing across 12 sites in Oyam district, with market traders already using it](https://observer.ug/technology/free-internet-access-excites-traders-in-oyam-market/). No user count or model for sustaining it is stated.
 <!-- /narrative -->
 
 ## Data

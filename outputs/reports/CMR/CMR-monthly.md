@@ -1,11 +1,11 @@
 ---
 title: Cameroon — monthly update, August – September 2026
-compiled: 2026-09-17
-period: 2026-08-01 to 2026-09-17
+compiled: 2026-09-18
+period: 2026-08-01 to 2026-09-18
 place: CMR
-ledger_rows: 45
+ledger_rows: 48
 not_held: 4
-record: 1f4c889d4a8b
+record: 420ca92b23c7
 ---
 
 # Cameroon: monthly update, August – September 2026
@@ -63,6 +63,8 @@ The EU's digital money was set out in September: [CFAF 9.83bn for the regional D
 
 <!-- narrative: ict-infrastructure--infra-connect -->
 The regulator's director-general said the [preparatory work for 5G is practically complete but set no date for commercial launch](https://www.businessincameroon.com/telecom/2608-16620-cameroon-says-5g-groundwork-nearly-complete-with-more-operator-investment-needed), calling for more operator investment. A regulator saying the groundwork is done while naming no date is the whole of the position: no spectrum award, coverage obligation or licence term is on file.
+
+The state operator [took delivery of a second shipment of equipment from China for 245 new mobile sites, which would take its declared network from 473 to 718, weighted to rural and district areas](https://www.businessincameroon.com/telecom/1809-16779-camtel-plans-245-new-mobile-sites-to-narrow-network-gap-with-rivals). No cost or completion date is stated.
 <!-- /narrative -->
 ### Data Storage
 
@@ -92,6 +94,8 @@ The gap between the governing statute and the threat it governs was measured fro
 On 29 July a joint communiqué [established a trilateral customs steering committee with Nigeria and Benin](https://von.gov.ng/nigeria-benin-cameroon-customs-deepen-regional-border-cooperation/), committing to harmonised procedures, digital interoperability and coordinated risk management on two named corridors, with no timeline, budget or system specification published. At home the layer that would carry any of this acquired an owner rather than a design: at the opening of the national internet governance forum on 18 August the posts and telecommunications ministry [tasked the state operator CAMTEL with carrying national data and infrastructure interoperability](https://www.digitalbusiness.africa/fgi-cameroun-camtel-mandatee-de-faciliter-linteroperabilite-nationale/), resting the mandate on its backbone, transmission, access and hosting infrastructure. No instrument, timetable or budget accompanies it.
 
 The minister responsible for decentralisation and local development said on 25 August 2026 that the administration [has built digital islands side by side and that these must end](https://www.digitalbusiness.africa/cameroun-georges-elanga-obam-veut-mettre-fin-aux-ilots-numeriques-de-ladministration/) — a ministerial commitment rather than a platform. The same problem framed the national Internet Governance Forum in Yaounde a week earlier.
+
+Border records were put to work on the payroll. The finance ministry [matched the state payroll against border-movement data and flagged 5,971 public servants as no longer resident, holding their September and October pay pending justification by 31 October](https://cameroonpress.com/fichier-solde-5-971-agents-publics-dans-le-viseur-du-minfi-leurs-salaires-bloques-pendant-deux-mois/).
 <!-- /narrative -->
 ### Digital Identity and CRVS
 
@@ -108,11 +112,15 @@ Payments had the month's densest run. On 9 July the regional central bank [joine
 The continental rail reached the monetary union without reaching its businesses. The central bank joined the pan-African payment and settlement system on 9 July, which [an analysis of the trade minister's 21 August call to business describes as the necessary monetary and regulatory piece and not one that opens the service to customers: commercial banks, fintechs and payment providers must still connect technically and switch on the channels that initiate transactions](https://africtelegraph.com/blog/papss-en-cemac-les-entreprises-camerounaises-encore-en-attente/). The operator's coverage claims - 28 countries, more than 190 banks and fintechs, 16 switches - establish reachability rather than that any institution here can yet send and receive.
 
 A domestic entrant arrived on 31 August. A Cameroonian technology company [launched a payments platform carrying transfers across mobile-money networks, wallet management, bill and airtime payment, payment links and developer interfaces, opening here with a stated ambition to reach other African markets](https://techafricanews.com/2026/08/31/looping-binary-launches-lbpay-digital-payments-cameroon/). It is a launch announcement on the company's own account: no user, merchant or transaction figure, licence or partner bank is named.
+
+A third mobile money provider [was licensed as a payment institution by finance ministry order of 21 July, announced on 17 September](https://www.agenceecofin.com/actualites-finance/1709-141667-cameroun-konoom-obtient-son-agrement-et-se-lance-sur-le-marche-du-paiement-mobile), into a market held by the two main operators. It has not yet launched.
 <!-- /narrative -->
 ### Registries
 
 <!-- narrative: dpi--dpi-registry -->
 The [national civil-status registry platform was reported deployed in pilot councils on 16 July](https://techafricanews.com/2026/07/16/cameroon-urges-north-west-councils-to-accelerate-digital-transformation/); the source names no councils and gives no target. The one delivery figure on the record for the wider programme comes from outside government: the national human rights commission, [calling for a modernised and interoperable civil registry on 10 August, put birth-certificate cases processed under a World Bank-backed programme at over 49,000](https://kamerinfosplus.com/2026/08/10/etat-civil-la-cdhc-veut-un-systeme-moderne-digitalise-et-accessible-a-tous/).
+
+The civil registration bureau's director [said on 14 September that digitalising birth, marriage and death records, begun in 2020, has stalled for want of funds, that FCFA 52bn is being sought, and that completion could come in 2029-2030 if it is found](https://ecomatin.net/cameroun-52-milliards-fcfa-recherches-pour-numeriser-letat-civil).
 <!-- /narrative -->
 ### Sectoral management information systems
 

@@ -1,11 +1,11 @@
 ---
 title: Ethiopia — monthly update, August – September 2026
-compiled: 2026-09-17
-period: 2026-08-01 to 2026-09-17
+compiled: 2026-09-18
+period: 2026-08-01 to 2026-09-18
 place: ETH
-ledger_rows: 43
+ledger_rows: 44
 not_held: 5
-record: 4a669e467ee6
+record: d348c7ba113b
 ---
 
 # Ethiopia: monthly update, August – September 2026
@@ -94,6 +94,8 @@ Enrolment passed a further mark at the close of the period. The programme [put r
 What is not on the record is the counterweight. A published critique argues the system [risks becoming an instrument of mass profiling in the absence of independent data-protection impact assessments, meaningful citizen rights and legal limits on state access](https://www.linkedin.com/posts/ewnetudebela_fayda-ethiopia-digitalid-activity-7492312232127586304-yqel), against the registrations above, up from 16.4m in June 2025, and a 90m target. The repository holds no such assessment, no redress mechanism and no statutory access limit, and that absence is now recorded as a gap.
 
 The enrolment rules reached the repository for the first time, which matters more than the enrolment count for anyone trying to work out who can be enrolled. The programme's own page lists [33 accepted proof-of-identity documents, from the local administration card and passport to birth, education, marriage and business records](https://id.gov.et/proof), and a separate account sets out what non-citizens must present: [an origin card and passport for foreign nationals of Ethiopian origin, a residence or work permit plus passport for other foreign residents, and a valid refugee card for recognised refugees](https://ethioaffairs.com/2026/09/04/ethiopia-announces-document-requirements-for-foreign-nationals-applying-for-fayda-digital-id/). Neither carries its own issue date, so both are dated to capture — and the refugee route stated here is the operative counterpart to the refugee-inclusion framework the repository already holds.
+
+The linking of bank accounts to Fayda moved to its last phase. The largest state bank [gave customers outside the 27 cities already under enforcement until 9 November 2026 to link their accounts, after debit restrictions on unlinked accounts in those cities](https://birrmetrics.com/cbe-gives-customers-until-november-9-to-link-bank-accounts-with-fayda-id/).
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
