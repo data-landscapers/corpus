@@ -34,7 +34,9 @@ gov.discourse--open-discussion-of-government-policy,Regressed,"Parliament amende
 
 The perception measure is from a round fielded in 2025 and published in August 2026. It measures what people believe about media freedom rather than the media's legal position, and an international index placed the country 35th globally in 2026, up ten places ([perception](2026-08-11-seychelles-afrobarometer-media-oversight-access-information)).
 
-Those two point in opposite directions and the cell carries both: a statutory change increasing executive control over the state broadcaster, and an external ranking improving.",SYC-gov.discourse-sbc-board-appointment|SYC-gov.discourse-media-freedom-perception
+Those two point in opposite directions and the cell carries both: a statutory change increasing executive control over the state broadcaster, and an external ranking improving.
+
+The open-government plan's digital-transformation commitment was rated low-ambition by the plan's independent review, not relevant to open-government values and with no notable results ([review](2024-01-01-seychelles-commitment-syc0007)).",SYC-gov.discourse-sbc-board-appointment|SYC-gov.discourse-media-freedom-perception|SYC-gov.policy-ogp-nap
 finance.mou--strategic-relationships,Movement,A neighbouring operator [announced cross-border payment capabilities](2026-07-16-mauritius-telecom-allmyt-keynote-sovereign-ai-platformafrica) with a domestic fintech partner.,"The announcement is a single paragraph in an otherwise foreign-focused keynote ([announcement](2026-07-16-mauritius-telecom-allmyt-keynote-sovereign-ai-platformafrica)).
 
 No agreement, value, timetable or regulatory approval is named. It is one of three cross-border payment intentions in this unit — the others being a continental interface memorandum and the domestic fintech's own platform — and none has a completed corridor on record.",SYC-finance.mou-mt-eboo
@@ -73,7 +75,9 @@ dpi.pay--governance-role-of-central-bank,Movement,"The central bank [set a four-
 
 The electronic money regulations were made under the payment system Act in 2022, giving incumbents six months to comply and a year to reach the capital floor; they were acquired from the Official Gazette only in August 2026, so they are a foundational text newly added to this repository rather than a new development ([regulations](2022-12-12-seychelles-nps-electronic-money-regulations-2022)).
 
-Cabinet approved amendments widening the authorised-dealer definition to include credit unions and licensed payment service providers ([perimeter](2026-07-23-seychelles-cabinet-business-22-july-2026)). A dated, staged withdrawal of an instrument is the most orderly payments transition in this frame.",SYC-dpi.pay-cheque-phaseout|SYC-dpi.pay-nps-emoney-regs|SYC-dpi.pay-fx-act-amendment
+Cabinet approved amendments widening the authorised-dealer definition to include credit unions and licensed payment service providers ([perimeter](2026-07-23-seychelles-cabinet-business-22-july-2026)). A dated, staged withdrawal of an instrument is the most orderly payments transition in this frame.
+
+The central bank's payment-system modernisation page still points to a vision and strategy that ran to 2020 ([page](2024-01-01-modernisation-of-the-national-payment-system), [strategy](2016-01-01-seychelles-national-payment-system-vision-and-strategy-2016-2020)). No successor strategy is held.",SYC-dpi.pay-cheque-phaseout|SYC-dpi.pay-nps-emoney-regs|SYC-dpi.pay-fx-act-amendment|SYC-gov.policy-nps-strategy-2016-2020
 dpi.pay--b2b-and-b2g-functionality,Movement,"A [domestic fintech ran its first live transaction](2026-07-22-fusepay-fuse360-ai-operating-system) on a virtual business-account platform, positioned against the cheque phase-out.","The first live transaction ran in July 2026 on a platform offering virtual business accounts, with the company also announcing an operating layer above it ([platform](2026-07-22-fusepay-fuse360-ai-operating-system), [cheques](2025-11-21-techafricanews-fusepay-cheques), [funding](2025-11-27-dabafinance-fusepay-preseed)).
 
 A domestic company building business payments directly into the gap the central bank's cheque withdrawal creates is the clearest instance in this ledger of policy and private delivery lining up.
@@ -94,9 +98,11 @@ dpi.registry--address-register,Movement,"Cabinet approved implementation of a [n
 Cabinet approved the Seychelles National Addressing System Bill 2026 on 3 April 2026, establishing a National Addressing Department and a National Addressing Database Unit to govern it ([Bill](2026-04-03-seychelles-national-addressing-system-bill-cabinet)).
 
 Adopting the international standard before drafting the law is the right sequence for an addressing system whose value depends on conforming to something. The Bill is approved rather than enacted.",SYC-dpi.registry-national-addressing
-dpi.registry--business-register,No change,"The President [toured the registrar general office](2025-02-10 Seychelles Pledges to Modernize Public Services Through Digital Transformation), praised its digitalisation and announced unspecified legislative reforms.","The tour was in February 2025 and the reforms were not specified ([tour](2025-02-10 Seychelles Pledges to Modernize Public Services Through Digital Transformation)).
+dpi.registry--business-register,Movement,"The President [toured the registrar general office](2025-02-10 Seychelles Pledges to Modernize Public Services Through Digital Transformation), praised its digitalisation and announced unspecified legislative reforms.","The tour was in February 2025 and the reforms were not specified ([tour](2025-02-10 Seychelles Pledges to Modernize Public Services Through Digital Transformation)).
 
-Nothing has entered the repository since. A business one-stop portal was separately launched in pilot with a full rollout targeted for June 2026, and no source connects it to the registry.",SYC-dpi.registry-registrar-general
+Nothing has entered the repository since. A business one-stop portal was separately launched in pilot with a full rollout targeted for June 2026, and no source connects it to the registry.
+
+Business registration is now online, the form capturing entity details, addresses, partners, supporting documents and share capital ([form](2026-01-01-seychelles-business-registration-form)) — against a public search interface whose own footer is unchanged since June 2012 ([search](2012-06-28-seychelles-business-register-search)).",SYC-dpi.registry-registrar-general
 dpi.mis--health,Movement,"[Bilateral consultations are advancing](2026-08-08-india-tech-sovereignty-push-africa-asean) toward potential adoption of another country's telemedicine, office and hospital platforms.","The consultations reach the repository through a single secondary analytical source, with no domestic primary ([consultations](2026-08-08-india-tech-sovereignty-push-africa-asean)).
 
 Adopting a foreign state's public-health platforms alongside a memorandum to adopt its payments interface would make one bilateral partner the supplier of two of this country's core public systems. Nothing published states terms, hosting or data arrangements for either.",SYC-dpi.mis-india-platforms
@@ -116,7 +122,9 @@ dpi.govtech--e-government-services,Movement,"The [government portal was relaunch
 
 The business portal launched with a vendor in November 2025 covering two service journeys and fifteen or more services, with full rollout targeted for June 2026; the account is a vendor press release not verified against a ministry primary ([business](2025-11-07-nrd-seychelles-eodb-portal)).
 
-The social protection platform was briefed rather than launched in August 2026, with no go-live date, beneficiary count or service list published ([platform](2026-08-18-nation-sc-asp-connect-social-protection-platform)). Against a 2030 target of full digitalisation, no source states how many services exist or how many are online.",SYC-dpi.govtech-egov-portal|SYC-dpi.govtech-eodb-portal|SYC-dpi.govtech-social-protection-platform
+The social protection platform was briefed rather than launched in August 2026, with no go-live date, beneficiary count or service list published ([platform](2026-08-18-nation-sc-asp-connect-social-protection-platform)). Against a 2030 target of full digitalisation, no source states how many services exist or how many are online.
+
+A single front door to government e-services signs individuals in through the national credential and organisations through a separate business authorisation portal ([portal](2024-01-01-monservis-government-services-portal)). It runs beside the relaunched government portal, and nothing states how the two divide services between them.",SYC-dpi.govtech-egov-portal|SYC-dpi.govtech-eodb-portal|SYC-dpi.govtech-social-protection-platform|SYC-dpi.govtech-monservis
 tech.ai--control-of-ai-abuse,Movement,"An [eight-week video-enforcement pilot](2026-07-30-seychelles-video-enforcement-traffic-system) repurposes the public camera estate for automated offence detection and remote ticketing, with no data-protection basis stated.","The pilot was announced in July 2026 with a foreign technology partner ([pilot](2026-07-30-seychelles-video-enforcement-traffic-system)).
 
 No data-protection basis is stated on record. That matters more here than in most units, because the country's data protection Act is fully in force and its regulator has published that it has no clear power to enforce its orders — so the safeguard exists in statute and not in practice.
@@ -253,7 +261,9 @@ infra.connect--international-internet-bandwidth,No change,"International bandwid
 The capacity behind it is two submarine cables: the SEAS link, and the PEACE cable in service since 16 November 2022 ([cables](2023-01-06-nation-sc-peace-operational-seychelles)). No utilisation figure against the lit capacity is published.",SYC-infra.connect-bandwidth
 infra.connect--internet-exchange-points,No change,An [internet exchange point was launched in February 2015](2015-02-20-au-int-ixp-launch-seychelles) under the African Union's AXIS project; nothing since records its operating state.,"The African Union's own launch statement records the exchange point established with the Department of ICT to keep intra-country internet traffic inside the country ([launch](2015-02-20-au-int-ixp-launch-seychelles)).
 
-Eleven years on, no peering count, traffic figure, member list or operating statement is held, and nothing more current than the launch announcement was found. What the repository establishes is that an exchange point was created, not that one runs.",SYC-infra.connect-ixp
+Eleven years on, no peering count, traffic figure, member list or operating statement is held, and nothing more current than the launch announcement was found. What the repository establishes is that an exchange point was created, not that one runs.
+
+The exchange point's own peering-registry record lists no member network and has not been updated since February 2020 ([record](2024-01-01-peeringdb-organisation-record-sey-ix)).",SYC-infra.connect-ixp
 infra.store--off-site-backup-capacity,No change,A [Tier III data centre at Perseverance](2022-01-04-sbc-airtel-perseverance-data-centre) offers colocation and customer disaster recovery — the only off-site backup capacity the repository records.,"The facility is described by its operator as carrying redundant power and cooling and serving customer disaster-recovery planning with round-the-clock monitoring ([data centre](2022-01-04-sbc-airtel-perseverance-data-centre)).
 
 A second, Tier IV certified facility opened at Anse Boileau in March 2026, positioned as keeping government and financial-institution systems onshore ([Tier IV](2026-03-20-cable-wireless-seychelles-linkedin-tier-iv-data-centre)).
@@ -273,7 +283,9 @@ infra.energy--rural-electrification,Movement,Coverage is [99.5 per cent](2025-05
 
 The Renewable Energy Acceleration Program became effective on 26 February 2026 with the utility advancing procurement; its targets of 18 MW of renewable capacity, 18 MWh of storage enabled, a 7 per cent average reduction in outage duration and 500 grid-connected businesses benefiting by May 2030 all stood at zero at 28 February 2026 ([status](2026-03-05-worldbank-reap-isr-p505856)).
 
-What is left to solve here is generation mix and reliability rather than reach.",SYC-infra.energy-reap|SYC-infra.energy-puc
+What is left to solve here is generation mix and reliability rather than reach.
+
+The renewable energy programme is USD 35m and the lender's first energy operation in Seychelles, against a target of 15 per cent renewables by 2030 from 5 per cent in 2023 ([launch](2025-06-30-worldbank-seychelles-reap-press-release)).",SYC-infra.energy-reap|SYC-infra.energy-puc
 infra.energy--sufficient-energy-and-water-for-data-centres,No change,"The World Bank records that Seychelles [meets only 60 per cent of its residents' water requirements](2024-06-25-worldbank-seychelles-cpf-fy25-30), with demand rising 7 to 8 per cent a year.","The lender's country partnership framework states that Seychelles can meet only 60 per cent of its residents' water requirements against demand rising 7 to 8 per cent a year ([framework](2024-06-25-worldbank-seychelles-cpf-fy25-30)).
 
 On the power side the utility reports 99.5 per cent coverage and renewables at 4.2 per cent of supply ([report](2025-05-30-puc-2024-annual-report)), with a renewable acceleration programme effective from February 2026 ([programme](2026-03-05-worldbank-reap-isr-p505856)).
@@ -300,12 +312,16 @@ dpi.exchange--use-of-digital-id-in-other-systems,Movement,The digital identity n
 
 The social protection agency's platform, launched internally on 15 October 2025, is reached through the SeyID portal that hosts government-entity systems ([platform](2025-10-21-asp-connect-digital-system-launch)), and in March 2026 Cabinet extended its vendor support and directed the ICT department to lead the transition to government ownership ([Cabinet](2026-03-05-asp-connect-cabinet-stabilisation)).
 
-The wallet also carries a Digital Driving Licence connected live to the licensing authority's own system ([wallet](2026-01-01-seyid-idwallet)). No authentication volume is published.",SYC-dpi.id-seyid
+The wallet also carries a Digital Driving Licence connected live to the licensing authority's own system ([wallet](2026-01-01-seyid-idwallet)). No authentication volume is published.
+
+Online tax registration for a company requires the contact person's eleven-digit national identity number and residence in Seychelles ([form](2025-01-01-seychelles-tin-registration-company)), which is the clearest instance held of the identity number gating another system.",SYC-dpi.id-seyid
 dpi.exchange--interoperability-of-health-systems,Movement,Health data capture is [primarily paper-based](2022-01-01-seychelles-nhsp-strategic-direction-six-data) with the electronic system stalled; a [July 2026 reform](2026-07-21-nation-sc-new-era-of-care) makes digital health a pillar.,"The National Health Strategic Plan 2022-2026 records that data capture is primarily paper-based, that implementation of an electronic health information system begun in 2020 had stalled, and that no formal data-governance standards existed ([plan](2022-01-01-seychelles-nhsp-strategic-direction-six-data)); the ministry's own 2022 annual report puts the start in late 2021 with slow progress through 2022 ([report](2023-07-01-moh-annual-performance-report-2022)).
 
 The reform programme launched on 21 July 2026 makes digital health and data-driven decisions one of seven strategic pillars ([reform](2026-07-21-nation-sc-new-era-of-care)), and Cabinet approved repeal of the Health Care Agency in February 2026, folding its functions and records into the ministry ([repeal](2026-02-19-cabinet-health-care-agency-repeal)).
 
-No interoperability specification, standard or exchange with any other system is stated.",SYC-dpi.mis-ehis
+No interoperability specification, standard or exchange with any other system is stated.
+
+The health ministry launched a continental-agency-funded assessment of health information exchange maturity on 21 July 2025 ([workshop](2025-08-01-seychelles-independent-hie-maturity-assessment)). No findings are published.",SYC-dpi.mis-ehis|SYC-dpi.exchange-hie-maturity-assessment
 dpi.exchange--interoperability-of-education-systems,Movement,The ministry took a [national education management information system live in March 2026](2026-03-18-openemis-seychelles-golive) — the shared platform this question asks about.,"The go-live was announced by the implementation partner rather than by the ministry ([go-live](2026-03-18-openemis-seychelles-golive)).
 
 Around it sits a four-year SMART Plan to modernise teaching, extend technology access in schools nationwide and improve administrative efficiency, paired with a university-built intranet ([plan](2025-03-10-edu-gov-sc-digital-transformation-smart-plan)).
@@ -330,12 +346,16 @@ dpi.id--authentication,No change,"The digital identity authenticates with [a pas
 
 The wallet extends the same credential to a Digital Driving Licence connected live to the licensing authority's system ([wallet](2026-01-01-seyid-idwallet)) and, for minors, to a QR-presented virtual card ([Minor ID](2026-01-01-seyid-minor-id-wallet)).
 
-No assurance level, conformance assessment or independent security review of the platform is published, and the page carries no date of its own.",SYC-dpi.id-seyid
+No assurance level, conformance assessment or independent security review of the platform is published, and the page carries no date of its own.
+
+Enrolment is a five-second video of an identity card or passport page followed by a five-second video selfie, with no in-person step ([enrolment](2024-01-01-about-ekyc-seyid)). The platform was built on a commercial identity product under a 2022 project, after a 2014 public-key infrastructure contract with the same supplier ([delivery](2024-04-23-id-platform-delivered-by-wisekey-facilitates-digital-govt-services-in-seychelles)).",SYC-dpi.id-seyid|SYC-dpi.id-ekyc
 dpi.id--digital-id-from-birth,No change,"Digital identity is not issued from birth: a citizen [applies for a physical card with a birth certificate](2026-01-01-ics-national-identity-card), then separately enrols for the digital one.","The department's own current procedure states that a Seychellois citizen applies for a National Identity Card for the first time using a birth certificate, and then separately signs up for a virtual identity once the identity number and physical card are issued ([procedure](2026-01-01-ics-national-identity-card)).
 
 The wallet's Minor ID lets a parent or guardian activate a child's virtual card, but against an existing national identity number rather than at registration ([Minor ID](2026-01-01-seyid-minor-id-wallet)).
 
-So the chain runs birth certificate, physical card, then digital credential, with a separate enrolment step at the end that nobody is obliged to take.",SYC-dpi.id-seyid|SYC-dpi.registry-population-database
+So the chain runs birth certificate, physical card, then digital credential, with a separate enrolment step at the end that nobody is obliged to take.
+
+Birth registration is in person at a regional office within 30 days, on a paper maternity certificate and the parents' identity cards ([procedure](2024-01-01-birth-registration)). No digital route and no electronic link to the population database is published.",SYC-dpi.id-seyid|SYC-dpi.registry-population-database|SYC-dpi.registry-birth-registration
 dpi.id--interoperability-of-birth-registration-and-digital-id,No change,"Digital identity is [issued through the immigration department's own digitalisation programme built with DICT](2024-11-13-national-assembly-verbatim-immigration-civil-status), tied to the identity number and permit validity.","The department told the National Assembly's budget sitting in November 2024 that digital identity, linked to the National Identity Number and to permit validity, is issued through its own digitalisation programme built jointly with the ICT department ([verbatim](2024-11-13-national-assembly-verbatim-immigration-civil-status)).
 
 Civil registration sits in the same department, whose Division holds the population database ([division](2026-01-01-ics-civil-status-division)), and the 2021 amendment obliges it to digitise every disused register ([amendment](2021-11-04-gazette-civil-status-amendment-act-2021)).
@@ -360,7 +380,9 @@ dpi.pay--consumer-protection,Movement,The [Financial Consumer Protection Act 202
 
 In May 2026 the regulator identified the operator of a crypto exchange as unlicensed under the Virtual Asset Service Providers Act 2024 and warned publicly that it could neither investigate nor help recover users' funds ([enforcement](2026-05-26-fsa-mx-global-mexc-enforcement)).
 
-The December 2025 licensing amendment makes safe and reliable IT systems a condition of licence ([regulations](2025-12-15-seychelles-nps-licensing-authorisation-amendment-regs-2025)). Four years after the statute, no complaints statistic, ombudsman route or redress figure under it is published.",SYC-dpi.pay-fcp-enforcement|SYC-dpi.pay-vasp
+The December 2025 licensing amendment makes safe and reliable IT systems a condition of licence ([regulations](2025-12-15-seychelles-nps-licensing-authorisation-amendment-regs-2025)). Four years after the statute, no complaints statistic, ombudsman route or redress figure under it is published.
+
+The financial consumer protection statute was assented on 14 April 2022 and came into force on 1 May 2022, with complaint-handling regulations made in 2024 ([laws](2024-01-01-consumer-laws)).",SYC-dpi.pay-fcp-enforcement|SYC-dpi.pay-vasp|SYC-gov.legislate-fcpa-2022
 dpi.pay--revenue-collection,Movement,"Customs duties have been [payable online since June 2024](2024-06-05-src-customs-epayment-launch) and Cabinet now [requires electronic payment of dues of R50,000 and above](2026-04-23-seychelles-cabinet-business-22-april-2026).","The revenue commission launched an ePayment facility for customs duties on the ASYCUDA system, delivered under the economic partnership agreement with the European Union ([launch](2024-06-05-src-customs-epayment-launch)).
 
 Electronic filing of tax documents gained its legal basis in regulations made on 24 November 2025 ([regulations](2025-11-24-nationalassembly-si-65-2025-electronic-filing)), and from 1 April 2026 a digital acknowledgment notice replaces the paper assessment letter on lodgement ([notice](2026-03-30-src-streamlines-tax-lodgement-acknowledgement)).
@@ -370,12 +392,16 @@ dpi.registry--population-register,No change,The [National Population Database](2
 
 The statistics bureau's 2025 releases draw on those civil-status and immigration administrative records ([releases](2026-03-31-nbs-seychelles-population-2025-releases)), giving 123,097 residents at 31 December 2025 and life expectancy of 77.0 years ([year-end](2026-03-31-nbs-seychelles-end-of-year-population-2025)).
 
-The land-system tender of 2024 named the database as one of the systems a new registry would interface with ([tender](2024-11-27-pou-lmais-tender)), which is the only account held of it being read by anything else.",SYC-dpi.registry-population-database
+The land-system tender of 2024 named the database as one of the systems a new registry would interface with ([tender](2024-11-27-pou-lmais-tender)), which is the only account held of it being read by anything else.
+
+The database was established in 1988, civil status was computerised in 1989 and the national identity number made compulsory in June 1995, with records kept in parallel manual and digital form since ([account](2018-08-10-seychelles-nation-civil-registration-vital-statistics)).",SYC-dpi.registry-population-database
 dpi.registry--electoral-register,Movement,"The [2026 register of voters was certified on 31 March 2026](2026-04-01-nation-sc-ecs-certifies-2026-voters-register), after an online registration portal and tablet voter-tagging debuted in 2025.","The provisional register went out for inspection from 27 January to 13 February 2026 under section 8(1) of the Elections Act ([gazette](2026-01-12-gazette-no2-provisional-2026-register-of-voters)), and the chief registration officer certified the register on 31 March 2026, with certified copies distributed to eight political parties ([certification](2026-04-01-nation-sc-ecs-certifies-2026-voters-register)).
 
 The Commission's own 2025 report records 73,627 voters certified in March 2025, the register reopened on 14 October 2025 for 1,597 post-election transactions to the end of the year, and an online registration portal and tablet-based voter tagging deployed for the September and October 2025 elections ([report](2026-04-01-ecs-annual-report-2025)).
 
-The 2026 certified total is not stated in what is held.",SYC-dpi.registry-electoral
+The 2026 certified total is not stated in what is held.
+
+Online voter registration is not permitted by law; an elector may check the roll by sending the national identity number to a short code ([questions](2026-01-01-ecs-voter-registration-faq)). The Elections Act carries the certification provisions behind the annual 31 March certification ([Act](2024-08-31-seychelles-elections-act-cap-262)).",SYC-dpi.registry-electoral|SYC-gov.legislate-elections-act
 dpi.registry--land-register,Movement,The land register runs on the [1967 Act](1967-01-01-seychelles-land-registration-act-cap-107); a [land search system](2026-08-01-registrationdivision-new-land-search-system) is announced as coming soon.,"The Land Registration Act of 1967, consolidated to 30 June 2014 and still the operative framework, establishes the Land Registry, the Land Register and the office of Land Registrar and governs registration, dispositions, searches and fees ([Act](1967-01-01-seychelles-land-registration-act-cap-107)).
 
 The lands and ICT departments tendered in November 2024 for a Land Management Administration Information System interfacing with the National Population Database, the digital identity, Immigration and the Registration Division, on a nine-month delivery from award ([tender](2024-11-27-pou-lmais-tender)).
@@ -400,7 +426,9 @@ dpi.mis--social-protection,Movement,The social protection platform [launched int
 
 In March 2026 Cabinet approved a transitional stabilisation arrangement continuing vendor technical support through 2026 and directing the ICT department to lead the transition to full government ownership and a long-term national platform ([Cabinet](2026-03-05-asp-connect-cabinet-stabilisation)).
 
-A launch that needs a stabilisation arrangement five months later is a system in service and not yet in the state's own hands.",SYC-dpi.registry-social-protection
+A launch that needs a stabilisation arrangement five months later is a system in service and not yet in the state's own hands.
+
+The employment ministry launched the country's first labour market information system, carrying vacancies, jobseekers and placements in its first phase ([launch](2024-01-01-new-lmis-system-to-boost-local-labour-market-efficiency)).",SYC-dpi.registry-social-protection|SYC-dpi.mis-lmis
 digital.localgov--ict-infrastructure-for-local-government,No change,District administrations connect to the [Electronic Government Network](2025-06-17-national-assembly-dict-egn-visit); no separately branded local-government ICT programme is held.,"The ICT department's Network Operations Section administers and expands the Electronic Government Network, the national infrastructure district administrations and other ministries and agencies connect to, and the department was described as running that network and the digital identity platform with 74 staff ([department](2025-06-17-national-assembly-dict-egn-visit)).
 
 Nothing held names a district-level programme, a connection count or a service level. What can be established is that local government sits on the national network rather than on anything of its own.",SYC-infra.capacity-egn
@@ -453,7 +481,9 @@ tech.innovate--technology-hubs,Movement,"Three hubs are on record: a [university
 
 Ground was broken at Ile Perseverance in July 2026 on a COMESA and AUDA-NEPAD partnership hub to house equipment procured under European technical assistance, with construction and operation expected in 2027 ([groundbreaking](2026-07-21-statehouse-comfwb-innovation-hub-groundbreaking)).
 
-In August 2026 a conservation trust launched a Business, Technology and Innovation Incubator with up to twelve months' incubation, mentoring and access to seed funding ([incubator](2026-08-10-linkedin-seyccat-bti-launch)). No cohort size or tenant count is published for any of them.",SYC-tech.innovate-unisey-uci|SYC-tech.innovate-comfwb-hub|SYC-tech.innovate-bti
+In August 2026 a conservation trust launched a Business, Technology and Innovation Incubator with up to twelve months' incubation, mentoring and access to seed funding ([incubator](2026-08-10-linkedin-seyccat-bti-launch)). No cohort size or tenant count is published for any of them.
+
+The incubator was approved by Cabinet on 26 December 2019, with a development-bank grant funding its first blue-economy cohort ([account](2021-11-17-nation-sc-business-technology-innovation-incubator-bti)).",SYC-tech.innovate-unisey-uci|SYC-tech.innovate-comfwb-hub|SYC-tech.innovate-bti
 tech.innovate--tech-startup-ecosystem,Movement,"Cabinet [tightened the Seed Capital Grant Scheme](2026-05-14-statehouse-cabinet-seed-capital-grant-revisions) in May 2026 on youth eligibility, repeat applicants and evaluation flexibility.","The revisions cover a clearer definition of a youth beneficiary, revised eligibility, safeguards against repeat applicants, more flexible evaluation and extended implementation periods ([Cabinet](2026-05-14-statehouse-cabinet-seed-capital-grant-revisions)); the same sitting approved a Government Service Centre linked to the business portal.
 
 Two incubators opened around it: the university centre in 2025 ([centre](2025-09-18-unisey-centre-for-innovation)) and a trust-run incubator offering seed funding access in August 2026 ([incubator](2026-08-10-linkedin-seyccat-bti-launch)).
@@ -519,7 +549,9 @@ data.open--use-of-open-data,Movement,"A [fisheries information system gives publ
 
 In May 2026 an openly licensed Seychelles energy-system dataset covering demand, cost, efficiency, emissions and resource-availability parameters from 2023 to 2050 was published ([dataset](2026-05-27-zenodo-ccg-whole-energy-system-model-seychelles)).
 
-The central bank publishes payment-system series and the statistics bureau its national accounts ([accounts](2025-12-31-nbs-annual-national-accounts-2024)). No dataset count, catalogue or download figure is published, and there is no government open-data portal.",SYC-data.open-fims
+The central bank publishes payment-system series and the statistics bureau its national accounts ([accounts](2025-12-31-nbs-annual-national-accounts-2024)). No dataset count, catalogue or download figure is published, and there is no government open-data portal.
+
+A public map service published by the lands and infrastructure ministry is disclaimed by that ministry as not live data and no substitute for a licensed survey ([portal](2024-01-01-seychelles-webgis)).",SYC-data.open-fims|SYC-data.open-webgis
 data.satellite--agricultural-use-of-satellite-data,Movement,A [subnational vegetation-index dataset](2026-03-03-hdx-wfp-seychelles-ndvi-subnational) is updated every ten days from satellite imagery; a land-cover consultancy was tendered in March 2026.,"The humanitarian data platform publishes a Seychelles subnational vegetation-index dataset derived from satellite imagery, updated on 3 March 2026 with ten-day values through 28 February ([dataset](2026-03-03-hdx-wfp-seychelles-ndvi-subnational)).
 
 Terms of reference issued on 11 March 2026 seek a national consultancy to analyse Landsat and Sentinel imagery of land productivity and land cover for desertification reporting ([terms](2026-03-11-oss-seychelles-unccd-2026-reporting-tor)).
@@ -548,7 +580,9 @@ gov.policy--data-localisation-policies,No change,"No localisation rule. Transfer
 The window's movement is administrative rather than legislative. The commission's [strategic plan for 2026 to 2028 takes the transfer regime toward operational regulation through guidance, compliance checks, audits and a data protection policy with guidelines](2026-01-01-infocom-seychelles-strategic-plan-2026-2028). Until that guidance issues, the statute's conditions are the whole of the position.",SYC-gov.protect-dpa-2023|SYC-gov.protect-infocom-strategic-plan|SYC-gov.protect-infocom
 gov.protect--national-data-protection-readiness,Movement,The commission published a [strategic plan for 2026 to 2028](2026-01-01-infocom-seychelles-strategic-plan-2026-2028) and laid its [2025 annual report before the assembly in April](2026-04-13-nationalassembly-infocom-annual-report-2025).,"Readiness here is a statute plus a working regulator, and both moved. The [2023 data protection act is in force](2023-12-22-seychelles-data-protection-act-2023-act-24), and the [information commission enforces it](2026-01-28-infocom-data-protection-day-2026), training [information officers as recently as September 2026](2026-09-02-syc-information-commission-trains-ios).
 
-The window adds two documents. A [strategic plan for 2026 to 2028 sets out guidance, compliance checks, audits and a data protection policy](2026-01-01-infocom-seychelles-strategic-plan-2026-2028), and the [2025 annual report was published through the national assembly on 13 April 2026](2026-04-13-nationalassembly-infocom-annual-report-2025). That report's own file returned a server error on repeated attempts, so the repository holds the listing and not the contents.",SYC-gov.protect-infocom-strategic-plan|SYC-gov.protect-infocom|SYC-gov.protect-dpa-2023
+The window adds two documents. A [strategic plan for 2026 to 2028 sets out guidance, compliance checks, audits and a data protection policy](2026-01-01-infocom-seychelles-strategic-plan-2026-2028), and the [2025 annual report was published through the national assembly on 13 April 2026](2026-04-13-nationalassembly-infocom-annual-report-2025). That report's own file returned a server error on repeated attempts, so the repository holds the listing and not the contents.
+
+The national credential's privacy policy states collection of fingerprint, face identification and captured face data, alongside device location, network address and hardware address ([policy](2026-01-01-seyid-privacy-policy)). No retention period is published.",SYC-gov.protect-infocom-strategic-plan|SYC-gov.protect-infocom|SYC-gov.protect-dpa-2023|SYC-gov.protect-seyid-privacy-policy
 dpi.pay--g2p-functionality,Movement,"Cheques are [being phased out for financial transactions](2026-07-09-nation-src-cheque-phaseout-2028), which forces government payments onto the electronic rails the [2022 electronic money regulations](2022-12-12-seychelles-nps-electronic-money-regulations-2022) govern.","The clearest change to how the state pays people is negative: the central bank is [phasing out cheques](2026-07-09-nation-src-cheque-phaseout-2028), a decision first announced two years earlier. Removing the instrument obliges payers, government included, onto electronic transfer.
 
 The rails that receive them are regulated: the [2022 national payment system electronic money regulations](2022-12-12-seychelles-nps-electronic-money-regulations-2022), with [payment service provider licensing in operation](2025-11-14-fusepay-psp-licence-approval) and [messaging migrated to the international standard in 2025](2025-04-14-cbs-sba-iso-20022-transition-notice). No government-to-person payment volume, programme or beneficiary count is published.
