@@ -1,15 +1,17 @@
 ---
 title: Data Storage — monthly update, August – September 2026
-compiled: 2026-09-18
-period: 2026-08-01 to 2026-09-18
+compiled: 2026-09-19
+period: 2026-08-01 to 2026-09-19
 subject: infra.store
 places: DZA; AGO; BWA; BFA; CMR; CPV; CAF; COG; CIV; EGY; GNQ; ERI; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SLE; SOM; ZAF; SSD; TZA; TUN; ZWE
-record: 8bfe7acbd4f3
+record: 935d31b9a49b
 ---
 
 # Data Storage: monthly update, August – September 2026
 
 *35 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -54,6 +56,8 @@ The national data centre remains a thing asserted rather than reported. On 10 Au
 ## Cote d'Ivoire
 
 The financing behind the sovereign data centre is now on the record, and it is a fraction of the project. The United States export credit agency [approved a guarantee of US$66,138,119 on 21 August 2025, with the finance and budget ministry as borrower and the digital transition ministry as end user](https://www.exim.gov/news/minutes/board-meeting-minutes-2025-08-21), against the US$170m the government authorised in July 2026. It is known from the agency's own board minutes rather than from a signed facility, and nothing published explains how the rest of the authorised cost is to be met. Opening of the state data centre is [targeted for 2027 at an estimated US$66 million, specified at 1.73MW of IT capacity within 3MW of total power, 228 racks and 10 petabytes of storage](https://www.datacenterdynamics.com/en/news/ivory-coast-targets-launch-of-first-state-owned-data-center-in-2027/).
+
+A data centre was [installed at the national polytechnic institute in Yamoussoukro to support electronic administration and the storage, processing and security of public data](https://www.ivoirematin.com/fr/news/Societe/administration-electronique-un-data-center-installe-a-linp-hb-de-yamoussoukro_n_125289.html). No capacity, operator or cost is stated.
 
 ## Egypt
 

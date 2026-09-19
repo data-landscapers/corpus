@@ -1,10 +1,10 @@
 ---
 title: Innovation ecosystem — monthly update, August – September 2026
-compiled: 2026-09-18
-period: 2026-08-01 to 2026-09-18
+compiled: 2026-09-19
+period: 2026-08-01 to 2026-09-19
 subject: tech.innovate
 places: DZA; AGO; BWA; BFA; CMR; CPV; COM; CIV; COD; EGY; ERI; SWZ; GAB; GMB; GHA; GIN; KEN; LBR; MLI; MAR; NAM; NER; NGA; RWA; SYC; SLE; ZAF; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: 14f0e31534b8
+record: c7125ce99d38
 ---
 
 # Innovation ecosystem: monthly update, August – September 2026
@@ -50,6 +50,8 @@ The hackathon launched in April closed its first phase, [a hundred young people 
 The ministry [launched two accelerator cohorts and a state procurement platform on 29 July](https://www.wearetech.africa/fr/fils/actualites/tech/la-cote-divoire-lance-deux-accelerateurs-pour-faire-emerger-ses-champions-du-numerique), fifteen startups and fifteen digital small firms each accompanied for 24 months, applications closing 13 September, against a target of FCFA 5 to 10bn mobilised from banks, funds and donors.
 
 A ten-year-old marketplace restructured on 31 August: the company [split its consumer and business activities and relaunched the consumer brand as Afrikrea, selling fashion, art and crafts internationally for African and diaspora creators with payment and delivery handled by the platform](https://www.wearetech.africa/fr/fils/breves/breves-simple/cote-d-ivoire-anka-relance-sa-place-de-marche-grand-public-sous-le-nom-dafrikrea). No merchant count, transaction volume or revenue figure is published, and the terms of the split are not stated.
+
+On 15 September the digital minister [presented six costed opportunities worth FCFA 541.3bn to the private sector, under a ministerial roadmap of seven pillars and 40 projects aiming to lift the digital economy to 15 per cent of GDP by 2030](https://www.aip.ci/cote-divoire-aip-pnd-2026-2030-le-ministre-djibril-ouattara-presente-les-sept-piliers-de-lacceleration-numerique/), from an estimated 6 to 8 per cent now.
 
 ## DR Congo
 

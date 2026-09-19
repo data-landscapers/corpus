@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-19
 place: AGO
 ledger_rows: 61
 not_held: 7
-record: 3aa3cb714c23
+record: 14641179e549
 ---
 
 # Angola: monthly update, August – September 2026

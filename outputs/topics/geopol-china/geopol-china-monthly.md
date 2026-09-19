@@ -1,10 +1,10 @@
 ---
 title: China activities — monthly update, August – September 2026
-compiled: 2026-09-18
-period: 2026-08-01 to 2026-09-18
+compiled: 2026-09-19
+period: 2026-08-01 to 2026-09-19
 subject: geopol.china
 places: DZA; BWA; BFA; TCD; DJI; GMB; KEN; NER; NGA; SEN; SSD; SDN; TGO; ZMB; ZWE
-record: 71dfa36bfd07
+record: 168bf61cfd42
 ---
 
 # China activities: monthly update, August – September 2026

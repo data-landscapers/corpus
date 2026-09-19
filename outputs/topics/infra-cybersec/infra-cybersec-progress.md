@@ -1,10 +1,10 @@
 ---
 title: Cybersecurity — progress report, September 2025 – September 2026
-compiled: 2026-09-18
-period: 2025-09-01 to 2026-09-18
+compiled: 2026-09-19
+period: 2025-09-01 to 2026-09-19
 subject: infra.cybersec
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 6ca965ae5207
+record: 895213414805
 ---
 
 # Cybersecurity: progress report, September 2025 – September 2026

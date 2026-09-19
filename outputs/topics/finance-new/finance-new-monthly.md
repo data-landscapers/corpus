@@ -1,10 +1,10 @@
 ---
 title: New investments — monthly update, August – September 2026
-compiled: 2026-09-18
-period: 2026-08-01 to 2026-09-18
+compiled: 2026-09-19
+period: 2026-08-01 to 2026-09-19
 subject: finance.new
 places: AGO; BEN; BFA; CMR; CAF; TCD; COG; CIV; DJI; COD; EGY; SWZ; ETH; GHA; KEN; MWI; MUS; MAR; MOZ; NER; NGA; RWA; SEN; ZAF; TZA; ZMB; ZWE
-record: d378f86bf7f0
+record: 32765966a513
 ---
 
 # New investments: monthly update, August – September 2026
@@ -36,6 +36,8 @@ The EU's digital money was set out in September: [CFAF 9.83bn for the regional D
 ## Central African Republic
 
 The regional programme acquired a date rather than money. The country's component of the Central Africa digital integration programme [is to launch in April 2027, after a week of work in Bangui by a financier mission covering connectivity, public services, data and cybersecurity](https://www.agenceecofin.com/actualites-numerique/1509-141566-centrafrique-connectivite-services-publics-donnees-les-chantiers-du-cardip-de-la-banque-mondiale). No national allocation or workplan is published.
+
+The country's own digital financing reported on itself. The public sector digital governance project's strategic committee [put it at 78% of activities complete and 54% disbursed](https://oubanguimedias.com/2026/08/19/centrafrique-le-projet-de-gouvernance-numerique-du-secteur-public-affiche-un-taux-davancement-de-78/) with six months to its December 2026 closing, the first disbursement reading since April 2025 on committee figures.
 
 ## Chad
 

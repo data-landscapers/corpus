@@ -1,19 +1,21 @@
 ---
 title: Domestic budget appropriations and expenditure — monthly update, August – September 2026
-compiled: 2026-09-18
-period: 2026-08-01 to 2026-09-18
+compiled: 2026-09-19
+period: 2026-08-01 to 2026-09-19
 subject: finance.budget
 places: AGO; COD; EGY; GMB; NER; SEN; SDN; TZA; TUN
-record: b43dd02c8214
+record: 05595ee8dc62
 ---
 
 # Domestic budget appropriations and expenditure: monthly update, August – September 2026
 
 *9 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
+*The place reports do not share one window; the period above is the range they span.*
+
 ## Angola
 
-August ended with three presidential authorisations in a single week. The president [authorised US$210.91 million for an integrated ecosystem of state digital services](https://angop.ao/noticias/economia/governo-investe-usd-210-milhoes-na-digitalizacao-da-administracao-publica/), [US$13 million for the public administration interoperability platform](https://pti.ao/pr-autoriza-13-milhoes-de-dolares-para-plataforma-de-interoperabilidade-da-administracao-publica/) and [US$4.6 million to strengthen state cybersecurity](https://diariodosnegocios.com/governo-investe-46-milhoes-de-dolares-para-reforcar-ciberseguranca-do-estado/). These are authorisations to spend rather than money spent, and they land against a cyber-security appropriation the ledger recorded falling earlier in the year. Nothing in the record held sets out what that integrated set of services consists of, who will build it, or by when.
+August ended with three presidential authorisations in a single week. The president [authorised US$210.91 million for an integrated set of state digital services](https://angop.ao/noticias/economia/governo-investe-usd-210-milhoes-na-digitalizacao-da-administracao-publica/), [US$13 million for the public administration interoperability platform](https://pti.ao/pr-autoriza-13-milhoes-de-dolares-para-plataforma-de-interoperabilidade-da-administracao-publica/) and [US$4.6 million to strengthen state cybersecurity](https://diariodosnegocios.com/governo-investe-46-milhoes-de-dolares-para-reforcar-ciberseguranca-do-estado/). These are authorisations to spend rather than money spent, and they land against a cyber-security appropriation the ledger recorded falling earlier in the year. Nothing in the record held sets out what that integrated set of services consists of, who will build it, or by when.
 
 ## DR Congo
 

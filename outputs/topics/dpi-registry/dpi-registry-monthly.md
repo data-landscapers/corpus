@@ -1,10 +1,10 @@
 ---
 title: Registries (population, land, address, etc.) — monthly update, August – September 2026
-compiled: 2026-09-18
-period: 2026-08-01 to 2026-09-18
+compiled: 2026-09-19
+period: 2026-08-01 to 2026-09-19
 subject: dpi.registry
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; TCD; COM; COG; CIV; COD; EGY; ERI; SWZ; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: a9ea8575e5b5
+record: 49ddfc7d74ff
 ---
 
 # Registries (population, land, address, etc.): monthly update, August – September 2026

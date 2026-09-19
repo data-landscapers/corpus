@@ -1,10 +1,10 @@
 ---
 title: Data Exchange — monthly update, August – September 2026
-compiled: 2026-09-18
-period: 2026-08-01 to 2026-09-18
+compiled: 2026-09-19
+period: 2026-08-01 to 2026-09-19
 subject: dpi.exchange
 places: DZA; AGO; BEN; BWA; BFA; CMR; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MAR; MOZ; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: d98d26aee171
+record: 72f6b1a47c02
 ---
 
 # Data Exchange: monthly update, August – September 2026
@@ -68,6 +68,8 @@ The minister told an information-systems seminar on 21 and 22 July that the firs
 The country's largest working data exchange is agricultural, and its pilot met its users in August. Producers at Meagui [pressed the coffee and cocoa board on 11 August over rollout gaps in the national cocoa traceability system](https://www.aip.ci/cote-divoire-aip-les-contraintes-du-systeme-national-de-tracabilite-au-centre-des-echanges-entre-producteurs-et-conseil-du-cafe-cacao-a-meagui/) — the conditions attached to the producer card, collection in remote zones, deceased and expired cardholders, and bank fees tied to the card. The regional delegate said pilot-phase issues are feeding refinements. No enrolment count, coverage figure, data-controller arrangement or fee schedule for the card is held. The board for the cashew sector began the same sequence a step earlier, [launching a producer and plantation census at Korhogo on 11 August](https://affairesetentreprises.ci/2026/08/17/cote-divoire-le-ccak-lance-le-recensement-des-producteurs-danacarde-premiere-etape-vers-une-tracabilite-de-la-filiere/) as the database that any producer card or traceability system would have to stand on; no timetable or budget for it is stated. Across the border, Mali's customs administration told a Bamako roundtable that its [interconnection with Ivorian customs has a transit-goods data pilot running](https://lagazettedusahel.com/interconnexion-des-systemes-douaniers-le-mali-accelere-sa-transformation-numerique/); the account is Mali's, no Ivorian statement is held, and no completion date for the full interconnection is given.
 
 The cocoa traceability system went live for the new season. Compulsory with the producer card from 1 September, it [recorded about 38,000 producers selling with their cards in its first 13 days, and over 26,000 tonnes bought at the farm gate, each transaction sent to the coffee and cocoa board in real time](https://www.aip.ci/cote-divoire-aip-38-000-producteurs-ont-vendu-leur-cacao-avec-leurs-cartes-depuis-le-1er-septembre/). The rollout gaps producers raised in August over card conditions and remote collection are not reported as settled.
+
+The credit bureau's data turned out to be mostly stale. On figures as at 10 June, [67.88 per cent of Ivorian contracts in the regional credit bureau had not been updated, against a union average of 46.20 per cent, and the country accounted for 60.17 per cent of all non-updated contracts in the union](https://news.abidjan.net/articles/749264/economie-qualite-des-donnees-de-credit-la-cote-divoire-mobilise-les-acteurs-financiers-pour-renforcer-le-dispositif-bic-uemoa). The finance ministry opened consultations on late and incomplete reporting, with three sectoral commissions to produce a national credit-information roadmap.
 
 ## Djibouti
 
