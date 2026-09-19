@@ -1,11 +1,11 @@
 ---
 title: Angola — monthly update, August – September 2026
-compiled: 2026-09-18
-period: 2026-08-01 to 2026-09-18
+compiled: 2026-09-19
+period: 2026-08-01 to 2026-09-19
 place: AGO
-ledger_rows: 60
+ledger_rows: 61
 not_held: 7
-record: baad03791de2
+record: 3aa3cb714c23
 ---
 
 # Angola: monthly update, August – September 2026
@@ -63,7 +63,7 @@ The duty behind it is general. The [administrative procedure code of 2022](https
 ### Domestic budget appropriations and expenditure
 
 <!-- narrative: finance--finance-budget -->
-August ended with three presidential authorisations in a single week. The president [authorised US$210.91 million for an integrated ecosystem of state digital services](https://angop.ao/noticias/economia/governo-investe-usd-210-milhoes-na-digitalizacao-da-administracao-publica/), [US$13 million for the public administration interoperability platform](https://pti.ao/pr-autoriza-13-milhoes-de-dolares-para-plataforma-de-interoperabilidade-da-administracao-publica/) and [US$4.6 million to strengthen state cybersecurity](https://diariodosnegocios.com/governo-investe-46-milhoes-de-dolares-para-reforcar-ciberseguranca-do-estado/). These are authorisations to spend rather than money spent, and they land against a cyber-security appropriation the ledger recorded falling earlier in the year. Nothing in the record held sets out what that integrated set of services consists of, who will build it, or by when.
+August ended with three presidential authorisations in a single week. The president [authorised US$210.91 million for an integrated set of state digital services](https://angop.ao/noticias/economia/governo-investe-usd-210-milhoes-na-digitalizacao-da-administracao-publica/), [US$13 million for the public administration interoperability platform](https://pti.ao/pr-autoriza-13-milhoes-de-dolares-para-plataforma-de-interoperabilidade-da-administracao-publica/) and [US$4.6 million to strengthen state cybersecurity](https://diariodosnegocios.com/governo-investe-46-milhoes-de-dolares-para-reforcar-ciberseguranca-do-estado/). These are authorisations to spend rather than money spent, and they land against a cyber-security appropriation the ledger recorded falling earlier in the year. Nothing in the record held sets out what that integrated set of services consists of, who will build it, or by when.
 <!-- /narrative -->
 ### New investments
 
