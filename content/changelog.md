@@ -1,3 +1,8 @@
+## 19 September 2026
+
+- Documents on eight countries were added to the collection in one night — Mauritius, Niger, Sudan, Sierra Leone, Seychelles, Chad, Togo and Tunisia — and eleven new place-topic pages were written. Four documents held until now only in part, among them the World Bank's Chad digital-economy diagnostic and Sierra Leone's national broadband strategy, are now held whole, so pages citing them rest on the full text.
+- Fourteen laws and official documents the reports had been citing second-hand are now held in their own words, including Niger's loi n° 2019-29, Chad's Loi de finances 2026, Tunisia's décret-loi 2022-54, Mauritius's SIM Registration Regulations 2023 and the Seychelles Elections Act. Nine others were sought and could not be obtained, and each now carries a dated statement of what is not held rather than an open promise.
+
 ## 18 September 2026
 
 - The figures for Tanzania's national identity programme have been corrected: the number of identity numbers issued was being reported as roughly two million when the correct figure is over twenty-three million, and the registration total was out by a digit. The mistake came from a transcription error in one of the sources and had spread to several pages.
