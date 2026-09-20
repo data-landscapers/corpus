@@ -1,11 +1,11 @@
 ---
 title: Egypt — monthly update, August – September 2026
-compiled: 2026-09-18
-period: 2026-08-01 to 2026-09-18
+compiled: 2026-09-20
+period: 2026-08-01 to 2026-09-20
 place: EGY
-ledger_rows: 114
+ledger_rows: 116
 not_held: 48
-record: 671d5c689ab3
+record: 5c4b0612fa73
 ---
 
 # Egypt: monthly update, August – September 2026
@@ -168,6 +168,14 @@ The unified card's terms reached the repository. It is [issued free as a prepaid
 The services platform put new totals on itself at its UN award shortlisting: [12.9 million registered citizens, more than 240 services and about 60 million transactions, integrated with 109 government entities](https://www.maspero.eg/economy/2026/09/09/987902/%D9%85%D9%86%D8%B5%D8%A9-%D9%85%D8%B5%D8%B1-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D8%AA%D8%AA%D8%A3%D9%87%D9%84-%D9%84%D9%84%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A7%D9%84%D9%86%D9%87%D8%A7%D8%A6%D9%8A%D8%A9-%D9%84%D8%AC%D9%88%D8%A7%D8%A6%D8%B2-%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D9%84_%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A), the ministry's own figures.
 
 The prosecution [put five personal-status documents - marriage, divorce and acknowledgement records - on its portal on 10 September, behind the national digital identity](https://www.youm7.com/story/2026/9/10/%D8%A7%D9%84%D9%86%D9%8A%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9-%D8%AA%D8%B7%D9%84%D9%82-%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA%D8%AE%D8%B1%D8%A7%D8%AC-%D9%88%D8%AB%D8%A7%D8%A6%D9%82-%D8%A7%D9%84%D8%AD%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9-%D8%B9%D8%A8%D8%B1-%D8%A8%D9%88%D8%A7%D8%A8%D8%AA%D9%87%D8%A7/7541763).
+<!-- /narrative -->
+
+## Digitalisation
+
+### Rural digital data capture
+
+<!-- narrative: digitalisation--digital-rural -->
+The rural programme was restated this month rather than measured: the communications minister told a cabinet meeting on digital projects that the village fibre sits inside [the incumbent's national programme to replace copper with fibre optic cable across the country, laying fibre in the villages of the rural development initiative to bring high-speed internet to rural residents](https://www.youm7.com/story/2026/9/20/رئيس-الوزراء-يتابع-مستجدات-العمل-لعدد-من-مشروعات-تكنولوجيا-المعلومات/7552399). No route length, cost or completion date accompanies the wider programme, and the village and line counts held here are June's.
 <!-- /narrative -->
 
 ## Technology
