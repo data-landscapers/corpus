@@ -23,6 +23,7 @@ from __future__ import annotations
 
 import argparse
 import hashlib
+import json
 import re
 import sys
 from datetime import date
@@ -459,6 +460,7 @@ TEMPLATE = """<!DOCTYPE html>
 <meta property="og:type" content="article">
 <meta property="og:site_name" content="Data Landscapers">
 <meta name="dl-record" content="{record}">
+{jsonld}
 {ga}
 </head>
 <body>
@@ -578,6 +580,99 @@ def describe(md_path: Path, kind: str, title: str, subtitle: str) -> str:
     if key is None:
         return f"{title}: {subtitle}"
     return copy_md("document", key, subject=SUBJECT.split(title, maxsplit=1)[0].strip())
+
+
+# The publisher, once. `author` and `publisher` are the same organisation here and the page says
+# so in two places already — the masthead and the licence row — so one constant serves both.
+#
+# **It names Data Landscapers and not the model that wrote the document.** The byline does that
+# — *compiled by Claude Opus from the documents in the Corpus repository* — and that is where the
+# disclosure belongs, in the prose a reader sees. `author` in structured data answers a different
+# question: who is accountable for what this says and who may be asked about it. Schema.org has no
+# type that would let the byline's answer go here without lying about the range of the property.
+ORG = {
+    "@type": "Organization",
+    "name": "Data Landscapers",
+    "url": f"{MAIN_SITE}/",
+    "logo": {"@type": "ImageObject", "url": f"{MAIN_SITE}/assets/logo.png"},
+}
+
+# The three subjects the whole corpus is about, named as things rather than as words in a
+# sentence. The description says them in prose for a reader; this says them where a crawler
+# reads entities, which is the half of the same fix that prose cannot do.
+SUBJECTS = ("Digital transformation", "Digital public infrastructure", "Data governance")
+
+
+def about(md_path: Path, kind: str, title: str, place: str) -> list[dict]:
+    """What the document is about: its own place or subject first, then the corpus's three.
+
+    The head entity is typed, because the type is the useful part — `Country` resolves *Niger*
+    against a crawler's own gazetteer, where `Thing` leaves it a string that also names a river.
+    A region is a `Place` and not a `Country` for the same reason, read off the `X` that opens
+    every region and bloc code (`lookups/countries.csv`); a topic is a `Thing`, because *Digital
+    Identity and CRVS* is not a place and typing it as one would be worse than not typing it."""
+    named = SUBJECT.split(title, maxsplit=1)[0].strip()
+    if kind == "bulletin":
+        head = {"@type": "Place", "name": "Africa"}
+    elif tree_of(md_path) == "topics":
+        head = {"@type": "Thing", "name": named}
+    else:
+        head = {"@type": "Country" if place[:1] and place[:1] != "X" else "Place",
+                "name": named}
+    return [head] + [{"@type": "Thing", "name": s} for s in SUBJECTS]
+
+
+def jsonld(md_path: Path, kind: str, title: str, description: str, url_html: str,
+           edition: str, pdf_url: str | None, place: str) -> str:
+    """The page's `application/ld+json` block — the document described as data.
+
+    **The same facts the page already carries, in the one form a crawler does not have to guess
+    at.** Everything here is printed somewhere on the page: the title in the header, the dates in
+    the byline, the licence and the PDF in the colophon, the description in the meta tag above.
+    Nothing is asserted here that a reader cannot see, which is the test — structured data that
+    says more than the page is the kind that gets a site penalised, and it would also be a
+    document telling two stories about itself.
+
+    **`datePublished` is the edition's date without its same-day sequence.** An edition is
+    `2026-09-16` or `2026-09-16-2` (design.md §9, `editions.py`), and the second of those is not
+    a date: emitted as one it is invalid structured data, silently, on whichever handful of
+    documents happened to move twice in a day. `edition_key` already splits the two apart for
+    sorting, so the parse has one implementation rather than a second regex here.
+
+    **`dateModified` equals `datePublished` because a published edition is never revised.** That
+    is §9 stated in the vocabulary a crawler reads, and it is true: a document whose content moves
+    gets a new edition at a new dated URL rather than an edit to this one."""
+    data = {
+        "@context": "https://schema.org",
+        # A bulletin is news and a report is not. Both carry `Article` so that a consumer which
+        # only knows the common supertype still recognises them.
+        "@type": "NewsArticle" if kind == "bulletin" else ["Article", "Report"],
+        "headline": title,
+        "description": description,
+        "url": url_html,
+        "mainEntityOfPage": {"@type": "WebPage", "@id": url_html},
+        "datePublished": editions.edition_key(edition)[0] or edition,
+        "dateModified": editions.edition_key(edition)[0] or edition,
+        "inLanguage": "en",
+        "license": LICENCE_URL,
+        "isAccessibleForFree": True,
+        "author": ORG,
+        "publisher": ORG,
+        "isPartOf": {"@type": "WebSite", "name": "Data Landscapers Corpus",
+                     "url": f"{SITE_BASE}/"},
+        "about": about(md_path, kind, title, place),
+    }
+    # Only where one was cut. A document rendered without a PDF must not advertise one — the same
+    # rule the download button and the `This file` row follow a few lines down.
+    if pdf_url:
+        data["encoding"] = {"@type": "MediaObject",
+                            "encodingFormat": "application/pdf",
+                            "contentUrl": pdf_url}
+    # `</` is escaped because a `</script` anywhere inside the block would end the element early
+    # and spill the rest of the JSON onto the page as text. Nothing we emit contains one today;
+    # the escape is what keeps that from being load-bearing. It is valid JSON either way.
+    body = json.dumps(data, ensure_ascii=False, indent=2).replace("</", "<\\/")
+    return '<script type="application/ld+json">\n' + body + '\n</script>'
 
 
 def archive_picker(entries: list[dict], current: str) -> str:
@@ -815,9 +910,10 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
     # **The button says `↓ PDF` and sits beside the byline** *(Bill, 2026-08-21)*. *Download* is
     # what the arrow already says, and a button on its own line below the byline had the header
     # ending on a call to action rather than on what the document is.
-    if pdf:
-        download = f'<a href="{SITE_BASE}/{rel_pdf}.pdf" class="btn btn--accent">&darr; PDF</a>'
-        colophon_rows = f"          <dt>This file</dt><dd>{SITE_BASE}/{rel_pdf}.pdf</dd>"
+    pdf_url = f"{SITE_BASE}/{rel_pdf}.pdf" if pdf else None
+    if pdf_url:
+        download = f'<a href="{pdf_url}" class="btn btn--accent">&darr; PDF</a>'
+        colophon_rows = f"          <dt>This file</dt><dd>{pdf_url}</dd>"
     else:
         download = ""
         colophon_rows = f"          <dt>This file</dt><dd>{url_html}</dd>"
@@ -847,6 +943,11 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
         if not absolute:
             current_row += archive_picker(archive or [], edition)
 
+    # Built once. The meta tag takes it escaped for an attribute; the structured data takes it
+    # as it is, because JSON has its own escaping and a `&amp;` inside a JSON string would be
+    # the entity itself rather than the ampersand it stands for.
+    description = describe(md_path, kind, title, subtitle)
+
     doc = TEMPLATE.format(
         feedback=feedback(h1 or title, url_html),
         feedback_row=feedback_row(h1 or title, url_html),
@@ -860,7 +961,9 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
         byline=byline,
         edition_display=edition_display,
         colophon_notes=BULLETIN_NOTES if kind == "bulletin" else "",
-        description=attr(describe(md_path, kind, title, subtitle)),
+        description=attr(description),
+        jsonld=jsonld(md_path, kind, title, description, url_html, edition,
+                      pdf_url, meta.get("place", "")),
         short_title=h1 or title,
         h1=h1 or title,
         subtitle=subtitle,

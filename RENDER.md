@@ -346,6 +346,14 @@ python scripts/lint-external-links.py
 
 It checks the built tree *and* the builders — a script that takes its chrome from `chrome_lib` and writes a page without `external_links()` is reported before it has rendered anything. Both directions are findings (`documentation/house-style.md` → *Links*). **A finding stops the push**: the repair is to fix the builder and re-run the step that wrote the page, or `render.py --repage` for a report, neither of which cuts an edition.
 
+**And check that every document still describes itself, and agrees with itself.** The same argument: the `application/ld+json` block each report carries is invisible on the page, in the PDF and in any diff anyone reads, and its only consumer is a crawler that never reports back.
+
+```bash
+python scripts/lint-structured-data.py
+```
+
+Every assertion is *this page disagrees with itself* or *this value is not the type it claims to be* — the description in the block against the one in the meta tag, `url` against the page's own canonical, `encoding` against the PDF the page actually offers, and `datePublished` against being a date at all, which a `-2` edition is not (§9). The script's header says why each is there. **A finding stops the push**, and the repair is the same one: fix `render.py` and `--repage`, which cuts no edition.
+
 ```bash
 git add site
 [ -e logs/deleted-editions.csv ] && git add logs/deleted-editions.csv
