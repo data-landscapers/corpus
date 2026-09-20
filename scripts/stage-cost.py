@@ -14,10 +14,18 @@ The weekly figure is a whole percent, so a stage under one point reads 0. The 5-
 rolls, so a stage across a roll reads negative and is printed as `roll` rather than as a
 number.
 
+**Each cell carries the minutes as well**, from the same readings' timestamps, because the
+points alone cannot be read. A stage costing 0 weekly points is either cheap or short, and
+those are different facts: `rules` at 0 points in 1 minute says the stage is trivial, while
+`backlog` at 0 points in 14 minutes says a job that used its 120-minute cap would not be. The
+weekly limit's whole-percent resolution is coarse enough that a one- or two-point reading
+carries an error bar as wide as itself, so the minutes are often the more honest number.
+
 Reads only Corpus's own archive; nothing here touches the mirror.
 
   python scripts/stage-cost.py
 """
+import datetime
 import glob
 import json
 import os
@@ -42,19 +50,34 @@ def nights() -> dict:
 
 
 def deltas(usage: dict) -> dict:
-    """`{stage: (weekly points, 5-hour points or None on a roll)}`, `start` excluded."""
+    """`{stage: (weekly points, 5-hour points or None on a roll, minutes)}`, no `start`."""
     out, prev = {}, None
     for stage, reading in usage.items():
         if prev is not None:
             week = reading["seven_day"] - prev["seven_day"]
             five = reading["five_hour"] - prev["five_hour"]
-            out[stage] = (week, five if five >= 0 else None)
+            out[stage] = (week, five if five >= 0 else None, minutes(prev, reading))
         prev = reading
     return out
 
 
+def minutes(before: dict, after: dict):
+    """Wall-clock minutes between two readings, or None where either has no timestamp."""
+    a, b = before.get("time_utc"), after.get("time_utc")
+    if not a or not b:
+        return None
+    fmt_ = "%Y-%m-%d %H:%M"
+    return int((datetime.datetime.strptime(b, fmt_)
+                - datetime.datetime.strptime(a, fmt_)).total_seconds() // 60)
+
+
 def fmt(n) -> str:
     return "roll" if n is None else f"{n:g}"
+
+
+def cell(cost) -> str:
+    week, five, mins = cost
+    return f"{fmt(week)} · {fmt(five)}" + ("" if mins is None else f" · {mins}m")
 
 
 def main() -> int:
@@ -73,8 +96,7 @@ def main() -> int:
     print("| stage | " + " | ".join(head) + " |")
     print("|---|" + "---|" * len(days))
     for s in stages:
-        cells = [f"{fmt(costs[d][s][0])} · {fmt(costs[d][s][1])}" if s in costs[d] else "—"
-                 for d in days]
+        cells = [cell(costs[d][s]) if s in costs[d] else "—" for d in days]
         print(f"| {s} | " + " | ".join(cells) + " |")
     whole = []
     for d in days:
