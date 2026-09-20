@@ -1,15 +1,15 @@
 ---
 title: Literacy — monthly update, August – September 2026
-compiled: 2026-09-19
-period: 2026-08-01 to 2026-09-19
+compiled: 2026-09-21
+period: 2026-08-01 to 2026-09-20
 subject: capacity.literacy
-places: AGO; COM; COD; EGY; GHA; KEN; LBR; MDG; MOZ; RWA; SEN; SLE; SSD; TZA; TGO; ZMB
-record: 733ba0466dbf
+places: AGO; COM; COD; EGY; GHA; KEN; LBR; MDG; MOZ; RWA; SEN; SLE; SSD; TZA; TGO; UGA; ZMB
+record: 5d5cc9dc66ee
 ---
 
 # Literacy: monthly update, August – September 2026
 
-*16 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*17 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -80,6 +80,10 @@ The telecoms regulator's director general put the [digital clubs programme at 80
 ## Togo
 
 The staffing has moved ahead of the estate. On 24 August [101 fabmanagers, recruited through the national teacher competition, began a month-long training](https://education.gouv.tg/fablabs-educatifs-et-crit-le-togo-prepare-une-generation-de-createurs-et-dinnovateurs/) in programming, robotics, artificial intelligence, the internet of things and 3D printing, to run educational FabLabs in colleges and scientific lycees and in regional innovation centres — a [programme set out publicly](https://actulome.com/fabmanagers-fablabs-crit-ecole-au-togo/) the week before. The trainers are named and dated; the laboratories have no site count, budget or opening date. Separately, a development bank and telecoms group programme [launched on 2 September carries a component to train 25,000 women in financial and digital skills across Madagascar, Tanzania, Senegal, Togo and Comoros](https://www.ecofinagency.com/news-finances/0409-58613-afdb-axian-take-digital-finance-to-34-000-women-led-businesses-in-africa), the digital financial products themselves going only to the first three. No Togolese allocation, timetable, provider or curriculum is published.
+
+## Uganda
+
+The month's only literacy movement is an operator's, not the state's: a mobile classroom run by the largest mobile operator's foundation [graduated 305 people in Kampala on 18 September, taking the number trained to more than 6,700](https://nilepost.co.ug/business/371849/mtn-programme-trains-305-ugandans-in-digitalfinancial-skills) in safe internet use, digital productivity and responsible use of digital financial services. No cost, geographic spread or outcome measure beyond the graduate count is published, so what is held is a throughput figure rather than a measure of literacy.
 
 ## Zambia
 

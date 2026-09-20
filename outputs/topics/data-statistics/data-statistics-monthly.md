@@ -1,10 +1,10 @@
 ---
 title: National statistics — monthly update, August – September 2026
-compiled: 2026-09-19
-period: 2026-08-01 to 2026-09-19
+compiled: 2026-09-21
+period: 2026-08-01 to 2026-09-21
 subject: data.statistics
 places: BEN; BWA; BFA; BDI; CMR; CAF; TCD; COM; COG; COD; GNQ; SWZ; GAB; GHA; GIN; KEN; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; TGO; TUN; UGA; ZWE
-record: 2950f67cc30c
+record: 30e8e838b30a
 ---
 
 # National statistics: monthly update, August – September 2026

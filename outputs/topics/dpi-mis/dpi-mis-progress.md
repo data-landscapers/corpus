@@ -1,10 +1,10 @@
 ---
 title: Sectoral management information systems (HMIS, EMIS, etc.) — progress report, September 2025 – September 2026
-compiled: 2026-09-19
-period: 2025-09-01 to 2026-09-19
+compiled: 2026-09-21
+period: 2025-09-01 to 2026-09-21
 subject: dpi.mis
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 1d9b7ba80540
+record: a336a0178607
 ---
 
 # Sectoral management information systems (HMIS, EMIS, etc.): progress report, September 2025 – September 2026

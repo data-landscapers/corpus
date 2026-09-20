@@ -1,15 +1,15 @@
 ---
 title: Rural digital data capture — monthly update, August – September 2026
-compiled: 2026-09-19
-period: 2026-08-01 to 2026-09-19
+compiled: 2026-09-21
+period: 2026-08-01 to 2026-09-21
 subject: digital.rural
-places: BDI; TCD; COM; CIV; COD; SWZ; GHA; GIN; KEN; LSO; LBY; MWI; MLI; MUS; NGA; SEN; SLE; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 501903c9c36b
+places: BDI; TCD; COM; CIV; COD; EGY; SWZ; GHA; GIN; KEN; LSO; LBY; MWI; MLI; MUS; NGA; SEN; SLE; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 0b4515353915
 ---
 
 # Rural digital data capture: monthly update, August – September 2026
 
-*23 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*24 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -32,6 +32,10 @@ Medical drone delivery is to leave the centre-west. The Council of Ministers [no
 ## DR Congo
 
 A three-week digital enrolment pilot in April [replaced paper forms with application-based capture across 20 primary schools in Kasai and registered 8,634 pupils, among them disabled and pregnant or mother students the paper system had not counted](https://corusinternational.org/fr/blog/2026/case-scaling-education-data-drc). Making the uncounted visible is what the trial was for; twenty schools is its whole extent, and no national rollout, device count or connectivity provision is published.
+
+## Egypt
+
+The rural programme was restated this month rather than measured: the communications minister told a cabinet meeting on digital projects that the village fibre sits inside [the incumbent's national programme to replace copper with fibre optic cable across the country, laying fibre in the villages of the rural development initiative to bring high-speed internet to rural residents](https://www.youm7.com/story/2026/9/20/رئيس-الوزراء-يتابع-مستجدات-العمل-لعدد-من-مشروعات-تكنولوجيا-المعلومات/7552399). No route length, cost or completion date accompanies the wider programme, and the village and line counts held here are June's.
 
 ## Eswatini
 

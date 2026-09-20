@@ -1,10 +1,10 @@
 ---
 title: Open data — monthly update, August – September 2026
-compiled: 2026-09-19
-period: 2026-08-01 to 2026-09-19
+compiled: 2026-09-21
+period: 2026-08-01 to 2026-09-21
 subject: data.open
 places: BEN; BFA; CPV; TCD; COM; DJI; COD; SWZ; GAB; GMB; GHA; GIN; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NGA; SEN; SOM; TZA; TUN; ZMB; ZWE
-record: e9da4041ab4a
+record: bcdc4c97d0f0
 ---
 
 # Open data: monthly update, August – September 2026

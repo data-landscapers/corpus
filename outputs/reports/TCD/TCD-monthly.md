@@ -1,11 +1,11 @@
 ---
 title: Chad — monthly update, August – September 2026
-compiled: 2026-09-19
-period: 2026-08-01 to 2026-09-19
+compiled: 2026-09-21
+period: 2026-08-01 to 2026-09-21
 place: TCD
-ledger_rows: 49
+ledger_rows: 50
 not_held: 23
-record: e91fd7aece00
+record: ed44b54df6d2
 ---
 
 # Chad: monthly update, August – September 2026
@@ -150,6 +150,14 @@ A second town began digitising its own services. The Abeche town hall, the provi
 
 <!-- narrative: technology--tech-ai -->
 The repository holds its first record of an artificial-intelligence strategy for Chad: a [consultancy is being recruited to draft a National Digital Transformation and Artificial Intelligence Strategy for 2026 to 2031](https://www.ungm.org/Public/Notice/311924). The row that stood as not held is settled to that extent and no further; there is no draft, adoption route or delivery date.
+<!-- /narrative -->
+
+## Capacity
+
+### Literacy
+
+<!-- narrative: capacity--capacity-literacy -->
+
 <!-- /narrative -->
 
 ## Data
