@@ -375,7 +375,13 @@ def main(argv=None):
                                  "lookups", "entity-names.csv")
     names = {}
     path = args.names or default_names
-    if os.path.isfile(path):
+    # **Whether the file was there is reported, because 0 and "not compared" are not the
+    # same reading** (`notes-for-corpus` 38). `entity-names.csv` is Corpus's, so a run in
+    # OSINT's tree finds nothing at the default, every abbreviation group then scores
+    # `high`, and the count below reads as *nothing disagrees* when it means *nothing
+    # could be compared*.
+    have_names = os.path.isfile(path)
+    if have_names:
         with open(path, encoding="utf-8-sig", newline="") as fh:
             names = {r["slug"]: r.get("display", "") for r in csv.DictReader(fh)}
 
@@ -392,8 +398,13 @@ def main(argv=None):
     print("   found by the abbreviation test %d"
           % sum(1 for r in found if "abbreviation" in r["test"]))
     print("   **not** in the display-name cut %d" % len(new))
-    print("   marked `check` (abbreviation, display names disagree) %d"
-          % sum(1 for r in found if r["confidence"] == "check"))
+    if have_names:
+        print("   marked `check` (abbreviation, display names disagree) %d"
+              % sum(1 for r in found if r["confidence"] == "check"))
+    else:
+        print("   marked `check` (abbreviation, display names disagree) -- NOT COMPARED")
+        print("   no display names at %s, so the abbreviation test ran" % path)
+        print("   without its only safeguard and every group reads `high`. Pass --names.")
     print()
     for r in found[:30]:
         print("%3d  %-5s %-13s keep %-34s %s" % (r["group"], r["place"], r["test"],

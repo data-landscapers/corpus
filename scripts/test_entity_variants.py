@@ -18,11 +18,20 @@ are mostly about what it refuses:
   `afcfta-secretariat` on a lax test, and a secretariat is not its parent body.
 - **The two tests must not chain.** A union that shares one member across tests reports
   five slugs as one body; groups merge only when their members are identical.
+
+And one thing about the report rather than the set: **`check` counted as 0 must not be
+printed where no display name could be read** (`notes-for-corpus` 38). `entity-names.csv`
+is Corpus's, so a run in OSINT's tree finds none at the default path, every abbreviation
+group scores `high`, and a bare `0` reads as *nothing disagrees* when it means *nothing was
+compared* -- which is the difference between 55 groups looked at and 55 merged unseen.
 """
 from __future__ import annotations
 
 import collections
 import importlib.util
+import io
+import json
+import shutil
 import sys
 import tempfile
 from pathlib import Path
@@ -151,6 +160,56 @@ with tempfile.TemporaryDirectory() as tmp:
                "nis": "Nigeria Immigration Service"}, set())
            if r["keep"] in ("nigeria-sec", "nis") and "nis" in r["variants"] + r["keep"]
            and "sec" in r["variants"] + r["keep"]], ["check"])
+
+# -- the report, where the absence of display names is the finding ------------
+
+print("\nwhat the run says when it has no display names")
+
+# The fact the output must not misreport: with no names read, `check` cannot be reached,
+# so a count of it is a statement about the input rather than about the corpus.
+_u = collections.Counter({"african-development-bank": 9, "afdb": 2})
+_p = {"african-development-bank": collections.Counter({"NGA": 9}),
+      "afdb": collections.Counter({"NGA": 2})}
+_ph, _ct, _iso = lookups(tempfile.mkdtemp(prefix="ev-names-"))
+check("with no display names nothing can be marked `check`",
+      {r["confidence"] for r in ev.rows(_u, _p, {s: {"x"} for s in _u}, _ph, _ct, _iso,
+                                        {}, set())
+       if r["test"] == "abbreviation"},
+      {"high"})
+
+_tmp = Path(tempfile.mkdtemp(prefix="ev-main-"))
+try:
+    (_tmp / "lookups").mkdir(parents=True)
+    (_tmp / "lookups" / "countries.csv").write_text(COUNTRIES, encoding="utf-8")
+    (_tmp / "index").mkdir()
+    with io.open(_tmp / "index" / "files.jsonl", "w", encoding="utf-8", newline="\n") as fh:
+        for i, slug in [(n, "african-development-bank") for n in range(9)] + \
+                       [(n, "afdb") for n in range(9, 11)]:
+            fh.write(json.dumps({"path": "raw/2026/r%02d.md" % i, "d": {"ext": ".md"},
+                                 "fm": {"entities": [slug], "places": ["NGA"]}}) + "\n")
+    names_csv = _tmp / "entity-names.csv"
+    names_csv.write_text("slug,display\nafdb,AfDB\n"
+                         "african-development-bank,African Development Bank Group\n",
+                         encoding="utf-8")
+
+    def run(*argv):
+        out = io.StringIO()
+        keep, sys.stdout = sys.stdout, out
+        try:
+            return ev.main(list(argv)), out.getvalue()
+        finally:
+            sys.stdout = keep
+
+    _rc, missing = run("--root", str(_tmp), "--names", str(_tmp / "nope.csv"))
+    _rc, present = run("--root", str(_tmp), "--names", str(names_csv))
+
+    check("a run with no names file says so instead of counting",
+          ("NOT COMPARED" in missing, "disagree) 0" in missing), (True, False))
+    check("and names where it looked", str(_tmp / "nope.csv") in missing, True)
+    check("a run with the file counts as before",
+          ("NOT COMPARED" in present, "disagree)" in present), (False, True))
+finally:
+    shutil.rmtree(_tmp, ignore_errors=True)
 
 print()
 if fails:
