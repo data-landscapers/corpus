@@ -1,8 +1,9 @@
 /**
  * corpus-alerts — one weekly email per reader, built here and handed to Buttondown to send.
  *
- * `documentation/catalogue-alerts.md` is the design record and Part 1 B is what this
- * implements. README.md beside this file is a pointer to it.
+ * `documentation/catalogue-alerts.md` is the design record; the build brief this was
+ * written to is archived at `documentation/archived/catalogue-alerts-build.md` Part 1 B.
+ * README.md beside this file is a pointer to both.
  *
  * WHAT IT DOES. Four routes and a cron. The routes take a sign-up, serve a plain Atom feed
  * for readers who want no email at all, and let a reader list and edit what they hold. The

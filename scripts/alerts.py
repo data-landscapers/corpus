@@ -7,9 +7,9 @@ r"""alerts.py — the alert sign-up and manage pages, and the two files the Work
       -> site/alerts/index.html           sign up
       -> site/alerts/manage/index.html    edit what you hold
 
-`documentation/catalogue-alerts.md` is the design record; Part 1 B is what this
-implements and Part 2 is the prose, which lives in `content/alerts.md` and reaches
-the pages through `copy_lib`. RENDER Step 5 runs this straight after `catalogue.py`,
+`documentation/catalogue-alerts.md` is the design record and `documentation/archived/
+catalogue-alerts-build.md` Part 1 B is the brief this was built to. The prose lives in
+`content/alerts.md` and reaches the pages through `copy_lib`. RENDER Step 5 runs this straight after `catalogue.py`,
 because both read the same catalogue and the alert pages' menus have to carry the
 same vocabulary the catalogue's facets do.
 

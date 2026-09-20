@@ -3,7 +3,8 @@
  * `scripts/alerts.py` writes the markup and a `window.ALERTS` blob holding the
  * vocabularies, the caps, the Turnstile site key and the reader-facing strings;
  * this is the part that does not change when the catalogue does.
- * `documentation/catalogue-alerts.md` Part 1 B is the design.
+ * `documentation/catalogue-alerts.md` is the design; its build brief is archived at
+ * `documentation/archived/catalogue-alerts-build.md` Part 1 B.
  *
  * TWO PAGES, ONE FILE. `ALERTS.page` is `signup` or `manage`. They share the
  * picker — a pair of multi-selects with an Any option and a cap of five — and
