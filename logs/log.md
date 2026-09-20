@@ -12,6 +12,8 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-09-21 00:16 · **REVIEW** · 5m · COM: status 0 sections revised, progress 0 cells, monthly 0 blocks, finance 7 rows read 0 repaired; 0 deals queued, 1 note for OSINT, 1 block for Bill — ok
+2026-09-21 00:11 · **REVIEW** · 6m · COG: status 1 section revised, progress 0 cells, monthly 0 blocks, finance 12 rows read 0 repaired; 0 deals queued, 2 notes for OSINT — ok
 2026-09-21 00:05 · **BUILD** · 48m · catalogue 22952, finance 62 places, scan 38 units 131 sources, 21 ledgers moved, 25 rows minted, 76 topic docs, 15 bulletin items; scope 319 in remit, 9 XGL unverified, 0 unaccounted; 42 register hits ruled to stand — ok
 2026-09-21 00:05 · **NOTES** · 41m · notes-for-corpus drained, queue empty: 35, 36, 37, 39, 40, 41 closed. 41's four change-log entries added; 37's selector fixed in both copies of entities-remap.py; 40 re-raised after its close crossed a share check, closed again with both asks verified
 2026-09-20 19:32 · **REGISTER-R58** · unclocked · R58 NER FY2026: Niger publishes, 28th country. The communications ministry gets XOF 191.8m for digital; a compte special for tax-administration digitisation, outside the votes, gets 5.56bn -- 29x. Three exact cross-foots.
