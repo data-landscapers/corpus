@@ -7,7 +7,7 @@ r"""lint-considered.py — evidence read, marked, and left no trace.
 
 **The finding is one sentence: a source the ledger has marked considered, whose
 indicator the progress report calls ***No evidence***, and which no ledger row
-cites.** Stage 4 read it, decided nothing, and marked it — and `BUILD.md` step 200
+cites.** Stage 4 read it, decided nothing, and marked it — and `BUILD.md` -> *Stage 4*
 says an item already considered is never reopened, so the mark is what makes the
 loss permanent. The report then publishes *the base holds nothing on this
 indicator at all* over a base that holds a document answering it.

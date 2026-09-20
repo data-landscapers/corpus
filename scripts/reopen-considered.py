@@ -6,7 +6,7 @@ r"""reopen-considered.py — put discarded evidence back in stage 4's way.
 
 **`lint-considered.py` finds them; this is the only thing that can undo them.** A
 slug in `considered.txt` is invisible to stage 4 for ever — it reads a set
-difference and `BUILD.md` step 200 says an item already considered is never
+difference and `BUILD.md` -> *Stage 4* says an item already considered is never
 reopened — so a source read and discarded cannot be reached by any amount of
 re-running. Striking the line is the whole of the repair's mechanical half.
 

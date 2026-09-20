@@ -66,7 +66,7 @@ movement — so it falls to the default and disappears. For Benin:
 | `brief: progress` | 111 | 84 | 4 |
 
 **And the mark is what makes it permanent.** Stage 4 reads "only the sources the ledger has
-not yet considered — a set difference over slugs", and `BUILD.md` step 200 states the
+not yet considered — a set difference over slugs", and `BUILD.md` -> *Stage 4* states the
 consequence: *"an item already considered is never reopened."* `report-scan.py --json`
 reports **zero unconsidered sources across all 54 units**: as far as the build is
 concerned there is nothing left to read, and there never will be.
