@@ -4,11 +4,14 @@
     python scripts/finance.py
       -> site/finance/index.html                   the page
       -> site/finance/all-nonstate-{edition}.csv   the full download, a dated edition (§9)
+      -> site/finance/all-budgets-{edition}.csv    the same, for the domestic side
 
 **One top-level page, two sections** *(Bill, 2026-08-19)*. Non-state finance, which
-has data behind it and carries the whole cross-country table; and national budgets,
-which does not yet and says so. It replaces both the shell landing this file used to
-write and the separate `all.html` the table briefly had — see `render()`.
+carries the whole cross-country table of commitments; and national budgets, which
+from 2026-09-20 carries what the base holds of what states appropriate from their own
+money (strategic review 4 R53 — it said for a year that nothing was published). It
+replaces both the shell landing this file used to write and the separate `all.html`
+the table briefly had — see `render()`.
 
 The table is the cross-country counterpart of each country's `finance.html` and uses
 the same component: `site/assets/js/datatable.js` fetches the published CSV and draws
@@ -24,9 +27,12 @@ Reads `outputs/non-state-finance/all-nonstate.csv` (the deduped cross-country
 partition — one row per deal). Vocabularies come from `outputs/vocab/` like the
 catalogue, so the site still reads only `outputs/`.
 
-The domestic-budget side lives in the per-country `{ISO3}-budget.csv` /
-`{ISO3}-summary.csv` and is not aggregated here; the *National budgets* block on the
-page says why, and is the thing to change when it is.
+The domestic-budget side is compiled per country into `outputs/budgets/{ISO3}-budget.csv`
+and concatenated here into one published edition with `place` prepended. **It is not
+aggregated and never will be by this script**: every row is in the announcing state's
+own currency at whatever grain its budget document prints, so there is no total to
+offer and the page says so. `{ISO3}-summary.csv` — which does carry US$m ball-park aggregates —
+is still not read here, for the same reason.
 """
 from __future__ import annotations
 import csv, html, json, sys
@@ -36,7 +42,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import editions  # noqa: E402  - one implementation of the edition grammar (§9)
-from copy_lib import copy, copy_md  # noqa: E402
+from copy_lib import copy, copy_inline, copy_md  # noqa: E402
 import structured_data  # noqa: E402
 from chrome_lib import chrome, external_links, feedback, foot, ga, script, styles  # noqa: E402
 
@@ -76,6 +82,143 @@ def place_names() -> dict:
         for r in csv.DictReader(fh):
             names[r["iso-3"]] = r["country-name"]
     return names
+
+
+# ---------------------------------------------------------------- national budgets
+BUDGET_DIR = OUTPUTS / "budgets"
+
+# **What the budget download carries is narrower than what the compile holds**, on the
+# precedent `design.md` set for the catalogue on 2026-09-09. `record` is a key into
+# OSINT's tree and names a file only we hold. `doc_type` is populated on 197 of the 466
+# budget-document lines and blank on the rest — a column mostly empty on the rows it
+# belongs to tells a reader nothing and invites the inference that the source is unknown,
+# when `doc_locator` names it on every one of them. Both stay in `outputs/`.
+BUDGET_DROP = ("record", "doc_type")
+
+STAGES = ("proposed", "appropriated", "revised", "released", "actual", "audited")
+
+
+def _fy_span(years: list[str]) -> str:
+    """`2024, 2025, 2026` -> `2024–2026`, and the same for `2024/25 … 2026/27`.
+
+    The column was the widest in the table and pushed Currency off the right edge of a
+    1440px window. A run of consecutive years says the same thing as the list of them
+    and says it in a quarter of the width; anything with a gap in it stays a list,
+    because *2024, 2026* and *2024–2026* are different claims about what has been read."""
+    if len(years) < 3:
+        return ", ".join(years)
+    heads = [int(y[:4]) for y in years]
+    same_shape = len({len(y) for y in years}) == 1
+    if same_shape and heads == list(range(heads[0], heads[0] + len(heads))):
+        return f"{years[0]}–{years[-1]}"
+    return ", ".join(years)
+
+
+def _blank(v: str) -> bool:
+    """A field the compile wrote as an em-dash is a stated absence, not a value.
+
+    Records built from reporting leave `doc_locator` blank *by rule* (the driver: classification
+    codes, scale and locator are left blank, not inferred) and several write the em-dash and a
+    reason instead of nothing at all. Counting those as citations would have this page report
+    475 traceable lines where it has 466."""
+    v = (v or "").strip()
+    return not v or v.startswith("—") or v in {"-", "n/a", "N/A"}
+
+
+def load_budgets(names: dict) -> tuple[list[dict], bytes, dict]:
+    """Per-country coverage, the combined table, and the counts for the byline.
+
+    **Coverage is the publication, and the figures come with it** *(strategic review 4 R53)*.
+    The section said for a year that nothing was published because a table of 26 countries
+    side by side would be read as a comparison it cannot support. That is still true of the
+    figures and is why every row carries its own currency and no total is offered anywhere:
+    these are unconverted amounts at whatever grain each state's own budget document prints,
+    and the byline counts the currencies on the run that wrote it rather than carrying a
+    number here that will be wrong the first time a country is added. What changes is that
+    stating the coverage per country is what makes the figures
+    publishable rather than what has to happen before they are — a reader who can see that
+    Ghana is two years of appropriations and South Africa is three years with an audited
+    outturn is not going to read one against the other as like for like."""
+    rows, out, cols = [], [], None
+    for path in sorted(BUDGET_DIR.glob("*-budget.csv")):
+        iso = path.name[:3]
+        with open(path, encoding="utf-8-sig", newline="") as fh:
+            rdr = csv.DictReader(fh)
+            src = list(rdr)
+            if cols is None:
+                cols = ["place"] + [c for c in (rdr.fieldnames or []) if c not in BUDGET_DROP]
+        if not src:
+            continue
+        for r in src:
+            out.append({"place": iso, **{c: r.get(c, "") for c in cols if c != "place"}})
+        fys = sorted({(r.get("fy") or "").strip() for r in src} - {""})
+        years = sorted(f for f in fys if f[:4].isdigit())
+        labels = [f for f in fys if not f[:4].isdigit()]
+        scope = Counter((r.get("scope_confidence") or "").strip() for r in src)
+        stages = [s for s in STAGES if any((r.get(s) or "").strip() for r in src)]
+        rows.append({
+            "place": iso,
+            "name": names.get(iso, iso),
+            "years": years,
+            "fys": _fy_span(years) + (" + unstated" if labels else ""),
+            "lines": len(src),
+            "scope": " · ".join(f"{n} {k}" for k, n in scope.most_common() if k),
+            "stages": " · ".join(stages) or "none stated",
+            "currency": ", ".join(sorted({(r.get("currency") or "").strip() for r in src} - {""})),
+            "cited": sum(1 for r in src if not _blank(r.get("doc_locator"))),
+        })
+
+    buf = []
+    w = csv.writer(_Sink(buf), lineterminator="\n")
+    w.writerow(cols or [])
+    for r in out:
+        w.writerow([r.get(c, "") for c in (cols or [])])
+    body = "".join(buf).encode("utf-8-sig")
+
+    yrs = [int(y[:4]) for r in rows for y in r["years"]]
+    agg = {"countries": len(rows), "lines": len(out),
+           "cited": sum(r["cited"] for r in rows),
+           "currencies": len({c for r in rows for c in r["currency"].split(", ") if c}),
+           "yr": f"FY{min(yrs)}–FY{max(yrs)}" if yrs else "n/a"}
+    return rows, body, agg
+
+
+class _Sink:
+    """`csv.writer` wants a file; this collects the rows so the bytes can be hashed
+    and handed to `editions.publish` without a temporary file on the way."""
+
+    def __init__(self, buf: list):
+        self.buf = buf
+
+    def write(self, s: str) -> int:
+        self.buf.append(s)
+        return len(s)
+
+
+def budget_table(rows: list[dict]) -> str:
+    """The coverage table: one row per country, no money in it.
+
+    Baked into the page rather than drawn by the datatable component, which is the
+    opposite of the call one section up. Twenty-six rows by six columns is a few
+    kilobytes of HTML and reads with JavaScript off; 494 rows of figures is the one
+    below, and that is the table the component exists for."""
+    body = "\n".join(
+        f'        <tr><th scope="row">{html.escape(r["name"])} '
+        f'<span class="mono">({r["place"]})</span></th>'
+        f'<td>{html.escape(r["fys"])}</td>'
+        f'<td class="num">{r["lines"]}</td>'
+        f'<td>{html.escape(r["scope"])}</td>'
+        f'<td>{html.escape(r["stages"])}</td>'
+        f'<td class="mono">{html.escape(r["currency"])}</td></tr>'
+        for r in rows)
+    return f"""<div class="table-scroll"><table class="pivot">
+        <thead><tr><th scope="col">Country</th><th scope="col">Fiscal years</th>
+          <th scope="col" class="num">Lines</th><th scope="col">Scope</th>
+          <th scope="col">Stages held</th><th scope="col">Currency</th></tr></thead>
+        <tbody>
+{body}
+        </tbody>
+      </table></div>"""
 
 
 def load_finance(sdir: Path) -> dict:
@@ -128,7 +271,7 @@ PAGE = """<!DOCTYPE html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Finance — Data Landscapers</title>
-<meta name="description" content="Money committed to Africa's digital sector: every non-state commitment held in the Data Landscapers base, searchable and downloadable, plus the state of the domestic budget record.">
+<meta name="description" content="Money committed to Africa's digital sector: every non-state commitment held in the Data Landscapers base, searchable and downloadable, plus every national budget line read out of a state budget document so far.">
 <link rel="canonical" href="{base}/finance/">
 {artefacts}
 {styles}
@@ -193,8 +336,47 @@ PAGE = """<!DOCTYPE html>
     </div>
 
     <h2 class="section-heading" id="budgets">National budgets</h2>
+    <div class="byline">{b_countries} countries &nbsp;·&nbsp; {b_lines} budget lines &nbsp;·&nbsp; {b_currencies} currencies, unconverted &nbsp;·&nbsp; {b_yr}</div>
 
 {budgets_intro}
+
+{budget_coverage}
+
+    <p class="table-note">{budget_coverage_note}</p>
+
+{budgets_table_note}
+
+    <div class="dl-datatable"
+      data-src="{b_csv}"
+      data-cols="place, fy, admin_head, programme, sub_programme, proposed, appropriated, revised, actual, audited, currency, scope_confidence, source_tier, doc_locator"
+      data-filters="place, fy, current_stage, scope_confidence, source_tier, currency"
+      data-numeric="proposed, appropriated, revised, released, actual, audited"
+      data-labels="{b_labels}"
+      data-detail="doc_locator"
+      data-sort="place:asc"
+      data-empty="No budget line matches those filters.">
+      <div class="dt-controls">
+        <span class="dt-title">Africa &mdash; national budget lines</span>
+        <span class="dt-count">{b_lines} rows</span>
+        <a class="btn btn--sm" href="{b_csv}" download>&darr; CSV</a>
+      </div>
+      <noscript>
+        <p>The table is drawn in the browser from <a href="{b_csv}">{b_csv}</a>. With JavaScript off, download that file &mdash; it is the same data, every row and every field.</p>
+      </noscript>
+    </div>
+
+    <div class="colophon">
+      <strong>About this table</strong>
+      <dl>
+        <dt>Built</dt><dd class="mono">{built}</dd>
+        <dt>Edition</dt><dd class="mono">{b_edition}</dd>
+        <dt>This file</dt><dd><a href="{b_csv}">{b_csv}</a> &mdash; a dated edition, retained as published and never revised</dd>
+        <dt>Source</dt><dd><code>outputs/budgets/{{ISO3}}-budget.csv</code>, compiled from the records each line rests on</dd>
+        <dt>Amounts</dt><dd>In the state&rsquo;s own currency, as its budget document prints them, with no conversion and no total. A figure is an appropriation, a revision or an outturn &mdash; the columns say which</dd>
+        <dt>Citation</dt><dd><code>doc_locator</code> names the page, table and line in the budget document the figure is printed in. It is blank on lines built from reporting, where the driver leaves it blank rather than inferring one</dd>
+        <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></dd>
+      </dl>
+    </div>
 
   </div>
   </main>
@@ -247,7 +429,7 @@ def dataset(agg: dict, csv_name: str, edition: str) -> str:
 
 
 def render(agg: dict, names: dict, csv_name: str, edition: str,
-           artefacts: str = "") -> str:
+           artefacts: str = "", budgets: tuple | None = None) -> str:
     """The Finance page: non-state finance with its table, then national budgets
     with an explanation of why there is nothing under it yet.
 
@@ -265,6 +447,9 @@ def render(agg: dict, names: dict, csv_name: str, edition: str,
     used = {c: names[c] for c in agg["by_place"] if c in names}
     labels = html.escape(json.dumps({"recipient_country": used}, ensure_ascii=False), quote=True)
     yr = f"{agg['year_min']}–{agg['year_max']}" if agg["year_min"] else "n/a"
+    brows, bagg, b_csv, b_edition = budgets or ([], {}, "", "")
+    b_used = {r["place"]: r["name"] for r in brows}
+    b_labels = html.escape(json.dumps({"place": b_used}, ensure_ascii=False), quote=True)
     return PAGE.format(
         feedback=feedback("Finance", f"{SITE_BASE}/finance/"),
         base=SITE_BASE, main=MAIN_SITE, chrome=CHROME, foot=FOOT,
@@ -276,6 +461,12 @@ def render(agg: dict, names: dict, csv_name: str, edition: str,
         non_state_intro=indent(copy("finance", "non-state-intro")),
         table_note=indent(copy("finance", "non-state-table-note")),
         budgets_intro=indent(copy("finance", "budgets-intro")),
+        budgets_table_note=indent(copy("finance", "budgets-table-note")),
+        budget_coverage=indent(budget_table(brows)),
+        budget_coverage_note=copy_inline("finance", "budgets-coverage-note"),
+        b_countries=bagg.get("countries", 0), b_lines=f"{bagg.get('lines', 0):,}",
+        b_currencies=bagg.get("currencies", 0), b_yr=bagg.get("yr", "n/a"),
+        b_csv=b_csv, b_edition=b_edition, b_labels=b_labels,
         deals=f"{agg['deals']:,}", total=f"{agg['total_usd_m']:,.0f}",
         financiers=f"{agg['financiers']:,}", places=agg["places"], yr=yr,
         jsonld=dataset(agg, csv_name, edition),
@@ -310,7 +501,15 @@ def main() -> int:
     # how one page comes to disagree with sixty-one others about what it is offering.
     edition = editions.edition_of(csv_path.stem) or ""
     artefacts = editions.artefact_meta("all-nonstate", edition, editions.digest(body))
-    page.write_text(external_links(render(agg, names, csv_path.name, edition, artefacts)),
+    # The budget table publishes the same way and for the same reason (§9): a compiled
+    # finding of ours that a reader may quote a figure out of, so it is dated, retained
+    # and never revised, and the page links whichever edition `publish` settled on.
+    brows, bbody, bagg = load_budgets(names)
+    b_path, _ = editions.publish(bbody, out, "all-budgets", ".csv", page=page)
+    b_edition = editions.edition_of(b_path.stem) or ""
+    artefacts += editions.artefact_meta("all-budgets", b_edition, editions.digest(bbody))
+    page.write_text(external_links(render(agg, names, csv_path.name, edition, artefacts,
+                                          (brows, bagg, b_path.name, b_edition))),
                     encoding="utf-8")
     stale = out / "all.html"
     if stale.exists():                 # the table's own page, folded into index.html

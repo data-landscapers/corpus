@@ -60,10 +60,20 @@ def fy_normalise(lab):
     and some are written long. A summary carrying both forms shows a reader two columns
     for one year — Botswana's had `2025/26` and `2025/2026` side by side (unit review,
     2026-09-18). Only a genuine consecutive pair is shortened; anything else is left alone.
+
+    **The hyphen is the same label** *(2026-09-20, R53)*. Burundi writes one fiscal year as
+    `2026/27` on one record and `2026-2027` on another, both verbatim from the documents, and
+    the coverage table the Finance page now publishes counted them as two — it reported four
+    fiscal years for a country that has three. `fiscal_year_label` stays verbatim on the
+    record, as the driver requires; this is the display form, and a display form that shows
+    one year twice is the thing this function exists to prevent.
     """
-    m = re.fullmatch(r"(\d{4})/(\d{4})", (lab or "").strip())
-    if m and int(m.group(2)) == int(m.group(1)) + 1:
-        return "%s/%s" % (m.group(1), m.group(2)[-2:])
+    m = re.fullmatch(r"(\d{4})[/-](\d{4}|\d{2})", (lab or "").strip())
+    if m:
+        a, b = m.group(1), m.group(2)
+        full = int(b) if len(b) == 4 else int(a[:2] + b)
+        if full == int(a) + 1:
+            return "%s/%s" % (a, str(full)[-2:])
     return lab
 
 def primary_subject(rec):
@@ -347,14 +357,28 @@ def csv_budget(dom, iso3, path):
         # the cross-year join key (finance-load-domestic-state.md § Classification).
         # programme_line stays as a trailing DISPLAY column: it is all 395 unmigrated
         # records carry. Drop it when housekeeping job 34 closes.
+        # `source_tier`, `doc_type` and `doc_locator` are the citation *(2026-09-20, R53)*.
+        # These rows publish on the Finance page from this run, and a figure a reader
+        # cannot trace to the instrument it came from is a figure they have to take on
+        # trust. The three together say which kind of source the line rests on and where
+        # in it the number is printed — the same job `url` does on the non-state side,
+        # where the source is a web page rather than page 412 of a gazette.
         w.writerow(["fy", "admin_head_code", "admin_head",
                     "spending_entity_code", "spending_entity",
                     "programme_code", "programme",
                     "sub_programme_code", "sub_programme", "econ_class",
-                    "appropriated", "revised",
+                    # `proposed` was missing from the ladder *(2026-09-20, R53)*. The driver's
+                    # stage vocabulary opens at `proposed` (tabled, pre-enactment) and several
+                    # countries hold nothing else — Sierra Leone's whole record is a tabled
+                    # figure, and Cameroon's FY2026 is proposed throughout because the enacted
+                    # law is a scan. Exporting the ladder from `appropriated` onwards published
+                    # those lines with every money column empty, which reads as a row with no
+                    # figure rather than as a figure at the stage it was observed at.
+                    "proposed", "appropriated", "revised", "released",
                     "actual", "audited", "exec_vs_voted", "exec_vs_revised",
                     "baseline_stage", "current_stage", "scope_confidence", "is_transfer",
-                    "currency", "record", "programme_line"])
+                    "currency", "source_tier", "doc_type", "doc_locator",
+                    "record", "programme_line"])
         def sk(r):
             n = vote_num(r); return (fm_get(r["fm"], "fy_start"), int(n) if n.isdigit() else 999, r["deal_id"])
         for r in sorted(dom, key=sk):
@@ -366,12 +390,18 @@ def csv_budget(dom, iso3, path):
                         cfield(r, "sub_programme_code"),
                         cfield(r, "sub_programme", "Subprogramme"),
                         cfield(r, "econ_class"),
+                        fm_get(fm, "proposed_total"),
                         fm_get(fm, "appropriated_total"), fm_get(fm, "revised_total"),
+                        fm_get(fm, "released_total"),
                         fm_get(fm, "actual_total"), fm_get(fm, "audited_total"),
                         fm_get(fm, "execution_pct_vs_appropriated"), fm_get(fm, "execution_pct_vs_revised"),
                         fm_get(fm, "baseline_stage"), fm_get(fm, "current_stage"),
                         fm_get(fm, "scope_confidence"), fm_get(fm, "is_transfer"),
-                        fm_get(fm, "currency"), r["fn"][:-3], line_name(r)])
+                        fm_get(fm, "currency"),
+                        fm_get(fm, "source_tier"),
+                        cfield(r, "doc_type", "doc_type"),
+                        cfield(r, "doc_locator", "doc_locator"),
+                        r["fn"][:-3], line_name(r)])
 
 def csv_summary(ns, dom, lab, path, fx):
     nsb, fys_ns, doms, fys_dom, excl = aggregate3(ns, dom, fx)

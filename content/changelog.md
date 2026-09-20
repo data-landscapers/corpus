@@ -1,5 +1,7 @@
 ## 20 September 2026
 
+- National budgets now publish. The Finance page carries 494 budget lines read out of 26 African states' own budget documents, with a coverage table saying per country which fiscal years have been read, how many lines came out of them and which stages of the budget cycle are held. The section had said for a year that nothing was published there.
+- Every published budget line now names the page, table and line of the budget document its figure is printed on, and rows whose only figure is a tabled one no longer publish as blank.
 - The catalogue, the non-state finance table, and each country's and region's cut of both are now published as datasets, so they can be found in Google Dataset Search rather than only on this site. Each entry names the columns, the years covered, the licence and, for the finance tables, the dated edition on offer.
 - The Finance page's colophon was showing its edition as `19` rather than `2026-09-19`. The file it links was always the right one; only the Edition row was wrong.
 - The 250 country, region and topic reports now describe themselves properly in search results, naming digital transformation, digital public infrastructure and data governance instead of repeating the report's own title back. A search that should have found these pages was less likely to.
