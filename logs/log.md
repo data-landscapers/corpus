@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-09-20 08:25 · **REGISTER-R35** · 50m · lens-strip.py and its 15,372 slugs on prepared/job-lens-20a/. Byte-level removal, proved on a copy of the whole corpus: 15,372 differ by exactly one line, 7,475 identical, 0 problems. 2,841 carry a real value.
 2026-09-20 08:08 · **REGISTER-R34A** · 1h10m · lens dropped from the catalogue build, the vault index and the row shape; the row is 12 fields, not 13. Published data rebuilds byte-identical. New test_catalogue_rowshape.py checks the four readings of a row without node.
 2026-09-20 04:53 · **REGISTER-R33** · 55m · Job 88: ingested-backfill.py and its brief on prepared/job-88/. Scope is zero -- all 22,847 raw/ records carry ingested:, none before published: -- so no record list, and R34 is an audit. The no-follow method would have stamped the shard date.
 2026-09-20 00:09 · **RENDER** · 17m · 251 reports rendered, 0 failed; home, place, topic, progress, catalogue, alerts, finance, methodology built; 10214 editions to R2; deployed - ok
