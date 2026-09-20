@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-09-20 04:53 · **REGISTER-R33** · 55m · Job 88: ingested-backfill.py and its brief on prepared/job-88/. Scope is zero -- all 22,847 raw/ records carry ingested:, none before published: -- so no record list, and R34 is an audit. The no-follow method would have stamped the shard date.
 2026-09-20 00:09 · **RENDER** · 17m · 251 reports rendered, 0 failed; home, place, topic, progress, catalogue, alerts, finance, methodology built; 10214 editions to R2; deployed - ok
 2026-09-19 23:52 · **REVIEW** · 3m · COD: status 3 sections revised, progress 2 cells created, monthly 0 blocks, finance 0 rows; 0 deals queued, 1 note for OSINT - ok
 2026-09-19 23:49 · **REVIEW** · 4m · CMR: status 2 sections revised, progress 3 cells created, monthly 0 blocks, finance 0 rows; 0 deals queued, 1 note for OSINT - ok
