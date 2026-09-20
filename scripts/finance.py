@@ -93,7 +93,12 @@ BUDGET_DIR = OUTPUTS / "budgets"
 # budget-document lines and blank on the rest — a column mostly empty on the rows it
 # belongs to tells a reader nothing and invites the inference that the source is unknown,
 # when `doc_locator` names it on every one of them. Both stay in `outputs/`.
-BUDGET_DROP = ("record", "doc_type")
+# `source_slug` joined them on 2026-09-20 (R54). It names the held document a Corpus
+# extraction was read out of, which is a slug in OSINT's tree — and the published catalogue
+# carries titles and URLs, never slugs, so publishing one here would be the first. What a
+# reader needs is `doc_locator`, which names the page and table the figure is printed on in
+# a document they can fetch themselves from the publisher.
+BUDGET_DROP = ("record", "doc_type", "source_slug")
 
 STAGES = ("proposed", "appropriated", "revised", "released", "actual", "audited")
 

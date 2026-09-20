@@ -30,6 +30,7 @@ In short: two machines. A private one searches, fetches, screens and classifies 
 | --- | --- |
 | `site/` | The site as served. Generated; never edited by hand. |
 | `outputs/` | Metadata datasets: the catalogue, finance and budget records, bulletin summaries, vocabularies. |
+| `budgets/` | Budget lines read by hand out of states' own budget documents, one file per country and fiscal year. The one dataset authored here rather than derived. |
 | `lookups/` | Vocabularies used in the build: countries, taxonomy, indicators, finance code maps. |
 | `content/` | The editable text of each page, in markdown. |
 | `scripts/` | The Python that builds reports and pages from the metadata, and the checks run before publishing. |
@@ -62,7 +63,7 @@ Start with an email. The site is rebuilt nightly by automated processes, so a ch
 
 ## Licence
 
-Code: [MIT](LICENSE). Reports, datasets and page text (`site/`, `outputs/`, `content/`): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Code: [MIT](LICENSE). Reports, datasets and page text (`site/`, `outputs/`, `budgets/`, `content/`): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ## Contact
 

@@ -1,0 +1,399 @@
+#!/usr/bin/env python3
+r"""budget_source.py — Corpus's own budget extractions: the schema, the loader, the checker.
+
+    python scripts/budget_source.py            # check every file under budgets/
+    python scripts/budget_source.py GHA        # check one country
+    python scripts/budget_source.py --columns  # print the header a new file needs
+
+**`budgets/{ISO3}/{FY}.csv` is a source folder, not an output** *(strategic review 4 R54)*.
+Everything else Corpus publishes is derived from OSINT's `raw/`: a compile reads records and
+writes `outputs/`, and a hand-edit anywhere in that chain is overwritten by the next build.
+These files are the one exception. A sitting reads a budget document OSINT holds, extracts
+the digital lines against `documentation/budget-extract.md`, and writes them here; nothing
+regenerates them, so they are tracked and they are the record. `BUDGET-EXTRACT.md` is the
+runbook that produces one.
+
+**A row is a record, so it carries what a record carries.** The field vocabulary is
+`finance-load-domestic-state.md`'s, deliberately — a Corpus row and an OSINT record say the
+same thing in the same words, which is what lets `build-finance-page.py` merge the two into
+one export without a mapping table between them. The 46 columns are the whole shape: the
+line, the year, the classification chain and its codes, the scope judgement and its basis,
+the origin gate and its funding source, six stage figures, the currency and its scale, and
+the citation — `source_slug` naming the held document and `doc_locator` the page and table
+the figure is printed on.
+
+**`purpose`, `scope_basis` and `notes` are Corpus's own words and never the document's.**
+This folder is tracked in a public repository, and `design.md` § *Source bodies* forbids a
+verbatim source body reaching one. A line's *name* as the document prints it is a label and
+is carried in `line_name`, `programme` and `sub_programme`, which is what the finance export
+publishes already; anything longer is written rather than lifted.
+
+**What the checker is for.** These rows replace OSINT's for the country-year they cover
+(R56a: replace, never add), so a malformed row does not sit in a corner being wrong — it
+silently displaces good records. Every check below is therefore a hard failure, and
+`records()` raises rather than returning a row it would not pass. The expensive ones are the
+three that arithmetic cannot catch later: **a stage named as the baseline with no figure
+under it**, **a parent line held alongside its own children** (they would sum), and **a
+`source_slug` naming nothing the catalogue holds**, which is a citation to a document that
+may not exist.
+
+Exit: 0 every row passes, 1 a row does not, 2 there is no `budgets/` folder to check.
+"""
+from __future__ import annotations
+
+import argparse
+import csv
+import os
+import re
+import sys
+
+# Resolved from this file rather than from the working directory, and `realpath` rather than
+# `abspath`: the finance compile runs in `scripts/.workroot/`, where `scripts` is a junction
+# back here, so `abspath` would put the repo root at `.workroot` and find no budgets/ at all.
+# Resolving absolutely is also why the workroot needs no junction onto this folder — the
+# junction list is a boundary surface, and one Corpus does not have to widen it is one worth
+# not widening (`rebuild.py` -> `setup_workroot`).
+ROOT = os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
+BUDGETS = os.path.join(ROOT, "budgets")
+CATALOGUE = os.path.join(ROOT, "outputs", "catalogue", "catalogue-internal.csv")
+
+COLUMNS = (
+    # identity
+    "deal_id", "place", "state_level", "spending_tier_name",
+    # the fiscal year
+    "fiscal_year_label", "fy_start", "fy_end", "fy_calendar",
+    "budget_version", "supplementary_basis",
+    # the classification chain — names and codes, verbatim, never invented
+    "admin_head_code", "admin_head", "spending_entity_code", "spending_entity",
+    "programme_code", "programme", "sub_programme_code", "sub_programme", "econ_class",
+    # what the line is
+    "line_name", "purpose", "primary_subject",
+    # is it digital
+    "scope_confidence", "scope_basis",
+    # whose money it is
+    "finance_origin", "funding_source", "is_transfer", "transfer_to",
+    # the money
+    "currency", "amount_scale",
+    "proposed", "appropriated", "revised", "released", "actual", "audited",
+    "baseline_stage", "current_stage", "exec_vs_voted", "exec_vs_revised",
+    # where it is printed
+    "source_tier", "doc_type", "doc_locator", "source_slug",
+    # who read it, and what they had to say about it
+    "extracted", "notes",
+)
+
+STAGES = ("proposed", "appropriated", "revised", "released", "actual", "audited")
+
+# Closed lists, all of them the driver's. A value outside one is a row this folder does not
+# carry, not a row with an unusual value in it.
+STATE_LEVEL = {"national", "sub-national", "soe", "levy-fund", "regulator"}
+SCOPE = {"whole", "partial", "unclear"}
+FUNDING = {"domestic-revenue", "domestic-borrowing", "own-source",
+           "external-loan", "external-grant", "counterpart", "unstated"}
+SUPP_BASIS = {"", "increment", "restated-total", "unclear"}
+SOURCE_TIER = {"budget-document", "official-statement", "project-document", "reporting"}
+
+REQUIRED = ("deal_id", "place", "state_level", "fiscal_year_label", "fy_start", "fy_end",
+            "fy_calendar", "budget_version", "admin_head_code", "admin_head",
+            "spending_entity", "line_name", "purpose", "primary_subject",
+            "scope_confidence", "scope_basis", "finance_origin", "funding_source",
+            "is_transfer", "currency", "amount_scale", "baseline_stage", "current_stage",
+            "source_tier", "source_slug", "extracted")
+
+ISO_DATE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
+MONEY = re.compile(r"^\d+(\.\d+)?$")            # units, normalised — no separators, no symbol
+PCT = re.compile(r"^\d+(\.\d+)?$")
+VERSION = re.compile(r"^(original|revised|supplementary-\d+)$")
+
+
+class SourceError(Exception):
+    """Raised by `records()` when a file would not pass the checker.
+
+    The build does not catch it. A row that replaces OSINT's records for a whole
+    country-year and is wrong is worse than no row, so the compile stops rather than
+    publishing it."""
+
+
+# ---------------------------------------------------------------- reading
+def files(iso3: str = "", budgets: str = "") -> list[tuple[str, str, str]]:
+    """`(ISO3, FY, path)` for every source file, sorted. `FY` is the bare start year."""
+    base = budgets or BUDGETS
+    out = []
+    if not os.path.isdir(base):
+        return out
+    for country in sorted(os.listdir(base)):
+        if iso3 and country != iso3:
+            continue
+        d = os.path.join(base, country)
+        if not os.path.isdir(d):
+            continue
+        for fn in sorted(os.listdir(d)):
+            if fn.endswith(".csv"):
+                out.append((country, fn[:-4], os.path.join(d, fn)))
+    return out
+
+
+def read(path: str) -> tuple[list[str], list[dict]]:
+    """The header as written and the rows. `utf-8-sig`, as every CSV in this repo is."""
+    with open(path, encoding="utf-8-sig", newline="") as fh:
+        rdr = csv.DictReader(fh)
+        return list(rdr.fieldnames or []), list(rdr)
+
+
+def _slugs() -> set[str] | None:
+    """Every catalogue slug, or `None` where the catalogue has not been built yet.
+
+    `None` and `set()` are different answers: a missing catalogue means the citation check
+    cannot run, which is reported, and an empty one would mean every citation is wrong."""
+    if not os.path.exists(CATALOGUE):
+        return None
+    with open(CATALOGUE, encoding="utf-8-sig", newline="") as fh:
+        return {r["slug"] for r in csv.DictReader(fh) if r.get("slug")}
+
+
+def _subjects() -> set[str] | None:
+    try:
+        sys.path.insert(0, os.path.join(ROOT, "scripts"))
+        import taxonomy_lib
+        return set(taxonomy_lib.keys())
+    except Exception:
+        return None
+
+
+# ---------------------------------------------------------------- the checker
+def check(iso3: str = "", budgets: str = "") -> tuple[list[str], int, int]:
+    """`(failures, files checked, rows checked)`. Every failure names file, row and field."""
+    fails: list[str] = []
+    slugs = _slugs()
+    subjects = _subjects()
+    nfiles = nrows = 0
+
+    for country, fy, path in files(iso3, budgets):
+        nfiles += 1
+        rel = os.path.relpath(path, budgets or BUDGETS).replace("\\", "/")
+        header, rows = read(path)
+        if tuple(header) != COLUMNS:
+            missing = [c for c in COLUMNS if c not in header]
+            extra = [c for c in header if c not in COLUMNS]
+            fails.append(f"{rel}: header is not the schema"
+                         + (f" — missing {missing}" if missing else "")
+                         + (f" — unknown {extra}" if extra else "")
+                         + ("" if missing or extra else " — the columns are out of order"))
+            continue                       # every other check reads by name; stop here
+        if not re.fullmatch(r"\d{4}", fy):
+            fails.append(f"{rel}: the file name is not a bare fiscal-year start year. "
+                         f"A bare year means the fiscal year beginning in it.")
+        if not rows:
+            fails.append(f"{rel}: no rows. A country-year with nothing in it is a stated "
+                         f"absence in the runbook's log, not an empty file here.")
+
+        seen: dict[str, int] = {}
+        parents: set[str] = set()          # programme_code held with no sub-programme
+        children: set[str] = set()         # programme_code held at sub-programme grain
+        for i, r in enumerate(rows, start=2):
+            nrows += 1
+            def bad(msg: str) -> None:
+                fails.append(f"{rel}:{i} {msg}")
+            g = lambda k: (r.get(k) or "").strip()                       # noqa: E731
+
+            for col in REQUIRED:
+                if not g(col):
+                    bad(f"{col} is empty, and it is required.")
+
+            if g("place") != country:
+                bad(f"place is {g('place')!r} and the folder is {country}.")
+            if g("fy_start")[:4] != fy:
+                bad(f"fy_start {g('fy_start')!r} does not begin in {fy}, which the file "
+                    f"name says every row in it does.")
+            did = g("deal_id")
+            if did in seen:
+                bad(f"deal_id {did!r} is already row {seen[did]}. One record per line-year.")
+            seen[did] = i
+            if did and not did.startswith(country.lower() + "-"):
+                bad(f"deal_id {did!r} does not open with {country.lower()}-.")
+
+            for col in ("fy_start", "fy_end", "extracted"):
+                if g(col) and not ISO_DATE.match(g(col)):
+                    bad(f"{col} {g(col)!r} is not an ISO date.")
+            if g("fy_start") and g("fy_end") and g("fy_end") <= g("fy_start"):
+                bad("fy_end is not after fy_start.")
+
+            if g("state_level") and g("state_level") not in STATE_LEVEL:
+                bad(f"state_level {g('state_level')!r} is outside {sorted(STATE_LEVEL)}.")
+            if g("scope_confidence") and g("scope_confidence") not in SCOPE:
+                bad(f"scope_confidence {g('scope_confidence')!r} is outside {sorted(SCOPE)}.")
+            if g("funding_source") and g("funding_source") not in FUNDING:
+                bad(f"funding_source {g('funding_source')!r} is outside {sorted(FUNDING)}.")
+            if g("supplementary_basis") not in SUPP_BASIS:
+                bad(f"supplementary_basis {g('supplementary_basis')!r} is outside "
+                    f"{sorted(SUPP_BASIS - {''})} or empty.")
+            if g("budget_version") and not VERSION.match(g("budget_version")):
+                bad(f"budget_version {g('budget_version')!r} is not original, revised or "
+                    f"supplementary-N.")
+            if g("source_tier") and g("source_tier") not in SOURCE_TIER:
+                bad(f"source_tier {g('source_tier')!r} is outside {sorted(SOURCE_TIER)}.")
+            if g("is_transfer") not in {"true", "false"}:
+                bad(f"is_transfer {g('is_transfer')!r} is not true or false.")
+            if g("is_transfer") == "true" and not g("transfer_to"):
+                bad("is_transfer is true and transfer_to names nobody. A transfer is "
+                    "captured at the spending end, so the receiving body has to be named.")
+
+            # The origin gate has already run by the time a row is written. A line the gate
+            # sends to `non-state` is matched to a held deal on the non-state side and builds
+            # no record here at all; a line naming no funder beyond "external" builds none
+            # anywhere. Either way this folder holds domestic-state money only.
+            if g("finance_origin") and g("finance_origin") != "domestic-state":
+                bad(f"finance_origin is {g('finance_origin')!r}. This folder is the "
+                    f"domestic-state side; an externally financed line is a non-state deal.")
+
+            if not re.fullmatch(r"[A-Z]{3}", g("currency")):
+                bad(f"currency {g('currency')!r} is not a three-letter code.")
+
+            held = [s for s in STAGES if g(s)]
+            for s in STAGES:
+                if g(s) and not MONEY.match(g(s)):
+                    bad(f"{s} {g(s)!r} is not a plain number. Amounts are stored normalised "
+                        f"to units — no separators, no scale suffix, no currency symbol; "
+                        f"amount_scale records what the document printed.")
+            if not held:
+                bad("no stage carries a figure. A line with no money in it is an absence, "
+                    "and an absence is a finding in the log, not a row.")
+            for col in ("baseline_stage", "current_stage"):
+                v = g(col)
+                if v and v not in STAGES:
+                    bad(f"{col} {v!r} is outside {list(STAGES)}.")
+                elif v and not g(v):
+                    bad(f"{col} is {v!r} and the {v} column is empty.")
+            if g("baseline_stage") and g("current_stage"):
+                if STAGES.index(g("current_stage")) < STAGES.index(g("baseline_stage")):
+                    bad("current_stage is earlier in the cycle than baseline_stage.")
+            for col in ("exec_vs_voted", "exec_vs_revised"):
+                if g(col) and not PCT.match(g(col)):
+                    bad(f"{col} {g(col)!r} is not a number.")
+
+            if g("source_tier") == "budget-document":
+                for col in ("doc_type", "doc_locator"):
+                    if not g(col):
+                        bad(f"{col} is empty on a budget-document line. The locator is how a "
+                            f"reader reaches the page the figure is printed on.")
+            if slugs is not None and g("source_slug") and g("source_slug") not in slugs:
+                bad(f"source_slug {g('source_slug')!r} is in no catalogue row, so it names "
+                    f"no held document.")
+            if subjects is not None and g("primary_subject"):
+                if g("primary_subject") not in subjects:
+                    bad(f"primary_subject {g('primary_subject')!r} is not a taxonomy key.")
+                elif g("primary_subject").startswith("finance."):
+                    bad("primary_subject is a finance facet. It is what the money is FOR.")
+
+            if g("programme_code"):
+                (children if g("sub_programme_code") else parents).add(g("programme_code"))
+
+        both = parents & children
+        if both:
+            fails.append(f"{rel}: programme {sorted(both)} is held both as a line of its own "
+                         f"and at sub-programme grain. They would sum — a finer document "
+                         f"supersedes a coarser one and the parent is retired, not kept.")
+
+    if slugs is None:
+        print("budget_source: note — no catalogue at outputs/catalogue/catalogue-internal.csv, "
+              "so source_slug was not resolved. Run the catalogue compile and check again.")
+    return fails, nfiles, nrows
+
+
+# ---------------------------------------------------------------- the build's view
+def _fm(row: dict, cols: dict) -> str:
+    """A frontmatter block in the driver's own field names.
+
+    The finance compile reads an OSINT record through `fm_get`, and every function that
+    builds a budget row — the classification chain, the stage columns, the subject
+    aggregate, the exclusion reasons — reads it that way. Handing those functions a
+    synthesised block instead of a second code path is what keeps one export format with
+    one implementation behind it: a Corpus row and an OSINT record become the same kind of
+    thing at the point of reading, not at the point of writing."""
+    out = []
+    for key, col in cols.items():
+        v = (row.get(col) or "").strip().replace("\n", " ").replace('"', "'")
+        out.append(f'{key}: "{v}"')
+    return "\n".join(out)
+
+
+# driver field name -> source column. The stage totals are the only rename: the record
+# calls them `{stage}_total` and the export's columns are bare, so the row is written the
+# way it publishes and translated the way it is read.
+FM_COLS = {
+    "fiscal_year_label": "fiscal_year_label", "fy_start": "fy_start",
+    "admin_head": "admin_head", "admin_head_code": "admin_head_code",
+    "spending_entity": "spending_entity", "spending_entity_code": "spending_entity_code",
+    "programme": "programme", "programme_code": "programme_code",
+    "sub_programme": "sub_programme", "sub_programme_code": "sub_programme_code",
+    "econ_class": "econ_class",
+    "proposed_total": "proposed", "appropriated_total": "appropriated",
+    "revised_total": "revised", "released_total": "released",
+    "actual_total": "actual", "audited_total": "audited",
+    "execution_pct_vs_appropriated": "exec_vs_voted",
+    "execution_pct_vs_revised": "exec_vs_revised",
+    "baseline_stage": "baseline_stage", "current_stage": "current_stage",
+    "scope_confidence": "scope_confidence", "is_transfer": "is_transfer",
+    "supplementary_basis": "supplementary_basis",
+    "currency": "currency", "source_tier": "source_tier",
+    "doc_type": "doc_type", "doc_locator": "doc_locator",
+    "source_slug": "source_slug", "primary_subject": "primary_subject",
+}
+
+
+def records(iso3: str, budgets: str = "") -> list[dict]:
+    """Every source row for one country, in the shape `build-finance-page.py` scans into.
+
+    Raises `SourceError` if any file for that country fails the checker. Two extra keys the
+    OSINT records do not carry: `source_fy`, the bare start year the merge keys on, and
+    `record_ref`, what the export's `record` column says instead of a raw/ filename."""
+    fails, _, _ = check(iso3, budgets)
+    if fails:
+        raise SourceError(f"budgets/{iso3}/ does not pass:\n  " + "\n  ".join(fails))
+    out = []
+    for country, fy, path in files(iso3, budgets):
+        _, rows = read(path)
+        for r in rows:
+            subj = (r.get("primary_subject") or "").strip()
+            out.append(dict(
+                fn="", fm=_fm(r, FM_COLS), body="",
+                table={"Spending entity": (r.get("spending_entity") or "").strip()},
+                origin="domestic-state", published=(r.get("fy_start") or "").strip(),
+                topics=[subj, "finance.budget"] if subj else ["finance.budget"],
+                url="", title=(r.get("line_name") or "").strip(),
+                deal_id=(r.get("deal_id") or "").strip(),
+                currency=(r.get("currency") or "").strip(),
+                source_fy=fy,
+                record_ref=f"budgets/{country}/{fy}.csv#{(r.get('deal_id') or '').strip()}",
+            ))
+    return out
+
+
+# ---------------------------------------------------------------- CLI
+def main(argv: list[str] | None = None) -> int:
+    ap = argparse.ArgumentParser(description="Check Corpus's own budget extractions.")
+    ap.add_argument("iso3", nargs="?", default="", help="one country, else all of them")
+    ap.add_argument("--budgets", default="", help="another budgets/ root, for tests")
+    ap.add_argument("--columns", action="store_true", help="print the header and stop")
+    a = ap.parse_args(argv)
+
+    if a.columns:
+        print(",".join(COLUMNS))
+        return 0
+    base = a.budgets or BUDGETS
+    if not os.path.isdir(base):
+        print(f"budget_source: no source folder at {base}. "
+              f"BUDGET-EXTRACT.md is how the first one is written.")
+        return 2
+    fails, nfiles, nrows = check(a.iso3, a.budgets)
+    for f in fails:
+        print(f"budget_source: FAIL — {f}")
+    if fails:
+        print(f"budget_source: {len(fails)} failure(s) over {nrows} row(s) in {nfiles} file(s).")
+        return 1
+    print(f"budget_source: ok — {nrows} row(s) in {nfiles} file(s) pass.")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

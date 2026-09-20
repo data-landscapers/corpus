@@ -133,4 +133,4 @@ The **instrument-level method** — how to get a figure off a particular kind of
 
 The **record's field definitions** are OSINT's `wiki/finance-load-domestic-state.md` and `wiki/finance-record-spec.md`.
 
-Corpus's own runbook is `BUDGET-EXTRACT.md` (R54) and the first extraction against this spec is GHA FY2024 (R56).
+Corpus's own runbook is `BUDGET-EXTRACT.md` (R54) and the first extraction against this spec is GHA FY2024 (R56). **The row shape this spec describes is stated as data in `scripts/budget_source.py`** — the 46 columns of `budgets/{ISO3}/{FY}.csv`, the closed vocabularies, and the checks a file has to pass before the finance compile will build from it.

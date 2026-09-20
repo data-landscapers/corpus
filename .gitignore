@@ -138,3 +138,9 @@ logs/cite-reread/
 # `draft` mode a stranger holding it could only build a draft, but they could also move the
 # send window forward and cost readers a week — so it never enters git.
 logs/.alerts-run-token
+
+# The working copy of a budget document a BUDGET-EXTRACT sitting fetched from the
+# publisher to read. The extraction is the deliverable and it is committed; the PDF is
+# somebody else's document, is often tens of megabytes, and OSINT already holds it —
+# `lookups/artefact-md5-index.csv` is how a sitting proves the bytes are the same ones.
+budgets/.documents/

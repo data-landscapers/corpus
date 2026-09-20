@@ -20,7 +20,7 @@ last_reviewed: 2026-09-20
 
 ## The two kinds of work in Job 1
 
-The **compiles** (vocab, catalogue, finance, budgets) are pure functions of OSINT's `raw/` and `lookups/`: `scripts/rebuild.py`, and they just run. The **report update** is a model stage: `report-scan.py` says *which* sources are new; a model reads them and decides what moves.
+The **compiles** (vocab, catalogue, finance, budgets) are pure functions of OSINT's `raw/` and `lookups/` — and, for budgets since 2026-09-20, of Corpus's own `budgets/{ISO3}/{FY}.csv` as well *(R54; `BUDGET-EXTRACT.md` writes those, and a country-year in that folder replaces OSINT's rows for the year)*: `scripts/rebuild.py`, and they just run. The **report update** is a model stage: `report-scan.py` says *which* sources are new; a model reads them and decides what moves.
 
 **BUILD authors this content; it does not transcribe it.** It holds editorial control over everything in `outputs/`, and where a document can be made better it makes it better. The scan is a convenience, not a work order. Questions about what is published and what it costs are Bill's.
 

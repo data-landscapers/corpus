@@ -34,7 +34,8 @@ Stages
   2. catalogue  raw/ -> outputs/catalogue/{raw-catalogue.csv,json} and catalogue-internal.csv
                 (the download, the record it is cut from, and the download plus the slug the
                  report layer resolves citations by — build-catalogue.py -> CSV_COLS)
-  3. finance    raw/ -> outputs/non-state-finance/ + outputs/budgets/ (+ all-nonstate.csv)
+  3. finance    raw/ + Corpus's own budgets/{ISO3}/{FY}.csv (R54, BUDGET-EXTRACT.md)
+                -> outputs/non-state-finance/ + outputs/budgets/ (+ all-nonstate.csv)
   4. update     the report update — the ledgers' move. `--scan` here prints the work order
                 (units holding sources the ledger has not considered); the authoring itself is
                 a model stage (see BUILD.md § Report update), which then calls

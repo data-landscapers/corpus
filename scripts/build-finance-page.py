@@ -6,12 +6,23 @@ Called by FINANCE-COMPILE.md (step 4) for each place in scope. Reads that place'
 finance records from raw/ and writes three CSV exports:
 
   1. {ISO3}-nonstate.csv  (one row per deal)
-  2. {ISO3}-budget.csv    (one row per year x vote/head x programme-line; stages as columns)
+  2. {ISO3}-budget.csv    (one row per year x vote/head x programme-line; stages as columns
+                           - OSINT's records MERGED with Corpus's own extractions, below)
   3. {ISO3}-summary.csv   (aggregates by origin x subject x FY, US$m ball-park,
                            plus one `excluded` row per reason a domestic line sits
                            outside the total — nothing leaves the aggregate silently)
 
 Every row links to its raw/ record. DERIVED — do not hand-edit; rebuilt each compile.
+
+**The budget export has two sources from 2026-09-20** *(strategic review 4 R54)*. OSINT's
+domestic-state records in `raw/`, as always, and Corpus's own extractions in `budgets/{ISO3}/
+{FY}.csv` — a tracked source folder, written by a `BUDGET-EXTRACT.md` sitting reading a budget
+document, and the one thing in this pipeline a build does not regenerate. The rule is
+`merge_source()`: **a country-year present in the source folder replaces OSINT's rows for that
+year, and never adds to them.** Add-and-dedupe was the alternative and it is the wrong one —
+the two sides read the same document at different grains, so a union double-counts a programme
+against its own sub-programmes and no key detects it. Replacement means the folder's coverage
+is legible: if `budgets/GHA/2024.csv` exists, every GHA FY2024 row published came out of it.
 
 Outputs land in outputs/ so that everything the website serves sits together;
 the build's two INPUTS (fx-imf-annual.csv, financier-names.csv) stay in lookups/
@@ -24,6 +35,7 @@ import os, re, sys, csv
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import taxonomy_lib                                                             # noqa: E402
+import budget_source                                                            # noqa: E402
 from vault_lib import dewiki                                                    # noqa: E402
 from finance_lib import (split_front, fm_get, section, deal_table, raw_sources,  # noqa: E402
                          load_fx, fx_rate, fin_name)                            # noqa: E402
@@ -378,6 +390,11 @@ def csv_budget(dom, iso3, path):
                     "actual", "audited", "exec_vs_voted", "exec_vs_revised",
                     "baseline_stage", "current_stage", "scope_confidence", "is_transfer",
                     "currency", "source_tier", "doc_type", "doc_locator",
+                    # `source_slug` names the held document a Corpus extraction was read out
+                    # of *(2026-09-20, R54)*; it is blank on an OSINT record, whose citation
+                    # is the record `record` names. `finance.py` drops both from the published
+                    # download for the same reason — they are keys into trees only we hold.
+                    "source_slug",
                     "record", "programme_line"])
         def sk(r):
             n = vote_num(r); return (fm_get(r["fm"], "fy_start"), int(n) if n.isdigit() else 999, r["deal_id"])
@@ -401,7 +418,11 @@ def csv_budget(dom, iso3, path):
                         fm_get(fm, "source_tier"),
                         cfield(r, "doc_type", "doc_type"),
                         cfield(r, "doc_locator", "doc_locator"),
-                        r["fn"][:-3], line_name(r)])
+                        fm_get(fm, "source_slug"),
+                        # `record_ref` where the row came from Corpus's source folder: the
+                        # file and the deal_id inside it, which is what a reader of this
+                        # column wants — the place the row is maintained.
+                        r.get("record_ref") or r["fn"][:-3], line_name(r)])
 
 def csv_summary(ns, dom, lab, path, fx):
     nsb, fys_ns, doms, fys_dom, excl = aggregate3(ns, dom, fx)
@@ -463,15 +484,68 @@ def scan_all():
             b["ns" if rec["origin"] == "non-state" else "dom"].append(rec)
     return by_place
 
+def rec_fy(r):
+    """The bare fiscal-year start year a domestic record belongs to.
+
+    `fy_start` first, because it is an ISO date and unambiguous; the label second, because
+    the migration left some records carrying only that. The label's own first four digits
+    are the start year by the spec's rule — *a bare year means the fiscal year beginning in
+    that year* — so `2024/25`, `2024-2025` and `2024` all answer 2024, which is what makes
+    the merge below insensitive to how a state writes its year."""
+    fy = fm_get(r["fm"], "fy_start")[:4]
+    if fy.isdigit():
+        return fy
+    m = re.search(r"\d{4}", fm_get(r["fm"], "fiscal_year_label"))
+    return m.group(0) if m else ""
+
+
+def merge_source(iso3, dom):
+    """OSINT's records for this place, with Corpus's own extractions swapped in.
+
+    **Replace, never add** — the rule the review set with the source folder (R56a). Where
+    `budgets/{ISO3}/{FY}.csv` exists, every OSINT record for that fiscal year is dropped and
+    the file's rows stand in their place; a year the folder says nothing about is untouched.
+    Returns `(records, [(fy, dropped, added), ...])` so the caller can *print* the swap: a
+    build that silently replaced a country's published figures with a different reading of
+    the same document would be indistinguishable from one that lost them.
+
+    A file that fails `budget_source.check` raises out of here and stops the compile."""
+    src = budget_source.records(iso3)
+    if not src:
+        return dom, []
+    years = {r["source_fy"] for r in src}
+    kept = [r for r in dom if rec_fy(r) not in years]
+    swaps = [(fy,
+              sum(1 for r in dom if rec_fy(r) == fy),
+              sum(1 for r in src if r["source_fy"] == fy))
+             for fy in sorted(years)]
+    return kept + src, swaps
+
+
+def swap_note(iso3, swaps):
+    """What the merge did, per fiscal year, on the build's own line. Silence would be worse
+    than noise here: the whole effect of the source folder is that some published rows are
+    no longer the ones OSINT's records would have produced."""
+    if not swaps:
+        return ""
+    parts = [f"FY{fy} {out}->{ins} from budgets/{iso3}/{fy}.csv" for fy, out, ins in swaps]
+    return "  [source folder: " + "; ".join(parts) + "]"
+
+
 def build_one(iso3, ns, dom, lab, fx):
     csv_nonstate(ns, lab, iso3, os.path.join(NONSTATE_OUT, f"{iso3}-nonstate.csv"))
+    dom, swaps = merge_source(iso3, dom)
+    # The summary is built from the merged set too. It is not read by any renderer today,
+    # but it sits in the same folder as the export and aggregates the same lines — two files
+    # one build writes from two different readings of one country-year is the kind of
+    # disagreement nobody finds until it is quoted.
     csv_summary(ns, dom, lab, os.path.join(NONSTATE_OUT, f"{iso3}-summary.csv"), fx)
     budget_csv = os.path.join(BUDGET_OUT, f"{iso3}-budget.csv")
     if dom:
         csv_budget(dom, iso3, budget_csv)
     elif os.path.exists(budget_csv):     # no budget CSV where there is no budget data — the
         os.remove(budget_csv)            # gap is the signal, so a stale one has to go
-    return len(ns), len(dom)
+    return len(ns), len(dom), swaps
 
 def main():
     arg = sys.argv[1] if len(sys.argv) > 1 else "ZAF"
@@ -486,16 +560,23 @@ def main():
         os.makedirs(d, exist_ok=True)
     if arg == "--all":
         by_place = scan_all()
+        # A country Corpus has extracted and OSINT holds no finance record for is still a
+        # country with a budget export. `scan_all` only sees raw/, so it would be skipped
+        # entirely — and the 32 states with no domestic records at all (R58) are exactly the
+        # ones the source folder is for.
+        for iso3, _, _ in budget_source.files():
+            by_place.setdefault(iso3, {"ns": [], "dom": []})
         for iso3 in sorted(by_place):
-            nn, nd = build_one(iso3, by_place[iso3]["ns"], by_place[iso3]["dom"], lab, fx)
-            print(f"  {iso3}: {nn} non-state, {nd} domestic")
+            nn, nd, swaps = build_one(iso3, by_place[iso3]["ns"], by_place[iso3]["dom"], lab, fx)
+            print(f"  {iso3}: {nn} non-state, {nd} domestic" + swap_note(iso3, swaps))
         n_all = csv_nonstate_all(by_place, lab, os.path.join(NONSTATE_OUT, "all-nonstate.csv"))
         print(f"wrote CSV exports for {len(by_place)} places to {NONSTATE_OUT}/ and "
               f"{BUDGET_OUT}/ + all-nonstate.csv ({n_all} deals)")
     else:
         b = scan_all().get(arg, {"ns": [], "dom": []})   # place-based, matches --all exactly
-        nn, nd = build_one(arg, b["ns"], b["dom"], lab, fx)
-        print(f"wrote {arg} CSV exports  ({nn} non-state, {nd} domestic)")
+        nn, nd, swaps = build_one(arg, b["ns"], b["dom"], lab, fx)
+        print(f"wrote {arg} CSV exports  ({nn} non-state, {nd} domestic)"
+              + swap_note(arg, swaps))
 
 if __name__ == "__main__":
     main()
