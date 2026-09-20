@@ -1,5 +1,6 @@
 ## 20 September 2026
 
+- The catalogue and each country's and region's cut of it are now published as datasets, so they can be found in Google Dataset Search rather than only on this site. Each entry names the columns, the years covered and the licence before you download anything.
 - The 250 country, region and topic reports now describe themselves properly in search results, naming digital transformation, digital public infrastructure and data governance instead of repeating the report's own title back. A search that should have found these pages was less likely to.
 
 ## 19 September 2026

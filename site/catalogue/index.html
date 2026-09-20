@@ -10,6 +10,119 @@
 <link rel="stylesheet" href="../assets/css/main.css?v=a004bc3c">
 <link rel="stylesheet" href="../assets/css/corpus.css?v=42a1181a">
 <link rel="stylesheet" href="../assets/css/catalogue.css?v=da82f6d7">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "@id": "https://corpus.data-landscapers.io/catalogue/#dataset",
+  "name": "Data Landscapers Corpus catalogue",
+  "description": "Every document the Data Landscapers Corpus holds on digital transformation, digital public infrastructure and data governance across Africa, as a single table: title, publisher, author, publication date and its precision, the countries and regions covered, the subjects from the Corpus taxonomy, the organisations and people tagged, the date the document entered the repository, and the publisher's own link. It is a catalogue of metadata and links — it does not contain the text of the documents themselves, each of which stays with its publisher at the URL given. Every claim in the country, region and topic reports on this site rests on a record in it.",
+  "url": "https://corpus.data-landscapers.io/catalogue/",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "isAccessibleForFree": true,
+  "creator": {
+    "@type": "Organization",
+    "name": "Data Landscapers",
+    "url": "https://data-landscapers.io/",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://data-landscapers.io/assets/logo.png"
+    }
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Data Landscapers",
+    "url": "https://data-landscapers.io/",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://data-landscapers.io/assets/logo.png"
+    }
+  },
+  "includedInDataCatalog": {
+    "@type": "DataCatalog",
+    "name": "Data Landscapers Corpus",
+    "url": "https://corpus.data-landscapers.io/catalogue/"
+  },
+  "inLanguage": "en",
+  "keywords": [
+    "Digital transformation",
+    "Digital public infrastructure",
+    "Data governance",
+    "Africa"
+  ],
+  "spatialCoverage": {
+    "@type": "Place",
+    "name": "Africa"
+  },
+  "variableMeasured": [
+    {
+      "@type": "PropertyValue",
+      "name": "published",
+      "description": "The date the document was published"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "date_precision",
+      "description": "Whether the published date is precise to day, month or year"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "ingested",
+      "description": "The date the document was added to Corpus"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "title",
+      "description": "Title of the document"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "publisher",
+      "description": "Publisher"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "author",
+      "description": "Author, where known"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "places",
+      "description": "iso-3 codes for the countries and/or regions covered"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "topics",
+      "description": "Ids for the Corpus taxonomy used to classify documents. The taxonomy is listed at https://corpus.data-landscapers.io/methodology/lookups/#topics"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "entities",
+      "description": "Tag ids for organisations or people regularly referenced in documents"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "url",
+      "description": "The public url of the original document"
+    }
+  ],
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/csv",
+      "contentUrl": "https://corpus.data-landscapers.io/catalogue/raw-catalogue.csv",
+      "contentSize": "7.7 MB"
+    }
+  ],
+  "size": {
+    "@type": "QuantitativeValue",
+    "unitText": "records",
+    "value": 22847
+  },
+  "temporalCoverage": "1864-06-01/2026-09-19",
+  "dateModified": "2026-09-19"
+}
+</script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-BF3X4N6YML"></script>
 <script>
   window.dataLayer = window.dataLayer || [];

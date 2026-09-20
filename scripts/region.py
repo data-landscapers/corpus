@@ -112,6 +112,7 @@ def build(code: str) -> list[Path]:
     (out_dir / "index.html").write_text(external_links(REGION.format(
         feedback=feedback(name, f"{SITE_BASE}/countries/{code}/"),
         cat_csv=cat_csv,
+        jsonld=country.catalogue_dataset(code, name, out_dir, cat_csv, cat_rows),
         catalogue_intro=copy_inline("country", "catalogue-intro",
                                     sources=f"{n_place:,}", name=name),
         budget_intro=copy_inline("country", "budget-intro"),

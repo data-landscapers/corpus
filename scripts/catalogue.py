@@ -34,7 +34,8 @@ from collections import Counter
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from copy_lib import copy  # noqa: E402
+from copy_lib import copy, copy_md  # noqa: E402
+import structured_data  # noqa: E402
 import taxonomy_lib  # noqa: E402
 from chrome_lib import chrome, external_links, feedback, foot, ga, styles  # noqa: E402
 
@@ -51,6 +52,13 @@ BUILD_CATALOGUE = CORPUS / "scripts" / "build-catalogue.py"
 
 from names_lib import KEYSTOP, shard_file, shard_key  # noqa: E402  — see there for the WIN_RESERVED rule
 SITE_BASE = "https://corpus.data-landscapers.io"
+
+# The published field dictionary — the same file the page links as *what each column means*,
+# read here so the `variableMeasured` in the structured data and the table a reader downloads
+# cannot say different things about the same ten columns. Hand-maintained by Bill; nothing
+# here writes it, and a build that cannot find it describes the columns to nobody rather than
+# inventing them.
+FIELD_DICT = CORPUS / "site" / "metadata" / "catalogue-metadata.csv"
 MAIN_SITE = "https://data-landscapers.io"
 
 if hasattr(sys.stdout, "reconfigure"):
@@ -1622,6 +1630,20 @@ SCRIPT = r"""
 </script>
 """
 
+def field_dictionary() -> list[dict]:
+    """`variableMeasured` for the catalogue, from the dictionary the page already publishes.
+
+    An absent file describes no columns rather than guessing at them: `variableMeasured` is
+    optional in a `Dataset`, and ten column names invented here that did not match the ten in
+    the download would be worse than none."""
+    if not FIELD_DICT.exists():
+        print(f"  no field dictionary at {FIELD_DICT.relative_to(CORPUS)} — "
+              f"the dataset block will describe no columns")
+        return []
+    with open(FIELD_DICT, encoding="utf-8-sig", newline="") as fh:
+        return structured_data.fields_from(list(csv.DictReader(fh)))
+
+
 PAGE = """<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -1632,6 +1654,7 @@ PAGE = """<!DOCTYPE html>
 <link rel="canonical" href="https://corpus.data-landscapers.io/catalogue/">
 <link rel="icon" href="{favicon}">
 {styles}
+{jsonld}
 {ga}
 </head>
 <body>
@@ -1758,8 +1781,29 @@ def main() -> int:
 
     # the page. `{ver}` is substituted here rather than through `PAGE.format`, because
     # SCRIPT is JavaScript and full of braces `format` would try to read.
+    # **The catalogue described as a dataset** *(Bill, 2026-09-20)*. This page is the landing
+    # page for `raw-catalogue.csv` — the thing a reader arriving from Google Dataset Search is
+    # looking for — and until now it said so only in prose a crawler had to infer it from.
+    #
+    # Every value is measured rather than written down: the record count and the date span off
+    # the rows themselves, the size off the file just copied, the columns off the published
+    # field dictionary. A hand-kept figure here is one that stops being true on the next sweep
+    # and says nothing when it does, and nobody reads a `<head>` to notice.
+    dataset = structured_data.dataset(
+        name="Data Landscapers Corpus catalogue",
+        description=copy_md("catalogue", "dataset-description"),
+        url=f"{SITE_BASE}/catalogue/",
+        csv_url=f"{SITE_BASE}/catalogue/raw-catalogue.csv",
+        csv_bytes=(out_dir / "raw-catalogue.csv").stat().st_size,
+        records=len(rows),
+        fields=field_dictionary(),
+        entity={"@type": "Place", "name": "Africa"},
+        temporal=structured_data.span([r[2] for r in rows]),
+        modified=built or None)
+
     html = PAGE.format(favicon=f"{MAIN_SITE}/assets/favicon.svg",
                        styles=styles(1, "catalogue.css"),
+                       jsonld=dataset,
                        ga=ga(),
                        chrome=CHROME, body=body, foot=FOOT,
                        script=SCRIPT.replace("{ver}", stamp(index_json)))

@@ -40,6 +40,7 @@ from copy_lib import copy, copy_md  # noqa: E402
 # `topic-page.py` and `finance.py` all read or write editions too (§9).
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import editions  # noqa: E402
+import structured_data  # noqa: E402
 import bulletin_editions  # noqa: E402
 
 CORPUS = Path(__file__).resolve().parent.parent
@@ -582,97 +583,38 @@ def describe(md_path: Path, kind: str, title: str, subtitle: str) -> str:
     return copy_md("document", key, subject=SUBJECT.split(title, maxsplit=1)[0].strip())
 
 
-# The publisher, once. `author` and `publisher` are the same organisation here and the page says
-# so in two places already — the masthead and the licence row — so one constant serves both.
+# The document's own entity, for the `about` list: the place a report covers or the subject it
+# is about, typed by `structured_data.place` where it is a place.
 #
-# **It names Data Landscapers and not the model that wrote the document.** The byline does that
-# — *compiled by Claude Opus from the documents in the Corpus repository* — and that is where the
-# disclosure belongs, in the prose a reader sees. `author` in structured data answers a different
-# question: who is accountable for what this says and who may be asked about it. Schema.org has no
-# type that would let the byline's answer go here without lying about the range of the property.
-ORG = {
-    "@type": "Organization",
-    "name": "Data Landscapers",
-    "url": f"{MAIN_SITE}/",
-    "logo": {"@type": "ImageObject", "url": f"{MAIN_SITE}/assets/logo.png"},
-}
-
-# The three subjects the whole corpus is about, named as things rather than as words in a
-# sentence. The description says them in prose for a reader; this says them where a crawler
-# reads entities, which is the half of the same fix that prose cannot do.
-SUBJECTS = ("Digital transformation", "Digital public infrastructure", "Data governance")
-
-
-def about(md_path: Path, kind: str, title: str, place: str) -> list[dict]:
-    """What the document is about: its own place or subject first, then the corpus's three.
-
-    The head entity is typed, because the type is the useful part — `Country` resolves *Niger*
-    against a crawler's own gazetteer, where `Thing` leaves it a string that also names a river.
-    A region is a `Place` and not a `Country` for the same reason, read off the `X` that opens
-    every region and bloc code (`lookups/countries.csv`); a topic is a `Thing`, because *Digital
-    Identity and CRVS* is not a place and typing it as one would be worse than not typing it."""
+# `tree_of` is what tells a country's monthly from a subject's — the same read `nav_active`
+# makes, and for the same reason: the kind cannot.
+def entity_of(md_path: Path, kind: str, title: str, place: str) -> dict:
+    """What this document is about, as one typed thing."""
     named = SUBJECT.split(title, maxsplit=1)[0].strip()
     if kind == "bulletin":
-        head = {"@type": "Place", "name": "Africa"}
-    elif tree_of(md_path) == "topics":
-        head = {"@type": "Thing", "name": named}
-    else:
-        head = {"@type": "Country" if place[:1] and place[:1] != "X" else "Place",
-                "name": named}
-    return [head] + [{"@type": "Thing", "name": s} for s in SUBJECTS]
+        return {"@type": "Place", "name": "Africa"}
+    if tree_of(md_path) == "topics":
+        # A topic is a `Thing`, because *Digital Identity and CRVS* is not a place and typing
+        # it as one would be worse than not typing it at all.
+        return {"@type": "Thing", "name": named}
+    return structured_data.place(place, named)
 
 
 def jsonld(md_path: Path, kind: str, title: str, description: str, url_html: str,
            edition: str, pdf_url: str | None, place: str) -> str:
-    """The page's `application/ld+json` block — the document described as data.
+    """The page's structured data. `structured_data.document` is the shape; this is the two
+    facts it needs that only a render knows.
 
-    **The same facts the page already carries, in the one form a crawler does not have to guess
-    at.** Everything here is printed somewhere on the page: the title in the header, the dates in
-    the byline, the licence and the PDF in the colophon, the description in the meta tag above.
-    Nothing is asserted here that a reader cannot see, which is the test — structured data that
-    says more than the page is the kind that gets a site penalised, and it would also be a
-    document telling two stories about itself.
-
-    **`datePublished` is the edition's date without its same-day sequence.** An edition is
-    `2026-09-16` or `2026-09-16-2` (design.md §9, `editions.py`), and the second of those is not
-    a date: emitted as one it is invalid structured data, silently, on whichever handful of
-    documents happened to move twice in a day. `edition_key` already splits the two apart for
-    sorting, so the parse has one implementation rather than a second regex here.
-
-    **`dateModified` equals `datePublished` because a published edition is never revised.** That
-    is §9 stated in the vocabulary a crawler reads, and it is true: a document whose content moves
-    gets a new edition at a new dated URL rather than an edit to this one."""
-    data = {
-        "@context": "https://schema.org",
-        # A bulletin is news and a report is not. Both carry `Article` so that a consumer which
-        # only knows the common supertype still recognises them.
-        "@type": "NewsArticle" if kind == "bulletin" else ["Article", "Report"],
-        "headline": title,
-        "description": description,
-        "url": url_html,
-        "mainEntityOfPage": {"@type": "WebPage", "@id": url_html},
-        "datePublished": editions.edition_key(edition)[0] or edition,
-        "dateModified": editions.edition_key(edition)[0] or edition,
-        "inLanguage": "en",
-        "license": LICENCE_URL,
-        "isAccessibleForFree": True,
-        "author": ORG,
-        "publisher": ORG,
-        "isPartOf": {"@type": "WebSite", "name": "Data Landscapers Corpus",
-                     "url": f"{SITE_BASE}/"},
-        "about": about(md_path, kind, title, place),
-    }
-    # Only where one was cut. A document rendered without a PDF must not advertise one — the same
-    # rule the download button and the `This file` row follow a few lines down.
-    if pdf_url:
-        data["encoding"] = {"@type": "MediaObject",
-                            "encodingFormat": "application/pdf",
-                            "contentUrl": pdf_url}
-    # `</` is escaped because a `</script` anywhere inside the block would end the element early
-    # and spill the rest of the JSON onto the page as text. Nothing we emit contains one today;
-    # the escape is what keeps that from being load-bearing. It is valid JSON either way.
-    body = json.dumps(data, ensure_ascii=False, indent=2).replace("</", "<\\/")
-    return '<script type="application/ld+json">\n' + body + '\n</script>'
+    **The edition's same-day sequence comes off here.** An edition is `2026-09-16` or
+    `2026-09-16-2` (design.md §9) and the second is not a date: emitted as one it is invalid
+    structured data, silently, on whichever handful of documents happened to move twice in a
+    day. `edition_key` already splits the two apart for sorting, so the parse has one
+    implementation rather than a second regex."""
+    return structured_data.document(
+        kind=kind, headline=title, description=description, url=url_html,
+        published=editions.edition_key(edition)[0] or edition,
+        pdf_url=pdf_url,
+        entity=entity_of(md_path, kind, title, place))
 
 
 def archive_picker(entries: list[dict], current: str) -> str:

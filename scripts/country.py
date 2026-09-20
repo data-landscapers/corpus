@@ -64,7 +64,8 @@ from datetime import date
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from copy_lib import copy_inline  # noqa: E402
+from copy_lib import copy_inline, copy_md  # noqa: E402
+import structured_data  # noqa: E402
 from chrome_lib import chrome, external_links, feedback, foot, ga, script, styles  # noqa: E402
 import editions  # noqa: E402  — §9's filename grammar has one implementation
 
@@ -452,6 +453,7 @@ COUNTRY = """<!DOCTYPE html>
 <meta property="og:url" content="{base}/countries/{iso}/">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Data Landscapers">
+{jsonld}
 {ga}
 </head>
 <body>
@@ -616,6 +618,51 @@ def ensure_catalogue_csv() -> None:
     shutil.copyfile(src, dst)
 
 
+def catalogue_dataset(code: str, name: str, out_dir: Path, cat_csv: str,
+                      rows: list[dict]) -> str:
+    """The place's cut of the catalogue, described as a dataset *(Bill, 2026-09-20)*.
+
+    **This page is the landing page for `{CODE}-catalogue.csv`**, and a reader arriving from
+    Google Dataset Search is looking for exactly that: what is in the table, how much of it,
+    over what years, under what licence, and where to get it. The page has always said so in
+    prose; this says it where a dataset search reads.
+
+    **A slice says it is one.** `isPartOf` names the whole catalogue, so 62 place cuts are one
+    dataset with 62 subsets rather than 62 tables that happen to share a schema and look, to
+    anything indexing them, like duplicates of each other — which is the shape that gets a
+    site's entries suppressed rather than listed.
+
+    Every value is measured off what was just written rather than written down: the count and
+    the date span off the rows in the cut, the size off the file on disk, the columns off the
+    published field dictionary. A hand-kept figure in a `<head>` is one that stops being true
+    on the next sweep and that nobody is ever going to read to notice."""
+    csv_path = out_dir / cat_csv
+    return structured_data.dataset(
+        name=f"Data Landscapers Corpus catalogue — {name}",
+        description=copy_md("country", "dataset-description", name=name),
+        url=f"{SITE_BASE}/countries/{code}/",
+        csv_url=f"{SITE_BASE}/countries/{code}/{cat_csv}",
+        csv_bytes=csv_path.stat().st_size,
+        records=len(rows),
+        fields=field_dictionary(),
+        entity=structured_data.place(code, name),
+        temporal=structured_data.span([(r.get("published") or "")[:10] for r in rows]),
+        part_of=f"{SITE_BASE}/catalogue/")
+
+
+def field_dictionary() -> list[dict]:
+    """`variableMeasured` for a catalogue cut, from the dictionary every one of these pages
+    already links as *what each column means*, so the two cannot drift.
+
+    `check_metadata()` below stops the build when the file is missing, so by the time this is
+    called it is there — the guard is for a caller that has not run that check."""
+    fd = SITE / "metadata" / "catalogue-metadata.csv"
+    if not fd.exists():
+        return []
+    with open(fd, encoding="utf-8-sig", newline="") as fh:
+        return structured_data.fields_from(list(csv.DictReader(fh)))
+
+
 def build(iso: str) -> list[Path]:
     name = FULL_NAMES.get(iso, iso)
     meta = frontmatter((OUTPUTS / "reports" / iso / f"{iso}-status.md")
@@ -656,6 +703,7 @@ def build(iso: str) -> list[Path]:
     (out_dir / "index.html").write_text(external_links(COUNTRY.format(
         feedback=feedback(name, f"{SITE_BASE}/countries/{iso}/"),
         cat_csv=cat_csv,
+        jsonld=catalogue_dataset(iso, name, out_dir, cat_csv, cat_rows),
         catalogue_intro=copy_inline("country", "catalogue-intro",
                                     sources=f"{n_place:,}", name=name),
         budget_intro=copy_inline("country", "budget-intro"),

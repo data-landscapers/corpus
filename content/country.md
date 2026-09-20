@@ -33,3 +33,7 @@ The repository holds {sources} documents for {name}. The catalogue only contains
 ## budget-intro
 
 Work is ongoing to compile information on national budgets, expenditures and audits.
+
+## dataset-description
+
+Every document the Data Landscapers Corpus holds on {name}, as a single table: title, publisher, author, publication date and its precision, the countries and regions covered, the subjects from the Corpus taxonomy, the organisations and people tagged, the date the document entered the repository, and the publisher's own link. The subjects are digital transformation, digital public infrastructure and data governance. It is a catalogue of metadata and links — it does not contain the text of the documents themselves, each of which stays with its publisher at the URL given. This is the {name} cut of the full Corpus catalogue, and every claim in the {name} reports on this site rests on a record in it.
