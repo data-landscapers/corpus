@@ -153,6 +153,12 @@ def topics_block(rows, tax_order, tax_label, tax_l1, shape):
     for topic in sorted(by_topic, key=lambda t: (tax_order.get(t, (99, 99)), t)):
         l1 = tax_l1.get(topic, "Unclassified")
         if l1 != current:
+            # A blank line before the heading. Without it the `###` sits directly under
+            # the previous topic's list item, and Markdown parsers disagree about whether
+            # that is a heading or more list text *(OSINT, register R46, found before the
+            # generator was first run)*.
+            if body and body[-1] != "":
+                body += [""]
             body += ["### %s" % l1, ""]
             current = l1
         items = sorted(by_topic[topic], key=lambda p: (p[1], p[0]))
