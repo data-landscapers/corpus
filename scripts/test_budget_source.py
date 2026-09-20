@@ -191,6 +191,49 @@ try:
     else:
         print("  skip  a citation naming nothing held — no catalogue built")
 
+    print("\nthe second bar — a migrated row")
+    # A row carrying `origin_record` came out of an OSINT record and is held to
+    # REQUIRED_MIGRATED. The point of the pair of cases below is that the bar moves and does
+    # not vanish: the fields the records genuinely never carried are allowed through, and the
+    # ones that identify a line are not.
+    thin = dict(GOOD)
+    for c in ("fy_calendar", "admin_head", "admin_head_code", "scope_basis",
+              "purpose", "funding_source", "amount_scale", "source_slug",
+              "doc_type", "doc_locator", "fy_end"):
+        thin[c] = ""
+    thin["origin_record"] = "2024-01-01-gha-2024-011-01101-01101004"
+    d = tmp / "migrated"
+    write(d, "GHA", "2024", [thin])
+    check("carries what the record carried and passes", failures(d), [])
+
+    d = tmp / "migrated-free-text"
+    write(d, "GHA", "2024", [row(origin_record="x-rec",
+                                 funding_source="domestic-revenue (recurrent); the "
+                                                "development column reads nil",
+                                 budget_version="supplementary-iii")])
+    check("a closed list it never closed is not a failure", failures(d), [])
+
+    d = tmp / "migrated-still-identified"
+    write(d, "GHA", "2024", [row(origin_record="x-rec", currency="", line_name="",
+                                 primary_subject="")])
+    got = failures(d)
+    for want in ("currency", "line_name is empty", "primary_subject is empty"):
+        check(f"but {want.split()[0]} is still required", any(want in f for f in got), True)
+
+    print("\nthe unclear stage")
+    unclear = row(origin_record="x-rec", baseline_stage="unclear", current_stage="unclear",
+                  appropriated="")
+    d = tmp / "unclear-migrated"
+    write(d, "GHA", "2024", [unclear])
+    check("a migrated row may be unclear with no figure", failures(d), [])
+
+    d = tmp / "unclear-extracted"
+    write(d, "GHA", "2024", [row(baseline_stage="unclear", current_stage="unclear",
+                                 appropriated="")])
+    got = failures(d)
+    check("a row a sitting wrote may not be",
+          any("has not answered the third question" in f for f in got), True)
+
     print("\nrecords(), and what the build sees")
     bs.BUDGETS = str(tmp / "clean")
     recs = bs.records("GHA")

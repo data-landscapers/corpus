@@ -98,7 +98,7 @@ BUDGET_DIR = OUTPUTS / "budgets"
 # carries titles and URLs, never slugs, so publishing one here would be the first. What a
 # reader needs is `doc_locator`, which names the page and table the figure is printed on in
 # a document they can fetch themselves from the publisher.
-BUDGET_DROP = ("record", "doc_type", "source_slug")
+BUDGET_DROP = ("record", "doc_type", "source_slug", "origin_record")
 
 STAGES = ("proposed", "appropriated", "revised", "released", "actual", "audited")
 

@@ -16,17 +16,25 @@ runbook that produces one.
 **A row is a record, so it carries what a record carries.** The field vocabulary is
 `finance-load-domestic-state.md`'s, deliberately — a Corpus row and an OSINT record say the
 same thing in the same words, which is what lets `build-finance-page.py` merge the two into
-one export without a mapping table between them. The 46 columns are the whole shape: the
+one export without a mapping table between them. The 47 columns are the whole shape: the
 line, the year, the classification chain and its codes, the scope judgement and its basis,
 the origin gate and its funding source, six stage figures, the currency and its scale, and
 the citation — `source_slug` naming the held document and `doc_locator` the page and table
 the figure is printed on.
 
-**`purpose`, `scope_basis` and `notes` are Corpus's own words and never the document's.**
+**Two kinds of row, and `origin_record` is which** *(R56a)*. A row a **BUDGET-EXTRACT sitting
+read** carries the full schema and `origin_record` is empty. A row **migrated** from an OSINT
+domestic-state record carries what that record held, names it in `origin_record`, and is held
+to the narrower `REQUIRED_MIGRATED` — see the comment on the two sets, which is where the
+reasoning and the counts are. The shortfall is reported per country by `check`, never waived.
+
+**`purpose`, `scope_basis` and `notes` are compiled prose and never the document's words.**
 This folder is tracked in a public repository, and `design.md` § *Source bodies* forbids a
 verbatim source body reaching one. A line's *name* as the document prints it is a label and
 is carried in `line_name`, `programme` and `sub_programme`, which is what the finance export
-publishes already; anything longer is written rather than lifted.
+publishes already; anything longer a sitting writes in its own words, and a migrated row
+carries the base's — the record's `## Description` and `## Notes`, which are OSINT's account
+of the line and not the volume's text.
 
 **What the checker is for.** These rows replace OSINT's for the country-year they cover
 (R56a: replace, never add), so a malformed row does not sit in a corner being wrong — it
@@ -43,6 +51,7 @@ from __future__ import annotations
 
 import argparse
 import csv
+import json
 import os
 import re
 import sys
@@ -79,10 +88,20 @@ COLUMNS = (
     # where it is printed
     "source_tier", "doc_type", "doc_locator", "source_slug",
     # who read it, and what they had to say about it
-    "extracted", "notes",
+    "extracted", "origin_record", "notes",
 )
 
 STAGES = ("proposed", "appropriated", "revised", "released", "actual", "audited")
+
+# **`unclear` is a stage name and not a money column** *(R56a)*. The driver records the stage
+# only where the source states it and writes `unclear` otherwise, and 12 of the 494 records
+# migrated in say that: a presidential despacho authorising expenditure and opening a
+# procurement names no point in the appropriation-to-outturn ladder. Such a row has a figure
+# in its stage history and nowhere to put it, which is why it publishes with every money
+# column empty. It is admitted **only on a migrated row** — a sitting that cannot say which
+# stage a figure is has not finished the three questions, and `budget-extract.md` is explicit
+# that such a figure is not a record.
+STAGE_NAMES = STAGES + ("unclear",)
 
 # Closed lists, all of them the driver's. A value outside one is a row this folder does not
 # carry, not a row with an unusual value in it.
@@ -93,12 +112,28 @@ FUNDING = {"domestic-revenue", "domestic-borrowing", "own-source",
 SUPP_BASIS = {"", "increment", "restated-total", "unclear"}
 SOURCE_TIER = {"budget-document", "official-statement", "project-document", "reporting"}
 
+# **Two bars, because there are two kinds of row** *(R56a, 2026-09-20)*. A row a sitting read
+# against `documentation/budget-extract.md` carries everything, and REQUIRED is the whole of
+# it. A row **migrated** from an OSINT domestic-state record — `origin_record` names which —
+# carries what that record held, and across the 494 that existed the shortfall is large and
+# structural: `admin_head_code` on 125, `admin_head` on 99, `fy_calendar` on 86, `scope_basis`
+# on 240, `doc_type` on 197, and a `source_slug` resolvable for 124. Holding those to the full
+# bar would leave two options, fabricating the values or refusing the migration, and the
+# review asked for neither. So the bar is narrower and **the gap is counted rather than
+# waived**: `check` reports, per country, how many migrated rows fall short of the full set,
+# which is the work order R58 reads.
 REQUIRED = ("deal_id", "place", "state_level", "fiscal_year_label", "fy_start", "fy_end",
             "fy_calendar", "budget_version", "admin_head_code", "admin_head",
             "spending_entity", "line_name", "purpose", "primary_subject",
             "scope_confidence", "scope_basis", "finance_origin", "funding_source",
             "is_transfer", "currency", "amount_scale", "baseline_stage", "current_stage",
             "source_tier", "source_slug", "extracted")
+
+REQUIRED_MIGRATED = ("deal_id", "place", "state_level", "fiscal_year_label", "fy_start",
+                     "line_name", "primary_subject", "budget_version",
+                     "scope_confidence", "finance_origin", "is_transfer", "currency",
+                     "baseline_stage", "current_stage", "source_tier", "extracted",
+                     "origin_record")
 
 ISO_DATE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 MONEY = re.compile(r"^\d+(\.\d+)?$")            # units, normalised — no separators, no symbol
@@ -167,6 +202,8 @@ def check(iso3: str = "", budgets: str = "") -> tuple[list[str], int, int]:
     slugs = _slugs()
     subjects = _subjects()
     nfiles = nrows = 0
+    thin: dict[str, int] = {}       # country -> migrated rows short of the full bar
+    nmig = 0
 
     for country, fy, path in files(iso3, budgets):
         nfiles += 1
@@ -196,9 +233,28 @@ def check(iso3: str = "", budgets: str = "") -> tuple[list[str], int, int]:
                 fails.append(f"{rel}:{i} {msg}")
             g = lambda k: (r.get(k) or "").strip()                       # noqa: E731
 
-            for col in REQUIRED:
+            migrated = bool(g("origin_record"))
+            def soft(msg: str) -> None:
+                """A migrated row's shortfall against a closed list: counted, never failed.
+
+                The record carried what it carried. Failing it would mean either editing
+                OSINT's data in the migration or refusing to migrate, and the value is real
+                information — `funding_source` running to a whole sentence about a split is
+                worth more than a blank cell with the right shape."""
+                if not migrated:
+                    bad(msg)              # a migrated row is tallied below, once per row
+
+            for col in (REQUIRED_MIGRATED if migrated else REQUIRED):
                 if not g(col):
-                    bad(f"{col} is empty, and it is required.")
+                    bad(f"{col} is empty, and it is required"
+                        + (" even on a migrated row." if migrated else "."))
+            if migrated:
+                nmig += 1
+                if (any(not g(c) for c in REQUIRED)
+                        or g("funding_source") not in FUNDING
+                        or not VERSION.match(g("budget_version") or "")
+                        or g("baseline_stage") == "unclear"):
+                    thin[country] = thin.get(country, 0) + 1
 
             if g("place") != country:
                 bad(f"place is {g('place')!r} and the folder is {country}.")
@@ -223,20 +279,20 @@ def check(iso3: str = "", budgets: str = "") -> tuple[list[str], int, int]:
             if g("scope_confidence") and g("scope_confidence") not in SCOPE:
                 bad(f"scope_confidence {g('scope_confidence')!r} is outside {sorted(SCOPE)}.")
             if g("funding_source") and g("funding_source") not in FUNDING:
-                bad(f"funding_source {g('funding_source')!r} is outside {sorted(FUNDING)}.")
+                soft(f"funding_source {g('funding_source')!r} is outside {sorted(FUNDING)}.")
             if g("supplementary_basis") not in SUPP_BASIS:
                 bad(f"supplementary_basis {g('supplementary_basis')!r} is outside "
                     f"{sorted(SUPP_BASIS - {''})} or empty.")
             if g("budget_version") and not VERSION.match(g("budget_version")):
-                bad(f"budget_version {g('budget_version')!r} is not original, revised or "
-                    f"supplementary-N.")
+                soft(f"budget_version {g('budget_version')!r} is not original, revised or "
+                     f"supplementary-N.")
             if g("source_tier") and g("source_tier") not in SOURCE_TIER:
                 bad(f"source_tier {g('source_tier')!r} is outside {sorted(SOURCE_TIER)}.")
             if g("is_transfer") not in {"true", "false"}:
                 bad(f"is_transfer {g('is_transfer')!r} is not true or false.")
             if g("is_transfer") == "true" and not g("transfer_to"):
-                bad("is_transfer is true and transfer_to names nobody. A transfer is "
-                    "captured at the spending end, so the receiving body has to be named.")
+                soft("is_transfer is true and transfer_to names nobody. A transfer is "
+                     "captured at the spending end, so the receiving body has to be named.")
 
             # The origin gate has already run by the time a row is written. A line the gate
             # sends to `non-state` is matched to a held deal on the non-state side and builds
@@ -255,16 +311,21 @@ def check(iso3: str = "", budgets: str = "") -> tuple[list[str], int, int]:
                     bad(f"{s} {g(s)!r} is not a plain number. Amounts are stored normalised "
                         f"to units — no separators, no scale suffix, no currency symbol; "
                         f"amount_scale records what the document printed.")
-            if not held:
+            unclear = g("baseline_stage") == "unclear"
+            if not held and not (migrated and unclear):
                 bad("no stage carries a figure. A line with no money in it is an absence, "
                     "and an absence is a finding in the log, not a row.")
             for col in ("baseline_stage", "current_stage"):
                 v = g(col)
-                if v and v not in STAGES:
-                    bad(f"{col} {v!r} is outside {list(STAGES)}.")
+                if v == "unclear":
+                    if not migrated:
+                        bad(f"{col} is 'unclear'. A figure whose stage nobody can name has "
+                            f"not answered the third question and is not a record.")
+                elif v and v not in STAGES:
+                    bad(f"{col} {v!r} is outside {list(STAGE_NAMES)}.")
                 elif v and not g(v):
                     bad(f"{col} is {v!r} and the {v} column is empty.")
-            if g("baseline_stage") and g("current_stage"):
+            if g("baseline_stage") in STAGES and g("current_stage") in STAGES:
                 if STAGES.index(g("current_stage")) < STAGES.index(g("baseline_stage")):
                     bad("current_stage is earlier in the cycle than baseline_stage.")
             for col in ("exec_vs_voted", "exec_vs_revised"):
@@ -274,8 +335,8 @@ def check(iso3: str = "", budgets: str = "") -> tuple[list[str], int, int]:
             if g("source_tier") == "budget-document":
                 for col in ("doc_type", "doc_locator"):
                     if not g(col):
-                        bad(f"{col} is empty on a budget-document line. The locator is how a "
-                            f"reader reaches the page the figure is printed on.")
+                        soft(f"{col} is empty on a budget-document line. The locator is how "
+                             f"a reader reaches the page the figure is printed on.")
             if slugs is not None and g("source_slug") and g("source_slug") not in slugs:
                 bad(f"source_slug {g('source_slug')!r} is in no catalogue row, so it names "
                     f"no held document.")
@@ -297,6 +358,15 @@ def check(iso3: str = "", budgets: str = "") -> tuple[list[str], int, int]:
     if slugs is None:
         print("budget_source: note — no catalogue at outputs/catalogue/catalogue-internal.csv, "
               "so source_slug was not resolved. Run the catalogue compile and check again.")
+    # **The migrated rows are counted, and so is what they are short of.** They pass, because
+    # they carry what the record they came from carried; what they do not carry is the reason
+    # R58 exists, and a migration whose shortfall is invisible is one nobody ever finishes.
+    if nmig:
+        print(f"budget_source: {nmig} of {nrows} row(s) migrated from OSINT records; "
+              f"{sum(thin.values())} of those are short of the full schema and are waiting "
+              f"for a BUDGET-EXTRACT sitting (R58).")
+        for c in sorted(thin):
+            print(f"  {c}: {thin[c]}")
     return fails, nfiles, nrows
 
 
@@ -312,8 +382,12 @@ def _fm(row: dict, cols: dict) -> str:
     thing at the point of reading, not at the point of writing."""
     out = []
     for key, col in cols.items():
-        v = (row.get(col) or "").strip().replace("\n", " ").replace('"', "'")
-        out.append(f'{key}: "{v}"')
+        # `json.dumps`, not an f-string with quotes round it. `fm_get` JSON-decodes a
+        # double-quoted scalar carrying a backslash and strips the quotes otherwise, so this
+        # round-trips any value at all — including the one `doc_locator` in the corpus that
+        # quotes the law's own words inside itself, which naive quoting turned from double
+        # quotes into single ones on the published row.
+        out.append(f"{key}: " + json.dumps((row.get(col) or "").strip(), ensure_ascii=False))
     return "\n".join(out)
 
 
@@ -338,6 +412,7 @@ FM_COLS = {
     "currency": "currency", "source_tier": "source_tier",
     "doc_type": "doc_type", "doc_locator": "doc_locator",
     "source_slug": "source_slug", "primary_subject": "primary_subject",
+    "origin_record": "origin_record",
 }
 
 
@@ -361,6 +436,13 @@ def records(iso3: str, budgets: str = "") -> list[dict]:
                 origin="domestic-state", published=(r.get("fy_start") or "").strip(),
                 topics=[subj, "finance.budget"] if subj else ["finance.budget"],
                 url="", title=(r.get("line_name") or "").strip(),
+                # The display name as the file gives it, never recomputed. `line_name()`
+                # derives one from the classification chain and falls back through the
+                # title and the spending entity, and on a row whose programme is blank
+                # those fallbacks find different text here than they found in the record
+                # — 145 of the 488 migrated rows changed their published line name when
+                # this was left to be recomputed.
+                line_name=(r.get("line_name") or "").strip(),
                 deal_id=(r.get("deal_id") or "").strip(),
                 currency=(r.get("currency") or "").strip(),
                 source_fy=fy,

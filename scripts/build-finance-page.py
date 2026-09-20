@@ -395,6 +395,10 @@ def csv_budget(dom, iso3, path):
                     # is the record `record` names. `finance.py` drops both from the published
                     # download for the same reason — they are keys into trees only we hold.
                     "source_slug",
+                    # `origin_record` names the OSINT record a migrated row came from
+                    # *(2026-09-20, R56a)* — empty on a row a BUDGET-EXTRACT sitting read,
+                    # and the one column that says which of the two a published figure is.
+                    "origin_record",
                     "record", "programme_line"])
         def sk(r):
             n = vote_num(r); return (fm_get(r["fm"], "fy_start"), int(n) if n.isdigit() else 999, r["deal_id"])
@@ -418,11 +422,12 @@ def csv_budget(dom, iso3, path):
                         fm_get(fm, "source_tier"),
                         cfield(r, "doc_type", "doc_type"),
                         cfield(r, "doc_locator", "doc_locator"),
-                        fm_get(fm, "source_slug"),
+                        fm_get(fm, "source_slug"), fm_get(fm, "origin_record"),
                         # `record_ref` where the row came from Corpus's source folder: the
                         # file and the deal_id inside it, which is what a reader of this
                         # column wants — the place the row is maintained.
-                        r.get("record_ref") or r["fn"][:-3], line_name(r)])
+                        r.get("record_ref") or r["fn"][:-3],
+                        r.get("line_name") or line_name(r)])
 
 def csv_summary(ns, dom, lab, path, fx):
     nsb, fys_ns, doms, fys_dom, excl = aggregate3(ns, dom, fx)
