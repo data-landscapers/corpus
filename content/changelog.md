@@ -1,5 +1,9 @@
 ## 20 September 2026
 
+- Ghana's 2026 budget lines have been read again from the Appropriation Act and the ministries' own budget volumes, rather than carried over. Every figure already published proved right and the total is unchanged, but each line now states which document and page it is printed on, whether it is the whole of a digital activity or part of a mixed line, and whether it is paid for out of tax revenue or the body's own fee income.
+- The Right to Information Commission's budget is now shown as the two programmes the Appropriation Act prints rather than as a single figure, and three Ghanaian lines that a keyword search would have counted as digital are excluded with reasons: the largest of them, at GHS 273.7m, is the national broadcaster and news agency.
+- Two loans were each being counted twice in the non-state finance table: a China Eximbank loan to the DR Congo finance ministry and a Bank of China video-surveillance loan held under two sectors. Both duplicates have been removed, so continental and country totals fall slightly.
+
 - National budgets now publish. The Finance page carries 494 budget lines read out of 26 African states' own budget documents, with a coverage table saying per country which fiscal years have been read, how many lines came out of them and which stages of the budget cycle are held. The section had said for a year that nothing was published there.
 - Every published budget line now names the page, table and line of the budget document its figure is printed on, and rows whose only figure is a tabled one no longer publish as blank.
 - The catalogue, the non-state finance table, and each country's and region's cut of both are now published as datasets, so they can be found in Google Dataset Search rather than only on this site. Each entry names the columns, the years covered, the licence and, for the finance tables, the dated edition on offer.
