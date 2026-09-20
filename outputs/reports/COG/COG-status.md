@@ -1,12 +1,12 @@
 ---
 title: Congo: status report
-compiled: 2026-09-15
+compiled: 2026-09-21
 place: COG
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 4
-sources_cited: 113
+sources_cited: 117
 sections_written: 37
 not_established: 2
 acquire_lines: 35
@@ -313,7 +313,11 @@ Disclosure of government records is weak: [Disclosure of Public Records scores 2
 ### Use of satellite data
 <!-- data.satellite -->
 
-No national space agency, earth observation programme or geospatial data policy had been established in Congo as at August 2026. The regulator's satellite work runs to communications rather than observation: [ARPCE met Eutelsat, OneWeb's technology partner, in September 2025](https://www.adiac-congo.com/content/communications-electroniques-larpce-renforce-son-expertise-sur-les-satellites-de) to build its expertise on telecommunications satellites. The other satellite thread on the record is positioning, not imagery — [China's BeiDou navigation system has been proposed to modernise the Congo-Ocean Railway](https://techafricanews.com/2026/03/04/congo-modernizes-cfco-with-satellite-technology-in-partnership-with-china/) (February 2026).
+Congo has no national space agency and no geospatial data policy, but it now has a stated position and a project. The head of state led a delegation to an international space summit in Paris at which [the country presented space technologies as a strategic lever for development — forest observation, agriculture, telecommunications and scientific training](https://www.adiac-congo.com/content/technologies-spatiales-le-congo-mise-sur-linnovation-pour-accelerer-son-developpement-171569) (September 2026), and [Kazakhstan's deputy prime minister said the two countries are working to build and launch Congo's first Earth-observation satellite, to monitor forests, farming, mining and flood-exposed areas](https://www.adiac-congo.com/content/technologies-spatiales-le-congo-se-prepare-lancer-son-premier-satellite-dobservation-171586) (September 2026), building on a bilateral agreement on a high-resolution remote-sensing system. Neither carries a budget, an operator or a launch date.
+
+Observation data is already being produced and held outside any programme. A [national land-cover and land-use map was published in June 2026](https://doi.org/10.5281/zenodo.20796943), and the [national mapping institute signed a framework partnership on 11 August 2026 with a local non-governmental organisation to digitise, secure and disseminate its geospatial and cartographic holdings on a shared platform for public, institutional and research access](https://www.adiac-congo.com/content/transformation-numerique-lign-et-long-pratic-unissent-leurs-expertises-171185).
+
+The regulator's own satellite work still runs to communications rather than observation: [ARPCE met Eutelsat, OneWeb's technology partner, in September 2025](https://www.adiac-congo.com/content/communications-electroniques-larpce-renforce-son-expertise-sur-les-satellites-de) to build its expertise on telecommunications satellites, and [China's BeiDou navigation system has been proposed to modernise the Congo-Ocean Railway](https://techafricanews.com/2026/03/04/congo-modernizes-cfco-with-satellite-technology-in-partnership-with-china/) (February 2026).
 
 ## Geopolitics
 
