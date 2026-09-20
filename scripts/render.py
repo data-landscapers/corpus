@@ -33,7 +33,7 @@ import markdown
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from chrome_lib import (asset_version, chrome, external_links, feedback,  # noqa: E402
                         feedback_row, foot, ga, styles)
-from copy_lib import copy  # noqa: E402
+from copy_lib import copy, copy_md  # noqa: E402
 
 # The edition grammar and the same-day suffix live in `editions.py`, because `country.py`,
 # `topic-page.py` and `finance.py` all read or write editions too (§9).
@@ -523,6 +523,63 @@ TEMPLATE = """<!DOCTYPE html>
 BULLETIN_NOTES = copy("document", "bulletin-notes")
 
 
+# The search-result description, one block per kind of document, in `content/document.md`.
+# `copy_md` rather than `copy` because this goes in a `content=` attribute: `copy` would wrap
+# it in a `<p>`.
+#
+# **What it replaced was the document's own title, said three times** *(Bill, 2026-09-20)*.
+# `{kind_label} — {title}. Edition of {edition}.` produced *Status report — South Africa:
+# status report. Edition of 2026-09-17.* on 250 pages — the kicker, the title and the byline
+# a reader can already see, and not one of the words anybody searches for. The country pages
+# and the home page had carried a real description since they were written (`country.py`,
+# `home.py`: *digital transformation and data governance*); the reports, which are the bulk
+# of what the site publishes and the pages a search actually lands on, had not.
+#
+# A topic report takes a different block from a place report because its subject is a subject
+# and its geography is the whole continent — *Digital Identity and CRVS across Africa* — and
+# the place blocks would have it reading as though CRVS were a country.
+META_KEY = {
+    ("reports", "status"):   "meta-status",
+    ("reports", "monthly"):  "meta-monthly",
+    ("reports", "progress"): "meta-progress",
+    ("topics",  "monthly"):  "meta-topic-monthly",
+    ("topics",  "progress"): "meta-topic-progress",
+}
+
+# The place or subject a report's title opens with: `South Africa: status report`,
+# `South Africa — monthly update, August – September 2026`, `Digital Identity and CRVS —
+# progress report, …`. Read off the title rather than off the `place:` or `subject:` code in
+# the frontmatter, because the name maps that would resolve those codes already exist in three
+# copies (`country.py`, `home.py`, `region.py`) and a fourth is one more place for them to
+# disagree — and because the title is what the same page prints in `<title>` and `og:title`,
+# so a description built from it cannot name a different place than the heading above it.
+SUBJECT = re.compile(r"\s+—\s+|:\s+")
+
+
+def attr(text: str) -> str:
+    """Plain text made safe for a `content="…"` attribute.
+
+    `&` and `"` only. `html.escape` would also turn the apostrophe in *Côte d'Ivoire* into
+    `&#x27;`, which is correct, unreadable, and different from what `og:title` two lines below
+    does with the same name — and an apostrophe inside a double-quoted attribute needs nothing
+    doing to it."""
+    return text.replace("&", "&amp;").replace('"', "&quot;")
+
+
+def describe(md_path: Path, kind: str, title: str, subtitle: str) -> str:
+    """The `<meta name="description">` for one document.
+
+    A kind with no block of its own falls back to the title and the byline, which is what the
+    bulletin did before it had one and is still right for anything new: wrong-but-honest beats
+    a description written for a document that does not exist yet."""
+    if kind == "bulletin":
+        return copy_md("document", "meta-bulletin", subtitle=subtitle)
+    key = META_KEY.get((tree_of(md_path), kind))
+    if key is None:
+        return f"{title}: {subtitle}"
+    return copy_md("document", key, subject=SUBJECT.split(title, maxsplit=1)[0].strip())
+
+
 def archive_picker(entries: list[dict], current: str) -> str:
     """The mini-archive dropdown, for the colophon.
 
@@ -803,8 +860,7 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
         byline=byline,
         edition_display=edition_display,
         colophon_notes=BULLETIN_NOTES if kind == "bulletin" else "",
-        description=(f"{kind_label} — {title}. Edition of {edition_display}." if kind_label
-                     else f"{title}: {subtitle}"),
+        description=attr(describe(md_path, kind, title, subtitle)),
         short_title=h1 or title,
         h1=h1 or title,
         subtitle=subtitle,

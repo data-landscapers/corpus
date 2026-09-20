@@ -1,3 +1,7 @@
+## 20 September 2026
+
+- The 250 country, region and topic reports now describe themselves properly in search results, naming digital transformation, digital public infrastructure and data governance instead of repeating the report's own title back. A search that should have found these pages was less likely to.
+
 ## 19 September 2026
 
 - Documents on eight countries were added to the collection in one night — Mauritius, Niger, Sudan, Sierra Leone, Seychelles, Chad, Togo and Tunisia — and eleven new place-topic pages were written. Four documents held until now only in part, among them the World Bank's Chad digital-economy diagnostic and Sierra Leone's national broadband strategy, are now held whole, so pages citing them rest on the full text.
