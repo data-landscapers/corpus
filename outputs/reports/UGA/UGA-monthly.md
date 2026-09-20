@@ -1,11 +1,11 @@
 ---
 title: Uganda — monthly update, August – September 2026
-compiled: 2026-09-18
-period: 2026-08-01 to 2026-09-18
+compiled: 2026-09-20
+period: 2026-08-01 to 2026-09-20
 place: UGA
-ledger_rows: 105
+ledger_rows: 106
 not_held: 12
-record: e05ca1cba448
+record: 8d86fb08fb9a
 ---
 
 # Uganda: monthly update, August – September 2026
@@ -226,6 +226,11 @@ The startup environment was assessed rather than funded. A continental alliance 
 
 ## Capacity
 
+### Literacy
+
+<!-- narrative: capacity--capacity-literacy -->
+The month's only literacy movement is an operator's, not the state's: a mobile classroom run by the largest mobile operator's foundation [graduated 305 people in Kampala on 18 September, taking the number trained to more than 6,700](https://nilepost.co.ug/business/371849/mtn-programme-trains-305-ugandans-in-digitalfinancial-skills) in safe internet use, digital productivity and responsible use of digital financial services. No cost, geographic spread or outcome measure beyond the graduate count is published, so what is held is a throughput figure rather than a measure of literacy.
+<!-- /narrative -->
 ### Training and skills
 
 <!-- narrative: capacity--capacity-training -->

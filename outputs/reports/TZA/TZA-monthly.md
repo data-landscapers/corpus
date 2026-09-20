@@ -1,11 +1,11 @@
 ---
 title: Tanzania — monthly update, August – September 2026
-compiled: 2026-09-18
-period: 2026-08-01 to 2026-09-18
+compiled: 2026-09-20
+period: 2026-08-01 to 2026-09-20
 place: TZA
-ledger_rows: 101
+ledger_rows: 102
 not_held: 5
-record: ddbb66c7560a
+record: 6f17d81f0913
 ---
 
 # Tanzania: monthly update, August – September 2026
