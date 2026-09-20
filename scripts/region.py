@@ -128,6 +128,8 @@ def build(code: str) -> list[Path]:
             feedback=feedback(f"{name} — non-state finance",
                               f"{SITE_BASE}/countries/{code}/finance.html"),
             unit="place",
+            jsonld=country.finance_dataset(code, name, out_dir, fin, csv_names["csv_name"],
+                                           csv_names["csv_edition"]),
             fin_total=f"{sum(amounts):,.0f}",
             y0=(min(ys) if ys else "&mdash;"), y1=(max(ys) if ys else "&mdash;"),
             styles=styles(2, "country.css", "datatable.css"),

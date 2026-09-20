@@ -12,6 +12,178 @@
 <link rel="stylesheet" href="../../assets/css/country.css?v=73bc258a">
 <link rel="stylesheet" href="../../assets/css/datatable.css?v=59432600">
 <link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "@id": "https://corpus.data-landscapers.io/countries/TUN/finance.html#dataset",
+  "name": "Data Landscapers non-state finance — Tunisia",
+  "description": "Every non-state financial commitment to the digital sector in Tunisia held by Data Landscapers, as a single table: the financier, the year the finance was approved and the year the activity ends, the sector and instrument, the committed amount in millions of US dollars with its basis and a quality assessment, the status, the recipient organisation, the original currency amount, the financier's own project identifier and IATI activity identifier where published, and the public source each row rests on. The amounts are commitments rather than disbursements, because disbursement data is largely unavailable, so a total of them is what was promised to Tunisia and not what was spent there — it is not a measure of market size. The subjects covered are digital transformation, digital public infrastructure and data governance. Domestic budget appropriations are not in this table. This is the Tunisia cut of the full Data Landscapers non-state finance table.",
+  "url": "https://corpus.data-landscapers.io/countries/TUN/finance.html",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "isAccessibleForFree": true,
+  "creator": {
+    "@type": "Organization",
+    "name": "Data Landscapers",
+    "url": "https://data-landscapers.io/",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://data-landscapers.io/assets/logo.png"
+    }
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Data Landscapers",
+    "url": "https://data-landscapers.io/",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://data-landscapers.io/assets/logo.png"
+    }
+  },
+  "includedInDataCatalog": {
+    "@type": "DataCatalog",
+    "name": "Data Landscapers Corpus",
+    "url": "https://corpus.data-landscapers.io/"
+  },
+  "inLanguage": "en",
+  "keywords": [
+    "Digital transformation",
+    "Digital public infrastructure",
+    "Data governance",
+    "Development finance",
+    "Non-state finance",
+    "Digital infrastructure",
+    "Tunisia"
+  ],
+  "spatialCoverage": {
+    "@type": "Country",
+    "name": "Tunisia"
+  },
+  "variableMeasured": [
+    {
+      "@type": "PropertyValue",
+      "name": "recipient_country",
+      "description": "The ISO 3166-1 alpha-3 code for the country"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "start_year",
+      "description": "The year in which the finance was approved or committed. In some circumstances this may be a planned, rather than actual, start year."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "end_year",
+      "description": "The year in which the financed activity ended or is due to end"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "financier",
+      "description": "The short or abbreviated name of the institution providing the finance"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "sector",
+      "description": "This is defined by Data Landscaper's own taxonomy which can be found at https:\\\\data-landscapers.io\\taxonomy"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "instrument",
+      "description": "The financial instrument such as grant, loan equity."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "commitment_usd_m",
+      "description": "The committed value of  the finance in millions of US dollars. If the commitment was made in a different currency this is reported in the original amount column and has been converted to USD using IMF annual average rates."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "amount_basis",
+      "description": "Commitments are used in this table as data on actual disbursements is often missing. There are a few transactions where only a disbursement, rather than commitment, figure is available. This column records this."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "amount_quality",
+      "description": "Data in this table is collected from a variety of sources, including the press. This column attempts to assess the reliability of the data."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "status",
+      "description": "Whether the contract is pipeline, approved, active or closed"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "title",
+      "description": "The title of the investment"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "description",
+      "description": "A brief description of the investment"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "beneficiary_type",
+      "description": "e.g. Government, private sector"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "recipient_organisation",
+      "description": "The name of the institution receiving the finance"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "original_amount",
+      "description": "The amount and currency of the legal commitment"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "project_id",
+      "description": "If the financier maintains a public portfolio, this is the Id of their record"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "iati_activity_id",
+      "description": "If the financier publishes their activities to the International Aid Transparency Initiative, this is the unique identifier used in IATI xml data."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "url",
+      "description": "A public url referencing the source from which the data in this table has been collected."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "financier_slug",
+      "description": "The financier identifier within the Corpus repository"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "record",
+      "description": "The identifier of the record within the  Corpus repository"
+    }
+  ],
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/csv",
+      "contentUrl": "https://corpus.data-landscapers.io/countries/TUN/TUN-nonstate-2026-09-09.csv"
+    }
+  ],
+  "size": {
+    "@type": "QuantitativeValue",
+    "unitText": "records",
+    "value": 7
+  },
+  "temporalCoverage": "2016/2026",
+  "dateModified": "2026-09-09",
+  "version": "2026-09-09",
+  "datePublished": "2026-09-09",
+  "isPartOf": {
+    "@type": "Dataset",
+    "@id": "https://corpus.data-landscapers.io/finance/#dataset",
+    "url": "https://corpus.data-landscapers.io/finance/"
+  }
+}
+</script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-BF3X4N6YML"></script>
 <script>
   window.dataLayer = window.dataLayer || [];

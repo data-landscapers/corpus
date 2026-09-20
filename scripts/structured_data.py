@@ -22,7 +22,12 @@ compilation, which is ours; it does not and could not cover the documents it poi
 from __future__ import annotations
 
 import json
+import sys
 from datetime import date
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import editions  # noqa: E402 — the one implementation of the edition grammar (design.md §9)
 
 SITE_BASE = "https://corpus.data-landscapers.io"
 MAIN_SITE = "https://data-landscapers.io"
@@ -44,10 +49,15 @@ ORG = {
     "logo": {"@type": "ImageObject", "url": f"{MAIN_SITE}/assets/logo.png"},
 }
 
+# **The catalogue of datasets is the site, not `/catalogue/`.** That page is the landing page
+# of one dataset — the document index — and it already answers to `…/catalogue/#dataset`. Naming
+# it as the `DataCatalog` as well made one URL two types and put a dataset inside itself. The
+# site is what actually holds several: the document catalogue, the non-state finance table, and
+# the place cuts of each.
 CATALOG = {
     "@type": "DataCatalog",
     "name": "Data Landscapers Corpus",
-    "url": f"{SITE_BASE}/catalogue/",
+    "url": f"{SITE_BASE}/",
 }
 
 # The three subjects the whole corpus is about, named as things rather than as words in a
@@ -89,9 +99,9 @@ def document(*, kind: str, headline: str, description: str, url: str, published:
     the byline, the licence and the PDF in the colophon, the description in the meta tag beside
     this block.
 
-    **`published` must already be a date.** An edition is `2026-09-16` or `2026-09-16-2`
-    (design.md §9) and the second of those is not one; the caller strips the same-day sequence
-    through `editions.edition_key`, which is where that parse lives.
+    **`published` may be an edition or a date**; `as_date` takes off any same-day sequence, so
+    `2026-09-16-2` dates the document to the 16th. A document carries no `version`, because its
+    dated PDF is named for the full edition and the page links it by name.
 
     **`dateModified` equals `datePublished` because a published edition is never revised.** That
     is §9 stated in the vocabulary a crawler reads, and it is true: a document whose content
@@ -105,8 +115,8 @@ def document(*, kind: str, headline: str, description: str, url: str, published:
         "description": description,
         "url": url,
         "mainEntityOfPage": {"@type": "WebPage", "@id": url},
-        "datePublished": published,
-        "dateModified": published,
+        "datePublished": as_date(published),
+        "dateModified": as_date(published),
         "inLanguage": "en",
         "license": LICENCE_URL,
         "isAccessibleForFree": True,
@@ -123,6 +133,30 @@ def document(*, kind: str, headline: str, description: str, url: str, published:
                             "encodingFormat": "application/pdf",
                             "contentUrl": pdf_url}
     return block(data)
+
+
+def bytes_of(path) -> int | None:
+    """The size of a file that may have been pruned to R2 — None where it is not there.
+
+    The absence carries no information: `--prune-local` deletes a dated edition once the bucket
+    has it, and the Worker serves it from the path it had under `site/`. What must not happen is
+    a size carried over from a file this build never saw."""
+    return path.stat().st_size if path.exists() else None
+
+
+def as_date(edition: str) -> str:
+    """An edition's date, with any same-day sequence taken off — `2026-09-18-2` → `2026-09-18`.
+
+    **Applied here rather than left to each caller**, because every caller that forgets it emits
+    an invalid date, silently, on whichever handful of artefacts happened to be cut twice in one
+    day. That has now been the same bug twice: `render.py` was written with the strip, and the
+    finance datasets were written without it and put `2026-09-18-2` in a `dateModified` — caught
+    by the linter on exactly one of 125 pages, which is how narrow the window is. A caller that
+    has already stripped loses nothing: `edition_key` on a bare date gives the date back.
+
+    `version` keeps the full edition, because the sequence is precisely what tells two editions
+    of one day apart, and that is a version's job and not a date's."""
+    return editions.edition_key(edition)[0] or edition
 
 
 def size_label(n_bytes: int) -> str:
@@ -147,6 +181,17 @@ def span(dates: list[str]) -> str | None:
     return f"{days[0]}/{days[-1]}" if days else None
 
 
+def year_span(years: list) -> str | None:
+    """`temporalCoverage` over whole years — `1998/2031` — or None if there are none.
+
+    The finance table is dated to the year a commitment was approved and the year the activity
+    ends, and no finer; a year is a valid ISO 8601 interval bound, and padding one to a January
+    the 1st would be inventing a precision the source does not have. `span()` above is the
+    day-precision counterpart, for the catalogue's publication dates."""
+    ys = sorted({int(y) for y in years if str(y).isdigit() and 1000 <= int(y) <= 9999})
+    return f"{ys[0]}/{ys[-1]}" if ys else None
+
+
 def fields_from(rows: list[dict]) -> list[dict]:
     """`variableMeasured`, from the published field dictionary — the same CSV the page links as
     *what each column means*, so the two cannot drift.
@@ -162,10 +207,12 @@ def dataset_id(url: str) -> str:
     return url + "#dataset"
 
 
-def dataset(*, name: str, description: str, url: str, csv_url: str, csv_bytes: int,
+def dataset(*, name: str, description: str, url: str, csv_url: str,
+            csv_bytes: int | None,
             records: int, fields: list[dict], entity: dict,
             temporal: str | None = None, modified: str | None = None,
-            part_of: str | None = None) -> str:
+            part_of: str | None = None, version: str | None = None,
+            extra_keywords: tuple[str, ...] = ()) -> str:
     """A downloadable table, described as data — for Google Dataset Search and its like.
 
     **`isPartOf` is what makes 62 place cuts a set rather than 62 unrelated tables.** Each place
@@ -190,14 +237,18 @@ def dataset(*, name: str, description: str, url: str, csv_url: str, csv_bytes: i
         "publisher": ORG,
         "includedInDataCatalog": CATALOG,
         "inLanguage": "en",
-        "keywords": list(SUBJECTS) + [entity["name"]],
+        "keywords": list(SUBJECTS) + list(extra_keywords) + [entity["name"]],
         "spatialCoverage": entity,
         "variableMeasured": fields,
+        # **`contentSize` only where the file is there to measure.** A dated edition is pruned
+        # out of the tree once R2 has it (RENDER Step 6b), so a build that kept the standing
+        # edition rather than cutting a new one has nothing local to weigh. A download with no
+        # size is a download with no size; one carrying last year's is a claim about a file.
         "distribution": [{
             "@type": "DataDownload",
             "encodingFormat": "text/csv",
             "contentUrl": csv_url,
-            "contentSize": size_label(csv_bytes),
+            **({"contentSize": size_label(csv_bytes)} if csv_bytes else {}),
         }],
     }
     if records:
@@ -205,6 +256,22 @@ def dataset(*, name: str, description: str, url: str, csv_url: str, csv_bytes: i
     if temporal:
         data["temporalCoverage"] = temporal
     data["dateModified"] = modified or date.today().isoformat()
+
+    # **An edition dates itself, and a wholesale republication dates itself too — differently.**
+    #
+    # The finance tables are editions (design.md §9): dated, retained, never revised. What the
+    # page offers is one named file cut on one day, and the honest `dateModified` is that day —
+    # not the day of the build, which would claim a change on every render of a table nobody
+    # has touched since August. `version` is the edition, and `datePublished` moves with it,
+    # because for an immutable artefact the two are the same date.
+    #
+    # The catalogue is not an edition — it is republished wholesale at an undated URL and
+    # nobody cites it as of a date — so it passes no version and dates itself to the build,
+    # which is the last moment its contents could have changed.
+    if version:
+        data["version"] = version
+        data["dateModified"] = as_date(version)
+        data["datePublished"] = data["dateModified"]
     if part_of:
         data["isPartOf"] = {"@type": "Dataset", "@id": dataset_id(part_of), "url": part_of}
     return block(data)

@@ -1,6 +1,7 @@
 ## 20 September 2026
 
-- The catalogue and each country's and region's cut of it are now published as datasets, so they can be found in Google Dataset Search rather than only on this site. Each entry names the columns, the years covered and the licence before you download anything.
+- The catalogue, the non-state finance table, and each country's and region's cut of both are now published as datasets, so they can be found in Google Dataset Search rather than only on this site. Each entry names the columns, the years covered, the licence and, for the finance tables, the dated edition on offer.
+- The Finance page's colophon was showing its edition as `19` rather than `2026-09-19`. The file it links was always the right one; only the Edition row was wrong.
 - The 250 country, region and topic reports now describe themselves properly in search results, naming digital transformation, digital public infrastructure and data governance instead of repeating the report's own title back. A search that should have found these pages was less likely to.
 
 ## 19 September 2026

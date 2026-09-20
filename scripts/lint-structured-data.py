@@ -63,6 +63,25 @@ CANONICAL = re.compile(r'<link rel="canonical" href="([^"]+)"')
 DESCRIPTION = re.compile(r'<meta name="description" content="([^"]*)"')
 ISO = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 
+# A `temporalCoverage` bound: a whole year or a day. The catalogue's records carry publication
+# dates and span days; the finance table is dated to the year a commitment was approved and no
+# finer, and padding that to a January the 1st would invent a precision the source lacks.
+BOUND = re.compile(r"^\d{4}(-\d{2}-\d{2})?$")
+
+EDITION = re.compile(r"^\d{4}-\d{2}-\d{2}(-\d+)?$")
+
+# A dated edition (design.md §9) — `…-2026-09-18.csv`, or `-2` where two were cut in a day.
+# These are pruned out of the tree once R2 has them, so their absence here is a successful
+# sync rather than a missing file. An undated download is served from this tree and must be in
+# it.
+EDITION_FILE = re.compile(r"-\d{4}-\d{2}-\d{2}(-\d+)?\.[a-z]+$")
+
+# The page's own record of the dated artefact it is offering: `stem|edition|digest`.
+ARTEFACT = re.compile(r'<meta name="dl-artefact" content="([^"|]+)\|([^"|]+)\|([0-9a-f]+)">')
+
+# The two whole datasets a cut may be part of: the document catalogue and the finance table.
+PARENTS = {f"{SITE_BASE}/catalogue/#dataset", f"{SITE_BASE}/finance/#dataset"}
+
 # The pages `render.py` writes — the ones that must carry a document block. Everything else is
 # linted if it has one and not demanded to have one: the finance pages publish dated CSVs and
 # have no block yet, and a linter that failed over work nobody has done is a linter that gets
@@ -206,9 +225,10 @@ def check_dataset(rel: str, d: dict, outside: str) -> list[str]:
     tc = d.get("temporalCoverage")
     if tc:
         parts = tc.split("/")
-        if len(parts) != 2 or not all(ISO.match(p) for p in parts):
+        if len(parts) != 2 or not all(BOUND.match(p) for p in parts):
             fail(f"temporalCoverage is not a date interval: {tc!r}")
-        elif parts[0] > parts[1]:
+        elif parts[0][:4] > parts[1][:4] or (parts[0][:4] == parts[1][:4]
+                                             and parts[0] > parts[1]):
             fail(f"temporalCoverage runs backwards: {tc}")
 
     if not (d.get("spatialCoverage") or {}).get("name"):
@@ -224,9 +244,34 @@ def check_dataset(rel: str, d: dict, outside: str) -> list[str]:
     if missing:
         fail(f"keywords do not name the corpus subjects: {missing}")
 
+    cat = (d.get("includedInDataCatalog") or {}).get("url")
+    if cat != f"{SITE_BASE}/":
+        fail(f"includedInDataCatalog names {cat}, not the site — `/catalogue/` is one dataset "
+             f"in the catalogue of datasets, not the catalogue itself")
+
     part = (d.get("isPartOf") or {}).get("@id")
-    if part and part != f"{SITE_BASE}/catalogue/#dataset":
-        fail(f"isPartOf names {part}, which is not the catalogue's dataset id")
+    if part and part not in PARENTS:
+        fail(f"isPartOf names {part}, which is no whole dataset this site publishes {PARENTS}")
+    if part == d["@id"]:
+        fail("isPartOf names the dataset itself")
+
+    # **An edition dates itself, and the page says which one two screens below.** `version`,
+    # `dateModified` and the colophon's `dl-artefact` are three statements of one fact from two
+    # builders; a page whose structured data offers one edition while its Edition row names
+    # another has no defensible answer to *what am I looking at*. `finance.py` printed `19` in
+    # that row until 2026-09-20, from a second parse of a filename grammar `editions.py` owns.
+    if d.get("version"):
+        if not ISO.match(d["version"]) and not EDITION.match(d["version"]):
+            fail(f"version is not an edition: {d['version']!r}")
+        if d.get("datePublished") != d["dateModified"]:
+            fail("a dated edition's datePublished and dateModified are the same day")
+        art = ARTEFACT.search(outside)
+        if art and art.group(2) != d["version"]:
+            fail(f"version {d['version']} is not the edition the page says it is offering "
+                 f"({art.group(2)})")
+        if art and f"{art.group(1)}-{art.group(2)}." not in d["distribution"][0]["contentUrl"]:
+            fail(f"the download named is not the artefact the page records "
+                 f"({art.group(1)}-{art.group(2)})")
 
     out += check_downloads(rel, d["distribution"], outside)
     return out
@@ -257,9 +302,13 @@ def check_downloads(rel: str, items: list[dict], outside: str) -> list[str]:
         # A dated PDF is pruned from the tree once R2 has it (RENDER Step 6b), so its absence
         # here carries no information and is not a finding. A CSV is served from this tree and
         # its absence is a 404 waiting to happen.
+        # A dated edition is pruned once R2 has it, so its absence is a successful sync. An
+        # undated download — the catalogue and its cuts — is served from this tree, and its
+        # absence is a 404 waiting to happen.
         if path is not None and url.endswith(".csv"):
             if not path.exists():
-                out.append(f"{rel}: the block names {url}, which is not in the built tree")
+                if not EDITION_FILE.search(url):
+                    out.append(f"{rel}: the block names {url}, which is not in the built tree")
             elif item.get("contentSize") and item["contentSize"] != size_label(
                     path.stat().st_size):
                 out.append(f"{rel}: contentSize says {item['contentSize']} for "

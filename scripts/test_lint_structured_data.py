@@ -10,9 +10,13 @@ over a block nobody reads is a linter nobody will notice has stopped looking.
 - The fix then over-corrected. It demanded the page carry the *absolute* URL, which every page
   doing the right thing does not — a page links its own downloads relatively. That failed all
   62 place pages at once, which at least failed loudly.
+- The finance datasets then put `2026-09-18-2` in a `dateModified`, which is an edition and is
+  not a date — the same fault `render.py` had been written to avoid, reintroduced by a second
+  caller that did not know to strip it. It showed on exactly one page of 125. `as_date` does it
+  inside `structured_data` now, where a caller cannot forget.
 
-So the cases below are mostly failures: two real shipped pages, a document and a dataset,
-mutated one fault at a time. Each mutation goes inside the block or outside it and never
+So the cases below are mostly failures: three real shipped pages — a document, a catalogue cut
+and a finance edition — mutated one fault at a time. Each mutation goes inside the block or outside it and never
 blindly, because most of these faults *are* a disagreement between the two, and a replacement
 hitting both would leave them agreeing and the page reading clean.
 
@@ -35,7 +39,8 @@ _spec.loader.exec_module(lint)
 
 SITE = SCRIPTS.parent / "site"
 DOC_PAGE = SITE / "reports" / "ZAF" / "ZAF-status.html"
-SET_PAGE = SITE / "countries" / "ZAF" / "index.html"
+SET_PAGE = SITE / "countries" / "ZAF" / "index.html"          # a catalogue cut — not an edition
+FIN_PAGE = SITE / "countries" / "ZAF" / "finance.html"        # a finance table — an edition
 
 failures: list[str] = []
 
@@ -82,16 +87,17 @@ class Page:
         return lint.check(self.path.name, html) != []
 
 
-for p in (DOC_PAGE, SET_PAGE):
+for p in (DOC_PAGE, SET_PAGE, FIN_PAGE):
     if not p.exists():
         print(f"{p.relative_to(SCRIPTS.parent)} is not there — build the site first")
         sys.exit(1)
 
-doc, dset = Page(DOC_PAGE), Page(SET_PAGE)
+doc, dset, fin = Page(DOC_PAGE), Page(SET_PAGE), Page(FIN_PAGE)
 
 print("the shipped pages pass")
 check("the document page is clean", lint.check(doc.path.name, doc.html) == [])
-check("the dataset page is clean", lint.check(dset.path.name, dset.html) == [])
+check("the catalogue-cut page is clean", lint.check(dset.path.name, dset.html) == [])
+check("the finance-edition page is clean", lint.check(fin.path.name, fin.html) == [])
 
 print()
 print("a block that is not there, or not JSON")
@@ -162,14 +168,17 @@ check("spatialCoverage with no place is a finding",
                                 '    "name": "South Africa"\n  }',
                                 '"spatialCoverage": {\n    "@type": "Country",\n'
                                 '    "name": ""\n  }')))
-check("isPartOf naming something other than the catalogue is a finding",
+check("isPartOf naming no whole dataset this site publishes is a finding",
       dset.caught(dset.in_block('"@id": "https://corpus.data-landscapers.io/catalogue/#dataset"',
                                 '"@id": "https://example.com/other#dataset"')))
 
 print()
 print("downloads — the two checks that shipped wrong")
-check("a CSV the page does not offer is a finding (the vacuous check)",
+check("an undated CSV the page does not offer is a finding (the vacuous check)",
       dset.caught(dset.in_block(CSV, CSV.replace("-catalogue.csv", "-nope.csv"))))
+check("an undated CSV missing from the built tree is a finding — nothing prunes those",
+      dset.caught(dset.in_page('href="ZAF-catalogue.csv"', 'href="ZAF-gone.csv"')
+                  .replace(CSV, CSV.replace("ZAF-catalogue.csv", "ZAF-gone.csv"))))
 check("a contentSize that is not the file's real size is a finding",
       dset.caught(dset.in_block(f'"contentSize": "{SIZE}"', '"contentSize": "1.0 MB"')))
 check("a relative link on the page still counts as offering the file (the over-correction)",
@@ -177,6 +186,35 @@ check("a relative link on the page still counts as offering the file (the over-c
 check("a PDF the document page does not offer is a finding",
       doc.caught(doc.in_block(doc.data["encoding"]["contentUrl"],
                               doc.data["encoding"]["contentUrl"].replace(".pdf", "-nope.pdf"))))
+
+print()
+print("a dataset that is a dated edition")
+check("a version that is not an edition is a finding",
+      fin.caught(fin.with_data(version="the latest one")))
+check("an edition's dateModified and datePublished disagreeing is a finding",
+      fin.caught(fin.with_data(datePublished="2020-01-01")))
+check("a version that is not the edition the page says it is offering is a finding",
+      fin.caught(fin.with_data(version="2019-01-01", dateModified="2019-01-01",
+                               datePublished="2019-01-01")))
+check("a download that is not the artefact the page records is a finding",
+      fin.caught(fin.with_data(distribution=[
+          dict(fin.data["distribution"][0],
+               contentUrl=fin.data["distribution"][0]["contentUrl"].replace(
+                   "-nonstate-", "-somethingelse-"))])))
+check("a dated edition absent from the tree is NOT a finding — it is pruned to R2",
+      not fin.caught(fin.html))
+check("year-precision temporalCoverage is accepted",
+      not fin.caught(fin.with_data(temporalCoverage="2015/2042")))
+check("a year-precision span running backwards is a finding",
+      fin.caught(fin.with_data(temporalCoverage="2042/2015")))
+check("isPartOf naming the finance table is accepted",
+      not fin.caught(fin.html))
+check("isPartOf naming the dataset itself is a finding",
+      fin.caught(fin.with_data(isPartOf={"@type": "Dataset", "@id": fin.data["@id"]})))
+check("includedInDataCatalog naming /catalogue/ is a finding — one dataset is not the catalogue",
+      fin.caught(fin.with_data(includedInDataCatalog={
+          "@type": "DataCatalog", "name": "x",
+          "url": "https://corpus.data-landscapers.io/catalogue/"})))
 
 print()
 print("the shipped tree is clean")

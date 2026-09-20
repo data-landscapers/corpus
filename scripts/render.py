@@ -605,14 +605,12 @@ def jsonld(md_path: Path, kind: str, title: str, description: str, url_html: str
     """The page's structured data. `structured_data.document` is the shape; this is the two
     facts it needs that only a render knows.
 
-    **The edition's same-day sequence comes off here.** An edition is `2026-09-16` or
-    `2026-09-16-2` (design.md §9) and the second is not a date: emitted as one it is invalid
-    structured data, silently, on whichever handful of documents happened to move twice in a
-    day. `edition_key` already splits the two apart for sorting, so the parse has one
-    implementation rather than a second regex."""
+    **The edition goes in whole.** `structured_data.as_date` takes off any same-day sequence —
+    `2026-09-16-2` is an edition and is not a date — and it does it there rather than here so
+    that the next caller cannot forget, which is a thing that has already happened once."""
     return structured_data.document(
         kind=kind, headline=title, description=description, url=url_html,
-        published=editions.edition_key(edition)[0] or edition,
+        published=edition,
         pdf_url=pdf_url,
         entity=entity_of(md_path, kind, title, place))
 

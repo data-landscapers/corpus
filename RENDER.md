@@ -346,13 +346,13 @@ python scripts/lint-external-links.py
 
 It checks the built tree *and* the builders — a script that takes its chrome from `chrome_lib` and writes a page without `external_links()` is reported before it has rendered anything. Both directions are findings (`documentation/house-style.md` → *Links*). **A finding stops the push**: the repair is to fix the builder and re-run the step that wrote the page, or `render.py --repage` for a report, neither of which cuts an edition.
 
-**And check that every page still describes itself, and agrees with itself.** The same argument: the `application/ld+json` block each report carries — and the `Dataset` block on the catalogue and each place's cut of it — is invisible on the page, in the PDF and in any diff anyone reads, and its only consumer is a crawler that never reports back.
+**And check that every page still describes itself, and agrees with itself.** The same argument: the `application/ld+json` block each report carries — and the `Dataset` block on the catalogue, the finance table and every place's cut of both — is invisible on the page, in the PDF and in any diff anyone reads, and its only consumer is a crawler that never reports back.
 
 ```bash
 python scripts/lint-structured-data.py
 ```
 
-Every assertion is *this page disagrees with itself* or *this value is not the type it claims to be* — the description in the block against the one in the meta tag, `url` against the page's own canonical, a named download against the file the page actually offers and its real size on disk, and `datePublished` against being a date at all, which a `-2` edition is not (§9). It also fails on a block that is neither shape, which is what a builder growing its own structured data instead of calling `structured_data.py` looks like. The script's header says why each check is there, and `scripts/test_lint_structured_data.py` holds the cases proving it fails where it should. **A finding stops the push**, and the repair is to fix the builder and re-run the step that wrote the page — `render.py --repage` for a report — which cuts no edition.
+Every assertion is *this page disagrees with itself* or *this value is not the type it claims to be* — the description in the block against the one in the meta tag, `url` against the page's own canonical, a named download against the file the page actually offers and its real size on disk, and `datePublished` against being a date at all, which a `-2` edition is not (§9). On a dated edition it also checks `version` and the download against the page's own `dl-artefact` row, so a finance page cannot advertise one edition in its structured data and name another in its colophon. And it fails on a block that is neither shape, which is what a builder growing its own structured data instead of calling `structured_data.py` looks like. The script's header says why each check is there, and `scripts/test_lint_structured_data.py` holds the cases proving it fails where it should. **A finding stops the push**, and the repair is to fix the builder and re-run the step that wrote the page — `render.py --repage` for a report — which cuts no edition.
 
 ```bash
 git add site

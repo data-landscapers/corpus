@@ -36,7 +36,8 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import editions  # noqa: E402  - one implementation of the edition grammar (§9)
-from copy_lib import copy  # noqa: E402
+from copy_lib import copy, copy_md  # noqa: E402
+import structured_data  # noqa: E402
 from chrome_lib import chrome, external_links, feedback, foot, ga, script, styles  # noqa: E402
 
 CORPUS = Path(__file__).resolve().parent.parent
@@ -132,6 +133,7 @@ PAGE = """<!DOCTYPE html>
 {artefacts}
 {styles}
 <link rel="icon" href="{main}/assets/favicon.svg" type="image/svg+xml">
+{jsonld}
 {ga}
 </head>
 <body>
@@ -206,7 +208,46 @@ PAGE = """<!DOCTYPE html>
 """
 
 
-def render(agg: dict, names: dict, csv_name: str, artefacts: str = "") -> str:
+def field_dictionary() -> list[dict]:
+    """`variableMeasured` for the finance table, from the dictionary every finance page links as
+    *what each column means* — twenty columns described in one hand-maintained file, which is
+    the arrangement `publish_finance_csvs` chose deliberately over fifty-four copies of it."""
+    fd = SITE / "metadata" / METADATA_CSV
+    if not fd.exists():
+        return []
+    with open(fd, encoding="utf-8-sig", newline="") as fh:
+        return structured_data.fields_from(list(csv.DictReader(fh)))
+
+
+def dataset(agg: dict, csv_name: str, edition: str) -> str:
+    """The whole non-state finance table, described as data *(Bill, 2026-09-20)*.
+
+    **This one is an edition, and the catalogue is not** — which is the whole difference between
+    the two dataset blocks on this site. The page offers one dated file, cut on one day and
+    never revised (design.md §9), so `version` is that edition and `dateModified` is its date.
+    Dating it to the build instead would assert a change on every render of a table nobody has
+    touched since the edition was cut, to the one audience that reads `dateModified` literally.
+
+    `temporalCoverage` is the years the *money* covers rather than the years the rows were
+    written, because that is the question anyone searching for finance data is asking, and the
+    table carries no finer date than the year."""
+    return structured_data.dataset(
+        name="Data Landscapers non-state finance — Africa",
+        description=copy_md("finance", "dataset-all"),
+        url=f"{SITE_BASE}/finance/",
+        csv_url=f"{SITE_BASE}/finance/{csv_name}",
+        csv_bytes=structured_data.bytes_of(SITE / "finance" / csv_name),
+        records=agg["deals"],
+        fields=field_dictionary(),
+        entity={"@type": "Place", "name": "Africa"},
+        temporal=structured_data.year_span([agg.get("year_min"), agg.get("year_max")]),
+        modified=edition or None,
+        version=edition or None,
+        extra_keywords=("Development finance", "Non-state finance", "Digital infrastructure"))
+
+
+def render(agg: dict, names: dict, csv_name: str, edition: str,
+           artefacts: str = "") -> str:
     """The Finance page: non-state finance with its table, then national budgets
     with an explanation of why there is nothing under it yet.
 
@@ -237,7 +278,8 @@ def render(agg: dict, names: dict, csv_name: str, artefacts: str = "") -> str:
         budgets_intro=indent(copy("finance", "budgets-intro")),
         deals=f"{agg['deals']:,}", total=f"{agg['total_usd_m']:,.0f}",
         financiers=f"{agg['financiers']:,}", places=agg["places"], yr=yr,
-        built=date.today().isoformat(), edition=csv_name.rsplit("-", 1)[-1][:-4],
+        jsonld=dataset(agg, csv_name, edition),
+        built=date.today().isoformat(), edition=edition,
     )
 
 
@@ -260,9 +302,15 @@ def main() -> int:
     body = (sdir / "all-nonstate.csv").read_bytes().replace(b"\r\n", b"\n")
     page = out / "index.html"
     csv_path, _ = editions.publish(body, out, "all-nonstate", ".csv", page=page)
-    artefacts = editions.artefact_meta(
-        "all-nonstate", editions.edition_of(csv_path.stem) or "", editions.digest(body))
-    page.write_text(external_links(render(agg, names, csv_path.name, artefacts)),
+    # **The edition is parsed once, by `editions`, and passed down.** `render()` used to split
+    # the filename itself — `csv_name.rsplit("-", 1)[-1][:-4]` — which on
+    # `all-nonstate-2026-09-19.csv` yields `19`, and that is what the colophon's Edition row has
+    # been showing. The country finance pages beside it read `2026-09-18`, because `country.py`
+    # asks `editions.edition_of`. A second parse of a filename grammar that has one owner is
+    # how one page comes to disagree with sixty-one others about what it is offering.
+    edition = editions.edition_of(csv_path.stem) or ""
+    artefacts = editions.artefact_meta("all-nonstate", edition, editions.digest(body))
+    page.write_text(external_links(render(agg, names, csv_path.name, edition, artefacts)),
                     encoding="utf-8")
     stale = out / "all.html"
     if stale.exists():                 # the table's own page, folded into index.html

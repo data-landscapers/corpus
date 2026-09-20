@@ -541,6 +541,7 @@ FINANCE = """<!DOCTYPE html>
 {artefacts}
 {styles}
 <link rel="icon" href="{favicon}" type="image/svg+xml">
+{jsonld}
 {ga}
 </head>
 <body>
@@ -616,6 +617,53 @@ def ensure_catalogue_csv() -> None:
     if dst.exists():
         dst.unlink()
     shutil.copyfile(src, dst)
+
+
+def finance_dataset(code: str, name: str, out_dir: Path, fin: list[dict],
+                    csv_name: str, edition: str) -> str:
+    """The place's non-state finance table, described as data *(Bill, 2026-09-20)*.
+
+    **This one is an edition and the catalogue cut beside it is not**, which is the only real
+    difference between the two blocks these pages now carry. The page offers one dated file,
+    cut on one day and never revised (design.md §9): `version` is that edition and
+    `dateModified` is its date, not the build's. Dating it to the build would assert a change
+    on every render of a table nobody has touched since August, to the one audience that reads
+    `dateModified` literally — and the colophon two screens below would be saying the opposite.
+
+    **`contentSize` is absent where the edition has been pruned**, which is the normal state of
+    a table that did not move this run: `--prune-local` takes the file out of the tree once R2
+    has it, and a size carried over from a build that did see it would be a claim rather than a
+    measurement.
+
+    `temporalCoverage` is the years the money covers, not the years the rows were written — the
+    table carries no finer date than the year, and it is the question anyone searching for
+    finance data is asking."""
+    years = [year(r.get("start_year")) for r in fin] + [year(r.get("end_year")) for r in fin]
+    return structured_data.dataset(
+        name=f"Data Landscapers non-state finance — {name}",
+        description=copy_md("finance", "dataset-place", name=name),
+        url=f"{SITE_BASE}/countries/{code}/finance.html",
+        csv_url=f"{SITE_BASE}/countries/{code}/{csv_name}",
+        csv_bytes=structured_data.bytes_of(out_dir / csv_name),
+        records=len(fin),
+        fields=finance_field_dictionary(),
+        entity=structured_data.place(code, name),
+        temporal=structured_data.year_span([y for y in years if y is not None]),
+        modified=edition or None,
+        version=edition or None,
+        part_of=f"{SITE_BASE}/finance/",
+        extra_keywords=("Development finance", "Non-state finance", "Digital infrastructure"))
+
+
+def finance_field_dictionary() -> list[dict]:
+    """`variableMeasured` for a finance table, from the one hand-maintained dictionary every
+    finance page links — the arrangement `publish_finance_csvs` chose deliberately over
+    fifty-four copies of one schema."""
+    fd = SITE / "metadata" / METADATA_CSV
+    if not fd.exists():
+        return []
+    with open(fd, encoding="utf-8-sig", newline="") as fh:
+        return structured_data.fields_from(list(csv.DictReader(fh)))
 
 
 def catalogue_dataset(code: str, name: str, out_dir: Path, cat_csv: str,
@@ -719,6 +767,8 @@ def build(iso: str) -> list[Path]:
             feedback=feedback(f"{name} — non-state finance",
                               f"{SITE_BASE}/countries/{iso}/finance.html"),
             unit="country",
+            jsonld=finance_dataset(iso, name, out_dir, fin, csv_names["csv_name"],
+                                   csv_names["csv_edition"]),
             fin_total=f"{sum(amounts):,.0f}",
             y0=(min(ys) if ys else "&mdash;"), y1=(max(ys) if ys else "&mdash;"),
             styles=styles(2, "country.css", "datatable.css"),
