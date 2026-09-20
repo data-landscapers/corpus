@@ -92,6 +92,28 @@ try:
     check("one open number keeps the whole folder", s["job-88-77"], "live")
     check("a number in neither register is unresolved", s["job-999"], "unresolved")
 
+    print("\na closed name is not enough on its own")
+    # Note 40: the first prune deleted two folders whose names were struck jobs and whose files
+    # were the only copy of an open job's input. A name-only test cannot see that.
+    r = tmp / "still-needed"
+    build(r, open_jobs=(121,), closed_jobs=(96, 105, 107, 116))
+    for n in ("job-96-116", "job-105", "job-107"):
+        item(r, n)
+    io.open(r / "housekeeping-jobs.md", "w", encoding="utf-8").write(
+        "# register\n\n121. **an open job whose input is `prepared\\job-105\\"
+        "entity-fragments.csv` and `prepared/job-96-116/entity-variants.csv`**\n\n")
+    s = states(r)
+    check("a folder an open job still names is waiting", s["job-96-116"], "live")
+    check("with a backslash path too", s["job-105"], "live")
+    check("and a folder nobody names stays spent", s["job-107"], "spent")
+
+    r = tmp / "closed-mention"
+    build(r, closed_jobs=(107,))
+    item(r, "job-107")
+    io.open(r / "housekeeping-jobs-resolved.md", "w", encoding="utf-8").write(
+        "# resolved\n\nx107. **done; its input was `prepared/job-107/x.csv`**\n\n")
+    check("a closed job naming it does not save it", states(r)["job-107"], "spent")
+
     print("\nthe drop lists, which carry their own answer")
     r = tmp / "drops"
     build(r)

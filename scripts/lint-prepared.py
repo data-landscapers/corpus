@@ -22,6 +22,14 @@ R-line, the `-drops-absorbed-` rename for an acquisition drop list — so establ
 handover is spent needs no OSINT process file and stays inside the interface. That is the
 whole reason this is CORPUS's chore and not OSINT's.
 
+**A closed name is necessary and not sufficient** *(note 40, 2026-09-20)*. The first prune
+deleted `job-96-116/` and `job-105/` on the strength of their names — 96, 116 and 105 were all
+struck — and their files were the registered inputs to housekeeping **121 and 122**, which were
+open, and were the only copy. OSINT lost two days of a backlog session to it. So every item is
+first tested against the **open** entries of both registers: one that still names it is waiting,
+whatever its folder is called. The registers write the path both ways round, so the folder name
+is matched with either separator.
+
 What it resolves, and how:
 
 - **`job-NN`, `job-NN-MM`** — every number in the name is looked up in the housekeeping
@@ -103,12 +111,42 @@ def closer_of(path: str, share: str) -> str:
     return ""
 
 
+OPEN_JOB = re.compile(r"^(\d+)\.\s", re.M)
+OPEN_R = re.compile(r"^- \[ \] \*\*(R\d+[a-zA-Z]?)\b", re.M)
+
+
+def cited_by_open(name: str, src: dict) -> str:
+    """What open register entry names this item, or an empty string.
+
+    Both registers write the path either way round (`prepared\\job-105\\…` and
+    `prepared/job-105/…`), so the folder name alone is matched and both separators are
+    accepted. Only the entries that are still **open** are searched: a closed job naming the
+    folder is the ordinary case and is what makes it spent."""
+    for text, pat, what in ((src["open"], OPEN_JOB, "housekeeping job"),
+                            (src["register"], OPEN_R, "review line")):
+        for m in pat.finditer(text):
+            nxt = pat.search(text, m.end())
+            body = text[m.start(): nxt.start() if nxt else len(text)]
+            if re.search(r"prepared[\\/]%s\b" % re.escape(name), body):
+                return f"{what} {m.group(1)}"
+    return ""
+
+
 def verdict(name: str, path: str, share: str, src: dict) -> tuple[str, str]:
     """`(state, why)` for one entry in `prepared/`. State is spent, live or unresolved."""
     if DROPS_ABSORBED.match(name):
         return "spent", "renamed `-drops-absorbed-`, which is what OSINT's close does to it"
     if DROPS_LIVE.match(name):
         return "live", "an acquisition drop list not yet absorbed"
+
+    # **A folder's name is not the whole of who needs it** *(note 40, 2026-09-20)*. The first
+    # prune deleted `job-96-116/` and `job-105/` because 96, 116 and 105 were all struck — and
+    # their files were the registered inputs to jobs 121 and 122, which were open, and were the
+    # only copy. So the closed-name test is necessary and not sufficient: an item still named by
+    # an **open** entry in either register is waiting, whatever its folder is called.
+    named = cited_by_open(name, src)
+    if named:
+        return "live", f"still named by {named}, which is open"
 
     m = JOB_DIR.match(name)
     if m:
