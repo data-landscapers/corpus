@@ -38,10 +38,12 @@ python scripts/log-line.py --start build
 python scripts/lint-osint-freshness.py    # 0 fresh · 1 stale or regressed · 2 nothing readable
 python scripts/lint-interface.py          # 0 the interface holds · 1 a read outside it
 python scripts/lint-notes.py              # 0 every open note names what it bears on
+python scripts/lint-prepared.py           # 0 no spent handover is still in prepared/
 ```
 
 - **The freshness lint reports and never stops the run.** A `STALE` or `UNREADABLE` line goes in the run's message to Bill and the build continues.
 - **The interface lint stops a read outside `raw/`, `wiki/`, `lookups/` and the mirror's git metadata** (`CLAUDE.md` → *The OSINT repo is read-only*).
+- **The prepared lint says what the share is holding that is already spent.** A handover leaves `prepared/` when the job it was cut for closes; the closure signal is in the share, so this can tell without opening anything of OSINT's. Prune what it names, in the commit that records the close.
 - **The notes lint fails on `notes-for-osint.md`**, which Corpus writes, and reports on `notes-for-corpus.md`, which OSINT writes.
 - **A resumed run re-stamps the clock**, so its duration is that sitting: say in the log line that it resumed, and use `--since` where the whole-job figure is the one worth having.
 - **The sentinel exists for exactly as long as a run is unaccounted for.** `RENDER.md` Step 0 refuses to render while it is present. Never hand-remove it.
