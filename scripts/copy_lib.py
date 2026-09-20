@@ -182,8 +182,20 @@ def check(page: str, keys: list[str]) -> None:
 if __name__ == "__main__":                      # a quick look at what is where
     import sys
     files = sorted(CONTENT.glob("*.md")) if len(sys.argv) < 2 else [CONTENT / f"{sys.argv[1]}.md"]
+    named = len(sys.argv) > 1
     for f in files:
-        blocks = load(f.stem)
+        # Not every file in content/ is keyed copy. `progress-countries.md`,
+        # `progress-topics.md` and `changelog.md` are whole prose documents their own
+        # renderer reads, so the inventory sweep reports them and moves on; naming one
+        # still raises, because then the caller believes it holds keys.
+        try:
+            blocks = load(f.stem)
+        except ValueError as exc:
+            if named:
+                raise
+            print(f"{f.stem:16s}   - whole-document prose, no '## key' blocks ({exc})"
+                  .replace(f"{f.name}: ", ""))
+            continue
         strip = lambda s: len(re.sub(r"<[^>]+>", " ", s).split())
         print(f"{f.stem:16s} {len(blocks):3d} blocks {sum(strip(v) for v in blocks.values()):5d} words")
         for k, v in blocks.items():
