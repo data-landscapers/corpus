@@ -23,6 +23,13 @@ diff of 561 files is a poor place to discover.
 block list, a bare scalar, a value spanning lines, a doubled key, an `entities:` line
 outside the frontmatter — each is reported and skipped, never interpreted.
 
+**Selecting and refusing are different jobs, and the selector is the blunt one.** `scan()`
+picks a file by tokenising its `entities:` value, not by looking for `[slug]`; `rewrite()`
+alone decides whether the form is one it understands. They were once the same test, and a
+carrier written in the plain flow form `entities: [afdb, x]` was therefore dropped before
+the refusal path could name it — not refused, missed, which is the one outcome a report
+cannot show (`notes-for-corpus` 37, 2026-09-20).
+
 **The expected file list is an input, not an output.** Given `--expect`, a path the tree
 carries and the list does not means something has started writing the variant again since
 the list was cut; a path the list carries and the tree does not means the record moved.
@@ -51,6 +58,9 @@ KEY = "entities"
 # items are each bracketed. `reference.md` §1.
 LINE_RE = re.compile(r"^entities:[ \t]*\[(.*)\][ \t]*$")
 ITEM_RE = re.compile(r"\[\s*([^\[\]]+?)\s*\]")
+# What `scan()` selects on, and deliberately not `ITEM_RE`. Any run of characters that is
+# not list punctuation, so a slug is found whatever form the value is written in.
+TOKEN_RE = re.compile(r"[^\[\],\s'\"]+")
 TREES = ("raw", "wiki")
 
 if hasattr(sys.stdout, "reconfigure"):
@@ -137,8 +147,51 @@ def rewrite(text, mapping):
     return "\n".join(lines), True, None
 
 
+def read_text(path):
+    return open(path, "rb").read().decode("utf-8", "replace")
+
+
+def entities_value(text):
+    """The frontmatter's `entities:` value, continuation lines included, or None.
+
+    The value, not the line: a block list keeps its slugs on the lines *after* the key, and
+    a selector that reads only the key line cannot see them. Continuation is anything
+    indented or starting a list item; a key at column 0 ends it.
+    """
+    lines = text.split("\n")
+    span = frontmatter_span(lines)
+    if span is None:
+        return None
+    first, last = span
+    for i in range(first, last):
+        line = lines[i].rstrip("\r")
+        if not line.startswith(KEY + ":"):
+            continue
+        out = [line.split(":", 1)[1]]
+        for j in range(i + 1, last):
+            s = lines[j].rstrip("\r")
+            if s.strip() and s[0] in " \t-":
+                out.append(s)
+                continue
+            break
+        return "\n".join(out)
+    return None
+
+
+def mentions(value, wanted):
+    """True if an `entities:` value names one of `wanted`, in whatever form it is written.
+
+    **This is the selector and it is blunter than `rewrite()` on purpose.** Selecting with
+    `ITEM_RE` — or with an `"[%s]" % slug` substring test over the file — hands `rewrite()`
+    only the files already in the canonical form, so the refusal path, which is the whole
+    report, is never reached: a carrier written `entities: [afdb, x]` is not refused, it is
+    *missed*. Tokenising means such a file is selected and then refused by name.
+    """
+    return any(t in wanted for t in TOKEN_RE.findall(value))
+
+
 def scan(root, mapping, trees=TREES):
-    """Every file under the trees whose `entities:` line names one of the variants."""
+    """Every file under the trees whose `entities:` value names one of the variants."""
     wanted = set(mapping)
     out = []
     for tree in trees:
@@ -150,19 +203,10 @@ def scan(root, mapping, trees=TREES):
                 if not fn.lower().endswith(".md"):
                     continue
                 path = os.path.join(dirpath, fn)
-                text = open(path, "rb").read().decode("utf-8", "replace")
-                if not any(("[%s]" % s) in text for s in wanted):
+                value = entities_value(read_text(path))
+                if value is None or not mentions(value, wanted):
                     continue
-                lines = text.split("\n")
-                span = frontmatter_span(lines)
-                if span is None:
-                    continue
-                for i in range(span[0], span[1]):
-                    if lines[i].rstrip("\r").startswith(KEY + ":"):
-                        if any(item in wanted
-                               for item in ITEM_RE.findall(lines[i].rstrip("\r"))):
-                            out.append(os.path.relpath(path, root).replace(os.sep, "/"))
-                        break
+                out.append(os.path.relpath(path, root).replace(os.sep, "/"))
     return sorted(out)
 
 
@@ -209,8 +253,8 @@ def main(argv=None):
                                "every slug in the map is already the canonical one)"))
     found = scan(root, {**mapping, target: target}, trees)
     carriers = [p for p in found
-                if any(("[%s]" % v) in open(os.path.join(root, p), "rb")
-                       .read().decode("utf-8", "replace") for v in mapping)]
+                if mentions(entities_value(read_text(os.path.join(root, p))) or "",
+                            set(mapping))]
 
     drift = []
     if args.expect:
@@ -224,8 +268,7 @@ def main(argv=None):
     changed, refused, problems = [], [], []
     for rel in carriers:
         path = os.path.join(root, rel)
-        raw = open(path, "rb").read()
-        text = raw.decode("utf-8", "replace")
+        text = read_text(path)
         new, did, why = rewrite(text, mapping)
         if why:
             refused.append("%s: %s" % (rel, why))
