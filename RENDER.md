@@ -1,21 +1,21 @@
 ---
 type: runbook
 title: Render the site — instruction for Claude Code
-last_reviewed: 2026-08-28
+last_reviewed: 2026-09-20
 ---
 
 # Render the site — runbook for Claude Code
 
-*(Job 2. Renders every site page from Corpus-owned `outputs/`, which is already in the repo and committed — there is no pull and no second tree. Read `documentation/design.md` §8 and §9 first. OSINT is read-only and is not touched by any step here. To run this straight after `BUILD.md` as one job, use `CYCLE.md`; this file runs alone exactly as written, Step 0 included.)*
+*(Job 2. Renders every site page from Corpus-owned `outputs/`, already in the repo and committed — no pull, no second tree. Read `documentation/design.md` §8 and §9 first. **`documentation/render.md` is why each step is where it is and what each check catches**; this file is what to run. OSINT is read-only and is not touched by any step here. To run this straight after `BUILD.md` as one job, use `CYCLE.md`; this file runs alone exactly as written, Step 0 included.)*
 
 ## Prerequisites
 
-- Python 3 with WeasyPrint and its system libraries. On this machine, MSYS2 at `C:\msys64` provides Pango/Cairo/HarfBuzz, and `C:\msys64\mingw64\bin` sits on the user PATH **after** the Python entries but **before** `C:\Program Files\Tesseract-OCR` — MSYS2 ships its own `python.exe`, and Tesseract ships older Pango DLLs (`cannot load library … error 0x7f`). A missing/unloadable shared library means check that ordering first.
+- Python 3 with WeasyPrint. `C:\msys64\mingw64\bin` must sit on PATH **after** the Python entries and **before** `C:\Program Files\Tesseract-OCR`; a shared-library error means check that ordering first.
 - Run every command from the repo root. Commit after each coherent step.
 
 ## Running unattended — a run never stops to ask
 
-**RENDER puts no question mid-stream.** A run finishes or fails; a failure is an error it cannot get past, never a decision it would rather Bill made. Where it wants his attention, it finishes the job and writes a block in `logs/messages-for-bill.md`. RENDER judges nothing about its input by design; its one hard stop is Step 0.
+**RENDER puts no question mid-stream.** A run finishes or fails; a failure is an error it cannot get past, never a decision it would rather Bill made. Where it wants his attention it finishes the job and writes a block in `logs/messages-for-bill.md`. **RENDER judges nothing about its input** — fitness to publish is BUILD's — and its one hard stop is Step 0.
 
 ## Step 0 — a finished build behind you, then a clean tree
 
@@ -25,7 +25,7 @@ Stamp the clock first, before the gate, so a Step 0 stop logs a duration too:
 python scripts/log-line.py --start render
 ```
 
-**Check the build finished before rendering a line of it.** A build that died mid-stage-4 leaves a tree that renders perfectly — every check passes, and the units that never got their sources are silently a cycle out of date. Nothing downstream can see that, so the test is here and it fails the run:
+**Check the build finished before rendering a line of it.** A build that died mid-stage-4 renders perfectly and is silently a cycle out of date:
 
 ```bash
 # 1. a build that started and never reported itself leaves its sentinel behind
@@ -43,11 +43,9 @@ fi
 echo "build ok: ${build_line%% · *}"
 ```
 
-**Check 1 is the mechanism; the other two are cheap corroboration.** The sentinel survives exactly one thing — a session that died without saying so — and asserts the condition directly. (A timestamp test cannot: other jobs legitimately commit `outputs/`, and a died build commits its finished units and writes nothing, so timestamp logic fails in both directions.)
+**All three log and stop** — `python scripts/log-line.py render "stopped at step 0: <which> — not rendered"` — and write a message. **The repair is to run BUILD**, which resumes where it stopped. **Never delete the sentinel or hand-write a log line to get past this**: forging either publishes the half-built tree the check exists to catch.
 
-**All three log and stop** — `python scripts/log-line.py render "stopped at step 0: <which> — not rendered"` — and write a message. **The repair is to run BUILD**, which resumes where it stopped. Never delete the sentinel or hand-write a log line to get past this: both are assertions that a build finished, and forging one publishes the half-built tree the check exists to catch.
-
-Then commit anything else outstanding, **after the gate, not before** — running it first would satisfy check 3 by committing the very work whose being uncommitted is the evidence:
+Then commit anything else outstanding, **after the gate, not before**:
 
 ```bash
 git add -A && git diff --cached --quiet || git commit -m "Commit outstanding work before render"
@@ -59,15 +57,9 @@ git add -A && git diff --cached --quiet || git commit -m "Commit outstanding wor
 git rev-parse HEAD > BUILT-FROM
 ```
 
-Records the Corpus commit this render was cut at. No page prints it any more; it is the build's own record, kept because it costs one line.
-
 ## Step 2 — render every report to HTML + PDF
 
-`render.py` takes one markdown file and writes HTML + PDF into `site/…`, the output tree taken from the source path.
-
-**Render everything. RENDER does not judge its input.** Fitness to publish is BUILD's (BUILD.md → *Narrative integrity*); a render that second-guesses it is a weaker copy of that judgement in the wrong place.
-
-**`render.py` decides whether a document has moved** — design.md §9: *an edition is cut when the content changes, not when a build runs*. It digests each source's body below its frontmatter, reads back the digest off the page it wrote last time, and leaves an unchanged document alone — page and PDF both. Most documents report `edition unchanged` on most runs; a held-off document was handled, exits zero, and counts as rendered. A document that moves twice in a day gets a `-2`-suffixed second edition, never an overwrite. **A held-off document is not restyled**: the PDF embeds the stylesheet, so a CSS or template change reaches new editions only — to push one through the whole set, pass `--force`, which cuts every edition and is a decision, not a habit.
+`render.py` writes HTML + PDF into `site/…`, the output tree taken from the source path. **Render everything.** An unchanged document keeps its edition and is not re-cut; `--force` cuts every edition and is a decision, not a habit.
 
 ```bash
 rendered=0; failed=0
@@ -77,14 +69,13 @@ for md in outputs/reports/*/*-status.md outputs/reports/*/*-progress.md outputs/
   if python scripts/render.py "$md"; then rendered=$((rendered+1)); else echo "RENDER FAIL: $md"; failed=$((failed+1)); fi
 done
 
-# The bulletin — see Bulletins below.
+# The bulletin — see The bulletin below.
 for md in outputs/bulletins/*-bulletin.md; do
   [ -e "$md" ] || continue
   if python scripts/render.py "$md"; then rendered=$((rendered+1)); else echo "RENDER FAIL: $md"; failed=$((failed+1)); fi
 done
 
 # Coverage assertion: the patterns above must have reached every report document.
-# `progress-narrative-archive.md` is working material, not a document — see below.
 present=$(find outputs/reports outputs/topics outputs/bulletins -name '*.md'           ! -name 'progress-narrative-archive.md' | wc -l)
 missed=$((present - rendered - failed))
 echo "rendered $rendered of $present report documents ($failed failed, $missed never listed)"
@@ -98,11 +89,7 @@ if [ "$failed" -gt 0 ]; then
 fi
 ```
 
-**The count is asserted because a shrinking loop is silent**: a rename moves filenames out of the glob and the loop quietly renders a subset with a zero exit, while `site/` — never purged — serves the old pages indefinitely. The assertion enumerates without a pattern, so no rename can shrink the set in silence. `progress-narrative-archive.md` is excluded **by exact filename** — it is the per-chapter narrative the indicator frame archived as drafting material, published nowhere — so the property stands: nothing but that one name is forgiven.
-
-**The two ways of coming up short are different failures.** A document the loop **never listed** stops the run — the silent-shrink case, invisible from the output: log, message, no deploy. A document **tried and failed** does not — one page that will not typeset keeps its previous render either way, so withholding the other pages protects nothing: note it, render on, deploy, list it in the message.
-
-The set was 251 documents at 2026-09-07 (174 place + 76 topic + the bulletin), all HTML and PDF — but **the assertion is what to trust, not the number**.
+**A document the loop never listed stops the run; a document tried and failed does not** — note it, render on, deploy, list it in the message. Topic documents land in `site/topics/{slug}/` and the loop already reaches them; **if the taxonomy grows a slug, check the link, not just the box** — every `/topics/…` href in `site/index.html` against `site/topics/…/index.html`.
 
 ## Step 3 — build the home page
 
@@ -110,7 +97,7 @@ The set was 251 documents at 2026-09-07 (174 place + 76 topic + the bulletin), a
 python scripts/home.py            # -> site/index.html, site/countries/, site/topics/
 ```
 
-Reads catalogue counts from `outputs/catalogue/` (`stats.json`, falling back to counting `raw-catalogue.csv`). **One command, three pages**: the country matrix and taxonomy matrix are pages of their own, and the home page keeps each section's heading, intro and link. All three are the same object built from the same counts. The topics page prints the whole taxonomy in `lookups/taxonomy.csv`'s order and wording, so it is the page that goes out of date when a subject is added there and nothing else changes.
+Stale place or topic labels mean `outputs/vocab/` wants refreshing from OSINT's `lookups/`.
 
 ## Step 4 — build the country, region and topic pages
 
@@ -120,13 +107,7 @@ python scripts/region.py          # every region  -> site/countries/{X__}/index.
 python scripts/topic-page.py      # every topic   -> site/topics/{slug}/index.html
 ```
 
-**`topic-page.py` runs after Step 2** — it writes the landing page each topic box opens by reading what Step 2 actually rendered; run before the documents exist, it advertises nothing. **So does `region.py`**, for the same reason: its Reports section reads the PDFs Step 2 already wrote.
-
-**One field dictionary, not one per country.** `site/metadata/non-state-finance-metadata.csv` describes the non-state finance schema for every table on the site: hand-maintained by Bill, generated by nothing. `country.py` and `region.py` both link it and refuse to build if it is missing — an absence there is every finance page's field-dictionary link broken at once. It carries no edition date: it describes a shape, not a finding.
-
-**The finance CSVs are dated editions** — `{ISO3}-nonstate-{edition}.csv` beside each country or region page, on §9's rule: a new edition only when the bytes move, retained edition over edition, `-2` for a second in a day. Pages are written after the CSVs because they link them by name. The catalogue CSV is deliberately outside the edition rule.
-
-**`country.py` builds the 54 country pages; `region.py` builds the eight region and bloc pages the same way, minus a status report** (`REPORT-REGION.md`: a region issues a monthly update and a progress report, never a status). Both write into `site/countries/`, one directory of place pages side by side — `region.py` reuses `country.py`'s own machinery (report rows, the finance pivot, the catalogue cut) rather than a second implementation of it (`scripts/region.py`'s module docstring). The home page's region boxes (`scripts/home.py`, `region_boxes()`) link here as of 2026-09-02, in place of the catalogue filter they opened before a region had a page of its own to open.
+**`topic-page.py` and `region.py` run after Step 2** — both read what Step 2 rendered. The finance CSVs are dated editions, written before the pages that link them by name.
 
 ## Step 4a — build the two progress tables
 
@@ -134,26 +115,7 @@ python scripts/topic-page.py      # every topic   -> site/topics/{slug}/index.ht
 python scripts/progress.py        # -> site/progress/ and site/progress/countries/
 ```
 
-**One builder, two readings of one grid.** Every country progress report answers the
-same fixed frame of 121 indicators, so the answers form a 54 &times; 121 grid with a value
-in every cell; `/progress/` counts it down the columns (per indicator, how many
-countries at each value) and `/progress/countries/` down the rows. Nothing is computed
-beyond the tally, and every topics row is asserted to sum to 54 and every countries row
-to 121 — a build where one does not has misread a report rather than found something,
-and stops.
-
-**It reads the published reports, not `indicators.csv`.** The per-country CSV holds only
-the rows carrying evidence, so *No evidence* would become a subtraction this page
-performed rather than a number a report states. Parsing the markdown costs a table walk
-and buys the property that these counts cannot disagree with the report a reader clicks
-through to.
-
-**Runs after Step 2**, like `topic-page.py` and `region.py`: every indicator row links a
-bookmark inside a topic progress report, and `check_links()` refuses to build if a
-report is missing or has lost the `id` — a dead anchor on the site's most linked-to page
-is a defect, not a cosmetic. It writes no edition and reads no `outputs/` beyond the
-reports, so it is safe to run on its own after an edit to `content/progress-topics.md`
-or `content/progress-countries.md`, which is the usual reason to run it.
+Also after Step 2. It writes no edition, so it is safe to run alone after an edit to `content/progress-topics.md` or `content/progress-countries.md`.
 
 ## Step 5 — build the catalogue page
 
@@ -162,92 +124,28 @@ python scripts/catalogue.py       # -> site/catalogue/index.html, data/, raw-cat
 python scripts/alerts.py          # -> site/alerts/ — the two pages and the two files the Worker reads
 ```
 
-Reads `outputs/catalogue/raw-catalogue.json` and the vocabularies in `outputs/vocab/`. Metadata only, each record linking to its publisher. Stale place/topic labels mean `outputs/vocab/` wants refreshing from OSINT's `lookups/`. **The record count is not a fixed expectation and no figure is written here** — it was `~10,700` for weeks after the catalogue passed 16,000, which is a statement a render prints past every night without anything noticing. The count for the last build is in `outputs/catalogue/stats.json` and on the previous render's own log line. **The serving shape is settled**, not pending: decided in `documentation/catalogue-serving-shape.md` and built in four parts recorded in `documentation/archived/catalogue-split-plan.md`, all of them live since 2026-09-08.
-
-**The page's data is split in two** (`documentation/archived/catalogue-split-plan.md`, Part 3), and `site/catalogue/data/` is both halves:
-
-- **`filter-index.json`**, fetched once, ~2.3 MB and 0.68 MB gzipped: everything a facet, a count or a sort needs and nothing a row shows. Dates and publishers dictionary-encoded, places, topics and actors as offsets into vocabularies, and one A–Z rank per record.
-- **`rows-NNN.json`**, 500 records each, ~157 KB and 53 KB gzipped: title, URL, slug and hero, plus the columns only the download needs. Fetched for the rows about to be drawn and no others.
-
-**Both are tracked**, unlike the two shard indexes, and the reason is that the page cannot draw a single row without them: keeping them on Pages is what makes a `git push` enough to serve a working catalogue. They cost about what `catalogue-data.js` cost before them, so the churn is unchanged. Moving them to R2 remains available and is a decision on its own, not a step anyone is waiting on.
-
-**The download carries ten columns, and the catalogue holds more than that.** `slug`, `lens`, `body_completeness`, `finance`, `artefact`, `words` and `url_note` came out of `raw-catalogue.csv`, the country cuts and the browser's own selection on 2026-09-09 (`design.md` §2, argued at `build-catalogue.py` → `CSV_COLS`). The page reads the column list from that file by syntax tree, so a cut in a reader's browser and the published file cannot disagree — and `outputs/catalogue/catalogue-internal.csv`, which is the same rows plus the slug and the note, is what the report layer and `status_lib` read. Neither it nor `raw-catalogue.json` is copied into `site/`.
-
-**The whole-catalogue CSV says it is working.** It is a plain link, so the browser fetches all 7 MB before it offers a save dialog and the button looks dead for about five seconds; the page prints the file's size beside it and *Downloading, please wait* on the click, and swallows a second press inside six seconds rather than starting a second copy.
-
-**The chunk files are internal.** They are named, sized and shaped for this page and will change without notice; `raw-catalogue.csv` is the supported way to consume this data. `catalogue.py` says so where it writes them.
-
-**`raw-catalogue.json` is no longer published** (split plan Part 4). It existed so the page's export could cut a selection out of a whole published record; the chunks carry those columns now, so the export rebuilds each record instead and 17 MB left `site/` and every future commit. The whole-catalogue JSON *download* is still offered — the page cuts it in the browser from the same chunks, which is why it is a button rather than a link, and why it is the one download that needs JavaScript. `outputs/catalogue/raw-catalogue.json` is untouched: it is the file everything is built from.
-
-**The first screen is written into the page**, not left for the browser: the newest hundred rows and the three facet menus come out as markup, so the page shows results before anything has been fetched and with JavaScript off entirely (Part 1). That markup is written by Python and redrawn by JavaScript, and the two have to agree — `scripts/test_catalogue_firstscreen.py` runs the page's own renderers over the filter index and the first chunk and compares. `scripts/test_catalogue_index.py` checks the encoding itself against `raw-catalogue.json`, record by record, and needs no node.
-
-**Two of the three need node, and a renumbering of the row's own fields is exactly what gets made on a machine without it.** A catalogue row is a positional array read in four places — `pack_rows` packs it, `row_html` draws it, `split` projects four fields into the chunks, `rowOf` puts it back for `rowHTML` — and a slot that shifts in three of them draws another record's URL under this record's title, silently. `scripts/test_catalogue_rowshape.py` reads all four out of `catalogue.py` and compares the positions rather than the markup. It is not a replacement for the node pass; it is the part of it that always runs.
+**`alerts.py` runs after `catalogue.py`**, from the same `raw-catalogue.json`. Then the tests:
 
 ```bash
 python scripts/test_catalogue_rowshape.py     # the four readings of a row agree on its fields
 python scripts/test_catalogue_index.py        # the split payload holds the whole catalogue
 python scripts/test_catalogue_firstscreen.py  # baked markup == what the page draws (needs node)
 python scripts/test_catalogue_export.py       # every record rebuilt == raw-catalogue.csv (needs node)
+python scripts/test_alerts.py                 # the backfill rule, the record id, the published columns
+python scripts/test_alerts_worker.py          # the Worker's pure core (needs node, or `pip install dukpy`)
 ```
 
-**The A–Z sort is decided at build time now**, because the page no longer holds the titles: `catalogue.py` → `coll()` ranks them and ships one integer per record. It approximates the browser's own collation and does not reproduce it — measured against Chrome's `localeCompare` on 2026-09-08, over the 20,267 titles held that day: 1.6% of adjacent pairs sorted the other way and the first A–Z screen shared 91 rows of 100. That is a reading taken once, not a figure the build maintains. What it buys is that a `#sort=az` link means the same thing for every reader, which `localeCompare` never did.
-
-### The alert pages — straight after the catalogue
-
-`scripts/alerts.py` writes `site/alerts/`: the sign-up page, the manage page, and the two data files the `corpus-alerts` Worker reads. It runs **after** `catalogue.py` and from the same `outputs/catalogue/raw-catalogue.json`, so the alert menus carry the vocabulary the catalogue's facets carry. `documentation/catalogue-alerts.md` is the design; `workers/alerts/README.md` points at it from the code.
-
-**`recent.json` is 28 rolling days and is rewritten every render.** About 4,800 records and 1.8 MB, 0.56 MB gzipped to a reader; the Worker fetches it once a week and caches it for fifteen minutes. It is tracked, like the catalogue's `data/` payload, because a `git push` has to be enough to make the alerts work. The window is 28 days rather than 14 because the send window catches up to 21 after a missed Monday and can only catch up over records the file still carries. A record is in it only if the **end** of its publication period is within 90 days of its ingest date — without that rule an alert would be mostly backfill, which is the figure in the script's own header.
-
-**Nothing in the file is unpublished.** Its columns are a subset of `build-catalogue.py`'s `CSV_COLS` plus a hash of the URL, and the test below asserts it rather than trusting the loop.
-
-**The Turnstile site key is a constant in `scripts/alerts.py`.** Until the widget exists the build prints a line saying the form will not submit; replacing the constant and re-rendering is step C4 of the design.
-
-```bash
-python scripts/test_alerts.py          # the backfill rule, the record id, the published columns
-python scripts/test_alerts_worker.py   # the Worker's pure core (needs node, or `pip install dukpy`)
-```
-
-**The second one is the Worker's whole test suite**, and it runs without Cloudflare: `workers/alerts/worker.js` is written in two halves with a marker line between them, and everything above it — what an alert id is, what matches, what the body says, what goes in the audience filter — is pure and is loaded straight into a JavaScript engine. Node is preferred and Duktape (`dukpy`) is the fallback, because node is not installed here and a Worker test that never runs is not a test. It skips with neither.
-
-### The names index — build it before the page
-
-`scripts/build-names-index.py` (BUILD stage 2b, from the workroot) writes `outputs/names/`: names keyed to stable document ids, in prefix shards the catalogue page fetches one at a time on search. `catalogue.py` packs the shard keys into the page and copies the shards to `site/catalogue/names/`. Shard count and index size track the catalogue and are not stated here for the same reason the record count above is not — the figures that stood in this line, `~208,000 names in ~1,900 shards`, had drifted to 4,655 shards and 47.6 MB by 2026-09-04.
+### The search indexes — built before the page
 
 ```bash
 python scripts/rebuild.py --catalogue                 # BUILD stage 2 + 2b: catalogue, then names
-python scripts/build-names-index.py --stats           # size profile, writes nothing (from .workroot)
-```
-
-### The title and hero index — the search itself
-
-`scripts/build-title-index.py` (BUILD stage 2d) writes `outputs/titles/`: every catalogue title and
-hero line, in prefix shards on the same machinery as the names index (`scripts/shard_lib.py` is the
-machinery, shared by both). Since 2026-09-08 this is where the page's title search happens — the
-per-row search blob no longer carries either field, and `catalogue.py` packs these shard keys into
-the page beside the names ones.
-
-**It reads `outputs/` and nothing else**, so unlike the names index it can be rebuilt without the
-vault to hand — which is the point, because after Part 3 of the split this *is* the search. It sits
-in stage 2 all the same, because that is when the catalogue it reads was written.
-
-```bash
 python scripts/build-title-index.py                   # -> outputs/titles/  (no vault needed)
-python scripts/build-title-index.py --stats           # size profile, writes nothing
 python scripts/test_title_index.py                    # word-aligned queries find their records
+python scripts/build-names-index.py --stats           # size profile, writes nothing (from .workroot)
+python scripts/build-title-index.py --stats           # the same for the title shards
 ```
 
-**What a query can and cannot reach is stated in that file's own header**, and it is a narrowing
-against the substring match it replaced: a search starting mid-word no longer matches. The two
-things that are *not* narrowings, because the page's key rule mirrors the builder's, are a query
-opening on a stopword and a query with accents on it.
-
-### Entity display names
-
-`scripts/build-entity-names.py` (BUILD stage 2c) writes `lookups/entity-names.csv` — a display name per entity slug, derived from the slug's own sources; `catalogue.py` writes a name for the unnamed rest at build time and ships it as `entpretty` (2026-09-08 — it used to be done in the reader's browser, and the baked first screen needs the labels here). Only the derived names join the search blob: a prettified one is the slug again, and the slug is already in it. **The file is meant to be corrected by hand**: `basis: hand` is never overwritten; `basis` (`acronym`/`full`/`partial`) and `sources` say how much to trust a row. It is Corpus's file: the slugs are OSINT's, how they are written is decided here.
-
-**`outputs/names/` and `outputs/titles/` are gitignored, and neither `site/catalogue/names/` nor `site/catalogue/titles/` is tracked** — the shards moved to R2 on 2026-09-08 (`documentation/editions-serving-shape.md`, `scripts/r2-sync.py`). `catalogue.py` still writes both into `site/` on every build, because that is what `r2-sync.py` uploads from; `--prune-local` deletes the local copy once the bucket has it, and until it runs they sit in the tree untracked. Do not `git add` them. `outputs/catalogue/doc-ids.csv` **is tracked and must stay so**: the append-only registry that keeps postings stable; rebuilding it renumbers every id and rewrites every shard.
-
-**The shards are exempt from §9, deliberately.** Nothing cites a shard; it is a derived lookup that must track the corpus or it is wrong. Shards are rewritten in place and stale ones deleted, in both trees — the one place "never purged" does not apply. Ids are append-only, and both writers compare before writing, so expect a handful of changed shards per cycle. A rebuild that changes all of them means the id registry was rewritten rather than appended to — that is the bug to look for.
+**Do not `git add` `site/catalogue/names/` or `site/catalogue/titles/`** — the shards are served from R2 and tracked in neither tree. `outputs/catalogue/doc-ids.csv` **is tracked and must stay so**: rebuilding it renumbers every id and rewrites every shard.
 
 ## Step 6 — build the non-state finance landing
 
@@ -255,34 +153,22 @@ opening on a stopword and a query with accents on it.
 python scripts/finance.py         # -> site/finance/index.html + all-nonstate-{edition}.csv
 ```
 
-The site nav's **Finance** link points here. **No deal count or headline total is stated here**, for the reason the catalogue count is not: the figure moves every cycle and a stale one in a runbook is a statement a render prints past without anything noticing — this line read `~1,230 deals` and `near US$91,000m` when the build had reached 1,386 and US$105,130m. `finance.py` prints both on the run that wrote them. **The all-Africa table is on the landing page itself**, on the same component as each country's `finance.html`; `finance.py` deletes any legacy `all.html` it finds, printing a line. `recipient_country` is ISO-3 in the CSV and a country name in the table, mapped via a `data-labels` attribute from `outputs/vocab/countries.csv`. The cross-country CSV is a dated edition on the same rule as the per-country ones.
-
-**The landing layout above the table is a placeholder awaiting design**; the table itself is finished and is what a reader came for.
-
 ## The prose
 
-**Every explanatory paragraph the site shows a reader lives in `content/`**, one markdown file per page type, named blocks under `##` headings, read by `scripts/copy_lib.py`:
+Every explanatory paragraph the site shows a reader lives in `content/`, read by `scripts/copy_lib.py`. **A missing key stops the build.**
 
 ```bash
 python scripts/copy_lib.py            # what is where: file, key, word count, placeholders
 python scripts/copy_lib.py home       # one file
 ```
 
-Three calls for three kinds of slot: `copy()` returns HTML; `copy_inline()` returns it without the wrapping `<p>` (raises if the block has grown to two paragraphs); `copy_md()` returns markdown untouched, for the emitters whose output `render.py` converts later.
-
-**A missing key stops the build** — no fallback, no empty string: a page quietly rendering without its explanatory paragraph looks finished and is not. **Placeholder values arrive pre-formatted** — a format spec inside a content file puts presentation logic back where it was taken out of, and fails at build time in what the editor thinks is plain text. Blocks carrying `{placeholders}` or branch-selection are still string constants in the builders; they move when a slot or variant per branch exists.
-
 ## The finance tables
 
-Both the per-country `finance.html` and the all-Africa table are drawn **in the browser** by `site/assets/js/datatable.js` reading the published CSV the page already offers — no `<tr>` per commitment. `site/assets/css/datatable.css` holds the styling, kept out of `main.css` because that file is a copy carrying its own provenance marker (`MAIN-CSS-FROM`). The cost is that neither table appears with JavaScript off, so both carry a `<noscript>` block naming the CSV: the data is never behind the script, only the table is.
-
-The component is a port of the Lab's datatable (`data-landscapers/assets/shared/` is canonical), driven entirely by `data-*` attributes documented in the file's own header. Two finance-specific behaviours: it parses CSV by character scan (quoted fields carry newlines), and it sorts blank amounts last in both directions (a missing figure is not a small one).
+Drawn in the browser by `site/assets/js/datatable.js` from the published CSV the page already offers.
 
 ```bash
 cd /tmp && npm install jsdom && node prototypes/datatable-test.mjs   # from a copy in that dir
 ```
-
-`prototypes/datatable-test.mjs` loads the two built pages into jsdom and asserts on what the component produced, then drives a filter, a no-hit search, and a numeric sort. jsdom has no layout, so the sticky header and column-width sync need a browser.
 
 > **Line endings, when building from a Cowork session.** `csv.writer` emits `\r\n`; Windows git normalises to LF on commit and Linux git does not, so a rebuild in the Cowork sandbox rewrites every published CSV with CRLF and git reports the whole file changed. A published edition must not be revised (§9), so **check for CR-only churn before committing a rebuild** and restore those files: `for f in $(git diff --name-only); do [ -z "$(git diff --ignore-cr-at-eol -- "$f")" ] && git checkout HEAD -- "$f"; done`. A `.gitattributes` would settle it permanently, but 186 tracked files already hold CRLF, so adding one renormalises them all at once — a decision for a session doing only that.
 
@@ -292,9 +178,7 @@ cd /tmp && npm install jsdom && node prototypes/datatable-test.mjs   # from a co
 python scripts/prune-editions.py --apply
 ```
 
-**A superseded edition is deleted unless somebody downloaded it** (`documentation/cloudflare.md`; forward-only from 2026-08-18). Retention exists for readers: a citation only exists if someone took the file. The current edition, anything ever fetched (crawlers included), anything superseded under a week, anything dated on or before 2026-08-18, and any undated download are never touched. It runs here, before Step 7's `git add site`, so deletions ride the same commit as the render that superseded them.
-
-**A refusal is a normal outcome and never fails the run.** The script exits 0 either way and declines wholesale — on a missing credential (it needs a Cloudflare API token with KV read scope, `documentation/cloudflare.md` → *Credentials*), an API error, an empty key listing or a stale-looking download record — printing `PRUNE: declined` with the reason. Persistent refusal means the Worker or token wants looking at; until then the rule is simply not in effect. Deletions are appended to `logs/deleted-editions.csv`, committed with the render.
+Before Step 7's `git add site`, so deletions ride the same commit. **A refusal is a normal outcome and never fails the run**: it prints `PRUNE: declined` with the reason and exits 0.
 
 ## Step 6b — put this render's editions in R2, and take them out of the tree
 
@@ -303,13 +187,7 @@ python scripts/r2-sync.py --apply
 python scripts/r2-sync.py --prune-local --apply
 ```
 
-**The dated editions and the names shards are served from R2, not from GitHub Pages** (`documentation/editions-serving-shape.md`). The URL is unchanged — the Worker serves the bucket at the path the file had under `site/` — so nothing a reader holds is affected, and §9 is untouched. This runs after Step 6a so that an edition the pruner has just retired is never uploaded, and before Step 7 so that the editions this render cut never enter git at all.
-
-**The second command deletes nothing it has not just read back out of the bucket**, at the same byte count and the same MD5, and it refuses wholesale rather than file by file. A failure at either line leaves the tree intact and the site serving — the Worker falls through to Pages for anything the bucket does not hold, which during a half-finished sync is the file itself.
-
-**It needs the R2 key pair** in `logs/.cloudflare-r2.json` or the environment (`documentation/editions-serving-shape.md` → *Credentials*), which is a different credential from the KV token Step 6a uses. Without it both lines print `R2: declined` and exit 1; the render is still publishable, the tree simply keeps its editions and grows against the 1 GB ceiling, so a persistent refusal wants acting on rather than living with.
-
-**On the first run after a change to what counts as an edition**, add `--check-serving`: it asks the live site which origin answered for a sample of keys. The selection rule exists in both `r2-sync.py` and the Worker and they have to agree; this is the only check that does not take their word for it.
+After 6a, before Step 7. Without the R2 key pair both lines print `R2: declined` and exit 1; the render is still publishable, but a persistent refusal wants acting on. **After a change to what counts as an edition**, add `--check-serving` on the first run.
 
 ## Step 6c — build the methodology pages
 
@@ -317,16 +195,7 @@ python scripts/r2-sync.py --prune-local --apply
 python scripts/methodology.py     # -> site/methodology/ + its four annexes
 ```
 
-**Five pages, five markdown files.** `/methodology/` and its annexes
-`document-lifecycle/`, `process-inventory/`, `changelog/` and `lookups/` are `content/`
-converted and wrapped in the site chrome. **The lookups annex also reads data**
-*(2026-09-11)*: its tables are drawn at build time from the files they list —
-`lookups/`, the sweep lists BUILD stage 1 snapshots into `outputs/vocab/`, and
-`site/metadata/` — and each is offered as a CSV beside the page. Nothing else
-here cares whether the rest of this runbook ran. The script's own header is the description; `PAGES`
-in it is the list, and adding a page means a row there and a content file,
-nothing else — `changelog/` was added that way. It writes no edition and nothing here is citable, so it is safe to
-run on its own after an edit to `content/` — which is the usual reason to run it.
+Writes no edition; safe to run alone after an edit to `content/`.
 
 ## Step 6d — the sitemap
 
@@ -334,25 +203,16 @@ run on its own after an edit to `content/` — which is the usual reason to run 
 python scripts/sitemap.py         # -> site/sitemap.xml + site/robots.txt
 ```
 
-**Last of the writers, because it reads the tree the others left.** Every HTML page under its own canonical address; a redirect or a page canonical to somewhere else is left out. Both files are rewritten only when their bytes change. The script's header is the description.
+Last of the writers, because it reads the tree the others left.
 
 ## Step 7 — verify, commit, deploy
 
-**Check that every link leaving the site opens a new tab, before the push and not after.** It is the one page-wide property nothing else asserts: `target` is one attribute among 55,000 anchors, and a builder that stopped applying it looks exactly like a page nobody edited.
-
 ```bash
 python scripts/lint-external-links.py
-```
-
-It checks the built tree *and* the builders — a script that takes its chrome from `chrome_lib` and writes a page without `external_links()` is reported before it has rendered anything. Both directions are findings (`documentation/house-style.md` → *Links*). **A finding stops the push**: the repair is to fix the builder and re-run the step that wrote the page, or `render.py --repage` for a report, neither of which cuts an edition.
-
-**And check that every page still describes itself, and agrees with itself.** The same argument: the `application/ld+json` block each report carries — and the `Dataset` block on the catalogue, the finance table and every place's cut of both — is invisible on the page, in the PDF and in any diff anyone reads, and its only consumer is a crawler that never reports back.
-
-```bash
 python scripts/lint-structured-data.py
 ```
 
-Every assertion is *this page disagrees with itself* or *this value is not the type it claims to be* — the description in the block against the one in the meta tag, `url` against the page's own canonical, a named download against the file the page actually offers and its real size on disk, and `datePublished` against being a date at all, which a `-2` edition is not (§9). On a dated edition it also checks `version` and the download against the page's own `dl-artefact` row, so a finance page cannot advertise one edition in its structured data and name another in its colophon. And it fails on a block that is neither shape, which is what a builder growing its own structured data instead of calling `structured_data.py` looks like. The script's header says why each check is there, and `scripts/test_lint_structured_data.py` holds the cases proving it fails where it should. **A finding stops the push**, and the repair is to fix the builder and re-run the step that wrote the page — `render.py --repage` for a report — which cuts no edition.
+**A finding from either stops the push.** The repair is to fix the builder and re-run the step that wrote the page — `render.py --repage` for a report — neither of which cuts an edition.
 
 ```bash
 git add site
@@ -361,35 +221,25 @@ git commit -m "Render site from Corpus-owned outputs: reports, home, country pag
 git push
 ```
 
-**Step 0 is the only STOP in this runbook.** RENDER does not judge fitness to publish — that is BUILD's, and a check here would be a second, weaker copy of it that halts every render to protect nothing.
+**Step 0 is the only STOP in this runbook.** The GitHub Pages workflow publishes whatever is committed in `site/` on a push touching `site/**`. **The push is authorised by this runbook and is not a question to put**: running RENDER *is* the instruction to publish.
 
-Deploy: the GitHub Pages workflow publishes whatever is committed in `site/` on a push touching `site/**`. It does not build — the render above is the build; the push triggers it. **The push is authorised by this runbook and is not a question to put**: running RENDER *is* the instruction to publish.
-
-**The push is not the deploy, so check the run before the log says `deployed`.** The deploy step fails now and then on GitHub's side — a 10-minute timeout on 2026-09-10, an `id-token` refusal on 2026-09-11 — and on the second the log said `deployed — ok` while the site kept the previous evening's bulletin. Read the run for the commit just pushed — before the mirror step and again after it if it still reads `in_progress`:
+**The push is not the deploy, so check the run before the log says `deployed`** — before the mirror step, and again after it if it still reads `in_progress`:
 
 ```bash
 curl -s "https://api.github.com/repos/data-landscapers/corpus/actions/runs?head_sha=$(git rev-parse HEAD)" | python -c "import json,sys; r=json.load(sys.stdin).get('workflow_runs',[]); print(r[0]['status'], r[0]['conclusion']) if r else print('no run')"
 ```
 
-`completed success` is `deployed`. Anything else is logged as `pushed, deploy <status>`, and the fix is **Re-run failed jobs** on that run in GitHub Actions: the workflow publishes the committed `site/`, so a re-run needs no re-render.
+`completed success` is `deployed`. Anything else is logged as `pushed, deploy <status>`, and the fix is **Re-run failed jobs** on that run in GitHub Actions.
 
 ## The bulletin
 
-Authored by BUILD (stage 7), arrives at `outputs/bulletins/corpus-bulletin.md`. **Published at `site/bulletin/index.html`, served as `/bulletin/`** — one bulletin, a singular URL, the one document served as a directory index. The retired country bulletin's pages under `site/bulletins/` are deleted, not left to rot.
+From BUILD stage 7, at `outputs/bulletins/corpus-bulletin.md`, published at `site/bulletin/index.html` and served as `/bulletin/`. Step 2's loop renders it. Three things differ from every other document: **its page is refreshed on a held-off render**, PDF untouched; **it keeps a week of editions** and `prune-editions.py` deletes on that retention window rather than on fetches, so it needs no Cloudflare token; and **an empty window still renders** — never skip it.
 
-- **It cuts a dated PDF like everything else** — the superseded document is precisely the one a reader wants a copy of, because tomorrow's page will not be showing it. The edition shown on the page carries a time (from `compiled:`); the filename carries the plain date and same-day sequence.
-- **Its page is refreshed on a held-off render, which no other document's is.** Freshness is news for a bulletin: a sweep that brought in fifty sources none dated inside the window still updated it — *we looked, and nothing was published*. For `type: bulletin` the gate holds the edition and `render.py` rewrites the page under the edition it is holding, PDF untouched. The digest is still the body, so a moved clock cannot cut an edition; the byline answers *when did we last look*, the colophon *which dated file is this*.
-- **It keeps a week of editions, and the page lists them.** `site/bulletin/editions.json` is the manifest (`documentation/bulletin-archive.md` is the design). `render.py` writes an entry at the moment it cuts a bulletin PDF — the only moment the picker's three facts are in hand. The colophon's `Retention` row names the date the file is kept until, and travels into the PDF: a file that will 404 in a week and does not say so fails §9 on its own terms.
-- **The bulletin leaves the download rule**: `prune-editions.py` deletes a bulletin edition on the retention window, not on fetches, and rewrites the manifest — otherwise the one-week promise would hold for every bulletin except the ones a reader took. Bulletin retention therefore works with no Cloudflare token.
-- **Assert that the listing and the directory agree**, after Step 6a and after the render: `python scripts/bulletin_editions.py` prints the listing and names any entry with no file behind it. The renderer and pruner both rebuild rather than append, so a mismatch means something outside them moved a file.
-- **It is the one page here that carries a script**: `site/assets/js/bulletin-filter.js`, Corpus's own, referenced only from this page, written into the HTML pass and left out of the PDF pass. The control renders `hidden` and the script removes the attribute, so a page whose script fails is a page without a filter, not one with a dead control.
-- **An empty window still renders** — the document says so in its own prose; RENDER never skips it. The home page's Bulletin section is omitted entirely when the document does not exist.
+**Assert that the listing and the directory agree**, after Step 6a and after the render:
 
-**Stylesheets and scripts are stamped with a digest of their own bytes** (`main.css?v=22ef527a`) — the query string changes exactly when the file does. So a change to `report.css` alone reaches a page only when that page next renders (the content gate reads the markdown): a stylesheet fix spreads as editions re-cut, or all at once behind `--force`. The bulletin, re-rendering whenever its window moves, picks it up the same day.
-
-## Topics
-
-Topic documents (BUILD stage 6) arrive in `outputs/topics/{slug}/`, two per Level-2 slug. They render exactly like the place reports — `render.py` takes its output tree from the source path, so they land in `site/topics/{slug}/`. Step 2's loop and coverage assertion already reach them. The home page's Topics boxes open `/topics/{slug}/` (hyphenated slug); **if the taxonomy grows a slug, check the link, not just the box** — compare every `/topics/…` href in `site/index.html` against `site/topics/…/index.html`.
+```bash
+python scripts/bulletin_editions.py
+```
 
 ## Log
 
@@ -399,9 +249,9 @@ On completion or error, one terse line:
 python scripts/log-line.py render "reports+home+countries+catalogue rendered, deployed — ok"
 ```
 
-On failure, log the stage and error instead (`… errored rendering KEN-status: <message>`). The duration writes itself from the Step 0 stamp, then clears it; where the stamp was never taken, state the truth with `--since` or `--took`. The script inserts at the top under the marker, refuses a message over 40 words, and exits 1 if the marker is missing.
+On failure, log the stage and error instead (`… errored rendering KEN-status: <message>`). The duration writes itself from the Step 0 stamp; where the stamp was never taken, use `--since` or `--took`.
 
-**And message Bill where the run needed him** — before the commit below so it is carried by it: documents that failed to typeset, a Step 0 stop and what has to be re-run, anything the run decided he would otherwise have been asked. At most 80 words a block; `python scripts/lint-messages.py` counts both caps and `python scripts/lint-preambles.py` checks the preamble is still a pointer. A clean render writes nothing.
+**And message Bill where the run needed him** — before the commit below so it is carried by it: documents that failed to typeset, a Step 0 stop and what has to be re-run, anything the run decided he would otherwise have been asked. `python scripts/lint-messages.py` counts the caps. A clean render writes nothing.
 
 ## Mirror — back up the repo (final step)
 
@@ -417,19 +267,13 @@ Then run the backup, **by absolute path, from PowerShell**:
 & cmd /c "C:\CORPUS\mirror.bat"
 ```
 
-Bare `mirror.bat` resolves only if the shell is sitting in the repo root, and in Git Bash the unquoted backslashes are escape characters — `cmd` opens an interactive shell and exits **0 having backed up nothing**. So **check the log line rather than the exit code**: the top line of `logs\mirror_log.md` (newest first) must be dated within the last few minutes; the absence of a fresh line is the real failure signal.
-
-It backs up **both repos** — OSINT and Corpus, working trees and full git history — to Dropbox, plus one FreeFileSync pass to `D:`, and writes a dated line at the top of `logs\mirror_log.md`. OSINT is read-only here: the backup reads it and writes elsewhere. RENDER is the last job in the pipeline, so this one call captures everything the run produced.
-
-**The freshness check:**
+**Check the log line rather than the exit code**: the top line of `logs\mirror_log.md` must be dated within the last few minutes. A bare `mirror.bat` exits 0 having backed up nothing, so the absence of a fresh line is the real failure signal.
 
 ```bash
 python scripts/lint-mirror-freshness.py     # 0 clean · 1 stale or failed · 2 nothing recorded
 ```
 
-It rules on three things: the newest mirror line recording `FAIL`; that line predating the newest `· **RENDER** ·` line; and plain age (`--max-age-hours`, default 72 — the catch for a quiet fortnight in which nothing happened for the first two tests to compare against). Commits landed since the mirror are reported, not gated. **It reports and never fixes**: `mirror.bat` mirrors *onto* the backup copies, a destructive write a lint does not get to fire on its own opinion. Run it before the mirror to see whether one is owed, and after to confirm the line landed.
-
-**RENDER runs the mirror.** The runbook is the authorisation and the destination is a backup whose purpose is to be overwritten by the current state. What stays Bill's is firing one *outside* a run.
+Run it before the mirror to see whether one is owed, and after to confirm the line landed; **it reports and never fixes**. **RENDER runs the mirror** — what stays Bill's is firing one *outside* a run.
 
 ## If something fails
 
