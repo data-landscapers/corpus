@@ -68,7 +68,7 @@ The 205 PDFs with no sibling `.md` should be checked before any of this is built
 
 **The `hub_line` is, in miniature, the exact signal Exa trained on.** Their training data is human descriptions of documents. A `hub_line` is a human description of a document — our own account of what a source says and why it matters. It is the ideal thing to search against, and a crude test on 2026-09-04 confirmed it: searching `hub_line` text put the Uganda article second out of 16,730, where searching full bodies excluded it entirely. **Embed the description as well as the document, and let a query match either.** Only 13% of documents carry one, so this supplements the body index rather than replacing it.
 
-**The facets are the filter layer, and they are free.** `places`, `topics`, `entities`, `lens` and `published` are already on every document. Meaning search plus facet filtering — *documents about donor conditionality, Francophone West Africa, since 2023* — is the query shape that makes this worth building, and it is exactly what an off-the-shelf product cannot do, because it has no idea what `places: [DZA]` or `topics: [dpi.pay]` mean. The cataloguing is the asset. The search engine is a commodity.
+**The facets are the filter layer, and they are free.** `places`, `topics`, `entities` and `published` are already on every document. *(`lens` was named here on 2026-09-04 and is not a facet: OSINT retired the key from the schema on 2026-09-08, nothing writes it, and Corpus stopped reading it on 2026-09-20 — strategic review 4, R34a. A filter built on it would come up empty.)* Meaning search plus facet filtering — *documents about donor conditionality, Francophone West Africa, since 2023* — is the query shape that makes this worth building, and it is exactly what an off-the-shelf product cannot do, because it has no idea what `places: [DZA]` or `topics: [dpi.pay]` mean. The cataloguing is the asset. The search engine is a commodity.
 
 **One structural seam works today with no new tooling.** The archive holds 31 World Bank Implementation Completion Reports and 60 documents carrying formal outcome ratings. Those are institutional post-mortems in a standard structure — a document-type filter, not a topic search, and immediately usable.
 
@@ -123,7 +123,7 @@ All four are multilingual, which is not optional here: 220 documents are heavily
 
 **Filter, don't hope.** Put the country, date range or topic in the filter rather than in the query text — the filter is exact and the query text is not.
 
-**Record the survey as a query file.** `queries/` already has a template with frontmatter scoping by place, topic, entity and lens, plus `pending`, `done` and `results`. A search worth running once during a chapter is worth being able to reconstruct in six months; a chat session is not a record.
+**Record the survey as a query file.** `queries/` already has a template with frontmatter scoping by place, topic and entity, plus `pending`, `done` and `results`. A search worth running once during a chapter is worth being able to reconstruct in six months; a chat session is not a record.
 
 ## 10. When to build it
 

@@ -379,18 +379,18 @@ def row_html(r, places, topics, entlabel, ents) -> str:
     for t in r[4][:4]:
         tags.append(f'<span class="tag" data-add="topics" data-v="{t}">'
                     f'{topics.get(t) or t}</span>')
-    for e in [ents[i] for i in r[10]][:3]:
+    for e in [ents[i] for i in r[9]][:3]:
         tags.append(f'<span class="tag en" data-add="ents" data-v="{e}">'
                     f'{esc(entlabel.get(e) or e)}</span>')
-    if r[9] == "paywalled":
+    if r[8] == "paywalled":
         tags.append('<span class="flag">paywalled</span>')
-    if r[9] == "excerpt":
+    if r[8] == "excerpt":
         tags.append('<span class="flag">excerpt only</span>')
-    if r[8]:
+    if r[7]:
         tags.append('<span class="flag">document held</span>')
-    sub = f'<p class="sub">{esc(r[12])}</p>' if r[12] else ""
+    sub = f'<p class="sub">{esc(r[11])}</p>' if r[11] else ""
     return ('<div class="row"><div class="date">' + (r[2] or "undated") + "</div><div>"
-            f'<p class="ttl"><a href="{r[6]}" target="_blank" rel="noopener">'
+            f'<p class="ttl"><a href="{r[5]}" target="_blank" rel="noopener">'
             f'{esc(r[0])}</a></p>{sub}'
             f'<p class="meta">{esc(r[1] or "publisher not recorded")}</p>'
             f'<div class="tags">{"".join(tags)}</div></div></div>')
@@ -504,7 +504,15 @@ def pack_rows(cdir: Path):
     the five had no reader left but the export. A field nothing reads is a field that
     rides to every reader who opens a chunk, so they go rather than sit.
 
-    Entities are **dictionary-encoded**: field 10 holds integer offsets into a
+    **`lens` went from the row itself on 2026-09-20**, and the row is twelve fields
+    rather than thirteen. It had come out of the download with those five and out of
+    the schema two days before that (`wiki/schemas.md` §4), but it was still lifted
+    out of the catalogue, still packed at field 5, and still reassembled here as a
+    literal `null` the page then ignored. A slot named for a key nothing writes is
+    the shape a dead facet keeps its place in, so it is gone rather than nulled
+    *(strategic review 4, R34a)*.
+
+    Entities are **dictionary-encoded**: field 9 holds integer offsets into a
     vocabulary array shipped once, not the slugs themselves. 24,891 tags drawn
     from 6,774 distinct slugs cost 293 KB that way against 524 KB as repeated
     strings — and the vocabulary is what the entity facet renders its menu from,
@@ -514,7 +522,7 @@ def pack_rows(cdir: Path):
     items = d["items"] if isinstance(d, dict) and "items" in d else d
     ents = sorted({e for i in items for e in (i.get("entities") or [])})
     at = {slug: n for n, slug in enumerate(ents)}
-    # Field 11 is the row's **stable** document id, the key the names index posts
+    # Field 10 is the row's **stable** document id, the key the names index posts
     # against (scripts/build-names-index.py). Rows are ordered by date and shift
     # whenever a source is ingested; these ids do not.
     docid = {}
@@ -528,14 +536,13 @@ def pack_rows(cdir: Path):
         (i.get("published") or "")[:10],
         i.get("places") or [],
         i.get("topics") or [],
-        i.get("lens") or [],
         i.get("url") or "",
         i.get("slug") or "",
         1 if i.get("artefact") else 0,
         i.get("body_completeness") or "",
         [at[e] for e in (i.get("entities") or [])],
         docid.get(i.get("slug") or "", -1),
-        # Field 12: OSINT's one-line subtitle for the record (`notes-for-corpus` 20).
+        # Field 11: OSINT's one-line subtitle for the record (`notes-for-corpus` 20).
         # Empty on everything ingested before 2026-09-05, and an empty string renders
         # nothing - the backfill over the older records is Bill's to commission, and
         # until it happens the page must not invent a line for them.
@@ -565,7 +572,7 @@ def pack_rows(cdir: Path):
 # entities as offsets into vocabularies the page had to ship anyway, the artefact flag,
 # the completeness, the stable document id, and one rank per row for the A–Z sort.
 # Columnar rather than a row per record, because a column of small integers is what
-# gzip is good at and an array of thirteen-element arrays is not.
+# gzip is good at and an array of twelve-element arrays is not.
 #
 # **Row-text chunks**, fetched for the rows about to be drawn. Title, URL, slug and
 # hero, plus the seven columns only the download needs.
@@ -585,7 +592,7 @@ CHUNK_FIELDS = ("title", "url", "slug", "hero",       # what a row draws
 # published for.
 #
 # `slug` stays although the download no longer carries it (2026-09-09): it is field 2
-# of the thirteen `rowOf` reassembles, and the shape is what keeps the bake here and
+# of the twelve `rowOf` reassembles, and the shape is what keeps the bake here and
 # the page's own drawing in step. It is not written into any file a reader downloads.
 
 
@@ -625,7 +632,7 @@ def split(rows, extra, ents, places, topics) -> tuple[dict, list]:
     tpk = list(topics) + sorted({t for r in rows for t in r[4]} - set(topics))
     pli = {k: n for n, k in enumerate(plk)}
     tpi = {k: n for n, k in enumerate(tpk)}
-    comp = sorted({r[9] for r in rows})
+    comp = sorted({r[8] for r in rows})
     cmi = {v: n for n, v in enumerate(comp)}
 
     cols = {
@@ -635,15 +642,15 @@ def split(rows, extra, ents, places, topics) -> tuple[dict, list]:
         "pub": [pubs[r[1]] for r in rows],
         "pl": [[pli[p] for p in r[3]] for r in rows],
         "tp": [[tpi[t] for t in r[4]] for r in rows],
-        "en": [r[10] for r in rows],
-        "art": [r[8] for r in rows],
-        "cmp": [cmi[r[9]] for r in rows],
-        "doc": [r[11] for r in rows],
+        "en": [r[9] for r in rows],
+        "art": [r[7] for r in rows],
+        "cmp": [cmi[r[8]] for r in rows],
+        "doc": [r[10] for r in rows],
         "az": az_ranks(rows),
     }
     chunks = []
     for start in range(0, len(rows), CHUNK):
-        chunks.append([[r[0], r[6], r[7], r[12]] + e
+        chunks.append([[r[0], r[5], r[6], r[11]] + e
                        for r, e in zip(rows[start:start + CHUNK],
                                        extra[start:start + CHUNK])])
     return cols, chunks
@@ -877,7 +884,7 @@ SCRIPT = r"""
     for (var i = 0; i < list.length; i++) m[list[i]] = i;
     return m;
   }
-  // A row as `rowHTML` wants it — the thirteen fields the payload used to ship whole,
+  // A row as `rowHTML` wants it — the twelve fields the payload used to ship whole,
   // reassembled from the filter index and one chunk row. Keeping this shape is what
   // lets the markup, the bake in `catalogue.py` and the test that compares them stay
   // where they were while everything underneath changed.
@@ -885,7 +892,7 @@ SCRIPT = r"""
     return [t[0], PUBS[cPub[i]], DATES[cDate[i]],
             cPl[i].map(function(k){ return PLK[k]; }),
             cTp[i].map(function(k){ return TPK[k]; }),
-            null, t[1], t[2], cArt[i], COMP[cCmp[i]],
+            t[1], t[2], cArt[i], COMP[cCmp[i]],
             cEn[i].map(function(k){ return ENTS[k]; }),
             cDoc[i], t[3]];
   }
@@ -1388,16 +1395,16 @@ SCRIPT = r"""
     // The named-actor *facet* has gone (prep/catalogue.md §7); the tags stay, because
     // they say what a record is about and clicking one is the "more like this" the
     // sidebar list never was. The chip above it is how a reader takes it off again.
-    r[10].slice(0,3).forEach(function(e){ tags += '<span class="tag en" data-add="ents" data-v="' + e + '">' + esc(ENTLABEL[e]||e) + '</span>'; });
-    if (r[9] === 'paywalled') tags += '<span class="flag">paywalled</span>';
-    if (r[9] === 'excerpt') tags += '<span class="flag">excerpt only</span>';
-    if (r[8]) tags += '<span class="flag">document held</span>';
+    r[9].slice(0,3).forEach(function(e){ tags += '<span class="tag en" data-add="ents" data-v="' + e + '">' + esc(ENTLABEL[e]||e) + '</span>'; });
+    if (r[8] === 'paywalled') tags += '<span class="flag">paywalled</span>';
+    if (r[8] === 'excerpt') tags += '<span class="flag">excerpt only</span>';
+    if (r[7]) tags += '<span class="flag">document held</span>';
     return '<div class="row"><div class="date">' + (r[2]||'undated') + '</div><div>' +
-      '<p class="ttl"><a href="' + r[6] + '" target="_blank" rel="noopener">' + esc(r[0]) + '</a></p>' +
+      '<p class="ttl"><a href="' + r[5] + '" target="_blank" rel="noopener">' + esc(r[0]) + '</a></p>' +
       // The subtitle OSINT writes onto a record at ingest. Records taken in
       // before 2026-09-05 carry none, and the line is simply absent for them
       // rather than standing empty (notes-for-corpus 20).
-      (r[12] ? '<p class="sub">' + esc(r[12]) + '</p>' : '') +
+      (r[11] ? '<p class="sub">' + esc(r[11]) + '</p>' : '') +
       '<p class="meta">' + esc(r[1] || 'publisher not recorded') + '</p>' +
       '<div class="tags">' + tags + '</div></div></div>';
   }

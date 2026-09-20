@@ -181,7 +181,10 @@ Reads `outputs/catalogue/raw-catalogue.json` and the vocabularies in `outputs/vo
 
 **The first screen is written into the page**, not left for the browser: the newest hundred rows and the three facet menus come out as markup, so the page shows results before anything has been fetched and with JavaScript off entirely (Part 1). That markup is written by Python and redrawn by JavaScript, and the two have to agree — `scripts/test_catalogue_firstscreen.py` runs the page's own renderers over the filter index and the first chunk and compares. `scripts/test_catalogue_index.py` checks the encoding itself against `raw-catalogue.json`, record by record, and needs no node.
 
+**Two of the three need node, and a renumbering of the row's own fields is exactly what gets made on a machine without it.** A catalogue row is a positional array read in four places — `pack_rows` packs it, `row_html` draws it, `split` projects four fields into the chunks, `rowOf` puts it back for `rowHTML` — and a slot that shifts in three of them draws another record's URL under this record's title, silently. `scripts/test_catalogue_rowshape.py` reads all four out of `catalogue.py` and compares the positions rather than the markup. It is not a replacement for the node pass; it is the part of it that always runs.
+
 ```bash
+python scripts/test_catalogue_rowshape.py     # the four readings of a row agree on its fields
 python scripts/test_catalogue_index.py        # the split payload holds the whole catalogue
 python scripts/test_catalogue_firstscreen.py  # baked markup == what the page draws (needs node)
 python scripts/test_catalogue_export.py       # every record rebuilt == raw-catalogue.csv (needs node)

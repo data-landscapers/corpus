@@ -31,6 +31,16 @@ a citation to the catalogue entry rather than dropping the link. It is carried i
 checks, and a reader meeting it in a column of facts about the document would read
 it as one.
 
+**`lens:` is read from nowhere, and that is now true of the key and not only of the
+download.** It came out of `CSV_COLS` on 2026-09-09 as a classification the site no
+longer shows, and OSINT retired it from the schema the day before (`wiki/schemas.md`
+§4, Bill, 2026-09-08): nothing writes it, and the 15,363 `raw/` records still carrying
+it are waiting on a strip pass. What stayed behind was a read — the key was still
+lifted into `raw-catalogue.json`, still counted into a `lens` facet, still packed as a
+row field the page never drew. A count of a key nothing writes is a menu that empties
+itself the day the key goes, without a single error to say so, so the read goes first
+and the strip follows it *(strategic review 4, R34a)*.
+
 Usage:
   python scripts/build-catalogue.py                 write outputs/catalogue/
   python scripts/build-catalogue.py --check         report drift, write nothing
@@ -147,7 +157,6 @@ def items(rows):
             "places": V.as_list(fm.get("places")),
             "topics": V.as_list(fm.get("topics")),
             "entities": V.as_list(fm.get("entities")),
-            "lens": V.as_list(fm.get("lens")),
             "body_completeness": fm.get("body_completeness") or "",
             "finance": bool(fm.get("finance_origin")),
             "artefact": held,
@@ -186,7 +195,7 @@ def unreadable(rows):
 def facets(rows):
     """Counts a filter UI can render its menus from without scanning the rows."""
     f = {}
-    for key in ("places", "topics", "lens", "entities"):
+    for key in ("places", "topics", "entities"):
         c = Counter(v for r in rows for v in r[key])
         # entities has a long single-reference tail by design (CLAUDE.md ->
         # Entities). This used to be capped at the top 200, for a filter menu
@@ -254,7 +263,7 @@ def write(rows, meta, stamp):
         wi.writeheader()
         for r in rows:
             flat = dict(r)
-            for k in ("places", "topics", "entities", "lens", "artefact"):
+            for k in ("places", "topics", "entities", "artefact"):
                 flat[k] = "; ".join(flat[k])
             wp.writerow(flat)
             wi.writerow(flat)

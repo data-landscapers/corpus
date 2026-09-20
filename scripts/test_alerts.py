@@ -58,7 +58,7 @@ def rec(**kw) -> dict:
             # Fields the catalogue holds and the download does not. None may appear
             # in recent.json; the last test is what says so.
             "slug": "2026-09-01-ken-a", "path": "raw/2026/x.md", "words": 400,
-            "lens": [], "finance": False, "artefact": [], "url_note": "",
+            "finance": False, "artefact": [], "url_note": "",
             "body_completeness": "full", "catalogue_hero": "A hero line"}
     base.update(kw)
     return base

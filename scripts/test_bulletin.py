@@ -58,7 +58,7 @@ TODAY = "2026-05-14"
 YESTERDAY = "2026-05-13"
 
 COLUMNS = ["slug", "title", "publisher", "author", "published", "date_precision", "places",
-           "topics", "entities", "lens", "body_completeness", "finance", "artefact", "words",
+           "topics", "entities", "body_completeness", "finance", "artefact", "words",
            "ingested", "url"]
 
 
@@ -66,7 +66,7 @@ def row(slug: str, published: str, places: str, topics: str, title: str = None) 
     r = {c: "" for c in COLUMNS}
     r.update(slug=slug, title=title or slug.replace("-", " ").title(), publisher="A Publisher",
              published=published, date_precision="day", places=places, topics=topics,
-             lens="sovereignty", body_completeness="full", words="900",
+             body_completeness="full", words="900",
              url=f"https://example.invalid/{slug}")
     return r
 

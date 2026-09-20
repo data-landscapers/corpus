@@ -758,7 +758,10 @@ def build_db(files=None, links=None, path=DB_PATH):
             val = fm.get(k)
             v.setdefault(k, val if isinstance(val, (str, int, float)) else None)
         frows.append(tuple(v.get(c) for c in cols))
-        for facet in ("places", "topics", "entities", "lens", "sources"):
+        # `lens` was indexed here until 2026-09-20 and is not any more: OSINT retired the
+        # key from the schema on 2026-09-08 and nothing writes it, so the rows this built
+        # were a vocabulary of a field with no author *(strategic review 4, R34a)*.
+        for facet in ("places", "topics", "entities", "sources"):
             for item in as_list(fm.get(facet)):
                 facets.append((p, facet, str(item)))
     con.executemany(f"INSERT OR REPLACE INTO files ({','.join(cols)}) "
