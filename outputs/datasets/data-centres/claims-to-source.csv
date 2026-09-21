@@ -1,3 +1,56 @@
 facility_id,field,claim,reason,date
 SYC-001,submarine_cable_access,Connected via metro fibre,"plausible for an island facility, but no readable source describes its route to the landing station",2026-09-21
 SYC-001,carrier_neutrality,Single carrier / captive,"an operator's own core network, so captive is likely; no source states it",2026-09-21
+MLI-001,operator_name,SMTD (Société Malienne de Transmission et de Diffusion) / Ministry of Communication,the Ministry of Communication inaugurated it; no source names SMTD as operator,2026-09-21
+MLI-001,carrier_neutrality,Single carrier / captive,"a state facility, so captive is likely; no source states it",2026-09-21
+MLI-001,gps_coordinates,"12.6500, -8.0000",Bamako city-centre approximation; DCD says the exact location has not been shared,2026-09-21
+MRT-001,submarine_cable_access,Connected via metro fibre,"ACE lands at Nouakchott and the backbone reaches it, but no source describes the facility's link to the landing",2026-09-21
+MRT-001,gps_coordinates,"18.0735, -15.9582",no source gives the site's address,2026-09-21
+NER-001,gps_coordinates,"13.5116, 2.1254","the comments give a street address in Koira Kano, but no readable source does",2026-09-21
+SSD-001,services_offered,Government hosting; International gateway services; e-Government infrastructure,gateway services are confirmed; government hosting and e-government are inferred from the national role,2026-09-21
+SSD-001,city,Juba,"the capital is the likely site, but no source names Juba",2026-09-21
+SSD-001,carrier_neutrality,Limited carriers,no source describes carrier access,2026-09-21
+SSD-001,gps_coordinates,"4.8594, 31.5713",no source gives the site's location,2026-09-21
+TCD-001,operator_name,SOTEL (Societe des Telecommunications du Tchad),"PMICE modernises Sotel Tchad, but no source names it as the data centre's operator",2026-09-21
+TCD-001,city,N'Djamena,DCD says the location has not been shared; N'Djamena is assumed,2026-09-21
+TCD-001,gps_coordinates,"12.1048, 15.0445",DCD says the location has not been shared,2026-09-21
+TCD-001,services_offered,Government data hosting; national digital services; telecom carrier hub,the facility is unbuilt and no source lists its services,2026-09-21
+TCD-001,carrier_neutrality,Single carrier / captive,no source describes carrier access,2026-09-21
+LSO-001,operational_status,Operational,Data Center Map lists the site but gives no date,2026-09-21
+LSO-001,facility_type,Enterprise,enterprise captive is plausible for an operator site; no source states it,2026-09-21
+LSO-001,services_offered,Enterprise captive; mobile network hosting; internal IT infrastructure,no source describes the services,2026-09-21
+LSO-001,carrier_neutrality,Single carrier / captive,"an operator's own site, so captive is likely; no source states it",2026-09-21
+LSO-001,key_tenants,Vodacom Lesotho internal,no source names a tenant; Vodacom Lesotho's own use is assumed,2026-09-21
+LSO-002,operational_status,Operational,Data Center Map lists the site but gives no date,2026-09-21
+LSO-002,facility_type,Enterprise,"enterprise captive is plausible, but Data Center Map lists private cabinets here",2026-09-21
+LSO-002,services_offered,Enterprise captive; mobile network hosting; internal IT infrastructure,"no operator source describes the services; Data Center Map lists private cabinets, which would mean colocation is offered",2026-09-21
+LSO-002,carrier_neutrality,Single carrier / captive,"an operator's own site, so captive is likely; no source states it",2026-09-21
+LSO-002,key_tenants,Vodacom Lesotho internal,no source names a tenant; Vodacom Lesotho's own use is assumed,2026-09-21
+TGO-001,year_operational,2021,"DCD reports the inauguration, but the packet text carries no date",2026-09-21
+TGO-001,it_capacity_mw,1,"Xalam's 1MW full-build is the whole Togolese market's; it puts all live load at ~0.5MW, so 1MW can only be design capacity",2026-09-21
+TGO-001,services_offered,Colocation; cages; private cabinets; remote hands; disaster recovery; interconnection; managed services; cloud access; cross-connects,"Data Center Map lists cages, cabinets and remote hands; disaster recovery, interconnection, managed services, cloud access and cross-connects are unsourced",2026-09-21
+TGO-001,gps_coordinates,"6.1375, 1.2123",plausible for Route de la Nouvelle Présidence; no source gives coordinates,2026-09-21
+TGO-002,submarine_cable_access,Connected via metro fibre,metro fibre to the landing is plausible in Lomé; no source describes the route,2026-09-21
+CAF-001,city,Bangui,Bangui is assumed from SOCATEL's head office; no source places the data centre,2026-09-21
+CAF-001,gps_coordinates,"4.3947, 18.5582",follows the assumed Bangui location,2026-09-21
+CAF-001,facility_type,Government,"the release describes an open-access, carrier-neutral wholesale platform, which may make this colocation rather than government",2026-09-21
+CAF-001,services_offered,Government/national data hosting; colocation; cloud services,no service is advertised for a facility still at MoU stage,2026-09-21
+CAF-001,ownership_structure_type,"Private, founder-owned",no source describes Greenline's ownership,2026-09-21
+CMR-001,year_operational,2021,"TechCabal says 2021 is when the company decided to build, not when DLA01 opened",2026-09-21
+CMR-001,submarine_cable_access,Connected via metro fibre,"the IXP is said to have access to international fibre, but no source describes the route to the Douala landing stations",2026-09-21
+CMR-001,ownership_structure_type,Private; founder-led with PE minority investment,no source says founders hold control or that UHURU's stake is a minority,2026-09-21
+CMR-001,gps_coordinates,"4.0483, 9.6940","Data Center Map gives the address (Immeuble Entrelec, 75 Rue de l'Union Française), not coordinates",2026-09-21
+COM-001,year_operational,2025,Telecompaper gives the inauguration as 19 May but its text carries no year,2026-09-21
+COM-001,city,Moroni,no source places the facility in Moroni,2026-09-21
+COM-001,gps_coordinates,"-11.7022, 43.2551",no source gives a location,2026-09-21
+COM-001,government_ownership_pct,100%,"plausible for a state build, but Comores Cables, part-owned by Telma, co-manages it and no source gives ownership",2026-09-21
+COM-001,submarine_cable_access,Connected via metro fibre,"co-management by Comores Cables makes a cable link likely, but no source describes it",2026-09-21
+COM-001,carrier_neutrality,Single carrier / captive,no source addresses which carriers serve the facility,2026-09-21
+GMB-001,hyperscaler_google,No,"SIXP reported Google Global Cache servers installed in 2015, pending a router; whether a GGC node is live at this facility needs a current source",2026-09-21
+GMB-001,submarine_cable_access,Connected via metro fibre,"plausible via Gamtel's backbone to the Banjul ACE landing, but no source describes this facility's route",2026-09-21
+GMB-001,services_offered,Colocation; rack rental; co-location for ISPs and SMBs; national broadband backbone hub; SIXP IXP host,no source describes the site as the national backbone hub,2026-09-21
+GMB-001,gps_coordinates,"13.4462, -16.6736",no source gives coordinates for the Kairaba exchange,2026-09-21
+GNQ-001,submarine_cable_access,At or adjacent to cable landing station,"ACE lands at Bata, not Malabo; no source places Sipopo beside the Ceiba landing",2026-09-21
+GNQ-001,carrier_neutrality,Single carrier / captive,"captive is plausible for the state wholesale monopoly, but it sits oddly with the colocation type and no source states it",2026-09-21
+GNQ-001,gps_coordinates,"3.7523, 8.7756","approximate, per comments; no source gives coordinates",2026-09-21
+GNQ-001,major_shareholders,"100% owned by Government of Equatorial Guinea (state-owned public entity, no private shareholders)","follows from GITGE being an SOE, which only one source states",2026-09-21

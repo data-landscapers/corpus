@@ -67,7 +67,7 @@ F = [
   "The legal form of the ultimate parent.",
   "Describes the ultimate parent, not the operator (e.g. Public REIT; Private equity-backed group; State-owned enterprise)."),
  ("parent_company", "", "Parent", "text", "", "",
-  "The operator's immediate parent company, if it has one.", "Leave blank if the operator is itself the top of the chain."),
+  "The immediate parent of the company that owns the facility, if it has one.", "The ownership fields follow the owner's chain, not the operator's: control is a question of equity. Where a contractor runs a facility someone else owns, name the operator in operator_name and its group in comments. Leave blank if the owner is itself the top of the chain."),
  ("parent_hq_country", "", "Parent HQ", "code", "ISO3", "",
   "The country where the immediate parent is registered.", "Use the country of registration, not the operational HQ."),
  ("ultimate_parent_company", "", "Ultimate parent", "text", "", "",

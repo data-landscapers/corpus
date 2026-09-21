@@ -164,10 +164,14 @@ def excerpt(text, row):
     spans.sort()
     merged = []
     for s, e in spans:
-        if merged and s <= merged[-1][1] and e - merged[-1][0] <= 3 * WINDOW:
-            merged[-1][1] = max(merged[-1][1], e)
-        else:
-            merged.append([s, e])
+        if merged and s <= merged[-1][1]:
+            if e - merged[-1][0] <= 3 * WINDOW:
+                merged[-1][1] = max(merged[-1][1], e)
+                continue
+            s = merged[-1][1]  # too long to merge: start where the last passage ended
+            if s >= e:
+                continue
+        merged.append([s, e])
     # Passages naming the row come first: they are what the check needs.
     own = [re.compile(re.escape(w), re.I) for w in names(row)]
     merged.sort(key=lambda se: -sum(bool(p.search(text, se[0], se[1])) for p in own))
