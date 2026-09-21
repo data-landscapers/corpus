@@ -773,3 +773,7 @@ GHA-017,gps_coordinates,,reported on the KNUST campus (GHA-005 comments); not co
 LBY-008,gps_coordinates,,site not stated,2026-09-21
 LBY-009,gps_coordinates,,site not stated,2026-09-21
 SDN-005,submarine_cable_access,,SAS1 in the name suggests a landing-station site; not stated,2026-09-21
+MWI-008,operational_status,Operational,rests on the operator's CEO's own post; no independent report of the February 2026 launch,2026-09-21
+MWI-008,ownership_type,Unknown,CTN's owners and registration are not in the record,2026-09-21
+NGA-043,ultimate_parent_company,Infragora Global Capital (Pty) Ltd,Infragora is one of several majority owners; the SPV's full shareholding is not disclosed,2026-09-21
+NGA-044,ultimate_parent_company,Infragora Global Capital (Pty) Ltd,Infragora is one of several majority owners; the SPV's full shareholding is not disclosed,2026-09-21
