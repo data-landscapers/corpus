@@ -11,8 +11,6 @@ SSD-001,services_offered,Government hosting; International gateway services; e-G
 SSD-001,city,Juba,"the capital is the likely site, but no source names Juba",2026-09-21
 SSD-001,carrier_neutrality,Limited carriers,no source describes carrier access,2026-09-21
 SSD-001,gps_coordinates,"4.8594, 31.5713",no source gives the site's location,2026-09-21
-TCD-001,operator_name,SOTEL (Societe des Telecommunications du Tchad),"PMICE modernises Sotel Tchad, but no source names it as the data centre's operator",2026-09-21
-TCD-001,city,N'Djamena,DCD says the location has not been shared; N'Djamena is assumed,2026-09-21
 TCD-001,gps_coordinates,"12.1048, 15.0445",DCD says the location has not been shared,2026-09-21
 TCD-001,services_offered,Government data hosting; national digital services; telecom carrier hub,the facility is unbuilt and no source lists its services,2026-09-21
 TCD-001,carrier_neutrality,Single carrier / captive,no source describes carrier access,2026-09-21
@@ -305,8 +303,6 @@ LBY-005,carrier_neutrality,Limited carriers,no source describes carriers at a Mi
 LBY-005,submarine_cable_access,Connected via metro fibre,no source describes the facility's route to a landing station,2026-09-21
 MUS-001,parent_company,Government of Mauritius; National Pensions Fund,no readable source gives Mauritius Telecom's shareholders; the comments' ~59% state share leaves ~40% with a holder the row does not name,2026-09-21
 MUS-001,year_operational,2016,2016 has no readable source; Uptime's award page is undated,2026-09-21
-MUS-001,total_floor_space_sqm,1500,"1,500 m2 white space has no readable source",2026-09-21
-MUS-001,it_capacity_mw,3,3 MW IT load has no readable source,2026-09-21
 MUS-001,investment_usd,7500000,USD 7.5M has no readable source,2026-09-21
 MUS-001,services_offered,Colocation; IP connectivity; Cross-connects; Remote hands; Cloud hosting; Disaster recovery,no readable source lists the facility's services,2026-09-21
 MUS-001,security_certifications,ISO 27001:2013; Uptime Tier IV Design; Uptime Tier IV Constructed,Uptime confirms the Tier IV awards; ISO 27001:2013 has no readable source,2026-09-21
@@ -325,7 +321,6 @@ MUS-004,ixp_presence,IXP connected (not hosted),"the MIXP is at Ebene; a connect
 MUS-004,year_operational,2015,2015 has no readable source,2026-09-21
 MUS-004,security_certifications,ISO 27001:2013,ISO 27001:2013 has no readable source,2026-09-21
 MUS-004,submarine_cable_access,Dark fibre connection to landing station,no source describes a dark fibre route to a landing station,2026-09-21
-MUS-005,operational_status,Operational,the TIA certificate lapsed in September 2023 and no newer source confirms operation,2026-09-21
 MUS-005,services_offered,Colocation; Hosting; Disaster recovery; Managed services; Monitoring; Connectivity,no readable source lists the facility's services,2026-09-21
 MUS-005,total_floor_space_sqm,2050,"2,050 m2 has no readable source",2026-09-21
 MUS-005,it_capacity_mw,1,1 MW has no readable source,2026-09-21
@@ -1767,3 +1762,200 @@ BWA-006,facility_type,Colocation/carrier-neutral,telco-owned and open to third p
 GIN-002,year_operational,2025,inaugurated 2025 but not in service by September 2026; set to the year it enters service,2026-09-21
 GIN-002,security_certifications,Uptime Institute Tier III,"Tier III reported by Ecofin; whether design documents or constructed facility, and when, not stated",2026-09-21
 GIN-002,key_tenants,Government of Guinea ministries,a November 2025 ministerial claim that national data is hosted there conflicts with the September 2026 reports; confirm any ministry actually hosted,2026-09-21
+ETH-004,security_certifications,Unknown,"Ethio Telecom calls all six of its data centres Tier III-certified (July 2026); whether Gola Sefer is one, and the certifier, not stated",2026-09-21
+ETH-004,facility_name,Ethio Telecom Modular Data Centre (Gola Sefer),Ethio Telecom reports six data centres (July 2026); only this one and the planned hyperscale site are rows,2026-09-21
+ETH-010,facility_name,Ethiopian National Data Centre (cloud.gov.et),"MInT (Feb 2023) names a Government Integrated Data Center as well as the new IT Park facility; whether this row is either, and whether the older one needs its own row, is open",2026-09-21
+GHA-005,expansion_plans,Planned,"the upgrade's scope, timetable and share of the US$200M project are not stated",2026-09-21
+GHA-013,ownership_type,Unknown,owners of Ghana Link Network Services Ltd not in the records,2026-09-21
+GHA-013,year_operational,,the record calls the facility new but gives no opening year,2026-09-21
+GHA-013,facility_type,,built to run ICUMS; whether it serves other clients is not stated,2026-09-21
+GHA-013,security_certifications,"ISO/IEC 27001:2022 (CertiTrust, February 2026)",Tier IV is Ghana Link's own description; no Uptime register entry in the records,2026-09-21
+GHA-013,server_vendors,,Dell Technologies is named as a technical partner; deployed hardware not stated,2026-09-21
+LSO-003,operational_status,Unknown,2018 source says near-complete awaiting its power station; whether it opened and is in service is not stated,2026-09-21
+LSO-003,facility_name,Government of Lesotho Data Centre (Mohale's Hoek),"the Ministry of Finance's primary government data centre in Maseru, which this site backs up, has no row",2026-09-21
+LSO-004,ultimate_parent_company,"Convalt Energy, Inc.","Convalt Energy is a portfolio company of ACO Investment Group; its stake, and so the top of the chain, is not stated",2026-09-21
+LSO-004,it_capacity_mw,,"no data centre capacity stated; the 1,200MW is the hydropower plant",2026-09-21
+LSO-004,facility_type,,described only as a large-scale AI data centre; service model not stated,2026-09-21
+ZMB-002,security_certifications,Uptime Institute Tier III Certification of Design Documents,the report names the 'production site in Lusaka'; the Uptime register should confirm which Lusaka Infratel site holds the award and its date,2026-09-21
+MRT-001,ixp_presence,Unknown,AMI (8 May 2025) says the centre provides a central exchange point linking local and international ISPs and operators; whether an IXP actually runs there is not confirmed,2026-09-21
+MRT-001,operator_name,Agence Numérique de l'État (AN-ETAT),one source (Al Wiam) names AN-ETAT as operator; confirm whether IMT/GIE has any operating role,2026-09-21
+MDG-005,operational_status,Under construction,"construction underway per Ecofin (June 2026); PRODIGY was due to close 30 June 2026, so completion should be checked",2026-09-21
+MDG-005,operator_name,"Unité de Gouvernance Digitale (UGD), Presidency of Madagascar",UGD runs PRODIGY; which body will operate the finished data centre is not stated,2026-09-21
+MDG-006,operational_status,Under construction,construction underway per Ecofin (June 2026); completion not reported,2026-09-21
+MDG-006,gps_coordinates,,the PGES excerpt gives no coordinates for the Iavoloha building,2026-09-21
+LBY-006,operational_status,Unknown,the certificate covers design documents only; whether the facility is built and in service is not stated,2026-09-21
+LBY-006,ownership_type,Unknown,"LITC appears among LPTIC's subsidiaries at the Medusa inauguration (Libya Herald, May 2025), which would make it state-owned; no record states its owner",2026-09-21
+LBY-006,hyperscaler_relationships,,LITC became a Microsoft Azure ExpressRoute partner in 2021 (Tripoli Post); whether the on-ramp is at KM-4 is not stated,2026-09-21
+LBY-007,facility_name,Ministry of Education Data Centre (Tripoli),the source does not give the building or address,2026-09-21
+LBY-007,services_offered,Ministry education-data systems; ministry websites,systems named in the opening presentation; whether all run in this data centre is not stated,2026-09-21
+BEN-005,year_operational,,tests began June 2021 and it is running by 2026; no source gives the year it entered service,2026-09-21
+BEN-005,security_certifications,,ANSI/TIA-942 rated-3 certification was in progress in 2021; whether it was awarded is not stated,2026-09-21
+BEN-005,operator_name,SBIM (state-owned telecommunications company),DCD names SBIM; the full name and its shareholding are not in the records,2026-09-21
+BEN-005,gpu_ai_capability,,the national AI and big data strategy aims to bring AI capability here; nothing shows it installed,2026-09-21
+BEN-006,operational_status,Planned,no source shows Notice to Proceed or construction started,2026-09-21
+BEN-006,ownership_type,Unknown,Greenline is EPC and O&M contractor; the owner and the 'national and local authorities' it worked with are not named,2026-09-21
+BEN-007,city,Cotonou,"the record does not locate the data centre; Cotonou, where the ministry sits, assumed",2026-09-21
+BEN-007,operational_status,Operational,existence inferred from a loan to modernise it; no source describes the site,2026-09-21
+COG-003,operational_status,Under construction,newest dated account (Feb 2026) has equipment still to install and inauguration by May 2026; the Sept 2026 ministry page speaks as if it runs but gives no date; confirm commissioning,2026-09-21
+COG-003,security_certifications,Unknown,described as Tier III+ (Feb 2026); no Uptime certification named,2026-09-21
+COG-005,city,Brazzaville,the record names E²C's installations but not the town; Brazzaville assumed,2026-09-21
+COG-005,ownership_type,Unknown,E²C is the state power utility; its ownership is not stated in the record,2026-09-21
+COG-006,ownership_type,Unknown,Congo Télécom is the incumbent operator under the digital ministry's tutelage; its equity holders are not in the record,2026-09-21
+COG-006,facility_type,,not stated whether the site is captive or offers colocation,2026-09-21
+COG-007,ownership_type,Unknown,Congo Télécom is the incumbent operator under the digital ministry's tutelage; its equity holders are not in the record,2026-09-21
+COG-007,facility_type,,not stated whether the site is captive or offers colocation,2026-09-21
+COG-008,ownership_type,Unknown,Congo Télécom is the incumbent operator under the digital ministry's tutelage; its equity holders are not in the record,2026-09-21
+COG-008,facility_type,,not stated whether the site is captive or offers colocation,2026-09-21
+DJI-001,facility_name,Djibouti Data Center (DDC),"DJI-002 describes the same facility (Harmous Building, Boulaos, 2013): Wingu calls the 2013 Djibouti Data Center its first Djibouti site; merge for T8",2026-09-21
+DJI-001,government_ownership_pct,"Undisclosed; the joint-venture partner Djibouti Telecom is 100% state-owned, but its stake in DDC is not published",Djibouti Telecom's exact stake in DDC; the CPSD says only 'predominantly',2026-09-21
+DJI-002,facility_name,Wingu Africa Data Center Djibouti (DJI01),"same facility as DJI-001 (Djibouti Data Center, Harmous Building, 2013): Wingu's 2024 launch calls it Wingu's first Djibouti facility; merge for T8",2026-09-21
+DJI-003,security_certifications,Unknown,launch coverage says Tier III certified but names no certifying body; check Uptime's register,2026-09-21
+DJI-005,operational_status,Under construction,the CPSD describes it as being completed as of mid-2025; whether it has opened is not stated,2026-09-21
+DJI-005,facility_name,Djibouti Telecom Ras Dika Data Centre,no official name found; named here by operator and district,2026-09-21
+DJI-005,it_capacity_mw,,capacity not stated,2026-09-21
+RWA-004,operational_status,Under construction,no source since the November 2022 announcement confirms construction; DCD (August 2026) calls it unclear,2026-09-21
+RWA-008,city,Kigali,no source gives a site; Kigali assumed because Xalam maps Rwanda's pipeline in the Kigali metro,2026-09-21
+RWA-008,ownership_type,Unknown,the licence's Appendix A (licensee details and shareholding) is not in the capture,2026-09-21
+RWA-008,it_capacity_mw,,capacity not stated,2026-09-21
+RWA-008,year_operational,,no target date stated,2026-09-21
+MWI-001,chinese_involvement,Investment,one AidData record ties the CCB loan to a 'National Data Centre Project'; confirm the loan financed this Blantyre facility and was disbursed,2026-09-21
+MWI-002,operational_status,Operational,"running at partial load per the June 2026 RFB, but September 2026 reports still speak of its operationalisation; confirm full commissioning date",2026-09-21
+MWI-003,major_shareholders,,TNM Plc's current shareholder register (2024 or later),2026-09-21
+MWI-003,ownership_type,Private domestic,TNM's registration and ownership are not stated in the purchase report; confirm domestic control,2026-09-21
+MWI-005,year_operational,,opening year not in the records,2026-09-21
+MWI-005,facility_type,,whether it serves TNM only or also customers is not stated,2026-09-21
+MWI-005,major_shareholders,,TNM Plc's shareholder register not in the records,2026-09-21
+MWI-006,ultimate_parent_hq_country,MWI,Sparc Systems Limited's registration and shareholders not in the records,2026-09-21
+MWI-006,facility_type,,whether it is colocation or managed hosting is not stated,2026-09-21
+MWI-006,rack_capacity,120,"120 racks is the operator's stated capacity, not installed racks",2026-09-21
+TUN-005,facility_name,CNI Government Data Center,"CNI also runs a separate National Backup Centre (World Bank-supported, begun 2006), the state's recovery site for critical applications, offering shared and dedicated backup and white-room space; location not in the records. T8 to decide whether it needs its own row",2026-09-21
+TUN-005,chinese_involvement,Construction/Equipment,confirm the CNI private cloud is installed at this data centre and what CNTIC supplies,2026-09-21
+ZWE-001,carrier_neutrality,Fully carrier-neutral,Xalam (July 2025) estimates about 0% of Zimbabwe's live supply is carrier-neutral; check the operator's claim,2026-09-21
+ZWE-002,facility_name,TelOne Harare Data Centre,"comments cite a DCD article on the National Data Centre, which now has its own row (new:3); check that none of this row's facts (Huawei, 2017) belong to the NDC",2026-09-21
+ZWE-002,carrier_neutrality,Fully carrier-neutral,Xalam (July 2025) estimates about 0% of Zimbabwe's live supply is carrier-neutral; TelOne says the centre is vendor-neutral,2026-09-21
+ZWE-003,carrier_neutrality,Fully carrier-neutral,Xalam (July 2025) estimates about 0% of Zimbabwe's live supply is carrier-neutral; check the operator's claim,2026-09-21
+ZWE-004,carrier_neutrality,Fully carrier-neutral,Xalam (July 2025) estimates about 0% of Zimbabwe's live supply is carrier-neutral; check the operator's claim,2026-09-21
+ZWE-007,operational_status,Operational,whether Phase 2 (300+ teraflops) was completed is not stated,2026-09-21
+ZWE-007,gpu_ai_capability,,no source says whether the system has GPUs,2026-09-21
+ZWE-007,ownership_type,Government / SOE,"University of Zimbabwe taken as state-owned; confirm, and whether a separate Zimbabwe Centre for HPC entity runs it",2026-09-21
+ZWE-008,facility_name,Econet Wireless Zimbabwe Harare Data Centre,"check this is not an expansion of Africa Data Centres Harare (ZWE-001), with which it was developed, or the data centre Econet ran by 2018 (Techzim, Willowvale solar licence)",2026-09-21
+ZWE-008,gps_coordinates,,site within Harare not stated,2026-09-21
+ZWE-008,ownership_type,Private domestic,"whether the building passed to Econet InfraCo in the December 2025 asset transfer, and ADC's role, are not stated",2026-09-21
+ZWE-008,carrier_neutrality,,not stated,2026-09-21
+ZWE-009,facility_name,Zimbabwe National Data Centre,ZWE-002 (TelOne) cites a DCD article on the NDC; check the two rows are separate facilities,2026-09-21
+ZWE-009,operator_name,"Ministry of ICT, Postal and Courier Services",records name the ICT ministry as the project owner; the agency running the site is not stated,2026-09-21
+ZWE-009,chinese_involvement,Construction/Equipment,the form of the Chinese government's assistance (grant or loan) is not stated; a Chinese state loan would make it Investment,2026-09-21
+ZWE-009,gps_coordinates,,site within Harare not stated,2026-09-21
+LBR-003,ownership_type,Unknown,CCL's shareholders are not in the records,2026-09-21
+LBR-003,ixp_presence,,LBR-001's comments say CCL hosts LIXP; no record here confirms it,2026-09-21
+LBR-004,city,Monrovia,no site is named; Monrovia assumed,2026-09-21
+LBR-004,operational_status,Planned,no construction reported; whether the July 2026 national data centre plan is this facility is not stated,2026-09-21
+LBR-004,ownership_type,Unknown,who owns the facility before the 2029 handover to MoPT is not stated,2026-09-21
+LBR-005,city,Monrovia,the site is not stated; Monrovia is the dateline,2026-09-21
+LBR-006,city,Monrovia,the site is not stated; Monrovia assumed,2026-09-21
+LBR-006,operational_status,Planned,'developing' does not say whether construction has started,2026-09-21
+NAM-003,chinese_involvement,None identified,Huawei collaboration with MICT on an AI-ready national data centre praised by the President in July 2026; no contract or scope reported,2026-09-21
+NAM-003,dfi_involvement,None identified,AfDB Skills for Employability programme lists constructing a National Data Centre; whether it finances this facility is not stated,2026-09-21
+NAM-004,city,Windhoek,the site is not stated; NUST's main campus is in Windhoek,2026-09-21
+NAM-004,facility_type,,commercial or research use not established,2026-09-21
+NAM-004,ownership_type,Unknown,"who owns it, Airbus or NUST, is not stated",2026-09-21
+SDN-001,operational_status,Decommissioned,destroyed per Sudani's operations CEO (January 2026); whether any rebuild is planned is not stated. The restored 'core data centre' is unnamed and unlocated,2026-09-21
+SDN-004,operational_status,Planned,announced as a future project in January 2026; no construction reported,2026-09-21
+GMB-002,facility_type,,"service model not stated (national data, homes and businesses)",2026-09-21
+GMB-002,operator_name,QGroup,"which QGroup company (QCell, Quantum Net) runs the facility is not stated",2026-09-21
+GMB-002,chinese_involvement,None identified,Huawei presence at the launch; whether it supplied the facility is unconfirmed,2026-09-21
+GMB-002,it_capacity_mw,,size and capacity not disclosed (DCD asked QGroup),2026-09-21
+GMB-003,security_certifications,,'ISO-certified' per Margins' CEO; standard not named,2026-09-21
+GMB-003,ownership_type,PPP,"who holds the equity during the BOT term, and when it transfers, not stated",2026-09-21
+NER-002,operational_status,Under construction,not commissioned at the November 2025 handover; whether it has since opened is not stated,2026-09-21
+NER-002,year_operational,,September 2025 target passed; no new date given,2026-09-21
+NER-002,operator_name,Ministry of Communication and New Information Technologies (DTS/FO project unit),"which agency will run it (ANSI, Niger Telecoms or the ministry) is not stated",2026-09-21
+NER-002,gps_coordinates,,"site in Niamey not named; ECOWAS SIGTEL lists Niger's one government data centre at Soudouré near Niamey, which may be this facility or an older ANSI site",2026-09-21
+SWZ-001,expansion_plans,Unknown,hot DR site planned in 2023 with India Exim finance; current status and location not stated,2026-09-21
+UGA-004,carrier_neutrality,Fully carrier-neutral,Xalam (January 2026) names Raxio UG1 as Uganda's only carrier-neutral facility and calls MNO sites sub-scale hybrid telco facilities,2026-09-21
+UGA-005,carrier_neutrality,Fully carrier-neutral,Xalam (January 2026) names Raxio UG1 as Uganda's only carrier-neutral facility,2026-09-21
+UGA-006,carrier_neutrality,Fully carrier-neutral,Xalam (January 2026) names Raxio UG1 as Uganda's only carrier-neutral facility,2026-09-21
+UGA-007,carrier_neutrality,Fully carrier-neutral,Xalam (January 2026) names Raxio UG1 as Uganda's only carrier-neutral facility,2026-09-21
+UGA-008,carrier_neutrality,Fully carrier-neutral,Xalam (January 2026) names Raxio UG1 as Uganda's only carrier-neutral facility,2026-09-21
+UGA-010,carrier_neutrality,Fully carrier-neutral,Xalam (January 2026) names Raxio UG1 as Uganda's only carrier-neutral facility,2026-09-21
+UGA-012,gpu_ai_capability,Unknown,"whether the National AI Research Cloud (March 2026) runs in this facility, and on what hardware",2026-09-21
+UGA-013,chinese_involvement,None identified,Centenary-Huawei agreement (May 2026) covers data centre development; whether Huawei supplies the Masaka site is not stated,2026-09-21
+UGA-017,year_operational,,no completion date published,2026-09-21
+UGA-017,rack_capacity,,scale of the data centre not stated; it may be a server room within the office block,2026-09-21
+GAB-001,security_certifications,ISO 27001; TIA-942; HDS,"the July 2026 sources say Tier III certified without naming Uptime or another body; ISO 27001, TIA-942 and HDS not in the records",2026-09-21
+GAB-001,gpu_ai_capability,Unknown,"a room 'for specific uses, particularly AI' is described; no GPU hardware named",2026-09-21
+GAB-001,facility_name,ST Digital Datacenter Gabon (Nkok SEZ),APDPVP (September 2026) says a mirror site is planned in Haut-Ogooue; not a row until it has a place and status,2026-09-21
+GAB-004,city,,the records do not give the site; ACE Gabon's landing station is the likely neighbour,2026-09-21
+GAB-004,facility_name,ACE Gabon Carrier Hotel (Gabon Datacenter),"check against GAB-002 (Cybastion/ANINF national DC): different owner, financing (local banks vs Citibank/EXIM) and size (160 racks vs 20 MW), but both are state data centres in Gabon",2026-09-21
+GAB-004,submarine_cable_access,,to be interconnected with Gabon's subsea cables; route not stated,2026-09-21
+GAB-004,security_certifications,,Tier III is the design target; no certification reported,2026-09-21
+GNQ-002,facility_name,CNIAPGE Government Data Centre,"site not stated; confirm it is separate from GITGE's Sipopo Datacenter (GNQ-001), whose row already cites two of these CNIAPGE sources",2026-09-21
+GNQ-002,city,Malabo,Malabo assumed from CNIAPGE and the Presidency it serves; no record gives the site,2026-09-21
+GNQ-002,year_operational,,in place by January 2019; opening year not stated,2026-09-21
+GNQ-002,security_certifications,,Tier III claimed by BTW Media; no Uptime award cited,2026-09-21
+GNQ-003,operational_status,Planned,works and equipment still at tender in August 2026; whether an older server room is in service meanwhile is not stated,2026-09-21
+GNQ-004,operational_status,Planned,works and equipment still at tender in August 2026,2026-09-21
+SOM-002,operational_status,Under construction,"near completion in May 2025, but the state minister called it planned in August 2026; whether it is finished, stalled or a second project is unclear",2026-09-21
+SOM-004,year_operational,,no completion date given,2026-09-21
+SOM-004,dfi_involvement,"TaiwanICDF (Taiwan International Cooperation and Development Fund), with the Taiwan Technical Mission: supports design and construction and ISO/IEC 27001 adoption; instrument and amount not stated",whether TaiwanICDF funds the build by grant or loan is not stated,2026-09-21
+SOM-005,operational_status,Under construction,one employee post on earthing works; whether the facility is finished or in service is not stated,2026-09-21
+SOM-005,ownership_type,Unknown,Golis Telecom's owners are not in the record,2026-09-21
+SOM-005,facility_type,,presumably the operator's own facility; not stated,2026-09-21
+MUS-001,gpu_ai_capability,"Yes, confirmed GPU/AI infrastructure","operator-asserted only, and the CEO says 'our data centre' without naming Rose Belle; no vendor or delivery record",2026-09-21
+MUS-006,security_certifications,,"Tier III compliance is MITCI's claim, not a certificate; ISO 27001 was being implemented in September 2025",2026-09-21
+MUS-006,gps_coordinates,,"Ebene is stated; the building (possibly SICOM Tower, where MITCI sits) is not",2026-09-21
+MUS-007,operator_name,Aphelion,the operating company is not named beyond 'Aphelion',2026-09-21
+MUS-007,ownership_type,Unknown,owner not stated,2026-09-21
+MUS-008,security_certifications,,'Tier III' is the article's description; no certificate,2026-09-21
+MUS-008,ownership_type,Unknown,Harel Mallac group's ownership not in the records,2026-09-21
+MUS-009,facility_name,Rogers Capital Les Cascades Data Center,"the same article also lists a 'Rogers Capital Port Louis Data Center'; it may be this site or MUS-004, so no row was added for it - T8 to check",2026-09-21
+MUS-009,ownership_type,Unknown,"likely held like MUS-003/004 through Rogers Capital and ER Group, but no source says so for this site",2026-09-21
+MUS-010,security_certifications,,'Tier IV-designed' is the article's description; not on the Uptime register in the records,2026-09-21
+MUS-010,operator_name,Bhumishq,the operating company is not named beyond 'Bhumishq',2026-09-21
+MUS-011,operator_name,Birger,"probably Blanche Birger Co. Ltd, which wins MITCI storage contracts, but no record links the two",2026-09-21
+TCD-001,operational_status,Operational,rests on one ministerial statement that two N'Djamena data centres are commissioned; a month earlier certification was still pending,2026-09-21
+TCD-001,gps_coordinates,"12.1048, 15.0445",the Klemat district is stated; the coordinates are not,2026-09-21
+TCD-002,operational_status,Unknown,last reported 90% built (May 2023); whether it is one of the two centres commissioned in August 2026 is not stated,2026-09-21
+TCD-002,operator_name,Unknown,not stated; ADETIC runs the main centre and has a 'backup site' (February 2026) that may be this one,2026-09-21
+TCD-002,chinese_involvement,Investment,EXIM finance is stated for PMICE as a whole; Huawei's role at this site is not stated,2026-09-21
+TCD-003,operator_name,Unknown,owner and operator not named; may be ADETIC's existing data centre or backup site,2026-09-21
+TCD-003,operational_status,Unknown,built 2016; no source on whether it still runs,2026-09-21
+SLE-004,operator_name,"Ministry of Communication, Technology and Innovation (MoCTI) and National Telecommunications Authority (NatCA)",the records say the building houses NatCA and MoCTI and that the centre stores government data; which body runs it is not stated,2026-09-21
+SLE-004,ownership_type,Government / SOE,state ownership inferred from a regulator's headquarters commissioned by the President; no source states the owner,2026-09-21
+SLE-004,expansion_plans,,"MoCTI plans a redundancy site at State House (September 2026); no owner, date or budget given",2026-09-21
+SSD-001,facility_name,South Sudan National Data Centre (MGI/NCA),"ITWeb (September 2025) says a national data hub in Juba is being completed and the government spokesman (Eye Radio, 30 April 2026) says the national data centre is halfway built; T8 to decide whether that is a second facility or this one under construction",2026-09-21
+SSD-001,operational_status,Operational,the April 2026 statement that the national data centre is halfway built contradicts Operational if it describes this facility,2026-09-21
+SSD-002,operational_status,Operational,only the company's own marketing page says it is in service,2026-09-21
+SSD-002,ownership_type,Private domestic,'proudly South Sudanese-owned' is the company's own claim; shareholders not disclosed,2026-09-21
+SSD-002,carrier_neutrality,,the site offers colocation but names no carriers other than its own ISP arm,2026-09-21
+BDI-003,city,Bujumbura,not stated; SETIC and PAFEN are based in Bujumbura,2026-09-21
+BDI-003,operational_status,Operational,inferred from a plan to modernise it; no source describes the centre in service,2026-09-21
+BDI-003,facility_name,SETIC Government Data Centre,"PAFEN also 'provides for' a national data centre (We Are Tech, March 2026); T8 to decide whether that is this centre's modernisation or a new facility",2026-09-21
+TGO-001,operator_name,Société d'Infrastructures Numériques (SIN),whether Africa Data Centres' management of the LDC has ended; the 2026 sources name only SIN,2026-09-21
+TGO-001,security_certifications,"Tier III certification (claimed by SIN, May 2026; certifying body not named)",Uptime Institute register not checked; the 2021 inauguration said certification was in progress,2026-09-21
+TGO-001,ixp_presence,IXP connected (not hosted),whether the Togo IXP (also a SIN asset) is hosted on-site,2026-09-21
+STP-001,city,São Tomé,"the aide-mémoire gives no address; São Tomé is assumed as the capital, and the site is only said to be at sea level",2026-09-21
+STP-001,operator_name,Government of São Tomé and Príncipe,"the agency that runs it (INIC, DITEI or another) is not stated",2026-09-21
+STP-001,facility_name,São Tomé and Príncipe Government Data Centre,"AFAP tendered servers for 'the data center' and digital-ID disaster recovery in May 2026; whether that is this centre, a new one or cloud is not stated",2026-09-21
+MLI-001,facility_name,Centre de Données National du Mali (CDN Mali),"ITU (2022) describes SMTD's existing data centre being upgraded to Tier III; confirm whether the 2026 National Data Centre is that facility, and that SMTD runs it",2026-09-21
+MLI-001,chinese_involvement,None identified,comments link the facility to Huawei/CITCC's Mali Numérique; launch reports do not mention Huawei and Africa24 says it was locally financed,2026-09-21
+MLI-002,city,Bamako,AGETIC is Bamako-based; the report does not give the site,2026-09-21
+MLI-002,operational_status,Operational,only source is ITU 2022,2026-09-21
+MLI-002,facility_name,AGETIC Government Data Centre,AGETIC's DR site is a second facility; location not given,2026-09-21
+BEN-008,operational_status,Unknown,undated ECOWAS listing only,2026-09-21
+BEN-008,operator_name,Presidency of the Republic of Benin,which agency runs it is not stated,2026-09-21
+LBR-007,city,Monrovia,not stated; the ministry is in Monrovia,2026-09-21
+LBR-007,operational_status,Unknown,undated ECOWAS listing only,2026-09-21
+COM-001,dfi_involvement,"AfDB €9.51M ($10.5M) financing (2024) for a new government data centre, the existing secondary data centre and an incubator; not confirmed to be this facility [Techpoint](https://techpoint.africa/news/comoros-gets-funding-from-afdb/); World Bank RCIP-4 (IDA) financed the connectivity programme under which Comores Cables was set up [World Bank ICR](https://documents1.worldbank.org/curated/en/099082323102024792/pdf/P11821307cc1c003e0bf5709384bc41bafd.pdf)",AfDB's PADEC new data centre is a separate site (COM PADEC row); whether PADEC funds this one as the 'existing secondary data centre' is not stated,2026-09-21
+COM-001,carrier_neutrality,Single carrier / captive,Comores Cables says it is building a neutral data centre; whether that is this facility or another is not stated,2026-09-21
+COM-002,facility_name,"Comoros National Data Centre (PADEC, Universite des Comores campus)",confirm this is a separate site from COM-001 and not a rebuild of it,2026-09-21
+COM-002,year_operational,,PADEC runs four years from March 2025; no target year for the data centre,2026-09-21
+COM-002,operator_name,"ANADEN (National Agency for Digital Development), implementing agency; PPP operator to be recruited",PPP operator not yet recruited,2026-09-21
+ERI-001,facility_name,Eritel Asmara,"Eritel says 'Datacenters', plural: how many sites, and their names, not stated",2026-09-21
+ERI-001,city,Asmara,location not stated; Asmara assumed from the service terms,2026-09-21
+ERI-001,ownership_type,,owner of Eritel Telecom Corporation not in the records,2026-09-21
+CPV-001,dfi_involvement,"Yes - AfDB: €45.5M+ loan for TechPark CV data centers (hosts government DC redundancy); World Bank: Digital Cabo Verde Project for government cloud expansion [AfDB](https://www.datacenterdynamics.com/en/news/cape-verde-receives-15-million-loan-for-two-data-centers/), [caboverdeexpert](https://www.caboverdeexpert.com/cabo-verde-digital-data-centers/), [World Bank](https://www.caboverdeexpert.com/cabo-verde-digital-operational-nucleus-for-the-information-society-nosi/)","AfDB appraisal says DC1 was financed by Portugal and the AfDB financed DC2 and the DR site; the AfDB claim here is the park's, not this facility's",2026-09-21
+CPV-001,year_operational,2014,a 15 September 2015 dispatch calls the State Data Centre recently inaugurated; 2014 not confirmed,2026-09-21
+CPV-004,operational_status,Unknown,the park was inaugurated May 2025 with a 'fully equipped' data centre; whether DC2 is in service is not stated,2026-09-21
+CPV-004,operator_name,Not stated (PPP concession planned),PPP concessionaire not named,2026-09-21
+CPV-004,facility_name,"TechPark CV Data Center II (DC2, Praia Campus)",check CPV-001's TechPark facts are not DC2's; the dataset has treated the park's data centre as NOSi's,2026-09-21

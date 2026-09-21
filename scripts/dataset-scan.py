@@ -11,6 +11,7 @@ interrupted run repeats exactly what it did not finish and the nightly cost is t
     python scripts/dataset-scan.py --packet data-centres PLACE [--parts N]   # PLACE may be ALL
     python scripts/dataset-scan.py --apply data-centres PLACE [--dry-run]
     python scripts/dataset-scan.py --seed data-centres SLUG ... # mark without a decision (baseline)
+    python scripts/dataset-scan.py --relink data-centres        # raw_slugs rebuilt from source_urls
 
 **The trigger** (datasets.md §2): a record is a candidate if it carries an `infra.store` topic, or
 its title or hub_line names a data centre. Records on `origin_status: hold` are left out, as in
@@ -287,7 +288,7 @@ def apply(name, where, dry):
             det = ("From raw/. " + " ".join(changes)).strip()
         have = [u.strip() for u in target["source_urls"].split(";") if u.strip()]
         hs = [u.strip() for u in target["raw_slugs"].split(";") if u.strip()]
-        n_new = 0
+        n_new = n_slug = 0
         seen = {norm(u) for u in have}
         for s in slugs:
             if url.get(s) and norm(url[s]) not in seen:
@@ -297,8 +298,11 @@ def apply(name, where, dry):
                 n_new += 1
             if s not in hs:
                 hs.append(s)
+                n_slug += 1
         if n_new and action == "modify":
             det += f" {n_new} source(s) added from the catalogue."
+        elif n_slug and action == "modify":
+            det += f" {n_slug} catalogue record(s) joined the row."
         target["source_urls"], target["raw_slugs"] = "; ".join(have), "; ".join(hs)
         target["hyperscaler_presence"] = "Yes" if any(target[h] == "Yes" for h in de.HYPER) else "No"
         target["cloud_act_exposure"] = de.cloud_act(target)
@@ -338,12 +342,45 @@ def apply(name, where, dry):
     print(f"{mark(name, dec['considered'])} slug(s) marked considered")
 
 
+def relink(name):
+    """Rebuild every row's raw_slugs from its source_urls: each URL the catalogue holds, by the
+    catalogue's own key. T5's matcher wrote a URL-derived key the catalogue does not use (282 dead
+    entries, found 2026-09-21); this keeps the column true whatever wrote it."""
+    by_url = collections.defaultdict(list)
+    valid = set()
+    for r in vault_lib.load_index(quiet=True):
+        d, fm = r.get("d") or {}, r.get("fm") or {}
+        if d.get("kind") == "source" and d.get("folder") == "raw":
+            s = d.get("slug") or os.path.basename(r["path"])[:-3]
+            valid.add(s)
+            if fm.get("url"):
+                by_url[norm(str(fm["url"]))].append(s)
+    rows = dl.read(name)
+    dead = changed = 0
+    for r in rows:
+        old = [s.strip() for s in r["raw_slugs"].split(";") if s.strip()]
+        dead += sum(s not in valid for s in old)
+        keep = [s for s in old if s in valid]
+        for u in r["source_urls"].split(";"):
+            keep += by_url.get(norm(u), []) if u.strip() else []
+        new = "; ".join(dict.fromkeys(keep))
+        if new != r["raw_slugs"]:
+            r["raw_slugs"] = new
+            changed += 1
+    dl.write(name, rows)
+    if changed:
+        dl.log(name, "ALL", "modify", f"raw_slugs rebuilt from source_urls on {changed} rows: {dead} entries were keys "
+               "the catalogue does not use, and every cited URL the catalogue holds is now linked. No fact changed.")
+    print(f"{changed} rows relinked, {dead} dead entries dropped")
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--slugs", nargs="+", metavar=("DATASET", "PLACE"))
     ap.add_argument("--packet", nargs=2, metavar=("DATASET", "PLACE"))
     ap.add_argument("--apply", nargs=2, metavar=("DATASET", "PLACE"))
     ap.add_argument("--seed", nargs="+", metavar=("DATASET", "SLUG"))
+    ap.add_argument("--relink", metavar="DATASET")
     ap.add_argument("--parts", type=int, default=1)
     ap.add_argument("--dry-run", action="store_true")
     a = ap.parse_args()
@@ -356,6 +393,8 @@ def main():
         packet(a.packet[0], a.packet[1], a.parts)
     elif a.apply:
         apply(a.apply[0], a.apply[1], a.dry_run)
+    elif a.relink:
+        relink(a.relink)
     elif a.seed:
         print(f"{mark(a.seed[0], a.seed[1:])} slug(s) marked considered")
     else:

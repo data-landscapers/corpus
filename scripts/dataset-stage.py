@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """dataset-stage.py — T5: which of a dataset's sources the catalogue holds, and staging the rest.
 
-    python scripts/dataset-stage.py --match     # catalogue slugs into url-audit.csv and raw_slugs
+    python scripts/dataset-stage.py --match     # catalogue slugs into url-audit.csv (raw_slugs: dataset-scan --relink)
     python scripts/dataset-stage.py --stage     # dated documents not held -> new-queue/, no READY
     python scripts/dataset-stage.py --ready     # after lint-staged-queue passes: READY in each batch
 
@@ -81,26 +81,19 @@ def match() -> None:
         n = ss.norm(r["url"])
         if n in held:
             f = held[n].get("file", "")
-            r["raw_slug"] = held[n].get("slug_key") or pathlib.PurePosixPath(f).stem
+            # The file stem is the catalogue's key; slug_key is a URL-derived key it does not use
+            # (282 dead raw_slugs until 2026-09-21).
+            r["raw_slug"] = pathlib.PurePosixPath(f).stem or held[n].get("slug_key", "")
             slug_of[r["url"]] = r["raw_slug"]
         elif n in rejected:
             r["raw_slug"] = ""
             r["note"] = f"rejected by OSINT {rejected[n].get('decided', '')}: {rejected[n].get('reason', '')}"
             n_rej += 1
     du.write_audit(rows)
-    recs = dl.read(NAME)
-    changed = 0
-    for rec in recs:
-        slugs = "; ".join(dict.fromkeys(slug_of[u] for u in rec["source_urls"].split("; ") if u in slug_of))
-        if slugs != rec["raw_slugs"]:
-            rec["raw_slugs"] = slugs
-            changed += 1
-    dl.write(NAME, recs)
-    if changed:
-        dl.log(NAME, "ALL", "modify",
-               f"raw_slugs filled for {changed} facilities: {len(slug_of)} of their source URLs are in the "
-               f"catalogue. Linkage only; no fact changed.")
-    print(f"{len(slug_of)} URLs held in the catalogue, {n_rej} rejected by OSINT; raw_slugs set on {changed} facilities")
+    # raw_slugs is rebuilt by `dataset-scan.py --relink` from source_urls, which also keeps the slugs
+    # T7 joined to rows; writing it here replaced them wholesale.
+    print(f"{len(slug_of)} URLs held in the catalogue, {n_rej} rejected by OSINT. "
+          "Now run: python scripts/dataset-scan.py --relink data-centres (from scripts/.workroot)")
 
 
 def cached_body(name: str) -> tuple[str, str, str]:
