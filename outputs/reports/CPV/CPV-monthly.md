@@ -3,9 +3,9 @@ title: Cape Verde — monthly update, August – September 2026
 compiled: 2026-09-21
 period: 2026-08-01 to 2026-09-21
 place: CPV
-ledger_rows: 21
+ledger_rows: 23
 not_held: 30
-record: 4b77527ed056
+record: cb4e2b8aced2
 ---
 
 # Cape Verde: monthly update, August – September 2026
@@ -15,7 +15,7 @@ record: 4b77527ed056
 ## Summary of the month
 
 <!-- narrative: summary -->
-Statistics rather than systems carried the month. The Prime Minister told Parliament on 31 July that the national statistics institute had produced falsified data and ordered an independent evaluation of it; [the institute's board rejected the allegations three days later and offered to host any external review](https://expressodasilhas.cv/pais/2026/08/03/ine-rejeita-acusacoes-de-manipulacao-de-dados-e-diz-estar-disponivel-para-avaliacao-independente/103949), and nothing is established about the evaluation's terms, who conducts it or whether it reports in public. Two consultations opened and neither carries a draft text: [a strategic consultation on the national digital transformation agenda on 6 August](https://www.governo.cv/ministro-da-economia-comercio-industria-e-transicao-digital-promove-consulta-estrategica-sobre-o-futuro-digital-de-cabo-verde/) and [a regulatory one on satellite communications closing 31 August](https://spaceinafrica.com/2026/08/05/cape-verde-opens-public-consultation-on-new-satellite-communications-regulatory-framework/). China [made about EUR 9.3m available for a third phase of the urban surveillance programme](https://www.anacao.cv/noticia/2026/08/15/seguranca-china-disponibiliza-a-cabo-verde-financiamento-para-a-terceira-fase-do-pojecto-cidade-segura/), covering command centres, data centres and base stations in three towns, with no retention rule or oversight arrangement published for it or for the two phases before it. A municipal council [presented a 17-service platform for operation by the end of 2026](https://expressodasilhas.cv/politica/2026/08/25/cmsv-prepara-lancamento-de-plataforma-digital-com-servicos-municipais/104273).
+Statistics rather than systems carried the month. [Days after telling Parliament that the national statistics institute had produced falsified data, the Prime Minister announced an independent evaluation of it on 31 July, and the institute's board rejected the allegations and offered to host any external review](https://expressodasilhas.cv/pais/2026/08/03/ine-rejeita-acusacoes-de-manipulacao-de-dados-e-diz-estar-disponivel-para-avaliacao-independente/103949); nothing is established about the evaluation's terms, who conducts it or whether it reports in public. Two consultations opened and neither carries a draft text: [a strategic consultation on the national digital transformation agenda on 6 August](https://www.governo.cv/ministro-da-economia-comercio-industria-e-transicao-digital-promove-consulta-estrategica-sobre-o-futuro-digital-de-cabo-verde/) and [a regulatory one on satellite communications closing 31 August](https://spaceinafrica.com/2026/08/05/cape-verde-opens-public-consultation-on-new-satellite-communications-regulatory-framework/). China [made about EUR 9.3m available for a third phase of the urban surveillance programme](https://www.anacao.cv/noticia/2026/08/15/seguranca-china-disponibiliza-a-cabo-verde-financiamento-para-a-terceira-fase-do-pojecto-cidade-segura/), covering command centres, data centres and base stations in three towns, with no retention rule or oversight arrangement published for it or for the two phases before it. A municipal council [presented a 17-service platform for operation by the end of 2026](https://expressodasilhas.cv/politica/2026/08/25/cmsv-prepara-lancamento-de-plataforma-digital-com-servicos-municipais/104273), and the justice institute [counted 46,000 criminal case files handled digitally across all 17 comarcas](https://expressodasilhas.cv/pais/2026/09/17/justica-digital-ja-poupa-23-milhoes-de-folhas-de-papel/104656). The United States compact the country had been selected for [was reported terminated in December 2025](https://expressodasilhas.cv/economia/2026/09/12/millennium-challenge-corporation-cabo-verde-elegivel-mas-ainda-nao-se-sabe-se-vai-avancar-com-candidatura/104583).
 <!-- /narrative -->
 
 ## Governance
@@ -23,12 +23,12 @@ Statistics rather than systems carried the month. The Prime Minister told Parlia
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
-A [strategic consultation on the national digital transformation agenda was convened in Praia on 6 August](https://www.governo.cv/ministro-da-economia-comercio-industria-e-transicao-digital-promove-consulta-estrategica-sobre-o-futuro-digital-de-cabo-verde/), seating public administration, private sector, academia and named specialists, whose contributions are to feed a national diagnosis and the agenda's priorities. Its stated scope runs from interoperability of the public administration to digital inclusion, data protection and cybersecurity. No draft, title, adoption date or budget is held, and nothing connects it to the governance framework whose terms of reference the finance ministry issued in 2025.
+A [strategic consultation on the national digital transformation agenda was convened in Praia on 6 August](https://www.governo.cv/ministro-da-economia-comercio-industria-e-transicao-digital-promove-consulta-estrategica-sobre-o-futuro-digital-de-cabo-verde/), seating public administration, private sector, academia and named specialists, whose contributions are to feed a national diagnosis and the agenda's priorities. Its stated scope runs from interoperability of the public administration to digital inclusion, data protection and cybersecurity. No draft, adoption date or budget is held. On 10 September the prime minister [named state modernisation and digital transformation among the government's priorities for the new phase of the United Nations partnership](https://expressodasilhas.cv/politica/2026/09/10/governo-prioriza-modernizacao-do-estado-acao-climatica-e-juventude-na-parceria-com-a-onu/104554), with no framework document or envelope attached. On 16 September a [territorial programme for Maio was launched with internet-access, digital-economy and training projects and free internet points in three localities, Fogo to follow](https://www.inforpress.cv/en/maio-governo-apresenta-programa-maio-transforma-para-acelerar-economia-e-transformacao-digital-da-ilha); no budget is stated.
 <!-- /narrative -->
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-The regulator [opened a public consultation on licensing, spectrum use, frequency coordination, user protection, network security and emergency communications for satellite operators, with submissions to 31 August](https://spaceinafrica.com/2026/08/05/cape-verde-opens-public-consultation-on-new-satellite-communications-regulatory-framework/). It is a direct response to the satellite service launched in the archipelago in December 2024, and is distinct from the general-authorisation regime under which that service was licensed. No draft text or adoption date is published.
+The regulator [opened a public consultation on licensing, spectrum use, frequency coordination, user protection, network security and emergency communications for satellite operators, with submissions to 31 August](https://spaceinafrica.com/2026/08/05/cape-verde-opens-public-consultation-on-new-satellite-communications-regulatory-framework/). No draft text or adoption date is published.
 <!-- /narrative -->
 ### Data protection
 
@@ -38,7 +38,7 @@ Oversight of the state's own intelligence capability moved by administrative act
 ### Standards
 
 <!-- narrative: governance--gov-standards -->
-The Prime Minister told Parliament during the State of the Nation debate on 31 July 2026 that the statistics institute had produced falsified data, and announced an independent evaluation to establish alleged interference and manipulation. On 3 August the institute's board rejected the allegations clearly, firmly and categorically, and said it was available to receive any external evaluation mission or peer review, undertaking to supply all technical documentation ([both accounts](https://expressodasilhas.cv/pais/2026/08/03/ine-rejeita-acusacoes-de-manipulacao-de-dados-e-diz-estar-disponivel-para-avaliacao-independente/103949)). Nothing is established about the evaluation's terms of reference, who conducts it, when it reports, or whether its findings will be published. The dispute is not new — anonymous technicians raised it in August 2025 and the institute rejected it in September 2025 — and the two accounts remain unreconciled.
+The Prime Minister [announced an independent evaluation of the statistics institute during the State of the Nation debate on 31 July 2026, to establish alleged interference and manipulation of data, days after telling Parliament it had produced falsified data](https://expressodasilhas.cv/pais/2026/08/03/ine-rejeita-acusacoes-de-manipulacao-de-dados-e-diz-estar-disponivel-para-avaliacao-independente/103949). On 3 August [the institute's board rejected the allegations and said it would receive any external evaluation mission or peer review, undertaking to supply all technical documentation](https://expressodasilhas.cv/pais/2026/08/03/ine-rejeita-acusacoes-de-manipulacao-de-dados-e-diz-estar-disponivel-para-avaliacao-independente/103949). Nothing is established about the evaluation's terms of reference, who conducts it, when it reports, or whether its findings will be published.
 <!-- /narrative -->
 
 ## ICT Infrastructure
@@ -48,17 +48,12 @@ The Prime Minister told Parliament during the State of the Nation debate on 31 J
 <!-- narrative: ict-infrastructure--infra-connect -->
 The regulator's quarterly market series, which had stopped at the second quarter of 2025 in this repository, resumed on 5 August with the [first-quarter 2026 report: 588,603 active SIM cards at 113.9% penetration, down 0.8% on the quarter, and 511,702 internet access subscriptions, up 1% on the quarter and down 4% on the year](https://www.arme.cv/index.php/noticia-geral/1392-arme-publica-relatorio-indicadores-estatisticos-das-comunicacoes-eletronicas-1o-trimestre-de-2026). [The composition of internet access moved rather than its level — mobile broadband subscriptions fell 16.4% year on year while fixed broadband rose 12.9%, and 86% of subscriptions are still delivered over mobile broadband on a small screen](https://www.arme.cv/index.php/noticia-geral/1392-arme-publica-relatorio-indicadores-estatisticos-das-comunicacoes-eletronicas-1o-trimestre-de-2026). [Market shares by internet subscription are CVTelecom 72%, Unitel T+ 27.3% and Starlink 0.64%, the satellite operator up 0.20 percentage points on the quarter](https://www.arme.cv/index.php/noticia-geral/1392-arme-publica-relatorio-indicadores-estatisticos-das-comunicacoes-eletronicas-1o-trimestre-de-2026). The series carries no breakdown by island or municipality.
 <!-- /narrative -->
-### Data Storage
-
-<!-- narrative: ict-infrastructure--infra-store -->
-
-
-A second facility was announced without particulars: a [teleport digital hub is to open at Praia, announced at a Brazil-Cabo Verde-Portugal business forum on 4 September](https://observador.pt/2026/09/04/brasil-e-portugal-querem-reforcar-negocios-com-cabo-verde-e-apostar-no-mercado-africano/). No operator, site, capacity, investment figure or date is given, and nothing states how it relates to the 5G strategy's target of regional digital-hub status by 2030.
-<!-- /narrative -->
 ### Cybersecurity
 
 <!-- narrative: ict-infrastructure--infra-cybersec -->
 The surveillance programme moved to a third phase on foreign money. China [made about EUR 9.3m available as non-reimbursable assistance for phase three of the Cidade Segura project](https://www.anacao.cv/noticia/2026/08/15/seguranca-china-disponibiliza-a-cabo-verde-financiamento-para-a-terceira-fase-do-pojecto-cidade-segura/), the implementation agreement signed in the week to 15 August by the interior minister and the Chinese ambassador at the National Police Command Centre in Praia, and stated as reinforcing the technological and operational capacity of the security forces and supporting criminal investigation. [Phase three covers command centres, data centres and wireless base stations at Assomada, Tarrafal de Santiago and Porto Novo, and expanded video surveillance in Praia and Mindelo](https://www.anacao.cv/noticia/2026/08/15/seguranca-china-disponibiliza-a-cabo-verde-financiamento-para-a-terceira-fase-do-pojecto-cidade-segura/). No camera count, retention rule, data-protection authorisation or oversight arrangement is published for this phase or the two before it.
+
+On 8 September the [national postal operator warned customers about fraudulent messages from people impersonating its staff, asking recipients to click a link that is not its own](https://expressodasilhas.cv/pais/2026/09/08/correios-de-cabo-verde-alertam-para-mensagens-fraudulentas/104509). No message volume, loss figure or referral to a response body is published.
 <!-- /narrative -->
 
 ## DPI
@@ -80,7 +75,7 @@ The social registry now has a coverage figure: the UN country team [put the Cada
 ### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->
-
+The justice information system reported on its second year. The justice institute's evaluation, released on 16 September, [counts 46,000 criminal case files handled digitally across all 17 comarcas, an estimated 2.3 million sheets of paper saved, 401 justice professionals signing with qualified digital signatures and 110 trained in artificial intelligence](https://expressodasilhas.cv/pais/2026/09/17/justica-digital-ja-poupa-23-milhoes-de-folhas-de-papel/104656); the civil-process component waits on authorisation for three pilots.
 
 Procurement opened behind the announced health digitalisation. [Expressions of interest close on 18 September 2026 for a consultancy to train and support use of the health information system, its portal and the open-source district health platform, under a US$29m concessional health-security project](https://static.expressodasilhas.cv/media/pub/v2/pdf/2026/09/1788545549351.pdf). It is a training and support contract rather than a build — which is the part an announced system usually lacks, and the part that decides whether it is used.
 <!-- /narrative -->
@@ -95,7 +90,7 @@ A municipal council [presented a services platform it plans to put into public p
 ### Innovation ecosystem
 
 <!-- narrative: technology--tech-innovate -->
-The innovation record moved to the extent that two institutions said they intend to work together. The national university and the economy ministry [are projecting a partnership on innovation, entrepreneurship and employment](https://unicv.edu.cv/pt/nots-geral/5931-uni-cv-e-ministerio-da-economia-projetam-parceria-para-inovacao-empreendedorismo-e-emprego). Projected is the operative word: no scope, funding or programme accompanies it, and nothing here is yet an instrument the repository can track.
+The innovation record moved to the extent that two institutions said they intend to work together. The national university and the economy ministry [are projecting a partnership on innovation, entrepreneurship and employment](https://unicv.edu.cv/pt/nots-geral/5931-uni-cv-e-ministerio-da-economia-projetam-parceria-para-inovacao-empreendedorismo-e-emprego). Projected is the operative word: no scope, funding or programme accompanies it. A company hub for technology firms was [announced at a Brazil-Cabo Verde-Portugal business forum in Praia on 4 September](https://observador.pt/2026/09/04/brasil-e-portugal-querem-reforcar-negocios-com-cabo-verde-e-apostar-no-mercado-africano/) and [created with a tax number by 17 September, to draw firms in education, technology, IoT hardware and smart cities to the technology park](https://inforpress.cv/en/missao-cabo-verde-teleport-supera-metas-previstas-e-prepara-novos-investimentos-no-pais); no investment figure, site or capacity is stated.
 <!-- /narrative -->
 
 ## Inclusion
@@ -112,4 +107,12 @@ A [two-month pilot of training and mentoring in digital business tools for about
 
 <!-- narrative: data--data-open -->
 The fisheries ministry presented a [public Fisheries Information System giving structured access to data on landings, licences, catches, revenues, subsidies and the sector's legal framework](https://maa.gov.cv/index.php/noticias/425-cabo-verde-destaca-avancos-na-transparencia-das-pescas-em-evento-internacional-da-fiti-na-fao) at the FAO fisheries committee, built under the fisheries transparency standard the country joined in 2023. No launch date, licence or update frequency is given.
+<!-- /narrative -->
+
+## Geopolitics
+
+### US / hyperscaler activities
+
+<!-- narrative: geopolitics--geopol-usa -->
+The one United States instrument on the record has gone. The national press reported on 12 September that [the third Millennium Challenge compact, whose initial agreement was signed in April 2024, was officially terminated in December 2025 after the corporation's global aid was cut, and that the country is on the eligible list for FY2027 published on 31 August](https://expressodasilhas.cv/economia/2026/09/12/millennium-challenge-corporation-cabo-verde-elegivel-mas-ainda-nao-se-sabe-se-vai-avancar-com-candidatura/104583). The ministry responsible gave no answer on whether it will apply.
 <!-- /narrative -->
