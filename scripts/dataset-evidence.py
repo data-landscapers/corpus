@@ -2,6 +2,7 @@
 """dataset-evidence.py — T6: check each Data Centres row against the sources it cites.
 
     python scripts/dataset-evidence.py packet SYC     # write prep/dc-evidence/SYC/packet.md
+    python scripts/dataset-evidence.py packet ZAF --parts 6   # packet-1.md ... packet-6.md
     python scripts/dataset-evidence.py apply SYC      # apply prep/dc-evidence/SYC/decisions.json
     python scripts/dataset-evidence.py apply SYC --dry-run
     python scripts/dataset-evidence.py status         # rows verified, by country
@@ -184,8 +185,19 @@ def excerpt(text, row):
     return "\n\n".join(out) + f"\n\n[excerpted: {used:,} of {len(text):,} characters]"
 
 
-def packet(iso):
-    rows = [r for r in dl.read(NAME) if r["country"] == iso]
+def packet(iso, parts=1):
+    """With parts > 1, a large country is cut into packet-1.md ... packet-N.md, rows in ID order, so
+    several readers can take it; each writes decisions-K.json, and apply reads them all."""
+    everyone = [r for r in dl.read(NAME) if r["country"] == iso]
+    if parts > 1:
+        size = -(-len(everyone) // parts)
+        for k in range(parts):
+            _packet(iso, everyone[k * size:(k + 1) * size], f"packet-{k + 1}.md")
+        return
+    _packet(iso, everyone, "packet.md")
+
+
+def _packet(iso, rows, name):
     if not rows:
         sys.exit(f"no rows for {iso}")
     audit = collections.defaultdict(list)
@@ -211,7 +223,7 @@ def packet(iso):
                 out.append("```text\n" + excerpt(text, r).replace("```", "'''") + "\n```")
             else:
                 out.append("*(no text: unreadable)*")
-    p = WORK / iso / "packet.md"
+    p = WORK / iso / name
     p.parent.mkdir(parents=True, exist_ok=True)
     p.write_text("\n".join(out), encoding="utf-8")
     print(f"{p.relative_to(dl.ROOT)}: {len(rows)} rows, {p.stat().st_size:,} bytes")
@@ -219,14 +231,24 @@ def packet(iso):
 
 def apply(iso, dry):
     today = datetime.date.today().isoformat()
-    dec = json.loads((WORK / iso / "decisions.json").read_text(encoding="utf-8"))
+    dec = {}
+    for f in sorted((WORK / iso).glob("decisions*.json")):
+        part = json.loads(f.read_text(encoding="utf-8"))
+        clash = set(part) & set(dec)
+        if clash:
+            sys.exit(f"{f.name}: rows decided twice: {sorted(clash)}")
+        dec.update(part)
     rows = dl.read(NAME)
     cols = dl.columns(NAME)
     meta = {m["column"]: m for m in dl.metadata(NAME)}
     af = african()
     mine = {r["facility_id"]: r for r in rows if r["country"] == iso}
     problems = [f"{fid}: not in {iso}" for fid in dec if fid not in mine]
-    problems += [f"{fid}: no decision" for fid in mine if fid not in dec]
+    missing = [fid for fid in mine if fid not in dec]
+    if dry and missing:  # another part's reader may still be writing them
+        print(f"note: no decision yet for {len(missing)} row(s): {' '.join(missing)}")
+    elif missing:
+        problems += [f"{fid}: no decision" for fid in missing]
     audit = read_csv(AUDIT)
     cited = collections.defaultdict(set)
     for a in audit:
@@ -362,6 +384,7 @@ if __name__ == "__main__":
     ap.add_argument("cmd", choices=["packet", "apply", "status", "refetch", "derive"])
     ap.add_argument("iso", nargs="?")
     ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument("--parts", type=int, default=1, help="packet: cut a large country into N packets")
     a = ap.parse_args()
     if a.cmd == "status":
         status()
@@ -372,6 +395,6 @@ if __name__ == "__main__":
     elif not a.iso:
         ap.error("give an ISO3")
     elif a.cmd == "packet":
-        packet(a.iso.upper())
+        packet(a.iso.upper(), a.parts)
     else:
         apply(a.iso.upper(), a.dry_run)
