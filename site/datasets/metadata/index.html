@@ -121,7 +121,7 @@
       <tr>
       <td>operational_status</td>
       <td>Status</td>
-      <td>Operational; Under construction; Planned; Decommissioned; Unknown</td>
+      <td>Operational; Under construction; Planned; On hold; Decommissioned; Unknown</td>
       <td>Whether the facility is running.</td>
       </tr>
       <tr>
@@ -170,7 +170,7 @@
       <td>parent_company</td>
       <td>Parent</td>
       <td></td>
-      <td>The operator's immediate parent company, if it has one.</td>
+      <td>The immediate parent of the company that owns the facility, if it has one.</td>
       </tr>
       <tr>
       <td>parent_hq_country</td>
@@ -194,7 +194,7 @@
       <td>major_shareholders</td>
       <td>Major shareholders</td>
       <td></td>
-      <td>The ultimate parent's largest shareholders, with their stakes.</td>
+      <td>The largest shareholders of the first company in the ownership chain that has outside shareholders, with their stakes.</td>
       </tr>
       <tr>
       <td>government_ownership_pct</td>
@@ -283,8 +283,8 @@
       <tr>
       <td>cloud_act_exposure</td>
       <td>CLOUD Act</td>
-      <td>Yes (US-parented operator or hyperscaler on-ramp); Partial (some services exposed); No (fully domestic ownership and stack); Unknown</td>
-      <td>Whether the US CLOUD Act, or similar foreign law, can compel access to data held at the facility.</td>
+      <td>Yes (US-parented operator); Partial (US hyperscaler service on site); No (no US parent or hyperscaler service); Unknown</td>
+      <td>Whether the US CLOUD Act can compel access to data held at the facility, through its owner or a US cloud provider there.</td>
       </tr>
       <tr>
       <td>chinese_involvement</td>
@@ -343,7 +343,7 @@
       <tr>
       <td>submarine_cable_access</td>
       <td>Subsea cable</td>
-      <td>At or adjacent to cable landing station; Dark fibre connection to landing station; Connected via metro fibre; Landlocked/no submarine cable access; Unknown</td>
+      <td>At or adjacent to cable landing station; Dark fibre connection to landing station; Connected via metro fibre; Via national backbone; Landlocked/no submarine cable access; Unknown</td>
       <td>How the facility reaches a submarine cable landing station.</td>
       </tr>
       <tr>

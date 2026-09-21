@@ -6,7 +6,7 @@
 <title>Data centres in Africa — Data Landscapers</title>
 <meta name="description" content="Data centres across Africa, operational, under construction or planned: who operates each one, who ultimately controls it, and which hyperscalers and Chinese firms are involved. Searchable and downloadable.">
 <link rel="canonical" href="https://corpus.data-landscapers.io/datasets/data-centres/">
-<meta name="dl-artefact" content="data-centres|2026-09-21-2|a788382eeec6">
+<meta name="dl-artefact" content="data-centres|2026-09-21-3|a35bc1e70d99">
 <link rel="stylesheet" href="../../assets/css/main.css?v=a004bc3c">
 <link rel="stylesheet" href="../../assets/css/corpus.css?v=42a1181a">
 <link rel="stylesheet" href="../../assets/css/country.css?v=73bc258a">
@@ -128,7 +128,7 @@
     {
       "@type": "PropertyValue",
       "name": "parent_company",
-      "description": "The operator's immediate parent company, if it has one."
+      "description": "The immediate parent of the company that owns the facility, if it has one."
     },
     {
       "@type": "PropertyValue",
@@ -148,7 +148,7 @@
     {
       "@type": "PropertyValue",
       "name": "major_shareholders",
-      "description": "The ultimate parent's largest shareholders, with their stakes."
+      "description": "The largest shareholders of the first company in the ownership chain that has outside shareholders, with their stakes."
     },
     {
       "@type": "PropertyValue",
@@ -223,7 +223,7 @@
     {
       "@type": "PropertyValue",
       "name": "cloud_act_exposure",
-      "description": "Whether the US CLOUD Act, or similar foreign law, can compel access to data held at the facility."
+      "description": "Whether the US CLOUD Act can compel access to data held at the facility, through its owner or a US cloud provider there."
     },
     {
       "@type": "PropertyValue",
@@ -350,17 +350,17 @@
     {
       "@type": "DataDownload",
       "encodingFormat": "text/csv",
-      "contentUrl": "https://corpus.data-landscapers.io/datasets/data-centres/data-centres-2026-09-21-2.csv",
-      "contentSize": "1.2 MB"
+      "contentUrl": "https://corpus.data-landscapers.io/datasets/data-centres/data-centres-2026-09-21-3.csv",
+      "contentSize": "1.8 MB"
     }
   ],
   "size": {
     "@type": "QuantitativeValue",
     "unitText": "records",
-    "value": 377
+    "value": 566
   },
   "dateModified": "2026-09-21",
-  "version": "2026-09-21-2",
+  "version": "2026-09-21-3",
   "datePublished": "2026-09-21"
 }
 </script>
@@ -418,10 +418,10 @@
     </header>
 
     <div class="callout">
-    <p><strong>This dataset is still being finalised.</strong> Every source is being checked and new facilities are being added. Who controls each North African facility is provisional until it has been assessed. Figures may change until this notice goes.</p>
+    <p><strong>This dataset is still being finalised.</strong> Every record has been checked against its sources; claims no readable source supports are being sourced, and missing facilities added. Figures may change until this notice goes.</p>
     </div>
 
-    <div class="byline">377 facilities &nbsp;·&nbsp; 51 countries &nbsp;·&nbsp; 317 operational, 56 under construction or planned</div>
+    <div class="byline">566 facilities &nbsp;·&nbsp; 54 countries &nbsp;·&nbsp; 413 operational, 86 under construction or planned</div>
 
     <p>One row per facility, whether operational, under construction or planned. For each one the table records the operator, the ownership chain up to the ultimate parent, and who controls the facility: African, US, other foreign, or joint.</p>
     <p><strong>Control is our reading of the ownership chain, not a legal finding.</strong> The confidence column says how well the sources support it.</p>
@@ -430,23 +430,23 @@
     <p>Click a row to see the full record. Sort on any column, filter with the dropdowns, and search across every field, including fields the table does not show.</p>
 
     <div class="dl-datatable"
-      data-src="data-centres-2026-09-21-2.csv"
+      data-src="data-centres-2026-09-21-3.csv"
       data-cols="country, facility_name, city, operational_status, year_operational, facility_type, operator_name, ultimate_parent_company, control_category, it_capacity_mw, hyperscaler_presence, chinese_involvement"
       data-filters="country, operational_status, facility_type, control_category, ownership_type, hyperscaler_presence, chinese_involvement, gpu_ai_capability"
       data-numeric="year_operational, it_capacity_mw, rack_capacity, total_floor_space_sqm, investment_usd"
-      data-labels="{&quot;country&quot;: {&quot;AGO&quot;: &quot;Angola&quot;, &quot;BDI&quot;: &quot;Burundi&quot;, &quot;BEN&quot;: &quot;Benin&quot;, &quot;BFA&quot;: &quot;Burkina Faso&quot;, &quot;BWA&quot;: &quot;Botswana&quot;, &quot;CAF&quot;: &quot;Central African Republic&quot;, &quot;CIV&quot;: &quot;Cote d&#x27;Ivoire&quot;, &quot;CMR&quot;: &quot;Cameroon&quot;, &quot;COD&quot;: &quot;DR Congo&quot;, &quot;COG&quot;: &quot;Congo&quot;, &quot;COM&quot;: &quot;Comoros&quot;, &quot;CPV&quot;: &quot;Cape Verde&quot;, &quot;DJI&quot;: &quot;Djibouti&quot;, &quot;DZA&quot;: &quot;Algeria&quot;, &quot;EGY&quot;: &quot;Egypt&quot;, &quot;ETH&quot;: &quot;Ethiopia&quot;, &quot;GAB&quot;: &quot;Gabon&quot;, &quot;GHA&quot;: &quot;Ghana&quot;, &quot;GIN&quot;: &quot;Guinea&quot;, &quot;GMB&quot;: &quot;Gambia&quot;, &quot;GNQ&quot;: &quot;Equatorial Guinea&quot;, &quot;KEN&quot;: &quot;Kenya&quot;, &quot;LBR&quot;: &quot;Liberia&quot;, &quot;LBY&quot;: &quot;Libya&quot;, &quot;LSO&quot;: &quot;Lesotho&quot;, &quot;MAR&quot;: &quot;Morocco&quot;, &quot;MDG&quot;: &quot;Madagascar&quot;, &quot;MLI&quot;: &quot;Mali&quot;, &quot;MOZ&quot;: &quot;Mozambique&quot;, &quot;MRT&quot;: &quot;Mauritania&quot;, &quot;MUS&quot;: &quot;Mauritius&quot;, &quot;MWI&quot;: &quot;Malawi&quot;, &quot;NAM&quot;: &quot;Namibia&quot;, &quot;NER&quot;: &quot;Niger&quot;, &quot;NGA&quot;: &quot;Nigeria&quot;, &quot;RWA&quot;: &quot;Rwanda&quot;, &quot;SDN&quot;: &quot;Sudan&quot;, &quot;SEN&quot;: &quot;Senegal&quot;, &quot;SLE&quot;: &quot;Sierra Leone&quot;, &quot;SOM&quot;: &quot;Somalia&quot;, &quot;SSD&quot;: &quot;South Sudan&quot;, &quot;SWZ&quot;: &quot;Eswatini&quot;, &quot;SYC&quot;: &quot;Seychelles&quot;, &quot;TCD&quot;: &quot;Chad&quot;, &quot;TGO&quot;: &quot;Togo&quot;, &quot;TUN&quot;: &quot;Tunisia&quot;, &quot;TZA&quot;: &quot;Tanzania&quot;, &quot;UGA&quot;: &quot;Uganda&quot;, &quot;ZAF&quot;: &quot;South Africa&quot;, &quot;ZMB&quot;: &quot;Zambia&quot;, &quot;ZWE&quot;: &quot;Zimbabwe&quot;}}"
+      data-labels="{&quot;country&quot;: {&quot;AGO&quot;: &quot;Angola&quot;, &quot;BDI&quot;: &quot;Burundi&quot;, &quot;BEN&quot;: &quot;Benin&quot;, &quot;BFA&quot;: &quot;Burkina Faso&quot;, &quot;BWA&quot;: &quot;Botswana&quot;, &quot;CAF&quot;: &quot;Central African Republic&quot;, &quot;CIV&quot;: &quot;Cote d&#x27;Ivoire&quot;, &quot;CMR&quot;: &quot;Cameroon&quot;, &quot;COD&quot;: &quot;DR Congo&quot;, &quot;COG&quot;: &quot;Congo&quot;, &quot;COM&quot;: &quot;Comoros&quot;, &quot;CPV&quot;: &quot;Cape Verde&quot;, &quot;DJI&quot;: &quot;Djibouti&quot;, &quot;DZA&quot;: &quot;Algeria&quot;, &quot;EGY&quot;: &quot;Egypt&quot;, &quot;ERI&quot;: &quot;Eritrea&quot;, &quot;ETH&quot;: &quot;Ethiopia&quot;, &quot;GAB&quot;: &quot;Gabon&quot;, &quot;GHA&quot;: &quot;Ghana&quot;, &quot;GIN&quot;: &quot;Guinea&quot;, &quot;GMB&quot;: &quot;Gambia&quot;, &quot;GNB&quot;: &quot;Guinea-Bissau&quot;, &quot;GNQ&quot;: &quot;Equatorial Guinea&quot;, &quot;KEN&quot;: &quot;Kenya&quot;, &quot;LBR&quot;: &quot;Liberia&quot;, &quot;LBY&quot;: &quot;Libya&quot;, &quot;LSO&quot;: &quot;Lesotho&quot;, &quot;MAR&quot;: &quot;Morocco&quot;, &quot;MDG&quot;: &quot;Madagascar&quot;, &quot;MLI&quot;: &quot;Mali&quot;, &quot;MOZ&quot;: &quot;Mozambique&quot;, &quot;MRT&quot;: &quot;Mauritania&quot;, &quot;MUS&quot;: &quot;Mauritius&quot;, &quot;MWI&quot;: &quot;Malawi&quot;, &quot;NAM&quot;: &quot;Namibia&quot;, &quot;NER&quot;: &quot;Niger&quot;, &quot;NGA&quot;: &quot;Nigeria&quot;, &quot;RWA&quot;: &quot;Rwanda&quot;, &quot;SDN&quot;: &quot;Sudan&quot;, &quot;SEN&quot;: &quot;Senegal&quot;, &quot;SLE&quot;: &quot;Sierra Leone&quot;, &quot;SOM&quot;: &quot;Somalia&quot;, &quot;SSD&quot;: &quot;South Sudan&quot;, &quot;STP&quot;: &quot;Sao Tome and Principe&quot;, &quot;SWZ&quot;: &quot;Eswatini&quot;, &quot;SYC&quot;: &quot;Seychelles&quot;, &quot;TCD&quot;: &quot;Chad&quot;, &quot;TGO&quot;: &quot;Togo&quot;, &quot;TUN&quot;: &quot;Tunisia&quot;, &quot;TZA&quot;: &quot;Tanzania&quot;, &quot;UGA&quot;: &quot;Uganda&quot;, &quot;ZAF&quot;: &quot;South Africa&quot;, &quot;ZMB&quot;: &quot;Zambia&quot;, &quot;ZWE&quot;: &quot;Zimbabwe&quot;}}"
       data-badges="{&quot;control_category&quot;: {&quot;African control&quot;: &quot;green&quot;, &quot;Joint African/foreign control&quot;: &quot;blue&quot;, &quot;US control&quot;: &quot;amber&quot;, &quot;Other foreign control&quot;: &quot;amber&quot;}}"
       data-detail="services_offered, govt_data_hosted, ownership_type, ownership_structure_type, major_shareholders, government_ownership_pct, controlling_entities, control_rationale, dfi_involvement, investment_usd, recent_investments, hyperscaler_relationships, cloud_act_exposure, chinese_entities, data_residency_guarantee, local_dp_compliance, submarine_cable_access, ixp_presence, carrier_neutrality, gpu_ai_capability, security_certifications, comments, source_urls"
       data-sort="country:asc"
       data-empty="No facility matches those filters.">
       <div class="dt-controls">
         <span class="dt-title">Africa &mdash; data centres</span>
-        <span class="dt-count">377 rows</span>
-        <a class="btn btn--sm" href="data-centres-2026-09-21-2.csv" download>&darr; CSV</a>
+        <span class="dt-count">566 rows</span>
+        <a class="btn btn--sm" href="data-centres-2026-09-21-3.csv" download>&darr; CSV</a>
         <a class="btn btn--sm" href="../metadata/#data-centres">Metadata</a>
       </div>
       <noscript>
-        <p>The table is drawn in the browser from <a href="data-centres-2026-09-21-2.csv">data-centres-2026-09-21-2.csv</a>. With JavaScript off, download that file. It holds the same data, every row and every field.</p>
+        <p>The table is drawn in the browser from <a href="data-centres-2026-09-21-3.csv">data-centres-2026-09-21-3.csv</a>. With JavaScript off, download that file. It holds the same data, every row and every field.</p>
       </noscript>
     </div>
 
@@ -454,8 +454,8 @@
       <strong>About this table</strong>
       <dl>
         <dt>Built</dt><dd class="mono">2026-09-21</dd>
-        <dt>Edition</dt><dd class="mono">2026-09-21-2</dd>
-        <dt>This file</dt><dd><a href="data-centres-2026-09-21-2.csv">data-centres-2026-09-21-2.csv</a> &mdash; a dated edition, kept as published and never revised</dd>
+        <dt>Edition</dt><dd class="mono">2026-09-21-3</dd>
+        <dt>This file</dt><dd><a href="data-centres-2026-09-21-3.csv">data-centres-2026-09-21-3.csv</a> &mdash; a dated edition, kept as published and never revised</dd>
         <dt>Fields</dt><dd><a href="../metadata/#data-centres">What each column means</a>, its allowed values, and how the derived columns are worked out &mdash; also as <a href="../../metadata/data-centres-metadata.csv">data-centres-metadata.csv</a></dd>
         <dt>Changes</dt><dd>Every addition and correction is logged, with its sources. The latest are below</dd>
         <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a></dd>
@@ -467,16 +467,16 @@
     <table class="data-table">
       <thead><tr><th>Date</th><th>Record</th><th>Change</th><th>Details</th></tr></thead>
       <tbody>
-        <tr><td class="mono">2026-09-21</td><td class="mono">EGY-001</td><td>add</td><td>Telecom Egypt Regional Data Hub (RDH) (Egypt) restored from the first version of the dataset, which v2 had dropped with the rest of North Africa. Control is provisional until assessed.</td></tr>
-        <tr><td class="mono">2026-09-21</td><td class="mono">EGY-024</td><td>add</td><td>Telecom Egypt Legacy Data Centres (Cairo/Alexandria - 6 facilities) (Egypt) restored from the first version of the dataset, which v2 had dropped with the rest of North Africa. Control is provisional until assessed.</td></tr>
-        <tr><td class="mono">2026-09-21</td><td class="mono">LBY-001</td><td>add</td><td>LTT Internet Data Center (Libya) restored from the first version of the dataset, which v2 had dropped with the rest of North Africa. Control is provisional until assessed.</td></tr>
-        <tr><td class="mono">2026-09-21</td><td class="mono">MAR-018</td><td>add</td><td>HOSTOWEB Fez Data Center (Morocco) restored from the first version of the dataset, which v2 had dropped with the rest of North Africa. Control is provisional until assessed.</td></tr>
-        <tr><td class="mono">2026-09-21</td><td class="mono">MAR-017</td><td>add</td><td>HOSTOWEB Nouasseur Data Center (Morocco) restored from the first version of the dataset, which v2 had dropped with the rest of North Africa. Control is provisional until assessed.</td></tr>
-        <tr><td class="mono">2026-09-21</td><td class="mono">MAR-009</td><td>add</td><td>INWI Sapino Data Center (Morocco) restored from the first version of the dataset, which v2 had dropped with the rest of North Africa. Control is provisional until assessed.</td></tr>
-        <tr><td class="mono">2026-09-21</td><td class="mono">MAR-010</td><td>add</td><td>INWI Rabat Data Center (Morocco) restored from the first version of the dataset, which v2 had dropped with the rest of North Africa. Control is provisional until assessed.</td></tr>
-        <tr><td class="mono">2026-09-21</td><td class="mono">MAR-011</td><td>add</td><td>INWI Settat Data Center (Morocco) restored from the first version of the dataset, which v2 had dropped with the rest of North Africa. Control is provisional until assessed.</td></tr>
-        <tr><td class="mono">2026-09-21</td><td class="mono">MAR-012</td><td>add</td><td>INWI Marrakech Data Center (Morocco) restored from the first version of the dataset, which v2 had dropped with the rest of North Africa. Control is provisional until assessed.</td></tr>
-        <tr><td class="mono">2026-09-21</td><td class="mono">MAR-021</td><td>add</td><td>UM6P African Supercomputing Center (ASCC) (Morocco) restored from the first version of the dataset, which v2 had dropped with the rest of North Africa. Control is provisional until assessed.</td></tr>
+        <tr><td class="mono">2026-09-21</td><td class="mono">BFA-003</td><td>modify</td><td>From raw/. comments: added &quot;Lefaso put the build at FCFA 15.2bn with about FCFA 500m of running costs over t&quot;.</td></tr>
+        <tr><td class="mono">2026-09-21</td><td class="mono">DJI-004</td><td>modify</td><td>From raw/. comments: added &quot;The Djibouti Sovereign Fund, the joint-venture partner, was put into liquidation&quot;. 2 source(s) added from the catalogue.</td></tr>
+        <tr><td class="mono">2026-09-21</td><td class="mono">COG-002</td><td>modify</td><td>From raw/. 1 source(s) added from the catalogue.</td></tr>
+        <tr><td class="mono">2026-09-21</td><td class="mono">COG-003</td><td>modify</td><td>From raw/. 1 source(s) added from the catalogue.</td></tr>
+        <tr><td class="mono">2026-09-21</td><td class="mono">NAM-001</td><td>modify</td><td>From raw/. 1 source(s) added from the catalogue.</td></tr>
+        <tr><td class="mono">2026-09-21</td><td class="mono">ZMB-001</td><td>modify</td><td>From raw/. 1 source(s) added from the catalogue.</td></tr>
+        <tr><td class="mono">2026-09-21</td><td class="mono">ZMB-005</td><td>modify</td><td>From raw/. 2 source(s) added from the catalogue.</td></tr>
+        <tr><td class="mono">2026-09-21</td><td class="mono">ZWE-002</td><td>modify</td><td>From raw/. 1 catalogue record(s) joined the row.</td></tr>
+        <tr><td class="mono">2026-09-21</td><td class="mono">ZWE-009</td><td>modify</td><td>From raw/. 1 catalogue record(s) joined the row.</td></tr>
+        <tr><td class="mono">2026-09-21</td><td class="mono">ZWE-010</td><td>modify</td><td>From raw/. 1 source(s) added from the catalogue.</td></tr>
       </tbody>
     </table>
 
