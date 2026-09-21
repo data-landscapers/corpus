@@ -1054,3 +1054,286 @@ MAR-024,operator_name,Agence de Developpement du Digital (ADD),no source names t
 MAR-024,submarine_cable_access,At or adjacent to cable landing station,the minister says cables run along the coast; no source puts a landing station at the site,2026-09-21
 MAR-025,facility_name,Morocco Government Rabat Technopolis Data Center,"the 3MDC chain and the MCINET and Uptime pages describe Maroc Datacenter (Temara, now part of 3MDC), not this site; for T8 to check it has its own row",2026-09-21
 MAR-025,operator_name,Agence de Developpement du Digital (ADD),no source names the Agence de Développement du Digital as operator,2026-09-21
+KEN-001,ultimate_parent_company,None (standalone private; controlled by Econet Group / Strive Masiyiwa),"Econet / Masiyiwa control of Cassava is plausible and asserted by Cassava's framing, but no source gives Econet's stake",2026-09-21
+KEN-001,controlling_entities,"Strive Masiyiwa (Founder/Exec Chairman, Zimbabwean); Econet Group [Leadership](https://www.cassavatechnologies.com/executive-leadership/)",Masiyiwa is Founder and Executive Chairman; no source states Econet's or his shareholding,2026-09-21
+KEN-001,key_tenants,AWS; Microsoft Azure; Equity Bank; Standard Chartered; Safaricom,"Equity Bank, Standard Chartered and Safaricom are named but no source confirms them as tenants; AWS and Microsoft rest on PeeringDB network presence only",2026-09-21
+KEN-001,ixp_presence,Unknown,comments claimed KIXP on-site; PeeringDB's exchange list is not readable in the cache,2026-09-21
+KEN-001,investment_usd,200000000,$200M for NBO1 is unsourced; no source gives the facility's cost,2026-09-21
+KEN-001,rack_capacity,450,450 is unsourced; DCD gives room for 160 racks per floor across four storeys at the 2013 opening,2026-09-21
+KEN-001,services_offered,Colocation; Cloud hosting; Cross-connects; Remote hands; Managed services,"cloud hosting, remote hands and managed services are not in ADC's Nairobi page, which advertises colocation, cages, racks, cross connects and power metering",2026-09-21
+KEN-001,security_certifications,ISO 27001; PCI-DSS; ISO 14001; ISO 45001; Uptime Tier III,"ADC's page confirms Uptime Tier III and PCI DSS; ISO 27001, 14001 and 45001 are unsourced",2026-09-21
+KEN-001,gps_coordinates,"-1.34014, 36.89653","PeeringDB gives Sameer Business Park, Mombasa Road, without a geocode",2026-09-21
+KEN-002,ultimate_parent_company,None (standalone private; controlled by Econet Group / Strive Masiyiwa),"Econet / Masiyiwa control of Cassava is plausible and asserted by Cassava's framing, but no source gives Econet's stake",2026-09-21
+KEN-002,controlling_entities,"Strive Masiyiwa (Founder/Exec Chairman, Zimbabwean); Econet Group [Leadership](https://www.cassavatechnologies.com/executive-leadership/)",Masiyiwa is Founder and Executive Chairman; no source states Econet's or his shareholding,2026-09-21
+KEN-002,operational_status,Under construction,"the newest source is DCD's 2023 groundbreaking, with phase 1 due in H1 2024; a 2025-26 source is needed for current status",2026-09-21
+KEN-002,investment_usd,200000000,"$200M is unsourced and, per comments, shared with NBO1",2026-09-21
+KEN-002,carrier_neutrality,Fully carrier-neutral,operator's other facility is carrier-neutral; nothing states it for the new building,2026-09-21
+KEN-002,gps_coordinates,"-1.34014, 36.89653",copied from NBO1 on the adjacent plot,2026-09-21
+KEN-003,key_tenants,Oracle Cloud OCI; Safaricom; TCS sovereign cloud,"Oracle is confirmed as OCI host partner (Jan 2026); Safaricom and TCS sovereign cloud are unsourced. Leads on iXAfrica's news page: Baobab Cloud Services sovereign cloud, Servernah Cloud, Gewape Cloud, Qubit Hub",2026-09-21
+KEN-003,gpu_ai_capability,Unknown,"Servernah Cloud ('sovereign AI infrastructure', 2025) and Qubit Hub (2026) announcements may confirm GPUs at NBOX1",2026-09-21
+KEN-003,security_certifications,ISO 27001,ISO 27001 is unsourced,2026-09-21
+KEN-003,investment_usd,,no source gives NBOX1's own cost,2026-09-21
+KEN-004,facility_name,iXAfrica NBOX1.2 (Mombasa Rd Campus Phase 2),DCD describes the RMB-financed 20MW as an expansion of the existing NBOX1 facility (KEN-003); T8 to decide whether NBOX1.2 needs its own row,2026-09-21
+KEN-004,investment_usd,200000000,$200M is unsourced; DCD says the RMB financing amount was not disclosed,2026-09-21
+KEN-004,rack_capacity,3500,"3,500 racks is from Datacentermap's NBOX1 page, not cited by this row",2026-09-21
+KEN-004,it_capacity_mw,18,18MW is from Datacentermap and Developing Telecoms (cited by KEN-003); DCD calls it a 20MW expansion,2026-09-21
+KEN-004,gps_coordinates,"-1.3157, 36.8854",copied from NBOX1 on the same campus,2026-09-21
+KEN-005,services_offered,Colocation; Hyperscale; AI workloads; Liquid cooling,AI workloads and liquid cooling for Tilisi are unsourced; Developing Telecoms gives only site and capacity,2026-09-21
+KEN-005,carrier_neutrality,Fully carrier-neutral,the operator is carrier-neutral elsewhere; nothing states it for Tilisi,2026-09-21
+KEN-006,total_floor_space_sqm,1858,"1,858 sqm is unsourced; Digital Realty gives 2,500 sqm of colocation space for the Nairobi metro, which now includes NBO2",2026-09-21
+KEN-006,ixp_presence,Unknown,comments claimed 2 IXPs on-site; iColo's network list names none,2026-09-21
+KEN-006,services_offered,Colocation; Connectivity; Remote hands; Satellite teleport (VSAT),remote hands is not on iColo's NBO1 page,2026-09-21
+KEN-007,security_certifications,ISO 27001; PCI-DSS,Digital Realty's NBO2 page lists no certification; ISO 27001 and PCI-DSS are the metro's,2026-09-21
+KEN-007,operational_status,Operational,"rests on Baxtel's 8 Sep 2026 summary, cited by KEN-006; Digital Realty's own launch release would confirm it",2026-09-21
+KEN-008,year_operational,2021,2021 is unsourced; Invest International says PAIX has run nodes in Kenya since 2011,2026-09-21
+KEN-008,parent_company,PAIX Data Centres BV,PAIX Data Centres BV (Netherlands) is unsourced,2026-09-21
+KEN-008,ultimate_parent_hq_country,MAR,Africa50's Moroccan registration is unsourced (its media contact uses a +212 number),2026-09-21
+KEN-008,ownership_type,Private foreign,"Private foreign is kept; if Africa50 holds a majority, Multilateral / DFI may fit better",2026-09-21
+KEN-009,parent_company,Digital Realty Trust,no source names the entity that holds iColo; 'A Digital Realty Company' is the only statement of the link,2026-09-21
+KEN-009,foreign_ownership_pct,100% (iColo is a Digital Realty company; Digital Realty is US-registered),no source states that Digital Realty owns all of iColo,2026-09-21
+KEN-009,year_operational,2013,"2013 is plausible for iColo's first site, but no source gives the opening year",2026-09-21
+KEN-009,key_tenants,LINX (LINX Mombasa exchange),"iColo says Google, Akamai and Netflix are present in Mombasa's data centres without naming MBA1 or MBA2",2026-09-21
+KEN-010,parent_company,Digital Realty Trust,no source names the entity that holds iColo; 'A Digital Realty Company' is the only statement of the link,2026-09-21
+KEN-010,foreign_ownership_pct,100% (iColo is a Digital Realty company; Digital Realty is US-registered),no source states that Digital Realty owns all of iColo,2026-09-21
+KEN-010,year_operational,2022,"the spec sheet is dated June 2022, but no source gives the opening year",2026-09-21
+KEN-010,it_capacity_mw,1.75,"the spec sheet gives a 3.9 MVA supply and 2N 3x1,250 kW UPS, not an IT load; 1.75 MW is unsourced",2026-09-21
+KEN-010,key_tenants,LINX (LINX Mombasa exchange),"Asteroid IX (named in the old value and comments) is in no readable source; iColo says Google, Akamai and Netflix are in Mombasa's data centres without naming a site",2026-09-21
+KEN-011,facility_name,Konza National Data Centre (KoTDA),the KenGen release describes other facilities: the Microsoft-G42 Olkaria campus and a KoTDA Tier IV data centre broken ground at Olkaria in 2023; T8 to decide whether each needs a row,2026-09-21
+KEN-011,security_certifications,ISO 27001,ISO 27001 is in no readable source,2026-09-21
+KEN-011,carrier_neutrality,Single carrier / captive,no source says whether tenants can choose their carrier,2026-09-21
+KEN-011,submarine_cable_access,Landlocked/no submarine cable access,"the site is inland, but Kenya is not landlocked; the category should describe the terrestrial route to Mombasa",2026-09-21
+KEN-011,key_tenants,,eCitizen (named in the old value) runs through the Intelligent Operations Centre linked to this facility; hosting here unconfirmed,2026-09-21
+KEN-011,chinese_entities,Huawei,the Chinese concessional lender (likely China Exim Bank) is not named in any source,2026-09-21
+KEN-012,facility_name,ICTA Government Data Centre 1 (Nairobi Primary),"ICTA says it runs two major data centres in Nairobi but names neither; the KenGen source describes a different facility, the Microsoft-G42 Olkaria campus, for T8",2026-09-21
+KEN-012,year_operational,2016,"2016 is the Data Centre Standard's first edition, not an opening date; no source gives one",2026-09-21
+KEN-012,carrier_neutrality,Single carrier / captive,ICTA runs its own network (OGN); no source says whether hosted clients can choose a carrier,2026-09-21
+KEN-012,submarine_cable_access,Landlocked/no submarine cable access,"the site is inland, but Kenya is not landlocked; the category should describe the terrestrial route to Mombasa",2026-09-21
+KEN-012,gps_coordinates,"-1.2833, 36.8172","ICTA's HQ is Telposta Towers, Kenyatta Ave; the data centre's location is not published",2026-09-21
+KEN-013,facility_name,ICTA Government Data Centre 2 (Nairobi DR/Secondary),"ICTA says it runs two major data centres in Nairobi but does not say either is a DR site; the KenGen source describes a different facility, the Microsoft-G42 Olkaria campus, for T8",2026-09-21
+KEN-013,year_operational,2016,"2016 is the Data Centre Standard's first edition, not an opening date; no source gives one",2026-09-21
+KEN-013,carrier_neutrality,Single carrier / captive,ICTA runs its own network (OGN); no source says whether hosted clients can choose a carrier,2026-09-21
+KEN-013,submarine_cable_access,Landlocked/no submarine cable access,"the site is inland, but Kenya is not landlocked; the category should describe the terrestrial route to Mombasa",2026-09-21
+KEN-013,gps_coordinates,"-1.2850, 36.8200","ICTA's HQ is Telposta Towers, Kenyatta Ave; the data centre's location is not published",2026-09-21
+KEN-014,ultimate_parent_company,Vodafone Group Plc,Vodacom's purchase of 55% was due to close in Q1 2026; no source confirms completion,2026-09-21
+KEN-014,parent_hq_country,KEN,Vodafone Kenya Limited's registration is not stated in any source,2026-09-21
+KEN-014,submarine_cable_access,Landlocked/no submarine cable access,"the site is inland, but Kenya is not landlocked; the category should describe the terrestrial route to Mombasa",2026-09-21
+KEN-014,year_operational,2014,2014 is in no readable source,2026-09-21
+KEN-014,services_offered,Enterprise captive; Internal IT; M-Pesa core; Core network,M-Pesa core and core network at Arena are plausible for Safaricom's own site but unsourced,2026-09-21
+KEN-014,key_tenants,Safaricom internal; M-Pesa,M-Pesa hosting at Arena is plausible but unsourced,2026-09-21
+KEN-014,carrier_neutrality,Single carrier / captive,"an operator's own site, so captive is likely; no source states it",2026-09-21
+KEN-015,ultimate_parent_company,Vodafone Group Plc,Vodacom's purchase of 55% was due to close in Q1 2026; no source confirms completion,2026-09-21
+KEN-015,parent_hq_country,KEN,Vodafone Kenya Limited's registration is not stated in any source,2026-09-21
+KEN-015,submarine_cable_access,Landlocked/no submarine cable access,"the site is inland, but Kenya is not landlocked; the category should describe the terrestrial route to Mombasa",2026-09-21
+KEN-015,year_operational,2015,2015 is in no readable source,2026-09-21
+KEN-015,facility_type,Enterprise,"DataCenterMap lists colocation suites, cages and cabinets for sale; the main type may be colocation rather than enterprise",2026-09-21
+KEN-016,ultimate_parent_company,Vodafone Group Plc,Vodacom's purchase of 55% was due to close in Q1 2026; no source confirms completion,2026-09-21
+KEN-016,parent_hq_country,KEN,Vodafone Kenya Limited's registration is not stated in any source,2026-09-21
+KEN-016,submarine_cable_access,Landlocked/no submarine cable access,"the site is inland, but Kenya is not landlocked; the category should describe the terrestrial route to Mombasa",2026-09-21
+KEN-016,year_operational,2025,DCD reports phase one complete but the packet gives no date; March 2025 is unsourced,2026-09-21
+KEN-016,it_capacity_mw,2.8,2.8MW is the phase-two target for January 2026; no source confirms it was reached,2026-09-21
+KEN-016,services_offered,Enterprise captive; Cloud hosting; Core network; M-Pesa; Innovation lab,"cloud hosting, core network and M-Pesa at Limuru are plausible but unsourced",2026-09-21
+KEN-016,key_tenants,Safaricom internal; M-Pesa,M-Pesa hosting at Limuru is plausible but unsourced,2026-09-21
+KEN-016,carrier_neutrality,Single carrier / captive,"an operator's own site, so captive is likely; no source states it",2026-09-21
+KEN-017,major_shareholders,"Of Safaricom PLC (FY25 register): 1. Vodafone Kenya Limited: 39.93%; 2. Cabinet Secretary to the National Treasury: 35.00%; 3. Standard Chartered Kenya Nominees A/C KE004667: 0.95%; 4. KCB Nominees A/C 1019D: 0.91%; 5. KCB Nominees A/C 915B: 0.86% [Tuko.co.ke FY25](https://www.tuko.co.ke/business-economy/capital-market/612324-list-top-10-biggest-safaricom-shareholders-december-number-shares-owned/). Vodacom agreed in December 2025 to buy 15% from the Government of Kenya and Vodafone's 12.5% of Vodafone Kenya, leaving Vodacom 55%, the government 20% and public investors 25% [Vodafone.com](https://www.vodafone.com/news/newsroom/corporate-and-financial/vodafone-to-gain-control-of-and-fully-consolidate-safaricom)",no source confirms the Vodacom purchase completed (expected Q1 2026),2026-09-21
+KEN-017,year_operational,2017,no readable source gives Kisumu's opening year,2026-09-21
+KEN-017,services_offered,Enterprise captive; Regional network; Core network,no source lists services at Kisumu,2026-09-21
+KEN-017,carrier_neutrality,Single carrier / captive,"an operator's own site, so captive is likely; no source states it",2026-09-21
+KEN-018,ultimate_parent_company,Infrastructure Corporation of Africa LLC (ICA),completion of ICA's purchase of the 60% is not confirmed; the Africa Intelligence 2025 piece is paywalled,2026-09-21
+KEN-018,govt_data_hosted,Unknown,the Treasury calls the government a key consumer of Telkom's services; nothing ties government data to this site,2026-09-21
+KEN-018,year_operational,2010,no readable source gives the opening year,2026-09-21
+KEN-018,total_floor_space_sqm,186,"the 2,000 sq ft raised floor is not in the Datacentermap profile",2026-09-21
+KEN-018,it_capacity_mw,0.5,the 500kVA figure is in no readable source,2026-09-21
+KEN-018,services_offered,Colocation; Managed hosting; Connectivity; MPLS; Carrier services,"the profile lists cages, cabinets and remote hands; managed hosting, MPLS and carrier services are not listed",2026-09-21
+KEN-018,submarine_cable_access,Connected via metro fibre,"three diverse fibre routes serve the site, but no source says where they run",2026-09-21
+KEN-019,ultimate_parent_company,Infrastructure Corporation of Africa LLC (ICA),completion of ICA's purchase of the 60% is not confirmed; the Africa Intelligence 2025 piece is paywalled,2026-09-21
+KEN-019,govt_data_hosted,Unknown,the Treasury calls the government a key consumer of Telkom's services; nothing ties government data to this site,2026-09-21
+KEN-019,year_operational,2010,no readable source gives the opening year,2026-09-21
+KEN-019,services_offered,Colocation; Managed hosting; Connectivity; Carrier services,"the profile lists cages, cabinets, remote hands, peering and cross-connects; managed hosting is not listed",2026-09-21
+KEN-019,submarine_cable_access,Connected via metro fibre,the profile offers cross-connects to all Mombasa submarine systems but does not say whether over metro fibre or at a landing station,2026-09-21
+KEN-020,dfi_involvement,None identified,"the old value cited an IFC $100M facility for MTN Nigeria (2003), group-level and unsourced",2026-09-21
+KEN-020,year_operational,2012,no readable source gives the opening year,2026-09-21
+KEN-020,submarine_cable_access,Connected via metro fibre,no source describes the site's connectivity,2026-09-21
+KEN-021,facility_name,Liquid Intelligent Technologies Kenya (Sameer),"Liquid's Kenya office is at Sameer Business Park, Mombasa Road, where Africa Data Centres' NBO1 also sits; T8 to check whether this row is ADC NBO1 or a separate Liquid colocation site",2026-09-21
+KEN-021,ultimate_parent_company,None (standalone private; controlled by Econet Group / Strive Masiyiwa),Econet/Masiyiwa control is plausible; no source gives the stakes,2026-09-21
+KEN-021,year_operational,2015,no readable source gives the opening year,2026-09-21
+KEN-021,services_offered,Colocation; Connectivity; Managed services; Cloud; MPLS; SD-WAN,"Liquid's Kenya page lists IP, transport, infrastructure and co-location; cloud, MPLS and SD-WAN are not listed",2026-09-21
+KEN-021,carrier_neutrality,Fully carrier-neutral,Cassava calls its data centres carrier-neutral; nothing states it for a Liquid site,2026-09-21
+KEN-021,gpu_ai_capability,Unknown,Cassava plans NVIDIA AI-factory expansion at its data centre facilities in Kenya; which site is not stated,2026-09-21
+KEN-022,facility_name,Internet Solutions Kenya (ex-AccessKenya) DC Nairobi,no readable source shows an Internet Solutions Kenya data centre in Nairobi; T8/T9 to confirm or retire the row,2026-09-21
+KEN-022,parent_company,NTT Ltd,NTT Ltd as parent is plausible; the sources show Dimension Data ownership and global.ntt contacts only,2026-09-21
+KEN-022,parent_hq_country,JPN,no source gives NTT Ltd's registration,2026-09-21
+KEN-022,year_operational,2008,no readable source gives the opening year,2026-09-21
+KEN-022,carrier_neutrality,Fully carrier-neutral,the operator is itself an ISP; no source states neutrality,2026-09-21
+KEN-023,facility_name,Internet Solutions Kenya DC Mombasa (Nyali),"no readable source shows an Internet Solutions Kenya data centre in Nyali; the comments cite PeeringDB fac 10232, which is not among the row's sources; T8/T9 to confirm or retire the row",2026-09-21
+KEN-023,parent_company,NTT Ltd,NTT Ltd as parent is plausible; the sources show NTT's acquisition of Dimension Data and global.ntt contacts only,2026-09-21
+KEN-023,parent_hq_country,JPN,no source gives NTT Ltd's registration,2026-09-21
+KEN-023,year_operational,2014,AccessKenya's Mombasa phase II (2013-14) is in the comments but in no readable source,2026-09-21
+KEN-023,submarine_cable_access,At or adjacent to cable landing station,"Nyali is near the Mombasa landings, but no source describes the route",2026-09-21
+KEN-023,carrier_neutrality,Fully carrier-neutral,the operator is itself an ISP; no source states neutrality,2026-09-21
+KEN-024,ultimate_parent_company,"Anil Kuruvilla (Owner, Group Chairman)",Anil Kuruvilla as owner rests on an unreadable LinkedIn profile; no readable source names the group's owner,2026-09-21
+KEN-024,major_shareholders,"Anil Kuruvilla (owner, percentages unknown)",no readable source names a shareholder,2026-09-21
+KEN-025,facility_name,Kenoobi Data Centre,"no source shows Kenoobi runs a data centre: Kenoobi Data hosts on Google Cloud, LinkedIn lists 2-10 staff, and Datacentermap's listing is archived; T8/T9 to confirm or retire the row",2026-09-21
+KEN-025,year_operational,2015,"2015 is Kenoobi Group's founding year on LinkedIn, not a facility opening date",2026-09-21
+KEN-025,facility_type,Colocation/carrier-neutral,no source shows colocation at the site,2026-09-21
+KEN-025,govt_data_hosted,Unknown,"Kenoobi Data's partners page names the ICT Authority and Vision 2030 as partners; a lead on government work, not hosting",2026-09-21
+KEN-026,facility_name,CloudPap Nairobi Data Centre,Truehost's undated page shows CloudPap Nairobi under construction and the founder later calls MAS101 the group's first data centre; T8/T9 to confirm the facility opened or retire the row,2026-09-21
+KEN-026,major_shareholders,David Murimi (co-founder/CEO of Cloudoon and Ryanada); percentages unknown,David Murimi co-founded the group; no source gives his or anyone's stake in Cloudoon,2026-09-21
+KEN-026,rack_capacity,300,"300 racks is a design figure from an undated page, for a facility that may not have been finished",2026-09-21
+KEN-027,city,Ruiru,sources place Tatu City 'near Nairobi'; none names Ruiru,2026-09-21
+KEN-027,submarine_cable_access,Connected via metro fibre,no source describes the route to a landing station,2026-09-21
+KEN-027,carrier_neutrality,Fully carrier-neutral,"plausible for a colocation build, but no source states it",2026-09-21
+KEN-027,expansion_plans,Under construction,DCD gives two 22MW phases; no source says whether the second is part of the current build,2026-09-21
+KEN-028,facility_name,EcoCloud Project Eagle (Olkaria Geothermal),"KEN-029 describes the G42-Microsoft Olkaria campus, which DCD (May 2024) says G42 is building with EcoCloud at the same geothermal park; T8 to decide whether the rows merge",2026-09-21
+KEN-028,ultimate_parent_company,G42 (controlled by Sheikh Tahnoon bin Zayed Al Nahyan),G42 is an MoU partner and lead financier; no source states it owns EcoCloud or the facility,2026-09-21
+KEN-028,major_shareholders,"EcoCloud: Unknown % (board: Michael Joseph, Clare Ruto et al.); G42: Sheikh Tahnoon bin Zayed (controlling), Mubadala, Microsoft (minority), Silver Lake","the EcoCloud board names (Michael Joseph, Clare Ruto) appear in no source",2026-09-21
+KEN-028,rack_capacity,2640,"DCD gives eight halls of 300-500 racks each, a range of 2,400-4,000; no source gives 2,640",2026-09-21
+KEN-029,facility_name,Microsoft Azure East Africa Cloud Region (G42 / Olkaria),"KEN-028 (EcoCloud Project Eagle) is at the same Olkaria geothermal park, and DCD (May 2024) says G42's campus is being built with EcoCloud; T8 to decide whether the rows merge",2026-09-21
+KEN-029,ultimate_parent_company,Sheikh Tahnoon bin Zayed Al Nahyan / Royal Group (RGH1 Investment SPV),"G42 leads the build and financing, but no source states who holds the facility's equity",2026-09-21
+KEN-029,submarine_cable_access,Dark fibre connection to landing station,no source describes the campus's route to a landing station; EcoCloud's site claims one for its own facility,2026-09-21
+KEN-029,carrier_neutrality,Fully carrier-neutral,no source states it for an Azure region campus,2026-09-21
+KEN-030,gps_coordinates,"-0.5000, 37.6000",-0.5000 lies well north of the Kamburu and Masinga dams that DCD and Datacentermap name as the site,2026-09-21
+KEN-030,dfi_involvement,"Planned IFC investment for Masinga DC (2022 announcement; unconfirmed if executed). No DFC, BII, or AfDB involvement found",IFC is named only by Cloudoon's founder as an intended financier; no IFC disclosure confirms it,2026-09-21
+KEN-031,facility_name,Raxio Kenya (Announced - Nairobi),"no source shows a Raxio facility in Kenya, built or announced; T8/T9 to confirm or retire the row",2026-09-21
+KEN-031,ultimate_parent_hq_country,USA|FRA,"sources give Roha's offices, not its registration; USA is taken from the platform's usual description",2026-09-21
+NGA-001,year_operational,2015,2015 for MDXi Lekki is plausible; no readable source dates it,2026-09-21
+NGA-001,total_floor_space_sqm,1500,"1,500 sqm is plausible; no readable source gives LG1's floor space",2026-09-21
+NGA-001,it_capacity_mw,7.5,7.5 MW is plausible; no readable source gives LG1's power,2026-09-21
+NGA-001,submarine_cable_access,At or adjacent to cable landing station,adjacency to MainOne's Lekki landing station is plausible; no readable source states it for LG1,2026-09-21
+NGA-001,major_shareholders,"Vanguard Group (13.64%), BlackRock (10.99%), State Street (6.32%), FMR LLC (2.86%), Cohen & Steers (2.66%) [Yahoo Finance](https://finance.yahoo.com/quote/EQIX/holders/)",the Yahoo holders page returned an empty table; the register needs a current filing,2026-09-21
+NGA-001,dfi_involvement,None recent; pre-2022 AfDB funded MainOne cable (2009),AfDB financing of the MainOne cable (2009) is plausible but no readable source gives it,2026-09-21
+NGA-001,services_offered,Colocation; Interconnection; Equinix Fabric; Cloud connect; Bare metal,Cloud connect and Bare metal are not on any readable Equinix page for Lagos,2026-09-21
+NGA-002,year_operational,2020,2020 is plausible; no readable source dates LG2,2026-09-21
+NGA-002,total_floor_space_sqm,644,644 sqm is plausible; no readable source gives LG2's floor space,2026-09-21
+NGA-002,it_capacity_mw,3,3 MW is plausible; no readable source gives LG2's power,2026-09-21
+NGA-002,submarine_cable_access,At or adjacent to cable landing station,adjacency to MainOne's Lekki landing station is plausible; no readable source states it for LG2,2026-09-21
+NGA-002,ixp_presence,IXP hosted on-site,IXPN is hosted at MDXi Lekki per Submarine Networks (cited on NGA-007); whether in the LG2 building is not stated,2026-09-21
+NGA-002,major_shareholders,"Vanguard Group (13.64%), BlackRock (10.99%), State Street (6.32%), FMR LLC (2.86%), Cohen & Steers (2.66%) [Yahoo Finance](https://finance.yahoo.com/quote/EQIX/holders/)",the Yahoo holders page returned an empty table; the register needs a current filing,2026-09-21
+NGA-002,dfi_involvement,None recent; pre-2022 AfDB funded MainOne cable (2009),AfDB financing of the MainOne cable (2009) is plausible but no readable source gives it,2026-09-21
+NGA-003,operational_status,Under construction,"the announcement is a soft 404; Equinix's Lagos page now counts three IBX data centres in Lagos, which may mean LG3 has opened",2026-09-21
+NGA-003,year_operational,2026,a Q1 2026 target rests on the dead announcement,2026-09-21
+NGA-003,investment_usd,22000000,$22M rests on the dead announcement,2026-09-21
+NGA-003,total_floor_space_sqm,610,610 sqm rests on the dead announcement,2026-09-21
+NGA-003,it_capacity_mw,1.5,1.5 MW rests on the dead announcement,2026-09-21
+NGA-003,submarine_cable_access,Connected via metro fibre,metro-fibre access from Victoria Island is plausible; no readable source states it,2026-09-21
+NGA-003,security_certifications,ISO 27001; PCI-DSS,"the Lagos page lists certifications for the campus as a whole, not for LG3",2026-09-21
+NGA-003,major_shareholders,"Vanguard Group (13.64%), BlackRock (10.99%), State Street (6.32%), FMR LLC (2.86%), Cohen & Steers (2.66%) [Yahoo Finance](https://finance.yahoo.com/quote/EQIX/holders/)",the Yahoo holders page returned an empty table; the register needs a current filing,2026-09-21
+NGA-003,dfi_involvement,None recent; pre-2022 AfDB funded MainOne cable (2009),AfDB financing of the MainOne cable (2009) is plausible but no readable source gives it,2026-09-21
+NGA-004,gps_coordinates,"6.6037, 3.3583","the spec sheet's coordinates are OCR-garbled (6°85'51.7""N); the row's point is plausible for 18 Jagal Close",2026-09-21
+NGA-004,security_certifications,"ISO 27001; ISO 9001; ISO 22301; ISO 45001; PCI-DSS; Uptime Tier III (TCCD, TCCF)",PCI-DSS is not in the spec sheet or any readable source,2026-09-21
+NGA-005,security_certifications,ISO 27001; ISO 9001; ISO 22301; ISO 45001; IFC EDGE; PCI-DSS,PCI-DSS is not in any readable source for LGS2,2026-09-21
+NGA-006,key_tenants,MTN; ipNX; Unitellas,"MTN, ipNX and Unitellas are plausible tenants; no readable source names them",2026-09-21
+NGA-006,security_certifications,ISO 27001; ISO 9001; PCI DSS,ISO 9001 is not in any readable source,2026-09-21
+NGA-006,submarine_cable_access,Connected via metro fibre,the data sheet gives dark fibre to major hubs but not the route to a landing station,2026-09-21
+NGA-006,controlling_entities,"Strive Masiyiwa (Founder/Exec Chairman, Zimbabwean); Econet Group [Leadership](https://www.cassavatechnologies.com/executive-leadership/)",Econet Group's control of Cassava is plausible; no source states its stake,2026-09-21
+NGA-007,total_floor_space_sqm,9563,"9,563 sqm total is plausible; Submarine Networks gives 7,200 sqm, which the comments call white space",2026-09-21
+NGA-007,rack_capacity,3275,"3,275 racks is plausible; Submarine Networks gives 3,200",2026-09-21
+NGA-007,investment_usd,150000000,$150M is plausible for the first build; no readable source gives it,2026-09-21
+NGA-007,security_certifications,ISO 27001; Tier III Uptime certified,ISO 27001 and Uptime Tier III are not in any readable source,2026-09-21
+NGA-007,comments,Cable landing station for Google Equiano cable (144 Tbps). Lekki Peninsula II. IXPN PoP on-site. Phase 2 expansion to 24 MW by 2027 with $240M investment; it_capacity_mw is the current up-to-20MW design load. 9563 sqm total; 7200 sqm white; 3275 racks.. [Research summary](workspace://wiocc_kenya_oadc_research.md) [wiocc.net](https://wiocc.net) [IFC disclosures](https://disclosures.ifc.org/project-detail/SII/38381/wiocc-investment),'IXPN PoP on-site' is not in any readable source,2026-09-21
+NGA-008,cloud_platform,OpenStack,OpenStack is plausible; sources name only Dell Technologies as the cloud partner,2026-09-21
+NGA-008,security_certifications,ISO 27001,ISO 27001 is not in any readable source,2026-09-21
+NGA-008,submarine_cable_access,Connected via metro fibre,metro-fibre access from Ikeja is plausible; no readable source states it,2026-09-21
+NGA-008,services_offered,Colocation; Cloud services; IaaS; Managed services,managed services are not advertised in any readable source,2026-09-21
+NGA-008,dfi_involvement,"None identified for the facility. Historical, group level: IFC $100M to MTN Nigeria (2003)","IFC's 2003 loan to MTN Nigeria is plausible, but the cited World Bank document concerns MTN Networks, Sri Lanka",2026-09-21
+NGA-008,parent_company,MTN Group,MTN Group holds MTN Nigeria partly through subsidiaries; the immediate parent is not named in the packet,2026-09-21
+NGA-009,operational_status,Operational,no readable source for this facility gives its current status,2026-09-21
+NGA-009,submarine_cable_access,Connected via metro fibre,"plausible for a Lagos operator site, but no source describes its route to the landings",2026-09-21
+NGA-009,carrier_neutrality,Single carrier / captive,"an operator's own facility, so captive is likely; no source states it",2026-09-21
+NGA-009,dfi_involvement,Historical: IFC $100M (2003 Nigeria); AfDB $500k grant fintech study; no major recent equity/debt for Group,IFC's 2003 MTN Nigeria loan and the AfDB grant are plausible but no readable source gives them,2026-09-21
+NGA-009,year_operational,2001,2001 is MTN Nigeria's launch year; no source dates this facility,2026-09-21
+NGA-009,total_floor_space_sqm,465,"465 m² (5,000 ft²) white space rests on the DataCenterMap specs page, which could not be read",2026-09-21
+NGA-009,security_certifications,ISO 27001,ISO 27001 is plausible but no readable source states it for this facility,2026-09-21
+NGA-010,operational_status,Operational,no readable source for this facility gives its current status,2026-09-21
+NGA-010,submarine_cable_access,Connected via metro fibre,"plausible for a Lagos operator site, but no source describes its route to the landings",2026-09-21
+NGA-010,carrier_neutrality,Single carrier / captive,"an operator's own facility, so captive is likely; no source states it",2026-09-21
+NGA-010,dfi_involvement,Historical: IFC $100M (2003 Nigeria); AfDB $500k grant fintech study; no major recent equity/debt for Group,IFC's 2003 MTN Nigeria loan and the AfDB grant are plausible but no readable source gives them,2026-09-21
+NGA-011,foreign_ownership_pct,"100% est. (the Nigerian owner is held by Digital Realty, US, and its 2021 co-investor Pembani Remgro Infrastructure Fund; no Nigerian shareholder disclosed)",no source gives the register of Digital Realty's Nigerian company,2026-09-21
+NGA-011,control_category,US control,"Digital Realty bought Medallion with Pembani Remgro Infrastructure Fund (South Africa); US control assumes Digital Realty holds the majority, which no readable source states",2026-09-21
+NGA-011,recent_investments,"Group level: completed acquisition of Teraco, South Africa (Aug 2022; ~$3.5B); first data centre in Ghana (Oct 2025) [Digital Realty](https://www.digitalrealty.com/about/newsroom/press-releases/122709/digital-realty-completes-acquisition-of-teraco) [Digital Realty](https://www.digitalrealty.com/about/newsroom/press-releases/123355/digital-realty-expands-presence-in-west-africa-with-first-data-center-in-ghana); in Lagos, Medallion opened a new data centre and rebranded to Digital Realty (Oct 2023) [Digital Realty](https://www.digitalrealty.com/about/newsroom/press-releases/123225/medallion-opens-new-data-centre-in-lagos-and-rebrands-to-digital-realty-)",the ~$3.5B Teraco figure is not in the readable text of the release,2026-09-21
+NGA-011,carrier_neutrality,Fully carrier-neutral,carrier-neutral is plausible for a Medallion/Digital Realty site; no readable source states it for this facility,2026-09-21
+NGA-011,year_operational,2010,2010 is plausible for Medallion's first Lagos site; no readable source dates it,2026-09-21
+NGA-011,it_capacity_mw,1,1 MW is unsourced here; DCD (cited on NGA-014) gives LOS1 2 MW,2026-09-21
+NGA-011,security_certifications,ISO 27001,the LOS1 page lists no certifications,2026-09-21
+NGA-011,services_offered,Colocation; Interconnection; IXPN peering,IXPN peering is plausible but not on the LOS1 page,2026-09-21
+NGA-011,submarine_cable_access,Connected via metro fibre,no source describes the route to the landings,2026-09-21
+NGA-012,foreign_ownership_pct,"100% est. (the Nigerian owner is held by Digital Realty, US, and its 2021 co-investor Pembani Remgro Infrastructure Fund; no Nigerian shareholder disclosed)",no source gives the register of Digital Realty's Nigerian company,2026-09-21
+NGA-012,control_category,US control,"Digital Realty bought Medallion with Pembani Remgro Infrastructure Fund (South Africa); US control assumes Digital Realty holds the majority, which no readable source states",2026-09-21
+NGA-012,recent_investments,"Group level: completed acquisition of Teraco, South Africa (Aug 2022; ~$3.5B); first data centre in Ghana (Oct 2025) [Digital Realty](https://www.digitalrealty.com/about/newsroom/press-releases/122709/digital-realty-completes-acquisition-of-teraco) [Digital Realty](https://www.digitalrealty.com/about/newsroom/press-releases/123355/digital-realty-expands-presence-in-west-africa-with-first-data-center-in-ghana)",the ~$3.5B Teraco figure is not in the readable text of the release,2026-09-21
+NGA-012,carrier_neutrality,Fully carrier-neutral,carrier-neutral is plausible for a Medallion/Digital Realty site; no readable source states it for this facility,2026-09-21
+NGA-012,year_operational,2023,2023 is plausible (Medallion opened a new Lagos site in Oct 2023) but no source cited here dates LOS2,2026-09-21
+NGA-012,submarine_cable_access,Connected via metro fibre,no source describes the route to the landings,2026-09-21
+NGA-013,foreign_ownership_pct,"100% est. (the Nigerian owner is held by Digital Realty, US, and its 2021 co-investor Pembani Remgro Infrastructure Fund; no Nigerian shareholder disclosed)",no source gives the register of Digital Realty's Nigerian company,2026-09-21
+NGA-013,control_category,US control,"Digital Realty bought Medallion with Pembani Remgro Infrastructure Fund (South Africa); US control assumes Digital Realty holds the majority, which no readable source states",2026-09-21
+NGA-013,recent_investments,"Group level: completed acquisition of Teraco, South Africa (Aug 2022; ~$3.5B); first data centre in Ghana (Oct 2025) [Digital Realty](https://www.digitalrealty.com/about/newsroom/press-releases/122709/digital-realty-completes-acquisition-of-teraco) [Digital Realty](https://www.digitalrealty.com/about/newsroom/press-releases/123355/digital-realty-expands-presence-in-west-africa-with-first-data-center-in-ghana)",the ~$3.5B Teraco figure is not in the readable text of the release,2026-09-21
+NGA-013,carrier_neutrality,Fully carrier-neutral,carrier-neutral is plausible for a Medallion/Digital Realty site; no readable source states it for this facility,2026-09-21
+NGA-013,year_operational,2022,2022 is plausible but no readable source dates LKK1,2026-09-21
+NGA-013,submarine_cable_access,Dark fibre connection to landing station,"DCD (cited on NGA-014) says LKK1 is the 2Africa cable landing station, which would make this 'At or adjacent to cable landing station'",2026-09-21
+NGA-014,foreign_ownership_pct,"100% est. (the Nigerian owner is held by Digital Realty, US, and its 2021 co-investor Pembani Remgro Infrastructure Fund; no Nigerian shareholder disclosed)",no source gives the register of Digital Realty's Nigerian company,2026-09-21
+NGA-014,control_category,US control,"Digital Realty bought Medallion with Pembani Remgro Infrastructure Fund (South Africa); US control assumes Digital Realty holds the majority, which no readable source states",2026-09-21
+NGA-014,recent_investments,"Group level: completed acquisition of Teraco, South Africa (Aug 2022; ~$3.5B); first data centre in Ghana (Oct 2025) [Digital Realty](https://www.digitalrealty.com/about/newsroom/press-releases/122709/digital-realty-completes-acquisition-of-teraco) [Digital Realty](https://www.digitalrealty.com/about/newsroom/press-releases/123355/digital-realty-expands-presence-in-west-africa-with-first-data-center-in-ghana); LKK2 itself added nearly 2 MW in Lekki [DCD](https://www.datacenterdynamics.com/en/news/digital-realty-launches-a-2mw-data-center-in-nigeria/)",the ~$3.5B Teraco figure is not in the readable text of the release,2026-09-21
+NGA-014,carrier_neutrality,Fully carrier-neutral,carrier-neutral is plausible for a Medallion/Digital Realty site; no readable source states it for this facility,2026-09-21
+NGA-014,year_operational,2025,DCD reports the opening but its text carries no date; 2025 is plausible,2026-09-21
+NGA-015,foreign_ownership_pct,"100% est. (the Nigerian owner is held by Digital Realty, US, and its 2021 co-investor Pembani Remgro Infrastructure Fund; no Nigerian shareholder disclosed)",no source gives the register of Digital Realty's Nigerian company,2026-09-21
+NGA-015,control_category,US control,"Digital Realty bought Medallion with Pembani Remgro Infrastructure Fund (South Africa); US control assumes Digital Realty holds the majority, which no readable source states",2026-09-21
+NGA-015,recent_investments,"Group level: completed acquisition of Teraco, South Africa (Aug 2022; ~$3.5B); first data centre in Ghana (Oct 2025) [Digital Realty](https://www.digitalrealty.com/about/newsroom/press-releases/122709/digital-realty-completes-acquisition-of-teraco) [Digital Realty](https://www.digitalrealty.com/about/newsroom/press-releases/123355/digital-realty-expands-presence-in-west-africa-with-first-data-center-in-ghana)",the ~$3.5B Teraco figure is not in the readable text of the release,2026-09-21
+NGA-015,year_operational,2021,2021 is the year Digital Realty acquired Medallion per DataCenterMap; no source gives the opening year,2026-09-21
+NGA-015,security_certifications,ISO 27001,ISO 27001 is plausible but no readable source states it for ABV1,2026-09-21
+NGA-015,submarine_cable_access,Landlocked/no submarine cable access,Abuja is inland; no source describes its route to the Lagos landings,2026-09-21
+NGA-016,year_operational,2013,2013 is plausible but no readable source dates NSSC DC1,2026-09-21
+NGA-016,cloud_platform,Galaxy Cloud Platform (GxCP); 1Gov Cloud; OpenStack,OpenStack as the base of GxCP is not in any readable source,2026-09-21
+NGA-016,carrier_neutrality,Single carrier / captive,"GBB is itself a network operator, so captive is likely; no source states it",2026-09-21
+NGA-016,submarine_cable_access,Landlocked/no submarine cable access,Abuja is inland; no source describes the route to the landings,2026-09-21
+NGA-016,parent_company,Federal Government of Nigeria,the mandate names the Federal Ministry of Communication as parent and the accounts sit with MOFI; the holding entity needs the register,2026-09-21
+NGA-017,major_shareholders,Federal Government of Nigeria (100%),"100% federal ownership is plausible for an FGN-established company, but the 2023 AFS is unreadable and no readable source states the holding",2026-09-21
+NGA-017,carrier_neutrality,Single carrier / captive,"GBB's own network facility, so captive is likely; DataCenterMap mentions colocation and no source states carrier policy",2026-09-21
+NGA-018,year_operational,2000,no readable source gives Apapa's opening year,2026-09-21
+NGA-018,it_capacity_mw,12,"Data Centre Magazine's company report (cited on NGA-019/020) gives Apapa 12MW, not cited on this row",2026-09-21
+NGA-018,submarine_cable_access,Dark fibre connection to landing station,"plausible for Apapa, but no source describes its route to a landing station",2026-09-21
+NGA-018,comments,"48 Burma Road Apapa Lagos. Six-story; 10MW turbine system. Tier IV design; 8 certifications incl first MTCS in Africa. Carrier-neutral; PCCW regional gateway partner. 1MW solar installed; 75.5 MW total portfolio planned.. [[21CTL Official](https://www.21ctl.com/about-us)], [[LinkedIn](https://ng.linkedin.com/company/21ctlcom)], [[ng-check CAC data](https://ng-check.com/21st-century-technologies-limited/852401.html)], [[Uptime](https://uptimeinstitute.com/component/tierachievement/client/21st-century-technologies-limited/646)]","21CTL's site lists the six-storey data centre with the 10MW turbine separately from Apapa, so those facts may belong to another site",2026-09-21
+NGA-019,year_operational,2015,no readable source gives Ikeja's opening year,2026-09-21
+NGA-019,it_capacity_mw,8,"21CTL gives Ikeja a redundant 8MW utility supply, which is not IT load; the company report puts the site at 50MW when built",2026-09-21
+NGA-019,security_certifications,ISO 27001; ISO 9001; ISO 20000; PCI-DSS,"the certifications are 21CTL's (The Guardian, cited on NGA-018), but no source on this row lists them",2026-09-21
+NGA-019,submarine_cable_access,Dark fibre connection to landing station,"plausible, but no source describes Ikeja's route to a landing station",2026-09-21
+NGA-019,carrier_neutrality,Fully carrier-neutral,"21CTL describes Apapa, Saka-Tinubu and Alanamu as multi-carrier but says nothing on Ikeja's carriers",2026-09-21
+NGA-020,facility_name,21st Century Technologies DC Lekki,"the company report names a 12MW Lekki site and 21CTL's own site lists a Saka-Tinubu (Victoria Island) data centre but no Lekki one; this row's address and coordinates are Saka-Tinubu, so T8 should decide whether these are one facility",2026-09-21
+NGA-020,year_operational,2010,no readable source gives the opening year,2026-09-21
+NGA-020,security_certifications,ISO 27001; ISO 9001; PCI-DSS,"the certifications are 21CTL's (The Guardian, cited on NGA-018), but no source on this row lists them",2026-09-21
+NGA-020,submarine_cable_access,Dark fibre connection to landing station,"plausible, but no source describes the route to a landing station",2026-09-21
+NGA-020,carrier_neutrality,Fully carrier-neutral,"21CTL calls Saka-Tinubu multi-carrier, but whether that is this facility is unresolved",2026-09-21
+NGA-021,total_floor_space_sqm,27870,"27,870 m2 (300,000 sq ft) is plausible for six floors and 3,000 racks, but no readable source gives it",2026-09-21
+NGA-021,services_offered,Hyperscale colocation; Cloud; AI GPU; CDN; Edge,Nxtra advertises colocation and interconnection; CDN and edge at this site are not stated,2026-09-21
+NGA-021,submarine_cable_access,Dark fibre connection to landing station,sources place the site close to landing stations but do not describe the connection,2026-09-21
+NGA-022,ultimate_parent_company,(self),"Kasi's shareholder register is not in any source; T9 should establish who controls it (founders, NSIA, or US investors via its Reston office and DH Capital board seat)",2026-09-21
+NGA-022,ownership_type,Joint venture (majority domestic),a domestic-majority joint venture of NSIA and the founders is plausible but no source states the split,2026-09-21
+NGA-022,year_operational,2026,the 5.5MW first phase due Q2 2026 is not in any readable source; Moneycentral found no timeline,2026-09-21
+NGA-022,services_offered,Hyperscale AI colocation; GPU compute; High-density IaaS,GPU compute and IaaS are not advertised by Kasi; only hyperscale colocation and interconnection are,2026-09-21
+NGA-022,submarine_cable_access,Dark fibre connection to landing station,"plausible for a coastal Lekki site, but no source describes the connection",2026-09-21
+NGA-023,year_operational,2015,no readable source gives the opening year,2026-09-21
+NGA-023,cloud_platform,OpenStack,OpenStack is plausible for Layer3Cloud but no source names the platform; Layer3's partners include VMware,2026-09-21
+NGA-023,carrier_neutrality,Limited carriers,no source states how many carriers serve the facility,2026-09-21
+NGA-023,controlling_entities,"None (founder-led, self-owned)",founder-led is plausible but the register shows ten directors and no shareholdings,2026-09-21
+NGA-024,facility_name,ipNX Nigeria Data Centre Lagos,"ipNX's own data-centre page sells connectivity to data centres; only DataCenterMap's profile calls it a colocation provider, and its facility page is unreadable. T9 should confirm the facility exists",2026-09-21
+NGA-024,year_operational,2012,no readable source gives the opening year,2026-09-21
+NGA-024,carrier_neutrality,Fully carrier-neutral,"ipNX is itself a carrier, so neutrality is doubtful; no source states it",2026-09-21
+NGA-024,dfi_involvement,"USTDA (US agency) feasibility grant; no IFC, DFC, BII, AfDB involvement [USTDA](https://datastore.iatistandard.org/activity/US-GOV-12-1131PL20GH11207-134523)",the USTDA grant rests on an IATI page that is unreadable,2026-09-21
+NGA-025,year_operational,2010,"2010 is the year NTT bought Dimension Data, not an opening date; no source gives when the site opened",2026-09-21
+NGA-025,security_certifications,ISO 27001,DataCenterMap gives Tier 3 design only; nothing shows ISO 27001 for this site,2026-09-21
+NGA-025,submarine_cable_access,Connected via metro fibre,metro fibre is plausible for Victoria Island; no source describes the route,2026-09-21
+NGA-025,parent_company,NTT Group,"no source names the immediate parent of the Nigerian entity; NTT DATA, Inc. operates it and is part of NTT Group",2026-09-21
+NGA-026,ultimate_parent_hq_country,ZAF,Convergence Partners is known as a Johannesburg firm; no packet source states its registration,2026-09-21
+NGA-026,year_operational,2013,2013 is when inq. was founded; no source gives the facility's opening year,2026-09-21
+NGA-026,submarine_cable_access,Connected via metro fibre,metro fibre is plausible for Ikoyi; no source describes the route,2026-09-21
+NGA-026,gps_coordinates,"6.4497, 3.3947",no source gives coordinates for 3A Aja Nwachukwu Close,2026-09-21
+NGA-027,year_operational,2010,no source gives an opening year; the NCC licence runs from 2013,2026-09-21
+NGA-027,submarine_cable_access,Connected via metro fibre,metro fibre is plausible for Gbagada; no source describes the route,2026-09-21
+NGA-027,gps_coordinates,"6.5568, 3.3868",no source gives coordinates for 18b Estaport Ave,2026-09-21
+NGA-028,major_shareholders,"Vremudia Oghene-Ruemu (co-founder), Andrew Agbo-Madaki (co-founder); percentages unknown","sources name the two as co-founders, not as shareholders with stakes",2026-09-21
+NGA-028,gps_coordinates,"6.4497, 3.3947",identical to NGA-026's; Fringe does not publish its address,2026-09-21
+NGA-029,operational_status,Under construction,sources show only the 2024 agreement and a six-month build target; nothing confirms construction began or finished,2026-09-21
+NGA-029,year_operational,2025,follows from the six-month target; no source states a year,2026-09-21
+NGA-029,major_shareholders,Benue State Government (100%),DCD calls BDIC state-run; no source gives the 100% figure,2026-09-21
+NGA-029,government_ownership_pct,100%,no source gives the 100% figure,2026-09-21
+NGA-030,parent_company,Cassava Technologies,"a LinkedIn post cited by NGA-028 reports Stanlib acquiring Africa Data Centres, pending Tribunal approval; confirm the current owner",2026-09-21
+NGA-030,carrier_neutrality,Fully carrier-neutral,Cassava calls its data centres carrier-neutral; nothing specific to this planned site,2026-09-21
+NGA-030,services_offered,Disaster recovery; Colocation,disaster recovery is sourced; colocation is not,2026-09-21
+NGA-030,gps_coordinates,"9.0579, 7.4951",the Abuja location is not disclosed; the coordinates are a city placeholder,2026-09-21
