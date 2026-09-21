@@ -1,0 +1,34 @@
+{
+ "schema": 2,
+ "written_utc": "2026-09-21 14:38",
+ "pass": "INGEST",
+ "head": "0e7dd369775bacd3bf84ce754ac88cbd507dc3e4",
+ "head_committed_utc": "2026-09-21 14:38",
+ "collection": {
+  "last_admission": "2026-09-21 15:37",
+  "sweep_closed": "2026-09-21 10:58",
+  "ingest_started": "2026-09-21 15:29"
+ },
+ "rotation": {
+  "days": 3,
+  "newest_close": {
+   "day": "1",
+   "jobs": [
+    "SWEEP-NEWSPAPERS",
+    "SWEEP-JOURNALS",
+    "SWEEP-THINKTANKS",
+    "SWEEP-REGIONAL"
+   ],
+   "start": "2026-09-20 19:08",
+   "end": "2026-09-20 21:41",
+   "duration": "2:33",
+   "skipped": false,
+   "in_progress": false
+  },
+  "in_progress": []
+ },
+ "counts": {
+  "awaiting_ingest": 1,
+  "raw_sources": 23054
+ }
+}

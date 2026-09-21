@@ -14,6 +14,10 @@ last_reviewed: 2026-08-28
 
 <!-- newest first: a new block goes directly below this line -->
 
+## 2026-09-21 16:40 · build
+
+- Liberia's monthly fails check J: the ledger's newest row (Cybercrime Act, 19 September) is already in the document, so the renderer keeps it unchanged and never advances `compiled:`. Nothing published is wrong. Left as is; the fix is in `report-render.py` (renderer or check J), a code change for a working session, not a cycle.
+
 ## 2026-09-21 00:20 · review
 
 - **The non-state summary's year columns are the record's publication year, not the deal's.** `aggregate3` buckets each row by `published` while the downloadable row shows `start_year`; they agree on 1,339 of 1,453 rows and differ on 114, 26 of them by two years or more — a 2022 Comoros grant prints under 2025/26. Which field is authoritative is a data-quality judgement across the estate, not a run's. Left as compiled.
