@@ -602,7 +602,6 @@ ETH-008,gps_coordinates,"9.0300, 38.7600",approximate; the operator says 'the ce
 ETH-010,facility_name,Ethiopian National Data Centre (cloud.gov.et),"DCD describes a planned Tier III national data centre at ICT Park (tenders then pending) and a separate existing MInT data centre serving public bodies; cloud.gov.et is a template with placeholder text and no longer resolves. No source shows the national centre was built; T8/T9 to confirm which facility this row is, or retire it",2026-09-21
 ETH-010,parent_company,Federal Democratic Republic of Ethiopia,no source states the legal owner; state ownership through MInT is inferred,2026-09-21
 ETH-010,gps_coordinates,"9.0249, 38.7469",approximate for the MInT HQ area; the planned site is at ICT Park,2026-09-21
-ETH-011,chinese_involvement,Construction/Equipment,"proposed only (talks, Sept 2024); upgrade to Investment if Shandong financing is confirmed, or clear if the talks lapse",2026-09-21
 ETH-011,rack_capacity,1000,"the 1,000-rack figure is Ethio Telecom's 2022 Green Data Center plan (FurtherAfrica, cited on ETH-004); no source ties it to the Shandong project",2026-09-21
 ETH-011,city,Addis Ababa,DCD says no location was shared,2026-09-21
 ETH-011,services_offered,Hyperscale cloud; Enterprise hosting; AI infrastructure,no source describes the planned services,2026-09-21
@@ -895,7 +894,6 @@ EGY-019,ultimate_parent_company,"Sheikh Tahnoon bin Zayed Al Nahyan / Royal Grou
 EGY-019,services_offered,Hyperscale colocation; Cloud hosting; AI compute; International connectivity; Carrier-neutral services,the facility is not built; no source lists the services it will advertise,2026-09-21
 EGY-019,carrier_neutrality,Fully carrier-neutral,no source states carrier neutrality for this facility,2026-09-21
 EGY-019,submarine_cable_access,Connected via metro fibre,no source describes the site's route to a landing station,2026-09-21
-EGY-020,investment_usd,1800000000,"the sources give €1.8 billion as a planning assumption, not $1.8 billion; needs converting at a dated rate",2026-09-21
 EGY-020,ultimate_parent_company,Green Art Pith d.o.o. (Croatia),Green Art Pith d.o.o. is plausible (NEOIX was GreenArt Invest PLC until June 2025) but no readable filing names it,2026-09-21
 EGY-020,ultimate_parent_hq_country,HRV,follows the unsourced Croatian parent,2026-09-21
 EGY-020,major_shareholders,Green Art Pith d.o.o. (99.99%); H. Slipicevic (90% of parent),"the 99.99% and 90% holdings have no readable source; the accounts excerpt has no register, and the shares now trade in Düsseldorf",2026-09-21
