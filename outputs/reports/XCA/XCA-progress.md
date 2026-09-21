@@ -3,18 +3,18 @@ title: Central Africa — progress report, September 2025 – September 2026
 compiled: 2026-09-21
 period: 2025-09-01 to 2026-09-21
 place: XCA
-ledger_rows: 49
+ledger_rows: 50
 not_held: 0
-record: 8a376e0a2b8a
+record: 3b0e7d5d8b69
 ---
 
 # Central Africa: progress report, September 2025 – September 2026
 
 *Compiled 2026-09-21 by Claude Opus from the documents in the Corpus repository. Sections run from the region's institutions outwards to what funds them. Each row sets the position at the start of the period against the position at the end, and the Progress column says how it moved. The period runs to the date of issue rather than to the last month's close.*
 
-*Of 49 bodies, instruments and systems on this place's ledger, 34 changed position between 2025-09-01 and 2026-09-21, 8 did not, 7 carry no stated baseline, and 0 are ***Not held*** at both ends.*
+*Of 50 bodies, instruments and systems on this place's ledger, 34 changed position between 2025-09-01 and 2026-09-21, 8 did not, 8 carry no stated baseline, and 0 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 86 sources for this place in the window — 25 in the earlier half (2025-09 to 2026-03), 61 in the later (2026-04 to 2026-09). The two halves are comparable, so the comparison is made over the whole window.*
+*Shape check, run before the comparison: 87 sources for this place in the window — 20 in the earlier half (2025-09 to 2026-02), 67 in the later (2026-03 to 2026-09). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Closed* — the programme ended. *No change* — the repository holds a standing position and nothing in the period touched it. ***Baseline not held*** — there is evidence of movement but no baseline to compare it against. A value may carry a qualifying clause after a comma, as in *Movement, slipped*.
 
@@ -102,6 +102,7 @@ CEMAC's two 2019-era free-movement instruments sit at opposite ends of the deliv
 | Central African Backbone | National segments built and interconnected — the Central African Republic's national backbone inaugurated in February 2023 with an interconnection to Congo | [Extending in three directions at once: Congo's 600 km backbone linking Cameroon and the Central African Republic, Cameroon seeking USD 195 million to expand its own, and Congo Telecom stating an ambition to lead regional digital transit (2026-06)](https://techreviewafrica.com/news/6002/congo-telecom-reiterates-ambition-to-lead-digital-transit-and-technology-hub-in-central-africa) | Movement |
 | Central African Republic interconnection through South Sudan | A Juba-Ri Yubu route to the Central African Republic listed by a World Bank study as a proposed link and gap to close, with no link operating (2022-09) | [Announced to reduce dependence on fragile regional networks and improve access to international capacity (2026-05)](https://africabusinessinsight.com/central-african-republic-seeks-new/) | Movement |
 | Common framework for national emergency telecommunications plans | ***Baseline not held*** | [Eight ECCAS states met in Brazzaville with the ITU and the Central African regulators' assembly to review a model framework each state can adapt into a national emergency telecommunications plan while keeping national arrangements interoperable; no adopted framework or national plan is held](https://www.adiac-congo.com/content/telecoms-lafrique-centrale-renforce-ses-dispositifs-face-aux-catastrophes-naturelles-171621) | ***Baseline not held*** |
+| Medusa Africa extension of the Medusa submarine cable | ***Baseline not held*** | [A branch from the Mediterranean system down Africa's Atlantic coast is at study stage: an EU grant of EUR 14.3m for a branching unit and a survey of about 8,000 km to DR Congo, and a US grant of US$1,520,778 for a feasibility study covering up to 22 countries](https://www.submarinenetworks.com/en/systems/asia-europe-africa/medusa/afr-ix-telecom-secures-us-backing-and-%E2%82%AC14,3-million-eu-funding-for-medusa-africa) | ***Baseline not held*** |
 | Nigeria-Equatorial Guinea subsea cable | ***Baseline not held*** | [Signed to expand broadband capacity and regional cybersecurity between West and Central Africa (2026-02)](https://www.connectingafrica.com/fiber-networking/nigeria-equatorial-guinea-subsea-cable-to-strengthen-regional-connectivity) | ***Baseline not held*** |
 
 ### Data Storage
