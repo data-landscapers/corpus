@@ -1,11 +1,11 @@
 ---
 title: Burkina Faso — monthly update, August – September 2026
-compiled: 2026-09-18
-period: 2026-08-01 to 2026-09-18
+compiled: 2026-09-21
+period: 2026-08-01 to 2026-09-21
 place: BFA
-ledger_rows: 44
+ledger_rows: 47
 not_held: 8
-record: 2d37c260c472
+record: 337b7d21e049
 ---
 
 # Burkina Faso: monthly update, August – September 2026
@@ -53,6 +53,11 @@ The same organic law creating the merged communications and data-protection auth
 
 ## Finance
 
+### Domestic budget appropriations and expenditure
+
+<!-- narrative: finance--finance-budget -->
+
+<!-- /narrative -->
 ### New investments
 
 <!-- narrative: finance--finance-new -->
