@@ -89,16 +89,17 @@ BUDGET_DIR = OUTPUTS / "budgets"
 
 # **What the budget download carries is narrower than what the compile holds**, on the
 # precedent `design.md` set for the catalogue on 2026-09-09. `record` is a key into
-# OSINT's tree and names a file only we hold. `doc_type` is populated on 197 of the 466
-# budget-document lines and blank on the rest — a column mostly empty on the rows it
-# belongs to tells a reader nothing and invites the inference that the source is unknown,
-# when `doc_locator` names it on every one of them. Both stay in `outputs/`.
+# OSINT's tree and names a file only we hold. `doc_type` was dropped on 2026-09-20 while it
+# was blank on most budget-document lines, and came back on 2026-09-21 once it was filled on
+# every one (`notes-for-corpus` 43): OSINT's records from its job 139, Corpus's own
+# extractions from the records they were read out of. It is a filter rather than a column,
+# because the table is already as wide as a 1440px window holds.
 # `source_slug` joined them on 2026-09-20 (R54). It names the held document a Corpus
 # extraction was read out of, which is a slug in OSINT's tree — and the published catalogue
 # carries titles and URLs, never slugs, so publishing one here would be the first. What a
 # reader needs is `doc_locator`, which names the page and table the figure is printed on in
 # a document they can fetch themselves from the publisher.
-BUDGET_DROP = ("record", "doc_type", "source_slug", "origin_record")
+BUDGET_DROP = ("record", "source_slug", "origin_record")
 
 STAGES = ("proposed", "appropriated", "revised", "released", "actual", "audited")
 
@@ -354,10 +355,10 @@ PAGE = """<!DOCTYPE html>
     <div class="dl-datatable"
       data-src="{b_csv}"
       data-cols="place, fy, admin_head, programme, sub_programme, proposed, appropriated, revised, actual, audited, currency, scope_confidence, source_tier, doc_locator"
-      data-filters="place, fy, current_stage, scope_confidence, source_tier, currency"
+      data-filters="place, fy, current_stage, scope_confidence, source_tier, doc_type, currency"
       data-numeric="proposed, appropriated, revised, released, actual, audited"
       data-labels="{b_labels}"
-      data-detail="doc_locator"
+      data-detail="doc_type, doc_locator"
       data-sort="place:asc"
       data-empty="No budget line matches those filters.">
       <div class="dt-controls">
@@ -378,7 +379,7 @@ PAGE = """<!DOCTYPE html>
         <dt>This file</dt><dd><a href="{b_csv}">{b_csv}</a> &mdash; a dated edition, retained as published and never revised</dd>
         <dt>Source</dt><dd><code>outputs/budgets/{{ISO3}}-budget.csv</code>, compiled from the records each line rests on</dd>
         <dt>Amounts</dt><dd>In the state&rsquo;s own currency, as its budget document prints them, with no conversion and no total. A figure is an appropriation, a revision or an outturn &mdash; the columns say which</dd>
-        <dt>Citation</dt><dd><code>doc_locator</code> names the page, table and line in the budget document the figure is printed in. It is blank on lines built from reporting, where the driver leaves it blank rather than inferring one</dd>
+        <dt>Citation</dt><dd><code>doc_type</code> says what kind of budget document it is &mdash; estimates, an appropriation act, an outturn report &mdash; and <code>doc_locator</code> names the page, table and line the figure is printed in. It is blank on lines built from reporting, where the driver leaves it blank rather than inferring one</dd>
         <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></dd>
       </dl>
     </div>

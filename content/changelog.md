@@ -1,5 +1,7 @@
 ## 21 September 2026
 
+- The national budget table can be filtered by the kind of document each figure comes from, such as estimates, an appropriation act or an outturn report, now that every budget-document line says which it is. A filter for appropriation acts now returns only budgets as enacted.
+- Morocco's World Bank funding for digital payments falls from US$1,000m to US$500m, and for digital identity from US$140m to US$70m. Each operation had been counted twice, once from the Bank's own document and once from its aid-transparency record.
 - Most of what the data centre table could not yet source has now been searched for: two-thirds of the unsupported claims were confirmed with a source, corrected, or taken out. A status or owner that no search could support now reads Unknown rather than a guess, and each change is logged with the page it rests on.
 - The data centre table now covers every African country, with 567 facilities after a search for what it lacked: 132 added, among them bank and government data centres and sites certified by the Uptime Institute. 33 rows that repeated another or were never a data centre, such as internet exchange points and company offices, have been retired; each stays in earlier editions, and its ID is never reused.
 - The data centre table now reads everything the repository holds about data centres, and does so again each night: 1,544 documents so far, which added 91 facilities (468 in 53 countries) and updated 174. Each change cites the document it rests on, so more rows now link to the catalogue.
