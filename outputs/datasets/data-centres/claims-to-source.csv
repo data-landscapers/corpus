@@ -54,3 +54,25 @@ GNQ-001,submarine_cable_access,At or adjacent to cable landing station,"ACE land
 GNQ-001,carrier_neutrality,Single carrier / captive,"captive is plausible for the state wholesale monopoly, but it sits oddly with the colocation type and no source states it",2026-09-21
 GNQ-001,gps_coordinates,"3.7523, 8.7756","approximate, per comments; no source gives coordinates",2026-09-21
 GNQ-001,major_shareholders,"100% owned by Government of Equatorial Guinea (state-owned public entity, no private shareholders)","follows from GITGE being an SOE, which only one source states",2026-09-21
+BDI-001,year_operational,2010,2010 is the consortium's founding; the network launched in 2013 and no source dates the data centre,2026-09-21
+BDI-001,major_shareholders,Government of Burundi (100%),"100% state follows from the 2017 nationalisation, but BBS's manager denied it and no register confirms it",2026-09-21
+BDI-001,government_ownership_pct,100%,as major_shareholders: no register confirms the 100%,2026-09-21
+BDI-001,carrier_neutrality,Limited carriers,"eight operators used BBS's virtual landing station, but no source describes carrier choice at the data centre",2026-09-21
+BDI-002,ultimate_parent_hq_country,CHE,AKFED's Geneva registration is not in any readable source,2026-09-21
+BDI-002,facility_type,Colocation/carrier-neutral,"PeeringDB lists an interconnection facility, but no source says it rented space to others",2026-09-21
+BDI-002,services_offered,Colocation; interconnection; carrier exchange; internet transit,no readable source lists the facility's services,2026-09-21
+BDI-002,carrier_neutrality,Limited carriers,no source describes carrier choice at the facility,2026-09-21
+GIN-001,year_operational,2016,"2016 is the first IP PoP, not a stated opening of the data centre",2026-09-21
+GIN-001,major_shareholders,"Guinean Government (52.55%, Guinea); Orange Guinée (26.25%, France); Areeba Guinée (7.20%, Guinea post-2024 nationalization); ETI (5.09%, Guinea); Cellcom Guinée (2.55%, Guinea); Mouna Group Technology (2.55%, Guinea); Intercel (1.27%, ?); Skyvision Guinée (1.27%, ?); VDC Telecom (1.27%, ?)[Wikipedia](https://en.wikipedia.org/wiki/Guin%C3%A9enne_de_Large_Bande)",the 'post-2024 nationalization' of Areeba Guinée is not in any readable source; the register itself is from Wikipedia alone,2026-09-21
+GIN-002,operator_name,Ministry of Posts; Telecommunications and Digital Economy (Guinea),"the ministry presented the site, but no source says who operates it",2026-09-21
+GIN-002,submarine_cable_access,Connected via metro fibre,no source describes the facility's route to the landing station,2026-09-21
+GIN-002,carrier_neutrality,Single carrier / captive,no source describes carrier access,2026-09-21
+LBR-001,facility_type,Colocation/carrier-neutral,no source describes the facility or its tenants,2026-09-21
+LBR-001,services_offered,Colocation; hosting; web hosting; data storage,the archived LTC About page shows no colocation or hosting offer,2026-09-21
+LBR-001,submarine_cable_access,Connected via metro fibre,"LTC owns 20% of the ACE landing consortium and was building Monrovia fibre to it, but no source links this facility",2026-09-21
+LBR-001,carrier_neutrality,Limited carriers,no source describes carrier access,2026-09-21
+LBR-001,facility_name,LTC Mobile National Data Centre,no readable source shows this facility exists; T8/T9 to confirm or retire the row,2026-09-21
+LBR-002,foreign_ownership_pct,100%,"Telecel Group acquired Telecel Liberia, but no source gives the stake",2026-09-21
+LBR-002,submarine_cable_access,Connected via metro fibre,no source describes the facility's route to the landing station,2026-09-21
+LBR-002,carrier_neutrality,Limited carriers,no source describes carrier access,2026-09-21
+LBR-002,city,Monrovia,the 3rd Street Sinkor address is in comments but no readable source gives it,2026-09-21
