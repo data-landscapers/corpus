@@ -1,12 +1,12 @@
 ---
 title: Central African Republic: status report
-compiled: 2026-09-18
+compiled: 2026-09-21
 place: CAF
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-26
 intersections_read: 6
-sources_cited: 94
+sources_cited: 95
 sections_written: 37
 not_established: 3
 acquire_lines: 27
@@ -286,7 +286,7 @@ Women's access to public services in the Central African Republic scores 0.0 out
 
 The lines that decide who ends up on the wrong side of this are cost, current and distance. A gigabyte of mobile data cost [19.4% of GNI per capita in 2020](https://documents1.worldbank.org/curated/en/283361648600399938/pdf/Central-African-Republic-Public-Sector-Digital-Governance-Project.pdf), and the country remained in [ITU's group of landlocked states whose median data-only mobile plan costs more than 20% of monthly income per head](http://demo.ifgict.org/wp-content/uploads/2024/09/ITU-Report-on-Measuring-digital-development.pdf), over ten times the international affordability target (2024). [Electricity reaches a small minority of the population and is close to absent outside the towns](https://www.theglobaleconomy.com/Central-African-Republic/Access_to_electricity/) (2023), [fixed broadband barely exists](https://documents1.worldbank.org/curated/en/283361648600399938/pdf/Central-African-Republic-Public-Sector-Digital-Governance-Project.pdf), and the country [has no undersea cable landing of its own](https://www.itu.int/en/ITU-D/LDCs/Documents/2017/Country%20Profiles/Country%20Profile_Central-African-Republic.pdf), so for almost everyone connection means a mobile signal or nothing at all.
 
-That signal is recent outside the capital, Orange having [taken 4G to provincial towns only in May 2025](https://techafricanews.com/2025/05/26/orange-expands-4g-network-to-provinces-in-central-african-republic/), and where it fails there is nothing behind it: a network failure at [Batangafo left the town without calls, internet or mobile money](https://corbeaunews-centrafrique.org/centrafrique-a-batangafo-un-mois-sans-reseau-orange-bloque-les-communications-et-les-services-financiers/) for weeks (July 2026). Coverage is in any case not use, and [the share of Central Africans using the internet stood at 12.0% at the end of 2025](https://datareportal.com/reports/digital-2026-central-african-republic).
+That signal is recent outside the capital, Orange having [taken 4G to provincial towns only in May 2025](https://techafricanews.com/2025/05/26/orange-expands-4g-network-to-provinces-in-central-african-republic/), and where it fails there is nothing behind it: a network failure at [Batangafo left the town without calls, internet or mobile money](https://corbeaunews-centrafrique.org/centrafrique-a-batangafo-un-mois-sans-reseau-orange-bloque-les-communications-et-les-services-financiers/) for weeks (July 2026). Coverage is in any case not use: the regulator [counted 1.56 million internet subscriptions at end-June 2026, a little over 23% of the population](https://www.icasees.org/index.php/component/edocman/observatoire-des-marches-de-communications-electroniques-s1-2027/download?Itemid=0), and [a publisher's estimate put people using the internet at 12.0% at the end of 2025](https://datareportal.com/reports/digital-2026-central-african-republic).
 
 ## Data
 

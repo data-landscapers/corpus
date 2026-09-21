@@ -1,12 +1,12 @@
 ---
 title: Egypt: status report
-compiled: 2026-09-15
+compiled: 2026-09-21
 place: EGY
 region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 10
-sources_cited: 153
+sources_cited: 155
 sections_written: 37
 not_established: 0
 acquire_lines: 60
@@ -395,7 +395,7 @@ The oldest European position is in hardware: [the French vendor IDEMIA has held 
 <!-- geopol.gulf -->
 
 [The Central Bank of Egypt enabled instant inbound cross-border remittances in December 2024, letting recipients take funds straight into bank accounts or wallets through the Instant Payment Network, with further bilateral links planned to Jordan, Saudi Arabia and the UAE](https://www.africanenda.org/uploads/files/siips2025/siips_2025_IPN-Egypt_CaseStudy_en.pdf).
-The Gulf's place in those rails is therefore a set of planned connections rather than working ones.
+The Gulf's place in those rails is therefore a set of planned connections rather than working ones. Its technology capital is on record too: [an Emirati operator and an Egyptian group agreed a US$250m, 25 MW hyperscale data centre at Maadi Technology Park in 2023](https://www.intelligentcio.com/africa/2023/11/20/khazna-data-centers-and-benya-group-ink-historic-deal-to-establish-egypts-first-premier-hyper-scale-data-center/), with no construction on record, and [Abu Dhabi's sovereign investor co-led a US$35m round in the Egyptian-founded payments company Paymob in September 2026](https://www.mubadala.com/en/news/paymob-raises-35-million-in-pre-series-c-round-co-led-by-mubadala-and-ebrd), for its expansion across the region.
 
 ### India activities
 <!-- geopol.india -->

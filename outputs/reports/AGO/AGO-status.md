@@ -1,12 +1,12 @@
 ---
 title: Angola: status report
-compiled: 2026-09-17
+compiled: 2026-09-21
 place: AGO
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-04
 intersections_read: 12
-sources_cited: 239
+sources_cited: 240
 sections_written: 37
 not_established: 0
 acquire_lines: 47
@@ -131,7 +131,7 @@ The Data Center e Cloud do Governo at Camama in Luanda was [inaugurated by Presi
 
 Commercial capacity is thin and sits in Luanda. [Raxio's AG1 at Cacuaco, opened in October 2025 as a US$30 million investment, offers up to 3 MW and more than 800 racks on a 19,000 m² site near the undersea cable landings and is the country's only Tier III commercial facility](https://www.raxiogroup.com/raxio-opens-angolas-largest-data-centre-in-landmark-30-million-expansion/); [Paratus runs two data centres in the city and in 2023 began building a third](https://www.datacenterdynamics.com/en/news/paratus-group-to-build-third-angola-data-center/), and [Africell built an enterprise data centre at its Luanda headquarters in 2021](https://www.africell.com/news/africell-opens-high-tech-data-center-in-angola/). There is [no in-country hyperscale cloud region: the nearest AWS, Azure and Google Cloud regions are elsewhere in Africa (2024)](https://docs.aws.amazon.com/global-infrastructure/latest/regions/aws-regions.html).
 
-[No broad data localisation requirement applies, though banking and oil and gas data is mostly hosted locally in practice, and personal-data transfers abroad are subject to an adequate-protection test and notification of the data protection authority (2025)](https://cms.d4dhub.eu/assets/Initiatives/Data-Governance-in-Africa/Digital-Investment-Facility/2507_Country-Market-Briefs/Data-Center-Market-Brief-Angola.pdf). Financial institutions must [notify the central bank and obtain its approval before contracting cloud or data-processing services, and disclose the hosting country](https://lex.ao/docs/banco-nacional-de-angola/2020/aviso-n-o-8-20-de-02-de-abril/); the data protection authority has [fined a technology firm for moving client data to cloud servers outside Angola without authorisation (June 2026)](https://valoreconomico.co.ao/artigo/apd-aplica-multas-milionarias-a-empresas-por-armazenarem-informacoes-pessoais-sem-autorizacao).
+[No broad data localisation requirement applies, though banking and oil and gas data is mostly hosted locally in practice, and personal-data transfers abroad are subject to an adequate-protection test and notification of the data protection authority (2025)](https://cms.d4dhub.eu/assets/Initiatives/Data-Governance-in-Africa/Digital-Investment-Facility/2507_Country-Market-Briefs/Data-Center-Market-Brief-Angola.pdf). Financial institutions must [notify the central bank and obtain its approval before contracting cloud or data-processing services, and disclose the hosting country](https://lex.ao/docs/banco-nacional-de-angola/2020/aviso-n-o-8-20-de-02-de-abril/), and [private credit bureaux must keep their primary processing and replica sites in Angola, at least 30 km apart, and may use cloud storage only with the data protection authority's prior authorisation (Presidential Decree 275/20, 2020)](https://angolex.com/paginas/decreto-presidencial/regulamento-da-actividade-das-centrais-privadas-de-informacao-de-credito.html); the data protection authority has [fined a technology firm for moving client data to cloud servers outside Angola without authorisation (June 2026)](https://valoreconomico.co.ao/artigo/apd-aplica-multas-milionarias-a-empresas-por-armazenarem-informacoes-pessoais-sem-autorizacao).
 
 ### Energy
 <!-- infra.energy -->

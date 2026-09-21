@@ -1,12 +1,12 @@
 ---
 title: Mozambique: status report
-compiled: 2026-09-15
+compiled: 2026-09-21
 place: MOZ
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 8
-sources_cited: 158
+sources_cited: 159
 sections_written: 37
 not_established: 2
 acquire_lines: 48
@@ -211,7 +211,7 @@ Elsewhere it is pilots and memoranda. A [gender-based violence case-data tool wa
 ### Other GovTech and e-Gov
 <!-- dpi.govtech -->
 
-[Since 3 August 2026 the Tax Authority has been issuing tax clearance certificates requested online through the taxpayer portal](https://www.diarioeconomico.co.mz/2026/08/03/desenvolvimento-2/autoridade-tributaria-comeca-hoje-a-distribuicao-de-certificados-de-regularidade-fiscal-solicitados-online/), against [a stated ten working days](https://mznews.co.mz/en/autoridade-tributaria-lanca-solicitacao-online-da-certidao-de-quitacao-fiscal-a-partir-de-3-de-agosto/) — and that is near the frontier of what the Mozambican state lets anyone complete online. The [national public service portal is informational only, so a citizen can read about a service but cannot transact through it](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025), and the [Portal do Cidadão was still a prototype in August 2026](https://mznews.co.mz/en/governo-digitaliza-mais-de-cem-servicos-publicos-com-prioridade-para-passaportes-e-cartas-de-conducao/), with [an inventory of public services drawn up for digitisation and passports and driving licences going first](https://mznews.co.mz/en/governo-digitaliza-mais-de-cem-servicos-publicos-com-prioridade-para-passaportes-e-cartas-de-conducao/).
+[Since 3 August 2026 the Tax Authority has been issuing tax clearance certificates requested online through the taxpayer portal](https://www.diarioeconomico.co.mz/2026/08/03/desenvolvimento-2/autoridade-tributaria-comeca-hoje-a-distribuicao-de-certificados-de-regularidade-fiscal-solicitados-online/), against [a stated ten working days](https://mznews.co.mz/en/autoridade-tributaria-lanca-solicitacao-online-da-certidao-de-quitacao-fiscal-a-partir-de-3-de-agosto/) — and that is near the frontier of what the Mozambican state lets anyone complete online. The [national public service portal is informational only, so a citizen can read about a service but cannot transact through it](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025), and the [Portal do Cidadão offered about 26 services to more than 3,000 users in September 2026, ahead of its official launch](https://aimnews.org/2026/09/21/governo-quer-acelerar-transformacao-digital-dos-servicos-publicos-ate-2029/), with [an inventory of public services drawn up for digitisation and passports and driving licences going first](https://mznews.co.mz/en/governo-digitaliza-mais-de-cem-servicos-publicos-com-prioridade-para-passaportes-e-cartas-de-conducao/).
 
 What does work is concentrated in tax and procurement. The Tax Authority's [e-Declaração and taxpayer portal let taxpayers file returns electronically, obtain certificates and check their tax status](https://edeclaracao.at.gov.mz/), and the [online tax portal supports registration, filing and payment](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [E-procurement is in use and publishes both tender notices and awarded contracts](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), a [public job portal handles registration, vacancy search and applications, including for public-sector recruitment](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), and an [online social protection portal is in use](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). For business, [Decree No. 40/2026 routes notification of low-risk activities preferably through the e-BAU platform, treating paper as exceptional and putting kiosks at counters for applicants who cannot use it directly](https://360mozambique.com/development/government-approves-regulation-allowing-certificates-for-low-risk-activities-to-be-issued-within-two-hours/).
 

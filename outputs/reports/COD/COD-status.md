@@ -1,12 +1,12 @@
 ---
 title: DR Congo: status report
-compiled: 2026-09-15
+compiled: 2026-09-21
 place: COD
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 6
-sources_cited: 159
+sources_cited: 160
 sections_written: 37
 not_established: 1
 acquire_lines: 50
@@ -53,7 +53,7 @@ DR Congo belongs to four regional economic communities — COMESA, the East Afri
 
 Physical reach is the part that has moved. Eastern Congo was tied into the East African submarine corridor when a [terrestrial route from Goma to Mombasa was lit in February 2026](https://itweb.africa/article/paratus-lights-up-new-east-africa-fibre-highway-linking-goma-to-mombasa/wbrpOqg2aJQMDLZn), giving Goma a land path to the Kenyan coast.
 
-Institutional reach has not. Congolese identity [cannot yet be checked across borders through a shared system](https://www.biometricupdate.com/202508/regional-dpi-initiative-supports-kyc-digital-id-interoperability-across-16-countries): the country is among the 16 SADC states that a federated eKYC framework presented in August 2025 aims to cover, following a cross-border verification pilot between South Africa and Lesotho. Cross-border remittances into the country [run mainly over the counter through international providers partnered with banks, mobile money operators being barred from cross-border remittance, and the country has yet to join the East African Payment System](https://migrantmoney.uncdf.org/wp-content/uploads/2025/05/Policy-Diagnostic-DRC-April2025.pdf) (2025).
+Institutional reach has not. Congolese identity [cannot yet be checked across borders through a shared system](https://www.biometricupdate.com/202508/regional-dpi-initiative-supports-kyc-digital-id-interoperability-across-16-countries): the country is among the 16 SADC states that a federated eKYC framework presented in August 2025 aims to cover, following a cross-border verification pilot between South Africa and Lesotho. Cross-border remittances into the country [run mainly over the counter through international providers partnered with banks, mobile money operators being barred from cross-border remittance, and the country has yet to join the East African Payment System](https://migrantmoney.uncdf.org/wp-content/uploads/2025/05/Policy-Diagnostic-DRC-April2025.pdf) (2025). On 18 September 2026 the central bank [signed accession to the Pan-African Payment and Settlement System and the East African central banks' memorandum on currency convertibility](https://actualite.cd/2026/09/21/eac-papss-ia-la-bcc-accelere-lintegration-de-la-rdc-dans-lecosysteme-financier-africain).
 
 Engagement with regional bodies is at the level of attendance and reporting. Outcomes from the African Telecommunications Union plenipotentiary summit held at Abuja on 20-25 July 2026 were [put before the Council of Ministers the following month](https://deskeco.com/2026/08/03/transformation-numerique-en-rdc-encore-11500-km-de-fibre-optique-deployer-pour-atteindre-un-total-de), and the [francophone regulators' network FRATEL held a seminar in DR Congo in May 2026](https://actualite.cd/2026/05/08/helios-towers-engage-la-reflexion-sur-le-partage-dinfrastructures-et-lamelioration-de-la).
 
