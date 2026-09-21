@@ -67,7 +67,6 @@ LBR-001,facility_type,Colocation/carrier-neutral,no source describes the facilit
 LBR-001,services_offered,Colocation; hosting; web hosting; data storage,the archived LTC About page shows no colocation or hosting offer,2026-09-21
 LBR-001,submarine_cable_access,Connected via metro fibre,"LTC owns 20% of the ACE landing consortium and was building Monrovia fibre to it, but no source links this facility",2026-09-21
 LBR-001,carrier_neutrality,Limited carriers,no source describes carrier access,2026-09-21
-LBR-001,facility_name,LTC Mobile National Data Centre,no readable source shows this facility exists; T8/T9 to confirm or retire the row,2026-09-21
 LBR-002,foreign_ownership_pct,100%,"Telecel Group acquired Telecel Liberia, but no source gives the stake",2026-09-21
 LBR-002,submarine_cable_access,Connected via metro fibre,no source describes the facility's route to the landing station,2026-09-21
 LBR-002,carrier_neutrality,Limited carriers,no source describes carrier access,2026-09-21
@@ -148,7 +147,6 @@ SDN-002,gps_coordinates,"15.5900, 32.5340",Global Voices places the NIC data cen
 SDN-003,submarine_cable_access,Connected via metro fibre,no source describes the facility's route to Port Sudan,2026-09-21
 SDN-003,carrier_neutrality,Limited carriers,"an operator's own core facility, so captive is likelier than limited carriers; no source states either",2026-09-21
 SDN-003,gps_coordinates,"15.6000, 32.5400",no source locates the facility; the coordinates are a rounded Khartoum point,2026-09-21
-CPV-001,facility_name,NOSi National Data Centre (TechPark CV Praia Campus),"DCD places the Huawei-built NOSi national data centre under 2km from TechPark CV, whose Praia campus has its own data centre; caboverdeexpert makes the TechPark one the government's primary node. Whether this row is one facility or two is for T8",2026-09-21
 CPV-001,submarine_cable_access,At or adjacent to cable landing station,"caboverdeexpert gives the TechPark Praia data centre direct fibre to EllaLink, not a site at the landing station",2026-09-21
 CPV-001,carrier_neutrality,Limited carriers,"a government facility on NOSi's own network, so limited carriers is plausible; no source states it",2026-09-21
 CPV-001,gps_coordinates,"14.9182, -23.5096",no source gives the site's location,2026-09-21
@@ -214,12 +212,10 @@ COD-003,operational_status,Operational,the directory listings are undated; no da
 COD-004,ultimate_parent_company,Three brothers (names unknown),Data Center Map says the company was founded by three brothers; current owners and names are unsourced,2026-09-21
 COD-004,ixp_presence,IXP connected (not hosted),the first ACIX node may be hosted at United's CrownTower site; no source says where it sits,2026-09-21
 COD-004,gps_coordinates,"-4.3186, 15.3113","approximate for CrownTower, 165 Av. des Batetela; no source gives coordinates",2026-09-21
-COG-001,facility_name,ARPCE Data Center Brazzaville (2021),"four of the six sources describe the AfDB-funded National Data Centre, which already has its own row (COG-003); only DCD and Developing Telecoms mention ARPCE's 2021 Brazzaville facility",2026-09-21
 COG-001,operational_status,Operational,"the newest mention (DCD, 2024) says ARPCE built it in 2021; no source confirms it is still running",2026-09-21
 COG-001,services_offered,Government data storage; sovereign data hosting; national digital services,ARPCE says it stores sovereign data on the State's behalf; the listed services are not stated for this facility,2026-09-21
 COG-001,carrier_neutrality,Single carrier / captive,"a regulator's own facility, so captive is plausible; no source states it",2026-09-21
 COG-001,gps_coordinates,"-4.2634, 15.2429",no source gives the site's location,2026-09-21
-COG-002,facility_name,ARPCE Data Center Pointe-Noire (2Africa),"Ecofin, Sika Finance and Sinomach describe the Brazzaville National Data Centre, which already has its own row (COG-003)",2026-09-21
 COG-002,submarine_cable_access,At or adjacent to cable landing station,"commissioned with the 2Africa landing in Pointe-Noire, so adjacency is plausible; no source gives its location relative to the landing station",2026-09-21
 COG-002,carrier_neutrality,Single carrier / captive,"a regulator's own facility, so captive is plausible; no source states it",2026-09-21
 COG-002,gps_coordinates,"-4.7692, 11.8664",no source gives the site's location,2026-09-21
@@ -596,11 +592,8 @@ AGO-004,operational_status,Planned,the newest source (Nov 2023) speaks of financ
 AGO-004,submarine_cable_access,Dark fibre connection to landing station,no source describes the planned facility's route to a landing station,2026-09-21
 AGO-004,ultimate_parent_hq_country,NAM,"Paratus Group is Namibian-founded, but no source gives Paratus Group Holdings' country of registration",2026-09-21
 AGO-004,ownership_structure_type,Private (ultimate) with public investment vehicle (PNH),"no source places Paratus Namibia Holdings, which bought Paratus Namibia, in the Angolan chain",2026-09-21
-AGO-005,facility_name,MSTelcom TCC (Telecom Command Centre),"Africa-Press (Feb 2026) describes Sonangol's new corporate data centre in Luanda (920 m² building, 400 m² data hall), a separate facility from MSTelcom's; T8 to decide whether it needs its own row",2026-09-21
 AGO-005,submarine_cable_access,Dark fibre connection to landing station,no source describes the facility's link to a landing station; Datacentermap gives only metro fibre and radio,2026-09-21
-AGO-006,facility_name,MSTelcom ZEE DC,"Africa-Press (Feb 2026) describes Sonangol's new corporate data centre in Luanda (920 m² building, 400 m² data hall), a separate facility from MSTelcom's; T8 to decide whether it needs its own row",2026-09-21
 AGO-006,submarine_cable_access,Connected via metro fibre,Datacentermap gives three metro fibre routes on MSTelcom's backbone but not the route to a landing station,2026-09-21
-AGO-007,facility_name,MSTelcom Benfica DC,"Africa-Press (Feb 2026) describes Sonangol's new corporate data centre in Luanda (920 m² building, 400 m² data hall), a separate facility from MSTelcom's; T8 to decide whether it needs its own row",2026-09-21
 AGO-007,submarine_cable_access,Connected via metro fibre,Datacentermap gives two fibre routes and radio links but not the route to a landing station,2026-09-21
 AGO-007,operational_status,Operational,Datacentermap's undated listing still describes the warehouse in the future tense; no dated source confirms operation,2026-09-21
 AGO-008,submarine_cable_access,Connected via metro fibre,no source describes the facility's route to a landing station,2026-09-21
@@ -616,8 +609,6 @@ AGO-011,carrier_neutrality,Single carrier / captive,"an operator's own network f
 AGO-011,submarine_cable_access,Connected via metro fibre,no source describes the facility's route to a landing station,2026-09-21
 AGO-012,submarine_cable_access,Dark fibre connection to landing station,Raxio says the site is close to the landing stations; no source describes the link,2026-09-21
 AGO-012,ixp_presence,IXP hosted on-site,the October 2025 sources say the site will host Angola's IXP; nothing yet confirms the move,2026-09-21
-AGO-013,facility_name,Angola National Data Centre (INFOSI),"FurtherAfrica (Feb 2023) describes a separate backup data centre at the existing National Data Centre next to ITEL in Rangel, Luanda; T8 to decide whether it needs its own row",2026-09-21
-AGO-013,operational_status,Under construction,the target was H1 2026 and the newest source is November 2025; nothing confirms whether it has opened,2026-09-21
 MOZ-001,total_floor_space_sqm,9500,"iColo's release gives a 9,500 sqm campus, but its 2023 spec sheet gives a total site area of 5,000 sqm",2026-09-21
 MOZ-002,submarine_cable_access,Dark fibre connection to landing station,"the site is near three cable landings, but no source describes its route to them",2026-09-21
 MOZ-004,operational_status,Operational,no source after the 2013 order shows the site still running,2026-09-21
@@ -717,7 +708,6 @@ UGA-013,operational_status,Under construction,the newest source (March 2026) tar
 UGA-014,ultimate_parent_hq_country,UGA,"Synectics lists offices in Uganda, Nigeria, Canada and the UK; no register confirms where its owners are",2026-09-21
 UGA-014,parent_hq_country,UGA,no source gives Synectics Technologies Limited's country of registration,2026-09-21
 UGA-014,city,Kiryandongo,sources place the site at Karuma Hydro Power Plant; Kiryandongo as the district is plausible but not stated,2026-09-21
-UGA-015,operational_status,Planned,DCD lists Kampala among Nxtra's planned builds; no source dates the plan or confirms a site,2026-09-21
 UGA-016,facility_name,Simbanet Uganda DC (Edge),no source shows Simbanet operates a data centre in Uganda; its SMART DC is an IoT product. T8/T9 to confirm or retire the row,2026-09-21
 UGA-016,carrier_neutrality,Single carrier / captive,no source describes a Simbanet facility's carrier access,2026-09-21
 TZA-001,submarine_cable_access,Connected via metro fibre,"plausible via the NICTBB backbone, but no readable source describes the route to a landing station",2026-09-21
@@ -736,7 +726,6 @@ TZA-003,services_offered,Colocation; suites; cages; private cabinets; partial ca
 TZA-003,submarine_cable_access,Connected via metro fibre,no readable source describes the route to a landing station,2026-09-21
 TZA-003,carrier_neutrality,Limited carriers,no readable source says which carriers serve the facility,2026-09-21
 TZA-003,gps_coordinates,"-6.703944, 39.201724",PeeringDB's page gives no geocode,2026-09-21
-TZA-004,facility_name,Airtel Tanzania Data Centre (2Africa Marine Cable Centre),SDxCentral describes the Airtel 2Africa Marine Cable Centre; no readable source shows it is the Datacentermap-listed Airtel Tanzania Data Center on Bagamoyo Rd,2026-09-21
 TZA-004,carrier_neutrality,Single carrier / captive,"an operator's own landing and core site, so captive is plausible; no source states it",2026-09-21
 TZA-004,gps_coordinates,"-6.76, 39.21",approximated from the address; no source gives coordinates,2026-09-21
 TZA-005,control_mechanisms,"Vodacom Group Limited owns 75% of Vodacom Tanzania PLC [[Vodacom Fact Sheet](https://vodacom.com/pdf/about-us/fact-sheet/2025/vodacom-results-fact-sheet-2025.pdf)]; Vodafone Group Plc majority-owns Vodacom Group (65.1%), with 5 Vodafone nominees on its 12-member board; Vodafone shareholder rights as majority owner [[Vodacom Governance](https://www.vodacom.com/governance.php)]",Vodafone's five nominees on a 12-member Vodacom board: the governance page cited carries only the business principles,2026-09-21
@@ -744,8 +733,6 @@ TZA-005,services_offered,Cloud computing; data storage; disaster recovery; manag
 TZA-005,submarine_cable_access,Connected via metro fibre,no readable source describes the route to a landing station,2026-09-21
 TZA-005,carrier_neutrality,Limited carriers,no readable source says which carriers serve the facility,2026-09-21
 TZA-005,gps_coordinates,"-6.755, 39.268",no source gives coordinates,2026-09-21
-TZA-006,facility_name,Vodacom Mbezi Data Centre,"its Datacentermap page could not be read; Datacentermap's other Dar es Salaam listings name 'Vodacom Mbezi Data Center, Vodacom Road', but no readable source describes it",2026-09-21
-TZA-006,operational_status,Operational,no readable source describes the facility or its status,2026-09-21
 TZA-006,control_mechanisms,"Vodacom Group Limited owns and controls 75.00% of Vodacom Tanzania PLC [[Vodacom Tanzania AR 2025](https://vodacom.co.tz/assets/uploads/Vodacom_Tanzania_PLC_Annual_Integrated_Report_2025_f75bdd1d49.pdf)]; Vodafone Group Plc majority-owns Vodacom Group (65.1%), with 5 Vodafone nominees on its 12-member board; Vodafone shareholder rights as majority owner [[Vodacom Governance](https://www.vodacom.com/governance.php)]",Vodafone's five nominees on a 12-member Vodacom board: the governance page cited carries only the business principles,2026-09-21
 TZA-006,services_offered,Cloud computing; data storage; disaster recovery; managed hosting,no readable source lists the facility's services,2026-09-21
 TZA-006,submarine_cable_access,Connected via metro fibre,no readable source describes the route to a landing station,2026-09-21
@@ -1159,7 +1146,6 @@ NGA-019,it_capacity_mw,8,"21CTL gives Ikeja a redundant 8MW utility supply, whic
 NGA-019,security_certifications,ISO 27001; ISO 9001; ISO 20000; PCI-DSS,"the certifications are 21CTL's (The Guardian, cited on NGA-018), but no source on this row lists them",2026-09-21
 NGA-019,submarine_cable_access,Dark fibre connection to landing station,"plausible, but no source describes Ikeja's route to a landing station",2026-09-21
 NGA-019,carrier_neutrality,Fully carrier-neutral,"21CTL describes Apapa, Saka-Tinubu and Alanamu as multi-carrier but says nothing on Ikeja's carriers",2026-09-21
-NGA-020,facility_name,21st Century Technologies DC Lekki,"the company report names a 12MW Lekki site and 21CTL's own site lists a Saka-Tinubu (Victoria Island) data centre but no Lekki one; this row's address and coordinates are Saka-Tinubu, so T8 should decide whether these are one facility",2026-09-21
 NGA-020,year_operational,2010,no readable source gives the opening year,2026-09-21
 NGA-020,security_certifications,ISO 27001; ISO 9001; PCI-DSS,"the certifications are 21CTL's (The Guardian, cited on NGA-018), but no source on this row lists them",2026-09-21
 NGA-020,submarine_cable_access,Dark fibre connection to landing station,"plausible, but no source describes the route to a landing station",2026-09-21
@@ -1174,7 +1160,6 @@ NGA-023,year_operational,2015,no readable source gives the opening year,2026-09-
 NGA-023,cloud_platform,OpenStack,OpenStack is plausible for Layer3Cloud but no source names the platform; Layer3's partners include VMware,2026-09-21
 NGA-023,carrier_neutrality,Limited carriers,no source states how many carriers serve the facility,2026-09-21
 NGA-023,controlling_entities,"None (founder-led, self-owned)",founder-led is plausible but the register shows ten directors and no shareholdings,2026-09-21
-NGA-024,facility_name,ipNX Nigeria Data Centre Lagos,"ipNX's own data-centre page sells connectivity to data centres; only DataCenterMap's profile calls it a colocation provider, and its facility page is unreadable. T9 should confirm the facility exists",2026-09-21
 NGA-024,year_operational,2012,no readable source gives the opening year,2026-09-21
 NGA-024,carrier_neutrality,Fully carrier-neutral,"ipNX is itself a carrier, so neutrality is doubtful; no source states it",2026-09-21
 NGA-024,dfi_involvement,"USTDA (US agency) feasibility grant; no IFC, DFC, BII, AfDB involvement [USTDA](https://datastore.iatistandard.org/activity/US-GOV-12-1131PL20GH11207-134523)",the USTDA grant rests on an IATI page that is unreadable,2026-09-21
@@ -1191,7 +1176,6 @@ NGA-027,submarine_cable_access,Connected via metro fibre,metro fibre is plausibl
 NGA-027,gps_coordinates,"6.5568, 3.3868",no source gives coordinates for 18b Estaport Ave,2026-09-21
 NGA-028,major_shareholders,"Vremudia Oghene-Ruemu (co-founder), Andrew Agbo-Madaki (co-founder); percentages unknown","sources name the two as co-founders, not as shareholders with stakes",2026-09-21
 NGA-028,gps_coordinates,"6.4497, 3.3947",identical to NGA-026's; Fringe does not publish its address,2026-09-21
-NGA-029,operational_status,Under construction,sources show only the 2024 agreement and a six-month build target; nothing confirms construction began or finished,2026-09-21
 NGA-029,year_operational,2025,follows from the six-month target; no source states a year,2026-09-21
 NGA-029,major_shareholders,Benue State Government (100%),DCD calls BDIC state-run; no source gives the 100% figure,2026-09-21
 NGA-029,government_ownership_pct,100%,no source gives the 100% figure,2026-09-21
@@ -1574,7 +1558,6 @@ KEN-005,key_tenants,,TechTrends (June 2026) says the 53 MW facility became home 
 NGA-016,gpu_ai_capability,Unknown,a Gates Foundation AI Scaling Hub GPU cluster is to be hosted by Galaxy Backbone (August 2026 brief); facility not named,2026-09-21
 GHA-004,security_certifications,Unknown,"Data Landscapers (June 2026) calls it Ghana's only Uptime Tier IV-certified facility, as the comments say; the field is Unknown pending the Uptime register",2026-09-21
 SEN-004,security_certifications,ISO 27001,Data Landscapers (June 2026) calls Onix Dakar a Tier IV site; the row has only a Tier III design submission and a self-described Tier IV,2026-09-21
-NGA-031,operational_status,Unknown,'built with Huawei' suggests completion; not stated,2026-09-21
 NGA-031,operator_name,Tetracore,taken from the facility's name; the company's registration and owners are not in the record,2026-09-21
 NGA-031,city,Atakobo (Ogun State),record gives Ogun State only; Atakobo from the name,2026-09-21
 ZAF-051,ownership_type,Unknown,CHPC is state-funded research infrastructure under NICIS; the owning body is not stated in the record,2026-09-21
@@ -1591,7 +1574,6 @@ NGA-011,total_floor_space_sqm,350,"DCD (August 2025) gives LOS1 200 sqm, against
 NGA-012,total_floor_space_sqm,400,"DCD (August 2025) gives LOS2 680 sqm, against the row's 400",2026-09-21
 NGA-014,total_floor_space_sqm,2450,"DCD (August 2025) gives LKK2 about 1,205 sqm (13,000 sq ft) of data hall, against the row's 2,450",2026-09-21
 NGA-023,facility_name,Layer3 Data Centre Abuja,"Layer3's founder (Rest of World, February 2025) says it runs its cloud out of third-party data centres, two in Lagos and one in Abuja; the row may describe a tenancy, not a Layer3 facility",2026-09-21
-NGA-032,operational_status,Under construction,a deal-record note says PR1 opened December 2025 and TechCabal (February 2026) confirms it operational; neither text is in the packet,2026-09-21
 NGA-032,facility_type,,presumably an Equinix colocation site; no record says so,2026-09-21
 NGA-032,year_operational,,Q1 2026 readiness is in the deal-record note only,2026-09-21
 NGA-022,it_capacity_mw,100,100 MW is the campus design; the capacity commissioned in LOS1 is not stated (comments give a 5.5 MW first phase),2026-09-21
@@ -1700,7 +1682,6 @@ CMR-005,ownership_type,Unknown,CAMPOST is Cameroon's postal operator; its owners
 CMR-005,facility_type,,not stated,2026-09-21
 CMR-005,year_operational,,not stated,2026-09-21
 TZA-002,expansion_plans,Unknown,row said Under construction; the records describe Phase 2 as complete (March 2025) and name no later phase,2026-09-21
-TZA-017,facility_name,Tanzania National Data Centre Dodoma (planned),confirm this is a new build distinct from eGA's operating Government Data Centre in Dodoma (TZA-016),2026-09-21
 TZA-017,operator_name,Ministry of Communication and Information Technology (developer; operator not named),"the records name the ministry as funder; the operator (TTCL, as at NIDC, or eGA) is not stated",2026-09-21
 TZA-017,year_operational,,no target year given,2026-09-21
 TZA-017,investment_usd,,no per-facility figure; the committee's Sh100bn covers three projects,2026-09-21
@@ -1815,7 +1796,6 @@ LBR-004,operational_status,Planned,no construction reported; whether the July 20
 LBR-004,ownership_type,Unknown,who owns the facility before the 2029 handover to MoPT is not stated,2026-09-21
 LBR-005,city,Monrovia,the site is not stated; Monrovia is the dateline,2026-09-21
 LBR-006,city,Monrovia,the site is not stated; Monrovia assumed,2026-09-21
-LBR-006,operational_status,Planned,'developing' does not say whether construction has started,2026-09-21
 NAM-003,chinese_involvement,None identified,Huawei collaboration with MICT on an AI-ready national data centre praised by the President in July 2026; no contract or scope reported,2026-09-21
 NAM-003,dfi_involvement,None identified,AfDB Skills for Employability programme lists constructing a National Data Centre; whether it finances this facility is not stated,2026-09-21
 NAM-004,city,Windhoek,the site is not stated; NUST's main campus is in Windhoek,2026-09-21
@@ -1846,12 +1826,9 @@ UGA-017,year_operational,,no completion date published,2026-09-21
 UGA-017,rack_capacity,,scale of the data centre not stated; it may be a server room within the office block,2026-09-21
 GAB-001,security_certifications,ISO 27001; TIA-942; HDS,"the July 2026 sources say Tier III certified without naming Uptime or another body; ISO 27001, TIA-942 and HDS not in the records",2026-09-21
 GAB-001,gpu_ai_capability,Unknown,"a room 'for specific uses, particularly AI' is described; no GPU hardware named",2026-09-21
-GAB-001,facility_name,ST Digital Datacenter Gabon (Nkok SEZ),APDPVP (September 2026) says a mirror site is planned in Haut-Ogooue; not a row until it has a place and status,2026-09-21
 GAB-004,city,,the records do not give the site; ACE Gabon's landing station is the likely neighbour,2026-09-21
-GAB-004,facility_name,ACE Gabon Carrier Hotel (Gabon Datacenter),"check against GAB-002 (Cybastion/ANINF national DC): different owner, financing (local banks vs Citibank/EXIM) and size (160 racks vs 20 MW), but both are state data centres in Gabon",2026-09-21
 GAB-004,submarine_cable_access,,to be interconnected with Gabon's subsea cables; route not stated,2026-09-21
 GAB-004,security_certifications,,Tier III is the design target; no certification reported,2026-09-21
-GNQ-002,facility_name,CNIAPGE Government Data Centre,"site not stated; confirm it is separate from GITGE's Sipopo Datacenter (GNQ-001), whose row already cites two of these CNIAPGE sources",2026-09-21
 GNQ-002,city,Malabo,Malabo assumed from CNIAPGE and the Presidency it serves; no record gives the site,2026-09-21
 GNQ-002,year_operational,,in place by January 2019; opening year not stated,2026-09-21
 GNQ-002,security_certifications,,Tier III claimed by BTW Media; no Uptime award cited,2026-09-21
@@ -1887,14 +1864,11 @@ SLE-004,expansion_plans,,"MoCTI plans a redundancy site at State House (Septembe
 SSD-002,ownership_type,Private domestic,'proudly South Sudanese-owned' is the company's own claim; shareholders not disclosed,2026-09-21
 SSD-002,carrier_neutrality,,the site offers colocation but names no carriers other than its own ISP arm,2026-09-21
 BDI-003,city,Bujumbura,not stated; SETIC and PAFEN are based in Bujumbura,2026-09-21
-BDI-003,operational_status,Operational,inferred from a plan to modernise it; no source describes the centre in service,2026-09-21
-BDI-003,facility_name,SETIC Government Data Centre,"PAFEN also 'provides for' a national data centre (We Are Tech, March 2026); T8 to decide whether that is this centre's modernisation or a new facility",2026-09-21
 TGO-001,operator_name,Société d'Infrastructures Numériques (SIN),whether Africa Data Centres' management of the LDC has ended; the 2026 sources name only SIN,2026-09-21
 TGO-001,security_certifications,"Tier III certification (claimed by SIN, May 2026; certifying body not named)",Uptime Institute register not checked; the 2021 inauguration said certification was in progress,2026-09-21
 TGO-001,ixp_presence,IXP connected (not hosted),whether the Togo IXP (also a SIN asset) is hosted on-site,2026-09-21
 STP-001,city,São Tomé,"the aide-mémoire gives no address; São Tomé is assumed as the capital, and the site is only said to be at sea level",2026-09-21
 STP-001,operator_name,Government of São Tomé and Príncipe,"the agency that runs it (INIC, DITEI or another) is not stated",2026-09-21
-STP-001,facility_name,São Tomé and Príncipe Government Data Centre,"AFAP tendered servers for 'the data center' and digital-ID disaster recovery in May 2026; whether that is this centre, a new one or cloud is not stated",2026-09-21
 MLI-001,facility_name,Centre de Données National du Mali (CDN Mali),"ITU (2022) describes SMTD's existing data centre being upgraded to Tier III; confirm whether the 2026 National Data Centre is that facility, and that SMTD runs it",2026-09-21
 MLI-001,chinese_involvement,None identified,comments link the facility to Huawei/CITCC's Mali Numérique; launch reports do not mention Huawei and Africa24 says it was locally financed,2026-09-21
 MLI-002,city,Bamako,AGETIC is Bamako-based; the report does not give the site,2026-09-21
@@ -1913,9 +1887,7 @@ ERI-001,city,Asmara,location not stated; Asmara assumed from the service terms,2
 ERI-001,ownership_type,,owner of Eritel Telecom Corporation not in the records,2026-09-21
 CPV-001,dfi_involvement,"Yes - AfDB: €45.5M+ loan for TechPark CV data centers (hosts government DC redundancy); World Bank: Digital Cabo Verde Project for government cloud expansion [AfDB](https://www.datacenterdynamics.com/en/news/cape-verde-receives-15-million-loan-for-two-data-centers/), [caboverdeexpert](https://www.caboverdeexpert.com/cabo-verde-digital-data-centers/), [World Bank](https://www.caboverdeexpert.com/cabo-verde-digital-operational-nucleus-for-the-information-society-nosi/)","AfDB appraisal says DC1 was financed by Portugal and the AfDB financed DC2 and the DR site; the AfDB claim here is the park's, not this facility's",2026-09-21
 CPV-001,year_operational,2014,a 15 September 2015 dispatch calls the State Data Centre recently inaugurated; 2014 not confirmed,2026-09-21
-CPV-004,operational_status,Unknown,the park was inaugurated May 2025 with a 'fully equipped' data centre; whether DC2 is in service is not stated,2026-09-21
 CPV-004,operator_name,Not stated (PPP concession planned),PPP concessionaire not named,2026-09-21
-CPV-004,facility_name,"TechPark CV Data Center II (DC2, Praia Campus)",check CPV-001's TechPark facts are not DC2's; the dataset has treated the park's data centre as NOSi's,2026-09-21
 KEN-033,year_operational,,no source gives the opening year,2026-09-21
 KEN-033,operational_status,Operational,"NPS describes the data centre operating; Uptime shows a design certificate only, not a constructed-facility one",2026-09-21
 KEN-033,gps_coordinates,,site within Nairobi not published,2026-09-21
@@ -1997,3 +1969,77 @@ BWA-007,year_operational,,Hub page dated 2020; opening year not stated,2026-09-2
 BWA-007,security_certifications,,Uptime award type for GIDC 1 not readable,2026-09-21
 LSO-005,operational_status,Operational,the 2025 contract is for government data hosting at MOFDP; it does not name this building,2026-09-21
 LSO-005,year_operational,,not stated,2026-09-21
+AGO-013,rack_capacity,336,"336 is the 12x28 container design (Ecofin, Nov 2025); Angop reports 208 racks at the April 2026 inauguration",2026-09-21
+GAB-004,city,,GABIX lists a PoP at the 'site ACE (Ancienne RTG)' in Libreville; whether ACE Gabon's carrier hotel is being built there is not stated,2026-09-21
+TCD-001,total_floor_space_sqm,2000,"ADETIC (Feb 2026) says the building is 500 m2 over four levels; the row's 2,000 m2 may be the four levels together",2026-09-21
+TCD-003,operator_name,"Tigo Tchad (Millicom), at opening","Tigo Chad was sold after 2016 (reported to Maroc Telecom, now Moov Africa Tchad); confirm who runs the site now",2026-09-21
+TCD-003,ownership_type,Unknown,owner at opening was Millicom; current owner unconfirmed,2026-09-21
+AGO-017,ownership_type,Government / SOE,Sonangol's state ownership is not stated in these sources (Wikipedia and Sonangol filings on AGO-005 give it),2026-09-21
+AGO-017,gps_coordinates,,site within Luanda not stated,2026-09-21
+COD-006,chinese_involvement,Construction/Equipment,"the Primature cites a financing facility through cooperation with China; if a Chinese state lender financed it, the category is Investment",2026-09-21
+COD-006,server_vendors,Huawei,Huawei supplied the contract; the server brand is not stated,2026-09-21
+COD-007,gpu_ai_capability,Unknown,sources say the machine is suited to AI but name no GPUs,2026-09-21
+COD-007,ownership_type,Private domestic,Université Nouveaux Horizons is taken as a private university; not stated,2026-09-21
+GAB-005,operational_status,Operational,listings undated; confirm the site is running,2026-09-21
+GAB-005,parent_company,Airtel Africa plc,Airtel Africa's stake in Airtel Gabon not sourced here,2026-09-21
+GAB-005,services_offered,Colocation (cabinets and cages); Dedicated Internet Access; IP Transit; Ethernet Private Line; Wavelengths,Inflect's service list is a marketplace template,2026-09-21
+CMR-006,it_capacity_mw,1,Blue Sun DC's project list gives 500+500 kW; confirm whether the second 500 kW is built,2026-09-21
+CMR-006,parent_company,Orange S.A.,Orange's stake in Orange Cameroun not sourced here,2026-09-21
+CMR-007,operational_status,Operational,a contractor's reference list only; confirm the site was built and runs,2026-09-21
+CMR-007,year_operational,2023,the list's year may be the project year,2026-09-21
+CMR-008,security_certifications,Uptime Institute Tier III (design),MTN's Tier III design certificate does not name the site; Blue Sun's list ties a Tier III certification to Yaoundé,2026-09-21
+CMR-008,it_capacity_mw,0.42,420 kW (Blue Sun) against 320 kW certified (MTN),2026-09-21
+CMR-009,operational_status,Operational,MTN's product page is undated,2026-09-21
+CAF-002,operational_status,Unknown,destroyed by fire June 2021; whether rebuilt (Operational) or not (Decommissioned) is unreported,2026-09-21
+TZA-004,gps_coordinates,"-6.76, 39.21","-6.76, 39.21 is approximate; the landing station is at Mbezi Beach, further north on Bagamoyo Road",2026-09-21
+TZA-019,gps_coordinates,,no address published,2026-09-21
+TZA-019,year_operational,,no source dates it,2026-09-21
+TZA-019,ultimate_parent_company,Vodafone Group Plc,"chain taken from Vodacom's other Tanzanian rows, not stated in this row's source",2026-09-21
+TZA-020,gps_coordinates,,no address published,2026-09-21
+TZA-020,year_operational,,no source dates it,2026-09-21
+TZA-020,ultimate_parent_company,Vodafone Group Plc,"chain taken from Vodacom's other Tanzanian rows, not stated in this row's source",2026-09-21
+TZA-021,gps_coordinates,,no address published,2026-09-21
+TZA-021,year_operational,,no source dates it,2026-09-21
+TZA-021,ultimate_parent_company,Vodafone Group Plc,"chain taken from Vodacom's other Tanzanian rows, not stated in this row's source",2026-09-21
+TZA-022,facility_type,,not stated; the Kampala and Kigali rows call the second-wave sites edge,2026-09-21
+TZA-022,gps_coordinates,,no site named,2026-09-21
+TZA-022,ultimate_parent_company,Bharti Airtel Limited,chain taken from the other Nxtra rows; Nxtra Africa's own shareholding is not in these sources,2026-09-21
+TZA-023,gps_coordinates,,presumably at ZICTIA's Mazizini head office; no source places the hall,2026-09-21
+TZA-023,year_operational,,no source dates it,2026-09-21
+TZA-023,total_floor_space_sqm,,"the 200-rack, 2 MW Tier III figures in ZIBI may describe this site or a new one",2026-09-21
+BDI-004,facility_type,,not stated whether it is captive or sold as colocation,2026-09-21
+BDI-004,gps_coordinates,,no site named; head office is 51 Boulevard de l'Uprona,2026-09-21
+BDI-004,ownership_type,Unknown,Xe.Today calls Lumitel a joint venture; the Burundian partner and split are not disclosed,2026-09-21
+BDI-004,chinese_involvement,,not searched,2026-09-21
+GMB-001,facility_name,Gamtel Kairaba Exchange Data Centre,"the Huawei-built NBN national data centre (Tier 2, Gamtel-managed, China Eximbank) may be this site or a separate one; if separate it needs its own row",2026-09-21
+GMB-001,chinese_involvement,None identified,"if the NBN data centre is this facility, Huawei construction and a China Eximbank loan make this Investment",2026-09-21
+GNB-001,operator_name,Instituto de Tecnologias de Informação e Modernização Administrativa (ITMA),the project houses ITMA's new headquarters; no source says ITMA will run the data centre,2026-09-21
+GNB-001,year_operational,2026,July 2026 completion target; completion not yet reported,2026-09-21
+GNB-001,investment_usd,762000,"figure covers the whole project, including ITMA's headquarters",2026-09-21
+LBR-008,ultimate_parent_company,Orange SA,Orange SA's stake in Orange Côte d'Ivoire not sourced here,2026-09-21
+LBR-008,facility_type,,colocation or captive not stated,2026-09-21
+LBR-009,city,Monrovia,"an undated blog places CBL's data centre in Virginia, Montserrado; not confirmed",2026-09-21
+SLE-005,city,Freetown,Ministry of Finance is in Freetown; the data centre's site is not stated,2026-09-21
+GIN-003,operational_status,Planned,a consultant tender for fit-out; whether the shell exists or works have begun is not stated,2026-09-21
+GIN-004,operator_name,MTN Guinée,MTN's Guinea unit has since changed hands; current operator not sourced,2026-09-21
+GIN-004,operational_status,Unknown,only source is from 2013,2026-09-21
+NGA-020,year_operational,2010,"2010 is unsourced; 21CTL's timeline gives 2004 for its first Lekki data centre and a later, undated Tier IV completion",2026-09-21
+NGA-020,gps_coordinates,,Lekki Phase 1 site location to be found,2026-09-21
+NGA-020,chinese_involvement,None identified,"China Mobile International deploying a sovereign cloud platform at the Lekki site (Telecompaper, June 2026); the categories have no value for a Chinese cloud operating in a facility",2026-09-21
+NGA-036,gps_coordinates,"6.4350, 3.4300","approximate, from the address formerly on NGA-020",2026-09-21
+NGA-036,comments,"Listed on 21CTL's own site as its Saka-Tinubu data centre, Victoria Island: 'a large, multi-tenant facility with multiple carrier and utility feeds and strong electrical and mechanical redundancy' (September 2026). Address 1A Samuel Adedoyin Street, off Saka Tinubu, Victoria Island, and approximate coordinates were carried on the 21CTL Lekki row until T8. 21CTL's site also lists Ikoyi, Apapa, Ikeja and Alanamu data centres.",street address 1A Samuel Adedoyin Street not on the operator's page,2026-09-21
+NGA-036,year_operational,,no source gives the year,2026-09-21
+NGA-037,ownership_type,Unknown,shareholders of Cloud Exchange West Africa (ex-Dimension Data Nigeria) not found,2026-09-21
+NGA-037,ixp_presence,IXP hosted on-site,IXPN PoP stated by Lineserve; confirm on IXPN's locations page,2026-09-21
+NGA-038,facility_name,AWS Local Zone Lagos,host data centre not disclosed; identify the building,2026-09-21
+NGA-038,gps_coordinates,,unknown until the host facility is identified,2026-09-21
+NGA-039,operational_status,Operational,newest source is April 2022,2026-09-21
+NGA-039,parent_company,Airtel Africa plc,Airtel Networks Limited's immediate parent and the Airtel Africa stake not checked,2026-09-21
+NGA-039,gps_coordinates,,Lekki street address not published,2026-09-21
+NGA-040,ownership_type,Unknown,Guaranty Trust Holding Company's shareholder register decides domestic or foreign,2026-09-21
+NGA-040,operational_status,Operational,no recent source confirms it in service,2026-09-21
+NGA-040,year_operational,,no source gives the year,2026-09-21
+NGA-041,facility_name,LAGIS ABAT-3 Data Centre,Uptime lists a 'Lagos State Data Centre' (Tier III design documents); whether it is this facility or another is not established,2026-09-21
+NGA-041,gps_coordinates,,"Alausa, Ikeja; exact site not published",2026-09-21
+NGA-042,operational_status,Unknown,whether the data centre was completed and is in service,2026-09-21
+NGA-042,ownership_type,Unknown,"24 Data Networks Limited's owners, and any Duport Midstream stake",2026-09-21
