@@ -1,0 +1,486 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Data centres in Africa — Data Landscapers</title>
+<meta name="description" content="Data centres across Africa, operational, under construction or planned: who operates each one, who ultimately controls it, and which hyperscalers and Chinese firms are involved. Searchable and downloadable.">
+<link rel="canonical" href="https://corpus.data-landscapers.io/datasets/data-centres/">
+<meta name="dl-artefact" content="data-centres|2026-09-21|ab80f86f83c0">
+<link rel="stylesheet" href="../../assets/css/main.css?v=a004bc3c">
+<link rel="stylesheet" href="../../assets/css/corpus.css?v=42a1181a">
+<link rel="stylesheet" href="../../assets/css/country.css?v=73bc258a">
+<link rel="stylesheet" href="../../assets/css/datatable.css?v=59432600">
+<link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "@id": "https://corpus.data-landscapers.io/datasets/data-centres/#dataset",
+  "name": "Data Landscapers data centres — Africa",
+  "description": "Data centres in Africa: one record per facility, whether operational, under construction or planned. Each record gives the facility's location, status, type and capacity; its operator, ownership chain and ultimate parent; and who controls it (African, US, other foreign or joint), with a confidence rating. It also records relationships with hyperscalers (AWS, Microsoft, Google), Chinese involvement, DFI finance, connectivity (subsea cable, IXP, carrier neutrality) and certifications. Every record lists its sources. The table is maintained rather than rebuilt: corrections and additions are logged with their sources, and each published file is a dated edition that is never revised.",
+  "url": "https://corpus.data-landscapers.io/datasets/data-centres/",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "isAccessibleForFree": true,
+  "creator": {
+    "@type": "Organization",
+    "name": "Data Landscapers",
+    "url": "https://data-landscapers.io/",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://data-landscapers.io/assets/logo.png"
+    }
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Data Landscapers",
+    "url": "https://data-landscapers.io/",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://data-landscapers.io/assets/logo.png"
+    }
+  },
+  "includedInDataCatalog": {
+    "@type": "DataCatalog",
+    "name": "Data Landscapers Corpus",
+    "url": "https://corpus.data-landscapers.io/"
+  },
+  "inLanguage": "en",
+  "keywords": [
+    "Digital transformation",
+    "Digital public infrastructure",
+    "Data governance",
+    "Data centres",
+    "Digital infrastructure",
+    "Data sovereignty",
+    "Africa"
+  ],
+  "spatialCoverage": {
+    "@type": "Place",
+    "name": "Africa"
+  },
+  "variableMeasured": [
+    {
+      "@type": "PropertyValue",
+      "name": "facility_id",
+      "description": "Permanent identifier for the facility."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "facility_name",
+      "description": "The facility's name as its operator markets it."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "country",
+      "description": "The country where the facility is."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "country_name",
+      "description": "The country's name."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "city",
+      "description": "The city or town where the facility is."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "operational_status",
+      "description": "Whether the facility is running."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "year_operational",
+      "description": "The year the facility opened, or is due to open."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "facility_type",
+      "description": "The facility's main service model."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "services_offered",
+      "description": "The services the operator advertises at the facility."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "govt_data_hosted",
+      "description": "Whether the facility hosts government data or systems."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "operator_name",
+      "description": "The company or agency that runs the facility day to day."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "ownership_type",
+      "description": "Who owns the facility's equity."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "ownership_structure_type",
+      "description": "The legal form of the ultimate parent."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "parent_company",
+      "description": "The operator's immediate parent company, if it has one."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "parent_hq_country",
+      "description": "The country where the immediate parent is registered."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "ultimate_parent_company",
+      "description": "The top entity in the ownership chain."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "ultimate_parent_hq_country",
+      "description": "The country where the ultimate parent is registered."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "major_shareholders",
+      "description": "The ultimate parent's largest shareholders, with their stakes."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "government_ownership_pct",
+      "description": "The share of the ultimate parent held by governments, whether directly or through state funds, SOEs or state pension funds."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "foreign_ownership_pct",
+      "description": "The share of the owning entity held from outside the facility's country."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "controlling_entities",
+      "description": "The entities holding more than 25% of the equity, or effective control of the board or management."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "control_mechanisms",
+      "description": "How the controlling entities exercise control (equity, board seats, voting rights, management contract)."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "recent_investments",
+      "description": "Major investments since 2021, giving the investor, the year and the amount."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "dfi_involvement",
+      "description": "The development finance institutions financing the facility or its parent, and on what terms."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "investment_usd",
+      "description": "The total capital investment reported for the facility."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "expansion_plans",
+      "description": "Whether the facility is being expanded."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "key_tenants",
+      "description": "Anchor or notable tenants who are publicly confirmed."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "hyperscaler_relationships",
+      "description": "Confirmed relationships with AWS, Microsoft Azure or Google Cloud: tenancy, on-ramp, partnership or equity."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "hyperscaler_microsoft",
+      "description": "Whether Microsoft or Azure has a confirmed relationship with the facility."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "hyperscaler_aws",
+      "description": "Whether Amazon Web Services has a confirmed relationship with the facility."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "hyperscaler_google",
+      "description": "Whether Google has a confirmed relationship with the facility, including through a subsea cable partnership such as Equiano."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "hyperscaler_presence",
+      "description": "Whether any of the three hyperscalers has a relationship with the facility."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "cloud_act_exposure",
+      "description": "Whether the US CLOUD Act, or similar foreign law, can compel access to data held at the facility."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "chinese_involvement",
+      "description": "The strongest form of Chinese involvement in the facility."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "chinese_entities",
+      "description": "The Chinese companies involved."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "foreign_dependency_score",
+      "description": "A composite of how far the facility depends on foreign owners, technology and law."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "open_source_stack",
+      "description": "Whether the facility's software stack is mainly open source."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "data_residency_guarantee",
+      "description": "Whether the operator guarantees by contract that data stays in the country."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "local_dp_compliance",
+      "description": "Whether the operator claims compliance with the country's data protection law."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "total_floor_space_sqm",
+      "description": "The facility's floor space."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "rack_capacity",
+      "description": "How many racks the facility can hold."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "it_capacity_mw",
+      "description": "The power available to IT equipment, not counting cooling and other load."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "submarine_cable_access",
+      "description": "How the facility reaches a submarine cable landing station."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "ixp_presence",
+      "description": "Whether an internet exchange point is hosted at the facility or connected to it."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "carrier_neutrality",
+      "description": "Whether tenants can choose their carrier."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "gpu_ai_capability",
+      "description": "Whether the facility hosts GPU or other AI accelerator infrastructure."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "server_vendors",
+      "description": "The server vendors whose hardware is deployed at the facility."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "cloud_platform",
+      "description": "The platform the operator uses to deliver cloud services, or any hyperscaler on-ramp it hosts."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "security_certifications",
+      "description": "The current security and management certifications held by the facility or its operator."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "gps_coordinates",
+      "description": "The facility's location."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "control_category",
+      "description": "Who controls the facility, seen from a sovereignty angle."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "control_confidence",
+      "description": "How far the sources support control_category."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "control_rationale",
+      "description": "The reason for control_category, in one line."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "comments",
+      "description": "Context, caveats, conflicting sources and recent changes."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "source_urls",
+      "description": "The URLs of every source consulted for the row."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "raw_slugs",
+      "description": "The catalogue records that hold this row's sources."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "last_verified",
+      "description": "The date the row was last checked against its sources."
+    }
+  ],
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/csv",
+      "contentUrl": "https://corpus.data-landscapers.io/datasets/data-centres/data-centres-2026-09-21.csv",
+      "contentSize": "945 KB"
+    }
+  ],
+  "size": {
+    "@type": "QuantitativeValue",
+    "unitText": "records",
+    "value": 306
+  },
+  "dateModified": "2026-09-21",
+  "version": "2026-09-21",
+  "datePublished": "2026-09-21"
+}
+</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BF3X4N6YML"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-BF3X4N6YML');
+</script>
+</head>
+<body>
+<div class="site-wrap">
+
+  <header class="site-header">
+    <div class="site-header__inner">
+      <a href="https://data-landscapers.io/" class="site-logo">
+        <img src="../../assets/logo.png" alt="Data Landscapers" class="site-logo__img">
+        <span class="site-logo__text">Data Landscapers
+          <span class="site-logo__sub">Mapping Africa&rsquo;s data landscape</span>
+        </span>
+      </a>
+      <button class="nav-toggle" aria-label="Toggle navigation" onclick="this.classList.toggle('open'); document.getElementById('site-nav').classList.toggle('open')">
+        <span></span><span></span><span></span>
+      </button>
+      <nav class="site-nav" id="site-nav" aria-label="Main navigation">
+        <a href="https://corpus.data-landscapers.io/" class="active">Corpus</a>
+        <a href="https://data-landscapers.io/writing/">Work in progress</a>
+        <a href="https://data-landscapers.io/portfolio/">Portfolio</a>
+        <a href="https://data-landscapers.io/about/">About</a>
+      </nav>
+    </div>
+  </header>
+
+  <nav class="corpus-nav" aria-label="Corpus navigation">
+    <div class="corpus-nav__inner">
+      <a href="https://corpus.data-landscapers.io/progress/">Progress</a>
+      <a href="https://corpus.data-landscapers.io/bulletin/">Bulletin</a>
+      <a href="https://corpus.data-landscapers.io/countries/">Countries & Regions</a>
+      <a href="https://corpus.data-landscapers.io/topics/">Topics</a>
+      <a href="https://corpus.data-landscapers.io/finance/">Finance</a>
+      <a href="https://corpus.data-landscapers.io/datasets/" class="active">Datasets</a>
+      <a href="https://corpus.data-landscapers.io/catalogue/">Catalogue</a>
+      <a href="https://corpus.data-landscapers.io/methodology/">Methodology</a>
+    </div>
+  </nav>
+
+  <main id="main">
+  <div class="container container--wide">
+
+    <header class="article-header">
+      <a class="feedback-ask" href="mailto:info@data-landscapers.io?subject=Corpus%20feedback%20%E2%80%94%20Data%20centres&amp;body=Page%3A%20https%3A//corpus.data-landscapers.io/datasets/data-centres/%0A%0AWrong%2C%20missing%2C%20or%20useful%20%E2%80%94%20and%20if%20you%20used%20it%2C%20what%20for%3A%0A%0A">Useful? Wrong? Tell us</a>
+      <div class="article-header__crumb"><a href="https://corpus.data-landscapers.io/datasets/">Datasets</a></div>
+      <h1 class="article-header__title">Data centres</h1>
+    </header>
+
+    <div class="callout">
+    <p><strong>This dataset is still being finalised.</strong> Every source is being checked, new facilities are being added, and North Africa (Egypt, Morocco, Algeria, Tunisia and Libya) is not yet covered. Figures may change until this notice goes.</p>
+    </div>
+
+    <div class="byline">306 facilities &nbsp;·&nbsp; 46 countries &nbsp;·&nbsp; 257 operational, 45 under construction or planned</div>
+
+    <p>One row per facility, whether operational, under construction or planned. For each one the table records the operator, the ownership chain up to the ultimate parent, and who controls the facility: African, US, other foreign, or joint.</p>
+    <p><strong>Control is our reading of the ownership chain, not a legal finding.</strong> The confidence column says how well the sources support it.</p>
+    <p>The table is maintained, not rebuilt. When new evidence arrives, the affected rows are corrected or added, and each change is listed below with its sources.</p>
+
+    <p>Click a row to see the full record. Sort on any column, filter with the dropdowns, and search across every field, including fields the table does not show.</p>
+
+    <div class="dl-datatable"
+      data-src="data-centres-2026-09-21.csv"
+      data-cols="country, facility_name, city, operational_status, year_operational, facility_type, operator_name, ultimate_parent_company, control_category, it_capacity_mw, hyperscaler_presence, chinese_involvement"
+      data-filters="country, operational_status, facility_type, control_category, ownership_type, hyperscaler_presence, chinese_involvement, gpu_ai_capability"
+      data-numeric="year_operational, it_capacity_mw, rack_capacity, total_floor_space_sqm, investment_usd"
+      data-labels="{&quot;country&quot;: {&quot;AGO&quot;: &quot;Angola&quot;, &quot;BDI&quot;: &quot;Burundi&quot;, &quot;BEN&quot;: &quot;Benin&quot;, &quot;BFA&quot;: &quot;Burkina Faso&quot;, &quot;BWA&quot;: &quot;Botswana&quot;, &quot;CAF&quot;: &quot;Central African Republic&quot;, &quot;CIV&quot;: &quot;Cote d&#x27;Ivoire&quot;, &quot;CMR&quot;: &quot;Cameroon&quot;, &quot;COD&quot;: &quot;DR Congo&quot;, &quot;COG&quot;: &quot;Congo&quot;, &quot;COM&quot;: &quot;Comoros&quot;, &quot;CPV&quot;: &quot;Cape Verde&quot;, &quot;DJI&quot;: &quot;Djibouti&quot;, &quot;ETH&quot;: &quot;Ethiopia&quot;, &quot;GAB&quot;: &quot;Gabon&quot;, &quot;GHA&quot;: &quot;Ghana&quot;, &quot;GIN&quot;: &quot;Guinea&quot;, &quot;GMB&quot;: &quot;Gambia&quot;, &quot;GNQ&quot;: &quot;Equatorial Guinea&quot;, &quot;KEN&quot;: &quot;Kenya&quot;, &quot;LBR&quot;: &quot;Liberia&quot;, &quot;LSO&quot;: &quot;Lesotho&quot;, &quot;MDG&quot;: &quot;Madagascar&quot;, &quot;MLI&quot;: &quot;Mali&quot;, &quot;MOZ&quot;: &quot;Mozambique&quot;, &quot;MRT&quot;: &quot;Mauritania&quot;, &quot;MUS&quot;: &quot;Mauritius&quot;, &quot;MWI&quot;: &quot;Malawi&quot;, &quot;NAM&quot;: &quot;Namibia&quot;, &quot;NER&quot;: &quot;Niger&quot;, &quot;NGA&quot;: &quot;Nigeria&quot;, &quot;RWA&quot;: &quot;Rwanda&quot;, &quot;SDN&quot;: &quot;Sudan&quot;, &quot;SEN&quot;: &quot;Senegal&quot;, &quot;SLE&quot;: &quot;Sierra Leone&quot;, &quot;SOM&quot;: &quot;Somalia&quot;, &quot;SSD&quot;: &quot;South Sudan&quot;, &quot;SWZ&quot;: &quot;Eswatini&quot;, &quot;SYC&quot;: &quot;Seychelles&quot;, &quot;TCD&quot;: &quot;Chad&quot;, &quot;TGO&quot;: &quot;Togo&quot;, &quot;TZA&quot;: &quot;Tanzania&quot;, &quot;UGA&quot;: &quot;Uganda&quot;, &quot;ZAF&quot;: &quot;South Africa&quot;, &quot;ZMB&quot;: &quot;Zambia&quot;, &quot;ZWE&quot;: &quot;Zimbabwe&quot;}}"
+      data-badges="{&quot;control_category&quot;: {&quot;African control&quot;: &quot;green&quot;, &quot;Joint African/foreign control&quot;: &quot;blue&quot;, &quot;US control&quot;: &quot;amber&quot;, &quot;Other foreign control&quot;: &quot;amber&quot;}}"
+      data-detail="services_offered, govt_data_hosted, ownership_type, ownership_structure_type, major_shareholders, government_ownership_pct, controlling_entities, control_rationale, dfi_involvement, investment_usd, recent_investments, hyperscaler_relationships, cloud_act_exposure, chinese_entities, data_residency_guarantee, local_dp_compliance, submarine_cable_access, ixp_presence, carrier_neutrality, gpu_ai_capability, security_certifications, comments, source_urls"
+      data-sort="country:asc"
+      data-empty="No facility matches those filters.">
+      <div class="dt-controls">
+        <span class="dt-title">Africa &mdash; data centres</span>
+        <span class="dt-count">306 rows</span>
+        <a class="btn btn--sm" href="data-centres-2026-09-21.csv" download>&darr; CSV</a>
+        <a class="btn btn--sm" href="../../metadata/data-centres-metadata.csv" download>Metadata</a>
+      </div>
+      <noscript>
+        <p>The table is drawn in the browser from <a href="data-centres-2026-09-21.csv">data-centres-2026-09-21.csv</a>. With JavaScript off, download that file. It holds the same data, every row and every field.</p>
+      </noscript>
+    </div>
+
+    <div class="colophon">
+      <strong>About this table</strong>
+      <dl>
+        <dt>Built</dt><dd class="mono">2026-09-21</dd>
+        <dt>Edition</dt><dd class="mono">2026-09-21</dd>
+        <dt>This file</dt><dd><a href="data-centres-2026-09-21.csv">data-centres-2026-09-21.csv</a> &mdash; a dated edition, kept as published and never revised</dd>
+        <dt>Fields</dt><dd><a href="../../metadata/data-centres-metadata.csv">data-centres-metadata.csv</a> &mdash; what each column means, its allowed values, and how the derived columns are worked out</dd>
+        <dt>Changes</dt><dd>Every addition and correction is logged, with its sources. The latest are below</dd>
+        <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a></dd>
+      </dl>
+    </div>
+
+    <h2 class="section-heading" id="changes">Recent changes</h2>
+
+    <table class="data-table">
+      <thead><tr><th>Date</th><th>Record</th><th>Change</th><th>Details</th></tr></thead>
+      <tbody>
+        <tr><td class="mono">2026-09-21</td><td class="mono">All records</td><td>import</td><td>Imported 306 facilities from the v2 dataset (data-landscapers.io, 2026-06-10); 1316 distinct source URLs, citations in other cells now listed in source_urls too. Header migrated to metadata.csv; ownership chain and chinese_role dropped as copies of other columns. Values normalised in form only: chinese_involvement 136, dfi_involvement 24, expansion_plans 105, foreign_dependency_score 298, govt_data_hosted 12, hyperscaler_aws 165, hyperscaler_google 143, hyperscaler_microsoft 157, hyperscaler_presence 306, hyperscaler_relationships 21, mojibake 70, source_urls 305, ultimate_parent_hq_country 289.</td></tr>
+      </tbody>
+    </table>
+
+  </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="site-footer__inner">
+      <p class="site-footer__copy"><a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a> 2026 Data Landscapers Ltd &nbsp;·&nbsp; Registered in the UK · Co. No. 16040544</p>
+    </div>
+  </footer>
+
+</div>
+<script src="../../assets/js/datatable.js?v=20dcfdfd"></script>
+</body>
+</html>
