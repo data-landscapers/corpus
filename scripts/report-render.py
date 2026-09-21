@@ -1095,6 +1095,40 @@ def note_drop(dropped, unit):
     return f"{len(gone)} block(s) of prose dropped" if gone else "narrative carried across"
 
 
+# Set by `would_change()` to a dict: `write()` then records whether the render matches the stored
+# digest and returns without touching the file.
+_DRY = None
+
+
+def would_change(unit, fn, today):
+    """Would a render now change `fn`? Asked by check J before it fails a document.
+
+    `write()` leaves `compiled:` alone when a render reproduces the stored digest, and it is right
+    to: the date means *when this document last changed*. But a row can take a later `published`
+    without changing what a document prints — Liberia's Cybercrime Act row moved from its signing
+    to its first enforcement notice, and the monthly already carried it under the same subject —
+    so the date test alone failed a document no render could alter, and its stated repair
+    ("re-render") could never clear it (2026-09-21). Rendering dry settles it: if the output
+    matches the stored digest, the document already shows every row it can show."""
+    global _DRY
+    import contextlib
+    import io
+    _DRY = {}
+    try:
+        month = last_closed_month(today)
+        with contextlib.redirect_stdout(io.StringIO()):
+            if fn.endswith("-monthly.md"):
+                render_monthly(unit, today, month)
+            elif fn.endswith("-progress.md"):
+                render_progress(unit, today, month, 12)
+            else:
+                return True
+        path = os.path.normcase(os.path.abspath(os.path.join(load(unit)[0], fn)))
+        return not _DRY.get(path, False)
+    finally:
+        _DRY = None
+
+
 def write(path, out, unit, note, today=None, close=None):
     """Write the document — but **only stamp a new compiled date if the record changed**
     *(Bill, 2026-08-14)*.
@@ -1133,6 +1167,9 @@ def write(path, out, unit, note, today=None, close=None):
     new = "\n".join(out)
     fresh = digest(new)
     stamp = close
+    if _DRY is not None:  # check J asking whether a render would change this file; write nothing
+        _DRY[os.path.normcase(os.path.abspath(path))] = stored_digest(path) == fresh
+        return 0
     if today:
         held = stored_digest(path)
         if held == fresh:
@@ -1697,7 +1734,11 @@ def check_asof(unit):
         text = open(os.path.join(folder, fn), encoding="utf-8").read()
         m = re.search(r"^compiled:\s*(\d{4}-\d{2}-\d{2})", text, re.M)
         against = newest_monthly if fn.endswith("-monthly.md") else newest
-        if m and against and m.group(1) < against:
+        if m and against and m.group(1) < against and not would_change(
+                unit, fn, datetime.date.today().isoformat()):
+            print(f"      {fn}: compiled {m.group(1)}, before a source published {against} that "
+                  f"it already shows — a render changes nothing, so the date stands")
+        elif m and against and m.group(1) < against:
             bad.append(f"{fn}: compiled {m.group(1)}, but the ledger cites a source published "
                        f"{against} — the document does not yet show it, re-render")
         if fn.endswith("-progress.md"):
