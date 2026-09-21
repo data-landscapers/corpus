@@ -84,14 +84,12 @@ SWZ-002,facility_type,Enterprise,enterprise captive is plausible for an operator
 SWZ-002,services_offered,Enterprise captive; mobile network core; internal IT hosting,no source describes the services,2026-09-21
 SWZ-002,carrier_neutrality,Single carrier / captive,"an operator's own site, so captive is likely; no source states it",2026-09-21
 SWZ-002,key_tenants,MTN Eswatini internal,no source names a tenant; MTN Eswatini's own use is assumed,2026-09-21
-SWZ-002,ultimate_parent_company,Not identified (Swazi MTN Limited is a joint venture; MTN Group Limited holds 30%),MTN Group's accounts give its 30% of Swazi MTN; the holders of the other 70% need a register or filing,2026-09-21
 SWZ-003,operational_status,Operational,"Data Center Platform, the only source for the site, is behind a login",2026-09-21
 SWZ-003,city,Lobamba,no readable source places an MTN data centre here,2026-09-21
 SWZ-003,facility_type,Enterprise,enterprise captive is plausible for an operator site; no source states it,2026-09-21
 SWZ-003,services_offered,Enterprise captive; mobile network core,no source describes the services,2026-09-21
 SWZ-003,carrier_neutrality,Single carrier / captive,"an operator's own site, so captive is likely; no source states it",2026-09-21
 SWZ-003,key_tenants,MTN Eswatini internal,no source names a tenant; MTN Eswatini's own use is assumed,2026-09-21
-SWZ-003,ultimate_parent_company,Not identified (Swazi MTN Limited is a joint venture; MTN Group Limited holds 30%),MTN Group's accounts give its 30% of Swazi MTN; the holders of the other 70% need a register or filing,2026-09-21
 BFA-001,ultimate_parent_company,Founder/CEO Abdouramane (Abdou) Dia (Burkinabé),Abdouramane Dia as founder and owner rests on an unreadable LinkedIn profile; no register or filing is cited,2026-09-21
 BFA-001,controlling_entities,Founder/CEO Abdouramane (Abdou) Dia (Burkinabé),founder control is plausible for a 2016 start-up; no readable source names a shareholder,2026-09-21
 BFA-001,major_shareholders,Abdouramane Dia (CEO & Founder); other shareholders not publicly identified,no readable source names a shareholder,2026-09-21
@@ -284,7 +282,6 @@ RWA-003,year_operational,2014,"2014 is when AOS was established; no source dates
 RWA-003,carrier_neutrality,Limited carriers,limited carriers is plausible for a government facility; no source states it,2026-09-21
 RWA-003,gps_coordinates,"-1.9500,30.0588",no readable source gives coordinates,2026-09-21
 RWA-004,operational_status,Under construction,the newest readable source is the Nov 2022 announcement; nothing confirms construction started or has finished,2026-09-21
-RWA-004,ultimate_parent_company,None (standalone private; controlled by Econet Group / Strive Masiyiwa),no source states Econet Group's stake in Cassava or that it controls it,2026-09-21
 RWA-004,services_offered,Colocation; carrier-neutral interconnection; cross-connects; cloud on-ramp,cloud on-ramp and cross-connects are not advertised for Kigali in any readable source,2026-09-21
 RWA-005,year_operational,2012,2012 is an estimate; no source dates the facility,2026-09-21
 RWA-005,gps_coordinates,"-1.940686,30.10344","said to come from PeeringDB, whose geocode field is empty",2026-09-21
@@ -293,8 +290,6 @@ RWA-005,facility_type,Colocation/carrier-neutral,comments call it a hybrid telco
 RWA-006,year_operational,2014,2014 is not dated by any readable source; Devex confirms only that Liquid runs a Kigali data centre,2026-09-21
 RWA-006,carrier_neutrality,Fully carrier-neutral,Liquid is itself a carrier; no source says its Kigali site is open to other carriers,2026-09-21
 RWA-006,gps_coordinates,"-1.9467,30.0542",no readable source gives coordinates,2026-09-21
-RWA-006,parent_company,Cassava Technologies,Liquid Intelligent Technologies sits between the Rwandan company and Cassava; no source gives its registration,2026-09-21
-RWA-006,ultimate_parent_company,None (standalone private; controlled by Econet Group / Strive Masiyiwa),no source states Econet Group's stake in Cassava or that it controls it,2026-09-21
 LBY-001,operational_status,Operational,Data Center Map lists the facility but gives no date; no dated source confirms it is running,2026-09-21
 LBY-001,submarine_cable_access,Connected via metro fibre,"plausible for a Tripoli facility, but no source describes its route to a landing station",2026-09-21
 LBY-002,ownership_type,Private domestic,privately held per LinkedIn; the owners and their nationality are not disclosed,2026-09-21
@@ -358,13 +353,11 @@ ZMB-005,facility_name,Liquid Intelligent Technologies Zambia Data Centre,"the 20
 ZMB-005,year_operational,2012,Liquid opened in Zambia in 2011; no source dates this data centre,2026-09-21
 ZMB-005,facility_type,Colocation/carrier-neutral,DCD says the facility's details are unavailable; colocation is plausible but unsourced,2026-09-21
 ZMB-005,services_offered,Colocation; Cloud; IP transit; Managed services; Wholesale connectivity,no source lists the services at this facility,2026-09-21
-ZMB-005,ultimate_parent_company,None (standalone private; controlled by Econet Group / Strive Masiyiwa),no source gives Econet's or Masiyiwa's stake in Cassava,2026-09-21
 ZMB-005,gps_coordinates,"-15.4144, 28.3228",no source gives coordinates for the facility,2026-09-21
 ZWE-001,year_operational,2015,no readable source dates the facility,2026-09-21
 ZWE-001,services_offered,Colocation; Cloud; Managed services; Cross-connects; IP transit; Carrier services,"cloud, managed services, cross-connects, IP transit and carrier services are not in any readable source for this facility",2026-09-21
 ZWE-001,cloud_platform,VMware Cloud Foundation,no readable source names VMware Cloud Foundation,2026-09-21
 ZWE-001,security_certifications,ISO 27001; ISO 14001; ISO 45001,Africa Data Centres claims ISO 27001 and PCI DSS group-wide; ISO 14001 and ISO 45001 are not in any readable source,2026-09-21
-ZWE-001,ultimate_parent_company,None (standalone private; controlled by Econet Group / Strive Masiyiwa),no source gives Econet's or Masiyiwa's stake in Cassava,2026-09-21
 ZWE-001,gps_coordinates,"-17.8252, 31.0335",no source gives coordinates for the facility,2026-09-21
 ZWE-002,facility_name,TelOne Harare Data Centre,"the sources also describe TelOne's Mazowe data centre (expanded 2022) and Bulawayo data centre, and DCD the government's National Data Centre in Harare built with Chinese help; T8 to decide whether they need rows",2026-09-21
 ZWE-002,ixp_presence,IXP hosted on-site,ITU places the Harare Internet Exchange on the second floor of the TelOne Exchange; no source says that is this data centre at 107 Union Ave,2026-09-21
@@ -718,7 +711,6 @@ GHA-009,major_shareholders,"Richard Hlomador (Ghanaian, founder/CEO); other shar
 GHA-009,carrier_neutrality,Limited carriers,PeeringDB shows a single network at the facility; no source states the carrier policy,2026-09-21
 GHA-009,submarine_cable_access,Connected via metro fibre,no source describes the facility's route to a landing station,2026-09-21
 GHA-010,submarine_cable_access,Dark fibre connection to landing station,no source describes a dark-fibre route to a landing station,2026-09-21
-GHA-010,ultimate_parent_company,None (standalone private; controlled by Econet Group / Strive Masiyiwa),"Econet Group is a named shareholder and Masiyiwa the founder-chairman, but no source says they control Cassava",2026-09-21
 GHA-010,operational_status,Planned,the comments cite a December 2024 Facebook post expecting construction in early 2025; no readable source shows work started,2026-09-21
 GHA-011,services_offered,Hyperscale data centre campus; Build-to-suit; Long lease; Power infrastructure; Renewable energy,"ALP offers land, power and permits; build-to-suit and long lease have no source",2026-09-21
 GHA-011,submarine_cable_access,Connected via metro fibre,ALP says only that the park has fibre connectivity,2026-09-21
@@ -1008,8 +1000,6 @@ MAR-024,operator_name,Agence de Developpement du Digital (ADD),no source names t
 MAR-024,submarine_cable_access,At or adjacent to cable landing station,the minister says cables run along the coast; no source puts a landing station at the site,2026-09-21
 MAR-025,facility_name,Morocco Government Rabat Technopolis Data Center,"the 3MDC chain and the MCINET and Uptime pages describe Maroc Datacenter (Temara, now part of 3MDC), not this site; for T8 to check it has its own row",2026-09-21
 MAR-025,operator_name,Agence de Developpement du Digital (ADD),no source names the Agence de Développement du Digital as operator,2026-09-21
-KEN-001,ultimate_parent_company,None (standalone private; controlled by Econet Group / Strive Masiyiwa),"Econet / Masiyiwa control of Cassava is plausible and asserted by Cassava's framing, but no source gives Econet's stake",2026-09-21
-KEN-001,controlling_entities,"Strive Masiyiwa (Founder/Exec Chairman, Zimbabwean); Econet Group [Leadership](https://www.cassavatechnologies.com/executive-leadership/)",Masiyiwa is Founder and Executive Chairman; no source states Econet's or his shareholding,2026-09-21
 KEN-001,key_tenants,AWS; Microsoft Azure; Equity Bank; Standard Chartered; Safaricom,"Equity Bank, Standard Chartered and Safaricom are named but no source confirms them as tenants; AWS and Microsoft rest on PeeringDB network presence only",2026-09-21
 KEN-001,ixp_presence,Unknown,comments claimed KIXP on-site; PeeringDB's exchange list is not readable in the cache,2026-09-21
 KEN-001,investment_usd,200000000,$200M for NBO1 is unsourced; no source gives the facility's cost,2026-09-21
@@ -1017,8 +1007,6 @@ KEN-001,rack_capacity,450,450 is unsourced; DCD gives room for 160 racks per flo
 KEN-001,services_offered,Colocation; Cloud hosting; Cross-connects; Remote hands; Managed services,"cloud hosting, remote hands and managed services are not in ADC's Nairobi page, which advertises colocation, cages, racks, cross connects and power metering",2026-09-21
 KEN-001,security_certifications,ISO 27001; PCI-DSS; ISO 14001; ISO 45001; Uptime Tier III,"ADC's page confirms Uptime Tier III and PCI DSS; ISO 27001, 14001 and 45001 are unsourced",2026-09-21
 KEN-001,gps_coordinates,"-1.34014, 36.89653","PeeringDB gives Sameer Business Park, Mombasa Road, without a geocode",2026-09-21
-KEN-002,ultimate_parent_company,None (standalone private; controlled by Econet Group / Strive Masiyiwa),"Econet / Masiyiwa control of Cassava is plausible and asserted by Cassava's framing, but no source gives Econet's stake",2026-09-21
-KEN-002,controlling_entities,"Strive Masiyiwa (Founder/Exec Chairman, Zimbabwean); Econet Group [Leadership](https://www.cassavatechnologies.com/executive-leadership/)",Masiyiwa is Founder and Executive Chairman; no source states Econet's or his shareholding,2026-09-21
 KEN-002,operational_status,Under construction,"the newest source is DCD's 2023 groundbreaking, with phase 1 due in H1 2024; a 2025-26 source is needed for current status",2026-09-21
 KEN-002,investment_usd,200000000,"$200M is unsourced and, per comments, shared with NBO1",2026-09-21
 KEN-002,carrier_neutrality,Fully carrier-neutral,operator's other facility is carrier-neutral; nothing states it for the new building,2026-09-21
@@ -1092,11 +1080,9 @@ KEN-019,govt_data_hosted,Unknown,the Treasury calls the government a key consume
 KEN-019,year_operational,2010,no readable source gives the opening year,2026-09-21
 KEN-019,services_offered,Colocation; Managed hosting; Connectivity; Carrier services,"the profile lists cages, cabinets, remote hands, peering and cross-connects; managed hosting is not listed",2026-09-21
 KEN-019,submarine_cable_access,Connected via metro fibre,the profile offers cross-connects to all Mombasa submarine systems but does not say whether over metro fibre or at a landing station,2026-09-21
-KEN-020,dfi_involvement,None identified,"the old value cited an IFC $100M facility for MTN Nigeria (2003), group-level and unsourced",2026-09-21
 KEN-020,year_operational,2012,no readable source gives the opening year,2026-09-21
 KEN-020,submarine_cable_access,Connected via metro fibre,no source describes the site's connectivity,2026-09-21
 KEN-021,facility_name,Liquid Intelligent Technologies Kenya (Sameer),"Liquid's Kenya office is at Sameer Business Park, Mombasa Road, where Africa Data Centres' NBO1 also sits; T8 to check whether this row is ADC NBO1 or a separate Liquid colocation site",2026-09-21
-KEN-021,ultimate_parent_company,None (standalone private; controlled by Econet Group / Strive Masiyiwa),Econet/Masiyiwa control is plausible; no source gives the stakes,2026-09-21
 KEN-021,year_operational,2015,no readable source gives the opening year,2026-09-21
 KEN-021,services_offered,Colocation; Connectivity; Managed services; Cloud; MPLS; SD-WAN,"Liquid's Kenya page lists IP, transport, infrastructure and co-location; cloud, MPLS and SD-WAN are not listed",2026-09-21
 KEN-021,carrier_neutrality,Fully carrier-neutral,Cassava calls its data centres carrier-neutral; nothing states it for a Liquid site,2026-09-21
@@ -1164,7 +1150,6 @@ NGA-005,security_certifications,ISO 27001; ISO 9001; ISO 22301; ISO 45001; IFC E
 NGA-006,key_tenants,MTN; ipNX; Unitellas,"MTN, ipNX and Unitellas are plausible tenants; no readable source names them",2026-09-21
 NGA-006,security_certifications,ISO 27001; ISO 9001; PCI DSS,ISO 9001 is not in any readable source,2026-09-21
 NGA-006,submarine_cable_access,Connected via metro fibre,the data sheet gives dark fibre to major hubs but not the route to a landing station,2026-09-21
-NGA-006,controlling_entities,"Strive Masiyiwa (Founder/Exec Chairman, Zimbabwean); Econet Group [Leadership](https://www.cassavatechnologies.com/executive-leadership/)",Econet Group's control of Cassava is plausible; no source states its stake,2026-09-21
 NGA-007,total_floor_space_sqm,9563,"9,563 sqm total is plausible; Submarine Networks gives 7,200 sqm, which the comments call white space",2026-09-21
 NGA-007,rack_capacity,3275,"3,275 racks is plausible; Submarine Networks gives 3,200",2026-09-21
 NGA-007,investment_usd,150000000,$150M is plausible for the first build; no readable source gives it,2026-09-21
@@ -1174,19 +1159,15 @@ NGA-008,cloud_platform,OpenStack,OpenStack is plausible; sources name only Dell 
 NGA-008,security_certifications,ISO 27001,ISO 27001 is not in any readable source,2026-09-21
 NGA-008,submarine_cable_access,Connected via metro fibre,metro-fibre access from Ikeja is plausible; no readable source states it,2026-09-21
 NGA-008,services_offered,Colocation; Cloud services; IaaS; Managed services,managed services are not advertised in any readable source,2026-09-21
-NGA-008,dfi_involvement,"None identified for the facility. Historical, group level: IFC $100M to MTN Nigeria (2003)","IFC's 2003 loan to MTN Nigeria is plausible, but the cited World Bank document concerns MTN Networks, Sri Lanka",2026-09-21
-NGA-008,parent_company,MTN Group,MTN Group holds MTN Nigeria partly through subsidiaries; the immediate parent is not named in the packet,2026-09-21
 NGA-009,operational_status,Operational,no readable source for this facility gives its current status,2026-09-21
 NGA-009,submarine_cable_access,Connected via metro fibre,"plausible for a Lagos operator site, but no source describes its route to the landings",2026-09-21
 NGA-009,carrier_neutrality,Single carrier / captive,"an operator's own facility, so captive is likely; no source states it",2026-09-21
-NGA-009,dfi_involvement,Historical: IFC $100M (2003 Nigeria); AfDB $500k grant fintech study; no major recent equity/debt for Group,IFC's 2003 MTN Nigeria loan and the AfDB grant are plausible but no readable source gives them,2026-09-21
 NGA-009,year_operational,2001,2001 is MTN Nigeria's launch year; no source dates this facility,2026-09-21
 NGA-009,total_floor_space_sqm,465,"465 m² (5,000 ft²) white space rests on the DataCenterMap specs page, which could not be read",2026-09-21
 NGA-009,security_certifications,ISO 27001,ISO 27001 is plausible but no readable source states it for this facility,2026-09-21
 NGA-010,operational_status,Operational,no readable source for this facility gives its current status,2026-09-21
 NGA-010,submarine_cable_access,Connected via metro fibre,"plausible for a Lagos operator site, but no source describes its route to the landings",2026-09-21
 NGA-010,carrier_neutrality,Single carrier / captive,"an operator's own facility, so captive is likely; no source states it",2026-09-21
-NGA-010,dfi_involvement,Historical: IFC $100M (2003 Nigeria); AfDB $500k grant fintech study; no major recent equity/debt for Group,IFC's 2003 MTN Nigeria loan and the AfDB grant are plausible but no readable source gives them,2026-09-21
 NGA-011,foreign_ownership_pct,"100% est. (the Nigerian owner is held by Digital Realty, US, and its 2021 co-investor Pembani Remgro Infrastructure Fund; no Nigerian shareholder disclosed)",no source gives the register of Digital Realty's Nigerian company,2026-09-21
 NGA-011,carrier_neutrality,Fully carrier-neutral,carrier-neutral is plausible for a Medallion/Digital Realty site; no readable source states it for this facility,2026-09-21
 NGA-011,year_operational,2010,2010 is plausible for Medallion's first Lagos site; no readable source dates it,2026-09-21
@@ -1263,7 +1244,6 @@ NGA-029,operational_status,Under construction,sources show only the 2024 agreeme
 NGA-029,year_operational,2025,follows from the six-month target; no source states a year,2026-09-21
 NGA-029,major_shareholders,Benue State Government (100%),DCD calls BDIC state-run; no source gives the 100% figure,2026-09-21
 NGA-029,government_ownership_pct,100%,no source gives the 100% figure,2026-09-21
-NGA-030,parent_company,Cassava Technologies,"a LinkedIn post cited by NGA-028 reports Stanlib acquiring Africa Data Centres, pending Tribunal approval; confirm the current owner",2026-09-21
 NGA-030,carrier_neutrality,Fully carrier-neutral,Cassava calls its data centres carrier-neutral; nothing specific to this planned site,2026-09-21
 NGA-030,services_offered,Disaster recovery; Colocation,disaster recovery is sourced; colocation is not,2026-09-21
 NGA-030,gps_coordinates,"9.0579, 7.4951",the Abuja location is not disclosed; the coordinates are a city placeholder,2026-09-21
@@ -1307,7 +1287,6 @@ ZAF-009,submarine_cable_access,Connected via metro fibre,"Teraco says DB1 has di
 ZAF-010,year_operational,,the facility ran under Neotel before Liquid bought it in February 2017; its opening year is not sourced,2026-09-21
 ZAF-010,rack_capacity,1800,"1,800 racks is plausible but no readable source gives it",2026-09-21
 ZAF-010,submarine_cable_access,Connected via metro fibre,"metro fibre to the landing stations is plausible for Midrand, but no source describes the route",2026-09-21
-ZAF-010,controlling_entities,"Strive Masiyiwa (Founder/Exec Chairman, Zimbabwean); Econet Group [Leadership](https://www.cassavatechnologies.com/executive-leadership/)","no source states Masiyiwa's or Econet's stake in Cassava; control is the founder's role, not a disclosed shareholding",2026-09-21
 ZAF-010,gpu_ai_capability,Planned,"which South African ADC facility hosts Cassava's NVIDIA deployment, and whether it is live",2026-09-21
 ZAF-010,govt_data_hosted,Unknown,old value said government data is hosted; no ministry or agency was named,2026-09-21
 ZAF-010,expansion_plans,Under construction,Channelwise says Midrand and Samrand are expanding toward 100MW combined; whether Midrand works are under way is not stated,2026-09-21
@@ -1315,7 +1294,6 @@ ZAF-011,it_capacity_mw,10,10MW is Channelwise's figure (cited on ZAF-010); this 
 ZAF-011,rack_capacity,1200,"1,200 racks is plausible but no readable source gives it",2026-09-21
 ZAF-011,submarine_cable_access,Connected via metro fibre,"the Samrand page mentions dark fibre to major hubs, not the route to a landing station",2026-09-21
 ZAF-011,ixp_presence,Unknown,the old value and comments put JINX on-site at Samrand,2026-09-21
-ZAF-011,controlling_entities,"Strive Masiyiwa (Founder/Exec Chairman, Zimbabwean); Econet Group [Leadership](https://www.cassavatechnologies.com/executive-leadership/)","no source states Masiyiwa's or Econet's stake in Cassava; control is the founder's role, not a disclosed shareholding",2026-09-21
 ZAF-011,gpu_ai_capability,Planned,"which South African ADC facility hosts Cassava's NVIDIA deployment, and whether it is live",2026-09-21
 ZAF-011,govt_data_hosted,Unknown,old value said government data is hosted; no ministry or agency was named,2026-09-21
 ZAF-011,key_tenants,,"the old value named 'two major South African banks'; Standard Bank, the seller, may remain a tenant",2026-09-21
@@ -1327,7 +1305,6 @@ ZAF-012,security_certifications,ISO 27001; PCI-DSS,ADC's 2017 release (cited on 
 ZAF-012,govt_data_hosted,Hosts government data alongside commercial,ADC's CPT2 groundbreaking release (cited on ZAF-013) says its first Cape Town facility houses government alongside enterprises,2026-09-21
 ZAF-012,hyperscaler_relationships,Google: equity in parent Cassava Technologies ($90M round with DFC and Finnfund) [DFC](https://www.dfc.gov/media/press-releases/cassava-technologies-receives-90-million-equity-investment-expanding-digital). No AWS or Microsoft relationship identified at this facility.,"ADC's 2017 release (cited on ZAF-010) offered Azure ExpressRoute through Liquid's CloudConnect at SADC Cape Town, which this row appears to be",2026-09-21
 ZAF-012,services_offered,Colocation; carrier-neutral; IXP access; cloud on-ramps,cloud on-ramps are not advertised in this row's sources,2026-09-21
-ZAF-012,controlling_entities,"Strive Masiyiwa (Founder/Exec Chairman, Zimbabwean); Econet Group [Leadership](https://www.cassavatechnologies.com/executive-leadership/)","no source states Masiyiwa's or Econet's stake in Cassava; control is the founder's role, not a disclosed shareholding",2026-09-21
 ZAF-012,gpu_ai_capability,Planned,"which South African ADC facility hosts Cassava's NVIDIA deployment, and whether it is live",2026-09-21
 ZAF-013,year_operational,2026,ADC's groundbreaking release targeted mid-2024; Outsource Accelerator (late 2024) still has it under construction; 2026 is unsourced,2026-09-21
 ZAF-013,city,Cape Town (Brackenfell/North),sources place CPT2 in the north of Cape Town; Brackenfell is not named,2026-09-21
@@ -1335,7 +1312,6 @@ ZAF-013,rack_capacity,2500,"2,500 racks is not in any source",2026-09-21
 ZAF-013,submarine_cable_access,Dark fibre connection to landing station,"ADC says the site is within easy reach of the landing stations, not that it has dark fibre to one",2026-09-21
 ZAF-013,carrier_neutrality,Fully carrier-neutral,ADC's network is carrier-neutral by its own account; nothing yet describes CPT2's carriers,2026-09-21
 ZAF-013,services_offered,Colocation; hyperscale; carrier-neutral; cloud on-ramps,a facility under construction advertises no services yet; the list is ADC's standard offer,2026-09-21
-ZAF-013,controlling_entities,"Strive Masiyiwa (Founder/Exec Chairman, Zimbabwean); Econet Group [Leadership](https://www.cassavatechnologies.com/executive-leadership/)","no source states Masiyiwa's or Econet's stake in Cassava; control is the founder's role, not a disclosed shareholding",2026-09-21
 ZAF-013,comments,"CPT2 under construction in Cape Town north. 20MW IT load; 12,000 sqm white space (ADC groundbreaking release). Modular design. Part of $300M DFC loan. Completion expected 2026.. [Cassava Official](https://www.cassavatechnologies.com/), [DFC Press](https://www.dfc.gov/media/press-releases/cassava-technologies-receives-90-million-equity-investment-expanding-digital), [Investor News](https://www.cassavatechnologies.com/cassava-technologies-secures-investment-to-accelerate-growth/)","the DFC $300M loan is sourced to CPT1's expansion (ZAF-012), not to CPT2",2026-09-21
 ZAF-014,rack_capacity,1200,"1,200 racks is plausible but no readable source gives it",2026-09-21
 ZAF-014,submarine_cable_access,Connected via metro fibre,"metro fibre is plausible for Samrand, but no source describes the route",2026-09-21
@@ -1482,7 +1458,6 @@ ZAF-038,city,Cape Town (Foreshore),Baxtel places a Vodacom Cape Town facility 3.
 ZAF-038,total_floor_space_sqm,1500,"1,500 m2 (expandable to 3,000 m2) and the seven-storey building are plausible, but no readable source states them",2026-09-21
 ZAF-038,facility_name,Vodacom Cape Town Data Centre,"Baxtel lists a 'Vodacom Cape Town' facility, which shows the site exists; its Data Center Map page gave no text",2026-09-21
 ZAF-039,facility_name,Liquid Intelligent Technologies DC (Midrand),"no readable source shows a Liquid/Neotel facility at 44 Old Pretoria Road; Data Center Map lists ADC's JHB1 Midrand at 401 Old Pretoria Main Road, possibly the same site; T8 to check against an ADC JHB1 row or retire",2026-09-21
-ZAF-039,controlling_entities,"Strive Masiyiwa (Founder/Exec Chairman, Zimbabwean); Econet Group [Leadership](https://www.cassavatechnologies.com/executive-leadership/)",Econet Group and Masiyiwa are named as shareholder and chairman; no source gives their stake or states control,2026-09-21
 ZAF-039,gpu_ai_capability,Unknown,Cassava planned NVIDIA AI factory capacity at its South African data centres by June 2025; no source names this site,2026-09-21
 ZAF-039,recent_investments,"Group level: $90M equity round in Cassava Technologies from DFC, Finnfund and Google LLC; Liquid's South African rand term loan refinanced with facilities equivalent to $220M from Standard Bank, Rand Merchant Bank, Nedbank and IFC [DFC](https://www.dfc.gov/media/press-releases/cassava-technologies-receives-90-million-equity-investment-expanding-digital) [Cassava](https://www.cassavatechnologies.com/secures-usd-310-million-in-funding-and-completes-business-reorganisation/)","STANLIB (2025), a ZAR 2bn 20MW South African data centre (2024) and $720M AI factories were claimed; none is in the packet",2026-09-21
 ZAF-039,year_operational,2007,2007 plausible for the former Neotel site; no readable source,2026-09-21
@@ -1613,3 +1588,30 @@ MAR-004,hyperscaler_aws,No,"the Casablanca Wavelength Zone sits in an Orange Mar
 MAR-005,hyperscaler_aws,No,"the Casablanca Wavelength Zone sits in an Orange Maroc Tier III Design and Facilities data centre; DC1 is the Uptime-certified Casablanca site, but no source names the host",2026-09-21
 TUN-004,ultimate_parent_company,Investec (Mabrouk group),Investec's own owner is contested between Marouane Mabrouk and the Tunisian State (Al Karama Holding); no 2024+ source settles it,2026-09-21
 TUN-004,control_mechanisms,"Equity majority and board chair (Investec); Orange holds a 2009 option to buy 1% plus one share and take control, not exercised ([Middle East Eye](https://www.middleeasteye.net/fr/reportages/orange-tunisie-la-main-de-la-france-lombre-des-ben-ali-et-le-coup-de-pouce-de-tunis); [Wikipedia](https://fr.wikipedia.org/wiki/Orange_Tunisie))",Middle East Eye (2019) gives the 2009 call option; no 2024+ source says whether it lapsed,2026-09-21
+NGA-009,dfi_involvement,"Historical, MTN Nigeria level: IFC $100M (approved as a $75M loan and $25M equity/quasi-equity) within a $395M syndicated financing in 2003, with parallel DEG and FMO loans [IFC](https://disclosures.ifc.org/project-detail/SPI/11206/mtn-nigeria), [World Bank](https://documents1.worldbank.org/curated/en/099223504202638501/pdf/IDU-bbddf8f1-0dc1-492a-9385-334f60ee8879.pdf); MIGA $50M guarantee (2002) on MTN International's loan to MTN Nigeria [MIGA](https://www.miga.org/project/mtn-nigeria-communications-limited-mtnn). None identified for the facility","the old value also claimed an AfDB $500k grant for a fintech study, with no source; dropped until T9 finds one",2026-09-21
+NGA-010,dfi_involvement,"Historical, MTN Nigeria level: IFC $100M (approved as a $75M loan and $25M equity/quasi-equity) within a $395M syndicated financing in 2003, with parallel DEG and FMO loans [IFC](https://disclosures.ifc.org/project-detail/SPI/11206/mtn-nigeria), [World Bank](https://documents1.worldbank.org/curated/en/099223504202638501/pdf/IDU-bbddf8f1-0dc1-492a-9385-334f60ee8879.pdf); MIGA $50M guarantee (2002) on MTN International's loan to MTN Nigeria [MIGA](https://www.miga.org/project/mtn-nigeria-communications-limited-mtnn). None identified for the facility","the old value also claimed an AfDB $500k grant for a fintech study, with no source; dropped until T9 finds one",2026-09-21
+SWZ-002,major_shareholders,"Of Swazi MTN Limited: 1. Eswatini Posts and Telecommunications Corporation (EPTC, state-owned) 41%; 2. MTN Group Limited 30%; 3. Eswatini Empowerment Limited 19%; 4. an unnamed 'esteemed shareholder' 10% [MTN Eswatini](https://www.mtn.co.sz/newsabout/our-story/), [btw.media](https://btw.media/en/swazi-mtn-ltd-powers-eswatinis-mobile-and-digital-growth)","ESCCOM ordered EPTC in 2019 to divest its stake in MTN Eswatini (ESCCOM Decision 1/2019); MTN Eswatini's page and a May 2026 article still list SPTC/EPTC at 41%, so a current register should confirm the divestiture did not happen",2026-09-21
+SWZ-003,major_shareholders,"Of Swazi MTN Limited: 1. Eswatini Posts and Telecommunications Corporation (EPTC, state-owned) 41%; 2. MTN Group Limited 30%; 3. Eswatini Empowerment Limited 19%; 4. an unnamed 'esteemed shareholder' 10% [MTN Eswatini](https://www.mtn.co.sz/newsabout/our-story/), [btw.media](https://btw.media/en/swazi-mtn-ltd-powers-eswatinis-mobile-and-digital-growth)","ESCCOM ordered EPTC in 2019 to divest its stake in MTN Eswatini (ESCCOM Decision 1/2019); MTN Eswatini's page and a May 2026 article still list SPTC/EPTC at 41%, so a current register should confirm the divestiture did not happen",2026-09-21
+GHA-010,ultimate_parent_hq_country,GBR,DFC gives Cassava Technologies' headquarters as the UK; its country of registration is not confirmed by a register,2026-09-21
+KEN-001,ultimate_parent_hq_country,GBR,DFC gives Cassava Technologies' headquarters as the UK; its country of registration is not confirmed by a register,2026-09-21
+KEN-002,ultimate_parent_hq_country,GBR,DFC gives Cassava Technologies' headquarters as the UK; its country of registration is not confirmed by a register,2026-09-21
+KEN-021,ultimate_parent_hq_country,GBR,DFC gives Cassava Technologies' headquarters as the UK; its country of registration is not confirmed by a register,2026-09-21
+KEN-021,facility_name,Liquid Intelligent Technologies Kenya (Sameer),"same facility as KEN-001 (ADC NBO1, Sameer Business Park): Liquid's Nairobi data centre is the ADC site; T8 to merge the rows",2026-09-21
+NGA-006,ultimate_parent_hq_country,GBR,DFC gives Cassava Technologies' headquarters as the UK; its country of registration is not confirmed by a register,2026-09-21
+NGA-030,ultimate_parent_hq_country,GBR,DFC gives Cassava Technologies' headquarters as the UK; its country of registration is not confirmed by a register,2026-09-21
+RWA-004,ultimate_parent_hq_country,GBR,DFC gives Cassava Technologies' headquarters as the UK; its country of registration is not confirmed by a register,2026-09-21
+ZWE-001,ultimate_parent_hq_country,GBR,DFC gives Cassava Technologies' headquarters as the UK; its country of registration is not confirmed by a register,2026-09-21
+RWA-006,ultimate_parent_hq_country,GBR,DFC gives Cassava Technologies' headquarters as the UK; its country of registration is not confirmed by a register,2026-09-21
+UGA-011,ultimate_parent_hq_country,GBR,DFC gives Cassava Technologies' headquarters as the UK; its country of registration is not confirmed by a register,2026-09-21
+ZMB-005,ultimate_parent_hq_country,GBR,DFC gives Cassava Technologies' headquarters as the UK; its country of registration is not confirmed by a register,2026-09-21
+ZAF-010,ultimate_parent_hq_country,GBR|ZAF,DFC gives Cassava Technologies' headquarters as the UK; its country of registration is not confirmed by a register,2026-09-21
+ZAF-010,major_shareholders,"Of Cassava Africa Data Centres SA (Pty) Ltd: Africa Data Centres Holdings Ltd (Cassava Technologies), majority; STANLIB Infrastructure Fund II, minority with joint control; stakes not disclosed [Tribunal](https://comptrib.co.za/info-library/press-room/Merger-Alert:-Outcome-of-mergers-decided-by-the-Tribunal-4-February-2026). Of Cassava Technologies (stakes not disclosed): Econet Group, Public Investment Corporation, British International Investment, Gateway Capital, Royal Bafokeng Holdings, IFC, Afreximbank/FEDA, DFC, Finnfund, Google LLC and NVIDIA [Liquid](https://liquid.tech/about-us/news/gpu-as-a-service-to-africa/)","STANLIB's stake in Cassava Africa Data Centres SA is undisclosed ('minority', with joint control)",2026-09-21
+ZAF-011,ultimate_parent_hq_country,GBR|ZAF,DFC gives Cassava Technologies' headquarters as the UK; its country of registration is not confirmed by a register,2026-09-21
+ZAF-011,major_shareholders,"Of Cassava Africa Data Centres SA (Pty) Ltd: Africa Data Centres Holdings Ltd (Cassava Technologies), majority; STANLIB Infrastructure Fund II, minority with joint control; stakes not disclosed [Tribunal](https://comptrib.co.za/info-library/press-room/Merger-Alert:-Outcome-of-mergers-decided-by-the-Tribunal-4-February-2026). Of Cassava Technologies (stakes not disclosed): Econet Group, Public Investment Corporation, British International Investment, Gateway Capital, Royal Bafokeng Holdings, IFC, Afreximbank/FEDA, DFC, Finnfund, Google LLC and NVIDIA [Liquid](https://liquid.tech/about-us/news/gpu-as-a-service-to-africa/)","STANLIB's stake in Cassava Africa Data Centres SA is undisclosed ('minority', with joint control)",2026-09-21
+ZAF-012,ultimate_parent_hq_country,GBR|ZAF,DFC gives Cassava Technologies' headquarters as the UK; its country of registration is not confirmed by a register,2026-09-21
+ZAF-012,major_shareholders,"Of Cassava Africa Data Centres SA (Pty) Ltd: Africa Data Centres Holdings Ltd (Cassava Technologies), majority; STANLIB Infrastructure Fund II, minority with joint control; stakes not disclosed [Tribunal](https://comptrib.co.za/info-library/press-room/Merger-Alert:-Outcome-of-mergers-decided-by-the-Tribunal-4-February-2026). Of Cassava Technologies (stakes not disclosed): Econet Group, Public Investment Corporation, British International Investment, Gateway Capital, Royal Bafokeng Holdings, IFC, Afreximbank/FEDA, DFC, Finnfund, Google LLC and NVIDIA [Liquid](https://liquid.tech/about-us/news/gpu-as-a-service-to-africa/)","STANLIB's stake in Cassava Africa Data Centres SA is undisclosed ('minority', with joint control)",2026-09-21
+ZAF-013,ultimate_parent_hq_country,GBR|ZAF,DFC gives Cassava Technologies' headquarters as the UK; its country of registration is not confirmed by a register,2026-09-21
+ZAF-013,major_shareholders,"Of Cassava Africa Data Centres SA (Pty) Ltd: Africa Data Centres Holdings Ltd (Cassava Technologies), majority; STANLIB Infrastructure Fund II, minority with joint control; stakes not disclosed [Tribunal](https://comptrib.co.za/info-library/press-room/Merger-Alert:-Outcome-of-mergers-decided-by-the-Tribunal-4-February-2026). Of Cassava Technologies (stakes not disclosed): Econet Group, Public Investment Corporation, British International Investment, Gateway Capital, Royal Bafokeng Holdings, IFC, Afreximbank/FEDA, DFC, Finnfund, Google LLC and NVIDIA [Liquid](https://liquid.tech/about-us/news/gpu-as-a-service-to-africa/)","STANLIB's stake in Cassava Africa Data Centres SA is undisclosed ('minority', with joint control)",2026-09-21
+ZAF-039,ultimate_parent_hq_country,GBR|ZAF,DFC gives Cassava Technologies' headquarters as the UK; its country of registration is not confirmed by a register,2026-09-21
+ZAF-039,facility_name,Liquid Intelligent Technologies DC (Midrand),same facility as ZAF-010 (ADC JHB1 Midrand): DCD counts only two ADC sites in Johannesburg; T8 to merge the rows,2026-09-21
+ZAF-039,major_shareholders,"Of Cassava Africa Data Centres SA (Pty) Ltd: Africa Data Centres Holdings Ltd (Cassava Technologies), majority; STANLIB Infrastructure Fund II, minority with joint control; stakes not disclosed [Tribunal](https://comptrib.co.za/info-library/press-room/Merger-Alert:-Outcome-of-mergers-decided-by-the-Tribunal-4-February-2026). Of Cassava Technologies (stakes not disclosed): Econet Group, Public Investment Corporation, British International Investment, Gateway Capital, Royal Bafokeng Holdings, IFC, Afreximbank/FEDA, DFC, Finnfund, Google LLC and NVIDIA [Liquid](https://liquid.tech/about-us/news/gpu-as-a-service-to-africa/)","STANLIB's stake in Cassava Africa Data Centres SA is undisclosed ('minority', with joint control)",2026-09-21

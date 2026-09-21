@@ -3528,3 +3528,141 @@ SLE-002,https://assets.orange.com/medias/domain12751/media101349/404740-ke0wtvso
 TUN-004,https://www.sec.gov/Archives/edgar/data/1038143/000163462123000008/R20.htm,added,,,,,2026-09-21,,parent_company; major_shareholders; foreign_ownership_pct; controlling_entities; ownership_type,added by group check orange
 TUN-004,https://fr.wikipedia.org/wiki/Orange_Tunisie,added,,,,,2026-09-21,,parent_company; parent_hq_country; ultimate_parent_company; ultimate_parent_hq_country; major_shareholders; government_ownership_pct; controlling_entities,added by group check orange
 TUN-004,https://www.middleeasteye.net/fr/reportages/orange-tunisie-la-main-de-la-france-lombre-des-ben-ali-et-le-coup-de-pouce-de-tunis,added,,,,,2026-09-21,,control_mechanisms; major_shareholders,added by group check orange
+CIV-005,https://www.mtn-investor.com/mtn_ar2016/financials/note9.3.html,added,,,,,2026-09-21,,major_shareholders,added by group check mtn
+GHA-006,https://www.graphic.com.gh/business/business-news/these-are-the-top-20-major-shareholders-of-mtn-ghana-list.html,added,,,,,2026-09-21,,major_shareholders; parent_company,added by group check mtn
+GHA-006,https://mtn.com.gh/wp-content/uploads/2026/03/SCANCOM-PLC-MTN-GHANA-2025-Financial-Report.pdf,added,,,,,2026-09-21,,ultimate_parent_company; ultimate_parent_hq_country,added by group check mtn
+GHA-007,https://www.graphic.com.gh/business/business-news/these-are-the-top-20-major-shareholders-of-mtn-ghana-list.html,added,,,,,2026-09-21,,major_shareholders; parent_company,added by group check mtn
+GHA-007,https://mtn.com.gh/wp-content/uploads/2026/03/SCANCOM-PLC-MTN-GHANA-2025-Financial-Report.pdf,added,,,,,2026-09-21,,ultimate_parent_company; ultimate_parent_hq_country,added by group check mtn
+NGA-008,https://doclib.ngxgroup.com/Financial_NewsDocs/MTN_Nigeria_-_2025_AFS.pdf,added,,,,,2026-09-21,,major_shareholders; parent_company; parent_hq_country,added by group check mtn
+NGA-008,https://disclosures.ifc.org/project-detail/SPI/11206/mtn-nigeria,added,,,,,2026-09-21,,dfi_involvement,added by group check mtn
+NGA-008,https://documents1.worldbank.org/curated/en/099223504202638501/pdf/IDU-bbddf8f1-0dc1-492a-9385-334f60ee8879.pdf,added,,,,,2026-09-21,,dfi_involvement,added by group check mtn
+NGA-008,https://www.miga.org/project/mtn-nigeria-communications-limited-mtnn,added,,,,,2026-09-21,,dfi_involvement,added by group check mtn
+NGA-009,https://doclib.ngxgroup.com/Financial_NewsDocs/MTN_Nigeria_-_2025_AFS.pdf,added,,,,,2026-09-21,,major_shareholders; parent_company; parent_hq_country,added by group check mtn
+NGA-009,https://disclosures.ifc.org/project-detail/SPI/11206/mtn-nigeria,added,,,,,2026-09-21,,dfi_involvement,added by group check mtn
+NGA-009,https://documents1.worldbank.org/curated/en/099223504202638501/pdf/IDU-bbddf8f1-0dc1-492a-9385-334f60ee8879.pdf,added,,,,,2026-09-21,,dfi_involvement,added by group check mtn
+NGA-009,https://www.miga.org/project/mtn-nigeria-communications-limited-mtnn,added,,,,,2026-09-21,,dfi_involvement,added by group check mtn
+NGA-010,https://doclib.ngxgroup.com/Financial_NewsDocs/MTN_Nigeria_-_2025_AFS.pdf,added,,,,,2026-09-21,,major_shareholders; parent_company; parent_hq_country,added by group check mtn
+NGA-010,https://disclosures.ifc.org/project-detail/SPI/11206/mtn-nigeria,added,,,,,2026-09-21,,dfi_involvement,added by group check mtn
+NGA-010,https://documents1.worldbank.org/curated/en/099223504202638501/pdf/IDU-bbddf8f1-0dc1-492a-9385-334f60ee8879.pdf,added,,,,,2026-09-21,,dfi_involvement,added by group check mtn
+NGA-010,https://www.miga.org/project/mtn-nigeria-communications-limited-mtnn,added,,,,,2026-09-21,,dfi_involvement,added by group check mtn
+RWA-005,https://rse.rw/uploads/reports/1773735878_a1568fdbf213760ce80a.pdf,added,,,,,2026-09-21,,major_shareholders; foreign_ownership_pct; controlling_entities; parent_company; parent_hq_country; ultimate_parent_company; ultimate_parent_hq_country,added by group check mtn
+UGA-004,https://www.mtn.co.ug/wp-content/uploads/sites/7/2025/07/MTN-Uganda-Limited-EGM-Shareholder-Circular.pdf,added,,,,,2026-09-21,,major_shareholders; parent_company; parent_hq_country,added by group check mtn
+UGA-005,https://www.mtn.co.ug/wp-content/uploads/sites/7/2025/07/MTN-Uganda-Limited-EGM-Shareholder-Circular.pdf,added,,,,,2026-09-21,,major_shareholders; parent_company; parent_hq_country,added by group check mtn
+UGA-006,https://www.mtn.co.ug/wp-content/uploads/sites/7/2025/07/MTN-Uganda-Limited-EGM-Shareholder-Circular.pdf,added,,,,,2026-09-21,,major_shareholders; parent_company; parent_hq_country,added by group check mtn
+UGA-007,https://www.mtn.co.ug/wp-content/uploads/sites/7/2025/07/MTN-Uganda-Limited-EGM-Shareholder-Circular.pdf,added,,,,,2026-09-21,,major_shareholders; parent_company; parent_hq_country,added by group check mtn
+UGA-008,https://www.mtn.co.ug/wp-content/uploads/sites/7/2025/07/MTN-Uganda-Limited-EGM-Shareholder-Circular.pdf,added,,,,,2026-09-21,,major_shareholders; parent_company; parent_hq_country,added by group check mtn
+SWZ-002,https://www.mtn.co.sz/newsabout/our-story/,added,,,,,2026-09-21,,major_shareholders; ultimate_parent_company; government_ownership_pct; ownership_structure_type,added by group check mtn
+SWZ-002,https://btw.media/en/swazi-mtn-ltd-powers-eswatinis-mobile-and-digital-growth,added,,,,,2026-09-21,,major_shareholders,added by group check mtn
+SWZ-003,https://www.mtn.co.sz/newsabout/our-story/,added,,,,,2026-09-21,,major_shareholders; ultimate_parent_company; government_ownership_pct; ownership_structure_type,added by group check mtn
+SWZ-003,https://btw.media/en/swazi-mtn-ltd-powers-eswatinis-mobile-and-digital-growth,added,,,,,2026-09-21,,major_shareholders,added by group check mtn
+GHA-010,https://liquid.tech/about-us/news/gpu-as-a-service-to-africa/,added,,,,,2026-09-21,,dfi_involvement; major_shareholders; recent_investments,added by group check cassava
+GHA-010,https://www.cassavatechnologies.com/demand-for-300-million-bond/,added,,,,,2026-09-21,,dfi_involvement; recent_investments,added by group check cassava
+GHA-010,https://www.ifc.org/en/pressroom/2021/ifc-partners-with-liquid-intelligent-technologies-to-boost-afric,live,200,,,96541087ba58bb2701e6d19f8c31e3fe72dd91b6.txt,2026-09-21,,dfi_involvement,added by group check cassava
+GHA-010,https://liquid.tech/investor-centre/board-of-directors/,live,200,,,96b3476d5bb43c3f167121f4c335bd9773aec392.txt,2026-09-21,,control_mechanisms,added by group check cassava
+GHA-010,https://www.cassavatechnologies.com/liquid-intelligent-technologies-announces-debt-repayment-and-agrees-new-credit-facilities/,added,,,,,2026-09-21,,controlling_entities; parent_company; ultimate_parent_company,added by group check cassava
+GHA-010,https://www.itweb.co.za/article/compcom-greenlights-africa-data-centres-acquisition/JN1gPvOAJPkMjL6m,added,,,,,2026-09-21,,parent_company,added by group check cassava
+GHA-010,https://liquid.tech/wp-content/uploads/2025/01/Q3-2024-2024-PRESENTATION.pdf,added,,,,,2026-09-21,,parent_company,added by group check cassava
+KEN-001,https://liquid.tech/about-us/news/gpu-as-a-service-to-africa/,added,,,,,2026-09-21,,dfi_involvement; major_shareholders; recent_investments,added by group check cassava
+KEN-001,https://www.cassavatechnologies.com/demand-for-300-million-bond/,added,,,,,2026-09-21,,dfi_involvement; recent_investments,added by group check cassava
+KEN-001,https://www.ifc.org/en/pressroom/2021/ifc-partners-with-liquid-intelligent-technologies-to-boost-afric,live,200,,,96541087ba58bb2701e6d19f8c31e3fe72dd91b6.txt,2026-09-21,,dfi_involvement,added by group check cassava
+KEN-001,https://liquid.tech/investor-centre/board-of-directors/,live,200,,,96b3476d5bb43c3f167121f4c335bd9773aec392.txt,2026-09-21,,control_mechanisms,added by group check cassava
+KEN-001,https://www.cassavatechnologies.com/liquid-intelligent-technologies-announces-debt-repayment-and-agrees-new-credit-facilities/,added,,,,,2026-09-21,,controlling_entities; parent_company; ultimate_parent_company,added by group check cassava
+KEN-001,https://www.itweb.co.za/article/compcom-greenlights-africa-data-centres-acquisition/JN1gPvOAJPkMjL6m,added,,,,,2026-09-21,,parent_company,added by group check cassava
+KEN-001,https://liquid.tech/wp-content/uploads/2025/01/Q3-2024-2024-PRESENTATION.pdf,added,,,,,2026-09-21,,parent_company,added by group check cassava
+KEN-002,https://liquid.tech/about-us/news/gpu-as-a-service-to-africa/,added,,,,,2026-09-21,,dfi_involvement; major_shareholders; recent_investments,added by group check cassava
+KEN-002,https://www.cassavatechnologies.com/demand-for-300-million-bond/,added,,,,,2026-09-21,,dfi_involvement; recent_investments,added by group check cassava
+KEN-002,https://www.ifc.org/en/pressroom/2021/ifc-partners-with-liquid-intelligent-technologies-to-boost-afric,live,200,,,96541087ba58bb2701e6d19f8c31e3fe72dd91b6.txt,2026-09-21,,dfi_involvement,added by group check cassava
+KEN-002,https://liquid.tech/investor-centre/board-of-directors/,live,200,,,96b3476d5bb43c3f167121f4c335bd9773aec392.txt,2026-09-21,,control_mechanisms,added by group check cassava
+KEN-002,https://www.cassavatechnologies.com/liquid-intelligent-technologies-announces-debt-repayment-and-agrees-new-credit-facilities/,added,,,,,2026-09-21,,controlling_entities; parent_company; ultimate_parent_company,added by group check cassava
+KEN-002,https://www.itweb.co.za/article/compcom-greenlights-africa-data-centres-acquisition/JN1gPvOAJPkMjL6m,added,,,,,2026-09-21,,parent_company,added by group check cassava
+KEN-002,https://liquid.tech/wp-content/uploads/2025/01/Q3-2024-2024-PRESENTATION.pdf,added,,,,,2026-09-21,,parent_company,added by group check cassava
+KEN-021,https://liquid.tech/about-us/news/gpu-as-a-service-to-africa/,added,,,,,2026-09-21,,dfi_involvement; major_shareholders; recent_investments,added by group check cassava
+KEN-021,https://www.cassavatechnologies.com/demand-for-300-million-bond/,added,,,,,2026-09-21,,dfi_involvement; recent_investments,added by group check cassava
+KEN-021,https://www.ifc.org/en/pressroom/2021/ifc-partners-with-liquid-intelligent-technologies-to-boost-afric,live,200,,,96541087ba58bb2701e6d19f8c31e3fe72dd91b6.txt,2026-09-21,,dfi_involvement,added by group check cassava
+KEN-021,https://liquid.tech/investor-centre/board-of-directors/,live,200,,,96b3476d5bb43c3f167121f4c335bd9773aec392.txt,2026-09-21,,control_mechanisms,added by group check cassava
+KEN-021,https://www.cassavatechnologies.com/liquid-intelligent-technologies-announces-debt-repayment-and-agrees-new-credit-facilities/,added,,,,,2026-09-21,,controlling_entities; parent_company; ultimate_parent_company,added by group check cassava
+KEN-021,https://www.itweb.co.za/article/compcom-greenlights-africa-data-centres-acquisition/JN1gPvOAJPkMjL6m,added,,,,,2026-09-21,,parent_company,added by group check cassava
+KEN-021,https://liquid.tech/wp-content/uploads/2025/01/Q3-2024-2024-PRESENTATION.pdf,added,,,,,2026-09-21,,parent_company,added by group check cassava
+KEN-021,https://www.devex.com/organizations/liquid-intelligent-technologies-187046,blocked,403,,,decc38342d5a0b5b60e3428a8fdf3aa2f6cc4a79.txt,2026-09-21,,parent_company,added by group check cassava
+NGA-006,https://liquid.tech/about-us/news/gpu-as-a-service-to-africa/,added,,,,,2026-09-21,,dfi_involvement; major_shareholders; recent_investments,added by group check cassava
+NGA-006,https://www.cassavatechnologies.com/demand-for-300-million-bond/,added,,,,,2026-09-21,,dfi_involvement; recent_investments,added by group check cassava
+NGA-006,https://www.ifc.org/en/pressroom/2021/ifc-partners-with-liquid-intelligent-technologies-to-boost-afric,live,200,,,96541087ba58bb2701e6d19f8c31e3fe72dd91b6.txt,2026-09-21,,dfi_involvement,added by group check cassava
+NGA-006,https://liquid.tech/investor-centre/board-of-directors/,live,200,,,96b3476d5bb43c3f167121f4c335bd9773aec392.txt,2026-09-21,,control_mechanisms,added by group check cassava
+NGA-006,https://www.cassavatechnologies.com/liquid-intelligent-technologies-announces-debt-repayment-and-agrees-new-credit-facilities/,added,,,,,2026-09-21,,controlling_entities; parent_company; ultimate_parent_company,added by group check cassava
+NGA-006,https://www.itweb.co.za/article/compcom-greenlights-africa-data-centres-acquisition/JN1gPvOAJPkMjL6m,added,,,,,2026-09-21,,parent_company,added by group check cassava
+NGA-006,https://liquid.tech/wp-content/uploads/2025/01/Q3-2024-2024-PRESENTATION.pdf,added,,,,,2026-09-21,,parent_company,added by group check cassava
+NGA-030,https://liquid.tech/about-us/news/gpu-as-a-service-to-africa/,added,,,,,2026-09-21,,dfi_involvement; major_shareholders; recent_investments,added by group check cassava
+NGA-030,https://www.cassavatechnologies.com/demand-for-300-million-bond/,added,,,,,2026-09-21,,dfi_involvement; recent_investments,added by group check cassava
+NGA-030,https://www.ifc.org/en/pressroom/2021/ifc-partners-with-liquid-intelligent-technologies-to-boost-afric,live,200,,,96541087ba58bb2701e6d19f8c31e3fe72dd91b6.txt,2026-09-21,,dfi_involvement,added by group check cassava
+NGA-030,https://liquid.tech/investor-centre/board-of-directors/,live,200,,,96b3476d5bb43c3f167121f4c335bd9773aec392.txt,2026-09-21,,control_mechanisms,added by group check cassava
+NGA-030,https://www.cassavatechnologies.com/liquid-intelligent-technologies-announces-debt-repayment-and-agrees-new-credit-facilities/,added,,,,,2026-09-21,,controlling_entities; parent_company; ultimate_parent_company,added by group check cassava
+NGA-030,https://www.itweb.co.za/article/compcom-greenlights-africa-data-centres-acquisition/JN1gPvOAJPkMjL6m,added,,,,,2026-09-21,,parent_company,added by group check cassava
+NGA-030,https://liquid.tech/wp-content/uploads/2025/01/Q3-2024-2024-PRESENTATION.pdf,added,,,,,2026-09-21,,parent_company,added by group check cassava
+RWA-004,https://liquid.tech/about-us/news/gpu-as-a-service-to-africa/,added,,,,,2026-09-21,,dfi_involvement; major_shareholders; recent_investments,added by group check cassava
+RWA-004,https://www.cassavatechnologies.com/demand-for-300-million-bond/,added,,,,,2026-09-21,,dfi_involvement; recent_investments,added by group check cassava
+RWA-004,https://www.ifc.org/en/pressroom/2021/ifc-partners-with-liquid-intelligent-technologies-to-boost-afric,live,200,,,96541087ba58bb2701e6d19f8c31e3fe72dd91b6.txt,2026-09-21,,dfi_involvement,added by group check cassava
+RWA-004,https://liquid.tech/investor-centre/board-of-directors/,live,200,,,96b3476d5bb43c3f167121f4c335bd9773aec392.txt,2026-09-21,,control_mechanisms,added by group check cassava
+RWA-004,https://www.cassavatechnologies.com/liquid-intelligent-technologies-announces-debt-repayment-and-agrees-new-credit-facilities/,added,,,,,2026-09-21,,controlling_entities; parent_company; ultimate_parent_company,added by group check cassava
+RWA-004,https://www.itweb.co.za/article/compcom-greenlights-africa-data-centres-acquisition/JN1gPvOAJPkMjL6m,added,,,,,2026-09-21,,parent_company,added by group check cassava
+RWA-004,https://liquid.tech/wp-content/uploads/2025/01/Q3-2024-2024-PRESENTATION.pdf,added,,,,,2026-09-21,,parent_company,added by group check cassava
+ZWE-001,https://liquid.tech/about-us/news/gpu-as-a-service-to-africa/,added,,,,,2026-09-21,,dfi_involvement; major_shareholders; recent_investments,added by group check cassava
+ZWE-001,https://www.cassavatechnologies.com/demand-for-300-million-bond/,added,,,,,2026-09-21,,dfi_involvement; recent_investments,added by group check cassava
+ZWE-001,https://www.ifc.org/en/pressroom/2021/ifc-partners-with-liquid-intelligent-technologies-to-boost-afric,live,200,,,96541087ba58bb2701e6d19f8c31e3fe72dd91b6.txt,2026-09-21,,dfi_involvement,added by group check cassava
+ZWE-001,https://liquid.tech/investor-centre/board-of-directors/,live,200,,,96b3476d5bb43c3f167121f4c335bd9773aec392.txt,2026-09-21,,control_mechanisms,added by group check cassava
+ZWE-001,https://www.cassavatechnologies.com/liquid-intelligent-technologies-announces-debt-repayment-and-agrees-new-credit-facilities/,added,,,,,2026-09-21,,controlling_entities; parent_company; ultimate_parent_company,added by group check cassava
+ZWE-001,https://www.itweb.co.za/article/compcom-greenlights-africa-data-centres-acquisition/JN1gPvOAJPkMjL6m,added,,,,,2026-09-21,,parent_company,added by group check cassava
+ZWE-001,https://liquid.tech/wp-content/uploads/2025/01/Q3-2024-2024-PRESENTATION.pdf,added,,,,,2026-09-21,,parent_company,added by group check cassava
+RWA-006,https://liquid.tech/about-us/news/gpu-as-a-service-to-africa/,added,,,,,2026-09-21,,dfi_involvement; major_shareholders; recent_investments,added by group check cassava
+RWA-006,https://www.cassavatechnologies.com/demand-for-300-million-bond/,added,,,,,2026-09-21,,dfi_involvement; recent_investments,added by group check cassava
+RWA-006,https://www.ifc.org/en/pressroom/2021/ifc-partners-with-liquid-intelligent-technologies-to-boost-afric,live,200,,,96541087ba58bb2701e6d19f8c31e3fe72dd91b6.txt,2026-09-21,,dfi_involvement,added by group check cassava
+RWA-006,https://liquid.tech/investor-centre/board-of-directors/,live,200,,,96b3476d5bb43c3f167121f4c335bd9773aec392.txt,2026-09-21,,control_mechanisms; controlling_entities,added by group check cassava
+RWA-006,https://liquid.tech/wp-content/uploads/2026/06/LTH-AFS-2026-signed.pdf,added,,,,,2026-09-21,,parent_company; parent_hq_country,added by group check cassava
+RWA-006,https://liquid.tech/wp-content/uploads/2025/01/Q3-2024-2024-PRESENTATION.pdf,added,,,,,2026-09-21,,parent_company; parent_hq_country,added by group check cassava
+UGA-011,https://liquid.tech/about-us/news/gpu-as-a-service-to-africa/,added,,,,,2026-09-21,,dfi_involvement; major_shareholders; recent_investments,added by group check cassava
+UGA-011,https://www.cassavatechnologies.com/demand-for-300-million-bond/,added,,,,,2026-09-21,,dfi_involvement; recent_investments,added by group check cassava
+UGA-011,https://www.ifc.org/en/pressroom/2021/ifc-partners-with-liquid-intelligent-technologies-to-boost-afric,live,200,,,96541087ba58bb2701e6d19f8c31e3fe72dd91b6.txt,2026-09-21,,dfi_involvement,added by group check cassava
+UGA-011,https://liquid.tech/investor-centre/board-of-directors/,live,200,,,96b3476d5bb43c3f167121f4c335bd9773aec392.txt,2026-09-21,,control_mechanisms; controlling_entities,added by group check cassava
+UGA-011,https://liquid.tech/wp-content/uploads/2026/06/LTH-AFS-2026-signed.pdf,added,,,,,2026-09-21,,parent_company; parent_hq_country,added by group check cassava
+UGA-011,https://liquid.tech/wp-content/uploads/2025/01/Q3-2024-2024-PRESENTATION.pdf,added,,,,,2026-09-21,,parent_company; parent_hq_country,added by group check cassava
+ZMB-005,https://liquid.tech/about-us/news/gpu-as-a-service-to-africa/,added,,,,,2026-09-21,,dfi_involvement; major_shareholders; recent_investments,added by group check cassava
+ZMB-005,https://www.cassavatechnologies.com/demand-for-300-million-bond/,added,,,,,2026-09-21,,dfi_involvement; recent_investments,added by group check cassava
+ZMB-005,https://www.ifc.org/en/pressroom/2021/ifc-partners-with-liquid-intelligent-technologies-to-boost-afric,live,200,,,96541087ba58bb2701e6d19f8c31e3fe72dd91b6.txt,2026-09-21,,dfi_involvement,added by group check cassava
+ZMB-005,https://liquid.tech/investor-centre/board-of-directors/,live,200,,,96b3476d5bb43c3f167121f4c335bd9773aec392.txt,2026-09-21,,control_mechanisms; controlling_entities,added by group check cassava
+ZMB-005,https://liquid.tech/wp-content/uploads/2026/06/LTH-AFS-2026-signed.pdf,added,,,,,2026-09-21,,parent_company; parent_hq_country,added by group check cassava
+ZMB-005,https://liquid.tech/wp-content/uploads/2025/01/Q3-2024-2024-PRESENTATION.pdf,added,,,,,2026-09-21,,parent_company; parent_hq_country,added by group check cassava
+ZAF-010,https://liquid.tech/about-us/news/gpu-as-a-service-to-africa/,added,,,,,2026-09-21,,dfi_involvement; major_shareholders; recent_investments,added by group check cassava
+ZAF-010,https://www.cassavatechnologies.com/demand-for-300-million-bond/,added,,,,,2026-09-21,,dfi_involvement; recent_investments,added by group check cassava
+ZAF-010,https://www.ifc.org/en/pressroom/2021/ifc-partners-with-liquid-intelligent-technologies-to-boost-afric,live,200,,,96541087ba58bb2701e6d19f8c31e3fe72dd91b6.txt,2026-09-21,,dfi_involvement,added by group check cassava
+ZAF-010,https://www.cassavatechnologies.com/liquid-intelligent-technologies-announces-debt-repayment-and-agrees-new-credit-facilities/,added,,,,,2026-09-21,,controlling_entities; parent_company; parent_hq_country; recent_investments; ultimate_parent_company,added by group check cassava
+ZAF-010,https://comptrib.co.za/info-library/press-room/Merger-Alert:-Outcome-of-mergers-decided-by-the-Tribunal-4-February-2026,added,,,,,2026-09-21,,control_mechanisms; controlling_entities; major_shareholders; recent_investments; ultimate_parent_company,added by group check cassava
+ZAF-010,https://www.itweb.co.za/article/compcom-greenlights-africa-data-centres-acquisition/JN1gPvOAJPkMjL6m,added,,,,,2026-09-21,,parent_company; parent_hq_country,added by group check cassava
+ZAF-010,https://liquid.tech/wp-content/uploads/2025/01/Q3-2024-2024-PRESENTATION.pdf,added,,,,,2026-09-21,,parent_company; parent_hq_country,added by group check cassava
+ZAF-011,https://liquid.tech/about-us/news/gpu-as-a-service-to-africa/,added,,,,,2026-09-21,,dfi_involvement; major_shareholders; recent_investments,added by group check cassava
+ZAF-011,https://www.cassavatechnologies.com/demand-for-300-million-bond/,added,,,,,2026-09-21,,dfi_involvement; recent_investments,added by group check cassava
+ZAF-011,https://www.ifc.org/en/pressroom/2021/ifc-partners-with-liquid-intelligent-technologies-to-boost-afric,live,200,,,96541087ba58bb2701e6d19f8c31e3fe72dd91b6.txt,2026-09-21,,dfi_involvement,added by group check cassava
+ZAF-011,https://www.cassavatechnologies.com/liquid-intelligent-technologies-announces-debt-repayment-and-agrees-new-credit-facilities/,added,,,,,2026-09-21,,controlling_entities; parent_company; parent_hq_country; recent_investments; ultimate_parent_company,added by group check cassava
+ZAF-011,https://comptrib.co.za/info-library/press-room/Merger-Alert:-Outcome-of-mergers-decided-by-the-Tribunal-4-February-2026,added,,,,,2026-09-21,,control_mechanisms; controlling_entities; major_shareholders; recent_investments; ultimate_parent_company,added by group check cassava
+ZAF-011,https://www.itweb.co.za/article/compcom-greenlights-africa-data-centres-acquisition/JN1gPvOAJPkMjL6m,added,,,,,2026-09-21,,parent_company; parent_hq_country,added by group check cassava
+ZAF-011,https://liquid.tech/wp-content/uploads/2025/01/Q3-2024-2024-PRESENTATION.pdf,added,,,,,2026-09-21,,parent_company; parent_hq_country,added by group check cassava
+ZAF-012,https://liquid.tech/about-us/news/gpu-as-a-service-to-africa/,added,,,,,2026-09-21,,dfi_involvement; major_shareholders; recent_investments,added by group check cassava
+ZAF-012,https://www.cassavatechnologies.com/demand-for-300-million-bond/,added,,,,,2026-09-21,,dfi_involvement; recent_investments,added by group check cassava
+ZAF-012,https://www.ifc.org/en/pressroom/2021/ifc-partners-with-liquid-intelligent-technologies-to-boost-afric,live,200,,,96541087ba58bb2701e6d19f8c31e3fe72dd91b6.txt,2026-09-21,,dfi_involvement,added by group check cassava
+ZAF-012,https://www.cassavatechnologies.com/liquid-intelligent-technologies-announces-debt-repayment-and-agrees-new-credit-facilities/,added,,,,,2026-09-21,,controlling_entities; parent_company; parent_hq_country; recent_investments; ultimate_parent_company,added by group check cassava
+ZAF-012,https://comptrib.co.za/info-library/press-room/Merger-Alert:-Outcome-of-mergers-decided-by-the-Tribunal-4-February-2026,added,,,,,2026-09-21,,control_mechanisms; controlling_entities; major_shareholders; recent_investments; ultimate_parent_company,added by group check cassava
+ZAF-012,https://www.itweb.co.za/article/compcom-greenlights-africa-data-centres-acquisition/JN1gPvOAJPkMjL6m,added,,,,,2026-09-21,,parent_company; parent_hq_country,added by group check cassava
+ZAF-012,https://liquid.tech/wp-content/uploads/2025/01/Q3-2024-2024-PRESENTATION.pdf,added,,,,,2026-09-21,,parent_company; parent_hq_country,added by group check cassava
+ZAF-013,https://liquid.tech/about-us/news/gpu-as-a-service-to-africa/,added,,,,,2026-09-21,,dfi_involvement; major_shareholders; recent_investments,added by group check cassava
+ZAF-013,https://www.cassavatechnologies.com/demand-for-300-million-bond/,added,,,,,2026-09-21,,dfi_involvement; recent_investments,added by group check cassava
+ZAF-013,https://www.ifc.org/en/pressroom/2021/ifc-partners-with-liquid-intelligent-technologies-to-boost-afric,live,200,,,96541087ba58bb2701e6d19f8c31e3fe72dd91b6.txt,2026-09-21,,dfi_involvement,added by group check cassava
+ZAF-013,https://www.cassavatechnologies.com/liquid-intelligent-technologies-announces-debt-repayment-and-agrees-new-credit-facilities/,added,,,,,2026-09-21,,controlling_entities; parent_company; parent_hq_country; recent_investments; ultimate_parent_company,added by group check cassava
+ZAF-013,https://comptrib.co.za/info-library/press-room/Merger-Alert:-Outcome-of-mergers-decided-by-the-Tribunal-4-February-2026,added,,,,,2026-09-21,,control_mechanisms; controlling_entities; major_shareholders; recent_investments; ultimate_parent_company,added by group check cassava
+ZAF-013,https://www.itweb.co.za/article/compcom-greenlights-africa-data-centres-acquisition/JN1gPvOAJPkMjL6m,added,,,,,2026-09-21,,parent_company; parent_hq_country,added by group check cassava
+ZAF-013,https://liquid.tech/wp-content/uploads/2025/01/Q3-2024-2024-PRESENTATION.pdf,added,,,,,2026-09-21,,parent_company; parent_hq_country,added by group check cassava
+ZAF-039,https://liquid.tech/about-us/news/gpu-as-a-service-to-africa/,added,,,,,2026-09-21,,dfi_involvement; major_shareholders; recent_investments,added by group check cassava
+ZAF-039,https://www.cassavatechnologies.com/demand-for-300-million-bond/,added,,,,,2026-09-21,,dfi_involvement; recent_investments,added by group check cassava
+ZAF-039,https://www.ifc.org/en/pressroom/2021/ifc-partners-with-liquid-intelligent-technologies-to-boost-afric,live,200,,,96541087ba58bb2701e6d19f8c31e3fe72dd91b6.txt,2026-09-21,,dfi_involvement,added by group check cassava
+ZAF-039,https://www.cassavatechnologies.com/liquid-intelligent-technologies-announces-debt-repayment-and-agrees-new-credit-facilities/,added,,,,,2026-09-21,,controlling_entities; parent_company; parent_hq_country; recent_investments; ultimate_parent_company,added by group check cassava
+ZAF-039,https://comptrib.co.za/info-library/press-room/Merger-Alert:-Outcome-of-mergers-decided-by-the-Tribunal-4-February-2026,added,,,,,2026-09-21,,control_mechanisms; controlling_entities; major_shareholders; recent_investments; ultimate_parent_company,added by group check cassava
+ZAF-039,https://www.itweb.co.za/article/compcom-greenlights-africa-data-centres-acquisition/JN1gPvOAJPkMjL6m,added,,,,,2026-09-21,,parent_company; parent_hq_country,added by group check cassava
+ZAF-039,https://liquid.tech/wp-content/uploads/2025/01/Q3-2024-2024-PRESENTATION.pdf,added,,,,,2026-09-21,,parent_company; parent_hq_country,added by group check cassava
+ZAF-039,https://www.datacenterdynamics.com/en/news/liquid-intelligence-technologies-secures-660m-in-debt-financing/,added,,,,,2026-09-21,,parent_company; parent_hq_country,added by group check cassava
