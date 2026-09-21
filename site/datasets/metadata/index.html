@@ -1,0 +1,602 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Datasets — metadata — Data Landscapers</title>
+<meta name="description" content="What each column in the Data Landscapers datasets means: data centres, non-state finance and the catalogue.">
+<link rel="canonical" href="https://corpus.data-landscapers.io/datasets/metadata/">
+<link rel="stylesheet" href="../../assets/css/main.css?v=a004bc3c">
+<link rel="stylesheet" href="../../assets/css/corpus.css?v=42a1181a">
+<link rel="stylesheet" href="../../assets/css/methodology.css?v=f43303f4">
+<link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BF3X4N6YML"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-BF3X4N6YML');
+</script>
+</head>
+<body>
+<div class="site-wrap">
+
+  <header class="site-header">
+    <div class="site-header__inner">
+      <a href="https://data-landscapers.io/" class="site-logo">
+        <img src="../../assets/logo.png" alt="Data Landscapers" class="site-logo__img">
+        <span class="site-logo__text">Data Landscapers
+          <span class="site-logo__sub">Mapping Africa&rsquo;s data landscape</span>
+        </span>
+      </a>
+      <button class="nav-toggle" aria-label="Toggle navigation" onclick="this.classList.toggle('open'); document.getElementById('site-nav').classList.toggle('open')">
+        <span></span><span></span><span></span>
+      </button>
+      <nav class="site-nav" id="site-nav" aria-label="Main navigation">
+        <a href="https://corpus.data-landscapers.io/" class="active">Corpus</a>
+        <a href="https://data-landscapers.io/writing/">Work in progress</a>
+        <a href="https://data-landscapers.io/portfolio/">Portfolio</a>
+        <a href="https://data-landscapers.io/about/">About</a>
+      </nav>
+    </div>
+  </header>
+
+  <nav class="corpus-nav" aria-label="Corpus navigation">
+    <div class="corpus-nav__inner">
+      <a href="https://corpus.data-landscapers.io/progress/">Progress</a>
+      <a href="https://corpus.data-landscapers.io/bulletin/">Bulletin</a>
+      <a href="https://corpus.data-landscapers.io/countries/">Countries & Regions</a>
+      <a href="https://corpus.data-landscapers.io/topics/">Topics</a>
+      <a href="https://corpus.data-landscapers.io/finance/">Finance</a>
+      <a href="https://corpus.data-landscapers.io/datasets/" class="active">Datasets</a>
+      <a href="https://corpus.data-landscapers.io/catalogue/">Catalogue</a>
+      <a href="https://corpus.data-landscapers.io/methodology/">Methodology</a>
+    </div>
+  </nav>
+
+  <main id="main">
+  <div class="container">
+    <header class="article-header">
+      <a class="feedback-ask" href="mailto:info@data-landscapers.io?subject=Corpus%20feedback%20%E2%80%94%20Datasets%20%E2%80%94%20metadata&amp;body=Page%3A%20https%3A//corpus.data-landscapers.io/datasets/metadata/%0A%0AWrong%2C%20missing%2C%20or%20useful%20%E2%80%94%20and%20if%20you%20used%20it%2C%20what%20for%3A%0A%0A">Useful? Wrong? Tell us</a>
+      <h1 class="article-header__title">Metadata</h1>
+    </header>
+
+    <article class="article-body">
+      <nav class="article-toc" aria-label="Sections of this page">
+      <a href="#introduction">Introduction</a>
+      <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+      <a href="#data-centres">Data centres</a>
+      <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+      <a href="#non-state-finance">Non-state finance</a>
+      <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+      <a href="#catalogue">Catalogue</a>
+      </nav>
+      <h2 id="introduction">Introduction</h2>
+      <p>What each column in the downloadable datasets means. Each table can be downloaded as a CSV, and the same file is what the dataset's own page links to.</p>
+      <!-- A "table:" comment names a CSV and, optionally, the columns to show; scripts/datasets.py draws it at build time with methodology.py's lookup_tables. Edit the file, not a copy here. -->
+
+      <h2 id="data-centres">Data centres</h2>
+      <p class="lookup-csv"><a class="btn btn--sm" href="../../metadata/data-centres-metadata.csv" download>&darr; CSV</a></p>
+
+      <table>
+      <thead>
+      <tr>
+      <th>column</th>
+      <th>label</th>
+      <th>values</th>
+      <th>definition</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td>facility_id</td>
+      <td>ID</td>
+      <td>ISO3-NNN</td>
+      <td>Permanent identifier for the facility.</td>
+      </tr>
+      <tr>
+      <td>facility_name</td>
+      <td>Facility</td>
+      <td></td>
+      <td>The facility's name as its operator markets it.</td>
+      </tr>
+      <tr>
+      <td>country</td>
+      <td>ISO3</td>
+      <td>ISO3 from lookups/countries.csv</td>
+      <td>The country where the facility is.</td>
+      </tr>
+      <tr>
+      <td>country_name</td>
+      <td>Country</td>
+      <td></td>
+      <td>The country's name.</td>
+      </tr>
+      <tr>
+      <td>city</td>
+      <td>City</td>
+      <td></td>
+      <td>The city or town where the facility is.</td>
+      </tr>
+      <tr>
+      <td>operational_status</td>
+      <td>Status</td>
+      <td>Operational; Under construction; Planned; Decommissioned; Unknown</td>
+      <td>Whether the facility is running.</td>
+      </tr>
+      <tr>
+      <td>year_operational</td>
+      <td>Year</td>
+      <td>YYYY</td>
+      <td>The year the facility opened, or is due to open.</td>
+      </tr>
+      <tr>
+      <td>facility_type</td>
+      <td>Type</td>
+      <td>Colocation/carrier-neutral; Enterprise; Government; Hyperscale; Edge; Research</td>
+      <td>The facility's main service model.</td>
+      </tr>
+      <tr>
+      <td>services_offered</td>
+      <td>Services</td>
+      <td>; -separated</td>
+      <td>The services the operator advertises at the facility.</td>
+      </tr>
+      <tr>
+      <td>govt_data_hosted</td>
+      <td>Government data</td>
+      <td>Designated national / government data centre; Hosts government data alongside commercial; No government data; Unknown</td>
+      <td>Whether the facility hosts government data or systems.</td>
+      </tr>
+      <tr>
+      <td>operator_name</td>
+      <td>Operator</td>
+      <td></td>
+      <td>The company or agency that runs the facility day to day.</td>
+      </tr>
+      <tr>
+      <td>ownership_type</td>
+      <td>Ownership</td>
+      <td>Private domestic; Private foreign; Government / SOE; Joint venture (majority domestic); Joint venture (majority foreign); PPP; Multilateral / DFI; Unknown</td>
+      <td>Who owns the facility's equity.</td>
+      </tr>
+      <tr>
+      <td>ownership_structure_type</td>
+      <td>Parent structure</td>
+      <td></td>
+      <td>The legal form of the ultimate parent.</td>
+      </tr>
+      <tr>
+      <td>parent_company</td>
+      <td>Parent</td>
+      <td></td>
+      <td>The operator's immediate parent company, if it has one.</td>
+      </tr>
+      <tr>
+      <td>parent_hq_country</td>
+      <td>Parent HQ</td>
+      <td>ISO3</td>
+      <td>The country where the immediate parent is registered.</td>
+      </tr>
+      <tr>
+      <td>ultimate_parent_company</td>
+      <td>Ultimate parent</td>
+      <td></td>
+      <td>The top entity in the ownership chain.</td>
+      </tr>
+      <tr>
+      <td>ultimate_parent_hq_country</td>
+      <td>Ultimate parent HQ</td>
+      <td>ISO3; |-separated where control is joint</td>
+      <td>The country where the ultimate parent is registered.</td>
+      </tr>
+      <tr>
+      <td>major_shareholders</td>
+      <td>Major shareholders</td>
+      <td></td>
+      <td>The ultimate parent's largest shareholders, with their stakes.</td>
+      </tr>
+      <tr>
+      <td>government_ownership_pct</td>
+      <td>Govt stake</td>
+      <td>Percentage, with its basis</td>
+      <td>The share of the ultimate parent held by governments, whether directly or through state funds, SOEs or state pension funds.</td>
+      </tr>
+      <tr>
+      <td>foreign_ownership_pct</td>
+      <td>Foreign stake</td>
+      <td>Percentage, with its basis</td>
+      <td>The share of the owning entity held from outside the facility's country.</td>
+      </tr>
+      <tr>
+      <td>controlling_entities</td>
+      <td>Controlled by</td>
+      <td></td>
+      <td>The entities holding more than 25% of the equity, or effective control of the board or management.</td>
+      </tr>
+      <tr>
+      <td>control_mechanisms</td>
+      <td>Control via</td>
+      <td></td>
+      <td>How the controlling entities exercise control (equity, board seats, voting rights, management contract).</td>
+      </tr>
+      <tr>
+      <td>recent_investments</td>
+      <td>Recent investment</td>
+      <td></td>
+      <td>Major investments since 2021, giving the investor, the year and the amount.</td>
+      </tr>
+      <tr>
+      <td>dfi_involvement</td>
+      <td>DFI involvement</td>
+      <td>None identified, or the DFI and its instrument</td>
+      <td>The development finance institutions financing the facility or its parent, and on what terms.</td>
+      </tr>
+      <tr>
+      <td>investment_usd</td>
+      <td>Investment (USD)</td>
+      <td>Whole US dollars</td>
+      <td>The total capital investment reported for the facility.</td>
+      </tr>
+      <tr>
+      <td>expansion_plans</td>
+      <td>Expansion</td>
+      <td>Under construction; Planned; No plans; Unknown</td>
+      <td>Whether the facility is being expanded.</td>
+      </tr>
+      <tr>
+      <td>key_tenants</td>
+      <td>Key tenants</td>
+      <td></td>
+      <td>Anchor or notable tenants who are publicly confirmed.</td>
+      </tr>
+      <tr>
+      <td>hyperscaler_relationships</td>
+      <td>Hyperscaler links</td>
+      <td></td>
+      <td>Confirmed relationships with AWS, Microsoft Azure or Google Cloud: tenancy, on-ramp, partnership or equity.</td>
+      </tr>
+      <tr>
+      <td>hyperscaler_microsoft</td>
+      <td>Microsoft</td>
+      <td>Yes; No</td>
+      <td>Whether Microsoft or Azure has a confirmed relationship with the facility.</td>
+      </tr>
+      <tr>
+      <td>hyperscaler_aws</td>
+      <td>AWS</td>
+      <td>Yes; No</td>
+      <td>Whether Amazon Web Services has a confirmed relationship with the facility.</td>
+      </tr>
+      <tr>
+      <td>hyperscaler_google</td>
+      <td>Google</td>
+      <td>Yes; No</td>
+      <td>Whether Google has a confirmed relationship with the facility, including through a subsea cable partnership such as Equiano.</td>
+      </tr>
+      <tr>
+      <td>hyperscaler_presence</td>
+      <td>Any hyperscaler</td>
+      <td>Yes; No</td>
+      <td>Whether any of the three hyperscalers has a relationship with the facility.</td>
+      </tr>
+      <tr>
+      <td>cloud_act_exposure</td>
+      <td>CLOUD Act</td>
+      <td>Yes (US-parented operator or hyperscaler on-ramp); Partial (some services exposed); No (fully domestic ownership and stack); Unknown</td>
+      <td>Whether the US CLOUD Act, or similar foreign law, can compel access to data held at the facility.</td>
+      </tr>
+      <tr>
+      <td>chinese_involvement</td>
+      <td>Chinese role</td>
+      <td>Ownership; Investment; Construction/Equipment; None identified</td>
+      <td>The strongest form of Chinese involvement in the facility.</td>
+      </tr>
+      <tr>
+      <td>chinese_entities</td>
+      <td>Chinese entities</td>
+      <td>|-separated</td>
+      <td>The Chinese companies involved.</td>
+      </tr>
+      <tr>
+      <td>foreign_dependency_score</td>
+      <td>Foreign dependency</td>
+      <td>Low; Moderate; High; Insufficient data</td>
+      <td>A composite of how far the facility depends on foreign owners, technology and law.</td>
+      </tr>
+      <tr>
+      <td>open_source_stack</td>
+      <td>Open source</td>
+      <td>Predominantly open source; Mixed open source and proprietary; Predominantly proprietary; Unknown</td>
+      <td>Whether the facility's software stack is mainly open source.</td>
+      </tr>
+      <tr>
+      <td>data_residency_guarantee</td>
+      <td>Data residency</td>
+      <td>Yes, contractual guarantee; Partial (some data classes); No; Unknown</td>
+      <td>Whether the operator guarantees by contract that data stays in the country.</td>
+      </tr>
+      <tr>
+      <td>local_dp_compliance</td>
+      <td>Data protection</td>
+      <td>Certified / audited compliant; Self-declared compliant; No claim; Unknown</td>
+      <td>Whether the operator claims compliance with the country's data protection law.</td>
+      </tr>
+      <tr>
+      <td>total_floor_space_sqm</td>
+      <td>Floor space (m²)</td>
+      <td>Square metres</td>
+      <td>The facility's floor space.</td>
+      </tr>
+      <tr>
+      <td>rack_capacity</td>
+      <td>Racks</td>
+      <td>Racks</td>
+      <td>How many racks the facility can hold.</td>
+      </tr>
+      <tr>
+      <td>it_capacity_mw</td>
+      <td>IT power (MW)</td>
+      <td>Megawatts</td>
+      <td>The power available to IT equipment, not counting cooling and other load.</td>
+      </tr>
+      <tr>
+      <td>submarine_cable_access</td>
+      <td>Subsea cable</td>
+      <td>At or adjacent to cable landing station; Dark fibre connection to landing station; Connected via metro fibre; Landlocked/no submarine cable access; Unknown</td>
+      <td>How the facility reaches a submarine cable landing station.</td>
+      </tr>
+      <tr>
+      <td>ixp_presence</td>
+      <td>IXP</td>
+      <td>IXP hosted on-site; IXP connected (not hosted); No IXP connection; Unknown</td>
+      <td>Whether an internet exchange point is hosted at the facility or connected to it.</td>
+      </tr>
+      <tr>
+      <td>carrier_neutrality</td>
+      <td>Carrier-neutral</td>
+      <td>Fully carrier-neutral; Limited carriers; Single carrier / captive; Unknown</td>
+      <td>Whether tenants can choose their carrier.</td>
+      </tr>
+      <tr>
+      <td>gpu_ai_capability</td>
+      <td>GPU / AI</td>
+      <td>Yes, confirmed GPU/AI infrastructure; Planned; No evidence; Unknown</td>
+      <td>Whether the facility hosts GPU or other AI accelerator infrastructure.</td>
+      </tr>
+      <tr>
+      <td>server_vendors</td>
+      <td>Server vendors</td>
+      <td>; -separated</td>
+      <td>The server vendors whose hardware is deployed at the facility.</td>
+      </tr>
+      <tr>
+      <td>cloud_platform</td>
+      <td>Cloud platform</td>
+      <td></td>
+      <td>The platform the operator uses to deliver cloud services, or any hyperscaler on-ramp it hosts.</td>
+      </tr>
+      <tr>
+      <td>security_certifications</td>
+      <td>Certifications</td>
+      <td>; -separated</td>
+      <td>The current security and management certifications held by the facility or its operator.</td>
+      </tr>
+      <tr>
+      <td>gps_coordinates</td>
+      <td>Coordinates</td>
+      <td>lat, lon (decimal, 4 places)</td>
+      <td>The facility's location.</td>
+      </tr>
+      <tr>
+      <td>control_category</td>
+      <td>Control</td>
+      <td>African control; Joint African/foreign control; US control; Other foreign control</td>
+      <td>Who controls the facility, seen from a sovereignty angle.</td>
+      </tr>
+      <tr>
+      <td>control_confidence</td>
+      <td>Control confidence</td>
+      <td>high; medium; low</td>
+      <td>How far the sources support control_category.</td>
+      </tr>
+      <tr>
+      <td>control_rationale</td>
+      <td>Control rationale</td>
+      <td></td>
+      <td>The reason for control_category, in one line.</td>
+      </tr>
+      <tr>
+      <td>comments</td>
+      <td>Comments</td>
+      <td></td>
+      <td>Context, caveats, conflicting sources and recent changes.</td>
+      </tr>
+      <tr>
+      <td>source_urls</td>
+      <td>Sources</td>
+      <td>; -separated URLs</td>
+      <td>The URLs of every source consulted for the row.</td>
+      </tr>
+      <tr>
+      <td>raw_slugs</td>
+      <td>Catalogue records</td>
+      <td>; -separated catalogue slugs</td>
+      <td>The catalogue records that hold this row's sources.</td>
+      </tr>
+      <tr>
+      <td>last_verified</td>
+      <td>Last verified</td>
+      <td>YYYY-MM-DD</td>
+      <td>The date the row was last checked against its sources.</td>
+      </tr>
+      </tbody>
+      </table>
+      <h2 id="non-state-finance">Non-state finance</h2>
+      <p class="lookup-csv"><a class="btn btn--sm" href="../../metadata/non-state-finance-metadata.csv" download>&darr; CSV</a></p>
+
+      <table>
+      <thead>
+      <tr>
+      <th>Column</th>
+      <th>Definition</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td>recipient_country</td>
+      <td>The ISO 3166-1 alpha-3 code for the country</td>
+      </tr>
+      <tr>
+      <td>start_year</td>
+      <td>The year in which the finance was approved or committed. In some circumstances this may be a planned, rather than actual, start year.</td>
+      </tr>
+      <tr>
+      <td>end_year</td>
+      <td>The year in which the financed activity ended or is due to end</td>
+      </tr>
+      <tr>
+      <td>financier</td>
+      <td>The short or abbreviated name of the institution providing the finance</td>
+      </tr>
+      <tr>
+      <td>sector</td>
+      <td>This is defined by Data Landscaper's own taxonomy which can be found at https:\data-landscapers.io\taxonomy</td>
+      </tr>
+      <tr>
+      <td>instrument</td>
+      <td>The financial instrument such as grant, loan equity.</td>
+      </tr>
+      <tr>
+      <td>commitment_usd_m</td>
+      <td>The committed value of  the finance in millions of US dollars. If the commitment was made in a different currency this is reported in the original amount column and has been converted to USD using IMF annual average rates.</td>
+      </tr>
+      <tr>
+      <td>amount_basis</td>
+      <td>Commitments are used in this table as data on actual disbursements is often missing. There are a few transactions where only a disbursement, rather than commitment, figure is available. This column records this.</td>
+      </tr>
+      <tr>
+      <td>amount_quality</td>
+      <td>Data in this table is collected from a variety of sources, including the press. This column attempts to assess the reliability of the data.</td>
+      </tr>
+      <tr>
+      <td>status</td>
+      <td>Whether the contract is pipeline, approved, active or closed</td>
+      </tr>
+      <tr>
+      <td>title</td>
+      <td>The title of the investment</td>
+      </tr>
+      <tr>
+      <td>description</td>
+      <td>A brief description of the investment</td>
+      </tr>
+      <tr>
+      <td>beneficiary_type</td>
+      <td>e.g. Government, private sector</td>
+      </tr>
+      <tr>
+      <td>recipient_organisation</td>
+      <td>The name of the institution receiving the finance</td>
+      </tr>
+      <tr>
+      <td>original_amount</td>
+      <td>The amount and currency of the legal commitment</td>
+      </tr>
+      <tr>
+      <td>project_id</td>
+      <td>If the financier maintains a public portfolio, this is the Id of their record</td>
+      </tr>
+      <tr>
+      <td>iati_activity_id</td>
+      <td>If the financier publishes their activities to the International Aid Transparency Initiative, this is the unique identifier used in IATI xml data.</td>
+      </tr>
+      <tr>
+      <td>url</td>
+      <td>A public url referencing the source from which the data in this table has been collected.</td>
+      </tr>
+      <tr>
+      <td>financier_slug</td>
+      <td>The financier identifier within the Corpus repository</td>
+      </tr>
+      <tr>
+      <td>record</td>
+      <td>The identifier of the record within the  Corpus repository</td>
+      </tr>
+      </tbody>
+      </table>
+      <h2 id="catalogue">Catalogue</h2>
+      <p class="lookup-csv"><a class="btn btn--sm" href="../../metadata/catalogue-metadata.csv" download>&darr; CSV</a></p>
+
+      <table>
+      <thead>
+      <tr>
+      <th>Column</th>
+      <th>Definition</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td>published</td>
+      <td>The date the document was published</td>
+      </tr>
+      <tr>
+      <td>date_precision</td>
+      <td>Whether the published date is precise to day, month or year</td>
+      </tr>
+      <tr>
+      <td>ingested</td>
+      <td>The date the document was added to Corpus</td>
+      </tr>
+      <tr>
+      <td>title</td>
+      <td>Title of the document</td>
+      </tr>
+      <tr>
+      <td>publisher</td>
+      <td>Publisher</td>
+      </tr>
+      <tr>
+      <td>author</td>
+      <td>Author, where known</td>
+      </tr>
+      <tr>
+      <td>places</td>
+      <td>iso-3 codes for the countries and/or regions covered</td>
+      </tr>
+      <tr>
+      <td>topics</td>
+      <td>Ids for the Corpus taxonomy used to classify documents. The taxonomy is listed at https://corpus.data-landscapers.io/methodology/lookups/#topics</td>
+      </tr>
+      <tr>
+      <td>entities</td>
+      <td>Tag ids for organisations or people regularly referenced in documents</td>
+      </tr>
+      <tr>
+      <td>url</td>
+      <td>The public url of the original document</td>
+      </tr>
+      </tbody>
+      </table>
+    </article>
+
+    <div class="colophon">
+      <strong>About this page</strong>
+      <dl>
+        <dt>Built</dt><dd class="mono">2026-09-21</dd>
+        <dt>Source</dt><dd><code>content/datasets-metadata.md</code> &mdash; the page is that file, converted</dd>
+        <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a></dd>
+      </dl>
+    </div>
+  </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="site-footer__inner">
+      <p class="site-footer__copy"><a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a> 2026 Data Landscapers Ltd &nbsp;·&nbsp; Registered in the UK · Co. No. 16040544</p>
+    </div>
+  </footer>
+
+</div>
+</body>
+</html>

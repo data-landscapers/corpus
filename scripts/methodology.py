@@ -327,8 +327,7 @@ PAGES = [
          strip=True, body="", tables=True,
          description=("The fixed lists behind the corpus: country and region codes, "
                       "the topic taxonomy, the journals, newspapers, financiers "
-                      "and institutions the sweeps search, and what each column of "
-                      "the downloadable tables means.")),
+                      "and institutions the sweeps search.")),
 ]
 
 

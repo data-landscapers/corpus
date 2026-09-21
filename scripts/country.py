@@ -184,7 +184,7 @@ def publish_finance_csvs(iso: str, out_dir: Path, cols: list[str]) -> dict[str, 
     # The table's Metadata button opens the dictionary as a table on the lookups page, which
     # offers the CSV itself; the noscript and colophon links still name the file (Bill, 2026-09-11).
     return {"csv_name": data.name, "fields_name": f"../../metadata/{METADATA_CSV}",
-            "fields_page": "../../methodology/lookups/#non-state-finance-metadata",
+            "fields_page": "../../datasets/metadata/#non-state-finance",
             "csv_edition": edition,
             "artefacts": editions.artefact_meta(f"{iso}-nonstate", edition,
                                                 editions.digest(body))}

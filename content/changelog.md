@@ -1,5 +1,6 @@
 ## 21 September 2026
 
+- The column definitions for every dataset now sit on one Metadata page under Datasets, moved from Methodology's process lookups. Each table's Metadata button goes straight to its own section.
 - A new Datasets section holds the site's downloadable tables, starting with data centres: 306 facilities in 46 countries, each with its operator, its ultimate owner and who controls it. The table is maintained rather than rebuilt, so corrections and new facilities are listed on the page with their sources as they arrive.
 - Each document in an email alert and an alert feed now carries the one-line summary the catalogue shows under its title. A document with a title in Arabic, French or Portuguese now says in English what it is about.
 

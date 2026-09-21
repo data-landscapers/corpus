@@ -42,12 +42,3 @@ A value may carry a qualifying clause after a comma, as in *Movement, regulation
 
 ## Regional institutions
 <!-- table: outputs/vocab/sweep-regional-orgs.csv -->
-
-## Catalogue metadata
-<!-- table: site/metadata/catalogue-metadata.csv -->
-
-## Non-state finance metadata
-<!-- table: site/metadata/non-state-finance-metadata.csv -->
-
-## Data centres metadata
-<!-- table: site/metadata/data-centres-metadata.csv | column, label, type, values, derived, definition -->

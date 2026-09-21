@@ -6,6 +6,12 @@
       -> site/datasets/data-centres/index.html                the Data Centres table
       -> site/datasets/data-centres/data-centres-{edition}.csv   the download, a dated edition (§9)
       -> site/metadata/data-centres-metadata.csv              its field dictionary, undated
+      -> site/datasets/metadata/index.html                    every dataset's field dictionary
+
+**One metadata page for every dataset** *(Bill, 2026-09-21)*. The field dictionaries used to
+sit at the foot of Methodology's process lookups, beside the vocabularies. They describe the
+downloads, so they now live under Datasets, drawn from `content/datasets-metadata.md` by the
+same `lookup_tables` the lookups page uses. Each dataset's Metadata button links its section.
 
 **A dataset here is maintained, not compiled** (documentation/datasets.md). The master in
 `outputs/datasets/{name}/` is edited record by record, and every edit is logged in
@@ -28,6 +34,7 @@ import editions  # noqa: E402  - one implementation of the edition grammar (§9)
 from copy_lib import copy, copy_md  # noqa: E402
 import structured_data  # noqa: E402
 from chrome_lib import chrome, external_links, feedback, foot, ga, script, styles  # noqa: E402
+import methodology  # noqa: E402  - the table directive and the page shell, one copy
 
 CORPUS = Path(__file__).resolve().parent.parent
 SITE = CORPUS / "site"
@@ -168,7 +175,7 @@ DC_PAGE = """<!DOCTYPE html>
         <span class="dt-title">Africa &mdash; data centres</span>
         <span class="dt-count">{facilities} rows</span>
         <a class="btn btn--sm" href="{csv_name}" download>&darr; CSV</a>
-        <a class="btn btn--sm" href="../../metadata/{metadata}" download>Metadata</a>
+        <a class="btn btn--sm" href="../metadata/#data-centres">Metadata</a>
       </div>
       <noscript>
         <p>The table is drawn in the browser from <a href="{csv_name}">{csv_name}</a>. With JavaScript off, download that file. It holds the same data, every row and every field.</p>
@@ -181,7 +188,7 @@ DC_PAGE = """<!DOCTYPE html>
         <dt>Built</dt><dd class="mono">{built}</dd>
         <dt>Edition</dt><dd class="mono">{edition}</dd>
         <dt>This file</dt><dd><a href="{csv_name}">{csv_name}</a> &mdash; a dated edition, kept as published and never revised</dd>
-        <dt>Fields</dt><dd><a href="../../metadata/{metadata}">{metadata}</a> &mdash; what each column means, its allowed values, and how the derived columns are worked out</dd>
+        <dt>Fields</dt><dd><a href="../metadata/#data-centres">What each column means</a>, its allowed values, and how the derived columns are worked out &mdash; also as <a href="../../metadata/{metadata}">{metadata}</a></dd>
         <dt>Changes</dt><dd>Every addition and correction is logged, with its sources. The latest are below</dd>
         <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></dd>
       </dl>
@@ -240,6 +247,9 @@ INDEX_PAGE = """<!DOCTYPE html>
     <h2 class="section-heading"><a href="../catalogue/">Catalogue</a></h2>
 {catalogue}
 
+    <h2 class="section-heading"><a href="metadata/">Metadata</a></h2>
+{metadata}
+
   </div>
   </main>
 
@@ -266,12 +276,34 @@ def dc_dataset(rows, csv_name, edition, n_countries) -> str:
         extra_keywords=("Data centres", "Digital infrastructure", "Data sovereignty"))
 
 
+def build_metadata() -> None:
+    """`/datasets/metadata/`: each field dictionary as a table with its CSV, through Methodology's
+    page shell so the tables look the same wherever the site prints one."""
+    src = CORPUS / "content" / "datasets-metadata.md"
+    out = OUT / "metadata"
+    out.mkdir(parents=True, exist_ok=True)
+    text = methodology.lookup_tables(src.read_text(encoding="utf-8"), out)
+    canonical = f"{SITE_BASE}/datasets/metadata/"
+    (out / "index.html").write_text(external_links(methodology.PAGE.format(
+        feedback=feedback("Datasets — metadata", canonical),
+        h1="Metadata", title="Datasets — metadata",
+        description="What each column in the Data Landscapers datasets means: data centres, "
+                    "non-state finance and the catalogue.",
+        canonical=canonical, base=SITE_BASE, main=MAIN_SITE, body_class="",
+        chrome=chrome("datasets", depth=2), foot=foot(depth=2),
+        styles=styles(2, "methodology.css"), ga=ga(),
+        body=methodology.indent(methodology.contents_strip(src) + methodology.convert(src, text)),
+        source=src.relative_to(CORPUS).as_posix(), built=date.today().isoformat(),
+    )), encoding="utf-8")
+
+
 def main() -> int:
     rows = dl.read(NAME)
     names = country_names()
     out = OUT / NAME
     out.mkdir(parents=True, exist_ok=True)
     publish_metadata(NAME)
+    build_metadata()
 
     # Published before the page, which links it by name (finance.py sets out why, and why LF).
     body = dl.master_path(NAME).read_bytes().replace(b"\r\n", b"\n")
@@ -308,6 +340,7 @@ def main() -> int:
         dc=indent(copy("datasets", "index-data-centres")),
         finance=indent(copy("datasets", "index-finance")),
         catalogue=indent(copy("datasets", "index-catalogue")),
+        metadata=indent(copy("datasets", "index-metadata")),
         edition=edition, **counts)), encoding="utf-8")
     print(f"datasets: {NAME} {len(rows)} rows, edition {edition} -> site/datasets/")
     return 0

@@ -24,6 +24,10 @@ Money committed to Africa's digital sector by donors, development finance instit
 
 Every source in the repository, with its date, publisher, places and topics.
 
+## index-metadata
+
+What each column in each dataset means, with its allowed values.
+
 ## data-centres-intro
 
 One row per facility, whether operational, under construction or planned. For each one the table records the operator, the ownership chain up to the ultimate parent, and who controls the facility: African, US, other foreign, or joint.

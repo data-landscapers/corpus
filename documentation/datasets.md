@@ -18,7 +18,7 @@ A new top-level nav item, **Datasets**, between Finance and Catalogue in `script
 | File | What it holds |
 |---|---|
 | `data-centres.csv` | The master: one row per facility. |
-| `metadata.csv` | The schema. It moves from `lookups/` because it describes this dataset and nothing else, and it is rewritten (T1). |
+| `metadata.csv` | The schema. It moves from `lookups/` because it describes this dataset and nothing else, and it is rewritten (T1). Published as `site/metadata/data-centres-metadata.csv` and shown at `/datasets/metadata/`, the one page holding every dataset's field dictionary (Bill, 2026-09-21; drawn from `content/datasets-metadata.md`). |
 | `url-audit.csv` | One row per (facility, URL): the HTTP result, the final URL, the catalogue slug if there is one, the fields the URL supports, and the date checked. The validation passes resume from this file. |
 | `considered.txt` | Every raw slug already read for this dataset. Works like `reports/{unit}/considered.txt`: a set difference, so a slug is never read twice. |
 
