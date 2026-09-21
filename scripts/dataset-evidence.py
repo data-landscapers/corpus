@@ -565,7 +565,9 @@ def refetch():
         hit = got.get(a["url"])
         if hit and "via Exa" not in a["note"]:
             name = hashlib.sha1(a["url"].encode("utf-8")).hexdigest() + ".txt"
-            (CACHE / name).write_text(f"url: {a['url']}\nsource: exa\ntitle: {hit[0]}\n\n{hit[1]}",
+            # source is the page's own URL, as for a direct fetch: the stager writes it as the
+            # body's URL line, and "exa" there misfiled 15 staged documents (2026-09-21).
+            (CACHE / name).write_text(f"url: {a['url']}\nsource: {a['url']}\ntitle: {hit[0]}\n\n{hit[1]}",
                                       encoding="utf-8")
             a["cached"] = name
             a["note"] = "; ".join(x for x in (a["note"], "text via Exa") if x)
