@@ -151,7 +151,10 @@ python scripts/build-title-index.py --stats           # the same for the title s
 
 ```bash
 python scripts/finance.py         # -> site/finance/index.html + all-nonstate-{edition}.csv
+python scripts/datasets.py        # -> site/datasets/ + data-centres-{edition}.csv
 ```
+
+The Datasets pages publish maintained tables (`documentation/datasets.md`): an edition is cut only when a master under `outputs/datasets/` has changed.
 
 ## The prose
 

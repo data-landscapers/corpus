@@ -63,6 +63,8 @@ NAV = [
     # every page beneath it resolved.
     ("Topics", f"{SITE_BASE}/topics/"),
     ("Finance", f"{SITE_BASE}/finance/"),
+    # Since 2026-09-21 (Bill): maintained tables, Data Centres first (documentation/datasets.md).
+    ("Datasets", f"{SITE_BASE}/datasets/"),
     ("Catalogue", f"{SITE_BASE}/catalogue/"),
     # Renamed from "Method" at /method/ on 2026-08-27 (Bill); /method/ keeps a
     # redirect stub because it sat in every published page's baked chrome.

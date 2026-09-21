@@ -48,3 +48,6 @@ A value may carry a qualifying clause after a comma, as in *Movement, regulation
 
 ## Non-state finance metadata
 <!-- table: site/metadata/non-state-finance-metadata.csv -->
+
+## Data centres metadata
+<!-- table: site/metadata/data-centres-metadata.csv | column, label, type, values, derived, definition -->

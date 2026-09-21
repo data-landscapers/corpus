@@ -273,7 +273,7 @@ def merge_groups(disk: dict, bucket_groups: dict) -> dict:
     return out
 
 
-def editions_in_bucket(bucket, prefixes=("reports/", "topics/", "countries/", "finance/")) -> dict:
+def editions_in_bucket(bucket, prefixes=("reports/", "topics/", "countries/", "finance/", "datasets/")) -> dict:
     """Every dated edition in R2, grouped exactly as `editions_on_disk` groups the tree.
 
     Only the trees that hold editions are listed. `catalogue/names/` is in the same bucket and is
