@@ -1337,3 +1337,316 @@ NGA-030,parent_company,Cassava Technologies,"a LinkedIn post cited by NGA-028 re
 NGA-030,carrier_neutrality,Fully carrier-neutral,Cassava calls its data centres carrier-neutral; nothing specific to this planned site,2026-09-21
 NGA-030,services_offered,Disaster recovery; Colocation,disaster recovery is sourced; colocation is not,2026-09-21
 NGA-030,gps_coordinates,"9.0579, 7.4951",the Abuja location is not disclosed; the coordinates are a city placeholder,2026-09-21
+ZAF-001,year_operational,2008,Teraco was founded in 2008; no cited source dates JB1's opening,2026-09-21
+ZAF-001,total_floor_space_sqm,45000,"no source gives JB1's area; Channelwise's Isando total (125,000 m2 structure) less JB5's 55,000 leaves 70,000 for JB1 and JB3 together",2026-09-21
+ZAF-001,rack_capacity,2000,no source gives JB1's rack count,2026-09-21
+ZAF-001,security_certifications,ISO 27001; ISO 9001; ISO 14001; ISO 50001; PCI-DSS; ISAE 3402 Type 2,"Teraco's releases list the portfolio's certifications (ISO 9001/27001/50001/14001/45001, PCI-DSS, ISAE 3402) without saying which facility holds which, or the ISAE report type",2026-09-21
+ZAF-001,ixp_presence,IXP hosted on-site,NAPAfrica peering is offered on the Isando campus; no cited source says which building hosts the exchange,2026-09-21
+ZAF-002,year_operational,2020,no cited source dates JB3's opening or a 2020 phase 1,2026-09-21
+ZAF-002,rack_capacity,6000,no source gives JB3's rack count,2026-09-21
+ZAF-002,security_certifications,ISO 27001; ISO 9001; ISO 14001; ISO 50001; PCI-DSS; ISAE 3402 Type 2,"Teraco's releases list the portfolio's certifications (ISO 9001/27001/50001/14001/45001, PCI-DSS, ISAE 3402) without saying which facility holds which, or the ISAE report type",2026-09-21
+ZAF-002,ixp_presence,IXP hosted on-site,NAPAfrica peering is offered on the Isando campus; no cited source says which building hosts the exchange,2026-09-21
+ZAF-003,rack_capacity,3600,no source gives JB5's rack count,2026-09-21
+ZAF-003,security_certifications,ISO 27001; ISO 9001; ISO 14001; ISO 50001; PCI-DSS; ISAE 3402 Type 2,"Teraco's releases list the portfolio's certifications (ISO 9001/27001/50001/14001/45001, PCI-DSS, ISAE 3402) without saying which facility holds which, or the ISAE report type",2026-09-21
+ZAF-003,ixp_presence,IXP hosted on-site,NAPAfrica peering is offered on the Isando campus; no cited source says which building hosts the exchange,2026-09-21
+ZAF-004,investment_usd,877000000,no source gives JB7's cost; the R8bn syndicated loan funds JB7 and other projects,2026-09-21
+ZAF-004,rack_capacity,4800,no source gives JB7's planned rack count,2026-09-21
+ZAF-004,ixp_presence,IXP hosted on-site,NAPAfrica peering is offered on the Isando campus; JB7 is not yet open,2026-09-21
+ZAF-004,operational_status,Under construction,"newest source (DCD, June 2025) has JB7 due in 2026; completion not yet reported",2026-09-21
+ZAF-005,year_operational,2014,no cited source dates JB2's opening,2026-09-21
+ZAF-005,rack_capacity,1800,no source gives JB2's rack count,2026-09-21
+ZAF-005,security_certifications,ISO 27001; ISO 9001; ISO 14001; ISO 50001; PCI-DSS; ISAE 3402 Type 2,"Teraco's releases list the portfolio's certifications (ISO 9001/27001/50001/14001/45001, PCI-DSS, ISAE 3402) without saying which facility holds which, or the ISAE report type",2026-09-21
+ZAF-005,ixp_presence,IXP hosted on-site,Teraco offers NAPAfrica peering; no source says the exchange is hosted at Bredell rather than reached from Isando,2026-09-21
+ZAF-006,year_operational,2022,no cited source dates JB4's first opening,2026-09-21
+ZAF-006,rack_capacity,3400,no source gives JB4's rack count,2026-09-21
+ZAF-006,security_certifications,ISO 27001; ISO 9001; ISO 14001; ISO 50001; PCI-DSS; ISAE 3402 Type 2,"Teraco's releases list the portfolio's certifications (ISO 9001/27001/50001/14001/45001, PCI-DSS, ISAE 3402) without saying which facility holds which, or the ISAE report type",2026-09-21
+ZAF-006,ixp_presence,IXP hosted on-site,JB4 offers NAPAfrica peering and has fibre to the Isando hub; no source says the exchange is hosted at Bredell,2026-09-21
+ZAF-006,gpu_ai_capability,Unknown,"halls are liquid-to-liquid cooling enabled for AI workloads (Teraco, Aug 2025); a GPU deployment would make this Yes",2026-09-21
+ZAF-007,year_operational,2013,no cited source dates CT1's opening,2026-09-21
+ZAF-007,rack_capacity,500,no source gives CT1's rack count,2026-09-21
+ZAF-007,security_certifications,ISO 27001; ISO 9001; ISO 14001; ISO 50001; PCI-DSS; ISAE 3402 Type 2,"Teraco's releases list the portfolio's certifications (ISO 9001/27001/50001/14001/45001, PCI-DSS, ISAE 3402) without saying which facility holds which, or the ISAE report type",2026-09-21
+ZAF-007,submarine_cable_access,Dark fibre connection to landing station,Teraco says the Cape Town campus reaches every Cape cable; no source says by dark fibre,2026-09-21
+ZAF-007,expansion_plans,Unknown,the comments say a CT1 expansion was announced in late 2025; no source found,2026-09-21
+ZAF-008,year_operational,2020,no cited source dates CT2's first opening,2026-09-21
+ZAF-008,rack_capacity,3500,no source gives CT2's rack count,2026-09-21
+ZAF-008,submarine_cable_access,Dark fibre connection to landing station,Teraco says the Cape Town campus reaches every Cape cable; no source says by dark fibre,2026-09-21
+ZAF-008,ixp_presence,IXP hosted on-site,CT2 offers NAPAfrica peering; no source says the exchange is hosted in CT2 rather than CT1,2026-09-21
+ZAF-008,gpu_ai_capability,Unknown,"designed for liquid-to-liquid cooling and AI training clusters (Teraco, Nov 2025); a GPU deployment would make this Yes",2026-09-21
+ZAF-009,security_certifications,ISO 27001; ISO 9001; ISO 14001; ISO 50001; PCI-DSS; ISAE 3402 Type 2,"Teraco's releases list the portfolio's certifications (ISO 9001/27001/50001/14001/45001, PCI-DSS, ISAE 3402) without saying which facility holds which, or the ISAE report type",2026-09-21
+ZAF-009,submarine_cable_access,Connected via metro fibre,"Teraco says DB1 has direct access to Seacom, EASSy, METISS and 2Africa; no source says how it reaches the landing stations",2026-09-21
+ZAF-010,year_operational,,the facility ran under Neotel before Liquid bought it in February 2017; its opening year is not sourced,2026-09-21
+ZAF-010,rack_capacity,1800,"1,800 racks is plausible but no readable source gives it",2026-09-21
+ZAF-010,submarine_cable_access,Connected via metro fibre,"metro fibre to the landing stations is plausible for Midrand, but no source describes the route",2026-09-21
+ZAF-010,controlling_entities,"Strive Masiyiwa (Founder/Exec Chairman, Zimbabwean); Econet Group [Leadership](https://www.cassavatechnologies.com/executive-leadership/)","no source states Masiyiwa's or Econet's stake in Cassava; control is the founder's role, not a disclosed shareholding",2026-09-21
+ZAF-010,gpu_ai_capability,Planned,"which South African ADC facility hosts Cassava's NVIDIA deployment, and whether it is live",2026-09-21
+ZAF-010,govt_data_hosted,Unknown,old value said government data is hosted; no ministry or agency was named,2026-09-21
+ZAF-010,expansion_plans,Under construction,Channelwise says Midrand and Samrand are expanding toward 100MW combined; whether Midrand works are under way is not stated,2026-09-21
+ZAF-011,it_capacity_mw,10,10MW is Channelwise's figure (cited on ZAF-010); this row's sources give only 35MW at completion,2026-09-21
+ZAF-011,rack_capacity,1200,"1,200 racks is plausible but no readable source gives it",2026-09-21
+ZAF-011,submarine_cable_access,Connected via metro fibre,"the Samrand page mentions dark fibre to major hubs, not the route to a landing station",2026-09-21
+ZAF-011,ixp_presence,Unknown,the old value and comments put JINX on-site at Samrand,2026-09-21
+ZAF-011,controlling_entities,"Strive Masiyiwa (Founder/Exec Chairman, Zimbabwean); Econet Group [Leadership](https://www.cassavatechnologies.com/executive-leadership/)","no source states Masiyiwa's or Econet's stake in Cassava; control is the founder's role, not a disclosed shareholding",2026-09-21
+ZAF-011,gpu_ai_capability,Planned,"which South African ADC facility hosts Cassava's NVIDIA deployment, and whether it is live",2026-09-21
+ZAF-011,govt_data_hosted,Unknown,old value said government data is hosted; no ministry or agency was named,2026-09-21
+ZAF-011,key_tenants,,"the old value named 'two major South African banks'; Standard Bank, the seller, may remain a tenant",2026-09-21
+ZAF-012,year_operational,2017,"2017 is when Liquid bought the site with Neotel (ADC release cited on ZAF-010); the facility is older, its opening year unsourced",2026-09-21
+ZAF-012,total_floor_space_sqm,6000,"6,000 m² is not in any source; the comments give 3,600 m² white space",2026-09-21
+ZAF-012,rack_capacity,1800,"1,800 racks is plausible (1,000 were added in 2024) but no source gives the total",2026-09-21
+ZAF-012,submarine_cable_access,Dark fibre connection to landing station,"ADC says the site is a stone's throw from the landing stations, not that it has dark fibre to one",2026-09-21
+ZAF-012,security_certifications,ISO 27001; PCI-DSS,ADC's 2017 release (cited on ZAF-010) gives ISO 27001 and PCI DSS for SADC Cape Town; none of this row's sources does,2026-09-21
+ZAF-012,govt_data_hosted,Hosts government data alongside commercial,ADC's CPT2 groundbreaking release (cited on ZAF-013) says its first Cape Town facility houses government alongside enterprises,2026-09-21
+ZAF-012,hyperscaler_relationships,Google: equity in parent Cassava Technologies ($90M round with DFC and Finnfund) [DFC](https://www.dfc.gov/media/press-releases/cassava-technologies-receives-90-million-equity-investment-expanding-digital). No AWS or Microsoft relationship identified at this facility.,"ADC's 2017 release (cited on ZAF-010) offered Azure ExpressRoute through Liquid's CloudConnect at SADC Cape Town, which this row appears to be",2026-09-21
+ZAF-012,services_offered,Colocation; carrier-neutral; IXP access; cloud on-ramps,cloud on-ramps are not advertised in this row's sources,2026-09-21
+ZAF-012,controlling_entities,"Strive Masiyiwa (Founder/Exec Chairman, Zimbabwean); Econet Group [Leadership](https://www.cassavatechnologies.com/executive-leadership/)","no source states Masiyiwa's or Econet's stake in Cassava; control is the founder's role, not a disclosed shareholding",2026-09-21
+ZAF-012,gpu_ai_capability,Planned,"which South African ADC facility hosts Cassava's NVIDIA deployment, and whether it is live",2026-09-21
+ZAF-013,year_operational,2026,ADC's groundbreaking release targeted mid-2024; Outsource Accelerator (late 2024) still has it under construction; 2026 is unsourced,2026-09-21
+ZAF-013,city,Cape Town (Brackenfell/North),sources place CPT2 in the north of Cape Town; Brackenfell is not named,2026-09-21
+ZAF-013,rack_capacity,2500,"2,500 racks is not in any source",2026-09-21
+ZAF-013,submarine_cable_access,Dark fibre connection to landing station,"ADC says the site is within easy reach of the landing stations, not that it has dark fibre to one",2026-09-21
+ZAF-013,carrier_neutrality,Fully carrier-neutral,ADC's network is carrier-neutral by its own account; nothing yet describes CPT2's carriers,2026-09-21
+ZAF-013,services_offered,Colocation; hyperscale; carrier-neutral; cloud on-ramps,a facility under construction advertises no services yet; the list is ADC's standard offer,2026-09-21
+ZAF-013,controlling_entities,"Strive Masiyiwa (Founder/Exec Chairman, Zimbabwean); Econet Group [Leadership](https://www.cassavatechnologies.com/executive-leadership/)","no source states Masiyiwa's or Econet's stake in Cassava; control is the founder's role, not a disclosed shareholding",2026-09-21
+ZAF-013,comments,"CPT2 under construction in Cape Town north. 20MW IT load; 12,000 sqm white space (ADC groundbreaking release). Modular design. Part of $300M DFC loan. Completion expected 2026.. [Cassava Official](https://www.cassavatechnologies.com/), [DFC Press](https://www.dfc.gov/media/press-releases/cassava-technologies-receives-90-million-equity-investment-expanding-digital), [Investor News](https://www.cassavatechnologies.com/cassava-technologies-secures-investment-to-accelerate-growth/)","the DFC $300M loan is sourced to CPT1's expansion (ZAF-012), not to CPT2",2026-09-21
+ZAF-014,rack_capacity,1200,"1,200 racks is plausible but no readable source gives it",2026-09-21
+ZAF-014,submarine_cable_access,Connected via metro fibre,"metro fibre is plausible for Samrand, but no source describes the route",2026-09-21
+ZAF-014,security_certifications,SOC 2; NTT Nexcenter certification,SOC 2 and an NTT certification are not in any readable source,2026-09-21
+ZAF-014,ixp_presence,Unknown,the comments name JNIX on-site,2026-09-21
+ZAF-014,year_operational,2022,DCD's OADC article says JOH1's first phase opened in 2021; NTT's release dates the opening 26 October 2022,2026-09-21
+ZAF-015,control_mechanisms,Holding structure in Mauritius; board control by major shareholders; CEO Chris Wood [Wikipedia](https://en.wikipedia.org/wiki/West_Indian_Ocean_Cable_Company),board control by major shareholders is plausible but no source describes WIOCC's board,2026-09-21
+ZAF-015,security_certifications,ISO 27001,ISO 27001 is not in any readable source,2026-09-21
+ZAF-015,year_operational,2010,"2010 is when NTT bought Dimension Data, not a sourced opening year",2026-09-21
+ZAF-015,total_floor_space_sqm,3000,"3,000 m² is not in any readable source",2026-09-21
+ZAF-015,rack_capacity,600,600 racks is not in any readable source,2026-09-21
+ZAF-015,it_capacity_mw,6,6MW (comments: site load) is not in any readable source,2026-09-21
+ZAF-015,submarine_cable_access,Connected via metro fibre,"metro fibre is plausible for Rosebank, but no source describes the route",2026-09-21
+ZAF-015,ixp_presence,Unknown,the old value put an IXP on-site; none was named,2026-09-21
+ZAF-015,comments,Acquired from NTT DATA SA Dec 2025 (leaseback). Formerly Internet Solutions Parklands. 6MW site load; 11kV power. 7-level access control; 24/7 monitoring.. [Research summary](workspace://wiocc_kenya_oadc_research.md) [wiocc.net](https://wiocc.net) [IFC disclosures](https://disclosures.ifc.org/project-detail/SII/38381/wiocc-investment),no source gives the December 2025 completion or a leaseback to NTT; OADC now markets the site as JNB3,2026-09-21
+ZAF-016,control_mechanisms,Holding structure in Mauritius; board control by major shareholders; CEO Chris Wood [Wikipedia](https://en.wikipedia.org/wiki/West_Indian_Ocean_Cable_Company),board control by major shareholders is plausible but no source describes WIOCC's board,2026-09-21
+ZAF-016,security_certifications,ISO 27001,ISO 27001 is not in any readable source,2026-09-21
+ZAF-016,year_operational,2012,2012 is not in any readable source,2026-09-21
+ZAF-016,submarine_cable_access,Connected via metro fibre,"metro fibre is plausible for Bryanston, but no source describes the route",2026-09-21
+ZAF-016,ixp_presence,Unknown,the old value put an IXP on-site; none was named,2026-09-21
+ZAF-017,control_mechanisms,Holding structure in Mauritius; board control by major shareholders; CEO Chris Wood [Wikipedia](https://en.wikipedia.org/wiki/West_Indian_Ocean_Cable_Company),board control by major shareholders is plausible but no source describes WIOCC's board,2026-09-21
+ZAF-017,security_certifications,ISO 27001,ISO 27001 is not in any readable source,2026-09-21
+ZAF-017,year_operational,2018,"2018 predates OADC's founding in 2021 (DCD); if OADC built Isando, the year is wrong, if it bought it, the seller is unnamed",2026-09-21
+ZAF-017,rack_capacity,800,800 racks is not in any readable source,2026-09-21
+ZAF-017,submarine_cable_access,Connected via metro fibre,"metro fibre is plausible for Isando, but no source describes the route",2026-09-21
+ZAF-017,ixp_presence,Unknown,"Datacentermap lists 10 peering networks, not an exchange",2026-09-21
+ZAF-017,expansion_plans,Unknown,"the comments give a phase 2 (4MW, 600 racks) completed in Q1 2024",2026-09-21
+ZAF-018,control_mechanisms,Holding structure in Mauritius; board control by major shareholders; CEO Chris Wood [Wikipedia](https://en.wikipedia.org/wiki/West_Indian_Ocean_Cable_Company),board control by major shareholders is plausible but no source describes WIOCC's board,2026-09-21
+ZAF-018,security_certifications,ISO 27001,ISO 27001 is not in any readable source,2026-09-21
+ZAF-018,facility_name,OADC Cape Town/Rondebosch (ex-NTT/IS),"Datacentermap lists OADC Cape Town (34 Bree Street) and OADC Rondebosch (Belmont Office Park) as separate facilities, and OADC Brackenfell besides; this row conflates Bree Street and Rondebosch, and which one is the ex-NTT site is unsourced (T8: does Bree Street need its own row)",2026-09-21
+ZAF-018,year_operational,2008,2008 is not in any readable source,2026-09-21
+ZAF-018,submarine_cable_access,Dark fibre connection to landing station,"dark fibre to a landing station is plausible in Cape Town, but no source describes it",2026-09-21
+ZAF-018,ixp_presence,Unknown,the old value and services name INX-ZA access; no source puts an exchange at Rondebosch,2026-09-21
+ZAF-018,services_offered,Colocation; carrier-neutral; regional hub; INX-ZA access,INX-ZA access and 'regional hub' are not in any readable source,2026-09-21
+ZAF-019,year_operational,2005,2005 is plausible for an ex-Dimension Data/NTT site but no source gives the opening year,2026-09-21
+ZAF-019,security_certifications,ISO 27001,ISO 27001 is not in any readable source,2026-09-21
+ZAF-019,submarine_cable_access,Connected via metro fibre,no source describes the route to a landing station,2026-09-21
+ZAF-019,key_tenants,,comments say NTT DATA stays as primary tenant under a leaseback; no source states it,2026-09-21
+ZAF-019,gps_coordinates,"-29.7235, 31.0758","3 Sugar Close, Umhlanga is in comments only; no source gives the address",2026-09-21
+ZAF-020,year_operational,2021,Verdant (2021) gives an early-2022 launch target; no source confirms 2021,2026-09-21
+ZAF-020,rack_capacity,550,550 racks is in no readable source,2026-09-21
+ZAF-020,it_capacity_mw,4,4MW is in no readable source; OCOLO gives only floor space,2026-09-21
+ZAF-020,security_certifications,ISO 27001,ISO 27001 is not in any readable source,2026-09-21
+ZAF-020,expansion_plans,Unknown,the row said under construction; Ninety One's 2025 loan funds a new South African site and existing ones without naming DUR1,2026-09-21
+ZAF-020,operational_status,Operational,OCOLO's listing is undated; no dated source confirms the site is running,2026-09-21
+ZAF-021,year_operational,2020,2020 predates OADC (founded 2021); no source says who built the site or when,2026-09-21
+ZAF-021,submarine_cable_access,Dark fibre connection to landing station,dark fibre to a landing station is in no readable source,2026-09-21
+ZAF-021,security_certifications,ISO 27001,ISO 27001 is not in any readable source,2026-09-21
+ZAF-021,operational_status,Operational,Datacentermap lists the facility but is undated; no dated source confirms it is running,2026-09-21
+ZAF-021,facility_name,OADC Brackenfell (Cape Town),"Datacentermap lists three OADC Cape Town sites (Bree Street, Brackenfell, Rondebosch) and NTT's Cape Town site passed to OADC in 2025; T8 to check whether that is one of them",2026-09-21
+ZAF-022,major_shareholders,"Vanguard Group (13.64%), BlackRock (10.99%), State Street (6.32%), FMR LLC (2.86%), Cohen & Steers (2.66%) [Yahoo Finance](https://finance.yahoo.com/quote/EQIX/holders/)",the Yahoo holders page returned no figures; the stakes need a current filing,2026-09-21
+ZAF-022,year_operational,2024,the 2022 release expected mid-2024; no source confirms the opening year,2026-09-21
+ZAF-022,services_offered,Colocation; interconnection; cloud on-ramps; Platform Equinix,cloud on-ramps at JN1 are in no readable source,2026-09-21
+ZAF-022,carrier_neutrality,Fully carrier-neutral,"Equinix's stated African strategy is carrier-neutral, but no source states it for JN1",2026-09-21
+ZAF-022,submarine_cable_access,Connected via metro fibre,no source describes the route to a landing station,2026-09-21
+ZAF-022,gps_coordinates,"-26.2029, 28.1680","almost identical to ZAF-024 Vantage JNB2 (-26.2031, 28.1682); one may be copied from the other",2026-09-21
+ZAF-022,city,Johannesburg (Germiston),"308 Brollo Road, Germiston is in comments only; no source gives the address",2026-09-21
+ZAF-023,total_floor_space_sqm,12000,"12,000 sqm is in no readable source; the campus is 60,000 sqm and the Phase II building 10,363 sqm",2026-09-21
+ZAF-023,rack_capacity,1200,"1,200 racks is in no readable source",2026-09-21
+ZAF-023,security_certifications,ISO 27001,ISO 27001 is not in any readable source,2026-09-21
+ZAF-023,submarine_cable_access,Connected via metro fibre,no source describes the route to a landing station,2026-09-21
+ZAF-023,ultimate_parent_company,"DigitalBridge Group, Inc. and Silver Lake (managed investment vehicles)","check whether DigitalBridge itself has changed hands since 2024; the campus sits in Vantage's EMEA platform, whose immediate parent and registration no source gives",2026-09-21
+ZAF-023,expansion_plans,Under construction,DCD (2025) expected Phase II complete by Q1 2026; T9 to check whether it has opened,2026-09-21
+ZAF-024,operational_status,Operational,"Vantage's page, undated, says the first building 'will be operational in mid-2024'; no source confirms it opened",2026-09-21
+ZAF-024,year_operational,2024,"mid-2024 is the stated target, not a confirmed opening",2026-09-21
+ZAF-024,rack_capacity,2000,"2,000 racks is in no readable source",2026-09-21
+ZAF-024,it_capacity_mw,20,20MW is in no readable source; the page gives a 35MVA substation,2026-09-21
+ZAF-024,security_certifications,ISO 27001,ISO 27001 is not in any readable source,2026-09-21
+ZAF-024,submarine_cable_access,Connected via metro fibre,the page gives dark and lit fibre into the site but no route to a landing station,2026-09-21
+ZAF-024,ixp_presence,Unknown,NAPAfrica is under 2km away; check whether JNB2 connects to it,2026-09-21
+ZAF-024,gps_coordinates,"-26.2031, 28.1682","almost identical to ZAF-022 Equinix JN1 (-26.2029, 28.1680); one may be copied from the other",2026-09-21
+ZAF-024,ultimate_parent_company,"DigitalBridge Group, Inc. and Silver Lake (managed investment vehicles)","check whether DigitalBridge itself has changed hands since 2024; the campus sits in Vantage's EMEA platform, whose immediate parent and registration no source gives",2026-09-21
+ZAF-025,year_operational,2004,"Telkom's slide gives the Uptime certification year, not the opening year",2026-09-21
+ZAF-025,security_certifications,ISO 27001; Tier IV certified,ISO 27001 is in no readable source; the Tier rating is from Telkom's 2023 slide,2026-09-21
+ZAF-025,carrier_neutrality,Limited carriers,"a Telkom-group site, so limited carriers is plausible; no source states it",2026-09-21
+ZAF-025,govt_data_hosted,Unknown,the row claimed government departments as tenants; BCX's government contracts need a source naming this facility,2026-09-21
+ZAF-025,recent_investments,"Alibaba Cloud placed a Johannesburg availability zone of its Africa Local Public Cloud in BCX's Midrand data centre (launched Oct 2023). Group level: BCX launched Alibaba Cloud ALP services from a BCX data centre in Maputo, Mozambique (2024)",Telkom's 2025 sale of Swiftnet towers (about US$370M) has no source in the row,2026-09-21
+ZAF-025,key_tenants,Alibaba Cloud (ALP Johannesburg availability zone at BCX's Midrand data centre; the source does not say NDC1 or NDC2),DCD places Alibaba's zone in 'BCX's Midrand-based data centre' without saying NDC1 or NDC2,2026-09-21
+ZAF-026,year_operational,2006,"Telkom's slide gives the Uptime certification year, not the opening year",2026-09-21
+ZAF-026,security_certifications,ISO 27001; Tier IV certified,ISO 27001 is in no readable source; the Tier rating is from Telkom's 2023 slide,2026-09-21
+ZAF-026,carrier_neutrality,Limited carriers,"a Telkom-group site, so limited carriers is plausible; no source states it",2026-09-21
+ZAF-026,govt_data_hosted,Unknown,the row claimed government departments as tenants; BCX's government contracts need a source naming this facility,2026-09-21
+ZAF-026,recent_investments,"Alibaba Cloud placed a Johannesburg availability zone of its Africa Local Public Cloud in BCX's Midrand data centre (launched Oct 2023). Group level: BCX launched Alibaba Cloud ALP services from a BCX data centre in Maputo, Mozambique (2024)",Telkom's 2025 sale of Swiftnet towers (about US$370M) has no source in the row,2026-09-21
+ZAF-026,key_tenants,Alibaba Cloud (ALP Johannesburg availability zone at BCX's Midrand data centre; the source does not say NDC1 or NDC2),DCD places Alibaba's zone in 'BCX's Midrand-based data centre' without saying NDC1 or NDC2,2026-09-21
+ZAF-027,year_operational,2002,"Telkom's slide gives the Uptime certification year, not the opening year",2026-09-21
+ZAF-027,security_certifications,ISO 27001; Tier III certified,ISO 27001 is in no readable source; the Tier rating is from Telkom's 2023 slide,2026-09-21
+ZAF-027,carrier_neutrality,Limited carriers,"a Telkom-group site, so limited carriers is plausible; no source states it",2026-09-21
+ZAF-027,govt_data_hosted,Unknown,the row claimed government departments as tenants; BCX's government contracts need a source naming this facility,2026-09-21
+ZAF-027,recent_investments,"None identified for the facility. Group level: BCX launched Alibaba Cloud ALP services from a BCX data centre in Maputo, Mozambique (2024)",Telkom's 2025 sale of Swiftnet towers (about US$370M) has no source in the row,2026-09-21
+ZAF-027,facility_name,BCX Centurion HUB DC,"Telkom's slide also lists a separate Centurion NEXUS DC (2,650 m², 742 racks, 1.8 MW); T8 to check it has its own row",2026-09-21
+ZAF-028,security_certifications,ISO 27001; Tier III compliant,"ISO 27001 is not in the presentation, which gives only the Tier rating",2026-09-21
+ZAF-028,carrier_neutrality,Limited carriers,no source states which carriers serve the facility,2026-09-21
+ZAF-028,submarine_cable_access,Landlocked/no submarine cable access,no source describes the facility's route to a landing station,2026-09-21
+ZAF-028,recent_investments,"None identified for the facility. Group level: Telkom sold its Swiftnet towers business (2025, ~$370M enterprise value); BCX launched Alibaba's ALP Cloud in Maputo (2024) [DCD](https://www.datacenterdynamics.com/en/news/bcx-brings-alibaba-cloud-to-mozambique/)","Swiftnet sale (2025, ~$370M) not in any readable source",2026-09-21
+ZAF-028,city,Johannesburg (Centurion),"Centurion lies in Tshwane, not Johannesburg; no source gives the facility's address",2026-09-21
+ZAF-029,security_certifications,ISO 27001; Tier III compliant,"ISO 27001 is not in the presentation, which gives only the Tier rating",2026-09-21
+ZAF-029,carrier_neutrality,Single carrier / captive,captive is plausible for an enterprise facility; no source states it,2026-09-21
+ZAF-029,submarine_cable_access,Landlocked/no submarine cable access,no source describes the facility's route to a landing station,2026-09-21
+ZAF-029,recent_investments,"None identified for the facility. Group level: Telkom sold its Swiftnet towers business (2025, ~$370M enterprise value); BCX launched Alibaba's ALP Cloud in Maputo (2024) [DCD](https://www.datacenterdynamics.com/en/news/bcx-brings-alibaba-cloud-to-mozambique/)","Swiftnet sale (2025, ~$370M) not in any readable source",2026-09-21
+ZAF-029,services_offered,Enterprise; government DR; satellite connectivity hub,"government DR and a satellite hub are not in any source; the Hartebeeshoek teleport is Openserve's, not BCX's data centre",2026-09-21
+ZAF-030,security_certifications,ISO 27001; Tier IV certified,"ISO 27001 is not in the presentation, which gives only the Tier rating",2026-09-21
+ZAF-030,carrier_neutrality,Limited carriers,no source states which carriers serve the facility,2026-09-21
+ZAF-030,submarine_cable_access,Connected via metro fibre,no source describes the facility's route to a landing station,2026-09-21
+ZAF-030,recent_investments,"None identified for the facility. Group level: Telkom sold its Swiftnet towers business (2025, ~$370M enterprise value); BCX launched Alibaba's ALP Cloud in Maputo (2024) [DCD](https://www.datacenterdynamics.com/en/news/bcx-brings-alibaba-cloud-to-mozambique/)","Swiftnet sale (2025, ~$370M) not in any readable source",2026-09-21
+ZAF-030,facility_name,BCX Bellville 2 (Cape Town),"Rackzar's Bellville entry (underground in Sanlam's head office, managed by NTT, Tier III, 2 MW) describes a different facility from BCX's Tier IV Bellville 2; T8 to decide whether it needs its own row",2026-09-21
+ZAF-030,chinese_involvement,None identified,DCD (2024) says Alibaba's next ALP Cloud zone will be in an unnamed Cape Town data centre; check whether it is BCX Bellville,2026-09-21
+ZAF-031,security_certifications,ISO 27001; Tier III compliant,"ISO 27001 is not in the presentation, which gives only the Tier rating",2026-09-21
+ZAF-031,carrier_neutrality,Limited carriers,no source states which carriers serve the facility,2026-09-21
+ZAF-031,submarine_cable_access,Connected via metro fibre,no source describes the facility's route to a landing station,2026-09-21
+ZAF-031,recent_investments,"None identified for the facility. Group level: Telkom sold its Swiftnet towers business (2025, ~$370M enterprise value); BCX launched Alibaba's ALP Cloud in Maputo (2024) [DCD](https://www.datacenterdynamics.com/en/news/bcx-brings-alibaba-cloud-to-mozambique/)","Swiftnet sale (2025, ~$370M) not in any readable source",2026-09-21
+ZAF-031,chinese_involvement,None identified,DCD (2024) says Alibaba's next ALP Cloud zone will be in an unnamed Cape Town data centre; check whether it is BCX Bellville,2026-09-21
+ZAF-032,key_tenants,,comments claimed NTT DATA stays on as leaseback tenant; no source,2026-09-21
+ZAF-032,year_operational,2005,no source gives an opening year,2026-09-21
+ZAF-032,services_offered,Colocation; enterprise hosting; regional Free State hub,no source describes services at this site,2026-09-21
+ZAF-032,security_certifications,ISO 27001,no source gives ISO 27001 for this site,2026-09-21
+ZAF-032,submarine_cable_access,Landlocked/no submarine cable access,no source describes the route to a landing station,2026-09-21
+ZAF-033,key_tenants,,comments claimed NTT DATA stays on as leaseback tenant; no source,2026-09-21
+ZAF-033,year_operational,2008,no source gives an opening year,2026-09-21
+ZAF-033,services_offered,Colocation; enterprise hosting; regional Eastern Cape hub,no source describes services at this site,2026-09-21
+ZAF-033,security_certifications,ISO 27001,no source gives ISO 27001 for this site,2026-09-21
+ZAF-033,submarine_cable_access,Landlocked/no submarine cable access,"no source describes the route to a landing station; East London is coastal, so 'Landlocked' is doubtful",2026-09-21
+ZAF-034,key_tenants,,comments claimed NTT DATA stays on as leaseback tenant; no source,2026-09-21
+ZAF-034,year_operational,2007,no source gives an opening year,2026-09-21
+ZAF-034,services_offered,Colocation; enterprise hosting; regional Eastern Cape hub,no source describes services at this site,2026-09-21
+ZAF-034,security_certifications,ISO 27001,no source gives ISO 27001 for this site,2026-09-21
+ZAF-034,submarine_cable_access,Landlocked/no submarine cable access,"no source describes the route to a landing station; Gqeberha is coastal, so 'Landlocked' is doubtful",2026-09-21
+ZAF-035,major_shareholders,,founder Menno Parsons (of sister company MPT) is the likely owner; no register seen,2026-09-21
+ZAF-035,hyperscaler_relationships,An unnamed global cloud provider has been a tenant since February 2019 [LinkedIn](https://www.linkedin.com/pulse/dpa-turns-8-south-african-data-centre-success-story-icawf),"identify the global cloud provider live since Feb 2019, and the mobile operator whose cloud zone DPA hosts",2026-09-21
+ZAF-035,ixp_presence,IXP hosted on-site,"DPA added a JINX node in 2021, but the timeline does not say whether it is at Samrand or the CBD site",2026-09-21
+ZAF-035,submarine_cable_access,Connected via metro fibre,no source describes the route to a landing station,2026-09-21
+ZAF-035,it_capacity_mw,2,"2 MW is reported IT load, not capacity; no source gives installed IT capacity",2026-09-21
+ZAF-036,facility_name,Xneelo Samrand (JNB1),the second Samrand data centre (due Oct 2026) is a separate building; T8 to decide whether it needs its own row,2026-09-21
+ZAF-036,major_shareholders,,founders Hans Wencke and Martin Hetzner may still hold shares; no register seen,2026-09-21
+ZAF-036,ownership_type,Private domestic,'Private domestic' rests on SA registration; the owners are undisclosed and one co-founder is German,2026-09-21
+ZAF-036,key_tenants,,"SOLIDitech and Symlogia are named xneelo customers on LinkedIn, but not tied to this facility",2026-09-21
+ZAF-036,security_certifications,ISO 27001; PCI-DSS,ISO 27001 is not in any source; PCI-DSS is,2026-09-21
+ZAF-036,submarine_cable_access,Connected via metro fibre,"Rackzar describes metro fibre rings, not a route to a landing station",2026-09-21
+ZAF-036,it_capacity_mw,2,2 MW is a reseller's figure and may be total power,2026-09-21
+ZAF-037,year_operational,2010,"plausible, but no readable source gives the opening year",2026-09-21
+ZAF-037,security_certifications,ISO 27001,"ISO 27001 plausible for Vodacom Business, but no source names a certificate for this facility",2026-09-21
+ZAF-037,submarine_cable_access,Connected via metro fibre,no source describes the facility's route to a landing station,2026-09-21
+ZAF-037,carrier_neutrality,Single carrier / captive,"an operator's own enterprise facility, so captive is likely; no source states it",2026-09-21
+ZAF-037,control_mechanisms,5 Vodafone nominees on 12-member board; Vodafone shareholder rights as majority owner [[Vodacom Governance](https://www.vodacom.com/governance.php)],the fact sheet lists the board but no source says five members are Vodafone nominees,2026-09-21
+ZAF-037,chinese_entities,,the old value named Huawei and ZTE as equipment suppliers; no source confirms either at this facility,2026-09-21
+ZAF-037,gps_coordinates,"-25.9888, 28.1245","approximate; Data Center Map gives 82 Vodacom Blvd, Midrand but no coordinates",2026-09-21
+ZAF-038,year_operational,2008,"plausible, but no readable source gives the opening year",2026-09-21
+ZAF-038,security_certifications,ISO 27001,"ISO 27001 plausible for Vodacom Business, but no source names a certificate for this facility",2026-09-21
+ZAF-038,submarine_cable_access,Connected via metro fibre,no source describes the facility's route to a landing station,2026-09-21
+ZAF-038,carrier_neutrality,Single carrier / captive,"an operator's own enterprise facility, so captive is likely; no source states it",2026-09-21
+ZAF-038,control_mechanisms,5 Vodafone nominees on 12-member board; Vodafone shareholder rights as majority owner [[Vodacom Governance](https://www.vodacom.com/governance.php)],the fact sheet lists the board but no source says five members are Vodafone nominees,2026-09-21
+ZAF-038,chinese_entities,,the old value named Huawei and ZTE as equipment suppliers; no source confirms either at this facility,2026-09-21
+ZAF-038,city,Cape Town (Foreshore),Baxtel places a Vodacom Cape Town facility 3.9 miles from Newlands; no source gives the Foreshore address,2026-09-21
+ZAF-038,total_floor_space_sqm,1500,"1,500 m2 (expandable to 3,000 m2) and the seven-storey building are plausible, but no readable source states them",2026-09-21
+ZAF-038,facility_name,Vodacom Cape Town Data Centre,"Baxtel lists a 'Vodacom Cape Town' facility, which shows the site exists; its Data Center Map page gave no text",2026-09-21
+ZAF-039,facility_name,Liquid Intelligent Technologies DC (Midrand),"no readable source shows a Liquid/Neotel facility at 44 Old Pretoria Road; Data Center Map lists ADC's JHB1 Midrand at 401 Old Pretoria Main Road, possibly the same site; T8 to check against an ADC JHB1 row or retire",2026-09-21
+ZAF-039,controlling_entities,"Strive Masiyiwa (Founder/Exec Chairman, Zimbabwean); Econet Group [Leadership](https://www.cassavatechnologies.com/executive-leadership/)",Econet Group and Masiyiwa are named as shareholder and chairman; no source gives their stake or states control,2026-09-21
+ZAF-039,gpu_ai_capability,Unknown,Cassava planned NVIDIA AI factory capacity at its South African data centres by June 2025; no source names this site,2026-09-21
+ZAF-039,recent_investments,"Group level: $90M equity round in Cassava Technologies from DFC, Finnfund and Google LLC; Liquid's South African rand term loan refinanced with facilities equivalent to $220M from Standard Bank, Rand Merchant Bank, Nedbank and IFC [DFC](https://www.dfc.gov/media/press-releases/cassava-technologies-receives-90-million-equity-investment-expanding-digital) [Cassava](https://www.cassavatechnologies.com/secures-usd-310-million-in-funding-and-completes-business-reorganisation/)","STANLIB (2025), a ZAR 2bn 20MW South African data centre (2024) and $720M AI factories were claimed; none is in the packet",2026-09-21
+ZAF-039,year_operational,2007,2007 plausible for the former Neotel site; no readable source,2026-09-21
+ZAF-039,security_certifications,ISO 27001,ADC says 9 of its sites are ISO and PCI DSS certified; none names this one,2026-09-21
+ZAF-039,submarine_cable_access,Connected via metro fibre,no source describes the route to a landing station,2026-09-21
+ZAF-040,facility_name,xneelo Cape Town DC (formerly Hetzner South Africa),"DCD (c. 2007) reports a second Hetzner Cape Town data centre; this row is the Great Westerford (Newlands) site Baxtel lists, and T8 should check the other exists or is closed",2026-09-21
+ZAF-040,ixp_presence,Unknown,Wikipedia says Hetzner hosts a JINX node (Johannesburg) and peers at NAPAfrica; no source for a Cape Town IXP,2026-09-21
+ZAF-040,carrier_neutrality,Fully carrier-neutral,plausible for a hosting company's colocation site; DCD mentions a Verizon backbone link only,2026-09-21
+ZAF-040,submarine_cable_access,Dark fibre connection to landing station,no source describes the route to a landing station,2026-09-21
+ZAF-040,security_certifications,ISO 27001,no source names a certificate,2026-09-21
+ZAF-040,gps_coordinates,"-33.9762, 18.4745",approximate for the Great Westerford Building; no source gives coordinates,2026-09-21
+ZAF-041,key_tenants,,"Nedbank, Peace Parks Foundation and eThekwini water are named as Azure customers at the South African regions' launch; tenancy in this region is not confirmed",2026-09-21
+ZAF-041,govt_data_hosted,Unknown,eThekwini water (a municipal unit) uses Azure; no source places its data in this region,2026-09-21
+ZAF-041,security_certifications,ISO 27001; SOC 1; SOC 2; CSA STAR,Microsoft cites broad certifications but no source lists them for this region,2026-09-21
+ZAF-041,submarine_cable_access,Connected via metro fibre,no source describes the route to a landing station,2026-09-21
+ZAF-041,carrier_neutrality,Single carrier / captive,captive is likely for a hyperscaler's own region; no source states it,2026-09-21
+ZAF-041,gps_coordinates,"-26.1715, 27.9699",Microsoft does not publish the address; coordinates unsourced,2026-09-21
+ZAF-041,investment_usd,1100000000,ZAR 20.4bn is shared between the Johannesburg and Cape Town regions; no per-region figure exists,2026-09-21
+ZAF-042,key_tenants,,"Nedbank, Peace Parks Foundation and eThekwini water are named as Azure customers at the South African regions' launch; tenancy in this region is not confirmed",2026-09-21
+ZAF-042,govt_data_hosted,Unknown,eThekwini water (a municipal unit) uses Azure; no source places its data in this region,2026-09-21
+ZAF-042,security_certifications,ISO 27001; SOC 1; SOC 2; CSA STAR,Microsoft cites broad certifications but no source lists them for this region,2026-09-21
+ZAF-042,submarine_cable_access,Connected via metro fibre,no source describes the route to a landing station,2026-09-21
+ZAF-042,carrier_neutrality,Single carrier / captive,captive is likely for a hyperscaler's own region; no source states it,2026-09-21
+ZAF-042,gps_coordinates,"-33.9249, 18.4241",Microsoft does not publish the address; coordinates unsourced,2026-09-21
+ZAF-042,investment_usd,1100000000,ZAR 20.4bn is shared between the Johannesburg and Cape Town regions; no per-region figure exists,2026-09-21
+ZAF-043,major_shareholders,"1. Vanguard Group (~7.9%), 2. BlackRock (~6.8%), 3. State Street (~3.6%), 4. FMR LLC (~3.1%), 5. Geode Capital (~2.1%)","plausible top holders of Amazon.com, but MarketBeat's readable text lists only small recent filers",2026-09-21
+ZAF-043,key_tenants,,Sage says it standardises hosting on AWS and Azure; no source places it in af-south-1,2026-09-21
+ZAF-043,security_certifications,ISO 27001; SOC 1; SOC 2; PCI-DSS; CSA STAR,AWS certifications plausible for the region; no source lists them,2026-09-21
+ZAF-043,submarine_cable_access,Dark fibre connection to landing station,no source describes the route to a landing station,2026-09-21
+ZAF-043,carrier_neutrality,Single carrier / captive,captive is likely for a hyperscaler's own region; no source states it,2026-09-21
+ZAF-043,gps_coordinates,"-33.8698, 18.5851",approximate (Dunoon); no source gives the site,2026-09-21
+ZAF-044,key_tenants,,"Pepkor IT, FNB, MTN Group, Healthbridge, Harambee and Moniepoint welcomed the launch as Google Cloud customers; none is confirmed as hosted in the region",2026-09-21
+ZAF-044,major_shareholders,"Vanguard Group (9.09%), BlackRock (7.59%), FMR LLC (3.98%), State Street (3.92%), Geode Capital (2.51%) [Yahoo Finance Dec 2025](https://finance.yahoo.com/quote/GOOGL/holders)",plausible top holders of Alphabet; the Yahoo page gave no figures,2026-09-21
+ZAF-044,government_ownership_pct,0% (negligible &lt;0.3% per Marketscreener),MarketScreener's readable text gives no government holding,2026-09-21
+ZAF-044,foreign_ownership_pct,"Significant portion of institutional (e.g., Norges Bank ~2%); exact % not found, US-dominant at ~97% shareholders [Marketscreener](https://www.marketscreener.com/quote/stock/ALPHABET-INC-24203373/company/)",no readable source gives the split,2026-09-21
+ZAF-044,security_certifications,ISO 27001; SOC 2; CSA STAR,no source lists certifications for the region,2026-09-21
+ZAF-044,carrier_neutrality,Single carrier / captive,captive is likely for a hyperscaler's own region; no source states it,2026-09-21
+ZAF-044,gps_coordinates,"-26.0500, 28.0400",approximate; Google does not publish the site,2026-09-21
+ZAF-045,facility_name,SITA National Data Centre (Centurion),"SITA runs data centres, but no readable source names a Centurion site or 1 John Vorster Road",2026-09-21
+ZAF-045,city,Johannesburg (Centurion),"Centurion is in the City of Tshwane, not Johannesburg; no source places the site",2026-09-21
+ZAF-045,year_operational,1999,"1999 is SITA's incorporation, not a documented opening of this site",2026-09-21
+ZAF-045,hyperscaler_relationships,None identified,the old value cited SITA's 2024/25 report for a public cloud plan across hyperscalers and Teraco as a migration partner; not in the readable excerpt,2026-09-21
+ZAF-045,chinese_entities,,the old value named Huawei as equipment supplier; no source confirms it,2026-09-21
+ZAF-045,expansion_plans,Unknown,comments cite a 2024/25 RFP to relocate to a Tier 3 ADC facility; not in the readable excerpt,2026-09-21
+ZAF-045,key_tenants,,SITA serves national and provincial departments; no source names one hosted at this site,2026-09-21
+ZAF-045,security_certifications,ISO 27001,no source names a certificate,2026-09-21
+ZAF-045,carrier_neutrality,Single carrier / captive,captive is likely for the state network's own site; no source states it,2026-09-21
+ZAF-045,gps_coordinates,"-25.8560, 28.2115",unsourced,2026-09-21
+ZAF-046,facility_name,RSAWEB Cape Town DC2,no readable source shows an RSAWEB DC2 at 34 Bree Street; the datacentermap listing is unreadable. T8/T9 to confirm or retire the row,2026-09-21
+ZAF-046,ultimate_parent_company,"RSAWEB founders Gilmour and Slingsby (through RGTI and Main Street 1802), jointly controlling 55%","confirm whether Tario 892 exercised its call option after the Tribunal's approval of 3 Feb 2025; if so the chain becomes Tario 892, jointly controlled by IDEAS (ZAF) and STOA (FRA)",2026-09-21
+ZAF-046,ixp_presence,Unknown,comments cite CINX connectivity; confirm whether the Cape Town Internet Exchange is hosted here or only connected,2026-09-21
+ZAF-046,year_operational,2009,2009 is plausible but no readable source gives it,2026-09-21
+ZAF-046,city,Cape Town (CBD),"34 Bree Street, Cape Town CBD, from comments; no readable source",2026-09-21
+ZAF-046,gps_coordinates,"-33.9248, 18.4236",no readable source,2026-09-21
+ZAF-046,security_certifications,ISO 27001,ISO 27001 not stated by any readable source,2026-09-21
+ZAF-046,carrier_neutrality,Fully carrier-neutral,no readable source states the facility is carrier-neutral,2026-09-21
+ZAF-046,submarine_cable_access,Dark fibre connection to landing station,no readable source describes the route to a landing station,2026-09-21
+ZAF-046,services_offered,Colocation; web hosting; dedicated servers; cloud,the Tribunal says RSAWEB provides cloud infrastructure; no source lists the services at this facility,2026-09-21
+ZAF-047,facility_name,Vox DataPro Johannesburg,"Vox's co-location product sheet (2021) sells 'Vox, Powered by Teraco' colocation in Teraco's Johannesburg, Cape Town and Durban facilities; no source shows a Vox-run data centre at Rutherford Estate, 1 Scott Street, Waverley. T8/T9 to confirm or retire the row; see also ZAF-048",2026-09-21
+ZAF-047,year_operational,2010,no readable source gives the opening year,2026-09-21
+ZAF-047,city,Johannesburg (Waverley),"Rutherford Estate, 1 Scott Street, Waverley is from comments; no readable source",2026-09-21
+ZAF-047,gps_coordinates,"-26.1718, 28.0593",no readable source,2026-09-21
+ZAF-047,security_certifications,ISO 27001,"the product sheet lists ISO 27001 for the Teraco-powered colocation, not for this address",2026-09-21
+ZAF-047,carrier_neutrality,Fully carrier-neutral,"no readable source; if the service is Teraco's, neutrality is Teraco's",2026-09-21
+ZAF-047,submarine_cable_access,Connected via metro fibre,no readable source describes the route to a landing station,2026-09-21
+ZAF-047,services_offered,Colocation; managed hosting; cloud; connectivity,"the product sheet advertises colocation, managed services and cloud through Teraco; not at this address",2026-09-21
+ZAF-047,ixp_presence,Unknown,"the product sheet offers direct peering to NAPAfrica, which is at Teraco's facilities",2026-09-21
+ZAF-048,facility_name,Vox DataPro Cape Town,"Vox's co-location product sheet (2021) sells 'Vox, Powered by Teraco' colocation in Teraco's Johannesburg, Cape Town and Durban facilities; no source shows a Vox-run data centre at Colinton House, 1 Oakdale Road, Newlands. T8/T9 to confirm or retire the row; see also ZAF-047",2026-09-21
+ZAF-048,year_operational,2012,no readable source gives the opening year,2026-09-21
+ZAF-048,city,Cape Town (Newlands),"Colinton House, 1 Oakdale Road, Newlands is from comments; no readable source",2026-09-21
+ZAF-048,gps_coordinates,"-33.9730, 18.4680",no readable source,2026-09-21
+ZAF-048,security_certifications,ISO 27001,"the product sheet lists ISO 27001 for the Teraco-powered colocation, not for this address",2026-09-21
+ZAF-048,carrier_neutrality,Fully carrier-neutral,"no readable source; if the service is Teraco's, neutrality is Teraco's",2026-09-21
+ZAF-048,submarine_cable_access,Dark fibre connection to landing station,no readable source describes the route to a landing station,2026-09-21
+ZAF-048,services_offered,Colocation; managed hosting; cloud; connectivity,"the product sheet advertises colocation, managed services and cloud through Teraco; not at this address",2026-09-21
+ZAF-048,ixp_presence,Unknown,"the product sheet offers direct peering to NAPAfrica, which is at Teraco's facilities",2026-09-21
+ZAF-049,ultimate_parent_company,Cavaleros family / Cavaleros Group Holdings (Pty) Ltd,"Cavaleros Group Holdings (Pty) Ltd (1999/018061/07) is confirmed; the family's shareholding above it is plausible from a privately owned, family-led group but not stated",2026-09-21
+ZAF-049,carrier_neutrality,Fully carrier-neutral,no readable source states the planned campus will be carrier-neutral,2026-09-21
+ZAF-049,submarine_cable_access,Connected via metro fibre,no readable source describes connectivity for the planned campus,2026-09-21
+ZAF-049,gps_coordinates,"-25.9150, 28.1420",no readable source gives the site's location beyond the area,2026-09-21
+ZAF-049,services_offered,Hyperscale; build-to-suit; wholesale; AI-ready,"build-to-suit and wholesale fit the land-parcel model on Cavaleros' page, but no source lists services",2026-09-21
+ZAF-049,key_tenants,,"Daily Maverick (Feb 2026) reports the Cosmas campuses are believed linked to Microsoft; unconfirmed, under NDA",2026-09-21
+ZAF-050,ultimate_parent_company,Cavaleros family / Cavaleros Group Holdings (Pty) Ltd,"Cavaleros Group Holdings (Pty) Ltd (1999/018061/07) is confirmed; the family's shareholding above it is plausible from a privately owned, family-led group but not stated",2026-09-21
+ZAF-050,carrier_neutrality,Fully carrier-neutral,no readable source states the planned campus will be carrier-neutral,2026-09-21
+ZAF-050,submarine_cable_access,Connected via metro fibre,no readable source describes connectivity for the planned campus,2026-09-21
+ZAF-050,gps_coordinates,"-33.9100, 18.5200",no readable source gives the site's location beyond the area,2026-09-21
+ZAF-050,services_offered,Hyperscale; build-to-suit; wholesale; AI-ready,"build-to-suit and wholesale fit the land-parcel model on Cavaleros' page, but no source lists services",2026-09-21
+ZAF-050,key_tenants,,"Daily Maverick (Feb 2026) reports the Cosmas campuses are believed linked to Microsoft; unconfirmed, under NDA",2026-09-21
