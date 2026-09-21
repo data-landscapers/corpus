@@ -1,11 +1,11 @@
 ---
 title: Egypt — monthly update, August – September 2026
-compiled: 2026-09-20
-period: 2026-08-01 to 2026-09-20
+compiled: 2026-09-21
+period: 2026-08-01 to 2026-09-21
 place: EGY
-ledger_rows: 116
-not_held: 48
-record: 5c4b0612fa73
+ledger_rows: 122
+not_held: 46
+record: 75168ac340c9
 ---
 
 # Egypt: monthly update, August – September 2026
@@ -250,6 +250,16 @@ A [trilateral memorandum with Japan's land and agriculture ministries](https://w
 
 <!-- narrative: geopolitics--geopol-usa -->
 The vendor relationship moved a step, and only a step. The prime minister [witnessed the signing of a letter of intent between the communications ministry and Cisco Systems](https://sis.gov.eg/en/media-center/news/pm-witnesses-inking-of-letter-of-intent-between-communications-ministry-cisco-systems/). A letter of intent binds nobody to anything: the record held carries no value, no scope of works and no date by which either side is to do something, which is the difference between this and the Mediterranean capacity partnership already on the ledger.
+<!-- /narrative -->
+### China activities
+
+<!-- narrative: geopolitics--geopol-china -->
+
+<!-- /narrative -->
+### Gulf/UAE activities
+
+<!-- narrative: geopolitics--geopol-gulf -->
+
 <!-- /narrative -->
 ### India activities
 
