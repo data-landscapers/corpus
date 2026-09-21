@@ -969,3 +969,88 @@ EGY-024,year_operational,2000,no readable source gives the year the six faciliti
 EGY-024,services_offered,Colocation; Managed hosting; Carrier services; Government services,the press release says only that the six are commercial data centres,2026-09-21
 EGY-024,submarine_cable_access,Dark fibre connection to landing station,the dark-fibre link in comments has no readable source; the press release's landing-station links describe the new Smart Village data centre,2026-09-21
 EGY-024,cloud_platform,Telecom Egypt WE Cloud,no readable source names WE Cloud at these facilities,2026-09-21
+MAR-001,ultimate_parent_company,Old Mutual Limited,"no source says AIIM's fund holds the majority; if Amine Kandil kept control, the top of the chain is him, not Old Mutual",2026-09-21
+MAR-001,total_floor_space_sqm,5000,"DCD's report of the Settat opening, cited on MAR-002, gives the Casablanca site as 5,000 sq m; add it to this row",2026-09-21
+MAR-001,ixp_presence,IXP hosted on-site,"DCD's report of the Settat opening, cited on MAR-002, puts CASIX in the Casablanca facility; add it to this row",2026-09-21
+MAR-001,rack_capacity,600,no readable source gives a rack count,2026-09-21
+MAR-001,it_capacity_mw,4,no readable source gives this site's power; 4MW is Settat's figure,2026-09-21
+MAR-001,submarine_cable_access,Connected via metro fibre,no source describes the route to a landing station,2026-09-21
+MAR-001,gps_coordinates,"33.5731, -7.5898","2 Rue Laghrari is N+ONE's mail-only address on LinkedIn, and DCD (2024) places its two existing sites at Nouaceur and Settat, so DC-I may be at Nouaceur",2026-09-21
+MAR-002,ultimate_parent_company,Old Mutual Limited,"no source says AIIM's fund holds the majority; if Amine Kandil kept control, the top of the chain is him, not Old Mutual",2026-09-21
+MAR-002,year_operational,2017,"DCD's opening report carries no date; N+ONE's milestones page, cited on MAR-001, gives 2017",2026-09-21
+MAR-002,facility_name,N+ONE DC-II Settat,"Data Center Map (cited on MAR-003) lists an 'N+ONE Casablanca DC-II' at Boulevard Lagota, Casablanca, and no Settat site; T8 to decide whether that is this facility or another",2026-09-21
+MAR-003,ultimate_parent_company,Old Mutual Limited,"no source says AIIM's fund holds the majority; if Amine Kandil kept control, the top of the chain is him, not Old Mutual",2026-09-21
+MAR-003,operational_status,Operational,the newest sources (2024) say it would open later in 2024; none confirms that it did,2026-09-21
+MAR-003,it_capacity_mw,2,"DCD (2024, cited on MAR-001) says 2MW is being added across Nouaceur and Settat, not that this site is 2MW",2026-09-21
+MAR-003,submarine_cable_access,Connected via metro fibre,no source describes the route to a landing station,2026-09-21
+MAR-003,facility_name,N+ONE Casablanca DC-III,DCD (2024) places N+ONE's existing Casablanca-area site at Nouaceur too; T8 to check whether DC-III is a new building on the DC-I campus (MAR-001),2026-09-21
+MAR-004,parent_company,Orange S.A.,"no source in the packet gives Orange SA's stake in Orange Maroc (Médi Telecom); it is commonly reported at 49%, with Moroccan institutions holding the rest, which would make control joint; T9 to confirm",2026-09-21
+MAR-004,submarine_cable_access,Connected via metro fibre,no source describes the route to a landing station,2026-09-21
+MAR-005,parent_company,Orange S.A.,"no source in the packet gives Orange SA's stake in Orange Maroc (Médi Telecom); it is commonly reported at 49%, with Moroccan institutions holding the rest, which would make control joint; T9 to confirm",2026-09-21
+MAR-005,year_operational,2015,"DCD's report of DC5's opening, cited on MAR-004, gives 2015; add it to this row",2026-09-21
+MAR-005,it_capacity_mw,1,DCD (cited on MAR-004) calls it a 1MW facility; Orange's page gives only 600 kVA of redundant power and cooling,2026-09-21
+MAR-005,operational_status,Operational,Orange's archived page (Dec 2025) still markets it; no dated source confirms operation,2026-09-21
+MAR-006,parent_company,Orange S.A.,"no source in the packet gives Orange SA's stake in Orange Maroc (Médi Telecom); it is commonly reported at 49%, with Moroccan institutions holding the rest, which would make control joint; T9 to confirm",2026-09-21
+MAR-007,parent_company,Orange S.A.,"no source in the packet gives Orange SA's stake in Orange Maroc (Médi Telecom); it is commonly reported at 49%, with Moroccan institutions holding the rest, which would make control joint; T9 to confirm",2026-09-21
+MAR-007,submarine_cable_access,Connected via metro fibre,no source describes the route to a landing station,2026-09-21
+MAR-008,parent_company,Orange S.A.,"no source in the packet gives Orange SA's stake in Orange Maroc (Médi Telecom); it is commonly reported at 49%, with Moroccan institutions holding the rest, which would make control joint; T9 to confirm",2026-09-21
+MAR-008,submarine_cable_access,Connected via metro fibre,no source describes the route to a landing station,2026-09-21
+MAR-009,operational_status,Operational,"the only source naming the Sapino site (Data Center Map) is unreadable here; MAR-003's Data Center Map page lists an INWI Sapino Data Center at N°10, Pôle Industriel Sapino",2026-09-21
+MAR-009,ownership_type,Private domestic,"no source gives Zain's stake, which decides whether this is private domestic or a majority-domestic joint venture",2026-09-21
+MAR-009,security_certifications,Unknown,inwi's page claims 'Tier 3 availability' but no source shows a Sapino certificate,2026-09-21
+MAR-009,submarine_cable_access,Connected via metro fibre,no source describes the route to a landing station,2026-09-21
+MAR-009,facility_name,INWI Sapino Data Center,"DCD's article describes inwi's fourth data centre, 1,000 sqm at Rabat Technopolis, not Sapino; T8 to check it has its own row",2026-09-21
+MAR-010,year_operational,2019,DCD's opening report carries no readable date; the January 2019 opening is plausible but unsourced,2026-09-21
+MAR-010,submarine_cable_access,Connected via metro fibre,"plausible for a Rabat site, but no source describes its route to a landing station",2026-09-21
+MAR-010,gps_coordinates,"33.9895, -6.8730",no source gives coordinates; Technopolis is at Sala Al Jadida,2026-09-21
+MAR-010,controlling_entities,Moroccan Royal Family,no cited source gives Al Mada's and Zain's stakes in Wana Corporate,2026-09-21
+MAR-011,year_operational,2023,"no source dates the site; DCD calls the 2019 Rabat site inwi's fourth and Vertiv worked at Settat before Rabat, so 2023 may be late",2026-09-21
+MAR-011,security_certifications,Unknown,comments claim Tier III certification in 2023; Uptime lists the site but its page shows no tier or date,2026-09-21
+MAR-011,submarine_cable_access,Connected via metro fibre,no source describes the site's route to a landing station,2026-09-21
+MAR-011,gps_coordinates,"32.9900, -7.6200",no source gives the address or coordinates,2026-09-21
+MAR-011,controlling_entities,Moroccan Royal Family,no cited source gives Al Mada's and Zain's stakes in Wana Corporate,2026-09-21
+MAR-012,year_operational,2023,"no source dates the site; DCD calls the 2019 Rabat site inwi's fourth and Vertiv worked at Marrakech before Rabat, so 2023 may be late",2026-09-21
+MAR-012,security_certifications,Unknown,comments claim Tier III certification in 2023; Uptime lists the site but its page shows no tier or date,2026-09-21
+MAR-012,gps_coordinates,"31.6300, -8.0050",no source gives the address or coordinates,2026-09-21
+MAR-012,controlling_entities,Moroccan Royal Family,no cited source gives Al Mada's and Zain's stakes in Wana Corporate,2026-09-21
+MAR-013,operational_status,Operational,no dated source; the Minkels case study and Uptime listing are undated,2026-09-21
+MAR-013,government_ownership_pct,Morocco 22% direct; UAE gov indirect majority via e& (~60% of e&),the UAE state's ~60% of e& is not in any cited source,2026-09-21
+MAR-013,ultimate_parent_company,e& Group (formerly Etisalat Group) via SPT,the SPT holding vehicle is not named in any cited source,2026-09-21
+MAR-013,gps_coordinates,"33.5950, -7.6270",Minkels gives Avenue Hassan II but no coordinates,2026-09-21
+MAR-014,facility_name,Maroc Data Center (MDC) / 3MDC,MAR-015 (Medasys IT Center) describes the same Temara facility: Medasys inaugurated Maroc Datacenter there in 2017 and 3MDC lists a single site; T8 to merge,2026-09-21
+MAR-014,submarine_cable_access,Connected via metro fibre,no source describes the site's route to a landing station,2026-09-21
+MAR-014,gps_coordinates,"33.9250, -6.9270",Data Center Map gives the Attasnia industrial zone address but no coordinates,2026-09-21
+MAR-015,facility_name,Medasys IT Center (3MDC entity),"MAR-014 (Maroc Data Center) describes the same facility: the sources show Medasys's Maroc Datacenter in Temara, 3MDC's only site; T8 to merge",2026-09-21
+MAR-015,gps_coordinates,"33.9200, -6.9400",no source gives coordinates,2026-09-21
+MAR-016,ownership_type,Joint venture (majority foreign),majority foreign is plausible but no source gives DXC's and CDG's shares,2026-09-21
+MAR-016,ultimate_parent_hq_country,USA|MAR,"if CDG holds half or more, control is joint (USA|MAR); no source gives the split",2026-09-21
+MAR-016,carrier_neutrality,Single carrier / captive,captive is plausible for an enterprise site; no source states it,2026-09-21
+MAR-016,gps_coordinates,"33.9980, -6.8470","sources give Technopolis, Rabat, but no coordinates",2026-09-21
+MAR-017,facility_name,HOSTOWEB Nouasseur Data Center,"no source shows Hostoweb has a data centre in Nouaceur; its site says 'data centers' but names only Fès, and Inflect's Casablanca listing does not name it; T8/T9 to confirm or retire",2026-09-21
+MAR-017,year_operational,2006,"2006 is Hostoweb's founding year in Fès, not this site's",2026-09-21
+MAR-017,city,Casablanca,the Nouaceur address in comments is unsourced,2026-09-21
+MAR-017,submarine_cable_access,Connected via metro fibre,no source describes the site's connectivity,2026-09-21
+MAR-017,ultimate_parent_company,Mehdi Tazi (Founder & CEO),Kerix names Mehdi Tazi as manager; ownership is plausible but unsourced,2026-09-21
+MAR-018,operational_status,Operational,Inflect's listing is undated,2026-09-21
+MAR-018,ultimate_parent_company,Mehdi Tazi (Founder & CEO),Kerix names Mehdi Tazi as manager; ownership is plausible but unsourced,2026-09-21
+MAR-018,gps_coordinates,"33.9500, -4.9900",Inflect gives the street address but no coordinates,2026-09-21
+MAR-019,major_shareholders,"Of CIRES Telecom: TMSA (Tanger Med Special Agency) and Hub One, stakes not disclosed. Of TMSA Holding: Hassan II Fund for Economic and Social Development (87.5%), Moroccan State (12.38%), Caisse de Dépôt et de Gestion (CDG) (0.12%)",CIRES's listing names TMSA and Hub One as parents but no stakes; Hub One's share decides whether control is joint,2026-09-21
+MAR-019,carrier_neutrality,Limited carriers,ColocationM's 'multiple carrier options' is template text; no source names the carriers,2026-09-21
+MAR-019,operational_status,Operational,the listings describe a working facility but none is dated,2026-09-21
+MAR-020,year_operational,2024,Tic-Maroc had it under construction in November 2023 and the Tier III Constructed award implies completion; no source dates the opening,2026-09-21
+MAR-020,ownership_type,Private domestic,GSM Al Maghrib is Casablanca-registered but its shareholders are undisclosed,2026-09-21
+MAR-021,parent_company,OCP Group (OCP SA),no source states that OCP owns UM6P or the data centre; DCD says only that it was built in collaboration with OCP,2026-09-21
+MAR-021,govt_data_hosted,Hosts government data alongside commercial,"Reuters (9 July 2025, cited by MAR-024) says the UM6P centre has hosted public and private organisations since January 2025; add it to this row: https://www.reuters.com/sustainability/boards-policy-regulation/morocco-build-data-centre-powered-by-renewable-energy-2025-07-09/",2026-09-21
+MAR-021,security_certifications,ISO 27001,no readable source gives ISO 27001,2026-09-21
+MAR-021,submarine_cable_access,Connected via metro fibre,Benguerir is inland; no source describes the fibre route,2026-09-21
+MAR-021,year_operational,2021,DCD reports the formal opening without a date; Toubkal was online in 2020,2026-09-21
+MAR-022,gps_coordinates,"35.5785, -5.3684",no source locates the Eureka Park site within Tetouan,2026-09-21
+MAR-022,operational_status,Planned,no source after October 2025; the Q4 2024 construction start has never been confirmed,2026-09-21
+MAR-023,parent_company,Naver Corporation,DCD names Naver Cloud as platform operator of a four-party consortium; no source says Naver holds the equity,2026-09-21
+MAR-023,city,Tetouan,only Dabafinance places the project in Tetouan,2026-09-21
+MAR-024,facility_name,Morocco Government Dakhla Renewable DC (Igoudar Dakhla),"the 3MDC chain and the MCINET and Uptime pages describe Maroc Datacenter (Temara, now part of 3MDC), not Dakhla; for T8 to check it has its own row",2026-09-21
+MAR-024,investment_usd,54000000,"The National (16 Oct 2025), cited only by MAR-025, gives the $54M build, $5.4M running cost, funders and 2030 target; add it to this row: https://www.thenationalnews.com/news/mena/2025/10/16/morocco-plants-flag-on-ai-development-with-60m-data-centre-plan/",2026-09-21
+MAR-024,operator_name,Agence de Developpement du Digital (ADD),no source names the Agence de Développement du Digital as operator,2026-09-21
+MAR-024,submarine_cable_access,At or adjacent to cable landing station,the minister says cables run along the coast; no source puts a landing station at the site,2026-09-21
+MAR-025,facility_name,Morocco Government Rabat Technopolis Data Center,"the 3MDC chain and the MCINET and Uptime pages describe Maroc Datacenter (Temara, now part of 3MDC), not this site; for T8 to check it has its own row",2026-09-21
+MAR-025,operator_name,Agence de Developpement du Digital (ADD),no source names the Agence de Développement du Digital as operator,2026-09-21
