@@ -4,6 +4,8 @@ Read by `scripts/datasets.py`. `/datasets/` is the index, and each dataset has a
 
 The Data Centres blocks have to make three things clear without a lecture: what counts as a row (a facility, whether operational, under construction or planned); that `control_category` is our judgement from the ownership chain and is not a legal finding; and that the table is maintained, so it changes, and every change is logged with its sources.
 
+`data-centres-status` is the notice at the top of both pages while the dataset is being finalised (documentation/datasets.md, T1–T10). **Empty the block once the last task closes**, and the notice disappears; delete the key and the build stops.
+
 `dataset-data-centres` is not shown on the page. It is the description in the `Dataset` block in the head, which is what a dataset search shows before anyone clicks. It has to stand on its own, and it must stay between 50 and 5,000 characters.
 
 ## index-intro
@@ -28,7 +30,11 @@ One row per facility, whether operational, under construction or planned. For ea
 
 **Control is our reading of the ownership chain, not a legal finding.** The confidence column says how well the sources support it.
 
-The table is maintained, not rebuilt. When new evidence arrives, the affected rows are corrected or added, and each change is listed below with its sources. **North Africa is not covered yet** (Egypt, Morocco, Algeria, Tunisia and Libya); those rows are being added.
+The table is maintained, not rebuilt. When new evidence arrives, the affected rows are corrected or added, and each change is listed below with its sources.
+
+## data-centres-status
+
+**This dataset is still being finalised.** Every source is being checked, new facilities are being added, and North Africa (Egypt, Morocco, Algeria, Tunisia and Libya) is not yet covered. Figures may change until this notice goes.
 
 ## data-centres-table-note
 

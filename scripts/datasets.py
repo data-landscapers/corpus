@@ -59,6 +59,12 @@ if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
 
+def notice() -> str:
+    """The *still being finalised* notice, or nothing once its block is emptied."""
+    text = copy("datasets", "data-centres-status").strip()
+    return indent(f'<div class="callout">\n{text}\n</div>') if text else ""
+
+
 def indent(block: str, spaces: int = 4) -> str:
     pad = " " * spaces
     return "\n".join(pad + ln if ln.strip() else ln for ln in block.splitlines())
@@ -139,6 +145,8 @@ DC_PAGE = """<!DOCTYPE html>
       <div class="article-header__crumb"><a href="{base}/datasets/">Datasets</a></div>
       <h1 class="article-header__title">Data centres</h1>
     </header>
+
+{status}
 
     <div class="byline">{facilities} facilities &nbsp;·&nbsp; {countries} countries &nbsp;·&nbsp; {operational} operational, {pipeline} under construction or planned</div>
 
@@ -224,6 +232,7 @@ INDEX_PAGE = """<!DOCTYPE html>
     <h2 class="section-heading"><a href="data-centres/">Data centres</a></h2>
     <div class="byline">{facilities} facilities &nbsp;·&nbsp; {countries} countries &nbsp;·&nbsp; edition {edition}</div>
 {dc}
+{status}
 
     <h2 class="section-heading"><a href="../finance/">Finance</a></h2>
 {finance}
@@ -288,13 +297,13 @@ def main() -> int:
         cols=", ".join(COLS), filters=", ".join(FILTERS), numeric=", ".join(NUMERIC),
         detail=", ".join(DETAIL), badges=attr(BADGES),
         labels=attr({"country": {c: names.get(c, c) for c in used}}),
-        changes=indent(changes_html(recent_changes(NAME))),
+        changes=indent(changes_html(recent_changes(NAME))), status=notice(),
         built=date.today().isoformat(), edition=edition, **counts)), encoding="utf-8")
 
     (OUT / "index.html").write_text(external_links(INDEX_PAGE.format(
         feedback=feedback("Datasets", f"{SITE_BASE}/datasets/"),
         base=SITE_BASE, main=MAIN_SITE, chrome=CHROME_INDEX, foot=foot(depth=1),
-        styles=styles(1), ga=ga(),
+        styles=styles(1, "country.css"), ga=ga(), status=notice(),
         intro=indent(copy("datasets", "index-intro")),
         dc=indent(copy("datasets", "index-data-centres")),
         finance=indent(copy("datasets", "index-finance")),
