@@ -7,7 +7,7 @@
     python scripts/dataset-evidence.py apply SYC --dry-run
     python scripts/dataset-evidence.py status         # rows verified, by country
     python scripts/dataset-evidence.py refetch        # read what T4 could not, through Exa
-    python scripts/dataset-evidence.py derive         # set cloud_act_exposure by rule on every row
+    python scripts/dataset-evidence.py derive         # set the rule-derived fields on every row
 
 A model reads the packet, one country per sitting, and writes `decisions.json`; this script
 checks that file and applies it. Nothing here judges a claim.
@@ -44,7 +44,7 @@ it was read and supports none of them; `"unreadable"` means no text could be had
    `to_source`** for T9 to source. A dead URL never deletes a fact (§2), and T9 has the search.
 7. **Derived fields follow their rule.** `hyperscaler_*` is Yes only where
    `hyperscaler_relationships` names a confirmed relationship at this facility, and the script sets
-   `hyperscaler_presence`, `cloud_act_exposure` and `country_name` itself. `control_category` follows
+   `hyperscaler_presence`, `cloud_act_exposure`, `foreign_dependency_score` and `country_name` itself. `control_category` follows
    `ultimate_parent_hq_country`; where the reader departs from it (Liquid: UK-registered, African
    controlled), `control_rationale` must say why. `control_confidence`: high with two independent
    readable sources for the ownership chain, low with one or with sources that conflict.
@@ -69,7 +69,7 @@ CLAIMS = DIR / "claims-to-source.csv"
 CLAIMS_HEADER = ["facility_id", "field", "claim", "reason", "date"]
 CACHE = dl.ROOT / "prep" / "dc-url-cache"
 WORK = dl.ROOT / "prep" / "dc-evidence"
-DERIVED_BY_SCRIPT = {"hyperscaler_presence", "cloud_act_exposure", "country_name", "last_verified", "raw_slugs",
+DERIVED_BY_SCRIPT = {"hyperscaler_presence", "cloud_act_exposure", "foreign_dependency_score", "country_name", "last_verified", "raw_slugs",
                      "facility_id", "country"}
 HYPER = ["hyperscaler_microsoft", "hyperscaler_aws", "hyperscaler_google"]
 FULL = 9000        # a source shorter than this goes in whole
@@ -124,25 +124,53 @@ def cloud_act(row):
     return "No (no US parent or hyperscaler service)"
 
 
+FOREIGN_OWN = {"Private foreign", "Joint venture (majority foreign)"}
+DOMESTIC_OWN = {"Private domestic", "Government / SOE", "Joint venture (majority domestic)", "PPP"}
+
+
+def foreign_dependency(row):
+    """metadata.csv -> foreign_dependency_score: set by rule. Foreign means foreign equity or a
+    non-African controller; Low needs domestic ownership, no US reach and a stack not known to be
+    proprietary (an open stack is rarely documented, so requiring one would leave Low empty)."""
+    own, ctl = row["ownership_type"], row["control_category"]
+    if own in ("", "Unknown") and not ctl:
+        return "Insufficient data"
+    foreign = own in FOREIGN_OWN or ctl in ("US control", "Other foreign control")
+    domestic = not foreign and (own in DOMESTIC_OWN or ctl == "African control")
+    cloud = row["cloud_act_exposure"].split(" (")[0]
+    proprietary = row["open_source_stack"] == "Predominantly proprietary"
+    if foreign and (cloud == "Yes" or proprietary):
+        return "High"
+    if domestic and cloud == "No" and not proprietary:
+        return "Low"
+    return "Moderate"
+
+
 def derive_all():
     """Set cloud_act_exposure from its rule on every row: the one-off pass when the rule replaced
     v2's judgements (2026-09-21). `apply` keeps it true row by row after that."""
     rows = dl.read(NAME)
     changed = 0
+    fds = 0
     for r in rows:
         new = cloud_act(r)
         old = r["cloud_act_exposure"]
         if new.split(" (")[0] != old.split(" (")[0]:
             changed += 1
         r["cloud_act_exposure"] = new
+        fd = foreign_dependency(r)
+        fds += fd != r["foreign_dependency_score"]
+        r["foreign_dependency_score"] = fd
     bad = dl.check(NAME, rows)
     if bad:
         sys.exit("\n".join(bad))
     dl.write(NAME, rows)
-    dl.log(NAME, "ALL", "modify", f"cloud_act_exposure is now set by its rule: Yes for a US parent, Partial "
-           f"for a US hyperscaler service on site, otherwise No. {changed} of {len(rows)} rows changed "
-           "value; the rest were relabelled only.")
-    print(f"{changed} of {len(rows)} changed value")
+    if changed:
+        dl.log(NAME, "ALL", "modify", f"cloud_act_exposure set by its rule: {changed} of {len(rows)} rows changed.")
+    if fds:
+        dl.log(NAME, "ALL", "modify", f"foreign_dependency_score set by its rule from ownership, control, CLOUD Act "
+               f"exposure and software stack: {fds} of {len(rows)} rows changed.")
+    print(f"cloud_act {changed}, foreign_dependency {fds} of {len(rows)} changed")
 
 
 def names(row):
@@ -282,6 +310,7 @@ def apply(iso, dry):
             changes.append(f"{desc}: {e['why'].rstrip('.')}.")
         r["hyperscaler_presence"] = "Yes" if any(r[h] == "Yes" for h in HYPER) else "No"
         r["cloud_act_exposure"] = cloud_act(r)
+        r["foreign_dependency_score"] = foreign_dependency(r)
         rule = rule_category(r["ultimate_parent_hq_country"], af)
         if rule and r["control_category"] != rule and "control_rationale" not in d.get("edits", {}) \
                 and "control_category" in d.get("edits", {}):
