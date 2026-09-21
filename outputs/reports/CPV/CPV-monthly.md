@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-21
 place: CPV
 ledger_rows: 21
 not_held: 30
-record: 4b55a2e2f364
+record: 4b77527ed056
 ---
 
 # Cape Verde: monthly update, August – September 2026
@@ -103,7 +103,7 @@ The innovation record moved to the extent that two institutions said they intend
 ### Digital divides
 
 <!-- narrative: inclusion--include-divides -->
-
+A [two-month pilot of training and mentoring in digital business tools for about 250 traders, most of them women, is set to start on Maio in October](https://inforpress.cv/en/article-11542), before moving to Fogo, Santiago and São Vicente. It is run with the economy and digital transformation ministry.
 <!-- /narrative -->
 
 ## Data

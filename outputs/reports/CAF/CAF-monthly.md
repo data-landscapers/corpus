@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-21
 place: CAF
 ledger_rows: 23
 not_held: 4
-record: f37b418cb8dc
+record: 44028cc1b5d3
 ---
 
 # Central African Republic: monthly update, August – September 2026
@@ -108,7 +108,7 @@ No membership, funding or output is published for the grouping, and it stands ag
 ### ICT Industry
 
 <!-- narrative: technology--tech-industry -->
-
+The regulator [published operators' combined revenue for the first half of 2026 in its market observatory](https://www.icasees.org/index.php/component/edocman/observatoire-des-marches-de-communications-electroniques-s1-2027/download?Itemid=0). It is turnover reported to the regulator; no contribution to output, employment or firm count is held.
 <!-- /narrative -->
 
 ## Capacity

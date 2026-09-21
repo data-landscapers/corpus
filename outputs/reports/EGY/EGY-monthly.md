@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-21
 place: EGY
 ledger_rows: 122
 not_held: 46
-record: 75168ac340c9
+record: 424ce0da3dc1
 ---
 
 # Egypt: monthly update, August – September 2026
@@ -254,12 +254,12 @@ The vendor relationship moved a step, and only a step. The prime minister [witne
 ### China activities
 
 <!-- narrative: geopolitics--geopol-china -->
-
+During the Chinese president's September visit the communications minister [signed a memorandum on technological and digital cooperation covering cloud computing, data centres, semiconductors and cybersecurity](https://www.alnaharegypt.com/1196580). The text is not held, and no project, value or timetable is attached to it.
 <!-- /narrative -->
 ### Gulf/UAE activities
 
 <!-- narrative: geopolitics--geopol-gulf -->
-
+On 21 September Abu Dhabi's sovereign investor [co-led a US$35m pre-Series C round in an Egyptian-founded payments company](https://www.mubadala.com/en/news/paymob-raises-35-million-in-pre-series-c-round-co-led-by-mubadala-and-ebrd). It is the only Gulf commitment in the window; no Saudi or Qatari commitment is held.
 <!-- /narrative -->
 ### India activities
 

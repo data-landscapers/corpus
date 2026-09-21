@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-21
 place: TCD
 ledger_rows: 50
 not_held: 23
-record: ed44b54df6d2
+record: 2759ccfc577f
 ---
 
 # Chad: monthly update, August – September 2026
@@ -157,7 +157,7 @@ The repository holds its first record of an artificial-intelligence strategy for
 ### Literacy
 
 <!-- narrative: capacity--capacity-literacy -->
-
+A non-governmental organisation and the national youth council [launched an internet-safety and digital-citizenship campaign for young people at Abéché on 19 September](https://lendjampost.com/abeche-house-of-africa-entend-promouvoir-un-internet-plus-sur-aupres-des-jeunes/). No reach or duration is stated.
 <!-- /narrative -->
 
 ## Data

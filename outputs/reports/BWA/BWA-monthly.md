@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-21
 place: BWA
 ledger_rows: 37
 not_held: 8
-record: f7611cb9950a
+record: 0631babf6e46
 ---
 
 # Botswana: monthly update, August – September 2026
@@ -113,7 +113,7 @@ A tax adviser's reading of the new Value Added Tax Act, in force since 1 July, [
 ### AI
 
 <!-- narrative: technology--tech-ai -->
-
+A US company [announced on 15 September that its AI clinical decision-support platform will be extended to Botswana through the Botswana-UPenn Partnership](https://yourbotswana.com/openevidence-and-penn-medicine-partner-to-extend-ai-clinical-decision-support-to-botswana/), with a customised tool to be built with local clinicians. No timetable, site count or cost is stated.
 <!-- /narrative -->
 ### ICT Industry
 

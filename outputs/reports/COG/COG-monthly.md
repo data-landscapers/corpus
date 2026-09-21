@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-21
 place: COG
 ledger_rows: 32
 not_held: 6
-record: 8d7752da1dec
+record: a9cec454db96
 ---
 
 # Congo: monthly update, August – September 2026
@@ -30,7 +30,7 @@ The education ministry's digital roadmap [was validated at a Brazzaville worksho
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-
+On 17 September the prime minister said [the 2001 law on freedom of information and communication must be updated for social networks, disinformation and artificial intelligence](https://www.adiac-congo.com/content/sicom-2026-un-bilan-et-des-engagements-pour-lavenir-171694), and the media fair's closing resolutions recommended its reform. The resolutions come from media professionals; no draft has been announced.
 <!-- /narrative -->
 ### Regional collaboration
 

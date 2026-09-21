@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-21
 place: TUN
 ledger_rows: 62
 not_held: 6
-record: f1a066dec29f
+record: aa4a433d856f
 ---
 
 # Tunisia: monthly update, August – September 2026
@@ -32,7 +32,7 @@ The customs administration [settled a 2026-2030 strategic plan built around digi
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-
+Compulsory electronic invoicing reached the liberal professions: [registration of about 380,000 providers on the platform opened on 15 September](https://fr.allafrica.com/stories/202609200069.html). The date rests on a tax adviser's radio account, and no official instrument fixing it is held.
 <!-- /narrative -->
 ### Regional collaboration
 

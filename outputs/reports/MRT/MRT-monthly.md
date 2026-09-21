@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-21
 place: MRT
 ledger_rows: 27
 not_held: 3
-record: 80e013ce692c
+record: 9cee64d6a7e7
 ---
 
 # Mauritania: monthly update, August – September 2026
@@ -108,7 +108,7 @@ The month's artificial-intelligence record is a training room. The national mete
 ### Innovation ecosystem
 
 <!-- narrative: technology--tech-innovate -->
-
+The central bank's fintech programme, run with German development cooperation, [set two hackathons for 19 to 22 October on digital credit, split payment and crowdfunding](https://trustmag.net/article/FIKzFdXn). No participant, award or funding figure is published.
 <!-- /narrative -->
 
 ## Capacity
