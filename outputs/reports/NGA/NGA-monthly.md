@@ -1,11 +1,11 @@
 ---
 title: Nigeria — monthly update, August – September 2026
-compiled: 2026-09-20
-period: 2026-08-01 to 2026-09-20
+compiled: 2026-09-21
+period: 2026-08-01 to 2026-09-21
 place: NGA
-ledger_rows: 215
+ledger_rows: 218
 not_held: 10
-record: 1c3e95a8122c
+record: c07c899e0c80
 ---
 
 # Nigeria: monthly update, August – September 2026
