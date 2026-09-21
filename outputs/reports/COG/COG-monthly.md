@@ -1,11 +1,11 @@
 ---
 title: Congo — monthly update, August – September 2026
-compiled: 2026-09-18
-period: 2026-08-01 to 2026-09-18
+compiled: 2026-09-21
+period: 2026-08-01 to 2026-09-21
 place: COG
-ledger_rows: 31
+ledger_rows: 32
 not_held: 6
-record: 6b11aa69da6d
+record: 8d7752da1dec
 ---
 
 # Congo: monthly update, August – September 2026
@@ -26,6 +26,11 @@ The payroll is where the record is unusually candid. Its operator's minutes and 
 
 <!-- narrative: governance--gov-policy -->
 The education ministry's digital roadmap [was validated at a Brazzaville workshop on 19 August](https://www.adiac-congo.com/content/education-la-feuille-de-route-sur-le-numerique-validee-171319). Validated is not adopted: no text, budget line, sequencing or implementing body is published with it.
+<!-- /narrative -->
+### Legislation and regulation
+
+<!-- narrative: governance--gov-legislate -->
+
 <!-- /narrative -->
 ### Regional collaboration
 
