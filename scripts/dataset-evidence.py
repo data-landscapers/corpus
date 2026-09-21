@@ -7,6 +7,8 @@
     python scripts/dataset-evidence.py apply SYC --dry-run
     python scripts/dataset-evidence.py status         # rows verified, by country
     python scripts/dataset-evidence.py refetch        # read what T4 could not, through Exa
+    python scripts/dataset-evidence.py group-packet raxio AGO-012 CIV-003 ...   # T6b
+    python scripts/dataset-evidence.py apply-group raxio [--dry-run]
     python scripts/dataset-evidence.py derive         # set the rule-derived fields on every row
 
 A model reads the packet, one country per sitting, and writes `decisions.json`; this script
@@ -257,19 +259,62 @@ def _packet(iso, rows, name):
     print(f"{p.relative_to(dl.ROOT)}: {len(rows)} rows, {p.stat().st_size:,} bytes")
 
 
-def apply(iso, dry):
-    today = datetime.date.today().isoformat()
+def group_packet(name, ids):
+    """T6b: every row in an operator group, across countries, with each source once."""
+    by_id = {r["facility_id"]: r for r in dl.read(NAME)}
+    rows = [by_id[i] for i in ids]
+    audit = collections.defaultdict(list)
+    for a in read_csv(AUDIT):
+        audit[a["url"]].append(a)
+    cols = dl.columns(NAME)
+    want = {r["facility_id"] for r in rows}
+    claims = collections.defaultdict(list)
+    for c in (read_csv(CLAIMS) if CLAIMS.exists() else []):
+        claims[c["facility_id"]].append(c)
+    cited = {u: sorted({a["facility_id"] for a in aa} & want) for u, aa in audit.items()}
+    cited = {u: c for u, c in cited.items() if c}
+    merged = {c: " ".join(r[c] for r in rows) for c in ("facility_name", "operator_name", "city", "country_name",
+                                                         "parent_company", "ultimate_parent_company")}
+    nl = chr(10)
+    fence = "`" * 3
+    out = [f"# T6b group packet - {name}, {len(rows)} row(s)", "",
+           "Method: `scripts/dataset-evidence.py` docstring and `prep/dc-evidence/GROUP-BRIEF.md`.", ""]
+    for r in rows:
+        out += ["", f"======== {r['facility_id']} - {r['facility_name']} ({r['country_name']}) ========"]
+        for c in cols:
+            if r[c] and c not in ("source_urls", "raw_slugs"):
+                out.append(f"- **{c}**: {r[c]}")
+        for c in claims.get(r["facility_id"], []):
+            out.append(f"- *to source* **{c['field']}**: {c['reason']}")
+    out += ["", "", "# Sources (each once; cited by the rows named)", ""]
+    for u in sorted(cited, key=lambda u: (-len(cited[u]), u)):
+        a = audit[u][0]
+        out += ["", f"### {u}", f"*{a['status']}* - cited by {' '.join(cited[u])}", ""]
+        if a["cached"] and (CACHE / a["cached"]).exists() and not unreadable(a):
+            text = (CACHE / a["cached"]).read_text(encoding="utf-8", errors="replace")
+            out += [fence + "text", excerpt(text, merged).replace(fence, "'" * 3), fence]
+        else:
+            out.append("*(no text: unreadable)*")
+    p = WORK / "groups" / name / "packet.md"
+    p.parent.mkdir(parents=True, exist_ok=True)
+    p.write_text(nl.join(out), encoding="utf-8")
+    print(f"{p.relative_to(dl.ROOT)}: {len(rows)} rows, {len(cited)} sources, {p.stat().st_size:,} bytes")
+
+
+def load_decisions(folder):
     dec = {}
-    for f in sorted((WORK / iso).glob("decisions*.json")):
+    for f in sorted(folder.glob("decisions*.json")):
         part = json.loads(f.read_text(encoding="utf-8"))
         clash = set(part) & set(dec)
         if clash:
             sys.exit(f"{f.name}: rows decided twice: {sorted(clash)}")
         dec.update(part)
+    return dec
+
+
+def apply(iso, dry):
+    dec = load_decisions(WORK / iso)
     rows = dl.read(NAME)
-    cols = dl.columns(NAME)
-    meta = {m["column"]: m for m in dl.metadata(NAME)}
-    af = african()
     mine = {r["facility_id"]: r for r in rows if r["country"] == iso}
     problems = [f"{fid}: not in {iso}" for fid in dec if fid not in mine]
     missing = [fid for fid in mine if fid not in dec]
@@ -277,6 +322,25 @@ def apply(iso, dry):
         print(f"note: no decision yet for {len(missing)} row(s): {' '.join(missing)}")
     elif missing:
         problems += [f"{fid}: no decision" for fid in missing]
+    _apply(dec, rows, mine, iso, dry, problems, group=None)
+
+
+def apply_group(name, dry):
+    """T6b: one reader settles an operator group's facts across countries. A group's decisions
+    need not cover every URL a row cites (T6 did that); they may add sources, and they add to a
+    row's unsourced claims or resolve them rather than replacing the row's list."""
+    dec = load_decisions(WORK / "groups" / name)
+    rows = dl.read(NAME)
+    by_id = {r["facility_id"]: r for r in rows}
+    problems = [f"{fid}: no such row" for fid in dec if fid not in by_id]
+    mine = {fid: by_id[fid] for fid in dec if fid in by_id}
+    _apply(dec, rows, mine, name, dry, problems, group=name)
+
+
+def _apply(dec, rows, mine, scope, dry, problems, group):
+    today = datetime.date.today().isoformat()
+    meta = {m["column"]: m for m in dl.metadata(NAME)}
+    af = african()
     audit = read_csv(AUDIT)
     cited = collections.defaultdict(set)
     for a in audit:
@@ -287,10 +351,16 @@ def apply(iso, dry):
             continue
         r = mine[fid]
         sup = d.get("supports", {})
-        for u in cited[fid] - set(sup):
-            problems.append(f"{fid}: no supports entry for {u}")
+        added = [u.strip() for u in d.get("add_sources", []) if u.strip()]
+        for u in added:
+            if u in cited[fid]:
+                problems.append(f"{fid}: add_sources names a URL the row already cites: {u}")
+        if group is None:
+            for u in cited[fid] - set(sup):
+                problems.append(f"{fid}: no supports entry for {u}")
+        cited[fid] |= set(added)
         for u, fs in sup.items():
-            if u not in cited[fid]:
+            if u not in cited[fid]:  # cited[fid] already includes add_sources
                 problems.append(f"{fid}: supports names an uncited URL {u}")
             elif fs != "unreadable":
                 problems += [f"{fid}: {u} supports unknown field {f}" for f in fs if f not in meta]
@@ -316,6 +386,19 @@ def apply(iso, dry):
                 and "control_category" in d.get("edits", {}):
             problems.append(f"{fid}: control_category departs from the registration rule ({rule}) "
                             "without a new control_rationale")
+        if added:
+            have = [u.strip() for u in r["source_urls"].split(";") if u.strip()]
+            r["source_urls"] = "; ".join(have + [u for u in added if u not in have])
+            changes.append(f"source_urls: {len(added)} source(s) added.")
+            known = {a["url"]: a for a in audit}
+            for u in added:  # a URL another row cites keeps its T4 check and cached text
+                base = known.get(u, {"status": "added", "checked": today})
+                audit.append({**{k: "" for k in audit[0]}, **{k: base.get(k, "") for k in
+                              ("status", "http_code", "final_url", "wayback_url", "cached", "checked", "raw_slug")},
+                              "facility_id": fid, "url": u,
+                              "supports": "; ".join(sup.get(u, [])) if isinstance(sup.get(u), list) else "",
+                              "note": f"added by {'group check ' + group if group else 'T6'}"})
+        problems += [f"{fid}: resolves names unknown field {f}" for f in d.get("resolves", []) if f not in meta]
         for f, why in d.get("to_source", {}).items():
             if f not in meta:
                 problems.append(f"{fid}: to_source names unknown field {f}")
@@ -342,15 +425,20 @@ def apply(iso, dry):
         return
     dl.write(NAME, rows)
     write_csv(AUDIT, list(audit[0].keys()), audit)
-    if claims:
-        old = read_csv(CLAIMS) if CLAIMS.exists() else []
+    old = read_csv(CLAIMS) if CLAIMS.exists() else []
+    if group is None:
         keep = [c for c in old if c["facility_id"] not in mine]
+    else:  # a group check resolves claims by field and adds its own; the rest of a row's list stays
+        gone = {(fid, f) for fid, d in dec.items() for f in d.get("resolves", [])}
+        keep = [c for c in old if (c["facility_id"], c["field"]) not in gone]
+    if claims or keep != old:
         write_csv(CLAIMS, CLAIMS_HEADER, keep + claims)
-    if unchanged:
-        dl.log(NAME, iso, "modify", f"Evidence check: {len(unchanged)} row(s) confirmed against their "
+    if unchanged and group is None:
+        dl.log(NAME, scope, "modify", f"Evidence check: {len(unchanged)} row(s) confirmed against their "
                f"sources with no change ({', '.join(unchanged)}).", date=today)
+    label = f"Group check ({group}). " if group else "Evidence check. "
     for fid, details, src in reversed(log_rows):
-        dl.log(NAME, fid, "modify", "Evidence check. " + details, src, date=today)
+        dl.log(NAME, fid, "modify", label + details, src, date=today)
 
 
 WALLS = re.compile(r"^title: (Page View Limit Reached|Just a moment|Access denied|Attention Required)", re.I | re.M)
@@ -410,8 +498,9 @@ def status():
 
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
-    ap.add_argument("cmd", choices=["packet", "apply", "status", "refetch", "derive"])
-    ap.add_argument("iso", nargs="?")
+    ap.add_argument("cmd", choices=["packet", "apply", "status", "refetch", "derive", "group-packet", "apply-group"])
+    ap.add_argument("iso", nargs="?", help="ISO3, or a group name for group-packet / apply-group")
+    ap.add_argument("ids", nargs="*", help="group-packet: the group's facility IDs")
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--parts", type=int, default=1, help="packet: cut a large country into N packets")
     a = ap.parse_args()
@@ -421,6 +510,10 @@ if __name__ == "__main__":
         refetch()
     elif a.cmd == "derive":
         derive_all()
+    elif a.cmd == "group-packet":
+        group_packet(a.iso, a.ids)
+    elif a.cmd == "apply-group":
+        apply_group(a.iso, a.dry_run)
     elif not a.iso:
         ap.error("give an ISO3")
     elif a.cmd == "packet":
