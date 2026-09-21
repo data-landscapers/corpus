@@ -1,0 +1,3 @@
+facility_id,field,claim,reason,date
+SYC-001,submarine_cable_access,Connected via metro fibre,"plausible for an island facility, but no readable source describes its route to the landing station",2026-09-21
+SYC-001,carrier_neutrality,Single carrier / captive,"an operator's own core network, so captive is likely; no source states it",2026-09-21

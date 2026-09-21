@@ -10,6 +10,11 @@ Two v2 columns are dropped, because neither held information of its own (checked
   - `chinese_role` was "Construction/Equipment" wherever `chinese_involvement` was set, including
     the 17 Ownership rows, so it was a lossy copy.
 
+`cloud_act_exposure` was relabelled on 2026-09-21 (T6) and is now set by rule. v2 judged it row by
+row and disagreed with its own guidance in about a third of rows, and its "No" read "fully domestic
+ownership and stack", which is false for every foreign, non-US parent. The field asks one question —
+can a US order reach this data — and the rule answers it from two columns already in the row.
+
 Columns: column, label (the table header), type, values (the allowed set for a category, or the
 format), derived (blank if collected; otherwise the rule it is computed by), definition, guidance.
 """
@@ -108,10 +113,10 @@ F = [
  ("hyperscaler_presence", "", "Any hyperscaler", "category", YN, "Yes if any hyperscaler_* column is Yes",
   "Whether any of the three hyperscalers has a relationship with the facility.", ""),
  ("cloud_act_exposure", "", "CLOUD Act", "category",
-  "Yes (US-parented operator or hyperscaler on-ramp); Partial (some services exposed); No (fully domestic ownership and stack)" + UNK,
+  "Yes (US-parented operator); Partial (US hyperscaler service on site); No (no US parent or hyperscaler service)" + UNK,
   "from ultimate_parent_hq_country and hyperscaler_*",
-  "Whether the US CLOUD Act, or similar foreign law, can compel access to data held at the facility.",
-  "Yes when the ultimate parent is US-registered. Partial when a US hyperscaler runs an on-ramp or service at a facility whose parent is not US-registered."),
+  "Whether the US CLOUD Act can compel access to data held at the facility, through its owner or a US cloud provider there.",
+  "Set by rule, not judged: Yes when ultimate_parent_hq_country includes USA; otherwise Partial when any hyperscaler_* is Yes; otherwise No. Unknown when ultimate_parent_hq_country is blank."),
  ("chinese_involvement", "", "Chinese role", "category", "Ownership; Investment; Construction/Equipment; None identified", "",
   "The strongest form of Chinese involvement in the facility.",
   "Ownership outranks Investment, which outranks Construction/Equipment. Write 'None identified' when a search found none."),
