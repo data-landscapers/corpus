@@ -3,7 +3,7 @@
 
     python scripts/dataset-stage.py --match     # catalogue slugs into url-audit.csv (raw_slugs: dataset-scan --relink)
     python scripts/dataset-stage.py --stage     # dated documents not held -> new-queue/, no READY
-    python scripts/dataset-stage.py --stage --round t8   # a later pass: new-queue/dataset-data-centres-{ISO3}-t8/
+    python scripts/dataset-stage.py --stage     # new-queue/dataset-data-centres-batch-NN/, 40 a batch
     python scripts/dataset-stage.py --ready     # after lint-staged-queue passes: READY in each batch
 
 **Matching** uses the screen `status-stage.py` implements for OSINT (`norm`, `raw-url-index.csv`,
@@ -20,9 +20,10 @@ page's own metadata, a PDF's, or a dated path (`/2024/05/…`).
 
 Each staged file is `status-stage.py`'s format: the body verbatim from the T4 cache under a
 `URL:` line, `places` for every country whose facilities cite it, `topics: [infra.store]`, and
-`sweep_batch: dataset-data-centres-{ISO3}-{date}`. The batch is `new-queue/dataset-data-centres-{ISO3}/`
-(split at 190 items), written without `READY`: a `dataset-` folder is news-priced until OSINT
-adds the prefix to its backfill lane.
+`sweep_batch: dataset-data-centres-batch-NN-{date}`. Batches are `new-queue/dataset-data-centres-batch-NN/`,
+40 documents each across countries (Bill, 2026-09-21: OSINT works them in 40s; T5's first round
+went out by country), numbered on so none is reused, written without `READY`: OSINT pulls
+`dataset-` folders itself.
 """
 from __future__ import annotations
 import argparse, collections, csv, datetime as dt, html, importlib.util, io, os, pathlib, re, sys
@@ -55,7 +56,7 @@ def clean(t: str) -> str:
 NAME = "data-centres"
 QUEUE = pathlib.Path(status_lib.EXCHANGE) / "new-queue"
 PREFIX = f"dataset-{NAME}"
-CAP = 190
+BATCH = 40         # files per batch: OSINT works a dataset batch in one go (Bill, 2026-09-21)
 # Reference pages: listings, registers, profiles and feeds. Cited in place, never staged.
 REFERENCE = re.compile(r"(^|\.)(datacentermap\.com|wikipedia\.org|linkedin\.com|peeringdb\.com|baxtel\.com|"
                        r"inflect\.com|datacenterplatform\.com|marketscreener\.com|finance\.yahoo\.com|"
@@ -172,10 +173,14 @@ def stage(round_: str = "") -> None:
     by_url = {}
     for r in rows:
         by_url.setdefault(r["url"], r)
+    # A URL is done if ANY row citing it is held, rejected or staged: judging by the first row alone
+    # restaged three documents a second row also cited (T9, 2026-09-21).
+    done = {r["url"] for r in rows
+            if r["raw_slug"] or r["note"].startswith("rejected") or r["note"].startswith("staged")}
     cand, skipped = [], collections.Counter()
     for u, r in by_url.items():
         host = up.urlsplit(u).netloc.lower().removeprefix("www.")
-        if r["raw_slug"] or r["note"].startswith("rejected") or r["note"].startswith("staged"):
+        if u in done:
             continue
         if not r["cached"]:
             skipped["no readable text"] += 1
@@ -198,7 +203,7 @@ def stage(round_: str = "") -> None:
             words = (q.get("post") or [up.urlsplit(u).path.rstrip("/").rsplit("/", 1)[-1]])[0]
             words = re.sub(r"-\d+$", "", re.sub(r"\.\w+$", "", words)).replace("-", " ").replace("_", " ").strip()
             dates[u] = (*d[:3], words[:1].upper() + words[1:] if words else d[3])
-    batches = collections.defaultdict(list)
+    items = []
     for u in cand:
         date, precision, publisher, page_title = dates[u]
         if not date:
@@ -206,37 +211,39 @@ def stage(round_: str = "") -> None:
             by_url[u]["note"] = "not staged: no publication date readable, cited in place"
             continue
         iso = collections.Counter(places[u]).most_common(1)[0][0]
-        batches[iso].append((u, date, precision, publisher, page_title))
+        items.append((iso, u, date, precision, publisher, page_title))
+    items.sort()
+    # Batches of BATCH across countries, numbered on from the highest batch any folder or audit note
+    # has used, so a number is never reissued after OSINT pulls and empties a folder.
+    used = [int(m.group(1)) for m in (re.search(r"-batch-(\d+)$", f.name) for f in QUEUE.glob(f"{PREFIX}-batch-*")) if m]
+    used += [int(m.group(1)) for m in (re.search(r"staged .*-batch-(\d+)", r["note"]) for r in rows) if m]
+    nxt = max(used, default=0) + 1
     staged = 0
-    for iso, items in sorted(batches.items()):
-        for k in range(0, len(items), CAP):
-            # A later pass stages into its own folder: an earlier round's folder keeps its
-            # delivered- marker after OSINT pulls it, and is never staged over.
-            folder = QUEUE / (f"{PREFIX}-{iso}" + (f"-{round_}" if round_ else "")
-                              + (f"-{k // CAP + 1}" if len(items) > CAP else ""))
-            if folder.exists() and any(folder.iterdir()):
-                print(f"{folder} already holds files; not restaging over them")
-                continue
-            folder.mkdir(parents=True, exist_ok=True)
-            for u, date, precision, publisher, page_title in items[k:k + CAP]:
-                fetched, title, body = cached_body(by_url[u]["cached"])
-                title = page_title or title
-                title, body, publisher = clean(title), clean(body), clean(publisher)
-                title = title or up.urlsplit(u).path.rstrip("/").rsplit("/", 1)[-1].replace("-", " ")[:120]
-                row = {"url": u, "title": title, "publisher": publisher or up.urlsplit(u).netloc.removeprefix("www."),
-                       "published": date[:7] if precision == "month" else date, "sub_section": "infra.store"}
-                path = ss.write_file(str(folder), row, body, fetched or u, today, iso, title)
-                # status-stage writes one place and its own batch name; a dataset source can serve several.
-                text = pathlib.Path(path).read_text(encoding="utf-8")
-                text = text.replace(f"places: [{iso}]", f"places: [{', '.join(sorted(set(places[u])))}]", 1)
-                text = text.replace(f"sweep_batch: status-acquire-{iso}-{today}", f"sweep_batch: {PREFIX}-{iso}-{today}", 1)
-                pathlib.Path(path).write_text(text, encoding="utf-8", newline="\n")
-                by_url[u]["note"] = f"staged {folder.name}"
-                staged += 1
+    for k in range(0, len(items), BATCH):
+        folder = QUEUE / f"{PREFIX}-batch-{nxt + k // BATCH:02d}"
+        if folder.exists() and any(folder.iterdir()):
+            print(f"{folder} already holds files; not restaging over them")
+            continue
+        folder.mkdir(parents=True, exist_ok=True)
+        for iso, u, date, precision, publisher, page_title in items[k:k + BATCH]:
+            fetched, title, body = cached_body(by_url[u]["cached"])
+            title = page_title or title
+            title, body, publisher = clean(title), clean(body), clean(publisher)
+            title = title or up.urlsplit(u).path.rstrip("/").rsplit("/", 1)[-1].replace("-", " ")[:120]
+            row = {"url": u, "title": title, "publisher": publisher or up.urlsplit(u).netloc.removeprefix("www."),
+                   "published": date[:7] if precision == "month" else date, "sub_section": "infra.store"}
+            path = ss.write_file(str(folder), row, body, fetched or u, today, iso, title)
+            # status-stage writes one place and its own batch name; a dataset source can serve several.
+            text = pathlib.Path(path).read_text(encoding="utf-8")
+            text = text.replace(f"places: [{iso}]", f"places: [{', '.join(sorted(set(places[u])))}]", 1)
+            text = text.replace(f"sweep_batch: status-acquire-{iso}-{today}", f"sweep_batch: {folder.name}-{today}", 1)
+            pathlib.Path(path).write_text(text, encoding="utf-8", newline="\n")
+            by_url[u]["note"] = f"staged {folder.name}"
+            staged += 1
     for r in rows:
         r["note"] = by_url[r["url"]]["note"]
     du.write_audit(rows)
-    print(f"staged {staged} in {len(batches)} countries; not staged: " + ", ".join(f"{k} {v}" for k, v in skipped.items()))
+    print(f"staged {staged} in {-(-staged // BATCH)} batch(es); not staged: " + ", ".join(f"{k} {v}" for k, v in skipped.items()))
 
 
 def ready() -> None:
