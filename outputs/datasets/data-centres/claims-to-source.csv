@@ -1134,8 +1134,6 @@ NGA-002,ixp_presence,IXP hosted on-site,IXPN is hosted at MDXi Lekki per Submari
 NGA-002,major_shareholders,"Vanguard Group (13.64%), BlackRock (10.99%), State Street (6.32%), FMR LLC (2.86%), Cohen & Steers (2.66%) [Yahoo Finance](https://finance.yahoo.com/quote/EQIX/holders/)",the Yahoo holders page returned an empty table; the register needs a current filing,2026-09-21
 NGA-002,dfi_involvement,None recent; pre-2022 AfDB funded MainOne cable (2009),AfDB financing of the MainOne cable (2009) is plausible but no readable source gives it,2026-09-21
 NGA-003,operational_status,Under construction,"the announcement is a soft 404; Equinix's Lagos page now counts three IBX data centres in Lagos, which may mean LG3 has opened",2026-09-21
-NGA-003,year_operational,2026,a Q1 2026 target rests on the dead announcement,2026-09-21
-NGA-003,investment_usd,22000000,$22M rests on the dead announcement,2026-09-21
 NGA-003,total_floor_space_sqm,610,610 sqm rests on the dead announcement,2026-09-21
 NGA-003,it_capacity_mw,1.5,1.5 MW rests on the dead announcement,2026-09-21
 NGA-003,submarine_cable_access,Connected via metro fibre,metro-fibre access from Victoria Island is plausible; no readable source states it,2026-09-21
@@ -1214,9 +1212,7 @@ NGA-021,services_offered,Hyperscale colocation; Cloud; AI GPU; CDN; Edge,Nxtra a
 NGA-021,submarine_cable_access,Dark fibre connection to landing station,sources place the site close to landing stations but do not describe the connection,2026-09-21
 NGA-022,ultimate_parent_company,(self),"Kasi's shareholder register is not in any source; T9 should establish who controls it (founders, NSIA, or US investors via its Reston office and DH Capital board seat)",2026-09-21
 NGA-022,ownership_type,Joint venture (majority domestic),a domestic-majority joint venture of NSIA and the founders is plausible but no source states the split,2026-09-21
-NGA-022,year_operational,2026,the 5.5MW first phase due Q2 2026 is not in any readable source; Moneycentral found no timeline,2026-09-21
 NGA-022,services_offered,Hyperscale AI colocation; GPU compute; High-density IaaS,GPU compute and IaaS are not advertised by Kasi; only hyperscale colocation and interconnection are,2026-09-21
-NGA-022,submarine_cable_access,Dark fibre connection to landing station,"plausible for a coastal Lekki site, but no source describes the connection",2026-09-21
 NGA-023,year_operational,2015,no readable source gives the opening year,2026-09-21
 NGA-023,cloud_platform,OpenStack,OpenStack is plausible for Layer3Cloud but no source names the platform; Layer3's partners include VMware,2026-09-21
 NGA-023,carrier_neutrality,Limited carriers,no source states how many carriers serve the facility,2026-09-21
@@ -1257,7 +1253,6 @@ ZAF-002,ixp_presence,IXP hosted on-site,NAPAfrica peering is offered on the Isan
 ZAF-003,rack_capacity,3600,no source gives JB5's rack count,2026-09-21
 ZAF-003,security_certifications,ISO 27001; ISO 9001; ISO 14001; ISO 50001; PCI-DSS; ISAE 3402 Type 2,"Teraco's releases list the portfolio's certifications (ISO 9001/27001/50001/14001/45001, PCI-DSS, ISAE 3402) without saying which facility holds which, or the ISAE report type",2026-09-21
 ZAF-003,ixp_presence,IXP hosted on-site,NAPAfrica peering is offered on the Isando campus; no cited source says which building hosts the exchange,2026-09-21
-ZAF-004,investment_usd,877000000,no source gives JB7's cost; the R8bn syndicated loan funds JB7 and other projects,2026-09-21
 ZAF-004,rack_capacity,4800,no source gives JB7's planned rack count,2026-09-21
 ZAF-004,ixp_presence,IXP hosted on-site,NAPAfrica peering is offered on the Isando campus; JB7 is not yet open,2026-09-21
 ZAF-004,operational_status,Under construction,"newest source (DCD, June 2025) has JB7 due in 2026; completion not yet reported",2026-09-21
@@ -1355,7 +1350,6 @@ ZAF-021,security_certifications,ISO 27001,ISO 27001 is not in any readable sourc
 ZAF-021,operational_status,Operational,Datacentermap lists the facility but is undated; no dated source confirms it is running,2026-09-21
 ZAF-021,facility_name,OADC Brackenfell (Cape Town),"Datacentermap lists three OADC Cape Town sites (Bree Street, Brackenfell, Rondebosch) and NTT's Cape Town site passed to OADC in 2025; T8 to check whether that is one of them",2026-09-21
 ZAF-022,major_shareholders,"Vanguard Group (13.64%), BlackRock (10.99%), State Street (6.32%), FMR LLC (2.86%), Cohen & Steers (2.66%) [Yahoo Finance](https://finance.yahoo.com/quote/EQIX/holders/)",the Yahoo holders page returned no figures; the stakes need a current filing,2026-09-21
-ZAF-022,year_operational,2024,the 2022 release expected mid-2024; no source confirms the opening year,2026-09-21
 ZAF-022,services_offered,Colocation; interconnection; cloud on-ramps; Platform Equinix,cloud on-ramps at JN1 are in no readable source,2026-09-21
 ZAF-022,carrier_neutrality,Fully carrier-neutral,"Equinix's stated African strategy is carrier-neutral, but no source states it for JN1",2026-09-21
 ZAF-022,submarine_cable_access,Connected via metro fibre,no source describes the route to a landing station,2026-09-21
@@ -1615,3 +1609,70 @@ ZAF-039,facility_name,Liquid Intelligent Technologies DC (Midrand),same facility
 ZAF-039,major_shareholders,"Of Cassava Africa Data Centres SA (Pty) Ltd: Africa Data Centres Holdings Ltd (Cassava Technologies), majority; STANLIB Infrastructure Fund II, minority with joint control; stakes not disclosed [Tribunal](https://comptrib.co.za/info-library/press-room/Merger-Alert:-Outcome-of-mergers-decided-by-the-Tribunal-4-February-2026). Of Cassava Technologies (stakes not disclosed): Econet Group, Public Investment Corporation, British International Investment, Gateway Capital, Royal Bafokeng Holdings, IFC, Afreximbank/FEDA, DFC, Finnfund, Google LLC and NVIDIA [Liquid](https://liquid.tech/about-us/news/gpu-as-a-service-to-africa/)","STANLIB's stake in Cassava Africa Data Centres SA is undisclosed ('minority', with joint control)",2026-09-21
 SYC-002,operational_status,Unknown,the certificate covers design documents only; whether the facility is built and in service is not stated,2026-09-21
 SYC-002,ownership_type,Unknown,owners of Cable & Wireless (Seychelles) Limited not in the records,2026-09-21
+SEN-007,investment_usd,10000000,"McKinsey (Nov 2025, citing DCD Jan 2025) says the Dakar build is backed by $20m equity from Africa50 against the row's $10m; whether the $20m is for this facility or the PAIX platform is unsettled",2026-09-21
+KEN-011,year_operational,2021,ODI (Feb 2026) has Phase 1 completed in 2020 and the project stalled since 2021; the row says 2021,2026-09-21
+KEN-028,operational_status,Planned,on hold since May 2026 per two commentaries; whether Planned still fits or the project is abandoned needs a primary,2026-09-21
+KEN-029,operational_status,Planned,on hold since May 2026 per two commentaries; whether Planned still fits or the project is abandoned needs a primary,2026-09-21
+ZAF-044,ultimate_parent_company,Alphabet Inc.,"one analysis says the region is housed in a Teraco (Digital Realty) campus; if so the facility's owner is Digital Realty, still US control",2026-09-21
+NGA-007,major_shareholders,"Of WIOCC Holding Company Ltd: IFC 10% [IFC](https://disclosures.ifc.org/project-detail/SII/51154/wiocc-vi-debt); the other stakes are not disclosed: African Capital Alliance (CAPE IV fund, US$75M of a US$124M raise) [Verdant Capital](https://verdant-cap.com/verdant-capital-advises-wiocc-on-usd-80-million-equity-capital-raise/), management and ten African telcos (Botswana Fibre Networks, Dalkom Somalia, Djibouti Telecom, Lesotho Communications Authority, Moçambique Telecom (TMCEL), ONATEL, Telkom Kenya, TelOne, Uganda Telecom, Zantel) [IFC](https://disclosures.ifc.org/project-detail/SII/51154/wiocc-vi-debt)",WIOCC Group equity pending: AFC and Vision Invest signed a $300m subscription (1 Sep 2026) and DFC's board approved equity of about $155m (16 Sep 2026); none closed. On completion recheck major_shareholders and government_ownership_pct on every OADC row,2026-09-21
+KEN-005,key_tenants,,TechTrends (June 2026) says the 53 MW facility became home to Servernah Cloud in March 2026; it may mean NBOX1,2026-09-21
+KEN-005,operational_status,Planned,a March 2026 tenant would mean the facility is no longer Planned; confirm,2026-09-21
+NGA-016,gpu_ai_capability,Unknown,a Gates Foundation AI Scaling Hub GPU cluster is to be hosted by Galaxy Backbone (August 2026 brief); facility not named,2026-09-21
+GHA-004,security_certifications,Unknown,"Data Landscapers (June 2026) calls it Ghana's only Uptime Tier IV-certified facility, as the comments say; the field is Unknown pending the Uptime register",2026-09-21
+SEN-004,security_certifications,ISO 27001,Data Landscapers (June 2026) calls Onix Dakar a Tier IV site; the row has only a Tier III design submission and a self-described Tier IV,2026-09-21
+NGA-031,operational_status,Unknown,'built with Huawei' suggests completion; not stated,2026-09-21
+NGA-031,operator_name,Tetracore,taken from the facility's name; the company's registration and owners are not in the record,2026-09-21
+NGA-031,city,Atakobo (Ogun State),record gives Ogun State only; Atakobo from the name,2026-09-21
+ZAF-051,ownership_type,Unknown,CHPC is state-funded research infrastructure under NICIS; the owning body is not stated in the record,2026-09-21
+ZAF-051,gps_coordinates,,site in Cape Town not given,2026-09-21
+EGY-025,city,Not announced,site not stated in the record,2026-09-21
+EGY-025,ownership_type,Unknown,"JV partners named but their stakes, and whether MCIT holds equity, are not stated",2026-09-21
+EGY-025,hyperscaler_relationships,,Google holds equity in Cassava; counts only if Cassava's JV stake is confirmed,2026-09-21
+EGY-025,facility_type,Hyperscale,Hyperscale inferred from the 200MW target; the operating model is not stated,2026-09-21
+CMR-002,ownership_type,Unknown,"owner not stated; Cybastion's Gabon data centre (GAB-002) was built with the state, so check for a government or PPP stake",2026-09-21
+CMR-002,investment_usd,75000000,second-hand figure; whether $75m is the data centre alone is unclear,2026-09-21
+CMR-002,facility_type,,not stated,2026-09-21
+NGA-011,it_capacity_mw,1,"DCD (August 2025) gives LOS1 2MW across 200 sqm, against the row's 1MW",2026-09-21
+NGA-011,total_floor_space_sqm,350,"DCD (August 2025) gives LOS1 200 sqm, against the row's 350",2026-09-21
+NGA-012,total_floor_space_sqm,400,"DCD (August 2025) gives LOS2 680 sqm, against the row's 400",2026-09-21
+NGA-014,total_floor_space_sqm,2450,"DCD (August 2025) gives LKK2 about 1,205 sqm (13,000 sq ft) of data hall, against the row's 2,450",2026-09-21
+NGA-023,facility_name,Layer3 Data Centre Abuja,"Layer3's founder (Rest of World, February 2025) says it runs its cloud out of third-party data centres, two in Lagos and one in Abuja; the row may describe a tenancy, not a Layer3 facility",2026-09-21
+NGA-032,operational_status,Under construction,a deal-record note says PR1 opened December 2025 and TechCabal (February 2026) confirms it operational; neither text is in the packet,2026-09-21
+NGA-032,facility_type,,presumably an Equinix colocation site; no record says so,2026-09-21
+NGA-032,year_operational,,Q1 2026 readiness is in the deal-record note only,2026-09-21
+NGA-022,it_capacity_mw,100,100 MW is the campus design; the capacity commissioned in LOS1 is not stated (comments give a 5.5 MW first phase),2026-09-21
+NGA-022,ultimate_parent_company,(self),"BusinessDay (2026-09-01) presents the KASI campus as an NSIA investment it is developing; NSIA's equity stake, if any, is not stated",2026-09-21
+NGA-021,it_capacity_mw,38,"Airtel's website gives 38MW; Vertiv (its main power and cooling vendor, October 2025) gives 42MW over four phases to 2028 (THEWILL, 2026-09-04); neither explains the difference",2026-09-21
+NGA-008,investment_usd,240000000,"BusinessDay (2026-09-19) gives 'more than $240 million' for MTN's new Lagos data centre, first phase about $120M; figure is a floor and the record does not name the facility",2026-09-21
+NGA-018,chinese_involvement,None identified,"21CTL signed a sovereign-cloud partnership with China Mobile International in June 2026 (ITWeb, 2026-06-10-21st-century-china-mobile-sovereign-cloud); which 21CTL facility hosts the platform, and whether China Mobile supplies equipment there, is not stated",2026-09-21
+NGA-019,chinese_involvement,None identified,"21CTL signed a sovereign-cloud partnership with China Mobile International in June 2026 (ITWeb, 2026-06-10-21st-century-china-mobile-sovereign-cloud); which 21CTL facility hosts the platform, and whether China Mobile supplies equipment there, is not stated",2026-09-21
+NGA-020,chinese_involvement,None identified,"21CTL signed a sovereign-cloud partnership with China Mobile International in June 2026 (ITWeb, 2026-06-10-21st-century-china-mobile-sovereign-cloud); which 21CTL facility hosts the platform, and whether China Mobile supplies equipment there, is not stated",2026-09-21
+NGA-033,operational_status,Planned,"only a plan in a company statement; no land, permit or construction start reported",2026-09-21
+NGA-033,ownership_type,Unknown,owners of GFA Technologies Group not in the records,2026-09-21
+NGA-033,it_capacity_mw,200,"200 MW is the planned nine-year total, not built capacity",2026-09-21
+NGA-034,city,Abuja,"the record places the visit at NCS headquarters, Maitama; the data centre's own site is not stated",2026-09-21
+NGA-034,year_operational,,not stated; NCS modernisation described as recent,2026-09-21
+NGA-034,chinese_involvement,,builder and equipment suppliers not in the record,2026-09-21
+NGA-034,it_capacity_mw,,no size given,2026-09-21
+NGA-035,ownership_type,Unknown,"owner's equity not stated; DPA is 'in association with' Master Power Technologies Group (see MOZ-010, ZAF-035)",2026-09-21
+NGA-035,year_operational,,no opening date stated,2026-09-21
+NGA-035,security_certifications,,Uptime Tier IV Constructed Facility assessment engaged September 2026; award not yet reported,2026-09-21
+ZAF-022,it_capacity_mw,4,4MW built; Equinix (12 August 2026) plans two further 10MW phases to 24MW - add the planned total to comments,2026-09-21
+ZAF-012,facility_name,Africa Data Centres CPT1 (Cape Town - Elfindale),INX-ZA's export calls the site 'Africa Data Centres Diep Rivier'; taken as CPT1 (Elfindale adjoins Diep River) - confirm the address,2026-09-21
+ZAF-052,year_operational,,first availability zone opened November 2018 or early 2019; the record does not settle which,2026-09-21
+ZAF-052,gps_coordinates,,"no source gives the sites of the three availability zones, or whether they sit in colocation (Teraco or another)",2026-09-21
+ZAF-052,ultimate_parent_company,Huawei,"the chain above Huawei (Huawei Technologies Co., Ltd.; Huawei Investment & Holding) is not in the record",2026-09-21
+ZAF-053,city,Johannesburg,no source gives the site beyond Johannesburg,2026-09-21
+ZAF-053,ultimate_parent_hq_country,USA,Visa Inc.'s US registration is not stated in the record,2026-09-21
+ZAF-054,operational_status,Planned,"only a 2023 industry-association timeline names CT3; whether it was built, and where in Cape Town, is not sourced",2026-09-21
+ZAF-054,ultimate_parent_company,,"Teraco's chain (Digital Realty, about 61%, per ZAF-001 to ZAF-009) would apply if CT3 is Teraco's; not in this record",2026-09-21
+ZAF-054,year_operational,,no target year given,2026-09-21
+ZAF-018,facility_name,OADC Cape Town/Rondebosch (ex-NTT/IS),"INX-ZA names three OADC Cape Town sites: Bree Street (an established CINX site, 15 networks), Rondebosch and Bellville (new nodes, August 2026). The dataset has Rondebosch (this row, ex-NTT) and Brackenfell (ZAF-021). T8: confirm which Cape Town site OADC bought from NTT, whether Bellville is ZAF-021, and whether Bree Street needs its own row",2026-09-21
+ZAF-021,city,Cape Town (Brackenfell),INX-ZA's export (August 2026) names an OADC Bellville site (CINX node psw1.bel) and no Brackenfell site; check whether this row is that facility,2026-09-21
+ZAF-035,gpu_ai_capability,"Yes, confirmed GPU/AI infrastructure",the releases say the cloud is launched but also that it 'will be powered' by the B300 servers; installation not independently confirmed,2026-09-21
+ZAF-055,year_operational,,opening date of the pilot not stated,2026-09-21
+ZAF-055,ownership_type,,Telkom's shareholding (state stake) not in the record,2026-09-21
+ZAF-055,gps_coordinates,,site within the landing station not located,2026-09-21
+ZAF-056,control_category,,owners and registration of Vexa Infrastructure not in the record,2026-09-21
+ZAF-056,year_operational,,no target year stated,2026-09-21
+ZAF-056,investment_usd,,no capex figure stated,2026-09-21

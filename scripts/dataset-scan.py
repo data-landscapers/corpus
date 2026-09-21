@@ -26,9 +26,15 @@ its packet, and applying it marks exactly those slugs considered:
     {"considered": {"<slug>": "<one line: what it changed, or why nothing>", ...},
      "rows": {
        "KEN-003": {"edits": {"<field>": {"value": "...", "why": "..."}},
+                   "append": {"comments": "<sentence added to the end of the cell>"},
                    "add_slugs": ["<slug>"], "to_source": {...}, "resolves": [...]},
        "new:1":   {"fields": {"facility_name": "...", "country": "KEN", ...},
                    "add_slugs": ["<slug>"], "why": "<one line: why this is a new facility>"}}}
+
+Parts of one place may decide the same row: their `add_slugs`, `resolves`, `to_source` and
+`append` are combined, and two parts editing one field to different values stops the apply. Name
+new rows `new:{part}-{n}`. The packet shows long cells cut short, so add to one with `append`
+rather than rewriting it in `edits`.
 
 `add_slugs` puts the record's URL in `source_urls` and its slug in `raw_slugs`: a raw record is
 already in the catalogue, so nothing is staged. A new row takes the next free ID in its country.
@@ -112,8 +118,9 @@ def row_line(r):
     keep = ("facility_name", "city", "operational_status", "year_operational", "facility_type", "operator_name",
             "ultimate_parent_company", "it_capacity_mw", "rack_capacity", "total_floor_space_sqm",
             "investment_usd", "expansion_plans", "hyperscaler_relationships", "chinese_involvement",
-            "chinese_entities", "control_category")
-    return f"- **{r['facility_id']}** " + " | ".join(f"{k}: {r[k]}" for k in keep if r[k])
+            "chinese_entities", "control_category", "recent_investments", "comments")
+    cut = lambda v: v if len(v) <= 400 else v[:400] + "…"
+    return f"- **{r['facility_id']}** " + " | ".join(f"{k}: {cut(r[k])}" for k in keep if r[k])
 
 
 def packet(name, where, parts=1):
@@ -131,8 +138,8 @@ def packet(name, where, parts=1):
         named = {str(p).strip() for s in chunk for p in (c[s]["fm"].get("places") or [])} | {where}
         out = [f"# T7 packet — {name}, {where}" + (f", part {k + 1} of {parts}" if parts > 1 else "")
                + f": {len(chunk)} record(s)", "",
-               "Method: `scripts/dataset-scan.py` docstring. Every slug below needs an entry under "
-               "`considered` in your decisions file.", "",
+               "Method: `scripts/dataset-scan.py` docstring. Every record starts with a line `=== RECORD {slug} ===`; "
+               f"there are {len(chunk)}, and each needs an entry under `considered` in your decisions file.", "",
                "## Current rows in the countries these records name", ""]
         for r in rows:
             if r["country"] in named:
@@ -142,7 +149,7 @@ def packet(name, where, parts=1):
         for s in chunk:
             r = c[s]
             fm = r["fm"]
-            out += [f"### {s}", f"*{fm.get('published', '')} · {fm.get('publisher', '')} · places "
+            out += [f"=== RECORD {s} ===", f"*{fm.get('published', '')} · {fm.get('publisher', '')} · places "
                     f"{', '.join(map(str, fm.get('places') or []))} · topics {', '.join(topics(fm))}*",
                     f"**{fm.get('title', '')}** — {fm.get('url', '')}", ""]
             if fm.get("hub_line"):
@@ -187,13 +194,27 @@ def apply(name, where, dry):
     """Check a place's decisions and apply them: edits and new rows through datasets_lib, each
     logged with the records it rests on, then every accounted slug marked considered."""
     dec = {"considered": {}, "rows": {}}
+    clashes = []
     for f in sorted((WORK / where).glob("decisions*.json")):
         part = json.loads(f.read_text(encoding="utf-8"))
         dec["considered"].update(part.get("considered", {}))
-        clash = set(part.get("rows", {})) & set(dec["rows"])
-        if clash:
-            sys.exit(f"{f.name}: rows decided twice: {sorted(clash)}")
-        dec["rows"].update(part.get("rows", {}))
+        for key, d in part.get("rows", {}).items():
+            if key.startswith("new:"):  # every part numbers from 1: keep them apart
+                dec["rows"][f"new:{f.stem}:{key[4:]}"] = d
+                continue
+            have = dec["rows"].setdefault(key, {})
+            for fld, e in d.get("edits", {}).items():  # parts of one place may both touch a row
+                old = have.setdefault("edits", {}).get(fld)
+                if old and str(old["value"]).strip() != str(e["value"]).strip():
+                    clashes.append(f"{key}.{fld}: {f.name} says {e['value']!r}, an earlier part {old['value']!r}")
+                have["edits"][fld] = e
+            for k in ("add_slugs", "resolves"):
+                have[k] = list(dict.fromkeys(have.get(k, []) + d.get(k, [])))
+            have.setdefault("to_source", {}).update(d.get("to_source", {}))
+            for fld, text in d.get("append", {}).items():
+                have.setdefault("append", {})[fld] = (have.get("append", {}).get(fld, "") + " " + text).strip()
+    if clashes:
+        sys.exit("parts disagree:\n" + "\n".join(clashes))
     cand = candidates(name)
     todo = pending(name, where)
     problems = [f"{s}: not a candidate" for s in dec["considered"] if s not in cand]
@@ -251,6 +272,12 @@ def apply(name, where, dry):
                 desc = (f"{fld} {short(old)} → {short(new)}" if len(old) <= 60 and len(new) <= 60
                         else f"{fld} {'cleared' if not new else 'filled' if not old else 'rewritten'}")
                 changes.append(f"{desc}: {e['why'].rstrip('.')}.")
+            for fld, text in d.get("append", {}).items():  # add to a cell the packet shows cut short
+                if fld not in meta or fld in de.DERIVED_BY_SCRIPT:
+                    problems.append(f"{key}: cannot append to {fld}")
+                    continue
+                target[fld] = f"{target[fld].rstrip()} {text.strip()}".strip()
+                changes.append(f"{fld}: added \"{text.strip()[:80]}\".")
             det = ("From raw/. " + " ".join(changes)).strip()
         have = [u.strip() for u in target["source_urls"].split(";") if u.strip()]
         hs = [u.strip() for u in target["raw_slugs"].split(";") if u.strip()]
