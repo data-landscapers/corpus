@@ -758,3 +758,39 @@ GHA-011,submarine_cable_access,Connected via metro fibre,ALP says only that the 
 GHA-012,dfi_involvement,Past: DEG (German DFI) provided debt financing in 2015,no readable source gives DEG debt financing in 2015,2026-09-21
 GHA-012,services_offered,Mobile broadband; Data hosting; Captive operator DC; RAN support,data hosting at the facility has no source,2026-09-21
 GHA-012,submarine_cable_access,Connected via metro fibre,no source describes the facility's route to a landing station,2026-09-21
+UGA-001,parent_hq_country,ARE,"Raxio Group gives an Amsterdam HQ and a DIFC Dubai office, and its borrower is a Dutch BV; no source states where Raxio Group itself is registered",2026-09-21
+UGA-001,ultimate_parent_hq_country,USA|FRA,"Roha is described only as having offices in Africa, the US and Europe; its registration, and Meridiam's fund's, need a filing",2026-09-21
+UGA-001,security_certifications,Uptime Institute Tier III TCCF,"Tier III certification in October 2020 is confirmed, but the datasheet says 'certified design'; whether it is TCCF or TCDD needs Uptime's register",2026-09-21
+UGA-001,recent_investments,"Group level: $46M equity (2023, Roha/Meridiam); up to $170M sustainability-linked senior debt (2023, Proparco/EAIF, $110M committed, first $73M tranche for the first seven sites); $100M IFC senior and subordinated debt (signed 2025) for a $293M ten-site programme.",the $46M 2023 equity figure is not in the readable text of the 2023 release,2026-09-21
+UGA-002,key_tenants,Uganda Police; State House; Ministry of Finance; NIRA,named government tenants are plausible but no source lists them,2026-09-21
+UGA-002,year_operational,2015,"no source dates the facility; AidData dates the Statistics House primary data centre to Phase 1, completed June 2008",2026-09-21
+UGA-002,gps_coordinates,"0.3332, 32.5994",coordinates are NITA-U's head office; AidData places the government's primary data centre at Statistics House,2026-09-21
+UGA-003,investment_usd,12000000,"the UGX 43bn figure rests on the 2019 AllAfrica report, which could not be read",2026-09-21
+UGA-003,services_offered,Government disaster recovery; cloud hosting; government data services,"a disaster-recovery role is plausible, but no readable source lists the services",2026-09-21
+UGA-004,year_operational,2012,DC Byte's 2012 date is for Mutundwe; nothing dates Mbuya,2026-09-21
+UGA-006,city,Jinja,MTN confirms a data centre in the Eastern region but not its town; Jinja is a proxy,2026-09-21
+UGA-006,gps_coordinates,"0.4244, 33.2041",Jinja city-centre proxy; the site is not public,2026-09-21
+UGA-006,facility_type,Edge,Edge is inferred from the regional role; MTN markets its Uganda data centres as carrier-neutral colocation,2026-09-21
+UGA-007,city,Mbarara,MTN confirms a data centre in the Western region but not its town; Mbarara is a proxy,2026-09-21
+UGA-007,gps_coordinates,"0.6045, 30.6568",Mbarara city-centre proxy; the site is not public,2026-09-21
+UGA-007,facility_type,Edge,Edge is inferred from the regional role; MTN markets its Uganda data centres as carrier-neutral colocation,2026-09-21
+UGA-008,city,Masaka,MTN confirms a data centre in the Southern region but not its town; Masaka is a proxy,2026-09-21
+UGA-008,gps_coordinates,"0.3307, 31.7278",Masaka city-centre proxy; the site is not public,2026-09-21
+UGA-008,facility_type,Edge,Edge is inferred from the regional role; MTN markets its Uganda data centres as carrier-neutral colocation,2026-09-21
+UGA-009,carrier_neutrality,Fully carrier-neutral,no source describes which carriers serve the facility,2026-09-21
+UGA-009,ultimate_parent_company,Founders Tasha Mabonga-Atkin and Peter Atkin (majority Ugandan-owned),the founders' stakes are not disclosed; only CFTS's own majority-Ugandan statement supports the chain,2026-09-21
+UGA-010,carrier_neutrality,Fully carrier-neutral,Roke supplies bandwidth to colocated kit; no source says other carriers can connect,2026-09-21
+UGA-010,gps_coordinates,"0.3164, 32.5822",the coordinates are Roke's HQ; no source gives the data centre's own address,2026-09-21
+UGA-011,facility_name,Liquid Intelligent Technologies Kampala,no source shows a Liquid-owned data centre in Kampala: DCD says Liquid has not named the facility that houses its Uganda Azure Stack and Africa Data Centres has none in Uganda; an Inflect listing names 'Liquid Intelligent Technologies - Kampala',2026-09-21
+UGA-011,gps_coordinates,"0.3231, 32.5768","Liquid's Uganda office is BMK House, Plot 4-5 Nyabong Road; no source gives the Wampewo Avenue site",2026-09-21
+UGA-011,carrier_neutrality,Limited carriers,no source describes the facility's carrier policy,2026-09-21
+UGA-012,hyperscaler_relationships,None identified,"the row claimed a Google Global Cache node from KobWeb 2023; the excerpt read does not show it, so T9 should check the full PDF",2026-09-21
+UGA-013,major_shareholders,"Of Centenary Group: Catholic Dioceses in Uganda (~41.4%), Uganda Episcopal Conference (~31.7%), European funds including SIDI (France) (minority) [Centenary Group Integrated Report 2022](https://www.centenarybank.co.ug/assets/uploads/reports/CentenaryAR_IM_070623_Lite.pdf), [Reuters](https://www.tradingview.com/news/reuters.com,2025:newsml_L8N3PU0U2:0-uganda-s-centenary-group-to-list-5-10-stake-on-local-bourse/)",the 41.4% and 31.7% stakes are not in the text read; Reuters gives only majority Catholic-diocese ownership,2026-09-21
+UGA-013,operational_status,Under construction,the newest source (March 2026) targets a September 2026 launch; check whether it has opened,2026-09-21
+UGA-014,ultimate_parent_hq_country,UGA,"Synectics lists offices in Uganda, Nigeria, Canada and the UK; no register confirms where its owners are",2026-09-21
+UGA-014,parent_hq_country,UGA,no source gives Synectics Technologies Limited's country of registration,2026-09-21
+UGA-014,city,Kiryandongo,sources place the site at Karuma Hydro Power Plant; Kiryandongo as the district is plausible but not stated,2026-09-21
+UGA-015,operational_status,Planned,DCD lists Kampala among Nxtra's planned builds; no source dates the plan or confirms a site,2026-09-21
+UGA-016,facility_name,Simbanet Uganda DC (Edge),no source shows Simbanet operates a data centre in Uganda; its SMART DC is an IoT product. T8/T9 to confirm or retire the row,2026-09-21
+UGA-016,ultimate_parent_hq_country,MDG|MUS|ARE,"no source gives Axian Group Limited's registration; the MDG|MUS|ARE list mixes HQ locations and the owner's origin, not joint control",2026-09-21
+UGA-016,carrier_neutrality,Single carrier / captive,no source describes a Simbanet facility's carrier access,2026-09-21
