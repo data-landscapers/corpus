@@ -54,7 +54,10 @@ VALUES = {
 }
 
 # A markdown link or a bare URL, whichever comes next, so the cell's order survives.
-LINK = re.compile(r"\[[^\]]*\]\((https?://[^)\s]+)\)|(https?://[^\s;,\)\]\"]+)")
+# A URL may hold balanced brackets (Wikipedia's `Unitel_(Angola)`); the first version stopped at
+# the first `)` and cut six URLs short (repaired 2026-09-21; see logs/dataset-updates.csv).
+_URL = r"https?://(?:[^\s;,()\[\]\"]|\([^()\s]*\))+"
+LINK = re.compile(r"\[[^\]]*\]\((" + _URL + r")\)|(" + _URL + r")")
 
 
 def urls(cell):
