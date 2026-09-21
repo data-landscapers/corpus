@@ -139,6 +139,21 @@ python scripts/report-render.py --unit {ISO3} --check
 
 Commit the moved ledgers, `considered.txt`, `gaps.csv` and re-rendered docs. **The Corpus register governs the narrative** (`report-layer.md` §10).
 
+## Stage 4b — datasets (model authoring)
+
+**The same set difference as stage 4, over a dataset instead of a ledger** (`documentation/datasets.md`, T7). A raw record is a candidate for Data Centres if it carries `infra.store` or its title or `hub_line` names a data centre; it stays unconsidered until its slug is in `outputs/datasets/data-centres/considered.txt`. From `scripts/.workroot/`:
+
+```bash
+python scripts/dataset-scan.py                                   # the work order, by place
+python scripts/dataset-scan.py --packet data-centres {PLACE}     # --parts N past ~30 records
+```
+
+1. **Read the packet** — each record beside the current rows of every country it names — and **write `prep/dc-evidence/t7/{PLACE}/decisions.json`**: an outcome for every slug under `considered`, and under `rows` the edits, new facilities and sources they rest on. The format and the rules are in `scripts/dataset-scan.py`'s docstring; the reading rules are T6's (`scripts/dataset-evidence.py`).
+2. **Decide per record** — *modifies a row* (something newer or more specific than the row holds), *adds a facility* (one the dataset lacks, checked against every row, not only the country's), or *nothing* (the default: most records restate what a row already says). A record that confirms a row joins it through `add_slugs`, so the row cites the catalogue.
+3. **Apply**: `python scripts/dataset-scan.py --apply data-centres {PLACE} --dry-run` until clean, then without `--dry-run`. It writes the master, logs each change at the top of `logs/dataset-updates.csv` with its sources, and marks every accounted slug considered.
+
+**A night's arrivals are one packet**: `--packet data-centres ALL`, applied as `--apply data-centres ALL`. The backlog was read place by place. Commit the master, `considered.txt`, `url-audit.csv`, `claims-to-source.csv` and the log. RENDER mints the dated edition.
+
 ## Narrative integrity — BUILD owns what is fit to publish
 
 **No document may leave BUILD carrying an unwritten narrative block.** Where a block has no prose, BUILD does one of two things, never a third: **remove the section**, or **write the sentence that explains why there is no suitable narrative**. Stating the absence is evidence-led reporting, the same discipline as publishing a *Not held* count.
