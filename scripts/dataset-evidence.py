@@ -10,6 +10,8 @@
     python scripts/dataset-evidence.py group-packet raxio AGO-012 CIV-003 ...   # T6b
     python scripts/dataset-evidence.py apply-group raxio [--dry-run]
     python scripts/dataset-evidence.py apply-t8 WEST [--dry-run]              # T8: + "new:*" rows, "retire"
+    python scripts/dataset-evidence.py t9-packet WEST GHA CIV ... --parts 2   # T9: rows with tiered claims
+    python scripts/dataset-evidence.py apply-t9 WEST [--dry-run]
     python scripts/dataset-evidence.py derive         # set the rule-derived fields on every row
 
 A model reads the packet, one country per sitting, and writes `decisions.json`; this script
@@ -333,6 +335,46 @@ def t8_packet(name, isos):
     print(f"{p.relative_to(dl.ROOT)}: {sum(r['country'] in isos for r in rows)} rows, {p.stat().st_size:,} bytes")
 
 
+TIER1 = {"operational_status", "operator_name", "city", "facility_type", "facility_name", "ownership_type",
+         "parent_company", "parent_hq_country", "ultimate_parent_company", "ultimate_parent_hq_country",
+         "major_shareholders", "controlling_entities", "control_mechanisms", "control_category"}
+TIER3 = {"gps_coordinates", "submarine_cable_access", "carrier_neutrality", "services_offered", "ixp_presence"}
+
+
+def tier(field):
+    return 1 if field in TIER1 else 3 if field in TIER3 else 2
+
+
+def t9_packet(name, isos, parts=1):
+    """T9: a region's rows with every open claim, tiered, for a reader with a search budget."""
+    rows = [r for r in dl.read(NAME) if r["country"] in isos]
+    claims = collections.defaultdict(list)
+    for c in (read_csv(CLAIMS) if CLAIMS.exists() else []):
+        claims[c["facility_id"]].append(c)
+    rows = [r for r in rows if claims.get(r["facility_id"]) or not r["facility_type"]]
+    skip = {"source_urls", "raw_slugs", "last_verified", "hyperscaler_presence", "cloud_act_exposure",
+            "foreign_dependency_score", "country_name"}
+    cut = lambda v: v if len(v) <= 500 else v[:500] + "…"
+    size = -(-len(rows) // parts)
+    for k in range(parts):
+        chunk = rows[k * size:(k + 1) * size]
+        out = [f"# T9 packet — {name}" + (f" part {k + 1} of {parts}" if parts > 1 else "") + f": {len(chunk)} row(s)",
+               "", "Brief: `prep/dc-evidence/T9-BRIEF.md`.", ""]
+        for r in chunk:
+            out.append(f"### {r['facility_id']} — {r['facility_name']} ({r['country_name']})")
+            out.append(" | ".join(f"{k2}: {cut(v)}" for k2, v in r.items() if v and k2 not in skip))
+            out.append(f"sources: {r['source_urls']}")
+            if not r["facility_type"]:
+                out.append("- CLAIM tier 1 **facility_type**: empty — set it from a source")
+            for c in sorted(claims.get(r["facility_id"], []), key=lambda c: tier(c["field"])):
+                out.append(f"- CLAIM tier {tier(c['field'])} **{c['field']}** = {cut(c['claim'])!r}: {c['reason']}")
+            out.append("")
+        p = WORK / "t9" / name / (f"packet-{k + 1}.md" if parts > 1 else "packet.md")
+        p.parent.mkdir(parents=True, exist_ok=True)
+        p.write_text("\n".join(out), encoding="utf-8")
+        print(f"{p.relative_to(dl.ROOT)}: {len(chunk)} rows, {p.stat().st_size:,} bytes")
+
+
 def load_decisions(folder):
     dec = {}
     for f in sorted(folder.glob("decisions*.json")):
@@ -591,7 +633,7 @@ def status():
 
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
-    ap.add_argument("cmd", choices=["packet", "apply", "status", "refetch", "derive", "group-packet", "apply-group", "apply-t8", "t8-packet"])
+    ap.add_argument("cmd", choices=["packet", "apply", "status", "refetch", "derive", "group-packet", "apply-group", "apply-t8", "t8-packet", "t9-packet", "apply-t9"])
     ap.add_argument("iso", nargs="?", help="ISO3, or a group name for group-packet / apply-group")
     ap.add_argument("ids", nargs="*", help="group-packet: the group's facility IDs")
     ap.add_argument("--dry-run", action="store_true")
@@ -607,6 +649,10 @@ if __name__ == "__main__":
         group_packet(a.iso, a.ids)
     elif a.cmd == "apply-group":
         apply_group(a.iso, a.dry_run)
+    elif a.cmd == "t9-packet":
+        t9_packet(a.iso, a.ids, a.parts)
+    elif a.cmd == "apply-t9":  # prep/dc-evidence/t9/{REGION}/decisions*.json, T8's format
+        apply_group(a.iso, a.dry_run, base="t9")
     elif a.cmd == "t8-packet":
         t8_packet(a.iso, a.ids)
     elif a.cmd == "apply-t8":  # prep/dc-evidence/t8/{REGION}/decisions*.json, same format plus new rows and retire
