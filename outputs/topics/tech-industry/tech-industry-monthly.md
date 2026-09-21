@@ -3,13 +3,13 @@ title: ICT Industry — monthly update, August – September 2026
 compiled: 2026-09-21
 period: 2026-08-01 to 2026-09-21
 subject: tech.industry
-places: DZA; AGO; BWA; EGY; GNQ; SWZ; GAB; GHA; KEN; MUS; MAR; MOZ; NER; NGA; SEN; ZAF; SDN; TZA; TGO; UGA; ZMB; ZWE
-record: f10f610517d5
+places: DZA; AGO; BWA; CAF; EGY; GNQ; SWZ; GAB; GHA; KEN; MUS; MAR; MOZ; NER; NGA; SEN; ZAF; SDN; TZA; TGO; UGA; ZMB; ZWE
+record: 1284072cbcc9
 ---
 
 # ICT Industry: monthly update, August – September 2026
 
-*22 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*23 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -24,6 +24,10 @@ The sector was given a growth rate and nothing to read it against. The secretary
 ## Botswana
 
 The state wholesale network operator [presented its first integrated report, for the year ended 31 March 2025, at its annual general meeting on 13 August, with revenue down on the year](https://www.bofinet.co.bw/uploads/571/01M07F2TQ2HE6M06GD31SSDFZG.pdf), and [reported its 2025/26 local access projects complete](https://na.co.bw/bofinet-hosts-agm-showcasing-enhanced-accountability-and-value-creation/). Publishing an integrated report is itself part of the movement: the operator has not accounted for itself in one document before.
+
+## Central African Republic
+
+The regulator [published operators' combined revenue for the first half of 2026 in its market observatory](https://www.icasees.org/index.php/component/edocman/observatoire-des-marches-de-communications-electroniques-s1-2027/download?Itemid=0). It is turnover reported to the regulator; no contribution to output, employment or firm count is held.
 
 ## Egypt
 

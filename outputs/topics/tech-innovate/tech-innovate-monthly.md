@@ -3,13 +3,13 @@ title: Innovation ecosystem — monthly update, August – September 2026
 compiled: 2026-09-21
 period: 2026-08-01 to 2026-09-21
 subject: tech.innovate
-places: DZA; AGO; BWA; BFA; CMR; CPV; COM; CIV; COD; EGY; ERI; SWZ; GAB; GMB; GHA; GIN; KEN; LBR; MLI; MAR; NAM; NER; NGA; RWA; SYC; SLE; ZAF; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: 61d6fe9b0d13
+places: DZA; AGO; BWA; BFA; CMR; CPV; COM; CIV; COD; EGY; ERI; SWZ; GAB; GMB; GHA; GIN; KEN; LBR; MLI; MRT; MAR; NAM; NER; NGA; RWA; SYC; SLE; ZAF; SDN; TZA; TUN; UGA; ZMB; ZWE
+record: 72ae005032df
 ---
 
 # Innovation ecosystem: monthly update, August – September 2026
 
-*33 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*34 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -109,6 +109,10 @@ UNDP set out its contributions at the summit, adding in its own account of 3 Aug
 ## Mali
 
 A civil-society organisation [launched an application for reporting and checking online content, alongside the closing report of a digital campaign against viral falsehood which it says reached 68,885 people](https://www.maliweb.net/technologie/citoyens-20-women-tech-mali-lance-une-application-pour-lutter-contre-la-desinformation-3119410.html). It is aimed at young people and civil-society organisations, and funded through a Danish foreign-ministry facility with support from the ministry responsible for communication and the digital economy. No user or report-volume figure is published.
+
+## Mauritania
+
+The central bank's fintech programme, run with German development cooperation, [set two hackathons for 19 to 22 October on digital credit, split payment and crowdfunding](https://trustmag.net/article/FIKzFdXn). No participant, award or funding figure is published.
 
 ## Morocco
 

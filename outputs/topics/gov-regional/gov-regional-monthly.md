@@ -3,13 +3,13 @@ title: Regional collaboration — monthly update, August – September 2026
 compiled: 2026-09-21
 period: 2026-08-01 to 2026-09-21
 subject: gov.regional
-places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COG; CIV; COD; EGY; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZWE
-record: c12609ef6f46
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COG; CIV; DJI; COD; EGY; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZWE
+record: 7de5d1c8eaf9
 ---
 
 # Regional collaboration: monthly update, August – September 2026
 
-*42 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*43 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -54,6 +54,10 @@ A seminar with the DRC [closed with a Brazzaville Declaration urging digitalised
 ## Cote d'Ivoire
 
 Côte d'Ivoire is standing for a seat at the table that writes the rules. It [declared its candidacy for election to the ITU Council and will press it at the 7th World Telecommunication/ICT Policy Forum in Nassau](https://digitalmag.ci/telecom-conseil-de-luit-la-cote-divoire-va-defendre-sa-candidature-aux-bahamas/), with a delegation [attending the forum to prepare that candidacy](https://news.abidjan.net/articles/749043/7e-forum-mondial-des-tic-aux-bahamas-la-cote-divoire-annonce-sa-participation-pour-preparer-sa-candidature-au-conseil-de-luit). The record held names no platform the candidacy would run on and no other state's support for it.
+
+## Djibouti
+
+In September the Digital Cooperation Organization's secretary-general and the digital-economy minister [discussed cooperation on artificial intelligence, digital skills and capacity building](https://www.techreviewafrica.com/news/7340/djibouti-and-dco-discuss-cooperation-on-ai-and-digital-transformation); no memorandum, programme or budget is stated, and the repository holds no accession date for Djibouti's membership.
 
 ## DR Congo
 

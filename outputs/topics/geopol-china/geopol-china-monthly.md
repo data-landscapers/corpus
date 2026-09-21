@@ -3,13 +3,13 @@ title: China activities — monthly update, August – September 2026
 compiled: 2026-09-21
 period: 2026-08-01 to 2026-09-21
 subject: geopol.china
-places: DZA; BWA; BFA; TCD; DJI; GMB; KEN; NER; NGA; SEN; SSD; SDN; TGO; ZMB; ZWE
-record: bc29033ffa6a
+places: DZA; BWA; BFA; TCD; DJI; EGY; GMB; KEN; NER; NGA; SEN; SSD; SDN; TGO; ZMB; ZWE
+record: fc8854fe6245
 ---
 
 # China activities: monthly update, August – September 2026
 
-*15 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*16 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -32,6 +32,10 @@ The financing that did arrive in the window came from one partner. Chad and Chin
 ## Djibouti
 
 The month's only movement here is a conversation. Djibouti [discussed the development of its digital infrastructure with Huawei, against its position on the telecommunications routes between Africa, Asia and the Middle East and its stated ambition to be a regional digital hub](https://www.wearetech.africa/fr/fils/actualites/tech/djibouti-echange-avec-huawei-sur-le-developpement-de-ses-infrastructures-numeriques). Nothing held records an agreement, a project or a value behind it.
+
+## Egypt
+
+During the Chinese president's September visit the communications minister [signed a memorandum on technological and digital cooperation covering cloud computing, data centres, semiconductors and cybersecurity](https://www.alnaharegypt.com/1196580). The text is not held, and no project, value or timetable is attached to it.
 
 ## Gambia
 

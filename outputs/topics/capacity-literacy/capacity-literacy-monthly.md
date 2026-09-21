@@ -1,21 +1,25 @@
 ---
 title: Literacy — monthly update, August – September 2026
 compiled: 2026-09-21
-period: 2026-08-01 to 2026-09-20
+period: 2026-08-01 to 2026-09-21
 subject: capacity.literacy
-places: AGO; COM; COD; EGY; GHA; KEN; LBR; MDG; MOZ; RWA; SEN; SLE; SSD; TZA; TGO; UGA; ZMB
-record: 5d5cc9dc66ee
+places: AGO; TCD; COM; COD; EGY; GHA; KEN; LBR; MDG; MOZ; RWA; SEN; SLE; SSD; TZA; TGO; UGA; ZMB
+record: 9193bc13cdb1
 ---
 
 # Literacy: monthly update, August – September 2026
 
-*17 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*18 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
 ## Angola
 
 School computing continued to be delivered by installation count. The telecommunications minister [inaugurated a 25-computer laboratory serving 3,051 students at a polytechnic and said the programme behind it had by then installed more than 2,000 computers across 88 schools nationwide](https://angop.ao/noticias/educacao/alunos-do-ipas-ganham-laboratorio-de-informatica/). Both figures are the ministry's own, and the machines-to-students ratio at the one site it named is the part of the programme a national total cannot show. No budget, connectivity provision or maintenance arrangement is published.
+
+## Chad
+
+A non-governmental organisation and the national youth council [launched an internet-safety and digital-citizenship campaign for young people at Abéché on 19 September](https://lendjampost.com/abeche-house-of-africa-entend-promouvoir-un-internet-plus-sur-aupres-des-jeunes/). No reach or duration is stated.
 
 ## Comoros
 

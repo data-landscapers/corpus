@@ -1,15 +1,15 @@
 ---
 title: Digital divides — monthly update, August – September 2026
 compiled: 2026-09-21
-period: 2026-08-01 to 2026-09-20
+period: 2026-08-01 to 2026-09-21
 subject: include.divides
-places: AGO; BWA; BDI; COD; EGY; SWZ; GMB; GHA; GNB; KEN; MWI; MAR; MOZ; NER; NGA; RWA; SEN; ZAF; UGA; ZMB
-record: 228d53607dd1
+places: AGO; BWA; BDI; CPV; COD; EGY; SWZ; GMB; GHA; GNB; KEN; MWI; MAR; MOZ; NER; NGA; RWA; SEN; ZAF; UGA; ZMB
+record: 46efd480d2ad
 ---
 
 # Digital divides: monthly update, August – September 2026
 
-*20 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*21 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -24,6 +24,10 @@ The creative sector was surveyed for a digital purpose. A two-day multistakehold
 ## Burundi
 
 The telecommunications regulator told a workshop that very few Burundians use the internet. It characterised the level without publishing a figure, so the finding the repository can carry is the regulator's own [statement that use is low](https://www.iwacu-burundi.org/englishnews/number-of-internet-users-in-burundi-is-low-says-arct/), not a percentage.
+
+## Cape Verde
+
+A [two-month pilot of training and mentoring in digital business tools for about 250 traders, most of them women, is set to start on Maio in October](https://inforpress.cv/en/article-11542), before moving to Fogo, Santiago and São Vicente. It is run with the economy and digital transformation ministry.
 
 ## DR Congo
 

@@ -3,13 +3,13 @@ title: AI — monthly update, August – September 2026
 compiled: 2026-09-21
 period: 2026-08-01 to 2026-09-21
 subject: tech.ai
-places: DZA; AGO; BEN; BFA; BDI; CMR; CAF; TCD; COM; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GHA; KEN; LBR; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: a9683c80068a
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COM; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GHA; KEN; LBR; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 877c71586d8a
 ---
 
 # AI: monthly update, August – September 2026
 
-*40 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*41 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -30,6 +30,10 @@ Money reached artificial intelligence in the administration for the first time t
 ## Benin
 
 A [four-country comparative study presented on 10 August found no AI-specific legislation in force or in draft in Benin](https://grain-africa.org/en/intelligence-artificielle-en-afrique-de-louest-grain-presente-les-resultats-dune-etude-comparative-pour-une-gouvernance-plus-inclusive-et-responsable-de-lia/), which leaves the 2023-2027 national strategy carrying the field on its own. The same study rates Cote d'Ivoire's strategy the most advanced of the four on inclusion and data governance, and finds Burkina Faso's data-protection law the only one of the four to name AI-based processing explicitly.
+
+## Botswana
+
+A US company [announced on 15 September that its AI clinical decision-support platform will be extended to Botswana through the Botswana-UPenn Partnership](https://yourbotswana.com/openevidence-and-penn-medicine-partner-to-extend-ai-clinical-decision-support-to-botswana/), with a customised tool to be built with local clinicians. No timetable, site count or cost is stated.
 
 ## Burkina Faso
 

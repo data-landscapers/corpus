@@ -3,13 +3,13 @@ title: Legislation and regulation — monthly update, August – September 2026
 compiled: 2026-09-21
 period: 2026-08-01 to 2026-09-21
 subject: gov.legislate
-places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; TCD; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; UGA; ZMB; ZWE
-record: 9b727c137642
+places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; TCD; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 998c45e0cf78
 ---
 
 # Legislation and regulation: monthly update, August – September 2026
 
-*44 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*46 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -56,6 +56,10 @@ Chad's digital statutes entered the repository this month by being listed, not b
 On payments there is nothing national to name at all: the central bank's register [gives the regional payment systems regulation of December 2016 as the instrument in force](https://www.beac.int/systemes-paiement/instructions-circulaires-reglements/). A payments law that is regional and a practice that runs on conventions with four operators leave no statute a citizen can be pointed to.
 
 The Council of Ministers [adopted a draft labour code on 3 September that replaces the 1996 law and brings digital platform workers under a presumption of salaried status](https://lendjampost.com/travail-le-tchad-change-les-regles-entre-employe-et-employeur/); it is not yet before the legislature.
+
+## Congo
+
+On 17 September the prime minister said [the 2001 law on freedom of information and communication must be updated for social networks, disinformation and artificial intelligence](https://www.adiac-congo.com/content/sicom-2026-un-bilan-et-des-engagements-pour-lavenir-171694), and the media fair's closing resolutions recommended its reform. The resolutions come from media professionals; no draft has been announced.
 
 ## Cote d'Ivoire
 
@@ -306,6 +310,10 @@ The legislative response to all of this is a review rather than a bill. The gove
 ## Togo
 
 The month's legislating was about commercial justice and civil status rather than digital instruments. The National Assembly [adopted bills on commercial-courts reform and on accession to the Hague Apostille Convention in first reading on 14 August](https://togopresse.tg/lassemblee-nationale-adopte-en-1ere-lecture-deux-projets-de-loi-sur-la-reforme-des-juridictions-commerciales-et-ladhesion-du-togo-a-la-convention-apostille/); the Senate [adopted the courts reform on 21 August](https://togopresse.tg/la-reforme-sur-les-juridictions-commerciales-adoptee-au-senat/), and neither promulgation is held. A scoping meeting [opened a review of the 2009 civil registration law, proposals due before the end of 2026](https://www.togofirst.com/en/justice/2408-19853-togo-reviews-civil-registration-law-to-support-digital-transformation). An apostille accession is a digital question in practice: it is how one state's register is accepted by another's.
+
+## Tunisia
+
+Compulsory electronic invoicing reached the liberal professions: [registration of about 380,000 providers on the platform opened on 15 September](https://fr.allafrica.com/stories/202609200069.html). The date rests on a tax adviser's radio account, and no official instrument fixing it is held.
 
 ## Uganda
 
