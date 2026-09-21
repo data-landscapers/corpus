@@ -1,11 +1,11 @@
 ---
 title: Cape Verde — monthly update, August – September 2026
-compiled: 2026-09-18
-period: 2026-08-01 to 2026-09-18
+compiled: 2026-09-21
+period: 2026-08-01 to 2026-09-21
 place: CPV
-ledger_rows: 20
+ledger_rows: 21
 not_held: 30
-record: 166efa77ccca
+record: 4b55a2e2f364
 ---
 
 # Cape Verde: monthly update, August – September 2026
@@ -96,6 +96,14 @@ A municipal council [presented a services platform it plans to put into public p
 
 <!-- narrative: technology--tech-innovate -->
 The innovation record moved to the extent that two institutions said they intend to work together. The national university and the economy ministry [are projecting a partnership on innovation, entrepreneurship and employment](https://unicv.edu.cv/pt/nots-geral/5931-uni-cv-e-ministerio-da-economia-projetam-parceria-para-inovacao-empreendedorismo-e-emprego). Projected is the operative word: no scope, funding or programme accompanies it, and nothing here is yet an instrument the repository can track.
+<!-- /narrative -->
+
+## Inclusion
+
+### Digital divides
+
+<!-- narrative: inclusion--include-divides -->
+
 <!-- /narrative -->
 
 ## Data
