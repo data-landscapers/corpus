@@ -1,11 +1,11 @@
 ---
 title: Mauritania — monthly update, August – September 2026
-compiled: 2026-09-18
-period: 2026-08-01 to 2026-09-18
+compiled: 2026-09-21
+period: 2026-08-01 to 2026-09-21
 place: MRT
-ledger_rows: 25
+ledger_rows: 27
 not_held: 3
-record: 98713337929d
+record: 80e013ce692c
 ---
 
 # Mauritania: monthly update, August – September 2026
@@ -104,6 +104,11 @@ Separately the state is preparing to [recruit 3,852 education-sector agents thro
 
 <!-- narrative: technology--tech-ai -->
 The month's artificial-intelligence record is a training room. The national meteorological authority [ran a two-day workshop in Nouakchott from 8 September for regional administrators and its own staff on an AI-based agricultural, hydrological and meteorological early warning system](https://www.ami.mr/archives/267828), to strengthen national capacity to forecast climate risks and reduce their effects on agriculture and water resources, and to equip regional staff to use AI techniques in processing and analysing meteorological data. Training on a platform is not the platform in service: no coverage, forecast product, accuracy measure, funder or operational start date is published.
+<!-- /narrative -->
+### Innovation ecosystem
+
+<!-- narrative: technology--tech-innovate -->
+
 <!-- /narrative -->
 
 ## Capacity
