@@ -3,9 +3,9 @@ title: Guinea — monthly update, August – September 2026
 compiled: 2026-09-21
 period: 2026-08-01 to 2026-09-21
 place: GIN
-ledger_rows: 42
+ledger_rows: 43
 not_held: 5
-record: d22ce4ad3cb0
+record: ee8c6c51fb08
 ---
 
 # Guinea: monthly update, August – September 2026
