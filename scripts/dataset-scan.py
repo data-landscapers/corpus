@@ -114,13 +114,14 @@ def work_order(name):
         print(f"  {p} {n}")
 
 
+SKIP = {"facility_id", "country", "country_name", "source_urls", "raw_slugs", "last_verified",
+        "hyperscaler_presence", "cloud_act_exposure", "foreign_dependency_score"}
+
+
 def row_line(r):
-    keep = ("facility_name", "city", "operational_status", "year_operational", "facility_type", "operator_name",
-            "ultimate_parent_company", "it_capacity_mw", "rack_capacity", "total_floor_space_sqm",
-            "investment_usd", "expansion_plans", "hyperscaler_relationships", "chinese_involvement",
-            "chinese_entities", "control_category", "recent_investments", "comments")
+    """Every field a reader can edit, so an edit never lands on a value the reader did not see."""
     cut = lambda v: v if len(v) <= 400 else v[:400] + "…"
-    return f"- **{r['facility_id']}** " + " | ".join(f"{k}: {cut(r[k])}" for k in keep if r[k])
+    return f"- **{r['facility_id']}** " + " | ".join(f"{k}: {cut(v)}" for k, v in r.items() if v and k not in SKIP)
 
 
 def packet(name, where, parts=1):
@@ -173,6 +174,11 @@ def packet(name, where, parts=1):
 
 STOP = {"data", "centre", "center", "centres", "centers", "dc", "the", "de", "du", "la", "le", "and", "of",
          "limited", "ltd", "campus", "facility", "national", "tier", "iii", "iv"}
+
+
+def norm(u):
+    """A URL as a citation: scheme, www and a trailing slash do not make a second source."""
+    return re.sub(r"^https?://(www\.)?", "", u.strip().lower()).rstrip("/")
 
 
 def similar(a, b):
@@ -282,8 +288,10 @@ def apply(name, where, dry):
         have = [u.strip() for u in target["source_urls"].split(";") if u.strip()]
         hs = [u.strip() for u in target["raw_slugs"].split(";") if u.strip()]
         n_new = 0
+        seen = {norm(u) for u in have}
         for s in slugs:
-            if url.get(s) and url[s] not in have:
+            if url.get(s) and norm(url[s]) not in seen:
+                seen.add(norm(url[s]))
                 have.append(url[s])
                 added.append((target["facility_id"], s))
                 n_new += 1

@@ -46,6 +46,21 @@ def _csv_text(header, rows):
     return buf.getvalue()
 
 
+def _put(path, text):
+    """Write, retrying briefly: on Windows a reader holding the file open (a sync client, an agent
+    reading the log) makes a write fail with EINVAL, and an apply that dies between the master and
+    the log leaves the two disagreeing (T7, 2026-09-21)."""
+    import time
+    for i in range(8):
+        try:
+            path.write_text(text, encoding="utf-8", newline="")
+            return
+        except OSError:
+            if i == 7:
+                raise
+            time.sleep(0.5 * (i + 1))
+
+
 def write(name, rows):
     """Write the master in metadata column order. Refuses a row with an unknown column."""
     cols = columns(name)
@@ -57,8 +72,7 @@ def write(name, rows):
     if len(ids) != len(set(ids)):
         raise ValueError("duplicate record IDs")
     master_path(name).parent.mkdir(parents=True, exist_ok=True)
-    master_path(name).write_text(_csv_text(cols, [{c: r.get(c, "") for c in cols} for r in rows]),
-                                 encoding="utf-8", newline="")
+    _put(master_path(name), _csv_text(cols, [{c: r.get(c, "") for c in cols} for r in rows]))
 
 
 def check(name, rows=None):
@@ -97,4 +111,4 @@ def log(dataset, record, action, details, sources="", date=None):
     if LOG.exists():
         with open(LOG, encoding="utf-8", newline="") as f:
             old = list(csv.DictReader(f))
-    LOG.write_text(_csv_text(LOG_HEADER, [row] + old), encoding="utf-8", newline="")
+    _put(LOG, _csv_text(LOG_HEADER, [row] + old))

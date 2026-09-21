@@ -211,13 +211,10 @@ BWA-004,facility_type,Colocation/carrier-neutral,datacentermap lists co-location
 COD-001,foreign_ownership_pct,100% (non-African ownership),no source states Raxio Group wholly owns the DRC operating entity,2026-09-21
 COD-001,security_certifications,Uptime Institute Tier III; ISO 27001,ISO 27001 is not stated in any readable source,2026-09-21
 COD-001,submarine_cable_access,Connected via metro fibre,"Kinshasa is inland; plausible metro-fibre route, but no source describes the path to a landing station",2026-09-21
-COD-001,ixp_presence,IXP connected (not hosted),Raxio's page says IXPs are present in the facility but names none; the KINIX connection is unconfirmed,2026-09-21
 COD-001,gps_coordinates,"-4.3357, 15.3494",approximate for Limete industriel 12ème rue; no source gives coordinates,2026-09-21
 COD-002,parent_hq_country,GBR,no source gives OADC's or TEXAF's registration; OADC's parent group is in Mauritius,2026-09-21
-COD-002,security_certifications,Uptime Institute Tier III; ISO 27001; ISO 22301; PCI DSS,the sources say ISO 27001 was on track for Q3 2024; the Feb 2025 triple certification is not in a readable source,2026-09-21
 COD-002,submarine_cable_access,Connected via metro fibre,"Kinshasa is inland; plausible metro-fibre route, but no source describes the path to a landing station",2026-09-21
 COD-002,gps_coordinates,"-4.3219, 15.2906","approximate for Silikin Village, 63 Av. Colonel Mondjiba; no source gives coordinates",2026-09-21
-COD-002,year_operational,2024,sources from 2024 describe the facility as live; no source gives the opening date,2026-09-21
 COD-003,ownership_type,Private domestic,"GBS is Kinshasa-headquartered, so domestic ownership is plausible; no source names its owners",2026-09-21
 COD-003,gps_coordinates,"-4.3270, 15.3220","approximate; the listed addresses (769 Av. de l'Équateur, and a Gombe site) have not been matched to GBSDC1",2026-09-21
 COD-003,operational_status,Operational,the directory listings are undated; no dated source confirms the facility is running,2026-09-21
@@ -529,7 +526,6 @@ CIV-002,year_operational,2021,no packet source gives an opening year,2026-09-21
 CIV-002,ultimate_parent_company,Africa50,"Africa50 is the lead equity investor and chairs the board, but no source gives its stake or says it controls PAIX",2026-09-21
 CIV-002,ixp_presence,IXP connected (not hosted),comments cite PAIX's website for CIV-IX on site; no packet source confirms it is hosted,2026-09-21
 CIV-002,submarine_cable_access,Connected via metro fibre,no source describes the route to a landing station,2026-09-21
-CIV-003,key_tenants,"Government of Côte d'Ivoire (MoU with the Ministry of Digital Transition, June 2025)",the June 2025 MoU with the Ministry of Digital Transition is not in any packet source,2026-09-21
 CIV-003,submarine_cable_access,Dark fibre connection to landing station,no source describes a dark-fibre route to the landing station,2026-09-21
 CIV-003,gps_coordinates,"5.230347, -3.757779",identical to Equinix AB1's coordinates; PeeringDB's geocode is blank in the capture,2026-09-21
 CIV-004,control_mechanisms,"Double voting rights for shares held >2 years in registered form; 3 public sector directors on 15-member board (7 independent, 3 employee reps, 1 employee-shareholder seat vacant); no golden share ([Orange Board](https://www.orange.com/en/our-group/our-governance/our-board-of-directors))",double voting rights and the absence of a golden share are not in the packet,2026-09-21
@@ -548,14 +544,12 @@ CIV-006,major_shareholders,100% owned by the Republic of Côte d'Ivoire,sources 
 CIV-006,carrier_neutrality,Single carrier / captive,"a government facility on SNDI's own network, so captive is likely; no source states it",2026-09-21
 CIV-006,submarine_cable_access,Connected via metro fibre,no source describes the route to a landing station,2026-09-21
 CIV-006,gps_coordinates,"5.318, -4.016",approximate for the Plateau government district; no source gives the site,2026-09-21
-CIV-007,it_capacity_mw,1,the 1 MW comes from D4D pipeline data not in the packet,2026-09-21
 CIV-007,server_vendors,Cisco,Cisco trainers ran operator training; no source names Cisco hardware,2026-09-21
 CIV-007,operator_name,Cybastion Institute of Technology LLC (contractor) / ANSUT (government),who will operate the finished facility is not settled; CIO Mag lists it among ANSUT and State data centres,2026-09-21
 CIV-007,submarine_cable_access,Dark fibre connection to landing station,no source describes a dark-fibre route to the landing station,2026-09-21
 CIV-007,gps_coordinates,"5.225, -3.752",approximate for VITIB; the site moved from Marcory-Anoumabo,2026-09-21
 CIV-008,ultimate_parent_company,Anthony Same (Founder/CEO) / UHURU Investment Partners,"no source gives Anthony Same's or UHURU's stake, so who controls ST Digital is unconfirmed",2026-09-21
 CIV-008,it_capacity_mw,1,DCD says capacity was not disclosed; the 1 MW has no source,2026-09-21
-CIV-008,cloud_platform,OVHcloud,no packet source mentions an OVHcloud partnership,2026-09-21
 CIV-008,carrier_neutrality,Fully carrier-neutral,no source states the carrier policy,2026-09-21
 CIV-008,submarine_cable_access,Dark fibre connection to landing station,"DCD and DataCenterMap mention a submarine cable landing station in the plans, but not a dark-fibre route",2026-09-21
 CIV-008,gps_coordinates,"5.230347, -3.757779",identical to Equinix AB1's coordinates at VITIB,2026-09-21
@@ -1000,17 +994,13 @@ MAR-025,facility_name,Morocco Government Rabat Technopolis Data Center,"the 3MDC
 MAR-025,operator_name,Agence de Developpement du Digital (ADD),no source names the Agence de Développement du Digital as operator,2026-09-21
 KEN-001,key_tenants,AWS; Microsoft Azure; Equity Bank; Standard Chartered; Safaricom,"Equity Bank, Standard Chartered and Safaricom are named but no source confirms them as tenants; AWS and Microsoft rest on PeeringDB network presence only",2026-09-21
 KEN-001,ixp_presence,Unknown,comments claimed KIXP on-site; PeeringDB's exchange list is not readable in the cache,2026-09-21
-KEN-001,investment_usd,200000000,$200M for NBO1 is unsourced; no source gives the facility's cost,2026-09-21
 KEN-001,rack_capacity,450,450 is unsourced; DCD gives room for 160 racks per floor across four storeys at the 2013 opening,2026-09-21
 KEN-001,services_offered,Colocation; Cloud hosting; Cross-connects; Remote hands; Managed services,"cloud hosting, remote hands and managed services are not in ADC's Nairobi page, which advertises colocation, cages, racks, cross connects and power metering",2026-09-21
 KEN-001,security_certifications,ISO 27001; PCI-DSS; ISO 14001; ISO 45001; Uptime Tier III,"ADC's page confirms Uptime Tier III and PCI DSS; ISO 27001, 14001 and 45001 are unsourced",2026-09-21
 KEN-001,gps_coordinates,"-1.34014, 36.89653","PeeringDB gives Sameer Business Park, Mombasa Road, without a geocode",2026-09-21
 KEN-002,operational_status,Under construction,"the newest source is DCD's 2023 groundbreaking, with phase 1 due in H1 2024; a 2025-26 source is needed for current status",2026-09-21
-KEN-002,investment_usd,200000000,"$200M is unsourced and, per comments, shared with NBO1",2026-09-21
 KEN-002,carrier_neutrality,Fully carrier-neutral,operator's other facility is carrier-neutral; nothing states it for the new building,2026-09-21
 KEN-002,gps_coordinates,"-1.34014, 36.89653",copied from NBO1 on the adjacent plot,2026-09-21
-KEN-003,key_tenants,Oracle Cloud OCI; Safaricom; TCS sovereign cloud,"Oracle is confirmed as OCI host partner (Jan 2026); Safaricom and TCS sovereign cloud are unsourced. Leads on iXAfrica's news page: Baobab Cloud Services sovereign cloud, Servernah Cloud, Gewape Cloud, Qubit Hub",2026-09-21
-KEN-003,gpu_ai_capability,Unknown,"Servernah Cloud ('sovereign AI infrastructure', 2025) and Qubit Hub (2026) announcements may confirm GPUs at NBOX1",2026-09-21
 KEN-003,security_certifications,ISO 27001,ISO 27001 is unsourced,2026-09-21
 KEN-003,investment_usd,,no source gives NBOX1's own cost,2026-09-21
 KEN-004,facility_name,iXAfrica NBOX1.2 (Mombasa Rd Campus Phase 2),DCD describes the RMB-financed 20MW as an expansion of the existing NBOX1 facility (KEN-003); T8 to decide whether NBOX1.2 needs its own row,2026-09-21
@@ -1033,12 +1023,9 @@ KEN-009,key_tenants,LINX (LINX Mombasa exchange),"iColo says Google, Akamai and 
 KEN-010,year_operational,2022,"the spec sheet is dated June 2022, but no source gives the opening year",2026-09-21
 KEN-010,it_capacity_mw,1.75,"the spec sheet gives a 3.9 MVA supply and 2N 3x1,250 kW UPS, not an IT load; 1.75 MW is unsourced",2026-09-21
 KEN-010,key_tenants,LINX (LINX Mombasa exchange),"Asteroid IX (named in the old value and comments) is in no readable source; iColo says Google, Akamai and Netflix are in Mombasa's data centres without naming a site",2026-09-21
-KEN-011,facility_name,Konza National Data Centre (KoTDA),the KenGen release describes other facilities: the Microsoft-G42 Olkaria campus and a KoTDA Tier IV data centre broken ground at Olkaria in 2023; T8 to decide whether each needs a row,2026-09-21
 KEN-011,security_certifications,ISO 27001,ISO 27001 is in no readable source,2026-09-21
-KEN-011,carrier_neutrality,Single carrier / captive,no source says whether tenants can choose their carrier,2026-09-21
 KEN-011,submarine_cable_access,Landlocked/no submarine cable access,"the site is inland, but Kenya is not landlocked; the category should describe the terrestrial route to Mombasa",2026-09-21
 KEN-011,key_tenants,,eCitizen (named in the old value) runs through the Intelligent Operations Centre linked to this facility; hosting here unconfirmed,2026-09-21
-KEN-011,chinese_entities,Huawei,the Chinese concessional lender (likely China Exim Bank) is not named in any source,2026-09-21
 KEN-012,facility_name,ICTA Government Data Centre 1 (Nairobi Primary),"ICTA says it runs two major data centres in Nairobi but names neither; the KenGen source describes a different facility, the Microsoft-G42 Olkaria campus, for T8",2026-09-21
 KEN-012,year_operational,2016,"2016 is the Data Centre Standard's first edition, not an opening date; no source gives one",2026-09-21
 KEN-012,carrier_neutrality,Single carrier / captive,ICTA runs its own network (OGN); no source says whether hosted clients can choose a carrier,2026-09-21
@@ -1058,7 +1045,6 @@ KEN-015,submarine_cable_access,Landlocked/no submarine cable access,"the site is
 KEN-015,year_operational,2015,2015 is in no readable source,2026-09-21
 KEN-015,facility_type,Enterprise,"DataCenterMap lists colocation suites, cages and cabinets for sale; the main type may be colocation rather than enterprise",2026-09-21
 KEN-016,submarine_cable_access,Landlocked/no submarine cable access,"the site is inland, but Kenya is not landlocked; the category should describe the terrestrial route to Mombasa",2026-09-21
-KEN-016,year_operational,2025,DCD reports phase one complete but the packet gives no date; March 2025 is unsourced,2026-09-21
 KEN-016,it_capacity_mw,2.8,2.8MW is the phase-two target for January 2026; no source confirms it was reached,2026-09-21
 KEN-016,services_offered,Enterprise captive; Cloud hosting; Core network; M-Pesa; Innovation lab,"cloud hosting, core network and M-Pesa at Limuru are plausible but unsourced",2026-09-21
 KEN-016,key_tenants,Safaricom internal; M-Pesa,M-Pesa hosting at Limuru is plausible but unsourced,2026-09-21
@@ -1112,7 +1098,6 @@ KEN-027,expansion_plans,Under construction,DCD gives two 22MW phases; no source 
 KEN-028,facility_name,EcoCloud Project Eagle (Olkaria Geothermal),"KEN-029 describes the G42-Microsoft Olkaria campus, which DCD (May 2024) says G42 is building with EcoCloud at the same geothermal park; T8 to decide whether the rows merge",2026-09-21
 KEN-028,ultimate_parent_company,G42 (controlled by Sheikh Tahnoon bin Zayed Al Nahyan),G42 is an MoU partner and lead financier; no source states it owns EcoCloud or the facility,2026-09-21
 KEN-028,major_shareholders,"EcoCloud: Unknown % (board: Michael Joseph, Clare Ruto et al.); G42: Sheikh Tahnoon bin Zayed (controlling), Mubadala, Microsoft (minority), Silver Lake","the EcoCloud board names (Michael Joseph, Clare Ruto) appear in no source",2026-09-21
-KEN-028,rack_capacity,2640,"DCD gives eight halls of 300-500 racks each, a range of 2,400-4,000; no source gives 2,640",2026-09-21
 KEN-029,facility_name,Microsoft Azure East Africa Cloud Region (G42 / Olkaria),"KEN-028 (EcoCloud Project Eagle) is at the same Olkaria geothermal park, and DCD (May 2024) says G42's campus is being built with EcoCloud; T8 to decide whether the rows merge",2026-09-21
 KEN-029,ultimate_parent_company,Sheikh Tahnoon bin Zayed Al Nahyan / Royal Group (RGH1 Investment SPV),"G42 leads the build and financing, but no source states who holds the facility's equity",2026-09-21
 KEN-029,submarine_cable_access,Dark fibre connection to landing station,no source describes the campus's route to a landing station; EcoCloud's site claims one for its own facility,2026-09-21
@@ -1676,3 +1661,109 @@ ZAF-055,gps_coordinates,,site within the landing station not located,2026-09-21
 ZAF-056,control_category,,owners and registration of Vexa Infrastructure not in the record,2026-09-21
 ZAF-056,year_operational,,no target year stated,2026-09-21
 ZAF-056,investment_usd,,no capex figure stated,2026-09-21
+BFA-001,key_tenants,,IKA Cloud (IKA Solution LTD) was built with Virtual Technology's support; whether it is hosted at the Virtix facility is not confirmed,2026-09-21
+BFA-002,facility_name,ANPTIC Government Data Centre (Public Administration DC),"ANPTIC's G-Cloud spans 4 datacenters / close to ten mini data centres (nodes planned at Bagré and Samandéni); which site this row is, and whether others need rows, is for T8",2026-09-21
+BFA-003,operator_name,"Ministry of Digital Transition, Posts and Electronic Communications",ANPTIC's board congratulated ANPTIC staff on the inauguration (24 Mar 2026); whether ANPTIC rather than the ministry runs the two DCs is not stated,2026-09-21
+BFA-003,rack_capacity,,"Cybastion's modular DC (10-40 racks, 5-8 kW/rack, Aug 2025) may be one of the two; supplier and rack count unconfirmed",2026-09-21
+BFA-004,operator_name,"Ministry of Digital Transition, Posts and Electronic Communications",ANPTIC's board congratulated ANPTIC staff on the inauguration (24 Mar 2026); whether ANPTIC rather than the ministry runs the two DCs is not stated,2026-09-21
+BFA-004,rack_capacity,,"Cybastion's modular DC (10-40 racks, Aug 2025) may be one of the two; unconfirmed",2026-09-21
+COD-005,operator_name,"Government of the DRC (IT sub-unit, Immeuble du Gouvernement)",the source names only a 'sous-cellule informatique' in the government building; which ministry or agency runs it is not stated,2026-09-21
+COD-005,year_operational,,opening year not given,2026-09-21
+COD-005,it_capacity_mw,,only a ~400 kVA supply figure is given; IT load not stated,2026-09-21
+AGO-012,key_tenants,,AFR-IX Telecom is deploying network infrastructure here (July 2026); add it if the cell does not already name it,2026-09-21
+MOZ-002,key_tenants,,AFR-IX Telecom is deploying network infrastructure here (July 2026); add it if the cell does not already name it,2026-09-21
+AGO-013,it_capacity_mw,1.04,"1,040 kW is reported as the centre's power capacity; whether it is IT load or total is not stated",2026-09-21
+AGO-013,security_certifications,Unknown,designed to Uptime Tier III; no Uptime certification found in the records,2026-09-21
+AGO-014,year_operational,,the backup centre predates its 2026 requalification; original opening year not in the records,2026-09-21
+AGO-014,city,Luanda,"Rangel location rests on the February 2023 MINTTICS release; 2026 sources say only 'INFOSI's premises, Luanda'",2026-09-21
+AGO-015,ownership_type,Government / SOE,Imprensa Nacional is described as the state's official printer; its legal form (E.P.) and owner not confirmed,2026-09-21
+AGO-016,ownership_type,Unknown,ZAP's owners are not in the record,2026-09-21
+AGO-016,operator_name,ZAP (ZAP Fibra),the legal entity behind ZAP Fibra is not named in the record,2026-09-21
+MAR-023,facility_name,Naver/Nexus Core Morocco AI Data Center,"phase 2 ('Expansion Nord', 20 MW) is at an unnamed northern site, possibly Tetouan; T8 to decide whether it needs its own row",2026-09-21
+MAR-023,ultimate_parent_company,Naver Corporation (widely held; no controlling shareholder),"the April 2026 MoU names Nexus Core Systems alone; Naver Cloud's equity, if any, and the consortium split are not stated",2026-09-21
+MAR-024,operator_name,Agence de Developpement du Digital (ADD),the April 2026 convention names no operator; governance is still to be set by the studies,2026-09-21
+CIV-010,operational_status,Unknown,reported installed; whether it is in service is not stated,2026-09-21
+CIV-010,operator_name,Unknown,"no source names the operator (INP-HB, SNDI or the ministry are candidates)",2026-09-21
+CIV-010,ownership_type,Unknown,the owner is not stated; a public institute site suggests the state,2026-09-21
+DZA-002,chinese_entities,Huawei,"Huawei is named for the CNSN as a whole; the Blida record names only unnamed Chinese staff, so Huawei's role at Blida specifically needs a source",2026-09-21
+DZA-002,security_certifications,Uptime Institute Tier III Certification of Design Documents (September 2026),Uptime register entry for the Blida design certificate and its expiry not seen,2026-09-21
+DZA-011,operational_status,Unknown,"March 2025 was a groundbreaking; the July 2026 'in service since March 2025' claims look like a misdating, so current status needs a dated source",2026-09-21
+DZA-011,operator_name,Ministry of Post and Telecommunications,the ministry laid the stone; the entity that will run the centre is not named,2026-09-21
+DZA-011,year_operational,,no opening date beyond the disputed March 2025,2026-09-21
+DZA-012,facility_type,Colocation/carrier-neutral,colocation assumed from ICOSNET's hosting business; not stated for Oran,2026-09-21
+DZA-012,gps_coordinates,,no address for the Oran site,2026-09-21
+DZA-013,city,Algiers,Algiers inferred from the APN's seat; the record does not place the data centre,2026-09-21
+DZA-014,facility_type,,not stated,2026-09-21
+DZA-014,ultimate_parent_company,(self),shareholders of Diar Dzair not disclosed,2026-09-21
+DZA-014,year_operational,,no target date given,2026-09-21
+EGY-001,it_capacity_mw,2.5,2.5 MW is RDH1; update to about 7.1 MW once a source confirms RDH2 is in service (expected Sep-Oct 2026),2026-09-21
+EGY-025,facility_name,Africa Data Centres Egypt,"the Vodafone Business-Cassava sovereign AI data centre (AI factory, NVIDIA GPU-as-a-Service, launched Sep 2026) is a separate facility with no site stated; T8 to decide whether it needs its own row, or whether it sits in an existing Vodafone Egypt site (EGY-023)",2026-09-21
+EGY-025,ownership_type,Unknown,"the joint venture's shareholding split between Vodafone Business (Vodafone Egypt), Elsewedy Electric and Cassava is not disclosed",2026-09-21
+EGY-026,city,Cairo,"the site of the region is not stated; it may be colocated in an existing Egyptian data centre, which would make this a tenancy on another row",2026-09-21
+EGY-026,ultimate_parent_company,Huawei,"the records name Huawei only; the holding entity (Huawei Investment & Holding Co., Ltd.) is not sourced",2026-09-21
+EGY-026,security_certifications,,'Tier 3 licensing' and NTRA certification are Huawei's own claims; no Uptime or NTRA register entry in the records,2026-09-21
+EGY-026,server_vendors,,Huawei hardware is plausible but not stated,2026-09-21
+EGY-027,city,Not announced,site not stated in the licence reports,2026-09-21
+EGY-027,ownership_type,Unknown,owners of Hassan Allam Digital Infrastructure and Data Center Solutions and A15's role (equity or technology partner) not in the records,2026-09-21
+EGY-027,year_operational,,no target year stated,2026-09-21
+SEN-002,chinese_entities,Huawei|China Eximbank,"Alibaba Cloud Apsara Stack national cloud (contract 28 July 2025, received by SENUM 24 March 2026) is installed 'in the datacenters' without naming one; if at Diamniadio, add Alibaba Cloud",2026-09-21
+SEN-002,expansion_plans,Unknown,Exim phase-2 loan (2021) covers expansion and a June 2025 Huawei accord covers modernising Senegal's data centres; neither says what is being built at Diamniadio or when,2026-09-21
+GAB-001,security_certifications,ISO 27001; TIA-942; HDS,Tier III certification claimed at the July 2026 inauguration; certifier and whether design or constructed facility not stated,2026-09-21
+SEN-009,city,Dakar,the presentation names the site ORANA without an address; Dakar assumed,2026-09-21
+SEN-009,ownership_type,Government / SOE,SENUM SA's state ownership taken from its status as the state's digital company; no register in the records,2026-09-21
+SEN-010,city,Dakar,Technopôle Dakar is in Pikine; the data centre's exact site not stated,2026-09-21
+SEN-010,ownership_type,Government / SOE,SENUM SA's state ownership taken from its status as the state's digital company; no register in the records,2026-09-21
+MOZ-001,expansion_plans,Unknown,Xalam (July 2025) says iColo is expanding capacity with a new Tier III facility in Mozambique; whether that is an MPM1 phase or a separate site is not stated,2026-09-21
+MOZ-002,key_tenants,,Bubble Cloud opened an availability zone in Beluluane in July 2026; whether it is hosted at MZ1 is not stated,2026-09-21
+MOZ-014,operator_name,Unknown,the agency that runs the Maluana data centre is not named (likely the Maluana science and technology park's operator),2026-09-21
+MOZ-014,year_operational,,opening year not stated,2026-09-21
+MOZ-014,govt_data_hosted,,described as the state's data centre but which institutions it hosts is not stated,2026-09-21
+CMR-001,year_operational,2021,TechCabal (2024) says ST Digital decided to build a data centre in 2021; no record gives the opening year,2026-09-21
+CMR-002,ownership_type,Unknown,"Cybastion is the investor; whether it will own the facility or build it for the state, as with Cote d'Ivoire's national data centre (CIV-007), is not stated",2026-09-21
+CMR-003,security_certifications,Tier III (as reported by CAMTEL; certifying body not named),CAMTEL and the press call it Tier III certified; no certifying body or register entry in the records,2026-09-21
+CMR-003,year_operational,,in use by June 2022; opening year not given,2026-09-21
+CMR-003,it_capacity_mw,,"'largest in Central Africa' is CAMTEL's claim; no capacity, racks or floor space in the records",2026-09-21
+CMR-003,gps_coordinates,,"Zamengoe, Okola subdivision; coordinates not given",2026-09-21
+CMR-004,ownership_type,Unknown,whether MINREX or Impact Palmarès will own the facility is not stated,2026-09-21
+CMR-004,operational_status,Planned,construction start and schedule not reported,2026-09-21
+CMR-004,year_operational,,no target year given,2026-09-21
+CMR-005,ownership_type,Unknown,CAMPOST is Cameroon's postal operator; its ownership is not in the records,2026-09-21
+CMR-005,facility_type,,not stated,2026-09-21
+CMR-005,year_operational,,not stated,2026-09-21
+TZA-002,expansion_plans,Unknown,row said Under construction; the records describe Phase 2 as complete (March 2025) and name no later phase,2026-09-21
+TZA-017,facility_name,Tanzania National Data Centre Dodoma (planned),confirm this is a new build distinct from eGA's operating Government Data Centre in Dodoma (TZA-016),2026-09-21
+TZA-017,operator_name,Ministry of Communication and Information Technology (developer; operator not named),"the records name the ministry as funder; the operator (TTCL, as at NIDC, or eGA) is not stated",2026-09-21
+TZA-017,year_operational,,no target year given,2026-09-21
+TZA-017,investment_usd,,no per-facility figure; the committee's Sh100bn covers three projects,2026-09-21
+TZA-018,city,Zanzibar,"records say only 'Zanzibar'; the site, and whether Unguja or Pemba, is not given",2026-09-21
+TZA-018,operator_name,Ministry of Communication and Information Technology (developer; operator not named),the records name the Union ministry as funder; whether the Revolutionary Government of Zanzibar owns or runs it is not stated,2026-09-21
+TZA-018,year_operational,,no target year given,2026-09-21
+KEN-002,facility_name,Africa Data Centres NBO2 (Sameer Expansion),ADC said in Nov 2021 it had secured land for a third Nairobi facility (NBO3); T8 to decide whether it needs a row once a later source gives a site,2026-09-21
+KEN-002,dfi_involvement,"US government $30M into the facility (agency and instrument not stated) [DCD](https://www.datacenterdynamics.com/en/news/africa-data-centres-breaks-ground-on-nairobi-expansion-in-kenya/). Group level: DFC and Finnfund equity in Cassava Technologies (the $90M round with Google, December 2024); BII, IFC and Afreximbank/FEDA are Cassava shareholders; IFC equity and debt in Liquid (about $250M by 2021) and a lender in Liquid's $210M-equivalent ZAR term loan (April 2026) [DFC](https://www.dfc.gov/media/press-releases/cassava-technologies-receives-90-million-equity-investment-expanding-digital); [Liquid](https://liquid.tech/about-us/news/gpu-as-a-service-to-africa/); [IFC](https://www.ifc.org/en/pressroom/2021/ifc-partners-with-liquid-intelligent-technologies-to-boost-afric); [Cassava](https://www.cassavatechnologies.com/demand-for-300-million-bond/)","an ADC deal record says the Nairobi expansion drew on DFC's $300M facility for ADC (2020); the $30M may be DFC's, instrument unstated",2026-09-21
+KEN-003,key_tenants,Oracle Cloud OCI; Safaricom; TCS sovereign cloud; Paratus (Paratus Cloud PoP); TouchNet (Zadara AI Sovereign Cloud); Atlancis Technologies and EverseTech (Servernah Cloud),Safaricom is a reseller partner (May 2025) rather than a stated tenant; TCS sovereign cloud is unsourced,2026-09-21
+KEN-003,gpu_ai_capability,"Yes, confirmed GPU/AI infrastructure",no source names the GPU models at NBOX1,2026-09-21
+KEN-003,ultimate_parent_company,Helios Investment Partners (majority owner); Veer Investments Limited and MIIT Investments Limited (joint control),KBC (21 August 2026) describes iXAfrica and iColo as operations of Atlantis Technologies; how that fits Helios's majority ownership is not explained,2026-09-21
+KEN-011,gpu_ai_capability,Unknown,UNDP-backed NVIDIA GPU platform at KoTDA (July 2026): confirm whether it sits in this facility and is installed,2026-09-21
+KEN-011,hyperscaler_relationships,None identified,AWS Outpost at Konza under the KoTDA-AWS agreement of 18 August 2026: confirm it is deployed in this facility,2026-09-21
+KEN-016,chinese_involvement,None identified,"TechCabal (Sept 2025): M-PESA's new core is 'hosted locally in Huawei Cloud'; which Safaricom facility, and whether Huawei equipment is on site, is not stated",2026-09-21
+KEN-028,ownership_type,Unknown,"KenGen (May 2024) calls the 2023 Olkaria groundbreaking one 'with KoTDA', and KoTDA's chair attended; whether Konza Technopolis holds equity in EcoCloud is not stated",2026-09-21
+KEN-009,facility_name,iColo Mombasa MBA1 (Miritini),iColo became Digital Realty in Kenya in September 2026; the Mombasa site's name under the new brand is not in the records,2026-09-21
+KEN-010,facility_name,iColo Mombasa MBA2 (Nyali),iColo became Digital Realty in Kenya in September 2026; the Mombasa site's name under the new brand is not in the records,2026-09-21
+KEN-032,city,Mombasa,"site not chosen: Dongo Kundu or Kilindini, Mombasa",2026-09-21
+KEN-032,ultimate_parent_hq_country,GRC,Amaco's registration and owners not in the records; Greek per press description,2026-09-21
+KEN-032,it_capacity_mw,,no IT capacity disclosed,2026-09-21
+BWA-002,investment_usd,7300000,"the only P100m in the records (Mmegi, April 2025) is BoFiNet's internet-gateway and metro upgrade, not the data centre; confirm the P100M attributed to the DDDC",2026-09-21
+BWA-005,operator_name,Kala Data FZCO,the records do not say whether Kala Data FZCO or Tlou Energy runs the modules day to day,2026-09-21
+BWA-005,ownership_type,Unknown,"who owns the modules (Kala Data FZCO, Tlou Energy, or both) is not stated",2026-09-21
+BWA-005,city,Lesedi project site (central Botswana),nearest town to the Lesedi project not given,2026-09-21
+BWA-005,year_operational,,operating by April 2026 at the latest; the start date is not given,2026-09-21
+BWA-005,it_capacity_mw,,up to 1MW design capacity; installed capacity not stated,2026-09-21
+BWA-005,facility_type,,HPC modules for one partner's compute; service model not stated,2026-09-21
+BWA-006,city,Gaborone,the record does not name the town; Gaborone is assumed from Mascom's head office,2026-09-21
+BWA-006,security_certifications,Tier III (certifying body and type not stated),Tier III claimed by the operator; check Uptime's register for the award and its type,2026-09-21
+BWA-006,ownership_type,Unknown,Mascom Wireless's shareholders not in the record,2026-09-21
+BWA-006,year_operational,,opening year not given,2026-09-21
+BWA-006,facility_type,Colocation/carrier-neutral,telco-owned and open to third parties; carrier neutrality unconfirmed,2026-09-21
+GIN-002,year_operational,2025,inaugurated 2025 but not in service by September 2026; set to the year it enters service,2026-09-21
+GIN-002,security_certifications,Uptime Institute Tier III,"Tier III reported by Ecofin; whether design documents or constructed facility, and when, not stated",2026-09-21
+GIN-002,key_tenants,Government of Guinea ministries,a November 2025 ministerial claim that national data is hosted there conflicts with the September 2026 reports; confirm any ministry actually hosted,2026-09-21
