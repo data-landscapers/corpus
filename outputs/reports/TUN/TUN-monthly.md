@@ -1,11 +1,11 @@
 ---
 title: Tunisia — monthly update, August – September 2026
-compiled: 2026-09-19
-period: 2026-08-01 to 2026-09-19
+compiled: 2026-09-21
+period: 2026-08-01 to 2026-09-21
 place: TUN
-ledger_rows: 60
+ledger_rows: 62
 not_held: 6
-record: 490377afea88
+record: f1a066dec29f
 ---
 
 # Tunisia: monthly update, August – September 2026
@@ -28,6 +28,11 @@ Then the education platform showed what happens when a channel becomes the only 
 Policy movement in the window was a meeting rather than an instrument. The head of government [chaired a ministerial council devoted to digitalisation, stating that it is a necessity rather than a choice](https://pm.gov.tn/fr/decision-gouvernementale/zenzri-lors-dun-conseil-ministeriel-la-digitalisation-nest-pas-un-choix). The council's decisions are not itemised in the record held, so what the repository can carry is the fact that it met and the framing it used.
 
 The customs administration [settled a 2026-2030 strategic plan built around digitisation, presented with a governance charter, its axes covering border protection, an environment for attracting foreign investment, revenue collection, working methods and social responsibility](https://www.alchourouk.com/article/%D8%A7%D9%84%D8%AF%D9%8A%D9%88%D8%A7%D9%86%D8%A9-%D8%AA%D8%B6%D8%A8%D8%B7-%D9%85%D8%AE%D8%B7%D8%B7%D9%87%D8%A7-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A-2026-2030); the plan document itself is not published.
+<!-- /narrative -->
+### Legislation and regulation
+
+<!-- narrative: governance--gov-legislate -->
+
 <!-- /narrative -->
 ### Regional collaboration
 
