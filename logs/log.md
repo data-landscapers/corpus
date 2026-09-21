@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-09-21 15:41 · **BUILD** · 25m · catalogue 23049, re-pinned mid-run; finance 62 places; 46 units, 84 sources, 13 ledgers moved, 14 rows minted; data centres 44 records, 13 rows; 76 topic docs, 16 bulletin items; 42 register hits stand — ok
 2026-09-21 15:16 · **NOTES** · 20m · closed 42 (handovers pruned after job 122), 43 (doc_type filled on 269 budgets/ lines, restored on the budget table), 44 (Morocco duplicates, picked up by the compile)
 2026-09-21 09:49 · **RENDER** · 8m · 251 reports rendered (0 failed), home+62 country/region+38 topic pages+progress+catalogue+alerts+finance+datasets (new: /datasets/, Data Centres edition 2026-09-21)+methodology, 0 editions pruned, 1 object to R2, deployed — ok
 2026-09-21 00:31 · **RENDER** · 15m · 251 reports rendered (0 failed), home+62 country/region+38 topic pages+progress+catalogue+alerts+finance+methodology, 4 editions pruned, 3908 objects to R2, deployed — ok

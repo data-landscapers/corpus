@@ -14,7 +14,7 @@ last_reviewed: 2026-08-28
 
 <!-- newest first: a new block goes directly below this line -->
 
-## 2026-09-21 16:40 · build
+## 2026-09-21 15:40 · build
 
 - Liberia's monthly fails check J: the ledger's newest row (Cybercrime Act, 19 September) is already in the document, so the renderer keeps it unchanged and never advances `compiled:`. Nothing published is wrong. Left as is; the fix is in `report-render.py` (renderer or check J), a code change for a working session, not a cycle.
 
