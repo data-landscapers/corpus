@@ -1,11 +1,11 @@
 ---
 title: Central African Republic — monthly update, August – September 2026
-compiled: 2026-09-18
-period: 2026-08-01 to 2026-09-18
+compiled: 2026-09-21
+period: 2026-08-01 to 2026-09-21
 place: CAF
-ledger_rows: 18
-not_held: 5
-record: e08050ebf692
+ledger_rows: 23
+not_held: 4
+record: f37b418cb8dc
 ---
 
 # Central African Republic: monthly update, August – September 2026
@@ -104,6 +104,11 @@ An operator described its own contribution. Orange [published an account of work
 The month's only artificial-intelligence entry is a citizen's, not the state's. A national representative's own account records [the country represented at the continent's main machine-learning gathering in Lagos from 2 to 7 August, and a national artificial-intelligence pioneers grouping introduced there](https://www.linkedin.com/posts/kadidja-pombot-fall-9669781b5_dli2026-deeplearningindaba-dli2026-activity-7490088682880872448-E6E8).
 
 No membership, funding or output is published for the grouping, and it stands against a national strategy that has been in elaboration since November 2024 and has produced no text.
+<!-- /narrative -->
+### ICT Industry
+
+<!-- narrative: technology--tech-industry -->
+
 <!-- /narrative -->
 
 ## Capacity
