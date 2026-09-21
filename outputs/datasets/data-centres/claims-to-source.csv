@@ -17,10 +17,7 @@ TGO-001,gps_coordinates,"6.1375, 1.2123",plausible for Route de la Nouvelle Pré
 TGO-002,submarine_cable_access,Connected via metro fibre,metro fibre to the landing is plausible in Lomé; no source describes the route,2026-09-21
 CAF-001,services_offered,Government/national data hosting; colocation; cloud services,no service is advertised for a facility still at MoU stage,2026-09-21
 CMR-001,submarine_cable_access,Connected via metro fibre,"the IXP is said to have access to international fibre, but no source describes the route to the Douala landing stations",2026-09-21
-COM-001,year_operational,2025,Telecompaper gives the inauguration as 19 May but its text carries no year,2026-09-21
-COM-001,city,Moroni,no source places the facility in Moroni,2026-09-21
 COM-001,gps_coordinates,"-11.7022, 43.2551",no source gives a location,2026-09-21
-COM-001,government_ownership_pct,100%,"plausible for a state build, but Comores Cables, part-owned by Telma, co-manages it and no source gives ownership",2026-09-21
 COM-001,submarine_cable_access,Connected via metro fibre,"co-management by Comores Cables makes a cable link likely, but no source describes it",2026-09-21
 COM-001,carrier_neutrality,Single carrier / captive,no source addresses which carriers serve the facility,2026-09-21
 GMB-001,submarine_cable_access,Connected via metro fibre,"plausible via Gamtel's backbone to the Banjul ACE landing, but no source describes this facility's route",2026-09-21
@@ -155,30 +152,13 @@ LBY-005,services_offered,Colocation; suites; cages; cloud VMs; DRaaS,no readable
 LBY-005,it_capacity_mw,1,the 1 MW figure has no readable source,2026-09-21
 LBY-005,carrier_neutrality,Limited carriers,no source describes carriers at a Misrata site,2026-09-21
 LBY-005,submarine_cable_access,Connected via metro fibre,no source describes the facility's route to a landing station,2026-09-21
-MUS-001,parent_company,Government of Mauritius; National Pensions Fund,no readable source gives Mauritius Telecom's shareholders; the comments' ~59% state share leaves ~40% with a holder the row does not name,2026-09-21
-MUS-001,year_operational,2016,2016 has no readable source; Uptime's award page is undated,2026-09-21
-MUS-001,investment_usd,7500000,USD 7.5M has no readable source,2026-09-21
-MUS-001,services_offered,Colocation; IP connectivity; Cross-connects; Remote hands; Cloud hosting; Disaster recovery,no readable source lists the facility's services,2026-09-21
-MUS-001,security_certifications,ISO 27001:2013; Uptime Tier IV Design; Uptime Tier IV Constructed,Uptime confirms the Tier IV awards; ISO 27001:2013 has no readable source,2026-09-21
-MUS-001,carrier_neutrality,Fully carrier-neutral,no source says whether tenants can choose a carrier,2026-09-21
-MUS-001,submarine_cable_access,Connected via metro fibre,no source describes the facility's route to a landing station,2026-09-21
-MUS-002,parent_company,Government of Mauritius; National Pensions Fund,no readable source gives Mauritius Telecom's shareholders,2026-09-21
-MUS-002,year_operational,2012,2012 has no readable source,2026-09-21
-MUS-002,security_certifications,ISO 27001,my.t's certifications panel has no readable text; ISO 27001 is unconfirmed,2026-09-21
 MUS-002,carrier_neutrality,Fully carrier-neutral,"listed as an interconnection facility on PeeringDB, but no source states carrier neutrality",2026-09-21
 MUS-002,submarine_cable_access,Connected via metro fibre,no source describes the facility's route to a landing station,2026-09-21
-MUS-003,year_operational,2013,2013 has no readable source,2026-09-21
-MUS-003,security_certifications,ISO 27001:2013,ISO 27001:2013 has no readable source,2026-09-21
 MUS-003,submarine_cable_access,Dark fibre connection to landing station,no source describes a dark fibre route to a landing station,2026-09-21
 MUS-003,services_offered,Colocation; Cloud; Managed services; Interconnection; Bare metal; MIXP hosting,"Rogers advertises cloud, colocation and managed services; bare metal is not stated",2026-09-21
 MUS-004,ixp_presence,IXP connected (not hosted),"the MIXP is at Ebene; a connection from La Tour Koenig is implied by Rogers' copy, not stated",2026-09-21
-MUS-004,year_operational,2015,2015 has no readable source,2026-09-21
-MUS-004,security_certifications,ISO 27001:2013,ISO 27001:2013 has no readable source,2026-09-21
 MUS-004,submarine_cable_access,Dark fibre connection to landing station,no source describes a dark fibre route to a landing station,2026-09-21
 MUS-005,services_offered,Colocation; Hosting; Disaster recovery; Managed services; Monitoring; Connectivity,no readable source lists the facility's services,2026-09-21
-MUS-005,total_floor_space_sqm,2050,"2,050 m2 has no readable source",2026-09-21
-MUS-005,it_capacity_mw,1,1 MW has no readable source,2026-09-21
-MUS-005,security_certifications,ISO 27001,ISO 27001 has no readable source,2026-09-21
 MUS-005,carrier_neutrality,Limited carriers,no source describes the facility's carriers,2026-09-21
 MUS-005,submarine_cable_access,Connected via metro fibre,no source describes the facility's route to a landing station,2026-09-21
 ZMB-001,gps_coordinates,"-15.4166, 28.2894",plausible for the Lusaka metro; no source gives coordinates,2026-09-21
@@ -209,18 +189,13 @@ DJI-002,dfi_involvement,Indirect via Africa Capitalworks historical backers (CDC
 DJI-002,ultimate_parent_hq_country,DJI|MUS|ZAF|MAR,"Africa Capitalworks' country of registration is not given; its site lists offices in Johannesburg, Casablanca and Ebene",2026-09-21
 DJI-003,services_offered,Colocation; cable landing station; cloud hosting; IaaS; satellite/teleport; IXP; innovation center,"cloud hosting, IaaS, satellite/teleport and IXP are not in the launch announcements",2026-09-21
 DJI-004,submarine_cable_access,At or adjacent to cable landing station,the announcements cite Djibouti's ten cables but give no site or landing-station route,2026-09-21
-MDG-001,total_floor_space_sqm,250,250 sqm white space is in no readable source,2026-09-21
-MDG-001,key_tenants,Enterprises; banks; outsourcing companies; hotels; ISPs,no source names a tenant or these customer groups,2026-09-21
-MDG-001,hyperscaler_relationships,None identified,"comments cite a 2017 Telma review saying Akamai, Google, Facebook and Microsoft are hosted; no readable source confirms it at this facility",2026-09-21
 MDG-001,submarine_cable_access,Connected via metro fibre,"Antananarivo is inland, so metro fibre is plausible; no source gives the route",2026-09-21
-MDG-002,key_tenants,Enterprises; ISPs; government,no source names a tenant or these customer groups,2026-09-21
 MDG-002,submarine_cable_access,Connected via metro fibre,"Antananarivo is inland, so metro fibre is plausible; no source gives the route",2026-09-21
 MDG-003,facility_name,Madagascar Global Internet eXchange (MGIX) Data Centre,sources describe the MGIX internet exchange (launched March 2016); Inflect lists one unnamed on-net data centre. T8/T9 to confirm a facility of this name or retire the row,2026-09-21
 MDG-003,facility_type,Research,"an IXP host, not shown to be a research facility; no source gives the building's type",2026-09-21
 MDG-003,ownership_type,Private domestic,MGIX's legal form and registration are not given,2026-09-21
 MDG-003,submarine_cable_access,Connected via metro fibre,no source gives the route,2026-09-21
 MDG-004,services_offered,Enterprise/carrier; submarine cable access; connectivity; co-location,no readable source lists the facility's services,2026-09-21
-MDG-004,key_tenants,Yas/Telma enterprise; coastal region customers,no source names a tenant,2026-09-21
 MDG-004,submarine_cable_access,At or adjacent to cable landing station,"Toliara is an EASSy landing point, but no source places this facility at the landing station",2026-09-21
 MWI-001,services_offered,Government hosting; IaaS; PaaS; colocation; disaster recovery; e-government services,"IaaS, PaaS, colocation and disaster recovery are not in the launch coverage",2026-09-21
 MWI-003,services_offered,Colocation; managed hosting; cloud services; IaaS; ISP carrier services,"managed hosting, cloud, IaaS and carrier services are not on OCL's data-centre page",2026-09-21
@@ -706,7 +681,6 @@ UGA-011,ultimate_parent_hq_country,GBR,DFC gives Cassava Technologies' headquart
 ZAF-039,ultimate_parent_hq_country,GBR|ZAF,DFC gives Cassava Technologies' headquarters as the UK; its country of registration is not confirmed by a register,2026-09-21
 ZAF-039,facility_name,Liquid Intelligent Technologies DC (Midrand),same facility as ZAF-010 (ADC JHB1 Midrand): DCD counts only two ADC sites in Johannesburg; T8 to merge the rows,2026-09-21
 ZAF-039,major_shareholders,"Of Cassava Africa Data Centres SA (Pty) Ltd: Africa Data Centres Holdings Ltd (Cassava Technologies), majority; STANLIB Infrastructure Fund II, minority with joint control; stakes not disclosed [Tribunal](https://comptrib.co.za/info-library/press-room/Merger-Alert:-Outcome-of-mergers-decided-by-the-Tribunal-4-February-2026). Of Cassava Technologies (stakes not disclosed): Econet Group, Public Investment Corporation, British International Investment, Gateway Capital, Royal Bafokeng Holdings, IFC, Afreximbank/FEDA, DFC, Finnfund, Google LLC and NVIDIA [Liquid](https://liquid.tech/about-us/news/gpu-as-a-service-to-africa/)","STANLIB's stake in Cassava Africa Data Centres SA is undisclosed ('minority', with joint control)",2026-09-21
-SYC-002,ownership_type,Unknown,owners of Cable & Wireless (Seychelles) Limited not in the records,2026-09-21
 KEN-029,operational_status,Planned,on hold since May 2026 per two commentaries; whether Planned still fits or the project is abandoned needs a primary,2026-09-21
 NGA-007,major_shareholders,"Of WIOCC Holding Company Ltd: IFC 10% [IFC](https://disclosures.ifc.org/project-detail/SII/51154/wiocc-vi-debt); the other stakes are not disclosed: African Capital Alliance (CAPE IV fund, US$75M of a US$124M raise) [Verdant Capital](https://verdant-cap.com/verdant-capital-advises-wiocc-on-usd-80-million-equity-capital-raise/), management and ten African telcos (Botswana Fibre Networks, Dalkom Somalia, Djibouti Telecom, Lesotho Communications Authority, Moçambique Telecom (TMCEL), ONATEL, Telkom Kenya, TelOne, Uganda Telecom, Zantel) [IFC](https://disclosures.ifc.org/project-detail/SII/51154/wiocc-vi-debt)",WIOCC Group equity pending: AFC and Vision Invest signed a $300m subscription (1 Sep 2026) and DFC's board approved equity of about $155m (16 Sep 2026); none closed. On completion recheck major_shareholders and government_ownership_pct on every OADC row,2026-09-21
 NGA-016,gpu_ai_capability,Unknown,a Gates Foundation AI Scaling Hub GPU cluster is to be hosted by Galaxy Backbone (August 2026 brief); facility not named,2026-09-21
@@ -725,9 +699,6 @@ SEN-010,city,Dakar,Technopôle Dakar is in Pikine; the data centre's exact site 
 CMR-003,gps_coordinates,,"Zamengoe, Okola subdivision; coordinates not given",2026-09-21
 BWA-006,year_operational,,opening year not given,2026-09-21
 MRT-001,ixp_presence,Unknown,AMI (8 May 2025) says the centre provides a central exchange point linking local and international ISPs and operators; whether an IXP actually runs there is not confirmed,2026-09-21
-MDG-005,operational_status,Under construction,"construction underway per Ecofin (June 2026); PRODIGY was due to close 30 June 2026, so completion should be checked",2026-09-21
-MDG-005,operator_name,"Unité de Gouvernance Digitale (UGD), Presidency of Madagascar",UGD runs PRODIGY; which body will operate the finished data centre is not stated,2026-09-21
-MDG-006,operational_status,Under construction,construction underway per Ecofin (June 2026); completion not reported,2026-09-21
 MDG-006,gps_coordinates,,the PGES excerpt gives no coordinates for the Iavoloha building,2026-09-21
 LBY-007,services_offered,Ministry education-data systems; ministry websites,systems named in the opening presentation; whether all run in this data centre is not stated,2026-09-21
 BEN-007,city,Cotonou,"the record does not locate the data centre; Cotonou, where the ministry sits, assumed",2026-09-21
@@ -753,40 +724,18 @@ UGA-010,carrier_neutrality,Fully carrier-neutral,Xalam (January 2026) names Raxi
 GAB-004,submarine_cable_access,,to be interconnected with Gabon's subsea cables; route not stated,2026-09-21
 GNQ-003,operational_status,Planned,works and equipment still at tender in August 2026; whether an older server room is in service meanwhile is not stated,2026-09-21
 GNQ-004,operational_status,Planned,works and equipment still at tender in August 2026,2026-09-21
-MUS-001,gpu_ai_capability,"Yes, confirmed GPU/AI infrastructure","operator-asserted only, and the CEO says 'our data centre' without naming Rose Belle; no vendor or delivery record",2026-09-21
-MUS-006,security_certifications,,"Tier III compliance is MITCI's claim, not a certificate; ISO 27001 was being implemented in September 2025",2026-09-21
 MUS-006,gps_coordinates,,"Ebene is stated; the building (possibly SICOM Tower, where MITCI sits) is not",2026-09-21
-MUS-007,operator_name,Aphelion,the operating company is not named beyond 'Aphelion',2026-09-21
-MUS-007,ownership_type,Unknown,owner not stated,2026-09-21
-MUS-008,security_certifications,,'Tier III' is the article's description; no certificate,2026-09-21
-MUS-008,ownership_type,Unknown,Harel Mallac group's ownership not in the records,2026-09-21
-MUS-009,ownership_type,Unknown,"likely held like MUS-003/004 through Rogers Capital and ER Group, but no source says so for this site",2026-09-21
-MUS-010,security_certifications,,'Tier IV-designed' is the article's description; not on the Uptime register in the records,2026-09-21
-MUS-010,operator_name,Bhumishq,the operating company is not named beyond 'Bhumishq',2026-09-21
-MUS-011,operator_name,Birger,"probably Blanche Birger Co. Ltd, which wins MITCI storage contracts, but no record links the two",2026-09-21
 TCD-001,gps_coordinates,"12.1048, 15.0445",the Klemat district is stated; the coordinates are not,2026-09-21
 SSD-002,carrier_neutrality,,the site offers colocation but names no carriers other than its own ISP arm,2026-09-21
 BEN-008,operational_status,Unknown,undated ECOWAS listing only,2026-09-21
 BEN-008,operator_name,Presidency of the Republic of Benin,which agency runs it is not stated,2026-09-21
 LBR-007,city,Monrovia,not stated; the ministry is in Monrovia,2026-09-21
 LBR-007,operational_status,Unknown,undated ECOWAS listing only,2026-09-21
-COM-001,dfi_involvement,"AfDB €9.51M ($10.5M) financing (2024) for a new government data centre, the existing secondary data centre and an incubator; not confirmed to be this facility [Techpoint](https://techpoint.africa/news/comoros-gets-funding-from-afdb/); World Bank RCIP-4 (IDA) financed the connectivity programme under which Comores Cables was set up [World Bank ICR](https://documents1.worldbank.org/curated/en/099082323102024792/pdf/P11821307cc1c003e0bf5709384bc41bafd.pdf)",AfDB's PADEC new data centre is a separate site (COM PADEC row); whether PADEC funds this one as the 'existing secondary data centre' is not stated,2026-09-21
 COM-001,carrier_neutrality,Single carrier / captive,Comores Cables says it is building a neutral data centre; whether that is this facility or another is not stated,2026-09-21
-COM-002,year_operational,,PADEC runs four years from March 2025; no target year for the data centre,2026-09-21
-COM-002,operator_name,"ANADEN (National Agency for Digital Development), implementing agency; PPP operator to be recruited",PPP operator not yet recruited,2026-09-21
 KEN-033,gps_coordinates,,site within Nairobi not published,2026-09-21
 KEN-035,gps_coordinates,,site within Naivasha not published,2026-09-21
 MDG-001,gps_coordinates,"-18.8813, 47.5078","-18.8813, 47.5078 may be the Tanashore office rather than the Analakely site at Lalana Paul Dussac",2026-09-21
-MDG-004,operational_status,Unknown,only a directory listing names the site; whether it is a data centre or the EASSy station is not stated,2026-09-21
-MUS-009,operational_status,Unknown,confirm with Rogers Capital whether Les Cascades still operates as a data centre,2026-09-21
-MUS-010,rack_capacity,,Bramston gives 80 racks; one secondary source,2026-09-21
-SYC-002,ultimate_parent_company,,Cable & Wireless (Seychelles) Limited's current owner is not in the row's sources,2026-09-21
-MDG-007,operational_status,Unknown,equipment delivered 2021 and staff trained 2022; commissioning not reported,2026-09-21
-MDG-007,city,Antananarivo,the ARTEC site comes from a March 2021 announcement only,2026-09-21
-MUS-012,parent_company,,MCB Group Limited is the likely listed holding company of The Mauritius Commercial Bank Ltd; not in the sources,2026-09-21
-MUS-012,year_operational,,no source gives the year,2026-09-21
 MUS-013,carrier_neutrality,,Kaldera says colocation customers may use their own carriers; not stated as carrier-neutral,2026-09-21
-MUS-013,comments,"PeeringDB lists Kaldera's facility at 57 Cybercity (Ebene Mews), 3rd floor, Ebene. Kaldera, a licensed Mauritian ISP (AS37722), says it runs three data centres offering housing and co-location, managed hosting and cloud, with peering to MIXP; this row is the PeeringDB-listed site, and the other two are not located.",Kaldera's two other data centres are not located,2026-09-21
 ETH-010,gps_coordinates,"9.0249, 38.7469","coordinates are the MInT headquarters area, not the ICT Park",2026-09-21
 MOZ-015,gps_coordinates,,building not named,2026-09-21
 ZWE-010,gps_coordinates,,Mazowe Earth Station location not taken from a source,2026-09-21
