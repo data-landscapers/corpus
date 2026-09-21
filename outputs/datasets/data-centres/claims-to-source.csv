@@ -246,3 +246,106 @@ COG-003,total_floor_space_sqm,500,no readable source gives the 500 m² figure or
 COG-003,gps_coordinates,"-4.2663, 15.2662",approximate for Bacongo; no source gives coordinates,2026-09-21
 COG-004,operational_status,Operational,"the only source is ARPCE's 2021 list, cited in 2024; nothing newer confirms the facility",2026-09-21
 COG-004,gps_coordinates,"-4.2692, 15.2766",approximate; no source gives the site's location,2026-09-21
+TUN-001,parent_company,Unipack (Poulina Group Holding),only ColocationM links DataXion to Unipack and PGH; a registry or PGH annual report should confirm the holding,2026-09-21
+TUN-001,major_shareholders,"Of Poulina Group Holding (at its 2008 IPO): A. Ben Ayed family 35.8%, Bouzguenda family 20.1%, Bouricha family 18.6%, T. Ben Ayed family 5.2%, Kallel family 4.5%; public 10% (of which foreign institutions 4.9%)","the only readable register is PGH's 2008 IPO; a 2024 or later filing is needed, including whether the planned Poulina Partners holding now holds the families' 70%",2026-09-21
+TUN-001,services_offered,Colocation; cloud hosting; dedicated servers; housing; connectivity; backup,"ColocationM supports colocation and remote hands; cloud hosting, dedicated servers and backup are not in any readable source",2026-09-21
+TUN-001,submarine_cable_access,Connected via metro fibre,ColocationM says only that Tunisia reaches Europe by submarine cable; the facility's route to the landing station is not described,2026-09-21
+TUN-001,gps_coordinates,"36.8363, 10.1454","plausible for El Agba, but no readable source gives coordinates",2026-09-21
+TUN-002,foreign_ownership_pct,35%,"35% is agreed, but whether EIT or Abraaj holds it after Reuters' 2017 report needs a current filing",2026-09-21
+TUN-002,security_certifications,ISO 27001; ISO 27701; ISO 9001,ISO 27001 (TÜV Rheinland) is confirmed; ISO 27701 and ISO 9001 are in no readable source,2026-09-21
+TUN-002,it_capacity_mw,4,"the ITU deck gives 2 x 2 MW incoming power, a total facility figure; the IT load is not published",2026-09-21
+TUN-002,submarine_cable_access,Connected via metro fibre,no source describes the facility's route to a landing station,2026-09-21
+TUN-002,chinese_involvement,None identified,the ITU 2018 deck lists Huawei as a Tunisie Telecom cloud partner; whether Huawei equipment is in this facility is not stated,2026-09-21
+TUN-002,gps_coordinates,"36.8486, 10.3264","plausible for Carthage, but no readable source gives coordinates",2026-09-21
+TUN-003,ultimate_parent_company,Meninx Holding (Tamarziste family),"Meninx and the Tamarziste family are plausible owners (shared 15 avenue de Carthage address; Tamarziste group active in communication services), but no source states the holding",2026-09-21
+TUN-003,major_shareholders,"Meninx Holding (principal shareholder, Tunisian); Tamarziste family (Tunisia)",no source gives EO Data Center's shareholders,2026-09-21
+TUN-003,total_floor_space_sqm,250,250 sqm (phase 1) is in no readable source,2026-09-21
+TUN-003,submarine_cable_access,Connected via metro fibre,Data Center Map says only that the site connects to local operators by fibre and microwave,2026-09-21
+TUN-003,security_certifications,Unknown,"BTW calls EO Tunisia's first Tier III certified data centre and Data Center Map says TIA-942 Tier 3 compliant; neither names a certifying body, and DataXion's page claims the only Uptime certification",2026-09-21
+TUN-003,gps_coordinates,"35.9240, 10.5840","the coordinates are for Sousse city, not Enfidha; no source gives them",2026-09-21
+TUN-004,parent_company,Orange S.A.,"Orange S.A.'s stake in Orange Tunisie is in no readable source; it is commonly reported as a 49% minority beside a Tunisian majority holder, which would change ownership_type and control_category",2026-09-21
+TUN-004,ownership_type,Joint venture (majority foreign),"'majority foreign' depends on Orange S.A.'s stake in Orange Tunisie, which no source gives",2026-09-21
+TUN-004,facility_type,Enterprise,DCD says the site serves Orange's own needs and customers; which is the main use is not stated,2026-09-21
+TUN-004,submarine_cable_access,Connected via metro fibre,no source describes the facility's route to a landing station,2026-09-21
+TUN-004,carrier_neutrality,Limited carriers,"an operator's own facility, so limited or captive is likely; no source states it",2026-09-21
+TUN-004,gps_coordinates,"35.9614, 10.5327","plausible for Kalâa Kebira, but no readable source gives coordinates",2026-09-21
+TUN-005,carrier_neutrality,Single carrier / captive,"a government facility, so captive is likely; no source states it",2026-09-21
+TUN-005,submarine_cable_access,Connected via metro fibre,no source describes the facility's connectivity,2026-09-21
+TUN-005,gps_coordinates,"36.8155, 10.1467","plausible for El Omrane, but no readable source gives coordinates",2026-09-21
+TUN-006,parent_company,Ooredoo Group,whether the Tunisian sites have passed to Syntys or still sit in Ooredoo Tunisia (84.1% Ooredoo in 2020) is not stated; the deck marks some markets' carve-out as incomplete,2026-09-21
+TUN-006,services_offered,Colocation; cloud; AI infrastructure; GPU-as-a-service; wholesale colocation; build-to-suit,the list is Syntys's group offer; no source says which services the Tunisian sites provide,2026-09-21
+TUN-006,submarine_cable_access,Connected via metro fibre,no source describes the sites' routes to a landing station,2026-09-21
+TUN-006,gps_coordinates,"36.7667, 10.1500",a single point for a five-site portfolio; no source gives coordinates,2026-09-21
+TUN-007,major_shareholders,Mr. Amir Ben-Gacem (51.1% [Pomanda](https://pomanda.com/company/13985222/solecrypt-ltd)); other shareholders not named publicly,"Endole shows five shareholders and one PSC but not their stakes; the 51.1% rests on Pomanda, which could not be read",2026-09-21
+TUN-007,services_offered,AI compute; GPU-as-a-service; sustainable colocation; hyperscale AI,"sources describe AI compute for industrial, fintech and AI customers; GPU-as-a-service and hyperscale AI are not stated",2026-09-21
+TUN-007,carrier_neutrality,Fully carrier-neutral,a planned facility; no source addresses its carriers,2026-09-21
+RWA-001,rack_capacity,600,"600 racks is plausible for 1,300m2 but no readable source gives it",2026-09-21
+RWA-001,parent_company,PAIX Data Centres BV,"PAIX is headquartered in Amsterdam, but no source names the BV or the Rwandan owning entity",2026-09-21
+RWA-001,ultimate_parent_company,Africa50,"Africa50 is lead investor and chairs the board; no source states its stake or that it controls PAIX, nor gives its registration",2026-09-21
+RWA-001,services_offered,Colocation; cages; private rooms; cross-connects; peering; remote hands 24x7,"cross-connects and peering are PAIX Nairobi's advertised services; Kigali's listing names cabinets, cages, suites and remote hands",2026-09-21
+RWA-002,year_operational,2015,"2015 is an estimate; Axiom was founded 2012 and became a carrier in 2014, and no source dates the data centre",2026-09-21
+RWA-002,carrier_neutrality,Fully carrier-neutral,an ISP's own facility; no source says tenants can choose other carriers,2026-09-21
+RWA-002,gps_coordinates,"-1.9474,30.0604",no readable source gives coordinates; PeeringDB's geocode is empty,2026-09-21
+RWA-002,ultimate_parent_hq_country,,AKA Partners' registration is needed to set control_category,2026-09-21
+RWA-003,ultimate_parent_company,Government of Rwanda,DCD (2009) has the state funding the build; no source says whether title passed to AOS when it was set up in 2014,2026-09-21
+RWA-003,year_operational,2014,"2014 is when AOS was established; no source dates the facility's opening, planned from 2009",2026-09-21
+RWA-003,carrier_neutrality,Limited carriers,limited carriers is plausible for a government facility; no source states it,2026-09-21
+RWA-003,gps_coordinates,"-1.9500,30.0588",no readable source gives coordinates,2026-09-21
+RWA-004,operational_status,Under construction,the newest readable source is the Nov 2022 announcement; nothing confirms construction started or has finished,2026-09-21
+RWA-004,ultimate_parent_company,None (standalone private; controlled by Econet Group / Strive Masiyiwa),no source states Econet Group's stake in Cassava or that it controls it,2026-09-21
+RWA-004,services_offered,Colocation; carrier-neutral interconnection; cross-connects; cloud on-ramp,cloud on-ramp and cross-connects are not advertised for Kigali in any readable source,2026-09-21
+RWA-005,year_operational,2012,2012 is an estimate; no source dates the facility,2026-09-21
+RWA-005,gps_coordinates,"-1.940686,30.10344","said to come from PeeringDB, whose geocode field is empty",2026-09-21
+RWA-005,services_offered,Colocation; virtual hosting; dedicated server hosting; B2B managed services,MTN Rwanda's colocation page is unreadable; nothing else lists services,2026-09-21
+RWA-005,facility_type,Colocation/carrier-neutral,comments call it a hybrid telco facility used mainly internally; nothing readable confirms carrier-neutral colocation,2026-09-21
+RWA-006,year_operational,2014,2014 is not dated by any readable source; Devex confirms only that Liquid runs a Kigali data centre,2026-09-21
+RWA-006,carrier_neutrality,Fully carrier-neutral,Liquid is itself a carrier; no source says its Kigali site is open to other carriers,2026-09-21
+RWA-006,gps_coordinates,"-1.9467,30.0542",no readable source gives coordinates,2026-09-21
+RWA-006,parent_company,Cassava Technologies,Liquid Intelligent Technologies sits between the Rwandan company and Cassava; no source gives its registration,2026-09-21
+RWA-006,ultimate_parent_company,None (standalone private; controlled by Econet Group / Strive Masiyiwa),no source states Econet Group's stake in Cassava or that it controls it,2026-09-21
+LBY-001,operational_status,Operational,Data Center Map lists the facility but gives no date; no dated source confirms it is running,2026-09-21
+LBY-001,submarine_cable_access,Connected via metro fibre,"plausible for a Tripoli facility, but no source describes its route to a landing station",2026-09-21
+LBY-002,ownership_type,Private domestic,privately held per LinkedIn; the owners and their nationality are not disclosed,2026-09-21
+LBY-002,ultimate_parent_company,(self),no source names ALAAN's shareholders; kept as top of its own chain,2026-09-21
+LBY-002,carrier_neutrality,Fully carrier-neutral,no source says whether tenants can choose a carrier,2026-09-21
+LBY-002,submarine_cable_access,Connected via metro fibre,no source describes the facility's route to a landing station,2026-09-21
+LBY-003,total_floor_space_sqm,3000,"ColocationM's 3,000 m2 white space in a 7,000 m2 building does not match DCD's 2019 small prefabricated module; the site may have grown",2026-09-21
+LBY-003,submarine_cable_access,Connected via metro fibre,no source describes the facility's route to a landing station,2026-09-21
+LBY-004,operational_status,Operational,"ColocationM says operational since 2023, but Data Center Map's operator blurb still counts a Benghazi node among planned ones",2026-09-21
+LBY-004,parent_company,Trans Sahara ICT (HB Group),only Libya Herald (2019) links Trans-Sahara to HB Group among this row's sources; no source says whether Tatweer shares this site,2026-09-21
+LBY-004,submarine_cable_access,Connected via metro fibre,no source describes the facility's route to a landing station,2026-09-21
+LBY-005,facility_name,TransSahara Misrata Data Center,no readable source shows a Misrata facility exists; Data Center Map's LTT page lists a 'TransSahara Misrata' on Tripoli St without status. For T8/T9 to confirm or retire the row,2026-09-21
+LBY-005,services_offered,Colocation; suites; cages; cloud VMs; DRaaS,no readable source describes services at a Misrata site,2026-09-21
+LBY-005,it_capacity_mw,1,the 1 MW figure has no readable source,2026-09-21
+LBY-005,carrier_neutrality,Limited carriers,no source describes carriers at a Misrata site,2026-09-21
+LBY-005,submarine_cable_access,Connected via metro fibre,no source describes the facility's route to a landing station,2026-09-21
+MUS-001,parent_company,Government of Mauritius; National Pensions Fund,no readable source gives Mauritius Telecom's shareholders; the comments' ~59% state share leaves ~40% with a holder the row does not name,2026-09-21
+MUS-001,year_operational,2016,2016 has no readable source; Uptime's award page is undated,2026-09-21
+MUS-001,total_floor_space_sqm,1500,"1,500 m2 white space has no readable source",2026-09-21
+MUS-001,it_capacity_mw,3,3 MW IT load has no readable source,2026-09-21
+MUS-001,investment_usd,7500000,USD 7.5M has no readable source,2026-09-21
+MUS-001,services_offered,Colocation; IP connectivity; Cross-connects; Remote hands; Cloud hosting; Disaster recovery,no readable source lists the facility's services,2026-09-21
+MUS-001,security_certifications,ISO 27001:2013; Uptime Tier IV Design; Uptime Tier IV Constructed,Uptime confirms the Tier IV awards; ISO 27001:2013 has no readable source,2026-09-21
+MUS-001,carrier_neutrality,Fully carrier-neutral,no source says whether tenants can choose a carrier,2026-09-21
+MUS-001,submarine_cable_access,Connected via metro fibre,no source describes the facility's route to a landing station,2026-09-21
+MUS-002,parent_company,Government of Mauritius; National Pensions Fund,no readable source gives Mauritius Telecom's shareholders,2026-09-21
+MUS-002,year_operational,2012,2012 has no readable source,2026-09-21
+MUS-002,security_certifications,ISO 27001,my.t's certifications panel has no readable text; ISO 27001 is unconfirmed,2026-09-21
+MUS-002,carrier_neutrality,Fully carrier-neutral,"listed as an interconnection facility on PeeringDB, but no source states carrier neutrality",2026-09-21
+MUS-002,submarine_cable_access,Connected via metro fibre,no source describes the facility's route to a landing station,2026-09-21
+MUS-003,year_operational,2013,2013 has no readable source,2026-09-21
+MUS-003,security_certifications,ISO 27001:2013,ISO 27001:2013 has no readable source,2026-09-21
+MUS-003,submarine_cable_access,Dark fibre connection to landing station,no source describes a dark fibre route to a landing station,2026-09-21
+MUS-003,services_offered,Colocation; Cloud; Managed services; Interconnection; Bare metal; MIXP hosting,"Rogers advertises cloud, colocation and managed services; bare metal is not stated",2026-09-21
+MUS-004,ixp_presence,IXP connected (not hosted),"the MIXP is at Ebene; a connection from La Tour Koenig is implied by Rogers' copy, not stated",2026-09-21
+MUS-004,year_operational,2015,2015 has no readable source,2026-09-21
+MUS-004,security_certifications,ISO 27001:2013,ISO 27001:2013 has no readable source,2026-09-21
+MUS-004,submarine_cable_access,Dark fibre connection to landing station,no source describes a dark fibre route to a landing station,2026-09-21
+MUS-005,ownership_type,Private domestic,"Emtel is plausibly Mauritian-owned, but no source names its shareholders",2026-09-21
+MUS-005,operational_status,Operational,the TIA certificate lapsed in September 2023 and no newer source confirms operation,2026-09-21
+MUS-005,services_offered,Colocation; Hosting; Disaster recovery; Managed services; Monitoring; Connectivity,no readable source lists the facility's services,2026-09-21
+MUS-005,total_floor_space_sqm,2050,"2,050 m2 has no readable source",2026-09-21
+MUS-005,it_capacity_mw,1,1 MW has no readable source,2026-09-21
+MUS-005,security_certifications,ISO 27001,ISO 27001 has no readable source,2026-09-21
+MUS-005,carrier_neutrality,Limited carriers,no source describes the facility's carriers,2026-09-21
+MUS-005,submarine_cable_access,Connected via metro fibre,no source describes the facility's route to a landing station,2026-09-21
