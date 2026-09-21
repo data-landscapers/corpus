@@ -449,3 +449,143 @@ MWI-004,major_shareholders,"Government of Malawi (99%), Malawi Development Corpo
 MWI-004,government_ownership_pct,99%,the 99% figure is in no readable source,2026-09-21
 MWI-004,dfi_involvement,"None identified for the facility. Group level: ESCOM receives World Bank and AfDB project funding and technical assistance (e.g. MEAP, ASCENT, MOMA)",the ESCOM project funding is in no readable source,2026-09-21
 MWI-004,key_tenants,Telecoms operators; ISPs; enterprises; education,no source names a tenant; OFC lists target sectors,2026-09-21
+DZA-001,operator_name,High Commission for Digitalization / Huawei,APS names the High Commission for Digitalization; Data Center Map lists Huawei as operator of 'Huawei Mohammadia'; who runs it day to day is not stated,2026-09-21
+DZA-001,chinese_involvement,Construction/Equipment,only Data Center Map's Algiers listing (cited on DZA-009) says Huawei developed the Mohammadia facility with the ministry; no Huawei or government source confirms it,2026-09-21
+DZA-001,server_vendors,Huawei,no readable source names Huawei servers at the facility,2026-09-21
+DZA-001,services_offered,Government hosting; e-government platforms; enterprise cloud; telecom operator hosting,"Data Center Map's listing (cited on DZA-009) gives government platforms, telecom operators and enterprise clients; no operator source lists services",2026-09-21
+DZA-001,submarine_cable_access,At or adjacent to cable landing station,"plausible for a coastal Algiers site, but no source describes its route to a landing station",2026-09-21
+DZA-001,carrier_neutrality,Limited carriers,no source says whether tenants can choose a carrier,2026-09-21
+DZA-001,gps_coordinates,"36.7350, 3.2020","plausible for Mohammadia, but no readable source gives coordinates",2026-09-21
+DZA-002,operational_status,Under construction,"APS (February 2026) says only that certification is being sought; algeriatech.news, cited on DZA-001, gives it 50% complete",2026-09-21
+DZA-002,services_offered,Government hosting; sovereign cloud; e-government,no source lists services for a facility not yet open,2026-09-21
+DZA-002,submarine_cable_access,Connected via metro fibre,no source describes the facility's connectivity,2026-09-21
+DZA-002,carrier_neutrality,Single carrier / captive,no source says whether tenants can choose a carrier,2026-09-21
+DZA-002,gps_coordinates,"36.4700, 2.8200","plausible for Blida province, but no readable source gives coordinates",2026-09-21
+DZA-003,operational_status,Operational,servers.expert describes the facility but is undated; no dated source confirms it is running,2026-09-21
+DZA-003,services_offered,Cloud (IDOOM Cloud); enterprise hosting; data storage; server virtualisation; connectivity,"hosting, virtualisation, storage and cloud are supported; the IDOOM Cloud brand and connectivity are in no readable source",2026-09-21
+DZA-003,government_ownership_pct,100%,Wikipedia says state-owned and COSOB names the state as majority shareholder; no source gives 100%,2026-09-21
+DZA-003,cloud_platform,OpenStack,no readable source names OpenStack,2026-09-21
+DZA-003,gps_coordinates,"36.5500, 3.0830",no readable source gives coordinates for the Bou-Gamo site,2026-09-21
+DZA-004,government_ownership_pct,100%,Wikipedia says state-owned and COSOB names the state as majority shareholder; no source gives 100%,2026-09-21
+DZA-004,cloud_platform,OpenStack,Algérie Télécom mentions a cloud platform but does not name OpenStack,2026-09-21
+DZA-004,submarine_cable_access,Connected via metro fibre,no source describes the facility's connectivity,2026-09-21
+DZA-004,gps_coordinates,"36.3650, 6.6147","plausible for Constantine, but no readable source gives coordinates",2026-09-21
+DZA-005,operational_status,Operational,Data Center Map lists the facility but gives no date; no dated source confirms it is running,2026-09-21
+DZA-005,ownership_type,Private domestic,"SPA AYRADE is Algerian-registered, but its owners and their nationality are not disclosed",2026-09-21
+DZA-005,submarine_cable_access,Connected via metro fibre,Data Center Map says only that the backbone is Algérie Télécom's; the route to a landing station is not described,2026-09-21
+DZA-005,gps_coordinates,"36.6980, 2.8720","plausible for the Sidi Abdellah Cyber Parc, but no readable source gives coordinates",2026-09-21
+DZA-006,operational_status,Operational,Data Center Map lists the facility but gives no date; no dated source confirms it is running,2026-09-21
+DZA-006,services_offered,Web hosting; VPS; dedicated servers; housing/colocation; email; SSL; DDoS protection; cyber security,"hosting, cloud storage and cyber security are supported; VPS, dedicated servers, housing, SSL and DDoS protection are in no readable source",2026-09-21
+DZA-006,ownership_type,Private domestic,"ICOSNET is Algerian-registered and privately held, but its owners and their nationality are not disclosed",2026-09-21
+DZA-006,submarine_cable_access,Connected via metro fibre,no source describes the facility's connectivity,2026-09-21
+DZA-006,gps_coordinates,"36.7570, 2.9540","plausible for Chéraga, but no readable source gives coordinates",2026-09-21
+DZA-007,operational_status,Operational,Data Center Map lists the facility but gives no date; no dated source confirms it is running,2026-09-21
+DZA-007,services_offered,Web hosting; VPS; colocation; connectivity; cloud services,"hosting, VPS and cloud are supported; colocation and connectivity are in no readable source",2026-09-21
+DZA-007,ownership_type,Private domestic,privately held per LinkedIn; the owners and their nationality are not disclosed,2026-09-21
+DZA-007,gps_coordinates,"35.6970, -0.6330","plausible for Oran, but no readable source gives coordinates",2026-09-21
+DZA-008,facility_name,CERIST Data Center,"the ministry sources cited here describe other facilities: the ESI National Data Center (APS, July 2025) and the National Higher School of AI's GPU data centre (MESRS, July 2025); T8 to decide whether they need rows",2026-09-21
+DZA-008,parent_company,Ministry of Higher Education and Scientific Research,CERIST's place under the Ministry of Higher Education and Scientific Research is plausible but in no readable source,2026-09-21
+DZA-008,year_operational,1985,1985 is CERIST's founding year; no source dates the data centre,2026-09-21
+DZA-008,services_offered,Academic cloud (VPS/VDS/IaaS); scientific data hosting; research computing; object storage (Swift/S3); DNS hosting (.dz); backup,"VPS, storage and backup are supported; research computing, Swift/S3 object storage and .dz DNS hosting are in no readable source",2026-09-21
+DZA-008,cloud_platform,OpenStack; Swift/S3,no readable source names OpenStack or Swift,2026-09-21
+DZA-008,submarine_cable_access,Connected via metro fibre,no source describes the facility's connectivity,2026-09-21
+DZA-008,carrier_neutrality,Single carrier / captive,no source says whether tenants can choose a carrier,2026-09-21
+DZA-008,gps_coordinates,"36.7620, 3.0120","plausible for Ben Aknoun, but no readable source gives coordinates",2026-09-21
+DZA-009,operational_status,Operational,Data Center Map lists the facility but gives no date; no dated source confirms it is running,2026-09-21
+DZA-009,ownership_type,Private domestic,eBS's owner and their nationality are not disclosed,2026-09-21
+DZA-009,ownership_structure_type,Private Algerian EURL (single-member LLC),"EURL appears only in the Kompass URL, whose page was unreadable",2026-09-21
+DZA-009,submarine_cable_access,Connected via metro fibre,no source describes the facility's connectivity,2026-09-21
+DZA-009,gps_coordinates,"36.6980, 2.8720","plausible for the Sidi Abdellah Cyber Parc, but no readable source gives coordinates",2026-09-21
+DZA-010,year_operational,2020,2020 is the date of the ARPCE certification; no source gives the year the facility opened,2026-09-21
+DZA-010,ownership_type,Private domestic,privately held per LinkedIn; the owners and their nationality are not disclosed,2026-09-21
+DZA-010,carrier_neutrality,Limited carriers,no source says whether tenants can choose a carrier,2026-09-21
+DZA-010,submarine_cable_access,Connected via metro fibre,no source describes the facility's connectivity,2026-09-21
+DZA-010,gps_coordinates,"36.7500, 3.0700","the coordinates are central Algiers; the sources place ADEX at Sidi Abdellah, and no source locates the facility itself",2026-09-21
+SEN-001,parent_company,Orange S.A.,"Sonatel is BRVM-listed and Orange's stake, and whether it is held through Orange MEA, is in no readable source",2026-09-21
+SEN-001,major_shareholders,"Of Orange S.A.: 1. French Republic (13.4%), 2. Bpifrance Participations (9.56%), 3. Orange employee shareholding (7.28%), 4. BlackRock (4.16%), 5. Thornburg Investment Management (3.24%) ([Simply Wall St](https://simplywall.st/stocks/it/telecom/bit-1ora/orange-shares/ownership))","the field wants Sonatel's own BRVM register, where Orange and the State of Senegal hold their stakes; no source gives it, so Orange S.A.'s is kept",2026-09-21
+SEN-001,year_operational,2017,"the comments cite a BRVM annual report for 2017, which is not in the packet",2026-09-21
+SEN-001,hyperscaler_aws,Yes,the AWS release puts the Wavelength Zone in Orange's Senegal data centre without naming Rufisque,2026-09-21
+SEN-001,security_certifications,ISO 27001; ISO 9001; ISO 14001; ISO 50001; OHSAS 18001; PCI-DSS; Tier III Design UPTIME; Tier III Facility UPTIME,"Uptime, DataCenterMap and Orange Business support Tier III, ISO 27001 and PCI-DSS, and Orange Business counts 8 certifications; ISO 9001, 14001, 50001 and OHSAS 18001 are not named",2026-09-21
+SEN-001,submarine_cable_access,Dark fibre connection to landing station,no source describes the facility's route to a landing station,2026-09-21
+SEN-001,carrier_neutrality,Limited carriers,"an operator's own facility, so limited carriers is plausible; no source states it",2026-09-21
+SEN-001,gps_coordinates,"14.7165, -17.2603","plausible for Rufisque, but no readable source gives coordinates",2026-09-21
+SEN-002,investment_usd,18200000,"DCD's $18.2M does not match its own CFA 46bn, which is roughly $80M+ at 2021 rates; one of the two figures is wrong",2026-09-21
+SEN-002,server_vendors,Huawei,Huawei supplied equipment and technical support; no source says the servers are Huawei's,2026-09-21
+SEN-002,carrier_neutrality,Single carrier / captive,"a state facility, so captive is plausible; no source states it",2026-09-21
+SEN-002,gps_coordinates,"14.7165, -17.0900",DataCenterMap says the exact location within the Diamniadio Digital Technology Park is not public,2026-09-21
+SEN-003,year_operational,2017,DCD's opening report carries no readable date; the comments give July 2017,2026-09-21
+SEN-003,facility_type,Colocation/carrier-neutral,built for Tigo and pitched to enterprises; whether it rents space to other tenants is not stated,2026-09-21
+SEN-003,services_offered,Colocation; data hosting; backup; cloud connectivity; satellite gateway hosting,only data storage and the satellite gateway are in the sources,2026-09-21
+SEN-003,submarine_cable_access,Connected via metro fibre,"Tigo's 1,000 km fibre network reaches the site, but no source describes the route to a landing station",2026-09-21
+SEN-003,ultimate_parent_hq_country,MDG,"no source gives AXIAN Group's registration, and Wikipedia calls Hiridjee a Malagasy-born French entrepreneur",2026-09-21
+SEN-003,gps_coordinates,"14.7130, -17.0950","plausible for Diamniadio, but no readable source gives coordinates",2026-09-21
+SEN-004,operational_status,Operational,the newest dated source (May 2023) expected completion in Q4 2023; the undated About page speaks of the facility in the present tense,2026-09-21
+SEN-004,foreign_ownership_pct,100% (South African / UK ownership),La Colombe Group is Onix's Senegalese partner; whether it holds equity is not stated,2026-09-21
+SEN-004,security_certifications,ISO 27001,no source gives ISO 27001; Uptime design certification was only being sought in 2023,2026-09-21
+SEN-004,ultimate_parent_company,Old Mutual Limited,"the sources name Old Mutual Group and OMAI, not Old Mutual Limited, and AIIF3's investors own the equity",2026-09-21
+SEN-004,gps_coordinates,"14.7335, -17.5030",DataCenterMap says the exact location within the Almadies landing station is not public,2026-09-21
+SEN-005,facility_name,STELLARIX Senegal,"may be the same Diamniadio building as SEN-003 (Axian's ex-Tigo Tier III site, also Diamniadio); no source links them, for T8 to check",2026-09-21
+SEN-005,year_operational,,no source gives an opening year,2026-09-21
+SEN-005,foreign_ownership_pct,100%,no source gives the Senegalese operating company's register,2026-09-21
+SEN-005,submarine_cable_access,Dark fibre connection to landing station,no source describes the facility's route to a landing station,2026-09-21
+SEN-005,ultimate_parent_hq_country,MDG,"no source gives AXIAN Group's registration, and Wikipedia calls Hiridjee a Malagasy-born French entrepreneur",2026-09-21
+SEN-005,gps_coordinates,"14.7160, -17.0920","plausible for Diamniadio, but no readable source gives coordinates",2026-09-21
+SEN-006,facility_name,Free Data Center Diamniadio,"the sources describe Free's one data centre in Diamniadio (ex-Tigo, Avanti gateway), which is SEN-003; no source shows a second Free facility, for T8/T9 to merge or retire the row",2026-09-21
+SEN-006,year_operational,2019,2019 is the year Tigo became Free; no source gives an opening year for a separate facility,2026-09-21
+SEN-006,submarine_cable_access,Connected via metro fibre,no source describes the facility's route to a landing station,2026-09-21
+SEN-006,carrier_neutrality,Single carrier / captive,"an operator's own facility, so captive is plausible; no source states it",2026-09-21
+SEN-006,ultimate_parent_hq_country,MDG,"no source gives AXIAN Group's registration, and Wikipedia calls Hiridjee a Malagasy-born French entrepreneur",2026-09-21
+SEN-006,gps_coordinates,"14.7130, -17.0960",DataCenterMap says the exact location is not public,2026-09-21
+SEN-007,investment_usd,10000000,no readable source gives the $10M for Dakar,2026-09-21
+SEN-007,parent_company,PAIX Data Centres B.V.,"PAIX is said to be headquartered in Amsterdam, but no source names the BV or the Senegalese owning entity",2026-09-21
+SEN-007,ultimate_parent_company,Africa50,"Africa50 is lead investor and chairs the board; no source states its stake or that it controls PAIX, nor gives its registration",2026-09-21
+SEN-007,submarine_cable_access,Dark fibre connection to landing station,the announcements cite Dakar's landing cables but give no route from Les Mamelles,2026-09-21
+SEN-007,gps_coordinates,"14.7188, -17.4820",DCD places the site in Les Mamelles; no readable source gives coordinates,2026-09-21
+SEN-008,services_offered,Internal IT infrastructure; utility operations management; enterprise systems hosting,"a utility's own data centre, so internal systems are plausible; no source lists services",2026-09-21
+SEN-008,submarine_cable_access,Connected via metro fibre,no source describes the facility's connectivity,2026-09-21
+SEN-008,carrier_neutrality,Single carrier / captive,"a utility's captive facility, so single carrier is plausible; no source states it",2026-09-21
+SEN-008,gps_coordinates,"14.7160, -17.0900","plausible for Diamniadio, but no readable source gives coordinates",2026-09-21
+CIV-001,major_shareholders,"Of Equinix, Inc.: Vanguard Group (13.64%), BlackRock (10.99%), State Street (6.32%), FMR LLC (2.86%), Cohen & Steers (2.66%) [Yahoo Finance](https://finance.yahoo.com/quote/EQIX/holders/)",the Yahoo Finance holders page reads empty; the stakes need a current 13F or proxy source,2026-09-21
+CIV-001,dfi_involvement,None recent; pre-2022 AfDB funded MainOne cable (2009),AfDB funding of the MainOne cable (2009) is plausible but no packet source mentions it,2026-09-21
+CIV-001,gps_coordinates,"5.230347, -3.757779",PeeringDB's geocode is blank in the capture; coordinates are shared with Raxio at VITIB,2026-09-21
+CIV-001,ownership_structure_type,"Public REIT, institutional-dominated",Equinix's REIT status is not stated in the packet,2026-09-21
+CIV-002,operational_status,Operational,only DataCenterMap shows the Abidjan site running; Africa50's undated page lists operating assets in Ghana and Kenya only,2026-09-21
+CIV-002,year_operational,2021,no packet source gives an opening year,2026-09-21
+CIV-002,ultimate_parent_company,Africa50,"Africa50 is the lead equity investor and chairs the board, but no source gives its stake or says it controls PAIX",2026-09-21
+CIV-002,ixp_presence,IXP connected (not hosted),comments cite PAIX's website for CIV-IX on site; no packet source confirms it is hosted,2026-09-21
+CIV-002,submarine_cable_access,Connected via metro fibre,no source describes the route to a landing station,2026-09-21
+CIV-003,parent_hq_country,USA,no source gives Raxio Group's registration; its 2023 equity release is datelined Amsterdam,2026-09-21
+CIV-003,ultimate_parent_hq_country,USA|FRA,Meridiam's registration in France is not stated in the packet,2026-09-21
+CIV-003,key_tenants,"Government of Côte d'Ivoire (MoU with the Ministry of Digital Transition, June 2025)",the June 2025 MoU with the Ministry of Digital Transition is not in any packet source,2026-09-21
+CIV-003,submarine_cable_access,Dark fibre connection to landing station,no source describes a dark-fibre route to the landing station,2026-09-21
+CIV-003,gps_coordinates,"5.230347, -3.757779",identical to Equinix AB1's coordinates; PeeringDB's geocode is blank in the capture,2026-09-21
+CIV-004,control_mechanisms,"Double voting rights for shares held >2 years in registered form; 3 public sector directors on 15-member board (7 independent, 3 employee reps, 1 employee-shareholder seat vacant); no golden share ([Orange Board](https://www.orange.com/en/our-group/our-governance/our-board-of-directors))",double voting rights and the absence of a golden share are not in the packet,2026-09-21
+CIV-004,carrier_neutrality,Limited carriers,an operator's own pooled facility with some B2B colocation; no source states its carrier policy,2026-09-21
+CIV-004,submarine_cable_access,Connected via metro fibre,no source describes the route to a landing station,2026-09-21
+CIV-004,gps_coordinates,"5.205, -3.748",no source gives coordinates for the Grand-Bassam free-zone site,2026-09-21
+CIV-005,facility_name,MTN Abidjan Data Centre (Yopougon),"DataCenterMap places the MTN Abidjan Data Centre on Bd François Mitterrand, not in Yopougon, and CIO Mag counts four MTN data centres in the country; the sources may describe a different MTN site",2026-09-21
+CIV-005,year_operational,2014,the 2014 Flexenclosure commissioning rests on a telecoms.com article that is unreadable,2026-09-21
+CIV-005,total_floor_space_sqm,336,the 336 m2 prefab figure rests on an unreadable source,2026-09-21
+CIV-005,carrier_neutrality,Single carrier / captive,"an operator's own switching site, so captive is likely; no source states it",2026-09-21
+CIV-005,submarine_cable_access,Connected via metro fibre,no source describes the route to a landing station,2026-09-21
+CIV-005,gps_coordinates,"5.352, -4.054","approximate for Yopougon, which the only readable location source contradicts",2026-09-21
+CIV-006,year_operational,2012,no packet source dates the data centre to 2012,2026-09-21
+CIV-006,parent_company,Ministry of Digital Transition and Digitalization,"the ministry commissions SNDI's projects, but no source says it holds SNDI's shares",2026-09-21
+CIV-006,major_shareholders,100% owned by the Republic of Côte d'Ivoire,sources call SNDI state-owned without giving a percentage,2026-09-21
+CIV-006,carrier_neutrality,Single carrier / captive,"a government facility on SNDI's own network, so captive is likely; no source states it",2026-09-21
+CIV-006,submarine_cable_access,Connected via metro fibre,no source describes the route to a landing station,2026-09-21
+CIV-006,gps_coordinates,"5.318, -4.016",approximate for the Plateau government district; no source gives the site,2026-09-21
+CIV-007,it_capacity_mw,1,the 1 MW comes from D4D pipeline data not in the packet,2026-09-21
+CIV-007,server_vendors,Cisco,Cisco trainers ran operator training; no source names Cisco hardware,2026-09-21
+CIV-007,operator_name,Cybastion Institute of Technology LLC (contractor) / ANSUT (government),who will operate the finished facility is not settled; CIO Mag lists it among ANSUT and State data centres,2026-09-21
+CIV-007,submarine_cable_access,Dark fibre connection to landing station,no source describes a dark-fibre route to the landing station,2026-09-21
+CIV-007,gps_coordinates,"5.225, -3.752",approximate for VITIB; the site moved from Marcory-Anoumabo,2026-09-21
+CIV-008,ultimate_parent_company,Anthony Same (Founder/CEO) / UHURU Investment Partners,"no source gives Anthony Same's or UHURU's stake, so who controls ST Digital is unconfirmed",2026-09-21
+CIV-008,it_capacity_mw,1,DCD says capacity was not disclosed; the 1 MW has no source,2026-09-21
+CIV-008,cloud_platform,OVHcloud,no packet source mentions an OVHcloud partnership,2026-09-21
+CIV-008,carrier_neutrality,Fully carrier-neutral,no source states the carrier policy,2026-09-21
+CIV-008,submarine_cable_access,Dark fibre connection to landing station,"DCD and DataCenterMap mention a submarine cable landing station in the plans, but not a dark-fibre route",2026-09-21
+CIV-008,gps_coordinates,"5.230347, -3.757779",identical to Equinix AB1's coordinates at VITIB,2026-09-21
+CIV-009,ultimate_parent_hq_country,MDG|MUS|ARE,no source gives Axian Group Limited's registration; the three-country value mixes AXIAN Telecom's Mauritius and Dubai seats with the founder's origin,2026-09-21
+CIV-009,submarine_cable_access,Connected via metro fibre,no source describes the route to a landing station,2026-09-21
+CIV-009,gps_coordinates,"5.345, -4.024",approximate central Abidjan; the site is undisclosed,2026-09-21
