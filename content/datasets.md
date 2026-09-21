@@ -38,7 +38,7 @@ The table is maintained, not rebuilt. When new evidence arrives, the affected ro
 
 ## data-centres-status
 
-**This dataset is still being finalised.** Every source is being checked, new facilities are being added, and North Africa (Egypt, Morocco, Algeria, Tunisia and Libya) is not yet covered. Figures may change until this notice goes.
+**This dataset is still being finalised.** Every source is being checked and new facilities are being added. Who controls each North African facility is provisional until it has been assessed. Figures may change until this notice goes.
 
 ## data-centres-table-note
 

@@ -35,6 +35,8 @@ HQ = {
     "Sudan": "SDN", "Switzerland": "CHE", "Tanzania": "TZA", "Togo": "TGO", "UAE": "ARE",
     "Dubai": "ARE", "UK": "GBR", "USA": "USA", "Uganda": "UGA", "Zambia": "ZMB", "Zimbabwe": "ZWE",
     "N/A (jointly controlled by US and France-based entities)": "USA|FRA",
+    # North Africa, from the first version (datasets-import-dc-v1.py).
+    "Algeria": "DZA", "Croatia": "HRV", "Egypt": "EGY", "Libya": "LBY", "Qatar": "QAT", "Tunisia": "TUN",
 }
 
 # Exact-value renames, per column. Spelling and form only.
