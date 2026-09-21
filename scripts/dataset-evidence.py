@@ -9,6 +9,7 @@
     python scripts/dataset-evidence.py refetch        # read what T4 could not, through Exa
     python scripts/dataset-evidence.py group-packet raxio AGO-012 CIV-003 ...   # T6b
     python scripts/dataset-evidence.py apply-group raxio [--dry-run]
+    python scripts/dataset-evidence.py apply-t8 WEST [--dry-run]              # T8: + "new:*" rows, "retire"
     python scripts/dataset-evidence.py derive         # set the rule-derived fields on every row
 
 A model reads the packet, one country per sitting, and writes `decisions.json`; this script
@@ -301,6 +302,37 @@ def group_packet(name, ids):
     print(f"{p.relative_to(dl.ROOT)}: {len(rows)} rows, {len(cited)} sources, {p.stat().st_size:,} bytes")
 
 
+def t8_packet(name, isos):
+    """T8: a region's rows in full, their open facility-level flags, and the other countries' names,
+    for a reader who will search the web for what the dataset lacks."""
+    rows = dl.read(NAME)
+    flags = collections.defaultdict(list)
+    for c in (read_csv(CLAIMS) if CLAIMS.exists() else []):
+        if c["field"] in ("facility_name", "operational_status", "ultimate_parent_company"):
+            flags[c["facility_id"]].append(c)
+    skip = {"source_urls", "raw_slugs", "last_verified", "hyperscaler_presence", "cloud_act_exposure",
+            "foreign_dependency_score", "country_name"}
+    cut = lambda v: v if len(v) <= 500 else v[:500] + "…"
+    out = [f"# T8 packet — {name}: {' '.join(isos)}", "",
+           "Brief: `prep/dc-evidence/T8-BRIEF.md`. Leads: `prep/dc-evidence/T8-LEADS.md`.", ""]
+    for iso in isos:
+        mine = [r for r in rows if r["country"] == iso]
+        out += ["", f"## {iso} — {len(mine)} row(s)", ""]
+        for r in mine:
+            out.append(f"### {r['facility_id']} — {r['facility_name']}")
+            out.append(" | ".join(f"{k}: {cut(v)}" for k, v in r.items() if v and k not in skip))
+            out.append(f"sources: {r['source_urls']}")
+            for c in flags.get(r["facility_id"], []):
+                out.append(f"- FLAG {c['field']}: {c['reason']}")
+            out.append("")
+    out += ["", "## Every facility in the dataset", "",
+            "; ".join(f"{r['facility_id']} {r['facility_name']}" for r in rows)]
+    p = WORK / "t8" / name / "packet.md"
+    p.parent.mkdir(parents=True, exist_ok=True)
+    p.write_text("\n".join(out), encoding="utf-8")
+    print(f"{p.relative_to(dl.ROOT)}: {sum(r['country'] in isos for r in rows)} rows, {p.stat().st_size:,} bytes")
+
+
 def load_decisions(folder):
     dec = {}
     for f in sorted(folder.glob("decisions*.json")):
@@ -325,16 +357,69 @@ def apply(iso, dry):
     _apply(dec, rows, mine, iso, dry, problems, group=None)
 
 
-def apply_group(name, dry):
+def apply_group(name, dry, base="groups"):
     """T6b: one reader settles an operator group's facts across countries. A group's decisions
     need not cover every URL a row cites (T6 did that); they may add sources, and they add to a
     row's unsourced claims or resolve them rather than replacing the row's list."""
-    dec = load_decisions(WORK / "groups" / name)
+    dec = load_decisions(WORK / base / name)
     rows = dl.read(NAME)
+    meta = {m["column"]: m for m in dl.metadata(NAME)}
+    today = datetime.date.today().isoformat()
+    problems, adds, retires = [], [], []
+    # T8: new facilities found on the web. Their sources are checked and cached by
+    # `dataset-urls.py --check`, which reads source_urls from the master, then staged through T5.
+    for key in [k for k in dec if k.startswith("new:")]:
+        d = dec.pop(key)
+        f = {c: str(v).strip() for c, v in d.get("fields", {}).items()}
+        iso = f.get("country", "")
+        bad = [c for c in f if c not in meta or (c in DERIVED_BY_SCRIPT and c != "country")]
+        if not re.fullmatch(r"[A-Z]{3}", iso) or not f.get("facility_name") or bad or not d.get("source_urls"):
+            problems.append(f"{key}: a new row needs country, facility_name and source_urls, and only editable fields {bad}")
+            continue
+        r = {c: "" for c in meta}
+        r.update(f)
+        r["facility_id"] = dl.next_id(rows, iso)
+        r["source_urls"] = "; ".join(dict.fromkeys(u.strip() for u in d["source_urls"] if u.strip()))
+        with open(dl.ROOT / "lookups" / "countries.csv", encoding="utf-8-sig", newline="") as fh:
+            r["country_name"] = {x["iso-3"]: x["country-name"] for x in csv.DictReader(fh)}.get(iso, "")
+        rows.append(r)
+        adds.append((r["facility_id"], d.get("why", ""), r["source_urls"]))
+        dec[r["facility_id"]] = {k: v for k, v in d.items() if k in ("to_source", "sources")}
+    # T8: a duplicate folds its sources into the row it repeats; a facility nothing shows exists goes.
+    for fid in list(dec):
+        rt = dec[fid].get("retire")
+        if rt:
+            into = rt.get("into", "")
+            if into and into not in {x["facility_id"] for x in rows}:
+                problems.append(f"{fid}: retire into unknown row {into}")
+            retires.append((fid, into, rt.get("reason", "").strip()))
     by_id = {r["facility_id"]: r for r in rows}
-    problems = [f"{fid}: no such row" for fid in dec if fid not in by_id]
+    problems += [f"{fid}: no such row" for fid in dec if fid not in by_id]
     mine = {fid: by_id[fid] for fid in dec if fid in by_id}
+    for fid, why, src in adds:
+        print(f"{fid} add: {why}")
+    for fid, into, why in retires:
+        print(f"{fid} retire{' into ' + into if into else ''}: {why}")
     _apply(dec, rows, mine, name, dry, problems, group=name)
+    if dry:
+        return
+    for fid, why, src in adds:
+        dl.log(NAME, fid, "add", f"Added from a coverage search: {why.rstrip('.')}.", src, date=today)
+    if retires:
+        rows = dl.read(NAME)
+        by_id = {r["facility_id"]: r for r in rows}
+        for fid, into, why in retires:
+            if into:  # its sources are the other row's evidence now
+                t, g = by_id[into], by_id[fid]
+                for col in ("source_urls", "raw_slugs"):
+                    have = [u.strip() for u in t[col].split(";") if u.strip()]
+                    t[col] = "; ".join(dict.fromkeys(have + [u.strip() for u in g[col].split(";") if u.strip()]))
+            rows = dl.retire(NAME, rows, fid, (f"duplicate of {into}: " if into else "") + why, date=today)
+            by_id = {r["facility_id"]: r for r in rows}
+        dl.write(NAME, rows)
+        for fid, into, why in retires:
+            dl.log(NAME, fid, "retire", (f"Retired as a duplicate of {into}: " if into else "Retired: ") + why.rstrip(".") + ".",
+                   date=today)
 
 
 def _apply(dec, rows, mine, scope, dry, problems, group):
@@ -378,6 +463,12 @@ def _apply(dec, rows, mine, scope, dry, problems, group):
             desc = (f"{f} {short(old)} → {short(new)}" if len(old) <= 60 and len(new) <= 60
                     else f"{f} {'cleared' if not new else 'filled' if not old else 'rewritten'}")
             changes.append(f"{desc}: {e['why'].rstrip('.')}.")
+        for f, text in d.get("append", {}).items():  # T8: add to a long cell without rewriting it
+            if f not in meta or f in DERIVED_BY_SCRIPT:
+                problems.append(f"{fid}: cannot append to {f}")
+                continue
+            r[f] = f"{r[f].rstrip()} {text.strip()}".strip()
+            changes.append(f"{f}: added \"{text.strip()[:80]}\".")
         r["hyperscaler_presence"] = "Yes" if any(r[h] == "Yes" for h in HYPER) else "No"
         r["cloud_act_exposure"] = cloud_act(r)
         r["foreign_dependency_score"] = foreign_dependency(r)
@@ -498,7 +589,7 @@ def status():
 
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
-    ap.add_argument("cmd", choices=["packet", "apply", "status", "refetch", "derive", "group-packet", "apply-group"])
+    ap.add_argument("cmd", choices=["packet", "apply", "status", "refetch", "derive", "group-packet", "apply-group", "apply-t8", "t8-packet"])
     ap.add_argument("iso", nargs="?", help="ISO3, or a group name for group-packet / apply-group")
     ap.add_argument("ids", nargs="*", help="group-packet: the group's facility IDs")
     ap.add_argument("--dry-run", action="store_true")
@@ -514,6 +605,10 @@ if __name__ == "__main__":
         group_packet(a.iso, a.ids)
     elif a.cmd == "apply-group":
         apply_group(a.iso, a.dry_run)
+    elif a.cmd == "t8-packet":
+        t8_packet(a.iso, a.ids)
+    elif a.cmd == "apply-t8":  # prep/dc-evidence/t8/{REGION}/decisions*.json, same format plus new rows and retire
+        apply_group(a.iso, a.dry_run, base="t8")
     elif not a.iso:
         ap.error("give an ISO3")
     elif a.cmd == "packet":

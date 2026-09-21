@@ -95,9 +95,37 @@ def check(name, rows=None):
     return out
 
 
-def next_id(rows, iso3, id_col="facility_id"):
-    """The next free ID in a country. Retired rows stay in the master, so an ID is never reissued."""
-    n = [int(r[id_col][4:]) for r in rows if r[id_col].startswith(iso3 + "-")]
+def retired_path(name):
+    return DATASETS / name / "retired.csv"
+
+
+def retired(name):
+    p = retired_path(name)
+    if not p.exists():
+        return []
+    with open(p, encoding="utf-8", newline="") as f:
+        return list(csv.DictReader(f))
+
+
+def retire(name, rows, record_id, reason, date=None, id_col="facility_id"):
+    """Take a record out of the master into `retired.csv`, with the date and the reason: a duplicate
+    of another record, or a facility no source shows exists. The dated editions that carried it are
+    never revised, so a citation to one still resolves; `next_id` reads this file too, so the ID is
+    never reissued. Returns the rows left. The caller writes the master and logs `retire`."""
+    keep = [r for r in rows if r[id_col] != record_id]
+    gone = [r for r in rows if r[id_col] == record_id]
+    if len(gone) != 1:
+        raise ValueError(f"{record_id}: not in the master")
+    row = {"retired": date or datetime.date.today().isoformat(), "retired_reason": reason, **gone[0]}
+    old = retired(name)
+    header = ["retired", "retired_reason"] + columns(name)
+    _put(retired_path(name), _csv_text(header, old + [{c: row.get(c, "") for c in header}]))
+    return keep
+
+
+def next_id(rows, iso3, id_col="facility_id", name="data-centres"):
+    """The next free ID in a country, counting retired records, so an ID is never reissued."""
+    n = [int(r[id_col][4:]) for r in list(rows) + retired(name) if r[id_col].startswith(iso3 + "-")]
     return f"{iso3}-{(max(n) if n else 0) + 1:03d}"
 
 
