@@ -794,3 +794,70 @@ UGA-015,operational_status,Planned,DCD lists Kampala among Nxtra's planned build
 UGA-016,facility_name,Simbanet Uganda DC (Edge),no source shows Simbanet operates a data centre in Uganda; its SMART DC is an IoT product. T8/T9 to confirm or retire the row,2026-09-21
 UGA-016,ultimate_parent_hq_country,MDG|MUS|ARE,"no source gives Axian Group Limited's registration; the MDG|MUS|ARE list mixes HQ locations and the owner's origin, not joint control",2026-09-21
 UGA-016,carrier_neutrality,Single carrier / captive,no source describes a Simbanet facility's carrier access,2026-09-21
+TZA-001,submarine_cable_access,Connected via metro fibre,"plausible via the NICTBB backbone, but no readable source describes the route to a landing station",2026-09-21
+TZA-001,carrier_neutrality,Limited carriers,no readable source says which carriers can serve the facility,2026-09-21
+TZA-001,server_vendors,Huawei,DCD says Huawei supplied bandwidth and advised the government; no source names the server vendor,2026-09-21
+TZA-001,gps_coordinates,"-6.7695, 39.2422","taken from PeeringDB fac/7049, which is not among the row's sources",2026-09-21
+TZA-002,rack_capacity,110,"110 racks after Phase 2 is plausible, but no readable source gives a rack count",2026-09-21
+TZA-002,it_capacity_mw,3,no readable source gives the IT load,2026-09-21
+TZA-002,parent_hq_country,TZA,Wingu Africa Group is headquartered in Dar es Salaam; no source gives its registration,2026-09-21
+TZA-002,ultimate_parent_hq_country,MUS|ZAF|MAR,"MUS|ZAF|MAR are Africa Capitalworks' office locations, not a registration or a joint-control split",2026-09-21
+TZA-002,ownership_type,Private domestic,"Wingu is Dar es Salaam-headquartered, but Africa Capitalworks is not Tanzanian and no source gives the split",2026-09-21
+TZA-002,dfi_involvement,Indirect via Africa Capitalworks historical backers (CDC/BII UK DFI in launch); no direct DFI equity/debt in Wingu; recent debt from commercial RMB,BII's backing of Africa Capitalworks is plausible; no source in the row states it,2026-09-21
+TZA-002,gps_coordinates,"-6.761, 39.175",PeeringDB's page gives no geocode,2026-09-21
+TZA-003,operator_name,Yas Tanzania (formerly Tigo Tanzania),"PeeringDB lists the site as STELLAR IX SALASALA DataCenter with the operator as property owner, and STELLAR-IX Tanzania is 80% AXIAN's; whether Yas or STELLAR-IX Tanzania owns and runs it needs a source",2026-09-21
+TZA-003,ultimate_parent_hq_country,MDG|MUS|ARE,MDG|MUS|ARE lists holding-company domiciles; no source gives AXIAN Group Limited's registration,2026-09-21
+TZA-003,services_offered,Colocation; suites; cages; private cabinets; partial cabinets; individual servers; cloud services; disaster recovery,Datacentermap's page could not be read and no other source lists services,2026-09-21
+TZA-003,submarine_cable_access,Connected via metro fibre,no readable source describes the route to a landing station,2026-09-21
+TZA-003,carrier_neutrality,Limited carriers,no readable source says which carriers serve the facility,2026-09-21
+TZA-003,gps_coordinates,"-6.703944, 39.201724",PeeringDB's page gives no geocode,2026-09-21
+TZA-004,facility_name,Airtel Tanzania Data Centre (2Africa Marine Cable Centre),SDxCentral describes the Airtel 2Africa Marine Cable Centre; no readable source shows it is the Datacentermap-listed Airtel Tanzania Data Center on Bagamoyo Rd,2026-09-21
+TZA-004,ownership_type,Joint venture (majority foreign),the other 49% of Airtel Tanzania PLC is widely reported as the Government of Tanzania's; no source in the row names the holder,2026-09-21
+TZA-004,carrier_neutrality,Single carrier / captive,"an operator's own landing and core site, so captive is plausible; no source states it",2026-09-21
+TZA-004,gps_coordinates,"-6.76, 39.21",approximated from the address; no source gives coordinates,2026-09-21
+TZA-005,control_mechanisms,"Vodacom Group Limited owns 75% of Vodacom Tanzania PLC [[Vodacom Fact Sheet](https://vodacom.com/pdf/about-us/fact-sheet/2025/vodacom-results-fact-sheet-2025.pdf)]; Vodafone Group Plc majority-owns Vodacom Group (65.1%), with 5 Vodafone nominees on its 12-member board; Vodafone shareholder rights as majority owner [[Vodacom Governance](https://www.vodacom.com/governance.php)]",Vodafone's five nominees on a 12-member Vodacom board: the governance page cited carries only the business principles,2026-09-21
+TZA-005,services_offered,Cloud computing; data storage; disaster recovery; managed hosting,"managed hosting is not in Datacentermap's listing, which advertises colocation suites, cages and cabinets",2026-09-21
+TZA-005,submarine_cable_access,Connected via metro fibre,no readable source describes the route to a landing station,2026-09-21
+TZA-005,carrier_neutrality,Limited carriers,no readable source says which carriers serve the facility,2026-09-21
+TZA-005,gps_coordinates,"-6.755, 39.268",no source gives coordinates,2026-09-21
+TZA-006,facility_name,Vodacom Mbezi Data Centre,"its Datacentermap page could not be read; Datacentermap's other Dar es Salaam listings name 'Vodacom Mbezi Data Center, Vodacom Road', but no readable source describes it",2026-09-21
+TZA-006,operational_status,Operational,no readable source describes the facility or its status,2026-09-21
+TZA-006,control_mechanisms,"Vodacom Group Limited owns and controls 75.00% of Vodacom Tanzania PLC [[Vodacom Tanzania AR 2025](https://vodacom.co.tz/assets/uploads/Vodacom_Tanzania_PLC_Annual_Integrated_Report_2025_f75bdd1d49.pdf)]; Vodafone Group Plc majority-owns Vodacom Group (65.1%), with 5 Vodafone nominees on its 12-member board; Vodafone shareholder rights as majority owner [[Vodacom Governance](https://www.vodacom.com/governance.php)]",Vodafone's five nominees on a 12-member Vodacom board: the governance page cited carries only the business principles,2026-09-21
+TZA-006,services_offered,Cloud computing; data storage; disaster recovery; managed hosting,no readable source lists the facility's services,2026-09-21
+TZA-006,submarine_cable_access,Connected via metro fibre,no readable source describes the route to a landing station,2026-09-21
+TZA-006,carrier_neutrality,Limited carriers,no readable source says which carriers serve the facility,2026-09-21
+TZA-006,gps_coordinates,"-6.748, 39.181",no source gives coordinates,2026-09-21
+TZA-007,facility_type,Edge,Datacentermap lists the site but no source says it is an edge facility,2026-09-21
+TZA-007,services_offered,Cloud computing; data storage; disaster recovery,Datacentermap's Dodoma listing gives no services,2026-09-21
+TZA-007,control_mechanisms,"Vodacom Group Limited owns 75% of Vodacom Tanzania PLC [[Vodacom Fact Sheet](https://vodacom.com/pdf/about-us/fact-sheet/2025/vodacom-results-fact-sheet-2025.pdf)]; Vodafone Group Plc majority-owns Vodacom Group (65.1%), with 5 Vodafone nominees on its 12-member board; Vodafone shareholder rights as majority owner [[Vodacom Governance](https://www.vodacom.com/governance.php)]",Vodafone's five nominees on a 12-member Vodacom board: the governance page cited carries only the business principles,2026-09-21
+TZA-007,submarine_cable_access,Landlocked/no submarine cable access,"Dodoma is inland, but Tanzania is coastal; no source describes the site's route to a landing station",2026-09-21
+TZA-007,carrier_neutrality,Single carrier / captive,no readable source says which carriers serve the facility,2026-09-21
+TZA-008,ultimate_parent_hq_country,,"blank because control is shared among Remgro, IPS/AKFED, Sanlam and Solcon Capital, and no source gives their registrations",2026-09-21
+TZA-008,services_offered,Submarine cable landing; colocation at cable landing station; private cabinets; connectivity services,private cabinets are not in any readable source; SEACOM advertises open access entries at its landing stations,2026-09-21
+TZA-008,gps_coordinates,"-6.685, 39.267",no readable source gives coordinates,2026-09-21
+TZA-009,submarine_cable_access,Connected via metro fibre,"plausible for a Dar es Salaam carrier PoP, but no source describes its route to a landing station",2026-09-21
+TZA-009,gps_coordinates,"-6.818177, 39.286437","comments say PeeringDB, but PeeringDB's geocode field is blank; only the Zanaki St address is given",2026-09-21
+TZA-010,ultimate_parent_hq_country,USA|FRA,"Meridiam is French; no source here gives Roha Group's country of registration (it has offices in Africa, the US and Europe)",2026-09-21
+TZA-010,submarine_cable_access,Connected via metro fibre,the site is 'along major fibre routes' with 11 carriers; no source describes its route to a landing station,2026-09-21
+TZA-010,gps_coordinates,"-6.77, 39.22",approximate; no source gives coordinates for the Old Bagamoyo Rd site,2026-09-21
+TZA-011,submarine_cable_access,Connected via metro fibre,"plausible for a Dar es Salaam exchange, but no source describes its route to a landing station",2026-09-21
+TZA-011,gps_coordinates,"-6.813258, 39.288795",PeeringDB's geocode is blank; only the Posta House address is given,2026-09-21
+TZA-012,operator_name,Unknown,PeeringDB's DarIX record (updated January 2025) names no organisation,2026-09-21
+TZA-012,carrier_neutrality,Fully carrier-neutral,an exchange with an open peering policy is plausibly neutral; no source states it,2026-09-21
+TZA-012,submarine_cable_access,Connected via metro fibre,no source describes the exchange's route to a landing station,2026-09-21
+TZA-012,gps_coordinates,"-6.7695, 39.2422","comments place DarIX at NIDC (PeeringDB fac/15782), but the cited exchange page lists no facility",2026-09-21
+TZA-013,operational_status,Operational,"the row's DataCenterMap page is unreadable; DataCenterMap's NIDC page (cited on TZA-009) lists an Aptus Solutions Data Center at 759/10 Azikiwe Street, and Axian's accounts describe Aptus as a fibre ISP",2026-09-21
+TZA-013,services_offered,VPS hosting; dedicated servers; colocation; web hosting; internet access; VPN,"Aptus's site advertises VPS, web hosting and internet access; colocation, dedicated servers and VPN are not in any readable source",2026-09-21
+TZA-013,facility_type,Colocation/carrier-neutral,no source says Aptus sells colocation or is carrier-neutral,2026-09-21
+TZA-013,parent_hq_country,TZA,no source gives Axian Telecom Fibre Limited's country of registration,2026-09-21
+TZA-013,dfi_involvement,"None identified for the facility. Group level: EIB Global $100M debt to AXIAN Telecom (2025) for 4G/5G mobile broadband, $60M of it in Tanzania [EIB](https://www.eib.org/en/press/all/2025-183-axian-telecom-receives-ususd-100-million-investment-from-eib-global-for-mobile-broadband-network-expansion-in-madagascar-and-tanzania); IFC, BII and EAAIF (PIDG) debt to the Axian Telecom group also reported","IFC, BII and EAAIF debt to the Axian group is plausible but no source here states it",2026-09-21
+TZA-013,submarine_cable_access,Connected via metro fibre,no source describes the facility's route to a landing station,2026-09-21
+TZA-014,facility_name,Flashnet Tanzania Data Centre,"Flashnet advertises data-centre hosting but no readable source shows its own facility; the row's DataCenterMap page is unreadable, though DataCenterMap's NIDC page (cited on TZA-009) lists Flashnet Tanzania at PPF Tower",2026-09-21
+TZA-014,facility_type,Colocation/carrier-neutral,Flashnet sells managed hosting and cloud; no source says it sells colocation or is carrier-neutral,2026-09-21
+TZA-014,ownership_type,Private domestic,plausibly a Tanzanian private company; no source names its owners,2026-09-21
+TZA-014,government_ownership_pct,None; regulated by FCC Tanzania as licensed ISP ([FCC notice](https://www.fcc.go.tz/en/public-notices/iv0exol7dzachyad8n0nczos)),the FCC notice cited for it is unreadable,2026-09-21
+TZA-014,submarine_cable_access,Connected via metro fibre,no source describes the facility's route to a landing station,2026-09-21
+TZA-015,ownership_type,Private domestic,a '(T) Ltd' company is Tanzanian-registered; no source names its owners,2026-09-21
+TZA-015,gps_coordinates,"-6.862934, 39.206499","comments say PeeringDB, but PeeringDB's geocode is blank; only the Nyerere Rd address is given",2026-09-21
+TZA-016,city,Dodoma,"eGA's headquarters is in Dodoma, but no readable source places the Government Data Centre there",2026-09-21
+TZA-016,submarine_cable_access,Landlocked/no submarine cable access,"plausible for an inland site, but no source describes its connectivity",2026-09-21
