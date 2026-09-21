@@ -3,18 +3,18 @@ title: West Africa — progress report, September 2025 – September 2026
 compiled: 2026-09-21
 period: 2025-09-01 to 2026-09-21
 place: XWA
-ledger_rows: 93
+ledger_rows: 94
 not_held: 1
-record: 39a645635f3a
+record: d47780f59057
 ---
 
 # West Africa: progress report, September 2025 – September 2026
 
 *Compiled 2026-09-21 by Claude Opus from the documents in the Corpus repository. Sections run from the region's institutions outwards to what funds them. Each row sets the position at the start of the period against the position at the end, and the Progress column says how it moved. The period runs to the date of issue rather than to the last month's close.*
 
-*Of 93 bodies, instruments and systems on this place's ledger, 64 changed position between 2025-09-01 and 2026-09-21, 17 did not, 11 carry no stated baseline, and 1 is ***Not held*** at both ends.*
+*Of 94 bodies, instruments and systems on this place's ledger, 65 changed position between 2025-09-01 and 2026-09-21, 17 did not, 11 carry no stated baseline, and 1 is ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 188 sources for this place in the window — 38 in the earlier half (2025-09 to 2026-02), 150 in the later (2026-03 to 2026-09). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 189 sources for this place in the window — 38 in the earlier half (2025-09 to 2026-02), 151 in the later (2026-03 to 2026-09). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Closed* — the programme ended. *No change* — the repository holds a standing position and nothing in the period touched it. ***Baseline not held*** — there is evidence of movement but no baseline to compare it against. A value may carry a qualifying clause after a comma, as in *Movement, slipped*.
 
@@ -120,6 +120,7 @@ The BCEAO's connection obligation slipped. Interoperability [was to be mandatory
 
 | Body, instrument or system | At 2025-09-01 | At 2026-09-21 | Progress |
 |---|---|---|---|
+| ACE submarine cable capacity upgrade | Did not exist | [The consortium selected new optics to lift the 17,000 km cable above 30 Tb/s across its 18 landing stations serving more than 20 countries, reusing the existing submarine line terminal equipment rather than laying a new route; no completion or ready-for-service date is stated](https://subtelforum.com/ace-cable-selects-ciena-for-30-tb-s-upgrade/) | Movement |
 | Community roaming regulation implementation | Compliance with the 2017 roaming regulation reviewed by national regulators, with tariff compliance uneven (2025-08) | [Liberia, Ghana and Sierra Leone formally entered the free roaming agreement in February 2026, removing roaming charges among the three, with the regulator stressing that full implementation still had to follow (2026-02)](https://lta.gov.lr/liberia-ghana-sierra-leone-move-toward-borderless-mobile-communication/) | Movement |
 | CSquared West Africa backbone | Carrying regional traffic on its own subsea and terrestrial routes | [Capacity on the 2Africa West system added for route diversity, after three multi-country outages in 28 months at the Accra, Lagos and Abidjan landing concentration](https://www.mobileeurope.co.uk/csquared-boosts-internet-resilence-integrating-with-2africa-west/) | Movement |
 | ECOWAS second submarine cable (Cabo Verde, Liberia, Sierra Leone, Guinea-Bissau) | Did not exist | [Member-state experts with technical and financial partners reviewed and approved the feasibility study for a second submarine cable serving four member states, at a workshop organised by the community's project preparation and development unit; the stated aims are better integration of Cabo Verde with the region, more international capacity and route redundancy, and no route, cost, landing site or construction date is published](https://www.ecowas.int/liberia-hosts-workshop-to-validate-ecowass-second-submarine-cable/) | Movement |
