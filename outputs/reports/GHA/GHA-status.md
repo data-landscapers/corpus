@@ -1,6 +1,6 @@
 ---
 title: Ghana: status report
-compiled: 2026-09-15
+compiled: 2026-09-21
 place: GHA
 region: XWA
 built_by: STATUS-INIT
