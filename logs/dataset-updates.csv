@@ -1,4 +1,5 @@
 dataset,date,record,action,details,sources
+data-centres,2026-09-21,ALL,modify,raw_slugs filled for 194 facilities: 138 of their source URLs are in the catalogue. Linkage only; no fact changed.,
 data-centres,2026-09-21,EGY-001,add,"Telecom Egypt Regional Data Hub (RDH) (Egypt) restored from the first version of the dataset, which v2 had dropped with the rest of North Africa. Control is provisional until assessed.",https://data-landscapers.io/assets/data/data-centres.csv
 data-centres,2026-09-21,EGY-024,add,"Telecom Egypt Legacy Data Centres (Cairo/Alexandria - 6 facilities) (Egypt) restored from the first version of the dataset, which v2 had dropped with the rest of North Africa. Control is provisional until assessed.",https://data-landscapers.io/assets/data/data-centres.csv
 data-centres,2026-09-21,LBY-001,add,"LTT Internet Data Center (Libya) restored from the first version of the dataset, which v2 had dropped with the rest of North Africa. Control is provisional until assessed.",https://data-landscapers.io/assets/data/data-centres.csv

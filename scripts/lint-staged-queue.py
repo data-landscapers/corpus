@@ -178,8 +178,11 @@ def squash(text: str) -> str:
 def same_url(a: str, b: str) -> bool:
     """Two addresses for one document. Scheme, a leading `www.`, a trailing slash
     and percent-encoding are all things the capture and the frontmatter may
-    disagree about without disagreeing about the document."""
+    disagree about without disagreeing about the document. So is a Wayback
+    capture of the same address (`web.archive.org/web/<timestamp>/<url>`), which
+    is where a staged body comes from when the live page has gone."""
     def norm(u: str) -> str:
+        u = re.sub(r"^https?://web\.archive\.org/web/\d+[a-z_]*/", "", u.strip(), flags=re.I)
         u = unicodedata.normalize("NFC", urllib.parse.unquote(u.strip()))
         u = re.sub(r"^[a-z]+://", "", u, flags=re.I)
         u = re.sub(r"^www\d?\.", "", u, flags=re.I)
