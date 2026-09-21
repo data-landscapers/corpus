@@ -229,6 +229,8 @@ def apply(name, where, dry):
             have.setdefault("to_source", {}).update(d.get("to_source", {}))
             for fld, text in d.get("append", {}).items():
                 have.setdefault("append", {})[fld] = (have.get("append", {}).get(fld, "") + " " + text).strip()
+            if str(d.get("summary", "")).strip():  # two parts may each summarise their change to one row
+                have["summary"] = (have.get("summary", "") + " " + d["summary"].strip()).strip()
     if clashes:
         sys.exit("parts disagree:\n" + "\n".join(clashes))
     cand = candidates(name)
