@@ -1,7 +1,7 @@
 ---
 type: design-note
 title: catalogue-alerts.md — one weekly email per reader, built by a Cloudflare Worker and sent by Buttondown
-last_reviewed: 2026-09-20
+last_reviewed: 2026-09-21
 status: built and deployed 2026-09-16; E3 outstanding — Monday 2026-09-21, check `cron_status` first, then release the draft by hand
 ---
 
@@ -23,7 +23,7 @@ A reader picks up to five countries and five topics and gets one email a week li
 
 `scripts/alerts.py` runs in RENDER Step 5, straight after `catalogue.py`, and writes four files into `site/alerts/`:
 
-- **`recent.json`** — the records ingested in the last **28 days** that pass the **backfill rule**: a record is in only if the end of its publication period is no more than **90 days** before its `ingested` date. Each row carries `id`, `title`, `publisher`, `published`, `ingested`, `places`, `topics`, `url`; `id` is the first 16 hex characters of the SHA-256 of `url`, or of `title|publisher|published` when there is no URL.
+- **`recent.json`** — the records ingested in the last **28 days** that pass the **backfill rule**: a record is in only if the end of its publication period is no more than **90 days** before its `ingested` date. Each row carries `id`, `title`, `publisher`, `published`, `ingested`, `places`, `topics`, `url` and `hero` (the record's `catalogue_hero`, or empty); `id` is the first 16 hex characters of the SHA-256 of `url`, or of `title|publisher|published` when there is no URL.
 - **`vocab.json`** — `{places, topics}` labels, taken from `catalogue.py` → `vocab()` so they match the catalogue's own menus.
 - **`index.html`** — the sign-up page: two capped multi-selects, an email field, a Turnstile widget, the main-site checkbox, and a feed box giving the Atom URL for the current selection. It reads the catalogue's own fragment (`#places=KEN,NGA&topics=tech.ai`, `#site=1`) and preselects from it.
 - **`manage/index.html`** — the manage page. It reads `#s=<subscriber id>` from the fragment and **sends it in a POST body**, so the id reaches no server log and no `Referer`.
@@ -54,7 +54,7 @@ The Worker `corpus-alerts` (`workers/alerts/worker.js`) serves four routes and a
 - **The subscribe body must never carry a `type` field.** `type: "regular"` is exactly how Buttondown documents bypassing double opt-in for a single subscriber; sent from here it would confirm an address nobody confirmed. It is also the plausible wrong fix — a test address sitting at `unactivated` looks like a bug — so `scripts/test_alerts_worker.py` tests for the field's absence.
 - **`archival_mode: "disabled"` on every send.** One body holds every reader's sections, and a web render has no subscriber to test against, so the archive would publish all of them at a permanent URL.
 - **The Worker never logs, stores or echoes an email address.** `manage/list` and the cron tally both receive addresses from Buttondown and discard them in the same expression that reads the tags. No `console.log` of a request or response body.
-- **`recent.json` publishes nothing the catalogue download does not.** Its columns are a subset of `build-catalogue.py` → `CSV_COLS` plus the hash, and `scripts/test_alerts.py` asserts it rather than trusting the loop.
+- **`recent.json` publishes nothing the catalogue page does not show.** Its columns are a subset of `build-catalogue.py` → `CSV_COLS`, plus `hero` — not in the download, but drawn under every row of the public catalogue (`catalogue.py`, the chunk field `hero`) — plus the hash. `scripts/test_alerts.py` asserts that allowlist rather than trusting the loop; widening it to anything the page does not show breaks the rule.
 - **Every Buttondown `CNAME` goes in as DNS only — grey cloud.** All three site hostnames are proxied, so the habit and the dashboard default are both wrong here, and a proxied row answers with Cloudflare's addresses instead of Postmark's. The check is from outside: a resolver returning `pm.mtasv.net` is looking at an unproxied row.
 - **Do not add Buttondown to the root's SPF row.** The return path is `pm-bounces.newsletter.data-landscapers.io` pointed at Postmark, so SPF is evaluated against Postmark's record and the root's hard-fail never enters into it.
 - **New decisions go above the marker line in `worker.js`**, or they leave the test suite: everything above it is pure and is what `test_alerts_worker.py` loads.
@@ -96,5 +96,7 @@ Set up once on 2026-09-16; `archived/catalogue-alerts-build.md` Part 1 A is the 
 ## What is still open
 
 **E3 — Monday 2026-09-21.** Cloudflare's schedule has never been seen to fire: a five-minute test schedule left no trace, so the cron is unproven until a `cron_status` key appears dated that morning. If it is missing, run `POST /api/alerts/run` with the token in `logs/.alerts-run-token` — which builds the same draft — and then find out why the schedule did not fire. Release the first two Mondays as drafts by hand, and after the first, confirm the issue is **not** listed at `https://buttondown.com/data-landscapers/archive/`: that is the outcome check for `archival_mode`, which the draft screen does not expose.
+
+**The hero line — built 2026-09-21, specified by Cowork the same day.** Each digest item shows the record's hero on its own line between the linked title and the publisher line, escaped as the title is, and omitted when empty; the Atom `<summary>` is `<hero> — <publisher> · published <date>`. It matters most where the title is not in English. On that day 4,791 of the 4,803 rows in `recent.json` carried one. **Live once `worker.js` is pasted into the Worker again**; the Worker treats a `recent.json` without `hero` as having none, so the order of render and deploy does not matter. Check the first draft with heroes for size before releasing it — about 120 characters an item, and the 25-item cap is still the lever.
 
 **Not in this version**: report editions as alert items; a monthly pass pruning `def:` entries whose tag has no active subscriber and clearing stale `orphan:` keys; a monthly cadence if readers ask for one.

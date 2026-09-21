@@ -314,6 +314,7 @@ function planDigest(o) {
       items: hits.slice(0, cap).map((r) => ({
         title: r.title,
         url: r.url || catalogueSearchUrl(r.title, o.siteBase),
+        hero: r.hero || "",
         line: [r.publisher, r.published ? `published ${r.published}` : ""]
           .filter(Boolean).join(" · "),
       })),
@@ -349,6 +350,9 @@ function renderDigest(sections, o) {
     if (s.tag !== SITE_TAG) { out.push(`### ${mdText(s.heading)}`, ""); }
     const blocks = s.items.map((it) => {
       const lines = [`**[${mdText(it.title)}](${mdUrl(it.url)})**`];
+      // The hero line, as the catalogue draws it under every row — the one line a reader
+      // gets in English when the title is not.
+      if (it.hero) { lines.push(mdText(it.hero)); }
       if (it.line) { lines.push(mdText(it.line)); }
       return lines.join("\n");
     });
@@ -508,8 +512,9 @@ function atomFeed(rows, o) {
   ];
   for (const r of rows) {
     const link = r.url || catalogueSearchUrl(r.title, o.siteBase);
-    const summary = [r.publisher, r.published ? `published ${r.published}` : ""]
+    const meta = [r.publisher, r.published ? `published ${r.published}` : ""]
       .filter(Boolean).join(" · ");
+    const summary = r.hero ? `${r.hero} — ${meta}` : meta;
     out.push(
       "  <entry>",
       `    <id>${TAG_BASE}${xmlEscape(r.id)}</id>`,

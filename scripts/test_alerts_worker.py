@@ -133,11 +133,13 @@ print(f"engine: {name}\n")
 
 # One week of catalogue, written here rather than read from the built site: the site's
 # own `recent.json` moves every day, and a golden body has to be pinned to something
-# that does not. a2 carries a `{%` and a `[` in its title on purpose — see mdText.
+# that does not. a2 carries a `{%` and a `[` in its title on purpose — see mdText; a1's
+# hero carries the same for the hero line, and a2 has no hero at all.
 RECORDS = """[
   {"id":"a1","title":"Kenya opens a data centre","publisher":"Nation",
    "published":"2026-09-15","ingested":"2026-09-15","places":["KEN"],
-   "topics":["tech.ai"],"url":"https://example.org/1"},
+   "topics":["tech.ai"],"url":"https://example.org/1",
+   "hero":"A second site for [cloud] {{ providers }}"},
   {"id":"a2","title":"Nigeria's {% raw %} [AI] strategy","publisher":"Punch",
    "published":"2026-09-14","ingested":"2026-09-14","places":["NGA"],
    "topics":["tech.ai"],"url":""},
@@ -305,6 +307,7 @@ A note on method.
 ### Kenya, Nigeria · Artificial intelligence
 
 **[Kenya opens a data centre](https://example.org/1)**
+A second site for \\[cloud\\] &#123;&#123; providers &#125;&#125;
 Nation · published 2026-09-15
 
 **[Nigeria's &#123;% raw %&#125; \\[AI\\] strategy](https://corpus.data-landscapers.io/catalogue/#q=Nigeria's%20%7B%25%20raw%20%25%7D%20%5BAI%5D%20strategy)**
@@ -499,8 +502,11 @@ check("a record with no URL links to the catalogue",
           "https://corpus.data-landscapers.io/catalogue/#q="), True)
 check("dates are the ingested day at midnight UTC",
       entries[0].findtext(f"{ATOM}updated"), "2026-09-15T00:00:00Z")
-check("the summary is the publisher and the publication date",
-      entries[0].findtext(f"{ATOM}summary"), "Nation · published 2026-09-15")
+check("the summary leads with the hero",
+      entries[0].findtext(f"{ATOM}summary"),
+      "A second site for [cloud] {{ providers }} — Nation · published 2026-09-15")
+check("with no hero it is the publisher and the publication date",
+      entries[1].findtext(f"{ATOM}summary"), "Punch · published 2026-09-14")
 
 
 print()

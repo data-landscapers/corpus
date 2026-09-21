@@ -17,8 +17,9 @@ subscriber to a feed would see the same documents again as new.
 
 **The published columns.** `recent.json` is a file on the public site, and the check is
 that its rows carry nothing outside `build-catalogue.py`'s `CSV_COLS` — the columns the
-catalogue download already publishes — plus the row's own id. A field added to the
-catalogue's internals must not reach it by being in the record the loop reads.
+catalogue download already publishes — plus the hero line the catalogue page draws on
+every row, and the row's own id. A field added to the catalogue's internals must not
+reach it by being in the record the loop reads.
 
 The site build is not needed: this works over records built in the test.
 """
@@ -56,7 +57,7 @@ def rec(**kw) -> dict:
             "places": ["KEN"], "topics": ["tech.ai"], "entities": [],
             "ingested": "2026-09-10", "url": "https://example.org/a",
             # Fields the catalogue holds and the download does not. None may appear
-            # in recent.json; the last test is what says so.
+            # in recent.json except the hero, as `hero`; the tests below say so.
             "slug": "2026-09-01-ken-a", "path": "raw/2026/x.md", "words": 400,
             "finance": False, "artefact": [], "url_note": "",
             "body_completeness": "full", "catalogue_hero": "A hero line"}
@@ -136,11 +137,16 @@ check("the 28th day is inside the window",
       ["https://example.org/edge", "https://example.org/in"])
 check("newest ingested first", [r["ingested"] for r in rows], ["2026-09-10", "2026-08-14"])
 
-allowed = set(catalogue.csv_cols()) | {"id"}
+allowed = set(catalogue.csv_cols()) | {"id", "hero"}
 keys = {k for r in rows for k in r}
-check("no key outside CSV_COLS plus id", sorted(keys - allowed), [])
+check("no key outside CSV_COLS plus hero and id", sorted(keys - allowed), [])
 check("every column the Worker needs is there",
-      sorted(keys), sorted(["id"] + A.ROW_COLS))
+      sorted(keys), sorted(["id", "hero"] + A.ROW_COLS))
+check("the hero is the record's catalogue_hero", rows[0]["hero"], "A hero line")
+check("no hero is an empty string",
+      A.recent([rec(catalogue_hero=None)], today=date(2026, 9, 11))[0]["hero"], "")
+check("the hero is not published under its internal name",
+      "catalogue_hero" in keys, False)
 check("lists stay lists", (rows[0]["places"], rows[0]["topics"]), (["KEN"], ["tech.ai"]))
 
 # The one that would pass silently if `ROW_COLS` grew a column the download does not

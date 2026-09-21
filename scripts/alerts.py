@@ -36,10 +36,10 @@ year, and a record dated `2026` is as recent as 31 December 2026 for this purpos
 most 21 days, so that a missed Monday catches up rather than dropping items — and it
 can only catch up over records this file still carries. 28 gives it a week of slack.
 
-**Nothing published is more than the catalogue download publishes.** The rows carry a
-subset of `build-catalogue.py`'s `CSV_COLS` plus a hash of the URL, and
-`scripts/test_alerts.py` asserts it: a column added to the catalogue's internals does
-not reach this file by accident.
+**Nothing published is more than the catalogue page shows.** The rows carry a subset
+of `build-catalogue.py`'s `CSV_COLS`, the hero line every catalogue row draws under its
+title, and a hash of the URL; `scripts/test_alerts.py` asserts it: a column added to the
+catalogue's internals does not reach this file by accident.
 
 ## The Turnstile site key
 
@@ -82,8 +82,10 @@ MAX_ALERTS = 10
 # secret that pairs with it is the Worker's `TURNSTILE_SECRET` binding and is never here.
 TURNSTILE_SITE_KEY = "0x4AAAAAAE4PyA_1ozsqH54J"
 
-# The columns of a `recent.json` row, all of them `CSV_COLS`, plus the row's own id.
+# The columns of a `recent.json` row, all of them `CSV_COLS`, plus the row's own id —
+# and `hero`, which the download lacks but the catalogue page draws on every row.
 ROW_COLS = ["title", "publisher", "published", "ingested", "places", "topics", "url"]
+HERO_COL = "hero"                           # read from the record's `catalogue_hero`
 
 BLOCKS = ["title", "lede", "how", "what", "site", "several", "manage", "manage-title",
           "manage-lede", "manage-how", "manage-link", "manage-confirmed", "already",
@@ -170,6 +172,7 @@ def recent(items: list[dict], today: date) -> list[dict]:
         for col in ROW_COLS:
             v = rec.get(col)
             row[col] = list(v) if isinstance(v, list) else (v or "")
+        row[HERO_COL] = rec.get("catalogue_hero") or ""
         rows.append(row)
     rows.sort(key=lambda r: (r["ingested"], r["published"], r["title"]), reverse=True)
     return rows

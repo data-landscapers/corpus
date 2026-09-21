@@ -1,3 +1,7 @@
+## 21 September 2026
+
+- Each document in an email alert and an alert feed now carries the one-line summary the catalogue shows under its title. A document with a title in Arabic, French or Portuguese now says in English what it is about.
+
 ## 20 September 2026
 
 - The first link in Angola’s national broadband backbone is now dated 16 September rather than 18 September; one outlet had republished the operators’ own announcement two days later and swapped its own date for the word the announcement used for that day. The two different capacity figures reported for the link are now shown separately, each attributed to whoever gave it, rather than presented as one number.
