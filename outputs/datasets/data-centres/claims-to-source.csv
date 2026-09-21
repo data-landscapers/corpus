@@ -76,3 +76,84 @@ LBR-002,foreign_ownership_pct,100%,"Telecel Group acquired Telecel Liberia, but 
 LBR-002,submarine_cable_access,Connected via metro fibre,no source describes the facility's route to the landing station,2026-09-21
 LBR-002,carrier_neutrality,Limited carriers,no source describes carrier access,2026-09-21
 LBR-002,city,Monrovia,the 3rd Street Sinkor address is in comments but no readable source gives it,2026-09-21
+SWZ-001,year_operational,,the brochure dates from 2023 but gives no opening year,2026-09-21
+SWZ-001,security_certifications,Unknown,Tier III is self-declared in RSTP's brochure; no certification body is named,2026-09-21
+SWZ-002,operational_status,Operational,"Data Center Platform, the only source for the site, is behind a login",2026-09-21
+SWZ-002,city,Matsapha,no readable source places an MTN data centre here,2026-09-21
+SWZ-002,facility_type,Enterprise,enterprise captive is plausible for an operator site; no source states it,2026-09-21
+SWZ-002,services_offered,Enterprise captive; mobile network core; internal IT hosting,no source describes the services,2026-09-21
+SWZ-002,carrier_neutrality,Single carrier / captive,"an operator's own site, so captive is likely; no source states it",2026-09-21
+SWZ-002,key_tenants,MTN Eswatini internal,no source names a tenant; MTN Eswatini's own use is assumed,2026-09-21
+SWZ-002,ultimate_parent_company,Not identified (Swazi MTN Limited is a joint venture; MTN Group Limited holds 30%),MTN Group's accounts give its 30% of Swazi MTN; the holders of the other 70% need a register or filing,2026-09-21
+SWZ-003,operational_status,Operational,"Data Center Platform, the only source for the site, is behind a login",2026-09-21
+SWZ-003,city,Lobamba,no readable source places an MTN data centre here,2026-09-21
+SWZ-003,facility_type,Enterprise,enterprise captive is plausible for an operator site; no source states it,2026-09-21
+SWZ-003,services_offered,Enterprise captive; mobile network core,no source describes the services,2026-09-21
+SWZ-003,carrier_neutrality,Single carrier / captive,"an operator's own site, so captive is likely; no source states it",2026-09-21
+SWZ-003,key_tenants,MTN Eswatini internal,no source names a tenant; MTN Eswatini's own use is assumed,2026-09-21
+SWZ-003,ultimate_parent_company,Not identified (Swazi MTN Limited is a joint venture; MTN Group Limited holds 30%),MTN Group's accounts give its 30% of Swazi MTN; the holders of the other 70% need a register or filing,2026-09-21
+BFA-001,ultimate_parent_company,Founder/CEO Abdouramane (Abdou) Dia (Burkinabé),Abdouramane Dia as founder and owner rests on an unreadable LinkedIn profile; no register or filing is cited,2026-09-21
+BFA-001,controlling_entities,Founder/CEO Abdouramane (Abdou) Dia (Burkinabé),founder control is plausible for a 2016 start-up; no readable source names a shareholder,2026-09-21
+BFA-001,major_shareholders,Abdouramane Dia (CEO & Founder); other shareholders not publicly identified,no readable source names a shareholder,2026-09-21
+BFA-001,security_certifications,Unknown,Virtix calls itself Tier III; no certification body or register is cited,2026-09-21
+BFA-002,operational_status,Operational,the Internet Society's 2025 piece describes the data centre in the past; no source gives its current status,2026-09-21
+BFA-002,services_offered,Government cloud hosting; public administration applications; intranet,no source describes the services beyond the government intranet,2026-09-21
+BFA-002,carrier_neutrality,Limited carriers,a government facility with limited carriers is plausible; no source states it,2026-09-21
+BFA-002,gps_coordinates,"12.3625, -1.5338",no source gives the site's address,2026-09-21
+BFA-003,operator_name,"Ministry of Digital Transition, Posts and Electronic Communications",the sources say national technical teams run the two sites; none names the ministry as operator,2026-09-21
+BFA-003,carrier_neutrality,Single carrier / captive,a government-only facility is likely captive; no source states it,2026-09-21
+BFA-003,gps_coordinates,"12.3714, -1.5197","leFaso says the sites are under 100 km apart; no source gives either address, and both rows carry the same point",2026-09-21
+BFA-004,operator_name,"Ministry of Digital Transition, Posts and Electronic Communications",the sources say national technical teams run the two sites; none names the ministry as operator,2026-09-21
+BFA-004,carrier_neutrality,Single carrier / captive,a government-only facility is likely captive; no source states it,2026-09-21
+BFA-004,gps_coordinates,"12.3714, -1.5197","leFaso says the sites are under 100 km apart; no source gives either address, and both rows carry the same point",2026-09-21
+SLE-001,carrier_neutrality,Single carrier / captive,"an operator's own primary data centre, so captive is likely; no source states it",2026-09-21
+SLE-001,submarine_cable_access,Connected via metro fibre,no readable source describes the facility's route to the ACE landing,2026-09-21
+SLE-001,gps_coordinates,"8.4840, -13.2344","no source gives the site, and comments say the address is undisclosed",2026-09-21
+SLE-001,control_mechanisms,"Orange Sierra Leone is part of Sonatel Group, whose Director General chairs its board; Orange SA holds ~42% of Sonatel. At Orange SA the public sector holds 3 of 15 board seats (7 independent, 3 employee, 1 employee-shareholder seat vacant); double voting rights for shares held >2 years in registered form; no golden share ([Orange Board](https://www.orange.com/en/our-group/our-governance/our-board-of-directors))",double voting rights and the absence of a golden share are in no readable source,2026-09-21
+SLE-002,carrier_neutrality,Single carrier / captive,"an operator's own disaster recovery site, so captive is likely; no source states it",2026-09-21
+SLE-002,submarine_cable_access,Connected via metro fibre,no readable source describes the facility's route to the landing station,2026-09-21
+SLE-002,gps_coordinates,"7.9647, -11.7383",the coordinates are Bo city centre; no source gives the site,2026-09-21
+SLE-002,control_mechanisms,"Orange Sierra Leone is part of Sonatel Group, whose Director General chairs its board; Orange SA holds ~42% of Sonatel. At Orange SA the public sector holds 3 of 15 board seats (7 independent, 3 employee, 1 employee-shareholder seat vacant); double voting rights for shares held >2 years in registered form; no golden share ([Orange Board](https://www.orange.com/en/our-group/our-governance/our-board-of-directors))",double voting rights and the absence of a golden share are in no readable source,2026-09-21
+SLE-003,ultimate_parent_company,"Africell Global Holdings Ltd (Jersey-incorporated, US-owned)","Fitch's entity page, the only source naming Africell Global Holdings Ltd, is unreadable",2026-09-21
+SLE-003,ultimate_parent_hq_country,JEY,no readable source states Jersey incorporation; the Companies House PSC address is in St Helier,2026-09-21
+SLE-003,parent_hq_country,GBR,"Africell is headquartered in London, but no source gives Africell Holding Limited's registration",2026-09-21
+SLE-003,foreign_ownership_pct,100% (US-owned),"sources say Africell is US-owned, but none says Africell Sierra Leone is wholly held",2026-09-21
+SLE-003,submarine_cable_access,Connected via metro fibre,DCD places the site on the seafront and says it may host a second cable; no source describes its current route,2026-09-21
+SLE-003,gps_coordinates,"8.4697, -13.2834",no source gives the site; the Lumley Beach Road location in comments is unsourced,2026-09-21
+SOM-001,city,Mogadishu,DCD says the CLS location was not disclosed; Mogadishu is plausible as Hormuud's base and a DARE1 landing,2026-09-21
+SOM-001,gps_coordinates,"2.0335, 45.3418",no source gives the site; DCD says the location was not shared,2026-09-21
+SOM-001,services_offered,Cable landing; Submarine cable hosting; Enterprise internet; Mobile core; Open-access CLS colocation,"enterprise internet and mobile core are Hormuud services, but no source places them at this facility",2026-09-21
+SOM-002,carrier_neutrality,Fully carrier-neutral,no source describes connectivity; full carrier neutrality is not stated,2026-09-21
+SOM-002,submarine_cable_access,Connected via metro fibre,no source describes the route to the Mogadishu landing station,2026-09-21
+SOM-002,gps_coordinates,"2.0500, 45.3430",no source gives the site,2026-09-21
+SOM-003,facility_name,Somtel Network Data Facility Hargeisa,no readable source shows this facility exists; T8/T9 to confirm or retire the row,2026-09-21
+SOM-003,services_offered,Mobile core; Enterprise internet; ISP hosting; Data services,no source describes services at a Hargeisa facility,2026-09-21
+SOM-003,carrier_neutrality,Limited carriers,no source describes carrier access at the facility,2026-09-21
+SOM-003,gps_coordinates,"9.5600, 44.0650",Hargeisa city coordinates; no source gives a site,2026-09-21
+SOM-003,parent_hq_country,ARE,"Forbes gives Dahabshiil's headquarters, not its country of registration",2026-09-21
+NAM-001,facility_name,Paratus Namibia Armada Data Centre,the sources also describe Paratus's Swakopmund data centre and Equiano cable landing station; T8 to decide whether it needs its own row,2026-09-21
+NAM-001,ultimate_parent_company,"Paratus Group Holdings LTD (private, no further public ownership details)",no readable source gives Paratus Group Holdings' stake in PNH or its own ownership,2026-09-21
+NAM-001,ultimate_parent_hq_country,NAM,no readable source gives where Paratus Group Holdings is registered,2026-09-21
+NAM-001,controlling_entities,"Paratus Group Holdings LTD (53.8% of PNH), Paratus execs on board (CEO, Chairman)","the 53.8% stake in PNH is not on the cited register, which lists insiders only",2026-09-21
+NAM-001,government_ownership_pct,~18% via GIPF (PNH),the GIPF stake of ~18% is not on the cited register,2026-09-21
+NAM-001,services_offered,Colocation; Cloud; Connectivity; Managed services; Remote hands; CDN hosting,"managed services, remote hands and CDN hosting are not in any readable source",2026-09-21
+NAM-001,gps_coordinates,"-22.6400, 17.0710","The Namibian places the site at Brakwater, north of Windhoek; these coordinates fall south of the centre",2026-09-21
+NAM-002,facility_name,Telecom Namibia Windhoek Datacenter,"the Ecofin, Broadcast Media Africa and Namibian sources describe the planned national data centre (NAM-003), not this facility",2026-09-21
+NAM-002,year_operational,2005,no readable source gives an opening year,2026-09-21
+NAM-002,government_ownership_pct,100%,the Xalam brief calls Telecom Namibia government-owned but gives no percentage,2026-09-21
+NAM-002,carrier_neutrality,Single carrier / captive,"a telco's own exchange building, so captive is likely; no source states it",2026-09-21
+NAM-003,facility_name,Namibia National Data Centre (Planned),The Namibian also describes an existing small data centre at the Office of the Prime Minister; T8 to decide whether it needs its own row,2026-09-21
+NAM-003,city,Windhoek,no source names a site; Windhoek is likely but unannounced,2026-09-21
+NAM-003,government_ownership_pct,100%,no source gives the financing or ownership model beyond a government-led project,2026-09-21
+SDN-001,facility_name,Sudatel Data Centre Khartoum,Wikipedia also names a Sudatel Tier III data centre in Port Sudan; T8 to decide whether it needs its own row,2026-09-21
+SDN-001,operational_status,Operational,"Wikipedia (2026) describes the data centre in the present tense, but no source confirms it is running since the 2023 fighting in Khartoum",2026-09-21
+SDN-001,year_operational,2012,no readable source gives an opening year,2026-09-21
+SDN-001,total_floor_space_sqm,14000,"no readable source gives the 14,000 m²",2026-09-21
+SDN-001,services_offered,Colocation; Private cabinets; Remote hands; IP transit; Managed services; Co-location racks,"colocation, cabinets, remote hands and IP transit are not in any readable source; Wikipedia lists hosting, SaaS and PaaS",2026-09-21
+SDN-001,submarine_cable_access,Connected via metro fibre,"Sudatel is an EASSy member with its own terrestrial fibre, but no source describes this facility's route to Port Sudan",2026-09-21
+SDN-002,submarine_cable_access,Connected via metro fibre,no source describes the facility's route to Port Sudan,2026-09-21
+SDN-002,carrier_neutrality,Limited carriers,"a government network facility, so limited carriers is plausible; no source states it",2026-09-21
+SDN-002,gps_coordinates,"15.5900, 32.5340",Global Voices places the NIC data centre in a telecom tower in eastern Khartoum; these coordinates are not confirmed,2026-09-21
+SDN-003,submarine_cable_access,Connected via metro fibre,no source describes the facility's route to Port Sudan,2026-09-21
+SDN-003,carrier_neutrality,Limited carriers,"an operator's own core facility, so captive is likelier than limited carriers; no source states either",2026-09-21
+SDN-003,gps_coordinates,"15.6000, 32.5400",no source locates the facility; the coordinates are a rounded Khartoum point,2026-09-21
