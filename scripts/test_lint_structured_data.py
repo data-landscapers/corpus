@@ -164,13 +164,14 @@ check("keywords that do not name the corpus subjects is a finding",
       dset.caught(dset.in_block('"Data governance",\n    "South Africa"',
                                 '"Something else",\n    "South Africa"')))
 check("spatialCoverage with no place is a finding",
-      dset.caught(dset.in_block('"spatialCoverage": {\n    "@type": "Country",\n'
-                                '    "name": "South Africa"\n  }',
-                                '"spatialCoverage": {\n    "@type": "Country",\n'
-                                '    "name": ""\n  }')))
+      dset.caught(dset.with_data(spatialCoverage={"@type": "Place", "name": ""})))
+check("spatialCoverage typed Country is a finding — Google reports it as an invalid type",
+      dset.caught(dset.with_data(spatialCoverage={"@type": "Country", "name": "South Africa"})))
 check("isPartOf naming no whole dataset this site publishes is a finding",
-      dset.caught(dset.in_block('"@id": "https://corpus.data-landscapers.io/catalogue/#dataset"',
-                                '"@id": "https://example.com/other#dataset"')))
+      dset.caught(dset.with_data(isPartOf="https://example.com/other#dataset")))
+check("isPartOf as a nested Dataset is a finding — Google fails it for missing name etc.",
+      dset.caught(dset.with_data(isPartOf={"@type": "Dataset",
+                                           "@id": dset.data["isPartOf"]})))
 
 print()
 print("downloads — the two checks that shipped wrong")
@@ -210,7 +211,7 @@ check("a year-precision span running backwards is a finding",
 check("isPartOf naming the finance table is accepted",
       not fin.caught(fin.html))
 check("isPartOf naming the dataset itself is a finding",
-      fin.caught(fin.with_data(isPartOf={"@type": "Dataset", "@id": fin.data["@id"]})))
+      fin.caught(fin.with_data(isPartOf=fin.data["@id"])))
 check("includedInDataCatalog naming /catalogue/ is a finding — one dataset is not the catalogue",
       fin.caught(fin.with_data(includedInDataCatalog={
           "@type": "DataCatalog", "name": "x",

@@ -231,8 +231,12 @@ def check_dataset(rel: str, d: dict, outside: str) -> list[str]:
                                              and parts[0] > parts[1]):
             fail(f"temporalCoverage runs backwards: {tc}")
 
-    if not (d.get("spatialCoverage") or {}).get("name"):
+    sc = d.get("spatialCoverage") or {}
+    if not sc.get("name"):
         fail("spatialCoverage names no place")
+    if sc.get("@type") != "Place":
+        fail(f"spatialCoverage is a {sc.get('@type')} — Google's Dataset validator accepts "
+             f"only Place and reports a subtype as an invalid object type")
     if not d.get("variableMeasured"):
         fail("variableMeasured describes no columns — is the field dictionary missing?")
     else:
@@ -249,7 +253,13 @@ def check_dataset(rel: str, d: dict, outside: str) -> list[str]:
         fail(f"includedInDataCatalog names {cat}, not the site — `/catalogue/` is one dataset "
              f"in the catalogue of datasets, not the catalogue itself")
 
-    part = (d.get("isPartOf") or {}).get("@id")
+    # A URL string. A nested object is what Search Console failed on 2026-09-21: Google
+    # validates it as a Dataset of its own, and a stub has none of the required fields.
+    part = d.get("isPartOf")
+    if isinstance(part, dict):
+        fail("isPartOf is an object — Google validates it as a Dataset missing name, "
+             "description, creator and license; give the parent's URL instead")
+        part = part.get("@id")
     if part and part not in PARENTS:
         fail(f"isPartOf names {part}, which is no whole dataset this site publishes {PARENTS}")
     if part == d["@id"]:

@@ -238,7 +238,11 @@ def dataset(*, name: str, description: str, url: str, csv_url: str,
         "includedInDataCatalog": CATALOG,
         "inLanguage": "en",
         "keywords": list(SUBJECTS) + list(extra_keywords) + [entity["name"]],
-        "spatialCoverage": entity,
+        # **`Place`, always, even for a country.** Google's Dataset validator accepts `Text` or
+        # `Place` here and reports a `Country` — a subtype, by schema.org's own hierarchy — as an
+        # invalid object type (Search Console, 2026-09-21). `about` on the documents keeps the
+        # finer type, where nothing validates it against a fixed list.
+        "spatialCoverage": {"@type": "Place", "name": entity["name"]},
         "variableMeasured": fields,
         # **`contentSize` only where the file is there to measure.** A dated edition is pruned
         # out of the tree once R2 has it (RENDER Step 6b), so a build that kept the standing
@@ -272,6 +276,10 @@ def dataset(*, name: str, description: str, url: str, csv_url: str,
         data["version"] = version
         data["dateModified"] = as_date(version)
         data["datePublished"] = data["dateModified"]
+    # **A bare URL, not a nested `Dataset`.** Google validates any typed object it meets as a
+    # dataset in its own right, so a stub carrying only an `@id` failed as a Dataset with no name,
+    # description, creator or licence on all 62 cuts (Search Console, 2026-09-21). Google's own
+    # documentation gives `isPartOf` as a URL; the parent is fully described on its own page.
     if part_of:
-        data["isPartOf"] = {"@type": "Dataset", "@id": dataset_id(part_of), "url": part_of}
+        data["isPartOf"] = dataset_id(part_of)
     return block(data)
