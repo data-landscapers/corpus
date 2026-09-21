@@ -34,7 +34,7 @@ One row per facility, whether operational, under construction or planned. For ea
 
 **Control is our reading of the ownership chain, not a legal finding.** The confidence column says how well the sources support it.
 
-The table is maintained, not rebuilt. When new evidence arrives, the affected rows are corrected or added, and each change is listed below with its sources.
+The table is maintained, not rebuilt. When new evidence arrives, the affected rows are corrected or added, and each change is [listed below](#changes) with its sources.
 
 ## data-centres-status
 
