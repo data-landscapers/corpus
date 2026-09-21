@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-21
 place: BFA
 ledger_rows: 47
 not_held: 8
-record: 337b7d21e049
+record: c1d9337b5082
 ---
 
 # Burkina Faso: monthly update, August – September 2026
@@ -56,7 +56,7 @@ The same organic law creating the merged communications and data-protection auth
 ### Domestic budget appropriations and expenditure
 
 <!-- narrative: finance--finance-budget -->
-
+The digital ministry's sectoral board [approved a 2026 work plan of CFA 61bn, about double the CFA 30.4bn of 2025](https://africalibertynews.info/burkina-faso-confirms-in-2026-its-resolve-to-make-digital-technology-a-pillar-of-sovereignty/), for white-zone connectivity, mini data centres and digitised procedures. A work plan is not an appropriation, and the session date is not given.
 <!-- /narrative -->
 ### New investments
 

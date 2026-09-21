@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-21
 place: DJI
 ledger_rows: 21
 not_held: 12
-record: c9a7e7a5f6f8
+record: 3dc2607879a5
 ---
 
 # Djibouti: monthly update, August – September 2026
@@ -37,7 +37,7 @@ On 4 August 2026 the state daily *La Nation* [described the Police Nationale and
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
-
+In September the Digital Cooperation Organization's secretary-general and the digital-economy minister [discussed cooperation on artificial intelligence, digital skills and capacity building](https://www.techreviewafrica.com/news/7340/djibouti-and-dco-discuss-cooperation-on-ai-and-digital-transformation); no memorandum, programme or budget is stated, and the repository holds no accession date for Djibouti's membership.
 <!-- /narrative -->
 
 ## Finance
