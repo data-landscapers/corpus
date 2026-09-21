@@ -1,5 +1,6 @@
 ## 21 September 2026
 
+- Every data centre record has been checked against the sources it cites and its wrong or unsupported values corrected: most claimed hyperscaler links (229 to 35) and Chinese involvement (211 to 25) concerned another facility or the parent group, not the facility itself. Whether US law can reach a facility's data, and how far it depends on foreign owners, are now set by a stated rule from its owner and hyperscaler links rather than judged row by row.
 - Data centres now covers North Africa: 71 facilities in Egypt, Morocco, Algeria, Tunisia and Libya, restored from the first version of the dataset. Who controls each of them is provisional until it has been assessed, and the table says so on every one.
 - The column definitions for every dataset now sit on one Metadata page under Datasets, moved from Methodology's process lookups. Each table's Metadata button goes straight to its own section.
 - A new Datasets section holds the site's downloadable tables, starting with data centres: 306 facilities in 46 countries, each with its operator, its ultimate owner and who controls it. The table is maintained rather than rebuilt, so corrections and new facilities are listed on the page with their sources as they arrive.
