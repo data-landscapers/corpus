@@ -3,6 +3,7 @@
 
     python scripts/dataset-stage.py --match     # catalogue slugs into url-audit.csv (raw_slugs: dataset-scan --relink)
     python scripts/dataset-stage.py --stage     # dated documents not held -> new-queue/, no READY
+    python scripts/dataset-stage.py --stage --round t8   # a later pass: new-queue/dataset-data-centres-{ISO3}-t8/
     python scripts/dataset-stage.py --ready     # after lint-staged-queue passes: READY in each batch
 
 **Matching** uses the screen `status-stage.py` implements for OSINT (`norm`, `raw-url-index.csv`,
@@ -162,7 +163,7 @@ def date_of(url: str) -> tuple[str, str, str, str]:
     return "", "", publisher, title
 
 
-def stage() -> None:
+def stage(round_: str = "") -> None:
     rows = audit()
     recs = {r["facility_id"]: r for r in dl.read(NAME)}
     places = collections.defaultdict(list)
@@ -209,7 +210,10 @@ def stage() -> None:
     staged = 0
     for iso, items in sorted(batches.items()):
         for k in range(0, len(items), CAP):
-            folder = QUEUE / (f"{PREFIX}-{iso}" + (f"-{k // CAP + 1}" if len(items) > CAP else ""))
+            # A later pass stages into its own folder: an earlier round's folder keeps its
+            # delivered- marker after OSINT pulls it, and is never staged over.
+            folder = QUEUE / (f"{PREFIX}-{iso}" + (f"-{round_}" if round_ else "")
+                              + (f"-{k // CAP + 1}" if len(items) > CAP else ""))
             if folder.exists() and any(folder.iterdir()):
                 print(f"{folder} already holds files; not restaging over them")
                 continue
@@ -247,11 +251,12 @@ def main() -> int:
     ap.add_argument("--match", action="store_true")
     ap.add_argument("--stage", action="store_true")
     ap.add_argument("--ready", action="store_true")
+    ap.add_argument("--round", default="", help="--stage: a later pass's folder suffix, e.g. t8")
     a = ap.parse_args()
     if a.match:
         match()
     if a.stage:
-        stage()
+        stage(a.round)
     if a.ready:
         ready()
     if not (a.match or a.stage or a.ready):

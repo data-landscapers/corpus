@@ -199,7 +199,9 @@ def pairs() -> list[tuple[str, str]]:
 def run(recheck: bool) -> None:
     old = {(r["facility_id"], r["url"]): r for r in read_audit()}
     todo_pairs = pairs()
-    done = {r["url"]: r for r in old.values() if r["checked"] and not recheck}
+    # "added" rows came in through a reader's add_sources and were never fetched; "catalogue"
+    # rows are raw records OSINT already holds, so they need no fetch.
+    done = {r["url"]: r for r in old.values() if r["checked"] and r["status"] != "added" and not recheck}
     urls = sorted({u for _, u in todo_pairs} - set(done))
     print(f"{len(urls)} URLs to check ({len(done)} already checked)")
     today = datetime.date.today().isoformat()
