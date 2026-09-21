@@ -1,12 +1,12 @@
 ---
 title: Cote d'Ivoire: status report
-compiled: 2026-09-15
+compiled: 2026-09-21
 place: CIV
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 13
-sources_cited: 201
+sources_cited: 203
 sections_written: 37
 not_established: 0
 acquire_lines: 59
@@ -106,7 +106,7 @@ Where traffic goes is the regulator's current preoccupation. [More than 33,000 k
 ### Data Storage
 <!-- infra.store -->
 
-Commercial hosting capacity arrived ahead of the state's own. [Raxio's CIV1 at Grand-Bassam opened in 2024, Uptime Institute Tier III certified with 400 racks and 3MW of IT power](https://www.raxiogroup.com/data-centres/cote-divoire/); [ST Digital opened a Tier III data centre at Grand-Bassam in October 2025 with OVHcloud](https://www.datacenterdynamics.com/en/news/cameroons-st-digital-opens-data-center-in-c%C3%B4te-divoire/), [billed ahead of its opening as the country's first sovereign Tier III data centre](https://techafricanews.com/2025/08/12/st-digital-to-launch-cote-divoires-first-sovereign-tier-iii-data-center/). [No global hyperscale provider runs a region in the country, so enterprises needing hyperscale cloud connect to regions outside West Africa](https://www.datacenterdynamics.com/en/news/cameroons-st-digital-opens-data-center-in-c%C3%B4te-divoire/).
+Commercial hosting capacity arrived ahead of the state's own, and earlier than the recent openings suggest: [Orange's Tier III GOS data centre at Grand-Bassam, built in 2016 at 1.3MW, hosts services for the operator's 18 Middle East and Africa subsidiaries](https://www.datacenterdynamics.com/en/news/orange-deploys-solar-panels-at-ivory-coast-data-center/), and [MainOne opened a Tier III colocation facility beside its Abidjan cable landing station in December 2019](https://www.submarinenetworks.com/en/systems/euro-africa/mainone/mainone-cable-branch-to-cote-d-ivoire-ready-for-service). [Raxio's CIV1 at Grand-Bassam opened in 2024, Uptime Institute Tier III certified with 400 racks and 3MW of IT power](https://www.raxiogroup.com/data-centres/cote-divoire/); [ST Digital opened a Tier III data centre at Grand-Bassam in October 2025 with OVHcloud](https://www.datacenterdynamics.com/en/news/cameroons-st-digital-opens-data-center-in-c%C3%B4te-divoire/), [billed ahead of its opening as the country's first sovereign Tier III data centre](https://techafricanews.com/2025/08/12/st-digital-to-launch-cote-divoires-first-sovereign-tier-iii-data-center/). [No global hyperscale provider runs a region in the country, so enterprises needing hyperscale cloud connect to regions outside West Africa](https://www.datacenterdynamics.com/en/news/cameroons-st-digital-opens-data-center-in-c%C3%B4te-divoire/).
 
 The government's own platform is still a building site. [The National Data Centre at the VITIB technology zone in Grand-Bassam was just over 20% complete in December 2025, delivered by Cybastion with US EXIM backing and targeted for delivery at the end of 2026](https://www.aip.ci/290073/cote-divoire-aip-visite-du-data-center-national-a-grand-bassam-le-ministre-ibrahim-kalil-konate-note-lavancement-des-travaux-a-plus-de-20/), [construction of its sovereign core having begun in May 2025](https://techafricanews.com/2025/07/21/cote-divoires-digital-sovereignty-takes-shape-with-new-data-center/). [EXIM approved a $66m guarantee for it in August 2025, the first data centre the bank has backed anywhere in sub-Saharan Africa](https://techafricanews.com/2025/08/25/us-exim-bank-approves-66m-for-cote-divoire-data-center/) — [39.6bn FCFA](https://www.fratmat.info/article/2636383/economie/ntic/premier-centre-national-de-donnees-les-etats-unis-appuient-la-cote-divoire-a-hauteur-de-396-milliards-de-fcfa) — with [Cybastion working alongside Cisco, HPE and Schneider Electric as technology partners](https://techafricanews.com/2025/09/22/u-s-exim-approves-100-million-guarantee-for-cote-divoire-digital-transformation/), and the scope had widened well beyond a data centre [by July 2026](https://techafricanews.com/2026/07/17/us-expands-cote-divoire-tech-footprint-with-starlink-approval-and-170m-data-centre-project/).
 

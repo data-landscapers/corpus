@@ -1,12 +1,12 @@
 ---
 title: Ethiopia: status report
-compiled: 2026-09-15
+compiled: 2026-09-21
 place: ETH
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 8
-sources_cited: 155
+sources_cited: 158
 sections_written: 37
 not_established: 1
 acquire_lines: 67
@@ -123,7 +123,7 @@ What that reaches on the ground is thinner. A national maturity assessment of th
 
 No hyperscale cloud provider has a region or an edge node in Ethiopia, [the nearest hyperscale regions being in South Africa (2025)](https://developingtelecoms.com/telecom-technology/telecom-cloud-virtualization/20054-wingu-africa-brings-wcx-cloud-platform-to-ethiopia.html), so anything requiring hyperscale capacity is served from outside the country while [personal data carries a localisation requirement obliging local storage under the 2024 proclamation](https://digitalpolicyalert.org/change/12100-data-localisation-requirements-in-personal-data-protection-proclamation-proclamation-no-13212024).
 
-The in-country estate that has to absorb that is small and commercial. [Raxio runs a Tier III data centre in Addis Ababa with on-site access to public, private and hybrid cloud providers (2022)](https://www.raxiogroup.com/data-centres/ethiopia/), and [Wingu Africa's WCX platform provides local cloud that interoperates with Azure and AWS (2025)](https://developingtelecoms.com/telecom-technology/telecom-cloud-virtualization/20054-wingu-africa-brings-wcx-cloud-platform-to-ethiopia.html); Wingu [raised commercial finance in 2025 to accelerate its rollout across Ethiopia, Djibouti and Tanzania](https://www.biometricupdate.com/202506/60m-to-speed-up-digital-connectivity-infrastructure-in-ethiopia-djibouti-tanzania). Entry is not gated by an individual licence: [data centre and hosting service provision sit among the class licences of Directive 792/2021](https://www.eca.et/wp-content/uploads/2022/10/2022-03-24T06-45-04.775ZTelecommunications-Licensing-Directive-No.-792-2021-English.pdf), alongside ISP, virtual ISP, VSAT and satellite categories.
+The in-country estate that has to absorb that is small and commercial. [Raxio opened a Tier III-certified facility at the Addis Ababa ICT Park in November 2023 with room for 800 racks and up to 3MW of IT power](https://www.datacenterdynamics.com/en/news/raxio-launches-data-center-in-addis-ababa-ethiopia/), [RedFox's first modular data centre went live at the same park in September 2022](https://www.datacenterdynamics.com/en/news/safaricom-to-build-data-center-in-addis-ababa-ethiopia/), [the state operator's Huawei-built modular data centre at Gola Sefer had close to 90 colocation customers by May 2022](https://furtherafrica.com/2022/05/24/ethio-telecom-to-lease-data-center-to-5-private-institutions/), and [Wingu Africa's WCX platform provides local cloud that interoperates with Azure and AWS (2025)](https://developingtelecoms.com/telecom-technology/telecom-cloud-virtualization/20054-wingu-africa-brings-wcx-cloud-platform-to-ethiopia.html); Wingu [raised commercial finance in 2025 to accelerate its rollout across Ethiopia, Djibouti and Tanzania](https://www.biometricupdate.com/202506/60m-to-speed-up-digital-connectivity-infrastructure-in-ethiopia-djibouti-tanzania). Entry is not gated by an individual licence: [data centre and hosting service provision sit among the class licences of Directive 792/2021](https://www.eca.et/wp-content/uploads/2022/10/2022-03-24T06-45-04.775ZTelecommunications-Licensing-Directive-No.-792-2021-English.pdf), alongside ISP, virtual ISP, VSAT and satellite categories.
 
 On the state's own side, [government security and artificial intelligence bodies run on cloud infrastructure the state built itself (December 2025)](https://www.ena.et/web/eng/w/eng_7971189), and the national identity system [runs across data-centre sites of its own (July 2026)](https://www.youtube.com/watch?v=B_iGkxWXNbg). Where government data actually sits is not a matter of public record: [the hosting arrangements behind the government cloud are not published (2025)](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update).
 
@@ -400,4 +400,4 @@ No Gulf state or Gulf-based company held a financing commitment, infrastructure 
 ### India activities
 <!-- geopol.india -->
 
-Ethiopia's national identity system runs on Indian-incubated code. Fayda is built on [MOSIP, the modular open-source identity platform licensed under MPL 2.0 and incubated at IIIT-Bangalore](https://www.youtube.com/watch?v=B_iGkxWXNbg), and is among its furthest-advanced national deployments — a technical dependency rather than a financial or diplomatic one, since no Indian financing commitment, standing agreement or training programme in the Ethiopian digital sector had been entered into as at August 2026.
+Ethiopia's national identity system runs on Indian-incubated code. Fayda is built on [MOSIP, the modular open-source identity platform licensed under MPL 2.0 and incubated at IIIT-Bangalore](https://www.youtube.com/watch?v=B_iGkxWXNbg), and is among its furthest-advanced national deployments — a technical dependency first. The one Indian commitment on the record is a data centre: [India's Ministry of External Affairs awarded RailTel Corporation of India a work order of Rs 19,83,74,494 in December 2025 to establish one inside the Ethiopian foreign ministry's building in Addis Ababa, to be executed by December 2029](https://www.bseindia.com/xml-data/corpfiling/AttachHis/decf0d10-85b8-4b39-8dbc-e292bc521376.pdf).
