@@ -24,7 +24,7 @@ and the Catalogue, so that it is not a page with one entry. Those pages keep the
 **The prose is in `content/datasets.md`**, not here (RENDER.md -> *The prose*).
 """
 from __future__ import annotations
-import csv, html, json, shutil, sys
+import csv, html, io, json, shutil, sys
 from datetime import date
 from pathlib import Path
 
@@ -86,22 +86,52 @@ def country_names() -> dict:
         return {r["iso-3"]: r["country-name"] for r in csv.DictReader(f)}
 
 
-def recent_changes(name: str) -> list[dict]:
+ACTION_WORDS = {"add": "Added", "modify": "Updated", "retire": "Retired", "import": "Imported"}
+CHANGES_HEADER = ["date", "facility_id", "facility_name", "change", "summary", "sources"]
+
+
+def all_changes(name: str) -> list[dict]:
     if not dl.LOG.exists():
         return []
     with open(dl.LOG, encoding="utf-8", newline="") as f:
-        return [r for r in csv.DictReader(f) if r["dataset"] == name][:RECENT]
+        return [r for r in csv.DictReader(f) if r["dataset"] == name]
 
 
-def changes_html(rows: list[dict]) -> str:
+def facility_names(name: str) -> dict:
+    """ID -> name over live and retired rows, so a retirement still names what went."""
+    return {r["facility_id"]: r["facility_name"] for r in list(dl.retired(name)) + dl.read(name)}
+
+
+def said(r: dict) -> str:
+    """What the page says a change was: its reader summary, or, for rows logged before summaries
+    existed, the working note (not back-filled, Bill 2026-09-21)."""
+    return (r.get("summary") or "").strip() or r["details"]
+
+
+def changes_csv(rows: list[dict], names: dict) -> bytes:
+    """The whole change log for the dataset, newest first, in the page's own terms."""
+    buf = io.StringIO()
+    w = csv.DictWriter(buf, fieldnames=CHANGES_HEADER, lineterminator="\n")
+    w.writeheader()
+    for r in rows:
+        w.writerow({"date": r["date"], "facility_id": r["record"],
+                    "facility_name": "All records" if r["record"] == "ALL" else names.get(r["record"], ""),
+                    "change": ACTION_WORDS.get(r["action"], r["action"]), "summary": said(r),
+                    "sources": r["sources"]})
+    return buf.getvalue().encode("utf-8")
+
+
+def changes_html(rows: list[dict], names: dict) -> str:
     if not rows:
         return "<p>No changes yet.</p>"
-    out = ['<table class="data-table">', "  <thead><tr><th>Date</th><th>Record</th><th>Change</th>"
-           "<th>Details</th></tr></thead>", "  <tbody>"]
-    for r in rows:
-        rec = "All records" if r["record"] == "ALL" else html.escape(r["record"])
-        out.append(f'    <tr><td class="mono">{html.escape(r["date"])}</td><td class="mono">{rec}</td>'
-                   f'<td>{html.escape(r["action"])}</td><td>{html.escape(r["details"])}</td></tr>')
+    out = ['<table class="data-table">', "  <thead><tr><th>Date</th><th>Facility</th><th>Change</th>"
+           "<th>What changed</th></tr></thead>", "  <tbody>"]
+    for r in rows[:RECENT]:
+        rec = ("All records" if r["record"] == "ALL"
+               else f'{html.escape(names.get(r["record"], ""))} <span class="mono">{html.escape(r["record"])}</span>')
+        out.append(f'    <tr><td class="mono">{html.escape(r["date"])}</td><td>{rec}</td>'
+                   f'<td>{ACTION_WORDS.get(r["action"], html.escape(r["action"]))}</td>'
+                   f'<td>{html.escape(said(r))}</td></tr>')
     out += ["  </tbody>", "</table>"]
     return "\n".join(out)
 
@@ -189,12 +219,13 @@ DC_PAGE = """<!DOCTYPE html>
         <dt>Edition</dt><dd class="mono">{edition}</dd>
         <dt>This file</dt><dd><a href="{csv_name}">{csv_name}</a> &mdash; a dated edition, kept as published and never revised</dd>
         <dt>Fields</dt><dd><a href="../metadata/#data-centres">What each column means</a>, its allowed values, and how the derived columns are worked out &mdash; also as <a href="../../metadata/{metadata}">{metadata}</a></dd>
-        <dt>Changes</dt><dd>Every addition and correction is logged, with its sources. The latest are below</dd>
+        <dt>Changes</dt><dd>Every addition and correction is logged, with its sources. The latest are below; all of them are in <a href="{changes_csv}">{changes_csv}</a></dd>
         <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></dd>
       </dl>
     </div>
 
     <h2 class="section-heading" id="changes">Recent changes</h2>
+    <p class="table-note">The latest {recent} of {n_changes} changes. <a class="btn btn--sm" href="{changes_csv}" download>&darr; All changes (CSV)</a></p>
 
 {changes}
 
@@ -311,6 +342,13 @@ def main() -> int:
     csv_path, _ = editions.publish(body, out, NAME, ".csv", page=page)
     edition = editions.edition_of(csv_path.stem) or ""
     artefacts = editions.artefact_meta(NAME, edition, editions.digest(body))
+    # The change log as a download, a dated edition like the table: it only ever grows, and a
+    # file a reader may cite is not revised in place (§9).
+    changes, fnames = all_changes(NAME), facility_names(NAME)
+    cbody = changes_csv(changes, fnames)
+    c_path, _ = editions.publish(cbody, out, f"{NAME}-changes", ".csv", page=page)
+    artefacts += "\n" + editions.artefact_meta(f"{NAME}-changes", editions.edition_of(c_path.stem) or "",
+                                               editions.digest(cbody))
 
     used = sorted({r["country"] for r in rows})
     status = [r["operational_status"] for r in rows]
@@ -329,7 +367,8 @@ def main() -> int:
         cols=", ".join(COLS), filters=", ".join(FILTERS), numeric=", ".join(NUMERIC),
         detail=", ".join(DETAIL), badges=attr(BADGES),
         labels=attr({"country": {c: names.get(c, c) for c in used}}),
-        changes=indent(changes_html(recent_changes(NAME))), status=notice(),
+        changes=indent(changes_html(changes, fnames)), status=notice(),
+        changes_csv=c_path.name, recent=min(RECENT, len(changes)), n_changes=f"{len(changes):,}",
         built=date.today().isoformat(), edition=edition, **counts)), encoding="utf-8")
 
     (OUT / "index.html").write_text(external_links(INDEX_PAGE.format(

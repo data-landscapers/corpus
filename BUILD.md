@@ -148,7 +148,7 @@ python scripts/dataset-scan.py                                   # the work orde
 python scripts/dataset-scan.py --packet data-centres {PLACE}     # --parts N past ~30 records
 ```
 
-1. **Read the packet** — each record beside the current rows of every country it names — and **write `prep/dc-evidence/t7/{PLACE}/decisions.json`**: an outcome for every slug under `considered`, and under `rows` the edits, new facilities and sources they rest on. The format and the rules are in `scripts/dataset-scan.py`'s docstring; the reading rules are T6's (`scripts/dataset-evidence.py`).
+1. **Read the packet** — each record beside the current rows of every country it names — and **write `prep/dc-evidence/t7/{PLACE}/decisions.json`**: an outcome for every slug under `considered`, and under `rows` the edits, new facilities and sources they rest on, each with a plain-English `summary` for the page's Recent changes. The format and the rules are in `scripts/dataset-scan.py`'s docstring; the reading rules are T6's (`scripts/dataset-evidence.py`).
 2. **Decide per record** — *modifies a row* (something newer or more specific than the row holds), *adds a facility* (one the dataset lacks, checked against every row, not only the country's), or *nothing* (the default: most records restate what a row already says). A record that confirms a row joins it through `add_slugs`, so the row cites the catalogue.
 3. **Apply**: `python scripts/dataset-scan.py --apply data-centres {PLACE} --dry-run` until clean, then without `--dry-run`. It writes the master, logs each change at the top of `logs/dataset-updates.csv` with its sources, and marks every accounted slug considered.
 

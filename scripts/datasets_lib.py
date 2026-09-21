@@ -8,13 +8,19 @@ Layout, per dataset:
   outputs/datasets/{name}/metadata.csv the field dictionary (column, v2_name, label, type,
                                        values, derived, definition, guidance)
   logs/dataset-updates.csv             every change to every dataset, newest row first
+
+**The log carries two accounts of each change** *(Bill, 2026-09-21)*. `details` is the working
+record — which field, which pass, how many sources — and `summary` is the sentence a reader sees
+under the table and in the changes download: what happened to the facility, in plain English.
+Rows logged before the column existed have no summary and are not back-filled; the page shows
+their `details` instead.
 """
 import csv, datetime, io, pathlib, re
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 DATASETS = ROOT / "outputs" / "datasets"
 LOG = ROOT / "logs" / "dataset-updates.csv"
-LOG_HEADER = ["dataset", "date", "record", "action", "details", "sources"]
+LOG_HEADER = ["dataset", "date", "record", "action", "details", "sources", "summary"]
 ACTIONS = {"import", "add", "modify", "retire"}
 
 
@@ -129,12 +135,15 @@ def next_id(rows, iso3, id_col="facility_id", name="data-centres"):
     return f"{iso3}-{(max(n) if n else 0) + 1:03d}"
 
 
-def log(dataset, record, action, details, sources="", date=None):
-    """Add a change to logs/dataset-updates.csv, directly under the header (newest first)."""
+def log(dataset, record, action, details, sources="", date=None, summary=""):
+    """Add a change to logs/dataset-updates.csv, directly under the header (newest first).
+
+    `summary` is reader-facing: a sentence in plain English, no field names or pass names."""
     if action not in ACTIONS:
         raise ValueError(f"action must be one of {sorted(ACTIONS)}")
     row = {"dataset": dataset, "date": date or datetime.date.today().isoformat(),
-           "record": record, "action": action, "details": details, "sources": sources}
+           "record": record, "action": action, "details": details, "sources": sources,
+           "summary": summary}
     old = []
     if LOG.exists():
         with open(LOG, encoding="utf-8", newline="") as f:

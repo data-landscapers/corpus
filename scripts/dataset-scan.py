@@ -28,9 +28,18 @@ its packet, and applying it marks exactly those slugs considered:
      "rows": {
        "KEN-003": {"edits": {"<field>": {"value": "...", "why": "..."}},
                    "append": {"comments": "<sentence added to the end of the cell>"},
-                   "add_slugs": ["<slug>"], "to_source": {...}, "resolves": [...]},
+                   "add_slugs": ["<slug>"], "to_source": {...}, "resolves": [...],
+                   "summary": "<what changed, for a reader>"},
        "new:1":   {"fields": {"facility_name": "...", "country": "KEN", ...},
-                   "add_slugs": ["<slug>"], "why": "<one line: why this is a new facility>"}}}
+                   "add_slugs": ["<slug>"], "why": "<one line: why this is a new facility>",
+                   "summary": "<what was added, for a reader>"}}}
+
+**`summary` is what the Data Centres page prints under Recent changes** *(Bill, 2026-09-21)*, so it
+is written for a reader, in plain English: what happened to the facility and what the source says,
+with no field names, pass names or counts of slugs — *"Construction halted: the contractor
+threatened to leave the site over unpaid bills (October 2025)."* A row with `edits`, `append` or
+`fields` needs one and the apply stops without it. A row that only gains a source (`add_slugs`
+alone) is summarised by the script from the source's own title, publisher and date.
 
 Parts of one place may decide the same row: their `add_slugs`, `resolves`, `to_source` and
 `append` are combined, and two parts editing one field to different values stops the apply. Name
@@ -262,6 +271,8 @@ def apply(name, where, dry):
             rows.append(r)
             by[r["facility_id"]] = r
             target, action, det = r, "add", f"Added from raw/: {d.get('why', '').rstrip('.')}."
+            if not str(d.get("summary", "")).strip():
+                problems.append(f"{key}: a new row needs a summary for the page")
         else:
             if key not in by:
                 problems.append(f"{key}: no such row")
@@ -286,6 +297,8 @@ def apply(name, where, dry):
                 target[fld] = f"{target[fld].rstrip()} {text.strip()}".strip()
                 changes.append(f"{fld}: added \"{text.strip()[:80]}\".")
             det = ("From raw/. " + " ".join(changes)).strip()
+            if changes and not str(d.get("summary", "")).strip():
+                problems.append(f"{key}: an edit or append needs a summary for the page")
         have = [u.strip() for u in target["source_urls"].split(";") if u.strip()]
         hs = [u.strip() for u in target["raw_slugs"].split(";") if u.strip()]
         n_new = n_slug = 0
@@ -313,13 +326,15 @@ def apply(name, where, dry):
                            "reason": why, "date": today})
         resolved |= {(target["facility_id"], fld) for fld in d.get("resolves", [])}
         if action == "add" or det != "From raw/.":
-            logs.append((target["facility_id"], action, det, "; ".join(url.get(s, "") for s in slugs)))
+            summary = str(d.get("summary", "")).strip() or joined(target["facility_name"], slugs, cand)
+            logs.append((target["facility_id"], action, det, "; ".join(url.get(s, "") for s in slugs),
+                         summary))
     problems += dl.check(name, rows)
     if problems:
         print("\n".join(problems))
         sys.exit(f"{len(problems)} problem(s); nothing written")
-    for fid, action, det, src in logs:
-        print(f"{fid} {action}: {det[:300]}")
+    for fid, action, det, src, summary in logs:
+        print(f"{fid} {action}: {det[:300]}\n    page: {summary}")
     print(f"{len(logs)} row change(s), {sum(1 for _, a, *_ in logs if a == 'add')} new, "
           f"{len(dec['considered'])} slug(s) accounted for")
     if dry:
@@ -337,9 +352,22 @@ def apply(name, where, dry):
     keep = [c for c in old if (c["facility_id"], c["field"]) not in resolved]
     if claims or keep != old:
         de.write_csv(de.CLAIMS, de.CLAIMS_HEADER, keep + claims)
-    for fid, action, det, src in reversed(logs):
-        dl.log(name, fid, action, det, src, date=today)
+    for fid, action, det, src, summary in reversed(logs):
+        dl.log(name, fid, action, det, src, date=today, summary=summary)
     print(f"{mark(name, dec['considered'])} slug(s) marked considered")
+
+
+def joined(facility, slugs, cand):
+    """The page's sentence for a row that only gained sources: what the source is, not how many."""
+    def one(s):
+        fm = cand[s]["fm"] if s in cand else {}
+        title = str(fm.get("title") or s).strip()
+        pub, when = str(fm.get("publisher") or "").strip(), str(fm.get("published") or "").strip()
+        tail = ", ".join(x for x in (pub, when) if x)
+        return f"\u201c{title}\u201d" + (f" ({tail})" if tail else "")
+    if not slugs:
+        return f"{facility}: sources updated."
+    return f"{facility}: new source{'s' if len(slugs) > 1 else ''} " + "; ".join(one(s) for s in slugs) + "."
 
 
 def relink(name):

@@ -1,5 +1,6 @@
 ## 21 September 2026
 
+- The data centre table's list of recent changes now names each facility and, from today, says in plain English what changed. The full change log, with every source, can be downloaded as a CSV from the same section.
 - The national budget table can be filtered by the kind of document each figure comes from, such as estimates, an appropriation act or an outturn report, now that every budget-document line says which it is. A filter for appropriation acts now returns only budgets as enacted.
 - Morocco's World Bank funding for digital payments falls from US$1,000m to US$500m, and for digital identity from US$140m to US$70m. Each operation had been counted twice, once from the Bank's own document and once from its aid-transparency record.
 - Most of what the data centre table could not yet source has now been searched for: two-thirds of the unsupported claims were confirmed with a source, corrected, or taken out. A status or owner that no search could support now reads Unknown rather than a guess, and each change is logged with the page it rests on.
