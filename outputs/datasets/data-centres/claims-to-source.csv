@@ -12,14 +12,6 @@ SSD-001,gps_coordinates,"4.8594, 31.5713",no source gives the site's location,20
 TCD-001,gps_coordinates,"12.1048, 15.0445",DCD says the location has not been shared,2026-09-21
 TCD-001,services_offered,Government data hosting; national digital services; telecom carrier hub,the facility is unbuilt and no source lists its services,2026-09-21
 TCD-001,carrier_neutrality,Single carrier / captive,no source describes carrier access,2026-09-21
-LSO-001,facility_type,Enterprise,enterprise captive is plausible for an operator site; no source states it,2026-09-21
-LSO-001,services_offered,Enterprise captive; mobile network hosting; internal IT infrastructure,no source describes the services,2026-09-21
-LSO-001,carrier_neutrality,Single carrier / captive,"an operator's own site, so captive is likely; no source states it",2026-09-21
-LSO-001,key_tenants,Vodacom Lesotho internal,no source names a tenant; Vodacom Lesotho's own use is assumed,2026-09-21
-LSO-002,facility_type,Enterprise,"enterprise captive is plausible, but Data Center Map lists private cabinets here",2026-09-21
-LSO-002,services_offered,Enterprise captive; mobile network hosting; internal IT infrastructure,"no operator source describes the services; Data Center Map lists private cabinets, which would mean colocation is offered",2026-09-21
-LSO-002,carrier_neutrality,Single carrier / captive,"an operator's own site, so captive is likely; no source states it",2026-09-21
-LSO-002,key_tenants,Vodacom Lesotho internal,no source names a tenant; Vodacom Lesotho's own use is assumed,2026-09-21
 TGO-001,services_offered,Colocation; cages; private cabinets; remote hands; disaster recovery; interconnection; managed services; cloud access; cross-connects,"Data Center Map lists cages, cabinets and remote hands; disaster recovery, interconnection, managed services, cloud access and cross-connects are unsourced",2026-09-21
 TGO-001,gps_coordinates,"6.1375, 1.2123",plausible for Route de la Nouvelle Présidence; no source gives coordinates,2026-09-21
 TGO-002,submarine_cable_access,Connected via metro fibre,metro fibre to the landing is plausible in Lomé; no source describes the route,2026-09-21
@@ -47,19 +39,10 @@ LBR-001,carrier_neutrality,Limited carriers,no source describes carrier access,2
 LBR-002,submarine_cable_access,Connected via metro fibre,no source describes the facility's route to the landing station,2026-09-21
 LBR-002,carrier_neutrality,Limited carriers,no source describes carrier access,2026-09-21
 SWZ-001,year_operational,,the brochure dates from 2023 but gives no opening year,2026-09-21
-SWZ-001,security_certifications,Unknown,Tier III is self-declared in RSTP's brochure; no certification body is named,2026-09-21
-SWZ-002,operational_status,Operational,"Data Center Platform, the only source for the site, is behind a login",2026-09-21
-SWZ-002,city,Matsapha,no readable source places an MTN data centre here,2026-09-21
-SWZ-002,facility_type,Enterprise,enterprise captive is plausible for an operator site; no source states it,2026-09-21
 SWZ-002,services_offered,Enterprise captive; mobile network core; internal IT hosting,no source describes the services,2026-09-21
 SWZ-002,carrier_neutrality,Single carrier / captive,"an operator's own site, so captive is likely; no source states it",2026-09-21
-SWZ-002,key_tenants,MTN Eswatini internal,no source names a tenant; MTN Eswatini's own use is assumed,2026-09-21
-SWZ-003,operational_status,Operational,"Data Center Platform, the only source for the site, is behind a login",2026-09-21
-SWZ-003,city,Lobamba,no readable source places an MTN data centre here,2026-09-21
-SWZ-003,facility_type,Enterprise,enterprise captive is plausible for an operator site; no source states it,2026-09-21
 SWZ-003,services_offered,Enterprise captive; mobile network core,no source describes the services,2026-09-21
 SWZ-003,carrier_neutrality,Single carrier / captive,"an operator's own site, so captive is likely; no source states it",2026-09-21
-SWZ-003,key_tenants,MTN Eswatini internal,no source names a tenant; MTN Eswatini's own use is assumed,2026-09-21
 BFA-002,services_offered,Government cloud hosting; public administration applications; intranet,no source describes the services beyond the government intranet,2026-09-21
 BFA-002,carrier_neutrality,Limited carriers,a government facility with limited carriers is plausible; no source states it,2026-09-21
 BFA-002,gps_coordinates,"12.3625, -1.5338",no source gives the site's address,2026-09-21
@@ -85,17 +68,10 @@ SOM-003,services_offered,Mobile core; Enterprise internet; ISP hosting; Data ser
 SOM-003,carrier_neutrality,Limited carriers,no source describes carrier access at the facility,2026-09-21
 SOM-003,gps_coordinates,"9.5600, 44.0650",Hargeisa city coordinates; no source gives a site,2026-09-21
 SOM-003,parent_hq_country,ARE,"Forbes gives Dahabshiil's headquarters, not its country of registration",2026-09-21
-NAM-001,ultimate_parent_company,"Paratus Group Holdings LTD (private, no further public ownership details)",no readable source gives Paratus Group Holdings' stake in PNH or its own ownership,2026-09-21
-NAM-001,ultimate_parent_hq_country,NAM,no readable source gives where Paratus Group Holdings is registered,2026-09-21
-NAM-001,controlling_entities,"Paratus Group Holdings LTD (53.8% of PNH), Paratus execs on board (CEO, Chairman)","the 53.8% stake in PNH is not on the cited register, which lists insiders only",2026-09-21
-NAM-001,government_ownership_pct,~18% via GIPF (PNH),the GIPF stake of ~18% is not on the cited register,2026-09-21
 NAM-001,services_offered,Colocation; Cloud; Connectivity; Managed services; Remote hands; CDN hosting,"managed services, remote hands and CDN hosting are not in any readable source",2026-09-21
 NAM-001,gps_coordinates,"-22.6400, 17.0710","The Namibian places the site at Brakwater, north of Windhoek; these coordinates fall south of the centre",2026-09-21
 NAM-002,year_operational,2005,no readable source gives an opening year,2026-09-21
-NAM-002,government_ownership_pct,100%,the Xalam brief calls Telecom Namibia government-owned but gives no percentage,2026-09-21
 NAM-002,carrier_neutrality,Single carrier / captive,"a telco's own exchange building, so captive is likely; no source states it",2026-09-21
-NAM-003,city,Windhoek,no source names a site; Windhoek is likely but unannounced,2026-09-21
-NAM-003,government_ownership_pct,100%,no source gives the financing or ownership model beyond a government-led project,2026-09-21
 SDN-001,services_offered,Colocation; Private cabinets; Remote hands; IP transit; Managed services; Co-location racks,"colocation, cabinets, remote hands and IP transit are not in any readable source; Wikipedia lists hosting, SaaS and PaaS",2026-09-21
 SDN-001,submarine_cable_access,Connected via metro fibre,"Sudatel is an EASSy member with its own terrestrial fibre, but no source describes this facility's route to Port Sudan",2026-09-21
 SDN-002,submarine_cable_access,Connected via metro fibre,no source describes the facility's route to Port Sudan,2026-09-21
@@ -127,18 +103,9 @@ BEN-003,submarine_cable_access,Connected via metro fibre,no readable source desc
 BEN-004,facility_name,MTN Benin Edge Site (Bohicon),no readable source shows an MTN edge site in Bohicon exists; the Data Center Platform listing the comments rely on is behind a registration wall. T8/T9 to confirm or retire the row,2026-09-21
 BEN-004,parent_company,MTN Group,the FY24 statements list Spacetel Benin S.A. (MTN Benin) as a group entity but no readable page gives MTN's stake or the intermediate holder,2026-09-21
 BEN-004,submarine_cable_access,Connected via metro fibre,no readable source describes the site's route to the landing station,2026-09-21
-BWA-001,ownership_type,Government / SOE,"BTC Botswana is plausibly state-controlled, as the comments say, but no readable source gives its shareholders; the ownership chain needs sourcing from BTC's own filings",2026-09-21
-BWA-001,year_operational,2022,no readable source gives an opening year,2026-09-21
 BWA-001,carrier_neutrality,Fully carrier-neutral,"BTC's page lists only BTC connectivity (Metro Ethernet, DIA, IPLCs) and cross-connects; no source states neutrality",2026-09-21
-BWA-002,investment_usd,7300000,no readable source gives the P100M figure,2026-09-21
 BWA-002,services_offered,Colocation; cloud services; IaaS; PaaS; SaaS; interconnection; remote hands,"colocation, cloud and IXP peering are in the sources; IaaS, PaaS, SaaS and remote hands are not",2026-09-21
-BWA-002,total_floor_space_sqm,1000,"Digital Delta describes 1,000 sqm as two 500 sqm floors of the building; whether that is white space is not stated",2026-09-21
-BWA-003,control_mechanisms,"Double voting rights for shares held >2 years in registered form; 3 public sector directors (one from Bpifrance Participations) on a 15-member board (7 independent, 3 employee reps, 1 employee-shareholder seat vacant); no golden share ([Orange Board](https://www.orange.com/en/our-group/our-governance/our-board-of-directors))",double voting rights and the absence of a golden share are not in the board page,2026-09-21
 BWA-003,services_offered,Colocation; cloud services; connectivity; managed services,datacentermap's service list is its own boilerplate; no Orange source advertises services at the facility,2026-09-21
-BWA-003,year_operational,,datacentermap says Orange has launched it but gives no year,2026-09-21
-BWA-004,parent_company,Nashua Limited,no source says Nashua Botswana is a Nashua Limited subsidiary rather than a franchisee; Top500 says Nashua trades through over 40 franchises,2026-09-21
-BWA-004,ownership_structure_type,Wholly-owned subsidiary of JSE-listed company,"no source says the operator is wholly owned; the field should describe Reunert, a JSE-listed company",2026-09-21
-BWA-004,facility_type,Colocation/carrier-neutral,datacentermap lists co-location among its services but nothing on carrier choice,2026-09-21
 COD-001,submarine_cable_access,Connected via metro fibre,"Kinshasa is inland; plausible metro-fibre route, but no source describes the path to a landing station",2026-09-21
 COD-001,gps_coordinates,"-4.3357, 15.3494",approximate for Limete industriel 12ème rue; no source gives coordinates,2026-09-21
 COD-002,submarine_cable_access,Connected via metro fibre,"Kinshasa is inland; plausible metro-fibre route, but no source describes the path to a landing station",2026-09-21
@@ -214,49 +181,26 @@ MUS-005,it_capacity_mw,1,1 MW has no readable source,2026-09-21
 MUS-005,security_certifications,ISO 27001,ISO 27001 has no readable source,2026-09-21
 MUS-005,carrier_neutrality,Limited carriers,no source describes the facility's carriers,2026-09-21
 MUS-005,submarine_cable_access,Connected via metro fibre,no source describes the facility's route to a landing station,2026-09-21
-ZMB-001,chinese_involvement,Construction/Equipment,"the Smart Zambia Phase 1 framework and financing agreement was signed with China in 2015; if a Chinese state lender financed the build this is Investment, but no source names the lender",2026-09-21
 ZMB-001,gps_coordinates,"-15.4166, 28.2894",plausible for the Lusaka metro; no source gives coordinates,2026-09-21
 ZMB-001,it_capacity_mw,1.25,no readable source gives 1.25MW,2026-09-21
-ZMB-002,chinese_involvement,Construction/Equipment,"the Smart Zambia Phase 1 framework and financing agreement was signed with China in 2015; if a Chinese state lender financed the build this is Investment, but no source names the lender",2026-09-21
 ZMB-002,gps_coordinates,"-15.4200, 28.2870",plausible for the Lusaka metro; no source gives coordinates,2026-09-21
 ZMB-002,key_tenants,Government of Zambia; ZICTA,ZICTA's own account does not say which INFRATEL centre hosts its systems,2026-09-21
-ZMB-003,chinese_involvement,Construction/Equipment,"the Smart Zambia Phase 1 framework and financing agreement was signed with China in 2015; if a Chinese state lender financed the build this is Investment, but no source names the lender",2026-09-21
-ZMB-004,ultimate_parent_company,"Paratus Group Holdings LTD (private, no further public ownership details)",no readable source names Paratus Group Holdings as the owner of Paratus Zambia or gives its ownership,2026-09-21
-ZMB-004,ultimate_parent_hq_country,NAM,no readable source gives where Paratus Group Holdings is registered,2026-09-21
-ZMB-004,parent_hq_country,NAM,no readable source gives where Paratus Group's holding company is registered,2026-09-21
 ZMB-004,services_offered,Colocation; Cloud; Managed services; Connectivity; Remote hands; CDN hosting,managed services are not in any readable source,2026-09-21
 ZMB-004,gps_coordinates,"-15.3960, 28.3150",the Data Center Map page is unreadable; no source gives coordinates for 34 Bwinjimfumu Rd,2026-09-21
-ZMB-005,year_operational,2012,Liquid opened in Zambia in 2011; no source dates this data centre,2026-09-21
-ZMB-005,facility_type,Colocation/carrier-neutral,DCD says the facility's details are unavailable; colocation is plausible but unsourced,2026-09-21
 ZMB-005,services_offered,Colocation; Cloud; IP transit; Managed services; Wholesale connectivity,no source lists the services at this facility,2026-09-21
 ZMB-005,gps_coordinates,"-15.4144, 28.3228",no source gives coordinates for the facility,2026-09-21
-ZWE-001,year_operational,2015,no readable source dates the facility,2026-09-21
 ZWE-001,services_offered,Colocation; Cloud; Managed services; Cross-connects; IP transit; Carrier services,"cloud, managed services, cross-connects, IP transit and carrier services are not in any readable source for this facility",2026-09-21
-ZWE-001,cloud_platform,VMware Cloud Foundation,no readable source names VMware Cloud Foundation,2026-09-21
-ZWE-001,security_certifications,ISO 27001; ISO 14001; ISO 45001,Africa Data Centres claims ISO 27001 and PCI DSS group-wide; ISO 14001 and ISO 45001 are not in any readable source,2026-09-21
 ZWE-001,gps_coordinates,"-17.8252, 31.0335",no source gives coordinates for the facility,2026-09-21
 ZWE-002,ixp_presence,IXP hosted on-site,ITU places the Harare Internet Exchange on the second floor of the TelOne Exchange; no source says that is this data centre at 107 Union Ave,2026-09-21
 ZWE-002,gps_coordinates,"-17.8300, 31.0500",no source gives coordinates for 107 Union Ave,2026-09-21
-ZWE-003,ultimate_parent_hq_country,ZWE,Masawara was AIM-listed until 2018; no readable source gives where it is registered,2026-09-21
-ZWE-003,major_shareholders,"Masawara Plc / Shingai Mutasa (Zimbabwean), Gondwana International Networks (South African)","no source gives the Telerix, Masawara or Gondwana stakes in Dandemutande",2026-09-21
 ZWE-003,year_operational,2015,the AllAfrica story is unreadable and no other source dates the facility,2026-09-21
 ZWE-003,carrier_neutrality,Fully carrier-neutral,DCD says the planned new centre will be carrier-neutral; nothing says so of this one,2026-09-21
 ZWE-003,gps_coordinates,"-17.8220, 31.0468","LinkedIn gives Pegasus House as the company's head office, not as the data centre's site",2026-09-21
-ZWE-004,ultimate_parent_hq_country,ZWE,Masawara was AIM-listed until 2018; no readable source gives where it is registered,2026-09-21
-ZWE-004,major_shareholders,"Masawara Plc / Shingai Mutasa (Zimbabwean), Gondwana International Networks (South African)","no source gives the Telerix, Masawara or Gondwana stakes in Dandemutande",2026-09-21
 ZWE-004,year_operational,2020,no readable source dates the Bulawayo facility,2026-09-21
 ZWE-004,carrier_neutrality,Fully carrier-neutral,DCD says the planned new centre will be carrier-neutral; nothing says so of this one,2026-09-21
 ZWE-004,gps_coordinates,"-20.1450, 28.5900",no source gives coordinates for the Bulawayo facility,2026-09-21
-ZWE-005,ultimate_parent_hq_country,ZWE,Masawara was AIM-listed until 2018; no readable source gives where it is registered,2026-09-21
-ZWE-005,major_shareholders,"Masawara Plc / Shingai Mutasa (Zimbabwean), Gondwana International Networks (South African)","no source gives the Telerix, Masawara or Gondwana stakes in Dandemutande",2026-09-21
-ZWE-005,city,Harare,DCD says the location was not given; the row's own comments say it is undisclosed,2026-09-21
 ZWE-005,services_offered,Colocation; Cloud; Managed services; SADC regional services,DCD says only that it will serve the SADC region; cloud and managed services are unsourced,2026-09-21
-ZWE-005,operational_status,Planned,the June 2026 target has passed and no newer source says whether it was built,2026-09-21
-ZWE-006,parent_company,Econet Wireless Zimbabwe,"the February 2026 circular separates Econet InfraCo for its own VFEX listing, so Econet Wireless Zimbabwe may no longer be its parent",2026-09-21
-ZWE-006,facility_type,Hyperscale,sources say only 'a large data centre'; hyperscale is unsourced,2026-09-21
 ZWE-006,services_offered,AI workloads; Cloud hosting; Industrial park data services; 5G; Enterprise,no source lists the services the data centre will offer,2026-09-21
-ZWE-006,major_shareholders,"Econet Global Limited (41.68%), Stanbic Nominees (Private) Limited (11.61%), TN Asset Management Nominees (9.50%), CBZ Nominees (5.01%), Econet Wireless Zimbabwe SPV Limited (4.56%), Old Mutual Life (3.34%), others; top 10 hold 84.72% [[ZSE Circular Feb 2026](https://www.zse.co.zw/wp-content/uploads/2026/02/ECO.zw-Circular-to-Shareholders.pdf)]",the readable part of the circular shows only holders six to ten; the top five stakes are not in the text,2026-09-21
-ZWE-006,dfi_involvement,"None identified for the facility. Group level: past syndicated loans to Econet Wireless Zimbabwe reportedly included DEG, FMO and Proparco (2015)","no readable source gives the 2015 DEG, FMO and Proparco loans",2026-09-21
 ZWE-006,gps_coordinates,"-17.9310, 31.1000",plausible for the airport site; no source gives coordinates,2026-09-21
 DJI-001,services_offered,Colocation; cable head access; backhaul; cross-connects; VPOP; CDN hosting; Meet-Me Room; DjIX peering,"VPOP, CDN hosting and cable head access are not in the operator's or DatacenterMap's service lists",2026-09-21
 DJI-002,facility_name,Wingu Africa Data Center Djibouti (DJI01),"same facility as DJI-001 (Djibouti Data Center, same Harmous Building 3G address): Wingu runs DDC through its subsidiary; T8 to merge the rows",2026-09-21
@@ -278,15 +222,8 @@ MDG-003,submarine_cable_access,Connected via metro fibre,no source gives the rou
 MDG-004,services_offered,Enterprise/carrier; submarine cable access; connectivity; co-location,no readable source lists the facility's services,2026-09-21
 MDG-004,key_tenants,Yas/Telma enterprise; coastal region customers,no source names a tenant,2026-09-21
 MDG-004,submarine_cable_access,At or adjacent to cable landing station,"Toliara is an EASSy landing point, but no source places this facility at the landing station",2026-09-21
-MWI-001,operator_name,Malawi Ministry of Information and Digitalization / ESCOM,ESCOM's role at the facility is in no readable source,2026-09-21
 MWI-001,services_offered,Government hosting; IaaS; PaaS; colocation; disaster recovery; e-government services,"IaaS, PaaS, colocation and disaster recovery are not in the launch coverage",2026-09-21
-MWI-001,server_vendors,Huawei,Huawei built the facility; no source says the servers are Huawei's,2026-09-21
-MWI-001,chinese_involvement,Construction/Equipment,"if the National Fibre Backbone Project was financed by a Chinese state lender, this is Investment; no readable source says who financed it",2026-09-21
-MWI-002,year_operational,2025,completion was due December 2024 and the World Bank counts the data centre among 2017-2024 results; no source dates its opening,2026-09-21
-MWI-002,expansion_plans,Unknown,"the PPPC notice's URL names an early-market engagement for expanding the national data centre, but its text is unreadable",2026-09-21
 MWI-003,services_offered,Colocation; managed hosting; cloud services; IaaS; ISP carrier services,"managed hosting, cloud, IaaS and carrier services are not on OCL's data-centre page",2026-09-21
-MWI-003,key_tenants,Telecoms operators; ISPs; banks; enterprises,no source names a tenant; OCL's page invites enterprises,2026-09-21
-MWI-003,parent_hq_country,,PAIDF II's registration is not given; its manager Harith is in Johannesburg,2026-09-21
 MWI-004,city,Blantyre,OFC's announcement was made in Blantyre but does not locate the data centre,2026-09-21
 MWI-004,major_shareholders,"Government of Malawi (99%), Malawi Development Corporation (MDC) (1%)",the 99%/1% split between the government and MDC is in no readable source,2026-09-21
 MWI-004,government_ownership_pct,99%,the 99% figure is in no readable source,2026-09-21
@@ -398,17 +335,11 @@ AGO-011,carrier_neutrality,Single carrier / captive,"an operator's own network f
 AGO-011,submarine_cable_access,Connected via metro fibre,no source describes the facility's route to a landing station,2026-09-21
 AGO-012,submarine_cable_access,Dark fibre connection to landing station,Raxio says the site is close to the landing stations; no source describes the link,2026-09-21
 AGO-012,ixp_presence,IXP hosted on-site,the October 2025 sources say the site will host Angola's IXP; nothing yet confirms the move,2026-09-21
-MOZ-001,total_floor_space_sqm,9500,"iColo's release gives a 9,500 sqm campus, but its 2023 spec sheet gives a total site area of 5,000 sqm",2026-09-21
 MOZ-002,submarine_cable_access,Dark fibre connection to landing station,"the site is near three cable landings, but no source describes its route to them",2026-09-21
-MOZ-004,operational_status,Operational,no source after the 2013 order shows the site still running,2026-09-21
-MOZ-004,year_operational,2014,IT-Online (2013) says installation early 2014; DCD says the modular centre was installed in 2013,2026-09-21
 MOZ-004,carrier_neutrality,Single carrier / captive,"the operator's own core network site, so captive is likely; no source states it",2026-09-21
 MOZ-004,submarine_cable_access,Dark fibre connection to landing station,"DCD says 2Africa terminates in Vodacom Mozambique's equipment room in Matola, which may be this site; no source states the route",2026-09-21
 MOZ-005,it_capacity_mw,0.28,the 280 kW figure has no readable source,2026-09-21
-MOZ-005,parent_hq_country,MUS,"Data Center Map places SEACOM's HQ in Ebene, Mauritius; no source gives SEACOM Capital's registration",2026-09-21
 MOZ-005,ultimate_parent_hq_country,,"control is spread across Remgro, IPS, Sanlam, Convergence Partners and Herlihy; no source gives their registrations",2026-09-21
-MOZ-005,dfi_involvement,Group level: IFC $207M funding to SEACOM for submarine and terrestrial networks in seven countries including Mozambique [[Empower Africa](https://empowerafrica.com/seacom-secures-207-million-from-ifc-to-boost-digital-connectivity-in-africa-2/)],the 2023 date of the IFC $207M is not in the source,2026-09-21
-MOZ-006,year_operational,2005,"2005 is when BCX began operating in Mozambique, not when this data centre opened",2026-09-21
 MOZ-006,carrier_neutrality,Limited carriers,no source describes the carriers at the site,2026-09-21
 MOZ-006,submarine_cable_access,Connected via metro fibre,no source describes the site's route to a landing station,2026-09-21
 MOZ-007,submarine_cable_access,Connected via metro fibre,no source describes the site's route to a landing station,2026-09-21
@@ -768,14 +699,10 @@ ZAF-002,hyperscaler_google,No,Google lists 'Teraco Johannesburg Campus' without 
 ZAF-003,hyperscaler_google,No,Google lists 'Teraco Johannesburg Campus' without naming the building; a hyperscaler tenant in this hall would make it Yes,2026-09-21
 ZAF-007,hyperscaler_google,Yes,Google lists 'Teraco Cape Town' without naming the building; CT1 is the campus's on-ramp building for AWS and Microsoft,2026-09-21
 ZAF-008,hyperscaler_google,No,Google lists 'Teraco Cape Town' without naming the building; a hyperscaler tenant in CT2 would make it Yes,2026-09-21
-SWZ-002,major_shareholders,"Of Swazi MTN Limited: 1. Eswatini Posts and Telecommunications Corporation (EPTC, state-owned) 41%; 2. MTN Group Limited 30%; 3. Eswatini Empowerment Limited 19%; 4. an unnamed 'esteemed shareholder' 10% [MTN Eswatini](https://www.mtn.co.sz/newsabout/our-story/), [btw.media](https://btw.media/en/swazi-mtn-ltd-powers-eswatinis-mobile-and-digital-growth)","ESCCOM ordered EPTC in 2019 to divest its stake in MTN Eswatini (ESCCOM Decision 1/2019); MTN Eswatini's page and a May 2026 article still list SPTC/EPTC at 41%, so a current register should confirm the divestiture did not happen",2026-09-21
-SWZ-003,major_shareholders,"Of Swazi MTN Limited: 1. Eswatini Posts and Telecommunications Corporation (EPTC, state-owned) 41%; 2. MTN Group Limited 30%; 3. Eswatini Empowerment Limited 19%; 4. an unnamed 'esteemed shareholder' 10% [MTN Eswatini](https://www.mtn.co.sz/newsabout/our-story/), [btw.media](https://btw.media/en/swazi-mtn-ltd-powers-eswatinis-mobile-and-digital-growth)","ESCCOM ordered EPTC in 2019 to divest its stake in MTN Eswatini (ESCCOM Decision 1/2019); MTN Eswatini's page and a May 2026 article still list SPTC/EPTC at 41%, so a current register should confirm the divestiture did not happen",2026-09-21
 KEN-021,ultimate_parent_hq_country,GBR,DFC gives Cassava Technologies' headquarters as the UK; its country of registration is not confirmed by a register,2026-09-21
 KEN-021,facility_name,Liquid Intelligent Technologies Kenya (Sameer),"same facility as KEN-001 (ADC NBO1, Sameer Business Park): Liquid's Nairobi data centre is the ADC site; T8 to merge the rows",2026-09-21
 NGA-030,ultimate_parent_hq_country,GBR,DFC gives Cassava Technologies' headquarters as the UK; its country of registration is not confirmed by a register,2026-09-21
-ZWE-001,ultimate_parent_hq_country,GBR,DFC gives Cassava Technologies' headquarters as the UK; its country of registration is not confirmed by a register,2026-09-21
 UGA-011,ultimate_parent_hq_country,GBR,DFC gives Cassava Technologies' headquarters as the UK; its country of registration is not confirmed by a register,2026-09-21
-ZMB-005,ultimate_parent_hq_country,GBR,DFC gives Cassava Technologies' headquarters as the UK; its country of registration is not confirmed by a register,2026-09-21
 ZAF-039,ultimate_parent_hq_country,GBR|ZAF,DFC gives Cassava Technologies' headquarters as the UK; its country of registration is not confirmed by a register,2026-09-21
 ZAF-039,facility_name,Liquid Intelligent Technologies DC (Midrand),same facility as ZAF-010 (ADC JHB1 Midrand): DCD counts only two ADC sites in Johannesburg; T8 to merge the rows,2026-09-21
 ZAF-039,major_shareholders,"Of Cassava Africa Data Centres SA (Pty) Ltd: Africa Data Centres Holdings Ltd (Cassava Technologies), majority; STANLIB Infrastructure Fund II, minority with joint control; stakes not disclosed [Tribunal](https://comptrib.co.za/info-library/press-room/Merger-Alert:-Outcome-of-mergers-decided-by-the-Tribunal-4-February-2026). Of Cassava Technologies (stakes not disclosed): Econet Group, Public Investment Corporation, British International Investment, Gateway Capital, Royal Bafokeng Holdings, IFC, Afreximbank/FEDA, DFC, Finnfund, Google LLC and NVIDIA [Liquid](https://liquid.tech/about-us/news/gpu-as-a-service-to-africa/)","STANLIB's stake in Cassava Africa Data Centres SA is undisclosed ('minority', with joint control)",2026-09-21
@@ -792,33 +719,11 @@ ZAF-054,year_operational,,no target year given,2026-09-21
 ZAF-055,gps_coordinates,,site within the landing station not located,2026-09-21
 BFA-003,rack_capacity,,"Cybastion's modular DC (10-40 racks, 5-8 kW/rack, Aug 2025) may be one of the two; supplier and rack count unconfirmed",2026-09-21
 BFA-004,rack_capacity,,"Cybastion's modular DC (10-40 racks, Aug 2025) may be one of the two; unconfirmed",2026-09-21
-MOZ-002,key_tenants,,AFR-IX Telecom is deploying network infrastructure here (July 2026); add it if the cell does not already name it,2026-09-21
 DZA-012,gps_coordinates,,no address for the Oran site,2026-09-21
 SEN-009,city,Dakar,the presentation names the site ORANA without an address; Dakar assumed,2026-09-21
 SEN-010,city,Dakar,Technopôle Dakar is in Pikine; the data centre's exact site not stated,2026-09-21
-MOZ-001,expansion_plans,Unknown,Xalam (July 2025) says iColo is expanding capacity with a new Tier III facility in Mozambique; whether that is an MPM1 phase or a separate site is not stated,2026-09-21
-MOZ-002,key_tenants,,Bubble Cloud opened an availability zone in Beluluane in July 2026; whether it is hosted at MZ1 is not stated,2026-09-21
-MOZ-014,operator_name,Unknown,the agency that runs the Maluana data centre is not named (likely the Maluana science and technology park's operator),2026-09-21
-MOZ-014,year_operational,,opening year not stated,2026-09-21
-MOZ-014,govt_data_hosted,,described as the state's data centre but which institutions it hosts is not stated,2026-09-21
 CMR-003,gps_coordinates,,"Zamengoe, Okola subdivision; coordinates not given",2026-09-21
-BWA-002,investment_usd,7300000,"the only P100m in the records (Mmegi, April 2025) is BoFiNet's internet-gateway and metro upgrade, not the data centre; confirm the P100M attributed to the DDDC",2026-09-21
-BWA-005,operator_name,Kala Data FZCO,the records do not say whether Kala Data FZCO or Tlou Energy runs the modules day to day,2026-09-21
-BWA-005,ownership_type,Unknown,"who owns the modules (Kala Data FZCO, Tlou Energy, or both) is not stated",2026-09-21
-BWA-005,city,Lesedi project site (central Botswana),nearest town to the Lesedi project not given,2026-09-21
-BWA-005,year_operational,,operating by April 2026 at the latest; the start date is not given,2026-09-21
-BWA-005,it_capacity_mw,,up to 1MW design capacity; installed capacity not stated,2026-09-21
-BWA-005,facility_type,,HPC modules for one partner's compute; service model not stated,2026-09-21
-BWA-006,city,Gaborone,the record does not name the town; Gaborone is assumed from Mascom's head office,2026-09-21
-BWA-006,security_certifications,Tier III (certifying body and type not stated),Tier III claimed by the operator; check Uptime's register for the award and its type,2026-09-21
-BWA-006,ownership_type,Unknown,Mascom Wireless's shareholders not in the record,2026-09-21
 BWA-006,year_operational,,opening year not given,2026-09-21
-BWA-006,facility_type,Colocation/carrier-neutral,telco-owned and open to third parties; carrier neutrality unconfirmed,2026-09-21
-LSO-003,operational_status,Unknown,2018 source says near-complete awaiting its power station; whether it opened and is in service is not stated,2026-09-21
-LSO-004,ultimate_parent_company,"Convalt Energy, Inc.","Convalt Energy is a portfolio company of ACO Investment Group; its stake, and so the top of the chain, is not stated",2026-09-21
-LSO-004,it_capacity_mw,,"no data centre capacity stated; the 1,200MW is the hydropower plant",2026-09-21
-LSO-004,facility_type,,described only as a large-scale AI data centre; service model not stated,2026-09-21
-ZMB-002,security_certifications,Uptime Institute Tier III Certification of Design Documents,the report names the 'production site in Lusaka'; the Uptime register should confirm which Lusaka Infratel site holds the award and its date,2026-09-21
 MRT-001,ixp_presence,Unknown,AMI (8 May 2025) says the centre provides a central exchange point linking local and international ISPs and operators; whether an IXP actually runs there is not confirmed,2026-09-21
 MDG-005,operational_status,Under construction,"construction underway per Ecofin (June 2026); PRODIGY was due to close 30 June 2026, so completion should be checked",2026-09-21
 MDG-005,operator_name,"Unité de Gouvernance Digitale (UGD), Presidency of Madagascar",UGD runs PRODIGY; which body will operate the finished data centre is not stated,2026-09-21
@@ -829,35 +734,14 @@ BEN-007,city,Cotonou,"the record does not locate the data centre; Cotonou, where
 BEN-007,operational_status,Operational,existence inferred from a loan to modernise it; no source describes the site,2026-09-21
 COG-003,security_certifications,Unknown,described as Tier III+ (Feb 2026); no Uptime certification named,2026-09-21
 DJI-002,facility_name,Wingu Africa Data Center Djibouti (DJI01),"same facility as DJI-001 (Djibouti Data Center, Harmous Building, 2013): Wingu's 2024 launch calls it Wingu's first Djibouti facility; merge for T8",2026-09-21
-MWI-001,chinese_involvement,Investment,one AidData record ties the CCB loan to a 'National Data Centre Project'; confirm the loan financed this Blantyre facility and was disbursed,2026-09-21
-MWI-002,operational_status,Operational,"running at partial load per the June 2026 RFB, but September 2026 reports still speak of its operationalisation; confirm full commissioning date",2026-09-21
-MWI-003,major_shareholders,,TNM Plc's current shareholder register (2024 or later),2026-09-21
-MWI-003,ownership_type,Private domestic,TNM's registration and ownership are not stated in the purchase report; confirm domestic control,2026-09-21
-MWI-005,year_operational,,opening year not in the records,2026-09-21
-MWI-005,facility_type,,whether it serves TNM only or also customers is not stated,2026-09-21
-MWI-005,major_shareholders,,TNM Plc's shareholder register not in the records,2026-09-21
-MWI-006,ultimate_parent_hq_country,MWI,Sparc Systems Limited's registration and shareholders not in the records,2026-09-21
-MWI-006,facility_type,,whether it is colocation or managed hosting is not stated,2026-09-21
-MWI-006,rack_capacity,120,"120 racks is the operator's stated capacity, not installed racks",2026-09-21
 ZWE-001,carrier_neutrality,Fully carrier-neutral,Xalam (July 2025) estimates about 0% of Zimbabwe's live supply is carrier-neutral; check the operator's claim,2026-09-21
 ZWE-002,carrier_neutrality,Fully carrier-neutral,Xalam (July 2025) estimates about 0% of Zimbabwe's live supply is carrier-neutral; TelOne says the centre is vendor-neutral,2026-09-21
 ZWE-003,carrier_neutrality,Fully carrier-neutral,Xalam (July 2025) estimates about 0% of Zimbabwe's live supply is carrier-neutral; check the operator's claim,2026-09-21
 ZWE-004,carrier_neutrality,Fully carrier-neutral,Xalam (July 2025) estimates about 0% of Zimbabwe's live supply is carrier-neutral; check the operator's claim,2026-09-21
-ZWE-007,operational_status,Operational,whether Phase 2 (300+ teraflops) was completed is not stated,2026-09-21
-ZWE-007,gpu_ai_capability,,no source says whether the system has GPUs,2026-09-21
-ZWE-007,ownership_type,Government / SOE,"University of Zimbabwe taken as state-owned; confirm, and whether a separate Zimbabwe Centre for HPC entity runs it",2026-09-21
 ZWE-008,gps_coordinates,,site within Harare not stated,2026-09-21
-ZWE-008,ownership_type,Private domestic,"whether the building passed to Econet InfraCo in the December 2025 asset transfer, and ADC's role, are not stated",2026-09-21
 ZWE-008,carrier_neutrality,,not stated,2026-09-21
-ZWE-009,operator_name,"Ministry of ICT, Postal and Courier Services",records name the ICT ministry as the project owner; the agency running the site is not stated,2026-09-21
-ZWE-009,chinese_involvement,Construction/Equipment,the form of the Chinese government's assistance (grant or loan) is not stated; a Chinese state loan would make it Investment,2026-09-21
 ZWE-009,gps_coordinates,,site within Harare not stated,2026-09-21
 LBR-003,ixp_presence,,LBR-001's comments say CCL hosts LIXP; no record here confirms it,2026-09-21
-NAM-003,chinese_involvement,None identified,Huawei collaboration with MICT on an AI-ready national data centre praised by the President in July 2026; no contract or scope reported,2026-09-21
-NAM-003,dfi_involvement,None identified,AfDB Skills for Employability programme lists constructing a National Data Centre; whether it finances this facility is not stated,2026-09-21
-NAM-004,city,Windhoek,the site is not stated; NUST's main campus is in Windhoek,2026-09-21
-NAM-004,facility_type,,commercial or research use not established,2026-09-21
-NAM-004,ownership_type,Unknown,"who owns it, Airbus or NUST, is not stated",2026-09-21
 NER-002,gps_coordinates,,"site in Niamey not named; ECOWAS SIGTEL lists Niger's one government data centre at Soudouré near Niamey, which may be this facility or an older ANSI site",2026-09-21
 SWZ-001,expansion_plans,Unknown,hot DR site planned in 2023 with India Exim finance; current status and location not stated,2026-09-21
 UGA-004,carrier_neutrality,Fully carrier-neutral,Xalam (January 2026) names Raxio UG1 as Uganda's only carrier-neutral facility and calls MNO sites sub-scale hybrid telco facilities,2026-09-21
@@ -904,33 +788,10 @@ MUS-012,year_operational,,no source gives the year,2026-09-21
 MUS-013,carrier_neutrality,,Kaldera says colocation customers may use their own carriers; not stated as carrier-neutral,2026-09-21
 MUS-013,comments,"PeeringDB lists Kaldera's facility at 57 Cybercity (Ebene Mews), 3rd floor, Ebene. Kaldera, a licensed Mauritian ISP (AS37722), says it runs three data centres offering housing and co-location, managed hosting and cloud, with peering to MIXP; this row is the PeeringDB-listed site, and the other two are not located.",Kaldera's two other data centres are not located,2026-09-21
 ETH-010,gps_coordinates,"9.0249, 38.7469","coordinates are the MInT headquarters area, not the ICT Park",2026-09-21
-MOZ-014,expansion_plans,,Africa50 MoU (August 2025) covers rehabilitation of Maluana; whether works have started is not stated,2026-09-21
-SWZ-002,facility_type,Enterprise,"MTN Eswatini advertises colocation from 'a data centre' without naming the site; if it is Matsapha, Enterprise understates it",2026-09-21
-SWZ-002,operational_status,Operational,MTN's colocation page confirms a running data centre but not which of Matsapha or Lobamba,2026-09-21
-MOZ-015,operational_status,Unknown,only 2013-2014 sources; whether the rooftop DR centre still runs after the 2025 Matola data centre is not stated,2026-09-21
-MOZ-015,ownership_type,,Vodacom Mozambique's shareholders not sourced for this row; see MOZ-003 for the Vodacom chain,2026-09-21
 MOZ-015,gps_coordinates,,building not named,2026-09-21
-ZMB-006,city,Lusaka,"site address not stated; NetOne's head office is on Zambezi Road, Lusaka",2026-09-21
-ZMB-006,security_certifications,,'fault-tolerant Tier III certification' claimed by NetOne; not found in Uptime Institute's register,2026-09-21
-ZMB-006,year_operational,,not stated; page dated 2022,2026-09-21
-ZMB-006,ownership_type,,NetOne's owners not sourced,2026-09-21
-ZMB-007,operational_status,Operational,"one directory listing, undated",2026-09-21
-ZMB-007,facility_type,,listed as colocation; whether it is a captive telco site with colocation or a commercial facility is not stated,2026-09-21
-ZMB-007,ownership_type,,MTN Group's stake in MTN Zambia not sourced,2026-09-21
-ZWE-010,govt_data_hosted,Hosts government data alongside commercial,"TechnoMag lists government departments as customers of TelOne's hosting generally, not named for this site",2026-09-21
 ZWE-010,gps_coordinates,,Mazowe Earth Station location not taken from a source,2026-09-21
 ZWE-011,chinese_involvement,Construction/Equipment,Huawei equipment rests on DCmag alone,2026-09-21
-ZWE-011,it_capacity_mw,,only 400 kVA total reported,2026-09-21
-MWI-007,operational_status,Unknown,only a 2013 source,2026-09-21
-MWI-007,ownership_type,,Airtel Malawi plc's shareholders (Airtel Africa majority) not sourced for this row,2026-09-21
-NAM-005,ownership_type,,Paratus Namibia Holdings chain as on NAM-001; not restated here until the group pass settles it,2026-09-21
 NAM-005,total_floor_space_sqm,,not published,2026-09-21
-BWA-007,facility_name,BDIH Data Centre (Botswana Digital & Innovation Hub),"whether GIDC 1 on Uptime's list is this facility, and whether BWA-003 (Orange Botswana 'within the Botswana Digital Innovation Hub') is a tenant here rather than its own building",2026-09-21
-BWA-007,ownership_type,,BDIH is understood to be a state-owned company; not stated in these sources,2026-09-21
-BWA-007,year_operational,,Hub page dated 2020; opening year not stated,2026-09-21
-BWA-007,security_certifications,,Uptime award type for GIDC 1 not readable,2026-09-21
-LSO-005,operational_status,Operational,the 2025 contract is for government data hosting at MOFDP; it does not name this building,2026-09-21
-LSO-005,year_operational,,not stated,2026-09-21
 AGO-017,gps_coordinates,,site within Luanda not stated,2026-09-21
 GAB-005,services_offered,Colocation (cabinets and cages); Dedicated Internet Access; IP Transit; Ethernet Private Line; Wavelengths,Inflect's service list is a marketplace template,2026-09-21
 TZA-004,gps_coordinates,"-6.76, 39.21","-6.76, 39.21 is approximate; the landing station is at Mbezi Beach, further north on Bagamoyo Road",2026-09-21
