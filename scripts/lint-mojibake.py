@@ -143,7 +143,9 @@ def scan(path: Path) -> tuple[str, list[tuple[int, str, str]]] | None:
 def targets(args: argparse.Namespace) -> tuple[list[Path], list[Path]]:
     if args.paths:
         return [Path(p) for p in args.paths], []
-    inputs = sorted(CORPUS.glob("prep/**/*.csv")) + sorted(CORPUS.glob("lookups/*.csv"))
+    # outputs/datasets/ is maintained, not compiled (documentation/datasets.md), so it is an input.
+    inputs = (sorted(CORPUS.glob("prep/**/*.csv")) + sorted(CORPUS.glob("lookups/*.csv"))
+              + sorted(CORPUS.glob("outputs/datasets/**/*.csv")))
     derived: list[Path] = []
     if args.derived:
         derived = sorted(p for p in (CORPUS / "outputs").rglob("*")
