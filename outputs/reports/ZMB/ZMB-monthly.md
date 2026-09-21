@@ -1,11 +1,11 @@
 ---
 title: Zambia — monthly update, August – September 2026
-compiled: 2026-09-20
-period: 2026-08-01 to 2026-09-20
+compiled: 2026-09-21
+period: 2026-08-01 to 2026-09-21
 place: ZMB
-ledger_rows: 60
+ledger_rows: 61
 not_held: 46
-record: 766cd994e916
+record: 0b4b4d9f896f
 ---
 
 # Zambia: monthly update, August – September 2026
