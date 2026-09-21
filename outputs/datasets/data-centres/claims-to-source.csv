@@ -683,3 +683,78 @@ AGO-012,dfi_involvement,"Group level (Raxio Group), debt only: IFC up to $100M (
 AGO-012,recent_investments,"$30M build of this facility, opened October 2025 [Raxio](https://www.raxiogroup.com/raxio-opens-angolas-largest-data-centre-in-landmark-30-million-expansion/). Group level: up to $170M sustainability-linked debt (2023, of which $110M from Proparco and EAIF); up to $100M IFC debt (signed 2025) for a $293M ten-site programme that includes Angola; $46M equity (2023, Roha/Meridiam)",no readable source gives the $46M equity raise,2026-09-21
 AGO-013,facility_name,Angola National Data Centre (INFOSI),"FurtherAfrica (Feb 2023) describes a separate backup data centre at the existing National Data Centre next to ITEL in Rangel, Luanda; T8 to decide whether it needs its own row",2026-09-21
 AGO-013,operational_status,Under construction,the target was H1 2026 and the newest source is November 2025; nothing confirms whether it has opened,2026-09-21
+MOZ-001,total_floor_space_sqm,9500,"iColo's release gives a 9,500 sqm campus, but its 2023 spec sheet gives a total site area of 5,000 sqm",2026-09-21
+MOZ-002,parent_hq_country,USA,no source gives where Raxio Group is registered; its 2023 release is datelined Amsterdam,2026-09-21
+MOZ-002,ultimate_parent_hq_country,,"DCD calls Roha US-based, but no source gives Roha's or Meridiam's registration",2026-09-21
+MOZ-002,submarine_cable_access,Dark fibre connection to landing station,"the site is near three cable landings, but no source describes its route to them",2026-09-21
+MOZ-002,city,Matola,sources place MozParks on the outskirts of Maputo; Matola is plausible but not stated,2026-09-21
+MOZ-004,operational_status,Operational,no source after the 2013 order shows the site still running,2026-09-21
+MOZ-004,year_operational,2014,IT-Online (2013) says installation early 2014; DCD says the modular centre was installed in 2013,2026-09-21
+MOZ-004,carrier_neutrality,Single carrier / captive,"the operator's own core network site, so captive is likely; no source states it",2026-09-21
+MOZ-004,submarine_cable_access,Dark fibre connection to landing station,"DCD says 2Africa terminates in Vodacom Mozambique's equipment room in Matola, which may be this site; no source states the route",2026-09-21
+MOZ-005,it_capacity_mw,0.28,the 280 kW figure has no readable source,2026-09-21
+MOZ-005,parent_hq_country,MUS,"Data Center Map places SEACOM's HQ in Ebene, Mauritius; no source gives SEACOM Capital's registration",2026-09-21
+MOZ-005,ultimate_parent_hq_country,,"control is spread across Remgro, IPS, Sanlam, Convergence Partners and Herlihy; no source gives their registrations",2026-09-21
+MOZ-005,dfi_involvement,Group level: IFC $207M funding to SEACOM for submarine and terrestrial networks in seven countries including Mozambique [[Empower Africa](https://empowerafrica.com/seacom-secures-207-million-from-ifc-to-boost-digital-connectivity-in-africa-2/)],the 2023 date of the IFC $207M is not in the source,2026-09-21
+MOZ-006,year_operational,2005,"2005 is when BCX began operating in Mozambique, not when this data centre opened",2026-09-21
+MOZ-006,carrier_neutrality,Limited carriers,no source describes the carriers at the site,2026-09-21
+MOZ-006,submarine_cable_access,Connected via metro fibre,no source describes the site's route to a landing station,2026-09-21
+MOZ-007,submarine_cable_access,Connected via metro fibre,no source describes the site's route to a landing station,2026-09-21
+MOZ-008,submarine_cable_access,Connected via metro fibre,no source describes the site's route to a landing station,2026-09-21
+MOZ-008,services_offered,Academic research; University network; Internet; MozIX IXP node,no readable source says CIUEM hosts a MozIX node; Pulse shows UEM only as a member,2026-09-21
+MOZ-009,facility_name,Vodacom Nacala Cable Landing Station,likely the same facility as MOZ-010: DCD says Master Power opened the Nacala data centre at Vodacom's 2Africa launch there; for T8 to merge,2026-09-21
+MOZ-009,carrier_neutrality,Single carrier / captive,"an operator's own landing station, so captive is likely; no source states it",2026-09-21
+MOZ-010,facility_name,Master Power Technologies Nacala Data Centre,likely the same facility as MOZ-009 (Vodacom Nacala CLS): DCD says project partner MPT opened the Nacala data centre at Vodacom's 2Africa launch; for T8 to merge,2026-09-21
+MOZ-010,parent_company,Master Power Technologies,no source says who owns the Nacala facility; MPT is a builder and may be contractor rather than owner,2026-09-21
+MOZ-010,operator_name,Master Power Technologies (MPT),DCD calls MPT the project partner that opened the facility; no source says MPT runs it,2026-09-21
+MOZ-011,facility_name,Paratus Mozambique Data Centre (Maputo),"no source shows a Paratus data centre in Maputo: the group's March 2023 list of five data centres has none in Mozambique, and Paratus Africa (AS33763) is listed at iColo MPM1; for T8/T9 to confirm or retire the row",2026-09-21
+MOZ-011,year_operational,2017,"2017 is when Paratus Mozambique was founded, per the row's comments; no source dates a data centre",2026-09-21
+MOZ-011,carrier_neutrality,Fully carrier-neutral,"Paratus's carrier-neutral claim covers its five listed data centres, none in Mozambique",2026-09-21
+MOZ-011,submarine_cable_access,Dark fibre connection to landing station,no source describes a route to a landing station,2026-09-21
+MOZ-011,ultimate_parent_hq_country,NAM,"Paratus Group is Namibian-founded, but no source gives Paratus Group Holdings' country of registration",2026-09-21
+MOZ-011,ownership_structure_type,Private (ultimate) with public investment vehicle (PNH),no source places Paratus Namibia Holdings in the Mozambican chain,2026-09-21
+MOZ-012,facility_name,Tmcel Captive Data Centre (Maputo HQ),"no source shows a Tmcel data centre at its Maputo HQ; the sources describe the government's Maluana data centre (INTIC, Trade.gov) and an Africa50-financed new government data centre in Maputo (Club of Mozambique), for T8 to decide whether they need rows; T8/T9 to confirm or retire this one",2026-09-21
+MOZ-012,carrier_neutrality,Single carrier / captive,"an operator's own facility, so captive is likely; no source states it",2026-09-21
+MOZ-012,submarine_cable_access,Dark fibre connection to landing station,"TDM, part of Tmcel, controls access to the landings, but no source describes this facility's route",2026-09-21
+MOZ-013,facility_name,BCX Tete Office Technology Hub,BCX's Mozambique page lists an office in Tete City but no data centre; for T8/T9 to confirm or retire the row,2026-09-21
+GHA-001,year_operational,2021,MainOne expected service in Q4 2020; no source dates the opening to 2021,2026-09-21
+GHA-001,major_shareholders,"Of Equinix, Inc.: Vanguard Group (13.64%), BlackRock (10.99%), State Street (6.32%), FMR LLC (2.86%), Cohen & Steers (2.66%) [Yahoo Finance](https://finance.yahoo.com/quote/EQIX/holders/)",the Yahoo holders page returned no figures,2026-09-21
+GHA-001,key_tenants,MTN Ghana; Vodafone Ghana,no readable source names MTN Ghana or Vodafone Ghana as tenants,2026-09-21
+GHA-001,submarine_cable_access,Dark fibre connection to landing station,MainOne promised 'direct access' to its cable; no source says it is dark fibre,2026-09-21
+GHA-001,dfi_involvement,None identified for the facility. Group level: AfDB financed the MainOne cable (2009),the AfDB financing of the MainOne cable has no readable source,2026-09-21
+GHA-002,security_certifications,ISO 27001; PCI-DSS; SOC 2,ISO 27001 is not on Digital Realty's ACR2 page,2026-09-21
+GHA-002,submarine_cable_access,At or adjacent to cable landing station,sources say ACR2 'hosts' two cables and sits among subsea routes; none says it is at the landing station,2026-09-21
+GHA-003,parent_hq_country,ZAF,no source gives where PAIX Data Centres is registered,2026-09-21
+GHA-003,ultimate_parent_hq_country,MAR,"Africa50's Moroccan phone number fits Casablanca, but no source states its registration",2026-09-21
+GHA-003,services_offered,Carrier-neutral colocation; Disaster recovery; Remote hands; Bare metal; Peering; Internet exchange,peering and internet exchange services at ACC-1 have no readable Ghana source,2026-09-21
+GHA-004,services_offered,Tier IV colocation; Managed services; Cybersecurity; Virtual machines; Cloud and content solutions; Secure power,"managed services, cybersecurity, cloud and content solutions are not on the readable part of Onix's site",2026-09-21
+GHA-004,submarine_cable_access,Connected via metro fibre,DCD says only that the site is close to submarine cables,2026-09-21
+GHA-005,year_operational,2014,DCD's opening report is undated; no source gives 2014,2026-09-21
+GHA-005,total_floor_space_sqm,200,no readable source gives 200 m² of white space,2026-09-21
+GHA-005,security_certifications,ISO 27001; PCI-DSS,no readable source confirms ISO 27001 or PCI-DSS,2026-09-21
+GHA-005,submarine_cable_access,Connected via metro fibre,datacentermap says 'direct connection' to five cables without saying how,2026-09-21
+GHA-006,year_operational,2010,the row itself calls 2010 approximate; no source dates the facility,2026-09-21
+GHA-006,services_offered,Colocation; Shared rack space; Cages; Suites; Remote hands; Bare metal; Cloud services,"MTN's page offers rack-space colocation only; cages, suites, bare metal and cloud have no source",2026-09-21
+GHA-006,carrier_neutrality,Limited carriers,"an operator's own facility, so limited or captive is likely; no source states it",2026-09-21
+GHA-006,submarine_cable_access,Connected via metro fibre,no source describes the facility's route to a landing station,2026-09-21
+GHA-007,year_operational,2010,no source dates the facility to 2010,2026-09-21
+GHA-007,services_offered,Colocation; Shared rack space; Cages; Suites; Remote hands; Bare metal; Cloud services,"MTN's page offers rack-space colocation only; cages, suites, bare metal and cloud have no source",2026-09-21
+GHA-007,security_certifications,Unknown,the comments' Tier III certification is not on the readable datacentermap page,2026-09-21
+GHA-007,carrier_neutrality,Limited carriers,"an operator's own facility, so limited or captive is likely; no source states it",2026-09-21
+GHA-007,submarine_cable_access,Connected via metro fibre,no source describes the facility's route to a landing station,2026-09-21
+GHA-008,year_operational,2010,"2010 is when NTT bought Dimension Data, not when the Accra site opened",2026-09-21
+GHA-008,parent_company,NTT DATA Inc.,no readable source places NTT DATA Inc. between Internet Solutions Ghana and NTT,2026-09-21
+GHA-008,parent_hq_country,GBR,no readable source gives NTT DATA Inc.'s registration,2026-09-21
+GHA-008,carrier_neutrality,Limited carriers,Inflect lists one service provider; no source states the carrier policy,2026-09-21
+GHA-008,submarine_cable_access,Connected via metro fibre,no source describes the facility's route to a landing station,2026-09-21
+GHA-009,major_shareholders,"Richard Hlomador (Ghanaian, founder/CEO); other shareholders not publicly disclosed","Richard Hlomador is confirmed as founder and CEO, not as shareholder",2026-09-21
+GHA-009,carrier_neutrality,Limited carriers,PeeringDB shows a single network at the facility; no source states the carrier policy,2026-09-21
+GHA-009,submarine_cable_access,Connected via metro fibre,no source describes the facility's route to a landing station,2026-09-21
+GHA-010,submarine_cable_access,Dark fibre connection to landing station,no source describes a dark-fibre route to a landing station,2026-09-21
+GHA-010,ultimate_parent_company,None (standalone private; controlled by Econet Group / Strive Masiyiwa),"Econet Group is a named shareholder and Masiyiwa the founder-chairman, but no source says they control Cassava",2026-09-21
+GHA-010,operational_status,Planned,the comments cite a December 2024 Facebook post expecting construction in early 2025; no readable source shows work started,2026-09-21
+GHA-011,services_offered,Hyperscale data centre campus; Build-to-suit; Long lease; Power infrastructure; Renewable energy,"ALP offers land, power and permits; build-to-suit and long lease have no source",2026-09-21
+GHA-011,submarine_cable_access,Connected via metro fibre,ALP says only that the park has fibre connectivity,2026-09-21
+GHA-012,dfi_involvement,Past: DEG (German DFI) provided debt financing in 2015,no readable source gives DEG debt financing in 2015,2026-09-21
+GHA-012,services_offered,Mobile broadband; Data hosting; Captive operator DC; RAN support,data hosting at the facility has no source,2026-09-21
+GHA-012,submarine_cable_access,Connected via metro fibre,no source describes the facility's route to a landing station,2026-09-21
