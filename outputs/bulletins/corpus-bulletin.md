@@ -1,12 +1,12 @@
 ---
 type: bulletin
 title: Bulletin
-subtitle: Last updated 20-09-2026 at 19:56 — Covering sources published on 20 September 2026
+subtitle: Last updated 21-09-2026 at 10:58 — Covering sources published on 20 and 21 September 2026
 window_start: 2026-09-20
 window_end: 2026-09-21
-items: 15
-collected_to: 2026-09-20 19:56
-compiled: 2026-09-20 20:44
+items: 16
+collected_to: 2026-09-21 10:58
+compiled: 2026-09-21 15:37
 ---
 
 # Bulletin
@@ -44,6 +44,7 @@ compiled: 2026-09-20 20:44
 <option value="TCD">Chad</option>
 <option value="EGY">Egypt</option>
 <option value="KEN">Kenya</option>
+<option value="MRT">Mauritania</option>
 <option value="NAM">Namibia</option>
 <option value="NGA">Nigeria</option>
 <option value="SEN">Senegal</option>
@@ -178,6 +179,14 @@ Zimbabwe's president named the digital divide, online safety and fair artificial
 
 ### Connectivity
 
+<div class="bulletin-item" data-places="MRT" markdown="1">
+
+**[Les entités sous tutelle — Ministère de la Transformation numérique, de l'Innovation et de la Modernisation de l'Administration](https://mtnima.gov.mr/fr/les-entites-sous-tutelle/)** — Ministère de la Transformation numérique, de l'Innovation et de la Modernisation de l'Administration (MTNIMA), Mauritanie, 21 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MRT/" title="MRT">Mauritania</a>
+
+Mauritania's digital ministry lists the bodies under its supervision: a distance-learning centre, the postal operator, and the state company that owns the national fibre backbone, created by decree in 2014, alongside the regional connectivity projects it runs. The page states each body's mandate but gives no budget, staffing or performance figures. <span class="bulletin-item__also">*Also under [Other GovTech and e-Gov](#other-govtech-and-e-gov) and [Training and skills](#training-and-skills).*</span>
+
+</div>
+
 <div class="bulletin-item" data-places="EGY" markdown="1">
 
 **[رئيس الوزراء يتابع مستجدات العمل لعدد من مشروعات تكنولوجيا المعلومات](https://www.youm7.com/story/2026/9/20/رئيس-الوزراء-يتابع-مستجدات-العمل-لعدد-من-مشروعات-تكنولوجيا-المعلومات/7552399)** — Youm7, 20 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/EGY/" title="EGY">Egypt</a>
@@ -261,6 +270,14 @@ Summarised under [Regional collaboration](#regional-collaboration).
 </div>
 
 ### Other GovTech and e-Gov
+
+<div class="bulletin-item bulletin-item--xref" data-places="MRT" markdown="1">
+
+**[Les entités sous tutelle — Ministère de la Transformation numérique, de l'Innovation et de la Modernisation de l'Administration](https://mtnima.gov.mr/fr/les-entites-sous-tutelle/)** — Ministère de la Transformation numérique, de l'Innovation et de la Modernisation de l'Administration (MTNIMA), Mauritanie, 21 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MRT/" title="MRT">Mauritania</a>
+
+Summarised under [Connectivity](#connectivity).
+
+</div>
 
 <div class="bulletin-item bulletin-item--xref" data-places="KEN" markdown="1">
 
@@ -359,6 +376,14 @@ Summarised under [Data protection](#data-protection).
 </div>
 
 ### Training and skills
+
+<div class="bulletin-item bulletin-item--xref" data-places="MRT" markdown="1">
+
+**[Les entités sous tutelle — Ministère de la Transformation numérique, de l'Innovation et de la Modernisation de l'Administration](https://mtnima.gov.mr/fr/les-entites-sous-tutelle/)** — Ministère de la Transformation numérique, de l'Innovation et de la Modernisation de l'Administration (MTNIMA), Mauritanie, 21 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MRT/" title="MRT">Mauritania</a>
+
+Summarised under [Connectivity](#connectivity).
+
+</div>
 
 <div class="bulletin-item bulletin-item--xref" data-places="SEN KEN ZAF NGA XAF" markdown="1">
 
