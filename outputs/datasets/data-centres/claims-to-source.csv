@@ -589,3 +589,97 @@ CIV-008,gps_coordinates,"5.230347, -3.757779",identical to Equinix AB1's coordin
 CIV-009,ultimate_parent_hq_country,MDG|MUS|ARE,no source gives Axian Group Limited's registration; the three-country value mixes AXIAN Telecom's Mauritius and Dubai seats with the founder's origin,2026-09-21
 CIV-009,submarine_cable_access,Connected via metro fibre,no source describes the route to a landing station,2026-09-21
 CIV-009,gps_coordinates,"5.345, -4.024",approximate central Abidjan; the site is undisclosed,2026-09-21
+ETH-001,parent_hq_country,ARE,"no source gives Raxio Group's registration; the sources place it in Dubai (DIFC) and Amsterdam, and Raxio Finance BV is Dutch",2026-09-21
+ETH-001,ultimate_parent_hq_country,USA|FRA,DCD calls Roha US-based; Meridiam's fund registration is not given,2026-09-21
+ETH-001,foreign_ownership_pct,100% (non-African ownership),no source states Raxio Group wholly owns the Ethiopian operating entity,2026-09-21
+ETH-001,recent_investments,"Group level (Raxio Group): up to $170M sustainability-linked senior debt (2023), of which $110M from Proparco and EAIF; up to $100M IFC senior and subordinated loans (signed 2025) toward a $293M ten-site programme; $46M equity (2023, Roha/Meridiam)",the $46M 2023 equity figure is not in the readable text,2026-09-21
+ETH-001,dfi_involvement,"None identified for the facility. Group level (Raxio Group): IFC up to $100M debt ($60M senior, $40M subordinated; signed 2025, IDA Private Sector Window blended finance); Proparco and EAIF (PIDG) $110M of an up to $170M sustainability-linked senior debt facility (2023); MIGA insurance (2022). Debt only; no DFI equity",the MIGA 2022 cover is not in any readable source,2026-09-21
+ETH-001,key_tenants,Ethio Telecom; Safaricom; Cloud251; Ethiopian Electric Utility,"Ethio Telecom, Safaricom, Cloud251 and Ethiopian Electric Utility are named in no readable source",2026-09-21
+ETH-001,services_offered,Colocation; Cross Connect; Dark Fibre; IP Transit; Peering; CDN; Virtualised Services (SDN); Remote Hands; 24/7 NOC,"dark fibre, IP transit, peering, CDN and SDN are not in the operator's or DatacenterMap's service lists",2026-09-21
+ETH-001,gps_coordinates,"9.0272, 38.7894",approximate for the Ethio ICT Park; no source gives coordinates,2026-09-21
+ETH-002,parent_hq_country,TZA,Wingu Africa Group's registration is not given; the Stears brief puts its HQ in Dar es Salaam,2026-09-21
+ETH-002,ultimate_parent_hq_country,MUS|ZAF|MAR,"Africa Capitalworks' country of registration is not given; its site lists offices in Johannesburg, Casablanca and Ebene",2026-09-21
+ETH-002,dfi_involvement,Indirect via Africa Capitalworks historical backers (CDC/BII UK DFI in launch); no direct DFI equity/debt in Wingu; recent debt from commercial RMB,no readable source links CDC/BII to Africa Capitalworks,2026-09-21
+ETH-002,total_floor_space_sqm,2000,"the 2,000 m² white-space figure is in no readable source",2026-09-21
+ETH-002,services_offered,Colocation; Carrier-neutral interconnection; Cross Connect; IXP hosting (ADDIX); Cloud access; Remote Hands; Build-to-Suit,build-to-suit is not in the operator's or DatacenterMap's service lists,2026-09-21
+ETH-002,gps_coordinates,"9.0268, 38.7889",approximate for the Ethio ICT Park; no source gives coordinates,2026-09-21
+ETH-003,ultimate_parent_company,Ethiopian diaspora founders (unnamed group of ~10 professionals),the group of about ten founders is in no readable source; the sources say only Ethiopian-diaspora professionals,2026-09-21
+ETH-003,key_tenants,ArifPay; OrbitHealth; Zemen Bank,"ArifPay, OrbitHealth and Zemen Bank are named in no readable source",2026-09-21
+ETH-003,government_ownership_pct,Land grant and support from IPDC/Ethiopian gov for ICT Park site; no equity ([Shega](https://shega.co/news/diaspora-owned-it-firm-redfox-opens-first-modular-data-center-in-ict-park)),the IPDC land grant is in no readable source,2026-09-21
+ETH-003,security_certifications,"Tier III, Uptime certified (operator's claim); SOC 2; ISO 27001 (operator's claim)","Tier III certification, SOC 2 and ISO 27001 are the operator's claims; Uptime's register not checked",2026-09-21
+ETH-003,gps_coordinates,"9.0261, 38.7883",DatacenterMap says the exact location within Ethio ICT Park is not public,2026-09-21
+ETH-004,key_tenants,Zemen Bank; Rays Micro Finance; ZamZam Bank; Hijira Bank; Websprix; Amhara Bank,Amhara Bank is not among the five institutions FurtherAfrica names,2026-09-21
+ETH-004,server_vendors,Huawei,Huawei supplied the modular data centre; no source says the servers are Huawei's,2026-09-21
+ETH-004,security_certifications,Unknown,sources say built to Tier III standards / Tier III ready; no certification is reported,2026-09-21
+ETH-004,gps_coordinates,"9.0056, 38.7456",approximate for Gola Sefer; no source gives coordinates,2026-09-21
+ETH-005,operational_status,Under construction,DCD (Sept 2022) reports only a land sub-lease and plans; construction in 2026 is in no readable source,2026-09-21
+ETH-005,control_mechanisms,"Equity: GPE wholly owns Safaricom Ethiopia and Safaricom PLC holds a majority of GPE; Vodacom takes 55% of Safaricom under the acquisition agreed in Dec 2025 (completion expected Q1 2026), and Vodacom and Vodafone consolidate Safaricom",no source confirms completion of Vodacom's acquisition of the further 20% of Safaricom,2026-09-21
+ETH-005,services_offered,Telco-cloud; Colocation; Enterprise cloud; Network hosting,"colocation, enterprise cloud and network hosting are not stated; DCD says only telco-cloud",2026-09-21
+ETH-005,carrier_neutrality,Single carrier / captive,a telco-cloud facility is likely captive; no source states it,2026-09-21
+ETH-005,gps_coordinates,"9.0265, 38.7891",approximate for the IPDC ICT Park; no source gives coordinates,2026-09-21
+ETH-006,operational_status,Operational,DatacenterMap lists the site but gives no status; no readable source says it is live,2026-09-21
+ETH-006,year_operational,2022,2022 is inferred from Safaricom Ethiopia's rollout; no source dates the site,2026-09-21
+ETH-006,control_mechanisms,"Equity: GPE wholly owns Safaricom Ethiopia and Safaricom PLC holds a majority of GPE; Vodacom takes 55% of Safaricom under the acquisition agreed in Dec 2025 (completion expected Q1 2026), and Vodacom and Vodafone consolidate Safaricom",no source confirms completion of Vodacom's acquisition of the further 20% of Safaricom,2026-09-21
+ETH-006,city,Akaky Kaliti,DatacenterMap files the site under Addis Ababa at Kebele 43; Akaky Kaliti is a sub-city of Addis Ababa,2026-09-21
+ETH-006,gps_coordinates,"8.9508, 38.7956",approximate for Akaky Kaliti; no source gives coordinates,2026-09-21
+ETH-007,facility_name,Bitdeer Oromia (Geek Zone Data Centre PLC),"Bitdeer's marketplace lists Geek Zone Data Center PLC (Holeta, 70MW, powered Jan 2024) as a data centre not affiliated with Bitdeer, and DatacenterMap's 'Bitdeer Oromia' page repeats that description; T8 to decide whether Geek Zone hosts Bitdeer here or is a separate facility needing its own row",2026-09-21
+ETH-007,ownership_type,Joint venture (majority foreign),no source describes a joint venture; the split between Bitdeer and Geek Zone is unknown,2026-09-21
+ETH-007,parent_hq_country,SGP,sources give Bitdeer's HQ as Singapore; its country of registration is not given,2026-09-21
+ETH-007,investment_usd,7500000,the $7.5M figure is in no readable source,2026-09-21
+ETH-007,chinese_involvement,None identified,"Bitdeer's largest holders (Jihan Wu, Zhaofeng Zhao, Yishuo Hu) may be Chinese nationals; no source gives nationality. If so, this is Ownership",2026-09-21
+ETH-007,gps_coordinates,"9.0586, 38.3097","approximate from DatacenterMap's plus code 2G76+74W, Bobe",2026-09-21
+ETH-008,carrier_neutrality,Fully carrier-neutral,no source states carrier neutrality,2026-09-21
+ETH-008,parent_hq_country,ETH,no source gives the operating company's registration,2026-09-21
+ETH-008,ownership_structure_type,Private limited company (PLC),no source gives the legal form,2026-09-21
+ETH-008,ultimate_parent_hq_country,DEU,IPDC's country of origin for the investor is not a registration; owners unnamed,2026-09-21
+ETH-008,gps_coordinates,"9.0300, 38.7600",approximate; the operator says 'the center of Addis Ababa' while the land allocation is at ICT Park,2026-09-21
+ETH-010,facility_name,Ethiopian National Data Centre (cloud.gov.et),"DCD describes a planned Tier III national data centre at ICT Park (tenders then pending) and a separate existing MInT data centre serving public bodies; cloud.gov.et is a template with placeholder text and no longer resolves. No source shows the national centre was built; T8/T9 to confirm which facility this row is, or retire it",2026-09-21
+ETH-010,parent_company,Federal Democratic Republic of Ethiopia,no source states the legal owner; state ownership through MInT is inferred,2026-09-21
+ETH-010,gps_coordinates,"9.0249, 38.7469",approximate for the MInT HQ area; the planned site is at ICT Park,2026-09-21
+ETH-011,chinese_involvement,Construction/Equipment,"proposed only (talks, Sept 2024); upgrade to Investment if Shandong financing is confirmed, or clear if the talks lapse",2026-09-21
+ETH-011,rack_capacity,1000,"the 1,000-rack figure is Ethio Telecom's 2022 Green Data Center plan (FurtherAfrica, cited on ETH-004); no source ties it to the Shandong project",2026-09-21
+ETH-011,city,Addis Ababa,DCD says no location was shared,2026-09-21
+ETH-011,services_offered,Hyperscale cloud; Enterprise hosting; AI infrastructure,no source describes the planned services,2026-09-21
+ETH-012,operational_status,Under construction,the sources report the contract award; none says construction has started,2026-09-21
+ETH-012,services_offered,Government enterprise hosting; Network security; Internal MFA operations,no source describes the services beyond hosting the ministry,2026-09-21
+ETH-012,gps_coordinates,"9.0249, 38.7469",approximate; the MFA building's coordinates are not given,2026-09-21
+AGO-001,year_operational,2012,2012 is plausible (Angonix opened here in March 2015) but no source gives the opening year,2026-09-21
+AGO-001,submarine_cable_access,Dark fibre connection to landing station,SACS and WACS land at Sangano; no source describes the facility's link to the landing station,2026-09-21
+AGO-001,carrier_neutrality,Fully carrier-neutral,the catalogue calls Angonix carrier-neutral; nothing states the facility's own neutrality,2026-09-21
+AGO-001,services_offered,Colocation; IP Transit; Internet Peering; IXP hosting (AngonIX); Carrier interconnect; Cloud connect (ACloud Connect to AWS/Oracle/GCP/IBM),"no source names a cloud connect service to AWS, Oracle, GCP or IBM",2026-09-21
+AGO-001,dfi_involvement,None found (JBIC financed SACS cable via BDA; not direct DFI equity/project finance),"JBIC financing of SACS through BDA is plausible but unsourced here, and concerns the cable, not the facility",2026-09-21
+AGO-002,ultimate_parent_hq_country,NAM,"Paratus Group is Namibian-founded, but no source gives Paratus Group Holdings' country of registration",2026-09-21
+AGO-002,ownership_structure_type,Private (ultimate) with public investment vehicle (PNH),"no source places Paratus Namibia Holdings, which bought Paratus Namibia, in the Angolan chain",2026-09-21
+AGO-002,services_offered,Colocation; Cloud hosting; Virtual servers; Online backup; VPN; Satellite services; Remote Hands,VPN is not among the services Paratus lists for the Luanda data centres,2026-09-21
+AGO-003,ultimate_parent_hq_country,NAM,"Paratus Group is Namibian-founded, but no source gives Paratus Group Holdings' country of registration",2026-09-21
+AGO-003,ownership_structure_type,Private (ultimate) with public investment vehicle (PNH),"no source places Paratus Namibia Holdings, which bought Paratus Namibia, in the Angolan chain",2026-09-21
+AGO-003,services_offered,Colocation; Cloud hosting; Virtual servers; Online backup; VPN; Satellite services; Carrier-neutral connectivity; Remote Hands,VPN is not among the services Paratus lists for the Luanda data centres,2026-09-21
+AGO-004,operational_status,Planned,the newest source (Nov 2023) speaks of financing its completion; nothing since says whether construction started,2026-09-21
+AGO-004,submarine_cable_access,Dark fibre connection to landing station,no source describes the planned facility's route to a landing station,2026-09-21
+AGO-004,ultimate_parent_hq_country,NAM,"Paratus Group is Namibian-founded, but no source gives Paratus Group Holdings' country of registration",2026-09-21
+AGO-004,ownership_structure_type,Private (ultimate) with public investment vehicle (PNH),"no source places Paratus Namibia Holdings, which bought Paratus Namibia, in the Angolan chain",2026-09-21
+AGO-005,facility_name,MSTelcom TCC (Telecom Command Centre),"Africa-Press (Feb 2026) describes Sonangol's new corporate data centre in Luanda (920 m² building, 400 m² data hall), a separate facility from MSTelcom's; T8 to decide whether it needs its own row",2026-09-21
+AGO-005,submarine_cable_access,Dark fibre connection to landing station,no source describes the facility's link to a landing station; Datacentermap gives only metro fibre and radio,2026-09-21
+AGO-006,facility_name,MSTelcom ZEE DC,"Africa-Press (Feb 2026) describes Sonangol's new corporate data centre in Luanda (920 m² building, 400 m² data hall), a separate facility from MSTelcom's; T8 to decide whether it needs its own row",2026-09-21
+AGO-006,submarine_cable_access,Connected via metro fibre,Datacentermap gives three metro fibre routes on MSTelcom's backbone but not the route to a landing station,2026-09-21
+AGO-007,facility_name,MSTelcom Benfica DC,"Africa-Press (Feb 2026) describes Sonangol's new corporate data centre in Luanda (920 m² building, 400 m² data hall), a separate facility from MSTelcom's; T8 to decide whether it needs its own row",2026-09-21
+AGO-007,submarine_cable_access,Connected via metro fibre,Datacentermap gives two fibre routes and radio links but not the route to a landing station,2026-09-21
+AGO-007,operational_status,Operational,Datacentermap's undated listing still describes the warehouse in the future tense; no dated source confirms operation,2026-09-21
+AGO-008,submarine_cable_access,Connected via metro fibre,no source describes the facility's route to a landing station,2026-09-21
+AGO-008,dfi_involvement,IFC: advisory services to Unitel Money subsidiary for financial inclusion (no equity),"IFC advisory work for Unitel Money is plausible but unsourced, and is not financing of the facility",2026-09-21
+AGO-009,submarine_cable_access,Connected via metro fibre,no source describes the facility's route to a landing station,2026-09-21
+AGO-009,dfi_involvement,IFC: advisory services to Unitel Money subsidiary for financial inclusion (no equity),"IFC advisory work for Unitel Money is plausible but unsourced, and is not financing of the facility",2026-09-21
+AGO-009,services_offered,Colocation; Business continuity; DR mirroring; IP Transit,Inflect names no services; business continuity and DR mirroring rest on Unitel's Luanda Sul listing,2026-09-21
+AGO-010,ownership_type,Private domestic,"an Angolan private company by every description, but no source names its shareholders",2026-09-21
+AGO-010,submarine_cable_access,Connected via metro fibre,no source describes the facility's route to a landing station,2026-09-21
+AGO-011,ultimate_parent_company,Africell Global Holdings Ltd,"Africell Global Holdings Ltd in Jersey fits the Jersey address on the UK register, but no readable source names it",2026-09-21
+AGO-011,dfi_involvement,"None identified for the facility. Group level: OPIC (now DFC) $100M loan (2019) to Africell Holding Limited for networks in The Gambia, Sierra Leone, DRC and Uganda [DFC](https://www.dfc.gov/sites/default/files/2019-08/9000042686.pdf); IFC loan ($35-39M)",no readable source gives the IFC loan,2026-09-21
+AGO-011,carrier_neutrality,Single carrier / captive,"an operator's own network facility, so captive is likely; no source states it",2026-09-21
+AGO-011,submarine_cable_access,Connected via metro fibre,no source describes the facility's route to a landing station,2026-09-21
+AGO-012,parent_hq_country,GBR,"sources give Raxio Group addresses in Amsterdam and Dubai, and its finance arm is Dutch; none gives its registration",2026-09-21
+AGO-012,submarine_cable_access,Dark fibre connection to landing station,Raxio says the site is close to the landing stations; no source describes the link,2026-09-21
+AGO-012,ixp_presence,IXP hosted on-site,the October 2025 sources say the site will host Angola's IXP; nothing yet confirms the move,2026-09-21
+AGO-012,dfi_involvement,"Group level (Raxio Group), debt only: IFC up to $100M (senior $60M, subordinated $40M; signed 2025) for a platform that includes Angola; Proparco and EAIF $110M of an up to $170M sustainability-linked facility (2023); MIGA (insurance/policy 2022)",no readable source gives a MIGA guarantee,2026-09-21
+AGO-012,recent_investments,"$30M build of this facility, opened October 2025 [Raxio](https://www.raxiogroup.com/raxio-opens-angolas-largest-data-centre-in-landmark-30-million-expansion/). Group level: up to $170M sustainability-linked debt (2023, of which $110M from Proparco and EAIF); up to $100M IFC debt (signed 2025) for a $293M ten-site programme that includes Angola; $46M equity (2023, Roha/Meridiam)",no readable source gives the $46M equity raise,2026-09-21
+AGO-013,facility_name,Angola National Data Centre (INFOSI),"FurtherAfrica (Feb 2023) describes a separate backup data centre at the existing National Data Centre next to ITEL in Rangel, Luanda; T8 to decide whether it needs its own row",2026-09-21
+AGO-013,operational_status,Under construction,the target was H1 2026 and the newest source is November 2025; nothing confirms whether it has opened,2026-09-21

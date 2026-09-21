@@ -117,7 +117,7 @@ def cloud_act(row):
     hq = {c.strip() for c in row["ultimate_parent_hq_country"].split("|") if c.strip()}
     if not hq:
         return "Unknown"
-    if "USA" in hq:
+    if "USA" in hq or row["control_category"] == "US control":  # Africell: Jersey-registered, US-controlled
         return "Yes (US-parented operator)"
     if any(row[h] == "Yes" for h in HYPER):
         return "Partial (US hyperscaler service on site)"
