@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-09-21 23:46 · **REVIEW** · 12m · DJI: status 11 sections revised, progress 30 cells, monthly 5 blocks, finance 13 rows read 1 defect; 1 deal queued, 1 note for OSINT — ok
 2026-09-21 23:34 · **REVIEW** · 18m · CPV: status 13 sections revised, progress 13 cells, monthly 9 blocks, finance 22 rows read 5 defects; 0 deals queued, 1 note for OSINT — ok
 2026-09-21 23:16 · **BUILD** · 31m · catalogue 23393; finance 62 places, 1478 deals; 50 units, 419 sources, ~40 rows moved, ~150 minted, 13 status baselines revised; data centres 174 records, 112 rows, 4 added; topics 76; bulletin 57; 41 register hits stand — ok
 2026-09-21 22:45 · **NOTES** · 10m · note 47 held open as the pacing record: READY on ZAF and data-centre batch-01..03 (184), 13 batches to go at ~190 a close; OSINT's uncommitted pulls, note 158 close and fetch-list 76-77 committed
