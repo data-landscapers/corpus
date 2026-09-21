@@ -861,3 +861,111 @@ TZA-015,ownership_type,Private domestic,a '(T) Ltd' company is Tanzanian-registe
 TZA-015,gps_coordinates,"-6.862934, 39.206499","comments say PeeringDB, but PeeringDB's geocode is blank; only the Nyerere Rd address is given",2026-09-21
 TZA-016,city,Dodoma,"eGA's headquarters is in Dodoma, but no readable source places the Government Data Centre there",2026-09-21
 TZA-016,submarine_cable_access,Landlocked/no submarine cable access,"plausible for an inland site, but no source describes its connectivity",2026-09-21
+EGY-001,security_certifications,ISO 27001,ISO 27001 is plausible for Telecom Egypt but no readable source states it; the sources give only Uptime Tier III,2026-09-21
+EGY-001,submarine_cable_access,Dark fibre connection to landing station,Telecom Egypt says the RDH connects to all 10 landing stations; no source says whether over dark fibre,2026-09-21
+EGY-001,parent_company,Telecom Egypt,the Helios offer concerns a subsidiary that will own the RDH; no source says whether it yet exists or if the sale completed,2026-09-21
+EGY-002,operational_status,Operational,"no readable source describes the facility; DataCenterMap's Regional Data Hub page lists an Etisalat Misr data centre at KM 28 Cairo-Alexandria Desert Rd, 0.5 km from Smart Village",2026-09-21
+EGY-002,year_operational,2007,"2007 is when Etisalat Misr launched commercially, per Uptime; no source dates the data centre",2026-09-21
+EGY-002,services_offered,Colocation; Carrier services; Cloud; DDoS mitigation,no readable source lists the services at this facility,2026-09-21
+EGY-002,carrier_neutrality,Limited carriers,limited carriers is plausible for an operator's own site; no source states it,2026-09-21
+EGY-002,submarine_cable_access,Connected via metro fibre,no source describes the facility's route to a landing station,2026-09-21
+EGY-003,facility_name,Etisalat Misr Mokattam Data Centre,no readable source shows an Etisalat Misr data centre in Mokattam; the comment cites Uptime records the packet could not read. For T8/T9 to confirm or retire,2026-09-21
+EGY-003,year_operational,2007,"2007 is when Etisalat Misr launched commercially, per Uptime; no source dates the data centre",2026-09-21
+EGY-003,services_offered,Enterprise hosting; Managed services; Network hub,no readable source lists the services at this facility,2026-09-21
+EGY-003,carrier_neutrality,Limited carriers,no source states it,2026-09-21
+EGY-003,submarine_cable_access,Connected via metro fibre,no source describes the facility's route to a landing station,2026-09-21
+EGY-004,facility_name,GPX Cairo 1 Data Center (MEIX),the MEIX name rests on an unreadable DataCenterMap page,2026-09-21
+EGY-004,city,Cairo (Heliopolis/Almaza),LinkedIn gives GPX's Cairo office in Almaza; no source places the Cairo 1 facility there,2026-09-21
+EGY-005,operational_status,Operational,"the newest readable source (DCD, May 2023) has Cairo 2 operating; nothing since confirms it or the expansion's Q1 2025 phase 1",2026-09-21
+EGY-006,facility_name,Raya Data Center (6th of October HQ),"the sources describe RDC's funded greenfield Tier III data centre (construction from early 2025, location undisclosed), which has no row; for T8 to decide whether it needs one",2026-09-21
+EGY-006,it_capacity_mw,1,1 MW is plausible for a 350 sqm hall; no source gives it,2026-09-21
+EGY-006,security_certifications,ISO 27001,ISO 27001 (BSI) is plausible; no readable source states it,2026-09-21
+EGY-006,cloud_platform,OpenStack,OpenStack is plausible; no source describes RDC's platform,2026-09-21
+EGY-006,carrier_neutrality,Fully carrier-neutral,no source states it,2026-09-21
+EGY-006,submarine_cable_access,Connected via metro fibre,no source describes the route to a landing station,2026-09-21
+EGY-007,operational_status,Operational,"Raya lists three sites (6th of October, Maadi, New Cairo) but Africa50 (Dec 2024) says RDC operates two data centres; which two is not said",2026-09-21
+EGY-007,year_operational,2014,no source dates the Maadi site,2026-09-21
+EGY-007,security_certifications,ISO 27001,ISO 27001 is plausible; no readable source states it,2026-09-21
+EGY-007,carrier_neutrality,Fully carrier-neutral,no source states it,2026-09-21
+EGY-007,submarine_cable_access,Connected via metro fibre,no source describes the route to a landing station,2026-09-21
+EGY-008,operational_status,Operational,"Raya lists three sites (6th of October, Maadi, New Cairo) but Africa50 (Dec 2024) says RDC operates two data centres; which two is not said",2026-09-21
+EGY-008,year_operational,2016,no source dates the New Cairo site,2026-09-21
+EGY-008,security_certifications,ISO 27001,ISO 27001 is plausible; no readable source states it,2026-09-21
+EGY-008,carrier_neutrality,Fully carrier-neutral,no source states it,2026-09-21
+EGY-008,submarine_cable_access,Connected via metro fibre,no source describes the route to a landing station,2026-09-21
+EGY-009,server_vendors,HP; Dell,the profile says the data centre was built on HP technology; Dell is in no source,2026-09-21
+EGY-009,submarine_cable_access,Connected via metro fibre,plausible for an inland Cairo-area facility; no source describes its route to a landing station,2026-09-21
+EGY-009,ownership_structure_type,Private joint venture with govt and private investors,"NTC's state status, and so the government side of the joint venture, is in no source",2026-09-21
+EGY-010,server_vendors,HP; Dell,"the profile says the data centre was built on HP technology; Dell is in no source, and the profile's HP build may be Data Centre I's",2026-09-21
+EGY-010,submarine_cable_access,Connected via metro fibre,plausible for an inland Cairo-area facility; no source describes its route to a landing station,2026-09-21
+EGY-010,ownership_structure_type,Private joint venture with govt and private investors,"NTC's state status, and so the government side of the joint venture, is in no source",2026-09-21
+EGY-010,year_operational,2005,no source dates the second ECC facility,2026-09-21
+EGY-010,security_certifications,Unknown,ECC's ISO 27001/9001 and PCI DSS claim is for 'the data center' at 6th of October; whether it covers this site is unstated,2026-09-21
+EGY-010,facility_name,ECC Solutions Data Centre II (Giza),exists: DataCenterMap lists ECC Solutions with 2 data centres and ECC Solutions II at 3 El-Malek El-Fadl; no source describes it further,2026-09-21
+EGY-011,submarine_cable_access,Connected via metro fibre,plausible for a Cairo facility; no source describes its route to a landing station,2026-09-21
+EGY-011,facility_name,LINKDATACENTER (Mohandessin),"DataCenterMap lists LINKDATACENTER at 3 Mousadak St, Mohandessin, separately from LDC Cairo in Maadi (EGY-012), but Link Datacenter's own page describes one data centre; T8 to decide whether EGY-011 and EGY-012 are one facility",2026-09-21
+EGY-011,year_operational,1996,1996 is Link Datacenter's founding year; no source dates this site,2026-09-21
+EGY-011,city,Giza (Mohandessin),DataCenterMap lists the address only; no readable source describes the Mohandessin site,2026-09-21
+EGY-012,submarine_cable_access,Connected via metro fibre,plausible for a Cairo facility; no source describes its route to a landing station,2026-09-21
+EGY-012,facility_name,LDC Cairo (Maadi),"DataCenterMap lists LDC Cairo (94 Rd 105, Hadayek El Maadi) 0.4 km from the former LINKdotNET data centre now Orange Egypt Cairo (EGY-013), and LINKDATACENTER at Mohandessin (EGY-011) separately; Link Datacenter's page describes one data centre. T8 to decide whether EGY-011 and EGY-012 are one facility",2026-09-21
+EGY-013,security_certifications,ISO 27001,ISO 27001 is in no readable source,2026-09-21
+EGY-013,cloud_platform,Orange Cloud,Orange Egypt offers public and private cloud; the name 'Orange Cloud' is in no source,2026-09-21
+EGY-013,submarine_cable_access,Connected via metro fibre,plausible for a Cairo facility; no source describes its route to a landing station,2026-09-21
+EGY-013,control_mechanisms,"Double voting rights for shares held >2 years in registered form; 3 public sector directors on 15-member board (7 independent, 3 employee reps, 1 employee-shareholder seat vacant); no golden share ([Orange Board](https://www.orange.com/en/our-group/our-governance/our-board-of-directors))",double voting rights and the absence of a golden share are in no readable source,2026-09-21
+EGY-014,year_operational,2022,sources of November 2021 say phase 1 would open soon; none dates the opening. DCD (April 2024) confirms Orange has a data centre in Alexandria,2026-09-21
+EGY-014,server_vendors,Huawei,DCD says Huawei is the development partner; no source says the servers are Huawei's,2026-09-21
+EGY-014,submarine_cable_access,At or adjacent to cable landing station,adjacency to the Alexandria and Abu Talat landing stations is in no readable source,2026-09-21
+EGY-014,cloud_platform,Orange Cloud,the name 'Orange Cloud' is in no source,2026-09-21
+EGY-014,control_mechanisms,"Double voting rights for shares held >2 years in registered form; 3 public sector directors on 15-member board (7 independent, 3 employee reps, 1 employee-shareholder seat vacant); no golden share ([Orange Board](https://www.orange.com/en/our-group/our-governance/our-board-of-directors))",double voting rights and the absence of a golden share are in no readable source,2026-09-21
+EGY-015,year_operational,2022,"trial operation was due early 2022 (DCD, November 2021); no source dates the opening",2026-09-21
+EGY-015,carrier_neutrality,Limited carriers,DCD calls it a commercial and telco data centre; no source says how many carriers,2026-09-21
+EGY-015,cloud_platform,Government cloud; Orange Cloud,DCD says cloud hosting is offered; 'Government cloud; Orange Cloud' is in no source,2026-09-21
+EGY-015,submarine_cable_access,Connected via metro fibre,plausible for an inland facility; no source describes its route to a landing station,2026-09-21
+EGY-015,facility_name,ACUD Capital Data Centre (New Administrative Capital),"Orascom's second New Capital project, a 133-rack and a 1088-rack data centre, is a separate facility; T8 to decide whether it needs its own row",2026-09-21
+EGY-016,operator_name,Ministry of Communications and Information Technology (MCIT),the Communications Minister opened it and the Defence Minister attended; no source says who runs it,2026-09-21
+EGY-016,carrier_neutrality,Single carrier / captive,a captive government network is likely; no source states it,2026-09-21
+EGY-016,ownership_type,Government / SOE,no source names the owning body; state ownership follows from the facility's nature,2026-09-21
+EGY-017,ownership_structure_type,Subsidiary of state-controlled stock exchange operator,EGX's state control is plausible but no readable source states EGX's legal status,2026-09-21
+EGY-017,government_ownership_pct,EGX: Majority or full effective government control (specific % not found; operates as state-regulated exchange),no readable source states the government's hold on EGX,2026-09-21
+EGY-017,submarine_cable_access,Connected via metro fibre,plausible for a New Cairo site; no source describes its route to a landing station,2026-09-21
+EGY-017,carrier_neutrality,Limited carriers,Zawya says the site has four internet sources; no source says whether tenants choose their carrier,2026-09-21
+EGY-018,facility_name,EgyptNetwork Data Centre (Mansoura),no readable source shows an EgyptNetwork data centre in Mansoura exists (the DataCenterMap page is unreadable); T8/T9 to confirm or retire the row,2026-09-21
+EGY-018,parent_company,EgyptNetwork,no source states EgyptNetwork's owner,2026-09-21
+EGY-018,ultimate_parent_company,Cequens (founder-controlled private company),no source links EgyptNetwork to Cequens; the Cequens pages do not mention it,2026-09-21
+EGY-018,ultimate_parent_hq_country,ARE,follows the unsourced Cequens parent,2026-09-21
+EGY-018,major_shareholders,"Founders Karim Khorshed (CEO), Ahmed Shabrawy (co-founder); undisclosed VC investors (~$2M total funding); percentages unknown",the Cequens founders and funding figure have no readable source (TeaserClub unreadable),2026-09-21
+EGY-018,foreign_ownership_pct,Majority (UAE-based parent),follows the unsourced UAE parent,2026-09-21
+EGY-018,year_operational,2003,no readable source gives the year,2026-09-21
+EGY-018,facility_type,Colocation/carrier-neutral,no readable source describes the facility's service model,2026-09-21
+EGY-018,services_offered,Web hosting; Dedicated servers; Colocation; Managed hosting; ISP services,no readable source lists the facility's services; LinkedIn describes Microsoft IT services,2026-09-21
+EGY-018,carrier_neutrality,Fully carrier-neutral,the three backbone providers in comments have no readable source,2026-09-21
+EGY-018,server_vendors,Cisco,Cisco routing in comments has no readable source,2026-09-21
+EGY-019,ultimate_parent_company,"Sheikh Tahnoon bin Zayed Al Nahyan / Royal Group (RGH1 Investment SPV), through G42 and Khazna; Benya Group (Egyptian side, owners not stated)",Benya Group's own owners are not stated in any source,2026-09-21
+EGY-019,services_offered,Hyperscale colocation; Cloud hosting; AI compute; International connectivity; Carrier-neutral services,the facility is not built; no source lists the services it will advertise,2026-09-21
+EGY-019,carrier_neutrality,Fully carrier-neutral,no source states carrier neutrality for this facility,2026-09-21
+EGY-019,submarine_cable_access,Connected via metro fibre,no source describes the site's route to a landing station,2026-09-21
+EGY-020,investment_usd,1800000000,"the sources give €1.8 billion as a planning assumption, not $1.8 billion; needs converting at a dated rate",2026-09-21
+EGY-020,ultimate_parent_company,Green Art Pith d.o.o. (Croatia),Green Art Pith d.o.o. is plausible (NEOIX was GreenArt Invest PLC until June 2025) but no readable filing names it,2026-09-21
+EGY-020,ultimate_parent_hq_country,HRV,follows the unsourced Croatian parent,2026-09-21
+EGY-020,major_shareholders,Green Art Pith d.o.o. (99.99%); H. Slipicevic (90% of parent),"the 99.99% and 90% holdings have no readable source; the accounts excerpt has no register, and the shares now trade in Düsseldorf",2026-09-21
+EGY-020,foreign_ownership_pct,100%,plausible for a UK developer; no source describes the Egyptian project company,2026-09-21
+EGY-020,carrier_neutrality,Fully carrier-neutral,no source states carrier neutrality for this facility,2026-09-21
+EGY-020,submarine_cable_access,Connected via metro fibre,no source describes the site's route to a landing station,2026-09-21
+EGY-021,operational_status,Planned,the newest source on the project is the February 2023 MoU; nothing since shows it advancing,2026-09-21
+EGY-021,year_operational,2027,no source gives a target year; the MoU speaks only of 300 MW in 5-7 years,2026-09-21
+EGY-021,services_offered,Hyperscale colocation; Carrier-neutral; Cloud; Enterprise; Government,"the complexes are not built; sources say only that banks, ministries and companies are expected to use them",2026-09-21
+EGY-021,submarine_cable_access,Connected via metro fibre,"no site is named, so no route to a landing station is known",2026-09-21
+EGY-022,year_operational,2026,no source gives a completion year,2026-09-21
+EGY-022,city,Cairo (location TBD),the site is undisclosed; Cairo is plausible since Raya's existing data centres are there,2026-09-21
+EGY-022,carrier_neutrality,Fully carrier-neutral,no source states carrier neutrality for the new facility,2026-09-21
+EGY-022,submarine_cable_access,Connected via metro fibre,"no site is known, so no route to a landing station is known",2026-09-21
+EGY-022,security_certifications,ISO 27001,ISO 27001 is plausible for Raya Data Center; no readable source states it,2026-09-21
+EGY-023,city,Cairo (Maadi),no readable source places the data centre in Maadi,2026-09-21
+EGY-023,year_operational,2006,no readable source gives the year,2026-09-21
+EGY-023,cloud_platform,VMware Cloud; Vodafone Cloud,the VMware Cloud Verified claim in comments has no readable source,2026-09-21
+EGY-023,security_certifications,ISO 27001; ISO 27017,ISO 27001 and 27017 have no readable source,2026-09-21
+EGY-023,submarine_cable_access,Connected via metro fibre,no source describes the site's route to a landing station,2026-09-21
+EGY-024,year_operational,2000,no readable source gives the year the six facilities opened,2026-09-21
+EGY-024,services_offered,Colocation; Managed hosting; Carrier services; Government services,the press release says only that the six are commercial data centres,2026-09-21
+EGY-024,submarine_cable_access,Dark fibre connection to landing station,the dark-fibre link in comments has no readable source; the press release's landing-station links describe the new Smart Village data centre,2026-09-21
+EGY-024,cloud_platform,Telecom Egypt WE Cloud,no readable source names WE Cloud at these facilities,2026-09-21
