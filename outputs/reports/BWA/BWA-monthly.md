@@ -1,11 +1,11 @@
 ---
 title: Botswana — monthly update, August – September 2026
-compiled: 2026-09-18
-period: 2026-08-01 to 2026-09-18
+compiled: 2026-09-21
+period: 2026-08-01 to 2026-09-21
 place: BWA
-ledger_rows: 35
+ledger_rows: 37
 not_held: 8
-record: 1b469c24b791
+record: f7611cb9950a
 ---
 
 # Botswana: monthly update, August – September 2026
@@ -110,6 +110,11 @@ A tax adviser's reading of the new Value Added Tax Act, in force since 1 July, [
 
 ## Technology
 
+### AI
+
+<!-- narrative: technology--tech-ai -->
+
+<!-- /narrative -->
 ### ICT Industry
 
 <!-- narrative: technology--tech-industry -->
