@@ -56,6 +56,7 @@ GOOD = {
     "programme_code": "01101", "programme": "Management and Administration",
     "sub_programme_code": "01101004", "sub_programme": "Research, Statistics and IM",
     "econ_class": "",
+    "admin_head_basis": "printed", "programme_basis": "printed", "programme_level": "programme",
     "line_name": "Management and Administration — Research, Statistics and IM",
     "purpose": "Runs the ministry's district development data platform and its databases.",
     "primary_subject": "data.statistics",
@@ -191,13 +192,41 @@ try:
     else:
         print("  skip  a citation naming nothing held — no catalogue built")
 
+    print("\nthe admin head and the programme")
+    # Every row names both and says how it knows (Bill, 2026-09-22). A sitting's row fails
+    # without them; a migrated row is held to a per-country ceiling that only falls.
+    for label, want, over in [
+        ("a sitting's row with no programme", "programme is empty",
+         dict(programme="", programme_basis="", programme_level="")),
+        ("a basis outside the list", "admin_head_basis 'guessed'",
+         dict(admin_head_basis="guessed")),
+        ("a basis with nothing under it", "admin_head_basis is 'printed' and admin_head is empty",
+         dict(origin_record="x-rec", admin_head="")),
+        ("a level outside the list", "programme_level 'ministry'",
+         dict(programme_level="ministry")),
+    ]:
+        d = tmp / label.replace(" ", "-").replace("'", "")
+        write(d, "GHA", "2024", [row(**over)])
+        check(label, any(want in f for f in failures(d)), True)
+
+    short = dict(origin_record="x-rec", programme="", programme_basis="", programme_level="")
+    d = tmp / "ceiling"
+    write(d, "GHA", "2024", [row(**short), row(**short, deal_id="gha-2024-011-01102")])
+    check("no ceiling file: migrated rows short of a programme pass", failures(d), [])
+    (d / bs.GAPS_FILE).write_text("country,rows\n GHA,1\n".replace(" ", ""), encoding="utf-8-sig")
+    check("above its ceiling fails", any("ceiling" in f for f in failures(d)), True)
+    bs.ratchet(str(d))
+    check("the ratchet never raises a ceiling", bs.read_gaps(str(d)), {"GHA": 1})
+    (d / bs.GAPS_FILE).write_text("country,rows\nGHA,2\n", encoding="utf-8-sig")
+    check("at its ceiling passes", failures(d), [])
+
     print("\nthe second bar — a migrated row")
     # A row carrying `origin_record` came out of an OSINT record and is held to
     # REQUIRED_MIGRATED. The point of the pair of cases below is that the bar moves and does
     # not vanish: the fields the records genuinely never carried are allowed through, and the
     # ones that identify a line are not.
     thin = dict(GOOD)
-    for c in ("fy_calendar", "admin_head", "admin_head_code", "scope_basis",
+    for c in ("fy_calendar", "admin_head", "admin_head_code", "admin_head_basis", "scope_basis",
               "purpose", "funding_source", "amount_scale", "source_slug",
               "doc_type", "doc_locator", "fy_end"):
         thin[c] = ""

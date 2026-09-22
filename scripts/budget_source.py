@@ -75,6 +75,8 @@ COLUMNS = (
     # the classification chain — names and codes, verbatim, never invented
     "admin_head_code", "admin_head", "spending_entity_code", "spending_entity",
     "programme_code", "programme", "sub_programme_code", "sub_programme", "econ_class",
+    # where the head and the programme came from, and what grain "programme" is
+    "admin_head_basis", "programme_basis", "programme_level",
     # what the line is
     "line_name", "purpose", "primary_subject",
     # is it digital
@@ -112,6 +114,26 @@ FUNDING = {"domestic-revenue", "domestic-borrowing", "own-source",
 SUPP_BASIS = {"", "increment", "restated-total", "unclear"}
 SOURCE_TIER = {"budget-document", "official-statement", "project-document", "reporting"}
 
+# **Every row names its admin head and its programme** *(Bill, 2026-09-22)*, and says how it
+# knows. `printed` is the document's own name for it, carried as captured; `derived` is a
+# stand-in worked out from what the row already holds — the head a spending entity's own
+# printed code places it under, a project line standing in for a programme the budget does
+# not have — and never a code: codes are the cross-year join key and are never invented.
+# `programme_level` is the grain the `programme` column actually holds, because a line-item
+# budget has no programmes at all and the honest answer there is the next level it prints.
+# `vote` and `body` are a whole appropriation held as one line: the programme is the head
+# or the spending entity itself, which the spec allows only for a single-mandate body.
+BASIS = {"printed", "derived"}
+PROGRAMME_LEVEL = {"programme", "project", "activity", "action", "chapter", "line",
+                   "account", "body", "vote"}
+STRUCTURE = ("admin_head", "programme")
+
+# **The migrated rows' shortfall on those two fields may only fall.** Failing all of them now
+# would stop the Finance build on 414 rows, so the ceiling is per country, in
+# `budgets/structure-gaps.csv`, and `--ratchet` lowers it to what is left. A country above
+# its ceiling fails; a country below it is told to ratchet.
+GAPS_FILE = "structure-gaps.csv"
+
 # **Two bars, because there are two kinds of row** *(R56a, 2026-09-20)*. A row a sitting read
 # against `documentation/budget-extract.md` carries everything, and REQUIRED is the whole of
 # it. A row **migrated** from an OSINT domestic-state record — `origin_record` names which —
@@ -124,7 +146,8 @@ SOURCE_TIER = {"budget-document", "official-statement", "project-document", "rep
 # which is the work order R58 reads.
 REQUIRED = ("deal_id", "place", "state_level", "fiscal_year_label", "fy_start", "fy_end",
             "fy_calendar", "budget_version", "admin_head_code", "admin_head",
-            "spending_entity", "line_name", "purpose", "primary_subject",
+            "spending_entity", "programme", "admin_head_basis", "programme_basis",
+            "programme_level", "line_name", "purpose", "primary_subject",
             "scope_confidence", "scope_basis", "finance_origin", "funding_source",
             "is_transfer", "currency", "amount_scale", "baseline_stage", "current_stage",
             "source_tier", "source_slug", "extracted")
@@ -203,6 +226,7 @@ def check(iso3: str = "", budgets: str = "") -> tuple[list[str], int, int]:
     subjects = _subjects()
     nfiles = nrows = 0
     thin: dict[str, int] = {}       # country -> migrated rows short of the full bar
+    gap: dict[str, int] = {}        # country -> rows with no admin head or no programme
     nmig = 0
 
     for country, fy, path in files(iso3, budgets):
@@ -346,6 +370,21 @@ def check(iso3: str = "", budgets: str = "") -> tuple[list[str], int, int]:
                 elif g("primary_subject").startswith("finance."):
                     bad("primary_subject is a finance facet. It is what the money is FOR.")
 
+            for f in STRUCTURE:
+                b = g(f + "_basis")
+                if g(f) and b not in BASIS:
+                    bad(f"{f}_basis {b!r} is outside {sorted(BASIS)}; a {f} says where it "
+                        f"came from.")
+                if not g(f) and b:
+                    bad(f"{f}_basis is {b!r} and {f} is empty.")
+            if g("programme") and g("programme_level") not in PROGRAMME_LEVEL:
+                bad(f"programme_level {g('programme_level')!r} is outside "
+                    f"{sorted(PROGRAMME_LEVEL)}.")
+            if not g("programme") and g("programme_level"):
+                bad("programme_level is set and programme is empty.")
+            if any(not g(f) for f in STRUCTURE):
+                gap[country] = gap.get(country, 0) + 1
+
             if g("programme_code"):
                 (children if g("sub_programme_code") else parents).add(g("programme_code"))
 
@@ -354,6 +393,23 @@ def check(iso3: str = "", budgets: str = "") -> tuple[list[str], int, int]:
             fails.append(f"{rel}: programme {sorted(both)} is held both as a line of its own "
                          f"and at sub-programme grain. They would sum — a finer document "
                          f"supersedes a coarser one and the parent is retired, not kept.")
+
+    ceiling = read_gaps(budgets)
+    if ceiling is None:
+        if gap:
+            print(f"budget_source: note — no {GAPS_FILE}, so the admin-head and programme "
+                  f"shortfall ({sum(gap.values())} row(s)) is not held to a ceiling.")
+    else:
+        for c in sorted(set(gap) | set(ceiling)):
+            if iso3 and c != iso3:
+                continue
+            have, cap = gap.get(c, 0), ceiling.get(c, 0)
+            if have > cap:
+                fails.append(f"{c}: {have} row(s) lack an admin head or a programme and the "
+                             f"ceiling in {GAPS_FILE} is {cap}. It only falls.")
+            elif have < cap:
+                print(f"budget_source: note — {c} is down to {have} row(s) lacking an admin "
+                      f"head or a programme against a ceiling of {cap}; run --ratchet.")
 
     if slugs is None:
         print("budget_source: note — no catalogue at outputs/catalogue/catalogue-internal.csv, "
@@ -368,6 +424,34 @@ def check(iso3: str = "", budgets: str = "") -> tuple[list[str], int, int]:
         for c in sorted(thin):
             print(f"  {c}: {thin[c]}")
     return fails, nfiles, nrows
+
+
+def read_gaps(budgets: str = "") -> dict[str, int] | None:
+    path = os.path.join(budgets or BUDGETS, GAPS_FILE)
+    if not os.path.exists(path):
+        return None
+    with open(path, encoding="utf-8-sig", newline="") as fh:
+        return {r["country"]: int(r["rows"]) for r in csv.DictReader(fh)}
+
+
+def ratchet(budgets: str = "") -> dict[str, int]:
+    """Lower each country's ceiling to what it now lacks. Never raises one."""
+    gap: dict[str, int] = {}
+    for country, _, path in files("", budgets):
+        for r in read(path)[1]:
+            if any(not (r.get(f) or "").strip() for f in STRUCTURE):
+                gap[country] = gap.get(country, 0) + 1
+    old = read_gaps(budgets)
+    if old is not None:
+        gap = {c: min(n, old.get(c, 0)) for c, n in gap.items() if old.get(c, 0)}
+    with open(os.path.join(budgets or BUDGETS, GAPS_FILE), "w", encoding="utf-8-sig",
+              newline="") as fh:
+        w = csv.writer(fh)
+        w.writerow(["country", "rows"])
+        for c in sorted(gap):
+            if gap[c]:
+                w.writerow([c, gap[c]])
+    return gap
 
 
 # ---------------------------------------------------------------- the build's view
@@ -413,6 +497,8 @@ FM_COLS = {
     "doc_type": "doc_type", "doc_locator": "doc_locator",
     "source_slug": "source_slug", "primary_subject": "primary_subject",
     "origin_record": "origin_record",
+    "admin_head_basis": "admin_head_basis", "programme_basis": "programme_basis",
+    "programme_level": "programme_level",
 }
 
 
@@ -457,6 +543,8 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("iso3", nargs="?", default="", help="one country, else all of them")
     ap.add_argument("--budgets", default="", help="another budgets/ root, for tests")
     ap.add_argument("--columns", action="store_true", help="print the header and stop")
+    ap.add_argument("--ratchet", action="store_true",
+                    help="lower the admin-head/programme ceilings to what is left, and stop")
     a = ap.parse_args(argv)
 
     if a.columns:
@@ -467,6 +555,11 @@ def main(argv: list[str] | None = None) -> int:
         print(f"budget_source: no source folder at {base}. "
               f"BUDGET-EXTRACT.md is how the first one is written.")
         return 2
+    if a.ratchet:
+        left = ratchet(a.budgets)
+        print(f"budget_source: ceilings now {sum(left.values())} row(s) over {len(left)} "
+              f"countr{'y' if len(left) == 1 else 'ies'}.")
+        return 0
     fails, nfiles, nrows = check(a.iso3, a.budgets)
     for f in fails:
         print(f"budget_source: FAIL — {f}")

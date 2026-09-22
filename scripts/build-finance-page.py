@@ -379,6 +379,9 @@ def csv_budget(dom, iso3, path):
                     "spending_entity_code", "spending_entity",
                     "programme_code", "programme",
                     "sub_programme_code", "sub_programme", "econ_class",
+                    # How the head and the programme are known, and the programme's grain
+                    # *(Bill, 2026-09-22)*: a `derived` value is a stand-in and says so.
+                    "admin_head_basis", "programme_basis", "programme_level",
                     # `proposed` was missing from the ladder *(2026-09-20, R53)*. The driver's
                     # stage vocabulary opens at `proposed` (tabled, pre-enactment) and several
                     # countries hold nothing else — Sierra Leone's whole record is a tabled
@@ -411,6 +414,8 @@ def csv_budget(dom, iso3, path):
                         cfield(r, "sub_programme_code"),
                         cfield(r, "sub_programme", "Subprogramme"),
                         cfield(r, "econ_class"),
+                        fm_get(fm, "admin_head_basis"), fm_get(fm, "programme_basis"),
+                        fm_get(fm, "programme_level"),
                         fm_get(fm, "proposed_total"),
                         fm_get(fm, "appropriated_total"), fm_get(fm, "revised_total"),
                         fm_get(fm, "released_total"),
