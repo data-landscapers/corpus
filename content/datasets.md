@@ -10,23 +10,23 @@ The Data Centres blocks have to make three things clear without a lecture: what 
 
 ## index-intro
 
-Tables you can search, filter and download. Each one is dated, and a published file is never revised.
-
-## index-data-centres
-
-Data centres across Africa: who runs each one, who ultimately controls it, and which hyperscalers and Chinese firms are involved.
+These datasets are constructed solely from the data in the Corpus repository and are updated nightly whenever new evidence arrives. Constructing tables automatically from news reports is not without its dangers, but this is outweighed, in our view, by the freshness of the evidence.
 
 ## index-finance
 
-Money committed to Africa's digital sector by donors, development finance institutions and private investors.
+It is currently impossible to calculate total investments into digital transformation. There are three main reasons for this. Firstly no one has integrated non-state finance data with national budgets, expenditure and audits. Secondly no one has attempted to align the full spectrum of cross-border and domestic, public and private investment. Thirdly, with the exception of the World Bank, no investors have attempted to adopt a common modern taxonomy that classifies investments in categories compatible with digital transformation. Over the next year we aim to fill this vacuum.
+
+## index-data-centres
+
+The location, ownership and (where available) capacity of the growing number of data centres across Africa.
 
 ## index-catalogue
 
-Every source in the repository, with its date, publisher, places and topics.
+A searchable index of all sources stored in the repository. While the full text of these sources cannot be shared for copyright reasons, they can all be accessed using the links provided.
 
 ## index-metadata
 
-What each column in each dataset means, with its allowed values.
+Column definitions for each of the datasets.
 
 ## data-centres-intro
 
@@ -37,8 +37,6 @@ One row per facility, whether operational, under construction or planned. For ea
 The table is maintained, not rebuilt. When new evidence arrives, the affected rows are corrected or added, and each change is [listed below](#changes) with its sources.
 
 ## data-centres-status
-
-**This dataset is still being finalised.** Every record has been checked against its sources; claims no readable source supports are being sourced, and missing facilities added. Figures may change until this notice goes.
 
 ## data-centres-table-note
 

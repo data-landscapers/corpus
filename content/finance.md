@@ -2,17 +2,11 @@
 
 Two pages built by `scripts/finance.py` under one toc bar *(Bill, 2026-09-22)*: `site/finance/index.html`, non-state finance, and `site/finance/budgets/index.html`, which carries `budgets-intro` and nothing else. The budget tables published from 2026-09-20 (R53) came off the site the same day.
 
-The first block is what a reader meets before the commitments table, and it has to say three things: what a row is, what the money figures do and do not mean, and why the totals cannot be read as a market size. **No count of rows is written into this file** — the page prints its own from the run that built it, and a number here drifts the moment the base moves.
+`non-state-intro` is what a reader meets before the commitments table, and it has to say three things: what a row is, what the money figures do and do not mean, and why the totals cannot be read as a market size. **No count of rows is written into this file** — the page prints its own from the run that built it, and a number here drifts the moment the base moves.
 
 `budgets-intro` is the whole of the budgets page, and it must not describe a table: there is none under it.
 
 The two `dataset-*` blocks are not shown on the page: they are the descriptions in the `Dataset` structured data `finance.py` and `country.py` write into the head, which is what a reader meets in a dataset search before they have clicked anything. They live here because they are prose a reader reads. Each has to carry on its own the caveat the page spends a paragraph on — these are **commitments**, not disbursements, and a total of them is not a market size — because whoever sees one has not seen the page. Keep them between 50 and 5,000 characters, which is what a dataset search will take.
-
-## page-intro
-
-**It is currently impossible to calculate total investments into digital transformation.** There are three main reasons for this. Firstly no one has integrated non-state finance data with national budgets, expenditure and audits. Secondly no one has attempted to align the full spectrum of cross-border and domestic, public and private investment. Thirdly, with the  exception of the World Bank, no investors have attempted to adopt a common modern taxonomy that classifies investments in categories compatible with digital transformation. 
-
-**Over the next year we aim to fill this vacuum.**
 
 ## non-state-intro
 

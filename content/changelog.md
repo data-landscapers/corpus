@@ -1,5 +1,6 @@
 ## 22 September 2026
 
+- The Datasets page has new introductions, lists Finance first, and now carries the explanation of why total digital investment cannot yet be calculated, which has left the Finance page. The data centre table's *still being finalised* notice has been removed.
 - Finance is now two pages, Non-state finance and Budgets, and has left the navigation bar; reach it from the home page or Datasets. The national budget tables have been withdrawn while the work continues, so the Budgets page carries an introduction only.
 - Reports are now written in plainer English: each paragraph opens with the fact rather than a summary line. Earlier text is revised as reports are next updated.
 

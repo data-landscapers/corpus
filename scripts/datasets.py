@@ -267,13 +267,13 @@ INDEX_PAGE = """<!DOCTYPE html>
 
 {intro}
 
+    <h2 class="section-heading"><a href="../finance/">Finance</a></h2>
+{finance}
+
     <h2 class="section-heading"><a href="data-centres/">Data centres</a></h2>
     <div class="byline">{facilities} facilities &nbsp;·&nbsp; {countries} countries &nbsp;·&nbsp; edition {edition}</div>
 {dc}
 {status}
-
-    <h2 class="section-heading"><a href="../finance/">Finance</a></h2>
-{finance}
 
     <h2 class="section-heading"><a href="../catalogue/">Catalogue</a></h2>
 {catalogue}

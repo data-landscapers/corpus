@@ -168,7 +168,6 @@ PAGE = """<!DOCTYPE html>
     </header>
 
 {toc}
-{page_intro}
 
     <h2 class="section-heading" id="non-state">Non-state finance</h2>
     <div class="byline">{deals} commitments &nbsp;·&nbsp; US${total}m &nbsp;·&nbsp; {financiers} financiers &nbsp;·&nbsp; {places} recipient countries &nbsp;·&nbsp; {yr}</div>
@@ -336,7 +335,6 @@ def render(agg: dict, names: dict, csv_name: str, edition: str,
         datatable=script("datatable.js", 1),
         csv_name=csv_name, labels=labels, metadata=METADATA_CSV,
         artefacts=artefacts, toc=toc("non-state"),
-        page_intro=indent(copy("finance", "page-intro")),
         non_state_intro=indent(copy("finance", "non-state-intro")),
         table_note=indent(copy("finance", "non-state-table-note")),
         deals=f"{agg['deals']:,}", total=f"{agg['total_usd_m']:,.0f}",
