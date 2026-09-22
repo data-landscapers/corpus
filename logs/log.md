@@ -12,7 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
-2026-09-22 09:45 · **RENDER** · 17m · reports+home+countries+catalogue rendered (251, 0 failed; ZAF monthly new edition 2026-09-22), R2 500 on first sync cleared on retry, pushed — deploy pending
+2026-09-22 09:45 · **RENDER** · 17m · reports+home+countries+catalogue rendered (251, 0 failed; ZAF monthly new edition 2026-09-22), R2 500 on first sync cleared on retry, deployed — ok
 2026-09-22 00:03 · **RENDER** · 17m · 251 reports rendered (0 failed), home+countries+topics+progress+catalogue+alerts+finance+datasets (Data Centres 2026-09-21-4)+methodology, 0 editions pruned, 4944 objects to R2, deployed — ok
 2026-09-21 23:46 · **REVIEW** · 12m · DJI: status 11 sections revised, progress 30 cells, monthly 5 blocks, finance 13 rows read 1 defect; 1 deal queued, 1 note for OSINT — ok
 2026-09-21 23:34 · **REVIEW** · 18m · CPV: status 13 sections revised, progress 13 cells, monthly 9 blocks, finance 22 rows read 5 defects; 0 deals queued, 1 note for OSINT — ok
