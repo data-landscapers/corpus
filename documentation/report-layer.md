@@ -176,6 +176,8 @@ Nothing here is a source: reports are derived views, never cited by a wiki page,
 
 ## 10. The register
 
+**Two styles exist side by side, and neither is a draft of the other** *(Bill, 2026-09-22)*. Bill's own writing — the OSINT wiki and his essays on data-landscapers.io — is cautiously outspoken, evidence-led and polemical about systems rather than people. That is his, and it stays. Corpus reports are not his writing: they use the register below. Never carry one into the other, and never "correct" his style towards this one.
+
 **Corpus editorial register — light touch.** One principle: **the evidence speaks; the lens decides what gets noticed and connected, and then gets out of the way.**
 
 - **The spine stays fully disciplined.** The ledger, the tables, every dated figure, the published *Not held* count — script-emitted, cited, explicit about gaps. Its neutrality is what makes any reading credible. A reader must always be able to **take the facts and refuse the reading**; that is the test the whole layer has to pass.
