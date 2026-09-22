@@ -169,7 +169,6 @@ PAGE = """<!DOCTYPE html>
 
 {toc}
 
-    <h2 class="section-heading" id="non-state">Non-state finance</h2>
     <div class="byline">{deals} commitments &nbsp;·&nbsp; US${total}m &nbsp;·&nbsp; {financiers} financiers &nbsp;·&nbsp; {places} recipient countries &nbsp;·&nbsp; {yr}</div>
 
 {non_state_intro}
@@ -248,7 +247,6 @@ BUDGETS_PAGE = """<!DOCTYPE html>
     </header>
 
 {toc}
-    <h2 class="section-heading" id="budgets">National budgets</h2>
 
 {budgets_intro}
 
