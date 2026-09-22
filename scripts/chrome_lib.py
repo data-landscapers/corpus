@@ -62,7 +62,8 @@ NAV = [
     # folders and no index, so the one URL a reader would guess 404'd while
     # every page beneath it resolved.
     ("Topics", f"{SITE_BASE}/topics/"),
-    ("Finance", f"{SITE_BASE}/finance/"),
+    # Finance left the bar on 2026-09-22 (Bill); /finance/ is reached from the home
+    # page and Datasets.
     # Since 2026-09-21 (Bill): maintained tables, Data Centres first (documentation/datasets.md).
     ("Datasets", f"{SITE_BASE}/datasets/"),
     ("Catalogue", f"{SITE_BASE}/catalogue/"),

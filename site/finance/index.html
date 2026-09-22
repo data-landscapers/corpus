@@ -4,9 +4,9 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Finance — Data Landscapers</title>
-<meta name="description" content="Money committed to Africa's digital sector: every non-state commitment held in the Data Landscapers base, searchable and downloadable, plus every national budget line read out of a state budget document so far.">
+<meta name="description" content="Money committed to Africa's digital sector: every non-state commitment held in the Data Landscapers base, searchable and downloadable.">
 <link rel="canonical" href="https://corpus.data-landscapers.io/finance/">
-<meta name="dl-artefact" content="all-nonstate|2026-09-21-2|78c2f4e36db2"><meta name="dl-artefact" content="all-budgets|2026-09-21|9aacb14957f0">
+<meta name="dl-artefact" content="all-nonstate|2026-09-21-2|78c2f4e36db2">
 <link rel="stylesheet" href="../assets/css/main.css?v=a004bc3c">
 <link rel="stylesheet" href="../assets/css/corpus.css?v=42a1181a">
 <link rel="stylesheet" href="../assets/css/country.css?v=73bc258a">
@@ -216,7 +216,6 @@
       <a href="https://corpus.data-landscapers.io/bulletin/">Bulletin</a>
       <a href="https://corpus.data-landscapers.io/countries/">Countries & Regions</a>
       <a href="https://corpus.data-landscapers.io/topics/">Topics</a>
-      <a href="https://corpus.data-landscapers.io/finance/" class="active">Finance</a>
       <a href="https://corpus.data-landscapers.io/datasets/">Datasets</a>
       <a href="https://corpus.data-landscapers.io/catalogue/">Catalogue</a>
       <a href="https://corpus.data-landscapers.io/methodology/">Methodology</a>
@@ -231,8 +230,13 @@
       <h1 class="article-header__title">Finance</h1>
     </header>
 
+    <nav class="article-toc" aria-label="Finance views">
+    <a href="./" aria-current="page">Non-state finance</a>
+    <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+    <a href="budgets/">Budgets</a>
+    </nav>
     <p><strong>It is currently impossible to calculate total investments into digital transformation.</strong> There are three main reasons for this. Firstly no one has integrated non-state finance data with national budgets, expenditure and audits. Secondly no one has attempted to align the full spectrum of cross-border and domestic, public and private investment. Thirdly, with the  exception of the World Bank, no investors have attempted to adopt a common modern taxonomy that classifies investments in categories compatible with digital transformation. </p>
-    <p><strong>Over the next year we aim to fill this vacuum.</strong> The national budget table below is the start of it: what has been read out of state budget documents so far, country by country, with the coverage stated on every row. It grows one country-year at a time as each set of documents is read, and the coverage table is what says how far it has got.</p>
+    <p><strong>Over the next year we aim to fill this vacuum.</strong></p>
 
     <h2 class="section-heading" id="non-state">Non-state finance</h2>
     <div class="byline">1,478 commitments &nbsp;·&nbsp; US$111,337m &nbsp;·&nbsp; 190 financiers &nbsp;·&nbsp; 60 recipient countries &nbsp;·&nbsp; 2007–2046</div>
@@ -274,85 +278,6 @@
         <dt>Source</dt><dd><code>outputs/non-state-finance/all-nonstate.csv</code>, compiled by the finance pass</dd>
         <dt>Fields</dt><dd><a href="../metadata/non-state-finance-metadata.csv">non-state-finance-metadata.csv</a> &mdash; what each column means. The same dictionary every country&rsquo;s finance table uses</dd>
         <dt>Country</dt><dd><code>recipient_country</code> is an ISO-3 code in the file and a country name in the table; the two are the same thing</dd>
-        <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a></dd>
-      </dl>
-    </div>
-
-    <h2 class="section-heading" id="budgets">National budgets</h2>
-    <div class="byline">28 countries &nbsp;·&nbsp; 499 budget lines &nbsp;·&nbsp; 24 currencies, unconverted &nbsp;·&nbsp; FY2024–FY2026</div>
-
-    <p>What a government commits from its own budget is the other half of the picture, and the more important half: domestic spending is where a state's actual priorities are visible, and where external finance either is or is not being matched.</p>
-    <p><strong>This is not a comparison and cannot be made into one.</strong> Each row is a line from one state's own budget document, in that state's own currency, at whatever grain that document prints — a programme in one country, a project in another, a whole ministry directorate in a third. There is no conversion, no total, and no column that sums. A figure is an allocation, a revision or an outturn, and the columns say which; reading a number from one country against a number from another is reading two different things.</p>
-    <p><strong>What makes it publishable is the coverage table.</strong> It says, per country, which fiscal years have been read, how many lines came out of them, how many of those lines are wholly digital rather than a larger line that demonstrably contains digital spending, and which stages of the budget cycle are held. A country with three years and an audited outturn and a country with one tabled figure are both here, and the table is what tells them apart.</p>
-
-    <div class="table-scroll"><table class="pivot">
-            <thead><tr><th scope="col">Country</th><th scope="col">Fiscal years</th>
-              <th scope="col" class="num">Lines</th><th scope="col">Scope</th>
-              <th scope="col">Stages held</th><th scope="col">Currency</th></tr></thead>
-            <tbody>
-            <tr><th scope="row">Angola <span class="mono">(AGO)</span></th><td>2025, 2026</td><td class="num">11</td><td>9 whole · 2 partial</td><td>proposed · appropriated · revised</td><td class="mono">AOA, EUR, USD</td></tr>
-            <tr><th scope="row">Burundi <span class="mono">(BDI)</span></th><td>2024/25–2026/27</td><td class="num">13</td><td>13 whole</td><td>proposed · revised</td><td class="mono">BIF</td></tr>
-            <tr><th scope="row">Benin <span class="mono">(BEN)</span></th><td>2024–2026</td><td class="num">19</td><td>13 whole · 6 partial</td><td>proposed · appropriated · actual</td><td class="mono">XOF</td></tr>
-            <tr><th scope="row">Burkina Faso <span class="mono">(BFA)</span></th><td>2024–2026 + unstated</td><td class="num">21</td><td>21 whole</td><td>appropriated · actual</td><td class="mono">XOF</td></tr>
-            <tr><th scope="row">Botswana <span class="mono">(BWA)</span></th><td>2024/25–2026/27 + unstated</td><td class="num">62</td><td>56 whole · 3 partial · 3 unclear</td><td>proposed · appropriated · revised · actual</td><td class="mono">BWP</td></tr>
-            <tr><th scope="row">Central African Republic <span class="mono">(CAF)</span></th><td>2024–2026</td><td class="num">54</td><td>41 whole · 9 partial · 4 unclear</td><td>proposed · revised</td><td class="mono">XAF</td></tr>
-            <tr><th scope="row">Cote d&#x27;Ivoire <span class="mono">(CIV)</span></th><td>2024–2026</td><td class="num">61</td><td>61 whole</td><td>proposed · appropriated · revised · actual</td><td class="mono">XOF</td></tr>
-            <tr><th scope="row">Cameroon <span class="mono">(CMR)</span></th><td>2024–2026</td><td class="num">8</td><td>8 whole</td><td>proposed · appropriated · revised</td><td class="mono">XAF</td></tr>
-            <tr><th scope="row">DR Congo <span class="mono">(COD)</span></th><td>2024–2026</td><td class="num">6</td><td>3 partial · 3 whole</td><td>appropriated · revised · released · actual</td><td class="mono">CDF</td></tr>
-            <tr><th scope="row">Congo <span class="mono">(COG)</span></th><td>2024–2026 + unstated</td><td class="num">13</td><td>10 whole · 3 partial</td><td>proposed · appropriated · revised · actual</td><td class="mono">USD, XAF</td></tr>
-            <tr><th scope="row">Comoros <span class="mono">(COM)</span></th><td>2024–2026</td><td class="num">14</td><td>7 partial · 5 whole · 2 unclear</td><td>appropriated · revised · actual</td><td class="mono">KMF</td></tr>
-            <tr><th scope="row">Cape Verde <span class="mono">(CPV)</span></th><td>2024–2026</td><td class="num">30</td><td>24 whole · 6 partial</td><td>proposed · appropriated · revised · actual</td><td class="mono">CVE</td></tr>
-            <tr><th scope="row">Algeria <span class="mono">(DZA)</span></th><td>2026</td><td class="num">4</td><td>4 whole</td><td>appropriated</td><td class="mono">DZD</td></tr>
-            <tr><th scope="row">Egypt <span class="mono">(EGY)</span></th><td>2025/26</td><td class="num">1</td><td>1 whole</td><td>proposed</td><td class="mono">EGP</td></tr>
-            <tr><th scope="row">Ethiopia <span class="mono">(ETH)</span></th><td>2024/25–2026/27</td><td class="num">34</td><td>25 whole · 9 partial</td><td>proposed · appropriated · revised · actual</td><td class="mono">ETB</td></tr>
-            <tr><th scope="row">Ghana <span class="mono">(GHA)</span></th><td>2024, 2026</td><td class="num">13</td><td>8 whole · 5 partial</td><td>appropriated</td><td class="mono">GHS</td></tr>
-            <tr><th scope="row">Kenya <span class="mono">(KEN)</span></th><td>2024/25–2026/27</td><td class="num">17</td><td>17 whole</td><td>appropriated · revised · actual</td><td class="mono">KES</td></tr>
-            <tr><th scope="row">Madagascar <span class="mono">(MDG)</span></th><td>2026</td><td class="num">2</td><td>1 partial · 1 whole</td><td>appropriated · revised</td><td class="mono">MGA</td></tr>
-            <tr><th scope="row">Mozambique <span class="mono">(MOZ)</span></th><td>2026</td><td class="num">6</td><td>5 whole · 1 partial</td><td>appropriated</td><td class="mono">MZN</td></tr>
-            <tr><th scope="row">Niger <span class="mono">(NER)</span></th><td>2026</td><td class="num">2</td><td>2 whole</td><td>appropriated</td><td class="mono">XOF</td></tr>
-            <tr><th scope="row">Nigeria <span class="mono">(NGA)</span></th><td>2024–2026</td><td class="num">17</td><td>14 whole · 3 partial</td><td>proposed · appropriated</td><td class="mono">NGN</td></tr>
-            <tr><th scope="row">Rwanda <span class="mono">(RWA)</span></th><td>2024/25–2026/27</td><td class="num">28</td><td>25 whole · 3 partial</td><td>appropriated · revised · actual</td><td class="mono">RWF</td></tr>
-            <tr><th scope="row">Senegal <span class="mono">(SEN)</span></th><td>2024, 2026</td><td class="num">2</td><td>1 whole · 1 partial</td><td>appropriated</td><td class="mono">XOF</td></tr>
-            <tr><th scope="row">Sierra Leone <span class="mono">(SLE)</span></th><td>2026</td><td class="num">1</td><td>1 whole</td><td>proposed</td><td class="mono">SLE</td></tr>
-            <tr><th scope="row">Tanzania <span class="mono">(TZA)</span></th><td>2025/26, 2026/27</td><td class="num">2</td><td>2 partial</td><td>proposed · appropriated · released</td><td class="mono">TZS</td></tr>
-            <tr><th scope="row">South Africa <span class="mono">(ZAF)</span></th><td>2024/25–2026/27</td><td class="num">52</td><td>45 whole · 7 partial</td><td>appropriated · revised · audited</td><td class="mono">ZAR</td></tr>
-            <tr><th scope="row">Zambia <span class="mono">(ZMB)</span></th><td>2026</td><td class="num">1</td><td>1 whole</td><td>none stated</td><td class="mono">ZMW</td></tr>
-            <tr><th scope="row">Zimbabwe <span class="mono">(ZWE)</span></th><td>2026</td><td class="num">5</td><td>3 partial · 2 whole</td><td>proposed · appropriated</td><td class="mono">ZWG</td></tr>
-            </tbody>
-          </table></div>
-
-    <p class="table-note">Coverage, not figures. <strong>Scope</strong> counts the lines: <em>whole</em> is a line whose stated purpose is entirely a digital activity, <em>partial</em> a larger line that demonstrably contains digital spending in an amount the document does not separate, and <em>unclear</em> a line identified on weaker grounds. Partial and unclear lines are held and shown and are never folded into anything. <strong>Stages held</strong> is which points of the budget cycle appear anywhere in that country's rows, not which appear on every row.</p>
-
-    <p>Click any row to open its citation. Sort on any column heading, filter with the dropdowns, and search across every field whether or not it is shown. <code>doc_locator</code> names the page, table and line the figure is printed on in the budget document itself; it is blank on the lines built from reporting rather than from a document, which is where a locator would have to be invented.</p>
-
-    <div class="dl-datatable"
-      data-src="all-budgets-2026-09-21.csv"
-      data-cols="place, fy, admin_head, programme, sub_programme, proposed, appropriated, revised, actual, audited, currency, scope_confidence, source_tier, doc_locator"
-      data-filters="place, fy, current_stage, scope_confidence, source_tier, doc_type, currency"
-      data-numeric="proposed, appropriated, revised, released, actual, audited"
-      data-labels="{&quot;place&quot;: {&quot;AGO&quot;: &quot;Angola&quot;, &quot;BDI&quot;: &quot;Burundi&quot;, &quot;BEN&quot;: &quot;Benin&quot;, &quot;BFA&quot;: &quot;Burkina Faso&quot;, &quot;BWA&quot;: &quot;Botswana&quot;, &quot;CAF&quot;: &quot;Central African Republic&quot;, &quot;CIV&quot;: &quot;Cote d&#x27;Ivoire&quot;, &quot;CMR&quot;: &quot;Cameroon&quot;, &quot;COD&quot;: &quot;DR Congo&quot;, &quot;COG&quot;: &quot;Congo&quot;, &quot;COM&quot;: &quot;Comoros&quot;, &quot;CPV&quot;: &quot;Cape Verde&quot;, &quot;DZA&quot;: &quot;Algeria&quot;, &quot;EGY&quot;: &quot;Egypt&quot;, &quot;ETH&quot;: &quot;Ethiopia&quot;, &quot;GHA&quot;: &quot;Ghana&quot;, &quot;KEN&quot;: &quot;Kenya&quot;, &quot;MDG&quot;: &quot;Madagascar&quot;, &quot;MOZ&quot;: &quot;Mozambique&quot;, &quot;NER&quot;: &quot;Niger&quot;, &quot;NGA&quot;: &quot;Nigeria&quot;, &quot;RWA&quot;: &quot;Rwanda&quot;, &quot;SEN&quot;: &quot;Senegal&quot;, &quot;SLE&quot;: &quot;Sierra Leone&quot;, &quot;TZA&quot;: &quot;Tanzania&quot;, &quot;ZAF&quot;: &quot;South Africa&quot;, &quot;ZMB&quot;: &quot;Zambia&quot;, &quot;ZWE&quot;: &quot;Zimbabwe&quot;}}"
-      data-detail="doc_type, doc_locator"
-      data-sort="place:asc"
-      data-empty="No budget line matches those filters.">
-      <div class="dt-controls">
-        <span class="dt-title">Africa &mdash; national budget lines</span>
-        <span class="dt-count">499 rows</span>
-        <a class="btn btn--sm" href="all-budgets-2026-09-21.csv" download>&darr; CSV</a>
-      </div>
-      <noscript>
-        <p>The table is drawn in the browser from <a href="all-budgets-2026-09-21.csv">all-budgets-2026-09-21.csv</a>. With JavaScript off, download that file &mdash; it is the same data, every row and every field.</p>
-      </noscript>
-    </div>
-
-    <div class="colophon">
-      <strong>About this table</strong>
-      <dl>
-        <dt>Built</dt><dd class="mono">2026-09-22</dd>
-        <dt>Edition</dt><dd class="mono">2026-09-21</dd>
-        <dt>This file</dt><dd><a href="all-budgets-2026-09-21.csv">all-budgets-2026-09-21.csv</a> &mdash; a dated edition, retained as published and never revised</dd>
-        <dt>Source</dt><dd><code>outputs/budgets/{ISO3}-budget.csv</code>, compiled from the records each line rests on</dd>
-        <dt>Amounts</dt><dd>In the state&rsquo;s own currency, as its budget document prints them, with no conversion and no total. A figure is an appropriation, a revision or an outturn &mdash; the columns say which</dd>
-        <dt>Citation</dt><dd><code>doc_type</code> says what kind of budget document it is &mdash; estimates, an appropriation act, an outturn report &mdash; and <code>doc_locator</code> names the page, table and line the figure is printed in. It is blank on lines built from reporting, where the driver leaves it blank rather than inferring one</dd>
         <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a></dd>
       </dl>
     </div>

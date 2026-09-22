@@ -246,7 +246,7 @@ INDEX_PAGE = """<!DOCTYPE html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Datasets — Data Landscapers</title>
-<meta name="description" content="Downloadable datasets on Africa's digital transformation: data centres, non-state finance and national budgets, and the catalogue of every source we hold.">
+<meta name="description" content="Downloadable datasets on Africa's digital transformation: data centres, non-state finance, and the catalogue of every source we hold.">
 <link rel="canonical" href="{base}/datasets/">
 {styles}
 <link rel="icon" href="{main}/assets/favicon.svg" type="image/svg+xml">

@@ -32,7 +32,7 @@ The repository holds {sources} documents for {name}. The catalogue only contains
 
 ## budget-intro
 
-Work is ongoing to compile information on national budgets, expenditures and audits. What has been read out of state budget documents so far, and which countries and fiscal years it covers, is on the [Finance page](../../finance/#budgets).
+Work is ongoing to compile information on national budgets, expenditures and audits. See [National budgets](../../finance/budgets/).
 
 ## dataset-description
 

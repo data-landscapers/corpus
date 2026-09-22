@@ -18,7 +18,7 @@ Data centres across Africa: who runs each one, who ultimately controls it, and w
 
 ## index-finance
 
-Money committed to Africa's digital sector by donors, development finance institutions and private investors, and the budget lines states set aside themselves.
+Money committed to Africa's digital sector by donors, development finance institutions and private investors.
 
 ## index-catalogue
 
