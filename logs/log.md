@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-09-22 17:25 · **BUDGET-EXTRACT** · 35m · ZAF FY2024 from the ENE 2024: 40 lines replace 18 migrated rows; enacted by Act 40 of 2024, revised by Act 49 of 2024, audited from ENE 2026 and the DCDT annual report; ZAF ceiling 18 -> 0.
 2026-09-22 17:07 · **BUDGET-EXTRACT** · unclocked · ZAF FY2025 read from the May 2025 ENE: 41 lines replace 16 migrated rows; appropriated by Act 3 of 2025, revised by Adjustments Act 2 of 2026 on 37 rows; ZAF ceiling 34 -> 18.
 2026-09-22 16:49 · **BUDGET-EXTRACT** · 39m · ZAF FY2026: 40 lines from the ENE 2026 full volume, enacted by Act 10 of 2026; 18 migrated rows replaced, two misread figures corrected, 22 new from the cross-vote scan; ZAF ceiling 43->34
 2026-09-22 16:30 · **BUDGET-EXTRACT** · 40m · CAF FY2026 re-read at SIM_ba grain: 53 lines (42 from the PLF 2026 volume, 11 CDMT-only), all checked in the law. Whole-only 1.60/1.63/2.01bn FCFA for 2024-26, was 1.03bn. REIF: LFI 2026 art. 16 names it, no appropriation. Swap 34->53.
