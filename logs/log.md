@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-09-22 16:06 · **BUDGET-EXTRACT** · 45m · CAF FY2025: 37 lines from the PLF 2025 SIM_ba volume, appropriated and revised. They replace 12 migrated rows; 28 are new. Every section cross-foots. 7 absences. CAF gap ceiling 20->8; swap 12->37. No render: budgets are off the site.
 2026-09-22 15:43 · **BUDGET-EXTRACT** · 15m · CAF FY2026: 53 lines from the CDMT activity table, appropriated. They replace 34 migrated rows; 20 are new. All 472 parents cross-foot. 6 absences. CAF gap ceiling 54->20; swap 34->53. No render: budgets are off the site.
 2026-09-22 10:32 · **RENDER** · 9m · Finance split and out of nav; site rendered, reports repaged, deployed — ok
 2026-09-22 09:45 · **RENDER** · 17m · reports+home+countries+catalogue rendered (251, 0 failed; ZAF monthly new edition 2026-09-22), R2 500 on first sync cleared on retry, deployed — ok
