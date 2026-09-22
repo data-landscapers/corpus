@@ -1,3 +1,7 @@
+## 22 September 2026
+
+- Reports are now written in plainer English: each paragraph opens with the fact rather than a summary line. Earlier text is revised as reports are next updated.
+
 ## 21 September 2026
 
 - The data centre table's list of recent changes now names each facility and, from today, says in plain English what changed. The full change log, with every source, can be downloaded as a CSV from the same section.

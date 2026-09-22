@@ -159,7 +159,7 @@ RWA,2025-03-14,Rwanda Ministry of ICT,National Data Policy,https://…,gov.polic
 
 **Money is carried in the announcing party's own currency**, any USD figure as a dated conversion (`original_amount` and `commitment_usd_m` in the finance CSV).
 
-**House style is the wiki's**: cautiously outspoken, evidence-led, polemical about systems and not people. Inline hyperlinks sit on the claim, never gathered at the end.
+**House style is the Corpus register** (`documentation/report-layer.md` §10, *Plain English* included): plain British English, facts first, no opinion. Inline hyperlinks sit on the claim, never gathered at the end.
 
 **One line per paragraph. Never wrap by hand.**
 

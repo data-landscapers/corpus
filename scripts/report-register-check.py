@@ -79,6 +79,14 @@ TERMS = [
     ("flash verb", [r"\blanded\b", r"\bunveil(ed|s|ing)?\b", r"rolled out", r"ramp(ed|ing) up",
                     r"doubl(ed|ing) down", r"poised to", r"sets? the stage", r"paves? the way",
                     r"marks? a turning point"], True),
+    # §10 *Plain English* (2026-09-22): the headline-writing lead — a clever sentence first, the
+    # facts after it. The shape is structural and most of it no regex can see; these are the
+    # phrasings that recur across the estate, each counted on the day before it was added.
+    ("headline", [r"\band so did\b", r"\bput a name to\b", r"\bput figures on\b",
+                  r"\bopposite ends\b", r"\bsaid plainly\b", r"\bmoved the wrong way\b",
+                  r"\bnothing moved\b", r"\brather than opening\b", r"\bhardened\b",
+                  r"\breached dates\b", r"\bthe month's largest\b",
+                  r"\b(two|three|four) things\b", r"\barrived and\b"], True),
     ("jargon", [r"demateriali[sz]", r"dématériali", r"attack surface", r"ecosystem",
                 r"\bunlock(s|ed|ing)?\b", r"leapfrog", r"\bat scale\b", r"citizen journey",
                 r"low-hanging"], False),

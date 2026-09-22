@@ -179,11 +179,35 @@ Nothing here is a source: reports are derived views, never cited by a wiki page,
 **Corpus editorial register — light touch.** One principle: **the evidence speaks; the lens decides what gets noticed and connected, and then gets out of the way.**
 
 - **The spine stays fully disciplined.** The ledger, the tables, every dated figure, the published *Not held* count — script-emitted, cited, explicit about gaps. Its neutrality is what makes any reading credible. A reader must always be able to **take the facts and refuse the reading**; that is the test the whole layer has to pass.
-- **The prose stays factual first**: dated, attributed, no flash verbs, no staged reveals, no arguing a heading. A report may *connect* facts the lens brings together, and may name a pattern the evidence already shows, in a sentence a reader can check against the rows above it. It states the connection; it does not press it.
+- **The prose stays factual**: dated, attributed, no flash verbs, no staged reveals, no arguing a heading. A report may *connect* facts the lens brings together, in a sentence a reader can check against the rows above it. It states the connection; it does not press it.
 - **The lens is a quiet set of questions, asked by what gets included.** Who owns the infrastructure, who holds the data and under whose jurisdiction, what dependency a financing arrangement creates, who is vendor and who is regulator. These shape which facts a section foregrounds; they rarely need to be spoken.
-- **Where a reading is offered, it is visibly a reading and rests on the dated facts beside it** — one sentence, not a paragraph, never a flourish. The polemical version is ruled out: no charge, no thesis. Worked contrast: *the circular of 24 July sets no implementation deadline; the estimates published the next day carry no budget line for the agency named to implement it* — then, at most, one plain connecting sentence: *the mandate names an implementing agency the same week's estimates do not fund.* The reader weighs it.
+- **A connecting sentence is itself a checkable fact, never an opinion** *(Bill, 2026-09-22)*. One sentence, not a paragraph. No charge, no thesis, no verdict. Worked contrast: *the circular of 24 July sets no implementation deadline; the estimates published the next day carry no budget line for the agency named to implement it* — then, at most: *the mandate names an implementing agency the same week's estimates do not fund.* The reader weighs it.
 
-`report-register-check.py`'s tic-scanner reports rather than gates: a connecting sentence is not a defect. Checks G–M bind unchanged — a position, however light, raises the cost of an unchecked figure; it does not lower it.
+### Plain English
+
+*(Bill, 2026-09-22.)* **Readers come for information, not mood or opinion.** Write plain British English. Terse is fine; flashy is not. The failure this rules out is a chatty, headline-writing style that sounds machine-written and American: a clever lead sentence first, the facts after it. `documentation/AI-speak.md` lists sixteen such sentences from one monthly update.
+
+- **Open with the fact.** Who did what, and when. A sentence that sums up a paragraph without stating a fact is cut, not polished. The facts that follow it are the paragraph.
+- **Literal words only.** People and bodies act: they publish, approve, block, say, launch. Abstractions do not: compute does not *arrive*, a series does not *move*, a research estate does not *show*. No metaphor: *hardened*, *reached dates*, *put a name to the ceiling*, *moved from documents to a test*, *moved the wrong way*.
+- **Name the thing.** No teasers or counting openers that hold back the subject: *Two things arrived…*, *One date the state does not have is the oldest*, *The month's largest infrastructure fact was not the state's*.
+- **No contrast set-ups.** *X rather than Y*, *not X but Y*, *from opposite ends*, *not yet a commitment to anybody*. Use a contrast only when the contrast is the fact.
+- **No mood words.** *Plainly*, *quietly*, *finally*, *strikingly*, *alarming* — unless inside a quoted source.
+- **Don't write about the report or the month.** *Nothing moved at a municipality this month* describes the ledger, not the country. If nothing happened, say nothing.
+- **British spelling and usage** — *programme*, *organisation*, *licence* (noun). No American business idiom.
+
+Worked rewrites, from the list:
+
+| Not this | This |
+|---|---|
+| *Compute arrived and so did the questions about what it costs.* A sovereign AI cloud was brought into service… | A sovereign AI cloud was brought into service on 27 August… |
+| *Identity and data protection both hardened.* Home affairs blocked… | Home affairs blocked about 300,000 identity documents on suspicion of fraud. |
+| *The supervisor said plainly what it cannot do.* | On 18 August the information regulator said it cannot test systems for privacy compliance before launch. |
+| *Two things arrived on 7 September that answer the same question from opposite ends.* | A study published on 7 September costs universal household broadband at about R140bn. |
+| *On 8 September a ratings agency put a name to the ceiling.* | On 8 September [the agency] said [what it said]. |
+
+**The test for every sentence: could a reader check it against a source or a row?** If not, cut it.
+
+`report-register-check.py`'s tic-scanner reports rather than gates: a connecting sentence is not a defect. **Its `headline` group** (added 2026-09-22) catches the recurring phrasings of *Plain English*; it took the estate from 40 hits to 129. No drain is run for them: a run rewrites the hits in a block it is already editing, and the rest go as the windows move on. Checks G–M bind unchanged — a position, however light, raises the cost of an unchecked figure; it does not lower it.
 
 **No document in this layer carries a comment section.** The argument belongs downstream, in the published work these reports feed. A labelled comment section is a licence: prose written towards a verdict at the end leaks the verdict into the body.
 
