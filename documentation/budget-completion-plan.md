@@ -47,12 +47,12 @@ opened: 2026-09-22
 
 6. **Sweep cycle nightly** — unchanged, always first.
 7. **Pull and ingest data-centre batches 11–16** as they turn `READY`: automatic in the backfill lane, about two nights.
-8. **Housekeeping, oldest first** (jobs 143 → 186), on days under the quota line.
+8. **Housekeeping, oldest first** (jobs 143 → 186): one job on the Day B night, plus the extra sessions Bill runs each day while usage is under that day's line in `osint-daily-usage-targets.md`.
 9. **Notes 159, 160, 161** — small: two finance-record corrections and the ZWG exchange-rate rows. They fit a housekeeping slot.
 
 ### Bill
 
-10. **Set the housekeeping rate.** At the Day B rate of one job a night, 42 jobs take about six weeks. Finishing next week needs about six a day, which means extra *run housekeeping* sessions on low-usage mornings. The rate is yours to set against the quota; nothing else in Phase 1 depends on it except when Phase 2 starts.
+10. **Run OSINT's extra sessions daily against the usage targets**, as now. The quota sets the pace, so no fixed rate is set. At about 75 minutes a job, clearing the 42 jobs by the end of next week needs about six a day. Phase 2 starts when the register reads zero.
 11. **Deliver notes 159–161** to OSINT now; hold 162 and 163 for Phase 2.
 12. **Answer the two open blocks in `logs/messages-for-bill.md`**: the non-state summary bucketing by publication year, and the US$4bn Botswana MoU summed as committed finance.
 13. **Say when to announce the data-centre dataset** — that releases task 5.
