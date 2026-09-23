@@ -49,7 +49,7 @@ not_held: N                   # script-emitted; the count a reader is owed
 
 **Within a section, the renderer sub-groups by taxonomy Level-2 subject** — a `###` sub-heading with the subject's `taxonomy.csv` label, in the taxonomy's own order. Status and progress get one small table per subject; monthly gets one narrative marker per subject, keyed `{section-key}--{subject-slug}` (dots become hyphens). A subject with no rows, or no moved rows that month, gets no sub-heading and no block. `ledger.csv` is kept sorted the same way (Level-1, Level-2, name) by the renderer on every load.
 
-The unwritten section blocks left by the six-section → ten-chapter migration are drafting work, counted by check L; `documentation/narrative-backlog-four-chapters.md` is the work list.
+The unwritten section blocks left by the six-section → ten-chapter migration are drafting work, counted by check L; `documentation/archived/narrative-backlog-four-chapters.md` was the work list as measured on 2026-08-27; check L is the live count.
 
 ## What goes in each document, and what must not
 
