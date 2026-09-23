@@ -6,7 +6,7 @@ region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 9
-sources_cited: 162
+sources_cited: 163
 sections_written: 37
 not_established: 1
 acquire_lines: 55
@@ -374,7 +374,7 @@ The other US presence is philanthropic and corporate rather than governmental. T
 ### China activities
 <!-- geopol.china -->
 
-China's involvement in Rwanda's digital programme runs through public lending: [China Eximbank extended a concessional loan to the Government of Rwanda in 2022 for a Smart Education Project](https://www.bu.edu/gdp/files/2023/08/GCI_PB_019_CLA-2023-FIN.pdf).
+Bank of Kigali, Rwanda's largest bank, [joined China's Cross-Border Interbank Payment System as a direct participant under an agreement signed in Xiamen on 8 September 2026, the first bank in Rwanda to do so, giving it renminbi clearing and settlement without intermediary banks](https://www.ktpress.rw/2026/09/bank-of-kigali-joins-chinas-cross-border-payments-system-first-in-this-region/). The state's own ties to China in the digital programme run through public lending: [China Eximbank extended a concessional loan to the Government of Rwanda in 2022 for a Smart Education Project](https://www.bu.edu/gdp/files/2023/08/GCI_PB_019_CLA-2023-FIN.pdf).
 
 ### EU activities
 <!-- geopol.eu -->

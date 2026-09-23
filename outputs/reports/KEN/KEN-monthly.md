@@ -3,9 +3,9 @@ title: Kenya — monthly update, August – September 2026
 compiled: 2026-09-23
 period: 2026-08-01 to 2026-09-23
 place: KEN
-ledger_rows: 193
+ledger_rows: 196
 not_held: 7
-record: 3424052e8f9c
+record: 108b9a2a5497
 ---
 
 # Kenya: monthly update, August – September 2026
@@ -172,6 +172,8 @@ The Treasury is [rolling out a Development Partners Management Information Syste
 The regional payments interlink took another participant: a commercial bank group [went live on the pan-African system on 11 August, adding its branch network to instant cross-border transfers in local currencies](https://www.linkedin.com/posts/pan-african-payment-settlement-system_papss-papss-abcbank-activity-7492934194994774016-TGoX).
 
 The head of the public service [convened the examinations council, the public service commission and the education ministry to link academic credential databases directly to hiring agencies](https://nairobiwire.com/2026/09/kenya-academic-certificate-verification-fake-certificates.html), against fake certificates. No design or date is set.
+
+The President [announced Masterkey, a wallet for verifiable qualification and work records across African borders whose first phase targets 150,000 placements with Kenya, Ghana and Rwanda, Kenya leading the first national implementation through eCitizen](https://www.graphic.com.gh/news/general-news/ruto-puts-ghana-in-plan-to-make-african-skills-portable.html). He said the system will not itself award jobs, visas or professional recognition; no cost or launch date is stated.
 <!-- /narrative -->
 ### Digital Identity and CRVS
 
@@ -256,6 +258,8 @@ The draft then drew its first substantive submission, and a headline figure. A c
 The ministry meanwhile put up an assistant of its own. The ICT cabinet secretary [put up a platform, hosted on his own official website, intended as a single entry point routing citizens to the agency or service responsible for a given digital programme](https://www.kenyans.co.ke/news/126535-cs-kabogo-unveils-ai-platform-transform-ict-ministry-operations); its developers say it will launch once the underlying information, routing and review safeguards are in place, so it is not yet answering questions. A public-information service sited on a minister's website rather than a government domain carries no stated operator or accountability route.
 
 Misuse reached the record from the supplier's side. A model provider [disclosed that it had removed a domestic actor's account mass-producing posts in batches of 50, praising the energy minister's tariff decision and claiming the opposition was fracturing ahead of 2027](https://www.itweb.africa/article/anthropic-flags-kenya-ai-influence-operation/kLgB1MezZe6q59N4), with no reach established; the minister [denied any ministry role](https://www.the-star.co.ke/news/2026-09-11-wandayi-distances-himself-from-ai-campaign-praising-tariff-move). The state's own compute moved a step: a [Letter of Agreement with the UN development agency commits to operationalising sovereign AI infrastructure at the Konza Data Centre](https://techreviewafrica.com/news/7149/kenya-undp-move-to-operationalise-sovereign-ai-infrastructure-at-konza-data-centre), and the Treasury [describes the Konza Digital Media City as recently approved for Korean financing](https://peopledaily.digital/business/kenya-south-korea-deepen-ksh-129-4b-development-partnership).
+
+The Kenya Medical Research Institute [is a partner in openScopes AIDDiA, a four-year, GBP 4.4m Wellcome Trust-funded programme led by the University of Cape Town that pairs open-source microscopes with machine-learning image analysis for infectious-disease research](https://www.itweb.co.za/article/r101m-uct-project-brings-ai-microscopy-to-africa/LPp6V7rBYJb7DKQz), which held its kick-off from 7 to 11 September.
 <!-- /narrative -->
 ### ICT Industry
 
@@ -330,7 +334,9 @@ The communications regulator and the University of Nairobi began reviewing preli
 ### US / hyperscaler activities
 
 <!-- narrative: geopolitics--geopol-usa -->
-A delegation from a Korean university and development institute [came to Nairobi to evaluate the outcomes](https://www.itweb.africa/article/korea-backs-kenya-digital-economy/KA3WwMdzpwBvrydZ) of South Korea's development assistance to the digital economy. No findings, envelope or successor programme has been published, and the row sits under this heading because the repository holds no separate slug for Korea.
+A delegation from a Korean university and development institute [came to Nairobi to evaluate the outcomes](https://www.itweb.africa/article/korea-backs-kenya-digital-economy/KA3WwMdzpwBvrydZ) of South Korea's development assistance to the digital economy. No findings, envelope or successor programme has been published.
+
+Kenya [signed a joint declaration with Anthropic at the UN General Assembly, reported on 23 September](https://www.standardmedia.co.ke/business/article/2001558501/kenya-signs-ai-deal-with-claude), covering AI applications in education and health, research, capacity building and AI safety and evaluation. Pilots and institutional partnerships with government agencies are named as the next phase; no funding, timetable or signing date is stated.
 <!-- /narrative -->
 ### China activities
 

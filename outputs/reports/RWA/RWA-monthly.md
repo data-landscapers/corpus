@@ -3,9 +3,9 @@ title: Rwanda — monthly update, August – September 2026
 compiled: 2026-09-23
 period: 2026-08-01 to 2026-09-23
 place: RWA
-ledger_rows: 56
+ledger_rows: 58
 not_held: 7
-record: 40e8a5c15a57
+record: 08a3b137a715
 ---
 
 # Rwanda: monthly update, August – September 2026
@@ -100,6 +100,8 @@ A fraud figure moved the right way. The central bank reported that [cases of fra
 
 <!-- narrative: dpi--dpi-exchange -->
 A delegation joined the [UNDP Africa Accelerator for Digital Public Infrastructure's session of 2-3 September](https://www.linkedin.com/posts/africa-accelerator-for-digital-public-infrastructure-share-7501243526484123648-U4ba) alongside Ethiopia, Malawi, Sierra Leone and Zambia, working through the move from blueprint to execution, verifiable credentials and consented data-sharing frameworks, and reusable open-source deployment code. What is on record is attendance and a [published agenda](https://www.undp.org/africa/projects/africa-accelerator-digital-public-infrastructure-aa4dpi); no country programme, commitment or deliverable follows from it.
+
+Kenya's president [announced Masterkey, a cross-border wallet for verifiable qualification and work records whose first phase targets 150,000 placements, with Rwanda, Ghana and Kenya as its first countries](https://www.graphic.com.gh/news/general-news/ruto-puts-ghana-in-plan-to-make-african-skills-portable.html). No Rwandan implementing agency, cost or launch date is stated.
 <!-- /narrative -->
 ### Digital Identity and CRVS
 
@@ -118,6 +120,8 @@ The layer the rail does not touch moved the other way. Regulator statistics for 
 The central bank put the gap on its own record: [85.3% of Rwandans hold a digital account and 92% still pay mainly in cash](https://www.ktpress.rw/2026/09/central-bank-takes-aim-at-cash-as-92-still-rely-on-it/), and it launched a national campaign touring the districts to close it, with no target published.
 
 The online VAT order's own deadline has passed unmet: the revenue authority was to have a supplier registration portal in place by 29 July, and [a tax adviser recorded on 15 September that it is not yet in place](https://www.newtimes.co.rw/article/38960/opinions/rwandas-online-vat-regime-raises-compliance-questions-early), while unregistered suppliers already accrue penalties.
+
+Bank of Kigali [signed in Xiamen on 8 September to join China's Cross-Border Interbank Payment System as a direct participant, the first bank in Rwanda to do so](https://www.ktpress.rw/2026/09/bank-of-kigali-joins-chinas-cross-border-payments-system-first-in-this-region/), giving it renminbi clearing and settlement without intermediary banks. The agreement was announced on 22 September with no transaction volume.
 <!-- /narrative -->
 ### Registries
 

@@ -1,11 +1,11 @@
 ---
 title: DR Congo — monthly update, August – September 2026
-compiled: 2026-09-21
-period: 2026-08-01 to 2026-09-21
+compiled: 2026-09-23
+period: 2026-08-01 to 2026-09-23
 place: COD
-ledger_rows: 82
+ledger_rows: 84
 not_held: 7
-record: a7f1ceae8afb
+record: bdb7b8b95176
 ---
 
 # DR Congo: monthly update, August – September 2026
@@ -41,6 +41,8 @@ Two regulators agreed on 22 July to [form joint inspection teams and enforce loc
 The digital code is being applied to speech. On 15 August the justice minister [restated the government's determination to clean up Congolese cyberspace and said prosecutions were already under way for public insults and defamation on social platforms under the Code du numérique](https://actualite.cd/index.php/2026/08/15/rdc-face-aux-derives-sur-les-reseaux-sociaux-le-ministre-de-la-justice-reaffirme-la), after receiving an NGO memorandum on 13 August. No case number, charge or judgment is held.
 
 A new schedule of [taxes, permits and sanctions now governs the digital sphere](https://the-port-brief.co.tz/article/regulation-of-the-digital-sphere-in-the-drc-analysis-of-new-regulations-on-taxes-permits-and-sanctions). The repository holds a legal analysis of it rather than the instrument, so the issuing authority, the instrument number and the entry-into-force date are not established here.
+
+Deputy Alfred Dibandi Nzondomyo [filed a private member's bill on the protection of minors in the digital environment with the National Assembly on 21 September](https://actualite.cd/2026/09/21/assemblee-nationale-le-depute-alfred-dibandi-initie-une-proposition-de-loi-relative-la), framed as a special law beside the Code du numérique and the child-protection law, with rules for children under six and under eleven and stronger provisions for under-15s. The text is not published.
 <!-- /narrative -->
 ### Data protection
 
@@ -173,7 +175,9 @@ A three-week digital enrolment pilot in April [replaced paper forms with applica
 <!-- narrative: technology--tech-ai -->
 The national artificial-intelligence strategy [was presented and validated by government at a Kinshasa ceremony on 4 August](https://actu7.cd/2026/08/04/rdc-augustin-kibassa-lance-la-politique-sectorielle-de-leconomie-numerique-et-la-strategie-nationale-de-lia-pour-batir-un-congo-souverain-connecte-innovant-et-inclusif/), alongside the sectoral digital economy policy. Validated is not adopted: no adoption date is established and the text is not held.
 
-Underneath the strategy, one piece of actual capability began. [Collection of Lingala language data for artificial intelligence was launched alongside the digital code campaign](https://acp.cd/economie/rdc-la-campagne-de-vulgarisation-du-code-du-numerique-lancee-a-kinshasa/). No corpus size, licence, custodian or consent arrangement for the speakers' contributions is stated.
+[Collection of Lingala language data for artificial intelligence was launched alongside the digital code campaign](https://acp.cd/economie/rdc-la-campagne-de-vulgarisation-du-code-du-numerique-lancee-a-kinshasa/). No corpus size, licence, custodian or consent arrangement for the speakers' contributions is stated.
+
+The digital economy ministry [announced in a communiqué of 22 September that Anthropic's Claude is officially available in the country, for Claude.ai and commercial API access](https://www.wearetech.africa/fr/fils/actualites/tech/rdc-claude-l-assistant-d-ia-d-anthropic-desormais-officiellement-accessible), citing approaches it had made to the company. No terms were given.
 <!-- /narrative -->
 ### Innovation ecosystem
 

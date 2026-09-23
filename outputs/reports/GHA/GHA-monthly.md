@@ -1,11 +1,11 @@
 ---
 title: Ghana — monthly update, August – September 2026
-compiled: 2026-09-21
-period: 2026-08-01 to 2026-09-21
+compiled: 2026-09-23
+period: 2026-08-01 to 2026-09-23
 place: GHA
-ledger_rows: 139
+ledger_rows: 144
 not_held: 9
-record: d2fe3df3d39d
+record: db1a4e5027e8
 ---
 
 # Ghana: monthly update, August – September 2026
@@ -60,6 +60,8 @@ A fourth front does have something running. A continental alliance and a German 
 The statistical service put a number on what digitisation is being asked to fix. Its governance series records citizens reporting demands for unofficial payments [rising from 51% in the first half of 2025 to 69% in the second](https://asaaseradio.com/gss-calls-for-digitalisation-fee-transparency-to-curb-rising-bribe-demands/), and the service names digitalisation, fee transparency and public education as its response, citing a marked fall in bribery at the passport office after digitisation and saying the Office of the Chief of Staff has directed the ten institutions the series flagged as high-risk to report back on remediation. The passport-office comparison is asserted without a before-and-after figure, and the series measures reported demands rather than cases proven.
 
 The same week the ministry took the governance argument outward and inward at once: it [convened an Accra workshop with a policy-monitoring organisation and a trade endowment on digital governance, regulatory coordination and international digital-trade engagement](https://www.linkedin.com/posts/ministry-of-communication-digital-technology-and-innovations-b4a9b7256_mocdti-partners-digital-policy-alert-to-strengthen-activity-7491943506979250176-6l2o), framed against the national artificial-intelligence strategy, the coders programme and the continental digital trade protocol; and its deputy minister [urged information-management professionals to secure and better manage government data as artificial-intelligence use grows](https://asaaseradio.com/govt-strengthens-public-data-management-amid-rising-ai-use/). Neither produces an instrument, and the national data strategy has been In development since 2024.
+
+On 22 September the Secretary to the President [asked the Media Foundation for West Africa and the Ghana Journalists Association to convene a national stakeholder engagement and draft a roadmap on hate speech and harmful online content](https://www.myjoyonline.com/wp-content/uploads/2026/09/OPS308.3.26.1386-NATIONAL-STAKEHOLDER-ENGAGEMENT-ON-HATE-SPEECH-ABUSIVE-ONLINE-CONTENT-RESPONSIBLE-DIGITAL-COMMUNICATION.pdf), including guidance for law enforcement and alternatives to arrest and prosecution for speech that is not criminal. The letter cautions that arrests over criticism out of proportion to the conduct may be counterproductive, and sets no deadline.
 <!-- /narrative -->
 
 ## Finance
@@ -135,6 +137,8 @@ The response team behind the licensing regime published a volume figure for the 
 
 <!-- narrative: dpi--dpi-exchange -->
 Interoperable mobile-money transfers ran to [33.5 million transactions worth GH¢6.2bn in June](https://www.myjoyonline.com/mobile-money-transactions-hit-gh%c2%a2492-9bn-in-june/) — about 1.3% of total mobile-money value. The share, not the volume, is the measure of interoperability, and it is the figure that has stayed small since the service went live in 2018.
+
+Kenya's president [announced Masterkey, a cross-border wallet for verifiable qualification and work records whose first phase targets 150,000 placements, with Ghana, Rwanda and Kenya as its first countries](https://www.graphic.com.gh/news/general-news/ruto-puts-ghana-in-plan-to-make-african-skills-portable.html), at an Accra event on the sidelines of the UN General Assembly. No Ghanaian implementing agency, cost or launch date is stated.
 <!-- /narrative -->
 ### Digital Identity and CRVS
 
@@ -148,6 +152,8 @@ The central bank republished its standing directive on 2 September: under regula
 The SIM half of the identity regime moved for the first time in nine months. The minister said on 7 September that [Parliament has passed the legislative instrument governing SIM registration and the biometric verification phase will be introduced before the end of 2026](https://asaaseradio.com/the-resolve-of-this-ministry-is-unshaken-sam-george-on-biometric-sim-verification/), the same account putting completion of the 2021-2023 exercise it replaces at 44.28% of subscribers. What has moved is the authority to act: no start date, enrolment route or subscriber deadline is published and the instrument itself is not held.
 
 The identification authority's head [said the Ghana Card will become an electronic wallet secured by biometrics and PIN, introduced in phases, linked to bank accounts and loadable through authorised vendors](https://www.modernghana.com/news/1528541/ghana-card-to-become-e-wallet-for-electronic-trans.html). No date or central-bank approval is stated.
+
+The licensing authority [put its DVLAverify biometric identity-verification app on Apple's App Store on 23 September and opened a web verification platform](https://www.myjoyonline.com/dvlaverify-app-now-available-on-ios-as-dvla-introduces-web-verification-platform/), so vehicle-registration applicants can verify their identity remotely from a computer with a webcam. No user count is published.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -197,6 +203,8 @@ The revenue side gained a plan on 12 August. A [Korean-backed Tax Modernisation 
 Two systems moved in opposite directions in the same week. The online passport application service [went down on 25 August, the foreign ministry confirming a technical fault the same day and naming no cause and no restoration date](https://www.graphic.com.gh/news/general-news/ghana-passport-online-portal-down-over-technical-problem.html). The accountant-general's department, meanwhile, [will suspend from 15 September the salaries of government employees whose national identity details are missing from or do not match the payroll system, ahead of a nationwide re-verification exercise](https://www.myjoyonline.com/government-workers-without-valid-nia-details-risk-salary-suspension-from-september-15/), the directive prompted by discrepancies surfaced when the upgraded payslip system left some employees unable to open their payslips.
 
 The Rent Control Department's acting commissioner [called for an investigation into a digitisation programme on which US$1.7m was reportedly spent, having found four computers at the facility](https://www.adomonline.com/heads-must-roll-there-is-nothing-to-show-for-npps-1-7m-digitisation-rent-control-boss/). No audit finding is held.
+
+The tourism authority's chief executive [said on 18 September that a Ghana Tourism Information System will carry the sector's registration, licensing and renewal, levy filing and payment, establishment records and public verification](https://www.graphic.com.gh/news/general-news/ghana-news-gta-pushes-digital-reset-for-tourism-sector.html). No launch date, cost or vendor is stated.
 <!-- /narrative -->
 
 ## Digitalisation
@@ -256,13 +264,13 @@ The education council completed a revised basic-education curriculum adding codi
 ### Training and skills
 
 <!-- narrative: capacity--capacity-training -->
-Training capacity was the month's activity, and it reached the degree itself: the ministry said on 7 September that it had [signed memoranda with eleven universities to embed digital certifications into degree and diploma programmes](https://www.myjoyonline.com/govt-signs-mous-with-11-universities-to-embed-digital-certifications-in-degree-programmes/), naming five of them and leaving six, the certifications, the start date and any student number unstated. A youth agency [signed for 2,000 vendor-certified microdegree places on 14 July](https://www.myjoyonline.com/yea-partners-ghana-digital-centres-to-train-2000-youth-in-ai-cybersecurity-and-digital-skills/) — Ghana taking 2,000 of the 3,000 allocated to the whole continent — fully government-funded, with 600 paid internships and a five-region pilot, and no programme cost disclosed. [A university became the first tertiary institution to embed the national coders programme permanently in its curriculum on 29 July, receiving a further 2,000 laptops the next day](https://www.myjoyonline.com/yea-partners-ghana-digital-centres-to-train-2000-youth-in-ai-cybersecurity-and-digital-skills/). Three universities — Kumasi Technical University, the Kwame Nkrumah University of Science and Technology and the University of Mines and Technology — [completed the first pilot of the European-funded UNIHUBS blended-learning course in entrepreneurship, innovation and digital skills, run from late June to July and reported on 3 September](https://www.ghanawebbers.com/GhanaHomePage/business/KsTU-KNUST-and-UMaT-Join-EU-Program-for-Innovation-and-Digital-Skills-2174760), covering business development, technology transfer in higher education, digital marketing and professional communication. The consortium treated it as a quality-assurance run before pilots in Kenya and Tanzania this month; no participant count, budget or grant number is published, and the account is the project's own.
+The ministry said on 7 September that it had [signed memoranda with eleven universities to embed digital certifications into degree and diploma programmes](https://www.myjoyonline.com/govt-signs-mous-with-11-universities-to-embed-digital-certifications-in-degree-programmes/), naming five of them and leaving six, the certifications, the start date and any student number unstated. A youth agency [signed for 2,000 vendor-certified microdegree places on 14 July](https://www.myjoyonline.com/yea-partners-ghana-digital-centres-to-train-2000-youth-in-ai-cybersecurity-and-digital-skills/) — Ghana taking 2,000 of the 3,000 allocated to the whole continent — fully government-funded, with 600 paid internships and a five-region pilot, and no programme cost disclosed. [A university became the first tertiary institution to embed the national coders programme permanently in its curriculum on 29 July, receiving a further 2,000 laptops the next day](https://www.myjoyonline.com/yea-partners-ghana-digital-centres-to-train-2000-youth-in-ai-cybersecurity-and-digital-skills/). Three universities — Kumasi Technical University, the Kwame Nkrumah University of Science and Technology and the University of Mines and Technology — [completed the first pilot of the European-funded UNIHUBS blended-learning course in entrepreneurship, innovation and digital skills, run from late June to July and reported on 3 September](https://www.ghanawebbers.com/GhanaHomePage/business/KsTU-KNUST-and-UMaT-Join-EU-Program-for-Innovation-and-Digital-Skills-2174760), covering business development, technology transfer in higher education, digital marketing and professional communication. The consortium treated it as a quality-assurance run before pilots in Kenya and Tanzania this month; no participant count, budget or grant number is published, and the account is the project's own.
 
 The coders programme published its funnel rather than a headline for the first time: [141,954 registered accounts, 27,782 admitted learners and 5,812 logged course completions as at 2 August 2026, cybersecurity the largest track at 8,570](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/), with 30,444 admitted through one commercial platform, 10,143 through a second and 24,394 learners self-paced. Registration is not admission and admission is not completion, and it is the ratio between them rather than any one number that measures the programme against its target of a million.
 
 The coders programme is to reach first-year degrees: the minister [said 12 universities have signed memoranda to carry its courses in Level 100](https://www.myjoyonline.com/digital-skills-training-producing-solution-driven-youth-for-ghanas-future-sam-george/).
 
-The coders programme's registrations [stood at 141,954 accounts in August](https://www.graphic.com.gh/news/general-news/ghana-news-one-million-coders-programme-enrols-141-954.html), with the minister putting its signed university memoranda at twelve.
+The TVET Service [signed a memorandum with UNESCO, KPMG and Microsoft under the AI EmpowerED initiative to train at least 100,000 TVET facilitators in AI and digital skills](https://gna.org.gh/2026/09/tvet-service-unesco-kpmg-and-microsoft-partner-to-train-100000-facilitators-in-ai-and-digital-skills/), reported on 23 September. No cost or timeline is stated.
 <!-- /narrative -->
 ### Research institutions
 

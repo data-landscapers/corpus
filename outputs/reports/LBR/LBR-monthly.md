@@ -1,11 +1,11 @@
 ---
 title: Liberia — monthly update, August – September 2026
-compiled: 2026-09-21
-period: 2026-08-01 to 2026-09-21
+compiled: 2026-09-23
+period: 2026-08-01 to 2026-09-23
 place: LBR
-ledger_rows: 43
+ledger_rows: 44
 not_held: 6
-record: 256d58a6c206
+record: 080a64d838cd
 ---
 
 # Liberia: monthly update, August – September 2026
@@ -66,6 +66,8 @@ The month's one channel built to hear from the public rather than about it was r
 
 <!-- narrative: ict-infrastructure--infra-cybersec -->
 The Cybercrime Act 2025 was [announced as signed on 19 August 2026](https://www.wearetech.africa/en/fils-uk/news/public-management/liberia-enacts-cybercrime-and-data-protection-laws), and the enacted text has now been read: [approved on 3 July and printed on 24 July, it creates a National Cybersecurity Council with the national CERT as technical arm, requires breach reports within 72 hours and protects whistleblowers](https://mopt.gov.lr/wp-content/uploads/2026/09/Cybercime_Act_of_2025_Printed_Version_20260724_063806.pdf). Commentary [reads its speech-adjacent offences at sections 15 to 20 against the constitution's free-expression article and the 2019 press-freedom Act](https://frontpageafricaonline.com/liberias-free-speech-balancing-act-and-what-the-cybercrime-law-actually-changed/).
+
+Police [confirmed in September that a man held over AI-generated images of the Vice-President was arrested under the Act](https://www.thenewdawnliberia.com/koung-seeks-release-of-ai-image-suspect/). On 22 September a criminal court [ordered him freed on a habeas corpus petition, and the main opposition party said the same day it would ask the Supreme Court to rule on the Act's constitutionality](https://frontpageafricaonline.com/liberia-cdc-prepares-to-take-cybercrime-law-fight-to-supreme-court-after-wrato-release/). No court has ruled on whether the conduct is an offence under the Act.
 <!-- /narrative -->
 
 ## DPI
@@ -153,6 +155,8 @@ On 31 July, 19 young leaders took the [first of three media and information lite
 UNDP also [announced a partnership with the University of Liberia to establish the country's first master's degree in artificial intelligence](https://www.undp.org/liberia/blog/liberias-digital-future-will-be-defined-investments-we-make-people-today), with no commitment amount disclosed.
 
 A second route into the national university was signed rather than built: a [tripartite memorandum of 27 August under which a foreign online university covers 97% of online tuition for more than 200 students, with three smart classrooms due in 2027](https://www.liberianobserver.com/news/ul-signs-tripartite-partnership/article_5cddfcff-d093-4f21-a8b5-4ad801df628a.html). No commitment amount is stated, so what the repository holds is a tuition-waiver share, a student count and a classroom count with no money behind any of them. [National stakeholder consultations on establishing the university's master's programme in artificial intelligence are running with UNDP support](https://www.undp.org/liberia/press-releases/building-liberias-ai-future-undp-ul-consult-stakeholders), bringing together government institutions, development partners, academia, private-sector actors and civil society.
+
+The gender ministry [signed an agreement with Cybastion to build women's technology and business hubs with childcare centres](https://techafricanews.com/2026/09/23/liberia-cybastion-women-digital-business-innovation-hubs/), a flagship campus in Monrovia and sites in Voinjama, Gbarnga, Kakata and Buchanan, with training through the Cisco Networking Academy. It was reported on 23 September with no cost or timetable.
 <!-- /narrative -->
 
 ## Inclusion
