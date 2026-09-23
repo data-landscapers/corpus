@@ -15,7 +15,7 @@ file by slicing it, so the second and third cost a render rather than a second r
 — which is the whole reason the run issues all three at initialisation.
 
 **The progress report is two documents behind one name** *(2026-08-26,
-`documentation/progress-report-redesign.md`)*. A **country** answers the 121-indicator frame in
+`documentation/progress-report-redesign.md`)*. A **country** answers the indicator frame in
 `lookups/indicators.csv`, one row per indicator and the same set everywhere, drawing its mapping
 and its prose from `outputs/reports/{unit}/indicators.csv` — so its rows are chosen by design
 rather than by arrival, and **No evidence** is the answer where the base holds nothing. A
@@ -1454,7 +1454,7 @@ def render_progress(unit, today, month, window, end=None):
     XAF, XSA and XWA issue the progress report and nothing else, and their sections deliberately
     run from the region's institutions outwards rather than through the taxonomy — a shape the
     indicator list was not drawn for. So the region keeps the movement ledger it already has,
-    rather than being handed a frame of 121 country questions to answer 121 times with No
+    rather than being handed a frame of country questions to answer every time with No
     evidence. Extending the frame to regions later is possible; doing it silently at a migration
     is not."""
     if profile(unit)["sections"]:
@@ -1487,14 +1487,14 @@ def render_progress_indicators(unit, today, month, window, end=None):
     view = indicators_lib.load_unit(REPORTS, unit)
     if view is None:
         # **Refused, not rendered empty.** With no mapping file every indicator would resolve to
-        # No evidence, and the render would write a 121-row blank frame over a real report and
+        # No evidence, and the render would write a blank frame over a real report and
         # report success — the same unrecoverable shape `initialised()` keeps off the STATUS-INIT
         # baseline, where "the render succeeds, the file is well-formed, and what it replaced is
         # only in git". The mapping pass is what fills this file; until it has run for this unit,
         # the old document is better than a correct rendering of nothing.
         print(f"{unit}: no {os.path.relpath(indicators_lib.unit_path(REPORTS, unit), ROOT)} — "
               f"the indicator mapping pass has not run for this unit, so there is nothing to "
-              f"render the frame against. Refusing rather than writing 121 No evidence rows over "
+              f"render the frame against. Refusing rather than writing a frame of No evidence rows over "
               f"the existing report.")
         return 1
 

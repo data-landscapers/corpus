@@ -5,12 +5,12 @@
                                    site/progress/countries/index.html
 
 **The same numbers, read two ways.** Every country progress report answers one fixed
-frame of 121 indicators, so the answers form a 54 x 121 grid with a value in every
+frame of indicators, so the answers form a countries x indicators grid with a value in every
 cell. Counting it down the columns gives *for this indicator, how many countries came
 out at each value*; counting it down the rows gives *for this country, how many
 indicators*. Neither is a new finding — both are the same grid, tallied — which is
 why the two pages are one builder and why the totals are asserted rather than
-printed and hoped over: every topics row sums to 54 and every countries row to 121,
+printed and hoped over: every topics row sums to 54 and every countries row to the frame's size,
 and a build where one does not has misread a report rather than found something.
 
 **The grid is read out of the published reports, not out of `indicators.csv`.** The
@@ -23,7 +23,7 @@ property that these counts cannot drift from what is published.
 
 Rows are keyed on the report's own `(Topic, Indicator)` pair against
 `lookups/indicators.csv`, and the mapping is asserted total in both directions per
-report: 121 pairs in, 121 matched, none left over. A renamed indicator therefore
+report: every pair in is matched and none is left over. A renamed indicator therefore
 stops the build here rather than quietly dropping a row out of a count.
 
 **Zeros print, muted.** A blank cell in a count table reads as *not counted* rather
@@ -237,8 +237,12 @@ def group_row(label: str, href: str | None) -> str:
     return f'<tr class="group"><th scope="rowgroup">{inner}</th>{blanks}</tr>\n'
 
 
-def topics_table(indicators, grid) -> str:
-    """One row per topic, then one per indicator under it, counted over places."""
+def topics_table(indicators, grid, unheaded=frozenset()) -> str:
+    """One row per topic, then one per indicator under it, counted over places.
+
+    An indicator in `unheaded` is printed as a plain label: no country has evidence on it, so
+    the topic document prints no heading for it (`topic-render.py`'s lift-only rule) and a link
+    would scroll nowhere. A topic whose every indicator is unheaded has no document at all."""
     per_indicator = defaultdict(Counter)
     for (_iso, iid), value in grid.items():
         per_indicator[iid][value] += 1
@@ -249,10 +253,13 @@ def topics_table(indicators, grid) -> str:
     for row in indicators:
         topic_key, anchor = row["indicator_id"].split("--", 1)
         slug = topic_key.replace(".", "-")
+        page = f"../topics/{slug}/{slug}-progress.html"
         if topic_key != current:
             current = topic_key
             out.append(group_row(row["Topic"].upper(),
-                                 f"../topics/{slug}/{slug}-progress.html"))
+                                 page if any(r["indicator_id"].startswith(topic_key + "--")
+                                             and r["indicator_id"] not in unheaded
+                                             for r in indicators) else None))
         counts = per_indicator[row["indicator_id"]]
         total = sum(counts.values())
         if total != places:
@@ -260,10 +267,9 @@ def topics_table(indicators, grid) -> str:
                 f"progress.py: {row['indicator_id']} is answered by {total} reports, "
                 f"not {places} — every country answers every indicator, so a row "
                 f"that does not sum to the place count has lost or doubled one.")
-        out.append(
-            f'<tr><td class="rowhead indicator">'
-            f'<a href="../topics/{slug}/{slug}-progress.html#{anchor}">'
-            f'{row["Progress indicator"]}</a></td>{cells(counts)}</tr>\n')
+        label = (row["Progress indicator"] if row["indicator_id"] in unheaded
+                 else f'<a href="{page}#{anchor}">{row["Progress indicator"]}</a>')
+        out.append(f'<tr><td class="rowhead indicator">{label}</td>{cells(counts)}</tr>\n')
     out.append("</tbody>\n</table></div>\n")
     return "".join(out)
 
@@ -333,13 +339,23 @@ def indent(html: str) -> str:
     return "\n".join("      " + ln if ln.strip() else ln for ln in html.splitlines())
 
 
-def check_links(indicators) -> None:
+def unheaded(indicators, grid) -> set[str]:
+    """The indicators *No evidence* in every country: the topic document has no heading for
+    them, so they are printed unlinked. A new indicator is one until its first mapped row."""
+    held = {iid for (_iso, iid), value in grid.items() if value != "No evidence"}
+    return {r["indicator_id"] for r in indicators} - held
+
+
+def check_links(indicators, skip=frozenset()) -> None:
     """Every topic report and every indicator anchor these tables point at.
 
     Run before either page is written, so a missing bookmark stops the build
-    instead of publishing a link that scrolls nowhere."""
+    instead of publishing a link that scrolls nowhere. `skip` is what `unheaded` found,
+    which the tables print without a link."""
     dead = []
     for row in indicators:
+        if row["indicator_id"] in skip:
+            continue
         topic_key, anchor = row["indicator_id"].split("--", 1)
         slug = topic_key.replace(".", "-")
         page = SITE / "topics" / slug / f"{slug}-progress.html"
@@ -370,28 +386,29 @@ def write(out_dir: Path, *, h1, title, description, url, depth, body, counted) -
 def main() -> int:
     indicators = load_indicators()
     names, region = load_countries()
-    check_links(indicators)
     grid = read_grid(indicators)
+    bare = unheaded(indicators, grid)
+    check_links(indicators, bare)
     places = len({iso for iso, _ in grid})
     counted = (f"{places} country progress reports &times; {len(indicators)} "
                f"indicators, as published")
 
     write(SITE / "progress",
           h1="Progress", title="Progress by topic",
-          description=("How far each of 121 indicators has moved across 54 African "
-                       "countries, counted from the country progress reports."),
+          description=(f"How far each of {len(indicators)} indicators has moved across 54 "
+                       f"African countries, counted from the country progress reports."),
           url="/progress/", depth=1,
           body=toc("topics") + intro("progress-topics")
-               + topics_table(indicators, grid),
+               + topics_table(indicators, grid, bare),
           counted=counted)
     print(f"progress: {len(indicators)} indicators over {places} places "
           f"-> site/progress/index.html")
 
     write(SITE / "progress" / "countries",
           h1="Progress", title="Progress by country",
-          description=("How far each of 54 African countries has moved across a "
-                       "fixed frame of 121 indicators, counted from the country "
-                       "progress reports."),
+          description=(f"How far each of 54 African countries has moved across a "
+                       f"fixed frame of {len(indicators)} indicators, counted from the "
+                       f"country progress reports."),
           url="/progress/countries/", depth=2,
           body=toc("countries") + intro("progress-countries")
                + countries_table(indicators, grid, names, region),

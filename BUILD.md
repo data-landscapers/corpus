@@ -171,7 +171,7 @@ python scripts/rebuild.py --reports all      # rebuild every report's tables fro
 ## Stage 6 — topic reports (derived from the place documents)
 
 ```bash
-python scripts/topic-render.py            # 38 slugs, two documents each -> outputs/topics/
+python scripts/topic-render.py            # every slug, two documents each -> outputs/topics/
 python scripts/topic-render.py --check    # check G over what it wrote
 ```
 

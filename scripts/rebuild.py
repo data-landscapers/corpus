@@ -199,7 +199,7 @@ def run_soft(*args):
 
     **Stage 5 must not stop at the first unit that declines to render** *(2026-08-27)*. A unit
     with no `indicators.csv` refuses on purpose — the mapping pass has not reached it and the
-    renderer will not write 121 *No evidence* rows over a report that has real prose in it — and
+    renderer will not write a frame of *No evidence* rows over a report that has real prose in it — and
     with 28 units still unmapped that correct refusal was aborting the whole batch, so `--reports
     all` could not be run at all until the backlog cleared. A refusal by design is not a build
     failure; what the driver owes is to carry on and say how many it skipped.

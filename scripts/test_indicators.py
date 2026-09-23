@@ -8,7 +8,7 @@ later edit could break silently. Three groups:
 
 **The frame** — `lookups/indicators.csv` is the canonical list and is hand-maintained, so the
 things a hand can get wrong are checked: a duplicate or missing id, a subject outside the
-taxonomy, a chapter the taxonomy does not carry. The frame covering all 38 Level-2 subjects is
+taxonomy, a chapter the taxonomy does not carry. The frame covering every Level-2 subject is
 asserted rather than assumed, because §1's claim to ask "the same set of questions of every
 country" is exactly that coverage.
 

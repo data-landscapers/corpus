@@ -4,7 +4,7 @@ indicators_lib.py — the fixed frame of progress indicators, and the per-unit v
 
 `documentation/progress-report-redesign.md` is the decision record. The one sentence that
 matters here: **the progress report's rows are chosen by design, not by arrival**. The frame is
-the same 121 indicators for every country, and what varies between countries is only which of
+the same indicators for every country, and what varies between countries is only which of
 them the base can say anything about.
 
 Two files, and they are different kinds of thing.
@@ -24,7 +24,7 @@ ledger and never rebuilt: a re-render costs a render, not a redraft. `load_unit(
 `taxonomy_lib`'s docstring gives at length. The compile stage runs from a workroot in which
 `lookups/` is a junction to **OSINT's** `lookups/`, not Corpus's. A relative read of
 `lookups/indicators.csv` there resolves into another repository's tree, finds nothing, and the
-renderer would then render 121 No evidence rows over 54 real reports while reporting a normal
+renderer would then render a frame of No evidence rows over 54 real reports while reporting a normal
 build. `Path(__file__).resolve()` is what keeps this Corpus's own tree; `.resolve()` because
 `scripts/` is itself a junction in the workroot.
 """
@@ -136,7 +136,7 @@ def by_chapter(order: list[str]) -> list[tuple[str, list[dict]]]:
 
     The order is passed in rather than read here so that the document's chapter sequence has one
     source, `taxonomy_lib`, and cannot drift from the status report's beside it. A chapter the
-    frame holds nothing for is not returned; with the frame covering all 38 subjects that cannot
+    frame holds nothing for is not returned; with the frame covering every subject that cannot
     currently arise, and it is a cheaper thing to allow than to assert.
     """
     groups: dict[str, list[dict]] = {}
@@ -154,7 +154,7 @@ def load_unit(reports_dir: str, unit: str) -> dict[str, dict] | None:
 
     **None is not an empty mapping and the caller must not treat it as one.** An absent file means
     the mapping pass has not run for this unit; an empty one would mean it ran and found nothing.
-    Rendering the first as the second writes 121 No evidence rows over a real report and reports a
+    Rendering the first as the second writes a frame of No evidence rows over a real report and reports a
     normal build — the same shape of unrecoverable success that `initialised()` guards the status
     baseline against, and `render_progress()` refuses it for the same reason.
     """

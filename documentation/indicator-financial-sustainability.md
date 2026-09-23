@@ -31,7 +31,7 @@ The instrument row `finance.budget--sustainable-domestic-financing-of-digital-tr
 
 ## 3. The frame row
 
-`finance.sustain--financial-sustainability-of-digital-systems, 40, 1, Finance, Financial sustainability, finance.sustain, Financial sustainability of digital systems, measure, 1` — `Topic Sort` 40, appended after `geopol.sovereignty` (39) so that no other subject renumbers; the Level-1 grouping puts it in the Finance chapter, which CC checks at B3. Adjust to whatever sort order OSINT gives it. `finance.mou--strategic-relationships` gets `assessed = 0`, `retired = 2026-09-22` in the same edit.
+`finance.sustain--financial-sustainability-of-digital-systems, 8, 1, Finance, Financial sustainability, finance.sustain, Financial sustainability of digital systems, measure, 1` — `Topic Sort` 8, after `finance.budget`; the subjects after it renumber by one, which is display order only. *(Minted 2026-09-23, task B3. Appending it at 40 was the first plan; the catalogue's topic facet starts a group whenever the chapter changes, so Finance would have printed twice.)* `finance.mou--strategic-relationships` gets `assessed = 0`, `retired = 2026-09-22` in the same edit.
 
 **Kind: measure.** The figure of record is defined in §5.
 

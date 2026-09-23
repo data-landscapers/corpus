@@ -33,7 +33,7 @@ Sources tagged `geopol.usa` and the rest keep their tags; a source is tagged `ge
 
 ## 3. The frame row
 
-`geopol.sovereignty--digital-sovereignty, 39, 1, Geopolitics, Digital sovereignty, geopol.sovereignty, Digital sovereignty, instrument, 1` — `Topic Sort` 39 on the assumption the subject is added after `geopol.india` (38); adjust to whatever sort order OSINT gives it. The five `geopol.*` rows get `assessed = 0` in the same edit.
+`geopol.sovereignty--digital-sovereignty, 40, 1, Geopolitics, Digital sovereignty, geopol.sovereignty, Digital sovereignty, instrument, 1` — `Topic Sort` 40, last in the Geopolitics chapter *(minted 2026-09-23, task B3)*. The five `geopol.*` rows get `assessed = 0` in the same edit.
 
 **Kind: instrument.** The evidence is policy, law and contract terms, with hosting and maintenance facts as their test; the ladder is the instrument family's (absent → stated → in force for categories → applied across the estate → the continental end state). A measure form — share of state data hosted under national jurisdiction — was considered and set aside: no country publishes it, and the base cannot compute it.
 
