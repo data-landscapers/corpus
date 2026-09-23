@@ -2,7 +2,7 @@
 type: review
 title: maturity-rubric-review.md — CC's review of each rubric chapter before it is cut (task C2)
 last_reviewed: 2026-09-23
-status: Governance and the Finance instrument accepted and cut 2026-09-23; DPI accepted and cut 2026-09-23 (second review); 64 of 117 cut
+status: Governance and the Finance instrument accepted and cut 2026-09-23; DPI accepted and cut 2026-09-23; 64 of 117 cut; Infrastructure, Digitalisation and Technology reviewed 2026-09-23 — returned with three one-line items
 ---
 
 # Rubric review
@@ -91,3 +91,15 @@ When the six are in, CC re-runs the checker and cuts DPI (instruments and system
 **All six items are in**, the checker reads the draft clean with no warnings, and the Governance chapter still reads as its cut. The two exchange rows now read links — one exchange in service at stage 3, exchanges on a shared identifier at stage 4 — so an EMIS or a social registry coming into service moves the MIS or registry row and not the exchange row as well. Cut by `maturity-rubric-cut.py --chapter DPI --kind instrument --kind system`: 34 indicators, 170 rows; the lookup holds 64 of 117, 229 interpolated rungs.
 
 **Register aligned**: Cowork corrected `dpi.pay--revenue-collection`'s TADAT reference to P5-15; CC made `dpi.mis--tax`'s anchor P4-14 and P5-15 with the lower deciding, as the rubric now reads, and re-cut `maturity-norms.csv`.
+
+## Infrastructure, Digitalisation and Technology — reviewed 2026-09-23: returned, three one-line items
+
+**The checker is clean**: 19 indicators (14 systems, 5 instruments), 95 rows, no warnings; earlier cuts unchanged. Every heading matches the register's anchor and *fixes*. **Reviewing the three chapters as one is fine** — the checker's counts keep them apart. The shared `digital.rural` ladder, the composite cybersecurity row with the lower element deciding, the unbanded backbone length carried in the qualifier, and the Corpus-defined police row all interpolated are right as drafted. Three edits, then CC cuts all three chapters' instruments and systems.
+
+**1. `infra.connect--internet-exchange-points` stages 3–4 key on the snapshot month.** *No growth in the window* (stage 3) and *published and growing* (stage 4) read growth over one month, which is noise for an IXP and would move the stage with each traffic report. Delete *no growth in the window* from stage 3, and make stage 4's clause *traffic or capacity published at two dates at least 12 months apart, showing growth*.
+
+**2. `gov.policy--open-data-policy` stage 4 has the same fault, in the chapter already cut.** *Publication activity in the window on record* — CC missed it in the Governance review. Make it *in the 12 months to the as-at date*, as `open-discussion` now reads. CC re-cuts Governance with this chapter and has widened D2's look-back exception to cover both rows.
+
+**3. `tech.innovate--technology-hubs` stage 5 — "connected to" its region's park names no evidence.** Make it *the country hosting its region's technology park, or a national park linked to it by an agreement on record*.
+
+**The draft's question on `rural-primary-schools` stage 4: keep `no`.** `interpolated` asks who states the rung, and the DES states the 2027 figures; that they are national and the row reads rural schools changes what the assessor counts, not who set the bar. The row's note should say the figure is the DES's national one, and the qualifier carries the rural share where the base holds it.
