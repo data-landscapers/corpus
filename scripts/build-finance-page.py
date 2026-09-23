@@ -296,7 +296,9 @@ def aggregate3(ns, dom, fx):
 def recip_org(T):
     """Recipient organisation, name only — no descriptive suffix, no trailing (ISO3)."""
     v = T.get("Recipient", "").strip()
-    if not v or v.lower().startswith("recipient unspecified"):
+    # "(unspecified — pan-African start-ups)" names no organisation; the dash split below
+    # would otherwise publish "(unspecified" as one.
+    if not v or v.lower().startswith(("recipient unspecified", "unspecified", "(")):
         return ""
     v = re.split(r'\s[—–]\s|\s-\s', v)[0].strip()      # cut at em/en dash or spaced hyphen only
     v = re.sub(r'\s*\([A-Z]{3}\)\s*$', '', v).strip()  # drop a trailing country tag
