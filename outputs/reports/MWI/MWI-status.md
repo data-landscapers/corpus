@@ -1,12 +1,12 @@
 ---
 title: Malawi: status report
-compiled: 2026-09-17
+compiled: 2026-09-23
 place: MWI
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 8
-sources_cited: 187
+sources_cited: 189
 sections_written: 37
 not_established: 0
 acquire_lines: 44
@@ -101,7 +101,7 @@ Both operators have built anyway. TNM [launched 5G in Lilongwe in July 2025, cre
 ### Data Storage
 <!-- infra.store -->
 
-Local hosting became a commercial proposition in May 2026, when Sparc Systems [opened a data centre in Lilongwe pitched explicitly at ending Malawian reliance on offshore hosting](https://malawi24.com/2026/05/01/sparc-moves-to-end-malawis-reliance-on-offshore-data/), joining a further commercial facility in Blantyre. The country's first Tier III site is the [National Data Center in Blantyre, opened in 2022](https://ml.mw/2022/09/07/the-national-data-center-blantyre-blog-post/), [built through a partnership between the government and Huawei and inaugurated by the state president in July 2022](https://www.apc.org/en/news/malawi-dragging-its-feet-filling-legal-gaps-prevent-human-rights-violations). No [hyperscale cloud provider maintains a point of presence in Malawi](https://inflect.com/datacenters/malawi) (2025), so enterprise cloud is reached through a regional hub abroad.
+Local hosting became a commercial proposition in May 2026, when Sparc Systems [opened a data centre in Lilongwe pitched explicitly at ending Malawian reliance on offshore hosting](https://malawi24.com/2026/05/01/sparc-moves-to-end-malawis-reliance-on-offshore-data/), joining a further commercial facility in Blantyre. The country's first Tier III site is the [National Data Center in Blantyre, opened in 2022](https://ml.mw/2022/09/07/the-national-data-center-blantyre-blog-post/), [built through a partnership between the government and Huawei and inaugurated by the state president in July 2022](https://www.apc.org/en/news/malawi-dragging-its-feet-filling-legal-gaps-prevent-human-rights-violations). [It hosted 78 virtual machines for ministries, agencies and private clients in February 2024](http://mbc.mw/data-centre-gets-overwhelming-response-from-mdas-private-sector/). [A second Tier III centre in Lilongwe is now the government's primary site, with Blantyre as its disaster-recovery site, and a 36-month managed-services contract to run it was tendered in February 2025](https://api.pppc.mw/api/download/647). No [hyperscale cloud provider maintains a point of presence in Malawi](https://inflect.com/datacenters/malawi) (2025), so enterprise cloud is reached through a regional hub abroad.
 
 Government has settled on holding its own bytes. The [Boma Lathu platform runs on locally hosted servers under the Digital Malawi Acceleration Project](https://itweb.africa/article/malawi-integrates-immigration-e-services/Olx4z7kaxp3q56km), and the integration design has [each department retain ownership of its data and host it locally](https://itweb.africa/article/malawi-integrates-immigration-e-services/Olx4z7kaxp3q56km) rather than pooling it — the arrangement under which [immigration services joined the platform](https://itweb.africa/article/malawi-integrates-immigration-e-services/Olx4z7kaxp3q56km) in July 2026, with [proposed rules routing inter-agency requests through the National Data Centre](https://itweb.africa/article/malawi-devises-operational-rules-for-national-data-exchange-platform/xnklOvz1R2bq4Ymz).
 

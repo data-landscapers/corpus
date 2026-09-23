@@ -1,11 +1,11 @@
 ---
 title: Malawi — monthly update, August – September 2026
-compiled: 2026-09-21
-period: 2026-08-01 to 2026-09-21
+compiled: 2026-09-23
+period: 2026-08-01 to 2026-09-23
 place: MWI
 ledger_rows: 65
-not_held: 38
-record: 588d8358898a
+not_held: 37
+record: b47bc9262784
 ---
 
 # Malawi: monthly update, August – September 2026
@@ -132,7 +132,7 @@ On International Identity Day the registration bureau [launched the Nzika wallet
 On 25 July the central bank's expected banknote replacement cost for 2026 was reported at MWK 69.8bn against MWK 50.6bn in 2025, with an economists' association president naming government levies on digital money transfers as a reason cash use persists.
 
 
-Two things moved in the regional rails above it. The regional clearing house [published the scheme rulebook for instant low-cost cross-border retail payments, with a gender audit and strategy to 2030 drawn from research along the corridor with Zambia](https://www.linkedin.com/posts/comesa-clearing-house_comesaclearinghouse-drpp-regionalintegration-activity-7492550470780182528-vX_W), giving the platform operational and governance rules it lacked. Separately a commercial bank and an international card scheme [opened online acceptance of that scheme's cards in nine African markets including Malawi on 19 August](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/); the merchant count is given for the nine together and not for Malawi.
+The regional clearing house [published the scheme rulebook for instant low-cost cross-border retail payments, with a gender audit and strategy to 2030 drawn from research along the corridor with Zambia](https://www.linkedin.com/posts/comesa-clearing-house_comesaclearinghouse-drpp-regionalintegration-activity-7492550470780182528-vX_W), giving the platform operational and governance rules it lacked. Separately a commercial bank and an international card scheme [opened online acceptance of that scheme's cards in nine African markets including Malawi on 19 August](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/); the merchant count is given for the nine together and not for Malawi.
 
 The same report gives the mobile-money platform its first published revenue line: [MK51.93bn in 2025, up 77 per cent, on a stated base of more than 140,000 active agents](https://malawi24.com/2026/08/24/can-tnms-mk30-87bn-investment-meet-demand/).
 <!-- /narrative -->

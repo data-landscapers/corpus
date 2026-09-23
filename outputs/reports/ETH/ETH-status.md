@@ -1,6 +1,6 @@
 ---
 title: Ethiopia: status report
-compiled: 2026-09-21
+compiled: 2026-09-23
 place: ETH
 region: XEA
 built_by: STATUS-INIT
@@ -88,7 +88,7 @@ The same reticence runs through the digital estate: [documentation and assessmen
 ### MoUs and other agreements
 <!-- finance.mou -->
 
-Ethiopia's most consequential signature has hardened: [the Horizon Fiber memorandum of December 2024, between Ethio Telecom, Djibouti Telecom and Sudatel, became binding in February 2026](https://www.connectingafrica.com/partnerships/east-african-telcos-ink-cross-border-fiber-network-deal), committing the three to a terrestrial fibre corridor running from Djibouti's cable landings through Ethiopia to Sudan's and casting Ethiopia as a regional transit route.
+[The Horizon Fiber memorandum of December 2024, between Ethio Telecom, Djibouti Telecom and Sudatel, became binding in February 2026](https://www.connectingafrica.com/partnerships/east-african-telcos-ink-cross-border-fiber-network-deal), committing the three to a terrestrial fibre corridor running from Djibouti's cable landings through Ethiopia to Sudan's and casting Ethiopia as a regional transit route.
 
 Little else does. The December 2025 memorandum under the America First Global Health Strategy sets out [a United States intention to fund Ethiopian health data systems over 2026 to 2030, on a declining annual schedule totalling under US$20 million, with Ethiopia undertaking to meet the software licensing, cloud, hardware maintenance and replacement costs itself](https://www.citizen.org/wp-content/uploads/2026-0004QN-Ethiopia-Health-12.23.2025.pdf); the memorandum records that it is not an international agreement, and the funding is subject to appropriations. On the domestic side, [Safaricom Ethiopia has partnered with the National ID Program to run Fayda enrolment under Lots 3 and 4 (July 2026)](https://techreviewafrica.com/news/6190/safaricom-ethiopia-partners-national-id-program-to-expand-digital-identity-registration), adding a second telco-led registration channel.
 

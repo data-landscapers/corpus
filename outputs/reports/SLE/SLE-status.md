@@ -1,12 +1,12 @@
 ---
 title: Sierra Leone: status report
-compiled: 2026-09-16
+compiled: 2026-09-23
 place: SLE
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-20
 intersections_read: 10
-sources_cited: 138
+sources_cited: 139
 sections_written: 37
 not_established: 2
 acquire_lines: 48
@@ -219,7 +219,7 @@ Justice and policing are at blueprint stage. An [e-Justice Blueprint launched in
 
 The most substantial thing a Sierra Leonean can do online with the state is pay tax: the revenue authority runs the [Integrated Tax Administration System nationwide with an online taxpayer portal](https://portal.nra.gov.sl/), through which [income tax and vehicle tax are filed and paid by mobile money and wallet](https://sierraloaded.sl/news/nra-digital-tax-mobile-payments-modernise/).
 
-Business users get less. The Office of the Administrator and Registrar-General offers an [online business-name search on a register that is only partially digitised](https://oarg.gov.sl/business-register/), and the land register behind property transactions [remains largely paper](https://documents1.worldbank.org/curated/en/271611654274113098/pdf/Sierra-Leone-Land-Administration-Project.pdf). Passports, work and residence permits, driving licences and vehicle registration are [gated on the identity number](https://ncra.gov.sl/passports-work-resident-permits-now-tied-to-nin/) rather than delivered online. On procurement, the National Public Procurement Authority sent a delegation to Liberia on [6-7 August 2026 to study that country's electronic government procurement platform](https://www.liberianobserver.com/news/liberia-s-e-gp-system-becomes-regional-model/article_578f3d8d-5076-43c2-8d63-594282d1476a.html).
+Business users get less. The Office of the Administrator and Registrar-General offers an [online business-name search on a register that is only partially digitised](https://oarg.gov.sl/business-register/), and the land register behind property transactions [remains largely paper](https://documents1.worldbank.org/curated/en/271611654274113098/pdf/Sierra-Leone-Land-Administration-Project.pdf). Passports, work and residence permits, driving licences and vehicle registration are [gated on the identity number](https://ncra.gov.sl/passports-work-resident-permits-now-tied-to-nin/) rather than delivered online. [The electronic government procurement platform's supplier registration module was live by January 2026, with the platform hosted in the Ministry of Finance data centre ahead of full rollout](https://sierraloaded.sl/news/nppa-inspects-e-gp-data-center-finance/), and the National Public Procurement Authority sent a delegation to Liberia on [6-7 August 2026 to study that country's electronic government procurement platform](https://www.liberianobserver.com/news/liberia-s-e-gp-system-becomes-regional-model/article_578f3d8d-5076-43c2-8d63-594282d1476a.html).
 
 Coordination is centralised on paper: government digital solutions go through a [Digital Service Compliance review](https://mocti.gov.sl/digital-service-compliance/) process run by the Ministry of Communication, Technology and Innovation. The systems that watch the rest of government are themselves unfinished. [SierraSeat](https://sierraleoneconcordtimes.com/audit-service-conducts-sierraseat-post-configuration-training/), the audit management system built for Audit Service Sierra Leone as a World Bank-funded customisation of AFROSAI-E's A-SEAT to run planning, supervision, documentation, reporting and follow-up end to end, was in the last stage of user acceptance testing and not in production as at 11 August 2026. The National Monitoring and Evaluation Agency is [expanding a platform giving authorised personnel real-time metrics on public projects](https://apanews.net/namea-highlights-achievements-in-sierra-leone-project-oversight/), and its director-general acknowledges continuing rollout problems with data entry and reporting.
 

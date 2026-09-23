@@ -1,6 +1,6 @@
 ---
 title: Rwanda: status report
-compiled: 2026-09-20
+compiled: 2026-09-23
 place: RWA
 region: XEA
 built_by: STATUS-INIT
@@ -42,7 +42,7 @@ Rwanda's data protection supervisory authority sits inside the [National Cyber S
 
 The law itself is demanding. Breach notification runs to a clock: a [processor must tell the controller within 48 hours of becoming aware of a personal data breach, the controller must notify the Data Protection and Privacy Office in the same window, a full written report is due to the supervisory authority within 72 hours, and affected data subjects must be told where the breach poses a high risk to their rights](https://rwandalii.org/akn/rw/act/law/2021/58/eng@2021-10-15). [Personal data must be stored inside the country unless the supervisory authority authorises otherwise](https://rwandalii.org/akn/rw/act/law/2021/58/eng@2021-10-15), and the [Act reaches any global platform processing the personal data of Rwandans, wherever the processor is established](https://www.newtimes.co.rw/article/32861/opinions/why-2026-is-the-year-of-accountability-for-data-controllers-and-processors). The World Bank records the [law in force and rated effective, the authority in place with an oversight role, and compliance monitored](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). Payments carry no separate privacy statute and are [covered by the general regime under the Data Protection and Privacy Office](https://dpo.gov.rw/about-us/who-we-are).
 
-Two things the regime does not yet cover. [No standing national body assesses AI risks or monitors AI errors and harms](https://www.undp.org/publications/small-states-big-signals-what-adoption-practice-reveals-about-trust-safety-and-ai-performance-globally) (2026). And the [EAC's newly approved regional rules on cross-border data flows and personal data protection must still pass the Community's decision-making organs before any partner state adopts them](https://newsaf.cgtn.com/news/2026-07-25/East-African-Community-pushes-for-a-single-digital-market-1P2UgLoWEPS/p.html) (July 2026).
+[No standing national body assesses AI risks or monitors AI errors and harms](https://www.undp.org/publications/small-states-big-signals-what-adoption-practice-reveals-about-trust-safety-and-ai-performance-globally) (2026). The [EAC's newly approved regional rules on cross-border data flows and personal data protection must still pass the Community's decision-making organs before any partner state adopts them](https://newsaf.cgtn.com/news/2026-07-25/East-African-Community-pushes-for-a-single-digital-market-1P2UgLoWEPS/p.html) (July 2026).
 
 The regime sits in a narrowing rights environment: Rwanda's [Digital Freedom score fell 6.9 points over 2014-2023 to 37.7 of 100, 43rd of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-rw.pdf) (2023), and rights is one of the country's weakest governance sub-categories.
 

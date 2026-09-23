@@ -1,11 +1,11 @@
 ---
 title: Zimbabwe — monthly update, August – September 2026
-compiled: 2026-09-21
-period: 2026-08-01 to 2026-09-21
+compiled: 2026-09-23
+period: 2026-08-01 to 2026-09-23
 place: ZWE
-ledger_rows: 64
+ledger_rows: 65
 not_held: 7
-record: 3e70573821d5
+record: 7eca332a6df1
 ---
 
 # Zimbabwe: monthly update, August – September 2026
@@ -54,9 +54,9 @@ The child online protection policy moved to delivery. The ICT minister [told the
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
-A Rwandan immigration delegation toured two border posts on 29 July under a 2024 bilateral memorandum ([visit account](https://www.zbcnews.co.zw/rwanda-eyes-zimbabwes-border-technology-to-strengthen-immigration-systems/)).
+In August, Southern African regulators, data-protection authorities and artificial-intelligence task forces [met in Harare for a three-day workshop to harmonise national data-governance rules](https://spikedmedia.co.zw/one-voice-for-africas-data-inside-harares-push-to-harmonise-the-rules-of-the-digital-age/), anchored to the African Union data policy framework, a continental data governance blueprint, the regional data strategy and a UNESCO toolkit, with the convening body noting that only 1% of data-centre capacity sits within Africa. No outcome document, commitment or timetable from it is held.
 
-Harare then hosted the regional attempt to write common rules for the thing all these systems run on. Southern African regulators, data-protection authorities and artificial-intelligence task forces [met for a three-day workshop to harmonise national data-governance rules](https://spikedmedia.co.zw/one-voice-for-africas-data-inside-harares-push-to-harmonise-the-rules-of-the-digital-age/), anchored to the African Union data policy framework, a continental data governance blueprint, the regional data strategy and a UNESCO toolkit, with the convening body noting that only 1% of data-centre capacity sits within Africa. No outcome document, commitment or timetable from it is held.
+On 21 September POTRAZ, which holds the second vice-presidency of the Network of African Data Protection Authorities, [marked the first Africa Data Protection Day](https://technomag.co.zw/potraz-joins-continental-partners-to-commemorate-inaugural-africa-data-protection-day/) with a call for privacy-by-design; the network has 34 member authorities.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 

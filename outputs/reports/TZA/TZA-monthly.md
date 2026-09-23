@@ -1,11 +1,11 @@
 ---
 title: Tanzania — monthly update, August – September 2026
-compiled: 2026-09-21
-period: 2026-08-01 to 2026-09-21
+compiled: 2026-09-23
+period: 2026-08-01 to 2026-09-23
 place: TZA
-ledger_rows: 103
+ledger_rows: 104
 not_held: 5
-record: 86c6ddd227aa
+record: bf849a354249
 ---
 
 # Tanzania: monthly update, August – September 2026
@@ -80,7 +80,9 @@ A Korean track was pressed at the Korea-Africa economic cooperation ministerial,
 <!-- narrative: finance--finance-new -->
 A Korean development cooperation fund [committed US$170m to build an AI and digital technology training institute, approved at its 159th management committee and announced on 23 August 2026](https://techafricanews.com/2026/08/25/south-korea-approves-170-million-loan-ai-digital-training-tanzania/) - the fund's first AI project, with the institute to offer four programmes. No site, start date or disbursement schedule is published.
 
-The women's digital-finance programme launched on 2 September turns out to have been committed a year and a half earlier, and inside a much larger facility: a [US$160m development bank senior corporate loan to the telecoms group approved on 31 January 2025, of which a US$2.5m grant was earmarked for financial literacy and credit access for 34,000 women-led businesses across Madagascar, Tanzania and Senegal](https://afdb.africa-newsroom.com/press/african-development-bank-partners-with-axian-telecom-to-accelerate-africas-digital-transformation?lang=en). So the September announcement is the launch of an earmarked component rather than new capital, and no tenor, disbursement schedule or Tanzanian share is published for either.
+The women's digital-finance programme launched on 2 September was committed a year and a half earlier, inside a larger facility: a [US$160m development bank senior corporate loan to the telecoms group approved on 31 January 2025, of which a US$2.5m grant was earmarked for financial literacy and credit access for 34,000 women-led businesses across Madagascar, Tanzania and Senegal](https://afdb.africa-newsroom.com/press/african-development-bank-partners-with-axian-telecom-to-accelerate-africas-digital-transformation?lang=en). So the September announcement is the launch of an earmarked component rather than new capital, and no tenor, disbursement schedule or Tanzanian share is published for either.
+
+The Fair Competition Commission opened a review on 21 August of a [Kenyan bank's acquisition of 22.23% of the payments company Pesapal, which gives it indirect control of Pesapal's Tanzanian subsidiary, a payment service provider licensed by the Bank of Tanzania](https://techcabal.com/2026/09/22/tanzania-regulator-reveals-kcbs-22-23-stake-in-payments-firm-pesapal/). Public comment closed on 4 September; the price is undisclosed and no decision is on record.
 <!-- /narrative -->
 
 ## ICT Infrastructure

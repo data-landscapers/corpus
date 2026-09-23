@@ -1,11 +1,11 @@
 ---
 title: Algeria — monthly update, August – September 2026
-compiled: 2026-09-21
-period: 2026-08-01 to 2026-09-21
+compiled: 2026-09-23
+period: 2026-08-01 to 2026-09-23
 place: DZA
 ledger_rows: 47
 not_held: 7
-record: 38f111746520
+record: 9f95697c8cc2
 ---
 
 # Algeria: monthly update, August – September 2026
@@ -25,7 +25,7 @@ Underneath, the interior minister [ordered rapid correction of faults in vehicle
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
-Nothing moved on the 2030 strategy's own targets this month; what was published was a restatement of the vision behind them. State media described the transformation as [resting on data-protection and cybersecurity laws and on local infrastructure including national data centres, and as aimed at transparency in public management and at combating administrative malpractice](https://www.elmoudjahid.dz/fr/editorials/a-l-ere-du-tout-numerique-4195). It carries no target, budget or completion date, and sixteen months after the strategy was published the repository still holds no delivery figure against any of its three headline targets.
+On 8 September state media described the transformation as [resting on data-protection and cybersecurity laws and on local infrastructure including national data centres, and as aimed at transparency in public management and at combating administrative malpractice](https://www.elmoudjahid.dz/fr/editorials/a-l-ere-du-tout-numerique-4195). It carries no target, budget or completion date, and sixteen months after the strategy was published the repository still holds no delivery figure against any of its three headline targets.
 <!-- /narrative -->
 ### Legislation and regulation
 

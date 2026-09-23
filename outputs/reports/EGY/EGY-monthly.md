@@ -1,11 +1,11 @@
 ---
 title: Egypt — monthly update, August – September 2026
-compiled: 2026-09-21
-period: 2026-08-01 to 2026-09-21
+compiled: 2026-09-23
+period: 2026-08-01 to 2026-09-23
 place: EGY
 ledger_rows: 122
 not_held: 46
-record: 424ce0da3dc1
+record: 1be88b07b9d4
 ---
 
 # Egypt: monthly update, August – September 2026
@@ -25,7 +25,7 @@ The money and the models moved together. The state [signed a US$3.5bn spectrum a
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
-The month's largest single transaction was spectrum: [410 MHz awarded across 1.8, 2.6 and 3.5 GHz for US$3.5bn](https://www.connectingafrica.com/investment/egypt-seals-3-5b-spectrum-deal-with-telcos), doubling operator holdings at once, which the minister said matches all spectrum allocated in Egypt over the previous thirty years. The strategy behind it is not held; [Egypt refarmed 2.6 GHz for 5G rather than licensing dedicated mid-band](https://www.ookla.com/articles/5g-north-africa-2026), and set no coverage or speed obligations. Service coverage stands at [242 services, over 270 targeted by end-2026](https://gate.ahram.org.eg/News/5814629.aspx), and a [national data-centre strategy is under preparation](https://gate.ahram.org.eg/News/5722522.aspx) around data localisation, with no publication date or draft text held.
+The state [awarded 410 MHz across 1.8, 2.6 and 3.5 GHz for US$3.5bn](https://www.connectingafrica.com/investment/egypt-seals-3-5b-spectrum-deal-with-telcos), doubling operator holdings at once, which the minister said matches all spectrum allocated in Egypt over the previous thirty years. The strategy behind it is not held; [Egypt refarmed 2.6 GHz for 5G rather than licensing dedicated mid-band](https://www.ookla.com/articles/5g-north-africa-2026), and set no coverage or speed obligations. Service coverage stands at [242 services, over 270 targeted by end-2026](https://gate.ahram.org.eg/News/5814629.aspx), and a [national data-centre strategy is under preparation](https://gate.ahram.org.eg/News/5722522.aspx) around data localisation; on 22 September the minister said it [would be launched by the end of 2026](https://egyptian-gazette.com/egypt/ict-minister-unveils-data-centre-strategy-plans-at-fdc-summit/), and no draft text is held.
 <!-- /narrative -->
 ### Legislation and regulation
 
@@ -122,7 +122,7 @@ Remote identity checks moved onto phones. The communications and interior minist
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
-Two things moved on the payment rails. The instant payment network [began crediting inbound cross-border remittances instantly at all banks operating in Egypt](https://gate.ahram.org.eg/News/5541984.aspx). And factoring, where the platform now [vets invoices before financing to enforce the ban on double-funding a receivable](https://www.dailynewsegypt.com/2026/02/08/egypts-fra-launches-digital-factoring-portal-to-curb-financing-risks), against factored paper up 77.8% in 2025 to EGP 132.2bn.
+The instant payment network [began crediting inbound cross-border remittances instantly at all banks operating in Egypt](https://gate.ahram.org.eg/News/5541984.aspx). The factoring platform now [vets invoices before financing to enforce the ban on double-funding a receivable](https://www.dailynewsegypt.com/2026/02/08/egypts-fra-launches-digital-factoring-portal-to-curb-financing-risks), against factored paper up 77.8% in 2025 to EGP 132.2bn.
 
 The operator that builds the state's payment infrastructure also became a lender. On 13 August it [agreed the full acquisition of an Egyptian non-bank lender to small and medium firms](https://www.zawya.com/en/press-release/companies-news/efg-hermes-advises-efinance-on-strategic-acquisition-of-tamweely-financial-services-430407), extending its own infrastructure into direct lending. No consideration is disclosed in the records held, and neither states any separation between running government payment rails and holding a lending book that runs on them.
 

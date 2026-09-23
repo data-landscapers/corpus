@@ -1,12 +1,12 @@
 ---
 title: Botswana: status report
-compiled: 2026-09-18
+compiled: 2026-09-23
 place: BWA
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-02
 intersections_read: 10
-sources_cited: 161
+sources_cited: 162
 sections_written: 37
 not_established: 1
 acquire_lines: 35
@@ -130,14 +130,14 @@ Cross-border capacity is where the year's movement is. [The first direct cross-b
 ### Data Storage
 <!-- infra.store -->
 
-Mascom [has turned its Tier III-certified data centre from an internal facility into a commercial one](https://businessweekly.co.bw/companies-markets/mascoms-strategic-shift-from-internal-need-to-market-opportunity) (July 2026), selling colocation, cloud, infrastructure-as-a-service and disaster recovery to outside customers.
+Mascom [has turned its Tier III-certified data centre from an internal facility into a commercial one](https://businessweekly.co.bw/companies-markets/mascoms-strategic-shift-from-internal-need-to-market-opportunity) (July 2026), selling colocation, cloud, infrastructure-as-a-service and disaster recovery to outside customers. [Orange Botswana opened a US$5.2 million data centre at the Botswana Digital and Innovation Hub in Gaborone in late 2023](https://www.sdxcentral.com/news/orange-opens-data-center-in-gaborone-botswana/).
 
 State hosting arrived earlier. BoFiNet's Digital Delta facility, [Tier III design-certified by Uptime Institute in 2020](https://uptimeinstitute.com/clients/bofinet), [took Tier III certification of constructed facility in October 2025 and was launched in Gaborone in November 2025 as a carrier-neutral site built by main contractor Zhong Gan](https://www.connectingafrica.com/data-centers/botswana-launches-tier-iii-certified-carrier-neutral-data-center), and [BoFiNet was already inviting businesses to sign up to it in October 2025](https://www.mmegi.bw/business/bofinets-new-data-centre-boosts-digitisation/news). [Critical public services had been migrated onto it by May 2026](https://www.mmegi.bw/business/digital-delta-data-centre-to-improve-public-service-delivery/news).
 
-The third operating facility runs on its own gas. The Kala Data Centre [pairs gas-to-power generation at Tlou Energy's Lesedi project with UAE-based Kala Data FZCO](https://itweb.africa/article/botswanas-kala-data-centre-near-revenue-generating-stage/lwrKxv3YbjAMmg1o), is [designed for up to 1 MW](https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85) and [completed its first full quarter of continuous operation in the quarter to 30 June 2026, on revenues the company describes as proof-of-concept scale](https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85). Growth beyond that scale [depends on funding and on extending the gas gathering network](https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85). A further campus near Palapye, to be solar-powered, [rests on a memorandum of understanding signed by October 2025](https://www.connectingafrica.com/data-centers/chillmine-aaas-energy-to-launch-data-center-in-botswana).
+The Kala Data Centre runs on its own gas: it [pairs gas-to-power generation at Tlou Energy's Lesedi project with UAE-based Kala Data FZCO](https://itweb.africa/article/botswanas-kala-data-centre-near-revenue-generating-stage/lwrKxv3YbjAMmg1o), is [designed for up to 1 MW](https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85) and [completed its first full quarter of continuous operation in the quarter to 30 June 2026, on revenues the company describes as proof-of-concept scale](https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85). Growth beyond that scale [depends on funding and on extending the gas gathering network](https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85). A further campus near Palapye, to be solar-powered, [rests on a memorandum of understanding signed by October 2025](https://www.connectingafrica.com/data-centers/chillmine-aaas-energy-to-launch-data-center-in-botswana).
 
 <!-- derived -->
-Botswana's operating data centre estate now runs on three distinct models: the state-owned Digital Delta, the commercial Mascom facility, and the gas-anchored Kala.
+Botswana's operating data centre estate now runs on three distinct models: the state-owned Digital Delta, the commercial Mascom and Orange facilities, and the gas-anchored Kala.
 
 None of it is hyperscale. There is [no in-country AWS, Azure or Google region, the nearest availability zones being in South Africa](https://docs.aws.amazon.com/global-infrastructure/latest/regions/aws-regions.html), which sits against a statute that [requires a copy of personal data transferred abroad to remain in Botswana for the period of processing](https://www.datalaw.africa/wp-content/uploads/2024/12/Extraordinary-Gazette-29-10-2024.pdf). Every regulated communications operator must [file business continuity and disaster recovery plans with the regulator](https://www.bocra.org.bw/sites/default/files/documents/APPROVED%20SECTOR%20GUIDELINES%20ON%20BUSINESS%20CONTINUITY%20AND%20DISASTER%20RECOVERY.pdf). Commercially, [Liquid Intelligent Technologies brought its cloud and cybersecurity portfolio into the market in May 2026](https://itweb.africa/article/liquid-expands-service-portfolio-in-botswana/KzQenqjypOmMZd2r).
 

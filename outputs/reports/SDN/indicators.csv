@@ -213,7 +213,9 @@ infra.store--local-data-centre-capacity-all-providers,Movement,"A [1,300 square 
 
 An alternate national data centre at the wartime seat of government is announced as one of the ministry's future projects with no construction start date ([alternate](2026-02-01-sudan-digital-ministry-launches-28-services-baladna)).
 
-No capacity, load, tenancy or ownership figure is published for either.",SDN-infra.store-khartoum-datacentre|SDN-infra.store-port-sudan-datacentre
+No capacity, load, tenancy or ownership figure is published for either.
+
+A mobile operator [built a disaster-recovery centre in Port Sudan in March 2024 after its network shut down completely](2024-05-07-zain-sudan-gradually-restores-network-operations), and its group [reported a new data centre established there in the first half of 2025](2025-08-13-samena-zain-group-h1-2025-sudan-recovery). No capacity figure is published.",SDN-infra.store-khartoum-datacentre|SDN-infra.store-port-sudan-datacentre|SDN-infra.store-zain-port-sudan-data-centre
 infra.store--local-data-centre-capacity-national-providers,Movement,"Two facilities came back into service: the [1,300 square metre state data centre](2025-10-09-sudan-khartoum-state-data-center-restored) in Khartoum and the incumbent's [core data centre in Port Sudan](2026-01-07-port-sudan-digital-lifeline-cgtn).","The minister announced in October 2025 that the 1,300 square metre state data centre had been rehabilitated and returned to service with cloud computing, data security and artificial-intelligence support, qualifying it to host government systems ([announcement](2025-10-09-sudan-khartoum-state-data-center-restored), [report](2025-10-17-khartoum-data-centre-reopening-actum)).
 
 The incumbent operator, having lost its Tier-4 data centre, three data transformers and a satellite station at a cost it puts above USD 70 million, restored its core data centre in Port Sudan and reports it fully operational for government and private users ([account](2026-01-07-port-sudan-digital-lifeline-cgtn)).

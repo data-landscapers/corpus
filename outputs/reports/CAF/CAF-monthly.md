@@ -1,11 +1,11 @@
 ---
 title: Central African Republic — monthly update, August – September 2026
-compiled: 2026-09-21
-period: 2026-08-01 to 2026-09-21
+compiled: 2026-09-23
+period: 2026-08-01 to 2026-09-23
 place: CAF
 ledger_rows: 23
 not_held: 4
-record: 44028cc1b5d3
+record: 708a526f088d
 ---
 
 # Central African Republic: monthly update, August – September 2026
@@ -116,7 +116,7 @@ The regulator [published operators' combined revenue for the first half of 2026 
 ### Research institutions
 
 <!-- narrative: capacity--capacity-research -->
-Nothing moved in the research base this period. What changed is the record: the repository had carried no university, statistics-institute or donor research document for the country at all, and now holds the University of Bangui's [Institut superieur de technologie](https://www.univ-bangui.org/technologie/), which supplies most of the country's professional engineering graduates and runs a master's in engineering sciences. The page carries no date, enrolment or research-output figure, so the position it settles is one of existence rather than of scale.
+The University of Bangui's [Institut superieur de technologie](https://www.univ-bangui.org/technologie/) supplies most of the country's professional engineering graduates and runs a master's in engineering sciences; its page carries no date, enrolment or research-output figure.
 <!-- /narrative -->
 
 ## Inclusion

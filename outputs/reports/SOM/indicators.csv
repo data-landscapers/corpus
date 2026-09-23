@@ -70,7 +70,9 @@ infra.store--local-data-centre-capacity-all-providers,No change,"A [national dat
 
 The ministry's stated rationale — to end reliance on data storage outside the country — is also its statement that government data was held offshore when it spoke.
 
-The one operating estate is a commercial operator's, stated to be investing in further local data centres and in solar-powered network sites, with no capacity, tenancy or customer figure published ([operator](2026-06-18-hormuud-anchors-somalia-digital-economy), [green](2024-12-09 Hormuud Telecom plans to build more green data centres)).",SOM-infra.store-national-data-centre|SOM-infra.store-hormuud-datacentres
+The one operating estate is a commercial operator's, stated to be investing in further local data centres and in solar-powered network sites, with no capacity, tenancy or customer figure published ([operator](2026-06-18-hormuud-anchors-somalia-digital-economy), [green](2024-12-09 Hormuud Telecom plans to build more green data centres)).
+
+A carrier-neutral data centre at the Mogadishu cable landing was [expected in operation by the end of 2022 when its wholesale-carrier parent raised US$124m of equity in November 2021](2021-11-25-verdant-capital-wiocc-usd-124m-equity-raise); no opening is on record.",SOM-infra.store-national-data-centre|SOM-infra.store-hormuud-datacentres|SOM-infra.store-oadc-mogadishu
 infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems,Movement,A [national IPv6 migration](2026-06-12-somalia-ipv6-migration) was accelerated by the regulator through a dedicated national centre.,"The migration is being driven by the regulator and a national centre stood up for it ([migration](2026-06-12-somalia-ipv6-migration)).
 
 No adoption percentage, milestone or completion target is published. It is an unusually technical piece of national capacity to find in a base that holds no cloud rule and no operating national data centre.",SOM-infra.capacity-ipv6

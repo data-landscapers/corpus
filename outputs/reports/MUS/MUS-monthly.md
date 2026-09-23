@@ -1,11 +1,11 @@
 ---
 title: Mauritius — monthly update, August – September 2026
-compiled: 2026-09-18
-period: 2026-08-01 to 2026-09-18
+compiled: 2026-09-23
+period: 2026-08-01 to 2026-09-23
 place: MUS
 ledger_rows: 44
 not_held: 7
-record: 43e36b1f4e7f
+record: 3c13d59fce2e
 ---
 
 # Mauritius: monthly update, August – September 2026
@@ -123,7 +123,7 @@ The [Finance Act 2026 was assented on 12 August](https://mauritiusassembly.govmu
 ### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->
-Two sector information systems sit at opposite ends of the same problem this window. A validation workshop [endorsed a proposal for a national Fisheries Information System, for submission under a multilateral fisheries fund's project-implementation grant window](https://lexpress.mu/node/561717) — a system that does not exist yet and has no award behind it. Meanwhile the health estate shows what happens after a system is built: patients discharged from a national centre [were reported still looking for their medical records](https://ionnews.mu/lia-au-service-de-la-sante-des-patients-cherchent-toujours-leurs-dossiers-medicaux/), against a one-patient-one-record ambition. The repository holds no delivery figure for either.
+A validation workshop [endorsed a proposal for a national Fisheries Information System, for submission under a multilateral fisheries fund's project-implementation grant window](https://lexpress.mu/node/561717) — a system that does not exist yet and has no award behind it. Patients discharged from a national centre [were reported still looking for their medical records](https://ionnews.mu/lia-au-service-de-la-sante-des-patients-cherchent-toujours-leurs-dossiers-medicaux/), against a one-patient-one-record ambition. The repository holds no delivery figure for either.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 

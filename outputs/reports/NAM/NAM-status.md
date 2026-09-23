@@ -1,12 +1,12 @@
 ---
 title: Namibia: status report
-compiled: 2026-09-16
+compiled: 2026-09-23
 place: NAM
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 6
-sources_cited: 133
+sources_cited: 134
 sections_written: 37
 not_established: 2
 acquire_lines: 45
@@ -116,7 +116,7 @@ Coverage now runs ahead of use. [The regulator has proposed tax breaks on 4G-cap
 
 Namibia has no government data centre and no government cloud. [Groundwork on a National Data Centre was only to begin in the 2025/26 financial year, the concept note and project proposal were still being finalised in September 2025, and the country's single Tier 3 facility is privately operated](https://mict.gov.na/documents/869282/6089169/MICT_2025_2026_Budget_Speech+Full+Version.pdf). [There is no shared cloud platform available to all government entities, no policy on where government cloud data may be hosted, and no monitoring or publication of government cloud usage, security or savings (2025)](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [Nor is there a hyperscale region in the country: the nearest are Amazon Web Services' Cape Town region and Microsoft Azure's South Africa North and West (2025)](https://learn.microsoft.com/en-us/azure/reliability/regions-list). [Namibia imposes no data localisation requirement and does not regulate cross-border personal data flows](https://www.uneca.org/sites/default/files/ATPC/cp/Digital%20trade%20regulatory%20integration%20-%20Country%20profile%20-%20Namibia-%20ENG.pdf), so government, financial and personal records may lawfully be held outside the country.
 
-What exists commercially is one facility. [Paratus's Armada data centre outside Windhoek has been operational since September 2022, with multi-carrier connectivity including the Equiano submarine cable and Trans-Kalahari fibre](https://armada.paratus.africa/).
+What exists commercially is one facility. [Paratus's Armada data centre outside Windhoek has been operational since September 2022, with multi-carrier connectivity including the Equiano submarine cable and Trans-Kalahari fibre](https://armada.paratus.africa/). [Its co-location space, with room for 104 client organisations, was 62% occupied in the year to June 2025](https://paratus.africa/docs/Paratus-Annual-Report-2025-online.pdf).
 
 The rest is pipeline and pitch. [Building a national data centre is a stated commitment of the 2025-2029 digital transformation strategy, which frames local hosting of government data as technological sovereignty](https://www.ecofinagency.com/news-digital/2209-48897-namibia-to-build-national-data-center-under-2025-2029-digital-strategy), and [Cabinet directed the ICT ministry and the Office of the Prime Minister in September 2025 to finalise the concept note and proposal so that national data could be hosted locally](https://itweb.africa/article/namibia-expedites-data-centre-smart-city-development/KWEBb7yLVARvmRjO). Nine months later [the ICT minister was citing Angola's sovereign data centre in Luanda as encouragement for Namibia's own ambitions (June 2026)](https://itweb.africa/article/namibia-encouraged-by-angola-on-datacentre-establishment/JN1gPvOA8oPMjL6m). The only build with a vendor attached is Chinese: [under a smart-city pilot funded by China, Huawei is to deliver smart-city systems and a national data centre in partnership with the home affairs and ICT ministries (July 2026)](https://itweb.africa/article/china-funds-namibia-digital-infrastructure/rW1xL75n1YmMRk6m). Beyond that sits positioning: [a green hydrogen and solar development near Walvis Bay is put forward as the power base for a prospective data-centre industry, and industry voices are arguing in the Namibian press for Namibia as Africa's digital sovereign and a natural host for AI compute on cheap renewable power and coastal cooling](https://www.namibiansun.com/nmh-hub/grounding-the-cloud-in-namibia-nmh005717-3015-6100).
 

@@ -1,12 +1,12 @@
 ---
 title: Mauritius: status report
-compiled: 2026-09-15
+compiled: 2026-09-23
 place: MUS
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 7
-sources_cited: 113
+sources_cited: 114
 sections_written: 37
 not_established: 2
 acquire_lines: 29
@@ -54,7 +54,7 @@ The newest standard-setting body in Mauritian digital governance is being create
 
 The general standard is much older. Mauritius has had a [mandatory e-Government Interoperability Framework since 2002](https://www.unapcict.org/sites/default/files/2019-01/Mauritius%20-%20e-Government%20Interoperability%20Framework%20Version%201.0.pdf), one of the earliest in Africa, and the World Bank records the [framework as extensively used rather than nominal (2025)](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). Government technology is overseen by [ministry-level chief information officers alongside a government-wide CIO function with a central advisory and research role (2025)](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), and [open source is only partially adopted, taken up in several sectors rather than government-wide (2025)](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update).
 
-Below that, standards are set one regime at a time and usually by the sector's own regulator. The [Bank of Mauritius's 2023 guideline on cyber and technology risk management](https://www.bom.mu/sites/default/files/guideline_on_cyber_and_technology_risk_management.pdf) requires banks and payment service providers to undergo external independent audits and penetration testing of critical systems, with results held supervisory rather than published. The [critical information infrastructure designation regulations in force since 1 June 2026](https://lexpress.mu/node/558304) put compliance duties on designated operators. The AI strategy's [FAIR Guidelines are non-binding](https://techcabal.com/2026/04/23/mauritius-new-ai-strategy-sets-a-new-bar-ethics-before-execution/).
+Below that, standards are set one regime at a time and usually by the sector's own regulator. The [Bank of Mauritius's 2023 guideline on cyber and technology risk management](https://www.bom.mu/sites/default/files/guideline_on_cyber_and_technology_risk_management.pdf) requires banks and payment service providers to undergo external independent audits and penetration testing of critical systems, with results held supervisory rather than published. The [critical information infrastructure designation regulations in force since 1 June 2026](https://lexpress.mu/node/558304) put compliance duties on designated operators. [The Mauritius Standards Bureau's national ISO/IEC 27001 certification scheme held ten valid certificates at 31 December 2025, among them CERT-MU, the Mauritius Revenue Authority's server room, the Central Information Systems Division, the Police IT Unit and the Emtel and Mauritius Telecom data centres](https://msb.intnet.mu/Documents/Attachment%202%20-%20List%20of%20registered%20firms%20ISMS%2031-12-2025.pdf). The AI strategy's [FAIR Guidelines are non-binding](https://techcabal.com/2026/04/23/mauritius-new-ai-strategy-sets-a-new-bar-ethics-before-execution/).
 
 Some of the standards work with the furthest reach is not the state's at all. [Mauritius Telecom is a founding contributor and co-chair of TM Forum's MODaaS collaboration, announced on 20 July 2026](https://www.telecomtv.com/content/ai/mauritius-telecom-and-tm-forum-pioneer-trusted-model-as-a-service-for-the-ai-native-telco-55907/), work to define controls and conformance criteria for a model-as-a-service certification framework that does not yet exist, and the [chamber of commerce study on enterprise AI adoption](https://www.lemauricien.com/le-mauricien/mcci-une-etude-de-marche-sur-ladoption-de-lia-par-les-entreprises/713704/) carries governance — accountability, transparency, human oversight, data governance, intellectual property and the imputability of AI outputs — as a declared strand.
 

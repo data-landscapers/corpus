@@ -1,11 +1,11 @@
 ---
 title: West Africa — monthly update, August – September 2026
-compiled: 2026-09-21
-period: 2026-08-01 to 2026-09-21
+compiled: 2026-09-23
+period: 2026-08-01 to 2026-09-23
 place: XWA
 ledger_rows: 37
 not_held: 1
-record: fd54d9a04da5
+record: 8ac43d277713
 ---
 
 # West Africa: monthly update, August – September 2026
@@ -15,7 +15,7 @@ record: fd54d9a04da5
 ## Summary of the month
 
 <!-- narrative: summary -->
-The month's largest financial commitment was the West African Development Bank and KfW's Digital Transformation Fund, a 71 billion FCFA facility for public-administration modernisation across the monetary union, alongside a [EUR10.5m African Development Bank stake in a pan-African start-up fund](https://www.africaglobalfunds.com/news/investors/afdb-approves-105m-investment-in-tech-startup-fund/). ECOWAS changed leadership, installing a new Commission president on 31 August, while its central bank reported the union's instant-payment rail moving from test phase to full operation and its own interbank switch losing its director-general to an unexplained departure. Payment systems kept growing on the figures the repository holds: 104 institutions authorised on PI-SPI and 78 issuing electronic money across the union, both up sharply on a year earlier. A press-freedom organisation reported cybercrime statutes in Burkina Faso, Mali, Niger and Guinea being used against journalists, and a four-country study found none of the region's states yet holds AI-specific legislation in force or in draft.
+Financial commitments included the West African Development Bank and KfW's Digital Transformation Fund, a 71 billion FCFA facility for public-administration modernisation across the monetary union, and a [EUR10.5m African Development Bank stake in a pan-African start-up fund](https://www.africaglobalfunds.com/news/investors/afdb-approves-105m-investment-in-tech-startup-fund/). ECOWAS changed leadership, installing a new Commission president on 31 August, while its central bank reported the union's instant-payment rail moving from test phase to full operation and its own interbank switch losing its director-general to an unexplained departure. Payment systems kept growing on the figures the repository holds: 104 institutions authorised on PI-SPI and 78 issuing electronic money across the union, both up sharply on a year earlier. A press-freedom organisation reported cybercrime statutes in Burkina Faso, Mali, Niger and Guinea being used against journalists, and a four-country study found none of the region's states yet holds AI-specific legislation in force or in draft.
 <!-- /narrative -->
 
 ## Institutions and mandates

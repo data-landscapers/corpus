@@ -1,12 +1,12 @@
 ---
 title: Lesotho: status report
-compiled: 2026-09-15
+compiled: 2026-09-23
 place: LSO
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 8
-sources_cited: 166
+sources_cited: 168
 sections_written: 37
 not_established: 3
 acquire_lines: 31
@@ -117,7 +117,7 @@ Every terrestrial route out is a South African one: Lesotho is landlocked and it
 
 Lesotho has [no operating AI data centre](https://www.connectingafrica.com/data-centers/lesotho-s-first-ai-data-center-set-to-shape-the-country-s-digital-economy), and the green-powered facility that would be its first was at announcement rather than construction stage in June 2026. The government and Convalt Energy [signed a binding memorandum of agreement on 4 June 2026](https://convalt.com/press_releases) for Project Kobong, a development framework whose progression depends on feasibility studies, permitting, financing, regulatory approvals and definitive project agreements still to come.
 
-What exists now is small. [Commercial hosting runs to small-scale facilities in Maseru](https://baxtel.com/data-centers/vodacom-business) (2026), the nearest hyperscale cloud region is across the border in South Africa, where [Google sited its first African region in 2022](https://techcrunch.com/2022/10/05/google-picks-south-africa-for-its-first-cloud-region-in-africa/), and a national government data centre remains [a commitment in the National Digital Transformation Strategy rather than a facility in service](https://www.gov.ls/download/lesotho-national-digital-transformation-strategy-2024-2030/) (2024).
+What exists now is small. [Commercial hosting runs to small-scale facilities in Maseru](https://baxtel.com/data-centers/vodacom-business) (2026), the nearest hyperscale cloud region is across the border in South Africa, where [Google sited its first African region in 2022](https://techcrunch.com/2022/10/05/google-picks-south-africa-for-its-first-cloud-region-in-africa/), and a national government data centre remains [a commitment in the National Digital Transformation Strategy rather than a facility in service](https://www.gov.ls/download/lesotho-national-digital-transformation-strategy-2024-2030/) (2024). The government [had three data centres of its own by October 2021, when a contract was awarded to assess them for interoperability and bring the Mohale's Hoek facility into operation](https://www.afdb.org/en/documents/contract-awards-lesotho-operationalisation-mohales-hoek-data-centre-and-integration-three-government-data-centres), and in September 2025 the finance ministry [awarded a three-year LSL 35.6m contract to replace end-of-life government data-hosting equipment and build a business-continuity framework](https://www.lesothotenders.com/blogs/mapota-technologies-wins-lsl-356-million-contract-to-modernize-lesothos-government-data-132/).
 
 What local caching there is sits at the internet exchange, which has [hosted two content delivery networks](https://www.thereporter.co.ls/2026/02/02/lesotho-revamps-internet-exchange-infrastructure/) since its February 2026 relaunch.
 

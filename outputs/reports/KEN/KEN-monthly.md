@@ -1,11 +1,11 @@
 ---
 title: Kenya — monthly update, August – September 2026
-compiled: 2026-09-21
-period: 2026-08-01 to 2026-09-21
+compiled: 2026-09-23
+period: 2026-08-01 to 2026-09-23
 place: KEN
-ledger_rows: 189
+ledger_rows: 193
 not_held: 7
-record: 3cea7cf551ae
+record: 3424052e8f9c
 ---
 
 # Kenya: monthly update, August – September 2026
@@ -110,13 +110,9 @@ The World Bank's digital acceleration project was reviewed on 14 September: [mor
 ### Connectivity
 
 <!-- narrative: ict-infrastructure--infra-connect -->
-The Communications Authority introduced a [Communications Equipment Distributor licence](https://itweb.africa/article/kenya-introduces-telecom-equipment-licence/6GxRKMYQZbWMb3Wj) by public notice on 21 July 2026, mandatory before equipment type approval and customs clearance, with penalties of KSh 1m or three years.
-
 Satellite capacity ran out in the country's densest markets. The operator [suspended new sign-ups across seven counties](https://techweez.com/2026/07/08/starlink-kenya-waitlist-capacity-counties/) in early July, diverting orders to a deposit-backed waitlist. On 4 August the second mobile operator said its direct-to-cell pilot had completed and it awaits regulatory approval; the interference audit opened in March has produced no published finding.
 
 The government fibre programme was measured against its own deadline for the first time. The ICT Cabinet Secretary put [37,000km installed against the 100,000km target serving 53,000 government facilities, leaving 63,000km outstanding months before the 2027 deadline](https://nation.africa/kenya/business/ruto-s-100-000km-fibre-optic-network-plan-falters-5580286); the programme was announced in November 2022 and split in 2023 into 52,000km for government and 48,000km for private companies, with Sh940.6m paid to the power utility by June 2025. The same account puts [broadband subscriptions at 52.85 million by March 2026 against 22.08 million in June 2020, fixed internet at 2.66 million, 4G population coverage at 73.4% and 5G at 3.04%](https://nation.africa/kenya/business/ruto-s-100-000km-fibre-optic-network-plan-falters-5580286). The 37,000km is the minister's own figure and no route or county breakdown stands behind it.
-
-Kenya and Tanzania [launched a cross-border terrestrial fibre link](https://www.kenyanews.go.ke/kenya-and-tanzania-launch-terrestrial-fiber-link-connection/) on 29 July 2026, integrating the Tanzanian backbone with the Mombasa submarine landings. The London Internet Exchange [added a regional cloud provider to its Nairobi hub](https://itweb.africa/article/linx-expands-kenya-peering-network/5yONP7ErXpRMXWrb) in July, reaching 55 or more connected networks on combined traffic of 330 Gbps.
 
 The largest procurement in the window is a surveillance build sold as traffic management. The roads authority is out to tender on [Nairobi's Intelligent Transport System Phase II at Ksh10bn, about US$83.8m, covering CCTV, e-police monitoring and vehicle-detection systems at 60 junctions on a 30-month design-build contract financed by a South Korean development loan](https://www.kenyans.co.ke/news/126063-kura-expands-nairobis-ksh10b-smart-traffic-project-phase-ii), with the bid deadline pushed back two weeks to 19 August. No data-protection authorisation, retention rule or oversight arrangement for the cameras and detection systems is reported, and no award has been made.
 
@@ -127,6 +123,8 @@ On the delivery side of the same programme, coordination was stepped up rather t
 One wholesale fibre entrant is leaving. Airtel [is winding up its Kenyan fibre subsidiary after two years, having returned its facilities licence](https://techweez.com/2026/09/14/fiber-airtel-kenya-telesonic-shutdown/).
 
 The backbone went back to tender. The ICT Authority [issued framework agreements for national backbone links and cross-border and metro links under the World Bank-financed digital economy project](https://techtrendske.co.ke/2026/09/16/kenya-floats-tender-for-national-fibre-backbone-cross-border-links/), each for three years extendable by two, with Treasury putting public-sector fibre at 30,454km in 2026 against 22,486km in 2022. No award is held.
+
+The Communications Authority [called stakeholders to an online validation forum on 30 September to finalise its draft guidelines for commercial internet telephony services](https://techafricanews.com/2026/09/22/kenya-ca-finalise-commercial-internet-telephony-guidelines/), having published the consultation responses and its position on each. The draft text is not held.
 <!-- /narrative -->
 ### Data Storage
 
@@ -148,13 +146,11 @@ The distributor put a limit on the energy transition in public. On 11 August KPL
 ### Technical Capacity
 
 <!-- narrative: ict-infrastructure--infra-capacity -->
-Two capacity items advanced without a figure attached to either. Nationwide broadcast-logger deployment is complete with a monitoring room at the regulator's centre, [joint regulator training concluding on 27 July](https://techafricanews.com/2026/07/27/communications-authority-of-kenya-and-kfcb-complete-joint-broadcast-monitoring-training/), with no cost, coverage or channel-count disclosed. The advanced science and technology institute, its [operationalisation under review with the Korean export credit agency](https://techafricanews.com/2026/08/03/kenya-advances-korea-partnership-to-boost-ai-research-and-digital-infrastructure/) in August, was [stated completed at US$94m by the Treasury principal secretary in Seoul on 10 September](https://peopledaily.digital/business/kenya-south-korea-deepen-ksh-129-4b-development-partnership), with no opening, intake or operating budget published.
+The advanced science and technology institute, its [operationalisation under review with the Korean export credit agency](https://techafricanews.com/2026/08/03/kenya-advances-korea-partnership-to-boost-ai-research-and-digital-infrastructure/) in August, was [stated completed at US$94m by the Treasury principal secretary in Seoul on 10 September](https://peopledaily.digital/business/kenya-south-korea-deepen-ksh-129-4b-development-partnership), with no opening, intake or operating budget published.
 <!-- /narrative -->
 ### Cybersecurity
 
 <!-- narrative: ict-infrastructure--infra-cybersec -->
-The presidency's website was [defaced on 18 July with a 5 BTC ransom demand and restored on 20 July](https://itweb.africa/article/kenya-restores-presidential-website-after-cyber-attack/Gb3Bw7WadxLq2k6V) — the second compromise of that portal in eight months. State House says no evidence of data access was found; cause and attribution are undisclosed.
-
 The regulator's own quarterly report reached the repository, the primary behind a figure the record had held at second hand. The national response centre [detected 2,355,938,192 threat events in April-June 2026, down 30.03% on the previous quarter, while web application attacks rose 43.68% to 17,406,495 and 20,748,489 advisories were issued](https://www.ca.go.ke/sites/default/files/2026-07/Cyber%20Security%20Report%20Q4%202025-2026_1.pdf); government systems and internet service providers were named the primary targets, with attackers seeking authentication credentials, vulnerable browsers and database servers. Events detected are not incidents suffered, and no national incident series is published.
 
 A vendor threat report published on 13 August put the exposure at the ordinary end rather than the novel one: [malicious email attachments dominated, 46.2% of them scripts, quick-response-code phishing rose 145% between the second half of 2025 and the first of 2026, exploitation of a 2017 Office vulnerability more than doubled, and one loader became the country's fourth most-detected malware family](https://techtrends.africa/eset-threat-report-kenyan-organisations-are-being-attacked-by-the-basics/). The figures are the vendor's own detections, not a national incident series.
@@ -171,10 +167,7 @@ By September the agency existed in law and in one appointment. The government's 
 ### Data Exchange
 
 <!-- narrative: dpi--dpi-exchange -->
-The health ministry issued tender addenda on 27 July 2026 that [make financial, tax, insurance, pension, payroll, laboratory and identity interfaces day-one mandatory](https://health.go.ke/node/2517) for a national public-health enterprise system, and require primary hosting inside an approved Kenyan government or health-sector environment.
-
-The Treasury is building the other kind of exchange — one that looks at the money coming in. It is [rolling out a Development Partners Management Information System, expected to launch before the end of 2026](https://www.the-star.co.ke/counties/nairobi/2026-08-17-treasury-moves-to-improve-tracking-of-development-partner-funds), to consolidate data on development-partner commitments, disbursements and funded programmes for planning and oversight. No supplier, cost, or statement of whether the consolidated data will be published is reported.
-
+The Treasury is [rolling out a Development Partners Management Information System, expected to launch before the end of 2026](https://www.the-star.co.ke/counties/nairobi/2026-08-17-treasury-moves-to-improve-tracking-of-development-partner-funds), to consolidate data on development-partner commitments, disbursements and funded programmes for planning and oversight. No supplier, cost, or statement of whether the consolidated data will be published is reported.
 
 The regional payments interlink took another participant: a commercial bank group [went live on the pan-African system on 11 August, adding its branch network to instant cross-border transfers in local currencies](https://www.linkedin.com/posts/pan-african-payment-settlement-system_papss-papss-abcbank-activity-7492934194994774016-TGoX).
 
@@ -183,9 +176,9 @@ The head of the public service [convened the examinations council, the public se
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
-Government is [procuring a system to cut identity-card issuance to ten days and passports to a week](https://www.standardmedia.co.ke/national/article/2001551755/new-technology-slashes-national-id-waiting-time-to-10-days). The source is a headline account; no contract, vendor or value is held.
+The hospital-to-registry birth notification system, launched in June, [registered more than 270,000 newborns and assigned each a unique personal identifier within two months](https://www.biometricupdate.com/202609/kenyas-digital-birth-registration-platform-enrols-270k-newborns-in-two-months), according to the immigration and citizen services department, which also put national identity cards issued between January and September 2026 at 2.4 million. Integration with the health ministry's hospital management system and a death e-notification system are planned; no facility count or county coverage is published.
 
-Two identity systems met the courts instead. The High Court [barred the transport authority from discontinuing physical vehicle logbooks](https://www.the-star.co.ke/news/2026-08-11-court-preserves-validity-of-ntsa-physical-logbooks) on 11 August, pending a petition arguing the electronic logbook was introduced without public participation and without adequate data-protection and cybersecurity impact assessments. Separately, the Attorney-General's six-month window to legislate on phone-number recycling, opened by the March judgment recognising a registered number as a protected digital identifier, [was still open in August with nothing tabled](https://www.kictanet.or.ke/https-www-kictanet-or-ke-phone-number-recycling-digital-identity-kenya/), while banks, savings societies and platforms continue to rely on numbers after reassignment.
+The High Court [barred the transport authority from discontinuing physical vehicle logbooks](https://www.the-star.co.ke/news/2026-08-11-court-preserves-validity-of-ntsa-physical-logbooks) on 11 August, pending a petition arguing the electronic logbook was introduced without public participation and without adequate data-protection and cybersecurity impact assessments. Separately, the Attorney-General's six-month window to legislate on phone-number recycling, opened by the March judgment recognising a registered number as a protected digital identifier, [was still open in August with nothing tabled](https://www.kictanet.or.ke/https-www-kictanet-or-ke-phone-number-recycling-digital-identity-kenya/), while banks, savings societies and platforms continue to rely on numbers after reassignment.
 
 The transport and safety authority's own disclosure notice under the PPP Act settles the smart driving licence partnership the repository had held only in summary: a twenty-one-year Strategic Partnership with [a KCB Bank Limited and Pesa Print consortium, estimated at KSh 42bn over its first two to three years and funded entirely from private debt and equity, approved by Cabinet on 15 December 2025 after the Attorney-General cleared the draft agreement in January](https://gaa.go.ke/sites/default/files/2026-02/NTSA%20Public%20Notice%20on%20Disclosure%20On%20The%20Implementation%20Of%20The%20Public%20Private%20Partnership%20%28PPP%29%20Strategic%20Partnership%20For%20The%20Design%2C%20Supply%2C%20Delivery%2C%20Installation%20And%20Maintenance%20Of%20Smart%20Driving%20Licences%20And%20Associated%20Services.pdf). It is to issue 5 million polycarbonate cards every three years, stand up 102 enrolment centres, install 700 fixed and 300 mobile speed cameras behind a national command centre, and carry a licence wallet taking deposits and payments. The project began in 2017 with the National Bank of Kenya and passed to KCB by novation after Access Bank bought NBK. No financial close or first issuance date is named.
 
@@ -194,11 +187,13 @@ The registration bureau said [more than 600,000 people who could not previously 
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
-Borrowers can [repay Hustler Fund loans in loyalty points from 23 July](https://www.the-star.co.ke/news/2026-07-23-borrowers-can-now-repay-hustler-fund-loans-using-bonga-points), five points settling one shilling, recovering KSh 3m in the first week. A second operator launched a merchant wallet on 3 August.
+Borrowers can [repay Hustler Fund loans in loyalty points from 23 July](https://www.the-star.co.ke/news/2026-07-23-borrowers-can-now-repay-hustler-fund-loans-using-bonga-points), five points settling one shilling, recovering KSh 3m in the first week. A second operator [launched a merchant wallet on 3 August](https://techcabal.com/2026/08/03/airtel-targets-kenyas-small-businesses-as-mobile-money-war-shifts-to-merchants/).
 
 The platforms Kenyans use to be paid changed their rules one after another over the past year: [an international payments provider imposed restrictions, a domestic dollar-banking service withdrew that product, a remittance operator paused its wallet and a streaming platform cut monetisation](https://techcabal.com/2026/09/08/the-platforms-that-help-kenyans-get-paid-are-changing-the-rules/). Four separate commercial decisions rather than a regulatory change; no user numbers, values or regulator response are held.
 
 The regulator's June-quarter return [put mobile money subscriptions at 54,005,800, up 1.2 per cent in the quarter, while more than 34,000 registered agents left the market](https://www.dawan.africa/news/kenya-mobile-money-accounts-hit-54-million-even-as-more-than-34000-agents-exit-the-market). Subscriptions count accounts, not people.
+
+Tanzania's competition regulator [put KCB Group's stake in the payments company Pesapal at 22.23%](https://techcabal.com/2026/09/22/tanzania-regulator-reveals-kcbs-22-23-stake-in-payments-firm-pesapal/) in a notice of 21 August, the first public figure for a deal announced in November 2025; the price is undisclosed and approval is pending.
 <!-- /narrative -->
 ### Registries
 
@@ -256,8 +251,6 @@ Rural digitalisation arrived as a marketplace rather than an office. [Mkulima Bo
 <!-- narrative: technology--tech-ai -->
 The draft AI policy was published for comment on 21 July and comment closed on 4 August. It runs to 226 pages, asserts [effects-based jurisdiction over entities outside Kenya](https://nairobibusinessmonthly.com/kenyas-draft-ai-policy-seeks-power-over-foreign-tech-giants/) whose outputs have direct and foreseeable effects in the country, leaves "high risk" undefined and states no penalties. Its labour chapter [sets minimum standards for content moderators, data annotators and evaluators](https://itweb.africa/article/kenya-sets-standards-for-ai-workers/raYAyMorGzX7J38N), binding on international firms operating through outsourcing partners.
 
-An analysis published on 23 July recorded that the National AI Strategy, costed at KSh 152bn over five years, [carries no dedicated allocation in the 2026/27 budget](https://cipesa.org/2026/07/rethinking-africas-approach-to-the-politics-of-ai-governance-and-regulation/). On 28 July the government and the UN development programme agreed progress on a national AI computing platform; no GPU count, cost or commissioning date was published. Kenya was named on 31 July as one of five governments launching a pooled African-language AI initiative.
-
 The draft then drew its first substantive submission, and a headline figure. A civil-society organisation [urged institutional independence for the proposed AI council and mandatory human-rights impact assessments](https://cipesa.org/2026/08/cipesa-urges-kenya-to-align-and-strengthen-its-draft-ai-policy/) on 14 August, with the draft reported as nearing Cabinet consideration. Alongside it, a commercial data compiler's mid-year update [put 97.5% of Kenya's online adults using an artificial-intelligence tool monthly, first globally, ahead of the United Arab Emirates at 94.2% and Indonesia at 93.6%](https://www.itweb.africa/article/kenya-tops-global-ai-usage-rankings/5yONP7Ero1NMXWrb). It is a self-reported survey of online adults rather than a population measure.
 
 The ministry meanwhile put up an assistant of its own. The ICT cabinet secretary [put up a platform, hosted on his own official website, intended as a single entry point routing citizens to the agency or service responsible for a given digital programme](https://www.kenyans.co.ke/news/126535-cs-kabogo-unveils-ai-platform-transform-ict-ministry-operations); its developers say it will launch once the underlying information, routing and review safeguards are in place, so it is not yet answering questions. A public-information service sited on a minister's website rather than a government domain carries no stated operator or accountability route.
@@ -274,7 +267,9 @@ The state's largest telecoms divestment was undone in court and is heading back 
 ### Innovation ecosystem
 
 <!-- narrative: technology--tech-innovate -->
-Venture funding data published on 27 July put Kenyan startups at [US$126m in the first half of 2026](https://techcabal.com/2026/07/27/african-venture-capital-is-backing-fewer-founders-than-ever/), third in Africa and the weakest half since early 2021, against US$1.04bn across 2025.
+A publication's retrospective put [about US$500m raised by a set of Kenyan startups that have since shut down](https://techcabal.com/2026/08/19/500m-raised-shutdown-kenyan-startup-founders-now/), across five named companies with no full sample or method stated.
+
+An online-work platform launched in 2024 [matches businesses to freelancers, uses local cybercafes as access points and settles through mobile money, reporting more than 1,650 users and 200 partner cybercafes](https://www.wearetech.africa/fr/fils/tech-stars/avec-workke-le-kenyan-kennedy-mokaya-democratise-le-travail-en-ligne-en-afrique); the counts are the company's own.
 <!-- /narrative -->
 
 ## Capacity
@@ -282,15 +277,15 @@ Venture funding data published on 27 July put Kenyan startups at [US$126m in the
 ### Literacy
 
 <!-- narrative: capacity--capacity-literacy -->
-The regulator [donated computers to a school in Turkana on 30 July, one of 23 institutions recently supported](https://techafricanews.com/2026/07/30/ca-kenya-expands-digital-inclusion-with-computer-donation-to-turkana-school/), with no quantity or value disclosed. Private money reached further into the same gap: three laboratories [opened at Kholera Primary, Moody Awori Primary and Ralak Girls High in the weekend to 25 August under a Rotary Foundation Global Grant, taking that programme to at least 13 schools on a stated USD 91,650](https://www.standardmedia.co.ke/education/article/2001556160/digital-divide-threatens-to-leave-vulnerable-learners-behind-as-jobs-go-high-tech), against a state literacy programme running since 2016 that has not reached every school equally.
+Three school laboratories [opened at Kholera Primary, Moody Awori Primary and Ralak Girls High in the weekend to 25 August under a Rotary Foundation Global Grant, taking that programme to at least 13 schools on a stated USD 91,650](https://www.standardmedia.co.ke/education/article/2001556160/digital-divide-threatens-to-leave-vulnerable-learners-behind-as-jobs-go-high-tech).
 
-The state programme published its first delivery figures in years. Its second phase [began putting teacher laptops and smartboards into 10,382 public junior schools, with 91 of 98 Nairobi schools complete](https://techafricanews.com/2026/09/16/kenya-begins-digital-literacy-programme-phase-ii-device-rollout-in-nairobi/), and [1,000 ICT graduates are being recruited as 12-month interns to support it in schools](https://www.wearetech.africa/fr/fils/actualites/tech/kenya-1000-diplomes-en-tic-recrutes-pour-soutenir-la-numerisation-des-ecoles). No learning-outcome measure accompanies either.
+The state literacy programme's second phase [began putting teacher laptops and smartboards into 10,382 public junior schools, with 91 of 98 Nairobi schools complete](https://techafricanews.com/2026/09/16/kenya-begins-digital-literacy-programme-phase-ii-device-rollout-in-nairobi/), and [1,000 ICT graduates are being recruited as 12-month interns to support it in schools](https://www.wearetech.africa/fr/fils/actualites/tech/kenya-1000-diplomes-en-tic-recrutes-pour-soutenir-la-numerisation-des-ecoles). No learning-outcome measure accompanies either.
+
+On 21 September deliveries of 65-inch smart boards, teacher laptops and ICT equipment [began to 178 public junior schools in Nyeri County](https://techafricanews.com/2026/09/22/kenya-smart-boards-178-junior-schools-nyeri/), under the World Bank-supported digital economy project, towards [all 377 in the county](https://techafricanews.com/2026/09/22/kenya-ict-authority-expands-digital-learning-rollout-377-junior-schools-nyeri/). The ICT state department [signed a partnership with Intel on 22 September to deliver AI literacy through the public library network](https://techafricanews.com/2026/09/22/kenya-and-intel-partner-to-expand-ai-literacy-through-public-libraries/), implemented by the national library service; no budget or target is published.
 <!-- /narrative -->
 ### Training and skills
 
 <!-- narrative: capacity--capacity-training -->
-The 117th digital hub was [commissioned in Baringo on 20 July](https://techafricanews.com/2026/07/20/kenya-launches-117th-jitume-digital-hub-to-expand-digital-access-in-baringo-county/) on the ceremony series, against a separate installed-base series of about 350 that the programme's own officials also use.
-
 Certification reached the platform economy from the other direction, in one county and at small scale. A ride-hailing operator and the Mombasa county government [launched a programme to license 400 delivery riders through the national Recognition of Prior Learning framework, the operator committing KES 1.5 million: riders complete 21 days of accredited training at a certified driving school before the transport and safety authority licenses them on demonstrated competency, under a January 2026 memorandum covering compliance, safety, youth employment and platform adoption, and the operator will share trip and demand data with the county for infrastructure planning including the siting of electric-vehicle charging points](https://techcabal.com/2026/08/27/bolt-mombasa-formalise-400-delivery-riders-training-and-licences/). Four hundred riders is set against a sector a 2025 parliamentary report puts at more than two million, and no data-sharing agreement, retention rule or privacy basis for the trip and demand data accompanies it.
 
 Teaching practice moved before any curriculum did. A mathematics and science teacher-training centre [ran an international workshop for 100 teachers on 3 and 4 September on digital literacy for competency-based science teaching, its acting chief executive warning against dependence on artificial intelligence in classrooms](https://www.kenyanews.go.ke/cemastea-champions-responsible-ai-use-in-competency-based-stem-education/). No guidance document, cascade plan or teacher-reach target is published behind it.
@@ -340,7 +335,9 @@ A delegation from a Korean university and development institute [came to Nairobi
 ### China activities
 
 <!-- narrative: geopolitics--geopol-china -->
-The e-commerce cooperation memorandum with China was [cited as the basis for dispatching eighteen ICT officers to Shandong](https://techafricanews.com/2026/07/17/kenya-dispatches-18-ict-officers-to-china-to-advance-digital-trade-and-e-commerce-cooperation/), framed inside the digital master plan. The memorandum's signature date, terms and text are not held.
+The broadcasting and telecommunications department [received two Chinese delegations in eight days in August to discuss broadband, smart-city and ICT investment](https://itweb.africa/article/kenya-targets-chinese-telecoms-investment/nWJad7bNDY57bjO1); no memorandum, value or project followed from either.
+
+At a Chinese equipment vendor's event on 24 August, the ministry [described student training under way and a planned East Africa research and development centre](https://www.itweb.africa/article/fiberhome-tour-targets-kenyan-6g/GxwQD71DP96vlPVo), with no contract or date stated. The same day a Chinese state bank [held a renminbi cross-border payment roadshow in Nairobi for more than 180 participants](https://www.boc.cn/aboutboc/bi1/202608/t20260824_25687502.html), including the operator of China's cross-border interbank payment system; no corridor, volume or participating Kenyan bank is stated.
 <!-- /narrative -->
 ### EU activities
 

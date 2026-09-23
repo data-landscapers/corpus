@@ -597,9 +597,11 @@ The carbon registry's launch counts — more than 90 carbon projects at stages o
 A registry of tradeable environmental assets with no published disclosure rule is worth naming as the transparency question it is.
 
 2026-09 — the finance ministry, the statistics agency and UNICEF [launched a national research repository gathering research and evaluations onto one platform](2026-09-17-zmb-efficacynews-finance-ministry-zamstats-unicef-national-research-repository). No holdings count or licence is stated.",ZMB-dpi.registry-nsdi-policy-portal|ZMB-dpi.registry-carbon-registry|ZMB-dpi.exchange-national-carbon-registry|ZMB-data.open-national-research-repository
-data.satellite--agricultural-use-of-satellite-data,Movement,"A [satellite and artificial-intelligence farm traceability platform](2026-07-31-green-giraffe-ai-farmers-zambia) is in use on the founder's account, with no user count, revenue or independent verification.","The platform is described in a founder interview ([platform](2026-07-31-green-giraffe-ai-farmers-zambia)).
+data.satellite--agricultural-use-of-satellite-data,Movement,"Two private platforms use satellite data with AI, [for farm traceability](2026-07-31-green-giraffe-ai-farmers-zambia) and [for soil monitoring](2026-09-22-zambia-mytochondria-ai-satellite-farming), each on its founders' account.","A [Zambian platform pairs satellite imagery with artificial intelligence for smallholder traceability and market matching](2026-07-31-green-giraffe-ai-farmers-zambia), described in a founder interview.
 
-It is the only earth-observation application in this ledger, and it exists because compliance software priced for European buyers was out of reach — which makes a traceability requirement in one market the origin of a domestic technology company in another.",ZMB-data.satellite-giraffe-ai-traceability
+2026-09-22 - a second firm, [founded in 2023, reads soil moisture, temperature and nutrients from satellite imagery and turns them into irrigation and fertiliser advice](2026-09-22-zambia-mytochondria-ai-satellite-farming), and was placed second in the African Union's startup contest.
+
+Neither publishes a user count, revenue or independent evaluation.",ZMB-data.satellite-giraffe-ai-traceability|ZMB-data.satellite-mytochondria-soil-monitoring
 data.satellite--meteorological-use-of-satellite-data,Movement,An assessment was launched to strengthen aviation weather data ([launch](2026-08-26-caa-icao-aviation-weather-data-efficacynews)).,"The civil aviation authority and the international civil aviation organisation launched an assessment to strengthen aviation weather data ([launch](2026-08-26-caa-icao-aviation-weather-data-efficacynews)). It is an assessment, and the repository holds nothing on what data is currently produced or from what sources.
 
 [A peer-review assessment of the meteorological department confirms operational use of geostationary satellite imagery](2024-04-02-country-hydromet-diagnostics-zambia-nmhs-peer-review-report) — the baseline position.
@@ -616,7 +618,9 @@ geopol.china--chinese-mous-engagements-and-commitments,Movement,"A [bilateral se
 
 The existing relationship is not a matter of intention: Chinese concessional finance built the national data centre, funded the towers programme to the disbursement level recorded elsewhere in this report and left the backbone extension wholly undrawn, and the same vendor holds the artificial-intelligence data centre memorandum.
 
-Setting conditions on future cooperation while the installed base is already Chinese-financed is the position the record supports.",ZMB-geopol.china-china-digital-cooperation-talks
+Setting conditions on future cooperation while the installed base is already Chinese-financed is the position the record supports.
+
+An analyst's fieldwork account holds that [Phase II of the Smart Zambia project, valued at US$333.2m for broadband and e-government, was cancelled in 2022 after the new government reviewed externally financed projects](2025-11-02-georgetown-aci-china-question-zambia-smart-zambia-project).",ZMB-geopol.china-china-digital-cooperation-talks|ZMB-geopol.china-smart-zambia-phase-ii
 geopol.eu--eu-mous-engagements-and-commitments,"Movement, and not about digital","[Over EUR 200 million in Team Europe investments](2025-11-12-commissioner-sikela-announces-team-europe-investments) and a [2026 partnership dialogue](2026-02-26-team-europe-and-zambia-discuss-reforms-and-opportunities), on a raw materials rather than a digital agenda.","[A signed memorandum establishes a critical raw materials strategic partnership](2023-10-26-eu-zambia-mou-sustainable-raw-materials-value-chains), the founding instrument of the relationship.
 
 2025-11 — [more than EUR 200 million in Team Europe investments was announced at a corridor business forum, deepening the raw materials memorandum and the connectivity commitments](2025-11-12-commissioner-sikela-announces-team-europe-investments).

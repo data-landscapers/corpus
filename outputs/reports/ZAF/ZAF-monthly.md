@@ -1,11 +1,11 @@
 ---
 title: South Africa — monthly update, August – September 2026
-compiled: 2026-09-21
-period: 2026-08-01 to 2026-09-21
+compiled: 2026-09-23
+period: 2026-08-01 to 2026-09-23
 place: ZAF
-ledger_rows: 181
+ledger_rows: 183
 not_held: 23
-record: 4687d7554cb4
+record: 37d55a69bd65
 ---
 
 # South Africa: monthly update, August – September 2026
@@ -174,7 +174,7 @@ The state [has a policy, draft regulations and a presidential commitment for a p
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
-Operation Vulindlela's quarterly report of 31 July said the Payments Ecosystem Modernisation programme had moved beyond conceptual design into development of a payment credential, a wallet, and governance and trust capabilities, with testing against government use cases planned for November 2026.
+Operation Vulindlela's quarterly report of 31 July said the [Payments Ecosystem Modernisation programme had moved beyond conceptual design into development of a payment credential, a wallet, and governance and trust capabilities, with testing against government use cases planned for November 2026](https://www.treasury.gov.za/comm_media/press/2026/Operation%20Vulindlela%20Progress%20Report%20Q1%20-%202026.pdf).
 
 The Reserve Bank gazetted a [national interoperable payment code standard](https://www.bizcommunity.com/article/massive-payment-change-sarbs-qr-could-simplify-checkout-nationwide-620801a); PayShap is the first rail to adopt it. Ozow launched a shared [bank application-programming-interface rail with FNB and RMB](https://www.itweb.co.za/article/ozow-fnb-and-rmb-plug-into-api-payments/GxwQD71DPwAvlPVo), its fourth such arrangement. Pepkor announced a [R21.3bn merger of Flash and Shop2Shop](https://www.itweb.co.za/article/pepkor-creates-r213bn-fintech-platform/rxP3jqBEnbJMA2ye), subject to approval.
 
@@ -183,6 +183,10 @@ Absa's half-year results show [technology spending of R8.78bn in the first half 
 A proprietary QR scheme [claimed more than 600,000 acceptance locations and more than 19 million inclusions across consumer banking, fintech and financial service provider apps, and was added to a handset maker's wallet on eligible devices](https://www.itweb.co.za/article/samsung-sa-expands-digital-wallet-ecosystem/xA9POvNE6n8qo4J8). The figures are the scheme provider's own. Its relation to the national payment code standard has not been stated.
 
 Cape Town [will pilot cashless payment at three of its 18 driving licence testing centres, at Brackenfell, Fish Hoek and Strand, from 1 October](https://www.itweb.co.za/article/cape-town-pilots-cashless-driving-licence-centres/6GxRKqYQEXbqb3Wj), after six service offices stopped taking cash on 1 September. No alternative for residents without cards has been stated.
+
+The rand stablecoin ZARU, [listed on an exchange on 7 August](https://www.itweb.co.za/article/rand-goes-on-chain-as-zaru-hits-luno-global/xA9PO7NE6RAvo4J8), [went live on 22 September on Circle's Arc blockchain as a founding pair on its StableFX foreign-exchange platform, trading against USDC](https://www.itweb.co.za/article/zaru-goes-live-on-circles-arc-blockchain/Pero37Z36KrMQb6m). [Standard Bank and Absa are named among the network's banking partners](https://www.itweb.co.za/article/zaru-goes-live-on-circles-arc-blockchain/Pero37Z36KrMQb6m). No transaction volume has been published.
+
+The app-only Bank Zero [recorded its first break-even month in August 2026 on 275,000 direct customers, and is onboarding 500,000 customers of the remittance firm Mukuru through an alliance-banking platform live since January](https://techcabal.com/2026/09/22/bank-zero-break-even-alliance-partnerships/). The figures are the bank's own.
 <!-- /narrative -->
 ### Registries
 
@@ -243,7 +247,7 @@ The Labour Court [stayed disciplinary proceedings](https://www.itweb.co.za/artic
 
 An analysis of an incident database published on 14 August [links South Africa to 12 of more than 1,600 recorded global cases up to April 2026](https://www.itweb.co.za/article/south-africans-street-smarts-blunt-ai-enabled-fraud/lwrKx73Y14kqmg1o), and attributes the low count to public wariness rather than strong defences. Deepfake, fabricated-citation and biometric-verification incidents have already been reported in South Africa. There is no national duty to report such incidents.
 
-University research finds [artificial-intelligence use in higher-education teaching and assessment outpacing institutional policy, with lecturers reporting inconsistent or absent guidance on accountability, the reliability of detection tools and academic integrity](https://www.itweb.co.za/article/ai-adoption-exposes-higher-education-policy-gaps/JBwErvn3Woj76Db2). No sector instrument or regulator guidance had been issued as at September 2026. A major bank reports [more than 39,000 staff, 72% of its workforce, actively using generative artificial intelligence on a multi-model enterprise platform hosted on a foreign cloud](https://www.itweb.co.za/article/standard-bank-transitions-to-ai-enabled-organisation/8OKdWMDXxw2MbznQ), with relationship management, servicing, payments and lending as priority areas. The figures count users, not automated decisions. No model inventory, assurance process or customer disclosure was published with them, and South Africa has no register of artificial-intelligence incidents or assurance.
+University research finds [artificial-intelligence use in higher-education teaching and assessment outpacing institutional policy, with lecturers reporting inconsistent or absent guidance on accountability, the reliability of detection tools and academic integrity](https://www.itweb.co.za/article/ai-adoption-exposes-higher-education-policy-gaps/JBwErvn3Woj76Db2). No sector instrument or regulator guidance had been issued as at September 2026. A major bank reports [more than 39,000 staff, 72% of its workforce, actively using generative artificial intelligence on a multi-model enterprise platform hosted on a foreign cloud](https://www.itweb.co.za/article/standard-bank-transitions-to-ai-enabled-organisation/8OKdWMDXxw2MbznQ), with relationship management, servicing, payments and lending as priority areas. The figures count users, not automated decisions. No model inventory, assurance process or customer disclosure was published with them, and South Africa has no register of artificial-intelligence incidents or assurance. On 22 September the same bank [announced a responsible-AI framework written with Stellenbosch University's data-science school, setting life-cycle rules for human oversight and accountability](https://www.itweb.co.za/article/standard-bank-stellenbosch-university-develop-responsible-ai-framework/xnklOqz1zg6M4Ymz). It is voluntary, and no audit or enforcement mechanism is stated.
 
 An artificial-intelligence governance organisation, represented by a university legal centre, [was admitted as a friend of the court in the state's appeal against the January 2025 High Court judgment on the Social Relief of Distress grant](https://www.globalcenter.ai/news/human-rights-implications-of-using-algorithms-for-social-grants), a grant administered online only and screened by an algorithmic verification system that excluded applicants it read as earning above R624.00. The judgment held several of the grant's regulations unconstitutional. The appeal was set down for 25 August 2026. Rules governing automated decision-making by the state remain ***Not held***.
 
@@ -300,7 +304,7 @@ The South African Social Security Agency [set 350,000 grant reviews for 2026/27]
 
 South Africa and China [agreed a seven-point plan on disability-inclusive data, universal design and artificial-intelligence-enabled assistive technology](https://www.sanews.gov.za/south-africa/sa-china-deepen-cooperation-disability-inclusion), built around a proposed centre of excellence working with the national statistics office. No instrument, funding, timetable or data-sharing arrangement has been published.
 
-The Public Service Commission's investigation of government IT procurement from 2020 to 2025 found [86% of managing-director roles held on an acting or interim basis, board terms too short for strategic continuity, and irregular expenditure above R2bn across four audited years, which it attributed to failed controls and a lack of deterrence](https://www.itweb.co.za/article/sita-prioritises-exec-placements-as-it-looks-to-revival/Kjlyr7wBrQ4vk6am). In August the state IT agency told Parliament it is finalising executive recruitment, without naming an appointment or date. Some of the more than a hundred departments it serves are buying elsewhere.
+The Public Service Commission's investigation of government IT procurement from 2020 to 2025 found [86% of managing-director roles held on an acting or interim basis, board terms too short for strategic continuity, and irregular expenditure above R2bn across four audited years, which it attributed to failed controls and a lack of deterrence](https://www.itweb.co.za/article/sita-prioritises-exec-placements-as-it-looks-to-revival/Kjlyr7wBrQ4vk6am). The agency's managing director [said on 22 September that 60% of executive committee posts had been vacant and that a permanent chief financial officer and executives for supply chain and for network, cloud and platform have since been appointed](https://www.itweb.co.za/article/sita-in-recovery-mode-says-comms-minister/O2rQGMAEgwDMd1ea). Some of the more than a hundred departments it serves are buying elsewhere.
 
 The grant reviews have reached [105,600 of 352,000 targeted, with an estimated R450-million saved](https://www.dailymaverick.co.za/article/2026-08-24-sassa-grant-reviews-strand-vulnerable-south-africans-in-systemic-chaos/), while payments to lawful beneficiaries have been suspended without effective notice. The saving is the agency's own estimate.
 

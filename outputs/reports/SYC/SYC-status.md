@@ -1,12 +1,12 @@
 ---
 title: Seychelles: status report
-compiled: 2026-09-16
+compiled: 2026-09-23
 place: SYC
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-01
 intersections_read: 6
-sources_cited: 121
+sources_cited: 123
 sections_written: 37
 not_established: 0
 acquire_lines: 50
@@ -98,7 +98,7 @@ The lender is a shareholder too: three months after CWS listed on the MERJ Excha
 <!-- derived -->
 Four digital-sector commitments to Seychelles are on record, spread across 2019 to 2025 and worth about USD 130 million at face value, or nearer USD 80 million counting the 2022 refinancing once rather than twice. Connectivity takes almost all of it, both bank facilities having gone to the same operator; one social protection operation is the only public-sector commitment, and payments appear only as a sub-million venture round. None of it is grant money, and no bilateral donor and no Chinese, Gulf, Indian or EU institution is among the four.
 
-Public money is thin. The [World Bank's social protection Program-for-Results](https://documents.worldbank.org/curated/en/441051616983276293), whose digital component is the social protection registry and management information system, stands at a reported USD 30 million approved in March 2021 — approved, not disbursed. Otherwise the state pays its own way: the [finance ministry allocates the ICT budget, including SCR 145.1 million over the medium term for digital economy infrastructure](https://www.finance.gov.sc/wp-content/uploads/2025/08/BUDGET-2023-ADDRESS.pdf), and the [Ease of Doing Business portal](https://www.nrdcompanies.com/insights/seychelles-selects-nrd-companies-to-develop-new-ease-of-doing-business-portal-to-transform-investment-landscape/) went to a Norwegian registers developer at [USD 1,295,452.86](https://www.ntb.sc/media/tender-files/tender-Award_Sep-Dec_2025_-_board_only.pdf).
+Public money is thin. The [World Bank's social protection Program-for-Results](https://documents.worldbank.org/curated/en/441051616983276293), whose digital component is the social protection registry and management information system, stands at a reported USD 30 million approved in March 2021 — approved, not disbursed. Otherwise the state pays its own way: the [finance ministry allocates the ICT budget, including SCR 145.1 million over the medium term for digital economy infrastructure in the 2023 budget](https://www.finance.gov.sc/wp-content/uploads/2025/08/BUDGET-2023-ADDRESS.pdf), and the [Ease of Doing Business portal](https://www.nrdcompanies.com/insights/seychelles-selects-nrd-companies-to-develop-new-ease-of-doing-business-portal-to-transform-investment-landscape/) went to a Norwegian registers developer at [USD 1,295,452.86](https://www.ntb.sc/media/tender-files/tender-Award_Sep-Dec_2025_-_board_only.pdf).
 
 Private technology money barely registers: [Fusepay raised a USD 350,000 pre-seed round backed by Hustle Fund and Everywhere Ventures (2025)](https://dabafinance.com/en/news/fusepay-rolls-out-b2b-payments-platform), the only venture round on record, and Seychelles is [absent from Partech's 2025 tally of African tech venture funding](https://partechpartners.com/africa-reports/2025-africa-tech-venture-capital-report).
 
@@ -118,7 +118,7 @@ The domestic exchange layer is thin behind all this: [the country has a single i
 
 Nothing keeps Seychelles government data in Seychelles. [No policy governs where government cloud data may be hosted, and the state monitors and publishes nothing on government cloud usage, security or savings (2025)](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), and [no data localisation requirement applies to anyone, government included (2024)](https://www.dlapiperdataprotection.com/index.html?t=law&c=SC). Nor is there anywhere obvious to put it domestically: [no shared cloud platform is available to government entities, with no platform type, no cloud services and no answer recorded on whether one exists at all (2025)](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update).
 
-What capacity exists is commercial. [Airtel Seychelles' data centre holds TIA-942 Rated-3 certification, the first such certification in the country (2022)](https://tiaonline.org/942-datacenter/airtel-seychelles-limited/), and it is the facility [Airtel moved its national network core into under the 2021 Ericsson contract](https://itweb.africa/article/airtel-seychelles-partners-ericsson-on-turnkey-5g-project/lLn147mjg6bMJ6Aa). [There is no in-country hyperscale cloud region, the nearest AWS and Azure regions being in South Africa](https://africloud.com/news/lisbon-vs-johannesburg). Government hosting sits with the department itself: [the Department of Information Communications Technology operates the government-wide Electronic Government Network, with a network operations section and server-room infrastructure connecting ministries, inspected by a National Assembly committee in June 2025](https://www.nationalassembly.sc/media/news/2025-06/media-youth-sports-and-culture-committee-conduct-visit-department-information).
+What capacity exists is commercial. [Airtel Seychelles' data centre holds TIA-942 Rated-3 certification, the first such certification in the country (2022)](https://tiaonline.org/942-datacenter/airtel-seychelles-limited/), and it is the facility [Airtel moved its national network core into under the 2021 Ericsson contract](https://itweb.africa/article/airtel-seychelles-partners-ericsson-on-turnkey-5g-project/lLn147mjg6bMJ6Aa). [Cable & Wireless Seychelles inaugurated the Bon Espoir data centre in November 2024](https://www.nation.sc/articles/24190/cable--wireless-inaugurates-state-of-the-art-data-centre), and [the Uptime Institute awarded it Tier IV design and construction certification on 4 September 2025](https://uptimeinstitute.com/component/tierachievement/datacenter/data-center-1--bon-espoir/2230?Itemid=). [There is no in-country hyperscale cloud region, the nearest AWS and Azure regions being in South Africa](https://africloud.com/news/lisbon-vs-johannesburg). Government hosting sits with the department itself: [the Department of Information Communications Technology operates the government-wide Electronic Government Network, with a network operations section and server-room infrastructure connecting ministries, inspected by a National Assembly committee in June 2025](https://www.nationalassembly.sc/media/news/2025-06/media-youth-sports-and-culture-committee-conduct-visit-department-information).
 
 ### Energy
 <!-- infra.energy -->
