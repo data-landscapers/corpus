@@ -43,15 +43,23 @@ INDICATORS_CSV = CORPUS / "lookups" / "indicators.csv"
 # evidence linkage — a third place to name a source would be the one nothing renders.
 UNIT_FIELDS = ("indicator_id", "progress", "summary", "developments", "row_ids")
 
+# The maturity assessment's three frame columns (`documentation/maturity-assessment.md` §4 and
+# `adding-an-indicator.md` §§3, 10). `kind` picks the rubric family; `assessed = 0` keeps a row
+# for its id and its mapped rows without staging it, and `retired` dates when that began. An id
+# is never deleted, so retirement is these two cells and nothing else.
+KINDS = ("instrument", "system", "measure")
+
 _frame: list[dict] | None = None
 
 
 def frame() -> list[dict]:
     """Every indicator, in the wireframe's own display order.
 
-    Each row is `{indicator_id, subject, indicator, chapter, topic}` — `subject` being the
-    taxonomy Level-2 key the indicator hangs off, `chapter` its Level-1 parent, and `topic` the
-    Level-2 label the report prints in its first column.
+    Each row is `{indicator_id, subject, indicator, chapter, topic, kind, assessed, retired}` —
+    `subject` being the taxonomy Level-2 key the indicator hangs off, `chapter` its Level-1
+    parent, `topic` the Level-2 label the report prints in its first column, and the last three
+    the maturity assessment's (`KINDS`; `assessed` a bool; `retired` a date or empty). Every row
+    is returned, assessed or not: the progress report still prints all of them until it retires.
     """
     global _frame
     if _frame is None:
@@ -63,7 +71,7 @@ def frame() -> list[dict]:
         with open(INDICATORS_CSV, encoding="utf-8-sig", newline="") as fh:
             rows = list(csv.DictReader(fh))
         want = {"indicator_id", "Topic Sort", "Indicator Sort", "Topic L1", "Topic", "Topic L2",
-                "Progress indicator"}
+                "Progress indicator", "kind", "assessed", "retired"}
         missing = want - set(rows[0] if rows else {})
         if missing:
             raise SystemExit(
@@ -83,6 +91,20 @@ def frame() -> list[dict]:
                 raise SystemExit(f"indicators_lib: duplicate indicator_id {iid!r} in "
                                  f"{INDICATORS_CSV}")
             seen.add(iid)
+            kind = (r["kind"] or "").strip()
+            assessed = (r["assessed"] or "").strip()
+            retired = (r["retired"] or "").strip()
+            # An assessed row has to say which ladder it is on, and a row that is not assessed
+            # has to say since when; either missing is a frame edit left half done.
+            if assessed not in ("0", "1"):
+                raise SystemExit(f"indicators_lib: {iid} has assessed = {assessed!r}; "
+                                 f"it is 1 or 0")
+            if assessed == "1" and kind not in KINDS:
+                raise SystemExit(f"indicators_lib: assessed indicator {iid} has kind {kind!r}; "
+                                 f"it is one of {', '.join(KINDS)}")
+            if assessed == "0" and not retired:
+                raise SystemExit(f"indicators_lib: {iid} is not assessed and has no retired "
+                                 f"date")
             out.append({
                 "indicator_id": iid,
                 "subject": (r["Topic L2"] or "").strip(),
@@ -92,6 +114,9 @@ def frame() -> list[dict]:
                 # Display order only, and never an identity: an id that renumbers when a row is
                 # inserted is not an id (§8).
                 "sort": (int(r["Topic Sort"] or 0), int(r["Indicator Sort"] or 0)),
+                "kind": kind,
+                "assessed": assessed == "1",
+                "retired": retired,
             })
         _frame = sorted(out, key=lambda r: r["sort"])
     return _frame
@@ -99,6 +124,11 @@ def frame() -> list[dict]:
 
 def ids() -> set[str]:
     return {r["indicator_id"] for r in frame()}
+
+
+def assessed() -> list[dict]:
+    """The frame the maturity assessment stages: every row with `assessed = 1`, in order."""
+    return [r for r in frame() if r["assessed"]]
 
 
 def by_chapter(order: list[str]) -> list[tuple[str, list[dict]]]:

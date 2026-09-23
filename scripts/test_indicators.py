@@ -68,6 +68,17 @@ check("every subject in the taxonomy has at least one indicator — §1's 'same 
       sorted(set(tax) - {r["subject"] for r in frame}), [])
 check("each indicator's chapter is its subject's Level-1 parent",
       [r["indicator_id"] for r in frame if tax.get(r["subject"]) != r["chapter"]], [])
+check("every assessed indicator has a kind from the three",
+      [r["indicator_id"] for r in frame if r["assessed"] and r["kind"] not in il.KINDS], [])
+check("every row not assessed carries a retired date",
+      [r["indicator_id"] for r in frame if not r["assessed"] and not r["retired"]], [])
+check("the assessed view holds no row with assessed = 0",
+      [r["indicator_id"] for r in il.assessed() if not r["assessed"]], [])
+check("the assessed view is the frame less the unassessed rows",
+      len(il.assessed()), sum(1 for r in frame if r["assessed"]))
+check("the frame itself still returns every row, assessed or not — the progress report "
+      "prints them all until it retires",
+      len(frame) > len(il.assessed()), True)
 check("the id is the subject plus a slug of the indicator, so it is composable by nobody",
       all(r["indicator_id"].startswith(r["subject"] + "--") for r in frame), True)
 
