@@ -38,7 +38,7 @@ Point CC at this file and the five documents. Done when CC has read them and log
 
 ## Phase B — the frame change (`adding-an-indicator.md`)
 
-### B1. Cut the taxonomy patch for OSINT — **CC** → **OSINT** — S to cut, then blocked
+### B1. Cut the taxonomy patch for OSINT — **CC** → **OSINT** — S to cut, then blocked — *cut 2026-09-23: `prepared/note-164/`, `notes-for-osint` 164; waiting on OSINT*
 
 `scripts/osint-patch.py prepare`; in the clone add `geopol.sovereignty` — Digital sovereignty and `finance.sustain` — Financial sustainability to OSINT's `lookups/taxonomy.md` and to `lookups/report-region-sections.csv`; `cut`; deliver to `prepared/` on the share with the base commit named; write the `[ACT]` note in `notes-for-osint.md` asking OSINT to apply it and mint the two concept pages (wiki prose, which a patch may not carry), `Affects: lookups/indicators.csv, the maturity assessment's Geopolitics and Finance chapters`; commit and push the share. (Corpus's `lookups/taxonomy.csv` is its own display copy and gains the two rows at B3.) Run `lint-prepared.py`, `lint-notes.py`, `lint-preambles.py`. Done when the job is on the share and `git log` on the share shows it pushed. **B3 is blocked until the mirror shows the subjects**; B2 is not.
 

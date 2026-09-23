@@ -40,7 +40,8 @@ def check(label, got, want):
         fails.append(label)
 
 
-def build(root: Path, *, open_jobs=(), closed_jobs=(), open_r=(), closed_r=()):
+def build(root: Path, *, open_jobs=(), closed_jobs=(), open_r=(), closed_r=(),
+          open_notes=(), closed_notes=()):
     root.mkdir(parents=True, exist_ok=True)
     (root / "prepared").mkdir(exist_ok=True)
     io.open(root / "housekeeping-jobs.md", "w", encoding="utf-8").write(
@@ -51,6 +52,10 @@ def build(root: Path, *, open_jobs=(), closed_jobs=(), open_r=(), closed_r=()):
     lines += [f"- [x] **R{r} [OSINT]** - done" for r in closed_r]
     io.open(root / "strategic-review-register.md", "w", encoding="utf-8").write(
         "# register\n\n" + "\n".join(lines) + "\n")
+    io.open(root / "notes-for-osint.md", "w", encoding="utf-8").write(
+        "# notes\n\n" + "".join(f"**{n}** [ACT] (2026-09-23) - owed\n\n" for n in open_notes))
+    io.open(root / "notes-for-osint-resolved.md", "w", encoding="utf-8").write(
+        "# resolved\n\n" + "".join(f"### {n}. `[ACT]` done\n\n" for n in closed_notes))
 
 
 def item(root: Path, name: str, closer: str | None = None, folder=True):
@@ -170,6 +175,21 @@ try:
     io.open(r / "housekeeping-jobs.md", "w", encoding="utf-8").write("# x\n")
     check("no prepared/ at all exits 0", lp.main(["--share", str(r)]), 0)
     check("no share exits 2", lp.main(["--share", str(tmp / "nope")]), 2)
+
+    print("\nnote-NNN resolves against the notes files")
+    r = tmp / "notes"
+    build(r, open_notes=(164,), closed_notes=(150,))
+    for n in ("note-164", "note-150", "note-999"):
+        item(r, n)
+    src = {"open": "", "resolved": "", "register": "",
+           "notes": lp._read(r / "notes-for-osint.md"),
+           "notes_resolved": lp._read(r / "notes-for-osint-resolved.md")}
+    check("an open note is waiting",
+          lp.verdict("note-164", str(r / "prepared" / "note-164"), str(r), src)[0], "live")
+    check("a resolved note is spent",
+          lp.verdict("note-150", str(r / "prepared" / "note-150"), str(r), src)[0], "spent")
+    check("a note in neither file is unresolved",
+          lp.verdict("note-999", str(r / "prepared" / "note-999"), str(r), src)[0], "unresolved")
 finally:
     shutil.rmtree(tmp, ignore_errors=True)
 

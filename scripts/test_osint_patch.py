@@ -81,6 +81,14 @@ check("a backslash spelling is read the same way", op.outside([r"raw\2026\d.md"]
 check("a quoted path (git quotes unusual names) is unquoted before the test",
       op.outside(['"raw/2026/d.md"']), ["raw/2026/d.md"])
 
+print("\na handover is named by a job number or a note number")
+check("a job pair is a job", bool(op.JOB.match("102-103")), True)
+check("note-164 is accepted", bool(op.JOB.match("note-164")), True)
+check("a bare word is refused", bool(op.JOB.match("taxonomy")), False)
+check("a job folder is job-NN", op.folder("102-103"), "job-102-103")
+check("a note folder is note-NNN", op.folder("note-164"), "note-164")
+check("a note's commit label", op.label("note-164"), "note 164")
+
 print("\nwhat git reports as changed is what is checked")
 tmp = Path(tempfile.mkdtemp(prefix="osint-patch-test-"))
 saved_work, saved_prepared = op.CLONE, op.PREPARED

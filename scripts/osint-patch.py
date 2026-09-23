@@ -63,7 +63,21 @@ PREPARED = os.path.join(status_lib.EXCHANGE, "prepared")
 ALLOWED_DIRS = ("scripts/", "lookups/")
 ALLOWED_FILES = ("wiki/index.md", "wiki/places-index.md", "wiki/topics-index.md")
 
-JOB = re.compile(r"^[0-9]+(?:-[0-9]+)*$")
+# **A handover is named by what retires it**: a housekeeping job (`102-103`), or a notes-for-osint
+# number (`note-164`) where the work is Corpus's own request and has no job. Only OSINT issues
+# job numbers, so a note is how Corpus asks for something that has none; `lint-prepared.py`
+# resolves either name against its register.
+JOB = re.compile(r"^(?:note-[0-9]+|[0-9]+(?:-[0-9]+)*)$")
+
+
+def folder(job: str) -> str:
+    """The directory under `prepared/`: `note-164` as given, a job number as `job-102-103`."""
+    return job if job.startswith("note-") else f"job-{job}"
+
+
+def label(job: str) -> str:
+    """How the commit subject and BASE name it: `note 164` or `job 102-103`."""
+    return job.replace("-", " ", 1) if job.startswith("note-") else f"job {job}"
 
 # A clone inherits the system gitconfig, where `core.autocrlf` is true on this machine and
 # `filter.lfs` is configured. OSINT's own `.gitattributes` settles the first (`* -text`, the
@@ -189,8 +203,8 @@ def cut(job: str, subject: str, dry_run: bool) -> int:
         return 2
 
     base = git("rev-parse", "HEAD", cwd=CLONE).strip()
-    out_dir = os.path.join(PREPARED, f"job-{job}")
-    print(f"job {job}: {len(paths)} file(s)")
+    out_dir = os.path.join(PREPARED, folder(job))
+    print(f"{label(job)}: {len(paths)} file(s)")
     for p in paths:
         print(f"    {p}")
     if dry_run:
@@ -198,7 +212,7 @@ def cut(job: str, subject: str, dry_run: bool) -> int:
         return 0
 
     git("add", "--", *paths, cwd=CLONE)
-    git("commit", "-m", f"job {job}: {subject}", cwd=CLONE)
+    git("commit", "-m", f"{label(job)}: {subject}", cwd=CLONE)
 
     os.makedirs(out_dir, exist_ok=True)
     for old in os.listdir(out_dir):                  # a re-cut replaces its own series
@@ -208,11 +222,11 @@ def cut(job: str, subject: str, dry_run: bool) -> int:
 
     with io.open(os.path.join(out_dir, "BASE"), "w", encoding="utf-8", newline="\n") as fh:
         fh.write(f"{base}\n")
-        fh.write(f"# job {job}, cut {dt.datetime.now().strftime('%Y-%m-%d %H:%M')} from the "
+        fh.write(f"# {label(job)}, cut {dt.datetime.now().strftime('%Y-%m-%d %H:%M')} from the "
                  f"mirror's HEAD.\n")
         fh.write("# Apply on OSINT's machine:\n")
-        fh.write(f"#   python scripts/assert-containment.py --patch X:\\prepared\\job-{job}\n")
-        fh.write(f"#   git am --keep-cr -3 X:\\prepared\\job-{job}\\*.patch\n")
+        fh.write(f"#   python scripts/assert-containment.py --patch X:\\prepared\\{folder(job)}\n")
+        fh.write(f"#   git am --keep-cr -3 X:\\prepared\\{folder(job)}\\*.patch\n")
         fh.write("# then lint and commit. A conflict means master wins: refuse the series in "
                  "one line and Corpus re-cuts it.\n")
 
@@ -232,7 +246,8 @@ def main() -> int:
     sub = ap.add_subparsers(dest="cmd", required=True)
 
     p = sub.add_parser("prepare", help="clone or reset the work clone to the mirror's HEAD")
-    p.add_argument("--job", required=True, help="the housekeeping job number, e.g. 102-103")
+    p.add_argument("--job", required=True, help="the housekeeping job number, e.g. 102-103, "
+                                                "or note-NNN for a notes-for-osint number")
     p.add_argument("--refresh", action="store_true",
                    help="fetch the mirror first, where it has moved since the clone")
 
@@ -245,7 +260,7 @@ def main() -> int:
     args = ap.parse_args()
     if not JOB.match(args.job):
         return refuse(f"--job {args.job!r} is not a job number (digits, or digits joined by "
-                      f"hyphens for a pair worked together)")
+                      f"hyphens for a pair worked together) or note-NNN")
     if args.cmd == "prepare":
         return prepare(args.job, args.refresh)
     return cut(args.job, args.subject, args.dry_run)

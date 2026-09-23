@@ -34,6 +34,8 @@ What it resolves, and how:
 
 - **`job-NN`, `job-NN-MM`** — every number in the name is looked up in the housekeeping
   registers. Spent when all of them are struck to the resolved file and none is still open.
+- **`note-NNN`** — a handover Corpus asked for in a `notes-for-osint` note rather than a job,
+  because only OSINT issues job numbers. Spent when the note has moved to the resolved file.
 - **`status-acquire-{ISO3}-drops-absorbed-*.csv`** — spent by its own name: `status-acquire.md`
   defines that rename as what OSINT does when the close absorbs the list. A `…-drops.csv`
   that has *not* been renamed is live and is left alone.
@@ -56,10 +58,13 @@ import sys
 SHARE = os.environ.get("CORPUS_OSINT_XFER", r"C:\corpus-osint-xfer")
 
 HOUSEKEEPING = "housekeeping-jobs.md"
+NOTES = "notes-for-osint.md"
+NOTES_RESOLVED = "notes-for-osint-resolved.md"
 RESOLVED = "housekeeping-jobs-resolved.md"
 REGISTER = "strategic-review-register.md"
 
 JOB_DIR = re.compile(r"^job-(\d+(?:-\d+)*)$")
+NOTE_DIR = re.compile(r"^note-(\d+)$")
 DROPS_ABSORBED = re.compile(r"^status-acquire-[A-Z]{3}-drops-absorbed-\d{4}-\d{2}-\d{2}\.csv$")
 DROPS_LIVE = re.compile(r"^status-acquire-[A-Z]{3}-drops\.csv$")
 CLOSED_BY = re.compile(r"^\s*(?:\*\*)?Closed by:(?:\*\*)?\s*(.+?)\s*$", re.M | re.I)
@@ -86,6 +91,18 @@ def job_state(num: str, open_src: str, resolved_src: str) -> str:
     if still_open:
         return "open"
     return "closed" if closed else "unknown"
+
+
+def note_state(num: str, open_src: str, resolved_src: str) -> str:
+    """`closed`, `open` or `unknown` for one notes-for-osint number.
+
+    Notes head their text `**164** [ACT] (date)` or, in older ones, `### 164.`. Closing moves
+    the whole note to the resolved file and leaves nothing at the number, so presence in the
+    open file is open and presence only in the resolved one is closed."""
+    head = rf"^(?:\*\*{num}\*\*|#+ {num}\.)"
+    if re.search(head, open_src, re.M):
+        return "open"
+    return "closed" if re.search(head, resolved_src, re.M) else "unknown"
 
 
 def r_state(ref: str, register_src: str) -> str:
@@ -161,6 +178,12 @@ def verdict(name: str, path: str, share: str, src: dict) -> tuple[str, str]:
                               + ", ".join(n for n, v in states.items() if v == "unknown")
                               + " are in neither register")
 
+    m = NOTE_DIR.match(name)
+    if m:
+        s = note_state(m.group(1), src["notes"], src["notes_resolved"])
+        return ({"closed": "spent", "open": "live"}.get(s, "unresolved"),
+                f"notes-for-osint {m.group(1)} is {s}")
+
     closer = closer_of(path, share)
     if not closer:
         return "unresolved", ("no `Closed by:` in a brief. Name the job or review line that "
@@ -193,7 +216,9 @@ def main(argv=None) -> int:
 
     src = {"open": _read(os.path.join(a.share, HOUSEKEEPING)),
            "resolved": _read(os.path.join(a.share, RESOLVED)),
-           "register": _read(os.path.join(a.share, REGISTER))}
+           "register": _read(os.path.join(a.share, REGISTER)),
+           "notes": _read(os.path.join(a.share, NOTES)),
+           "notes_resolved": _read(os.path.join(a.share, NOTES_RESOLVED))}
 
     spent, live, unresolved = [], [], []
     for name in sorted(os.listdir(prepared)):
