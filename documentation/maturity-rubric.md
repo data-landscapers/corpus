@@ -2,7 +2,7 @@
 type: reference
 title: maturity-rubric.md — the five-stage anchors per indicator, drafted chapter by chapter for lookups/maturity-rubric.csv
 last_reviewed: 2026-09-23
-status: task C2 in progress — Governance (29) and the Finance instrument drafted 2026-09-23; CC's first review (maturity-rubric-review.md) acted on the same day, all ten items; awaiting CC's second review and cut; nothing cut to lookups/
+status: task C2 in progress — Governance and the Finance instrument accepted and cut 2026-09-23; DPI (34 of 36; the two measures are C3) drafted 2026-09-23, CC's six review items acted on the same day, awaiting CC's second review and cut
 ---
 
 # The rubric
@@ -19,6 +19,8 @@ status: task C2 in progress — Governance (29) and the Finance instrument draft
 
 **The instrument ladder, applied everywhere below** unless a row says otherwise: 1 *Absent* — nothing of the kind, cited · 2 *Nascent* — drafted, tabled, announced, under consultation, or an expired instrument with a successor in preparation · 3 *Established* — adopted or enacted and published, but not yet operating: commencement, regulations, a body or a budget still pending, or in force in a limited form · 4 *Operating* — in force with the machinery to give it effect: implementing regulations or a plan, a body with a mandate and a budget, and at least one act of implementation on record (an enforcement decision, a progress report, a funded action) · 5 *Leading* — the continental instrument's own end state: aligned with or ratifying it, reviewed or reported against, and sustained.
 
+**The system ladder, for rows whose kind is system**: 1 *Absent* — no system of the kind, cited · 2 *Nascent* — procured, under construction, piloted, or provided for with no platform running · 3 *Established* — in service, but limited in scope, coverage, connected systems or use · 4 *Operating* — in service at scale: national coverage or the main institutions connected, usage published, maintained, interoperable with at least one other system · 5 *Leading* — the continental instrument's end state: interoperable across the estate on open standards, linked to the base registers, sustained and reported.
+
 **Vocabulary used in the anchors.** *Adopted*: approved by cabinet, council of ministers or the competent authority and published. *Enacted*: passed and promulgated. *In force*: commenced, with the commencement date passed. *Constituted*: members appointed and a first act on record. *On record*: cited in a mapped row. *In the window*: dated inside the snapshot's window, for a stage to change (`maturity-assessment.md` §6).
 
 **`interpolated`** is `no` where the anchoring norm itself states the rung (the register's *fixes* column: a *rungs* row states several; a *top* row states only stage 5) and `yes` where the rung is Corpus's reading of the ladder between absence and the norm's end state. A reference that informs a rung does not make it the norm's: a rung drawn from ID4D, a REC model law, the Broadband Commission or ISO membership classes stays `yes`.
@@ -27,7 +29,7 @@ status: task C2 in progress — Governance (29) and the Finance instrument draft
 
 ---
 
-## Governance — drafted 2026-09-23, awaiting CC review
+## Governance — accepted and cut 2026-09-23
 
 ### `gov.policy--digital-transformation-strategy` — norm: DTS (top)
 
@@ -327,7 +329,7 @@ A composite of the four elements the register names, on the ordinary ladder.
 | 4 | Proactive disclosure practised — draft laws and strategies published for comment, regulator decisions published — with an access-to-information law in force. | yes |
 | 5 | The Declaration's end state: universal access affirmed in law and policy, no surveillance abuse on record, an independent oversight body for access to information, and open publication as the norm. | no |
 
-## Finance — the instrument, drafted 2026-09-23, awaiting CC review
+## Finance — the instrument, accepted and cut 2026-09-23
 
 ### `finance.budget--sustainable-domestic-financing-of-digital-transformation` — norm: Agenda 2063 Goal 20; DTS sovereignty fund (target, not digital-specific); Broadband Commission Target 1 as reference
 
@@ -345,7 +347,7 @@ The Finance chapter's three measures (`finance.sustain--financial-sustainability
 
 ---
 
-## Changes made on CC's first review (2026-09-23)
+## Governance — changes made on CC's first review (2026-09-23)
 
 `maturity-rubric-review.md` returned the chapter with ten items; all ten are in the file above.
 
@@ -360,3 +362,376 @@ The Finance chapter's three measures (`finance.sustain--financial-sustainability
 - **10** — the "aligned with" test is in *How to read an anchor*.
 
 One thing for the second review that the first did not raise: the register's description of the DPF (§3 rows for `data-governance-policy` and `national-data-protection-readiness`, and the §4 entry) carries the research pass's "five implementation phases"; the register has been amended to flag it and the item added to §6, so that the norms lookup is not cut with it as fact.
+
+---
+
+## DPI — drafted 2026-09-23; CC's first review acted on, awaiting second review and cut
+
+Thirty-four of the chapter's thirty-six: thirty-one systems and three instruments (`dpi.id--national-maintenance-of-id-and-credentials-systems`, `dpi.pay--governance-role-of-central-bank`, `dpi.pay--consumer-protection`). The two measures — `dpi.id--registration-of-entire-population` and `dpi.pay--population-uptake` — are task C3. The system ladder in *How to read an anchor* applies unless a row says otherwise; where a register row is *rungs*, the norm's own stages are named and marked `no`.
+
+### `dpi.exchange--national-data-exchange-system` — norm: DTS; DPF §5.3; AU Interop. Framework §3.2.1 (top)
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | A dated statement that no data-exchange layer exists between government systems — the government's own appraisal, an assessment, or a *Not held* row with a source. | yes |
+| 2 | An exchange platform procured, under construction, piloted between a few systems, or provided for by decree with no platform running. | yes |
+| 3 | An exchange platform in service with a small number of connected systems or services and no published conditions of access or usage. | yes |
+| 4 | The platform in service at scale — tens of member institutions, hundreds of services, transaction volumes published — with published conditions of access, a custodian, and registers reused through it on record. | yes |
+| 5 | The DTS end state: core registers reused across government through a secure exchange environment on open standards, with levels of assurance defined, private-sector access provided for, and usage reported. | no |
+
+### `dpi.exchange--use-of-digital-id-in-other-systems` — norm: AU Interop. Framework; DTP Arts 14, 19 (top)
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | A dated statement that no other system relies on the national ID for enrolment or verification. | yes |
+| 2 | Use of the ID by another system planned, piloted or contracted (a KYC pilot, a SIM-registration link announced). | yes |
+| 3 | The ID used by one or two systems in service — SIM registration, a bank's KYC, a social register — with no verification service offered to others. | yes |
+| 4 | Services, public and private, consuming a verification or authentication service built on the ID — banks' KYC, telecoms, health, social programmes — across sectors on record, with usage published; the public registers keyed on the number are `dpi.id--use-by-other-systems`'s evidence, not this row's. | yes |
+| 5 | The Framework's end state: the ID the common credential for public and private services, with selective disclosure and privacy protection in law, and mutual recognition provided for (DTP Art. 19). | no |
+
+### `dpi.exchange--interoperability-of-health-systems` — norm: Africa CDC HIE Guidelines and Standards; Smart Africa Digital Health Blueprint (rungs: policy → standards → use cases)
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | A dated statement that health systems do not exchange data — separate registries, surveillance and supply-chain systems with no linkage. | yes |
+| 2 | A health information exchange policy or architecture in drafting, or interoperability between two systems piloted or contracted. | yes |
+| 3 | A national HIE policy or digital health architecture adopted — the Guidelines' *policy* pillar — with interoperability in service between a few systems. | no |
+| 4 | National standards adopted (a terminology and messaging standard, a facility and patient identifier) — the *standards* pillar — and applied in exchanges in service across the main systems (HMIS, surveillance, registries, supply chain). | no |
+| 5 | The *use cases* pillar met: exchanges in service across the health system on the national standards, with the client registry linked to the national ID, and participation in the continental health data space on record. | no |
+
+### `dpi.exchange--interoperability-of-education-systems` — norm: AU Digital Education Strategy SO4 (rungs: EMIS 1.0 → EMIS 2.0)
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | A dated statement that the education systems — EMIS, examinations, teacher payroll, learner identification — exchange no data. | yes |
+| 2 | A link between two education systems planned, contracted or piloted. | yes |
+| 3 | One exchange in service — the EMIS with the examinations body, or with teacher payroll, or with the national ID — on record. | yes |
+| 4 | Exchanges in service across the main education systems on a shared learner and teacher identifier — the DES's *EMIS 2.0*, individual-level and ID-linked. | no |
+| 5 | The DES end state: EMIS 2.0 linked to the national ID and to other sectors through the exchange layer, with the data model published and analytics in use for policy. | no |
+
+### `dpi.exchange--interoperability-of-social-protection-systems` — norm: Protocol on Social Protection Art. 23 (top; World Bank typology as reference)
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | A dated statement that social protection programmes hold separate beneficiary lists with no exchange between them or with other systems. | yes |
+| 2 | A link between programmes, or between a registry and the ID or a payment provider, planned, contracted or piloted. | yes |
+| 3 | One exchange in service — the registry or a programme MIS linked to the national ID, or to a payment provider, or two programmes sharing a list — on record. | yes |
+| 4 | Exchanges in service across the main programmes on a shared identifier: the registry linked to the ID, to payment providers and to at least one other sector (civil registration, health, education). | yes |
+| 5 | The Protocol's end state: an integrated social protection information system interoperable with the ID, civil registration, payments and other sectors, with portability between schemes provided for. | no |
+
+### `dpi.id--robustness-of-system` — norm: AU Interop. Framework §3.1 technical integrity, §3.3.4.1 Levels of Assurance (top; ID4D Principle 3, FATF assurance levels as reference)
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | A dated statement that no national identity system exists, or that the system in place is paper-based with no unique identifier. | yes |
+| 2 | A national ID system procured, under construction or piloted; or a card presented as ready and waiting on its law or decree. | yes |
+| 3 | A national ID system in service issuing credentials, with deduplication or a unique number, and no published assurance levels, audit or security certification. | yes |
+| 4 | The system in service with biometric deduplication, a documented assurance level or security certification, a published audit or incident record, and credential lifecycle (revocation, renewal) operating. | yes |
+| 5 | The Framework's end state: technical integrity demonstrated, levels of assurance defined and published, security baselines met, and the system's trust framework recognised regionally. | no |
+
+### `dpi.id--national-maintenance-of-id-and-credentials-systems` — norm: AU Interop. Framework Principle 7; DPF (top; ID4D Principles 5 and 7 as reference) — kind: instrument
+
+Reads the same evidence as `geopol.sovereignty--digital-sovereignty` for the ID system alone; the sovereignty row reads it for the estate.
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | A dated statement that the ID or credential system is built, hosted and operated by a foreign supplier with no national capacity, source code or exit terms on record. | yes |
+| 2 | National operation stated as a goal, or a transfer of skills or a local operating team announced, with the platform still supplier-dependent. | yes |
+| 3 | The national authority operating the system day to day on a platform built abroad, with maintenance, printing or upgrades still under a foreign contract and no funding model settled. | yes |
+| 4 | The authority operating and maintaining the system with national staff, contracts carrying exit and portability terms or source-code escrow, and a durable funding model on record. | yes |
+| 5 | The Framework's end state: open standards, no vendor or technology lock-in, national ownership of data and platform, and financial and operational sustainability demonstrated. | no |
+
+### `dpi.id--authentication` — norm: AU Interop. Framework §3.2 layers, §3.4 options; DTP Arts 8, 9, 19 (rungs: layers and phases)
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | A dated statement that no digital authentication service exists — the credential is verified by inspection only. | yes |
+| 2 | An authentication, e-signature or PKI service authorised, contracted or piloted; a legal basis for e-signatures granted with no service operating. | yes |
+| 3 | An authentication service in service for one channel or one use (a root certification authority operating, OTP verification for one system, a border verification system) — the Framework's *layer 1*. | no |
+| 4 | Authentication services in service across channels and consumers — PKI or trust services with accredited providers, an online verification API, mobile authentication — with usage on record — *layer 2*. | no |
+| 5 | The Framework's *layer 3*: remote authentication through wallets, federation or signed credentials, and mutual recognition of e-authentication with other states provided for (DTP Art. 19). | no |
+
+### `dpi.id--digital-id-from-birth` — norm: DTS (legal identity as part of civil registration); SDG 17.19.2(b); AU No Name Campaign declaration (target: 100 % of births, 80 % of deaths registered)
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | A dated statement that a birth creates no identity record — registration and ID are separate systems with no link, or registration is paper-only. | yes |
+| 2 | A unique identifier at birth provided for in law or piloted in some districts or facilities. | yes |
+| 3 | A unique number assigned at birth registration in service, in part of the country or for registrations in digital offices only. | yes |
+| 4 | Assignment at birth in service nationally, with the birth record generating the identity record and coverage of births registered published. | yes |
+| 5 | The DTS end state: digital legal identity for every person from birth as part of civil registration, with the SDG 17.19.2(b) target (100 % of births, 80 % of deaths registered) met on the published figure. | no |
+
+### `dpi.id--interoperability-of-birth-registration-and-digital-id` — norm: AU Interop. Framework §2.2; CAMCR 2019 (top; UN Handbook 2022 as reference)
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | A dated statement that the civil register and the ID system do not exchange records. | yes |
+| 2 | A linkage planned, contracted or piloted; a single agency mandated over both registers with no exchange yet. | yes |
+| 3 | Exchange in service in one direction or for one event (births feed the ID, or deaths retire credentials), or the two registers held by one agency on separate platforms. | yes |
+| 4 | Two-way exchange in service across vital events — births enrol, deaths retire, name and status changes propagate — with reconciliation reported. | yes |
+| 5 | The Handbook's end state: civil registration, vital statistics, the population register and the ID system fully interoperable and simultaneous, as recognised by the CRVS programme or a published assessment. | no |
+
+### `dpi.id--use-by-other-systems` — norm: AU Interop. Framework; DPF §5.3.1.2 (top)
+
+Distinct from `dpi.exchange--use-of-digital-id-in-other-systems`: that row reads the exchange from the consuming systems' side; this reads the ID system's own reach as the authoritative source for public registers.
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | A dated statement that public registers (electoral, tax, social, civil service) do not use the national ID as their identifier. | yes |
+| 2 | Adoption of the national number by another register planned or piloted. | yes |
+| 3 | One or two public registers keyed on the national ID (the electoral roll drawn from it, a tax register linked). | yes |
+| 4 | The main public registers keyed on the national ID — electoral, tax, social protection, civil service, business ownership — with reconciliation between them on record. | yes |
+| 5 | The DPF end state: the ID the single source of truth for identity across public registers and for secure online transactions, with private-sector use provided for. | no |
+
+### `dpi.pay--governance-role-of-central-bank` — norm: AfCFTA DTP Annex on Digital Payments; PAPSS (top; PFMI Responsibilities, PAFI GP1–2 as reference) — kind: instrument
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | A dated statement that the central bank has no mandate over payment systems or e-money. | yes |
+| 2 | A payment-systems mandate or e-money regulation in drafting; oversight exercised by circular only. | yes |
+| 3 | The central bank's oversight mandate in force, licensing or authorising providers, with no national switch or interoperability mandate. | yes |
+| 4 | The central bank operating or overseeing a national switch or interoperability arrangement, with published oversight (statistics, licences, enforcement) and a consumer-protection or dispute function on record. | yes |
+| 5 | The DTP Annex end state: interoperability across domestic, regional and continental systems mandated and in effect, participation in PAPSS or a regional system, and AML/CFT and consumer protection embedded in oversight. | no |
+
+### `dpi.pay--g2p-functionality` — norm: DTS "digitize government-to-person payments" (top; PAFI GP7, Findex as reference)
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | A dated statement that government payments to individuals — transfers, salaries, pensions — are made in cash. | yes |
+| 2 | Digital G2P piloted for one programme or district, or contracted. | yes |
+| 3 | One programme paying digitally in service (a cash transfer over mobile money, salaries to accounts) with others in cash. | yes |
+| 4 | The main G2P streams digital in service — social transfers, salaries, pensions — with beneficiary counts published and a choice of provider or account. | yes |
+| 5 | The DTS end state: government-to-person payments digital by default across programmes, interoperable across providers, linked to the ID and the social registry, with beneficiary reach and cost reported. | no |
+
+### `dpi.pay--revenue-collection` — norm: DTP Arts 10, 13; Malabo Art. 7 (top; TADAT POA5 as reference)
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | A dated statement that taxes, fees or duties are paid in cash or by paper instrument only. | yes |
+| 2 | Electronic payment of a tax or fee piloted or contracted; e-filing announced. | yes |
+| 3 | Electronic payment in service for some taxes or fees, or for large taxpayers only. | yes |
+| 4 | Electronic filing and payment in service for the main taxes and for customs duties, with the share of revenue collected electronically published; e-invoicing or fiscal devices in use. | yes |
+| 5 | The DTP end state: electronic invoices legally equivalent, paperless trading, electronic payment accepted for all state dues, and the electronic share reported. | no |
+
+### `dpi.pay--b2b-and-b2g-functionality` — norm: DTP Arts 13, 15, 16 (top; GTMI I-12 as reference)
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | A dated statement that business payments and government procurement run on paper and cash. | yes |
+| 2 | E-procurement or a business payment platform procured, piloted or under construction. | yes |
+| 3 | An e-procurement portal or interbank business payment service in service, limited in scope (publication only, some agencies, large firms). | yes |
+| 4 | E-procurement in service end to end (tender to payment) across the main agencies, and interbank or instant business payments in service with interoperability across banks. | yes |
+| 5 | The DTP end state: e-invoicing, interoperable payment and settlement, and an electronic-transactions framework in force, with B2G volumes published. | no |
+
+### `dpi.pay--p2p-p2g-and-p2b-functionality` — norm: DTS (interoperability of e-money and DFS; low-cost channels and agents) (top; PAFI GP4–5 as reference)
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | A dated statement that no mobile money or retail digital payment service is licensed. | yes |
+| 2 | A mobile money or e-money service licensed or piloted. | yes |
+| 3 | Retail digital payment services in service with no interoperability between providers, and payments to government or merchants limited. | yes |
+| 4 | Provider interoperability in service (a switch or bilateral links), merchant and government payments accepted through the services, agent networks reported. | yes |
+| 5 | The DTS end state: national interoperability across e-money and bank accounts, low-cost channels and agents reaching underserved areas, and usage reported. | no |
+
+### `dpi.pay--cross-border-functionality` — norm: DTS; DTP Art. 15; PAPSS (top; G20/FSB targets as reference)
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | A dated statement that no regulated cross-border retail or mobile money payment channel exists. | yes |
+| 2 | A cross-border corridor piloted or licensed; a regulatory framework for cross-border mobile money in drafting. | yes |
+| 3 | One or more corridors in service through bilateral arrangements, with a regulatory framework in force. | yes |
+| 4 | Participation in a regional payment system in service (PAPSS, a REC system) with the central bank enrolled, and corridor costs or volumes published. | yes |
+| 5 | The DTS end state: participation in a single African payments area, cross-border mobile money framework in force, and costs at or below the reference targets. | no |
+
+### `dpi.pay--consumer-protection` — norm: DTS four dimensions (disclosure, responsible lending, data privacy, dispute resolution); DTP Art. 27 (rungs) — kind: instrument
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | A dated statement that no consumer-protection rules apply to digital financial services. | yes |
+| 2 | Rules in drafting; protection by general consumer law or a regulator's circular only. | yes |
+| 3 | Conduct-of-business rules in force covering at least two of the four dimensions, with no redress body operating. | no |
+| 4 | Rules in force across the four dimensions with a redress or complaints mechanism operating — a financial ombudsman, a regulator's complaints unit — and decisions or statistics on record. | no |
+| 5 | The DTS and DTP end state: all four dimensions in force, redress operating, misleading and fraudulent practices prohibited and enforced, and outcomes reported. | no |
+
+### `dpi.registry--population-register` — norm: DTS (electronic population registry first) (top; UN P&R Rev. 3 as reference)
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | A dated statement that no population register exists — identity is held per document (ID card, passport) with no consolidated register. | yes |
+| 2 | A population register provided for in law, procured or under construction. | yes |
+| 3 | A population register in service, incomplete or built from one source (ID enrolment only), not updated from vital events. | yes |
+| 4 | A register in service updated from births, deaths and status changes, keyed on the national number, and used by other registers on record. | yes |
+| 5 | The DTS end state: an electronic population register as the base register of government, continuously updated from civil registration, and the source for other registers. | no |
+
+### `dpi.registry--civil-register` — norm: DTS; APAI-CRVS; SDG 17.19.2(b) (target: 100 % of births, 80 % of deaths registered)
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | A dated statement that civil registration is paper-based with no central digital register. | yes |
+| 2 | A digital civil registration system procured, piloted or rolled out to some offices. | yes |
+| 3 | A digital civil register in service nationally for births, with historic records or other events (deaths, marriages) not yet digitised, and coverage below the targets. | yes |
+| 4 | Digital registration of all vital events in service, historic records digitised or in progress, coverage published and rising, and linkage to the ID and statistics on record. | yes |
+| 5 | The SDG 17.19.2(b) target (100 % of births, 80 % of deaths registered) met on the published figure and the register the source for legal identity and vital statistics. | no |
+
+### `dpi.registry--address-register` — norm: UPU "Addressing the world" (global tier; top)
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | A dated statement that no national addressing system exists — no street naming or numbering beyond some cities. | yes |
+| 2 | A national addressing policy adopted or a project under way in some cities or districts. | yes |
+| 3 | An address register in service for the main cities, not linked to other registers. | yes |
+| 4 | A national address register in service with rural coverage, linked to the cadastre, the population register or postal codes, and used by services (delivery, emergency, utilities) on record. | yes |
+| 5 | The UPU end state: a national addressing policy implemented, an address for everyone, and the register a base register for other systems. | no |
+
+### `dpi.registry--business-register` — norm: DTS "eBusiness register"; DTP Art. 14 (top; UNCITRAL Legislative Guide as reference)
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | A dated statement that business registration is paper-based and held locally. | yes |
+| 2 | A digital business register procured, or the historic stock being converted, or a one-stop counter opened in the capital only. | yes |
+| 3 | Online registration in service with a unique business identifier, in some locations or with the register not public. | yes |
+| 4 | Online registration nationwide with a unique identifier shared with tax and social security, public search, and beneficial-ownership information collected on record. | yes |
+| 5 | The DTS and DTP end state: an electronic business register as the identity of juridical persons, linked across registers and recognised across borders. | no |
+
+### `dpi.registry--social-protection-register` — norm: Protocol on Social Protection Art. 23 (top; World Bank typology as reference)
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | A dated statement that no social registry exists — programmes hold their own lists. | yes |
+| 2 | A social registry procured, piloted or being populated in some districts. | yes |
+| 3 | A social registry in service covering part of the population or one or two programmes. | yes |
+| 4 | A social registry in service covering the target population, used by the main programmes for eligibility, linked to the ID and updated dynamically, with coverage published. | yes |
+| 5 | The Protocol's end state: a social registry and integrated beneficiary registry as the basis of social protection management, interoperable with civil registration and payments. | no |
+
+### `dpi.registry--electoral-register` — norm: ACDEG Art. 17; AU EOM Guidelines §§4.6.10, 5.2.9, 5.4.1 (rungs: accuracy, non-discrimination, public access, updating)
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | A dated statement that no electoral register is maintained between elections, or that the register is compiled by hand for each poll. | yes |
+| 2 | A digital or biometric register procured or piloted; a register compiled digitally but not maintained. | yes |
+| 3 | A digital register in service, with public access to the roll provided (Guidelines §5.2.9) and periodic revision. | no |
+| 4 | The register maintained continuously and drawn from or reconciled with the civil or population register, with published audits and non-discriminatory registration on record (§4.6.10). | no |
+| 5 | The ACDEG end state: an independent electoral body maintaining a register recognised as accurate by observation missions, continuously updated from the base registers. | no |
+
+### `dpi.registry--tax-register` — norm: TADAT POA1 P1-1 (global tier; rungs A–D)
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | A dated statement that no taxpayer register exists or that it is paper-based. | yes |
+| 2 | TADAT D: a computerised register with multiple identifiers, decentralised, no linkage, or integrity not assessed. | no |
+| 3 | TADAT C: decentralised databases linked by a common identifier. | no |
+| 4 | TADAT B: a centralised database with more than one identifier scheme linked, or a whole-of-taxpayer view not yet complete. | no |
+| 5 | TADAT A: each taxpayer with a unique high-integrity identifier, one centralised database, a whole-of-taxpayer view, and the identifier shared with other registers. | no |
+
+### `dpi.registry--land-register` — norm: AU Declaration on Land (2009); Framework and Guidelines on Land Policy §3.6.2 (top; UN-GGIM FELA, ISO 19152 LADM as reference)
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | A dated statement that land rights are recorded on paper or not recorded, with no cadastre. | yes |
+| 2 | Digitisation of titles or a cadastre project under way in some areas or for some tenure types. | yes |
+| 3 | A digital cadastre or title register in service for part of the territory or for formal tenure only. | yes |
+| 4 | A national digital cadastre and register in service, parcels counted and published, registration mandatory for transactions, linked to the tax authority or the ID. | yes |
+| 5 | The F&G end state (§3.6.2): registration and tracking of land rights through a computerised land information system, customary tenure included as §3.6 requires, with public access — e.g. on the LADM standard and FELA's pathways. | no |
+
+### `dpi.mis--health` — norm: Africa CDC Digital Transformation Strategy; HIE Guidelines (top; WHO GSDH as reference)
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | A dated statement that health reporting is paper-based with no national HMIS. | yes |
+| 2 | An HMIS procured, piloted or rolled out in some districts. | yes |
+| 3 | A national HMIS in service (district reporting) with some facilities or the private sector outside it and other systems (surveillance, supply chain, registries) separate. | yes |
+| 4 | The HMIS in service across public and private facilities, with surveillance, supply chain and at least one registry (vaccination, patient) integrated or interoperable, and reporting completeness published. | yes |
+| 5 | The Africa CDC end state: national digital health systems strengthened to the HIE Guidelines, facilities connected, and participation in continental surveillance and the health data space. | no |
+
+### `dpi.mis--education` — norm: AU Digital Education Strategy SO4 (rungs: EMIS 1.0 → 2.0)
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | A dated statement that no EMIS exists. | yes |
+| 2 | An EMIS procured, piloted or under construction. | yes |
+| 3 | EMIS 1.0 in service: aggregate school returns and an annual census published. | no |
+| 4 | EMIS 2.0 in service: individual learner, teacher and institution records with unique identifiers, used for planning and payroll. | no |
+| 5 | The DES end state: EMIS 2.0 linked to the national ID and other sectors, analytics in use for policy, and the data model published. | no |
+
+### `dpi.mis--social-protection` — norm: Protocol on Social Protection Arts 23, 25 (top; GTMI I-11 as reference)
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | A dated statement that social protection programmes are administered on paper. | yes |
+| 2 | A programme MIS procured, piloted or under construction. | yes |
+| 3 | A programme MIS in service for one or a few programmes, not linked to payments or the ID. | yes |
+| 4 | An MIS in service across the main programmes, linked to the social registry, the ID and payment providers, with disaggregated data published (Art. 25). | yes |
+| 5 | The Protocol's end state: an integrated social protection information system across contributory and non-contributory schemes with portability provided for. | no |
+
+### `dpi.mis--justice` — norm: ACHPR Fair Trial Principles (2003) (top, weak)
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | A dated statement that court proceedings and records are paper-based with no case-management system. | yes |
+| 2 | A case-management or e-justice system procured, piloted in some courts, or under construction. | yes |
+| 3 | A case-management system in service in some courts or one tier, with decisions not published online. | yes |
+| 4 | Case management in service across the main courts, e-filing available, and decisions published online with public access to case status. | yes |
+| 5 | The Principles' end state: systems for recording proceedings, storing information and public access in service across the judiciary, all decisions published, and integration with police, prosecution and prisons on record. | no |
+
+### `dpi.mis--tax` — norm: TADAT P4-14 (use of electronic filing facilities) and P5-15 (use of electronic payment methods) (global tier; rungs A–D)
+
+POA1 is `dpi.registry--tax-register`'s. This row reads two TADAT indicators and **the lower of the two decides the stage**, the qualifier naming which; the assessor applies the Field Guide's criteria to the base's own rows (see the chapter note).
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | A dated statement that tax administration runs on paper. | yes |
+| 2 | D on both: electronic filing or payment unavailable or available for one core tax or segment only, on the base's own rows. | no |
+| 3 | C on the lower: electronic filing (P4-14) and payment (P5-15) available for some core taxes or segments, with low uptake or partial coverage on record. | no |
+| 4 | B on the lower: electronic filing and payment available for most core taxes and segments, uptake published and rising. | no |
+| 5 | A on both: mandatory electronic filing for designated segments across all core taxes with real-time acknowledgment, and electronic payment available for all core taxes and all segments through multiple channels with immediate confirmation. | no |
+
+### `dpi.mis--customs` — norm: AfCFTA Protocol on Trade in Goods Annexes 3 and 4 (top; WCO Revised Kyoto Convention, GTMI I-8/I-23 as reference)
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | A dated statement that customs declarations are processed on paper. | yes |
+| 2 | A customs management system procured, piloted at some posts, or being upgraded. | yes |
+| 3 | An automated customs system in service at the main ports and airports, with paper at other posts and no single window. | yes |
+| 4 | Automated processing at all posts, risk management in use, electronic payment of duties, and a single window in service or under phased rollout with agencies connected. | yes |
+| 5 | The Annexes' end state: customs automation, a national single window connecting all border agencies, electronic exchange with trading partners, and the trade-facilitation measures in effect. | no |
+
+### `dpi.mis--land` — norm: AU Declaration on Land (2009); Framework and Guidelines on Land Policy §3.6.2 (top; UN-GGIM FELA as reference)
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | A dated statement that land administration (transactions, valuation, planning) runs on paper. | yes |
+| 2 | A land information system procured, piloted in some regions or under construction. | yes |
+| 3 | A land information system in service for registration in some areas, with valuation, planning and dispute records separate. | yes |
+| 4 | A land information system in service nationally linking registration, cadastre and valuation, with transactions processed electronically and linked to the tax authority. | yes |
+| 5 | The F&G end state (§3.6.2): a computerised land information system through which land rights are registered and tracked across the administration functions, customary tenure included, with public access — e.g. integrated across FELA's pathways on the LADM standard. | no |
+
+### `dpi.govtech--e-government-services` — norm: DTS single digital gateway; Public Service Charter Art. 8 (top; UN EGDI bands, GTMI groups as reference)
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | A dated statement that no government service is available online, or that no inventory of online services exists and none is on record. | yes |
+| 2 | A portal launched with information only, or a few transactional services piloted, or one-stop service desks under operationalisation. | yes |
+| 3 | Transactional services in service — tens of services dematerialised — on several portals with no single gateway or shared authentication. | yes |
+| 4 | A single gateway or integrated portal in service carrying the main services with shared authentication through the national ID, usage published, and an inventory of services maintained. | yes |
+| 5 | The DTS end state: a single digital gateway integrating all e-government services (G2C, G2B, G2G) on the exchange layer and the national ID, with service levels and usage reported. | no |
+
+## DPI — notes for CC's review
+
+- **Two rows read the same evidence from two sides**: `dpi.exchange--use-of-digital-id-in-other-systems` (the consuming systems) and `dpi.id--use-by-other-systems` (the ID as the base register). The distinction is stated on the second row; if CC finds the assessor cannot keep them apart on real rows, the second could be narrowed to *public registers keyed on the national number* and the first to *services consuming a verification API*, which is roughly what the anchors already say.
+- **`dpi.id--national-maintenance-of-id-and-credentials-systems`** overlaps the sovereignty indicator by design; both rows say so and the sovereignty row's *which part decides* rule handles the estate-level reading.
+- **The two TADAT rows** (`tax-register`, `mis--tax`) carry TADAT's own A–D scoring as rungs marked `no`; the anchors paraphrase the Field Guide's criteria, checked level by level on 2026-09-23. **The assessor applies TADAT's criteria for the named indicators (P1-1; P4-14 and P5-15) to the base's own rows; a published TADAT assessment is a reference, cited in the qualifier where it disagrees** — never the record (`maturity-assessment-norms.md` §7).
+- **`dpi.id--digital-id-from-birth`** is a system with a numeric target on its stage 5; the coverage figure that decides stage 5 belongs to the measure `dpi.id--registration-of-entire-population` (C3), so this row's stage 5 cites the published figure without defining it.
+- **Weak anchors** (`land-register`, `mis--land`, `mis--justice`) lean on FELA and the Fair Trial Principles for their end states; the register already marks them weak and the published count will carry them.
+
+## DPI — changes made on CC's first review (2026-09-23)
+
+`maturity-rubric-review.md` returned the chapter with six items; all six are in the file above.
+
+- **1** — no CAMCR 2022 target: `digital-id-from-birth` (heading and stage 5) and `civil-register` (heading and stage 5) now name the SDG 17.19.2(b) target (100 % of births, 80 % of deaths registered), and the digital-ID heading carries the register's anchor (DTS; SDG 17.19.2(b); AU No Name Campaign declaration).
+- **2** — the education and social-protection exchange rows are rebased on links (2 a link planned or piloted; 3 one exchange in service; 4 exchanges across the main systems on a shared identifier; 5 as drafted); education stage 3 is now `yes` and stages 4–5 stay `no` on the DES's EMIS 2.0; the MIS rows keep their own ladders.
+- **3** — both land rows' stage 5 is the F&G §3.6.2 end state, customary tenure included, with LADM and FELA moved to *e.g.*; headings name the F&G section.
+- **4** — the TADAT rule is in the chapter note: the assessor applies the criteria to the base's own rows; a published assessment is a reference in the qualifier.
+- **5** — `mis--tax` names P4-14 and P5-15, drops POA1, and takes the lower of the two; the anchors follow the Field Guide's A-level criteria as read on 2026-09-23 (P4-14: mandatory e-filing for designated segments across all core taxes with real-time acknowledgment; P5-15: e-payment for all core taxes and all segments through multiple channels with immediate confirmation).
+- **6** — `dpi.exchange--use-of-digital-id-in-other-systems` stage 4 reads services consuming a verification or authentication service; the public registers are left to `dpi.id--use-by-other-systems`.
+
+One correction outside the draft: the register's `dpi.pay--revenue-collection` reference said *TADAT POA5 P5-2*; the 2019 Field Guide numbers indicators continuously and electronic payment is P5-15. The register row is corrected.

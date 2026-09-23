@@ -179,7 +179,7 @@ Notes:
 | dpi.id--use-by-other-systems | S | AU | AU Interop. Framework; DPF | Use cases; ID enabling secure online transactions | top | ID4D Principle 4 |
 | dpi.pay--governance-role-of-central-bank | I | continental | AfCFTA DTP Annex on Digital Payments; PAPSS | Interoperability, consumer protection, AML/CFT; central banks as anchor partners | top | CPSS-IOSCO PFMI Responsibilities A–E; PAFI GP1–2 |
 | dpi.pay--g2p-functionality | S | AU | DTS | "Digitize government-to-person payments" | top | PAFI GP7; Findex government-payment data |
-| dpi.pay--revenue-collection | S | AU | AfCFTA DTP Arts 10, 13; Malabo Art. 7 | E-invoicing legal equivalence; paperless trading; electronic payment methods | top | TADAT POA5 P5-2 (A–D); GTMI I-20, I-22 |
+| dpi.pay--revenue-collection | S | AU | AfCFTA DTP Arts 10, 13; Malabo Art. 7 | E-invoicing legal equivalence; paperless trading; electronic payment methods | top | TADAT P5-15 use of electronic payment methods (A–D; the 2019 Field Guide numbers indicators continuously); GTMI I-20, I-22 |
 | dpi.pay--b2b-and-b2g-functionality | S | AU | AfCFTA DTP Arts 13, 15, 16 | E-invoicing; payment-system interoperability; e-transactions framework | top | GTMI I-12 e-procurement |
 | dpi.pay--p2p-p2g-and-p2b-functionality | S | AU | DTS | Interoperability of e-money and DFS; low-cost channels and agents | top | PAFI GP4–5 |
 | dpi.pay--population-uptake | M | global | World Bank Global Findex | Account ownership and digital-payment use (2024: SSA 58 %, global 79 %) | target (reference values) | DTS enabling-environment objective only |
