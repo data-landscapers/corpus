@@ -6,34 +6,36 @@
 5,gov.standards,Governance,Standards
 6,gov.discourse,Governance,Public debate and participation in policymaking
 7,finance.budget,Finance,Domestic budget appropriations and expenditure
-8,finance.mou,Finance,MoUs and other agreements
-9,finance.new,Finance,New investments
-10,infra.connect,ICT Infrastructure,Connectivity
-11,infra.store,ICT Infrastructure,Data Storage
-12,infra.energy,ICT Infrastructure,Energy
-13,infra.capacity,ICT Infrastructure,Technical Capacity
-14,infra.cybersec,ICT Infrastructure,Cybersecurity
-15,dpi.exchange,DPI,Data Exchange
-16,dpi.id,DPI,Digital Identity and CRVS
-17,dpi.pay,DPI,Digital Payments and Fintech
-18,dpi.registry,DPI,Registries
-19,dpi.mis,DPI,Sectoral management information systems
-20,dpi.govtech,DPI,Other GovTech and e-Gov
-21,digital.localgov,Digitalisation,Digitalisation of sub-national government
-22,digital.rural,Digitalisation,Rural digital data capture
-23,tech.ai,Technology,AI
-24,tech.industry,Technology,ICT Industry
-25,tech.innovate,Technology,Innovation ecosystem
-26,capacity.literacy,Capacity,Literacy
-27,capacity.training,Capacity,Training and skills
-28,capacity.research,Capacity,Research institutions
-29,include.access,Inclusion,Access to services
-30,include.divides,Inclusion,Digital divides
-31,data.statistics,Data,National statistics
-32,data.open,Data,Open data
-33,data.satellite,Data,Use of satellite data
-34,geopol.usa,Geopolitics,US / hyperscaler activities
-35,geopol.china,Geopolitics,China activities
-36,geopol.eu,Geopolitics,EU activities
-37,geopol.gulf,Geopolitics,Gulf/UAE activities
-38,geopol.india,Geopolitics,India activities
+8,finance.sustain,Finance,Financial sustainability
+9,finance.mou,Finance,MoUs and other agreements
+10,finance.new,Finance,New investments
+11,infra.connect,ICT Infrastructure,Connectivity
+12,infra.store,ICT Infrastructure,Data Storage
+13,infra.energy,ICT Infrastructure,Energy
+14,infra.capacity,ICT Infrastructure,Technical Capacity
+15,infra.cybersec,ICT Infrastructure,Cybersecurity
+16,dpi.exchange,DPI,Data Exchange
+17,dpi.id,DPI,Digital Identity and CRVS
+18,dpi.pay,DPI,Digital Payments and Fintech
+19,dpi.registry,DPI,Registries
+20,dpi.mis,DPI,Sectoral management information systems
+21,dpi.govtech,DPI,Other GovTech and e-Gov
+22,digital.localgov,Digitalisation,Digitalisation of sub-national government
+23,digital.rural,Digitalisation,Rural digital data capture
+24,tech.ai,Technology,AI
+25,tech.industry,Technology,ICT Industry
+26,tech.innovate,Technology,Innovation ecosystem
+27,capacity.literacy,Capacity,Literacy
+28,capacity.training,Capacity,Training and skills
+29,capacity.research,Capacity,Research institutions
+30,include.access,Inclusion,Access to services
+31,include.divides,Inclusion,Digital divides
+32,data.statistics,Data,National statistics
+33,data.open,Data,Open data
+34,data.satellite,Data,Use of satellite data
+35,geopol.usa,Geopolitics,US / hyperscaler activities
+36,geopol.china,Geopolitics,China activities
+37,geopol.eu,Geopolitics,EU activities
+38,geopol.gulf,Geopolitics,Gulf/UAE activities
+39,geopol.india,Geopolitics,India activities
+40,geopol.sovereignty,Geopolitics,Digital sovereignty
