@@ -38,6 +38,12 @@ indicator has nothing of its own to say, it has no evidence and should be left t
 `sources`. Where the rows point in different directions, that is what *Mixed* is for, and §3 makes
 its qualifying clause mandatory.
 
+**One measure may cite a budget file instead** *(2026-09-23, `indicator-financial-sustainability.md`
+§7)*. `finance.sustain--financial-sustainability-of-digital-systems` takes its figure from
+`budgets/{ISO3}/{FY}.csv` and `external.csv`, not from a ledger row, so its `value_source` is that
+country-year and its `row_ids` may be empty; a stage-1 citation is then satisfied by the
+`value_source`. No other indicator has this exception.
+
 ## Placeholder rows are not evidence
 
 A ledger row whose status is *Not held* **with no source on file** — ERI's `gov.protect-none` and

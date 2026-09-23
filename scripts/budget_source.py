@@ -4,6 +4,7 @@ r"""budget_source.py — Corpus's own budget extractions: the schema, the loader
     python scripts/budget_source.py            # check every file under budgets/
     python scripts/budget_source.py GHA        # check one country
     python scripts/budget_source.py --columns  # print the header a new file needs
+    python scripts/budget_source.py --share    # the domestic-state share, per read country-year
 
 **`budgets/{ISO3}/{FY}.csv` is a source folder, not an output** *(strategic review 4 R54)*.
 Everything else Corpus publishes is derived from OSINT's `raw/`: a compile reads records and
@@ -172,6 +173,28 @@ class SourceError(Exception):
     publishing it."""
 
 
+# ---------------------------------------------------------------- the external companion
+# **`budgets/{ISO3}/external.csv` is the denominator of the financial sustainability measure**
+# (`documentation/indicator-financial-sustainability.md` §5). The origin gate sends an externally
+# financed digital line to the non-state side, so no `{FY}.csv` row holds it, and its size used to
+# live only in the sitting's log note. Here it is a row with the same citation discipline as a
+# domestic one: one per external line per fiscal year, at the grain the document prints it.
+# `basis` says what kind of row it is: `line` is a printed external line; `not-printed` is one row
+# for a year whose document prints no financing split at all, so the share is *origin inferred*
+# rather than a hundred per cent.
+EXTERNAL = "external.csv"
+EXTERNAL_COLUMNS = ("fy", "fiscal_year_label", "basis", "line_name", "code", "primary_subject",
+                    "scope_confidence", "funding_source", "currency", "amount_scale",
+                    "appropriated", "revised", "doc_locator", "source_slug", "extracted", "notes")
+EXTERNAL_BASIS = {"line", "not-printed"}
+EXTERNAL_FUNDING = {"external-grant", "external-loan", "external"}
+# The stages a share may be taken at, in preference order. Both sides must carry the stage on
+# every row counted, or the share would divide an appropriation by a revision.
+SHARE_STAGES = ("appropriated", "revised")
+# The digital lines as the extract defines them. `unclear` is neither side's.
+SHARE_SCOPE = ("whole", "partial")
+
+
 # ---------------------------------------------------------------- reading
 def files(iso3: str = "", budgets: str = "") -> list[tuple[str, str, str]]:
     """`(ISO3, FY, path)` for every source file, sorted. `FY` is the bare start year."""
@@ -186,9 +209,95 @@ def files(iso3: str = "", budgets: str = "") -> list[tuple[str, str, str]]:
         if not os.path.isdir(d):
             continue
         for fn in sorted(os.listdir(d)):
-            if fn.endswith(".csv"):
+            # Every other CSV is taken, so that `check` can refuse a misnamed year.
+            if fn.endswith(".csv") and fn != EXTERNAL:
                 out.append((country, fn[:-4], os.path.join(d, fn)))
     return out
+
+
+def external(iso3: str, budgets: str = "") -> list[dict]:
+    """The rows of `budgets/{ISO3}/external.csv`, or none where the file does not exist."""
+    path = os.path.join(budgets or BUDGETS, iso3, EXTERNAL)
+    return read(path)[1] if os.path.exists(path) else []
+
+
+def check_external(iso3: str = "", budgets: str = "") -> tuple[list[str], int]:
+    """Failures in every `external.csv`, and the rows read. A `line` row carries a figure and a
+    citation; a `not-printed` row carries a citation and no figure; either names a fiscal year
+    the country has a read file for, since a denominator with no numerator is nobody's."""
+    base = budgets or BUDGETS
+    fails, n = [], 0
+    for country in sorted(os.listdir(base)) if os.path.isdir(base) else []:
+        if iso3 and country != iso3:
+            continue
+        path = os.path.join(base, country, EXTERNAL)
+        if not os.path.exists(path):
+            continue
+        header, rows = read(path)
+        where = f"{country}/{EXTERNAL}"
+        if tuple(header) != EXTERNAL_COLUMNS:
+            fails.append(f"{where}: header is not {','.join(EXTERNAL_COLUMNS)}")
+            continue
+        years = {fy for _, fy, _ in files(country, budgets)}
+        for i, r in enumerate(rows, start=2):
+            n += 1
+            at = f"{where} line {i}"
+            if r["fy"] not in years:
+                fails.append(f"{at}: FY{r['fy']} has no budgets/{country}/{r['fy']}.csv")
+            if r["basis"] not in EXTERNAL_BASIS:
+                fails.append(f"{at}: basis {r['basis']!r}")
+            if not r["source_slug"] or not r["doc_locator"]:
+                fails.append(f"{at}: every row cites its document")
+            if not r["currency"]:
+                fails.append(f"{at}: no currency")
+            amounts = [r[s] for s in SHARE_STAGES if r[s]]
+            for a in amounts:
+                if not MONEY.match(a):
+                    fails.append(f"{at}: amount {a!r} is not normalised units")
+            if r["basis"] == "line":
+                if not amounts:
+                    fails.append(f"{at}: a line row carries a figure at some stage")
+                if r["funding_source"] not in EXTERNAL_FUNDING:
+                    fails.append(f"{at}: funding_source {r['funding_source']!r}")
+                if r["scope_confidence"] not in SCOPE:
+                    fails.append(f"{at}: scope_confidence {r['scope_confidence']!r}")
+            elif r["basis"] == "not-printed" and amounts:
+                fails.append(f"{at}: a not-printed row carries no figure")
+    return fails, n
+
+
+def share(iso3: str, fy: str, budgets: str = "") -> dict:
+    """The domestic-state share of the digital lines for one read country-year.
+
+    `{share, stage, domestic, external, currency, flags}`, or `{share: None, why}` where it
+    cannot be taken. The figure of record for the financial sustainability indicator: domestic
+    ÷ (domestic + external) over whole and partial lines, at the first of `SHARE_STAGES` that
+    every counted row on both sides carries."""
+    path = os.path.join(budgets or BUDGETS, iso3, f"{fy}.csv")
+    if not os.path.exists(path):
+        return {"share": None, "why": f"no budgets/{iso3}/{fy}.csv"}
+    dom = [r for r in read(path)[1] if r.get("scope_confidence") in SHARE_SCOPE
+           and r.get("finance_origin") == "domestic-state"]
+    if any(r.get("origin_record") for r in dom):
+        return {"share": None, "why": "the year holds migrated rows and has not been read"}
+    ext_all = [r for r in external(iso3, budgets) if r["fy"] == fy]
+    if not ext_all:
+        return {"share": None, "why": f"no external.csv row for FY{fy} — the sitting did not "
+                                      f"record the denominator"}
+    ext = [r for r in ext_all if r["basis"] == "line" and r["scope_confidence"] in SHARE_SCOPE]
+    flags = []
+    if any(r["basis"] == "not-printed" for r in ext_all):
+        flags.append("origin inferred")
+    if any(r["scope_confidence"] == "partial" for r in dom + ext):
+        flags.append("includes partial lines")
+    for stage in SHARE_STAGES:
+        if all(r.get(stage) for r in dom) and all(r[stage] for r in ext) and dom:
+            d = sum(float(r[stage]) for r in dom)
+            e = sum(float(r[stage]) for r in ext)
+            return {"share": round(100 * d / (d + e), 1) if d + e else None, "stage": stage,
+                    "domestic": d, "external": e, "currency": dom[0].get("currency", ""),
+                    "flags": flags}
+    return {"share": None, "why": "no stage is carried by every counted row on both sides"}
 
 
 def read(path: str) -> tuple[list[str], list[dict]]:
@@ -543,6 +652,8 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("iso3", nargs="?", default="", help="one country, else all of them")
     ap.add_argument("--budgets", default="", help="another budgets/ root, for tests")
     ap.add_argument("--columns", action="store_true", help="print the header and stop")
+    ap.add_argument("--share", action="store_true",
+                    help="print the domestic-state share for every read country-year, and stop")
     ap.add_argument("--ratchet", action="store_true",
                     help="lower the admin-head/programme ceilings to what is left, and stop")
     a = ap.parse_args(argv)
@@ -555,12 +666,29 @@ def main(argv: list[str] | None = None) -> int:
         print(f"budget_source: no source folder at {base}. "
               f"BUDGET-EXTRACT.md is how the first one is written.")
         return 2
+    if a.share:
+        for country in sorted({c for c, _, _ in files(a.iso3, a.budgets)}):
+            if not external(country, a.budgets):
+                continue
+            for _, fy, _ in files(country, a.budgets):
+                r = share(country, fy, a.budgets)
+                if r["share"] is None:
+                    print(f"{country} FY{fy}: no share — {r['why']}")
+                else:
+                    fl = f" ({'; '.join(r['flags'])})" if r["flags"] else ""
+                    print(f"{country} FY{fy}: {r['share']}% domestic at {r['stage']} — "
+                          f"{r['domestic']:,.0f} of {r['domestic'] + r['external']:,.0f} "
+                          f"{r['currency']}{fl}")
+        return 0
     if a.ratchet:
         left = ratchet(a.budgets)
         print(f"budget_source: ceilings now {sum(left.values())} row(s) over {len(left)} "
               f"countr{'y' if len(left) == 1 else 'ies'}.")
         return 0
     fails, nfiles, nrows = check(a.iso3, a.budgets)
+    xfails, xrows = check_external(a.iso3, a.budgets)
+    fails += xfails
+    nrows += xrows
     for f in fails:
         print(f"budget_source: FAIL — {f}")
     if fails:

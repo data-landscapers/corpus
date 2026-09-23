@@ -326,6 +326,45 @@ try:
     check("and record points at the source folder", got[0]["record"],
           "budgets/GHA/2024.csv#gha-2024-011-01101-01101004")
 
+    print("\nthe external companion and the share")
+
+    def ext(root: Path, iso3: str, rows: list[dict]):
+        with open(root / iso3 / bs.EXTERNAL, "w", encoding="utf-8-sig", newline="") as fh:
+            w = csv.DictWriter(fh, fieldnames=list(bs.EXTERNAL_COLUMNS))
+            w.writeheader()
+            for r in rows:
+                w.writerow({c: r.get(c, "") for c in bs.EXTERNAL_COLUMNS})
+
+    line = dict(fy="2024", fiscal_year_label="2024", basis="line", line_name="Donor line",
+                code="1", primary_subject="infra.connect", scope_confidence="whole",
+                funding_source="external-grant", currency="GHS", amount_scale="units",
+                appropriated="20000", doc_locator="p. 6", source_slug="some-slug")
+    r = tmp / "ext"
+    write(r, "GHA", "2024", [row()])
+    check("no external file: no share, and it says why",
+          bs.share("GHA", "2024", str(r))["share"], None)
+    ext(r, "GHA", [line])
+    check("external.csv is not read as a fiscal year",
+          [fy for _, fy, _ in bs.files("GHA", str(r))], ["2024"])
+    check("a clean external file passes", bs.check_external("GHA", str(r))[0], [])
+    got = bs.share("GHA", "2024", str(r))
+    check("share is domestic over domestic plus external", got["share"], 80.0)
+    check("taken at the stage both sides carry", got["stage"], "appropriated")
+    check("the partial domestic line is flagged", got["flags"], ["includes partial lines"])
+    ext(r, "GHA", [dict(line, appropriated="", revised="20000")])
+    check("no common stage: no share", bs.share("GHA", "2024", str(r))["share"], None)
+    ext(r, "GHA", [dict(line, basis="not-printed", appropriated="", line_name="")])
+    got = bs.share("GHA", "2024", str(r))
+    check("a document with no financing split is all domestic, flagged origin inferred",
+          (got["share"], got["flags"][0]), (100.0, "origin inferred"))
+    ext(r, "GHA", [dict(line, fy="2023")])
+    check("a denominator for a year with no read file fails",
+          any("has no budgets/GHA/2023.csv" in f for f in bs.check_external("GHA", str(r))[0]),
+          True)
+    ext(r, "GHA", [dict(line, appropriated="")])
+    check("a line row with no figure fails",
+          any("carries a figure" in f for f in bs.check_external("GHA", str(r))[0]), True)
+
     print("\nexit codes")
     check("a clean tree exits 0", bs.main(["--budgets", str(tmp / "clean")]), 0)
     check("a bad row exits 1", bs.main(["--budgets", str(tmp / "dupe")]), 1)

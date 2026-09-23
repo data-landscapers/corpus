@@ -37,6 +37,8 @@ OSINT minted domestic-state budget records for a year and is being retired from 
 
 **4. Run the origin gate on every line** before building it. An externally financed line is a non-state deal and builds no row here; a line naming no funder beyond *external*, *Dons* or *Externo* builds nothing anywhere and its magnitude is a dated finding in the log. Own-source levy and fee income is domestic-state, and is often legislated in the finance law's articles rather than appropriated in a vote — read the articles and the special accounts.
 
+**4a. Record every externally financed digital line in `budgets/{ISO3}/external.csv`** *(2026-09-23)*. It is the denominator of the maturity assessment's financial sustainability measure — domestic ÷ (domestic + external) — and a log note cannot be summed. One row per line per fiscal year, header as `budget_source.EXTERNAL_COLUMNS`, the same citation and scope discipline as a domestic row, amounts normalised to units at the stage printed. A document that prints no financing split gets one `not-printed` row for the year instead, so the share reads *origin inferred* rather than a silent hundred per cent. A year with no row here has no share.
+
 **5. Write the rows.** `budgets/{ISO3}/{FY}.csv`, UTF-8 with BOM, the header exactly as `python scripts/budget_source.py --columns` prints it, and `origin_record` empty on every row — that column is what says a row was migrated rather than read, and a sitting that leaves it in place has not replaced anything. `{FY}` is the **bare start year** of the fiscal year, whatever the state calls it; `fiscal_year_label` carries the state's own form verbatim. One row per budget line per fiscal year, at the **finest grain the document prints for that line** — and never a programme alongside its own sub-programmes, which would sum.
 
 **Every row names its admin head and its programme** *(Bill, 2026-09-22)*. `admin_head_basis` and `programme_basis` say `printed` for the document's own name; `programme_level` says what grain `programme` holds, and a budget with no programmes gives the next level it prints — `project`, `activity`, `action`, `chapter`, `line` — or `vote`/`body` for a whole appropriation. `derived` is for the one-time backfill of migrated rows (`scripts/budget-structure-backfill.py`), not for a sitting.
@@ -51,6 +53,7 @@ OSINT minted domestic-state budget records for a year and is being retired from 
 
 ```
 python scripts/budget_source.py {ISO3}          # the schema, from the repo root
+python scripts/budget_source.py {ISO3} --share  # the domestic share; read it
 cd scripts/.workroot
 python scripts/build-finance-page.py {ISO3}     # merges; prints the swap it made
 ```

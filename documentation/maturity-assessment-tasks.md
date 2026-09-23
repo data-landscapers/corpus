@@ -70,7 +70,7 @@ One row per assessed indicator (117), columns `indicator_id, kind, tier, instrum
 
 For each of the 22 measures: the figure's definition; the unit; the reference dataset named in the register and its latest vintage; the target value where the norm has one (as an absolute, not time-adjusted); otherwise *Africa quintiles, cut at 2026-07-31, recut each July*; and the precedence rule restated per row (Corpus's cited figure over the dataset's — `maturity-assessment-norms.md` §7). The financial sustainability row carries the provisional absolute bands and the fifteen-country trigger (`indicator-financial-sustainability.md` §5). Done when every measure row in the rubric has all of these and CC has confirmed each dataset is reachable and its latest year recorded.
 
-### C4. Extend the budget extract for the sustainability denominator — **CC** — M, can run any time after A1
+### C4. Extend the budget extract for the sustainability denominator — **CC** — M, can run any time after A1 — *done 2026-09-23: `budgets/{ISO3}/external.csv` for nine read country-years (not four), `budget_source.py --share`, BUDGET-EXTRACT step 4a, the conventions exception*
 
 `indicator-financial-sustainability.md` §5 and §7: record the externally financed digital total per read country-year (CC chooses `budgets/{ISO3}/external.csv` or a column on `logs/budget-extract.csv`), backfill it for GHA, MDG, NER and CAF from the log notes and the documents, add the step to `BUDGET-EXTRACT.md`'s sitting, and write the one-sentence exception into `indicator-mapping-conventions.md` (a measure may cite a `budgets/` country-year as `value_source`; `row_ids` may then be empty for this indicator alone). Done when the four shares compute from the files and the sitting procedure carries the step.
 
