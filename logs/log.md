@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-09-23 12:01 · **FIX** · 10m · data centres change log: only rows whose closing source date is September 2026 (1 row); CSV now one undated file; deployed — ok
 2026-09-23 11:41 · **FIX** · 25m · data centres: Bill's intro published; #changes link now lands (instant jump, anchor re-seated as the table draws); 300 pre-September source rows pruned from the change log (1,845 left); deployed — ok
 2026-09-23 11:10 · **RENDER** · 23m · 251 reports rendered (0 failed), home+countries+topics+progress+catalogue+alerts+finance+datasets (Data Centres 2026-09-23, 576)+methodology, 4511 objects to R2, deployed — ok
 2026-09-23 10:47 · **BUILD** · 32m · catalogue 23,858; finance 1,484 deals, summary by deal year; 52 units / 540 sources read, ~130 rows moved or minted, 15 baselines revised; data centres backfill complete, 576 facilities; topics 76; bulletin 28; 66 register hits stand — ok
