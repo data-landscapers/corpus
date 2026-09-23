@@ -27,7 +27,8 @@ One row per **date × host**: `date,host,views,users,sessions,clicks,impressions
 - `views` is GA4 `screenPageViews`; `users` is `totalUsers`; `sessions` is `sessions`. `clicks` and `impressions` are Search Console's.
 - `fetched_at` is when the row was last written, UTC, ISO 8601.
 - Sorted by date then host. **Written with `\n` line endings** (`lineterminator="\n"`), because a Windows `csv.writer` default of `\r\n` churns the whole file on every run.
-- A value the API did not return is **blank, never 0**. Zero is a real answer.
+- A value the API did not return is **blank, never 0**. Zero is a real answer. A source *answers* a date on or before the newest date it returned any row for: there a host it said nothing about is 0; past it (Search Console not yet published, or the fetch failed) the old value stands, blank if there was none.
+- `other` sums `users` across hosts, which over-counts anyone on two of them. It is there so the day's views reconcile, not as a headcount.
 
 ## How a run works — `scripts/site-analytics.py`
 
@@ -35,7 +36,7 @@ One row per **date × host**: `date,host,views,users,sessions,clicks,impressions
 
 - **Neither source is final the next morning.** GA4 can take 24–48 hours to settle a day; Search Console trails by two to three days. So every run re-fetches **the last 3 days of GA** and **the last 4 days of Search Console** up to yesterday, and overwrites them. Older rows are settled and are not touched again.
 - **The cycle is not strictly nightly** (it fires on an OSINT close, and can be skipped or held), so the range starts at the **earlier of the newest row minus the re-fetch window, and the first missing date** — a skipped night fills itself in on the next run and the table has no gaps.
-- **First run backfills 16 months** — Search Console's limit. GA returns nothing before the property existed, which is correct and leaves those columns blank.
+- **The table starts on 2026-09-13** (`FLOOR`, Bill 2026-09-23) — the first day Search Console has data. The first run backfills from there.
 - **GA:** `runReport` on `properties/539744459`, dimensions `date` and `hostName`, the three metrics above, `limit` high enough for the range (paginate with `offset` if not).
 - **Search Console:** `searchanalytics.query` on `sc-domain:data-landscapers.io` with `dataState: "all"` (the re-fetch window replaces the provisional days). Dimensions `date` and `page`, paginating with `startRow` at 25,000 rows, then summing `clicks` and `impressions` per date per page hostname. **Grouping by page can total slightly differently from grouping by date alone** — Google aggregates differently per dimension. Take the per-host split from the page query; check its per-date totals against a `date`-only query on the first run and note the difference in the commit body if it is material.
 - **The two sources count days in different timezones** — Search Console in US Pacific time, GA in the property's own timezone. A date's clicks and views are not the same visitors. Fine for trends; do not divide one by the other.
@@ -50,14 +51,14 @@ One row per **date × host**: `date,host,views,users,sessions,clicks,impressions
 
 **It never holds the cycle.** On exit 1 or 2 it writes its log line and the cycle goes on to the build. On exit 2 it also writes one block in `logs/messages-for-bill.md` — a revoked key or a lost permission needs Bill — unless a block on the same subject is already open.
 
-**Log line**, through `scripts/log-line.py`: `· **ANALYTICS** ·` naming the dates written and yesterday's totals per host, e.g. `2026-09-20..2026-09-22 written; 22 Sep: dl.io 312 views / 41 clicks, corpus 88 views / 9 clicks`. On a failure, which source and the error.
+**Log line**, through `scripts/log-line.py` — the script's last line of output is the message: `· **ANALYTICS** ·` naming the dates written and yesterday's totals per host, e.g. `2026-09-20..2026-09-22 written; 22 Sep: dl.io 312 views / 41 clicks, corpus 88 views / 9 clicks`. On a failure, which source and the error.
 
-**Commit**: the CSV alone, subject `Analytics: <dates>`. A run that changed no values commits nothing.
+**Commit**: the CSV alone, subject `Analytics: <dates>`. A run that changed no values commits nothing — a row's `fetched_at` moves only when one of its values does, so the file is byte-identical.
 
 ## Tasks for Claude Code
 
 1. **Test access, read-only.** In a temp folder outside every repo, install the three libraries and, with the key above, fetch GA views/users/sessions by date and hostName for `7daysAgo`..`yesterday`, list the Search Console sites the account can see, and fetch 10 days of clicks by date on `sc-domain:data-landscapers.io`. If either is refused with a permission error, wait ten minutes and retry once (new users take time to propagate); if it still fails, write one block in `messages-for-bill.md` naming the exact error and stop here.
 2. **Write `scripts/site-analytics.py`** to the section above, and `scripts/test_site_analytics.py` in the style of the other `test_*.py`: range calculation (empty table, gap, skipped nights, re-fetch windows), upsert replacing rather than duplicating, `other` host folding, blank-not-zero, `\n` endings. No network in the tests.
-3. **Backfill**: run it once for real. Check yesterday's views per host against the GA interface and the Search Console total against its Performance report; say in the commit body how close they were.
+3. **Backfill**: run it once for real. Check yesterday's views per host against the GA interface and the Search Console total against its Performance report; say in the commit body how close they were. The log should start from 2026-09-13.
 4. **Add step 1a to `CYCLE.md`** — one line pointing here. Add `ANALYTICS` wherever job names are defined for `log-line.py`.
 5. **Commit and push** each of 2–4 as its own commit. Then set this note's `status:` to built, with the date.
