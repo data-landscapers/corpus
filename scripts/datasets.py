@@ -236,6 +236,24 @@ DC_PAGE = """<!DOCTYPE html>
 
 </div>
 {datatable}
+<script>
+/* The table is drawn after load and is tens of thousands of pixels tall, so a jump to an anchor
+   below it (#changes) lands before the table exists and is then pushed off screen. Re-seat the
+   anchor as the table grows, until the reader scrolls for themselves or five seconds pass. */
+(function () {{
+  var t = document.querySelector('.dl-datatable');
+  if (!t || !window.ResizeObserver) return;
+  var ro = new ResizeObserver(function () {{
+    var h = location.hash && document.getElementById(location.hash.slice(1));
+    if (h && (t.compareDocumentPosition(h) & Node.DOCUMENT_POSITION_FOLLOWING)) h.scrollIntoView();
+  }});
+  ro.observe(t);
+  function stop() {{ ro.disconnect(); }}
+  ['wheel', 'touchstart', 'keydown'].forEach(function (e) {{ addEventListener(e, stop, {{ once: true, passive: true }}); }});
+  addEventListener('hashchange', function () {{ var h = document.getElementById(location.hash.slice(1)); if (h) h.scrollIntoView(); }});
+  setTimeout(stop, 5000);
+}})();
+</script>
 </body>
 </html>
 """

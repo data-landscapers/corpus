@@ -30,17 +30,13 @@ Column definitions for each of the datasets.
 
 ## data-centres-intro
 
-One row per facility, whether operational, under construction or planned. For each one the table records the operator, the ownership chain up to the ultimate parent, and who controls the facility: African, US, other foreign, or joint.
-
-**Control is our reading of the ownership chain, not a legal finding.** The confidence column says how well the sources support it.
-
-The table is maintained, not rebuilt. When new evidence arrives, the affected rows are corrected or added, and each change is [listed below](#changes) with its sources.
+One row per facility, whether operational, under construction or planned. For each one the table records the operator, the ownership chain up to the ultimate parent, and who controls the facility: African, US, other foreign, or joint. **Control is our reading of the ownership chain, not a legal finding.** The table is maintained automatically. When new evidence arrives, the affected rows are corrected or added, and each change is [listed below](#changes) with its sources.
 
 ## data-centres-status
 
 ## data-centres-table-note
 
-Click a row to see the full record. Sort on any column, filter with the dropdowns, and search across every field, including fields the table does not show.
+Click a row to see the full record. Sort on any column, filter with the dropdowns, and search across every field.
 
 ## dataset-data-centres
 

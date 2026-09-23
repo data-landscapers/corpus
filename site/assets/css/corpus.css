@@ -40,6 +40,9 @@
    than behind them. The bulletin's category bar is the page this matters most
    on, and it is the one place a reader jumps by anchor constantly. */
 h1, h2, h3, h4 { scroll-margin-top: calc(var(--header-h) + 46px); }
+/* A page carrying a data table is tens of thousands of pixels tall: a smooth scroll past it to an
+   anchor below (#changes) is cancelled by anything that moves the layout, so jump instead. */
+html:has(.dl-datatable) { scroll-behavior: auto; }
 /* Right-aligned so the internal menu lines up under the main site nav, which
  * sits on the right of the header (Bill, 2026-08-13, item 1). */
 .corpus-nav__inner { max-width: var(--col-wide); margin: 0 auto; padding: 0.45rem 1.5rem; display: flex; gap: 1.75rem; flex-wrap: wrap; justify-content: flex-end; }
