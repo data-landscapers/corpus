@@ -2,7 +2,7 @@
 type: reference
 title: maturity-rubric.md — the five-stage anchors per indicator, drafted chapter by chapter for lookups/maturity-rubric.csv
 last_reviewed: 2026-09-23
-status: task C2 in progress — Governance and the Finance instrument accepted and cut 2026-09-23; DPI (34 of 36; the two measures are C3) drafted 2026-09-23, CC's six review items acted on the same day, awaiting CC's second review and cut
+status: task C2 in progress — Governance, the Finance instrument and DPI cut 2026-09-23 (64 of 117); Infrastructure, Digitalisation and Technology (19 non-measure rows) drafted 2026-09-23, CC's three review items acted on the same day, awaiting second review and cut
 ---
 
 # The rubric
@@ -124,7 +124,7 @@ The register describes the DPF as having five implementation phases; a read of t
 | 1 | A dated statement that no open data policy exists and no public body publishes open data. | yes |
 | 2 | An open data policy in drafting or announced; or a portal or pilot publishing datasets with no policy behind it. | yes |
 | 3 | An open data policy adopted and published, with no licence, portal or obligation on public bodies in force. | yes |
-| 4 | The policy in force with an open licence, a portal publishing datasets under it, an obligation on public bodies to publish, and a custodian; publication activity in the window on record. | yes |
+| 4 | The policy in force with an open licence, a portal publishing datasets under it, an obligation on public bodies to publish, and a custodian; publication activity in the 12 months to the as-at date on record. | yes |
 | 5 | Principle 29's end state: proactive publication of information of public interest required by law, open by default and through digital means, with compliance monitored and reported. | no |
 
 ### `gov.legislate--data-protection-legislation` — norm: Malabo Arts 8, 13, 16–19 (top; ECOWAS/SADC/EAC as rungs)
@@ -365,7 +365,7 @@ One thing for the second review that the first did not raise: the register's des
 
 ---
 
-## DPI — drafted 2026-09-23; CC's first review acted on, awaiting second review and cut
+## DPI — accepted and cut 2026-09-23
 
 Thirty-four of the chapter's thirty-six: thirty-one systems and three instruments (`dpi.id--national-maintenance-of-id-and-credentials-systems`, `dpi.pay--governance-role-of-central-bank`, `dpi.pay--consumer-protection`). The two measures — `dpi.id--registration-of-entire-population` and `dpi.pay--population-uptake` — are task C3. The system ladder in *How to read an anchor* applies unless a row says otherwise; where a register row is *rungs*, the norm's own stages are named and marked `no`.
 
@@ -735,3 +735,225 @@ POA1 is `dpi.registry--tax-register`'s. This row reads two TADAT indicators and 
 - **6** — `dpi.exchange--use-of-digital-id-in-other-systems` stage 4 reads services consuming a verification or authentication service; the public registers are left to `dpi.id--use-by-other-systems`.
 
 One correction outside the draft: the register's `dpi.pay--revenue-collection` reference said *TADAT POA5 P5-2*; the 2019 Field Guide numbers indicators continuously and electronic payment is P5-15. The register row is corrected.
+
+---
+
+## Infrastructure, Digitalisation and Technology — drafted 2026-09-23; CC's first review acted on, awaiting second review and cut
+
+Three chapters in one leg, because once the measures are held for C3 they are small: Infrastructure's seven non-measure rows (four systems, three instruments), Digitalisation's six systems, Technology's six (four systems, two instruments) — 19 indicators, 95 anchors. Infrastructure's nine measures (penetration, usage, affordability, bandwidth, the two data-centre capacities, energy and water, grid, rural electrification) and Technology's one (`tech.industry--national-capacity-in-dt-related-production`) are C3.
+
+### `infra.connect--national-fibre-backbone` — norm: DTS; PIDA PAP 2; DPF §5.3.1 (top)
+
+Length in kilometres is evidence for reach but is not banded here (no norm sets a figure); the qualifier carries the latest cited length and its date.
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | A dated statement that no national fibre backbone exists — connectivity by satellite or microwave only, or fibre confined to one city. | yes |
+| 2 | A backbone under construction, contracted or planned in a master plan, with segments not yet in service; or fibre reaching some regions with no national plan. | yes |
+| 3 | A backbone in service reaching some provinces or regions, with others unserved on record, or reaching all regions on one operator's network with no open access. | yes |
+| 4 | A backbone in service reaching every province or region on record, with open-access or wholesale terms published, at least one cross-border link in service, and a current length figure cited. | yes |
+| 5 | The DTS and DPF end state: a national infrastructure master plan implemented, the backbone connected to regional backbones and cables with redundancy, infrastructure sharing and rights-of-way rules in force, and reach and capacity reported. | no |
+
+### `infra.connect--internet-exchange-points` — norm: DTS; AXIS; DPF §5.3.1 (top)
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | A dated statement that no internet exchange point operates in the country. | yes |
+| 2 | An IXP established by decree, planned or equipped with no members peering, or peering suspended. | yes |
+| 3 | One IXP in service with a small membership (a handful of members), capacity or traffic cited. | yes |
+| 4 | One or more IXPs in service with the main operators, content networks and the government network peering, traffic or capacity published at two dates at least 12 months apart showing growth, and a second exchange or a second city on record. | yes |
+| 5 | The DTS and AXIS end state: national exchange points keeping domestic traffic local, connected to a regional hub, with barriers to entry removed and traffic reported. | no |
+
+### `infra.connect--satellite-broadband-licensing-and-availability` — norm: ATU-R Rec. 005-0; African Space Strategy (rungs: individual → blanket → mutual recognition) — kind: instrument
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | A dated statement that satellite broadband is not licensed, or that applications are refused or unanswered. | yes |
+| 2 | A licence application pending or a framework in drafting; a licence granted to one operator with no service launched. | yes |
+| 3 | Satellite broadband licensed and in service, with user terminals authorised individually or through a single licensee (ATU-R 005-0's *individual* case). | no |
+| 4 | Terminals licensed on a blanket or class basis, more than one operator or reseller licensed, and NGSO authorisation streamlined with published fees (the *blanket licensing* case). | no |
+| 5 | The ATU recommendation's end state: blanket licensing, free circulation of visiting terminals on mutual recognition, spectrum fees published with no refusal or withdrawal on fee grounds on record, and availability reported. | no |
+
+### `infra.store--off-site-backup-capacity` — norm: Smart Africa Data Center and Cloud Blueprint (continental tier; top; ISO 22301, GTMI CGSI as reference)
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | A dated statement that government systems have no off-site backup or disaster-recovery site. | yes |
+| 2 | Backup or virtualisation equipment procured, a secondary site planned or contracted, or one institution (the central bank, the tax authority) holding its own alternative site with nothing for the estate. | yes |
+| 3 | A government backup or recovery site in service for some systems, or a commercial or satellite provider supplying redundancy under contract, with no continuity plan on record. | yes |
+| 4 | A government disaster-recovery site in service for the core systems, physically separate, with a continuity plan, tested failover or a recovery exercise on record, and Tier or availability level stated. | yes |
+| 5 | The Blueprint's end state: 24/7 availability for e-government on a Tier-classified primary and secondary site, continuity management to a recognised standard, and availability reported. | no |
+
+### `infra.capacity--robustness-of-government-hardware-and-software` — norm: Public Service Charter Art. 8; DTS (top; GTMI CGSI groups as reference)
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | A dated statement that core government systems run on unsupported or obsolete platforms, with outages on record and no inventory. | yes |
+| 2 | Core systems being replaced or procured — a financial system out to tender, a revenue platform contracted — with the estate last described years ago and no inventory. | yes |
+| 3 | The main core systems (finance, revenue, payroll, the state network) in service on supported platforms, with a mandated custodian body, and no enterprise architecture or inventory published. | yes |
+| 4 | Core systems in service on supported platforms under a custodian with an inventory or enterprise architecture, a government network and data centre operating, and incidents or availability reported. | yes |
+| 5 | The Charter's end state: modern technologies used across service delivery, an enterprise architecture and shared platforms (cloud, service bus) in service, and performance reported. | no |
+
+### `infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems` — norm: Public Service Charter Art. 21; DPF (top; GTMI Enablers Index as reference) — kind: instrument
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | A dated statement that government systems are built and maintained by external suppliers with no in-house technical staff or programme. | yes |
+| 2 | A capacity programme announced, a change-management or training exercise run for one system, or bodies stated to require technical assistance to operate what they hold. | yes |
+| 3 | In-house teams maintaining or developing some systems on record (a statistics office building its own portal, a tax authority feeding its own risk system), with no systematic programme. | yes |
+| 4 | A systematic capacity programme in force — a government IT cadre or agency with a mandate, training partnerships with institutions, systems built or maintained in-house across several bodies on record. | yes |
+| 5 | The Charter's Art. 21 end state: systematic, evidence-based capacity development across the public service, collaboration with management and research institutions, and the estate maintained and developed nationally. | no |
+
+### `infra.cybersec--national-cybersecurity-readiness` — norm: Malabo ch. III; DTS (top; ITU GCI tiers, Oxford CMM as reference) — kind: instrument
+
+A composite of policy, law, institutions and operating record; the anchors count them in the order Malabo's chapter III gives, and the lower element decides.
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | A dated statement that no national cybersecurity policy, strategy, law or institution exists. | yes |
+| 2 | A strategy, council or cyber centre created by decree or announced, none with an operating record; or a law in drafting. | yes |
+| 3 | A strategy adopted and a law in force, with the institutions (agency, CERT) constituted but no incident-response, enforcement or reporting record. | yes |
+| 4 | Strategy, law and institutions operating: a national CERT responding to incidents on record, enforcement or prosecutions, a critical-infrastructure regime, and reporting published. | yes |
+| 5 | Malabo chapter III met — policy, strategy, law, institutional mechanism, Malabo ratified — with regional cooperation on record and readiness reported to a recognised assessment. | no |
+
+### `digital.localgov--ict-infrastructure-for-local-government` — norm: Decentralisation Charter Art. 16 (top; UN LOSI as reference)
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | A dated statement that local governments have no ICT infrastructure — no connectivity, equipment or systems below national level. | yes |
+| 2 | Equipment or connectivity delivered to some local administrations, a contract to extend it, or one province procuring its own system. | yes |
+| 3 | Local administrations connected and equipped in some regions or tiers, with no national programme covering the rest. | yes |
+| 4 | A national programme in force connecting and equipping local administrations across tiers, coverage published, and local systems (revenue, permits, records) in service in the main units. | yes |
+| 5 | The Charter's Art. 16 end state: ICT accessible across local governments and in use for local services on record (revenue, permits, records, citizen feedback), local governments provided the technological resources to discharge their responsibilities, and coverage reported. | no |
+
+### `digital.localgov--digitalisation-of-local-government-records` — norm: DTS; Decentralisation Charter Art. 16 (top; UN EGDI, ISO 15489 as reference)
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | A dated statement that local government records — civil, land, revenue, minutes — are held on paper. | yes |
+| 2 | A records or archive system approved or procured by one or some local governments, or a central platform being built to collect from local units. | yes |
+| 3 | Digital records in service in some local governments or for one record type (a parcel register, a revenue roll), with paper elsewhere. | yes |
+| 4 | Digital records in service across the main local governments and record types, on a national platform or standard, exchanging with the central registers. | yes |
+| 5 | The DTS end state: local registers digitised and reused through the exchange layer as core registers, with coverage reported. | no |
+
+### `digital.rural--digitalisation-of-rural-health-clinics` — norm: Africa CDC Digital Transformation Strategy (HealthConnekt Africa: 100,000 facilities connected and 2 m community health workers equipped by 2030); PHC Digitalisation Framework (90 % digitally enabled PHC by 2035) (target)
+
+The `digital.rural` rows share one ladder — connected · equipped · records digital · linked to the national system — and their stage 5 is the sector target on the published figure.
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | A dated statement that rural or primary facilities have no connectivity, equipment or digital reporting. | yes |
+| 2 | Connectivity or devices delivered to some facilities, staff trained on a digital tool, or a rollout beyond pilot sites planned. | yes |
+| 3 | Rural facilities connected and reporting digitally in some districts, or one function digital (surveillance, laboratory, supply chain) with the rest on paper. | yes |
+| 4 | Rural facilities connected and equipped across most districts, patient or reporting records digital, linked to the national HMIS, and the share of facilities covered published. | yes |
+| 5 | The Africa CDC end state: the country's facilities and community health workers connected and equipped on the published figure, primary care digitally enabled to the framework's standard, and coverage reported. | no |
+
+### `digital.rural--digitalisation-of-rural-primary-schools` — norm: AU Digital Education Strategy (devices for 20 % of students and 50 % of teachers by 2027, a third and all by 2030; 50 % of institutions connected; five maturity categories) (target + rungs; ITU UMC 2030 schools as reference)
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | A dated statement that rural primary schools have no connectivity or computers. | yes |
+| 2 | Devices or connectivity tendered or delivered to some rural schools, or a national school-connectivity programme announced. | yes |
+| 3 | Rural schools connected or equipped in some districts on record, with the national shares of connected institutions and equipped students below the DES 2027 figures. | yes |
+| 4 | The DES 2027 figures met on the published figure — at least 50 % of institutions connected, devices for 20 % of students and 50 % of teachers — with rural schools inside the count. | no |
+| 5 | The DES 2030 figures met — devices for a third of students and all teachers, connectivity at the DES cost line — with the country in the DES's top maturity category. | no |
+
+### `digital.rural--digitalisation-of-rural-registry-offices` — norm: DTS (99.9 % digital legal identity by 2030); APAI-CRVS; Kampala Convention Art. 13 (target)
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | A dated statement that registration offices outside the main cities work on paper with no connectivity. | yes |
+| 2 | A digital registration platform piloted in a first group of communes or districts, or equipment rehabilitated at some posts. | yes |
+| 3 | Digital registration in service in some rural offices or districts, with the rest on paper or transmitting by hand. | yes |
+| 4 | Rural offices connected and registering digitally across most districts, records flowing to the central register, and the share of offices covered published. | yes |
+| 5 | The DTS end state: every office registering digitally into the civil register and the ID system, with the DTS legal-identity target met on the published figure and IDP and displaced populations served (Kampala Art. 13). | no |
+
+### `digital.rural--digitalisation-of-rural-police-stations` — norm: Corpus-defined (no instrument at any tier below the national police agency; AFRIPOL Statute for the national end)
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | A dated statement that police posts outside the capital have no connectivity or case-recording system. | yes |
+| 2 | A centralised police platform under build or piloted with no provincial post named, or an integrated security centre announced for one province. | yes |
+| 3 | Provincial or district stations connected and recording on a system in some regions on record. | yes |
+| 4 | Stations connected and recording digitally across most provinces, records flowing to a national platform, and coverage published. | yes |
+| 5 | Every station on the national platform, linked to the justice case-management system and the national ID for verification, with the national agency connected to AFRIPOL's systems. | yes |
+
+### `tech.ai--use-of-ai-in-government-administration` — norm: Continental AI Strategy, public-sector action area (top)
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | A dated statement that no AI system is in use in public administration, or that public data is unfit for advanced analytics. | yes |
+| 2 | An AI platform for administration authorised, tendered or piloted in one body. | yes |
+| 3 | One or two AI systems in service in administration (a chatbot for a service, document processing in one ministry) on record. | yes |
+| 4 | AI in service across several bodies with a published inventory or use-case register, procurement rules for AI, and impact or performance reported. | yes |
+| 5 | The AI Strategy's end state: AI adopted in the public sector under a governance framework, innovation-friendly procurement, capacity in place, and use cases shared and reported. | no |
+
+### `tech.ai--use-of-ai-in-sectoral-management-information-systems` — norm: Continental AI Strategy, core-sectors action area; DPF §5.3 (top)
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | A dated statement that no sectoral system (health, agriculture, education, tax, climate) uses AI or advanced analytics. | yes |
+| 2 | A sectoral AI tool in pilot or testing (a diagnostic tool in two provinces, a risk-analysis model in testing). | yes |
+| 3 | One sectoral AI system in service and producing decisions or outputs on record (a tax risk engine issuing notices, a disease model informing a campaign). | yes |
+| 4 | AI in service in several sectors' systems, built or adapted nationally, with data warehouses or pipelines supporting them and results reported. | yes |
+| 5 | The AI Strategy's end state: AI adopted in the core sectors, national centres of excellence or datasets supporting it, and outcomes reported. | no |
+
+### `tech.ai--development-of-national-regional-ai-systems` — norm: Continental AI Strategy (infrastructure, datasets, talent; "Local First"); Smart Africa AI Council (top)
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | A dated statement that no AI model, dataset or compute facility is developed or hosted nationally. | yes |
+| 2 | Local AI builds named without funding, users or deployment; a compute facility or national dataset planned. | yes |
+| 3 | A national AI model, dataset or compute facility in service on record (a language model deployed, a national data facility with accelerators, a curated national dataset published). | yes |
+| 4 | National or regional AI capacity in service across the three — compute, datasets, talent — with a funded programme, a research or industry ecosystem using it, and usage reported. | yes |
+| 5 | The AI Strategy's end state: the country able to self-manage its data and AI on "Local First" — sovereign or regional compute, open national datasets, talent pipelines — and participating in continental AI infrastructure. | no |
+
+### `tech.ai--control-of-ai-abuse` — norm: Continental AI Strategy focus area 2; DTP Annex on Emerging and Advanced Technologies (top) — kind: instrument
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | A dated statement that no authority, rule or mechanism addresses AI harms — misinformation, manipulation, bias, unsafe systems. | yes |
+| 2 | A draft law providing for a competent authority without designating it; a workshop, guideline or ethics principle with no legal effect. | yes |
+| 3 | A rule in force addressing at least one AI harm (deepfakes, automated decisions, election manipulation) or an authority designated with a mandate, with no enforcement on record. | yes |
+| 4 | An authority operating with powers over AI harms, risk-based rules in force, and enforcement, audit or redress decisions on record. | yes |
+| 5 | The AI Strategy's end state: risk-based regulation, an independent oversight institution with enforcement and redress, technical safety standards, and participation in regional oversight (the AI Ethics Board or REC arrangements). | no |
+
+### `tech.innovate--technology-hubs` — norm: DTS (a technology park and incubation hub in each region; local innovation centres) (top; WIPO GII, hub counts as reference)
+
+The DTS target is regional; a country's stage reads its own hubs, and the regional park is stage 5's evidence.
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | A dated statement that no technology hub, incubator or park operates in the country. | yes |
+| 2 | A hub or park announced, under construction, or one private hub with no programme on record. | yes |
+| 3 | One or more hubs in service with incubation programmes and cohorts on record, in the capital only, or a park inaugurated with no tenants. | yes |
+| 4 | Hubs in service in more than one city with public or partner support, programmes and outputs (startups incubated, jobs, funding raised) reported, and a science or technology park operating with tenants. | yes |
+| 5 | The DTS end state: the country hosting its region's technology park and incubation hub, or a national park linked to it by an agreement on record; local innovation centres in service; outputs reported. | no |
+
+### `tech.innovate--tech-startup-ecosystem` — norm: DTS (national start-up strategies and laws; innovation fund; angel networks); AU Startup Model Law Framework (rungs: seven areas) — kind: instrument
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | A dated statement that no startup law, strategy or public support instrument exists and no venture or angel financing is on record. | yes |
+| 2 | A startup bill drafted or tabled, a competition or grant scheme opened, or a strategy in consultation. | yes |
+| 3 | A startup law or strategy enacted or adopted covering some of the Framework's seven areas (definition, governance, institutional support, taxation, funding, regulatory enablement, skills), with implementing measures pending. | no |
+| 4 | The law in force with implementing measures across most of the seven areas — a labelling or registration regime operating, tax or procurement measures applied, a fund or angel network financing startups on record. | no |
+| 5 | The DTS end state: a national startup strategy and law in force across the seven areas, an innovation fund and angel networks operating, patents and outcomes reported. | no |
+
+## Infrastructure, Digitalisation and Technology — notes for CC's review
+
+- **Three chapters in one leg.** Nineteen rows; if CC would rather review them as three, the file's headings already carry the chapter and the checker's chapter counts separate them.
+- **`digital.rural` shares one ladder** and says so on the health row; the four differ at stage 5 by their sector target. The police row is the register's one `corpus` anchor and all five of its rungs are `yes`, including stage 5, which is Corpus's own end state.
+- **The two DES-target rows** (`rural-primary-schools` stages 4–5) are marked `no` because the DES states the 2027 and 2030 figures. The figures are the DES's national ones; the row reads rural schools, which changes what the assessor counts, not who set the bar (CC, first review of this leg). The qualifier carries the rural share where the base holds it.
+- **`national-cybersecurity-readiness`** is a composite like data-protection readiness and takes the same shape after the first review's item 7: the lower element decides.
+- **`national-fibre-backbone`** does not band length; a norm for kilometres does not exist and the register's row says so. The latest cited length and its date go in the qualifier.
+- **AI rows** lean on the AI Strategy's action areas for their end states with no AU numeric target anywhere; all three system rows have four interpolated rungs.
+
+## Infrastructure, Digitalisation and Technology — changes made on CC's first review (2026-09-23)
+
+`maturity-rubric-review.md` returned the leg with three one-line items; all three are in the file above, and the schools note is amended as CC asked.
+
+- **1** — `internet-exchange-points`: *no growth in the window* deleted from stage 3; stage 4 reads *traffic or capacity published at two dates at least 12 months apart showing growth*.
+- **2** — `gov.policy--open-data-policy` stage 4 (Governance, already cut): *publication activity in the 12 months to the as-at date*; CC re-cuts Governance with this leg.
+- **3** — `technology-hubs` stage 5: *the country hosting its region's technology park, or a national park linked to it by an agreement on record*.
+- **Schools** — stage 4 stays `no`; the note now says the figure is the DES's national one and the qualifier carries the rural share.
