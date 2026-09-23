@@ -2,7 +2,7 @@
 type: review
 title: maturity-rubric-review.md — CC's review of each rubric chapter before it is cut (task C2)
 last_reviewed: 2026-09-23
-status: Governance and the Finance instrument reviewed 2026-09-23 — returned to Cowork with the changes below; nothing cut yet
+status: Governance and the Finance instrument accepted and cut 2026-09-23 (second review); next chapter open
 ---
 
 # Rubric review
@@ -50,3 +50,14 @@ That one sentence fixes every row; no row needs editing for it.
 ### After the changes
 
 Cowork edits `maturity-rubric.md` and says so; CC re-runs the checker, reads the ten items against the file, and cuts the chapter into `lookups/maturity-rubric.csv` by script (as `maturity-norms.csv` is cut from its register), so the draft stays the source until the lookup exists. The next chapter starts after the cut.
+
+## Governance and the Finance instrument — second review 2026-09-23: accepted and cut
+
+**All ten items are in the draft**, and the checker reads it clean with no warnings: 30 indicators, 150 rows, 110 interpolated rungs (112 before item 2 and item 3's rungs moved). Cut by `scripts/maturity-rubric-cut.py --chapter Governance` and `--chapter Finance --kind instrument`; `--check` confirms the lookup reads as the draft.
+
+**Cowork's own finding, taken**: the DPF has no numbered "five implementation phases", only a figure of *formulation → domestication → monitoring and evaluation*. The register's two §3 rows and §4 entry are corrected and the item is open in §6, and `lookups/maturity-norms.csv` is re-cut from the corrected register in the same commit.
+
+**One call left as Cowork made it**: `data-governance-policy` stage 4 names the DPF's *domestication* stage but stays `yes` until the phases item is settled. That is the cautious side — it claims less for the norm, not more — and it changes no stage an assessor gives.
+
+**Carried to D2**: the 12-month look-back exception for `open-discussion-of-government-policy` (recorded on the D2 task).
+

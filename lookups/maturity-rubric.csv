@@ -1,0 +1,151 @@
+﻿indicator_id,stage,anchor,interpolated
+gov.policy--digital-transformation-strategy,1,"A dated statement that no national digital strategy exists, or that the last one expired with no successor.",yes
+gov.policy--digital-transformation-strategy,2,"A national digital transformation strategy in drafting, under consultation or announced with a horizon; or an expired strategy with a successor in preparation on record; or only a sectoral ICT strategy standing in for a national one.",yes
+gov.policy--digital-transformation-strategy,3,"A national digital transformation strategy adopted and published, with a stated horizon, and no costed implementation plan, budget or M&E report on record.",yes
+gov.policy--digital-transformation-strategy,4,"The adopted strategy with a costed implementation or action plan, an implementing body with a mandate, and at least one published progress, mid-term or M&E report; budget lines traceable to it.",yes
+gov.policy--digital-transformation-strategy,5,"A current strategy that states its alignment with the DTS and covers its pillars, reviewed at mid-term or succeeded on schedule, with published results against its own targets.",no
+gov.policy--ict-strategy,1,A dated statement that no ICT or telecoms sector strategy or policy exists and no digital strategy covers the sector.,yes
+gov.policy--ict-strategy,2,"An ICT or telecoms policy in drafting or consultation, or expired with a successor in preparation.",yes
+gov.policy--ict-strategy,3,"An ICT or telecoms sector policy or strategy adopted and published, with no implementation plan or reporting on record.",yes
+gov.policy--ict-strategy,4,"The adopted sector policy with an implementation plan, a ministry or regulator mandated to deliver it, and reported implementation (a regulator's annual report against it, a funded programme).",yes
+gov.policy--ict-strategy,5,"The sector strategy integrated into, or superseded by, a national digital transformation strategy that puts ICT at the centre of the national development agenda (Manifesto principle 5), with the sector's targets carried in it.",no
+gov.policy--broadband-strategy,1,A dated statement that no national broadband plan exists and broadband is outside the universal-service definition.,yes
+gov.policy--broadband-strategy,2,"A national broadband plan in drafting or consultation, or an expired plan with no successor adopted, or broadband added to the universal-access definition with no plan.",yes
+gov.policy--broadband-strategy,3,"A national broadband plan or strategy adopted and published with dated targets, and no funding source identified on record.",yes
+gov.policy--broadband-strategy,4,"The adopted plan funded — a budget line, a universal-service-fund allocation or a financed programme cited against it — with an implementing body and reported progress against its targets.",yes
+gov.policy--broadband-strategy,5,"A funded plan whose targets meet or exceed the DTS 2030 outcome (universal access at ≥ 6 Mb/s, affordability at or below the DTS or 2 %-of-GNI line) with published progress against them.",no
+gov.policy--data-storage-cloud-strategy,1,A dated statement that government has no policy on where its data is hosted or on the use of cloud.,yes
+gov.policy--data-storage-cloud-strategy,2,A government cloud or data-centre policy announced or in drafting; a cloud-first statement without an instrument; a national data centre planned or under construction with no hosting policy.,yes
+gov.policy--data-storage-cloud-strategy,3,"A policy or strategy on government data hosting or cloud adopted and published (cloud-first policy, national data centre policy, government hosting rules), not yet applied through classification or procurement.",yes
+gov.policy--data-storage-cloud-strategy,4,"The policy in force with a hosting classification for state data, a designated government cloud or data centre in service, and procurement or circular rules that require systems to conform; at least one migration or conformance act on record.",yes
+gov.policy--data-storage-cloud-strategy,5,"The DPF and DTS end state: state data hosted per classification on national or continental infrastructure, portability and interoperability across providers required, and usage reported.",no
+gov.policy--data-interoperability-framework-roadmap,1,A dated statement that no interoperability framework or roadmap exists for government systems.,yes
+gov.policy--data-interoperability-framework-roadmap,2,"A framework or roadmap in drafting or announced, or interoperability named as an action in a digital strategy with no instrument of its own.",yes
+gov.policy--data-interoperability-framework-roadmap,3,"A national interoperability framework (e-GIF or equivalent) or roadmap adopted and published, voluntary or without a custodian.",yes
+gov.policy--data-interoperability-framework-roadmap,4,"The framework made binding on government systems by an instrument (decree, circular, procurement rule), with a custodian body and a published standards catalogue; at least one system's conformance or a register-reuse decision on record.",yes
+gov.policy--data-interoperability-framework-roadmap,5,"The DTS end state: a framework with implementing acts covering interoperability and levels of assurance, on open standards, with core registers reused across systems through a secure exchange environment.",no
+gov.policy--ai-strategy,1,A dated statement that no national AI strategy or policy exists.,yes
+gov.policy--ai-strategy,2,"An AI strategy in drafting or consultation, or AI addressed only as a section of a digital strategy, or a task force appointed to prepare one.",yes
+gov.policy--ai-strategy,3,A national AI strategy adopted and published.,no
+gov.policy--ai-strategy,4,"The strategy with a governance mechanism constituted (a national AI council, office or designated authority), an implementation plan, and funding or a first funded action on record — Phase 1's ""national strategies and governance structures"".",no
+gov.policy--ai-strategy,5,"The strategy stating its alignment with the Continental AI Strategy and covering its focus areas, with an ethics or risk framework adopted and implementation reported.",no
+gov.policy--data-localisation-policies,1,A dated statement that no rule exists on where data may be held or processed.,yes
+gov.policy--data-localisation-policies,2,A localisation rule proposed or drafted; or a blanket localisation requirement in force with no categorisation of data.,yes
+gov.policy--data-localisation-policies,3,"An instrument in force that classifies data and localises defined categories (state, critical, sensitive personal), with other categories free to flow.",yes
+gov.policy--data-localisation-policies,4,"The category-based rules applied through hosting decisions and procurement with a supervising body, and transfer of non-localised categories permitted through a stated mechanism (adequacy, contract, consent); at least one application or exemption decision on record.",yes
+gov.policy--data-localisation-policies,5,"The DPF and DTP end state: category-based localisation, no requirement to locate computing facilities beyond public-policy exceptions, free flow of non-personal data, and participation in a regional or continental data-flow mechanism.",no
+gov.policy--data-governance-policy,1,A dated statement that no national data policy or strategy exists.,yes
+gov.policy--data-governance-policy,2,"A national data policy in drafting or consultation, or DPF adoption announced with no domestic instrument.",yes
+gov.policy--data-governance-policy,3,A national data governance policy or strategy adopted and published — the DPF's *formulation* stage.,no
+gov.policy--data-governance-policy,4,"The policy in force with an institutional owner (a data governance authority, office or council) and implementing instruments on record in at least two of the DPF's areas — classification, sharing, open data, protection, cross-border flows — the DPF's *domestication* stage.",yes
+gov.policy--data-governance-policy,5,"The DPF end state: domestic instruments across the framework's areas, monitored and evaluated against it, and the country participating in intra-African data collaboration.",no
+gov.policy--open-data-policy,1,A dated statement that no open data policy exists and no public body publishes open data.,yes
+gov.policy--open-data-policy,2,An open data policy in drafting or announced; or a portal or pilot publishing datasets with no policy behind it.,yes
+gov.policy--open-data-policy,3,"An open data policy adopted and published, with no licence, portal or obligation on public bodies in force.",yes
+gov.policy--open-data-policy,4,"The policy in force with an open licence, a portal publishing datasets under it, an obligation on public bodies to publish, and a custodian; publication activity in the window on record.",yes
+gov.policy--open-data-policy,5,"Principle 29's end state: proactive publication of information of public interest required by law, open by default and through digital means, with compliance monitored and reported.",no
+gov.legislate--data-protection-legislation,1,"A dated statement that no data protection law exists (a tracker entry, a ministry's admission), with at most sectoral or constitutional provisions.",yes
+gov.legislate--data-protection-legislation,2,"A data protection bill drafted, tabled or under consultation; or a law passed but not promulgated.",yes
+gov.legislate--data-protection-legislation,3,"A comprehensive data protection law enacted and published, with commencement, implementing regulations or the authority still pending.",yes
+gov.legislate--data-protection-legislation,4,"The law in force with implementing regulations and an authority constituted under it (see the DPA row), and at least one enforcement or compliance act on record.",yes
+gov.legislate--data-protection-legislation,5,"A law aligned with Malabo's principles and data-subject rights, with Malabo ratified or the applicable REC instrument domesticated, a transfer regime in force, and enforcement reported.",no
+gov.legislate--cybersecurity-legislation,1,A dated statement that no cybercrime or cybersecurity law exists.,yes
+gov.legislate--cybersecurity-legislation,2,A cybercrime or cybersecurity bill drafted or tabled; or offences addressed only by penal-code amendment; or a national cybersecurity policy adopted with no law.,yes
+gov.legislate--cybersecurity-legislation,3,"A cybercrime or cybersecurity law enacted and published, with regulations or the institutional mechanism pending.",yes
+gov.legislate--cybersecurity-legislation,4,"The law in force with implementing regulations, the institutional mechanism it provides for constituted (a cybersecurity agency, authority or CERT under the law), and prosecutions or incident-response acts on record.",yes
+gov.legislate--cybersecurity-legislation,5,"Malabo's chapter III met: national cybersecurity policy and strategy adopted, law in force, institutions operating, Malabo ratified, and harmonisation or mutual legal assistance arrangements on record.",no
+gov.legislate--legislation-covering-digital-id,1,A dated statement that no law establishes a national ID system or authority.,yes
+gov.legislate--legislation-covering-digital-id,2,"An identity bill drafted or tabled; or an ID system operating under executive instrument only, with legislation in preparation.",yes
+gov.legislate--legislation-covering-digital-id,3,"A law enacted establishing the ID system or its authority, with regulations, commencement or the data-protection linkage pending.",yes
+gov.legislate--legislation-covering-digital-id,4,"The law in force with regulations, an authority with a clear mandate, and provisions on the right to enrol, personal data protection, grievance and oversight, applied in practice on record.",yes
+gov.legislate--legislation-covering-digital-id,5,"The Interop. Framework §4.1 end state: a harmonised enabling legal framework, a personal data law in force and applying to the ID system, Malabo ratified, and legal identity for all provided in law.",no
+gov.legislate--digital-payments-legislation,1,A dated statement that no payment-systems law or e-money regulation exists.,yes
+gov.legislate--digital-payments-legislation,2,"A payment-systems bill or e-money regulation drafted, tabled or under consultation.",yes
+gov.legislate--digital-payments-legislation,3,"A payment-systems law or a central-bank e-money regulation in force, without a licensing regime for non-bank providers or interoperability rules.",yes
+gov.legislate--digital-payments-legislation,4,"The framework in force with licensing of non-bank providers, interoperability rules or a mandate, and consumer-protection provisions, with licences or enforcement acts on record.",yes
+gov.legislate--digital-payments-legislation,5,"The DTP end state: domestic interoperability mandated and in effect, cross-border participation (PAPSS or a regional system) provided for, AML/CFT and consumer protection embedded in the framework.",no
+gov.legislate--legislation-enabling-data-interoperability,1,A dated statement that no instrument permits data sharing between public bodies.,yes
+gov.legislate--legislation-enabling-data-interoperability,2,"A data-sharing law, decree or e-government act in drafting or tabled.",yes
+gov.legislate--legislation-enabling-data-interoperability,3,"An instrument in force permitting public bodies to share data in general terms (an e-government law, a decree on the exchange platform), without obligations, standards or a custodian.",yes
+gov.legislate--legislation-enabling-data-interoperability,4,"The instrument with implementing acts: obligations to share through the exchange layer, register-reuse rules, levels of assurance, a custodian; conformance or a sharing agreement on record.",yes
+gov.legislate--legislation-enabling-data-interoperability,5,"The DTS end state: a framework with implementing acts for interoperability and levels of assurance on open standards, with mutual recognition of authentication and identities provided for (DTP Art. 19).",no
+gov.legislate--ai-legislation-regulations,1,"A dated statement that no law or regulation addresses AI, automated decision-making or algorithmic systems.",yes
+gov.legislate--ai-legislation-regulations,2,A regulatory gap analysis or consultation on AI announced; AI addressed by guidance or ethics principles without legal effect.,no
+gov.legislate--ai-legislation-regulations,3,"Existing laws amended or sectoral rules adopted to cover AI — automated-decision provisions in data protection, sector guidance with legal effect, formally adopted AI ethics rules.",no
+gov.legislate--ai-legislation-regulations,4,An enabling AI regulatory framework in force (act or decree) with assessment or evaluation tools and a designated regulator or oversight body.,no
+gov.legislate--ai-legislation-regulations,5,"The Continental AI Strategy end state: risk-based regulation in force, an independent oversight institution with enforcement and redress, and alignment with regional governance (the AI Ethics Board or REC frameworks).",no
+gov.legislate--e-commerce-legislation,1,A dated statement that no electronic-transactions or e-commerce law exists.,yes
+gov.legislate--e-commerce-legislation,2,An e-transactions or e-commerce bill drafted or tabled.,yes
+gov.legislate--e-commerce-legislation,3,"An electronic-transactions law enacted giving legal validity to electronic documents, contracts and signatures, with trust-service regulations or consumer provisions pending.",yes
+gov.legislate--e-commerce-legislation,4,"The law in force with online consumer-protection provisions, e-signature or trust-service regulations and accredited providers, and enforcement or accreditation acts on record.",yes
+gov.legislate--e-commerce-legislation,5,"The DTS ""complete set"" — e-transactions, consumer protection, privacy and cybercrime — all in force and mutually consistent, with mutual recognition of e-authentication provided for.",no
+gov.legislate--statistics-legislation,1,A dated statement that no statistics act exists or that the act in force predates the national statistical system it governs.,yes
+gov.legislate--statistics-legislation,2,A statistics bill drafted or tabled to replace or create the act.,yes
+gov.legislate--statistics-legislation,3,"A statistics act in force establishing the national statistics office, without the Charter's principles (independence, confidentiality, coordination) written into it.",yes
+gov.legislate--statistics-legislation,4,"An act in force providing professional independence, a coordination mandate over the national statistical system, confidentiality of individual data and a funding basis, with the office operating under it.",yes
+gov.legislate--statistics-legislation,5,"An act conforming to the Charter and the Model Law, with the Charter ratified.",no
+gov.legislate--access-to-information-legislation,1,"A dated statement that no access-to-information law exists, with at most a constitutional right.",yes
+gov.legislate--access-to-information-legislation,2,"An access-to-information bill drafted, tabled or under consultation.",yes
+gov.legislate--access-to-information-legislation,3,"An access-to-information law enacted, with the oversight mechanism, procedures or commencement pending.",yes
+gov.legislate--access-to-information-legislation,4,"The law in force with procedures, proactive-disclosure obligations and an oversight mechanism established by law (Principle 34), with requests or decisions on record.",no
+gov.legislate--access-to-information-legislation,5,"The Model Law met: proactive disclosure including through digital means, an independent oversight body operating with published decisions, and access that is expeditious and inexpensive.",no
+gov.protect--data-protection-authority,1,A dated statement that no authority exists and none is provided for in law.,yes
+gov.protect--data-protection-authority,2,An authority provided for in law but not constituted; or data protection handled by a ministry unit or the regulator without a statutory authority.,yes
+gov.protect--data-protection-authority,3,"The authority constituted — members appointed — and beginning operations: registrations, guidance, a first report, with no enforcement decision on record.",yes
+gov.protect--data-protection-authority,4,"The authority independent by statute, funded in the budget, and enforcing — decisions, sanctions or orders on record — over public and private controllers.",no
+gov.protect--data-protection-authority,5,"Malabo Arts 11–12 met and the DPF checklist complete: independent, funded, enforcement decisions and sanctions published and complaints resolved on record, accountable (an annual report published), covering all controllers, and cooperating regionally (NADPA membership, cross-border cases).",no
+gov.protect--national-data-protection-readiness,1,"No law, no authority, no ratification, and a citation for the absence of the law.",yes
+gov.protect--national-data-protection-readiness,2,"A data protection bill drafted or tabled, or a draft under consultation.",yes
+gov.protect--national-data-protection-readiness,3,A data protection law in force.,no
+gov.protect--national-data-protection-readiness,4,"A law in force and an authority operating, with the Guidelines' practices on record — privacy-by-design guidance, codes of conduct, impact assessments, breach notification in use.",no
+gov.protect--national-data-protection-readiness,5,"All four: Malabo ratified (or the REC instrument domesticated), law in force, authority enforcing, the Guidelines' practices in use, and participation in continental or regional cooperation.",no
+gov.regional--regional-policy-collaboration,1,A dated statement that the country takes no part in regional or continental digital policy processes.,yes
+gov.regional--regional-policy-collaboration,2,"Membership only — of ATU, Smart Africa, a REC regulators' association — with no contribution on record.",yes
+gov.regional--regional-policy-collaboration,3,"Active participation on record: hosting or contributing to a regional or continental policy process (PRIDA, a REC digital strategy, a harmonisation working group), or regional guidelines adopted domestically in one area.",yes
+gov.regional--regional-policy-collaboration,4,"Regional guidelines or a REC digital strategy implemented through domestic instruments in more than one area (roaming, spectrum, cross-border data, digital ID recognition) with reporting to the regional body.",yes
+gov.regional--regional-policy-collaboration,5,"The DTS end state: the national strategy stating its alignment with the regional and continental strategies, a standing coordination mechanism, and regional instruments carried in domestic law.",no
+gov.regional--regional-legal-harmonisation,1,A dated statement that no domestic instrument is harmonised with a REC or AU model or act.,yes
+gov.regional--regional-legal-harmonisation,2,A REC model law or supplementary act referenced in a draft or bill.,yes
+gov.regional--regional-legal-harmonisation,3,"A REC instrument domesticated in one area of the cyberlaw set (data protection, cybercrime or e-transactions).",yes
+gov.regional--regional-legal-harmonisation,4,"REC instruments domesticated across the cyberlaw set, with mutual legal assistance or cross-border cooperation arrangements on record.",yes
+gov.regional--regional-legal-harmonisation,5,"Malabo and the AfCFTA Digital Trade Protocol ratified, the full set harmonised, and harmonisation reported to the REC or AU.",no
+gov.regional--shared-regional-infrastructure,1,A dated statement that the country is party to no regional ICT infrastructure project or network.,yes
+gov.regional--shared-regional-infrastructure,2,"Signatory or participant in a planned regional project (a PIDA PAP 2 ICT project, a cable consortium, a regional backbone) not yet in service.",yes
+gov.regional--shared-regional-infrastructure,3,"One shared regional asset in service touching the country: a cross-border fibre link, a cable landing shared through a consortium, a regional IXP peering, One Africa Network roaming.",yes
+gov.regional--shared-regional-infrastructure,4,"Several shared assets in service with operational agreements — cross-border capacity, regional traffic exchange, roaming — and usage or traffic reported.",yes
+gov.regional--shared-regional-infrastructure,5,"The DTS end state: regional or continental licensing of operators recognised, participation in regional networks and data infrastructure, and traffic kept regional on record.",no
+gov.regional--cross-border-data-transfers,1,A dated statement that no rule governs the transfer of personal data abroad.,yes
+gov.regional--cross-border-data-transfers,2,"Transfer rules drafted, or in a bill.",yes
+gov.regional--cross-border-data-transfers,3,"Transfer provisions in force in the data protection law (adequacy, consent, authorisation) with no mechanism issued by the authority.",yes
+gov.regional--cross-border-data-transfers,4,"Transfer mechanisms operating — adequacy decisions, standard clauses, binding corporate rules or authorisations issued by the authority — with decisions on record.",yes
+gov.regional--cross-border-data-transfers,5,"The DPF and DTP end state: an adequacy-based regime aligned with Malabo Art. 14 and the DTP annex, and participation in a regional or continental data-flow mechanism.",no
+gov.standards--national-interoperability-standards,1,A dated statement that no national standards exist for government systems' interoperability.,yes
+gov.standards--national-interoperability-standards,2,A standards catalogue or e-GIF technical annex in drafting.,yes
+gov.standards--national-interoperability-standards,3,"Interoperability standards published for government systems, voluntary.",yes
+gov.standards--national-interoperability-standards,4,"The standards mandated for government procurement and systems by an instrument, with a custodian and conformance testing or certification on record.",yes
+gov.standards--national-interoperability-standards,5,"The DTS end state: open standards mandated, verification standards for identity in G2G, G2B and G2C transactions, referencing international standards (W3C, ISO/IEC), and ready for mutual recognition.",no
+gov.standards--national-quality-standards,1,"A dated statement that no national standards body is active, or that none addresses ICT or data.",yes
+gov.standards--national-quality-standards,2,A national standards body exists with no ICT or data quality standards adopted and no national quality policy.,yes
+gov.standards--national-quality-standards,3,"A national quality policy adopted, or the standards body adopting ICT or data quality standards (ISO 9001, ISO/IEC 27001, ISO 8000) as national standards, voluntary.",yes
+gov.standards--national-quality-standards,4,"A quality policy in force with accreditation and certification infrastructure operating for ICT — accredited certification bodies, certified government systems or bodies on record.",yes
+gov.standards--national-quality-standards,5,"The PAQI end state: the standards body participating in ARSO and AFRAC, harmonised African standards adopted, and a national quality policy on UNIDO's principles.",no
+gov.standards--adoption-of-international-standards,1,A dated statement that the country is outside ISO membership and adopts no international ICT standards.,yes
+gov.standards--adoption-of-international-standards,2,"ISO correspondent or subscriber membership, with sporadic adoption of international standards.",yes
+gov.standards--adoption-of-international-standards,3,ISO member body; international ICT and data standards adopted as national standards on record.,yes
+gov.standards--adoption-of-international-standards,4,"Systematic adoption through a published catalogue, participation in technical committees, and government systems required to conform to named international standards (security, records, identity).",yes
+gov.standards--adoption-of-international-standards,5,"The DTS and Framework end state: technology neutrality and open standards mandated, participation in ARSO harmonisation and in international standard-setting.",no
+gov.discourse--non-governmental-contribution-to-national-policy,1,"A dated statement that digital instruments are made without consultation, or that civil society is excluded from the process.",yes
+gov.discourse--non-governmental-contribution-to-national-policy,2,"Ad hoc consultation on a digital instrument on record, with no requirement or standing mechanism.",yes
+gov.discourse--non-governmental-contribution-to-national-policy,3,"Consultation required by law or standing practice for digital policy, with published consultations and responses on record.",yes
+gov.discourse--non-governmental-contribution-to-national-policy,4,"Standing multi-stakeholder bodies (a national IGF, an advisory council, a regulator's consultative committee) with a role in policy, and non-governmental input traceable in adopted instruments.",yes
+gov.discourse--non-governmental-contribution-to-national-policy,5,"The ACDEG and Declaration end state: a multi-stakeholder model of regulation, an enabling environment for civil society in law, and co-created commitments (an OGP action plan or equivalent) reported against.",no
+gov.discourse--open-discussion-of-government-policy,1,"Restrictions on discussion on record — an internet shutdown, blocking, or prosecution for online expression in the 12 months to the as-at date — and no access-to-information law.",yes
+gov.discourse--open-discussion-of-government-policy,2,"Discussion occurs but restrictions are on record in the 12 months to the as-at date (a shutdown, a blocking order, a false-information law with prison terms), or the press covers policy under documented controls.",yes
+gov.discourse--open-discussion-of-government-policy,3,"No shutdown or blocking in the 12 months to the as-at date, policy documents published, and the press and public discussing digital policy freely on record.",yes
+gov.discourse--open-discussion-of-government-policy,4,"Proactive disclosure practised — draft laws and strategies published for comment, regulator decisions published — with an access-to-information law in force.",yes
+gov.discourse--open-discussion-of-government-policy,5,"The Declaration's end state: universal access affirmed in law and policy, no surveillance abuse on record, an independent oversight body for access to information, and open publication as the norm.",no
+finance.budget--sustainable-domestic-financing-of-digital-transformation,1,"A dated statement that the budget carries no domestic line for digital transformation, or a read budget document (`budgets/`) with none.",yes
+finance.budget--sustainable-domestic-financing-of-digital-transformation,2,"Digital lines appropriated project by project within single ministries, with no recurring programme, fund or own-source mechanism.",yes
+finance.budget--sustainable-domestic-financing-of-digital-transformation,3,"A recurring programme or budget line for digital transformation in the appropriation, in a read budget document or on record, without a dedicated fund or own-source revenue.",yes
+finance.budget--sustainable-domestic-financing-of-digital-transformation,4,"A dedicated mechanism in law: a digital or universal-service fund, a levy or own-source revenue assigned to digital programmes, or a multi-year programme with published execution.",yes
+finance.budget--sustainable-domestic-financing-of-digital-transformation,5,"The DTS and Goal 20 posture: a sovereignty fund or equivalent sustained domestic mechanism with published execution, and external finance confined to capital.",no
