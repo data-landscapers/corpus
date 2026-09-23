@@ -235,9 +235,7 @@ def main(argv=None) -> int:
     text = render(cut())
     if a.check:
         held = open(LOOKUP, encoding="utf-8-sig", newline="").read() if os.path.exists(LOOKUP) else ""
-        if held.replace("
-", "
-") != text:      # a CRLF checkout is the same cut
+        if held.replace("\r\n", "\n") != text:      # a CRLF checkout is the same cut
             print("maturity-norms-cut: the lookup differs from a fresh cut of the register — "
                   "re-run without --check and commit both")
             return 1
