@@ -1,0 +1,76 @@
+{
+ "schema": 2,
+ "written_utc": "2026-09-23 20:41",
+ "pass": "sweep cycle",
+ "head": "dc6a1571ac191802484fdccbebc71dc7b6b396f3",
+ "head_committed_utc": "2026-09-23 20:41",
+ "collection": {
+  "last_admission": "2026-09-23 21:01",
+  "sweep_closed": "2026-09-23 20:33",
+  "ingest_started": "2026-09-23 20:34"
+ },
+ "rotation": {
+  "days": 3,
+  "newest_close": {
+   "day": "1",
+   "jobs": [
+    "SWEEP-NEWSPAPERS",
+    "SWEEP-JOURNALS",
+    "SWEEP-THINKTANKS",
+    "SWEEP-REGIONAL"
+   ],
+   "start": "2026-09-23 18:58",
+   "end": "2026-09-23 20:40",
+   "duration": "1:42",
+   "skipped": false,
+   "in_progress": false
+  },
+  "in_progress": []
+ },
+ "counts": {
+  "items_in": 183,
+  "admitted": 94,
+  "dropped": 84,
+  "screened": 445,
+  "screen_dropped": 285,
+  "awaiting_ingest": 0,
+  "raw_sources": 23960
+ },
+ "usage": {
+  "start": {
+   "time_utc": "2026-09-23 18:57",
+   "seven_day": 57.0,
+   "five_hour": 0.0
+  },
+  "notes": {
+   "time_utc": "2026-09-23 18:57",
+   "seven_day": 57.0,
+   "five_hour": 0.0
+  },
+  "sweep": {
+   "time_utc": "2026-09-23 19:33",
+   "seven_day": 61.0,
+   "five_hour": 0.0
+  },
+  "ingest": {
+   "time_utc": "2026-09-23 20:02",
+   "seven_day": 63.0,
+   "five_hour": 9.0
+  },
+  "lint": {
+   "time_utc": "2026-09-23 20:40",
+   "seven_day": 64.0,
+   "five_hour": 14.0
+  },
+  "close": {
+   "time_utc": "2026-09-23 20:41",
+   "seven_day": 64.0,
+   "five_hour": 14.0
+  },
+  "end": {
+   "time_utc": "2026-09-23 20:41",
+   "seven_day": 64.0,
+   "five_hour": 14.0
+  }
+ }
+}
