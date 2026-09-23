@@ -2,7 +2,7 @@
 type: review
 title: maturity-rubric-review.md — CC's review of each rubric chapter before it is cut (task C2)
 last_reviewed: 2026-09-23
-status: Governance and the Finance instrument accepted and cut 2026-09-23 (second review); next chapter open
+status: Governance and the Finance instrument accepted and cut 2026-09-23; DPI reviewed 2026-09-23 — returned with six items
 ---
 
 # Rubric review
@@ -60,4 +60,29 @@ Cowork edits `maturity-rubric.md` and says so; CC re-runs the checker, reads the
 **One call left as Cowork made it**: `data-governance-policy` stage 4 names the DPF's *domestication* stage but stays `yes` until the phases item is settled. That is the cautious side — it claims less for the norm, not more — and it changes no stage an assessor gives.
 
 **Carried to D2**: the 12-month look-back exception for `open-discussion-of-government-policy` (recorded on the D2 task).
+
+## DPI — reviewed 2026-09-23: returned, six items
+
+**The checker is clean**: 34 indicators (31 systems, 3 instruments), 170 rows, no warnings, and the chapters already cut still read as the draft does. The two measures wait for C3, as the draft says. **The chapter is sound**: the system ladder is applied consistently, stage 1 is always a cited absence, the *rungs* rows name the norm's own stages (EMIS 1.0 → 2.0, the Framework's three layers, the HIE pillars, TADAT A–D) and mark them `no`, and every register anchor matches the heading. Six items, four of them small.
+
+**1. There is no CAMCR 2022 target** (A2, 2026-09-23: only CAMCR-6's expert segment met; the 100 % / 80 % figures are SDG 17.19.2(b)). `dpi.id--digital-id-from-birth` — heading and stage 5 — and `dpi.registry--civil-register` stage 5 say *the CAMCR target*. Make both *the SDG 17.19.2(b) target (100 % of births, 80 % of deaths registered)*; the digital-ID row's heading takes the register's anchor, *DTS; SDG 17.19.2(b); AU No Name Campaign declaration*. The register's own civil-register row still said CAMCR-style; CC corrected it (`ae41569`), so the lookup and the draft agree once this is made.
+
+**2. The exchange rows must read the exchange, not the system.** Three sectors carry both an MIS or registry row and an interoperability row, and in two the ladders are the same ladder:
+
+- `dpi.exchange--interoperability-of-education-systems` stages 2–4 are `dpi.mis--education`'s stages 2–4 (EMIS procured → EMIS 1.0 → EMIS 2.0), so one country's EMIS moves both indicators together and the assessment counts one fact twice.
+- `dpi.exchange--interoperability-of-social-protection-systems` stage 3 (*a programme MIS or single social registry in service … not linked*) is `dpi.mis--social-protection` stage 3 and `dpi.registry--social-protection-register` stage 3.
+
+Rebase both exchange rows on links: 2 a link planned or piloted; 3 **one** exchange in service (the EMIS with examinations or payroll; the registry with the ID or a payment provider); 4 exchanges across the main systems on a shared identifier; 5 as drafted. For education, the DES's EMIS 2.0 is *individual-level, ID-linked*, so stages 4–5 stay `no` and stage 3 becomes `yes`; the MIS row keeps EMIS 1.0 → 2.0 as its own rungs. Health already reads the exchange and needs no change.
+
+**3. A stage marked `no` must be the anchoring norm's, and FELA is a reference.** `dpi.registry--land-register` stage 5 and `dpi.mis--land` stage 5 are *the FELA end state*, marked `no`; FELA is the register's reference column, so by item 2 of the first review those rungs cannot be the norm's. The anchor both rows can now use is the land F&G §3.6.2 — *registration and tracking of land rights through computerized Land Information Systems* — verified in A2 and now in both register rows. Make stage 5 the F&G end state (computerised LIS covering the registration and tracking of rights, customary tenure included, as §3.6 requires), and move LADM and FELA's pathways into the anchor only as *e.g.*; stage 5 stays `no`.
+
+**4. A published TADAT score is a reference, not the record.** The two TADAT rows mark A–D as the norm's rungs, which is right for a global-tier anchor, but the anchors read as if the assessor looks up the country's TADAT score. `maturity-assessment-norms.md` §7 and the rubric's own *never evidence* list forbid that. Add to the DPI chapter note: *the assessor applies TADAT's criteria for the named indicators to the base's own rows; a published TADAT assessment is a reference, cited in the qualifier where it disagrees.* The drafter's offer on wording is accepted in part: check each level against the Field Guide's scoring criteria and keep the paraphrase.
+
+**5. `dpi.mis--tax` needs one rule for three areas.** TADAT scores indicators, not POAs, and POA1 is `dpi.registry--tax-register`'s. Name the indicators this row reads — POA4's use of electronic filing and POA5's use of electronic payment, by their Field Guide numbers — drop POA1, and add *the lower of the two scores decides the stage*, as the sovereignty indicator's lowest-part rule does.
+
+**6. The two ID-use rows — the split is right; make it clean at stage 4.** `dpi.exchange--use-of-digital-id-in-other-systems` stage 4 lists *tax, elections* among its consumers, which are public registers and `dpi.id--use-by-other-systems`'s evidence. Replace the list with *services, public and private, consuming a verification or authentication service* and leave the registers to the other row. The drafter's narrowing note is then true of the anchors as written.
+
+**Accepted as drafted**: the sovereignty overlap on `national-maintenance-of-id-and-credentials-systems` (both rows say so, and the sovereignty row's lowest-part rule governs the estate); `digital-id-from-birth` stage 5 citing the measure's figure without defining it; the weak `mis--justice` anchor.
+
+When the six are in, CC re-runs the checker and cuts DPI (instruments and systems).
 
