@@ -2,7 +2,7 @@
 type: review
 title: maturity-rubric-review.md — CC's review of each rubric chapter before it is cut (task C2)
 last_reviewed: 2026-09-23
-status: Governance and the Finance instrument accepted and cut 2026-09-23; DPI accepted and cut 2026-09-23; 64 of 117 cut; Infrastructure, Digitalisation and Technology reviewed 2026-09-23 — returned with three one-line items
+status: Governance and the Finance instrument accepted and cut 2026-09-23; all instruments and systems accepted and cut 2026-09-23 except Inclusion and Data; 83 of 117 cut
 ---
 
 # Rubric review
@@ -103,3 +103,7 @@ When the six are in, CC re-runs the checker and cuts DPI (instruments and system
 **3. `tech.innovate--technology-hubs` stage 5 — "connected to" its region's park names no evidence.** Make it *the country hosting its region's technology park, or a national park linked to it by an agreement on record*.
 
 **The draft's question on `rural-primary-schools` stage 4: keep `no`.** `interpolated` asks who states the rung, and the DES states the 2027 figures; that they are national and the row reads rural schools changes what the assessor counts, not who set the bar. The row's note should say the figure is the DES's national one, and the qualifier carries the rural share where the base holds it.
+
+## Infrastructure, Digitalisation and Technology — second review 2026-09-23: accepted and cut
+
+**All three edits are in**, and the rural-schools note says the figure is the DES's national one. The checker is clean with no warnings. The drift check flagged exactly one cut row as changed — `gov.policy--open-data-policy` stage 4, the intended edit — so Governance was re-cut with it. Cut: ICT Infrastructure 7, Digitalisation 6, Technology 6 (instruments and systems). The lookup holds 83 of 117; 301 interpolated rungs.
