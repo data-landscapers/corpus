@@ -2,7 +2,7 @@
 type: review
 title: maturity-rubric-review.md — CC's review of each rubric chapter before it is cut (task C2)
 last_reviewed: 2026-09-23
-status: Governance and the Finance instrument accepted and cut 2026-09-23; all instruments and systems accepted and cut 2026-09-23 except Inclusion and Data; 83 of 117 cut
+status: Governance and the Finance instrument accepted and cut 2026-09-23; 83 of 117 cut; Capacity, Inclusion, Data and Geopolitics reviewed 2026-09-23 — returned with two one-line items
 ---
 
 # Rubric review
@@ -107,3 +107,18 @@ When the six are in, CC re-runs the checker and cuts DPI (instruments and system
 ## Infrastructure, Digitalisation and Technology — second review 2026-09-23: accepted and cut
 
 **All three edits are in**, and the rural-schools note says the figure is the DES's national one. The checker is clean with no warnings. The drift check flagged exactly one cut row as changed — `gov.policy--open-data-policy` stage 4, the intended edit — so Governance was re-cut with it. Cut: ICT Infrastructure 7, Digitalisation 6, Technology 6 (instruments and systems). The lookup holds 83 of 117; 301 interpolated rungs.
+
+## Capacity, Inclusion, Data and Geopolitics — reviewed 2026-09-23: returned, two one-line items
+
+**The checker is clean**: 12 indicators, 60 rows, no warnings; earlier cuts unchanged. With `--complete` the only failures are the 22 measures, which are C3 — so with this leg every assessed instrument and system has a rubric. Headings match the register. The consultation split with the cut `non-governmental-contribution` row, the open-data pair, the census row's round-neutral stage 5, and AMCOMET's figures at stage 5 only are right as drafted. **The sovereignty row is accepted as transcribed**, 12-month look-back and DPF rungs included, and the checker's earlier warning on it is gone.
+
+**1. `include.access--citizen-feedback-portals` stage 5 rests on a reference.** *Reaching the e-decision-making level of the E-Participation Index* is the register's reference column, and the rung is marked `no`; by the first review's rule a reference cannot be the norm's rung. Drop the EPI clause (the qualifier can cite the EPI level where it disagrees) and let stage 5 stand on the Charter and Declaration: feedback reaching representatives, outcomes published proactively, and the channel covering local government.
+
+**2. `include.access--inclusion-of-persons-with-disabilities` stage 3's second limb is not evidence of the stage.** *Or the state's report to the treaty body naming the gaps* documents what is missing, not an instrument in force; as written, a country with no law reaches stage 3 by reporting that it has none. Delete the limb; such a report is good evidence for stage 1 or 2 and the qualifier.
+
+**Decided by CC, no edit needed from Cowork**:
+
+- **D2's look-back exception is general.** Four rows now key on *the 12 months to the as-at date* (open discussion, open data stage 4, citizen participation stages 2–3, sovereignty stages 2–3). The D2 task names the rule, not the rows: any anchor with that phrase may move when an event leaves the period.
+- **The sovereignty rubric's source is this file.** At the cut, CC points `indicator-digital-sovereignty.md` §5 here and keeps its table as the design record, so there is one source for the lookup.
+
+When the two are in, CC cuts all four chapters' instruments and systems and C2's drafting of non-measures is complete; the measures follow in C3.
