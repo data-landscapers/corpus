@@ -6,7 +6,7 @@ region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-02
 intersections_read: 10
-sources_cited: 162
+sources_cited: 163
 sections_written: 37
 not_established: 1
 acquire_lines: 35
@@ -125,7 +125,7 @@ Landlocked Botswana buys its international capacity through [South African and N
 <!-- derived -->
 That programme worked out at roughly P225,000 for every customer connected — the cost structure of last-mile fibre in low-density settlement, and the reason the build sits on a state balance sheet rather than a commercial one.
 
-Cross-border capacity is where the year's movement is. [The first direct cross-border fibre link between Namibia's MTC and BoFiNet, running Gobabis–Buitepos–Charles Hill, was completed by August 2026](https://observer24.com.na/trans-kalahari-4g-rollout-requires-n52m/) after [a February 2026 memorandum on transit and wholesale capacity](https://thebrief.com.na/2026/02/mtc-bofinet-sign-agreement-to-strengthen-namibia-botswana-digital-connectivity/) and [a wider ICT cooperation memorandum between the two governments](https://techreviewafrica.com/news/6641/namibia-and-botswana-sign-ict-cooperation-agreement). Closing the remaining 4G gaps on the Trans-Kalahari corridor is [costed at about N$52 million across 13 sites](https://observer24.com.na/trans-kalahari-4g-rollout-requires-n52m/). On 5G the state incumbent is last: [BTC is targeting a commercial 5G launch in Gaborone by October 2026, behind Mascom and Orange, both live since 2022](https://www.itweb.africa/article/btc-steps-into-botswanas-5g-race/KWEBbvyLb2RqmRjO).
+Cross-border capacity is where the year's movement is. [BoFiNet raised its available international capacity through the Ramatlabama and Pioneer Gate border crossings from 300 Gbit/s to 1 Tbit/s under a long-term lease with a South African partner, announced in September 2026](https://www.connectingafrica.com/fiber-networking/bofinet-upgrades-its-available-international-capacity-to-1tbit-s). [The first direct cross-border fibre link between Namibia's MTC and BoFiNet, running Gobabis–Buitepos–Charles Hill, was completed by August 2026](https://observer24.com.na/trans-kalahari-4g-rollout-requires-n52m/) after [a February 2026 memorandum on transit and wholesale capacity](https://thebrief.com.na/2026/02/mtc-bofinet-sign-agreement-to-strengthen-namibia-botswana-digital-connectivity/) and [a wider ICT cooperation memorandum between the two governments](https://techreviewafrica.com/news/6641/namibia-and-botswana-sign-ict-cooperation-agreement). Closing the remaining 4G gaps on the Trans-Kalahari corridor is [costed at about N$52 million across 13 sites](https://observer24.com.na/trans-kalahari-4g-rollout-requires-n52m/) (August 2026). On 5G the state incumbent is last: [BTC is targeting a commercial 5G launch in Gaborone by October 2026, behind Mascom and Orange, both live since 2022](https://www.itweb.africa/article/btc-steps-into-botswanas-5g-race/KWEBbvyLb2RqmRjO).
 
 ### Data Storage
 <!-- infra.store -->

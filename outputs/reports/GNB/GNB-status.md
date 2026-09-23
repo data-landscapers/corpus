@@ -1,12 +1,12 @@
 ---
 title: Guinea-Bissau: status report
-compiled: 2026-09-15
+compiled: 2026-09-23
 place: GNB
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-27
 intersections_read: 22
-sources_cited: 132
+sources_cited: 134
 sections_written: 37
 not_established: 3
 acquire_lines: 31
@@ -37,7 +37,7 @@ Four gaps sit in the digital statute book at once — no access-to-information l
 ### Data protection
 <!-- gov.protect -->
 
-Guinea-Bissau has [no data protection law and no appointed data protection authority](https://dataprotection.africa/guinea-bissau/) (May 2022), and [no comprehensive personal data protection regime beyond fragmented sectoral provisions](https://dtri.uneca.org/v1/uploads/country-profile/gnb-country-profile-en.pdf) (2024).
+Guinea-Bissau had [no dedicated data protection law and no data protection authority in September 2026, the matter being handled sectorally by several institutions; a draft law would create a Data Protection Agency and leave its organisation to decree](https://www.aip.ci/cote-divoire-aip-inter-la-cour-de-justice-de-la-cedeao-dispose-dun-cadre-pour-statuer-sur-les-droits-numeriques-selon-un-universitaire/).
 
 <!-- derived -->
 Both obligations have been owed for sixteen years, binding the country since the ECOWAS Supplementary Act was adopted in February 2010, and neither has been met.
@@ -237,7 +237,7 @@ All of it operates without a horizontal law: [the Electronic Transactions Law wa
 ### Digitalisation of sub-national government
 <!-- digital.localgov -->
 
-Guinea-Bissau's government systems are national ones: [SIGFIP for public financial management](http://faolex.fao.org/docs/pdf/gbs235634.pdf) and [Kontaktu for tax](https://kontaktu.mef.gw/) run at national level (2025). A management information system being built with a sub-national footprint is [the PESIDE project's education data system, implemented at central and regional level with equipment for the Regional Directorates of Education](https://www.fecongd.org/project/peside/) (2025). Below that, the record is still kept by hand, [in rural police stations on paper](https://www.undp.org/guinea-bissau/blog/e-justice-guinea-bissau-going-digital-can-improve-access-justice) (2024).
+Bissau city council [launched CMB+ on 22 September 2026, a modernisation and digital transformation project that incorporates a municipal portal for residents' access to council services](https://ang.gw/transformacao-digital-deve-estar-ao-servico-dos-cidadaos-de-forma-a-contribuir-para-uma-aministracao-eficiente-diz-carlos-nelson-sano/), with no budget or timetable published. Otherwise the government's systems are national ones: [SIGFIP for public financial management](http://faolex.fao.org/docs/pdf/gbs235634.pdf) and [Kontaktu for tax](https://kontaktu.mef.gw/) run at national level (2025). A management information system being built with a sub-national footprint is [the PESIDE project's education data system, implemented at central and regional level with equipment for the Regional Directorates of Education](https://www.fecongd.org/project/peside/) (2025). Below that, the record is still kept by hand, [in rural police stations on paper](https://www.undp.org/guinea-bissau/blog/e-justice-guinea-bissau-going-digital-can-improve-access-justice) (2024).
 
 ### Rural digital data capture
 <!-- digital.rural -->

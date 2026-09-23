@@ -1,11 +1,11 @@
 ---
 title: Guinea-Bissau — monthly update, August – September 2026
-compiled: 2026-09-18
-period: 2026-08-01 to 2026-09-18
+compiled: 2026-09-23
+period: 2026-08-01 to 2026-09-23
 place: GNB
-ledger_rows: 7
+ledger_rows: 8
 not_held: 2
-record: 21730df0cd11
+record: b47628dbc4a3
 ---
 
 # Guinea-Bissau: monthly update, August – September 2026
@@ -24,6 +24,13 @@ Two rows moved, one of them a decree that had been waiting a year. On 8 August t
 
 <!-- narrative: governance--gov-policy -->
 The national digitalisation programme [launched nationally in August, at US$60m, covering connectivity, data protection, the digital economy and electronic government](https://ang.gw/ministro-dos-transportes-e-economia-digital-considera-digitalizacao-como-um-dos-pilares-fundamentais-para-garantir-servicos-publicos-eficazes/). It is the delivery vehicle the 2025-2030 strategy has lacked, and it arrives with a fund plan behind it: the [2026-2031 strategic and financing plan for the universal access fund](https://wardip.gw/plano-estrategico-do-fundo-de-acesso-e-servicos-universais-2026-2031-consultoria-salience-2025/), delivered in May after a review recommended restructuring the fund itself.
+<!-- /narrative -->
+### Legislation and regulation
+
+<!-- narrative: governance--gov-legislate -->
+
+
+A Bissau law professor told an ECOWAS Court conference in Dakar on 22 September that [a draft law would create a data protection agency, its organisation left to decree, and that the country still has no dedicated data protection law or authority](https://www.aip.ci/cote-divoire-aip-inter-la-cour-de-justice-de-la-cedeao-dispose-dun-cadre-pour-statuer-sur-les-droits-numeriques-selon-un-universitaire/). No bill text or date is held.
 <!-- /narrative -->
 
 ## ICT Infrastructure
@@ -60,7 +67,7 @@ The prime minister [pledged computerised teacher posting, salaries paid through 
 ### Digitalisation of sub-national government
 
 <!-- narrative: digitalisation--digital-localgov -->
-The capital’s council put a date on its own modernisation. Bissau city council [announced the launch on 9 September 2026 of a modernisation and digital transformation programme for the institution, on a plan approved at the council’s first strategic retreat](https://ang.gw/camara-municipal-de-bissau-anuncia-para-quarta-feira-lancamento-do-projeto-de-modernizacao-e-transformacao-digital-da-instituicao/). No component list, budget, timetable or partner is stated.
+Bissau city council [launched CMB+ on 22 September, a modernisation and digital transformation project that incorporates a municipal portal for residents' access to council services](https://ang.gw/transformacao-digital-deve-estar-ao-servico-dos-cidadaos-de-forma-a-contribuir-para-uma-aministracao-eficiente-diz-carlos-nelson-sano/), after [first announcing it for 9 September on a plan approved at the council's first strategic retreat](https://ang.gw/camara-municipal-de-bissau-anuncia-para-quarta-feira-lancamento-do-projeto-de-modernizacao-e-transformacao-digital-da-instituicao/). No component list, budget, timetable or named partner is stated.
 <!-- /narrative -->
 
 ## Inclusion

@@ -1,11 +1,11 @@
 ---
 title: Botswana — monthly update, August – September 2026
-compiled: 2026-09-21
-period: 2026-08-01 to 2026-09-21
+compiled: 2026-09-23
+period: 2026-08-01 to 2026-09-23
 place: BWA
-ledger_rows: 37
+ledger_rows: 38
 not_held: 8
-record: 0631babf6e46
+record: 9a5914e3009b
 ---
 
 # Botswana: monthly update, August – September 2026
@@ -52,6 +52,8 @@ The western corridor did produce a Botswana segment. Alongside the Kasane memora
 Domestic access moved on a much smaller scale. The backbone company [completed its 2025/26 local access projects at P43m, taking fibre to Moshupa, Ramotswa/Taung and Thamaga and connecting 191 customers — 68, 66 and 57 across the three — with 210 construction jobs](https://techafricanews.com/2026/08/14/bofinet-completes-p43m-fibre-project-connects-three-botswana-villages/). The customer count is the operator's own and is a count of connections, not of premises passed.
 
 The mobile side put a figure and a date on the next generation. The incumbent operator [committed more than P240 million for 2026/27, targeting commercial 5G in strategic areas of the capital for October 2026 before an accelerated rollout to other cities and key villages, with 599 mobile-site capacity upgrades in the programme](https://www.itweb.africa/article/btc-steps-into-botswanas-5g-race/KWEBbvyLb2RqmRjO). It is a commitment and a target, with no coverage obligation or spectrum award attached. The starting point is a fourth-generation network the same private census calls near-universal and names among the country's competitive advantages, alongside extensive fibre and growing data-centre capacity ([census](/catalogue/#q=2026-08-03-botswana-startup-ecosystem-report-2026)); the coverage figure itself is a private compilation's, not a regulator return, and the progress report carries it.
+
+On 23 September the state wholesaler said it had [signed a long-term lease with an unnamed South African partner, raising available international capacity through the Ramatlabama and Pioneer Gate crossings from 300 Gbit/s to 1 Tbit/s](https://www.connectingafrica.com/fiber-networking/bofinet-upgrades-its-available-international-capacity-to-1tbit-s). The term and price were not disclosed.
 <!-- /narrative -->
 ### Data Storage
 

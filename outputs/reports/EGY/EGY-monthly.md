@@ -3,9 +3,9 @@ title: Egypt — monthly update, August – September 2026
 compiled: 2026-09-23
 period: 2026-08-01 to 2026-09-23
 place: EGY
-ledger_rows: 122
-not_held: 46
-record: 1be88b07b9d4
+ledger_rows: 124
+not_held: 45
+record: 9b621c968d3a
 ---
 
 # Egypt: monthly update, August – September 2026
@@ -97,6 +97,8 @@ A market report puts an East Cairo campus at [25 MW operating with plans for 45]
 Huawei [has bid to build the government's AI data centres](https://thenextweb.com/news/huawei-egypt-ai-data-centres-ascend-us-consortium), proposing to export 1,408 Ascend 950-series chips for a training cloud and a further 600 for two inference clusters on a twelve-month build, while the US State Department assembles a rival consortium of Nvidia, AMD and Microsoft. It would be the first confirmed export of Huawei's Ascend accelerators; no award is on file, and the reporting rests on unnamed sources and documents the correspondent reviewed.
 
 The operator's own hub moved on its schedule rather than its capacity. Its chief executive told the half-year results call that [phase two of the Regional Data Hub is expected to begin operating within one to two months on economics improved against phase one, with further data-centre projects screened on internal rate of return, payback period and business model](https://www.fintechgate.net/250173); the carve-out of the data-centre assets into a wholly owned subsidiary continues, and the chief financial officer said the uncompleted stake sale was not a negative development because the business is worth more retained. No entry-into-service date or capacity figure is confirmed, against a schedule the repository already records as slipped.
+
+A domestic investment holding reviewed its Kemet data centre in the Suez Canal Economic Zone with the communications minister on 23 September: [an 80 MW Tier III site with USD 270 million allocated to the first phase of a project put at USD 1.2 billion](https://english.ahram.org.eg/News/577345.aspx). No timeline was disclosed.
 <!-- /narrative -->
 
 ## DPI
@@ -129,6 +131,8 @@ The operator that builds the state's payment infrastructure also became a lender
 Operator wallets kept growing faster than the gap closed: the telecom regulator [counted 57.01m in the first half of 2026, up 23% in a year, with 67% registered to men](https://www.youm7.com/story/2026/9/14/%D9%83%D9%8A%D9%81-%D8%BA%D9%8A%D8%B1%D8%AA-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9-%D8%B9%D8%A7%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%81%D8%B9-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1/7540929).
 
 The largest private bank's digital-bank venture, holding preliminary approval, [put its planned investment at up to US$300m ahead of a pilot for individual and diaspora customers](https://menastartupdigest.com/cib-backed-yomo-digital-bank-plans-egypt-launch-with-300m-investment/).
+
+[Six Egyptian banks have applied to the central bank for final approval to connect InstaPay to the continental payment system](https://enterpriseam.com/egypt/2026/09/23/instapay-to-connect-with-pan-african-payment-system-as-six-egyptian-banks-apply-for-integration/), the system's chief executive said in September. InstaPay does not yet carry cross-border transactions, and neither the banks nor a launch date were named.
 <!-- /narrative -->
 ### Registries
 
@@ -198,6 +202,8 @@ A group inaugurated its Middle East and Africa regional headquarters and first g
 
 <!-- narrative: technology--tech-innovate -->
 Egypt [led the continent in the first half of 2026 with US$327m raised, US$183m of it equity](https://techcabal.com/2026/07/27/african-venture-capital-is-backing-fewer-founders-than-ever/), after a 2025 in which one tracker counted US$378.95m across 43 startups, second to Nigeria for a second year, funded ventures falling 15.7% as the average raise rose to US$8.81m. A competing tracker's half-year figures for 2025 exceed twice that full-year total, and neither states its inclusion rules.
+
+The investment and foreign trade ministry said it will [launch TradeTech, a regulatory sandbox and innovation hub for foreign-trade technology, in October 2026](https://english.ahram.org.eg/News/577224.aspx).
 <!-- /narrative -->
 
 ## Capacity

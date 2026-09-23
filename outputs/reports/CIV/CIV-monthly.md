@@ -3,9 +3,9 @@ title: Cote d'Ivoire — monthly update, August – September 2026
 compiled: 2026-09-23
 period: 2026-08-01 to 2026-09-23
 place: CIV
-ledger_rows: 66
+ledger_rows: 68
 not_held: 10
-record: 9fb440d00cf5
+record: 5c71ae4fdaa5
 ---
 
 # Cote d'Ivoire: monthly update, August – September 2026
@@ -168,6 +168,8 @@ Medical drone delivery is to leave the centre-west. The Council of Ministers [no
 The meteorological agency [signed a memorandum with China's meteorological administration at Shanghai](https://www.aip.ci/cote-divoire-aip-la-sodexam-signe-un-memorandum-dentente-avec-ladministration-meteorologique-chinoise/). It is a cooperation instrument rather than a system: no scope, model, data-sharing term or duration is published.
 
 The national AI conference ended with a list and a deadline: [77 priority use cases selected from hundreds, and a national roadmap for them to be finalised within three weeks](https://www.lemeridien.ci/intelligence-artificielle-la-cote-divoire-retient-77-priorites-et-se-donne-trois-semaines-pour-passer-a-laction/). The state [signed a voluntary national AI pact with the employers' confederation and the chamber of commerce](https://afriksoir.net/cote-divoire-letat-et-le-prive-scellent-un-pacte-pour-accelerer-la-revolution-de-lia/), with no legal or financial obligation attached.
+
+A Swiss-founded research centre in Côte d'Ivoire is one of four African partners in a [four-year, GBP 4.4m Wellcome Trust programme led by the University of Cape Town, pairing open-source microscopes with machine-learning image analysis for infectious-disease research](https://www.itweb.co.za/article/r101m-uct-project-brings-ai-microscopy-to-africa/LPp6V7rBYJb7DKQz), which began in September.
 <!-- /narrative -->
 ### Innovation ecosystem
 
@@ -206,6 +208,13 @@ On 4 September the national coordination of disabled people's associations and t
 
 ## Data
 
+### Open data
+
+<!-- narrative: data--data-open -->
+
+
+The access-to-information commission [began work on a national register of public documents, recording which documents public bodies hold, who holds them and how to obtain them](https://www.fratmat.info/article/2644667/culture/acces-a-linformation-et-aux-documents-publics-la-caidp-engage-le-chantier-du-referentiel-des-documents-publics), built with about 200 information officers. It points to existing inventories and archives rather than holding documents, and is to feed a national access-to-information strategy; no completion date is set.
+<!-- /narrative -->
 ### Use of satellite data
 
 <!-- narrative: data--data-satellite -->

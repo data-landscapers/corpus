@@ -1,11 +1,11 @@
 ---
 title: Senegal — monthly update, August – September 2026
-compiled: 2026-09-18
-period: 2026-08-01 to 2026-09-18
+compiled: 2026-09-23
+period: 2026-08-01 to 2026-09-23
 place: SEN
-ledger_rows: 64
+ledger_rows: 66
 not_held: 4
-record: fd7f3e8a32d2
+record: a4acb91b894b
 ---
 
 # Senegal: monthly update, August – September 2026
@@ -30,6 +30,8 @@ The body meant to steer digital governance has not started. The digital governan
 The roadmap acquired a shape and a hole in the same statement. Presented at an international forum on 4 September, the New Deal Technologique is [54 projects across 12 programmes at US$2bn over ten years, of which US$700m is unallocated](https://dig.watch/event/wsis-forum-2026/new-technological-deal-or-or-how-a-global-south-digital-strategy-for-impactful-ict-transformation). The figures are the government's own and no project list, allocation schedule or financing plan for the unallocated third accompanies them, so what is established is the size of the programme and the size of the gap in it. The prime minister's [general policy statement of 8 September refocused the programme on a sovereign cloud for the state's sensitive data and an accelerated sectoral AI strategy](https://www.wearetech.africa/fr/fils/actualites/tech/senegal-priorites-numeriques-recentrees-sur-le-cloud-souverain-et-l-ia), narrowing selection to initiatives that are feasible, financed and able to produce measurable results.
 
 The new prime minister's [general policy declaration of 8 September kept the New Deal technologique as the framework and named a sovereign cloud to host sensitive state data on national soil](https://droit-et-politique-en-afrique.info/wp-content/uploads/2026/09/Declaration-de-politique-generale-du-Premier-ministre-Ahamadou-Alhaminou-Mohamed-Lo-8-septembre-2026.pdf), with a stated change of method: [projects must now show feasibility, financing and demonstrated impact before they proceed](https://www.socialnetlink.org/2026/09/08/dpg-cloud-souverain-ia-le-gouvernement-veut-passer-des-annonces-a-lexecution-du-new-deal-technologique/). No project list or costing accompanies it.
+
+The digital ministry [validated its draft blueprint for creating value from data at a workshop on 21 and 22 September](https://techafricanews.com/2026/09/23/senegal-validates-national-blueprint-data-valorisation/), run with Smart Africa's data-governance programme and GIZ; Senegal is a pilot with Kenya and Lesotho, and no finalisation date was given.
 <!-- /narrative -->
 ### Legislation and regulation
 
@@ -124,6 +126,8 @@ On International Identity Day the civil-status agency's director [put the modern
 <!-- narrative: dpi--dpi-pay -->
 
 The country leads its monetary union on electronic money, on figures that also show how little of the union's account base is alive. It [held 29.7 per cent of union electronic-money outstandings and 26.5 per cent of large microfinance assets at the end of 2025, hosting 81 large institutions and 2.28 million of the union's 14.66 million accounts](https://digitalmag.ci/monnaie-electronique-dans-luemoa-le-senegal-concentre-297-des-actifs-et-occupe-la-premiere-place/); union-wide, [electronic-money outstandings rose 35.2 per cent to CFAF 1,923.2 billion and accounts reached 172.9 million, of which only 60.6 million were active](https://digitalmag.ci/monnaie-electronique-dans-luemoa-le-senegal-concentre-297-des-actifs-et-occupe-la-premiere-place/). The domestic market is a duopoly, [one provider on close to 80 per cent of outstandings against the other's 19 per cent](https://digitalmag.ci/monnaie-electronique-dans-luemoa-le-senegal-concentre-297-des-actifs-et-occupe-la-premiere-place/). The African Development Bank and AXIAN [launched a digital finance programme on 2 September targeting 34,000 women-led businesses in Madagascar, Tanzania and Senegal through the Mixx and MVola platforms](https://www.ecofinagency.com/news-finances/0409-58613-afdb-axian-take-digital-finance-to-34-000-women-led-businesses-in-africa), under a US$160 million senior corporate loan approved to the group in January 2025 with a US$2.5 million grant for financial literacy and credit access. No Senegalese share of the programme's target, and no enrolment or disbursement figure, is published.
+
+At the end of February the central bank counted [31 licensed payment institutions across the union, 11 of them in Senegal](https://www.seneweb.com/fr/news/Economie/mobile-money-pourquoi-le-duel-orange-money-wave-ne-resume-plus-le-marche_n_505004.html), a licence category created in January 2024 for firms that are neither banks nor e-money issuers.
 <!-- /narrative -->
 ### Registries
 
