@@ -15,7 +15,8 @@ says each norm fixes.
 
 **Fails** — the file's shape; an id not in the assessed frame; a stage outside 1–5, repeated or
 missing; an empty anchor; an `interpolated` cell that does not open *yes*, *no* or *partly*; a
-chapter drafted in part (a chapter is drafted whole or not at all, so a gap is a dropped row);
+chapter's kind drafted in part (C2 drafts by kind — instruments, then systems, then
+measures — and each chapter's share of a kind whole, so a gap there is a dropped row);
 and the `fixes` rules below. With `--complete`, an assessed indicator with no rows.
 
 **The `fixes` rules** read `lookups/maturity-norms.csv`, which is the register's cut.
@@ -60,7 +61,31 @@ VAGUE = re.compile(r"\b(adequate(ly)?|sufficient(ly)?|robust|effective(ly)?|stro
                    r"satisfactory|reasonable)\b", re.I)
 
 
+MD_HEAD = re.compile(r"^###\s+`([a-z]+\.[a-z]+--[a-z0-9-]+)`")
+MD_ROW = re.compile(r"^\|\s*([^|]*?)\s*\|\s*(.*?)\s*\|\s*([^|]*?)\s*\|\s*$")
+
+
 def read(path: str) -> tuple[list[str], list[dict]]:
+    """A rubric's header and rows — from the CSV, or from Cowork's markdown draft
+    (`documentation/maturity-rubric.md`: a `### \\`id\\`` heading over a
+    `| stage | anchor | interpolated |` table), so a chapter is checked before it is cut."""
+    if path.endswith(".md"):
+        rows, iid = [], None
+        for n, line in enumerate(open(path, encoding="utf-8").read().split("\n"), start=1):
+            m = MD_HEAD.match(line)
+            if m:
+                iid = m.group(1)
+                continue
+            if line.startswith("#"):
+                iid = None
+                continue
+            m = MD_ROW.match(line)
+            head = m and (m.group(1) == "stage" or set(m.group(1)) <= set("-: "))
+            if iid and m and not head:
+                rows.append({"_line": n, "indicator_id": iid, "stage": m.group(1),
+                             "anchor": m.group(2),
+                             "interpolated": m.group(3)})
+        return list(COLUMNS), rows
     with open(path, encoding="utf-8-sig", newline="") as fh:
         r = csv.DictReader(fh)
         return list(r.fieldnames or []), list(r)
@@ -85,7 +110,7 @@ def check(rubric: str = RUBRIC, norms: str = NORMS, chapter: str = "", complete:
 
     stages = defaultdict(dict)
     for i, r in enumerate(rows, start=2):
-        iid, at = r["indicator_id"].strip(), f"line {i}"
+        iid, at = r["indicator_id"].strip(), f"line {r.get('_line', i)}"
         if iid not in by_id:
             fails.append(f"{at}: {iid!r} is not an assessed indicator in the frame")
             continue
@@ -111,14 +136,17 @@ def check(rubric: str = RUBRIC, norms: str = NORMS, chapter: str = "", complete:
         if v:
             warns.append(f"{at}: {iid} stage {st} anchor leans on {v.group(0)!r} — name the "
                          f"evidence that shows it")
-        stages[iid][st] = {"line": i, "interp": (m.group(1).lower() if m else "")}
+        stages[iid][st] = {"line": r.get("_line", i),
+                           "interp": (m.group(1).lower() if m else "")}
 
-    drafted = Counter(by_id[i]["chapter"] for i in stages)
-    for ch in sorted(drafted):
-        want = [r["indicator_id"] for r in frame if r["chapter"] == ch]
+    group = lambda r: (r["chapter"], r.get("kind", ""))  # noqa: E731
+    drafted = Counter(group(by_id[i]) for i in stages)
+    for ch, kind in sorted(drafted):
+        want = [r["indicator_id"] for r in frame if group(r) == (ch, kind)]
         gaps = [i for i in want if i not in stages]
         if gaps and not complete:
-            fails.append(f"chapter {ch} is drafted in part — no rows for {', '.join(gaps)}")
+            what = f"{ch} {kind}s" if kind else f"chapter {ch}"
+            fails.append(f"{what} drafted in part — no rows for {', '.join(gaps)}")
     if complete:
         for r in frame:
             if (not chapter or r["chapter"] == chapter) and r["indicator_id"] not in stages:
@@ -161,7 +189,8 @@ def check(rubric: str = RUBRIC, norms: str = NORMS, chapter: str = "", complete:
             warns.append(f"{iid}: fixes {n['fixes']!r} says the norm supplies rungs, yet only "
                          f"{len(stated)} stage(s) are marked as the norm's")
     stats = {"indicators": len(stages), "rows": sum(len(g) for g in stages.values()),
-             "interpolated": interpolated, "partly": partly, "chapters": dict(drafted)}
+             "interpolated": interpolated, "partly": partly,
+             "chapters": {(f"{c} {k}s" if k else c): n for (c, k), n in drafted.items()}}
     return fails, warns, stats
 
 

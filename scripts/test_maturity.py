@@ -32,10 +32,11 @@ def check(label, got, want):
 
 
 FRAME = [
-    {"indicator_id": "gov.policy--a", "chapter": "Governance"},
-    {"indicator_id": "gov.policy--b", "chapter": "Governance"},
-    {"indicator_id": "infra.connect--c", "chapter": "ICT Infrastructure"},
-    {"indicator_id": "digital.rural--d", "chapter": "Digitalisation"},
+    {"indicator_id": "gov.policy--a", "chapter": "Governance", "kind": "instrument"},
+    {"indicator_id": "gov.policy--b", "chapter": "Governance", "kind": "instrument"},
+    {"indicator_id": "gov.policy--e", "chapter": "Governance", "kind": "measure"},
+    {"indicator_id": "infra.connect--c", "chapter": "ICT Infrastructure", "kind": "measure"},
+    {"indicator_id": "digital.rural--d", "chapter": "Digitalisation", "kind": "system"},
 ]
 NORMS = [
     {"indicator_id": "gov.policy--a", "tier": "AU", "instrument": "DTS", "fixes": "top"},
@@ -82,7 +83,8 @@ try:
     check("passes", f, [])
     check("no warnings", w, [])
     check("counts interpolated rungs", st["interpolated"], 6)
-    check("an undrafted chapter is pending, not failed", st["chapters"], {"Governance": 2})
+    check("an undrafted kind is pending, not failed — gov.policy--e is a measure",
+          st["chapters"], {"Governance instruments": 2})
     f, _, _ = run(d, complete=True)
     check("but --complete wants every indicator",
           has(f, "infra.connect--c has no rubric rows"), True)
@@ -94,7 +96,7 @@ try:
     d = tmp / "part"
     write(d, rows("gov.policy--a", TOP))
     check("a chapter drafted in part fails",
-          has(run(d)[0], "chapter Governance is drafted in part"), True)
+          has(run(d)[0], "Governance instruments drafted in part"), True)
     d = tmp / "four"
     write(d, rows("gov.policy--a", TOP)[:4] + rows("gov.policy--b", RUNGS))
     check("a missing stage fails", has(run(d)[0], "stage(s) [5] missing"), True)
