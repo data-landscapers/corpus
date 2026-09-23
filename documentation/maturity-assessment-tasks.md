@@ -26,7 +26,7 @@ status: in progress; A1 done 2026-09-23
 
 Two questions in `maturity-assessment.md` §13: whether the financial sustainability indicator sits under `finance.budget` (no taxonomy change) or gets its own `finance.sustain` subject (travels to OSINT with `geopol.sovereignty`); and whether the Africa-quintile cadence is *cut at the baseline, recut each July*. Done when both are written into `maturity-assessment.md` §2 as rulings. Everything below assumes `finance.sustain` and the July recut.
 
-### A2. Confirm the register's not-verified items — **CC** (research, not code) — M, runs in parallel with everything through Phase C
+### A2. Confirm the register's not-verified items — **CC** (research, not code) — M, runs in parallel with everything through Phase C — *done 2026-09-23: §6 closed save three status lines (DES organ, DTP ratification count, DAS period), none a provision; corrections in §3–§4*
 
 `maturity-assessment-norms.md` §6: decision numbers (DTS, DPF, AI Strategy, Compact, Interop. Framework, STYIP, PIDA PAP 2, DES, DAS, CESA, STISA), current ratification counts on the AU treaty status lists, Malabo article numbering and the Art. 14 paragraph, DTP article numbers against the deposited text, the CAMCR declaration texts, the ACHPR Model Law URL, the land-policy F&G provisions, ATU-R Report 004-0, STISA's R&D benchmark, ARSO's and PAQI's provisions, and whether the DTS mid-term review has revised any target. Each item is either confirmed in the register (with the source) or left flagged with what was tried. Done when §6 is empty or every remaining line says why it cannot be closed. **Nothing in C1 is cut as fact while its line is still in §6.**
 
