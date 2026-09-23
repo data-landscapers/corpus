@@ -3,9 +3,9 @@ title: Central African Republic — monthly update, August – September 2026
 compiled: 2026-09-23
 period: 2026-08-01 to 2026-09-23
 place: CAF
-ledger_rows: 23
+ledger_rows: 24
 not_held: 4
-record: 708a526f088d
+record: 4e4bac73b084
 ---
 
 # Central African Republic: monthly update, August – September 2026
@@ -139,4 +139,10 @@ The statistics institute [deployed enumerator teams nationwide on 20 July, openi
 Two further statistical operations surfaced in August, both financed by the World Bank. The [third data-cleaning phase of the fourth population and housing census was presented on 6 August](https://www.icasees.org/index.php/actualites/398-icasees-la-troisieme-phase-dapurement-du-rgph-4-franchit-une-nouvelle-etape-vers-la-finalisation-des-resultats-du-recensement), a step toward definitive results from the country's first digital census; cleaning has been running since May 2026, under the HISWACA-SOP2 project with UNFPA as technical partner. No enumeration total or publication date is stated.
 
 The institute also [released the aide-mémoire on rebasing the national accounts to 2019 under SCN 2008](https://www.icasees.org/index.php/actualites/399-icasees-publication-de-laide-memoire-sur-les-travaux-de-rebasage-du-pib-base-2019-selon-le-scn-2008), moving off a 2005 base built on SCN 1993 and drawing on the 2021 agriculture and household living-conditions surveys to widen coverage of agriculture, household consumption, self-build, imputed rent and informal activity. The peer review it records was held in February 2023; what is new is its publication, and the record states no rebased GDP level.
+<!-- /narrative -->
+### Open data
+
+<!-- narrative: data--data-open -->
+
+At a CEMAC workshop in Libreville on 14 to 18 September, the statistics institute ICASEES [presented its national plan for migrating its open data portal from ODP 1.0 to ODP 2.0 and demonstrated a locally installed ODP 2.0 test environment loaded with the national accounts](https://www.icasees.org/index.php/actualites/421-atelier-sdmx-odp-2-0-la-delegation-centrafricaine-affirme-sa-participation-active-a-la-dynamique-statistique-de-la-cemac-a-libreville). No migration date or public address for the new platform is published.
 <!-- /narrative -->

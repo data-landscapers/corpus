@@ -1,11 +1,11 @@
 ---
 title: Uganda — monthly update, August – September 2026
-compiled: 2026-09-21
-period: 2026-08-01 to 2026-09-21
+compiled: 2026-09-23
+period: 2026-08-01 to 2026-09-23
 place: UGA
-ledger_rows: 106
+ledger_rows: 109
 not_held: 11
-record: d8fdd443acde
+record: 22855b9f00c1
 ---
 
 # Uganda: monthly update, August – September 2026
@@ -102,6 +102,8 @@ On 17 July the regulator opened work on a [national anti-piracy coordination fra
 Two accounts in August put the threat above the response. A continental police assessment [attributes over US$2m of losses to a single Ugandan deepfake investment scam](https://techcabal.com/2026/08/13/africa-cybercriminals-adopting-ai-institutions-them/), against 8% of intelligence analysts recorded as having advanced artificial-intelligence expertise and 94% of agencies as lacking digital forensics tools. At the communications regulator's first national cybersecurity conference on 13 August, an operator [called for fraud protection to be built into digital-finance products and described an interface letting banks check for recent SIM-swap activity before processing a transaction](https://techafricanews.com/2026/08/13/airtel-urges-ugandas-digital-finance-sector-to-build-fraud-protection-into-products/); no uptake figure for the interface is published. The central bank separately told a conference that [cybersecurity is now a national security issue](https://www.newvision.co.ug/category/news/cybersecurity-now-a-national-security-issue-s-NV_238608_082026).
 
 The criminal investigations directorate [told a parliamentary committee inspection that its Crime Data Centre, originally due earlier, is now targeted for March 2027, that it will recruit internally to close an investigator shortage, and that it wants government and security databases integrated so detectives can link suspects, incidents and evidence quickly](https://nilepost.co.ug/news/367069/cid-seeks-more-investigators-as-criminals-shift-to-digital-spaces) - integration its director said would first require agreement on the legal and policy frameworks governing access.
+
+The bankers' association [counted 6,533 cyber and fraud incidents in the financial sector between January and August 2026, with UGX 24bn lost and a further UGX 68bn estimated at risk](https://nilepost.co.ug/news/372865/uganda-records-6533-cyber-and-fraud-incidents-losses-hit-shs24bn), naming wallet and peer-to-peer fraud and digital-channel compromise among the persistent threats. The Deputy Chief Justice said the judiciary is open to specialised handling of cyber and financial crime cases.
 <!-- /narrative -->
 
 ## DPI
@@ -140,6 +142,8 @@ The scale underneath all of it is in the regulator's quarterly report: [2.55 bil
 A fourth arrangement opened on 19 August, and it is card rather than wallet: a commercial bank and an international scheme [opened online acceptance of that scheme's cards to participating merchants in nine African markets including Uganda](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/), settling in local currency, US dollars or both. The merchant count is given for the nine markets together.
 
 A parliamentary committee found the expressway concession still running on cash. Its report of 25 August [recommends that the revenue authority take over toll collection and introduce electronic payment, calls for a forensic audit of the concession's operations and revenue collections, and asks for scrutiny of a reported UGX 36 billion contract extension](https://www.newvision.co.ug/category/news/mps-want-ura-to-take-over-toll-collections-of-NV_239482_082026); the ICT minister of state told the House that the operator has never given government the source code or password of the system.
+
+On 22 September Afreximbank [issued a US$29m guarantee to the operator of the regional customs bond platform](https://www.afreximbank.com/afreximbank-issues-a-29-million-guarantee-to-scale-eac-customs-bond-easing-movement-of-goods-across-east-africa/), which was piloted in Uganda from August 2025 and launched across the Community in March 2026. No uptake figure is published.
 <!-- /narrative -->
 ### Registries
 
@@ -210,6 +214,8 @@ What developers here build on is being decided ahead of the strategy. A wire rep
 Crop-disease and precision-agriculture tools are [being piloted under GAINAfrica](https://aimnews.org/2026/08/25/europa-introduz-inteligencia-artificial-generativa-para-transformar-africa/), a Horizon Europe project led by La Sapienza in Rome and running in five African countries. No user count, evaluation or end date is published.
 
 A domestic model reached a continental prize rather than a deployment: a startup building [credit scoring for smallholder farmers who lack collateral took US$50,000, about 190m shillings, in growth funding at a Kigali food-systems summit](https://nilepost.co.ug/technology/369117/ugandan-startup-sandi-ai-wins-shs190m-gogettaz-agripreneur-prize). No user count, lender partnership, loan volume or model documentation is published. In the same week the state set artificial intelligence against a sector rather than a system, [making "Digital Agenda and Artificial Intelligence to Redesign Tourism" the theme of national World Tourism Day celebrations, against 793,815 visitors in the first half of 2026 and receipts up 25.6% to 2.30tn shillings](https://www.monitor.co.ug/uganda/news/national/uganda-turns-to-ai-to-drive-tourism-growth-5583524) — a framing with no programme, budget or system behind it.
+
+Mbarara University of Science and Technology [leads the data-pipeline and machine-learning work in a four-year, GBP 4.4m Wellcome Trust microscopy programme led by the University of Cape Town](https://www.itweb.co.za/article/r101m-uct-project-brings-ai-microscopy-to-africa/LPp6V7rBYJb7DKQz), which began in September 2026.
 <!-- /narrative -->
 ### ICT Industry
 

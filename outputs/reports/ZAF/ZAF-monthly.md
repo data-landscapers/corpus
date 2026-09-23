@@ -3,9 +3,9 @@ title: South Africa — monthly update, August – September 2026
 compiled: 2026-09-23
 period: 2026-08-01 to 2026-09-23
 place: ZAF
-ledger_rows: 183
+ledger_rows: 185
 not_held: 23
-record: 37d55a69bd65
+record: 9fce5c54162c
 ---
 
 # South Africa: monthly update, August – September 2026
@@ -235,6 +235,8 @@ The local government association [asked consultants for proposals to build a rev
 
 The Gauteng e-government department's 2025/26 annual report records [96 public Wi-Fi hotspots at schools, libraries, hospitals, clinics, hostels and licence testing centres, offering up to 500MB of free internet a day, 33 e-services live, 99% provincial network uptime and 7,271 cameras on the provincial safety network](https://www.gov.za/news/media-statements/gauteng-e-government-accelerates-digital-transformation-e-gov-delivers-more). The figures are the department's own.
 
+Johannesburg's municipal network company [set a 2026/27 target of 200,000 free Wi-Fi connections against 1,574,979 recorded in 2024/25, without explanation, and describes itself as under-capacitated, with 26 network staff for 1,200km of fibre and R20.7m of capital budget](https://www.sundaytimes.timeslive.co.za/news/2026-09-19-joburgs-wi-fi-plan-falters-amid-a-litany-of-woes/).
+
 Municipal digitisation programmes are bound by the national archives' [standing guidance on managing electronic records](https://www.nationalarchives.gov.za/node/1225).
 <!-- /narrative -->
 
@@ -248,6 +250,8 @@ The Labour Court [stayed disciplinary proceedings](https://www.itweb.co.za/artic
 An analysis of an incident database published on 14 August [links South Africa to 12 of more than 1,600 recorded global cases up to April 2026](https://www.itweb.co.za/article/south-africans-street-smarts-blunt-ai-enabled-fraud/lwrKx73Y14kqmg1o), and attributes the low count to public wariness rather than strong defences. Deepfake, fabricated-citation and biometric-verification incidents have already been reported in South Africa. There is no national duty to report such incidents.
 
 University research finds [artificial-intelligence use in higher-education teaching and assessment outpacing institutional policy, with lecturers reporting inconsistent or absent guidance on accountability, the reliability of detection tools and academic integrity](https://www.itweb.co.za/article/ai-adoption-exposes-higher-education-policy-gaps/JBwErvn3Woj76Db2). No sector instrument or regulator guidance had been issued as at September 2026. A major bank reports [more than 39,000 staff, 72% of its workforce, actively using generative artificial intelligence on a multi-model enterprise platform hosted on a foreign cloud](https://www.itweb.co.za/article/standard-bank-transitions-to-ai-enabled-organisation/8OKdWMDXxw2MbznQ), with relationship management, servicing, payments and lending as priority areas. The figures count users, not automated decisions. No model inventory, assurance process or customer disclosure was published with them, and South Africa has no register of artificial-intelligence incidents or assurance. On 22 September the same bank [announced a responsible-AI framework written with Stellenbosch University's data-science school, setting life-cycle rules for human oversight and accountability](https://www.itweb.co.za/article/standard-bank-stellenbosch-university-develop-responsible-ai-framework/xnklOqz1zg6M4Ymz). It is voluntary, and no audit or enforcement mechanism is stated.
+
+The University of Cape Town [began a four-year, GBP 4.4m (about R101m) Wellcome Trust programme with partners in Kenya, Uganda and Côte d'Ivoire, pairing open-source microscopes with machine-learning image analysis for infectious-disease research](https://www.itweb.co.za/article/r101m-uct-project-brings-ai-microscopy-to-africa/LPp6V7rBYJb7DKQz).
 
 An artificial-intelligence governance organisation, represented by a university legal centre, [was admitted as a friend of the court in the state's appeal against the January 2025 High Court judgment on the Social Relief of Distress grant](https://www.globalcenter.ai/news/human-rights-implications-of-using-algorithms-for-social-grants), a grant administered online only and screened by an algorithmic verification system that excluded applicants it read as earning above R624.00. The judgment held several of the grant's regulations unconstitutional. The appeal was set down for 25 August 2026. Rules governing automated decision-making by the state remain ***Not held***.
 

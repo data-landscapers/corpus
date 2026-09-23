@@ -1,11 +1,11 @@
 ---
 title: Gabon — monthly update, August – September 2026
-compiled: 2026-09-21
-period: 2026-08-01 to 2026-09-21
+compiled: 2026-09-23
+period: 2026-08-01 to 2026-09-23
 place: GAB
-ledger_rows: 57
+ledger_rows: 58
 not_held: 18
-record: 7e85e892c5bf
+record: 48b46c3fd9e1
 ---
 
 # Gabon: monthly update, August – September 2026
@@ -97,7 +97,9 @@ The private half of the health system was brought into a standing channel for th
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
-A bus fare is about to become a biometric credential. The national transport company is [preparing a biometric transport card for Libreville buses, securing the collection of personal data before digitising access to the service](https://www.gabonreview.com/bus-a-libreville-la-cnt-prepare-la-carte-de-transport-biometrique/). No issuance date, data controller, retention rule or fare structure is stated.
+The national transport company is [preparing a biometric transport card for Libreville buses, securing the collection of personal data before digitising access to the service](https://www.gabonreview.com/bus-a-libreville-la-cnt-prepare-la-carte-de-transport-biometrique/). No issuance date, data controller, retention rule or fare structure is stated.
+
+On 21 September the transport ministry [suspended enrolment for the digitalised driving licence six months after its launch, to review the operation, with 6,993 printed licences awaiting collection in Libreville and no resumption date given](https://www.gabonreview.com/permis-de-conduire-digitalise-lenrolement-suspendu-pres-de-7-000-cartes-disponibles-a-libreville/). The newspaper's unnamed sources link the pause to production-system faults under heavy demand and to power cuts.
 <!-- /narrative -->
 ### Registries
 

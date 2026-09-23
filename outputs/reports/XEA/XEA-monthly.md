@@ -1,11 +1,11 @@
 ---
 title: East Africa — monthly update, August – September 2026
-compiled: 2026-09-21
-period: 2026-08-01 to 2026-09-21
+compiled: 2026-09-23
+period: 2026-08-01 to 2026-09-23
 place: XEA
-ledger_rows: 25
+ledger_rows: 26
 not_held: 0
-record: 3964b49b3110
+record: 8e1258f8f4a4
 ---
 
 # East Africa: monthly update, August – September 2026
@@ -43,6 +43,7 @@ A [Rwandan analyst argued on 1 August that East Africa has built an AI applicati
 
 <!-- narrative: instruments--gov-standards -->
 
+Insurance regulators from Kenya, Uganda, Tanzania, Rwanda, Burundi and the Democratic Republic of Congo [adopted a harmonised supervisory assessment template built on about 25 insurance core principles at a Nairobi meeting, agreed to compare assessments in December 2026, and progressed a regional supervisory software for sharing information between regulators](https://www.businessdailyafrica.com/bd/economy/eac-regulators-eye-common-insurance-supervision-rules-5600086). A regional sandbox framework was raised and not adopted.
 <!-- /narrative -->
 ### AI
 
@@ -63,6 +64,12 @@ Africa's peering forum, AfPIF, [opened in Kigali on 13 August with landlocked ma
 
 <!-- narrative: systems--dpi-exchange -->
 The regional cargo-tracking platform changed hands at the seal. Kenya's revenue authority [opened the Regional Electronic Cargo Tracking System to private electronic-seal vendors](https://www.the-star.co.ke/business/markets/2026-09-16-traders-support-revenue-agencys-multi-vendor-cargo-tracking-system), which shippers welcomed as ending seal shortages behind delays at Mombasa, where transit cargo is more than 30 per cent of throughput. No vendor list or start date is published, and the shippers' council's own question - whether the systems interfaces are ready - is unanswered.
+<!-- /narrative -->
+### Sectoral management information systems
+
+<!-- narrative: systems--dpi-mis -->
+
+On 22 September Afreximbank [issued a US$29m guarantee to BSMART Technology, operator of the EAC Customs Bond, to scale the platform](https://www.afreximbank.com/afreximbank-issues-a-29-million-guarantee-to-scale-eac-customs-bond-easing-movement-of-goods-across-east-africa/). The bond lets clearing agents obtain customs guarantees online instead of lodging paper bonds at each border; it was piloted in Uganda from August 2025, took in Rwanda and Burundi in January 2026 and was launched at the Heads of State Summit in March 2026. No uptake figure is published.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 

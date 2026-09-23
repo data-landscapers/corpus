@@ -1,11 +1,11 @@
 ---
 title: Togo — monthly update, August – September 2026
-compiled: 2026-09-21
-period: 2026-08-01 to 2026-09-21
+compiled: 2026-09-23
+period: 2026-08-01 to 2026-09-23
 place: TGO
-ledger_rows: 63
+ledger_rows: 65
 not_held: 22
-record: 4b06a244c3b7
+record: 7501d153aea7
 ---
 
 # Togo: monthly update, August – September 2026
@@ -32,7 +32,9 @@ The [government roadmap for 2026-2031 is in force](https://www.republiquetogolai
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-The month's legislating was about commercial justice and civil status rather than digital instruments. The National Assembly [adopted bills on commercial-courts reform and on accession to the Hague Apostille Convention in first reading on 14 August](https://togopresse.tg/lassemblee-nationale-adopte-en-1ere-lecture-deux-projets-de-loi-sur-la-reforme-des-juridictions-commerciales-et-ladhesion-du-togo-a-la-convention-apostille/); the Senate [adopted the courts reform on 21 August](https://togopresse.tg/la-reforme-sur-les-juridictions-commerciales-adoptee-au-senat/), and neither promulgation is held. A scoping meeting [opened a review of the 2009 civil registration law, proposals due before the end of 2026](https://www.togofirst.com/en/justice/2408-19853-togo-reviews-civil-registration-law-to-support-digital-transformation). An apostille accession is a digital question in practice: it is how one state's register is accepted by another's.
+The National Assembly [adopted bills on commercial-courts reform and on accession to the Hague Apostille Convention in first reading on 14 August](https://togopresse.tg/lassemblee-nationale-adopte-en-1ere-lecture-deux-projets-de-loi-sur-la-reforme-des-juridictions-commerciales-et-ladhesion-du-togo-a-la-convention-apostille/); the Senate [adopted the courts reform on 21 August](https://togopresse.tg/la-reforme-sur-les-juridictions-commerciales-adoptee-au-senat/), and neither promulgation is held. A scoping meeting [opened a review of the 2009 civil registration law, proposals due before the end of 2026](https://www.togofirst.com/en/justice/2408-19853-togo-reviews-civil-registration-law-to-support-digital-transformation). An apostille accession is a digital question in practice: it is how one state's register is accepted by another's.
+
+On 22 September the communication regulator HARC [held its first official meeting with content creators, bloggers and influencers, asserting a remit over social-media content under article 78 of the 2024 Constitution and saying advertising on social networks should in principle take its prior visa](https://togopresse.tg/regulation-du-numerique-la-harc-engage-le-dialogue-avec-les-createurs-de-contenus/). The communication ministry said the 2020 press and communication code would be revised to cover them; no draft or timetable is published.
 <!-- /narrative -->
 ### Data protection
 
@@ -65,6 +67,12 @@ The room where digital policy is argued is now on record: the [national internet
 
 <!-- narrative: ict-infrastructure--infra-connect -->
 The Council of Ministers [authorised a five-year renewable licence for Internet-of-Things networks](https://togopresse.tg/les-grandes-decisions-du-conseil-des-ministres-du-4-aout-2026/) on 4 August; the decree authorises the grant rather than recording it, and no licence number, fee, coverage obligation or ownership of the licensee is published. Separately, [capacity was added on a second submarine system for route diversity](https://www.mobileeurope.co.uk/csquared-boosts-internet-resilence-integrating-with-2africa-west/) after three multi-country West African outages in twenty-eight months — a pan-regional arrangement carrying no Togo-specific capacity, price or route figure.
+<!-- /narrative -->
+### Energy
+
+<!-- narrative: ict-infrastructure--infra-energy -->
+
+The energy ministry [put out an international tender for 5,200 smart-metering devices for the state utility CEET, 1,200 modems for medium-voltage meters and 4,000 low-voltage data concentrators, under its revenue protection programme and financed from the IDA-backed IDEA project, with bids due 28 October 2026; official 2026 figures put the utility's technical and commercial losses at nearly 16%](https://www.togofirst.com/en/energy/2109-20123-togo-launches-tender-for-5-200-smart-meter-devices-for-state-power-utility).
 <!-- /narrative -->
 ### Technical Capacity
 

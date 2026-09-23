@@ -6,7 +6,7 @@ region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-26
 intersections_read: 6
-sources_cited: 95
+sources_cited: 96
 sections_written: 37
 not_established: 3
 acquire_lines: 27
@@ -309,7 +309,7 @@ Publication and access moved in opposite directions over the decade to 2023: [Di
 <!-- derived -->
 Across the 23 data categories Open Data Watch assessed in 2024, the average openness score is 5.2 out of 10, and ten of the 23 score 5 or below.
 
-What is open is unevenly distributed. [Government finance and pollution data are the most open official statistics, each at 7.5 out of 10, while balance-of-payments data scores 2.5 and food security data 3.5](https://odin.opendatawatch.com/data) (2024). There is [no open data portal](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) and [no e-procurement portal, with no procurement data published to the Open Contracting Data Standard](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025); with [no public investment management system there is no project database to publish from](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) either.
+What is open is unevenly distributed. [Government finance and pollution data are the most open official statistics, each at 7.5 out of 10, while balance-of-payments data scores 2.5 and food security data 3.5](https://odin.opendatawatch.com/data) (2024). There is [no government-wide open data portal](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025); official statistics go out through the statistics institute's Open Data Platform portal, which in September 2026 [it was preparing to migrate to version 2.0 under a national action plan, testing a local installation loaded with the national accounts](https://www.icasees.org/index.php/actualites/421-atelier-sdmx-odp-2-0-la-delegation-centrafricaine-affirme-sa-participation-active-a-la-dynamique-statistique-de-la-cemac-a-libreville). There is [no e-procurement portal, with no procurement data published to the Open Contracting Data Standard](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025); with [no public investment management system there is no project database to publish from](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) either.
 
 The government reports on its own digital programme to no one: [it publishes no progress, results or spending report for any of the domains the GovTech index assesses — cloud, interoperability, data governance, data protection, digital transformation, digital skills, public sector innovation, startup support and online service delivery — and the GovTech institution's own annual report is internal and unpublished](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). There is no legal lever against that either, because the country has [no right-to-information law requiring government data to be made available to the public, and no entity monitoring such a right](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025).
 
