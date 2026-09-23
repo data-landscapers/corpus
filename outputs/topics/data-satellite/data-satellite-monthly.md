@@ -1,10 +1,10 @@
 ---
 title: Use of satellite data — monthly update, August – September 2026
-compiled: 2026-09-21
-period: 2026-08-01 to 2026-09-21
+compiled: 2026-09-23
+period: 2026-08-01 to 2026-09-23
 subject: data.satellite
 places: BDI; COM; COG; CIV; DJI; COD; EGY; ERI; GHA; LBR; LBY; MLI; MOZ; NAM; NER; NGA; RWA; SLE; SOM; TZA; UGA; ZMB
-record: f58309bcfdb7
+record: 5aa0218a706d
 ---
 
 # Use of satellite data: monthly update, August – September 2026
@@ -99,4 +99,6 @@ Satellite data reached a Ugandan field for the second time this year, and again 
 
 ## Zambia
 
-Weather data for aviation is being examined rather than improved. The Civil Aviation Authority and the International Civil Aviation Organisation [launched an assessment to strengthen aviation weather data](https://efficacynews.africa/2026/08/26/caa-icao-launch-assessment-to-strengthen-aviation-weather-data-in-zambia/). What the assessment starts from is not stated: the record held carries nothing on what meteorological data Zambia currently produces, from which sources, or how it reaches the people flying.
+The Civil Aviation Authority and the International Civil Aviation Organisation [launched an assessment to strengthen aviation weather data](https://efficacynews.africa/2026/08/26/caa-icao-launch-assessment-to-strengthen-aviation-weather-data-in-zambia/); what meteorological data Zambia now produces, and from which sources, is not stated.
+
+A Zambian firm founded in 2023, Mytochondria, [uses satellite imagery and artificial intelligence to measure soil moisture, temperature and nutrients and advise farmers on irrigation and fertiliser](https://www.wearetech.africa/fr/fils/tech-stars/zambie-thomas-lungu-optimise-lirrigation-et-les-cultures-grace-au-satellite-et-a-lia), and was placed second in the African Union's startup contest; no user count is published.

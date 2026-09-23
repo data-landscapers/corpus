@@ -1,10 +1,10 @@
 ---
 title: Digital Payments and Fintech — monthly update, August – September 2026
-compiled: 2026-09-21
-period: 2026-08-01 to 2026-09-21
+compiled: 2026-09-23
+period: 2026-08-01 to 2026-09-23
 subject: dpi.pay
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 2663d02c6a56
+record: 7fe1c5dc2090
 ---
 
 # Digital Payments and Fintech: monthly update, August – September 2026
@@ -95,7 +95,7 @@ The revenue chain's own record came into dispute. The tax directorate [wrote to 
 
 ## Egypt
 
-Two things moved on the payment rails. The instant payment network [began crediting inbound cross-border remittances instantly at all banks operating in Egypt](https://gate.ahram.org.eg/News/5541984.aspx). And factoring, where the platform now [vets invoices before financing to enforce the ban on double-funding a receivable](https://www.dailynewsegypt.com/2026/02/08/egypts-fra-launches-digital-factoring-portal-to-curb-financing-risks), against factored paper up 77.8% in 2025 to EGP 132.2bn.
+The instant payment network [began crediting inbound cross-border remittances instantly at all banks operating in Egypt](https://gate.ahram.org.eg/News/5541984.aspx). The factoring platform now [vets invoices before financing to enforce the ban on double-funding a receivable](https://www.dailynewsegypt.com/2026/02/08/egypts-fra-launches-digital-factoring-portal-to-curb-financing-risks), against factored paper up 77.8% in 2025 to EGP 132.2bn.
 
 The operator that builds the state's payment infrastructure also became a lender. On 13 August it [agreed the full acquisition of an Egyptian non-bank lender to small and medium firms](https://www.zawya.com/en/press-release/companies-news/efg-hermes-advises-efinance-on-strategic-acquisition-of-tamweely-financial-services-430407), extending its own infrastructure into direct lending. No consideration is disclosed in the records held, and neither states any separation between running government payment rails and holding a lending book that runs on them.
 
@@ -147,11 +147,13 @@ The strategy that would order all of this is not yet written. The central bank [
 
 ## Kenya
 
-Borrowers can [repay Hustler Fund loans in loyalty points from 23 July](https://www.the-star.co.ke/news/2026-07-23-borrowers-can-now-repay-hustler-fund-loans-using-bonga-points), five points settling one shilling, recovering KSh 3m in the first week. A second operator launched a merchant wallet on 3 August.
+Borrowers can [repay Hustler Fund loans in loyalty points from 23 July](https://www.the-star.co.ke/news/2026-07-23-borrowers-can-now-repay-hustler-fund-loans-using-bonga-points), five points settling one shilling, recovering KSh 3m in the first week. A second operator [launched a merchant wallet on 3 August](https://techcabal.com/2026/08/03/airtel-targets-kenyas-small-businesses-as-mobile-money-war-shifts-to-merchants/).
 
 The platforms Kenyans use to be paid changed their rules one after another over the past year: [an international payments provider imposed restrictions, a domestic dollar-banking service withdrew that product, a remittance operator paused its wallet and a streaming platform cut monetisation](https://techcabal.com/2026/09/08/the-platforms-that-help-kenyans-get-paid-are-changing-the-rules/). Four separate commercial decisions rather than a regulatory change; no user numbers, values or regulator response are held.
 
 The regulator's June-quarter return [put mobile money subscriptions at 54,005,800, up 1.2 per cent in the quarter, while more than 34,000 registered agents left the market](https://www.dawan.africa/news/kenya-mobile-money-accounts-hit-54-million-even-as-more-than-34000-agents-exit-the-market). Subscriptions count accounts, not people.
+
+Tanzania's competition regulator [put KCB Group's stake in the payments company Pesapal at 22.23%](https://techcabal.com/2026/09/22/tanzania-regulator-reveals-kcbs-22-23-stake-in-payments-firm-pesapal/) in a notice of 21 August, the first public figure for a deal announced in November 2025; the price is undisclosed and approval is pending.
 
 ## Lesotho
 
@@ -183,7 +185,7 @@ On 3 August MVola's new director general [gave the first account of the platform
 On 25 July the central bank's expected banknote replacement cost for 2026 was reported at MWK 69.8bn against MWK 50.6bn in 2025, with an economists' association president naming government levies on digital money transfers as a reason cash use persists.
 
 
-Two things moved in the regional rails above it. The regional clearing house [published the scheme rulebook for instant low-cost cross-border retail payments, with a gender audit and strategy to 2030 drawn from research along the corridor with Zambia](https://www.linkedin.com/posts/comesa-clearing-house_comesaclearinghouse-drpp-regionalintegration-activity-7492550470780182528-vX_W), giving the platform operational and governance rules it lacked. Separately a commercial bank and an international card scheme [opened online acceptance of that scheme's cards in nine African markets including Malawi on 19 August](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/); the merchant count is given for the nine together and not for Malawi.
+The regional clearing house [published the scheme rulebook for instant low-cost cross-border retail payments, with a gender audit and strategy to 2030 drawn from research along the corridor with Zambia](https://www.linkedin.com/posts/comesa-clearing-house_comesaclearinghouse-drpp-regionalintegration-activity-7492550470780182528-vX_W), giving the platform operational and governance rules it lacked. Separately a commercial bank and an international card scheme [opened online acceptance of that scheme's cards in nine African markets including Malawi on 19 August](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/); the merchant count is given for the nine together and not for Malawi.
 
 The same report gives the mobile-money platform its first published revenue line: [MK51.93bn in 2025, up 77 per cent, on a stated base of more than 140,000 active agents](https://malawi24.com/2026/08/24/can-tnms-mk30-87bn-investment-meet-demand/).
 
@@ -280,15 +282,19 @@ A self-service route into pensions was announced. The social security trust [is 
 
 ## South Africa
 
-Operation Vulindlela's quarterly report of 31 July recorded the Payments Ecosystem Modernisation programme moving beyond conceptual design into active development of a payment credential, wallet, governance and trust capabilities, with testing against government use cases dated November 2026. Nothing held states how that rail relates to the bank-API rails below.
+Operation Vulindlela's quarterly report of 31 July said the [Payments Ecosystem Modernisation programme had moved beyond conceptual design into development of a payment credential, a wallet, and governance and trust capabilities, with testing against government use cases planned for November 2026](https://www.treasury.gov.za/comm_media/press/2026/Operation%20Vulindlela%20Progress%20Report%20Q1%20-%202026.pdf).
 
-The Reserve Bank gazetted a [national interoperable payment code standard](https://www.bizcommunity.com/article/massive-payment-change-sarbs-qr-could-simplify-checkout-nationwide-620801a), with PayShap the first rail to adopt it. Ozow launched a shared [bank application-programming-interface rail with FNB and RMB](https://www.itweb.co.za/article/ozow-fnb-and-rmb-plug-into-api-payments/GxwQD71DPwAvlPVo), its fourth such arrangement, and Pepkor announced a [R21.3bn merger of Flash and Shop2Shop](https://www.itweb.co.za/article/pepkor-creates-r213bn-fintech-platform/rxP3jqBEnbJMA2ye), subject to approval.
+The Reserve Bank gazetted a [national interoperable payment code standard](https://www.bizcommunity.com/article/massive-payment-change-sarbs-qr-could-simplify-checkout-nationwide-620801a); PayShap is the first rail to adopt it. Ozow launched a shared [bank application-programming-interface rail with FNB and RMB](https://www.itweb.co.za/article/ozow-fnb-and-rmb-plug-into-api-payments/GxwQD71DPwAvlPVo), its fourth such arrangement. Pepkor announced a [R21.3bn merger of Flash and Shop2Shop](https://www.itweb.co.za/article/pepkor-creates-r213bn-fintech-platform/rxP3jqBEnbJMA2ye), subject to approval.
 
-What that migration costs the institutions running it surfaced in one bank's half-year results. [Technology spending reached R8.78bn in the first half of 2026, up 7%, against digitally active customers up 14%, with a further R200m software impairment after a R2.4bn write-down in 2025, and a cost-to-income ratio still rising](https://techcabal.com/2026/08/18/absas-digital-push-comes-with-a-540-million-price-tag/) across a 17-country, 13.4-million-customer footprint. It is one bank's own group figure, so it bounds the cost of digital migration at a single institution rather than for the sector.
+Absa's half-year results show [technology spending of R8.78bn in the first half of 2026, up 7%, against a 14% rise in digitally active customers, with a further R200m software impairment after a R2.4bn write-down in 2025, and a cost-to-income ratio still rising](https://techcabal.com/2026/08/18/absas-digital-push-comes-with-a-540-million-price-tag/) across 17 countries and 13.4 million customers. These are group figures for one bank.
 
-A second QR estate surfaced beside the bank-led standard. A proprietary scheme [claimed more than 600,000 acceptance locations and more than 19 million inclusions across consumer banking, fintech and financial service provider applications, and was added to a handset maker's wallet on eligible devices](https://www.itweb.co.za/article/samsung-sa-expands-digital-wallet-ecosystem/xA9POvNE6n8qo4J8). The figures are the scheme provider's own, carried in the handset maker's statement, and nothing on this ledger relates the scheme to the national payment code standard.
+A proprietary QR scheme [claimed more than 600,000 acceptance locations and more than 19 million inclusions across consumer banking, fintech and financial service provider apps, and was added to a handset maker's wallet on eligible devices](https://www.itweb.co.za/article/samsung-sa-expands-digital-wallet-ecosystem/xA9POvNE6n8qo4J8). The figures are the scheme provider's own. Its relation to the national payment code standard has not been stated.
 
-Cape Town is taking cash out of a second kind of counter: [three of its 18 driving licence testing centres, at Brackenfell, Fish Hoek and Strand, pilot cashless transactions from 1 October](https://www.itweb.co.za/article/cape-town-pilots-cashless-driving-licence-centres/6GxRKqYQEXbqb3Wj), after six service offices went cashless on 1 September. No alternative for residents without cards is stated.
+Cape Town [will pilot cashless payment at three of its 18 driving licence testing centres, at Brackenfell, Fish Hoek and Strand, from 1 October](https://www.itweb.co.za/article/cape-town-pilots-cashless-driving-licence-centres/6GxRKqYQEXbqb3Wj), after six service offices stopped taking cash on 1 September. No alternative for residents without cards has been stated.
+
+The rand stablecoin ZARU, [listed on an exchange on 7 August](https://www.itweb.co.za/article/rand-goes-on-chain-as-zaru-hits-luno-global/xA9PO7NE6RAvo4J8), [went live on 22 September on Circle's Arc blockchain as a founding pair on its StableFX foreign-exchange platform, trading against USDC](https://www.itweb.co.za/article/zaru-goes-live-on-circles-arc-blockchain/Pero37Z36KrMQb6m). [Standard Bank and Absa are named among the network's banking partners](https://www.itweb.co.za/article/zaru-goes-live-on-circles-arc-blockchain/Pero37Z36KrMQb6m). No transaction volume has been published.
+
+The app-only Bank Zero [recorded its first break-even month in August 2026 on 275,000 direct customers, and is onboarding 500,000 customers of the remittance firm Mukuru through an alliance-banking platform live since January](https://techcabal.com/2026/09/22/bank-zero-break-even-alliance-partnerships/). The figures are the bank's own.
 
 ## South Sudan
 

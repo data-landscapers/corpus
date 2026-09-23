@@ -1,10 +1,10 @@
 ---
 title: Registries (population, land, address, etc.) — monthly update, August – September 2026
-compiled: 2026-09-21
-period: 2026-08-01 to 2026-09-21
+compiled: 2026-09-23
+period: 2026-08-01 to 2026-09-23
 subject: dpi.registry
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; TCD; COM; COG; CIV; COD; EGY; ERI; SWZ; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 02dd03b60c06
+record: 47858585c3f8
 ---
 
 # Registries (population, land, address, etc.): monthly update, August – September 2026
@@ -268,7 +268,7 @@ Somalia [launched its first unified national registry of health facilities](http
 
 ## South Africa
 
-Home Affairs reported [377,060 identity numbers still blocked](https://iol.co.za/news/politics/2026-07-17-home-affairs-struggles-to-unblock-identity-numbers-due-to-unserviceable-addresses/) and stated it could not trace approximately 400,000 of those affected, against a court deadline extended to March 2027.
+Home Affairs reported [377,060 identity numbers still blocked](https://iol.co.za/news/politics/2026-07-17-home-affairs-struggles-to-unblock-identity-numbers-due-to-unserviceable-addresses/) and said it could not trace about 400,000 of the people affected; the court deadline has been extended to March 2027.
 
 ## South Sudan
 

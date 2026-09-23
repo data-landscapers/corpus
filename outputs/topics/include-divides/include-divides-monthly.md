@@ -1,10 +1,10 @@
 ---
 title: Digital divides — monthly update, August – September 2026
-compiled: 2026-09-21
-period: 2026-08-01 to 2026-09-21
+compiled: 2026-09-23
+period: 2026-08-01 to 2026-09-23
 subject: include.divides
 places: AGO; BWA; BDI; CPV; COD; EGY; SWZ; GMB; GHA; GNB; KEN; MWI; MAR; MOZ; NER; NGA; RWA; SEN; ZAF; UGA; ZMB
-record: 46efd480d2ad
+record: fc595be87668
 ---
 
 # Digital divides: monthly update, August – September 2026
@@ -91,9 +91,9 @@ One training cohort is the whole of the window's movement here. [500 women worki
 
 ## Nigeria
 
-A global memory-chip shortage was reported on 29 July as turning device cost into a divide variable in a market that imports nearly every computer it sells.
+A disability charity and a philanthropic foundation [opened a four-and-a-half-year programme in Lagos on 17 August to bring young people with disabilities into work through digital skills, entrepreneurship and inclusive employment pathways](https://qualitativemagazine.com/lasoda-gm-champions-digital-inclusion-for-young-nigerians-with-disabilities-at-digital-futures-workshop/), with the state disability office committing its support; no participant target or budget is published.
 
-Nothing moved on the identity gender gap, on rural access, or on the schools programme whose January 2026 completion date passed undelivered.
+Device prices are rising: [entry-level laptops sold for ₦350,000 to ₦610,000 in Nigerian retail in July 2026, as a memory-chip shortage cut global PC shipments by 4.9% in the second quarter](https://www.vanguardngr.com/2026/07/why-laptops-may-become-more-expensive-in-nigeria/), in a market that imports almost every computer it sells.
 
 ## Rwanda
 
@@ -105,7 +105,7 @@ The month's one inclusion measure came from the despatch box rather than a surve
 
 ## South Africa
 
-Two measurements of the divide moved in opposite directions. Official household figures published on 28 August show [the share of households with no telephone at all down to 3.7%, about 740,000 households, from nearly 55% in 2002, with 93.8% now holding a cellphone only](https://groundup.org.za/article/a-look-at-south-africas-mobile-revolution/) — device access is close to universal. What it costs to use is the other half, and there the obligation is late: the communications minister [acknowledged on 27 August that the zero-rating of public-benefit websites owed under the 2022 spectrum auction is moving slowly, five months before its deadline](https://www.businessday.co.za/economy/2026-08-27-concern-over-slow-rollout-of-free-data-for-public-benefit-sites/), while saying he remains confident it will be met. A handset in almost every home and no free route to public-interest content is the shape of the gap the licence condition was written to close.
+Official household figures published on 28 August show [the share of households with no telephone at all down to 3.7%, about 740,000 households, from nearly 55% in 2002, with 93.8% now having a mobile phone only](https://groundup.org.za/article/a-look-at-south-africas-mobile-revolution/). On 27 August the communications minister [said the zero-rating of public-benefit websites required under the 2022 spectrum auction is moving slowly, five months before its deadline](https://www.businessday.co.za/economy/2026-08-27-concern-over-slow-rollout-of-free-data-for-public-benefit-sites/), and expressed confidence that the deadline will be met.
 
 ## Uganda
 

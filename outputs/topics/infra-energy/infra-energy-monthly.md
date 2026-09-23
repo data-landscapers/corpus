@@ -1,10 +1,10 @@
 ---
 title: Energy — monthly update, August – September 2026
-compiled: 2026-09-21
-period: 2026-08-01 to 2026-09-21
+compiled: 2026-09-23
+period: 2026-08-01 to 2026-09-23
 subject: infra.energy
 places: BWA; BFA; BDI; CMR; CAF; TCD; COM; ETH; GMB; GHA; KEN; LSO; LBY; MDG; MWI; MUS; MOZ; SLE; ZAF; SSD; UGA; ZMB; ZWE
-record: 94cdb945ee7b
+record: 61b75de6a969
 ---
 
 # Energy: monthly update, August – September 2026
@@ -93,9 +93,9 @@ The constraint under everything else eased slightly. A World Bank-funded [40MW s
 
 ## South Africa
 
-The grid had its best month on the utility's own reporting in six years. Eskom [put the energy availability factor at 67.55%, its highest in six years, with unplanned outages down 44.5% year on year, about 1.2 million customers removed from load reduction and 505,607 smart meters installed](https://www.eskom.co.za/energy-availability-factor-at-highest-level-in-six-years-reaching-67-55-unplanned-outages-nearly-halved-year-on-year-and-customers-impacted-by-load-reduction-reduced-to-6-8-and-the-eastern-cape-beco/), the Eastern Cape becoming the seventh province removed from load reduction. These are the utility's figures and no regulator or system-operator confirmation accompanies them.
+Eskom [put its energy availability factor at 67.55%, the highest in six years, with unplanned outages down 44.5% year on year, about 1.2 million customers removed from load reduction and 505,607 smart meters installed](https://www.eskom.co.za/energy-availability-factor-at-highest-level-in-six-years-reaching-67-55-unplanned-outages-nearly-halved-year-on-year-and-customers-impacted-by-load-reduction-reduced-to-6-8-and-the-eastern-cape-beco/). The Eastern Cape became the seventh province removed from load reduction. These are Eskom's own figures.
 
-It closes a build programme rather than opening one: the last unit of the two flagship stations [entered commercial operation in September 2025, adding 800 MW](https://www.eskom.co.za/kusile-unit-6-achieves-commercial-operation-unlocking-full-9600mw-capacity-across-eskoms-flagship-stations/). What the month does not settle is adequacy after 2029, which the system operator's own assessment identifies as the risk and which is carried in the progress report rather than here.
+The last unit of Eskom's two flagship stations [entered commercial operation in September 2025, adding 800 MW](https://www.eskom.co.za/kusile-unit-6-achieves-commercial-operation-unlocking-full-9600mw-capacity-across-eskoms-flagship-stations/), completing the build programme. The system operator's own assessment names supply adequacy after 2029 as the main risk.
 
 ## South Sudan
 

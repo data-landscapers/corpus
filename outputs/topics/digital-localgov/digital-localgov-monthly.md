@@ -1,10 +1,10 @@
 ---
 title: Digitalisation of sub-national government — monthly update, August – September 2026
-compiled: 2026-09-21
-period: 2026-08-01 to 2026-09-21
+compiled: 2026-09-23
+period: 2026-08-01 to 2026-09-23
 subject: digital.localgov
 places: AGO; BFA; BDI; CMR; TCD; GHA; GNB; LBY; MWI; MLI; NAM; NGA; RWA; SEN; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: c8728501168c
+record: 061e8e42c511
 ---
 
 # Digitalisation of sub-national government: monthly update, August – September 2026
@@ -81,13 +81,13 @@ The one local-records digitisation with a published figure entered the repositor
 
 ## South Africa
 
-Nothing moved at a municipality this month. What the record gained is the rule the municipal programmes are obliged to work to: the national archives' [standing guidance on managing electronic records](https://www.nationalarchives.gov.za/node/1225) is now held, having been cited by none of the digitisation programmes this ledger tracks.
+Home Affairs [opened an appointment-only office in the Cape Town Civic Centre on 24 August, which the city describes as the first municipal building to host a national home affairs office; 148 people applied on the first day, and Atlantis is next](https://www.timeslive.co.za/news/south-africa/2026-08-24-cape-town-residents-get-a-new-way-to-beat-home-affairs-queues/).
 
-That is an addition to the record rather than a development. No compliance assessment against the guidance appears for any municipality, and the two metro programmes on this ledger — a records digitisation rollout reported to the National Council of Provinces and an electronic records system awarded on a three-year term — both predate this window and are carried in the progress report.
+The local government association [asked consultants for proposals to build a revenue management plan for the 257 municipalities it represents, putting consumer debt at about R467.2bn, municipalities' own debt to creditors at about R160.8bn, and annual water and electricity revenue loss at about R25bn from leaks, theft, illegal connections and weak metering and billing](https://www.sundaytimes.timeslive.co.za/news/2026-08-24-salga-needs-consultants-help-to-fix-almost-r500bn-municipal-debt/).
 
-Two municipal items, one opening a counter and one pricing the problem. Home Affairs [opened an appointment-only office inside the Cape Town Civic Centre on 24 August, which the city describes as the first municipal facility to host a national home affairs office; 148 people applied on the opening day, and Atlantis is named next](https://www.timeslive.co.za/news/south-africa/2026-08-24-cape-town-residents-get-a-new-way-to-beat-home-affairs-queues/). The local government association [issued a request for proposal for consultants to build a municipal revenue management plan across the 257 municipalities it represents, putting consumer debt at about R467.2bn, municipalities' own debt to creditors at about R160.8bn, and annual water and electricity revenue loss at about R25bn from leaks, theft, illegal connections and weaknesses in metering and billing](https://www.sundaytimes.timeslive.co.za/news/2026-08-24-salga-needs-consultants-help-to-fix-almost-r500bn-municipal-debt/).
+The Gauteng e-government department's 2025/26 annual report records [96 public Wi-Fi hotspots at schools, libraries, hospitals, clinics, hostels and licence testing centres, offering up to 500MB of free internet a day, 33 e-services live, 99% provincial network uptime and 7,271 cameras on the provincial safety network](https://www.gov.za/news/media-statements/gauteng-e-government-accelerates-digital-transformation-e-gov-delivers-more). The figures are the department's own.
 
-A second province published delivery figures rather than a platform. The Gauteng department's 2025/26 annual report records [96 public Wi-Fi hotspots installed at schools, libraries, hospitals, clinics, hostels and licence testing centres, offering up to 500MB of free internet a day, alongside 33 e-services live, 99% provincial network uptime and 7,271 cameras on the provincial safety network](https://www.gov.za/news/media-statements/gauteng-e-government-accelerates-digital-transformation-e-gov-delivers-more). It is the department's own account as presented to the legislature, with no audited outturn, usage figure or prior-year comparison in what the repository holds.
+Municipal digitisation programmes are bound by the national archives' [standing guidance on managing electronic records](https://www.nationalarchives.gov.za/node/1225).
 
 ## Sudan
 

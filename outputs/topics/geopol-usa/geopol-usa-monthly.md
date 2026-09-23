@@ -1,21 +1,25 @@
 ---
 title: US / hyperscaler activities — monthly update, August – September 2026
-compiled: 2026-09-21
-period: 2026-08-01 to 2026-09-21
+compiled: 2026-09-23
+period: 2026-08-01 to 2026-09-23
 subject: geopol.usa
-places: DJI; EGY; KEN; LSO; MUS; NGA; STP; SEN; UGA; ZWE
-record: d8ff7c1160ab
+places: CPV; DJI; EGY; KEN; LSO; MUS; NGA; STP; SEN; UGA; ZWE
+record: 431191ae0dbc
 ---
 
 # US / hyperscaler activities: monthly update, August – September 2026
 
-*10 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*11 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
+## Cape Verde
+
+The one United States instrument on the record has gone. The national press reported on 12 September that [the third Millennium Challenge compact, whose initial agreement was signed in April 2024, was officially terminated in December 2025 after the corporation's global aid was cut, and that the country is on the eligible list for FY2027 published on 31 August](https://expressodasilhas.cv/economia/2026/09/12/millennium-challenge-corporation-cabo-verde-elegivel-mas-ainda-nao-se-sabe-se-vai-avancar-com-candidatura/104583). The ministry responsible gave no answer on whether it will apply.
+
 ## Djibouti
 
-[A new impetus in digital and media cooperation between Djibouti and the United States was reported on 1 September 2026](https://www.lanation.dj/djibouti-etats-unis-un-nouvel-elan-pour-la-cooperation-numerique-et-mediatique/), with no instrument, sum or timetable published. What changed is that a bilateral digital relationship is on the record at all: the standing engagement until now was a hyperscaler's cable route that names Djibouti among its landings and has had no activation status published since 2021.
+The communications minister [received the United States ambassador on 31 August to discuss American investment in new technologies and telecommunications, and training for media professionals](https://www.lanation.dj/djibouti-etats-unis-un-nouvel-elan-pour-la-cooperation-numerique-et-mediatique/). It was a courtesy call: no instrument, sum or timetable followed. On 7 September Google, Meta, Microsoft and Amazon [were among the prospective partners and customers shown the Horizon terrestrial fibre corridor in Addis Ababa](https://www.lanation.dj/projet-de-fibre-optique-horizon-une-nouvelle-autoroute-numerique-pour-la-corne-de-lafrique/), and none of them is reported to have committed to it.
 
 ## Egypt
 

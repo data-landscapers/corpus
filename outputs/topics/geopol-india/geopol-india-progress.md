@@ -1,10 +1,10 @@
 ---
 title: India activities — progress report, September 2025 – September 2026
-compiled: 2026-09-21
-period: 2025-09-01 to 2026-09-21
+compiled: 2026-09-23
+period: 2025-09-01 to 2026-09-23
 subject: geopol.india
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBY; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; TGO; TUN; UGA; ZMB; ZWE
-record: 54b379778526
+record: d400f56b91af
 ---
 
 # India activities: progress report, September 2025 – September 2026

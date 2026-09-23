@@ -1,10 +1,10 @@
 ---
 title: Innovation ecosystem — monthly update, August – September 2026
-compiled: 2026-09-21
-period: 2026-08-01 to 2026-09-21
+compiled: 2026-09-23
+period: 2026-08-01 to 2026-09-23
 subject: tech.innovate
 places: DZA; AGO; BWA; BFA; CMR; CPV; COM; CIV; COD; EGY; ERI; SWZ; GAB; GMB; GHA; GIN; KEN; LBR; MLI; MRT; MAR; NAM; NER; NGA; RWA; SYC; SLE; ZAF; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: 72ae005032df
+record: f0c522ef33cb
 ---
 
 # Innovation ecosystem: monthly update, August – September 2026
@@ -39,7 +39,7 @@ A domestically built platform for creating online shops was [profiled on 26 Augu
 
 ## Cape Verde
 
-The innovation record moved to the extent that two institutions said they intend to work together. The national university and the economy ministry [are projecting a partnership on innovation, entrepreneurship and employment](https://unicv.edu.cv/pt/nots-geral/5931-uni-cv-e-ministerio-da-economia-projetam-parceria-para-inovacao-empreendedorismo-e-emprego). Projected is the operative word: no scope, funding or programme accompanies it, and nothing here is yet an instrument the repository can track.
+The innovation record moved to the extent that two institutions said they intend to work together. The national university and the economy ministry [are projecting a partnership on innovation, entrepreneurship and employment](https://unicv.edu.cv/pt/nots-geral/5931-uni-cv-e-ministerio-da-economia-projetam-parceria-para-inovacao-empreendedorismo-e-emprego). Projected is the operative word: no scope, funding or programme accompanies it. A company hub for technology firms was [announced at a Brazil-Cabo Verde-Portugal business forum in Praia on 4 September](https://observador.pt/2026/09/04/brasil-e-portugal-querem-reforcar-negocios-com-cabo-verde-e-apostar-no-mercado-africano/) and [created with a tax number by 17 September, to draw firms in education, technology, IoT hardware and smart cities to the technology park](https://inforpress.cv/en/missao-cabo-verde-teleport-supera-metas-previstas-e-prepara-novos-investimentos-no-pais); no investment figure, site or capacity is stated.
 
 ## Comoros
 
@@ -98,7 +98,9 @@ The instrument the innovation layer waits on is still a draft: the [startup bill
 
 ## Kenya
 
-Venture funding data published on 27 July put Kenyan startups at [US$126m in the first half of 2026](https://techcabal.com/2026/07/27/african-venture-capital-is-backing-fewer-founders-than-ever/), third in Africa and the weakest half since early 2021, against US$1.04bn across 2025.
+A publication's retrospective put [about US$500m raised by a set of Kenyan startups that have since shut down](https://techcabal.com/2026/08/19/500m-raised-shutdown-kenyan-startup-founders-now/), across five named companies with no full sample or method stated.
+
+An online-work platform launched in 2024 [matches businesses to freelancers, uses local cybercafes as access points and settles through mobile money, reporting more than 1,650 users and 200 partner cybercafes](https://www.wearetech.africa/fr/fils/tech-stars/avec-workke-le-kenyan-kennedy-mokaya-democratise-le-travail-en-ligne-en-afrique); the counts are the company's own.
 
 ## Liberia
 
@@ -148,9 +150,7 @@ The communications minister [said a Startup Act is expected in the first quarter
 
 ## South Africa
 
-The month's addition is a standing one. The small business department's [network of incubation and digital hubs](http://www.dsbd.gov.za/article/incubation-and-digital-hubs) is now on the record, which matters because the two centres opened earlier in the year — a continental digital transformation centre established with the International Telecommunication Union, and an industry and technology centre hosted by a university — both sit on top of an existing state hub estate that the repository had never described.
-
-No hub count, spend or enterprise figure is published for any of the three, so the estate is established and its output is not. Both openings fall outside this month and are carried in the progress report.
+The small business department runs a [network of incubation and digital hubs](http://www.dsbd.gov.za/article/incubation-and-digital-hubs). Two centres opened earlier in the year sit alongside it: a continental digital transformation centre set up with the International Telecommunication Union, and an industry and technology centre hosted by a university. No hub count, spending or enterprise figure has been published for any of them.
 
 ## Sudan
 

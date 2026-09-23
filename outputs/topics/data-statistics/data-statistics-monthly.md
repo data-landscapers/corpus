@@ -1,10 +1,10 @@
 ---
 title: National statistics — monthly update, August – September 2026
-compiled: 2026-09-21
-period: 2026-08-01 to 2026-09-21
+compiled: 2026-09-23
+period: 2026-08-01 to 2026-09-23
 subject: data.statistics
 places: BEN; BWA; BFA; BDI; CMR; CAF; TCD; COM; COG; COD; GNQ; SWZ; GAB; GHA; GIN; KEN; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; TGO; TUN; UGA; ZWE
-record: 30e8e838b30a
+record: f375dbceaf2d
 ---
 
 # National statistics: monthly update, August – September 2026
@@ -163,9 +163,9 @@ The census technical committee [received the national mapping completion report 
 
 ## South Africa
 
-A statistical series came back after five years. Statistics South Africa [restored its monthly insolvencies series, interrupted since the 2021 cyber incident at the Department of Justice cut off the administrative supply, with a first release on 21 July covering June 2026 and a time series back to January 2023](https://www.statssa.gov.za/?p=19751). It is the clearest cost of a security failure this ledger holds: an official series lost because another department's systems went down, and recovered only now.
+Statistics South Africa [restored its monthly insolvencies series, interrupted since the 2021 cyber incident at the Department of Justice cut off the administrative data, with a first release on 21 July covering June 2026 and a time series back to January 2023](https://www.statssa.gov.za/?p=19751).
 
-The office also published [a frame update for the continuous population survey and household survey programme redesign](https://www.statssa.gov.za/?page_id=14209), the instrument intended to carry population statistics between censuses. No first release is named with it.
+The office also published [a frame update for the continuous population survey and the household survey programme redesign](https://www.statssa.gov.za/?page_id=14209), which is meant to produce population statistics between censuses. No date has been given for a first release.
 
 ## Togo
 

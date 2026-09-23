@@ -1,10 +1,10 @@
 ---
 title: Data Exchange — monthly update, August – September 2026
-compiled: 2026-09-21
-period: 2026-08-01 to 2026-09-21
+compiled: 2026-09-23
+period: 2026-08-01 to 2026-09-23
 subject: dpi.exchange
 places: DZA; AGO; BEN; BWA; BFA; CMR; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MAR; MOZ; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 57762f036b19
+record: ead3b563c8ae
 ---
 
 # Data Exchange: monthly update, August – September 2026
@@ -121,10 +121,7 @@ A second exchange was constituted in August, in the one domain where the state h
 
 ## Kenya
 
-The health ministry issued tender addenda on 27 July 2026 that [make financial, tax, insurance, pension, payroll, laboratory and identity interfaces day-one mandatory](https://health.go.ke/node/2517) for a national public-health enterprise system, and require primary hosting inside an approved Kenyan government or health-sector environment.
-
-The Treasury is building the other kind of exchange — one that looks at the money coming in. It is [rolling out a Development Partners Management Information System, expected to launch before the end of 2026](https://www.the-star.co.ke/counties/nairobi/2026-08-17-treasury-moves-to-improve-tracking-of-development-partner-funds), to consolidate data on development-partner commitments, disbursements and funded programmes for planning and oversight. No supplier, cost, or statement of whether the consolidated data will be published is reported.
-
+The Treasury is [rolling out a Development Partners Management Information System, expected to launch before the end of 2026](https://www.the-star.co.ke/counties/nairobi/2026-08-17-treasury-moves-to-improve-tracking-of-development-partner-funds), to consolidate data on development-partner commitments, disbursements and funded programmes for planning and oversight. No supplier, cost, or statement of whether the consolidated data will be published is reported.
 
 The regional payments interlink took another participant: a commercial bank group [went live on the pan-African system on 11 August, adding its branch network to instant cross-border transfers in local currencies](https://www.linkedin.com/posts/pan-african-payment-settlement-system_papss-papss-abcbank-activity-7492934194994774016-TGoX).
 
@@ -217,11 +214,11 @@ The Auditor-General put a number on how far the state's own systems are from tal
 
 ## South Africa
 
-Two exchanges were arranged this month and neither states what happens to the data. The medicines regulator [opened a pilot inviting sponsors and investigators to report serious adverse events through an externally hosted module](https://www.sahpra.org.za/document/pilot-project-for-electronic-reporting-of-serious-adverse-events-e-reporting-for-industry-vigiflow-module/), routing South African clinical-trial safety data through infrastructure hosted by the WHO's Uppsala centre and adopting its reporting standard rather than a domestic one; no pilot duration, participant target, data-residency statement or transition date to mandatory reporting is published. The revenue service [signed an implementation arrangement with Malawi's revenue authority for a secure platform exchanging customs information in real time](https://itweb.africa/article/malawi-sa-sign-digital-customs-deal/raYAyqorGalMJ38N), aligned to the World Customs Organisation data model and operationalising a mutual assistance agreement negotiated in 2019. No go-live date is stated, and no purpose-limitation, retention or reciprocity terms are published.
+The medicines regulator [opened a pilot inviting sponsors and investigators to report serious adverse events through an externally hosted module](https://www.sahpra.org.za/document/pilot-project-for-electronic-reporting-of-serious-adverse-events-e-reporting-for-industry-vigiflow-module/). South African clinical-trial safety data will pass through systems hosted by the WHO's Uppsala centre, using its reporting standard. No pilot duration, participant target, data-residency statement or date for mandatory reporting has been published. The revenue service [signed an implementation arrangement with Malawi's revenue authority for a secure platform to exchange customs information in real time](https://itweb.africa/article/malawi-sa-sign-digital-customs-deal/raYAyqorGalMJ38N). It follows the World Customs Organisation data model and puts into effect a mutual assistance agreement negotiated in 2019. No go-live date, and no terms on purpose limitation, retention or reciprocity, have been published.
 
-A third exchange was put out for comment rather than arranged. The revenue service [published a consultation paper proposing a five-corner digital VAT model — electronic invoicing, an interoperability framework and electronic reporting — moving toward VAT auto-assessment, with a phased rollout from 2026/27 and feedback due 16 October](https://www.sars.gov.za/vat-modernisation-consultation-paper-august-2026/). It is the one of the three that will reach every registered business, and it is the one still open to be argued with; no cost to business, exemption threshold or accreditation regime for service providers is stated.
+On 18 August the revenue service [published a consultation paper proposing a five-corner digital VAT model — electronic invoicing, an interoperability framework and electronic reporting — leading to VAT auto-assessment, with a phased rollout from 2026/27 and comments due by 16 October](https://www.sars.gov.za/vat-modernisation-consultation-paper-august-2026/). It [follows a 2023 discussion paper and is meant to move VAT administration off manual processes and retrospective checks and into the systems businesses already use](https://www.itweb.co.za/article/sars-invites-input-on-vat-modernisation/DZQ58vV8m9NMzXy2). It would apply to every VAT-registered business. No cost to business, exemption threshold or accreditation regime for service providers has been stated. On 8 September the revenue service confirmed that [the VAT Act has carried definitions of e-invoicing, e-reporting and the interoperability framework since 1 April 2026](https://www.sars.gov.za/businesses-and-employers/my-business-and-tax/vat-connect-issue-21-september-2026/), before the model was put out for comment.
 
-The consultation already has a statute under it. The revenue service confirmed on 8 September that [the VAT Act has carried e-invoice, e-reporting and interoperability-framework definitions since 1 April 2026](https://www.sars.gov.za/businesses-and-employers/my-business-and-tax/vat-connect-issue-21-september-2026/), so the definitions were enacted before the model they serve was put out for comment. At the land borders, a review with Lesotho on 9 September [agreed to accelerate smart one-stop border posts at Maseru and Ficksburg](https://www.africa-newsroom.com/press/lesothosouth-africa-binational-commission-bnc-midterm-review-concludes-in-pretoria?lang=en), with no date or design published.
+On 9 September South Africa and Lesotho [agreed to speed up smart one-stop border posts at Maseru and Ficksburg](https://www.africa-newsroom.com/press/lesothosouth-africa-binational-commission-bnc-midterm-review-concludes-in-pretoria?lang=en). No date or design has been published.
 
 ## South Sudan
 

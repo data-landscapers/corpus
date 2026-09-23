@@ -1,10 +1,10 @@
 ---
 title: Standards — monthly update, August – September 2026
-compiled: 2026-09-21
-period: 2026-08-01 to 2026-09-21
+compiled: 2026-09-23
+period: 2026-08-01 to 2026-09-23
 subject: gov.standards
 places: AGO; BEN; CPV; CAF; TCD; COM; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GIN; KEN; LBR; LBY; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB
-record: 6e8ef5db4d9a
+record: e9dc4f70addf
 ---
 
 # Standards: monthly update, August – September 2026
@@ -23,7 +23,7 @@ Benin's standards body is now inside the international system rather than beside
 
 ## Cape Verde
 
-The Prime Minister told Parliament during the State of the Nation debate on 31 July 2026 that the statistics institute had produced falsified data, and announced an independent evaluation to establish alleged interference and manipulation. On 3 August the institute's board rejected the allegations clearly, firmly and categorically, and said it was available to receive any external evaluation mission or peer review, undertaking to supply all technical documentation ([both accounts](https://expressodasilhas.cv/pais/2026/08/03/ine-rejeita-acusacoes-de-manipulacao-de-dados-e-diz-estar-disponivel-para-avaliacao-independente/103949)). Nothing is established about the evaluation's terms of reference, who conducts it, when it reports, or whether its findings will be published. The dispute is not new — anonymous technicians raised it in August 2025 and the institute rejected it in September 2025 — and the two accounts remain unreconciled.
+The Prime Minister [announced an independent evaluation of the statistics institute during the State of the Nation debate on 31 July 2026, to establish alleged interference and manipulation of data, days after telling Parliament it had produced falsified data](https://expressodasilhas.cv/pais/2026/08/03/ine-rejeita-acusacoes-de-manipulacao-de-dados-e-diz-estar-disponivel-para-avaliacao-independente/103949). On 3 August [the institute's board rejected the allegations and said it would receive any external evaluation mission or peer review, undertaking to supply all technical documentation](https://expressodasilhas.cv/pais/2026/08/03/ine-rejeita-acusacoes-de-manipulacao-de-dados-e-diz-estar-disponivel-para-avaliacao-independente/103949). Nothing is established about the evaluation's terms of reference, who conducts it, when it reports, or whether its findings will be published.
 
 ## Central African Republic
 
@@ -154,7 +154,7 @@ The auditor general's office and a partner supreme audit institution [completed 
 
 ## South Africa
 
-Parliament's communications committee [prefers strengthening the existing regulators through the ICT and media regulators forum to creating the four artificial-intelligence bodies the withdrawn draft policy proposed](https://www.timeslive.co.za/news/sci-tech/2026-07-31-parliament-against-creating-new-ai-watchdogs-for-sa-diko). The forum was launched in 2024 and no instrument establishing its powers is held.
+Parliament's communications committee [prefers strengthening the existing regulators through the ICT and media regulators forum to creating the four artificial-intelligence bodies proposed in the withdrawn draft policy](https://www.timeslive.co.za/news/sci-tech/2026-07-31-parliament-against-creating-new-ai-watchdogs-for-sa-diko). The forum was launched in 2024. No instrument setting out its powers had been issued as at September 2026.
 
 ## South Sudan
 

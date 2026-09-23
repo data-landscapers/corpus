@@ -1,10 +1,10 @@
 ---
 title: MoUs and other agreements — monthly update, August – September 2026
-compiled: 2026-09-21
-period: 2026-08-01 to 2026-09-21
+compiled: 2026-09-23
+period: 2026-08-01 to 2026-09-23
 subject: finance.mou
 places: DZA; CIV; COD; GHA; KEN; MAR; MOZ; NER; NGA; RWA; TZA; UGA
-record: 0160a0c2e277
+record: ce62cfe24514
 ---
 
 # MoUs and other agreements: monthly update, August – September 2026
@@ -51,7 +51,7 @@ The one memorandum signed in the window is domestic: the technology development 
 
 ## Rwanda
 
-The month's one agreement is in capital markets. On 7 August the Capital Markets Authority [signed a memorandum with a Nigerian registrar company](https://radiotv10.rw/en/cma-rwanda-partners-with-nigerias-africa-prudential-to-advance-capital-markets-development/) to cooperate on registrar services, securities administration, investor identification, data management and digital capital-markets systems. It follows a study visit in June to that company's digital investor-services model — virtual shareholder meetings, electronic voting and mobile-based investment tracking. No term, value or workplan is published, and nothing in the account addresses the protection of the investor data the cooperation is about.
+On 7 August the Capital Markets Authority [signed a memorandum with a Nigerian registrar company](https://radiotv10.rw/en/cma-rwanda-partners-with-nigerias-africa-prudential-to-advance-capital-markets-development/) to cooperate on registrar services, securities administration, investor identification, data management and digital capital-markets systems. It follows a study visit in June to that company's digital investor-services model — virtual shareholder meetings, electronic voting and mobile-based investment tracking. No term, value or workplan is published, and nothing in the account addresses the protection of the investor data the cooperation is about. The ICT ministry [signed a memorandum with a chip-design company to build local semiconductor design skills, reported on 22 September](https://techafricanews.com/2026/09/22/rwanda-signs-mou-with-chipmango-to-build-local-semiconductor-design-skills/); no signature date, value or target is published.
 
 ## Tanzania
 

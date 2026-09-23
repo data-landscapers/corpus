@@ -1,10 +1,10 @@
 ---
 title: ICT Industry — monthly update, August – September 2026
-compiled: 2026-09-21
-period: 2026-08-01 to 2026-09-21
+compiled: 2026-09-23
+period: 2026-08-01 to 2026-09-23
 subject: tech.industry
 places: DZA; AGO; BWA; CAF; EGY; GNQ; SWZ; GAB; GHA; KEN; MUS; MAR; MOZ; NER; NGA; SEN; ZAF; SDN; TZA; TGO; UGA; ZMB; ZWE
-record: 1284072cbcc9
+record: dccb500958a1
 ---
 
 # ICT Industry: monthly update, August – September 2026
@@ -85,12 +85,11 @@ A French insurance-technology company [acquired Tanel, a Senegalese health-techn
 
 ## South Africa
 
-The sector's transformation body lost its chair. The communications minister [replaced the B-BBEE ICT Sector Council's chairperson and appointed an interim chair for six months](https://www.itweb.co.za/article/ict-sector-council-chairperson-gets-the-boot/o1Jr5qxPazEqKdWL) on 14 August, after a departmental investigation found the council dysfunctional. The investigation report is not published, and no remedial plan, terms of reference for the interim period or date for a permanent appointment is stated.
+On 14 August the communications minister [removed the chairperson of the B-BBEE ICT Sector Council and appointed an interim chair for six months](https://www.itweb.co.za/article/ict-sector-council-chairperson-gets-the-boot/o1Jr5qxPazEqKdWL), after a departmental investigation found the council dysfunctional. The investigation report has not been published, and no remedial plan or date for a permanent appointment has been given.
 
+A listed payments company [began selling near-real-time item-level data on informal retail, drawn from a point-of-sale network of over 90,000 spaza shops and taverns and 10,500 checkouts, to consumer-goods brands, wholesalers and financiers](https://www.itweb.co.za/article/lesaka-brings-data-science-to-sas-spaza-economy/KjlyrvwBrAAqk6am). The network figures are the company's own. No consent basis or data-protection assessment for reselling merchant transaction data has been stated.
 
-The informal economy became a data product. A listed payments company [began selling near-real-time item-level intelligence on informal retail, drawn from a point-of-sale network of over 90,000 spaza shops and taverns and 10,500 checkouts, to consumer-goods brands, wholesalers and financiers](https://www.itweb.co.za/article/lesaka-brings-data-science-to-sas-spaza-economy/KjlyrvwBrAAqk6am). The network figures are the company's own, and no consent basis or data-protection assessment for reselling merchant transaction data is stated.
-
-Platform transport worked the other end of the same problem — getting drivers inside a licensing regime rather than getting data out of them. An e-hailing operator [took its compliance programme to the provinces, holding a North West regulatory engagement in Rustenburg on 18 August attended by more than 150 operators and a Western Cape transport dialogue in Cape Town on 21 August at which the provincial mobility department's director of licensing and adjudication undertook to add e-hailing as a service option on the operating-licence application; the North West provincial regulatory entity put its pending operating-licence backlog at 3,000 to 5,000 applications](https://www.itweb.co.za/article/bolt-takes-e-hailing-compliance-push-to-provinces/RgeVDvPRkmKMKJN3). The account is the platform's own and the undertaking is not yet an amended form.
+An e-hailing operator [took its compliance programme to the provinces: a North West regulatory meeting in Rustenburg on 18 August attended by more than 150 operators, and a Western Cape transport dialogue in Cape Town on 21 August at which the provincial mobility department's director of licensing and adjudication undertook to add e-hailing as a service option on the operating-licence application; the North West provincial regulatory entity put its backlog of operating-licence applications at 3,000 to 5,000](https://www.itweb.co.za/article/bolt-takes-e-hailing-compliance-push-to-provinces/RgeVDvPRkmKMKJN3). The account is the operator's own, and the application form has not yet been changed.
 
 ## Sudan
 

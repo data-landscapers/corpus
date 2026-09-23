@@ -1,10 +1,10 @@
 ---
 title: China activities — monthly update, August – September 2026
-compiled: 2026-09-21
-period: 2026-08-01 to 2026-09-21
+compiled: 2026-09-23
+period: 2026-08-01 to 2026-09-23
 subject: geopol.china
 places: DZA; BWA; BFA; TCD; DJI; EGY; GMB; KEN; NER; NGA; SEN; SSD; SDN; TGO; ZMB; ZWE
-record: fc8854fe6245
+record: 4039258d3b57
 ---
 
 # China activities: monthly update, August – September 2026
@@ -43,7 +43,9 @@ Chinese engagement remained visible as training rather than infrastructure. The 
 
 ## Kenya
 
-The e-commerce cooperation memorandum with China was [cited as the basis for dispatching eighteen ICT officers to Shandong](https://techafricanews.com/2026/07/17/kenya-dispatches-18-ict-officers-to-china-to-advance-digital-trade-and-e-commerce-cooperation/), framed inside the digital master plan. The memorandum's signature date, terms and text are not held.
+The broadcasting and telecommunications department [received two Chinese delegations in eight days in August to discuss broadband, smart-city and ICT investment](https://itweb.africa/article/kenya-targets-chinese-telecoms-investment/nWJad7bNDY57bjO1); no memorandum, value or project followed from either.
+
+At a Chinese equipment vendor's event on 24 August, the ministry [described student training under way and a planned East Africa research and development centre](https://www.itweb.africa/article/fiberhome-tour-targets-kenyan-6g/GxwQD71DP96vlPVo), with no contract or date stated. The same day a Chinese state bank [held a renminbi cross-border payment roadshow in Nairobi for more than 180 participants](https://www.boc.cn/aboutboc/bi1/202608/t20260824_25687502.html), including the operator of China's cross-border interbank payment system; no corridor, volume or participating Kenyan bank is stated.
 
 ## Niger
 

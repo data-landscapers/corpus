@@ -1,10 +1,10 @@
 ---
 title: Technical Capacity — monthly update, August – September 2026
-compiled: 2026-09-21
-period: 2026-08-01 to 2026-09-21
+compiled: 2026-09-23
+period: 2026-08-01 to 2026-09-23
 subject: infra.capacity
 places: BDI; COD; GHA; KEN; LBY; MOZ; RWA; SEN; ZAF; TGO
-record: 1f4853a98da3
+record: 0d9bd11874a8
 ---
 
 # Technical Capacity: monthly update, August – September 2026
@@ -27,7 +27,7 @@ The cable inventory did not move; what moved is the repository's reading of it. 
 
 ## Kenya
 
-Two capacity items advanced without a figure attached to either. Nationwide broadcast-logger deployment is complete with a monitoring room at the regulator's centre, [joint regulator training concluding on 27 July](https://techafricanews.com/2026/07/27/communications-authority-of-kenya-and-kfcb-complete-joint-broadcast-monitoring-training/), with no cost, coverage or channel-count disclosed. The advanced science and technology institute, its [operationalisation under review with the Korean export credit agency](https://techafricanews.com/2026/08/03/kenya-advances-korea-partnership-to-boost-ai-research-and-digital-infrastructure/) in August, was [stated completed at US$94m by the Treasury principal secretary in Seoul on 10 September](https://peopledaily.digital/business/kenya-south-korea-deepen-ksh-129-4b-development-partnership), with no opening, intake or operating budget published.
+The advanced science and technology institute, its [operationalisation under review with the Korean export credit agency](https://techafricanews.com/2026/08/03/kenya-advances-korea-partnership-to-boost-ai-research-and-digital-infrastructure/) in August, was [stated completed at US$94m by the Treasury principal secretary in Seoul on 10 September](https://peopledaily.digital/business/kenya-south-korea-deepen-ksh-129-4b-development-partnership), with no opening, intake or operating budget published.
 
 ## Libya
 
@@ -47,7 +47,7 @@ A continental count puts [seven data centres in Senegal at mid-2025, level with 
 
 ## South Africa
 
-Parliament's science committee reported after an oversight visit that the [Centre for High Performance Computing has reached maximum capacity and that available infrastructure is insufficient for future growth](https://www.parliament.gov.za/press-releases/media-statement-committee-science-visits-national-integrated-cyber-infrastructure-system). The centre is one of three pillars of the national cyber infrastructure system, alongside the research network and the secure national data centre, and it supports the electronic vaccination data system.
+After an oversight visit, Parliament's science committee reported that the [Centre for High Performance Computing has reached maximum capacity and that available infrastructure is insufficient for future growth](https://www.parliament.gov.za/press-releases/media-statement-committee-science-visits-national-integrated-cyber-infrastructure-system). The centre is one of three parts of the national cyber infrastructure system, with the research network and the secure national data centre, and supports the electronic vaccination data system.
 
 ## Togo
 

@@ -1,10 +1,10 @@
 ---
 title: Data protection — monthly update, August – September 2026
-compiled: 2026-09-21
-period: 2026-08-01 to 2026-09-21
+compiled: 2026-09-23
+period: 2026-08-01 to 2026-09-23
 subject: gov.protect
 places: AGO; BEN; BWA; BFA; CPV; CAF; DJI; COD; EGY; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LBR; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; UGA; ZMB; ZWE
-record: 5c3b25f08def
+record: 3f56d95d11cc
 ---
 
 # Data protection: monthly update, August – September 2026
@@ -177,12 +177,11 @@ Data-protection work in the window was training rather than enforcement, and it 
 
 ## South Africa
 
-The data-protection statute has been enforceable since 2021 and operates as an adequacy model rather than hard localisation: [cross-border transfers are permitted where equivalent protection, consent or contractual necessity applies, with the controller accountable](https://transformpublicrelations.com/2026/07/06/popia-five-years-later-why-is-nobody-being-held-accountable/). The [maximum fine is R10m against a measured average breach cost of R44.1m](https://transformpublicrelations.com/2026/07/06/popia-five-years-later-why-is-nobody-being-held-accountable/) — the penalty is a fraction of the harm it is meant to deter.
+The data protection Act has been enforceable since 2021. It [permits cross-border transfers where equivalent protection, consent or contractual necessity applies, with the controller accountable](https://transformpublicrelations.com/2026/07/06/popia-five-years-later-why-is-nobody-being-held-accountable/). The [maximum fine is R10m; the average cost of a breach is put at R44.1m](https://transformpublicrelations.com/2026/07/06/popia-five-years-later-why-is-nobody-being-held-accountable/).
 
+At a webinar on 18 August the regulator [said it cannot test external systems for privacy compliance before launch, and is working with the justice department to amend the Act to cover artificial intelligence and privacy by design](https://www.timeslive.co.za/news/south-africa/2026-08-18-sahrc-sounds-alarm-over-misuse-of-personal-information-in-digital-age/), and the human rights commission described misuse of personal information as a constitutional harm affecting dignity, equality and access to services. A peer-reviewed study published on 14 August [finds South Africa among three of four countries studied that have not signed the continental data convention, and finds all four countries' health-data governance fragmented](https://datascience.codata.org/articles/10.5334/dsj-2026-031).
 
-The supervisor said plainly what it cannot do. At a webinar on 18 August the regulator [said it has no capability to test external systems for privacy compliance before launch, and is working with the justice department to amend the Act to cover artificial intelligence and privacy by design](https://www.timeslive.co.za/news/south-africa/2026-08-18-sahrc-sounds-alarm-over-misuse-of-personal-information-in-digital-age/), while the rights commission reframed misuse of personal information as a constitutional harm bearing on dignity, equality and access to services rather than a cybersecurity one. A peer-reviewed review published four days earlier [records South Africa among three of four countries studied that have not signed the continental data convention, and finds all four health-data governance frameworks fragmented](https://datascience.codata.org/articles/10.5334/dsj-2026-031).
-
-A supplier breach reached a whole sector. An extortion attack on an insurance-technology provider, detected on 14 June and notified to the regulator two days later, [exposed personal information linked to customers of about 45 insurers](https://www.itweb.co.za/article/hollard-rejects-hacking-claim-points-to-mip-cyber-breach/Pero37Z36boMQb6m); one insurer said on 16 September that a ransomware group's claim against it traced to that incident.
+An extortion attack on an insurance-technology provider, detected on 14 June and reported to the regulator two days later, [exposed personal information linked to customers of about 45 insurers](https://www.itweb.co.za/article/hollard-rejects-hacking-claim-points-to-mip-cyber-breach/Pero37Z36boMQb6m). On 16 September one insurer said a ransomware group's claim against it came from that incident.
 
 ## South Sudan
 

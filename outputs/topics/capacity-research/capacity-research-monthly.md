@@ -1,10 +1,10 @@
 ---
 title: Research institutions — monthly update, August – September 2026
-compiled: 2026-09-21
-period: 2026-08-01 to 2026-09-21
+compiled: 2026-09-23
+period: 2026-08-01 to 2026-09-23
 subject: capacity.research
 places: CAF; COM; COG; CIV; COD; EGY; ETH; GHA; KEN; LBY; MAR; MOZ; NER; RWA; SLE; ZAF; TZA; UGA; ZWE
-record: f83dd445bbfe
+record: 52440e4095e1
 ---
 
 # Research institutions: monthly update, August – September 2026
@@ -15,7 +15,7 @@ record: f83dd445bbfe
 
 ## Central African Republic
 
-Nothing moved in the research base this period. What changed is the record: the repository had carried no university, statistics-institute or donor research document for the country at all, and now holds the University of Bangui's [Institut superieur de technologie](https://www.univ-bangui.org/technologie/), which supplies most of the country's professional engineering graduates and runs a master's in engineering sciences. The page carries no date, enrolment or research-output figure, so the position it settles is one of existence rather than of scale.
+The University of Bangui's [Institut superieur de technologie](https://www.univ-bangui.org/technologie/) supplies most of the country's professional engineering graduates and runs a master's in engineering sciences; its page carries no date, enrolment or research-output figure.
 
 ## Comoros
 
@@ -41,7 +41,7 @@ The month's research contribution is an outside assessment of a question the sta
 
 University connectivity is the delivery side of the research position. A funder's account [describes campus connectivity transforming learning across Ethiopian campuses](https://www.worldbank.org/en/news/feature/2026/08/24/how-better-connectivity-is-transforming-learning-across-ethiopian-campuses). It is the funder's own account, with no bandwidth, campus count or student figure in the record held.
 
-Against it the FY2026/27 federal budget [carries *Artificial Intelligence University Construction* as a single named capital project at ETB 5,000,000,000](https://www.mofed.gov.et/media/filer_public/c1/de/c1de6f52-b57e-4a94-91ff-cc22a2c751b8/2019_e_c_budget_year_goe_federal_budget_proclamation_part_two_updated.xlsx) — domestic money, appropriated rather than pledged, and large enough to dominate the year's digital total on its own. Nothing moved on the national artificial-intelligence policy itself, on model development, or on which foundation models the country runs.
+Against it the FY2026/27 federal budget [carries *Artificial Intelligence University Construction* as a single named capital project at ETB 5,000,000,000](https://www.mofed.gov.et/media/filer_public/c1/de/c1de6f52-b57e-4a94-91ff-cc22a2c751b8/2019_e_c_budget_year_goe_federal_budget_proclamation_part_two_updated.xlsx).
 
 ## Ghana
 
@@ -77,7 +77,7 @@ The council that would steer research funding is still writing its own first pla
 
 ## South Africa
 
-The month's one research measure is about the literature rather than the country. A twenty-year bibliometric review [places South Africa 18th worldwide and the only African country among the twenty most productive sources of digital-privacy research, across 4,760 articles published between 2005 and 2025](https://sajim.co.za/index.php/sajim/article/view/2146). The same review finds refugees, people with disabilities, older people and racial and ethnic minorities notably underrepresented in that literature, so the ranking counts output and not coverage of the populations whose privacy is least protected.
+A twenty-year bibliometric review [places South Africa 18th in the world, and the only African country among the twenty most productive sources of digital-privacy research, across 4,760 articles published between 2005 and 2025](https://sajim.co.za/index.php/sajim/article/view/2146). It finds refugees, people with disabilities, older people and racial and ethnic minorities underrepresented in that research.
 
 ## Tanzania
 

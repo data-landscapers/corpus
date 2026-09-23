@@ -1,10 +1,10 @@
 ---
 title: Sectoral management information systems (HMIS, EMIS, etc.) — monthly update, August – September 2026
-compiled: 2026-09-21
-period: 2026-08-01 to 2026-09-21
+compiled: 2026-09-23
+period: 2026-08-01 to 2026-09-23
 subject: dpi.mis
 places: DZA; AGO; BEN; BWA; BDI; CMR; CPV; CAF; COM; COG; CIV; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 85b5f7801e4b
+record: 9b7d3b4bf69e
 ---
 
 # Sectoral management information systems (HMIS, EMIS, etc.): monthly update, August – September 2026
@@ -46,6 +46,8 @@ The one new management system in the window sits outside the state's own stack. 
 Health and education information systems both gained instruments and neither reports a deliverable. A [EUR 8m technical-assistance agreement over 36 months covers the education management information system, the basic-education ministry's mapping platform, interconnection of the education databases and dynamic dashboards](https://www.unesco.org/fr/articles/lunesco-et-le-cameroun-signent-un-accord-pour-la-mise-en-oeuvre-du-projet-dappui-leducation-de-base); the funder is not stated and the signature date is not published. The [national digital health strategic plan launched on 4 March with an envelope of about FCFA 29bn across eight axes including governance, legal framework and health-information-system interoperability](https://leconomie.info/cameroun-un-plan-strategique-pour-developper-la-sante-numerique-entre-2026-et-2030/), and a [pandemic preparedness project was launched](https://echosante.info/securite-sanitaire-le-cameroun-lance-le-projet-pandemic-fund/) with no deliverable reported. Collection moved where the plans did not: the health ministry [took delivery of nearly 1,000 smartphones on 7 August to run the SCANFORM data-collection system in place of paper forms](https://cameroonpress.com/pres-de-1000-smartphones-pour-accelerer-la-transformation-numerique-du-systeme-de-sante/), across ten regions, 175 health districts and 395 facilities, with over 1,500 health workers to be trained. The counts are the ministry's own and no go-live date is given.
 
 ## Cape Verde
+
+The justice information system reported on its second year. The justice institute's evaluation, released on 16 September, [counts 46,000 criminal case files handled digitally across all 17 comarcas, an estimated 2.3 million sheets of paper saved, 401 justice professionals signing with qualified digital signatures and 110 trained in artificial intelligence](https://expressodasilhas.cv/pais/2026/09/17/justica-digital-ja-poupa-23-milhoes-de-folhas-de-papel/104656); the civil-process component waits on authorisation for three pilots.
 
 Procurement opened behind the announced health digitalisation. [Expressions of interest close on 18 September 2026 for a consultancy to train and support use of the health information system, its portal and the open-source district health platform, under a US$29m concessional health-security project](https://static.expressodasilhas.cv/media/pub/v2/pdf/2026/09/1788545549351.pdf). It is a training and support contract rather than a build — which is the part an announced system usually lacks, and the part that decides whether it is used.
 
@@ -165,7 +167,7 @@ The education ministry [validated the specification and mock-up of a portal to m
 
 ## Mauritius
 
-Two sector information systems sit at opposite ends of the same problem this window. A validation workshop [endorsed a proposal for a national Fisheries Information System, for submission under a multilateral fisheries fund's project-implementation grant window](https://lexpress.mu/node/561717) — a system that does not exist yet and has no award behind it. Meanwhile the health estate shows what happens after a system is built: patients discharged from a national centre [were reported still looking for their medical records](https://ionnews.mu/lia-au-service-de-la-sante-des-patients-cherchent-toujours-leurs-dossiers-medicaux/), against a one-patient-one-record ambition. The repository holds no delivery figure for either.
+A validation workshop [endorsed a proposal for a national Fisheries Information System, for submission under a multilateral fisheries fund's project-implementation grant window](https://lexpress.mu/node/561717) — a system that does not exist yet and has no award behind it. Patients discharged from a national centre [were reported still looking for their medical records](https://ionnews.mu/lia-au-service-de-la-sante-des-patients-cherchent-toujours-leurs-dossiers-medicaux/), against a one-patient-one-record ambition. The repository holds no delivery figure for either.
 
 ## Morocco
 
@@ -215,11 +217,11 @@ The planning ministry [launched a digital system on 8 September to monitor Natio
 
 ## South Africa
 
-The student funding scheme's administrator submitted a stabilisation plan stating that [ICT is the scheme's biggest operational risk, fragmented, manual and not fit for purpose](https://www.itweb.co.za/article/nsfas-says-ict-is-its-biggest-operational-risk/rW1xLv5ngJy7Rk6m). The same submission reports 66 major audit findings and a disclaimer audit opinion from the Auditor-General, 115 overdue internal audit findings and nine material irregularities, five of them data or systems defects. The scheme was placed under administration in May and its governance failures referred to the Special Investigating Unit.
+The administrator of the student funding scheme submitted a stabilisation plan stating that [ICT is the scheme's biggest operational risk: fragmented, manual and not fit for purpose](https://www.itweb.co.za/article/nsfas-says-ict-is-its-biggest-operational-risk/rW1xLv5ngJy7Rk6m). The same submission reports 66 major audit findings and a disclaimer audit opinion from the Auditor-General, 115 overdue internal audit findings and nine material irregularities, five of them data or systems defects. The scheme was placed under administration in May and its governance failures were referred to the Special Investigating Unit.
 
-A revenue system went back to market. The home affairs department [re-advertised its revenue administration system over 275 fixed sites and 230 mobile units, replacing a generic 400-plus site listing and making point-of-sale devices and mobile offices the primary transaction channels, with only suppliers on the state IT agency's RFB 1183 transversal contract eligible to bid](https://www.itweb.co.za/article/top-ict-tenders-home-affairs-expands-revenue-admin-tender/dgp45MaBlAbqX9l8). It is a tender, not an award: no value, closing date, bidder or delivery schedule is held.
+The home affairs department [re-advertised its tender for a revenue administration system covering 275 fixed sites and 230 mobile units, in place of a generic listing of more than 400 sites, with point-of-sale devices and mobile offices as the main transaction channels and only suppliers on the state IT agency's RFB 1183 transversal contract eligible to bid](https://www.itweb.co.za/article/top-ict-tenders-home-affairs-expands-revenue-admin-tender/dgp45MaBlAbqX9l8). No value, closing date or delivery schedule has been published.
 
-The police have no single system for logging reported incidents, on the state IT agency's own tender: it [is procuring a 36-month incident management solution, bids closing 22 September](https://www.itweb.co.za/article/top-ict-tenders-sita-sees-activity-surge/lwrKx73YyZRqmg1o).
+The state IT agency [is procuring a 36-month incident management system for the police, with bids closing on 22 September](https://www.itweb.co.za/article/top-ict-tenders-sita-sees-activity-surge/lwrKx73YyZRqmg1o). The tender states that the police have no single system for logging reported incidents.
 
 ## South Sudan
 

@@ -1,10 +1,10 @@
 ---
 title: Regional collaboration — monthly update, August – September 2026
-compiled: 2026-09-21
-period: 2026-08-01 to 2026-09-21
+compiled: 2026-09-23
+period: 2026-08-01 to 2026-09-23
 subject: gov.regional
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COG; CIV; DJI; COD; EGY; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZWE
-record: 7de5d1c8eaf9
+record: 9c3a37477333
 ---
 
 # Regional collaboration: monthly update, August – September 2026
@@ -188,7 +188,7 @@ Accession to the continental free-trade area reached its last procedural step: t
 
 ## South Africa
 
-Regional cooperation moved from documents to a stated test this month. The higher education minister [told a regional vice-chancellors' meeting in Johannesburg on 31 August that the region must build its own computing capability, trusted datasets, African-language technologies and cybersecurity rather than rent intelligence from others](https://www.sanews.gov.za/south-africa/sadc-must-build-its-own-knowledge-drive-industrialisation-says-manamela), setting agreement on a regional higher education data system among five immediate priorities. The test he named is the useful part: by the June 2027 ministers' meeting the region should be able to point to students and academics who have moved and to data being shared, not to completed documents. [The meeting's own message was the same](https://www.wits.ac.za/news/latest-news/general-news/2026/2026-09/universities-should-turn-regional-cooperation-into-action.html) - build the practical systems that let qualifications, research and skills cross borders. No design, host, funding or data scope is stated for the data system.
+On 31 August the higher education minister [told a meeting of regional vice-chancellors in Johannesburg that the region must build its own computing capability, trusted datasets, African-language technologies and cybersecurity rather than rent intelligence from others](https://www.sanews.gov.za/south-africa/sadc-must-build-its-own-knowledge-drive-industrialisation-says-manamela). One of the minister's five immediate priorities is agreement on a regional higher education data system. By the ministers' meeting in June 2027, the minister said, the region should be able to point to students and academics who have moved and to data being shared. [The meeting's closing message was the same](https://www.wits.ac.za/news/latest-news/general-news/2026/2026-09/universities-should-turn-regional-cooperation-into-action.html): build the systems that let qualifications, research and skills cross borders. No design, host, funding or data scope has been set for the data system.
 
 ## South Sudan
 
@@ -218,6 +218,6 @@ The revenue authority [signed a third customs memorandum with South Sudan's, the
 
 ## Zimbabwe
 
-A Rwandan immigration delegation toured two border posts on 29 July under a 2024 bilateral memorandum ([visit account](https://www.zbcnews.co.zw/rwanda-eyes-zimbabwes-border-technology-to-strengthen-immigration-systems/)).
+In August, Southern African regulators, data-protection authorities and artificial-intelligence task forces [met in Harare for a three-day workshop to harmonise national data-governance rules](https://spikedmedia.co.zw/one-voice-for-africas-data-inside-harares-push-to-harmonise-the-rules-of-the-digital-age/), anchored to the African Union data policy framework, a continental data governance blueprint, the regional data strategy and a UNESCO toolkit, with the convening body noting that only 1% of data-centre capacity sits within Africa. No outcome document, commitment or timetable from it is held.
 
-Harare then hosted the regional attempt to write common rules for the thing all these systems run on. Southern African regulators, data-protection authorities and artificial-intelligence task forces [met for a three-day workshop to harmonise national data-governance rules](https://spikedmedia.co.zw/one-voice-for-africas-data-inside-harares-push-to-harmonise-the-rules-of-the-digital-age/), anchored to the African Union data policy framework, a continental data governance blueprint, the regional data strategy and a UNESCO toolkit, with the convening body noting that only 1% of data-centre capacity sits within Africa. No outcome document, commitment or timetable from it is held.
+On 21 September POTRAZ, which holds the second vice-presidency of the Network of African Data Protection Authorities, [marked the first Africa Data Protection Day](https://technomag.co.zw/potraz-joins-continental-partners-to-commemorate-inaugural-africa-data-protection-day/) with a call for privacy-by-design; the network has 34 member authorities.
