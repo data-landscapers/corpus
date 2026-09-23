@@ -1,11 +1,11 @@
 ---
 title: Mali — monthly update, August – September 2026
-compiled: 2026-09-18
-period: 2026-08-01 to 2026-09-18
+compiled: 2026-09-23
+period: 2026-08-01 to 2026-09-23
 place: MLI
-ledger_rows: 35
+ledger_rows: 36
 not_held: 1
-record: 200102063602
+record: 9ccc9058281c
 ---
 
 # Mali: monthly update, August – September 2026
@@ -49,6 +49,8 @@ The largest privacy fact of the month came from outside the country. A model pro
 On 24 July Mali was [re-elected to the African Telecommunications Union board for 2027-2031](https://gouvernement.ml/communique-du-conseil-des-ministres-cm-n2026-30-sgg/) at the Abuja plenipotentiary.
 
 The same 1 August recommendations also included [a protocol between AES states to harmonise AI governance](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html).
+
+The Burkinabè, Malian and Nigerien telecommunications regulators [announced on 23 September that they would sign a cooperation convention in Ouagadougou on 25 September creating a Council of Sahel Regulators](https://lefaso.net/spip.php?article149443), covering confederation roaming, cybersecurity, frequency management and mutual recognition of type-approved equipment.
 <!-- /narrative -->
 ### Standards
 

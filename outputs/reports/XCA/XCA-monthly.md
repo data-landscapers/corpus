@@ -1,11 +1,11 @@
 ---
 title: Central Africa — monthly update, August – September 2026
-compiled: 2026-09-21
-period: 2026-08-01 to 2026-09-21
+compiled: 2026-09-23
+period: 2026-08-01 to 2026-09-23
 place: XCA
-ledger_rows: 13
+ledger_rows: 14
 not_held: 0
-record: 78484b24d0ad
+record: e91f98b8fb2b
 ---
 
 # Central Africa: monthly update, August – September 2026
@@ -67,6 +67,8 @@ The regional central bank named a digital currency as a reform priority. Its gov
 
 <!-- narrative: systems--data-statistics -->
 A nine-day CEMAC/ILO workshop [closed in Pointe-Noire on 27 August](https://www.adiac-congo.com/content/statistiques-du-travail-les-pays-de-la-cemac-renforcent-leurs-capacites-en-la-matiere-171301), producing a regional methodological guide and a preliminary roadmap toward quarterly labour-force surveys across the six member states — against the organisers' own statement that no member state currently runs one. The [World Bank-financed HISWACA workshop put informal employment above 65% of jobs bloc-wide and unemployment ranging from 1.1% in Chad to nearly 20% in Gabon](https://www.adiac-congo.com/content/statistiques-du-travail-les-pays-de-la-cemac-renforcent-leurs-capacites-en-la-matiere-171301).
+
+CEMAC experts from six member states [opened preparatory work in Libreville on 21 September on national energy information systems and a common community system, examining a draft community regulation on energy data and a regional roadmap](https://www.gabonreview.com/energie-la-cemac-prepare-un-systeme-dinformation-commun/), ahead of a ministerial meeting on 25 September; no regulation is adopted.
 <!-- /narrative -->
 
 ## Capacity and inclusion

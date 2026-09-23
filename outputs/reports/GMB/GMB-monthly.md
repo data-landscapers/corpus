@@ -1,11 +1,11 @@
 ---
 title: Gambia — monthly update, August – September 2026
-compiled: 2026-09-21
-period: 2026-08-01 to 2026-09-21
+compiled: 2026-09-23
+period: 2026-08-01 to 2026-09-23
 place: GMB
 ledger_rows: 52
 not_held: 4
-record: 006a21331fe5
+record: 709bedb04cd5
 ---
 
 # Gambia: monthly update, August – September 2026
@@ -114,6 +114,8 @@ The country published its first unified land policy, and it is the month's clear
 A register the country already runs was disputed in the same week. Opposition parties put it to the electoral commission that [212,095 supplementary registrations had been announced against 179,445 records on the data distributed to them](https://gambiaj.com/news/politics/elections/political-parties-renew-concerns-over-iec-voter-register-discrepancies/), a gap the commission attributed to unverified processing outputs. No reconciled figure has been published, and a presidential election is due this year.
 
 Two registers moved from intention to a dated position. The land system has consultants [drafting a land information system with the draft due at the end of September 2026, the lands minister putting land disputes at 62% of court cases](https://www.voicegambia.com/land-disputes-consume-major-share-of-gambias-judicial-resources-reveals-minister-bah/) — which is worth reading against what a parliamentary committee found a year earlier: [leases taking up to five years, no land policy behind laws dating from the 1990s, and the survey department down to two of its eight vehicles](https://www.voicegambia.com/2025/11/28/national-assembly-committee-exposes-severe-gaps-in-land-administration/). And the tax system moved from planned to contracted: a [US$7.27m, 24-month contract signed on 7 October 2025 on lender funding](https://thepoint.gm/africa/gambia/headlines/gra-signs-7-2m-with-arabsofttmi-consortium-to-boost-itas), with the revenue authority since [briefing manufacturers ahead of rollout and pledging fully online filing](https://www.voicegambia.com/2026/06/17/gra-says-new-itas-will-transform-tax-administration-in-the-gambia/).
+
+On 22 September the lands minister told the National Assembly that [contracts for the World Bank-supported land digitalisation had been awarded, that leases would issue within three days once it is fully operational, and that the ministry was releasing about 50 backlogged lease files a week](https://thepoint.gm/africa/gambia/headlines/govt-promises-3-day-land-lease-under-new-digital-system). No contractor, value or go-live date was given.
 <!-- /narrative -->
 ### Sectoral management information systems
 

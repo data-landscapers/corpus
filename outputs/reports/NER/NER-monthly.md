@@ -1,11 +1,11 @@
 ---
 title: Niger — monthly update, August – September 2026
-compiled: 2026-09-21
-period: 2026-08-01 to 2026-09-21
+compiled: 2026-09-23
+period: 2026-08-01 to 2026-09-23
 place: NER
-ledger_rows: 41
+ledger_rows: 42
 not_held: 2
-record: 44b747847f44
+record: ebff837b5a1d
 ---
 
 # Niger: monthly update, August – September 2026
@@ -37,6 +37,8 @@ The online press answered the draft ordinance in its own name: fourteen editors 
 On 30 July a Nigerien technical mission led by the interior ministry's secretary-general was [received in Ouagadougou to study Burkina Faso's identification machinery](https://www.journalduniger.com/niger-burkina-cooperation-identite-numerique-biometrie/) — the civil-status modernisation directorate, the national identification office, the ICT agency and the WURI project. The delegation covered civil registration, migration, the digital agency, territorial surveillance, biometric-card production, the interior ministry's legal service and the ICT and finance ministries, and reported recommendations on issuing authentic documents and limiting document fraud.
 
 The confederation's communication regulators [opened a constitutive conference in Niamey on 17 September for a joint platform, framed around informational sovereignty and a common strategy against disinformation, with artificially generated content among the stated concerns](https://anp.ne/aes-creation-a-niamey-dune-plateforme-des-regulateurs-des-medias-et-communication-de-lespace-communautaire/). No charter, secretariat or powers have been published.
+
+The Burkinabè, Malian and Nigerien telecommunications regulators [announced on 23 September that they would sign a cooperation convention in Ouagadougou on 25 September creating a Council of Sahel Regulators](https://lefaso.net/spip.php?article149443), covering confederation roaming, cybersecurity, frequency management and mutual recognition of type-approved equipment.
 <!-- /narrative -->
 ### Standards
 

@@ -1,11 +1,11 @@
 ---
 title: Eswatini — monthly update, August – September 2026
-compiled: 2026-09-21
-period: 2026-08-01 to 2026-09-21
+compiled: 2026-09-23
+period: 2026-08-01 to 2026-09-23
 place: SWZ
-ledger_rows: 47
+ledger_rows: 50
 not_held: 3
-record: 701ed3266dca
+record: cb4a3d608c4b
 ---
 
 # Eswatini: monthly update, August – September 2026
@@ -74,6 +74,11 @@ A domestic internet provider put [E570,000 into free wireless access across the 
 <!-- narrative: ict-infrastructure--infra-connect -->
 The one dated position here is a standing statutory right rather than a change. Free adjudication of consumer complaints against communications providers [runs under the Eswatini Communications Commission Act 2013, with windows of one month for post and courier, three for broadcasting and six for telecommunications](https://times.co.sz/40791/technology-today/consumers-guide-to-type-approved-communications-equipment/). It is structural provision and not movement: no complaint volume, adjudication count or outcome is published against it.
 <!-- /narrative -->
+### Data Storage
+
+<!-- narrative: ict-infrastructure--infra-store -->
+The finance minister told Parliament on 22 September that [the disaster recovery site planned for Lubombo had failed to proceed, the US$10.4 million India Exim loan behind it had never been drawn, and Treasury had written to the lender asking to cancel it](https://times.co.sz/44419/news/govt-seeks-to-cancel-e182m-data-recovery-site-loan/). He also said [government needs a functional primary data centre before a backup, and that the science-park facility does not constitute a fully operational data centre](https://independentnews.co.sz/48729/news/govt-systems-crippled-by-digital-outages/). Its operator describes the same facility as Tier III.
+<!-- /narrative -->
 ### Cybersecurity
 
 <!-- narrative: ict-infrastructure--infra-cybersec -->
@@ -109,12 +114,19 @@ Addressing left the pilot stage in one town: [Matsapha became the first municipa
 
 The social registry is moving beyond its pilot region. The deputy prime minister [briefed Lubombo's members of parliament on 16 September ahead of household data collection there, asking them to build community trust in it](https://eswatinipositivenews.online/lubombo-mps-join-dpm-to-make-every-vulnerable-household-count/). No count of registered households has been published.
 <!-- /narrative -->
+### Sectoral management information systems
+
+<!-- narrative: dpi--dpi-mis -->
+The Integrated Financial Management Information System was [among the systems the ICT ministry listed as disrupted on 23 September](https://independentnews.co.sz/48729/news/govt-systems-crippled-by-digital-outages/), with technical experts engaged and no cause or restoration date given.
+<!-- /narrative -->
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
 The state's auditor put artificial intelligence at the centre of its own next four years. The Auditor-General [launched a strategic plan for 2026 to 2030 naming artificial intelligence and digital transformation as the route to stronger public-sector accountability, urging more than 80 audit officers to adopt them](https://techafricanews.com/2026/08/17/eswatini-auditor-general-urges-oag-staff-to-embrace-ai-and-digital-transformation/), developed with the INTOSAI Development Initiative and the African organisation of English-speaking supreme audit institutions. The plan text is not held, and no tool, data access, assurance standard or safeguard for audit use of artificial intelligence is stated — in a country whose national artificial-intelligence strategy is recorded as ***Not held***.
 
 The prime minister [publicly acknowledged the e-Visa platform failing on reliability, payment processing and turnaround, worst at peak periods, with no manual fallback while it is fixed](https://eswatinipositivenews.online/pm-calls-for-disruption-to-fix-tourism-bottlenecks/); tourism operators at the same conference described five-day waits.
+
+On 23 September the ICT ministry [acknowledged an ongoing outage across government web services, among them e-Visa, road transport permits, scholarship applications, the elderly grant service and deeds registration](https://independentnews.co.sz/48729/news/govt-systems-crippled-by-digital-outages/). It gave no cause and directed users to government service centres; a press report of a breach at the science park and a ransom demand was not confirmed by government.
 <!-- /narrative -->
 
 ## Digitalisation

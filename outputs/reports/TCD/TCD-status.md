@@ -1,12 +1,12 @@
 ---
 title: Chad: status report
-compiled: 2026-09-16
+compiled: 2026-09-23
 place: TCD
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 10
-sources_cited: 144
+sources_cited: 145
 sections_written: 37
 not_established: 0
 acquire_lines: 37
@@ -206,7 +206,7 @@ The ambition outruns the machinery, since Chad has [no dedicated digital governm
 
 The digital state stops at the centre: [less than half the population has access to broadband connectivity, and outside N'Djamena and the secondary cities there is no grid electrification at all](https://documents1.worldbank.org/curated/en/099102502282341480/pdf/P180000048eed6040a13200ddaf8abe650.pdf) (2023), while the financial management system covering treasury execution [runs at central government level only](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). Budget orientations published in August 2026 propose [generalising SIGFiP to local authorities, public establishments, projects and missions abroad](https://lendjampost.com/budget-2027-le-tchad-mise-sur-le-numerique-pour-verrouiller-les-finances-publiques/) for real-time monitoring of budget execution, with no rollout date attached.
 
-What exists below the national level is programme-specific, and mostly someone else's programme. Education has the widest reach, with management information functions [decentralised to two-thirds of the provinces](https://www.unicef.org/innocenti/stories/supporting-middle-tier-actors-chad-access-and-use-data-decision-making) and the remainder to follow (2025), though that concerns compiling and using data at province level rather than what the schools themselves record. Civil status is where local administration is most exposed: [ANATS, the Organisation Internationale de la Francophonie and N'Djamena city hall deepened civil-registry interoperability in April 2026](https://tribuneechos.com/tchad-lanats-et-loif-sunissent-pour-la-transformation-numerique-de-letat-civil/), and a [one-stop registration office opened at Bol in Lake province in November 2023](https://www.unicef.org/chad/stories/every-child-lake-chad-province-birth-certificate), putting registration alongside the health facilities that notify births.
+What exists below the national level is programme-specific, and mostly someone else's programme. Education has the widest reach, with management information functions [decentralised to two-thirds of the provinces](https://www.unicef.org/innocenti/stories/supporting-middle-tier-actors-chad-access-and-use-data-decision-making) and the remainder to follow (2025), though that concerns compiling and using data at province level rather than what the schools themselves record. Civil status is where local administration is most exposed: [N'Djamena city hall and ANATS signed a memorandum on 23 September 2026 launching a project, supported by the Organisation Internationale de la Francophonie, to digitise the commune's civil registers and connect its systems securely to ANATS's population and secure-documents system](https://lendjampost.com/etat-civil-la-mairie-de-ndjamena-engage-sa-transformation-numerique-avec-lanats/), after [interoperability work between the three began in April 2026](https://tribuneechos.com/tchad-lanats-et-loif-sunissent-pour-la-transformation-numerique-de-letat-civil/), and a [one-stop registration office opened at Bol in Lake province in November 2023](https://www.unicef.org/chad/stories/every-child-lake-chad-province-birth-certificate), putting registration alongside the health facilities that notify births.
 
 The measure of how far that has travelled is what was handed to officials at Sarh on 7-8 August 2026: [new monthly paper forms for collecting and transmitting civil-status data](https://tchadinfos.com/2026/08/08/sarh-un-atelier-pour-renforcer-la-collecte-et-la-transmission-des-donnees-detat-civil/), five years after the TASDJIL application was introduced. Registration coverage differs sharply between [neighbouring southern provinces under the same statute, the same fee waiver and the same national campaign](https://tchadinfos.com/2026/08/08/sarh-un-atelier-pour-renforcer-la-collecte-et-la-transmission-des-donnees-detat-civil/) (August 2026). Where the centre does reach into the provinces it tends to go around the local administration rather than through it: the July 2026 registration campaign [associates administrative and traditional authorities with the enrolment to vouch for its reliability](https://atpe.td/un-enfant-un-acte-de-naissance-une-operation-pour-enregistrer-un-million-denfants/) while the enrolment itself is run by ANATS teams.
 

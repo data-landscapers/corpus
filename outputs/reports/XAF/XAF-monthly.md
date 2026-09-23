@@ -3,9 +3,9 @@ title: Africa — monthly update, August – September 2026
 compiled: 2026-09-23
 period: 2026-08-01 to 2026-09-23
 place: XAF
-ledger_rows: 140
+ledger_rows: 142
 not_held: 3
-record: 52e7f57d3b60
+record: 8ce3298bf17e
 ---
 
 # Africa: monthly update, August – September 2026
@@ -67,6 +67,8 @@ Two research and governance efforts moved: an [African Humanitarian AI Citation 
 Two commercial programmes opened: a [technology company offered African students one year of its paid AI assistant tier free from August](https://blog.google/intl/en-africa/one-year-of-gemini-on-us-for-students/), with no country list, eligibility rule or statement of what happens after the year; and the same company's [Africa Applied AI Lab, based at the Accra AI Community Centre, opened applications on 17 August](https://www.ictworks.org/apply-now-google-africa-applied-ai-lab-for-founders/) for a co-development cohort running mid-September to early December, giving selected startups pre-release model access, mentorship and go-to-market support with no equity taken and no cash award guaranteed; cohort size and selection criteria are not stated.
 
 The scarcity behind African-language models is being attacked at the data layer. A research company [has set out to build training data for a thousand African languages, after years in which the absence of that data was what stopped anyone building language technology for the continent](https://techcabal.com/2026/09/08/mansa-ai-african-languages/). It is an ambition rather than a delivered corpus: no language list, licence, funding or release is held, and it sits alongside the grant programme covering twenty-six language-model projects recorded separately.
+
+The Commission's Infrastructure and Energy Department [put draft AU Guidelines on AI Governance and Regulation to an online open consultation on 23 and 24 September, with written submissions accepted to 30 September](https://news.internetsociety.org/webinar-23-24-sep-1200-utc-african-union-open-stakeholder-consultation-on-ai-governance-and-regulation/); the draft itself is not published.
 <!-- /narrative -->
 
 ## Shared systems and infrastructure
@@ -192,6 +194,8 @@ Afreximbank's corporate academy and CreditRegistry [signed a three-year memorand
 The Seoul ministerial [closed on 11 September with two AfDB-Korea agreements and a structure for an AI hub](https://www.rfi.fr/fr/afrique/20260912-le-sommet-cor%C3%A9e-du-sud-afrique-aboutit-sur-des-accords-pour-la-cr%C3%A9ation-d-un-hub-pour-l-ia); no sum is attached. The development bank also signed letters of intent with [KAIST on a three-year framework for AI and digital-governance training and research](https://www.afdb.org/en/news-and-events/press-releases/koafec-2026-african-development-bank-kaist-sign-agreement-advance-africas-digital-transformation-96783) and with [Korea's National Information Society Agency on data governance, AI-ready datasets and digital public infrastructure](https://www.afdb.org/en/news-and-events/press-releases/african-development-bank-and-koreas-national-information-society-agency-deepen-partnership-africas-ai-and-digital-transformation-96790), and put [cumulative Korean contributions to its KOAFEC trust fund at US$132.82m as at 31 May 2026](https://www.afdb.org/en/news-and-events/press-releases/africa-korea-strengthened-partnership-accelerate-innovation-investment-and-continents-digital-transformation-96768).
 
 Two memoranda outside Seoul: the UN Economic Commission for Africa and DHL Express [signed a three-year non-exclusive memorandum on 14 September to train small businesses in customs, e-commerce and digital trade](https://www.uneca.org/stories/eca-and-dhl-partner-to-advance-msmes-participation-in-intra-african-trade), and Smart Africa's secretariat [signed with a GovTech company of Ukrainian origin to build public services on its low-code platform](https://smartafrica.org/kitsoft-and-smart-africa-to-cooperate-on-digital-transformation-of-governments/). Neither states a budget.
+
+The African Telecommunications Union [signed a partnership with the UN Office for Digital and Emerging Technologies in July 2026 covering AI capacity building and digital public infrastructure](https://www.techreviewafrica.com/news/7388/unga81-atu-calls-for-stronger-protection-of-africas-critical-digital-infrastructure); no text or budget is published.
 <!-- /narrative -->
 ### New investments
 

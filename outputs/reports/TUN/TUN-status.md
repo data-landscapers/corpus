@@ -1,6 +1,6 @@
 ---
 title: Tunisia: status report
-compiled: 2026-09-16
+compiled: 2026-09-23
 place: TUN
 region: XNA
 built_by: STATUS-INIT
@@ -307,7 +307,7 @@ Two mechanisms rather than two statements were put in place over the window. [Th
 ### Digital divides
 <!-- include.divides -->
 
-[Access to Public Services for Women in Tunisia stood at 57.8 of 100 in 2023, 13th of 54 African states and unchanged over the preceding decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-tn.pdf) — a flat line across the same ten years in which the country's [internet and computer access improved faster than almost any other measure the index tracks](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-tn.pdf). The broader reading of how far access varies between groups moved the wrong way: [Equal Access to Public Services was 59.3 of 100 in 2023, 8th of 54, and 3.7 points below where it stood a decade earlier](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-tn.pdf). Connection spread; the gap between who can use what the state provides did not close with it.
+[Access to Public Services for Women in Tunisia stood at 57.8 of 100 in 2023, 13th of 54 African states and unchanged over the preceding decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-tn.pdf) — a flat line across the same ten years in which the country's [internet and computer access improved faster than almost any other measure the index tracks](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-tn.pdf). The broader measure of how far access varies between groups fell: [Equal Access to Public Services was 59.3 of 100 in 2023, 8th of 54, and 3.7 points below where it stood a decade earlier](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-tn.pdf). Connection spread; the gap between who can use what the state provides did not close with it.
 
 The division that is easiest to see on a map is geographic. [Household internet connection passes half only in Tunis, Ariana, Ben Arous, Monastir and Sousse, and falls below a fifth in Sidi Bouzid, Kasserine and Jendouba (2024)](https://www.ins.tn/sites/default/files-ftp3/files/publication/pdf/TIC-FR.pdf), and [the 2024 census puts the gap at 81.4 per cent of literate people aged 10 and over using the internet in urban areas against 61 per cent rural, on 40.4 per cent of households holding a home connection](https://www.ins.tn/sites/default/files-ftp3/files/publication/pdf/TIC-FR.pdf). That is the same belt that holds the country's industry and its administration, so the connectivity line and the service line fall in the same place rather than cutting across each other.
 

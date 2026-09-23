@@ -1,11 +1,11 @@
 ---
 title: Chad — monthly update, August – September 2026
-compiled: 2026-09-21
-period: 2026-08-01 to 2026-09-21
+compiled: 2026-09-23
+period: 2026-08-01 to 2026-09-23
 place: TCD
-ledger_rows: 50
+ledger_rows: 51
 not_held: 23
-record: 2759ccfc577f
+record: 178b525db421
 ---
 
 # Chad: monthly update, August – September 2026
@@ -137,6 +137,8 @@ The freight platform’s roll-out reached two more places. Training ran at Ngaou
 
 <!-- narrative: digitalisation--digital-localgov -->
 A second town began digitising its own services. The Abeche town hall, the provincial telecommunications delegation and the ICT development agency [met to strengthen a partnership digitising municipal services and training staff in digital tools](https://www.alwihdainfo.com/tchad-la-commune-dabeche-et-les-telecommunications-unissent-leurs-forces-pour-accelerer-la-digitalisation/). No service, budget or delivery date is published.
+
+In the capital, N'Djamena city hall and the secure-documents agency ANATS [signed a memorandum on 23 September launching a project, supported by the Francophonie organisation, to digitise civil registers and connect the town hall's systems securely to the national population and secure-documents system](https://lendjampost.com/etat-civil-la-mairie-de-ndjamena-engage-sa-transformation-numerique-avec-lanats/). No budget or completion date was given.
 <!-- /narrative -->
 ### Rural digital data capture
 

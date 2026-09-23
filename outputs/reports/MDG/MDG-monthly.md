@@ -1,11 +1,11 @@
 ---
 title: Madagascar — monthly update, August – September 2026
-compiled: 2026-09-21
-period: 2026-08-01 to 2026-09-21
+compiled: 2026-09-23
+period: 2026-08-01 to 2026-09-23
 place: MDG
-ledger_rows: 38
+ledger_rows: 39
 not_held: 5
-record: d9e08fb31c59
+record: 08a41379fd35
 ---
 
 # Madagascar: monthly update, August – September 2026
@@ -92,6 +92,8 @@ On 28 July the national police [presented a free public reporting platform at An
 On 3 August the higher-education ministry [presented an accreditation platform](https://2424.mg/enseignement-superieur-la-plateforme-habilitation-accreditation-et-equivalence-mise-sur-la-transparence-et-la-digitalisation-des-procedures/) centralising applications for authorisation, accreditation and equivalence and letting an institution track its file. It published its queue with it: 546 applications as at 10 July 2026, of which about 250 are expected at the commission session opening on 21 September 2026.
 
 Two further builds are financed rather than delivered. The Maritime Single Window, centralising port administrative procedures, is [being deployed on more than 3.4bn Indonesian rupiah, about 816m ariary, from Indonesia's international development agency](https://newsmada.com/2026/08/07/deploiement-de-maritime-single-window-lindonesie-debloque-816-millions-dariary/) through the port, maritime and river agency; no go-live date, port coverage or procedure list is stated. And the social-protection fund is [recruiting a consultancy to build a human-resources management ERP under a World Bank-financed project, bids due 26 August](https://www.fid.mg/recrutement-dun-cabinet-pour-la-mise-en-place-dun-logiciel-erp-de-gestion-des-ressources-humaines-grh-du-fid-n-45-ami-fid-logiciel-erp-fsr-26-26-08-2026/), having separately tendered on 7 August for a payroll server under a World Bank contingent emergency response project. Neither tender discloses a value.
+
+On 21 September the commerce ministry [began training its regional directorates at Mahamasina on Alalana, a platform for export-authorisation requests covering products including vanilla and clove](https://www.lexpress.mg/2026/09/commerce-les-demarches-dexportation.html); no launch date, cost or vendor was given.
 <!-- /narrative -->
 
 ## Technology

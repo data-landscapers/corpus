@@ -1,11 +1,11 @@
 ---
 title: Libya — monthly update, August – September 2026
-compiled: 2026-09-21
-period: 2026-08-01 to 2026-09-21
+compiled: 2026-09-23
+period: 2026-08-01 to 2026-09-23
 place: LBY
 ledger_rows: 56
 not_held: 2
-record: 94865edbe320
+record: 133fbac1d88a
 ---
 
 # Libya: monthly update, August – September 2026
@@ -102,7 +102,7 @@ The forgery count grew: [3,090 national numbers issued on forged civil-status da
 <!-- narrative: dpi--dpi-pay -->
 Payments moved outward rather than inward. The central bank [is reported to be planning accession to China's cross-border interbank payment system after talks with the People's Bank of China](https://www.scmp.com/news/china/diplomacy/article/3364171/why-chinese-yuan-could-soon-be-africas-most-important-currency). The account is a foreign newspaper's: no Libyan statement, timetable or membership step is held, and nothing is said about what it would mean for settlement currency or correspondent banking.
 
-The central bank governor set out four things at once at a Tripoli conference on 7 September: a [link to the Arab regional payments platform, a study track on a central bank digital currency and stablecoins, a cyber-skills programme, and a pilot for accession to China's cross-border interbank system targeted at early 2027](https://libyaherald.com/2026/09/cbl-governor-issa-launches-several-initiatives-and-reviews-achievements-at-tripoli-arab-savings-and-financial-literacy-conference). None carries an instrument, budget, participant list or delivery date, and the transfer-value figure the same account reports is not taken into the repository.
+At a Tripoli conference on 7 September the central bank governor announced a [link to the Arab regional payments platform, a study track on a central bank digital currency and stablecoins, a cyber-skills programme, and a pilot for accession to China's cross-border interbank system targeted at early 2027](https://libyaherald.com/2026/09/cbl-governor-issa-launches-several-initiatives-and-reviews-achievements-at-tripoli-arab-savings-and-financial-literacy-conference). None carries an instrument, budget, participant list or delivery date, and the transfer-value figure the same account reports is not taken into the repository.
 
 The central bank rewrote the wallet rules. [Circular 9/2026 replaces the 2017 instructions for licensed electronic-payment companies, setting daily limits for Libyans of LYD 100,000 person to person, 500,000 person to business and 2 million business to business, lower limits for foreigners, and opening wallets to lawful residents on a passport or residence document and a phone number in their name](https://bankawy.net/banks/mssrf-lebea-almrkze-edta-dtwabtd-jdedtt-llm/bankawy/). No count of wallets in use is published.
 <!-- /narrative -->

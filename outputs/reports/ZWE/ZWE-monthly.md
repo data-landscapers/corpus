@@ -3,9 +3,9 @@ title: Zimbabwe — monthly update, August – September 2026
 compiled: 2026-09-23
 period: 2026-08-01 to 2026-09-23
 place: ZWE
-ledger_rows: 65
+ledger_rows: 66
 not_held: 7
-record: 7eca332a6df1
+record: 59f2490757bf
 ---
 
 # Zimbabwe: monthly update, August – September 2026
@@ -195,6 +195,8 @@ A locally built enterprise platform was [formally launched at a university techn
 
 <!-- narrative: technology--tech-innovate -->
 The same institute's [innovation hub hosted a three-day expo from 28 to 30 July](https://www.hit.ac.zw/2026/08/02/designing-an-assured-future-hit-closes-technovation-expo-2026-in-style/) with an anticipated 10,000 participants, and carries a technopreneurship centre and a new centre for artificial intelligence. It follows the [presidential commissioning on 27 July of a university industrial incubation centre supporting 11 start-ups](https://www.uz.ac.zw/index.php/commissioning-of-the-specialist-medical-centre) across agriculture, ICT, engineering, pharmaceuticals, health, transport and energy. Attendance is the organisers' own expectation rather than a count.
+
+The Civil Aviation Authority of Zimbabwe [approved Drone Solutions Zimbabwe to fly beyond-visual-line-of-sight deliveries of vaccines, blood, samples and medicines daily, after a demonstration programme completed in August](https://www.newzimbabwe.com/zimbabwe-clears-drones-to-deliver-vaccines-blood-and-medicines/); the approval was reported on 22 September without its own date.
 <!-- /narrative -->
 
 ## Capacity
