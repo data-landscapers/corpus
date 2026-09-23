@@ -1,5 +1,6 @@
 ## 22 September 2026
 
+- The non-state finance table adds seven deals worth US$151m, taking it from 1,478 to 1,485: debt and equity for WIOCC and its data centre arm OADC, a MIGA guarantee for Raxio's data centres, feasibility funding for a data centre in Côte d'Ivoire, and DEG's 2015 stake in Ghana's Surfline. Totals rise for Côte d'Ivoire, Ghana, Nigeria, South Africa and the Sub-Saharan Africa regional line, almost all of it data centre and fibre finance.
 - The Datasets page has new introductions, lists Finance first, and now carries the explanation of why total digital investment cannot yet be calculated, which has left the Finance page. The data centre table's *still being finalised* notice has been removed.
 - Finance is now two pages, Non-state finance and Budgets, and has left the navigation bar; reach it from the home page or Datasets. The national budget tables have been withdrawn while the work continues, so the Budgets page carries an introduction only.
 - Reports are now written in plainer English: each paragraph opens with the fact rather than a summary line. Earlier text is revised as reports are next updated.
