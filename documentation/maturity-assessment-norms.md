@@ -186,7 +186,7 @@ Notes:
 | dpi.pay--cross-border-functionality | S | AU | DTS; AfCFTA DTP Art. 15; PAPSS | Cross-border mobile money framework; single African payments area | top | G20/FSB cross-border targets (cost ≤ 1 %, ≤ 3 % remittances by 2030) |
 | dpi.pay--consumer-protection | I | AU | DTS; AfCFTA DTP Art. 27; Annex on Digital Payments | Four dimensions: disclosure, responsible lending, data privacy, dispute resolution | rungs | G20/OECD HLPs on Financial Consumer Protection (2022) |
 | dpi.registry--population-register | S | AU | DTS | "Establish electronic government registers … starting with an electronic population registry" | top | UN P&R Vital Statistics Rev. 3 paras 97–110 |
-| dpi.registry--civil-register | S | AU | DTS; APAI-CRVS | Legal identity via civil registration; CRVS Decade 2017–2026; 100 % / 80 % targets | target | UN P&R Rev. 3 para 68 |
+| dpi.registry--civil-register | S | AU | DTS; APAI-CRVS | Legal identity via civil registration; CRVS Decade 2017–2026; 100 % birth and 80 % death registration (SDG 17.19.2(b), restated in CRMC/6 working papers; not a CAMCR target — §6) | target | UN P&R Rev. 3 para 68 |
 | dpi.registry--address-register | S | global | UPU "Addressing the world" (2012) | National addressing policies; S42 standard | top | — |
 | dpi.registry--business-register | S | AU | DTS; AfCFTA DTP Art. 14 | "eBusiness register"; digital identity for juridical persons | top | UNCITRAL Legislative Guide on Business Registries (2018) for rungs |
 | dpi.registry--social-protection-register | S | AU | Protocol on Social Protection (2022) Art. 23 | Social registries and MIS | top | World Bank 2017 typology |
@@ -199,7 +199,7 @@ Notes:
 | dpi.mis--justice | S | AU | ACHPR Fair Trial Principles (2003) | Systems for recording proceedings, storing information, public access | top | — |
 | dpi.mis--tax | S | global | TADAT (2019) POA1, POA4, POA5 | E-filing, e-payment, registration integrity (A–D) | rungs | GTMI I-7, I-21 |
 | dpi.mis--customs | S | AU | AfCFTA Protocol on Trade in Goods Annexes 3 and 4 | Customs automation; single window; risk management; e-payment | top | WCO Revised Kyoto Convention ch. 7; GTMI I-8, I-23 |
-| dpi.mis--land | S | AU | AU Declaration on Land (2009) | As land register | top | UN-GGIM FELA |
+| dpi.mis--land | S | AU | AU Declaration on Land (2009); Framework and Guidelines on Land Policy | As land register: F&G §3.6.2 computerised Land Information Systems for land rights delivery | top | UN-GGIM FELA |
 | dpi.govtech--e-government-services | S | AU | DTS; Public Service Charter Art. 8 | "single digital gateway"; G2B, G2G, G2C services; modern technologies in service delivery | top | UN EGDI bands; GTMI groups A–D, I-19 |
 
 Notes:
