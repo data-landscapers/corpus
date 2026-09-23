@@ -4,7 +4,7 @@ compiled: 2026-09-23
 period: 2026-08-01 to 2026-09-23
 subject: dpi.govtech
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 1cd979592539
+record: d7a813c56b1e
 ---
 
 # Other GovTech and e-Gov: monthly update, August – September 2026
@@ -151,6 +151,8 @@ The state's auditor put artificial intelligence at the centre of its own next fo
 
 The prime minister [publicly acknowledged the e-Visa platform failing on reliability, payment processing and turnaround, worst at peak periods, with no manual fallback while it is fixed](https://eswatinipositivenews.online/pm-calls-for-disruption-to-fix-tourism-bottlenecks/); tourism operators at the same conference described five-day waits.
 
+On 23 September the ICT ministry [acknowledged an ongoing outage across government web services, among them e-Visa, road transport permits, scholarship applications, the elderly grant service and deeds registration](https://independentnews.co.sz/48729/news/govt-systems-crippled-by-digital-outages/). It gave no cause and directed users to government service centres; a press report of a breach at the science park and a ransom demand was not confirmed by government.
+
 ## Ethiopia
 
 The unified public-service platform launched with [185 services against 41 across twelve federal agencies a year earlier](https://techreviewafrica.com/news/5997/ethiopia-launches-unified-mesob-platform-to-accelerate-national-digital-transformation), anchored on the national identity credential. An account of 13 August puts the platform at [more than 2,200 services](https://www.biometricupdate.com/202608/benin-draws-lessons-from-ethiopia-to-shape-its-dpi-development-roadmap), on the occasion of a Beninese benchmarking visit; the repository cannot reconcile that with the launch count two months earlier and the two may rest on different counting bases. Its own regional executives say [services are being onboarded before the systems beneath them are digitised](https://birrmetrics.com/mesob-meets-the-monster-it-was-built-to-kill/), that two incompatible integration models have emerged, that no legal framework compels an institution to digitise before joining, and that the platform ran close to a year with no dedicated regulatory framework. Separately the Auditor General's annual report, presented on 6 July, [credits electronic procurement with the decline in cash shortages across 163 audited federal institutions](https://www.ofag.gov.et/ofag/the-office-of-the-federal-auditor-general-presents-its-annual-audit-report-to-the-house-of-peoples-representatives/) while finding budget-execution gaps, billions of Birr uncollected and repeated financial-rule violations alongside the digital adoption. No Birr amount is attached to the credit, and the report itself is not held.
@@ -180,6 +182,8 @@ The revenue side gained a plan on 12 August. A [Korean-backed Tax Modernisation 
 Two systems moved in opposite directions in the same week. The online passport application service [went down on 25 August, the foreign ministry confirming a technical fault the same day and naming no cause and no restoration date](https://www.graphic.com.gh/news/general-news/ghana-passport-online-portal-down-over-technical-problem.html). The accountant-general's department, meanwhile, [will suspend from 15 September the salaries of government employees whose national identity details are missing from or do not match the payroll system, ahead of a nationwide re-verification exercise](https://www.myjoyonline.com/government-workers-without-valid-nia-details-risk-salary-suspension-from-september-15/), the directive prompted by discrepancies surfaced when the upgraded payslip system left some employees unable to open their payslips.
 
 The Rent Control Department's acting commissioner [called for an investigation into a digitisation programme on which US$1.7m was reportedly spent, having found four computers at the facility](https://www.adomonline.com/heads-must-roll-there-is-nothing-to-show-for-npps-1-7m-digitisation-rent-control-boss/). No audit finding is held.
+
+The tourism authority's chief executive [said on 18 September that a Ghana Tourism Information System will carry the sector's registration, licensing and renewal, levy filing and payment, establishment records and public verification](https://www.graphic.com.gh/news/general-news/ghana-news-gta-pushes-digital-reset-for-tourism-sector.html). No launch date, cost or vendor is stated.
 
 ## Guinea
 
@@ -244,6 +248,8 @@ On 28 July the national police [presented a free public reporting platform at An
 On 3 August the higher-education ministry [presented an accreditation platform](https://2424.mg/enseignement-superieur-la-plateforme-habilitation-accreditation-et-equivalence-mise-sur-la-transparence-et-la-digitalisation-des-procedures/) centralising applications for authorisation, accreditation and equivalence and letting an institution track its file. It published its queue with it: 546 applications as at 10 July 2026, of which about 250 are expected at the commission session opening on 21 September 2026.
 
 Two further builds are financed rather than delivered. The Maritime Single Window, centralising port administrative procedures, is [being deployed on more than 3.4bn Indonesian rupiah, about 816m ariary, from Indonesia's international development agency](https://newsmada.com/2026/08/07/deploiement-de-maritime-single-window-lindonesie-debloque-816-millions-dariary/) through the port, maritime and river agency; no go-live date, port coverage or procedure list is stated. And the social-protection fund is [recruiting a consultancy to build a human-resources management ERP under a World Bank-financed project, bids due 26 August](https://www.fid.mg/recrutement-dun-cabinet-pour-la-mise-en-place-dun-logiciel-erp-de-gestion-des-ressources-humaines-grh-du-fid-n-45-ami-fid-logiciel-erp-fsr-26-26-08-2026/), having separately tendered on 7 August for a payroll server under a World Bank contingent emergency response project. Neither tender discloses a value.
+
+On 21 September the commerce ministry [began training its regional directorates at Mahamasina on Alalana, a platform for export-authorisation requests covering products including vanilla and clove](https://www.lexpress.mg/2026/09/commerce-les-demarches-dexportation.html); no launch date, cost or vendor was given.
 
 ## Malawi
 

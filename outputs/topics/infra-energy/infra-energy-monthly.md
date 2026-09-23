@@ -3,13 +3,13 @@ title: Energy — monthly update, August – September 2026
 compiled: 2026-09-23
 period: 2026-08-01 to 2026-09-23
 subject: infra.energy
-places: BWA; BFA; BDI; CMR; CAF; TCD; COM; ETH; GMB; GHA; KEN; LSO; LBY; MDG; MWI; MUS; MOZ; SLE; ZAF; SSD; UGA; ZMB; ZWE
-record: 61b75de6a969
+places: BWA; BFA; BDI; CMR; CAF; TCD; COM; ETH; GMB; GHA; KEN; LSO; LBY; MDG; MWI; MUS; MOZ; SLE; ZAF; SSD; TGO; UGA; ZMB; ZWE
+record: 44869dcd98fa
 ---
 
 # Energy: monthly update, August – September 2026
 
-*23 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*24 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -104,6 +104,10 @@ Two connections completed in one week. A project [connecting more than 400 custo
 The larger supply picture moved too: the energy minister reported on 18 August that [transmission works are advancing to bring Ugandan hydropower to Juba through Nimule](https://www.eyeradio.org/juba-set-to-receive-karuma-hydropower-by-late-2026-says-energy-minister/), with a distribution substation already built at Nesitu. Against a rural population almost entirely unserved, four hundred customers is the scale of what completed.
 
 The operator [reported more than 500 sites modernised with solar-hybrid power, diesel use at them down by more than half and population broadband coverage at 85%%](https://techafricanews.com/2026/09/14/mtn-south-sudan-expands-network-coverage-to-85-percent-through-infrastructure-modernisation/), on its own account.
+
+## Togo
+
+The energy ministry [put out an international tender for 5,200 smart-metering devices for the state utility CEET, 1,200 modems for medium-voltage meters and 4,000 low-voltage data concentrators, under its revenue protection programme and financed from the IDA-backed IDEA project, with bids due 28 October 2026; official 2026 figures put the utility's technical and commercial losses at nearly 16%](https://www.togofirst.com/en/energy/2109-20123-togo-launches-tender-for-5-200-smart-meter-devices-for-state-power-utility).
 
 ## Uganda
 

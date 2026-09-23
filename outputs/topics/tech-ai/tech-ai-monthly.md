@@ -4,7 +4,7 @@ compiled: 2026-09-23
 period: 2026-08-01 to 2026-09-23
 subject: tech.ai
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COM; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GHA; KEN; LBR; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 9e0e99ef3874
+record: 26512c864074
 ---
 
 # AI: monthly update, August – September 2026
@@ -71,6 +71,8 @@ The meteorological agency [signed a memorandum with China's meteorological admin
 
 The national AI conference ended with a list and a deadline: [77 priority use cases selected from hundreds, and a national roadmap for them to be finalised within three weeks](https://www.lemeridien.ci/intelligence-artificielle-la-cote-divoire-retient-77-priorites-et-se-donne-trois-semaines-pour-passer-a-laction/). The state [signed a voluntary national AI pact with the employers' confederation and the chamber of commerce](https://afriksoir.net/cote-divoire-letat-et-le-prive-scellent-un-pacte-pour-accelerer-la-revolution-de-lia/), with no legal or financial obligation attached.
 
+A Swiss-founded research centre in Côte d'Ivoire is one of four African partners in a [four-year, GBP 4.4m Wellcome Trust programme led by the University of Cape Town, pairing open-source microscopes with machine-learning image analysis for infectious-disease research](https://www.itweb.co.za/article/r101m-uct-project-brings-ai-microscopy-to-africa/LPp6V7rBYJb7DKQz), which began in September.
+
 ## Djibouti
 
 The national strategy in preparation since January was presented. The ministry [convened cross-ministerial focal points on 15 August](https://www.techreviewafrica.com/news/6777/djibouti-intensifies-preparations-for-national-artificial-intelligence-forum) to prepare the country's first national artificial-intelligence forum, which [opened at the Palais du Peuple on the morning of 2 September under the President's patronage](https://www.lanation.dj/premier-forum-national-sur-lintelligence-artificielle-djibouti-prend-le-virage-de-la-revolution-technologique/). On 3 September the [strategy's main lines were presented for 2026 to 2030 on six axes - data and AI governance, cybersecurity, training, research, innovation and inclusion](https://www.wearetech.africa/fr/fils/actualites/tech/djibouti-se-dote-d-une-strategie-d-ia-sur-fond-de-preparation-encore-limitee). Its text is not published.
@@ -83,7 +85,9 @@ The forum also [carried a first national AI prototyping competition, putting you
 
 The national artificial-intelligence strategy [was presented and validated by government at a Kinshasa ceremony on 4 August](https://actu7.cd/2026/08/04/rdc-augustin-kibassa-lance-la-politique-sectorielle-de-leconomie-numerique-et-la-strategie-nationale-de-lia-pour-batir-un-congo-souverain-connecte-innovant-et-inclusif/), alongside the sectoral digital economy policy. Validated is not adopted: no adoption date is established and the text is not held.
 
-Underneath the strategy, one piece of actual capability began. [Collection of Lingala language data for artificial intelligence was launched alongside the digital code campaign](https://acp.cd/economie/rdc-la-campagne-de-vulgarisation-du-code-du-numerique-lancee-a-kinshasa/). No corpus size, licence, custodian or consent arrangement for the speakers' contributions is stated.
+[Collection of Lingala language data for artificial intelligence was launched alongside the digital code campaign](https://acp.cd/economie/rdc-la-campagne-de-vulgarisation-du-code-du-numerique-lancee-a-kinshasa/). No corpus size, licence, custodian or consent arrangement for the speakers' contributions is stated.
+
+The digital economy ministry [announced in a communiqué of 22 September that Anthropic's Claude is officially available in the country, for Claude.ai and commercial API access](https://www.wearetech.africa/fr/fils/actualites/tech/rdc-claude-l-assistant-d-ia-d-anthropic-desormais-officiellement-accessible), citing approaches it had made to the company. No terms were given.
 
 ## Egypt
 
@@ -132,6 +136,8 @@ The draft then drew its first substantive submission, and a headline figure. A c
 The ministry meanwhile put up an assistant of its own. The ICT cabinet secretary [put up a platform, hosted on his own official website, intended as a single entry point routing citizens to the agency or service responsible for a given digital programme](https://www.kenyans.co.ke/news/126535-cs-kabogo-unveils-ai-platform-transform-ict-ministry-operations); its developers say it will launch once the underlying information, routing and review safeguards are in place, so it is not yet answering questions. A public-information service sited on a minister's website rather than a government domain carries no stated operator or accountability route.
 
 Misuse reached the record from the supplier's side. A model provider [disclosed that it had removed a domestic actor's account mass-producing posts in batches of 50, praising the energy minister's tariff decision and claiming the opposition was fracturing ahead of 2027](https://www.itweb.africa/article/anthropic-flags-kenya-ai-influence-operation/kLgB1MezZe6q59N4), with no reach established; the minister [denied any ministry role](https://www.the-star.co.ke/news/2026-09-11-wandayi-distances-himself-from-ai-campaign-praising-tariff-move). The state's own compute moved a step: a [Letter of Agreement with the UN development agency commits to operationalising sovereign AI infrastructure at the Konza Data Centre](https://techreviewafrica.com/news/7149/kenya-undp-move-to-operationalise-sovereign-ai-infrastructure-at-konza-data-centre), and the Treasury [describes the Konza Digital Media City as recently approved for Korean financing](https://peopledaily.digital/business/kenya-south-korea-deepen-ksh-129-4b-development-partnership).
+
+The Kenya Medical Research Institute [is a partner in openScopes AIDDiA, a four-year, GBP 4.4m Wellcome Trust-funded programme led by the University of Cape Town that pairs open-source microscopes with machine-learning image analysis for infectious-disease research](https://www.itweb.co.za/article/r101m-uct-project-brings-ai-microscopy-to-africa/LPp6V7rBYJb7DKQz), which held its kick-off from 7 to 11 September.
 
 ## Liberia
 
@@ -236,6 +242,8 @@ An analysis of an incident database published on 14 August [links South Africa t
 
 University research finds [artificial-intelligence use in higher-education teaching and assessment outpacing institutional policy, with lecturers reporting inconsistent or absent guidance on accountability, the reliability of detection tools and academic integrity](https://www.itweb.co.za/article/ai-adoption-exposes-higher-education-policy-gaps/JBwErvn3Woj76Db2). No sector instrument or regulator guidance had been issued as at September 2026. A major bank reports [more than 39,000 staff, 72% of its workforce, actively using generative artificial intelligence on a multi-model enterprise platform hosted on a foreign cloud](https://www.itweb.co.za/article/standard-bank-transitions-to-ai-enabled-organisation/8OKdWMDXxw2MbznQ), with relationship management, servicing, payments and lending as priority areas. The figures count users, not automated decisions. No model inventory, assurance process or customer disclosure was published with them, and South Africa has no register of artificial-intelligence incidents or assurance. On 22 September the same bank [announced a responsible-AI framework written with Stellenbosch University's data-science school, setting life-cycle rules for human oversight and accountability](https://www.itweb.co.za/article/standard-bank-stellenbosch-university-develop-responsible-ai-framework/xnklOqz1zg6M4Ymz). It is voluntary, and no audit or enforcement mechanism is stated.
 
+The University of Cape Town [began a four-year, GBP 4.4m (about R101m) Wellcome Trust programme with partners in Kenya, Uganda and Côte d'Ivoire, pairing open-source microscopes with machine-learning image analysis for infectious-disease research](https://www.itweb.co.za/article/r101m-uct-project-brings-ai-microscopy-to-africa/LPp6V7rBYJb7DKQz).
+
 An artificial-intelligence governance organisation, represented by a university legal centre, [was admitted as a friend of the court in the state's appeal against the January 2025 High Court judgment on the Social Relief of Distress grant](https://www.globalcenter.ai/news/human-rights-implications-of-using-algorithms-for-social-grants), a grant administered online only and screened by an algorithmic verification system that excluded applicants it read as earning above R624.00. The judgment held several of the grant's regulations unconstitutional. The appeal was set down for 25 August 2026. Rules governing automated decision-making by the state remain ***Not held***.
 
 A robotics firm [opened a manufacturing plant and showroom in Durban for an artificial-intelligence humanoid tutor, aiming at roughly 23,000 public schools](https://www.itweb.co.za/article/humanoid-tutor-manufacturing-plant-opens-in-durban/G98YdMLGNwV7X2PD); the aim is the founder's, and there is no procurement. A university's radio-telescope demonstrator [was selected to fly on a Chinese lunar mission in 2029](https://www.itweb.co.za/article/african-scientists-to-put-radio-telescope-on-moon/RgeVDqPRkKa7KJN3), described as the first all-African space-exploration mission.
@@ -282,6 +290,8 @@ What developers here build on is being decided ahead of the strategy. A wire rep
 Crop-disease and precision-agriculture tools are [being piloted under GAINAfrica](https://aimnews.org/2026/08/25/europa-introduz-inteligencia-artificial-generativa-para-transformar-africa/), a Horizon Europe project led by La Sapienza in Rome and running in five African countries. No user count, evaluation or end date is published.
 
 A domestic model reached a continental prize rather than a deployment: a startup building [credit scoring for smallholder farmers who lack collateral took US$50,000, about 190m shillings, in growth funding at a Kigali food-systems summit](https://nilepost.co.ug/technology/369117/ugandan-startup-sandi-ai-wins-shs190m-gogettaz-agripreneur-prize). No user count, lender partnership, loan volume or model documentation is published. In the same week the state set artificial intelligence against a sector rather than a system, [making "Digital Agenda and Artificial Intelligence to Redesign Tourism" the theme of national World Tourism Day celebrations, against 793,815 visitors in the first half of 2026 and receipts up 25.6% to 2.30tn shillings](https://www.monitor.co.ug/uganda/news/national/uganda-turns-to-ai-to-drive-tourism-growth-5583524) — a framing with no programme, budget or system behind it.
+
+Mbarara University of Science and Technology [leads the data-pipeline and machine-learning work in a four-year, GBP 4.4m Wellcome Trust microscopy programme led by the University of Cape Town](https://www.itweb.co.za/article/r101m-uct-project-brings-ai-microscopy-to-africa/LPp6V7rBYJb7DKQz), which began in September 2026.
 
 ## Zambia
 

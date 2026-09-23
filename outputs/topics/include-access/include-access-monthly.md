@@ -4,7 +4,7 @@ compiled: 2026-09-23
 period: 2026-08-01 to 2026-09-23
 subject: include.access
 places: DZA; AGO; BWA; BDI; CMR; CAF; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NAM; NER; NGA; STP; SEN; SYC; SLE; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 070a54ece70d
+record: 860831087ffd
 ---
 
 # Access to services: monthly update, August – September 2026
@@ -144,6 +144,8 @@ A national survey put a number on the gap between owning a phone and being onlin
 ## Mozambique
 
 The central bank's Financial Inclusion Report 2025, reported on 24 July, counted 482,359 financial access points, up 36% on 2024, of which 446,604 were non-bank agents against 315,005 the year before, while automated teller machines fell from 1,391 to 1,383 and card terminals from 35,486 to 32,236 ([report account](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/)). [Mobile money reached 1,313 accounts per thousand adults against 337 bank accounts, and the national Financial Inclusion Index held flat at 36.4 points](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/). [Agent growth was fastest in the least-served provinces, and the report set that against a widening credit gap: women's participation in credit rose from 31% to 34% while men's rose from 59% to 66%, even as women's mobile money holding rose 24%](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/).
+
+The central bank's second-quarter indicators, published on 31 August, [counted 532,761 access points at end-June 2026, 494,955 of them e-money agents, with 650 bank branches, 1,291 cash machines and 31,316 card terminals](https://www.bancomoc.mz/media/tmkhk1cm/indicadores-estatisticos-de-inclus%C3%A3o-financeira-ii-trimestre-de-2026.xlsx); [agents grew 5.8% in the quarter while branches, cash machines and card terminals each fell slightly](https://www.bancomoc.mz/en/media/highlights/financial-inclusion-indicators-q2-2026/).
 
 August added the price side of the same picture. A standard data package [fell from 9.4% of monthly gross national income per head in 2022 to 2.67% in March 2026](https://www.oeconomico.com/mocambique-cria-mapa-nacional-da-banda-larga-para-orientar-investimento-e-reduzir-assimetrias-digitais/), on World Bank Digital Acceleration Project figures released with the coverage map. The basket behind the standard package is not defined in the record held.
 

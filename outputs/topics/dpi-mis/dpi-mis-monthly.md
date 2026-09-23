@@ -3,13 +3,13 @@ title: Sectoral management information systems (HMIS, EMIS, etc.) — monthly up
 compiled: 2026-09-23
 period: 2026-08-01 to 2026-09-23
 subject: dpi.mis
-places: DZA; AGO; BEN; BWA; BDI; CMR; CPV; CAF; COM; COG; CIV; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 9b7d3b4bf69e
+places: DZA; AGO; BEN; BWA; BDI; CMR; CPV; CAF; COM; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: a110fe89d6eb
 ---
 
 # Sectoral management information systems (HMIS, EMIS, etc.): monthly update, August – September 2026
 
-*46 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*47 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -92,6 +92,10 @@ The finance ministry [began surveying road-freight companies at land ports to li
 Two sectoral systems moved, both at the design stage. A ministerial workshop [agreed to build a single import-valuation database and to bring an automated customs valuation module into service](https://lagdeguinea.com/gobierno-refuerza-el-control-aduanero-y-agiliza-reformas-economicas/), and the universal health insurance technical committee [presented the national health accounts for 2021 to 2023](https://www.guineaecuatorialpress.com/noticias/el_comite_tecnico_multisectorial_del_seguro_medico_universal_presenta_las_cuentas_nacionales_de_salud_2021-2023). Neither carries a supplier, a cost or a date. What the customs agreement replaces, and how valuation is done now, is not stated in the record held.
 
 Customs also appears on a list of intended work: [an undated page of the PAMFP public finance reform programme names a second phase of the SYDONIA customs software for Bata, Mongomo, Ebebiyin, Corisco, Aconibe, Cogo and Rio Campo, with computer equipment and network links to carry it beyond Malabo](https://www.pamfp.org/en/support-for-the-reinforcement-of-the-mobilization-of-non-oil-revenues/). No installation, cost or timetable is attached to it.
+
+## Eswatini
+
+The Integrated Financial Management Information System was [among the systems the ICT ministry listed as disrupted on 23 September](https://independentnews.co.sz/48729/news/govt-systems-crippled-by-digital-outages/), with technical experts engaged and no cause or restoration date given.
 
 ## Ethiopia
 
@@ -186,6 +190,8 @@ The federal payroll is to be audited from the outside. The President [directed t
 The delivery end of the social-protection architecture failed its audit. The Auditor-General's 2024 report states that [the government could not provide auditors with sufficient evidence that ₦33.75bn of cash transfers intended for more than 3,295,207 vulnerable households reached genuine beneficiaries, the payment platform's statements not having been supplied](https://punchng.com/falana-serap-demand-probe-into-n33-75bn-cash-transfer/), and a civil-society organisation puts over ₦78.8bn across social protection programmes as diverted, unaccounted for or irregularly spent. The audit report itself is not held, and no response from the agencies named is on file — but the finding is about the same register and the same rail the unified architecture is being designed on top of.
 
 The health ministry [inaugurated the steering committee of a new office to coordinate, standardise and integrate health technology and data systems](https://health.gov.ng/fg-moves-to-accelerate-digital-health-transformation-with-national-health-technology-and-data-analytics-office/), charged with implementing the [national digital health architecture](https://www.digitalhealth.gov.ng/_files/ugd/83cfc4_4e435ffb27084421b62605872634624b.pdf). No staffing or budget is published.
+
+The Gates Foundation and MTN's group foundation [announced a maternal health programme on 23 September with an initial investment of about US$25m for 2026 to 2030](https://techafricanews.com/2026/09/23/mtn-gates-foundation-nigeria-maternal-health-multiplier/), combining AI-enabled decision support for health workers and mothers with affordable phones, data and facility connectivity, and targeting 500,000 women, 5,000 health workers and 500 facilities by 2030. The funders' shares are not stated.
 
 ## Rwanda
 

@@ -4,7 +4,7 @@ compiled: 2026-09-23
 period: 2026-08-01 to 2026-09-23
 subject: tech.innovate
 places: DZA; AGO; BWA; BFA; CMR; CPV; COM; CIV; COD; EGY; ERI; SWZ; GAB; GMB; GHA; GIN; KEN; LBR; MLI; MRT; MAR; NAM; NER; NGA; RWA; SYC; SLE; ZAF; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: f0c522ef33cb
+record: eebb108edda4
 ---
 
 # Innovation ecosystem: monthly update, August – September 2026
@@ -60,6 +60,8 @@ A government communiqué of 3 August confirmed that the [Startup Act implementin
 ## Egypt
 
 Egypt [led the continent in the first half of 2026 with US$327m raised, US$183m of it equity](https://techcabal.com/2026/07/27/african-venture-capital-is-backing-fewer-founders-than-ever/), after a 2025 in which one tracker counted US$378.95m across 43 startups, second to Nigeria for a second year, funded ventures falling 15.7% as the average raise rose to US$8.81m. A competing tracker's half-year figures for 2025 exceed twice that full-year total, and neither states its inclusion rules.
+
+The investment and foreign trade ministry said it will [launch TradeTech, a regulatory sandbox and innovation hub for foreign-trade technology, in October 2026](https://english.ahram.org.eg/News/577224.aspx).
 
 ## Eritrea
 
@@ -181,3 +183,5 @@ A donor-funded accelerator began staffing up: a private hub [called for facilita
 ## Zimbabwe
 
 The same institute's [innovation hub hosted a three-day expo from 28 to 30 July](https://www.hit.ac.zw/2026/08/02/designing-an-assured-future-hit-closes-technovation-expo-2026-in-style/) with an anticipated 10,000 participants, and carries a technopreneurship centre and a new centre for artificial intelligence. It follows the [presidential commissioning on 27 July of a university industrial incubation centre supporting 11 start-ups](https://www.uz.ac.zw/index.php/commissioning-of-the-specialist-medical-centre) across agriculture, ICT, engineering, pharmaceuticals, health, transport and energy. Attendance is the organisers' own expectation rather than a count.
+
+The Civil Aviation Authority of Zimbabwe [approved Drone Solutions Zimbabwe to fly beyond-visual-line-of-sight deliveries of vaccines, blood, samples and medicines daily, after a demonstration programme completed in August](https://www.newzimbabwe.com/zimbabwe-clears-drones-to-deliver-vaccines-blood-and-medicines/); the approval was reported on 22 September without its own date.

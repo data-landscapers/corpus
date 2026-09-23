@@ -4,7 +4,7 @@ compiled: 2026-09-23
 period: 2026-08-01 to 2026-09-23
 subject: dpi.pay
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 7fe1c5dc2090
+record: be6bca9f9855
 ---
 
 # Digital Payments and Fintech: monthly update, August – September 2026
@@ -103,6 +103,8 @@ Operator wallets kept growing faster than the gap closed: the telecom regulator 
 
 The largest private bank's digital-bank venture, holding preliminary approval, [put its planned investment at up to US$300m ahead of a pilot for individual and diaspora customers](https://menastartupdigest.com/cib-backed-yomo-digital-bank-plans-egypt-launch-with-300m-investment/).
 
+[Six Egyptian banks have applied to the central bank for final approval to connect InstaPay to the continental payment system](https://enterpriseam.com/egypt/2026/09/23/instapay-to-connect-with-pan-african-payment-system-as-six-egyptian-banks-apply-for-integration/), the system's chief executive said in September. InstaPay does not yet carry cross-border transactions, and neither the banks nor a launch date were named.
+
 ## Eswatini
 
 The mobile money platform moved underneath its users. An operator [completed migration of its money platform to a cloud-native vendor platform across four African markets](https://techafricanews.com/2026/08/21/ericsson-mtn-complete-momo-cloud-migration-across-four-african-markets/), this one among them. No downtime, subscriber count or feature change is stated for the Eswatini market, so the repository holds that the rail changed hands technically and nothing about what that cost its users.
@@ -172,7 +174,7 @@ The central bank also put on record how the system was built. Its own account is
 
 Payments moved outward rather than inward. The central bank [is reported to be planning accession to China's cross-border interbank payment system after talks with the People's Bank of China](https://www.scmp.com/news/china/diplomacy/article/3364171/why-chinese-yuan-could-soon-be-africas-most-important-currency). The account is a foreign newspaper's: no Libyan statement, timetable or membership step is held, and nothing is said about what it would mean for settlement currency or correspondent banking.
 
-The central bank governor set out four things at once at a Tripoli conference on 7 September: a [link to the Arab regional payments platform, a study track on a central bank digital currency and stablecoins, a cyber-skills programme, and a pilot for accession to China's cross-border interbank system targeted at early 2027](https://libyaherald.com/2026/09/cbl-governor-issa-launches-several-initiatives-and-reviews-achievements-at-tripoli-arab-savings-and-financial-literacy-conference). None carries an instrument, budget, participant list or delivery date, and the transfer-value figure the same account reports is not taken into the repository.
+At a Tripoli conference on 7 September the central bank governor announced a [link to the Arab regional payments platform, a study track on a central bank digital currency and stablecoins, a cyber-skills programme, and a pilot for accession to China's cross-border interbank system targeted at early 2027](https://libyaherald.com/2026/09/cbl-governor-issa-launches-several-initiatives-and-reviews-achievements-at-tripoli-arab-savings-and-financial-literacy-conference). None carries an instrument, budget, participant list or delivery date, and the transfer-value figure the same account reports is not taken into the repository.
 
 The central bank rewrote the wallet rules. [Circular 9/2026 replaces the 2017 instructions for licensed electronic-payment companies, setting daily limits for Libyans of LYD 100,000 person to person, 500,000 person to business and 2 million business to business, lower limits for foreigners, and opening wallets to lawful residents on a passport or residence document and a phone number in their name](https://bankawy.net/banks/mssrf-lebea-almrkze-edta-dtwabtd-jdedtt-llm/bankawy/). No count of wallets in use is published.
 
@@ -260,6 +262,8 @@ The central bank put the gap on its own record: [85.3% of Rwandans hold a digita
 
 The online VAT order's own deadline has passed unmet: the revenue authority was to have a supplier registration portal in place by 29 July, and [a tax adviser recorded on 15 September that it is not yet in place](https://www.newtimes.co.rw/article/38960/opinions/rwandas-online-vat-regime-raises-compliance-questions-early), while unregistered suppliers already accrue penalties.
 
+Bank of Kigali [signed in Xiamen on 8 September to join China's Cross-Border Interbank Payment System as a direct participant, the first bank in Rwanda to do so](https://www.ktpress.rw/2026/09/bank-of-kigali-joins-chinas-cross-border-payments-system-first-in-this-region/), giving it renminbi clearing and settlement without intermediary banks. The agreement was announced on 22 September with no transaction volume.
+
 ## Sao Tome and Principe
 
 The central bank [refreshed its payment-system statistics on 28 August 2026](https://www.bcstp.st/Banco-Central?x=wOgqPO8BlRrdHdPOd1%2BEuA%3D%3D&z=UaqDemAwZxwMBbembGGx9g%3D%3D), recording the internet banking series from 2014 and the interbank clearing series from 2013 as last published that day, and the payment-card operations series from 2011 as last published on 3 July. Its [payment systems report, which sets out developments in the national payment system and the most important clearing and settlement events](https://bcstp.st/Banco-Central?x=1TO4%2Bebti5rf2nJ1j8MKBg%3D%3D&z=C2im%2BH0SvXYxbX7SU4Hq3A%3D%3D), was last published on 17 April 2026. The instrument set behind the series has not changed - debit cards on a single domestic network, cheques and bank transfers - and no mobile money or wallet product appears anywhere in it.
@@ -267,6 +271,8 @@ The central bank [refreshed its payment-system statistics on 28 August 2026](htt
 ## Senegal
 
 The country leads its monetary union on electronic money, on figures that also show how little of the union's account base is alive. It [held 29.7 per cent of union electronic-money outstandings and 26.5 per cent of large microfinance assets at the end of 2025, hosting 81 large institutions and 2.28 million of the union's 14.66 million accounts](https://digitalmag.ci/monnaie-electronique-dans-luemoa-le-senegal-concentre-297-des-actifs-et-occupe-la-premiere-place/); union-wide, [electronic-money outstandings rose 35.2 per cent to CFAF 1,923.2 billion and accounts reached 172.9 million, of which only 60.6 million were active](https://digitalmag.ci/monnaie-electronique-dans-luemoa-le-senegal-concentre-297-des-actifs-et-occupe-la-premiere-place/). The domestic market is a duopoly, [one provider on close to 80 per cent of outstandings against the other's 19 per cent](https://digitalmag.ci/monnaie-electronique-dans-luemoa-le-senegal-concentre-297-des-actifs-et-occupe-la-premiere-place/). The African Development Bank and AXIAN [launched a digital finance programme on 2 September targeting 34,000 women-led businesses in Madagascar, Tanzania and Senegal through the Mixx and MVola platforms](https://www.ecofinagency.com/news-finances/0409-58613-afdb-axian-take-digital-finance-to-34-000-women-led-businesses-in-africa), under a US$160 million senior corporate loan approved to the group in January 2025 with a US$2.5 million grant for financial literacy and credit access. No Senegalese share of the programme's target, and no enrolment or disbursement figure, is published.
+
+At the end of February the central bank counted [31 licensed payment institutions across the union, 11 of them in Senegal](https://www.seneweb.com/fr/news/Economie/mobile-money-pourquoi-le-duel-orange-money-wave-ne-resume-plus-le-marche_n_505004.html), a licence category created in January 2024 for firms that are neither banks nor e-money issuers.
 
 ## Seychelles
 
@@ -361,6 +367,8 @@ The scale underneath all of it is in the regulator's quarterly report: [2.55 bil
 A fourth arrangement opened on 19 August, and it is card rather than wallet: a commercial bank and an international scheme [opened online acceptance of that scheme's cards to participating merchants in nine African markets including Uganda](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/), settling in local currency, US dollars or both. The merchant count is given for the nine markets together.
 
 A parliamentary committee found the expressway concession still running on cash. Its report of 25 August [recommends that the revenue authority take over toll collection and introduce electronic payment, calls for a forensic audit of the concession's operations and revenue collections, and asks for scrutiny of a reported UGX 36 billion contract extension](https://www.newvision.co.ug/category/news/mps-want-ura-to-take-over-toll-collections-of-NV_239482_082026); the ICT minister of state told the House that the operator has never given government the source code or password of the system.
+
+On 22 September Afreximbank [issued a US$29m guarantee to the operator of the regional customs bond platform](https://www.afreximbank.com/afreximbank-issues-a-29-million-guarantee-to-scale-eac-customs-bond-easing-movement-of-goods-across-east-africa/), which was piloted in Uganda from August 2025 and launched across the Community in March 2026. No uptake figure is published.
 
 ## Zambia
 

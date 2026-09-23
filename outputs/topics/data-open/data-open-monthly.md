@@ -3,13 +3,13 @@ title: Open data — monthly update, August – September 2026
 compiled: 2026-09-23
 period: 2026-08-01 to 2026-09-23
 subject: data.open
-places: BEN; BFA; CPV; TCD; COM; DJI; COD; SWZ; GAB; GMB; GHA; GIN; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NGA; SEN; SOM; TZA; TUN; ZMB; ZWE
-record: f04a25610481
+places: BEN; BFA; CPV; CAF; TCD; COM; CIV; DJI; COD; SWZ; GAB; GMB; GHA; GIN; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NGA; SEN; SOM; TZA; TUN; ZMB; ZWE
+record: c0986ab46a1e
 ---
 
 # Open data: monthly update, August – September 2026
 
-*27 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*29 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -25,6 +25,10 @@ The finance ministry cited [a 2025 Open Data Inventory score of 77 out of 100, f
 
 The fisheries ministry presented a [public Fisheries Information System giving structured access to data on landings, licences, catches, revenues, subsidies and the sector's legal framework](https://maa.gov.cv/index.php/noticias/425-cabo-verde-destaca-avancos-na-transparencia-das-pescas-em-evento-internacional-da-fiti-na-fao) at the FAO fisheries committee, built under the fisheries transparency standard the country joined in 2023. No launch date, licence or update frequency is given.
 
+## Central African Republic
+
+At a CEMAC workshop in Libreville on 14 to 18 September, the statistics institute ICASEES [presented its national plan for migrating its open data portal from ODP 1.0 to ODP 2.0 and demonstrated a locally installed ODP 2.0 test environment loaded with the national accounts](https://www.icasees.org/index.php/actualites/421-atelier-sdmx-odp-2-0-la-delegation-centrafricaine-affirme-sa-participation-active-a-la-dynamique-statistique-de-la-cemac-a-libreville). No migration date or public address for the new platform is published.
+
 ## Chad
 
 Publication and access moved in opposite directions. The statistics archive [bars redistribution of microdata without written consent](https://anad.inseed.td/index.php/politique-dacc), which settles whether Chadian public data is open: it is published and it is not open. On the access side the media regulator [suspended applications to create online newspapers until further notice](https://tchadinfos.com/2026/08/03/la-hama-suspend-la-creation-de-journaux-en-ligne-et-appelle-a-mettre-fin-au-desordre-informationnel/), against a record holding no freedom of information law at all.
@@ -32,6 +36,10 @@ Publication and access moved in opposite directions. The statistics archive [bar
 ## Comoros
 
 The statistics institute's [national microdata archive held fifteen datasets at 23 August, searchable by study with documentation and microdata](https://www.nada.inseed-comores.org/index.php/home), two of them added inside the year: the 2024 household living-conditions survey and the second agricultural census. Access to individual files requires registration rather than an open licence, and no open-data policy, licence or release calendar sits behind it. Nothing outside the statistical system publishes a dataset at all.
+
+## Cote d'Ivoire
+
+The access-to-information commission [began work on a national register of public documents, recording which documents public bodies hold, who holds them and how to obtain them](https://www.fratmat.info/article/2644667/culture/acces-a-linformation-et-aux-documents-publics-la-caidp-engage-le-chantier-du-referentiel-des-documents-publics), built with about 200 information officers. It points to existing inventories and archives rather than holding documents, and is to feed a national access-to-information strategy; no completion date is set.
 
 ## Djibouti
 

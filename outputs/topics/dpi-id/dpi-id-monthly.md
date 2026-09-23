@@ -4,7 +4,7 @@ compiled: 2026-09-23
 period: 2026-08-01 to 2026-09-23
 subject: dpi.id
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COM; COG; COD; EGY; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 705d67d1566c
+record: 338ffaa0878c
 ---
 
 # Digital Identity and CRVS: monthly update, August – September 2026
@@ -111,7 +111,9 @@ The linking of bank accounts to Fayda moved to its last phase. The largest state
 
 ## Gabon
 
-A bus fare is about to become a biometric credential. The national transport company is [preparing a biometric transport card for Libreville buses, securing the collection of personal data before digitising access to the service](https://www.gabonreview.com/bus-a-libreville-la-cnt-prepare-la-carte-de-transport-biometrique/). No issuance date, data controller, retention rule or fare structure is stated.
+The national transport company is [preparing a biometric transport card for Libreville buses, securing the collection of personal data before digitising access to the service](https://www.gabonreview.com/bus-a-libreville-la-cnt-prepare-la-carte-de-transport-biometrique/). No issuance date, data controller, retention rule or fare structure is stated.
+
+On 21 September the transport ministry [suspended enrolment for the digitalised driving licence six months after its launch, to review the operation, with 6,993 printed licences awaiting collection in Libreville and no resumption date given](https://www.gabonreview.com/permis-de-conduire-digitalise-lenrolement-suspendu-pres-de-7-000-cartes-disponibles-a-libreville/). The newspaper's unnamed sources link the pause to production-system faults under heavy demand and to power cuts.
 
 ## Gambia
 
@@ -132,6 +134,8 @@ The central bank republished its standing directive on 2 September: under regula
 The SIM half of the identity regime moved for the first time in nine months. The minister said on 7 September that [Parliament has passed the legislative instrument governing SIM registration and the biometric verification phase will be introduced before the end of 2026](https://asaaseradio.com/the-resolve-of-this-ministry-is-unshaken-sam-george-on-biometric-sim-verification/), the same account putting completion of the 2021-2023 exercise it replaces at 44.28% of subscribers. What has moved is the authority to act: no start date, enrolment route or subscriber deadline is published and the instrument itself is not held.
 
 The identification authority's head [said the Ghana Card will become an electronic wallet secured by biometrics and PIN, introduced in phases, linked to bank accounts and loadable through authorised vendors](https://www.modernghana.com/news/1528541/ghana-card-to-become-e-wallet-for-electronic-trans.html). No date or central-bank approval is stated.
+
+The licensing authority [put its DVLAverify biometric identity-verification app on Apple's App Store on 23 September and opened a web verification platform](https://www.myjoyonline.com/dvlaverify-app-now-available-on-ios-as-dvla-introduces-web-verification-platform/), so vehicle-registration applicants can verify their identity remotely from a computer with a webcam. No user count is published.
 
 ## Guinea
 
@@ -229,6 +233,8 @@ The same report rates the project [Moderately Satisfactory on both progress and 
 A second use for election hardware was floated rather than agreed: the admissions board [asked the electoral commission for biometric verification machines that sit idle between elections, and the commission ordered a proof of concept on whether they are fit for it](https://von.gov.ng/jamb-inec-seek-collaboration-on-use-of-biometric-technology/). No device count, transfer basis or data-protection assessment is published, and the two registers rest on separate legal bases.
 
 The government then set itself a nearer deadline: [95 per cent identity number coverage by December 2026](https://www.thisdaylive.com/2026/09/16/fg-sets-december-deadline-for-95-nin-coverage/), announced on 16 September with the database put at nearly 140 million, a figure above the 117.5 million issued numbers the lender recorded for June.
+
+On 23 September the identity commission [denied that identity numbers and other personal data had been breached and offered for sale, and its Director-General ordered an investigation into whether licensed tokenisation verification agents had breached their licences](https://www.thisdaylive.com/2026/09/23/nimc-assures-nigerians-of-safety-of-identity-data/), directly or through sub-licensees. No finding or timetable is published.
 
 ## Rwanda
 

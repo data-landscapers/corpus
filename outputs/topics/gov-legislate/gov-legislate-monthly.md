@@ -3,13 +3,13 @@ title: Legislation and regulation — monthly update, August – September 2026
 compiled: 2026-09-23
 period: 2026-08-01 to 2026-09-23
 subject: gov.legislate
-places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; TCD; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 1a2373a27321
+places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; TCD; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: a763901ec50e
 ---
 
 # Legislation and regulation: monthly update, August – September 2026
 
-*46 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*47 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -79,6 +79,8 @@ The digital code is being applied to speech. On 15 August the justice minister [
 
 A new schedule of [taxes, permits and sanctions now governs the digital sphere](https://the-port-brief.co.tz/article/regulation-of-the-digital-sphere-in-the-drc-analysis-of-new-regulations-on-taxes-permits-and-sanctions). The repository holds a legal analysis of it rather than the instrument, so the issuing authority, the instrument number and the entry-into-force date are not established here.
 
+Deputy Alfred Dibandi Nzondomyo [filed a private member's bill on the protection of minors in the digital environment with the National Assembly on 21 September](https://actualite.cd/2026/09/21/assemblee-nationale-le-depute-alfred-dibandi-initie-une-proposition-de-loi-relative-la), framed as a special law beside the Code du numérique and the child-protection law, with rules for children under six and under eleven and stronger provisions for under-15s. The text is not published.
+
 ## Egypt
 
 A cabinet meeting chaired by the Prime Minister agreed on 29 July 2026 to review the statutes governing social media and to raise financial penalties, with the ICT ministry preparing a comparative study of other states' regimes. In the same meeting the minister disclosed that a unit inside the telecommunications regulator already detects and acts on artificial-intelligence-manipulated video and imagery, and said that legislative amendment is still needed to address the practices at root ([cabinet account](https://www.youm7.com/story/2026/7/29/وزير-الاتصالات-وحدة-خاصة-بالجهاز-القومي-لرصد-المخالفات-السلبية-لمواقع/7497055)). The unit's formation date, legal basis, staffing, method and appeal route were not stated.
@@ -144,6 +146,10 @@ The month closed on a ministerial account of the legislative programme itself: u
 ## Guinea
 
 Two instruments were made and a third process opened. The President [signed the implementing decree for electronic signatures on 19 August](https://www.guinee360.com/19/08/2026/guinee-mamadi-doumbouya-officialise-la-signature-electronique/), and the government [opened a workshop on three bills consolidating the legal framework of the public administration](https://mediaguinee.com/2026/08/reforme-de-ladministration-publique-le-gouvernement-engage-trois-chantiers-majeurs-pour-moderniser-le-service-public/). Neither the decree text nor the bills are published, so their scope cannot be read off the record.
+
+## Guinea-Bissau
+
+A Bissau law professor told an ECOWAS Court conference in Dakar on 22 September that [a draft law would create a data protection agency, its organisation left to decree, and that the country still has no dedicated data protection law or authority](https://www.aip.ci/cote-divoire-aip-inter-la-cour-de-justice-de-la-cedeao-dispose-dun-cadre-pour-statuer-sur-les-droits-numeriques-selon-un-universitaire/). No bill text or date is held.
 
 ## Kenya
 
@@ -308,7 +314,9 @@ The legislative response to all of this is a review rather than a bill. The gove
 
 ## Togo
 
-The month's legislating was about commercial justice and civil status rather than digital instruments. The National Assembly [adopted bills on commercial-courts reform and on accession to the Hague Apostille Convention in first reading on 14 August](https://togopresse.tg/lassemblee-nationale-adopte-en-1ere-lecture-deux-projets-de-loi-sur-la-reforme-des-juridictions-commerciales-et-ladhesion-du-togo-a-la-convention-apostille/); the Senate [adopted the courts reform on 21 August](https://togopresse.tg/la-reforme-sur-les-juridictions-commerciales-adoptee-au-senat/), and neither promulgation is held. A scoping meeting [opened a review of the 2009 civil registration law, proposals due before the end of 2026](https://www.togofirst.com/en/justice/2408-19853-togo-reviews-civil-registration-law-to-support-digital-transformation). An apostille accession is a digital question in practice: it is how one state's register is accepted by another's.
+The National Assembly [adopted bills on commercial-courts reform and on accession to the Hague Apostille Convention in first reading on 14 August](https://togopresse.tg/lassemblee-nationale-adopte-en-1ere-lecture-deux-projets-de-loi-sur-la-reforme-des-juridictions-commerciales-et-ladhesion-du-togo-a-la-convention-apostille/); the Senate [adopted the courts reform on 21 August](https://togopresse.tg/la-reforme-sur-les-juridictions-commerciales-adoptee-au-senat/), and neither promulgation is held. A scoping meeting [opened a review of the 2009 civil registration law, proposals due before the end of 2026](https://www.togofirst.com/en/justice/2408-19853-togo-reviews-civil-registration-law-to-support-digital-transformation). An apostille accession is a digital question in practice: it is how one state's register is accepted by another's.
+
+On 22 September the communication regulator HARC [held its first official meeting with content creators, bloggers and influencers, asserting a remit over social-media content under article 78 of the 2024 Constitution and saying advertising on social networks should in principle take its prior visa](https://togopresse.tg/regulation-du-numerique-la-harc-engage-le-dialogue-avec-les-createurs-de-contenus/). The communication ministry said the 2020 press and communication code would be revised to cover them; no draft or timetable is published.
 
 ## Tunisia
 

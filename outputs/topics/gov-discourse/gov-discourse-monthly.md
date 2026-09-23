@@ -4,7 +4,7 @@ compiled: 2026-09-23
 period: 2026-08-01 to 2026-09-23
 subject: gov.discourse
 places: AGO; BEN; BFA; CMR; CAF; TCD; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; MWI; MLI; MUS; MAR; NAM; NER; NGA; SEN; SYC; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 74c81c8b3e09
+record: 8314053a8762
 ---
 
 # Public debate and participation in policymaking: monthly update, August – September 2026
@@ -91,11 +91,15 @@ The statistical service put a number on what digitisation is being asked to fix.
 
 The same week the ministry took the governance argument outward and inward at once: it [convened an Accra workshop with a policy-monitoring organisation and a trade endowment on digital governance, regulatory coordination and international digital-trade engagement](https://www.linkedin.com/posts/ministry-of-communication-digital-technology-and-innovations-b4a9b7256_mocdti-partners-digital-policy-alert-to-strengthen-activity-7491943506979250176-6l2o), framed against the national artificial-intelligence strategy, the coders programme and the continental digital trade protocol; and its deputy minister [urged information-management professionals to secure and better manage government data as artificial-intelligence use grows](https://asaaseradio.com/govt-strengthens-public-data-management-amid-rising-ai-use/). Neither produces an instrument, and the national data strategy has been In development since 2024.
 
+On 22 September the Secretary to the President [asked the Media Foundation for West Africa and the Ghana Journalists Association to convene a national stakeholder engagement and draft a roadmap on hate speech and harmful online content](https://www.myjoyonline.com/wp-content/uploads/2026/09/OPS308.3.26.1386-NATIONAL-STAKEHOLDER-ENGAGEMENT-ON-HATE-SPEECH-ABUSIVE-ONLINE-CONTENT-RESPONSIBLE-DIGITAL-COMMUNICATION.pdf), including guidance for law enforcement and alternatives to arrest and prosecution for speech that is not criminal. The letter cautions that arrests over criticism out of proportion to the conduct may be counterproductive, and sets no deadline.
+
 ## Guinea
 
 Neither the regulator ARPT, the operators nor the internet service providers issued an explanation for the social-media restriction, and the silence then had to cover more than a restriction: [a total two-hour national outage on 7 August, across mobile and fibre alike, was traced to the state landing-station operator, whose officials and the regulator both declined to explain it](https://lelynx.net/2026/08/internet-coupe-en-guinee-black-aout-total/). The precedent is on the record rather than inferred: under the post-coup transition a government spokesman owned a three-month digital cut and said that in Guinea the internet is not a right.
 
 The communication authority [banned France 24 with immediate effect on 17 September on every vector, satellite, cable, mobile applications, websites and social networks, withdrew its correspondents' accreditation and requisitioned the telecommunications regulator to enforce the ban](https://www.africaguinee.com/la-chaine-france-24-interdite-de-diffusion-en-guinee-larpt-et-canal-requisitionnes-par-la-hac/), citing an offence to the President.
+
+On 21 September the same authority [banned ten web TV channels, among them Dabola TV, Coyah TV and Siguiri 24 Star TV, and two news sites for audiovisual activity online without prior authorisation](https://mediaguinee.com/2026/09/medias-numeriques-la-hac-interdit-dix-pretendues-web-tv-et-deux-sites-dinformation-pour-exercice-illegal/), across the national territory and on all digital platforms.
 
 ## Kenya
 

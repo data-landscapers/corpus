@@ -4,7 +4,7 @@ compiled: 2026-09-23
 period: 2026-08-01 to 2026-09-23
 subject: gov.regional
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COG; CIV; DJI; COD; EGY; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZWE
-record: 9c3a37477333
+record: 22077d99649d
 ---
 
 # Regional collaboration: monthly update, August – September 2026
@@ -31,7 +31,9 @@ The [ICT memorandum with Namibia was signed at Kasane on 7 August](https://techr
 
 ## Burkina Faso
 
-The region's answer to a network that keeps being attacked is another country's fibre. At a meeting of the two digital ministers on 12 August, [Nigeria proposed connecting its planned 90,000 km open-access national fibre network to Burkina Faso's borders to improve internet resilience, quality and affordability, alongside cooperation on artificial intelligence, digital public infrastructure and talent](https://burkina24.com/2026/08/12/cooperation-numerique-sous-regionale-le-burkina-faso-et-le-nigeria-sallient-pour-accelerer-leur-transformation-digitale/). Both halves of that are prospective: the corridor is a proposal, and the Nigerian network it would reach is itself planned rather than built.
+At a meeting of the two digital ministers on 12 August, [Nigeria proposed connecting its planned 90,000 km open-access national fibre network to Burkina Faso's borders to improve internet resilience, quality and affordability, alongside cooperation on artificial intelligence, digital public infrastructure and talent](https://burkina24.com/2026/08/12/cooperation-numerique-sous-regionale-le-burkina-faso-et-le-nigeria-sallient-pour-accelerer-leur-transformation-digitale/). Both halves of that are prospective: the corridor is a proposal, and the Nigerian network it would reach is itself planned rather than built.
+
+The telecoms regulators of Burkina Faso, Mali and Niger [announced on 23 September a cooperation convention for signature on 25 September](https://lefaso.net/spip.php?article149443), creating a standing Sahel regulators' council to coordinate roaming within the confederation, spectrum, cybersecurity, consumer protection and mutual recognition of type-approved equipment.
 
 ## Burundi
 
@@ -132,6 +134,8 @@ On 24 July Mali was [re-elected to the African Telecommunications Union board fo
 
 The same 1 August recommendations also included [a protocol between AES states to harmonise AI governance](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html).
 
+The Burkinabè, Malian and Nigerien telecommunications regulators [announced on 23 September that they would sign a cooperation convention in Ouagadougou on 25 September creating a Council of Sahel Regulators](https://lefaso.net/spip.php?article149443), covering confederation roaming, cybersecurity, frequency management and mutual recognition of type-approved equipment.
+
 ## Mauritius
 
 The continental internet registry seated here is still without a settled board. One outlet's analysis records that the registry [named a person to all eight board seats on 12 September 2025 while withholding every candidate vote tally its own election guidelines promised](https://btw.media/en/afrinic-eight-seat-board-election-result-evidence-gap), and that the appeal court has now [set aside its 2023 appeal for want of corporate authority without ruling on the official receiver's permission or on statutory leave](https://btw.media/en/governance/rir-watchdog/afrinic/story/afrinic-appeal-receiver-permission-statutory-leave-undecided). The chain from election through appointment to quorum is therefore unresolved and the receiver undischarged. No registry statement on the withheld tallies is held.
@@ -151,6 +155,8 @@ Four lighter engagements ran alongside. Cabinet approved a memorandum on informa
 On 30 July a Nigerien technical mission led by the interior ministry's secretary-general was [received in Ouagadougou to study Burkina Faso's identification machinery](https://www.journalduniger.com/niger-burkina-cooperation-identite-numerique-biometrie/) — the civil-status modernisation directorate, the national identification office, the ICT agency and the WURI project. The delegation covered civil registration, migration, the digital agency, territorial surveillance, biometric-card production, the interior ministry's legal service and the ICT and finance ministries, and reported recommendations on issuing authentic documents and limiting document fraud.
 
 The confederation's communication regulators [opened a constitutive conference in Niamey on 17 September for a joint platform, framed around informational sovereignty and a common strategy against disinformation, with artificially generated content among the stated concerns](https://anp.ne/aes-creation-a-niamey-dune-plateforme-des-regulateurs-des-medias-et-communication-de-lespace-communautaire/). No charter, secretariat or powers have been published.
+
+The Burkinabè, Malian and Nigerien telecommunications regulators [announced on 23 September that they would sign a cooperation convention in Ouagadougou on 25 September creating a Council of Sahel Regulators](https://lefaso.net/spip.php?article149443), covering confederation roaming, cybersecurity, frequency management and mutual recognition of type-approved equipment.
 
 ## Nigeria
 

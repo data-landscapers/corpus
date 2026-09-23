@@ -4,7 +4,7 @@ compiled: 2026-09-23
 period: 2026-08-01 to 2026-09-23
 subject: digital.localgov
 places: AGO; BFA; BDI; CMR; TCD; GHA; GNB; LBY; MWI; MLI; NAM; NGA; RWA; SEN; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 061e8e42c511
+record: 875e66de1c9f
 ---
 
 # Digitalisation of sub-national government: monthly update, August – September 2026
@@ -35,6 +35,8 @@ The housing and telecoms ministries [launched a National Action Plan for Smart C
 
 A second town began digitising its own services. The Abeche town hall, the provincial telecommunications delegation and the ICT development agency [met to strengthen a partnership digitising municipal services and training staff in digital tools](https://www.alwihdainfo.com/tchad-la-commune-dabeche-et-les-telecommunications-unissent-leurs-forces-pour-accelerer-la-digitalisation/). No service, budget or delivery date is published.
 
+In the capital, N'Djamena city hall and the secure-documents agency ANATS [signed a memorandum on 23 September launching a project, supported by the Francophonie organisation, to digitise civil registers and connect the town hall's systems securely to the national population and secure-documents system](https://lendjampost.com/etat-civil-la-mairie-de-ndjamena-engage-sa-transformation-numerique-avec-lanats/). No budget or completion date was given.
+
 ## Ghana
 
 Local government has gone in one month from a reform strategy's integration target to a signed programme covering every assembly in the country. The Office of the Head of the Local Government Service [signed a memorandum on 3 September with a Ghanaian networks company to turn all 261 metropolitan, municipal and district assemblies into what both parties call smart assemblies, spanning waste management, public safety, education, healthcare, environmental monitoring and citizen engagement](https://kumasimail.com/ohlgs-celltel-seal-deal-to-turn-261-assemblies-in-ghana-into-smart-communities/). No contract value, financing structure or timeline is stated, which is the whole of what would make it testable. Separately a governance organisation [launched a citizen-reporting platform in South Tongu District that routes service-delivery complaints to the assembly and keeps the reporting citizen informed until resolution](https://gna.org.gh/2026/09/ghana-governance-africa-launches-digital-platform-to-deepen-participation-in-local-governance/) - a civil-society instrument in one district, not an assembly system.
@@ -43,7 +45,7 @@ Assembly business is to be put on air: the local government ministry [announced 
 
 ## Guinea-Bissau
 
-The capital’s council put a date on its own modernisation. Bissau city council [announced the launch on 9 September 2026 of a modernisation and digital transformation programme for the institution, on a plan approved at the council’s first strategic retreat](https://ang.gw/camara-municipal-de-bissau-anuncia-para-quarta-feira-lancamento-do-projeto-de-modernizacao-e-transformacao-digital-da-instituicao/). No component list, budget, timetable or partner is stated.
+Bissau city council [launched CMB+ on 22 September, a modernisation and digital transformation project that incorporates a municipal portal for residents' access to council services](https://ang.gw/transformacao-digital-deve-estar-ao-servico-dos-cidadaos-de-forma-a-contribuir-para-uma-aministracao-eficiente-diz-carlos-nelson-sano/), after [first announcing it for 9 September on a plan approved at the council's first strategic retreat](https://ang.gw/camara-municipal-de-bissau-anuncia-para-quarta-feira-lancamento-do-projeto-de-modernizacao-e-transformacao-digital-da-instituicao/). No component list, budget, timetable or named partner is stated.
 
 ## Libya
 
@@ -71,6 +73,8 @@ One state measured its own agencies rather than announcing a platform. The Anamb
 
 [A UK-funded programme of state-level digital policy and institutional reform was inaugurated in Abia on 17 September](https://www.primepost.ng/2026/09/17/uk-inaugurates-spriret-initiative-in-abia-to-accelerate-digital-transformation/), run by a Nigerian NGO and starting from a baseline report on the state.
 
+Edo State [replaced a foreign-owned e-governance platform, for which it paid licence fees after funding its build, with a platform of its own serving all 128 state ministries, departments and agencies](https://www.vanguardngr.com/2026/09/nobody-can-shut-down-internet-to-disrupt-nigerias-elections-urhoghide-edoicta-boss/), the head of the state ICT agency said on 23 September. The date of the switch is not stated.
+
 ## Rwanda
 
 The argument about local delivery was made in public. A published commentary [held that Rwanda's next decade of decentralisation requires urgent focus on delivery rather than structure](https://www.newtimes.co.rw/article/38460/opinions/rwandas-next-decade-of-decentralisation-requires-urgent-focus-on-delivery). It is one author's case, not a government position, and the record held carries no measure of service delivery at district level against which to test it.
@@ -86,6 +90,8 @@ Home Affairs [opened an appointment-only office in the Cape Town Civic Centre on
 The local government association [asked consultants for proposals to build a revenue management plan for the 257 municipalities it represents, putting consumer debt at about R467.2bn, municipalities' own debt to creditors at about R160.8bn, and annual water and electricity revenue loss at about R25bn from leaks, theft, illegal connections and weak metering and billing](https://www.sundaytimes.timeslive.co.za/news/2026-08-24-salga-needs-consultants-help-to-fix-almost-r500bn-municipal-debt/).
 
 The Gauteng e-government department's 2025/26 annual report records [96 public Wi-Fi hotspots at schools, libraries, hospitals, clinics, hostels and licence testing centres, offering up to 500MB of free internet a day, 33 e-services live, 99% provincial network uptime and 7,271 cameras on the provincial safety network](https://www.gov.za/news/media-statements/gauteng-e-government-accelerates-digital-transformation-e-gov-delivers-more). The figures are the department's own.
+
+Johannesburg's municipal network company [set a 2026/27 target of 200,000 free Wi-Fi connections against 1,574,979 recorded in 2024/25, without explanation, and describes itself as under-capacitated, with 26 network staff for 1,200km of fibre and R20.7m of capital budget](https://www.sundaytimes.timeslive.co.za/news/2026-09-19-joburgs-wi-fi-plan-falters-amid-a-litany-of-woes/).
 
 Municipal digitisation programmes are bound by the national archives' [standing guidance on managing electronic records](https://www.nationalarchives.gov.za/node/1225).
 

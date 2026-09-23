@@ -4,7 +4,7 @@ compiled: 2026-09-23
 period: 2026-08-01 to 2026-09-23
 subject: dpi.exchange
 places: DZA; AGO; BEN; BWA; BFA; CMR; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MAR; MOZ; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: ead3b563c8ae
+record: fc8984a833fc
 ---
 
 # Data Exchange: monthly update, August – September 2026
@@ -109,6 +109,8 @@ The first register link to be agreed is between education and health rather than
 
 Interoperable mobile-money transfers ran to [33.5 million transactions worth GH¢6.2bn in June](https://www.myjoyonline.com/mobile-money-transactions-hit-gh%c2%a2492-9bn-in-june/) — about 1.3% of total mobile-money value. The share, not the volume, is the measure of interoperability, and it is the figure that has stayed small since the service went live in 2018.
 
+Kenya's president [announced Masterkey, a cross-border wallet for verifiable qualification and work records whose first phase targets 150,000 placements, with Ghana, Rwanda and Kenya as its first countries](https://www.graphic.com.gh/news/general-news/ruto-puts-ghana-in-plan-to-make-african-skills-portable.html), at an Accra event on the sidelines of the UN General Assembly. No Ghanaian implementing agency, cost or launch date is stated.
+
 ## Guinea
 
 On 24 July, ONECI [signed a memorandum with NG Tech Innovation for a national interoperability and identity-verification platform over the RNPP](https://horoya.net/2026/07/25/guinee-loneci-et-ng-tech-innovation-sallient-pour-moderniser-lidentification-et-letat-civil/), under the Diama Djigui programme, before the elections director-general and Conakry's mayors. No value, duration or scope was disclosed and the text is not public.
@@ -126,6 +128,8 @@ The Treasury is [rolling out a Development Partners Management Information Syste
 The regional payments interlink took another participant: a commercial bank group [went live on the pan-African system on 11 August, adding its branch network to instant cross-border transfers in local currencies](https://www.linkedin.com/posts/pan-african-payment-settlement-system_papss-papss-abcbank-activity-7492934194994774016-TGoX).
 
 The head of the public service [convened the examinations council, the public service commission and the education ministry to link academic credential databases directly to hiring agencies](https://nairobiwire.com/2026/09/kenya-academic-certificate-verification-fake-certificates.html), against fake certificates. No design or date is set.
+
+The President [announced Masterkey, a wallet for verifiable qualification and work records across African borders whose first phase targets 150,000 placements with Kenya, Ghana and Rwanda, Kenya leading the first national implementation through eCitizen](https://www.graphic.com.gh/news/general-news/ruto-puts-ghana-in-plan-to-make-african-skills-portable.html). He said the system will not itself award jobs, visas or professional recognition; no cost or launch date is stated.
 
 ## Lesotho
 
@@ -192,6 +196,8 @@ Three more exchanges were proposed in September, none yet built. The education m
 ## Rwanda
 
 A delegation joined the [UNDP Africa Accelerator for Digital Public Infrastructure's session of 2-3 September](https://www.linkedin.com/posts/africa-accelerator-for-digital-public-infrastructure-share-7501243526484123648-U4ba) alongside Ethiopia, Malawi, Sierra Leone and Zambia, working through the move from blueprint to execution, verifiable credentials and consented data-sharing frameworks, and reusable open-source deployment code. What is on record is attendance and a [published agenda](https://www.undp.org/africa/projects/africa-accelerator-digital-public-infrastructure-aa4dpi); no country programme, commitment or deliverable follows from it.
+
+Kenya's president [announced Masterkey, a cross-border wallet for verifiable qualification and work records whose first phase targets 150,000 placements, with Rwanda, Ghana and Kenya as its first countries](https://www.graphic.com.gh/news/general-news/ruto-puts-ghana-in-plan-to-make-african-skills-portable.html). No Rwandan implementing agency, cost or launch date is stated.
 
 ## Senegal
 

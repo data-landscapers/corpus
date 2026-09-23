@@ -4,7 +4,7 @@ compiled: 2026-09-23
 period: 2026-08-01 to 2026-09-23
 subject: capacity.literacy
 places: AGO; TCD; COM; COD; EGY; GHA; KEN; LBR; MDG; MOZ; RWA; SEN; SLE; SSD; TZA; TGO; UGA; ZMB
-record: 999805022e48
+record: d026dacbe515
 ---
 
 # Literacy: monthly update, August – September 2026
@@ -57,7 +57,9 @@ The vocational training ministry [signed a partnership with France's Pix public-
 
 ## Mozambique
 
-The month's only movement on digital literacy was a demand for it. At the launch of a UNESCO-organised dialogue series in Maputo, an NGO [called for a national digital-literacy programme for young people, arguing digital skills are now a precondition for meaningful democratic participation](https://clubofmozambique.com/news/mozambique-create-national-digital-literacy-programme-for-young-people-ngo/). The repository holds no such programme or strategy, and a civil-society call is evidence that none exists rather than a step towards one; the absence is now dated.
+At the launch of a UNESCO-organised dialogue series in Maputo in August, an NGO [called for a national digital-literacy programme for young people, arguing digital skills are now a precondition for meaningful democratic participation](https://clubofmozambique.com/news/mozambique-create-national-digital-literacy-programme-for-young-people-ngo/). The repository holds no such programme or strategy.
+
+On 21 September the ICT institute [signed a memorandum with Kamaleon, a rural mobile-multimedia firm, for awareness campaigns, workshops and community forums on digital culture, cybersecurity and personal-data protection, with content in Portuguese and where possible Mozambican languages](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/mozambique-un-partenariat-public-prive-pour-renforcer-la-culture-du-numerique-en-milieu-rural). No budget, reach target or start date is stated.
 
 ## Rwanda
 

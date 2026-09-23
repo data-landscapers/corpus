@@ -4,7 +4,7 @@ compiled: 2026-09-23
 period: 2026-08-01 to 2026-09-23
 subject: geopol.usa
 places: CPV; DJI; EGY; KEN; LSO; MUS; NGA; STP; SEN; UGA; ZWE
-record: 431191ae0dbc
+record: dade51eabf6d
 ---
 
 # US / hyperscaler activities: monthly update, August – September 2026
@@ -27,7 +27,9 @@ The vendor relationship moved a step, and only a step. The prime minister [witne
 
 ## Kenya
 
-A delegation from a Korean university and development institute [came to Nairobi to evaluate the outcomes](https://www.itweb.africa/article/korea-backs-kenya-digital-economy/KA3WwMdzpwBvrydZ) of South Korea's development assistance to the digital economy. No findings, envelope or successor programme has been published, and the row sits under this heading because the repository holds no separate slug for Korea.
+A delegation from a Korean university and development institute [came to Nairobi to evaluate the outcomes](https://www.itweb.africa/article/korea-backs-kenya-digital-economy/KA3WwMdzpwBvrydZ) of South Korea's development assistance to the digital economy. No findings, envelope or successor programme has been published.
+
+Kenya [signed a joint declaration with Anthropic at the UN General Assembly, reported on 23 September](https://www.standardmedia.co.ke/business/article/2001558501/kenya-signs-ai-deal-with-claude), covering AI applications in education and health, research, capacity building and AI safety and evaluation. Pilots and institutional partnerships with government agencies are named as the next phase; no funding, timetable or signing date is stated.
 
 ## Lesotho
 

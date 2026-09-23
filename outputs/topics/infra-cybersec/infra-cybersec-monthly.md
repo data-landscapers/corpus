@@ -4,7 +4,7 @@ compiled: 2026-09-23
 period: 2026-08-01 to 2026-09-23
 subject: infra.cybersec
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; TCD; COM; COG; CIV; SWZ; GAB; GHA; KEN; LSO; LBR; LBY; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 8f8f65d90f81
+record: 02663a6da3a5
 ---
 
 # Cybersecurity: monthly update, August – September 2026
@@ -117,6 +117,8 @@ The [interim Lesotho National Computer Security Incident Response Team](https://
 ## Liberia
 
 The Cybercrime Act 2025 was [announced as signed on 19 August 2026](https://www.wearetech.africa/en/fils-uk/news/public-management/liberia-enacts-cybercrime-and-data-protection-laws), and the enacted text has now been read: [approved on 3 July and printed on 24 July, it creates a National Cybersecurity Council with the national CERT as technical arm, requires breach reports within 72 hours and protects whistleblowers](https://mopt.gov.lr/wp-content/uploads/2026/09/Cybercime_Act_of_2025_Printed_Version_20260724_063806.pdf). Commentary [reads its speech-adjacent offences at sections 15 to 20 against the constitution's free-expression article and the 2019 press-freedom Act](https://frontpageafricaonline.com/liberias-free-speech-balancing-act-and-what-the-cybercrime-law-actually-changed/).
+
+Police [confirmed in September that a man held over AI-generated images of the Vice-President was arrested under the Act](https://www.thenewdawnliberia.com/koung-seeks-release-of-ai-image-suspect/). On 22 September a criminal court [ordered him freed on a habeas corpus petition, and the main opposition party said the same day it would ask the Supreme Court to rule on the Act's constitutionality](https://frontpageafricaonline.com/liberia-cdc-prepares-to-take-cybercrime-law-fight-to-supreme-court-after-wrato-release/). No court has ruled on whether the conduct is an offence under the Act.
 
 ## Libya
 
@@ -244,6 +246,8 @@ On 17 July the regulator opened work on a [national anti-piracy coordination fra
 Two accounts in August put the threat above the response. A continental police assessment [attributes over US$2m of losses to a single Ugandan deepfake investment scam](https://techcabal.com/2026/08/13/africa-cybercriminals-adopting-ai-institutions-them/), against 8% of intelligence analysts recorded as having advanced artificial-intelligence expertise and 94% of agencies as lacking digital forensics tools. At the communications regulator's first national cybersecurity conference on 13 August, an operator [called for fraud protection to be built into digital-finance products and described an interface letting banks check for recent SIM-swap activity before processing a transaction](https://techafricanews.com/2026/08/13/airtel-urges-ugandas-digital-finance-sector-to-build-fraud-protection-into-products/); no uptake figure for the interface is published. The central bank separately told a conference that [cybersecurity is now a national security issue](https://www.newvision.co.ug/category/news/cybersecurity-now-a-national-security-issue-s-NV_238608_082026).
 
 The criminal investigations directorate [told a parliamentary committee inspection that its Crime Data Centre, originally due earlier, is now targeted for March 2027, that it will recruit internally to close an investigator shortage, and that it wants government and security databases integrated so detectives can link suspects, incidents and evidence quickly](https://nilepost.co.ug/news/367069/cid-seeks-more-investigators-as-criminals-shift-to-digital-spaces) - integration its director said would first require agreement on the legal and policy frameworks governing access.
+
+The bankers' association [counted 6,533 cyber and fraud incidents in the financial sector between January and August 2026, with UGX 24bn lost and a further UGX 68bn estimated at risk](https://nilepost.co.ug/news/372865/uganda-records-6533-cyber-and-fraud-incidents-losses-hit-shs24bn), naming wallet and peer-to-peer fraud and digital-channel compromise among the persistent threats. The Deputy Chief Justice said the judiciary is open to specialised handling of cyber and financial crime cases.
 
 ## Zambia
 

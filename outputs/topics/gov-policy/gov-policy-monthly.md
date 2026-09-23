@@ -4,7 +4,7 @@ compiled: 2026-09-23
 period: 2026-08-01 to 2026-09-23
 subject: gov.policy
 places: DZA; BWA; BFA; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MWI; MLI; MRT; MUS; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 2d81e0603c73
+record: c9ef9583dbb9
 ---
 
 # Strategies, plans and policies: monthly update, August – September 2026
@@ -166,6 +166,8 @@ Two strategies are being written and neither is adopted. The National Cyber Secu
 
 Financial data residency was rewritten. The central bank [gazetted Aviso 6/GBM/2026 on 31 August, requiring every bank's primary data centre and principal information systems in national territory and revoking the 2003 rule](https://www.bancomoc.mz/media/j2fgaf3a/aviso-6_gbm_2026-de-18-de-agosto_-br_166_i_s%C3%A9rie_2026_31-de-agosto.pdf), in force 60 days after publication.
 
+The communications regulator [called on 23 September for consultants to diagnose the postal market and draft a postal sector transformation strategy, roadmap and action plan within six months](https://techafricanews.com/2026/09/23/mozambique-incm-consultants-modernise-postal-sector/), with expressions of interest due on 9 October.
+
 ## Namibia
 
 The ICT minister met a consultancy delegation in Windhoek on 3 August on trustworthy artificial intelligence, broadband access, cybersecurity, data centres, clean energy and women in technology, and stated that consultations on the strategy framework had already begun under the research council and that government has prioritised a strategy before introducing legislation ([ministerial account](https://itweb.africa/article/namibia-taps-deloitte-for-ai/KzQenMjyxWY7Zd2r)). No contract, terms of reference or procurement route involving the consultancy is established ([second account](https://techafricanews.com/2026/08/05/namibia-and-deloitte-discuss-ai-strategy-and-digital-infrastructure-development/)).
@@ -197,6 +199,8 @@ The body meant to steer digital governance has not started. The digital governan
 The roadmap acquired a shape and a hole in the same statement. Presented at an international forum on 4 September, the New Deal Technologique is [54 projects across 12 programmes at US$2bn over ten years, of which US$700m is unallocated](https://dig.watch/event/wsis-forum-2026/new-technological-deal-or-or-how-a-global-south-digital-strategy-for-impactful-ict-transformation). The figures are the government's own and no project list, allocation schedule or financing plan for the unallocated third accompanies them, so what is established is the size of the programme and the size of the gap in it. The prime minister's [general policy statement of 8 September refocused the programme on a sovereign cloud for the state's sensitive data and an accelerated sectoral AI strategy](https://www.wearetech.africa/fr/fils/actualites/tech/senegal-priorites-numeriques-recentrees-sur-le-cloud-souverain-et-l-ia), narrowing selection to initiatives that are feasible, financed and able to produce measurable results.
 
 The new prime minister's [general policy declaration of 8 September kept the New Deal technologique as the framework and named a sovereign cloud to host sensitive state data on national soil](https://droit-et-politique-en-afrique.info/wp-content/uploads/2026/09/Declaration-de-politique-generale-du-Premier-ministre-Ahamadou-Alhaminou-Mohamed-Lo-8-septembre-2026.pdf), with a stated change of method: [projects must now show feasibility, financing and demonstrated impact before they proceed](https://www.socialnetlink.org/2026/09/08/dpg-cloud-souverain-ia-le-gouvernement-veut-passer-des-annonces-a-lexecution-du-new-deal-technologique/). No project list or costing accompanies it.
+
+The digital ministry [validated its draft blueprint for creating value from data at a workshop on 21 and 22 September](https://techafricanews.com/2026/09/23/senegal-validates-national-blueprint-data-valorisation/), run with Smart Africa's data-governance programme and GIZ; Senegal is a pilot with Kenya and Lesotho, and no finalisation date was given.
 
 ## Seychelles
 
@@ -246,6 +250,8 @@ The [government roadmap for 2026-2031 is in force](https://www.republiquetogolai
 Policy movement in the window was a meeting rather than an instrument. The head of government [chaired a ministerial council devoted to digitalisation, stating that it is a necessity rather than a choice](https://pm.gov.tn/fr/decision-gouvernementale/zenzri-lors-dun-conseil-ministeriel-la-digitalisation-nest-pas-un-choix). The council's decisions are not itemised in the record held, so what the repository can carry is the fact that it met and the framing it used.
 
 The customs administration [settled a 2026-2030 strategic plan built around digitisation, presented with a governance charter, its axes covering border protection, an environment for attracting foreign investment, revenue collection, working methods and social responsibility](https://www.alchourouk.com/article/%D8%A7%D9%84%D8%AF%D9%8A%D9%88%D8%A7%D9%86%D8%A9-%D8%AA%D8%B6%D8%A8%D8%B7-%D9%85%D8%AE%D8%B7%D8%B7%D9%87%D8%A7-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A-2026-2030); the plan document itself is not published.
+
+Tunisia's Geneva mission said on 21 September that [UNCTAD is supporting the trade ministry in drafting a national e-commerce strategy, with planning meetings held from 31 March to 2 April 2026](https://www.alchourouk.com/article/%D8%A7%D9%84%D8%A3%D9%88%D9%86%D9%83%D8%AA%D8%A7%D8%AF-%D9%8A%D8%AF%D8%B9%D9%85-%D8%AA%D9%88%D9%86%D8%B3-%D9%81%D9%8A-%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF-%D8%A5%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D9%84%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9); no adoption date is stated.
 
 ## Uganda
 

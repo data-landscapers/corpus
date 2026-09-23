@@ -3,13 +3,13 @@ title: Data Storage — monthly update, August – September 2026
 compiled: 2026-09-23
 period: 2026-08-01 to 2026-09-23
 subject: infra.store
-places: DZA; AGO; BWA; BFA; CMR; CAF; COG; CIV; EGY; GNQ; ERI; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SLE; SOM; ZAF; SSD; TZA; TUN; ZWE
-record: 7681278e632e
+places: DZA; AGO; BWA; BFA; CMR; CAF; COG; CIV; EGY; GNQ; ERI; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SLE; SOM; ZAF; SSD; TZA; TUN; ZWE
+record: c9b9dce4b7d5
 ---
 
 # Data Storage: monthly update, August – September 2026
 
-*34 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*35 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -63,6 +63,8 @@ Huawei [has bid to build the government's AI data centres](https://thenextweb.co
 
 The operator's own hub moved on its schedule rather than its capacity. Its chief executive told the half-year results call that [phase two of the Regional Data Hub is expected to begin operating within one to two months on economics improved against phase one, with further data-centre projects screened on internal rate of return, payback period and business model](https://www.fintechgate.net/250173); the carve-out of the data-centre assets into a wholly owned subsidiary continues, and the chief financial officer said the uncompleted stake sale was not a negative development because the business is worth more retained. No entry-into-service date or capacity figure is confirmed, against a schedule the repository already records as slipped.
 
+A domestic investment holding reviewed its Kemet data centre in the Suez Canal Economic Zone with the communications minister on 23 September: [an 80 MW Tier III site with USD 270 million allocated to the first phase of a project put at USD 1.2 billion](https://english.ahram.org.eg/News/577345.aspx). No timeline was disclosed.
+
 ## Equatorial Guinea
 
 The government [formally pressed the supplier to deliver the equipment still outstanding under the 2020 contract to digitise the state broadcaster's technical infrastructure](https://www.guineaecuatorialpress.com/noticias/guinea_ecuatorial_exige_a_startimes_cumplir_con_el_envio_del_material_pendiente_para_digitalizar_rtvge). Six years after signature the contract is being chased rather than closed, and no delivery schedule, contract value or penalty is on file.
@@ -70,6 +72,10 @@ The government [formally pressed the supplier to deliver the equipment still out
 ## Eritrea
 
 Domestic hosting appears on this repository for the first time, and it is the state operator that put it there. Eritel [publishes a private cloud service hosted entirely in its own data centres, in three subscription tiers of 100, 250 and 500 gigabytes for 20, 50 and 100 users, each carrying a 90 per cent uptime service level and a recovery-time objective of up to six days](https://eritel.com.er/contents.php?id=1046). Those are subscription sizes rather than a statement of the estate behind them: no aggregate capacity figure, facility count or location is published for Eritrea by anyone, and a six-day recovery objective is the measure of what backup means in this market. Three weeks earlier a diaspora outlet [set out a national digital infrastructure agenda — a submarine cable landing at Massawa and Assab, redundant fibre, an exchange point at Asmara, domestic data-centre capacity, diversified technology partners and a national digital infrastructure authority](https://mesobjournal.com/post/eritrea-digital-sovereignty-red-sea-internet-gateway). It is an independent publication rather than a think tank or a government document, and nothing records the adoption of any part of it.
+
+## Eswatini
+
+The finance minister told Parliament on 22 September that [the disaster recovery site planned for Lubombo had failed to proceed, the US$10.4 million India Exim loan behind it had never been drawn, and Treasury had written to the lender asking to cancel it](https://times.co.sz/44419/news/govt-seeks-to-cancel-e182m-data-recovery-site-loan/). He also said [government needs a functional primary data centre before a backup, and that the science-park facility does not constitute a fully operational data centre](https://independentnews.co.sz/48729/news/govt-systems-crippled-by-digital-outages/). Its operator describes the same facility as Tier III.
 
 ## Gabon
 
