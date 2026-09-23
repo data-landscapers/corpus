@@ -58,7 +58,7 @@ Add the two subjects to Corpus's `lookups/taxonomy.csv` (`finance.sustain` at 8 
 
 ## Phase C — the lookups and the rubric
 
-### C1. Cut `lookups/maturity-norms.csv` from the register — **CC** — S, after A2 has closed the lines it can
+### C1. Cut `lookups/maturity-norms.csv` from the register — **CC** — S, after A2 has closed the lines it can — *done 2026-09-23: 117 rows (105 AU, 7 continental, 4 global, 1 corpus) by `scripts/maturity-norms-cut.py`; `--check` says whether the lookup is still the register's cut; 8 rows carry `not verified`*
 
 One row per assessed indicator (117), columns `indicator_id, kind, tier, instrument, adopting_body, adopted, status, provision, fixes, reference, url, vintage, notes`, cut by script from `maturity-assessment-norms.md` §3 and §4 rather than retyped, so the register stays the source until the lookup exists and the two cannot disagree at birth. A row whose §6 item is still open carries `provision not verified` in `notes`. A check (D3) will require a row per assessed id. Done when the lookup has 117 rows, one tier value from the five, and `lint-structured-data.py` (or its successor) reads it clean.
 

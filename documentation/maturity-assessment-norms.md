@@ -2,7 +2,7 @@
 type: reference
 title: maturity-assessment-norms.md — the anchoring norm for each assessed indicator
 last_reviewed: 2026-09-23
-status: register ruled on by Bill 2026-09-22 (anchors and kinds agreed; frame change in §2); §6 checked against primary texts 2026-09-23, three lines left open with the reason; nothing cut to lookups/ yet
+status: register ruled on by Bill 2026-09-22 (anchors and kinds agreed; frame change in §2); §6 checked against primary texts 2026-09-23, three lines left open with the reason; cut to lookups/maturity-norms.csv by scripts/maturity-norms-cut.py, which stays the only way the lookup changes
 ---
 
 # The norms register
