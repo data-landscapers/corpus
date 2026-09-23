@@ -211,7 +211,8 @@ def apply(name, where, dry):
     logged with the records it rests on, then every accounted slug marked considered."""
     dec = {"considered": {}, "rows": {}}
     clashes = []
-    for f in sorted((WORK / where).glob("decisions*.json")):
+    files = sorted((WORK / where).glob("decisions*.json"))
+    for f in files:
         part = json.loads(f.read_text(encoding="utf-8"))
         dec["considered"].update(part.get("considered", {}))
         for key, d in part.get("rows", {}).items():
@@ -357,6 +358,12 @@ def apply(name, where, dry):
     for fid, action, det, src, summary in reversed(logs):
         dl.log(name, fid, action, det, src, date=today, summary=summary)
     print(f"{mark(name, dec['considered'])} slug(s) marked considered")
+    # Applied files leave the folder: --apply reads every decisions*.json there, so one left behind
+    # replays at the next apply and re-adds rows since merged (Teraco CT3, 2026-09-23).
+    done = WORK / where / f"applied-{today}"
+    done.mkdir(exist_ok=True)
+    for f in files:
+        f.replace(done / f.name)
 
 
 def joined(facility, slugs, cand):
