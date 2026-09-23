@@ -2,7 +2,7 @@
 type: review
 title: maturity-rubric-review.md — CC's review of each rubric chapter before it is cut (task C2)
 last_reviewed: 2026-09-23
-status: Governance and the Finance instrument accepted and cut 2026-09-23; DPI reviewed 2026-09-23 — returned with six items
+status: Governance and the Finance instrument accepted and cut 2026-09-23; DPI accepted and cut 2026-09-23 (second review); 64 of 117 cut
 ---
 
 # Rubric review
@@ -86,3 +86,8 @@ Rebase both exchange rows on links: 2 a link planned or piloted; 3 **one** excha
 
 When the six are in, CC re-runs the checker and cuts DPI (instruments and systems).
 
+## DPI — second review 2026-09-23: accepted and cut
+
+**All six items are in**, the checker reads the draft clean with no warnings, and the Governance chapter still reads as its cut. The two exchange rows now read links — one exchange in service at stage 3, exchanges on a shared identifier at stage 4 — so an EMIS or a social registry coming into service moves the MIS or registry row and not the exchange row as well. Cut by `maturity-rubric-cut.py --chapter DPI --kind instrument --kind system`: 34 indicators, 170 rows; the lookup holds 64 of 117, 229 interpolated rungs.
+
+**Register aligned**: Cowork corrected `dpi.pay--revenue-collection`'s TADAT reference to P5-15; CC made `dpi.mis--tax`'s anchor P4-14 and P5-15 with the lower deciding, as the rubric now reads, and re-cut `maturity-norms.csv`.

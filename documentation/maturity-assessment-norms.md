@@ -197,7 +197,7 @@ Notes:
 | dpi.mis--education | S | AU | AU Digital Education Strategy (2022) | EMIS 1.0 → 2.0 | rungs | UIS/GPE 2020 |
 | dpi.mis--social-protection | S | AU | Protocol on Social Protection (2022) Arts 23, 25 | MIS; data management | top | GTMI I-11 |
 | dpi.mis--justice | S | AU | ACHPR Fair Trial Principles (2003) | Systems for recording proceedings, storing information, public access | top | — |
-| dpi.mis--tax | S | global | TADAT (2019) POA1, POA4, POA5 | E-filing, e-payment, registration integrity (A–D) | rungs | GTMI I-7, I-21 |
+| dpi.mis--tax | S | global | TADAT (2019) P4-14, P5-15 | Use of electronic filing facilities (P4-14) and of electronic payment methods (P5-15), A–D, the lower deciding; registration integrity (P1-1) is `dpi.registry--tax-register`'s | rungs | GTMI I-7, I-21 |
 | dpi.mis--customs | S | AU | AfCFTA Protocol on Trade in Goods Annexes 3 and 4 | Customs automation; single window; risk management; e-payment | top | WCO Revised Kyoto Convention ch. 7; GTMI I-8, I-23 |
 | dpi.mis--land | S | AU | AU Declaration on Land (2009); Framework and Guidelines on Land Policy | As land register: F&G §3.6.2 computerised Land Information Systems for land rights delivery | top | UN-GGIM FELA |
 | dpi.govtech--e-government-services | S | AU | DTS; Public Service Charter Art. 8 | "single digital gateway"; G2B, G2G, G2C services; modern technologies in service delivery | top | UN EGDI bands; GTMI groups A–D, I-19 |
