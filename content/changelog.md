@@ -1,3 +1,8 @@
+## 23 September 2026
+
+- A Chinese government grant to Djibouti for urban surveillance is now carried at the US$20m the two governments announced in 2017, not the US$23.05m a dataset had restated it to in constant dollars, and Djibouti's total for that year falls to match. In Cabo Verde, three African Development Bank operations recorded as technical assistance are corrected to loans, and a state guarantee and a government memorandum leave the non-state table, taking the country from 22 deals to 20 with no dollar total moving.
+- Fourteen national budget volumes from the Central African Republic and South Africa now have catalogue entries of their own, each carrying the publisher's URL and the held file's size and checksum. Budget figures for both countries now cite the volume they are printed in rather than a derived line record.
+
 ## 22 September 2026
 
 - The non-state finance table adds seven deals worth US$151m, taking it from 1,478 to 1,485: debt and equity for WIOCC and its data centre arm OADC, a MIGA guarantee for Raxio's data centres, feasibility funding for a data centre in Côte d'Ivoire, and DEG's 2015 stake in Ghana's Surfline. Totals rise for Côte d'Ivoire, Ghana, Nigeria, South Africa and the Sub-Saharan Africa regional line, almost all of it data centre and fibre finance.

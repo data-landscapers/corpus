@@ -19,8 +19,10 @@ source is staged when it is not on a reference host and a publication date can b
 page's own metadata, a PDF's, or a dated path (`/2024/05/…`).
 
 Each staged file is `status-stage.py`'s format: the body verbatim from the T4 cache under a
-`URL:` line, `places` for every country whose facilities cite it, `topics: [infra.store]`, and
-`sweep_batch: dataset-data-centres-batch-NN-{date}`. Batches are `new-queue/dataset-data-centres-batch-NN/`,
+`URL:` line, `places` for every country whose facilities cite it, `topics: []`, and
+`sweep_batch: dataset-data-centres-batch-NN-{date}`. **Topics are left for ingest** (notes-for-corpus 50):
+a blanket `infra.store` routed payments, procurement and earnings releases to the data-centre pages,
+and a wrong facet is worse than none. Batches are `new-queue/dataset-data-centres-batch-NN/`,
 40 documents each across countries (Bill, 2026-09-21: OSINT works them in 40s; T5's first round
 went out by country), numbered on so none is reused, written without `READY`: OSINT pulls
 `dataset-` folders itself.
@@ -231,7 +233,7 @@ def stage(round_: str = "") -> None:
             title, body, publisher = clean(title), clean(body), clean(publisher)
             title = title or up.urlsplit(u).path.rstrip("/").rsplit("/", 1)[-1].replace("-", " ")[:120]
             row = {"url": u, "title": title, "publisher": publisher or up.urlsplit(u).netloc.removeprefix("www."),
-                   "published": date[:7] if precision == "month" else date, "sub_section": "infra.store"}
+                   "published": date[:7] if precision == "month" else date, "sub_section": ""}
             path = ss.write_file(str(folder), row, body, fetched or u, today, iso, title)
             # status-stage writes one place and its own batch name; a dataset source can serve several.
             text = pathlib.Path(path).read_text(encoding="utf-8")
