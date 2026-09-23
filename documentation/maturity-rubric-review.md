@@ -2,7 +2,7 @@
 type: review
 title: maturity-rubric-review.md — CC's review of each rubric chapter before it is cut (task C2)
 last_reviewed: 2026-09-23
-status: Governance and the Finance instrument accepted and cut 2026-09-23; 83 of 117 cut; Capacity, Inclusion, Data and Geopolitics reviewed 2026-09-23 — returned with two one-line items
+status: Governance and the Finance instrument accepted and cut 2026-09-23; every instrument and system (95 of 117) accepted and cut 2026-09-23; the 22 measures are C3
 ---
 
 # Rubric review
@@ -122,3 +122,7 @@ When the six are in, CC re-runs the checker and cuts DPI (instruments and system
 - **The sovereignty rubric's source is this file.** At the cut, CC points `indicator-digital-sovereignty.md` §5 here and keeps its table as the design record, so there is one source for the lookup.
 
 When the two are in, CC cuts all four chapters' instruments and systems and C2's drafting of non-measures is complete; the measures follow in C3.
+
+## Capacity, Inclusion, Data and Geopolitics — second review 2026-09-23: accepted and cut
+
+**Both edits are in** — feedback-portal stage 5 on the Charter and Declaration with the EPI left to the qualifier, and the disabilities treaty-report limb gone — and the checker is clean. Cut: Capacity 1, Inclusion 4, Data 6, Geopolitics 1. **The lookup holds all 95 assessed instruments and systems**, 347 interpolated rungs; `--complete` now fails on exactly the 22 measures, which are C3. `indicator-digital-sovereignty.md` §5 now points here as the source.

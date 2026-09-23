@@ -43,6 +43,8 @@ Already in `maturity-assessment-norms.md` §3 (Geopolitics). Tier **AU**; anchor
 
 ## 5. The rubric
 
+*(The source for `lookups/maturity-rubric.csv` is `maturity-rubric.md`, where this rubric was carried on 2026-09-23 with three changes from the reviews: the 12-month look-back in place of the window, the DPF's rungs marked `no` at stages 3–4, and stage 5 as the register reads it. The table below is the design record and is not maintained.)*
+
 | stage | anchor | interpolated |
 |---|---|---|
 | 1 Absent | No policy or law on where state data sits or who may process it; core systems (ID, payments, exchange, government hosting) operated by a foreign provider or partner with no exit, portability or jurisdiction terms on record; and the base holds a citation for at least one of these, not merely silence | yes |
