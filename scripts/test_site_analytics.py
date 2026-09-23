@@ -78,9 +78,10 @@ check("the window never reaches before the floor",
 
 print("host folding")
 check("known hosts kept", [sa.fold_host(DL), sa.fold_host(CORPUS)], [DL, CORPUS])
+check("local previews are dropped",
+      {sa.fold_host(h) for h in ("localhost", "127.0.0.1", "::1")}, {None})
 check("everything else is other",
-      {sa.fold_host(h) for h in ("localhost", "127.0.0.1", "www.data-landscapers.io", None, "(not set)")},
-      {"other"})
+      {sa.fold_host(h) for h in ("www.data-landscapers.io", None, "(not set)")}, {"other"})
 
 print("merge")
 t = filled("2026-09-20", "2026-09-21", **BOTH)

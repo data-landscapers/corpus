@@ -14,9 +14,10 @@ first date since `FLOOR` on which it has no value at all.
 date when that date is on or before the newest date it returned any row for. On an
 answered date a known host it said nothing about is 0; on an unanswered one (Search
 Console has not published yet, or the fetch failed) the old value stands, blank if
-there was none. `other` sums `users` across hosts, which over-counts anyone who hit two
-of them — it is there so the day's views reconcile with the GA interface, not as a
-headcount.
+there was none. Views from a local preview (`LOCAL`) are dropped, not counted: they
+are the site being checked on this machine, not readers. `other` sums `users` across
+hosts, which over-counts anyone who hit two of them — it is there so the day's public
+views reconcile with the GA interface, not as a headcount.
 
 **A row's `fetched_at` moves only when one of its values does**, so a run that changed
 nothing leaves the file byte-identical and the cycle commits nothing.
@@ -50,6 +51,8 @@ SC_SITE = "sc-domain:data-landscapers.io"
 # Bill, 2026-09-23: the log starts here. Search Console has nothing earlier.
 FLOOR = dt.date(2026, 9, 13)
 HOSTS = ("data-landscapers.io", "corpus.data-landscapers.io")
+# Bill, 2026-09-23: a local preview is not a reader; dropped rather than folded into other.
+LOCAL = {"localhost", "127.0.0.1", "::1", "[::1]"}
 SHORT = {"data-landscapers.io": "dl.io", "corpus.data-landscapers.io": "corpus"}
 FIELDS = ["date", "host", "views", "users", "sessions", "clicks", "impressions", "fetched_at"]
 COLS = {"ga": ("views", "users", "sessions"), "sc": ("clicks", "impressions")}
@@ -61,7 +64,10 @@ class Misconfigured(Exception):
     """No key, an unreadable key, or a permission Google refused — exit 2, needs Bill."""
 
 
-def fold_host(host: str | None) -> str:
+def fold_host(host: str | None) -> str | None:
+    """The table's host for a reported one; None for a local preview, which is dropped."""
+    if host in LOCAL:
+        return None
     return host if host in HOSTS else "other"
 
 
@@ -174,6 +180,8 @@ def fetch_ga(start: dt.date, end: dt.date) -> dict[tuple[str, str], dict[str, in
             raise Misconfigured(f"permission denied: {e.message}") from None
         for row in r.rows:
             raw, host = (v.value for v in row.dimension_values)
+            if fold_host(host) is None:
+                continue
             d = f"{raw[:4]}-{raw[4:6]}-{raw[6:]}"
             acc = out.setdefault((d, fold_host(host)), {c: 0 for c in COLS["ga"]})
             for c, m in zip(COLS["ga"], row.metric_values):
@@ -204,6 +212,8 @@ def fetch_sc(start: dt.date, end: dt.date) -> dict[tuple[str, str], dict[str, in
         rows = r.get("rows", [])
         for row in rows:
             d, url = row["keys"]
+            if fold_host(urlsplit(url).hostname) is None:
+                continue
             a = acc.setdefault((d, fold_host(urlsplit(url).hostname)), {"clicks": 0, "impressions": 0})
             a["clicks"] += row.get("clicks", 0)
             a["impressions"] += row.get("impressions", 0)

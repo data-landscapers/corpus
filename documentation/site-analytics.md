@@ -23,7 +23,7 @@ status: built 2026-09-23 (CC); runs as CYCLE.md step 1a
 
 One row per **date × host**: `date,host,views,users,sessions,clicks,impressions,fetched_at`.
 
-- `host` is `data-landscapers.io` or `corpus.data-landscapers.io`. Anything else GA reports (`www.`, `localhost`, a preview host) is summed into one row with host `other`, so the day's total still reconciles with the GA interface.
+- `host` is `data-landscapers.io` or `corpus.data-landscapers.io`. A local preview (`localhost`, `127.0.0.1`) is dropped — the site being checked on this machine, not readers (Bill, 2026-09-23). Anything else GA reports (`www.`, a preview host) is summed into one row with host `other`, so the day's public total reconciles with the GA interface less those local views.
 - `views` is GA4 `screenPageViews`; `users` is `totalUsers`; `sessions` is `sessions`. `clicks` and `impressions` are Search Console's.
 - `fetched_at` is when the row was last written, UTC, ISO 8601.
 - Sorted by date then host. **Written with `\n` line endings** (`lineterminator="\n"`), because a Windows `csv.writer` default of `\r\n` churns the whole file on every run.
