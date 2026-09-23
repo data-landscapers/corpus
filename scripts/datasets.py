@@ -225,7 +225,7 @@ DC_PAGE = """<!DOCTYPE html>
     </div>
 
     <h2 class="section-heading" id="changes">Recent changes</h2>
-    <p class="table-note">The latest {recent} of {n_changes} changes. <a class="btn btn--sm" href="{changes_csv}" download>&darr; All changes (CSV)</a></p>
+    <p class="table-note">The latest {recent} of {n_changes} change{changes_s}. <a class="btn btn--sm" href="{changes_csv}" download>&darr; All changes (CSV)</a></p>
 
 {changes}
 
@@ -386,7 +386,7 @@ def main() -> int:
         detail=", ".join(DETAIL), badges=attr(BADGES),
         labels=attr({"country": {c: names.get(c, c) for c in used}}),
         changes=indent(changes_html(changes, fnames)), status=notice(),
-        changes_csv=c_path.name, recent=min(RECENT, len(changes)), n_changes=f"{len(changes):,}",
+        changes_csv=c_path.name, recent=min(RECENT, len(changes)), n_changes=f"{len(changes):,}", changes_s="" if len(changes) == 1 else "s",
         built=date.today().isoformat(), edition=edition, **counts)), encoding="utf-8")
 
     (OUT / "index.html").write_text(external_links(INDEX_PAGE.format(
