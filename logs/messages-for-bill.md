@@ -13,17 +13,4 @@ last_reviewed: 2026-08-28
 *(**Form.** `## YYYY-MM-DD HH:MM · job`, then one bullet per item: what happened, what the run did about it, what Bill's options are. Insert directly under the marker — appending puts the newest block at the bottom of a file that reads top-down.)*
 
 <!-- newest first: a new block goes directly below this line -->
-
-## 2026-09-23 · poll
-
-- **Day B's build is held by uncommitted work that is not the poller's.** `--claim` answers "held — Corpus has uncommitted tracked changes": a finance rebuild dated 2026-09-22 (16 files, new `*-nonstate-2026-09-22.csv`) and six `documentation/` drafts, apparently Cowork's. The poller has left them untouched and keeps polling. Commit or discard them, or tell CC to commit them, and the next tick builds.
-
-## 2026-09-21 00:20 · review
-
-- **The non-state summary's year columns are the record's publication year, not the deal's.** `aggregate3` buckets each row by `published` while the downloadable row shows `start_year`; they agree on 1,339 of 1,453 rows and differ on 114, 26 of them by two years or more — a 2022 Comoros grant prints under 2025/26. Which field is authoritative is a data-quality judgement across the estate, not a run's. Left as compiled.
-
-
-## 2026-09-18 12:40 · review
-
-- **A US$4bn MoU is summed as committed digital finance.** Botswana's non-state table carries an Indian group's renewable-energy and transmission MoU at its full headline value, and the summary adds it to a signed World Bank loan in one Energy cell reading 4,088. The record is honest — instrument MoU, amount reported — so the question is Corpus's: should non-binding instruments be excluded from summary totals estate-wide, as unclear-scope lines already are? Left as compiled.
-
+ 

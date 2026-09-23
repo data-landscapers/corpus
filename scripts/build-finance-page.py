@@ -248,6 +248,19 @@ def excl_reason(r, a, rate):
         return "supp"
     return ""
 
+def deal_year(r):
+    """The deal's own year, which is authoritative (Bill, 2026-09-23): the start year, else the
+    commitment year, else the record's publication year. The summary bucketed by publication
+    year while the export printed this, and 114 of 1,453 rows disagreed - a 2022 Comoros grant
+    summed under 2025/26. A cell counts only where it opens with a year: five records annotate
+    theirs (`2015 (2015-07-06)`) or state none (`*not stated*`), and a bare string made a column."""
+    T = r["table"]
+    for v in (T.get("Start year", ""), T.get("Commitment year", ""), r["published"] or ""):
+        m = re.match(r"\s*((?:19|20)\d\d)(?!\d)", v)
+        if m:
+            return m.group(1)
+    return ""
+
 def aggregate3(ns, dom, fx):
     """Both blocks US$m (ball-park). Domestic converted at the IMF annual average for
     the currency and the fiscal year's START year. Excluded lines are reported apart,
@@ -256,7 +269,7 @@ def aggregate3(ns, dom, fx):
     fys_ns, fys_dom = set(), set()
     excl = {}                                    # reason -> [count, US$m where computable]
     for r in ns:
-        s = primary_subject(r); fy = fy_label_from_year((r["published"] or "")[:4])
+        s = primary_subject(r); fy = fy_label_from_year(deal_year(r))
         u = usd_millions(r["table"].get("Commitment (USD)", ""))
         if s and u:
             nsb.setdefault(s, {}).setdefault(fy, 0); nsb[s][fy] += u; fys_ns.add(fy)
@@ -332,8 +345,7 @@ def _ns_row(r, country, lab):
     T = r["table"]; fm = r["fm"]
     usd, basis = deal_usd(T)
     sec = primary_subject(r)
-    start = T.get("Start year", "") or T.get("Commitment year", "") or (r["published"] or "")[:4]
-    return [country, start, T.get("End year", ""),
+    return [country, deal_year(r), T.get("End year", ""),
             fin_name(fm_get(fm, "financier_slug")), lab.get(sec, sec),
             T.get("Instrument", ""), usd_m_cell(usd), basis,
             amount_quality(r), T.get("Status", ""),
