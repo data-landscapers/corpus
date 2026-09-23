@@ -2,7 +2,7 @@
 type: task
 title: indicator-financial-sustainability.md — add a financial sustainability indicator in place of finance.mou
 last_reviewed: 2026-09-22
-status: planned, for CC to carry out per adding-an-indicator.md; no taxonomy change if Bill accepts the finance.budget placement (§1); evidence depends on the budget-extract queue (§7)
+status: planned, for CC to carry out per adding-an-indicator.md; subject finance.sustain ruled by Bill 2026-09-23 (§1), so blocked on OSINT adding it; evidence depends on the budget-extract queue (§7)
 ---
 
 # Financial sustainability — a new indicator in place of `finance.mou--strategic-relationships`
@@ -17,19 +17,21 @@ It is a measure, and that is the point: the base already reads budgets line by l
 
 It is distinct from the instrument beside it. `finance.budget--sustainable-domestic-financing-of-digital-transformation` asks whether a *mechanism* exists — a budget line, a fund, a levy or own-source revenue written into the finance law. This asks what the state *actually carries*. A country can have the mechanism and a 15 % domestic share, or no mechanism and a treasury that quietly pays for everything; the two rows together say which.
 
-## 1. The subject — `finance.budget`, which exists
+## 1. The subject — `finance.sustain`, which does not exist yet
 
-Proposed under **`finance.budget` — Domestic budget appropriations and expenditure**, because the subject label already covers expenditure and the evidence is the budget file. No taxonomy change, no OSINT dependency. The alternative — a new `finance.sustain` subject so that the indicator has a section of its own — would travel to OSINT as a patch alongside `geopol.sovereignty`; it is Bill's call (`maturity-assessment.md` §13), and this note is written for `finance.budget`. `finance.mou` keeps its retired row and prints nothing in the assessment.
+**`finance.sustain` — Financial sustainability** *(Bill, 2026-09-23)*: `finance.budget` is for the facts of actual budgets, and `finance.sustain` covers efforts to make the digital estate financially sustainable — domestic financing mechanisms, funds and levies, cost recovery, plans to take externally financed systems onto the budget. The figure of record is still read from `budgets/` (§5); the subject is where the indicator sits and where sources about those efforts are tagged, and its mapped rows give the figure its context.
 
-The status outline marks `finance.budget` *suspended pending budget work*. That suspension is what this indicator ends: the budget work exists now, and the sub-section's question can be answered from `budgets/`.
+It is an OSINT change, cut in one patch with `geopol.sovereignty` (`indicator-digital-sovereignty.md` §1). Nothing in the frame is minted until the mirror shows the subject. `finance.mou` keeps its retired row and prints nothing in the assessment.
+
+The instrument row `finance.budget--sustainable-domestic-financing-of-digital-transformation` keeps its subject and its id, which are never renamed, although its question is closer to the new subject's scope; its mapping may cite `finance.sustain` rows like any other.
 
 ## 2. The id
 
-`finance.budget--financial-sustainability-of-digital-systems`. Display text *Financial sustainability of digital systems*. No collision.
+`finance.sustain--financial-sustainability-of-digital-systems`. Display text *Financial sustainability of digital systems*. No collision.
 
 ## 3. The frame row
 
-`finance.budget--financial-sustainability-of-digital-systems, 7, 2, Finance, Domestic budget appropriations and expenditure, finance.budget, Financial sustainability of digital systems, measure, 1` — `Indicator Sort` 2, after the existing `finance.budget` row. `finance.mou--strategic-relationships` gets `assessed = 0`, `retired = 2026-09-22` in the same edit.
+`finance.sustain--financial-sustainability-of-digital-systems, 40, 1, Finance, Financial sustainability, finance.sustain, Financial sustainability of digital systems, measure, 1` — `Topic Sort` 40, appended after `geopol.sovereignty` (39) so that no other subject renumbers; the Level-1 grouping puts it in the Finance chapter, which CC checks at B3. Adjust to whatever sort order OSINT gives it. `finance.mou--strategic-relationships` gets `assessed = 0`, `retired = 2026-09-22` in the same edit.
 
 **Kind: measure.** The figure of record is defined in §5.
 
@@ -59,7 +61,7 @@ Already in `maturity-assessment-norms.md` §3 (Finance). Tier **AU**; anchor **A
 
 ## 6. The status outline
 
-Under `### finance.budget`, lift the *suspended* marker and add the bullet: whether the digital estate is domestically financed and executed — answered from `budgets/{ISO3}/{FY}.csv` (share, stages, execution), not from any DPI variable; where the folder holds only migrated rows, the section says the budget has not yet been read, dated.
+A new `### finance.sustain — Financial sustainability` sub-section, with the bullet: whether the digital estate is domestically financed and executed — answered from `budgets/{ISO3}/{FY}.csv` (share, stages, execution), not from any DPI variable — and what the state is doing to make it so, from the wiki; where the folder holds only migrated rows, the section says the budget has not yet been read, dated. `finance.budget`'s *suspended* marker is not this indicator's to lift.
 
 ## 7. The mapping pass
 
@@ -81,7 +83,7 @@ The frame checks in `maturity-assessment.md` §11, plus one of its own: `value` 
 
 ## Build steps, in order
 
-1. Bill: confirm `finance.budget` as the subject, or ask for `finance.sustain` (then §1 of `indicator-digital-sovereignty.md` applies and the two slugs travel in one patch).
+1. Bill: ruled `finance.sustain`, 2026-09-23. CC cuts it into the OSINT patch with `geopol.sovereignty`; OSINT applies it.
 2. CC: edit `lookups/indicators.csv` (§3), the norms lookup row (§4), the five rubric rows with the provisional bands (§5), the status outline (§6), the mapping-conventions exception (§7). One commit.
 3. CC: extend the extract to record the external digital total per country-year (§5), backfilling it for the four read country-years from the log notes and the documents; add the step to `BUDGET-EXTRACT.md`. One commit.
 4. CC: the assessment arithmetic and its check (§9), run inside the baseline pass. Changelog.

@@ -3,7 +3,7 @@ type: tasks
 title: Maturity assessment — the build, as sequential tasks with owners
 date: 2026-09-22
 source: documentation/maturity-assessment.md §12 (expanded here); maturity-assessment-norms.md; adding-an-indicator.md; indicator-digital-sovereignty.md; indicator-financial-sustainability.md
-status: not started; task 1 is Bill's and everything else waits on it
+status: in progress; A1 done 2026-09-23
 ---
 
 # Maturity assessment — tasks
@@ -16,15 +16,15 @@ status: not started; task 1 is Bill's and everything else waits on it
 
 ## Where this stands
 
-Nothing built. Five documents in `documentation/` (the source line above) and this one; the frame, the lookups, the scripts and the outputs are untouched.
+**A1 done 2026-09-23** *(Bill)*: the sustainability indicator gets its own subject, `finance.sustain`; quintiles are cut at the baseline and recut each July. Both are in `maturity-assessment.md` §2, and the indicator documents and this file are amended to match. Nothing else built.
 
 ---
 
 ## Phase A — decisions and confirmations (nothing built until A1 is done)
 
-### A1. Rule on the two open placements — **Bill** — S
+### A1. Rule on the two open placements — **Bill** — S — *done 2026-09-23: `finance.sustain`; July recut*
 
-Two questions in `maturity-assessment.md` §13: whether the financial sustainability indicator sits under `finance.budget` (no taxonomy change) or gets its own `finance.sustain` subject (travels to OSINT with `geopol.sovereignty`); and whether the Africa-quintile cadence is *cut at the baseline, recut each July*. Done when both are written into `maturity-assessment.md` §2 as rulings. Everything below assumes `finance.budget` and the July recut; if either goes the other way, B1 and C3 change and nothing else does.
+Two questions in `maturity-assessment.md` §13: whether the financial sustainability indicator sits under `finance.budget` (no taxonomy change) or gets its own `finance.sustain` subject (travels to OSINT with `geopol.sovereignty`); and whether the Africa-quintile cadence is *cut at the baseline, recut each July*. Done when both are written into `maturity-assessment.md` §2 as rulings. Everything below assumes `finance.sustain` and the July recut.
 
 ### A2. Confirm the register's not-verified items — **CC** (research, not code) — M, runs in parallel with everything through Phase C
 
@@ -40,19 +40,19 @@ Point CC at this file and the five documents. Done when CC has read them and log
 
 ### B1. Cut the taxonomy patch for OSINT — **CC** → **OSINT** — S to cut, then blocked
 
-`scripts/osint-patch.py prepare`; in the clone add `39,geopol.sovereignty,Geopolitics,Digital sovereignty` to `lookups/taxonomy.csv` (and `finance.sustain` if A1 says so); `cut`; deliver to `prepared/job-NN/` on the share with the base commit named; commit and push the share. If `wiki/taxonomy.md` is outside what a patch may carry, write the `[ACT]` note in `notes-for-osint.md` with `Affects: lookups/indicators.csv, the maturity assessment's Geopolitics chapter`. Run `lint-prepared.py`, `lint-notes.py`, `lint-preambles.py`. Done when the job is on the share and `git log` on the share shows it pushed. **B3 is blocked until the mirror shows the subject**; B2 is not.
+`scripts/osint-patch.py prepare`; in the clone add `geopol.sovereignty` — Digital sovereignty and `finance.sustain` — Financial sustainability to OSINT's `lookups/taxonomy.md` and to `lookups/report-region-sections.csv`; `cut`; deliver to `prepared/` on the share with the base commit named; write the `[ACT]` note in `notes-for-osint.md` asking OSINT to apply it and mint the two concept pages (wiki prose, which a patch may not carry), `Affects: lookups/indicators.csv, the maturity assessment's Geopolitics and Finance chapters`; commit and push the share. (Corpus's `lookups/taxonomy.csv` is its own display copy and gains the two rows at B3.) Run `lint-prepared.py`, `lint-notes.py`, `lint-preambles.py`. Done when the job is on the share and `git log` on the share shows it pushed. **B3 is blocked until the mirror shows the subjects**; B2 is not.
 
 ### B2. Add `kind` and `assessed` to the frame; flag the six that leave — **CC** — S
 
 `lookups/indicators.csv`: two new columns, `kind` from `maturity-assessment-norms.md` §3 (44 I, 51 S, 22 M — the register is the source, not this file), `assessed = 1` for all except the five `geopol.*` rows and `finance.mou--strategic-relationships`, which get `assessed = 0` and `retired = 2026-09-22` in a third new column. `indicators_lib.frame()` learns the three columns and exposes `assessed()`; `test_indicators.py` gains a case that the frame reads with the new columns and that an `assessed = 0` row is not returned by the assessed view. The `Progress indicator` column keeps its name for now. Done when the tests pass and `report-render.py` still renders the progress report unchanged (it must not notice `assessed` yet — the progress report keeps printing all 121 until G1).
 
-### B3. Mint the two new frame rows — **CC** — S, blocked on B1 for the sovereignty row
+### B3. Mint the two new frame rows — **CC** — S, blocked on B1
 
-`geopol.sovereignty--digital-sovereignty` (sort 39, or whatever OSINT gave the subject) and `finance.budget--financial-sustainability-of-digital-systems` (Indicator Sort 2 under `finance.budget`), per §3 of each indicator document. `indicators_lib.ids()` shows no collision. The frame count is now 117 assessed of 123 rows. **Grep `scripts/` for `121`** and fix every docstring, description and comment that states it (`progress.py`, `report-render.py`, `rebuild.py` are known); none may be in logic. Done when the tests pass and the grep is clean. If B1 is still blocked when Phase D is ready to run, mint the finance row alone, run the baseline without sovereignty, and add it later under `adding-an-indicator.md` §8 with the July and August rows flagged `added`.
+Add the two subjects to Corpus's `lookups/taxonomy.csv` (39 and 40, appended, so nothing renumbers — check the Finance chapter still groups `finance.sustain`), then `geopol.sovereignty--digital-sovereignty` and `finance.sustain--financial-sustainability-of-digital-systems`, per §3 of each indicator document. `indicators_lib.ids()` shows no collision. The frame count is now 117 assessed of 123 rows. **Grep `scripts/` for `121`** and fix every docstring, description and comment that states it (`progress.py`, `report-render.py`, `rebuild.py` are known); none may be in logic. Done when the tests pass and the grep is clean. If B1 is still blocked when Phase D is ready to run, run the baseline without the two, and add them later under `adding-an-indicator.md` §8 with the July and August rows flagged `added`.
 
 ### B4. Status outline — **Cowork** drafts, **CC** commits — S
 
-`status-outline.md`: the `### geopol.sovereignty — Digital sovereignty` sub-section with its question and bullets (`indicator-digital-sovereignty.md` §6, with CC checking which DPI variable ids exist); the `finance.budget` sub-section's *suspended* marker lifted and the sustainability bullet added (`indicator-financial-sustainability.md` §6). Done when the outline's own counts at the top are updated and the file says 39 sub-sections.
+`status-outline.md`: the `### geopol.sovereignty — Digital sovereignty` sub-section with its question and bullets (`indicator-digital-sovereignty.md` §6, with CC checking which DPI variable ids exist); a new `### finance.sustain — Financial sustainability` sub-section with the sustainability bullet (`indicator-financial-sustainability.md` §6). Done when the outline's own counts at the top are updated and the file says 40 sub-sections.
 
 ---
 
@@ -166,6 +166,6 @@ Re-run the whole suite (`test_indicators.py`, `test_maturity.py`, `test_editions
 
 ## Dependencies at a glance
 
-A1 → everything. A2 → C1 (partial). B1 → B3 (sovereignty row) → D4 (sovereignty assessed). B2 → B3 → D1. C1, C2, C3 → D1 → D2 → D3 → D4 → D5 → D6 → E1 → E2 → E3. C4 → D4 (sustainability assessed). E1 → F1 → F2, F3, F4, F5 → G1 → G2 → H1. B4 has no dependants and can be done any time after A1.
+A1 → everything. A2 → C1 (partial). B1 → B3 (both new rows) → D4 (both assessed). B2 → B3 → D1. C1, C2, C3 → D1 → D2 → D3 → D4 → D5 → D6 → E1 → E2 → E3. C4 → D4 (sustainability assessed). E1 → F1 → F2, F3, F4, F5 → G1 → G2 → H1. B4 has no dependants and can be done any time after A1.
 
 The critical path to the live September snapshot is A1 → B2 → C1 → C2 → D1 → D2 → D3 → D4 → D5 → D6 → E1 → E2 → E3, and C2 is where the time goes.

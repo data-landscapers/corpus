@@ -21,7 +21,7 @@ That is the gap it fills. The progress vocabulary — *Movement · Stalled · Re
 
 ## 2. Decisions taken
 
-Recorded here so the build does not relitigate them. All Bill, 2026-09-22, in two rounds.
+Recorded here so the build does not relitigate them. All Bill, 2026-09-22, in two rounds, and the last two 2026-09-23.
 
 - **The assessment replaces the progress report** rather than sitting beside it.
 - **Measures are in, and are the point.** Instruments and systems are what everyone else assesses; measures are what they avoid, because the figures are stale, self-reported and defined differently source to source. Corpus can carry a figure with its date, its source and who says so, and that is what makes a banded measure publishable where a bare number is not.
@@ -34,6 +34,8 @@ Recorded here so the build does not relitigate them. All Bill, 2026-09-22, in tw
 - **No evidence flag.** The qualifier already carries *on the ministry's own figures*; a second column would duplicate it.
 - **Baseline as at 2026-07-31; first snapshot as at 2026-08-31.** The month-end assessment is run on the 5th of the following month, to let late arrivals in.
 - **Measure bands without an African number use Africa-only quintiles.**
+- **The financial sustainability indicator gets its own subject, `finance.sustain`** *(Bill, 2026-09-23)*. `finance.budget` is for the facts of actual budgets; `finance.sustain` covers efforts to make the digital estate financially sustainable. It travels to OSINT in one patch with `geopol.sovereignty`.
+- **Africa-only quintiles are cut at the baseline and recut each July** *(Bill, 2026-09-23)*, with the year of the cut named in the rubric row — never recut on an ordinary snapshot.
 - **A global dataset used as a norm is a reference, not the record.** Corpus's own collected figure takes precedence where it exists; most global datasets are out of date against what the base holds. `maturity-assessment-norms.md` §7 is the rule.
 
 ## 3. The scale: five stages and a null
@@ -183,8 +185,7 @@ Each step is a commit or a few, reviewable on its own; CC does the operational s
 
 ## 13. Still open
 
-- **Where the financial sustainability indicator sits.** `indicator-financial-sustainability.md` proposes `finance.budget`, which needs no taxonomy change and whose evidence is the budget extract; a new `finance.sustain` subject is the alternative and would go to OSINT alongside `geopol.sovereignty`. Bill's call.
-- **The Africa-quintile year.** Quintiles computed from figures of mixed vintage are quintiles of what the base holds, not of a year; the rubric should name the year each measure's quintiles were last cut and recut them on a stated cadence (annually, with the vintage) rather than on every snapshot. Proposed: cut at the baseline, recut each July.
+Nothing. Both questions left open on 2026-09-22 were ruled by Bill on 2026-09-23 and are in §2.
 
 ## What is and is not verified in this note
 
