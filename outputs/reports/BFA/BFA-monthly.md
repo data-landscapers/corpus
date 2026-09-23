@@ -1,11 +1,11 @@
 ---
 title: Burkina Faso — monthly update, August – September 2026
-compiled: 2026-09-21
-period: 2026-08-01 to 2026-09-21
+compiled: 2026-09-23
+period: 2026-08-01 to 2026-09-23
 place: BFA
-ledger_rows: 47
+ledger_rows: 48
 not_held: 8
-record: c1d9337b5082
+record: 3de767e11712
 ---
 
 # Burkina Faso: monthly update, August – September 2026
@@ -43,7 +43,9 @@ On 3 August the legislature [voted the personal-data protection bill and the org
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
-The region's answer to a network that keeps being attacked is another country's fibre. At a meeting of the two digital ministers on 12 August, [Nigeria proposed connecting its planned 90,000 km open-access national fibre network to Burkina Faso's borders to improve internet resilience, quality and affordability, alongside cooperation on artificial intelligence, digital public infrastructure and talent](https://burkina24.com/2026/08/12/cooperation-numerique-sous-regionale-le-burkina-faso-et-le-nigeria-sallient-pour-accelerer-leur-transformation-digitale/). Both halves of that are prospective: the corridor is a proposal, and the Nigerian network it would reach is itself planned rather than built.
+At a meeting of the two digital ministers on 12 August, [Nigeria proposed connecting its planned 90,000 km open-access national fibre network to Burkina Faso's borders to improve internet resilience, quality and affordability, alongside cooperation on artificial intelligence, digital public infrastructure and talent](https://burkina24.com/2026/08/12/cooperation-numerique-sous-regionale-le-burkina-faso-et-le-nigeria-sallient-pour-accelerer-leur-transformation-digitale/). Both halves of that are prospective: the corridor is a proposal, and the Nigerian network it would reach is itself planned rather than built.
+
+The telecoms regulators of Burkina Faso, Mali and Niger [announced on 23 September a cooperation convention for signature on 25 September](https://lefaso.net/spip.php?article149443), creating a standing Sahel regulators' council to coordinate roaming within the confederation, spectrum, cybersecurity, consumer protection and mutual recognition of type-approved equipment.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 

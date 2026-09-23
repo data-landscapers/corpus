@@ -1,11 +1,11 @@
 ---
 title: Mozambique — monthly update, August – September 2026
-compiled: 2026-09-18
-period: 2026-08-01 to 2026-09-18
+compiled: 2026-09-23
+period: 2026-08-01 to 2026-09-23
 place: MOZ
-ledger_rows: 77
+ledger_rows: 79
 not_held: 19
-record: 8e82b2cf8018
+record: f7304901795d
 ---
 
 # Mozambique: monthly update, August – September 2026
@@ -28,6 +28,8 @@ Artificial intelligence acquired institutions faster than instruments. A [nation
 Two strategies are being written and neither is adopted. The National Cyber Security Strategy 2026-2030 [was reviewed with a donor partner alongside an evaluation of its 2021-2025 predecessor](https://revista.tempo.co.mz/intic-e-finlandia-reforcam-cooperacao-para-a-estrategia-nacional-de-seguranca-cibernetica-2026-2030/), succeeding a policy whose own period ended last year. The National Digital Transformation Strategy [has been in drafting since February](https://www.trade.gov/market-intelligence/mozambique-digital-transformation-strategy) and is in drafting still — no change at either end of the window.
 
 Financial data residency was rewritten. The central bank [gazetted Aviso 6/GBM/2026 on 31 August, requiring every bank's primary data centre and principal information systems in national territory and revoking the 2003 rule](https://www.bancomoc.mz/media/j2fgaf3a/aviso-6_gbm_2026-de-18-de-agosto_-br_166_i_s%C3%A9rie_2026_31-de-agosto.pdf), in force 60 days after publication.
+
+The communications regulator [called on 23 September for consultants to diagnose the postal market and draft a postal sector transformation strategy, roadmap and action plan within six months](https://techafricanews.com/2026/09/23/mozambique-incm-consultants-modernise-postal-sector/), with expressions of interest due on 9 October.
 <!-- /narrative -->
 ### Legislation and regulation
 
@@ -170,7 +172,9 @@ The state is looking for a partner to take part of its telecommunications operat
 ### Literacy
 
 <!-- narrative: capacity--capacity-literacy -->
-The month's only movement on digital literacy was a demand for it. At the launch of a UNESCO-organised dialogue series in Maputo, an NGO [called for a national digital-literacy programme for young people, arguing digital skills are now a precondition for meaningful democratic participation](https://clubofmozambique.com/news/mozambique-create-national-digital-literacy-programme-for-young-people-ngo/). The repository holds no such programme or strategy, and a civil-society call is evidence that none exists rather than a step towards one; the absence is now dated.
+At the launch of a UNESCO-organised dialogue series in Maputo in August, an NGO [called for a national digital-literacy programme for young people, arguing digital skills are now a precondition for meaningful democratic participation](https://clubofmozambique.com/news/mozambique-create-national-digital-literacy-programme-for-young-people-ngo/). The repository holds no such programme or strategy.
+
+On 21 September the ICT institute [signed a memorandum with Kamaleon, a rural mobile-multimedia firm, for awareness campaigns, workshops and community forums on digital culture, cybersecurity and personal-data protection, with content in Portuguese and where possible Mozambican languages](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/mozambique-un-partenariat-public-prive-pour-renforcer-la-culture-du-numerique-en-milieu-rural). No budget, reach target or start date is stated.
 <!-- /narrative -->
 ### Training and skills
 
@@ -189,6 +193,8 @@ At the university data centre's inauguration the communications minister propose
 
 <!-- narrative: inclusion--include-access -->
 The central bank's Financial Inclusion Report 2025, reported on 24 July, counted 482,359 financial access points, up 36% on 2024, of which 446,604 were non-bank agents against 315,005 the year before, while automated teller machines fell from 1,391 to 1,383 and card terminals from 35,486 to 32,236 ([report account](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/)). [Mobile money reached 1,313 accounts per thousand adults against 337 bank accounts, and the national Financial Inclusion Index held flat at 36.4 points](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/). [Agent growth was fastest in the least-served provinces, and the report set that against a widening credit gap: women's participation in credit rose from 31% to 34% while men's rose from 59% to 66%, even as women's mobile money holding rose 24%](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/).
+
+The central bank's second-quarter indicators, published on 31 August, [counted 532,761 access points at end-June 2026, 494,955 of them e-money agents, with 650 bank branches, 1,291 cash machines and 31,316 card terminals](https://www.bancomoc.mz/media/tmkhk1cm/indicadores-estatisticos-de-inclus%C3%A3o-financeira-ii-trimestre-de-2026.xlsx); [agents grew 5.8% in the quarter while branches, cash machines and card terminals each fell slightly](https://www.bancomoc.mz/en/media/highlights/financial-inclusion-indicators-q2-2026/).
 
 August added the price side of the same picture. A standard data package [fell from 9.4% of monthly gross national income per head in 2022 to 2.67% in March 2026](https://www.oeconomico.com/mocambique-cria-mapa-nacional-da-banda-larga-para-orientar-investimento-e-reduzir-assimetrias-digitais/), on World Bank Digital Acceleration Project figures released with the coverage map. The basket behind the standard package is not defined in the record held.
 

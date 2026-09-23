@@ -3,9 +3,9 @@ title: Nigeria — monthly update, August – September 2026
 compiled: 2026-09-23
 period: 2026-08-01 to 2026-09-23
 place: NGA
-ledger_rows: 218
+ledger_rows: 221
 not_held: 9
-record: f289dd7e91d5
+record: 05221f59e813
 ---
 
 # Nigeria: monthly update, August – September 2026
@@ -198,6 +198,8 @@ The same report rates the project [Moderately Satisfactory on both progress and 
 A second use for election hardware was floated rather than agreed: the admissions board [asked the electoral commission for biometric verification machines that sit idle between elections, and the commission ordered a proof of concept on whether they are fit for it](https://von.gov.ng/jamb-inec-seek-collaboration-on-use-of-biometric-technology/). No device count, transfer basis or data-protection assessment is published, and the two registers rest on separate legal bases.
 
 The government then set itself a nearer deadline: [95 per cent identity number coverage by December 2026](https://www.thisdaylive.com/2026/09/16/fg-sets-december-deadline-for-95-nin-coverage/), announced on 16 September with the database put at nearly 140 million, a figure above the 117.5 million issued numbers the lender recorded for June.
+
+On 23 September the identity commission [denied that identity numbers and other personal data had been breached and offered for sale, and its Director-General ordered an investigation into whether licensed tokenisation verification agents had breached their licences](https://www.thisdaylive.com/2026/09/23/nimc-assures-nigerians-of-safety-of-identity-data/), directly or through sub-licensees. No finding or timetable is published.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -250,6 +252,8 @@ The federal payroll is to be audited from the outside. The President [directed t
 The delivery end of the social-protection architecture failed its audit. The Auditor-General's 2024 report states that [the government could not provide auditors with sufficient evidence that ₦33.75bn of cash transfers intended for more than 3,295,207 vulnerable households reached genuine beneficiaries, the payment platform's statements not having been supplied](https://punchng.com/falana-serap-demand-probe-into-n33-75bn-cash-transfer/), and a civil-society organisation puts over ₦78.8bn across social protection programmes as diverted, unaccounted for or irregularly spent. The audit report itself is not held, and no response from the agencies named is on file — but the finding is about the same register and the same rail the unified architecture is being designed on top of.
 
 The health ministry [inaugurated the steering committee of a new office to coordinate, standardise and integrate health technology and data systems](https://health.gov.ng/fg-moves-to-accelerate-digital-health-transformation-with-national-health-technology-and-data-analytics-office/), charged with implementing the [national digital health architecture](https://www.digitalhealth.gov.ng/_files/ugd/83cfc4_4e435ffb27084421b62605872634624b.pdf). No staffing or budget is published.
+
+The Gates Foundation and MTN's group foundation [announced a maternal health programme on 23 September with an initial investment of about US$25m for 2026 to 2030](https://techafricanews.com/2026/09/23/mtn-gates-foundation-nigeria-maternal-health-multiplier/), combining AI-enabled decision support for health workers and mothers with affordable phones, data and facility connectivity, and targeting 500,000 women, 5,000 health workers and 500 facilities by 2030. The funders' shares are not stated.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -279,6 +283,8 @@ Anambra began the second phase of its own state strategy, [expanding its OneGov 
 One state measured its own agencies rather than announcing a platform. The Anambra ICT agency [assessed about 25 ministries, departments and agencies for digital compliance, data protection and readiness to deliver services digitally](https://von.gov.ng/anambra-assesses-25-mdas-for-digital-compliance/), reporting compliance with the 2023 data protection Act as uncertain in some of them and records management uneven. No scoring method, agency list or published report is held.
 
 [A UK-funded programme of state-level digital policy and institutional reform was inaugurated in Abia on 17 September](https://www.primepost.ng/2026/09/17/uk-inaugurates-spriret-initiative-in-abia-to-accelerate-digital-transformation/), run by a Nigerian NGO and starting from a baseline report on the state.
+
+Edo State [replaced a foreign-owned e-governance platform, for which it paid licence fees after funding its build, with a platform of its own serving all 128 state ministries, departments and agencies](https://www.vanguardngr.com/2026/09/nobody-can-shut-down-internet-to-disrupt-nigerias-elections-urhoghide-edoicta-boss/), the head of the state ICT agency said on 23 September. The date of the switch is not stated.
 <!-- /narrative -->
 ### Rural digital data capture
 
