@@ -2,7 +2,7 @@
 type: design-note
 title: site-analytics.md — daily views (Google Analytics) and search clicks (Search Console), collected by the cycle
 last_reviewed: 2026-09-23
-status: designed and credentials set up 2026-09-23 (Cowork); build outstanding — CC, the tasks at the end
+status: built 2026-09-23 (CC); runs as CYCLE.md step 1a
 ---
 
 # Site analytics

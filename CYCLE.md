@@ -57,6 +57,7 @@ last_reviewed: 2026-09-17
 ## The run
 
 1. **Drain `notes-for-corpus.md`**, as above. Nothing open, nothing to do — go straight to 2.
+1a. **Run `python scripts/site-analytics.py`** — `documentation/site-analytics.md` → *Where it runs in the cycle* says what to log, commit and escalate. It never holds the cycle.
 2. **Read the sentinel.** If `logs/.build-in-progress` is present, an earlier build died unaccounted. **In a cycle this is a note, not a stop**: the run about to start is the repair — stage 4 resumes on a set difference. Say in the build line that it resumed.
 3. **Run `BUILD.md`, whole, stage 0 to the end of its ending sequence** — including the ending sequence, which is what puts the tree into the state the seam reads.
 4. **Run `UNIT-REVIEW.md`** if `python scripts/unit-review.py next` (with `--poll` from the loop) names units, for each in turn. Exit 1 — go straight to 5.
