@@ -360,13 +360,11 @@ def main() -> int:
     csv_path, _ = editions.publish(body, out, NAME, ".csv", page=page)
     edition = editions.edition_of(csv_path.stem) or ""
     artefacts = editions.artefact_meta(NAME, edition, editions.digest(body))
-    # The change log as a download, a dated edition like the table: it only ever grows, and a
-    # file a reader may cite is not revised in place (§9).
+    # The change log as a download: one undated file, rewritten each render. It is not versioned
+    # (Bill, 2026-09-23): it is the page's working list, not a table a reader cites.
     changes, fnames = all_changes(NAME), facility_names(NAME)
-    cbody = changes_csv(changes, fnames)
-    c_path, _ = editions.publish(cbody, out, f"{NAME}-changes", ".csv", page=page)
-    artefacts += "\n" + editions.artefact_meta(f"{NAME}-changes", editions.edition_of(c_path.stem) or "",
-                                               editions.digest(cbody))
+    c_path = out / f"{NAME}-changes.csv"
+    c_path.write_bytes(changes_csv(changes, fnames))
 
     used = sorted({r["country"] for r in rows})
     status = [r["operational_status"] for r in rows]
