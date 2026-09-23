@@ -30,7 +30,7 @@ Two questions in `maturity-assessment.md` §13: whether the financial sustainabi
 
 `maturity-assessment-norms.md` §6: decision numbers (DTS, DPF, AI Strategy, Compact, Interop. Framework, STYIP, PIDA PAP 2, DES, DAS, CESA, STISA), current ratification counts on the AU treaty status lists, Malabo article numbering and the Art. 14 paragraph, DTP article numbers against the deposited text, the CAMCR declaration texts, the ACHPR Model Law URL, the land-policy F&G provisions, ATU-R Report 004-0, STISA's R&D benchmark, ARSO's and PAQI's provisions, and whether the DTS mid-term review has revised any target. Each item is either confirmed in the register (with the source) or left flagged with what was tried. Done when §6 is empty or every remaining line says why it cannot be closed. **Nothing in C1 is cut as fact while its line is still in §6.**
 
-### A3. Tell CC the shape of the work — **Bill** — S
+### A3. Tell CC the shape of the work — **Bill** — S — *done 2026-09-23: the unnamed wiring and two scope calls are in `maturity-assessment.md` §10*
 
 Point CC at this file and the five documents. Done when CC has read them and logged any wiring the retirement list (`maturity-assessment.md` §10) does not name — that list is from a Cowork read of the tree and is expected to be incomplete.
 
@@ -148,7 +148,7 @@ The estate page: the six progress counts retire; the assessment's counts and the
 
 ### G1. Retire the progress report — **CC** — M, one commit
 
-Per `maturity-assessment.md` §10: the progress document and its PDF edition stop being written; `progress` is dropped from `UNIT_FIELDS` and from the 54 files (a migration script, run once, that removes the column and nothing else); the vocabulary-closure and *Mixed* checks retire; `progress-narrative-archive.md`, `logs/progress-report-log.csv`, `progress-filler` and `progress-filler-gaps.py` go; `scripts/progress.py` goes with `/progress/`; `documentation/progress-report-redesign.md` moves to `archived/` with a pointer to `maturity-assessment.md`. Done when nothing in `scripts/` reads `progress` as an indicator value and the render is clean.
+Per `maturity-assessment.md` §10, including CC's read of 2026-09-23 under it (topic progress reports go; region ones stay): the progress document and its PDF edition stop being written; `progress` is dropped from `UNIT_FIELDS` and from the 54 files (a migration script, run once, that removes the column and nothing else); the vocabulary-closure and *Mixed* checks retire; `progress-narrative-archive.md`, `logs/progress-report-log.csv`, `progress-filler` and `progress-filler-gaps.py` go; `scripts/progress.py` goes with `/progress/`; `documentation/progress-report-redesign.md` moves to `archived/` with a pointer to `maturity-assessment.md`. Done when nothing in `scripts/` reads `progress` as an indicator value and the render is clean.
 
 ### G2. Amend the three documents that describe the layer — **Cowork** drafts, **CC** commits — S
 
