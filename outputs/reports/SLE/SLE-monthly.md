@@ -1,11 +1,11 @@
 ---
 title: Sierra Leone — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 place: SLE
-ledger_rows: 51
+ledger_rows: 52
 not_held: 5
-record: 923d78596fb9
+record: e06e45b3aded
 ---
 
 # Sierra Leone: monthly update, August – September 2026
@@ -58,6 +58,11 @@ Regional health data gained an institutional seat. The health minister [attended
 
 ## ICT Infrastructure
 
+### Connectivity
+
+<!-- narrative: ict-infrastructure--infra-connect -->
+The contract to network government offices was challenged. On 21 September the Independent Procurement Review Panel [opened an investigation into a bidder's complaint over the Digital Transformation Project's contract to supply and install wide and local area networks across ministries, departments and agencies](https://truthmedia.sl/procurement-review-panel-probes-alleged-irregularities-in-digital-transformation-project/), and said it would publish the outcome. No award, supplier or contract value is on record.
+<!-- /narrative -->
 ### Data Storage
 
 <!-- narrative: ict-infrastructure--infra-store -->

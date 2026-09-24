@@ -1,11 +1,11 @@
 ---
 title: Tunisia — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 place: TUN
-ledger_rows: 63
-not_held: 6
-record: 93d0da8f54fe
+ledger_rows: 64
+not_held: 5
+record: 90d91061edc5
 ---
 
 # Tunisia: monthly update, August – September 2026
@@ -45,6 +45,8 @@ Tunisia chairs and convenes rather than signs. It [was elected chair of the Arab
 
 <!-- narrative: governance--gov-standards -->
 Tunisia's standards work this month was as host. Its national frequency agency [opened four days of talks in Tunis for the third African preparatory meeting for the 2027 World Radiocommunication Conference, coordinated by the African Telecommunications Union, with governments and regulators working towards common positions on the frequencies used by mobile, satellite and other wireless services](https://www.cyberera.com.ng/african-delegations-demand-common-ground-in-tunis-ahead-of-2027-world-radiocommunication-conference/). No delegate count, agenda document or adopted position is published.
+
+The hosting gate now has a count behind it: the cybersecurity agency's [list of 17 September carries six N-Cloud entries](https://www.webmanagercenter.com/2026/09/22/573106/cybersecurite-et-entreprises-ce-qui-va-changer-pour-les-entreprises-publiques-et-leurs-fournisseurs-prives/), the label public bodies must use for sensitive data. The count comes from a business outlet's reading of the list, not from the list itself.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 
@@ -130,6 +132,8 @@ The school platform's first mass use is measured, and the measurement is mid-cam
 The health ministry and UNICEF [set the priority needs for a national digital platform covering the care of mothers, newborns and children](https://www.letemps.news/2026/09/08/sante-vers-une-plateforme-numerique-dediee-a-la-sante-de-la-mere-et-de-lenfant/), after a benchmarking study; no build date or host is stated.
 
 The family ministry [brought a case system for child-protection delegates into service on 11 September, digitising notifications on children at risk](https://www.alchourouk.com/article/%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D9%85%D9%86%D8%AF%D9%88%D8%A8%D9%8A-%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%B7%D9%81%D9%88%D9%84%D8%A9); no access rule or volume is published.
+
+Labour inspection moved onto a system of its own. The social affairs ministry [launched its Gestion du travail platform for labour inspectors on 23 September, built under an ILO project, in a pilot to the end of December with full operation from early 2027](https://www.tunisienumerique.com/tunisie-linspection-du-travail-passe-au-numerique/); its enterprise module is to exchange data with the business register and the social security fund. No user count or exchange date is published.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 

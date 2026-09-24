@@ -1,11 +1,11 @@
 ---
 title: Zambia — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 place: ZMB
-ledger_rows: 62
-not_held: 46
-record: e016ff404a53
+ledger_rows: 64
+not_held: 44
+record: e584c2fa5095
 ---
 
 # Zambia: monthly update, August – September 2026
@@ -90,6 +90,8 @@ The technology ministry [put the country at about 26.2 million mobile subscripti
 A further Northern Province district administration was connected in August, and the account is unusually specific about what a connection reached. After the provincial ICT unit installed connectivity at Lupososhi District Administration and ran a virtual orientation on the national portal and two office collaboration tools, an official [printed a road-tax document from his own office instead of travelling to Kasama for it, days before it expired](https://techafricanews.com/2026/08/31/zamportal-teams-lupososhi-road-tax-local/). It is one office and one document: no district count, schedule or cost for the programme is published.
 
 A second account of the same period puts [internet subscriptions at 14.7m in 2025 against 10.4m in 2021, and mobile population coverage at 95% over 2022 to 2025](https://www.freightnews.co.za/article/giving-business-and-citizens-a-smart-edge-0). The coverage figure is government-reported and does not reconcile with the ministry's own separate claim for the same period — a reminder that every coverage number here comes from the same source as the target it is measured against.
+
+A mobile operator is [acquiring about 1,300 km of fibre from a related company in the same group for K324.9 million](https://zambianbusinesstimes.com/airtel-invests-k324m-in-1300km-optic-fibre-network/), independently valued and classed as a small related-party transaction (21 September). It moves existing fibre between two companies of one group; it adds no route.
 <!-- /narrative -->
 ### Energy
 
@@ -133,6 +135,8 @@ The regional rail above the domestic one acquired its rules. The regional cleari
 Acceptance also widened from outside. A commercial bank and an international card scheme [opened online acceptance of that scheme's cards to participating merchants in nine African markets including Zambia on 19 August](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/), settling in local currency, US dollars or both; the merchant count is given for the nine markets together and not for Zambia.
 
 The account base under the inclusion figure was stated: [14.7m registered mobile money accounts in 2024 on the monetary fund's financial access survey, of which 77% hold a balance, against one adult in five holding any account at all in 2011](https://thefintechtimes.com/zambia-mobile-money-opened-doors-fintech-has-to-go-further/), with the central bank phasing out cheque clearing behind it. Registered accounts are not people, and the balance share is the only measure of activity the repository holds against the count.
+
+Trade with China gained a direct channel: a commercial bank [launched renminbi settlement over China's Cross-Border Interbank Payment System in Lusaka on 23 September](https://www.zambiamonitor.com/zambia-says-rmb-payment-system-can-cut-trade-costs-deepen-china-investment/), with the commerce ministry presenting it as a cut in conversion and intermediary costs. No volume, fee or participant count was published.
 <!-- /narrative -->
 ### Registries
 

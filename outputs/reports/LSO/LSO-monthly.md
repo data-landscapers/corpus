@@ -1,11 +1,11 @@
 ---
 title: Lesotho — monthly update, August – September 2026
-compiled: 2026-09-18
-period: 2026-08-01 to 2026-09-18
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 place: LSO
-ledger_rows: 33
+ledger_rows: 35
 not_held: 4
-record: 97a696c2dad9
+record: fb01a6b786ef
 ---
 
 # Lesotho: monthly update, August – September 2026
@@ -30,7 +30,14 @@ The month's policy work is a strategy being drafted rather than one adopted. A [
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-No instrument was made, gazetted or brought into force in this window. [Reporting of the CSIRT launch](https://itweb.africa/article/lesotho-steps-up-national-cyber-security/Pero3qZ3J4jvQb6m) discloses that the Computer Crime and Cybersecurity Bill has been split into a Cybercrime Bill and a Cybersecurity Bill, both awaiting National Assembly approval, and the ministerial reference to a national cybersecurity strategy that the wiki does not hold.
+No instrument was made, gazetted or brought into force in this window. [Reporting of the CSIRT launch](https://itweb.africa/article/lesotho-steps-up-national-cyber-security/Pero3qZ3J4jvQb6m) discloses that the Computer Crime and Cybersecurity Bill has been split into a Cybercrime Bill and a Cybersecurity Bill, both then awaiting National Assembly approval, and the ministerial reference to a national cybersecurity strategy that the repository does not hold.
+
+The Cybersecurity Bill 2026 then went back to stakeholders: its draft [was circulated for review in August and taken to a second consultation workshop on 23 September](https://www.gov.ls/development/stakeholders-engage-on-cybersecurity-bill-2026/), proposing a two-tier regulatory regime and the registration of cybersecurity professionals.
+<!-- /narrative -->
+### Data protection
+
+<!-- narrative: governance--gov-protect -->
+The ICT ministry's principal secretary told UNGA81 side meetings that the ministry had [developed DPI Safeguards for Children with UNICEF Lesotho and is piloting them with the National University of Lesotho across five government ministries](https://www.gov.ls/development/ramashamole-champions-safe-digital-public-infrastructure-at-unga81/) (23 September). Neither the text of the safeguards nor the ministries in the pilot are named.
 <!-- /narrative -->
 ### Regional collaboration
 
@@ -111,6 +118,14 @@ The data blueprint opened in July reached validation in September. A national wo
 
 <!-- narrative: digitalisation--digital-rural -->
 Two movements reached rural service points from opposite directions. Thirty [SMS-based birth registration stations were established in government and church health facilities across Maseru, Berea and Leribe on 5 August](https://www.linkedin.com/posts/unicef-lesotho_foreverychild-digitaltransformation-activity-7490765967325597697-36h5), putting the capture point in the clinic rather than the registry office and on a text message rather than a terminal. Days earlier the universal service fund [opened procurement for Wi-Fi and network equipment at police stations across all ten districts](https://lca.org.ls/wp-content/uploads/2026/07/RFP-POLICE-STATIONS-WI-FI-PROJECT-31-JULY-2026_final-.pdf).
+<!-- /narrative -->
+
+## Technology
+
+### AI
+
+<!-- narrative: technology--tech-ai -->
+At the second UN Digital Cooperation Day the prime minister [said Lesotho was the first country to implement the UN AI Blueprint, that planning was complete and that Phase One of a National Compute Roadmap running 2026 to 2029 had begun](https://www.gov.ls/development/lesotho-first-country-to-implement-un-ai-blueprint/) (23 September). The roadmap is not published, and no source relates it to the data-centre roadmap drafted in August.
 <!-- /narrative -->
 
 ## Capacity

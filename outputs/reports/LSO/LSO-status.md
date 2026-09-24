@@ -1,12 +1,12 @@
 ---
 title: Lesotho: status report
-compiled: 2026-09-23
+compiled: 2026-09-24
 place: LSO
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 8
-sources_cited: 168
+sources_cited: 169
 sections_written: 37
 not_established: 3
 acquire_lines: 31
@@ -27,7 +27,7 @@ The administrative machinery these plans rely on has been weakening. Lesotho sco
 ### Legislation and regulation
 <!-- gov.legislate -->
 
-Lesotho's cyber legislation was [split in two after stakeholder consultation](https://lesothotribune.co.ls/interim-csirt-lesotho-cybersecurity-launch/) — a Cybercrime Bill carrying offences and penalties, a Cybersecurity Bill carrying institutions and the protection of critical digital infrastructure — and both were still awaiting National Assembly approval in August 2026. It has had no dedicated cyber statute, a gap the government named itself when it [warned the public in August 2025](https://digitalrightsalliance.africa/lesotho-government-warns-public-on-deep-fakes-amid-lack-of-cyber-law/) about AI-generated deepfake videos impersonating King Letsie III and Prime Minister Matekane; the communications ministry's Principal Secretary [tied rising AI-enabled threats to the stalled Bill](https://www.gov.ls/ict/ramashamole-urges-lca-to-safeguard-end-users-against-cyber-attacks/) at a meeting with the regulator on 13 January 2026. An [Electronic Transactions and Electronic Commerce Bill of 2022 is unenacted alongside it, with a Digital Government Act still in drafting](https://www.policyvault.africa/wp-content/uploads/2025/09/LSO61.pdf).
+Lesotho's cyber legislation was [split in two after stakeholder consultation](https://lesothotribune.co.ls/interim-csirt-lesotho-cybersecurity-launch/) — a Cybercrime Bill carrying offences and penalties, a Cybersecurity Bill carrying institutions and the protection of critical digital infrastructure. The Cybercrime Bill was awaiting National Assembly approval in August 2026; the Cybersecurity Bill 2026 [went to a second stakeholder consultation in September 2026, after its draft was circulated for review in August, proposing a two-tier regulatory regime and the registration of cybersecurity professionals](https://www.gov.ls/development/stakeholders-engage-on-cybersecurity-bill-2026/). It has had no dedicated cyber statute, a gap the government named itself when it [warned the public in August 2025](https://digitalrightsalliance.africa/lesotho-government-warns-public-on-deep-fakes-amid-lack-of-cyber-law/) about AI-generated deepfake videos impersonating King Letsie III and Prime Minister Matekane; the communications ministry's Principal Secretary [tied rising AI-enabled threats to the stalled Bill](https://www.gov.ls/ict/ramashamole-urges-lca-to-safeguard-end-users-against-cyber-attacks/) at a meeting with the regulator on 13 January 2026. An [Electronic Transactions and Electronic Commerce Bill of 2022 is unenacted alongside it, with a Digital Government Act still in drafting](https://www.policyvault.africa/wp-content/uploads/2025/09/LSO61.pdf).
 
 What is in force is older: the [Communications Act 2012](https://media.lesotholii.org/files/legislation/akn-ls-act-2012-4-eng-2012-02-17.pdf); the National Identity Cards Act 2011, [commenced on 1 July 2013](https://lesotholii.org/akn/ls/act/2011/9/eng@2011-03-21), which [establishes the National Identity Register and mandates the card for access to services](https://lesotholii.org/akn/ls/act/2011/9/eng@2011-03-21/source); the [Data Protection Act 2012](https://lesotholii.org/akn/ls/act/2012/5/eng@2012-02-22); the [Payment Systems Act 2014](https://centralbank.org.ls/wp-content/uploads/Payment-Systems-Act-2014-1.pdf) for interbank payments and electronic money; the [Financial Consumer Protection Act 2022](https://centralbank.org.ls/wp-content/uploads/Financial-Consumer-Protection-Act-2022.pdf); and the [Bureau of Statistics Act 2001](http://www.bos.gov.ls/BOS_Act_2001.htm).
 
@@ -146,7 +146,7 @@ Oversight capacity is being funded alongside it. The [Auditor-General's Strategi
 ### Cybersecurity
 <!-- infra.cybersec -->
 
-Lesotho [launched an interim national Computer Security Incident Response Team in August 2026](https://lesothotribune.co.ls/interim-csirt-lesotho-cybersecurity-launch/), interim because it operates ahead of the Cybersecurity Bill that would give it statutory powers. That bill and a companion Cybercrime Bill, split from a single instrument after consultation, were [both still awaiting National Assembly approval](https://lesothotribune.co.ls/interim-csirt-lesotho-cybersecurity-launch/) as at August 2026.
+Lesotho [launched an interim national Computer Security Incident Response Team in August 2026](https://lesothotribune.co.ls/interim-csirt-lesotho-cybersecurity-launch/), interim because it operates ahead of the Cybersecurity Bill that would give it statutory powers. That bill was [still at stakeholder consultation in September 2026, its second round after a draft circulated in August, with the communications authority designated as the interim response team](https://www.gov.ls/development/stakeholders-engage-on-cybersecurity-bill-2026/); the companion Cybercrime Bill, split from the same instrument, was [awaiting National Assembly approval](https://lesothotribune.co.ls/interim-csirt-lesotho-cybersecurity-launch/) as at August 2026.
 
 The gap is not theoretical, and the government has named it itself. It [warned the public in August 2025 about AI-generated deepfake videos impersonating King Letsie III and the Prime Minister, with no dedicated cyber law to enforce against them](https://digitalrightsalliance.africa/lesotho-government-warns-public-on-deep-fakes-amid-lack-of-cyber-law/), and the ICT ministry's principal secretary [tied rising AI-enabled threats to the stalled bill in January 2026](https://www.gov.ls/ict/ramashamole-urges-lca-to-safeguard-end-users-against-cyber-attacks/). [No cross-government data-sharing legislation is in force either](https://www.policyvault.africa/wp-content/uploads/2025/09/LSO61.pdf) (2024).
 
