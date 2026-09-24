@@ -259,14 +259,15 @@ def from_reference(r: dict) -> dict:
 
 
 def nature_note(r: dict) -> str:
-    """What kind of figure a reference is, in the words the qualifier prints."""
-    return {"estimate": f"on the compiler's modelled estimate ({r['dataset']}), no survey since "
-                        f"{int(r['year']) - SURVEY_YEARS}",
-            "survey": f"on a survey figure via {r['dataset']}",
-            "country": f"on the country's reported figure via {r['dataset']}",
-            "tariffs": f"on published tariffs collected by {r['dataset']}",
-            "official": f"on official statistics via {r['dataset']}"}.get(
-        r.get("nature", ""), f"reference figure ({r['dataset']}); no primary held")
+    """What kind of figure a reference is, in the words the qualifier prints. The source itself is
+    named in `value_source` and rendered in words, so the qualifier says only what kind of figure
+    it is and that no primary is held."""
+    return {"estimate": f"modelled estimate; no survey figure in the {SURVEY_YEARS} years to the as-at",
+            "survey": "survey figure; no primary in the base",
+            "country": "country-reported figure; no primary in the base",
+            "tariffs": "published tariffs; no primary in the base",
+            "official": "official statistics; no primary in the base"}.get(
+        r.get("nature", ""), "reference figure; no primary in the base")
 
 
 HISTORY_FIELDS = ("unit", "indicator_id", "as_of", "stage", "value", "value_year", "reassessed")
@@ -595,7 +596,7 @@ def decide(v: dict, p: dict | None, prev_at: dt.date | None, as_at: dt.date, led
     hits = sorted({s for rid in srows for d, s in led[rid]["_sources"]
                    if d and prev_at < d <= as_at})
     if hits:
-        v["moved_by"] = hits[-1]
+        v["moved_by"] = hits[0]          # the earliest in the month: the one that crossed
         return v, "moved"
     # A measure moves on a new figure: a different source, dated inside the window.
     src = (v.get("value_source") or "").strip()

@@ -1,0 +1,74 @@
+# Digital id from birth
+
+*System · DPI · `dpi.id--digital-id-from-birth`*
+
+**Norm**: DTS; SDG 17.19.2(b); AU No Name Campaign declaration (2020) (AU) — Legal identity "as part of a civil registration process"; 100 % birth and 80 % death registration (SDG 17.19.2(b), restated in CRMC/6 working papers); universal birth registration by 2030 (No Name Campaign)
+
+| Stage | What it takes |
+|---|---|
+| 1 Absent | A dated statement that a birth creates no identity record — registration and ID are separate systems with no link, or registration is paper-only. |
+| 2 Nascent | A unique identifier at birth provided for in law or piloted in some districts or facilities. |
+| 3 Established | A unique number assigned at birth registration in service, in part of the country or for registrations in digital offices only. |
+| 4 Operating | Assignment at birth in service nationally, with the birth record generating the identity record and coverage of births registered published. |
+| 5 Leading | The DTS end state: digital legal identity for every person from birth as part of civil registration, with the SDG 17.19.2(b) target (100 % of births, 80 % of deaths registered) met on the published figure. |
+
+**August 2026, 54 countries**: 4 Operating 2 · 3 Established 7 · 2 Nascent 12 · unplaced 33
+
+| Country | Jul | Aug | Evidence (as at 31 Aug) | Qualifier |
+|---|---|---|---|---|
+| Cape Verde | 4 Operating | 4 Operating | **Birth registration coverage** — [Biometric Update, 19 May 2026](https://www.biometricupdate.com/202605/cabo-verdes-crvs-id-reforms-drive-near-universal-birth-registration) | On the justice-modernisation institute's own figures: number at birth and 99% birth registration |
+| Namibia | 4 Operating | 4 Operating | **Unique identity number issued at birth** (Implemented) — [United Nations Statistics Division (Legal Identity Agenda), 1 Sep 2023](https://unstats.un.org/legal-identity-agenda/documents/Paper/2023/CRVSID-Namibia.pdf)<br>**Birth registration in health facilities** (Implemented) — [Namibian Broadcasting Corporation (NBC), 27 Mar 2026](https://www.nbcnews.na/node/115695) | Number assigned on e-birth notification since 2016-18; near-99 per cent coverage on the minister's claim |
+| Angola | 3 Established | 3 Established | **Birth registration in maternity wards** (Implemented) — [Angop, 4 Mar 2026](https://angop.ao/noticias/politica/zaire-mbanza-kongo-inicia-registo-de-recem-nascidos-a-partir-da-maternidade/) | Newborns registered and carded in maternity wards in one province; no national rollout or count |
+| Cote d'Ivoire | 3 Established | 3 Established | **Decret 2019-805 on electronic civil-status processing** (Implemented) — [Journal officiel de la République de Côte d'Ivoire, 2 Oct 2019](https://www.oneci.ci/uploads/files/articles/1638800505-decret-n2019-805-du-02-octobre-2019.pdf)<br>**Civil-registry software rollout** (Implemented) — [KOACI, 12 Aug 2026](https://www.koaci.com/index.php/article/2026/08/12/cote-divoire/societe/cote-divoire-operation-zero-enfant-invisible-loneci-deploie-283-terminaux-numeriques-dans-le-tonkpi-pour-garantir-lidentite-des-la-naissance_199500.html) | Identification office's own figures; no national coverage of births registered published |
+| Eswatini | 3 Established | 3 Established | **Unique identification number issued at birth** (Implemented) — [Vital Strategies and the United Nations High Commissioner for Refugees (UNHCR), 1 Apr 2026](https://www.vitalstrategies.org/wp-content/uploads/UNHCR_Birth-Registration_Citizenship.pdf)<br>**Birth registration at the point of birth** (Implemented) — [Government of Eswatini (Ruby Jubilee — 40 Years of His Majesty's Reign commemorative site), 14 Apr 2026](https://40years.gov.sz/home-affairs-at-the-heart-of-the-nation/) | Number at birth in seven towns; not national, 61% birth registration |
+| Lesotho | 3 Established | 3 Established | **Identity number issued at birth registration** (Implemented) — [United Nations Economic Commission for Africa (UNECA), presented by NICR (Ministry of Home Affairs, Lesotho), 18 Jul 2026](https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-interoperability-lesotho.pdf)<br>**Digital birth registration under Ntlafatsa Bana** (Implemented) — [EEAS / EU Delegation to Lesotho, 2 Apr 2025](https://www.eeas.europa.eu/delegations/lesotho/ntlafatsa-bana-launch-digital-birth-registration) | Number issued at birth registration; nationwide scale-up still on a roadmap to 2030 |
+| Malawi | 3 Established | 3 Established | **Point-of-care digital birth registration** (Implemented) — [UNDP Malawi, 1 Feb 2026](https://www.undp.org/sites/g/files/zskgke326/files/2026-02/undp_idt4m_annual_report_2025_web.pdf) | number assigned at birth in 58 facilities; not national and birth coverage unpublished |
+| Morocco | 3 Established | 3 Established | **Civil status law 36.21 and the IDCS identifier** (Implemented) — [Le Matin.ma, 10 Dec 2025](https://lematin.ma/nation/le-projet-de-loi-sur-letat-civil-adopte-a-lunanimite-par-les-conseillers/318360) | IDCS identifier operational since the 2023 decree; birth coverage not published |
+| Uganda | 3 Established | 3 Established | **Birth registration drive** (Implemented) — [New Vision, 1 Jun 2026](https://www.newvision.co.ug/category/news/nira-intensifies-birth-registration-drive-lau-NV_234727_062026) | numbers issued at birth registration in hospitals; no national coverage figure since 2016 |
+| Benin | 2 Nascent | 2 Nascent | **Birth registration** (In development) — [La Nation, 16 Jul 2026](https://www.lanation.bj/actualites/aristide-adjinacou-directeur-general-de-lanip-nous-voulons-faire-de-chaque-maternite-une-veritable-porte-dentree-vers-lidentite-legale) | single-window pilot at 10 maternities; national birth registration about 22% in 2025 |
+| Burkina Faso | 2 Nascent | 2 Nascent | **Code des personnes et de la famille of 2025** (Implemented) — [Service d''Information du Gouvernement du Burkina Faso (SIG), 1 Sep 2025](https://gouvernement.gov.bf/actualites/nouveau-code-des-personnes-et-de-la-famille-une-reforme-historique-adoptee-a-lunanimite-des-deputes-de-lalt/) | identifier from birth provided by the 2025 code; implementing decree not held |
+| Chad | 2 Nascent | 2 Nascent | **Health-facility-integrated civil registration** (Implemented) — [Biometric Update, 3 Jun 2025](https://www.biometricupdate.com/202506/chad-mali-senegal-pursue-birth-registration-reforms-to-close-gaps)<br>**Child birth-registration campaign** (Implemented) — [Alwihda Info, 31 Jul 2026](https://www.alwihdainfo.com/tchad-une-campagne-pour-lidentite-des-enfants-afin-de-renforcer-lenregistrement-a-letat-civil/) | Registration digitised at 97 hospital points and a campaign feeding the biometric register; no number assigned at birth on record |
+| Ghana | 2 Nascent | 2 Nascent | **Card number at birth** (In development) — [The Overseers, 12 Aug 2026](https://theoverseeronline.com/infant-registration/) | Registration application tested at health facilities; no issuance in service on record |
+| Kenya | 2 Nascent | 2 Nascent | **Automatic identity at 18 from the civil register** (In development) — [Biometric Update, 24 Feb 2026](https://www.biometricupdate.com/202602/kenya-streamlines-access-to-legal-and-digital-identity) | Identifier at birth provided in statute; rollout counts come from sources after the as-at |
+| Liberia | 2 Nascent | 2 Nascent | **National identity documents for children under six** (Piloting) — [FrontPage Africa, 11 Mar 2025](https://frontpageafricaonline.com/news/liberia-national-identification-registry-drives-digital-transformation-with-strategic-partnerships-and-enrollment-growth/) | under-six identity numbers piloted in three counties |
+| Libya | 2 Nascent | 2 Nascent | **Law 8 of 2014 on the national number** (Implemented) — [المؤتمر الوطني العام, 24 Mar 2014](https://www.gia.gov.ly/wp-content/uploads/2023/02/%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%B1%D9%82%D9%85-8-%D9%84%D8%B3%D9%86%D8%A9-2014%D9%85-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A7%D9%84%D8%B1%D9%82%D9%85-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A..pdf) | national number mandatory from birth in law; assignment at birth registration in service not on record |
+| Madagascar | 2 Nascent | 2 Nascent | **Civil status law (loi n 2018-027)** (Implemented) — [Assemblée nationale et Sénat de la République de Madagascar (hosted via WHO extranet repository), 27 Nov 2018](https://extranet.who.int/cpcd/sites/default/files/public_file_repository/MDG_Madagascar_Loi-No-2018-027-relative-a-l_etat-civil_2018.pdf) | art. 38 mandates a NIU at birth; assignment at birth registration in service not on record |
+| Mauritania | 2 Nascent | 2 Nascent | **Civil Status Code and its 2025 amendment** (Implemented) — [République Islamique de Mauritanie / Journal Officiel (copie indexée par NATLEX, OIT), 24 Feb 2025](https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/117696/MRT-117696.pdf)<br>**National Population Register** (Implemented) — [الصادق الإخباري (Essadek), 18 Jun 2026](https://www.essadek.info/%d8%a3%d9%83%d8%ab%d8%b1-%d9%85%d9%86-5-1-%d9%85%d9%84%d8%a7%d9%8a%d9%8a%d9%86-%d9%85%d8%b3%d8%ac%d9%84-%d8%a8%d8%a7%d9%84%d8%b3%d8%ac%d9%84-%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a/) | Civil status law provides the register link; assignment at birth in service not on record |
+| Nigeria | 2 Nascent | 2 Nascent | **VitalReg birth and death registration platform** (Implemented) — [Voice of Nigeria, 24 Jul 2026](https://von.gov.ng/national-population-commission-launches-digital-registration-platform/) | Birth-to-ID linkage piloted in Gombe; newborn registration needs a parent NIN; assignment at birth not on record |
+| Rwanda | 2 Nascent | 2 Nascent | **Single digital identity law (Law 029/2023)** (Implemented) — [Republic of Rwanda, Official Gazette (hosted by NIDA), 14 Jun 2023](https://www.nida.gov.rw/fileadmin/user_upload/NIDA/Publications/OG_n___Special_of_15.06.2023_Iyandikwa_ry_abaturage_muri_sisitemu_imwe_y_Igihugu_indangamuntu_koranabuhanga.pdf) | law requires ID sync with civil registration; number assignment at birth not on record |
+| Tanzania | 2 Nascent | 2 Nascent | **Registration from birth** (Piloting) — [Biometric Update, 20 Aug 2026](https://www.biometricupdate.com/202608/tanzania-pushes-crvs-id-integration-as-birth-registration-becomes-a-dpi-layer) | piloted in some districts; agency linkage stated with no national assignment at birth |
+| Algeria | unplaced | unplaced |  | no row shows a number assigned at birth registration; civil register and NIN held separately |
+| Botswana | unplaced | unplaced |  | birth registration partly automated; no identifier assigned at birth on record |
+| Burundi | unplaced | unplaced |  | digital birth registration in 123 health facilities; unique identifier at birth only planned (BDI-dpi.id-civilreg) |
+| Cameroon | unplaced | unplaced |  | digital birth certificates, a three-centre pilot tender and a school drive; no unique number at birth shown |
+| Central African Republic | unplaced | unplaced |  | Late registration campaign only; nothing on an identifier at birth |
+| Comoros | unplaced | unplaced |  | unplaced: birth-registration campaign and ministerial statements only; no identifier at birth in law or pilot shown |
+| Congo | unplaced | unplaced |  | civil-status software validated but unfunded; no identifier at birth on record |
+| DR Congo | unplaced | unplaced |  | Only a rural sector out of birth registers; nothing on identifiers at birth |
+| Djibouti | unplaced | unplaced |  | identification law in force; no number assigned at birth on the rows |
+| Egypt | unplaced | unplaced |  | Birth registration completeness held but no row states a unique number assigned at birth |
+| Equatorial Guinea | unplaced | unplaced |  | SIREC registers births; no identifier assigned at birth shown |
+| Eritrea | unplaced | unplaced |  | civil registration partial with no figures; link between birth records and ID not described |
+| Ethiopia | unplaced | unplaced |  | Civil registration digitised to woreda level; no unique number at birth provided for or piloted on record |
+| Gabon | unplaced | unplaced |  | Loi 008/2022 provides a digital civil registry but no identifier at birth; no cited absence |
+| Gambia | unplaced | unplaced |  | birth certificate feeds the ID card; no identifier at birth on record |
+| Guinea | — | unplaced |  | Digital birth certificates issued but no unique number at birth in these rows; NPI decree sits under digital-id legislation |
+| Guinea-Bissau | unplaced | unplaced |  | digital birth registration piloting; no unique identifier at birth on record |
+| Mali | unplaced | unplaced |  | Community birth registration presented; no identifier assigned at birth on record |
+| Mauritius | unplaced | unplaced |  | ID act and civil register held separately; no assignment of a number at birth on record |
+| Mozambique | unplaced | unplaced |  | e-SIRCEV in service; no unique number assigned at birth on record |
+| Niger | unplaced | unplaced |  | Birth registration rates and a birth-certificate pilot held; no identifier assigned at birth on record in these rows |
+| Sao Tome and Principe | unplaced | unplaced |  | Electronic birth registration live in every maternity unit; no unique number assigned at birth on record |
+| Senegal | unplaced | unplaced |  | Civil-registration modernisation outputs only; no identifier assigned at birth on record |
+| Seychelles | unplaced | unplaced |  | Birth registration is in person on paper; number assignment at birth not stated either way |
+| Sierra Leone | unplaced | unplaced |  | Only a birth-registration document announcement; no identifier at birth on record |
+| Somalia | unplaced | unplaced |  | digital civil registration piloted in 19 districts; no identifier assigned at birth stated |
+| South Africa | unplaced | unplaced |  | Births registered on the department's figure; assignment of an ID number at birth not stated in the rows |
+| South Sudan | unplaced | unplaced |  | Link of birth registration to the ID only announced; not provided for in law or piloted on record |
+| Sudan | unplaced | unplaced |  | health-registry linkage committee only; no identifier at birth provided for or piloted |
+| Togo | — | unplaced |  | unplaced: birth-registration catch-up campaign only; no identifier at birth and no cited absence |
+| Tunisia | unplaced | unplaced |  | unique citizen identifier created in law; assignment at birth not on record |
+| Zambia | unplaced | unplaced |  | Birth registration covers 22% of under-fives; no identifier assigned at birth stated |
+| Zimbabwe | unplaced | unplaced |  | Unplaced: birth registration 57% on DHS; sub-office digitisation launched; no number assigned at birth on record |
+
+*▲ the stage moved in August on a source dated in the month. Unplaced: the evidence held meets no stage. —: no evidence.*
