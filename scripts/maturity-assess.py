@@ -97,6 +97,11 @@ REFERENCE = CORPUS / "reference" / "measures.csv"
 # holds now about those dates", so they see every reference figure held, whatever its release; a
 # live snapshot sees only what was released by its as-at.
 LIVE_FROM = dt.date(2026, 9, 30)
+# Measures whose stage 5 is its number and nothing else (maturity-rubric.md: 95 % use, 95 % rural
+# access, a 0.98 ratio). A figure past it reaches 5 unaided; every other row's stage 5 carries a
+# condition that only a drafter can find on record.
+NUMERIC_FIVE = {"infra.connect--internet-usage", "infra.energy--rural-electrification",
+                "include.divides--bridging-of-digital-divides"}
 # How far back a country's own figure still outranks a newer estimate.
 SURVEY_YEARS = 5
 
@@ -606,7 +611,8 @@ def apply(unit: str, as_at: dt.date, verdicts: Path, replace: bool = False,
             auto = dict(comp[iid]) if iid in comp else from_reference(ref[iid]) if iid in ref else None
             if auto:
                 ceiling = band(float(auto["value"]), spec[iid])
-                auto["stage"] = str(min(int(auto.get("stage") or 4), ceiling, 4))
+                top = 5 if iid in NUMERIC_FIVE else 4
+                auto["stage"] = str(min(int(auto.get("stage") or top), ceiling, top))
                 # A July recut moves a stage with no new figure behind it: that is a rubric
                 # change, flagged `reassessed`, never a country's movement (§5).
                 if (spec[iid].get("cut_as_at") == as_at.isoformat() and iid in prev
