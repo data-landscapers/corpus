@@ -36,6 +36,7 @@ Recorded here so the build does not relitigate them. All Bill, 2026-09-22, in tw
 - **Measure bands without an African number use Africa-only quintiles.**
 - **The financial sustainability indicator gets its own subject, `finance.sustain`** *(Bill, 2026-09-23)*. `finance.budget` is for the facts of actual budgets; `finance.sustain` covers efforts to make the digital estate financially sustainable. It travels to OSINT in one patch with `geopol.sovereignty`.
 - **Africa-only quintiles are cut at the baseline and recut each July** *(Bill, 2026-09-23)*, with the year of the cut named in the rubric row — never recut on an ordinary snapshot.
+- **`finance.new--development-partner-project-financing` measures the on-budget share of partner digital finance** *(Bill, 2026-09-24)*: the share printed in the state's own budget document, not the external share of the digital budget, which is the sustainability row's figure seen from the other side. The indicator stays assessed.
 - **A global dataset used as a norm is a reference, not the record.** Corpus's own collected figure takes precedence where it exists; most global datasets are out of date against what the base holds. `maturity-assessment-norms.md` §7 is the rule.
 
 ## 3. The scale: five stages and a null
