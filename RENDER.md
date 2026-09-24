@@ -76,18 +76,20 @@ for md in outputs/bulletins/*-bulletin.md; do
 done
 
 # Coverage assertion: the patterns above must have reached every report document.
-present=$(find outputs/reports outputs/topics outputs/bulletins -name '*.md'           ! -name 'progress-narrative-archive.md' | wc -l)
+present=$(find outputs/reports outputs/topics outputs/bulletins -name '*.md'           ! -name 'progress-narrative-archive.md' ! -name '*-maturity.md' | wc -l)
 missed=$((present - rendered - failed))
 echo "rendered $rendered of $present report documents ($failed failed, $missed never listed)"
 if [ "$missed" -gt 0 ]; then
   echo "RENDER STOP: $missed document(s) matched no pattern in the loop — do not deploy:"
-  find outputs/reports outputs/topics outputs/bulletins -name '*.md'        ! -name 'progress-narrative-archive.md' | grep -Ev -- '-(status|progress|monthly|bulletin)\.md$'
+  find outputs/reports outputs/topics outputs/bulletins -name '*.md'        ! -name 'progress-narrative-archive.md' ! -name '*-maturity.md' | grep -Ev -- '-(status|progress|monthly|bulletin)\.md$'
   exit 1
 fi
 if [ "$failed" -gt 0 ]; then
   echo "$failed document(s) failed in render.py (see RENDER FAIL above) — deploying the rest; message Bill"
 fi
 ```
+
+**`*-maturity.md` is not published yet** *(2026-09-24)*: the maturity assessment's first pass waits on Bill's decision in `documentation/maturity-rethink.md`, so the count leaves it out; publishing it is a loop line, not a removal here.
 
 **A document the loop never listed stops the run; a document tried and failed does not** — note it, render on, deploy, list it in the message. Topic documents land in `site/topics/{slug}/` and the loop already reaches them; **if the taxonomy grows a slug, check the link, not just the box** — every `/topics/…` href in `site/index.html` against `site/topics/…/index.html`.
 
