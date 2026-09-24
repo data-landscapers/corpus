@@ -6,13 +6,13 @@ Each bullet carries the variable ids that answer it, from `prep/status-indicator
 
 **An id may appear under more than one sub-section.** The taxonomy cross-lists by multi-tagging rather than by a single-parent partition, and the indicators behave the same way: `reg-cyber-cloud` answers a question in `infra.store`, another in `infra.cybersec` and another in `gov.legislate`. The mapping is a set of answers to questions, not a filing system.
 
-**`[PROPOSED]` marks an indicator that does not yet exist.** Nine sub-sections are thinly or not at all covered by the DPI dataset — the five `geopol.*` slugs and `data.satellite` hold nothing, and `finance.new`, `finance.mou`, `capacity.research`, `digital.localgov` and `tech.industry` hold very little. Candidate definitions for those are drafted in the appendix, in the same schema as the indicator table, and are flagged inline where they would be used. They are not collected; nothing in `africa-dpi-data.csv` answers them yet.
+**`[PROPOSED]` marks an indicator that does not yet exist.** Nine sub-sections are thinly or not at all covered by the DPI dataset — the five `geopol.*` slugs and `data.satellite` hold nothing, and `finance.new`, `finance.mou`, `capacity.research`, `digital.localgov` and `tech.industry` hold very little. Candidate definitions for those are drafted in the appendix, in the same schema as the indicator table, and are flagged inline where they would be used. They are not collected; nothing in `africa-dpi-data.csv` answers them yet. The two sub-sections added on 2026-09-24 are thin by another route: `geopol.sovereignty` holds one direct variable and some proxies and is otherwise answered from the wiki, and `finance.sustain` is answered from Corpus's own budget extract by design.
 
 Where a sub-section is answered mainly from the wiki rather than the dataset, that is stated on the bullet.
 
-**38 sub-sections are mapped; 37 are written.** `finance.budget` is suspended pending budget work and is marked so at the point of use.
+**40 sub-sections are mapped; 39 are written.** `finance.budget` is suspended pending budget work and is marked so at the point of use. `geopol.sovereignty` and `finance.sustain` were added on 2026-09-24 with the maturity assessment's two new indicators (`adding-an-indicator.md` §6), so that the status report and the assessment ask the same question of the same subject.
 
-**394 of the 453 indicators are used, across 577 citations.** The 59 that are not are almost all Ibrahim Index measures of the general governance environment — corruption, security, environmental policy, clinical health outcomes, electoral pluralism, women's political representation — which bear on digital governance only at one remove and would dilute the sections they were dropped into. The remainder are GovTech Maturity Index *governance* and *transparency* sub-variables duplicating a transparency bullet already carried elsewhere in the same sub-section. They are available if a section proves thin for a given country.
+**394 of the 453 indicators are used, across 586 citations** *(recounted 2026-09-24 over the bullets above the appendix, suspended section included; the eight added under `geopol.sovereignty` were all cited elsewhere already, and the previous figure was one behind)*. The 59 that are not are almost all Ibrahim Index measures of the general governance environment — corruption, security, environmental policy, clinical health outcomes, electoral pluralism, women's political representation — which bear on digital governance only at one remove and would dilute the sections they were dropped into. The remainder are GovTech Maturity Index *governance* and *transparency* sub-variables duplicating a transparency bullet already carried elsewhere in the same sub-section. They are available if a section proves thin for a given country.
 
 ---
 
@@ -319,7 +319,9 @@ Where a sub-section is answered mainly from the wiki rather than the dataset, th
 
 ## Geopolitics
 
-**No indicator in the DPI dataset addresses any `geopol.*` slug.** Two DPI indicators are weak proxies for hyperscaler presence — `ict-storage-cloudadoption` and `ict-storage-dcpresence` — and neither attributes a provider. This section is currently answered entirely from the wiki, where `geopol.*`-tagged sources carry named actors and dated commitments.
+**No indicator in the DPI dataset addresses any of the five actor slugs.** Two DPI indicators are weak proxies for hyperscaler presence — `ict-storage-cloudadoption` and `ict-storage-dcpresence` — and neither attributes a provider. Those five sub-sections are currently answered entirely from the wiki, where `geopol.*`-tagged sources carry named actors and dated commitments.
+
+**`geopol.sovereignty` asks a different question** — what the state keeps for itself, not what one power holds — and is the chapter's one sub-section the maturity assessment stages (`indicator-digital-sovereignty.md`; the five actor sub-sections left the assessment on 2026-09-22 and stay here unchanged). The dataset answers part of it; the rest is answered from the wiki, reading the agreements the five actor sub-sections list for their terms.
 
 Five indicators are proposed for each of the five actors, on a common frame, so that the answer for one country is comparable across actors and the answer for one actor is comparable across countries. The suffixes are the same in every case: `-infra`, `-platform`, `-finance`, `-agreement`, `-capacity`. Full definitions are in the appendix.
 
@@ -372,6 +374,17 @@ Five indicators are proposed for each of the five actors, on a common frame, so 
 - Active financing commitments and equity positions — `[PROPOSED] geopol-gulf-finance`
 - Standing agreements and their terms — `[PROPOSED] geopol-gulf-agreement`
 - Skills and training programmes — `[PROPOSED] geopol-gulf-capacity`
+
+### `geopol.sovereignty` — Digital sovereignty
+
+*How far does the state control its own digital estate — where its data sits and under whose law, who can run and change its core systems, and on what terms it has bound itself to outside providers and powers?*
+
+- Whether there is a rule on where state data sits, and whether it localises by category or wholesale — `ict-storage-datalocalisation`, `govtech-cloud-1.6`, `reg-cyber-cloud`, `reg-egov-cloudpolicy`
+- Whether national control of government data and protection against foreign access are written into the exchange's rules — `exchange-uptake-sovereignty`
+- Where government data is actually hosted, and under whose law — `ict-storage-govcloud`, with `ict-storage-dcpresence` and `ict-storage-cloudadoption` as weak proxies that attribute no provider
+- Whether the core systems — identity, payments, the exchange layer, government hosting — can be maintained and changed nationally: source code, skills, contracts with exit terms — answered from the wiki; no variable
+- The terms of agreements with outside providers and powers — data jurisdiction, portability, exit — answered from the wiki, from the agreements the five actor sub-sections list; no variable
+- Whether the country takes part in a regional or continental cross-border data mechanism — answered from the wiki; `gov.regional` asks the same of cross-border transfers
 
 ---
 
@@ -494,7 +507,7 @@ Five indicators are proposed for each of the five actors, on a common frame, so 
 
 ## Finance
 
-`finance.new` and `finance.mou` are the two slugs where the wiki is strong and the dataset holds nothing. The OSINT base carries deals and agreements as first-class entities with dated values in the announcing party's own currency, and the hubs carry a compiled `## Financing` block. The proposed indicators below are the summary figures a status report needs, derived from that material rather than collected separately.
+`finance.new` and `finance.mou` are the two slugs where the wiki is strong and the dataset holds nothing. The OSINT base carries deals and agreements as first-class entities with dated values in the announcing party's own currency, and the hubs carry a compiled `## Financing` block. The proposed indicators below are the summary figures a status report needs, derived from that material rather than collected separately. **`finance.sustain` is the one Finance sub-section answered from Corpus's own data** — the budget extract — rather than from the dataset or the wiki, and cites no DPI variable by design.
 
 ### `finance.new` — New investments
 
@@ -535,6 +548,17 @@ Five indicators are proposed for each of the five actors, on a common frame, so 
 - Whether the wage bill runs on a system — `govtech-payroll-10`, `govtech-payroll-10.6`
 - What share of the national budget is appropriated to digital — `[PROPOSED] fin-budget-ictshare`
 - What share of that appropriation is actually executed — `[PROPOSED] fin-budget-execution`
+
+### `finance.sustain` — Financial sustainability
+
+*Is the digital state paying for itself — are the systems in service funded from the state's own resources, and is the money voted actually spent?*
+
+- What share of the digital lines in the state's own budget document the state finances itself — answered from `budgets/{ISO3}/{FY}.csv` and `external.csv` (`python scripts/budget_source.py --share`); no variable
+- Whether the lines that keep systems running — maintenance, licences, subscriptions, connectivity — are domestically financed — answered from the budget extract's economic classification, where the document prints one; no variable
+- Whether what is voted is spent — execution against the voted figure, where an outturn is held — answered from the budget extract's stage history; no variable
+- Whether own-source revenue or a levy finances digital programmes in law — answered from the finance law's articles as the budget extract reads them; `finance.budget` asks the same of the mechanism
+
+Where a country's `budgets/` folder holds only migrated rows, the section says the budget has not yet been read, dated — which is true, and is the extraction queue.
 
 ---
 
