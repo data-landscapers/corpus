@@ -104,6 +104,10 @@ NUMERIC_FIVE = {"infra.connect--internet-usage", "infra.energy--rural-electrific
                 "include.divides--bridging-of-digital-divides"}
 # How far back a country's own figure still outranks a newer estimate.
 SURVEY_YEARS = 5
+# A reference figure older than this is not a figure of record, and the measure is No evidence
+# (CC, 2026-09-24): Findex 2014 or Libya's 2012 rural access say nothing about the as-at. A
+# drafter's cited primary is not held to it; it carries its own year, and that year prints.
+MAX_REFERENCE_AGE = 10
 
 # The snapshot's columns, in file order: §6's stage columns plus `stage_rows` (the mapped rows that
 # satisfy the anchor, a subset of `row_ids`) and `moved_by`, which apply derives and nobody writes.
@@ -231,7 +235,7 @@ def reference(unit: str, as_at: dt.date, path: Path | None = None) -> dict[str, 
         return {}
     pool: dict[str, list[dict]] = {}
     for r in read_csv(path)[1]:
-        if r["iso3"] != unit or int(r["year"]) > as_at.year:
+        if r["iso3"] != unit or not as_at.year - MAX_REFERENCE_AGE <= int(r["year"]) <= as_at.year:
             continue
         if as_at >= LIVE_FROM and dt.date.fromisoformat(r["release"]) > as_at:
             continue

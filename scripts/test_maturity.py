@@ -527,6 +527,10 @@ try:
           ma.reference("XXX", JUL, p)[MEAS]["value"], "7")
     check("a survey older than the window gives way to the estimate",
           ma.reference("YYY", JUL, p)[MEAS]["value"], "30")
+    with open(p, "a", encoding="utf-8", newline="") as fh:
+        csv.writer(fh).writerow(["OLD", MEAS, "wdi", "0.8", "%", "2012", "2026-07-13", "survey"])
+    check("a reference figure more than ten years old is not a figure of record",
+          MEAS in ma.reference("OLD", JUL, p), False)
     r = ma.reference("ZZZ", JUL, p)[MEAS]
     check("and an estimate says so in the qualifier",
           "modelled estimate" in ma.from_reference(r)["qualifier"], True)
