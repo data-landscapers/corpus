@@ -90,6 +90,8 @@ REFERENCE = CORPUS / "reference" / "measures.csv"
 # holds now about those dates", so they see every reference figure held, whatever its release; a
 # live snapshot sees only what was released by its as-at.
 LIVE_FROM = dt.date(2026, 9, 30)
+# How far back a country's own figure still outranks a newer estimate.
+SURVEY_YEARS = 5
 
 # The snapshot's columns, in file order: §6's stage columns plus `stage_rows` (the mapped rows that
 # satisfy the anchor, a subset of `row_ids`) and `moved_by`, which apply derives and nobody writes.
@@ -194,23 +196,30 @@ def source_date(value_source: str) -> dt.date | None:
 
 
 def reference(unit: str, as_at: dt.date, path: Path | None = None) -> dict[str, dict]:
-    """{indicator_id: row}: the reference figure for the latest data year up to the as-at's year.
-    From the first live snapshot, a release after the as-at is invisible, as a later source is to
-    a row; the retrospective two see what is held (`LIVE_FROM`)."""
+    """{indicator_id: row}: the reference figure for a unit as at a date.
+
+    **A country's own figure from the last `SURVEY_YEARS` years outranks a newer estimate** *(Bill,
+    2026-09-24: not much respect for ITU numbers)*. Most of ITU's series are its own models where no
+    survey exists, and the SDG database marks which. A survey two years old says more than a model
+    of last year. Otherwise the latest data year up to the as-at's year is taken. From the first
+    live snapshot a release after the as-at is invisible, as a later source is to a row; the
+    retrospective two see what is held (`LIVE_FROM`)."""
     path = path or REFERENCE
     if not path.exists():
         return {}
-    best: dict[str, dict] = {}
+    pool: dict[str, list[dict]] = {}
     for r in read_csv(path)[1]:
-        if r["iso3"] != unit:
+        if r["iso3"] != unit or int(r["year"]) > as_at.year:
             continue
         if as_at >= LIVE_FROM and dt.date.fromisoformat(r["release"]) > as_at:
             continue
-        if int(r["year"]) > as_at.year:
-            continue
-        k = r["indicator_id"]
-        if k not in best or (int(r["year"]), r["release"]) > (int(best[k]["year"]), best[k]["release"]):
-            best[k] = r
+        pool.setdefault(r["indicator_id"], []).append(r)
+    best = {}
+    for k, rows in pool.items():
+        rank = lambda r: (int(r["year"]), r["release"])
+        own = [r for r in rows if r.get("nature") != "estimate"
+               and int(r["year"]) >= as_at.year - SURVEY_YEARS]
+        best[k] = max(own or rows, key=rank)
     return best
 
 
@@ -218,7 +227,18 @@ def from_reference(r: dict) -> dict:
     """A verdict built from a reference figure alone: the value and its source, stage left to the band."""
     return {"indicator_id": r["indicator_id"], "value": r["value"], "unit": r["unit"],
             "value_year": r["year"], "value_source": f"ref:{r['dataset']}@{r['release']}",
-            "qualifier": f"reference figure ({r['dataset']}); no primary held"}
+            "qualifier": nature_note(r)}
+
+
+def nature_note(r: dict) -> str:
+    """What kind of figure a reference is, in the words the qualifier prints."""
+    return {"estimate": f"on the compiler's modelled estimate ({r['dataset']}), no survey since "
+                        f"{int(r['year']) - SURVEY_YEARS}",
+            "survey": f"on a survey figure via {r['dataset']}",
+            "country": f"on the country's reported figure via {r['dataset']}",
+            "tariffs": f"on published tariffs collected by {r['dataset']}",
+            "official": f"on official statistics via {r['dataset']}"}.get(
+        r.get("nature", ""), f"reference figure ({r['dataset']}); no primary held")
 
 
 def snapshot_path(reports: Path, unit: str, as_at: dt.date) -> Path:
@@ -312,7 +332,8 @@ def packet(unit: str, as_at: dt.date, reports: Path = REPORTS, ref_path: Path | 
               f"the figure and caps the stage.\n\n")
             r = ref.get(iid)
             w(f"Reference figure: {r['value']} {r['unit']} ({r['year']}, {r['dataset']}, released "
-              f"{r['release']}) — used if you give no verdict and the base holds no primary.\n\n"
+              f"{r['release']}; {nature_note(r)}) — used if you give no verdict and the base holds "
+              f"no primary.{' **An estimate: look hard for a survey primary in the rows.**' if r.get('nature') == 'estimate' else ''}\n\n"
               if r else "Reference figure: none held. With no primary either, leave it out: No evidence.\n\n")
         for rid in rids:
             r = led[rid]

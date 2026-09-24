@@ -27,9 +27,6 @@ snapshots see everything held (§7).
 base holds a primary; the others are waiting on something named:
 
 - the finance measures are Corpus's own compiles, computed in the assessor's measure pass;
-- mobile ownership is held back until the row reads ITU's 10+ definition (C3 item 6);
-- mobile affordability is waiting on the ITU 5 GB basket (C3 item 7);
-- `tech.industry` is waiting on the figure it re-points to (C3 item 8);
 - the urban–rural ratio, 9 countries on Data360's ITU copy, is not yet wired;
 - SDG 4.4.1: the series is per activity, and the rubric's composite of five skill areas is not
   published;
@@ -57,7 +54,14 @@ CORPUS = HERE.parent
 OUT = CORPUS / "reference"
 COUNTRIES = CORPUS / "lookups" / "countries.csv"
 UA = {"User-Agent": "Mozilla/5.0 (Corpus maturity-reference)"}
-FIELDS = ("iso3", "indicator_id", "dataset", "value", "unit", "year", "release")
+FIELDS = ("iso3", "indicator_id", "dataset", "value", "unit", "year", "release", "nature")
+# `nature` says what kind of figure it is, and the qualifier prints it: `survey` (a household,
+# enterprise or financial-inclusion survey), `country` (administrative returns a country
+# reports), `tariffs` (published prices collected), `official` (national accounts or balance of
+# payments), `estimate` (a model the compiler runs where no country figure exists: most of
+# ITU's own series). Bill, 2026-09-24: he does not have much respect for ITU numbers. The
+# assessor therefore puts a recent survey ahead of a newer estimate, and says so when a stage
+# rests on one.
 SINCE = 2010
 
 # ISO 3166 numeric (= UN M49) for the 54, which the SDG API keys on.
@@ -142,8 +146,13 @@ def sdg(code: str, iso: list[str], want: dict) -> tuple[dict, str]:
             continue
         iso3 = BY_M49.get(int(r["geoAreaCode"]))
         v, y = num(r["value"]), int(float(r["timePeriodStart"]))
-        if iso3 and v is not None and y >= SINCE:
-            out[(iso3, y)] = v
+        if not (iso3 and v is not None and y >= SINCE):
+            continue
+        # The SDG database marks each figure: C / CA country data, E / M / G the compiler's own.
+        nature = "survey" if (r.get("attributes") or {}).get("Nature") in ("C", "CA") else "estimate"
+        # Where a year has both, the country's figure is the one kept.
+        if (iso3, y) not in out or nature == "survey":
+            out[(iso3, y)] = (v, nature)
     return out, sdg_release(code)
 
 
@@ -204,52 +213,98 @@ def d360(indicator: str, database: str, iso: list[str]) -> tuple[dict, str]:
 def gender_gap(iso):
     men, rel = sdg("IT_USE_ii99", iso, {"Sex": "MALE"})
     women, _ = sdg("IT_USE_ii99", iso, {"Sex": "FEMALE"})
-    return {k: round(100 * (men[k] - women[k]) / men[k], 4) for k in men if k in women and men[k]}, rel
+    out = {}
+    for k in men:
+        if k in women and men[k][0]:
+            nature = "survey" if men[k][1] == women[k][1] == "survey" else "estimate"
+            out[k] = (round(100 * (men[k][0] - women[k][0]) / men[k][0], 4), nature)
+    return out, rel
 
 
+def ratio(top: tuple, bottom: tuple, scale: float = 100.0):
+    """{(iso3, year): top / bottom * scale} over two fetches, released at the later of the two."""
+    (a, ra), (b, rb) = top, bottom
+    return {k: round(scale * a[k] / b[k], 4) for k in a if b.get(k)}, max(ra, rb)
+
+
+ITU_PRICES = ("https://www.itu.int/en/ITU-D/Statistics/Documents/ICT_Prices/"
+              "ITU_ICTPriceBaskets_2008-2025.xlsx")
+
+
+def itu_price_per_gb(code: str, gb: float, iso: list[str]) -> tuple[dict, str]:
+    """US$ per GB from ITU's price-basket workbook: the basket's USD price over its allowance.
+    The release is the workbook's own Last-Modified date."""
+    import openpyxl
+    req = urllib.request.Request(ITU_PRICES, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0)"})
+    with urllib.request.urlopen(req, timeout=180) as r:
+        body = r.read()
+        stamp = r.headers.get("Last-Modified")
+    release = (dt.datetime.strptime(stamp, "%a, %d %b %Y %H:%M:%S %Z").date().isoformat()
+               if stamp else dt.date.today().isoformat())
+    ws = openpyxl.load_workbook(io.BytesIO(body), read_only=True)["economies_2008-2025"]
+    rows = ws.iter_rows(values_only=True)
+    head = next(rows)
+    years = {n: int(h) for n, h in enumerate(head) if isinstance(h, int)}
+    out, want = {}, set(iso)
+    for row in rows:
+        if row[0] in want and row[2] == code:
+            for n, y in years.items():
+                v = num(row[n])
+                if v is not None and y >= SINCE:
+                    out[(row[0], y)] = round(v / gb, 4)
+    return out, release
+
+
+# name: (indicator_id, dataset, unit, nature where the provider does not mark it, fetch)
 MEASURES = {
-    "internet-usage": ("infra.connect--internet-usage", "wdi-it-net-user", "% of population",
-                       lambda iso: wdi("IT.NET.USER.ZS", iso)),
+    # SDG 17.8.1 through the SDG database rather than WDI: the same ITU series, but marked
+    # figure by figure as the country's survey or ITU's estimate.
+    "internet-usage": ("infra.connect--internet-usage", "itu-sdg-17-8-1-internet-use",
+                       "% of population", "", lambda iso: sdg("IT_USE_ii99", iso, {"Sex": "BOTHSEX"})),
+    "mobile-penetration": ("infra.connect--mobile-penetration", "itu-sdg-5b1-mobile-ownership-10plus",
+                           "% of people 10+", "", lambda iso: sdg("IT_MOB_OWN", iso, {"Sex": "BOTHSEX"})),
+    "mobile-affordability": ("infra.connect--mobile-affordability", "itu-price-basket-5gb",
+                             "US$ per GB", "tariffs", lambda iso: itu_price_per_gb("i271mb_5GB$", 5, iso)),
     "rural-electrification": ("infra.energy--rural-electrification", "wdi-elc-accs-rural",
-                              "% of rural population", lambda iso: wdi("EG.ELC.ACCS.RU.ZS", iso)),
+                              "% of rural population", "survey",
+                              lambda iso: wdi("EG.ELC.ACCS.RU.ZS", iso)),
     "grid-reliability": ("infra.energy--grid-reliability", "enterprise-surveys-outages",
-                         "outages per month", lambda iso: d360("WB_ES_T_BREADY_IN2", "WB_ES", iso)),
+                         "outages per month", "survey",
+                         lambda iso: d360("WB_ES_T_BREADY_IN2", "WB_ES", iso)),
     "population-uptake": ("dpi.pay--population-uptake", "findex-account-ownership",
-                          "% of adults 15+", lambda iso: wdi("FX.OWN.TOTL.ZS", iso)),
+                          "% of adults 15+", "survey", lambda iso: wdi("FX.OWN.TOTL.ZS", iso)),
+    "ict-service-exports": ("tech.industry--national-capacity-in-dt-related-production",
+                            "wdi-ict-service-exports-gdp", "% of GDP", "official",
+                            lambda iso: ratio(wdi("BX.GSR.CCIS.CD", iso), wdi("NY.GDP.MKTP.CD", iso))),
     "secondary-internet": ("capacity.training--dt-related-training-in-secondary-education",
-                           "uis-4a1-secondary-internet", "% of secondary schools",
+                           "uis-4a1-secondary-internet", "% of secondary schools", "country",
                            lambda iso: uis("SCHBSP.2T3.WINTERN", iso)),
     "stem-graduates": ("capacity.training--dt-related-university-facilities-and-qualifications",
-                       "uis-stem-graduates", "% of tertiary graduates",
+                       "uis-stem-graduates", "% of tertiary graduates", "country",
                        lambda iso: uis("FOSGP.5T8.F500600700", iso)),
     "ict-employment": ("capacity.training--graduates-entering-dt-ecosystem", "ilostat-isic-j-employment",
-                       "% of employment", lambda iso: ilo_share("EMP_TEMP_SEX_ECO_NB_A", "ECO_ISIC4_J",
-                                                                "ECO_ISIC4_TOTAL", iso)),
+                       "% of employment", "survey",
+                       lambda iso: ilo_share("EMP_TEMP_SEX_ECO_NB_A", "ECO_ISIC4_J", "ECO_ISIC4_TOTAL", iso)),
     "gender-gap": ("include.access--gender-equity", "itu-internet-use-gender-gap",
-                   "% gap, men over women", gender_gap),
-}
-# Held back until the row's definition is settled (C3 item 6): ITU publishes ownership among
-# people 10+, and the rubric reads 15+. Under the strict-definition rule a 10+ figure is not the
-# value. It goes into MEASURES when the row says 10+.
-HELD_BACK = {
-    "mobile-penetration": ("infra.connect--mobile-penetration", "itu-sdg-5b1-mobile-ownership-10plus",
-                           "% of people 10+", lambda iso: sdg("IT_MOB_OWN", iso, {"Sex": "BOTHSEX"})),
+                   "% gap, men over women", "", gender_gap),
 }
 DENOMINATORS = {
-    "gdp": ("gdp-current-usd", "wdi-gdp", "US$", lambda iso: wdi("NY.GDP.MKTP.CD", iso)),
-    "population": ("population", "wdi-population", "persons", lambda iso: wdi("SP.POP.TOTL", iso)),
+    "gdp": ("gdp-current-usd", "wdi-gdp", "US$", "official", lambda iso: wdi("NY.GDP.MKTP.CD", iso)),
+    "population": ("population", "wdi-population", "persons", "official",
+                   lambda iso: wdi("SP.POP.TOTL", iso)),
 }
 
 
 def pull(table: dict, only: set[str], iso: list[str]) -> list[dict]:
     rows = []
-    for name, (iid, dataset, unit, fetch) in table.items():
+    for name, (iid, dataset, unit, nature, fetch) in table.items():
         if only and name not in only:
             continue
         values, release = fetch(iso)
         for (iso3, year), v in sorted(values.items()):
+            v, kind = v if isinstance(v, tuple) else (v, nature)
             rows.append({"iso3": iso3, "indicator_id": iid, "dataset": dataset, "value": f"{v:g}",
-                         "unit": unit, "year": year, "release": release})
+                         "unit": unit, "year": year, "release": release, "nature": kind})
         n = len({k[0] for k in values})
         print(f"  {name}: {len(values)} figures, {n} countries, released {release}")
     return rows

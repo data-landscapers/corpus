@@ -510,6 +510,29 @@ finally:
     ma.LIVE_FROM = LIVE_FROM
     shutil.rmtree(tmp, ignore_errors=True)
 
+
+print("\nmeasures: a survey outranks a newer estimate")
+tmp = Path(tempfile.mkdtemp(prefix="maturity-nature-test-"))
+try:
+    p = tmp / "ref.csv"
+    with open(p, "w", encoding="utf-8", newline="") as fh:
+        w = csv.writer(fh)
+        w.writerow(["iso3", "indicator_id", "dataset", "value", "unit", "year", "release", "nature"])
+        w.writerows([["XXX", MEAS, "itu", "30", "%", "2025", "2026-06-30", "estimate"],
+                     ["XXX", MEAS, "itu", "7", "%", "2023", "2026-06-30", "survey"],
+                     ["YYY", MEAS, "itu", "30", "%", "2025", "2026-06-30", "estimate"],
+                     ["YYY", MEAS, "itu", "7", "%", "2019", "2026-06-30", "survey"],
+                     ["ZZZ", MEAS, "itu", "30", "%", "2025", "2026-06-30", "estimate"]])
+    check("a survey two years older is taken over the estimate",
+          ma.reference("XXX", JUL, p)[MEAS]["value"], "7")
+    check("a survey older than the window gives way to the estimate",
+          ma.reference("YYY", JUL, p)[MEAS]["value"], "30")
+    r = ma.reference("ZZZ", JUL, p)[MEAS]
+    check("and an estimate says so in the qualifier",
+          "modelled estimate" in ma.from_reference(r)["qualifier"], True)
+finally:
+    shutil.rmtree(tmp, ignore_errors=True)
+
 print()
 print("all cases pass" if not fails else f"{len(fails)} of the cases FAILED")
 sys.exit(1 if fails else 0)
