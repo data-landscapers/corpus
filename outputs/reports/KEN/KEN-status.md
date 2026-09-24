@@ -1,12 +1,12 @@
 ---
 title: Kenya: status report
-compiled: 2026-09-23
+compiled: 2026-09-24
 place: KEN
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 14
-sources_cited: 246
+sources_cited: 247
 sections_written: 37
 not_established: 0
 acquire_lines: 63
@@ -268,7 +268,7 @@ Against that schooling base, the digital-literacy floor is thin and largely exte
 ### Training and skills
 <!-- capacity.training -->
 
-Kenya's vocational sector is being digitalised almost entirely on foreign concessional money, and three lines are running at once. KfW is lending [€18 million over 2025–2030 to digitalise technical and vocational education, working both at selected vocational training institutes and at national government level](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=DE-1-202265189), on top of its earlier [€5 million concessional loan of 2020–2026 for ICT-focused technical and vocational training](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=DE-1-201665298), while the EU is spending [€9.9 million over 2023–2028 aligning course offerings and facilities in selected TVET institutions with a digitally enabled economy](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2023-PC-25165). Germany separately funded a [Digital Transformation Centre over 2021–2025](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=DE-1-202021962) aimed at the distance between Kenya's smartphone and internet uptake and its workforce's digital skills, and EU money is also [building national cyber skills alongside critical-infrastructure hardening](https://itweb.africa/article/kenya-launches-project-to-boost-cyber-security/LPp6VMrBjoPMDKQz) (January 2026).
+Kenya's vocational sector is being digitalised almost entirely on foreign concessional money, and its largest project has not started delivering: [the Digitalization for TVET project, some €50 million co-financed by KfW, the French development agency and the EU, was still prequalifying its implementation consultant on 22 September 2026, with five years of delivery counted from that consultant's start](https://www.tenderyetu.com/digitalization-tvet-project-d4tvet-tender-prequalification-implementation-consultant/). KfW's share is the [€18 million over 2025–2030 to digitalise technical and vocational education, working both at selected vocational training institutes and at national government level](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=DE-1-202265189), alongside its earlier and separate [€5 million concessional loan of 2020–2026 for ICT-focused technical and vocational training](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=DE-1-201665298), while the EU is spending [€9.9 million over 2023–2028 aligning course offerings and facilities in selected TVET institutions with a digitally enabled economy](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2023-PC-25165). Germany separately funded a [Digital Transformation Centre over 2021–2025](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=DE-1-202021962) aimed at the distance between Kenya's smartphone and internet uptake and its workforce's digital skills, and EU money is also [building national cyber skills alongside critical-infrastructure hardening](https://itweb.africa/article/kenya-launches-project-to-boost-cyber-security/LPp6VMrBjoPMDKQz) (January 2026).
 
 The state's own training effort points inward. Kenya has [a digital skills strategy for the public service and a training programme running under it, covering basic digital skills and data literacy](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025), and the [2026/27 ICT budget names digital skills among its targets](https://cipesa.org/2026/07/rethinking-africas-approach-to-the-politics-of-ai-governance-and-regulation/) (July 2026). The Digital Hubs are intended to carry the public-facing side, [delivering digital skills, artificial intelligence, software development, online work and e-commerce training as well as access to government digital services](https://techafricanews.com/2026/08/06/kenya-advances-digital-hubs-programme-with-588-sites-nationwide/), with [centres of excellence and standard hubs still under construction](https://techafricanews.com/2026/08/06/kenya-advances-digital-hubs-programme-with-588-sites-nationwide/) (August 2026). Inside government, parliamentary staff being trained in AI-assisted research in Kenya and other African legislatures were found [using public AI tools on personal judgment, with limited monitoring of data flows](https://www.idinsight.org/article/ensuring-responsible-ai-adoption-in-african-parliaments/) (July 2026).
 

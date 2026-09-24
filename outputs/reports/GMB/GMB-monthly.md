@@ -1,11 +1,11 @@
 ---
 title: Gambia — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 place: GMB
 ledger_rows: 52
-not_held: 4
-record: 709bedb04cd5
+not_held: 3
+record: b993cb3cd523
 ---
 
 # Gambia: monthly update, August – September 2026

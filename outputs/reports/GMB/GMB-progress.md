@@ -1,12 +1,12 @@
 ---
 title: Gambia — progress report, September 2025 – September 2026
-compiled: 2026-09-23
-period: 2025-09-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2025-09-01 to 2026-09-24
 place: GMB
 ledger_rows: 140
-not_held: 4
+not_held: 3
 indicators: 123
-record: 115b28e12ba8
+record: ebb62840bea3
 ---
 
 # Gambia: progress report, September 2025 – September 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the repository holds nothing on that indicator. **That is a statement about this repository, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-09-01 to 2026-09-23.*
+*The period is 2025-09-01 to 2026-09-24.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the repository holds a standing position and nothing in the period touched it. ***No evidence*** — the repository holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Movement, regulations still pending*.
 
@@ -59,7 +59,7 @@ Where a row reads ***No evidence***, the repository holds nothing on that indica
 
 | Topic | Indicator | Developments | Progress |
 |---|---|---|---|
-| Domestic budget appropriations and expenditure | Sustainable domestic financing of digital transformation | Tax collection [rose to D25bn in 2025 from D11bn in 2022](https://thepoint.gm/africa/gambia/headlines/digital-reform-doubles-gambias-tax-revenue-to-d25b-finance-minister), which the finance minister attributes to digitalisation of collection. <details><summary>Full record</summary>The tax-to-gross-domestic-product ratio rose from 9 per cent in 2022 to 13 per cent in 2025, stated by the minister at the Banjul master class ([ratio](https://www.gra.gm/news/74649367-8629-11f1-b086-029254d29bb1)).<br>The authority's 2026 target is D27.5bn ([target](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/gambie-la-numerisation-fait-bondir-les-recettes-fiscales-de-127-en-trois-ans)).<br>The attribution to digitalisation rather than to rate increases is the minister's own and is an attribution, not an evaluation; no counterfactual, rate schedule or compliance analysis is published beside it. No domestic appropriation for the digital sector is held at any date.</details> | Movement |
+| Domestic budget appropriations and expenditure | Sustainable domestic financing of digital transformation | Tax collection [rose to D25bn in 2025 from D11bn in 2022](https://thepoint.gm/africa/gambia/headlines/digital-reform-doubles-gambias-tax-revenue-to-d25b-finance-minister), which the finance minister attributes to digitalisation of collection. <details><summary>Full record</summary>The tax-to-gross-domestic-product ratio rose from 9 per cent in 2022 to 13 per cent in 2025, stated by the minister at the Banjul master class ([ratio](https://www.gra.gm/news/74649367-8629-11f1-b086-029254d29bb1)).<br>The authority's 2026 target is D27.5bn ([target](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/gambie-la-numerisation-fait-bondir-les-recettes-fiscales-de-127-en-trois-ans)).<br>The attribution to digitalisation rather than to rate increases is the minister's own and is an attribution, not an evaluation; no counterfactual, rate schedule or compliance analysis is published beside it.<br>The [final approved 2026 budget votes the communications ministry GMD 34.4m in development funds and GMD 7.85m for its ICT programme, with subventions of GMD 16m to the ICT Agency and GMD 6m to Digital Gambia](https://mofea.gov.gm/wp-content/uploads/2026/01/Final-Approved-2026-Budget-5.1.26-V2.pdf), the same lines as [in 2025](https://mofea.gov.gm/wp-content/uploads/2025/01/2025_Approved_Budget-Final.pdf). The [regulator is funded from its own levies](https://pura.gm/wp-content/uploads/2026/03/ANNUAL-REPORT-2024.pdf).</details> | Movement |
 | Financial sustainability | Financial sustainability of digital systems |  | ***No evidence*** |
 | MoUs and other agreements | Strategic relationships | A [US$50m broadband partnership](https://gamtel.gm/gamtel-and-syroad-project/) signed in December 2025 is the largest instrument; three smaller memoranda followed. <details><summary>Full record</summary>The state incumbent's [own account](https://gamtel.gm/gamtel-and-syroad-project/) puts the partnership at US$50m signed on 24 December 2025, with the backbone to rise from 40 to 800 Gbps and no completion date given.<br>The rest are frameworks without figures: a [digital public infrastructure memorandum with India](https://www.mea.gov.in/Portal/ForeignRelation/India-Gambia26.pdf) signed in October 2024 with no funding or milestones; a [Bahraini cybersecurity memorandum](https://pura.gm/press-release-ctm360-partners-with-pura-to-strengthen-the-gambias-national-cybersecurity-resilience/) of January 2026 offering a free critical-infrastructure tier with no value or duration; and a [mathematics and artificial intelligence memorandum with a regional institute](https://thepoint.gm/africa/gambia/national-news/gambia-partners-with-senegal-to-become-hub-for-advanced-mathematics-ai) signed on 10 December 2025 with no site or funding yet.</details> | Movement |
 | New investments | Mobilisation of non-state finance | An [80 per cent stake in the mobile incumbent was transferred](https://thepoint.gm/africa/gambia/headlines/gamtel-ycell-sign-landmark-share-investment-and-network-modernization-agreement) in July 2026 against a GMD 6.1bn modernisation programme. <details><summary>Full record</summary>The programme covers fourth- and fifth-generation radio access, core, operations and billing systems, hybrid tower power and revenue assurance ([agreement](https://thepoint.gm/africa/gambia/headlines/gamtel-ycell-sign-landmark-share-investment-and-network-modernization-agreement)).<br>The announced winning bid was D6.7bn and the signed commitment GMD 6.1bn, and the repository does not reconcile the two ([bid](https://standard.gm/govt-to-sell-80-percent-shares-at-gamcel-for-d6-billion/)).<br>Separately a US$50m partnership was announced in January 2026 to take the national backbone from 40 Gbps to 800 Gbps, with no completion date, milestone schedule or local-currency figure published ([partnership](https://techafricanews.com/2026/01/05/gamtel-and-sysroad-sign-50-million-ppp-to-modernize-the-gambias-broadband-network/)).</details> | Movement |
@@ -209,6 +209,5 @@ Where a row reads ***No evidence***, the repository holds nothing on that indica
 |---|---|---|
 | Data Protection and Privacy Commission | A commencement instrument, an appointment notice, a budget line or a first annual report. The Act provides for an independent Commission; nothing held states whether it has been constituted. | 2026-08-09 |
 | Legal basis for issuing identity cards outside the country | An official response, a regulation or a registry statement covering issuance in Mauritania, Congo and Togo, which the opposition alleged was unlawful in August 2025. | not yet probed |
-| Domestic budget appropriations for the digital sector | An appropriation act, budget speech or estimate showing the votes for the communications ministry, the regulator and the digital programme. | not yet probed |
 | Artificial intelligence legislation or regulation | An artificial intelligence act or regulation, a regulator's AI guideline, or the AI provisions of the national policy once adopted. | 2026-09-04 |
 
