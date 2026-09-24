@@ -358,8 +358,10 @@ def check(iso3: str = "", budgets: str = "") -> tuple[list[str], int, int]:
                          f"absence in the runbook's log, not an empty file here.")
 
         seen: dict[str, int] = {}
-        parents: set[str] = set()          # programme_code held with no sub-programme
-        children: set[str] = set()         # programme_code held at sub-programme grain
+        # Keyed by head as well as code: a programme code is unique only within its head in
+        # some states (every Zambian head's support programme is 3499).
+        parents: set[str] = set()          # head/programme_code held with no sub-programme
+        children: set[str] = set()         # head/programme_code held at sub-programme grain
         for i, r in enumerate(rows, start=2):
             nrows += 1
             def bad(msg: str) -> None:
@@ -495,7 +497,8 @@ def check(iso3: str = "", budgets: str = "") -> tuple[list[str], int, int]:
                 gap[country] = gap.get(country, 0) + 1
 
             if g("programme_code"):
-                (children if g("sub_programme_code") else parents).add(g("programme_code"))
+                key = f'{g("admin_head_code") or g("admin_head")}/{g("programme_code")}'
+                (children if g("sub_programme_code") else parents).add(key)
 
         both = parents & children
         if both:
