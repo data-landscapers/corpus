@@ -443,6 +443,7 @@ def ref_file(root: Path, rows) -> Path:
     return p
 
 
+LIVE_FROM = ma.LIVE_FROM
 tmp = Path(tempfile.mkdtemp(prefix="maturity-measure-test-"))
 try:
     print("\nmeasures: refusals")
@@ -472,6 +473,9 @@ try:
         ["XXX", MEAS, "wdi", "30", "US$m", "2025", "2026-08-15"],     # a later release
         ["YYY", MEAS, "wdi", "30", "US$m", "2025", "2026-07-01"],
     ])
+    retro = ma.reference("XXX", JUL, rp)[MEAS]["value"]
+    check("a retrospective snapshot sees every release held", retro, "30")
+    ma.LIVE_FROM = dt.date(2026, 1, 31)          # July and August live, for the gating cases
     ma.apply("XXX", JUL, verdicts(root, "jul", BASE[:2]), reports=root, ref_path=rp)
     s = snap(root, JUL)
     check("with no verdict, the reference figure is taken at its band", s[MEAS]["stage"], "2")
@@ -503,6 +507,7 @@ try:
     ma.apply("XXX", AUG, verdicts(root, "aug", [v(MEAS, 1, "", **MEAS_VALUE)]), reports=root)
     check("the same figure re-read to a new stage is held", snap(root, AUG)[MEAS]["stage"], "2")
 finally:
+    ma.LIVE_FROM = LIVE_FROM
     shutil.rmtree(tmp, ignore_errors=True)
 
 print()

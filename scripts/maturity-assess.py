@@ -58,7 +58,7 @@ nothing (§4). The figure's `value_source` is dated (`SOURCE_AT`), and a new fig
 window is what moves a measure. The band is computed from the figure against the cuts in
 `lookups/maturity-measures.csv` and caps the stage. A compound anchor may hold the stage below the
 band; nothing lifts it above. With no verdict, a measure takes the reference figure
-(`prep/reference/measures.csv`, C5) at its band. A primary already standing is not displaced by a
+(`reference/measures.csv`, C5) at its band. A primary already standing is not displaced by a
 reference, and it carries forward. With no figure at all, the measure is *No evidence*. This
 replaces C4's budget exception, which was the first case of it.
 """
@@ -85,7 +85,11 @@ NORMS = CORPUS / "lookups" / "maturity-norms.csv"
 # The measures' specifications, cut from `maturity-rubric.md` (C3): method, direction and cuts.
 MEASURES = CORPUS / "lookups" / "maturity-measures.csv"
 # The reference figures, one per unit and measure and release, pulled by C5.
-REFERENCE = CORPUS / "prep" / "reference" / "measures.csv"
+REFERENCE = CORPUS / "reference" / "measures.csv"
+# The first live snapshot (§7). The two before it are taken retrospectively "with what the base
+# holds now about those dates", so they see every reference figure held, whatever its release; a
+# live snapshot sees only what was released by its as-at.
+LIVE_FROM = dt.date(2026, 9, 30)
 
 # The snapshot's columns, in file order: §6's stage columns plus `stage_rows` (the mapped rows that
 # satisfy the anchor, a subset of `row_ids`) and `moved_by`, which apply derives and nobody writes.
@@ -190,14 +194,17 @@ def source_date(value_source: str) -> dt.date | None:
 
 
 def reference(unit: str, as_at: dt.date, path: Path | None = None) -> dict[str, dict]:
-    """{indicator_id: row}: the latest reference figure published by the as-at date, for its
-    latest data year. A release after the as-at is invisible, as a later source is to a row."""
+    """{indicator_id: row}: the reference figure for the latest data year up to the as-at's year.
+    From the first live snapshot, a release after the as-at is invisible, as a later source is to
+    a row; the retrospective two see what is held (`LIVE_FROM`)."""
     path = path or REFERENCE
     if not path.exists():
         return {}
     best: dict[str, dict] = {}
     for r in read_csv(path)[1]:
-        if r["iso3"] != unit or dt.date.fromisoformat(r["release"]) > as_at:
+        if r["iso3"] != unit:
+            continue
+        if as_at >= LIVE_FROM and dt.date.fromisoformat(r["release"]) > as_at:
             continue
         if int(r["year"]) > as_at.year:
             continue
@@ -371,7 +378,7 @@ def measure_errors(vals: dict, st: str, as_at: dt.date, spec: dict | None) -> li
     d = source_date(vals["value_source"])
     if d is None:
         errs.append(f"value_source {vals['value_source']!r} is not a dated slug, compile or reference")
-    elif d > as_at:
+    elif d > as_at and not (vals["value_source"].startswith("ref:") and as_at < LIVE_FROM):
         errs.append(f"value_source is dated {d}, after the as-at")
     try:
         value = float(vals["value"])
