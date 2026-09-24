@@ -1,6 +1,6 @@
 ---
 title: Zimbabwe: status report
-compiled: 2026-09-23
+compiled: 2026-09-24
 place: ZWE
 region: XSA
 built_by: STATUS-INIT
@@ -113,7 +113,7 @@ That fund's position is not published: the Auditor-General [issued unmodified op
 
 Zimbabwe's [National AI Strategy mandates a Sovereign National Cloud to end the holding of national and commercial data in foreign clouds, with agricultural predictive models and geological and mineral maps to sit on domestic servers](https://technomag.co.zw/new-ai-strategy-mandates-local-storage-for-national-data/). It is a mandate issued into an estate of [about six live commercial data centres, none of them carrier-neutral, owned by the telecoms operators, the infrastructure companies and the state, where proximity to South Africa reduces the demand for peering in Zimbabwe at all](https://cms.d4dhub.eu/assets/Initiatives/Data-Governance-in-Africa/Digital-Investment-Facility/2507_Country-Market-Briefs/Data-Center-Market-Brief-Zimbabwe.pdf) (2024).
 
-Government's own arrangements are undocumented. There was [no government cloud platform, no policy governing where government data may be hosted, and no disclosure of the hosting behind the systems the state runs (2025)](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). What exists is commitment: [a National Data Centre ecosystem is one of five undertakings set out under Smart Zimbabwe 2030 (July 2026)](https://spikedmedia.co.zw/zimbabwe-bets-on-digital-gold-inside-the-launch-of-ndarama-and-the-push-for-ai-sovereignty/), and the [strategy designates high-performance computing centres as national assets rather than a procured service](https://technomag.co.zw/new-ai-strategy-mandates-local-storage-for-national-data/).
+Government's own arrangements are undocumented. There was [no government cloud platform, no policy governing where government data may be hosted, and no disclosure of the hosting behind the systems the state runs (2025)](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). What exists is commitment: [a national network of data centres is one of five undertakings set out under Smart Zimbabwe 2030 (July 2026)](https://spikedmedia.co.zw/zimbabwe-bets-on-digital-gold-inside-the-launch-of-ndarama-and-the-push-for-ai-sovereignty/), and the [strategy designates high-performance computing centres as national assets rather than a procured service](https://technomag.co.zw/new-ai-strategy-mandates-local-storage-for-national-data/).
 
 Commercial capacity has moved faster than state capacity. [Africa Data Centres and Econet commissioned a 5MW facility in Harare in June 2025, with multiple layers of power redundancy and cloud, artificial intelligence and security services drawn from Cassava Technologies' partnerships with Google and Microsoft](https://mbaretimes.com/2025/06/econet-begins-onboarding/), and [Econet InfraCo has approved a 300-hectare industrial and IT park near Harare International Airport, powered by a 100 megawatt solar plant and containing a new data centre](https://itweb.africa/article/econet-approves-ambitious-harare-it-park-data-centre/RgeVDMPRgo1vKJN3) (December 2025).
 

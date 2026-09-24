@@ -1,11 +1,11 @@
 ---
 title: Tanzania — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 place: TZA
-ledger_rows: 104
+ledger_rows: 107
 not_held: 5
-record: bf849a354249
+record: be6deedebbbd
 ---
 
 # Tanzania: monthly update, August – September 2026
@@ -193,6 +193,8 @@ Upstream of any single system, German cooperation [tendered a consultancy on 5 A
 The commodity exchange took its first crop online. The cereals regulator [sold 335,238 kilogrammes of white maize in Rukwa Region in a first phase run on a digital trading system, with the mercantile exchange, the warehouse receipts board and the cooperative development commission joining the sale and an accredited laboratory testing aflatoxin and moisture before bidding](https://www.thecitizen.co.tz/tanzania/business/tanzania-makes-history-with-first-ever-digital-white-maize-auction-5572996); further phases are unannounced.
 
 Zanzibar's automated road cameras [reached the House of Representatives](https://www.mwananchi.co.tz/mw/zanzibar/habari/kamera-za-barabarani-zanzibar-zaibua-mjadala-kila-kona-5597252), members calling the 50 km/h limit too low and the Sh230,000 fine too high and asking why government vehicles go unpenalised.
+
+The same board approved an [emerging technologies governance framework for public institutions on 31 August](https://www.ega.go.tz/uploads/standarddocuments/sw-1788520492-FINAL%20e-Government%20Emerging%20Technologies%20Govarnance%20Framework_Signed%20%281%29.pdf), setting principles, roles and risk and impact duties for AI, blockchain, the internet of things and other technologies before an institution adopts them.
 <!-- /narrative -->
 
 ## Digitalisation
@@ -222,6 +224,8 @@ Twelve days later, at a training event on 30 July, an archives officer said [gov
 Three deployments were reported. A cardiac institute stated on 16 July that its [digital patient tracking system is in use for medical-camp follow-up](https://www.thecitizen.co.tz/tanzania/news/national/jkci-s-digital-patient-tracking-system-sets-new-standard-for-follow-up-healthcare-in-tanzania-5528476), alongside AI-enabled echocardiography and contactless vital-signs monitoring, with no patient volumes or procurement route. A peer-reviewed study published 3 August reported a ports enquiry chatbot at [95.1% weighted task success with fifteen domain experts](https://digitalcommons.kennesaw.edu/ajis/vol18/iss2/3), with no production deployment. At the agricultural exhibition on 4 August a university showed [a medicine-authenticity lookup at development stage and a voice-driven mobile-money service for blind users in testing](https://www.thecitizen.co.tz/tanzania/news/national/ardhi-university-unveils-ai-solutions-to-fight-counterfeit-drugs-expand-financial-access-5546322); both are student prototypes, self-reported, with no institutional partner, regulator or funder named.
 
 The only movement on machine-generated content is in the argument rather than the rule. Technology, academic and creative voices [backed digital watermarking of machine-generated content as a way to restore accountability and discourage over-reliance on the tools, following the European transparency duties that took effect on 2 August 2026](https://www.thecitizen.co.tz/tanzania/news/national/experts-back-watermarks-to-curb-excessive-reliance-on-ai-5581724). No domestic proposal, consultation or instrument follows from it, against online content rules that already prohibit such content outright.
+
+A month later the rules existed. On 31 August the e-Government Authority's board [approved standards and guidelines for AI in public institutions, binding every institution and every AI system it runs, requiring impact and risk assessments and prohibiting fully automated decisions with significant outcomes](https://www.ega.go.tz/uploads/standarddocuments/sw-1788520404-FINAL%20Standards%20and%20Guidelines%20for%20Artificial%20Intelligence%20%28AI%29%20in%20Public%20Institution_Signed%20%281%29.pdf). They are a standard under the e-government statute, not a law, and the national strategy text is still not public.
 <!-- /narrative -->
 ### ICT Industry
 
@@ -239,6 +243,8 @@ The government launched [InnoIP Tanzania](https://fullshangweblog.co.tz/2026/08/
 A private channel opened alongside the state ventures programme. The leading mobile operator entered a [three-year partnership with a global entrepreneurship network to reach 1,000 entrepreneurs and 40 ventures, with a first cohort of entrepreneur-support organisations due in October 2026](https://ippmedia.co.tz/the-guardian/business/read/vodacom-bridge-for-billions-partner-to-boost-startup-ecosystem-2026-09-07-142532). No commitment amount is stated, so what exists is a set of targets with no measurable resource behind them.
 
 A UN programme [put TZS 1.3bn into a fifth cohort of 14 businesses at Innovation Week and launched a platform matching innovators with investors](https://www.undp.org/tanzania/stories/9000-sparks-one-flame-inside-week-ignited-tanzanias-trillion-dollar-future), reporting over US$3m to innovators since 2021 on its own count.
+
+A Belgian-run programme covering Tanzania, Uganda and Senegal for 2026-2028 [tendered a women-in-tech community platform and the sourcing of 12 African and European ventures on 21 September](https://www.enabel.be/app/uploads/2026/09/TZA25001-10031-_Consultancy-for-Development-of-a-Women-in-Tech-WiT-Community-Platform-and-EU-Africa-Venture-Sourcing.pdf), bids closing 23 October; no budget is stated.
 <!-- /narrative -->
 
 ## Capacity

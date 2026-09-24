@@ -1,11 +1,11 @@
 ---
 title: Malawi — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 place: MWI
-ledger_rows: 65
-not_held: 36
-record: a70331fed03b
+ledger_rows: 66
+not_held: 35
+record: 3a84893e37af
 ---
 
 # Malawi: monthly update, August – September 2026
@@ -112,6 +112,8 @@ On 5 August the revenue authority signed an arrangement with its South African c
 
 
 Two days later the South African side notified the update from its end, [publishing the arrangement for automatic exchange of customs information together with a draft rule amendment](https://www.freightnews.co.za/article/international-treaties-agreements-maas-on-customs-update). The rule is still in draft and the go-live date is still unstated.
+
+Inside government the push is toward the identity system. The communications regulator [urged every ministry and agency to connect its systems to the national registration and identification system, officials saying human-resource management, agriculture and health already are](https://www.biometricupdate.com/202609/malawi-advances-data-harmonization-interoperability-agenda), reported on 23 September; no count of connected systems or data-sharing instrument is published.
 <!-- /narrative -->
 ### Digital Identity and CRVS
 

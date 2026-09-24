@@ -1,11 +1,11 @@
 ---
 title: Ghana — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 place: GHA
-ledger_rows: 144
+ledger_rows: 149
 not_held: 9
-record: db1a4e5027e8
+record: 8b0a9cf2605b
 ---
 
 # Ghana: monthly update, August – September 2026
@@ -239,6 +239,8 @@ The external assessment of readiness arrived on 7 September. Ghana is [one of 77
 Two applied systems launched outside government. The development bank's [AI platform gives farmers agronomic guidance and loan officers portfolio intelligence on a messaging app, after a pilot of more than 8,500 queries in three months](https://gna.org.gh/2026/09/dbg-partners-launch-ai-platform-to-transform-agricultural-financing/), and a non-profit with the dominant operator [opened a toll-free voice line answering in six languages, an AI system included, for callers without data](https://www.ghanamma.com/2026/09/10/viamo-launches-231-voice-platform-in-ghana-creating-a-new-national-channel-for-inclusive-communication-and-offline-ai/).
 
 Two automated systems reported. The police [set 1 October 2026 for full automated traffic enforcement](https://www.graphic.com.gh/news/general-news/police-to-enforce-automated-traffic-offences-from-october-1.html), with camera-captured offences reviewed before notices go out by SMS and fines paid through Ghana.gov within 14 days, after a pilot that issued about 120,000 caution notices. The revenue authority [put customs collections at up to US$450m a month against about US$350m before its AI valuation system](https://www.myjoyonline.com/customs-revenue-jumps-to-450m-monthly-since-ai-introduction/), its own figure and higher than the finance ministry's monthly series.
+
+Two disability systems came out of one university. Researchers at the Kwame Nkrumah University of Science and Technology [presented SignTalk-Gh, a working model that translates Ghanaian Sign Language to text and audio and back for doctor-patient consultations](https://www.knust.edu.gh/news/news-items/knust-researchers-develop-ai-system-bridge-ghanaian-sign-language-communication-gap-healthcare), not yet deployed in any hospital, and its Responsible AI Lab [now hosts a continental Hub for AI and Disability Inclusion, launched with a network for finding disability datasets and a first-year inventory of them](https://techcabal.com/2026/09/24/africas-ai-ambitions-have-a-disability-data-problem/).
 <!-- /narrative -->
 ### ICT Industry
 
@@ -271,6 +273,8 @@ The coders programme published its funnel rather than a headline for the first t
 The coders programme is to reach first-year degrees: the minister [said 12 universities have signed memoranda to carry its courses in Level 100](https://www.myjoyonline.com/digital-skills-training-producing-solution-driven-youth-for-ghanas-future-sam-george/).
 
 The TVET Service [signed a memorandum with UNESCO, KPMG and Microsoft under the AI EmpowerED initiative to train at least 100,000 TVET facilitators in AI and digital skills](https://gna.org.gh/2026/09/tvet-service-unesco-kpmg-and-microsoft-partner-to-train-100000-facilitators-in-ai-and-digital-skills/), reported on 23 September. No cost or timeline is stated.
+
+Two school-level commitments were announced without money. The education ministry [said it would open dialogue on a policy to scale a community ICT laboratory model nationwide](https://www.modernghana.com/news/1530142/10-years-of-impact-helping-africa-foundation-call.html), and Ghana [signed an agreement with Intel to bring AI education into K-12 classrooms](https://www.myjoyonline.com/ghana-signs-agreement-with-intel-to-expand-ai-for-youth-programme/) in New York; neither states a cost, a timeline or a school count.
 <!-- /narrative -->
 ### Research institutions
 
@@ -306,6 +310,8 @@ The rural telephony count now has a dated start. The previous minister's Februar
 
 <!-- narrative: data--data-statistics -->
 The statistical service [published the third wave of its six-monthly governance panel on 6 August](https://www.graphic.com.gh/news/politics/ghana-news-governance-reforms-yielding-results-but-remain-fragile-government-statistician.html), run across all sixteen regions, with the Government Statistician putting its findings to digital remedies — digitising public services and publishing official fees among them. The report text is not held. Separately the finance minister [asked the service to develop a methodology for quarterly employment statistics](https://www.myjoyonline.com/finance-minister-urges-gss-to-publish-quarterly-employment-rate-data/); none is published and no timetable is set.
+
+The statistical service and Statistics Denmark [agreed the design of a third three-year phase of their cooperation, centred on integrating administrative data held by ministries and agencies](https://www.ecofinagency.com/news-services/2209-59131-ghana-denmark-plan-new-phase-of-cooperation-on-government-data); no start date or funding figure is stated.
 <!-- /narrative -->
 ### Open data
 

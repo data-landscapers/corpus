@@ -1,11 +1,11 @@
 ---
 title: Zimbabwe — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 place: ZWE
-ledger_rows: 66
+ledger_rows: 67
 not_held: 7
-record: 59f2490757bf
+record: 909c87e8e41a
 ---
 
 # Zimbabwe: monthly update, August – September 2026
@@ -137,6 +137,8 @@ The quarter's own numbers came from the central bank rather than from a conferen
 Acceptance also widened from outside. A commercial bank and an international card scheme [opened online acceptance of that scheme's cards to participating merchants in nine African markets including Zimbabwe on 19 August](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/), settling in local currency, US dollars or both; the merchant count is given for the nine markets together and not for Zimbabwe.
 
 The World Bank [warned that the tax on intermediated money transfers discourages digital transactions, weakens intermediation and pushes activity toward cash](https://businesstimes.co.zw/world-bank-warns-zim-5/), as banks and businesses press for its abolition. No government response is recorded.
+
+The stock exchange [launched InvoiceX, an invoice-discounting marketplace under its entrepreneurship exchange, reported on 24 September](https://bcrpub.com/news/zimbabwe-stock-exchange-launches-invoicex-48-hour-invoice-discounting-market/): financiers bid for buyer-authenticated invoices of US$1,000 to US$1.5m and suppliers are to be paid within 48 hours for fees of 0.65 per cent. Whether financing is with recourse is not stated.
 <!-- /narrative -->
 ### Registries
 
