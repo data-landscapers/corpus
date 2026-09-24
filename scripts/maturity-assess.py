@@ -114,6 +114,7 @@ DATE = re.compile(r"^(\d{4}-\d{2}-\d{2})")
 # A measure's `value_source` (maturity-rubric.md, How to read a measure): a raw/ slug, which
 # carries its date at the front, or a Corpus compile or reference with the date after `@`.
 SOURCE_AT = re.compile(r"^(?:budgets/[A-Z]{3}/\S+|outputs/non-state-finance/[A-Z]{3}-nonstate\.csv|"
+                       r"outputs/datasets/[a-z0-9-]+/[a-z0-9-]+\.csv|"
                        r"ref:[a-z0-9-]+)@(\d{4}-\d{2}-\d{2})$")
 
 
@@ -601,6 +602,10 @@ def apply(unit: str, as_at: dt.date, verdicts: Path, replace: bool = False,
                 if (spec[iid].get("cut_as_at") == as_at.isoformat() and iid in prev
                         and prev[iid].get("stage") != auto["stage"]):
                     auto["reassessed"] = "1"
+                # What the script writes for itself passes the drafter's checks too: a failure
+                # here is a fault in a compile or the reference, and it stops the run.
+                errs += [f"{iid} (from {auto['value_source']}): {e}" for e in measure_errors(
+                    {k: str(auto.get(k, "")) for k in VALUE_FIELDS}, auto["stage"], as_at, spec[iid])]
                 got[iid] = auto
             elif iid in prev:
                 got[iid] = {k: prev[iid].get(k, "") for k in VERDICT_FIELDS}
