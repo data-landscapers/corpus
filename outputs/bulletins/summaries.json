@@ -1,159 +1,4 @@
 {
-  "2026-08-24-africa-data-sovereignty-ai-race-aws-techcabal": {
-    "published": "2026-08-24",
-    "written": "2026-08-25",
-    "summary": "AWS is pitching a sovereign-by-design cloud to African enterprises as localisation rules tighten around where data may be held — Nigeria's central bank on payments, South Africa's data and cloud policy, Kenya's civil-registration rules and Rwanda's financial and telecoms requirements. Its executive in residence told a Johannesburg summit on 19 August that the company complies with the laws of the hundred-plus countries it operates in. The trade-off is cost: in-country hosting can cut latency below 15 milliseconds but is dearer where power is unreliable, and hybrid arrangements deepen rather than reduce dependence on the same platforms."
-  },
-  "2026-08-24-africa-tech-ma-84-deals-11-4bn-2026-techcabal": {
-    "published": "2026-08-24",
-    "written": "2026-08-25",
-    "summary": "A trade researcher counted 84 mergers and acquisitions in Africa's digital economy worth an estimated US$11.4 billion in disclosed value between 1 January and 17 August, past the 68 recorded across the whole of 2025. Financial services led on 27 deals and the targets clustered in South Africa, Nigeria and Egypt, with MTN Group's proposed US$6.2bn purchase of 75% of IHS Towers the largest disclosed value. Set against US$1.44 billion raised by startups in the first half, the exit route is now larger than the entry one; the count is disclosed value only."
-  },
-  "2026-08-24-airtel-fursa-lab-tanzania-digital-skills": {
-    "published": "2026-08-24",
-    "written": "2026-08-24",
-    "summary": "Airtel Africa Foundation and the Dar Teknohama Business Incubator have opened an Airtel Fursa Lab for digital skills and technology education at Kijitonyama Secondary School, launched by the foundation's head of programmes Esi Prah. No enrolment target, cost, equipment specification or timeline is attached to it."
-  },
-  "2026-08-24-aman-noon-egypt-digital-financing-partnership-techafricanews": {
-    "published": "2026-08-24",
-    "written": "2026-08-25",
-    "summary": "AMAN Consumer Finance has agreed to integrate its consumer credit as a direct payment option on noon's Egyptian e-commerce platform, letting approved customers finance purchases at checkout against an existing credit limit. AMAN says it runs over 150,000 payment points nationwide. No deal value, volume or timetable is published."
-  },
-  "2026-08-24-askya-investment-partners-african-ai-startups-techcabal": {
-    "published": "2026-08-24",
-    "written": "2026-08-25",
-    "summary": "Askya Investment Partners has opened applications for a six-week programme for ten African AI startups, with a minimum commitment of US$200,000 to at least one participant and no cash fee or equity required to take part. Its founder, previously at Proparco's venture programme and chief executive of Digital Africa, distinguishes it from an accelerator on the grounds that accelerators are built to end in a fundraise."
-  },
-  "2026-08-24-blockradar-1bn-stablecoin-transaction-volume-techafricanews": {
-    "published": "2026-08-24",
-    "written": "2026-08-25",
-    "summary": "Stablecoin infrastructure provider Blockradar says it has processed more than US$1 billion in transaction volume, supporting hundreds of fintech businesses across more than 20 countries. The company puts the use cases at cross-border supplier payments, remittances and conversion between stablecoins and local currencies. The figure is the company's own and no country breakdown is given."
-  },
-  "2026-08-24-cell-c-fy26-results-techafricanews": {
-    "published": "2026-08-24",
-    "written": "2026-08-24",
-    "summary": "Cell C reported profit after tax of ZAR 4.16 billion for the year to 31 May 2026, on total revenue of ZAR 12.64 billion and service revenue of ZAR 11.64 billion, with earnings per share of 2,338 cents. Prepaid service revenue grew 9.7% to ZAR 5.51 billion past 8 million subscribers and wholesale revenue 20% to ZAR 1.65 billion as the MVNO base reached 5.71 million; free cash flow was ZAR 1.06 billion."
-  },
-  "2026-08-24-christine-imoukhuede-ia-evenementiel-wearetech": {
-    "published": "2026-08-24",
-    "written": "2026-08-25",
-    "summary": "A trade-press profile of Christine Imoukhuede, the Nigerian accountant who founded Ahavaplan in 2021 to run event management on a single platform covering budget, calendar, tasks and documentation. Its assistant drafts proposals, builds schedules and shortlists suppliers, with the founder's pitch resting on automating administration rather than replacing the organiser."
-  },
-  "2026-08-24-erkkola-data-is-botswanas-new-diamond": {
-    "published": "2026-08-24",
-    "written": "2026-08-24",
-    "summary": "A named-analyst argument that Statistics Botswana is moving from custodian of data to active enabler of open data, on the evidence of its microdata portal, a move towards SDMX standards and a hackathon run with the Botswana Digital Innovation Hub and Team Europe. It is direct about what the office's own internal reviews found in the way — ambiguous legal language on the portals, non-commercial licensing clauses that disqualify datasets from counting as open, and departments with no incentive to publish timely structured data — and rests the case for urgency on youth unemployment that Statistics Botswana puts at 55.6% for 18-24 year-olds and 38.2% across 15-35. The piece carries no visible publication date and is dated here by retrieval."
-  },
-  "2026-08-24-fayda-digital-id-49-1m-enrolments-ethiopia-biometricupdate": {
-    "published": "2026-08-24",
-    "written": "2026-08-25",
-    "summary": "Ethiopia's Fayda digital ID reached 49.1 million enrolments by 24 August, on 12,000 biometric registration kits deployed and 150 agencies integrated, with more than 194 million eKYC verifications recorded. The prime minister's expectation that the credential will contribute 7% of GDP by 2030 is stated alongside those counts as a projection. The figures are the programme's own and unaudited; its enrolment target is 90 million by 2028."
-  },
-  "2026-08-24-fiberhome-tour-kenya-6g-itweb": {
-    "published": "2026-08-24",
-    "written": "2026-08-24",
-    "summary": "At the Nairobi leg of FiberHome's world tour, Kenya's principal secretary for broadcasting and telecommunications Stephen Isaboke said the country would deepen its partnership with the Wuhan-headquartered vendor, citing specialised training for Kenyan students and plans for an East African research and development centre, and framing the work against satellite connectivity, all-optical networks and an eventual move to 6G. FiberHome has operated in Kenya since 2017 and has built segments of the 100,000-kilometre Digital Superhighway; no target, budget or timeline is attached to the intent stated here."
-  },
-  "2026-08-24-frogfoot-fibre-rollout-capital-itweb": {
-    "published": "2026-08-24",
-    "written": "2026-08-24",
-    "summary": "New investors have subscribed for shares in South African fibre network operator Frogfoot and its Vivica Group sister companies Vox and Hypa, in a transaction implying a combined after-debt equity value of R8.4 billion, with the DNI Consortium the largest shareholder grouping and RMB adviser and funder. The stated purpose is to quadruple Frogfoot's connection rate to 360,000 homes a year within twelve months, aimed at townships and lower-income communities and claimed to create more than 5,000 direct jobs. No subscription amount is disclosed, so the R8.4 billion is a valuation rather than the capital committed."
-  },
-  "2026-08-24-ghana-malawi-digital-cooperation-techafricanews": {
-    "published": "2026-08-24",
-    "written": "2026-08-24",
-    "summary": "A Malawian delegation led by deputy chief secretary Stuart Ligomeka took a study tour of Ghana's Ministry of Communication, Digital Technology and Innovations, where deputy minister Mohammed Adams Sukparu presented Ghana's work on digital infrastructure, digital identity, cybersecurity, e-government, digital skills and innovation ecosystems. Ligomeka described Ghana as an important reference point for Malawi's own digital transformation and both sides proposed sustained cooperation between their technical teams; no instrument was signed and no programme, budget or timeline was announced."
-  },
-  "2026-08-24-kenya-national-cybersecurity-agency-chair": {
-    "published": "2026-08-24",
-    "written": "2026-08-24",
-    "summary": "Kenya has named Dr Martin Koyabe the inaugural non-executive chairperson of the board of its National Cybersecurity Agency, announced by ICT and Digital Economy principal secretary John Tanui, who set the new agency against the government's stated ambition to grow the digital economy to 30% of GDP. No other board member, budget or commencement date is named."
-  },
-  "2026-08-24-kenya-us-amcham-digital-economy-ai-cooperation-techafricanews": {
-    "published": "2026-08-24",
-    "written": "2026-08-25",
-    "summary": "Kenya's ICT cabinet secretary received an American Chamber of Commerce delegation to discuss deeper cooperation on artificial intelligence, digital skills, cybersecurity, data governance and cross-border data flows. He pressed for training programmes that end in certification and employment rather than in courses, and pointed to a September summit as the place where the discussion would become commitments. Nothing was signed, and no target, budget or timeline was set."
-  },
-  "2026-08-24-kenya-virtual-asset-compliance-techcabal": {
-    "published": "2026-08-24",
-    "written": "2026-08-24",
-    "summary": "An assessment of what Kenya's new virtual asset regime will cost the firms it covers, arguing that licence fees are the smaller part of it beside capital, ring-fencing, audit, cybersecurity and specialist staff. Thresholds are low or absent at the specialist end — no minimum paid-up capital for virtual asset investment advisors, KES 10 million for tokenisation providers, KES 20 million for asset managers and ICO providers — so smaller local firms have a way in while stablecoin issuers and offshore platforms face the heaviest requirements and the closest scrutiny. Businesses have until 4 November to transition."
-  },
-  "2026-08-24-lengau-supercomputer-breach-cause-chpc-itweb": {
-    "published": "2026-08-24",
-    "written": "2026-08-25",
-    "summary": "South Africa's science minister told the National Assembly that the late-May breach of the Lengau supercomputer was caused by vulnerabilities in the legacy high-performance computing system, with unauthorised access to parts of the environment and crypto-currency mining malware deployed. Ageing components are technically constrained or no longer fully supported by their vendors, and a remediation programme covering access controls, privileged-access management, network segmentation, patching and monitoring has since run. No cost, data-loss finding or outage duration is stated, and the same centre was reported at maximum capacity earlier in the month."
-  },
-  "2026-08-24-mtn-group-fintech-transactions-330bn-itweb": {
-    "published": "2026-08-24",
-    "written": "2026-08-24",
-    "summary": "MTN Group's fintech transaction value reached $330.5 billion in the six months to June 2026, up 33.8% in constant currency, on volumes up 17% to 13 billion across 1.4 million active agents and 2.3 million merchants. Advanced services grew 31.8% to make up 37.4% of MoMo revenue, offsetting flatter cash-out and peer-to-peer activity and the suspension of airtime advance in Nigeria, which the group expects to reinstate through four newly onboarded providers. Alongside the results MTN advanced a R6 billion share buyback and its purchase of the rest of IHS Holdings, to close in the second half with 30% of IHS Nigeria sold down to local investors."
-  },
-  "2026-08-24-mtn-group-interim-results-h1-2026": {
-    "published": "2026-08-24",
-    "written": "2026-08-24",
-    "summary": "MTN's own half-year booklet settles a figure its two trade-press accounts disagreed on: active data subscribers rose 9.1% to 179.3 million, not 10.3%, which is the growth in wholesale revenue on the same page. Fintech is the line the group leads on — 13.0 billion transactions in the half carrying US$330.5 billion, up 33.8% in constant currency, on 70.8 million monthly active mobile-money users. Group service revenue was R115.3 billion, up 17.5% in constant currency, with the gains concentrated outside the home market."
-  },
-  "2026-08-24-mtn-growth-outside-south-africa-techcabal": {
-    "published": "2026-08-24",
-    "written": "2026-08-24",
-    "summary": "MTN's first-half 2026 results put group service revenue up 17.5% in constant currency to R115.3 billion, with the growth concentrated away from home: Ghana, Nigeria, Uganda, Côte d'Ivoire and Cameroon were among the strongest contributors while South Africa managed 1.5%. Data revenue rose 29.2% against 2.4% for voice, the customer base reached 317.7 million, and almost R20 billion of capital expenditure was committed in the half. Nigeria is guided to at least low-20% service-revenue growth and Ghana to the mid-to-upper 30s, against low-to-mid single digits in South Africa."
-  },
-  "2026-08-24-mtn-momo-south-sudan-digital-finance-skills": {
-    "published": "2026-08-24",
-    "written": "2026-08-24",
-    "summary": "1,225 South Sudanese entrepreneurs have graduated from a year-long digital financial literacy programme run by MTN MoMo with Inkomoko, which paired business guidance and seed funding with training in accepting digital payments, selling airtime and providing cash-in services. UNHCR, the National Chamber of Commerce, the Mastercard Foundation and the Swiss Agency for Development and Cooperation were represented at the graduation."
-  },
-  "2026-08-24-mtn-nigeria-airtime-lending-rebound-techcabal": {
-    "published": "2026-08-24",
-    "written": "2026-08-25",
-    "summary": "MTN Nigeria has resumed airtime lending, suspended in April when the consumer watchdog brought the service under new licensing and consumer-protection requirements. The operator restarted on four vendors with its lending base cut to about a quarter of the first-quarter run rate, at a stated cost of around 50 billion naira (US$37.1m) to first-half revenue, and expects the whitelisted customer base to rebuild through the second half. The jurisdictional dispute the suspension turned on — whether airtime credit is telecoms or consumer lending — is still before the Court of Appeal."
-  },
-  "2026-08-24-nigeria-fiberone-seven-state-broadband-expansion": {
-    "published": "2026-08-24",
-    "written": "2026-08-24",
-    "summary": "FiberOne Broadband says it will extend its fibre network into Abeokuta, Edo, Ondo, Delta, Kano and Kaduna before the end of 2026, adding to a footprint in Lagos, Abuja, Port Harcourt, Ilorin and Ibadan. The rollout is paired with community works in Lagos, a free engineering training academy that offers its best trainees employment, and a schools connectivity programme rising from 10 schools in 2025 to 30 in 2026."
-  },
-  "2026-08-24-nigeria-iai-thales-alenia-space-deux-satellites-wearetech": {
-    "published": "2026-08-24",
-    "written": "2026-08-25",
-    "summary": "Nigeria's Federal Executive Council has approved the acquisition of two high-throughput communications satellites, NIGCOMSAT-2A and 2B, to be built by Thales Alenia Space and Israel Aerospace Industries. The operator puts 2A in orbit by the end of 2028 and 2B in 2029 or 2030. The award breaks with the Chinese partnership behind NigComSat-1, which failed within eighteen months of its 2007 launch, and NigComSat-1R, now near the end of its design life; no contract value is published and negotiation precedes manufacture."
-  },
-  "2026-08-24-nigeria-sec-crypto-rules-itweb": {
-    "published": "2026-08-24",
-    "written": "2026-08-24",
-    "summary": "Nigeria's Securities and Exchange Commission has issued draft rules setting minimum capital at N500 million for digital asset platform operators and real-world asset tokenisation platforms and N200 million for virtual asset service providers, on a N30 million registration fee and a fidelity insurance bond covering at least a quarter of paid-up capital. Operators serving Nigerian residents would have to be locally incorporated with a resident top executive, and no digital asset business could target the market without SEC approval. The article's headline figure of $1.41m does not reconcile with the naira amounts it goes on to give, and is not repeated here."
-  },
-  "2026-08-24-sa-top-ict-tenders-inmate-telephone-system-itweb": {
-    "published": "2026-08-24",
-    "written": "2026-08-25",
-    "summary": "South Africa's correctional service has put a fifteen-year contract out to tender for an inmate communication system across 243 centres, replacing copper telephony it says has deteriorated beyond support for about 166,000 prisoners. The winning supplier would design, install, integrate, operate and maintain it and tie it to the inmate cash system so airtime is bought from prisoners' own balances, with monitoring, recording, data storage and compliance in scope. No contract value is published and bids close on 14 September."
-  },
-  "2026-08-24-south-africa-icasa-spacex-spectrum-licensing-hearing": {
-    "published": "2026-08-24",
-    "written": "2026-08-24",
-    "summary": "SpaceX appeared before an ICASA panel on the draft amendments to South Africa's spectrum and spectrum-fee regulations gazetted on 15 May, calling the consultation a marked improvement on the existing regime while pressing the regulator over its delay in licensing the operator. Its pointed request was that ICASA say how the minimum 30% equity stake for historically disadvantaged groups applies to the new gateway and user-terminal licence categories. The source dates the hearing only as “last week”, which places it in the week of 17–21 August without establishing a day."
-  },
-  "2026-08-24-standard-chartered-women-in-tech-egypt": {
-    "published": "2026-08-24",
-    "written": "2026-08-24",
-    "summary": "Standard Chartered Foundation, Entlaq and Village Capital have opened a second Egyptian cohort of their Women in Tech Accelerator, taking 12 women-led technology start-ups through investment-readiness training and mentorship, with USD 35,000 in equity-free grants to be split between three of them at the close. The 2025 first cohort drew 240 applications and backed 11 start-ups; Entlaq's Women in Entrepreneurship Report 2025 puts the funding gap facing Egyptian women founders at an estimated USD 2.2 billion."
-  },
-  "2026-08-24-stellar-cv-labs-accelerator-trois-fintechs-africaines-wearetech": {
-    "published": "2026-08-24",
-    "written": "2026-08-25",
-    "summary": "Three African payment firms have been selected for a twelve-week accelerator run by the Stellar foundation, offering training, expert advice and funding of up to US$150,000 to build out cross-border payment and remittance platforms. The figure is a ceiling rather than a commitment, and the countries the three operate in are not named."
-  },
-  "2026-08-24-tanzania-mwinyi-ttcl-zanzibar-connectivity": {
-    "published": "2026-08-24",
-    "written": "2026-08-24",
-    "summary": "Zanzibar's president Hussein Ali Mwinyi was briefed on TTCL's connectivity work at the state operator's pavilion during the Kizimkazi Festival, covering the National ICT Broadband Backbone's rollout across the islands, the Faiba Mlangoni Kwako fibre-to-the-home service and the National Internet Data Centre's cloud and colocation offering. It is a courtesy visit rather than an announcement: no new investment, target or date is attached to any of it."
-  },
-  "2026-08-24-tech-credit-fund-molotel-south-africa-connectivity-techafricanews": {
-    "published": "2026-08-24",
-    "written": "2026-08-25",
-    "summary": "A private credit platform has extended a structured debt facility of undisclosed size to Molotel, a wholly women-owned South African internet service provider holding both service and network licences from the regulator. The money funds continued fibre, wireless, LTE and hybrid rollout into underserved metropolitan and township areas across five provinces."
-  },
   "2026-08-25-beyond-digital-adoption-strategy-implementation-uganda-education": {
     "published": "2026-08-25",
     "written": "2026-08-26",
@@ -7158,5 +7003,170 @@
     "published": "2026-09-23",
     "written": "2026-09-23",
     "summary": "The University of Cape Town launched openScopes AIDDiA, a four-year, Wellcome Trust-funded programme worth GBP 4.4 million (about R101 million) pairing open-source microscopy with machine-learning image analysis for research on TB, malaria and other infectious diseases. Partners are KEMRI, Uganda's Mbarara University, Côte d'Ivoire's CSRS and Imperial College London."
+  },
+  "2026-09-24-africa-ai-disability-data-haidi-addn": {
+    "published": "2026-09-24",
+    "written": "2026-09-24",
+    "summary": "A Hub for AI and Disability Inclusion (HAIDI), hosted by KNUST's Responsible AI Lab, and an African Disability Data Network were launched at the Global Data Festival in Nairobi with backing from IDRC, the UK FCDO and AI4D. They plan to map disability-related datasets, build three new datasets, assess how national AI strategies treat disability and fund three startups with grants of up to KES 5 million."
+  },
+  "2026-09-24-civ-emerging-technologies-digital-sovereignty": {
+    "published": "2026-09-24",
+    "written": "2026-09-24",
+    "summary": "Launching Ivoire Tech Forum 2026, to be held in Abidjan on 11-13 November, digital minister Djibril Ouattara announced a startup labelling platform that will give labelled startups access to the country's fiscal incentives. He also named connectivity, administrative digitalisation and digital skills as priorities."
+  },
+  "2026-09-24-cpv-ugpe-review-meeting-digital-project-progress": {
+    "published": "2026-09-24",
+    "written": "2026-09-24",
+    "summary": "A World Bank mission reviewed the Digital Cabo Verde project between 22 and 26 September, reporting about 80% disbursement of the original US$20 million financing (2020-2025) and about 40% of the US$20 million additional financing (2025-2028). School connectivity was named the priority for the additional financing, with stronger coordination across ministries and a clearer role for the DGTED."
+  },
+  "2026-09-24-egy-moneyhash-geidea-payment-partnership": {
+    "published": "2026-09-24",
+    "written": "2026-09-24",
+    "summary": "Payment orchestration platform MoneyHash partnered with payments provider Geidea, giving businesses already integrated with MoneyHash access to Geidea's online gateway and payment methods in Egypt, the UAE and Saudi Arabia without a separate connection."
+  },
+  "2026-09-24-eth-ena-unga81-digital-financial-inclusion": {
+    "published": "2026-09-24",
+    "written": "2026-09-24",
+    "summary": "Ethiopia and UNCDF held a side event at UNGA81 presenting digital payments, the Fayda national ID and digital public infrastructure as tools for financial inclusion and the SDGs. Planning minister Fitsum Assefa cited Digital Ethiopia 2030, the National Financial Inclusion Strategy, interoperable payments and BRIDGE 2030."
+  },
+  "2026-09-24-eth-her-cybertracks-women-cybersecurity-training": {
+    "published": "2026-09-24",
+    "written": "2026-09-24",
+    "summary": "Nearly 50 women cybersecurity professionals from across Africa met in Addis Ababa for the Her CyberTracks Regional Training Africa 2026. The programme is funded by Germany, the European Commission and Italy and delivered by the ITU and GIZ with UNODC's Global Programme on Cybercrime."
+  },
+  "2026-09-24-gha-gmb-nca-pura-benchmarking-visit": {
+    "published": "2026-09-24",
+    "written": "2026-09-24",
+    "summary": "Ghana's National Communications Authority is hosting a delegation from The Gambia's Public Utilities Regulatory Authority for a benchmarking visit from 22 to 25 September, PURA's second this year. The visit covers regulatory governance, consumer protection, dispute resolution, quality-of-service indicators and broadcasting."
+  },
+  "2026-09-24-gha-myjoyonline-intel-ai-for-youth": {
+    "published": "2026-09-24",
+    "written": "2026-09-24",
+    "summary": "Ghana signed an agreement with Intel on the sidelines of UNGA81 to expand the AI for Youth programme into K-12 schools, with Coral Reef and the Ministry of Education as partners. The gender minister signed on behalf of the First Lady; no value or timeline was given."
+  },
+  "2026-09-24-ifc-airtel-money-2026-90m-stake-lse-ipo": {
+    "published": "2026-09-24",
+    "written": "2026-09-24",
+    "summary": "Airtel Money, Airtel Africa's mobile money arm in 13 markets, filed for a London Stock Exchange listing in which existing shareholders sell shares, aiming to raise about US$800 million at a valuation of US$8-9 billion. The IFC agreed to buy up to GBP 67.2 million (about US$90 million) of shares at the offer price."
+  },
+  "2026-09-24-ken-biznakenya-coop-bank-uncdf-digiken-guarantee": {
+    "published": "2026-09-24",
+    "written": "2026-09-24",
+    "summary": "Co-operative Bank of Kenya and UNCDF launched a US$900,000 loan portfolio guarantee under the DigiKen programme, backing up to US$1.8 million of lending to fintechs, digital credit providers, e-commerce and digitally enabled small firms, and innovation hubs. UNCDF covers 50% of outstanding principal, rising to 70% for borrowers in the Arid and Semi-Arid Lands."
+  },
+  "2026-09-24-ken-childrens-rights-ai-roadmap": {
+    "published": "2026-09-24",
+    "written": "2026-09-24",
+    "summary": "President Ruto co-hosted the launch of a 2026-2027 Roadmap for Children's Rights and Protection in the Age of AI at the UN General Assembly, alongside the leaders of France, Spain and Australia. Kenya's technology envoy Philip Thigo said Kenya would take the work forward at home, across Africa and globally."
+  },
+  "2026-09-24-ken-cross-border-digital-public-service-pilot": {
+    "published": "2026-09-24",
+    "written": "2026-09-24",
+    "summary": "ICT Cabinet Secretary William Kabogo proposed that willing African Union member states jointly pilot one cross-border public service and report back by February 2027. He made the proposal at an AUC-Google ministerial roundtable in New York, pointing to eCitizen's more than 22,500 services and Kenya's Government Interoperability Framework."
+  },
+  "2026-09-24-ken-mcaai-dholuo-speech-data-ai": {
+    "published": "2026-09-24",
+    "written": "2026-09-24",
+    "summary": "The Maseno Centre for Applied Artificial Intelligence ran a preparatory visit to Suba ahead of collecting Dholuo speech data to improve the language's representation in AI systems, onboarding participants to its SmartVoice app. The work involves the ACTS-AI4D team."
+  },
+  "2026-09-24-ken-pulse-co-ke-anthropic-ai-deal": {
+    "published": "2026-09-24",
+    "written": "2026-09-24",
+    "summary": "Kenya and Anthropic signed a Joint Declaration in New York on 22 September covering AI skills, research, responsible public-sector use, AI safety and evaluation, and applications in education and health. Pilots, research and training with Kenyan institutions are to follow, governed by Kenyan law including on data protection and cybersecurity."
+  },
+  "2026-09-24-kenya-kenswitch-domestic-card-scheme": {
+    "published": "2026-09-24",
+    "written": "2026-09-24",
+    "summary": "Kenswitch, Kenya's largest independent payments switch, launched a domestic card scheme on 22 September that lets banks and other institutions issue physical and virtual cards on its network of more than 2,200 ATMs, 50,000 point-of-sale terminals and 80,000 agent outlets. It named no issuers, launch dates or pricing against Visa and Mastercard."
+  },
+  "2026-09-24-lbr-thenewdawn-justice-ministry-cybercrime-act-enforcement": {
+    "published": "2026-09-24",
+    "written": "2026-09-24",
+    "summary": "Nimba County Senator Nya Twayen asked Liberia's Justice Ministry to publish enforcement guidelines for the Cybercrime Act of 2025, including clear charging thresholds, to protect free expression and due process. His call follows the arrest and four charges under the Act against Jerry Nyantee Wrato over allegedly manipulated content about the Vice President; Wrato was later freed after court intervention."
+  },
+  "2026-09-24-nga-data-protection-digital-infrastructure-progress": {
+    "published": "2026-09-24",
+    "written": "2026-09-24",
+    "summary": "At UNGA81, Nigeria Data Protection Commission head Vincent Olatunji said personal data used in social protection programmes and social registers must follow the safeguards of the Nigeria Data Protection Act 2023, and called for African datasets built with proper rights protections. Communications minister Bosun Tijani cited the BRIDGE broadband project, which he said is expected to reach more than 20 million Nigerians."
+  },
+  "2026-09-24-nga-ngcert-whatsapp-vulnerability-advisory": {
+    "published": "2026-09-24",
+    "written": "2026-09-24",
+    "summary": "Nigeria's national CERT issued a critical advisory on two WhatsApp flaws (CVE-2026-23866 and CVE-2026-23863) on iOS, Android and Windows that allow malicious links to run from crafted Instagram Reels messages and attachments to be spoofed. It advised updating the app, including forced updates through mobile device management."
+  },
+  "2026-09-24-nga-nuran-wireless-starlink-backhaul-pilot": {
+    "published": "2026-09-24",
+    "written": "2026-09-24",
+    "summary": "NuRAN Wireless will pilot Starlink low-Earth-orbit satellite backhaul at a rural site in Nigeria with its partner Infratel, its first LEO integration, to test capacity, 4G migration and site costs. The satellite service is bought through third-party providers; NuRAN has no direct contract with Starlink or SpaceX."
+  },
+  "2026-09-24-nga-von-ndpc-olatunji-africa-digital-future": {
+    "published": "2026-09-24",
+    "written": "2026-09-24",
+    "summary": "In a keynote at a Vivacity Development event on the sidelines of UNGA81, Nigeria Data Protection Commission head Vincent Olatunji named regulatory alignment, data sovereignty and trust as the three foundations of Africa's digital economy. He argued for compatible data-protection rules across African jurisdictions and described data governance as economic infrastructure."
+  },
+  "2026-09-24-nigeria-ufarmx-agri-credit-data": {
+    "published": "2026-09-24",
+    "written": "2026-09-24",
+    "summary": "A TechCabal feature profiles UfarmX, founded by Alexander Zanders in Oyo State, which turns farm data into credit ratings used by commercial banks and retailers rather than lending itself. The company says it has facilitated more than US$6.8 million in trade across over 10,000 farmers in Nigeria, Senegal and Liberia."
+  },
+  "2026-09-24-sen-beninwebtv-daf-cyberattack-data-intact": {
+    "published": "2026-09-24",
+    "written": "2026-09-24",
+    "summary": "The director of Senegal's file-automation department (DAF), Ibrahima Dieng, confirmed that the February 2026 incident which halted national identity-card production was a cyberattack, but said the identity-card and electoral files were intact and no personal data was compromised. The Interior Ministry had earlier called it only an incident; a group's claim to have taken 139 terabytes of biometric and immigration data remains unverified."
+  },
+  "2026-09-24-sen-digital-ministry-sonatel-new-deal-technologique": {
+    "published": "2026-09-24",
+    "written": "2026-09-24",
+    "summary": "After a week-long workshop, Senegal's digital ministry and Sonatel set out a package of initiatives for Sonatel's contribution to the New Deal Technologique, covering infrastructure, e-government, the digital economy and services for citizens and businesses. Minister Samba Diouf asked other operators, banks, fintechs and startups to bring forward contributions of their own, with timelines and monitoring."
+  },
+  "2026-09-24-swz-positivenews-change-readiness-digital-eswatini": {
+    "published": "2026-09-24",
+    "written": "2026-09-24",
+    "summary": "About 40 change agents from five ministries and parastatals held a change-readiness workshop in Mbabane on 24 September, assessing their own directorates ahead of implementation of the World Bank-financed Digital Eswatini Project (US$65 million, about E1.06 billion). They are to help public servants adjust to the new digital systems."
+  },
+  "2026-09-24-tcd-wearetech-ndjamena-civil-registry-digitization": {
+    "published": "2026-09-24",
+    "written": "2026-09-24",
+    "summary": "English-language report of the same N'Djamena civil-registry digitisation launch and ANATS memorandum of 23 September. It adds that an earlier OIF-backed project regularised the civil status of 53,000 children in Tandjile and Ennedi Est in 2024 and 2025."
+  },
+  "2026-09-24-tchad-ndjamena-numerisation-etat-civil": {
+    "published": "2026-09-24",
+    "written": "2026-09-24",
+    "summary": "N'Djamena's municipality launched a project on 23 September, backed by the Organisation internationale de la Francophonie, to digitise and secure its civil registers, and signed a memorandum with the secure-documents agency ANATS to link municipal records to the national identification system. ANATS counted more than 623,000 school-age children without a birth certificate in 2023."
+  },
+  "2026-09-24-uga-airtel-starlink-satellite-to-mobile": {
+    "published": "2026-09-24",
+    "written": "2026-09-24",
+    "summary": "Airtel Uganda launched Starlink satellite-to-mobile service, giving compatible smartphones SMS and light data such as WhatsApp outside terrestrial coverage, free for a 30-day trial and then through data bundles. Uganda is Airtel Africa's second commercial market for the service after the DRC in August."
+  },
+  "2026-09-24-undp-africa-ai-crossroads-blog": {
+    "published": "2026-09-24",
+    "written": "2026-09-24",
+    "summary": "A UNDP Africa blog argues that AI adoption is a set of development choices about institutions, markets and rights, drawing on 26 AI Landscape Assessments completed between 2024 and 2026. It finds that readiness does not end when implementation starts, and links the work to the African Union's Continental AI Strategy."
+  },
+  "2026-09-24-xaf-gmb-cioafrica-africa-place-global-ai-governance": {
+    "published": "2026-09-24",
+    "written": "2026-09-24",
+    "summary": "At the African AI Governance Summit convened by Lawyers Hub in New York on 22 September, Gambian ambassador Muhammadou Kah urged Africa to co-design its technology and own its data rather than import both. He set out five markers: negotiate as one bloc, finance its own digital rails, co-author global AI rules, write rules with entrepreneurs and turn presence into influence."
+  },
+  "2026-09-24-xgl-mofcom-china-us-first-ai-dialogue": {
+    "published": "2026-09-24",
+    "written": "2026-09-24",
+    "summary": "China's commerce ministry said the eighth round of China-US trade consultations in New York included the first dialogue on artificial intelligence under the consultation mechanism, between Vice Premier He Lifeng and US Treasury Secretary Scott Bessent. No outcome on AI was stated beyond continued communication."
+  },
+  "2026-09-24-zaf-microsoft-digital-sovereignty-six-dimensions": {
+    "published": "2026-09-24",
+    "written": "2026-09-24",
+    "summary": "At a GovTech breakfast for senior officials, Microsoft South Africa set out six dimensions of digital sovereignty: data, control, operational, AI, resilience and assurance. It presented sovereignty as a range of controls set by workload and regulatory risk rather than a yes-or-no choice, and pointed to its two Azure regions in South Africa."
+  },
+  "2026-09-24-zwe-google-ai-digital-economy-dialogue": {
+    "published": "2026-09-24",
+    "written": "2026-09-24",
+    "summary": "ICT minister Tatenda Mavetera said President Mnangagwa met Google senior vice president James Manyika on the sidelines of UNGA81 to deepen engagement on AI, digital skills, research and home-grown innovation. No agreement, funding or programme was announced."
+  },
+  "2026-09-24-zwe-zse-invoicex-invoice-discounting": {
+    "published": "2026-09-24",
+    "written": "2026-09-24",
+    "summary": "The Zimbabwe Stock Exchange opened InvoiceX, a regulated invoice-discounting market run under the Zimbabwe Entrepreneurship Exchange, for invoices of US$1,000 to US$1.5 million. Once a buyer authenticates an invoice, licensed banks and microfinance lenders bid on the discount rate, with supplier payment targeted within 48 hours and platform fees of 0.65% of the transaction."
   }
 }
