@@ -670,15 +670,21 @@ def apply(unit: str, as_at: dt.date, verdicts: Path, replace: bool = False,
     w.writeheader()
     w.writerows(out)
     text = body.getvalue()
-    if path.exists() and not replace:
+    # Git here checks text out with CRLF (core.autocrlf), and this writes LF. An edition that
+    # differs only in line endings is the same edition: it is left as it is, never rewritten,
+    # which is the CR-only churn the editions rule warns of (global CLAUDE.md, RENDER.md).
+    same = False
+    if path.exists():
         with open(path, encoding="utf-8", newline="") as fh:
-            if fh.read() != text:
-                raise Refused(f"{path.relative_to(reports.parent.parent)} exists and this run "
-                              f"differs from it; an edition is not revised (--replace only before "
-                              f"it is published)")
-    path.parent.mkdir(parents=True, exist_ok=True)
-    with open(path, "w", encoding="utf-8", newline="") as fh:
-        fh.write(text)
+            same = fh.read().replace("\r\n", "\n") == text
+        if not same and not replace:
+            raise Refused(f"{path.relative_to(reports.parent.parent)} exists and this run "
+                          f"differs from it; an edition is not revised (--replace only before "
+                          f"it is published)")
+    if not same:
+        path.parent.mkdir(parents=True, exist_ok=True)
+        with open(path, "w", encoding="utf-8", newline="") as fh:
+            fh.write(text)
 
     latest = max(p.stem for p in path.parent.glob("????-??.csv"))
     if latest == f"{as_at:%Y-%m}":
