@@ -412,12 +412,29 @@ def packet(unit: str, as_at: dt.date, reports: Path = REPORTS, ref_path: Path | 
     pending: list[str] = []
     need = due_at(view, led, as_at, pending)
     frame = {r["indicator_id"]: r for r in indicators_lib.frame()}
+    due = len(need)
+    if prev_at:
+        # After the baseline, only what the window can move is drafted: an indicator with a source
+        # dated inside it, one with no prior stage, or one whose anchors look back 12 months (the
+        # period moves every month). Everything else carries forward in apply unaided, and a
+        # measure's compiled or reference figure is recomputed there, so neither needs a drafter.
+        def moves(iid: str, rids: list[str]) -> bool:
+            return (iid not in prev
+                    or any(prev_at < d <= as_at for r in rids for d, _ in led[r]["_sources"] if d)
+                    or any(LOOKBACK in a["anchor"] for a in rub.get(iid, {}).values()))
+        need = {iid: rids for iid, rids in need.items() if moves(iid, rids)}
     o = io.StringIO()
     w = o.write
     w(f"# Maturity packet — {unit}, as at {as_at}\n\n")
     w(f"Prior snapshot: {prev_at or 'none (this is the baseline)'}. "
       f"Window: ({prev_at or 'beginning'}, {as_at}]. {len(need)} indicators to assess")
+    if prev_at:
+        w(f" of {due} due; the other {due - len(need)} carry forward unaided")
     w(f"; {len(pending)} with evidence but no rubric yet, not assessed.\n\n" if pending else ".\n\n")
+    if prev_at:
+        w("A stage moves only on a source marked ▲ (inside the window), or on an anchor's 12-month "
+          "look-back with a dated `cause`. Where nothing new changes the anchor, repeat the prior "
+          "stage and rows: the script holds any other change back.\n\n")
     w("Write one verdict row per indicator below, columns: " + ", ".join(VERDICT_FIELDS) + ".\n"
       "Cite in `stage_rows` the rows that satisfy the anchor. Assess only from the sources listed; "
       "a row flagged LATER has status fields that may post-date the as-at.\n\n")
