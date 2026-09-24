@@ -1,25 +1,27 @@
 ---
 title: Strategies, plans and policies — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 subject: gov.policy
-places: DZA; BWA; BFA; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MWI; MLI; MRT; MUS; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: c9ef9583dbb9
+places: DZA; BWA; BFA; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MWI; MLI; MRT; MUS; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: f4bb55ca638f
 ---
 
 # Strategies, plans and policies: monthly update, August – September 2026
 
-*44 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*45 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
-On 8 September state media described the transformation as [resting on data-protection and cybersecurity laws and on local infrastructure including national data centres, and as aimed at transparency in public management and at combating administrative malpractice](https://www.elmoudjahid.dz/fr/editorials/a-l-ere-du-tout-numerique-4195). It carries no target, budget or completion date, and sixteen months after the strategy was published the repository still holds no delivery figure against any of its three headline targets.
+On 8 September state media described the digital transformation as [resting on data-protection and cybersecurity laws and on local infrastructure including national data centres, and as aimed at transparency in public management and at combating administrative malpractice](https://www.elmoudjahid.dz/fr/editorials/a-l-ere-du-tout-numerique-4195); it gives no target, budget or completion date. In September the high commission [trained the sectors' information-systems managers to deploy and operate the mechanism for verifying electronic documents issued through the national portal](https://www.elmoudjahid.dz/fr/info-en-continu/portail-national-des-services-numeriques-le-hcn-va-assurer-des-formations-33381), under a presidential instruction of 12 July to widen the portal's uses. No count of sectors, documents or verifications is published.
 
 ## Botswana
 
 The data policy is being turned into something implementable. A five-day [data governance capacity-building and stakeholder engagement was held from 7 to 11 September to translate the national data policy's principles and direction into a national data strategy](https://dig.watch/updates/botswana-national-data-strategy-engagement), with continental and European support. No draft strategy or adoption date is published.
+
+The national digital transformation strategy has a launch date. President Duma Boko told the UN Economic Commission for Africa in New York that [SmartBots would be formally launched in November, with the commission sought as a continuing partner](https://dailynews.gov.bw/news-detail/93397); no budget or targets are published.
 
 ## Burkina Faso
 
@@ -85,7 +87,9 @@ Two World Bank-supported studies [on infrastructure sharing, national roaming, l
 
 ## Egypt
 
-The state [awarded 410 MHz across 1.8, 2.6 and 3.5 GHz for US$3.5bn](https://www.connectingafrica.com/investment/egypt-seals-3-5b-spectrum-deal-with-telcos), doubling operator holdings at once, which the minister said matches all spectrum allocated in Egypt over the previous thirty years. The strategy behind it is not held; [Egypt refarmed 2.6 GHz for 5G rather than licensing dedicated mid-band](https://www.ookla.com/articles/5g-north-africa-2026), and set no coverage or speed obligations. Service coverage stands at [242 services, over 270 targeted by end-2026](https://gate.ahram.org.eg/News/5814629.aspx), and a [national data-centre strategy is under preparation](https://gate.ahram.org.eg/News/5722522.aspx) around data localisation; on 22 September the minister said it [would be launched by the end of 2026](https://egyptian-gazette.com/egypt/ict-minister-unveils-data-centre-strategy-plans-at-fdc-summit/), and no draft text is held.
+The communications minister said on 22 September that a national data-centre strategy [would be launched by the end of 2026](https://egyptian-gazette.com/egypt/ict-minister-unveils-data-centre-strategy-plans-at-fdc-summit/), having told a cabinet meeting on 20 September that it is [being drawn up with other ministries to expand data-centre capacity inside Egypt](https://www.youm7.com/story/2026/9/20/رئيس-الوزراء-يتابع-مستجدات-العمل-لعدد-من-مشروعات-تكنولوجيا-المعلومات/7552399); no draft text is held. On 9 September he put the Digital Egypt platform at [about 245 live services, with more than 400 targeted by 2030](https://hapijournal.com/2026/09/09/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A5%D8%AA%D8%A7%D8%AD%D8%A9-400-%D8%AE%D8%AF%D9%85%D8%A9-%D8%B9%D9%84/), against the [over 270 by end-2026 and about 450 by 2030 he set out in July](https://gate.ahram.org.eg/News/5814629.aspx).
+
+A review published on 3 August records that [Egypt launched 5G on refarmed 2.6 GHz blocks of 20 to 30 MHz, where the other three North African markets used dedicated 3.5 GHz spectrum](https://www.ookla.com/articles/5g-north-africa-2026), before the February 2026 award of [410 MHz across 1.8, 2.6 and 3.5 GHz for US$3.5bn](https://www.connectingafrica.com/investment/egypt-seals-3-5b-spectrum-deal-with-telcos).
 
 ## Equatorial Guinea
 
@@ -98,6 +102,10 @@ The month adds the sector's policy furniture rather than a new instrument. A cou
 ## Eswatini
 
 The National Data Governance Policy is still being written. The ICT minister [told the Senate it is targeted for completion before the end of 2026, with government undecided between a standalone instrument and a broader one](https://techreviewafrica.com/news/6470/eswatini-validates-national-data-governance-policy). The text is not published and no adoption date is given; being undecided on the instrument's form is itself a statement about how far the drafting has got.
+
+## Gabon
+
+The new infrastructure and cybersecurity directorate has a head. The Council of Ministers of 18 September [named Anicet Claude Andjouat director general of the directorate whose creation it approved in December 2025](https://gabonmediatime.com/gabon-dgdinc-aninf-deux-structures-pour-les-memes-missions-numeriques/), whose spectrum, infrastructure and cybersecurity missions overlap those the national digital infrastructure and frequencies agency claims. No text dividing the two mandates is published.
 
 ## Gambia
 
@@ -117,6 +125,8 @@ The legislature acquired a standing counterpart to all of this: the National Ass
 ## Guinea-Bissau
 
 The national digitalisation programme [launched nationally in August, at US$60m, covering connectivity, data protection, the digital economy and electronic government](https://ang.gw/ministro-dos-transportes-e-economia-digital-considera-digitalizacao-como-um-dos-pilares-fundamentais-para-garantir-servicos-publicos-eficazes/). It is the delivery vehicle the 2025-2030 strategy has lacked, and it arrives with a fund plan behind it: the [2026-2031 strategic and financing plan for the universal access fund](https://wardip.gw/plano-estrategico-do-fundo-de-acesso-e-servicos-universais-2026-2031-consultoria-salience-2025/), delivered in May after a review recommended restructuring the fund itself.
+
+The strategy's implementation plan is in preparation with a United Nations university unit. On 9 September UNU-EGOV [presented a delegation from the territorial-administration ministry with the project document for implementing the national digital transformation strategy](https://unu.edu/egov/news/unu-egov-welcomes-delegation-guinea-bissau), meant to set priorities, governance structures, partners and resources; no adoption date is published.
 
 ## Kenya
 
@@ -244,6 +254,8 @@ The education, science and technology ministry [completed a draft National Techn
 ## Togo
 
 The [government roadmap for 2026-2031 is in force](https://www.republiquetogolaise.tg/gouvernance-economique/0108-12153-vision-2040-le-gouvernement-renforce-son-dialogue-avec-le-secteur-prive) with headline targets of a doubling of gross domestic product per head and poverty below 15 per cent. The text is not held, no digital chapter or target is on record, and the three sectoral tracks at its private-sector workshop of 30 July were agro-industry, logistics and transport, and energy — none of them digital.
+
+A sectoral instrument moved alongside it. On 21 September the education ministry [presented a drafted national policy on artificial intelligence in technical and vocational training to a six-country regional workshop](https://education.gouv.tg/etfp-dual-le-togo-mise-sur-lentreprise-linsertion-et-lintelligence-artificielle/), which is to return an enriched version by its close on 24 September; the draft is not published.
 
 ## Tunisia
 

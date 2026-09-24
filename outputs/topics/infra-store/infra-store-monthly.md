@@ -1,10 +1,10 @@
 ---
 title: Data Storage — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 subject: infra.store
 places: DZA; AGO; BWA; BFA; CMR; CAF; COG; CIV; EGY; GNQ; ERI; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SLE; SOM; ZAF; SSD; TZA; TUN; ZWE
-record: c9b9dce4b7d5
+record: 303568f73cca
 ---
 
 # Data Storage: monthly update, August – September 2026
@@ -15,7 +15,9 @@ record: c9b9dce4b7d5
 
 ## Algeria
 
-The second of the state's two data centres passed its design review. The digitalisation commission's communique [names Blida as the second national data centre and records it obtaining Uptime Institute Tier III Design certification, the same certification Mohammadia obtained in February](https://algerie-eco.com/2026/09/02/le-deuxieme-centre-national-de-donnees-a-blida-obtient-la-certification-internationale-tier-iii-design/); [installation there began in March 2025](https://algerie-eco.com/2025/03/07/coup-denvoi-de-linstallation-du-deuxieme-centre-national-des-donnees-a-blida/). What is certified is the design and not the constructed facility, which the commission says it is still working towards.
+The digitalisation commission's communique of 2 September [names Blida as the second national data centre and records it obtaining Uptime Institute Tier III Design certification, the same certification Mohammadia obtained in February](https://algerie-eco.com/2026/09/02/le-deuxieme-centre-national-de-donnees-a-blida-obtient-la-certification-internationale-tier-iii-design/); [installation there began in March 2025](https://algerie-eco.com/2025/03/07/coup-denvoi-de-linstallation-du-deuxieme-centre-national-des-donnees-a-blida/). What is certified is the design and not the constructed facility, which the commission says it is still working towards.
+
+The same day the investment agency [awarded a private e-commerce firm a land concession at El Affroun, in Blida wilaya, for a data centre it expects to create 340 jobs](https://algerie-eco.com/2026/09/02/aapi-quatre-projets-dinvestissement-beneficient-de-foncier-economique-plus-de-1300-emplois-a-la-cle/). No investment amount, capacity or timetable is stated.
 
 ## Angola
 
@@ -57,13 +59,11 @@ A data centre was [installed at the national polytechnic institute in Yamoussouk
 
 ## Egypt
 
-A market report puts an East Cairo campus at [25 MW operating with plans for 45](https://businessday.ng/technology/article/investors-pour-into-africas-digital-backbone-as-data-centre-projects-near-900-mw/) and names an Egyptian expansion inside a continental pipeline of 890 MW, with no site, capacity, investment figure or date. The report itself is not held.
+Huawei [has bid to build the government's AI data centres](https://thenextweb.com/news/huawei-egypt-ai-data-centres-ascend-us-consortium), proposing to export 1,408 Ascend 950-series chips for a training cloud and a further 600 for two inference clusters on a twelve-month build, while the US State Department assembles a rival consortium of Nvidia, AMD and Microsoft. It would be the first confirmed export of Huawei's Ascend accelerators; no award is on file, and the reporting rests on unnamed sources and documents the correspondent reviewed. On 3 September the communications minister [met a US data-centre developer and the American consortium it leads to discuss an integrated hyperscale and AI zone](https://techafricanews.com/2026/09/04/egypt-explores-major-data-centre-ai-hub-project-heka-data-us-consortium/), with no investment figure stated.
 
-Huawei [has bid to build the government's AI data centres](https://thenextweb.com/news/huawei-egypt-ai-data-centres-ascend-us-consortium), proposing to export 1,408 Ascend 950-series chips for a training cloud and a further 600 for two inference clusters on a twelve-month build, while the US State Department assembles a rival consortium of Nvidia, AMD and Microsoft. It would be the first confirmed export of Huawei's Ascend accelerators; no award is on file, and the reporting rests on unnamed sources and documents the correspondent reviewed.
+The incumbent's chief executive told the half-year results call that [phase two of the Regional Data Hub is expected to begin operating within one to two months on economics improved against phase one, with further data-centre projects screened on internal rate of return, payback period and business model](https://www.fintechgate.net/250173); the carve-out of the data-centre assets into a wholly owned subsidiary continues. No entry-into-service date or capacity figure is confirmed, against a schedule the repository already records as slipped.
 
-The operator's own hub moved on its schedule rather than its capacity. Its chief executive told the half-year results call that [phase two of the Regional Data Hub is expected to begin operating within one to two months on economics improved against phase one, with further data-centre projects screened on internal rate of return, payback period and business model](https://www.fintechgate.net/250173); the carve-out of the data-centre assets into a wholly owned subsidiary continues, and the chief financial officer said the uncompleted stake sale was not a negative development because the business is worth more retained. No entry-into-service date or capacity figure is confirmed, against a schedule the repository already records as slipped.
-
-A domestic investment holding reviewed its Kemet data centre in the Suez Canal Economic Zone with the communications minister on 23 September: [an 80 MW Tier III site with USD 270 million allocated to the first phase of a project put at USD 1.2 billion](https://english.ahram.org.eg/News/577345.aspx). No timeline was disclosed.
+Agreements linking Vodafone Business, Cassava Technologies and Elsewedy Electric [were put at up to US$1bn](https://www.truthng.com/egypts-data-centre-project-targets-up-to-1bn/) (15 September), with no site, capacity or date. A domestic investment holding reviewed its Kemet data centre in the Suez Canal Economic Zone with the communications minister on 23 September: [an 80 MW Tier III site with USD 270 million allocated to the first phase of a project put at USD 1.2 billion](https://english.ahram.org.eg/News/577345.aspx). No timeline was disclosed.
 
 ## Equatorial Guinea
 

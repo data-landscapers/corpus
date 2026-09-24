@@ -1,15 +1,15 @@
 ---
 title: New investments — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 subject: finance.new
-places: AGO; BEN; BFA; CMR; CAF; TCD; COG; CIV; DJI; COD; EGY; SWZ; ETH; GHA; KEN; MWI; MUS; MAR; MOZ; NER; NGA; RWA; SEN; ZAF; TZA; ZMB; ZWE
-record: a12a1297c621
+places: AGO; BEN; BFA; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; SWZ; ETH; GHA; KEN; MWI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; ZAF; TZA; ZMB; ZWE
+record: 55d69cffbeec
 ---
 
 # New investments: monthly update, August – September 2026
 
-*27 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*30 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -32,6 +32,10 @@ The regional development bank's Digital Transformation Fund [was presented to pu
 What deters investment was named out loud. At a United States-convened business climate forum in Yaoundé, [financial technology and foreign-exchange rules rather than the investment case dominated the discussion](https://www.businessincameroon.com/public-management/2708-16628-cameroon-s-regulatory-hurdles-take-center-stage-in-talks-to-unlock-u-s-investment), and a separate assessment [set out what is still getting in the way of United States digital investment despite strong demand](https://www.ecofinagency.com/news-digital/2808-58424-u-s-digital-investment-in-cameroon-what-is-still-getting-in-the-way). Demand is not the constraint here and both accounts say so; the record held carries no rule changed in response.
 
 The EU's digital money was set out in September: [CFAF 9.83bn for the regional Digital Business Boost for Africa and CFAF 9.83bn for Digital Acceleration in Cameroon, signed on 16 June](https://www.businessincameroon.com/cooperation/1109-16730-cameroon-eu-shape-new-sme-agenda-around-finance-and-digitalization).
+
+## Cape Verde
+
+At the World Bank's September review mission the task team leader [put the Digital Cabo Verde project's original financing at about 80% executed and the additional financing for 2025 to 2028 at about 40%](https://backend-ugpe.gov.cv/noticias/review-meeting-of-the-cape-verde-digital-project-mission-highlights-progress-and-next-steps/), and school connectivity was named the additional financing's priority.
 
 ## Central African Republic
 
@@ -67,7 +71,7 @@ A development fund committed [US$32.8m into an upsized US$179m senior secured fa
 
 ## Egypt
 
-The data-centre position moved by cancellation. [Telecom Egypt's board withdrew on 17 July from the agreement to sell 75-80% of its Regional Data Center Hub because the conditions were not met](https://www.connectingafrica.com/data-centers/telecom-egypt-cancels-helios-data-center-stake-sale); the hub is instead to be carved out as a wholly-owned subsidiary ([cancellation account](https://www.connectingafrica.com/data-centers/telecom-egypt-cancels-helios-data-center-stake-sale)). Neither the consideration nor the unmet conditions were disclosed.
+Zeal, an Egyptian payments-software company, [raised US$10m to take its checkout customer-identification layer for card terminals into the Middle East, Europe and Africa](https://www.wearetech.africa/fr/fils/breves/breves-simple/egypte-zeal-leve-10-millions-de-dollars-pour-dynamiser-le-commerce-physique) (10 September); no investor is named. Synapse Analytics [raised a US$13m Series A led by Partech](https://www.globenewswire.com/news-release/2026/09/14/3360726/0/en/synapse-analytics-secures-us-13m-led-by-partech-to-drive-ai-powered-decisioning-for-financial-institutions.html) (14 September). Under the state's startup charter, [UMAMI was named among the first companies to receive the Startup Label certificate](https://techafricanews.com/2026/08/10/umami-launches-ai-powered-learning-operating-system-for-mena-institutions/) (10 August).
 
 ## Eswatini
 
@@ -94,6 +98,8 @@ On the lending side, a guarantee structure was announced on 5 August: [a catalyt
 
 The World Bank's digital acceleration project was reviewed on 14 September: [more than 62,000 teachers trained and more than 5,000 smart boards distributed, reaching nearly 100,000 students, with disbursement delays raised](https://www.ecofinagency.com/news-digital/1509-58912-kenya-world-bank-take-stock-of-digital-economy-project-kdeap-s-gains-and-challenges). The operation closes in October 2028.
 
+Under the DigiKen programme a commercial bank and the UN Capital Development Fund [launched a USD 900,000 loan portfolio guarantee backing up to USD 1.8m of lending to fintechs, digital credit providers, e-commerce firms and innovation hubs](https://biznakenya.com/co-op-bank-uncdf-launch-financing-facility-to-boost-kenyas-digital/), covering half of principal and 70 per cent in arid and semi-arid counties. No loan under it is reported yet.
+
 ## Malawi
 
 The largest digital programme on the books came under review. The World Bank [opened a five-day implementation support mission on Malawi's US$150 million Digital Acceleration Project](https://techreviewafrica.com/news/6993/world-bank-begins-review-of-malawis-150-million-digital-acceleration-project). Against it sits an estimate of what the reform agenda is worth: [about 1.1 trillion kwacha, some US$634 million, in economic value projected from targeted digital reforms](https://www.financialafrik.com/en/2026/08/28/malawi-634-million-in-economic-value-expected-through-targeted-digital-reforms/). A projection and a mission are not results; the record held carries no disbursement figure and no delivered output against either. A consultation in Blantyre on 3 September then [put the project's second phase at US$35 million to US$75 million over a six-year implementation, covering more than 500 public-sector institutions and more than 2,000 schools](https://news.broadcastmediaafrica.com/2026/09/04/malawi-advances-next-phase-of-digital-connectivity/) — the first sizing of the next tranche on record, and no commitment or approval date is stated for it. The same account carries the US$150 million programme total that the Bank's own [appraisal puts at US$90 million](https://documents1.worldbank.org/curated/en/099050524041520240/txt/P5050951dae66d0e1bc631717e7e7a4e70.txt), and nothing on file reconciles the two.
@@ -111,6 +117,10 @@ A corporate venture fund of US$250m, writing cheques of up to US$5m into regiona
 ## Mozambique
 
 The digital foundations programme runs to 2027 with the European Union delegation funding and the telecommunications union implementing. It reports [a national digital skills assessment drawing on more than 30 interviews and a survey of about 400 young people, a Matola pilot training 50 young people and 5 teachers, 15 women trained under a govtech challenge, more than 100 participants in artificial-intelligence training for young women and more than 320 stakeholders reached by accessibility work](https://www.itu.int/en/ITU-D/Regional-Presence/Africa/Pages/projects/2023/mozambique-vamoz-digital.aspx). The project page is undated and rolling, so none of those outputs can be placed inside this window, and no disbursement update is held.
+
+## Namibia
+
+The Universal Service Fund [published its Integrated Annual Report 2025 in September](https://www.cran.na/wp-content/uploads/2026/09/USF-Annual-Report-2025.pdf), carrying the fund's financial statements and its first two mobile network deployment phases, for 2024/25 and 2025/26. It is the first set of the fund's own accounts the repository holds.
 
 ## Niger
 
@@ -131,6 +141,10 @@ The month's financing arrived as a parliamentary approval rather than a disburse
 A US firm [announced US$300m for Senegal's digital infrastructure](https://lesoleil.sn/actualites/economie/transformation-numerique-cybastion-annonce-un-investissement-de-300-millions-de-dollars-au-senegal/), with no instrument, project or timetable behind the figure.
 
 The commitment was presented to the president in Washington on 14 September: [Cybastion named cybersecurity, data centres, technology transfer and capacity building as its uses](https://techafricanews.com/2026/09/16/senegal-300m-cybastion-digitalisation-projects/), still without an instrument or timetable.
+
+## Seychelles
+
+The African Development Bank [approved a USD 34 million loan on 22 September for the third and final phase of its Economic Resilience and Green Recovery Support Programme, taking its financing across the three phases to USD 84 million](https://www.afdb.org/en/news-and-events/press-releases/seychelles-african-development-bank-approves-34-million-loan-strengthen-public-services-private-sector-growth-and-climate-resilience-96998). It is budget support spanning public financial management, the business environment and climate resilience; its named digital reforms are electronic invoicing for tax compliance, a national e-procurement system and a one-stop investment portal, and no digital share is stated.
 
 ## South Africa
 

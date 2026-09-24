@@ -1,15 +1,15 @@
 ---
 title: Literacy — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 subject: capacity.literacy
-places: AGO; TCD; COM; COD; EGY; GHA; KEN; LBR; MDG; MOZ; RWA; SEN; SLE; SSD; TZA; TGO; UGA; ZMB
-record: d026dacbe515
+places: AGO; TCD; COM; COD; EGY; GHA; KEN; LBR; MDG; MOZ; NER; RWA; SEN; SLE; SSD; TZA; TGO; UGA; ZMB
+record: 8092f6259ddb
 ---
 
 # Literacy: monthly update, August – September 2026
 
-*18 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*19 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -31,7 +31,7 @@ A [campaign to publicise the digital code launched in Kinshasa on 6 August, mobi
 
 ## Egypt
 
-Devices were announced rather than delivered. As the school year opened, the education minister [put free tablets at about 700,000 secondary students a year with an extension to technical education, above 1.2 million devices announced in total](https://egyptwindow.net/article/4906806), a figure set in the same account against connection costs and teacher readiness. No count of devices delivered or in use is published.
+As the school year opened, the education minister [put free tablets at about 700,000 secondary students a year with an extension to technical education, above 1.2 million devices announced in total](https://egyptwindow.net/article/4906806), a figure set in the same account against connection costs and teacher readiness. No count of devices delivered or in use is published.
 
 The communications ministry [signed a three-year memorandum with Intel on 16 September to train one million citizens a year in AI](https://english.ahram.org.eg/News/576790.aspx) and certify 500 trainers a year; no cost is stated.
 
@@ -60,6 +60,10 @@ The vocational training ministry [signed a partnership with France's Pix public-
 At the launch of a UNESCO-organised dialogue series in Maputo in August, an NGO [called for a national digital-literacy programme for young people, arguing digital skills are now a precondition for meaningful democratic participation](https://clubofmozambique.com/news/mozambique-create-national-digital-literacy-programme-for-young-people-ngo/). The repository holds no such programme or strategy.
 
 On 21 September the ICT institute [signed a memorandum with Kamaleon, a rural mobile-multimedia firm, for awareness campaigns, workshops and community forums on digital culture, cybersecurity and personal-data protection, with content in Portuguese and where possible Mozambican languages](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/mozambique-un-partenariat-public-prive-pour-renforcer-la-culture-du-numerique-en-milieu-rural). No budget, reach target or start date is stated.
+
+## Niger
+
+Media literacy got a campaign of its own. Niger's [first national campaign against disinformation was launched at Tillabéry on 19 September](https://mcnti.gouv.ne/citoyennete-numerique-et-paix-lancement-a-tillabery-de-la-1ere-campagne-nationale-de-lutte-contre-la-desinformation/), run by the NGO Jeunesse Plus with the communication ministry's backing and pairing online awareness with media and information literacy workshops for local communities. No reach, budget or duration is published.
 
 ## Rwanda
 

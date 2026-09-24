@@ -1,10 +1,10 @@
 ---
 title: Technical Capacity — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 subject: infra.capacity
 places: BDI; COD; GHA; KEN; LBY; MOZ; RWA; SEN; ZAF; TGO
-record: 0d9bd11874a8
+record: 754b461f5adb
 ---
 
 # Technical Capacity: monthly update, August – September 2026
@@ -31,7 +31,7 @@ The advanced science and technology institute, its [operationalisation under rev
 
 ## Libya
 
-The regulator's move to license data centres and cloud services is still at workshop stage, [with storage firms operating unpermitted when it was floated in February](https://lana.gov.ly/post.php?id=351103&lang=ar). What arrived instead is a private certification: [tier III design status for the national telecom company's KM-4 site](https://uptimeinstitute.com/component/tierachievement/datacenter/km4-data-center-/2041?Itemid=). Certification by a foreign body is standing in for a domestic licence that does not yet exist.
+The regulator's move to license data centres and cloud services is still at workshop stage, [with storage firms operating unpermitted when it was floated in February](https://lana.gov.ly/post.php?id=351103&lang=ar). What arrived instead is a private certification: [tier III design status for the national telecom company's KM-4 site](https://uptimeinstitute.com/component/tierachievement/datacenter/km4-data-center-/2041?Itemid=). Certification by a foreign body is standing in for a domestic licence that does not yet exist. Inside government, the technical and vocational education ministry said its own information systems section had [rebuilt its electronic archiving system, with operator training due from 28 September](https://lana.gov.ly/post.php?id=366096&lang=ar).
 
 ## Mozambique
 

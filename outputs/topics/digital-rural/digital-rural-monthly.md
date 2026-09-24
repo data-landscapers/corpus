@@ -1,10 +1,10 @@
 ---
 title: Rural digital data capture — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 subject: digital.rural
 places: BDI; TCD; COM; CIV; COD; EGY; SWZ; GHA; GIN; KEN; LSO; LBY; MWI; MLI; MUS; NGA; SEN; SLE; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 11ee80152d4d
+record: 174ed55adb0c
 ---
 
 # Rural digital data capture: monthly update, August – September 2026
@@ -35,7 +35,7 @@ A three-week digital enrolment pilot in April [replaced paper forms with applica
 
 ## Egypt
 
-The rural programme was restated this month rather than measured: the communications minister told a cabinet meeting on digital projects that the village fibre sits inside [the incumbent's national programme to replace copper with fibre optic cable across the country, laying fibre in the villages of the rural development initiative to bring high-speed internet to rural residents](https://www.youm7.com/story/2026/9/20/رئيس-الوزراء-يتابع-مستجدات-العمل-لعدد-من-مشروعات-تكنولوجيا-المعلومات/7552399). No route length, cost or completion date accompanies the wider programme, and the village and line counts held here are June's.
+The communications minister told a cabinet meeting on digital projects that the village fibre sits inside [the incumbent's national programme to replace copper with fibre optic cable across the country, laying fibre in the villages of the rural development initiative to bring high-speed internet to rural residents](https://www.youm7.com/story/2026/9/20/رئيس-الوزراء-يتابع-مستجدات-العمل-لعدد-من-مشروعات-تكنولوجيا-المعلومات/7552399). No route length, cost or completion date accompanies the wider programme, and the village and line counts held here are June's.
 
 ## Eswatini
 
@@ -82,6 +82,8 @@ The communications minister told the President on 4 August that [deployment of a
 ## Senegal
 
 The head of the deconcentrated service network said the thing his own network runs on is missing. Closing a tour of four regions, he [said that without connectivity there can be no deconcentration of public services, and listed connectivity, workstations, IT equipment, archive and mail management and communications security among the problems found in prefectures and gendarmerie posts](https://aps.sn/the removal of paper-sans-connectivite-pas-de-deconcentration-des-services-publics-selon-le-directeur-de-senegal-services/), while announcing the forthcoming integration of civil registration into the national platform for administrative acts. No centre count, connectivity rate or remediation budget is published against the diagnosis.
+
+The online civil-status certificate platform has left its pilot: by August it [was operating in 189 municipalities, with the management software it depends on deployed in 74 per cent of civil-status centres](https://www.ecofinagency.com/news-digital/2109-59111-senegal-digitizes-77-of-civil-registry-centers-but-data-security-and-fraud-remain-challenges), on the agency's own figures. Certificates requested online are still collected at the centre.
 
 ## Sierra Leone
 

@@ -1,10 +1,10 @@
 ---
 title: Research institutions — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 subject: capacity.research
 places: CAF; COM; COG; CIV; COD; EGY; ETH; GHA; KEN; LBY; MAR; MOZ; NER; RWA; SLE; ZAF; TZA; UGA; ZWE
-record: 52440e4095e1
+record: 58295702ab33
 ---
 
 # Research institutions: monthly update, August – September 2026
@@ -35,7 +35,7 @@ The national university's transdisciplinary research programme [awarded its exce
 
 ## Egypt
 
-The month's research contribution is an outside assessment of a question the state has not published one on. A peer-reviewed study [assessed administrative readiness and institutional capacity for governing artificial-intelligence-driven digital transformation in the public health system](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2026.1883794/full), written by authors at Egyptian, Saudi and Jordanian institutions. The repository holds no state readiness assessment of the same question against which to read it.
+A peer-reviewed study [assessed administrative readiness and institutional capacity for governing artificial-intelligence-driven digital transformation in the public health system](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2026.1883794/full), written by authors at Egyptian, Saudi and Jordanian institutions. The repository holds no state readiness assessment of the same question against which to read it.
 
 ## Ethiopia
 

@@ -1,10 +1,10 @@
 ---
 title: National statistics — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 subject: data.statistics
 places: BEN; BWA; BFA; BDI; CMR; CAF; TCD; COM; COG; COD; GNQ; SWZ; GAB; GHA; GIN; KEN; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; TGO; TUN; UGA; ZWE
-record: f375dbceaf2d
+record: 46f6e263407e
 ---
 
 # National statistics: monthly update, August – September 2026
@@ -85,6 +85,8 @@ On 21 July an interministerial committee fixed the terms of a second census of e
 
 The statistical service [published the third wave of its six-monthly governance panel on 6 August](https://www.graphic.com.gh/news/politics/ghana-news-governance-reforms-yielding-results-but-remain-fragile-government-statistician.html), run across all sixteen regions, with the Government Statistician putting its findings to digital remedies — digitising public services and publishing official fees among them. The report text is not held. Separately the finance minister [asked the service to develop a methodology for quarterly employment statistics](https://www.myjoyonline.com/finance-minister-urges-gss-to-publish-quarterly-employment-rate-data/); none is published and no timetable is set.
 
+The statistical service and Statistics Denmark [agreed the design of a third three-year phase of their cooperation, centred on integrating administrative data held by ministries and agencies](https://www.ecofinagency.com/news-services/2209-59131-ghana-denmark-plan-new-phase-of-cooperation-on-government-data); no start date or funding figure is stated.
+
 ## Guinea
 
 The planning minister [launched the country's first general census of enterprises on 16 September, with two months of field collection in the Kindia pilot region](https://agpguinee.com/kindia-ins-le-rge-1-officiellement-lance-pour-cartographier-le-tissu-economique-guineen/). No national schedule, method or budget has been published.
@@ -144,6 +146,8 @@ A state put a household survey at the centre of its budgeting. Katsina [launched
 The seventh demographic and health survey, collected between June and November 2025, [reached its final report in August 2026](https://dhsprogram.com/pubs/pdf/FR401/FR401.pdf) — 690 pages, almost entirely tables by design. The release notice in January had pointed to a signed press release rather than the report ([notice](https://statistics.gov.rw/node/805)), so the substantive document only entered the record this month. It joins a foreign private capital census of [424 enterprises at an 89.6 per cent response rate](https://statistics.gov.rw/data-sources/censuses/Foreign-Private-Capital-Census/foreign-private-capital-census-2025), reported in February.
 
 The higher education council said it is [building a national performance measurement framework to capture, digitise and publish standardised data on students, staff, research and graduate outcomes](https://taarifa.rw/2026/09/16/rwanda-building-data-driven-framework-to-measure-quality-of-higher-education/), having lacked comparable data across institutions. No publication date is set.
+
+The same announcement records that Kigali [hosts the UN regional hub for big data and data science, run with the statistics institute and two UN bodies to help African statistical offices use new data sources](https://radiotv10.rw/en/rwanda-has-been-selected-as-africas-second-un-world-data-forum-host/); no output figure is stated.
 
 ## Senegal
 

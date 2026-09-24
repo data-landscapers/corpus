@@ -1,15 +1,15 @@
 ---
 title: Data protection — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 subject: gov.protect
-places: AGO; BEN; BWA; BFA; CPV; CAF; DJI; COD; EGY; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LBR; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; UGA; ZMB; ZWE
-record: 3f56d95d11cc
+places: AGO; BEN; BWA; BFA; CPV; CAF; DJI; COD; EGY; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; UGA; ZMB; ZWE
+record: 3de5ccd437e4
 ---
 
 # Data protection: monthly update, August – September 2026
 
-*38 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*39 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -51,9 +51,9 @@ Data protection has an authority that does not exist, a code that is now being p
 
 ## Egypt
 
-The month's data-protection movement is an objection rather than a rule. A member of the Senate's constitutional and legislative affairs committee [objected to compulsory face-print collection by private operators for mobile line registration, arguing that identity can be verified by less intrusive means and that the 2020 personal data protection law classes biometrics as sensitive data](https://www.parlgate.com/95550). The collection itself is in operation; what the repository does not hold is the instrument authorising it, the retention rule or any operator-side safeguard — which is why the objection is the first record here of a practice already running. Parliamentary pressure ran the same way on artificial intelligence, where members [called for deterrent rules to govern it](https://www.algomhor.com/466466), and neither call has yet produced a text.
+A joint decision of the media council and the telecoms regulator, reported on 17 September, [bars social platforms from holding independent accounts for children under 13, makes a safe mode the child cannot disable compulsory for those aged 13 to under 15, and requires age verification that collects no more data than it needs](https://www.youm7.com/story/2026/9/17/%C2%AB%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%C2%BB-%D9%88%C2%AB%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA%C2%BB-%D9%8A%D9%84%D8%B2%D9%85%D8%A7%D9%86-%D9%85%D9%86%D8%B5%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%A8%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D8%AF%D9%88%D9%86-15/7549926). The regulator says platforms have [three months to comply, existing accounts included, and can be blocked in Egypt if they do not](https://www.fintechgate.net/252234), and that [tens of thousands subscribed in two months to the operators' child online-protection services](https://www.fintechgate.net/252234). The decision's text is not held.
 
-The telecoms regulator [referred all four mobile operators to the Public Prosecution over lines registered in users' names without their knowledge](https://www.businesstec.news/23568), a disclosure made inside its half-year complaints report rather than as a separate enforcement notice. No charge, hearing date or penalty is on file.
+The regulator [referred all four mobile operators to the Public Prosecution over lines registered in users' names without their knowledge](https://www.businesstec.news/23568), a disclosure made inside its half-year complaints report; no charge, hearing date or penalty is on file. A member of the Senate's constitutional and legislative affairs committee [objected to compulsory face-print collection by private operators for mobile line registration, arguing that identity can be verified by less intrusive means and that the 2020 personal data protection law classes biometrics as sensitive data](https://www.parlgate.com/95550) (16 August). The instrument authorising the collection, its retention rule and any operator-side safeguard are not held. Members of parliament [called for deterrent rules to govern artificial intelligence](https://www.algomhor.com/466466) (19 August), and a member [proposed a national register letting citizens see which bodies have processed their personal data](https://gate.ahram.org.eg/News/5894387.aspx) (24 August); neither has produced a text.
 
 ## Eritrea
 
@@ -100,6 +100,10 @@ The regulator also pressed an older instrument into the campaign. The data commi
 
 A gap the regulator does not cover was named at the internet governance forum, where a United Nations agency [said an Agency Coordination Mechanism is being fast-tracked against AI-manipulated images and the doxing of female candidates ahead of the 2027 elections](https://www.kictanet.or.ke/keigf-2026-report-digital-futures/); no terms of reference or date is published.
 
+## Lesotho
+
+The ICT ministry's principal secretary told UNGA81 side meetings that the ministry had [developed DPI Safeguards for Children with UNICEF Lesotho and is piloting them with the National University of Lesotho across five government ministries](https://www.gov.ls/development/ramashamole-champions-safe-digital-public-infrastructure-at-unga81/) (23 September). Neither the text of the safeguards nor the ministries in the pilot are named.
+
 ## Liberia
 
 The data-protection statute exists, and has for longer than announced. A ministerial statement [presented it as signed on 19 August](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/le-liberia-adopte-les-lois-sur-la-cybercriminalite-et-la-protection-des-donnees), but [the printed Act was approved on 9 March 2026 and took effect on publication on 23 March, giving an Independent Information Commissioner 24 months for implementing rules](https://mopt.gov.lr/wp-content/uploads/2026/09/An_Act_For_The_Collection_Processing_-Transmission_-Storage_-Protection_-And_Use_Of_Personal-_Information_In_Liberia_Printed_Version_20260323_063904.pdf). No appointment, rule or registration regime under it is held.
@@ -115,6 +119,8 @@ A gap the repository has carried since April closed this month, though not by th
 On 3 August the [data-protection authority opened its second 2026 session](https://orbiteinfo.com/mali-lapdp-ouvre-sa-2e-session-2026-avec-1-000-dossiers-au-programme/) with more than 1,000 files before it over ten days — authorisations, declarations, video-surveillance oversight, formal notices and direct sanction procedures — its president grounding the sanctions in Loi n2013-015 as amended.
 
 The largest privacy fact of the month came from outside the country. A model provider's threat report [says a consultant working with the state security agency used its AI model to build Lakana 360, a platform monitoring about 25 million SIM cards across all three mobile operators and capturing call records, messages and voice traffic, with a warrant requirement removed from one component](https://www.anthropic.com/threat-intelligence-report-september-2026). No Malian authority's response or legal basis for the interception is on record.
+
+The authority's cooperation with Benin produced its first recorded joint action: [Benin's First Rapporteur visited on 4 September for an exchange on compliance tools, regulatory standards, communication and Mali's regional offices at Kayes, Sikasso, Ségou and Mopti](https://techgriot.co/english/africa/2026/09/mali-and-benin-deepen-cooperation-on-data-protection/). No joint instrument or work plan from it is on record.
 
 ## Mauritius
 

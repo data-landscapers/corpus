@@ -1,15 +1,15 @@
 ---
 title: US / hyperscaler activities — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 subject: geopol.usa
-places: CPV; DJI; EGY; KEN; LSO; MUS; NGA; STP; SEN; UGA; ZWE
-record: dade51eabf6d
+places: CPV; DJI; EGY; KEN; LSO; MUS; NGA; STP; SEN; ZAF; UGA; ZWE
+record: 21352d1a3b8e
 ---
 
 # US / hyperscaler activities: monthly update, August – September 2026
 
-*11 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*12 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -23,7 +23,7 @@ The communications minister [received the United States ambassador on 31 August 
 
 ## Egypt
 
-The vendor relationship moved a step, and only a step. The prime minister [witnessed the signing of a letter of intent between the communications ministry and Cisco Systems](https://sis.gov.eg/en/media-center/news/pm-witnesses-inking-of-letter-of-intent-between-communications-ministry-cisco-systems/). A letter of intent binds nobody to anything: the record held carries no value, no scope of works and no date by which either side is to do something, which is the difference between this and the Mediterranean capacity partnership already on the ledger.
+The prime minister [witnessed the signing of a letter of intent between the communications ministry and Cisco Systems](https://sis.gov.eg/en/media-center/news/pm-witnesses-inking-of-letter-of-intent-between-communications-ministry-cisco-systems/) on 1 September, on scaling artificial intelligence across government and priority sectors. The letter carries no value, scope of works or deadline, unlike the Mediterranean capacity partnership already on the ledger.
 
 ## Kenya
 
@@ -50,6 +50,10 @@ The United States mission [marked fifty years of diplomatic relations at a recep
 ## Senegal
 
 The digital minister pitched the technology strategy in Washington, holding [working sessions on financing mechanisms for digital infrastructure, data centres, digital identity and payment systems](https://www.rts.sn/actualite/detail/a-la-une/new-deal-technologique-le-senegal-renforce-ses-partenariats-strategiques-a-washington). No financier, amount or instrument was reported.
+
+## South Africa
+
+Microsoft [told a government technology briefing that it has committed R25.8bn to cloud and AI investment in the country through 2027](https://techreviewafrica.com/news/7405/), offering departments its two in-country cloud regions and deployment options down to disconnected private environments under customer-held keys. The figure is the company's own, with no spend to date or delivery measure published.
 
 ## Uganda
 

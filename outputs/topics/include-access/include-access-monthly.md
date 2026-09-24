@@ -1,10 +1,10 @@
 ---
 title: Access to services — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 subject: include.access
 places: DZA; AGO; BWA; BDI; CMR; CAF; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NAM; NER; NGA; STP; SEN; SYC; SLE; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 860831087ffd
+record: 99de476e1252
 ---
 
 # Access to services: monthly update, August – September 2026
@@ -15,9 +15,11 @@ record: 860831087ffd
 
 ## Algeria
 
-Consumer cloud storage prices were [raised for new subscribers from 27 July 2026](https://www.africaninsider.com/business/google-one-gets-more-expensive-in-africa-nigerian-users-face-52-hike/), in this market alongside two others on the continent. One provider's consumer tariff is thin evidence for affordability, and the account gives no local subscriber base against which to read it. It is recorded because it is the only dated consumer cloud price the repository holds here, and a price that moves is more use than a market with no price at all.
+On 13 September a ministerial order [fixed the calendar of a universal-service tender to extend mobile coverage to low-density localities](https://www.arpce.dz/fr/pub/d3m9m8): launch on 6 September, 45 days for offers after the clarification round and 30 days to publish results. The regulator's tender [covers 3,000 localities in lots open to licensed mobile operators](https://techafricanews.com/2026/09/09/algeria-tender-mobile-coverage-3000-underserved-areas/); no budget or lot values are stated.
 
-The social card's working group reached its fifth session, [setting the card's indicators and data and building towards a unified database, with the President's June 2026 three-month deadline putting delivery before the end of September](https://ecotimesdz.com/carte-sociale-nationale-algerie-hcn/). The deadline is the President's rather than the project's, and no delivery, data-sharing instrument, beneficiary count or governing decree is published — so a database that is to unify social data is three weeks from a deadline with nothing published about what it will contain.
+The social card's working group reached its fifth session, [setting the card's indicators and data towards a unified database, with the President's June 2026 three-month deadline putting delivery before the end of September](https://ecotimesdz.com/carte-sociale-nationale-algerie-hcn/). No delivery, data-sharing instrument, beneficiary count or governing decree is published.
+
+Consumer cloud storage prices were [raised for new subscribers from 27 July 2026](https://www.africaninsider.com/business/google-one-gets-more-expensive-in-africa-nigerian-users-face-52-hike/), in this market and two others on the continent; the account gives no local subscriber base against which to read the rise.
 
 ## Angola
 
@@ -71,9 +73,9 @@ Accessibility entered the record as an argument about a process rather than a sy
 
 ## Egypt
 
-The month's clearest inclusion move was a reopening rather than an extension. From 24 July the state accepted ration-card grievance and data-update forms at 500 post offices on Friday afternoons and Saturday mornings, alongside the online route that had until then been the only channel for appeals against the 2026 eligibility criteria, with a daily adjudication committee, results notified by text message and every case checked against official databases.
+The supply ministry [conceded that people struck off the ration-card system cannot obtain the documents an appeal requires, 2,600 appeals having followed about 850,000 deleted cards](https://manassa.news/en/news/33209) (2 August). The central bank put financial inclusion at [79% at end-June 2026, 56.4 million people of an eligible 71.4 million, with women at 72.5%](https://techafricanews.com/2026/08/11/egypts-financial-inclusion-rate-reaches-79-as-active-accounts-hit-56-4-million/). Google [raised consumer cloud-storage prices in Egypt, Nigeria and Algeria, from 27 July for new subscribers](https://www.africaninsider.com/business/google-one-gets-more-expensive-in-africa-nigerian-users-face-52-hike/).
 
-The only outcome measure the repository holds for refugee assistance is the delivering agency's own. Its [year-end monitoring of 2024 multi-purpose cash assistance interviewed 393 of 434 sampled households and found 99% able to buy items they could not previously afford](https://data.unhcr.org/en/documents/details/114784). It is a self-evaluation on a sample rather than the caseload, and it reports purchasing ability rather than any outcome — which is worth stating plainly beside the asylum regulations now in force.
+The refugee agency's [year-end monitoring of its 2024 multi-purpose cash assistance interviewed 393 of 434 sampled households and found 99% able to buy items they could not previously afford](https://data.unhcr.org/en/documents/details/114784). It is a self-evaluation on a sample rather than the caseload, and it reports purchasing ability rather than any wider outcome.
 
 ## Equatorial Guinea
 

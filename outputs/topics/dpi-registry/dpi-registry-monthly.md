@@ -1,10 +1,10 @@
 ---
 title: Registries (population, land, address, etc.) — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 subject: dpi.registry
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; TCD; COM; COG; CIV; COD; EGY; ERI; SWZ; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 19fbd13de214
+record: ebd7e02fe245
 ---
 
 # Registries (population, land, address, etc.): monthly update, August – September 2026
@@ -15,7 +15,7 @@ record: 19fbd13de214
 
 ## Algeria
 
-Two registry developments pulled in opposite directions. The education ministry [ordered its wilaya directorates and schools to accept electronically issued civil-status documents and stop demanding paper copies](https://interlignes.dz/education-nationale-rappel-a-lordre-du-ministere/), warning staff that unjustified refusal engages their responsibility — an obligation inside one ministry rather than a general rule. On vehicle registration the interior minister [called for rapid correction of technical problems and malfunctions](https://lechodalgerie.dz/immatriculationsayoud-exige-des-correctifs-rapides/) in the system, with no fault description, backlog figure or completion date given.
+The education ministry [ordered its wilaya directorates and schools to accept electronically issued civil-status documents and stop demanding paper copies](https://interlignes.dz/education-nationale-rappel-a-lordre-du-ministere/), warning staff that unjustified refusal engages their responsibility; the obligation binds one ministry, not the administration as a whole. On vehicle registration the interior minister [called for rapid correction of technical problems and malfunctions](https://lechodalgerie.dz/immatriculationsayoud-exige-des-correctifs-rapides/) in the system, with no fault description, backlog figure or completion date given.
 
 The prime minister [ordered an immediate national census of economic land on a unified template, with a consolidated map due at the investment agency's one-stop window by the end of September](https://www.lejourdalgerie.com/foncier-economique-sifi-ghrieb-ordonne-un-recensement-immediat/).
 
@@ -69,9 +69,9 @@ The Registre social unique (RSU) reported [62,000 households enrolled as of 10 J
 
 ## Congo
 
-The minister recorded on 10 July that the [regulator has run the postal addressing project for two years and the ministry has not taken it up for deployment](https://www.adiac-congo.com/content/numeriquegouvernance-frederic-malik-nguema-nze-fait-de-larpce-son-fer-de-lance-170823), his own framing being that without the handover the work has not had the expected impact. The registry that does have a system waiting for it went before the Senate. On 7 August the interior minister [said ministry and municipal staff are themselves among those running networks selling forged civil-status documents, and announced investigations to dismantle them](https://datsoue.news/2026/08/08/congo-etat-civil-jean-olessongo-ondaye-annonce-la-traque-des-reseaux-de-falsification/), naming the integrated civil-status system as the structural fix; the ministers [set out the platform as the way to centralise birth, marriage and death records](https://brazzavilleinsider.com/congo-bets-on-digital-records-to-curb-civil-fraud/). Its three modules were validated in February and its deployment is still unfunded, so what changed this month is the case made for it rather than its build state.
+The minister recorded on 10 July that the [regulator has run the postal addressing project for two years and the ministry has not taken it up for deployment](https://www.adiac-congo.com/content/numeriquegouvernance-frederic-malik-nguema-nze-fait-de-larpce-son-fer-de-lance-170823), his own framing being that without the handover the work has not had the expected impact. The registry that does have a system waiting for it went before the Senate. On 7 August the interior minister [said ministry and municipal staff are themselves among those running networks selling forged civil-status documents, and announced investigations to dismantle them](https://datsoue.news/2026/08/08/congo-etat-civil-jean-olessongo-ondaye-annonce-la-traque-des-reseaux-de-falsification/), naming the integrated civil-status system as the structural fix; the ministers [set out the platform as the way to centralise birth, marriage and death records](https://brazzavilleinsider.com/congo-bets-on-digital-records-to-curb-civil-fraud/). Its three modules were validated in February and its deployment is still unfunded, so what changed in August was the case made for it rather than its build state.
 
-Control arrived before the system did. A [circular of 1 September 2026 from the territorial administration bans antedating of civil-status acts and changes of identity or filiation without a court decision](https://lesechos-congobrazza.com/societe/12368-etat-civil-au-congo-brazzaville-fini-le-temps-des-actes-bricoles). It is an administrative control placed on a paper process while the validated integrated civil-status software waits for deployment funding, and no volume of irregular acts is published to say how large the problem it addresses is.
+Control arrived before the system did. A [circular of 1 September 2026 from the territorial administration bans antedating of civil-status acts and changes of identity or filiation without a court decision](https://lesechos-congobrazza.com/societe/12368-etat-civil-au-congo-brazzaville-fini-le-temps-des-actes-bricoles). It is an administrative control placed on a paper process while the validated integrated civil-status software waits for deployment funding, and no volume of irregular acts is published to say how large the problem it addresses is. The system itself moved on 22 September, when the state information-systems agency [handed it and its technical documents to the territorial administration, with seven undated steps still ahead of deployment](https://www.adiac-congo.com/content/digitalisation-de-letat-civil-ladministration-du-territoire-receptionne-les-documents).
 
 ## Cote d'Ivoire
 
@@ -93,7 +93,9 @@ A second registry-shaped system was announced on the certification side. The sta
 
 ## Egypt
 
-On 4 August the state-land regularisation platform was reported at [more than 302,000 applications received against about 1,700 contracts drawn up](https://www.youm7.com/story/2026/8/4/%D8%A7%D9%84%D9%85%D9%86%D8%B5%D8%A9-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9-%D8%AA%D8%AA%D9%84%D9%82%D9%89-302-%D8%A3%D9%84%D9%81-%D8%B7%D9%84%D8%A8-%D8%AA%D9%82%D9%86%D9%8A%D9%86-%D9%84%D8%A3%D8%B1%D8%A7%D8%B6%D9%89-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9/7503179).
+On 4 August the state-land regularisation platform was reported at [more than 302,000 applications received against about 1,700 contracts drawn up](https://www.youm7.com/story/2026/8/4/%D8%A7%D9%84%D9%85%D9%86%D8%B5%D8%A9-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9-%D8%AA%D8%AA%D9%84%D9%82%D9%89-302-%D8%A3%D9%84%D9%81-%D8%B7%D9%84%D8%A8-%D8%AA%D9%82%D9%86%D9%8A%D9%86-%D9%84%D8%A3%D8%B1%D8%A7%D8%B6%D9%89-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9/7503179). The supply ministry's figure of [850,000 people removed from the food-subsidy system since June 2026, with millions more slated for exclusion next year](https://newscentraltv.com/egyptians-struggle-to-afford-bread-after-aid-cuts/), was reported on 12 September. Under a protocol reported on 3 September, eFinance is to [host Rashid, the national platform cataloguing state-owned and state-contributed companies](https://www.cairo.gov.eg/en/news/2026/july/22/676fb4d6d94c47e0ab12e10fe1cc69e5).
+
+The financial regulator [surveyed creditors on the Egyptian Movable Collateral Registry's services and electronic system and reviewed the findings with its operator, E-Finance](https://www.dailynewsegypt.com/2026/09/21/fra-explores-developing-egyptian-movable-collateral-registry-services/); the proposals go to technical and legal review, and no registration count is published.
 
 ## Eritrea
 
@@ -148,7 +150,7 @@ The [terms of reference for the RETSSM movable-collateral registry, opened 27 Ju
 
 The register that already works stopped working for the most basic reason there is. A civil-registration officer in Ratoma said on 7 August that the [secured paper the digital birth certificate is printed on had run out, leaving communes across Conakry and beyond unable to issue extracts for about a month](https://www.guinee360.com/07/08/2026/sans-papiers-securises-il-ne-peut-pas-y-avoir-dextraits-amadou-konia-camara-explique-lorigine-de-la-penurie/); his own commune processes all applicants regardless of home commune and holds reserve stock for urgent cases such as exam-result travel and medical need. No ministry statement, restocking date or national count of affected communes is held, and the absence is now recorded as a gap. Officials marking African civil-registration day three days later [named information gaps and material shortages as the remaining barriers to civil-status access](https://www.guinee360.com/10/08/2026/guinee-manque-dinformations-contraintes-materielles-les-freins-a-lacces-a-letat-civil/), the identification office's director general calling for tighter integration between health, civil-registration and statistical systems.
 
-The agriculture ministry [is preparing to hand over the first digital farmer cards, with a portal built by an insurance-technology firm to map holdings into a first national farmer database](https://guineejet.info/carte-numerique-dagriculteur-le-ministere-de-lagriculture-prepare-le-deploiement/). No enrolment target or date is stated.
+The agriculture ministry [presented its farmer-card pilot on 16 September, with 20,463 producers registered and 23,507 farms mapped in Kindia, Kankan and Mamou](https://www.agenceecofin.com/actualites-numerique/2109-141747-guinee-les-donnees-agricoles-au-service-du-financement-des-producteurs), each producer given a card with a QR code and NFC chip that opens verified data to authorised users on a secure portal. No national enrolment target or date is stated.
 
 ## Guinea-Bissau
 
@@ -185,6 +187,8 @@ The health ministry's registration portal reported its first numbers. PharmaGate
 The social registry [reached about 2.7 million households, nearly 12 million people, with eight districts added to the 20 already surveyed](https://newsmada.com/2026/09/10/protection-sociale-le-rsu-elargit-son-filet/).
 
 On National Identity Day a second phase of the Izaho Tokana 2.0 registration drive opened, answering [a 2025 survey finding that close to 20 per cent of children under five hold no birth certificate](https://midi-madagasikara.mg/etat-civil-le-projet-de-loif-en-renfort-d-izaho-tokana-2-0/). The same week [the first 124 cooperatives received biometric cards under a national cooperative census](https://midi-madagasikara.mg/societes-cooperatives-124-structures-dotees-de-cartes-biometriques-a-analamanga/).
+
+The beneficial-owner register [moved into operation on 18 September, when the tax directorate signed four protocols to cross-match it with the trade and companies register, the anti-corruption bureau, the economic development board and the chamber of notaries](https://www.2424.mg/transparence-le-rcbe-entre-dans-sa-phase-dexploitation-avec-le-croisement-des-donnees).
 
 ## Malawi
 

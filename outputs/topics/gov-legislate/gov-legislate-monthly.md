@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 subject: gov.legislate
 places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; TCD; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: a763901ec50e
+record: ff48c8ffb05a
 ---
 
 # Legislation and regulation: monthly update, August – September 2026
@@ -15,7 +15,7 @@ record: a763901ec50e
 
 ## Algeria
 
-The electronic commerce law is in force and, on a consumer body's assessment, largely bypassed: [the great majority of online selling runs through social-media pages outside its obligations, with cash on delivery dominant](https://www.echoroukonline.com/%d8%a7%d8%b2%d8%af%d9%87%d8%a7%d8%b1-%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%a5%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6). That is named-analyst opinion rather than a state position; the law's own date and text are not held, and no enforcement action or compliance figure is on file. Separately a [national information-verification system was examined in draft by the Council of Government on 23 July](https://www.echoroukonline.com/الحكومة-تقف-دقيقة-صمت-على-ضحايا-الحرائ), with no regulator, legal basis or oversight mechanism named in anything held. On 14 August the telecommunications ministry [asked Meta to require every WhatsApp account to stay linked to a verified national mobile number](https://www.connectingafrica.com/regulation/algeria-urges-meta-to-block-non-local-whatsapp-accounts), rejecting the username-only accounts introduced in June 2026 and citing fraud, identity theft and cybercrime prevention. It is a request rather than an instrument; no order, deadline or sanction is stated, and the platform-regulation bill deposited in October 2025 remains undebated.
+A national consumer body for electronic commerce [says the great majority of online selling runs through social-media pages outside the 2018 e-commerce law's obligations, with cash on delivery dominant](https://www.echoroukonline.com/%d8%a7%d8%b2%d8%af%d9%87%d8%a7%d8%b1-%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%a5%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6); no enforcement action or compliance figure is on file. On 14 August the telecommunications ministry [asked Meta to require every WhatsApp account to stay linked to a verified national mobile number](https://www.connectingafrica.com/regulation/algeria-urges-meta-to-block-non-local-whatsapp-accounts), rejecting the username-only accounts introduced in June 2026 and citing fraud, identity theft and cybercrime prevention. It is a request: no order, deadline or sanction is stated. The high commission for digitalisation says [a digitalisation law covering data, digital services, electronic exchange, system security and the responsibilities attached to them is in the final stages of study](https://www.echaab.dz/2026/09/20/%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%86%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%B4%D9%81%D8%A7%D9%81%D9%8A%D8%A9-%D9%88%D8%B9%D8%B5%D8%B1%D9%86%D8%A9/); no draft, sponsor or timetable is published.
 
 ## Angola
 
@@ -83,15 +83,11 @@ Deputy Alfred Dibandi Nzondomyo [filed a private member's bill on the protection
 
 ## Egypt
 
-A cabinet meeting chaired by the Prime Minister agreed on 29 July 2026 to review the statutes governing social media and to raise financial penalties, with the ICT ministry preparing a comparative study of other states' regimes. In the same meeting the minister disclosed that a unit inside the telecommunications regulator already detects and acts on artificial-intelligence-manipulated video and imagery, and said that legislative amendment is still needed to address the practices at root ([cabinet account](https://www.youm7.com/story/2026/7/29/وزير-الاتصالات-وحدة-خاصة-بالجهاز-القومي-لرصد-المخالفات-السلبية-لمواقع/7497055)). The unit's formation date, legal basis, staffing, method and appeal route were not stated.
+The telecoms regulator said on 18 September that it is preparing [a comprehensive digital-safety law with the House of Representatives' ICT committee](https://www.fintechgate.net/252234), to sit beside the joint decision on children's accounts; no draft is published. A party draft announced on 10 August, [fifty-four articles over seven chapters, would require platforms to appoint a legal representative in the country, register influencers on a national platform, and regulate artificial intelligence, deepfakes, online extortion, gambling and child protection online](https://www.alnaharegypt.com/1191209); it has not been tabled. The Journalists Syndicate [submitted a freedom-of-information bill, backed by 60 members, that would create an authority for the protection of freedom of information](https://manassa.news/en/news/33330) (10 August).
 
-Nine days earlier a member of parliament had called for a comprehensive standalone digital-privacy bill criminalising the recording and publication of people without consent, imposing takedown duties on platforms and widening investigators' powers to trace anonymous accounts, arguing that the Cybercrime Law and the Penal Code are insufficient in practice. The demand does not refer to the Personal Data Protection Law of 2020 at any point ([demand](https://gate.ahram.org.eg/News/5814479.aspx)).
+The Financial Regulatory Authority's [Decision No. 2735 of 2026 gives consumer and small-business finance companies two months to verify customers by one-time password](https://www.maspero.eg/economy/2026/09/14/989116/), and a protocol signed on 16 September [requires the media council to take the authority's technical opinion, within fifteen days, before licensing any app that carries on non-bank financial activity or uses a supervised firm's name](https://www.youm7.com/story/2026/9/16/%D8%A8%D8%B1%D9%88%D8%AA%D9%88%D9%83%D9%88%D9%84-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D9%88-%D8%A7%D9%84%D8%B1%D9%82%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%B1%D9%82%D8%A7%D8%A8%D8%A9-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA/7548592). On 1 September [two more fintech projects received preliminary approval to enter the authority's sandbox](https://techafricanews.com/2026/09/01/egypt-fra-approves-two-new-fintech-projects-regulatory-sandbox/).
 
-A third route opened on 10 August, outside both: a party draft, described by its sponsor as [fifty-four articles over seven chapters, would require platforms to appoint a legal representative in the country, register influencers on a national platform, and regulate artificial intelligence, deepfakes, online extortion, gambling and child protection online](https://www.alnaharegypt.com/1191209). It has not been tabled and no text is published.
-
-On 4 August the Ministry of Justice gazetted a deferral of the title-based property register for one Sohag survey section by a year to July 2027.
-
-The data-protection regulations went to the market before they bite. The ministry's investment conference on 7 September [carried a session on the executive regulations alongside ICT investment, artificial intelligence and startup finance](https://egyptinnovate.com/en/news/minister-of-communications-to-inaugurate-tech-invest-egypt-6-next-monday), seven weeks before the grace period closes on 1 November. No guidance, decision or transfer licence issued under them is on the record.
+The ministry's investment conference on 7 September [carried a session on the data-protection executive regulations alongside ICT investment, artificial intelligence and startup finance](https://egyptinnovate.com/en/news/minister-of-communications-to-inaugurate-tech-invest-egypt-6-next-monday), seven weeks before the compliance period closes on 1 November. No guidance, decision or transfer licence issued under the regulations is on the record. On 4 August the justice ministry [deferred the title-register switch-on in one Sohag survey section by a year, to 1 July 2027](https://www.youm7.com/story/2026/8/4/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B9%D8%AF%D9%84-%D9%8A%D8%A4%D8%AC%D9%84-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%B3%D8%AC%D9%84-%D8%A7%D9%84%D8%B9%D9%8A%D9%86%D9%89-%D8%A8%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D9%85%D9%86%D8%B4%D8%A3%D8%A9-%D9%81%D9%89/7502518).
 
 ## Equatorial Guinea
 
@@ -166,9 +162,13 @@ A separate bill would meter what those records cover. An internet service provid
 
 The intellectual-property bill acquired its shape in public. Parliament [invited submissions on a draft that would merge the industrial property institute, the copyright board and the anti-counterfeit authority into a single regulator, replace the 2001 and 2008 statutes, and set rules distinguishing AI-assisted from AI-generated inventions](https://www.pulse.co.ke/story/the-intellectual-property-bill-2026-what-kenyan-bloggers-and-tiktokers-need-to-know-2026081618295613444).
 
+The fifteen draft communications regulations [went through a three-day stakeholder validation workshop convened by the ICT ministry with the regulator](https://www.uasingishunews.co.ke/ministry-of-ict-hosts-stakeholder-workshop-to-validate-proposed-kenya-information-and-communications-regulations/), reported on 23 September; the remaining statutory stages are still to come.
+
 ## Lesotho
 
-No instrument was made, gazetted or brought into force in this window. [Reporting of the CSIRT launch](https://itweb.africa/article/lesotho-steps-up-national-cyber-security/Pero3qZ3J4jvQb6m) discloses that the Computer Crime and Cybersecurity Bill has been split into a Cybercrime Bill and a Cybersecurity Bill, both awaiting National Assembly approval, and the ministerial reference to a national cybersecurity strategy that the wiki does not hold.
+No instrument was made, gazetted or brought into force in this window. [Reporting of the CSIRT launch](https://itweb.africa/article/lesotho-steps-up-national-cyber-security/Pero3qZ3J4jvQb6m) discloses that the Computer Crime and Cybersecurity Bill has been split into a Cybercrime Bill and a Cybersecurity Bill, both then awaiting National Assembly approval, and the ministerial reference to a national cybersecurity strategy that the repository does not hold.
+
+The Cybersecurity Bill 2026 then went back to stakeholders: its draft [was circulated for review in August and taken to a second consultation workshop on 23 September](https://www.gov.ls/development/stakeholders-engage-on-cybersecurity-bill-2026/), proposing a two-tier regulatory regime and the registration of cybersecurity professionals.
 
 ## Liberia
 
@@ -297,6 +297,8 @@ The House of the People [approved a Cybersecurity Law on 26 January 2026](https:
 The minister [backed the regulator](https://www.itweb.co.za/article/malatsi-backs-consumer-sentiment-on-data-expiry-debate/RgeVDMPRkPJvKJN3) in the review application brought by the two largest mobile operators against the rules on data bundle roll-over. The Angolan kwanza became the [second settlement currency on the SADC real-time system](https://www.sadc.int/latest-news/angolan-kwanza-introduced-sadc-rtgs-system), the first addition since 2013.
 
 The Treasury and the central bank [published a draft manual for cross-border crypto activities for comment by 30 September, setting authorisation and reporting rules for crypto asset service providers and defining a cross-border crypto flow](https://cioafrica.co/south-africa-proposes-new-rules-for-cross-border-crypto-transactions/). Draft capital-flow regulations are already out.
+
+Parliament's justice committee [agreed on 23 September that the department may publish proposed amended court rules for access-to-information applications](https://www.parliament.gov.za/press-releases/media-statement-justice-committee-approves-publication-proposed-amended-paia-court-rules-enhance-transparency-and-access-justice), standardising section 78 applications across all courts, requiring sworn section 80 representations five days before a hearing and repealing the old rules. They are proposals, not yet in force.
 
 ## South Sudan
 

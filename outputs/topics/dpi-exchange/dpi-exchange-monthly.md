@@ -1,21 +1,21 @@
 ---
 title: Data Exchange — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 subject: dpi.exchange
-places: DZA; AGO; BEN; BWA; BFA; CMR; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MAR; MOZ; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: fc8984a833fc
+places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MAR; MOZ; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 268af926718b
 ---
 
 # Data Exchange: monthly update, August – September 2026
 
-*45 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*46 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
-Interconnection acquired a deadline before it acquired its rules. A think tank's first digital brief records that the [president gave the sectors one month from 12 July to interconnect through the national data centre](https://lavoiedalgerie.dz/transformation-numerique-lalgerie-passe-de-la-realisation-a-la-mise-en-service-des-projets-care/2026/10/00/), and nothing has been reported against that date. The two referentiels the interoperability decree makes the obligations wait on are still untraced, so the instrument that would carry the interconnection remains unenforceable while the timetable for it has already run.
+On 20 September the Council of Ministers [ordered a presidential decree on a secure digital interoperability plan, setting the missions and representation of the sectoral bodies under the high commissioner and extended to the wilayas](https://www.interfilalgerie.com/communique-du-conseil-des-ministres-45/). It follows the President's [one-month deadline from 12 July for the sectors to interconnect through the national data centre](https://lavoiedalgerie.dz/transformation-numerique-lalgerie-passe-de-la-realisation-a-la-mise-en-service-des-projets-care/2026/10/00/), against which no completion has been reported; the two referentiels the December 2025 decree makes its obligations wait on are still untraced. State media describes [a sovereign network, IRIES, linking more than 100 ministries and public bodies to the national data centres outside the public internet](https://www.echaab.dz/2026/09/20/%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%86%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%B4%D9%81%D8%A7%D9%81%D9%8A%D8%A9-%D9%88%D8%B9%D8%B5%D8%B1%D9%86%D8%A9/), with no inauguration date given.
 
 One exchange did begin. The customs single electronic window [entered a phased rollout under a customs circular of 13 August, towards import and export without paper documents](https://www.echoroukonline.com/%D9%86%D8%AD%D9%88-%D8%A7%D8%B3%D8%AA%D9%8A%D8%B1%D8%A7%D8%AF-%D9%88%D8%AA%D8%B5%D8%AF%D9%8A%D8%B1-%D9%85%D9%86-%D8%AF%D9%88%D9%86-%D9%88%D8%AB%D8%A7%D8%A6%D9%82-%D9%88%D8%B1%D9%82%D9%8A%D8%A9). The circular's text is not held, and no phase list, participating agencies or completion date is published.
 
@@ -51,6 +51,10 @@ The minister responsible for decentralisation and local development said on 25 A
 
 Border records were put to work on the payroll. The finance ministry [matched the state payroll against border-movement data and flagged 5,971 public servants as no longer resident, holding their September and October pay pending justification by 31 October](https://cameroonpress.com/fichier-solde-5-971-agents-publics-dans-le-viseur-du-minfi-leurs-salaires-bloques-pendant-deux-mois/).
 
+## Cape Verde
+
+The project coordination centre [invited expressions of interest on 21 September for a 12-month build of a digital-nomad statistics and data module inside SGIT](https://static.expressodasilhas.cv/media/pub/v2/pdf/2026/09/1789997089690.pdf), to be interoperable with institutional platforms and to produce the Morabeza Innovation Project's indicators automatically, financed from the African Development Bank's credit. The notice does not name the platforms it is to connect to.
+
 ## Chad
 
 The 2027 budget orientations [prohibit any ministry putting in place a computer system incompatible with the existing platforms](https://lendjampost.com/budget-2027-le-tchad-mise-sur-le-numerique-pour-verrouiller-les-finances-publiques/), and require tax, customs, treasury, budget, accounting, cadastre, identity, state property and land registry to interconnect on a single identifier. It is the strongest interoperability commitment this ledger carries, and the repository holds none of the framing text: no cost, phasing or implementing agency is named.
@@ -81,9 +85,7 @@ The exchange being built is between revenue agencies rather than between citizen
 
 ## Egypt
 
-The 19 July cabinet meeting produced the window's substantive disclosure: 105 government bodies connected and 100 national databases linked through the government digital switch, with the digital treasury's operating model applied to a number of services and e-signature and e-seal live and integrated with digital identity ([cabinet readout](https://gate.ahram.org.eg/News/5813424.aspx)). No register of the connected bodies, lawful basis or audit arrangement accompanies the figures.
-
-The financial regulator [ordered consumer and small-business lenders to report approvals, repayments and legal action to the credit bureau in real time, under decisions 174 and 175 of 2026](https://english.ahram.org.eg/NewsContent/3/12/576524/Business/Economy/Egypt-mandates-realtime-credit-reporting-for-consu.aspx).
+The financial regulator [ordered consumer and small-business lenders to report approvals, repayments and legal action to the credit bureau in real time, under decisions 174 and 175 of 2026](https://english.ahram.org.eg/NewsContent/3/12/576524/Business/Economy/Egypt-mandates-realtime-credit-reporting-for-consu.aspx), and its [Decision No. 2863 requires consumer-finance companies to consult the bureau's behavioural score, built on alternative data, from 1 April 2027](https://www.youm7.com/story/2026/9/15/%D8%A7%D9%84%D8%B1%D9%82%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D8%AA%D8%B6%D9%8A%D9%81-%D8%AA%D9%82%D9%8A%D9%8A%D9%85-%D8%A7%D9%84%D8%AA%D8%AD%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%B3%D9%84%D9%88%D9%83%D9%8A-%D9%84%D9%84%D8%A7%D8%B3%D8%AA%D8%B9%D9%84%D8%A7%D9%85-%D8%B9%D9%86-%D8%B9%D9%85%D9%84%D8%A7%D8%A1-%D8%A7%D9%84%D8%AA%D9%85%D9%88%D9%8A%D9%84/7547207). The stock exchange and the internal trade authority [signed a protocol integrating the commercial registry with exchange databases](https://www.businessmen-eg.com/en/6166/egyptian-exchange-itda-sign-data-integration-agreement) (20 August), and the environment agency and the export-control body [signed one to exchange industrial facilities' environmental data through a unified registry](https://www.masrawy.com/news/news_egypt/details/2026/9/1/3041890/بالتفاصيل-بروتوكول-لربط-قواعد-البيانات-البيئية-بالأنشطة-الصناعية) (1 September). The health minister [discussed a proposed national platform linking patient records across health facilities](https://www.dailynewsegypt.com/2026/09/14/egypt-plans-unified-digital-platform-to-link-patient-records-across-health-facilities/) (14 September); it is a proposal, with no build stage or date.
 
 ## Equatorial Guinea
 
@@ -131,6 +133,8 @@ The head of the public service [convened the examinations council, the public se
 
 The President [announced Masterkey, a wallet for verifiable qualification and work records across African borders whose first phase targets 150,000 placements with Kenya, Ghana and Rwanda, Kenya leading the first national implementation through eCitizen](https://www.graphic.com.gh/news/general-news/ruto-puts-ghana-in-plan-to-make-african-skills-portable.html). He said the system will not itself award jobs, visas or professional recognition; no cost or launch date is stated.
 
+The back end became the stated priority. The ICT principal secretary said [a unified operations platform linking systems through secure APIs is being built, ahead of AI agents in service delivery](https://techtrendske.co.ke/2026/09/23/state-plans-unified-platform-to-link-government-systems/), and the ICT secretary [described the back end as still largely manual and the interoperability platform as still in development](https://techweez.com/2026/09/23/kenya-digital-transformation-backend-interoperability/); no budget or date is published. The social protection project [sought a consultant to upgrade the Enhanced Single Registry and the community development information system to exchange data with the health authority, the social security fund and the population register](https://www.kenyans.co.ke/news/127262-govt-moves-link-sha-nssf-social-protection-database), under World Bank procurement.
+
 ## Lesotho
 
 Lesotho [launched its National Single Window at Victory Hall in Maseru on 24 August 2026](https://swazi24.com/49844/business/trade-investment/lesotho-launches-digital-trade-platform/), under a World Bank-financed competitiveness and financial-inclusion project. No agency coverage, transaction volume or phasing is stated.
@@ -153,6 +157,8 @@ On 5 August the revenue authority signed an arrangement with its South African c
 
 
 Two days later the South African side notified the update from its end, [publishing the arrangement for automatic exchange of customs information together with a draft rule amendment](https://www.freightnews.co.za/article/international-treaties-agreements-maas-on-customs-update). The rule is still in draft and the go-live date is still unstated.
+
+Inside government the push is toward the identity system. The communications regulator [urged every ministry and agency to connect its systems to the national registration and identification system, officials saying human-resource management, agriculture and health already are](https://www.biometricupdate.com/202609/malawi-advances-data-harmonization-interoperability-agenda), reported on 23 September; no count of connected systems or data-sharing instrument is published.
 
 ## Mali
 

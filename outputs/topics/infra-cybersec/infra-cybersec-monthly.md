@@ -1,10 +1,10 @@
 ---
 title: Cybersecurity — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 subject: infra.cybersec
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; TCD; COM; COG; CIV; SWZ; GAB; GHA; KEN; LSO; LBR; LBY; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 02663a6da3a5
+record: 3a8c257af6de
 ---
 
 # Cybersecurity: monthly update, August – September 2026
@@ -15,7 +15,7 @@ record: 02663a6da3a5
 
 ## Algeria
 
-The cybersecurity record this window is a warning about the state's own brand rather than about its systems. The Algiers wilaya [told citizens that unlicensed platforms are impersonating its institutions and public enterprises, mostly as fake e-ticketing storefronts built to harvest bank card details and personal data, and directed them to check the domain name before paying and to use only officially approved portals](https://www.algerie360.com/arnaques-en-ligne-la-wilaya-dalger-lance-une-alerte-aux-citoyens/). It is a communique, not an enforcement action: no takedown, prosecution or count of impersonating sites is on record. The exposure it describes tracks the payment figures in the section below — more web merchants and more card use give a counterfeit storefront more to imitate.
+On 18 August the Algiers wilaya [told citizens that unlicensed platforms are impersonating its institutions and public enterprises, mostly as fake e-ticketing storefronts built to harvest bank card details and personal data, and directed them to check the domain name before paying and to use only officially approved portals](https://www.algerie360.com/arnaques-en-ligne-la-wilaya-dalger-lance-une-alerte-aux-citoyens/). No takedown, prosecution or count of impersonating sites is on record. State media reports [a security operations centre and a network operations centre monitoring the national digital infrastructure round the clock](https://www.echaab.dz/2026/09/20/%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%86%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%B4%D9%81%D8%A7%D9%81%D9%8A%D8%A9-%D9%88%D8%B9%D8%B5%D8%B1%D9%86%D8%A9/), with no date, operator or incident figure.
 
 ## Angola
 

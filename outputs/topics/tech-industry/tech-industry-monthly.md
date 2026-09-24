@@ -1,10 +1,10 @@
 ---
 title: ICT Industry — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 subject: tech.industry
 places: DZA; AGO; BWA; CAF; EGY; GNQ; SWZ; GAB; GHA; KEN; MUS; MAR; MOZ; NER; NGA; SEN; ZAF; SDN; TZA; TGO; UGA; ZMB; ZWE
-record: dccb500958a1
+record: 60fe9ddf69f5
 ---
 
 # ICT Industry: monthly update, August – September 2026
@@ -15,7 +15,7 @@ record: dccb500958a1
 
 ## Algeria
 
-The state's electronics industry began selling digital infrastructure rather than devices. Its electronics firm, in a consortium with two other companies, [signed a protocol with the coordination of a Congolese new-city expansion project for digital technologies, electronic payment systems, digital equipment and associated services, with knowledge transfer and a centre for innovation covering payment systems, cybersecurity and applied artificial intelligence](https://algerie-eco.com/2026/09/04/inatel-signe-un-accord-strategique-pour-le-projet-de-nouvelle-ville-de-kinshasa/), signed before this country's ambassador. No amount is stated by any party, so what is recorded is the direction of travel rather than a commitment: the firm had previously exported only payment terminals into the same market.
+The state electronics firm INATEL, in a consortium with two other companies, [signed a protocol with the coordination of a Congolese new-city expansion project for digital technologies, electronic payment systems, digital equipment and associated services, with knowledge transfer and a centre for innovation covering payment systems, cybersecurity and applied artificial intelligence](https://algerie-eco.com/2026/09/04/inatel-signe-un-accord-strategique-pour-le-projet-de-nouvelle-ville-de-kinshasa/), before Algeria's ambassador. No amount is stated by any party. The firm had previously exported electronic payment terminals to Nigeria.
 
 ## Angola
 
@@ -31,7 +31,9 @@ The regulator [published operators' combined revenue for the first half of 2026 
 
 ## Egypt
 
-A group inaugurated its Middle East and Africa regional headquarters and first global generative-AI centre of excellence in New Cairo on 28 July, backed by a company-stated US$100m with about 800 staff ([inauguration account](https://itweb.africa/article/konecta-launches-genai-hub-in-egypt/8OKdWMDXxYOMbznQ)).
+Opening the sixth Tech Invest Egypt conference on 7 September, the communications minister [put outsourcing exports at US$5.1bn at end-2025 against a target of US$8bn by 2028, and sector growth at 24.3% in the fourth quarter of 2025/26](https://techafricanews.com/2026/09/08/egypt-8bn-outsourcing-exports-ict-sector-growth/); on 9 September he put [handset production at about 10 million in 2025, from 3 million in 2024](https://hapijournal.com/2026/09/09/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A5%D8%AA%D8%A7%D8%AD%D8%A9-400-%D8%AE%D8%AF%D9%85%D8%A9-%D8%B9%D9%84/). The ministry and its IT industry agency [count 252 offshoring companies employing more than 195,000 specialists, with US$5.2bn of offshoring exports in 2025](https://techafricanews.com/2026/08/26/egypts-offshoring-sector-generates-5-2bn-as-ai-and-digital-services-drive-growth/), a figure that differs from the minister's.
+
+A US outsourcing firm [opened an AI-powered delivery hub in Cairo on 17 September, planning to grow from about 135 staff to 1,365 over three years](https://www.itweb.africa/article/intelogix-opens-ai-hub-in-cairo/kYbe9MXbN8KvAWpG). An Egyptian enterprise AI company [expanded into Bahrain with a local operator](https://www.wearetech.africa/fr/fils/breves/breves-simple/l-entreprise-egyptienne-dintelligence-artificielle-velents-s-implante-au-bahrein) (10 September), a Jordanian education platform [acquired an Egyptian maker of tutoring-centre software](https://www.wearetech.africa/fr/fils/breves/breves-simple/abwaab-rachete-l-entreprise-egyptienne-eduact) (2 September), price not stated, and a B2B fashion marketplace [reported about EGP 40m transacted since launch](https://techafricanews.com/2026/08/10/venduo-processes-egp-40m-in-transactions-as-digital-b2b-fashion-marketplace-expands/) (10 August).
 
 ## Equatorial Guinea
 

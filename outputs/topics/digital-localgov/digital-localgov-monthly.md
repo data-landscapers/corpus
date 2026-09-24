@@ -1,15 +1,15 @@
 ---
 title: Digitalisation of sub-national government — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 subject: digital.localgov
-places: AGO; BFA; BDI; CMR; TCD; GHA; GNB; LBY; MWI; MLI; NAM; NGA; RWA; SEN; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 875e66de1c9f
+places: AGO; BFA; BDI; CMR; TCD; GHA; GNB; KEN; LBY; MWI; MLI; NAM; NGA; RWA; SEN; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: ccd2c723323e
 ---
 
 # Digitalisation of sub-national government: monthly update, August – September 2026
 
-*22 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*23 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -47,6 +47,10 @@ Assembly business is to be put on air: the local government ministry [announced 
 
 Bissau city council [launched CMB+ on 22 September, a modernisation and digital transformation project that incorporates a municipal portal for residents' access to council services](https://ang.gw/transformacao-digital-deve-estar-ao-servico-dos-cidadaos-de-forma-a-contribuir-para-uma-aministracao-eficiente-diz-carlos-nelson-sano/), after [first announcing it for 9 September on a plan approved at the council's first strategic retreat](https://ang.gw/camara-municipal-de-bissau-anuncia-para-quarta-feira-lancamento-do-projeto-de-modernizacao-e-transformacao-digital-da-instituicao/). No component list, budget, timetable or named partner is stated.
 
+## Kenya
+
+Nakuru County [deployed a case management and reporting platform for survivors of gender-based violence and for services to persons with disabilities, replacing paper records](https://www.nakuru.go.ke/new-digital-platform-launched-in-nakuru-county-to-improve-support-for-survivors-of-gender-based-violence-and-persons-with-disabilities/), funded by Lithuanian development cooperation; no user or case count is published.
+
 ## Libya
 
 A Tripoli municipality [began electronic archiving of staff data, records and documents in its human resources department on 11 September](https://lana.gov.ly/post.php?id=365312&lang=ar), the latest of several single-council records projects; no national standard or shared system for municipal records is on file.
@@ -62,6 +66,8 @@ One commune is taking its own revenue problem in hand. Koutiala [began digitisin
 ## Namibia
 
 Windhoek's council [adopted a ten-year smart-city strategy on 15 June, handed over with UN-Habitat and a United Nations cities accelerator](https://observer24.com.na/cow-eyes-digital-makeover-with-rail-fibre-and-smart-city-push/). The named projects are commercialisation of the city's own fibre network as a digital backbone and a proposed commuter rail linking Windhoek, Katutura and Rehoboth. No funding requirement, implementation timetable or institutional owner is published, and the [Chinese contribution to the pilot drew a parliamentary question about who controls the data](https://observer24.com.na/mp-raises-concerns-about-data-control-of-smart-city-grant-from-china/).
+
+A university research pilot co-designed with municipalities [fitted 69 pulse readers to household water meters in Ongwediva and built an AI model on six years of consumption data from 1,375 Windhoek households](https://sgciafrica.org/namibia-project-uses-household-data-smart-meters-to-rethink-water/), to flag non-revenue water. No verified loss reduction is reported.
 
 ## Nigeria
 
@@ -116,6 +122,8 @@ The capital [began taking building-permit applications through the national plat
 ## Uganda
 
 The records system reached district level for the first time on this record. The Ministry of Public Service [ran training and onboarding for its electronic document and records management system at Kasese and Rwampara district local governments on 17 August](https://www.publicservice.go.ug/edrms-training-and-on-boarding-at-kasese-and-rwampara-dlgs/) — two districts of 146, with no rollout plan or target published, and a page that returned only its title and date at capture, so what the training covered is not on the record. It follows a digital certification system for village-council letters, [presented at an international summit in November 2025 and designed to replace handwritten local council letters with digitally signed credentials linked to the identity register](https://ict.go.ug/media/news/digitizing-lc1-letters-for-improved-service-delivery), which has not been heard of since.
+
+Local-government finance got a system of its own on 22 September, when the local government ministry [launched its computerised accounting and reporting tool in Hoima city, stating that it had reached 25 lower local governments and 41 health units and schools](https://www.newvision.co.ug/category/news/govt-rolls-out-digital-tool-to-improve-financ-NV_241123_092026). No national target is given.
 
 ## Zambia
 

@@ -1,10 +1,10 @@
 ---
 title: Digital Payments and Fintech — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 subject: dpi.pay
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: be6bca9f9855
+record: 409886df3253
 ---
 
 # Digital Payments and Fintech: monthly update, August – September 2026
@@ -15,7 +15,7 @@ record: be6bca9f9855
 
 ## Algeria
 
-The payments layer gained a governing body and a small number. A central bank regulation [established a National Payments Committee](https://www.echoroukonline.com/%d8%aa%d8%ad%d8%b1%d9%83-%d8%b1%d8%b3%d9%85%d9%8a-%d9%84%d8%a5%d9%86%d9%87%d8%a7%d8%a1-%d9%87%d9%8a%d9%85%d9%86%d8%a9-%d8%a7%d9%84%d9%83%d8%a7%d8%b4-%d9%88%d8%aa%d9%82%d8%b1%d9%8a%d8%b1-%d8%b3), and the count of web merchants accepting electronic payment [passed 1,000 at the end of June](https://alger16.dz/?p=65795). A thousand merchants is a small number for a market this size, and it is the first such count the repository holds, so the level is stated and the direction is not.
+A central bank regulation of 31 May [set the composition and working arrangements of the National Payments Committee](https://www.echoroukonline.com/%d8%aa%d8%ad%d8%b1%d9%83-%d8%b1%d8%b3%d9%85%d9%8a-%d9%84%d8%a5%d9%86%d9%87%d8%a7%d8%a1-%d9%87%d9%8a%d9%85%d9%86%d8%a9-%d8%a7%d9%84%d9%83%d8%a7%d8%b4-%d9%88%d8%aa%d9%82%d8%b1%d9%8a%d8%b1-%d8%b3), reported in August; the national payments strategy it is to draft is not published. The count of web merchants accepting electronic payment [passed 1,000 at the end of June](https://alger16.dz/?p=65795), the first such count on record, so the level is stated and the direction is not.
 
 ## Angola
 
@@ -95,15 +95,13 @@ The revenue chain's own record came into dispute. The tax directorate [wrote to 
 
 ## Egypt
 
-The instant payment network [began crediting inbound cross-border remittances instantly at all banks operating in Egypt](https://gate.ahram.org.eg/News/5541984.aspx). The factoring platform now [vets invoices before financing to enforce the ban on double-funding a receivable](https://www.dailynewsegypt.com/2026/02/08/egypts-fra-launches-digital-factoring-portal-to-curb-financing-risks), against factored paper up 77.8% in 2025 to EGP 132.2bn.
+On 13 August eFinance, which [operates the government payments network](https://documents1.worldbank.org/curated/en/533491624466169827/pdf/G2P-Payment-Arrangements-in-Egypt-and-COVID-19.pdf), [agreed the full acquisition of an Egyptian non-bank lender to small and medium firms](https://www.zawya.com/en/press-release/companies-news/efg-hermes-advises-efinance-on-strategic-acquisition-of-tamweely-financial-services-430407), and on 20 September its shareholders [approved buying 99.32% for EGP 956.37m in cash and a swap of 146.08m new shares](https://www.arabfinance.com/en/news/newdetails/e-finance-to-acquire-tamweely-for-in-cash-share-swap-deal). Neither record states any separation between running government payment rails and holding a lending book that runs on them.
 
-The operator that builds the state's payment infrastructure also became a lender. On 13 August it [agreed the full acquisition of an Egyptian non-bank lender to small and medium firms](https://www.zawya.com/en/press-release/companies-news/efg-hermes-advises-efinance-on-strategic-acquisition-of-tamweely-financial-services-430407), extending its own infrastructure into direct lending. No consideration is disclosed in the records held, and neither states any separation between running government payment rails and holding a lending book that runs on them.
+The financial regulator's factoring platform [checks in real time whether an invoice has already been financed, enforcing the ban on double-funding a receivable](https://www.youm7.com/story/2026/8/6/%D8%A7%D9%84%D8%B1%D9%82%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D8%AA%D8%B7%D9%84%D9%82-%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D8%B1%D9%82%D9%85%D9%86%D8%A9-%D8%A7%D9%84%D8%AA%D8%AE%D8%B5%D9%8A%D9%85-%D9%88%D9%85%D9%86%D8%B5%D8%A9-%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9-%D8%AA%D9%85%D9%86%D8%B9/7504876) (6 August). The telecom regulator [counted 57.01m operator wallets in the first half of 2026, up 23% in a year, with 67% registered to men](https://www.youm7.com/story/2026/9/14/%D9%83%D9%8A%D9%81-%D8%BA%D9%8A%D8%B1%D8%AA-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9-%D8%B9%D8%A7%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%81%D8%B9-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1/7540929).
 
-Operator wallets kept growing faster than the gap closed: the telecom regulator [counted 57.01m in the first half of 2026, up 23% in a year, with 67% registered to men](https://www.youm7.com/story/2026/9/14/%D9%83%D9%8A%D9%81-%D8%BA%D9%8A%D8%B1%D8%AA-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9-%D8%B9%D8%A7%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%81%D8%B9-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1/7540929).
+The largest private bank's digital-bank venture, holding preliminary approval, [put its planned investment at up to US$300m ahead of a pilot for individual and diaspora customers](https://menastartupdigest.com/cib-backed-yomo-digital-bank-plans-egypt-launch-with-300m-investment/). The central bank [is laying groundwork for a digital pound, wholesale before any retail use](https://enterpriseam.com/egypt/2026/09/15/the-digital-egp-wont-look-different-at-checkout-but-it-will-work-nothing-like-instapay/), with no pilot, design paper or date published.
 
-The largest private bank's digital-bank venture, holding preliminary approval, [put its planned investment at up to US$300m ahead of a pilot for individual and diaspora customers](https://menastartupdigest.com/cib-backed-yomo-digital-bank-plans-egypt-launch-with-300m-investment/).
-
-[Six Egyptian banks have applied to the central bank for final approval to connect InstaPay to the continental payment system](https://enterpriseam.com/egypt/2026/09/23/instapay-to-connect-with-pan-african-payment-system-as-six-egyptian-banks-apply-for-integration/), the system's chief executive said in September. InstaPay does not yet carry cross-border transactions, and neither the banks nor a launch date were named.
+[Six Egyptian banks have applied to the central bank for final approval to connect InstaPay to the continental payment system](https://enterpriseam.com/egypt/2026/09/23/instapay-to-connect-with-pan-african-payment-system-as-six-egyptian-banks-apply-for-integration/), the system's chief executive said in September. InstaPay does not yet carry cross-border transactions, and neither the banks nor a launch date were named. Afreximbank is also [connecting the continental card scheme to the national Meeza network](https://waya.media/egypts-meeza-cards-set-for-wider-african-use-through-papss-integration/) (20 September), at an early stage with no availability date.
 
 ## Eswatini
 
@@ -156,6 +154,8 @@ The platforms Kenyans use to be paid changed their rules one after another over 
 The regulator's June-quarter return [put mobile money subscriptions at 54,005,800, up 1.2 per cent in the quarter, while more than 34,000 registered agents left the market](https://www.dawan.africa/news/kenya-mobile-money-accounts-hit-54-million-even-as-more-than-34000-agents-exit-the-market). Subscriptions count accounts, not people.
 
 Tanzania's competition regulator [put KCB Group's stake in the payments company Pesapal at 22.23%](https://techcabal.com/2026/09/22/tanzania-regulator-reveals-kcbs-22-23-stake-in-payments-firm-pesapal/) in a notice of 21 August, the first public figure for a deal announced in November 2025; the price is undisclosed and approval is pending.
+
+An independent switch [launched a domestic card scheme on 22 September](https://techcabal.com/2026/09/24/kenswitch-launches-local-card-for-kenyan-financial-institutions/) for banks to issue physical and virtual cards across its ATMs, point-of-sale terminals and agents. No issuing institution, consumer date or price is disclosed.
 
 ## Lesotho
 
@@ -250,7 +250,7 @@ The survey behind the country's headline inclusion figure entered the repository
 
 On the cross-border rail the operator reported [Nigeria–Rwanda volumes approaching and in places exceeding Nigeria–Ghana, corridors with Cameroon, Niger and Benin growing on trade in Nigerian goods, and church contributions remitted from elsewhere in Africa as a notable component of activity](https://nairametrics.com/2026/09/05/nigerian-churches-drive-rising-cross-border-payments-across-africa-papss-says/) — no volumes, values or period attached to any of it. In the other direction, [diaspora inflows held steady at US$21.8bn in 2025 on central bank figures, against an average 8.46% cost to send US$200 into the region and app-based rivals quoting 2–3% on the London–Lagos corridor](https://techtrends.africa/how-remittance-startups-are-undercutting-western-union-across-africa/).
 
-A new inclusion survey replaced the 2023 baseline. The 2026 round [puts digital financial services use at 64 per cent of adults from 47 per cent, mobile money at 38 per cent from 12 per cent, and exclusion at 21 per cent, with 53 per cent of the poorest fifth still excluded and 92 per cent of agricultural workers paid in cash](https://thenationonlineng.net/report-digital-finance-usage-hits-64/). At its launch the central bank said it had [completed its review of the third inclusion strategy and begun the fourth](https://www.premiumtimesng.com/business/business-news/910100-cbn-begins-work-on-new-financial-inclusion-strategy-targets-deeper-access.html), and the trade minister [inaugurated a steering committee for a strategy to let firms borrow against verified digital invoices](https://thesun.ng/fg-targets-cheap-loans-with-digital-invoices/).
+A new inclusion survey replaced the 2023 baseline. The 2026 round [puts digital financial services use at 64 per cent of adults from 47 per cent, mobile money at 38 per cent from 12 per cent, and exclusion at 21 per cent, with 53 per cent of the poorest fifth still excluded and 92 per cent of agricultural workers paid in cash](https://thenationonlineng.net/report-digital-finance-usage-hits-64/). The same round [puts overall use at 79 per cent of adults and formal inclusion at 73 per cent, past the national strategy's 70 per cent target](https://independent.ng/nigerias-financial-inclusion-reaches-79-as-efinas-a2f-2026-survey-points-to-next-challenge/). At its launch the central bank said it had [completed its review of the third inclusion strategy and begun the fourth](https://www.premiumtimesng.com/business/business-news/910100-cbn-begins-work-on-new-financial-inclusion-strategy-targets-deeper-access.html), and the trade minister [inaugurated a steering committee for a strategy to let firms borrow against verified digital invoices](https://thesun.ng/fg-targets-cheap-loans-with-digital-invoices/).
 
 ## Rwanda
 
@@ -370,6 +370,8 @@ A parliamentary committee found the expressway concession still running on cash.
 
 On 22 September Afreximbank [issued a US$29m guarantee to the operator of the regional customs bond platform](https://www.afreximbank.com/afreximbank-issues-a-29-million-guarantee-to-scale-eac-customs-bond-easing-movement-of-goods-across-east-africa/), which was piloted in Uganda from August 2025 and launched across the Community in March 2026. No uptake figure is published.
 
+A microfinance bank moved onto a switch operator's network on 22 September, [putting deposits, withdrawals, loan repayments and bill payments with more than 21,000 agents and its debit cards on more than 650 ATMs](https://www.independent.co.ug/pride-bank-and-interswitch-join-forces-to-deliver-easier-accessible-banking-solutions-to-customers/). No cost or customer target is stated.
+
 ## Zambia
 
 On 27 July a vendor manager stated on the record that the National Financial Switch's intended reduction in customer transaction costs has not happened yet, that the central bank is only now focusing on it, and that the electronic clearing house is not yet live on the regional instant-payment scheme ([switch account](https://www.itweb.co.za/article/from-rails-to-routine/dgp45vaB8nQ7X9l8)).
@@ -383,6 +385,8 @@ Acceptance also widened from outside. A commercial bank and an international car
 
 The account base under the inclusion figure was stated: [14.7m registered mobile money accounts in 2024 on the monetary fund's financial access survey, of which 77% hold a balance, against one adult in five holding any account at all in 2011](https://thefintechtimes.com/zambia-mobile-money-opened-doors-fintech-has-to-go-further/), with the central bank phasing out cheque clearing behind it. Registered accounts are not people, and the balance share is the only measure of activity the repository holds against the count.
 
+Trade with China gained a direct channel: a commercial bank [launched renminbi settlement over China's Cross-Border Interbank Payment System in Lusaka on 23 September](https://www.zambiamonitor.com/zambia-says-rmb-payment-system-can-cut-trade-costs-deepen-china-investment/), with the commerce ministry presenting it as a cut in conversion and intermediary costs. No volume, fee or participant count was published.
+
 ## Zimbabwe
 
 The road authority took handover of an expanded toll plaza on 29 July with two of six lanes reserved for radio-frequency tag holders, a second plaza due the next day and a third under construction, against a stated programme covering all 29 tollgates; the announcement states nothing on retention, access or legal basis for the movement record the tags generate ([handover account](https://263chat.com/zimbabwe-widens-key-tollgates-as-e-toll-era-begins/)).
@@ -395,3 +399,5 @@ The quarter's own numbers came from the central bank rather than from a conferen
 Acceptance also widened from outside. A commercial bank and an international card scheme [opened online acceptance of that scheme's cards to participating merchants in nine African markets including Zimbabwe on 19 August](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/), settling in local currency, US dollars or both; the merchant count is given for the nine markets together and not for Zimbabwe.
 
 The World Bank [warned that the tax on intermediated money transfers discourages digital transactions, weakens intermediation and pushes activity toward cash](https://businesstimes.co.zw/world-bank-warns-zim-5/), as banks and businesses press for its abolition. No government response is recorded.
+
+The stock exchange [launched InvoiceX, an invoice-discounting marketplace under its entrepreneurship exchange, reported on 24 September](https://bcrpub.com/news/zimbabwe-stock-exchange-launches-invoicex-48-hour-invoice-discounting-market/): financiers bid for buyer-authenticated invoices of US$1,000 to US$1.5m and suppliers are to be paid within 48 hours for fees of 0.65 per cent. Whether financing is with recourse is not stated.

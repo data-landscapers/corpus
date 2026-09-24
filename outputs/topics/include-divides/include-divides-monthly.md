@@ -1,15 +1,15 @@
 ---
 title: Digital divides — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 subject: include.divides
-places: AGO; BWA; BDI; CPV; COD; EGY; SWZ; GMB; GHA; GNB; KEN; MWI; MAR; MOZ; NER; NGA; RWA; SEN; ZAF; UGA; ZMB
-record: fc595be87668
+places: AGO; BWA; BDI; CPV; COD; EGY; SWZ; GMB; GHA; GNB; KEN; MDG; MWI; MAR; MOZ; NER; NGA; RWA; SEN; ZAF; UGA; ZMB
+record: 1ca14b1ffad4
 ---
 
 # Digital divides: monthly update, August – September 2026
 
-*21 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*22 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -35,7 +35,7 @@ This is the month's clearest movement with both ends dated. The universal servic
 
 ## Egypt
 
-Accessibility followed a similar pattern of demonstration without obligation. On 4 August the ICT ministry published an accessibility toolbar on every page of its own site under a presidential initiative, executed by the ministry's academy for persons with disabilities, whose mandate is to propagate the standards to other government bodies. No deadline, list of bound entities, conformance level or audit route was stated ([ministry account](https://gate.ahram.org.eg/News/5882651.aspx)).
+The transport ministry [added text-to-speech, sign-language and other accessibility tools to its website, built with the ICT ministry and its academy for persons with disabilities](https://www.youm7.com/story/2026/9/17/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%86%D9%82%D9%84-%D8%AA%D8%B7%D9%84%D9%82-%D8%AE%D8%AF%D9%85%D8%A9-%D8%A7%D9%84%D8%A5%D8%AA%D8%A7%D8%AD%D8%A9-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D8%A8%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D9%87%D9%85%D9%85-%D8%B9%D8%A8%D8%B1-%D9%85%D9%88%D9%82%D8%B9%D9%87%D8%A7/7549148) (17 September), after the ICT ministry [published an accessibility toolbar on every page of its own site](https://gate.ahram.org.eg/News/5882651.aspx) on 4 August. No deadline, list of bound entities, conformance level or audit route is stated.
 
 ## Eswatini
 
@@ -70,6 +70,10 @@ The larger withdrawal is American. An implementing partner's account published o
 Domestic provision was restated in the same fortnight. The regulator's Universal Service Fund [put a target of 120,000 people across 19 counties over three years on its Digital Skilling Project](https://techafricanews.com/2026/08/19/kenya-targets-120000-people-for-digital-skills-training-across-19-counties/), aimed at unserved and underserved areas and framed as the skills half of a connectivity programme. It is a target stated at a stakeholders' workshop: no budget line, delivery partner, county list or start date accompanies it, and the fund's own FY2025/26 account is still unpublished.
 
 One programme did reach the refugee-hosting counties: a Dutch-funded course [targeting 1,700 refugee and host-community youth in Garissa and Turkana, with more than 700 enrolled from over 1,000 applications](https://techmoran.com/2026/09/11/power-learn-project-trains-1700-youth-in-kenya-ai-cloud-skills/).
+
+## Madagascar
+
+The telecoms regulator [posted the 2025 financial statements of the telecoms and ICT development fund](https://www.artec.mg/wp-content/uploads/2026/09/FDTIC-2025-Rapport-EF-fin.pdf), the universal-service fund it manages, alongside those for 2024. They follow a Cour des comptes audit that asked for all the fund's disbursements to be suspended; whether an auditor's opinion accompanies the statements is not established.
 
 ## Malawi
 

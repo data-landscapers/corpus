@@ -1,21 +1,21 @@
 ---
 title: Training and skills — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 subject: capacity.training
-places: DZA; AGO; BEN; BFA; BDI; CMR; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: ecee58b6aaaa
+places: DZA; AGO; BEN; BFA; BDI; CMR; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 0e7c3f50e876
 ---
 
 # Training and skills: monthly update, August – September 2026
 
-*45 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*46 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
-One instruction, issued on a minister's social-media account rather than by circular. The higher education and scientific research minister directed the [five higher schools specialising in economics, finance and management to modernise their training and embed artificial intelligence, at a working meeting at the Kolea hub on 10 September](https://www.echoroukonline.com/%d8%a8%d8%af%d8%a7%d8%b1%d9%8a-%d9%8a%d8%a3%d9%85%d8%b1-%d8%a8%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d8%a7%d9%84%d8%aa%d9%83%d9%88%d9%8a%d9%86-%d9%88%d8%a5%d8%af%d8%b1%d8%a7%d8%ac-%d8%a7%d9%84%d8%b0%d9%83), saying the economy is a main engine for delivering the national development programme and that these institutions must train people able to understand economic change, support investment and create jobs. No curriculum, timetable, teaching capacity or funding is published, and the five schools are not named.
+On 10 September the higher education and scientific research minister directed the [five higher schools specialising in economics, finance and management to modernise their training and embed artificial intelligence, at a working meeting at the Kolea hub](https://www.echoroukonline.com/%d8%a8%d8%af%d8%a7%d8%b1%d9%8a-%d9%8a%d8%a3%d9%85%d8%b1-%d8%a8%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d8%a7%d9%84%d8%aa%d9%83%d9%88%d9%8a%d9%86-%d9%88%d8%a5%d8%af%d8%b1%d8%a7%d8%ac-%d8%a7%d9%84%d8%b0%d9%83), in a statement on his own social-media account. No curriculum, timetable, teaching capacity, funding or implementing circular is published, and the five schools are not named.
 
 ## Angola
 
@@ -67,6 +67,10 @@ The land ministry [closed a roughly month-long course for 50 conservators of pro
 
 The state's university artificial-intelligence programme closed its fourth round on 4 August with 1,090 students and 445 projects, taking the cumulative total since 2022 to 2,710 students ([round account](https://gate.ahram.org.eg/News/5882834.aspx)). A tripartite agreement added mentoring and real healthcare datasets to student projects, with no data-governance arrangement stated for the patient-derived data.
 
+The national telecommunication institute [signed a memorandum with Cisco to certify 3,000 technology instructors, 1,000 a year for three years](https://www.connectingafrica.com/ai/egypt-cisco-to-train-3-000-ai-instructors) (2 September), and protocols on [AI capacity building with a state authority](https://mcit.gov.eg/en/Media_Center/Press_Room/Press_Releases/117432), [enterprise-systems training with a private firm](https://techafricanews.com/2026/09/17/egypts-nti-partners-jupiter-2000-train-youth-enterprise-resource-management/) and [digital transformation and automation with another](https://techafricanews.com/2026/09/21/egypts-nti-partners-with-4dtio-to-train-youth-in-digital-transformation-and-automation/). None publishes a cohort size, cost or placement target.
+
+The presidential Digilians initiative [admitted 1,674 of about 40,000 applicants to its first cohort, the state paying EGP 500,000 to EGP 1m per trainee for master's and diploma tracks in AI, data science, software and cybersecurity](https://english.ahram.org.eg/News/577047.aspx), on ministry figures; no completion figure is published.
+
 ## Equatorial Guinea
 
 An investigation opened into [where more than 425 million CFA francs allocated to equip the university computer room at Bata went](https://realequatorialguinea.com/sociedad/investigan-el-destino-de-mas-de-425-millones-de-francos-cfa-para-equipar-la-sala-de-informatica-de-la-unge-en-bata/). It is a capacity line the repository can date and price, and cannot yet say produced anything; no finding, charge or recovery has followed.
@@ -78,6 +82,8 @@ At the Macetjeni handover the ICT ministry's principal secretary said [AI, robot
 The hub itself opened on 6 August at Macetjeni in the Lubombo Region, [the second of its kind, backed by the development programme with the communications regulator and the small-enterprise development company and aimed at young people, women and people with disabilities](https://www.undp.org/eswatini/news/macetjeni-ihub-opens-expand-digital-opportunities). It opens against [an internet-usage rate of 58% and youth unemployment of 56%](https://www.undp.org/eswatini/news/macetjeni-ihub-opens-expand-digital-opportunities). No intake target, running cost or funding term is published, so what a second hub is expected to change cannot be read from the account.
 
 In schools, the education minister [set out more than 1,140 computers donated by Taiwan to 49 schools and 40 interactive screens installed in five schools per region, with 106 more schools to follow](https://independentnews.co.sz/48373/news/technology-devices-take-schools-into-digital-era-handsome/), and a US$4.75 million Global Partnership grant whose terms were not given.
+
+The civil service is being prepared for the Digital Eswatini Project's implementation phase. On 24 September [about 40 change agents from five ministries and participating parastatals, organised as a change-agent network since their first training, assessed the readiness of their own directorates](https://eswatinipositivenews.online/e1-06bn-digital-eswatini-puts-people-before-technology/); no count of the staff they cover is published.
 
 ## Ethiopia
 
@@ -103,11 +109,19 @@ The coders programme is to reach first-year degrees: the minister [said 12 unive
 
 The TVET Service [signed a memorandum with UNESCO, KPMG and Microsoft under the AI EmpowerED initiative to train at least 100,000 TVET facilitators in AI and digital skills](https://gna.org.gh/2026/09/tvet-service-unesco-kpmg-and-microsoft-partner-to-train-100000-facilitators-in-ai-and-digital-skills/), reported on 23 September. No cost or timeline is stated.
 
+Two school-level commitments were announced without money. The education ministry [said it would open dialogue on a policy to scale a community ICT laboratory model nationwide](https://www.modernghana.com/news/1530142/10-years-of-impact-helping-africa-foundation-call.html), and Ghana [signed an agreement with Intel to bring AI education into K-12 classrooms](https://www.myjoyonline.com/ghana-signs-agreement-with-intel-to-expand-ai-for-youth-programme/) in New York; neither states a cost, a timeline or a school count.
+
+## Guinea
+
+The state digitalisation agency [put the feasibility study for a national digital academy to a validation workshop on 23 September](https://www.africaguinee.com/souverainete-numerique-en-guinee-lande-au-coeur-de-la-creation-de-lacademie-nationale-du-numerique/): a permanent body adding short certified courses in information systems, artificial intelligence and cybersecurity to what the universities offer, aimed first at civil servants and supported by the World Bank-financed regional digital programme. No launch date or budget is stated.
+
 ## Kenya
 
 Certification reached the platform economy from the other direction, in one county and at small scale. A ride-hailing operator and the Mombasa county government [launched a programme to license 400 delivery riders through the national Recognition of Prior Learning framework, the operator committing KES 1.5 million: riders complete 21 days of accredited training at a certified driving school before the transport and safety authority licenses them on demonstrated competency, under a January 2026 memorandum covering compliance, safety, youth employment and platform adoption, and the operator will share trip and demand data with the county for infrastructure planning including the siting of electric-vehicle charging points](https://techcabal.com/2026/08/27/bolt-mombasa-formalise-400-delivery-riders-training-and-licences/). Four hundred riders is set against a sector a 2025 parliamentary report puts at more than two million, and no data-sharing agreement, retention rule or privacy basis for the trip and demand data accompanies it.
 
 Teaching practice moved before any curriculum did. A mathematics and science teacher-training centre [ran an international workshop for 100 teachers on 3 and 4 September on digital literacy for competency-based science teaching, its acting chief executive warning against dependence on artificial intelligence in classrooms](https://www.kenyanews.go.ke/cemastea-champions-responsible-ai-use-in-competency-based-stem-education/). No guidance document, cascade plan or teacher-reach target is published behind it.
+
+The largest vocational digitalisation project, [some EUR 50m co-financed by KfW, the French development agency and the EU, opened prequalification for its implementation consultant on 22 September](https://www.tenderyetu.com/digitalization-tvet-project-d4tvet-tender-prequalification-implementation-consultant/), with five years of delivery counted from that consultant's start. A privately run [data-centre certification academy launched in Nairobi with a first cohort of five](https://startupkenya.io/2026/09/23/ibtc-expands-data-centre-academy-to-kenya-with-schneider-support/).
 
 ## Lesotho
 
@@ -119,7 +133,9 @@ UNDP also [announced a partnership with the University of Liberia to establish t
 
 A second route into the national university was signed rather than built: a [tripartite memorandum of 27 August under which a foreign online university covers 97% of online tuition for more than 200 students, with three smart classrooms due in 2027](https://www.liberianobserver.com/news/ul-signs-tripartite-partnership/article_5cddfcff-d093-4f21-a8b5-4ad801df628a.html). No commitment amount is stated, so what the repository holds is a tuition-waiver share, a student count and a classroom count with no money behind any of them. [National stakeholder consultations on establishing the university's master's programme in artificial intelligence are running with UNDP support](https://www.undp.org/liberia/press-releases/building-liberias-ai-future-undp-ul-consult-stakeholders), bringing together government institutions, development partners, academia, private-sector actors and civil society.
 
-The gender ministry [signed an agreement with Cybastion to build women's technology and business hubs with childcare centres](https://techafricanews.com/2026/09/23/liberia-cybastion-women-digital-business-innovation-hubs/), a flagship campus in Monrovia and sites in Voinjama, Gbarnga, Kakata and Buchanan, with training through the Cisco Networking Academy. It was reported on 23 September with no cost or timetable.
+The gender ministry [signed an agreement with Cybastion to build women's technology and business hubs with childcare centres](https://techafricanews.com/2026/09/23/liberia-cybastion-women-digital-business-innovation-hubs/), a flagship campus in Monrovia and sites in Voinjama, Gbarnga, Kakata and Buchanan, with training through the Cisco Networking Academy. It was [signed in New York on 22 September for a 36-month term](https://elbcnews.com/2026/09/23/gender-minister-signs-partnership-with-cybastion-institute-of-technology-and-cisco-system/), with no cost stated.
+
+Outside government, a foundation-backed computer and robotics laboratory in Monrovia, open since July 2024, [reached 1,717 high-school students in 2025, up from about 200 in 2024](https://www.modernghana.com/news/1530142/10-years-of-impact-helping-africa-foundation-call.html), on the partner foundation's own figures.
 
 ## Libya
 

@@ -1,21 +1,21 @@
 ---
 title: Connectivity — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 subject: infra.connect
-places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: efc0a0c6ea87
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 19cb2c6c3235
 ---
 
 # Connectivity: monthly update, August – September 2026
 
-*50 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*51 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
-The one dated position is the licence award rather than any new build. [Three commercial 5G licences were awarded to the three operators in December 2025](https://digitalmag.ci/acces-a-internet-etat-dadoption-de-la-technologie-5g-par-les-pays-africains/), and that is where the record stands: no coverage obligation, rollout milestone or subscriber figure has followed on this ledger since.
+GSMA Intelligence puts [5G coverage at 3 per cent of the population in 2025, against a 75 per cent target for 2030](https://digitalmag.ci/acces-a-internet-etat-dadoption-de-la-technologie-5g-par-les-pays-africains/). On 7 September state media stated that [within 18 months no zone would remain out of network, in an operation covering at least 3,000 enclaved and hard-to-reach rural zones](https://www.elmoudjahid.dz/fr/editorials/sans-fritures-4194); no instrument, budget, operator or zone list accompanies the statement. Oran [joined Algiers among the world's top 50 cities for mobile internet speed](https://www.echoroukonline.com/%D8%B3%D8%B1%D8%B9%D8%A9-%D8%A5%D9%86%D8%AA%D8%B1%D9%86%D8%AA-%D8%A7%D9%84%D9%87%D8%A7%D8%AA%D9%81-%D8%A7%D9%84%D9%86%D9%82%D8%A7%D9%84-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1) on a measurement firm's September update.
 
 ## Angola
 
@@ -113,13 +113,13 @@ A cross-border route was reaffirmed rather than started. The Tanzanian and Congo
 
 ## Egypt
 
-An independent measurement published on 3 August 2026 gave the first full-year reading of Egypt's 5G launch. Six months after commercial service began in June 2025, the 5G median download speed had fallen to about 89 Mbps from 110.5 Mbps on launch day, and the combined 4G and 5G median stood at 34.77 Mbps against a pre-launch baseline of 37.68 Mbps ([measurement](https://www.ookla.com/articles/5g-north-africa-2026)). Egypt is the only one of the four North African launch markets with no published coverage or quality obligation attached to its award.
+An independent measurement published on 3 August 2026 gave the first full-year reading of Egypt's 5G launch. Six months after commercial service began in June 2025, the 5G median download speed had fallen to about 89 Mbps from 110.5 Mbps on launch day, and the combined 4G and 5G median stood at 34.77 Mbps against a pre-launch baseline of 37.68 Mbps ([measurement](https://www.ookla.com/articles/5g-north-africa-2026)). The same review [records coverage or service conditions attached to the Moroccan, Algerian and Tunisian launches](https://www.ookla.com/articles/5g-north-africa-2026), and none for Egypt's.
 
-The Red Sea bypass gained a builder. On 7 September the incumbent's agreement with Power Sub Link to construct the [200 km Sharm El Sheikh to Taba cable was reported, extending its Red Sea festoon into a continuous Suez – Zafarana – Ras Ghareb – Sharm El Sheikh – Taba route designed for about 5 petabits per second](https://capacityglobal.com/news/telecom-egypt-5pbs-red-sea-bypass/). Earlier accounts put the contractor as Greek; no cost, landing-station arrangement or in-service date is held either way.
+On 7 September the incumbent's agreement with Power Sub Link to construct the [200 km Sharm El Sheikh to Taba cable was reported, extending its Red Sea festoon into a continuous Suez – Zafarana – Ras Ghareb – Sharm El Sheikh – Taba route designed for about 5 petabits per second](https://capacityglobal.com/news/telecom-egypt-5pbs-red-sea-bypass/). Earlier accounts put the contractor as Greek; no cost, landing-station arrangement or in-service date is held either way.
 
-Attention has moved to the band above it. The incumbent, the regulator and a Chinese vendor [ran a mobile base station and a data call over upper 6 GHz on 19 August, reported at about 1.7 Gbps per user](https://itweb.africa/article/telecom-egypt-tests-high-capacity-spectrum/RgeVDqPRka37KJN3) and stated by the operator as the first such trial in Egypt and in Africa. It is a trial: no allocation, award, licence or commercial date follows it, and the throughput figure is the operator's own.
+The incumbent, the regulator and a Chinese vendor [ran a mobile base station and a data call over upper 6 GHz on 19 August, reported at about 1.7 Gbps per user](https://itweb.africa/article/telecom-egypt-tests-high-capacity-spectrum/RgeVDqPRka37KJN3) and stated by the operator as the first such trial in Egypt and in Africa. No allocation, award, licence or commercial date follows it, and the throughput figure is the operator's own. Vodafone Egypt [began the commercial rollout of an AI-capable radio-access processor built for 5G-Advanced](https://www.telecomreviewafrica.com/articles/reports-and-coverage/29214-ericsson-modernizes-vodafone-egypts-ran-with-ai-powered-ran-processor-6672/) (21 September), with no site count or value given.
 
-GSMA Intelligence's country-by-country survey [puts Egyptian 5G take-up at 3 per cent](https://digitalmag.ci/acces-a-internet-etat-dadoption-de-la-technologie-5g-par-les-pays-africains/) and projects 60 per cent population coverage and 35 per cent take-up by 2030, crediting an early-2026 spectrum agreement with doubling operator capacity.
+GSMA Intelligence's country-by-country survey [puts Egyptian 5G take-up at 3 per cent](https://digitalmag.ci/acces-a-internet-etat-dadoption-de-la-technologie-5g-par-les-pays-africains/) and projects 60 per cent population coverage and 35 per cent take-up by 2030. The main exchange, EG-IX, [peaked at 722.19Gb/s on 7 September across 18 member networks, only five of them Egyptian](https://tech.africa/eg-ix-cairo-18-members/); it is owned by the state-controlled incumbent.
 
 ## Equatorial Guinea
 
@@ -250,7 +250,7 @@ An operator and a vendor placed a dual-band radio configuration into commercial 
 The transitional reduction of mobile interconnection tariff asymmetry took effect on 1 July 2026, running to 31 January 2027, with full symmetry from 1 February 2027, recorded in the incumbent's own half-year filing ([operator filing](https://www.iam.ma/documents/66341/0/Maroc+Telecom+-+Rapport+financier+S1+2026+%282%29.pdf/261de29d-cee8-407f-1e28-dbb3a53f985f)).
 
 
-The vendor has since put figures on it: [roughly a kilometre of extra range, an 83% download-speed gain and 3.2 times more concurrent users per site](https://shore.africa/2026/08/12/inwi-partners-huawei/), against a regulator count of 19.4m mobile subscriptions and a 34.04% share for the operator at the end of March. The performance gains are the vendor's own.
+The vendor has since published figures for it: [roughly a kilometre of extra range, an 83% download-speed gain and 3.2 times more concurrent users per site](https://shore.africa/2026/08/12/inwi-partners-huawei/), against a regulator count of 19.4m mobile subscriptions and a 34.04% share for the operator at the end of March. The performance gains are the vendor's own.
 
 ## Mozambique
 
@@ -301,6 +301,8 @@ The tower programme set a first milestone and the satellite programme a first co
 
 Rural connectivity was folded into the electrification programme. A rural infrastructure company [secured a World Bank-backed results-based facility to deploy 2G, 4G, broadband and community Wi-Fi in 500 unserved and underserved communities under the US$750m DARES programme with the Rural Electrification Agency](https://punchng.com/hotspot-secures-world-bank-facility-for-500-communities/). The account rests on documents seen by one newspaper and gives no facility amount or signing date.
 
+A rural network operator [announced a pilot of licensed satellite backhaul at one rural site with its partner Infratel](https://techafricanews.com/2026/09/24/nuran-wireless-starlink-leo-backhaul-pilot-nigeria/), buying the service through third-party resellers; no start date or result is published.
+
 ## Rwanda
 
 The legacy-network retirement plan the ministry announced on 28 July fixes third-generation service off nationwide on [30 June 2027](https://www.minict.gov.rw/news-detail/rwanda-to-switch-off-3g-networks-on-30-june-2027), with operator pilot shutdowns during 2026 and critical-system migration completed in the first half of 2027. December 2028 is the working date for the second-generation network, conditional on coverage, voice reliability including emergency calls, continuity of mobile money, migration of dependent systems and affordable handsets. The technical precondition followed days later: the dominant operator launched voice over fourth-generation networks, reported on 3 August, with no coverage, handset-base or subscriber figure and no reference to the sunset. [A subsea operator announced a 25,000 km system across fifteen countries on 9 July with no timeline disclosed](https://www.minict.gov.rw/news-detail/rwanda-to-switch-off-3g-networks-on-30-june-2027); a landlocked country's exposure to it is backhaul rather than a landing. As at 30 July the World Bank's successor nine-year country partnership framework is prepared but not launched, with no committed envelope on the record.
@@ -317,6 +319,10 @@ An independent index put a number on how fragile the connection is. The Internet
 The exchange point at Dakar is the month's measurable position: it carries [260 Gbps of member port capacity across six member networks, all six having joined within the preceding twelve months and none having left](https://pulse.internetsociety.org/en/ixp-tracker/ixp/1594/). The figures are registry self-declarations rather than measured traffic. The older [association-run exchange is constituted with its registered office at the telecommunications ministry](https://www.senix.sn/statuts.html) and names no members, traffic or operating site.
 
 On price, the regulator's index was [flat quarter on quarter across all four operators and all nine consumption profiles, and down 15.6% year on year](https://artp.sn/sites/default/files/2026-08/NOTE%20IPSM%20T2%202026_0.pdf), after falls of 5.3% and 10.2% in the two preceding quarters. It is an index, so it carries no franc amount. The regulator also [published a synthesis of 21 contributions to its consultation on deploying and sharing fibre to the end subscriber](https://artp.sn/partage-infrastructures/fttx), setting no rule, obligation or timetable.
+
+## Sierra Leone
+
+The contract to network government offices was challenged. On 21 September the Independent Procurement Review Panel [opened an investigation into a bidder's complaint over the Digital Transformation Project's contract to supply and install wide and local area networks across ministries, departments and agencies](https://truthmedia.sl/procurement-review-panel-probes-alleged-irregularities-in-digital-transformation-project/), and said it would publish the outcome. No award, supplier or contract value is on record.
 
 ## Somalia
 
@@ -390,6 +396,8 @@ The largest mobile operator [extended its group-level Starlink partnership to Ug
 
 A second international route is being procured under a presidential directive rather than by tender. The state transmission company [cancelled open bidding for a commercialisation partner for its fibre network and moved to prepare a proposal for a single named company for the Uganda-Tanzania connection, the parliamentary committee on state enterprises asking why firms that had expressed interest were dropped](https://nilepost.co.ug/news/368959/uetcl-in-spotlight-over-uganda-tanzania-fibre-connection). A State House letter of 27 August 2025 had told the ICT and energy ministers that a Tanzanian route could be cheaper than the existing route through Kenya, which the President described as full of commercial players looking for profit. No contract, value, timetable or committee finding is held, and the cost comparison is an assertion.
 
+The second operator followed with a service rather than a partnership: it [launched Starlink satellite-to-mobile SMS and light data for compatible smartphones on 24 September](https://techafricanews.com/2026/09/24/airtel-uganda-rolls-out-starlink-satellite-to-mobile-service/), free for 30 days and then through its data bundles, with no coverage or subscriber figure.
+
 ## Zambia
 
 A government-owned shared 4G network for public institutions was launched at Ndola Teaching Hospital on 15 July 2026, run by the state ICT institute with three named partners and the health ministry ([launch account](https://itweb.africa/article/zambia-launches-govlink-private-4g-network/G98YdMLGBZw7X2PD)). The reported outcomes are clinician accounts at the launch site; no baseline or measured result is held.
@@ -401,6 +409,8 @@ The technology ministry [put the country at about 26.2 million mobile subscripti
 A further Northern Province district administration was connected in August, and the account is unusually specific about what a connection reached. After the provincial ICT unit installed connectivity at Lupososhi District Administration and ran a virtual orientation on the national portal and two office collaboration tools, an official [printed a road-tax document from his own office instead of travelling to Kasama for it, days before it expired](https://techafricanews.com/2026/08/31/zamportal-teams-lupososhi-road-tax-local/). It is one office and one document: no district count, schedule or cost for the programme is published.
 
 A second account of the same period puts [internet subscriptions at 14.7m in 2025 against 10.4m in 2021, and mobile population coverage at 95% over 2022 to 2025](https://www.freightnews.co.za/article/giving-business-and-citizens-a-smart-edge-0). The coverage figure is government-reported and does not reconcile with the ministry's own separate claim for the same period — a reminder that every coverage number here comes from the same source as the target it is measured against.
+
+A mobile operator is [acquiring about 1,300 km of fibre from a related company in the same group for K324.9 million](https://zambianbusinesstimes.com/airtel-invests-k324m-in-1300km-optic-fibre-network/), independently valued and classed as a small related-party transaction (21 September). It moves existing fibre between two companies of one group; it adds no route.
 
 ## Zimbabwe
 

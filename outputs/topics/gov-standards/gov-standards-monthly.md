@@ -1,10 +1,10 @@
 ---
 title: Standards — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 subject: gov.standards
 places: AGO; BEN; CPV; CAF; TCD; COM; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GIN; KEN; LBR; LBY; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB
-record: e9dc4f70addf
+record: cdd3a88c60ed
 ---
 
 # Standards: monthly update, August – September 2026
@@ -49,7 +49,7 @@ The telecoms regulator [installed equipment giving it near-real-time access to m
 
 ## Egypt
 
-Transfer-pricing guidance [has not been revised since 2018](https://www.alborsaanews.com/2026/07/29/1982823), and appeal committees relying on the statutory provision requiring a minister-approved guide have cancelled some penalties. The account is a named practitioner's, not the tax authority's.
+The central bank [formed an inter-ministerial working group with the finance, investment, environment and financial-regulatory authorities to develop a sustainable finance taxonomy](https://www.zawya.com/en/economy/egypts-cbe-forms-inter-ministerial-working-group-to-develop-sustainable-finance-taxonomy-423226) (7 August). No draft or issue date is published.
 
 ## Equatorial Guinea
 
@@ -179,6 +179,8 @@ The standards machinery came into view too: the [national standards agency is a 
 ## Tunisia
 
 Tunisia's standards work this month was as host. Its national frequency agency [opened four days of talks in Tunis for the third African preparatory meeting for the 2027 World Radiocommunication Conference, coordinated by the African Telecommunications Union, with governments and regulators working towards common positions on the frequencies used by mobile, satellite and other wireless services](https://www.cyberera.com.ng/african-delegations-demand-common-ground-in-tunis-ahead-of-2027-world-radiocommunication-conference/). No delegate count, agenda document or adopted position is published.
+
+The hosting gate now has a count behind it: the cybersecurity agency's [list of 17 September carries six N-Cloud entries](https://www.webmanagercenter.com/2026/09/22/573106/cybersecurite-et-entreprises-ce-qui-va-changer-pour-les-entreprises-publiques-et-leurs-fournisseurs-prives/), the label public bodies must use for sensitive data. The count comes from a business outlet's reading of the list, not from the list itself.
 
 ## Uganda
 

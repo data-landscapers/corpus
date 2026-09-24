@@ -1,15 +1,15 @@
 ---
 title: Domestic budget appropriations and expenditure — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 subject: finance.budget
-places: AGO; BFA; COD; EGY; GMB; NER; SEN; SDN; TZA; TUN
-record: 5f82b385a799
+places: AGO; BFA; COD; EGY; GMB; LBY; NER; SEN; SDN; TZA; TUN
+record: ed84fca78bde
 ---
 
 # Domestic budget appropriations and expenditure: monthly update, August – September 2026
 
-*10 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*11 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -27,7 +27,7 @@ The money behind the finance inspectorate's digitalisation is domestic. The US$2
 
 ## Egypt
 
-The sector's own money was put before parliament. The planning minister told the House of Representatives that [EGP 13bn of public investment is allocated to the communications and information technology sector in the 2025/26 plan](https://moic.gov.eg/news/2134), against plan targets of US$8.5bn in annual digital exports of which US$6bn from outsourcing. It is a plan allocation rather than an outturn, and the repository holds no execution figure against it — nor any published state digital appropriation, which is recorded as ***Not held***.
+The planning minister told the House of Representatives that [EGP 13bn of public investment is allocated to the communications and information technology sector in the 2025/26 plan](https://moic.gov.eg/news/2134), against plan targets of US$8.5bn in annual digital exports of which US$6bn from outsourcing. A communications ministry document reported on 21 August [sets an intended allocation of up to US$860m a year from the general budget, from FY2026/27 to the end of 2030, for data centres, computing infrastructure, data security and artificial intelligence in state-owned companies](https://www.egypttelegraph.com/article/272026/%D9%85%D8%B5%D8%B1-%D8%AA%D8%AE%D8%B5%D8%B5-860-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D8%B3%D9%86%D9%88%D9%8A%D8%A7-%D9%84%D9%85%D8%B1%D8%A7%D9%83%D8%B2). Both are plan figures: no execution figure is held against either, and no published state digital appropriation, which is recorded as ***Not held***.
 
 ## Gambia
 
@@ -35,9 +35,13 @@ The finance ministry gave its fullest account yet of what digitalised collection
 
 Four days later the revenue authority [published a 2026 target of D27.5 billion](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/gambie-la-numerisation-fait-bondir-les-recettes-fiscales-de-127-en-trois-ans) — the first forward number in the series, and the first testable one. The implied step from 2025 is about a tenth, far below the run rate the attribution rests on.
 
+## Libya
+
+The central bank's [statement for January to August 2026 puts spending on the communications authority and its affiliates at LYD 25.2m, all of it salaries and operating costs and nothing in the development chapter, against state outlay of LYD 68.8bn](https://cbl.gov.ly/micifaf/2026/05/%D8%A8%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D8%AF-%D9%88%D8%A7%D9%84%D8%A5%D9%86%D9%81%D8%A7%D9%82-%D9%84%D8%B4%D9%87%D8%B1-%D8%A3%D8%BA%D8%B3%D8%B7%D8%B3-2026-4.pdf). The August salaries are not yet in it, and the unified 2026 budget it executes against is not in the repository, so no digital appropriation for the year can be read.
+
 ## Niger
 
-The budget moved and the digital line did not appear in it. The Council of Ministers [rectified the 2026 finance law on 21 August, raising the general State budget from 2,922.22 to 2,980.54 billion FCFA](https://anp.ne/loi-des-finances-2026-le-budget-general-de-letat-au-titre-de-lannee-2026-passe-a-2-98054-milliards-de-francs-cfa/), citing security spending, the government's new configuration, oil prices and tax simplification. Neither it nor the [ordonnance it amends](https://finances.gouv.ne/index.php/lois-de-finances/file/1303-ordonnance-n-2025-44) names an appropriation for communications or the digital economy, so the repository holds the total and still not the line.
+The budget moved and the digital line did not appear in it. The Council of Ministers [rectified the 2026 finance law on 21 August, raising the general State budget from 2,922.22 to 2,980.54 billion FCFA](https://anp.ne/loi-des-finances-2026-le-budget-general-de-letat-au-titre-de-lannee-2026-passe-a-2-98054-milliards-de-francs-cfa/), citing security spending, the government's new configuration, oil prices and tax simplification. The rectification names no digital line; the digital appropriations sit in the [annex to the ordonnance it amends, which gives the communications ministry FCFA 213.75m across ten digital activities](https://finances.gouv.ne/index.php/lois-de-finances/category/165-loi-de-finances-2026).
 
 ## Senegal
 

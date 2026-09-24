@@ -1,10 +1,10 @@
 ---
 title: MoUs and other agreements — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 subject: finance.mou
 places: DZA; CIV; COD; GHA; KEN; MAR; MOZ; NER; NGA; RWA; TZA; UGA
-record: ce62cfe24514
+record: 79a3e1c5f351
 ---
 
 # MoUs and other agreements: monthly update, August – September 2026
@@ -15,7 +15,7 @@ record: ce62cfe24514
 
 ## Algeria
 
-A private matching arrangement is the month's entry here. A continental hub network and a platform [announced a partnership to connect North African businesses to investors](https://www.wearetech.africa/fr/fils/breves/breves-simple/afrilabs-s-allie-a-eyconet-pour-connecter-les-entreprises-d-afrique-du-nord-aux-investisseurs). No value, term, Algerian pipeline or state involvement is stated.
+On 20 August a continental innovation-hub network and an investment platform [announced a partnership to connect North African businesses to investors](https://www.wearetech.africa/fr/fils/breves/breves-simple/afrilabs-s-allie-a-eyconet-pour-connecter-les-entreprises-d-afrique-du-nord-aux-investisseurs). No value, term, Algerian pipeline or state involvement is stated.
 
 ## Cote d'Ivoire
 

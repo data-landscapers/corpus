@@ -1,15 +1,15 @@
 ---
 title: Innovation ecosystem — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 subject: tech.innovate
-places: DZA; AGO; BWA; BFA; CMR; CPV; COM; CIV; COD; EGY; ERI; SWZ; GAB; GMB; GHA; GIN; KEN; LBR; MLI; MRT; MAR; NAM; NER; NGA; RWA; SYC; SLE; ZAF; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: eebb108edda4
+places: DZA; AGO; BWA; BFA; CMR; CPV; COM; CIV; COD; EGY; ERI; SWZ; GAB; GMB; GHA; GIN; KEN; LBR; MLI; MRT; MAR; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SDN; TZA; TUN; UGA; ZMB; ZWE
+record: e5bdb1deaa95
 ---
 
 # Innovation ecosystem: monthly update, August – September 2026
 
-*34 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*35 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -53,15 +53,15 @@ A ten-year-old marketplace restructured on 31 August: the company [split its con
 
 On 15 September the digital minister [presented six costed opportunities worth FCFA 541.3bn to the private sector, under a ministerial roadmap of seven pillars and 40 projects aiming to lift the digital economy to 15 per cent of GDP by 2030](https://www.aip.ci/cote-divoire-aip-pnd-2026-2030-le-ministre-djibril-ouattara-presente-les-sept-piliers-de-lacceleration-numerique/), from an estimated 6 to 8 per cent now.
 
+Opening the 2026 Ivoire Tech Forum, the digital minister [announced a startup labelling platform to give labelled startups access to the fiscal framework's incentives](https://techreviewafrica.com/news/7410/); no date or operator was given.
+
 ## DR Congo
 
 A government communiqué of 3 August confirmed that the [Startup Act implementing texts remain in preparation](https://acp.cd/business/rdc-le-secteur-du-numerique-encore-confronte-a-des-nombreuses-contraintes-un-specialiste/): four draft decrees adopted in May 2025 to operationalise the fiscal, customs and exchange advantages of the 2022 ordinance-law, none in force fifteen months on. None of the four texts is held.
 
 ## Egypt
 
-Egypt [led the continent in the first half of 2026 with US$327m raised, US$183m of it equity](https://techcabal.com/2026/07/27/african-venture-capital-is-backing-fewer-founders-than-ever/), after a 2025 in which one tracker counted US$378.95m across 43 startups, second to Nigeria for a second year, funded ventures falling 15.7% as the average raise rose to US$8.81m. A competing tracker's half-year figures for 2025 exceed twice that full-year total, and neither states its inclusion rules.
-
-The investment and foreign trade ministry said it will [launch TradeTech, a regulatory sandbox and innovation hub for foreign-trade technology, in October 2026](https://english.ahram.org.eg/News/577224.aspx).
+The investment and foreign trade ministry said it will [launch TradeTech, a regulatory sandbox and innovation hub for foreign-trade technology, in October 2026](https://english.ahram.org.eg/News/577224.aspx). A second Egyptian cohort of a women-in-technology accelerator [opened with twelve women-led startups, three of them to share US$35,000 in equity-free grants](https://techafricanews.com/2026/08/24/standard-chartered-foundation-women-in-tech-accelerator-egypt/) (24 August).
 
 ## Eritrea
 
@@ -72,6 +72,8 @@ On 15 August the Ministry of Information [interviewed Shambko Apps Group, a self
 [Digital transformation was named a priority of the Eswatini-Taiwan relationship](https://independentnews.co.sz/47014/business/digital-innovation-take-centre-stage-on-eswatini-taiwan-cooperation/) at a leaders' meeting in Taipei, with no instrument, figure or implementing agency named; the meeting's own date is not established.
 
 Three days earlier [about 150 delegates — industry leaders, entrepreneurs, policymakers and development partners — met at Manzini under a United Nations enterprise programme on cutting small-enterprise costs with digital tools](https://www.undp.org/eswatini/news/work-smarter-embrace-technology-cut-costs-grow), with no follow-on commitment, tool or funding line published.
+
+The central bank widened its own convening body: the governor announced on 23 September that [its FinTech Working Group had become the FinTech Forum Eswatini, open to government, academia, industry, innovators and students](https://eswatinipositivenews.online/fintech-working-group-becomes-fintech-forum-eswatini/), with a memorandum of understanding to formalise its structures still to be signed.
 
 ## Gabon
 
@@ -138,9 +140,15 @@ NITDA [inaugurated a Technical Working Group to build a multi-agency national re
 
 At its Abuja forum on 9 September the EU put a figure on Boost Africa: [EUR108 million invested across Africa, stated to have attracted about EUR400 million more and up to 15,000 jobs](https://www.thisdaylive.com/2026/09/09/eu-eib-invest-e108m-to-drive-african-entrepreneurship-create-15000-jobs/), cumulative rather than a Nigerian commitment.
 
+A [US$12m Korean-funded Abuja Centre for Entrepreneurship is under construction with the small-enterprise agency and UNDP, US$5.9m for the building and US$6.1m for equipment and programmes](https://statehouse.gov.ng/tinubu-welcomes-12-million-abuja-entrepreneurship-centre-to-strengthen-nigerias-msme-ecosystem/), targeting 1,500 small businesses; no completion date is given.
+
 ## Rwanda
 
 As at 3 August the development bank is [the sole committed backer, at US$6m, of a venture debt fund that is not closed, with a further US$3m near-committed](https://techcabal.com/2026/08/03/rwanda-debt-6-million/); [cheques run US$300,000 to just under US$1m, uncollateralised, at 9 to 12%](https://techcabal.com/2026/08/03/rwanda-debt-6-million/). The figures are the fund manager's own and no commitment date is given.
+
+## Senegal
+
+Belgium's development agency [opened a tender on 21 September for a women-in-tech community platform, with Senegalese chapters in Dakar and Kaolack, and for the sourcing of 12 African and European ventures](https://www.enabel.be/app/uploads/2026/09/TZA25001-10031-_Consultancy-for-Development-of-a-Women-in-Tech-WiT-Community-Platform-and-EU-Africa-Venture-Sourcing.pdf), under a 2026-2028 programme covering Senegal, Uganda and Tanzania. No contract value is stated.
 
 ## Seychelles
 
@@ -166,6 +174,8 @@ A private channel opened alongside the state ventures programme. The leading mob
 
 A UN programme [put TZS 1.3bn into a fifth cohort of 14 businesses at Innovation Week and launched a platform matching innovators with investors](https://www.undp.org/tanzania/stories/9000-sparks-one-flame-inside-week-ignited-tanzanias-trillion-dollar-future), reporting over US$3m to innovators since 2021 on its own count.
 
+A Belgian-run programme covering Tanzania, Uganda and Senegal for 2026-2028 [tendered a women-in-tech community platform and the sourcing of 12 African and European ventures on 21 September](https://www.enabel.be/app/uploads/2026/09/TZA25001-10031-_Consultancy-for-Development-of-a-Women-in-Tech-WiT-Community-Platform-and-EU-Africa-Venture-Sourcing.pdf), bids closing 23 October; no budget is stated.
+
 ## Tunisia
 
 The startup framework reached for the diaspora. The Dot [opened applications for Dot Landing, a diaspora-entrepreneur programme targeting 30 to 45 founders across three cohorts by 2028](https://www.tunisie.fr/the-dot-lance-un-programme-dedie-aux-entrepreneurs-de-la-diaspora-tunisienne/). It is a pipeline programme with a target and no results yet; the record held carries no count of founders returned, companies incorporated or capital placed under it.
@@ -175,6 +185,8 @@ The startup framework reached for the diaspora. The Dot [opened applications for
 Three innovation programmes were opened or closed. The ICT institute [launched the fourth and final cohort of a Japan-supported entrepreneurship programme on 22 July with 83 student innovators](https://techafricanews.com/2026/07/22/uict-launches-fourth-uj-connect-cohort-to-build-ugandas-next-tech-startups/), publishing no cumulative startup, funding or job figure across the four batches. A [recurring fintech convening opened on 13 July](https://www.newvision.co.ug/category/business/makerere-innovation-incubation-center-afriven-NV_236970_072026). On 3 August the minister of state committed to [supporting commercialisation of innovations developed at the institute](https://techafricanews.com/2026/08/03/uganda-ict-ministry-backs-commercialisation-of-uict-innovations/), with no budget, instrument, target or timeline.
 
 The startup environment was assessed rather than funded. A continental alliance and the ICT ministry [validated a national digital entrepreneurship and innovation assessment at a Kampala workshop of public institutions, regulators, academia, entrepreneurs, hubs and support organisations, which named as priorities advancing the Startup Bill, strengthening science, technology and innovation policy, widening access to regulatory sandboxes and using public procurement to open markets to local startups](https://techafricanews.com/2026/08/31/smart-africa-uganda-reforms-digital-entrepreneurship/). The assessment text is not published and no reform is dated or budgeted.
+
+Belgium's development agency [opened a tender on 21 September for a women-in-tech community platform and the sourcing of 12 African and European ventures](https://www.enabel.be/app/uploads/2026/09/TZA25001-10031-_Consultancy-for-Development-of-a-Women-in-Tech-WiT-Community-Platform-and-EU-Africa-Venture-Sourcing.pdf), under a 2026-2028 programme covering Uganda, Tanzania and Senegal. No contract value is stated.
 
 ## Zambia
 

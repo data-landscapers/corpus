@@ -1,10 +1,10 @@
 ---
 title: Regional collaboration — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 subject: gov.regional
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COG; CIV; DJI; COD; EGY; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZWE
-record: 22077d99649d
+record: 71f99479aad3
 ---
 
 # Regional collaboration: monthly update, August – September 2026
@@ -15,7 +15,9 @@ record: 22077d99649d
 
 ## Algeria
 
-Algeria [signed as a founding member of a world artificial-intelligence organisation at Shanghai on 16 July](https://drive.google.com/file/d/1_UovYiTOhikpGJ7QiOUNQJsAoYu6xqw_/view), the digitalisation commissioner stating an intention to take an active role. The organisation is not named in anything held, and no accord text, ratification step or work programme is on file.
+Algeria [signed at Shanghai on 16 July as a founding member of a new world artificial-intelligence organisation](https://drive.google.com/file/d/1_UovYiTOhikpGJ7QiOUNQJsAoYu6xqw_/view), the digitalisation commissioner stating an intention to take an active role; no accord text, ratification step or work programme is on file. On 13 August the health ministry and the World Health Organization [signed a joint work plan for 2026-2027 naming innovation and digital health among its cooperation axes](https://afro.who.int/fr/countries/algeria/news/algerie-oms-signature-du-plan-de-travail-2026-2027), with no activity or budget under the digital axis published.
+
+With Niger, [the two prime ministers reaffirmed three trans-Saharan projects, among them the fibre-optic backbone, at talks in Algiers on 27 August](https://www.actuniger.com/politique/22305-cooperation-niamey-et-alger-reaffirme-leur-engagement-a-concretiser-les-projets-dintegration-africaine.html), and on 8 September Algérie Télécom's Skills Centers network [signed a convention with Niger's telecommunications and post college on infrastructure capacity and training](https://www.lesahel.org/cooperation-niger-telecom-algerie-telecom-un-partenariat-pour-renforcer-les-capacites-des-infrastructures-telecoms-du-niger/). No value, duration or trainee target is published for the convention.
 
 ## Angola
 
@@ -67,7 +69,7 @@ The [African Telecommunications Union's return to Kinshasa was ratified on 23 Ju
 
 ## Egypt
 
-Regional work this month was attendance rather than agreement. The communications ministry [took part in the second Arab artificial-intelligence summit at Hammamet from 7 to 10 September, organised by the Arab ICT organisation with the League of Arab States, working towards unified Arab positions on artificial-intelligence governance, digital sovereignty and data protection](https://fintechgate.net/251952). No instrument, declaration text or work programme came out of it that the repository holds.
+The communications ministry [took part in the second Arab artificial-intelligence summit at Hammamet from 7 to 10 September, organised by the Arab ICT organisation with the League of Arab States, working towards unified Arab positions on artificial-intelligence governance, digital sovereignty and data protection](https://fintechgate.net/251952). No instrument, declaration text or work programme from it is held.
 
 ## Eswatini
 
@@ -103,6 +105,8 @@ Guinea took the presidency of the regional audiovisual regulators' platform on 3
 ## Kenya
 
 The continental data convention still has no Kenyan signature behind it, but the repository can now say why. A policy brief prepared for the accession process records that [Kenya has neither signed nor ratified the Malabo Convention, that the Cabinet approved a process step towards accession in September 2025, that the data protection commissioner then led national consultations closing 6 October 2025, and that the Attorney-General had cleared the Convention before the process stalled twice on cabinet reshuffles](https://fra1.digitaloceanspaces.com/mzdocs/prod/media/publications/documents/2026/Building_a_Resilient_Kenya_.pdf); twenty African Union member states had ratified as at March 2026. A [high-level parliamentary dialogue on accession was called for 7 September 2026](https://posts.kictanet.or.ke/invitation-high-level-malabo-convention-dialogue-monday-7th-september-2026-4/). What has moved is the process, not the treaty position, and no instrument of accession is on the record. A peer-reviewed review of health-data governance in four countries [records only Rwanda as a signatory and finds all four frameworks fragmented, with weak harmonisation of cross-border transfers and capacity gaps](https://datascience.codata.org/articles/10.5334/dsj-2026-031).
+
+On 21 September the ICT cabinet secretary [proposed that willing African Union states jointly test one cross-border public service and report by February 2027](https://techreviewafrica.com/news/7426/), citing eCitizen and the interoperability framework. No state is on record as joining.
 
 ## Lesotho
 
@@ -173,6 +177,8 @@ Country consultations for a [regional artificial-intelligence framework were hel
 
 
 One piece of regional machinery moved from design into use. A continental alliance and a German development agency say [a digital identity issued in Rwanda, Ghana or Benin is now being recognised in the other two, with eighteen further countries said to be joining](https://www.giz.de/en/newsroom/storys/interview-herken-kone-smart-africa-digital-sovereignty). No scale, service, date or governing instrument is stated for any of it. The delegation also completed a [two-week learning mission to India on digital public infrastructure, concluded 7 September](https://www.undp.org/africa/press-releases/undps-aa4dpi-programme-deepens-south-south-cooperation-digital-public-infrastructure), alongside four other countries and African Union representatives.
+
+The country was [selected on 21 September to host the seventh UN World Data Forum, expected in the fourth quarter of 2028](https://radiotv10.rw/en/rwanda-has-been-selected-as-africas-second-un-world-data-forum-host/), the second African host after Cape Town in 2017.
 
 ## Senegal
 

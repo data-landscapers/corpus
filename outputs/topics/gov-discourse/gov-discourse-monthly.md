@@ -1,10 +1,10 @@
 ---
 title: Public debate and participation in policymaking — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 subject: gov.discourse
 places: AGO; BEN; BFA; CMR; CAF; TCD; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; MWI; MLI; MUS; MAR; NAM; NER; NGA; SEN; SYC; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 8314053a8762
+record: ae28c9b5b5e2
 ---
 
 # Public debate and participation in policymaking: monthly update, August – September 2026
@@ -63,7 +63,7 @@ The audiovisual and communications council and the press-freedom council [formal
 
 ## Egypt
 
-Two administrative reforms are stated and neither is dated. The head of the Council of State told circuit presidents the Council [continues to implement an integrated digital transformation plan](https://www.youm7.com/story/2026/8/3/%D8%B1%D8%A6%D9%8A%D8%B3-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D9%8A%D8%AA%D8%A7%D8%A8%D8%B9-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1-%D8%A7%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D9%8A-%D9%88%D9%8A%D8%A4%D9%83%D8%AF-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%86%D8%A9-%D8%A3%D8%B3%D8%A7%D8%B3-%D8%A7%D9%84%D8%B9%D8%AF%D8%A7%D9%84%D8%A9/7501770) to speed litigation, naming no system, date or deliverable — the only first-hand record that this branch has a digitisation programme at all. A [proposed cut of the VAT credit-refund period to four months, three for smaller firms](https://www.alborsaanews.com/2026/07/29/1982823), still awaits its legislative steps, and will not meet its objects while the problems obstructing proof of balances remain.
+The head of the Council of State told circuit presidents on 3 August that the Council [continues to implement an integrated digital transformation plan](https://www.youm7.com/story/2026/8/3/%D8%B1%D8%A6%D9%8A%D8%B3-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D9%8A%D8%AA%D8%A7%D8%A8%D8%B9-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1-%D8%A7%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D9%8A-%D9%88%D9%8A%D8%A4%D9%83%D8%AF-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%86%D8%A9-%D8%A3%D8%B3%D8%A7%D8%B3-%D8%A7%D9%84%D8%B9%D8%AF%D8%A7%D9%84%D8%A9/7501770) to speed litigation, naming no system, date or deliverable. It is the only first-hand record that this branch has a digitisation programme.
 
 ## Equatorial Guinea
 
