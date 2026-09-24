@@ -1,11 +1,11 @@
 ---
 title: Morocco — monthly update, August – September 2026
-compiled: 2026-09-18
-period: 2026-08-01 to 2026-09-18
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 place: MAR
 ledger_rows: 48
 not_held: 14
-record: 19dd1daf0767
+record: bb8189d868b9
 ---
 
 # Morocco: monthly update, August – September 2026
@@ -78,7 +78,7 @@ An operator and a vendor placed a dual-band radio configuration into commercial 
 The transitional reduction of mobile interconnection tariff asymmetry took effect on 1 July 2026, running to 31 January 2027, with full symmetry from 1 February 2027, recorded in the incumbent's own half-year filing ([operator filing](https://www.iam.ma/documents/66341/0/Maroc+Telecom+-+Rapport+financier+S1+2026+%282%29.pdf/261de29d-cee8-407f-1e28-dbb3a53f985f)).
 
 
-The vendor has since put figures on it: [roughly a kilometre of extra range, an 83% download-speed gain and 3.2 times more concurrent users per site](https://shore.africa/2026/08/12/inwi-partners-huawei/), against a regulator count of 19.4m mobile subscriptions and a 34.04% share for the operator at the end of March. The performance gains are the vendor's own.
+The vendor has since published figures for it: [roughly a kilometre of extra range, an 83% download-speed gain and 3.2 times more concurrent users per site](https://shore.africa/2026/08/12/inwi-partners-huawei/), against a regulator count of 19.4m mobile subscriptions and a 34.04% share for the operator at the end of March. The performance gains are the vendor's own.
 <!-- /narrative -->
 ### Data Storage
 

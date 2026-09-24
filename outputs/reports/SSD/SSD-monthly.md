@@ -1,11 +1,11 @@
 ---
 title: South Sudan — monthly update, August – September 2026
-compiled: 2026-09-18
-period: 2026-08-01 to 2026-09-18
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 place: SSD
-ledger_rows: 42
+ledger_rows: 43
 not_held: 12
-record: e0bda9861ef8
+record: 437bbd15e38c
 ---
 
 # South Sudan: monthly update, August – September 2026
@@ -122,6 +122,11 @@ Four months before the poll, the electoral register does not exist. After assess
 
 <!-- narrative: dpi--dpi-mis -->
 On 5 August the education ministry [launched an Education in Emergencies Management Information System on the DHIS2 platform](https://www.unesco.org/en/articles/south-sudan-launches-new-education-emergencies-data-system-strengthen-crisis-education-response) with UNESCO and the HISP Centre, funded by Education Cannot Wait, after training 35 master trainers; twelve County Education Departments have been equipped with solar power, computers and connectivity to feed it.
+<!-- /narrative -->
+### Other GovTech and e-Gov
+
+<!-- narrative: dpi--dpi-govtech -->
+Tax audit moved off paper on 21 September, when the revenue authority [launched an electronic tax audit module with support from Crawford Capital Pay, after its commissioner general banned manual audits by directive](https://jubaechotv.com.ss/ssra-launches-digital-tax-audit-system-to-strengthen-revenue-administration/). No count of the audits or taxpayer files it covers is published.
 <!-- /narrative -->
 
 ## Capacity
