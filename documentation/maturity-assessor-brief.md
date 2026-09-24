@@ -20,6 +20,8 @@ and one row per `## ` indicator in the packet. Nothing else goes in the file.
    - the rows hold a **primary figure of the stated definition**: a regulator's, a census, an audited count. Give `value`, `unit`, `value_year` and `value_source` (the raw slug, which carries its date), and cite the row in `stage_rows` if there is one. Or:
    - an anchor's **condition** decides the stage: stage 5's end state, or a compound anchor that holds the stage below the band. Give the `stage` and say why in `qualifier`. The figure may be left empty, and the script then fills in Corpus's or the reference figure shown in the packet.
 
+   **A value is a figure a source states, never a count you make of the rows held.** The base holds what it has read, not everything that exists: one cable row does not mean one cable. **A figure on a different base is not the value.** Ages 5+ is not all ages, and subscriptions are not users. Put it in `qualifier` and leave the measure unplaced (empty stage and value) unless a figure of the stated definition is held.
+
    Otherwise leave the measure out. The script takes the reference figure at its band, or marks it *No evidence*. The stage may not exceed the band the figure falls in; the script refuses one that does. A figure of a different definition goes in `qualifier`, never in `value`.
 8. **`next_milestone`, `due`**: only when a cited instrument itself states a dated target (e.g. *approval of the AI law*, `2028-12-31`). Otherwise leave both empty. Never invent a date.
 9. **`reassessed`**: `0`. **`cause`**: empty. Both are for later snapshots.
