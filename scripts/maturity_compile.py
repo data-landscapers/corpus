@@ -48,6 +48,9 @@ DC_NATIONAL = "infra.store--local-data-centre-capacity-national-providers"
 
 PRIVATE = {"Private Sector", "Fund", "PPP"}
 COUNTED_STATUS = {"Active", "Approved", "Closed"}
+# An equity round is reported when it closes, so one whose status the compile left Unknown is
+# still money that moved (CC, 2026-09-24, from SYC's Fusepay round). A loan or a grant of unknown
+# status may be a pipeline announcement, and stays out.
 NOT_INSTRUMENT = {"MoU", "Unknown"}
 MULTI_TENANT = {"Colocation/carrier-neutral", "Hyperscale"}
 NATIONAL = {"Government / SOE", "Private domestic", "Joint venture (majority domestic)", "PPP"}
@@ -106,7 +109,8 @@ def mobilise(unit: str, as_at: dt.date, live_from: dt.date) -> dict | None:
         return None
     years = {as_at.year - 2, as_at.year - 1, as_at.year}
     counted = [r for r in rows
-               if r["beneficiary_type"] in PRIVATE and r["status"] in COUNTED_STATUS
+               if r["beneficiary_type"] in PRIVATE
+               and (r["status"] in COUNTED_STATUS or r["status"] == "Unknown" and r["instrument"] == "Equity")
                and r["instrument"] not in NOT_INSTRUMENT and r["start_year"].strip().isdigit()
                and int(r["start_year"]) in years and _seen(_date(r["record"]), as_at, live_from)]
     total = sum(float(r["commitment_usd_m"] or 0) for r in counted) * 1e6
