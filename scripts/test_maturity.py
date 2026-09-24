@@ -180,7 +180,7 @@ ma.rubric = lambda: FIX_RUBRIC
 # The measure bands on fixed cuts 5 / 10 / 20 (US$m, higher is better), stage 5 a condition.
 FIX_SPEC = {MEAS: {"indicator_id": MEAS, "method": "fixed", "direction": "higher",
                    "cuts": [5.0, 10.0, 20.0], "provisional": "0", "value": "", "unit": "US$m"}}
-ma.measures = lambda: FIX_SPEC
+ma.measures = lambda *a: FIX_SPEC
 JUL, AUG = dt.date(2026, 7, 31), dt.date(2026, 8, 31)
 LEDGER = [
     ("XXX-gov.policy-strategy", "2026-05-01-strategy-drafted"),
@@ -563,6 +563,21 @@ try:
     check("and lint agrees", fails_on(root), "")
 finally:
     shutil.rmtree(tmp, ignore_errors=True)
+
+
+print("\nmeasures: the Africa quintiles")
+figs = [float(x) for x in range(1, 21)]                    # 20 figures, 1..20
+up3 = {"indicator_id": "x", "direction": "higher", "cuts": [1.0, 2.0, 3.0], "cut_note": "provisional"}
+check("three cuts: the bottom three quintiles", ma.quintile_cuts(up3, figs), [4.8, 8.6, 12.4])
+up4 = {**up3, "cuts": [1.0, 2.0, 3.0, 95.0], "cut_note": "provisional for stages 2–4"}
+check("'for stages 2–4' keeps the norm's stage-5 number", ma.quintile_cuts(up4, figs)[3], 95.0)
+down = {**up3, "direction": "lower"}
+check("lower is better: counted from the worst end", ma.quintile_cuts(down, figs), [16.2, 12.4, 8.6])
+check("fewer than fifteen figures: none", ma.quintile_cuts(up3, figs[:14]), None)
+mob = {**up3, "indicator_id": "finance.new--mobilisation-of-non-state-finance",
+       "cuts": [0.001, 0.02, 0.1, 0.25]}
+check("non-state: cut over the non-zero figures",
+      ma.quintile_cuts(mob, [0.0] * 30 + figs), ma.quintile_cuts({**mob, "indicator_id": "y"}, figs))
 
 print()
 print("all cases pass" if not fails else f"{len(fails)} of the cases FAILED")

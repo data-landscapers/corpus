@@ -78,11 +78,12 @@ def unit_checks(unit: str, reports: Path = ma.REPORTS) -> dict[str, list[str]]:
         return {}
     frame = {r["indicator_id"]: r for r in indicators_lib.frame()}
     led = ma.ledger(reports, unit)
-    rub, spec = ma.rubric(), ma.measures()
+    rub = ma.rubric()
     bad: dict[str, list[str]] = {k: [] for k in "NOPQS"}
     prev_at, prev = None, {}
     for at, snap in eds:
         tag = f"{at:%Y-%m}"
+        spec = ma.measures(at)      # the cuts in force at this edition, quintiles included
         for iid, r in snap.items():
             f = frame.get(iid)
             st = (r.get("stage") or "").strip()

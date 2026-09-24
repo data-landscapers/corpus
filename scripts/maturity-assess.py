@@ -85,6 +85,12 @@ RUBRIC = CORPUS / "lookups" / "maturity-rubric.csv"
 NORMS = CORPUS / "lookups" / "maturity-norms.csv"
 # The measures' specifications, cut from `maturity-rubric.md` (C3): method, direction and cuts.
 MEASURES = CORPUS / "lookups" / "maturity-measures.csv"
+# The quintile cuts actually taken: one row per measure per cut (the baseline, then each July),
+# kept beside the draft-cut measures lookup so that lookup stays the draft's and a past snapshot's
+# cuts stay reproducible.
+QUINTILES = CORPUS / "lookups" / "maturity-quintiles.csv"
+QUINTILE_FIELDS = ("indicator_id", "cut_as_at", "figures", "cuts")
+MIN_FIGURES = 15
 # The reference figures, one per unit and measure and release, pulled by C5.
 REFERENCE = CORPUS / "reference" / "measures.csv"
 # The first live snapshot (§7). The two before it are taken retrospectively "with what the base
@@ -163,15 +169,24 @@ def norms() -> dict[str, dict]:
     return {r["indicator_id"].strip(): r for r in read_csv(NORMS)[1]}
 
 
-def measures() -> dict[str, dict]:
-    """{indicator_id: {method, direction, cuts: [float], ...}}; empty until the lookup is cut."""
+def measures(as_at: dt.date | None = None) -> dict[str, dict]:
+    """{indicator_id: {method, direction, cuts: [float], ...}}; empty until the lookup is cut.
+
+    With an as-at, a quintile row takes the latest cut in `maturity-quintiles.csv` on or before it
+    in place of its provisional cuts, and `cut_as_at` says which."""
     if not MEASURES.exists():
         return {}
     out = {}
     for r in read_csv(MEASURES)[1]:
         r = {k: (v or "").strip() for k, v in r.items()}
         r["cuts"] = [float(c) for c in r["cuts"].split("|") if c.strip()]
+        r["cut_as_at"] = ""
         out[r["indicator_id"]] = r
+    if as_at and QUINTILES.exists():
+        for q in sorted(read_csv(QUINTILES)[1], key=lambda q: q["cut_as_at"]):
+            if q["indicator_id"] in out and dt.date.fromisoformat(q["cut_as_at"]) <= as_at:
+                out[q["indicator_id"]]["cuts"] = [float(c) for c in q["cuts"].split("|")]
+                out[q["indicator_id"]]["cut_as_at"] = q["cut_as_at"]
     return out
 
 
@@ -290,6 +305,87 @@ def due_at(unit_view: dict[str, dict], led: dict[str, dict], as_at: dt.date,
 
 
 # ---------------------------------------------------------------------------------------------
+# cut: the Africa quintiles
+
+def quintile_cuts(spec: dict, figures: list[float]) -> list[float] | None:
+    """The row's cuts from the figures, or None where fewer than `MIN_FIGURES` hold one.
+
+    Quintiles replace as many cuts as the provisional line has, from the bottom: three cuts put
+    the top two quintiles on stage 4, four give the top quintile its own band. A row whose
+    provisional line says *for stages 2–4* keeps its stage-5 number, which is the norm's (95 %
+    ownership, parity). A lower-is-better row counts its quintiles from the worst end. The
+    non-state row is cut over its non-zero figures, and zero stays stage 1 (C3)."""
+    if spec["indicator_id"] == "finance.new--mobilisation-of-non-state-finance":
+        figures = [f for f in figures if f > 0]
+    if len(figures) < MIN_FIGURES:
+        return None
+    import statistics
+    q = statistics.quantiles(figures, n=5, method="inclusive")         # q20, q40, q60, q80
+    keep_top = "stages 2–4" in spec.get("cut_note", "") or "stages 2-4" in spec.get("cut_note", "")
+    n = 3 if keep_top else len(spec["cuts"])
+    new = (q if spec["direction"] == "higher" else q[::-1])[:n]
+    cuts = [round(c, 4) for c in new] + (spec["cuts"][3:] if keep_top else [])
+    order = cuts if spec["direction"] == "higher" else [-c for c in cuts]
+    return cuts if order == sorted(order) else None
+
+
+def figures_at(as_at: dt.date, verdicts_dir: Path | None, ref_path: Path | None = None,
+               units: list[str] | None = None) -> dict[str, dict[str, float]]:
+    """{indicator_id: {unit: value}}: the figure each unit carries as at the date, in the order
+    the assessment takes it: a drafter's verdict, Corpus's compile, the reference."""
+    units = units or sorted(p.name for p in REPORTS.iterdir()
+                            if (p / "indicators.csv").exists() and not p.name.startswith("X"))
+    out: dict[str, dict[str, float]] = {}
+    for u in units:
+        mine = {}
+        vf = verdicts_dir / f"{u}-{as_at:%Y-%m}.csv" if verdicts_dir else None
+        if vf and vf.exists():
+            mine = {r["indicator_id"]: r for r in read_csv(vf)[1] if (r.get("value") or "").strip()}
+        comp = maturity_compile.compiled(u, as_at, LIVE_FROM)
+        ref = reference(u, as_at, ref_path)
+        for iid in set(mine) | set(comp) | set(ref):
+            src = mine.get(iid) or comp.get(iid) or ref.get(iid)
+            try:
+                out.setdefault(iid, {})[u] = float(src["value"])
+            except (TypeError, ValueError):
+                pass
+    return out
+
+
+def cut(as_at: dt.date, verdicts_dir: Path | None, write: bool) -> list[str]:
+    if (as_at.month, as_at.day) != (7, 31):
+        raise SystemExit("quintiles are cut at the baseline and recut each July: --as-at YYYY-07-31")
+    spec = measures()
+    figs = figures_at(as_at, verdicts_dir)
+    lines, rows = [], []
+    for iid, sp in spec.items():
+        if sp["method"] != "quintiles":
+            continue
+        vals = sorted(figs.get(iid, {}).values())
+        cuts = quintile_cuts(sp, vals)
+        if cuts is None:
+            lines.append(f"{iid}: {len(vals)} figure(s); provisional cuts stand "
+                         f"({' · '.join(f'{c:g}' for c in sp['cuts'])})")
+            continue
+        dist = {}
+        for v in vals:
+            b = band(v, {**sp, "cuts": cuts})
+            dist[b] = dist.get(b, 0) + 1
+        lines.append(f"{iid}: {len(vals)} figures; cuts {' · '.join(f'{c:g}' for c in cuts)}; "
+                     f"bands {dict(sorted(dist.items()))}")
+        rows.append({"indicator_id": iid, "cut_as_at": as_at.isoformat(), "figures": len(vals),
+                     "cuts": "|".join(f"{c:g}" for c in cuts)})
+    if write:
+        kept = [r for r in (read_csv(QUINTILES)[1] if QUINTILES.exists() else [])
+                if r["cut_as_at"] != as_at.isoformat()]
+        with open(QUINTILES, "w", encoding="utf-8", newline="") as fh:
+            w = csv.DictWriter(fh, fieldnames=QUINTILE_FIELDS, lineterminator="\n")
+            w.writeheader()
+            w.writerows(sorted(kept + rows, key=lambda r: (r["cut_as_at"], r["indicator_id"])))
+    return lines
+
+
+# ---------------------------------------------------------------------------------------------
 # packet
 
 def packet(unit: str, as_at: dt.date, reports: Path = REPORTS, ref_path: Path | None = None) -> str:
@@ -297,7 +393,7 @@ def packet(unit: str, as_at: dt.date, reports: Path = REPORTS, ref_path: Path | 
     if view is None:
         raise SystemExit(f"{unit}: no indicators.csv — the mapping pass has not reached this unit")
     led = ledger(reports, unit)
-    rub, nrm, spec = rubric(), norms(), measures()
+    rub, nrm, spec = rubric(), norms(), measures(as_at)
     ref = reference(unit, as_at, ref_path)
     comp = maturity_compile.compiled(unit, as_at, LIVE_FROM)
     prev_at, prev = prior_snapshot(reports, unit, as_at)
@@ -459,7 +555,7 @@ def apply(unit: str, as_at: dt.date, verdicts: Path, replace: bool = False,
     if view is None:
         raise Refused(f"{unit}: no indicators.csv")
     led = ledger(reports, unit)
-    rub, spec = rubric(), measures()
+    rub, spec = rubric(), measures(as_at)
     ref = reference(unit, as_at, ref_path)
     comp = compile_fn(unit, as_at, LIVE_FROM)
     frame = {r["indicator_id"]: r for r in indicators_lib.frame()}
@@ -500,6 +596,11 @@ def apply(unit: str, as_at: dt.date, verdicts: Path, replace: bool = False,
             if auto:
                 ceiling = band(float(auto["value"]), spec[iid])
                 auto["stage"] = str(min(int(auto.get("stage") or 4), ceiling, 4))
+                # A July recut moves a stage with no new figure behind it: that is a rubric
+                # change, flagged `reassessed`, never a country's movement (§5).
+                if (spec[iid].get("cut_as_at") == as_at.isoformat() and iid in prev
+                        and prev[iid].get("stage") != auto["stage"]):
+                    auto["reassessed"] = "1"
                 got[iid] = auto
             elif iid in prev:
                 got[iid] = {k: prev[iid].get(k, "") for k in VERDICT_FIELDS}
@@ -581,6 +682,10 @@ def write_current(reports: Path, unit: str, staged: dict[str, dict]) -> None:
 def main(argv=None) -> int:
     ap = argparse.ArgumentParser(description=__doc__.split("\n\n")[0])
     sub = ap.add_subparsers(dest="cmd", required=True)
+    c = sub.add_parser("cut", help="cut the Africa quintiles as at a 31 July")
+    c.add_argument("--as-at", required=True)
+    c.add_argument("--verdicts-dir", help="the drafted verdicts, {UNIT}-{YYYY-MM}.csv")
+    c.add_argument("--write", action="store_true")
     for name in ("packet", "apply"):
         s = sub.add_parser(name)
         s.add_argument("unit")
@@ -594,6 +699,12 @@ def main(argv=None) -> int:
     sys.stdout.reconfigure(encoding="utf-8")
     sys.stderr.reconfigure(encoding="utf-8")
     as_at = month_end(a.as_at)
+    if a.cmd == "cut":
+        for line in cut(as_at, Path(a.verdicts_dir) if a.verdicts_dir else None, a.write):
+            print(line)
+        print(f"{'written to' if a.write else 'dry run; --write to record in'} "
+              f"lookups/maturity-quintiles.csv")
+        return 0
     unit = a.unit.upper()
     if a.cmd == "packet":
         text = packet(unit, as_at)
