@@ -1,11 +1,11 @@
 ---
 title: Seychelles — monthly update, August – September 2026
-compiled: 2026-09-16
-period: 2026-08-01 to 2026-09-16
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 place: SYC
-ledger_rows: 22
+ledger_rows: 23
 not_held: 6
-record: 37904b03b8f8
+record: 194b4d6bb295
 ---
 
 # Seychelles: monthly update, August – September 2026
@@ -18,6 +18,8 @@ record: 37904b03b8f8
 The month's clearest movement is backwards, and it is about the press. An Afrobarometer dispatch published on 11 August [found perceived media freedom down since the previous round, two months after Parliament amended the broadcasting statute to move appointment and dismissal power over the public broadcaster's board](https://www.afrobarometer.org/publication/ad1219-seychellois-endorse-medias-oversight-role-but-many-doubt-that-it-is-truly-free/); the same dispatch is the repository's first reading of public support for access to government information.
 
 The rest is institutional. The national science, technology and innovation institute [was reinstated with its secretariat under the Office of the Vice-President](https://statehouse.gov.sc/news/7184/president-herminie-science-technology-and-innovation-belong-at-the-centre-of-a-people-centred-society), and the President [restated the fully-digitalised-government-by-2030 target](https://statehouse.gov.sc/news/7165/president-herminie-receives-credentials-from-maltas-first-high-commissioner-to-seychelles) with no plan or milestone attached to it. Two systems advanced: [a social-protection delivery platform, with stakeholders briefed on 18 August](https://nation.sc/articles/31959/asp-connect-modernises-social-protection-delivery), and [a small-island resilience data programme, whose national implementation launched the same day](https://nation.sc/articles/31975/seychelles-advances-climate-resilience). Bilateral consultations with India on adopting its health and office platforms [are reported as advancing](https://www.firstpost.com/opinion/beyond-broad-pledges-indias-tech-sovereignty-push-in-africa-and-asean-14036875.html), with nothing signed.
+
+One new financing arrived: the African Development Bank [approved a USD 34 million budget-support loan on 22 September](https://www.afdb.org/en/news-and-events/press-releases/seychelles-african-development-bank-approves-34-million-loan-strengthen-public-services-private-sector-growth-and-climate-resilience-96998) that names electronic invoicing and a national e-procurement system among its reforms.
 <!-- /narrative -->
 
 ## Governance
@@ -51,6 +53,14 @@ The department that would write government-wide standards restated its mandate r
 [Parliament amended the Seychelles Broadcasting Corporation Act in June 2026](https://www.afrobarometer.org/publication/ad1219-seychellois-endorse-medias-oversight-role-but-many-doubt-that-it-is-truly-free/), transferring greater power over the appointment and dismissal of the public broadcaster's board from the independent Constitutional Appointments Authority to the President. The repository holds no primary text of the amendment; what it holds is Afrobarometer's August dispatch, which reports it citing Broadcast Media Africa and the International Press Institute, and sets it against the survey it was publishing.
 
 That survey, fielded in 2025, finds [45% of Seychellois calling the media somewhat or completely free, down from 51% in 2022, with 52% saying it is not very or not at all free](https://www.afrobarometer.org/publication/ad1219-seychellois-endorse-medias-oversight-role-but-many-doubt-that-it-is-truly-free/) — a decline recorded on a media environment that Reporters Without Borders ranked 35th globally in 2026, up ten places. Appetite for oversight is not in doubt: [78% want the media to investigate government mistakes and corruption constantly, and 85% back the right to publish without government interference](https://www.afrobarometer.org/publication/ad1219-seychellois-endorse-medias-oversight-role-but-many-doubt-that-it-is-truly-free/).
+<!-- /narrative -->
+
+## Finance
+
+### New investments
+
+<!-- narrative: finance--finance-new -->
+The African Development Bank [approved a USD 34 million loan on 22 September for the third and final phase of its Economic Resilience and Green Recovery Support Programme, taking its financing across the three phases to USD 84 million](https://www.afdb.org/en/news-and-events/press-releases/seychelles-african-development-bank-approves-34-million-loan-strengthen-public-services-private-sector-growth-and-climate-resilience-96998). It is budget support spanning public financial management, the business environment and climate resilience; its named digital reforms are electronic invoicing for tax compliance, a national e-procurement system and a one-stop investment portal, and no digital share is stated.
 <!-- /narrative -->
 
 ## DPI

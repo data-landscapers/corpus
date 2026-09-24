@@ -1,11 +1,11 @@
 ---
 title: Libya — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 place: LBY
-ledger_rows: 56
+ledger_rows: 58
 not_held: 2
-record: 133fbac1d88a
+record: 11b96cd2345a
 ---
 
 # Libya: monthly update, August – September 2026
@@ -51,6 +51,14 @@ On 2 August the Municipal Guard's Investigation and Information Gathering Office
 The committee behind the national information system spent its sixth meeting fixing its own composition. Meeting in Tripoli on 1 September it [reviewed financial indicators and settled its membership rules, tying permanent seats to the office of director of an information and documentation centre and requiring a written letter for a proxy](https://www.gia.gov.ly/en/2026/09/06/during-its-sixth-regular-meeting-in-tripoli-the-high-technical-committee-for-the-national-information-system-reviewed-financial-indicators-and-established-rules-for-membership-and-future-work/). Its mandate, its published output and the indicators it reviewed are not held — what is established is that it meets, and now who sits on it.
 <!-- /narrative -->
 
+## Finance
+
+### Domestic budget appropriations and expenditure
+
+<!-- narrative: finance--finance-budget -->
+The central bank's [statement for January to August 2026 puts spending on the communications authority and its affiliates at LYD 25.2m, all of it salaries and operating costs and nothing in the development chapter, against state outlay of LYD 68.8bn](https://cbl.gov.ly/micifaf/2026/05/%D8%A8%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D8%AF-%D9%88%D8%A7%D9%84%D8%A5%D9%86%D9%81%D8%A7%D9%82-%D9%84%D8%B4%D9%87%D8%B1-%D8%A3%D8%BA%D8%B3%D8%B7%D8%B3-2026-4.pdf). The August salaries are not yet in it, and the unified 2026 budget it executes against is not in the repository, so no digital appropriation for the year can be read.
+<!-- /narrative -->
+
 ## ICT Infrastructure
 
 ### Connectivity
@@ -73,7 +81,7 @@ The utility [fired the first of four units at a new South Tripoli plant on 28 Au
 ### Technical Capacity
 
 <!-- narrative: ict-infrastructure--infra-capacity -->
-The regulator's move to license data centres and cloud services is still at workshop stage, [with storage firms operating unpermitted when it was floated in February](https://lana.gov.ly/post.php?id=351103&lang=ar). What arrived instead is a private certification: [tier III design status for the national telecom company's KM-4 site](https://uptimeinstitute.com/component/tierachievement/datacenter/km4-data-center-/2041?Itemid=). Certification by a foreign body is standing in for a domestic licence that does not yet exist.
+The regulator's move to license data centres and cloud services is still at workshop stage, [with storage firms operating unpermitted when it was floated in February](https://lana.gov.ly/post.php?id=351103&lang=ar). What arrived instead is a private certification: [tier III design status for the national telecom company's KM-4 site](https://uptimeinstitute.com/component/tierachievement/datacenter/km4-data-center-/2041?Itemid=). Certification by a foreign body is standing in for a domestic licence that does not yet exist. Inside government, the technical and vocational education ministry said its own information systems section had [rebuilt its electronic archiving system, with operator training due from 28 September](https://lana.gov.ly/post.php?id=366096&lang=ar).
 <!-- /narrative -->
 ### Cybersecurity
 

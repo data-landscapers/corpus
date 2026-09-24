@@ -1,11 +1,11 @@
 ---
 title: Mauritius — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 place: MUS
-ledger_rows: 44
+ledger_rows: 45
 not_held: 7
-record: 3c13d59fce2e
+record: c4a2c0422add
 ---
 
 # Mauritius: monthly update, August – September 2026
@@ -136,6 +136,8 @@ A smaller service went live rather than being provided for. On 18 August the tra
 A smaller service is being taken online with its own figures attached: commercial-weighing oversight, which [verified 12,412 measuring instruments across 4,971 businesses and inspected 4,974 shops in 2025-2026, is moving bookings, payments and certificates onto a new platform](https://maurice-info.mu/2026/08/10/numerisation-des-services-de-metrologie-a-maurice.html). No go-live date or cost is stated.
 
 Cabinet [took note of a plan to consolidate the government portal and the separate official websites into a single citizen-centred platform](http://topfm.mu/portail-gouvernemental-une-plateforme-numerique-unique-et-personnalisee-en-preparation). Taking note is not approval, and no budget, supplier or delivery date accompanies it.
+
+The environment ministry [made online filing of Waste Carrier Licence applications through the Economic Development Board platform compulsory from October](https://fr.allafrica.com/stories/202609220486.html), for individuals, firms, parastatals, local authorities and ministries alike; an online submission does not itself authorise transport.
 <!-- /narrative -->
 
 ## Digitalisation

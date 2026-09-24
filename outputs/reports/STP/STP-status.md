@@ -1,6 +1,6 @@
 ---
 title: Sao Tome and Principe: status report
-compiled: 2026-09-16
+compiled: 2026-09-24
 place: STP
 region: XWA
 built_by: STATUS-INIT
@@ -237,7 +237,7 @@ Routine capture at the point of service is still paper. A 2023 WHO assessment of
 
 What stands behind that is physical. Rural households [reach electricity at a materially lower rate than urban ones](https://data.worldbank.org/indicator/EG.ELC.ACCS.UR.ZS?locations=ST) (2023), and the national energy compact rests near-term rural supply on [an off-grid policy and a planned mini-grid rollout](https://thedocs.worldbank.org/en/doc/680a427c0554b887598d86080fdcc775-0010012025/original/Sao-Tome-National-Energy-Compact-Mission-300.pdf). Reach is thinner again off the main island, where [the Principe submarine cable supply contract was still unsigned and the schools targeted for new broadband had yet to benefit](https://documents1.worldbank.org/curated/en/099102025185019928/pdf/P177158-b0ee36fd-86ba-4e5c-96a3-d291d6d35813.pdf) (September 2025). Where capture has to happen regardless, the equipment travels with it: the free identity card brigade [works remote localities off-grid on a satellite link and a portable generator](https://www.telanon.info/sociedade/2026/01/22/51507/campanha-de-atribuicao-gratuita-do-bilhete-de-identidade-iniciou-se-no-ilheu-das-rolas-e-decorre-em-porto-alegre/) (January 2026), and a teleconsultation service opened in [the underserved district of Caue](https://rstp.st/2026/06/15/stp-lanca-plataforma-de-teleconsulta-com-medicos-brasileiros-para-reforcar-cuidados-de-saude-em-caue/) (June 2026).
 
-The governance side has moved the wrong way. The Ibrahim Index scores the [Rural Economy sub-category at 49.3 out of 100 in 2023, 37th of 54 African states and 5.0 points below its 2014 level](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-st.pdf); its Rural Representation and Participation indicator, drawn from IFAD data on how far rural populations are represented in decisions that affect them, [fell 20.6 points over the same decade to 49.0, the fifth most deteriorated of the country's 96 indicators](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-st.pdf).
+The governance side has fallen back. The Ibrahim Index scores the [Rural Economy sub-category at 49.3 out of 100 in 2023, 37th of 54 African states and 5.0 points below its 2014 level](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-st.pdf); its Rural Representation and Participation indicator, drawn from IFAD data on how far rural populations are represented in decisions that affect them, [fell 20.6 points over the same decade to 49.0, the fifth most deteriorated of the country's 96 indicators](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-st.pdf).
 
 ## Technology
 

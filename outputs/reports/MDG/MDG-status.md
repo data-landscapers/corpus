@@ -1,15 +1,15 @@
 ---
 title: Madagascar: status report
-compiled: 2026-09-15
+compiled: 2026-09-24
 place: MDG
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-02
 intersections_read: 25
-sources_cited: 199
+sources_cited: 201
 sections_written: 37
 not_established: 3
-acquire_lines: 25
+acquire_lines: 27
 ---
 ## Governance
 
@@ -118,7 +118,7 @@ Connectivity takes the largest share of the money committed, ahead of energy acc
 ### Connectivity
 <!-- infra.connect -->
 
-The state's telecommunications and ICT development fund stands recommended for a full stop on payments: the Cour des comptes found unjustified expenditure, untraceable equipment, missing supporting documents and a suspected conflict of interest at the FDTIC, and [asked that all disbursements be suspended pending an overhaul of its legal framework and an independent manager](https://ccomptes.mg/uploads/AUDIT-DU-MNDPT1774881345.pdf) (March 2026).
+The state's telecommunications and ICT development fund stands recommended for a full stop on payments: the Cour des comptes found unjustified expenditure, untraceable equipment, missing supporting documents and a suspected conflict of interest at the FDTIC, and [asked that all disbursements be suspended pending an overhaul of its legal framework and an independent manager](https://ccomptes.mg/uploads/AUDIT-DU-MNDPT1774881345.pdf) (March 2026). The regulator has since [posted the fund's financial statements for 2025](https://www.artec.mg/wp-content/uploads/2026/09/FDTIC-2025-Rapport-EF-fin.pdf), with those for 2024, on its fund-audit page (September 2026).
 
 Domestic interconnection is close to non-existent. [One exchange point, MGIX, is active, with four members, and under 1% of the country's networks are reachable through an exchange point, against 65% for Africa as a whole](https://pulse.internetsociety.org/en/ixp-tracker/country/MG/) (February 2026); the same measurement puts internet resilience at 41 out of 100. MGIX had been suspended since 2019 until [the Internet Society Foundation gave the research network iRENALA USD 49,958 to restart it](https://www.isocfoundation.org/2025/01/meet-the-new-grantees-improving-peering-and-interconnection-around-the-globe/) (January 2025).
 
@@ -218,6 +218,8 @@ The household registry that was meant to underpin the rest has been audited and 
 Underneath, civil registration is only part-digitised. [Around two-thirds of civil registration offices had no stable internet access in 2023, and an offline application was being designed to register births and assign identification numbers where connectivity fails](https://blogs.worldbank.org/en/nasikiliza/legal-identity-all-what-can-madagascar-learn-namibia). [Digitisation under SIECM had reached 336 communes — 40% of its target — and 61,892 birth certificates linked to a unique identification number as at December 2025](https://documents1.worldbank.org/curated/en/099121925094025414/txt/P169413-92234883-0626-410f-a2c4-c2b2e93265f7.txt), while [the e-Fokontany household census had covered 5.09 million households and 19.7 million provisional identifiers by the same date](https://documents1.worldbank.org/curated/en/099121925094025414/txt/P169413-92234883-0626-410f-a2c4-c2b2e93265f7.txt). [Eighty per cent of children were registered with the civil-status service in 2025](https://instat.mg/p/enquete-par-grappes-a-indicateurs-multiples-mics-7-2025).
 
 The social registry is being overtaken by the identity campaign that was supposed to depend on it: [its technical committee met on 5 February 2026, named data quality and security the strategic priority and set a September 2026 completion target](https://prea.gov.mg/prea/rsu-reunion-du-comite-technique-une-etape-cle-pour-la-poursuite-du-projet/), and [the designed linkage to the identity system for safety-net targeting and against double-dipping is not operational](https://www.worldbank.org/en/news/press-release/2023/02/06/madagascar-to-expand-access-to-social-protection-for-extremely-poor-households-thanks-to-250-million-in-world-bank-finan). On land, [only around 7% of the country is formally titled](https://tenuresecurity.org/country-profile/madagascar/), [1,518,000 local land certificates had been registered as at October 2024](https://newsmada.com/2024/10/31/nouveau-pnf-ii-1-518-000-certificats-fonciers-enregistres/), and [the National Land Programme's own 2026 documentation confirms that no single integrated national land information system or cadastral database yet exists](https://observatoire-territoire.mg/publications/programme-national-foncier-ii/). [The electoral commission is rebuilding the voter register in digital form under Decree No. 2026-942 of April 2026, using household enrolment, online pre-registration and automated duplicate detection, for completion by April 2027](https://www.ceni-madagascar.mg/election/). [The Gendarmerie is building a new secure digital Fichier Central with UNDP support, replacing records dispersed across judicial, administrative and military functions, with fingerprint comparison and facial recognition in its planned feature set](https://www.undp.org/fr/madagascar/blog/quand-le-numerique-renforce-letat-de-droit-le-nouveau-fichier-central-de-la-gendarmerie-transforme-les-enquetes-madagascar).
+
+The newest register is fiscal. [A central register of beneficial owners, launched by the tax directorate on 16 June 2026, moved into operation on 18 September when four protocols were signed to cross-match it with the trade and companies register, the anti-corruption bureau, the economic development board and the chamber of notaries](https://www.2424.mg/transparence-le-rcbe-entre-dans-sa-phase-dexploitation-avec-le-croisement-des-donnees).
 
 ### Sectoral management information systems
 <!-- dpi.mis -->

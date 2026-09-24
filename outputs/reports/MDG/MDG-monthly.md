@@ -1,11 +1,11 @@
 ---
 title: Madagascar — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 place: MDG
-ledger_rows: 39
+ledger_rows: 41
 not_held: 5
-record: 08a41379fd35
+record: 44f93fa4259d
 ---
 
 # Madagascar: monthly update, August – September 2026
@@ -78,6 +78,8 @@ On 3 August MVola's new director general [gave the first account of the platform
 The social registry [reached about 2.7 million households, nearly 12 million people, with eight districts added to the 20 already surveyed](https://newsmada.com/2026/09/10/protection-sociale-le-rsu-elargit-son-filet/).
 
 On National Identity Day a second phase of the Izaho Tokana 2.0 registration drive opened, answering [a 2025 survey finding that close to 20 per cent of children under five hold no birth certificate](https://midi-madagasikara.mg/etat-civil-le-projet-de-loif-en-renfort-d-izaho-tokana-2-0/). The same week [the first 124 cooperatives received biometric cards under a national cooperative census](https://midi-madagasikara.mg/societes-cooperatives-124-structures-dotees-de-cartes-biometriques-a-analamanga/).
+
+The beneficial-owner register [moved into operation on 18 September, when the tax directorate signed four protocols to cross-match it with the trade and companies register, the anti-corruption bureau, the economic development board and the chamber of notaries](https://www.2424.mg/transparence-le-rcbe-entre-dans-sa-phase-dexploitation-avec-le-croisement-des-donnees).
 <!-- /narrative -->
 ### Sectoral management information systems
 
@@ -127,6 +129,11 @@ The digital ministry [received 259 applications by 1 August 2026 for ten establi
 The month's only market measurement came from an operator: MVola's director general put the whole Malagasy mobile-money market at [six to seven million active users against a population of about thirty million, with rural areas under-served](https://www.lexpress.mg/2026/08/alexandre-castel-directeur-general-de.html), and set doubling or tripling that as the five-to-ten-year test.
 
 A postal microfinance institution [launched 12-month laptop credit for 1,400 master's students in September, funded from the connectivity project](https://newsmada.com/2026/09/08/projet-pilote-laptop-facilitation-de-lacces-aux-outils-numeriques/).
+<!-- /narrative -->
+### Digital divides
+
+<!-- narrative: inclusion--include-divides -->
+The telecoms regulator [posted the 2025 financial statements of the telecoms and ICT development fund](https://www.artec.mg/wp-content/uploads/2026/09/FDTIC-2025-Rapport-EF-fin.pdf), the universal-service fund it manages, alongside those for 2024. They follow a Cour des comptes audit that asked for all the fund's disbursements to be suspended; whether an auditor's opinion accompanies the statements is not established.
 <!-- /narrative -->
 
 ## Data
