@@ -159,6 +159,165 @@ try:
 finally:
     shutil.rmtree(tmp, ignore_errors=True)
 
+
+# ---------------------------------------------------------------------------------------------
+# The assessor (D1) and the as-at and stability rules (D2), on a fixture unit over the real frame.
+# The rubric is a fixture too, so the cases do not move when a chapter is re-cut.
+
+_spec = importlib.util.spec_from_file_location("ma", HERE / "maturity-assess.py")
+ma = importlib.util.module_from_spec(_spec)
+_spec.loader.exec_module(ma)
+import datetime as dt  # noqa: E402
+import indicators_lib as il  # noqa: E402
+
+STRAT = "gov.policy--digital-transformation-strategy"          # instrument
+TALK = "gov.discourse--open-discussion-of-government-policy"   # instrument, look-back anchors
+MEAS = "finance.new--development-partner-project-financing"    # measure
+FIX_RUBRIC = {iid: {s: {"anchor": f"stage {s} anchor", "interpolated": "yes"} for s in range(1, 6)}
+              for iid in (STRAT, TALK, MEAS)}
+FIX_RUBRIC[TALK][2]["anchor"] = "restrictions on record in the 12 months to the as-at date"
+ma.rubric = lambda: FIX_RUBRIC
+JUL, AUG = dt.date(2026, 7, 31), dt.date(2026, 8, 31)
+LEDGER = [
+    ("XXX-gov.policy-strategy", "2026-05-01-strategy-drafted"),
+    ("XXX-gov.policy-strategy-2", "2026-08-10-strategy-adopted"),
+    ("XXX-gov.discourse-shutdown", "2025-08-15-shutdown"),
+    ("XXX-finance.new-dp", "2026-06-01-dp-figures"),
+    ("XXX-gov.policy-late", "2026-09-02-late-source"),
+]
+MAPPING = {STRAT: "XXX-gov.policy-strategy|XXX-gov.policy-strategy-2|XXX-gov.policy-late",
+           TALK: "XXX-gov.discourse-shutdown", MEAS: "XXX-finance.new-dp"}
+
+
+def unit_dir(root: Path) -> Path:
+    u = root / "XXX"
+    u.mkdir(parents=True)
+    with open(u / "ledger.csv", "w", encoding="utf-8", newline="") as fh:
+        w = csv.writer(fh, lineterminator="\r\n")
+        w.writerow(["row_id", "name", "status", "milestone", "position_end", "note", "sources"])
+        for rid, src in LEDGER:
+            w.writerow([rid, rid, "Implemented", "", "", "", src])
+    with open(u / "indicators.csv", "w", encoding="utf-8", newline="") as fh:
+        w = csv.writer(fh)
+        w.writerow(["indicator_id", "progress", "summary", "developments", "row_ids"])
+        for iid, rids in MAPPING.items():
+            w.writerow([iid, "No change", "s", "d", rids])
+    return u
+
+
+def verdicts(root: Path, name: str, rows: list[dict]) -> Path:
+    p = root / f"{name}.csv"
+    with open(p, "w", encoding="utf-8", newline="") as fh:
+        w = csv.DictWriter(fh, fieldnames=ma.VERDICT_FIELDS)
+        w.writeheader()
+        for r in rows:
+            w.writerow({k: r.get(k, "") for k in ma.VERDICT_FIELDS})
+    return p
+
+
+def v(iid, stage, rows, **kw):
+    return {"indicator_id": iid, "stage": str(stage), "stage_rows": rows, **kw}
+
+
+MEAS_VALUE = dict(value="12.5", unit="US$m", value_year="2025", value_source="XXX-finance.new-dp")
+BASE = [v(STRAT, 2, "XXX-gov.policy-strategy"), v(TALK, 2, "XXX-gov.discourse-shutdown"),
+        v(MEAS, 2, "XXX-finance.new-dp", **MEAS_VALUE)]
+
+
+def refused(root, as_at, rows, name):
+    try:
+        ma.apply("XXX", as_at, verdicts(root, name, rows), reports=root)
+    except ma.Refused as e:
+        return str(e)
+    return ""
+
+
+def snap(root, as_at):
+    with open(ma.snapshot_path(root, "XXX", as_at), encoding="utf-8", newline="") as fh:
+        return {r["indicator_id"]: r for r in csv.DictReader(fh)}
+
+
+tmp = Path(tempfile.mkdtemp(prefix="maturity-assess-test-"))
+try:
+    print("\nthe assessor: the baseline")
+    unit_dir(tmp)
+    need = ma.due_at(il.load_unit(str(tmp), "XXX"), ma.ledger(tmp, "XXX"), JUL)
+    check("a row whose every source post-dates the as-at is not visible",
+          need[STRAT], ["XXX-gov.policy-strategy"])
+    pk = ma.packet("XXX", JUL, reports=tmp)
+    check("the packet leaves out sources after the as-at", "2026-08-10" in pk, False)
+    ma.apply("XXX", JUL, verdicts(tmp, "jul", BASE), reports=tmp)
+    s = snap(tmp, JUL)
+    check("the snapshot stages every indicator with a visible row", sorted(s), sorted(MAPPING))
+    view = il.load_unit(str(tmp), "XXX")
+    check("indicators.csv round-trips through load_unit with the stage", view[STRAT]["stage"], "2")
+    check("and keeps the mapping's own columns", view[STRAT]["progress"], "No change")
+    check("assessed_on is the as-at", view[MEAS]["assessed_on"], "2026-07-31")
+    before = ma.snapshot_path(tmp, "XXX", JUL).read_bytes()
+    ma.apply("XXX", JUL, verdicts(tmp, "jul", BASE), reports=tmp)
+    check("assessed twice against the same rows: byte-identical",
+          ma.snapshot_path(tmp, "XXX", JUL).read_bytes(), before)
+    check("an edition is not revised",
+          "is not revised" in refused(tmp, JUL, [v(STRAT, 3, "XXX-gov.policy-strategy")] + BASE[1:],
+                                      "jul-b"), True)
+
+    print("\nthe assessor: refusals")
+    for label, rows, want in [
+        ("a stage outside 1-5", [v(STRAT, 6, "XXX-gov.policy-strategy")] + BASE[1:], "not 1–5"),
+        ("a stage row not yet visible", [v(STRAT, 3, "XXX-gov.policy-strategy-2")] + BASE[1:],
+         "not mapped or not visible"),
+        ("a stage with no row cited", [v(STRAT, 2, "")] + BASE[1:], "cites no row"),
+        ("a measure with no figure", BASE[:2] + [v(MEAS, 2, "XXX-finance.new-dp")], "measure without"),
+        ("a measure dated after the as-at",
+         BASE[:2] + [v(MEAS, 2, "XXX-finance.new-dp", **{**MEAS_VALUE, "value_year": "2027"})],
+         "value_year"),
+        ("an instrument with a figure",
+         [v(STRAT, 2, "XXX-gov.policy-strategy", value="3")] + BASE[1:], "carries value columns"),
+        ("a missing first verdict", BASE[1:], "no verdict and no prior stage"),
+        ("an indicator that is not assessed",
+         BASE + [v("geopol.china--china", 2, "XXX-gov.policy-strategy")], "not an assessed"),
+    ]:
+        root = tmp / label.replace(" ", "-")
+        unit_dir(root)
+        check(label + " is refused", want in refused(root, JUL, rows, "r"), True)
+
+    print("\nthe stability rule")
+    notes = ma.apply("XXX", AUG, verdicts(tmp, "aug", [
+        v(STRAT, 3, "XXX-gov.policy-strategy|XXX-gov.policy-strategy-2"),   # new row in window
+        v(TALK, 3, "XXX-gov.discourse-shutdown"),                           # re-read, no new row
+        v(MEAS, 3, "XXX-finance.new-dp", **MEAS_VALUE, reassessed="1"),     # rubric change
+    ]), reports=tmp)
+    s = snap(tmp, AUG)
+    check("a row dated inside the window moves the stage", s[STRAT]["stage"], "3")
+    check("and names the dated source", s[STRAT]["moved_by"], "2026-08-10-strategy-adopted")
+    check("a re-read with no dated row is held at the prior stage", s[TALK]["stage"], "2")
+    check("and the run says so", any(TALK in n and "held at 2" in n for n in notes), True)
+    check("reassessed moves it and says why", (s[MEAS]["stage"], s[MEAS]["moved_by"]),
+          ("3", "reassessed"))
+    check("the July edition is untouched", ma.snapshot_path(tmp, "XXX", JUL).read_bytes(), before)
+    check("indicators.csv carries the latest snapshot",
+          il.load_unit(str(tmp), "XXX")[STRAT]["stage"], "3")
+
+    root = tmp / "lookback"
+    unit_dir(root)
+    ma.apply("XXX", JUL, verdicts(root, "jul", BASE), reports=root)
+    ma.apply("XXX", AUG, verdicts(root, "aug", [
+        v(TALK, 3, "XXX-gov.discourse-shutdown",
+          cause="2026-08-15 the 2025 shutdown left the period")]), reports=root)
+    s = snap(root, AUG)
+    check("a look-back anchor moves on a dated cause", s[TALK]["stage"], "3")
+    check("an indicator the drafter left alone carries forward", s[STRAT]["stage"], "2")
+
+    root = tmp / "order"
+    unit_dir(root)
+    ma.apply("XXX", AUG, verdicts(root, "aug", [v(STRAT, 3, "XXX-gov.policy-strategy-2")]
+                                              + BASE[1:]), reports=root)
+    ma.apply("XXX", JUL, verdicts(root, "jul", BASE), reports=root)
+    check("an earlier snapshot never overwrites the current position",
+          il.load_unit(str(root), "XXX")[STRAT]["stage"], "3")
+finally:
+    shutil.rmtree(tmp, ignore_errors=True)
+
 print()
 print("all cases pass" if not fails else f"{len(fails)} of the cases FAILED")
 sys.exit(1 if fails else 0)

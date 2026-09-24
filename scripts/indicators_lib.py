@@ -43,6 +43,14 @@ INDICATORS_CSV = CORPUS / "lookups" / "indicators.csv"
 # evidence linkage — a third place to name a source would be the one nothing renders.
 UNIT_FIELDS = ("indicator_id", "progress", "summary", "developments", "row_ids")
 
+# The maturity assessment's stage columns (`maturity-assessment.md` §6), after the mapping's. They are
+# set by `maturity-assess.py apply` and by nothing else. `stage_rows` is the subset of `row_ids` that
+# satisfies the anchor. Every column is empty on an indicator with no stage. `load_unit()` reads a
+# file with them or without them; `progress` leaves at G1.
+STAGE_FIELDS = ("stage", "stage_rows", "value", "unit", "value_year", "value_source",
+                "next_milestone", "due", "assessed_on", "reassessed", "qualifier")
+UNIT_FIELDS = UNIT_FIELDS + STAGE_FIELDS
+
 # The maturity assessment's three frame columns (`documentation/maturity-assessment.md` §4 and
 # `adding-an-indicator.md` §§3, 10). `kind` picks the rubric family; `assessed = 0` keeps a row
 # for its id and its mapped rows without staging it, and `retired` dates when that began. An id
