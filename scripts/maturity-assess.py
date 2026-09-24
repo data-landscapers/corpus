@@ -551,7 +551,7 @@ def decide(v: dict, p: dict | None, prev_at: dt.date | None, as_at: dt.date, led
 
 def apply(unit: str, as_at: dt.date, verdicts: Path, replace: bool = False,
           reports: Path = REPORTS, ref_path: Path | None = None,
-          compile_fn=maturity_compile.compiled) -> list[str]:
+          compile_fn=maturity_compile.compiled, dry_run: bool = False) -> list[str]:
     view = indicators_lib.load_unit(str(reports), unit)
     if view is None:
         raise Refused(f"{unit}: no indicators.csv")
@@ -635,6 +635,12 @@ def apply(unit: str, as_at: dt.date, verdicts: Path, replace: bool = False,
     if pending:
         notes.append(f"{len(pending)} indicator(s) with evidence have no rubric yet and were not "
                      f"assessed")
+    if dry_run:
+        # Everything checked, nothing written: how a drafted file is vetted before the cut.
+        stages = [r["stage"] or "unplaced" for r in out]
+        notes.append("dry run: " + ", ".join(f"{k} {stages.count(k)}" for k in
+                                             ("1", "2", "3", "4", "5", "unplaced")))
+        return notes
 
     path = snapshot_path(reports, unit, as_at)
     body = io.StringIO()
@@ -700,6 +706,7 @@ def main(argv=None) -> int:
         else:
             s.add_argument("--verdicts", required=True)
             s.add_argument("--replace", action="store_true")
+            s.add_argument("--dry-run", action="store_true", help="check the verdicts, write nothing")
     a = ap.parse_args(argv)
     sys.stdout.reconfigure(encoding="utf-8")
     sys.stderr.reconfigure(encoding="utf-8")
@@ -720,11 +727,11 @@ def main(argv=None) -> int:
             sys.stdout.write(text)
         return 0
     try:
-        notes = apply(unit, as_at, Path(a.verdicts), a.replace)
+        notes = apply(unit, as_at, Path(a.verdicts), a.replace, dry_run=a.dry_run)
     except Refused as e:
         print(f"{unit}: refused\n{e}", file=sys.stderr)
         return 1
-    print(f"{unit}: snapshot as at {as_at} written")
+    print(f"{unit}: {'verdicts check clean' if a.dry_run else f'snapshot as at {as_at} written'}")
     for n in notes:
         print(f"  {n}")
     return 0
