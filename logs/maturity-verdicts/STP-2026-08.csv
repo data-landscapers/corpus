@@ -1,0 +1,12 @@
+indicator_id,stage,stage_rows,value,unit,value_year,value_source,next_milestone,due,qualifier,reassessed,cause
+gov.policy--open-data-policy,1,STP-data.open-none,,,,,,,"UNESCO readiness assessment states no open-data law or regulation; no portal",0,
+gov.protect--data-protection-authority,3,STP-gov.protect-prese-supervision|STP-gov.protect-rlpd-membership|STP-gov.protect-macau-mou,,,,,,,"ANPDP operating and cooperating; August AML agreement unsigned; no enforcement decision on record",0,
+gov.protect--national-data-protection-readiness,3,STP-gov.legislate-data-protection-law,,,,,,,"Law 03/2016 in force; no impact assessments or breach notification practice on record",0,
+gov.standards--national-quality-standards,2,STP-gov.standards-none,,,,,,,"SENAPIQ exists; a bank's ISO 9001 certification is not a national quality policy or adopted standard",0,
+gov.standards--adoption-of-international-standards,2,STP-gov.standards-none,,,,,,,"ISO correspondent member only; no international ICT standards adopted as national standards on record",0,
+gov.discourse--open-discussion-of-government-policy,3,STP-gov.discourse-ager-consultations,,,,,,,"AGER publishes consultations; no access-to-information law on record",0,
+dpi.pay--p2p-p2g-and-p2b-functionality,3,STP-dpi.pay-payment-instruments,,,,,,,"central bank statistics show services in use; no provider interoperability or agent network on record",0,
+dpi.registry--social-protection-register,3,STP-dpi.registry-csu,,,,,,,"CSU covers over 12500 households; no ID linkage or published target coverage on record",0,
+dpi.mis--social-protection,3,STP-dpi.mis-kenon,,,,,,,"Ke Non in service; no ID link or published disaggregated data across main programmes",0,
+dpi.mis--tax,2,STP-dpi.pay-sit-vat,,,,,,,"electronic VAT filing only; August equipment handover is a UN agency's and changes no rung",0,
+include.access--citizen-participation-in-policy,,,,,,,,,"participatory budgeting pilots on local works are not consultation on an instrument; consultations sit under gov.discourse rows",0,
