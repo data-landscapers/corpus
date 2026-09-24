@@ -126,3 +126,29 @@ When the two are in, CC cuts all four chapters' instruments and systems and C2's
 ## Capacity, Inclusion, Data and Geopolitics — second review 2026-09-23: accepted and cut
 
 **Both edits are in** — feedback-portal stage 5 on the Charter and Declaration with the EPI left to the qualifier, and the disabilities treaty-report limb gone — and the checker is clean. Cut: Capacity 1, Inclusion 4, Data 6, Geopolitics 1. **The lookup holds all 95 assessed instruments and systems**, 347 interpolated rungs; `--complete` now fails on exactly the 22 measures, which are C3. `indicator-digital-sovereignty.md` §5 now points here as the source.
+
+## Measures (C3) — reviewed 2026-09-24: returned, five items
+
+**The checker is clean on the draft**: 117 indicators, 585 rows, 429 interpolated rungs, 3 partly, no warnings. The preamble is right: precedence, strict definitions, the three band methods, and the top-only quintile rule. The DPI dataset is kept to a lead. The compile columns the two finance rows name all exist with those values (`beneficiary_type` Public Sector, Private Sector, Fund, PPP; `status` Active, Approved, Closed, Pipeline, Unknown; `instrument` MoU, Unknown). **Accepted as drafted**: the four norm figures applied to a neighbouring population, on the rural-schools ruling; energy and water for data centres kept as a measure (*No evidence* almost everywhere is the true reading, and a kind change would reopen the frame for no gain); registration at 99.9 % of all people; `tech.industry` on quintiles until the register names a figure; the two absorption readings.
+
+**1. A machine-readable line per specification.** The measures lookup is cut by script, like the others, so each specification gains two list items in this form:
+`- **Method**: target · higher` (or `quintiles · lower`, `fixed · higher`)
+`- **Cuts**: 27 · 53 · 80 · 95` — the lower bound of stages 2, 3, 4 and 5 for *higher*, the upper bound for *lower*, in the value's unit. Leave out the stage-5 number where stage 5 is a condition only. A quintile row lists its provisional cuts (item 2) and says `provisional`.
+
+**2. Provisional cuts on every quintile row, not only the thin ones.** A stage has to be computable from the figure on the day of the baseline, whatever the count turns out to be. And a row that gains cuts later has changed its rubric. So `mobile-penetration`, `grid-reliability`, `tech.industry`, `graduates-entering-dt-ecosystem`, `gender-equity` and `mobilisation-of-non-state-finance` each state absolute provisional cuts for stages 2–4, replaced by the quintiles once fifteen countries hold a figure.
+
+**3. `local-data-centre-capacity-all-providers`: the value is what is banded.** The rungs are Tiers, but the value is MW per million, so a country with a Tier III facility on record and no published MW would read *No evidence*. Make the value the count of Tier III-or-higher facilities in service (unit *facilities*), with the Tier I–II case as stage 2, and move MW per million to the stage-5 condition and the qualifier.
+
+**4. `mobilisation-of-non-state-finance`: the window at year precision.** `start_year` is a year, so *the 36 months to the as-at date* has no exact reading. Make it *commitments whose `start_year` is the as-at year or either of the two before, summed and divided by three*. Also say, in both finance rows, that commitments to NGO, multilateral, research and multi-stakeholder beneficiaries count in neither row. Otherwise a reader takes it for an omission.
+
+**5. The value forms `value_source` may take.** Measures are assessed for every country, from the reference where the base holds nothing (item on CC's side, below). So the preamble should say `value_source` is one of:
+- a `raw/` slug, for a cited primary;
+- `budgets/{ISO3}/{FY}.csv`;
+- `outputs/non-state-finance/{ISO3}-nonstate.csv`;
+- `ref:{dataset}@{release date}`.
+
+The date is what makes a new figure a dated cause under the stability rule.
+
+**Bill's call, with CC's recommendation**: keep the partner-financing row as redefined — the on-budget share. It is a different fact from the sustainability share, not the same one twice. It is also the standard aid-effectiveness measure, and its coverage grows with the budget-extract queue. Retiring it instead changes the published counts to 116 for a row that costs nothing to carry as *No evidence*. The 85 % line is being checked against the Paris text in the vintage pass.
+
+**On CC's side, recorded here so the leg reads whole.** The band is computed by script from the value and the cuts; it is a ceiling the drafter's stage may not exceed, and a compound anchor or the secondary execution test may hold the stage below it. Stage 5 needs the band's top and its condition. Quintile cuts are computed once, from the baseline's figures across all units, and written into the lookup with their year. Measures are due for every unit regardless of mapping, and *No evidence* for a measure means no figure of the definition in the base or the reference. The reference figures are pulled into Corpus as data (task C5, new). The vintages are recorded below when the check returns.
