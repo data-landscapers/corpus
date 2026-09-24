@@ -1,3 +1,7 @@
+## 24 September 2026
+
+- Eight Cabo Verde and Burundi budget documents catalogued on 24 September now carry dated identifiers. The documents themselves are unchanged.
+
 ## 23 September 2026
 
 - The indicator frame gains two topics and two indicators, digital sovereignty and the financial sustainability of digital systems, taking it to 40 topics and 123 indicators. Every country's progress report shows both as No evidence until evidence is mapped to them.
