@@ -1,11 +1,11 @@
 ---
 title: South Africa — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 place: ZAF
-ledger_rows: 185
-not_held: 23
-record: 9fce5c54162c
+ledger_rows: 187
+not_held: 22
+record: b4382d562d6d
 ---
 
 # South Africa: monthly update, August – September 2026
@@ -39,6 +39,8 @@ The Presidency and the planning and evaluation department [presented a digital d
 The minister [backed the regulator](https://www.itweb.co.za/article/malatsi-backs-consumer-sentiment-on-data-expiry-debate/RgeVDMPRkPJvKJN3) in the review application brought by the two largest mobile operators against the rules on data bundle roll-over. The Angolan kwanza became the [second settlement currency on the SADC real-time system](https://www.sadc.int/latest-news/angolan-kwanza-introduced-sadc-rtgs-system), the first addition since 2013.
 
 The Treasury and the central bank [published a draft manual for cross-border crypto activities for comment by 30 September, setting authorisation and reporting rules for crypto asset service providers and defining a cross-border crypto flow](https://cioafrica.co/south-africa-proposes-new-rules-for-cross-border-crypto-transactions/). Draft capital-flow regulations are already out.
+
+Parliament's justice committee [agreed on 23 September that the department may publish proposed amended court rules for access-to-information applications](https://www.parliament.gov.za/press-releases/media-statement-justice-committee-approves-publication-proposed-amended-paia-court-rules-enhance-transparency-and-access-justice), standardising section 78 applications across all courts, requiring sworn section 80 representations five days before a hearing and repealing the old rules. They are proposals, not yet in force.
 <!-- /narrative -->
 ### Data protection
 
@@ -330,4 +332,12 @@ Official household figures published on 28 August show [the share of households 
 Statistics South Africa [restored its monthly insolvencies series, interrupted since the 2021 cyber incident at the Department of Justice cut off the administrative data, with a first release on 21 July covering June 2026 and a time series back to January 2023](https://www.statssa.gov.za/?p=19751).
 
 The office also published [a frame update for the continuous population survey and the household survey programme redesign](https://www.statssa.gov.za/?page_id=14209), which is meant to produce population statistics between censuses. No date has been given for a first release.
+<!-- /narrative -->
+
+## Geopolitics
+
+### US / hyperscaler activities
+
+<!-- narrative: geopolitics--geopol-usa -->
+Microsoft [told a government technology briefing that it has committed R25.8bn to cloud and AI investment in the country through 2027](https://techreviewafrica.com/news/7405/), offering departments its two in-country cloud regions and deployment options down to disconnected private environments under customer-held keys. The figure is the company's own, with no spend to date or delivery measure published.
 <!-- /narrative -->

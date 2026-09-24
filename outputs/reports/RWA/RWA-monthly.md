@@ -1,11 +1,11 @@
 ---
 title: Rwanda — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 place: RWA
-ledger_rows: 58
+ledger_rows: 60
 not_held: 7
-record: 08a3b137a715
+record: a063db39a1dd
 ---
 
 # Rwanda: monthly update, August – September 2026
@@ -48,6 +48,8 @@ Country consultations for a [regional artificial-intelligence framework were hel
 
 
 One piece of regional machinery moved from design into use. A continental alliance and a German development agency say [a digital identity issued in Rwanda, Ghana or Benin is now being recognised in the other two, with eighteen further countries said to be joining](https://www.giz.de/en/newsroom/storys/interview-herken-kone-smart-africa-digital-sovereignty). No scale, service, date or governing instrument is stated for any of it. The delegation also completed a [two-week learning mission to India on digital public infrastructure, concluded 7 September](https://www.undp.org/africa/press-releases/undps-aa4dpi-programme-deepens-south-south-cooperation-digital-public-infrastructure), alongside four other countries and African Union representatives.
+
+The country was [selected on 21 September to host the seventh UN World Data Forum, expected in the fourth quarter of 2028](https://radiotv10.rw/en/rwanda-has-been-selected-as-africas-second-un-world-data-forum-host/), the second African host after Cape Town in 2017.
 <!-- /narrative -->
 ### Standards
 
@@ -205,6 +207,8 @@ What moved this month is a projection, not a measurement. An industry associatio
 The seventh demographic and health survey, collected between June and November 2025, [reached its final report in August 2026](https://dhsprogram.com/pubs/pdf/FR401/FR401.pdf) — 690 pages, almost entirely tables by design. The release notice in January had pointed to a signed press release rather than the report ([notice](https://statistics.gov.rw/node/805)), so the substantive document only entered the record this month. It joins a foreign private capital census of [424 enterprises at an 89.6 per cent response rate](https://statistics.gov.rw/data-sources/censuses/Foreign-Private-Capital-Census/foreign-private-capital-census-2025), reported in February.
 
 The higher education council said it is [building a national performance measurement framework to capture, digitise and publish standardised data on students, staff, research and graduate outcomes](https://taarifa.rw/2026/09/16/rwanda-building-data-driven-framework-to-measure-quality-of-higher-education/), having lacked comparable data across institutions. No publication date is set.
+
+The same announcement records that Kigali [hosts the UN regional hub for big data and data science, run with the statistics institute and two UN bodies to help African statistical offices use new data sources](https://radiotv10.rw/en/rwanda-has-been-selected-as-africas-second-un-world-data-forum-host/); no output figure is stated.
 <!-- /narrative -->
 ### Use of satellite data
 

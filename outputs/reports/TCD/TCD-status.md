@@ -1,12 +1,12 @@
 ---
 title: Chad: status report
-compiled: 2026-09-23
+compiled: 2026-09-24
 place: TCD
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 10
-sources_cited: 145
+sources_cited: 146
 sections_written: 37
 not_established: 0
 acquire_lines: 37
@@ -46,7 +46,7 @@ Two gaps are structural. [No statutory duty obliges any data controller to notif
 ### Regional collaboration
 <!-- gov.regional -->
 
-The rules governing Chad's mobile money are written regionally, not nationally. [Payment institutions are licensed and supervised under the CEMAC framework regulation of 21 December 2018, which replaced 2011 rules confining mobile operators to issuing electronic money](https://leconomie.info/tchad-moov-money-rejoint-le-club-restreint-des-etablissements-de-paiement-agrees/), and [a licence under it carries bank-grade obligations: FCFA 500 million of fully paid-up capital, reinforced solvency norms, periodic cybersecurity audits, AML/CFT processes and absolute ring-fencing of client balances](https://leconomie.info/tchad-moov-money-rejoint-le-club-restreint-des-etablissements-de-paiement-agrees/), in exchange for [deposits, withdrawals, account-to-account transfers, cross-border remittances and merchant payments](https://leconomie.info/tchad-moov-money-rejoint-le-club-restreint-des-etablissements-de-paiement-agrees/). Chad runs no domestic instant payment system of its own, taking part instead in [GIMACPAY, the CEMAC-wide platform operated by GIMAC and owned overwhelmingly by the regional central bank](https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_CEMAC.pdf).
+The rules governing Chad's mobile money are written mostly regionally. [Payment institutions are licensed and supervised under the CEMAC framework regulation of 21 December 2018, which replaced 2011 rules confining mobile operators to issuing electronic money](https://leconomie.info/tchad-moov-money-rejoint-le-club-restreint-des-etablissements-de-paiement-agrees/), and [a licence under it carries bank-grade obligations: FCFA 500 million of fully paid-up capital, reinforced solvency norms, periodic cybersecurity audits, AML/CFT processes and absolute ring-fencing of client balances](https://leconomie.info/tchad-moov-money-rejoint-le-club-restreint-des-etablissements-de-paiement-agrees/), in exchange for [deposits, withdrawals, account-to-account transfers, cross-border remittances and merchant payments](https://leconomie.info/tchad-moov-money-rejoint-le-club-restreint-des-etablissements-de-paiement-agrees/). The one national rule sits in fiscal law: [the 2024 finance law gives every SIM holder identified by national identification number the right to an automatically created mobile-money account from 1 January 2024, obliges businesses to display merchant accounts and halves the tax on electronic transfers to 0.1 per cent](https://ecofinances.gouv.td/wp-content/uploads/2026/04/loi-031-du-29-dcembre-2023-Portant-loi-de-Finances-pour-lexercice-2024.pdf), and no take-up under it is reported. Chad runs no domestic instant payment system of its own, taking part instead in [GIMACPAY, the CEMAC-wide platform operated by GIMAC and owned overwhelmingly by the regional central bank](https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_CEMAC.pdf).
 
 Identity crosses the border more easily than data does. [CEMAC's Additional Act No. 01/13 of 25 June 2013 abolished visas for all CEMAC nationals, so Chadians travel within the six-country zone on national identity documents that member states must issue as biometric documents to ICAO standards — with no formal digital identity interoperability treaty behind it](https://migrationnetwork.un.org/policy-repository/additional-act-ndeg0113-25-june-2013-abolishing-visas-all-cemac-nationals).
 

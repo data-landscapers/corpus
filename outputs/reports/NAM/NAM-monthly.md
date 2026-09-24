@@ -1,11 +1,11 @@
 ---
 title: Namibia — monthly update, August – September 2026
-compiled: 2026-09-21
-period: 2026-08-01 to 2026-09-21
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 place: NAM
-ledger_rows: 51
-not_held: 11
-record: f58e6c322a60
+ledger_rows: 55
+not_held: 9
+record: f6182c1714b7
 ---
 
 # Namibia: monthly update, August – September 2026
@@ -57,6 +57,14 @@ How the state speaks was standardised before what it runs was. The communication
 
 <!-- narrative: governance--gov-discourse -->
 The dominant mobile operator [publicly rejected customer claims that it takes data](https://www.namibian.com.na/we-dont-steal-your-data-mtc/), its data adviser telling a trade-fair discussion on 30 August 2026 that billing is consumption-based, attributing rapid depletion to video streaming and hotspot sharing, and distinguishing consumption from bundle expiry. The operator said it is building a control letting customers opt in or out of airtime being spent on data once a bundle runs out; no implementation date was given. It is the one argument in this section held with a company rather than a ministry, and the only one that produced a stated product change.
+<!-- /narrative -->
+
+## Finance
+
+### New investments
+
+<!-- narrative: finance--finance-new -->
+The Universal Service Fund [published its Integrated Annual Report 2025 in September](https://www.cran.na/wp-content/uploads/2026/09/USF-Annual-Report-2025.pdf), carrying the fund's financial statements and its first two mobile network deployment phases, for 2024/25 and 2025/26. It is the first set of the fund's own accounts the repository holds.
 <!-- /narrative -->
 
 ## ICT Infrastructure
@@ -123,6 +131,8 @@ The Roads Authority [commissioned a N$13 million project control system](https:/
 
 <!-- narrative: dpi--dpi-govtech -->
 One service moved online and the warning about it came from the people it is for. The health ministry launched a digital disability assessment system, and [disability advocates warned that poor rural connectivity, inadequate equipment and limited digital skills could turn it into a new barrier rather than remove one](https://www.namibian.com.na/digital-disability-system-faces-rural-roadblocks/), a youth disability organisation welcoming the digital shift but making its success conditional on whether the system is accessible beyond the major urban centres and on whether follow-up support exists. No launch date, site coverage, assessment volume, accessibility standard or offline fallback is published, and the ministry's own account of the system is not held.
+
+The civil-service pension fund [is building an integrated pension administration system with a Kenyan firm at about N$40m over some 16 months, with under N$5m spent so far](https://thebrief.com.na/2026/09/gipf-to-invest-n40m-in-new-pension-administration-system/), and has signed data-sharing memoranda with the revenue agency, the finance and home affairs ministries and participating financial institutions. The figures are the fund's own.
 <!-- /narrative -->
 
 ## Digitalisation
@@ -131,6 +141,8 @@ One service moved online and the warning about it came from the people it is for
 
 <!-- narrative: digitalisation--digital-localgov -->
 Windhoek's council [adopted a ten-year smart-city strategy on 15 June, handed over with UN-Habitat and a United Nations cities accelerator](https://observer24.com.na/cow-eyes-digital-makeover-with-rail-fibre-and-smart-city-push/). The named projects are commercialisation of the city's own fibre network as a digital backbone and a proposed commuter rail linking Windhoek, Katutura and Rehoboth. No funding requirement, implementation timetable or institutional owner is published, and the [Chinese contribution to the pilot drew a parliamentary question about who controls the data](https://observer24.com.na/mp-raises-concerns-about-data-control-of-smart-city-grant-from-china/).
+
+A university research pilot co-designed with municipalities [fitted 69 pulse readers to household water meters in Ongwediva and built an AI model on six years of consumption data from 1,375 Windhoek households](https://sgciafrica.org/namibia-project-uses-household-data-smart-meters-to-rethink-water/), to flag non-revenue water. No verified loss reduction is reported.
 <!-- /narrative -->
 
 ## Technology
@@ -141,6 +153,8 @@ Windhoek's council [adopted a ten-year smart-city strategy on 15 June, handed ov
 The month's artificial-intelligence work is language work. The development programme's account of 13 August records [an indigenous-language voice-data repository being built through its AI sprint with the national science and technology university](https://www.undp.org/namibia/news/young-namibians-leading-change-digital-innovation-green-jobs). No language count, corpus size, licence or release date is stated, and the question a speech corpus raises above all others — who owns the recorded voices, and on what terms they may train a model — is not addressed in the account.
 
 The state's own first artificial-intelligence contract asks the same question of a different dataset, and answers part of it. A [one-year contract with a United States firm at N$39.5m, about US$2.4m, introduces satellite imagery, remote sensing and artificial-intelligence monitoring of mahangu, maize, sorghum, cowpea and wheat](https://observer24.com.na/questions-mount-over-n39-5m-us-agriculture-ai-deal/); the agriculture ministry says Namibia retains ownership of the satellite and crop data generated and will receive model and skills transfer. The award drew public objection over transparency and local participation, and no procurement route, tender record or text of the data-ownership and transfer terms is published.
+
+The research commission [set the launch of a national artificial-intelligence institute for 23 September, with four centres, one of them curating Namibian datasets, and a youth fellowship it says already reaches about 2,000 tertiary students](https://namibiabusinessreview.com/namibia-to-launch-ai-institute-to-strengthen-national-capacity/). Only the announcement is held; no budget or site is stated.
 <!-- /narrative -->
 ### Innovation ecosystem
 

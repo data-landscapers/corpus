@@ -1,11 +1,11 @@
 ---
 title: Guinea — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 place: GIN
-ledger_rows: 42
-not_held: 5
-record: 00430cf60b27
+ledger_rows: 43
+not_held: 4
+record: af79f6e8fd2f
 ---
 
 # Guinea: monthly update, August – September 2026
@@ -107,7 +107,7 @@ The [terms of reference for the RETSSM movable-collateral registry, opened 27 Ju
 
 The register that already works stopped working for the most basic reason there is. A civil-registration officer in Ratoma said on 7 August that the [secured paper the digital birth certificate is printed on had run out, leaving communes across Conakry and beyond unable to issue extracts for about a month](https://www.guinee360.com/07/08/2026/sans-papiers-securises-il-ne-peut-pas-y-avoir-dextraits-amadou-konia-camara-explique-lorigine-de-la-penurie/); his own commune processes all applicants regardless of home commune and holds reserve stock for urgent cases such as exam-result travel and medical need. No ministry statement, restocking date or national count of affected communes is held, and the absence is now recorded as a gap. Officials marking African civil-registration day three days later [named information gaps and material shortages as the remaining barriers to civil-status access](https://www.guinee360.com/10/08/2026/guinee-manque-dinformations-contraintes-materielles-les-freins-a-lacces-a-letat-civil/), the identification office's director general calling for tighter integration between health, civil-registration and statistical systems.
 
-The agriculture ministry [is preparing to hand over the first digital farmer cards, with a portal built by an insurance-technology firm to map holdings into a first national farmer database](https://guineejet.info/carte-numerique-dagriculteur-le-ministere-de-lagriculture-prepare-le-deploiement/). No enrolment target or date is stated.
+The agriculture ministry [presented its farmer-card pilot on 16 September, with 20,463 producers registered and 23,507 farms mapped in Kindia, Kankan and Mamou](https://www.agenceecofin.com/actualites-numerique/2109-141747-guinee-les-donnees-agricoles-au-service-du-financement-des-producteurs), each producer given a card with a QR code and NFC chip that opens verified data to authorised users on a secure portal. No national enrolment target or date is stated.
 <!-- /narrative -->
 ### Sectoral management information systems
 
@@ -138,6 +138,14 @@ The first rural digital service to reach farmers this month was a private one ca
 
 <!-- narrative: technology--tech-innovate -->
 The instrument the innovation layer waits on is still a draft: the [startup bill went through a relecture session at the commerce ministry on 29 April 2025](https://www.mipme.gov.gn/seance-de-relecture-du-projet-de-loi-sur-les-startups/), and no promulgated act has been found since. In August a [national innovation strategy went out to tender under Belgian development financing](https://www.enabel.be/app/uploads/2026/08/GIN23009-10070_Strategie_Innovation17082026.pdf), procured ahead of the statute that would give it a legal base.
+<!-- /narrative -->
+
+## Capacity
+
+### Training and skills
+
+<!-- narrative: capacity--capacity-training -->
+The state digitalisation agency [put the feasibility study for a national digital academy to a validation workshop on 23 September](https://www.africaguinee.com/souverainete-numerique-en-guinee-lande-au-coeur-de-la-creation-de-lacademie-nationale-du-numerique/): a permanent body adding short certified courses in information systems, artificial intelligence and cybersecurity to what the universities offer, aimed first at civil servants and supported by the World Bank-financed regional digital programme. No launch date or budget is stated.
 <!-- /narrative -->
 
 ## Inclusion

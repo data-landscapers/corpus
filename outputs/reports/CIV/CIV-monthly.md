@@ -1,11 +1,11 @@
 ---
 title: Cote d'Ivoire — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 place: CIV
-ledger_rows: 68
+ledger_rows: 69
 not_held: 10
-record: 5c71ae4fdaa5
+record: b866c9036dd3
 ---
 
 # Cote d'Ivoire: monthly update, August – September 2026
@@ -179,6 +179,8 @@ The ministry [launched two accelerator cohorts and a state procurement platform 
 A ten-year-old marketplace restructured on 31 August: the company [split its consumer and business activities and relaunched the consumer brand as Afrikrea, selling fashion, art and crafts internationally for African and diaspora creators with payment and delivery handled by the platform](https://www.wearetech.africa/fr/fils/breves/breves-simple/cote-d-ivoire-anka-relance-sa-place-de-marche-grand-public-sous-le-nom-dafrikrea). No merchant count, transaction volume or revenue figure is published, and the terms of the split are not stated.
 
 On 15 September the digital minister [presented six costed opportunities worth FCFA 541.3bn to the private sector, under a ministerial roadmap of seven pillars and 40 projects aiming to lift the digital economy to 15 per cent of GDP by 2030](https://www.aip.ci/cote-divoire-aip-pnd-2026-2030-le-ministre-djibril-ouattara-presente-les-sept-piliers-de-lacceleration-numerique/), from an estimated 6 to 8 per cent now.
+
+Opening the 2026 Ivoire Tech Forum, the digital minister [announced a startup labelling platform to give labelled startups access to the fiscal framework's incentives](https://techreviewafrica.com/news/7410/); no date or operator was given.
 <!-- /narrative -->
 
 ## Capacity

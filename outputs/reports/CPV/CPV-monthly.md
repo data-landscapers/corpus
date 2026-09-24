@@ -1,11 +1,11 @@
 ---
 title: Cape Verde — monthly update, August – September 2026
-compiled: 2026-09-21
-period: 2026-08-01 to 2026-09-21
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 place: CPV
-ledger_rows: 23
+ledger_rows: 25
 not_held: 30
-record: cb4e2b8aced2
+record: 759f59190d5b
 ---
 
 # Cape Verde: monthly update, August – September 2026
@@ -41,6 +41,14 @@ Oversight of the state's own intelligence capability moved by administrative act
 The Prime Minister [announced an independent evaluation of the statistics institute during the State of the Nation debate on 31 July 2026, to establish alleged interference and manipulation of data, days after telling Parliament it had produced falsified data](https://expressodasilhas.cv/pais/2026/08/03/ine-rejeita-acusacoes-de-manipulacao-de-dados-e-diz-estar-disponivel-para-avaliacao-independente/103949). On 3 August [the institute's board rejected the allegations and said it would receive any external evaluation mission or peer review, undertaking to supply all technical documentation](https://expressodasilhas.cv/pais/2026/08/03/ine-rejeita-acusacoes-de-manipulacao-de-dados-e-diz-estar-disponivel-para-avaliacao-independente/103949). Nothing is established about the evaluation's terms of reference, who conducts it, when it reports, or whether its findings will be published.
 <!-- /narrative -->
 
+## Finance
+
+### New investments
+
+<!-- narrative: finance--finance-new -->
+At the World Bank's September review mission the task team leader [put the Digital Cabo Verde project's original financing at about 80% executed and the additional financing for 2025 to 2028 at about 40%](https://backend-ugpe.gov.cv/noticias/review-meeting-of-the-cape-verde-digital-project-mission-highlights-progress-and-next-steps/), and school connectivity was named the additional financing's priority.
+<!-- /narrative -->
+
 ## ICT Infrastructure
 
 ### Connectivity
@@ -58,6 +66,11 @@ On 8 September the [national postal operator warned customers about fraudulent m
 
 ## DPI
 
+### Data Exchange
+
+<!-- narrative: dpi--dpi-exchange -->
+The project coordination centre [invited expressions of interest on 21 September for a 12-month build of a digital-nomad statistics and data module inside SGIT](https://static.expressodasilhas.cv/media/pub/v2/pdf/2026/09/1789997089690.pdf), to be interoperable with institutional platforms and to produce the Morabeza Innovation Project's indicators automatically, financed from the African Development Bank's credit. The notice does not name the platforms it is to connect to.
+<!-- /narrative -->
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
