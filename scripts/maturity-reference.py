@@ -27,6 +27,7 @@ snapshots see everything held (§7).
 base holds a primary; the others are waiting on something named:
 
 - the finance measures are Corpus's own compiles, computed in the assessor's measure pass;
+- mobile ownership is held back until the row reads ITU's 10+ definition (C3 item 6);
 - mobile affordability is waiting on the ITU 5 GB basket (C3 item 7);
 - `tech.industry` is waiting on the figure it re-points to (C3 item 8);
 - the urban–rural ratio, 9 countries on Data360's ITU copy, is not yet wired;
@@ -209,8 +210,6 @@ def gender_gap(iso):
 MEASURES = {
     "internet-usage": ("infra.connect--internet-usage", "wdi-it-net-user", "% of population",
                        lambda iso: wdi("IT.NET.USER.ZS", iso)),
-    "mobile-penetration": ("infra.connect--mobile-penetration", "itu-sdg-5b1-mobile-ownership-10plus",
-                           "% of people 10+", lambda iso: sdg("IT_MOB_OWN", iso, {"Sex": "BOTHSEX"})),
     "rural-electrification": ("infra.energy--rural-electrification", "wdi-elc-accs-rural",
                               "% of rural population", lambda iso: wdi("EG.ELC.ACCS.RU.ZS", iso)),
     "grid-reliability": ("infra.energy--grid-reliability", "enterprise-surveys-outages",
@@ -228,6 +227,13 @@ MEASURES = {
                                                                 "ECO_ISIC4_TOTAL", iso)),
     "gender-gap": ("include.access--gender-equity", "itu-internet-use-gender-gap",
                    "% gap, men over women", gender_gap),
+}
+# Held back until the row's definition is settled (C3 item 6): ITU publishes ownership among
+# people 10+, and the rubric reads 15+. Under the strict-definition rule a 10+ figure is not the
+# value. It goes into MEASURES when the row says 10+.
+HELD_BACK = {
+    "mobile-penetration": ("infra.connect--mobile-penetration", "itu-sdg-5b1-mobile-ownership-10plus",
+                           "% of people 10+", lambda iso: sdg("IT_MOB_OWN", iso, {"Sex": "BOTHSEX"})),
 }
 DENOMINATORS = {
     "gdp": ("gdp-current-usd", "wdi-gdp", "US$", lambda iso: wdi("NY.GDP.MKTP.CD", iso)),
