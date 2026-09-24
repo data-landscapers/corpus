@@ -24,6 +24,8 @@ Most of what follows is the accumulated cost of getting one of the three wrong o
 
 Every record carries `scope_confidence` (`whole` | `partial` | `unclear`) and `scope_basis`, one line on how the line was identified — programme title, project code, classification tag, narrative paragraph, named system. `partial` and `unclear` records are built and held, and reported separately from the headline total, never folded into it.
 
+**A national statistics office is a single-mandate data body** *(2026-09-24, budget sprint)*. Official statistics is in the frame (`data.statistics`, with censuses and surveys an indicator of its own), so the office's whole appropriation records at `whole`. Where the vote prints the office's programmes or sub-programmes, hold them at that grain, never the office's total beside them. A statistics unit inside a line ministry is part of that ministry's administration and records only where it prints a digital line of its own.
+
 **Scope by the line's text, never by its label.** States name an entire ministry's budget a *programme de digitalisation* and run a national radio station inside it. The inverse is commoner: the largest identity appropriation in a budget is usually called *Civil Registration*, *<Ministry> Computerisation* or *Passport Administration*, and no keyword reaches any of them.
 
 **Generic office hardware is overhead, not a digital-activity line.** Computers, network maintenance and IT equipment purchases are excluded; software, systems, digitalisation, connectivity and biometric lines are recorded.
