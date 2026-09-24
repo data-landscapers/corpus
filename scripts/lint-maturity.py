@@ -19,8 +19,9 @@ The unit checks also run under `report-render.py --check`.
                        the ledger with a source on or before the snapshot's as-at
   O  stability         a stage that differs from the prior edition's is moved by a source dated
                        in the window on a cited row, by `reassessed`, or by a dated look-back cause
-  P  citation          every stage cites a row, stage 1 included (budget measure: value_source)
-  Q  measure values    a measure carries value, unit, value_year <= as-at year, value_source;
+  P  citation          every stage of an instrument or a system cites a row, stage 1 included
+  Q  measure values    a measure carries value, unit, value_year <= as-at year and a dated
+                       value_source no later than the as-at, and its stage is within its band;
                        an instrument or a system carries none
   S  current position  indicators.csv's stage columns equal the latest edition's
   R  lookups (estate)  every assessed indicator has one norms row and five rubric rows
@@ -77,7 +78,7 @@ def unit_checks(unit: str, reports: Path = ma.REPORTS) -> dict[str, list[str]]:
         return {}
     frame = {r["indicator_id"]: r for r in indicators_lib.frame()}
     led = ma.ledger(reports, unit)
-    rub = ma.rubric()
+    rub, spec = ma.rubric(), ma.measures()
     bad: dict[str, list[str]] = {k: [] for k in "NOPQS"}
     prev_at, prev = None, {}
     for at, snap in eds:
@@ -101,16 +102,14 @@ def unit_checks(unit: str, reports: Path = ma.REPORTS) -> dict[str, list[str]]:
                     bad["N"].append(f"{tag} {iid}: cites {rid}, not in the ledger")
                 elif not ma.visible(led[rid], at):
                     bad["N"].append(f"{tag} {iid}: cites {rid}, which has no source by {at}")
-            budget = iid == ma.BUDGET_EXCEPTION and (r.get("value_source") or "").startswith("budgets/")
-            if st and not rows and not budget:
+            # A measure cites its figure; everything else cites a row.
+            if st and not rows and f["kind"] != "measure":
                 bad["P"].append(f"{tag} {iid}: stage {st} cites no row")
             if not st:
                 pass
             elif f["kind"] == "measure":
-                if not all(vals):
-                    bad["Q"].append(f"{tag} {iid}: measure missing a value column")
-                elif not re.fullmatch(r"\d{4}", vals[2]) or int(vals[2]) > at.year:
-                    bad["Q"].append(f"{tag} {iid}: value_year {vals[2]!r} after {at.year}")
+                bad["Q"] += [f"{tag} {iid}: {e}" for e in ma.measure_errors(
+                    dict(zip(ma.VALUE_FIELDS, vals)), st, at, spec.get(iid))]
             elif any(vals):
                 bad["Q"].append(f"{tag} {iid}: a {f['kind']} carries value columns")
             p = prev.get(iid)
@@ -120,9 +119,11 @@ def unit_checks(unit: str, reports: Path = ma.REPORTS) -> dict[str, list[str]]:
                 if why == "reassessed":
                     ok = (r.get("reassessed") or "").strip() == "1"
                 elif why:
-                    d = ma.src_date(why)
+                    d = ma.source_date(why)
                     in_window = d is not None and prev_at < d <= at
-                    on_row = any(why == s for rid in rows if rid in led for _, s in led[rid]["_sources"])
+                    # A cited row's dated source, or a measure's new figure.
+                    on_row = (any(why == s for rid in rows if rid in led for _, s in led[rid]["_sources"])
+                              or why == (r.get("value_source") or "").strip())
                     anchors = rub.get(iid, {})
                     look = any(ma.LOOKBACK in anchors.get(int(s), {}).get("anchor", "")
                                for s in (p["stage"], st) if s.isdigit())

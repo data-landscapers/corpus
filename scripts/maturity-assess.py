@@ -52,9 +52,15 @@ no `stage_rows`. It is kept in the snapshot so that the finding persists, and it
 unassessed. Entering a stage from it or leaving a stage for it is a change like any other and
 passes the stability rule.
 
-**One exception to "a stage needs a mapped row".** The financial-sustainability indicator may
-stand on a `budgets/` country-year named in `value_source`, with `row_ids` empty
-(`indicator-financial-sustainability.md` §5; C4).
+**Measures stand on a figure, not a row** *(CC, 2026-09-24, at the C3 review)*. Every measure is
+due for every unit, because its figure may come from a reference dataset where the base holds
+nothing (§4). The figure's `value_source` is dated (`SOURCE_AT`), and a new figure dated inside the
+window is what moves a measure. The band is computed from the figure against the cuts in
+`lookups/maturity-measures.csv` and caps the stage. A compound anchor may hold the stage below the
+band; nothing lifts it above. With no verdict, a measure takes the reference figure
+(`prep/reference/measures.csv`, C5) at its band. A primary already standing is not displaced by a
+reference, and it carries forward. With no figure at all, the measure is *No evidence*. This
+replaces C4's budget exception, which was the first case of it.
 """
 from __future__ import annotations
 
@@ -76,6 +82,10 @@ CORPUS = HERE.parent
 REPORTS = CORPUS / "outputs" / "reports"
 RUBRIC = CORPUS / "lookups" / "maturity-rubric.csv"
 NORMS = CORPUS / "lookups" / "maturity-norms.csv"
+# The measures' specifications, cut from `maturity-rubric.md` (C3): method, direction and cuts.
+MEASURES = CORPUS / "lookups" / "maturity-measures.csv"
+# The reference figures, one per unit and measure and release, pulled by C5.
+REFERENCE = CORPUS / "prep" / "reference" / "measures.csv"
 
 # The snapshot's columns, in file order: §6's stage columns plus `stage_rows` (the mapped rows that
 # satisfy the anchor, a subset of `row_ids`) and `moved_by`, which apply derives and nobody writes.
@@ -87,8 +97,11 @@ VERDICT_FIELDS = ("indicator_id", "stage", "stage_rows", "value", "unit", "value
                   "value_source", "next_milestone", "due", "qualifier", "reassessed", "cause")
 VALUE_FIELDS = ("value", "unit", "value_year", "value_source")
 LOOKBACK = "12 months to the as-at date"
-BUDGET_EXCEPTION = "finance.sustain--financial-sustainability-of-digital-systems"
 DATE = re.compile(r"^(\d{4}-\d{2}-\d{2})")
+# A measure's `value_source` (maturity-rubric.md, How to read a measure): a raw/ slug, which
+# carries its date at the front, or a Corpus compile or reference with the date after `@`.
+SOURCE_AT = re.compile(r"^(?:budgets/[A-Z]{3}/\S+|outputs/non-state-finance/[A-Z]{3}-nonstate\.csv|"
+                       r"ref:[a-z0-9-]+)@(\d{4}-\d{2}-\d{2})$")
 
 
 class Refused(Exception):
@@ -143,6 +156,64 @@ def norms() -> dict[str, dict]:
     return {r["indicator_id"].strip(): r for r in read_csv(NORMS)[1]}
 
 
+def measures() -> dict[str, dict]:
+    """{indicator_id: {method, direction, cuts: [float], ...}}; empty until the lookup is cut."""
+    if not MEASURES.exists():
+        return {}
+    out = {}
+    for r in read_csv(MEASURES)[1]:
+        r = {k: (v or "").strip() for k, v in r.items()}
+        r["cuts"] = [float(c) for c in r["cuts"].split("|") if c.strip()]
+        out[r["indicator_id"]] = r
+    return out
+
+
+def band(value: float, spec: dict) -> int:
+    """The stage a figure's band allows, at most: 1 plus the cuts it passes.
+
+    `cuts` are the lower bounds of stages 2–5 (the upper bounds for a lower-is-better measure).
+    With three cuts, stage 5 is a condition and not a number: the band tops out at 4, and a
+    figure in it may reach 5 if the drafter finds the condition on record, so the ceiling is 5.
+    """
+    cuts = spec["cuts"]
+    lower = spec["direction"] == "lower"
+    n = sum(1 for c in cuts if (value <= c if lower else value >= c))
+    b = 1 + n
+    return 5 if len(cuts) == 3 and b == 4 else b
+
+
+def source_date(value_source: str) -> dt.date | None:
+    """The date a measure's figure became known: a slug's own, or the one after `@`."""
+    s = value_source.strip()
+    m = SOURCE_AT.match(s)
+    return dt.date.fromisoformat(m.group(1)) if m else src_date(s)
+
+
+def reference(unit: str, as_at: dt.date, path: Path | None = None) -> dict[str, dict]:
+    """{indicator_id: row}: the latest reference figure published by the as-at date, for its
+    latest data year. A release after the as-at is invisible, as a later source is to a row."""
+    path = path or REFERENCE
+    if not path.exists():
+        return {}
+    best: dict[str, dict] = {}
+    for r in read_csv(path)[1]:
+        if r["iso3"] != unit or dt.date.fromisoformat(r["release"]) > as_at:
+            continue
+        if int(r["year"]) > as_at.year:
+            continue
+        k = r["indicator_id"]
+        if k not in best or (int(r["year"]), r["release"]) > (int(best[k]["year"]), best[k]["release"]):
+            best[k] = r
+    return best
+
+
+def from_reference(r: dict) -> dict:
+    """A verdict built from a reference figure alone: the value and its source, stage left to the band."""
+    return {"indicator_id": r["indicator_id"], "value": r["value"], "unit": r["unit"],
+            "value_year": r["year"], "value_source": f"ref:{r['dataset']}@{r['release']}",
+            "qualifier": f"reference figure ({r['dataset']}); no primary held"}
+
+
 def snapshot_path(reports: Path, unit: str, as_at: dt.date) -> Path:
     return reports / unit / "maturity" / f"{as_at:%Y-%m}.csv"
 
@@ -164,19 +235,25 @@ def due_at(unit_view: dict[str, dict], led: dict[str, dict], as_at: dt.date,
            pending: list | None = None) -> dict[str, list[str]]:
     """{indicator_id: [row_ids visible at the as-at]} for every assessed indicator that needs a verdict.
 
-    An indicator whose rubric is not yet cut cannot be assessed and is not due: it goes on
-    `pending` instead. That is what lets a unit run while C3's measures are still drafting. D3's
-    completeness check is what stops a baseline running with anything still pending.
+    An instrument or a system is due when a mapped row is visible. **A measure is always due.**
+    Its evidence is a figure, and the figure may come from a reference dataset where the base holds
+    nothing, so there may be no row at all (§4). A measure with no figure anywhere is *No evidence*;
+    apply settles that, not this.
+
+    An indicator whose rubric or measure specification is not yet cut cannot be assessed and is not
+    due: it goes on `pending` instead. D3's completeness check (R) is what stops a baseline running
+    with anything still pending.
     """
     out = {}
-    rub = rubric()
+    rub, spec = rubric(), measures()
     for ind in indicators_lib.assessed():
         iid = ind["indicator_id"]
         rids = indicators_lib.row_ids(unit_view.get(iid))
         seen = [r for r in rids if r in led and visible(led[r], as_at)]
-        if not (seen or iid == BUDGET_EXCEPTION and iid in unit_view):
+        measure = ind["kind"] == "measure"
+        if not (seen or measure):
             continue
-        if len(rub.get(iid, {})) != 5:
+        if len(rub.get(iid, {})) != 5 or measure and iid not in spec:
             if pending is not None:
                 pending.append(iid)
             continue
@@ -187,12 +264,13 @@ def due_at(unit_view: dict[str, dict], led: dict[str, dict], as_at: dt.date,
 # ---------------------------------------------------------------------------------------------
 # packet
 
-def packet(unit: str, as_at: dt.date, reports: Path = REPORTS) -> str:
+def packet(unit: str, as_at: dt.date, reports: Path = REPORTS, ref_path: Path | None = None) -> str:
     view = indicators_lib.load_unit(str(reports), unit)
     if view is None:
         raise SystemExit(f"{unit}: no indicators.csv — the mapping pass has not reached this unit")
     led = ledger(reports, unit)
-    rub, nrm = rubric(), norms()
+    rub, nrm, spec = rubric(), norms(), measures()
+    ref = reference(unit, as_at, ref_path)
     prev_at, prev = prior_snapshot(reports, unit, as_at)
     pending: list[str] = []
     need = due_at(view, led, as_at, pending)
@@ -218,9 +296,17 @@ def packet(unit: str, as_at: dt.date, reports: Path = REPORTS) -> str:
             a = anchors[s]
             w(f"- **{s}** {a['anchor']} *(interpolated: {a['interpolated']})*\n")
         p = prev.get(iid)
-        w(f"\nPrior: {'stage ' + p['stage'] + ' on ' + p['stage_rows'] if p else '—'}\n\n")
-        if iid == BUDGET_EXCEPTION:
-            w(f"Budget exception: may cite `budgets/{unit}/…` in value_source with no row.\n\n")
+        w(f"\nPrior: {'stage ' + p['stage'] + ' on ' + (p['stage_rows'] or p['value_source']) if p else '—'}\n\n")
+        if f["kind"] == "measure":
+            sp = spec[iid]
+            w(f"Measure: {sp.get('value', '')} ({sp.get('unit', '')}, {sp['direction']} is better). "
+              f"Band: {sp['method']}, cuts {' · '.join(f'{c:g}' for c in sp['cuts'])}"
+              f"{' (provisional)' if sp.get('provisional') == '1' else ''}. The band is computed from "
+              f"the figure and caps the stage.\n\n")
+            r = ref.get(iid)
+            w(f"Reference figure: {r['value']} {r['unit']} ({r['year']}, {r['dataset']}, released "
+              f"{r['release']}) — used if you give no verdict and the base holds no primary.\n\n"
+              if r else "Reference figure: none held. With no primary either, leave it out: No evidence.\n\n")
         for rid in rids:
             r = led[rid]
             vis = visible(r, as_at)
@@ -244,7 +330,7 @@ def packet(unit: str, as_at: dt.date, reports: Path = REPORTS) -> str:
 # apply
 
 def validate(v: dict, iid: str, kind: str, rids: list[str], led: dict, as_at: dt.date,
-             anchors: dict) -> list[str]:
+             anchors: dict, spec: dict | None = None) -> list[str]:
     errs = []
     st = (v.get("stage") or "").strip()
     srows = [s.strip() for s in (v.get("stage_rows") or "").split("|") if s.strip()]
@@ -261,20 +347,40 @@ def validate(v: dict, iid: str, kind: str, rids: list[str], led: dict, as_at: dt
     stray = [s for s in srows if s not in rids]
     if stray:
         errs.append(f"stage_rows names rows not mapped or not visible at {as_at}: {', '.join(stray)}")
-    budget = iid == BUDGET_EXCEPTION and (v.get("value_source") or "").startswith("budgets/")
-    if not srows and not budget:
+    # A measure stands on its figure, which may come with no row at all (§4).
+    if not srows and kind != "measure":
         errs.append("cites no row in stage_rows")
     vals = {k: (v.get(k) or "").strip() for k in VALUE_FIELDS}
     if kind == "measure":
-        missing = [k for k, x in vals.items() if not x]
-        if missing:
-            errs.append(f"measure without {', '.join(missing)}")
-        elif not re.fullmatch(r"\d{4}", vals["value_year"]) or int(vals["value_year"]) > as_at.year:
-            errs.append(f"value_year {vals['value_year']!r} is not a year on or before {as_at.year}")
+        errs += measure_errors(vals, st, as_at, spec)
     elif any(vals.values()):
         errs.append(f"a {kind} carries value columns")
     if (v.get("reassessed") or "0").strip() not in ("0", "1"):
         errs.append("reassessed is not 0 or 1")
+    return errs
+
+
+def measure_errors(vals: dict, st: str, as_at: dt.date, spec: dict | None) -> list[str]:
+    """A measure's figure, its source's date and its band. Shared with lint-maturity.py check Q."""
+    missing = [k for k, x in vals.items() if not x]
+    if missing:
+        return [f"measure without {', '.join(missing)}"]
+    errs = []
+    if not re.fullmatch(r"\d{4}", vals["value_year"]) or int(vals["value_year"]) > as_at.year:
+        errs.append(f"value_year {vals['value_year']!r} is not a year on or before {as_at.year}")
+    d = source_date(vals["value_source"])
+    if d is None:
+        errs.append(f"value_source {vals['value_source']!r} is not a dated slug, compile or reference")
+    elif d > as_at:
+        errs.append(f"value_source is dated {d}, after the as-at")
+    try:
+        value = float(vals["value"])
+    except ValueError:
+        return errs + [f"value {vals['value']!r} is not a number"]
+    if spec and st.isdigit():
+        ceiling = band(value, spec)
+        if int(st) > ceiling:
+            errs.append(f"stage {st} is above the band the figure allows ({ceiling})")
     return errs
 
 
@@ -293,6 +399,12 @@ def decide(v: dict, p: dict | None, prev_at: dt.date | None, as_at: dt.date, led
     if hits:
         v["moved_by"] = hits[-1]
         return v, "moved"
+    # A measure moves on a new figure: a different source, dated inside the window.
+    src = (v.get("value_source") or "").strip()
+    d = source_date(src) if src else None
+    if src and src != (p.get("value_source") or "").strip() and d and prev_at < d <= as_at:
+        v["moved_by"] = src
+        return v, "moved (new figure)"
     look = any(LOOKBACK in anchors[int(s)]["anchor"] for s in (p["stage"], stage)
                if s.isdigit() and int(s) in anchors)
     cause = (v.get("cause") or "").strip()
@@ -306,12 +418,13 @@ def decide(v: dict, p: dict | None, prev_at: dt.date | None, as_at: dt.date, led
 
 
 def apply(unit: str, as_at: dt.date, verdicts: Path, replace: bool = False,
-          reports: Path = REPORTS) -> list[str]:
+          reports: Path = REPORTS, ref_path: Path | None = None) -> list[str]:
     view = indicators_lib.load_unit(str(reports), unit)
     if view is None:
         raise Refused(f"{unit}: no indicators.csv")
     led = ledger(reports, unit)
-    rub = rubric()
+    rub, spec = rubric(), measures()
+    ref = reference(unit, as_at, ref_path)
     frame = {r["indicator_id"]: r for r in indicators_lib.frame()}
     pending: list[str] = []
     need = due_at(view, led, as_at, pending)
@@ -333,12 +446,22 @@ def apply(unit: str, as_at: dt.date, verdicts: Path, replace: bool = False,
             errs.append(f"{iid}: no mapped row is visible at {as_at}, so it is No evidence")
         else:
             errs += [f"{iid}: {e}" for e in validate(v, iid, frame[iid]["kind"], need[iid], led,
-                                                      as_at, rub.get(iid, {}))]
+                                                      as_at, rub.get(iid, {}), spec.get(iid))]
         got[iid] = v
     # An indicator the prior snapshot staged and the drafter left alone carries forward; one that
-    # needs its first stage has to have a verdict.
+    # needs its first stage has to have a verdict. A measure is the exception: with no verdict it
+    # takes the reference figure at its band (4 at most, since a condition-only 5 is a judgement),
+    # unless it stands on a primary from before, which outranks the reference and carries forward.
+    # With neither, it is No evidence.
     for iid in need:
-        if iid not in got and iid not in prev:
+        if iid in got or iid in prev and not (prev[iid].get("value_source") or "").startswith("ref:"):
+            continue
+        if frame[iid]["kind"] == "measure":
+            if iid in ref:
+                auto = from_reference(ref[iid])
+                auto["stage"] = str(min(band(float(auto["value"]), spec[iid]), 4))
+                got[iid] = auto
+        elif iid not in prev:
             errs.append(f"{iid}: no verdict and no prior stage")
     for iid in prev:
         if iid not in need:
@@ -348,7 +471,7 @@ def apply(unit: str, as_at: dt.date, verdicts: Path, replace: bool = False,
 
     out, notes = [], []
     for iid in [r["indicator_id"] for r in indicators_lib.assessed()]:
-        if iid not in need:
+        if iid not in need or iid not in got and iid not in prev:
             continue
         if iid in got:
             v = {k: (got[iid].get(k) or "").strip() for k in VERDICT_FIELDS}

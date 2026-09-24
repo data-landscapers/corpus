@@ -177,6 +177,10 @@ FIX_RUBRIC = {iid: {s: {"anchor": f"stage {s} anchor", "interpolated": "yes"} fo
               for iid in (STRAT, TALK, MEAS)}
 FIX_RUBRIC[TALK][2]["anchor"] = "restrictions on record in the 12 months to the as-at date"
 ma.rubric = lambda: FIX_RUBRIC
+# The measure bands on fixed cuts 5 / 10 / 20 (US$m, higher is better), stage 5 a condition.
+FIX_SPEC = {MEAS: {"indicator_id": MEAS, "method": "fixed", "direction": "higher",
+                   "cuts": [5.0, 10.0, 20.0], "provisional": "0", "value": "", "unit": "US$m"}}
+ma.measures = lambda: FIX_SPEC
 JUL, AUG = dt.date(2026, 7, 31), dt.date(2026, 8, 31)
 LEDGER = [
     ("XXX-gov.policy-strategy", "2026-05-01-strategy-drafted"),
@@ -219,7 +223,7 @@ def v(iid, stage, rows, **kw):
     return {"indicator_id": iid, "stage": str(stage), "stage_rows": rows, **kw}
 
 
-MEAS_VALUE = dict(value="12.5", unit="US$m", value_year="2025", value_source="XXX-finance.new-dp")
+MEAS_VALUE = dict(value="12.5", unit="US$m", value_year="2025", value_source="2026-06-01-dp-figures")
 BASE = [v(STRAT, 2, "XXX-gov.policy-strategy"), v(TALK, 2, "XXX-gov.discourse-shutdown"),
         v(MEAS, 2, "XXX-finance.new-dp", **MEAS_VALUE)]
 
@@ -407,6 +411,97 @@ try:
     check("a frame count in prose passes T", lm.check_frame_count(d), [])
     (d / "bad.py").write_text("if len(rows) != 117:\n    pass\n", encoding="utf-8")
     check("a frame count in logic fails T", lm.check_frame_count(d), ["bad.py:1: 117"])
+finally:
+    shutil.rmtree(tmp, ignore_errors=True)
+
+
+# ---------------------------------------------------------------------------------------------
+# Measures: the band, the reference figure, and a new figure as the dated cause.
+
+print("\nmeasures: the band")
+T = {"direction": "higher", "cuts": [27.0, 53.0, 80.0, 95.0]}
+L = {"direction": "lower", "cuts": [30.0, 20.0, 10.0]}
+check("target, higher: 50 is band 2", ma.band(50, T), 2)
+check("a lower bound is inclusive: 80 is band 4", ma.band(80, T), 4)
+check("a numeric stage 5: 96 is band 5", ma.band(96, T), 5)
+check("lower is better: 35 is band 1", ma.band(35, L), 1)
+check("lower is better: 15 is band 3", ma.band(15, L), 3)
+check("a condition-only 5 leaves the ceiling at 5 from band 4", ma.band(10, L), 5)
+check("dates: a slug", ma.source_date("2026-06-01-dp-figures"), dt.date(2026, 6, 1))
+check("dates: a reference", ma.source_date("ref:itu-datahub@2026-06-30"), dt.date(2026, 6, 30))
+check("dates: a compile", ma.source_date("outputs/non-state-finance/XXX-nonstate.csv@2026-07-02"),
+      dt.date(2026, 7, 2))
+check("an undated source is not a source", ma.source_date("ITU 2025"), None)
+
+
+def ref_file(root: Path, rows) -> Path:
+    p = root / "reference.csv"
+    with open(p, "w", encoding="utf-8", newline="") as fh:
+        w = csv.writer(fh)
+        w.writerow(["iso3", "indicator_id", "dataset", "value", "unit", "year", "release"])
+        w.writerows(rows)
+    return p
+
+
+tmp = Path(tempfile.mkdtemp(prefix="maturity-measure-test-"))
+try:
+    print("\nmeasures: refusals")
+    for label, meas, want in [
+        ("a stage above its band", v(MEAS, 4, "", **MEAS_VALUE), "above the band"),
+        ("an undated source", v(MEAS, 2, "", **{**MEAS_VALUE, "value_source": "World Bank"}),
+         "not a dated"),
+        ("a source dated after the as-at",
+         v(MEAS, 2, "", **{**MEAS_VALUE, "value_source": "2026-08-02-dp-figures"}), "after the as-at"),
+        ("a value that is not a number", v(MEAS, 2, "", **{**MEAS_VALUE, "value": "about 12"}),
+         "not a number"),
+    ]:
+        root = tmp / label.replace(" ", "-")
+        unit_dir(root)
+        check(label + " is refused", want in refused(root, JUL, BASE[:2] + [meas], "r"), True)
+    root = tmp / "no-row"
+    unit_dir(root)
+    ma.apply("XXX", JUL, verdicts(root, "jul", BASE[:2] + [v(MEAS, 3, "", **MEAS_VALUE)]),
+             reports=root)
+    check("a measure stands on its figure with no row cited", snap(root, JUL)[MEAS]["stage"], "3")
+
+    print("\nmeasures: the reference figure")
+    root = tmp / "ref"
+    unit_dir(root)
+    rp = ref_file(root, [
+        ["XXX", MEAS, "wdi", "7", "US$m", "2025", "2026-07-01"],
+        ["XXX", MEAS, "wdi", "30", "US$m", "2025", "2026-08-15"],     # a later release
+        ["YYY", MEAS, "wdi", "30", "US$m", "2025", "2026-07-01"],
+    ])
+    ma.apply("XXX", JUL, verdicts(root, "jul", BASE[:2]), reports=root, ref_path=rp)
+    s = snap(root, JUL)
+    check("with no verdict, the reference figure is taken at its band", s[MEAS]["stage"], "2")
+    check("and cited with its release", s[MEAS]["value_source"], "ref:wdi@2026-07-01")
+    check("a release after the as-at is not visible", s[MEAS]["value"], "7")
+    check("and the packet shows it", "Reference figure: 7 US$m" in
+          ma.packet("XXX", JUL, reports=root, ref_path=rp), True)
+    notes = ma.apply("XXX", AUG, verdicts(root, "aug", []), reports=root, ref_path=rp)
+    s = snap(root, AUG)
+    check("a new release in the window moves it, capped at 4 without the condition",
+          (s[MEAS]["stage"], s[MEAS]["moved_by"]), ("4", "ref:wdi@2026-08-15"))
+    check("and lint agrees", fails_on(root), "")
+
+    root = tmp / "primary"
+    unit_dir(root)
+    ma.apply("XXX", JUL, verdicts(root, "jul", BASE), reports=root, ref_path=rp)
+    ma.apply("XXX", AUG, verdicts(root, "aug", []), reports=root, ref_path=rp)
+    check("a primary standing is not displaced by a reference",
+          snap(root, AUG)[MEAS]["value_source"], "2026-06-01-dp-figures")
+
+    root = tmp / "none"
+    unit_dir(root)
+    ma.apply("XXX", JUL, verdicts(root, "jul", BASE[:2]), reports=root, ref_path=tmp / "nope.csv")
+    check("with no figure anywhere it is No evidence", MEAS in snap(root, JUL), False)
+
+    root = tmp / "drift"
+    unit_dir(root)
+    ma.apply("XXX", JUL, verdicts(root, "jul", BASE), reports=root)
+    ma.apply("XXX", AUG, verdicts(root, "aug", [v(MEAS, 1, "", **MEAS_VALUE)]), reports=root)
+    check("the same figure re-read to a new stage is held", snap(root, AUG)[MEAS]["stage"], "2")
 finally:
     shutil.rmtree(tmp, ignore_errors=True)
 
