@@ -100,9 +100,17 @@ The list in `maturity-assessment.md` §11, as checks in the report-lint sequence
 
 The two new indicators are mapped in the same pass from rows already held (`indicator-digital-sovereignty.md` §7: the 260 `geopol.*` rows and the four related indicators' rows; `indicator-financial-sustainability.md` §7: the four read country-years). Every previously mapped row is re-verdicted, none re-mapped. Expect, and record, the stage distribution per kind and the *No evidence* count; expect most countries at 2–3 on measures and the sustainability indicator assessable in four. Done when all 54 units carry stages, D3 is clean, and `logs/` holds the run's one-line record.
 
+**How to run it** *(CC, 2026-09-24; the machinery is D1–D3 and C5)*:
+
+1. `python scripts/maturity-reference.py` if the reference is more than a month old. Commit `reference/` if it changed.
+2. **Per unit, the drafting**: `python scripts/maturity-assess.py packet {UNIT} --as-at 2026-07-31 --out <scratch>/{UNIT}-2026-07.md`. A subagent drafts from it under `documentation/maturity-assessor-brief.md` and writes `logs/maturity-verdicts/{UNIT}-2026-07.csv`. The verdicts are kept and committed: they are the drafter's judgement, and the edition is not the only record of it. Instruments and systems need a verdict. Measures need one only where the base holds a primary figure or a condition decides. Batch the units six at a time; STP took about 130k tokens.
+3. **The cut**, once every unit is drafted: `python scripts/maturity-assess.py cut --as-at 2026-07-31 --verdicts-dir logs/maturity-verdicts` as a dry run. Read the band counts. The guard (`maturity-rubric.md`, *How to read a measure*) applies before `--write`.
+4. **Per unit, the apply**: `python scripts/maturity-assess.py apply {UNIT} --as-at 2026-07-31 --verdicts logs/maturity-verdicts/{UNIT}-2026-07.csv`. A refusal is fixed in the verdicts and re-run, never forced.
+5. `python scripts/lint-maturity.py`: every unit N–S clean, R and T pass. Record the stage distribution per kind, and the *No evidence* and unplaced counts, in the run's log line. Commit per batch and push.
+
 ### D5. Run the 2026-08-31 snapshot — **CC** — M
 
-Same pass, `--as-at 2026-08-31`, over the baseline; only rows dated 1–31 August 2026 may move a stage. Done when D3 is clean and the movement list (moved up / down / stalled / reassessed) is written to the log for inspection.
+Same pass, `--as-at 2026-08-31`, over the baseline; only rows dated 1–31 August 2026 may move a stage. The packet marks the in-window sources (▲). The drafter writes verdicts only for indicators that have one, or whose look-back anchor may have aged out. Everything else carries forward, which makes August far cheaper than July. Done when D3 is clean and the movement list (moved up / down / stalled / reassessed) is written to the log for inspection.
 
 ### D6. Read the two runs — **Bill** with **CC** — S
 

@@ -4,7 +4,7 @@
 
 You are assessing one country's position on each indicator against a five-stage rubric, as at a month-end date. The packet file lists every indicator to assess. For each one it gives the norm, the five stage anchors, the prior snapshot's stage (if any) and the ledger rows mapped to it, each with its sources dated on or before the as-at.
 
-**Output**: one CSV, UTF-8, with header exactly
+**Output**: one CSV at `logs/maturity-verdicts/{UNIT}-{YYYY-MM}.csv`, UTF-8, with header exactly
 `indicator_id,stage,stage_rows,value,unit,value_year,value_source,next_milestone,due,qualifier,reassessed,cause`
 and one row per `## ` indicator in the packet. Nothing else goes in the file.
 
