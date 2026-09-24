@@ -533,6 +533,37 @@ try:
 finally:
     shutil.rmtree(tmp, ignore_errors=True)
 
+
+print("\nmeasures: Corpus's own compiled figure")
+tmp = Path(tempfile.mkdtemp(prefix="maturity-compile-test-"))
+try:
+    def comp(value, stage="", at="2026-07-02"):
+        return lambda u, a, l: {MEAS: {"indicator_id": MEAS, "value": value, "unit": "US$m",
+                                       "value_year": "2026", "stage": stage, "qualifier": "compiled",
+                                       "value_source": f"outputs/non-state-finance/XXX-nonstate.csv@{at}"}}
+    rp = ref_file(tmp, [["XXX", MEAS, "wdi", "7", "US$m", "2025", "2026-07-01"]])
+    root = tmp / "c"
+    unit_dir(root)
+    ma.apply("XXX", JUL, verdicts(root, "jul", BASE[:2]), reports=root, ref_path=rp,
+             compile_fn=comp("25"))
+    s = snap(root, JUL)
+    check("a compiled figure outranks the reference", s[MEAS]["value"], "25")
+    check("and is staged at its band, 4 at most", s[MEAS]["stage"], "4")
+    root = tmp / "rule"
+    unit_dir(root)
+    ma.apply("XXX", JUL, verdicts(root, "jul", BASE[:2]), reports=root, ref_path=rp,
+             compile_fn=comp("25", stage="2"))
+    check("a row's own rule may hold it below the band", snap(root, JUL)[MEAS]["stage"], "2")
+    ma.apply("XXX", AUG, verdicts(root, "aug", []), reports=root, ref_path=rp,
+             compile_fn=comp("25", stage="3", at="2026-08-20"))
+    s = snap(root, AUG)
+    check("it is recomputed each run, not carried, and moves on its new date",
+          (s[MEAS]["stage"], s[MEAS]["moved_by"]),
+          ("3", "outputs/non-state-finance/XXX-nonstate.csv@2026-08-20"))
+    check("and lint agrees", fails_on(root), "")
+finally:
+    shutil.rmtree(tmp, ignore_errors=True)
+
 print()
 print("all cases pass" if not fails else f"{len(fails)} of the cases FAILED")
 sys.exit(1 if fails else 0)

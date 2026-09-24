@@ -77,6 +77,7 @@ from pathlib import Path
 HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE))
 import indicators_lib  # noqa: E402
+import maturity_compile  # noqa: E402
 
 CORPUS = HERE.parent
 REPORTS = CORPUS / "outputs" / "reports"
@@ -298,6 +299,7 @@ def packet(unit: str, as_at: dt.date, reports: Path = REPORTS, ref_path: Path | 
     led = ledger(reports, unit)
     rub, nrm, spec = rubric(), norms(), measures()
     ref = reference(unit, as_at, ref_path)
+    comp = maturity_compile.compiled(unit, as_at, LIVE_FROM)
     prev_at, prev = prior_snapshot(reports, unit, as_at)
     pending: list[str] = []
     need = due_at(view, led, as_at, pending)
@@ -330,6 +332,11 @@ def packet(unit: str, as_at: dt.date, reports: Path = REPORTS, ref_path: Path | 
               f"Band: {sp['method']}, cuts {' · '.join(f'{c:g}' for c in sp['cuts'])}"
               f"{' (provisional)' if sp.get('provisional') == '1' else ''}. The band is computed from "
               f"the figure and caps the stage.\n\n")
+            c = comp.get(iid)
+            if c:
+                w(f"Corpus's own figure: {c['value']} {c['unit']} ({c['value_year']}; {c['qualifier']}"
+                  f"{'; stage ' + c['stage'] + ' by the row' + chr(39) + 's rule' if c.get('stage') else ''})"
+                  f" — used if you give no verdict. It outranks any reference.\n\n")
             r = ref.get(iid)
             w(f"Reference figure: {r['value']} {r['unit']} ({r['year']}, {r['dataset']}, released "
               f"{r['release']}; {nature_note(r)}) — used if you give no verdict and the base holds "
@@ -399,7 +406,7 @@ def measure_errors(vals: dict, st: str, as_at: dt.date, spec: dict | None) -> li
     d = source_date(vals["value_source"])
     if d is None:
         errs.append(f"value_source {vals['value_source']!r} is not a dated slug, compile or reference")
-    elif d > as_at and not (vals["value_source"].startswith("ref:") and as_at < LIVE_FROM):
+    elif d > as_at and not (SOURCE_AT.match(vals["value_source"]) and as_at < LIVE_FROM):
         errs.append(f"value_source is dated {d}, after the as-at")
     try:
         value = float(vals["value"])
@@ -446,13 +453,15 @@ def decide(v: dict, p: dict | None, prev_at: dt.date | None, as_at: dt.date, led
 
 
 def apply(unit: str, as_at: dt.date, verdicts: Path, replace: bool = False,
-          reports: Path = REPORTS, ref_path: Path | None = None) -> list[str]:
+          reports: Path = REPORTS, ref_path: Path | None = None,
+          compile_fn=maturity_compile.compiled) -> list[str]:
     view = indicators_lib.load_unit(str(reports), unit)
     if view is None:
         raise Refused(f"{unit}: no indicators.csv")
     led = ledger(reports, unit)
     rub, spec = rubric(), measures()
     ref = reference(unit, as_at, ref_path)
+    comp = compile_fn(unit, as_at, LIVE_FROM)
     frame = {r["indicator_id"]: r for r in indicators_lib.frame()}
     pending: list[str] = []
     need = due_at(view, led, as_at, pending)
@@ -477,18 +486,23 @@ def apply(unit: str, as_at: dt.date, verdicts: Path, replace: bool = False,
                                                       as_at, rub.get(iid, {}), spec.get(iid))]
         got[iid] = v
     # An indicator the prior snapshot staged and the drafter left alone carries forward; one that
-    # needs its first stage has to have a verdict. A measure is the exception: with no verdict it
-    # takes the reference figure at its band (4 at most, since a condition-only 5 is a judgement),
-    # unless it stands on a primary from before, which outranks the reference and carries forward.
-    # With neither, it is No evidence.
+    # needs its first stage has to have a verdict. A measure is the exception. With no verdict it
+    # takes Corpus's own compiled figure, else the reference figure, at its band (4 at most, since
+    # a condition-only 5 is a judgement) or at the stage the row's rule computes. Both are
+    # recomputed every run. Only a drafter's cited primary carries forward, and it outranks both.
+    # With nothing at all, it is No evidence.
     for iid in need:
-        if iid in got or iid in prev and not (prev[iid].get("value_source") or "").startswith("ref:"):
+        primary = iid in prev and not SOURCE_AT.match((prev[iid].get("value_source") or "").strip())
+        if iid in got or iid in prev and (primary or frame[iid]["kind"] != "measure"):
             continue
         if frame[iid]["kind"] == "measure":
-            if iid in ref:
-                auto = from_reference(ref[iid])
-                auto["stage"] = str(min(band(float(auto["value"]), spec[iid]), 4))
+            auto = dict(comp[iid]) if iid in comp else from_reference(ref[iid]) if iid in ref else None
+            if auto:
+                ceiling = band(float(auto["value"]), spec[iid])
+                auto["stage"] = str(min(int(auto.get("stage") or 4), ceiling, 4))
                 got[iid] = auto
+            elif iid in prev:
+                got[iid] = {k: prev[iid].get(k, "") for k in VERDICT_FIELDS}
         elif iid not in prev:
             errs.append(f"{iid}: no verdict and no prior stage")
     for iid in prev:
