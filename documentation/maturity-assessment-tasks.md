@@ -16,7 +16,7 @@ status: in progress; A, B1–B3, C1, C2 (instruments and systems), C4 done 2026-
 
 ## Where this stands
 
-**As of 2026-09-24.** Phase A is done. B1–B3 are done: OSINT applied note 164 on 2026-09-23, and the frame holds 123 rows, 117 assessed. C1 is done (117 norms rows) and so is C4 (`budgets/{ISO3}/external.csv`). C2 has cut every instrument and system, 95 of 117 with 347 interpolated rungs. **D1–D3 done 2026-09-24** (D3's render-side checks come with F). **C3 cut 2026-09-24** (three rows owed), **C5 built**. **Open on the critical path**: the compile-derived measures and the quintile cut (both CC's), then D4–D6. B4 done 2026-09-24.
+**As of 2026-09-24.** Phase A is done. B1–B3 are done: OSINT applied note 164 on 2026-09-23, and the frame holds 123 rows, 117 assessed. C1 is done (117 norms rows) and so is C4 (`budgets/{ISO3}/external.csv`). C2 has cut every instrument and system, 95 of 117 with 347 interpolated rungs. **D1–D4 done 2026-09-24** (D3's render-side checks come with F); the July baseline is applied. **C3 cut 2026-09-24** (three rows owed), **C5 built**. **Open on the critical path**: D5 (August), then D6 (Bill reads the two runs). B4 done 2026-09-24.
 
 ---
 
@@ -96,7 +96,7 @@ The assessor takes an `--as-at YYYY-MM-DD` and reads only rows dated on or befor
 
 The list in `maturity-assessment.md` §11, as checks in the report-lint sequence with the next free letters: stage domain and the `assessed = 0` rule; change ⇒ dated row or `reassessed`; stage 1 ⇒ citation (or `value_source` for the budget measure); measure ⇒ four value columns and `value_year` ≤ as-at year; no cross-kind count; a norms row and five rubric rows per assessed id; published counts match the lookups; status/assessment agreement reported not blocking; edition byte-identity on rebuild; no hard-coded frame count. Each check has a case in `test_indicators.py` or a new `test_maturity.py`. Done when the suite passes on the D1 unit and fails on a deliberately broken copy of it.
 
-### D4. Run the baseline as at 2026-07-31 over all 54 countries — **CC** — L (model authoring; budget it like a filler run)
+### D4. Run the baseline as at 2026-07-31 over all 54 countries — **CC** — L (model authoring; budget it like a filler run) — *done 2026-09-24: 54 editions `maturity/2026-07.csv`, 5,440 cells staged or unplaced (1 282 · 2 1,881 · 3 1,854 · 4 212 · 5 10 · unplaced 1,201); verdicts in `logs/maturity-verdicts/`; seven quintile rows cut; checks N–T clean*
 
 The two new indicators are mapped in the same pass from rows already held (`indicator-digital-sovereignty.md` §7: the 260 `geopol.*` rows and the four related indicators' rows; `indicator-financial-sustainability.md` §7: the four read country-years). Every previously mapped row is re-verdicted, none re-mapped. Expect, and record, the stage distribution per kind and the *No evidence* count; expect most countries at 2–3 on measures and the sustainability indicator assessable in four. Done when all 54 units carry stages, D3 is clean, and `logs/` holds the run's one-line record.
 
