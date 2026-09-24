@@ -16,7 +16,7 @@ status: in progress; A, B1–B3, C1, C2 (instruments and systems), C4 done 2026-
 
 ## Where this stands
 
-**As of 2026-09-24.** Phase A is done. B1–B3 are done: OSINT applied note 164 on 2026-09-23, and the frame holds 123 rows, 117 assessed. C1 is done (117 norms rows) and so is C4 (`budgets/{ISO3}/external.csv`). C2 has cut every instrument and system, 95 of 117 with 347 interpolated rungs. **D1–D3 done 2026-09-24** (D3's render-side checks come with F). **C3 cut 2026-09-24** (three rows owed), **C5 built**. **Open on the critical path**: the compile-derived measures and the quintile cut (both CC's), then D4–D6. **Off it**: B4.
+**As of 2026-09-24.** Phase A is done. B1–B3 are done: OSINT applied note 164 on 2026-09-23, and the frame holds 123 rows, 117 assessed. C1 is done (117 norms rows) and so is C4 (`budgets/{ISO3}/external.csv`). C2 has cut every instrument and system, 95 of 117 with 347 interpolated rungs. **D1–D3 done 2026-09-24** (D3's render-side checks come with F). **C3 cut 2026-09-24** (three rows owed), **C5 built**. **Open on the critical path**: the compile-derived measures and the quintile cut (both CC's), then D4–D6. B4 done 2026-09-24.
 
 ---
 
@@ -50,7 +50,7 @@ Point CC at this file and the five documents. Done when CC has read them and log
 
 Add the two subjects to Corpus's `lookups/taxonomy.csv` (`finance.sustain` at 8 inside Finance, `geopol.sovereignty` at 40), then `geopol.sovereignty--digital-sovereignty` and `finance.sustain--financial-sustainability-of-digital-systems`, per §3 of each indicator document. `indicators_lib.ids()` shows no collision. The frame count is now 117 assessed of 123 rows. **Grep `scripts/` for `121`** and fix every docstring, description and comment that states it (`progress.py`, `report-render.py`, `rebuild.py` are known); none may be in logic. Done when the tests pass and the grep is clean. If B1 is still blocked when Phase D is ready to run, run the baseline without the two, and add them later under `adding-an-indicator.md` §8 with the July and August rows flagged `added`.
 
-### B4. Status outline — **Cowork** drafts, **CC** commits — S
+### B4. Status outline — **Cowork** drafts, **CC** commits — S — *done 2026-09-24: 40 sub-sections, the two new ones on the DPI ids CC listed*
 
 `status-outline.md`: the `### geopol.sovereignty — Digital sovereignty` sub-section with its question and bullets (`indicator-digital-sovereignty.md` §6, with CC checking which DPI variable ids exist); a new `### finance.sustain — Financial sustainability` sub-section with the sustainability bullet (`indicator-financial-sustainability.md` §6). Done when the outline's own counts at the top are updated and the file says 40 sub-sections.
 
