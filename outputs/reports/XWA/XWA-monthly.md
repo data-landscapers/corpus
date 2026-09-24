@@ -1,11 +1,11 @@
 ---
 title: West Africa — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 place: XWA
-ledger_rows: 37
+ledger_rows: 38
 not_held: 1
-record: 8ac43d277713
+record: 45b6c4330d91
 ---
 
 # West Africa: monthly update, August – September 2026
@@ -28,6 +28,8 @@ The regional central bank's banking commission [published its 2025 annual report
 The ECOWAS Commission [installed General Birame Diop as its new president on 31 August](https://www.ecowas.int/ecowas-holds-welcome-and-send-off-ceremony-for-incoming-and-outgone-statutory-appointees-as-h-e-general-birame-diop-assumes-office-as-new-president-of-the-ecowas-commission/), succeeding the leadership that had carried Vision 2050 and the February 2010 Supplementary Act — still the newest regional digital instrument the repository holds — through to this handover.
 
 Officials from ten member states [validated the orientations of a revised postal-sector Directive and the outline of a Regional Postal Master Plan 2027-2030 at Lomé on 12-13 August](https://www.ecowas.int/ecowas-advances-harmonisation-of-the-regional-postal-sector-regulatory-framework/), naming digital transformation, e-commerce, universal-service modernisation, consumer protection and financial inclusion as priority areas. The meeting was an expert validation rather than an adoption, and consultations with member states continue with neither text published.
+
+The [third Mano River Union Internet Governance Forum met in Paynesville on 21-22 September](https://owlpress-sl.com/hon-mariama-bangura-calls-for-stronger-digital-laws-at-mru-internet-governance-forum-2026/), where a Sierra Leonean MP called for harmonised legislation on artificial intelligence across Liberia, Sierra Leone, Guinea and Côte d'Ivoire; no communique or instrument is published.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 

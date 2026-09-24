@@ -1,11 +1,11 @@
 ---
 title: Nigeria — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 place: NGA
-ledger_rows: 221
+ledger_rows: 224
 not_held: 9
-record: 05221f59e813
+record: df2dbcac00bc
 ---
 
 # Nigeria: monthly update, August – September 2026
@@ -145,6 +145,8 @@ Operators are two-thirds of the way to their site commitments: the regulator's b
 The tower programme set a first milestone and the satellite programme a first contract. The ministry [said at least 200 towers will be live by December](https://businessday.ng/news/article/nigeria-targets-200-telecom-towers-by-december-plans-new-satellite-beyond-fibre-coverage/), and Thales Alenia Space [signed to build NigComSat-2A](https://www.thalesaleniaspace.com/en/press-releases/thales-alenia-space-wins-nigcomsat-contract-build-nigcomsat-2a-geostationary). A [second virtual network operator began commercial service](https://techcabal.com/2026/09/14/lebara-launches-nigerias-second-commercial-mvno-network/).
 
 Rural connectivity was folded into the electrification programme. A rural infrastructure company [secured a World Bank-backed results-based facility to deploy 2G, 4G, broadband and community Wi-Fi in 500 unserved and underserved communities under the US$750m DARES programme with the Rural Electrification Agency](https://punchng.com/hotspot-secures-world-bank-facility-for-500-communities/). The account rests on documents seen by one newspaper and gives no facility amount or signing date.
+
+A rural network operator [announced a pilot of licensed satellite backhaul at one rural site with its partner Infratel](https://techafricanews.com/2026/09/24/nuran-wireless-starlink-leo-backhaul-pilot-nigeria/), buying the service through third-party resellers; no start date or result is published.
 <!-- /narrative -->
 ### Data Storage
 
@@ -229,7 +231,7 @@ The survey behind the country's headline inclusion figure entered the repository
 
 On the cross-border rail the operator reported [Nigeria–Rwanda volumes approaching and in places exceeding Nigeria–Ghana, corridors with Cameroon, Niger and Benin growing on trade in Nigerian goods, and church contributions remitted from elsewhere in Africa as a notable component of activity](https://nairametrics.com/2026/09/05/nigerian-churches-drive-rising-cross-border-payments-across-africa-papss-says/) — no volumes, values or period attached to any of it. In the other direction, [diaspora inflows held steady at US$21.8bn in 2025 on central bank figures, against an average 8.46% cost to send US$200 into the region and app-based rivals quoting 2–3% on the London–Lagos corridor](https://techtrends.africa/how-remittance-startups-are-undercutting-western-union-across-africa/).
 
-A new inclusion survey replaced the 2023 baseline. The 2026 round [puts digital financial services use at 64 per cent of adults from 47 per cent, mobile money at 38 per cent from 12 per cent, and exclusion at 21 per cent, with 53 per cent of the poorest fifth still excluded and 92 per cent of agricultural workers paid in cash](https://thenationonlineng.net/report-digital-finance-usage-hits-64/). At its launch the central bank said it had [completed its review of the third inclusion strategy and begun the fourth](https://www.premiumtimesng.com/business/business-news/910100-cbn-begins-work-on-new-financial-inclusion-strategy-targets-deeper-access.html), and the trade minister [inaugurated a steering committee for a strategy to let firms borrow against verified digital invoices](https://thesun.ng/fg-targets-cheap-loans-with-digital-invoices/).
+A new inclusion survey replaced the 2023 baseline. The 2026 round [puts digital financial services use at 64 per cent of adults from 47 per cent, mobile money at 38 per cent from 12 per cent, and exclusion at 21 per cent, with 53 per cent of the poorest fifth still excluded and 92 per cent of agricultural workers paid in cash](https://thenationonlineng.net/report-digital-finance-usage-hits-64/). The same round [puts overall use at 79 per cent of adults and formal inclusion at 73 per cent, past the national strategy's 70 per cent target](https://independent.ng/nigerias-financial-inclusion-reaches-79-as-efinas-a2f-2026-survey-points-to-next-challenge/). At its launch the central bank said it had [completed its review of the third inclusion strategy and begun the fourth](https://www.premiumtimesng.com/business/business-news/910100-cbn-begins-work-on-new-financial-inclusion-strategy-targets-deeper-access.html), and the trade minister [inaugurated a steering committee for a strategy to let firms borrow against verified digital invoices](https://thesun.ng/fg-targets-cheap-loans-with-digital-invoices/).
 <!-- /narrative -->
 ### Registries
 
@@ -254,6 +256,8 @@ The delivery end of the social-protection architecture failed its audit. The Aud
 The health ministry [inaugurated the steering committee of a new office to coordinate, standardise and integrate health technology and data systems](https://health.gov.ng/fg-moves-to-accelerate-digital-health-transformation-with-national-health-technology-and-data-analytics-office/), charged with implementing the [national digital health architecture](https://www.digitalhealth.gov.ng/_files/ugd/83cfc4_4e435ffb27084421b62605872634624b.pdf). No staffing or budget is published.
 
 The Gates Foundation and MTN's group foundation [announced a maternal health programme on 23 September with an initial investment of about US$25m for 2026 to 2030](https://techafricanews.com/2026/09/23/mtn-gates-foundation-nigeria-maternal-health-multiplier/), combining AI-enabled decision support for health workers and mothers with affordable phones, data and facility connectivity, and targeting 500,000 women, 5,000 health workers and 500 facilities by 2030. The funders' shares are not stated.
+
+The statistics bureau, the ILO and UNICEF [opened a three-day dialogue on 22 September to introduce a Social Protection Management Information System and agree regular sharing of administrative data the ILO calls fragmented and inconsistent](https://tribuneonlineng.com/nbs-ilo-unicef-move-to-unify-nigerias-social-protection-data/), after pilots in four states under an EU-funded programme; no outcome is yet reported.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -316,6 +320,8 @@ A Nigerian startup [released version 2.5 of its African speech-recognition model
 NITDA [inaugurated a Technical Working Group to build a multi-agency national regulatory sandbox](https://nitda.gov.ng/nitda-inaugurates-sandbox-technical-working-group-to-strengthen-regulatory-framework-for-digital-innovation/9560/), deliberately sector-agnostic, letting innovators test emerging technologies with several regulators at once before full market approval. It is distinct from the central bank's own sector sandbox, and no framework text, member list or timetable has been published.
 
 At its Abuja forum on 9 September the EU put a figure on Boost Africa: [EUR108 million invested across Africa, stated to have attracted about EUR400 million more and up to 15,000 jobs](https://www.thisdaylive.com/2026/09/09/eu-eib-invest-e108m-to-drive-african-entrepreneurship-create-15000-jobs/), cumulative rather than a Nigerian commitment.
+
+A [US$12m Korean-funded Abuja Centre for Entrepreneurship is under construction with the small-enterprise agency and UNDP, US$5.9m for the building and US$6.1m for equipment and programmes](https://statehouse.gov.ng/tinubu-welcomes-12-million-abuja-entrepreneurship-centre-to-strengthen-nigerias-msme-ecosystem/), targeting 1,500 small businesses; no completion date is given.
 <!-- /narrative -->
 
 ## Capacity

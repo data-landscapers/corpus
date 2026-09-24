@@ -1,11 +1,11 @@
 ---
 title: Egypt — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 place: EGY
-ledger_rows: 124
+ledger_rows: 126
 not_held: 45
-record: 63e51d63d103
+record: 80944b349d05
 ---
 
 # Egypt: monthly update, August – September 2026
@@ -126,6 +126,8 @@ The largest private bank's digital-bank venture, holding preliminary approval, [
 
 <!-- narrative: dpi--dpi-registry -->
 On 4 August the state-land regularisation platform was reported at [more than 302,000 applications received against about 1,700 contracts drawn up](https://www.youm7.com/story/2026/8/4/%D8%A7%D9%84%D9%85%D9%86%D8%B5%D8%A9-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9-%D8%AA%D8%AA%D9%84%D9%82%D9%89-302-%D8%A3%D9%84%D9%81-%D8%B7%D9%84%D8%A8-%D8%AA%D9%82%D9%86%D9%8A%D9%86-%D9%84%D8%A3%D8%B1%D8%A7%D8%B6%D9%89-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9/7503179). The supply ministry's figure of [850,000 people removed from the food-subsidy system since June 2026, with millions more slated for exclusion next year](https://newscentraltv.com/egyptians-struggle-to-afford-bread-after-aid-cuts/), was reported on 12 September. Under a protocol reported on 3 September, eFinance is to [host Rashid, the national platform cataloguing state-owned and state-contributed companies](https://www.cairo.gov.eg/en/news/2026/july/22/676fb4d6d94c47e0ab12e10fe1cc69e5).
+
+The financial regulator [surveyed creditors on the Egyptian Movable Collateral Registry's services and electronic system and reviewed the findings with its operator, E-Finance](https://www.dailynewsegypt.com/2026/09/21/fra-explores-developing-egyptian-movable-collateral-registry-services/); the proposals go to technical and legal review, and no registration count is published.
 <!-- /narrative -->
 ### Sectoral management information systems
 
@@ -199,6 +201,8 @@ The communications ministry [signed a three-year memorandum with Intel on 16 Sep
 The state's university artificial-intelligence programme closed its fourth round on 4 August with 1,090 students and 445 projects, taking the cumulative total since 2022 to 2,710 students ([round account](https://gate.ahram.org.eg/News/5882834.aspx)). A tripartite agreement added mentoring and real healthcare datasets to student projects, with no data-governance arrangement stated for the patient-derived data.
 
 The national telecommunication institute [signed a memorandum with Cisco to certify 3,000 technology instructors, 1,000 a year for three years](https://www.connectingafrica.com/ai/egypt-cisco-to-train-3-000-ai-instructors) (2 September), and protocols on [AI capacity building with a state authority](https://mcit.gov.eg/en/Media_Center/Press_Room/Press_Releases/117432), [enterprise-systems training with a private firm](https://techafricanews.com/2026/09/17/egypts-nti-partners-jupiter-2000-train-youth-enterprise-resource-management/) and [digital transformation and automation with another](https://techafricanews.com/2026/09/21/egypts-nti-partners-with-4dtio-to-train-youth-in-digital-transformation-and-automation/). None publishes a cohort size, cost or placement target.
+
+The presidential Digilians initiative [admitted 1,674 of about 40,000 applicants to its first cohort, the state paying EGP 500,000 to EGP 1m per trainee for master's and diploma tracks in AI, data science, software and cybersecurity](https://english.ahram.org.eg/News/577047.aspx), on ministry figures; no completion figure is published.
 <!-- /narrative -->
 ### Research institutions
 

@@ -1,11 +1,11 @@
 ---
 title: Africa — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 place: XAF
-ledger_rows: 142
+ledger_rows: 145
 not_held: 3
-record: 8ce3298bf17e
+record: c0f777146768
 ---
 
 # Africa: monthly update, August – September 2026
@@ -69,6 +69,8 @@ Two commercial programmes opened: a [technology company offered African students
 The scarcity behind African-language models is being attacked at the data layer. A research company [has set out to build training data for a thousand African languages, after years in which the absence of that data was what stopped anyone building language technology for the continent](https://techcabal.com/2026/09/08/mansa-ai-african-languages/). It is an ambition rather than a delivered corpus: no language list, licence, funding or release is held, and it sits alongside the grant programme covering twenty-six language-model projects recorded separately.
 
 The Commission's Infrastructure and Energy Department [put draft AU Guidelines on AI Governance and Regulation to an online open consultation on 23 and 24 September, with written submissions accepted to 30 September](https://news.internetsociety.org/webinar-23-24-sep-1200-utc-african-union-open-stakeholder-consultation-on-ai-governance-and-regulation/); the draft itself is not published.
+
+A [Hub for AI and Disability Inclusion, hosted at KNUST, and an African Disability Data Network were launched in Nairobi with IDRC, UK and AI4D backing](https://techcabal.com/2026/09/24/africas-ai-ambitions-have-a-disability-data-problem/), to build datasets including African sign languages and assess disability inclusion in national AI strategies; no dataset is yet published.
 <!-- /narrative -->
 
 ## Shared systems and infrastructure
@@ -127,6 +129,8 @@ A commercial rail widened alongside the public ones. A stablecoin payments platf
 The continental rail reported growth without a base: [volumes up about 1,000% and values up about 120% year on year, with 24 central banks connected](https://www.afreximbank.com/papss-targets-accelerated-adoption-and-transaction-growth-as-network-expands-across-africa/), figures that carry no absolute totals.
 
 Two card-network products launched on 22 September. [Mastercard launched Wallet Pay, a set of wallet interoperability, card-issuing, acceptance and cross-border services for digital wallet providers, with MTN Group Fintech and AXIAN among its African launch partners](https://techafricanews.com/2026/09/22/mastercard-launches-wallet-pay-expand-digital-wallet-interoperability/), and [Verto and Visa launched a corporate card for African businesses that settles in 11 currencies from linked wallets](https://techafricanews.com/2026/09/22/verto-visa-launch-multi-currency-corporate-cards-african-businesses/). Neither publishes African volumes or pricing.
+
+A mobile-money operator moved toward public markets: [Airtel Money, running in 13 African markets, announced on 23 September its intention to float in London, with existing shareholders selling, no new capital raised and the IFC to buy up to GBP67.2m of shares](https://www.londonstockexchange.com/news-article/market-news/airtel-mobile-commerce-n-v-intention-to-float/17799936); the prospectus is due in early October.
 <!-- /narrative -->
 ### Sectoral management information systems
 
@@ -175,6 +179,8 @@ India enters this record for the first time, and as a conversation rather than a
 A five-year, foundation-funded digital-skills initiative, AYCE Digital, [launched on 27 August](https://news.asu.edu/20260827-local-national-and-global-affairs-new-asu-initiative-connects-young-people-across-africa) run by a United States university through more than 100 local facilitators, targeting foundational digital literacy for more than 50,000 learners, intermediate workforce credentials for 10,000 and advanced technical certifications in AI, cloud computing and project management for 2,500; no financial value is stated and no cohort, completion or placement figure is yet on file.
 
 The month's other capacity item is about who runs the state rather than who uses the technology. A continental capacity foundation [convened alumni of its public-sector leadership programme, run with private-foundation support, and argued that reform stalls on leadership gaps, institutional fragmentation and resistance to change rather than on policy](https://www.the-star.co.ke/news/2026-09-03-africa-urged-to-put-leadership-at-centre-of-public-sector-reforms) — its executive secretary putting it that public sector reform is rarely held back by a lack of good ideas. No cohort size, cost, country list or evaluation is published.
+
+The [Her CyberTracks programme gathered nearly 50 women cybersecurity professionals in Addis Ababa for its 2026 regional training](https://techreviewafrica.com/news/7421/), co-implemented by the ITU and GIZ with European funding.
 <!-- /narrative -->
 ### Digital divides
 

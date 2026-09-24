@@ -1,6 +1,6 @@
 ---
 title: Mozambique: status report
-compiled: 2026-09-21
+compiled: 2026-09-24
 place: MOZ
 region: XSA
 built_by: STATUS-INIT
@@ -195,7 +195,7 @@ The registers that exist are mostly partial. Civil registration runs on [e-SIRCE
 
 Where the registers meet, they meet on paper. A [NUIT is compulsory before business licensing](http://www.at.gov.mz/eng/Internacional-Trade/FAQ-s/NUIT), which cross-references the tax and business registers procedurally and nothing more, and [interoperability between the land information system, municipal cadastres and the Justice Ministry's property registry was still a project goal in 2018](https://ewsdata.rightsindevelopment.org/files/documents/51/WB-P164551.pdf). None of them can be reconciled against a full population count while [identity-card coverage stays incomplete](https://aimnews.org/2024/06/12/only-34-per-cent-of-mozambicans-have-an-identity-card/).
 
-Two things are in motion. The [elections commission is studying Angola's permanent voter registration as an alternative to Mozambique's pre-election model](https://clubofmozambique.com/news/mozambique-cne-prepares-for-2028-municipal-polls-continues-study-on-holding-three-elections-on-one-day/) (August 2026), and the disaster management agency INGD has [announced a biometric registry of humanitarian aid recipients, piloted in Beira ahead of an October 2026 launch, to stop duplicate assistance](https://clubofmozambique.com/news/mozambique-aid-recipient-digital-register-to-be-launched-to-prevent-duplication/).
+The [elections commission is studying Angola's permanent voter registration as an alternative to Mozambique's pre-election model](https://clubofmozambique.com/news/mozambique-cne-prepares-for-2028-municipal-polls-continues-study-on-holding-three-elections-on-one-day/) (August 2026), and the disaster management agency INGD has [announced a biometric registry of humanitarian aid recipients, piloted in Beira ahead of an October 2026 launch, to stop duplicate assistance](https://clubofmozambique.com/news/mozambique-aid-recipient-digital-register-to-be-launched-to-prevent-duplication/).
 
 ### Sectoral management information systems
 <!-- dpi.mis -->
@@ -267,7 +267,7 @@ Mozambique has the teachers and not the results. [Human Resources in Education i
 
 The pipeline narrows sharply above school level. [Gross tertiary enrolment is 7.3%, and science and engineering graduates are 9.6% of all graduates, ranking Mozambique 111th of 133 economies (2024)](https://www.wipo.int/edocs/gii-ranking/2024/mz.pdf).
 
-Two things are being done to the school system from the digital side, and neither touches the reading of it. [The 5G licences awarded in June 2026 oblige operators to connect schools and community institutions](https://clubofmozambique.com/news/mozambique-incm-awards-5g-licences-to-mobile-operators/) with equipment, installation and support included, and the education ministry's [Education Technology Plan](https://www.ined.gov.mz/wp-content/uploads/2022/06/Plano-Tecnolo%CC%81gico-da-Educac%CC%A7a%CC%83o-2019-Vfinal-copy.pdf) sets out interoperability between its own systems and the rest of government, with student records eventually keyed to the citizen identification number. Both are about what will be connected rather than who will be able to use it.
+The digital measures aimed at schools do not reach learning outcomes. [The 5G licences awarded in June 2026 oblige operators to connect schools and community institutions](https://clubofmozambique.com/news/mozambique-incm-awards-5g-licences-to-mobile-operators/) with equipment, installation and support included, and the education ministry's [Education Technology Plan](https://www.ined.gov.mz/wp-content/uploads/2022/06/Plano-Tecnolo%CC%81gico-da-Educac%CC%A7a%CC%83o-2019-Vfinal-copy.pdf) sets out interoperability between its own systems and the rest of government, with student records eventually keyed to the citizen identification number. Both are about what will be connected rather than who will be able to use it.
 
 ### Training and skills
 <!-- capacity.training -->

@@ -1,12 +1,12 @@
 ---
 title: Nigeria: status report
-compiled: 2026-09-16
+compiled: 2026-09-24
 place: NGA
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-09
 intersections_read: 16
-sources_cited: 256
+sources_cited: 258
 sections_written: 37
 not_established: 0
 acquire_lines: 41
@@ -296,7 +296,7 @@ The obligation is already on the books. The [Discrimination Against Persons with
 
 Where access widens, a condition comes with it. Every eligibility option in the Nigerian Communications Commission's June 2026 consultation on zero-rated access to educational platforms [requires users to register](https://www.ncc.gov.ng/sites/default/files/2026-06/Consultation-Paper-on-Zero-Rated-Access-to-Educational-Platforms.pdf). Identification is the other condition, now running through nearly everything: a working number is [required for healthcare, education, banking, employment, telecoms and welfare](https://www.thisdaylive.com/2026/03/07/nigerians-groan-under-digital-identity-regime/), [registering a newborn requires a parent to hold one](https://www.nigeriacommunicationsweek.com.ng/npc-opens-nationwide-digital-birth-death-registration-platform/), and the [social register's own linkage to the identity system is unfinished](https://tribuneonlineng.com/77-million-nigerians-now-on-fgs-safety-net-register-nassco/), so qualifying for a service and being able to obtain it have come apart. Over the decade to 2023 the Ibrahim Index had Nigeria [21st of 54 African states on the equal distribution of access to public services, a score that rose 1.1 points](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ng.pdf), while Nigerians rated the [difficulty of obtaining an identity document among the country's worst and most deteriorated measures in the same index](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ng.pdf).
 
-Access to money has moved fastest at the top. [Retail equity trading rose 138.76% in January to May 2026 against the same months of 2025, at ₦1.20 trillion, and retail investors account for 36.22% of trading on the Nigerian Exchange](https://techcabal.com/2026/07/18/their-parents-lost-fortunes-theyre-buying-nigerian-stocks-anyway/), bought through phone apps at ticket sizes as small as ₦5,000. At the other end, [most bank account-holders have no access to credit](https://techcabal.com/2025/04/29/cbn-launches-open-banking/). What is built against that gap borrows the informal sector's shape: [Rank has taken the rotating ajo and esusu savings circle into a licensed product with a fixed fee and a guarantee on payouts](https://techcabal.com/2026/07/21/rank-launches-community-finance-products/).
+Access to money has widened past its target. [The 2026 access-to-finance survey puts 79% of adults using a financial product or service and 73% formally included, above the 70% set by the National Financial Inclusion Strategy](https://independent.ng/nigerias-financial-inclusion-reaches-79-as-efinas-a2f-2026-survey-points-to-next-challenge/) (September 2026), with [exclusion at 21% and 53% of the poorest fifth still excluded](https://thenationonlineng.net/report-digital-finance-usage-hits-64/). It has moved fastest at the top. [Retail equity trading rose 138.76% in January to May 2026 against the same months of 2025, at ₦1.20 trillion, and retail investors account for 36.22% of trading on the Nigerian Exchange](https://techcabal.com/2026/07/18/their-parents-lost-fortunes-theyre-buying-nigerian-stocks-anyway/), bought through phone apps at ticket sizes as small as ₦5,000. At the other end, [most bank account-holders have no access to credit](https://techcabal.com/2025/04/29/cbn-launches-open-banking/). What is built against that gap borrows the informal sector's shape: [Rank has taken the rotating ajo and esusu savings circle into a licensed product with a fixed fee and a guarantee on payouts](https://techcabal.com/2026/07/21/rank-launches-community-finance-products/).
 
 ### Digital divides
 <!-- include.divides -->
