@@ -1,11 +1,11 @@
 ---
 title: Senegal — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 place: SEN
-ledger_rows: 66
-not_held: 4
-record: a4acb91b894b
+ledger_rows: 68
+not_held: 3
+record: 67914ac94ff8
 ---
 
 # Senegal: monthly update, August – September 2026
@@ -165,6 +165,8 @@ The one local-records digitisation with a published figure entered the repositor
 <!-- narrative: digitalisation--digital-rural -->
 
 The head of the deconcentrated service network said the thing his own network runs on is missing. Closing a tour of four regions, he [said that without connectivity there can be no deconcentration of public services, and listed connectivity, workstations, IT equipment, archive and mail management and communications security among the problems found in prefectures and gendarmerie posts](https://aps.sn/the removal of paper-sans-connectivite-pas-de-deconcentration-des-services-publics-selon-le-directeur-de-senegal-services/), while announcing the forthcoming integration of civil registration into the national platform for administrative acts. No centre count, connectivity rate or remediation budget is published against the diagnosis.
+
+The online civil-status certificate platform has left its pilot: by August it [was operating in 189 municipalities, with the management software it depends on deployed in 74 per cent of civil-status centres](https://www.ecofinagency.com/news-digital/2109-59111-senegal-digitizes-77-of-civil-registry-centers-but-data-security-and-fraud-remain-challenges), on the agency's own figures. Certificates requested online are still collected at the centre.
 <!-- /narrative -->
 
 ## Technology
@@ -182,6 +184,11 @@ An outside score placed the country: Oxford Insights' 2025 index [put government
 
 <!-- narrative: technology--tech-industry -->
 A French insurance-technology company [acquired Tanel, a Senegalese health-technology firm, in what the account calls a rare francophone health-technology exit](https://techcabal.com/2026/09/02/alan-tanel/). No price, range or cash-and-stock split was disclosed by either side and the company's revenue was withheld, so nothing here can be put against the sector's other exits. What the transaction does establish is a buyer outside the region taking a Senegalese health platform, which is the first such disposal on this ledger.
+<!-- /narrative -->
+### Innovation ecosystem
+
+<!-- narrative: technology--tech-innovate -->
+Belgium's development agency [opened a tender on 21 September for a women-in-tech community platform, with Senegalese chapters in Dakar and Kaolack, and for the sourcing of 12 African and European ventures](https://www.enabel.be/app/uploads/2026/09/TZA25001-10031-_Consultancy-for-Development-of-a-Women-in-Tech-WiT-Community-Platform-and-EU-Africa-Venture-Sourcing.pdf), under a 2026-2028 programme covering Senegal, Uganda and Tanzania. No contract value is stated.
 <!-- /narrative -->
 
 ## Capacity

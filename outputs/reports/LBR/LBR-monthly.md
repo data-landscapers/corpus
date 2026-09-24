@@ -1,11 +1,11 @@
 ---
 title: Liberia — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 place: LBR
-ledger_rows: 44
+ledger_rows: 46
 not_held: 6
-record: 080a64d838cd
+record: b39a3de03448
 ---
 
 # Liberia: monthly update, August – September 2026
@@ -125,6 +125,7 @@ Licensing moved off paper in the same week. The telecommunications regulator [pu
 A second permit process is following it online. The education ministry says it is [digitising operating permits for private schools after finding schools submitting mismatched teacher-qualification records, and has mapped schools across five counties with donor support to extend the mapping to ten more](https://newspublictrust.com/education-ministry-advances-digital-school-permit-system-while-funding-provided-to-renovate-public-schools). No platform, cost or completion date is named.
 
 The internal audit agency [launched an audit management system on 10 September to automate audits across ministries, agencies and public corporations](https://frontpageafricaonline.com/liberia-iaa-launches-digital-platform-to-improve-audit-processes/), a year after [tendering a consultancy to build it](https://iaa.gov.lr/processes-automation/); no cost, vendor or onboarding count is published.
+The state auditor is following it: the General Auditing Commission [has begun automating public-sector audits, with KPMG contracted under a World Bank-supported project to build the software](https://www.thenewdawnliberia.com/gac-automates-public-audits/), disclosed on 22 September with no cost or go-live date.
 <!-- /narrative -->
 
 ## Technology
@@ -156,7 +157,9 @@ UNDP also [announced a partnership with the University of Liberia to establish t
 
 A second route into the national university was signed rather than built: a [tripartite memorandum of 27 August under which a foreign online university covers 97% of online tuition for more than 200 students, with three smart classrooms due in 2027](https://www.liberianobserver.com/news/ul-signs-tripartite-partnership/article_5cddfcff-d093-4f21-a8b5-4ad801df628a.html). No commitment amount is stated, so what the repository holds is a tuition-waiver share, a student count and a classroom count with no money behind any of them. [National stakeholder consultations on establishing the university's master's programme in artificial intelligence are running with UNDP support](https://www.undp.org/liberia/press-releases/building-liberias-ai-future-undp-ul-consult-stakeholders), bringing together government institutions, development partners, academia, private-sector actors and civil society.
 
-The gender ministry [signed an agreement with Cybastion to build women's technology and business hubs with childcare centres](https://techafricanews.com/2026/09/23/liberia-cybastion-women-digital-business-innovation-hubs/), a flagship campus in Monrovia and sites in Voinjama, Gbarnga, Kakata and Buchanan, with training through the Cisco Networking Academy. It was reported on 23 September with no cost or timetable.
+The gender ministry [signed an agreement with Cybastion to build women's technology and business hubs with childcare centres](https://techafricanews.com/2026/09/23/liberia-cybastion-women-digital-business-innovation-hubs/), a flagship campus in Monrovia and sites in Voinjama, Gbarnga, Kakata and Buchanan, with training through the Cisco Networking Academy. It was [signed in New York on 22 September for a 36-month term](https://elbcnews.com/2026/09/23/gender-minister-signs-partnership-with-cybastion-institute-of-technology-and-cisco-system/), with no cost stated.
+
+Outside government, a foundation-backed computer and robotics laboratory in Monrovia, open since July 2024, [reached 1,717 high-school students in 2025, up from about 200 in 2024](https://www.modernghana.com/news/1530142/10-years-of-impact-helping-africa-foundation-call.html), on the partner foundation's own figures.
 <!-- /narrative -->
 
 ## Inclusion

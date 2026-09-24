@@ -1,11 +1,11 @@
 ---
 title: Uganda — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 place: UGA
-ledger_rows: 109
+ledger_rows: 114
 not_held: 11
-record: 22855b9f00c1
+record: ed0ea0d1ec07
 ---
 
 # Uganda: monthly update, August – September 2026
@@ -86,6 +86,8 @@ On 5 August the network operator with the largest published footprint released i
 The largest mobile operator [extended its group-level Starlink partnership to Uganda](https://techafricanews.com/2026/08/27/mtn-uganda-starlink-expand-connectivity-remote-areas/) to bring satellite-backed connectivity to remote areas. It is distinct from the satellite operator's own licence, and no coverage target, site count or tariff is given.
 
 A second international route is being procured under a presidential directive rather than by tender. The state transmission company [cancelled open bidding for a commercialisation partner for its fibre network and moved to prepare a proposal for a single named company for the Uganda-Tanzania connection, the parliamentary committee on state enterprises asking why firms that had expressed interest were dropped](https://nilepost.co.ug/news/368959/uetcl-in-spotlight-over-uganda-tanzania-fibre-connection). A State House letter of 27 August 2025 had told the ICT and energy ministers that a Tanzanian route could be cheaper than the existing route through Kenya, which the President described as full of commercial players looking for profit. No contract, value, timetable or committee finding is held, and the cost comparison is an assertion.
+
+The second operator followed with a service rather than a partnership: it [launched Starlink satellite-to-mobile SMS and light data for compatible smartphones on 24 September](https://techafricanews.com/2026/09/24/airtel-uganda-rolls-out-starlink-satellite-to-mobile-service/), free for 30 days and then through its data bundles, with no coverage or subscriber figure.
 <!-- /narrative -->
 ### Energy
 
@@ -144,6 +146,8 @@ A fourth arrangement opened on 19 August, and it is card rather than wallet: a c
 A parliamentary committee found the expressway concession still running on cash. Its report of 25 August [recommends that the revenue authority take over toll collection and introduce electronic payment, calls for a forensic audit of the concession's operations and revenue collections, and asks for scrutiny of a reported UGX 36 billion contract extension](https://www.newvision.co.ug/category/news/mps-want-ura-to-take-over-toll-collections-of-NV_239482_082026); the ICT minister of state told the House that the operator has never given government the source code or password of the system.
 
 On 22 September Afreximbank [issued a US$29m guarantee to the operator of the regional customs bond platform](https://www.afreximbank.com/afreximbank-issues-a-29-million-guarantee-to-scale-eac-customs-bond-easing-movement-of-goods-across-east-africa/), which was piloted in Uganda from August 2025 and launched across the Community in March 2026. No uptake figure is published.
+
+A microfinance bank moved onto a switch operator's network on 22 September, [putting deposits, withdrawals, loan repayments and bill payments with more than 21,000 agents and its debit cards on more than 650 ATMs](https://www.independent.co.ug/pride-bank-and-interswitch-join-forces-to-deliver-easier-accessible-banking-solutions-to-customers/). No cost or customer target is stated.
 <!-- /narrative -->
 ### Registries
 
@@ -169,6 +173,8 @@ The parish programme's system was audited short of its design. The Auditor-Gener
 The tax stamps system published its scale: [more than 1,680 manufacturers and importers registered across 13 excisable products](https://nilepost.co.ug/business/370814/ura-lauds-manufacturers-on-dts-success), run for the revenue authority by SICPA since 2018.
 
 The parish model's reach was restated. An inter-ministerial meeting [put it at 3,571,108 beneficiaries against UGX 4.317 trillion capitalised through 10,589 parish SACCOs, lending up to UGX 1 million at 6 per cent a year](https://www.thekampalareport.com/latest/2026091868307/ugandas-parish-development-model-reaches-3-5-million-beneficiaries-with-1-1-billion-government-investment.html). The count is the government's own.
+
+The facility record system drew its first district-level complaint on this record. Health workers in Kiryandongo told a public meeting on 19 September that [the ministry's electronic medical record system, introduced in selected facilities in 2016, stalls care for want of connectivity, stable power and computers](https://www.newvision.co.ug/category/health/kiryandongo-health-facilities-struggle-with-e-NV_241031_092026). No national count of facilities running it is published.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -192,6 +198,8 @@ The revenue authority [told manufacturers its replacement tax platform has been 
 
 <!-- narrative: digitalisation--digital-localgov -->
 The records system reached district level for the first time on this record. The Ministry of Public Service [ran training and onboarding for its electronic document and records management system at Kasese and Rwampara district local governments on 17 August](https://www.publicservice.go.ug/edrms-training-and-on-boarding-at-kasese-and-rwampara-dlgs/) — two districts of 146, with no rollout plan or target published, and a page that returned only its title and date at capture, so what the training covered is not on the record. It follows a digital certification system for village-council letters, [presented at an international summit in November 2025 and designed to replace handwritten local council letters with digitally signed credentials linked to the identity register](https://ict.go.ug/media/news/digitizing-lc1-letters-for-improved-service-delivery), which has not been heard of since.
+
+Local-government finance got a system of its own on 22 September, when the local government ministry [launched its computerised accounting and reporting tool in Hoima city, stating that it had reached 25 lower local governments and 41 health units and schools](https://www.newvision.co.ug/category/news/govt-rolls-out-digital-tool-to-improve-financ-NV_241123_092026). No national target is given.
 <!-- /narrative -->
 ### Rural digital data capture
 
@@ -228,6 +236,8 @@ One domestic firm passed into foreign ownership, and the consideration is not on
 Three innovation programmes were opened or closed. The ICT institute [launched the fourth and final cohort of a Japan-supported entrepreneurship programme on 22 July with 83 student innovators](https://techafricanews.com/2026/07/22/uict-launches-fourth-uj-connect-cohort-to-build-ugandas-next-tech-startups/), publishing no cumulative startup, funding or job figure across the four batches. A [recurring fintech convening opened on 13 July](https://www.newvision.co.ug/category/business/makerere-innovation-incubation-center-afriven-NV_236970_072026). On 3 August the minister of state committed to [supporting commercialisation of innovations developed at the institute](https://techafricanews.com/2026/08/03/uganda-ict-ministry-backs-commercialisation-of-uict-innovations/), with no budget, instrument, target or timeline.
 
 The startup environment was assessed rather than funded. A continental alliance and the ICT ministry [validated a national digital entrepreneurship and innovation assessment at a Kampala workshop of public institutions, regulators, academia, entrepreneurs, hubs and support organisations, which named as priorities advancing the Startup Bill, strengthening science, technology and innovation policy, widening access to regulatory sandboxes and using public procurement to open markets to local startups](https://techafricanews.com/2026/08/31/smart-africa-uganda-reforms-digital-entrepreneurship/). The assessment text is not published and no reform is dated or budgeted.
+
+Belgium's development agency [opened a tender on 21 September for a women-in-tech community platform and the sourcing of 12 African and European ventures](https://www.enabel.be/app/uploads/2026/09/TZA25001-10031-_Consultancy-for-Development-of-a-Women-in-Tech-WiT-Community-Platform-and-EU-Africa-Venture-Sourcing.pdf), under a 2026-2028 programme covering Uganda, Tanzania and Senegal. No contract value is stated.
 <!-- /narrative -->
 
 ## Capacity

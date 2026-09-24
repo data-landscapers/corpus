@@ -1,11 +1,11 @@
 ---
 title: Togo — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 place: TGO
-ledger_rows: 65
-not_held: 22
-record: 7501d153aea7
+ledger_rows: 66
+not_held: 21
+record: 9452bafb9e17
 ---
 
 # Togo: monthly update, August – September 2026
@@ -28,6 +28,8 @@ Three framework documents entered the repository this month and not one is in fo
 
 <!-- narrative: governance--gov-policy -->
 The [government roadmap for 2026-2031 is in force](https://www.republiquetogolaise.tg/gouvernance-economique/0108-12153-vision-2040-le-gouvernement-renforce-son-dialogue-avec-le-secteur-prive) with headline targets of a doubling of gross domestic product per head and poverty below 15 per cent. The text is not held, no digital chapter or target is on record, and the three sectoral tracks at its private-sector workshop of 30 July were agro-industry, logistics and transport, and energy — none of them digital.
+
+A sectoral instrument moved alongside it. On 21 September the education ministry [presented a drafted national policy on artificial intelligence in technical and vocational training to a six-country regional workshop](https://education.gouv.tg/etfp-dual-le-togo-mise-sur-lentreprise-linsertion-et-lintelligence-artificielle/), which is to return an enriched version by its close on 24 September; the draft is not published.
 <!-- /narrative -->
 ### Legislation and regulation
 
