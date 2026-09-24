@@ -2,7 +2,7 @@
 type: reference
 title: maturity-rubric.md — the five-stage anchors per indicator, drafted chapter by chapter for lookups/maturity-rubric.csv
 last_reviewed: 2026-09-23
-status: task C2 complete — every instrument and system cut 2026-09-23 (95 of 117); task C3 — the 22 measures drafted 2026-09-24, CC's five review items acted on the same day, awaiting second review and cut
+status: task C2 complete; task C3 — the 22 measures accepted and cut 2026-09-24 (items 1–5); items 6–8 acted on 2026-09-24, awaiting CC's re-cut
 ---
 
 # The rubric
@@ -1187,19 +1187,19 @@ All 22 measures in one leg, because they share one set of rules and reviewing th
 
 ### `infra.connect--mobile-penetration` — norm: DTS (top)
 
-- **Value**: individuals aged 15+ owning a mobile phone, per cent (the ITU and UMC 2030 definition). **Direction** higher.
-- **Record**: a national household survey or census (the statistics office, DHS or MICS module) over the ITU series; **reference** ITU DataHub mobile-phone ownership (latest release; CC to record the year). SIM subscriptions per 100 and GSMA unique subscribers (total-population base) are different definitions and go in the qualifier only.
+- **Value**: individuals aged 10 and over owning a mobile phone, per cent — ITU's definition (SDG 5.b.1), the series that exists for most of the continent. **Direction** higher. The UMC 2030 target is stated for people 15+; where a survey gives 15+, it goes in the qualifier.
+- **Record**: a national household survey or census that cuts at 10+, over the ITU series; **reference** ITU DataHub mobile-phone ownership, SDG 5.b.1 (latest release; CC to record the year). A survey cut at 15+, SIM subscriptions per 100 and GSMA unique subscribers (total-population base) are different definitions and go in the qualifier only.
 - **Band**: Africa quintiles for stages 1–4, with provisional cuts; stage 5 needs the DTS end state.
 - **Method**: quintiles · higher
 - **Cuts**: 50 · 65 · 80 · 95 — provisional for stages 2–4
 
 | stage | anchor | interpolated |
 |---|---|---|
-| 1 | Bottom Africa quintile of mobile-phone ownership among people 15+; provisionally below 50 %. | yes |
+| 1 | Bottom Africa quintile of mobile-phone ownership among people 10+; provisionally below 50 %. | yes |
 | 2 | Second quintile; provisionally 50–65 %. | yes |
 | 3 | Middle quintile; provisionally 65–80 %. | yes |
 | 4 | Fourth or top quintile, short of the DTS end state; provisionally 80–95 %. | yes |
-| 5 | The DTS end state — "all our people" with a mobile device — read as ownership of 95 % or more among people 15+, on a survey figure. | no |
+| 5 | The DTS end state — "all our people" with a mobile device — read as ownership of 95 % or more among people 10+. | no |
 
 ### `infra.connect--internet-usage` — norm: Agenda 2063 STYIP; DTS (target: 80 % by 2033)
 
@@ -1219,8 +1219,8 @@ All 22 measures in one leg, because they share one set of rules and reviewing th
 
 ### `infra.connect--mobile-affordability` — norm: DTS (target: no more than 1 US cent per MB)
 
-- **Value**: price per GB, in US dollars, of the cheapest 30-day mobile data plan of at least 2 GB from the operator with the largest market share (the ITU data-only basket's construction), with the same basket as a percentage of monthly GNI per capita as the secondary figure. **Direction** lower.
-- **Record**: the operator's or regulator's published tariff, dated, converted at the month's rate, over the ITU basket; **reference** ITU ICT Price Baskets (latest release; CC to record the year).
+- **Value**: price per GB, in US dollars, of ITU's current data-only mobile broadband basket — 5 GB since the 2025 edition: the cheapest 30-day plan of at least 5 GB from the operator with the largest market share — with the same basket as a percentage of monthly GNI per capita as the secondary figure. **Direction** lower. A 2 GB basket figure from the 2021–24 editions is a different basket and goes in the qualifier.
+- **Record**: the operator's or regulator's published tariff for a plan of at least 5 GB, dated, converted at the month's rate, over the ITU basket; **reference** ITU ICT Price Baskets, 5 GB data-only (latest release; CC to record the year). The DTS line, US$10 per GB, is unchanged by the basket's size.
 - **Band**: target, T = USD 10 per GB (1 US cent per MB), multiples above it; stage 5 adds the Broadband Commission line.
 - **Method**: target · lower
 - **Cuts**: 30 · 20 · 10 — stage 5 adds the basket at or below 2 % of monthly GNI per capita
@@ -1231,7 +1231,7 @@ All 22 measures in one leg, because they share one set of rules and reviewing th
 | 2 | USD 20–30 per GB. | yes |
 | 3 | USD 10–20 per GB. | yes |
 | 4 | USD 10 per GB or less — the DTS line. | no |
-| 5 | USD 10 per GB or less, and the basket at or below 2 % of monthly GNI per capita (Broadband Commission Target 2). | yes |
+| 5 | USD 10 per GB or less, and the 5 GB basket at or below 2 % of monthly GNI per capita — the Broadband Commission's Target 2 line, a stricter test on the larger basket than on the 2 GB one the target was set against. | yes |
 
 ### `infra.connect--international-internet-bandwidth` — norm: DTS (target: a minimum of two international connections)
 
@@ -1363,18 +1363,18 @@ All 22 measures in one leg, because they share one set of rules and reviewing th
 
 ### `tech.industry--national-capacity-in-dt-related-production` — norm: DTS Digital Industry pillar; STISA-2034 (target)
 
-- **Value**: gross value added of the information and communication sector (ISIC Rev. 4 section J), per cent of GDP, with ICT goods assembled or manufactured in the country (a plant in production, on record) as the stage-5 condition. **Direction** higher.
-- **Record**: the statistics office's national accounts by activity; **reference** UNCTADstat and the UN National Accounts Main Aggregates (latest release; CC to record the year).
-- **Band**: Africa quintiles for stages 1–4, with provisional cuts; stage 5 needs the DTS production condition. The STYIP carries a digital-economy share of GDP that could make this a target row; the register does not yet name it for this indicator (note for the review).
+- **Value**: ICT service exports (computer and telecommunications services, balance of payments) as a share of GDP, with ICT goods assembled or manufactured in the country (a plant in production, on record) as the stage-5 condition. **Unit** per cent of GDP · **direction** higher. ISIC J value added was the first draft's value; no reference carries it (the UN aggregates fold section J into *other activities*), so it would have read *No evidence* nearly everywhere. Exports read production capacity in the part of the sector that sells beyond its own economy, which is where the DTS pillar's software, hardware and outsourcing production shows. **Secondary**: ICT service exports as a share of service exports (WDI `BX.GSR.CCIS.ZS`), which reads the composition of service trade and runs high wherever other service exports are small, so it is not the banded value. ICT services in the balance of payments include telecommunications transit; where a cable-transit hub's figure is mostly transit, the qualifier says so.
+- **Record**: the central bank's balance-of-payments publication, over the reference; **reference** WDI `BX.GSR.CCIS.CD` (ICT service exports, current US$, from UNCTAD and the IMF) over WDI GDP in current US$ (`reference/denominators.csv`). Read through the World Bank API on 2026-09-24: 49 of the 54 countries carry a figure, 39 of them for 2024 or 2025.
+- **Band**: Africa quintiles for stages 1–4, with provisional cuts; stage 5 needs the DTS production condition. With 49 figures the quintiles cut at the baseline. The provisional cuts were tested on those figures: 13 · 14 · 11 · 11 countries on stages 1–4.
 - **Method**: quintiles · higher
-- **Cuts**: 1.5 · 3 · 5 — provisional
+- **Cuts**: 0.05 · 0.2 · 0.5 — provisional
 
 | stage | anchor | interpolated |
 |---|---|---|
-| 1 | Information and communication value added in the bottom Africa quintile; provisionally below 1.5 % of GDP. | yes |
-| 2 | Second quintile; provisionally 1.5–3 %. | yes |
-| 3 | Middle quintile; provisionally 3–5 %. | yes |
-| 4 | Fourth or top quintile, short of the DTS condition; provisionally 5 % or more. | yes |
+| 1 | ICT service exports in the bottom Africa quintile; provisionally below 0.05 % of GDP. | yes |
+| 2 | Second quintile; provisionally 0.05–0.2 %. | yes |
+| 3 | Middle quintile; provisionally 0.2–0.5 %. | yes |
+| 4 | Fourth or top quintile, short of the DTS condition; provisionally 0.5 % or more. | yes |
 | 5 | Top quintile, with ICT assembly or manufacturing in production in the country — the DTS pillar's "ICT assembling and manufacturing plants". | no |
 
 ### `capacity.literacy--digital-literacy-civil-service` — norm: Public Service Charter Art. 21; DPF (top)
@@ -1502,8 +1502,8 @@ All 22 measures in one leg, because they share one set of rules and reviewing th
 **Rows CC may want to read first:**
 
 - **`sufficient-energy-and-water-for-data-centres`** is the weakest measure: the Blueprint names PUE, which measures efficiency rather than sufficiency, and no document at any tier sets a threshold, so stages 1–4 are Corpus's cuts on an operator-published figure few operators publish. It will read *No evidence* almost everywhere. If Bill would rather it were a system (supply in service on dual feeds, backup, water source on record), that is a kind change for the frame, not a rubric edit.
-- **`mobile-penetration`** holds to ownership among people 15+, the ITU and UMC definition, so SIM counts and GSMA's total-population unique-subscriber rate go in the qualifier. Coverage will be the survey countries; if that leaves fewer than fifteen, provisional cuts are needed and the row will ask for them.
-- **`tech.industry`** could become a target row if the STYIP's digital-economy share of GDP is verified and added to the register for this indicator; until then it bands on quintiles with the DTS production condition at stage 5.
+- **`mobile-penetration`** holds to ITU's definition, ownership among people 10+ (item 6), so a survey cut at 15+, SIM counts and GSMA's total-population unique-subscriber rate go in the qualifier. CC's banding of the fetched series puts 52 countries on the row.
+- **`tech.industry`** bands ICT service exports as a share of GDP after CC's item 8 (below); the DTS production condition stays at stage 5.
 - **`registration-of-entire-population`** puts stage 4 at the DTS's 99.9 % of all people, so almost every country will sit at 2 or 3 and systems that enrol only adults are capped near the adult share. That is the truthful reading of the DTS's "from birth", and the qualifier says where the cap applies.
 
 **A checker extension for CC's consideration.** `lint-maturity-rubric.py` checks the four rubric columns; the specifications here want their own lookup (`lookups/maturity-measures.csv`) and, with it, checks that every measure has a value, unit, direction, record rule and band method, that a `target` row's cuts derive from its T, and that a `quintiles` row names its provisional cuts where fewer than fifteen countries hold a figure.
@@ -1519,3 +1519,11 @@ All 22 measures in one leg, because they share one set of rules and reviewing th
 - **4** — `mobilisation-of-non-state-finance` sums commitments whose `start_year` is the as-at year or either of the two before and divides by three; both finance rows say that NGO, Multilateral, Research and Multi-stakeholder beneficiaries count in neither. A further rule the data forced: more than half the units have no private digital commitment starting in 2024–26, so **zero is stage 1 and the quintiles are cut over the non-zero figures**.
 - **5** — the preamble lists the four forms `value_source` takes, the compile form naming the data-centres dataset alongside the finance compile.
 - **Also**: `international-internet-bandwidth` now counts routes in service, with independence as the stage-4 condition (as drafted it counted only independent routes and could not separate stage 2 from stage 3); `sufficient-energy-and-water` states its bands in the upper-inclusive form; the partner row records Bill's ruling.
+
+## Measures — items 6–8 (2026-09-24)
+
+Appended to CC's first review after the second began; all three are in the file above, for CC to re-cut before the baseline.
+
+- **6** — `mobile-penetration` reads ITU's definition, ownership among people 10+ (SDG 5.b.1), in the value, the record, stage 1 and stage 5; a survey cut at 15+ goes to the qualifier with the other definitions. Cuts unchanged; CC's banding of the fetched 10+ series (8 · 13 · 16 · 12 · 3 over 52) already fits them.
+- **7** — `mobile-affordability` reads price per GB of ITU's current 5 GB data-only basket; a 2 GB figure from 2021–24 goes to the qualifier. The DTS line is unchanged. Stage 5's 2 %-of-GNI test is now applied to the larger basket, which is stricter than the test the Broadband Commission set on 2 GB, and the anchor says so.
+- **8** — `tech.industry` is re-pointed at a figure that exists, as CC recommended, but banded as **ICT service exports as a share of GDP** rather than of service exports. The share of GDP reads the scale of the exporting sector against the economy, which is what production capacity asks. The share of service exports reads the composition of service trade and runs high wherever tourism or transport exports are small, so it rides as the secondary figure. Tested on WDI `BX.GSR.CCIS.CD` read through the World Bank API on 2026-09-24 over `reference/denominators.csv` GDP: 49 countries, quintile points at about 0.03 · 0.09 · 0.36 · 0.64 %, and the provisional cuts 0.05 · 0.2 · 0.5 give 13 · 14 · 11 · 11. The top of the list includes a cable-transit hub (Djibouti), which is why the specification sends transit-dominated figures to the qualifier. **For CC**: `reference/measures.csv` wants the series added in C5, and the register's reference column for this indicator (UNIDO CIP; UNCTAD Digital Economy Report) should name `BX.GSR.CCIS.CD`.

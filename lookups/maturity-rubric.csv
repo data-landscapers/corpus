@@ -164,11 +164,11 @@ finance.new--development-partner-project-financing,2,20–40 % on budget (provis
 finance.new--development-partner-project-financing,3,40–60 % on budget (provisional).,yes
 finance.new--development-partner-project-financing,4,60–85 % on budget (provisional).,yes
 finance.new--development-partner-project-financing,5,85 % or more of partner digital finance on budget and executed through the state's own systems on record — Goal 20's posture of a continent financing its development through its own institutions.,partly — Goal 20 states the posture; the 85 % line is the reference's
-infra.connect--mobile-penetration,1,Bottom Africa quintile of mobile-phone ownership among people 15+; provisionally below 50 %.,yes
+infra.connect--mobile-penetration,1,Bottom Africa quintile of mobile-phone ownership among people 10+; provisionally below 50 %.,yes
 infra.connect--mobile-penetration,2,Second quintile; provisionally 50–65 %.,yes
 infra.connect--mobile-penetration,3,Middle quintile; provisionally 65–80 %.,yes
 infra.connect--mobile-penetration,4,"Fourth or top quintile, short of the DTS end state; provisionally 80–95 %.",yes
-infra.connect--mobile-penetration,5,"The DTS end state — ""all our people"" with a mobile device — read as ownership of 95 % or more among people 15+, on a survey figure.",no
+infra.connect--mobile-penetration,5,"The DTS end state — ""all our people"" with a mobile device — read as ownership of 95 % or more among people 10+.",no
 infra.connect--internet-usage,1,Internet use below 27 % of the population.,yes
 infra.connect--internet-usage,2,27–53 %.,yes
 infra.connect--internet-usage,3,53–80 %.,yes
@@ -178,7 +178,7 @@ infra.connect--mobile-affordability,1,More than USD 30 per GB.,yes
 infra.connect--mobile-affordability,2,USD 20–30 per GB.,yes
 infra.connect--mobile-affordability,3,USD 10–20 per GB.,yes
 infra.connect--mobile-affordability,4,USD 10 per GB or less — the DTS line.,no
-infra.connect--mobile-affordability,5,"USD 10 per GB or less, and the basket at or below 2 % of monthly GNI per capita (Broadband Commission Target 2).",yes
+infra.connect--mobile-affordability,5,"USD 10 per GB or less, and the 5 GB basket at or below 2 % of monthly GNI per capita — the Broadband Commission's Target 2 line, a stricter test on the larger basket than on the 2 GB one the target was set against.",yes
 infra.connect--national-fibre-backbone,1,"A dated statement that no national fibre backbone exists — connectivity by satellite or microwave only, or fibre confined to one city.",yes
 infra.connect--national-fibre-backbone,2,"A backbone under construction, contracted or planned in a master plan, with segments not yet in service; or fibre reaching some regions with no national plan.",yes
 infra.connect--national-fibre-backbone,3,"A backbone in service reaching some provinces or regions, with others unserved on record, or reaching all regions on one operator's network with no open access.",yes
@@ -474,10 +474,10 @@ tech.ai--control-of-ai-abuse,2,"A draft law providing for a competent authority 
 tech.ai--control-of-ai-abuse,3,"A rule in force addressing at least one AI harm (deepfakes, automated decisions, election manipulation) or an authority designated with a mandate, with no enforcement on record.",yes
 tech.ai--control-of-ai-abuse,4,"An authority operating with powers over AI harms, risk-based rules in force, and enforcement, audit or redress decisions on record.",yes
 tech.ai--control-of-ai-abuse,5,"The AI Strategy's end state: risk-based regulation, an independent oversight institution with enforcement and redress, technical safety standards, and participation in regional oversight (the AI Ethics Board or REC arrangements).",no
-tech.industry--national-capacity-in-dt-related-production,1,Information and communication value added in the bottom Africa quintile; provisionally below 1.5 % of GDP.,yes
-tech.industry--national-capacity-in-dt-related-production,2,Second quintile; provisionally 1.5–3 %.,yes
-tech.industry--national-capacity-in-dt-related-production,3,Middle quintile; provisionally 3–5 %.,yes
-tech.industry--national-capacity-in-dt-related-production,4,"Fourth or top quintile, short of the DTS condition; provisionally 5 % or more.",yes
+tech.industry--national-capacity-in-dt-related-production,1,ICT service exports in the bottom Africa quintile; provisionally below 0.05 % of GDP.,yes
+tech.industry--national-capacity-in-dt-related-production,2,Second quintile; provisionally 0.05–0.2 %.,yes
+tech.industry--national-capacity-in-dt-related-production,3,Middle quintile; provisionally 0.2–0.5 %.,yes
+tech.industry--national-capacity-in-dt-related-production,4,"Fourth or top quintile, short of the DTS condition; provisionally 0.5 % or more.",yes
 tech.industry--national-capacity-in-dt-related-production,5,"Top quintile, with ICT assembly or manufacturing in production in the country — the DTS pillar's ""ICT assembling and manufacturing plants"".",no
 tech.innovate--technology-hubs,1,"A dated statement that no technology hub, incubator or park operates in the country.",yes
 tech.innovate--technology-hubs,2,"A hub or park announced, under construction, or one private hub with no programme on record.",yes
