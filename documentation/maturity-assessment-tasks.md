@@ -3,7 +3,7 @@ type: tasks
 title: Maturity assessment — the build, as sequential tasks with owners
 date: 2026-09-22
 source: documentation/maturity-assessment.md §12 (expanded here); maturity-assessment-norms.md; adding-an-indicator.md; indicator-digital-sovereignty.md; indicator-financial-sustainability.md
-status: in progress; A1 done 2026-09-23
+status: in progress; A, B1–B3, C1, C2 (instruments and systems), C4 done 2026-09-23
 ---
 
 # Maturity assessment — tasks
@@ -16,7 +16,7 @@ status: in progress; A1 done 2026-09-23
 
 ## Where this stands
 
-**A1 done 2026-09-23** *(Bill)*: the sustainability indicator gets its own subject, `finance.sustain`; quintiles are cut at the baseline and recut each July. Both are in `maturity-assessment.md` §2, and the indicator documents and this file are amended to match. Nothing else built.
+**As of 2026-09-24.** Phase A is done. B1–B3 are done: OSINT applied note 164 on 2026-09-23, and the frame holds 123 rows, 117 assessed. C1 is done (117 norms rows) and so is C4 (`budgets/{ISO3}/external.csv`). C2 has cut every instrument and system, 95 of 117 with 347 interpolated rungs. **Open on the critical path**: C3 (the 22 measures, which also close C2) and then D1–D6. **Off it**: B4.
 
 ---
 
@@ -38,7 +38,7 @@ Point CC at this file and the five documents. Done when CC has read them and log
 
 ## Phase B — the frame change (`adding-an-indicator.md`)
 
-### B1. Cut the taxonomy patch for OSINT — **CC** → **OSINT** — S to cut, then blocked — *cut 2026-09-23: `prepared/note-164/`, `notes-for-osint` 164; waiting on OSINT*
+### B1. Cut the taxonomy patch for OSINT — **CC** → **OSINT** — S to cut, then blocked — *done 2026-09-23: `prepared/note-164/`, `notes-for-osint` 164, applied by OSINT the same day*
 
 `scripts/osint-patch.py prepare`; in the clone add `geopol.sovereignty` — Digital sovereignty and `finance.sustain` — Financial sustainability to OSINT's `lookups/taxonomy.md` and to `lookups/report-region-sections.csv`; `cut`; deliver to `prepared/` on the share with the base commit named; write the `[ACT]` note in `notes-for-osint.md` asking OSINT to apply it and mint the two concept pages (wiki prose, which a patch may not carry), `Affects: lookups/indicators.csv, the maturity assessment's Geopolitics and Finance chapters`; commit and push the share. (Corpus's `lookups/taxonomy.csv` is its own display copy and gains the two rows at B3.) Run `lint-prepared.py`, `lint-notes.py`, `lint-preambles.py`. Done when the job is on the share and `git log` on the share shows it pushed. **B3 is blocked until the mirror shows the subjects**; B2 is not.
 
