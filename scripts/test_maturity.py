@@ -318,6 +318,83 @@ try:
 finally:
     shutil.rmtree(tmp, ignore_errors=True)
 
+
+# ---------------------------------------------------------------------------------------------
+# The checks (D3): clean on a unit apply wrote, failing on a deliberately broken copy of it.
+
+_spec = importlib.util.spec_from_file_location("lm", HERE / "lint-maturity.py")
+lm = importlib.util.module_from_spec(_spec)
+_spec.loader.exec_module(lm)
+lm.ma = ma                      # the fixture rubric, not the live one
+
+
+def edit_csv(path: Path, iid: str, **cells):
+    with open(path, encoding="utf-8-sig", newline="") as fh:
+        rdr = csv.DictReader(fh)
+        fields, rows = rdr.fieldnames, list(rdr)
+    for r in rows:
+        if r["indicator_id"] == iid:
+            r.update(cells)
+    with open(path, "w", encoding="utf-8", newline="") as fh:
+        w = csv.DictWriter(fh, fieldnames=fields, lineterminator="\n")
+        w.writeheader()
+        w.writerows(rows)
+
+
+def fails_on(root) -> str:
+    return "".join(k for k, v in sorted(lm.unit_checks("XXX", root).items()) if v)
+
+
+tmp = Path(tempfile.mkdtemp(prefix="maturity-lint-test-"))
+try:
+    print("\nthe checks")
+
+    def fresh(name):
+        root = tmp / name
+        unit_dir(root)
+        ma.apply("XXX", JUL, verdicts(root, "jul", BASE), reports=root)
+        ma.apply("XXX", AUG, verdicts(root, "aug", [
+            v(STRAT, 3, "XXX-gov.policy-strategy|XXX-gov.policy-strategy-2")]), reports=root)
+        return root
+
+    root = fresh("clean")
+    check("a unit apply wrote passes every check", fails_on(root), "")
+    check("a unit with no snapshot is skipped", lm.unit_checks("XXX", tmp / "none"), {})
+
+    root = fresh("n")
+    edit_csv(ma.snapshot_path(root, "XXX", AUG), TALK, stage="7")
+    edit_csv(root / "XXX" / "indicators.csv", TALK, stage="7")
+    check("a stage outside 1-5 fails N (and O, for the move)", fails_on(root), "NO")
+    root = fresh("n2")
+    edit_csv(ma.snapshot_path(root, "XXX", JUL), STRAT, stage_rows="XXX-gov.policy-strategy-2")
+    check("a July stage citing an August row fails N", "N" in fails_on(root), True)
+    root = fresh("o")
+    edit_csv(ma.snapshot_path(root, "XXX", AUG), TALK, stage="3")
+    edit_csv(root / "XXX" / "indicators.csv", TALK, stage="3")
+    check("a hand-moved stage with nothing dated behind it fails O", fails_on(root), "O")
+    root = fresh("p")
+    edit_csv(ma.snapshot_path(root, "XXX", AUG), TALK, stage="1", stage_rows="")
+    edit_csv(root / "XXX" / "indicators.csv", TALK, stage="1", stage_rows="")
+    check("a stage 1 with no citation fails P (and O, for the move)", fails_on(root), "OP")
+    root = fresh("q")
+    edit_csv(ma.snapshot_path(root, "XXX", AUG), MEAS, value="")
+    edit_csv(root / "XXX" / "indicators.csv", MEAS, value="")
+    check("a measure with a figure missing fails Q", fails_on(root), "Q")
+    root = fresh("s")
+    edit_csv(root / "XXX" / "indicators.csv", STRAT, stage="4")
+    check("indicators.csv edited away from the edition fails S", fails_on(root), "S")
+
+    print("\nthe estate checks")
+    d = tmp / "scripts"
+    d.mkdir()
+    (d / "ok.py").write_text('"""The frame has 117 assessed rows."""\n# 121 before B3\nn = len(x)\n',
+                             encoding="utf-8")
+    check("a frame count in prose passes T", lm.check_frame_count(d), [])
+    (d / "bad.py").write_text("if len(rows) != 117:\n    pass\n", encoding="utf-8")
+    check("a frame count in logic fails T", lm.check_frame_count(d), ["bad.py:1: 117"])
+finally:
+    shutil.rmtree(tmp, ignore_errors=True)
+
 print()
 print("all cases pass" if not fails else f"{len(fails)} of the cases FAILED")
 sys.exit(1 if fails else 0)

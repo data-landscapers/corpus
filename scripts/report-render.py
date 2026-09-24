@@ -1612,7 +1612,19 @@ def check(unit):
             # view of it, not the ledger — and because a country that has not yet been through
             # the mapping pass has to skip them without skipping the ledger checks beside them.
             | check_indicators(unit) | check_indicator_prose(unit)
-            | check_indicator_sources(unit))
+            | check_indicator_sources(unit)
+            # N to S, the maturity assessment's (`lint-maturity.py`), over the unit's snapshot
+            # editions and the stage columns of the same indicators.csv. They skip a unit with no
+            # snapshot, as the three above skip one with no mapping.
+            | _maturity_lint().check_unit(unit))
+
+
+def _maturity_lint():
+    spec = importlib.util.spec_from_file_location(
+        "lint_maturity", os.path.join(os.path.dirname(os.path.abspath(__file__)), "lint-maturity.py"))
+    mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(mod)
+    return mod
 
 
 def check_narrative(unit):
