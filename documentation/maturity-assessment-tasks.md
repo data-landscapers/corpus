@@ -54,6 +54,8 @@ Add the two subjects to Corpus's `lookups/taxonomy.csv` (`finance.sustain` at 8 
 
 `status-outline.md`: the `### geopol.sovereignty — Digital sovereignty` sub-section with its question and bullets (`indicator-digital-sovereignty.md` §6, with CC checking which DPI variable ids exist); a new `### finance.sustain — Financial sustainability` sub-section with the sustainability bullet (`indicator-financial-sustainability.md` §6). Done when the outline's own counts at the top are updated and the file says 40 sub-sections.
 
+**The DPI ids for Cowork's draft** *(CC, 2026-09-24, read from `prep/africa-dpi-data.csv`, 453 variables)*. **No `reg-data-*` variable exists.** Hosting: `ict-storage-govcloud`, `ict-storage-dcpresence`, `ict-storage-cloudadoption` (weak proxies, as §6 says). Classification and localisation: `ict-storage-datalocalisation`, `govtech-cloud-1.6` (hosting policy), `reg-cyber-cloud`, `reg-egov-cloudpolicy`. **`exchange-uptake-sovereignty`** (*Data Sovereignty Provisions*) is the closest variable to the question, and §6 does not name it. Vendor dependence and the terms of agreements have no variable, so the wiki answers them. `finance.sustain` cites no DPI variable, by design.
+
 ---
 
 ## Phase C — the lookups and the rubric
