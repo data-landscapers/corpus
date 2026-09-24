@@ -8,6 +8,22 @@ date: 2026-09-24
 
 *(CC, 2026-09-24, for Bill's read of the July and August runs (task D6). A stage that looks wrong is fixed as a rubric change (C2, flagged `reassessed` on rerun) or as an assessor fix (D1), never by hand.)*
 
+**Reading the files.**
+
+- **The monthly edition**, `outputs/reports/{ISO3}/maturity/2026-07.csv` (and `2026-08.csv`): one row per indicator with evidence. Its columns are defined in `site/metadata/maturity-metadata.csv`.
+- **Stages**: 1 Absent (a cited absence) · 2 Nascent · 3 Established · 4 Operating · 5 Leading. An empty `stage` is **unplaced**: evidence is held but meets no rung. An indicator with no row is **No evidence**.
+- **What each stage needs for one indicator**: `lookups/maturity-rubric.csv`, five anchors per indicator. The norm behind them is in `lookups/maturity-norms.csv`.
+- **Why a row is at its stage**: `stage_rows` names the ledger rows (in `outputs/reports/{ISO3}/ledger.csv`), and `qualifier` says what is missing for the next stage.
+- **The drafter's input**: `logs/maturity-verdicts/{ISO3}-{YYYY-MM}.csv`. It is the same columns plus `cause`. Measures a drafter left out are filled in by the script from Corpus's own figures or the reference data (`reference/measures.csv`).
+- **The movement list**, `logs/maturity-movements-2026-08.csv`: `july` and `august` are the stages; `movement` is one of:
+  - `up` or `down`: staged in both months;
+  - `placed`: unplaced in July, staged in August;
+  - `unplaced`: staged in July, unplaced in August;
+  - `newly assessed`: no July row, staged in August;
+  - `newly unplaced`: no July row, unplaced in August.
+
+  `moved_by` is the dated source.
+
 **Countries to read**, the status report beside `outputs/reports/{ISO3}/maturity/2026-07.csv` and `2026-08.csv`:
 
 - **thin: GNQ.** 51 of 104 unplaced in August, the most of any country; it tests whether unplaced reads as honest or as empty.
