@@ -120,7 +120,7 @@ Bill reads two or three countries' assessed files and the August movement list a
 
 ## Phase E — snapshots, history, the monthly runbook
 
-### E1. Editions and history — **CC** — M — *the edition writer is in D1's `apply` (write-once, byte-identical on rerun, `--replace` only before publication); the history file and the render-side byte check remain*
+### E1. Editions and history — **CC** — M — *done 2026-09-24: `maturity-assess.py history` rebuilds `outputs/reports/maturity-history.csv` from the editions (11,121 rows, July 5,440 and August 5,681, unplaced included); `lint-maturity.py` check U holds it to its rebuild; re-applying all 108 snapshots changes no byte*
 
 `outputs/reports/{unit}/maturity/{YYYY-MM}.csv` written once per snapshot under the editions rule (`design.md` §9; the CR-only churn trap in `global-claude.md` applies — check before committing a rebuild); `outputs/reports/maturity-history.csv` appended per snapshot and rebuildable from the editions; `outputs/reports/{unit}/indicators.csv` stays the current position. Write the July and August editions and the history from D4 and D5. Done when the byte-identity check passes on a second render and the history file has 54 × (assessed rows) × 2.
 

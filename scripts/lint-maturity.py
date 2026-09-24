@@ -26,6 +26,7 @@ The unit checks also run under `report-render.py --check`.
   S  current position  indicators.csv's stage columns equal the latest edition's
   R  lookups (estate)  every assessed indicator has one norms row and five rubric rows
   T  frame count       no frame count (117, 121, 123) as a number in any script's logic
+  U  history           outputs/reports/maturity-history.csv equals its rebuild from the editions
 
 Some §11 checks are not here yet, because they check outputs that do not exist yet: no count
 crossing kinds, published counts matching the lookups, and status/assessment agreement. They
@@ -179,7 +180,19 @@ def check_frame_count(scripts: Path = HERE) -> list[str]:
     return bad
 
 
-TITLE = {"N": "stage domain", "O": "stability", "P": "citation", "Q": "measure values",
+def check_history(reports: Path = ma.REPORTS) -> list[str]:
+    """U: the history is exactly its rebuild from the editions, line endings aside."""
+    path = ma.history_path(reports)
+    if not any(reports.glob("*/maturity/????-??.csv")):
+        return []
+    if not path.exists():
+        return ["maturity-history.csv is missing; run maturity-assess.py history"]
+    if path.read_text(encoding="utf-8").replace("\r\n", "\n") != ma.history_text(reports):
+        return ["maturity-history.csv differs from its rebuild; run maturity-assess.py history"]
+    return []
+
+
+TITLE = {"U": "history", "N": "stage domain", "O": "stability", "P": "citation", "Q": "measure values",
          "S": "current position", "R": "lookups", "T": "frame count"}
 
 
@@ -223,6 +236,7 @@ def main(argv=None) -> int:
             print("check N-S (maturity): no unit has a snapshot yet")
     rc |= report("R", check_lookups())
     rc |= report("T", check_frame_count())
+    rc |= report("U", check_history())
     return rc
 
 

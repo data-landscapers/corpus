@@ -269,6 +269,44 @@ def nature_note(r: dict) -> str:
         r.get("nature", ""), f"reference figure ({r['dataset']}); no primary held")
 
 
+HISTORY_FIELDS = ("unit", "indicator_id", "as_of", "stage", "value", "value_year", "reassessed")
+
+
+def history_text(reports: Path = REPORTS) -> str:
+    """The estate history (maturity-assessment.md §7): every edition's rows, one line per unit,
+    indicator and month end, sorted. It is derived and never edited. Because an edition is never
+    revised, rebuilding the whole file is the same as appending the month, and it cannot drift
+    from the editions it is built from (lint-maturity.py check U)."""
+    rows = []
+    for path in sorted(reports.glob("*/maturity/????-??.csv")):
+        unit, month = path.parent.parent.name, path.stem
+        y, m = map(int, month.split("-"))
+        as_of = dt.date(y, m, calendar.monthrange(y, m)[1]).isoformat()
+        for r in read_csv(path)[1]:
+            rows.append({"unit": unit, "indicator_id": r["indicator_id"], "as_of": as_of,
+                         "stage": r["stage"], "value": r["value"], "value_year": r["value_year"],
+                         "reassessed": r["reassessed"]})
+    rows.sort(key=lambda r: (r["unit"], r["indicator_id"], r["as_of"]))
+    body = io.StringIO()
+    w = csv.DictWriter(body, fieldnames=HISTORY_FIELDS, lineterminator="\n")
+    w.writeheader()
+    w.writerows(rows)
+    return body.getvalue()
+
+
+def history_path(reports: Path = REPORTS) -> Path:
+    return reports / "maturity-history.csv"
+
+
+def write_history(reports: Path = REPORTS) -> int:
+    """Rebuild the history; leave the file alone where only line endings differ. Returns rows."""
+    text = history_text(reports)
+    path = history_path(reports)
+    if not path.exists() or path.read_text(encoding="utf-8").replace("\r\n", "\n") != text:
+        path.write_text(text, encoding="utf-8", newline="")
+    return text.count("\n") - 1
+
+
 def snapshot_path(reports: Path, unit: str, as_at: dt.date) -> Path:
     return reports / unit / "maturity" / f"{as_at:%Y-%m}.csv"
 
@@ -753,6 +791,7 @@ def write_current(reports: Path, unit: str, staged: dict[str, dict]) -> None:
 def main(argv=None) -> int:
     ap = argparse.ArgumentParser(description=__doc__.split("\n\n")[0])
     sub = ap.add_subparsers(dest="cmd", required=True)
+    sub.add_parser("history", help="rebuild outputs/reports/maturity-history.csv from the editions")
     c = sub.add_parser("cut", help="cut the Africa quintiles as at a 31 July")
     c.add_argument("--as-at", required=True)
     c.add_argument("--verdicts-dir", help="the drafted verdicts, {UNIT}-{YYYY-MM}.csv")
@@ -770,6 +809,9 @@ def main(argv=None) -> int:
     a = ap.parse_args(argv)
     sys.stdout.reconfigure(encoding="utf-8")
     sys.stderr.reconfigure(encoding="utf-8")
+    if a.cmd == "history":
+        print(f"maturity-history.csv: {write_history()} rows from the editions")
+        return 0
     as_at = month_end(a.as_at)
     if a.cmd == "cut":
         for line in cut(as_at, Path(a.verdicts_dir) if a.verdicts_dir else None, a.write):
