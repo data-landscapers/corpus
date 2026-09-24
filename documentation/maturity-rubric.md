@@ -2,7 +2,7 @@
 type: reference
 title: maturity-rubric.md — the five-stage anchors per indicator, drafted chapter by chapter for lookups/maturity-rubric.csv
 last_reviewed: 2026-09-23
-status: task C2 complete; task C3 — the 22 measures accepted and cut 2026-09-24 (items 1–5); items 6–8 acted on 2026-09-24, awaiting CC's re-cut
+status: task C2 complete; task C3 — the 22 measures cut 2026-09-24, items 6–8 re-cut; items 9–10 acted on 2026-09-24, awaiting CC's re-cut
 ---
 
 # The rubric
@@ -1217,21 +1217,23 @@ All 22 measures in one leg, because they share one set of rules and reviewing th
 | 4 | 80 % or more — the STYIP 2033 figure. | no |
 | 5 | 95 % or more — the DTS 2030 end state of all people online wherever they live. | no |
 
-### `infra.connect--mobile-affordability` — norm: DTS (target: no more than 1 US cent per MB)
+### `infra.connect--mobile-affordability` — norm: DTS (target: no more than 1 US cent per MB — now a floor every country meets); Broadband Commission Target 2 / ITU UMC 2030 (2 % of monthly GNI per capita) as the banded line
 
-- **Value**: price per GB, in US dollars, of ITU's current data-only mobile broadband basket — 5 GB since the 2025 edition: the cheapest 30-day plan of at least 5 GB from the operator with the largest market share — with the same basket as a percentage of monthly GNI per capita as the secondary figure. **Direction** lower. A 2 GB basket figure from the 2021–24 editions is a different basket and goes in the qualifier.
-- **Record**: the operator's or regulator's published tariff for a plan of at least 5 GB, dated, converted at the month's rate, over the ITU basket; **reference** ITU ICT Price Baskets, 5 GB data-only (latest release; CC to record the year). The DTS line, US$10 per GB, is unchanged by the basket's size.
-- **Band**: target, T = USD 10 per GB (1 US cent per MB), multiples above it; stage 5 adds the Broadband Commission line.
+- **Value**: the price of ITU's current data-only mobile broadband basket (5 GB since the 2025 edition: the cheapest 30-day plan of at least 5 GB from the operator with the largest market share) as a percentage of monthly GNI per capita, as ITU computes it. **Unit** per cent of monthly GNI per capita · **direction** lower. **Secondary**: the same basket's price per GB in US dollars, in the qualifier. A 2 GB basket figure from the 2021–24 editions is a different basket and goes in the qualifier.
+- **Why the income share and not the DTS price**: on the 2025 basket, 52 of 53 countries are at US$10 per GB or less (CC, 2026-09-24) — prices have fallen well past a line set in 2020, so banding on it would put almost the whole continent on one stage. The share of income separates them (51 countries: quintile points about 1.6 · 4.1 · 6.1 · 9.4 %). The DTS line stays in the anchor as the continental floor that stages 4 and 5 must also meet.
+- **Record**: the operator's or regulator's published tariff for a plan of at least 5 GB, dated, over GNI per capita from WDI; **reference** ITU ICT Price Baskets, 5 GB data-only, as a share of GNI per capita (latest release; CC to record the year).
+- **Band**: target, T = 2 (the Broadband Commission's line, carried by the UMC 2030 targets), lower-is-better thirds as the preamble sets them. On the 2025 figures: 12 · 8 · 10 · 21 countries on stages 4 to 1 (CC, 2026-09-24).
 - **Method**: target · lower
-- **Cuts**: 30 · 20 · 10 — stage 5 adds the basket at or below 2 % of monthly GNI per capita
+- **Cuts**: 6 · 4 · 2 · 1
 
 | stage | anchor | interpolated |
 |---|---|---|
-| 1 | More than USD 30 per GB. | yes |
-| 2 | USD 20–30 per GB. | yes |
-| 3 | USD 10–20 per GB. | yes |
-| 4 | USD 10 per GB or less — the DTS line. | no |
-| 5 | USD 10 per GB or less, and the 5 GB basket at or below 2 % of monthly GNI per capita — the Broadband Commission's Target 2 line, a stricter test on the larger basket than on the 2 GB one the target was set against. | yes |
+| 1 | The basket costs more than 6 % of monthly GNI per capita — over three times the line. | yes |
+| 2 | More than 4 % and at most 6 %. | yes |
+| 3 | More than 2 % and at most 4 %. | yes |
+| 4 | At most 2 % of monthly GNI per capita, with the DTS price line (US$10 per GB, 1 US cent per MB) also met. | partly — the DTS states the price floor; the 2 % line is the reference's |
+| 5 | At most 1 % of monthly GNI per capita, with the DTS price line met. | yes |
+
 
 ### `infra.connect--international-internet-bandwidth` — norm: DTS (target: a minimum of two international connections)
 
@@ -1255,14 +1257,14 @@ All 22 measures in one leg, because they share one set of rules and reviewing th
 - **Record**: Corpus's own dataset, `outputs/datasets/data-centres/data-centres.csv` (`operational_status` Operational, `facility_type` Colocation/carrier-neutral or Hyperscale; Tier from `security_certifications`, or stated in `comments` and so marked), which covers all 54 countries — on 2026-09-24, 31 had at least one such facility and 22 had two or more. **Reference**: the Africa Data Centres Association and commercial directories, for the qualifier. Population, for the stage-5 condition: UN World Population Prospects.
 - **Band**: the Blueprint's Tier rungs, counted; stage 5 adds the Africa top quintile of MW per million and the DTS hosting figure.
 - **Method**: fixed · higher
-- **Cuts**: 0 · 1 · 2 — stage 2 also needs a Tier I–II multi-tenant facility in service; stage 4 is also met by one Tier IV facility
+- **Cuts**: 0 · 1 · 2 — stage 2 also needs a Tier I–II multi-tenant facility in service
 
 | stage | anchor | interpolated |
 |---|---|---|
 | 1 | No commercial multi-tenant data centre in service, on a citation. | yes |
 | 2 | Multi-tenant facilities in service, none at Tier III or above. | yes |
 | 3 | One multi-tenant facility at Tier III or above in service. | no |
-| 4 | Two or more at Tier III or above, or one at Tier IV, in service. | no |
+| 4 | Two or more at Tier III or above in service — two, so that one can fail; a single facility of any Tier is a single point of failure. | no |
 | 5 | Stage 4's Tiers, capacity per million in the Africa top quintile, and a published figure that 30 % or more of the country's content or traffic is served from facilities in Africa — the DTS 2030 figure. | no |
 
 ### `infra.store--local-data-centre-capacity-national-providers` — norm: DPF §5.3.1 (top)
@@ -1527,3 +1529,8 @@ Appended to CC's first review after the second began; all three are in the file 
 - **6** — `mobile-penetration` reads ITU's definition, ownership among people 10+ (SDG 5.b.1), in the value, the record, stage 1 and stage 5; a survey cut at 15+ goes to the qualifier with the other definitions. Cuts unchanged; CC's banding of the fetched 10+ series (8 · 13 · 16 · 12 · 3 over 52) already fits them.
 - **7** — `mobile-affordability` reads price per GB of ITU's current 5 GB data-only basket; a 2 GB figure from 2021–24 goes to the qualifier. The DTS line is unchanged. Stage 5's 2 %-of-GNI test is now applied to the larger basket, which is stricter than the test the Broadband Commission set on 2 GB, and the anchor says so.
 - **8** — `tech.industry` is re-pointed at a figure that exists, as CC recommended, but banded as **ICT service exports as a share of GDP** rather than of service exports. The share of GDP reads the scale of the exporting sector against the economy, which is what production capacity asks. The share of service exports reads the composition of service trade and runs high wherever tourism or transport exports are small, so it rides as the secondary figure. Tested on WDI `BX.GSR.CCIS.CD` read through the World Bank API on 2026-09-24 over `reference/denominators.csv` GDP: 49 countries, quintile points at about 0.03 · 0.09 · 0.36 · 0.64 %, and the provisional cuts 0.05 · 0.2 · 0.5 give 13 · 14 · 11 · 11. The top of the list includes a cable-transit hub (Djibouti), which is why the specification sends transit-dominated figures to the qualifier. **For CC**: `reference/measures.csv` wants the series added in C5, and the register's reference column for this indicator (UNIDO CIP; UNCTAD Digital Economy Report) should name `BX.GSR.CCIS.CD`.
+
+## Measures — items 9–10 (2026-09-24)
+
+- **9** — `mobile-affordability` bands the 5 GB basket as a share of monthly GNI per capita, T = 2, lower-is-better thirds (stage 3 at or below 4 %, stage 2 at or below 6 %), as CC recommended; US$ per GB goes to the qualifier. **Stage 5 is 1 % or less** (three countries on the 2025 figures): no norm states a rung beyond the 2 % line, so it is Corpus's, marked `yes`, and set at half the line so that it names a clear margin rather than a tie. **Stage 4 is `partly`**: the 2 % line is the register's reference, not its norm, and by the first review's rule a reference does not make a rung the norm's; what the DTS still states is the price floor, which stages 4 and 5 must also meet and every country now does. **For CC**: the register row's *fixes* and *reference* should say the same — the DTS line as a floor met by all, the 2 % line as the banded reference — so the norms lookup and the rubric agree.
+- **10** — `local-data-centre-capacity-all-providers`: the Tier IV clause is gone from the cuts and from stage 4. Stage 4 asks for two facilities at Tier III or above because two give redundancy; a lone Tier IV reads stage 3, which is where the band already holds Seychelles.
