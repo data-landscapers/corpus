@@ -310,6 +310,27 @@ def pull(table: dict, only: set[str], iso: list[str]) -> list[dict]:
     return rows
 
 
+JUMP_POINTS, JUMP_YEARS = 30, 2
+
+
+def suspect(rows: list[dict]) -> None:
+    """Mark a percentage figure `suspect` where it moves more than `JUMP_POINTS` from the country's
+    figure no more than `JUMP_YEARS` before it. A published dataset can carry a bad value: WDI
+    gives Chad's rural electricity access as 0.4 % in 2023 and 100 % in 2024, against 13.4 %
+    nationally. The assessor never uses a suspect figure. It is kept here, so the flag shows."""
+    last: dict = {}
+    for r in rows:
+        if not r["unit"].startswith("%"):
+            continue
+        k = (r["iso3"], r["indicator_id"], r["dataset"])
+        prev = last.get(k)
+        if (prev and int(r["year"]) - int(prev["year"]) <= JUMP_YEARS
+                and abs(float(r["value"]) - float(prev["value"])) > JUMP_POINTS):
+            r["nature"] = "suspect"
+            continue                      # the next figure is compared with the last good one
+        last[k] = r
+
+
 def write(path: Path, rows: list[dict], only: set[str], table: dict) -> None:
     """Rewrite the file, keeping the rows of any source not fetched this run.
 
@@ -329,6 +350,7 @@ def write(path: Path, rows: list[dict], only: set[str], table: dict) -> None:
         if k in before and before[k] < r["release"]:
             r["release"] = before[k]
     rows = sorted(kept + rows, key=lambda r: (r["indicator_id"], r["iso3"], int(r["year"])))
+    suspect(rows)
     path.parent.mkdir(parents=True, exist_ok=True)
     with open(path, "w", encoding="utf-8", newline="") as fh:
         w = csv.DictWriter(fh, fieldnames=FIELDS, lineterminator="\n")

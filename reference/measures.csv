@@ -169,7 +169,7 @@ BFA,capacity.training--dt-related-university-facilities-and-qualifications,uis-s
 BFA,capacity.training--dt-related-university-facilities-and-qualifications,uis-stem-graduates,20.3458,% of tertiary graduates,2020,2026-02-09,country
 BFA,capacity.training--dt-related-university-facilities-and-qualifications,uis-stem-graduates,20.6757,% of tertiary graduates,2021,2026-02-09,country
 BFA,capacity.training--dt-related-university-facilities-and-qualifications,uis-stem-graduates,25.3375,% of tertiary graduates,2022,2026-02-09,country
-BFA,capacity.training--dt-related-university-facilities-and-qualifications,uis-stem-graduates,61.4018,% of tertiary graduates,2024,2026-02-09,country
+BFA,capacity.training--dt-related-university-facilities-and-qualifications,uis-stem-graduates,61.4018,% of tertiary graduates,2024,2026-02-09,suspect
 BWA,capacity.training--dt-related-university-facilities-and-qualifications,uis-stem-graduates,18.5081,% of tertiary graduates,2020,2026-02-09,country
 BWA,capacity.training--dt-related-university-facilities-and-qualifications,uis-stem-graduates,19.7384,% of tertiary graduates,2021,2026-02-09,country
 BWA,capacity.training--dt-related-university-facilities-and-qualifications,uis-stem-graduates,19.0913,% of tertiary graduates,2022,2026-02-09,country
@@ -1057,8 +1057,8 @@ GHA,infra.connect--internet-usage,itu-sdg-17-8-1-internet-use,28,% of population
 GHA,infra.connect--internet-usage,itu-sdg-17-8-1-internet-use,37.9,% of population,2017,2026-06-30,estimate
 GHA,infra.connect--internet-usage,itu-sdg-17-8-1-internet-use,43,% of population,2018,2026-06-30,estimate
 GHA,infra.connect--internet-usage,itu-sdg-17-8-1-internet-use,22.1,% of population,2019,2026-06-30,survey
-GHA,infra.connect--internet-usage,itu-sdg-17-8-1-internet-use,62.5,% of population,2020,2026-06-30,estimate
-GHA,infra.connect--internet-usage,itu-sdg-17-8-1-internet-use,68.6,% of population,2021,2026-06-30,survey
+GHA,infra.connect--internet-usage,itu-sdg-17-8-1-internet-use,62.5,% of population,2020,2026-06-30,suspect
+GHA,infra.connect--internet-usage,itu-sdg-17-8-1-internet-use,68.6,% of population,2021,2026-06-30,suspect
 GHA,infra.connect--internet-usage,itu-sdg-17-8-1-internet-use,69.9,% of population,2022,2026-06-30,estimate
 GHA,infra.connect--internet-usage,itu-sdg-17-8-1-internet-use,70.7,% of population,2023,2026-06-30,estimate
 GHA,infra.connect--internet-usage,itu-sdg-17-8-1-internet-use,72.2,% of population,2024,2026-06-30,estimate
@@ -2086,8 +2086,8 @@ UGA,infra.connect--mobile-penetration,itu-sdg-5b1-mobile-ownership-10plus,65,% o
 UGA,infra.connect--mobile-penetration,itu-sdg-5b1-mobile-ownership-10plus,62,% of people 10+,2023,2026-06-30,estimate
 UGA,infra.connect--mobile-penetration,itu-sdg-5b1-mobile-ownership-10plus,43.3,% of people 10+,2024,2026-06-30,survey
 ZAF,infra.connect--mobile-penetration,itu-sdg-5b1-mobile-ownership-10plus,98.4,% of people 10+,2015,2026-06-30,survey
-ZAF,infra.connect--mobile-penetration,itu-sdg-5b1-mobile-ownership-10plus,53.7,% of people 10+,2016,2026-06-30,survey
-ZAF,infra.connect--mobile-penetration,itu-sdg-5b1-mobile-ownership-10plus,59.6,% of people 10+,2017,2026-06-30,survey
+ZAF,infra.connect--mobile-penetration,itu-sdg-5b1-mobile-ownership-10plus,53.7,% of people 10+,2016,2026-06-30,suspect
+ZAF,infra.connect--mobile-penetration,itu-sdg-5b1-mobile-ownership-10plus,59.6,% of people 10+,2017,2026-06-30,suspect
 ZAF,infra.connect--mobile-penetration,itu-sdg-5b1-mobile-ownership-10plus,79.6,% of people 10+,2018,2026-06-30,survey
 ZAF,infra.connect--mobile-penetration,itu-sdg-5b1-mobile-ownership-10plus,78.1,% of people 10+,2019,2026-06-30,survey
 ZAF,infra.connect--mobile-penetration,itu-sdg-5b1-mobile-ownership-10plus,83.4,% of people 10+,2020,2026-06-30,estimate
@@ -2839,7 +2839,7 @@ TCD,infra.energy--rural-electrification,wdi-elc-accs-rural,1.6,% of rural popula
 TCD,infra.energy--rural-electrification,wdi-elc-accs-rural,1.3,% of rural population,2021,2026-07-13,survey
 TCD,infra.energy--rural-electrification,wdi-elc-accs-rural,1.3,% of rural population,2022,2026-07-13,survey
 TCD,infra.energy--rural-electrification,wdi-elc-accs-rural,0.4,% of rural population,2023,2026-07-13,survey
-TCD,infra.energy--rural-electrification,wdi-elc-accs-rural,100,% of rural population,2024,2026-07-13,survey
+TCD,infra.energy--rural-electrification,wdi-elc-accs-rural,100,% of rural population,2024,2026-07-13,suspect
 TGO,infra.energy--rural-electrification,wdi-elc-accs-rural,9.3,% of rural population,2010,2026-07-13,survey
 TGO,infra.energy--rural-electrification,wdi-elc-accs-rural,16.3,% of rural population,2011,2026-07-13,survey
 TGO,infra.energy--rural-electrification,wdi-elc-accs-rural,15.8,% of rural population,2012,2026-07-13,survey

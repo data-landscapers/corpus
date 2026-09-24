@@ -239,6 +239,8 @@ def reference(unit: str, as_at: dt.date, path: Path | None = None) -> dict[str, 
             continue
         if as_at >= LIVE_FROM and dt.date.fromisoformat(r["release"]) > as_at:
             continue
+        if r.get("nature") == "suspect":          # maturity-reference.py suspect(): never used
+            continue
         pool.setdefault(r["indicator_id"], []).append(r)
     best = {}
     for k, rows in pool.items():
