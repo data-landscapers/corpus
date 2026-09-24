@@ -579,6 +579,16 @@ def apply(unit: str, as_at: dt.date, verdicts: Path, replace: bool = False,
         elif iid not in need:
             errs.append(f"{iid}: no mapped row is visible at {as_at}, so it is No evidence")
         else:
+            # A measure verdict that sets a stage by an anchor's condition need not copy the
+            # figure: with none given, it stands on Corpus's compile or the reference, and the
+            # stage is still held to that figure's band.
+            if (frame[iid]["kind"] == "measure" and (v.get("stage") or "").strip()
+                    and not any((v.get(k) or "").strip() for k in VALUE_FIELDS)):
+                fill = comp.get(iid) or (from_reference(ref[iid]) if iid in ref else None)
+                if fill:
+                    v = {**v, **{k: fill[k] for k in VALUE_FIELDS},
+                         "qualifier": "; ".join(x for x in ((v.get("qualifier") or "").strip(),
+                                                           fill["qualifier"]) if x)}
             errs += [f"{iid}: {e}" for e in validate(v, iid, frame[iid]["kind"], need[iid], led,
                                                       as_at, rub.get(iid, {}), spec.get(iid))]
         got[iid] = v

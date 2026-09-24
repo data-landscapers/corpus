@@ -18,7 +18,7 @@ and one row per `## ` indicator in the packet. Nothing else goes in the file.
 6. **`qualifier`**: one short clause saying who says so, or what is missing for the next stage. Examples: *on the regulator's own figures*; *law in force; no enforcement act on record*; *secondary legal survey only*. Keep it under 25 words, no commas-in-quotes trouble: wrap the field in double quotes.
 7. **Instruments and systems leave `value, unit, value_year, value_source` empty.** A **measure** stands on a figure, not a row. The packet shows its band cuts and any reference figure. Write a verdict only when:
    - the rows hold a **primary figure of the stated definition**: a regulator's, a census, an audited count. Give `value`, `unit`, `value_year` and `value_source` (the raw slug, which carries its date), and cite the row in `stage_rows` if there is one. Or:
-   - an anchor's **condition** decides the stage: stage 5's end state, or a compound anchor that holds the stage below the band.
+   - an anchor's **condition** decides the stage: stage 5's end state, or a compound anchor that holds the stage below the band. Give the `stage` and say why in `qualifier`. The figure may be left empty, and the script then fills in Corpus's or the reference figure shown in the packet.
 
    Otherwise leave the measure out. The script takes the reference figure at its band, or marks it *No evidence*. The stage may not exceed the band the figure falls in; the script refuses one that does. A figure of a different definition goes in `qualifier`, never in `value`.
 8. **`next_milestone`, `due`**: only when a cited instrument itself states a dated target (e.g. *approval of the AI law*, `2028-12-31`). Otherwise leave both empty. Never invent a date.
