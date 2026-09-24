@@ -6,13 +6,13 @@
 
 **Band**: fixed, higher is better; cuts 0.25 · 0.5 · 0.8 · 0.98. rural internet use as a ratio of urban internet use (rural rate ÷ urban rate). **Direction** higher.
 
-| Stage | What it takes |
-|---|---|
-| 1 far below | Rural internet use below a quarter of the urban rate (ratio below 0.25). |
-| 2 below | Ratio 0.25–0.5. |
-| 3 approaching | Ratio 0.5–0.8. |
-| 4 meets | Ratio 0.8–0.98. |
-| 5 exceeds | Ratio 0.98 or more — the DTS end state of access for all people wherever they live in the continent. |
+| Stage         | What it takes                                                                                        |
+| ------------- | ---------------------------------------------------------------------------------------------------- |
+| 1 far below   | Rural internet use below a quarter of the urban rate (ratio below 0.25).                             |
+| 2 below       | Ratio 0.25–0.5.                                                                                      |
+| 3 approaching | Ratio 0.5–0.8.                                                                                       |
+| 4 meets       | Ratio 0.8–0.98.                                                                                      |
+| 5 exceeds     | Ratio 0.98 or more — the DTS end state of access for all people wherever they live in the continent. |
 
 **August 2026, 54 countries**: unplaced 1 · No evidence 53
 

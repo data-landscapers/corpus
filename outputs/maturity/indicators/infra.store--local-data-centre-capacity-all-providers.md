@@ -6,13 +6,13 @@
 
 **Band**: fixed, higher is better; cuts 0 · 1 · 2. the number of multi-tenant data centres (colocation, carrier-neutral or hyperscale) in service at Tier III or above. **Unit** facilities · **direction** higher. **Tier** is Uptime Institute or TIA-942 certification, or the operator's own statement with the qualifier saying which. Installed IT capacity (MW per million population) moves to the stage-5 condition and the qualifier: it is blank for 434 of the 577 facilities in the Corpus dataset, so it could not be the banded value.
 
-| Stage | What it takes |
-|---|---|
-| 1 far below | No commercial multi-tenant data centre in service, on a citation. |
-| 2 below | Multi-tenant facilities in service, none at Tier III or above. |
-| 3 approaching | One multi-tenant facility at Tier III or above in service. |
-| 4 meets | Two or more at Tier III or above in service — two, so that one can fail; a single facility of any Tier is a single point of failure. |
-| 5 exceeds | Stage 4's Tiers, capacity per million in the Africa top quintile, and a published figure that 30 % or more of the country's content or traffic is served from facilities in Africa — the DTS 2030 figure. |
+| Stage         | What it takes                                                                                                                                                                                             |
+| ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1 far below   | No commercial multi-tenant data centre in service, on a citation.                                                                                                                                         |
+| 2 below       | Multi-tenant facilities in service, none at Tier III or above.                                                                                                                                            |
+| 3 approaching | One multi-tenant facility at Tier III or above in service.                                                                                                                                                |
+| 4 meets       | Two or more at Tier III or above in service — two, so that one can fail; a single facility of any Tier is a single point of failure.                                                                      |
+| 5 exceeds     | Stage 4's Tiers, capacity per million in the Africa top quintile, and a published figure that 30 % or more of the country's content or traffic is served from facilities in Africa — the DTS 2030 figure. |
 
 **August 2026, 54 countries**: 4 meets 22 · 3 approaching 8 · 2 below 11 · 1 far below 13
 

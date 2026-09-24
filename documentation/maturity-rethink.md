@@ -2,7 +2,7 @@
 type: design-note
 title: maturity-rethink.md — the assessment after its first run, and the case for building it from studies
 date: 2026-09-24
-status: discussion — Bill is sleeping on it; nothing below is decided except where marked (Bill)
+status: discussion — Bill is sleeping on it; nothing below is decided except where marked (Bill). §1–6 CC; §7 Cowork's response, 2026-09-24
 supersedes: nothing yet; bears on maturity-assessment.md and maturity-assessment-tasks.md
 ---
 
@@ -101,3 +101,42 @@ Everything built on 2026-09-24 is committed and is left as it stands until Bill 
 - Bill's review sheet, `outputs/maturity/indicators/review.md`.
 
 The tasks file is not yet amended.
+
+## 7. Cowork's response (2026-09-24)
+
+*(Added by Cowork at Bill's request. It agrees with §3's diagnosis and with the studies model, and the points below either extend §5's proposals or qualify them. The counts are from Bill's review sheet, `outputs/maturity/indicators/review.md`, as rendered.)*
+
+**The diagnosis is right, including the part that is Cowork's.** The wall between narrative and assessment is written into `maturity-assessment.md` §2 as a ruling — *two exercises, side by side, neither derived from the other* — and into §9, and Cowork drafted both. That ruling was meant to stop the status prose being scored; what it did was keep the assessor out of the material that could have told it what a system is. Any rebuild should reverse it explicitly rather than work around it.
+
+**1. "Instruments are publishable" holds for about 18 of the 44, not all.** On the rendered August figures:
+
+- **No instrument reached stage 5 in any country.** The stage-5 test, *the national instrument says it aligns with the AU instrument, or the AU or a REC records the country as compliant*, is too strict to discriminate. Very few national texts state alignment, and neither the AU nor the RECs publish compliance lists. A rung nobody can reach is a four-stage scale printed as five. Before publication, stage 5 wants either a test the evidence can meet, such as ratification where a treaty exists or a domestic instrument that transposes a named continental one, or to be dropped until a study earns it.
+- **Thirteen instruments leave 20 or more of 54 countries unplaced.** They include regional legal harmonisation (49), adoption of international standards (39), cross-border data transfers (33) and national maintenance of ID systems (28). Those have the systems chapter's problem: the question is not definite enough for a drafter to answer from the rows. Eighteen instruments leave 10 or fewer unplaced, and they are the chapter that could publish. The other 26 either get tightened or wait for the study that covers them.
+- **A reliability check before anything publishes.** Nobody has yet measured whether two drafters reading the same packet give the same stage. About thirty calls were corrected in vetting, which says the variance is real. Re-draft a random sample of perhaps 100 instrument cells blind and count agreement. A chapter where independent drafters disagree on a large share of cells is not ready, however clean its rubric reads. This costs a morning and is the only evidence we would have that a published stage means the same thing in Benin as in Kenya.
+
+**2. Publish the cross-country pages now, without stages.** §5 withdraws the systems' stages but says nothing about the pages they sit on. Those pages are the best thing the run produced. The education page, for example, puts 54 countries' evidence on one question side by side, each with its source, under a stated continental norm. Nothing else in Corpus gives that view, and it is the perspective Bill finds missing from the progress report. With the stage column removed, each page is a continental evidence review: publishable now, plain about what it is, and the raw material for step 1 of whichever study takes the domain. The one care needed is that countries' own labels (*EMIS*) print as the country's label, attributed, and not as Corpus's classification.
+
+**3. Measures: agree with dossiers, one per measure across the continent.** A dossier per measure per country is 22 × 54 pieces of drafting and will not be maintained. One page per measure, with a row per country listing each figure held (the regulator says, the operator says, the survey found, the compiler models) and why they differ, uses the same rendering machinery and keeps the comparison. Two rules keep it Corpus's rather than ITU's:
+
+- a compiler's modelled estimate never stands alone in a row, and prints only beside at least one figure from the country itself or as *compiler's estimate only*;
+- a measure is published only where the base holds such figures for enough countries to say something. The rest are collection targets for the sweeps, as ID registration's 46 *No evidence* rows already are.
+
+**4. The frame must be allowed to change as studies land.** CC's case for the common frame (§3, point 1) is right, and it carries a risk in the other direction. The 117 questions were set before any study. A registry study may well conclude that *population register* and *digital ID system* are one question in some countries and two in others, or that the EMIS row must split from a census row. `adding-an-indicator.md` already provides for this: ids are retired and never reused, and history is kept. The studies model should say plainly that a study may redraw its domain's rows, not only fill in their rungs.
+
+**5. Registries as the first study, scoped to include identity, and piloted.** The definitional knot the systems chapter hit runs through registries and identity together. It covers the population register against the ID database, the civil register against digital ID from birth, and the interoperability row between them, which is six rows sharing one typology. A registries study that stopped at the registry rows would leave the knot half tied. It should also pilot the method on six to eight countries with deep status reports before running all 54. That tests steps 1–3 cheaply, and it matches how the budget extract was proved.
+
+**6. Instrument stages in the status report: test it by sub-section, not as one stage.** A status sub-section is a subject; `gov.legislate` holds nine instruments. What fits is a line of the subject's instrument stages under its heading, not a single stage, with the prose free to explain any of them. Run the soft status/assessment agreement check (`maturity-assessment.md` §9) on the test country first. If the prose and the stages disagree often, the test has found something worth knowing before anything prints.
+
+**7. The progress report can take perspective without a score.** Keep it, as §5 says. Its rows could link to the indicator's cross-country page and carry the norm in a phrase, so that a small step reads against where the continent stands and what it committed to. That is the perspective Bill asks for, and it needs neither the stages nor a rewrite of the report.
+
+**What stands regardless.** The norms register (`maturity-assessment-norms.md`) is worth keeping whatever is decided: continental anchoring is useful to every study's step 2 and to the pages in point 2. The frame changes that landed on the way — the sovereignty and sustainability indicators and the status-outline sub-sections — stand on their own merits.
+
+## 8. Next Steps (Bill 2026-09-24)
+
+Still thinking aloud.
+
+- This week I have 'announced' on LinkedIn that the Data Centres dataset is live - this has received a very positive response.
+- On **Monday 2026-09-28** I will announce that the non-state finance dataset is live.
+- As OSINT has been given an extra week's worth of tokens we will finish budget data collection this week. By the end of next week we should have all country budget reports published. On **Monday 2026-10-05** I will announce that country budget datasets are live.
+- That week we will work on a continental budget dataset and on the first draft of a combined non-state-finance-budget country table. These go live on **Monday 2026-10-12**
+- We then start working on publishing weekly maturity studies starting **Monday 2026-10-19**. My preferred first candidates are: registries; sectoral MIS; sub-national DT/digitalisation

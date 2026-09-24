@@ -6,13 +6,13 @@
 
 **Band**: quintiles, higher is better; cuts 16.67 · 50 · 80 (quintiles cut 2026-07-31). share of the in-country multi-tenant data centres in service (colocation, carrier-neutral or hyperscale) owned by nationally owned providers — the state, a state enterprise, a domestic company or a majority-domestic joint venture. **Unit** per cent of facilities · **direction** higher. By facilities, not MW, for the reason given on the all-providers row.
 
-| Stage | What it takes |
-|---|---|
-| 1 far below | No nationally owned multi-tenant facility in service, on a citation. |
-| 2 below | Nationally owned providers hold less than 25 % of in-country multi-tenant facilities (provisional; bottom quintiles once cut). |
-| 3 approaching | 25–50 % (provisional). |
-| 4 meets | 50 % or more (provisional), short of the DPF condition. |
-| 5 exceeds | The DPF end state: national providers hold capacity and the state's sensitive or classified data is hosted under national jurisdiction per a classification in force, on record. |
+| Stage         | What it takes                                                                                                                                                                    |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1 far below   | No nationally owned multi-tenant facility in service, on a citation.                                                                                                             |
+| 2 below       | Nationally owned providers hold less than 25 % of in-country multi-tenant facilities (provisional; bottom quintiles once cut).                                                   |
+| 3 approaching | 25–50 % (provisional).                                                                                                                                                           |
+| 4 meets       | 50 % or more (provisional), short of the DPF condition.                                                                                                                          |
+| 5 exceeds     | The DPF end state: national providers hold capacity and the state's sensitive or classified data is hosted under national jurisdiction per a classification in force, on record. |
 
 **August 2026, 54 countries**: 4 meets 18 · 3 approaching 7 · 2 below 8 · 1 far below 8 · No evidence 13
 
