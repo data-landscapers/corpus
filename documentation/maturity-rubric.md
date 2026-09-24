@@ -2,7 +2,7 @@
 type: reference
 title: maturity-rubric.md — the five-stage anchors per indicator, drafted chapter by chapter for lookups/maturity-rubric.csv
 last_reviewed: 2026-09-23
-status: task C2 — every instrument and system drafted; Capacity, Inclusion, Data and Geopolitics (12 rows) drafted 2026-09-23, CC's two review items acted on the same day, awaiting second review and cut; the 22 measures are C3
+status: task C2 complete — every instrument and system accepted and cut 2026-09-23 (95 of 117); task C3 — the 22 measures drafted 2026-09-24, awaiting CC review
 ---
 
 # The rubric
@@ -960,7 +960,7 @@ The DTS target is regional; a country's stage reads its own hubs, and the region
 
 ---
 
-## Capacity, Inclusion, Data and Geopolitics — drafted 2026-09-23; CC's first review acted on, awaiting second review and cut
+## Capacity, Inclusion, Data and Geopolitics — accepted and cut 2026-09-23
 
 The last twelve instruments and systems: Capacity's one instrument, Inclusion's one system and three instruments, Data's two instruments and four systems, and the sovereignty indicator. Capacity's five measures, Inclusion's two and the rest of the frame's measures are C3. With this leg every assessed instrument and system has a rubric.
 
@@ -1108,3 +1108,355 @@ The rubric as drafted in `indicator-digital-sovereignty.md` §5, carried here so
 - **2** — `inclusion-of-persons-with-disabilities` stage 3 loses its second limb; a state report naming the gaps is evidence for stage 1 or 2 and the qualifier, not for a law in force.
 
 Decided by CC and recorded here: D2's look-back exception is general to every anchor keyed on *the 12 months to the as-at date*; the sovereignty rubric's source is this file, with `indicator-digital-sovereignty.md` §5 pointing here.
+
+---
+
+## Measures — drafted 2026-09-24, awaiting CC review (task C3)
+
+All 22 measures in one leg, because they share one set of rules and reviewing them apart would mean reviewing the rules four times. Each measure has a specification — the list under its heading, for CC to cut into a proposed `lookups/maturity-measures.csv` (`indicator_id, value, unit, direction, population, record, reference, vintage, band_method, cuts, stage5_condition`) — and the usual five anchors, which state the cut points so that `lookups/maturity-rubric.csv` stands on its own.
+
+### How to read a measure
+
+**The value of record** (`maturity-assessment-norms.md` §7; `maturity-assessment.md` §4): a cited primary figure in the base — a regulator's statistics, a national survey or census, an audited count, a Corpus compile (`budgets/`, `outputs/non-state-finance/`) — takes precedence over the reference dataset's; the reference dataset's figure is used when the base holds nothing, or holds only a claim it contradicts. `value_source` says which, and a material disagreement goes in the qualifier. **A figure of a different definition is not the value** — SIM subscriptions are not unique subscribers, adults 15+ are not the whole population — and goes in the qualifier; if no figure of the stated definition is held the row is *No evidence*.
+
+**`prep/africa-dpi-data.csv` is never the record.** Its measure variables are banded categories collected by Perplexity (its own chapter note says so); under the base's rule on second-hand syntheses they are leads — useful for finding a primary and for the DPI cross-check (`maturity-assessment.md` §8), not for setting a stage.
+
+**Band methods**, one per measure, named in its specification:
+
+- **target** — the norm states a value T. Stage 4 is T met. Below T the range is cut at fixed thirds of T (stage 1 below T/3, stage 2 from T/3, stage 3 from 2T/3), rounded and stated per row; for a lower-is-better measure the thirds become multiples (stage 3 up to 2T, stage 2 up to 3T, stage 1 above). Stage 5 is the row's stated end state. Fixed cuts do not move with other countries, so a country's stage changes only when its own figure does.
+- **quintiles** — no African number. **Africa-only quintiles** *(Bill)* of the figures the assessment carries, cut at the baseline (as at 2026-07-31) and recut each July, the recut flagged `reassessed`. Cut only when at least fifteen countries hold a figure of the stated definition; until then the row's **provisional** absolute cuts apply and the anchor says so. On a row whose norm fixes the top, **the bottom three quintiles are stages 1–3, the top two are stage 4, and stage 5 needs the norm's end state as well**: a top-quintile country without it stays at 4, and a country with it is 5 whatever its quintile. For a lower-is-better measure, "bottom" means the worst-performing quintile.
+- **fixed** — cut points stated in the row, where the value is a count or a ratio with natural breaks.
+
+**Boundaries**: a lower bound is inclusive (*27–53* means 27 or more and less than 53). **Stability**: a measure's stage moves on a new figure — its publication is the dated cause — or on a July recut, flagged `reassessed`; nothing else moves it. The figure's year prints beside the stage.
+
+**What fixes a rung** follows the register as for the other kinds: a target stage is `no`; the thirds and quintiles below it are `yes`; a reference that informs a cut (Broadband Commission, ITU UMC, GPEDC) leaves it `yes`.
+
+---
+
+### `finance.sustain--financial-sustainability-of-digital-systems` — norm: Agenda 2063 Goal 20; AAAA area I; DTS (target (proxy) + Africa quintiles)
+
+- **Value**: domestic-state share of the digital lines of the state's own budget document, latest read fiscal year — domestic-state ÷ (domestic-state + externally financed digital lines in the same document), at the first stage both sides carry. **Unit** per cent · **direction** higher.
+- **Record**: `budgets/{ISO3}/{FY}.csv` with `external.csv`, computed by `budget_source.share()`; `value_source` is the country-year's `source_slug`. No reference dataset exists; the only source is Corpus's own.
+- **Band**: provisional fixed cuts at 20 · 40 · 60 · 80 until fifteen countries hold a read country-year (five on 2026-09-23), then Africa quintiles. **Secondary**: execution against voted and recurrent coverage can lower the stage by one, never raise it (`indicator-financial-sustainability.md` §5).
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | Domestic-state share below 20 % (provisional; bottom quintile once cut), or no domestic-state digital line in a read budget document. | yes |
+| 2 | Share 20–40 % (provisional; second quintile): digital lines appropriated but the majority externally financed. | yes |
+| 3 | Share 40–60 % (provisional; middle quintile), with recurrent lines present and domestic. | yes |
+| 4 | Share 60–80 % (provisional; fourth quintile), recurrent costs domestic, and execution against voted on record where an outturn is held. | yes |
+| 5 | Share 80 % or more (provisional; top quintile) with multi-year domestic financing, external finance confined to capital, and an audited outturn published — the Goal 20 posture applied to the digital estate. | partly — Goal 20 states the posture, not the digital share |
+
+### `finance.new--mobilisation-of-non-state-finance` — norm: DTS; Smart Africa; Agenda 2063 Goal 20 (target (continental))
+
+- **Value**: non-state finance committed to private digital beneficiaries in the 36 months to the as-at date, annualised, as a share of GDP. From `outputs/non-state-finance/{ISO3}-nonstate.csv`: rows whose `beneficiary_type` is Private Sector, Fund or PPP, any financier, `start_year` inside the 36 months, `status` Active, Approved or Closed (Pipeline and Unknown excluded), `instrument` not MoU or Unknown. **Unit** per cent of GDP · **direction** higher.
+- **Record**: the Corpus compile. GDP: World Bank WDI, current USD, latest year, named in the qualifier. **Reference**: none carries this measure.
+- **Band**: Africa quintiles, cut at once (every country has a non-state file). Public-sector beneficiaries are `finance.new--development-partner-project-financing`'s evidence, never this row's, so no commitment is counted twice.
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | Bottom Africa quintile, or no non-state commitment to a private digital beneficiary in the 36 months on record. | yes |
+| 2 | Second quintile. | yes |
+| 3 | Middle quintile. | yes |
+| 4 | Fourth quintile. | yes |
+| 5 | Top quintile, with private digital capital from domestic as well as foreign financiers on record — the Goal 20 and Smart Africa posture of mobilised private finance. | partly — the continental ambition, not a country figure |
+
+### `finance.new--development-partner-project-financing` — norm: Agenda 2063 Goal 20 (target) — see the decision at the foot of this leg
+
+- **Value**: the on-budget share of development-partner digital finance to the state — partner-financed digital lines printed in the state's own budget document (`budgets/{ISO3}/external.csv`, matched to held deals by the origin gate) ÷ partner digital commitments to public-sector beneficiaries active in the same fiscal year (`outputs/non-state-finance/`, `beneficiary_type` Public Sector). **Unit** per cent · **direction** higher.
+- **Why not the external share**: the external share of the digital budget is 100 % minus `finance.sustain`'s value; banding it here would count one fact twice. This row reads instead whether partner money runs through the state's own budget, which is what "Africa takes full responsibility" asks of partner finance.
+- **Record**: the two Corpus compiles; only read country-years qualify, so coverage follows the budget-extract queue. **Reference**: GPEDC's on-budget indicator (development co-operation on budgets subject to parliamentary scrutiny); the 85 % line is the Paris Declaration's indicator 3 target as GPEDC carries it, not verified in this session.
+- **Band**: provisional fixed cuts at 20 · 40 · 60 · 85 until fifteen countries hold a read country-year, then Africa quintiles for stages 1–4.
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | Less than 20 % of partner digital finance to the state printed in its budget document (provisional). | yes |
+| 2 | 20–40 % on budget (provisional). | yes |
+| 3 | 40–60 % on budget (provisional). | yes |
+| 4 | 60–85 % on budget (provisional). | yes |
+| 5 | 85 % or more of partner digital finance on budget and executed through the state's own systems on record — Goal 20's posture of a continent financing its development through its own institutions. | partly — Goal 20 states the posture; the 85 % line is the reference's |
+
+### `infra.connect--mobile-penetration` — norm: DTS (top)
+
+- **Value**: individuals aged 15+ owning a mobile phone, per cent (the ITU and UMC 2030 definition). **Direction** higher.
+- **Record**: a national household survey or census (the statistics office, DHS or MICS module) over the ITU series; **reference** ITU DataHub mobile-phone ownership (latest release; CC to record the year). SIM subscriptions per 100 and GSMA unique subscribers (total-population base) are different definitions and go in the qualifier only.
+- **Band**: Africa quintiles for stages 1–4; stage 5 needs the DTS end state.
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | Bottom Africa quintile of mobile-phone ownership among people 15+. | yes |
+| 2 | Second quintile. | yes |
+| 3 | Middle quintile. | yes |
+| 4 | Fourth or top quintile, short of the DTS end state. | yes |
+| 5 | The DTS end state — "all our people" with a mobile device — read as ownership of 95 % or more among people 15+, on a survey figure. | no |
+
+### `infra.connect--internet-usage` — norm: Agenda 2063 STYIP; DTS (target: 80 % by 2033)
+
+- **Value**: individuals using the internet in the last three months, per cent of the population (SDG 17.8.1). **Direction** higher.
+- **Record**: a national household survey over the ITU estimate; **reference** ITU DataHub / WDI IT.NET.USER.ZS (latest release; CC to record the year). The regulator's "internet subscriptions" are a different definition.
+- **Band**: target, T = 80. The STYIP's figure is population reached at ≥ 6 Mb/s; the row reads it as use, the one form measured country by country (note for the review).
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | Internet use below 27 % of the population. | yes |
+| 2 | 27–53 %. | yes |
+| 3 | 53–80 %. | yes |
+| 4 | 80 % or more — the STYIP 2033 figure. | no |
+| 5 | 95 % or more — the DTS 2030 end state of all people online wherever they live. | no |
+
+### `infra.connect--mobile-affordability` — norm: DTS (target: no more than 1 US cent per MB)
+
+- **Value**: price per GB, in US dollars, of the cheapest 30-day mobile data plan of at least 2 GB from the operator with the largest market share (the ITU data-only basket's construction), with the same basket as a percentage of monthly GNI per capita as the secondary figure. **Direction** lower.
+- **Record**: the operator's or regulator's published tariff, dated, converted at the month's rate, over the ITU basket; **reference** ITU ICT Price Baskets (latest release; CC to record the year).
+- **Band**: target, T = USD 10 per GB (1 US cent per MB), multiples above it; stage 5 adds the Broadband Commission line.
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | More than USD 30 per GB. | yes |
+| 2 | USD 20–30 per GB. | yes |
+| 3 | USD 10–20 per GB. | yes |
+| 4 | USD 10 per GB or less — the DTS line. | no |
+| 5 | USD 10 per GB or less, and the basket at or below 2 % of monthly GNI per capita (Broadband Commission Target 2). | yes |
+
+### `infra.connect--international-internet-bandwidth` — norm: DTS (target: a minimum of two international connections)
+
+- **Value**: number of independent international fibre routes in service — submarine cable landings, or terrestrial links to distinct neighbouring networks — with international bandwidth per internet user (kbit/s) as the secondary figure. **Independent** means no shared landing station and, for a landlocked state, not all through one transit country. **Direction** higher.
+- **Record**: the regulator's, the operator's or the consortium's statement of routes in service; **reference** TeleGeography and ITU DataHub for bandwidth per user (latest release; CC to record the year).
+- **Band**: fixed on the count; stage 5 adds the Africa top quintile of bandwidth per user.
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | No international fibre route in service — satellite or microwave only — on a citation. | yes |
+| 2 | One international fibre route in service. | yes |
+| 3 | Two or more routes sharing a single point of failure (one landing station, or one transit country). | yes |
+| 4 | Two or more independent international routes in service — the DTS minimum. | no |
+| 5 | Two or more independent routes, and international bandwidth per internet user in the Africa top quintile. | yes |
+
+### `infra.store--local-data-centre-capacity-all-providers` — norm: DTS; Smart Africa Data Center and Cloud Blueprint (target + rungs: Uptime Tier I–IV)
+
+- **Value**: installed IT capacity, in MW, of multi-tenant (colocation) data centres in service, per million population, with the highest Tier in service as the rung condition. **Tier** is Uptime Institute or TIA-942 certification, or the operator's own statement with the qualifier saying which. **Direction** higher.
+- **Record**: operators' and the regulator's published figures; **reference** the Africa Data Centres Association and commercial directories (Data Center Map, Xalam) — none official, all to be named with their date. Population: UN World Population Prospects.
+- **Band**: the Blueprint's Tier rungs for stages 2–4; stage 5 adds the Africa top quintile of MW per million and the DTS hosting figure.
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | No commercial multi-tenant data centre in service, on a citation. | yes |
+| 2 | Multi-tenant capacity in service at Tier I–II only. | yes |
+| 3 | At least one Tier III facility in service. | no |
+| 4 | More than one Tier III facility, or at least one Tier IV, in service. | no |
+| 5 | Stage 4's Tiers, capacity per million in the Africa top quintile, and a published figure that 30 % or more of the country's content or traffic is served from facilities in Africa — the DTS 2030 figure. | no |
+
+### `infra.store--local-data-centre-capacity-national-providers` — norm: DPF §5.3.1 (top)
+
+- **Value**: share of in-country multi-tenant IT capacity (MW) owned by nationally owned providers — the state, a state enterprise, or a domestically controlled company. **Direction** higher.
+- **Record**: operators' ownership and capacity statements, coded by hand from the base; no reference dataset exists.
+- **Band**: provisional fixed cuts at 0 · 25 · 50 until fifteen countries hold a figure, then Africa quintiles for stages 1–4; stage 5 needs the DPF condition.
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | No nationally owned multi-tenant facility in service, on a citation. | yes |
+| 2 | Nationally owned providers hold less than 25 % of in-country capacity (provisional). | yes |
+| 3 | 25–50 % (provisional). | yes |
+| 4 | 50 % or more (provisional), short of the DPF condition. | yes |
+| 5 | The DPF end state: national providers hold capacity and the state's sensitive or classified data is hosted under national jurisdiction per a classification in force, on record. | no |
+
+### `infra.energy--sufficient-energy-and-water-for-data-centres` — norm: Smart Africa Blueprint (top)
+
+- **Value**: annualised power usage effectiveness (PUE) of the country's multi-tenant data centres, capacity-weighted where more than one publishes it, with water usage effectiveness (WUE) as the secondary figure. **Direction** lower. The Blueprint names PUE as the metric and dual grid feeds with backup as the supply condition; no document at any tier sets a threshold, so every cut below stage 5 is Corpus's.
+- **Record**: operators' published PUE and WUE; **reference** ISO/IEC 30134-2 and 30134-9 for the definitions only.
+- **Band**: provisional fixed cuts until fifteen countries hold a figure (the register expects that to take years); stage 5 needs the Blueprint's supply condition.
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | PUE above 2.0, or data-centre load carried on diesel as the primary supply on record. | yes |
+| 2 | PUE 1.8–2.0. | yes |
+| 3 | PUE 1.6–1.8. | yes |
+| 4 | PUE below 1.6. | yes |
+| 5 | PUE below 1.6 with dual grid feeds and backup generation in service and WUE published — the Blueprint's supply and efficiency conditions. | no |
+
+### `infra.energy--grid-reliability` — norm: AfSEM plans and Continental Power System Master Plan (top)
+
+- **Value**: power interruptions per month — SAIFI ÷ 12 where the regulator or utility publishes SAIFI, otherwise the number of outages in a typical month reported by firms. **Direction** lower.
+- **Record**: the regulator's or utility's published SAIFI; **reference** World Bank Enterprise Surveys (survey year varies by country and prints as `value_year`).
+- **Band**: Africa quintiles for stages 1–4, cut at once (the Enterprise Surveys cover most of the continent); stage 5 needs the AfSEM condition.
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | Interruptions per month in the worst Africa quintile (the most interruptions). | yes |
+| 2 | Second-worst quintile. | yes |
+| 3 | Middle quintile. | yes |
+| 4 | The two best quintiles (the fewest interruptions), short of the AfSEM condition. | yes |
+| 5 | Best quintile, with the national grid interconnected to its regional power pool and trading on record — the AfSEM end state of a reliable, interconnected supply. | no |
+
+### `infra.energy--rural-electrification` — norm: Agenda 2063 STYIP; Mission 300 (target: 80 % of households by 2033)
+
+- **Value**: rural population with access to electricity, per cent (SDG 7.1.1, rural). **Direction** higher.
+- **Record**: a national household survey or census, or the rural-electrification agency's published figure, over the reference; **reference** Tracking SDG7 and WDI EG.ELC.ACCS.RU.ZS (latest release; CC to record the year).
+- **Band**: target, T = 80. The STYIP's figure is national households; the row applies it to the rural population, which changes what is counted, not who set the bar (the rural-schools ruling).
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | Rural electricity access below 27 %. | yes |
+| 2 | 27–53 %. | yes |
+| 3 | 53–80 %. | yes |
+| 4 | 80 % or more — the STYIP 2033 figure. | no |
+| 5 | 95 % or more — universal access (SDG 7.1). | yes |
+
+### `dpi.id--registration-of-entire-population` — norm: DTS (target: 99.9 % with a digital legal identity by 2030)
+
+- **Value**: persons holding a unique national identity number or credential, all ages, per cent of the population. **Direction** higher. The DTS counts "people in Africa", not adults, so a system that enrols only from age 16 caps its share near the adult share of the population; that is the DTS's point — legal identity from birth — and the qualifier says where the cap applies.
+- **Record**: the identity authority's published count of unique persons enrolled (not cards printed), over the population from the statistics office or UN World Population Prospects; a count above the population is capped at 100 % and the qualifier says so. **Reference**: World Bank ID4D Global Dataset and Findex 2025 ID ownership (adults, a different base — qualifier only).
+- **Band**: target, T = 99.9.
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | Below 33 % of the population holding a unique identity number or credential. | yes |
+| 2 | 33–67 %. | yes |
+| 3 | 67–99.9 %. | yes |
+| 4 | 99.9 % or more — the DTS 2030 figure. | no |
+| 5 | 99.9 % or more, with the identity assigned through civil registration from birth — the DTS's "as part of a civil registration process". | no |
+
+### `dpi.pay--population-uptake` — norm: World Bank Global Findex (global tier; target: reference values frozen at Findex 2025)
+
+- **Value**: adults 15+ with an account at a financial institution or a mobile-money provider, per cent, with adults who made or received a digital payment in the past year as the secondary figure. **Direction** higher.
+- **Record**: a national financial-inclusion survey (FinScope or the central bank's own demand-side survey) over Findex; a central bank's count of accounts is not a count of people and goes in the qualifier. **Reference**: Global Findex 2025 (2024 data), frozen as the vintage: global account ownership 79 %.
+- **Band**: target, T = 79.
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | Account ownership below 26 % of adults. | yes |
+| 2 | 26–53 %. | yes |
+| 3 | 53–79 %. | yes |
+| 4 | 79 % or more — the global rate at the frozen Findex vintage. | no |
+| 5 | Ownership 79 % or more, and 79 % or more of adults making or receiving a digital payment — use as well as access. | yes |
+
+### `tech.industry--national-capacity-in-dt-related-production` — norm: DTS Digital Industry pillar; STISA-2034 (target)
+
+- **Value**: gross value added of the information and communication sector (ISIC Rev. 4 section J), per cent of GDP, with ICT goods assembled or manufactured in the country (a plant in production, on record) as the stage-5 condition. **Direction** higher.
+- **Record**: the statistics office's national accounts by activity; **reference** UNCTADstat and the UN National Accounts Main Aggregates (latest release; CC to record the year).
+- **Band**: Africa quintiles for stages 1–4; stage 5 needs the DTS production condition. The STYIP carries a digital-economy share of GDP that could make this a target row; the register does not yet name it for this indicator (note for the review).
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | Information and communication value added in the bottom Africa quintile. | yes |
+| 2 | Second quintile. | yes |
+| 3 | Middle quintile. | yes |
+| 4 | Fourth or top quintile, short of the DTS condition. | yes |
+| 5 | Top quintile, with ICT assembly or manufacturing in production in the country — the DTS pillar's "ICT assembling and manufacturing plants". | no |
+
+### `capacity.literacy--digital-literacy-civil-service` — norm: Public Service Charter Art. 21; DPF (top)
+
+- **Value**: civil servants who have completed a government digital-skills programme or certification, per cent of the civil service headcount. **Direction** higher.
+- **Record**: the civil-service body's or digital agency's published completion figure over its published headcount; **reference** GTMI 2025 digital-skills indicators (categorical — qualifier only). Coverage will be thin, and most countries will read *No evidence* until the base holds a figure.
+- **Band**: provisional fixed cuts at 0 · 10 · 40 until fifteen countries hold a figure, then Africa quintiles for stages 1–4; stage 5 needs the Charter condition.
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | No civil-service digital-skills programme in operation, on a citation (0 %). | yes |
+| 2 | Less than 10 % of the civil service trained (provisional). | yes |
+| 3 | 10–40 % (provisional). | yes |
+| 4 | 40 % or more (provisional), short of the Charter condition. | yes |
+| 5 | The Charter's Art. 21 end state: a systematic programme in force across the public service with results published, and 40 % or more trained. | no |
+
+### `capacity.literacy--digital-literacy-general-population` — norm: DTS; Agenda 2063 STYIP (target: 80 % digitally proficient by 2033)
+
+- **Value**: individuals aged 15+ with basic digital skills, per cent — SDG 4.4.1 on the ITU's 2025 method (at least one activity in each of five skill areas) — with intermediate skills as the secondary figure. **Direction** higher.
+- **Record**: the statistics office's household survey module; **reference** ITU DataHub SDG 4.4.1 (few African countries report — CC to record which and the year).
+- **Band**: target, T = 80. The STYIP's figure is primary completers with minimum proficiency; no country measures that cohort, so the row applies it to the adult population the ITU measures (note for the review).
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | Basic digital skills below 27 % of people 15+. | yes |
+| 2 | 27–53 %. | yes |
+| 3 | 53–80 %. | yes |
+| 4 | 80 % or more — the STYIP 2033 figure. | no |
+| 5 | 80 % or more with basic skills, and more than 50 % with intermediate skills (ITU UMC 2030). | yes |
+
+### `capacity.training--dt-related-training-in-secondary-education` — norm: AU Digital Education Strategy; CESA 26-35 (target: 50 % of institutions connected by 2027)
+
+- **Value**: secondary schools with internet access for pedagogical purposes, per cent (SDG 4.a.1). **Direction** higher.
+- **Record**: the education ministry's school census or EMIS; **reference** UIS SDG 4.a.1 (latest release; CC to record the year).
+- **Band**: target, T = 50 (the DES's 2027 figure for all institutions, applied to secondary schools).
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | Below 17 % of secondary schools with internet for teaching. | yes |
+| 2 | 17–33 %. | yes |
+| 3 | 33–50 %. | yes |
+| 4 | 50 % or more — the DES 2027 figure. | no |
+| 5 | 50 % or more, with digital literacy or computing a compulsory part of the national secondary curriculum on record — the DES target that all students attain a minimum digital literacy. | no |
+
+### `capacity.training--dt-related-university-facilities-and-qualifications` — norm: AU Digital Education Strategy; Agenda 2063 STYIP (target: 40 % of graduates in STEM by 2033)
+
+- **Value**: tertiary graduates from STEM programmes (ISCED-F 05–07, ICT 06 included), per cent of all tertiary graduates, with the ICT share (ISCED-F 06) as the secondary figure. **Direction** higher.
+- **Record**: the higher-education ministry's or statistics office's graduate statistics; **reference** UIS (latest release; CC to record the year).
+- **Band**: target, T = 40.
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | STEM graduates below 13 % of tertiary graduates. | yes |
+| 2 | 13–27 %. | yes |
+| 3 | 27–40 %. | yes |
+| 4 | 40 % or more — the STYIP 2033 figure. | no |
+| 5 | 40 % or more, with a national research and education network in service connecting the public universities — the DES target of NRENs in every country by 2027. | no |
+
+### `capacity.training--graduates-entering-dt-ecosystem` — norm: Agenda 2063 STYIP; Continental TVET Strategy (target)
+
+- **Value**: employment in information and communication (ISIC Rev. 4 section J), per cent of total employment. **Direction** higher. The STYIP's 40 %-STEM figure is the university row's; using it here would count one fact twice, so this row reads absorption into the sector instead.
+- **Record**: the statistics office's labour force survey; **reference** ILOSTAT (latest release; CC to record the year).
+- **Band**: Africa quintiles for stages 1–4; stage 5 needs the STYIP youth-employment figure.
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | Information and communication employment in the bottom Africa quintile. | yes |
+| 2 | Second quintile. | yes |
+| 3 | Middle quintile. | yes |
+| 4 | Fourth or top quintile, short of the STYIP figure. | yes |
+| 5 | Top quintile, with youth unemployment at or below 14 % on the labour force survey — the STYIP 2033 figure. | no |
+
+### `include.access--gender-equity` — norm: Maputo Protocol Arts 12, 18, 19; DTS; African Digital Compact (top)
+
+- **Value**: gender gap in internet use — (men's rate − women's rate) ÷ men's rate, per cent. **Direction** lower.
+- **Record**: a national household survey with sex-disaggregated internet use; **reference** ITU sex-disaggregated series, with GSMA's Mobile Gender Gap (mobile internet, 2026) in the qualifier only — a different definition.
+- **Band**: Africa quintiles for stages 1–4; stage 5 is parity.
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | Gender gap in internet use in the Africa quintile with the widest gaps. | yes |
+| 2 | Second-widest quintile. | yes |
+| 3 | Middle quintile. | yes |
+| 4 | The two narrowest quintiles, short of parity. | yes |
+| 5 | Parity — a gap of 2 % or less — on a survey figure: women's access to and use of information technologies on equal terms (Maputo Art. 18(2)(b)). | no |
+
+### `include.divides--bridging-of-digital-divides` — norm: DTS; ACHPR Principle 37; African Digital Compact (target)
+
+- **Value**: rural internet use as a ratio of urban internet use (rural rate ÷ urban rate). **Direction** higher.
+- **Record**: a national household survey with urban and rural internet use; **reference** ITU urban/rural series (latest release; CC to record the year).
+- **Band**: fixed; stage 5 is the DTS end state of access "wherever they live".
+
+| stage | anchor | interpolated |
+|---|---|---|
+| 1 | Rural internet use below a quarter of the urban rate (ratio below 0.25). | yes |
+| 2 | Ratio 0.25–0.5. | yes |
+| 3 | Ratio 0.5–0.8. | yes |
+| 4 | Ratio 0.8–0.98. | yes |
+| 5 | Ratio 0.98 or more — the DTS end state of access for all people wherever they live in the continent. | no |
+
+## Measures — notes for CC's review
+
+**Datasets for CC to confirm (the C3 task's own check).** Each specification names its reference and says *CC to record the year* where the latest vintage was not read in this session. Confirmed on 2026-09-22–23 by the research passes and not repeated here: Global Findex 2025 (2024 data), GSMA Mobile Gender Gap 2026, the ITU UMC 2030 targets, the Broadband Commission targets, the DES and STYIP figures. To reach and date: ITU DataHub (ownership, use, SDG 4.4.1, urban/rural and sex splits, bandwidth), ITU ICT Price Baskets, Tracking SDG7 / WDI rural access, World Bank Enterprise Surveys, UIS (4.a.1, graduates by field), ILOSTAT (employment by activity), UN National Accounts and UNCTADstat, WDI GDP, UN WPP, ID4D. None of the three Corpus compiles needs checking beyond the code that computes it.
+
+**Three readings the draft makes that Bill or CC should see:**
+
+- **Norm figures applied to a neighbouring population.** `internet-usage` reads the STYIP's *population at ≥ 6 Mb/s* as use; `rural-electrification` reads its national-households figure against the rural population; `general-population` literacy reads its *primary completers* figure against adults 15+; secondary training reads the DES's all-institutions figure against secondary schools. Each follows the rural-schools ruling — the norm set the bar, the row chooses what is counted — and each says so in its specification.
+- **`finance.new--development-partner-project-financing` is redefined.** The register anchors it on Goal 20's *aid ≤ 25 % of the 2013 level*, an inverse of the external share of the budget — which is 100 % minus the sustainability share and would count one fact twice. The draft reads the on-budget share of partner digital finance instead (partner money running through the state's own budget), with stage 5 `partly`. The alternative is to retire the row as a measure and let the sustainability row carry dependence alone. **This is Bill's call.** The 85 % line at stage 5 is the Paris Declaration's indicator 3 target as carried by GPEDC — not verified against the text in this session.
+- **Two measures read absorption, not the norm's headline, to avoid double counting**: `graduates-entering-dt-ecosystem` (ICT-sector employment; the 40 %-STEM figure stays with the university row) and `mobilisation-of-non-state-finance` (private beneficiaries only; public-sector beneficiaries are the partner row's). Neither is a register change; both keep the register's anchors for stage 5.
+
+**Rows CC may want to read first:**
+
+- **`sufficient-energy-and-water-for-data-centres`** is the weakest measure: the Blueprint names PUE, which measures efficiency rather than sufficiency, and no document at any tier sets a threshold, so stages 1–4 are Corpus's cuts on an operator-published figure few operators publish. It will read *No evidence* almost everywhere. If Bill would rather it were a system (supply in service on dual feeds, backup, water source on record), that is a kind change for the frame, not a rubric edit.
+- **`mobile-penetration`** holds to ownership among people 15+, the ITU and UMC definition, so SIM counts and GSMA's total-population unique-subscriber rate go in the qualifier. Coverage will be the survey countries; if that leaves fewer than fifteen, provisional cuts are needed and the row will ask for them.
+- **`tech.industry`** could become a target row if the STYIP's digital-economy share of GDP is verified and added to the register for this indicator; until then it bands on quintiles with the DTS production condition at stage 5.
+- **`registration-of-entire-population`** puts stage 4 at the DTS's 99.9 % of all people, so almost every country will sit at 2 or 3 and systems that enrol only adults are capped near the adult share. That is the truthful reading of the DTS's "from birth", and the qualifier says where the cap applies.
+
+**A checker extension for CC's consideration.** `lint-maturity-rubric.py` checks the four rubric columns; the specifications here want their own lookup (`lookups/maturity-measures.csv`) and, with it, checks that every measure has a value, unit, direction, record rule and band method, that a `target` row's cuts derive from its T, and that a `quintiles` row names its provisional cuts where fewer than fifteen countries hold a figure.
