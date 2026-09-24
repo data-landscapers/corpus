@@ -701,6 +701,16 @@ def write_current(reports: Path, unit: str, staged: dict[str, dict]) -> None:
         s = staged.get((r.get("indicator_id") or "").strip())
         for c in cols:
             r[c] = s.get(c, "") if s else ""
+    # A measure staged on a compiled or reference figure may have no row here at all: nothing was
+    # ever mapped to it (finance.sustain, new at B3, in most units). It gets one, `No evidence` to
+    # the progress report, which is true of its mapping, carrying its stage columns.
+    held = {(r.get("indicator_id") or "").strip() for r in rows}
+    order = {r["indicator_id"]: n for n, r in enumerate(indicators_lib.frame())}
+    for iid in sorted(set(staged) - held, key=lambda i: order.get(i, 10**6)):
+        new = {f: "" for f in fields}
+        new.update({"indicator_id": iid, "progress": "No evidence",
+                    **{c: staged[iid].get(c, "") for c in cols}})
+        rows.append(new)
     body = io.StringIO()
     w = csv.DictWriter(body, fieldnames=fields, lineterminator=eol)
     w.writeheader()
