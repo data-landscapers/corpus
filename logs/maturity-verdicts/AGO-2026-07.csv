@@ -8,7 +8,7 @@ gov.policy--ai-strategy,1,AGO-gov.policy-national-artificial-intelligence-strate
 gov.policy--data-localisation-policies,2,AGO-infra.store-public-data-management-and-hosting-policy|AGO-dpi.registry-private-credit-information-centres,,,,,,,Only sectoral localisation in force (credit data); national hosting policy at consultancy stage; no data classification,0,
 gov.policy--data-governance-policy,,,,,,,,,No national data policy drafted or adopted on record; rows show protection law and agency only,0,
 gov.policy--open-data-policy,2,AGO-data.open-open-data-framework-and-portal|AGO-data.statistics-census-portal-and-statistics-application,,,,,,,Open-data portal committed in a project safeguards plan; census portal publishes data with no policy or licence,0,
-gov.legislate--data-protection-legislation,4,AGO-gov.protect-data-protection-law,,,,,,,"Law 22/11 in force; agency, fee regulation and fines on the DPA row; Malabo ratification not on record",0,
+gov.legislate--data-protection-legislation,3,AGO-gov.protect-data-protection-law,,,,,,,"Law in force; the agency and its fines sit on a row mapped to the DPA indicator, not this one (CC)",0,
 gov.legislate--cybersecurity-legislation,2,AGO-gov.legislate-cybersecurity-bill,,,,,,,Bill before the Assembly at the as-at; plenary adoption of 12 August 2026 falls after it,0,
 gov.legislate--legislation-covering-digital-id,2,AGO-dpi.id-civil-and-criminal-identification-bill,,,,,,,Identification bill approved by Council of Ministers April 2026; no parliamentary stage on record,0,
 gov.legislate--digital-payments-legislation,3,AGO-dpi.pay-payment-services-authorisation-regime,,,,,,,Central-bank avisos require non-bank authorisation; no licence register or enforcement act on record,0,
