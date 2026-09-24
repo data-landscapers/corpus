@@ -88,19 +88,25 @@ def unit_checks(unit: str, reports: Path = ma.REPORTS) -> dict[str, list[str]]:
             if not f or not f["assessed"]:
                 bad["N"].append(f"{tag} {iid}: staged but not an assessed indicator")
                 continue
-            if st not in {"1", "2", "3", "4", "5"}:
-                bad["N"].append(f"{tag} {iid}: stage {st!r}")
             rows = split(r.get("stage_rows"))
+            vals = [(r.get(k) or "").strip() for k in ma.VALUE_FIELDS]
+            if st == "":
+                # Unplaced (maturity-assess.py): said, with a reason, and resting on nothing.
+                if not (r.get("qualifier") or "").strip() or rows or any(vals):
+                    bad["N"].append(f"{tag} {iid}: unplaced needs a qualifier, no rows, no value")
+            elif st not in {"1", "2", "3", "4", "5"}:
+                bad["N"].append(f"{tag} {iid}: stage {st!r}")
             for rid in rows:
                 if rid not in led:
                     bad["N"].append(f"{tag} {iid}: cites {rid}, not in the ledger")
                 elif not ma.visible(led[rid], at):
                     bad["N"].append(f"{tag} {iid}: cites {rid}, which has no source by {at}")
             budget = iid == ma.BUDGET_EXCEPTION and (r.get("value_source") or "").startswith("budgets/")
-            if not rows and not budget:
+            if st and not rows and not budget:
                 bad["P"].append(f"{tag} {iid}: stage {st} cites no row")
-            vals = [(r.get(k) or "").strip() for k in ma.VALUE_FIELDS]
-            if f["kind"] == "measure":
+            if not st:
+                pass
+            elif f["kind"] == "measure":
                 if not all(vals):
                     bad["Q"].append(f"{tag} {iid}: measure missing a value column")
                 elif not re.fullmatch(r"\d{4}", vals[2]) or int(vals[2]) > at.year:

@@ -44,6 +44,14 @@ byte-identical, which is D2's "assessed twice against the same rows yields ident
 is the stage columns of `outputs/reports/{unit}/indicators.csv`, the current position, and it is
 written only when this as-at is the latest snapshot.
 
+**A verdict may leave `stage` empty: unplaced** *(CC, 2026-09-24, on the first real unit)*. The
+mapped rows are held, but they satisfy no rung: they are not the thing itself, and they are not
+the cited absence stage 1 requires. Stage 1 would then assert an absence the base cannot cite,
+which is exactly the conflation §3 forbids. An unplaced row carries a `qualifier` saying why and
+no `stage_rows`. It is kept in the snapshot so that the finding persists, and it prints as
+unassessed. Entering a stage from it or leaving a stage for it is a change like any other and
+passes the stability rule.
+
 **One exception to "a stage needs a mapped row".** The financial-sustainability indicator may
 stand on a `budgets/` country-year named in `value_source`, with `row_ids` empty
 (`indicator-financial-sustainability.md` §5; C4).
@@ -239,9 +247,17 @@ def validate(v: dict, iid: str, kind: str, rids: list[str], led: dict, as_at: dt
              anchors: dict) -> list[str]:
     errs = []
     st = (v.get("stage") or "").strip()
+    srows = [s.strip() for s in (v.get("stage_rows") or "").split("|") if s.strip()]
+    if st == "":
+        # Unplaced: the mapped rows are held but satisfy no rung, stage 1's cited absence
+        # included. It is said, not left blank by accident, so it has to say why and cite nothing.
+        if not (v.get("qualifier") or "").strip():
+            errs.append("unplaced (no stage) without a qualifier saying why")
+        if srows or any((v.get(k) or "").strip() for k in VALUE_FIELDS):
+            errs.append("unplaced (no stage) but cites rows or carries a value")
+        return errs
     if st not in {"1", "2", "3", "4", "5"}:
         errs.append(f"stage {st!r} is not 1–5")
-    srows = [s.strip() for s in (v.get("stage_rows") or "").split("|") if s.strip()]
     stray = [s for s in srows if s not in rids]
     if stray:
         errs.append(f"stage_rows names rows not mapped or not visible at {as_at}: {', '.join(stray)}")
@@ -277,14 +293,16 @@ def decide(v: dict, p: dict | None, prev_at: dt.date | None, as_at: dt.date, led
     if hits:
         v["moved_by"] = hits[-1]
         return v, "moved"
-    look = any(LOOKBACK in anchors[int(s)]["anchor"] for s in (p["stage"], stage) if int(s) in anchors)
+    look = any(LOOKBACK in anchors[int(s)]["anchor"] for s in (p["stage"], stage)
+               if s.isdigit() and int(s) in anchors)
     cause = (v.get("cause") or "").strip()
     if look and DATE.match(cause):
         v["moved_by"] = cause
         return v, "moved (look-back)"
     held = {k: p.get(k, "") for k in SNAPSHOT_FIELDS}
     held["moved_by"] = ""
-    return held, f"held at {p['stage']}: verdict {stage} has no dated row in the window"
+    return held, (f"held at {p['stage'] or 'unplaced'}: verdict {stage or 'unplaced'} has no "
+                  f"dated row in the window")
 
 
 def apply(unit: str, as_at: dt.date, verdicts: Path, replace: bool = False,

@@ -105,6 +105,7 @@ Two consequences for measures. They step, not drift: a new figure arrives once a
 - **A rubric correction or a re-read that changes a stage sets `reassessed`** and is reported in its own section, never as a country movement.
 - ***No evidence* ⟺ zero mapped rows**, both directions — check I unchanged.
 - **Stage 1 requires a citation.** An *Absent* with nothing behind it is *unassessed*.
+- **Rows held that satisfy no rung leave the indicator *unplaced*** *(CC, 2026-09-24, from the first real unit: 12 of STP's 88)*. The stage is empty and the qualifier says why. The row stays in the snapshot so the finding is kept, and the indicator prints as unassessed. It is never stage 1, which would assert an absence the base cannot cite. Entering or leaving a stage from unplaced passes the stability rule like any other change. This refines the line above it and leaves check I alone: the mapping still has its rows.
 - **A measure requires all four value columns.** A band with no figure behind it fails.
 - **`Mixed` retires.** It existed because one indicator had several instruments moving different ways; the stage plus the qualifier carries that.
 

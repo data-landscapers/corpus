@@ -384,6 +384,21 @@ try:
     edit_csv(root / "XXX" / "indicators.csv", STRAT, stage="4")
     check("indicators.csv edited away from the edition fails S", fails_on(root), "S")
 
+    print("\nunplaced: rows held, no rung met")
+    root = tmp / "unplaced"
+    unit_dir(root)
+    unplaced = {"indicator_id": TALK, "stage": "", "qualifier": "rows do not bear on the anchor"}
+    ma.apply("XXX", JUL, verdicts(root, "jul", [BASE[0], unplaced, BASE[2]]), reports=root)
+    check("is written to the snapshot with no stage", snap(root, JUL)[TALK]["stage"], "")
+    check("and passes the checks", fails_on(root), "")
+    unit_dir(tmp / "unplaced-2")
+    check("without a reason it is refused", "without a qualifier" in refused(
+        tmp / "unplaced-2", JUL, [BASE[0], {**unplaced, "qualifier": ""}, BASE[2]], "r"), True)
+    notes = ma.apply("XXX", AUG, verdicts(root, "aug", [
+        v(STRAT, "", "", qualifier="re-read: nothing on record")]), reports=root)
+    check("leaving a stage for unplaced with nothing dated is held",
+          snap(root, AUG)[STRAT]["stage"], "2")
+
     print("\nthe estate checks")
     d = tmp / "scripts"
     d.mkdir()

@@ -16,7 +16,7 @@ status: in progress; A, B1–B3, C1, C2 (instruments and systems), C4 done 2026-
 
 ## Where this stands
 
-**As of 2026-09-24.** Phase A is done. B1–B3 are done: OSINT applied note 164 on 2026-09-23, and the frame holds 123 rows, 117 assessed. C1 is done (117 norms rows) and so is C4 (`budgets/{ISO3}/external.csv`). C2 has cut every instrument and system, 95 of 117 with 347 interpolated rungs. **Open on the critical path**: C3 (the 22 measures, which also close C2) and then D1–D6. **Off it**: B4.
+**As of 2026-09-24.** Phase A is done. B1–B3 are done: OSINT applied note 164 on 2026-09-23, and the frame holds 123 rows, 117 assessed. C1 is done (117 norms rows) and so is C4 (`budgets/{ISO3}/external.csv`). C2 has cut every instrument and system, 95 of 117 with 347 interpolated rungs. **D1–D3 done 2026-09-24** (D3's render-side checks come with F). **Open on the critical path**: C3 (the 22 measures, which also close C2), then D4–D6. **Off it**: B4.
 
 ---
 
@@ -80,15 +80,15 @@ For each of the 22 measures: the figure's definition; the unit; the reference da
 
 ## Phase D — the assessment pass and its checks
 
-### D1. The assessor: write `stage` and the new columns — **CC** — L
+### D1. The assessor: write `stage` and the new columns — **CC** — L — *done 2026-09-24: `scripts/maturity-assess.py` (`packet`, `apply`) and `documentation/maturity-assessor-brief.md`; STP assessed end to end in a scratch copy, 88 staged or unplaced, checks N–S clean; measures pending C3*
 
 Extend the stage-4 mapping pass (BUILD.md → *Stage 4*) so that a mapped indicator row is assessed against `maturity-rubric.csv` and carries `stage, value, unit, value_year, value_source, next_milestone, due, assessed_on, reassessed, qualifier` per `maturity-assessment.md` §6 — `progress` is not written any more, though it is not removed from existing files until G1. The pass reads the ledger and the mapped rows as today, cites the rows that satisfy the anchor, and records the stage with the qualifier. `UNIT_FIELDS` in `indicators_lib.py` grows accordingly and `load_unit()` reads both old and new shapes until G1. Done when a single unit can be assessed end to end and its file round-trips through `load_unit()`.
 
-### D2. The as-at rule and the stability rule — **CC** — M, inside D1
+### D2. The as-at rule and the stability rule — **CC** — M, inside D1 — *done 2026-09-24, in `apply`; a change no dated row supports is held at the prior stage and reported*
 
 The assessor takes an `--as-at YYYY-MM-DD` and reads only rows dated on or before it; a stage may differ from the previous snapshot's only if a cited row is dated inside the window (previous as-at, as-at] or `reassessed = 1`; otherwise the prior stage carries forward. This is the load-bearing rule and is implemented in the pass, not left to the model. **One named exception** (rubric review, 2026-09-23): any anchor keyed to *the 12 months to the as-at date* (four rows in the rubric: open discussion, open data stage 4, citizen participation, sovereignty) may move when an event leaves the period; the ageing-out is the dated cause, dated the day it leaves, and is logged like any other. Done when a unit assessed twice against the same rows yields identical stages, and a unit assessed with one new dated row moves only the indicators that row is mapped to.
 
-### D3. The checks — **CC** — M
+### D3. The checks — **CC** — M — *done 2026-09-24 in part: `scripts/lint-maturity.py` N–T, unit checks under `report-render.py --check`; R fails on the 22 measures until C3. Cross-kind counts, published counts and status agreement come with F1/F3/F4, which make the outputs they check*
 
 The list in `maturity-assessment.md` §11, as checks in the report-lint sequence with the next free letters: stage domain and the `assessed = 0` rule; change ⇒ dated row or `reassessed`; stage 1 ⇒ citation (or `value_source` for the budget measure); measure ⇒ four value columns and `value_year` ≤ as-at year; no cross-kind count; a norms row and five rubric rows per assessed id; published counts match the lookups; status/assessment agreement reported not blocking; edition byte-identity on rebuild; no hard-coded frame count. Each check has a case in `test_indicators.py` or a new `test_maturity.py`. Done when the suite passes on the D1 unit and fails on a deliberately broken copy of it.
 
@@ -108,7 +108,7 @@ Bill reads two or three countries' assessed files and the August movement list a
 
 ## Phase E — snapshots, history, the monthly runbook
 
-### E1. Editions and history — **CC** — M
+### E1. Editions and history — **CC** — M — *the edition writer is in D1's `apply` (write-once, byte-identical on rerun, `--replace` only before publication); the history file and the render-side byte check remain*
 
 `outputs/reports/{unit}/maturity/{YYYY-MM}.csv` written once per snapshot under the editions rule (`design.md` §9; the CR-only churn trap in `global-claude.md` applies — check before committing a rebuild); `outputs/reports/maturity-history.csv` appended per snapshot and rebuildable from the editions; `outputs/reports/{unit}/indicators.csv` stays the current position. Write the July and August editions and the history from D4 and D5. Done when the byte-identity check passes on a second render and the history file has 54 × (assessed rows) × 2.
 
