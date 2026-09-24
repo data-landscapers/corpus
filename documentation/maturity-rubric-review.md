@@ -184,3 +184,17 @@ The date is what makes a new figure a dated cause under the stability rule.
 **8. `tech.industry`: no reference exists for ISIC J value added.** The UN aggregates fold J into *other activities*, so the row stands only where a statistics office publishes section J, and it will not reach fifteen countries. Either keep it, with provisional cuts, as *No evidence* nearly everywhere, or re-point it at a figure that exists. **CC's recommendation is the second**: ICT service exports as a share of service exports (WDI `BX.GSR.CCIS.ZS`, from UNCTAD and the IMF), which reads production capacity in the part of the sector that trades and covers most of the continent. The DTS manufacturing condition stays at stage 5. Cowork drafts whichever reads better against the norm.
 
 **Accepted as they fall**: SDG 4.4.1 (10 countries), gender (10) and the urban–rural ratio (9) will read *No evidence* in most of the continent. That is the truthful position and what the base's own survey primaries can improve on. Item 2's provisional cuts cover the gender quintiles.
+
+## Measures (C3) — second review 2026-09-24: accepted and cut; items 6–8 still owed
+
+**Items 1–5 are in, and the extension of item 3 is right.** Both data-centre rows now read Corpus's own dataset, which bands 31 countries where MW would have banded almost none. The checker is clean. Cut by `maturity-rubric-cut.py --kind measure`: 22 indicators, 110 rows. **The rubric lookup holds all 117 assessed indicators**, and `lint-maturity.py` check R passes. The same cut writes `lookups/maturity-measures.csv` from the `Method` and `Cuts` lines (22 rows). The cutter refuses a method or direction outside the vocabulary, cuts out of order, a count other than three or four, and a quintile row without provisional cuts. `--check` holds the measures lookup to the draft as it does the rubric.
+
+**The guard, run on real figures.** `reference/measures.csv` (C5) now holds the figures the provisional cuts were set without. Banded as at the baseline, **no row puts more than half its countries on one stage**:
+- mobile ownership: 8 · 13 · 16 · 12 · 3 over 52 countries;
+- grid reliability: 9 · 12 · 15 · 15 over 51;
+- ICT employment: 16 · 14 · 6 · 10 over 46;
+- gender gap: 9 · 3 · 7 · 4 · 3 over 26.
+
+Each of these four holds fifteen or more figures, so it is cut to real quintiles at the baseline, and its provisional cuts will only ever apply where the count falls short.
+
+**Items 6–8 were appended after this revision began, and are still owed**: `mobile-penetration` on ITU's 10+ definition, `mobile-affordability` on the 5 GB basket, and `tech.industry` either kept on ISIC J or re-pointed (CC recommends ICT service exports). They are cut as drafted for now, so nothing waits on them. They are re-cut when they land, before the baseline, while re-cutting still costs nothing. Until item 6 lands, `mobile-penetration` takes no reference figure: the fetched series is 10+ and the row says 15+.
