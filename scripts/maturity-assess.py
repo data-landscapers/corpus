@@ -632,6 +632,11 @@ def apply(unit: str, as_at: dt.date, verdicts: Path, replace: bool = False,
             continue
         if frame[iid]["kind"] == "measure":
             auto = dict(comp[iid]) if iid in comp else from_reference(ref[iid]) if iid in ref else None
+            # The same figure as the prior snapshot's is not a new figure: the prior verdict,
+            # a drafter's stage-5 condition included, carries forward as it stood.
+            if auto and iid in prev and auto["value_source"] == (prev[iid].get("value_source") or ""):
+                got[iid] = {k: prev[iid].get(k, "") for k in VERDICT_FIELDS}
+                continue
             if auto:
                 ceiling = band(float(auto["value"]), spec[iid])
                 top = 5 if iid in NUMERIC_FIVE else 4
