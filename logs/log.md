@@ -12,6 +12,8 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-09-24 23:58 · **REVIEW** · 16m · ETH: status 11 sections revised, progress 14 cells, monthly 10 blocks, finance 9 rows; 2 deals queued, 1 note for OSINT — ok
+2026-09-24 23:58 · **REVIEW** · 16m · ERI: status 7 sections revised, progress 7 cells, monthly 5 blocks, finance 0 rows; 2 deals queued, 1 note for OSINT — ok
 2026-09-24 23:42 · **BUILD** · 31m · catalogue 25,036; finance 1,491 deals; 54 units / 1,088 sources (929 budget companions), 75 minted, 37 moved, 17 Not held settled, 23 baselines revised; data centres 1 updated; topics 76; bulletin 33; 32 register hits stand — ok
 2026-09-24 23:11 · **ANALYTICS** · <1m · 2026-09-23 written; 23 Sep: dl.io 64 views / 0 clicks, corpus 83 views / 0 clicks
 2026-09-24 23:11 · **NOTES** · 1h14m · closed 54-57 and 60-63 (budget sittings committed) and 64 (change-log entry added; no row cited an old slug); 52, 53, 58, 59 annotated and open for MUS, MWI, SOM, SDN, ERI, GNQ; OSINT's register and new-queue pulls committed
