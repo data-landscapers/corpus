@@ -1,0 +1,8 @@
+indicator_id,stage,stage_rows,value,unit,value_year,value_source,next_milestone,due,qualifier,reassessed,cause
+gov.policy--ict-strategy,3,GNB-gov.policy-entd-gw,,,,,,,"ENTD.GW gazetted; August WARDIP launch is a donor programme not reported against the strategy",0,
+gov.policy--data-interoperability-framework-roadmap,3,GNB-dpi.exchange-wardip-interoperability-study,,,,,,,"regulation approved; no custodian, standards catalogue or conformance on record",0,
+gov.policy--open-data-policy,2,GNB-data.statistics-egdds-nsdp,,,,,,,"IMF e-GDDS data page publishing with no open data policy behind it",0,
+gov.legislate--legislation-enabling-data-interoperability,2,GNB-dpi.exchange-interoperability-regulation,,,,,,,"August approval reported by the donor programme; no decree number, gazettal or in-force date held",0,
+gov.discourse--open-discussion-of-government-policy,2,GNB-gov.legislate-digital-integrity-law,,,,,,,"false-information law passed May 2026 and invoked July 2026, inside the 12 months",0,
+dpi.registry--electoral-register,2,GNB-dpi.registry-electoral-register-update,,,,,,,"electronic register updated and handed to the commission; no public access to the roll or audit on record",0,
+include.access--citizen-participation-in-policy,,,,,,,,,"U-Report is a feedback platform with an agency and operator; no consultation on an instrument on record",0,
