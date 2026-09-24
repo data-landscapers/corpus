@@ -1,11 +1,11 @@
 ---
 title: Niger — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 place: NER
-ledger_rows: 42
-not_held: 2
-record: ebff837b5a1d
+ledger_rows: 43
+not_held: 1
+record: c0012e2cf0ad
 ---
 
 # Niger: monthly update, August – September 2026
@@ -57,7 +57,7 @@ A state observatory monitored the country's media and platforms through a securi
 ### Domestic budget appropriations and expenditure
 
 <!-- narrative: finance--finance-budget -->
-The budget moved and the digital line did not appear in it. The Council of Ministers [rectified the 2026 finance law on 21 August, raising the general State budget from 2,922.22 to 2,980.54 billion FCFA](https://anp.ne/loi-des-finances-2026-le-budget-general-de-letat-au-titre-de-lannee-2026-passe-a-2-98054-milliards-de-francs-cfa/), citing security spending, the government's new configuration, oil prices and tax simplification. Neither it nor the [ordonnance it amends](https://finances.gouv.ne/index.php/lois-de-finances/file/1303-ordonnance-n-2025-44) names an appropriation for communications or the digital economy, so the repository holds the total and still not the line.
+The budget moved and the digital line did not appear in it. The Council of Ministers [rectified the 2026 finance law on 21 August, raising the general State budget from 2,922.22 to 2,980.54 billion FCFA](https://anp.ne/loi-des-finances-2026-le-budget-general-de-letat-au-titre-de-lannee-2026-passe-a-2-98054-milliards-de-francs-cfa/), citing security spending, the government's new configuration, oil prices and tax simplification. The rectification names no digital line; the digital appropriations sit in the [annex to the ordonnance it amends, which gives the communications ministry FCFA 213.75m across ten digital activities](https://finances.gouv.ne/index.php/lois-de-finances/category/165-loi-de-finances-2026).
 <!-- /narrative -->
 ### MoUs and other agreements
 
@@ -138,6 +138,11 @@ The innovation estate gained a site and not yet a hub. A university at Diffa [wa
 
 ## Capacity
 
+### Literacy
+
+<!-- narrative: capacity--capacity-literacy -->
+Media literacy got a campaign of its own. Niger's [first national campaign against disinformation was launched at Tillabéry on 19 September](https://mcnti.gouv.ne/citoyennete-numerique-et-paix-lancement-a-tillabery-de-la-1ere-campagne-nationale-de-lutte-contre-la-desinformation/), run by the NGO Jeunesse Plus with the communication ministry's backing and pairing online awareness with media and information literacy workshops for local communities. No reach, budget or duration is published.
+<!-- /narrative -->
 ### Training and skills
 
 <!-- narrative: capacity--capacity-training -->

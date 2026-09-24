@@ -1,11 +1,11 @@
 ---
 title: Botswana — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 place: BWA
-ledger_rows: 38
+ledger_rows: 39
 not_held: 8
-record: 9a5914e3009b
+record: ffd35964976d
 ---
 
 # Botswana: monthly update, August – September 2026
@@ -26,6 +26,8 @@ Regional agreements were the other half: [an ICT memorandum with Namibia signed 
 
 <!-- narrative: governance--gov-policy -->
 The data policy is being turned into something implementable. A five-day [data governance capacity-building and stakeholder engagement was held from 7 to 11 September to translate the national data policy's principles and direction into a national data strategy](https://dig.watch/updates/botswana-national-data-strategy-engagement), with continental and European support. No draft strategy or adoption date is published.
+
+The national digital transformation strategy has a launch date. President Duma Boko told the UN Economic Commission for Africa in New York that [SmartBots would be formally launched in November, with the commission sought as a continuing partner](https://dailynews.gov.bw/news-detail/93397); no budget or targets are published.
 <!-- /narrative -->
 ### Data protection
 

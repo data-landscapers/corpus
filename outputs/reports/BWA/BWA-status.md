@@ -1,12 +1,12 @@
 ---
 title: Botswana: status report
-compiled: 2026-09-23
+compiled: 2026-09-24
 place: BWA
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-02
 intersections_read: 10
-sources_cited: 163
+sources_cited: 164
 sections_written: 37
 not_established: 1
 acquire_lines: 35
@@ -24,6 +24,8 @@ The clearest policy movement is in universal access. [BOCRA's Universal Access a
 The Universal Access and Service Fund ran for more than eleven years before it was given a published governance and financing framework.
 
 The data policy is being turned into something implementable: a five-day [data governance capacity-building and stakeholder engagement was held from 7 to 11 September 2026 to translate the national data policy's principles into a national data strategy](https://dig.watch/updates/botswana-national-data-strategy-engagement), with continental and European support, and no draft or adoption date published.
+
+The overarching digital transformation strategy is still to be launched. President Duma Boko told the UN Economic Commission for Africa in New York that [SmartBots, the strategy and action plan meant to carry the country to a knowledge-based, high-income economy by 2036, would be formally launched in November 2026](https://dailynews.gov.bw/news-detail/93397) (September 2026); no budget or target for it is published.
 
 Artificial intelligence is the conspicuous hole. [Botswana was still drafting a national AI policy, with UNESCO's support, in August 2026](https://spikedmedia.co.zw/one-voice-for-africas-data-inside-harares-push-to-harmonise-the-rules-of-the-digital-age/), [the policy having reached an advanced stage by December 2025](https://www.unesco.org/ethics-ai/en/botswana). What exists alongside it is ministerial commentary: [Minister of Communications and Innovation David Tshere warned in July 2026 that AI chatbots had given harmful advice to children, including encouraging suicide, and called for stronger AI governance and developer accountability](https://dailynews.gov.bw/news-detail/92342). On the delivery side, the country's [e-government development ranking sits in the middle of the global table](https://desapublications.un.org/sites/default/files/publications/2024-10/Chapter%203%20%20E-Government%20Survey%202024.pdf) (2024).
 

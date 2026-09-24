@@ -1,11 +1,11 @@
 ---
 title: Gabon — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 place: GAB
-ledger_rows: 58
-not_held: 18
-record: 48b46c3fd9e1
+ledger_rows: 59
+not_held: 17
+record: 0d61c0d2dd00
 ---
 
 # Gabon: monthly update, August – September 2026
@@ -22,6 +22,11 @@ The month's instruments were fiscal and regional. The supplementary finance law 
 
 ## Governance
 
+### Strategies, plans and policies
+
+<!-- narrative: governance--gov-policy -->
+The new infrastructure and cybersecurity directorate has a head. The Council of Ministers of 18 September [named Anicet Claude Andjouat director general of the directorate whose creation it approved in December 2025](https://gabonmediatime.com/gabon-dgdinc-aninf-deux-structures-pour-les-memes-missions-numeriques/), whose spectrum, infrastructure and cybersecurity missions overlap those the national digital infrastructure and frequencies agency claims. No text dividing the two mandates is published.
+<!-- /narrative -->
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->

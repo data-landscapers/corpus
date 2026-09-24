@@ -1,14 +1,14 @@
 ---
 title: Niger: status report
-compiled: 2026-09-16
+compiled: 2026-09-24
 place: NER
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 9
-sources_cited: 119
+sources_cited: 121
 sections_written: 37
-not_established: 3
+not_established: 2
 acquire_lines: 33
 ---
 ## Governance
@@ -79,7 +79,7 @@ The room for a wider argument has narrowed over the decade. [Media Freedom fell 
 ### MoUs and other agreements
 <!-- finance.mou -->
 
-No memoranda of understanding or other digital cooperation agreements involving Niger were on the record as at September 2026.
+Niger's digital cooperation agreements are recent and bilateral. [The Algerian state operator signed two conventions in Niamey on 8 September 2026](https://anp.ne/cooperation-algerie-telecom-signe-deux-conventions-de-partenariat-avec-niger-telecom-et-escep-niger/), covering a skills centre at the telecoms school, training for Niger Telecom's staff and donated equipment for a fibre link on the national backbone, and [Niger and Chad signed a protocol in June 2025 to implement their cross-border fibre interconnection](https://anp.ne/le-niger-et-le-tchad-bientot-interconnectes-via-la-dorsale-transharienne-a-fibre-optique-dts-fo/). No text of either instrument is on the record.
 
 ### New investments
 <!-- finance.new -->

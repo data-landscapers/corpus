@@ -1,11 +1,11 @@
 ---
 title: Guinea-Bissau — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 place: GNB
-ledger_rows: 8
+ledger_rows: 9
 not_held: 2
-record: b47628dbc4a3
+record: 348f3e504391
 ---
 
 # Guinea-Bissau: monthly update, August – September 2026
@@ -24,6 +24,8 @@ Two rows moved, one of them a decree that had been waiting a year. On 8 August t
 
 <!-- narrative: governance--gov-policy -->
 The national digitalisation programme [launched nationally in August, at US$60m, covering connectivity, data protection, the digital economy and electronic government](https://ang.gw/ministro-dos-transportes-e-economia-digital-considera-digitalizacao-como-um-dos-pilares-fundamentais-para-garantir-servicos-publicos-eficazes/). It is the delivery vehicle the 2025-2030 strategy has lacked, and it arrives with a fund plan behind it: the [2026-2031 strategic and financing plan for the universal access fund](https://wardip.gw/plano-estrategico-do-fundo-de-acesso-e-servicos-universais-2026-2031-consultoria-salience-2025/), delivered in May after a review recommended restructuring the fund itself.
+
+The strategy's implementation plan is in preparation with a United Nations university unit. On 9 September UNU-EGOV [presented a delegation from the territorial-administration ministry with the project document for implementing the national digital transformation strategy](https://unu.edu/egov/news/unu-egov-welcomes-delegation-guinea-bissau), meant to set priorities, governance structures, partners and resources; no adoption date is published.
 <!-- /narrative -->
 ### Legislation and regulation
 

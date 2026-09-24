@@ -1,11 +1,11 @@
 ---
 title: Eswatini — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-24
+period: 2026-08-01 to 2026-09-24
 place: SWZ
-ledger_rows: 50
+ledger_rows: 52
 not_held: 3
-record: cb4a3d608c4b
+record: adae3b238615
 ---
 
 # Eswatini: monthly update, August – September 2026
@@ -161,6 +161,8 @@ A state-facing platform changed hands rather than being built. The [Taiwan-funde
 [Digital transformation was named a priority of the Eswatini-Taiwan relationship](https://independentnews.co.sz/47014/business/digital-innovation-take-centre-stage-on-eswatini-taiwan-cooperation/) at a leaders' meeting in Taipei, with no instrument, figure or implementing agency named; the meeting's own date is not established.
 
 Three days earlier [about 150 delegates — industry leaders, entrepreneurs, policymakers and development partners — met at Manzini under a United Nations enterprise programme on cutting small-enterprise costs with digital tools](https://www.undp.org/eswatini/news/work-smarter-embrace-technology-cut-costs-grow), with no follow-on commitment, tool or funding line published.
+
+The central bank widened its own convening body: the governor announced on 23 September that [its FinTech Working Group had become the FinTech Forum Eswatini, open to government, academia, industry, innovators and students](https://eswatinipositivenews.online/fintech-working-group-becomes-fintech-forum-eswatini/), with a memorandum of understanding to formalise its structures still to be signed.
 <!-- /narrative -->
 
 ## Capacity
@@ -173,6 +175,8 @@ At the Macetjeni handover the ICT ministry's principal secretary said [AI, robot
 The hub itself opened on 6 August at Macetjeni in the Lubombo Region, [the second of its kind, backed by the development programme with the communications regulator and the small-enterprise development company and aimed at young people, women and people with disabilities](https://www.undp.org/eswatini/news/macetjeni-ihub-opens-expand-digital-opportunities). It opens against [an internet-usage rate of 58% and youth unemployment of 56%](https://www.undp.org/eswatini/news/macetjeni-ihub-opens-expand-digital-opportunities). No intake target, running cost or funding term is published, so what a second hub is expected to change cannot be read from the account.
 
 In schools, the education minister [set out more than 1,140 computers donated by Taiwan to 49 schools and 40 interactive screens installed in five schools per region, with 106 more schools to follow](https://independentnews.co.sz/48373/news/technology-devices-take-schools-into-digital-era-handsome/), and a US$4.75 million Global Partnership grant whose terms were not given.
+
+The civil service is being prepared for the Digital Eswatini Project's implementation phase. On 24 September [about 40 change agents from five ministries and participating parastatals, organised as a change-agent network since their first training, assessed the readiness of their own directorates](https://eswatinipositivenews.online/e1-06bn-digital-eswatini-puts-people-before-technology/); no count of the staff they cover is published.
 <!-- /narrative -->
 
 ## Inclusion
