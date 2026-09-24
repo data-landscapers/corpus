@@ -16,7 +16,7 @@ status: in progress; A, B1–B3, C1, C2 (instruments and systems), C4 done 2026-
 
 ## Where this stands
 
-**As of 2026-09-24.** Phase A is done. B1–B3 are done: OSINT applied note 164 on 2026-09-23, and the frame holds 123 rows, 117 assessed. C1 is done (117 norms rows) and so is C4 (`budgets/{ISO3}/external.csv`). C2 has cut every instrument and system, 95 of 117 with 347 interpolated rungs. **D1–D4 done 2026-09-24** (D3's render-side checks come with F); the July baseline is applied. **C3 cut 2026-09-24** (three rows owed), **C5 built**. **Open on the critical path**: D5 (August), then D6 (Bill reads the two runs). B4 done 2026-09-24.
+**As of 2026-09-24.** Phase A is done. B1–B3 are done: OSINT applied note 164 on 2026-09-23, and the frame holds 123 rows, 117 assessed. C1 is done (117 norms rows) and so is C4 (`budgets/{ISO3}/external.csv`). C2 has cut every instrument and system, 95 of 117 with 347 interpolated rungs. **D1–D5 done 2026-09-24** (D3's render-side checks come with F); the July and August snapshots are applied. **Next**: D6 (Bill reads the two runs), then E1–E2 before the live snapshot on 2026-10-05. **C3 cut 2026-09-24** (three rows owed), **C5 built**. **Open on the critical path**: D5 (August), then D6 (Bill reads the two runs). B4 done 2026-09-24.
 
 ---
 
@@ -108,7 +108,7 @@ The two new indicators are mapped in the same pass from rows already held (`indi
 4. **Per unit, the apply**: `python scripts/maturity-assess.py apply {UNIT} --as-at 2026-07-31 --verdicts logs/maturity-verdicts/{UNIT}-2026-07.csv`. A refusal is fixed in the verdicts and re-run, never forced.
 5. `python scripts/lint-maturity.py`: every unit N–S clean, R and T pass. Record the stage distribution per kind, and the *No evidence* and unplaced counts, in the run's log line. Commit per batch and push.
 
-### D5. Run the 2026-08-31 snapshot — **CC** — M
+### D5. Run the 2026-08-31 snapshot — **CC** — M — *done 2026-09-24: 54 editions `maturity/2026-08.csv`; 19 up, 1 down, 35 placed from unplaced, 84 newly assessed; movement list `logs/maturity-movements-2026-08.csv`; checks N–T clean*
 
 Same pass, `--as-at 2026-08-31`, over the baseline; only rows dated 1–31 August 2026 may move a stage. The packet marks the in-window sources (▲). The drafter writes verdicts only for indicators that have one, or whose look-back anchor may have aged out. Everything else carries forward, which makes August far cheaper than July. Done when D3 is clean and the movement list (moved up / down / stalled / reassessed) is written to the log for inspection.
 

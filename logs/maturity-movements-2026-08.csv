@@ -1,0 +1,297 @@
+unit,indicator_id,july,august,movement,moved_by,reassessed
+AGO,gov.regional--shared-regional-infrastructure,,2,newly assessed,,0
+AGO,dpi.mis--education,unplaced,2,placed,2026-08-19-adea-angola-education-skills-data-challenge,0
+AGO,digital.localgov--ict-infrastructure-for-local-government,,unplaced,newly unplaced,,0
+BDI,gov.legislate--access-to-information-legislation,,2,newly assessed,,0
+BDI,infra.connect--internet-exchange-points,2,3,up,2026-08-01-burundi-ixp-tracker-bdixp-isoc-pulse,0
+BDI,dpi.mis--education,,unplaced,newly unplaced,,0
+BEN,gov.legislate--ai-legislation-regulations,,1,newly assessed,,0
+BEN,gov.standards--adoption-of-international-standards,unplaced,2,placed,2026-08-28-iso-member-anm-benin,0
+BEN,gov.discourse--non-governmental-contribution-to-national-policy,,unplaced,newly unplaced,,0
+BFA,gov.policy--digital-transformation-strategy,,unplaced,newly unplaced,,0
+BFA,gov.regional--cross-border-data-transfers,unplaced,2,placed,2026-08-03-burkina-faso-deputies-adopt-new-personal-data-protection-law,0
+BFA,tech.ai--use-of-ai-in-government-administration,2,3,up,2026-08-01-burkina-e-verbalisation-1099-infractions-en-12-heures,0
+BFA,tech.ai--control-of-ai-abuse,,unplaced,newly unplaced,,0
+BFA,tech.innovate--tech-startup-ecosystem,unplaced,2,placed,2026-08-23-stic-26-des-burkinab-d-crochent-le-premier-prix-avec-leur-ia-agricole,0
+BWA,gov.regional--regional-policy-collaboration,,unplaced,newly unplaced,,0
+BWA,data.statistics--national-strategy-for-development-of-statistics,unplaced,3,placed,2026-08-12-botswana-bsds-statistics-strategy-launch,0
+CAF,gov.protect--national-data-protection-readiness,,unplaced,newly unplaced,,0
+CAF,dpi.pay--p2p-p2g-and-p2b-functionality,,3,newly assessed,,0
+CAF,include.access--inclusion-of-refugees-and-idps,unplaced,3,placed,2026-08-19-unhcr-operational-update-q2-2026,0
+CAF,data.statistics--statistics-from-administrative-data,,unplaced,newly unplaced,,0
+CIV,gov.policy--broadband-strategy,,unplaced,newly unplaced,,0
+CIV,gov.regional--cross-border-data-transfers,,unplaced,newly unplaced,,0
+CIV,infra.connect--international-internet-bandwidth,,3,newly assessed,,0
+CIV,dpi.id--interoperability-of-birth-registration-and-digital-id,,3,newly assessed,,0
+CIV,dpi.mis--tax,,unplaced,newly unplaced,,0
+CIV,tech.innovate--technology-hubs,,2,newly assessed,,0
+CIV,data.satellite--meteorological-use-of-satellite-data,,3,newly assessed,,0
+CMR,gov.policy--data-interoperability-framework-roadmap,,2,newly assessed,,0
+CMR,gov.policy--data-governance-policy,,unplaced,newly unplaced,,0
+CMR,gov.standards--national-interoperability-standards,,unplaced,newly unplaced,,0
+CMR,dpi.exchange--use-of-digital-id-in-other-systems,,unplaced,newly unplaced,,0
+CMR,dpi.exchange--interoperability-of-health-systems,,2,newly assessed,,0
+CMR,dpi.pay--b2b-and-b2g-functionality,,unplaced,newly unplaced,,0
+CMR,dpi.mis--health,unplaced,2,placed,2026-08-07-cameroon-scanform-smartphones-health-data,0
+CMR,tech.ai--use-of-ai-in-sectoral-management-information-systems,unplaced,2,placed,2026-08-19-dba-minesec-simulation-ia-e-education,0
+CMR,data.statistics--statistics-from-administrative-data,2,3,up,2026-08-07-ins-annuaire-statistique-adamaoua-2025,0
+COD,gov.policy--broadband-strategy,,2,newly assessed,,0
+COD,gov.legislate--statistics-legislation,,3,newly assessed,,0
+COD,gov.regional--regional-policy-collaboration,,2,newly assessed,,0
+COD,gov.discourse--non-governmental-contribution-to-national-policy,,2,newly assessed,,0
+COD,infra.connect--internet-exchange-points,2,3,up,2026-08-20-drc-kinix-internet-exchange-relocates-to-raxio-drc,0
+COD,infra.capacity--robustness-of-government-hardware-and-software,unplaced,2,placed,2026-08-19-laprosperite-coref-frap-marche-brondy,0
+COD,dpi.id--use-by-other-systems,,unplaced,newly unplaced,,0
+COD,dpi.registry--land-register,unplaced,2,placed,2026-08-11-apanews-land-registry-digitalisation-inaco,0
+COD,dpi.mis--tax,,unplaced,newly unplaced,,0
+COD,tech.innovate--tech-startup-ecosystem,unplaced,3,placed,2026-08-04-drc-digital-sector-constraints-startup-decree,0
+COG,gov.regional--cross-border-data-transfers,,unplaced,newly unplaced,,0
+COG,dpi.exchange--interoperability-of-health-systems,,unplaced,newly unplaced,,0
+COG,capacity.research--think-tanks-and-academic-departments-contributing-to-dt-policy,unplaced,2,placed,2026-08-24-cog-ai-and-research-brazzaville-sets-the-rules,0
+COG,include.access--citizen-participation-in-policy,,unplaced,newly unplaced,,0
+COM,gov.policy--data-interoperability-framework-roadmap,unplaced,2,placed,2026-08-31-puc-gouv-km-portail-unique-citoyen-note-conceptuelle,0
+COM,gov.policy--open-data-policy,unplaced,2,placed,2026-08-23-inseed-archive-nationale-microdonnees,0
+COM,gov.standards--national-interoperability-standards,,unplaced,newly unplaced,,0
+COM,tech.ai--development-of-national-regional-ai-systems,unplaced,2,placed,2026-08-04-alwatwan-komori-tts-synthese-vocale-shikomori,0
+COM,data.satellite--agricultural-use-of-satellite-data,,unplaced,newly unplaced,,0
+CPV,digital.localgov--ict-infrastructure-for-local-government,,2,newly assessed,,0
+DJI,gov.protect--national-data-protection-readiness,,unplaced,newly unplaced,,0
+DJI,gov.regional--shared-regional-infrastructure,2,3,up,2026-08-03-il-ministro-bernini-a-gibuti-e-il-progetto-med-or-sull-underwater,0
+DJI,include.access--citizen-feedback-portals,,2,newly assessed,,0
+DZA,gov.legislate--e-commerce-legislation,,3,newly assessed,,0
+DZA,gov.regional--shared-regional-infrastructure,,2,newly assessed,,0
+DZA,dpi.exchange--use-of-digital-id-in-other-systems,2,3,up,2026-08-12-algeria-sports-platforms-unified-digital-identity,0
+DZA,dpi.id--robustness-of-system,,2,newly assessed,,0
+DZA,dpi.mis--customs,,3,newly assessed,,0
+DZA,tech.ai--use-of-ai-in-sectoral-management-information-systems,unplaced,3,placed,2026-08-30-algerie-ia-detection-incendies-forets,0
+DZA,include.access--citizen-feedback-portals,,2,newly assessed,,0
+EGY,gov.standards--adoption-of-international-standards,,unplaced,newly unplaced,,0
+EGY,finance.budget--sustainable-domestic-financing-of-digital-transformation,,2,newly assessed,,0
+EGY,infra.capacity--robustness-of-government-hardware-and-software,,unplaced,newly unplaced,,0
+EGY,dpi.exchange--use-of-digital-id-in-other-systems,,2,newly assessed,,0
+EGY,dpi.mis--justice,,2,newly assessed,,0
+EGY,include.access--citizen-feedback-portals,3,4,up,2026-08-08-egypt-pm-unified-complaints-system-july,0
+EGY,data.satellite--meteorological-use-of-satellite-data,,unplaced,newly unplaced,,0
+ERI,infra.store--off-site-backup-capacity,,unplaced,newly unplaced,,0
+ERI,dpi.registry--address-register,,unplaced,newly unplaced,,0
+ERI,tech.innovate--tech-startup-ecosystem,,unplaced,newly unplaced,,0
+ERI,include.access--citizen-feedback-portals,,unplaced,newly unplaced,,0
+ETH,gov.legislate--e-commerce-legislation,,unplaced,newly unplaced,,0
+ETH,gov.legislate--access-to-information-legislation,,unplaced,newly unplaced,,0
+ETH,gov.discourse--non-governmental-contribution-to-national-policy,,unplaced,newly unplaced,,0
+ETH,dpi.id--authentication,3,4,up,2026-08-24-fayda-digital-id-49-1m-enrolments-ethiopia-biometricupdate,0
+ETH,capacity.research--think-tanks-and-academic-departments-contributing-to-dt-policy,,2,newly assessed,,0
+GAB,gov.regional--regional-legal-harmonisation,,unplaced,newly unplaced,,0
+GAB,gov.regional--cross-border-data-transfers,,unplaced,newly unplaced,,0
+GAB,gov.standards--national-quality-standards,,unplaced,newly unplaced,,0
+GAB,infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems,2,3,up,2026-08-27-sonapresse-fur-redynamiser-fonction-publique,0
+GAB,tech.ai--use-of-ai-in-government-administration,,unplaced,newly unplaced,,0
+GAB,data.statistics--censuses-and-surveys,2,3,up,2026-08-21-gabonreview-rgpl-cour-constitutionnelle-verification-chiffres,0
+GAB,data.open--use-of-open-data,,unplaced,newly unplaced,,0
+GHA,gov.legislate--access-to-information-legislation,,3,newly assessed,,0
+GHA,gov.regional--regional-policy-collaboration,,3,newly assessed,,0
+GHA,gov.discourse--open-discussion-of-government-policy,,unplaced,newly unplaced,,0
+GHA,infra.connect--internet-exchange-points,,3,newly assessed,,0
+GHA,dpi.pay--b2b-and-b2g-functionality,,unplaced,newly unplaced,,0
+GHA,dpi.registry--tax-register,,unplaced,newly unplaced,,0
+GHA,capacity.research--think-tanks-and-academic-departments-contributing-to-dt-policy,,2,newly assessed,,0
+GHA,data.statistics--censuses-and-surveys,2,3,up,2026-08-06-governance-reforms-yielding-results-but-remain-fragile-government-statistician,0
+GHA,data.satellite--agricultural-use-of-satellite-data,,unplaced,newly unplaced,,0
+GHA,data.satellite--meteorological-use-of-satellite-data,,unplaced,newly unplaced,,0
+GIN,dpi.id--digital-id-from-birth,,unplaced,newly unplaced,,0
+GIN,data.statistics--statistics-from-administrative-data,,3,newly assessed,,0
+GIN,data.satellite--agricultural-use-of-satellite-data,,unplaced,newly unplaced,,0
+GMB,gov.legislate--access-to-information-legislation,,3,newly assessed,,0
+GMB,gov.protect--data-protection-authority,,2,newly assessed,,0
+GMB,dpi.registry--electoral-register,2,3,up,2026-08-18-point-iec-chair-assures-gambians-credible-voter,0
+GMB,capacity.research--think-tanks-and-academic-departments-contributing-to-dt-policy,,unplaced,newly unplaced,,0
+GNB,dpi.registry--electoral-register,,2,newly assessed,,0
+GNQ,gov.standards--national-quality-standards,,unplaced,newly unplaced,,0
+GNQ,gov.discourse--open-discussion-of-government-policy,,unplaced,newly unplaced,,0
+GNQ,dpi.mis--customs,,unplaced,newly unplaced,,0
+GNQ,tech.innovate--tech-startup-ecosystem,,unplaced,newly unplaced,,0
+KEN,gov.standards--national-interoperability-standards,,2,newly assessed,,0
+KEN,dpi.registry--population-register,,3,newly assessed,,0
+KEN,dpi.mis--social-protection,,unplaced,newly unplaced,,0
+KEN,dpi.mis--customs,,3,newly assessed,,0
+KEN,digital.localgov--digitalisation-of-local-government-records,,unplaced,newly unplaced,,0
+KEN,include.access--citizen-participation-in-policy,,unplaced,newly unplaced,,0
+LBR,gov.legislate--access-to-information-legislation,,unplaced,newly unplaced,,0
+LBR,gov.protect--national-data-protection-readiness,,unplaced,newly unplaced,,0
+LBR,gov.regional--regional-policy-collaboration,,2,newly assessed,,0
+LBR,infra.connect--satellite-broadband-licensing-and-availability,,2,newly assessed,,0
+LBR,dpi.pay--b2b-and-b2g-functionality,,unplaced,newly unplaced,,0
+LBR,dpi.pay--consumer-protection,unplaced,2,placed,2026-08-05-africas-digital-payment-revolution-why-liberia-must-move-faster-on-inclusive-instant-payment-systems,0
+LBR,dpi.registry--land-register,,unplaced,newly unplaced,,0
+LBR,dpi.mis--education,,unplaced,newly unplaced,,0
+LBR,tech.ai--use-of-ai-in-government-administration,,unplaced,newly unplaced,,0
+LBR,include.access--citizen-feedback-portals,,unplaced,newly unplaced,,0
+LBY,gov.protect--national-data-protection-readiness,,unplaced,newly unplaced,,0
+LBY,gov.regional--regional-policy-collaboration,2,3,up,2026-08-01-egypt-chairs-58th-aticm-executive-bureau-arab-ai-groups,0
+LBY,infra.connect--satellite-broadband-licensing-and-availability,,unplaced,newly unplaced,,0
+LBY,dpi.pay--consumer-protection,,2,newly assessed,,0
+LBY,dpi.registry--population-register,,unplaced,newly unplaced,,0
+LBY,dpi.mis--customs,,unplaced,newly unplaced,,0
+LBY,tech.ai--use-of-ai-in-sectoral-management-information-systems,,2,newly assessed,,0
+LSO,gov.policy--data-storage-cloud-strategy,,2,newly assessed,,0
+LSO,digital.rural--digitalisation-of-rural-registry-offices,unplaced,2,placed,2026-08-05-unicef-lesotho-sms-birth-registration,0
+LSO,include.access--citizen-participation-in-policy,,unplaced,newly unplaced,,0
+MAR,gov.discourse--non-governmental-contribution-to-national-policy,,unplaced,newly unplaced,,0
+MAR,gov.discourse--open-discussion-of-government-policy,,unplaced,newly unplaced,,0
+MAR,infra.capacity--robustness-of-government-hardware-and-software,,unplaced,newly unplaced,,0
+MAR,include.access--citizen-participation-in-policy,,unplaced,newly unplaced,,0
+MDG,gov.policy--open-data-policy,,2,newly assessed,,0
+MDG,gov.regional--regional-policy-collaboration,,unplaced,newly unplaced,,0
+MDG,infra.capacity--robustness-of-government-hardware-and-software,,unplaced,newly unplaced,,0
+MDG,dpi.mis--social-protection,,unplaced,newly unplaced,,0
+MDG,tech.ai--use-of-ai-in-government-administration,,unplaced,newly unplaced,,0
+MDG,data.open--use-of-open-data,,3,newly assessed,,0
+MLI,gov.policy--digital-transformation-strategy,,unplaced,newly unplaced,,0
+MLI,gov.policy--ai-strategy,,unplaced,newly unplaced,,0
+MLI,gov.policy--data-governance-policy,,unplaced,newly unplaced,,0
+MLI,gov.discourse--non-governmental-contribution-to-national-policy,,unplaced,newly unplaced,,0
+MLI,dpi.registry--population-register,,unplaced,newly unplaced,,0
+MLI,dpi.mis--customs,,2,newly assessed,,0
+MLI,digital.localgov--digitalisation-of-local-government-records,,2,newly assessed,,0
+MLI,tech.innovate--tech-startup-ecosystem,,unplaced,newly unplaced,,0
+MLI,include.access--citizen-participation-in-policy,,unplaced,newly unplaced,,0
+MOZ,gov.policy--open-data-policy,unplaced,2,placed,2026-08-08-ipdp-portal-dados-infraestruturas-publicas-mocambique,0
+MOZ,gov.standards--adoption-of-international-standards,,unplaced,newly unplaced,,0
+MOZ,dpi.exchange--interoperability-of-social-protection-systems,,2,newly assessed,,0
+MOZ,dpi.pay--g2p-functionality,,unplaced,newly unplaced,,0
+MOZ,dpi.registry--social-protection-register,,unplaced,newly unplaced,,0
+MOZ,dpi.mis--customs,,unplaced,newly unplaced,,0
+MOZ,digital.rural--digitalisation-of-rural-primary-schools,,2,newly assessed,,0
+MOZ,capacity.research--think-tanks-and-academic-departments-contributing-to-dt-policy,,unplaced,newly unplaced,,0
+MOZ,data.statistics--statistics-from-administrative-data,,unplaced,newly unplaced,,0
+MOZ,data.open--use-of-open-data,unplaced,2,placed,2026-08-08-ipdp-portal-dados-infraestruturas-publicas-mocambique,0
+MOZ,data.satellite--meteorological-use-of-satellite-data,,unplaced,newly unplaced,,0
+MRT,gov.legislate--e-commerce-legislation,,unplaced,newly unplaced,,0
+MRT,dpi.id--national-maintenance-of-id-and-credentials-systems,,unplaced,newly unplaced,,0
+MUS,gov.discourse--non-governmental-contribution-to-national-policy,,unplaced,newly unplaced,,0
+MUS,gov.discourse--open-discussion-of-government-policy,3,2,down,2026-08-17-mitci-mauritius-communique-responsible-use-social-media,0
+MUS,dpi.govtech--e-government-services,unplaced,2,placed,2026-08-18-mauritius-online-licensing-road-tax-taxis,0
+MUS,data.statistics--statistics-from-administrative-data,,unplaced,newly unplaced,,0
+MWI,gov.legislate--digital-payments-legislation,,2,newly assessed,,0
+MWI,gov.regional--regional-policy-collaboration,unplaced,3,placed,2026-08-20-malawi-urges-comesa-to-target-ai-investments,0
+MWI,infra.capacity--robustness-of-government-hardware-and-software,,2,newly assessed,,0
+MWI,data.statistics--censuses-and-surveys,,2,newly assessed,,0
+NAM,gov.legislate--ai-legislation-regulations,,unplaced,newly unplaced,,0
+NAM,tech.ai--use-of-ai-in-sectoral-management-information-systems,,unplaced,newly unplaced,,0
+NAM,data.open--use-of-open-data,,2,newly assessed,,0
+NER,dpi.pay--b2b-and-b2g-functionality,,3,newly assessed,,0
+NER,dpi.pay--cross-border-functionality,,2,newly assessed,,0
+NER,data.satellite--agricultural-use-of-satellite-data,,2,newly assessed,,0
+NGA,gov.policy--data-storage-cloud-strategy,2,3,up,2026-08-31-von-nigeria-sovereign-ai-gitex,0
+NGA,gov.legislate--data-protection-legislation,3,4,up,2026-08-20-thesun-nigeria-fg-ngf-data-protection-act-states,0
+NGA,gov.standards--national-quality-standards,,unplaced,newly unplaced,,0
+NGA,gov.discourse--non-governmental-contribution-to-national-policy,,unplaced,newly unplaced,,0
+NGA,gov.discourse--open-discussion-of-government-policy,,2,newly assessed,,0
+NGA,dpi.registry--electoral-register,,unplaced,newly unplaced,,0
+NGA,dpi.mis--justice,,3,newly assessed,,0
+NGA,digital.rural--digitalisation-of-rural-health-clinics,2,3,up,2026-08-21-lmvsv-vaccine-last-mile-nigeria,0
+NGA,include.access--inclusion-of-persons-with-disabilities,,3,newly assessed,,0
+RWA,dpi.pay--b2b-and-b2g-functionality,,unplaced,newly unplaced,,0
+RWA,dpi.registry--social-protection-register,,3,newly assessed,,0
+RWA,data.satellite--agricultural-use-of-satellite-data,unplaced,2,placed,2026-08-10-itweb-planet-rwanda-national-satellite-data-program,0
+SDN,gov.legislate--data-protection-legislation,,2,newly assessed,,0
+SDN,gov.legislate--legislation-enabling-data-interoperability,,2,newly assessed,,0
+SDN,gov.legislate--e-commerce-legislation,,unplaced,newly unplaced,,0
+SDN,gov.discourse--open-discussion-of-government-policy,,2,newly assessed,,0
+SDN,finance.budget--sustainable-domestic-financing-of-digital-transformation,,unplaced,newly unplaced,,0
+SDN,infra.connect--national-fibre-backbone,,2,newly assessed,,0
+SDN,infra.capacity--robustness-of-government-hardware-and-software,,2,newly assessed,,0
+SDN,dpi.registry--address-register,,unplaced,newly unplaced,,0
+SDN,dpi.mis--justice,,2,newly assessed,,0
+SDN,tech.innovate--technology-hubs,unplaced,2,placed,2026-08-19-sudan-afdb-igad-entrepreneurship-innovation-project-uofk-hub,0
+SEN,gov.legislate--ai-legislation-regulations,,unplaced,newly unplaced,,0
+SEN,dpi.registry--address-register,,unplaced,newly unplaced,,0
+SEN,dpi.mis--justice,,2,newly assessed,,0
+SEN,digital.rural--digitalisation-of-rural-primary-schools,,2,newly assessed,,0
+SLE,gov.protect--national-data-protection-readiness,,unplaced,newly unplaced,,0
+SLE,gov.regional--regional-policy-collaboration,,unplaced,newly unplaced,,0
+SLE,dpi.id--authentication,unplaced,3,placed,2026-08-07-ncra-chief-urges-identity-first-approach-to-sierra-leones-digital-public-infrastructure,0
+SLE,dpi.registry--civil-register,,unplaced,newly unplaced,,0
+SOM,gov.policy--ai-strategy,,unplaced,newly unplaced,,0
+SOM,gov.regional--regional-policy-collaboration,,unplaced,newly unplaced,,0
+SOM,gov.standards--adoption-of-international-standards,unplaced,2,placed,2026-08-29-iso-somali-bureau-of-standards-member-record,0
+SOM,gov.discourse--open-discussion-of-government-policy,,unplaced,newly unplaced,,0
+SOM,dpi.exchange--national-data-exchange-system,,unplaced,newly unplaced,,0
+SOM,dpi.exchange--use-of-digital-id-in-other-systems,,2,newly assessed,,0
+SOM,tech.ai--development-of-national-regional-ai-systems,,2,newly assessed,,0
+SSD,gov.legislate--digital-payments-legislation,,2,newly assessed,,0
+SSD,gov.regional--regional-policy-collaboration,,unplaced,newly unplaced,,0
+SSD,dpi.pay--cross-border-functionality,,unplaced,newly unplaced,,0
+SSD,dpi.mis--education,,unplaced,newly unplaced,,0
+SSD,tech.innovate--technology-hubs,,2,newly assessed,,0
+STP,include.access--citizen-participation-in-policy,,unplaced,newly unplaced,,0
+SWZ,gov.legislate--cybersecurity-legislation,unplaced,3,placed,2026-08-28-eswatini-esccom-cyberbullying-warning,0
+SWZ,gov.legislate--e-commerce-legislation,,unplaced,newly unplaced,,0
+SWZ,dpi.pay--g2p-functionality,unplaced,3,placed,2026-08-13-bank-paid-elderly-grants-shift-to-25th-monthly,0
+SWZ,tech.ai--use-of-ai-in-government-administration,,unplaced,newly unplaced,,0
+SYC,gov.policy--digital-transformation-strategy,,unplaced,newly unplaced,,0
+SYC,gov.regional--regional-legal-harmonisation,,unplaced,newly unplaced,,0
+SYC,dpi.mis--health,,unplaced,newly unplaced,,0
+SYC,tech.ai--development-of-national-regional-ai-systems,,unplaced,newly unplaced,,0
+SYC,include.access--citizen-participation-in-policy,,unplaced,newly unplaced,,0
+TCD,gov.policy--ai-strategy,,unplaced,newly unplaced,,0
+TCD,gov.regional--cross-border-data-transfers,,unplaced,newly unplaced,,0
+TCD,digital.rural--digitalisation-of-rural-registry-offices,,unplaced,newly unplaced,,0
+TGO,gov.regional--cross-border-data-transfers,,unplaced,newly unplaced,,0
+TGO,gov.standards--adoption-of-international-standards,,unplaced,newly unplaced,,0
+TGO,dpi.id--digital-id-from-birth,,unplaced,newly unplaced,,0
+TGO,dpi.pay--g2p-functionality,unplaced,3,placed,2026-08-04-togo-cgar-dematerialisation-paiements-allocations-retraite,0
+TGO,dpi.pay--consumer-protection,,unplaced,newly unplaced,,0
+TGO,dpi.mis--justice,,unplaced,newly unplaced,,0
+TGO,dpi.mis--land,2,3,up,2026-08-14-togo-otr-mandatory-digital-cadastral-submission,0
+TGO,digital.localgov--digitalisation-of-local-government-records,,2,newly assessed,,0
+TGO,data.statistics--statistics-from-administrative-data,2,3,up,2026-08-01-inseed-annuaire-statistique-national-2024,0
+TGO,data.satellite--meteorological-use-of-satellite-data,,unplaced,newly unplaced,,0
+TUN,finance.budget--sustainable-domestic-financing-of-digital-transformation,,unplaced,newly unplaced,,0
+TUN,dpi.exchange--interoperability-of-education-systems,,unplaced,newly unplaced,,0
+TUN,dpi.pay--consumer-protection,,unplaced,newly unplaced,,0
+TUN,dpi.mis--customs,,2,newly assessed,,0
+TZA,gov.standards--national-quality-standards,,unplaced,newly unplaced,,0
+TZA,infra.capacity--robustness-of-government-hardware-and-software,,unplaced,newly unplaced,,0
+TZA,infra.cybersec--national-cybersecurity-readiness,unplaced,2,placed,2026-08-19-tanzania-dira2050-security-digital-identity,0
+TZA,dpi.pay--g2p-functionality,,unplaced,newly unplaced,,0
+TZA,dpi.pay--revenue-collection,unplaced,3,placed,2026-08-27-thecitizen-tz-zanzibar-digital-payments,0
+TZA,dpi.registry--business-register,,unplaced,newly unplaced,,0
+TZA,digital.localgov--ict-infrastructure-for-local-government,,unplaced,newly unplaced,,0
+TZA,tech.ai--use-of-ai-in-government-administration,,2,newly assessed,,0
+TZA,capacity.research--think-tanks-and-academic-departments-contributing-to-dt-policy,,2,newly assessed,,0
+TZA,include.access--inclusion-of-persons-with-disabilities,,unplaced,newly unplaced,,0
+TZA,data.open--use-of-open-data,,unplaced,newly unplaced,,0
+TZA,data.satellite--agricultural-use-of-satellite-data,,unplaced,newly unplaced,,0
+UGA,infra.connect--satellite-broadband-licensing-and-availability,unplaced,3,placed,2026-08-25-developingtelecoms-paratus-uganda-starlink-launch,0
+UGA,dpi.mis--justice,,unplaced,newly unplaced,,0
+UGA,tech.ai--use-of-ai-in-sectoral-management-information-systems,,unplaced,newly unplaced,,0
+UGA,data.statistics--censuses-and-surveys,,2,newly assessed,,0
+ZAF,gov.policy--ict-strategy,,unplaced,newly unplaced,,0
+ZAF,gov.legislate--digital-payments-legislation,,unplaced,newly unplaced,,0
+ZAF,gov.regional--regional-policy-collaboration,,3,newly assessed,,0
+ZAF,gov.regional--regional-legal-harmonisation,,unplaced,newly unplaced,,0
+ZAF,gov.regional--cross-border-data-transfers,,unplaced,newly unplaced,,0
+ZAF,gov.discourse--non-governmental-contribution-to-national-policy,,unplaced,newly unplaced,,0
+ZAF,infra.connect--internet-exchange-points,,3,newly assessed,,0
+ZAF,infra.capacity--robustness-of-government-hardware-and-software,,unplaced,newly unplaced,,0
+ZAF,infra.cybersec--national-cybersecurity-readiness,unplaced,2,placed,2026-08-04-cybersecurity-hub-south-africa-national-csirt-incident-management-and-reporting,0
+ZAF,dpi.exchange--interoperability-of-social-protection-systems,,unplaced,newly unplaced,,0
+ZAF,dpi.id--robustness-of-system,2,3,up,2026-08-27-timeslive-home-affairs-id-fraud-smart-id,0
+ZAF,dpi.pay--revenue-collection,,2,newly assessed,,0
+ZAF,dpi.pay--b2b-and-b2g-functionality,,unplaced,newly unplaced,,0
+ZAF,dpi.registry--electoral-register,,2,newly assessed,,0
+ZAF,dpi.registry--tax-register,unplaced,2,placed,2026-08-14-sars-tax-reference-number-enquiry-services-efiling,0
+ZAF,dpi.mis--education,,unplaced,newly unplaced,,0
+ZAF,dpi.mis--justice,,2,newly assessed,,0
+ZAF,dpi.mis--customs,,unplaced,newly unplaced,,0
+ZAF,tech.ai--use-of-ai-in-sectoral-management-information-systems,,unplaced,newly unplaced,,0
+ZAF,capacity.research--think-tanks-and-academic-departments-contributing-to-dt-policy,,2,newly assessed,,0
+ZAF,include.access--citizen-participation-in-policy,,unplaced,newly unplaced,,0
+ZAF,include.access--inclusion-of-persons-with-disabilities,,unplaced,newly unplaced,,0
+ZMB,gov.discourse--open-discussion-of-government-policy,,2,newly assessed,,0
+ZMB,dpi.pay--g2p-functionality,,3,newly assessed,,0
+ZMB,dpi.mis--customs,,unplaced,newly unplaced,,0
+ZWE,gov.legislate--e-commerce-legislation,,unplaced,newly unplaced,,0
+ZWE,gov.regional--regional-policy-collaboration,unplaced,3,placed,2026-08-16-zimbabwe-sadc-harare-data-governance-workshop,0
+ZWE,digital.rural--digitalisation-of-rural-primary-schools,,2,newly assessed,,0
