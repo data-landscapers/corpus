@@ -263,8 +263,12 @@ MEASURES = {
                        "% of population", "", lambda iso: sdg("IT_USE_ii99", iso, {"Sex": "BOTHSEX"})),
     "mobile-penetration": ("infra.connect--mobile-penetration", "itu-sdg-5b1-mobile-ownership-10plus",
                            "% of people 10+", "", lambda iso: sdg("IT_MOB_OWN", iso, {"Sex": "BOTHSEX"})),
-    "mobile-affordability": ("infra.connect--mobile-affordability", "itu-price-basket-5gb",
-                             "US$ per GB", "tariffs", lambda iso: itu_price_per_gb("i271mb_5GB$", 5, iso)),
+    # The basket as a share of monthly GNI per capita, as ITU computes it (C3 item 9): the DTS's
+    # US$10 per GB no longer separates any country. The allowance divisor is 1 because the value
+    # is already the share; the same reader serves both series.
+    "mobile-affordability": ("infra.connect--mobile-affordability", "itu-price-basket-5gb-gni",
+                             "% of monthly GNI per capita", "tariffs",
+                             lambda iso: itu_price_per_gb("i271mb_5GB_GNI", 1, iso)),
     "rural-electrification": ("infra.energy--rural-electrification", "wdi-elc-accs-rural",
                               "% of rural population", "survey",
                               lambda iso: wdi("EG.ELC.ACCS.RU.ZS", iso)),
@@ -320,7 +324,9 @@ def suspect(rows: list[dict]) -> None:
     nationally. The assessor never uses a suspect figure. It is kept here, so the flag shows."""
     last: dict = {}
     for r in rows:
-        if not r["unit"].startswith("%"):
+        # Shares of a population or a set only: a price over income is unbounded and moves with
+        # the currency (South Sudan's basket swings 20 points a year), so it is not tested.
+        if not r["unit"].startswith("%") or "GNI" in r["unit"]:
             continue
         k = (r["iso3"], r["indicator_id"], r["dataset"])
         prev = last.get(k)

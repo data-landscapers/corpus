@@ -174,11 +174,11 @@ infra.connect--internet-usage,2,27–53 %.,yes
 infra.connect--internet-usage,3,53–80 %.,yes
 infra.connect--internet-usage,4,80 % or more — the STYIP 2033 figure.,no
 infra.connect--internet-usage,5,95 % or more — the DTS 2030 end state of all people online wherever they live.,no
-infra.connect--mobile-affordability,1,More than USD 30 per GB.,yes
-infra.connect--mobile-affordability,2,USD 20–30 per GB.,yes
-infra.connect--mobile-affordability,3,USD 10–20 per GB.,yes
-infra.connect--mobile-affordability,4,USD 10 per GB or less — the DTS line.,no
-infra.connect--mobile-affordability,5,"USD 10 per GB or less, and the 5 GB basket at or below 2 % of monthly GNI per capita — the Broadband Commission's Target 2 line, a stricter test on the larger basket than on the 2 GB one the target was set against.",yes
+infra.connect--mobile-affordability,1,The basket costs more than 6 % of monthly GNI per capita — over three times the line.,yes
+infra.connect--mobile-affordability,2,More than 4 % and at most 6 %.,yes
+infra.connect--mobile-affordability,3,More than 2 % and at most 4 %.,yes
+infra.connect--mobile-affordability,4,"At most 2 % of monthly GNI per capita, with the DTS price line (US$10 per GB, 1 US cent per MB) also met.",partly — the DTS states the price floor; the 2 % line is the reference's
+infra.connect--mobile-affordability,5,"At most 1 % of monthly GNI per capita, with the DTS price line met.",yes
 infra.connect--national-fibre-backbone,1,"A dated statement that no national fibre backbone exists — connectivity by satellite or microwave only, or fibre confined to one city.",yes
 infra.connect--national-fibre-backbone,2,"A backbone under construction, contracted or planned in a master plan, with segments not yet in service; or fibre reaching some regions with no national plan.",yes
 infra.connect--national-fibre-backbone,3,"A backbone in service reaching some provinces or regions, with others unserved on record, or reaching all regions on one operator's network with no open access.",yes
@@ -202,7 +202,7 @@ infra.connect--satellite-broadband-licensing-and-availability,5,"The ATU recomme
 infra.store--local-data-centre-capacity-all-providers,1,"No commercial multi-tenant data centre in service, on a citation.",yes
 infra.store--local-data-centre-capacity-all-providers,2,"Multi-tenant facilities in service, none at Tier III or above.",yes
 infra.store--local-data-centre-capacity-all-providers,3,One multi-tenant facility at Tier III or above in service.,no
-infra.store--local-data-centre-capacity-all-providers,4,"Two or more at Tier III or above, or one at Tier IV, in service.",no
+infra.store--local-data-centre-capacity-all-providers,4,"Two or more at Tier III or above in service — two, so that one can fail; a single facility of any Tier is a single point of failure.",no
 infra.store--local-data-centre-capacity-all-providers,5,"Stage 4's Tiers, capacity per million in the Africa top quintile, and a published figure that 30 % or more of the country's content or traffic is served from facilities in Africa — the DTS 2030 figure.",no
 infra.store--local-data-centre-capacity-national-providers,1,"No nationally owned multi-tenant facility in service, on a citation.",yes
 infra.store--local-data-centre-capacity-national-providers,2,Nationally owned providers hold less than 25 % of in-country multi-tenant facilities (provisional; bottom quintiles once cut).,yes

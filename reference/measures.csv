@@ -1565,212 +1565,211 @@ ZWE,infra.connect--internet-usage,itu-sdg-17-8-1-internet-use,32.6,% of populati
 ZWE,infra.connect--internet-usage,itu-sdg-17-8-1-internet-use,36.3,% of population,2022,2026-06-30,estimate
 ZWE,infra.connect--internet-usage,itu-sdg-17-8-1-internet-use,38.7,% of population,2023,2026-06-30,estimate
 ZWE,infra.connect--internet-usage,itu-sdg-17-8-1-internet-use,41.6,% of population,2024,2026-06-30,estimate
-AGO,infra.connect--mobile-affordability,itu-price-basket-5gb,2.376,US$ per GB,2022,2025-12-10,tariffs
-AGO,infra.connect--mobile-affordability,itu-price-basket-5gb,1.714,US$ per GB,2023,2025-12-10,tariffs
-AGO,infra.connect--mobile-affordability,itu-price-basket-5gb,1.186,US$ per GB,2024,2025-12-10,tariffs
-AGO,infra.connect--mobile-affordability,itu-price-basket-5gb,1.096,US$ per GB,2025,2025-12-10,tariffs
-BDI,infra.connect--mobile-affordability,itu-price-basket-5gb,1.172,US$ per GB,2022,2025-12-10,tariffs
-BDI,infra.connect--mobile-affordability,itu-price-basket-5gb,0.956,US$ per GB,2023,2025-12-10,tariffs
-BDI,infra.connect--mobile-affordability,itu-price-basket-5gb,0.826,US$ per GB,2024,2025-12-10,tariffs
-BDI,infra.connect--mobile-affordability,itu-price-basket-5gb,1.068,US$ per GB,2025,2025-12-10,tariffs
-BEN,infra.connect--mobile-affordability,itu-price-basket-5gb,1.948,US$ per GB,2022,2025-12-10,tariffs
-BEN,infra.connect--mobile-affordability,itu-price-basket-5gb,1.992,US$ per GB,2023,2025-12-10,tariffs
-BEN,infra.connect--mobile-affordability,itu-price-basket-5gb,1.838,US$ per GB,2024,2025-12-10,tariffs
-BEN,infra.connect--mobile-affordability,itu-price-basket-5gb,1.642,US$ per GB,2025,2025-12-10,tariffs
-BFA,infra.connect--mobile-affordability,itu-price-basket-5gb,2.598,US$ per GB,2022,2025-12-10,tariffs
-BFA,infra.connect--mobile-affordability,itu-price-basket-5gb,2.656,US$ per GB,2023,2025-12-10,tariffs
-BFA,infra.connect--mobile-affordability,itu-price-basket-5gb,1.542,US$ per GB,2024,2025-12-10,tariffs
-BFA,infra.connect--mobile-affordability,itu-price-basket-5gb,1.348,US$ per GB,2025,2025-12-10,tariffs
-BWA,infra.connect--mobile-affordability,itu-price-basket-5gb,2.484,US$ per GB,2022,2025-12-10,tariffs
-BWA,infra.connect--mobile-affordability,itu-price-basket-5gb,1.796,US$ per GB,2023,2025-12-10,tariffs
-BWA,infra.connect--mobile-affordability,itu-price-basket-5gb,1.758,US$ per GB,2024,2025-12-10,tariffs
-BWA,infra.connect--mobile-affordability,itu-price-basket-5gb,1.736,US$ per GB,2025,2025-12-10,tariffs
-CAF,infra.connect--mobile-affordability,itu-price-basket-5gb,4.872,US$ per GB,2022,2025-12-10,tariffs
-CAF,infra.connect--mobile-affordability,itu-price-basket-5gb,5.28,US$ per GB,2023,2025-12-10,tariffs
-CAF,infra.connect--mobile-affordability,itu-price-basket-5gb,4.872,US$ per GB,2024,2025-12-10,tariffs
-CAF,infra.connect--mobile-affordability,itu-price-basket-5gb,4.76,US$ per GB,2025,2025-12-10,tariffs
-CIV,infra.connect--mobile-affordability,itu-price-basket-5gb,1.56,US$ per GB,2022,2025-12-10,tariffs
-CIV,infra.connect--mobile-affordability,itu-price-basket-5gb,1.428,US$ per GB,2023,2025-12-10,tariffs
-CIV,infra.connect--mobile-affordability,itu-price-basket-5gb,1.314,US$ per GB,2024,2025-12-10,tariffs
-CIV,infra.connect--mobile-affordability,itu-price-basket-5gb,1.284,US$ per GB,2025,2025-12-10,tariffs
-CMR,infra.connect--mobile-affordability,itu-price-basket-5gb,2.274,US$ per GB,2022,2025-12-10,tariffs
-CMR,infra.connect--mobile-affordability,itu-price-basket-5gb,2.026,US$ per GB,2023,2025-12-10,tariffs
-CMR,infra.connect--mobile-affordability,itu-price-basket-5gb,2.002,US$ per GB,2024,2025-12-10,tariffs
-CMR,infra.connect--mobile-affordability,itu-price-basket-5gb,1.604,US$ per GB,2025,2025-12-10,tariffs
-COD,infra.connect--mobile-affordability,itu-price-basket-5gb,2,US$ per GB,2022,2025-12-10,tariffs
-COD,infra.connect--mobile-affordability,itu-price-basket-5gb,2,US$ per GB,2023,2025-12-10,tariffs
-COD,infra.connect--mobile-affordability,itu-price-basket-5gb,2,US$ per GB,2024,2025-12-10,tariffs
-COD,infra.connect--mobile-affordability,itu-price-basket-5gb,2,US$ per GB,2025,2025-12-10,tariffs
-COG,infra.connect--mobile-affordability,itu-price-basket-5gb,5.112,US$ per GB,2022,2025-12-10,tariffs
-COG,infra.connect--mobile-affordability,itu-price-basket-5gb,4.25,US$ per GB,2023,2025-12-10,tariffs
-COG,infra.connect--mobile-affordability,itu-price-basket-5gb,2.626,US$ per GB,2024,2025-12-10,tariffs
-COG,infra.connect--mobile-affordability,itu-price-basket-5gb,2.04,US$ per GB,2025,2025-12-10,tariffs
-COM,infra.connect--mobile-affordability,itu-price-basket-5gb,3.462,US$ per GB,2022,2025-12-10,tariffs
-COM,infra.connect--mobile-affordability,itu-price-basket-5gb,2.212,US$ per GB,2023,2025-12-10,tariffs
-COM,infra.connect--mobile-affordability,itu-price-basket-5gb,2.188,US$ per GB,2024,2025-12-10,tariffs
-COM,infra.connect--mobile-affordability,itu-price-basket-5gb,2.14,US$ per GB,2025,2025-12-10,tariffs
-CPV,infra.connect--mobile-affordability,itu-price-basket-5gb,2.416,US$ per GB,2022,2025-12-10,tariffs
-CPV,infra.connect--mobile-affordability,itu-price-basket-5gb,1.376,US$ per GB,2023,2025-12-10,tariffs
-CPV,infra.connect--mobile-affordability,itu-price-basket-5gb,1.368,US$ per GB,2024,2025-12-10,tariffs
-CPV,infra.connect--mobile-affordability,itu-price-basket-5gb,1.334,US$ per GB,2025,2025-12-10,tariffs
-DJI,infra.connect--mobile-affordability,itu-price-basket-5gb,3.376,US$ per GB,2022,2025-12-10,tariffs
-DJI,infra.connect--mobile-affordability,itu-price-basket-5gb,3.376,US$ per GB,2023,2025-12-10,tariffs
-DJI,infra.connect--mobile-affordability,itu-price-basket-5gb,3.376,US$ per GB,2024,2025-12-10,tariffs
-DJI,infra.connect--mobile-affordability,itu-price-basket-5gb,3.376,US$ per GB,2025,2025-12-10,tariffs
-DZA,infra.connect--mobile-affordability,itu-price-basket-5gb,0.69,US$ per GB,2022,2025-12-10,tariffs
-DZA,infra.connect--mobile-affordability,itu-price-basket-5gb,0.884,US$ per GB,2023,2025-12-10,tariffs
-DZA,infra.connect--mobile-affordability,itu-price-basket-5gb,1.25,US$ per GB,2024,2025-12-10,tariffs
-DZA,infra.connect--mobile-affordability,itu-price-basket-5gb,0.446,US$ per GB,2025,2025-12-10,tariffs
-EGY,infra.connect--mobile-affordability,itu-price-basket-5gb,1.238,US$ per GB,2022,2025-12-10,tariffs
-EGY,infra.connect--mobile-affordability,itu-price-basket-5gb,0.742,US$ per GB,2023,2025-12-10,tariffs
-EGY,infra.connect--mobile-affordability,itu-price-basket-5gb,0.482,US$ per GB,2024,2025-12-10,tariffs
-EGY,infra.connect--mobile-affordability,itu-price-basket-5gb,0.594,US$ per GB,2025,2025-12-10,tariffs
-ETH,infra.connect--mobile-affordability,itu-price-basket-5gb,1.01,US$ per GB,2022,2025-12-10,tariffs
-ETH,infra.connect--mobile-affordability,itu-price-basket-5gb,0.83,US$ per GB,2023,2025-12-10,tariffs
-ETH,infra.connect--mobile-affordability,itu-price-basket-5gb,0.79,US$ per GB,2024,2025-12-10,tariffs
-ETH,infra.connect--mobile-affordability,itu-price-basket-5gb,0.426,US$ per GB,2025,2025-12-10,tariffs
-GAB,infra.connect--mobile-affordability,itu-price-basket-5gb,3.248,US$ per GB,2022,2025-12-10,tariffs
-GAB,infra.connect--mobile-affordability,itu-price-basket-5gb,3.32,US$ per GB,2023,2025-12-10,tariffs
-GAB,infra.connect--mobile-affordability,itu-price-basket-5gb,3.282,US$ per GB,2024,2025-12-10,tariffs
-GAB,infra.connect--mobile-affordability,itu-price-basket-5gb,3.208,US$ per GB,2025,2025-12-10,tariffs
-GHA,infra.connect--mobile-affordability,itu-price-basket-5gb,1.736,US$ per GB,2022,2025-12-10,tariffs
-GHA,infra.connect--mobile-affordability,itu-price-basket-5gb,1.332,US$ per GB,2023,2025-12-10,tariffs
-GHA,infra.connect--mobile-affordability,itu-price-basket-5gb,1.222,US$ per GB,2024,2025-12-10,tariffs
-GHA,infra.connect--mobile-affordability,itu-price-basket-5gb,1.1,US$ per GB,2025,2025-12-10,tariffs
-GIN,infra.connect--mobile-affordability,itu-price-basket-5gb,1.36,US$ per GB,2023,2025-12-10,tariffs
-GIN,infra.connect--mobile-affordability,itu-price-basket-5gb,1.358,US$ per GB,2024,2025-12-10,tariffs
-GIN,infra.connect--mobile-affordability,itu-price-basket-5gb,1.344,US$ per GB,2025,2025-12-10,tariffs
-GMB,infra.connect--mobile-affordability,itu-price-basket-5gb,2.884,US$ per GB,2022,2025-12-10,tariffs
-GMB,infra.connect--mobile-affordability,itu-price-basket-5gb,2.516,US$ per GB,2023,2025-12-10,tariffs
-GMB,infra.connect--mobile-affordability,itu-price-basket-5gb,1.298,US$ per GB,2024,2025-12-10,tariffs
-GMB,infra.connect--mobile-affordability,itu-price-basket-5gb,1.226,US$ per GB,2025,2025-12-10,tariffs
-GNB,infra.connect--mobile-affordability,itu-price-basket-5gb,1.624,US$ per GB,2022,2025-12-10,tariffs
-GNB,infra.connect--mobile-affordability,itu-price-basket-5gb,2.656,US$ per GB,2023,2025-12-10,tariffs
-GNB,infra.connect--mobile-affordability,itu-price-basket-5gb,2.626,US$ per GB,2024,2025-12-10,tariffs
-GNB,infra.connect--mobile-affordability,itu-price-basket-5gb,1.604,US$ per GB,2025,2025-12-10,tariffs
-GNQ,infra.connect--mobile-affordability,itu-price-basket-5gb,24.36,US$ per GB,2022,2025-12-10,tariffs
-KEN,infra.connect--mobile-affordability,itu-price-basket-5gb,1.72,US$ per GB,2022,2025-12-10,tariffs
-KEN,infra.connect--mobile-affordability,itu-price-basket-5gb,1.458,US$ per GB,2023,2025-12-10,tariffs
-KEN,infra.connect--mobile-affordability,itu-price-basket-5gb,1.528,US$ per GB,2024,2025-12-10,tariffs
-KEN,infra.connect--mobile-affordability,itu-price-basket-5gb,1.546,US$ per GB,2025,2025-12-10,tariffs
-LBR,infra.connect--mobile-affordability,itu-price-basket-5gb,2,US$ per GB,2022,2025-12-10,tariffs
-LBR,infra.connect--mobile-affordability,itu-price-basket-5gb,2,US$ per GB,2023,2025-12-10,tariffs
-LBR,infra.connect--mobile-affordability,itu-price-basket-5gb,1.6,US$ per GB,2024,2025-12-10,tariffs
-LBR,infra.connect--mobile-affordability,itu-price-basket-5gb,1.6,US$ per GB,2025,2025-12-10,tariffs
-LBY,infra.connect--mobile-affordability,itu-price-basket-5gb,1.084,US$ per GB,2022,2025-12-10,tariffs
-LBY,infra.connect--mobile-affordability,itu-price-basket-5gb,0.836,US$ per GB,2023,2025-12-10,tariffs
-LBY,infra.connect--mobile-affordability,itu-price-basket-5gb,0.412,US$ per GB,2024,2025-12-10,tariffs
-LBY,infra.connect--mobile-affordability,itu-price-basket-5gb,0.408,US$ per GB,2025,2025-12-10,tariffs
-LSO,infra.connect--mobile-affordability,itu-price-basket-5gb,1.904,US$ per GB,2022,2025-12-10,tariffs
-LSO,infra.connect--mobile-affordability,itu-price-basket-5gb,1.586,US$ per GB,2023,2025-12-10,tariffs
-LSO,infra.connect--mobile-affordability,itu-price-basket-5gb,1.594,US$ per GB,2024,2025-12-10,tariffs
-LSO,infra.connect--mobile-affordability,itu-price-basket-5gb,1.6,US$ per GB,2025,2025-12-10,tariffs
-MAR,infra.connect--mobile-affordability,itu-price-basket-5gb,1.006,US$ per GB,2022,2025-12-10,tariffs
-MAR,infra.connect--mobile-affordability,itu-price-basket-5gb,0.99,US$ per GB,2023,2025-12-10,tariffs
-MAR,infra.connect--mobile-affordability,itu-price-basket-5gb,0.998,US$ per GB,2024,2025-12-10,tariffs
-MAR,infra.connect--mobile-affordability,itu-price-basket-5gb,0.99,US$ per GB,2025,2025-12-10,tariffs
-MDG,infra.connect--mobile-affordability,itu-price-basket-5gb,1.752,US$ per GB,2022,2025-12-10,tariffs
-MDG,infra.connect--mobile-affordability,itu-price-basket-5gb,1.59,US$ per GB,2023,2025-12-10,tariffs
-MDG,infra.connect--mobile-affordability,itu-price-basket-5gb,1.132,US$ per GB,2024,2025-12-10,tariffs
-MDG,infra.connect--mobile-affordability,itu-price-basket-5gb,1.068,US$ per GB,2025,2025-12-10,tariffs
-MLI,infra.connect--mobile-affordability,itu-price-basket-5gb,1.624,US$ per GB,2022,2025-12-10,tariffs
-MLI,infra.connect--mobile-affordability,itu-price-basket-5gb,1.66,US$ per GB,2023,2025-12-10,tariffs
-MLI,infra.connect--mobile-affordability,itu-price-basket-5gb,1.642,US$ per GB,2024,2025-12-10,tariffs
-MLI,infra.connect--mobile-affordability,itu-price-basket-5gb,1.604,US$ per GB,2025,2025-12-10,tariffs
-MOZ,infra.connect--mobile-affordability,itu-price-basket-5gb,1.566,US$ per GB,2022,2025-12-10,tariffs
-MOZ,infra.connect--mobile-affordability,itu-price-basket-5gb,1.566,US$ per GB,2023,2025-12-10,tariffs
-MOZ,infra.connect--mobile-affordability,itu-price-basket-5gb,1.314,US$ per GB,2024,2025-12-10,tariffs
-MOZ,infra.connect--mobile-affordability,itu-price-basket-5gb,0.614,US$ per GB,2025,2025-12-10,tariffs
-MRT,infra.connect--mobile-affordability,itu-price-basket-5gb,1.104,US$ per GB,2022,2025-12-10,tariffs
-MRT,infra.connect--mobile-affordability,itu-price-basket-5gb,1.17,US$ per GB,2023,2025-12-10,tariffs
-MRT,infra.connect--mobile-affordability,itu-price-basket-5gb,1.014,US$ per GB,2024,2025-12-10,tariffs
-MRT,infra.connect--mobile-affordability,itu-price-basket-5gb,1.004,US$ per GB,2025,2025-12-10,tariffs
-MUS,infra.connect--mobile-affordability,itu-price-basket-5gb,1.252,US$ per GB,2022,2025-12-10,tariffs
-MUS,infra.connect--mobile-affordability,itu-price-basket-5gb,1.202,US$ per GB,2023,2025-12-10,tariffs
-MUS,infra.connect--mobile-affordability,itu-price-basket-5gb,1.174,US$ per GB,2024,2025-12-10,tariffs
-MUS,infra.connect--mobile-affordability,itu-price-basket-5gb,1.178,US$ per GB,2025,2025-12-10,tariffs
-MWI,infra.connect--mobile-affordability,itu-price-basket-5gb,2.262,US$ per GB,2022,2025-12-10,tariffs
-MWI,infra.connect--mobile-affordability,itu-price-basket-5gb,2.326,US$ per GB,2023,2025-12-10,tariffs
-MWI,infra.connect--mobile-affordability,itu-price-basket-5gb,0.686,US$ per GB,2024,2025-12-10,tariffs
-MWI,infra.connect--mobile-affordability,itu-price-basket-5gb,0.686,US$ per GB,2025,2025-12-10,tariffs
-NAM,infra.connect--mobile-affordability,itu-price-basket-5gb,2.368,US$ per GB,2022,2025-12-10,tariffs
-NAM,infra.connect--mobile-affordability,itu-price-basket-5gb,1.924,US$ per GB,2023,2025-12-10,tariffs
-NAM,infra.connect--mobile-affordability,itu-price-basket-5gb,1.932,US$ per GB,2024,2025-12-10,tariffs
-NAM,infra.connect--mobile-affordability,itu-price-basket-5gb,1.94,US$ per GB,2025,2025-12-10,tariffs
-NER,infra.connect--mobile-affordability,itu-price-basket-5gb,1.624,US$ per GB,2022,2025-12-10,tariffs
-NER,infra.connect--mobile-affordability,itu-price-basket-5gb,1.66,US$ per GB,2023,2025-12-10,tariffs
-NER,infra.connect--mobile-affordability,itu-price-basket-5gb,1.642,US$ per GB,2024,2025-12-10,tariffs
-NER,infra.connect--mobile-affordability,itu-price-basket-5gb,1.604,US$ per GB,2025,2025-12-10,tariffs
-NGA,infra.connect--mobile-affordability,itu-price-basket-5gb,1.202,US$ per GB,2022,2025-12-10,tariffs
-NGA,infra.connect--mobile-affordability,itu-price-basket-5gb,0.978,US$ per GB,2023,2025-12-10,tariffs
-NGA,infra.connect--mobile-affordability,itu-price-basket-5gb,0.214,US$ per GB,2024,2025-12-10,tariffs
-NGA,infra.connect--mobile-affordability,itu-price-basket-5gb,0.198,US$ per GB,2025,2025-12-10,tariffs
-RWA,infra.connect--mobile-affordability,itu-price-basket-5gb,0.98,US$ per GB,2022,2025-12-10,tariffs
-RWA,infra.connect--mobile-affordability,itu-price-basket-5gb,0.886,US$ per GB,2023,2025-12-10,tariffs
-RWA,infra.connect--mobile-affordability,itu-price-basket-5gb,0.308,US$ per GB,2024,2025-12-10,tariffs
-RWA,infra.connect--mobile-affordability,itu-price-basket-5gb,0.286,US$ per GB,2025,2025-12-10,tariffs
-SDN,infra.connect--mobile-affordability,itu-price-basket-5gb,0.774,US$ per GB,2022,2025-12-10,tariffs
-SDN,infra.connect--mobile-affordability,itu-price-basket-5gb,1.05,US$ per GB,2023,2025-12-10,tariffs
-SDN,infra.connect--mobile-affordability,itu-price-basket-5gb,1.35,US$ per GB,2024,2025-12-10,tariffs
-SDN,infra.connect--mobile-affordability,itu-price-basket-5gb,0.834,US$ per GB,2025,2025-12-10,tariffs
-SEN,infra.connect--mobile-affordability,itu-price-basket-5gb,1.624,US$ per GB,2022,2025-12-10,tariffs
-SEN,infra.connect--mobile-affordability,itu-price-basket-5gb,1.328,US$ per GB,2023,2025-12-10,tariffs
-SEN,infra.connect--mobile-affordability,itu-price-basket-5gb,1.314,US$ per GB,2024,2025-12-10,tariffs
-SEN,infra.connect--mobile-affordability,itu-price-basket-5gb,1.284,US$ per GB,2025,2025-12-10,tariffs
-SLE,infra.connect--mobile-affordability,itu-price-basket-5gb,0.55,US$ per GB,2022,2025-12-10,tariffs
-SLE,infra.connect--mobile-affordability,itu-price-basket-5gb,0.692,US$ per GB,2023,2025-12-10,tariffs
-SLE,infra.connect--mobile-affordability,itu-price-basket-5gb,0.864,US$ per GB,2024,2025-12-10,tariffs
-SLE,infra.connect--mobile-affordability,itu-price-basket-5gb,0.852,US$ per GB,2025,2025-12-10,tariffs
-SOM,infra.connect--mobile-affordability,itu-price-basket-5gb,0.8,US$ per GB,2022,2025-12-10,tariffs
-SOM,infra.connect--mobile-affordability,itu-price-basket-5gb,0.4,US$ per GB,2023,2025-12-10,tariffs
-SOM,infra.connect--mobile-affordability,itu-price-basket-5gb,0.4,US$ per GB,2024,2025-12-10,tariffs
-SOM,infra.connect--mobile-affordability,itu-price-basket-5gb,0.4,US$ per GB,2025,2025-12-10,tariffs
-SSD,infra.connect--mobile-affordability,itu-price-basket-5gb,4.68,US$ per GB,2022,2025-12-10,tariffs
-SSD,infra.connect--mobile-affordability,itu-price-basket-5gb,5.718,US$ per GB,2023,2025-12-10,tariffs
-SSD,infra.connect--mobile-affordability,itu-price-basket-5gb,3.366,US$ per GB,2024,2025-12-10,tariffs
-SSD,infra.connect--mobile-affordability,itu-price-basket-5gb,1.214,US$ per GB,2025,2025-12-10,tariffs
-STP,infra.connect--mobile-affordability,itu-price-basket-5gb,2.882,US$ per GB,2022,2025-12-10,tariffs
-STP,infra.connect--mobile-affordability,itu-price-basket-5gb,2.934,US$ per GB,2023,2025-12-10,tariffs
-STP,infra.connect--mobile-affordability,itu-price-basket-5gb,2.44,US$ per GB,2024,2025-12-10,tariffs
-STP,infra.connect--mobile-affordability,itu-price-basket-5gb,2.35,US$ per GB,2025,2025-12-10,tariffs
-SWZ,infra.connect--mobile-affordability,itu-price-basket-5gb,4.18,US$ per GB,2022,2025-12-10,tariffs
-SWZ,infra.connect--mobile-affordability,itu-price-basket-5gb,3.848,US$ per GB,2023,2025-12-10,tariffs
-SWZ,infra.connect--mobile-affordability,itu-price-basket-5gb,3.866,US$ per GB,2024,2025-12-10,tariffs
-SWZ,infra.connect--mobile-affordability,itu-price-basket-5gb,2.702,US$ per GB,2025,2025-12-10,tariffs
-SYC,infra.connect--mobile-affordability,itu-price-basket-5gb,13.348,US$ per GB,2022,2025-12-10,tariffs
-SYC,infra.connect--mobile-affordability,itu-price-basket-5gb,8.658,US$ per GB,2023,2025-12-10,tariffs
-SYC,infra.connect--mobile-affordability,itu-price-basket-5gb,3.854,US$ per GB,2024,2025-12-10,tariffs
-SYC,infra.connect--mobile-affordability,itu-price-basket-5gb,4.054,US$ per GB,2025,2025-12-10,tariffs
-TCD,infra.connect--mobile-affordability,itu-price-basket-5gb,3.248,US$ per GB,2022,2025-12-10,tariffs
-TCD,infra.connect--mobile-affordability,itu-price-basket-5gb,3.984,US$ per GB,2023,2025-12-10,tariffs
-TCD,infra.connect--mobile-affordability,itu-price-basket-5gb,1.97,US$ per GB,2024,2025-12-10,tariffs
-TCD,infra.connect--mobile-affordability,itu-price-basket-5gb,1.924,US$ per GB,2025,2025-12-10,tariffs
-TGO,infra.connect--mobile-affordability,itu-price-basket-5gb,2.03,US$ per GB,2022,2025-12-10,tariffs
-TGO,infra.connect--mobile-affordability,itu-price-basket-5gb,1.66,US$ per GB,2023,2025-12-10,tariffs
-TGO,infra.connect--mobile-affordability,itu-price-basket-5gb,1.642,US$ per GB,2024,2025-12-10,tariffs
-TGO,infra.connect--mobile-affordability,itu-price-basket-5gb,1.604,US$ per GB,2025,2025-12-10,tariffs
-TUN,infra.connect--mobile-affordability,itu-price-basket-5gb,0.974,US$ per GB,2022,2025-12-10,tariffs
-TUN,infra.connect--mobile-affordability,itu-price-basket-5gb,0.974,US$ per GB,2023,2025-12-10,tariffs
-TUN,infra.connect--mobile-affordability,itu-price-basket-5gb,0.958,US$ per GB,2024,2025-12-10,tariffs
-TUN,infra.connect--mobile-affordability,itu-price-basket-5gb,0.948,US$ per GB,2025,2025-12-10,tariffs
-TZA,infra.connect--mobile-affordability,itu-price-basket-5gb,1.044,US$ per GB,2022,2025-12-10,tariffs
-TZA,infra.connect--mobile-affordability,itu-price-basket-5gb,1.02,US$ per GB,2023,2025-12-10,tariffs
-TZA,infra.connect--mobile-affordability,itu-price-basket-5gb,0.928,US$ per GB,2024,2025-12-10,tariffs
-TZA,infra.connect--mobile-affordability,itu-price-basket-5gb,0.944,US$ per GB,2025,2025-12-10,tariffs
-UGA,infra.connect--mobile-affordability,itu-price-basket-5gb,1.538,US$ per GB,2022,2025-12-10,tariffs
-UGA,infra.connect--mobile-affordability,itu-price-basket-5gb,1.074,US$ per GB,2023,2025-12-10,tariffs
-UGA,infra.connect--mobile-affordability,itu-price-basket-5gb,1.056,US$ per GB,2024,2025-12-10,tariffs
-UGA,infra.connect--mobile-affordability,itu-price-basket-5gb,1.088,US$ per GB,2025,2025-12-10,tariffs
-ZAF,infra.connect--mobile-affordability,itu-price-basket-5gb,3.994,US$ per GB,2022,2025-12-10,tariffs
-ZAF,infra.connect--mobile-affordability,itu-price-basket-5gb,3.58,US$ per GB,2023,2025-12-10,tariffs
-ZAF,infra.connect--mobile-affordability,itu-price-basket-5gb,3.338,US$ per GB,2024,2025-12-10,tariffs
-ZAF,infra.connect--mobile-affordability,itu-price-basket-5gb,1.286,US$ per GB,2025,2025-12-10,tariffs
-ZMB,infra.connect--mobile-affordability,itu-price-basket-5gb,0.932,US$ per GB,2022,2025-12-10,tariffs
-ZMB,infra.connect--mobile-affordability,itu-price-basket-5gb,0.646,US$ per GB,2023,2025-12-10,tariffs
-ZMB,infra.connect--mobile-affordability,itu-price-basket-5gb,0.462,US$ per GB,2024,2025-12-10,tariffs
-ZMB,infra.connect--mobile-affordability,itu-price-basket-5gb,0.566,US$ per GB,2025,2025-12-10,tariffs
-ZWE,infra.connect--mobile-affordability,itu-price-basket-5gb,6.436,US$ per GB,2022,2025-12-10,tariffs
-ZWE,infra.connect--mobile-affordability,itu-price-basket-5gb,5.558,US$ per GB,2023,2025-12-10,tariffs
+AGO,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,4.49,% of monthly GNI per capita,2022,2025-12-10,tariffs
+AGO,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,4.32,% of monthly GNI per capita,2023,2025-12-10,tariffs
+AGO,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,3.91,% of monthly GNI per capita,2024,2025-12-10,tariffs
+AGO,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,3.05,% of monthly GNI per capita,2025,2025-12-10,tariffs
+BDI,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,25.24,% of monthly GNI per capita,2022,2025-12-10,tariffs
+BDI,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,24.93,% of monthly GNI per capita,2023,2025-12-10,tariffs
+BDI,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,20.66,% of monthly GNI per capita,2024,2025-12-10,tariffs
+BDI,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,25.18,% of monthly GNI per capita,2025,2025-12-10,tariffs
+BEN,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,9.19,% of monthly GNI per capita,2022,2025-12-10,tariffs
+BEN,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,8.93,% of monthly GNI per capita,2023,2025-12-10,tariffs
+BEN,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,7.77,% of monthly GNI per capita,2024,2025-12-10,tariffs
+BEN,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,6.89,% of monthly GNI per capita,2025,2025-12-10,tariffs
+BFA,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,19.88,% of monthly GNI per capita,2022,2025-12-10,tariffs
+BFA,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,19.62,% of monthly GNI per capita,2023,2025-12-10,tariffs
+BFA,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,11.1,% of monthly GNI per capita,2024,2025-12-10,tariffs
+BFA,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,8.8,% of monthly GNI per capita,2025,2025-12-10,tariffs
+BWA,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,2.32,% of monthly GNI per capita,2022,2025-12-10,tariffs
+BWA,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,1.57,% of monthly GNI per capita,2023,2025-12-10,tariffs
+BWA,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,1.48,% of monthly GNI per capita,2024,2025-12-10,tariffs
+BWA,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,1.38,% of monthly GNI per capita,2025,2025-12-10,tariffs
+CAF,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,59.41,% of monthly GNI per capita,2022,2025-12-10,tariffs
+CAF,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,68.01,% of monthly GNI per capita,2023,2025-12-10,tariffs
+CAF,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,62.29,% of monthly GNI per capita,2024,2025-12-10,tariffs
+CAF,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,53.67,% of monthly GNI per capita,2025,2025-12-10,tariffs
+CIV,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,4.15,% of monthly GNI per capita,2022,2025-12-10,tariffs
+CIV,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,3.43,% of monthly GNI per capita,2023,2025-12-10,tariffs
+CIV,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,3.02,% of monthly GNI per capita,2024,2025-12-10,tariffs
+CIV,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,3.04,% of monthly GNI per capita,2025,2025-12-10,tariffs
+CMR,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,9.29,% of monthly GNI per capita,2022,2025-12-10,tariffs
+CMR,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,7.49,% of monthly GNI per capita,2023,2025-12-10,tariffs
+CMR,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,7.36,% of monthly GNI per capita,2024,2025-12-10,tariffs
+CMR,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,5.72,% of monthly GNI per capita,2025,2025-12-10,tariffs
+COD,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,20.69,% of monthly GNI per capita,2022,2025-12-10,tariffs
+COD,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,20.34,% of monthly GNI per capita,2023,2025-12-10,tariffs
+COD,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,18.18,% of monthly GNI per capita,2024,2025-12-10,tariffs
+COD,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,18.75,% of monthly GNI per capita,2025,2025-12-10,tariffs
+COG,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,19.49,% of monthly GNI per capita,2022,2025-12-10,tariffs
+COG,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,10.82,% of monthly GNI per capita,2023,2025-12-10,tariffs
+COG,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,6.67,% of monthly GNI per capita,2024,2025-12-10,tariffs
+COG,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,5.32,% of monthly GNI per capita,2025,2025-12-10,tariffs
+COM,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,15.55,% of monthly GNI per capita,2022,2025-12-10,tariffs
+COM,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,8.61,% of monthly GNI per capita,2023,2025-12-10,tariffs
+COM,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,8.29,% of monthly GNI per capita,2024,2025-12-10,tariffs
+COM,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,7.36,% of monthly GNI per capita,2025,2025-12-10,tariffs
+CPV,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,4.76,% of monthly GNI per capita,2022,2025-12-10,tariffs
+CPV,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,2.06,% of monthly GNI per capita,2023,2025-12-10,tariffs
+CPV,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,1.91,% of monthly GNI per capita,2024,2025-12-10,tariffs
+CPV,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,1.59,% of monthly GNI per capita,2025,2025-12-10,tariffs
+DJI,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,6.22,% of monthly GNI per capita,2022,2025-12-10,tariffs
+DJI,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,6.58,% of monthly GNI per capita,2023,2025-12-10,tariffs
+DJI,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,5.75,% of monthly GNI per capita,2024,2025-12-10,tariffs
+DJI,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,5.74,% of monthly GNI per capita,2025,2025-12-10,tariffs
+DZA,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,1.21,% of monthly GNI per capita,2022,2025-12-10,tariffs
+DZA,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,1.21,% of monthly GNI per capita,2023,2025-12-10,tariffs
+DZA,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,1.43,% of monthly GNI per capita,2024,2025-12-10,tariffs
+DZA,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,0.49,% of monthly GNI per capita,2025,2025-12-10,tariffs
+EGY,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,2.33,% of monthly GNI per capita,2022,2025-12-10,tariffs
+EGY,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,2.01,% of monthly GNI per capita,2023,2025-12-10,tariffs
+EGY,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,1.59,% of monthly GNI per capita,2024,2025-12-10,tariffs
+EGY,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,1.58,% of monthly GNI per capita,2025,2025-12-10,tariffs
+ETH,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,8.51,% of monthly GNI per capita,2022,2025-12-10,tariffs
+ETH,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,5.43,% of monthly GNI per capita,2023,2025-12-10,tariffs
+ETH,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,3.93,% of monthly GNI per capita,2024,2025-12-10,tariffs
+ETH,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,4.79,% of monthly GNI per capita,2025,2025-12-10,tariffs
+GAB,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,2.89,% of monthly GNI per capita,2022,2025-12-10,tariffs
+GAB,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,2.41,% of monthly GNI per capita,2023,2025-12-10,tariffs
+GAB,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,2.62,% of monthly GNI per capita,2024,2025-12-10,tariffs
+GAB,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,2.65,% of monthly GNI per capita,2025,2025-12-10,tariffs
+GHA,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,5.28,% of monthly GNI per capita,2022,2025-12-10,tariffs
+GHA,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,4.85,% of monthly GNI per capita,2023,2025-12-10,tariffs
+GHA,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,4.13,% of monthly GNI per capita,2024,2025-12-10,tariffs
+GHA,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,3.06,% of monthly GNI per capita,2025,2025-12-10,tariffs
+GIN,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,5.85,% of monthly GNI per capita,2023,2025-12-10,tariffs
+GIN,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,5.27,% of monthly GNI per capita,2024,2025-12-10,tariffs
+GIN,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,5.16,% of monthly GNI per capita,2025,2025-12-10,tariffs
+GMB,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,22.02,% of monthly GNI per capita,2022,2025-12-10,tariffs
+GMB,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,21.02,% of monthly GNI per capita,2023,2025-12-10,tariffs
+GMB,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,10.26,% of monthly GNI per capita,2024,2025-12-10,tariffs
+GMB,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,8.68,% of monthly GNI per capita,2025,2025-12-10,tariffs
+GNB,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,13.29,% of monthly GNI per capita,2022,2025-12-10,tariffs
+GNB,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,19.58,% of monthly GNI per capita,2023,2025-12-10,tariffs
+GNB,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,17.08,% of monthly GNI per capita,2024,2025-12-10,tariffs
+GNB,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,10.2,% of monthly GNI per capita,2025,2025-12-10,tariffs
+GNQ,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,25.72,% of monthly GNI per capita,2022,2025-12-10,tariffs
+KEN,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,5.54,% of monthly GNI per capita,2022,2025-12-10,tariffs
+KEN,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,4.93,% of monthly GNI per capita,2023,2025-12-10,tariffs
+KEN,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,4.47,% of monthly GNI per capita,2024,2025-12-10,tariffs
+KEN,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,4.1,% of monthly GNI per capita,2025,2025-12-10,tariffs
+LBR,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,19.35,% of monthly GNI per capita,2022,2025-12-10,tariffs
+LBR,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,17.65,% of monthly GNI per capita,2023,2025-12-10,tariffs
+LBR,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,13.15,% of monthly GNI per capita,2024,2025-12-10,tariffs
+LBR,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,12.63,% of monthly GNI per capita,2025,2025-12-10,tariffs
+LBY,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,1.07,% of monthly GNI per capita,2022,2025-12-10,tariffs
+LBY,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,0.74,% of monthly GNI per capita,2023,2025-12-10,tariffs
+LBY,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,0.34,% of monthly GNI per capita,2024,2025-12-10,tariffs
+LBY,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,0.39,% of monthly GNI per capita,2025,2025-12-10,tariffs
+LSO,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,9.13,% of monthly GNI per capita,2022,2025-12-10,tariffs
+LSO,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,8.35,% of monthly GNI per capita,2023,2025-12-10,tariffs
+LSO,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,9.37,% of monthly GNI per capita,2024,2025-12-10,tariffs
+LSO,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,8.35,% of monthly GNI per capita,2025,2025-12-10,tariffs
+MAR,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,1.94,% of monthly GNI per capita,2022,2025-12-10,tariffs
+MAR,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,1.7,% of monthly GNI per capita,2023,2025-12-10,tariffs
+MAR,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,1.64,% of monthly GNI per capita,2024,2025-12-10,tariffs
+MAR,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,1.5,% of monthly GNI per capita,2025,2025-12-10,tariffs
+MDG,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,21.76,% of monthly GNI per capita,2022,2025-12-10,tariffs
+MDG,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,20.89,% of monthly GNI per capita,2023,2025-12-10,tariffs
+MDG,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,13.08,% of monthly GNI per capita,2024,2025-12-10,tariffs
+MDG,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,12.49,% of monthly GNI per capita,2025,2025-12-10,tariffs
+MLI,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,12.15,% of monthly GNI per capita,2022,2025-12-10,tariffs
+MLI,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,12.03,% of monthly GNI per capita,2023,2025-12-10,tariffs
+MLI,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,11.56,% of monthly GNI per capita,2024,2025-12-10,tariffs
+MLI,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,9.38,% of monthly GNI per capita,2025,2025-12-10,tariffs
+MOZ,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,18.7,% of monthly GNI per capita,2022,2025-12-10,tariffs
+MOZ,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,18.09,% of monthly GNI per capita,2023,2025-12-10,tariffs
+MOZ,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,14.23,% of monthly GNI per capita,2024,2025-12-10,tariffs
+MOZ,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,6.4,% of monthly GNI per capita,2025,2025-12-10,tariffs
+MRT,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,3.84,% of monthly GNI per capita,2022,2025-12-10,tariffs
+MRT,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,3.01,% of monthly GNI per capita,2023,2025-12-10,tariffs
+MRT,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,3.05,% of monthly GNI per capita,2024,2025-12-10,tariffs
+MRT,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,2.94,% of monthly GNI per capita,2025,2025-12-10,tariffs
+MUS,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,0.78,% of monthly GNI per capita,2022,2025-12-10,tariffs
+MUS,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,0.71,% of monthly GNI per capita,2023,2025-12-10,tariffs
+MUS,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,0.62,% of monthly GNI per capita,2024,2025-12-10,tariffs
+MUS,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,0.54,% of monthly GNI per capita,2025,2025-12-10,tariffs
+MWI,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,23.6,% of monthly GNI per capita,2022,2025-12-10,tariffs
+MWI,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,24.15,% of monthly GNI per capita,2023,2025-12-10,tariffs
+MWI,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,9.46,% of monthly GNI per capita,2024,2025-12-10,tariffs
+MWI,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,8.45,% of monthly GNI per capita,2025,2025-12-10,tariffs
+NAM,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,3.21,% of monthly GNI per capita,2022,2025-12-10,tariffs
+NAM,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,2.76,% of monthly GNI per capita,2023,2025-12-10,tariffs
+NAM,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,2.58,% of monthly GNI per capita,2024,2025-12-10,tariffs
+NAM,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,2.75,% of monthly GNI per capita,2025,2025-12-10,tariffs
+NER,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,17.9,% of monthly GNI per capita,2022,2025-12-10,tariffs
+NER,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,17.93,% of monthly GNI per capita,2023,2025-12-10,tariffs
+NER,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,16.63,% of monthly GNI per capita,2024,2025-12-10,tariffs
+NER,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,13.86,% of monthly GNI per capita,2025,2025-12-10,tariffs
+NGA,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,3.75,% of monthly GNI per capita,2022,2025-12-10,tariffs
+NGA,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,3.36,% of monthly GNI per capita,2023,2025-12-10,tariffs
+NGA,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,1.75,% of monthly GNI per capita,2024,2025-12-10,tariffs
+NGA,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,1.56,% of monthly GNI per capita,2025,2025-12-10,tariffs
+RWA,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,7.43,% of monthly GNI per capita,2022,2025-12-10,tariffs
+RWA,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,6.16,% of monthly GNI per capita,2023,2025-12-10,tariffs
+RWA,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,2.11,% of monthly GNI per capita,2024,2025-12-10,tariffs
+RWA,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,1.87,% of monthly GNI per capita,2025,2025-12-10,tariffs
+SDN,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,9.46,% of monthly GNI per capita,2022,2025-12-10,tariffs
+SDN,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,6.12,% of monthly GNI per capita,2023,2025-12-10,tariffs
+SDN,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,6.66,% of monthly GNI per capita,2024,2025-12-10,tariffs
+SDN,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,6.62,% of monthly GNI per capita,2025,2025-12-10,tariffs
+SEN,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,6.88,% of monthly GNI per capita,2022,2025-12-10,tariffs
+SEN,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,4.95,% of monthly GNI per capita,2023,2025-12-10,tariffs
+SEN,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,4.69,% of monthly GNI per capita,2024,2025-12-10,tariffs
+SEN,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,4.68,% of monthly GNI per capita,2025,2025-12-10,tariffs
+SLE,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,7.68,% of monthly GNI per capita,2022,2025-12-10,tariffs
+SLE,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,14.09,% of monthly GNI per capita,2023,2025-12-10,tariffs
+SLE,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,11.27,% of monthly GNI per capita,2024,2025-12-10,tariffs
+SLE,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,6.13,% of monthly GNI per capita,2025,2025-12-10,tariffs
+SOM,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,10.67,% of monthly GNI per capita,2022,2025-12-10,tariffs
+SOM,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,5.11,% of monthly GNI per capita,2023,2025-12-10,tariffs
+SOM,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,3.93,% of monthly GNI per capita,2024,2025-12-10,tariffs
+SOM,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,4,% of monthly GNI per capita,2025,2025-12-10,tariffs
+SSD,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,81.49,% of monthly GNI per capita,2023,2025-12-10,tariffs
+SSD,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,33.05,% of monthly GNI per capita,2024,2025-12-10,tariffs
+SSD,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,24.23,% of monthly GNI per capita,2025,2025-12-10,tariffs
+STP,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,7.67,% of monthly GNI per capita,2022,2025-12-10,tariffs
+STP,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,6.97,% of monthly GNI per capita,2023,2025-12-10,tariffs
+STP,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,5.49,% of monthly GNI per capita,2024,2025-12-10,tariffs
+STP,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,4.35,% of monthly GNI per capita,2025,2025-12-10,tariffs
+SWZ,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,6.93,% of monthly GNI per capita,2022,2025-12-10,tariffs
+SWZ,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,7.08,% of monthly GNI per capita,2023,2025-12-10,tariffs
+SWZ,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,6.59,% of monthly GNI per capita,2024,2025-12-10,tariffs
+SWZ,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,4.56,% of monthly GNI per capita,2025,2025-12-10,tariffs
+SYC,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,5.37,% of monthly GNI per capita,2022,2025-12-10,tariffs
+SYC,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,3.18,% of monthly GNI per capita,2023,2025-12-10,tariffs
+SYC,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,1.35,% of monthly GNI per capita,2024,2025-12-10,tariffs
+SYC,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,1.43,% of monthly GNI per capita,2025,2025-12-10,tariffs
+TCD,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,32.16,% of monthly GNI per capita,2022,2025-12-10,tariffs
+TCD,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,32.69,% of monthly GNI per capita,2023,2025-12-10,tariffs
+TCD,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,16.75,% of monthly GNI per capita,2024,2025-12-10,tariffs
+TCD,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,11.81,% of monthly GNI per capita,2025,2025-12-10,tariffs
+TGO,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,13.59,% of monthly GNI per capita,2022,2025-12-10,tariffs
+TGO,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,10.45,% of monthly GNI per capita,2023,2025-12-10,tariffs
+TGO,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,9.72,% of monthly GNI per capita,2024,2025-12-10,tariffs
+TGO,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,9.46,% of monthly GNI per capita,2025,2025-12-10,tariffs
+TUN,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,1.69,% of monthly GNI per capita,2022,2025-12-10,tariffs
+TUN,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,1.58,% of monthly GNI per capita,2023,2025-12-10,tariffs
+TUN,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,1.53,% of monthly GNI per capita,2024,2025-12-10,tariffs
+TUN,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,1.36,% of monthly GNI per capita,2025,2025-12-10,tariffs
+TZA,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,5.53,% of monthly GNI per capita,2022,2025-12-10,tariffs
+TZA,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,5.33,% of monthly GNI per capita,2023,2025-12-10,tariffs
+TZA,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,5.08,% of monthly GNI per capita,2024,2025-12-10,tariffs
+TZA,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,4.79,% of monthly GNI per capita,2025,2025-12-10,tariffs
+UGA,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,10.88,% of monthly GNI per capita,2022,2025-12-10,tariffs
+UGA,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,7.09,% of monthly GNI per capita,2023,2025-12-10,tariffs
+UGA,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,6.43,% of monthly GNI per capita,2024,2025-12-10,tariffs
+UGA,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,6.07,% of monthly GNI per capita,2025,2025-12-10,tariffs
+ZAF,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,3.67,% of monthly GNI per capita,2022,2025-12-10,tariffs
+ZAF,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,3.69,% of monthly GNI per capita,2023,2025-12-10,tariffs
+ZAF,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,3.27,% of monthly GNI per capita,2024,2025-12-10,tariffs
+ZAF,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,1.27,% of monthly GNI per capita,2025,2025-12-10,tariffs
+ZMB,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,4.71,% of monthly GNI per capita,2022,2025-12-10,tariffs
+ZMB,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,3.02,% of monthly GNI per capita,2023,2025-12-10,tariffs
+ZMB,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,2.71,% of monthly GNI per capita,2024,2025-12-10,tariffs
+ZMB,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,3.18,% of monthly GNI per capita,2025,2025-12-10,tariffs
+ZWE,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,50.28,% of monthly GNI per capita,2022,2025-12-10,tariffs
+ZWE,infra.connect--mobile-affordability,itu-price-basket-5gb-gni,12.92,% of monthly GNI per capita,2023,2025-12-10,tariffs
 AGO,infra.connect--mobile-penetration,itu-sdg-5b1-mobile-ownership-10plus,78.6,% of people 10+,2014,2026-06-30,survey
 AGO,infra.connect--mobile-penetration,itu-sdg-5b1-mobile-ownership-10plus,52.9,% of people 10+,2020,2026-06-30,estimate
 AGO,infra.connect--mobile-penetration,itu-sdg-5b1-mobile-ownership-10plus,55,% of people 10+,2021,2026-06-30,estimate
