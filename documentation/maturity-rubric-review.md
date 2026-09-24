@@ -152,3 +152,35 @@ The date is what makes a new figure a dated cause under the stability rule.
 **Bill ruled 2026-09-24: keep the on-budget share** (`maturity-assessment.md` §2). CC's recommendation, for the record: keep the partner-financing row as redefined — the on-budget share. It is a different fact from the sustainability share, not the same one twice. It is also the standard aid-effectiveness measure, and its coverage grows with the budget-extract queue. Retiring it instead changes the published counts to 116 for a row that costs nothing to carry as *No evidence*. The 85 % line is being checked against the Paris text in the vintage pass.
 
 **On CC's side, recorded here so the leg reads whole.** The band is computed by script from the value and the cuts; it is a ceiling the drafter's stage may not exceed, and a compound anchor or the secondary execution test may hold the stage below it. Stage 5 needs the band's top and its condition. Quintile cuts are computed once, from the baseline's figures across all units, and written into the lookup with their year. Measures are due for every unit regardless of mapping, and *No evidence* for a measure means no figure of the definition in the base or the reference. The reference figures are pulled into Corpus as data (task C5, new). The vintages are recorded below when the check returns.
+
+### Measures — the reference vintages, and three more items (2026-09-24)
+
+**Checked 2026-09-24** (a web research pass, official APIs where the portals refuse scripts; coverage is African countries with a value in the latest five years):
+
+| reference | route | latest release | data year | African coverage |
+|---|---|---|---|---|
+| ITU mobile-phone ownership (SDG 5.b.1, **ages 10+**) | UN SDG API `IT_MOB_OWN` | SDG DB 2026.Q2 | 2024 | 51, mostly ITU estimates |
+| Internet use (SDG 17.8.1) | WDI `IT.NET.USER.ZS` | 13 Jul 2026 | 2024 | 52 |
+| ICT skills (SDG 4.4.1) | UN SDG API `SE_ADT_ACTS` | 2026.Q2 | 2024 | 10 |
+| Internet use by sex / by area | SDG API `IT_USE_ii99`; Data360 `ITU_DH` | 2026.Q2 / Apr 2026 | 2024 | 10 / 9 |
+| International bandwidth per user | Data360 `INT_BAND_PER_USR` | 3 Apr 2026 | 2023 | 46 |
+| ITU price baskets | ITU workbook 2008–2025 | 10 Dec 2025 | 2025 | 51; **5 GB is the official data basket from 2025**, 2 GB ran 2021–24 |
+| Rural electricity access | WDI `EG.ELC.ACCS.RU.ZS` | 13 Jul 2026 | 2024 | 52 |
+| Outages in a typical month | WDI `IC.ELC.OUTG` (Enterprise Surveys) | 13 Jul 2026 | 2025 | about 49 |
+| Secondary schools with internet (4.a.1) | UIS `SCHBSP.2T3.WINTERN` | Feb 2026 | 2025 | 28 |
+| STEM share of tertiary graduates | UIS `FOSGP.5T8.F500600700` | Feb 2026 | 2025 | 20 |
+| Employment in ISIC J | ILOSTAT `EMP_TEMP_SEX_ECO_NB_A` | live | 2025 | 36 |
+| Value added in ISIC J | UN Main Aggregates / UNCTADstat | Jan 2026 | 2024 | **0: J is not separated** |
+| GDP, current USD | WDI `NY.GDP.MKTP.CD` | 13 Jul 2026 | 2025 | 52 |
+| Population | UN WPP 2024 | Jul 2024 | est. to 2023 | 54 |
+| ID ownership, adults 15+ | ID4D 2025 (Findex) | Mar 2026 | 2024 | 37 (qualifier only, as drafted) |
+
+**The 85 % line is verified**: Paris Declaration indicator 3, "with at least 85% reported on budget" (OECD/LEGAL/5017), carried word for word as GPEDC's 2012 indicator 6. The 2022 GPEDC framework keeps an on-budget indicator with no number. So the reference should read *Paris Declaration indicator 3 (2005), as carried by GPEDC 2012 indicator 6*.
+
+**6. `mobile-penetration`: the definition that exists is 10+.** ITU's series (SDG 5.b.1) counts individuals aged 10 and over. Under the strict-definition rule, a 15+ row reads *No evidence* in the 51 countries ITU covers and stands only where a national survey happens to cut at 15. Make the value ITU's definition (10+). The UMC's 15+ goes to the qualifier where a survey gives it.
+
+**7. `mobile-affordability`: the 5 GB basket.** ITU replaced the 2 GB data-only basket with a 5 GB one from 2025. Price per GB from the current official basket keeps the row on the series ITU maintains, and the DTS line (US$10 per GB) is unchanged. A 2 GB figure from 2021–24 is a different basket and goes in the qualifier.
+
+**8. `tech.industry`: no reference exists for ISIC J value added.** The UN aggregates fold J into *other activities*, so the row stands only where a statistics office publishes section J, and it will not reach fifteen countries. Either keep it, with provisional cuts, as *No evidence* nearly everywhere, or re-point it at a figure that exists. **CC's recommendation is the second**: ICT service exports as a share of service exports (WDI `BX.GSR.CCIS.ZS`, from UNCTAD and the IMF), which reads production capacity in the part of the sector that trades and covers most of the continent. The DTS manufacturing condition stays at stage 5. Cowork drafts whichever reads better against the norm.
+
+**Accepted as they fall**: SDG 4.4.1 (10 countries), gender (10) and the urban–rural ratio (9) will read *No evidence* in most of the continent. That is the truthful position and what the base's own survey primaries can improve on. Item 2's provisional cuts cover the gender quintiles.
