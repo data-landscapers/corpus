@@ -1,11 +1,11 @@
 ---
 title: West Africa — monthly update, August – September 2026
-compiled: 2026-09-24
-period: 2026-08-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2026-08-01 to 2026-09-25
 place: XWA
-ledger_rows: 38
+ledger_rows: 40
 not_held: 1
-record: 45b6c4330d91
+record: 7dae25980972
 ---
 
 # West Africa: monthly update, August – September 2026
@@ -30,6 +30,8 @@ The ECOWAS Commission [installed General Birame Diop as its new president on 31 
 Officials from ten member states [validated the orientations of a revised postal-sector Directive and the outline of a Regional Postal Master Plan 2027-2030 at Lomé on 12-13 August](https://www.ecowas.int/ecowas-advances-harmonisation-of-the-regional-postal-sector-regulatory-framework/), naming digital transformation, e-commerce, universal-service modernisation, consumer protection and financial inclusion as priority areas. The meeting was an expert validation rather than an adoption, and consultations with member states continue with neither text published.
 
 The [third Mano River Union Internet Governance Forum met in Paynesville on 21-22 September](https://owlpress-sl.com/hon-mariama-bangura-calls-for-stronger-digital-laws-at-mru-internet-governance-forum-2026/), where a Sierra Leonean MP called for harmonised legislation on artificial intelligence across Liberia, Sierra Leone, Guinea and Côte d'Ivoire; no communique or instrument is published.
+
+The three Sahel states' telecoms regulators [announced a cooperation convention for signing in Ouagadougou on 25 September, creating a permanent Sahel regulators' council to coordinate roaming inside the AES, consumer protection, cybersecurity, spectrum and mutual recognition of type-approved equipment](https://lefaso.net/spip.php?article149443). The notice is one regulator's own; the signing is not yet on record.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 
@@ -65,6 +67,8 @@ Domain-name practitioners [announced an initiative to coordinate country-code do
 The ECOWAS Regional AI Governance Framework, resolved at a Lagos thematic dialogue in January, remains undrafted six months on: no draft text, drafting body or timetable is held. A four-country comparative study presented on 10 August [found none of Benin, Senegal, Cote d'Ivoire or Burkina Faso holds AI-specific legislation in force or in draft](https://grain-africa.org/en/intelligence-artificielle-en-afrique-de-louest-grain-presente-les-resultats-dune-etude-comparative-pour-une-gouvernance-plus-inclusive-et-responsable-de-lia/), rating Cote d'Ivoire's strategy the most advanced of the four on inclusion and data governance and finding Burkina Faso's data-protection law the only one of the four to name AI-based processing.
 
 The monetary union's Commission has a draft of its own. [It presented a regional AI strategy to journalists on 14 September](https://www.horonyafinance.com/intelligence-artificielle-luemoa-prepare-une-strategie-regionale-pour-accelerer-la-transformation-economique-de-lunion/), built on four pillars from governance and regulation to innovation finance, with regional compute centres, a sovereign cloud, a regional AI academy and an innovation fund among its instruments; no adoption date or published text is held.
+
+Electoral administration opened a third track. The ECOWAS political affairs directorate [has set up, through the network of electoral commissions, a West Africa Working Group on AI to develop a framework guiding election management bodies on its use](https://thenationonlineng.net/ecowas-high-cost-of-politics-shutting-out-west-african-youths/), its director said on 23 September; the working group's establishment date, membership and timetable are not stated.
 <!-- /narrative -->
 
 ## Shared systems and infrastructure
@@ -120,7 +124,9 @@ ECOWAS member states [began validating a practical guide for population and hous
 ### Innovation ecosystem
 
 <!-- narrative: coordination--tech-innovate -->
-The Commission's private sector and industry directorate [launched a second edition of the ECOWAS Startup Awards, announced at Abuja on 17 August](https://dailytrust.com/ecowas-unveils-2nd-regional-startup-awards-to-drive-innovation-youth-employment/), offering scaling technology-led businesses managerial training, venture funding and cross-border expansion support within the continental free trade area. The announcement was a press briefing; no prize fund, entry deadline, cohort size or outcome from the first edition is published.
+The Commission's private sector and industry directorate [launched a second edition of the ECOWAS Startup Awards, announced at Abuja on 17 August](https://dailytrust.com/ecowas-unveils-2nd-regional-startup-awards-to-drive-innovation-youth-employment/), offering scaling technology-led businesses managerial training, venture funding and cross-border expansion support within the continental free trade area. The announcement was a press briefing and published no rules.
+
+The edition opened on 21 September: [60 startups selected from more than 6,000 applications began a ten-day programme at the Commission's Abuja headquarters, with a US$5 million target for investment and business deals, seed prizes of US$30,000, US$20,000 and US$15,000 and a planned digital Private Sector Development Academy](https://msmeafricaonline.com/ecowas-targets-5m-in-startup-deals-launches-regional-platform-to-scale-60-west-african-businesses/). The finals fall on 30 September and no outcome is yet held.
 <!-- /narrative -->
 
 ## Capacity and inclusion
