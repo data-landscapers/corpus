@@ -52,6 +52,7 @@ from __future__ import annotations
 import argparse
 import io
 import os
+import glob
 import re
 import sys
 
@@ -61,7 +62,10 @@ HOUSEKEEPING = "housekeeping-jobs.md"
 NOTES = "notes-for-osint.md"
 NOTES_RESOLVED = "notes-for-osint-resolved.md"
 RESOLVED = "housekeeping-jobs-resolved.md"
-REGISTER = "strategic-review-register.md"
+# The review registers, read together: numbering continues across reviews, so an R-line names one line
+# in whichever file holds it. They moved into `strategic-reviews/` on 2026-09-25 (share `cbeb6c5`), and
+# the root path this read until then no longer existed, so every R-line closer read as unknown.
+REGISTERS = ("strategic-review-register.md", "strategic-reviews/strategic-review-register*.md")
 
 JOB_DIR = re.compile(r"^job-(\d+(?:-\d+)*)$")
 NOTE_DIR = re.compile(r"^note-(\d+)$")
@@ -216,7 +220,9 @@ def main(argv=None) -> int:
 
     src = {"open": _read(os.path.join(a.share, HOUSEKEEPING)),
            "resolved": _read(os.path.join(a.share, RESOLVED)),
-           "register": _read(os.path.join(a.share, REGISTER)),
+           "register": "\n".join(_read(p) for g in REGISTERS
+                                   for p in sorted(glob.glob(os.path.join(a.share, g)))
+                                   if "-comments-" not in os.path.basename(p)),
            "notes": _read(os.path.join(a.share, NOTES)),
            "notes_resolved": _read(os.path.join(a.share, NOTES_RESOLVED))}
 

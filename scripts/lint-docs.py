@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """lint-docs.py — every process and documentation file names its reader, and stays under that reader's cap.
 
-    python scripts/lint-docs.py                 # Corpus: root *.md and documentation/*.md
+    python scripts/lint-docs.py                 # root *.md, documentation/*.md, wiki/*.md
     python scripts/lint-docs.py --report        # list breaches, exit 0
     python scripts/lint-docs.py --root C:\\X --glob "*.md" --glob "wiki/*.md" --caps path\\to\\global-claude.md
 
@@ -11,8 +11,10 @@ whole, by the class its `type:` falls in; a Bill file is capped per part: preamb
 register annotation. A missing `reader:` fails, and so does a CC file whose `type:` is in no class,
 because a file with no class has no cap.
 
-**The reader is in frontmatter, or on the first line as `<!-- reader: … -->`** where frontmatter would
-show, as on a public README. Words are counted outside frontmatter, fenced code and HTML comments.
+**The reader is in frontmatter, or on the first line as `<!-- reader: cc; type: runbook -->`** where
+frontmatter would show (a public README) or would change what a parser makes of the file (OSINT's
+process files and wiki specs, which carry none). The cap table is read from
+`documentation/global-claude.md`, or from the root `CLAUDE.md` where that file is absent (OSINT). Words are counted outside frontmatter, fenced code and HTML comments.
 `documentation/archived/` is the record and is not read.
 
 Exit 0 clean (or `--report`), 1 on any breach, 2 when the cap table cannot be read.
@@ -26,11 +28,17 @@ import re
 import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.realpath(os.path.abspath(__file__))))
-CAPS = os.path.join(ROOT, "documentation", "global-claude.md")
-GLOBS = ["*.md", "documentation/*.md"]
+def caps_for(root: str) -> str:
+    """The cap table's file for a tree: `documentation/global-claude.md`, else the root `CLAUDE.md`."""
+    here = [os.path.join(root, "documentation", "global-claude.md"), os.path.join(root, "CLAUDE.md")]
+    return next((p for p in here if os.path.exists(p)), here[0])
+
+
+CAPS = caps_for(ROOT)
+GLOBS = ["*.md", "documentation/*.md", "wiki/*.md"]
 
 FM = re.compile(r"\A---\r?\n(.*?)\r?\n---\r?\n", re.S)
-FIRST_LINE = re.compile(r"\A<!--\s*reader:\s*(\w+)\s*-->")
+FIRST_LINE = re.compile(r"\A<!--\s*(reader:[^>]*?)\s*-->")
 CODE = re.compile(r"^```.*?^```", re.S | re.M)
 COMMENT = re.compile(r"<!--.*?-->", re.S)
 ROW = re.compile(r"^\|\s*(cc|bill)\s*\|\s*([a-z-]+)\s*\|\s*([^|]*)\|\s*([\d,]+) words\s*\|\s*$", re.M)
@@ -71,7 +79,10 @@ def split(text: str) -> tuple[dict, str]:
     else:
         first = FIRST_LINE.match(text)
         if first:
-            fields["reader"] = first.group(1)
+            for pair in first.group(1).split(";"):
+                k, _, v = pair.partition(":")
+                if v.strip():
+                    fields[k.strip()] = v.strip()
     body = COMMENT.sub(" ", CODE.sub(" ", body))
     return fields, body
 
@@ -123,13 +134,13 @@ def main(argv=None) -> int:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--root", default=ROOT)
     ap.add_argument("--glob", action="append", help="relative to --root; repeatable (default: root and documentation/)")
-    ap.add_argument("--caps", default=CAPS, help="the file holding the cap table")
+    ap.add_argument("--caps", help="the file holding the cap table (default: found under --root)")
     ap.add_argument("--report", action="store_true", help="list breaches and exit 0")
     a = ap.parse_args(argv)
     if hasattr(sys.stdout, "reconfigure"):
         sys.stdout.reconfigure(encoding="utf-8", errors="replace")
     try:
-        cc, bill = load_caps(a.caps)
+        cc, bill = load_caps(a.caps or caps_for(a.root))
     except (OSError, ValueError) as e:
         print(f"lint-docs: cannot read the cap table - {e}")
         return 2

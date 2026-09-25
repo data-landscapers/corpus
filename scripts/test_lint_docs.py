@@ -38,7 +38,8 @@ with tempfile.TemporaryDirectory() as tmp:
         "long-runbook.md": "---\ntype: procedure\nreader: cc\n---\n" + "word " * 11,
         "no-reader.md": "---\ntype: spec\n---\nshort\n",
         "no-class.md": "---\ntype: essay\nreader: cc\n---\nshort\n",
-        "bill-ok.md": "<!-- reader: bill -->\n# Title\nfive words in the preamble\n## Part\n- a short bullet here\n",
+        "osint-style.md": "<!-- reader: cc; type: runbook -->\n# Pass\n" + "word " * 12,
+        "bill-ok.md":"<!-- reader: bill -->\n# Title\nfive words in the preamble\n## Part\n- a short bullet here\n",
         "bill-long.md": "---\nreader: bill\n---\none two three four five six seven eight nine\n## Part\n"
                         "- one two three four five six seven\n- *Done 2026-09-25: one two three four five.*\n",
     }
@@ -54,6 +55,7 @@ with tempfile.TemporaryDirectory() as tmp:
     case("a missing reader fails", "no-reader.md: no `reader:" in o)
     case("a cc type in no class fails", "no-class.md: reader cc, `type: essay` is in no class" in o)
     case("a first-line reader comment is read", "bill-ok.md" not in o)
+    case("the comment form carries type: too", "osint-style.md: 14 words, over the cc runbook cap of 10" in o)
     case("a bill preamble over its cap fails", "bill-long.md: preamble 9 words" in o)
     case("a bill block over its cap fails", "bill-long.md: block of 7 words" in o)
     case("a register annotation over its cap fails", "bill-long.md: annotation of 7 words" in o)
