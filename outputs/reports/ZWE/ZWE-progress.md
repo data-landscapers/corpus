@@ -1,12 +1,12 @@
 ---
 title: Zimbabwe — progress report, September 2025 – September 2026
-compiled: 2026-09-24
-period: 2025-09-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2025-09-01 to 2026-09-25
 place: ZWE
 ledger_rows: 311
 not_held: 7
 indicators: 123
-record: e1e31430e03e
+record: ef8b3049968b
 ---
 
 # Zimbabwe: progress report, September 2025 – September 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the repository holds nothing on that indicator. **That is a statement about this repository, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-09-01 to 2026-09-24.*
+*The period is 2025-09-01 to 2026-09-25.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the repository holds a standing position and nothing in the period touched it. ***No evidence*** — the repository holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Movement, regulations still pending*.
 
@@ -214,4 +214,6 @@ Where a row reads ***No evidence***, the repository holds nothing on that indica
 | ICT Policy 2026-2030 | The policy document, or a gazette notice or ministry release announcing it; the repository carries only the statistics agency's director-general naming it on 2026-07-20 as a framework the household survey will inform | 2026-08-06 |
 | Regulator's Q1 2026 sector performance report | The regulator's own quarterly report; the repository holds the Q4 2025 report in full but carries Q1 2026 only through a news account of a post-Cabinet briefing, so the 379 base stations, the 19,000 km backbone and the 57.28% traffic rise are all secondary and no per-operator table exists to check them against | 2026-08-06 |
 | National Cybersecurity Strategy document | The strategy itself; the repository holds a one-minute report of the October 2025 launch and nothing else — no objectives, institutional arrangements, timetable or budget, and no subsequent milestone | 2026-08-06 |
+| Source code, operating skills and exit for the e-passport and identity systems | The build, own, operate and transfer agreement with Garsu Pasaulis, or a Registrar-General or audit statement on source-code ownership, privileged access and exit terms. | 2026-09-25 |
+| Rule on where state data is hosted | The data sovereignty instruments the ICT ministry listed as needed in May 2026, or a gazetted government cloud or hosting policy. | 2026-09-25 |
 
