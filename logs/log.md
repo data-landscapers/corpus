@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-09-25 07:50 · **BUDGET-EXTRACT** · 29m · MUS FY2024-2026: 172 lines; FY2024 across every vote from the Accountant-General's statement, FY2025-26 from the held chapters only
 2026-09-25 07:49 · **BUDGET-EXTRACT** · 10m · Corrections: ZAF holds all 41 Stats SA sub-programmes; SYC, MDG, NAM, CAF brought under the in-house IT rule
 2026-09-25 07:45 · **BUDGET-EXTRACT** · 14m · SOM FY2024-2026: 22 lines from the appropriation acts, 2026 programme budget and audited statements; share 13.1%, 10.4%, 15.4%
 2026-09-25 07:41 · **BUDGET-EXTRACT** · 24m · CPV FY2024-2026: 31 lines from the budget laws' Mapa VII and consigned revenues, FY2024 revised and actual from the general account; share 61.1%, 96.0%, 98.3%
