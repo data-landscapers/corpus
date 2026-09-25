@@ -1,11 +1,11 @@
 ---
 title: Egypt — monthly update, August – September 2026
-compiled: 2026-09-24
-period: 2026-08-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2026-08-01 to 2026-09-25
 place: EGY
-ledger_rows: 126
+ledger_rows: 131
 not_held: 45
-record: 80944b349d05
+record: 7411270ae871
 ---
 
 # Egypt: monthly update, August – September 2026
@@ -139,6 +139,8 @@ The procurement authority told the prime minister on 2 September that it is [bui
 The justice ministry's [E-Court platform went live on 31 August for first-instance criminal courts, charging lawyers EGP 500 a year, EGP 500 per remote felony hearing and EGP 10 a page for case-file copies](https://manassa.news/en/news/33836), with [EGP 100 for detention renewals](https://www.shorouknews.com/news/view.aspx?cdate=08092026&id=bdee860b-5577-416e-be32-2bf2085c6952). Lawyers [asked the Administrative Judiciary Court to annul the fees as not set by statute](https://www.safha1.com/15703), and the ministry [replied that use is optional and was requested by the bar](https://www.youm7.com/story/2026/9/14/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B9%D8%AF%D9%84-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D8%B6%D9%8A-%D8%B9%D9%86-%D8%A8%D8%B9%D8%AF-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D9%8B%D8%A7-%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A6%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF/7546339).
 
 The finance ministry [began surveying road-freight companies at land ports to link them to Nafeza, the single window already used for sea and air cargo](https://enterpriseam.com/logistics/2026/09/14/egypts-govt-is-bringing-overland-freight-into-nafeza-for-the-first-time-closing-a-gap-in-trade-digitization/), with consolidated land bills of lading and pre-arrival cargo data planned. The account rests on unnamed officials, and no timetable is set.
+
+On 23 September the agriculture ministry's spokesman [said its digital register of agricultural holdings ties each holding to the crop actually grown across about 4.4 million farmer cards, to target subsidised fertiliser and record encroachment on farmland](https://www.youm7.com/story/2026/9/23/%D9%85%D8%AA%D8%AD%D8%AF%D8%AB-%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D8%A9-%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D9%84%D8%AD%D8%B5%D8%B1-%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%B2%D8%A7%D8%AA-%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D9%8A%D8%A9-%D9%88%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D9%85%D8%B2%D8%A7%D8%B1%D8%B9%D9%8A%D9%86/7556116). No launch date or coverage of all holdings was given.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -152,6 +154,8 @@ A [cooperation protocol signed on 13 August between the justice and investment m
 The prime minister said on 3 September that [faults in the unified electricity platform and discrepancies in prepaid-meter readings are a government priority and that remedial steps will be announced transparently](https://www.youm7.com/story/2026/9/3/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D9%84%D9%80-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D8%B9-%D8%B3%D8%A3%D8%B9%D9%82%D8%AF-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D8%A7-%D9%85%D8%B9-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1/7535176), the question put to him describing the platform as having stopped working. The operator has published no outage notice, fault count or restoration date.
 
 At its UN award shortlisting the services platform [reported 12.9 million registered citizens, more than 240 services and about 60 million transactions, integrated with 109 government entities](https://www.maspero.eg/economy/2026/09/09/987902/%D9%85%D9%86%D8%B5%D8%A9-%D9%85%D8%B5%D8%B1-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D8%AA%D8%AA%D8%A3%D9%87%D9%84-%D9%84%D9%84%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A7%D9%84%D9%86%D9%87%D8%A7%D8%A6%D9%8A%D8%A9-%D9%84%D8%AC%D9%88%D8%A7%D8%A6%D8%B2-%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D9%84_%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A), the ministry's own figures. The prosecution [put five personal-status documents - marriage, divorce and acknowledgement records - on its portal on 10 September, behind the national digital identity](https://www.youm7.com/story/2026/9/10/%D8%A7%D9%84%D9%86%D9%8A%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9-%D8%AA%D8%B7%D9%84%D9%82-%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA%D8%AE%D8%B1%D8%A7%D8%AC-%D9%88%D8%AB%D8%A7%D8%A6%D9%82-%D8%A7%D9%84%D8%AD%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9-%D8%B9%D8%A8%D8%B1-%D8%A8%D9%88%D8%A7%D8%A8%D8%AA%D9%87%D8%A7/7541763), and the environment ministry [launched IDEIA on 1 September, moving environmental impact assessment applications, review and approval online](https://www.youm7.com/story/2026/9/1/وزيرة-البيئة-تطلق-منظومة-تقييم-التأثير-البيئي-الرقمية-المتكاملة-IDEIA/7532879).
+
+The investment ministry's digital transformation aide [described a capital-increase platform linking the eight government bodies involved, from the investment authority to the commercial registry and central depository, with digital-identity log-in, remote signing and e-passport checks on foreign investors](https://www.youm7.com/story/2026/9/22/%D9%85%D8%B3%D8%A7%D8%B9%D8%AF-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1-%D9%85%D9%86%D8%B5%D8%A9-%D9%84%D8%B2%D9%8A%D8%A7%D8%AF%D8%A9-%D8%B1%D8%A4%D9%88%D8%B3-%D8%A7%D9%84%D8%A3%D9%85%D9%88%D8%A7%D9%84-%D8%AA%D8%B1%D8%A8%D8%B7-8-%D8%AC%D9%87%D8%A7%D8%AA/7554140) on 22 September. No transaction count or go-live date was given.
 <!-- /narrative -->
 
 ## Digitalisation
@@ -172,6 +176,8 @@ The [second edition of the national artificial-intelligence strategy is unchange
 On 8 September the communications minister attended a Cairo ceremony at which [Vodafone Business, Elsewedy Electric and Cassava Technologies undertook to establish Africa Data Centres Egypt and the country's first sovereign artificial-intelligence data centre](https://www.maspero.eg/economy/2026/09/08/987328/%DA%A4%D9%88%D8%AF%D8%A7%D9%81%D9%88%D9%86-%D9%88%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D9%8A-%D9%88%D9%83%D8%A7%D8%B3%D8%A7%D9%81%D8%A7-%D8%AA%D8%A4%D8%B3%D8%B3%D9%88%D9%86-%D8%A3%D9%83%D8%A8%D8%B1-%D9%85%D8%B1%D9%83%D8%B2-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%88%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1), the state framing both as localising advanced technology and hosting and processing data domestically. No site, date or capacity for the AI centre is stated.
 
 The cabinet information centre put those who had heard of artificial-intelligence applications at [65% in 2026 against 22% in 2023, work the leading use at 51.7% ahead of personal use and study, with about 94% of users rating the accuracy of the answers they get](https://www.youm7.com/story/2026/9/7/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D9%88%D8%B9%D9%8A-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%8A%D9%82%D9%81%D8%B2-%D9%85%D9%86-22-%D9%84%D9%8065/7538408). Sample size, method and margin are not stated.
+
+The national AI council [adopted the strategy's achievements report for the first half of 2026, reviewed the outlines of a National Quantum Computing Strategy 2027-2030, and covered government procurement guidelines for AI systems, generative-AI guidelines for government and Safe Use Guidelines for AI Applications for Children](https://techafricanews.com/2026/09/25/egypt-ai-council-national-ai-strategy-quantum-computing/), reported on 25 September. None of the guidelines is stated as adopted or published.
 <!-- /narrative -->
 ### ICT Industry
 
