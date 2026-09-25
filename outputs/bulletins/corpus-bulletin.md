@@ -1,12 +1,12 @@
 ---
 type: bulletin
 title: Bulletin
-subtitle: Last updated 24-09-2026 at 21:15 — Covering sources published on 24 September 2026
-window_start: 2026-09-24
-window_end: 2026-09-24
-items: 33
-collected_to: 2026-09-24 21:15
-compiled: 2026-09-24 21:45
+subtitle: Last updated 25-09-2026 at 20:23 — Covering sources published on 25 September 2026
+window_start: 2026-09-25
+window_end: 2026-09-25
+items: 40
+collected_to: 2026-09-25 20:23
+compiled: 2026-09-25 20:46
 ---
 
 # Bulletin
@@ -28,6 +28,8 @@ compiled: 2026-09-24 21:45
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#inclusion">Inclusion</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data">Data</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#geopolitics">Geopolitics</a>
 </nav>
 
@@ -37,23 +39,30 @@ compiled: 2026-09-24 21:45
 <option value="">All countries and regions</option>
 <optgroup label="Regions">
 <option value="XAF">Africa</option>
+<option value="XCA">Central Africa</option>
+<option value="XSS">Sub-Saharan Africa</option>
+<option value="XWA">West Africa</option>
 </optgroup>
 <optgroup label="Countries">
-<option value="CPV">Cape Verde</option>
-<option value="TCD">Chad</option>
+<option value="AGO">Angola</option>
+<option value="BFA">Burkina Faso</option>
 <option value="CIV">Côte d'Ivoire</option>
 <option value="EGY">Egypt</option>
-<option value="SWZ">Eswatini</option>
-<option value="ETH">Ethiopia</option>
+<option value="GNQ">Eq. Guinea</option>
+<option value="GAB">Gabon</option>
 <option value="GMB">Gambia</option>
 <option value="GHA">Ghana</option>
-<option value="KEN">Kenya</option>
 <option value="LBR">Liberia</option>
+<option value="MLI">Mali</option>
 <option value="NGA">Nigeria</option>
+<option value="RWA">Rwanda</option>
 <option value="SEN">Senegal</option>
+<option value="SLE">Sierra Leone</option>
 <option value="ZAF">South Africa</option>
+<option value="TZA">Tanzania</option>
+<option value="TGO">Togo</option>
+<option value="TUN">Tunisia</option>
 <option value="UGA">Uganda</option>
-<option value="ZWE">Zimbabwe</option>
 </optgroup>
 </select>
 <span class="bulletin-filter__count" aria-live="polite"></span>
@@ -63,27 +72,35 @@ compiled: 2026-09-24 21:45
 
 ### Strategies, plans and policies
 
-<div class="bulletin-item" data-places="KEN" markdown="1">
+<div class="bulletin-item" data-places="XAF" markdown="1">
 
-**[UNGA81: Kenya joins global leaders to promote children's rights in the Age of AI](https://techreviewafrica.com/news/7445/)** — Tech Review Africa, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
+**[UNGA81: Smart Africa CEO advocates for affordability to be treated as economic and fiscal priority](https://techreviewafrica.com/news/7462/unga81-smart-africa-ceo-advocates-for-affordability-to-be-treated-as-economic-and-fiscal-priority)** — TechReviewAfrica, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
 
-President Ruto co-hosted the launch of a 2026-2027 Roadmap for Children's Rights and Protection in the Age of AI at the UN General Assembly, alongside the leaders of France, Spain and Australia. Kenya's technology envoy Philip Thigo said Kenya would take the work forward at home, across Africa and globally. <span class="bulletin-item__also">*Also under [AI](#ai).*</span>
-
-</div>
-
-<div class="bulletin-item" data-places="SEN" markdown="1">
-
-**[Senegal's Digital Ministry and Sonatel structure joint contribution to New Deal Technologique](https://techreviewafrica.com/news/7400/)** — Tech Review Africa, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SEN/" title="SEN">Senegal</a>
-
-After a week-long workshop, Senegal's digital ministry and Sonatel set out a package of initiatives for Sonatel's contribution to the New Deal Technologique, covering infrastructure, e-government, the digital economy and services for citizens and businesses. Minister Samba Diouf asked other operators, banks, fintechs and startups to bring forward contributions of their own, with timelines and monitoring. <span class="bulletin-item__also">*Also under [Other GovTech and e-Gov](#other-govtech-and-e-gov).*</span>
+Smart Africa's chief executive Lacina Koné told a GSMA and Partnership for Digital Access in Africa summit on the sidelines of UNGA81 that affordability should be treated as an economic and fiscal policy priority, not only a telecoms matter. The roundtable addressed the goal of bringing one billion Africans into meaningful digital participation by 2030. <span class="bulletin-item__also">*Also under [Access to services](#access-to-services).*</span>
 
 </div>
 
-<div class="bulletin-item" data-places="CIV" markdown="1">
+<div class="bulletin-item" data-places="SLE" markdown="1">
 
-**[Cote d'Ivoire targets emerging technologies to drive growth and digital sovereignty](https://techreviewafrica.com/news/7410/)** — Tech Review Africa, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/CIV/" title="CIV">Côte d'Ivoire</a>
+**[UNGA81: Sierra Leone unveils Open Source Policy to address digital fragmentation and vendor lock-in](https://techreviewafrica.com/news/7450/)** — Tech Review Africa, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SLE/" title="SLE">Sierra Leone</a>
 
-Launching Ivoire Tech Forum 2026, to be held in Abidjan on 11-13 November, digital minister Djibril Ouattara announced a startup labelling platform that will give labelled startups access to the country's fiscal incentives. He also named connectivity, administrative digitalisation and digital skills as priorities. <span class="bulletin-item__also">*Also under [Innovation ecosystem](#innovation-ecosystem).*</span>
+Sierra Leone's communications ministry presented a new open source policy at a UNICEF event on the sidelines of UNGA81, as its answer to duplicated government systems, rising proprietary costs, systems that cannot interoperate and vendor lock-in. The policy's text, adoption date and instrument were not given. <span class="bulletin-item__also">*Also under [Other GovTech and e-Gov](#other-govtech-and-e-gov).*</span>
+
+</div>
+
+<div class="bulletin-item" data-places="TZA" markdown="1">
+
+**[Robust policies, plans and collaboration drive Tanzania's communications sector](https://www.thecitizen.co.tz/tanzania/supplement/robust-policies-plans-and-collaboration-drive-tanzania-s-communications-sector-5608712)** — The Citizen, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TZA/" title="TZA">Tanzania</a>
+
+Tanzania's regulator TCRA reported that mobile-network fraud reports fell 69% between September 2023 and June 2026, from 23,328 to 7,334 cases. Mobile money accounts rose from 32.7 million in March 2021 to 87.0 million in June 2026, and only 15.4% of the country's 17,690 Gbps of international capacity was in use. <span class="bulletin-item__also">*Also under [Connectivity](#connectivity), [Digital Payments and Fintech](#digital-payments-and-fintech) and [Cybersecurity](#cybersecurity).*</span>
+
+</div>
+
+<div class="bulletin-item" data-places="EGY" markdown="1">
+
+**[Egypt AI Council Reviews National AI Strategy Progress, Quantum Computing Plans](https://techafricanews.com/2026/09/25/egypt-ai-council-national-ai-strategy-quantum-computing/)** — Tech Africa News, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/EGY/" title="EGY">Egypt</a>
+
+Egypt's National Council for AI adopted the first-half 2026 progress report on the National AI Strategy 2025-2030 and reviewed the outline of a National Quantum Computing Strategy 2027-2030. It also discussed guidelines on government AI procurement, generative AI in government and the safe use of AI applications by children. <span class="bulletin-item__also">*Also under [AI](#ai) and [Data protection](#data-protection).*</span>
 
 </div>
 
@@ -91,95 +108,209 @@ Launching Ivoire Tech Forum 2026, to be held in Abidjan on 11-13 November, digit
 
 <div class="bulletin-item" data-places="LBR" markdown="1">
 
-**[Justice Ministry Pressed to Clarify Cybercrime Act Enforcement](https://www.thenewdawnliberia.com/justice-ministry-pressed-to-clarify-cybercrime-act-enforcement/)** — The New Dawn Liberia, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/LBR/" title="LBR">Liberia</a>
+**[Liberia: Senator Dopoh Backs Enforcement of Cybercrimes Law, Advances Recommendations For Smooth Implementation](https://frontpageafricaonline.com/liberia-senator-dopoh-backs-enforcement-of-cybercrimes-law-advances-recommendations-for-smooth-implementation/)** — FrontPage Africa, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/LBR/" title="LBR">Liberia</a>
 
-Nimba County Senator Nya Twayen asked Liberia's Justice Ministry to publish enforcement guidelines for the Cybercrime Act of 2025, including clear charging thresholds, to protect free expression and due process. His call follows the arrest and four charges under the Act against Jerry Nyantee Wrato over allegedly manipulated content about the Vice President; Wrato was later freed after court intervention. <span class="bulletin-item__also">*Also under [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking) and [Cybersecurity](#cybersecurity).*</span>
+Senator Francis Dopoh, who chairs the Senate telecoms committee, defended the Cybercrime Act approved by President Boakai on 3 July 2026 as aimed at fraud, harassment and child exploitation rather than free speech. He called on the executive to designate critical national information infrastructure, set up a national cybersecurity centre and a 24/7 emergency response team, publish the Act's regulations within its six-to-twelve-month timeline and fund its implementation. <span class="bulletin-item__also">*Also under [Cybersecurity](#cybersecurity) and [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).*</span>
+
+</div>
+
+<div class="bulletin-item" data-places="LBR" markdown="1">
+
+**[Liberia: Judge Gives Police 'Last Opportunity' in Cybercrime Suspect's Detention Case](https://frontpageafricaonline.com/liberia-judge-gives-police-last-opportunity-in-cybercrime-suspects-detention-case/)** — FrontPage Africa, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/LBR/" title="LBR">Liberia</a>
+
+A Monrovia criminal court gave the police a last opportunity to justify holding Jerry Nyantee Wrato, a suspect under the Cybercrime Act, after no officer appeared for the second time. The judge found the state had not shown the case was lawfully before the court and postponed the habeas corpus hearing to 25 September. <span class="bulletin-item__also">*Also under [Cybersecurity](#cybersecurity) and [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).*</span>
 
 </div>
 
 ### Data protection
 
+<div class="bulletin-item" data-places="TGO MLI" markdown="1">
+
+**[Togo, Mali Data Regulators Agree to Share Expertise](https://www.togofirst.com/en/itc/2509-20170-togo-mali-data-regulators-agree-to-share-expertise)** — Togo First, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TGO/" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MLI/" title="MLI">Mali</a>
+
+Togo's personal data protection authority (IPDCP) and Mali's APDP signed a cooperation agreement on 23 September covering information exchange, joint handling of complaints and compliance checks, and staff training. Their talks also touched on cross-border data transfers, cybersecurity and AI. <span class="bulletin-item__also">*Also under [Regional collaboration](#regional-collaboration).*</span>
+
+</div>
+
+<div class="bulletin-item" data-places="LBR" markdown="1">
+
+**[Liberia: Ten Liberian Civil Society Groups Launch Digital Advocacy and Rights Alliance](https://frontpageafricaonline.com/liberia-ten-liberian-civil-society-groups-launch-digital-advocacy-and-rights-alliance/)** — FrontPage Africa, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/LBR/" title="LBR">Liberia</a>
+
+Ten Liberian civil society organisations, including CENTAL and the Liberia Equality Network, signed a memorandum establishing the Digital Advocacy and Rights Alliance (DARA). The coalition is to work on digital rights, privacy, online safety and digital freedoms. <span class="bulletin-item__also">*Also under [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking), [Cybersecurity](#cybersecurity) and [Digital divides](#digital-divides).*</span>
+
+</div>
+
+<div class="bulletin-item" data-places="GMB" markdown="1">
+
+**[Information Commission trains CSOs on access to information, data protection](https://thepoint.gm/africa/gambia/national-news/information-commission-trains-csos-on-access-to-information-data-protection)** — The Point, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GMB/" title="GMB">Gambia</a>
+
+The Gambia's Information Commission and the UN system opened a three-day workshop on 23 September training civil society organisations on the Access to Information Act and the Personal Data Protection and Privacy Act, both of which the Commission implements. <span class="bulletin-item__also">*Also under [Training and skills](#training-and-skills).*</span>
+
+</div>
+
 <div class="bulletin-item" data-places="NGA" markdown="1">
 
-**[UNGA81: Nigeria highlights data protection and digital infrastructure progress at UNGA81](https://techreviewafrica.com/news/7433/)** — Tech Review Africa, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
+**[How AI deepfakes, cyberstalking endanger women -Experts](https://www.vanguardngr.com/2026/09/how-ai-deepfakes-cyberstalking-endanger-women-experts/)** — Vanguard, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
 
-At UNGA81, Nigeria Data Protection Commission head Vincent Olatunji said personal data used in social protection programmes and social registers must follow the safeguards of the Nigeria Data Protection Act 2023, and called for African datasets built with proper rights protections. Communications minister Bosun Tijani cited the BRIDGE broadband project, which he said is expected to reach more than 20 million Nigerians. <span class="bulletin-item__also">*Also under [Registries](#registries) and [Connectivity](#connectivity).*</span>
-
-</div>
-
-<div class="bulletin-item" data-places="SEN" markdown="1">
-
-**[Senegal: DAF acknowledges cyberattack, assures no data was compromised](https://beninwebtv.bj/en/senegal-daf-acknowledges-cyberattack-assures-no-data-was-compromised/)** — Benin Web TV, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SEN/" title="SEN">Senegal</a>
-
-The director of Senegal's file-automation department (DAF), Ibrahima Dieng, confirmed that the February 2026 incident which halted national identity-card production was a cyberattack, but said the identity-card and electoral files were intact and no personal data was compromised. The Interior Ministry had earlier called it only an incident; a group's claim to have taken 139 terabytes of biometric and immigration data remains unverified. <span class="bulletin-item__also">*Also under [Cybersecurity](#cybersecurity) and [Digital Identity and CRVS](#digital-identity-and-crvs).*</span>
+The RACE Centre opened a two-day training in Abuja for the Feminist Digital Watch Collective on responding to technology-facilitated gender-based violence, including AI-generated deepfakes and cyberstalking. Its AI-enabled tracker, launched two months earlier, has documented about 24,000 human-verified cases across five social media platforms. <span class="bulletin-item__also">*Also under [AI](#ai) and [Digital divides](#digital-divides).*</span>
 
 </div>
 
-<div class="bulletin-item" data-places="NGA" markdown="1">
+<div class="bulletin-item" data-places="ZAF" markdown="1">
 
-**[NDPC Boss Outlines Strategy for Africa's Digital Future](https://von.gov.ng/ndpc-boss-outlines-strategy-for-africas-digital-future/)** — Voice of Nigeria, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
+**[Did you just train your replacement?](https://www.itweb.co.za/article/did-you-just-train-your-replacement/Pero3qZ362BvQb6m)** — ITWeb, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
 
-In a keynote at a Vivacity Development event on the sidelines of UNGA81, Nigeria Data Protection Commission head Vincent Olatunji named regulatory alignment, data sovereignty and trust as the three foundations of Africa's digital economy. He argued for compatible data-protection rules across African jurisdictions and described data governance as economic infrastructure. <span class="bulletin-item__also">*Also under [Regional collaboration](#regional-collaboration).*</span>
-
-</div>
-
-<div class="bulletin-item" data-places="KEN" markdown="1">
-
-**[Kenya signs AI deal with Anthropic as Ruto leads UN delegation in New York](https://www.pulse.co.ke/story/kenya-signs-major-ai-deal-with-anthropic-in-new-york-2026092406143386985)** — Pulse Kenya, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
-
-Kenya and Anthropic signed a Joint Declaration in New York on 22 September covering AI skills, research, responsible public-sector use, AI safety and evaluation, and applications in education and health. Pilots, research and training with Kenyan institutions are to follow, governed by Kenyan law including on data protection and cybersecurity. <span class="bulletin-item__also">*Also under [AI](#ai) and [MoUs and other agreements](#mous-and-other-agreements).*</span>
+An opinion piece asks whether a South African employer that has an employee train an internal AI agent on her work thereby acquires her professional capability. It argues that South African case law, including Automotive Tooling Systems v Wilkens and Nuvest Chemicals v Meyer (January 2026), treats skills and know-how as the employee's own rather than the employer's property. <span class="bulletin-item__also">*Also under [AI](#ai) and [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).*</span>
 
 </div>
 
-<div class="bulletin-item" data-places="GHA KEN XAF" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="EGY" markdown="1">
 
-**[How Africa's AI boom is leaving 100 million disabled citizens behind](https://techcabal.com/2026/09/24/africas-ai-ambitions-have-a-disability-data-problem/)** — TechCabal, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GHA/" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
+**[Egypt AI Council Reviews National AI Strategy Progress, Quantum Computing Plans](https://techafricanews.com/2026/09/25/egypt-ai-council-national-ai-strategy-quantum-computing/)** — Tech Africa News, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/EGY/" title="EGY">Egypt</a>
 
-A Hub for AI and Disability Inclusion (HAIDI), hosted by KNUST's Responsible AI Lab, and an African Disability Data Network were launched at the Global Data Festival in Nairobi with backing from IDRC, the UK FCDO and AI4D. They plan to map disability-related datasets, build three new datasets, assess how national AI strategies treat disability and fund three startups with grants of up to KES 5 million. <span class="bulletin-item__also">*Also under [AI](#ai) and [Access to services](#access-to-services).*</span>
+Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
 
 </div>
 
 ### Regional collaboration
 
-<div class="bulletin-item" data-places="KEN" markdown="1">
+<div class="bulletin-item" data-places="SLE" markdown="1">
 
-**[UNGA81: Kenya proposes cross-border digital public service pilot for Africa](https://techreviewafrica.com/news/7426/)** — Tech Review Africa, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
+**[UNGA81: Sierra Leone pushes country ownership and regional cooperation for Digital Public Infrastructure](https://techreviewafrica.com/news/7457/)** — Tech Review Africa, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SLE/" title="SLE">Sierra Leone</a>
 
-ICT Cabinet Secretary William Kabogo proposed that willing African Union member states jointly pilot one cross-border public service and report back by February 2027. He made the proposal at an AUC-Google ministerial roundtable in New York, pointing to eCitizen's more than 22,500 services and Kenya's Government Interoperability Framework. <span class="bulletin-item__also">*Also under [Data Exchange](#data-exchange) and [AI](#ai).*</span>
-
-</div>
-
-<div class="bulletin-item" data-places="GHA GMB" markdown="1">
-
-**[Ghana’s NCA Hosts Gambia Regulator for Four-Day Communications Benchmarking Visit](https://techafricanews.com/2026/09/24/ghana-nca-gambia-pura-communications-benchmarking-visit/)** — Tech Africa News, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GHA/" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GMB/" title="GMB">Gambia</a>
-
-Ghana's National Communications Authority is hosting a delegation from The Gambia's Public Utilities Regulatory Authority for a benchmarking visit from 22 to 25 September, PURA's second this year. The visit covers regulatory governance, consumer protection, dispute resolution, quality-of-service indicators and broadcasting.
+Communications minister Salima Monorma Bah told an AU-UNDP ministerial panel at UNGA81 that Sierra Leone's foundational digital identity covers more than 90% of the population, a national payment switch is scaling rapidly and a data exchange layer is being piloted in the financial sector. She presented the ECOWAS Data Embassy Framework as a way to pool digital infrastructure regionally rather than every country building the full stack alone. <span class="bulletin-item__also">*Also under [Other GovTech and e-Gov](#other-govtech-and-e-gov), [Digital Identity and CRVS](#digital-identity-and-crvs), [Digital Payments and Fintech](#digital-payments-and-fintech), [Data Exchange](#data-exchange) and [Data Storage](#data-storage).*</span>
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="NGA" markdown="1">
+<div class="bulletin-item" data-places="RWA" markdown="1">
 
-**[NDPC Boss Outlines Strategy for Africa's Digital Future](https://von.gov.ng/ndpc-boss-outlines-strategy-for-africas-digital-future/)** — Voice of Nigeria, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
+**[Nsengiyumva: AI Governance Cannot Be Inclusive Without Countries That Do Not Build AI](https://www.ktpress.rw/2026/09/nsengiyumva-ai-governance-cannot-be-inclusive-without-countries-that-do-not-build-ai/)** — KT Press, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a>
+
+Prime Minister Justin Nsengiyumva told an AI governance discussion at UNGA81 that Rwanda's National AI Agency could host shared testing of advanced AI systems for the region, so African countries can evaluate frontier models themselves. No timetable, funding or partner countries were stated. <span class="bulletin-item__also">*Also under [AI](#ai), [Standards](#standards) and [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).*</span>
+
+</div>
+
+<div class="bulletin-item" data-places="RWA" markdown="1">
+
+**[Le Rwanda et la Jordanie ouvrent une coopération sur l'IA, l'identité numérique et les services publics](https://www.wearetech.africa/fr/fils/actualites/tech/le-rwanda-et-la-jordanie-ouvrent-une-cooperation-sur-l-ia-l-identite-numerique-et-les-services-publics)** — wearetech.africa, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a>
+
+Rwanda and Jordan signed a memorandum of understanding on ICT cooperation on the sidelines of UNGA81 on 24 September, between Rwanda's ICT minister Paula Ingabire and Jordan's digital economy minister Sami Smeirat. It covers sharing experience in digital public services, digital identity and AI and identifying joint projects. <span class="bulletin-item__also">*Also under [Other GovTech and e-Gov](#other-govtech-and-e-gov) and [Digital Identity and CRVS](#digital-identity-and-crvs).*</span>
+
+</div>
+
+<div class="bulletin-item" data-places="XWA" markdown="1">
+
+**[IA bancaire dans l'UEMOA : De l'acces a l'usage, la nouvelle frontiere selon les presidents de la FAPBEF et de l'APBEF Senegal](https://www.dakaractu.com/IA-bancaire-dans-l-UEMOA-De-l-acces-a-l-usage-la-nouvelle-frontiere-selon-les-presidents-de-la-FAPBEF-et-de-l-APBEF_a276365.html)** — Dakaractu, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XWA/" title="XWA">West Africa</a>
+
+The federation of UEMOA banking associations (FAPBEF) held a sub-regional forum in Dakar on AI for financial inclusion and banking, with the BCEAO's national director for Senegal present. Its president, Guy Awona, called for a federated and controlled approach to AI across the Union's banks rather than treating it as a purely technological matter. <span class="bulletin-item__also">*Also under [AI](#ai).*</span>
+
+</div>
+
+<div class="bulletin-item" data-places="XCA" markdown="1">
+
+**[Données énergétiques : la CEMAC veut parler d'une même voix](https://www.gabonreview.com/donnees-energetiques-la-cemac-veut-parler-dune-meme-voix/)** — GabonReview, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XCA/" title="XCA">Central Africa</a>
+
+CEMAC energy ministers met in Libreville on a draft regulation creating a community energy information system (SIE-CEMAC), setting rules for collecting, processing, keeping and sharing energy data. Gabon's energy minister asked the African Energy Commission for technical and financial support and said the sharing of some energy data must be limited because it falls under national sovereignty. <span class="bulletin-item__also">*Also under [National statistics](#national-statistics) and [Digital sovereignty](#digital-sovereignty).*</span>
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="TGO MLI" markdown="1">
+
+**[Togo, Mali Data Regulators Agree to Share Expertise](https://www.togofirst.com/en/itc/2509-20170-togo-mali-data-regulators-agree-to-share-expertise)** — Togo First, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TGO/" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MLI/" title="MLI">Mali</a>
 
 Summarised under [Data protection](#data-protection).
 
 </div>
 
+### Standards
+
+<div class="bulletin-item bulletin-item--xref" data-places="RWA" markdown="1">
+
+**[Nsengiyumva: AI Governance Cannot Be Inclusive Without Countries That Do Not Build AI](https://www.ktpress.rw/2026/09/nsengiyumva-ai-governance-cannot-be-inclusive-without-countries-that-do-not-build-ai/)** — KT Press, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a>
+
+Summarised under [Regional collaboration](#regional-collaboration).
+
+</div>
+
 ### Public debate and participation in policymaking
 
-<div class="bulletin-item" data-places="XAF" markdown="1">
+<div class="bulletin-item" data-places="TUN" markdown="1">
 
-**[Africa's Place In Global AI Governance](https://cioafrica.co/africas-place-in-global-ai-governance/)** — CIO Africa, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
+**[Étude sur la transformation digitale et l'IA en Tunisie - Édition 2026](https://fr.linkedin.com/pulse/%C3%A9tude-sur-la-transformation-digitale-et-lia-en-tunisie-arnault-chatel-mdxje)** — Arnault Chatel (LinkedIn Pulse), 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TUN/" title="TUN">Tunisia</a>
 
-At the African AI Governance Summit convened by Lawyers Hub in New York on 22 September, Gambian ambassador Muhammadou Kah urged Africa to co-design its technology and own its data rather than import both. He set out five markers: negotiate as one bloc, finance its own digital rails, co-author global AI rules, write rules with entrepreneurs and turn presence into influence. <span class="bulletin-item__also">*Also under [AI](#ai) and [Digital sovereignty](#digital-sovereignty).*</span>
+A 2026 study of Tunisia's digital transformation and AI sets recent infrastructure gains, including the Medusa submarine cable landing at Bizerte in November 2025, the first national supercomputer entering trials in July 2026 and a national AI strategy for 2026-2030 presented in August, against continuing emigration of engineers. It cites more than 7,000 engineers leaving in 2025 and an expected 8,000 in 2026, and asks how the country can turn that talent into value created at home. <span class="bulletin-item__also">*Also under [AI](#ai) and [Training and skills](#training-and-skills).*</span>
+
+</div>
+
+<div class="bulletin-item" data-places="NGA" markdown="1">
+
+**[Stakeholders Fault CBN's January Timeline on Data Localisation, Call for Extension](https://www.thisdaylive.com/2026/09/25/stakeholders-fault-cbns-january-timeline-on-data-localisation-call-for-extension/)** — ThisDay, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
+
+Bank and fintech executives at a Lagos forum on 24 September called on the Central Bank of Nigeria to extend and phase its 1 January 2027 deadline for hosting all payment data in Nigeria, calling it virtually impossible to meet. FCMB's technology chief said bank CIOs had been unable for three months to get clarity from the CBN on which data must be kept on-premise. <span class="bulletin-item__also">*Also under [Data Storage](#data-storage) and [Digital Payments and Fintech](#digital-payments-and-fintech).*</span>
+
+</div>
+
+<div class="bulletin-item" data-places="SEN" markdown="1">
+
+**[Kaolack: les acteurs communautaires à l'école des enjeux du numérique](https://lesoleil.sn/actualites/technologie/kaolack-les-acteurs-communautaires-a-lecole-des-enjeux-du-numerique/)** — Le Soleil, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SEN/" title="SEN">Senegal</a>
+
+The Forum Civil held a two-day regional workshop in Kaolack for civil society and community leaders on digital issues, under an EU-funded project, Recentrer le civisme numérique. It aims to equip young people and community leaders to understand and use digital tools. <span class="bulletin-item__also">*Also under [Literacy](#literacy) and [Training and skills](#training-and-skills).*</span>
+
+</div>
+
+<div class="bulletin-item" data-places="NGA" markdown="1">
+
+**[At Editors' Conference, Amupitan Says INEC Deploying AI to Detect Result Errors Ahead of 2027](https://www.thisdaylive.com/2026/09/25/at-editors-conference-amupitan-says-inec-deploying-ai-to-detect-result-errors-ahead-of-2027/)** — ThisDay, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
+
+Nigeria's electoral commission INEC said it has begun using AI tools in its results-management process to flag discrepancies and errors in result records before final validation, with every automated check subject to human audit. Chairman Joash Amupitan said INEC has set up an AI Division and adopted an AI roadmap and governance framework ahead of the January and February 2027 elections. <span class="bulletin-item__also">*Also under [AI](#ai) and [Cybersecurity](#cybersecurity).*</span>
+
+</div>
+
+<div class="bulletin-item" data-places="GHA XAF" markdown="1">
+
+**[African states must strengthen safeguards against AI-driven electoral manipulation – Kwasi Prempeh](https://www.myjoyonline.com/african-states-must-strengthen-safeguards-against-ai-driven-electoral-manipulation-kwasi-prempeh/)** — MyJoyOnline, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GHA/" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
+
+Opening the Third Electoral Integrity Summit in Accra, CDD-Ghana's executive director Henry Kwasi Prempeh called on African states to strengthen safeguards against AI-driven disinformation, deepfakes and coordinated manipulation of elections. He said the question is not whether to use these technologies but under what safeguards and who is accountable when they cause harm. <span class="bulletin-item__also">*Also under [AI](#ai).*</span>
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="RWA" markdown="1">
+
+**[Nsengiyumva: AI Governance Cannot Be Inclusive Without Countries That Do Not Build AI](https://www.ktpress.rw/2026/09/nsengiyumva-ai-governance-cannot-be-inclusive-without-countries-that-do-not-build-ai/)** — KT Press, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a>
+
+Summarised under [Regional collaboration](#regional-collaboration).
 
 </div>
 
 <div class="bulletin-item bulletin-item--xref" data-places="LBR" markdown="1">
 
-**[Justice Ministry Pressed to Clarify Cybercrime Act Enforcement](https://www.thenewdawnliberia.com/justice-ministry-pressed-to-clarify-cybercrime-act-enforcement/)** — The New Dawn Liberia, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/LBR/" title="LBR">Liberia</a>
+**[Liberia: Ten Liberian Civil Society Groups Launch Digital Advocacy and Rights Alliance](https://frontpageafricaonline.com/liberia-ten-liberian-civil-society-groups-launch-digital-advocacy-and-rights-alliance/)** — FrontPage Africa, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/LBR/" title="LBR">Liberia</a>
+
+Summarised under [Data protection](#data-protection).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="LBR" markdown="1">
+
+**[Liberia: Senator Dopoh Backs Enforcement of Cybercrimes Law, Advances Recommendations For Smooth Implementation](https://frontpageafricaonline.com/liberia-senator-dopoh-backs-enforcement-of-cybercrimes-law-advances-recommendations-for-smooth-implementation/)** — FrontPage Africa, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/LBR/" title="LBR">Liberia</a>
 
 Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="LBR" markdown="1">
+
+**[Liberia: Judge Gives Police 'Last Opportunity' in Cybercrime Suspect's Detention Case](https://frontpageafricaonline.com/liberia-judge-gives-police-last-opportunity-in-cybercrime-suspects-detention-case/)** — FrontPage Africa, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/LBR/" title="LBR">Liberia</a>
+
+Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="ZAF" markdown="1">
+
+**[Did you just train your replacement?](https://www.itweb.co.za/article/did-you-just-train-your-replacement/Pero3qZ362BvQb6m)** — ITWeb, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
+
+Summarised under [Data protection](#data-protection).
 
 </div>
 
@@ -187,53 +318,11 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 ### MoUs and other agreements
 
-<div class="bulletin-item" data-places="EGY" markdown="1">
+<div class="bulletin-item" data-places="AGO" markdown="1">
 
-**[MoneyHash Partners with Geidea to Expand Payment Capabilities Across UAE, Saudi Arabia and Egypt](https://techafricanews.com/2026/09/24/moneyhash-geidea-expand-payment-capabilities-uae-saudi-arabia-egypt/)** — Tech Africa News, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/EGY/" title="EGY">Egypt</a>
+**[Angola and UAE strengthen space cooperation through new letter of intent](https://techreviewafrica.com/news/7466/)** — Tech Review Africa, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/AGO/" title="AGO">Angola</a>
 
-Payment orchestration platform MoneyHash partnered with payments provider Geidea, giving businesses already integrated with MoneyHash access to Geidea's online gateway and payment methods in Egypt, the UAE and Saudi Arabia without a separate connection. <span class="bulletin-item__also">*Also under [Digital Payments and Fintech](#digital-payments-and-fintech).*</span>
-
-</div>
-
-<div class="bulletin-item" data-places="GHA" markdown="1">
-
-**[Ghana signs agreement with Intel to expand AI for Youth programme](https://www.myjoyonline.com/ghana-signs-agreement-with-intel-to-expand-ai-for-youth-programme/)** — MyJoyOnline, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GHA/" title="GHA">Ghana</a>
-
-Ghana signed an agreement with Intel on the sidelines of UNGA81 to expand the AI for Youth programme into K-12 schools, with Coral Reef and the Ministry of Education as partners. The gender minister signed on behalf of the First Lady; no value or timeline was given. <span class="bulletin-item__also">*Also under [Training and skills](#training-and-skills) and [AI](#ai).*</span>
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="KEN" markdown="1">
-
-**[Kenya signs AI deal with Anthropic as Ruto leads UN delegation in New York](https://www.pulse.co.ke/story/kenya-signs-major-ai-deal-with-anthropic-in-new-york-2026092406143386985)** — Pulse Kenya, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
-
-Summarised under [Data protection](#data-protection).
-
-</div>
-
-### New investments
-
-<div class="bulletin-item" data-places="CPV" markdown="1">
-
-**[UGPE — Digital Cabo Verde project mission review: 80%/40% disbursement, school connectivity priority](https://backend-ugpe.gov.cv/noticias/review-meeting-of-the-cape-verde-digital-project-mission-highlights-progress-and-next-steps/)** — UGPE (Unidade de Gestão de Projetos Especiais), Cabo Verde, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/CPV/" title="CPV">Cape Verde</a>
-
-A World Bank mission reviewed the Digital Cabo Verde project between 22 and 26 September, reporting about 80% disbursement of the original US$20 million financing (2020-2025) and about 40% of the US$20 million additional financing (2025-2028). School connectivity was named the priority for the additional financing, with stronger coordination across ministries and a clearer role for the DGTED. <span class="bulletin-item__also">*Also under [Other GovTech and e-Gov](#other-govtech-and-e-gov), [Access to services](#access-to-services) and [Connectivity](#connectivity).*</span>
-
-</div>
-
-<div class="bulletin-item" data-places="KEN" markdown="1">
-
-**[Co-op Bank, UNCDF launch financing facility to boost Kenya's digital](https://biznakenya.com/co-op-bank-uncdf-launch-financing-facility-to-boost-kenyas-digital/)** — Bizna Kenya, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
-
-Co-operative Bank of Kenya and UNCDF launched a US$900,000 loan portfolio guarantee under the DigiKen programme, backing up to US$1.8 million of lending to fintechs, digital credit providers, e-commerce and digitally enabled small firms, and innovation hubs. UNCDF covers 50% of outstanding principal, rising to 70% for borrowers in the Arid and Semi-Arid Lands. <span class="bulletin-item__also">*Also under [Innovation ecosystem](#innovation-ecosystem).*</span>
-
-</div>
-
-<div class="bulletin-item" data-places="XAF" markdown="1">
-
-**[Airtel Money files for London IPO, IFC to buy $90 mn stake](https://www.rediff.com/business/report/airtel-money-ipo-ifc-to-acquire-90-million-stake-in-london-listing/20260924.htm)** — Rediff.com Business (Business Standard byline), 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
-
-Airtel Money, Airtel Africa's mobile money arm in 13 markets, filed for a London Stock Exchange listing in which existing shareholders sell shares, aiming to raise about US$800 million at a valuation of US$8-9 billion. The IFC agreed to buy up to GBP 67.2 million (about US$90 million) of shares at the offer price. <span class="bulletin-item__also">*Also under [Digital Payments and Fintech](#digital-payments-and-fintech).*</span>
+Angola's space programme office GGPEN and the UAE Space Agency signed a letter of intent on cooperation in the peaceful uses of outer space, covering space sciences, technologies and applications. It was signed in Abidjan on 25 September at the Africa Space Expo, where Angola is guest country of honour. <span class="bulletin-item__also">*Also under [Use of satellite data](#use-of-satellite-data).*</span>
 
 </div>
 
@@ -241,79 +330,69 @@ Airtel Money, Airtel Africa's mobile money arm in 13 markets, filed for a London
 
 ### Connectivity
 
-<div class="bulletin-item" data-places="NGA" markdown="1">
+<div class="bulletin-item" data-places="TZA" markdown="1">
 
-**[NuRAN Wireless to Pilot Starlink LEO Backhaul at Rural Site in Nigeria](https://techafricanews.com/2026/09/24/nuran-wireless-starlink-leo-backhaul-pilot-nigeria/)** — Tech Africa News, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
+**[TIX upgrades core to 100G as Tanzanian traffic jumps 80%](https://tech.africa/tix-tanzania-100g-core-upgrade/)** — tech.africa, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TZA/" title="TZA">Tanzania</a>
 
-NuRAN Wireless will pilot Starlink low-Earth-orbit satellite backhaul at a rural site in Nigeria with its partner Infratel, its first LEO integration, to test capacity, 4G migration and site costs. The satellite service is bought through third-party providers; NuRAN has no direct contract with Starlink or SpaceX.
-
-</div>
-
-<div class="bulletin-item" data-places="UGA" markdown="1">
-
-**[Airtel Uganda Rolls Out Starlink Satellite-to-Mobile Service](https://techafricanews.com/2026/09/24/airtel-uganda-rolls-out-starlink-satellite-to-mobile-service/)** — Tech Africa News, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/UGA/" title="UGA">Uganda</a>
-
-Airtel Uganda launched Starlink satellite-to-mobile service, giving compatible smartphones SMS and light data such as WhatsApp outside terrestrial coverage, free for a 30-day trial and then through data bundles. Uganda is Airtel Africa's second commercial market for the service after the DRC in August. <span class="bulletin-item__also">*Also under [ICT Industry](#ict-industry).*</span>
+The Tanzania Internet eXchange in Dar es Salaam upgraded its core switching to 100G, the ISP association TISPA said on 23 September. On the exchange's own statistics its 66 connected networks averaged about 205 Gbps in late September 2026, up from about 110 Gbps a year earlier.
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="NGA" markdown="1">
+<div class="bulletin-item" data-places="CIV" markdown="1">
 
-**[UNGA81: Nigeria highlights data protection and digital infrastructure progress at UNGA81](https://techreviewafrica.com/news/7433/)** — Tech Review Africa, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
+**[Côte d'Ivoire links space infrastructure to digital transformation agenda](https://techreviewafrica.com/news/7456/)** — Tech Review Africa, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/CIV/" title="CIV">Côte d'Ivoire</a>
 
-Summarised under [Data protection](#data-protection).
+Côte d'Ivoire's digital minister Djibril Ouattara told the Africa Space Expo in Abidjan on 24 September that satellite infrastructure should complement terrestrial networks to extend coverage, which he put at 95% nationally, towards a 100% target. A radiocommunications forum alongside the expo is addressing the integration of terrestrial and satellite networks. <span class="bulletin-item__also">*Also under [Use of satellite data](#use-of-satellite-data).*</span>
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="CPV" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="TZA" markdown="1">
 
-**[UGPE — Digital Cabo Verde project mission review: 80%/40% disbursement, school connectivity priority](https://backend-ugpe.gov.cv/noticias/review-meeting-of-the-cape-verde-digital-project-mission-highlights-progress-and-next-steps/)** — UGPE (Unidade de Gestão de Projetos Especiais), Cabo Verde, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/CPV/" title="CPV">Cape Verde</a>
+**[Robust policies, plans and collaboration drive Tanzania's communications sector](https://www.thecitizen.co.tz/tanzania/supplement/robust-policies-plans-and-collaboration-drive-tanzania-s-communications-sector-5608712)** — The Citizen, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TZA/" title="TZA">Tanzania</a>
 
-Summarised under [New investments](#new-investments).
+Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
 
 </div>
 
 ### Data Storage
 
-<div class="bulletin-item" data-places="ZAF" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="SLE" markdown="1">
 
-**[Microsoft South Africa highlights six dimensions of digital sovereignty for AI Era](https://techreviewafrica.com/news/7405/)** — Tech Review Africa, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
+**[UNGA81: Sierra Leone pushes country ownership and regional cooperation for Digital Public Infrastructure](https://techreviewafrica.com/news/7457/)** — Tech Review Africa, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SLE/" title="SLE">Sierra Leone</a>
 
-At a GovTech breakfast for senior officials, Microsoft South Africa set out six dimensions of digital sovereignty: data, control, operational, AI, resilience and assurance. It presented sovereignty as a range of controls set by workload and regulatory risk rather than a yes-or-no choice, and pointed to its two Azure regions in South Africa. <span class="bulletin-item__also">*Also under [US / hyperscaler activities](#us-hyperscaler-activities) and [Digital sovereignty](#digital-sovereignty).*</span>
+Summarised under [Regional collaboration](#regional-collaboration).
 
 </div>
 
-### Technical Capacity
+<div class="bulletin-item bulletin-item--xref" data-places="NGA" markdown="1">
 
-<div class="bulletin-item" data-places="XAF" markdown="1">
+**[Stakeholders Fault CBN's January Timeline on Data Localisation, Call for Extension](https://www.thisdaylive.com/2026/09/25/stakeholders-fault-cbns-january-timeline-on-data-localisation-call-for-extension/)** — ThisDay, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
 
-**[Africa's AI Crossroads: From Readiness to Public Value](https://www.undp.org/africa/blog/africas-ai-crossroads-readiness-public-value)** — UNDP Regional Service Centre for Africa / Digital, AI and Innovation Hub, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
-
-A UNDP Africa blog argues that AI adoption is a set of development choices about institutions, markets and rights, drawing on 26 AI Landscape Assessments completed between 2024 and 2026. It finds that readiness does not end when implementation starts, and links the work to the African Union's Continental AI Strategy. <span class="bulletin-item__also">*Also under [AI](#ai) and [Other GovTech and e-Gov](#other-govtech-and-e-gov).*</span>
+Summarised under [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).
 
 </div>
 
 ### Cybersecurity
 
-<div class="bulletin-item" data-places="NGA" markdown="1">
+<div class="bulletin-item" data-places="GHA" markdown="1">
 
-**[ngCERT: Security Advisory on WhatsApp Vulnerabilities Leveraging Instagram Reels to Execute Malicious URL](https://csirt.ncc.gov.ng/index.php/resources/security-advisories/423-ngcert-security-advisory-on-whatsapp-vulnerabilities-leveraging-instagram-reels-to-execute-malicious-url)** — ngCERT (Nigerian Communications Commission), 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
+**[GCIF cautions public as criminals deploy AI in phishing attacks](https://www.myjoyonline.com/gcif-cautions-public-as-criminals-deploy-ai-in-phishing-attacks/)** — MyJoyOnline, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GHA/" title="GHA">Ghana</a>
 
-Nigeria's national CERT issued a critical advisory on two WhatsApp flaws (CVE-2026-23866 and CVE-2026-23863) on iOS, Android and Windows that allow malicious links to run from crafted Instagram Reels messages and attachments to be spoofed. It advised updating the app, including forced updates through mobile device management.
-
-</div>
-
-<div class="bulletin-item" data-places="XAF" markdown="1">
-
-**[Nearly 50 African women cybersecurity professionals gather in Addis Ababa for regional training](https://techreviewafrica.com/news/7421/)** — Tech Review Africa, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
-
-Nearly 50 women cybersecurity professionals from across Africa met in Addis Ababa for the Her CyberTracks Regional Training Africa 2026. The programme is funded by Germany, the European Commission and Italy and delivered by the ITU and GIZ with UNODC's Global Programme on Cybercrime. <span class="bulletin-item__also">*Also under [Training and skills](#training-and-skills).*</span>
+The Ghana Cybersecurity Industry Forum, the industry body provided for under the Cybersecurity Act, 2020, warned at an Accra news conference that criminals are using AI to make phishing messages convincing. It named a skills shortage as its main challenge and set out student engagement, a virtual assets workshop and community roadshows for October to December 2026. <span class="bulletin-item__also">*Also under [AI](#ai) and [Training and skills](#training-and-skills).*</span>
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="SEN" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="TZA" markdown="1">
 
-**[Senegal: DAF acknowledges cyberattack, assures no data was compromised](https://beninwebtv.bj/en/senegal-daf-acknowledges-cyberattack-assures-no-data-was-compromised/)** — Benin Web TV, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SEN/" title="SEN">Senegal</a>
+**[Robust policies, plans and collaboration drive Tanzania's communications sector](https://www.thecitizen.co.tz/tanzania/supplement/robust-policies-plans-and-collaboration-drive-tanzania-s-communications-sector-5608712)** — The Citizen, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TZA/" title="TZA">Tanzania</a>
+
+Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="LBR" markdown="1">
+
+**[Liberia: Ten Liberian Civil Society Groups Launch Digital Advocacy and Rights Alliance](https://frontpageafricaonline.com/liberia-ten-liberian-civil-society-groups-launch-digital-advocacy-and-rights-alliance/)** — FrontPage Africa, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/LBR/" title="LBR">Liberia</a>
 
 Summarised under [Data protection](#data-protection).
 
@@ -321,9 +400,25 @@ Summarised under [Data protection](#data-protection).
 
 <div class="bulletin-item bulletin-item--xref" data-places="LBR" markdown="1">
 
-**[Justice Ministry Pressed to Clarify Cybercrime Act Enforcement](https://www.thenewdawnliberia.com/justice-ministry-pressed-to-clarify-cybercrime-act-enforcement/)** — The New Dawn Liberia, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/LBR/" title="LBR">Liberia</a>
+**[Liberia: Senator Dopoh Backs Enforcement of Cybercrimes Law, Advances Recommendations For Smooth Implementation](https://frontpageafricaonline.com/liberia-senator-dopoh-backs-enforcement-of-cybercrimes-law-advances-recommendations-for-smooth-implementation/)** — FrontPage Africa, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/LBR/" title="LBR">Liberia</a>
 
 Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="LBR" markdown="1">
+
+**[Liberia: Judge Gives Police 'Last Opportunity' in Cybercrime Suspect's Detention Case](https://frontpageafricaonline.com/liberia-judge-gives-police-last-opportunity-in-cybercrime-suspects-detention-case/)** — FrontPage Africa, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/LBR/" title="LBR">Liberia</a>
+
+Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="NGA" markdown="1">
+
+**[At Editors' Conference, Amupitan Says INEC Deploying AI to Detect Result Errors Ahead of 2027](https://www.thisdaylive.com/2026/09/25/at-editors-conference-amupitan-says-inec-deploying-ai-to-detect-result-errors-ahead-of-2027/)** — ThisDay, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
+
+Summarised under [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).
 
 </div>
 
@@ -331,17 +426,17 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 ### Data Exchange
 
-<div class="bulletin-item" data-places="TCD" markdown="1">
+<div class="bulletin-item" data-places="TUN" markdown="1">
 
-**[Chad: N'Djamena Launches Civil Registry Digitization Drive](https://www.wearetech.africa/en/fils-uk/news/tech/chad-n-djamena-launches-civil-registry-digitization-drive)** — We are Tech, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TCD/" title="TCD">Chad</a>
+**[مدير عام تفقدية الشغل: نحو اعتماد ''التابلات'' في عمليات الرقابة](https://www.alchourouk.com/article/%D9%85%D8%AF%D9%8A%D8%B1-%D8%B9%D8%A7%D9%85-%D8%AA%D9%81%D9%82%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D8%B4%D8%BA%D9%84-%D9%86%D8%AD%D9%88-%D8%A7%D8%B9%D8%AA%D9%85%D8%A7%D8%AF-%D8%A7%D9%84%D8%AA%D8%A7%D8%A8%D9%84%D8%A7%D8%AA-%D9%81%D9%8A-%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D9%82%D8%A7%D8%A8%D8%A9)** — Al Chourouk, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TUN/" title="TUN">Tunisia</a>
 
-English-language report of the same N'Djamena civil-registry digitisation launch and ANATS memorandum of 23 September. It adds that an earlier OIF-backed project regularised the civil status of 53,000 children in Tandjile and Ennedi Est in 2024 and 2025. <span class="bulletin-item__also">*Also under [Digital Identity and CRVS](#digital-identity-and-crvs) and [Digitalisation of sub-national government](#digitalisation-of-sub-national-government).*</span>
+Tunisia's labour-inspection director-general Noureddine Triki said the inspection platform is to exchange data with the national social security fund and the national business register by the end of 2026, and with other ministries' systems from January 2027. Inspectors are to move to tablets that record findings and geolocate establishments, with three regional workshops to train most of them. <span class="bulletin-item__also">*Also under [Other GovTech and e-Gov](#other-govtech-and-e-gov).*</span>
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="KEN" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="SLE" markdown="1">
 
-**[UNGA81: Kenya proposes cross-border digital public service pilot for Africa](https://techreviewafrica.com/news/7426/)** — Tech Review Africa, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
+**[UNGA81: Sierra Leone pushes country ownership and regional cooperation for Digital Public Infrastructure](https://techreviewafrica.com/news/7457/)** — Tech Review Africa, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SLE/" title="SLE">Sierra Leone</a>
 
 Summarised under [Regional collaboration](#regional-collaboration).
 
@@ -349,129 +444,153 @@ Summarised under [Regional collaboration](#regional-collaboration).
 
 ### Digital Identity and CRVS
 
-<div class="bulletin-item" data-places="TCD" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="SLE" markdown="1">
 
-**[Tchad, N'Djamena lance la numérisation de son état civil](https://www.wearetech.africa/fr/fils/actualites/tech/tchad-n-djamena-lance-la-numerisation-de-son-etat-civil)** — wearetech.africa, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TCD/" title="TCD">Chad</a>
+**[UNGA81: Sierra Leone pushes country ownership and regional cooperation for Digital Public Infrastructure](https://techreviewafrica.com/news/7457/)** — Tech Review Africa, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SLE/" title="SLE">Sierra Leone</a>
 
-N'Djamena's municipality launched a project on 23 September, backed by the Organisation internationale de la Francophonie, to digitise and secure its civil registers, and signed a memorandum with the secure-documents agency ANATS to link municipal records to the national identification system. ANATS counted more than 623,000 school-age children without a birth certificate in 2023. <span class="bulletin-item__also">*Also under [Digitalisation of sub-national government](#digitalisation-of-sub-national-government).*</span>
-
-</div>
-
-<div class="bulletin-item" data-places="ETH" markdown="1">
-
-**[Ethiopia takes digital financial inclusion to centre stage at UNGA 81](https://www.ena.et/web/eng/w/eng_9603312)** — Ethiopian News Agency (ENA), 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ETH/" title="ETH">Ethiopia</a>
-
-Ethiopia and UNCDF held a side event at UNGA81 presenting digital payments, the Fayda national ID and digital public infrastructure as tools for financial inclusion and the SDGs. Planning minister Fitsum Assefa cited Digital Ethiopia 2030, the National Financial Inclusion Strategy, interoperable payments and BRIDGE 2030. <span class="bulletin-item__also">*Also under [Digital Payments and Fintech](#digital-payments-and-fintech).*</span>
+Summarised under [Regional collaboration](#regional-collaboration).
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="SEN" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="RWA" markdown="1">
 
-**[Senegal: DAF acknowledges cyberattack, assures no data was compromised](https://beninwebtv.bj/en/senegal-daf-acknowledges-cyberattack-assures-no-data-was-compromised/)** — Benin Web TV, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SEN/" title="SEN">Senegal</a>
+**[Le Rwanda et la Jordanie ouvrent une coopération sur l'IA, l'identité numérique et les services publics](https://www.wearetech.africa/fr/fils/actualites/tech/le-rwanda-et-la-jordanie-ouvrent-une-cooperation-sur-l-ia-l-identite-numerique-et-les-services-publics)** — wearetech.africa, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a>
 
-Summarised under [Data protection](#data-protection).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="TCD" markdown="1">
-
-**[Chad: N'Djamena Launches Civil Registry Digitization Drive](https://www.wearetech.africa/en/fils-uk/news/tech/chad-n-djamena-launches-civil-registry-digitization-drive)** — We are Tech, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TCD/" title="TCD">Chad</a>
-
-Summarised under [Data Exchange](#data-exchange).
+Summarised under [Regional collaboration](#regional-collaboration).
 
 </div>
 
 ### Digital Payments and Fintech
 
-<div class="bulletin-item" data-places="ZWE" markdown="1">
+<div class="bulletin-item" data-places="NGA" markdown="1">
 
-**[Zimbabwe Stock Exchange launches InvoiceX 48-hour invoice discounting market](https://bcrpub.com/news/zimbabwe-stock-exchange-launches-invoicex-48-hour-invoice-discounting-market/)** — BCR Publishing, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZWE/" title="ZWE">Zimbabwe</a>
+**[What happens when a PoS terminal becomes an investment outlet?](https://techcabal.com/2026/09/25/moniepoint-pos-network-investment-network/)** — TechCabal, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
 
-The Zimbabwe Stock Exchange opened InvoiceX, a regulated invoice-discounting market run under the Zimbabwe Entrepreneurship Exchange, for invoices of US$1,000 to US$1.5 million. Once a buyer authenticates an invoice, licensed banks and microfinance lenders bid on the discount rate, with supplier payment targeted within 48 hours and platform fees of 0.65% of the transaction. <span class="bulletin-item__also">*Also under [Innovation ecosystem](#innovation-ecosystem).*</span>
-
-</div>
-
-<div class="bulletin-item" data-places="NGA SEN LBR" markdown="1">
-
-**[The $6.8M credit engine hidden inside a Nigerian cassava patch](https://techcabal.com/2026/09/24/the-6-8m-credit-engine-hidden-inside-a-nigerian-cassava-patch/)** — TechCabal, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SEN/" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/LBR/" title="LBR">Liberia</a>
-
-A TechCabal feature profiles UfarmX, founded by Alexander Zanders in Oyo State, which turns farm data into credit ratings used by commercial banks and retailers rather than lending itself. The company says it has facilitated more than US$6.8 million in trade across over 10,000 farmers in Nigeria, Senegal and Liberia. <span class="bulletin-item__also">*Also under [Rural digital data capture](#rural-digital-data-capture).*</span>
+Moniepoint is selling shares in the Dangote Petroleum Refinery's ₦2.15 trillion IPO through its agent point-of-sale terminals across all 774 local government areas. Buyers are identified by their Bank Verification Number and capped at ₦100,000 each, a test of the agent network as a channel for investment products. <span class="bulletin-item__also">*Also under [Access to services](#access-to-services).*</span>
 
 </div>
 
-<div class="bulletin-item" data-places="KEN" markdown="1">
+<div class="bulletin-item" data-places="ZAF" markdown="1">
 
-**[Kenswitch enters Kenya's card market with domestic card scheme](https://techcabal.com/2026/09/24/kenswitch-launches-local-card-for-kenyan-financial-institutions/)** — TechCabal, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
+**[Paystack Launches South Africa's First Onsite Card Checkout for Shopify](https://techafricanews.com/2026/09/25/paystack-south-africa-onsite-card-checkout-shopify/)** — Tech Africa News, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
 
-Kenswitch, Kenya's largest independent payments switch, launched a domestic card scheme on 22 September that lets banks and other institutions issue physical and virtual cards on its network of more than 2,200 ATMs, 50,000 point-of-sale terminals and 80,000 agent outlets. It named no issuers, launch dates or pricing against Visa and Mastercard.
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="EGY" markdown="1">
-
-**[MoneyHash Partners with Geidea to Expand Payment Capabilities Across UAE, Saudi Arabia and Egypt](https://techafricanews.com/2026/09/24/moneyhash-geidea-expand-payment-capabilities-uae-saudi-arabia-egypt/)** — Tech Africa News, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/EGY/" title="EGY">Egypt</a>
-
-Summarised under [MoUs and other agreements](#mous-and-other-agreements).
+Paystack introduced an onsite card checkout for Shopify merchants in South Africa, letting shoppers pay by card without leaving the merchant's checkout. It also added a Shopify integration for its in-store Paystack Terminal. <span class="bulletin-item__also">*Also under [ICT Industry](#ict-industry).*</span>
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="ETH" markdown="1">
+<div class="bulletin-item" data-places="NGA" markdown="1">
 
-**[Ethiopia takes digital financial inclusion to centre stage at UNGA 81](https://www.ena.et/web/eng/w/eng_9603312)** — Ethiopian News Agency (ENA), 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ETH/" title="ETH">Ethiopia</a>
+**[Nigeria : Remita lance une application pour gérer les comptes bancaires](https://www.wearetech.africa/fr/fils/breves/breves-simple/nigeria-remita-lance-une-application-pour-gerer-les-comptes-bancaires)** — wearetech.africa, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
 
-Summarised under [Digital Identity and CRVS](#digital-identity-and-crvs).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="XAF" markdown="1">
-
-**[Airtel Money files for London IPO, IFC to buy $90 mn stake](https://www.rediff.com/business/report/airtel-money-ipo-ifc-to-acquire-90-million-stake-in-london-listing/20260924.htm)** — Rediff.com Business (Business Standard byline), 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
-
-Summarised under [New investments](#new-investments).
+Remita launched a mobile app at Nigeria Fintech Week on 23 September that brings several bank accounts into one interface. Users can make payments, invest and send money to other African countries.
 
 </div>
 
-### Registries
+<div class="bulletin-item" data-places="UGA" markdown="1">
+
+**[MTN Uganda Launches Mobile Money Toll Payments on Kampala-Entebbe Expressway](https://techafricanews.com/2026/09/25/mtn-uganda-mobile-money-toll-payments-kampala-entebbe-expressway/)** — Tech Africa News, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/UGA/" title="UGA">Uganda</a>
+
+MTN Uganda and the Ministry of Works and Transport launched Mobile Money toll payment on the Kampala-Entebbe Expressway, at the Busega, Kajjansi and Mpala plazas on designated lanes. The motorist gives a phone number to the attendant and approves a PIN prompt; no fee was named.
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="SLE" markdown="1">
+
+**[UNGA81: Sierra Leone pushes country ownership and regional cooperation for Digital Public Infrastructure](https://techreviewafrica.com/news/7457/)** — Tech Review Africa, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SLE/" title="SLE">Sierra Leone</a>
+
+Summarised under [Regional collaboration](#regional-collaboration).
+
+</div>
 
 <div class="bulletin-item bulletin-item--xref" data-places="NGA" markdown="1">
 
-**[UNGA81: Nigeria highlights data protection and digital infrastructure progress at UNGA81](https://techreviewafrica.com/news/7433/)** — Tech Review Africa, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
+**[Stakeholders Fault CBN's January Timeline on Data Localisation, Call for Extension](https://www.thisdaylive.com/2026/09/25/stakeholders-fault-cbns-january-timeline-on-data-localisation-call-for-extension/)** — ThisDay, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
 
-Summarised under [Data protection](#data-protection).
-
-</div>
-
-### Other GovTech and e-Gov
-
-<div class="bulletin-item" data-places="SWZ" markdown="1">
-
-**[E1.06BN DIGITAL ESWATINI PUTS PEOPLE BEFORE TECHNOLOGY](https://eswatinipositivenews.online/e1-06bn-digital-eswatini-puts-people-before-technology/)** — Eswatini Positive News, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SWZ/" title="SWZ">Eswatini</a>
-
-About 40 change agents from five ministries and parastatals held a change-readiness workshop in Mbabane on 24 September, assessing their own directorates ahead of implementation of the World Bank-financed Digital Eswatini Project (US$65 million, about E1.06 billion). They are to help public servants adjust to the new digital systems. <span class="bulletin-item__also">*Also under [Training and skills](#training-and-skills).*</span>
+Summarised under [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="CPV" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="TZA" markdown="1">
 
-**[UGPE — Digital Cabo Verde project mission review: 80%/40% disbursement, school connectivity priority](https://backend-ugpe.gov.cv/noticias/review-meeting-of-the-cape-verde-digital-project-mission-highlights-progress-and-next-steps/)** — UGPE (Unidade de Gestão de Projetos Especiais), Cabo Verde, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/CPV/" title="CPV">Cape Verde</a>
-
-Summarised under [New investments](#new-investments).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="SEN" markdown="1">
-
-**[Senegal's Digital Ministry and Sonatel structure joint contribution to New Deal Technologique](https://techreviewafrica.com/news/7400/)** — Tech Review Africa, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SEN/" title="SEN">Senegal</a>
+**[Robust policies, plans and collaboration drive Tanzania's communications sector](https://www.thecitizen.co.tz/tanzania/supplement/robust-policies-plans-and-collaboration-drive-tanzania-s-communications-sector-5608712)** — The Citizen, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TZA/" title="TZA">Tanzania</a>
 
 Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="XAF" markdown="1">
+### Sectoral management information systems
 
-**[Africa's AI Crossroads: From Readiness to Public Value](https://www.undp.org/africa/blog/africas-ai-crossroads-readiness-public-value)** — UNDP Regional Service Centre for Africa / Digital, AI and Innovation Hub, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
+<div class="bulletin-item" data-places="RWA" markdown="1">
 
-Summarised under [Technical Capacity](#technical-capacity).
+**[Rwanda leads discussion on AI scaling in health, agriculture](https://www.newtimes.co.rw/article/39235/news/technology/rwanda-leads-discussion-on-ai-scaling-in-health-agriculture)** — The New Times, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a>
+
+Rwanda's ICT ministry hosted a session at UNGA81 on deploying AI at scale in health, agriculture, education and public services, presenting the country as a proof of concept for Africa, with partners including the Gates Foundation, Google, Zipline, Anthropic and UNICEF. The discussion covered the national AI agency, the national data hub and Kinyarwanda-language AI; no new commitment was reported. <span class="bulletin-item__also">*Also under [AI](#ai).*</span>
+
+</div>
+
+### Other GovTech and e-Gov
+
+<div class="bulletin-item" data-places="SLE" markdown="1">
+
+**[UNGA81: Four Sierra Leonean teams submit Digital Public Goods to Global Registry](https://techreviewafrica.com/news/7453/)** — Tech Review Africa, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SLE/" title="SLE">Sierra Leone</a>
+
+Four Sierra Leonean teams met all nine Digital Public Goods criteria and submitted their products to the global registry, it was announced at a UNICEF event at UNGA81, with three more teams meeting six or seven criteria. The Christex Foundation, which prepared them over six to seven months, used its own AI-assisted assessment tool, Pipeline. <span class="bulletin-item__also">*Also under [Innovation ecosystem](#innovation-ecosystem).*</span>
+
+</div>
+
+<div class="bulletin-item" data-places="NGA" markdown="1">
+
+**[Ondo Launches AI System to Automate Civil Service, Pension](https://www.thisdaylive.com/2026/09/25/ondo-launches-ai-system-to-automate-civil-service-pension/)** — ThisDay, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
+
+Ondo State launched Ondo AI, a platform built by SmartApps IT Limited that automates civil-service personnel records, payroll, retirement processing and pension migration. It flags workers nearing retirement and gives staff self-service payslips. <span class="bulletin-item__also">*Also under [AI](#ai) and [Digitalisation of sub-national government](#digitalisation-of-sub-national-government).*</span>
+
+</div>
+
+<div class="bulletin-item" data-places="BFA" markdown="1">
+
+**[Burkina Faso : vers des aéroports intelligents grâce à la numérisation des opérations](https://www.wearetech.africa/fr/fils/actualites/tech/burkina-faso-vers-des-aeroports-intelligents-grace-a-la-numerisation-des-operations)** — wearetech.africa, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/BFA/" title="BFA">Burkina Faso</a>
+
+Burkina Faso's state airports company SAFA signed a memorandum with ACI Africa and Germany's Barthauer Software to pilot the SACOS airport certification and operations platform. The pilot covers runway inspections, certification, document management and safety tracking, before any wider roll-out.
+
+</div>
+
+<div class="bulletin-item" data-places="GAB" markdown="1">
+
+**[Archives parlementaires : L'Assemblée nationale et le Sénat misent sur la numérisation pour préserver leurs archives](https://www.gabonreview.com/archives-parlementaires-lassemblee-nationale-et-le-senat-misent-sur-la-numerisation-pour-preserver-leurs-archives/)** — GabonReview, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GAB/" title="GAB">Gabon</a>
+
+Gabon's National Assembly closed a two-day seminar on 24 September on managing, preserving and digitising parliamentary archives, held with the French Parliament under a parliamentary cooperation programme. It trained archive, IT and records staff and aimed to lay the basis of a document policy suited to digital transformation. <span class="bulletin-item__also">*Also under [Training and skills](#training-and-skills).*</span>
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="TUN" markdown="1">
+
+**[مدير عام تفقدية الشغل: نحو اعتماد ''التابلات'' في عمليات الرقابة](https://www.alchourouk.com/article/%D9%85%D8%AF%D9%8A%D8%B1-%D8%B9%D8%A7%D9%85-%D8%AA%D9%81%D9%82%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D8%B4%D8%BA%D9%84-%D9%86%D8%AD%D9%88-%D8%A7%D8%B9%D8%AA%D9%85%D8%A7%D8%AF-%D8%A7%D9%84%D8%AA%D8%A7%D8%A8%D9%84%D8%A7%D8%AA-%D9%81%D9%8A-%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D9%82%D8%A7%D8%A8%D8%A9)** — Al Chourouk, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TUN/" title="TUN">Tunisia</a>
+
+Summarised under [Data Exchange](#data-exchange).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="SLE" markdown="1">
+
+**[UNGA81: Sierra Leone unveils Open Source Policy to address digital fragmentation and vendor lock-in](https://techreviewafrica.com/news/7450/)** — Tech Review Africa, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SLE/" title="SLE">Sierra Leone</a>
+
+Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="SLE" markdown="1">
+
+**[UNGA81: Sierra Leone pushes country ownership and regional cooperation for Digital Public Infrastructure](https://techreviewafrica.com/news/7457/)** — Tech Review Africa, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SLE/" title="SLE">Sierra Leone</a>
+
+Summarised under [Regional collaboration](#regional-collaboration).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="RWA" markdown="1">
+
+**[Le Rwanda et la Jordanie ouvrent une coopération sur l'IA, l'identité numérique et les services publics](https://www.wearetech.africa/fr/fils/actualites/tech/le-rwanda-et-la-jordanie-ouvrent-une-cooperation-sur-l-ia-l-identite-numerique-et-les-services-publics)** — wearetech.africa, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a>
+
+Summarised under [Regional collaboration](#regional-collaboration).
 
 </div>
 
@@ -479,29 +598,11 @@ Summarised under [Technical Capacity](#technical-capacity).
 
 ### Digitalisation of sub-national government
 
-<div class="bulletin-item bulletin-item--xref" data-places="TCD" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="NGA" markdown="1">
 
-**[Tchad, N'Djamena lance la numérisation de son état civil](https://www.wearetech.africa/fr/fils/actualites/tech/tchad-n-djamena-lance-la-numerisation-de-son-etat-civil)** — wearetech.africa, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TCD/" title="TCD">Chad</a>
+**[Ondo Launches AI System to Automate Civil Service, Pension](https://www.thisdaylive.com/2026/09/25/ondo-launches-ai-system-to-automate-civil-service-pension/)** — ThisDay, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
 
-Summarised under [Digital Identity and CRVS](#digital-identity-and-crvs).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="TCD" markdown="1">
-
-**[Chad: N'Djamena Launches Civil Registry Digitization Drive](https://www.wearetech.africa/en/fils-uk/news/tech/chad-n-djamena-launches-civil-registry-digitization-drive)** — We are Tech, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TCD/" title="TCD">Chad</a>
-
-Summarised under [Data Exchange](#data-exchange).
-
-</div>
-
-### Rural digital data capture
-
-<div class="bulletin-item bulletin-item--xref" data-places="NGA SEN LBR" markdown="1">
-
-**[The $6.8M credit engine hidden inside a Nigerian cassava patch](https://techcabal.com/2026/09/24/the-6-8m-credit-engine-hidden-inside-a-nigerian-cassava-patch/)** — TechCabal, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SEN/" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/LBR/" title="LBR">Liberia</a>
-
-Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
+Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
 
 </div>
 
@@ -509,157 +610,213 @@ Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 
 ### AI
 
-<div class="bulletin-item" data-places="ZWE" markdown="1">
+<div class="bulletin-item" data-places="ZAF" markdown="1">
 
-**[UNGA81: Zimbabwe deepens dialogue with Google on AI and digital economy](https://techreviewafrica.com/news/7446/)** — Tech Review Africa, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZWE/" title="ZWE">Zimbabwe</a>
+**[ITWeb TV: FNB moves past AI hype to measurable business value](https://www.itweb.co.za/article/itweb-tv-fnb-moves-past-ai-hype-to-measurable-business-value/lwrKxv3Yy9KMmg1o)** — ITWeb, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
 
-ICT minister Tatenda Mavetera said President Mnangagwa met Google senior vice president James Manyika on the sidelines of UNGA81 to deepen engagement on AI, digital skills, research and home-grown innovation. No agreement, funding or programme was announced. <span class="bulletin-item__also">*Also under [US / hyperscaler activities](#us-hyperscaler-activities).*</span>
-
-</div>
-
-<div class="bulletin-item" data-places="" markdown="1">
-
-**[MOFCOM regular press conference (2026-09-24): first China-US AI dialogue under trade consultation mechanism](https://www.mofcom.gov.cn/xwfbzt/2026/swbzklxxwfbh2026n9y24r/index.html)** — Ministry of Commerce of the People's Republic of China (MOFCOM), 24 September 2026
-
-China's commerce ministry said the eighth round of China-US trade consultations in New York included the first dialogue on artificial intelligence under the consultation mechanism, between Vice Premier He Lifeng and US Treasury Secretary Scott Bessent. No outcome on AI was stated beyond continued communication. <span class="bulletin-item__also">*Also under [China activities](#china-activities) and [US / hyperscaler activities](#us-hyperscaler-activities).*</span>
+FNB's AI executive for retail and business banking, Dané Liebenberg, said the bank judges its AI deployments on four measures: sales revenue, process efficiency and cost to serve, fraud losses, and the effect on employees' workload. Its AI tools include the FNB banking app and NAVi, which supports advisers with customer insights. <span class="bulletin-item__also">*Also under [ICT Industry](#ict-industry).*</span>
 
 </div>
 
-<div class="bulletin-item" data-places="KEN" markdown="1">
+<div class="bulletin-item" data-places="ZAF XSS" markdown="1">
 
-**[MCAAI drives Dholuo speech data collection to improve AI representation](https://techreviewafrica.com/news/7404/)** — Tech Review Africa, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
+**[Consumer-acceptance of artificial intelligence-driven delivery systems in sub-Saharan Africa: A systematic review of contextual factors with implications for South Africa](https://sajim.co.za/index.php/sajim/article/view/2228)** — South African Journal of Information Management (SAJIM), 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XSS/" title="XSS">Sub-Saharan Africa</a>
 
-The Maseno Centre for Applied Artificial Intelligence ran a preparatory visit to Suba ahead of collecting Dholuo speech data to improve the language's representation in AI systems, onboarding participants to its SmartVoice app. The work involves the ACTS-AI4D team. <span class="bulletin-item__also">*Also under [Research institutions](#research-institutions).*</span>
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="KEN" markdown="1">
-
-**[UNGA81: Kenya proposes cross-border digital public service pilot for Africa](https://techreviewafrica.com/news/7426/)** — Tech Review Africa, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
-
-Summarised under [Regional collaboration](#regional-collaboration).
+A systematic review of 42 studies on consumer acceptance of AI-driven delivery systems in sub-Saharan Africa, with implications for South Africa, finds perceived usefulness and ease of use studied together most often, in 57% of studies. Infrastructure access and digital literacy were examined together in a third of them, and institutional and policy support least often. <span class="bulletin-item__also">*Also under [Access to services](#access-to-services).*</span>
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="KEN" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="TUN" markdown="1">
 
-**[UNGA81: Kenya joins global leaders to promote children's rights in the Age of AI](https://techreviewafrica.com/news/7445/)** — Tech Review Africa, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
-
-Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="KEN" markdown="1">
-
-**[Kenya signs AI deal with Anthropic as Ruto leads UN delegation in New York](https://www.pulse.co.ke/story/kenya-signs-major-ai-deal-with-anthropic-in-new-york-2026092406143386985)** — Pulse Kenya, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
-
-Summarised under [Data protection](#data-protection).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="GHA KEN XAF" markdown="1">
-
-**[How Africa's AI boom is leaving 100 million disabled citizens behind](https://techcabal.com/2026/09/24/africas-ai-ambitions-have-a-disability-data-problem/)** — TechCabal, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GHA/" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
-
-Summarised under [Data protection](#data-protection).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="GHA" markdown="1">
-
-**[Ghana signs agreement with Intel to expand AI for Youth programme](https://www.myjoyonline.com/ghana-signs-agreement-with-intel-to-expand-ai-for-youth-programme/)** — MyJoyOnline, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GHA/" title="GHA">Ghana</a>
-
-Summarised under [MoUs and other agreements](#mous-and-other-agreements).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="XAF" markdown="1">
-
-**[Africa's Place In Global AI Governance](https://cioafrica.co/africas-place-in-global-ai-governance/)** — CIO Africa, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
+**[Étude sur la transformation digitale et l'IA en Tunisie - Édition 2026](https://fr.linkedin.com/pulse/%C3%A9tude-sur-la-transformation-digitale-et-lia-en-tunisie-arnault-chatel-mdxje)** — Arnault Chatel (LinkedIn Pulse), 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TUN/" title="TUN">Tunisia</a>
 
 Summarised under [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).
 
 </div>
 
-<div class="bulletin-item bulletin-item--xref" data-places="XAF" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="RWA" markdown="1">
 
-**[Africa's AI Crossroads: From Readiness to Public Value](https://www.undp.org/africa/blog/africas-ai-crossroads-readiness-public-value)** — UNDP Regional Service Centre for Africa / Digital, AI and Innovation Hub, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
+**[Rwanda leads discussion on AI scaling in health, agriculture](https://www.newtimes.co.rw/article/39235/news/technology/rwanda-leads-discussion-on-ai-scaling-in-health-agriculture)** — The New Times, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a>
 
-Summarised under [Technical Capacity](#technical-capacity).
-
-</div>
-
-### ICT Industry
-
-<div class="bulletin-item bulletin-item--xref" data-places="UGA" markdown="1">
-
-**[Airtel Uganda Rolls Out Starlink Satellite-to-Mobile Service](https://techafricanews.com/2026/09/24/airtel-uganda-rolls-out-starlink-satellite-to-mobile-service/)** — Tech Africa News, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/UGA/" title="UGA">Uganda</a>
-
-Summarised under [Connectivity](#connectivity).
+Summarised under [Sectoral management information systems](#sectoral-management-information-systems).
 
 </div>
 
-### Innovation ecosystem
+<div class="bulletin-item bulletin-item--xref" data-places="NGA" markdown="1">
 
-<div class="bulletin-item bulletin-item--xref" data-places="ZWE" markdown="1">
-
-**[Zimbabwe Stock Exchange launches InvoiceX 48-hour invoice discounting market](https://bcrpub.com/news/zimbabwe-stock-exchange-launches-invoicex-48-hour-invoice-discounting-market/)** — BCR Publishing, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZWE/" title="ZWE">Zimbabwe</a>
-
-Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="CIV" markdown="1">
-
-**[Cote d'Ivoire targets emerging technologies to drive growth and digital sovereignty](https://techreviewafrica.com/news/7410/)** — Tech Review Africa, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/CIV/" title="CIV">Côte d'Ivoire</a>
-
-Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="KEN" markdown="1">
-
-**[Co-op Bank, UNCDF launch financing facility to boost Kenya's digital](https://biznakenya.com/co-op-bank-uncdf-launch-financing-facility-to-boost-kenyas-digital/)** — Bizna Kenya, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
-
-Summarised under [New investments](#new-investments).
-
-</div>
-
-## Capacity
-
-### Training and skills
-
-<div class="bulletin-item bulletin-item--xref" data-places="XAF" markdown="1">
-
-**[Nearly 50 African women cybersecurity professionals gather in Addis Ababa for regional training](https://techreviewafrica.com/news/7421/)** — Tech Review Africa, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
-
-Summarised under [Cybersecurity](#cybersecurity).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="GHA" markdown="1">
-
-**[Ghana signs agreement with Intel to expand AI for Youth programme](https://www.myjoyonline.com/ghana-signs-agreement-with-intel-to-expand-ai-for-youth-programme/)** — MyJoyOnline, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GHA/" title="GHA">Ghana</a>
-
-Summarised under [MoUs and other agreements](#mous-and-other-agreements).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="SWZ" markdown="1">
-
-**[E1.06BN DIGITAL ESWATINI PUTS PEOPLE BEFORE TECHNOLOGY](https://eswatinipositivenews.online/e1-06bn-digital-eswatini-puts-people-before-technology/)** — Eswatini Positive News, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SWZ/" title="SWZ">Eswatini</a>
+**[Ondo Launches AI System to Automate Civil Service, Pension](https://www.thisdaylive.com/2026/09/25/ondo-launches-ai-system-to-automate-civil-service-pension/)** — ThisDay, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
 
 Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
 
 </div>
 
-### Research institutions
+<div class="bulletin-item bulletin-item--xref" data-places="RWA" markdown="1">
 
-<div class="bulletin-item bulletin-item--xref" data-places="KEN" markdown="1">
+**[Nsengiyumva: AI Governance Cannot Be Inclusive Without Countries That Do Not Build AI](https://www.ktpress.rw/2026/09/nsengiyumva-ai-governance-cannot-be-inclusive-without-countries-that-do-not-build-ai/)** — KT Press, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a>
 
-**[MCAAI drives Dholuo speech data collection to improve AI representation](https://techreviewafrica.com/news/7404/)** — Tech Review Africa, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
+Summarised under [Regional collaboration](#regional-collaboration).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="XWA" markdown="1">
+
+**[IA bancaire dans l'UEMOA : De l'acces a l'usage, la nouvelle frontiere selon les presidents de la FAPBEF et de l'APBEF Senegal](https://www.dakaractu.com/IA-bancaire-dans-l-UEMOA-De-l-acces-a-l-usage-la-nouvelle-frontiere-selon-les-presidents-de-la-FAPBEF-et-de-l-APBEF_a276365.html)** — Dakaractu, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XWA/" title="XWA">West Africa</a>
+
+Summarised under [Regional collaboration](#regional-collaboration).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="NGA" markdown="1">
+
+**[How AI deepfakes, cyberstalking endanger women -Experts](https://www.vanguardngr.com/2026/09/how-ai-deepfakes-cyberstalking-endanger-women-experts/)** — Vanguard, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
+
+Summarised under [Data protection](#data-protection).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="GHA" markdown="1">
+
+**[GCIF cautions public as criminals deploy AI in phishing attacks](https://www.myjoyonline.com/gcif-cautions-public-as-criminals-deploy-ai-in-phishing-attacks/)** — MyJoyOnline, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GHA/" title="GHA">Ghana</a>
+
+Summarised under [Cybersecurity](#cybersecurity).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="EGY" markdown="1">
+
+**[Egypt AI Council Reviews National AI Strategy Progress, Quantum Computing Plans](https://techafricanews.com/2026/09/25/egypt-ai-council-national-ai-strategy-quantum-computing/)** — Tech Africa News, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/EGY/" title="EGY">Egypt</a>
+
+Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="ZAF" markdown="1">
+
+**[Did you just train your replacement?](https://www.itweb.co.za/article/did-you-just-train-your-replacement/Pero3qZ362BvQb6m)** — ITWeb, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
+
+Summarised under [Data protection](#data-protection).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="NGA" markdown="1">
+
+**[At Editors' Conference, Amupitan Says INEC Deploying AI to Detect Result Errors Ahead of 2027](https://www.thisdaylive.com/2026/09/25/at-editors-conference-amupitan-says-inec-deploying-ai-to-detect-result-errors-ahead-of-2027/)** — ThisDay, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
+
+Summarised under [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="GHA XAF" markdown="1">
+
+**[African states must strengthen safeguards against AI-driven electoral manipulation – Kwasi Prempeh](https://www.myjoyonline.com/african-states-must-strengthen-safeguards-against-ai-driven-electoral-manipulation-kwasi-prempeh/)** — MyJoyOnline, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GHA/" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
+
+Summarised under [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).
+
+</div>
+
+### ICT Industry
+
+<div class="bulletin-item" data-places="XAF" markdown="1">
+
+**[The vacuum Lisk's exit leaves in Africa's Web3 funding](https://techcabal.com/2026/09/25/the-vacuum-lisks-exit-leaves-in-africas-web3-funding/)** — TechCabal, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
+
+Lisk, the Swiss Web3 company, is to shut its blockchain on 31 October and move its remaining products and developers to Celo, removing one of the few ecosystems still funding early-stage African Web3 founders, often with grants of about $4,000 in its own token. African blockchain companies raised $90.1 million across 28 deals in 2025, down 26.6% on the year before, according to Crypto Valley VC. <span class="bulletin-item__also">*Also under [Innovation ecosystem](#innovation-ecosystem).*</span>
+
+</div>
+
+<div class="bulletin-item" data-places="GAB" markdown="1">
+
+**[Drones et satellites : le Gabon mise sur la haute technologie pour reprendre le contrôle de son territoire](https://union.sonapresse.com/fr/drones-et-satellites-le-gabon-mise-sur-la-haute-technologie-pour-reprendre-le-controle-de-son)** — L'Union (Sonapresse), 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GAB/" title="GAB">Gabon</a>
+
+At the first Gabon Drone Expo, Drone Hub's director-general Nicolas Adias said Gabon loses about €15 million a year to illegal logging and that near-permanent cloud cover limits optical satellite monitoring of forests and coastal waters. He presented drones, already used by the space observation agency AGEOS, as a way to fly under the clouds and give near real-time information. <span class="bulletin-item__also">*Also under [Use of satellite data](#use-of-satellite-data) and [Digital sovereignty](#digital-sovereignty).*</span>
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="ZAF" markdown="1">
+
+**[Paystack Launches South Africa's First Onsite Card Checkout for Shopify](https://techafricanews.com/2026/09/25/paystack-south-africa-onsite-card-checkout-shopify/)** — Tech Africa News, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
+
+Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="ZAF" markdown="1">
+
+**[ITWeb TV: FNB moves past AI hype to measurable business value](https://www.itweb.co.za/article/itweb-tv-fnb-moves-past-ai-hype-to-measurable-business-value/lwrKxv3Yy9KMmg1o)** — ITWeb, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
 
 Summarised under [AI](#ai).
+
+</div>
+
+### Innovation ecosystem
+
+<div class="bulletin-item bulletin-item--xref" data-places="SLE" markdown="1">
+
+**[UNGA81: Four Sierra Leonean teams submit Digital Public Goods to Global Registry](https://techreviewafrica.com/news/7453/)** — Tech Review Africa, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SLE/" title="SLE">Sierra Leone</a>
+
+Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="XAF" markdown="1">
+
+**[The vacuum Lisk's exit leaves in Africa's Web3 funding](https://techcabal.com/2026/09/25/the-vacuum-lisks-exit-leaves-in-africas-web3-funding/)** — TechCabal, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
+
+Summarised under [ICT Industry](#ict-industry).
+
+</div>
+
+## Capacity
+
+### Literacy
+
+<div class="bulletin-item bulletin-item--xref" data-places="SEN" markdown="1">
+
+**[Kaolack: les acteurs communautaires à l'école des enjeux du numérique](https://lesoleil.sn/actualites/technologie/kaolack-les-acteurs-communautaires-a-lecole-des-enjeux-du-numerique/)** — Le Soleil, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SEN/" title="SEN">Senegal</a>
+
+Summarised under [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).
+
+</div>
+
+### Training and skills
+
+<div class="bulletin-item bulletin-item--xref" data-places="TUN" markdown="1">
+
+**[Étude sur la transformation digitale et l'IA en Tunisie - Édition 2026](https://fr.linkedin.com/pulse/%C3%A9tude-sur-la-transformation-digitale-et-lia-en-tunisie-arnault-chatel-mdxje)** — Arnault Chatel (LinkedIn Pulse), 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/TUN/" title="TUN">Tunisia</a>
+
+Summarised under [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="SEN" markdown="1">
+
+**[Kaolack: les acteurs communautaires à l'école des enjeux du numérique](https://lesoleil.sn/actualites/technologie/kaolack-les-acteurs-communautaires-a-lecole-des-enjeux-du-numerique/)** — Le Soleil, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SEN/" title="SEN">Senegal</a>
+
+Summarised under [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="GMB" markdown="1">
+
+**[Information Commission trains CSOs on access to information, data protection](https://thepoint.gm/africa/gambia/national-news/information-commission-trains-csos-on-access-to-information-data-protection)** — The Point, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GMB/" title="GMB">Gambia</a>
+
+Summarised under [Data protection](#data-protection).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="GHA" markdown="1">
+
+**[GCIF cautions public as criminals deploy AI in phishing attacks](https://www.myjoyonline.com/gcif-cautions-public-as-criminals-deploy-ai-in-phishing-attacks/)** — MyJoyOnline, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GHA/" title="GHA">Ghana</a>
+
+Summarised under [Cybersecurity](#cybersecurity).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="GAB" markdown="1">
+
+**[Archives parlementaires : L'Assemblée nationale et le Sénat misent sur la numérisation pour préserver leurs archives](https://www.gabonreview.com/archives-parlementaires-lassemblee-nationale-et-le-senat-misent-sur-la-numerisation-pour-preserver-leurs-archives/)** — GabonReview, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GAB/" title="GAB">Gabon</a>
+
+Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
 
 </div>
 
@@ -667,74 +824,110 @@ Summarised under [AI](#ai).
 
 ### Access to services
 
-<div class="bulletin-item bulletin-item--xref" data-places="CPV" markdown="1">
+<div class="bulletin-item bulletin-item--xref" data-places="NGA" markdown="1">
 
-**[UGPE — Digital Cabo Verde project mission review: 80%/40% disbursement, school connectivity priority](https://backend-ugpe.gov.cv/noticias/review-meeting-of-the-cape-verde-digital-project-mission-highlights-progress-and-next-steps/)** — UGPE (Unidade de Gestão de Projetos Especiais), Cabo Verde, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/CPV/" title="CPV">Cape Verde</a>
+**[What happens when a PoS terminal becomes an investment outlet?](https://techcabal.com/2026/09/25/moniepoint-pos-network-investment-network/)** — TechCabal, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
 
-Summarised under [New investments](#new-investments).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="GHA KEN XAF" markdown="1">
-
-**[How Africa's AI boom is leaving 100 million disabled citizens behind](https://techcabal.com/2026/09/24/africas-ai-ambitions-have-a-disability-data-problem/)** — TechCabal, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GHA/" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
-
-Summarised under [Data protection](#data-protection).
-
-</div>
-
-## Geopolitics
-
-### US / hyperscaler activities
-
-<div class="bulletin-item bulletin-item--xref" data-places="ZWE" markdown="1">
-
-**[UNGA81: Zimbabwe deepens dialogue with Google on AI and digital economy](https://techreviewafrica.com/news/7446/)** — Tech Review Africa, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZWE/" title="ZWE">Zimbabwe</a>
-
-Summarised under [AI](#ai).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="" markdown="1">
-
-**[MOFCOM regular press conference (2026-09-24): first China-US AI dialogue under trade consultation mechanism](https://www.mofcom.gov.cn/xwfbzt/2026/swbzklxxwfbh2026n9y24r/index.html)** — Ministry of Commerce of the People's Republic of China (MOFCOM), 24 September 2026
-
-Summarised under [AI](#ai).
-
-</div>
-
-<div class="bulletin-item bulletin-item--xref" data-places="ZAF" markdown="1">
-
-**[Microsoft South Africa highlights six dimensions of digital sovereignty for AI Era](https://techreviewafrica.com/news/7405/)** — Tech Review Africa, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
-
-Summarised under [Data Storage](#data-storage).
-
-</div>
-
-### China activities
-
-<div class="bulletin-item bulletin-item--xref" data-places="" markdown="1">
-
-**[MOFCOM regular press conference (2026-09-24): first China-US AI dialogue under trade consultation mechanism](https://www.mofcom.gov.cn/xwfbzt/2026/swbzklxxwfbh2026n9y24r/index.html)** — Ministry of Commerce of the People's Republic of China (MOFCOM), 24 September 2026
-
-Summarised under [AI](#ai).
-
-</div>
-
-### Digital sovereignty
-
-<div class="bulletin-item bulletin-item--xref" data-places="ZAF" markdown="1">
-
-**[Microsoft South Africa highlights six dimensions of digital sovereignty for AI Era](https://techreviewafrica.com/news/7405/)** — Tech Review Africa, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
-
-Summarised under [Data Storage](#data-storage).
+Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 
 </div>
 
 <div class="bulletin-item bulletin-item--xref" data-places="XAF" markdown="1">
 
-**[Africa's Place In Global AI Governance](https://cioafrica.co/africas-place-in-global-ai-governance/)** — CIO Africa, 24 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
+**[UNGA81: Smart Africa CEO advocates for affordability to be treated as economic and fiscal priority](https://techreviewafrica.com/news/7462/unga81-smart-africa-ceo-advocates-for-affordability-to-be-treated-as-economic-and-fiscal-priority)** — TechReviewAfrica, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XAF/" title="XAF">Africa</a>
 
-Summarised under [Public debate and participation in policymaking](#public-debate-and-participation-in-policymaking).
+Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="ZAF XSS" markdown="1">
+
+**[Consumer-acceptance of artificial intelligence-driven delivery systems in sub-Saharan Africa: A systematic review of contextual factors with implications for South Africa](https://sajim.co.za/index.php/sajim/article/view/2228)** — South African Journal of Information Management (SAJIM), 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XSS/" title="XSS">Sub-Saharan Africa</a>
+
+Summarised under [AI](#ai).
+
+</div>
+
+### Digital divides
+
+<div class="bulletin-item bulletin-item--xref" data-places="LBR" markdown="1">
+
+**[Liberia: Ten Liberian Civil Society Groups Launch Digital Advocacy and Rights Alliance](https://frontpageafricaonline.com/liberia-ten-liberian-civil-society-groups-launch-digital-advocacy-and-rights-alliance/)** — FrontPage Africa, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/LBR/" title="LBR">Liberia</a>
+
+Summarised under [Data protection](#data-protection).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="NGA" markdown="1">
+
+**[How AI deepfakes, cyberstalking endanger women -Experts](https://www.vanguardngr.com/2026/09/how-ai-deepfakes-cyberstalking-endanger-women-experts/)** — Vanguard, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
+
+Summarised under [Data protection](#data-protection).
+
+</div>
+
+## Data
+
+### National statistics
+
+<div class="bulletin-item" data-places="GNQ" markdown="1">
+
+**[INEGE presenta la novena edición del Anuario Estadístico y llama a convertir los datos en decisiones](https://ahoraeg.com/economia/2026/09/25/el-inege-presenta-la-novena-edicion-del-anuario-estadistico-y-llama-a-convertir-los-datos-en-decisiones/)** — AHORAEG, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GNQ/" title="GNQ">Eq. Guinea</a>
+
+Equatorial Guinea's statistics institute INEGE presented the ninth edition of the national Statistical Yearbook in Malabo, covering the last five years. It named stronger administrative registers, digitised processes and interoperable information systems as outstanding challenges, and announced a fifth population and housing census and a first agricultural census, with no dates.
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="XCA" markdown="1">
+
+**[Données énergétiques : la CEMAC veut parler d'une même voix](https://www.gabonreview.com/donnees-energetiques-la-cemac-veut-parler-dune-meme-voix/)** — GabonReview, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XCA/" title="XCA">Central Africa</a>
+
+Summarised under [Regional collaboration](#regional-collaboration).
+
+</div>
+
+### Use of satellite data
+
+<div class="bulletin-item bulletin-item--xref" data-places="GAB" markdown="1">
+
+**[Drones et satellites : le Gabon mise sur la haute technologie pour reprendre le contrôle de son territoire](https://union.sonapresse.com/fr/drones-et-satellites-le-gabon-mise-sur-la-haute-technologie-pour-reprendre-le-controle-de-son)** — L'Union (Sonapresse), 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GAB/" title="GAB">Gabon</a>
+
+Summarised under [ICT Industry](#ict-industry).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="CIV" markdown="1">
+
+**[Côte d'Ivoire links space infrastructure to digital transformation agenda](https://techreviewafrica.com/news/7456/)** — Tech Review Africa, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/CIV/" title="CIV">Côte d'Ivoire</a>
+
+Summarised under [Connectivity](#connectivity).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="AGO" markdown="1">
+
+**[Angola and UAE strengthen space cooperation through new letter of intent](https://techreviewafrica.com/news/7466/)** — Tech Review Africa, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/AGO/" title="AGO">Angola</a>
+
+Summarised under [MoUs and other agreements](#mous-and-other-agreements).
+
+</div>
+
+## Geopolitics
+
+### Digital sovereignty
+
+<div class="bulletin-item bulletin-item--xref" data-places="GAB" markdown="1">
+
+**[Drones et satellites : le Gabon mise sur la haute technologie pour reprendre le contrôle de son territoire](https://union.sonapresse.com/fr/drones-et-satellites-le-gabon-mise-sur-la-haute-technologie-pour-reprendre-le-controle-de-son)** — L'Union (Sonapresse), 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GAB/" title="GAB">Gabon</a>
+
+Summarised under [ICT Industry](#ict-industry).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" data-places="XCA" markdown="1">
+
+**[Données énergétiques : la CEMAC veut parler d'une même voix](https://www.gabonreview.com/donnees-energetiques-la-cemac-veut-parler-dune-meme-voix/)** — GabonReview, 25 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/XCA/" title="XCA">Central Africa</a>
+
+Summarised under [Regional collaboration](#regional-collaboration).
 
 </div>
