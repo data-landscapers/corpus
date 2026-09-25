@@ -1,11 +1,11 @@
 ---
 title: Nigeria — monthly update, August – September 2026
-compiled: 2026-09-24
-period: 2026-08-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2026-08-01 to 2026-09-25
 place: NGA
-ledger_rows: 224
+ledger_rows: 229
 not_held: 9
-record: df2dbcac00bc
+record: 61b3458088a3
 ---
 
 # Nigeria: monthly update, August – September 2026
@@ -232,6 +232,8 @@ The survey behind the country's headline inclusion figure entered the repository
 On the cross-border rail the operator reported [Nigeria–Rwanda volumes approaching and in places exceeding Nigeria–Ghana, corridors with Cameroon, Niger and Benin growing on trade in Nigerian goods, and church contributions remitted from elsewhere in Africa as a notable component of activity](https://nairametrics.com/2026/09/05/nigerian-churches-drive-rising-cross-border-payments-across-africa-papss-says/) — no volumes, values or period attached to any of it. In the other direction, [diaspora inflows held steady at US$21.8bn in 2025 on central bank figures, against an average 8.46% cost to send US$200 into the region and app-based rivals quoting 2–3% on the London–Lagos corridor](https://techtrends.africa/how-remittance-startups-are-undercutting-western-union-across-africa/).
 
 A new inclusion survey replaced the 2023 baseline. The 2026 round [puts digital financial services use at 64 per cent of adults from 47 per cent, mobile money at 38 per cent from 12 per cent, and exclusion at 21 per cent, with 53 per cent of the poorest fifth still excluded and 92 per cent of agricultural workers paid in cash](https://thenationonlineng.net/report-digital-finance-usage-hits-64/). The same round [puts overall use at 79 per cent of adults and formal inclusion at 73 per cent, past the national strategy's 70 per cent target](https://independent.ng/nigerias-financial-inclusion-reaches-79-as-efinas-a2f-2026-survey-points-to-next-challenge/). At its launch the central bank said it had [completed its review of the third inclusion strategy and begun the fourth](https://www.premiumtimesng.com/business/business-news/910100-cbn-begins-work-on-new-financial-inclusion-strategy-targets-deeper-access.html), and the trade minister [inaugurated a steering committee for a strategy to let firms borrow against verified digital invoices](https://thesun.ng/fg-targets-cheap-loans-with-digital-invoices/).
+
+Two private rails widened what they carry. Remita, whose rails carry government and enterprise payments, [launched a consumer super app on 22 September with multi-bank aggregation, transfers to other African countries over the continental rail and a loans marketplace matching borrowers on NIN and BVN verification](https://thecondia.com/remita-launches-super-app/); no user or transfer figure is published. Moniepoint [began selling shares in the Dangote refinery's public offer through its agent terminals in all 774 local government areas, buyers identified by BVN and capped at N100,000 each](https://techcabal.com/2026/09/25/moniepoint-pos-network-investment-network/).
 <!-- /narrative -->
 ### Registries
 
@@ -273,6 +275,8 @@ A state payroll moved onto one record. Ondo State [launched Ondo Pay on 4 Septem
 The police opened a public fraud-reporting channel on 1 September, and it is the fourth such platform in a decade. [The app lets people report suspected financial fraud, upload evidence, track cases and receive feedback, built by the force's own ICT department with financial-sector stakeholders](https://techcabal.com/2026/09/07/nigerias-police-vigilant-app-raises-questions-duplicate-fraud-reporting/), and it arrives over a cybercrime centre already logging about 146,000 reports and about ₦58bn in recovered assets. Nothing published says how the new channel routes against the centre already running, or what became of the three earlier platforms.
 
 Two September measures reach further into the state. A [single 112 emergency number, approved by the National Economic Council, went to a rollout committee of the police, communications regulator, emergency agency and road safety corps on 8 September](https://www.naltf.gov.ng/shettima-urges-swift-action-as-nigeria-prepares-for-nationwide-rollout-of-112-emergency-line), with funding promised once the roadmap exists. And the procurement bureau's [Digital Submission Portal was made mandatory for every federal agency's procurement requests](https://developmentdiaries.com/as-nigerias-procurement-goes-digital-why-cant-citizens-see-the-contracts/), an internal record that publishes no award. On the one citizen survey held, [digital-government adoption stands at 50% while net satisfaction fell five points from 2024 to 64%](https://techeconomy.ng/report-nigerias-digital-government-adoption-now-50-weekly-usage-hits-91).
+
+Ondo State followed its payroll platform with [Ondo AI, launched to automate personnel administration, payroll, retirement processing and pension migration](https://www.thisdaylive.com/2026/09/25/ondo-launches-ai-system-to-automate-civil-service-pension/). The report does not say whether it is the same platform as Ondo Pay or a second one, and gives no launch date.
 <!-- /narrative -->
 
 ## Digitalisation
@@ -306,6 +310,8 @@ Anambra State [set out a Vision 2030 push on artificial intelligence and paperle
 A platform company [launched an AI Academy with the communications and digital economy ministry, the national skills programme, the artificial-intelligence research centre and a research network](https://techtrends.africa/meta-fmcide-3mtt-and-rain-partner-to-accelerate-ai-skills-and-innovation-in-nigeria/), combining a startup pitch competition, skills courses and a six-week developer bootcamp; ten startups are shortlisted to pitch at a Lagos exhibition on 3 September, with [two winners receiving US$5,000 in cash, US$2,000 in the company's own advertising credits and a trip to its summit in Istanbul](https://techtrends.africa/meta-fmcide-3mtt-and-rain-partner-to-accelerate-ai-skills-and-innovation-in-nigeria/). No cohort size, curriculum, cost or public accounting of the sponsor's role is stated, and part of the prize is denominated in the sponsor's inventory.
 
 A Nigerian startup [released version 2.5 of its African speech-recognition model at the 2026 Deep Learning Indaba in Lagos, supporting bilingual recognition across 12 African language pairs and trilingual Kinyarwanda-English-French recognition, aimed at speakers who switch languages mid-sentence](https://www.itweb.africa/article/intron-launches-african-speech-model/JBwEr7n3WzlM6Db2). The language-pair count and the error rates are the developer's own and no independent evaluation is held.
+
+On 24 September the electoral commission's chairman [said it had begun deploying AI checks inside results management to flag discrepancies before final validation, each subject to human audit, under a new AI Division and an AI Roadmap and Governance Framework](https://www.thisdaylive.com/2026/09/25/at-editors-conference-amupitan-says-inec-deploying-ai-to-detect-result-errors-ahead-of-2027/), four months before the 2027 general elections. The framework text is not held.
 <!-- /narrative -->
 ### ICT Industry
 
@@ -355,6 +361,8 @@ A wider sample gave a less bleak figure: [47% of about 30 government digital pla
 A disability charity and a philanthropic foundation [opened a four-and-a-half-year programme in Lagos on 17 August to bring young people with disabilities into work through digital skills, entrepreneurship and inclusive employment pathways](https://qualitativemagazine.com/lasoda-gm-champions-digital-inclusion-for-young-nigerians-with-disabilities-at-digital-futures-workshop/), with the state disability office committing its support; no participant target or budget is published.
 
 Device prices are rising: [entry-level laptops sold for ₦350,000 to ₦610,000 in Nigerian retail in July 2026, as a memory-chip shortage cut global PC shipments by 4.9% in the second quarter](https://www.vanguardngr.com/2026/07/why-laptops-may-become-more-expensive-in-nigeria/), in a market that imports almost every computer it sells.
+
+A civil-society account on 24 September [reported the national strategy for community-centred connectivity moving into implementation, with regulators estimating over 100,000 communities potentially eligible and an aggregator licensing model under study](https://www.apc.org/en/news/strategy-action-nigerias-communities-push-bridge-digital-divide). The [strategy](https://www.apc.org/sites/default/files/nigeria-ccc-national-strategy_v3.pdf), published in June and running to March 2027, is multistakeholder rather than a government instrument.
 <!-- /narrative -->
 
 ## Data
