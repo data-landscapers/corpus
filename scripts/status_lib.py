@@ -62,7 +62,7 @@ ACQUIRE_DONE_CSV = os.path.join(EXCHANGE, "acquire-done.csv")
 OUTLINE = os.path.join(REPO, "documentation", "status-outline.md")
 REPORTS = os.path.join(REPO, "outputs", "reports")
 
-# `finance.budget` is suspended and a status report carries 37 sub-sections, not 38
+# `finance.budget` is suspended and a status report carries 39 sub-sections, not 40
 # (`documentation/status-outline.md` -> finance.budget).
 SUSPENDED = ("finance.budget",)
 
@@ -281,11 +281,11 @@ def held_urls():
 # --------------------------------------------------------------------------- #
 
 def outline():
-    """[(chapter, slug, label), ...] — the 37 live sub-sections, in `lookups/taxonomy.csv` order.
+    """[(chapter, slug, label), ...] — the 39 live sub-sections, in `lookups/taxonomy.csv` order.
 
     **What is in the document and what order it appears in are two questions, answered by two
     files** *(2026-08-25)*. `documentation/status-outline.md` says what a status report contains —
-    the 37 questions and the guidance under each — and stays the one statement of that, so check E
+    the 39 questions and the guidance under each — and stays the one statement of that, so check E
     cannot fall behind it. It does not say what order the report prints in: `taxonomy.csv` does,
     for every country document at once, which is what Bill asked for on 2026-08-25 and what stops
     the status baseline opening on a different chapter from the monthly beside it.

@@ -1,3 +1,7 @@
+## 25 September 2026
+
+- Every country's status report has two new sections: Financial sustainability, on how far the state pays for its own digital systems, and Digital sovereignty, on how much of its digital estate it controls and on what terms. Each states what the budgets and held sources establish and says plainly what is not yet on record.
+
 ## 24 September 2026
 
 - Eight Cabo Verde and Burundi budget documents catalogued on 24 September now carry dated identifiers. The documents themselves are unchanged.

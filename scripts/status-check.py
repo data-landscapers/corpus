@@ -161,7 +161,7 @@ def check_unit(unit, show_openings=False):
             leaks.append(f"{what}: …{ctx}…")
     r.check("D", "no wikilink or bare repo path", leaks)
 
-    # --- E — 37 sub-sections, in outline order, none empty ---------------------------------
+    # --- E — 39 sub-sections, in outline order, none empty ---------------------------------
     want = S.outline()
     got = [(s, p) for s, _, p in secs]
     problems = []

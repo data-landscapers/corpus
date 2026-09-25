@@ -1,6 +1,6 @@
 # STATUS-INIT.md — country status initialisation
 
-Trigger: **"status-init {ISO3}"**. Builds `outputs/reports/{ISO3}/{ISO3}-status.md` — a narrative answering, for each of the 37 sub-sections of `documentation/status-outline.md`, **what is the current status of this in this country**. The outline's bullets are the checklist of what has to be established, not the shape of the output; the output is prose.
+Trigger: **"status-init {ISO3}"**. Builds `outputs/reports/{ISO3}/{ISO3}-status.md` — a narrative answering, for each of the 39 sub-sections of `documentation/status-outline.md`, **what is the current status of this in this country**. The outline's bullets are the checklist of what has to be established, not the shape of the output; the output is prose.
 
 **The campaign is complete: all 54 countries carry an authored baseline** (`logs/status-init-progress.csv`; a country counts because its report carries `built_by: STATUS-INIT`). The last fourteen — BDI, BWA, COM, DJI, ERI, GMB, GNB, GNQ, LSO, MDG, MLI, MRT, NER, STP — were run on 2026-09-04, and `africa-acquire.csv` carries 1,375 lines across 34 units. *(Corrected 2026-09-04, on the run that finished it. The paragraph before this one said the campaign had stopped at 40 and named the fourteen as outstanding; before **that**, a docs pass on 2026-08-28 had claimed completion when the count had never exceeded 40. Both statements were written away from the checklist. This one is written from it, and `scripts/status-progress.py` is what settles the question — it counts `built_by:` in the reports themselves, so it cannot be talked out of the answer.)* This file remains in force for two reasons: a future re-baseline runs it, and its rules — *When the evidence is borderline*, *Writing*, *Sources and conflicts*, *Verification* — govern every baseline revision `BUILD.md` → *Maintaining the status baseline* makes. The agent briefs it hands out live at `documentation/archived/status-init-extract.md` and `documentation/archived/status-init-write.md`.
 
@@ -45,7 +45,7 @@ Neither the wiki nor the AfDB dataset is a source; both are intermediaries, and 
 
 ## Inputs
 
-- `documentation/status-outline.md` — the question set. **37 sub-sections**; `finance.budget` is suspended; the appendix and `[PROPOSED]` ids are out of scope.
+- `documentation/status-outline.md` — the question set. **39 sub-sections** (`finance.sustain` and `geopol.sovereignty` added 2026-09-25, review 5 R78); `finance.budget` is suspended; the appendix and `[PROPOSED]` ids are out of scope.
 - `lookups/countries.csv` — ISO3 → name → region.
 - `wiki/places/{ISO3}.md` — the hub. Frontmatter `topics:`, `## Active topics` and `## Record not held` are the map; `## Recent developments` is chronology, read only to date a claim; `## Financing` is an uncited aggregate. **Never read a hub whole** (NGA is 301KB).
 - `wiki/intersections/*.md` — **the primary input**, the compiled current state. **Do not construct the filename**: select on frontmatter **`place: {ISO3}`**, which is authoritative in all files (several countries use unexpected prefixes). Take the region's files too where they bear on `gov.regional`. A thin country (Eritrea: none) is a real outcome, not a failed selection.
@@ -96,7 +96,7 @@ Launched as one batch **up to the harness ceiling of 20 concurrent subagents**, 
 
 **The parent pools, dedupes and slices deterministically** — `python scripts/status-pool.py {ISO3}`, one slice per chapter. Two facts are one fact when they state the same thing about the same object; the survivor is `solid` over `borderline`, then better `tier`, then later `published`, taking the union of the losers' `slugs`. Every surviving fact gets an **owner**: the chapter of the slug its extraction agent listed first. The owning chapter states it in full; every other chapter may refer to it in passing but must not restate the figure — otherwise one coverage number appears four times in four voices. Where a sub-section owns nothing, `status-pool.py` promotes its six best-evidenced shared facts into it. **A promoted fact arrives as `mine: true` and the writer states it in full** — that is the point of promotion; `costated` and `owner_slug` are provenance, not a restriction.
 
-**One agent per chapter, ten in a batch** — that fits the ceiling — each given `documentation/archived/status-init-write.md`, the path to its slice, and **its output path, which is `prep/scope/{ISO3}/draft/{nn}-{chapter}.md` and nowhere else**: `status-assemble.py` globs `draft/*.md` and a chapter written anywhere else is invisible to it, so the assemble fails naming all 37 sub-sections as uncarried and the cause is not in the message. Each writer is also given **its sub-sections in outline order, with the `###` label and `<!-- slug -->` comment verbatim** — including any the pool left empty, which the writer still has to emit as a dated *not established* sentence and would otherwise silently drop. Facts and resolved URLs, never raw wiki text. It cannot cite anything not in its slice, which is what makes no-link-no-claim enforceable.
+**One agent per chapter, ten in a batch** — that fits the ceiling — each given `documentation/archived/status-init-write.md`, the path to its slice, and **its output path, which is `prep/scope/{ISO3}/draft/{nn}-{chapter}.md` and nowhere else**: `status-assemble.py` globs `draft/*.md` and a chapter written anywhere else is invisible to it, so the assemble fails naming all 39 sub-sections as uncarried and the cause is not in the message. Each writer is also given **its sub-sections in outline order, with the `###` label and `<!-- slug -->` comment verbatim** — including any the pool left empty, which the writer still has to emit as a dated *not established* sentence and would otherwise silently drop. Facts and resolved URLs, never raw wiki text. It cannot cite anything not in its slice, which is what makes no-link-no-claim enforceable.
 
 ### Stage 3 — the parent assembles
 
@@ -104,14 +104,14 @@ Launched as one batch **up to the harness ceiling of 20 concurrent subagents**, 
 2. **Add the country's rows to `C:\corpus-osint-xfer\africa-acquire.csv`** — `python scripts/status-acquire.py {ISO3} --compiled {date}`. Re-run the assemble afterwards so `acquire_lines` counts the rows that now exist. **Commit anything else standing in the share first, under its own subject line** — the share is a shared repository and CC commits for both sides, so the other author's work goes in its own commit, named as theirs, then `africa-acquire.csv` alone. Push immediately after each.
 3. **Verify** — checks A to I, on the assembled file, never per agent.
 4. **Refresh the checklist**: `python scripts/status-progress.py`. A country counts as through only because its report says `built_by: STATUS-INIT`; the `notes` column is Bill's and survives every rewrite; rows are ordered heaviest first, which is also the run order.
-5. **Report on two lines**: `{ISO3} · sections written NN of 37 · not established NN · sources cited NN · acquire lines NN` and the run cost.
+5. **Report on two lines**: `{ISO3} · sections written NN of 39 · not established NN · sources cited NN · acquire lines NN` and the run cost.
 6. **Log the country and commit it** — one line per country, not per session; the unit of work is the country:
 
     ```bash
     # log-line refuses anything over 40 words — the line is a skim, and what the run learned
     # about the machinery goes in the commit message, not here.
-    python scripts/log-line.py status-init "{ISO3}: 37 sub-sections, NN sources, NN acquire lines, A-I pass — ok"
-    git add -A && git diff --cached --quiet || git commit -m "{ISO3} status baseline: 37 sub-sections, NN sources"
+    python scripts/log-line.py status-init "{ISO3}: 39 sub-sections, NN sources, NN acquire lines, A-I pass — ok"
+    git add -A && git diff --cached --quiet || git commit -m "{ISO3} status baseline: 39 sub-sections, NN sources"
     ```
 
 **On a failure, log what stopped it** (`… errored on DZA at stage 2: <message>`) and leave the country unfinished rather than issuing a partial baseline — an abandoned country simply stays unticked. STATUS-INIT needs no sentinel: it commits at the end of each country, so a dead run leaves either a clean tree at a country boundary or uncommitted work, which RENDER's Step 0 catches anyway.
@@ -212,7 +212,7 @@ The fan-out removes the ceiling: an extraction agent's context is bounded by the
 - **B — every claim is linked.** No sentence states a fact without a hyperlink on it or the sentence before. Two declared exemptions: the *not established* sentence, and a `<!-- derived -->` paragraph. The checker reports every derived paragraph, so the exemption stays visible.
 - **C — every time-varying figure is dated.**
 - **D — no `[[wikilink]]` survives into the output**, and no bare repo path.
-- **E — 37 sub-sections present, in outline order, none empty**, `finance.budget` absent.
+- **E — 39 sub-sections present, in outline order, none empty**, `finance.budget` absent.
 - **F — every acquire line is dated 2024 or later** and carries date, publisher, title, URL and sub-section, read from the exchange feed filtered to the unit.
 - **G — no apparatus reached the page.** Grep for hedges and evidence-talk: *reportedly, apparently, it appears, sources indicate, according to available, it should be noted, however it is unclear, the data suggests, some sources, no source, the base, the dataset, the wiki, conflicting, discrepancy*. Any hit is rewritten or the claim dropped.
 - **H — every sub-section opens on news.** Needs a reader, not a grep.
