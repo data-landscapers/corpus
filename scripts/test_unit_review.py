@@ -62,6 +62,22 @@ with tempfile.TemporaryDirectory() as tmp:
     code, out = run(p, ["next"], NIGHT)
     case("then the oldest date, ties alphabetical", out.startswith("AGO"))
 
+    code, out = run(p, ["list"], NIGHT)
+    case("no counts recorded yet says so", "no review has recorded its counts yet" in out)
+    run(p, ["done", "AGO", "--status", "3", "--progress", "10"], dt.datetime(2026, 9, 20, 23, 0))
+    code, out = run(p, ["done", "BEN", "--status", "0", "--progress", "4"], dt.datetime(2026, 9, 21, 23, 0))
+    case("done prints the rolling mean over reviews with counts",
+         "last 2 reviews: status 1.5 sections, progress 7.0 cells" in out and "holding" in out
+         and "not holding" not in out)
+    code, out = run(p, ["done", "XWA"], dt.datetime(2026, 9, 22, 23, 0))
+    case("a done without counts records blanks, not zeros, and is left out of the mean",
+         "last 2 reviews" in out and "XWA,West Africa,region,2026-09-22,," in open(p).read())
+    m = ur.rolling_mean(ur.load(p, EXPECTED), n=1)
+    case("the mean rolls: only the latest n reviews count", m == (1, 0.0, 4.0))
+    run(p, ["done", "AGO", "--status", "5", "--progress", "1"], dt.datetime(2026, 9, 23, 23, 0))
+    code, out = run(p, ["list"], NIGHT)
+    case("a status mean of two or more is not holding", "status 2.5 sections" in out and "not holding" in out)
+
     case("done on an unknown unit is exit 2", run(p, ["done", "ZZZ"], NIGHT)[0] == 2)
     with open(p, "a", encoding="utf-8") as f:
         f.write("ZZZ,Nowhere,country,\n")
@@ -70,6 +86,11 @@ with tempfile.TemporaryDirectory() as tmp:
     with open(p, "w", encoding="utf-8") as f:
         f.write("unit,name,kind,last_reviewed\nAGO,Angola,country,17/09/2026\n")
     case("a malformed date is exit 2", run(p, ["next", "--poll"], NIGHT)[0] == 2)
+
+    with open(p, "w", encoding="utf-8") as f:
+        f.write("unit,name,kind,last_reviewed,status_revised,progress_revised\n"
+                "AGO,Angola,country,2026-09-17,five,\n")
+    case("a count that is not a whole number is exit 2", run(p, ["next", "--poll"], NIGHT)[0] == 2)
 
 print("\nall cases pass" if not failed else f"\n{failed} case(s) FAILED")
 sys.exit(1 if failed else 0)

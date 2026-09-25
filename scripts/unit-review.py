@@ -2,7 +2,8 @@
 r"""unit-review.py — which place the cycle reviews tonight, and the record of when each was last.
 
     python scripts/unit-review.py next [--poll]   print tonight's units, one a line; exit 1 if none is owed now
-    python scripts/unit-review.py done UNIT       stamp UNIT reviewed today
+    python scripts/unit-review.py done UNIT --status N --progress N
+                                                  stamp UNIT reviewed today, with what it revised
     python scripts/unit-review.py list            the rotation, most overdue first
 
 `UNIT-REVIEW.md` is the procedure. This does the mechanical half: it keeps
@@ -26,6 +27,12 @@ file is wrong and needs repairing before it can answer.
 `REGION_NAMES` and the countries are the rest of `lookups/countries.csv`, which lists both; a unit added to
 either joins the rotation unreviewed on the next call, and a row naming a unit in neither
 is an error rather than a silent survivor.
+
+**What each review revised** *(strategic review 5, R75)*. `done` records the status sections
+and progress cells the review changed, the same two counts its log line carries, and prints
+their mean over the last `ROLLING` reviews. That mean is how much of a report drifted between
+whole reads: under two status sections a unit, BUILD stage 4 is holding. A unit's counts are
+those of its latest review; a `done` without them leaves the counts blank, never zero.
 """
 from __future__ import annotations
 
@@ -39,9 +46,12 @@ import sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ROTATION = os.path.join(ROOT, "logs", "unit-review.csv")
 COUNTRIES = os.path.join(ROOT, "lookups", "countries.csv")
-FIELDS = ["unit", "name", "kind", "last_reviewed"]
+FIELDS = ["unit", "name", "kind", "last_reviewed", "status_revised", "progress_revised"]
+COUNTS = ("status_revised", "progress_revised")
 NIGHT_FROM, NIGHT_TO = 21, 5          # local hours: owed from 21:00 until 04:59
 PER_NIGHT = 2                         # units reviewed per cycle; 62 units -> about a month a round
+ROLLING = 14                          # reviews in the rolling mean: a week at two a night
+HOLDING = 2                           # status sections a unit under which stage 4 is holding
 
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
@@ -61,10 +71,11 @@ def region_names() -> dict[str, str]:
 def places(countries_path: str = COUNTRIES, regions: dict[str, str] | None = None) -> list[dict]:
     """Every unit the rotation must hold, as blank rows."""
     regions = region_names() if regions is None else regions
+    blank = {"last_reviewed": "", "status_revised": "", "progress_revised": ""}
     with open(countries_path, encoding="utf-8-sig", newline="") as f:
-        rows = [{"unit": r["iso-3"], "name": r["country-name"], "kind": "country", "last_reviewed": ""}
+        rows = [{"unit": r["iso-3"], "name": r["country-name"], "kind": "country", **blank}
                 for r in csv.DictReader(f) if r["iso-3"] not in regions]
-    rows += [{"unit": k, "name": v, "kind": "region", "last_reviewed": ""} for k, v in regions.items()]
+    rows += [{"unit": k, "name": v, "kind": "region", **blank} for k, v in regions.items()]
     return rows
 
 
@@ -80,12 +91,17 @@ def load(path: str, expected: list[dict]) -> list[dict]:
                         dt.date.fromisoformat(d)
                     except ValueError:
                         raise RotationError(f"{r.get('unit')}: last_reviewed {d!r} is not YYYY-MM-DD")
-                held[r["unit"]] = d
+                counts = {k: (r.get(k) or "").strip() for k in COUNTS}
+                for k, v in counts.items():
+                    if v and not v.isdigit():
+                        raise RotationError(f"{r.get('unit')}: {k} {v!r} is not a whole number")
+                held[r["unit"]] = {"last_reviewed": d, **counts}
     known = {e["unit"] for e in expected}
     stray = sorted(set(held) - known)
     if stray:
         raise RotationError(f"rotation names units the site does not publish: {', '.join(stray)}")
-    return [dict(e, last_reviewed=held.get(e["unit"], "")) for e in expected]
+    blank = {"last_reviewed": "", "status_revised": "", "progress_revised": ""}
+    return [dict(e, **held.get(e["unit"], blank)) for e in expected]
 
 
 def save(path: str, rows: list[dict]) -> None:
@@ -100,6 +116,26 @@ def overdue_order(rows: list[dict]) -> list[dict]:
     return sorted(rows, key=lambda r: (r["last_reviewed"] != "", r["last_reviewed"], r["unit"]))
 
 
+def rolling_mean(rows: list[dict], n: int = ROLLING) -> tuple[int, float, float] | None:
+    """`(reviews counted, status mean, progress mean)` over the `n` latest reviews with counts."""
+    done = [r for r in rows if r["last_reviewed"] and all(r.get(k) for k in COUNTS)]
+    done = sorted(done, key=lambda r: (r["last_reviewed"], r["unit"]))[-n:]
+    if not done:
+        return None
+    return (len(done), sum(int(r["status_revised"]) for r in done) / len(done),
+            sum(int(r["progress_revised"]) for r in done) / len(done))
+
+
+def mean_line(rows: list[dict]) -> str:
+    m = rolling_mean(rows)
+    if m is None:
+        return "rolling mean: no review has recorded its counts yet"
+    k, st, pr = m
+    verdict = "stage 4 holding" if st < HOLDING else f"stage 4 not holding (under {HOLDING} is)"
+    return (f"rolling mean over the last {k} reviews: status {st:.1f} sections, "
+            f"progress {pr:.1f} cells a unit - {verdict}")
+
+
 def owed_now(poll: bool, now: dt.datetime) -> bool:
     return poll or now.hour >= NIGHT_FROM or now.hour < NIGHT_TO
 
@@ -112,6 +148,8 @@ def main(argv=None, now: dt.datetime | None = None, path: str = ROTATION,
     n.add_argument("--poll", action="store_true", help="the cycle was started by /poll")
     d = sub.add_parser("done")
     d.add_argument("unit")
+    d.add_argument("--status", type=int, help="status sections the review revised")
+    d.add_argument("--progress", type=int, help="progress cells the review revised")
     sub.add_parser("list")
     a = ap.parse_args(argv)
     now = now or dt.datetime.now()
@@ -137,13 +175,19 @@ def main(argv=None, now: dt.datetime | None = None, path: str = ROTATION,
             print(f"unit-review: {unit} is not in the rotation")
             return 2
         hit[0]["last_reviewed"] = now.date().isoformat()
+        hit[0]["status_revised"] = "" if a.status is None else str(a.status)
+        hit[0]["progress_revised"] = "" if a.progress is None else str(a.progress)
         save(path, rows)
         print(f"{unit} reviewed {hit[0]['last_reviewed']}")
+        print(mean_line(rows))
         return 0
 
     save(path, rows)
     for r in overdue_order(rows):
-        print(f"{r['unit']}  {r['kind']:<7}  {r['last_reviewed'] or 'never':<10}  {r['name']}")
+        revised = (f"status {r['status_revised'] or '-':>2}  progress {r['progress_revised'] or '-':>2}"
+                   if r["last_reviewed"] else "")
+        print(f"{r['unit']}  {r['kind']:<7}  {r['last_reviewed'] or 'never':<10}  {r['name']:<26}  {revised}".rstrip())
+    print(mean_line(rows))
     return 0
 
 

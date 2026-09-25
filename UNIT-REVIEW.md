@@ -64,7 +64,7 @@ Commands run from `scripts/.workroot/`, where `raw/` and `wiki/` resolve; the ro
 5. **Record and commit** — from the Corpus root, one commit for the unit, explicit paths, pushed straight away:
 
    ```bash
-   python scripts/unit-review.py done {U}
+   python scripts/unit-review.py done {U} --status <n> --progress <n>   # the counts step 6 logs
    git add outputs/reports/{U} outputs/non-state-finance outputs/budgets scripts logs/unit-review.csv   # only what the run touched
    git commit -F - <<'EOF'
    Review {U}: <what changed, in counts>
@@ -72,7 +72,7 @@ Commands run from `scripts/.workroot/`, where `raw/` and `wiki/` resolve; the ro
    git push
    ```
 
-   A review that changed nothing still stamps and commits the rotation file — *reviewed and right* is a result.
+   A review that changed nothing still stamps and commits the rotation file — *reviewed and right* is a result. `done` prints the rolling mean of status sections revised a unit; under two, BUILD stage 4 is holding (strategic review 5, R75).
 6. **Log it**:
 
    ```bash
@@ -85,7 +85,7 @@ Commands run from `scripts/.workroot/`, where `raw/` and `wiki/` resolve; the ro
 
 **A review never holds the render.** It runs unattended under the cycle's rules: never stop to ask, take the conservative option and say so. If the run cannot finish — context, a check that will not clear, anything — restore the unit's files to `HEAD` (the last good state; nothing of this run's is committed until step 5), **do not stamp the rotation**, so the unit stays first in line, and log `python scripts/log-line.py review "{U}: <what stopped it> — errored"`. The second unit is still reviewed; each unit's commit and log line are its own. The cycle then goes on to `RENDER.md` Step 0, whose check 3 needs `outputs/` clean.
 
-**A unit whose previous review line also `errored` is stamped anyway**, with a message block saying what stopped it twice — otherwise one unit a run cannot finish holds the head of the rotation for ever.
+**A unit whose previous review line also `errored` is stamped anyway**, without counts, with a message block saying what stopped it twice — otherwise one unit a run cannot finish holds the head of the rotation for ever.
 
 ## Boundary
 
