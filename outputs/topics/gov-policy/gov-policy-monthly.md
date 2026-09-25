@@ -1,10 +1,10 @@
 ---
 title: Strategies, plans and policies — monthly update, August – September 2026
-compiled: 2026-09-24
-period: 2026-08-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2026-08-01 to 2026-09-25
 subject: gov.policy
 places: DZA; BWA; BFA; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MWI; MLI; MRT; MUS; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: f4bb55ca638f
+record: c18c1132ce6a
 ---
 
 # Strategies, plans and policies: monthly update, August – September 2026
@@ -97,7 +97,7 @@ Two plans and no strategy is still the position. The transport ministry's [half-
 
 ## Eritrea
 
-The month adds the sector's policy furniture rather than a new instrument. A country profile lists the legal basis as [Communications Proclamation 102 of 1998, the Regulations on Telecommunications Networks and Services of the same year, and a 2003 proclamation establishing the state telecommunications corporation](http://web.archive.org/web/20260824175022/https://dig.watch/countries/eritrea), none of which the repository holds as text. The one sector-specific policy named anywhere is for education: an education profile last modified on 2 September records a [National Policy for ICT in Education, a 2018-2022 sector plan aiming at technology infrastructure and e-learning, and an initiative the ministry launched in January 2005](https://education-profiles.org/sub-saharan-africa/eritrea/~technology), and the sector plan itself states that incorporating technology remains difficult for want of facilities, equipment and teacher training. The profile carrying it is a legacy platform its publisher states is no longer updated. No national digital or ICT strategy appears at any date, so the sector is governed by three texts from 1998 and 2003 that nobody on this repository has read.
+The month adds the sector's policy furniture rather than a new instrument. A country profile lists the legal basis as [Communications Proclamation 102 of 1998, the Regulations on Telecommunications Networks and Services of the same year, and a 2003 proclamation establishing the state telecommunications corporation](http://web.archive.org/web/20260824175022/https://dig.watch/countries/eritrea), none of which the repository holds as text. The one sector-specific policy named anywhere is for education: an education profile last modified on 2 September records a [National Policy for ICT in Education, a 2018-2022 sector plan aiming at technology infrastructure and e-learning, and an initiative the ministry launched in January 2005](https://education-profiles.org/sub-saharan-africa/eritrea/~technology), and the sector plan itself states that incorporating technology remains difficult for want of facilities, equipment and teacher training. The profile carrying it is a legacy platform its publisher states is no longer updated. No national digital or ICT strategy appears at any date, so the sector is governed by three texts from 1998 and 2003 that the repository does not hold.
 
 ## Eswatini
 
@@ -172,7 +172,7 @@ Cabinet [approved Mauritius Vision 2050 on 11 September, targeting a US$50bn eco
 
 ## Mozambique
 
-Two strategies are being written and neither is adopted. The National Cyber Security Strategy 2026-2030 [was reviewed with a donor partner alongside an evaluation of its 2021-2025 predecessor](https://revista.tempo.co.mz/intic-e-finlandia-reforcam-cooperacao-para-a-estrategia-nacional-de-seguranca-cibernetica-2026-2030/), succeeding a policy whose own period ended last year. The National Digital Transformation Strategy [has been in drafting since February](https://www.trade.gov/market-intelligence/mozambique-digital-transformation-strategy) and is in drafting still — no change at either end of the window.
+Two strategies are being written and neither is adopted. The National Cyber Security Strategy 2026-2030 [was reviewed with a donor partner alongside an evaluation of its 2021-2025 predecessor](https://revista.tempo.co.mz/intic-e-finlandia-reforcam-cooperacao-para-a-estrategia-nacional-de-seguranca-cibernetica-2026-2030/), succeeding a policy whose own period ended last year. The National Digital Transformation Strategy [has been in drafting since February](https://www.trade.gov/market-intelligence/mozambique-digital-transformation-strategy) and is in drafting still — no change at either end of the window. Until one is adopted the operative plan is the Strategic Plan for the Information Society 2019-2028: a civil-society review published on 22 September [cites it as Resolution 52/2019 and finds its execution hampered by limited consolidated public reporting and dependence on donor cycles](https://paradigmhq.org/report/digital-inclusion-in-africa-mapping-the-ecosystem-gap/).
 
 Financial data residency was rewritten. The central bank [gazetted Aviso 6/GBM/2026 on 31 August, requiring every bank's primary data centre and principal information systems in national territory and revoking the 2003 rule](https://www.bancomoc.mz/media/j2fgaf3a/aviso-6_gbm_2026-de-18-de-agosto_-br_166_i_s%C3%A9rie_2026_31-de-agosto.pdf), in force 60 days after publication.
 
@@ -226,6 +226,8 @@ Delivering a ministerial statement on 4 August after [MPs demanded an explanatio
 The multi-agency answer to mobile-money fraud got a drafting session. A two-day workshop on 18 and 19 August [brought the central bank, the telecom and mobile-money operators and the cybersecurity bodies together to draft a roadmap](https://www.wearetech.africa/fr/fils/actualites/finance/sierra-leone-vers-une-feuille-de-route-contre-la-fraude-liee-au-mobile-money), after parliamentary pressure over identity-theft scams on one operator's network. No roadmap, deadline or funding line has been published.
 
 A data governance framework was named as in development for the first time. Meeting United Nations agencies on 5 September, the communications minister [named the framework alongside the government data centre at the telecommunications authority tower and a redundancy site at State House](https://sierraloaded.sl/news/communication-strengthens-partnership/). No draft, scope, adoption route or timetable is published for the framework, and the redundancy site appears here with no capacity or commissioning date.
+
+The open source policy Cabinet approved in July was [presented by the communications minister at a UNICEF showcase on the UNGA81 sidelines](https://techreviewafrica.com/news/7450/) as the answer to duplicated government systems, proprietary-technology costs and vendor lock-in. Its text is still not published.
 
 ## South Africa
 

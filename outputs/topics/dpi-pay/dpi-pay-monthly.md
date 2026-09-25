@@ -1,10 +1,10 @@
 ---
 title: Digital Payments and Fintech — monthly update, August – September 2026
-compiled: 2026-09-24
-period: 2026-08-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2026-08-01 to 2026-09-25
 subject: dpi.pay
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 409886df3253
+record: 47486f4d929f
 ---
 
 # Digital Payments and Fintech: monthly update, August – September 2026
@@ -111,7 +111,7 @@ A bank wallet is closing for want of use: Standard Bank [will decommission its U
 
 ## Ethiopia
 
-Payments extended into utilities and tax. Prepaid electricity purchase entered the mobile-money super app on 29 July for smart-meter customers, and a digital tax-payment service for one regional revenue bureau launched on 28 July as the first of a planned series.
+The challenger's wallet [more than doubled its monthly active users to 2.58 million in the quarter to June, yet contributes about 2% of the unit's service revenue against 45.6% in Kenya](https://www.ecofinagency.com/news-finances/0308-57937-safaricom-s-ethiopian-unit-delivers-rapid-growth-but-mobile-money-struggles), and its [cardless ATM withdrawal was extended to Awash Bank's ATM network](https://techafricanews.com/2026/09/08/m-pesa-ethiopia-cardless-atm-withdrawals-awash-bank/). The dominant state bank [processed 3.48 billion digital transactions worth more than 22 trillion birr in 2025/26, about 70% of national digital transactions by value](https://capitalethiopia.com/2026/08/16/ai-driven-cyber-threats-raise-alarm-for-ethiopias-financial-sector/).
 
 The market also drew a new foreign supplier. A South African financial-technology firm [entered the Ethiopian payments market with a local engineering partner on 17 August](https://www.itweb.co.za/article/sybrin-strengthens-east-african-presence-to-support-ethiopias-digital-payments-modernisation/5yONP7Erow8MXWrb), aligning onboarding, fraud-management and workflow-automation tools with the National Digital Payments Strategy 2026-2030. No commitment value, customer or deployment date is disclosed.
 
@@ -137,6 +137,8 @@ Card acceptance widened from outside the domestic rails. A commercial bank and a
 The virtual-asset regime acquired its coordinating machinery. A five-agency committee is [constituted and chaired by the central bank governor, joining the securities regulator, the finance ministry, the cyber security authority and the financial intelligence centre, working towards having the Virtual Asset Service Providers Act fully in force by 2027](https://bitcoinke.io/2026/09/ghana-sets-up-virtual-assets-committee/), and on 4 September the securities regulator [admitted a second sandbox cohort of ten participants, run with the central bank to test and refine the framework the Act introduced](https://www.myjoyonline.com/yellow-card-joins-ghanas-second-virtual-asset-regulatory-sandbox/), one of them a stablecoin infrastructure provider testing stablecoin payment, fiat settlement and wallet infrastructure under supervision. The cohort list, the first cohort's outcomes and the sandbox's exit criteria are not published.
 
 The central bank widened its enforcement. On 8 September it [named a second list of 20 unlicensed digital loan apps](https://www.bog.gov.gh/wp-content/uploads/2026/09/Notice-No.29-BOG-SEC-GOV-2026-Notice-PUBLICATION-OF-UNLICENSED-DIGITAL-CREDIT-SERVICE-PROVIDERS-ON-THE-BANKS-WEBSITE-SOCIAL-MEDIA-PLATFORMS-AND-OTHER-COMM-CHANNELS.pdf), five weeks after the first, [warning banks and payment providers not to process for them](https://gna.org.gh/2026/09/bog-names-20-unlicensed-digital-loan-providers/); the register of licensed providers it undertook to publish is still not out.
+
+On 23 September a fintech [began opening bank-backed virtual accounts for its Ghanaian customers through an API integration with Universal Merchant Bank](https://www.graphic.com.gh/business/business-news/chipper-cash-launches-bank-backed-virtual-accounts-with-umb.html), which the central bank and the securities regulator had approved to offer virtual accounts to eligible virtual-asset businesses. The approval date is not stated.
 
 ## Guinea
 
@@ -181,6 +183,8 @@ The central bank rewrote the wallet rules. [Circular 9/2026 replaces the 2017 in
 ## Madagascar
 
 On 3 August MVola's new director general [gave the first account of the platform migration behind the outages of May and June](https://www.lexpress.mg/2026/08/alexandre-castel-directeur-general-de.html). The core platform was replaced in May 2026; he states that money does not vanish from accounts, that reported cases have been regularised, and that the platform is stabilised with further work outstanding. No regulator is named, no incident report is published and no compensation is mentioned. Separately, [Airtel Money integrated Baobab Bank into its mobile banking service on 17 July](https://techafricanews.com/2026/07/17/airtel-money-madagascar-and-baobab-bank-partner-to-expand-mobile-banking-services/). The African Development Bank and AXIAN [launched a digital finance programme on 2 September targeting 34,000 women-led businesses in Madagascar, Tanzania and Senegal through the Mixx and MVola platforms](https://www.ecofinagency.com/news-finances/0409-58613-afdb-axian-take-digital-finance-to-34-000-women-led-businesses-in-africa), under a US$160 million senior corporate loan approved to the group in January 2025 with a US$2.5 million grant for financial literacy and credit access and more than US$10 million allocated for 22,000 women entrepreneurs in Madagascar through MVola. The grant is not a lending pool, and no enrolment or disbursement figure is published for the programme itself.
+
+BGFIBank Madagasikara [presented its Gasy Money mobile-banking app on Friday 18 September](https://midi-madagasikara.mg/mobile-banking-gasy-money-entre-dans-la-course-de-la-finance-digitale/), [open to non-customers on any network, including people without a bank account, with transfers to other app accounts, bank accounts and Airtel Money](https://newsmada.com/2026/09/21/gasy-money-bgfibank-madagascar-reinvente-le-mobile-banking/). No user or transaction figure is published.
 
 ## Malawi
 
@@ -252,6 +256,8 @@ On the cross-border rail the operator reported [Nigeria–Rwanda volumes approac
 
 A new inclusion survey replaced the 2023 baseline. The 2026 round [puts digital financial services use at 64 per cent of adults from 47 per cent, mobile money at 38 per cent from 12 per cent, and exclusion at 21 per cent, with 53 per cent of the poorest fifth still excluded and 92 per cent of agricultural workers paid in cash](https://thenationonlineng.net/report-digital-finance-usage-hits-64/). The same round [puts overall use at 79 per cent of adults and formal inclusion at 73 per cent, past the national strategy's 70 per cent target](https://independent.ng/nigerias-financial-inclusion-reaches-79-as-efinas-a2f-2026-survey-points-to-next-challenge/). At its launch the central bank said it had [completed its review of the third inclusion strategy and begun the fourth](https://www.premiumtimesng.com/business/business-news/910100-cbn-begins-work-on-new-financial-inclusion-strategy-targets-deeper-access.html), and the trade minister [inaugurated a steering committee for a strategy to let firms borrow against verified digital invoices](https://thesun.ng/fg-targets-cheap-loans-with-digital-invoices/).
 
+Two private rails widened what they carry. Remita, whose rails carry government and enterprise payments, [launched a consumer super app on 22 September with multi-bank aggregation, transfers to other African countries over the continental rail and a loans marketplace matching borrowers on NIN and BVN verification](https://thecondia.com/remita-launches-super-app/); no user or transfer figure is published. Moniepoint [began selling shares in the Dangote refinery's public offer through its agent terminals in all 774 local government areas, buyers identified by BVN and capped at N100,000 each](https://techcabal.com/2026/09/25/moniepoint-pos-network-investment-network/).
+
 ## Rwanda
 
 Effective 14 July the central bank [designated one rail as the national instant payment system](https://itweb.africa/article/rwanda-migrates-retail-payments-to-ekash/rxP3jqBEnOoMA2ye) by directive, connecting 22 financial institutions bank to wallet to merchant in any direction, with a per-transaction ceiling. An interoperable bank-to-wallet transfer that could previously cost as much as RWF 5,000 now costs [a flat RWF 20 regardless of amount](https://african.business/2026/07/innov-africa-deals/rwanda-unifies-digital-payments-with-national-launch-of-ekash), about one US cent on the publisher's own conversion. The directive itself is not held.
@@ -301,6 +307,8 @@ Cape Town [will pilot cashless payment at three of its 18 driving licence testin
 The rand stablecoin ZARU, [listed on an exchange on 7 August](https://www.itweb.co.za/article/rand-goes-on-chain-as-zaru-hits-luno-global/xA9PO7NE6RAvo4J8), [went live on 22 September on Circle's Arc blockchain as a founding pair on its StableFX foreign-exchange platform, trading against USDC](https://www.itweb.co.za/article/zaru-goes-live-on-circles-arc-blockchain/Pero37Z36KrMQb6m). [Standard Bank and Absa are named among the network's banking partners](https://www.itweb.co.za/article/zaru-goes-live-on-circles-arc-blockchain/Pero37Z36KrMQb6m). No transaction volume has been published.
 
 The app-only Bank Zero [recorded its first break-even month in August 2026 on 275,000 direct customers, and is onboarding 500,000 customers of the remittance firm Mukuru through an alliance-banking platform live since January](https://techcabal.com/2026/09/22/bank-zero-break-even-alliance-partnerships/). The figures are the bank's own.
+
+Paystack [introduced card payment inside the Shopify merchant checkout without redirection, with a Shopify integration for its in-store terminal](https://techafricanews.com/2026/09/25/paystack-south-africa-onsite-card-checkout-shopify/), reported on 25 September. No merchant count has been published.
 
 ## South Sudan
 
@@ -371,6 +379,8 @@ A parliamentary committee found the expressway concession still running on cash.
 On 22 September Afreximbank [issued a US$29m guarantee to the operator of the regional customs bond platform](https://www.afreximbank.com/afreximbank-issues-a-29-million-guarantee-to-scale-eac-customs-bond-easing-movement-of-goods-across-east-africa/), which was piloted in Uganda from August 2025 and launched across the Community in March 2026. No uptake figure is published.
 
 A microfinance bank moved onto a switch operator's network on 22 September, [putting deposits, withdrawals, loan repayments and bill payments with more than 21,000 agents and its debit cards on more than 650 ATMs](https://www.independent.co.ug/pride-bank-and-interswitch-join-forces-to-deliver-easier-accessible-banking-solutions-to-customers/). No cost or customer target is stated.
+
+The expressway then moved partly off cash. On 25 September [MTN Mobile Money toll payment launched with the works ministry at the Busega, Kajjansi and Mpala plazas on two designated lanes, the motorist approving a PIN prompt on the phone](https://techafricanews.com/2026/09/25/mtn-uganda-mobile-money-toll-payments-kampala-entebbe-expressway/). No other wallet and no fee is named.
 
 ## Zambia
 

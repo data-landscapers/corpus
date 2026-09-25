@@ -1,12 +1,12 @@
 ---
 title: Djibouti — progress report, September 2025 – September 2026
-compiled: 2026-09-24
-period: 2025-09-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2025-09-01 to 2026-09-25
 place: DJI
 ledger_rows: 147
 not_held: 12
 indicators: 123
-record: d47e40ae33f0
+record: e4f623f30b2c
 ---
 
 # Djibouti: progress report, September 2025 – September 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the repository holds nothing on that indicator. **That is a statement about this repository, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-09-01 to 2026-09-24.*
+*The period is 2025-09-01 to 2026-09-25.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the repository holds a standing position and nothing in the period touched it. ***No evidence*** — the repository holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Movement, regulations still pending*.
 
@@ -219,4 +219,8 @@ Where a row reads ***No evidence***, the repository holds nothing on that indica
 | Public research programme in digital or data science | A university research-centre mandate, a funded research programme or a published research output in digital or data science. | 2026-01-30 |
 | Instrument governing artificial-intelligence systems in public use | An artificial-intelligence law, decree or procurement rule, or the adopted national strategy text. | 2026-01-29 |
 | Disaster-recovery site for the national payment system | The completion report's section on the payment system's back-up site, or a central bank statement naming the site, its operator and its recovery tier. | not yet probed |
+| Operator contribution rates under the Digital Code | The decree or regulation fixing the turnover percentages under Digital Code articles 210 and 308, or the Universal Service Fund decree as adopted. | 2026-09-25 |
+| ANSIE 2026 budget arrete | The executory arrete approving ANSIE's 2026 forecast budget, with its products and charges. | 2026-09-25 |
+| Instrument on where state data is held | A decree, government-cloud policy or data classification fixing where public-sector data is hosted and under whose law. | 2026-09-25 |
+| Data terms of the LinkWise and Visa memoranda | The published text of either memorandum, or a statement of its clauses on data jurisdiction, portability and exit. | 2026-09-25 |
 

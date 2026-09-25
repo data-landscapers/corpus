@@ -1,10 +1,10 @@
 ---
 title: Innovation ecosystem — monthly update, August – September 2026
-compiled: 2026-09-24
-period: 2026-08-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2026-08-01 to 2026-09-25
 subject: tech.innovate
 places: DZA; AGO; BWA; BFA; CMR; CPV; COM; CIV; COD; EGY; ERI; SWZ; GAB; GMB; GHA; GIN; KEN; LBR; MLI; MRT; MAR; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: e5bdb1deaa95
+record: e0a0c6896720
 ---
 
 # Innovation ecosystem: monthly update, August – September 2026
@@ -65,7 +65,7 @@ The investment and foreign trade ministry said it will [launch TradeTech, a regu
 
 ## Eritrea
 
-On 15 August the Ministry of Information [interviewed Shambko Apps Group, a self-organised software collective that has released five Tigrinya-language mobile applications](https://shabait.com/2026/08/15/technology-as-a-bridge-between-generations-a-conversation-with-shambko-apps-group/) — literacy, puzzle, cultural-heritage and arithmetic tools built to the national curriculum — and set out a plan to extend them to Eritrea's eight other national languages. It is the first non-state software effort the repository holds for Eritrea. No download count, distribution channel or funding source is stated, and the account is the state broadcaster's own.
+On 15 August the Ministry of Information [interviewed Shambko Apps Group, a self-organised software collective that has released five Tigrinya-language mobile applications](https://shabait.com/2026/08/15/technology-as-a-bridge-between-generations-a-conversation-with-shambko-apps-group/) — literacy, puzzle, cultural-heritage and arithmetic tools built to the national curriculum — and set out a plan to extend them to Eritrea's eight other national languages. It is the first non-state software effort the repository holds for Eritrea. No download count, distribution channel or funding source is stated, and the account is the state broadcaster's own. On 7 September the same outlet [reported Afro Verse, a virtual-reality platform rendering traditional Hidmo housing and its surroundings in three dimensions, shown in a first demo version on 27 August at an event a private company sponsored](https://shabait.com/2026/09/07/afro-verse-where-eritrean-heritage-meets-virtual-reality/). It runs mainly in English, and no user figure is stated.
 
 ## Eswatini
 
@@ -157,6 +157,8 @@ A third incubator entered the record, and the first of them to open applications
 ## Sierra Leone
 
 The communications minister [said a Startup Act is expected in the first quarter of 2027, alongside an innovation investment fund and a planned tech city](https://sierraloaded.sl/news/fatima-bio-launch-flot-financial-platform/). No draft or consultation is on file.
+
+At the same UNGA81 showcase, [four Sierra Leonean teams were reported to have met all nine Digital Public Goods criteria and submitted their products to the global registry](https://techreviewafrica.com/news/7453/), with three more part of the way. No product is named.
 
 ## South Africa
 

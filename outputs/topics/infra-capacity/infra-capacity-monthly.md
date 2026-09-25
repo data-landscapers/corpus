@@ -1,10 +1,10 @@
 ---
 title: Technical Capacity — monthly update, August – September 2026
-compiled: 2026-09-24
-period: 2026-08-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2026-08-01 to 2026-09-25
 subject: infra.capacity
 places: BDI; COD; GHA; KEN; LBY; MOZ; RWA; SEN; ZAF; TGO
-record: 754b461f5adb
+record: 40313e94b6d4
 ---
 
 # Technical Capacity: monthly update, August – September 2026

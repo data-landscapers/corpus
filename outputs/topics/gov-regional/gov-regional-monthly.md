@@ -1,10 +1,10 @@
 ---
 title: Regional collaboration — monthly update, August – September 2026
-compiled: 2026-09-24
-period: 2026-08-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2026-08-01 to 2026-09-25
 subject: gov.regional
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COG; CIV; DJI; COD; EGY; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZWE
-record: 71f99479aad3
+record: 8cb00973c604
 ---
 
 # Regional collaboration: monthly update, August – September 2026
@@ -79,11 +79,15 @@ A second regional channel opened alongside the SADC one. The Digital Cooperation
 
 ## Ethiopia
 
-The regional transit corridor moved from agreement to build. Ethio telecom [entered active deployment of the Horizon Fiber Initiative, with end-to-end solution architecture finalised and site-material procurement complete](https://techafricanews.com/2026/08/20/ethio-telecom-active-deployment-africa-middle-east-fibre-corridor/), on a multi-terabit terrestrial route linking Djibouti's subsea landings through Ethiopia and Sudan to Jeddah. No route length, capacity, cost, in-service date or transit-revenue projection is published, so the regional-hub claim rests on the geography alone — and one of the four territories the route crosses is at war.
+The regional transit corridor moved from agreement to build. Ethio telecom [entered active deployment of the Horizon Fiber Initiative, with end-to-end solution architecture finalised and site-material procurement complete](https://techafricanews.com/2026/08/20/ethio-telecom-active-deployment-africa-middle-east-fibre-corridor/), on a multi-terabit terrestrial route linking Djibouti's subsea landings through Ethiopia and Sudan to Jeddah. On 7 September the three national operators [presented the corridor to Google, Meta, Microsoft and Amazon, alongside carriers and equipment vendors, at a pre-commercialisation meeting in Addis Ababa, seeking partner and customer interest before commercial launch](https://www.lanation.dj/projet-de-fibre-optique-horizon-une-nouvelle-autoroute-numerique-pour-la-corne-de-lafrique/). No route length, capacity, cost, in-service date or transit-revenue projection is published.
+
+On trade, Ethiopia [validated the assessment of its implementation of the AfCFTA Protocol on Trade in Goods at Bishoftu on 4–6 August](https://au-afcfta.org/2026/08/ethiopia-validates-assessment-of-afcfta-protocol-on-trade-in-goods-implementation/), the final step of its review under the free trade area's implementation review mechanism, to inform regulatory reform and customs and trade facilitation.
 
 ## Gabon
 
 Two outward moves in the same week, one to learn and one to be heard. An interior, security and decentralisation ministry delegation [spent nearly two weeks in Rwanda on digital transformation and e-governance, artificial intelligence and digital policy, civil-registration and identification digitisation, cybersecurity, data protection, interconnection of public systems and decentralised service digitisation](https://www.digitalbusiness.africa/e-gouvernance-gabon-guinee-liberia-le-rwanda-attire-les-administrations-africaines-venues-etudier-son-modele-numerique/) - the longest and widest-ranging of eight delegations the host received that week. Separately the digital economy minister [presented the country's candidacy for the International Telecommunication Union Council in Nassau on 3 September, under the slogan Shaping the Digital Future](https://agpgabon.ga/gabon-numerique-le-pays-sa-candidature-au-conseil-de-lunion-internationale-des-telecommunications/). Neither carries an agreement, an adoption decision or a campaign platform beyond the slogan.
+
+On 23 September the foreign minister [signed the United Nations Convention against Cybercrime on the margins of the General Assembly](https://www.gabonreview.com/multilateralisme-le-gabon-renforce-son-engagement-contre-les-menaces-nucleaires-et-numeriques/), which the government presents as a framework for mutual legal assistance and the exchange of electronic evidence. It is a signature; no ratification instrument is on file.
 
 ## Gambia
 
@@ -217,6 +221,8 @@ Tanzania was the one being studied this month. A Somali government delegation [e
 ## Togo
 
 A [regional dialogue at the Togo-Ghana joint border post on 13 August sought to accelerate free movement along the Abidjan-Lagos corridor, reaffirming rollout of the regional biometric identity card and the interconnected transit system to cut border delays](https://www.togofirst.com/fr/transport/1408-19821-togo-ghana-la-cedeao-veut-accelerer-la-libre-circulation-au-poste-frontalier-de-noepe-akanu). No deployment figure, timetable or data-protection arrangement for the shared border and transit data is stated,.
+
+On 23 September the data-protection authority [signed a cooperation agreement with its Malian counterpart covering information exchange, complaints handling, compliance checks and staff capacity-building, with cross-border data transfers among the subjects discussed](https://www.togofirst.com/en/itc/2509-20170-togo-mali-data-regulators-agree-to-share-expertise). The agreement text is not published.
 
 ## Tunisia
 

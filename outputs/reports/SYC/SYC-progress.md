@@ -1,12 +1,12 @@
 ---
 title: Seychelles — progress report, September 2025 – September 2026
-compiled: 2026-09-24
-period: 2025-09-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2025-09-01 to 2026-09-25
 place: SYC
 ledger_rows: 136
 not_held: 6
 indicators: 123
-record: e014b0fef846
+record: b98c1a29afac
 ---
 
 # Seychelles: progress report, September 2025 – September 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the repository holds nothing on that indicator. **That is a statement about this repository, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-09-01 to 2026-09-24.*
+*The period is 2025-09-01 to 2026-09-25.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the repository holds a standing position and nothing in the period touched it. ***No evidence*** — the repository holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Movement, regulations still pending*.
 
@@ -215,4 +215,7 @@ Where a row reads ***No evidence***, the repository holds nothing on that indica
 | National accessibility framework | A National Accessibility Action Plan, accessibility legislation, or an accessibility standard applying to government digital services — the government itself names all three as absent in May 2026. | 2026-09-06 |
 | Refugees, asylum seekers and internally displaced people | Any record of refugees, asylum seekers, stateless persons or displaced people in Seychelles more recent than the 2021 UNHCR submission finding none. | 2026-09-06 |
 | Open government data policy | An adopted open-data policy or the closure of the 2020 extractives transparency corrective action that required one to be published. | 2026-09-06 |
+| Scale and contribution rate of the universal access and universal service fund | The full text of Part XII (ss. 97-102) of the Communications Act 2023 and any SCRA statement of the fund's contributions and disbursements. | 2026-09-25 |
+| State control of SeyID source code, keys and operating contract | The WISeKey contract for SeyID, or a government statement of who holds the source code and keys and what exit terms apply. | 2026-09-25 |
+| Data jurisdiction, portability and exit terms of the Travizory, WISeKey and NPCI agreements | Publication of the agreements, or the Commission of Inquiry's report on the Travizory Border Management Service Agreement. | 2026-09-25 |
 

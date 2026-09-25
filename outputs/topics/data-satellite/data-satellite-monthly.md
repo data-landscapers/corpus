@@ -1,10 +1,10 @@
 ---
 title: Use of satellite data — monthly update, August – September 2026
-compiled: 2026-09-24
-period: 2026-08-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2026-08-01 to 2026-09-25
 subject: data.satellite
 places: BDI; COM; COG; CIV; DJI; COD; EGY; ERI; GHA; LBR; LBY; MLI; MOZ; NAM; NER; NGA; RWA; SLE; SOM; TZA; UGA; ZMB
-record: 9a230545393f
+record: b77ccd12db4a
 ---
 
 # Use of satellite data: monthly update, August – September 2026
@@ -43,7 +43,7 @@ A [trilateral memorandum with Japan's land and agriculture ministries](https://w
 
 ## Eritrea
 
-Eritrea is covered by satellite monitoring it does not produce. A regional climate centre's advisory of 10 August [uses precipitation index analysis with satellite-derived soil-moisture and vegetation-stress monitoring to raise its alert level and forecast below-normal rainfall over western Eritrea](https://www.icpac.net/documents/1113/Climate_Watch_Advisory_-_The_Evolving_Dry_Conditions_in_the_Northern_Parts_of__2tBmKGt.pdf). It sits alongside a food agency dataset carrying [dekadal rainfall indicators computed from satellite precipitation imagery blended with station data and short-term forecasts, aggregated to subnational units and refreshed roughly every two weeks](https://data.humdata.org/dataset/eri-rainfall-subnational). Both are addressed to Eritrea; neither is made in it. Eritrea's own delegation to the desertification convention listed setting up a modern national meteorological service among its forward strategies, which places a modern service as an objective rather than an institution; what exists is split between a civil aviation meteorological service and an agricultural meteorology unit. The ministry staff trained this year in remote sensing and land-cover classification are the capacity that would one day read imagery, not a product built from it.
+Eritrea is covered by satellite monitoring it does not produce. A regional climate centre's advisory of 10 August [uses precipitation index analysis with satellite-derived soil-moisture and vegetation-stress monitoring to raise its alert level and forecast below-normal rainfall over western Eritrea](https://www.icpac.net/documents/1113/Climate_Watch_Advisory_-_The_Evolving_Dry_Conditions_in_the_Northern_Parts_of__2tBmKGt.pdf). It sits alongside a food agency dataset carrying [dekadal rainfall indicators computed from satellite precipitation imagery blended with station data and short-term forecasts, aggregated to subnational units and refreshed roughly every two weeks](https://data.humdata.org/dataset/eri-rainfall-subnational). Both are addressed to Eritrea; neither is made in it.
 
 ## Ghana
 

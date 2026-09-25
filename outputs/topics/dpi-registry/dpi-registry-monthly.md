@@ -1,10 +1,10 @@
 ---
 title: Registries (population, land, address, etc.) — monthly update, August – September 2026
-compiled: 2026-09-24
-period: 2026-08-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2026-08-01 to 2026-09-25
 subject: dpi.registry
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; TCD; COM; COG; CIV; COD; EGY; ERI; SWZ; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: ebd7e02fe245
+record: 78dfe92c01e1
 ---
 
 # Registries (population, land, address, etc.): monthly update, August – September 2026
@@ -25,7 +25,7 @@ The electoral register, updating since 15 June against a universe of 16.7 millio
 
 Field enrolment for the single social register [opened in a pilot phase at Sumbe, in Cuanza-Sul](https://angop.ao/noticias/sociedade/cadastro-social-nico-inicia-fase-piloto-no-sumbe/), directed by the social-action minister, to identify and characterise Angolan families and especially those in need. The register itself was activated in July; this is the first enrolment operation on record behind it.
 
-The education ministry made school enrolment independent of documentation. Circular 05/2026 of 19 August [orders every public and private school teaching primary and first-cycle secondary education to enrol children holding no birth certificate and no identity card, and to compile by the end of October a survey of undocumented pupils for the justice ministry's registry directorate, whose services are then to travel to the schools and register them](https://novojornal.co.ao/sociedade/detalhe/med-obriga-escolas-a-aceitar-matricula-de-criancas-que-ainda-nao-possuem-registo-de-nascimento-e-bi-74156.html); the ministry says the 17-21 August enrolment round drew large numbers of children with no registration of any kind. Two more objections followed in mid-September: the main opposition party [said state means were being used to register the governing party's own members early](https://www.noticiasaominuto.com/mundo/3051772/unita-acusa-angola-de-usar-registo-eleitoral-para-beneficiar-mpla), and a civic movement [said parties and civil society have been kept out of supervising the proof-of-life step, leaving nobody scrutinising it](https://angola24horas.com/politica/item/35035-ninguem-esta-a-fiscalizar-mudei-questiona-transparencia-do-registo-eleitoral-em-angola). The electoral administration's answer is not held.
+The education ministry made school enrolment independent of documentation. Circular 05/2026 of 19 August [orders every public and private school teaching primary and first-cycle secondary education to enrol children holding no birth certificate and no identity card, and to compile by the end of October a survey of undocumented pupils for the justice ministry's registry directorate, whose services are then to travel to the schools and register them](https://novojornal.co.ao/sociedade/detalhe/med-obriga-escolas-a-aceitar-matricula-de-criancas-que-ainda-nao-possuem-registo-de-nascimento-e-bi-74156.html); the ministry says the 17-21 August enrolment round drew large numbers of children with no registration of any kind. Two more objections followed in mid-September: the main opposition party [said state means were being used to register the governing party's own members early](https://www.noticiasaominuto.com/mundo/3051772/unita-acusa-angola-de-usar-registo-eleitoral-para-beneficiar-mpla), and a civic movement [said parties and civil society have been kept out of supervising the proof-of-life step, leaving nobody scrutinising it](https://angola24horas.com/politica/item/35035-ninguem-esta-a-fiscalizar-mudei-questiona-transparencia-do-registo-eleitoral-em-angola). The electoral administration's answer is not held. On 22 September the territorial administration ministry [put more than two million adults updated, against more than 16.7 million targeted by 31 March 2027](https://www.novojornal.co.ao/politica/detalhe/tribunal-constitucional-abre-concurso-de-21-milhoes-usd-para-actualizacao-e-modernizacao-da-plataforma-tecnologica-de-modo-a-preparar-processo-eleitoral-74844.html); it gave no provincial breakdown, so the audit the opposition asked for is still not possible.
 
 ## Benin
 
@@ -44,6 +44,8 @@ Civil registration is being digitised one commune at a time, and the training is
 The register, not the card, is what carries the right to vote. The electoral commission [said more than one million new voters are expected for the 2027 presidential election, with partial registration planned for October 2026 in more than 4,000 centres that will also serve as polling stations, targeting those under 18 at the 2025 registration and citizens returned since 2025](https://www.sosmediasburundi.org/en/2026/09/03/2027-presidential-election-more-than-one-million-new-voters-ceni-accelerates-preparations/), and its president said a voter who loses their card keeps the right to vote provided they are in the electoral database. That is the clearest statement this repository holds of how identity works at the poll here. No register size, audit terms or duplicate-detection method is published.
 
 The obligation behind any future social register is now on the record. An [ordinance of 7 February makes acquisition of the medical assistance card compulsory, a scheme dating from 1984 and reformed in 2012](https://www.iwacu-burundi.org/la-cam-une-avancee-vers-une-protection-sociale-plus-inclusive/), and the account weighs it as a step towards broader social protection. No enrolment count, card format, register or digital component is described — so what exists is a duty to hold a card, and nothing published about the system that would issue or read it.
+
+The same finance ministry plan [provides BIF 2.69bn for a GNSS/CORS positioning network, a national geospatial data infrastructure and cadastre modernisation, and BIF 1.67bn for a secure network linking four land offices to a central data centre](https://armp.gov.bi/wp-content/uploads/2026/08/PPM-finances-budgetaire-2026-2027-final.docx-Revise1.pdf), both by tender. A procurement plan states intent to spend, not a contract.
 
 ## Cameroon
 

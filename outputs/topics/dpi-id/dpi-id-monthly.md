@@ -1,10 +1,10 @@
 ---
 title: Digital Identity and CRVS — monthly update, August – September 2026
-compiled: 2026-09-24
-period: 2026-08-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2026-08-01 to 2026-09-25
 subject: dpi.id
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COM; COG; COD; EGY; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 920e28885b99
+record: 8e6eb66dabe7
 ---
 
 # Digital Identity and CRVS: monthly update, August – September 2026
@@ -46,6 +46,8 @@ The day itself named the identity chain's next use. The security minister made [
 Biometric civil registration is [operating in 13 pilot communes, decentralised to zone level and interoperable with health-facility birth and death records, with a national unique identifier planned on fingerprint and facial biometrics](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-launches-digital-civil-registry-and-biometric-id-initiative). The health-facility link is the part with numbers behind it: the interior ministry says it has been [piloted since 2023, institutionalised in 2024, and now runs in 123 health facilities where it has recorded more than 52,000 births](https://abpinfo.bi/2026/08/13/le-burundi-veut-construire-un-etat-plus-proche-des-citoyens-plus-efficace-et-inclusif/). No coverage denominator is given for either figure.
 
 It is being built onto a base that already reaches most children: [84% of under-fives are registered at birth and 66% hold a birth certificate](https://www.wearetech.africa/fr/fils/actualites/tech/burundi-l-etat-civil-se-numerise-pour-renforcer-l-identite-des-citoyens), cited by government on Africa Civil Registration Day. The gap between the two figures is the one the platform has to close.
+
+The finance ministry's procurement plan for 2026-27 [puts BIF 8.90bn on recruiting a contractor to set up a national digital identity system, by open international tender with award scheduled for 27 September](https://armp.gov.bi/wp-content/uploads/2026/08/PPM-finances-budgetaire-2026-2027-final.docx-Revise1.pdf). No award is on file, and the plan does not say how the contract relates to the biometric card already declared technically ready.
 
 ## Cameroon
 
@@ -89,11 +91,11 @@ The home affairs ministry [asked citizens to check that the chief code on their 
 
 The system itself went down on 16 September: [a network blackout halted identity card and passport processing at Home Affairs in Mbabane and at postal counters](https://times.co.sz/43838/news/network-blackout-strikes-home-affairs-eptc/), with no restoration time and no offline procedure.
 
+In September the Civil Service Commission [found a suspended assistant regional civil registrar guilty of unlawfully processing a birth certificate and national identity card in February 2024 for a foreign national, using an innocent citizen's particulars](https://independentnews.co.sz/48682/southafrica/cat-matlala-wife-arrest-reignites-eswatini-id-saga/). Criminal proceedings against her continue.
+
 ## Ethiopia
 
-The identity programme supplied most of the month's movement: a [joint venture with Safaricom and a local partner](https://techreviewafrica.com/news/6190/safaricom-ethiopia-partners-national-id-program-to-expand-digital-identity-registration) on 6 July to run mass registration across seven regions, and, on 24 July, the operator's own disclosure that it accounts for 69% of all registrations, with more than 4m farmers enrolled through the agriculture ministry and more than 28,000 displaced people through humanitarian partners.
-
-At the same 24 July launch of a three-year strategic plan, its deputy director in the capital named premature integration as the year's main obstacle and its founding director general conceded the platform remains intertwined with decades-old institutional systems of undefined standards. The identity layer meanwhile acquired a corporate owner: the Faydaverse digital-public-infrastructure enterprise was inaugurated on 4 August as a state-owned enterprise under Ethiopian Investment Holdings, on a platform [reported at over 190 million authentications performed and 150 enterprises integrated for biometric checks](https://www.biometricupdate.com/202603/ethiopias-digital-id-joins-sovereign-wealth-fund-as-weekly-enrollments-reach-1m). No governing instrument, board or commercial model for the enterprise is published.
+The identity layer acquired a corporate owner. The [Faydaverse digital-public-infrastructure enterprise was inaugurated on 4 August as a state-owned enterprise under Ethiopian Investment Holdings, on a platform reporting over 190 million authentications and 150 enterprises integrated for biometric checks](https://www.biometricupdate.com/202608/faydaverse-officially-enters-africas-dpi-market). No governing instrument or commercial model for the enterprise is published.
 
 Four days later that enterprise set out where the credential goes next. Its wallet is [to carry academic transcripts, professional licences, healthcare records, property titles and financial-compliance and know-your-customer data beyond the core government credentials it holds today](https://capitalethiopia.com/2026/08/08/national-id-program-to-expand-digital-wallet-and-credential-verification/), and the enterprise says it is exporting identity services as an implementation partner in Mozambique and Zambia. The plan and the export claims are its own; no timetable, consent model, data-controller arrangement or regulatory approval for the additional credential types is stated.
 
@@ -103,7 +105,7 @@ What is not on the record is the counterweight. A published critique argues the 
 
 The enrolment rules reached the repository for the first time, which matters more than the enrolment count for anyone trying to work out who can be enrolled. The programme's own page lists [33 accepted proof-of-identity documents, from the local administration card and passport to birth, education, marriage and business records](https://id.gov.et/proof), and a separate account sets out what non-citizens must present: [an origin card and passport for foreign nationals of Ethiopian origin, a residence or work permit plus passport for other foreign residents, and a valid refugee card for recognised refugees](https://ethioaffairs.com/2026/09/04/ethiopia-announces-document-requirements-for-foreign-nationals-applying-for-fayda-digital-id/). Neither carries its own issue date, so both are dated to capture — and the refugee route stated here is the operative counterpart to the refugee-inclusion framework the repository already holds.
 
-The linking of bank accounts to Fayda moved to its last phase. The largest state bank [gave customers outside the 27 cities already under enforcement until 9 November 2026 to link their accounts, after debit restrictions on unlinked accounts in those cities](https://birrmetrics.com/cbe-gives-customers-until-november-9-to-link-bank-accounts-with-fayda-id/).
+The linking of bank accounts to Fayda moved to its last phase. The largest state bank [gave customers outside the 26 cities and one region already under enforcement until 9 November 2026 to link their accounts, after debit restrictions on unlinked accounts there](https://birrmetrics.com/cbe-gives-customers-until-november-9-to-link-bank-accounts-with-fayda-id/).
 
 ## Gabon
 
@@ -246,6 +248,8 @@ Deployment moved again in August, and the agency put a frame around it. At Afric
 
 On International Identity Day the civil-status agency's director [put the modernisation at 77 per cent of the country's 629 civil-status centres, live in six regions with Tambacounda next month and the southern regions in the last quarter, the data held on three state-owned data-centre sites in the country](https://aps.sn/etat-civil-77-des-centres-couverts-par-le-processus-de-modernisation-dg-anec/), up from 74 per cent in August.
 
+At the first national forum on civil registration on 23 September, the civil-registration promotion body [said 58,462 candidates sat the primary-school leaving exam without a civil-status record, with 7,823 at the lower-secondary exam and 98 at the baccalaureate](https://www.seneweb.com/fr/news/Video/etat-civil-58-462-enfants-sans-acte-au-cfee-lalerte-de-lonpec_n_505072.html). The exam year was not stated, and a report to the authorities is to follow without a date.
+
 ## Sierra Leone
 
 Identity took three public positions in four days. MoCTI [convened a national dialogue on digital identity and digital public infrastructure on 5 August](https://mocti.gov.sl/sierra-leone-advances-national-dialogue-on-digital-identity-and-digital-public-infrastructure/), describing it as the first of a series and as the beginning of the policy work rather than its result. A private-sector consultation the following day settled two specifications: the register being built on is [MOSIP-based, and the credentials envisaged under the Bhutan National Digital Identity and SIGN Foundation partnership are W3C-compliant verifiable credentials](https://www.biometricupdate.com/202608/sierra-leone-consults-private-sector-on-trusted-digital-id-framework). On 7 August the NCRA Director-General told the consultation that [the biometric register already covers about 93% of the population with a unique National Identification Number and a live eKYC platform, and that the Authority's own MOSIP pilot is complete but unfunded for full implementation](https://sierraloaded.sl/news/ncra-urges-identity-approach-sierra-leones/) — and warned against parallel identity systems being built alongside it.
@@ -273,6 +277,8 @@ A published critique argues that the draft digital-identity regulations [under-s
 The minister [said about 300,000 identity documents have been blocked under court orders where duplicates or people in the country illegally were found; that most identity-theft cases involve the green identity book still held by about 16 million people; and that the answer is to expand the smart ID card and the electronic travel authorisation](https://www.sundaytimes.timeslive.co.za/news/2026-08-27-home-affairs-blocks-300000-ids-amid-fraud-crackdown/).
 
 The state [has a policy, draft regulations and a presidential commitment for a public key infrastructure, but no root of trust in operation; Zambia and Namibia launched national root certification authorities within the same fortnight](https://techcentral.co.za/south-africa-behind-neighbours-digital-id/286057/).
+
+In a written reply reported on 23 September the minister said [the department was investigating 21 cases of identity theft and fraudulently acquired identity documents, and that an electronic interface with the electoral commission checks identity details given at voter registration and voting against the population register](https://www.timeslive.co.za/news/south-africa/2026-09-23-home-affairs-investigating-21-cases-of-identity-theft-and-fraudulent-ids/). No count of records checked or rejected through that interface has been published.
 
 ## South Sudan
 

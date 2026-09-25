@@ -1,10 +1,10 @@
 ---
 title: Data Storage — monthly update, August – September 2026
-compiled: 2026-09-24
-period: 2026-08-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2026-08-01 to 2026-09-25
 subject: infra.store
 places: DZA; AGO; BWA; BFA; CMR; CAF; COG; CIV; EGY; GNQ; ERI; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SLE; SOM; ZAF; SSD; TZA; TUN; ZWE
-record: 303568f73cca
+record: 0234a5e1b643
 ---
 
 # Data Storage: monthly update, August – September 2026
@@ -76,6 +76,8 @@ Domestic hosting appears on this repository for the first time, and it is the st
 ## Eswatini
 
 The finance minister told Parliament on 22 September that [the disaster recovery site planned for Lubombo had failed to proceed, the US$10.4 million India Exim loan behind it had never been drawn, and Treasury had written to the lender asking to cancel it](https://times.co.sz/44419/news/govt-seeks-to-cancel-e182m-data-recovery-site-loan/). He also said [government needs a functional primary data centre before a backup, and that the science-park facility does not constitute a fully operational data centre](https://independentnews.co.sz/48729/news/govt-systems-crippled-by-digital-outages/). Its operator describes the same facility as Tier III.
+
+On 24 September the science park [confirmed an incident affecting the National Data Centre that disrupted at least 12 government services](https://times.co.sz/44621/news/national-data-centre-hit-by-incident/), with its engineers and outside experts working to restore them. It did not confirm social-media claims of a hack or a ransom demand, and had first acknowledged an outage of its web services on 18 September.
 
 ## Gabon
 

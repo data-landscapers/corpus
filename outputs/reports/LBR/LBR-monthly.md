@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-25
 place: LBR
 ledger_rows: 47
 not_held: 6
-record: 8f5274a0f80b
+record: d38961fc0ce0
 ---
 
 # Liberia: monthly update, August – September 2026

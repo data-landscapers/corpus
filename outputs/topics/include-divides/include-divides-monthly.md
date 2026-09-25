@@ -1,10 +1,10 @@
 ---
 title: Digital divides — monthly update, August – September 2026
-compiled: 2026-09-24
-period: 2026-08-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2026-08-01 to 2026-09-25
 subject: include.divides
 places: AGO; BWA; BDI; CPV; COD; EGY; SWZ; GMB; GHA; GNB; KEN; MDG; MWI; MAR; MOZ; NER; NGA; RWA; SEN; ZAF; UGA; ZMB
-record: 1ca14b1ffad4
+record: 1c2e1ec3d21d
 ---
 
 # Digital divides: monthly update, August – September 2026
@@ -98,6 +98,8 @@ One training cohort is the whole of the window's movement here. [500 women worki
 A disability charity and a philanthropic foundation [opened a four-and-a-half-year programme in Lagos on 17 August to bring young people with disabilities into work through digital skills, entrepreneurship and inclusive employment pathways](https://qualitativemagazine.com/lasoda-gm-champions-digital-inclusion-for-young-nigerians-with-disabilities-at-digital-futures-workshop/), with the state disability office committing its support; no participant target or budget is published.
 
 Device prices are rising: [entry-level laptops sold for ₦350,000 to ₦610,000 in Nigerian retail in July 2026, as a memory-chip shortage cut global PC shipments by 4.9% in the second quarter](https://www.vanguardngr.com/2026/07/why-laptops-may-become-more-expensive-in-nigeria/), in a market that imports almost every computer it sells.
+
+A civil-society account on 24 September [reported the national strategy for community-centred connectivity moving into implementation, with regulators estimating over 100,000 communities potentially eligible and an aggregator licensing model under study](https://www.apc.org/en/news/strategy-action-nigerias-communities-push-bridge-digital-divide). The [strategy](https://www.apc.org/sites/default/files/nigeria-ccc-national-strategy_v3.pdf), published in June and running to March 2027, is multistakeholder rather than a government instrument.
 
 ## Rwanda
 

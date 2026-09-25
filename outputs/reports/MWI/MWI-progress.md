@@ -1,12 +1,12 @@
 ---
 title: Malawi — progress report, September 2025 – September 2026
-compiled: 2026-09-24
-period: 2025-09-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2025-09-01 to 2026-09-25
 place: MWI
 ledger_rows: 274
 not_held: 35
 indicators: 123
-record: 9b6fbb426551
+record: d636a2b4c64e
 ---
 
 # Malawi: progress report, September 2025 – September 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the repository holds nothing on that indicator. **That is a statement about this repository, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-09-01 to 2026-09-24.*
+*The period is 2025-09-01 to 2026-09-25.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the repository holds a standing position and nothing in the period touched it. ***No evidence*** — the repository holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Movement, regulations still pending*.
 
@@ -242,4 +242,8 @@ Where a row reads ***No evidence***, the repository holds nothing on that indica
 | Acceleration project training and skills results | A project implementation status and results report against the results framework; the repository holds only the appraisal targets and no reported achievement | not yet probed |
 | Retail data and device affordability | A regulator-published tariff schedule or an affordability series; the repository holds the appraisal's statement that 2GB costs almost 10% of annual gross national income per head, and nothing dated since | not yet probed |
 | National cloud or data-storage policy | An adopted cloud or data-storage policy, a cabinet paper commissioning one, or a hosting standard binding ministries; the government's own 2025 readiness assessment states none exists and recommends developing one, while the national data centre is being expanded to a cloud platform without it | 2026-08-29 |
+| Outturn against the digital appropriations | The Annual Appropriation Accounts or an audited budget performance report giving actual expenditure by vote and project for 2024/25 or 2025/26, read into the budget extract; the Detailed Estimates print approved and revised figures only. | 2026-09-25 |
+| Terms of private participation in the digital build | A signed PPP, concession or revenue-share agreement for towers, fibre or the National Data Centre stating the state's obligation and the revenue model; the ministry sought private investment in August 2026 with no terms stated. | 2026-09-25 |
+| Data jurisdiction, portability and exit terms of the Huawei arrangements | Publication of the operating agreement for the Huawei-built Blantyre National Data Centre, or the terms of the proposed four-year Huawei roadmap presented in June 2026. | 2026-09-25 |
+| Source code, operating skills and exit for the national identity system | A contract, audit or bureau statement on who holds the source code of the National Registration and Identification System and on what terms its vendor can be exited. | 2026-09-25 |
 

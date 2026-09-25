@@ -1,10 +1,10 @@
 ---
 title: Training and skills — monthly update, August – September 2026
-compiled: 2026-09-24
-period: 2026-08-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2026-08-01 to 2026-09-25
 subject: capacity.training
 places: DZA; AGO; BEN; BFA; BDI; CMR; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 0e7c3f50e876
+record: bbbb76262868
 ---
 
 # Training and skills: monthly update, August – September 2026
@@ -27,7 +27,9 @@ Two cohorts opened in the month, both small and both institutional. The state in
 
 ## Burkina Faso
 
-The one training development in the window is small and specific. An association of blind and partially sighted students [closed its fifth adapted computing course on 11 September, having trained 70 visually impaired pupils and students](https://www.sidwaya.info/formation-en-informatique-70-eleves-et-etudiants-en-situation-de-handicap-visuel-outilles/) from first computer use to e-mail and AI, and its president said they have no computers to practise on afterwards.
+On 24 September the digital ministry [opened a two-day artificial-intelligence course for the secretaries general of all ministries and institutions, covering generative tools and which administrative data may be put into them](https://www.sidwaya.info/utilisation-de-lintelligence-artificielle-des-secretaires-generaux-a-lecole-des-bonnes-pratiques/); no instrument governing AI use in ministries has followed on the record.
+
+An association of blind and partially sighted students [closed its fifth adapted computing course on 11 September, having trained 70 visually impaired pupils and students](https://www.sidwaya.info/formation-en-informatique-70-eleves-et-etudiants-en-situation-de-handicap-visuel-outilles/) from first computer use to e-mail and AI, and its president said they have no computers to practise on afterwards.
 
 ## Burundi
 
@@ -88,6 +90,8 @@ The civil service is being prepared for the Digital Eswatini Project's implement
 ## Ethiopia
 
 The flagship coder-training programme is [now reported as a seven million coders initiative](https://www.ameco.et/english/ethiopia-launches-ambitious-7-million-coders-initiative-to-build-continental-tech-hub/), a target raised from the five million the digital transformation council had been working to. The raise is reported rather than gazetted, and no enrolment, completion or certification figure accompanies it.
+
+UNESCO and the labour and skills ministry [validated findings on the digital-skills training needs of TVET teachers and students, to inform policy, capacity development and investment in the system](https://www.unesco.org/en/articles/strengthening-digital-skills-ethiopias-tvet-system). The findings themselves are not published with the account.
 
 ## Gabon
 
@@ -255,6 +259,8 @@ The first artificial-intelligence summer school finished, [training 100 young pe
 ## Tunisia
 
 The family and women's ministry, a national entrepreneurs' organisation and a UN regional commission [opened a training programme for 100 women entrepreneurs in e-commerce and artificial-intelligence applications, alongside a national platform for marketing women's products](https://www.assabahnews.tn/ar/%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%D8%AD/152460). Both sit under a [declaration on women, youth, digitalisation and African economic integration whose action plan targets training 100,000 women and young people in e-commerce, AI and cross-border digital payments by 2028, and a US$50m fund for inclusive markets by the same date](https://www.assabahnews.tn/ar/%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%D8%AD/152460). The training launch's own date is not established in the source.
+
+Against that intake runs the outflow. An annual analyst study carries the Order of Engineers' count: [more than 7,000 engineers left in 2025, more than 8,000 are expected to leave in 2026, and 46,000 have gone in ten years against 105,000 on the Order's register](https://fr.linkedin.com/pulse/%C3%A9tude-sur-la-transformation-digitale-et-lia-en-tunisie-arnault-chatel-mdxje). The repository holds no figure from the Order itself.
 
 ## Uganda
 

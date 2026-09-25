@@ -1,12 +1,12 @@
 ---
 title: Morocco — progress report, September 2025 – September 2026
-compiled: 2026-09-24
-period: 2025-09-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2025-09-01 to 2026-09-25
 place: MAR
 ledger_rows: 232
 not_held: 14
 indicators: 123
-record: 3b6379638051
+record: cc4469572e0b
 ---
 
 # Morocco: progress report, September 2025 – September 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the repository holds nothing on that indicator. **That is a statement about this repository, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-09-01 to 2026-09-24.*
+*The period is 2025-09-01 to 2026-09-25.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the repository holds a standing position and nothing in the period touched it. ***No evidence*** — the repository holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Movement, regulations still pending*.
 
@@ -221,4 +221,9 @@ Where a row reads ***No evidence***, the repository holds nothing on that indica
 | Digital ministry appropriation in the 2026 finance law | The ministry's vote (code 33) in the 2026 finance law's tables of credits by department; the law is now held in its Arabic general edition, and only the ministry's special Treasury account has been read from it, so no departmental appropriation is established for 2026 | 2026-08-06 |
 | National digital inclusion index or indicator framework | A ministry or planning-commission publication defining inclusion indicators and targets; the repository carries the published finding that inclusion objectives are not operationalised and a connectivity baseline from a private tracker, and no Moroccan inclusion index, vulnerability profiling or territorial targeting instrument | 2026-08-06 |
 | National cybersecurity workforce plan | A government plan or published target for cybersecurity skills; the repository holds one vendor study's figures of 6,000 certified professionals against demand above 12,000, and a general target of training 100,000 people by 2030, with no cybersecurity-specific plan, intake target or progress reporting | 2026-08-06 |
+| FY2026 general-budget digital lines | The Morasses budgétaires for the 2026 finance law, read into the budget extract; FY2026 holds only the four special-account and SEGMA lines of the law itself. | 2026-09-25 |
+| Source of financing against the digital budget lines | A budget annex printing domestic or external financing per project or chapter; the morasses print credits only and budget-general lines draw on pooled Treasury resources. | 2026-09-25 |
+| Cloud qualification standard and list of qualified providers | Publication in the Bulletin officiel of the arrêté fixing the référentiel under article 4 of decree 2-24-921, and of the list of qualified cloud providers under its article 12. | 2026-09-25 |
+| Source code, operating skills and exit for the identity card personalisation systems | The DGSN's contract with its card-personalisation vendor, an audit, or a ministry statement on source-code ownership and exit terms. | 2026-09-25 |
+| Data jurisdiction, portability and exit terms of the Nexus AI Factory and Vertiv memoranda | Publication of the memoranda or the contracts that follow them, with their data, portability and exit clauses. | 2026-09-25 |
 

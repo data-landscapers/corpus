@@ -1,12 +1,12 @@
 ---
 title: Chad — progress report, September 2025 – September 2026
-compiled: 2026-09-24
-period: 2025-09-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2025-09-01 to 2026-09-25
 place: TCD
 ledger_rows: 181
 not_held: 22
 indicators: 123
-record: 69474c0344c0
+record: 833418e972de
 ---
 
 # Chad: progress report, September 2025 – September 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the repository holds nothing on that indicator. **That is a statement about this repository, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-09-01 to 2026-09-24.*
+*The period is 2025-09-01 to 2026-09-25.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the repository holds a standing position and nothing in the period touched it. ***No evidence*** — the repository holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Movement, regulations still pending*.
 
@@ -250,4 +250,8 @@ Where a row reads ***No evidence***, the repository holds nothing on that indica
 | Cost of connectivity | A regulator tariff observatory or an affordability basket for Chad; the repository holds only the satellite operator's own price card | not yet probed |
 | Statutory regime for artificial intelligence | An AI statute, regulation or liability regime, or a national AI strategy adopted rather than diagnosed — UNESCO states in June 2026 that none exists. | 2026-09-06 |
 | National address register | A national addressing instrument or register beyond N'Djamena's own programme, or a coverage figure for the capital's system, which a 2026 study finds still incomplete ten years after it was officialised. | 2026-09-06 |
+| Outturn against the domestic digital lines | An execution report or loi de règlement printing execution by line for the ANSICE, finance-ministry computerisation and other Etat-column digital lines, read into the budget extract; the held Q4 2025 report gives grants at ministry grain only. | 2026-09-25 |
+| Receipts and spending of the universal service fund FSUCE | ADETIC's published financial statements or an ARCEP report of FSUCE contributions and disbursements. | 2026-09-25 |
+| State control of SIGPTS source code, keys and operating contract | The ANATS contract with Idemia, or a government statement of who holds the source code and keys and what exit terms apply. | 2026-09-25 |
+| Data jurisdiction, portability and exit terms of the data-centre and identity-register agreements | Publication of the Huawei PMICE contract terms for the national data centre, or of ANATS's agreements with Airtel and Moov Africa. | 2026-09-25 |
 

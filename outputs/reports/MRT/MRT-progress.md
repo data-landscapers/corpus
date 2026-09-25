@@ -1,12 +1,12 @@
 ---
 title: Mauritania — progress report, September 2025 – September 2026
-compiled: 2026-09-24
-period: 2025-09-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2025-09-01 to 2026-09-25
 place: MRT
 ledger_rows: 160
 not_held: 3
 indicators: 123
-record: 55c88607365b
+record: 6ed1fbc102e6
 ---
 
 # Mauritania: progress report, September 2025 – September 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the repository holds nothing on that indicator. **That is a statement about this repository, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-09-01 to 2026-09-24.*
+*The period is 2025-09-01 to 2026-09-25.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the repository holds a standing position and nothing in the period touched it. ***No evidence*** — the repository holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Movement, regulations still pending*.
 
@@ -211,4 +211,8 @@ Where a row reads ***No evidence***, the repository holds nothing on that indica
 | Municipal or regional digital services | A named wilaya or commune digital service, one-stop desk or local e-government platform, with a location and a start date. Ijraati and Mes Services are national portals. | 2026-08-10 |
 | IBTIKAR technology park | Any dated statement of whether the IBTIKAR technology park, named in the 2023 digital agenda, was built, is operating, or holds tenants. | 2026-08-10 |
 | National digital literacy measurement | A national survey or ministry statement measuring digital skills or literacy in Mauritania, as distinct from the vocational-training place counts. | 2026-08-10 |
+| Outturn against the digital appropriations | The digital lines of the Loi portant règlement définitif du budget 2024 (held, published 2026-02-25) read into the budget extract, and the 2025 settlement law when published. | 2026-09-25 |
+| Running cost and budget line of the national cloud and data centre | A budget line, operating agreement or ministry statement giving the national cloud's cost and who pays to run it after WARDIP. | 2026-09-25 |
+| Data jurisdiction, portability and exit terms of the national data centre operation | Publication of the national data centre contract and the operating arrangement with International Mauritania Telecom, as an MP requested on 2026-09-13. | 2026-09-25 |
+| Source code and vendor dependence of the SIGPTS population register | An ANRPTS, ministry or audit statement naming the register's supplier and whether the state holds its source code and can change it without the vendor. | 2026-09-25 |
 

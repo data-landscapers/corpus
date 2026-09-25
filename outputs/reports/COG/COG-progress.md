@@ -1,12 +1,12 @@
 ---
 title: Congo — progress report, September 2025 – September 2026
-compiled: 2026-09-24
-period: 2025-09-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2025-09-01 to 2026-09-25
 place: COG
 ledger_rows: 148
 not_held: 6
 indicators: 123
-record: 97938c3c3aed
+record: d98a82c1bece
 ---
 
 # Congo: progress report, September 2025 – September 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the repository holds nothing on that indicator. **That is a statement about this repository, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-09-01 to 2026-09-24.*
+*The period is 2025-09-01 to 2026-09-25.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the repository holds a standing position and nothing in the period touched it. ***No evidence*** — the repository holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Movement, regulations still pending*.
 
@@ -213,4 +213,7 @@ Where a row reads ***No evidence***, the repository holds nothing on that indica
 | Electronic-communications framework law of 2009 | the 2009 law's number and gazette text, and any bill or ordinance revising it | 2026-09-04 |
 | Audited outturn for any digital line | a settlement law later than exercise 2020, with its annexed tables reproduced | 2026-09-04 |
 | National digital-literacy programme | a national digital-literacy programme document, a fund or project training outturn broken out by literacy rather than skills, or a published digital-literacy rate | 2026-09-04 |
+| Source of financing of the digital-economy programme | a budget annex, public investment programme or PATN financial report splitting programme 118 between external and domestic resources | 2026-09-25 |
+| Rule on where state data is held | a government-cloud or hosting decree, a data-classification instrument, or a localisation clause in a digital or cybersecurity text | 2026-09-25 |
+| Data and exit terms of the identity and biometric platform contracts | the Mühlbauer tax-identity contract or the Innovatrics/Akieni platform contract, or an audit or procurement report stating their data, source-code and exit clauses | 2026-09-25 |
 

@@ -1,10 +1,10 @@
 ---
 title: Public debate and participation in policymaking — monthly update, August – September 2026
-compiled: 2026-09-24
-period: 2026-08-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2026-08-01 to 2026-09-25
 subject: gov.discourse
 places: AGO; BEN; BFA; CMR; CAF; TCD; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; MWI; MLI; MUS; MAR; NAM; NER; NGA; SEN; SYC; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: ae28c9b5b5e2
+record: b73cd7ba7c67
 ---
 
 # Public debate and participation in policymaking: monthly update, August – September 2026
@@ -118,6 +118,8 @@ The state opened a channel for hearing what its digital services are actually li
 On 30 July the Anti-Corruption Commission [confirmed it had forwarded a complaint about the telecoms traffic-monitoring arrangement to its investigation unit](https://www.liberianobserver.com/news/lacc-weighs-investigation-into-lta/article_86dd65ff-724e-4440-a664-728654ea9668.html). No evidence has been publicly produced and no findings made.
 
 The month's one channel built to hear from the public rather than about it was relaunched by donors. UNICEF and UNFPA [relaunched the U-Report youth feedback platform on 13 August](https://www.thenewdawnliberia.com/unicef-unfpa-relaunch-u-report/), with Irish embassy support and under a joint programme with the government, giving young people an encrypted SMS channel to answer polls on health, water and sanitation and other social issues, with responses analysable by county and a target of at least 8,000 reporters. The channel runs on one operator's SIM cards, which bounds who can take part.
+
+Ten civil society organisations [signed a founding memorandum for a Digital Advocacy and Rights Alliance](https://www.liberianobserver.com/news/ten-csos-form-digital-rights-coalition/article_af9fdbc9-c6ab-4b6a-b1f1-3981a3e53c4f.html), reported on 24 September, committing to press for an independent data protection authority, amendments narrowing the Cybercrime Act, tighter oversight of state interception, and judicial authorisation and public reporting for any internet shutdown. Its founding assembly is due within 90 days of the last signature.
 
 ## Malawi
 

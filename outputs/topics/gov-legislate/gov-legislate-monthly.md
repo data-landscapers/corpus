@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — monthly update, August – September 2026
-compiled: 2026-09-24
-period: 2026-08-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2026-08-01 to 2026-09-25
 subject: gov.legislate
 places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; TCD; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: ff48c8ffb05a
+record: 029d7cc18dbd
 ---
 
 # Legislation and regulation: monthly update, August – September 2026
@@ -274,6 +274,8 @@ The ministry's own account of the contents grades obligations by risk: [ordinary
 
 Every provision is still the ministry's description. The text is not held, no promulgation date or gazette reference is published, and nothing the law creates exists yet.
 
+On 24 September the head of the interior ministry's file-automation directorate [said a text extending the validity of the first ECOWAS biometric identity cards, issued in 2016 and nearing expiry, has had committee work at the National Assembly and still needs a vote, promulgation and an implementing decree](https://www.seneweb.com/fr/news/Societe/cartes-didentite-biometriques-de-2016-vers-une-prorogation-de-la-validite_n_505118.html). The length of the extension and the cards covered are not fixed; ordinary renewal stays open.
+
 ## Sierra Leone
 
 A public-private dialogue was convened [to operationalise the Electronic Transactions Act, in force since December 2019 and never given certification authorities, evidence procedures, dispute mechanisms or penalties](https://sierraloaded.sl/news/government-activate-e-transactions-law/). It is to produce a gap analysis, a policy memorandum and an implementation roadmap, with no adoption date for any of the three, and worked to [functional equivalence and technological neutrality](https://libertyonlinetv.com/2026/08/03/koica-itc-partner-with-government-of-sierra-leone-to-strengthen-e-transactions-legal-framework/).
@@ -313,6 +315,8 @@ The other statute in play has a text and a process behind it. The central bank a
 ## Tanzania
 
 The legislative response to all of this is a review rather than a bill. The government says it will [review more than 1,000 laws, including the public-private partnership act, the companies act and financial legislation, to build a regulatory framework supporting artificial intelligence, digital commerce and technology investment](https://dailynews.co.tz/govt-to-review-over-1000-laws-to-attract-tech/) under the 2050 development vision. No list of statutes, sequencing, responsible body, timetable or consultation route is stated — and the repository still records no online-content or cybercrime regulation for the country, and no adopted artificial-intelligence strategy.
+
+The [Citizen Budget 2026/27, published on 22 September, lists the digital service tax on foreign digital service providers as raised from 2% to 3%](https://www.mof.go.tz/uploads/documents/en-1790088121-Citizen%20Budget%202026_27%20English%20Version%20.pdf). Its effective date and statutory clause are not stated.
 
 ## Togo
 

@@ -1,12 +1,12 @@
 ---
 title: Central African Republic — progress report, September 2025 – September 2026
-compiled: 2026-09-23
-period: 2025-09-01 to 2026-09-23
+compiled: 2026-09-25
+period: 2025-09-01 to 2026-09-25
 place: CAF
 ledger_rows: 139
 not_held: 4
 indicators: 123
-record: 17f9f1989e4b
+record: d69aedcb6b5d
 ---
 
 # Central African Republic: progress report, September 2025 – September 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the repository holds nothing on that indicator. **That is a statement about this repository, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-09-01 to 2026-09-23.*
+*The period is 2025-09-01 to 2026-09-25.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the repository holds a standing position and nothing in the period touched it. ***No evidence*** — the repository holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Movement, regulations still pending*.
 
@@ -211,4 +211,9 @@ Where a row reads ***No evidence***, the repository holds nothing on that indica
 | AI system deployed in state service delivery | a procurement notice, contract, pilot announcement or ministry statement naming a deployed system and a vendor | not yet probed |
 | Enacted appropriation for any year | a text-extractable copy of any of the three enacted finance laws, at line grain | not yet probed |
 | Budget outturn at any grain | a text-extractable quarterly execution report, or a settlement law later than 2019 | not yet probed |
+| Universal service fund receipts and disbursements | ARCEP or CDCE accounts showing the 2% contribution collected and spent would settle it; probed 2026-09-25, the fund's implementation was still listed as a 2026 priority | 2026-09-25 |
+| Recurrent financing after the digital governance grant closes | a finance-law line or transition plan carrying the running costs of systems built under the World Bank digital governance project after 31 December 2026 would settle it; probed 2026-09-25, none published | 2026-09-25 |
+| Rule on where state data is hosted | a hosting policy, cloud policy or decree fixing where state data sits would settle it; probed 2026-09-25, the GovTech index records none and the data-protection law addresses only personal-data transfers | 2026-09-25 |
+| Hosting and contract terms of the identity database | the identity-card production contract and a statement of where the database is hosted would settle it; probed 2026-09-25, neither published | 2026-09-25 |
+| Data terms of the Huawei, Greenline and AIAL agreements | publication of the agreements' data-jurisdiction, portability and exit clauses would settle it; probed 2026-09-25, none published | 2026-09-25 |
 

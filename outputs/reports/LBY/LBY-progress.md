@@ -1,12 +1,12 @@
 ---
 title: Libya — progress report, September 2025 – September 2026
-compiled: 2026-09-24
-period: 2025-09-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2025-09-01 to 2026-09-25
 place: LBY
 ledger_rows: 168
 not_held: 2
 indicators: 123
-record: 98f80eda8eb7
+record: 5436ea7a50da
 ---
 
 # Libya: progress report, September 2025 – September 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the repository holds nothing on that indicator. **That is a statement about this repository, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-09-01 to 2026-09-24.*
+*The period is 2025-09-01 to 2026-09-25.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the repository holds a standing position and nothing in the period touched it. ***No evidence*** — the repository holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Movement, regulations still pending*.
 
@@ -209,4 +209,9 @@ Where a row reads ***No evidence***, the repository holds nothing on that indica
 |---|---|---|
 | Trans-Sahara and Tatweer Tripoli data centre | Any statement, contract, opening report or capacity figure after 2019 establishing whether the Huawei FusionModule1000A facility announced for Tripoli in early 2020 was ever deployed. | 2026-08-10 |
 | Access-to-information statute | A gazetted Libyan access-to-information law or decree, or an official statement that none is in force. | 2026-08-10 |
+| Unified 2026 state budget, digital lines | The unified 2026 budget law or its expenditure tables by body, agreed on 11 April 2026, read into the budget extract. | 2026-09-25 |
+| Outturn against the digital appropriations by body | The Central Bank's annual revenue and expenditure statements read into the budget extract for the Civil Status Authority, the communications ministry and NISSA; only the communications authority's spending is read. | 2026-09-25 |
+| Rule on where state data is hosted | Adoption of the National Cloud Computing Policy proposed in January 2026, or the communications authority's data-centre and cloud legislation. | 2026-09-25 |
+| Hosting and operator of the national identity database | A Civil Status Authority or General Information Authority statement naming where the civil registry and LY-DNID databases are hosted and who operates them. | 2026-09-25 |
+| Data jurisdiction, portability and exit terms of the LPTIC-KBR memorandum | Publication of the January 2026 LPTIC-KBR memorandum or any contract under it covering data centres. | 2026-09-25 |
 

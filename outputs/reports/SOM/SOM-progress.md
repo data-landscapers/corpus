@@ -1,12 +1,12 @@
 ---
 title: Somalia — progress report, September 2025 – September 2026
-compiled: 2026-09-24
-period: 2025-09-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2025-09-01 to 2026-09-25
 place: SOM
 ledger_rows: 158
 not_held: 2
 indicators: 123
-record: 33d0f6cd85a5
+record: 1935792a6974
 ---
 
 # Somalia: progress report, September 2025 – September 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the repository holds nothing on that indicator. **That is a statement about this repository, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-09-01 to 2026-09-24.*
+*The period is 2025-09-01 to 2026-09-25.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the repository holds a standing position and nothing in the period touched it. ***No evidence*** — the repository holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Movement, regulations still pending*.
 
@@ -209,4 +209,7 @@ Where a row reads ***No evidence***, the repository holds nothing on that indica
 |---|---|---|
 | National artificial intelligence policy | An adopted or draft national AI strategy, a ministerial mandate, or a government statement setting an AI position. | 2026-09-03 |
 | Rural electricity access | The data analysis chapter of the Somalia National Bureau of Statistics SDG 7 energy indicators report, or any published urban and rural electricity access figures for the country. | not yet probed |
+| Recurrent financing after SCALED-UP and EA-RDIP | a transition plan or appropriation line taking over the running costs of the systems the World Bank grants fund when they close would settle it; probed 2026-09-25, none published | 2026-09-25 |
+| Rule on where state data is hosted | guidelines on government data hosting and cloud adoption, a government cloud or hosting policy, or a localisation rule for state data would settle it; probed 2026-09-25, the World Bank recorded none in place in June 2026 | 2026-09-25 |
+| Data jurisdiction, portability and exit terms of the NADRA identity partnership and the PISCES border system | publication of the agreements or of their data, portability and exit clauses would settle it; probed 2026-09-25, none published | 2026-09-25 |
 

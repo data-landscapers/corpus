@@ -1,12 +1,12 @@
 ---
 title: Comoros — progress report, September 2025 – September 2026
-compiled: 2026-09-24
-period: 2025-09-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2025-09-01 to 2026-09-25
 place: COM
 ledger_rows: 195
 not_held: 24
 indicators: 123
-record: 1de7a5d76b1a
+record: 3c6f0aeab39d
 ---
 
 # Comoros: progress report, September 2025 – September 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the repository holds nothing on that indicator. **That is a statement about this repository, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-09-01 to 2026-09-24.*
+*The period is 2025-09-01 to 2026-09-25.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the repository holds a standing position and nothing in the period touched it. ***No evidence*** — the repository holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Movement, regulations still pending*.
 
@@ -231,4 +231,7 @@ Where a row reads ***No evidence***, the repository holds nothing on that indica
 | Access to information law | An adopted access-to-information statute, a published bill, or a dated government statement of intent with a timetable; UNESCO's periodic-review submission of January 2026 records that none has been adopted and the 2023 anti-corruption law only anticipates that one will be | 2026-08-31 |
 | National asylum system | A refugee or asylum statute, an implementing decree, or a dated government statement that determination has been assigned to a named body; the refugee agency's December 2025 mission recorded the absence of a national asylum system and recommended the government organise referral pathways | 2026-08-31 |
 | Open government data policy | An open-data policy, licence or release calendar binding government beyond the statistical system; the statistics institute's microdata archive operates as a dissemination platform with no instrument behind it and access conditioned on registration | 2026-08-31 |
+| Terms of the government data-centre public-private partnership | the PPP or operating contract for the PADEC-financed data centres, or a PADEC progress report stating the operator, the state's obligation and the revenue model | 2026-09-25 |
+| Rule on where state data is held | the implementing texts of the 2027-2031 data governance strategy, a government-cloud or hosting decree, or a data-classification instrument | 2026-09-25 |
+| Data and exit terms of the identity-document and payment-switch contracts | the GenKey identity-document contract or the PayLogic payment-switch contract, or an audit or procurement report stating their data, source-code and exit clauses | 2026-09-25 |
 

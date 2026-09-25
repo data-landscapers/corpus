@@ -1,15 +1,15 @@
 ---
 title: Sectoral management information systems (HMIS, EMIS, etc.) — monthly update, August – September 2026
-compiled: 2026-09-24
-period: 2026-08-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2026-08-01 to 2026-09-25
 subject: dpi.mis
-places: DZA; AGO; BEN; BWA; BDI; CMR; CPV; CAF; COM; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 2f175793ed1c
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; COM; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 57bb624a1cd9
 ---
 
 # Sectoral management information systems (HMIS, EMIS, etc.): monthly update, August – September 2026
 
-*47 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*48 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -20,6 +20,8 @@ The tax administration [published its first user guide for electronic payment on
 A second joint session of the digitalisation high commission and the domestic trade ministry [took the data sources themselves as its subject — how they are produced, updated and kept consistent — towards a unified digital mechanism for regulating the national market](https://www.aps.dz/en/algeria/education-technology/mtr4nrdp-benmouloud-abdellatif-chair-second-meeting-to-establish-unified-digital-mechanism-for-national-market-regulation). The market-supply system [reached the government meeting of 9 September as a unified digital system for regulating and supplying the national market](https://www.aps.dz/en/algeria/national-news/mtu81f2g-penal-code-fire-damage-compensation-digitization-on-agenda).
 
 On 22 September the justice minister [extended the electronic window for the administrative courts to the administrative courts of appeal and the Council of State](https://www.lejourdalgerie.com/extension-des-services-du-guichet-electronique-national-aux-cours-administratives-dappel-et-au-conseil-detat/), so that litigants and lawyers track cases and obtain copies of administrative rulings from any administrative court. The solidarity ministry [launched Morafikokoum](https://news.radioalgerie.dz/en/node/95028), through which parents of pupils in its specialised schools for deaf and blind children view grades and attendance and file transfer requests online.
+
+The industry sector's PRODNAT platform [closed first-half 2026 production declarations from goods-producing firms and kept registration open past its mid-September deadline, asking each firm for its tax and statistical identifiers, its manager's biometric identity card, the production unit's coordinates and half-yearly purchases, stocks and sales](https://www.echoroukonline.com/12-%D8%B9%D9%86%D8%B5%D8%B1%D9%8B%D8%A7-%D9%81%D9%8A-%D8%AA%D8%AD%D9%8A%D9%8A%D9%86-%D9%85%D8%B9%D8%B7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%A4%D8%B3%D8%B3%D8%A7%D8%AA-%D8%A7%D9%84%D8%B5%D9%86%D8%A7). Second-half declarations are [due between 1 January and 28 February 2027](https://www.echoroukonline.com/12-%D8%B9%D9%86%D8%B5%D8%B1%D9%8B%D8%A7-%D9%81%D9%8A-%D8%AA%D8%AD%D9%8A%D9%8A%D9%86-%D9%85%D8%B9%D8%B7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%A4%D8%B3%D8%B3%D8%A7%D8%AA-%D8%A7%D9%84%D8%B5%D9%86%D8%A7); no count of registered firms is published.
 
 ## Angola
 
@@ -37,9 +39,15 @@ The tax directorate's information-system modernisation surfaced in the window on
 
 The health ministry [signed a ten-year strategic partnership with the operator of Abu Dhabi's health information exchange on 22 August](https://oncodaily.com/voices/ministry-of-health-botswana-572024), covering pharmaceutical and medical supply and opening cooperation on digital health transformation, genomics, precision medicine and capacity development. The fuller account is [the counterparty's own](https://m42.ae/media-resources/news/m42-enters-africa-with-10-year-health-systems-partnership-to-strengthen-botswanas-health-sector/), which adds a national genomics programme. No contract value, list of systems, data-handling term or governance arrangement is published, so a ten-year commitment over health data sits on the ledger with nothing describing what it obliges either side to do.
 
+## Burkina Faso
+
+On 21 September the health ministry [put a digitalised, geolocated health map at the centre of its sector council, to show disparities in care in real time and to plan facilities, staff, essential-medicine supply and biomedical equipment under the health transformation strategy for 2026-2030](https://www.sidwaya.info/ministere-de-la-sante-la-carte-sanitaire-digitalisee-au-coeur-du-premier-casem-de-2026/). No go-live date, coverage or budget line is stated.
+
 ## Burundi
 
-The one new management system in the window sits outside the state's own stack. A [digital tool for tracking the institutional performance of Burundi's technical and vocational training centres in real time was validated on 7 August](https://burundi-eco.com/un-nouvel-outil-numerique-pour-moderniser-le-suivi-des-cem-et-cfp/), built by CREOP-Jeunes under the EU-backed Umwuga Akazi project. No deployment date, centre count or custodian ministry is stated, so what the tool will be attached to is not yet on the record.
+One new management system in the window sits outside the state's own stack. A [digital tool for tracking the institutional performance of Burundi's technical and vocational training centres in real time was validated on 7 August](https://burundi-eco.com/un-nouvel-outil-numerique-pour-moderniser-le-suivi-des-cem-et-cfp/), built by CREOP-Jeunes under the EU-backed Umwuga Akazi project. No deployment date, centre count or custodian ministry is stated, so what the tool will be attached to is not yet on the record.
+
+On the revenue side, the finance ministry's procurement plan [provides BIF 6.69bn for an International Traffic Audit Platform to collect revenue on inbound international calls, OTT services and A2P messaging, with a separate feasibility study](https://armp.gov.bi/wp-content/uploads/2026/08/PPM-finances-budgetaire-2026-2027-final.docx-Revise1.pdf). No award is on file.
 
 ## Cameroon
 
@@ -85,6 +93,8 @@ The justice ministry's [E-Court platform went live on 31 August for first-instan
 
 The finance ministry [began surveying road-freight companies at land ports to link them to Nafeza, the single window already used for sea and air cargo](https://enterpriseam.com/logistics/2026/09/14/egypts-govt-is-bringing-overland-freight-into-nafeza-for-the-first-time-closing-a-gap-in-trade-digitization/), with consolidated land bills of lading and pre-arrival cargo data planned. The account rests on unnamed officials, and no timetable is set.
 
+On 23 September the agriculture ministry's spokesman [said its digital register of agricultural holdings ties each holding to the crop actually grown across about 4.4 million farmer cards, to target subsidised fertiliser and record encroachment on farmland](https://www.youm7.com/story/2026/9/23/%D9%85%D8%AA%D8%AD%D8%AF%D8%AB-%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D8%A9-%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D9%84%D8%AD%D8%B5%D8%B1-%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%B2%D8%A7%D8%AA-%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D9%8A%D8%A9-%D9%88%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D9%85%D8%B2%D8%A7%D8%B1%D8%B9%D9%8A%D9%86/7556116). No launch date or coverage of all holdings was given.
+
 ## Equatorial Guinea
 
 Two sectoral systems moved, both at the design stage. A ministerial workshop [agreed to build a single import-valuation database and to bring an automated customs valuation module into service](https://lagdeguinea.com/gobierno-refuerza-el-control-aduanero-y-agiliza-reformas-economicas/), and the universal health insurance technical committee [presented the national health accounts for 2021 to 2023](https://www.guineaecuatorialpress.com/noticias/el_comite_tecnico_multisectorial_del_seguro_medico_universal_presenta_las_cuentas_nacionales_de_salud_2021-2023). Neither carries a supplier, a cost or a date. What the customs agreement replaces, and how valuation is done now, is not stated in the record held.
@@ -95,9 +105,13 @@ Customs also appears on a list of intended work: [an undated page of the PAMFP p
 
 The Integrated Financial Management Information System was [among the systems the ICT ministry listed as disrupted on 23 September](https://independentnews.co.sz/48729/news/govt-systems-crippled-by-digital-outages/), with technical experts engaged and no cause or restoration date given.
 
+The science park [confirmed on 24 September that an incident at the National Data Centre lies behind the disruption](https://times.co.sz/44621/news/national-data-centre-hit-by-incident/), without saying what it was.
+
 ## Ethiopia
 
-A [livestock information system went live on 29 July](https://developmentgateway.org/blog/building-lasting-dpi-through-local-ownership-lessons-from-ethiopias-livestock-information-system/), drawing on five priority databases and repositioning animal identification from an export tool to a national asset register — broadened from feedlots to farm level and linked to disease surveillance and vaccination records. The account is the implementer's own, written after four years with a team embedded in the ministry, and is uncorroborated here. A system that has been running far longer got its evaluation: a journal study published on 10 August [puts a community HIV case-management application in the hands of 950 health workers, with the time to reach case data down from a month to a day and data completeness near 100%](https://www.ghspjournal.org/content/14/1/e2400353). [Ninety-two per cent of mobile accounts and 94% of web accounts were actively used](https://www.ghspjournal.org/content/14/1/e2400353). The figures are the study's and cover deployment since 2017; no national coverage figure or cost is given.
+A journal study published on 10 August [puts a community HIV case-management application in the hands of 950 health workers, with the time to reach case data down from a month to a day and data completeness near 100%](https://www.ghspjournal.org/content/14/1/e2400353). [Ninety-two per cent of mobile accounts and 94% of web accounts were actively used](https://www.ghspjournal.org/content/14/1/e2400353). The figures are the study's and cover deployment since 2017; no national coverage figure or cost is given.
+
+The state medicines agency [said on 26 August that four years of digitising procurement and supply-chain operations had cut processing times, and took a continental supply-chain award for the reforms](https://www.ena.et/web/eng/w/eng_9457651); no processing-time figure is given.
 
 A technology group and a bank [signed an agreement to digitise the agricultural supply chain](https://birrmetrics.com/eagle-lion-and-tsedey-bank-partner-to-digitize-ethiopias-agricultural-supply-chain/); no scope, value, farmer count or launch date is stated.
 
@@ -286,6 +300,8 @@ The facility record system drew its first district-level complaint on this recor
 ## Zambia
 
 An emergency outbreak response platform [entered two days of user-acceptance testing](https://www.cidrz.org/2026/08/19/infectious-disease-response-goes-digital/). User-acceptance testing is the last stage before a system becomes someone's responsibility in an emergency; no go-live date, participating facilities or data flow is published.
+
+Beneficiary checks for the Keeping Girls in School programme [moved from paper forms to a tablet application on which each girl is captured and signs for herself](https://www.lusakatimes.com/2026/09/24/government-trains-25-teachers-in-kgs-digital-checklist-verification/), replacing forms others could sign on her behalf; 25 guidance teachers in Lavushimanda District were trained on it. No national count of schools on the application is published.
 
 ## Zimbabwe
 

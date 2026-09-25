@@ -1,15 +1,21 @@
 ---
 title: Gulf/UAE activities — monthly update, August – September 2026
-compiled: 2026-09-24
-period: 2026-08-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2026-08-01 to 2026-09-25
 subject: geopol.gulf
-places: BWA; EGY; GMB; KEN; SSD; ZWE
-record: d36a154523fa
+places: AGO; BWA; EGY; GMB; KEN; SSD; ZWE
+record: bdfe143ba53c
 ---
 
 # Gulf/UAE activities: monthly update, August – September 2026
 
-*6 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*7 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
+
+## Angola
+
+The national space programme office [signed a letter of intent with the UAE Space Agency at the Africa Space Expo in Abidjan, naming satellite-data exchange, Earth-observation applications and satellite development as areas for cooperation](https://techreviewafrica.com/news/7466/). It carries no money, programme or timetable.
 
 ## Botswana
 

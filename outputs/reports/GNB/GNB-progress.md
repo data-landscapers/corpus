@@ -1,12 +1,12 @@
 ---
 title: Guinea-Bissau — progress report, September 2025 – September 2026
-compiled: 2026-09-24
-period: 2025-09-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2025-09-01 to 2026-09-25
 place: GNB
 ledger_rows: 94
 not_held: 2
 indicators: 123
-record: 0dbc5650e825
+record: 3b345fa7774b
 ---
 
 # Guinea-Bissau: progress report, September 2025 – September 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the repository holds nothing on that indicator. **That is a statement about this repository, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-09-01 to 2026-09-24.*
+*The period is 2025-09-01 to 2026-09-25.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the repository holds a standing position and nothing in the period touched it. ***No evidence*** — the repository holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Movement, regulations still pending*.
 
@@ -209,4 +209,8 @@ Where a row reads ***No evidence***, the repository holds nothing on that indica
 |---|---|---|
 | RNEP-GB / WARDIP-GB Final Report (Apr 2025) | The RNEP-GB / WARDIP-GB Final Report itself, which would date and confirm the backbone design specifics (2,877 km, 56 nodes) currently resting on an undated project-website primary. | not yet probed |
 | Artificial intelligence policy discourse | A national artificial intelligence strategy, an AI provision inside the data governance policy, or a regulator guideline on automated decision-making. | 2026-09-04 |
+| Outturn against the digital appropriations | The 2025 year-end budget execution report or the Conta Geral do Estado, giving execution by project for the digital lines, read into the budget extract; only in-year reports for 2025 and 2026 are held. | 2026-09-25 |
+| Universal Access and Service Fund levy rate and collections | Section 6 of the FASU strategic plan 2026-2031 (levy, five-year accumulation, revenue and expenditure table) read in full, or the regulation fixing the operators' levy. | 2026-09-25 |
+| Rule on where state data is hosted | Adoption of the data governance policy approved in draft in July 2025, a data-protection law, or a government cloud policy fixing where state data is held. | 2026-09-25 |
+| Source code, operating skills and exit for the Semlex identity system | The Ministry of Justice's contract with Semlex, or an audit or ministry statement on source-code ownership, data hosting and exit terms. | 2026-09-25 |
 

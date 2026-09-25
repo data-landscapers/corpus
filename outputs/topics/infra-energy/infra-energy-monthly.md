@@ -1,10 +1,10 @@
 ---
 title: Energy — monthly update, August – September 2026
-compiled: 2026-09-24
-period: 2026-08-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2026-08-01 to 2026-09-25
 subject: infra.energy
 places: BWA; BFA; BDI; CMR; CAF; TCD; COM; ETH; GMB; GHA; KEN; LSO; LBY; MDG; MWI; MUS; MOZ; SLE; ZAF; SSD; TGO; UGA; ZMB; ZWE
-record: a57e2318b082
+record: c253b8c40d63
 ---
 
 # Energy: monthly update, August – September 2026
@@ -48,6 +48,8 @@ The thermal plant on Mwali was [down to 1,000 litres of diesel a day against a s
 ## Ethiopia
 
 The incumbent's renewable programme reached [39.72 MW of installed solar across 190 fully solar-powered sites, 867 hybrid systems and 1,114 lithium-ion storage units](https://techafricanews.com/2026/08/04/ethio-telecom-combines-reforestation-with-renewable-telecom-infrastructure-expansion/), 12.72 MW of it added over the financial year, with diesel generator running time down by up to 40%. The figures are the operator's own and unaudited.
+
+The state utility then [cut the electricity it supplies to bitcoin and other data-mining customers by about 75 per cent, to around 23 per cent of contracted volumes, as reservoir levels fell ahead of the dry season](https://norvanreports.com/ethiopia-sacrifices-lucrative-bitcoin-mining-revenue-as-hydropower-crisis-deepens/), putting households and domestic industry first. How long the curtailment will last is not stated.
 
 ## Gambia
 

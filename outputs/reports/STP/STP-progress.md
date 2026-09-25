@@ -1,12 +1,12 @@
 ---
 title: Sao Tome and Principe — progress report, September 2025 – September 2026
-compiled: 2026-09-24
-period: 2025-09-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2025-09-01 to 2026-09-25
 place: STP
 ledger_rows: 127
 not_held: 6
 indicators: 123
-record: c2d0b22260f0
+record: 5ceea06fa49d
 ---
 
 # Sao Tome and Principe: progress report, September 2025 – September 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the repository holds nothing on that indicator. **That is a statement about this repository, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-09-01 to 2026-09-24.*
+*The period is 2025-09-01 to 2026-09-25.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the repository holds a standing position and nothing in the period touched it. ***No evidence*** — the repository holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Movement, regulations still pending*.
 
@@ -213,4 +213,9 @@ Where a row reads ***No evidence***, the repository holds nothing on that indica
 | AI-specific legislation or regulation | An AI-specific law or regulation, or an instrument creating a national AI ethics body. | 2026-09-04 |
 | Internet Exchange Point | A PeeringDB listing, an operator announcement or a regulator decision establishing an exchange point. | 2026-09-04 |
 | National address register | Enactment of the postal base law, or any other instrument establishing a national address or postcode database. | 2026-09-04 |
+| 2025 and 2026 budgets, digital lines | The expenditure volumes of the approved OGE 2025 and of the 2026 budget under Lei n. 3/2026, read into the budget extract; only FY2024 is extracted. | 2026-09-25 |
+| Outturn against the digital appropriations | A budget execution report or Conta Geral do Estado for 2024 or 2025 giving execution by project and activity for the digital lines, read into the budget extract. | 2026-09-25 |
+| Financing of the central bank core banking system after project-paid support ends | A central bank budget or statement providing for the core banking system's licensing and support once the two years paid by the Institutional Capacity Building Project run out. | 2026-09-25 |
+| Rule on where state data is hosted | A decree or government hosting policy giving force to INIC's position that vital state data and systems be hosted in national territory. | 2026-09-25 |
+| Data, portability and exit terms of the passport, payment-switch and civil-register agreements | Publication of the INCM passport contract, the SIBS Dobra24 supply contract, or the University of Aveiro and Camoes agreement for SIGA, with their data and exit clauses. | 2026-09-25 |
 

@@ -1,10 +1,10 @@
 ---
 title: Literacy — monthly update, August – September 2026
-compiled: 2026-09-24
-period: 2026-08-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2026-08-01 to 2026-09-25
 subject: capacity.literacy
 places: AGO; TCD; COM; COD; EGY; GHA; KEN; LBR; MDG; MOZ; NER; RWA; SEN; SLE; SSD; TZA; TGO; UGA; ZMB
-record: 8092f6259ddb
+record: d24a562728b4
 ---
 
 # Literacy: monthly update, August – September 2026
@@ -76,6 +76,8 @@ The online-safety half of literacy was taught to the adults rather than the chil
 Connectivity is being aimed at classrooms. The education ministry [plans to connect more than 8,000 primary schools to the internet through Starlink](https://techgriot.co/english/africa/2026/08/senegal-to-connect-8000-primary-schools-via-starlink/). Satellite is the route because terrestrial reach is the constraint, and a plan of that size would change what the Digital Schools programme can assume. Nothing in the record held names a school connected, a cost or a funding source.
 
 The civil service plan cleared validation on 10 September, [setting role-graded digital competences for state employees in data, information systems, AI and cybersecurity](https://www.wearetech.africa/fr/fils/actualites/tech/senegal-un-plan-national-de-formation-pour-adapter-l-administration-a-l-ere-numerique), with no target population, budget or start date published.
+
+An EU-funded civil-society project [ran a regional workshop at Kaolack training community leaders on digital hygiene, passwords and data governance, with Saint-Louis, Bignona and Dakar to follow](https://lesoleil.sn/actualites/technologie/kaolack-les-acteurs-communautaires-a-lecole-des-enjeux-du-numerique/), reported on 25 September. No participant count or budget was stated.
 
 ## Sierra Leone
 

@@ -1,15 +1,15 @@
 ---
 title: Access to services — monthly update, August – September 2026
-compiled: 2026-09-24
-period: 2026-08-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2026-08-01 to 2026-09-25
 subject: include.access
-places: DZA; AGO; BWA; BDI; CMR; CAF; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NAM; NER; NGA; STP; SEN; SYC; SLE; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 99de476e1252
+places: DZA; AGO; BEN; BWA; BDI; CMR; CAF; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NAM; NER; NGA; STP; SEN; SYC; SLE; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 7018cc46a544
 ---
 
 # Access to services: monthly update, August – September 2026
 
-*42 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*43 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -26,6 +26,10 @@ Consumer cloud storage prices were [raised for new subscribers from 27 July 2026
 The identity-card universalisation programme is being reported by throughput: [more than 4,000 cards issued in one municipality in sixteen days](https://minjusdh.gov.ao/web/noticias/programa-de-universalizacao-do-bi-reforca-acesso-a-documentacao-em-egito-praia), with no national total, backlog figure or target date beside it.
 
 The telecommunications ministry [opened further computer rooms and free public internet points in Luanda and Icolo e Bengo](https://www.opais.ao/sociedade/minttics-inaugura-novas-salas-de-informatica-em-luanda-e-icolo-e-bengo/). No national count of sites, users or budget line is on file behind the programme.
+
+## Benin
+
+The identification agency [handed 1,422 equal-opportunity cards for persons with disabilities to the social-action ministry on 18 September, after 4,718 distributed in 2024 and 2025 and with about 4,000 applications registered for 2026](https://lanation.bj/actualites/politique-didentification-et-dinclusion-1-422-cartes-degalite-des-chances-aux-personnes-handicapees). The card is what gives access to the rights a 2017 law attaches to disability status, and the step that holds applicants back is not digital: [the ministry and the disability federation both named the medical certificate that establishes eligibility as the obstacle](https://lanation.bj/actualites/politique-didentification-et-dinclusion-1-422-cartes-degalite-des-chances-aux-personnes-handicapees).
 
 ## Botswana
 
@@ -96,6 +100,8 @@ What firms say they need is not more hubs but a network that stays up. At a Mbab
 The National Dialogue Commission [reports that its conference ran from 15 July to 22 August 2026, with around 4,000 participants deliberating eight national agenda items and recommendations submitted to the Commission](https://ethiondc.org.et/en/national-dialogue-conference-concludes-successfully/). It is the Commission's own account, and nothing in the record held states which recommendations were taken up.
 
 The corridor programme put training against formalisation rather than connectivity. [Forty women traders took export-readiness training at Bishoftu on 30 and 31 July 2026 under a EUR 32m European corridor programme, covering business formalisation, product standards, export documentation and customs procedure, against a stated 94% of the traders concerned operating unlicensed](https://horneconomicreview.com/2026/09/03/from-export-readiness-to-market-access-eu-backed-support-strengthens-womens-participation-in-trade-along-the-djibouti-ethiopia-corridor/). That [94%](https://horneconomicreview.com/2026/09/03/from-export-readiness-to-market-access-eu-backed-support-strengthens-womens-participation-in-trade-along-the-djibouti-ethiopia-corridor/) is the programme's characterisation of its own target group rather than a national measure, and no digital component of the corridor programme is separately costed.
+
+The incumbent [secured 15 billion birr of financing from Siinqee Bank, four billion of it earmarked for smartphones for low-income users, towards 2.6 million devices in the coming financial year, against smartphone penetration it puts at roughly 36 per cent](https://birrmetrics.com/ethio-telecom-secures-15bln-birr-siinqee-bank-deal-to-fund-smartphone-access-drive/). An operator foundation and the national federation of disability associations [signed a three-year memorandum on disability inclusion](https://techafricanews.com/2026/09/01/safaricom-ethiopia-foundation-feapd-three-year-disability-inclusion-pact/), with no target, budget or beneficiary count attached.
 
 Mobile-industry research [found refugee women twice as likely as men to have their SIM registered in someone else's name](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/blog/closing-the-digital-divide-for-refugee-women-means-understanding-their-full-experience-of-connectivity/).
 

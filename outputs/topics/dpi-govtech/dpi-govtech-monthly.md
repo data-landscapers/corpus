@@ -1,15 +1,15 @@
 ---
 title: Other GovTech and e-Gov — monthly update, August – September 2026
-compiled: 2026-09-24
-period: 2026-08-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2026-08-01 to 2026-09-25
 subject: dpi.govtech
-places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 76da0c45c68e
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: f7ca52728ff2
 ---
 
 # Other GovTech and e-Gov: monthly update, August – September 2026
 
-*50 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*51 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -28,6 +28,8 @@ The government-systems movement in the window is a procurement decision rather t
 The health ministry's recruitment competition shows what online registration costs when it goes wrong. Of more than 420,000 who registered in July, [more than 170,000 were excluded for defective registration, leaving more than 262,000 to sit tests for 6,030 posts on 21-25 September, sat simultaneously nationwide and marked online](https://novojornal.co.ao/sociedade/detalhe/minsa-seleccionou-262-mil-candidatos-para-concurso-publico-mas-excluiu-170-mil-por-ma-inscricao-74185.html); a complaints window ran from 25 to 31 August.
 
 The in-person counterpart to the missing online service inventory does publish numbers. The [one-stop citizen service network stands at 16 subunits with eight more committed by 2027, units at Kilamba and Cuito due this year, and recorded 1.49m visits in the first half of 2026 and Kz2.47bn paid to the treasury](https://www.africa-newsroom.com/press/angola-governante-anuncia-a-construcao-de-mais-oito-subunidades-do-siac-ate-2027?lang=pt). They are the secretary of state's own figures, published without a service breakdown, a waiting-time measure or any online equivalent — so the state can say how many people came through a door and still not say what it does online.
+
+The Constitutional Court is preparing its own systems for the 2027 elections: on 22 September it [opened a limited tender with pre-qualification, valued at Kz 20 billion, to modernise its platform for registering candidacies and to migrate the records of earlier electoral cycles in full](https://www.novojornal.co.ao/politica/detalhe/tribunal-constitucional-abre-concurso-de-21-milhoes-usd-para-actualizacao-e-modernizacao-da-plataforma-tecnologica-de-modo-a-preparar-processo-eleitoral-74844.html). The tender document is not published.
 
 ## Benin
 
@@ -52,6 +54,8 @@ The foreign ministry put three platforms up on 19 August: [a diaspora registrati
 Automation also failed publicly for the first time. The civil service ministry admitted that [part of one examination centre's scanned scripts were not carried over at the transfer to the marking machines in the 2026 recruitment competitions, affecting results published on 25 August, and that re-marking added candidates to the successful lists](https://www.sidwaya.info/incidents-dans-les-resultats-de-certains-concours-de-la-session-2026-il-sagit-dune-erreur-humaine-rassure-le-sg-rodrigue-oboulbiga/). It is the one account on file of a digitised process being checked against its own output.
 
 Electronic signature then arrived on its announced date. [FasoSign was launched on 15 September already integrated into the mission-order, administrative-mail and cadastre platforms](https://libreinfo.net/burkina-ladministration-publique-entre-dans-lere-de-la-signature-electronique-avec-fasosign/), its keys and certificates presented as held by the state itself; no signature count or adoption list is published. At the same council the Prime Minister [named weak citizen uptake of the digital service platforms as a persistent shortcoming](https://www.sidwaya.info/%f0%9d%90%8c%f0%9d%90%a8%f0%9d%90%9d%f0%9d%90%9e%f0%9d%90%ab%f0%9d%90%a7%f0%9d%90%a2%f0%9d%90%ac%f0%9d%90%9a%f0%9d%90%ad%f0%9d%90%a2%f0%9d%90%a8%f0%9d%90%a7-%f0%9d%90%9d%f0%9d%90%9e-%f0%9d%90%a5/), without a figure for it.
+
+The state airports company [signed a memorandum with ACI Africa and a German software firm to pilot a platform for runway inspections, certification, document management and safety management](https://www.wearetech.africa/fr/fils/actualites/tech/burkina-faso-vers-des-aeroports-intelligents-grace-a-la-numerisation-des-operations), reported on 25 September. No cost, duration or hosting location is stated.
 
 ## Burundi
 
@@ -121,6 +125,8 @@ The prime minister said on 3 September that [faults in the unified electricity p
 
 At its UN award shortlisting the services platform [reported 12.9 million registered citizens, more than 240 services and about 60 million transactions, integrated with 109 government entities](https://www.maspero.eg/economy/2026/09/09/987902/%D9%85%D9%86%D8%B5%D8%A9-%D9%85%D8%B5%D8%B1-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D8%AA%D8%AA%D8%A3%D9%87%D9%84-%D9%84%D9%84%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A7%D9%84%D9%86%D9%87%D8%A7%D8%A6%D9%8A%D8%A9-%D9%84%D8%AC%D9%88%D8%A7%D8%A6%D8%B2-%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D9%84_%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A), the ministry's own figures. The prosecution [put five personal-status documents - marriage, divorce and acknowledgement records - on its portal on 10 September, behind the national digital identity](https://www.youm7.com/story/2026/9/10/%D8%A7%D9%84%D9%86%D9%8A%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9-%D8%AA%D8%B7%D9%84%D9%82-%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA%D8%AE%D8%B1%D8%A7%D8%AC-%D9%88%D8%AB%D8%A7%D8%A6%D9%82-%D8%A7%D9%84%D8%AD%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9-%D8%B9%D8%A8%D8%B1-%D8%A8%D9%88%D8%A7%D8%A8%D8%AA%D9%87%D8%A7/7541763), and the environment ministry [launched IDEIA on 1 September, moving environmental impact assessment applications, review and approval online](https://www.youm7.com/story/2026/9/1/وزيرة-البيئة-تطلق-منظومة-تقييم-التأثير-البيئي-الرقمية-المتكاملة-IDEIA/7532879).
 
+The investment ministry's digital transformation aide [described a capital-increase platform linking the eight government bodies involved, from the investment authority to the commercial registry and central depository, with digital-identity log-in, remote signing and e-passport checks on foreign investors](https://www.youm7.com/story/2026/9/22/%D9%85%D8%B3%D8%A7%D8%B9%D8%AF-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1-%D9%85%D9%86%D8%B5%D8%A9-%D9%84%D8%B2%D9%8A%D8%A7%D8%AF%D8%A9-%D8%B1%D8%A4%D9%88%D8%B3-%D8%A7%D9%84%D8%A3%D9%85%D9%88%D8%A7%D9%84-%D8%AA%D8%B1%D8%A8%D8%B7-8-%D8%AC%D9%87%D8%A7%D8%AA/7554140) on 22 September. No transaction count or go-live date was given.
+
 ## Equatorial Guinea
 
 The Comité Nacional de la Cuenta Única del Tesoro, chaired by the prime minister, [approved a work programme and institutional roadmap](https://www.guineaecuatorialpress.com/noticias/el_gobierno_impulsa_la_implementacion_de_la_cuenta_unica_del_tesoro) at the Presidency on 5 August 2026. The general census of all state bank accounts is complete; the new financial-management model will be built on AMS/X and SINTAG, both already used by the BEAC, interconnected with the Treasury's public-finance systems; and implementation runs in five phases with entry into production in the first quarter of 2027. No cost, implementing agency or supplier is stated.
@@ -135,11 +141,15 @@ The prime minister [publicly acknowledged the e-Visa platform failing on reliabi
 
 On 23 September the ICT ministry [acknowledged an ongoing outage across government web services, among them e-Visa, road transport permits, scholarship applications, the elderly grant service and deeds registration](https://independentnews.co.sz/48729/news/govt-systems-crippled-by-digital-outages/). It gave no cause and directed users to government service centres; a press report of a breach at the science park and a ransom demand was not confirmed by government.
 
+The science park [confirmed on 24 September that the outage stems from an incident at the National Data Centre, affecting parts of the Government in Your Hand application and online company registration among at least 12 services](https://times.co.sz/44621/news/national-data-centre-hit-by-incident/); the commerce ministry directed company applicants to the registrar's offices. What the incident was has not been stated.
+
 ## Ethiopia
 
-The unified public-service platform launched with [185 services against 41 across twelve federal agencies a year earlier](https://techreviewafrica.com/news/5997/ethiopia-launches-unified-mesob-platform-to-accelerate-national-digital-transformation), anchored on the national identity credential. An account of 13 August puts the platform at [more than 2,200 services](https://www.biometricupdate.com/202608/benin-draws-lessons-from-ethiopia-to-shape-its-dpi-development-roadmap), on the occasion of a Beninese benchmarking visit; the repository cannot reconcile that with the launch count two months earlier and the two may rest on different counting bases. Its own regional executives say [services are being onboarded before the systems beneath them are digitised](https://birrmetrics.com/mesob-meets-the-monster-it-was-built-to-kill/), that two incompatible integration models have emerged, that no legal framework compels an institution to digitise before joining, and that the platform ran close to a year with no dedicated regulatory framework. Separately the Auditor General's annual report, presented on 6 July, [credits electronic procurement with the decline in cash shortages across 163 audited federal institutions](https://www.ofag.gov.et/ofag/the-office-of-the-federal-auditor-general-presents-its-annual-audit-report-to-the-house-of-peoples-representatives/) while finding budget-execution gaps, billions of Birr uncollected and repeated financial-rule violations alongside the digital adoption. No Birr amount is attached to the credit, and the report itself is not held.
+The unified public-service platform's own catalogue [lists more than 180 services from 23 named provider organisations, each with its required documents, processing time and fees](https://mesobcenter.et/). An account of 13 August puts the platform at [more than 2,200 services](https://www.biometricupdate.com/202608/benin-draws-lessons-from-ethiopia-to-shape-its-dpi-development-roadmap), on the occasion of a Beninese benchmarking visit; the repository cannot reconcile the two, which may rest on different counting bases.
 
 A service portal was built inside an agency rather than procured. The commodity exchange [launched one using its own information-technology staff, replacing in-person visits to offices that drew more than 150 callers a day in peak season with a stated thirty-minute service-level target](https://capitalethiopia.com/2026/09/06/ecx-launches-digital-portal-to-cut-red-tape-for-traders). Both figures are the exchange's own, and no user count, service list or measured turnaround is published — but an in-house build is a different capability claim from a procurement, and it is the first of its kind the repository holds here.
+
+State logistics followed on 4 September, when the shipping and logistics company [launched an all-in-one web and mobile self-service platform for shipment orders, cargo tracking, storage locations, freight payment and documentation, and the Ethio-Djibouti Railway operationalised a freight booking portal](https://capitalethiopia.com/2026/09/13/digital-logistics-overhaul-aims-to-boost-regional-trade-competitiveness/). No user or transaction figures are published.
 
 ## Gabon
 
@@ -296,6 +306,10 @@ One service moved online and the warning about it came from the people it is for
 
 The civil-service pension fund [is building an integrated pension administration system with a Kenyan firm at about N$40m over some 16 months, with under N$5m spent so far](https://thebrief.com.na/2026/09/gipf-to-invest-n40m-in-new-pension-administration-system/), and has signed data-sharing memoranda with the revenue agency, the finance and home affairs ministries and participating financial institutions. The figures are the fund's own.
 
+## Niger
+
+Hamani Kargné took over the communications and information-technology ministry on 22 September, and [named digitalisation of public services through a reliable and secure government intranet among his priorities](https://www.actuniger.com/politique/22383-ministere-de-la-communication-et-des-nti-le-nouveau-ministre-hamani-kargne-officiellement-installe.html). No design, operator, budget or date was given.
+
 ## Nigeria
 
 The [Government Service Portal](https://www.biometricupdate.com/202607/nigeria-unveils-digital-govt-platform-for-unified-access-to-public-services) was soft-launched on 30 July as a single sign-on gateway built with Korean financing, piloted since 2025, [the Korean agency named as a delivery partner alongside the communications ministry](https://spacewatchafrica.com/galaxy-backbone-unveils-government-service-portal-to-simplify-access-to-public-services/). Behind the login it integrates with the national data exchange so agencies share citizen data rather than each re-collecting it. The lawful basis and the audit arrangements are unstated, and no published rule answers either.
@@ -309,6 +323,8 @@ A state payroll moved onto one record. Ondo State [launched Ondo Pay on 4 Septem
 The police opened a public fraud-reporting channel on 1 September, and it is the fourth such platform in a decade. [The app lets people report suspected financial fraud, upload evidence, track cases and receive feedback, built by the force's own ICT department with financial-sector stakeholders](https://techcabal.com/2026/09/07/nigerias-police-vigilant-app-raises-questions-duplicate-fraud-reporting/), and it arrives over a cybercrime centre already logging about 146,000 reports and about ₦58bn in recovered assets. Nothing published says how the new channel routes against the centre already running, or what became of the three earlier platforms.
 
 Two September measures reach further into the state. A [single 112 emergency number, approved by the National Economic Council, went to a rollout committee of the police, communications regulator, emergency agency and road safety corps on 8 September](https://www.naltf.gov.ng/shettima-urges-swift-action-as-nigeria-prepares-for-nationwide-rollout-of-112-emergency-line), with funding promised once the roadmap exists. And the procurement bureau's [Digital Submission Portal was made mandatory for every federal agency's procurement requests](https://developmentdiaries.com/as-nigerias-procurement-goes-digital-why-cant-citizens-see-the-contracts/), an internal record that publishes no award. On the one citizen survey held, [digital-government adoption stands at 50% while net satisfaction fell five points from 2024 to 64%](https://techeconomy.ng/report-nigerias-digital-government-adoption-now-50-weekly-usage-hits-91).
+
+Ondo State followed its payroll platform with [Ondo AI, launched to automate personnel administration, payroll, retirement processing and pension migration](https://www.thisdaylive.com/2026/09/25/ondo-launches-ai-system-to-automate-civil-service-pension/). The report does not say whether it is the same platform as Ondo Pay or a second one, and gives no launch date.
 
 ## Rwanda
 
@@ -360,7 +376,7 @@ Correctional services [advertised a fifteen-year tender for an inmate communicat
 
 The social security agency [opened a WhatsApp self-service channel for grant beneficiaries to check application status, review status and proof-of-life verification without visiting an office, after verification by mobile number, one-time PIN and identity number](https://www.citizen.co.za/alberton-record/news-headlines/local-news/2026/08/28/sassa-rolls-out-whatsapp-self-service-for-grant-beneficiaries/). No usage figures have been published.
 
-The electoral commission's [audit trail shows no system activity in two of the six disputed councils in the two hours before the nomination deadline, and 2,274 candidates from 45 parties captured but never submitted as final](https://www.dailymaverick.co.za/article/2026-09-11-iec-audit-trail-challenges-ancs-claim-of-technical-problems/). The governing party had said technical problems stopped its operators from submitting.
+The electoral commission's [audit trail shows no system activity in two of the six disputed councils in the two hours before the nomination deadline, and 2,274 candidates from 45 parties captured but never submitted as final](https://www.dailymaverick.co.za/article/2026-09-11-iec-audit-trail-challenges-ancs-claim-of-technical-problems/). The governing party had said technical problems stopped its operators from submitting. On 23 September the commission said [the party had lost its court challenge, that it had concluded end-to-end testing of its results system for the 4 November elections, and that parties could test the system through their own experts from 5 to 12 October](https://www.citizen.co.za/news/south-africa/elections/iec-promises-glitch-free-elections-with-faster-queues/).
 
 On 15 September the Border Management Authority [introduced a Port Health Management System at Durban Harbour, replacing shipping agents' e-mailed requests with online service requests, inspections, free pratique applications, endorsements, invoicing and payment](https://www.itweb.co.za/article/bma-replaces-e-mail-with-digital-port-system/P3gQ2qGAlky7nRD1). Durban is the pilot site; no date has been given for other ports.
 
@@ -425,6 +441,8 @@ The movement is at the far end of the network rather than at the centre. The e-g
 The office platform was ordered across the whole of government. The Secretary to the Cabinet [directed every government institution to adopt the Smart Office Platform and instructed the Smart Zambia Institute to report to his office by the end of October 2026 on the onboarding of ministries, provinces, spending agencies, state-owned enterprises and other public institutions](https://www.lusakatimes.com/2026/09/04/sc-encourages-smart-office-platform-utilisation/), the direction given at the handover of the system to the airports corporation at Chongwe. It is a direction with a reporting deadline rather than a measured rollout: the repository has carried the platform as a health-ministry pilot since 2025 and holds no count of institutions onboarded.
 
 The office system moved beyond ministries for the first time. The airports corporation [became the first state-owned enterprise onboarded, the system commissioned and handed over by the Secretary to the Cabinet, with a further 406 staff to be trained across its stations by the end of November](https://efficacynews.africa/2026/09/05/zacl-becomes-first-state-owned-enterprise-to-adopt-smart-office/) — the same directive that told every government institution to adopt it now reaching the commercial arm of the state.
+
+The Public Service Management Division said on 23 September that [a digital platform for the public service funeral scheme, run with an insurer, will roll out in the first week of October](https://www.lusakatimes.com/2026/09/24/funeral-scheme-digital-platform-to-be-rolled-out-in-october/), letting members update their details, register beneficiaries and track claims by phone or computer instead of on paper.
 
 ## Zimbabwe
 

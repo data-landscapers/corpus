@@ -1,10 +1,10 @@
 ---
 title: Research institutions — monthly update, August – September 2026
-compiled: 2026-09-24
-period: 2026-08-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2026-08-01 to 2026-09-25
 subject: capacity.research
 places: CAF; COM; COG; CIV; COD; EGY; ETH; GHA; KEN; LBY; MAR; MOZ; NER; RWA; SLE; ZAF; TZA; UGA; ZWE
-record: 58295702ab33
+record: ce7a7b58d7d5
 ---
 
 # Research institutions: monthly update, August – September 2026
@@ -41,8 +41,6 @@ A peer-reviewed study [assessed administrative readiness and institutional capac
 
 University connectivity is the delivery side of the research position. A funder's account [describes campus connectivity transforming learning across Ethiopian campuses](https://www.worldbank.org/en/news/feature/2026/08/24/how-better-connectivity-is-transforming-learning-across-ethiopian-campuses). It is the funder's own account, with no bandwidth, campus count or student figure in the record held.
 
-Against it the FY2026/27 federal budget [carries *Artificial Intelligence University Construction* as a single named capital project at ETB 5,000,000,000](https://www.mofed.gov.et/media/filer_public/c1/de/c1de6f52-b57e-4a94-91ff-cc22a2c751b8/2019_e_c_budget_year_goe_federal_budget_proclamation_part_two_updated.xlsx).
-
 ## Ghana
 
 The month's research capacity news is a funding gap stated by the minister who has to close it. Education Minister Haruna Iddrisu [said the US$30 million Chinese government grant for a University of Science and Technology at Damongo will not be enough to complete and equip it, putting the full cost at more than US$100 million](https://gna.org.gh/2026/09/govt-seeks-additional-funding-for-damongo-science-and-technology-university/); the university is intended as a centre for robotics, digital sciences and artificial intelligence in a region that currently has none. [The grant itself was disclosed at a working visit by the incoming Chinese ambassador](https://thevaultznews.com/2026/09/03/ghana-secures-30-million-grant-for-damongo-tech-university/), and neither account dates it beyond the previous year.
@@ -50,6 +48,8 @@ The month's research capacity news is a funding gap stated by the minister who h
 ## Kenya
 
 The repository gained its first account of a named Kenyan data-science career, a [data-for-social-impact leader profiled](https://data.org/news/pathways-to-impact-agnes-kiragga/) in a series of conversations with practitioners. It is an interview rather than an institutional record, and carries no programme, funding or output figure.
+
+On 24 September a regional digital-rights network [published its comments on the data regulator's draft guidance notes on AI and on emerging technologies](https://cipesa.org/2026/09/cipesa-weighs-in-on-kenyas-draft-guidance-notes-on-ai-and-emerging-technologies/), asking for impact assessments before any biometric processing, audits of platform feed algorithms and a high-risk category for AI in political communication. It had [made a submission on the draft AI and emerging technologies policy in August](https://cipesa.org/wp-content/files/briefs/Kenya_National_AI_and_Other_Emerging_Technologies_Policy_-_CIPESA_Submissions.pdf).
 
 ## Libya
 

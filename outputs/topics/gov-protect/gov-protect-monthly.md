@@ -1,10 +1,10 @@
 ---
 title: Data protection — monthly update, August – September 2026
-compiled: 2026-09-24
-period: 2026-08-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2026-08-01 to 2026-09-25
 subject: gov.protect
 places: AGO; BEN; BWA; BFA; CPV; CAF; DJI; COD; EGY; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; UGA; ZMB; ZWE
-record: 3de5ccd437e4
+record: 890c4e3c15e7
 ---
 
 # Data protection: monthly update, August – September 2026
@@ -57,7 +57,7 @@ The regulator [referred all four mobile operators to the Public Prosecution over
 
 ## Eritrea
 
-The data-protection position was re-verified rather than changed. A legal-research pass dated 1 August 2026 [records no comprehensive data-protection law in force, no supervisory authority established and no enforcement decisions published](https://research.lawlab.africa/eritrea/). What the month adds is the date, not the finding: the absence is now a searched one rather than an unexamined one. It agrees with a regional ministerial assessment placing Eritrea's data-protection policy area at a nascent stage without legislation or regulatory oversight, and with a trade regulatory profile recording no data-protection officer, impact-assessment or retention requirements. Three independent assessments across four years say the same thing, which is what distinguishes a reported absence from an unexamined one.
+The data-protection position was re-verified rather than changed. A legal-research pass dated 1 August 2026 [records no comprehensive data-protection law in force, no supervisory authority established and no enforcement decisions published](https://research.lawlab.africa/eritrea/). What the month adds is the date, not the finding: the absence is now a searched one rather than an unexamined one.
 
 ## Eswatini
 
@@ -121,6 +121,8 @@ On 3 August the [data-protection authority opened its second 2026 session](https
 The largest privacy fact of the month came from outside the country. A model provider's threat report [says a consultant working with the state security agency used its AI model to build Lakana 360, a platform monitoring about 25 million SIM cards across all three mobile operators and capturing call records, messages and voice traffic, with a warrant requirement removed from one component](https://www.anthropic.com/threat-intelligence-report-september-2026). No Malian authority's response or legal basis for the interception is on record.
 
 The authority's cooperation with Benin produced its first recorded joint action: [Benin's First Rapporteur visited on 4 September for an exchange on compliance tools, regulatory standards, communication and Mali's regional offices at Kayes, Sikasso, Ségou and Mopti](https://techgriot.co/english/africa/2026/09/mali-and-benin-deepen-cooperation-on-data-protection/). No joint instrument or work plan from it is on record.
+
+On 23 September the authority [signed a cooperation agreement with Togo's personal-data authority](https://www.togofirst.com/en/itc/2509-20170-togo-mali-data-regulators-agree-to-share-expertise) providing for information exchange, cooperation on complaints handling and compliance checks, and staff training; the talks also covered cross-border data transfers, cybersecurity and artificial intelligence.
 
 ## Mauritius
 

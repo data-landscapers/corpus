@@ -1,10 +1,10 @@
 ---
 title: AI — monthly update, August – September 2026
-compiled: 2026-09-24
-period: 2026-08-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2026-08-01 to 2026-09-25
 subject: tech.ai
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COM; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GHA; KEN; LSO; LBR; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 93207705ebe8
+record: bb4a5771026d
 ---
 
 # AI: monthly update, August – September 2026
@@ -93,6 +93,8 @@ On 8 September the communications minister attended a Cairo ceremony at which [V
 
 The cabinet information centre put those who had heard of artificial-intelligence applications at [65% in 2026 against 22% in 2023, work the leading use at 51.7% ahead of personal use and study, with about 94% of users rating the accuracy of the answers they get](https://www.youm7.com/story/2026/9/7/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D9%88%D8%B9%D9%8A-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%8A%D9%82%D9%81%D8%B2-%D9%85%D9%86-22-%D9%84%D9%8065/7538408). Sample size, method and margin are not stated.
 
+The national AI council [adopted the strategy's achievements report for the first half of 2026, reviewed the outlines of a National Quantum Computing Strategy 2027-2030, and covered government procurement guidelines for AI systems, generative-AI guidelines for government and Safe Use Guidelines for AI Applications for Children](https://techafricanews.com/2026/09/25/egypt-ai-council-national-ai-strategy-quantum-computing/), reported on 25 September. None of the guidelines is stated as adopted or published.
+
 ## Equatorial Guinea
 
 On 7 August 2026 Óscar Ondo Ngomo left the director-generalship of GITGE, which he had held for thirteen years, to become [Secretary of State charged with artificial intelligence](https://realequatorialguinea.com/tecnologia/gitge-inicia-una-nueva-etapa-con-salvador-nguema-funtam-al-frente-oscar-ha-dejado-el-liston-bastante-alto/) at the Ministry of Transport, Telecommunications and Civil Aviation; the account describes the portfolio as newly named at that level.
@@ -106,6 +108,8 @@ On 6 July the prime minister told the [Global Dialogue on AI Governance in Genev
 A [regional health body and a private firm signed a memorandum in Eswatini on 4 August to scale AI-enabled health solutions](https://eswatinipositivenews.online/ecsa-hc-skye-africa-intelligence-partner-to-scale-ai-health-solutions/), naming no system, no data-sharing terms and no money.
 
 The audit office took its own artificial-intelligence commitment regional, [hosting a week-long peer programme at which supreme audit institutions across the region weighed the use of artificial intelligence in government audit](https://eswatinipositivenews.online/auditors-embrace-ai-to-protect-public-funds/). As with the strategic plan in August, no tool, pilot, audit methodology or procurement is named — what the repository holds is the intention and the forum it was stated in.
+
+The revenue service said at the opening of the 2026 filing season that [three technology providers, one a young local firm, are being integrated into its TaxCore electronic invoicing system](https://independentnews.co.sz/48807/business/three-tech-firms-connect-to-ers-e-invoicing-system/), to which businesses' accounting and point-of-sale systems must connect.
 
 ## Gabon
 
@@ -211,6 +215,8 @@ Anambra State [set out a Vision 2030 push on artificial intelligence and paperle
 A platform company [launched an AI Academy with the communications and digital economy ministry, the national skills programme, the artificial-intelligence research centre and a research network](https://techtrends.africa/meta-fmcide-3mtt-and-rain-partner-to-accelerate-ai-skills-and-innovation-in-nigeria/), combining a startup pitch competition, skills courses and a six-week developer bootcamp; ten startups are shortlisted to pitch at a Lagos exhibition on 3 September, with [two winners receiving US$5,000 in cash, US$2,000 in the company's own advertising credits and a trip to its summit in Istanbul](https://techtrends.africa/meta-fmcide-3mtt-and-rain-partner-to-accelerate-ai-skills-and-innovation-in-nigeria/). No cohort size, curriculum, cost or public accounting of the sponsor's role is stated, and part of the prize is denominated in the sponsor's inventory.
 
 A Nigerian startup [released version 2.5 of its African speech-recognition model at the 2026 Deep Learning Indaba in Lagos, supporting bilingual recognition across 12 African language pairs and trilingual Kinyarwanda-English-French recognition, aimed at speakers who switch languages mid-sentence](https://www.itweb.africa/article/intron-launches-african-speech-model/JBwEr7n3WzlM6Db2). The language-pair count and the error rates are the developer's own and no independent evaluation is held.
+
+On 24 September the electoral commission's chairman [said it had begun deploying AI checks inside results management to flag discrepancies before final validation, each subject to human audit, under a new AI Division and an AI Roadmap and Governance Framework](https://www.thisdaylive.com/2026/09/25/at-editors-conference-amupitan-says-inec-deploying-ai-to-detect-result-errors-ahead-of-2027/), four months before the 2027 general elections. The framework text is not held.
 
 ## Rwanda
 

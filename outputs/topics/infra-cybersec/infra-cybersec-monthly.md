@@ -1,10 +1,10 @@
 ---
 title: Cybersecurity — monthly update, August – September 2026
-compiled: 2026-09-24
-period: 2026-08-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2026-08-01 to 2026-09-25
 subject: infra.cybersec
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; TCD; COM; COG; CIV; SWZ; GAB; GHA; KEN; LSO; LBR; LBY; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 3a8c257af6de
+record: e48f6a8c9881
 ---
 
 # Cybersecurity: monthly update, August – September 2026
@@ -98,6 +98,8 @@ It started teaching. A session at Accra on 19 August [put newsroom devices to jo
 
 The response team behind the licensing regime published a volume figure for the first time: it [handled 3,363 incidents between January and June 2026 and ran vulnerability assessments across 25 critical information infrastructure institutions](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/). There is no breakdown by type, sector or outcome, so it establishes how much came in and nothing about what happened to it.
 
+On 24 September the [Ghana Cybersecurity Industry Forum, the industry platform provided for under section 81 of the Cybersecurity Act, set out its mandate under an interim president](https://www.myjoyonline.com/gcif-cautions-public-as-criminals-deploy-ai-in-phishing-attacks/), covering threat-intelligence sharing and incident-response coordination, and named a shortage of cybersecurity professionals as its main problem. No founding date or membership count is published.
+
 ## Kenya
 
 The regulator's own quarterly report reached the repository, the primary behind a figure the record had held at second hand. The national response centre [detected 2,355,938,192 threat events in April-June 2026, down 30.03% on the previous quarter, while web application attacks rose 43.68% to 17,406,495 and 20,748,489 advisories were issued](https://www.ca.go.ke/sites/default/files/2026-07/Cyber%20Security%20Report%20Q4%202025-2026_1.pdf); government systems and internet service providers were named the primary targets, with attackers seeking authentication credentials, vulnerable browsers and database servers. Events detected are not incidents suffered, and no national incident series is published.
@@ -118,7 +120,7 @@ The [interim Lesotho National Computer Security Incident Response Team](https://
 
 The Cybercrime Act 2025 was [announced as signed on 19 August 2026](https://www.wearetech.africa/en/fils-uk/news/public-management/liberia-enacts-cybercrime-and-data-protection-laws), and the enacted text has now been read: [approved on 3 July and printed on 24 July, it creates a National Cybersecurity Council with the national CERT as technical arm, requires breach reports within 72 hours and protects whistleblowers](https://mopt.gov.lr/wp-content/uploads/2026/09/Cybercime_Act_of_2025_Printed_Version_20260724_063806.pdf). Commentary [reads its speech-adjacent offences at sections 15 to 20 against the constitution's free-expression article and the 2019 press-freedom Act](https://frontpageafricaonline.com/liberias-free-speech-balancing-act-and-what-the-cybercrime-law-actually-changed/).
 
-Police [confirmed in September that a man held over AI-generated images of the Vice-President was arrested under the Act](https://www.thenewdawnliberia.com/koung-seeks-release-of-ai-image-suspect/). On 22 September a criminal court [ordered him freed on a habeas corpus petition, and the main opposition party said the same day it would ask the Supreme Court to rule on the Act's constitutionality](https://frontpageafricaonline.com/liberia-cdc-prepares-to-take-cybercrime-law-fight-to-supreme-court-after-wrato-release/). No court has ruled on whether the conduct is an offence under the Act.
+Police [confirmed in September that a man held over AI-generated images of the Vice-President was arrested under the Act](https://www.thenewdawnliberia.com/koung-seeks-release-of-ai-image-suspect/). On 22 September a criminal court [ordered him released from police custody on a habeas corpus petition, and the main opposition party said the same day it would ask the Supreme Court to rule on the Act's constitutionality](https://frontpageafricaonline.com/liberia-cdc-prepares-to-take-cybercrime-law-fight-to-supreme-court-after-wrato-release/). On 24 September, with no police officer appearing for the second time, the court [found the state had not shown the case was lawfully sent to it and gave the police a last opportunity to justify holding him](https://frontpageafricaonline.com/liberia-judge-gives-police-last-opportunity-in-cybercrime-suspects-detention-case/). No court has ruled on whether the conduct is an offence under the Act.
 
 ## Libya
 
@@ -218,7 +220,7 @@ Fake traffic-fine messages quoting motorists' correct number plates led the road
 
 One investigation put numbers on SIM-registration fraud: [198 SIM cards used in fraud were seized at Morogoro, 88 of them registered by a single agent under different names](https://www.mwananchi.co.tz/mw/habari/kitaifa/nyuma-ya-pazia-utapeli-mtandaoni-5525228).
 
-August gave the national series the earlier account lacked. The regulator told Parliament it had [blocked 39,117 fraud-linked phone numbers and 6,118 domains and applications in the 2025/26 financial year, removed 7,311 violating accounts and submitted 56 security-incident reports to the police](https://dailynews.co.tz/tanzania-blocks-39000-numbers-linked-to-fraud-in-its-intensified-war-against-cybercrime/); and it [identified 7,334 mobile lines linked to fraud between April and June 2026, down 25.3% from 9,817 in the preceding quarter](https://www.thecitizen.co.tz/tanzania/business/government-telecoms-join-forces-to-combat-growing-mobile-fraud-5553640), with two regions flagged as priorities and the regulator, operators and security agencies convening in August to coordinate further measures. Blocking is not prosecution: [56 incident reports stand against 39,117 numbers blocked](https://dailynews.co.tz/tanzania-blocks-39000-numbers-linked-to-fraud-in-its-intensified-war-against-cybercrime/), and no conviction or restitution figure is held.
+August gave the national series the earlier account lacked. The regulator told Parliament it had [blocked 39,117 fraud-linked phone numbers and 6,118 domains and applications in the 2025/26 financial year, removed 7,311 violating accounts and submitted 56 security-incident reports to the police](https://dailynews.co.tz/tanzania-blocks-39000-numbers-linked-to-fraud-in-its-intensified-war-against-cybercrime/); and it [identified 7,334 mobile lines linked to fraud between April and June 2026, down 25.3% from 9,817 in the preceding quarter](https://www.thecitizen.co.tz/tanzania/business/government-telecoms-join-forces-to-combat-growing-mobile-fraud-5553640), with two regions flagged as priorities and the regulator, operators and security agencies convening in August to coordinate further measures. Blocking is not prosecution: [56 incident reports stand against 39,117 numbers blocked](https://dailynews.co.tz/tanzania-blocks-39000-numbers-linked-to-fraud-in-its-intensified-war-against-cybercrime/), and no conviction or restitution figure is held. The regulator's director general later [set the June 2026 count against 23,328 reported cases in September 2023, a 69% fall, and said awareness campaigns may have raised reporting](https://www.thecitizen.co.tz/tanzania/supplement/robust-policies-plans-and-collaboration-drive-tanzania-s-communications-sector-5608712).
 
 
 The same budget statement [provides for cybercrime investigation centres at Dodoma and Zanzibar](https://dailynews.co.tz/security-digital-identity-and-technology-set-to-spur-tanzanias-growth/). Nothing is built, sited or staffed on the record, and the country still holds no published national cybersecurity strategy to place them in.
