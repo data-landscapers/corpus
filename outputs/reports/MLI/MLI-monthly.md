@@ -1,11 +1,11 @@
 ---
 title: Mali — monthly update, August – September 2026
-compiled: 2026-09-24
-period: 2026-08-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2026-08-01 to 2026-09-25
 place: MLI
-ledger_rows: 37
+ledger_rows: 38
 not_held: 1
-record: fcc2cd03bc5e
+record: 411eb91cd542
 ---
 
 # Mali: monthly update, August – September 2026
@@ -44,6 +44,8 @@ On 3 August the [data-protection authority opened its second 2026 session](https
 The largest privacy fact of the month came from outside the country. A model provider's threat report [says a consultant working with the state security agency used its AI model to build Lakana 360, a platform monitoring about 25 million SIM cards across all three mobile operators and capturing call records, messages and voice traffic, with a warrant requirement removed from one component](https://www.anthropic.com/threat-intelligence-report-september-2026). No Malian authority's response or legal basis for the interception is on record.
 
 The authority's cooperation with Benin produced its first recorded joint action: [Benin's First Rapporteur visited on 4 September for an exchange on compliance tools, regulatory standards, communication and Mali's regional offices at Kayes, Sikasso, Ségou and Mopti](https://techgriot.co/english/africa/2026/09/mali-and-benin-deepen-cooperation-on-data-protection/). No joint instrument or work plan from it is on record.
+
+On 23 September the authority [signed a cooperation agreement with Togo's personal-data authority](https://www.togofirst.com/en/itc/2509-20170-togo-mali-data-regulators-agree-to-share-expertise) providing for information exchange, cooperation on complaints handling and compliance checks, and staff training; the talks also covered cross-border data transfers, cybersecurity and artificial intelligence.
 <!-- /narrative -->
 ### Regional collaboration
 
