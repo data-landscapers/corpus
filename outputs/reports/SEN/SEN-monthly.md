@@ -1,11 +1,11 @@
 ---
 title: Senegal — monthly update, August – September 2026
-compiled: 2026-09-24
-period: 2026-08-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2026-08-01 to 2026-09-25
 place: SEN
-ledger_rows: 68
+ledger_rows: 71
 not_held: 3
-record: 67914ac94ff8
+record: f85015a81bfb
 ---
 
 # Senegal: monthly update, August – September 2026
@@ -41,6 +41,8 @@ The critical-infrastructure framework moved from undated draft to adopted law in
 The ministry's own account of the contents grades obligations by risk: [ordinary networks on standard requirements and critical infrastructure on enhanced ones — monitoring, data backup, encryption of sensitive information, business continuity and disaster recovery, and regular resilience testing — against a national authority, a national response team, sectoral teams and cybersecurity operations services](https://news.broadcastmediaafrica.com/2026/08/17/senegal-advances-new-cybersecurity-bill-to-protect-critical-infrastructure-and-strengthen-digital-sovereignty/), with an industrial objective attached: the ministry expects the compliance requirement itself to create accredited providers and skilled jobs.
 
 Every provision is still the ministry's description. The text is not held, no promulgation date or gazette reference is published, and nothing the law creates exists yet.
+
+On 24 September the head of the interior ministry's file-automation directorate [said a text extending the validity of the first ECOWAS biometric identity cards, issued in 2016 and nearing expiry, has had committee work at the National Assembly and still needs a vote, promulgation and an implementing decree](https://www.seneweb.com/fr/news/Societe/cartes-didentite-biometriques-de-2016-vers-une-prorogation-de-la-validite_n_505118.html). The length of the extension and the cards covered are not fixed; ordinary renewal stays open.
 <!-- /narrative -->
 ### Data protection
 
@@ -120,6 +122,8 @@ Consolidated agency data at 17 July records [437 of 629 civil-status centres ful
 Deployment moved again in August, and the agency put a frame around it. At African Civil Registration Day in Kaolack on 10 August it [launched phase four of its remediation plan and put deployment at 74% of centres, up from 70% five days earlier, with the citizen request platform live in 189 communes](https://aps.sn/la-modernisation-de-letat-civil-une-veritable-politique-publique-et-strategique-selon-le-directeur-general-de-lanec/), phase four extending to Kaffrine and Tambacounda; its director-general described civil registration as an instrument of sovereignty.
 
 On International Identity Day the civil-status agency's director [put the modernisation at 77 per cent of the country's 629 civil-status centres, live in six regions with Tambacounda next month and the southern regions in the last quarter, the data held on three state-owned data-centre sites in the country](https://aps.sn/etat-civil-77-des-centres-couverts-par-le-processus-de-modernisation-dg-anec/), up from 74 per cent in August.
+
+At the first national forum on civil registration on 23 September, the civil-registration promotion body [said 58,462 candidates sat the primary-school leaving exam without a civil-status record, with 7,823 at the lower-secondary exam and 98 at the baccalaureate](https://www.seneweb.com/fr/news/Video/etat-civil-58-462-enfants-sans-acte-au-cfee-lalerte-de-lonpec_n_505072.html). The exam year was not stated, and a report to the authorities is to follow without a date.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -199,6 +203,8 @@ Belgium's development agency [opened a tender on 21 September for a women-in-tec
 Connectivity is being aimed at classrooms. The education ministry [plans to connect more than 8,000 primary schools to the internet through Starlink](https://techgriot.co/english/africa/2026/08/senegal-to-connect-8000-primary-schools-via-starlink/). Satellite is the route because terrestrial reach is the constraint, and a plan of that size would change what the Digital Schools programme can assume. Nothing in the record held names a school connected, a cost or a funding source.
 
 The civil service plan cleared validation on 10 September, [setting role-graded digital competences for state employees in data, information systems, AI and cybersecurity](https://www.wearetech.africa/fr/fils/actualites/tech/senegal-un-plan-national-de-formation-pour-adapter-l-administration-a-l-ere-numerique), with no target population, budget or start date published.
+
+An EU-funded civil-society project [ran a regional workshop at Kaolack training community leaders on digital hygiene, passwords and data governance, with Saint-Louis, Bignona and Dakar to follow](https://lesoleil.sn/actualites/technologie/kaolack-les-acteurs-communautaires-a-lecole-des-enjeux-du-numerique/), reported on 25 September. No participant count or budget was stated.
 <!-- /narrative -->
 ### Training and skills
 
