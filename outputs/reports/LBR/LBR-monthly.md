@@ -1,11 +1,11 @@
 ---
 title: Liberia — monthly update, August – September 2026
-compiled: 2026-09-24
-period: 2026-08-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2026-08-01 to 2026-09-25
 place: LBR
-ledger_rows: 46
+ledger_rows: 47
 not_held: 6
-record: b39a3de03448
+record: 8f5274a0f80b
 ---
 
 # Liberia: monthly update, August – September 2026
@@ -58,6 +58,8 @@ The education ministry [opened a five-day session to develop and validate a Stat
 On 30 July the Anti-Corruption Commission [confirmed it had forwarded a complaint about the telecoms traffic-monitoring arrangement to its investigation unit](https://www.liberianobserver.com/news/lacc-weighs-investigation-into-lta/article_86dd65ff-724e-4440-a664-728654ea9668.html). No evidence has been publicly produced and no findings made.
 
 The month's one channel built to hear from the public rather than about it was relaunched by donors. UNICEF and UNFPA [relaunched the U-Report youth feedback platform on 13 August](https://www.thenewdawnliberia.com/unicef-unfpa-relaunch-u-report/), with Irish embassy support and under a joint programme with the government, giving young people an encrypted SMS channel to answer polls on health, water and sanitation and other social issues, with responses analysable by county and a target of at least 8,000 reporters. The channel runs on one operator's SIM cards, which bounds who can take part.
+
+Ten civil society organisations [signed a founding memorandum for a Digital Advocacy and Rights Alliance](https://www.liberianobserver.com/news/ten-csos-form-digital-rights-coalition/article_af9fdbc9-c6ab-4b6a-b1f1-3981a3e53c4f.html), reported on 24 September, committing to press for an independent data protection authority, amendments narrowing the Cybercrime Act, tighter oversight of state interception, and judicial authorisation and public reporting for any internet shutdown. Its founding assembly is due within 90 days of the last signature.
 <!-- /narrative -->
 
 ## ICT Infrastructure
@@ -67,7 +69,7 @@ The month's one channel built to hear from the public rather than about it was r
 <!-- narrative: ict-infrastructure--infra-cybersec -->
 The Cybercrime Act 2025 was [announced as signed on 19 August 2026](https://www.wearetech.africa/en/fils-uk/news/public-management/liberia-enacts-cybercrime-and-data-protection-laws), and the enacted text has now been read: [approved on 3 July and printed on 24 July, it creates a National Cybersecurity Council with the national CERT as technical arm, requires breach reports within 72 hours and protects whistleblowers](https://mopt.gov.lr/wp-content/uploads/2026/09/Cybercime_Act_of_2025_Printed_Version_20260724_063806.pdf). Commentary [reads its speech-adjacent offences at sections 15 to 20 against the constitution's free-expression article and the 2019 press-freedom Act](https://frontpageafricaonline.com/liberias-free-speech-balancing-act-and-what-the-cybercrime-law-actually-changed/).
 
-Police [confirmed in September that a man held over AI-generated images of the Vice-President was arrested under the Act](https://www.thenewdawnliberia.com/koung-seeks-release-of-ai-image-suspect/). On 22 September a criminal court [ordered him freed on a habeas corpus petition, and the main opposition party said the same day it would ask the Supreme Court to rule on the Act's constitutionality](https://frontpageafricaonline.com/liberia-cdc-prepares-to-take-cybercrime-law-fight-to-supreme-court-after-wrato-release/). No court has ruled on whether the conduct is an offence under the Act.
+Police [confirmed in September that a man held over AI-generated images of the Vice-President was arrested under the Act](https://www.thenewdawnliberia.com/koung-seeks-release-of-ai-image-suspect/). On 22 September a criminal court [ordered him released from police custody on a habeas corpus petition, and the main opposition party said the same day it would ask the Supreme Court to rule on the Act's constitutionality](https://frontpageafricaonline.com/liberia-cdc-prepares-to-take-cybercrime-law-fight-to-supreme-court-after-wrato-release/). On 24 September, with no police officer appearing for the second time, the court [found the state had not shown the case was lawfully sent to it and gave the police a last opportunity to justify holding him](https://frontpageafricaonline.com/liberia-judge-gives-police-last-opportunity-in-cybercrime-suspects-detention-case/). No court has ruled on whether the conduct is an offence under the Act.
 <!-- /narrative -->
 
 ## DPI
