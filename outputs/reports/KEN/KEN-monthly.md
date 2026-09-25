@@ -1,11 +1,11 @@
 ---
 title: Kenya — monthly update, August – September 2026
-compiled: 2026-09-24
-period: 2026-08-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2026-08-01 to 2026-09-25
 place: KEN
 ledger_rows: 209
 not_held: 7
-record: 6a02bb9d4ccb
+record: c2ac977bd598
 ---
 
 # Kenya: monthly update, August – September 2026
@@ -319,6 +319,8 @@ The largest vocational digitalisation project, [some EUR 50m co-financed by KfW,
 
 <!-- narrative: capacity--capacity-research -->
 The repository gained its first account of a named Kenyan data-science career, a [data-for-social-impact leader profiled](https://data.org/news/pathways-to-impact-agnes-kiragga/) in a series of conversations with practitioners. It is an interview rather than an institutional record, and carries no programme, funding or output figure.
+
+On 24 September a regional digital-rights network [published its comments on the data regulator's draft guidance notes on AI and on emerging technologies](https://cipesa.org/2026/09/cipesa-weighs-in-on-kenyas-draft-guidance-notes-on-ai-and-emerging-technologies/), asking for impact assessments before any biometric processing, audits of platform feed algorithms and a high-risk category for AI in political communication. It had [made a submission on the draft AI and emerging technologies policy in August](https://cipesa.org/wp-content/files/briefs/Kenya_National_AI_and_Other_Emerging_Technologies_Policy_-_CIPESA_Submissions.pdf).
 <!-- /narrative -->
 
 ## Inclusion
