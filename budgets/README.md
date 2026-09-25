@@ -9,7 +9,7 @@
 Three pointers, and no copy of what they say:
 
 - **`BUDGET-EXTRACT.md`** (repo root) — the runbook that writes a file: where the document comes from, the order of the work, the checks, and how it publishes.
-- **`documentation/budget-extract.md`** — what a figure means: scope, the origin gate, the stages, the record shape. **`documentation/budget-archetypes.md`** — how to get a table off a particular shape of page.
+- **`documentation/budget-extract.md`** — what a figure means: scope, the origin gate, the stages, the record shape. **`lookups/budget-archetypes.csv`** — how to get a table off a particular shape of page, one row per archetype; its method note is `documentation/budget-archetypes.md`.
 - **`scripts/budget_source.py`** — the 46 columns and every rule they are held to. `python scripts/budget_source.py --columns` prints the header; `python scripts/budget_source.py {ISO3}` checks a country, and the compile refuses to build from a file that does not pass.
 
 `budgets/.documents/` is gitignored working space for a fetched document. Nothing in it is ever committed.
