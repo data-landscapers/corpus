@@ -1,11 +1,11 @@
 ---
 title: Eswatini — monthly update, August – September 2026
-compiled: 2026-09-24
-period: 2026-08-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2026-08-01 to 2026-09-25
 place: SWZ
-ledger_rows: 52
+ledger_rows: 54
 not_held: 3
-record: adae3b238615
+record: b5f7221cd0ea
 ---
 
 # Eswatini: monthly update, August – September 2026
@@ -78,6 +78,8 @@ The one dated position here is a standing statutory right rather than a change. 
 
 <!-- narrative: ict-infrastructure--infra-store -->
 The finance minister told Parliament on 22 September that [the disaster recovery site planned for Lubombo had failed to proceed, the US$10.4 million India Exim loan behind it had never been drawn, and Treasury had written to the lender asking to cancel it](https://times.co.sz/44419/news/govt-seeks-to-cancel-e182m-data-recovery-site-loan/). He also said [government needs a functional primary data centre before a backup, and that the science-park facility does not constitute a fully operational data centre](https://independentnews.co.sz/48729/news/govt-systems-crippled-by-digital-outages/). Its operator describes the same facility as Tier III.
+
+On 24 September the science park [confirmed an incident affecting the National Data Centre that disrupted at least 12 government services](https://times.co.sz/44621/news/national-data-centre-hit-by-incident/), with its engineers and outside experts working to restore them. It did not confirm social-media claims of a hack or a ransom demand, and had first acknowledged an outage of its web services on 18 September.
 <!-- /narrative -->
 ### Cybersecurity
 
@@ -93,6 +95,8 @@ Government applications got somewhere to be tested. Eswatini [opened a Governmen
 The home affairs ministry [asked citizens to check that the chief code on their identity documents matches their actual chiefdom](https://eswatinipositivenews.online/home-affairs-ministry-urges-emaswati-to-verify-chief-codes-2/), warning that an incorrect code creates difficulty in reaching government services. Six months after card production resumed from a technical suspension, the maintenance question has moved from the machine to the record.
 
 The system itself went down on 16 September: [a network blackout halted identity card and passport processing at Home Affairs in Mbabane and at postal counters](https://times.co.sz/43838/news/network-blackout-strikes-home-affairs-eptc/), with no restoration time and no offline procedure.
+
+In September the Civil Service Commission [found a suspended assistant regional civil registrar guilty of unlawfully processing a birth certificate and national identity card in February 2024 for a foreign national, using an innocent citizen's particulars](https://independentnews.co.sz/48682/southafrica/cat-matlala-wife-arrest-reignites-eswatini-id-saga/). Criminal proceedings against her continue.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -118,6 +122,8 @@ The social registry is moving beyond its pilot region. The deputy prime minister
 
 <!-- narrative: dpi--dpi-mis -->
 The Integrated Financial Management Information System was [among the systems the ICT ministry listed as disrupted on 23 September](https://independentnews.co.sz/48729/news/govt-systems-crippled-by-digital-outages/), with technical experts engaged and no cause or restoration date given.
+
+The science park [confirmed on 24 September that an incident at the National Data Centre lies behind the disruption](https://times.co.sz/44621/news/national-data-centre-hit-by-incident/), without saying what it was.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -127,6 +133,8 @@ The state's auditor put artificial intelligence at the centre of its own next fo
 The prime minister [publicly acknowledged the e-Visa platform failing on reliability, payment processing and turnaround, worst at peak periods, with no manual fallback while it is fixed](https://eswatinipositivenews.online/pm-calls-for-disruption-to-fix-tourism-bottlenecks/); tourism operators at the same conference described five-day waits.
 
 On 23 September the ICT ministry [acknowledged an ongoing outage across government web services, among them e-Visa, road transport permits, scholarship applications, the elderly grant service and deeds registration](https://independentnews.co.sz/48729/news/govt-systems-crippled-by-digital-outages/). It gave no cause and directed users to government service centres; a press report of a breach at the science park and a ransom demand was not confirmed by government.
+
+The science park [confirmed on 24 September that the outage stems from an incident at the National Data Centre, affecting parts of the Government in Your Hand application and online company registration among at least 12 services](https://times.co.sz/44621/news/national-data-centre-hit-by-incident/); the commerce ministry directed company applicants to the registrar's offices. What the incident was has not been stated.
 <!-- /narrative -->
 
 ## Digitalisation
@@ -149,6 +157,8 @@ On 6 July the prime minister told the [Global Dialogue on AI Governance in Genev
 A [regional health body and a private firm signed a memorandum in Eswatini on 4 August to scale AI-enabled health solutions](https://eswatinipositivenews.online/ecsa-hc-skye-africa-intelligence-partner-to-scale-ai-health-solutions/), naming no system, no data-sharing terms and no money.
 
 The audit office took its own artificial-intelligence commitment regional, [hosting a week-long peer programme at which supreme audit institutions across the region weighed the use of artificial intelligence in government audit](https://eswatinipositivenews.online/auditors-embrace-ai-to-protect-public-funds/). As with the strategic plan in August, no tool, pilot, audit methodology or procurement is named — what the repository holds is the intention and the forum it was stated in.
+
+The revenue service said at the opening of the 2026 filing season that [three technology providers, one a young local firm, are being integrated into its TaxCore electronic invoicing system](https://independentnews.co.sz/48807/business/three-tech-firms-connect-to-ers-e-invoicing-system/), to which businesses' accounting and point-of-sale systems must connect.
 <!-- /narrative -->
 ### ICT Industry
 
