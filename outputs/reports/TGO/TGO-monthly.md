@@ -1,11 +1,11 @@
 ---
 title: Togo — monthly update, August – September 2026
-compiled: 2026-09-24
-period: 2026-08-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2026-08-01 to 2026-09-25
 place: TGO
-ledger_rows: 66
+ledger_rows: 67
 not_held: 21
-record: 9452bafb9e17
+record: 537833186aa8
 ---
 
 # Togo: monthly update, August – September 2026
@@ -47,6 +47,8 @@ The data protection regulator turned to the state's own compliance. It [convened
 
 <!-- narrative: governance--gov-regional -->
 A [regional dialogue at the Togo-Ghana joint border post on 13 August sought to accelerate free movement along the Abidjan-Lagos corridor, reaffirming rollout of the regional biometric identity card and the interconnected transit system to cut border delays](https://www.togofirst.com/fr/transport/1408-19821-togo-ghana-la-cedeao-veut-accelerer-la-libre-circulation-au-poste-frontalier-de-noepe-akanu). No deployment figure, timetable or data-protection arrangement for the shared border and transit data is stated,.
+
+On 23 September the data-protection authority [signed a cooperation agreement with its Malian counterpart covering information exchange, complaints handling, compliance checks and staff capacity-building, with cross-border data transfers among the subjects discussed](https://www.togofirst.com/en/itc/2509-20170-togo-mali-data-regulators-agree-to-share-expertise). The agreement text is not published.
 <!-- /narrative -->
 ### Standards
 
