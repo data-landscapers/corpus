@@ -1,3 +1,8 @@
+---
+type: runbook
+reader: cc
+---
+
 # BULLETIN-TOPUP.md — the lunch-time bulletin, off OSINT's late-morning sweep
 
 Trigger: **"run the bulletin top-up"**, typed by hand, after OSINT has run `SWEEP-BULLETIN.md`. Manual only: it exists to put a time of day on a document, and a time of day is Bill's to choose.

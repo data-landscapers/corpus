@@ -1,3 +1,8 @@
+---
+type: runbook
+reader: cc
+---
+
 # STATUS-INIT.md — country status initialisation
 
 Trigger: **"status-init {ISO3}"**. Builds `outputs/reports/{ISO3}/{ISO3}-status.md` — a narrative answering, for each of the 39 sub-sections of `documentation/status-outline.md`, **what is the current status of this in this country**. The outline's bullets are the checklist of what has to be established, not the shape of the output; the output is prose.

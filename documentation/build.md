@@ -1,5 +1,6 @@
 ---
 type: doc
+reader: cc
 title: The build — why each stage is where it is
 last_reviewed: 2026-09-20
 ---

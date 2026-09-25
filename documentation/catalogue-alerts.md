@@ -1,5 +1,6 @@
 ---
 type: design-note
+reader: cc
 title: catalogue-alerts.md — one weekly email per reader, built by a Cloudflare Worker and sent by Buttondown
 last_reviewed: 2026-09-21
 status: built and deployed 2026-09-16; E3 outstanding — Monday 2026-09-21, check `cron_status` first, then release the draft by hand

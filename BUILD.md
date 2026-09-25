@@ -1,5 +1,6 @@
 ---
 type: runbook
+reader: cc
 title: Job 1 — build outputs/ from OSINT — instruction for Claude Code
 last_reviewed: 2026-09-20
 ---

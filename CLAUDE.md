@@ -1,5 +1,6 @@
 ---
 type: doc
+reader: cc
 title: CLAUDE.md — Corpus (the public site)
 last_reviewed: 2026-08-28
 ---
@@ -80,3 +81,7 @@ The reason is the direction of dependency. The site is a derived view of the wik
 ## The change log
 
 **A change a reader could notice gets an entry in `content/changelog.md` in the same commit** *(Bill, 2026-09-17)*: a new feature, a page or link that moves, a correction across many reports. Routine builds and renders, and changes readers cannot see, get none. Dated to the day under a `## D Month YYYY` heading, newest first; **two terse sentences an entry** — what changed, then what it means for the reader. `scripts/methodology.py` publishes it at `/methodology/changelog/` on the next render. **OSINT drafts its own entries** and sends them as a `notes-for-corpus` note titled *Add to change log* (`notes-for-osint` 142): add them as sent, editing only for length or house style, and close the note.
+
+## Documentation caps
+
+**Every root and `documentation/` file carries `reader:`, and `scripts/lint-docs.py` holds it to that reader's cap** *(strategic review 5, R65 and R86)*. The rule and the caps are in `global-claude.md` → *Writing*. Run the lint whenever a doc is written. It fails on a breach, and it is not a render gate. On 2026-09-25, 23 files were over their caps, and R92 is the job that cuts them.

@@ -1,5 +1,6 @@
 ---
 type: runbook
+reader: cc
 title: CITE-REREAD — the citation re-read of the authored status baselines
 opened: 2026-09-15
 ---

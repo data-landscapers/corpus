@@ -1,5 +1,6 @@
 ---
 type: doc
+reader: cc
 title: Phase 3 — the public site
 status: built and deployed
 last_reviewed: 2026-09-08

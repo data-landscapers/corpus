@@ -1,5 +1,6 @@
 ---
 type: procedure
+reader: cc
 title: indicator-mapping-conventions.md — how a ledger row is mapped onto the frame
 last_reviewed: 2026-08-28
 status: in force — binds every mapping pass over a country ledger

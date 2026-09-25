@@ -1,5 +1,6 @@
 ---
 type: decision
+reader: cc
 title: catalogue-serving-shape.md — how the catalogue is served at 40,000 records
 last_reviewed: 2026-09-04
 status: decided; carried out in full 2026-09-08 — see archived/catalogue-split-plan.md

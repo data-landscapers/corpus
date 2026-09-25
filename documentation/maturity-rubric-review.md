@@ -1,5 +1,6 @@
 ---
 type: review
+reader: cc
 title: maturity-rubric-review.md — CC's review of each rubric chapter before it is cut (task C2)
 last_reviewed: 2026-09-23
 status: Governance and the Finance instrument accepted and cut 2026-09-23; every instrument and system (95 of 117) accepted and cut 2026-09-23; the 22 measures are C3

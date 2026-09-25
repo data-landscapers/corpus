@@ -1,5 +1,6 @@
 ---
 type: reference
+reader: cc
 title: maturity-rubric.md — the five-stage anchors per indicator, drafted chapter by chapter for lookups/maturity-rubric.csv
 last_reviewed: 2026-09-23
 status: task C2 complete; task C3 — the 22 measures cut 2026-09-24, items 6–8 re-cut; items 9–10 acted on 2026-09-24, awaiting CC's re-cut

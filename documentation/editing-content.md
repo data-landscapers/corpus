@@ -1,5 +1,6 @@
 ---
 type: guide
+reader: bill
 title: editing-content.md — how to change the words on the site
 last_reviewed: 2026-09-01
 status: in force; Corpus-owned

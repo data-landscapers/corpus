@@ -1,5 +1,6 @@
 ---
 type: runbook
+reader: cc
 title: BUDGET-EXTRACT — one country-year of a national budget, read and published
 opened: 2026-09-20
 ---

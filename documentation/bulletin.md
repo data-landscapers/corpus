@@ -1,3 +1,8 @@
+---
+type: design-note
+reader: cc
+---
+
 # The bulletin — design note
 
 *(The live procedure is `BUILD.md` stage 7 and `RENDER.md` → *The bulletin*; this note is the reasoning behind them.)*

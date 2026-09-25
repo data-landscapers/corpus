@@ -1,3 +1,8 @@
+---
+type: reference
+reader: cc
+---
+
 # House style — guidelines for new pages
 
 One style, two sites. data-landscapers.io is the origin; every Corpus page is an application of it, never a variation on it. These rules govern any new page or page type in either repo; this is the tree as measured, not a proposal. (The one-time analysis is `archived/house-style-review-2026-08-24.md`.)

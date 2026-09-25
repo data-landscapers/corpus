@@ -1,3 +1,8 @@
+---
+type: brief
+reader: cc
+---
+
 # Maturity assessor — brief for one unit and one as-at date
 
 *(CC, 2026-09-24. The drafter's instructions for `maturity-assess.py`'s model half: give it this file and the unit's packet, then run `apply` on what it writes. Tried first on STP as at 2026-07-31; rule 4's unplaced case came out of that run.)*

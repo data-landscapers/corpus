@@ -1,5 +1,6 @@
 ---
 type: tasks
+reader: cc
 title: Maturity assessment — the build, as sequential tasks with owners
 date: 2026-09-22
 source: documentation/maturity-assessment.md §12 (expanded here); maturity-assessment-norms.md; adding-an-indicator.md; indicator-digital-sovereignty.md; indicator-financial-sustainability.md

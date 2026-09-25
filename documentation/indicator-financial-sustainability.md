@@ -1,5 +1,6 @@
 ---
 type: task
+reader: cc
 title: indicator-financial-sustainability.md — add a financial sustainability indicator in place of finance.mou
 last_reviewed: 2026-09-22
 status: planned, for CC to carry out per adding-an-indicator.md; subject finance.sustain ruled by Bill 2026-09-23 (§1), so blocked on OSINT adding it; evidence depends on the budget-extract queue (§7)

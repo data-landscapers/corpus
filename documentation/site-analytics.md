@@ -1,5 +1,6 @@
 ---
 type: design-note
+reader: cc
 title: site-analytics.md — daily views (Google Analytics) and search clicks (Search Console), collected by the cycle
 last_reviewed: 2026-09-23
 status: built 2026-09-23 (CC); runs as CYCLE.md step 1a

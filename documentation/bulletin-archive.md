@@ -1,3 +1,8 @@
+---
+type: design-note
+reader: cc
+---
+
 # The bulletin mini-archive — save and prune logic
 
 *(A facility to download the last week's bulletin PDFs, a dropdown with date, time and entry count, and a stated retention promise. The live procedure is `RENDER.md` → *The bulletin*; `scripts/bulletin_editions.py` holds the manifest rules — it has two writers, and a rule with two writers belongs in neither of them. `render.py` writes on cut, `prune-editions.py` rewrites on delete; `scripts/test_prune_editions.py` covers the branch.)*

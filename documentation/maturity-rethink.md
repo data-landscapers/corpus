@@ -1,5 +1,6 @@
 ---
 type: design-note
+reader: cc
 title: maturity-rethink.md — the assessment after its first run, and the case for building it from studies
 date: 2026-09-24
 status: discussion — Bill is sleeping on it; nothing below is decided except where marked (Bill). §1–6 CC; §7 Cowork's response, 2026-09-24

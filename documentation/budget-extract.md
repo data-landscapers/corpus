@@ -1,5 +1,6 @@
 ---
 type: doc
+reader: cc
 title: Budget extraction — what a figure means
 last_reviewed: 2026-09-20
 ---

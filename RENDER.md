@@ -1,5 +1,6 @@
 ---
 type: runbook
+reader: cc
 title: Render the site — instruction for Claude Code
 last_reviewed: 2026-09-20
 ---

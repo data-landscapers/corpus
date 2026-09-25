@@ -1,5 +1,6 @@
 ---
 type: runbook
+reader: cc
 title: UNIT-REVIEW — two places' reports reviewed whole, every night — instruction for Claude Code
 opened: 2026-09-17
 last_reviewed: 2026-09-18

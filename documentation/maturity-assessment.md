@@ -1,5 +1,6 @@
 ---
 type: design-note
+reader: cc
 title: maturity-assessment.md — the country maturity assessment that replaces the progress report
 last_reviewed: 2026-09-22
 status: ruled — design agreed by Bill 2026-09-22; build plan in §12, nothing built yet. Supersedes progress-report-redesign.md.

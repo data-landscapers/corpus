@@ -1,3 +1,8 @@
+---
+type: design-note
+reader: cc
+---
+
 # Topic reports — design note
 
 *(The live procedure is `BUILD.md` stage 6 and `RENDER.md` → *Topics*, implemented as `scripts/topic-render.py`. This note is the reasoning.)*

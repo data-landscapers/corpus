@@ -1,5 +1,6 @@
 ---
 type: design-note
+reader: cc
 title: datasets.md — the Datasets section, starting with Data Centres
 last_reviewed: 2026-09-21
 status: plan; not yet built

@@ -1,3 +1,8 @@
+---
+type: brief
+reader: cc
+---
+
 # Hero brief
 
 The brief `catalogue_hero` writers are given (strategic review 4, R28 and R30; `scripts/hero-batch.py` prepares their input and checks their output). The contract is OSINT's, from `wiki/schemas.md` §4; this restates it for an agent that cannot read the vault.

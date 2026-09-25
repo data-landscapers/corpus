@@ -1,5 +1,6 @@
 ---
 type: runbook
+reader: cc
 title: The cycle — BUILD then RENDER in one run — instruction for Claude Code
 last_reviewed: 2026-09-17
 ---

@@ -1,5 +1,6 @@
 ---
 type: procedure
+reader: cc
 title: adding-an-indicator.md — how an indicator is added to, or retired from, the frame
 last_reviewed: 2026-09-22
 status: in force from the maturity assessment build; first used for indicator-digital-sovereignty.md and indicator-financial-sustainability.md

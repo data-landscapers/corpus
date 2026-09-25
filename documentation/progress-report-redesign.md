@@ -1,5 +1,6 @@
 ---
 type: design-note
+reader: cc
 title: progress-report-redesign.md — the indicator-framed country progress report
 last_reviewed: 2026-08-28
 status: in force — implemented; every country unit carries indicators.csv

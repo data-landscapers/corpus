@@ -1,5 +1,6 @@
 ---
 type: spec
+reader: cc
 title: report-region-skeleton.md — the shape and drafting contract for region reports
 last_reviewed: 2026-08-28
 status: in force; Corpus-owned

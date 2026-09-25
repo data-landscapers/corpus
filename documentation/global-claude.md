@@ -1,5 +1,6 @@
 ---
 type: doc
+reader: cc
 title: global CLAUDE.md — the cross-project rules
 last_reviewed: 2026-09-17
 ---
@@ -59,6 +60,19 @@ Best practice rather than a rule. **Design work takes place in Cowork; operation
 Whenever Cowork makes changes, I ask CC to review them from an operational point of view. Depending on CC's response I will either ask CC to write a note for Cowork, post CC's comments back to Cowork, or ask CC to make modifications to Cowork's work.
 
 ## Writing
+
+**Every process and documentation file names its reader, and the cap follows the reader** *(Bill, 2026-09-25, strategic review 5 R65)*. The reader goes in frontmatter as `reader: bill` or `reader: cc`, or as a first-line `<!-- reader: … -->` comment where frontmatter would show, as in a public README. A Bill file is written in lines, not paragraphs. A CC file keeps the rule and drops the incident: the record goes in the commit body, and a table that grows with every run is a CSV. `scripts/lint-docs.py` reads this table and fails on a breach and on a missing `reader:`:
+
+| reader | class | `type:` values | cap |
+|---|---|---|---|
+| cc | runbook | runbook, procedure, task, tasks, guide | 1,500 words |
+| cc | spec | spec, doc, design-note, decision, reference, review, documentation | 3,000 words |
+| cc | brief | brief | 600 words |
+| bill | preamble | any | 100 words |
+| bill | block | any | 80 words |
+| bill | annotation | any | 25 words |
+
+A Bill file's preamble is what comes before its first `##`. A block is a paragraph or a bullet, a note or a message. An annotation is a register line's italic *Done …* closing.
 
 **One line per paragraph. Never wrap by hand.** A hard-wrapped paragraph diffs badly: change one word near the start and every following line reflows, so the diff shows a rewritten paragraph instead of a changed word. It does not apply where the break carries meaning — frontmatter, code blocks, tables.
 

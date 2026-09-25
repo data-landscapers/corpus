@@ -1,3 +1,8 @@
+---
+type: spec
+reader: cc
+---
+
 # Country status outline
 
 The drafting outline for the country status output. Each `###` sub-section is one taxonomy Level-2 slug (`lookups/taxonomy.md`), and the question under it is what the section answers: **what is the current status of this, in this country, as at this date**. The bullets under the question are the breakdown of that question — the things that have to be established before the question can be answered.

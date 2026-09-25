@@ -1,5 +1,6 @@
 ---
 type: decision
+reader: cc
 title: editions-serving-shape.md — where the dated editions are served from
 last_reviewed: 2026-09-08
 status: done — decided, built and cut over on 2026-09-08

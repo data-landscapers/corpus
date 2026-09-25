@@ -1,3 +1,8 @@
+---
+type: runbook
+reader: cc
+---
+
 # REREAD — repairing a unit whose evidence was read and discarded
 
 *(Opened 2026-09-10. The defect, its cause and its scale are

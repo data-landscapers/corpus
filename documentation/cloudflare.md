@@ -1,5 +1,6 @@
 ---
 type: reference
+reader: cc
 title: The Cloudflare layer — how it is configured, and what Corpus does with it
 last_reviewed: 2026-08-18
 status: current — describes the live configuration

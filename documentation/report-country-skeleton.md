@@ -1,5 +1,6 @@
 ---
 type: spec
+reader: cc
 title: report-country-skeleton.md — the shape and drafting contract for country reports
 last_reviewed: 2026-08-28
 status: in force; Corpus-owned

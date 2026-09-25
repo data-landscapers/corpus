@@ -1,3 +1,4 @@
+<!-- reader: bill -->
 # Corpus
 
 **[corpus.data-landscapers.io](https://corpus.data-landscapers.io/)** — reports and datasets on digital transformation, digital public infrastructure and data governance across Africa, rebuilt every night from public documents.

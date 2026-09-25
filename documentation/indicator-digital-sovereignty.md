@@ -1,5 +1,6 @@
 ---
 type: task
+reader: cc
 title: indicator-digital-sovereignty.md — add a digital sovereignty indicator to the Geopolitics chapter
 last_reviewed: 2026-09-22
 status: planned, for CC to carry out per adding-an-indicator.md; blocked on OSINT adding the geopol.sovereignty subject (§1)

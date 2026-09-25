@@ -1,5 +1,6 @@
 ---
 type: reference
+reader: cc
 title: how-the-site-is-served.md — the whole arrangement, in plain language
 last_reviewed: 2026-09-08
 status: current — describes the live configuration as of the R2 cutover

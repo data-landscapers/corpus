@@ -1,5 +1,6 @@
 ---
 type: spec
+reader: cc
 title: report-layer.md — what every Corpus report process shares
 last_reviewed: 2026-08-28
 status: in force; Corpus-owned

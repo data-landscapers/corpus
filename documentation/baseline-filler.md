@@ -1,5 +1,6 @@
 ---
 type: task
+reader: cc
 title: Baseline filler — find the missing start positions in the region progress reports
 last_reviewed: 2026-09-11
 ---

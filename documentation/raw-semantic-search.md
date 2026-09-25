@@ -1,5 +1,6 @@
 ---
 type: design-note
+reader: cc
 title: raw-semantic-search.md — searching OSINT's raw/ by meaning, for the writing
 last_reviewed: 2026-09-04
 status: design and instructions; not yet built
