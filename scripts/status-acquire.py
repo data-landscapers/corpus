@@ -119,7 +119,7 @@ def main():
     # without this every closed row comes back, minus the status and notes that settled it, and
     # the queue Bill works down grows by the work he has already done.
     closed = {row.get("url", "") for row in S.acquire_done_rows()
-              if row.get("iso3", "").upper() == iso}
+              if row.get("iso3", "").upper() == iso and S.status_owned(row)}
 
     mine, unknown = [], []
     for url in sorted(S.links(text)):
@@ -143,7 +143,8 @@ def main():
         row.update(kept.get((iso, url), {k: "" for k in MINE}))
         mine.append(row)
 
-    out = [r for r in old_rows if r["iso3"] != iso] + mine
+    # Another writer's rows for this country stay: the budget extract's requests share the feed.
+    out = [r for r in old_rows if r["iso3"] != iso or not S.status_owned(r)] + mine
     out.sort(key=lambda r: (r["iso3"], r.get("published", ""), r.get("publisher", "")))
 
     os.makedirs(os.path.dirname(OUT), exist_ok=True)

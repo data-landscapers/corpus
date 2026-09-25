@@ -198,9 +198,10 @@ def check_unit(unit, show_openings=False):
     # its job is backwards — but its URL still counts as listed, so the note below stops offering
     # it as something nobody has asked for. First round-trip: AGO, 47 rows, 2026-08-24.
     cat = S.catalogue_urls()
-    rows = [row for row in S.acquire_rows() if row.get("iso3", "").upper() == unit]
+    rows = [row for row in S.acquire_rows()
+            if row.get("iso3", "").upper() == unit and S.status_owned(row)]
     closed = {row.get("url", "") for row in S.acquire_done_rows()
-              if row.get("iso3", "").upper() == unit}
+              if row.get("iso3", "").upper() == unit and S.status_owned(row)}
     listed, bad_lines = set(closed), []
     for row in rows:
         url, date = row.get("url", ""), row.get("published", "")

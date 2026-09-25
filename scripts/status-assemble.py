@@ -90,7 +90,8 @@ def main():
                    if p.strip() and not S.links(p) and len(S.sentences(p)) <= 2)
 
     folder = os.path.join(S.REPORTS, iso)
-    n_acquire = sum(1 for row in S.acquire_rows() if row.get("iso3", "").upper() == iso)
+    n_acquire = sum(1 for row in S.acquire_rows()
+                    if row.get("iso3", "").upper() == iso and S.status_owned(row))
 
     fm = [
         "---",

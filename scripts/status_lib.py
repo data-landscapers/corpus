@@ -242,6 +242,18 @@ def acquire_rows():
         return [r for r in csv.DictReader(fh) if r.get("iso3")]
 
 
+def status_owned(row) -> bool:
+    """Whether an acquire row is the status report's, rather than another writer's in the same feed.
+
+    The budget extract queues the documents it needs as `finance.budget` rows *(budget sprint,
+    2026-09-24)*: they carry no cited URL and often no date, because the document is what is
+    missing. `finance.budget` is suspended from the status report, so no status line can carry
+    it. Read as status lines they failed check F and inflated `acquire_lines` on every unit with
+    a budget request (R78, 2026-09-25); rewritten as status lines, `status-acquire.py` would
+    have deleted them."""
+    return (row.get("sub_section") or "").strip() != "finance.budget"
+
+
 def acquire_done_rows():
     """The closed half of the acquire queue. `acquire-done.csv` in EXCHANGE, written by OSINT.
 
