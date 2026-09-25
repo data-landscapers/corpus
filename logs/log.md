@@ -12,6 +12,8 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-09-25 07:31 · **BUDGET-EXTRACT** · 4m · EGY FY2024-2026: nil; assets.mof.gov.eg refused every connection, all 12 volumes unreached
+2026-09-25 07:31 · **BUDGET-EXTRACT** · 13m · COG FY2024-2026: 10 lines from the finance laws, bills, LFR 2025 and 2025 execution report; origin inferred (no line-level financing split)
 2026-09-25 00:17 · **RENDER** · 19m · 251 documents, home, places, topics, progress, catalogue, finance, datasets (Data Centres 2026-09-25, 577) rendered; R2 4,212 uploaded; maturity docs held back; deployed — ok
 2026-09-24 23:58 · **REVIEW** · 16m · ETH: status 11 sections revised, progress 14 cells, monthly 10 blocks, finance 9 rows; 2 deals queued, 1 note for OSINT — ok
 2026-09-24 23:58 · **REVIEW** · 16m · ERI: status 7 sections revised, progress 7 cells, monthly 5 blocks, finance 0 rows; 2 deals queued, 1 note for OSINT — ok
