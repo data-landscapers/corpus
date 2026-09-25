@@ -1,12 +1,12 @@
 ---
 title: Guinea — progress report, September 2025 – September 2026
-compiled: 2026-09-24
-period: 2025-09-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2025-09-01 to 2026-09-25
 place: GIN
 ledger_rows: 189
 not_held: 4
 indicators: 123
-record: 8fe1b1ef3ded
+record: ee35ea56f9a3
 ---
 
 # Guinea: progress report, September 2025 – September 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the repository holds nothing on that indicator. **That is a statement about this repository, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-09-01 to 2026-09-24.*
+*The period is 2025-09-01 to 2026-09-25.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the repository holds a standing position and nothing in the period touched it. ***No evidence*** — the repository holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Movement, regulations still pending*.
 
@@ -211,4 +211,10 @@ Where a row reads ***No evidence***, the repository holds nothing on that indica
 | Official explanation of the social-media restriction | Any published legal basis, ARPT decision or ministerial statement acknowledging the restriction on Facebook, YouTube and TikTok. | 2026-09-04 |
 | Address register | A national addressing instrument, a published address database or coverage figure, or the outcome of the digital addressing tender opened in November 2025. | 2026-12-01 |
 | Artificial intelligence in the administration | Any instrument governing or authorising AI use inside the administration, or a named system in production in a ministry. | 2026-12-01 |
+| FY2026 enacted budget, digital lines | The 2026 initial finance law (Loi L/2026/010/CNT, March 2026), held in the catalogue, read into the budget extract; FY2026 has no folder. | 2026-09-25 |
+| Outturn against the digital appropriations | The end-of-year budget execution report or the loi de règlement for 2024 or 2025, giving execution against the digital lines, read into the budget extract. | 2026-09-25 |
+| Digital Compliance Fee and Digital Sovereignty Fund decree | The text of the decree of 21 May 2026 creating the Digital Compliance Fee (RCN) and the Digital Sovereignty Fund (FSN), with the fund's governance and first-year receipts. | 2026-09-25 |
+| Rule on where state data is hosted | Adoption of a public-data hosting or sovereign-cloud policy following the ANDE / Roland Berger study presented in May 2026, or the National Data Governance Strategy. | 2026-09-25 |
+| Data jurisdiction, portability and exit terms of the Safe City and RNPP agreements | Publication of the Safe City loan and Huawei implementation contract terms and of the ONECI-NG Tech Innovation memorandum. | 2026-09-25 |
+| Operator and operating terms of the national data centre | A decision naming the operator of the Koloma national data centre and its management terms. | 2026-09-25 |
 
