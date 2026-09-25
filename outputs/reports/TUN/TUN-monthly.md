@@ -1,11 +1,11 @@
 ---
 title: Tunisia — monthly update, August – September 2026
-compiled: 2026-09-24
-period: 2026-08-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2026-08-01 to 2026-09-25
 place: TUN
-ledger_rows: 64
+ledger_rows: 65
 not_held: 5
-record: 90d91061edc5
+record: d16fb717467a
 ---
 
 # Tunisia: monthly update, August – September 2026
@@ -180,6 +180,8 @@ The startup framework reached for the diaspora. The Dot [opened applications for
 
 <!-- narrative: capacity--capacity-training -->
 The family and women's ministry, a national entrepreneurs' organisation and a UN regional commission [opened a training programme for 100 women entrepreneurs in e-commerce and artificial-intelligence applications, alongside a national platform for marketing women's products](https://www.assabahnews.tn/ar/%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%D8%AD/152460). Both sit under a [declaration on women, youth, digitalisation and African economic integration whose action plan targets training 100,000 women and young people in e-commerce, AI and cross-border digital payments by 2028, and a US$50m fund for inclusive markets by the same date](https://www.assabahnews.tn/ar/%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%D8%AD/152460). The training launch's own date is not established in the source.
+
+Against that intake runs the outflow. An annual analyst study carries the Order of Engineers' count: [more than 7,000 engineers left in 2025, more than 8,000 are expected to leave in 2026, and 46,000 have gone in ten years against 105,000 on the Order's register](https://fr.linkedin.com/pulse/%C3%A9tude-sur-la-transformation-digitale-et-lia-en-tunisie-arnault-chatel-mdxje). The repository holds no figure from the Order itself.
 <!-- /narrative -->
 
 ## Inclusion
