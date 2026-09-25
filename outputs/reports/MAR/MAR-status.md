@@ -1,14 +1,14 @@
 ---
 title: Morocco: status report
-compiled: 2026-09-23
+compiled: 2026-09-25
 place: MAR
 region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 13
-sources_cited: 166
-sections_written: 37
-not_established: 3
+sources_cited: 182
+sections_written: 39
+not_established: 1
 acquire_lines: 61
 ---
 ## Governance
@@ -68,6 +68,18 @@ The channels exist and the response is slow. Morocco has [a right-to-information
 Debate outside the institutions has been dominated by the border. [Anonymous social-media calls for a mass crossing into Ceuta resurfaced for a third consecutive year in August 2026, directing prospective migrants into closed WhatsApp groups to coordinate](https://en.hespress.com/143238-anonymous-social-media-calls-revive-plans-for-new-mass-crossing-into-ceuta.html), and [neither researchers nor Spanish authorities have identified who launched the campaign](https://en.hespress.com/143135-bots-suspected-of-amplifying-messages-behind-ceuta-migration-surge.html). Two rights monitors [analysed 1,245 posts, videos and comments across five platforms in five languages and found a surge of racist and xenophobic content targeting both the migrants and Moroccan communities across Europe](https://en.hespress.com/143157-moroccans-across-europe-targeted-by-online-hate-after-ceuta-crisis-rights-monitor-warns.html), [with women and girls appearing in crossing footage attacked over their appearance and "morality"](https://en.hespress.com/143157-moroccans-across-europe-targeted-by-online-hate-after-ceuta-crisis-rights-monitor-warns.html).
 
 ## Finance
+
+### Financial sustainability
+<!-- finance.sustain -->
+
+Morocco's own digital funds spent a fraction of the money they held in 2024: [the telecommunications universal-service fund had MAD 4.17 billion available, carried-over balance included, and spent MAD 202 million; the fund for electronic identity and travel documents had MAD 2.74 billion and spent MAD 551 million; and the digital ministry's fund for administrative modernisation, the digital transition and Amazigh had MAD 2.74 billion and spent MAD 837 million (2024)](https://www.finances.gov.ma/Publication/db/2026/Rapport-CST_Fr.pdf). What the universal-service fund has paid for is the core of the digital state, not only coverage: [about MAD 300 million to the national population register, MAD 380 million to a secure high-speed state network, MAD 120 million to the national administration portal and MAD 400 million for two digital-transformation roadmaps paid to the Agency for Digital Development (2025)](https://www.finances.gov.ma/Publication/db/2026/Rapport-CST_Fr.pdf).
+
+The 2026 finance law holds [the universal-service fund at MAD 200 million and the identity-documents fund at MAD 463.9 million, and cuts the modernisation fund to MAD 1.52 billion (FY2026)](https://www.finances.gov.ma/Publication/db/2025/BO_7465-bis_Ar.pdf), from [MAD 1.72 billion in 2025 (FY2025)](https://www.finances.gov.ma/Publication/db/2025/LF2025-BO_7362_Fr.pdf). The digital ministry's own investment budget rose from [MAD 11.7 million in 2021 to MAD 1.76 billion in 2024](https://www.mmsp.gov.ma/fr/budget-annuel).
+
+<!-- derived -->
+The four digital lines the 2026 finance law carries outside the ministries' general budget, the three special accounts and the interior ministry's digital-transformation service, come to MAD 2.26 billion appropriated, down from MAD 2.46 billion in 2025, the whole fall in the modernisation fund (FY2026).
+
+The 2025 budget tables print no financing source against their digital lines (FY2025). The next external window is [the World Bank's US$250 million programme approved in June 2026, which runs for five years](https://www.worldbank.org/en/news/press-release/2026/06/12/two-new-programs-to-advance-morocco-s-digital-transformation-and-climate-resilience). The state's own data-centre plans come with a running cost attached: [the minister put the Dakhla data centre at about US$54 million to build and US$5.4 million a year to run, to be funded partly by the government, the Mohammed VI investment fund and the state deposit fund CDG (October 2025)](https://www.thenationalnews.com/news/mena/2025/10/16/morocco-plants-flag-on-ai-development-with-60m-data-centre-plan/).
 
 ### MoUs and other agreements
 <!-- finance.mou -->
@@ -312,7 +324,7 @@ The rural line is the one the state has worked hardest and is still visible: [th
 ### National statistics
 <!-- data.statistics -->
 
-Morocco's [score for the capacity of its statistical system rose 28.6 points over 2014-2023 to 88.7 out of 100, the highest of any African state](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ma.pdf), one of the five most improved of the 96 indicators the Ibrahim Index tracks for the country. On the World Bank's Statistical Performance Indicators for the same year, the system [scores above 89% on data services, sits in the 70-89% band for data use and data products, and is weakest on data sources and on data infrastructure, each in the 50-69% band](https://www.worldbank.org/en/programs/statistical-performance-indicators).
+Morocco's [score for the capacity of its statistical system rose 28.6 points over 2014-2023 to 88.7 out of 100, the highest of any African state](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ma.pdf), one of the five most improved of the 96 indicators the Ibrahim Index tracks for the country. On the World Bank's Statistical Performance Indicators for the same year (2023), the system [scores above 89% on data services, sits in the 70-89% band for data use and data products, and is weakest on data sources and on data infrastructure, each in the 50-69% band](https://www.worldbank.org/en/programs/statistical-performance-indicators).
 
 The collection programme behind those scores is uneven. Over the last ten years Morocco has fielded [three or more business surveys and three or more labour surveys, two household surveys and two agricultural surveys, but a single health survey](https://www.worldbank.org/en/programs/statistical-performance-indicators) (2023). A [population census and an agricultural census have been run within ten years; no business census has been run within twenty](https://www.worldbank.org/en/programs/statistical-performance-indicators) (2023). Of the Ibrahim Index's 96 indicators, [Education Completion is the single one for which Morocco has no data at all](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ma.pdf) (2023).
 
@@ -359,9 +371,20 @@ The other European presence is in the ground and the seabed. [Nokia was selected
 ### Gulf/UAE activities
 <!-- geopol.gulf -->
 
-No Gulf vendor contract, investment or intergovernmental agreement in Morocco's digital sector had been recorded as at August 2026.
+[In December 2023 Morocco and the United Arab Emirates exchanged 12 investment-cooperation memoranda in Abu Dhabi, one of them on data-centre projects with a first phase of 100 megawatts, a prospect of nearly 500 megawatts and incentives for investment in the field still to be explored](https://diplomatie.ma/en/hm-king-uae-president-chair-mou-exchange-ceremony). No contract or investment arising from that memorandum was on record as at September 2026.
 
 ### India activities
 <!-- geopol.india -->
 
-No Indian vendor contract, investment or intergovernmental agreement in Morocco's digital sector had been recorded as at August 2026.
+[Morocco and India agreed in Rabat on 24 August 2026 to establish a joint commission on artificial intelligence and language technologies, starting with systems that handle several languages and dialects in dealings between citizens and the administration](https://techafricanews.com/2026/08/28/morocco-and-india-to-establish-joint-commission-on-ai-and-language-technologies/), [building on the two ministers' meeting in New Delhi in February 2026](https://techafricanews.com/2026/08/28/morocco-and-india-to-establish-joint-commission-on-ai-and-language-technologies/). The older Indian link is in identity: [Morocco signed an MoU in 2018 as the first adopter of MOSIP, the open-source identity platform Nandan Nilekani's team in India built on Aadhaar's core ideas, and had registered 22 million of its 39 million people in the national population register by June 2026, which was helping 5 million eligible households reach social programmes](https://timesofindia.indiatimes.com/technology/times-techies/theyre-taking-dpi-to-the-world/articleshow/131849408.cms).
+
+### Digital sovereignty
+<!-- geopol.sovereignty -->
+
+Morocco has written control with portability into its cloud rules for critical systems, and had qualified no provider under them by September 2026. [Decree 2-24-921, published in February 2025, obliges entities of vital importance that put sensitive systems or data in the cloud to use a qualified provider, its higher level requiring majority Moroccan ownership, processing, storage and supervision exclusively on national territory, and Moroccan operating staff](https://www.anrt.ma/sites/default/files/2025-03/D%C3%A9cret%202.24.921-%20Prestataires%20Cloud-FR.pdf); [a provider leaving the service must return the systems or data, then delete them and certify the deletion, and the decree takes effect only once the order fixing the qualification standard is published](https://www.anrt.ma/sites/default/files/2025-03/D%C3%A9cret%202.24.921-%20Prestataires%20Cloud-FR.pdf). [The cybersecurity agency's register of regulated services listed qualified audit providers and no qualified cloud provider (September 2026)](https://www.dgssi.gov.ma/fr/prestations-et-produits-reglementes/).
+
+[Law 05-20 requires any outsourcing of a sensitive information system to run under a contract governed by Moroccan law with commitments on auditability and reversibility](https://www.anrt.ma/sites/default/files/2022-02/loi_05-20_cybersecurite_fr.pdf), and [Oracle's Casablanca region is hosted in N+One's facility to meet that article](https://www.datacenterdynamics.com/en/news/oracle-cloud-to-launch-cloud-region-in-morocco/), while [the AWS Wavelength zone in Orange's Casablanca data centre has Paris as its parent region](https://www.datacenterdynamics.com/en/news/aws-launches-wavelength-zone-edge-in-morocco-with-orange/). Government hosting is still a plan: [the minister described the 2025-2030 cloud roadmap as a Cloud First migration of the public sector to compliant cloud, a sovereign cloud, a national marketplace of certified cloud offers operated by the Agency for Digital Development, and strategic alliances with the hyperscalers (November 2025)](https://ausimaroc.com/wp-content/uploads/2025/11/Livre-Blanc-RDV-AUSIM-27-nov.025-Cloud-au-Maroc-Kiosque-digital.pdf).
+
+[The national population register was built on MOSIP, an open-source identity platform, with Moroccan staff developing and operating it (2026)](https://www.bcg.com/publications/2026/advancing-africas-digital-and-ai-future-through-investment). Whether the state holds the source code and operating skills for the identity card's personalisation systems, or can exit its operating contract, was not on record as at September 2026.
+
+The AI layer is being built on the same terms: [the AI marketplace the ministry presented in September 2026 is designed so that data stay protected and the infrastructure is controlled in Morocco](https://panorapost.ma/post.php?id=57071), beside [a Software Factory pooling reusable software components across administrations](https://www.mmsp.gov.ma/fr/actualites/madame-amal-el-fallah-seghrouchni-pr%C3%A9sid%C3%A9-le-8-septembre-2026-%C3%A0-rabat-une-pr%C3%A9sentation-consacr%C3%A9e-%C3%A0-l%E2%80%99%C3%A9tat-actuel-de-la-feuille-de-route-%C2%AB-maroc-pour-l%E2%80%99intelligence-artificielle-2030-%C2%BB). The terms on which the Nexus AI Factory and Vertiv memoranda govern data jurisdiction, portability and exit had not been published as at September 2026.

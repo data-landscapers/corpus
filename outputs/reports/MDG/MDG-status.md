@@ -1,15 +1,15 @@
 ---
 title: Madagascar: status report
-compiled: 2026-09-24
+compiled: 2026-09-25
 place: MDG
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-02
 intersections_read: 25
-sources_cited: 201
-sections_written: 37
+sources_cited: 209
+sections_written: 39
 not_established: 3
-acquire_lines: 27
+acquire_lines: 25
 ---
 ## Governance
 
@@ -76,6 +76,18 @@ Citizen-facing reporting channels work at small scale: [i-Toroka, the anti-corru
 The openings are narrowing at the edges. [Digital Freedom is among Madagascar's ten best-scoring measures in the Ibrahim Index at 73.6 out of 100, 17th of 54 African states, though down 4.0 points over the decade to 2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mg.pdf), while [Media Freedom stands at 54.9, 27th and down 3.4 points](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mg.pdf) (2023). [The 2026 order to block obscene sites at internet-service-provider level came with no route of appeal](https://www.wearetech.africa/fr/fils/actualites/madagascar-annonce-le-blocage-des-sites-diffusant-des-contenus-obscenes), and [the access-to-information bill was left off the order paper of the extraordinary session that opened on 25 August 2026, despite deputies having promised at the close of committee work to reschedule it](https://www.rfi.fr/fr/afrique/20260827-madagascar-une-session-extraordinaire-de-l-assembl%C3%A9e-nationale-sans-le-projet-de-loi-sur-l-information-publique).
 
 ## Finance
+
+### Financial sustainability
+<!-- finance.sustain -->
+
+Madagascar's largest own-source digital money sits outside the finance law: [the telecommunications and ICT development fund FDTIC took Ar 100.1 billion in contributions in 2025 and granted Ar 100.4 billion, after granting Ar 91.3 billion against Ar 62.9 billion of contributions in 2024 (2025)](https://www.artec.mg/wp-content/uploads/2026/09/FDTIC-2025-Rapport-EF-fin.pdf), and [Ar 175.2 billion against Ar 88.9 billion in 2023](https://www.artec.mg/wp-content/uploads/2026/09/FDTIC-2024-Rapport-EF-fin.pdf). Inside the budget, the own-source vehicle has gone: [the 2025 finance law abolished the posts and telecommunications annex budget from 1 January 2025, paid its balance into the general budget and moved the digital ministry's staff it had paid onto the general budget](https://www.mef.gov.mg/assets/vendor/ckeditor/plugins/kcfinder/upload/files/lfi_2025/Ampliation%20LOI%20n%C2%B0%202024-025LF2025_VF_PRMLG--12-18.pdf), after [the annex had been voted Ar 7.5 billion of its own receipts for 2024 (FY2024)](https://www.mef.gov.mg/assets/vendor/ckeditor/plugins/kcfinder/upload/files/LFR2024/TOME%202_LFR2024.pdf).
+
+[The 2026 supplementary finance law funds the digital ministry's programme for the digital transformation of public services with Ar 24.1 billion of external money, and gives the finance ministry's IT, statistics and accounting directorate Ar 36.3 billion from a special Treasury account (FY2026)](http://mef.gov.mg/assets/vendor/ckeditor/plugins/kcfinder/upload/files/2026/lfr/TOME%202%20L1%20Amend%C3%A9%202026-07-08-17h15.pdf).
+
+<!-- derived -->
+The state's own money is 69.9% of the Ar 80.1 billion of digital lines in the 2026 supplementary finance law, at the revised stage, and the external part is that one programme (FY2026).
+
+The largest externally built system has lost its financier. [As PRODIGY approached its June 2026 close, the World Bank urged the government to put in place the financial and organisational arrangements to sustain the biometric database, its uses and its protection, naming the capacity of the civil-registration and identity centre CNECI a major constraint (December 2025)](https://documents1.worldbank.org/curated/en/099121925094025414/pdf/P169413-92234883-0626-410f-a2c4-c2b2e93265f7.pdf). The external window still open is DECIM, [whose connectivity targets run to March 2028](https://documents.worldbank.org/curated/en/099121625122027284/pdf/P178701-e5cb57fc-5618-472d-b195-56cc26358652.pdf).
 
 ### MoUs and other agreements
 <!-- finance.mou -->
@@ -444,3 +456,12 @@ No Gulf or Emirati digital investment, programme or agreement in Madagascar had 
 <!-- geopol.india -->
 
 No Indian government or Indian-financed digital initiative in Madagascar had been recorded as at September 2026.
+
+### Digital sovereignty
+<!-- geopol.sovereignty -->
+
+Madagascar's new biometric identity register runs on a French vendor's database system: [the identity database management system was contracted to France's IN Groupe for about €8.5 million in May 2025, with Laxton supplying the enrolment kits](https://www.biometricupdate.com/202505/madagascar-selects-in-groupe-for-e8-5m-digital-id-contract), and the system is to sit on state premises, [in the primary data centre at Tsimbazaza with a secondary site at Iavoloha](https://digital.gov.mg/en/2026/04/21/rapport-annuel-sur-la-confidentialiteet-la-protection-des-donnees-a-madagascar-2-2/). Whether the state holds the source code and operating skills for the identity management system, or can exit its contract with IN Groupe, was not on record as at September 2026.
+
+Beyond that system, state bodies are buying hosting one contract at a time: [the social-protection fund FID was tendering the lease of two cloud servers under World Bank financing in September 2026](https://www.fid.mg/location-de-deux-02-serveurs-clouds-pour-le-fid-sous-financement-eager-dcot-n01-dc-fid-dg-eager-26-29-09-2026/). No instrument fixing where state data is held or under whose law it is processed was in force as at September 2026. The terms on which the Huawei-built government network financed by China Eximbank in 2020 and the IN Groupe identity contract govern data jurisdiction, portability and exit had not been published as at September 2026.
+
+The continental frame is being written in: [the first national data policy is to follow a roadmap for domesticating the African Union Data Policy Framework](https://www.nepad.org/file-download/download/public/152048). The government's stated line is cooperation on its own terms: [the digital minister told UNESCO's AI-ethics forum in September 2026 that digital sovereignty means international cooperation without excessive dependence, not isolation, and pressed for Malagasy to be built into AI tools](https://newsmada.com/2026/09/17/intelligence-artificielle-madagascar-un-acteur-a-part-entiere/).

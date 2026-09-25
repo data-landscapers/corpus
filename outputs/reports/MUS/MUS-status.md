@@ -1,13 +1,13 @@
 ---
 title: Mauritius: status report
-compiled: 2026-09-23
+compiled: 2026-09-25
 place: MUS
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 7
-sources_cited: 114
-sections_written: 37
+sources_cited: 122
+sections_written: 39
 not_established: 2
 acquire_lines: 29
 ---
@@ -68,6 +68,20 @@ The formal channels are in place. Mauritius [operates an e-participation platfor
 Argument outside government is pointed rather than deferential, and aimed at the government's central bet. A published Mauritian analysis argues that [contract enforcement is a serious constraint on growth, and that justice reform, though less attractive than announcing a new AI strategy or launching another digital platform, may do more for the economy in the long run](https://lexpress.mu/s/mauritius-needs-faster-justice-not-just-ai-560867). [Data is being argued as a strategic asset rather than an operating cost, and data sovereignty as a strategic question](https://lexpress.mu/node/556263), with [named practitioners pressing for critical state and enterprise data to be hosted within or close to the territory and for Mauritius to position itself as a regional cloud-and-cybersecurity hub](https://lexpress.mu/node/556263).
 
 ## Finance
+
+### Financial sustainability
+<!-- finance.sustain -->
+
+Mauritius spent about a fifth of what it voted for its e-Health and e-Licensing builds in 2024-25 and nothing on its e-Passport project, while its Safe City line ran close to budget: [the Accountant-General's accounts record Rs 52.5 million spent of Rs 260 million voted for hospital e-Health, Rs 43.3 million of Rs 210 million for the e-Licensing project and nothing of Rs 50 million for the e-Passport project, against Rs 876.4 million of Rs 950 million for the Safe City project (2024/25)](https://treasury.govmu.org/Documents/Annual-Report/2025/Annual%20Report.pdf).
+
+<!-- derived -->
+The digital lines of the 2026-27 estimates come to Rs 3.51 billion appropriated, up from Rs 3.20 billion in 2025-26 (2026/27).
+
+The 2026-27 estimates print no financing source against their digital lines (2026/27). The investment programme beside them does name its financiers: [the Public Sector Investment Programme for 2026-27 to 2030-31 directs its external grants and loans to water, port, airport, road, health and national-security projects, and labels one of its 33 e-government initiatives, an electronic catch-reporting system, as EU-funded](https://nationalbudget2026.govmu.org/documents/2026_27_PSIP.pdf).
+
+The lines that keep the state's systems running are voted afresh each year. [The 2026-27 estimates carry Rs 131.9 million for running the Government Online Centre, Rs 76.1 million for its data centre and Rs 40.5 million for its Tier IV data centre (2026/27)](https://nationalbudget2026.govmu.org/documents/2026_27_MITCI.pdf), and [Rs 125 million for the national identity card unit and Rs 1.1 billion for the Safe City project (2026/27)](https://nationalbudget2026.govmu.org/documents/2026_27_PMOAll.pdf). [Cabinet put Rs 85 million a year behind free internet for households on the Social Register when the measure went live in February 2026](https://pmo.govmu.org/CabinetDecision/2026/Highlights%20of%20Cabinet%20Meeting%20Friday%2006%20February%202026.pdf).
+
+Part of the state's hosting is moving to the operator: [Mauritius Telecom's Tier IV centre at Rose-Belle is to host the e-Health system, the new government portal and Mobile ID, and to supply the backup the Government Online Centre lacks (December 2025)](https://lexpress.mu/node/552966). The commercial terms of that hosting had not been published as at September 2026.
 
 ### MoUs and other agreements
 <!-- finance.mou -->
@@ -339,3 +353,14 @@ No Gulf state, Gulf-based operator or Gulf investor held a position in Mauritius
 Mauritians can pay directly on India's payment rails: [the UPI-RuPay arrangement agreed in February 2024 is Mauritius's first bilateral cross-border payments agreement](https://lexpress.mu/node/554033), and the domestic rail now runs into India's: [MauCAS is joined to the Unified Payments Interface network-to-network, with QR payments settling in Indian rupees through a designated settlement bank](https://www.africanenda.org/uploads/files/siips_2024_MauCas_CaseStudy_en.pdf).
 
 The same relationship is now reaching the cable layer. [Mauritius's move to join the America-India Connect subsea cable programme followed discussions between Prime Minister Ramgoolam and Prime Minister Modi at the AI Impact Summit in New Delhi in February 2026](https://mitci.govmu.org/mitci/mauritius-to-join-america-india-connect-subsea-cable-programme-announces-pm-ramgoolam/), and [was announced on 16 July 2026](https://mitci.govmu.org/mitci/mauritius-to-join-america-india-connect-subsea-cable-programme-announces-pm-ramgoolam/). Payments interoperability and onward capacity are two of the more durable forms of foreign presence: neither is a building, and both are hard to unwind once traffic depends on them.
+
+### Digital sovereignty
+<!-- geopol.sovereignty -->
+
+Mauritius has told would-be suppliers of a government sovereign cloud that nothing is to leave the island: [the technology ministry required all data, metadata, operational data and encryption keys, backups and disaster recovery included, to stay in Mauritius under exclusive Mauritian jurisdiction, with the operator locally incorporated and controlled and the Government Online Centre as the designated hosting site (September 2025)](https://mitci.govmu.org/mitci/wp-content/uploads/2025/10/Clarification-No.-2.pdf). [It described wrapped hyperscaler models with local key ownership alongside fully sovereign stacks, and left key custody, portability and exit terms to the procurement itself](https://mitci.govmu.org/mitci/wp-content/uploads/2025/10/Clarification-No.-2.pdf).
+
+The core rails are run by the state. [The central bank owns and operates the MauCAS switch](https://www.africanenda.org/uploads/files/siips_2024_MauCas_CaseStudy_en.pdf), [InfoHighway runs on the government intranet from the Government Online Centre](https://ih.govmu.org), and [the identity system built by a Thales-led consortium is operated by the National Identity Card Unit](https://www.biometricupdate.com/202409/mauritius-launches-digital-id-wallet-with-thales-tech-for-govt-service-access). Whether the state holds the source code for the identity system, or can change its supplier, was not on record as at September 2026.
+
+The agreements with the hyperscalers are either unpublished or confidential. [A non-disclosure agreement has been signed among the parties to Mauritius's entry into the America-India Connect cable while negotiations with Google continue (August 2026)](https://journaldudimanche.com/google-amazon-et-maurice-les-coulisses-dun-tournant-numerique-majeur/). The terms on which Mauritius Telecom's July 2026 memorandum with Amazon Web Services governs data jurisdiction, portability and exit had not been published as at September 2026.
+
+For compute, [Mauritius Telecom asked NVIDIA for a few hundred B300 GPUs and was quoted about a year's lead time (February 2026)](https://lexpress.mu/node/554669). Regionally, [the prime minister announced a carrier-neutral green data centre and a "Digital Embassy Village" at the SADC summit in August 2026](https://lexpress.mu/node/561649).

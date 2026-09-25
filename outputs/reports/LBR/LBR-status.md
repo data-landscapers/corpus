@@ -1,13 +1,13 @@
 ---
 title: Liberia: status report
-compiled: 2026-09-15
+compiled: 2026-09-25
 place: LBR
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 8
-sources_cited: 151
-sections_written: 37
+sources_cited: 158
+sections_written: 39
 not_established: 3
 acquire_lines: 60
 ---
@@ -92,6 +92,20 @@ The argument is nonetheless being had where it can be seen. A Liberian Observer 
 
 ## Finance
 
+### Financial sustainability
+<!-- finance.sustain -->
+
+Liberia is to carry the next phase of its identity system off the budget: [OeSD International is to finance about US$54.7 million of enrolment and infrastructure under a build-operate-transfer concession that is signed but cannot be implemented until the Legislature ratifies it (September 2026)](https://frontpageafricaonline.com/liberia-nir-us54-7m-digital-id-deal-awaits-legislative-approval/), and [the company is to recover its investment over time before transferring the system to government, with the registry disclosing the agreement's details only after legislative approval (August 2026)](https://www.biometricupdate.com/202608/liberia-advances-ppp-backed-digital-id-rollout-with-osd).
+
+The treasury's own digital lines grew in the 2026 budget: [it more than doubles the identity registry's appropriation to US$2.0 million, US$1 million of it the registry's first funded investment project since 2024, raises the national postal addressing system to US$1.1 million, and opens new lines of US$1.2 million for the national cadastre, US$355,000 for digitising court records and a US$400,000 transfer for the security and data protection act (FY2026)](https://mfdp.gov.lr/uploads/documents/2026/09/fy2026-national-budget.pdf), against [US$0.8 million for the registry and US$250,000 for addressing in 2025 (FY2025)](https://mfdp.gov.lr/edocman/file_67b774ab8a839_National-BudgetFY025%20Final.pdf). [The IFMIS licence fees, US$165,850, sit on the state's own budget (FY2026)](https://mfdp.gov.lr/uploads/documents/2026/09/fy2026-national-budget.pdf).
+
+<!-- derived -->
+The digital lines of the 2026 national budget come to US$7.1 million appropriated, up from US$5.1 million in 2025 and against US$8.3 million in 2024 (FY2026). Just over half of the 2024 appropriation was spent (FY2024).
+
+[The budget's chapters carry Government of Liberia money only, and its external-resources annex lists aid by partner, sector and modality with no project lines, so no externally financed digital line is printed (FY2026)](https://mfdp.gov.lr/uploads/documents/2026/09/fy2026-national-budget.pdf). [Of the US$2.76 million voted in 2024 for the revenue authority's project digitising revenue transactions across government, US$421,401 was spent (FY2024)](https://mfdp.gov.lr/uploads/documents/2026/09/fy2026-national-budget.pdf). [The World Bank's GREAT digital-government project closes on 30 November 2030, and its appraisal commits research into financing options for the county one-stop service centres, including private operation](https://documents1.worldbank.org/curated/en/099052924164514688/pdf/BOSIB-0aa50b62-6e1c-4715-bcbb-a6d38f4bdc2e.pdf).
+
+What the state has in law is a levy on telecoms licensees: [the Universal Access Fund takes 0.5% of designated licensees' annual gross revenue, and its budget is approved each year by the Legislature within the national budget (2015)](https://lta.gov.lr/wp-content/uploads/2023/11/Regulations-on-the-Universal-Access-Fund-LTA-REG-0006-.pdf). [The telecoms regulator's chairman declined in July 2026 to disclose publicly what the authority collects in licence fees, spectrum charges and levies](https://www.liberianobserver.com/news/lta-s-revenue-secrecy-raises-transparency-questions/article_74b3f662-6af5-4871-8ec9-656979942bd1.html).
+
 ### MoUs and other agreements
 <!-- finance.mou -->
 
@@ -130,11 +144,11 @@ The regulator [announced a sweeping package of telecom reforms in July 2026 and 
 ### Data Storage
 <!-- infra.store -->
 
+[The Liberia Telecommunications Authority's cybersecurity regulations of January 2026 require every telecommunications service provider to store personal data primarily inside Liberia](https://lta.gov.lr/wp-content/uploads/2026/02/Cybersecurity-Regulations.pdf), a second sectoral hosting rule beside [the Central Bank's, under which electronic payment systems must be hosted locally or, if hosted abroad, give it unfettered access to system data and reports](https://www.dlapiperdataprotection.com/index.html?t=law&c=LR); [there is no economy-wide localisation law](https://www.dlapiperdataprotection.com/index.html?t=law&c=LR).
+
 Liberia's hosting capacity is [confined to a small number of facilities, chiefly the National Data Center operated by the state operator LTC-Mobile, which is being upgraded under the World Bank-financed GREAT project](https://ltcmobile.com.lr/public/service/5/Data-Center-Based-Services). There is nothing nearby to fall back on: [no hyperscale or regional cloud availability zone exists in or near the country, the nearest AWS region being Cape Town, and neither Google Cloud nor Microsoft Azure operates a West African region](https://aws.amazon.com/about-aws/global-infrastructure/), so cloud services reach Liberia from far away.
 
 Government's own store is the identity system rather than a shared platform, and it is [a central data centre to which enrolment centres in all 15 counties send encrypted records over a network link or, when offline, on portable storage media](https://id4africa.com/2024/ps2/PS2-4-Liberia-Final.pdf) (2024). Who controls it has not been settled: the Nairobi firm that built it [withheld full database access from the National Identification Registry over an unpaid balance the approved 2026 budget made no provision for](https://fpa.news/liberia-national-id-card-rollout-continues-to-be-held-up-by-1-7-million-unpaid-government-debt/). The Central Bank's [main and recovery site data centres are being upgraded to industry standard under an African Development Bank grant running to 2026](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-LR-H00-008).
-
-On where data may sit, [there is no economy-wide localisation law, and the one hosting rule in force is sectoral: electronic payment systems must be hosted locally or, if hosted abroad, give the Central Bank unfettered access to system data and reports](https://www.dlapiperdataprotection.com/index.html?t=law&c=LR).
 
 ### Energy
 <!-- infra.energy -->
@@ -392,3 +406,12 @@ No Gulf-financed data centre, operator equity holding or bilateral digital agree
 <!-- geopol.india -->
 
 No India Stack-derived deployment, Indian digital financing or bilateral digital agreement with India was on the record for Liberia as at August 2026.
+
+### Digital sovereignty
+<!-- geopol.sovereignty -->
+
+[The Nairobi firm that built Liberia's national identity system withheld full database access from the registry over an unpaid balance (March 2026)](https://fpa.news/liberia-national-id-card-rollout-continues-to-be-held-up-by-1-7-million-unpaid-government-debt/), and [the build-operate-transfer concession signed with Austria's OeSD International to replace it awaits ratification by the Legislature (September 2026)](https://frontpageafricaonline.com/liberia-nir-us54-7m-digital-id-deal-awaits-legislative-approval/). [The registry's executive director says identity data remains a national asset under Liberian control, and that the concession carries training and technology transfer so the state can run the system without permanent dependence on the company](https://frontpageafricaonline.com/liberia-nir-us54-7m-digital-id-deal-awaits-legislative-approval/). The terms on which the OeSD concession and the data-sharing agreement under the December 2025 health memorandum with the United States govern data jurisdiction, portability and exit had not been published as at September 2026.
+
+Where data must sit is set sector by sector. [The telecoms regulator's cybersecurity regulations of January 2026 require telecommunications providers to store personal data primarily inside Liberia and to keep an in-house cybersecurity unit so that primary defence against cyber threats is in Liberia](https://lta.gov.lr/wp-content/uploads/2026/02/Cybersecurity-Regulations.pdf), alongside the Central Bank's hosting rule for payment systems. [The unenacted National Data Governance Policy of March 2026 would define strategic and sensitive categories of data with their own storage and transfer rules, keep public-sector data subject to Liberian law wherever it is stored, and host the identity registry's and revenue authority's data in the National Data Center at the state operator LTC-Mobile and in localised cloud such as a Tier III+ facility being built in Buchanan, in line with the AU Data Policy Framework](https://mopt.gov.lr/wp-content/uploads/2022/06/2026-Liberia-Data-Governance-Policy-REVISED-CIPESA-1.pdf). No instrument fixing where state data is held or under whose law it is processed was in force as at September 2026.
+
+The payment switch is the core system the state runs itself: [the Central Bank operates the instant payment system it regulates, holding the settlement accounts](https://www.cbl.org.lr/sites/default/files/documents/NEPS-IIPS%20Directive%20-%20092325.pdf), [built on the open-source Mojaloop platform](https://mojaloop.io/central-bank-of-liberia-launches-transformational-inclusive-instant-payments-system-iips-powered-by-mojaloop/).

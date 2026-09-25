@@ -1,13 +1,13 @@
 ---
 title: Gambia: status report
-compiled: 2026-09-23
+compiled: 2026-09-25
 place: GMB
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 23
-sources_cited: 201
-sections_written: 37
+sources_cited: 207
+sections_written: 39
 not_established: 0
 acquire_lines: 39
 ---
@@ -75,6 +75,18 @@ Civil society has organised around the one instrument that does have a parliamen
 The state has also entered the information-integrity business directly. The Ministry of Information's national misinformation and disinformation response centre, [Factguard](https://factguard.gov.gm/), takes public submissions of messages, photos, videos and links by free hotline, checks them against stated evidence using trained human analysts, and publishes every determination with its sources and reasoning on a public audit trail. The [August 2023 stakeholder engagement plan for the World Bank-financed WARDIP](https://documents1.worldbank.org/curated/en/099110923135064305/pdf/P17693202273b3050bdbc01e9c010dd32f.pdf) separately sets the programme's consultation, disclosure and grievance arrangements.
 
 ## Finance
+
+### Financial sustainability
+<!-- finance.sustain -->
+
+<!-- derived -->
+The state's own money carries 41.0 per cent of the digital lines in The Gambia's approved 2026 budget, GMD 661.9 million of GMD 1,612.4 million, against 20.8 per cent of GMD 2,457.6 million in 2025. The treasury-funded lines of the Public Administration Modernization Project come to GMD 253.6 million in 2026, against GMD 77.2 million in 2025.
+
+The swing is on the external side. The World Bank's regional digital integration programme, whose grant [closes on 29 December 2028](https://documents1.worldbank.org/curated/en/099121423124039341/pdf/P1769320c38bbc0ec09b01086eb884a507b.pdf), carried [GMD 1,945.7 million of IDA money in the digital ministry's 2025 budget](https://mofea.gov.gm/wp-content/uploads/2025/01/2025_Approved_Budget-Final.pdf); [the 2026 budget carries GMD 516.7 million under it, beside a new GMD 433.9 million IDA line for regional statistics harmonisation](https://mofea.gov.gm/wp-content/uploads/2026/01/Final-Approved-2026-Budget-5.1.26-V2.pdf).
+
+The lines that keep the state's own systems running are on the treasury: the 2026 budget puts [GMD 70.4 million of domestic money into application software and licences for the government's financial systems, GMD 20.0 million into developing the integrated financial management system, and GMD 7.2 million into data storage facilities and fees for the modernisation project](https://mofea.gov.gm/wp-content/uploads/2026/01/Final-Approved-2026-Budget-5.1.26-V2.pdf).
+
+Where the private sector carries a public network, the state has declined to stand behind it: the communications minister told lawmakers in December 2025 that [the private partner taking on a state operator's network would build, operate and transfer it without any government guarantee and under a performance bond, but did not give the number of years](https://standard.gm/govt-to-sell-80-percent-shares-at-gamcel-for-d6-billion/).
 
 ### MoUs and other agreements
 <!-- finance.mou -->
@@ -412,3 +424,14 @@ Gulf-linked financing of Gambian connectivity runs through a multilateral bank r
 <!-- geopol.india -->
 
 India's recorded involvement in Gambian digital public infrastructure is a memorandum: New Delhi's own [brief on relations with The Gambia records a memorandum of understanding on digital public infrastructure cooperation signed on 3 October 2024](https://www.mea.gov.in/Portal/ForeignRelation/India-Gambia26.pdf).
+
+### Digital sovereignty
+<!-- geopol.sovereignty -->
+
+The Gambia's new identity register sits on home soil in a facility its supplier built, financed and helps run: at the June 2026 launch [officials said the database is physically hosted in The Gambia, protected under Gambian law and owned by the state, and the President said ownership of the whole system remains with Gambians although Margins ID Group supplied the technology, financing and long-term operational support](https://www.citinewsroom.com/2026/07/margins-delivers-first-gam-id-president-barrow-is-inaugural-recipient/). What the state holds outright comes at the end of the contract, when [all project assets are transferred to the government after eight years](https://standard.gm/new-id-card-to-get-10-years-validity/). A year earlier the President had promised [a unified identity system locally designed, built, operated and managed by government services, replacing the concession contract for the national ID](https://thepoint.gm/africa/gambia/headlines/govt-to-integrate-id-cards-with-electronic-civil-registration) (June 2025). Whether the state holds the source code and operating skills for the identity system, or can exit its operating contract, was not on record as at September 2026.
+
+Foreign partners have been given access to the security of the critical systems themselves. Under a January 2026 memorandum, [the Bahraini firm CTM360 is to conduct cybersecurity assessments across the regulator's IT infrastructure and other critical national infrastructure, and to offer its platform free to all Gambian critical infrastructure operators](https://pura.gm/press-release-ctm360-partners-with-pura-to-strengthen-the-gambias-national-cybersecurity-resilience/). The terms on which the CTM360 memorandum and the Margins identity contract govern data jurisdiction, portability and exit had not been published as at September 2026.
+
+For AI, the partners are being lined up before the policy: the higher education minister [agreed with the Saudi Data and Artificial Intelligence Authority in September 2026 to draw up a memorandum on AI training, scholarships and curriculum support](https://alkambatimes.com/gambia-seeks-saudi-partnership-to-embed-ai-in-universities-and-madrassas/), and The Gambia's ambassador in Geneva [announced cooperation with China's Guizhou province that includes establishing a national data laboratory in The Gambia on the Guizhou model](https://thepoint.gm/africa/gambia/headlines/ambassador-kah-delivers-keynote-address-at-chinas-big-data-expo-2026-secures-landmark-cooperation-with-guizhou-university) (August 2026).
+
+At the continental layer, the [National Data Policy validated in July 2025 is aligned with the African Union Data Policy Framework, with cross-border data flows among the areas stakeholders strengthened](https://www.eeas.europa.eu/delegations/gambia/gambia-moves-closer-stronger-data-governance-validating-its-national-data-policy-validated_en).

@@ -1,13 +1,13 @@
 ---
 title: Malawi: status report
-compiled: 2026-09-23
+compiled: 2026-09-25
 place: MWI
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 8
-sources_cited: 189
-sections_written: 37
+sources_cited: 201
+sections_written: 39
 not_established: 0
 acquire_lines: 44
 ---
@@ -64,6 +64,20 @@ The room to organise has narrowed faster than the room to speak. [Civil Society 
 The standing routes in are new and narrow. As recently as 2025 [every one of the twelve participation and feedback fields in the GovTech Maturity Index was recorded as absent for Malawi](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update); since then the anti-corruption bureau has [launched a mobile application letting citizens report corruption by text, audio or image with anonymity and case tracking](https://www.undp.org/malawi/news/malawi-launches-acb-connect-mobile-app-strengthen-fight-against-corruption) (August 2025), government has [opened a toll-free national short code for corruption, poor service delivery and abuse of office](https://itweb.africa/article/malawi-intros-solution-to-curb-graft-in-govt/4r1lyMR9YEb7pmda) (February 2026), and [Parliament and civil-society organisations met formally for the first time on 18 March 2026, launching a structured platform to replace fragmented engagement](https://mwnation.com/parliament-csos-seek-to-deepen-cooperation/). None of the three publishes a count of what it receives or what it settles. Consultation happens as events instead: the two draft digital strategies were [put to a validation workshop with a citizen feedback portal in February 2026](https://cajnewsafrica.com/2026/02/20/malawi-validates-ai-strategy-digital-transformation-policy/), and pressure on the regulator over internet pricing arrived [as an online petition](https://malawi24.com/2026/07/17/hundreds-sign-macra-internet-petition/) in July 2026. An [access to information law is in force](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), though the records it opens are [published considerably better than they can be reached and used](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mw.pdf) (2023). MACRA's own [misinformation-tracking system drew criticism as mass surveillance and a threat to free expression](https://times.mw/the-year-ict-sector-grappled-with-implementation-woes/) (2025).
 
 ## Finance
+
+### Financial sustainability
+<!-- finance.sustain -->
+
+Malawi's 2026/27 estimates more than triple the money voted to the World Bank-financed digital acceleration project, and the state's own share of the digital budget falls with it: [the Digital Malawi Project is appropriated MWK 52.53 billion on the E-Government vote in 2026/27](https://www.finance.gov.mw/documents/uploads/2026-06/Doc%204_2026-27%20Approved%20Detailed%20Document%20-%20Vol.%20III.pdf), against [MWK 15.50 billion a year earlier (2025/26)](https://www.finance.gov.mw/documents/uploads/2026-02/Doc%204_2025-26%20Approved-%20Detailed%20Vol%203.pdf), and [a SADC Regional Statistics Project adds MWK 8.76 billion on the statistics vote (2026/27)](https://www.finance.gov.mw/documents/uploads/2026-06/Doc_4%202026-27%20Approved%20Detailed%20Document%20-%20Vol.%20II.pdf).
+
+<!-- derived -->
+The domestically financed share of the digital lines is 55.9% of MWK 139.0 billion appropriated in 2026/27, down from 75.7% of MWK 106.0 billion in 2025/26, while the domestic side itself eased to MWK 77.7 billion from MWK 80.3 billion (2026/27).
+
+[The 2026/27 Financial Statement books the acceleration project in Development Part 1, the foreign-financed budget, and the new financial management system, last-mile connectivity and police digital-radio projects in Part 2, the domestically financed one](https://www.finance.gov.mw/documents/uploads/2026-06/Doc%203_%202026-27%20Approved%20Financial%20Statement.pdf). The recurrent estimates print no financing source against their digital lines (2026/27), among them the identity register's running costs: [the National Registration Bureau's identity-management sub-programme is appropriated MWK 12.58 billion in 2026/27](https://www.finance.gov.mw/documents/uploads/2026-06/Doc%204_2026-27%20Approved%20Detailed%20Document%20-%20Vol.%20III.pdf), up from [MWK 8.31 billion in 2025/26](https://www.finance.gov.mw/documents/uploads/2026-02/Doc%204_2025-26%20Approved-%20Detailed%20Vol%203.pdf). No outturn against the digital appropriations had been published as at September 2026.
+
+The external window is fixed: [the acceleration project runs for six years in all](https://www.itweb.africa/article/malawi-drives-next-wave-of-connectivity/KA3WwqdzP647rydZ), [from approval in July 2024](https://documents1.worldbank.org/curated/en/099100325094017738/pdf/P505095-2fb01803-deaa-46f1-8e6f-5bc277a0b2ce.pdf). The ministry has said government cannot carry the build alone, and [sought private investment in towers, fibre and the national data centre in August 2026, while MACRA said the Universal Service Fund it will keep drawing on for further tower sites is insufficient for the gap](https://www.ecofinagency.com/news-digital/0409-58612-malawi-seeks-private-investment-to-close-digital-connectivity-gap). No terms for any such partnership had been published as at September 2026.
+
+Cost recovery for the identity register is now in law: [the National Registration (Amendment) Regulations 2026, gazetted on 31 July, charge MWK 350 to MWK 500 per e-KYC verification, MWK 5,000 for a replacement card and MWK 1 million for an institution's access to two years of register data](https://malawi24.com/2026/08/17/nrb-hikes-registration-fees/).
 
 ### MoUs and other agreements
 <!-- finance.mou -->
@@ -370,3 +384,14 @@ The Gulf position is memoranda rather than assets. [Five memoranda were signed d
 <!-- geopol.india -->
 
 India's engagement is a standing framework with nothing delivered under it on the record. India's own bilateral brief [confirms the tele-education and tele-medicine network programme and a power-sector memorandum as the standing engagements](https://www.mea.gov.in/Portal/ForeignRelation/India-Malawi-2025.pdf), neither carrying a delivery figure. In April 2026 officials [met for a demonstration of India's unified payments interface](https://itweb.africa/article/malawi-eyes-indias-global-payments-system/O2rQGqAEjzGqd1ea), the most significant engagement in the window and one at which no memorandum was signed. Malawi already runs a national switch of its own, so what an interface built elsewhere would displace is the question the record does not answer. No Indian corporate holds a stake, contract or hosting position in the estate.
+
+### Digital sovereignty
+<!-- geopol.sovereignty -->
+
+The state took back its traffic information system in May 2026 by overriding its developer's access, nine years after the contract said it should have been handed over: [the system, built by South Africa's Fischer Consulting with the local firm Movesa and launched in 2015, was due to pass to the road traffic directorate in 2017, and the transport ministry retook it by changing the passwords](https://times.mw/government-on-rescue-operation/). [A former Attorney General had blamed the design of the contract for letting a foreign firm capture the system](https://times.mw/government-on-rescue-operation/) (2023).
+
+The core registers now sit in the state's own buildings. [The National Registration Bureau moved the national identity system's servers to the new National Data Centre in Lilongwe in January 2026](https://www.malawivoice.com/2026/01/09/nrb-to-relocate-id-system-servers-online-services-down-january-9-to-13/). [That centre runs on Nutanix hyperconverged infrastructure, with the Blantyre centre as its disaster-recovery site, under a 36-month managed-services contract that requires documented knowledge transfer and a handover to the government's own technical team](https://api.pppc.mw/api/download/647) (2025); [the Blantyre centre was operated by the ministry, the power utility ESCOM and Huawei](https://times.mw/lilongwe-data-centre-ready-may/) (April 2025). The terms on which the Huawei partnership behind the Blantyre centre and the proposed four-year Huawei roadmap govern data jurisdiction, portability and exit had not been published as at September 2026.
+
+No instrument fixing where state data is held or under whose law it is processed was in force as at September 2026. [Draft regulations of October 2025 would let a data processor move personal data out of Malawi only on the controller's written instruction and under the Data Protection Act's transfer rules](https://www.dpa.mw/download/data-protection-data-processors-engagement-regulations/?wpdmdl=8809).
+
+The compute behind any state AI is being placed in the country: [UNDP has procured and deployed country-hosted GPU capacity with Malawian public institutions, one of six African countries in its programme, with farmer advisory services and Chichewa language models among Malawi's proposed uses](https://www.undp.org/africa/publications/local-ai-compute-infrastructure-africa-lessons-six-country-hosted-deployments-governance-and-effective-use) (September 2026). Across borders, [Malawi's customs administration adopted a roadmap for customs-to-customs data exchange with four SADC neighbours in August 2026, building on a link already running with Zambia, with legal authority and data standards still unresolved](https://southernafricantimes.com/five-southern-african-countries-move-to-link-customs-data-as-trade-corridors-face-pressure-to-cut-delays/).

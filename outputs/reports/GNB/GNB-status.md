@@ -1,13 +1,13 @@
 ---
 title: Guinea-Bissau: status report
-compiled: 2026-09-23
+compiled: 2026-09-25
 place: GNB
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-27
 intersections_read: 22
-sources_cited: 134
-sections_written: 37
+sources_cited: 141
+sections_written: 39
 not_established: 3
 acquire_lines: 31
 ---
@@ -83,6 +83,18 @@ The route is used. ARN [ran a public consultation on the wholesale and retail te
 Outside that sector the channel is narrower. There is still [no access-to-information statute](https://www.unesco.org/fr/articles/guinee-bissau-validation-du-projet-de-loi-sur-lacces-linformation), and what government publishes of its own accord has improved over the decade to 2023 while [what a citizen can actually obtain has moved the other way](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-gw.pdf). Media freedom [fell 5.1 points over 2014–2023 to 53.7 of 100 in 2023, 29th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-gw.pdf), and [rural representation and participation was among the country's most deteriorated measures over the same period](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-gw.pdf).
 
 ## Finance
+
+### Financial sustainability
+<!-- finance.sustain -->
+
+<!-- derived -->
+Guinea-Bissau's treasury carries 3.0 per cent of the digital lines in the 2026 budget as appropriated, XOF 25 million of XOF 821.5 million, against 17.6 per cent of XOF 966.5 million in the 2025 budget as proposed; the grant lines are the same in both years, and the fall is on the domestic side.
+
+The [2026 budget gives the head of government's digital transformation project, which covers accounting software, a government data centre and communications, XOF 10 million of domestic money, a revenue and expenditure platform at the territorial administration ministry XOF 5 million, and the WARDIP connectivity programme XOF 10 million of counterpart beside XOF 454.6 million of grant](https://www.mef.gw/publicacoes/orcamento-geral-do-estado/2026-oge2026/viewdocument/195). The [2025 proposal had put XOF 20 million of domestic money into the same transformation project, XOF 60 million into a data platform for the public investment programme and XOF 50 million into an e-health project](https://www.mef.gw/publicacoes/orcamento-geral-do-estado/proposta-oge25/viewdocument/177). The [education management information system, at XOF 140 million, and a health digitalisation project named for Sightsavers, at XOF 201.9 million, are carried by grant with no domestic counterpart](https://www.mef.gw/publicacoes/orcamento-geral-do-estado/2026-oge2026/viewdocument/195) (2026), as in 2025. Execution against the 2026 budget had been reported only in-year, [to the second quarter](https://www.mef.gw/publicacoes/relatorio-de-execucao-orcamental/2026-relatorio-de-execucao-2o-trim-2026/viewdocument/200) (2026).
+
+The largest external commitment [came with a US$0.5 million government counterpart](https://documents1.worldbank.org/curated/en/099110923155592015/pdf/BOSIB00f52bbfa0b60b39402a346c5434ee.pdf) and [runs to 2028](https://projects.worldbank.org/en/projects-operations/project-detail/P176932). The backbone it finances was [put out to international tender in March 2026 as a public-private partnership to design, build, operate and maintain it](https://wardip.gw/guine-bissau-lanca-concurso-internacional-para-rede-nacional-de-fibra-optica/). Own-source money for connectivity runs through the regulator: a [draft strategic plan for the Universal Access and Service Fund, prepared for ARN in November 2025, records that the fund received new resources from an increase in the levy on operators' revenues](https://wardip.gw/wp-content/uploads/2026/05/Plano-Estrategico-do-UASF.pdf).
+
+Identity is carried by a vendor rather than the budget: [Semlex financed the national biometric document production centre in Bissau and the equipment in the regions](https://www.semlex.com/en/2021/11/29/guinea-bissau-renews-contract-with-semlex/) (2021), under a contract the Ministry of Justice renewed that year.
 
 ### MoUs and other agreements
 <!-- finance.mou -->
@@ -398,3 +410,12 @@ No Gulf or Emirati involvement in Guinea-Bissau's digital sector had been record
 <!-- geopol.india -->
 
 No Indian state or commercial involvement in Guinea-Bissau's digital sector had been recorded as at September 2026.
+
+### Digital sovereignty
+<!-- geopol.sovereignty -->
+
+Guinea-Bissau has begun building a home for state data of its own: [construction of a National Data Center was launched in 2025](https://www.undp.org/sites/g/files/zskgke326/files/2026-07/undp_guinea-bissau-annual_report_2025.pdf), where [the World Bank had found no government data centre and no shared services in 2022](https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/P177016084979202b08dd501a5690c82506.pdf). [The prime minister said the building for ITMA, the administration's modernisation agency, financed by Japan with EUR 1.93 million through UNDP, would house the country's data centre](https://maisafrika.com/noticias/ultimahora/guine-bissau-japao-financia-construcao-do-itma/) (March 2024).
+
+No instrument fixing where state data is held or under whose law it is processed was in force as at September 2026. [A draft data governance policy was approved in Council of Ministers in July 2025](https://ang.gw/governo-aprova-projeto-de-regulamento-sobre-a-interoperabilidade-de-sistemas-e-plataformas-digitais/), and [the WARDIP-financed interoperability framework of July 2024 names data sovereignty, residence and localisation among its principles and sets avoiding dependence on suppliers among its aims](https://wardip.gw/wp-content/uploads/2025/11/1.-Interoperability-Framework-Interoperability-Platform-and-Enterprise-Architecture_Guinea-Bissau_Portuguese_VF.pdf).
+
+The core systems were built by others. [Semlex has supplied the national system for managing and issuing biometric identity cards since 2006 and financed the national production centre in Bissau](https://www.semlex.com/en/2021/11/29/guinea-bissau-renews-contract-with-semlex/) (2021); whether the state holds the source code and operating skills for the identity card system, or can exit its contract with Semlex, was not on record as at September 2026. [The wage-bill blockchain platform was designed over four years with the IMF and Ernst & Young as technological advisor](https://www.imf.org/en/News/Articles/2024/10/02/cf-guinea-bissau-is-using-blockchain-to-boost-fiscal-transparency).

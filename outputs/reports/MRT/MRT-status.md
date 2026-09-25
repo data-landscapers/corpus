@@ -1,13 +1,13 @@
 ---
 title: Mauritania: status report
-compiled: 2026-09-15
+compiled: 2026-09-25
 place: MRT
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-20
 intersections_read: 7
-sources_cited: 124
-sections_written: 37
+sources_cited: 131
+sections_written: 39
 not_established: 4
 acquire_lines: 39
 ---
@@ -70,6 +70,20 @@ What the state publishes is what limits debate. [Disclosure of public records is
 Consultation on digital policy happens where the sponsoring ministry organises it: [the consultation run alongside drafting of the Startup Act found most respondents rating the existing regulatory framework poorly and the draft bill's provisions well](https://mtnima.gov.mr/sites/default/files/Pr%C3%A9sentation%20du%20projet%20de%20loi%20Startup%20ACT%20Mauritanie.pdf.pdf) (September 2023). Scrutiny after the fact runs through the Inspection Générale d'État, which [put the financial impact of irregularities found in its 2024–2025 exercises at over two billion ouguiyas against more than thirty billion audited, stated as recovered](https://ladepeche.mr/?p=23767), and whose unquantified findings [ran to internal-control failures, fictitious competition and unjustified direct awards, with public procurement named the domain most exposed to risk](https://ladepeche.mr/?p=23767) (August 2026).
 
 ## Finance
+
+### Financial sustainability
+<!-- finance.sustain -->
+
+World Bank lending carries more of Mauritania's digital lines in 2026: [the revised 2026 finance law carries MRU 209 million of IDA loan for the regional digital integration programme WARDIP and MRU 150 million for the regional statistics harmonisation project (FY2026)](https://www.finances.gov.mr/sites/default/files/2026-08/LFR%202026%20FR.pdf), against [MRU 75 million and MRU 80 million in the revised 2025 law (FY2025)](https://www.finances.gov.mr/sites/default/files/2025-08/LOI%20DE%20FINANCES%20RECTIFICATIVE%20POUR%20L%E2%80%99ANN%C3%89E%202025.pdf).
+
+<!-- derived -->
+The domestic-state share of the digital lines of the revised 2026 finance law is 73.5% at the revised stage, down from 87.5% in 2025 (FY2026).
+
+The lines that keep systems running are the state's own. [The revised 2026 law pays MRU 82.5 million for Microsoft licences, voted at MRU 105 million, and MRU 68.7 million for running the national registry agency ANRPTS from domestic funds, and MRU 40 million for maintaining the customs information system from a special treasury account whose receipts it does not name (FY2026)](https://www.finances.gov.mr/sites/default/files/2026-08/LFR%202026%20FR.pdf). [The state's counterpart to the EIB-financed second submarine cable was cut in the 2026 revision from MRU 64.9 million voted to MRU 23.9 million (FY2026)](https://www.finances.gov.mr/sites/default/files/2026-08/LFR%202026%20FR.pdf).
+
+What the state has in law is the universal-access fund, now being brought onto the budget. [Article 6 of the revised 2026 finance law creates a special allocation account under the digital ministry, financed from the sectoral universal-access account up to its 2026 ceiling and confined to universal access to electronic communications](https://www.finances.gov.mr/sites/default/files/2026-08/LFR%202026%20FR.pdf), after [the Council of Ministers named the lack of a clear framework for folding the fund into the state's budget and accounts among its grounds for replacing the fund's 2020 decree in July 2026](https://lequotidien.mr/?p=39470). [The fund's line stood at MRU 233.8 million in the 2026 budget (FY2026)](https://budget.mr/kc/documents/files/246962175252697284/175918640817595027/), after [the 2025 revision took it from MRU 233.8 million to MRU 834.8 million (FY2025)](https://www.finances.gov.mr/sites/default/files/2025-08/LOI%20DE%20FINANCES%20RECTIFICATIVE%20POUR%20L%E2%80%99ANN%C3%89E%202025.pdf).
+
+The newest shared platform was built with outside money: [the digital minister credited the World Bank's WARDIP programme for the national cloud inaugurated on 29 June 2026](https://www.ami.mr/archives/262878), and [no storage capacity, migration timeline or total cost was disclosed at its launch](https://www.ecofinagency.com/news-digital/3006-56943-mauritania-launches-national-cloud-to-strengthen-digital-sovereignty).
 
 ### MoUs and other agreements
 <!-- finance.mou -->
@@ -347,3 +361,14 @@ Mauritania and the Islamic Development Bank [signed an agreement in principle in
 <!-- geopol.india -->
 
 India had no established role in Mauritania's digital sector as at September 2026.
+
+### Digital sovereignty
+<!-- geopol.sovereignty -->
+
+Mauritania's state servers now run at home: [the digital transformation minister told the National Assembly on 2 July 2026 that all public-administration servers had been moved into the national data centre, and that the national cloud launched days earlier ends the state's reliance on foreign hosting platforms](https://ami.mr/fr/archives/298113). [The cloud was inaugurated at the Nouakchott data centre on 29 June 2026 with World Bank support through WARDIP](https://www.ami.mr/archives/262878).
+
+Where data may go abroad is set by the data protection authority rather than by a localisation law: [its deliberation 005/2025 makes any use of a foreign cloud by a public or private body subject to prior authorisation and to contract terms on returning and deleting the data](https://www.apd.mr/%d8%a7%d9%84%d9%85%d8%af%d8%a7%d9%88%d9%84%d8%a9-%d8%b1%d9%82%d9%85-005-2025-%d8%aa%d8%aa%d8%b9%d9%84%d9%91%d9%82-%d8%a8%d8%a7%d9%84%d8%b4%d8%b1%d9%88%d8%b7-%d8%a7%d9%84%d8%af%d9%86%d9%8a%d8%a7-%d8%a7/).
+
+Operation sits with a consortium rather than a ministry. [The state company SDIN is to own the national backbone and its technical building and to delegate their operation, maintenance and sale to the International Mauritania Telecom consortium](https://mtnima.gov.mr/fr/les-entites-sous-tutelle/), which also [runs the national data centre](https://www.eib.org/en/press/all/2025-202-inauguration-du-centre-d-hebergement-de-donnees-numeriques-de-nouakchott). The terms on which that operating arrangement governs data jurisdiction, portability and exit had not been published as at September 2026, and [an MP asked on 13 September 2026 for the data centre contract, which he put at more than five billion old ouguiya, and the RIAD administrative-network contract to be published and independently audited](https://elhourriya.net/?p=144790).
+
+The identity layer is partly open. [For the Houwiyeti digital-ID pilot, the local firm SmartMS built the back end and identity provider around TECH5's face-matching technology, and TECH5 contributed the source code of the customised solution to the open-source MOSIP platform](https://tech5.ai/mauritania-digital-id-undp-funding/). Whether the state holds the source code for the SIGPTS population register that ANRPTS runs, or needs a vendor to change it, was not on record as at September 2026.

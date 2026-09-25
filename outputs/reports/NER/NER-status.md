@@ -1,13 +1,13 @@
 ---
 title: Niger: status report
-compiled: 2026-09-24
+compiled: 2026-09-25
 place: NER
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 9
-sources_cited: 121
-sections_written: 37
+sources_cited: 132
+sections_written: 39
 not_established: 2
 acquire_lines: 33
 ---
@@ -75,6 +75,20 @@ Niger is explaining its identity reforms to the country's authorities rather tha
 The room for a wider argument has narrowed over the decade. [Media Freedom fell 12.3 points to 59.4 out of 100 in 2023, 18th of 54 African states, and Freedom of Expression & Belief fell 10.8 points to 64.2, 24th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ne.pdf). What the state publishes is not the constraint: [Niger discloses public records considerably more readily than citizens can actually reach them](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ne.pdf), and [Nigeriens rate their own infrastructure far above its measured position](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ne.pdf).
 
 ## Finance
+
+### Financial sustainability
+<!-- finance.sustain -->
+
+Donor money for Niger's digital estate falls away in the 2026 finance law, leaving the state's own lines at more than half: [the 2025 law had carried a 14.7 billion CFA franc grant-financed line to connect 2,175 localities and 6.2 billion for mass identity registration](https://finances.gouv.ne/index.php/lois-de-finances/category/160-loi-de-finances-2025), while [the largest externally financed digital line in the 2026 law is 3.0 billion to connect schools and health posts under the Smart Villages project (2026)](https://finances.gouv.ne/index.php/lois-de-finances/category/165-loi-de-finances-2026).
+
+<!-- derived -->
+The domestically financed share of the digital lines is 54.5% of 20.9 billion CFA francs appropriated in 2026, up from 19.5% of 69.3 billion in 2025; the external side fell to 9.5 billion from 55.9 billion, and the domestic side eased to 11.4 billion from 13.5 billion (2026).
+
+The tax administration pays for its own digitisation from a levy. [The 2025 finance law created a special account for the digital modernisation of the tax administration, credited with a 0.25% levy on the turnover of firms managed by the large-enterprise directorate plus a state subsidy, with a ceiling of 8.22 billion CFA francs (2025)](https://finances.gouv.ne/index.php/lois-de-finances/category/160-loi-de-finances-2025); [the 2026 law caps it at 5.56 billion (2026)](https://finances.gouv.ne/index.php/lois-de-finances/file/1303-ordonnance-n-2025-44). [The provisional year-end execution report for 2025 reports spending by economic title only](https://finances.gouv.ne/index.php/rapport-d-execution/category/166-rapport-d-execution-2025), and no outturn against the digital appropriations had been published as at September 2026.
+
+The external windows are closing. [The Smart Villages loan runs to 2026](https://projects.worldbank.org/en/projects-operations/project-detail/P167543) and [the regional identity programme's second phase to 2027](https://projects.worldbank.org/en/projects-operations/project-detail/P169594); [the 2026 law's own-budget identity line is 350 million CFA francs for the civil-status directorates' running costs and payments to registry centres (2026)](https://finances.gouv.ne/index.php/lois-de-finances/category/165-loi-de-finances-2026). [The Trans-Saharan backbone and data-centre project carries more than 30 billion CFA francs from the African Development Bank, 16.0 billion as credit and 12.76 billion as grant, against a national counterpart of 2.17 billion (March 2026)](https://www.lesahel.org/session-ordinaire-du-comite-de-pilotage-copil-au-titre-de-lannee-2026-faire-le-point-des-progres-realises-et-prendre-des-orientations-pour-la-poursuite-des-activites/).
+
+Identity is being financed by a vendor and by fees. [The passport system is a public-private partnership under which the Libyan firm Al Itissal Al Jadeed finances, builds and maintains it](https://www.lesahel.org/signature-de-deux-memorandums-dentente-entre-le-gouvernement-nigerien-et-la-societe-libyenne-al-itissal-al-jadeed-vers-une-numerisation-des-passeports-et-de-la-carte-didentite) (June 2025), and [an ordinary passport costs 45,000 CFA francs (September 2026)](https://www.biometricupdate.com/202609/niger-begins-operational-rollout-of-aes-biometric-passport). The revenue terms of that partnership had not been published as at September 2026.
 
 ### MoUs and other agreements
 <!-- finance.mou -->
@@ -373,3 +387,12 @@ No Gulf or Emirati investment in Niger's digital sector was under way as at Sept
 Indian capital entered Niger's connectivity market in January 2026, when [Airtel Niger launched "Starlink by Airtel"](https://www.actuniger.com/societe/21684-connectivite-et-innovation-airtel-niger-lance-sa-solution-starlink-by-airtel-pour-plus-dinternet-aux-usagers.html), the telco-integrated satellite service created by the Bharti Airtel–SpaceX partnership, with Niger among the first African markets to trial it. The significance is less the satellite than the channel: an Indian-owned operator, not an American one, is the party selling American capacity to Nigerien subscribers.
 
 Indian suppliers have also reached the identity programme. The Indian vendor [BioEnable ran a MOSIP-based biometric enrolment pilot in February 2025](https://www.biometricupdate.com/202502/bioenable-powers-niger-pilot-for-mosip-based-national-digital-id) under WURI-Niger and the Interior Ministry, working with dual-iris scanners across the four communes of Tanout, Mayahi, Doutchi and Tagazar — an open-source identity track running alongside, and separate from, the regional AES card.
+
+### Digital sovereignty
+<!-- geopol.sovereignty -->
+
+Niger's identity and travel documents now run on a Libyan vendor's infrastructure under the Alliance of Sahel States' standard: [public enrolment for the AES biometric passport opened in Niamey on 15 September 2026, with the Libyan firm Al Itissal Al Jadeed in charge of the identity infrastructure](https://www.biometricupdate.com/202609/niger-begins-operational-rollout-of-aes-biometric-passport), [completing the AES states' replacement of the ECOWAS travel regime](https://www.modernghana.com/news/1526691/from-ecowas-to-aes-niger-completes-its-passport.html). [The memoranda of June 2025 give the firm the design, financing, construction and maintenance of the passport system and the new electronic identity card under a public-private partnership](https://www.wearetech.africa/en/fils-uk/news/tech/niger-moves-to-modernize-id-system-with-biometric-e-id-and-e-passport). The terms on which the Al Itissal Al Jadeed agreements govern data jurisdiction, portability and exit had not been published as at September 2026, and where the biometric identity database is hosted, and under whose jurisdiction, had not been published as at September 2026.
+
+The state's own hosting is close to built. [Civil works on the national data centre were finished and its technical equipment was being installed in June 2026](https://anp.ne/communication-et-numerique-le-niger-ambitionne-de-devenir-un-hub-regional-des-telecommunications/), and [its feasibility study sized it to host government applications and to sell hosting to businesses from part of its space](https://www.sofrecom.com/news-insights/etude-de-faisabilite-pour-la-construction-d-un-data-center-national.html) (June 2026). No instrument fixing where state data is held or under whose law it is processed was in force as at September 2026. [The data protection law lets personal data leave only for states offering equivalent protection, with authorisation](https://www.hapdp.ne/uploads/files/loi_relativea%CC%80laprotectiondesdonne%CC%81esa%CC%80caracte%CC%80repersonnel.pdf), a power that [passed to the ministries of justice and the interior when the data protection authority was abolished in June 2026](https://www.africadataprotection.org/actualites/Niger-Suppression-de-la-Haute-Autorite-de-Protection-des-Donnees-a-caractere-Personnel-et-transfert-de-ses-competences.html).
+
+The continental layer is the AES rather than ECOWAS. [The 2025 finance law gave 300 million CFA francs to interconnecting the customs information systems of the AES states](https://finances.gouv.ne/index.php/lois-de-finances/category/160-loi-de-finances-2025), and [Niger sent its civil-registration, digital-agency, biometric-card, legal and finance officials to study Burkina Faso's identification system in July 2026](https://www.journalduniger.com/niger-burkina-cooperation-identite-numerique-biometrie/).

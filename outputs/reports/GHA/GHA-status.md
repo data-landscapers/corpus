@@ -1,13 +1,13 @@
 ---
 title: Ghana: status report
-compiled: 2026-09-23
+compiled: 2026-09-25
 place: GHA
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 15
-sources_cited: 196
-sections_written: 37
+sources_cited: 212
+sections_written: 39
 not_established: 3
 acquire_lines: 60
 ---
@@ -66,6 +66,19 @@ There is no standing channel through which the public reaches policy. Ghana has 
 The debate that does happen is loud and largely external. The head of the IMANI think tank has attacked the [One Million Coders programme for lacking a strategy for jobs](https://www.myjoyonline.com/one-million-coders-approach-lacks-strategy-for-jobs-franklin-cudjoe/), and civil society has pressed publicly for [community-network licensing reform](https://www.myjoyonline.com/isoc-ghana-urges-policy-reforms-to-expand-community-networks-and-bridge-rural-digital-divide/). The space for it is good by continental standards and narrowing: [digital freedom scores 86.0 and ranks 4th of 54, down 7.7 points over the decade to 2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-gh.pdf), and [media freedom 69.7 and 7th, down 11.6 points](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-gh.pdf). The state also holds [power, on a court order, to have service providers block, filter and take down content, with a penalty of 100 penalty units for each day a provider continues to fail to comply](https://csa.gov.gh/resources/cybersecurity_Act_2020%28Act_1038%29.pdf), and the cyber regulator has [announced plans for a cybersecurity press corps of journalists trained to report on cyber threats](https://www.myjoyonline.com/csa-to-establish-press-corps-to-strengthen-cybercrime-reporting/).
 
 ## Finance
+
+### Financial sustainability
+<!-- finance.sustain -->
+
+Ghana's identity system pays part of its own way on fees Parliament set: [the Ghana Card fee schedule in force since 2 February 2026, approved under L.I. 2512, charges GH¢30 for first registration from age 25 and GH¢200 for a replacement](https://www.myjoyonline.com/revised-ghana-card-fees-approved-by-parliament-not-unilaterally-introduced-nia/), and the identity authority's [2026 appropriation of GHS 430.5 million is GHS 321.1 million from the treasury and GHS 109.4 million of retained fees](https://www.mofep.gov.gh/sites/default/files/budget-statements/Appropriation%20%28%20No.%202%29%20Act%2C%202025%20Act%201163_0.pdf), [GHS 100 million of them from the Ghana Card project](https://mofep.gov.gh/sites/default/files/budget-statements/2026-Budget-Statement-and-Economic-Policy.pdf).
+
+The card rests on a state obligation. [Margins ID Group's costs were to be recovered from the project's proceeds over a 15-year term](https://nia.gov.gh/cost-of-ghana-card-project/) (2019), and in September 2025 the authority's acting head said [government owed the partner about US$64–68 million under a Government Support Agreement that obliges the state to top up any monthly shortfall, and that SIM registration had not brought in the verification income expected](https://myrepubliconline.com/nia-threatens-service-cut-over-gra-nhia-and-passport-office-457m-debt/).
+
+Much of the rest runs on retained income. In the 2026 estimates [the telecoms regulator's GHS 483.8 million is all its own income, and GHS 10.5 million of the IT agency's GHS 22.9 million](https://mofep.gov.gh/sites/default/files/pbb-estimates/2026/2026-PBB-MOCD.pdf), while [passport fees fund GHS 128.8 million of the GHS 148.8 million passport programme](https://www.mofep.gov.gh/sites/default/files/budget-statements/Appropriation%20%28%20No.%202%29%20Act%2C%202025%20Act%201163_0.pdf). The universal-service fund's retained income is budgeted at [GHS 198.8 million for 2026](https://mofep.gov.gh/sites/default/files/budget-statements/2026-Budget-Statement-and-Economic-Policy.pdf), against [GHS 2.0 million for 2025](https://mofep.gov.gh/sites/default/files/budget-statements/2025-Budget-Statement-and-Economic-Policy_v5.pdf).
+
+The instruments are being rebuilt: a draft bill would [turn that fund into a wider Digital Economy and Innovation Development Fund](https://amchamghana.org/2026/07/30/amcham-ghana-joins-key-stakeholder-talks-on-new-digital-economy-fund/) (July 2026), [a draft NITA bill carries a 1% levy on ICT services](https://www.myjoyonline.com/what-are-they-hiding-tech-consultant-questions-rush-for-15-digital-bills/) (May 2026), and [the Cybersecurity Fund was still to be made operational before the end of 2026](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/).
+
+External money sits on the platforms. The 2026 estimates carry [GHS 138 million of donor funding on the ministry's ICT infrastructure and regulation sub-programme](https://mofep.gov.gh/sites/default/files/pbb-estimates/2026/2026-PBB-MOCD.pdf), against [GHS 81.5 million in 2025](https://www.mofep.gov.gh/sites/default/files/pbb-estimates/2025/2025-PBB-MOCD.pdf), and [the refresh of the government data centres in Accra and Kumasi is procured under an IDA credit](https://moc.gov.gh/wp-content/uploads/2023/03/Final-Bidding_Document_for_Data_Center_Upgrade.pdf) (June 2026) through the [World Bank project that runs to 2027](https://projects.worldbank.org/en/projects-operations/project-detail/P176126). Parliament approved [three digital tax-administration agreements in July 2026 over the Minority's objection that the VAT platform's foreign operator could take up to 3% of the revenue collected](https://dailyguidenetwork.com/minority-rejects-passed-3-digital-tax-deals/).
 
 ### MoUs and other agreements
 <!-- finance.mou -->
@@ -364,3 +377,16 @@ No Gulf or Emirati digital infrastructure, financing commitment or bilateral tec
 <!-- geopol.india -->
 
 No Indian state or Indian-financed digital infrastructure, financing commitment or bilateral technology agreement with Ghana was on record as at August 2026.
+
+### Digital sovereignty
+<!-- geopol.sovereignty -->
+
+Ghana turned down US health money over data terms: [after a second review the government rejected a US$109m health aid proposal because it required access to health data and pathogens for US companies](https://www.bmj.com/content/394/bmj-2026-100192) (April 2026), the Data Protection Commission's executive director saying [the proposed data-sharing agreement reached not only health data sets but metadata, dashboards, reporting tools, data models and data dictionaries](https://english.news.cn/20260730/b5516c3a8f034f38aae45823311057c6/c.html).
+
+The state learned the difference between paying for a system and owning it in health. The health minister said in October 2025 that [the LHIMS patient-record system's cloud infrastructure was built in India, that its software was not owned by the state, and that the ministry had offered the vendor a maintenance agreement before replacing it with a platform under state control](https://www.myjoyonline.com/health-ministry-launches-new-digital-system-to-replace-failing-lhims-platform/).
+
+Government hosting is the state's own: [NITA's national data centres in Accra and Kumasi are the central hubs for government IT operations, and, about 90% full and running network equipment past end of support, are being refreshed with a pilot AI cloud, the bid documents scoring knowledge transfer to NITA](https://moc.gov.gh/wp-content/uploads/2023/03/Final-Bidding_Document_for_Data_Center_Upgrade.pdf) (June 2026). Customs is the exception: [the customs management system runs in Ghana Link's privately operated Tier IV data centre in Kumasi](https://www.myjoyonline.com/ghana-link-secures-iso-iec-270012022-certification-for-new-tier-iv-data-centre-supporting-icums/) (February 2026). No instrument fixing where state data is held or under whose law it is processed was in force as at September 2026.
+
+The ministry is also [taking the .gh root out of the private custody it has sat in since 1996 and into state control](https://www.gbcghanaonline.com/general/gh-domain-george/2026/) (January 2026), with [the redelegation agreement due before the end of 2026](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/). The terms on which the Ghana Card partnership with Margins ID Group and Ghana Link's hosting of the customs system govern data jurisdiction, portability and exit had not been published as at September 2026.
+
+For AI, [Cabinet approved US$250 million for a National AI and Computing Centre to give researchers and start-ups sovereign access to high-performance computing, and the minister urged governments to structure their data partnerships with foreign cloud providers to protect strategic data](https://www.citinewsroom.com/2026/09/govt-rolls-out-measures-to-address-ghanas-ai-digital-infrastructure-gaps-sam-george/) (September 2026).

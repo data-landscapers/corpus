@@ -1,13 +1,13 @@
 ---
 title: Guinea: status report
-compiled: 2026-09-23
+compiled: 2026-09-25
 place: GIN
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 8
-sources_cited: 134
-sections_written: 37
+sources_cited: 149
+sections_written: 39
 not_established: 2
 acquire_lines: 45
 ---
@@ -72,6 +72,20 @@ The room for that kind of argument has been narrowing. [Digital Freedom is one o
 What the public can see of digital decisions is thin. Guinea ranks among its own worst indicators on [disclosure of public records](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-gn.pdf), and on the identity programme specifically, [the July 2026 memorandum covering the security of the national identity register was announced with no value or duration](https://mediaguinee.com/2026/07/identite-numerique-loneci-et-ng-tech-innovation-scellent-un-partenariat-strategique-pour-le-rnpp/). Officials' own account of what citizens face is administrative: at the August 2026 civil-registration commemoration, [registry officials named information gaps and material constraints as barriers to citizens obtaining civil-status documents](https://www.guinee360.com/10/08/2026/guinee-manque-dinformations-contraintes-materielles-les-freins-a-lacces-a-letat-civil/).
 
 ## Finance
+
+### Financial sustainability
+<!-- finance.sustain -->
+
+<!-- derived -->
+The state's own money carries 49.4 per cent of the digital lines in Guinea's 2025 initial finance law as appropriated, GNF 320.4 billion of GNF 648.0 billion, against 39.7 per cent of GNF 637.8 billion in 2024.
+
+The movement is on both sides. External money for [digitising and securing the land cadastre stood at GNF 192.2 billion in 2024, and for the agro-pastoral digitalisation project at GNF 126.2 billion](https://mbudget.gov.gn/wp-content/uploads/loi-de-finances-2024-1.pdf); [in 2025 they fell to GNF 160.0 billion and GNF 46.5 billion, while the treasury's line for modernising the tax directorate's information system rose to GNF 52.5 billion from GNF 8.0 billion](https://mbudget.gov.gn/wp-content/uploads/loi-de-finance-2025.pdf). The 2025 law prints its external lines, among them [GNF 23.4 billion for the regional digital integration programme, without naming a funder](https://mbudget.gov.gn/wp-content/uploads/loi-de-finance-2025.pdf); that programme's [USD 60 million IDA credit to Guinea](https://documents1.worldbank.org/curated/en/099110923155592015/pdf/BOSIB00f52bbfa0b60b39402a346c5434ee.pdf) sits in [a first phase that runs to 2028](https://projects.worldbank.org/en/projects-operations/project-detail/P176932).
+
+Guinea has put a new own-source instrument in place: [a decree of 21 May 2026 sets a Digital Compliance Fee of 3% on foreign streaming, cloud, software, digital advertising and e-commerce services, moving to tiered rates of 1.5% to 7% after twelve months, and creates a Digital Sovereignty Fund financed mainly from it for infrastructure, cybersecurity, training and innovation](https://www.ecofinagency.com/news-digital/2605-55916-guinea-introduces-3-tax-on-foreign-digital-services). The older one is in the telecoms statute: [the 2015 law finances universal service from an operators' contribution that the regulator collects into a separate account, with collection and disbursement left to two presidential decrees](https://cnt.gov.gn/archive.assemblee/www.assemblee.gov.gn/l2015018an-relative-aux-telecommunications-et-aux-technologies-de-linformation-en-republique-de.html).
+
+The central bank is [fitting out and certifying a Tier III data centre of its own from its own resources](https://www.africaguinee.com/app/uploads/2026/01/Avis-dappel-Projet-DATACENTER.pdf) (January 2026).
+
+Guinea opened 2026 on [provisional twelfths that carried the 2025 appropriations forward](https://mbudget.gov.gn/wp-content/uploads/loi-de-finances-en-vigueur.pdf), until [the 2026 initial finance law was enacted in March 2026](https://guineelex.com/lois/loi-l-2026-010-cnt).
 
 ### MoUs and other agreements
 <!-- finance.mou -->
@@ -343,3 +357,14 @@ Guinea had no Gulf-financed or Gulf-operated digital infrastructure or platform 
 <!-- geopol.india -->
 
 Guinea had no Indian-financed or Indian-built digital infrastructure or platform presence as at August 2026.
+
+### Digital sovereignty
+<!-- geopol.sovereignty -->
+
+A year after it opened, the national data centre built to bring home state data [hosted abroad at an estimated cost of nearly US$5 million a year](https://presidence.gov.gn/la-guinee-se-dote-de-son-premier-data-center-national-et-du-domaine-gn-une-avancee-majeure-pour-la-souverainete-numerique/) still had no settled operator: [in September 2026 the prime minister was looking for qualified staff and, if needed, an interim manager](https://guineenews.org/2026/09/14/data-center-national-bah-oury-met-sous-pression-les-cadres-des-telecoms-pour-loperationnalisation-de-cette-linfrastructure-de-dix-millions-usd/), and [the digital ministry had set up a technical committee in July 2026 to examine COREX group's proposals for operating it](https://horoya.net/2026/07/15/transformation-numerique-le-mceni-accelere-les-projets-de-data-center-national-et-de-technopole-avec-le-groupe-corex/).
+
+The rule for where public data sits is still being studied: [a World Bank-supported study on hosting public data and a sovereign cloud was presented to state bodies in May 2026](https://guineejet.info/cloud-souverain-lande-et-roland-berger-echangent-a-conakry/), and [drafting of a National Data Governance Strategy began in June 2026](https://www.ecofinagency.com/news/2606-56858-guinea-begins-work-on-national-data-governance-strategy). The one binding transfer rule has no gatekeeper: [the 2016 data protection law lets a controller transfer personal data to a non-ECOWAS state only with the Autorité de Protection des Données's authorisation and where that state's protection is equivalent or higher](https://assembleeguinee.org/loi-ndeg-l-2016-relative-la-cybersecurite-et-la-protection-des-donnees-caractere-personnel-en), and that [authority has never been established](https://cnt.gov.gn/apdp/).
+
+The same ground is being offered from outside. In July 2026 the digital minister's talks with Huawei in China [covered the national fibre network, a national data centre and a sovereign cloud, and are to lead to a memorandum and a framework agreement](https://techafricanews.com/2026/07/03/guinea-and-huawei-deepen-strategic-partnership-to-advance-digital-transformation/). Huawei is already [the technology partner for the Safe City surveillance network, whose financing Guinea ratified by law in June 2026](https://www.guinee360.com/17/06/2026/guinee-mamadi-doumbouya-donne-le-feu-vert-a-un-vaste-reseau-de-videosurveillance-urbaine/). The terms on which the Safe City network and the July 2026 memorandum with NG Tech Innovation on the identity register govern data jurisdiction, portability and exit had not been published as at September 2026.
+
+Over foreign platforms the state has taken a lever of its own: the May 2026 decree on foreign digital services [requires providers to appoint a local representative within 90 days and creates a platform to monitor foreign digital services used in Guinea](https://www.ecofinagency.com/news-digital/2605-55916-guinea-introduces-3-tax-on-foreign-digital-services).

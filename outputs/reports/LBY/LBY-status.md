@@ -1,13 +1,13 @@
 ---
 title: Libya: status report
-compiled: 2026-09-15
+compiled: 2026-09-25
 place: LBY
 region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-10
 intersections_read: 7
-sources_cited: 127
-sections_written: 37
+sources_cited: 137
+sections_written: 39
 not_established: 0
 acquire_lines: 50
 ---
@@ -75,6 +75,20 @@ The one participatory system that has been digitised is the electoral one. The H
 
 ## Finance
 
+### Financial sustainability
+<!-- finance.sustain -->
+
+[Libya adopted its first unified state budget in more than thirteen years on 11 April 2026, by agreement between the House of Representatives and the High Council of State, which the Central Bank presented as a step towards ending the country's financial division](https://cbl.gov.ly/en/governor-of-the-central-bank-of-libya-announces-adoption-of-the-first-unified-budget-in-more-than-13-years/). No 2026 budget for the digital estate had been read as at September 2026.
+
+[The last budget law enacted before it, the House of Representatives' Law 9 of 2024, voted LYD 1.06 billion to the Civil Status Authority, LYD 1.05 billion of it salaries, LYD 41.0 million to the office of the Ministry of Communications and Informatics and LYD 5.5 million to the National Information Security and Safety Authority (FY2024)](https://parliament.ly/wp-content/uploads/2024/12/%D8%A7%D9%84%D8%B9%D8%AF%D8%AF-%D8%A7%D9%84%D8%B9%D8%A7%D8%B4%D8%B1-%D8%A7%D9%84%D8%B3%D9%86%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%AC%D8%B1%D9%8A%D8%AF%D8%A9-%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A%D8%A9.pdf). [It finances every chapter from oil and sovereign revenue, prints no external financing, and leaves development spending to the Development and Reconstruction Fund outside the law (FY2024)](https://parliament.ly/wp-content/uploads/2024/12/%D8%A7%D9%84%D8%B9%D8%AF%D8%AF-%D8%A7%D9%84%D8%B9%D8%A7%D8%B4%D8%B1-%D8%A7%D9%84%D8%B3%D9%86%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%AC%D8%B1%D9%8A%D8%AF%D8%A9-%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A%D8%A9.pdf).
+
+<!-- derived -->
+The digital lines of the 2024 budget law come to LYD 1.17 billion appropriated, nine-tenths of it civil-registry salaries, and the unenacted 2025 bill proposed LYD 1.13 billion (FY2024).
+
+What was spent is on record for one body. [The Central Bank recorded LYD 41.2 million spent on the General Authority for Communications and its affiliated bodies in 2025, LYD 5.1 million of it on development, against LYD 224.1 million of telecommunications revenue (2025)](https://cbl.gov.ly/micifaf/2026/01/%D8%A8%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D8%AF-%D9%88%D8%A7%D9%84%D8%A5%D9%86%D9%81%D8%A7%D9%82-%D9%84%D8%B4%D9%87%D8%B1-%D8%AF%D9%8A%D8%B3%D9%85%D8%A8%D8%B1-2025.pdf), and [nothing on that authority's development chapter in January and February 2026 (February 2026)](https://cbl.gov.ly/micifaf/2026/03/%D8%A8%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D8%AF-%D9%88%D8%A7%D9%84%D8%A5%D9%86%D9%81%D8%A7%D9%82-%D9%84%D8%B4%D9%87%D8%B1-%D9%81%D8%A8%D8%B1%D8%A7%D9%8A%D8%B1-2026-2.pdf).
+
+[The Tripoli government's 2025 regulation of public-private partnership contracts bars a private partner from owning a project or its assets permanently, returns them to the contracting authority on expiry and puts disputes before Libyan courts (2025)](https://lawsociety.ly/legislation/%d9%84%d8%a7%d8%a6%d8%ad%d8%a9-%d8%aa%d9%86%d8%b8%d9%8a%d9%85-%d8%b9%d9%82%d9%88%d8%af-%d8%a7%d9%84%d8%b4%d8%b1%d8%a7%d9%83%d8%a9-%d8%a8%d9%8a%d9%86-%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9%d9%8a%d9%86/). The one external programme aimed at the financing machinery has a closing date: [the EU- and French-funded INVEST4Libya, working with the Ministry of Finance, the Central Bank and the Audit Bureau on public financial management and on green and digital investment, runs to 30 June 2029](https://expertisefrance.fr/en/projects/invest4libya).
+
 ### MoUs and other agreements
 <!-- finance.mou -->
 
@@ -87,10 +101,9 @@ Not all of it is telecoms: [UNDP and the General Information Authority signed a 
 ### New investments
 <!-- finance.new -->
 
-<!-- derived -->
-External finance for Libya's digital development runs to a single commitment, a French-funded skills project of 2023 to 2024.
+[The European Union and France are funding INVEST4Libya, EUR 11.2 million from January 2026 to June 2029, which Expertise France runs with the Ministry of Finance, the Central Bank of Libya and the Audit Bureau to reform public financial management, bring digital and green finance into financial regulation and support digital and green entrepreneurship](https://expertisefrance.fr/en/projects/invest4libya).
 
-That commitment is [Raqameyon, a national digital-skills programme funded by France and implemented by Expertise France from March 2023 to April 2024](https://www.expertisefrance.fr/en/projects/raqameyon-empowering-tomorrows-digital-innovators-libya), worth less than a million euros and aimed at public- and private-sector employees, women, entrepreneurs and the Ministry of Education. It is [the second consecutive French project of its kind](https://www.expertisefrance.fr/en/projects/raqameyon-empowering-tomorrows-digital-innovators-libya), following Expertise France's earlier Raqam-e.
+It follows [Raqameyon, a national digital-skills programme funded by France and implemented by Expertise France from March 2023 to April 2024](https://www.expertisefrance.fr/en/projects/raqameyon-empowering-tomorrows-digital-innovators-libya), worth less than a million euros and aimed at public- and private-sector employees, women, entrepreneurs and the Ministry of Education. It is [the second consecutive French project of its kind](https://www.expertisefrance.fr/en/projects/raqameyon-empowering-tomorrows-digital-innovators-libya), following Expertise France's earlier Raqam-e.
 
 What movement there is elsewhere is domestic or vendor-led rather than donor-funded. The Central Bank of Libya used [EPAIX 2026 in June](https://libyaherald.com/2026/06/central-bank-of-libya-governor-inaugurates-2nd-libya-international-electronic-payment-exhibition-epaix-2026) to launch international Visa acceptance through local point-of-sale terminals and a national stand-in processing service meant to keep payments running through communications or banking disruption, and in the east [the UAE's Network International is building a payments and card stack for a Benghazi bank founded in 2024](https://alwasat.ly/news/economy/516048) (April 2026).
 
@@ -361,3 +374,14 @@ The Gulf's entry into Libyan digital finance is on the eastern side of the count
 <!-- geopol.india -->
 
 India's presence in Libya is in skills and banking software rather than infrastructure. [Libya and India announced cooperation to qualify Libyan national cadres in quantum computing and artificial intelligence in February 2026](https://libyaherald.com/2026/02/libyan-indian-cooperation-to-qualify-national-cadres-in-quantum-computing-and-artificial-intelligence). Separately, [Tadamon Bank has engaged the Indian vendor JMR Infotech to build an AI chatbot and interactive voice response service for its customers (April 2026)](https://alwasat.ly/news/economy/516048).
+
+### Digital sovereignty
+<!-- geopol.sovereignty -->
+
+[Libya's June 2026 AI strategy commits the Tripoli government to a Libya Sovereign Cloud in 2026-2027, led by the communications authority with the state telecoms companies, and to high-performance computing centres built with national operators to keep data sovereign and cut reliance on services abroad](https://www.gia.gov.ly/wp-content/uploads/2026/06/Libya_AI_Strategy_2025_2030.pdf).
+
+No rule yet decides what goes there. [The communications authority said in February 2026 that companies were providing data-storage services without official permits and that it would draft Libya's first legislation on data centres and cloud computing](https://lana.gov.ly/post.php?id=351103&lang=ar); [a national cloud computing policy had been proposed in January 2026](https://www.gia.gov.ly/en/2026/01/01/the-general-information-authority-presents-the-proposed-national-cloud-computing-policy-in-collaboration-with-escwa/), and [the Central Bank's bar on banking data leaving Libya binds only the institutions it supervises](https://informatics.ly/en/session/personal-data-protection-regulation-session/). No instrument fixing where state data is held or under whose law it is processed was in force as at September 2026.
+
+What is known of hosting is scattered. [The Ministry of Health's information centre hosts the national health statistics system and the health portal on space bought on Al-Madar's cloud](https://moh.gov.ly/pages/centers-offices/health-info-center), [the Central Bank runs the LYPay and OnePay rails itself](https://cbl.gov.ly/en/instant-payment-services-statistics/), and [the state's international carrier LITC has sold private links to Microsoft's data centres abroad as an Azure ExpressRoute partner since 2021](https://www.thetripolipost.org/microsoft-names-litc-azure-expressroute-partner/). Where the national identity database is hosted, and under whose jurisdiction, had not been published as at September 2026.
+
+[LPTIC's January 2026 memorandum with KBR covers data centres alongside 5G and cybersecurity](https://libyaherald.com/2026/01/libyan-telecoms-holding-co-signs-mou-with-us-company-kbr-to-develop-infrastructure-and-5g-networks). The terms on which the KBR memorandum governs data jurisdiction, portability and exit had not been published as at September 2026.

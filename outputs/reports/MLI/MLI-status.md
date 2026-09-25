@@ -1,13 +1,13 @@
 ---
 title: Mali: status report
-compiled: 2026-09-21
+compiled: 2026-09-25
 place: MLI
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 7
-sources_cited: 121
-sections_written: 37
+sources_cited: 133
+sections_written: 39
 not_established: 4
 acquire_lines: 46
 ---
@@ -81,6 +81,18 @@ Official argument about online speech is running through sovereignty. [The justi
 Civil society is working the same ground from the other side. [Women Tech Mali launched Citoyens 2.0 in August 2026, a Malian application for countering disinformation, alongside a public campaign titled "Le vrai avant le viral"](https://www.maliweb.net/technologie/citoyens-20-women-tech-mali-lance-une-application-pour-lutter-contre-la-desinformation-3119410.html), and [a representative of the ministry responsible for communication and the digital economy endorsed it as bringing citizens closer to institutions, naming institutions, media, content creators and ordinary users as the four actors a disinformation response requires](https://www.maliweb.net/technologie/citoyens-20-women-tech-mali-lance-une-application-pour-lutter-contre-la-desinformation-3119410.html).
 
 ## Finance
+
+### Financial sustainability
+<!-- finance.sustain -->
+
+Mali's universal access fund cut its 2026 budget by a third after spending 8% of it in the first half: [the AGEFAU board revised the budget from FCFA 41.15 billion to FCFA 27.89 billion in July 2026, the agency having collected FCFA 23.18 billion and spent FCFA 3.19 billion (2026)](https://primature.ml/11e-session-ordinaire-du-conseil-dadministration-de-lagence-de-gestion-du-fonds-dacces-universel/). [The government told the UN that the fund mobilised US$72 million in 2025 for network extension and telemedicine](https://www.un.org/global-dialogue-ai-governance/sites/default/files/2026-07/52.republic_of_mali.pdf), and [it has committed under four-year conventions with the education and employment ministries to connect every secondary, technical and vocational school by the end of 2027](https://primature.ml/signature-a-la-primature-de-convention-entre-agefau-et-ministeres-charges-de-leducation-et-de-lemploi/).
+
+[The 2025 credit-opening order carries FCFA 163.5 billion of external financing across 46 projects, none of them a digital line, and gives the ICT agency AGETIC FCFA 2.49 billion, the data-protection authority FCFA 2.06 billion and the finance ministry's tax and financial IT unit FCFA 1.56 billion (FY2025)](https://finances.ml/sites/default/files/2025-02/Arr%C3%AAt%C3%A9%20d%27Ouverture%20des%20Credits%20-1er%20semestre%202025.pdf).
+
+<!-- derived -->
+All of the FCFA 20.5 billion of digital lines in the 2025 order is the state's own money, against FCFA 19.6 billion in 2024 (FY2025).
+
+The 2026 bill puts money on keeping the identity register in service: [it proposes FCFA 636.4 million to extend the arrangements that sustain RAVEC, the biometric civil census, and FCFA 1 billion to build the civil-status data-processing centre (FY2026)](https://finances.ml/sites/default/files/2025-10/DPPD-PAP2026-2028_27-09-2025.pdf). No outturn against the digital appropriations of the state budget had been published as at September 2026.
 
 ### MoUs and other agreements
 <!-- finance.mou -->
@@ -362,3 +374,12 @@ No Gulf state or Gulf-based development financier had a digital-sector financing
 <!-- geopol.india -->
 
 India had no digital-sector financing commitment or cooperation programme in Mali as at September 2026.
+
+### Digital sovereignty
+<!-- geopol.sovereignty -->
+
+Mali is bringing state hosting home: [the national Tier III data centre inaugurated in Bamako at the start of February 2026 is to host the state's strategic data, e-administration platforms and public digital services and, in the short term, shared infrastructure for Niger and Burkina Faso](https://itweb.africa/article/mali-unveils-modern-tier-iii-data-centre/KA3WwMdzGamvrydZ), and [the communications minister says it was financed and is run locally, the three Sahel states having pledged to repatriate their data (February 2026)](https://africa24tv.com/mali-un-data-center-de-derniere-generation-inaugure-a-bamako). No instrument fixing where state data is held or under whose law it is processed was in force as at September 2026. [The fourth Semaine du Numérique in August 2026 recommended a data-management law, a law making the state company SMTD-SA the sole national operator of transport, transmission, storage and broadcast infrastructure, and a Sahel-confederation protocol harmonising AI governance](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html).
+
+[The state raised its stake in the incumbent operator SOTELMA from 49% to 56% in June 2026, leaving Maroc Telecom a minority shareholder](https://africa.businessinsider.com/local/lifestyle/17-years-after-privatization-mali-regains-control-of-a-strategic-telecom-asset/lkc81zm). [Passport production resumed in October 2025 under a new Malian-law contractor, SECU-PASS Mali](https://www.securite.gouv.ml/index.php/e-passeport-aes-securise-le-ministre-de-la-securise-et-de-la-protection-civile-lance-officiellement-la-reprise-de-la-production); whether the state holds the source code and operating skills for the e-passport system, or can exit that contract, was not on record as at September 2026. The terms on which the 2018 China Eximbank-financed Mali Digital 2020 contract, covering the government intranet and surveillance cameras, governs data jurisdiction, portability and exit had not been published as at September 2026. The software layer stays licensed from abroad: [the ICT agency AGETIC's 2026 procurement plan renews government messaging and collaboration licences at FCFA 240 million, with Windows and Microsoft Office, Linux server, Fortigate and SolarWinds licences beside them (2026)](https://www.malipages.com/appel-offre/plan-de-passation-des-marches-2026-agetic/).
+
+The state's AI runs on its own premises: [the state intelligence service's Lakana 360 surveillance platform, engineered with a foreign commercial AI model, runs fully on premises on local models, so the model vendor's closure of the builder's account did not affect it (September 2026)](https://www.anthropic.com/threat-intelligence-report-september-2026). [Mali asked the UN's global dialogue on AI governance in July 2026 for binding rules guaranteeing developing countries the sovereign right to govern their national data](https://www.un.org/global-dialogue-ai-governance/sites/default/files/2026-07/52.republic_of_mali.pdf).

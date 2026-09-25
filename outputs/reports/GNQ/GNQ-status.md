@@ -1,13 +1,13 @@
 ---
 title: Equatorial Guinea: status report
-compiled: 2026-09-15
+compiled: 2026-09-25
 place: GNQ
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-20
 intersections_read: 17
-sources_cited: 177
-sections_written: 37
+sources_cited: 184
+sections_written: 39
 not_established: 2
 acquire_lines: 23
 ---
@@ -81,6 +81,20 @@ The press law dates from 1997, and [the government has proposed replacing it](ht
 Debate on digital policy is convened privately as often as officially: the [digital-transformation forum held in Malabo on 22 July 2026](https://equacom.news/2026/07/23/avante-impulsa-el-debate-sobre-la-transformacion-digital-para-acelerar-la-diversificacion-economica-de-guinea-ecuatorial/) was organised by the consultancy AVANTE, with BANGE, GITGE and the ministry's director-general for artificial intelligence on the panel. The standing channel the state created for consultation, [the Observatorio Guinea Ecuatorial 2035](https://faolex.fao.org/docs/pdf/eqg202931.pdf), is named in Decreto 69/2021 as the principal means of consulting other public powers, civil society, the private sector and local government, but article 18 defers its composition and operation to a later decree.
 
 ## Finance
+
+### Financial sustainability
+<!-- finance.sustain -->
+
+<!-- derived -->
+Equatorial Guinea's own resources carry 93.9 per cent of the digital lines in the 2026 budget as appropriated, XAF 23.0 billion of XAF 24.5 billion, against 98.6 per cent of XAF 37.0 billion in 2024; the external share rests on a single project.
+
+That project is public-finance modernisation: the [2026 investment programme gives it XAF 1.5 billion of external money and nothing from own resources](https://minhacienda-gob.com/uploads/2026/05/libro-lpge-2026-bcb5ebfc7795.pdf), up from [XAF 500 million in 2024 under the African Development Bank's name](https://www.cabri-sbo.org/uploads/bia/EquatorialGuinea_2024_Approval_External_EnactedBudget_Institution_ECCAS_Spanish_72c647.pdf). Outside its investment programme the 2026 budget prints no financing source against its digital lines (FY2026). What it carries there is the state's own agencies and upkeep: [a XAF 1.26 billion transfer to CNIAPGE, the agency that computerises the administration, and XAF 300 million for maintaining the Presidency's applications, licences and programming](https://minhacienda-gob.com/uploads/2026/05/libro-lpge-2026-bcb5ebfc7795.pdf) (2026), against [XAF 800 million for that maintenance line in 2024](https://www.cabri-sbo.org/uploads/bia/EquatorialGuinea_2024_Approval_External_EnactedBudget_Institution_ECCAS_Spanish_72c647.pdf).
+
+[The 2026 volume prints the 2024 outturn of the transfers to the digital agencies: CNIAPGE received XAF 1.17 billion and the business one-stop shop XAF 936 million, while the SYDONIA customs-system unit received XAF 393 million](https://minhacienda-gob.com/uploads/2026/05/libro-lpge-2026-bcb5ebfc7795.pdf), against [XAF 1.2 billion, XAF 960 million and XAF 840 million voted](https://www.cabri-sbo.org/uploads/bia/EquatorialGuinea_2024_Approval_External_EnactedBudget_Institution_ECCAS_Spanish_72c647.pdf) (2024).
+
+The transport and telecommunications ministry's [July–December 2026 plan requires frequency fees, port fees and registration charges to be paid in full into the Public Treasury](https://www.guineaecuatorialpress.com/noticias/secundo_consejo_directivo_extraordinario_del_ministerio_de_transportes). In September 2026 [the Vice-President asked for talks with Meta and other platforms on how they should contribute to public revenue](https://www.wearetech.africa/fr/fils/actualites/tech/guinee-equatoriale-contribution-des-plateformes-numeriques-en-discussion), and [ordered Starlink's sales routed through the regulator ORTEL, with a dedicated bank account for the service's income](https://tech.africa/equatorial-guinea-starlink-ortel/).
+
+[The state operators GETESA and GITGE are on the list of public bodies to be privatised under the 2019 IMF programme](https://minhacienda-gob.com/privatizacion-de-activos-del-estado/) (2022).
 
 ### MoUs and other agreements
 <!-- finance.mou -->
@@ -379,3 +393,14 @@ No Gulf state or Emirati investor held a digital-sector agreement, financing com
 <!-- geopol.india -->
 
 India had no digital cooperation programme, financing commitment or vendor presence in Equatorial Guinea as at September 2026.
+
+### Digital sovereignty
+<!-- geopol.sovereignty -->
+
+Equatorial Guinea has set out to take back its country-code domain: the transport and telecommunications ministry's [July–December 2026 plan creates a National Negotiation Commission to recover .GQ, which a foreign operator manages](https://www.guineaecuatorialpress.com/noticias/secundo_consejo_directivo_extraordinario_del_ministerio_de_transportes) (July 2026). In September the government [cancelled Starlink contracts obtained outside official channels, put sales under the regulator ORTEL and ordered Equatoguinean technicians trained to install and maintain the equipment](https://tech.africa/equatorial-guinea-starlink-ortel/).
+
+No instrument fixing where state data is held or under whose law it is processed was in force as at September 2026. The software beneath the administration is largely bought in: [CNIAPGE signed a licence agreement with Microsoft in June 2015 and works with the Spanish firm Munitecnia to implement the Experta e-government platform](https://btw.media/all/company-stories/profiles/cniapge-drives-digital-shift-in-equatorial-guineas-public-services/) (2025). Continuity is thin where it has been examined: [the social security institute's head told deputies its database has no replica site and the institute depends on a single internet provider](https://www.guineaecuatorialpress.com/noticias/comparecencia_del_delegado_nacional_del_inseso) (April 2025). Where the national identity database is hosted, and under whose jurisdiction, had not been published as at September 2026.
+
+The terms on which the December 2025 [e-government memorandum with Huawei](https://www.guineaecuatorialpress.com/noticias/telecomunicaciones_y_huawei_firman_un_mou_para_acelerar_la_implementacion_del_gobierno_electronico) and the February 2026 [agreement with Nigeria's Backbone Connectivity Network, which covers a commercial data centre](https://www.guineaecuatorialpress.com/noticias/guinea_ecuatorial_y_nigeria_estrechan_lazos_con_un_acuerdo_clave_para_la_transformacion_digital), govern data jurisdiction, portability and exit had not been published as at September 2026.
+
+On AI the offers are the vendors': [Amini's chief executive proposed data infrastructure and sovereign AI capabilities to the Vice-President at Davos in January 2026](https://www.guineaecuatorialpress.com/noticias/amini_presenta_una_propuesta_de_colaboracion_para_la_transformacion_digital), and he invited the company to begin a diagnostic in the country. [At the Korea-Africa ministerial conference in September 2026 the finance ministry's delegate minister named digital sovereignty among the continent's main strategic challenges and offered the country's energy and digital infrastructure for co-investment](https://www.guineaecuatorialpress.com/noticias/milagrosa_obono_angue_situa_la_inteligencia_artificial_como_motor_de_transformacion_economica_de_africa).

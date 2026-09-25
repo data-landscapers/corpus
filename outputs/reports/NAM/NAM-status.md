@@ -1,13 +1,13 @@
 ---
 title: Namibia: status report
-compiled: 2026-09-24
+compiled: 2026-09-25
 place: NAM
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 6
-sources_cited: 135
-sections_written: 37
+sources_cited: 148
+sections_written: 39
 not_established: 2
 acquire_lines: 45
 ---
@@ -31,7 +31,7 @@ Delivery ownership is at least moving in payments, where [licensing and supervis
 
 Namibia's most consequential digital statute does not yet operate: [the Civil Registration and Identification Act 13 of 2024](https://namiblii.org/akn/na/act/2024/13/eng@2024-12-30) was [gazetted in December 2024 and had not been brought into operation as at December 2025](https://www.ids.ac.uk/publications/biometric-digital-id-in-africa/). It would supply [the legal basis for the electronic identity card, for the fingerprints and other prescribed biometrics taken on application, and for authenticating the holder against them](https://www.parliament.na/wp-content/uploads/2024/08/Explanatory_Memorandum_Civil_Registration_and_Identification_Bill.pdf), while [the Identification Act 21 of 1996 remains the governing law](https://namiblii.org/akn/na/act/1996/21) for the population register itself.
 
-The framework law for electronic transactions is in a similar half-state. [The Electronic Transactions Act 4 of 2019 empowers the minister to issue guidelines on system interoperability but is only partly in force, Chapters 4 and 5 and section 20 having never been commenced, and no Namibian law requires one part of government to share data with another](https://www.lac.org.na/laws/annoSTAT/Electronic%20Transactions%20Act%204%20of%202019.pdf). A Cybercrime Bill [was still in draft in January 2026](https://www.nmt.africa/uploads/698358a24619d/NAMIBIACYBERCRIMEBILL-30.1.26.pdf) and [still being finalised in July 2026, leaving enforcement to the Electronic Transactions Act, the Communications Act and the Penal Code](https://itweb.africa/article/namibia-pushes-cyber-security-reforms/mQwkoq6YJWlM3r9A); the critical information infrastructure designation it provides for does not exist in law, and the Data Protection Bill alongside it has been pending far longer.
+The framework law for electronic transactions is in a similar half-state. [The Electronic Transactions Act 4 of 2019 empowers the minister to issue guidelines on system interoperability, but its Chapter 4 has never been commenced, and no Namibian law requires one part of government to share data with another](https://www.lac.org.na/laws/annoSTAT/Electronic%20Transactions%20Act%204%20of%202019.pdf); [its electronic-signature provisions, section 20 and Chapter 5, came into operation on 15 June 2026](https://observer24.com.na/government-told-to-stop-making-citizens-carry-id-copies/). A Cybercrime Bill [was still in draft in January 2026](https://www.nmt.africa/uploads/698358a24619d/NAMIBIACYBERCRIMEBILL-30.1.26.pdf) and [still being finalised in July 2026, leaving enforcement to the Electronic Transactions Act, the Communications Act and the Penal Code](https://itweb.africa/article/namibia-pushes-cyber-security-reforms/mQwkoq6YJWlM3r9A); the critical information infrastructure designation it provides for does not exist in law, and the Data Protection Bill alongside it has been pending far longer.
 
 What is in force is narrower. [The Access to Information Act 8 of 2022](https://www.lac.org.na/laws/2022/7986.pdf) gives Namibians a statutory right to request information held by public bodies, and [the Payment System Management Act 14 of 2023](https://www.lac.org.na/laws/2023/8156.pdf) gives the Bank of Namibia power to regulate and oversee the national payment system, approve its rules and issue directives.
 
@@ -80,6 +80,20 @@ So the argument happens outside those channels, and in 2026 it has been about th
 Scrutiny of digital policy in parliament has come from the opposition benches: [its asks over a Chinese-funded smart city are disclosure of the agreements, annexures, contractors, data architecture and lifetime operating costs, public hearings, independent security assessments, and a rights-respecting Data Protection Act enacted before the build proceeds](https://observer24.com.na/mp-raises-concerns-about-data-control-of-smart-city-grant-from-china/) (August 2026). [The most recent draft of that Bill has not been published for the public to see](https://www.namibiansun.com/local-news/data-protection-bill-returns-to-parliament2025-08-18167195).
 
 ## Finance
+
+### Financial sustainability
+<!-- finance.sustain -->
+
+[Namibia's universal service levy, up to 0.5 per cent of every licensee's annual turnover, has been in force since September 2024](https://www.lac.org.na/laws/2024/8455.pdf), yet [the Universal Service Fund's first accounts, for the 18 months to 31 December 2025, record N$68.0 million of grants received against N$278,153 of revenue from services, with a 2025/26 operating deficit of N$6.5 million met by a temporary loan from the regulator's reserves](https://www.cran.na/wp-content/uploads/2026/09/USF-Annual-Report-2025.pdf).
+
+[The 2026/27 estimates appropriate N$128.2 million to the Prime Minister's e-governance division](https://economy.com.na/wp-content/uploads/ESTIMATE-OF-REVENUE-AND-EXPENDITURE-2026-2027.pdf), against [N$73.6 million a year earlier (2025/26)](https://economy.com.na/wp-content/uploads/Estimates-of-Revenue-and-Expenditure-2025-26.pdf). The 2026/27 estimates print no financing source against their digital lines (2026/27).
+
+<!-- derived -->
+Across the fifteen digital lines with a published outturn, unaudited spending in 2024/25 came to N$776.7 million, 90.7% of the N$856.1 million voted (2024/25).
+
+[The 2026/27 estimates print that outturn line by line: the e-governance division spent N$61.6 million of N$80.0 million voted, and the Information Commission N$5.5 million of N$19.9 million (2024/25)](https://economy.com.na/wp-content/uploads/ESTIMATE-OF-REVENUE-AND-EXPENDITURE-2026-2027.pdf).
+
+The state's next build is named but barely funded from its own development budget: [the ICT ministry lists a national data centre among its flagship 2026/27 projects within a N$639.2 million budget, N$625.7 million of it operational and N$13.6 million for development](https://technews.com.na/2026/08/06/namibia-to-establish-national-data-centre-under-n639-2m-ict-budget/). Who carries the running costs of the data centre Huawei is to deliver under the Chinese smart-city grant had not been published as at September 2026. Identity is not a revenue line: [the electronic ID card is free to first-time, renewing and amending applicants, with a fee charged only for replacements](https://www.namibian.com.na/ministry-of-home-affairs-clarifies-e-id-costs/) (July 2026).
 
 ### MoUs and other agreements
 <!-- finance.mou -->
@@ -393,3 +407,14 @@ No Gulf state and no Gulf-based company held a position in Namibia's digital inf
 India's footprint is inside the central bank. [Namibia's instant payment system is operated by the Bank of Namibia through a subsidiary, with India's NPCI deploying the solution inside the bank's own environment](https://www.bon.com.na/CMSTemplates/Bon/Files/bon.com.na/e4/e4467afa-167e-4773-aa09-b1c286d25223.pdf) (2025) — a running system inside a core state institution rather than a plan for one.
 
 The rest of the relationship is at the paper stage. [Namibia and India signed a cybersecurity memorandum of understanding at State House in July 2025](https://itweb.africa/article/namibia-forms-cyber-security-alliance-with-india/LPwQ5MlbA14vNgkj), agreed between President Nandi-Ndaitwah and Prime Minister Modi alongside cooperation on UPI-based payments and digital governance.
+
+### Digital sovereignty
+<!-- geopol.sovereignty -->
+
+Namibia refused the data terms the United States attached to renewed health funding, and US support for its HIV programme now ends after 2027: [government lawyers found the draft agreement gave the US extensive unilateral access to Namibians' medical information, against the constitutional right to privacy and national sovereignty over biological resources, and the US withdrew its specimen-sharing component in November 2025](https://www.namibian.com.na/us-health-deal-faces-data-privacy-backlash-in-namibia/), and [a joint statement of 4 September 2026 set US$45 million for 2027 as a transition, after which Namibia funds its own response](https://healthpolicy-watch.news/us-to-phase-out-hiv-support/).
+
+In August the state also walked away from a foreign AI contract it had signed. [Cabinet had the agriculture ministry terminate a N$40 million satellite and AI crop-monitoring agreement with the US firm 6th Grain in August 2026, as not meeting the legal and procedural requirements for government contracts](https://www.namibian.com.na/cabinet-blocks-us-ai-crop-monitoring-tender/), although [the ministry had said the agreement kept all agricultural and land data in Namibian ownership and transferred the software, models and skills to operate the system](https://observer24.com.na/questions-mount-over-n39-5m-us-agriculture-ai-deal/); [the firm demanded N$13 million in September 2026](https://www.namibian.com.na/us-firm-6th-grain-demands-n13m-for-cancelled-crop-tender/).
+
+The trust layer is the state's own. [The national root certification authority, run by the communications regulator and set up with N$10.5 million from the ICT ministry, went live after a key-signing ceremony, and the electronic-signature provisions of the Electronic Transactions Act came into force on 15 June 2026](https://observer24.com.na/government-told-to-stop-making-citizens-carry-id-copies/). [Home affairs became the first certification service provider accredited under it](https://neweralive.na/home-affairs-becomes-namibias-first-certification-service-provider/) (September 2026).
+
+No instrument fixing where state data is held or under whose law it is processed was in force as at September 2026, and the government holds no data centre of its own to hold it in. [The ICT ministry names a national data centre among its flagship 2026/27 projects](https://technews.com.na/2026/08/06/namibia-to-establish-national-data-centre-under-n639-2m-ict-budget/), while the only build with a vendor is Huawei's under the Chinese smart-city grant. The terms on which that grant and Huawei's data centre govern data jurisdiction, portability and exit had not been published as at September 2026.
