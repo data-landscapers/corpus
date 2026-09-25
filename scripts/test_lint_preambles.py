@@ -51,8 +51,9 @@ POINTER = "# Notes\n\n*(Conventions: README.md.)*\n\n## Unresolved\n\n**7** [ACT
 RESOLVED_O = "# Resolved\n\n*(Pointer.)*\n\n| Note | Subject |\n|---|---|\n"
 RESOLVED_C = "# Resolved\n\n*(Pointer.)*\n\n## 12 — a closed note\n"
 # Shaped like OSINT's two files, so the default share exercises their real boundaries:
-# the register is measured to `## The bar`, its archive to `## Done` (note 50).
+# the register is measured to `## Rough sizing`, its archive to `## Done` (R91).
 JOBS = ("# jobs\n\n## NEXT JOB NUMBER: 9\n\n*(Pointer.)*\n\n"
+        "## Rough sizing\n\n| Job | Est. |\n\n"
         "## The bar - all six\n\nThe register's own rules, which stay.\n\n"
         "## Done - oldest first\n\n8. A job.\n")
 FROM_BILL = "# Messages from Bill\n\n*(Pointer.)*\n\n## Block 1\n\nText.\n"
@@ -104,7 +105,7 @@ check("stops at the named line",
 check("a file with no boundary is all preamble",
       lp.preamble_of("a\nb\nc", lp.HEADING).split(), ["a", "b", "c"])
 check("OSINT's register stops at the rules it is for",
-      lp.preamble_of("intro\n## The bar - all six\n7. a job\n", lp.BAR).split(), ["intro"])
+      lp.preamble_of("intro\n## Rough sizing\n| 7 | 30 |\n", lp.SIZING).split(), ["intro"])
 check("and its archive at its own heading",
       lp.preamble_of("intro\n## Done - oldest first\n", lp.DONE).split(), ["intro"])
 
@@ -129,7 +130,7 @@ with tempfile.TemporaryDirectory() as td:
     print("the same in a file it does not own is an advisory, not a failure")
     rc, out = run(*build(tmp, **{"housekeeping-jobs.md":
                                  "# jobs\n\n" + ("word " * 300) +
-                                 "\n\n## The bar - all six\n\n8. A job.\n"}))
+                                 "\n\n## Rough sizing\n\n8. A job.\n"}))
     check("exit 0", rc, 0)
     check("but it is reported", "note - housekeeping-jobs.md: preamble is 302" in out, True)
 

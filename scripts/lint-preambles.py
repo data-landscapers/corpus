@@ -49,10 +49,11 @@ import sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SHARE = os.environ.get("CORPUS_OSINT_XFER", r"C:\corpus-osint-xfer")
 
-# Generous against what these files were (2,585 and 947 words), tight against what a
-# pointer needs. The cap is on the preamble alone, so a file with a lot to say says it
-# below its boundary.
-PREAMBLE_CAP = 250
+# The cap is on the preamble alone, so a file with a lot to say says it below its boundary.
+# 250 until 2026-09-25; strategic review 5 R65/R91 set a Bill-read file's preamble at 100.
+# The README is the conventions' home, read by both CCs rather than by Bill, and keeps 250.
+PREAMBLE_CAP = 100
+README_CAP = 250
 
 # Where a file's preamble stops, stated per file because the files are not one shape. A
 # generic "first heading" rule reads `housekeeping-jobs.md`'s counter as the whole preamble
@@ -62,7 +63,7 @@ PREAMBLE_CAP = 250
 HEADING = r"^## "
 MARKER = r"^<!-- newest first:"
 NOTE = r"^\*\*\d+\*\* |^## \d+ "
-BAR = r"^## The bar"          # OSINT's boundary for its register, note 50
+SIZING = r"^## Rough sizing"  # OSINT's boundary for its register, as its own LINT #24 reads it
 DONE = r"^## Done"            # and for its archive
 INDEX = r"^\| *Note *\|"
 
@@ -73,10 +74,10 @@ SHARE_FILES = [
     ("notes-for-corpus.md", True, HEADING),
     ("notes-for-osint-resolved.md", True, INDEX + "|" + NOTE),
     ("notes-for-corpus-resolved.md", True, NOTE),
-    # OSINT's two files, on the boundaries OSINT named when it closed note 50: what its
-    # register's header has to hold is more than a 250-word cap can carry to the first job,
-    # so the cap runs to the rules the register is *for*. Its file, its boundary.
-    ("housekeeping-jobs.md", False, BAR),            # OSINT's register
+    # OSINT's two files, on the boundaries OSINT's own LINT #24 reads. The register's used to
+    # run to "## The bar", which counted the sizing table: a table that grows with every open
+    # job is content, and under a 100-word cap it would breach whenever jobs were open (R91).
+    ("housekeeping-jobs.md", False, SIZING),         # OSINT's register
     ("housekeeping-jobs-resolved.md", False, DONE),  # OSINT's archive
     ("messages-from-bill.md", False, HEADING),      # Bill's channel
 ]
@@ -163,8 +164,9 @@ def main() -> int:
             continue
         texts[name] = flat(text)
         words = len(preamble_of(text, stop).split())
-        if words > PREAMBLE_CAP:
-            msg = (f"{name}: preamble is {words} words against the cap of {PREAMBLE_CAP}. "
+        cap = README_CAP if name == "README.md" else PREAMBLE_CAP
+        if words > cap:
+            msg = (f"{name}: preamble is {words} words against the cap of {cap}. "
                    f"State the rule once where it lives and leave a pointer here.")
             (failures if owned else advisories).append(msg)
 
