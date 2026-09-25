@@ -1,11 +1,11 @@
 ---
 title: Gabon — monthly update, August – September 2026
-compiled: 2026-09-24
-period: 2026-08-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2026-08-01 to 2026-09-25
 place: GAB
-ledger_rows: 59
+ledger_rows: 60
 not_held: 17
-record: 0d61c0d2dd00
+record: 7eed9960e21d
 ---
 
 # Gabon: monthly update, August – September 2026
@@ -52,6 +52,8 @@ The data protection authority described itself, which is the most the record hol
 <!-- narrative: governance--gov-regional -->
 
 Two outward moves in the same week, one to learn and one to be heard. An interior, security and decentralisation ministry delegation [spent nearly two weeks in Rwanda on digital transformation and e-governance, artificial intelligence and digital policy, civil-registration and identification digitisation, cybersecurity, data protection, interconnection of public systems and decentralised service digitisation](https://www.digitalbusiness.africa/e-gouvernance-gabon-guinee-liberia-le-rwanda-attire-les-administrations-africaines-venues-etudier-son-modele-numerique/) - the longest and widest-ranging of eight delegations the host received that week. Separately the digital economy minister [presented the country's candidacy for the International Telecommunication Union Council in Nassau on 3 September, under the slogan Shaping the Digital Future](https://agpgabon.ga/gabon-numerique-le-pays-sa-candidature-au-conseil-de-lunion-internationale-des-telecommunications/). Neither carries an agreement, an adoption decision or a campaign platform beyond the slogan.
+
+On 23 September the foreign minister [signed the United Nations Convention against Cybercrime on the margins of the General Assembly](https://www.gabonreview.com/multilateralisme-le-gabon-renforce-son-engagement-contre-les-menaces-nucleaires-et-numeriques/), which the government presents as a framework for mutual legal assistance and the exchange of electronic evidence. It is a signature; no ratification instrument is on file.
 <!-- /narrative -->
 ### Standards
 
