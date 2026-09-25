@@ -1,11 +1,11 @@
 ---
 title: East Africa — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-25
+period: 2026-08-01 to 2026-09-25
 place: XEA
-ledger_rows: 26
+ledger_rows: 27
 not_held: 0
-record: 8e1258f8f4a4
+record: a1e1e62c17b5
 ---
 
 # East Africa: monthly update, August – September 2026
@@ -64,6 +64,11 @@ Africa's peering forum, AfPIF, [opened in Kigali on 13 August with landlocked ma
 
 <!-- narrative: systems--dpi-exchange -->
 The regional cargo-tracking platform changed hands at the seal. Kenya's revenue authority [opened the Regional Electronic Cargo Tracking System to private electronic-seal vendors](https://www.the-star.co.ke/business/markets/2026-09-16-traders-support-revenue-agencys-multi-vendor-cargo-tracking-system), which shippers welcomed as ending seal shortages behind delays at Mombasa, where transit cargo is more than 30 per cent of throughput. No vendor list or start date is published, and the shippers' council's own question - whether the systems interfaces are ready - is unanswered.
+<!-- /narrative -->
+### Digital Payments and Fintech
+
+<!-- narrative: systems--dpi-pay -->
+On 22 September the regional assembly's accounts committee [held an oversight session in Bujumbura on the Payment and Settlement Systems Integration initiative, assessing its operational status and progress on harmonising financial legislation](https://www.mae.gov.bi/en/eac-payment-systems-integration-burundi-reaffirms-its-commitment-to-regional-financial-integration/), where Burundi named harmonised law, supervision, cybersecurity and technical capacity as the conditions for interoperability. No operational or volume figure was published.
 <!-- /narrative -->
 ### Sectoral management information systems
 
