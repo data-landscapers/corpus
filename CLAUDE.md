@@ -84,4 +84,4 @@ The reason is the direction of dependency. The site is a derived view of the wik
 
 ## Documentation caps
 
-**Every root and `documentation/` file carries `reader:`, and `scripts/lint-docs.py` holds it to that reader's cap** *(strategic review 5, R65 and R86)*. The rule and the caps are in `global-claude.md` → *Writing*. Run the lint whenever a doc is written. It fails on a breach, and it is not a render gate. On 2026-09-25, 23 files were over their caps, and R92 is the job that cuts them.
+**Every root and `documentation/` file carries `reader:`, and `scripts/lint-docs.py` holds it to that reader's cap** *(strategic review 5, R65 and R86)*. The rule and the caps are in `global-claude.md` → *Writing*. Run the lint whenever a doc is written. It fails on a breach, and it is not a render gate. Since R92 (2026-09-25) `documentation/` is under cap; five root runbooks are not: BUILD, CYCLE, STATUS-INIT, CITE-REREAD and BUDGET-EXTRACT.
