@@ -6,6 +6,8 @@ budget-watch.py — the list of budget-library pages the poll watches (strategic
     python scripts/budget-watch.py build --no-probe   # the same, without the fetches
     python scripts/budget-watch.py poll               # fetch the due pages, stage what is new
     python scripts/budget-watch.py poll --dry-run --iso KEN --force   # list, fetch no document
+    python scripts/budget-watch.py refind             # R104: one enumeration per failed library
+    python scripts/budget-watch.py fetch-list         # R104: manual libraries to the fetch list
 
 **One row per library, read from the mirror's `budget-archive/` companions.** A library is a
 country's documents on one host: `(iso3, host)`, `www.` folded. Its URL is the deepest
@@ -56,6 +58,24 @@ Ingest adjudicates it like anything else pulled. Each library polled appends one
 `logs/budget-poll/runs.csv` — links read, candidates, held, fetched, staged, seconds — which
 is what R107 reads for the cost of a full poll. `--limit` caps the documents fetched per
 library (default 25), so a library that never lists years cannot flood one night.
+
+**`refind` and `fetch-list` (R104) settle the rows the poll cannot read.** `refind` gives each
+`refind` or `unreached` row, and each `live` row whose page lists no document, one Track B
+enumeration (`DOMESTIC-FINANCE-SWEEP.md`): the host's WordPress media search where it has one,
+the held URL's parent folders, and the root's own links that name a budget or a library — at
+most `REFIND_PAGES` fetches. The page listing the most typed documents, `MIN_TYPED` or more,
+becomes the library (`library_source: refound`). Otherwise the row is `manual` where a browser
+would get through and a script cannot — a licence form, a JavaScript shell, a bot wall, a TLS
+failure, a timeout — and `dead` where the host holds no library a script can find. A host
+that does not answer at all is `dead` only on a second failure a week after the first.
+Niger is the worked case of a licence form: its library lists plainly, and every document
+behind it asks for a licence to be ticked and POSTed, so the check reads one held document's
+page, not the library's.
+
+**`note` is the dated absence.** `dead 2026-09-25: no budget library found in 12 pages` is
+what the Finance page's coverage table states for the row when it returns (R106); until then
+this file is where the absence is recorded. `fetch-list` writes the `manual` rows to
+`X:\fetch-list.md` as one batch, no more often than every 91 days, and dates `listed`.
 """
 from __future__ import annotations
 
@@ -64,18 +84,17 @@ import collections
 import concurrent.futures as cf
 import csv
 import datetime as dt
+import hashlib
+import importlib.util
 import os
 import posixpath
 import re
 import sys
 import threading
-import urllib.parse as up
-from pathlib import Path
-
-import hashlib
-import importlib.util
 import time
 import unicodedata
+import urllib.parse as up
+from pathlib import Path
 
 import requests
 
@@ -93,7 +112,7 @@ LINKS = POLL_LOG / "links.csv"
 RUNS = POLL_LOG / "runs.csv"
 
 # The closed list's types, as the words a library page labels them with — English, French,
-# Portuguese — tried in this order, so the narrower reading wins (`projet de loi de finances`
+# Portuguese, Arabic — tried in this order, so the narrower reading wins (`projet de loi de finances`
 # is estimates before `loi de finances` is an act). Matched on the link's text and filename,
 # accents stripped, lower-cased. `board-budget`, `ifmis-extract`, `project-document` and
 # `reporting` have no words a library labels them with, so a poll never finds one.
@@ -272,6 +291,11 @@ def read_existing() -> tuple[list[str], dict[tuple[str, str], dict]]:
         return list(reader.fieldnames or []), {(r["iso3"], r["host"]): r for r in reader}
 
 
+def settled(row: dict) -> bool:
+    """A row R104 has decided: re-pointed, or marked `dead` or `manual`. A rebuild keeps it."""
+    return row.get("library_source", "held") != "held" or row.get("state") in ("dead", "manual")
+
+
 def build(do_probe: bool) -> int:
     if not ARCHIVE.is_dir():
         print(f"budget-watch: no {ARCHIVE} - is the mirror mounted?", file=sys.stderr)
@@ -286,18 +310,18 @@ def build(do_probe: bool) -> int:
         prev = old.get(key, {})
         for c in extra:
             row[c] = prev.get(c, "")
-        if prev.get("library_source", "held") != "held":
+        if settled(prev):
             for c in ("library_url", "library_source", "state", "http", "checked"):
                 row[c] = prev.get(c, "")
         elif not do_probe:
             for c in ("http", "state", "checked"):
                 row[c] = prev.get(c, "") if prev.get("library_url") == row["library_url"] else ""
         rows.append(row)
-    kept = [r for k, r in old.items() if k not in libs and r.get("library_source", "held") != "held"]
+    kept = [r for k, r in old.items() if k not in libs and settled(r)]
     rows += kept
 
     if do_probe:
-        todo = [r for r in rows if r["library_source"] == "held"]
+        todo = [r for r in rows if not settled(r)]
         today = dt.date.today().isoformat()
         with cf.ThreadPoolExecutor(12) as pool:
             for r, (code, state) in zip(todo, pool.map(lambda r: probe(r["library_url"]), todo)):
@@ -385,6 +409,15 @@ def page_links(url: str) -> tuple[list[tuple[str, str]], str]:
         return [], type(exc).__name__
     if not r.ok:
         return [], f"HTTP {r.status_code}"
+    if "json" in r.headers.get("content-type", ""):
+        # A WordPress media search, `/wp-json/wp/v2/media?search=…`: the library behind the
+        # posts, and the route the budget sweeps proved best (`domestic-budget-extraction.md`).
+        try:
+            items = r.json()
+        except ValueError:
+            return [], "unreadable JSON"
+        return [(i.get("source_url", ""), (i.get("title") or {}).get("rendered", ""))
+                for i in items if isinstance(i, dict) and i.get("source_url")], ""
     soup = BeautifulSoup(r.text, "html.parser")
     out, seen = [], set()
     for a in soup.find_all("a", href=True):
@@ -629,6 +662,211 @@ def poll(iso: str | None, force: bool, dry_run: bool, limit: int) -> int:
     return 0
 
 
+# Links on a site's own pages that lead towards a document library. Budget words first, so a
+# page named for the budget is tried before a generic *Publications*.
+LIB_WORDS = [re.compile(strip_marks(p)) for p in (
+    r"budget|orcament|finances publiques|loi de finances|estimates|الميزانية|الموازنة",
+    r"document|publication|download|telecharg|biblioth|library|resource|rapport|report|relatorio"
+    r"|legisla|المنشورات|الوثائق|التقارير",
+)]
+FILE_HOST = re.compile(r"(static|media|assets|cdn|backdata|files?|uploads?)\.", re.I)
+LICENCE = re.compile(r"phocadownload|license_agree|licence_agree", re.I)
+WP_TERMS = ("budget", "loi de finances", "orcamento", "finances")
+REFIND_PAGES = 12       # one enumeration: at most this many pages fetched per library
+MIN_TYPED = 3           # fewer typed documents than this is a homepage mentioning one, not a library
+UNREACHABLE = 7         # days an unreachable host is given before a second failure marks it dead
+
+
+def get(url: str, timeout: int = 45):
+    """(response, '') or (None, why) — one request, a refusal retried once as a bot."""
+    try:
+        r = requests.get(url, headers={"User-Agent": UA}, timeout=timeout)
+        if r.status_code in (401, 403, 429):
+            r = requests.get(url, headers={"User-Agent": BOT_UA}, timeout=timeout)
+    except requests.exceptions.SSLError:
+        return None, "TLS failure"
+    except requests.exceptions.Timeout:
+        return None, "times out"
+    except requests.exceptions.ConnectionError as exc:
+        return None, "host does not resolve" if re.search(
+            r"NameResolution|getaddrinfo|Name or service", str(exc)) else "connection refused"
+    except requests.RequestException as exc:
+        return None, type(exc).__name__
+    return r, ""
+
+
+def typed_docs(links: list[tuple[str, str]]) -> int:
+    return sum(1 for href, text in links if is_document(href) and doc_type_of(
+        f"{text} {up.unquote(os.path.basename(up.urlsplit(href).path))}"))
+
+
+def enumerate_library(row: dict) -> tuple[str, str, str]:
+    """One Track B enumeration (`DOMESTIC-FINANCE-SWEEP.md`): fetch the site's document
+    library directly. (state, library_url, why): `live` with the page holding the most typed
+    budget documents; `manual` where a browser would get through and a script cannot; `dead`
+    where the host is gone or holds no library a script can find."""
+    held = up.urlsplit(row["library_url"])
+    root = f"{held.scheme}://{held.netloc}/"
+    if FILE_HOST.match(held.netloc):
+        return "dead", "", "a file host: its documents are listed on another site"
+    r, why = get(root)
+    if r is None and why in ("host does not resolve", "connection refused"):
+        return "dead", "", why
+    if r is None:
+        return "manual", "", why
+    if r.status_code in (401, 403, 429):
+        return "manual", "", f"bot wall (HTTP {r.status_code})"
+    if r.status_code >= 500:
+        return "manual", "", f"server error (HTTP {r.status_code})"
+    if LICENCE.search(r.text or ""):
+        return "manual", "", "licence form before every download"
+
+    tried, best = 0, ("", 0)
+
+    def score(url: str) -> None:
+        nonlocal tried, best
+        if tried >= REFIND_PAGES:
+            return
+        tried += 1
+        links, _ = page_links(url)
+        n = typed_docs(links)
+        if n > best[1]:
+            best = (url, n)
+
+    root_links, _ = page_links(root)
+    if not root_links:
+        return "manual", "", "JavaScript wall: the page serves no links"
+    wp, _ = get(root + "wp-json/")
+    if wp is not None and wp.ok and "json" in wp.headers.get("content-type", ""):
+        for term in WP_TERMS:
+            score(f"{root}wp-json/wp/v2/media?search={up.quote(term)}&per_page=100")
+    parts = [p for p in held.path.split("/") if p]
+    for i in range(len(parts), 0, -1):
+        score(f"{root}{'/'.join(parts[:i])}/")
+    host = held.netloc.lower().removeprefix("www.")
+    pages = [(h, t) for h, t in root_links if not is_document(h)
+             and up.urlsplit(h).netloc.lower().removeprefix("www.") == host]
+    for rx in LIB_WORDS:
+        for h, t in pages:
+            if rx.search(fold(f"{t} {up.unquote(up.urlsplit(h).path)}")):
+                score(h)
+    best_url, n = best
+    if n == 0 and typed_docs(root_links):
+        best_url, n = root, typed_docs(root_links)
+    if n >= MIN_TYPED:
+        return "live", best_url, f"{n} typed documents listed"
+    return "dead", "", f"no budget library found in {tried} pages"
+
+
+def refind(iso: str | None) -> int:
+    """R104 over the watch list: `refind` and `unreached` rows get one enumeration, and so does
+    a `live` row whose page lists no document at all. A `live` row behind a licence form is
+    marked `manual` without one. Every decision is dated in `note`."""
+    today = dt.date.today().isoformat()
+    fields, rows = read_existing()
+    fields = fields + [c for c in ("note", "listed") if c not in fields]
+    held_urls = {k: v["urls"] for k, v in collect().items()}
+    todo = []
+    for key, row in sorted(rows.items()):
+        if iso and key[0] != iso or row.get("state") in ("dead", "manual"):
+            continue
+        if row.get("state") in ("refind", "unreached"):
+            todo.append(row)
+            continue
+        if row.get("state") == "live" and row.get("library_source", "held") == "held":
+            # The gate sits on the document's page, not the library's: Niger's library lists
+            # plainly and every file behind it asks for a licence to be ticked and POSTed.
+            r, _ = get(held_urls.get(key, [row["library_url"]])[0])
+            if r is not None and LICENCE.search(r.text or ""):
+                row.update(state="manual", note=f"manual {today}: licence form before every download")
+                print(f"  {key[0]} {key[1]:<32} manual   licence form before every download")
+            elif r is not None and not any(is_document(h) for h, _ in page_links(row["library_url"])[0]):
+                todo.append(row)
+    print(f"budget-watch refind: {len(todo)} libraries to enumerate")
+
+    def one(row):
+        return row, enumerate_library(row)
+
+    with cf.ThreadPoolExecutor(8) as pool:
+        for row, (state, url, why) in pool.map(one, todo):
+            old = row["library_url"]
+            if why in ("host does not resolve", "connection refused"):
+                # A host down once may be down for the afternoon: `dead` takes a second failure
+                # a week on, and until then the row stays `refind` with the first one dated.
+                first = re.match(r"unreachable (\d{4}-\d{2}-\d{2})", row.get("note", ""))
+                if not first or (dt.date.fromisoformat(today) -
+                                 dt.date.fromisoformat(first.group(1))).days < UNREACHABLE:
+                    state = "refind"
+                    row.update(state=state, checked=today,
+                               note=row.get("note") if first else f"unreachable {today}: {why}")
+                    print(f"  {row['iso3']} {row['host']:<32} refind   {why}; dead if still so "
+                          f"after {UNREACHABLE} days", flush=True)
+                    continue
+            if state == "live":
+                row.update(library_url=url, library_source="refound", state="live", http="200",
+                           checked=today, note=f"refound {today} from {old}: {why}")
+            else:
+                row.update(state=state, checked=today, note=f"{state} {today}: {why}")
+            print(f"  {row['iso3']} {row['host']:<32} {state:<8} {why}"
+                  f"{'  -> ' + url if state == 'live' else ''}", flush=True)
+    with open(OUT, "w", encoding="utf-8", newline="") as fh:
+        w = csv.DictWriter(fh, fieldnames=fields, lineterminator="\n")
+        w.writeheader()
+        w.writerows(rows[k] for k in sorted(rows))
+    states = collections.Counter(r.get("state") or "unprobed" for r in rows.values())
+    print("  " + ", ".join(f"{k} {v}" for k, v in sorted(states.items())))
+    return 0
+
+
+FETCH_LIST = Path(status_lib.EXCHANGE) / "fetch-list.md"
+QUARTER = 91            # days between two batches to the fetch list
+
+
+def fetch_list(dry_run: bool) -> int:
+    """The `manual` rows to `X:\\fetch-list.md`, one batch a quarter: a row not listed in the
+    last 91 days gets one line, numbered on from the file's highest, and `listed` is dated."""
+    today = dt.date.today()
+    fields, rows = read_existing()
+    fields = fields + [c for c in ("note", "listed") if c not in fields]
+    listed = [dt.date.fromisoformat(r["listed"]) for r in rows.values() if r.get("listed")]
+    if listed and (today - max(listed)).days < QUARTER:
+        print(f"budget-watch fetch-list: last batch {max(listed)}; next due "
+              f"{max(listed) + dt.timedelta(days=QUARTER)}")
+        return 0
+    # A library that has given nothing inside the poll's window is not worth a browser visit.
+    since = f"{today.year - YEARS_BACK}-01-01"
+    due = [r for _, r in sorted(rows.items())
+           if r.get("state") == "manual" and (r.get("last_published") or "") >= since]
+    if not due:
+        print("budget-watch fetch-list: no manual libraries")
+        return 0
+    text = FETCH_LIST.read_text(encoding="utf-8")
+    n = max((int(m) for m in re.findall(r"^x?(\d+)\.", text, re.M)), default=0)
+    lines = []
+    for r in due:
+        n += 1
+        why = r.get("note", "").split(": ", 1)[-1] or "no automated route"
+        types = r["doc_types"].replace("|", ", ")
+        lines.append(
+            f"{n}. ({today}) **{r['institution']}, budget library** — "
+            f"`{up.urlsplit(r['library_url']).scheme}://{up.urlsplit(r['library_url']).netloc}/`. "
+            f"*Budget documents new since {r.get('last_published') or 'the last held'} — "
+            f"{types} — into `new/`; the poll ({today}) cannot read this page.* "
+            f"Automated route dead, tested {r.get('checked') or today}: {why}.")
+        r["listed"] = today.isoformat()
+    block = "\n\n".join(lines)
+    if dry_run:
+        print(block)
+        return 0
+    FETCH_LIST.write_text(text.rstrip("\n") + "\n\n" + block + "\n", encoding="utf-8", newline="\n")
+    with open(OUT, "w", encoding="utf-8", newline="") as fh:
+        w = csv.DictWriter(fh, fieldnames=fields, lineterminator="\n")
+        w.writeheader()
+        w.writerows(rows[k] for k in sorted(rows))
+    print(f"budget-watch fetch-list: {len(lines)} lines to {FETCH_LIST}")
+    return 0
+
+
 def main() -> int:
     p = argparse.ArgumentParser(description=__doc__.split("\n\n")[0])
     sub = p.add_subparsers(dest="cmd", required=True)
@@ -640,7 +878,15 @@ def main() -> int:
     q.add_argument("--dry-run", action="store_true",
                    help="read the pages and list what would be fetched; fetch, stage and record nothing")
     q.add_argument("--limit", type=int, default=25, help="documents fetched per library (default 25)")
+    f = sub.add_parser("refind", help="R104: one enumeration for each failed library")
+    f.add_argument("--iso", help="one country")
+    fl = sub.add_parser("fetch-list", help="R104: the manual libraries to the fetch list, quarterly")
+    fl.add_argument("--dry-run", action="store_true", help="print the batch, write nothing")
     args = p.parse_args()
+    if args.cmd == "refind":
+        return refind(args.iso and args.iso.upper())
+    if args.cmd == "fetch-list":
+        return fetch_list(args.dry_run)
     if args.cmd == "poll":
         return poll(args.iso and args.iso.upper(), args.force, args.dry_run, args.limit)
     return build(not args.no_probe)
