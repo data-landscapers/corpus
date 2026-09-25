@@ -1,12 +1,12 @@
 ---
 title: Lesotho — progress report, September 2025 – September 2026
-compiled: 2026-09-24
-period: 2025-09-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2025-09-01 to 2026-09-25
 place: LSO
 ledger_rows: 191
 not_held: 4
 indicators: 123
-record: e5066156c3e8
+record: 637b00127e4c
 ---
 
 # Lesotho: progress report, September 2025 – September 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the repository holds nothing on that indicator. **That is a statement about this repository, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-09-01 to 2026-09-24.*
+*The period is 2025-09-01 to 2026-09-25.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the repository holds a standing position and nothing in the period touched it. ***No evidence*** — the repository holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Movement, regulations still pending*.
 
@@ -211,4 +211,9 @@ Where a row reads ***No evidence***, the repository holds nothing on that indica
 | National open data portal | A government open-data portal or published open-data policy for Lesotho, or an official statement that none exists. | 2026-08-31 |
 | AI legislation or regulations | an AI Act, or regulations made under an existing statute, with a gazette reference | 2026-08-31 |
 | National address register | a state address register or addressing standard with a coverage figure, or a ministerial statement that the private platform is the national one | 2026-08-31 |
+| 2025/26 outturn against the digital appropriations | The 2025/26 actuals column of the 2027/28 estimates book or the audited 2025/26 accounts, read into the budget extract; only the provisional fourth-quarter bulletin is held. | 2026-09-25 |
+| Universal Service Fund contribution rate and income | The Communications Act 2012 section 33 contribution rules or LCA regulations setting the licensee levy, and the fund's audited income. | 2026-09-25 |
+| Signed Data Management Policy text on hosting and cross-border transfer | Publication of the Data Management Policy signed in June 2026. | 2026-09-25 |
+| Source code, operating skills and exit for the Epicor-based IFMIS | The Epicor licence and support contract or a finance ministry statement on ownership and exit terms. | 2026-09-25 |
+| Data jurisdiction, portability and exit terms of the Kobong AI data centre | Publication of the Convalt Energy memorandum of agreement or the implementation agreements due after the feasibility study. | 2026-09-25 |
 
