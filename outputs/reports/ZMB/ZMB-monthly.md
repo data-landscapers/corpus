@@ -1,11 +1,11 @@
 ---
 title: Zambia — monthly update, August – September 2026
-compiled: 2026-09-24
-period: 2026-08-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2026-08-01 to 2026-09-25
 place: ZMB
-ledger_rows: 64
+ledger_rows: 66
 not_held: 44
-record: e584c2fa5095
+record: a25e4d513a31
 ---
 
 # Zambia: monthly update, August – September 2026
@@ -147,6 +147,8 @@ A [national carbon registry went live on 8 August](https://www.lusakatimes.com/2
 
 <!-- narrative: dpi--dpi-mis -->
 An emergency outbreak response platform [entered two days of user-acceptance testing](https://www.cidrz.org/2026/08/19/infectious-disease-response-goes-digital/). User-acceptance testing is the last stage before a system becomes someone's responsibility in an emergency; no go-live date, participating facilities or data flow is published.
+
+Beneficiary checks for the Keeping Girls in School programme [moved from paper forms to a tablet application on which each girl is captured and signs for herself](https://www.lusakatimes.com/2026/09/24/government-trains-25-teachers-in-kgs-digital-checklist-verification/), replacing forms others could sign on her behalf; 25 guidance teachers in Lavushimanda District were trained on it. No national count of schools on the application is published.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -156,6 +158,8 @@ The movement is at the far end of the network rather than at the centre. The e-g
 The office platform was ordered across the whole of government. The Secretary to the Cabinet [directed every government institution to adopt the Smart Office Platform and instructed the Smart Zambia Institute to report to his office by the end of October 2026 on the onboarding of ministries, provinces, spending agencies, state-owned enterprises and other public institutions](https://www.lusakatimes.com/2026/09/04/sc-encourages-smart-office-platform-utilisation/), the direction given at the handover of the system to the airports corporation at Chongwe. It is a direction with a reporting deadline rather than a measured rollout: the repository has carried the platform as a health-ministry pilot since 2025 and holds no count of institutions onboarded.
 
 The office system moved beyond ministries for the first time. The airports corporation [became the first state-owned enterprise onboarded, the system commissioned and handed over by the Secretary to the Cabinet, with a further 406 staff to be trained across its stations by the end of November](https://efficacynews.africa/2026/09/05/zacl-becomes-first-state-owned-enterprise-to-adopt-smart-office/) — the same directive that told every government institution to adopt it now reaching the commercial arm of the state.
+
+The Public Service Management Division said on 23 September that [a digital platform for the public service funeral scheme, run with an insurer, will roll out in the first week of October](https://www.lusakatimes.com/2026/09/24/funeral-scheme-digital-platform-to-be-rolled-out-in-october/), letting members update their details, register beneficiaries and track claims by phone or computer instead of on paper.
 <!-- /narrative -->
 
 ## Digitalisation
