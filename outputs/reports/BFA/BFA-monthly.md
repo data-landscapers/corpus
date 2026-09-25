@@ -1,11 +1,11 @@
 ---
 title: Burkina Faso — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-25
+period: 2026-08-01 to 2026-09-25
 place: BFA
-ledger_rows: 48
+ledger_rows: 51
 not_held: 8
-record: 3de767e11712
+record: a578abec9aea
 ---
 
 # Burkina Faso: monthly update, August – September 2026
@@ -132,6 +132,11 @@ Certified electronic invoicing moved from rule to product. The tax administratio
 Civil registration is being digitised one commune at a time, and the training is the visible part. Delegated officers and transcribing agents in Pouni [were trained over 72 hours from 31 August to 2 September on smartphone configuration and real-time entry of births, marriages and deaths at central and secondary registration offices](https://www.aib.media/sanguie-pouni-des-agents-de-letat-civil-outilles-a-lutilisation-de-la-plateforme-veneem/), funded under a regional local-governance project in the 2026 budget year. Thirty communes hold fully digitised registers; no count of officers trained or acts entered through the platform is published.
 
 <!-- /narrative -->
+### Sectoral management information systems
+
+<!-- narrative: dpi--dpi-mis -->
+On 21 September the health ministry [put a digitalised, geolocated health map at the centre of its sector council, to show disparities in care in real time and to plan facilities, staff, essential-medicine supply and biomedical equipment under the health transformation strategy for 2026-2030](https://www.sidwaya.info/ministere-de-la-sante-la-carte-sanitaire-digitalisee-au-coeur-du-premier-casem-de-2026/). No go-live date, coverage or budget line is stated.
+<!-- /narrative -->
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
@@ -146,6 +151,8 @@ The foreign ministry put three platforms up on 19 August: [a diaspora registrati
 Automation also failed publicly for the first time. The civil service ministry admitted that [part of one examination centre's scanned scripts were not carried over at the transfer to the marking machines in the 2026 recruitment competitions, affecting results published on 25 August, and that re-marking added candidates to the successful lists](https://www.sidwaya.info/incidents-dans-les-resultats-de-certains-concours-de-la-session-2026-il-sagit-dune-erreur-humaine-rassure-le-sg-rodrigue-oboulbiga/). It is the one account on file of a digitised process being checked against its own output.
 
 Electronic signature then arrived on its announced date. [FasoSign was launched on 15 September already integrated into the mission-order, administrative-mail and cadastre platforms](https://libreinfo.net/burkina-ladministration-publique-entre-dans-lere-de-la-signature-electronique-avec-fasosign/), its keys and certificates presented as held by the state itself; no signature count or adoption list is published. At the same council the Prime Minister [named weak citizen uptake of the digital service platforms as a persistent shortcoming](https://www.sidwaya.info/%f0%9d%90%8c%f0%9d%90%a8%f0%9d%90%9d%f0%9d%90%9e%f0%9d%90%ab%f0%9d%90%a7%f0%9d%90%a2%f0%9d%90%ac%f0%9d%90%9a%f0%9d%90%ad%f0%9d%90%a2%f0%9d%90%a8%f0%9d%90%a7-%f0%9d%90%9d%f0%9d%90%9e-%f0%9d%90%a5/), without a figure for it.
+
+The state airports company [signed a memorandum with ACI Africa and a German software firm to pilot a platform for runway inspections, certification, document management and safety management](https://www.wearetech.africa/fr/fils/actualites/tech/burkina-faso-vers-des-aeroports-intelligents-grace-a-la-numerisation-des-operations), reported on 25 September. No cost, duration or hosting location is stated.
 <!-- /narrative -->
 
 ## Digitalisation
@@ -178,7 +185,9 @@ The national digital event returns in October: a second edition running [from 17
 ### Training and skills
 
 <!-- narrative: capacity--capacity-training -->
-The one training development in the window is small and specific. An association of blind and partially sighted students [closed its fifth adapted computing course on 11 September, having trained 70 visually impaired pupils and students](https://www.sidwaya.info/formation-en-informatique-70-eleves-et-etudiants-en-situation-de-handicap-visuel-outilles/) from first computer use to e-mail and AI, and its president said they have no computers to practise on afterwards.
+On 24 September the digital ministry [opened a two-day artificial-intelligence course for the secretaries general of all ministries and institutions, covering generative tools and which administrative data may be put into them](https://www.sidwaya.info/utilisation-de-lintelligence-artificielle-des-secretaires-generaux-a-lecole-des-bonnes-pratiques/); no instrument governing AI use in ministries has followed on the record.
+
+An association of blind and partially sighted students [closed its fifth adapted computing course on 11 September, having trained 70 visually impaired pupils and students](https://www.sidwaya.info/formation-en-informatique-70-eleves-et-etudiants-en-situation-de-handicap-visuel-outilles/) from first computer use to e-mail and AI, and its president said they have no computers to practise on afterwards.
 <!-- /narrative -->
 
 ## Data
