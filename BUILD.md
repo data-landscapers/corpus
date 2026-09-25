@@ -91,6 +91,8 @@ python scripts/lint-scope.py                               # the whole backlog
 
 4. **Mark every slug read**, moved or not: `python scripts/report-scan.py --mark {ISO3} <slugs>`. (Sources on `origin_status: hold` are dropped by the script — pass them in regardless.)
 
+   **Then ask whether the pile is due a whole re-read** (countries only): `python scripts/report-scan.py --sections {ISO3}`. If it names sub-sections, re-read each whole against the ledger and the unit's held sources, as `UNIT-REVIEW.md` step 3 reads a status sub-section, and revise under *Maintaining the status baseline*. Then run `python scripts/report-scan.py --sections-read {ISO3}` and count the sub-sections revised in the run's log line. `report-layer.md` §2 holds the rule.
+
 5. **Rebuild the unit's documents**: `--doc all`. The renderer decides which documents a unit issues, so this line is the same on every unit; a build that changes nothing prints `unchanged`. Three rules govern what is written:
    - **No fact without a source, on the sentence carrying the fact.** Only three kinds of sentence rightly carry no link: a statement of what the base does **not** hold, a qualification of a fact cited in the same sentence, and the single connecting sentence the register allows. **In published prose the collection is *the repository*, never *the base*** *(Bill, 2026-09-11)*.
    - **A source in scope does not make every fact in it in scope.** The window selects *rows*, not facts; where the standing position is all a row offers, leave it out of the prose and let the ledger carry it.
@@ -137,7 +139,7 @@ python scripts/report-render.py --unit {ISO3} --check
 
 **Every piece of evidence has a source.** A position that cannot be sourced is ***Not held*** with a `gaps.csv` line, never a bare status standing on nothing (`report-layer.md` §6).
 
-Commit the moved ledgers, `considered.txt`, `gaps.csv` and re-rendered docs. **The Corpus register governs the narrative** (`report-layer.md` §10).
+Commit the moved ledgers, `considered.txt`, `sections-read.txt`, `gaps.csv` and re-rendered docs. **The Corpus register governs the narrative** (`report-layer.md` §10).
 
 ## Stage 4b — datasets (model authoring)
 

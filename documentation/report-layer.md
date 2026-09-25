@@ -61,6 +61,8 @@ status: in force; Corpus-owned
 
 **Nothing is ever closed to new evidence.** A record belongs in the window its **publication date** falls in, whenever it is ingested. Once a window has slid past that date the record still moves the ledger, and still shows in the status report and the progress report; the monthly is simply no longer the document that covers it.
 
+**A pile of new sources earns a whole re-read of what it touches** *(strategic review 5, R76)*. The set difference asks each source alone whether it changes a sub-section, and between whole reads a quarter to a third of a status report drifts (review 5 §3). So when more than 15 sources that touch a unit's status sub-sections have been ingested since its last whole read, the sub-sections they touch are re-read whole in that build, by the unit review's method. The last whole read is the unit review, the status initialisation or the last such re-read, whichever is latest. `report-scan.py --sections` names them and `--sections-read` resets the clock. The drift measure is `unit-review.py`'s rolling mean of sections revised, which should fall under two.
+
 **The scan is a labour-saving gate, not the limit of BUILD's authority.** BUILD authors this layer and holds editorial control: where a document can be made better — a narrative never written, a section that reads badly — BUILD revises it, whether or not the scan nominated the unit that day.
 
 **`compiled:` is the date the document last changed, never the date the build last ran.** A render that changes nothing leaves the file alone: the old date stands, the mtime does not move, nothing enters the diff. Making the date true is BUILD's whole obligation here.

@@ -13,6 +13,16 @@ ingested last night, and leaves no clock to drift against — the same argument 
     python scripts/report-scan.py --slugs NGA     # the unconsidered slugs for one unit
     python scripts/report-scan.py --mark NGA a b  # record slugs as considered
     python scripts/report-scan.py --month-due     # is a closed month owed an issue?
+    python scripts/report-scan.py --sections NGA  # status sub-sections owed a whole re-read
+    python scripts/report-scan.py --sections-read NGA  # stamp that re-read done today
+
+**The set difference never looks back, so a count does it** *(strategic review 5, R76)*. A unit's
+sources ingested since its last whole read that touch a status sub-section are counted; past
+`REREAD_AFTER`, the sub-sections those sources' `topics:` name are owed a whole re-read in this
+build. The last whole read is the latest of the unit's review (`logs/unit-review.csv`), its last
+sub-section re-read (`sections-read.txt`), its status initialisation
+(`logs/status-init-progress.csv`) and `CLOCK_FLOOR`, so every whole read resets the clock and a
+unit never re-reads the same pile twice.
 """
 import argparse
 import collections
@@ -43,6 +53,14 @@ sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
 REPORTS = "outputs/reports"
 MONTH_MARK = os.path.join(REPORTS, "last-monthly.txt")
+ROOT = os.path.dirname(os.path.realpath(HERE))   # through the .workroot junction to Corpus
+UNIT_REVIEW = os.path.join(ROOT, "logs", "unit-review.csv")
+STATUS_INIT = os.path.join(ROOT, "logs", "status-init-progress.csv")
+REREAD_AFTER = 15      # sources since the last whole read past which touched sub-sections are re-read
+# The clock never starts before the rule did. A pile that formed before 2026-09-25 is the
+# monthly rotation's to clear: counted from the start, KEN, NGA and ZAF each owed 30-plus
+# sub-sections, which is a unit review run inside the build, not a re-read.
+CLOCK_FLOOR = "2026-09-24"
 
 
 def units():
@@ -142,6 +160,67 @@ def mark(unit, slugs):
     return len(new)
 
 
+def sections_read_path(unit):
+    return os.path.join(REPORTS, unit, "sections-read.txt")
+
+
+def _dates_from(path, key, col):
+    import csv
+    if not os.path.isfile(path):
+        return {}
+    with io.open(path, encoding="utf-8-sig", newline="") as fh:
+        return {r[key]: (r.get(col) or "").strip() for r in csv.DictReader(fh)}
+
+
+def last_whole_read(unit):
+    """The date the unit's status was last read whole, never earlier than `CLOCK_FLOOR`."""
+    dates = [CLOCK_FLOOR, _dates_from(UNIT_REVIEW, "unit", "last_reviewed").get(unit, ""),
+             _dates_from(STATUS_INIT, "iso3", "compiled").get(unit, "")]
+    p = sections_read_path(unit)
+    if os.path.isfile(p):
+        dates.append(io.open(p, encoding="utf-8").read().strip())
+    return max(dates)
+
+
+def status_sections(unit):
+    """The sub-section ids the unit's status report carries, in document order."""
+    import re
+    p = os.path.join(REPORTS, unit, f"{unit}-status.md")
+    if not os.path.isfile(p):
+        return []
+    return re.findall(r"^<!-- ([a-z]+\.[a-z]+) -->\s*$", io.open(p, encoding="utf-8").read(), re.M)
+
+
+def sections_owed(unit, by_place=None, rows=None):
+    """`(since, count, {section: sources})` — the re-read a unit owes; empty under the threshold.
+
+    Only a source whose `topics:` name one of the unit's status sub-sections counts: a budget
+    book tagged `finance.budget` alone touches nothing the status says. A record with no
+    `ingested:` is not counted, since it cannot be placed after anything."""
+    by_place = sources_by_place() if by_place is None else by_place
+    rows = vault_lib.load_index() if rows is None else rows
+    since = last_whole_read(unit)
+    mine = by_place.get(unit, set())
+    have = set(status_sections(unit))
+    touched = []
+    for r in rows:
+        d, fm = r.get("d") or {}, r.get("fm") or {}
+        ing = str(fm.get("ingested") or "")[:10]
+        if d.get("folder") != "raw" or not ing or ing <= since:
+            continue
+        if (d.get("slug") or os.path.basename(r["path"])[:-3]) not in mine:
+            continue
+        secs = {str(t) for t in (fm.get("topics") or [])} & have
+        if secs:
+            touched.append(secs)
+    owed = {}
+    if len(touched) > REREAD_AFTER:
+        for secs in touched:
+            for s in secs:
+                owed[s] = owed.get(s, 0) + 1
+    return since, len(touched), owed
+
+
 def last_closed_month(today):
     y, m = int(today[:4]), int(today[5:7])
     return f"{y - 1}-12" if m == 1 else f"{y}-{m - 1:02d}"
@@ -180,6 +259,11 @@ def main():
                     help="mark every source the unit currently holds as considered — what "
                          "initialisation owes, because it has already read the base")
     ap.add_argument("--month-due", action="store_true")
+    ap.add_argument("--sections", metavar="UNIT",
+                    help=f"status sub-sections owed a whole re-read (past {REREAD_AFTER} sources "
+                         "since the unit's last whole read)")
+    ap.add_argument("--sections-read", metavar="UNIT",
+                    help="stamp today as the unit's last sub-section re-read")
     ap.add_argument("--gate", action="store_true",
                     help="rotation gate: exit 0 if a closed month is owed an issue, 1 if not, "
                          "2 on error. A gated row is passed over when this is non-zero.")
@@ -193,6 +277,25 @@ def main():
     if a.seed:
         held = sorted(sources_by_place().get(a.seed, set()))
         print(f"{a.seed}: seeded {mark(a.seed, held)} of {len(held)} held source(s)")
+        return
+    if a.sections_read:
+        day = a.today or __import__("datetime").date.today().isoformat()
+        io.open(sections_read_path(a.sections_read), "w", encoding="utf-8", newline="\n").write(day + "\n")
+        print(f"{a.sections_read}: sub-sections re-read {day}")
+        return
+    if a.sections:
+        if not status_sections(a.sections):
+            print(f"{a.sections}: no status report")
+            return
+        since, n, owed = sections_owed(a.sections)
+        head = f"{a.sections}: {n} source(s) since the last whole read ({since or 'never'})"
+        if not owed:
+            print(f"{head}; re-read owed past {REREAD_AFTER}: none")
+            return
+        print(f"{head}; re-read these {len(owed)} sub-section(s) whole:")
+        order = status_sections(a.sections)
+        for sec in sorted(owed, key=order.index):
+            print(f"  {sec}  {owed[sec]}")
         return
     if a.close_month:
         io.open(MONTH_MARK, "w", encoding="utf-8", newline="\n").write(a.close_month + "\n")
