@@ -46,7 +46,10 @@ has never been polled; `refind` and `unreached` rows wait for R104. For each pag
    in OSINT), and it names a fiscal year no older than `YEARS_BACK` — or, after the first
    poll, names no year at all, because a link new on the page is itself the date.
 3. It is dropped if its URL is held: `raw-url-index.csv`, `rejected-urls.csv` and every
-   `budget-archive/` companion's `url:`, normalised as `status-stage.py` does.
+   `budget-archive/` companion's `url:`, normalised as `status-stage.py` does. It is dropped
+   too if it is not a budget document (`OFF_TOPIC`, or an instrument naming no public money),
+   or a twin of one: an abridged or translated edition, a bill whose enacted law is held, a
+   monthly TOFE whose year-end is held or whose later month the page lists (they cumulate).
 4. It is fetched, and dropped if the body is a web page rather than a file, or if its md5 is in
    `artefact-md5-index.csv` — the same document under another address.
 5. What is left is staged, artefact and companion together, to
@@ -55,7 +58,9 @@ has never been polled; `refind` and `unreached` rows wait for R104. For each pag
 
 The companion is a catalogue page on `BUDGET-COLLECT.md` step 2's shape, with `artefact:`
 naming the file beside it, `source_tier: budget-document` and the type the link matched.
-`published:` is the server's `Last-Modified` or the upload folder's month, marked `derived`.
+`published:` is read off a PDF — the latest date on its cover (`date_source: source`), else its
+creation stamp — and only failing that is the server's `Last-Modified` or the upload folder's
+month (`derived`). `fiscal_years_covered` is every year the link states: an MTEF is its range.
 Ingest adjudicates it like anything else pulled. Each library polled appends one line to
 `logs/budget-poll/runs.csv` — links read, candidates, held, fetched, staged, seconds — which
 is what R107 reads for the cost of a full poll. `--limit` caps the documents fetched per
@@ -170,6 +175,37 @@ CONTENT_EXT = {"application/pdf": ".pdf", "application/vnd.ms-excel": ".xls",
                "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet": ".xlsx",
                "application/msword": ".doc", "application/zip": ".zip",
                "application/vnd.openxmlformats-officedocument.wordprocessingml.document": ".docx"}
+
+# `notes-for-corpus` 65: of the first poll's 233 staged, ingest dropped 91 — a third off-topic,
+# the rest twins or subsets of what is held. These run on the folded link after a type matched.
+# Files a library lists beside its budget documents that are not one.
+OFF_TOPIC = re.compile(strip_marks(
+    r"strategic plan|business plan|\bjournal\b|newsletter|economic brief|debt strategy|\bmtds\b"
+    r"|appel (a|d) (candidature|offres?)|avis d appel|tender|\bminutes\b|proces verbal"
+    r"|meeting calendar|calendario do|reunions? periodiques|advisory|invitation to submit"
+    r"|investor engagements|close out period|lock up|public notice|speech day"
+    r"|value for money|\bvfm\b|audit committee|circulaire preparatoire|guideline for the preparation"))
+# `loi n`, `decret` and `arrete` type any law or order: one that names no public money is not
+# a budget instrument (the first poll's electronic-communications law and a travel-allowance order).
+MONEY = re.compile(strip_marks(
+    r"financ|budget|credit|orcament|appropriation|depense|recette|tresor|fiscal|tax|impot"
+    r"|revenue|expenditure|reglement|\bp?lf[ir]?\b|المالية|الميزانية|الموازنة|الاعتمادات"))
+# A shortened or translated edition of a document whose full original is what gets held.
+ABRIDGED = re.compile(r"\b(resume|synthese|summary|abridged|simplified|highlights)\b")
+TRANSLATION = re.compile(r"amharic|malagasy|english version|french version|translation|traduction"
+                         r"|version (anglaise|francaise|malgache)")
+# A bill, a draft or a volume as submitted, which the enacted law supersedes once it is held.
+BILL = re.compile(r"projet de loi|\bplfr?\b|\bplfr?20|\bbill\b|as submitted|proposta de (lei|orcamento)")
+# ...unless the file is about the bill — a note on it, or the Budget Office's analysis of it.
+ABOUT_BILL = re.compile(r"\bnote\b|analyse|mesures|\bpbo\b|brief|assessment|presentation")
+TOFE = re.compile(r"\btofe\b")
+# A held slug that is a year's closing TOFE: `…-tofe-decembre-2024…`, `…-tofe-12-2024…`, `…-tofe-annuel-2024…`.
+YEAR_END_TOFE = re.compile(r"tofe-(?:.*-)?(?:dec|decembre|december|12|annuel|annual)-(20[0-4]\d)")
+MONTH_WORDS = [r"janv?(ier)?|jan(uary)?|janeiro", r"fev(rier)?|feb(ruary)?|fevereiro", r"mars?|march|marco",
+               r"avr(il)?|apr(il)?|abr(il)?", r"mai|may|maio", r"juin|june?|junho",
+               r"juil(let)?|july?|julho", r"aout|aou|aug(ust)?|ago(sto)?", r"sept?(embre|ember)?|set(embro)?",
+               r"oct(obre|ober)?|out(ubro)?", r"nov(embre|ember|embro)?", r"dec(embre|ember)?|dez(embro)?"]
+MONTH_RES = [re.compile(rf"\b({w})\b") for w in MONTH_WORDS]
 
 COLUMNS = ["iso3", "host", "institution", "library_url", "library_source", "docs", "doc_types",
            "type_months", "fy_start_month", "fy_source", "last_published", "http", "state",
@@ -364,14 +400,74 @@ def years_in(text: str) -> list[int]:
     return [int(y) for y in re.findall(r"(?<!\d)(20[0-4]\d)(?!\d)", text)]
 
 
-def fy_label(text: str, fy_month: str) -> str:
-    """`2025/26` from `2025-2026`, `2025/26` or `2025_26`; a bare year only where the fiscal
-    year is the calendar year, since elsewhere it is ambiguous; otherwise blank."""
-    m = re.search(r"(?<!\d)(20[0-4]\d)\s*[/\-_ ]\s*(20)?([0-4]\d)(?!\d)", text)
-    if m and int(m.group(3)) == (int(m.group(1)) + 1) % 100:
-        return f"{m.group(1)}/{m.group(3)}"
+def fy_labels(text: str, fy_month: str) -> list[str]:
+    """Every fiscal year the title states, as `fiscal_years_covered` holds them. A range —
+    `2026-2028`, `2026 a 2028`, `2025/26-2027/28` — is every year in it (an MTEF is three, not
+    its last); `2025/26` from `2025-2026`, `2025/26` or `2025_26` where the year is split; a bare
+    year only where the fiscal year is the calendar year, since elsewhere it is ambiguous."""
+    text = strip_marks(text).replace("–", "-").replace("—", "-")
+    split = r"(20[0-4]\d)\s*[/\-_]\s*(?:20)?([0-4]\d)(?!\d)"
+    m = re.search(rf"(?<!\d){split}\s*(?:-|a|to|au)\s*{split}", text)
+    if m and int(m.group(2)) == (int(m.group(1)) + 1) % 100 and 0 < int(m.group(3)) - int(m.group(1)) <= 6:
+        return [f"{y}/{(y + 1) % 100:02d}" for y in range(int(m.group(1)), int(m.group(3)) + 1)]
+    m = re.search(r"(?<!\d)(20[0-4]\d)\s*(?:-|_|/|a|to|au)\s*(20[0-4]\d)(?!\d)", text)
+    if m and fy_month == "01" and 0 < int(m.group(2)) - int(m.group(1)) <= 6:
+        return [str(y) for y in range(int(m.group(1)), int(m.group(2)) + 1)]
+    m = re.search(rf"(?<!\d){split}", text)
+    if m and int(m.group(2)) == (int(m.group(1)) + 1) % 100:
+        return [f"{m.group(1)}/{m.group(2)}"]
     ys = sorted(set(years_in(text)))
-    return str(ys[-1]) if ys and fy_month == "01" else ""
+    return [str(ys[-1])] if ys and fy_month == "01" else []
+
+
+def month_of(folded: str) -> int | None:
+    """The month a monthly report names: `juin`, `sept`, `jan`, or `TOFE-04-2025`'s `04`."""
+    m = re.search(r"tofe (0?[1-9]|1[0-2]) 20[0-4]\d", folded)
+    if m:
+        return int(m.group(1))
+    return next((n for n, rx in enumerate(MONTH_RES, 1) if rx.search(folded)), None)
+
+
+def tofe_period(href: str, label: str) -> tuple[int, int] | None:
+    """(year, month) of a monthly TOFE link, the year from the upload folder where the name
+    omits it (`TOFE-Fev.pdf` in `/2025/03/` is February 2025)."""
+    folded = fold(label)
+    if not TOFE.search(folded):
+        return None
+    month = month_of(folded)
+    if not month:
+        return None
+    ys = years_in(label)
+    if ys:
+        return max(ys), month
+    m = re.search(r"/(20[0-4]\d)/(0[1-9]|1[0-2])/", up.urlsplit(href).path)
+    if not m:
+        return None
+    return (int(m.group(1)) if month <= int(m.group(2)) else int(m.group(1)) - 1), month
+
+
+def superseded(href: str, label: str, doc_type: str, iso3: str, fy_month: str,
+               acts: set[tuple[str, int]], year_end_tofes: set[tuple[str, int]]) -> str:
+    """Why a typed link is a twin of what is held or better fetched, else ''."""
+    folded = fold(label)
+    if OFF_TOPIC.search(folded):
+        return "off-topic"
+    if doc_type in ("executive-instrument", "appropriation-act") and not MONEY.search(folded):
+        return "off-topic"
+    if ABRIDGED.search(folded):
+        return "abridged"
+    if TRANSLATION.search(folded):
+        return "translation"
+    if (doc_type in ("budget-estimates", "appropriation-act") and BILL.search(folded)
+            and not ABOUT_BILL.search(folded)):
+        fys = fy_labels(label, fy_month)
+        year = int(fys[0][:4]) if fys else max(years_in(label), default=0)
+        if (iso3, year) in acts:
+            return "superseded: the enacted law is held"
+    period = tofe_period(href, label)
+    if period and period[1] < 12 and (iso3, period[0]) in year_end_tofes:
+        return "superseded: the year-end TOFE is held"
+    return ""
 
 
 def due(row: dict, today: dt.date) -> bool:
@@ -478,6 +574,81 @@ def published_of(url: str, last_modified: str, today: dt.date) -> tuple[str, str
     return f"{today:%Y-%m}-01", "month"
 
 
+MONTH_NAME = (r"(?P<mon>" + "|".join(f"(?P<m{n}>{w})" for n, w in enumerate(MONTH_WORDS, 1)) + ")")
+DAY_DATE = [
+    re.compile(rf"\b(?P<d>[0-3]?\d)(er|st|nd|rd|th)?\s+(de\s+)?{MONTH_NAME}\.?,?\s+(de\s+)?(?P<y>20[0-4]\d)\b"),
+    re.compile(rf"\b{MONTH_NAME}\.?\s+(?P<d>[0-3]?\d)(st|nd|rd|th)?,?\s+(?P<y>20[0-4]\d)\b"),
+    re.compile(r"\b(?P<d>[0-3]?\d)[/.](?P<mn>[01]?\d)[/.](?P<y>20[0-4]\d)\b"),
+]
+MONTH_DATE = re.compile(rf"\b{MONTH_NAME}\.?\s+(de\s+)?(?P<y>20[0-4]\d)\b")
+# A date that ends a period is what the document covers, not when it was issued.
+# Spacing tolerated: a text layer can read `END IN G 30TH JUNE`.
+PERIOD_END = re.compile(r"(e ?n ?d ?(e ?d|i ?n ?g)|as at|as of|au|clos|jusqu|until|through|findo|to|a)"
+                        r"\s+(le\s+)?$")
+
+
+def cover_date(text: str, today: dt.date) -> tuple[str, str]:
+    """The latest date on the cover no later than today, to the day, else to the month: an act
+    cites older acts and a report the period before it, so the newest date is the issue.
+    ('', '') where the cover states none."""
+    text = strip_marks(text)
+    days, months = [], []
+    for rx in DAY_DATE:
+        for m in rx.finditer(text):
+            if PERIOD_END.search(text[max(0, m.start() - 14):m.start()]):
+                continue
+            mon = int(m.group("mn")) if "mn" in m.groupdict() and m.group("mn") else next(
+                n for n in range(1, 13) if m.group(f"m{n}"))
+            try:
+                days.append(dt.date(int(m.group("y")), mon, int(m.group("d"))))
+            except ValueError:
+                pass
+    for m in MONTH_DATE.finditer(text):
+        mon = next(n for n in range(1, 13) if m.group(f"m{n}"))
+        months.append(dt.date(int(m.group("y")), mon, 1))
+    days = [d for d in days if dt.date(2000, 1, 1) <= d <= today]
+    if days:
+        return max(days).isoformat(), "day"
+    months = [d for d in months if dt.date(2000, 1, 1) <= d <= today]
+    return (max(months).isoformat(), "month") if months else ("", "")
+
+
+DATE_FROM = {  # where `published` came from: `cover` is `date_source: source`, the rest `derived`
+    "cover": "the latest date on the document's first pages",
+    "stamp": "the PDF's creation stamp: its first pages state no date",
+    "server": "the server's Last-Modified: the file states no date the poll could read",
+    "folder": "the upload folder's month, or the poll's: neither the file nor the server dates it",
+}
+
+
+def pdf_date(body: bytes, today: dt.date, first_fy: int = 0) -> tuple[str, str, str]:
+    """(published, date_precision, `DATE_FROM` key) off the PDF itself: the cover's date, else
+    the file's creation stamp; ('', '', '') where it has neither. A cover date more than a year
+    before `first_fy`, the first fiscal year the link names, is a law it cites, not its own."""
+    try:
+        import pymupdf  # noqa: PLC0415
+        doc = pymupdf.open(stream=body, filetype="pdf")
+    except Exception:  # noqa: BLE001 - not a PDF pymupdf can open: the server's date stands
+        return "", "", ""
+    text = ""
+    for page in doc.pages(0, min(2, doc.page_count)):
+        text += page.get_text() + "\n"
+        if len(text) > 400:     # a cover with words on it; a blank or scanned one reads on
+            break
+    published, precision = cover_date(text, today)
+    if published and int(published[:4]) >= first_fy - 1:
+        return published, precision, "cover"
+    m = re.match(r"D:(20[0-4]\d)(\d\d)(\d\d)", (doc.metadata or {}).get("creationDate") or "")
+    if m:
+        try:
+            made = dt.date(int(m.group(1)), int(m.group(2)), int(m.group(3)))
+            if made <= today:
+                return made.isoformat(), "day", "stamp"
+        except ValueError:
+            pass
+    return "", "", ""
+
+
 def pdf_pages(body: bytes) -> int | None:
     try:
         import pymupdf  # noqa: PLC0415
@@ -507,26 +678,28 @@ def yaml_str(s: str) -> str:
 
 
 def companion(row: dict, url: str, text: str, doc_type: str, artefact: str, body: bytes,
-              published: str, precision: str, fy: str, batch: str, today: dt.date) -> str:
+              published: str, precision: str, source: str, fys: list[str], batch: str,
+              today: dt.date) -> str:
     title = link_title(url, text)
     pages = pdf_pages(body) if artefact.endswith(".pdf") else None
     extent = f"{pages} pp, " if pages else ""
     fm = [
         "---", "type: source", f"title: {yaml_str(title)}", f"url: {url}",
         f"publisher: {yaml_str(row['institution'])}", f"published: {published}",
-        f"date_precision: {precision}", "date_source: derived", f"places: [{row['iso3']}]",
+        f"date_precision: {precision}",
+        f"date_source: {'source' if source == 'cover' else 'derived'}", f"places: [{row['iso3']}]",
         "topics: [finance.budget]", "entities: []", f"retrieved: {today}",
         f"sweep_batch: {batch}",
     ]
-    if fy:
-        fm.append(f'fiscal_years_covered: ["{fy}"]')
+    if fys:
+        fm.append("fiscal_years_covered: [" + ", ".join(f'"{y}"' for y in fys) + "]")
     fm += [f"doc_type: {doc_type}", "source_tier: budget-document", f"artefact: {artefact}",
            "body_completeness: excerpt", "---", ""]
     body_md = [
         f"# {title}", "",
         "## Document", "",
         f"{extent}{len(body):,} bytes, md5 `{hashlib.md5(body).hexdigest()}`. Not read: the type, "
-        "the fiscal year and the date are read off the library page and the server, and the "
+        "the fiscal years are read off the link and the date off the file, and the "
         "instrument, scope, currency and printed scale are ingest's to state.", "",
         "## Source", "",
         f"Listed as \"{text}\" on {row['institution']}'s library page, <{row['library_url']}>, "
@@ -534,8 +707,7 @@ def companion(row: dict, url: str, text: str, doc_type: str, artefact: str, body
         "## Notes", "",
         f"Found by CORPUS's budget poll (`budget-watch.py poll`, strategic review R103): new on "
         f"the page since the last poll and held nowhere by URL or md5. `doc_type` is the "
-        f"keyword match on the link, `published` is {'the server' if precision == 'day' else 'the upload folder or the poll'}'s "
-        f"date, not the document's.", "",
+        f"keyword match on the link. `published` is {DATE_FROM[source]}.", "",
     ]
     return "\n".join(fm + body_md)
 
@@ -553,8 +725,14 @@ def stage_folder(iso3: str, today: dt.date) -> Path:
 def stage(folder: Path, row: dict, href: str, text: str, doc_type: str, body: bytes, ext: str,
           last_mod: str, today: dt.date, slugify) -> str:
     folder.mkdir(parents=True, exist_ok=True)
-    published, precision = published_of(href, last_mod, today)
-    fy = fy_label(f"{text} {up.unquote(href)}", row.get("fy_start_month", ""))
+    label = f"{text} {up.unquote(os.path.basename(up.urlsplit(href).path))}"
+    fys = fy_labels(label, row.get("fy_start_month", ""))
+    first_fy = int(fys[0][:4]) if fys else min(years_in(label), default=0)
+    published, precision, source = (pdf_date(body, today, first_fy) if ext == ".pdf"
+                                    else ("", "", ""))
+    if not published:
+        published, precision = published_of(href, last_mod, today)
+        source = "server" if precision == "day" else "folder"
     stem = base = f"{published}-{row['iso3'].lower()}-{slugify(link_title(href, text), 70)}"
     n = 2
     while (folder / f"{stem}{ext}").exists():
@@ -562,8 +740,8 @@ def stage(folder: Path, row: dict, href: str, text: str, doc_type: str, body: by
     batch = folder.name if re.search(r"-\d{8}$", folder.name) else f"{folder.name}-{today:%Y%m%d}"
     (folder / f"{stem}{ext}").write_bytes(body)
     (folder / f"{stem}-companion.md").write_text(
-        companion(row, href, text, doc_type, f"{stem}{ext}", body, published, precision, fy,
-                  batch, today), encoding="utf-8", newline="\n")
+        companion(row, href, text, doc_type, f"{stem}{ext}", body, published, precision, source,
+                  fys, batch, today), encoding="utf-8", newline="\n")
     return stem
 
 
@@ -579,6 +757,10 @@ def poll(iso: str | None, force: bool, dry_run: bool, limit: int) -> int:
     held |= {ss.norm(frontmatter(f).get("url", "")) for f in ARCHIVE.glob("*/*/*companion.md")}
     with open(LOOKUPS / "artefact-md5-index.csv", encoding="utf-8", newline="") as fh:
         md5s = {r["md5"]: r["artefact"] for r in csv.DictReader(fh)}
+    docs = budget_documents()
+    acts = {(d["iso3"], d["fy"]) for d in docs if d["doc_type"] == "appropriation-act" and d["fy"]}
+    year_end_tofes = {(d["iso3"], int(m.group(1))) for d in docs
+                      if (m := YEAR_END_TOFE.search(d["slug"]))}
     seen: dict[tuple[str, str], set[str]] = collections.defaultdict(set)
     for r in read_csv(LINKS):
         seen[(r["iso3"], r["host"])].add(r["url"])
@@ -616,12 +798,26 @@ def poll(iso: str | None, force: bool, dry_run: bool, limit: int) -> int:
                 outcome = "undated"
             elif ss.norm(href) in held:
                 outcome = "held"
+            else:
+                outcome = superseded(href, label, doc_type, key[0], row.get("fy_start_month", ""),
+                                     acts, year_end_tofes)
             if outcome:
-                counts[outcome] += 1
+                counts[outcome.split(":")[0]] += 1
                 link_rows.append({"iso3": key[0], "host": key[1], "url": href, "first_seen": today,
                                   "outcome": outcome, "doc_type": doc_type})
                 continue
-            cands.append((href, text, doc_type))
+            cands.append((href, text, doc_type, tofe_period(href, label)))
+        # Monthly TOFEs are cumulative: the latest a page lists for a year contains the rest.
+        latest: dict[int, int] = {}
+        for *_, period in cands:
+            if period:
+                latest[period[0]] = max(latest.get(period[0], 0), period[1])
+        for href, _, doc_type, period in [c for c in cands if c[3] and c[3][1] < latest[c[3][0]]]:
+            counts["superseded"] += 1
+            link_rows.append({"iso3": key[0], "host": key[1], "url": href, "first_seen": today,
+                              "outcome": "superseded: a later cumulative TOFE is listed",
+                              "doc_type": doc_type})
+        cands = [c[:3] for c in cands if not c[3] or c[3][1] == latest[c[3][0]]]
         counts["candidates"] = len(cands)
         for href, text, doc_type in cands[:limit]:
             if dry_run:
@@ -647,6 +843,7 @@ def poll(iso: str | None, force: bool, dry_run: bool, limit: int) -> int:
         print(f"  {key[0]} {key[1]:<30} links {counts['links']:>5}  new docs {counts['new']:>4}  "
               f"docs {counts['docs']:>4}  untyped {counts['untyped']:>3}  "
               f"old {counts['old']:>3}  undated {counts['undated']:>3}  held {counts['held']:>3}  "
+              f"off {counts['off-topic']:>3}  twin {counts['abridged'] + counts['translation'] + counts['superseded']:>3}  "
               f"cands {counts['candidates']:>3}  staged {counts['staged']:>2}  {secs}s"
               f"{'  ' + why if why else ''}")
         if dry_run:
