@@ -1,11 +1,11 @@
 ---
 title: Algeria — monthly update, August – September 2026
-compiled: 2026-09-24
-period: 2026-08-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2026-08-01 to 2026-09-25
 place: DZA
-ledger_rows: 50
+ledger_rows: 51
 not_held: 6
-record: 4b39397a9957
+record: a64773f62ab1
 ---
 
 # Algeria: monthly update, August – September 2026
@@ -104,6 +104,8 @@ The tax administration [published its first user guide for electronic payment on
 A second joint session of the digitalisation high commission and the domestic trade ministry [took the data sources themselves as its subject — how they are produced, updated and kept consistent — towards a unified digital mechanism for regulating the national market](https://www.aps.dz/en/algeria/education-technology/mtr4nrdp-benmouloud-abdellatif-chair-second-meeting-to-establish-unified-digital-mechanism-for-national-market-regulation). The market-supply system [reached the government meeting of 9 September as a unified digital system for regulating and supplying the national market](https://www.aps.dz/en/algeria/national-news/mtu81f2g-penal-code-fire-damage-compensation-digitization-on-agenda).
 
 On 22 September the justice minister [extended the electronic window for the administrative courts to the administrative courts of appeal and the Council of State](https://www.lejourdalgerie.com/extension-des-services-du-guichet-electronique-national-aux-cours-administratives-dappel-et-au-conseil-detat/), so that litigants and lawyers track cases and obtain copies of administrative rulings from any administrative court. The solidarity ministry [launched Morafikokoum](https://news.radioalgerie.dz/en/node/95028), through which parents of pupils in its specialised schools for deaf and blind children view grades and attendance and file transfer requests online.
+
+The industry sector's PRODNAT platform [closed first-half 2026 production declarations from goods-producing firms and kept registration open past its mid-September deadline, asking each firm for its tax and statistical identifiers, its manager's biometric identity card, the production unit's coordinates and half-yearly purchases, stocks and sales](https://www.echoroukonline.com/12-%D8%B9%D9%86%D8%B5%D8%B1%D9%8B%D8%A7-%D9%81%D9%8A-%D8%AA%D8%AD%D9%8A%D9%8A%D9%86-%D9%85%D8%B9%D8%B7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%A4%D8%B3%D8%B3%D8%A7%D8%AA-%D8%A7%D9%84%D8%B5%D9%86%D8%A7). Second-half declarations are [due between 1 January and 28 February 2027](https://www.echoroukonline.com/12-%D8%B9%D9%86%D8%B5%D8%B1%D9%8B%D8%A7-%D9%81%D9%8A-%D8%AA%D8%AD%D9%8A%D9%8A%D9%86-%D9%85%D8%B9%D8%B7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%A4%D8%B3%D8%B3%D8%A7%D8%AA-%D8%A7%D9%84%D8%B5%D9%86%D8%A7); no count of registered firms is published.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
