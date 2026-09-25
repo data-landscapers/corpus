@@ -333,6 +333,11 @@ def main():
         print("stage 2a — scope lint (reports, never gates):"); scope_lint()
     if a.all or a.finance:
         print("stage 3 — finance + budgets (all places):"); run("build-finance-page.py", "--all")
+        # R106: a poll-delivered document for an extracted country-year queues a sitting, and
+        # the coverage file dates what is due and not held. Soft: neither gates the build.
+        print("stage 3a — budget follow-ups and coverage:")
+        run_soft("budget-watch.py", "followups")
+        run_soft("budget-watch.py", "coverage")
     if a.all or a.scan:
         print("stage 4 — report-update work order (authoring is the model stage that follows):")
         scan_work_order()

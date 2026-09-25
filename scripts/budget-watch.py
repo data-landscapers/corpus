@@ -8,6 +8,8 @@ budget-watch.py — the list of budget-library pages the poll watches (strategic
     python scripts/budget-watch.py poll --dry-run --iso KEN --force   # list, fetch no document
     python scripts/budget-watch.py refind             # R104: one enumeration per failed library
     python scripts/budget-watch.py fetch-list         # R104: manual libraries to the fetch list
+    python scripts/budget-watch.py followups          # R106: a sitting queued per pulled document
+    python scripts/budget-watch.py coverage           # R106: held and absent types, dated
 
 **One row per library, read from the mirror's `budget-archive/` companions.** A library is a
 country's documents on one host: `(iso3, host)`, `www.` folded. Its URL is the deepest
@@ -867,6 +869,142 @@ def fetch_list(dry_run: bool) -> int:
     return 0
 
 
+RAW = Path(MIRROR) / "raw"
+FOLLOWUPS = ROOT / "logs" / "budget-followups.md"
+FOLLOWUPS_HEAD = "## Queued by the budget poll"
+COVERAGE = ROOT / "outputs" / "budgets" / "coverage.csv"
+GRACE = 1               # months past a type's usual release before it counts as not held
+
+
+def doc_stages() -> dict[str, str]:
+    with open(LOOKUPS / "budget-doc-types.csv", encoding="utf-8-sig", newline="") as fh:
+        return {r["doc_type"]: r["stages"] for r in csv.DictReader(fh)}
+
+
+def fy_of(fm: dict) -> int | None:
+    """The bare start year of the first fiscal year a document covers (`layout.md`: `2024` is
+    the year beginning in 2024), from `fiscal_years_covered`, else the older single keys."""
+    for key in ("fiscal_years_covered", "fiscal_year_label", "fiscal_year", "fy_start"):
+        m = re.search(r"(20[0-4]\d)", fm.get(key, ""))
+        if m:
+            return int(m.group(1))
+    return None
+
+
+def budget_documents() -> list[dict]:
+    """Every held budget document: the `budget-archive/` companions and the `raw/` records
+    that are budget documents, one entry per slug."""
+    docs: dict[str, dict] = {}
+    paths = list(ARCHIVE.glob("*/*/*companion.md"))
+    for f in RAW.rglob("*.md"):
+        with open(f, encoding="utf-8", errors="replace") as fh:
+            head = fh.read(4096)
+        if "source_tier: budget-document" in head or "sweep_batch: budget-poll-" in head:
+            paths.append(f)
+    for f in paths:
+        fm = frontmatter(f)
+        m = re.search(r"\[?\s*([A-Z]{3})", fm.get("places", ""))
+        if not m or not fm.get("doc_type"):
+            continue
+        docs[f.stem] = {"slug": f.stem, "iso3": m.group(1), "doc_type": fm["doc_type"],
+                        "fy": fy_of(fm), "published": fm.get("published", ""),
+                        "precision": fm.get("date_precision", ""),
+                        "batch": fm.get("sweep_batch", ""), "raw": f.is_relative_to(RAW)}
+    return list(docs.values())
+
+
+def followups(docs: list[dict] | None = None) -> int:
+    """R106: a document the poll delivered, now in `raw/`, for a country-year Corpus has
+    already extracted, queues one line in `logs/budget-followups.md` — one BUDGET-EXTRACT
+    sitting for that country-year, R58's grain. Queued once: a slug already in the file is
+    never queued again, and the sitting strikes the line (deletes it) when it settles it."""
+    docs = budget_documents() if docs is None else docs
+    stages = doc_stages()
+    text = FOLLOWUPS.read_text(encoding="utf-8") if FOLLOWUPS.exists() else ""
+    today = dt.date.today().isoformat()
+    lines = []
+    for d in sorted(docs, key=lambda d: (d["iso3"], d["fy"] or 0, d["slug"])):
+        if not (d["raw"] and d["batch"].startswith("budget-poll-")) or f"[[{d['slug']}]]" in text:
+            continue
+        year_file = BUDGETS / d["iso3"] / f"{d['fy']}.csv"
+        if not year_file.exists():
+            continue
+        held = set()
+        with open(year_file, encoding="utf-8-sig", newline="") as fh:
+            for row in csv.DictReader(fh):
+                held |= {s for s in ("proposed", "appropriated", "revised", "released", "actual",
+                                     "audited") if (row.get(s) or "").strip()}
+        wanted = stages.get(d["doc_type"], "")
+        new = [s for s in wanted.split("|") if s and s not in held and s not in ("none", "as-stated")]
+        adds = (f"adds {' or '.join(new)}" if new else
+                f"{wanted.replace('|', ' or ')} already held — read it for a revision")
+        lines.append(f"- **{d['iso3']} FY{d['fy']}** — {d['doc_type']} {adds}: [[{d['slug']}]] "
+                     f"(queued {today}).")
+    if lines:
+        text = text.rstrip("\n") + "\n"
+        if FOLLOWUPS_HEAD not in text:
+            text += (f"\n{FOLLOWUPS_HEAD}\n\nOne BUDGET-EXTRACT sitting a line (R106). "
+                     "`budget-watch.py followups` writes them; delete a line in the commit that "
+                     "settles it.\n\n")
+        FOLLOWUPS.write_text(text + "\n".join(lines) + "\n", encoding="utf-8", newline="\n")
+    print(f"budget-watch followups: {len(lines)} queued")
+    return 0
+
+
+def month_index(iso_date: str) -> int | None:
+    m = re.match(r"(\d{4})-(\d{2})", iso_date or "")
+    return int(m.group(1)) * 12 + int(m.group(2)) - 1 if m else None
+
+
+def coverage(docs: list[dict] | None = None) -> int:
+    """R106: the coverage table's data. For each country, each type it has published and each
+    fiscal year from `YEARS_BACK` years ago to this one: `held`, or `absent` once the type is
+    due by that country's own calendar, or `not due`. The calendar is the median gap, in months,
+    between a fiscal year's start and the type's publication across the documents held, plus
+    `GRACE`. Written to `outputs/budgets/coverage.csv`, dated; the absences are review 6's count."""
+    docs = budget_documents() if docs is None else docs
+    stages = doc_stages()
+    _, rows = read_existing()
+    fsm = {}
+    for r in rows.values():
+        if r.get("fy_start_month"):
+            fsm[r["iso3"]] = int(r["fy_start_month"])
+    today = dt.date.today()
+    now = today.year * 12 + today.month - 1
+    gaps: dict[tuple[str, str], list[int]] = collections.defaultdict(list)
+    held: dict[tuple[str, str, int], list[str]] = collections.defaultdict(list)
+    for d in docs:
+        if d["fy"] is None or d["iso3"] not in fsm:
+            continue
+        held[(d["iso3"], d["doc_type"], d["fy"])].append(d["slug"])
+        pub = month_index(d["published"])
+        if pub is not None and d["precision"] in ("day", "month"):
+            gaps[(d["iso3"], d["doc_type"])].append(pub - (d["fy"] * 12 + fsm[d["iso3"]] - 1))
+    out = []
+    for (iso3, doc_type), g in sorted(gaps.items()):
+        if stages.get(doc_type, "none") in ("none", "as-stated"):
+            continue                    # a statement or a procurement plan is not a budget stage
+        gap = sorted(g)[len(g) // 2]
+        for fy in range(today.year - YEARS_BACK, today.year + 1):
+            due = fy * 12 + fsm[iso3] - 1 + gap + GRACE
+            slugs = held.get((iso3, doc_type, fy), [])
+            status = "held" if slugs else "absent" if due <= now else "not due"
+            out.append({"iso3": iso3, "fiscal_year": fy, "doc_type": doc_type,
+                        "stages": stages.get(doc_type, ""), "status": status,
+                        "due": f"{due // 12}-{due % 12 + 1:02d}", "held": len(slugs),
+                        "as_of": today.isoformat()})
+    COVERAGE.parent.mkdir(parents=True, exist_ok=True)
+    with open(COVERAGE, "w", encoding="utf-8", newline="") as fh:
+        w = csv.DictWriter(fh, fieldnames=list(out[0]), lineterminator="\n")
+        w.writeheader()
+        w.writerows(out)
+    count = collections.Counter(r["status"] for r in out)
+    print(f"budget-watch coverage: {len({r['iso3'] for r in out})} countries, "
+          + ", ".join(f"{k} {v}" for k, v in sorted(count.items()))
+          + f" -> {COVERAGE.relative_to(ROOT)}")
+    return 0
+
+
 def main() -> int:
     p = argparse.ArgumentParser(description=__doc__.split("\n\n")[0])
     sub = p.add_subparsers(dest="cmd", required=True)
@@ -882,7 +1020,13 @@ def main() -> int:
     f.add_argument("--iso", help="one country")
     fl = sub.add_parser("fetch-list", help="R104: the manual libraries to the fetch list, quarterly")
     fl.add_argument("--dry-run", action="store_true", help="print the batch, write nothing")
+    sub.add_parser("followups", help="R106: queue an extract sitting for each pulled document")
+    sub.add_parser("coverage", help="R106: held and absent types per country-year")
     args = p.parse_args()
+    if args.cmd == "followups":
+        return followups()
+    if args.cmd == "coverage":
+        return coverage()
     if args.cmd == "refind":
         return refind(args.iso and args.iso.upper())
     if args.cmd == "fetch-list":
