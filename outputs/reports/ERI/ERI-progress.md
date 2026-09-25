@@ -1,12 +1,12 @@
 ---
 title: Eritrea — progress report, September 2025 – September 2026
-compiled: 2026-09-24
-period: 2025-09-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2025-09-01 to 2026-09-25
 place: ERI
 ledger_rows: 93
 not_held: 23
 indicators: 123
-record: e79721009017
+record: 72a8f35ac8de
 ---
 
 # Eritrea: progress report, September 2025 – September 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the repository holds nothing on that indicator. **That is a statement about this repository, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-09-01 to 2026-09-24.*
+*The period is 2025-09-01 to 2026-09-25.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the repository holds a standing position and nothing in the period touched it. ***No evidence*** — the repository holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Movement, regulations still pending*.
 
@@ -230,4 +230,6 @@ Where a row reads ***No evidence***, the repository holds nothing on that indica
 | Justice sector management information system | Any named court case-management or justice information system, or a ministry statement describing one. | 2026-12-01 |
 | Refugee and displaced-person protection framework | Accession to the refugee convention or the regional convention, or a national refugee or asylum statute. | 2026-12-01 |
 | Position in the regional treaty and programme frameworks | Signature of the continental free trade agreement, or inclusion in the regional digital integration programme's coverage. | 2026-12-01 |
+| Fiscal-year budget for the digital estate | A published state budget, finance proclamation or appropriation statement for any fiscal year, read into the budget extract. | 2026-09-25 |
+| Hosting of the population registers and identity database | A government, operator or partner statement naming where the zoba population registers or the identity-card database are hosted and who administers them. | 2026-09-25 |
 
