@@ -1,11 +1,11 @@
 ---
 title: Mozambique — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-25
+period: 2026-08-01 to 2026-09-25
 place: MOZ
-ledger_rows: 79
+ledger_rows: 80
 not_held: 19
-record: f7304901795d
+record: a49dff92af56
 ---
 
 # Mozambique: monthly update, August – September 2026
@@ -25,7 +25,7 @@ Artificial intelligence acquired institutions faster than instruments. A [nation
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
-Two strategies are being written and neither is adopted. The National Cyber Security Strategy 2026-2030 [was reviewed with a donor partner alongside an evaluation of its 2021-2025 predecessor](https://revista.tempo.co.mz/intic-e-finlandia-reforcam-cooperacao-para-a-estrategia-nacional-de-seguranca-cibernetica-2026-2030/), succeeding a policy whose own period ended last year. The National Digital Transformation Strategy [has been in drafting since February](https://www.trade.gov/market-intelligence/mozambique-digital-transformation-strategy) and is in drafting still — no change at either end of the window.
+Two strategies are being written and neither is adopted. The National Cyber Security Strategy 2026-2030 [was reviewed with a donor partner alongside an evaluation of its 2021-2025 predecessor](https://revista.tempo.co.mz/intic-e-finlandia-reforcam-cooperacao-para-a-estrategia-nacional-de-seguranca-cibernetica-2026-2030/), succeeding a policy whose own period ended last year. The National Digital Transformation Strategy [has been in drafting since February](https://www.trade.gov/market-intelligence/mozambique-digital-transformation-strategy) and is in drafting still — no change at either end of the window. Until one is adopted the operative plan is the Strategic Plan for the Information Society 2019-2028: a civil-society review published on 22 September [cites it as Resolution 52/2019 and finds its execution hampered by limited consolidated public reporting and dependence on donor cycles](https://paradigmhq.org/report/digital-inclusion-in-africa-mapping-the-ecosystem-gap/).
 
 Financial data residency was rewritten. The central bank [gazetted Aviso 6/GBM/2026 on 31 August, requiring every bank's primary data centre and principal information systems in national territory and revoking the 2003 rule](https://www.bancomoc.mz/media/j2fgaf3a/aviso-6_gbm_2026-de-18-de-agosto_-br_166_i_s%C3%A9rie_2026_31-de-agosto.pdf), in force 60 days after publication.
 
