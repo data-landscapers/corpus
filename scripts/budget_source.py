@@ -175,7 +175,7 @@ class SourceError(Exception):
 
 # ---------------------------------------------------------------- the external companion
 # **`budgets/{ISO3}/external.csv` is the denominator of the financial sustainability measure**
-# (`documentation/indicator-financial-sustainability.md` §5). The origin gate sends an externally
+# (`documentation/archived/indicator-financial-sustainability.md` §5). The origin gate sends an externally
 # financed digital line to the non-state side, so no `{FY}.csv` row holds it, and its size used to
 # live only in the sitting's log note. Here it is a row with the same citation discipline as a
 # domestic one: one per external line per fiscal year, at the grain the document prints it.

@@ -51,7 +51,7 @@ STAGE_FIELDS = ("stage", "stage_rows", "value", "unit", "value_year", "value_sou
                 "next_milestone", "due", "assessed_on", "reassessed", "qualifier")
 UNIT_FIELDS = UNIT_FIELDS + STAGE_FIELDS
 
-# The maturity assessment's three frame columns (`documentation/maturity-assessment.md` §4 and
+# The maturity assessment's three frame columns (`documentation/archived/maturity-assessment.md` §4 and
 # `adding-an-indicator.md` §§3, 10). `kind` picks the rubric family; `assessed = 0` keeps a row
 # for its id and its mapped rows without staging it, and `retired` dates when that began. An id
 # is never deleted, so retirement is these two cells and nothing else.

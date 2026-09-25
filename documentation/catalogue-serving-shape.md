@@ -9,20 +9,18 @@ status: decided; carried out in full 2026-09-08 — see archived/catalogue-split
 # The serving shape of the catalogue
 
 > **Done, 2026-09-08 — all four parts, in one day.** `documentation/archived/catalogue-split-plan.md`
-> is the record: the effort behind each part, what was found on the way, and how each was proved.
-> This file is the decision and the argument for it; that one is the work.
+> is the record of the work; this file is the decision and the argument for it.
 >
 > **What the numbers came out at.** The filter index is **0.68 MB gzipped at 20,267 records, so
-> ~1.34 MB at 40,000** — the figure this note said the whole decision rested on, now measured
-> rather than projected, and it survives the hero column. A reader pays **0.73 MB gzipped before
-> the first draw against 3.73 MB**, an 80% cut, and the first screen is in the markup so the page
-> draws with JavaScript off entirely. `raw-catalogue.json` is gone from the site.
+> ~1.34 MB at 40,000** — measured, and it survives the hero column. A reader pays **0.73 MB gzipped
+> before the first draw against 3.73 MB**, an 80% cut, and the first screen is in the markup so the
+> page draws with JavaScript off entirely. `raw-catalogue.json` is gone from the site.
 
-*(This resolves the first bullet of `design.md` §6, *Serving shape of the catalogue*, and supersedes both its projection and the instrument it reached for. §6's bullet should be struck and replaced with a pointer here. Written 2026-09-04 against a catalogue of 16,730 records, at Bill's request to plan for 40,000.)*
+*(This resolves the first bullet of `design.md` §6, *Serving shape of the catalogue*, and supersedes both its projection and the instrument it reached for. Written 2026-09-04 against a catalogue of 16,730 records, to plan for 40,000.)*
 
 ## What was measured
 
-Everything below is the built tree at 2026-09-04, not an estimate. The 40,000-record column is a straight ×2.39 scaling, which is fair for these files: every one of them is a per-record structure with a fixed vocabulary alongside it, so nothing in them grows faster or slower than the row count.
+Everything below is the built tree at 2026-09-04. The 40,000-record column is a straight ×2.39 scaling, fair because every file is a per-record structure with a fixed vocabulary alongside it.
 
 | file | how it loads | now (16,730) | gzip | at 40,000 | gzip |
 |---|---|---|---|---|---|
@@ -46,54 +44,43 @@ Where the browse payload's bytes actually are, per column, uncompressed:
 
 ## The projection in §6 was wrong, and not by a little
 
-§6 says *~23 MB at the 30,000 records projected for spring 2027*. `logs/log.md` says catalogue 9,407 on 2026-08-13, 15,324 on 2026-09-03 and 16,730 on 2026-09-04 — **+7,323 records in 22 days, or 333 a day**, with +1,406 on the last day alone.
+§6 said *~23 MB at the 30,000 records projected for spring 2027*. The log showed **+7,323 records in the 22 days to 2026-09-04, or 333 a day**, which put 30,000 at mid-October 2026 and 40,000 at mid-November; the catalogue was already inside §6's *15–20k rows* band. **A projection written into a design record with no mechanism reading it back is a projection nobody re-checks.**
 
-At the 22-day average, 30,000 arrives around **mid-October 2026** and 40,000 around **mid-November 2026**. Spring 2027 was out by about five months, and the number it was pointed at was the smaller one. §6's other clause — that a single fetch *stops being defensible around 15–20k rows* — is not a future condition either: the catalogue entered that band in the last week of August and is inside it now.
-
-The lesson worth keeping is not that the arithmetic slipped. It is that a projection written into a design record with no mechanism reading it back is a projection nobody re-checks. `RENDER.md` Step 5 carried the same defect independently — *Expect ~10,700 records*, a statement that had been wrong for weeks and that a render printed past every night.
-
-> **The rate above is a backfill rate, and it is ending — Bill, 2026-09-08.** The 333 a day that
-> the dates below are built on came from a month of `status-init` and `progress-filler` filling in
-> *history*, which is nearly complete. **The forward rate is 1,000–2,000 new items a month.**
+> **The rate above is a backfill rate, and it is ending — Bill, 2026-09-08.** The forward rate is
+> **1,000–2,000 new items a month**. From 20,267 records on 2026-09-08 that puts **30,000 between
+> February and July 2027**, and **40,000 between July 2027 and April 2028**. The dates in this note
+> are superseded; the *ordering* of the three constraints is not.
 >
-> From 20,267 records on 2026-09-08 — 9,733 short of 30,000 and 19,733 short of 40,000 — that puts
-> **30,000 between February and July 2027**, and **40,000 between July 2027 and April 2028**.
-> Ten months to twenty, against the two months the arithmetic above gives. Both dates below are
-> superseded; the *ordering* of the three constraints is not.
->
-> **Nothing in the decision changes and the work is already done.** What changes is urgency, and
-> it changes in the same direction as the two things that have happened since: the editions and
-> the shard indexes moved to R2, so `site/` is **67 MB against the 1 GB ceiling** rather than 924
-> MB, and the split shipped, so the eager payload is 0.73 MB gzipped rather than 3.73 MB.
-> Constraint 1 bound first and hardest on both counts and now binds on neither. **This note is
-> kept as the argument, not as a schedule**, and the next figure written into it should say what
-> would make it re-checked.
+> **Nothing in the decision changes and the work is already done.** The editions and the shard
+> indexes moved to R2, so `site/` is **67 MB against the 1 GB ceiling** rather than 924 MB, and the
+> eager payload is 0.73 MB gzipped rather than 3.73 MB: constraint 1 now binds on neither count.
+> **This note is kept as the argument, not as a schedule**, and the next figure written into it
+> should say what would make it re-checked.
 
 ## Three constraints, in the order they bind
 
-They are usually discussed as one problem. They are three, they have different deadlines, and the one everybody talks about is the last to arrive.
+They are three, with different deadlines, and the one usually discussed is the last to arrive.
 
-**1. `site/` is 924 MB against a hard 1 GB ceiling.** [GitHub Pages caps a published site at 1 GB](https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits) and recommends the source repository stay under the same. Reports (537 MB) and topics (277 MB) are what fills it — the catalogue's 72 MB is not the cause and never was. But the catalogue wants roughly another 100 MB by mid-November, and there is 76 MB of headroom in total. **This binds first, it binds hardest, and it is not a catalogue problem**; the catalogue is merely the tenant that notices the building is full. Whatever is decided here, the editions layer needs its own answer, and `prune-editions.py` deleting only what nobody downloaded is not going to be it for much longer.
+**1. `site/` is 924 MB against a hard 1 GB ceiling.** [GitHub Pages caps a published site at 1 GB](https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits) and recommends the source repository stay under the same. Reports (537 MB) and topics (277 MB) fill it — not the catalogue's 72 MB. But the catalogue wants roughly another 100 MB by mid-November against 76 MB of headroom. **This binds first, it binds hardest, and it is not a catalogue problem**: the editions layer needs its own answer, and `prune-editions.py` deleting only what nobody downloaded will not be it for long.
 
-**2. Git history churn, which is invisible in `site/`.** All three catalogue files are rewritten wholesale on every render and committed. At 40,000 that is roughly 17 MB of new, permanently-retained blob per build — git stores them zlib-compressed, so the compressed figures are the right ones to add up — plus whatever fraction of the ~114 MB names index churned that night. The log shows renders on consecutive days. Call it 6 GB a year of history that no prune can reach, because `prune-editions.py` deletes files from the tree and git keeps the blob; `design.md` §9 already says so about editions and it is equally true here. `du` on `.git` did not complete in 100 seconds over the Cowork mount, which is not a measurement but is a signal.
+**2. Git history churn, which is invisible in `site/`.** All three catalogue files are rewritten wholesale on every render and committed. At 40,000 that is roughly 17 MB of new, permanently retained blob per build (zlib-compressed, so the gzip figures are the ones to add), plus whatever fraction of the ~114 MB names index churned that night. Call it 6 GB a year of history no prune can reach, because `prune-editions.py` deletes files from the tree and git keeps the blob — as `design.md` §9 says of editions.
 
-**3. The eager payload — §6's problem, and the least urgent of the three.** At 40,000 the page ships 5.4 MB gzipped and then parses a 16.8 MB JavaScript source literal before it can draw anything. The bandwidth is survivable; the parse is not the kind of thing that degrades gracefully on a mid-range phone, and the page's `ROWS.forEach` pass then builds a second full-corpus string allocation (`r._s`, the per-row search blob of title + publisher + entity slugs) on top of the array it just parsed.
+**3. The eager payload — §6's problem, and the least urgent of the three.** At 40,000 the page ships 5.4 MB gzipped and then parses a 16.8 MB JavaScript source literal before it can draw anything. The bandwidth is survivable; the parse degrades badly on a mid-range phone, and `ROWS.forEach` then builds a second full-corpus string allocation (`r._s`, the per-row search blob of title + publisher + entity slugs) on top.
 
 ## Sharding by year is the wrong instrument
 
-§6 reaches for year-shards on the grounds that `raw/` is already sharded that way, so the boundary is nearly free.
+§6 reaches for year-shards because `raw/` is already sharded that way, so the boundary is nearly free.
 
-The boundary is cheap; the *access pattern* is what makes it wrong. The catalogue page's core interaction is to filter and sort **across the whole corpus** — a place, a topic, an entity, a free-text string — and only then to look at what came back. A year shard only helps a reader who has already chosen a year, and there is no year facet in the sidebar that is not a filter over everything. Every other filter would have to fetch every shard, so the common case gets *worse*: the same total bytes, now as N round trips with N parse steps. And §6 is right that the boundary is expensive to move once anything external consumes it, which argues for not choosing a bad one quickly.
+The boundary is cheap; the *access pattern* makes it wrong. The page's core interaction is to filter and sort **across the whole corpus** — a place, a topic, an entity, a free-text string — and only then look at what came back. A year shard helps only a reader who has already chosen a year. Every other filter would fetch every shard, so the common case gets *worse*: the same bytes as N round trips with N parse steps. And a boundary is expensive to move once anything external consumes it.
 
-There is also a measured reason to expect little from encoding alone. A columnar re-encode of the whole payload — dictionaries for publisher, places, topics and hostname, dates as integer day-offsets, titles and URL paths as newline-joined blobs, slugs stripped of their redundant date prefix — was prototyped and measured at **5.08 MB raw / 1.74 MB gzip against the present 7.03 MB / 2.24 MB**. That is a 28% cut raw and 22% gzipped: real, worth having, and nowhere near enough. At 40,000 it still lands at 12.1 MB raw and 4.2 MB gzipped. **You cannot encode your way out of shipping 40,000 titles and 40,000 URLs**, and those two columns plus the slug are 4.36 MB of the present 7.03 MB. The redundancy the dictionaries exploit is redundancy gzip was already exploiting.
+Encoding alone does not rescue it either. A columnar re-encode — dictionaries for publisher, places, topics and hostname, dates as integer day-offsets, titles and URL paths as newline-joined blobs, slugs stripped of their date prefix — measured **5.08 MB raw / 1.74 MB gzip against the present 7.03 MB / 2.24 MB**: a 28% cut raw and 22% gzipped, and at 40,000 still 12.1 MB raw and 4.2 MB gzipped. **You cannot encode your way out of shipping 40,000 titles and 40,000 URLs**; those two columns plus the slug are 4.36 MB of the present 7.03 MB, and the redundancy the dictionaries exploit is redundancy gzip was already exploiting.
 
 ## Amendment, 2026-09-08 — the hero text, which did not exist when this was measured
 
-**Everything above was measured against a payload with no `catalogue_hero` in it, and the column
-tables are short by one column.** OSINT began filling that field in September: **0 of the 13,264
-records ingested in July and August carry it, and 2,384 of September's 5,630 do — 42% of the
-month's intake against 16.9% of the corpus.** It is a one-line summary of the source, ~93
-characters, and it is on its way to being on everything.
+**Everything above was measured with no `catalogue_hero` in the payload.** OSINT began filling it in
+September: **0 of 13,264 July and August records carry it, and 2,384 of September's 5,630 do — 42%
+of the month's intake against 16.9% of the corpus.** It is a one-line summary of the source, ~93
+characters, on its way to being on everything.
 
 **Measured, not projected** — the current payload with the field filled in for every record, from
 the heroes already written:
@@ -105,32 +92,23 @@ the heroes already written:
 | **at 40,000, hero on 16.9%** | 17.55 MB | 5.83 MB |
 | **at 40,000, hero on 100%** | **20.65 MB** | **7.38 MB** |
 
-So the eager payload this note called *the least urgent of the three constraints* is heading for
-**37% more than the 16.8 MB / 5.4 MB it was measured at**. The three constraints keep their
-order, but the third one arrives sooner and larger than stated.
+So the third constraint arrives sooner and larger — **37% more than the 16.8 MB / 5.4 MB measured**
+— and the three keep their order.
 
-**The decision does not change, and the reason is worth stating: hero text lands entirely on the
-fetched half of the split.** It is not a facet, so it adds nothing whatever to the filter index —
-re-measured with the field filled in, that index is still **~1.3 MB gzipped at 40,000**, and the
-claim that makes this whole decision (*under a megabyte at 40,000, tractable at 100,000*) survives
-the new column with room to spare. Hero joins title, URL and slug in the row-text chunks, taking
-them from ~128 KB to **~177 KB per 500 rows** — a cost paid only for rows a reader actually looks
-at. **The hero text is an argument for doing the split, not against it**: unsplit, it is 0.8 MB
-of gzip every visitor pays before the page draws; split, it is 50 KB more on a chunk.
+**The decision does not change, because hero text lands entirely on the fetched half of the
+split.** It is not a facet, so the filter index is still **~1.3 MB gzipped at 40,000** with it
+filled in. Hero joins title, URL and slug in the row-text chunks, taking them from ~128 KB to
+**~177 KB per 500 rows**, paid only for rows a reader looks at. **The hero text is an argument for
+the split**: unsplit, it is 0.8 MB of gzip every visitor pays before the page draws; split, 50 KB
+more on a chunk.
 
-**One thing in the plan above needs correcting.** This note treats title, URL and slug as *display*
-text. Hero is not only display — `site/catalogue/index.html` folds it into the per-row
-search blob (`r._s = r[0] + r[1] + r[12] + r[7] + …`), so it is searched as well as shown. The
-bullet about moving free-text search onto the `names/` mechanism therefore has to tokenise **hero
-alongside title**, not title alone. That is more text per shard and no change of shape; the
-mechanism was built for 208,000 entity names and this is smaller. Missing it would silently
-narrow what search finds, which is the kind of regression nobody reports — the results simply
-look thinner.
+**One correction to the plan below.** Hero is searched as well as shown — `site/catalogue/index.html`
+folds it into the per-row search blob (`r._s = r[0] + r[1] + r[12] + r[7] + …`) — so free-text
+search on the `names/` mechanism must tokenise **hero alongside title**, not title alone. That is
+more text per shard and no change of shape. Missing it would silently narrow what search finds.
 
-**What this changes about timing: nothing, and that is the point.** The split was already deferred
-to the end of the freeze on 2026-09-28. Hero does not move that date. What it does remove is the
-option of deferring it *again* — the payload is now growing on two axes at once, records and
-columns, and the second one was not in the plan.
+**Timing:** hero removed the option of deferring the split again — the payload was growing on two
+axes at once, records and columns.
 
 ## The decision: split the payload where the work splits
 
@@ -147,40 +125,37 @@ Measured on the present catalogue, the two halves are of completely different or
 
 So:
 
-- **Ship the filter index up front**, fetched rather than `<script src>`. 0.79 MB gzipped at 40,000, and integers parse in milliseconds where a source literal does not. Every facet, every combination of facets and every sort runs against it with no text in memory. This is the number that makes the decision: **it is still under a megabyte at 40,000, and it would still be tractable at 100,000.**
+- **Ship the filter index up front**, fetched rather than `<script src>`. 0.79 MB gzipped at 40,000, and integers parse in milliseconds where a source literal does not. Every facet, combination and sort runs against it with no text in memory. This is the number that makes the decision: **it is still under a megabyte at 40,000, and it would still be tractable at 100,000.**
 - **Fetch row text in fixed chunks**, in the stored order (date-descending), only for rows about to be drawn — about 128 KB raw per 500 rows. A reader who filters to eleven results fetches the chunks those eleven live in and nothing else.
-- **Move title search onto the `names/` mechanism.** This is the part that already exists. Free-text search is the one operation that appears to need every title in the browser, and the answer is the machinery running today for 208,000 entity names: tokenise titles at build time into prefix shards posting document ids, fetch one shard per query. `build-names-index.py` and the page's `refreshNames()` are the working model, down to the degradation behaviour when a fetch fails. Titles are a smaller problem than names were.
-- **Render the first screen at build time.** The newest ~100 rows and the facet menus are known when `catalogue.py` runs; bake them into `index.html` and upgrade to live filtering when the index lands. This is the move that matters most for the long run, because it **decouples time-to-useful from corpus size permanently** rather than setting a second threshold to be rediscovered at 80,000.
+- **Move title search onto the `names/` mechanism**, which already exists: tokenise titles at build time into prefix shards posting document ids, fetch one shard per query. `build-names-index.py` and the page's `refreshNames()` are the working model, down to the degradation behaviour when a fetch fails.
+- **Render the first screen at build time.** The newest ~100 rows and the facet menus are known when `catalogue.py` runs; bake them into `index.html` and upgrade to live filtering when the index lands. This matters most for the long run, because it **decouples time-to-useful from corpus size permanently** rather than setting a second threshold to be rediscovered at 80,000.
 
-**Deep links must survive unchanged.** Filter state travels in the URL fragment and those URLs are citable in the same sense everything else here is; a reader arriving on a fragment gets the baked first screen, then the index, then the filtered result. Nothing about the fragment's grammar changes.
+**Deep links must survive unchanged.** Filter state travels in the URL fragment and those URLs are citable; a reader arriving on a fragment gets the baked first screen, then the index, then the filtered result. The fragment's grammar does not change.
 
 ## What happens to the other three files
 
-**`raw-catalogue.csv` does not change at all.** It is the citable public artefact and `design.md` §9's named exception to the edition rule — undated, republished wholesale, the column set `build-catalogue.py` defines. Nothing here touches it, and the export's byte-parity with it (`test_catalogue_export.py`, the BOM, the CRLF) stays exactly as it is.
+**`raw-catalogue.csv` does not change at all.** It is the citable public artefact and `design.md` §9's named exception to the edition rule — undated, republished wholesale, the column set `build-catalogue.py` defines. The export's byte-parity with it (`test_catalogue_export.py`, the BOM, the CRLF) stays exactly as it is.
 
-**`raw-catalogue.json` should go.** It exists for one purpose: the export cuts a whole-record selection from it by slug. `index.html`'s own comment weighs the three options and rejects packing the missing fields into the payload on the grounds that it would tax every visitor to serve an export most never ask for. That objection dissolves once the payload is chunked — those fields ride the row-text chunks, which are only fetched for rows the reader actually has. Dropping it takes ~31 MB off the published site and ~6.6 MB off every build's permanent git history, and removes the second consumer §6 was worried about pinning the format.
+**`raw-catalogue.json` should go.** It existed so the export could cut a whole-record selection by slug, because packing the missing fields into the payload would tax every visitor. Once the payload is chunked those fields ride the row-text chunks, fetched only for rows the reader has. Dropping it takes ~31 MB off the published site and ~6.6 MB off every build's permanent git history, and removes the second consumer §6 was worried about pinning the format.
 
-**`names/` should move off GitHub Pages to R2, behind the Worker that is already there.** At 40,000 it is ~114 MB and ~7,000 files of pure derived data: fetched, never cited, never linked, reproducible from `outputs/` in one command, and about to be joined by a title index of the same shape. It is the single largest thing on the site with no claim to be there. `documentation/cloudflare.md` has the account, the zone and a Worker in production; this is an extension of a thing that works, not a new dependency. **That one move returns more headroom against the 1 GB ceiling than everything else in this note combined.**
+**`names/` should move off GitHub Pages to R2, behind the Worker that is already there.** At 40,000 it is ~114 MB and ~7,000 files of pure derived data: fetched, never cited, never linked, reproducible from `outputs/` in one command, and about to be joined by a title index of the same shape. `documentation/cloudflare.md` has the account, the zone and a Worker in production. **That one move returns more headroom against the 1 GB ceiling than everything else in this note combined.**
 
 ## What is a defect and what is a feature
 
-The freeze runs to 2026-09-27 and the test is *wrong* against *missing* (`CLAUDE.md` → *The freeze*).
+**Everything architectural above was missing, not wrong**: nothing on the site stated something false because of it, so it was a feature, decided early so it would not be decided in a hurry.
 
-**Everything architectural above is missing, not wrong.** The page works, it will keep working through October, and nothing on the site is currently stating something false because of it. It is a feature and it waits for 2026-09-28. Deciding it now is the point of writing this down — the decision is the part that was blocking, and it should not be made in a hurry in November.
-
-**Two things are wrong now and are fixable inside the freeze:**
-
-- `RENDER.md` Step 5: *Expect ~10,700 records*. A stated expectation that cannot be right, printed past on every render.
-- `design.md` §6, first bullet: the 30,000-by-spring-2027 projection, contradicted by this repo's own log. Strike it and point here.
-
-`RENDER.md` line 141 is also drifting — *~208,000 names in ~1,900 shards* against 4,655 shards on disk — and should be restated as a fact about the last build rather than a fixed expectation, or dropped.
+**The two things that were wrong** — `RENDER.md` Step 5's fixed record-count expectation and `design.md` §6's spring-2027 projection — are fixed: `RENDER.md` states counts as facts about the last build, and §6 points here.
 
 ## What this leaves open
 
-**The editions layer, which is the real ceiling problem.** 814 MB of the site's 924 MB is `reports/` and `topics/`, and this note does nothing about it. Retention is already conditional on somebody having downloaded the file (`design.md` §9, `prune-editions.py`), so the cheap move has been made. The next one is probably the same one recommended for `names/` — the dated PDFs are citable artefacts, but a citable artefact does not have to be served from the same origin as the page, and the Worker is already in the path of every download. That is a bigger decision than this one and wants its own note.
+**The editions layer, which is the real ceiling problem.** 814 MB of the site's 924 MB was `reports/` and `topics/`, and this note does nothing about it.
 
-> **Resolved, 2026-09-08 — `documentation/editions-serving-shape.md`.** It is the same move, and it was built together with the `names/` one recommended above rather than after it: the dated editions and the names shards go to R2 behind the Worker at the URLs they already have. The paragraph above was right that the editions are the ceiling problem and right about the shape of the answer. What it did not anticipate is that the pre-worker archive would be cleared first (1,237 editions, 374 MB) — which bought three weeks and was never the solution.
+> **Resolved, 2026-09-08 — `documentation/editions-serving-shape.md`.** The same move as for
+> `names/`, built together with it: the dated editions and the names shards go to R2 behind the
+> Worker at the URLs they already have.
 
-**Whether the browse payload's chunk boundary is a public commitment.** The chunks are fetched by the page and by nothing else, so on the face of it they are private and re-choosable. That was true of `raw-catalogue.json` too, right up until the export started reading it. State plainly, in `catalogue.py`, that the chunk files are internal and carry no stability promise — the whole-catalogue CSV is the supported way to consume this data — or the boundary will acquire a second consumer the same way the last one did.
+**Whether the browse payload's chunk boundary is a public commitment.** It is not: the chunk files are internal and carry no stability promise, and the whole-catalogue CSV is the supported way to consume this data — stated or the boundary acquires a second consumer, as `raw-catalogue.json` did.
 
-> **Said, 2026-09-08.** `catalogue.py` carries it where it writes them, and `RENDER.md` repeats the pointer. The second consumer that prompted this is also gone: the export no longer reads a published file, it rebuilds each record from the chunks, so nothing outside the page depends on their shape.
+> **Said, 2026-09-08.** `catalogue.py` carries it where it writes them, and `RENDER.md` repeats the
+> pointer. The export no longer reads a published file — it rebuilds each record from the chunks —
+> so nothing outside the page depends on their shape.

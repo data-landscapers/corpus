@@ -50,7 +50,7 @@ Neither the wiki nor the AfDB dataset is a source; both are intermediaries, and 
 
 ## Inputs
 
-- `documentation/status-outline.md` — the question set. **39 sub-sections** (`finance.sustain` and `geopol.sovereignty` added 2026-09-25, review 5 R78); `finance.budget` is suspended; the appendix and `[PROPOSED]` ids are out of scope.
+- `documentation/status-outline.md` and `status-outline-part-2.md` (Geopolitics to Finance) — the question set. **39 sub-sections** (`finance.sustain` and `geopol.sovereignty` added 2026-09-25, review 5 R78); `finance.budget` is suspended; `status-outline-proposed.md` and `[PROPOSED]` ids are out of scope.
 - `lookups/countries.csv` — ISO3 → name → region.
 - `wiki/places/{ISO3}.md` — the hub. Frontmatter `topics:`, `## Active topics` and `## Record not held` are the map; `## Recent developments` is chronology, read only to date a claim; `## Financing` is an uncited aggregate. **Never read a hub whole** (NGA is 301KB).
 - `wiki/intersections/*.md` — **the primary input**, the compiled current state. **Do not construct the filename**: select on frontmatter **`place: {ISO3}`**, which is authoritative in all files (several countries use unexpected prefixes). Take the region's files too where they bear on `gov.regional`. A thin country (Eritrea: none) is a real outcome, not a failed selection.

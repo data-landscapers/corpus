@@ -5,8 +5,8 @@ r"""maturity-rubric-cut.py — cut reviewed chapters of the rubric draft into th
     python scripts/maturity-rubric-cut.py --check      # every cut row still equals the draft
 
 **The draft is the source until the lookup exists** (task C2). Cowork drafts
-`documentation/maturity-rubric.md` a chapter's kind at a time; CC reviews it
-(`documentation/maturity-rubric-review.md`) and, on acceptance, cuts exactly what was accepted —
+`documentation/archived/maturity-rubric.md` a chapter's kind at a time; CC reviews it
+(`documentation/archived/maturity-rubric-review.md`) and, on acceptance, cuts exactly what was accepted —
 named by chapter and kind — into `lookups/maturity-rubric.csv`. Rows already in the lookup for
 other indicators are kept, so the lookup grows chapter by chapter and never takes a row that
 has not been reviewed, even when the draft already holds the next chapter.
@@ -33,7 +33,7 @@ import indicators_lib  # noqa: E402
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
-DRAFT = os.path.join(ROOT, "documentation", "maturity-rubric.md")
+DRAFT = os.path.join(ROOT, "documentation", "archived", "maturity-rubric.md")
 LOOKUP = os.path.join(ROOT, "lookups", "maturity-rubric.csv")
 
 _spec = importlib.util.spec_from_file_location("lr", os.path.join(HERE, "lint-maturity-rubric.py"))

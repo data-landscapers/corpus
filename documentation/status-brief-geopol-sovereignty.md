@@ -7,7 +7,7 @@ last_reviewed: 2026-09-25
 
 # `geopol.sovereignty` — the status sub-section
 
-*(Cowork, 2026-09-25, on Bill's framing, register R77. The drafting brief for the `### Digital sovereignty` sub-section of every country status report, written across the 54 units by R78, whose mechanics are the last section of `status-brief-finance-sustain.md`. Three questions — what the section says, what evidence it reads, what *Not established* looks like — under `STATUS-INIT.md`'s rules, which govern this sub-section as they govern the other 38. The indicator it pairs with is `indicator-digital-sovereignty.md`; the outline entry is `status-outline.md` → `geopol.sovereignty`.)*
+*(Cowork, 2026-09-25, on Bill's framing, register R77. The drafting brief for the `### Digital sovereignty` sub-section of every country status report, written across the 54 units by R78, whose mechanics are the last section of `status-brief-finance-sustain.md`. Three questions — what the section says, what evidence it reads, what *Not established* looks like — under `STATUS-INIT.md`'s rules, which govern this sub-section as they govern the other 38. The indicator it pairs with is `indicator-digital-sovereignty.md`; the outline entry is `status-outline-part-2.md` → `geopol.sovereignty`.)*
 
 ## The question
 

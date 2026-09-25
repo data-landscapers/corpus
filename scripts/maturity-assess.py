@@ -5,7 +5,7 @@ maturity-assess.py — the maturity assessor's two mechanical halves (tasks D1 a
     python scripts/maturity-assess.py packet {UNIT} --as-at 2026-07-31 [--out FILE]
     python scripts/maturity-assess.py apply  {UNIT} --as-at 2026-07-31 --verdicts FILE [--replace]
 
-`documentation/maturity-assessment.md` §6 is the spec. **The stage is a drafter's judgement, and
+`documentation/archived/maturity-assessment.md` §6 is the spec. **The stage is a drafter's judgement, and
 everything around it is this script's.** The model reads a packet and writes a verdict per
 indicator. It does not get to decide which evidence existed on the as-at date, whether a change
 of stage is allowed, or what the file looks like. Those are the rules the series rests on, and a

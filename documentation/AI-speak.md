@@ -4,6 +4,8 @@ reader: bill
 
 All from https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html
 
+## Examples
+
 - Compute arrived and so did the questions about what it costs. 
 - Identity and data protection both hardened.
 - Two long-running instruments reached dates.

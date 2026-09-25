@@ -7,7 +7,7 @@ last_reviewed: 2026-09-25
 
 # `finance.sustain` — the status sub-section
 
-*(Cowork, 2026-09-25, on Bill's framing, register R77. The drafting brief for the `### Financial sustainability` sub-section of every country status report, written across the 54 units by R78. `STATUS-INIT.md`'s rules on evidence, writing and verification govern this sub-section as they govern the other 38; nothing here overrides them. Pairs with `indicator-financial-sustainability.md` and the outline entry in `status-outline.md`. The last section is the mechanics of R78 for both sub-sections.)*
+*(Cowork, 2026-09-25, on Bill's framing, register R77. The drafting brief for the `### Financial sustainability` sub-section of every country status report, written across the 54 units by R78. `STATUS-INIT.md`'s rules on evidence, writing and verification govern this sub-section as they govern the other 38; nothing here overrides them. Pairs with `indicator-financial-sustainability.md` and the outline entry in `status-outline-part-2.md`. The last section is the mechanics of R78 for both sub-sections.)*
 
 ## The question
 

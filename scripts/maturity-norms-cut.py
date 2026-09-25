@@ -5,7 +5,7 @@ r"""maturity-norms-cut.py — cut `lookups/maturity-norms.csv` from the norms re
     python scripts/maturity-norms-cut.py --check    # exit 1 if the lookup differs from a fresh cut
 
 **The register is the source and this is a cut of it, not a retyping** (task C1,
-`documentation/maturity-assessment-tasks.md`). `documentation/maturity-assessment-norms.md` §3
+`documentation/archived/maturity-assessment-tasks.md`). `documentation/archived/maturity-assessment-norms.md` §3
 holds one row per assessed indicator — kind, tier, anchor, provision, fixes, reference — and a
 note under each chapter's table; §4 holds each instrument once, with who adopted it, when, its
 status and the URL checked. The lookup is the join: one row per assessed indicator, its §3 cells
@@ -40,7 +40,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import indicators_lib  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
-REGISTER = os.path.join(ROOT, "documentation", "maturity-assessment-norms.md")
+REGISTER = os.path.join(ROOT, "documentation", "archived", "maturity-assessment-norms.md")
 LOOKUP = os.path.join(ROOT, "lookups", "maturity-norms.csv")
 
 COLUMNS = ("indicator_id", "kind", "tier", "instrument", "adopting_body", "adopted", "status",

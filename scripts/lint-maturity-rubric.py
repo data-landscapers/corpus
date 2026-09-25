@@ -8,7 +8,7 @@ r"""lint-maturity-rubric.py — the maturity rubric against the frame and the no
 `lookups/maturity-rubric.csv` is `indicator_id, stage, anchor, interpolated`: five rows per
 assessed indicator, each anchor naming the evidence that satisfies that stage, and
 `interpolated` saying whether the norm states the rung or Corpus does
-(`documentation/maturity-assessment.md` §5). It is drafted a chapter at a time in Cowork and
+(`documentation/archived/maturity-assessment.md` §5). It is drafted a chapter at a time in Cowork and
 reviewed here before the next chapter starts (task C2), so this is what makes a review
 mechanical: the structure, the frame, and whether `interpolated` agrees with what the register
 says each norm fixes.
@@ -67,7 +67,7 @@ MD_ROW = re.compile(r"^\|\s*([^|]*?)\s*\|\s*(.*?)\s*\|\s*([^|]*?)\s*\|\s*$")
 
 def read(path: str) -> tuple[list[str], list[dict]]:
     """A rubric's header and rows — from the CSV, or from Cowork's markdown draft
-    (`documentation/maturity-rubric.md`: a `### \\`id\\`` heading over a
+    (`documentation/archived/maturity-rubric.md`: a `### \\`id\\`` heading over a
     `| stage | anchor | interpolated |` table), so a chapter is checked before it is cut."""
     if path.endswith(".md"):
         rows, iid = [], None

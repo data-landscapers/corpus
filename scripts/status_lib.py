@@ -60,10 +60,13 @@ ACQUIRE_CSV = os.path.join(EXCHANGE, "africa-acquire.csv")
 # both files have to be read to know whether a URL owes an acquisition.
 ACQUIRE_DONE_CSV = os.path.join(EXCHANGE, "acquire-done.csv")
 OUTLINE = os.path.join(REPO, "documentation", "status-outline.md")
+# The outline is split across two files to keep each under the spec cap (review 5 R92); each
+# chapter's headings live in exactly one of them, and `outline()` reads both.
+OUTLINE_PARTS = (OUTLINE, os.path.join(REPO, "documentation", "status-outline-part-2.md"))
 REPORTS = os.path.join(REPO, "outputs", "reports")
 
 # `finance.budget` is suspended and a status report carries 39 sub-sections, not 40
-# (`documentation/status-outline.md` -> finance.budget).
+# (`documentation/status-outline-part-2.md` -> finance.budget).
 SUSPENDED = ("finance.budget",)
 
 # The appendix is out of scope and its headings are shaped like real ones, so parsing stops here.
@@ -297,10 +300,11 @@ def outline():
     Chapter *labels* come from the outline, not from the taxonomy, because the two agree and the
     outline's are the ones the drafting process names."""
     if "outline" not in _cache:
-        text = open(OUTLINE, encoding="utf-8").read()
-        stop = APPENDIX.search(text)
-        if stop:
-            text = text[:stop.start()]
+        text = ""
+        for part in OUTLINE_PARTS:
+            t = open(part, encoding="utf-8").read()
+            stop = APPENDIX.search(t)
+            text += "\n" + (t[:stop.start()] if stop else t)
         out, chapter = [], None
         for line in text.splitlines():
             h2 = re.match(r"^## (.+)$", line)
