@@ -6,7 +6,7 @@ region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 8
-sources_cited: 177
+sources_cited: 176
 sections_written: 39
 not_established: 3
 acquire_lines: 31
@@ -396,4 +396,4 @@ India has an instrument in Lesotho that the European Union does not: a [ministry
 
 The rule on where data sits is written but not public. [The January 2025 draft of the Data Management Policy set out to regulate hosting services, prioritise cloud-based solutions for government systems and define rules for cross-border transfers that respect national data sovereignty](https://www.gov.ls/download/draft-data-management-policy_1-0/), [was aligned with the AU Data Policy Framework at a validation workshop in October 2025](https://www.gov.ls/government/follow-up-on-lesotho-data-governance-capacity-building-and-engagement-workshop/), and [was signed by the minister in June 2026](https://lestimes.com/?p=90715), [with no publication or commencement date stated](https://techafricanews.com/2026/08/18/lesotho-begins-work-on-national-ai-strategy-and-data-centre-blueprint/) (August 2026).
 
-The state frames the AI layer as control rather than ownership. [Lesotho's ambassador told the AIFOD Geneva summit in August 2026 that AI sovereignty for small states means keeping control over judgement and data governance rather than owning every layer of the stack](https://af.net/news/lesotho-makes-the-case-for-practical-ai-sovereignty-at-aifod-geneva-summit/), and [the communications minister credited a UN-India fund's upgrade of the state's high-performance computing with laying the foundation for Lesotho to host, process and govern its own digital public infrastructure, while pitching the country to hyperscalers as a data-centre destination (May 2026)](https://www.lena.gov.ls/moorosi-advances-lesothos-digital-infrastructure-and-data-centre-agenda-at-un-meeting/). The terms on which the Convalt Energy agreement for the Kobong AI data centre governs data jurisdiction, portability and exit had not been published as at September 2026.
+[The communications minister credited a UN-India fund's upgrade of the state's high-performance computing with laying the foundation for Lesotho to host, process and govern its own digital public infrastructure, while pitching the country to hyperscalers as a data-centre destination (May 2026)](https://www.lena.gov.ls/moorosi-advances-lesothos-digital-infrastructure-and-data-centre-agenda-at-un-meeting/). The terms on which the Convalt Energy agreement for the Kobong AI data centre governs data jurisdiction, portability and exit had not been published as at September 2026.
