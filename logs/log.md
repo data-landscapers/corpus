@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-09-25 07:38 · **BUDGET-EXTRACT** · 20m · COD FY2024-2026: 421 lines from the LF 2024, LFR 2025 and LF 2026 detail volumes; share 75.7%, 97.7% (revised), 73.0%
 2026-09-25 07:37 · **BUDGET-EXTRACT** · 19m · CMR FY2024-2026: 36 lines from the finance bills and laws, special accounts and levy ceilings; all appropriated, origin inferred
 2026-09-25 07:36 · **BUDGET-EXTRACT** · 19m · ETH FY2024-2026: 370 lines from the federal estimates workbooks and proclamation; share 86.4% (proposed), 78.4%, 79.8%
 2026-09-25 07:35 · **BUDGET-EXTRACT** · 17m · COM FY2024-2026: 37 lines from the finance laws' service annexes; FY2024 revised only, FY2026 no share (external lines held at proposed)
