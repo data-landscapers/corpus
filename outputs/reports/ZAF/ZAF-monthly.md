@@ -1,11 +1,11 @@
 ---
 title: South Africa — monthly update, August – September 2026
-compiled: 2026-09-24
-period: 2026-08-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2026-08-01 to 2026-09-25
 place: ZAF
-ledger_rows: 187
+ledger_rows: 191
 not_held: 22
-record: b4382d562d6d
+record: 20e758d790da
 ---
 
 # South Africa: monthly update, August – September 2026
@@ -172,6 +172,8 @@ A published critique argues that the draft digital-identity regulations [under-s
 The minister [said about 300,000 identity documents have been blocked under court orders where duplicates or people in the country illegally were found; that most identity-theft cases involve the green identity book still held by about 16 million people; and that the answer is to expand the smart ID card and the electronic travel authorisation](https://www.sundaytimes.timeslive.co.za/news/2026-08-27-home-affairs-blocks-300000-ids-amid-fraud-crackdown/).
 
 The state [has a policy, draft regulations and a presidential commitment for a public key infrastructure, but no root of trust in operation; Zambia and Namibia launched national root certification authorities within the same fortnight](https://techcentral.co.za/south-africa-behind-neighbours-digital-id/286057/).
+
+In a written reply reported on 23 September the minister said [the department was investigating 21 cases of identity theft and fraudulently acquired identity documents, and that an electronic interface with the electoral commission checks identity details given at voter registration and voting against the population register](https://www.timeslive.co.za/news/south-africa/2026-09-23-home-affairs-investigating-21-cases-of-identity-theft-and-fraudulent-ids/). No count of records checked or rejected through that interface has been published.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -189,6 +191,8 @@ Cape Town [will pilot cashless payment at three of its 18 driving licence testin
 The rand stablecoin ZARU, [listed on an exchange on 7 August](https://www.itweb.co.za/article/rand-goes-on-chain-as-zaru-hits-luno-global/xA9PO7NE6RAvo4J8), [went live on 22 September on Circle's Arc blockchain as a founding pair on its StableFX foreign-exchange platform, trading against USDC](https://www.itweb.co.za/article/zaru-goes-live-on-circles-arc-blockchain/Pero37Z36KrMQb6m). [Standard Bank and Absa are named among the network's banking partners](https://www.itweb.co.za/article/zaru-goes-live-on-circles-arc-blockchain/Pero37Z36KrMQb6m). No transaction volume has been published.
 
 The app-only Bank Zero [recorded its first break-even month in August 2026 on 275,000 direct customers, and is onboarding 500,000 customers of the remittance firm Mukuru through an alliance-banking platform live since January](https://techcabal.com/2026/09/22/bank-zero-break-even-alliance-partnerships/). The figures are the bank's own.
+
+Paystack [introduced card payment inside the Shopify merchant checkout without redirection, with a Shopify integration for its in-store terminal](https://techafricanews.com/2026/09/25/paystack-south-africa-onsite-card-checkout-shopify/), reported on 25 September. No merchant count has been published.
 <!-- /narrative -->
 ### Registries
 
@@ -221,7 +225,7 @@ Correctional services [advertised a fifteen-year tender for an inmate communicat
 
 The social security agency [opened a WhatsApp self-service channel for grant beneficiaries to check application status, review status and proof-of-life verification without visiting an office, after verification by mobile number, one-time PIN and identity number](https://www.citizen.co.za/alberton-record/news-headlines/local-news/2026/08/28/sassa-rolls-out-whatsapp-self-service-for-grant-beneficiaries/). No usage figures have been published.
 
-The electoral commission's [audit trail shows no system activity in two of the six disputed councils in the two hours before the nomination deadline, and 2,274 candidates from 45 parties captured but never submitted as final](https://www.dailymaverick.co.za/article/2026-09-11-iec-audit-trail-challenges-ancs-claim-of-technical-problems/). The governing party had said technical problems stopped its operators from submitting.
+The electoral commission's [audit trail shows no system activity in two of the six disputed councils in the two hours before the nomination deadline, and 2,274 candidates from 45 parties captured but never submitted as final](https://www.dailymaverick.co.za/article/2026-09-11-iec-audit-trail-challenges-ancs-claim-of-technical-problems/). The governing party had said technical problems stopped its operators from submitting. On 23 September the commission said [the party had lost its court challenge, that it had concluded end-to-end testing of its results system for the 4 November elections, and that parties could test the system through their own experts from 5 to 12 October](https://www.citizen.co.za/news/south-africa/elections/iec-promises-glitch-free-elections-with-faster-queues/).
 
 On 15 September the Border Management Authority [introduced a Port Health Management System at Durban Harbour, replacing shipping agents' e-mailed requests with online service requests, inspections, free pratique applications, endorsements, invoicing and payment](https://www.itweb.co.za/article/bma-replaces-e-mail-with-digital-port-system/P3gQ2qGAlky7nRD1). Durban is the pilot site; no date has been given for other ports.
 <!-- /narrative -->
