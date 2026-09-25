@@ -1,11 +1,11 @@
 ---
 title: Ghana — monthly update, August – September 2026
-compiled: 2026-09-24
-period: 2026-08-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2026-08-01 to 2026-09-25
 place: GHA
-ledger_rows: 149
+ledger_rows: 151
 not_held: 9
-record: 8b0a9cf2605b
+record: b67ac8c52243
 ---
 
 # Ghana: monthly update, August – September 2026
@@ -129,6 +129,8 @@ The regulator also [held a two-day consultative and validation workshop with UNI
 It started teaching. A session at Accra on 19 August [put newsroom devices to journalists as deliberate targets rather than accidental victims, citing an Angolan journalist's 2024 spyware infection as the regional precedent](https://www.ghanabusinessnews.com/2026/08/19/journalists-facing-growing-digital-threats-cybersecurity-expert-warns/). No count of journalists trained under the project has been published.
 
 The response team behind the licensing regime published a volume figure for the first time: it [handled 3,363 incidents between January and June 2026 and ran vulnerability assessments across 25 critical information infrastructure institutions](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/). There is no breakdown by type, sector or outcome, so it establishes how much came in and nothing about what happened to it.
+
+On 24 September the [Ghana Cybersecurity Industry Forum, the industry platform provided for under section 81 of the Cybersecurity Act, set out its mandate under an interim president](https://www.myjoyonline.com/gcif-cautions-public-as-criminals-deploy-ai-in-phishing-attacks/), covering threat-intelligence sharing and incident-response coordination, and named a shortage of cybersecurity professionals as its main problem. No founding date or membership count is published.
 <!-- /narrative -->
 
 ## DPI
@@ -170,6 +172,8 @@ Card acceptance widened from outside the domestic rails. A commercial bank and a
 The virtual-asset regime acquired its coordinating machinery. A five-agency committee is [constituted and chaired by the central bank governor, joining the securities regulator, the finance ministry, the cyber security authority and the financial intelligence centre, working towards having the Virtual Asset Service Providers Act fully in force by 2027](https://bitcoinke.io/2026/09/ghana-sets-up-virtual-assets-committee/), and on 4 September the securities regulator [admitted a second sandbox cohort of ten participants, run with the central bank to test and refine the framework the Act introduced](https://www.myjoyonline.com/yellow-card-joins-ghanas-second-virtual-asset-regulatory-sandbox/), one of them a stablecoin infrastructure provider testing stablecoin payment, fiat settlement and wallet infrastructure under supervision. The cohort list, the first cohort's outcomes and the sandbox's exit criteria are not published.
 
 The central bank widened its enforcement. On 8 September it [named a second list of 20 unlicensed digital loan apps](https://www.bog.gov.gh/wp-content/uploads/2026/09/Notice-No.29-BOG-SEC-GOV-2026-Notice-PUBLICATION-OF-UNLICENSED-DIGITAL-CREDIT-SERVICE-PROVIDERS-ON-THE-BANKS-WEBSITE-SOCIAL-MEDIA-PLATFORMS-AND-OTHER-COMM-CHANNELS.pdf), five weeks after the first, [warning banks and payment providers not to process for them](https://gna.org.gh/2026/09/bog-names-20-unlicensed-digital-loan-providers/); the register of licensed providers it undertook to publish is still not out.
+
+On 23 September a fintech [began opening bank-backed virtual accounts for its Ghanaian customers through an API integration with Universal Merchant Bank](https://www.graphic.com.gh/business/business-news/chipper-cash-launches-bank-backed-virtual-accounts-with-umb.html), which the central bank and the securities regulator had approved to offer virtual accounts to eligible virtual-asset businesses. The approval date is not stated.
 <!-- /narrative -->
 ### Registries
 
