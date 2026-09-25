@@ -1,11 +1,11 @@
 ---
 title: Tanzania — monthly update, August – September 2026
-compiled: 2026-09-24
-period: 2026-08-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2026-08-01 to 2026-09-25
 place: TZA
-ledger_rows: 107
+ledger_rows: 109
 not_held: 5
-record: be6deedebbbd
+record: 27c9448c0130
 ---
 
 # Tanzania: monthly update, August – September 2026
@@ -35,6 +35,8 @@ The education, science and technology ministry [completed a draft National Techn
 
 <!-- narrative: governance--gov-legislate -->
 The legislative response to all of this is a review rather than a bill. The government says it will [review more than 1,000 laws, including the public-private partnership act, the companies act and financial legislation, to build a regulatory framework supporting artificial intelligence, digital commerce and technology investment](https://dailynews.co.tz/govt-to-review-over-1000-laws-to-attract-tech/) under the 2050 development vision. No list of statutes, sequencing, responsible body, timetable or consultation route is stated — and the repository still records no online-content or cybercrime regulation for the country, and no adopted artificial-intelligence strategy.
+
+The [Citizen Budget 2026/27, published on 22 September, lists the digital service tax on foreign digital service providers as raised from 2% to 3%](https://www.mof.go.tz/uploads/documents/en-1790088121-Citizen%20Budget%202026_27%20English%20Version%20.pdf). Its effective date and statutory clause are not stated.
 <!-- /narrative -->
 ### Data protection
 
@@ -101,6 +103,8 @@ The second operator [launched fibre-to-the-home in Dodoma](https://www.ecofinage
 The month's other route is a border crossing that has not begun. The foreign minister said the two countries would [fast-track a national fibre-optic cable from Kigoma to Kalemie in the Democratic Republic of Congo through Lake Tanganyika, alongside a standard gauge railway link through Burundi and a joint economic commission](https://dailynews.co.tz/tanzania-drc-agree-to-fast-track-sgr-link-and-fibre-optic-cable-across-lake-tanganyika/). No route survey, cost, financing, landing point or delivery date is published.
 
 The regulator scored quality for the quarter to June 2026: [the state operator highest at 98.1%, ahead of the largest operator at 97.7% and the third at 97.1%](https://techafricanews.com/2026/09/07/ttcl-tops-tanzania-telecom-quality-rankings-2026/) — the state operator leading on quality while holding a small share of the market. The measurement’s components and the underlying market shares are not stated. The state operator [agreed with the Burundian backbone operator to raise cross-border capacity from 4Gbps to 10Gbps](https://techafricanews.com/2026/09/09/ttcl-bbs-increase-tanzania-burundi-connectivity-capacity-10gbps/), reported 9 September.
+
+The service providers' association [upgraded the Dar es Salaam exchange's core switching to 100G on 23 September; the exchange connects 66 networks and averaged about 205 Gbps in late September against about 110 Gbps a year earlier, on its own statistics](https://tech.africa/tix-tanzania-100g-core-upgrade/). The regulator's director general [put available international capacity at 17,690 Gbps, of which 2,731 Gbps, or 15.4%, was in use in June 2026](https://www.thecitizen.co.tz/tanzania/supplement/robust-policies-plans-and-collaboration-drive-tanzania-s-communications-sector-5608712).
 <!-- /narrative -->
 ### Data Storage
 
@@ -114,7 +118,7 @@ A sector review of 5 August put a count on what is already there: [ten data cent
 <!-- narrative: ict-infrastructure--infra-cybersec -->
 One investigation put numbers on SIM-registration fraud: [198 SIM cards used in fraud were seized at Morogoro, 88 of them registered by a single agent under different names](https://www.mwananchi.co.tz/mw/habari/kitaifa/nyuma-ya-pazia-utapeli-mtandaoni-5525228).
 
-August gave the national series the earlier account lacked. The regulator told Parliament it had [blocked 39,117 fraud-linked phone numbers and 6,118 domains and applications in the 2025/26 financial year, removed 7,311 violating accounts and submitted 56 security-incident reports to the police](https://dailynews.co.tz/tanzania-blocks-39000-numbers-linked-to-fraud-in-its-intensified-war-against-cybercrime/); and it [identified 7,334 mobile lines linked to fraud between April and June 2026, down 25.3% from 9,817 in the preceding quarter](https://www.thecitizen.co.tz/tanzania/business/government-telecoms-join-forces-to-combat-growing-mobile-fraud-5553640), with two regions flagged as priorities and the regulator, operators and security agencies convening in August to coordinate further measures. Blocking is not prosecution: [56 incident reports stand against 39,117 numbers blocked](https://dailynews.co.tz/tanzania-blocks-39000-numbers-linked-to-fraud-in-its-intensified-war-against-cybercrime/), and no conviction or restitution figure is held.
+August gave the national series the earlier account lacked. The regulator told Parliament it had [blocked 39,117 fraud-linked phone numbers and 6,118 domains and applications in the 2025/26 financial year, removed 7,311 violating accounts and submitted 56 security-incident reports to the police](https://dailynews.co.tz/tanzania-blocks-39000-numbers-linked-to-fraud-in-its-intensified-war-against-cybercrime/); and it [identified 7,334 mobile lines linked to fraud between April and June 2026, down 25.3% from 9,817 in the preceding quarter](https://www.thecitizen.co.tz/tanzania/business/government-telecoms-join-forces-to-combat-growing-mobile-fraud-5553640), with two regions flagged as priorities and the regulator, operators and security agencies convening in August to coordinate further measures. Blocking is not prosecution: [56 incident reports stand against 39,117 numbers blocked](https://dailynews.co.tz/tanzania-blocks-39000-numbers-linked-to-fraud-in-its-intensified-war-against-cybercrime/), and no conviction or restitution figure is held. The regulator's director general later [set the June 2026 count against 23,328 reported cases in September 2023, a 69% fall, and said awareness campaigns may have raised reporting](https://www.thecitizen.co.tz/tanzania/supplement/robust-policies-plans-and-collaboration-drive-tanzania-s-communications-sector-5608712).
 
 
 The same budget statement [provides for cybercrime investigation centres at Dodoma and Zanzibar](https://dailynews.co.tz/security-digital-identity-and-technology-set-to-spur-tanzanias-growth/). Nothing is built, sited or staffed on the record, and the country still holds no published national cybersecurity strategy to place them in.
