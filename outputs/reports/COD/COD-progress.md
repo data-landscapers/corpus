@@ -1,12 +1,12 @@
 ---
 title: DR Congo — progress report, September 2025 – September 2026
-compiled: 2026-09-23
-period: 2025-09-01 to 2026-09-23
+compiled: 2026-09-25
+period: 2025-09-01 to 2026-09-25
 place: COD
 ledger_rows: 211
 not_held: 7
 indicators: 123
-record: 123cbbe95a17
+record: 7e3358681741
 ---
 
 # DR Congo: progress report, September 2025 – September 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the repository holds nothing on that indicator. **That is a statement about this repository, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-09-01 to 2026-09-23.*
+*The period is 2025-09-01 to 2026-09-25.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the repository holds a standing position and nothing in the period touched it. ***No evidence*** — the repository holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Movement, regulations still pending*.
 
@@ -214,4 +214,6 @@ Where a row reads ***No evidence***, the repository holds nothing on that indica
 | National digital literacy rate or skills baseline | an international digital-skills indicator for the country, a household survey module, or the sectoral policy's baseline annexe | 2026-09-04 |
 | Domestic public funding for digital and AI research | a finance-law section or programme line for scientific research, or the AI strategy's costed roadmap | 2026-09-04 |
 | Internet service quality in Kinshasa and the regulator's response | A regulator quality-of-service measurement, a published complaint series, or a determination or sanction against an operator on service quality. | 2026-12-17 |
+| Hosting, jurisdiction and end-of-term ownership of RDC-PASS data | the RDC-PASS public-private partnership contract with Trident, or a ministry or regulator text, stating where biometric data are hosted, under whose law, who owns the file at the end of the twenty-year term and the early-exit terms | 2026-09-25 |
+| Source-code, operation and exit terms of the E-Finance programme with Huawei | the finance ministry's contract with Huawei for the E-Finance programme or the ICT modernisation loan, or an audit of it, stating ownership of source code, operating arrangements and exit clauses | 2026-09-25 |
 
