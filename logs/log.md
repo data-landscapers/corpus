@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-09-25 22:04 · **ANALYTICS** · unclocked · 2026-09-23..2026-09-24 written; 24 Sep: dl.io 50 views / 0 clicks, corpus 114 views / 0 clicks
 2026-09-25 10:17 · **BUDGET-EXTRACT** · 37m · NGA FY2024-2026 completion: 2,721 lines under N250m added, NASRDA partial and OSGoF whole; share 46.6%, 39.3%, 66.6%
 2026-09-25 09:38 · **BUDGET-EXTRACT** · 5m · SWZ FY2026: 14 staged lines published against the newly catalogued 2026/27 Estimates
 2026-09-25 09:37 · **BUDGET-EXTRACT** · 31m · EGY FY2024-2026: 120 lines (8 bodies x 5 chapters) from the approved budget volumes, read from OSINT's copies in the mirror; NARSS regraded to partial
