@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-09-25 07:39 · **BUDGET-EXTRACT** · 1m · ERI FY2024-2026: nil; Eritrea publishes no national budget, nothing catalogued (note 58)
 2026-09-25 07:39 · **BUDGET-EXTRACT** · 3m · SDN FY2024-2026: nil; nothing catalogued and mof.gov.sd publishes no budget tables (already on OSINT's acquisitions list, note 58)
 2026-09-25 07:39 · **BUDGET-EXTRACT** · 22m · BWA FY2024-2026: 155 lines from the estimates volumes across every ministry; FY2026 proposed (Act not held); FY2024 no share (mixed stages)
 2026-09-25 07:38 · **BUDGET-EXTRACT** · 21m · CIV FY2024-2026: 712 lines at activity grain from the finance laws, 2024 settlement law and 2026 bill; share 88.8%, 83.2%, 72.9%
