@@ -385,6 +385,9 @@ Five indicators are proposed for each of the five actors, on a common frame, so 
 - Whether the core systems — identity, payments, the exchange layer, government hosting — can be maintained and changed nationally: source code, skills, contracts with exit terms — answered from the wiki; no variable
 - The terms of agreements with outside providers and powers — data jurisdiction, portability, exit — answered from the wiki, from the agreements the five actor sub-sections list; no variable
 - Whether the country takes part in a regional or continental cross-border data mechanism — answered from the wiki; `gov.regional` asks the same of cross-border transfers
+- Where the state's AI models and compute sit, and whether its AI strategy addresses hosting, model ownership and access terms — answered from the wiki; no variable
+
+The drafting brief — what the section says, what it reads, what *Not established* looks like — is `status-brief-geopol-sovereignty.md` (2026-09-25).
 
 ---
 
@@ -557,8 +560,12 @@ Five indicators are proposed for each of the five actors, on a common frame, so 
 - Whether the lines that keep systems running — maintenance, licences, subscriptions, connectivity — are domestically financed — answered from the budget extract's economic classification, where the document prints one; no variable
 - Whether what is voted is spent — execution against the voted figure, where an outturn is held — answered from the budget extract's stage history; no variable
 - Whether own-source revenue or a levy finances digital programmes in law — answered from the finance law's articles as the budget extract reads them; `finance.budget` asks the same of the mechanism
+- What the state is doing to get there — costed strategies with or without a line, plans to bring externally built systems onto the recurrent budget, reprioritisation visible across the years held — answered from the budget extract and the wiki; no variable
+- Whether private-sector partnerships carry any of it on terms that last — the state's obligation and the revenue model stated — answered from the wiki; `finance.new` carries the announcements
 
 Where a country's `budgets/` folder holds only migrated rows, the section says the budget has not yet been read, dated — which is true, and is the extraction queue.
+
+The drafting brief — what the section says, what it reads, what *Not established* looks like — is `status-brief-finance-sustain.md` (2026-09-25).
 
 ---
 

@@ -13,9 +13,3 @@ last_reviewed: 2026-08-28
 *(**Form.** `## YYYY-MM-DD HH:MM · job`, then one bullet per item: what happened, what the run did about it, what Bill's options are. Insert directly under the marker — appending puts the newest block at the bottom of a file that reads top-down.)*
 
 <!-- newest first: a new block goes directly below this line -->
-
-## 2026-09-24 23:41 · build
-
-- The 54 `{ISO3}-maturity.md` would have stopped the render (Step 2's coverage count) and fail check G on reference-data links. Left unpublished pending `maturity-rethink.md`; RENDER Step 2 now skips them. To publish: add them to the loop.
-- Every status report fails status-check E: none has the new `finance.sustain` and `geopol.sovereignty` sub-sections. Not a gate. Say when to schedule writing them across 54 units.
- 
