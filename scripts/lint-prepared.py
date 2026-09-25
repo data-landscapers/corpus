@@ -134,6 +134,7 @@ def closer_of(path: str, share: str) -> str:
 
 OPEN_JOB = re.compile(r"^(\d+)\.\s", re.M)
 OPEN_R = re.compile(r"^- \[ \] \*\*(R\d+[a-zA-Z]?)\b", re.M)
+ENTRY_END = re.compile(r"^(?:- \[|#|\d+\.\s)", re.M)
 
 
 def cited_by_open(name: str, src: dict) -> str:
@@ -146,7 +147,10 @@ def cited_by_open(name: str, src: dict) -> str:
     for text, pat, what in ((src["open"], OPEN_JOB, "housekeeping job"),
                             (src["register"], OPEN_R, "review line")):
         for m in pat.finditer(text):
-            nxt = pat.search(text, m.end())
+            # An entry ends at the next entry of **any** state, or a heading. Ending it at the next
+            # open one folded every closed line in between into it, so a done R87 read as named
+            # by the open R80 above it (2026-09-25).
+            nxt = ENTRY_END.search(text, m.end())
             body = text[m.start(): nxt.start() if nxt else len(text)]
             if re.search(r"prepared[\\/]%s\b" % re.escape(name), body):
                 return f"{what} {m.group(1)}"

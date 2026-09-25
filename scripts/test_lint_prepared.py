@@ -193,6 +193,14 @@ try:
 finally:
     shutil.rmtree(tmp, ignore_errors=True)
 
+# An open entry ends at the next entry of any state: a closed line below an open one is not part of it.
+_reg = ("- [ ] **R80 [X]** open thing\n- [x] **R87 [C]** deliver prepared/R87 here\n"
+        "- [ ] **R90 [X]** uses prepared/R99/x\n")
+check("a closed line is not folded into the open entry above it",
+      lp.cited_by_open("R87", {"open": "", "register": _reg}), "")
+check("an open line naming the folder still holds it",
+      lp.cited_by_open("R99", {"open": "", "register": _reg}), "review line R90")
+
 print()
 print("all cases pass" if not fails else f"{len(fails)} of the cases FAILED")
 sys.exit(1 if fails else 0)
