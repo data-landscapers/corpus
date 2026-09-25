@@ -23,15 +23,18 @@ BDI,2026,mtef,proposed,held,2026-05,1,2026-09-25
 BEN,2024,appropriation-act,appropriated,held,2024-01,2,2026-09-25
 BEN,2025,appropriation-act,appropriated,held,2025-01,4,2026-09-25
 BEN,2026,appropriation-act,appropriated,held,2026-01,3,2026-09-25
+BEN,2024,audited-accounts,audited,not due,2027-01,0,2026-09-25
+BEN,2025,audited-accounts,audited,not due,2028-01,0,2026-09-25
+BEN,2026,audited-accounts,audited,not due,2029-01,0,2026-09-25
 BEN,2024,board-budget,appropriated,held,2025-06,1,2026-09-25
 BEN,2025,board-budget,appropriated,held,2026-06,1,2026-09-25
 BEN,2026,board-budget,appropriated,not due,2027-06,0,2026-09-25
 BEN,2024,budget-estimates,proposed|appropriated,held,2024-02,17,2026-09-25
 BEN,2025,budget-estimates,proposed|appropriated,held,2025-02,11,2026-09-25
-BEN,2026,budget-estimates,proposed|appropriated,held,2026-02,14,2026-09-25
-BEN,2024,executive-instrument,revised|appropriated,absent,2024-07,0,2026-09-25
-BEN,2025,executive-instrument,revised|appropriated,held,2025-07,1,2026-09-25
-BEN,2026,executive-instrument,revised|appropriated,held,2026-07,1,2026-09-25
+BEN,2026,budget-estimates,proposed|appropriated,held,2026-02,15,2026-09-25
+BEN,2024,executive-instrument,revised|appropriated,absent,2023-10,0,2026-09-25
+BEN,2025,executive-instrument,revised|appropriated,held,2024-10,1,2026-09-25
+BEN,2026,executive-instrument,revised|appropriated,held,2025-10,2,2026-09-25
 BEN,2024,ifmis-extract,released|actual,not due,2042-08,0,2026-09-25
 BEN,2025,ifmis-extract,released|actual,not due,2043-08,0,2026-09-25
 BEN,2026,ifmis-extract,released|actual,not due,2044-08,0,2026-09-25
@@ -40,7 +43,7 @@ BEN,2025,implementation-report,released|actual,held,2025-12,4,2026-09-25
 BEN,2026,implementation-report,released|actual,held,2026-12,2,2026-09-25
 BEN,2024,mtef,proposed,held,2023-11,2,2026-09-25
 BEN,2025,mtef,proposed,held,2024-11,3,2026-09-25
-BEN,2026,mtef,proposed,held,2025-11,3,2026-09-25
+BEN,2026,mtef,proposed,held,2025-11,4,2026-09-25
 BEN,2024,treasury-release,released,absent,2024-02,0,2026-09-25
 BEN,2025,treasury-release,released,held,2025-02,1,2026-09-25
 BEN,2026,treasury-release,released,absent,2026-02,0,2026-09-25
@@ -77,22 +80,22 @@ BWA,2026,budget-estimates,proposed|appropriated,held,2026-05,21,2026-09-25
 BWA,2024,mtef,proposed,absent,2024-10,0,2026-09-25
 BWA,2025,mtef,proposed,held,2025-10,4,2026-09-25
 BWA,2026,mtef,proposed,not due,2026-10,0,2026-09-25
-CIV,2024,appropriation-act,appropriated,held,2024-01,22,2026-09-25
-CIV,2025,appropriation-act,appropriated,held,2025-01,21,2026-09-25
-CIV,2026,appropriation-act,appropriated,held,2026-01,21,2026-09-25
-CIV,2024,audited-accounts,audited,held,2026-01,6,2026-09-25
-CIV,2025,audited-accounts,audited,not due,2027-01,0,2026-09-25
-CIV,2026,audited-accounts,audited,not due,2028-01,0,2026-09-25
+CIV,2024,appropriation-act,appropriated,held,2024-01,23,2026-09-25
+CIV,2025,appropriation-act,appropriated,held,2025-01,22,2026-09-25
+CIV,2026,appropriation-act,appropriated,held,2026-01,22,2026-09-25
+CIV,2024,audited-accounts,audited,held,2026-02,7,2026-09-25
+CIV,2025,audited-accounts,audited,not due,2027-02,0,2026-09-25
+CIV,2026,audited-accounts,audited,not due,2028-02,0,2026-09-25
 CIV,2024,board-budget,appropriated,held,2024-01,1,2026-09-25
 CIV,2025,board-budget,appropriated,held,2025-01,2,2026-09-25
 CIV,2026,board-budget,appropriated,held,2026-01,2,2026-09-25
 CIV,2024,budget-estimates,proposed|appropriated,held,2024-01,6,2026-09-25
-CIV,2025,budget-estimates,proposed|appropriated,held,2025-01,7,2026-09-25
-CIV,2026,budget-estimates,proposed|appropriated,held,2026-01,11,2026-09-25
+CIV,2025,budget-estimates,proposed|appropriated,held,2025-01,10,2026-09-25
+CIV,2026,budget-estimates,proposed|appropriated,held,2026-01,16,2026-09-25
 CIV,2024,implementation-report,released|actual,held,2025-01,7,2026-09-25
 CIV,2025,implementation-report,released|actual,held,2026-01,6,2026-09-25
 CIV,2026,implementation-report,released|actual,held,2027-01,2,2026-09-25
-CIV,2024,mtef,proposed,held,2024-01,1,2026-09-25
+CIV,2024,mtef,proposed,held,2024-01,2,2026-09-25
 CIV,2025,mtef,proposed,held,2025-01,2,2026-09-25
 CIV,2026,mtef,proposed,held,2026-01,1,2026-09-25
 CMR,2024,appropriation-act,appropriated,held,2024-01,2,2026-09-25
@@ -107,9 +110,9 @@ CMR,2026,budget-estimates,proposed|appropriated,held,2025-12,3,2026-09-25
 CMR,2024,executive-instrument,revised|appropriated,held,2024-07,1,2026-09-25
 CMR,2025,executive-instrument,revised|appropriated,held,2025-07,1,2026-09-25
 CMR,2026,executive-instrument,revised|appropriated,held,2026-07,2,2026-09-25
-CMR,2024,implementation-report,released|actual,held,2024-11,3,2026-09-25
-CMR,2025,implementation-report,released|actual,absent,2025-11,0,2026-09-25
-CMR,2026,implementation-report,released|actual,not due,2026-11,0,2026-09-25
+CMR,2024,implementation-report,released|actual,held,2025-01,3,2026-09-25
+CMR,2025,implementation-report,released|actual,held,2026-01,1,2026-09-25
+CMR,2026,implementation-report,released|actual,not due,2027-01,0,2026-09-25
 CMR,2024,mtef,proposed,absent,2023-08,0,2026-09-25
 CMR,2025,mtef,proposed,held,2024-08,1,2026-09-25
 CMR,2026,mtef,proposed,absent,2025-08,0,2026-09-25
@@ -122,6 +125,9 @@ COD,2026,budget-estimates,proposed|appropriated,held,2025-10,4,2026-09-25
 COD,2024,implementation-report,released|actual,held,2025-02,6,2026-09-25
 COD,2025,implementation-report,released|actual,held,2026-02,2,2026-09-25
 COD,2026,implementation-report,released|actual,not due,2027-02,0,2026-09-25
+COD,2024,mtef,proposed,absent,2023-06,0,2026-09-25
+COD,2025,mtef,proposed,absent,2024-06,0,2026-09-25
+COD,2026,mtef,proposed,held,2025-06,2,2026-09-25
 COD,2024,treasury-release,released,absent,2024-05,0,2026-09-25
 COD,2025,treasury-release,released,absent,2025-05,0,2026-09-25
 COD,2026,treasury-release,released,held,2026-05,3,2026-09-25
@@ -200,8 +206,8 @@ DZA,2026,appropriation-act,appropriated,held,2026-02,4,2026-09-25
 DZA,2024,budget-estimates,proposed|appropriated,absent,2023-11,0,2026-09-25
 DZA,2025,budget-estimates,proposed|appropriated,held,2024-11,1,2026-09-25
 DZA,2026,budget-estimates,proposed|appropriated,held,2025-11,1,2026-09-25
-DZA,2024,executive-instrument,revised|appropriated,held,2024-02,2,2026-09-25
-DZA,2025,executive-instrument,revised|appropriated,held,2025-02,1,2026-09-25
+DZA,2024,executive-instrument,revised|appropriated,held,2024-02,4,2026-09-25
+DZA,2025,executive-instrument,revised|appropriated,held,2025-02,2,2026-09-25
 DZA,2026,executive-instrument,revised|appropriated,absent,2026-02,0,2026-09-25
 DZA,2024,implementation-report,released|actual,held,2026-01,1,2026-09-25
 DZA,2025,implementation-report,released|actual,not due,2027-01,0,2026-09-25
@@ -233,12 +239,18 @@ ETH,2026,budget-estimates,proposed|appropriated,held,2026-08,1,2026-09-25
 ETH,2024,implementation-report,released|actual,held,2025-06,4,2026-09-25
 ETH,2025,implementation-report,released|actual,absent,2026-06,0,2026-09-25
 ETH,2026,implementation-report,released|actual,not due,2027-06,0,2026-09-25
+ETH,2024,mtef,proposed,absent,2024-04,0,2026-09-25
+ETH,2025,mtef,proposed,absent,2025-04,0,2026-09-25
+ETH,2026,mtef,proposed,absent,2026-04,0,2026-09-25
 GAB,2024,appropriation-act,appropriated,held,2024-02,2,2026-09-25
 GAB,2025,appropriation-act,appropriated,held,2025-02,1,2026-09-25
 GAB,2026,appropriation-act,appropriated,held,2026-02,2,2026-09-25
 GAB,2024,audited-accounts,audited,held,2025-11,1,2026-09-25
 GAB,2025,audited-accounts,audited,not due,2026-11,0,2026-09-25
 GAB,2026,audited-accounts,audited,not due,2027-11,0,2026-09-25
+GAB,2024,budget-estimates,proposed|appropriated,absent,2023-11,0,2026-09-25
+GAB,2025,budget-estimates,proposed|appropriated,absent,2024-11,0,2026-09-25
+GAB,2026,budget-estimates,proposed|appropriated,absent,2025-11,0,2026-09-25
 GHA,2024,appropriation-act,appropriated,held,2024-02,1,2026-09-25
 GHA,2025,appropriation-act,appropriated,held,2025-02,1,2026-09-25
 GHA,2026,appropriation-act,appropriated,held,2026-02,4,2026-09-25
@@ -254,10 +266,13 @@ GHA,2026,implementation-report,released|actual,held,2026-08,1,2026-09-25
 GIN,2024,appropriation-act,appropriated,held,2024-09,2,2026-09-25
 GIN,2025,appropriation-act,appropriated,held,2025-09,3,2026-09-25
 GIN,2026,appropriation-act,appropriated,held,2026-09,1,2026-09-25
+GIN,2024,executive-instrument,revised|appropriated,held,2024-02,1,2026-09-25
+GIN,2025,executive-instrument,revised|appropriated,held,2025-02,1,2026-09-25
+GIN,2026,executive-instrument,revised|appropriated,held,2026-02,1,2026-09-25
 GIN,2024,implementation-report,released|actual,held,2024-11,4,2026-09-25
 GIN,2025,implementation-report,released|actual,held,2025-11,2,2026-09-25
 GIN,2026,implementation-report,released|actual,held,2026-11,1,2026-09-25
-GIN,2024,mtef,proposed,absent,2023-08,0,2026-09-25
+GIN,2024,mtef,proposed,held,2023-08,1,2026-09-25
 GIN,2025,mtef,proposed,held,2024-08,1,2026-09-25
 GIN,2026,mtef,proposed,absent,2025-08,0,2026-09-25
 GMB,2024,appropriation-act,appropriated,absent,2024-01,0,2026-09-25
@@ -293,9 +308,9 @@ GNQ,2026,appropriation-act,appropriated,absent,2026-01,0,2026-09-25
 KEN,2024,audited-accounts,audited,held,2026-08,2,2026-09-25
 KEN,2025,audited-accounts,audited,not due,2027-08,0,2026-09-25
 KEN,2026,audited-accounts,audited,not due,2028-08,0,2026-09-25
-KEN,2024,budget-estimates,proposed|appropriated,held,2024-07,11,2026-09-25
-KEN,2025,budget-estimates,proposed|appropriated,held,2025-07,11,2026-09-25
-KEN,2026,budget-estimates,proposed|appropriated,held,2026-07,10,2026-09-25
+KEN,2024,budget-estimates,proposed|appropriated,held,2024-07,17,2026-09-25
+KEN,2025,budget-estimates,proposed|appropriated,held,2025-07,15,2026-09-25
+KEN,2026,budget-estimates,proposed|appropriated,held,2026-07,14,2026-09-25
 KEN,2024,implementation-report,released|actual,held,2025-06,1,2026-09-25
 KEN,2025,implementation-report,released|actual,held,2026-06,2,2026-09-25
 KEN,2026,implementation-report,released|actual,not due,2027-06,0,2026-09-25
@@ -326,9 +341,9 @@ LBY,2026,implementation-report,released|actual,held,2027-02,1,2026-09-25
 LSO,2024,appropriation-act,appropriated,held,2024-05,3,2026-09-25
 LSO,2025,appropriation-act,appropriated,held,2025-05,1,2026-09-25
 LSO,2026,appropriation-act,appropriated,held,2026-05,1,2026-09-25
-LSO,2024,audited-accounts,audited,held,2025-12,1,2026-09-25
-LSO,2025,audited-accounts,audited,not due,2026-12,0,2026-09-25
-LSO,2026,audited-accounts,audited,not due,2027-12,0,2026-09-25
+LSO,2024,audited-accounts,audited,held,2027-05,1,2026-09-25
+LSO,2025,audited-accounts,audited,not due,2028-05,0,2026-09-25
+LSO,2026,audited-accounts,audited,not due,2029-05,0,2026-09-25
 LSO,2024,budget-estimates,proposed|appropriated,held,2025-03,3,2026-09-25
 LSO,2025,budget-estimates,proposed|appropriated,held,2026-03,2,2026-09-25
 LSO,2026,budget-estimates,proposed|appropriated,held,2027-03,1,2026-09-25
@@ -365,9 +380,9 @@ MDG,2026,board-budget,appropriated,not due,2027-12,0,2026-09-25
 MDG,2024,budget-estimates,proposed|appropriated,held,2024-01,7,2026-09-25
 MDG,2025,budget-estimates,proposed|appropriated,held,2025-01,3,2026-09-25
 MDG,2026,budget-estimates,proposed|appropriated,held,2026-01,1,2026-09-25
-MDG,2024,executive-instrument,revised|appropriated,absent,2024-02,0,2026-09-25
+MDG,2024,executive-instrument,revised|appropriated,held,2024-02,1,2026-09-25
 MDG,2025,executive-instrument,revised|appropriated,held,2025-02,1,2026-09-25
-MDG,2026,executive-instrument,revised|appropriated,absent,2026-02,0,2026-09-25
+MDG,2026,executive-instrument,revised|appropriated,held,2026-02,1,2026-09-25
 MDG,2024,implementation-report,released|actual,held,2024-10,5,2026-09-25
 MDG,2025,implementation-report,released|actual,held,2025-10,3,2026-09-25
 MDG,2026,implementation-report,released|actual,not due,2026-10,0,2026-09-25
@@ -407,12 +422,12 @@ MOZ,2026,budget-estimates,proposed|appropriated,held,2026-02,8,2026-09-25
 MOZ,2024,executive-instrument,revised|appropriated,absent,2024-09,0,2026-09-25
 MOZ,2025,executive-instrument,revised|appropriated,held,2025-09,1,2026-09-25
 MOZ,2026,executive-instrument,revised|appropriated,held,2026-09,1,2026-09-25
-MOZ,2024,implementation-report,released|actual,held,2024-09,1,2026-09-25
-MOZ,2025,implementation-report,released|actual,held,2025-09,2,2026-09-25
-MOZ,2026,implementation-report,released|actual,held,2026-09,2,2026-09-25
-MOZ,2024,mtef,proposed,held,2023-07,1,2026-09-25
-MOZ,2025,mtef,proposed,held,2024-07,1,2026-09-25
-MOZ,2026,mtef,proposed,absent,2025-07,0,2026-09-25
+MOZ,2024,implementation-report,released|actual,held,2024-09,4,2026-09-25
+MOZ,2025,implementation-report,released|actual,held,2025-09,4,2026-09-25
+MOZ,2026,implementation-report,released|actual,held,2026-09,4,2026-09-25
+MOZ,2024,mtef,proposed,held,2023-06,3,2026-09-25
+MOZ,2025,mtef,proposed,held,2024-06,2,2026-09-25
+MOZ,2026,mtef,proposed,absent,2025-06,0,2026-09-25
 MRT,2024,appropriation-act,appropriated,held,2024-08,2,2026-09-25
 MRT,2025,appropriation-act,appropriated,held,2025-08,2,2026-09-25
 MRT,2026,appropriation-act,appropriated,held,2026-08,1,2026-09-25
@@ -431,7 +446,7 @@ MRT,2026,mtef,proposed,held,2025-10,1,2026-09-25
 MUS,2024,appropriation-act,appropriated,held,2024-07,3,2026-09-25
 MUS,2025,appropriation-act,appropriated,held,2025-07,1,2026-09-25
 MUS,2026,appropriation-act,appropriated,held,2026-07,1,2026-09-25
-MUS,2024,audited-accounts,audited,held,2026-03,1,2026-09-25
+MUS,2024,audited-accounts,audited,held,2026-03,2,2026-09-25
 MUS,2025,audited-accounts,audited,not due,2027-03,0,2026-09-25
 MUS,2026,audited-accounts,audited,not due,2028-03,0,2026-09-25
 MUS,2024,budget-estimates,proposed|appropriated,held,2025-07,5,2026-09-25
@@ -500,8 +515,8 @@ SEN,2026,implementation-report,released|actual,held,2026-10,2,2026-09-25
 SEN,2024,mtef,proposed,held,2024-01,1,2026-09-25
 SEN,2025,mtef,proposed,held,2025-01,1,2026-09-25
 SEN,2026,mtef,proposed,held,2026-01,2,2026-09-25
-SLE,2024,appropriation-act,appropriated,held,2024-02,1,2026-09-25
-SLE,2025,appropriation-act,appropriated,held,2025-02,1,2026-09-25
+SLE,2024,appropriation-act,appropriated,held,2024-02,2,2026-09-25
+SLE,2025,appropriation-act,appropriated,held,2025-02,2,2026-09-25
 SLE,2026,appropriation-act,appropriated,absent,2026-02,0,2026-09-25
 SLE,2024,audited-accounts,audited,held,2026-01,1,2026-09-25
 SLE,2025,audited-accounts,audited,not due,2027-01,0,2026-09-25
@@ -515,9 +530,9 @@ SLE,2026,budget-estimates,proposed|appropriated,held,2026-01,4,2026-09-25
 SLE,2024,implementation-report,released|actual,held,2025-04,3,2026-09-25
 SLE,2025,implementation-report,released|actual,held,2026-04,1,2026-09-25
 SLE,2026,implementation-report,released|actual,held,2027-04,1,2026-09-25
-SLE,2024,mtef,proposed,absent,2023-11,0,2026-09-25
-SLE,2025,mtef,proposed,absent,2024-11,0,2026-09-25
-SLE,2026,mtef,proposed,held,2025-11,1,2026-09-25
+SLE,2024,mtef,proposed,absent,2023-12,0,2026-09-25
+SLE,2025,mtef,proposed,absent,2024-12,0,2026-09-25
+SLE,2026,mtef,proposed,held,2025-12,1,2026-09-25
 SLE,2024,treasury-release,released,absent,2025-03,0,2026-09-25
 SLE,2025,treasury-release,released,held,2026-03,1,2026-09-25
 SLE,2026,treasury-release,released,not due,2027-03,0,2026-09-25
@@ -536,9 +551,9 @@ SOM,2026,implementation-report,released|actual,held,2026-10,1,2026-09-25
 SSD,2024,appropriation-act,appropriated,held,2025-02,2,2026-09-25
 SSD,2025,appropriation-act,appropriated,held,2026-02,2,2026-09-25
 SSD,2026,appropriation-act,appropriated,not due,2027-02,0,2026-09-25
-SSD,2024,budget-estimates,proposed|appropriated,absent,2026-02,0,2026-09-25
-SSD,2025,budget-estimates,proposed|appropriated,held,2027-02,1,2026-09-25
-SSD,2026,budget-estimates,proposed|appropriated,not due,2028-02,0,2026-09-25
+SSD,2024,budget-estimates,proposed|appropriated,absent,2025-01,0,2026-09-25
+SSD,2025,budget-estimates,proposed|appropriated,held,2026-01,1,2026-09-25
+SSD,2026,budget-estimates,proposed|appropriated,not due,2027-01,0,2026-09-25
 SSD,2024,implementation-report,released|actual,held,2026-02,1,2026-09-25
 SSD,2025,implementation-report,released|actual,not due,2027-02,0,2026-09-25
 SSD,2026,implementation-report,released|actual,not due,2028-02,0,2026-09-25
@@ -593,9 +608,9 @@ TGO,2026,audited-accounts,audited,not due,2028-10,0,2026-09-25
 TGO,2024,budget-estimates,proposed|appropriated,held,2024-02,9,2026-09-25
 TGO,2025,budget-estimates,proposed|appropriated,held,2025-02,6,2026-09-25
 TGO,2026,budget-estimates,proposed|appropriated,held,2026-02,6,2026-09-25
-TGO,2024,implementation-report,released|actual,held,2025-07,1,2026-09-25
-TGO,2025,implementation-report,released|actual,held,2026-07,1,2026-09-25
-TGO,2026,implementation-report,released|actual,not due,2027-07,0,2026-09-25
+TGO,2024,implementation-report,released|actual,held,2025-04,1,2026-09-25
+TGO,2025,implementation-report,released|actual,held,2026-04,1,2026-09-25
+TGO,2026,implementation-report,released|actual,held,2027-04,1,2026-09-25
 TGO,2024,mtef,proposed,absent,2024-01,0,2026-09-25
 TGO,2025,mtef,proposed,held,2025-01,1,2026-09-25
 TGO,2026,mtef,proposed,held,2026-01,1,2026-09-25
@@ -609,7 +624,7 @@ TUN,2024,budget-estimates,proposed|appropriated,held,2023-11,9,2026-09-25
 TUN,2025,budget-estimates,proposed|appropriated,held,2024-11,3,2026-09-25
 TUN,2026,budget-estimates,proposed|appropriated,absent,2025-11,0,2026-09-25
 TUN,2024,implementation-report,released|actual,held,2025-03,2,2026-09-25
-TUN,2025,implementation-report,released|actual,held,2026-03,1,2026-09-25
+TUN,2025,implementation-report,released|actual,held,2026-03,7,2026-09-25
 TUN,2026,implementation-report,released|actual,not due,2027-03,0,2026-09-25
 TUN,2024,mtef,proposed,held,2023-11,1,2026-09-25
 TUN,2025,mtef,proposed,absent,2024-11,0,2026-09-25
@@ -620,12 +635,15 @@ TZA,2026,appropriation-act,appropriated,held,2026-07,1,2026-09-25
 TZA,2024,audited-accounts,audited,held,2026-04,3,2026-09-25
 TZA,2025,audited-accounts,audited,not due,2027-04,0,2026-09-25
 TZA,2026,audited-accounts,audited,not due,2028-04,0,2026-09-25
-TZA,2024,budget-estimates,proposed|appropriated,held,2024-08,4,2026-09-25
+TZA,2024,budget-estimates,proposed|appropriated,held,2024-08,8,2026-09-25
 TZA,2025,budget-estimates,proposed|appropriated,held,2025-08,4,2026-09-25
 TZA,2026,budget-estimates,proposed|appropriated,held,2026-08,4,2026-09-25
-TZA,2024,implementation-report,released|actual,held,2025-07,3,2026-09-25
-TZA,2025,implementation-report,released|actual,held,2026-07,3,2026-09-25
-TZA,2026,implementation-report,released|actual,not due,2027-07,0,2026-09-25
+TZA,2024,implementation-report,released|actual,held,2025-05,4,2026-09-25
+TZA,2025,implementation-report,released|actual,held,2026-05,4,2026-09-25
+TZA,2026,implementation-report,released|actual,not due,2027-05,0,2026-09-25
+TZA,2024,mtef,proposed,absent,2024-07,0,2026-09-25
+TZA,2025,mtef,proposed,held,2025-07,1,2026-09-25
+TZA,2026,mtef,proposed,held,2026-07,1,2026-09-25
 UGA,2024,appropriation-act,appropriated,held,2024-08,1,2026-09-25
 UGA,2025,appropriation-act,appropriated,absent,2025-08,0,2026-09-25
 UGA,2026,appropriation-act,appropriated,absent,2026-08,0,2026-09-25
@@ -641,14 +659,14 @@ UGA,2026,implementation-report,released|actual,not due,2027-03,0,2026-09-25
 ZAF,2024,appropriation-act,appropriated,held,2024-09,4,2026-09-25
 ZAF,2025,appropriation-act,appropriated,held,2025-09,4,2026-09-25
 ZAF,2026,appropriation-act,appropriated,held,2026-09,2,2026-09-25
-ZAF,2024,audited-accounts,audited,held,2026-04,2,2026-09-25
-ZAF,2025,audited-accounts,audited,not due,2027-04,0,2026-09-25
-ZAF,2026,audited-accounts,audited,not due,2028-04,0,2026-09-25
+ZAF,2024,audited-accounts,audited,held,2026-02,4,2026-09-25
+ZAF,2025,audited-accounts,audited,not due,2027-02,0,2026-09-25
+ZAF,2026,audited-accounts,audited,not due,2028-02,0,2026-09-25
 ZAF,2024,budget-estimates,proposed|appropriated,held,2024-03,23,2026-09-25
 ZAF,2025,budget-estimates,proposed|appropriated,held,2025-03,20,2026-09-25
 ZAF,2026,budget-estimates,proposed|appropriated,held,2026-03,23,2026-09-25
 ZAF,2024,implementation-report,released|actual,held,2025-11,1,2026-09-25
-ZAF,2025,implementation-report,released|actual,not due,2026-11,0,2026-09-25
+ZAF,2025,implementation-report,released|actual,held,2026-11,1,2026-09-25
 ZAF,2026,implementation-report,released|actual,not due,2027-11,0,2026-09-25
 ZAF,2024,treasury-release,released,held,2025-06,1,2026-09-25
 ZAF,2025,treasury-release,released,absent,2026-06,0,2026-09-25
@@ -675,7 +693,7 @@ ZWE,2024,appropriation-act,appropriated,held,2024-01,1,2026-09-25
 ZWE,2025,appropriation-act,appropriated,held,2025-01,1,2026-09-25
 ZWE,2026,appropriation-act,appropriated,held,2026-01,5,2026-09-25
 ZWE,2024,audited-accounts,audited,held,2026-07,1,2026-09-25
-ZWE,2025,audited-accounts,audited,not due,2027-07,0,2026-09-25
+ZWE,2025,audited-accounts,audited,held,2027-07,1,2026-09-25
 ZWE,2026,audited-accounts,audited,not due,2028-07,0,2026-09-25
 ZWE,2024,budget-estimates,proposed|appropriated,held,2023-12,2,2026-09-25
 ZWE,2025,budget-estimates,proposed|appropriated,held,2024-12,2,2026-09-25

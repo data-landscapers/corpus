@@ -1,0 +1,200 @@
+{
+ "schema": 3,
+ "written_utc": "2026-09-25 20:34",
+ "pass": "sweep cycle",
+ "head": "69d6e75d72e7ef240d5956b864afc6c6226ef32b",
+ "head_committed_utc": "2026-09-25 20:34",
+ "collection": {
+  "last_admission": "2026-09-25 20:46",
+  "sweep_closed": "2026-09-25 20:23",
+  "ingest_started": "2026-09-25 20:24"
+ },
+ "rotation": {
+  "days": 2,
+  "newest_close": {
+   "day": "1",
+   "jobs": [
+    "SWEEP-NEWSPAPERS",
+    "SWEEP-JOURNALS",
+    "SWEEP-THINKTANKS",
+    "SWEEP-REGIONAL"
+   ],
+   "start": "2026-09-25 18:39",
+   "end": "2026-09-25 20:29",
+   "duration": "1:50",
+   "skipped": false,
+   "in_progress": false
+  },
+  "in_progress": []
+ },
+ "counts": {
+  "items_in": 164,
+  "admitted": 98,
+  "dropped": 66,
+  "screened": 681,
+  "screen_dropped": 516,
+  "pages_over_line": 26,
+  "awaiting_ingest": 0,
+  "raw_sources": 25367
+ },
+ "usage": {
+  "start": {
+   "time_utc": "2026-09-25 18:38",
+   "seven_day": 41.0,
+   "five_hour": 10.0
+  },
+  "sweep": {
+   "time_utc": "2026-09-25 19:24",
+   "seven_day": 45.0,
+   "five_hour": 25.0
+  },
+  "ingest": {
+   "time_utc": "2026-09-25 19:47",
+   "seven_day": 46.0,
+   "five_hour": 31.0
+  },
+  "lint": {
+   "time_utc": "2026-09-25 20:28",
+   "seven_day": 47.0,
+   "five_hour": 35.0
+  },
+  "close": {
+   "time_utc": "2026-09-25 20:29",
+   "seven_day": 48.0,
+   "five_hour": 35.0
+  },
+  "rules": {
+   "time_utc": "2026-09-25 20:33",
+   "seven_day": 48.0,
+   "five_hour": 35.0
+  },
+  "end": {
+   "time_utc": "2026-09-25 20:34",
+   "seven_day": 48.0,
+   "five_hour": 35.0
+  }
+ },
+ "drops": {
+  "night": "2026-09-25",
+  "ingest_coded": true,
+  "sweeps": {
+   "daily": {
+    "sweep": {
+     "out-of-window": 104,
+     "no-development": 34,
+     "off-topic": 24,
+     "off-place": 23,
+     "already-held": 3,
+     "fetch-blocked": 1
+    },
+    "ingest": {
+     "no-development": 6,
+     "already-held": 4,
+     "no-value": 4
+    },
+    "admitted": 17,
+    "ingest_drop_rate": 0.452
+   },
+   "journals": {
+    "sweep": {
+     "off-topic": 20,
+     "off-place": 6,
+     "out-of-window": 4,
+     "already-seen": 1
+    },
+    "ingest": {
+     "off-place": 6,
+     "off-topic": 3
+    },
+    "admitted": 1,
+    "ingest_drop_rate": 0.9
+   },
+   "newspapers": {
+    "sweep": {
+     "off-topic": 107,
+     "no-development": 18,
+     "already-seen": 16,
+     "off-place": 16,
+     "already-held": 10,
+     "duplicate-in-run": 2,
+     "headline-only-stub": 2,
+     "out-of-window": 1,
+     "syndicated-copy": 1
+    },
+    "ingest": {
+     "off-topic": 35,
+     "already-held": 11,
+     "off-place": 10,
+     "no-value": 7,
+     "no-development": 5,
+     "already-seen": 2,
+     "headline-only-stub": 1,
+     "inadmissible-origin": 1
+    },
+    "admitted": 53,
+    "ingest_drop_rate": 0.576
+   },
+   "off-list": {
+    "sweep": {
+     "already-held": 6,
+     "off-place": 2,
+     "already-seen": 1,
+     "off-topic": 1
+    },
+    "ingest": {
+     "already-held": 4,
+     "no-value": 2,
+     "off-place": 2
+    },
+    "admitted": 8,
+    "ingest_drop_rate": 0.5
+   },
+   "regional": {
+    "sweep": {
+     "off-topic": 23,
+     "already-seen": 18,
+     "already-held": 17,
+     "duplicate-in-run": 10,
+     "inadmissible-origin": 5,
+     "no-development": 5,
+     "off-place": 3,
+     "malformed": 2,
+     "out-of-window": 2,
+     "date-unestablished": 1,
+     "fetch-blocked": 1,
+     "headline-only-stub": 1,
+     "syndicated-copy": 1
+    },
+    "ingest": {
+     "already-held": 18,
+     "off-topic": 18,
+     "no-development": 5,
+     "inadmissible-origin": 3,
+     "no-value": 2,
+     "headline-only-stub": 1
+    },
+    "admitted": 14,
+    "ingest_drop_rate": 0.77
+   },
+   "thinktanks": {
+    "sweep": {
+     "off-topic": 13,
+     "off-place": 8,
+     "already-seen": 2,
+     "no-development": 2,
+     "out-of-window": 1
+    },
+    "ingest": {
+     "no-development": 2
+    },
+    "admitted": 5,
+    "ingest_drop_rate": 0.286
+   }
+  }
+ },
+ "hygiene": {
+  "housekeeping_next": 238,
+  "trims_rows": 1,
+  "since": "2026-09-25 18:25"
+ }
+}

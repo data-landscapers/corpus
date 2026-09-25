@@ -10,3 +10,123 @@ Work a sitting surfaced but did not settle. Each item names what to do. Strike a
 - **Re-read once the next BUILD catalogues OSINT's 2026-09-25 promotions** (notes-for-osint 171, OSINT `32a2cdabe`): RWA FY2024-25 revised and actual stages from the revised finance laws and the FY2024/25 execution table; BEN FY2024-25 at activity grain from its four promoted volumes; check CMR (2), CPV (64) and KEN (8) promoted companions for rows that can cite them.
 - **Held and not yet extracted (found writing R78, 2026-09-25).** STP FY2025 and FY2026: the 2025 budget and the 2026 budget law are catalogued, but `budgets/STP/` holds only FY2024. GIN FY2026: the initial finance law L/2026/010/CNT (March 2026) is catalogued, with no `budgets/GIN/2026.csv`. MRT FY2024: the settlement law is held, but its digital lines' actual stage is not in `budgets/MRT/2024.csv`. One BUDGET-EXTRACT sitting each.
 - **SYC FY2026 can move to the appropriated stage.** The FY2026 rows say no 2026 Appropriation Act is held, but it is catalogued (`2026-03-30-gazette-appropriation-act-2026`) and votes the ICT department SCR 93.8m, the proposed figure. Re-read the rows against the Act and re-point their `source_slug` (found writing R78, 2026-09-25).
+
+## Queued by the budget poll
+
+One BUDGET-EXTRACT sitting a line (R106). `budget-watch.py followups` writes them; delete a line in the commit that settles it.
+
+- **BDI FY2025** — procurement-plan none already held — read it for a revision: [[2025-09-09-bdi-ppm-revise-du-bcr-sur-le-budget-du-rgphae-2025-2026-companion]] (queued 2026-09-25).
+- **BDI FY2026** — procurement-plan none already held — read it for a revision: [[2026-07-14-bdi-ppm-du-bcr-sur-le-budget-du-rgphae-2026-2027-companion]] (queued 2026-09-25).
+- **BDI FY2026** — procurement-plan none already held — read it for a revision: [[2026-08-25-bdi-ppm-finances-budgetaire-2026-2027-final-docx-revise1-companion]] (queued 2026-09-25).
+- **BEN FY2024** — procurement-plan none already held — read it for a revision: [[2024-01-02-ben-an-avis-general-passation-marches-2024-companion]] (queued 2026-09-25).
+- **BEN FY2024** — procurement-plan none already held — read it for a revision: [[2024-01-03-ben-an-plan-passation-marches-2024-v1-companion]] (queued 2026-09-25).
+- **BEN FY2024** — procurement-plan none already held — read it for a revision: [[2024-08-20-ben-an-plan-passation-marches-2024-v4-companion]] (queued 2026-09-25).
+- **BEN FY2025** — procurement-plan none already held — read it for a revision: [[2025-01-03-ben-an-avis-general-passation-marches-2025-companion]] (queued 2026-09-25).
+- **BEN FY2025** — procurement-plan none already held — read it for a revision: [[2025-01-14-ben-an-plan-passation-marches-2025-v1-companion]] (queued 2026-09-25).
+- **BEN FY2025** — statement as-stated already held — read it for a revision: [[2025-03-27-ben-mon-livret-de-poche-budget-etat-2025-companion]] (queued 2026-09-25).
+- **BEN FY2025** — procurement-plan none already held — read it for a revision: [[2025-04-24-ben-an-plan-passation-marches-2025-v2-companion]] (queued 2026-09-25).
+- **BEN FY2025** — procurement-plan none already held — read it for a revision: [[2025-09-10-ben-an-plan-passation-marches-publics-2025-companion]] (queued 2026-09-25).
+- **BEN FY2026** — executive-instrument adds revised: [[2025-01-30-ben-arrete-calendrier-budgetaire-2026-2028-companion]] (queued 2026-09-25).
+- **BEN FY2026** — budget-estimates proposed or appropriated already held — read it for a revision: [[2025-09-01-ben-mesures-sensibilite-sociale-budget-plf-2026-companion]] (queued 2026-09-25).
+- **BEN FY2026** — statement as-stated already held — read it for a revision: [[2025-09-01-ben-plf-2026-note-analyse-inclusion-handicap-budget-companion]] (queued 2026-09-25).
+- **BEN FY2026** — statement as-stated already held — read it for a revision: [[2025-09-01-ben-plf-2026-note-analyse-integration-climat-budget-companion]] (queued 2026-09-25).
+- **BEN FY2026** — statement as-stated already held — read it for a revision: [[2025-09-01-ben-plf-2026-note-analyse-sensibilite-genre-budget-companion]] (queued 2026-09-25).
+- **BEN FY2026** — mtef proposed already held — read it for a revision: [[2025-09-01-ben-presentation-pluriannuelle-recettes-budgetaires-2026-2028-companion]] (queued 2026-09-25).
+- **BEN FY2026** — procurement-plan none already held — read it for a revision: [[2026-01-22-ben-an-plan-passation-marches-publics-2026-companion]] (queued 2026-09-25).
+- **BEN FY2026** — statement as-stated already held — read it for a revision: [[2026-02-25-ben-livret-de-poche-budget-etat-2026-companion]] (queued 2026-09-25).
+- **BFA FY2025** — statement as-stated already held — read it for a revision: [[2024-09-01-bfa-rapport-bsgde-lf-2025-companion]] (queued 2026-09-25).
+- **CIV FY2024** — appropriation-act appropriated already held — read it for a revision: [[2023-12-18-civ-lf-2024-annexe-1-annexe-fiscale-companion]] (queued 2026-09-25).
+- **CIV FY2024** — mtef adds proposed: [[2024-12-18-civ-lf-2025-annexe-11-sdmt-2024-2027-companion]] (queued 2026-09-25).
+- **CIV FY2024** — audited-accounts adds audited: [[2026-04-22-civ-cc-rapport-public-annuel-2025-companion]] (queued 2026-09-25).
+- **CIV FY2025** — appropriation-act appropriated already held — read it for a revision: [[2024-12-18-civ-lf-2025-annexe-1-annexe-fiscale-companion]] (queued 2026-09-25).
+- **CIV FY2025** — budget-estimates adds proposed: [[2024-12-18-civ-lf-2025-annexe-10-budgets-des-representations-companion]] (queued 2026-09-25).
+- **CIV FY2025** — budget-estimates adds proposed: [[2024-12-18-civ-lf-2025-annexe-8-concours-financiers-aux-collectivites-companion]] (queued 2026-09-25).
+- **CIV FY2025** — budget-estimates adds proposed: [[2025-12-19-civ-lf-2026-annexe-11-sdmt-2025-2029-companion]] (queued 2026-09-25).
+- **CIV FY2026** — appropriation-act appropriated already held — read it for a revision: [[2025-12-19-civ-lf-2026-annexe-1-annexe-fiscale-companion]] (queued 2026-09-25).
+- **CIV FY2026** — budget-estimates proposed or appropriated already held — read it for a revision: [[2025-12-19-civ-lf-2026-annexe-10-budgets-des-representations-companion]] (queued 2026-09-25).
+- **CIV FY2026** — budget-estimates proposed or appropriated already held — read it for a revision: [[2025-12-19-civ-lf-2026-annexe-12-rapport-depenses-fiscales-2020-2025-companion]] (queued 2026-09-25).
+- **CIV FY2026** — budget-estimates proposed or appropriated already held — read it for a revision: [[2025-12-19-civ-lf-2026-annexe-14-subventions-coges-companion]] (queued 2026-09-25).
+- **CIV FY2026** — budget-estimates proposed or appropriated already held — read it for a revision: [[2025-12-19-civ-lf-2026-annexe-15-declaration-budgetaire-sensible-au-climat-companion]] (queued 2026-09-25).
+- **CIV FY2026** — budget-estimates proposed or appropriated already held — read it for a revision: [[2025-12-19-civ-lf-2026-annexe-8-concours-financiers-aux-collectivites-companion]] (queued 2026-09-25).
+- **CMR FY2025** — statement as-stated already held — read it for a revision: [[2025-04-01-cmr-rapport-suivi-calendrier-publication-sfp-t1-2025-companion]] (queued 2026-09-25).
+- **CMR FY2025** — statement as-stated already held — read it for a revision: [[2025-07-01-cmr-rapport-suivi-calendrier-publication-sfp-t2-2025-companion]] (queued 2026-09-25).
+- **CMR FY2025** — implementation-report adds released or actual: [[2025-12-04-cmr-tableau-de-bord-finances-publiques-tofe-septembre-2025-companion]] (queued 2026-09-25).
+- **COD FY2026** — mtef adds proposed: [[2025-05-01-cod-cbmt-2026-2028-annexes-companion]] (queued 2026-09-25).
+- **COD FY2026** — mtef adds proposed: [[2025-05-01-cod-cbmt-2026-2028-draft-companion]] (queued 2026-09-25).
+- **DZA FY2024** — executive-instrument adds revised: [[2024-05-26-dza-3137-26-2024-2024-companion]] (queued 2026-09-25).
+- **DZA FY2024** — executive-instrument adds revised: [[2024-10-12-dza-07-12-2024-companion]] (queued 2026-09-25).
+- **DZA FY2025** — executive-instrument adds revised: [[2025-01-28-dza-01-28-2025-230-2025-companion]] (queued 2026-09-25).
+- **GIN FY2024** — mtef adds proposed: [[2023-07-01-gin-dpbp-2024-2026-companion]] (queued 2026-09-25).
+- **GIN FY2024** — executive-instrument revised or appropriated already held — read it for a revision: [[2024-01-18-gin-circulaire-0077-execution-budget-2024-companion]] (queued 2026-09-25).
+- **GIN FY2025** — executive-instrument revised or appropriated already held — read it for a revision: [[2025-01-13-gin-circulaire-execution-budget-2025-companion]] (queued 2026-09-25).
+- **KEN FY2024** — budget-estimates adds proposed: [[2024-06-01-ken-development-estimates-fy2024-25-vol1-d1011-1083-companion]] (queued 2026-09-25).
+- **KEN FY2024** — budget-estimates adds proposed: [[2024-06-01-ken-development-estimates-fy2024-25-vol2-d1091-companion]] (queued 2026-09-25).
+- **KEN FY2024** — budget-estimates adds proposed: [[2024-06-01-ken-recurrent-estimates-fy2024-25-vol1-r1011-1162-companion]] (queued 2026-09-25).
+- **KEN FY2024** — budget-estimates adds proposed: [[2024-06-01-ken-recurrent-estimates-fy2024-25-vol2-r1166-2151-companion]] (queued 2026-09-25).
+- **KEN FY2024** — budget-estimates adds proposed: [[2024-08-01-ken-development-supp-i-fy2024-25-vol2-d1091-1095-companion]] (queued 2026-09-25).
+- **KEN FY2024** — budget-estimates adds proposed: [[2024-08-01-ken-development-supp-i-fy2024-25-vol3-d1104-2111-companion]] (queued 2026-09-25).
+- **KEN FY2025** — budget-estimates adds proposed: [[2025-06-01-ken-development-estimates-fy2025-26-vol2-d1091-companion]] (queued 2026-09-25).
+- **KEN FY2025** — budget-estimates adds proposed: [[2025-06-01-ken-recurrent-estimates-fy2025-26-vol1-r1011-1097-companion]] (queued 2026-09-25).
+- **KEN FY2025** — budget-estimates adds proposed: [[2025-06-01-ken-recurrent-estimates-fy2025-26-vol2-r1104-2151-companion]] (queued 2026-09-25).
+- **KEN FY2025** — budget-estimates adds proposed: [[2026-04-01-ken-development-supp-i-fy2025-26-vol1-d1011-1097-companion]] (queued 2026-09-25).
+- **KEN FY2026** — budget-estimates adds proposed: [[2026-06-01-ken-fy-2026-27-development-budget-book-vol-ii-1091-companion]] (queued 2026-09-25).
+- **KEN FY2026** — budget-estimates adds proposed: [[2026-06-01-ken-fy-2026-27-development-budget-book-vol-iv-1152-2111-companion]] (queued 2026-09-25).
+- **KEN FY2026** — budget-estimates adds proposed: [[2026-06-01-ken-fy-2026-27-recurrent-budget-book-vol-i-1011-1095-companion]] (queued 2026-09-25).
+- **KEN FY2026** — budget-estimates adds proposed: [[2026-06-01-ken-fy-2026-27-recurrent-budget-book-vol-ii-1097-2151-companion]] (queued 2026-09-25).
+- **MDG FY2024** — executive-instrument revised or appropriated already held — read it for a revision: [[2023-03-31-mdg-circulaire-n055-mef-portant-preparation-cdmt-2024-2026-decret-n2023-25-companion]] (queued 2026-09-25).
+- **MDG FY2026** — executive-instrument revised or appropriated already held — read it for a revision: [[2026-07-28-mdg-ceb-lfr-2026-companion]] (queued 2026-09-25).
+- **MOZ FY2024** — mtef adds proposed: [[2022-12-01-moz-metodologia-de-elaboracao-do-cfmp-2024-2026-companion]] (queued 2026-09-25).
+- **MOZ FY2024** — mtef adds proposed: [[2023-06-01-moz-guiao-unico-cfmp-pesoe-po-ogdps-bdpo-e-bdpesoe-2024-companion]] (queued 2026-09-25).
+- **MOZ FY2024** — implementation-report adds released: [[2024-04-23-moz-bdpesoe-i-trimestre-2024-companion]] (queued 2026-09-25).
+- **MOZ FY2024** — implementation-report adds released: [[2024-08-13-moz-bdpesoe-i-semestre-2024-companion]] (queued 2026-09-25).
+- **MOZ FY2024** — implementation-report adds released: [[2024-10-30-moz-bdpesoe-iii-trimestre-2024-companion]] (queued 2026-09-25).
+- **MOZ FY2025** — mtef adds proposed: [[2023-12-01-moz-metodologia-cfmp-2025-2027-companion]] (queued 2026-09-25).
+- **MOZ FY2025** — implementation-report adds released: [[2025-10-30-moz-bdpesoe-iii-trimestre-2025-companion]] (queued 2026-09-25).
+- **MOZ FY2025** — implementation-report adds released: [[2026-03-03-moz-anexo-informativo-4-execucao-orcamental-de-projectos-financiados-com-r-companion]] (queued 2026-09-25).
+- **MOZ FY2026** — implementation-report adds released or actual: [[2026-08-20-moz-mapa-i-receita-do-estado-1o-semestre-2026-companion]] (queued 2026-09-25).
+- **MOZ FY2026** — implementation-report adds released or actual: [[2026-08-20-moz-mapa-iv-operacoes-financeiras-2026-1o-semestre-companion]] (queued 2026-09-25).
+- **MUS FY2024** — audited-accounts adds audited: [[2026-02-01-mus-certificate-of-audit-report-of-the-director-of-audit-on-the-accounts-o-companion]] (queued 2026-09-25).
+- **NAM FY2024** — statement as-stated already held — read it for a revision: [[2024-04-03-nam-final-revised-budget-speech-ooj-2-april-2024-companion]] (queued 2026-09-25).
+- **NAM FY2024** — statement as-stated already held — read it for a revision: [[2024-04-04-nam-budget-speech-vote-08-2024-docx-companion]] (queued 2026-09-25).
+- **NAM FY2024** — statement as-stated already held — read it for a revision: [[2024-04-04-nam-budget-speech-vote-31-2024-docx-companion]] (queued 2026-09-25).
+- **NAM FY2024** — statement as-stated already held — read it for a revision: [[2024-04-08-nam-budget-speech-2024-vote-37-bugdet-motivation-statement-speech-draft-companion]] (queued 2026-09-25).
+- **NAM FY2024** — statement as-stated already held — read it for a revision: [[2024-04-08-nam-final-budget-speech-8211-moj-8-april-2024-2-companion]] (queued 2026-09-25).
+- **NAM FY2024** — statement as-stated already held — read it for a revision: [[2024-04-08-nam-ministerial-budget-statement-2024-2025-mgepesw-companion]] (queued 2026-09-25).
+- **SLE FY2024** — appropriation-act appropriated already held — read it for a revision: [[2024-01-11-sle-the-finance-act-2024-companion]] (queued 2026-09-25).
+- **SLE FY2024** — statement as-stated already held — read it for a revision: [[2024-01-31-sle-citizens-budget-2024-companion]] (queued 2026-09-25).
+- **SLE FY2025** — statement as-stated already held — read it for a revision: [[2024-12-01-sle-fy2025-gender-budget-statement-companion]] (queued 2026-09-25).
+- **SLE FY2025** — appropriation-act appropriated already held — read it for a revision: [[2025-01-16-sle-the-finance-act-2025-companion]] (queued 2026-09-25).
+- **SLE FY2026** — statement as-stated already held — read it for a revision: [[2025-12-23-sle-2026-citizens-budget-final-companion]] (queued 2026-09-25).
+- **TGO FY2026** — implementation-report adds released or actual: [[2026-06-29-tgo-rapport-sur-lexecution-des-operations-financieres-de-letat-a-fin-mars-companion]] (queued 2026-09-25).
+- **TUN FY2025** — implementation-report adds released or actual: [[2025-10-24-tun-resultats-provisoires-de-l-execution-du-budget-a-fin-aout-2025-24-10-2-companion]] (queued 2026-09-25).
+- **TUN FY2025** — implementation-report adds released or actual: [[2025-10-24-tun-resultats-provisoires-de-l-execution-du-budget-a-fin-avril-2025-compre-companion]] (queued 2026-09-25).
+- **TUN FY2025** — implementation-report adds released or actual: [[2025-10-24-tun-resultats-provisoires-de-l-execution-du-budget-a-fin-juin-2025-compres-companion]] (queued 2026-09-25).
+- **TUN FY2025** — implementation-report adds released or actual: [[2025-11-26-tun-resultats-provisoires-de-l-execution-du-budget-a-fin-septembre-2025-co-companion]] (queued 2026-09-25).
+- **TUN FY2025** — implementation-report adds released or actual: [[2026-02-23-tun-resultats-provisoires-de-l-execution-du-budget-a-fin-novembre-2025-companion]] (queued 2026-09-25).
+- **TUN FY2025** — implementation-report adds released or actual: [[2026-02-23-tun-resultats-provisoires-de-l-execution-du-budget-a-fin-octobre-2025-companion]] (queued 2026-09-25).
+- **TZA FY2024** — budget-estimates adds proposed: [[2024-04-19-tza-19-apr-2024-vol-ii-reccurent-expenditure-as-submitted-2024-25-companion]] (queued 2026-09-25).
+- **TZA FY2024** — budget-estimates adds proposed: [[2024-04-19-tza-19-apr-2024-vol-iii-recurrent-expenditure-as-submitted-2024-25-companion]] (queued 2026-09-25).
+- **TZA FY2024** — budget-estimates adds proposed: [[2024-04-19-tza-19-apr-2024-vol-iv-development-expenditure-as-submitted-2024-25-companion]] (queued 2026-09-25).
+- **TZA FY2024** — budget-estimates adds proposed: [[2024-05-03-tza-03-may-2024-vol-i-revenue-estimates-as-submitted-2024-25-companion]] (queued 2026-09-25).
+- **TZA FY2024** — implementation-report adds released: [[2024-12-29-tza-27-dec-2024-the-budget-execution-report-for-the-first-quarter-of-the-y-companion]] (queued 2026-09-25).
+- **TZA FY2025** — mtef adds proposed: [[2025-06-01-tza-medium-term-revenue-strategy-2025-26-2027-28-companion]] (queued 2026-09-25).
+- **TZA FY2025** — implementation-report adds released or actual: [[2026-03-01-tza-mid-year-budget-review-2025-26-companion]] (queued 2026-09-25).
+- **TZA FY2026** — mtef adds proposed: [[2026-05-01-tza-plan-budget-guideline-2026-27-2028-29-companion]] (queued 2026-09-25).
+- **TZA FY2026** — statement as-stated already held — read it for a revision: [[2026-09-22-tza-citizen-budget-2026-27-companion]] (queued 2026-09-25).
+- **ZAF FY2024** — reporting as-stated already held — read it for a revision: [[2024-07-17-zaf-pbo-2024-appropriations-bill-analysis-companion]] (queued 2026-09-25).
+- **ZAF FY2024** — reporting as-stated already held — read it for a revision: [[2024-11-13-zaf-pbo-a-dora-and-a-appropriations-presentation-13-november-2024-scoa-companion]] (queued 2026-09-25).
+- **ZAF FY2024** — audited-accounts audited already held — read it for a revision: [[2026-01-30-zaf-consolidated-financial-information-for-the-year-ended-31-march-2025-companion]] (queued 2026-09-25).
+- **ZAF FY2024** — audited-accounts audited already held — read it for a revision: [[2026-01-30-zaf-rdp-annual-financial-statements-for-the-year-ended-31-march-2025-companion]] (queued 2026-09-25).
+- **ZAF FY2025** — reporting as-stated already held — read it for a revision: [[2025-06-17-zaf-pbo-2025-dora-appropriations-bill-other-bills-companion]] (queued 2026-09-25).
+- **ZAF FY2025** — reporting as-stated already held — read it for a revision: [[2025-07-09-zaf-pbo-brief-rejection-of-budget-votes-and-appropriation-bill-implication-companion]] (queued 2026-09-25).
+- **ZAF FY2025** — reporting as-stated already held — read it for a revision: [[2025-10-08-zaf-select-committees-on-appropriations-and-finance-08-october-2025-companion]] (queued 2026-09-25).
+- **ZAF FY2025** — statement as-stated already held — read it for a revision: [[2025-12-01-zaf-media-statement-local-government-adopted-operating-and-capital-budgets-companion]] (queued 2026-09-25).
+- **ZAF FY2025** — reporting as-stated already held — read it for a revision: [[2026-02-19-zaf-pbo-gender-budget-statement-feb-2026-companion]] (queued 2026-09-25).
+- **ZAF FY2025** — implementation-report adds released or actual: [[2026-06-22-zaf-annexure-a-media-statement-section-71-for-the-3rd-quarter-08-june-2026-companion]] (queued 2026-09-25).
+- **ZAF FY2025** — statement as-stated already held — read it for a revision: [[2026-06-22-zaf-media-statement-local-government-revenue-and-expenditure-3rd-quarter-l-companion]] (queued 2026-09-25).
+- **ZAF FY2025** — statement as-stated already held — read it for a revision: [[2026-06-24-zaf-media-statement-provincial-budgets-and-expenditure-report-fourth-quart-companion]] (queued 2026-09-25).
+- **ZAF FY2025** — reporting as-stated already held — read it for a revision: [[2026-08-26-zaf-pbo-assessment-on-the-second-special-appropriations-bill-26-aug-2026-companion]] (queued 2026-09-25).
+- **ZAF FY2025** — statement as-stated already held — read it for a revision: [[2026-09-16-zaf-media-statement-local-government-revenue-and-expenditure-fourth-quarte-companion]] (queued 2026-09-25).
+- **ZAF FY2026** — reporting as-stated already held — read it for a revision: [[2026-03-06-zaf-pbo-2026-dora-appropriations-bill-other-bills-6-march-scoa-companion]] (queued 2026-09-25).
+- **ZMB FY2024** — statement as-stated already held — read it for a revision: [[2025-12-22-zmb-press-statement-on-the-release-of-cdf-2024-audit-report-companion]] (queued 2026-09-25).
+- **ZWE FY2025** — audited-accounts adds audited: [[2026-06-26-zwe-auditor-general-report-local-authorities-2025-companion]] (queued 2026-09-25).
