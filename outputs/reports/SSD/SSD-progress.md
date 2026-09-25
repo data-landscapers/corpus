@@ -1,12 +1,12 @@
 ---
 title: South Sudan — progress report, September 2025 – September 2026
-compiled: 2026-09-24
-period: 2025-09-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2025-09-01 to 2026-09-25
 place: SSD
 ledger_rows: 155
 not_held: 12
 indicators: 123
-record: 854078ec6666
+record: d0c4e52f57f3
 ---
 
 # South Sudan: progress report, September 2025 – September 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the repository holds nothing on that indicator. **That is a statement about this repository, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-09-01 to 2026-09-24.*
+*The period is 2025-09-01 to 2026-09-25.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the repository holds a standing position and nothing in the period touched it. ***No evidence*** — the repository holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Movement, regulations still pending*.
 
@@ -219,4 +219,10 @@ Where a row reads ***No evidence***, the repository holds nothing on that indica
 | Address and postal code register | An address register, postcode scheme or addressing project established under the postal duty in the National Communication Act 2012. | 2026-09-06 |
 | Court case management system | A judiciary or justice ministry record of a deployed case management system, or a procurement award for one. | 2026-09-06 |
 | Domestic capacity in digital production | A domestic hardware assembly or manufacturing operation, or a published count of digital-sector firms and their output. | 2026-09-06 |
+| Outturn against the digital appropriations | A budget performance report or audited accounts giving actual spending by directorate for the lines carrying digital work; the 2024/25 performance report reports by agency and economic class only. | 2026-09-25 |
+| Financing of the IFMIS and HRMIS after the PFMIS project | The IFMIS and HRMIS sustainability strategy the finance ministry told the Auditor-General in December 2025 it would develop, or a budget line carrying the systems' running costs after the project closes. | 2026-09-25 |
+| Financial resources of the Universal Service and Access Fund | The full text of sections 73 to 83 of the National Communication Act 2012, in particular section 81 on the fund's financial resources; the held capture stops at section 64. | 2026-09-25 |
+| Rule on where state data is hosted | The government data-hosting and cloud guidelines the regional digital integration project targets for April 2028, or any decree fixing where state data is held. | 2026-09-25 |
+| Source code, operating skills and exit for the identity and passport system | The support contract with the system's German vendor, or a directorate statement on source-code ownership, licensing and exit terms. | 2026-09-25 |
+| Terms of MGI's management of the international gateway and data centre | Publication of the agreement under which MGI Communications manages the international gateway and data-centre infrastructure, with its data, portability and exit clauses. | 2026-09-25 |
 
