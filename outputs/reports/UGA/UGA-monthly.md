@@ -1,11 +1,11 @@
 ---
 title: Uganda — monthly update, August – September 2026
-compiled: 2026-09-24
-period: 2026-08-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2026-08-01 to 2026-09-25
 place: UGA
 ledger_rows: 114
 not_held: 11
-record: ed0ea0d1ec07
+record: cd62ac467d3a
 ---
 
 # Uganda: monthly update, August – September 2026
@@ -148,6 +148,8 @@ A parliamentary committee found the expressway concession still running on cash.
 On 22 September Afreximbank [issued a US$29m guarantee to the operator of the regional customs bond platform](https://www.afreximbank.com/afreximbank-issues-a-29-million-guarantee-to-scale-eac-customs-bond-easing-movement-of-goods-across-east-africa/), which was piloted in Uganda from August 2025 and launched across the Community in March 2026. No uptake figure is published.
 
 A microfinance bank moved onto a switch operator's network on 22 September, [putting deposits, withdrawals, loan repayments and bill payments with more than 21,000 agents and its debit cards on more than 650 ATMs](https://www.independent.co.ug/pride-bank-and-interswitch-join-forces-to-deliver-easier-accessible-banking-solutions-to-customers/). No cost or customer target is stated.
+
+The expressway then moved partly off cash. On 25 September [MTN Mobile Money toll payment launched with the works ministry at the Busega, Kajjansi and Mpala plazas on two designated lanes, the motorist approving a PIN prompt on the phone](https://techafricanews.com/2026/09/25/mtn-uganda-mobile-money-toll-payments-kampala-entebbe-expressway/). No other wallet and no fee is named.
 <!-- /narrative -->
 ### Registries
 
