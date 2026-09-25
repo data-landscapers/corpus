@@ -1,12 +1,12 @@
 ---
 title: Cape Verde — progress report, September 2025 – September 2026
-compiled: 2026-09-24
-period: 2025-09-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2025-09-01 to 2026-09-25
 place: CPV
 ledger_rows: 210
 not_held: 30
 indicators: 123
-record: c086c96b3bad
+record: 9f31e30bd84d
 ---
 
 # Cape Verde: progress report, September 2025 – September 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the repository holds nothing on that indicator. **That is a statement about this repository, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-09-01 to 2026-09-24.*
+*The period is 2025-09-01 to 2026-09-25.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the repository holds a standing position and nothing in the period touched it. ***No evidence*** — the repository holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Movement, regulations still pending*.
 
@@ -237,4 +237,5 @@ Where a row reads ***No evidence***, the repository holds nothing on that indica
 | Island-level and urban-rural access disaggregation | The regulator's quarterly indicators broken down by island or municipality, or the census or household survey ICT module at sub-national grain | not yet probed |
 | Data-protection commission appropriation for FY2026 | The National Assembly resolution approving the private budget for 2026; no such resolution is indexed in the Boletim Oficial, breaking a series that ran CVE 35,255,451 for FY2024 and CVE 36,313,115 for FY2025 | not yet probed |
 | Accession to Council of Europe Convention 108 | The Council of Europe treaty office status page, or a national accession resolution in the Boletim Oficial; the repository establishes accession to the AU Malabo Convention and nothing on Convention 108 | not yet probed |
+| Data and exit terms of the Technology Park data-centre concession and the Safe City agreements | the DC2 concession or operating contract, or the Safe City implementation agreements with China, stating data jurisdiction, access, portability and exit clauses | 2026-09-25 |
 
