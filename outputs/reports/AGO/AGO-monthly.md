@@ -1,11 +1,11 @@
 ---
 title: Angola — monthly update, August – September 2026
-compiled: 2026-09-23
-period: 2026-08-01 to 2026-09-23
+compiled: 2026-09-25
+period: 2026-08-01 to 2026-09-25
 place: AGO
-ledger_rows: 63
+ledger_rows: 65
 not_held: 6
-record: 3e98c9834126
+record: 2dcb5a8fbd18
 ---
 
 # Angola: monthly update, August – September 2026
@@ -134,7 +134,7 @@ The electoral register, updating since 15 June against a universe of 16.7 millio
 
 Field enrolment for the single social register [opened in a pilot phase at Sumbe, in Cuanza-Sul](https://angop.ao/noticias/sociedade/cadastro-social-nico-inicia-fase-piloto-no-sumbe/), directed by the social-action minister, to identify and characterise Angolan families and especially those in need. The register itself was activated in July; this is the first enrolment operation on record behind it.
 
-The education ministry made school enrolment independent of documentation. Circular 05/2026 of 19 August [orders every public and private school teaching primary and first-cycle secondary education to enrol children holding no birth certificate and no identity card, and to compile by the end of October a survey of undocumented pupils for the justice ministry's registry directorate, whose services are then to travel to the schools and register them](https://novojornal.co.ao/sociedade/detalhe/med-obriga-escolas-a-aceitar-matricula-de-criancas-que-ainda-nao-possuem-registo-de-nascimento-e-bi-74156.html); the ministry says the 17-21 August enrolment round drew large numbers of children with no registration of any kind. Two more objections followed in mid-September: the main opposition party [said state means were being used to register the governing party's own members early](https://www.noticiasaominuto.com/mundo/3051772/unita-acusa-angola-de-usar-registo-eleitoral-para-beneficiar-mpla), and a civic movement [said parties and civil society have been kept out of supervising the proof-of-life step, leaving nobody scrutinising it](https://angola24horas.com/politica/item/35035-ninguem-esta-a-fiscalizar-mudei-questiona-transparencia-do-registo-eleitoral-em-angola). The electoral administration's answer is not held.
+The education ministry made school enrolment independent of documentation. Circular 05/2026 of 19 August [orders every public and private school teaching primary and first-cycle secondary education to enrol children holding no birth certificate and no identity card, and to compile by the end of October a survey of undocumented pupils for the justice ministry's registry directorate, whose services are then to travel to the schools and register them](https://novojornal.co.ao/sociedade/detalhe/med-obriga-escolas-a-aceitar-matricula-de-criancas-que-ainda-nao-possuem-registo-de-nascimento-e-bi-74156.html); the ministry says the 17-21 August enrolment round drew large numbers of children with no registration of any kind. Two more objections followed in mid-September: the main opposition party [said state means were being used to register the governing party's own members early](https://www.noticiasaominuto.com/mundo/3051772/unita-acusa-angola-de-usar-registo-eleitoral-para-beneficiar-mpla), and a civic movement [said parties and civil society have been kept out of supervising the proof-of-life step, leaving nobody scrutinising it](https://angola24horas.com/politica/item/35035-ninguem-esta-a-fiscalizar-mudei-questiona-transparencia-do-registo-eleitoral-em-angola). The electoral administration's answer is not held. On 22 September the territorial administration ministry [put more than two million adults updated, against more than 16.7 million targeted by 31 March 2027](https://www.novojornal.co.ao/politica/detalhe/tribunal-constitucional-abre-concurso-de-21-milhoes-usd-para-actualizacao-e-modernizacao-da-plataforma-tecnologica-de-modo-a-preparar-processo-eleitoral-74844.html); it gave no provincial breakdown, so the audit the opposition asked for is still not possible.
 <!-- /narrative -->
 ### Sectoral management information systems
 
@@ -153,6 +153,8 @@ The government-systems movement in the window is a procurement decision rather t
 The health ministry's recruitment competition shows what online registration costs when it goes wrong. Of more than 420,000 who registered in July, [more than 170,000 were excluded for defective registration, leaving more than 262,000 to sit tests for 6,030 posts on 21-25 September, sat simultaneously nationwide and marked online](https://novojornal.co.ao/sociedade/detalhe/minsa-seleccionou-262-mil-candidatos-para-concurso-publico-mas-excluiu-170-mil-por-ma-inscricao-74185.html); a complaints window ran from 25 to 31 August.
 
 The in-person counterpart to the missing online service inventory does publish numbers. The [one-stop citizen service network stands at 16 subunits with eight more committed by 2027, units at Kilamba and Cuito due this year, and recorded 1.49m visits in the first half of 2026 and Kz2.47bn paid to the treasury](https://www.africa-newsroom.com/press/angola-governante-anuncia-a-construcao-de-mais-oito-subunidades-do-siac-ate-2027?lang=pt). They are the secretary of state's own figures, published without a service breakdown, a waiting-time measure or any online equivalent — so the state can say how many people came through a door and still not say what it does online.
+
+The Constitutional Court is preparing its own systems for the 2027 elections: on 22 September it [opened a limited tender with pre-qualification, valued at Kz 20 billion, to modernise its platform for registering candidacies and to migrate the records of earlier electoral cycles in full](https://www.novojornal.co.ao/politica/detalhe/tribunal-constitucional-abre-concurso-de-21-milhoes-usd-para-actualizacao-e-modernizacao-da-plataforma-tecnologica-de-modo-a-preparar-processo-eleitoral-74844.html). The tender document is not published.
 <!-- /narrative -->
 
 ## Digitalisation
@@ -208,4 +210,12 @@ The telecommunications ministry [opened further computer rooms and free public i
 
 <!-- narrative: inclusion--include-divides -->
 The satellite programme's antenna recovery and migration reached two more localities at the end of the month: a point restored at Quiage commune in Bengo, stated to serve five thousand residents, and [a connection at Quirimbo in Cuanza-Sul, delivered by startups of the national space programme](https://angop.ao/noticias/economia/populacao-do-quirimbo-entra-na-era-da-conectividade-com-angosat-2/). No running total of points restored or live accompanies the site-by-site reports, so the programme's reach can be dated and not sized.
+<!-- /narrative -->
+
+## Geopolitics
+
+### Gulf/UAE activities
+
+<!-- narrative: geopolitics--geopol-gulf -->
+The national space programme office [signed a letter of intent with the UAE Space Agency at the Africa Space Expo in Abidjan, naming satellite-data exchange, Earth-observation applications and satellite development as areas for cooperation](https://techreviewafrica.com/news/7466/). It carries no money, programme or timetable.
 <!-- /narrative -->
