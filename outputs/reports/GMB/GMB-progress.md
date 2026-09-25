@@ -1,12 +1,12 @@
 ---
 title: Gambia — progress report, September 2025 – September 2026
-compiled: 2026-09-24
-period: 2025-09-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2025-09-01 to 2026-09-25
 place: GMB
 ledger_rows: 140
 not_held: 3
 indicators: 123
-record: ebb62840bea3
+record: ff12d8dda65d
 ---
 
 # Gambia: progress report, September 2025 – September 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the repository holds nothing on that indicator. **That is a statement about this repository, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-09-01 to 2026-09-24.*
+*The period is 2025-09-01 to 2026-09-25.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the repository holds a standing position and nothing in the period touched it. ***No evidence*** — the repository holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Movement, regulations still pending*.
 
@@ -210,4 +210,8 @@ Where a row reads ***No evidence***, the repository holds nothing on that indica
 | Data Protection and Privacy Commission | A commencement instrument, an appointment notice, a budget line or a first annual report. The Act provides for an independent Commission; nothing held states whether it has been constituted. | 2026-08-09 |
 | Legal basis for issuing identity cards outside the country | An official response, a regulation or a registry statement covering issuance in Mauritania, Congo and Togo, which the opposition alleged was unlawful in August 2025. | not yet probed |
 | Artificial intelligence legislation or regulation | An artificial intelligence act or regulation, a regulator's AI guideline, or the AI provisions of the national policy once adopted. | 2026-09-04 |
+| Outturn against the digital appropriations | The annual budget execution report or audited accounts for 2024 or 2025, or the Parliamentary Budget Office's execution briefs, giving actual spending against the digital lines, read into the budget extract. | 2026-09-25 |
+| State obligations under the Margins identity contract | Publication of the Ministry of the Interior - Margins ID Systems build, co-operate and transfer contract, including any minimum-revenue or support obligation on the state and the handover arrangements at the end of the eight-year term. | 2026-09-25 |
+| Source code, operating skills and exit for the national identity system | The NIMS contract terms or a ministry statement on source-code ownership, key custody and exit before the eight-year transfer. | 2026-09-25 |
+| Data jurisdiction, portability and exit terms of the CTM360 memorandum and the identity contract | Publication of the PURA-CTM360 memorandum and the Margins identity contract terms. | 2026-09-25 |
 
