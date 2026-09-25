@@ -486,11 +486,17 @@ def pdf_pages(body: bytes) -> int | None:
         return None
 
 
+# Link text that names the action, not the document: the filename says more.
+GENERIC = re.compile(r"(telecharger|download|read more|lire la suite|en savoir plus|voir|view|"
+                     r"open|pdf|click here|cliquez ici|baixar|descarregar|تحميل|ver mais)( ?(le|the) ?"
+                     r"(document|fichier|file|pdf))?")
+
+
 def link_title(url: str, text: str) -> str:
     """The link's text, unless it is short or a directory listing's truncation (`NAME..>`):
     then the filename, separators to spaces."""
     text = re.sub(r"^download\s+|\s+download$", "", text, flags=re.I).strip()
-    if len(text) >= 8 and not text.endswith(("..>", "...", "…")):
+    if len(text) >= 8 and not text.endswith(("..>", "...", "…")) and not GENERIC.fullmatch(fold(text).strip()):
         return text
     name = os.path.splitext(up.unquote(os.path.basename(up.urlsplit(url).path)))[0]
     return re.sub(r"[_\-]+", " ", name).strip() or text
@@ -590,14 +596,17 @@ def poll(iso: str | None, force: bool, dry_run: bool, limit: int) -> int:
         counts = collections.Counter(links=len(links))
         cands = []
         for href, text in links:
+            # Only a document link can become a candidate, so only one is recorded: the rest of
+            # a page's navigation would be 40,000 rows a poll that nothing ever reads back.
+            if not is_document(href):
+                continue
+            counts["docs"] += 1
             if href in seen[key]:
                 continue
             counts["new"] += 1
             outcome = ""
             label = f"{text} {up.unquote(os.path.basename(up.urlsplit(href).path))}"
-            is_doc = is_document(href)
-            counts["docs"] += is_doc
-            doc_type = doc_type_of(label) if is_doc else ""
+            doc_type = doc_type_of(label)
             ys = years_in(label)
             if not doc_type:
                 outcome = "untyped"
@@ -635,8 +644,8 @@ def poll(iso: str | None, force: bool, dry_run: bool, limit: int) -> int:
             link_rows.append({"iso3": key[0], "host": key[1], "url": href, "first_seen": today,
                               "outcome": outcome, "doc_type": doc_type})
         secs = round(time.time() - start)
-        print(f"  {key[0]} {key[1]:<30} links {counts['links']:>5}  new {counts['new']:>5}  "
-              f"docs {counts['docs']:>4}  untyped {counts['untyped'] - (counts['new'] - counts['docs']):>3}  "
+        print(f"  {key[0]} {key[1]:<30} links {counts['links']:>5}  new docs {counts['new']:>4}  "
+              f"docs {counts['docs']:>4}  untyped {counts['untyped']:>3}  "
               f"old {counts['old']:>3}  undated {counts['undated']:>3}  held {counts['held']:>3}  "
               f"cands {counts['candidates']:>3}  staged {counts['staged']:>2}  {secs}s"
               f"{'  ' + why if why else ''}")
