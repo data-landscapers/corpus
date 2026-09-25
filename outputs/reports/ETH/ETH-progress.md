@@ -1,12 +1,12 @@
 ---
 title: Ethiopia — progress report, September 2025 – September 2026
-compiled: 2026-09-24
-period: 2025-09-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2025-09-01 to 2026-09-25
 place: ETH
 ledger_rows: 185
 not_held: 5
 indicators: 123
-record: f10870f1654a
+record: 3f69c5ea71fe
 ---
 
 # Ethiopia: progress report, September 2025 – September 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the repository holds nothing on that indicator. **That is a statement about this repository, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-09-01 to 2026-09-24.*
+*The period is 2025-09-01 to 2026-09-25.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the repository holds a standing position and nothing in the period touched it. ***No evidence*** — the repository holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Movement, regulations still pending*.
 
@@ -212,4 +212,6 @@ Where a row reads ***No evidence***, the repository holds nothing on that indica
 | Audit of digital spending for any in-scope year | An Office of the Federal Auditor General report for EFY 2017 or later; its published library stops at EFY 2016. | 2026-08-04 |
 | Independent data-protection safeguards over the national digital identity | a published data-protection impact assessment for the national digital identity, a statutory limit on state access to its data, or a redress mechanism a registrant could use | 2026-08-09 |
 | National broadband strategy | A named national broadband strategy or plan, adopted by the Council of Ministers or the communications regulator, with targets and a period. | 2026-08-28 |
+| Control of the payment switch software and operating contract | A statement by the National Bank or EthSwitch naming who holds the source code of the instant payment system, who operates it under what contract, and whether that contract carries exit terms. | 2026-09-25 |
+| Data terms of the Huawei collaboration and the foreign-ministry data centre | Published terms of Ethio Telecom's cloud, AI and data-centre collaboration with Huawei, or of the RailTel work order for the foreign-ministry data centre, covering data jurisdiction, portability and exit. | 2026-09-25 |
 
