@@ -50,8 +50,10 @@ MANIFEST = os.path.join(MIRROR, "cycle-manifest.json")
 # that changed meaning under the same number is the one failure a fallback cannot catch,
 # because both readings parse. Schema 2 adds a `usage` block keyed by stage and the screening
 # counts, and changes nothing this module already reads, so both numbers are accepted and the
-# reader lands before OSINT's writer does (strategic review 4, register R07).
-MANIFEST_SCHEMAS = (1, 2)
+# reader lands before OSINT's writer does (strategic review 4, register R07). Schema 3 adds a
+# `drops` block - per sweep, drop codes from the sweep and from ingest, admissions and the
+# ingest drop rate - and again changes nothing already read (review 5, R70-R71).
+MANIFEST_SCHEMAS = (1, 2, 3)
 
 # Where a schema-2 manifest is kept once it has been read. The mirror holds one file and every
 # close overwrites it, so a `usage` block is on the disk for one night and then gone - and the

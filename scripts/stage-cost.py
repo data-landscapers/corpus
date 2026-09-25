@@ -21,6 +21,13 @@ those are different facts: `rules` at 0 points in 1 minute says the stage is tri
 weekly limit's whole-percent resolution is coarse enough that a one- or two-point reading
 carries an error bar as wide as itself, so the minutes are often the more honest number.
 
+**Below the cost table, ingest's drop rate per sweep** *(strategic review 5, R71)*: from each
+kept schema-3 manifest whose `drops` block has `ingest_coded`, the share of a sweep's items
+that ingest deleted rather than admitted, for the last rotation's nights and pooled across
+them. Pooled, not a mean of rates, so a sweep that staged three items does not weigh as much
+as one that staged three hundred. A night before OSINT coded its drops (R69) has no rate and
+is left out, never read as zero. This is the number review 6 reads.
+
 Reads only Corpus's own archive; nothing here touches the mirror.
 
   python scripts/stage-cost.py
@@ -47,6 +54,55 @@ def nights() -> dict:
         if day in DAYS and data.get("usage"):
             found[day] = data   # sorted by written_utc, so the last one wins
     return found
+
+
+def drop_nights() -> list:
+    """The last rotation's `drops` blocks with coded ingest drops, oldest first.
+
+    One block per night, the newest manifest carrying it winning, since a later close on the
+    same night counts the same batches with more of ingest done. A rotation is the last
+    `len(DAYS)` such nights."""
+    found = {}
+    for path in sorted(glob.glob(os.path.join(osint_lib.ARCHIVE, "*.json"))):
+        with open(path, encoding="utf-8") as fh:
+            block = json.load(fh).get("drops") or {}
+        if block.get("ingest_coded") and block.get("night"):
+            found[block["night"]] = block
+    return [found[n] for n in sorted(found)][-len(DAYS):]
+
+
+def rate(dropped: int, admitted: int) -> str:
+    total = dropped + admitted
+    return f"{100 * dropped / total:.0f}% ({dropped}/{total})" if total else "—"
+
+
+def print_drops() -> None:
+    """Ingest drop rate per sweep per night, and pooled over the rotation."""
+    blocks = drop_nights()
+    if not blocks:
+        print("\nIngest drop rate: no kept manifest carries coded ingest drops yet (R69).")
+        return
+    sweeps = sorted({s for b in blocks for s in b.get("sweeps", {})})
+    rows = {s: [] for s in sweeps + ["all"]}
+    pooled = {s: [0, 0] for s in sweeps + ["all"]}
+    for b in blocks:
+        night = [0, 0]
+        for s in sweeps:
+            e = b.get("sweeps", {}).get(s)
+            if not e or "ingest" not in e:
+                rows[s].append("—")
+                continue
+            n, a = sum(e["ingest"].values()), e.get("admitted", 0)
+            rows[s].append(rate(n, a))
+            for acc in (pooled[s], night, pooled["all"]):
+                acc[0] += n
+                acc[1] += a
+        rows["all"].append(rate(*night))
+    print("\n| ingest drop rate | " + " | ".join(b["night"] for b in blocks) + " | rotation |")
+    print("|---|" + "---|" * (len(blocks) + 1))
+    for s in sweeps + ["all"]:
+        label = "**all sweeps**" if s == "all" else s
+        print(f"| {label} | " + " | ".join(rows[s]) + f" | {rate(*pooled[s])} |")
 
 
 def deltas(usage: dict) -> dict:
@@ -111,6 +167,7 @@ def main() -> int:
     missing = [d for d in DAYS if d not in found]
     if missing:
         print(f"\nNot yet kept: Day {', Day '.join(missing)}.")
+    print_drops()
     return 0
 
 
