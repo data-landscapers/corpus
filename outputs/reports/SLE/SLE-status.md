@@ -1,13 +1,13 @@
 ---
 title: Sierra Leone: status report
-compiled: 2026-09-23
+compiled: 2026-09-25
 place: SLE
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-20
 intersections_read: 10
-sources_cited: 139
-sections_written: 37
+sources_cited: 155
+sections_written: 39
 not_established: 2
 acquire_lines: 48
 ---
@@ -78,6 +78,20 @@ Disagreement is aired rather than managed. [Parliament took up the mobile-money 
 What the public cannot readily obtain is the record to argue from: [disclosure and accessibility of public records both score poorly and have barely moved over the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sl.pdf) (2023).
 
 ## Finance
+
+### Financial sustainability
+<!-- finance.sustain -->
+
+Sierra Leone's treasury carries almost all of its digital lines, and most of that money is the communications regulator's: [the 2026 estimates vote NLe401.7m for the regulator's operations, against NLe22.0m for the civil registration authority's identity-system project](https://mof.gov.sl/wp-content/uploads/2025/12/FY2026-Budget-Estimates-Detailed.pdf) (2026).
+
+<!-- derived -->
+The state's own money is 88.6% of the digital lines of the 2026 estimates, NLe637.3m of NLe719.0m, against 94.7% in 2024.
+
+The external part is almost all one loan: [a foreign loan for school connectivity carries NLe80.6m in 2026, and a World Bank grant to the Digital Transformation Project NLe1.06m](https://mof.gov.sl/wp-content/uploads/2025/12/FY2026-Budget-Estimates-Detailed.pdf), against [NLe30.0m for the school-connectivity loan in 2024](https://mof.gov.sl/wp-content/uploads/2023/12/FY2024_-Government-of-Sierra-Leone-Detailed-Budget-Estimates-.pdf). That project, [US$50m from the World Bank, closes on 30 September 2027 and had disbursed 21.24% by August 2025](https://documents1.worldbank.org/curated/en/099082425100528857/pdf/P177077-b39248ac-6b56-450d-ba7c-dff84b78d19f.pdf), and [the 2025 estimates carried a NLe0.5m government counterpart for it](https://mof.gov.sl/wp-content/uploads/2024/11/Fy2025-Budget-Estimates-Detail-Report.pdf). What is voted is spent and more: [in 2025 the regulator's line paid out NLe425.0m against NLe323.0m voted and NLe401.0m after the mid-year revision, and the identity-system project NLe18.6m of NLe20.0m](https://mof.gov.sl/wp-content/uploads/2026/04/Annual-Public-Accounts-2025.pdf).
+
+The sector's own-source mechanisms are in law and leak. [A universal access and service levy of 0.75% of operators' gross income, alongside parliamentary appropriations and grants, finances the Universal Access Development Fund](<https://www.parliament.gov.sl/uploads/statutory_instruments/THE%20NATIONAL%20TELECOMMUNICATION%20(UNIVERSAL%20ACCESS%20DEVELOPMENT%20FUND)%20REG.,%202019.pdf>), but [10 of 16 internet service providers paid no levy for 2024 and the auditor found no penalty imposed on them](https://website.auditservice.gov.sl/wp-content/uploads/2025/12/Auditor-Generals-Annual-Report-2024.pdf). [The regulator's revenue rose 46% in 2024 on surcharges under the Finance Act 2024, and it paid NLe74.7m, 12% of that revenue, into the Consolidated Revenue Fund](https://natca.gov.sl/wp-content/uploads/2026/03/NatCA-Annual-Report-2024.pdf).
+
+The one private arrangement with money attached is the state telco's: [Africell handed Sierratel a US$2m upfront payment on 5 May 2026 under the partnership relaunching it as a mobile virtual network operator, the money going to settle long-standing staff liabilities](https://mocti.gov.sl/the-relaunch-of-sierra-leones-national-asset/).
 
 ### MoUs and other agreements
 <!-- finance.mou -->
@@ -368,3 +382,14 @@ No Gulf-financed digital infrastructure, Emirati or Saudi platform presence, and
 <!-- geopol.india -->
 
 No India Stack-derived deployment, Indian digital financing or bilateral digital agreement was on the record for Sierra Leone as at August 2026.
+
+### Digital sovereignty
+<!-- geopol.sovereignty -->
+
+President Bio told a UN General Assembly roundtable on 21 September 2026 that [Sierra Leone has been exploring regional data embassies, under which critical public data would be hosted in another participating state while the country keeps legal jurisdiction and control over it, on the principle that "sovereignty should travel with the law, not simply with the building"](https://thecalabashnewspaper.com/archives/64794).
+
+Cabinet [approved a National Open Source Software First Policy in July 2026, aimed at cutting software costs, improving data security and strengthening digital sovereignty](https://moice.gov.sl/parliament-ratifies-5-million-government-printing-press-modernisation-deal-as-cabinet-announces-key-reforms/). The next identity platform rests on [a memorandum with Bhutan's national digital identity company and the Sign Foundation, built on open-source technology and W3C verifiable credentials, stressing local capability and long-term national ownership](https://www.biometricupdate.com/202607/sierra-leone-partners-with-bhutan-sign-on-digital-identity-platform) (July 2026), which [builds on a November 2025 memorandum under which the California-based Sign leads development of "sovereign blockchain infrastructure" for national identity, a wallet and asset tokenisation](https://www.biometricupdate.com/202511/sierra-leone-partners-to-build-blockchain-powered-digital-id-system).
+
+State data sits in state facilities: [the civil registration authority hosts identity data in its own Tier-3 data centre and offers hosting to ministries](https://ncra.gov.sl/ncra-and-mocti-sign-a-landmark-digital-governance-mou/) (2024), and [the government data centre is at the NatCA tower, with a redundancy site planned at State House and a data governance framework being drafted to set how government data is classified, shared and used](https://sierraloaded.sl/news/communication-strengthens-partnership/) (September 2026). Owning a facility has not meant running it: [the auditor found that the Universal Access Development Fund's central data centre was managed and controlled exclusively by a foreign contractor, the fund having no administrative access to the system](https://website.auditservice.gov.sl/wp-content/uploads/2025/12/Auditor-Generals-Annual-Report-2024.pdf) (2024). No instrument fixing where state data is held or under whose law it is processed was in force as at September 2026.
+
+The health agreement with the United States [commits the government to protecting data sovereignty and regulatory authority under a US$129m memorandum signed on 22 December 2025](https://mohs.gov.sl/sierra-leone-and-the-united-states-sign-landmark-agreement/), and [its text and related data-sharing agreements are among those a US freedom-of-information suit filed in April 2026 seeks to have the State Department release](https://www.citizen.org/wp-content/uploads/2026.04.02-Complaint.pdf). The terms on which the Sign Foundation agreements and the Universal Access Development Fund's data-centre contract govern data jurisdiction, portability and exit had not been published as at September 2026.

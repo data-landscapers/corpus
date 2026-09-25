@@ -1,13 +1,13 @@
 ---
 title: Nigeria: status report
-compiled: 2026-09-24
+compiled: 2026-09-25
 place: NGA
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-09
 intersections_read: 16
-sources_cited: 258
-sections_written: 37
+sources_cited: 268
+sections_written: 39
 not_established: 0
 acquire_lines: 41
 ---
@@ -68,6 +68,18 @@ Where consultation happens, it happens late and about the wrong thing. [The Sena
 There is no standing channel for any of this. [The GovTech Maturity Index records no government platform for citizen participation in policy or decision-making, returning "No" on the indicator and all six sub-indicators](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025), against right-to-information legislation the same index rates in force and effective. [The accessibility of public records](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ng.pdf) is among Nigeria's strongest placings anywhere in the Ibrahim Index, and one of its largest ten-year gains, while [what the state proactively discloses](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ng.pdf) has barely moved over the decade to 2023. Proposals to build a channel sit outside government: [a civil-society framework pairing radio, SMS and USSD with digital platforms for National Assembly hearings sits unadopted at draft stage](https://www.vanguardngr.com/2026/08/why-technology-driven-reforms-will-deepen-citizens-participation-in-lawmaking-csos-expert/) (August 2026).
 
 ## Finance
+
+### Financial sustainability
+<!-- finance.sustain -->
+
+<!-- derived -->
+Nigeria's own money carries 66.6 per cent of the digital lines in the 2026 federal appropriation, ₦362.0 billion of ₦543.3 billion, up from 39.3 per cent of ₦1,027.4 billion in 2025; the 2024 share was 46.6 per cent.
+
+The movement is one loan. [The 2025 Appropriation Act carried ₦400.6 billion of tied multilateral or bilateral loan for phase II of the national ICT infrastructure backbone](https://budgetoffice.gov.ng/index.php/2025-appropriation-act-as-passed/2025-appropriation-act-as-passed/download), and [the 2026 appropriation ₦30.0 billion, beside ₦89.3 billion, ₦36.0 billion and ₦26.0 billion of African Development Bank, Islamic Development Bank and French Development Agency loans for the digital and creative enterprises training programme](https://budgetoffice.gov.ng/index.php/2026-appropriation-bill-details/2026-appropriation-bill-details/download). Identity is where an external window closes: [the ID4D credit behind enrolment closes on 31 December 2026](https://documents.worldbank.org/curated/en/099122424123515222/pdf/P167183-7da88040-b609-473f-bc3c-7667ef8f9f33), [the identity commission's own 2026 vote is ₦37.1 billion](https://budgetoffice.gov.ng/index.php/2026-appropriation-bill-details/2026-appropriation-bill-details/download), and [the integrator contract for its MOSIP-based successor system was still being finalised in August 2026, with about 18 months of implementation to follow](https://techcabal.com/2026/09/07/nigeria-needs-62-5-million-nins-in-six-months-to-meet-target/). No outturn against the digital appropriations had been published as at September 2026.
+
+The shared government estate is paid for by the ministries that use it. [Galaxy Backbone, owned by the Federal Government and Jigawa State to provide shared ICT services to federal agencies, earned ₦9.41 billion in 2024, 11 per cent less than in 2023, and lost ₦214 million after tax](https://mofi.com.ng/wp-content/uploads/2025/09/Galaxy-Backbone-Limited__-2024-AFS.pdf). [Its 1Gov cloud was rolled out across ministries to cut recurrent operating costs](https://itweb.africa/article/nigerias-1gov-cloud-helps-reduce-reliance-on-foreign-digital-systems/WnpNgq21aogMVrGd) (September 2025), and in August 2026 [a Joint Technical Committee chaired by the Director-General of the Budget Office was set up to bring government cloud spending, procurement and financing under the sovereign cloud initiative, after NITDA's review of more than ₦4.2 trillion of federal IT project submissions for 2023-2026 saved over ₦400 billion](https://von.gov.ng/nigeria-inaugurates-technical-committee-on-sovereign-cloud-initiative/).
+
+Private capital enters on long concessions: [the Federal Executive Council approved the Smart National Transport Databank as a 20-year design-build-finance-operate-transfer concession to Asia-Arab Investment Nigeria Limited, covering at least 250 roadside gantries, traffic management centres in every state and a main data centre](https://von.gov.ng/transport-ministry-inaugurates-committee-on-smart-transport-databank-project/) (August 2026). How the concessionaire is paid, and what the state owes under it, had not been published as at September 2026.
 
 ### MoUs and other agreements
 <!-- finance.mou -->
@@ -384,3 +396,14 @@ The one closed transaction on record is older and private. Abu Dhabi's Mubadala 
 <!-- geopol.india -->
 
 [India approved a US$100 million line of credit to Nigeria for the establishment of a National Rural Broadband Network on 18 June 2019, with implementation managed by the Federal Ministry of Communications](https://sansad.in/getFile/loksabhaquestions/annex/172/AU3714.pdf), and no other Indian-financed digital programme was running in Nigeria as at August 2026.
+
+### Digital sovereignty
+<!-- geopol.sovereignty -->
+
+[Edo State has replaced a foreign-owned e-governance platform, whose development it had paid for and then paid licensing fees to keep using, with a platform of its own serving all 128 state ministries, departments and agencies](https://www.vanguardngr.com/2026/09/nobody-can-shut-down-internet-to-disrupt-nigerias-elections-urhoghide-edoicta-boss/) (September 2026). The federal state is making the same move system by system: [the identity commission moved verification onto a platform it built and manages itself](https://techcabal.com/2025/07/03/sim-registration-halted-as-nimc-migrates/) (July 2025), [federal payroll and personnel records moved to software built by a Nigerian firm, on the stated ground of the sovereignty of government personnel data](https://fmino.gov.ng/fg-launches-ippis-human-resource-modules-deepens-digital-transformation-of-civil-service/) (July 2026), and [the next identity system is being built on the open-source MOSIP platform](https://techcabal.com/2026/09/07/nigeria-needs-62-5-million-nins-in-six-months-to-meet-target/) (August 2026).
+
+Where data sits is being fixed from a low base. [More than 85 per cent of Nigerian workloads ran on public clouds, and only 22 per cent of the country's 1,000 most-visited websites were hosted locally](https://techcabal.com/2026/08/10/nigeria-pushes-local-cloud-as-85-of-workloads-use-public-clouds/) (August 2026), and [government hosting sits both inside and outside the country](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). [Payments data must be held in Nigeria from 1 January 2027, a rule the central bank frames as local oversight of core financial records rather than separation from global hyperscalers](https://techcabal.com/2026/09/17/nigeria-wants-to-bring-payment-data-home/) (September 2026).
+
+The state's own host is [Galaxy Backbone, owned by the Federal Government and Jigawa State](https://mofi.com.ng/wp-content/uploads/2025/09/Galaxy-Backbone-Limited__-2024-AFS.pdf), which [holds a technical partnership with Huawei](https://techcabal.com/2026/09/17/nigeria-wants-to-bring-payment-data-home/); the terms on which that partnership governs data jurisdiction, portability and exit had not been published as at September 2026.
+
+On AI, [NITDA's director-general argued in August 2026 that sovereignty has to cover connectivity, compute, data centres, cloud and AI models](https://von.gov.ng/nigeria-pushes-sovereign-ai-agenda-at-gitex-2026/), while [the government's citizen-service assistant](https://techcabal.com/2026/05/22/nigeria-taps-meta-ai-to-help-citizens-access-government-services/) and [the national language model N-ATLAS](https://www.wearetech.africa/en/fils-uk/news/tech/nigeria-launches-n-atlas-an-ai-language-model-in-yoruba-igbo-hausa-and-nigerian-english) are both built on Meta's open-source Llama. Across borders, [Nigeria is one of the first three pilots for the AfCFTA's shared identity, payment and data-exchange rails](https://www.biometricupdate.com/202605/nigeria-kenya-morocco-selected-for-afcfta-digital-identity-and-dpi-rollout) (May 2026), and [Chad and Nigeria signed a joint communiqué in September 2026 committing both ministers to a sovereign sub-regional digital ecosystem](https://tchadinfos.com/2026/09/16/le-ministre-nigerian-de-linnovation-en-visite-de-travail-au-tchad/).

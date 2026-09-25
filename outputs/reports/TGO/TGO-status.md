@@ -1,13 +1,13 @@
 ---
 title: Togo: status report
-compiled: 2026-09-16
+compiled: 2026-09-25
 place: TGO
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-25
 intersections_read: 10
-sources_cited: 180
-sections_written: 37
+sources_cited: 194
+sections_written: 39
 not_established: 2
 acquire_lines: 40
 ---
@@ -88,6 +88,22 @@ What deliberation there is on digital policy is convened outside government. [IS
 The right to information is complete in law and unattended in practice. The [53-article statute of 30 March 2016 sets a 30-day response period, 15 days for researchers and journalists, and vests oversight in the Médiateur de la République](https://www.rti-rating.org/wp-content/uploads/Togo.pdf), implemented by a [decree of 10 August 2017 running to 26 articles](https://jo.gouv.tg/sites/default/files/JO/JOS_10_08_2017-62e%20ANNEE%20N%C2%B0%2023%20ter.pdf). [Both of the index's public-records measures put Togo among its own worst-scoring indicators](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-tg.pdf), and [Accountability & Transparency is Togo's lowest-scoring governance sub-category, at 36.0 of 100.0 in 2023, 30th of 54, and up just 0.9 points over the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-tg.pdf).
 
 ## Finance
+
+### Financial sustainability
+<!-- finance.sustain -->
+
+Loan-financed identity and statistics projects cut the state's own share of Togo's digital budget in 2025: [the 2025 budget carried XOF 8.47 billion of loan money for the WURI biometric identification project and XOF 7.79 billion for the statistics harmonisation project (FY2025)](https://finances.gouv.tg/wp-content/uploads/2025/01/BUDGET-DEPENSES-2025.pdf), against [XOF 1.81 billion and XOF 1.0 billion in 2024 (FY2024)](https://finances.gouv.tg/wp-content/uploads/2024/07/BUDGET-DEPENSES_2024.pdf).
+
+<!-- derived -->
+The digital lines of the 2025 budget came to XOF 53.0 billion appropriated, 57.1% of it on the state's own financing codes, against 80.2% of XOF 22.6 billion in 2024 (FY2025).
+
+The 2026 budget names its external projects only through the programme document. [The 2026 budget appropriates XOF 12.04 billion to the WURI project, XOF 5.0 billion to ProDigiT, XOF 6.21 billion to digitalising town halls and XOF 3.13 billion to the digital acceleration project (FY2026)](https://finances.gouv.tg/wp-content/uploads/2026/01/BUDGET-2026-BG-CHAP.pdf), [the four projects the draft budget programme for 2026-2028 prints as the digital ministry's externally financed investment](https://finances.gouv.tg/wp-content/uploads/2025/11/Budget-programme-de-lEtat-2026-2028-vers%C2%B0_14112025_AN.pdf). The 2026 general budget prints no financing source against its other digital lines (FY2026). [Its special allocation accounts, fed by non-tax receipts, carry XOF 1.37 billion for the social registry and XOF 6.85 billion for the administration modernisation programme (2026)](https://finances.gouv.tg/wp-content/uploads/2026/01/BUDGET-CAS_2026_.pdf).
+
+The running costs are appearing as lines of their own. [The 2026 budget opens a XOF 46 million chapter for hosting the health information system DHIS2 and gives the state data-centre company SIN XOF 2.0 billion (FY2026)](https://finances.gouv.tg/wp-content/uploads/2026/01/BUDGET-2026-BG-CHAP.pdf), against [XOF 1.5 billion for SIN in 2025 (FY2025)](https://finances.gouv.tg/wp-content/uploads/2025/01/BUDGET-DEPENSES-2025.pdf).
+
+The law earmarks some of the sector's own money. [The 2018 cybersecurity law creates a Digital Sovereignty Fund to finance the national cybersecurity strategies and support the cybersecurity agency, leaving its operation and financing to a decree](https://jo.gouv.tg/sites/default/files/JO/JOS_07_12_2018-63E%20ANNEE%20N%C2%B024TER.pdf). [A 2023 decree splits spectrum management royalties equally between the state budget and the regulator, and sends 30% of regulatory fines to the universal service fund](https://arcep.tg/wp-content/uploads/2023/08/Decret-2023-040-fixant-taux-modalites-recouvrements-equipements-radielectriques.pdf).
+
+The state's cybersecurity joint venture is financed from abroad: [Poland's development bank BGK signed about EUR 24 million, the first tranche of a 12-year programme of more than EUR 80 million, for Cyber Defense Africa, the state's joint venture with Asseco Data Systems, under an EU EFSD+ guarantee (May 2026)](https://www.gov.pl/web/cyfryzacja/wspolpraca-rozwojowa-bgk-wspiera-polska-inwestycje-technologiczna-w-afryce).
 
 ### MoUs and other agreements
 <!-- finance.mou -->
@@ -414,3 +430,14 @@ No Gulf-state investment in Togo's digital infrastructure was on the public reco
 <!-- geopol.india -->
 
 No Indian digital cooperation programme in Togo was on the public record as at August 2026.
+
+### Digital sovereignty
+<!-- geopol.sovereignty -->
+
+Togo's data-protection authority has made in-country storage its stated goal: [its head said in January 2026 that the final objective is to require digital operators to store Togolese personal data in Togo, while the authority already receives requests to authorise transfers of personal data abroad](https://www.republicoftogo.com/toutes-les-rubriques/societe/donnees-numeriques-l-etat-impose-de-nouvelles-exigences-aux-operateurs). No instrument fixing where state data is held or under whose law it is processed was in force as at September 2026.
+
+The state's own facility has been run by others. [Management of the state-owned Lomé Data Centre was given to Africa Data Centres for five years from 2021, with an obligation to transfer skills to Togolese staff so that the state could eventually run it itself](https://www.rfi.fr/fr/podcasts/afrique-%C3%A9conomie/20210712-le-togo-vient-de-se-doter-d-un-centre-de-stockage-de-donn%C3%A9es-num%C3%A9riques); [Cabinet authorised its cession to a private operator in December 2022](https://archive.presidence.gouv.tg/2022/12/24/conseil-des-ministres-du-21-decembre-2022/), and [the minister said in July 2023 that it was still looking for an investor-operator](https://dcmag.fr/au-togo-lome-data-center-cherche-son-gestionnaire/). Social insurance keeps its data in a state facility: [the health insurer INAM's new information system is hosted on the social security fund CNSS's own data centre, a pooling the two present as keeping the data sovereign (April 2026)](https://cnss.tg/linam-emboite-le-pas-a-la-cnss/).
+
+[The national identity database is hosted on private cloud infrastructure provided by the IDEMIA/Atos consortium that built it](https://www.idemia.com/pdf-export.php?post_id=10886). Where the IDEMIA/Atos private cloud that hosts the national identity database is located, and under whose jurisdiction, had not been published as at September 2026. The terms on which the IDEMIA/Atos contract, the NITEC licences and the SIN protocol with ST Digital govern data jurisdiction, portability and exit had not been published as at September 2026.
+
+The AI layer is being built in the country with outside money. [UNDP's September 2026 review of its AI infrastructure programme lists Togo among six African countries where it procured and deployed country-hosted GPU compute](https://www.undp.org/africa/publications/local-ai-compute-infrastructure-africa-lessons-six-country-hosted-deployments-governance-and-effective-use), and [Google.org's US$2 million for the Togo Data Lab, run by the digital ministry with Berkeley's CEGA, is to train 27 data specialists for the ministries (December 2025)](https://cega.berkeley.edu/article/togo-expands-data-lab-to-drive-durable-policy-innovation-with-support-from-google-org/).

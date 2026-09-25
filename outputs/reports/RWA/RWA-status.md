@@ -1,13 +1,13 @@
 ---
 title: Rwanda: status report
-compiled: 2026-09-23
+compiled: 2026-09-25
 place: RWA
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 9
-sources_cited: 163
-sections_written: 37
+sources_cited: 174
+sections_written: 39
 not_established: 1
 acquire_lines: 55
 ---
@@ -76,6 +76,18 @@ The machinery of participation, by contrast, is in place and rates well. A [righ
 Involvement thins out as the service gets closer to the people who most depend on it. [Citizens are involved in designing the services on the main service portal and the tax portal, but not on the social protection portal or the public jobs portal](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). And the record a citizen would need to argue with is mostly held back: across the digital government estate — the service portal, e-procurement, the transformation programme, data governance, the participation and feedback platforms themselves, and the right-to-information regime — [documentation and assessments are held internally and not published](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025).
 
 ## Finance
+
+### Financial sustainability
+<!-- finance.sustain -->
+
+<!-- derived -->
+Rwanda's own money carries 45.6 per cent of the digital lines in the 2026/27 finance law, RWF 92.1 billion of RWF 201.7 billion, against 50.0 per cent of RWF 176.0 billion in 2025/26 and 47.2 per cent of RWF 145.5 billion in 2024/25.
+
+The fall is the identity build. [The loan line for digital identification and authentication doubled to RWF 26.6 billion in 2026/27](https://www.minecofin.gov.rw/fileadmin/user_upload/Minecofin/Publications/REPORTS/National_Budget/Annual_State_Finance_Laws/2026_to_2027_Original_Annual_Finance_Law/2026-2027_Original_Annual_Finance_Law.pdf), from [RWF 13.3 billion in 2025/26](https://www.minecofin.gov.rw/fileadmin/user_upload/Minecofin/Publications/REPORTS/National_Budget/Annual_State_Finance_Laws/2025_to_2026_Original_Finance_Law/2025_-_2026_Original_Finance_Law_.pdf), and [the World Bank credit that carries Single Digital ID enrolment, software and hardware, prioritised within an envelope cut by EUR 18.4 million in June 2024, closes in December 2026 with initial issuance targeted at 15 per cent of the population by then](https://documents1.worldbank.org/curated/en/099081425064012415/pdf/P173373-bac10ad3-9f4a-4970-90af-86466958b220.pdf) — six months before [the old identity cards are voided](https://www.newtimes.co.rw/article/34090/) (June 2027).
+
+Most of what is voted is spent. [In 2024/25 the ICT-for-development programme spent RWF 6.42 billion, national identification RWF 3.05 billion and cybersecurity standards and skills RWF 106 million](https://www.minecofin.gov.rw/fileadmin/user_upload/Minecofin/Publications/REPORTS/National_Budget/Budget_Execution_Reports/Budget_Execution_Reports_FY_2024-25/Q4/5._BudgetExecProgSubprog.pdf), against [RWF 8.72 billion, RWF 2.17 billion and RWF 921 million appropriated from domestic funds](https://www.minecofin.gov.rw/fileadmin/user_upload/Minecofin/Publications/REPORTS/National_Budget/Annual_State_Finance_Laws/2024_to_2025_Original_Budget_Law/2024-2025_Original_Finance_Law.pdf).
+
+Two own-source mechanisms sit in law and contract rather than in the budget: [the Universal Access Fund, levied on regulated services under a 2023 presidential order](https://www.minict.gov.rw/index.php?eID=dumpFile&f=71170&t=f&token=b823ce70150c2240be4a87269bc40c9b8a997ef1), and [Irembo's commission on each paid transaction under a 25-year agreement, which pays for the service platform in place of a government fee](https://public.digital/pd-insights/signals/signals-5/the-irembo-model-in-rwanda). The platforms also earn abroad: [Eswatini, Chad, Guinea and Kenya are paying to adopt Rwandan-built government platforms](https://www.ktpress.rw/2025/07/technology-transfer-is-rwandas-latest-pricey-export/) (July 2025).
 
 ### MoUs and other agreements
 <!-- finance.mou -->
@@ -397,3 +409,14 @@ What has followed so far is an intention rather than a build. Broadband Systems 
 <!-- geopol.india -->
 
 No Indian-financed digital infrastructure or India Stack-derived system was operating in Rwanda as at August 2026.
+
+### Digital sovereignty
+<!-- geopol.sovereignty -->
+
+Rwanda's own ICT sector plan puts [only 14.9 per cent of the government's 4,660 websites and applications hosted in the country, despite a 50 per cent cut in hosting prices at the National Data Centre](https://www.minict.gov.rw/fileadmin/user_upload/minict_user_upload/Documents/Strategies/ICT__SSP_2024-2029_.pdf) (2025), against [a rule that government data be kept inside the country](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025) and [a data protection law requiring personal data to be stored in Rwanda unless the supervisory authority authorises otherwise](https://rwandalii.org/akn/rw/act/law/2021/58/eng@2021-10-15).
+
+The next shared platform is designed to straddle the border: [the government data hub RISA took to market in November 2025 puts its core hardware in colocation at the National Data Centre and lets cloud components, for work such as model training on GPUs, run on public cloud outside Rwanda](https://www.risa.gov.rw/index.php?eID=dumpFile&f=151133&t=f&token=ea2f00488a3d4ebb4cde95d0c365c403869d9fb7). [The region's first AWS Outposts deployment, by Sand Technologies, went into Rwanda in 2026 to keep data from services such as health and public administration stored and processed in the country](https://techreviewafrica.com/news/5128/rwanda-hosts-first-aws-outposts-deployment-in-region). The terms on which that deployment and [the February 2026 memorandum placing Anthropic's Claude across the health ministry and other public agencies](https://www.techpolicy.press/anthropic-is-becoming-the-backbone-of-rwandas-government-but-who-is-accountable/) govern data jurisdiction, portability and exit had not been published as at September 2026.
+
+The core systems the state has rebuilt it has rebuilt to keep: [Irembo is maintained by an insourced local engineering team](https://public.digital/pd-insights/signals/signals-5/the-irembo-model-in-rwanda), and [the eKash payment rail was rebuilt open-source on Mojaloop with a Rwandan firm, replacing a proprietary first version](https://www.biometricupdate.com/202607/rwanda-turns-digital-public-infrastructure-into-a-continental-growth-strategy).
+
+On AI, [the prime minister set out three tests of sovereignty in September 2026 — whether a state can govern the data its citizens produce, whether its institutions can reach infrastructure on terms they can predict, and whether African firms earn margin or only distribute — and named affordable compute and energy as the country's biggest constraints](https://www.newtimes.co.rw/article/39113/news/rwanda/energy-compute-capacity-the-biggest-constraints-to-rwandas-ai-ambitions-pm). [Huawei offered Rwanda a three-tier "trustworthy and sovereign AI" model, starting from a base model built locally on local data by local engineers](https://www.ktpress.rw/2026/09/china-pitches-its-ai-model-as-a-template-rwanda-can-build-on/) (September 2026). Regionally, Rwanda hosted [the EAC meeting on a shared AI roadmap framed as regional sovereignty](https://itweb.africa/article/eac-moves-to-create-unified-ai-sovereignty-bloc/) (March 2026), while [the Community's cross-border data rules remained unadopted](https://newsaf.cgtn.com/news/2026-07-25/East-African-Community-pushes-for-a-single-digital-market-1P2UgLoWEPS/p.html) (July 2026).

@@ -1,13 +1,13 @@
 ---
 title: Sao Tome and Principe: status report
-compiled: 2026-09-24
+compiled: 2026-09-25
 place: STP
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-19
 intersections_read: 8
-sources_cited: 181
-sections_written: 37
+sources_cited: 183
+sections_written: 39
 not_established: 0
 acquire_lines: 33
 ---
@@ -68,6 +68,18 @@ Electoral participation is where the digital and the deliberative meet. The [ref
 Two consultation routes are on the record, and both are the regulator's. AGER [launched a public consultation on the draft electronic communications law in February 2024 and published a report setting out its legal basis and its point-by-point responses to the contributions received](https://ager.st/images/Relatorio_CONSULTA_PUBLICA_LCE.pdf), and in September 2025 it [put the 2024-2028 national cybersecurity strategy and its action plan to public comment, with contributions due within 30 days and later submissions excluded](https://www.ager.st/index.php/pt/actualidades/19-annonces/106-estrategia-nacional-de-ciberseguranca-de-sao-tome-e-principe). Neither records what it changed. Outside the regulator, participation has been local and small: two districts [turned resident-identified priorities into completed works in six and a half months through pilot participatory budgeting exercises, paving a road in Cantagalo and building a water capture and distribution system in Lemba](https://www.cascais.pt/noticia/orcamento-participativo-transforma-sao-tome-e-principe) (August 2026), run by civil-society organisations with the district councils and Portuguese and European support.
 
 ## Finance
+
+### Financial sustainability
+<!-- finance.sustain -->
+
+[The World Bank project that installed the central bank's core banking system closed in June 2025 having paid for the system's testing, technical support and licensing for two years beyond its close](https://documents1.worldbank.org/curated/en/099122425094017275/pdf/BOSIB-13307967-436a-439f-8e03-0103fb0dd531.pdf) (December 2025), and [the Digital São Tomé and Príncipe grant behind the identity, interoperability and connectivity work runs to 2027](https://projects.worldbank.org/en/projects-operations/project-detail/P177158).
+
+<!-- derived -->
+The digital lines of the 2024 budget come to STN 92.6 million appropriated, of which STN 33.6 million, or 36.3%, is the state's own money (2024).
+
+[The external side of those lines is led by World Bank grants for the population census, STN 27.5 million, and the Príncipe fibre project, STN 10 million, with French Development Agency grants for treasury and tax systems and an African Development Bank loan of STN 4 million for the payment system](https://financas.gov.st/phocadownload/Orcamento/oge/A-2024/OGE2024-APROVADO/5%20-%20STP%20OGE%202024%20-%20DESPESAS%20GERAL.pdf) (2024). [Among the state's own lines are the statistics institute's running transfer of STN 9.6 million and STN 5.8 million for the running of the Innovation and Knowledge Institute, INIC](https://financas.gov.st/phocadownload/Orcamento/oge/A-2024/OGE2024-APROVADO/5%20-%20STP%20OGE%202024%20-%20DESPESAS%20GERAL.pdf) (2024).
+
+[Four registry and IT units spend earmarked revenue of their own under the 2024 budget: the geographic and cadastral service STN 7.9 million, the registries and notary directorate STN 5.2 million, the business one-stop shop STN 0.5 million and the justice ministry's informatics centre STN 0.3 million](https://financas.gov.st/phocadownload/Orcamento/oge/A-2024/OGE2024-APROVADO/5%20-%20STP%20OGE%202024%20-%20DESPESAS%20GERAL.pdf) (2024). [The national cybersecurity strategy records that the ICT competence centre created in 2002 did not survive for lack of financial sustainability](https://ager.st/images/estrategia_cyber_.pdf).
 
 ### MoUs and other agreements
 <!-- finance.mou -->
@@ -390,3 +402,12 @@ The older instrument is not digital: [an air transport services agreement was si
 India's digital presence in the country is a vendor rather than a programme. India's own consolidated country brief records [Ooru Digital's MOSIP-based national digital identity and citizen portal work, funded by the World Bank and the Centre for Digital Public Infrastructure](https://www.mea.gov.in/Portal/ForeignRelation/India-SaoTome26.pdf) (March 2026) - the same system integrator a World Bank mission names on the foundational identity build, so the country's identity stack is being built by an Indian firm on an Indian-origin platform without an Indian financing instrument behind it.
 
 The bilateral frame around it is old and mostly not digital. The same brief records [a Protocol for Foreign Office Consultations signed in December 2009, an Agreement for Economic Cooperation and a memorandum on traditional medicines signed in March 2018, a Framework Agreement on Space Cooperation signed on 8 September 2018, signature and ratification of the International Solar Alliance framework, an NTPC 50kW solar installation at the Prime Minister's office, six school buses gifted in April 2025 and five occasions of humanitarian medical assistance](https://www.mea.gov.in/Portal/ForeignRelation/India-SaoTome26.pdf), with the Embassy of India in São Tomé functioning since 21 September 2020. The in-window activity is a [workshop marking the tenth Ayurveda Day in September 2025, attended by senior officers of the health ministry and practitioners of traditional medicine](https://www.eoisaotome.gov.in/event_detail.php?eventid=35), under the 2018 memorandum.
+
+### Digital sovereignty
+<!-- geopol.sovereignty -->
+
+[São Tomé and Príncipe's identity system, its central database and its fingerprint system were developed in-house and run on a server at the registry directorate's headquarters, with the backup server in the same building](https://documents1.worldbank.org/curated/en/099032824212523838/pdf/P171592-effa7cbb-e47a-4467-bd3c-4bf28f84f93f.pdf) (2024). [The SIGA civil register was built by the directorate's own technicians with the University of Aveiro under a 2016 agreement with Portugal's Camões institute, and the university still maintains and updates it and hosts its infrastructure, SIGA connecting to servers in Portugal for every registration and document issued, with no redundancy in the country](https://documents1.worldbank.org/curated/en/099032824212523838/pdf/P171592-effa7cbb-e47a-4467-bd3c-4bf28f84f93f.pdf) (2024).
+
+[The 2021 national interoperability framework accepts proprietary standards only as a transition in legacy systems or where no open standard exists, and counts a standard as open only where its intellectual property rights have been made available to the Republic in full and irrevocably](https://inic.gov.st/docs/QNI_STP_v0.1.pdf). The terms on which the passport contract with Portugal's Imprensa Nacional-Casa da Moeda and SIBS's supply of the Dobra24 payment switch govern data jurisdiction, portability and exit had not been published as at September 2026. No instrument fixing where state data is held or under whose law it is processed was in force as at September 2026. Where the model and data behind the DireitosAoPovo.st justice chatbot will be hosted had not been published as at September 2026.
+
+[Officials from São Tomé and Príncipe joined the second Lusophone Africa data governance workshop in Luanda in June 2026, hosted by Angola's data protection agency with Smart Africa, the World Bank, CETIC.br and UNESCO, on data centres, cloud infrastructure, interoperability and cross-border data flows](https://www.unesco.org/en/articles/advancing-data-infrastructure-and-governance-lusophone-africa-regional-workshop-concludes-luanda).

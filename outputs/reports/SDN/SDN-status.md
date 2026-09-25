@@ -1,14 +1,14 @@
 ---
 title: Sudan: status report
-compiled: 2026-09-19
+compiled: 2026-09-25
 place: SDN
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-25
 intersections_read: 7
-sources_cited: 105
-sections_written: 37
-not_established: 7
+sources_cited: 111
+sections_written: 39
+not_established: 8
 acquire_lines: 49
 ---
 ## Governance
@@ -65,6 +65,11 @@ Formal participation is where the country scores worst of all. [Participation wa
 
 ## Finance
 
+### Financial sustainability
+<!-- finance.sustain -->
+
+No fiscal-year budget for the digital estate had been read as at September 2026.
+
 ### MoUs and other agreements
 <!-- finance.mou -->
 
@@ -93,7 +98,7 @@ What the penetration figures do not show is the terms of access. By March 2026, 
 ### Data Storage
 <!-- infra.store -->
 
-Sudan's vehicle and driving-licence records survived the war because they were [backed up at data centres inside the states and outside the country, the traffic police said in July 2026](https://sudantribune.net/article/316412) — naming neither the host country nor the arrangement governing it. Nothing requires them to. There is [no data-localisation or data-residency requirement and no enforceable control over cross-border transfers of government or personal data, the Electronic Transactions Act 2007 and the Cybercrime Act 2007 carrying no residency provisions](https://dataprotection.africa/sudan/).
+Sudan's vehicle and driving-licence records survived the war because they were [backed up at data centres inside the states and outside the country, the traffic police said in July 2026](https://sudantribune.net/article/316412) — naming neither the host country nor the arrangement governing it. The one residency rule binds commercial providers, not the state: [the Telecommunications and Post Regulatory Authority's data-centre and cloud regulation bars providers from storing data in the two highest levels of its data classification in cloud outside the country, and exempts government data centres, government cloud services and the public key infrastructure](https://tpra.gov.sd/wp-content/uploads/2025/11/%D9%84%D8%A7%D8%A6%D8%AD%D8%A9-%D8%AA%D9%86%D8%B8%D9%8A%D9%85-%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D9%85%D8%B1%D8%A7%D9%83%D8%B2-%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%AD%D9%88%D8%B3%D8%A8%D8%A9-%D8%A7%D9%84%D8%B3%D8%AD%D8%A7%D8%A8%D9%8A%D8%A9-%D9%84%D8%B3%D9%86%D8%A9-2025%D9%85.pdf) (2025).
 
 Commercial hosting inside the country rests on two providers: the [Sudatel data centre in Khartoum, opened in 2015, and colocation capacity from CANARTEL](https://sudani.sd/en/sdc/). There is [no in-country hyperscale cloud region, so workloads are served remotely from distant regions such as Johannesburg](https://inflect.com/datacenters/emea/sudan). Both statements describe assets in a city where [telecommunications data centres have been repeatedly seized and shut down since April 2023](https://www.dabangasudan.org/en/all-news/article/communications-blackout-continues-in-large-parts-of-sudan).
 
@@ -334,3 +339,14 @@ No Gulf-owned data centre, Gulf operator holding in a Sudanese network and no Em
 <!-- geopol.india -->
 
 No India Stack-derived deployment in identity, payments or data exchange, and no Indian digital cooperation agreement or training programme, were on the record for Sudan as at August 2026.
+
+### Digital sovereignty
+<!-- geopol.sovereignty -->
+
+Sudan's cloud rules keep the most sensitive data at home and leave the state's own estate outside them: [the Telecommunications and Post Regulatory Authority's 2025 data-centre and cloud regulation bars providers, foreign ones with an agent or contract in Sudan included, from storing data in the two highest levels of its data classification in cloud outside the country, allows the second level abroad where necessary only with the approval of the requesting body's head and the regulators, and exempts government data centres, government cloud services and the public key infrastructure](https://tpra.gov.sd/wp-content/uploads/2025/11/%D9%84%D8%A7%D8%A6%D8%AD%D8%A9-%D8%AA%D9%86%D8%B8%D9%8A%D9%85-%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D9%85%D8%B1%D8%A7%D9%83%D8%B2-%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%AD%D9%88%D8%B3%D8%A8%D8%A9-%D8%A7%D9%84%D8%B3%D8%AD%D8%A7%D8%A8%D9%8A%D8%A9-%D9%84%D8%B3%D9%86%D8%A9-2025%D9%85.pdf) (2025). [Internet-application licensees must declare whether their servers are hosted inside or outside Sudan and name the hosting company](https://tpra.gov.sd/en/services/telecom-licensing/) (August 2026).
+
+The identity layer is held at home on the state's own account: [SudaPass stores its data in government-operated data centres in Sudan](https://sudapass.gov.sd/privacy?lang=en), [a commitment its terms repeat for primary data](https://sudapass.gov.sd/terms?lang=en), and [the Cybersecurity Authority says the platform is developed and operated by Sudanese professionals, with keys managed by the National Authority for Digital Certification](https://sudanevents.com/index.php/2026/05/29/sudanese-cybersecurity-authority-affirms-sudans-sovereignty-over-the-sudapas-platform-and-protection-of-citizens-data/) (May 2026). Trust beyond the border is borrowed: [the national root certificate is not included in browsers, so .gov.sd websites are secured through a partnership with Sectigo](https://www.nadc.gov.sd/en/products/).
+
+The central bank has made itself the gate on who connects to the payment system: [from 3 July 2026 no licensed bank, fintech or switch operator may enter a contractual, operational or technical relationship, or exchange data, without its prior approval](https://sudantribune.net/article/315827), and [it revoked the payment-system licence of Al-Asjad Digital and Smart Solutions after a technical and legal review](https://sudanhorizon.com/cbos-officially-revokes-al-asjad-companys-license-following-review/) (July 2026).
+
+The government's own hosting is being rebuilt as a sovereignty project: [the communications minister called an alternative national data centre, under discussion with Red Sea State, the largest current investment in the country's technical infrastructure, meant to restore sovereign national infrastructure and secure all government data](https://nabdsudan.net/231651) (March 2026). [The traffic police keep backups of the national vehicle and driving-licence database at data centres outside the country](https://sudantribune.net/article/316412) (July 2026); where that backup is hosted, and under whose jurisdiction, had not been published as at September 2026.

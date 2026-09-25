@@ -1,13 +1,13 @@
 ---
 title: South Africa: status report
-compiled: 2026-09-23
+compiled: 2026-09-25
 place: ZAF
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 12
-sources_cited: 231
-sections_written: 37
+sources_cited: 244
+sections_written: 39
 not_established: 1
 acquire_lines: 49
 ---
@@ -80,6 +80,20 @@ Access to those channels is a skill that has to be taught, and [community networ
 At the other end of the state, the conversation runs one way. [The Department of Social Development is running a continuing blitz of unannounced ministerial inspections of local SASSA offices, framed as fraud control, with no fraud finding, count or outcome stated, and the minister attributing beneficiary complaints to users not understanding the system](https://www.ewn.co.za/2026/08/07/social-development-intensifies-local-sassa-office-visits-to-tighten-fraud-controls) (August 2026).
 
 ## Finance
+
+### Financial sustainability
+<!-- finance.sustain -->
+
+South Africa's state broadband programme has moved from building to upkeep: [the 2026 Budget Review records the second phase of SA Connect as ending in 2025/26, leaving the department to keep 948 government facilities connected each year](https://www.itweb.co.za/article/budget-2026-sa-connect-phase-two-comes-to-an-end/Pero3MZ3zXXqQb6m), and [the broadband subprogramme that carries it is appropriated R285.1 million for 2026/27](https://www.treasury.gov.za/documents/National%20Budget/2026/ene/Vote%2030%20Communications%20and%20Digital%20Technologies.pdf), against [R1.89 billion appropriated for 2024/25](https://www.treasury.gov.za/documents/mtbps/2024/aene/FullAENE.pdf), [of which R734.8 million was spent](https://www.dcdt.gov.za/documents/annual-reports/file/363-annual-report-2024-2025.html). The 2026 estimates print no financing source against their digital lines (2026/27).
+
+<!-- derived -->
+The digital lines read from the national estimates come to about R13.3 billion appropriated for 2026/27, against about R12.6 billion for 2025/26.
+
+Money voted for the core systems is not all spent. [Home Affairs spent R1,020.7 million of the R1,110.6 million adjusted for its transversal IT subprogramme in 2024/25, and R828.5 million of R1,157.4 million on status services](https://www.treasury.gov.za/documents/National%20Budget/2026/ene/FullENE.pdf). The lines that keep those systems running are on the department's own vote: [its R685.9 million modernisation programme for 2026/27 pays for maintenance and support of the revenue engine, live capture, e-Home Affairs hosting and public key infrastructure, and for Microsoft, IBM, HP and Gemalto licences](https://pmg.org.za/files/2/DHA_APP_2026-27_Final_26_Mar_2026.pdf).
+
+Cost recovery is in law for the population register. [Regulations under the Identification Act, in force from 1 July 2025, charge private users R10 for each real-time verification and R1 for each batch field, and state bodies nothing](https://www.dha.gov.za/images/gazettes/gazette-52893-230625-dha.pdf), a price [the department set to fund maintenance of the register](https://www.gov.za/news/media-statements/home-affairs-corrects-unsustainable-under-pricing-national-population).
+
+The state has said it will not carry its digital entities alone. [The communications minister told Parliament in May 2026 that full state ownership of the department's entities is no longer sustainable, that partial privatisation makes sense in some cases, and that private operators should use state-owned assets under commercial agreements](https://www.gov.za/news/speeches/minister-solly-malatsi-communications-and-digital-technologies-dept-budget-vote-0).
 
 ### MoUs and other agreements
 <!-- finance.mou -->
@@ -380,3 +394,14 @@ The Gulf's foothold in South African connectivity is a state-backed national ope
 <!-- geopol.india -->
 
 India held no financing, infrastructure or platform position in South Africa's digital economy as at August 2026.
+
+### Digital sovereignty
+<!-- geopol.sovereignty -->
+
+[Home Affairs' plan for a state digital identity lists a certificate authority among the things it will build, without saying who would hold the keys, while South Africa's existing trust layer for electronic signatures is delegated to three accredited commercial operators](https://techcentral.co.za/south-africa-behind-neighbours-digital-id/286057/) (September 2026).
+
+The rule on where state data sits is policy. [The National Policy on Data and Cloud of May 2024 makes SITA the authority that sources data infrastructure and cloud services for government from industry, and requires government data to be stored in unified cloud-enabled data centres](https://www.gov.za/sites/default/files/gcis_document/202406/50741gen2533.pdf); [the communications department told Parliament in February 2026 that government data bearing on national security and sovereignty is to be stored only on infrastructure inside the country, and that it wants a national integrated government data centre run by a repurposed SITA](http://www.ellipsis.co.za/wp-content/uploads/2024/11/260224_PCCDT_presentation_-_Data_Centres.pdf). [The President wrote in July 2026 that government is investing in its own cloud through the CSIR, citing countries where sensitive data has been held by private firms outside national jurisdiction](https://mybroadband.co.za/news/cloud-hosting/656975-south-africa-building-its-own-cloud-infrastructure-says-ramaphosa.html).
+
+Owning a system has proved separate from paying for it. [The skills authority financing a learner-management system for the whole post-school sector was advised that the university which built it owns the intellectual property, and is seeking co-ownership; it hosts the system at the Dube Tradeport data centre and has warned that the lack of government-owned data centres exposes national data](https://www.parliament.gov.za/news/dispute-over-intellectual-property-could-derail-leaner-management-system) (August 2026). Whether the state holds the source code and operating skills for the national identity system, or can exit its supplier contracts, was not on record as at September 2026. The terms on which the police service's Huawei cloud contract and the hyperscaler services SITA brokers to departments govern data jurisdiction, portability and exit had not been published as at September 2026.
+
+The agency meant to hold all this has set itself a test. [SITA's board chair told GovTech 2026 that sovereignty means knowing where data is stored, who may access it and how services continue when a supplier fails, and that management will report against verified targets for service availability, cost, resilience and local economic participation by GovTech 2027](https://www.itweb.co.za/article/sovereignty-at-the-forefront-of-govt-digital-transformation-strategy/nWJad7bN32m7bjO1) (September 2026).

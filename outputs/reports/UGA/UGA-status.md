@@ -1,13 +1,13 @@
 ---
 title: Uganda: status report
-compiled: 2026-09-24
+compiled: 2026-09-25
 place: UGA
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 13
-sources_cited: 217
-sections_written: 37
+sources_cited: 228
+sections_written: 39
 not_established: 0
 acquire_lines: 55
 ---
@@ -78,6 +78,20 @@ Government's expectation of the press is explicit. The ICT minister told the Edi
 On access to records the position is formally strong and practically bounded. The [Access to Information Act 2005](http://judiciary.go.ug/files/downloads/access%20to%20informatioinformation%20Act2005.pdf) establishes the right to request state-held records, and the World Bank's 2025 index [assesses the right-to-information law as effective rather than merely enacted](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), alongside [an online citizen participation platform in use](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). Against that, the PPDA Appeals Tribunal has held that [an evaluation report in a live procurement is confidential under section 106(4) of the PPDA Act, entitling a rejected bidder only to the reasons for rejection and the stage at which it occurred](https://pat.go.ug/sites/default/files/downloadables/DETAILED%20DECISION%20IN%20%20CONSOLIDATED%20APPLICATIONS%20NO.%2030%20AND%2031%20OF%202025-%20YOYA%20TECHNOLOGIES%2C%20EVIDEN%2C%20PERCENT%20JV%20%20AND%20AISINO%20CORPORATION%20VS%20UGANDA%20REVENUE%20AUTHORITY%20%281%29.pdf).
 
 ## Finance
+
+### Financial sustainability
+<!-- finance.sustain -->
+
+Uganda's government network project carries [UGX 297.2 billion of external money in the 2026/27 estimates, UGX 101.7 billion of it from China's Exim Bank and the rest from the World Bank's IDA, with no government counterpart](https://budget.finance.go.ug/sites/default/files/National%20Budget%20docs/Approved%20Budget%20Estimates%20for%20Central%20Governments%20Volume%201%20FY%202026-27.pdf), against [UGX 197.1 billion of IDA money alone in 2025/26](https://budget.finance.go.ug/sites/default/files/National%20Budget%20docs/Approved%20Budget%20Estimates%20%20for%20Central%20Governments%20Vol.%201%20FY%202025-26.pdf).
+
+<!-- derived -->
+The state's own money carries 72.6 per cent of the digital lines in the 2026/27 estimates as appropriated, UGX 880.1 billion of UGX 1,212.3 billion, down from 82.0 per cent of UGX 1,180.1 billion in 2025/26. Where the 2024/25 outturn is published, the government-funded digital lines spent UGX 529.0 billion against UGX 576.2 billion appropriated.
+
+External money moves slower than the state's own. In 2024/25 [the government network project was released UGX 162.5 billion of IDA money and spent UGX 41.0 billion of it](https://budget.finance.go.ug/sites/default/files/National%20Budget%20docs/Annual%20Budget%20Performance%20Report%20for%20FY%202024-25.pdf), while on the domestic side the widest gap was [the Electoral Commission's IT line, which spent UGX 53.2 billion of UGX 114.4 billion released](https://budget.finance.go.ug/sites/default/files/National%20Budget%20docs/Annual%20Budget%20Performance%20Report%20for%20FY%202024-25.pdf).
+
+A levy in law carries connectivity. [Under section 69 of the Uganda Communications Act the regulator remits half of its levy to the Consolidated Fund and splits the rest equally between ICT development and the universal service fund; it collected UGX 118.5 billion in 2024/25, under-remitted UGX 3.35 billion to the Consolidated Fund, and had completed 19 of 64 planned broadband towers](https://www.oag.go.ug/storage/reports/ICT_FIIT_AGCY_2024_25_1775882497.pdf). [Licensed operators pay 2 per cent of annual gross revenue into the fund, MTN Uganda's contribution rising to UGX 54.27 billion in 2026 from UGX 50.55 billion in 2025](https://www.ucc.co.ug/mtn-contributes-ugx-54-27bn-to-support-digital-inclusion/).
+
+Fees are being tried where levies do not reach. [The first identity cards for resident foreigners were issued in August 2026 at US$100 each, paid through the revenue authority](https://govinfohub.go.ug/index.php/2026/08/21/nira-begins-issuing-identification-cards-to-legally-resident-foreign-nationals/), and [the health ministry said on launching the National Laboratory Data Repository in February 2026 that sustaining it will need significant resources and that it is exploring ways for the system to generate revenue](https://www.newvision.co.ug/category/health/ugandas-new-lab-data-repository-to-boost-heal-NV_227554_032026).
 
 ### MoUs and other agreements
 <!-- finance.mou -->
@@ -417,3 +431,12 @@ Uganda's national identity system is not merely supplied from the Gulf but run f
 <!-- geopol.india -->
 
 Airtel's African data centre venture, Nxtra Africa, [names Kampala among the edge sites in its expansion plans](https://www.datacenterdynamics.com/en/marketwatch/nxtra-airtels-leap-into-africas-growing-data-center-market) (December 2024). No Indian-built facility, financing commitment or system operation in Uganda's digital sector had been established as at August 2026.
+
+### Digital sovereignty
+<!-- geopol.sovereignty -->
+
+[Uganda's health data agreement with the United States, signed on 10 December 2025, gives the US direct, real-time access for seven years to nine national health data systems, including the central health repository, laboratory data and the electronic medical records system, and provides for shared data to be aggregated with personal identifiers removed](https://www.propublica.org/article/trump-state-department-africa-uganda-aid-medical-data-privacy); [the State Department has declined to publish the agreements it has signed with more than 30 countries](https://www.propublica.org/article/trump-state-department-africa-uganda-aid-medical-data-privacy).
+
+The core systems sit in state hands with one exception. [The national data-exchange platform is hosted entirely in the government's own data centre and serves more than 150 entities](https://www.nita.go.ug/services/e-government-services/integration-service-ughub), but [the new national identity system is operated for NIRA by the UAE-based Tahaluf, on five modules built on MOSIP](https://www.biometricupdate.com/202602/uganda-migrates-more-than-28m-records-to-new-national-id-system) (February 2026). Whether the state holds the operating skills to run the identity system without Tahaluf, or can exit its operating contract, was not on record as at September 2026.
+
+The AI layer is an aim. [The science and technology minister said in September 2026 that the AI strategy under development is meant to build national capacity in data, computing infrastructure, energy, models, applications and skills rather than leave Uganda dependent on foreign systems](https://nilepost.co.ug/news/370019/uganda-targets-ai-sovereignty-minister-says), and [the draft National AI and Emerging Technologies Strategy, in its final stages in May 2026, seeks alignment with the ISO/IEC 42001 standard](https://www.techreviewafrica.com/news/5349/stakeholders-call-for-human-centred-digital-transformation-at-uganda-digital-rights-dialogue).

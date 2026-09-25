@@ -1,13 +1,13 @@
 ---
 title: Chad: status report
-compiled: 2026-09-24
+compiled: 2026-09-25
 place: TCD
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 10
-sources_cited: 146
-sections_written: 37
+sources_cited: 157
+sections_written: 39
 not_established: 0
 acquire_lines: 37
 ---
@@ -70,6 +70,20 @@ Argument therefore lands in the chamber. Deputies used the October 2025 telecom 
 
 ## Finance
 
+### Financial sustainability
+<!-- finance.sustain -->
+
+Chad has started repaying the Chinese loan behind its national data centre before the centre has entered service: [the telecommunications minister told a project review on 19 May 2026 that repayment of the modernisation programme's financing had begun, while the Huawei-built centre, finished and equipped, still awaited certification](https://www.digitalbusiness.africa/pmice-le-tchad-accelere-les-verifications-autour-du-data-center-et-des-infrastructures-numeriques/).
+
+<!-- derived -->
+The digital lines of the 2026 budget come to XAF 18.3 billion proposed, 17.6% of it the state's own, against 18.3% of XAF 20.1 billion appropriated in 2025 (FY2026).
+
+External money carries the rest. [The 2026 budget puts XAF 9.08 billion of loan money on the ICT modernisation project and XAF 2.77 billion of grant on the digital transformation programme (FY2026)](https://ecofinances.gouv.td/wp-content/uploads/2026/06/Fascicule-budgAtaire-2026-VF.pdf), against [XAF 11.06 billion of grant on that programme in 2025 (FY2025)](https://www.cabri-sbo.org/uploads/bia/Chad_2025_Approval_External_EnactedBudget_Institution_ECCASCEN-SAD_French_8c0b93.pdf), and [the fourth-quarter execution report records XAF 13.98 billion of the digital ministry's XAF 14.31 billion of grants forecast for 2025 as mobilised (2025)](https://ecofinances.gouv.td/wp-content/uploads/2026/09/REB-T4-2025-VF.pdf). The World Bank's digital transformation project [closes on 30 April 2029, after which operations and maintenance costs and further bandwidth purchases fall to the government](https://documents.worldbank.org/curated/en/099090624105035738).
+
+The state's own lines are small and mostly equipment. [The 2026 budget gives XAF 400 million to the cybersecurity agency ANSICE, XAF 600 million to computerising the finance ministry and XAF 569.5 million to digitising the management of military pensioners (FY2026)](https://ecofinances.gouv.td/wp-content/uploads/2026/06/Fascicule-budgAtaire-2026-VF.pdf), against [XAF 2.02 billion for the finance ministry's computerisation in 2025 (FY2025)](https://www.cabri-sbo.org/uploads/bia/Chad_2025_Approval_External_EnactedBudget_Institution_ECCASCEN-SAD_French_8c0b93.pdf). [The African Development Fund's public-administration modernisation programme, signed in August 2026, carries the state's share as a UA 1.015 million contribution in kind beside a UA 9.52 million grant](https://tchadinfos.com/2026/08/20/economie-mobilisation-de-plus-de-30-milliards-fcfa-pour-renforcer-les-investissements/).
+
+What the law puts on others is aimed at the regulator and the network. [The 2014 electronic communications law finances ARCEP from operators' contribution of 3.5% of their annual turnover to its administrative costs, with spectrum and numbering fees](https://www.africa-laws.org/Chad/Comercial%20law/Loi%20N%C2%B0%202014%20portant%20r%C3%A9gulation%20des%20communications%20%C3%A9lectroniques%20et%20des%20activit%C3%A9s%20postales.pdf), and [operators also finance the universal service fund FSUCE, which ADETIC manages and which had paid for no more than a pilot of three rural telecentres (2023)](https://documents1.worldbank.org/curated/en/099062923114552178/txt/P17712007468b1040987f0e2e23aeb2064.txt). [The identity card has been a paid service again since 3 August 2023](https://tchadinfos.com/2023/08/02/tchad-fin-de-la-gratuite-de-la-delivrance-de-la-carte-nationale-didentite/).
+
 ### MoUs and other agreements
 <!-- finance.mou -->
 
@@ -83,13 +97,13 @@ The agreement that plainly binds is the oldest of them: Chad and China signed a 
 <!-- finance.new -->
 
 <!-- derived -->
-Chinese state finance accounts for roughly three-fifths of the money committed to Chad's digital estate — about USD 243 million of the USD 410 million on record (2026), against USD 139 million from the World Bank across three projects and USD 27 million from the African Development Bank across two. Eight commitments make up that record, running from 2017 to 2029. About USD 349 million is in active implementation (2026), USD 48 million has closed, and USD 13 million sits at identification stage, unapproved. Connectivity takes the bulk of it; most of the money is concessional, but the largest single line is debt.
+Chinese state finance accounts for roughly three-fifths of the money committed to Chad's digital estate — about USD 243 million of the USD 410 million on record (2026), against USD 139 million from the World Bank across three projects and USD 27 million from the African Development Bank across two. Eight commitments make up that record, running from 2017 to 2029. Connectivity takes the bulk of it; most of the money is concessional, but the largest single line is debt.
 
 That concentration is one project: China Eximbank's [government concessional loan for the ICT Modernization Project](https://tchadinfos.com/tchad/tchad-chine-un-partenariat-davantage-renforce/), RMB 1.316 billion or CFA 111.4 billion — about USD 189 million at signature — signed on 26 June 2019 and approved unanimously by Parliament on 30 April 2020. [It runs 20 years at 2 per cent with a five-year grace period, collateralised against a minimum cash balance in an escrow account](https://tchadinfos.com/tchad/tchad-chine-un-partenariat-davantage-renforce/). A separate RMB 170 million Chinese grant, about USD 28 million, followed in 2019, both financing one engineering and construction contract with Huawei. The project was originally to complete on 31 October 2021.
 
 The [World Bank's Chad Digital Transformation Project](https://projects.worldbank.org/en/projects-operations/project-detail/P180000) is an SDR 69.5 million IDA grant, about USD 92 million, running 2024 to 2029 across infrastructure, digital government and financial services. Two earlier operations have closed: a [USD 12 million statistical development project](https://projects.worldbank.org/en/projects-operations/project-detail/P159434) (2017 to 2022) and a [USD 35 million revenue-administration digitalisation project](https://projects.worldbank.org/en/projects-operations/project-detail/P164529) (2018 to 2023).
 
-African Development Bank money is moving slowly: its [microfinance and digital financial services project for women and young entrepreneurs](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-TD-I00-012) opened with a UA 9.7 million Transition Support Facility grant in December 2021, since topped up to commitments of XDR 10,173,150.53, about USD 14 million, but disbursements had reached only XDR 2,062,292.94 across fourteen transactions by June 2026. A [further grant to modernise public administration](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-TD-K00-019) was at identification stage (July 2026), and the [ITU's Central African ICT benchmarking project](https://www.itu.int/en/ITU-D/Regional-Presence/Africa/Documents/2023/RDF/reference/session-1-BDT-projects-RIs_RDFAFR2023.pdf), which named Chad among eight countries, closed in 2023.
+African Development Bank money is moving slowly: its [microfinance and digital financial services project for women and young entrepreneurs](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-TD-I00-012) opened with a UA 9.7 million Transition Support Facility grant in December 2021, since topped up to commitments of XDR 10,173,150.53, about USD 14 million, but disbursements had reached only XDR 2,062,292.94 across fourteen transactions by June 2026. On 20 August 2026 Chad [signed a further African Development Fund grant of UA 9.52 million, about CFA 7.3 billion, for the first phase of PAACAMA, its 2026-2030 programme to modernise public administration and improve the business climate](https://tchadinfos.com/2026/08/20/economie-mobilisation-de-plus-de-30-milliards-fcfa-pour-renforcer-les-investissements/), and the same day [two Chinese grant agreements totalling RMB 300 million, about USD 44 million, naming digital technologies among their targets alongside infrastructure, social development and skills](https://tchadinfos.com/2026/08/20/economie-mobilisation-de-plus-de-30-milliards-fcfa-pour-renforcer-les-investissements/). The [ITU's Central African ICT benchmarking project](https://www.itu.int/en/ITU-D/Regional-Presence/Africa/Documents/2023/RDF/reference/session-1-BDT-projects-RIs_RDFAFR2023.pdf), which named Chad among eight countries, closed in 2023.
 
 ## ICT Infrastructure
 
@@ -370,3 +384,14 @@ The Gulf position in Chad is an agreement and a pledge rather than a system. Cha
 <!-- geopol.india -->
 
 Indian engagement with Chad's digital sector has not progressed past talks. Chad and India [discussed digital cooperation in February 2025, with training in artificial intelligence among the areas Chad sought](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/le-tchad-explore-un-partenariat-avec-l-inde-dans-le-numerique), and the same discussions [covered support for ENASTIC, the national ICT training school, and the establishment of a postal bank](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/le-tchad-explore-un-partenariat-avec-l-inde-dans-le-numerique). India held no operating, financing or vendor position in Chad's digital estate as at August 2026.
+
+### Digital sovereignty
+<!-- geopol.sovereignty -->
+
+Chad is bringing in outside certifiers before its Huawei-built national data centre holds state data: [the government is exploring a partnership with the American firm Cybastion to audit, certify and secure the centre before it goes into operation (July 2026)](https://www.agenceecofin.com/actualites-numerique/0107-139764-le-tchad-s-offre-l-expertise-de-l-americain-cybastion-pour-finaliser-son-datacenter), [the cybersecurity agency ANSICE having already audited the security of the equipment installed (May 2026)](https://www.digitalbusiness.africa/pmice-le-tchad-accelere-les-verifications-autour-du-data-center-et-des-infrastructures-numeriques/).
+
+Until then state data sits wherever each ministry puts it. [Ministries were turning to private hosting solutions (2024)](https://documents.worldbank.org/curated/en/099090624105035738), and [the World Bank project finances national data hosting, data migration and disaster recovery, including private cloud hosting with backup for selected ministries](https://documents.worldbank.org/curated/en/099090624105035738). [The telecommunications minister announced the commissioning of two data centres in N'Djamena and a third to be built for the finance ministry (August 2026)](https://www.tachad.com/le-ministre-haliki-choua-mahamat-expose-les-defis-et-ambitions-du-numerique-au-cesce/). [Under the 2015 law ANSICE authorises cross-border transfers of personal data](https://www.dlapiperdataprotection.com/?c=TD&t=authority). No instrument fixing where state data is held or under whose law it is processed was in force as at September 2026.
+
+Access to the identity register is being extended to operators. [A May 2026 agreement gives Moov Africa secure access to the national identification number database](https://hamama-media.com/a-la-une/anats-et-moov-africa-tchad-scellent-un-partenariat-strategique-pour-moderniser-ladministration/), and [the World Bank project relies on international contractors with an emphasis on knowledge transfer so that local teams can maintain what they introduce](https://documents.worldbank.org/curated/en/099090624105035738). Whether the state holds the source code and operating skills for the SIGPTS identity platform, or can exit its contract with Idemia, was not on record as at September 2026. The terms on which the Huawei contract for the national data centre and ANATS's agreements with Airtel and Moov Africa govern data jurisdiction, portability and exit had not been published as at September 2026.
+
+The government frames its AI aims as sovereign. [At the first UN global dialogue on AI governance in July 2026 the minister set out a vision of AI developed, deployed and used in an ethical, frugal and sovereign way](https://tchadinfos.com/2026/07/06/le-tchad-participe-au-premier-dialogue-mondial-sur-la-gouvernance-de-lintelligence-artificielle-a-geneve/). On the continental layer, [Chad's self-assessment on the African Union's AUDP-CAT tool put its data governance maturity at 30.27%, and the government is drafting a National Data Governance Strategy with ECA and GIZ under the AU Data Policy Framework (May 2026)](https://www.uneca.org/eca-events/fr/node/2449).

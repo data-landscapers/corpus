@@ -1,13 +1,13 @@
 ---
 title: Tanzania: status report
-compiled: 2026-09-24
+compiled: 2026-09-25
 place: TZA
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 12
-sources_cited: 201
-sections_written: 37
+sources_cited: 213
+sections_written: 39
 not_established: 0
 acquire_lines: 45
 ---
@@ -76,6 +76,20 @@ The formal machinery exists. [An online platform for public participation in con
 Where argument does break through is on money. One month into the cash-lite mandate [users were pressing the central bank to impose a directed price on transfer and payment charges](https://www.mwananchi.co.tz/mw/habari/biashara/makato-kikwazo-kuelekea-malipo-ya-kidijitali-5542380), on the argument that absent a cap each provider sets its own rate and the customer carries it; [the Governor rejected a cap](https://www.mwananchi.co.tz/mw/habari/biashara/makato-kikwazo-kuelekea-malipo-ya-kidijitali-5542380), saying charges are already low and predicting competition will cut them within six months. Commentary on the mandate itself has divided, [weighing transparency and efficiency against unresolved gaps in infrastructure, cybersecurity, affordability and inclusion](https://www.thecitizen.co.tz/tanzania/business/digital-payment-is-tanzania-ready-for-cash-lite-economy--5507120). On privacy the state convenes in numbers: [the first National Privacy and Personal Data Protection Conference drew more than 800 delegates to Dar es Salaam in June 2026](https://www.thecitizen.co.tz/tanzania/news/national/why-data-privacy-matters-for-economic-growth-5513544).
 
 ## Finance
+
+### Financial sustainability
+<!-- finance.sustain -->
+
+Tanzania's ICT ministry expects [TZS 160.4 billion from selling national backbone capacity in 2026/27, against TZS 120.4 billion approved for 2025/26 and TZS 86.9 billion collected in 2024/25](https://www.mof.go.tz/uploads/documents/en-1785404951-Volume%20I%20As%20Passed%20by%20the%20Parliament%202026.27.pdf), while [the 2026/27 development estimates vote TZS 71.0 billion of local money to the backbone](https://www.mof.go.tz/uploads/documents/en-1785135497-Volume%20IV%20As%20Passed%20by%20the%20Parliament%20.pdf).
+
+<!-- derived -->
+The state's own money carries 60.1 per cent of the digital lines in the 2026/27 estimates as appropriated, TZS 386.3 billion of TZS 642.4 billion, against 47.2 per cent of TZS 688.1 billion in 2025/26 and 66.4 per cent in 2024/25.
+
+The swing follows the foreign lines. [Rural Connectivity carried TZS 124.4 billion of foreign grant in 2025/26](https://www.mof.go.tz/uploads/documents/en-1753972311-Volume%20IV%20As%20Passed%20by%20the%20Parliament.pdf) and [TZS 33.8 billion of foreign loan in 2026/27](https://www.mof.go.tz/uploads/documents/en-1785135497-Volume%20IV%20As%20Passed%20by%20the%20Parliament%20.pdf), and [the World Bank-financed Digital Tanzania line falls to TZS 12.2 billion in 2026/27](https://www.mof.go.tz/uploads/documents/en-1785135497-Volume%20IV%20As%20Passed%20by%20the%20Parliament%20.pdf) from [TZS 28.1 billion](https://www.mof.go.tz/uploads/documents/en-1753972311-Volume%20IV%20As%20Passed%20by%20the%20Parliament.pdf) as [the credit heads for completion on 31 October 2026, with the Bank signalling support for a second phase](https://dailynews.co.tz/world-bank-hints-at-dtp-phase-ii/). The domestic side of the identity build is growing: [the national identity card's local line is TZS 96.4 billion in 2026/27](https://www.mof.go.tz/uploads/documents/en-1785135497-Volume%20IV%20As%20Passed%20by%20the%20Parliament%20.pdf), against [TZS 23.9 billion voted in 2024/25](https://www.mof.go.tz/uploads/documents/en-1724654990-Vol%20IV%20Development%20Expenditure%20As%20Passed%202024_25-2.pdf).
+
+Voted local money is not all spent. In 2024/25 [the backbone's largest local line spent TZS 31.3 billion and the identity card TZS 20.0 billion](https://www.mof.go.tz/uploads/documents/en-1785135497-Volume%20IV%20As%20Passed%20by%20the%20Parliament%20.pdf), against [TZS 49.0 billion and TZS 23.9 billion voted](https://www.mof.go.tz/uploads/documents/en-1724654990-Vol%20IV%20Development%20Expenditure%20As%20Passed%202024_25-2.pdf).
+
+Levies and fees carry part of the build. [The universal service fund paid TZS 71 billion of the TZS 126 billion 758-tower programme, the World Bank TZS 55 billion (August 2026)](https://dailynews.co.tz/8-5m-tanzanians-gain-access-to-internet-services-following-installation-of-758-new-towers/). [Any body using information in the identity register must sign a data-sharing contract with the identification authority and pay the prescribed fees, security agencies excepted](https://tanzlii.org/akn/tz/act/gn/2023/96/eng@2023-02-17/source). [Parliament's infrastructure committee pressed the state operator TTCL in March 2026 to grow its market revenue and reduce its dependence on government subsidy, as the ministry completed the feasibility study for a government data centre in Dodoma with its financing still under discussion with the finance ministry](https://www.mawasiliano.go.tz/news/kamati-ya-bunge-yaipongeza-ttcl-yataka-maboresho-ya-haraka-miundombinu-na-masoko-ya-mawasiliano).
 
 ### MoUs and other agreements
 <!-- finance.mou -->
@@ -406,3 +420,12 @@ The Gulf's stake in Tanzania's digital build is a single credit line, and what i
 Education is the whole of the Indian footprint that has produced anything. [IIT Madras Zanzibar, the Indian Institute of Technology Madras's first international campus, has graduated data-science and artificial-intelligence cohorts](https://www.thecitizen.co.tz/tanzania/zanzibar/zanzibar-positions-itself-as-africa-s-technology-and-innovation-hub-5518692) as Zanzibar works to build a startup base from the islands (July 2026).
 
 Alongside it, [the Tanzania Privacy Professionals Association announced a memorandum of understanding with India's Sandbox Security and with TAFINA](https://www.thecitizen.co.tz/tanzania/news/national/experts-urge-tanzania-to-strengthen-digital-trust-5552550) in August 2026, framed as combining legal safeguards with technical and security measures to protect end users; the parties are a professional association and private firms rather than the state. India holds no financing commitment and no infrastructure or systems contract in Tanzania as at August 2026.
+
+### Digital sovereignty
+<!-- geopol.sovereignty -->
+
+Tanzania now writes exit into its AI contracts: [standards the e-Government Authority approved on 31 August 2026 require every vendor contract to hand over all source code, trained models, configuration files and documentation on termination, to return or securely delete institutional data and to train staff under a phased handover plan, and allow AI systems to be hosted only in approved environments](https://www.ega.go.tz/uploads/standarddocuments/sw-1788520404-FINAL%20Standards%20and%20Guidelines%20for%20Artificial%20Intelligence%20%28AI%29%20in%20Public%20Institution_Signed%20%281%29.pdf). They extend [the February 2026 application standards, under which every system-acquisition or development contract must vest all source code in the government, delivered in open or non-compiled form, and every software-as-a-service application needs the Authority's approval before use](https://www.ega.go.tz/uploads/standarddocuments/sw-1773258298-FINAL%20Reviewed%20Standards%20and%20Guidelines%20for%20Development%20Acqusition%20Operation%20and%20Maintanence%20of%20Government%20Applications%20-%2018%20-2-2026.pdf).
+
+Where state data sits is fixed by statute and standard rather than by a single localisation law. [The e-Government Act requires public institutions to host their systems in a government-approved hosting environment, and the Authority's February 2026 data-centre standards steer them to approved facilities rather than new data centres of their own](https://www.ega.go.tz/uploads/standarddocuments/sw-1773257204-FINAL%20Reviewed_Data%20Center%20Standards%20and%20Guidelines%20for%20Public%20Institutions-18.2.2026.pdf). Finance is stricter: [the Bank of Tanzania bars financial service providers from hosting a mission-critical system in a primary data centre or cloud outside Tanzania (August 2025)](https://www.bot.go.tz/webdocs/Feedback/en/2025082512452979.pdf). Personal data leaves under permit, and mostly gets one: [the data protection commission approved 69 of 75 applications to transfer personal data abroad in the year to June 2026](https://dailynews.co.tz/8-5m-tanzanians-gain-access-to-internet-services-following-installation-of-758-new-towers/).
+
+The compute behind the state's AI is still being sought. [The ICT minister said in September 2026 that the government is preparing AI data centres and seeking international partners for the infrastructure, skills and financing](https://dailynews.co.tz/tanzania-plans-ai-data-centres/), and [Korea's development fund approved about US$170 million in August 2026 to build an AI and digital-technology training institute](https://www.moef.go.kr/nw/nes/detailNesDtaView.do?menuNo=4010100&searchNttId1=MOSF_000000000079088&searchBbsId1=MOSFBBS_000000000028). The terms on which Korea's loans for the identity register's expansion govern data jurisdiction, portability and exit had not been published as at September 2026.

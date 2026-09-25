@@ -1,13 +1,13 @@
 ---
 title: South Sudan: status report
-compiled: 2026-09-16
+compiled: 2026-09-25
 place: SSD
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-10
 intersections_read: 7
-sources_cited: 134
-sections_written: 37
+sources_cited: 146
+sections_written: 39
 not_established: 4
 acquire_lines: 51
 ---
@@ -71,6 +71,24 @@ There is no formal channel for anyone outside government to be heard on digital 
 The wider conditions for debate have been getting worse rather than better. [Freedom of expression and belief is one of South Sudan's ten most deteriorated governance measures, falling 16.7 points over 2014-2023 to 15.6 of 100, 51st of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ss.pdf), and [media freedom scored 30.7 of 100 in 2023, 49th of 54 and down 5.1 points over the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ss.pdf). Access to the record is no better: what the state discloses and what a citizen can actually obtain both [sit near the bottom of the continent](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ss.pdf) (2023), and the country has [never held a national election](https://www.radiotamazuj.org/en/news/article/uncertainty-surrounds-plan-to-start-voter-registration), with nationwide voter registration still being set up in mid-2026.
 
 ## Finance
+
+### Financial sustainability
+<!-- finance.sustain -->
+
+[South Sudan's Auditor-General found no measures in place to sustain the USD 14.8 million IFMIS expansion beyond the World Bank grant-financed project paying for it, the finance ministry promising an IFMIS and HRMIS sustainability strategy](https://documents1.worldbank.org/curated/en/099031326104512877/txt/P176761-4827c977-e2b0-4d91-8f3a-3a2c1f7d4a5c.txt) (December 2025). [The 2025/26 draft budget book gives the finance ministry a new ICT directorate proposed at SSP 1.56 billion and the Ministry of Information a new IT services directorate at SSP 237.6 million, neither carrying anything in the 2024/25 column](https://mofp.gov.ss/wp-content/uploads/2026/01/Budget-Books_Draft-5_Inner.pdf) (2025/26).
+
+[Every agency carrying a digital line names Consolidated Funds as its only source in that book, which carries no donor-financed digital project](https://mofp.gov.ss/wp-content/uploads/2026/01/Budget-Books_Draft-5_Inner.pdf) (2025/26). [The immigration and passports directorate, now an agency of its own, is proposed at SSP 63.8 billion, against SSP 9.6 billion in 2024/25, in a line that also carries border control](https://mofp.gov.ss/wp-content/uploads/2026/01/Budget-Books_Draft-5_Inner.pdf) (2025/26).
+
+<!-- derived -->
+The digital lines of the 2025/26 draft budget come to about SSP 69.4 billion proposed, against about SSP 11.6 billion appropriated for 2024/25, nine-tenths of the 2025/26 figure being the immigration and passports directorate.
+
+[The finance ministry's 2024/25 budget performance report reports spending by agency, not by the directorates carrying the digital lines](https://mofp.gov.ss/wp-content/uploads/2026/03/2024_25_Execution-Report_v3.pdf).
+
+[Ensoft keeps 3.56% of all revenue collected through the revenue-assurance system it operates for the Revenue Authority and the National Communication Authority, under a six-year build-operate-transfer agreement signed in October 2025 with no fixed contract value, passing the system to the government at its end](https://www.eyeradio.org/ssra-nca-sign-six-year-revenue-digitization-deal-with-ensoft/). [Every licence, spectrum and regulatory fee owed to the National Communication Authority has had to be paid through the national e-Service platform since April 2026](https://www.nca.gov.ss/mandatory-use-of-the-national-e-service-platform-for-regulatory-payments-and-services).
+
+[The National Communication Act 2012 establishes a Universal Service and Access Fund](https://mojca.gov.ss/wp-content/uploads/2023/03/National-Communication-Act-24-of-2012.pdf), and [the fund's budget chapter names Consolidated Funds as its only source, SSP 536.4 million appropriated for 2024/25, SSP 510 million of it repairs and maintenance](https://mofp.gov.ss/wp-content/uploads/2025/02/Budget-Book__2024-2025.pdf), and [SSP 785.9 million proposed for 2025/26](https://mofp.gov.ss/wp-content/uploads/2026/01/Budget-Books_Draft-5_Inner.pdf).
+
+[Repeated payment disputes with the private vendor of the identity and passport system, together with an August 2024 breakdown, interrupted issuance of passports and nationality certificates](https://documents1.worldbank.org/curated/en/099053126171570627/pdf/P502463-0c06abde-be3d-4f83-b9e1-eca068e7bc1e.pdf) (2026), and [the Interior ministry supplied five new production machines for passports, identity cards and nationality certificates in May 2026](https://www.onecitizendaily.com/index.php/2026/05/08/government-procures-5-advanced-machine-systems-for-national-id-and-passport-production/).
 
 ### MoUs and other agreements
 <!-- finance.mou -->
@@ -382,3 +400,14 @@ No Gulf state or Gulf-based operator held a financing commitment, infrastructure
 <!-- geopol.india -->
 
 India held no financing commitment, infrastructure contract, standing agreement or training programme in South Sudan's digital estate as at August 2026.
+
+### Digital sovereignty
+<!-- geopol.sovereignty -->
+
+[South Sudan's identity and passport system, built by a German vendor under a build-operate-transfer arrangement and formally transferred to government ownership, still depends on that vendor for software licensing, maintenance, consumables and technical support](https://documents1.worldbank.org/curated/en/099053126171570627/pdf/P502463-0c06abde-be3d-4f83-b9e1-eca068e7bc1e.pdf) (2026). [The cost of five new production machines for the system, delivered in May 2026, is confidential under the terms of the supply agreement](https://www.onecitizendaily.com/index.php/2026/05/08/government-procures-5-advanced-machine-systems-for-national-id-and-passport-production/). Whether the state holds the source code and operating skills for the identity and passport system, or can exit its support contract, was not on record as at September 2026.
+
+[MGI Communications, a Swiss company, manages South Sudan's international gateway services and critical data-centre infrastructure, and the National Communication Authority set up an oversight committee with it in January 2026 to strengthen institutional control over the gateway and the national data centre in line with national sovereignty and security priorities](https://www.eyeradio.org/nca-establishes-gateway-and-data-center-oversight-committee). [The Revenue Authority's revenue-assurance system is hosted and overseen by the National Communication Authority, operated by Ensoft and due to pass to the government after six years](https://www.eyeradio.org/ssra-nca-sign-six-year-revenue-digitization-deal-with-ensoft/) (October 2025). [The finance ministry's IFMIS micro data centre and its fully paid backup site had not been shown to be functional at the December 2025 audit, and no evidence was given that the technical staff had been trained to operate it](https://documents1.worldbank.org/curated/en/099031326104512877/txt/P176761-4827c977-e2b0-4d91-8f3a-3a2c1f7d4a5c.txt). The terms on which the MGI arrangement governs data jurisdiction, portability and exit had not been published as at September 2026.
+
+No instrument fixing where state data is held or under whose law it is processed was in force as at September 2026. [The ICT ministry presented the planned national data centre in October 2024 as giving the government full control of its digital data](https://www.onecitizendaily.com/index.php/2024/10/05/govt-to-construct-resilient-data-center/).
+
+[South Sudan and the other seven EAC partner states resolved in April 2026 to build AI systems trained on East African data, stored on regional infrastructure and governed by East Africans, backed by a regional AI fund](https://www.eac.int/press-releases/3491-eac-adopts-ai-declaration-resolving-to-establish-regional-ai-fund-and-prioritise-ai-sovereignty), and [a three-day workshop in Juba hosted by the AU Commission, AUDA-NEPAD, GIZ and KICTANet with the ICT ministry worked on a roadmap for domesticating the AU Data Policy Framework](https://techreviewafrica.com/news/7228/south-sudan-advances-data-governance-framework-through-capacity-building-workshop) (September 2026).

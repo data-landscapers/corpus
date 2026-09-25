@@ -1,13 +1,13 @@
 ---
 title: Somalia: status report
-compiled: 2026-09-16
+compiled: 2026-09-25
 place: SOM
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 7
-sources_cited: 130
-sections_written: 37
+sources_cited: 136
+sections_written: 39
 not_established: 4
 acquire_lines: 38
 ---
@@ -70,6 +70,18 @@ Media freedom is among Somalia's ten most deteriorated governance indicators, ha
 Consultation happens where a document needs validating rather than where a decision needs testing. The [Digital Transformation Strategy went to a national multi-stakeholder workshop in October 2025](https://www.ecofinagency.com/news-digital/1310-49501-somalia-moves-to-finalize-digital-transformation-strategy-with-itu-support), and the National Communications Authority [convened a national consultation in April 2026 to develop a cybersecurity risk-management and compliance framework](https://www.hiiraan.com/news4/2026/Apr/204984/somalia_launches_national_effort_to_build_cybersecurity_framework.aspx). Licensing has moved faster than either: [Starlink's entry was fast-tracked and its full foreign-ownership model accommodated without major public debate](https://www.hiiraan.com/news4/2025/Aug/202463/starlink_launches_in_somalia_bringing_satellite_internet_to_rural_areas_and_narrowing_the_digital_divide.aspx) (August 2025).
 
 ## Finance
+
+### Financial sustainability
+<!-- finance.sustain -->
+
+Somalia's central bank now pays for the national payment switch out of its own budget: [its 2024 accounts put the rise in system-licence costs to US$1.26m down to the Switch Payment System licence, previously paid by the World Bank and now paid by the bank](https://centralbank.gov.so/wp-content/uploads/2025/05/CBS-2024-Financial-Statement.pdf).
+
+<!-- derived -->
+The treasury's operating budget carries 15.4% of the digital lines of the 2026 appropriation, US$6.2m of US$40.6m, against 10.4% in 2025; external project grants carry the rest.
+
+The share moved because the grants shrank: [the 2026 appropriation carries US$8.0m for the World Bank's SCALED-UP grant and US$13.6m for the regional digital integration project EA-RDIP](https://mof.gov.so/sites/default/files/Publications/Sharciga%20Miisaaniyadda%20Sanadka%202026_0.pdf), against [US$36.3m and US$11.8m in 2025](https://mof.gov.so/sites/default/files/Publications/Xeerka%20Miisaaniyadda%202025%20versio%20la%20ansixiyey--.pdf). What the treasury carries is running costs: [US$2.07m for the national identification authority, US$1.32m for the communications ministry's administration, US$0.68m for the communications regulator, US$0.24m for the Data Protection Authority and US$0.18m for government digitalisation in 2026](https://mof.gov.so/sites/default/files/Publications/Sharciga%20Miisaaniyadda%20Sanadka%202026_0.pdf).
+
+Domestic lines are spent; donor lines lag. [In 2025 the identification authority spent US$1.29m of its US$2.03m and the communications ministry 97% of its line, while EA-RDIP disbursed US$3.12m of its US$11.79m and the Data Protection Authority's US$1.83m project budget nothing](https://oag.gov.so/wp-content/uploads/2026/09/Annual-Financial-Audit-Report-2025.pdf). [US$10m of EA-RDIP's financing for Somalia was cancelled in April 2026](https://documents1.worldbank.org/curated/en/099063026190082191/txt/P176181-84d9770b-853c-4bb8-8e5a-996eac681382.txt).
 
 ### MoUs and other agreements
 <!-- finance.mou -->
@@ -350,3 +362,12 @@ No Gulf state or Gulf-owned operator held Somali digital infrastructure or a gov
 <!-- geopol.india -->
 
 India had no digital infrastructure, platform or vendor presence in Somalia as at August 2026.
+
+### Digital sovereignty
+<!-- geopol.sovereignty -->
+
+Somalia's customs system runs without the state holding its code: [the Auditor-General's IT audit of SOMCAS found no escrow agreement for source-code ownership, posing significant legal and operational risks to the system's continuity, and no formal backup and recovery processes](https://oag.gov.so/wp-content/uploads/2025/01/SOMCAS-AUDIT-SUMMARY-converted.pdf) (January 2025).
+
+The ministry's own diagnosis is that [institutions save government data on their own servers for want of guidelines on shared and secure hosting](https://moct.gov.so/en/wp-content/uploads/2025/08/eGovernment-Strategy-2025-2029.pdf), and its eGovernment Strategy 2025-2029 [proposes a national data centre as cloud infrastructure for all government services, with disaster recovery for shared services, and rates dependence on technology vendors a high risk, to be met by in-house capacity and vendor-relationship management](https://moct.gov.so/en/wp-content/uploads/2025/08/eGovernment-Strategy-2025-2029.pdf) (August 2025). [Guidelines on government data hosting and cloud adoption, a target of the World Bank's regional digital integration project, were still not in place in June 2026](https://documents1.worldbank.org/curated/en/099063026190082191/txt/P176181-84d9770b-853c-4bb8-8e5a-996eac681382.txt). No instrument fixing where state data is held or under whose law it is processed was in force as at September 2026.
+
+The identity layer was built by another state: [Pakistan's NADRA built the civil registration and vital statistics system and handed it over to the Somali authorities in November 2024](https://citizenshiprightsafrica.org/nadra-powers-somalias-digital-transformation-with-foundational-id-infrastructure), and [a UNDP-convened mission in September 2026 validated a Somalia-Pakistan partnership action matrix on digital identity and digital public infrastructure](https://www.undp.org/pakistan/press-releases/somalia-and-pakistan-deepen-cooperation-digital-identity-and-public-infrastructure). The terms on which the NADRA identity partnership and the US-supplied PISCES border system govern data jurisdiction, portability and exit had not been published as at September 2026.

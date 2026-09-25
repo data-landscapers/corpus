@@ -1,13 +1,13 @@
 ---
 title: Zimbabwe: status report
-compiled: 2026-09-24
+compiled: 2026-09-25
 place: ZWE
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 7
-sources_cited: 142
-sections_written: 37
+sources_cited: 150
+sections_written: 39
 not_established: 1
 acquire_lines: 37
 ---
@@ -76,6 +76,20 @@ Little of the digital government estate is published for anyone to argue with, f
 
 ## Finance
 
+### Financial sustainability
+<!-- finance.sustain -->
+
+[Zimbabwe's 2026 estimates put ZiG729.3 million of the ICT ministry's infrastructure development and maintenance on the Universal Services Fund, the vote's retained fund, against ZiG466.6 million voted from the Consolidated Revenue Fund](https://zimtreasury.co.zw/wp-content/uploads/2026/03/Approved-2026-Estimates-of-Expenditure.pdf). Outside that fund, the 2026 estimates print no financing source against their digital lines (2026).
+
+<!-- derived -->
+The fund carries about 61 percent of the ZiG1.20 billion set for ICT infrastructure development and maintenance in 2026.
+
+The fund's budget runs well ahead of its spending. [The 2025 estimates gave it ZiG2.02 billion, of which ZiG769.6 million was a loan to NetOne, the state mobile operator](https://zimtreasury.co.zw/wp-content/uploads/2026/07/2025-Approved-Estimates-of-Expenditure.pdf), while [the Treasury's review of 2025 records ZiG323.2 million spent through the fund on digital infrastructure, mostly on relocating towers to 13 sites run by Econet and NetOne, alongside ZiG814.7 million spent through the budget](https://zimtreasury.co.zw/wp-content/uploads/2026/07/2025-Annual-Review.pdf).
+
+The systems that run government are carried on the Treasury's own lines: [the National Data Centre under the Office of the President is voted ZiG119.7 million for 2026](https://zimtreasury.co.zw/wp-content/uploads/2026/03/Approved-2026-Estimates-of-Expenditure.pdf), after [its 2025 allocation was raised in the revised estimates from ZiG100.0 million to ZiG313.0 million](https://zimtreasury.co.zw/wp-content/uploads/2026/03/Approved-2026-Estimates-of-Expenditure.pdf), and [the 2025 review reports the centre upgraded to Tier IV standard, hosting more than 130 government e-services and over 30 backend systems](https://zimtreasury.co.zw/wp-content/uploads/2026/07/2025-Annual-Review.pdf).
+
+Private money for state networks is sought rather than secured. [TelOne, the state fixed operator, is seeking a partner for a US$50 million fibre-to-the-home build to reach at least 114,000 homes, structured as a build, lease, maintain and transfer partnership inside a US$343.17 million fundraising for three projects](https://www.myzimbabwe.co.zw/technology/189533-telone-declares-war-on-starlink-and-liquid-to-connect-114000-homes-to-its-fast-and-affordable-fibre-internet.html) (August 2026), while [government arrears to the operator doubled to about US$42 million by June 2026](https://www.newsday.co.zw/business/article/200057743/govt-debt-to-telone-doubles-to-us42m).
+
 ### MoUs and other agreements
 <!-- finance.mou -->
 
@@ -113,7 +127,7 @@ That fund's position is not published: the Auditor-General [issued unmodified op
 
 Zimbabwe's [National AI Strategy mandates a Sovereign National Cloud to end the holding of national and commercial data in foreign clouds, with agricultural predictive models and geological and mineral maps to sit on domestic servers](https://technomag.co.zw/new-ai-strategy-mandates-local-storage-for-national-data/). It is a mandate issued into an estate of [about six live commercial data centres, none of them carrier-neutral, owned by the telecoms operators, the infrastructure companies and the state, where proximity to South Africa reduces the demand for peering in Zimbabwe at all](https://cms.d4dhub.eu/assets/Initiatives/Data-Governance-in-Africa/Digital-Investment-Facility/2507_Country-Market-Briefs/Data-Center-Market-Brief-Zimbabwe.pdf) (2024).
 
-Government's own arrangements are undocumented. There was [no government cloud platform, no policy governing where government data may be hosted, and no disclosure of the hosting behind the systems the state runs (2025)](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). What exists is commitment: [a national network of data centres is one of five undertakings set out under Smart Zimbabwe 2030 (July 2026)](https://spikedmedia.co.zw/zimbabwe-bets-on-digital-gold-inside-the-launch-of-ndarama-and-the-push-for-ai-sovereignty/), and the [strategy designates high-performance computing centres as national assets rather than a procured service](https://technomag.co.zw/new-ai-strategy-mandates-local-storage-for-national-data/).
+Government's own hosting sits in one facility: [the Treasury reports a Smart Government Private Cloud consolidating government ICT systems, and a National Data Centre upgraded to Tier IV standards that hosts more than 130 government e-services and more than 30 back-end systems](https://zimtreasury.co.zw/wp-content/uploads/2026/07/2025-Annual-Review.pdf) (2025). There was [no policy governing where government data may be hosted (2025)](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). Beyond that facility the state's position is commitment: [a national network of data centres is one of five undertakings set out under Smart Zimbabwe 2030 (July 2026)](https://spikedmedia.co.zw/zimbabwe-bets-on-digital-gold-inside-the-launch-of-ndarama-and-the-push-for-ai-sovereignty/), and the [strategy designates high-performance computing centres as national assets rather than a procured service](https://technomag.co.zw/new-ai-strategy-mandates-local-storage-for-national-data/).
 
 Commercial capacity has moved faster than state capacity. [Africa Data Centres and Econet commissioned a 5MW facility in Harare in June 2025, with multiple layers of power redundancy and cloud, artificial intelligence and security services drawn from Cassava Technologies' partnerships with Google and Microsoft](https://mbaretimes.com/2025/06/econet-begins-onboarding/), and [Econet InfraCo has approved a 300-hectare industrial and IT park near Harare International Airport, powered by a 100 megawatt solar plant and containing a new data centre](https://itweb.africa/article/econet-approves-ambitious-harare-it-park-data-centre/RgeVDMPRgo1vKJN3) (December 2025).
 
@@ -387,3 +401,14 @@ No Gulf state investment in, or bilateral digital agreement covering, Zimbabwe's
 <!-- geopol.india -->
 
 No Indian financing commitment, supplied system or bilateral digital agreement with Zimbabwe was on the record as at August 2026. India's own bilateral brief names [a defence cooperation memorandum signed during a Zimbabwean ministerial visit to Aero India 2025, a joint commission agreement of 1987 and an air services agreement of 2014](https://www.mea.gov.in/Portal/ForeignRelation/India-Zimbabwe-April-2026.pdf), and none of them touches digital transformation, information technology or data. What moved in the period was diplomatic: [India pledged support for Zimbabwe's bid for a non-permanent Security Council seat for 2027-2028 and Zimbabwe for India's candidature for 2028-2029, reaffirmed in Harare on 26 January 2026](https://indemb-harare.gov.in/public_files/assets/pdf/77th_Republic_Day_of_India-26Jan2026.pdf).
+
+### Digital sovereignty
+<!-- geopol.sovereignty -->
+
+[Zimbabwe ended talks on a US$367 million, five-year US health agreement in February 2026, its government saying the offer was tied to comprehensive access to citizens' sensitive health data, virus samples included, with no reciprocal access to the vaccines or treatments that might result](https://apnews.com/article/zimbabwe-us-health-funding-deal-b2d3fce8b9a340c53d117675319be120).
+
+The state's core records sit on state-owned facilities. [The national high-performance computing centre, whose second phase was commissioned in August 2025, hosts the Impilo electronic health record and telemedicine platform and is integrated with the Civil Registry](https://developzim.co.zw/news/innovation/president-mnangagwa-commissions-phase-2-of-high-performance-computing-project-at-university-of-zimbabwe/3322/), and [the Treasury reports a Smart Government Private Cloud and a National Data Centre upgraded to Tier IV, hosting more than 130 government e-services](https://zimtreasury.co.zw/wp-content/uploads/2026/07/2025-Annual-Review.pdf) (2025). The rule for where state data must sit is still to be written: [the ICT minister listed data sovereignty instruments among the legislation government needs in May 2026](https://techreviewafrica.com/news/5347/zimbabwe-pushes-smart-government-agenda-with-new-digital-blueprint).
+
+Control of the identity estate is thinner than control of the buildings. [E-passport production runs under a build, own, operate and transfer agreement with Lithuania's Garsu Pasaulis announced by Cabinet in 2021](https://thisisafrica.me/politics-and-society/the-passport-the-database-and-the-state-who-controls-digital-zimbabwe/). Whether the state holds the source code and operating skills for the e-passport system, or can exit that agreement, was not on record as at September 2026.
+
+Regionally, Zimbabwe is building the shared rulebook. [Harare hosted the SADC data policy harmonisation workshop in August 2026, anchored on the AU Data Policy Framework and the SADC Regional Data Strategy; Zimbabwe's regulator runs the region's data protection officer training at the SADC Secretariat's request, and its ICT minister chairs Smart Africa's Council of ICT Ministers](https://spikedmedia.co.zw/one-voice-for-africas-data-inside-harares-push-to-harmonise-the-rules-of-the-digital-age/).

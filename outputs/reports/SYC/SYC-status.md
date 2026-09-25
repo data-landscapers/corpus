@@ -1,13 +1,13 @@
 ---
 title: Seychelles: status report
-compiled: 2026-09-24
+compiled: 2026-09-25
 place: SYC
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-01
 intersections_read: 6
-sources_cited: 124
-sections_written: 37
+sources_cited: 137
+sections_written: 39
 not_established: 0
 acquire_lines: 50
 ---
@@ -80,6 +80,20 @@ Access to what government holds is the sharper constraint, and the regulator say
 Speech itself remains free and slightly less so than it was. [Media freedom is among the ten most deteriorated of the country's governance measures, down 5.6 points over 2014-2023 to 79.3 out of 100, though still 3rd of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sc.pdf), while [freedom of expression and belief stands at 93.1, 2nd of 54 and up 16.7 points over the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sc.pdf). Consultation happens where a ministry chooses it: [the ICT department opened a public consultation on the draft data protection bill in August 2023](https://www.techhiveadvisory.africa/insights/review-of-seychelles-dpa), four months before the Act passed the National Assembly.
 
 ## Finance
+
+### Financial sustainability
+<!-- finance.sustain -->
+
+No digital project in Seychelles' 2026 budget is financed from abroad: [the 2026 estimates' public investment programme carries SCR 18.7 million of foreign loans and SCR 339.8 million of foreign grants, none of it for a digital project (FY2026)](https://www.finance.gov.sc/wp-content/uploads/2026/02/2026-Budget-Estimates-of-Revenue-and-Expenditure-for-the-fiscal-year-ended-31st-December-2026-Part-1.pdf), and [the Appropriation Act 2026 voted the ICT department SCR 93.8 million (2026)](https://www.gazette.sc/sites/default/files/2026-03/Act%201%202026%20-%20Appropriation%20Act%202026.pdf).
+
+<!-- derived -->
+The digital lines of the 2026 estimates come to SCR 239.6 million proposed, none of it externally financed, against SCR 276.2 million appropriated in 2025, of which 80.4% was the state's own (FY2026).
+
+The external money of the two earlier years was not spent. [The 2024 budget financed SCR 86.7 million of a new integrated financial management system with an Indian government loan, beside SCR 5.0 million of local money (FY2024)](https://www.finance.gov.sc/wp-content/uploads/2025/08/2024-Budget-Estimates-of-Revenue-and-Expenditure-for-the-Fiscal-Year-2024-Part-2.pdf); [the 2025 budget put SCR 42.0 million of local money on it and no loan (FY2025)](https://www.finance.gov.sc/wp-content/uploads/2025/08/Budget-Estimates-of-Revenue-and-Expenditure-for-the-Fiscal-Year-2025-Part-2.pdf), and [the project spent nothing in 2024 and was revised to SCR 0.3 million for 2025 (FY2025)](https://www.finance.gov.sc/wp-content/uploads/2026/02/2026-Budget-Estimates-of-Revenue-and-Expenditure-for-the-fiscal-year-ended-31st-December-2026-Part-1.pdf). [A SCR 54.3 million Chinese grant in kind for the Revenue Commission's invoice management system sat in the 2025 budget (FY2025)](https://www.finance.gov.sc/wp-content/uploads/2025/08/Budget-Estimates-of-Revenue-and-Expenditure-for-the-Fiscal-Year-2025-Part-2.pdf), [the mid-year review cut the same sum from the Commission (2025)](https://www.finance.gov.sc/wp-content/uploads/2025/09/Mid_Year_Review_Additional_Fund_Documents-2025.pdf), and [the 2026 estimates give the Commission SCR 39.5 million for e-invoicing (FY2026)](https://www.finance.gov.sc/wp-content/uploads/2026/02/2026-Budget-Estimates-of-Revenue-and-Expenditure-for-the-fiscal-year-ended-31st-December-2026-Part-1.pdf).
+
+The running costs sit on the ministries' own votes. [The 2025 mid-year review gave the ICT department SCR 6.1 million for a Microsoft subscription and servers for the human resources system (2025)](https://www.finance.gov.sc/wp-content/uploads/2025/09/Mid_Year_Review_Additional_Fund_Documents-2025.pdf), [the 2026 estimates carry SCR 8.7 million for Autodesk licences for ministries (FY2026)](https://www.finance.gov.sc/wp-content/uploads/2026/02/2026-Budget-Estimates-of-Revenue-and-Expenditure-for-the-fiscal-year-ended-31st-December-2026-Part-1.pdf), [the 2025 budget carried SCR 5.5 million for the health information system's annual maintenance contract (FY2025)](https://www.finance.gov.sc/wp-content/uploads/2025/08/Budget-Estimates-of-Revenue-and-Expenditure-for-the-Fiscal-Year-2025-Part-2.pdf), and [the biometric passport runs on a five-year maintenance contract with a French contractor of about US$153,000 a year (November 2024)](https://www.nationalassembly.sc/sites/default/files/2025-02/VERBATIM%2013TH%20NOVEMBER%202024.pdf). [The ICT department spent SCR 73.9 million of the SCR 78.9 million voted to it for 2024 (FY2024)](https://www.finance.gov.sc/wp-content/uploads/2026/02/AFS-2024.pdf).
+
+Own-source instruments are few. [The Communications Act 2023 provides for a universal access and universal service fund fed by operator contributions](https://www.gazette.sc/sites/default/files/2023-04/Act%203%20-%202023%20-%20Communications%20Act%202023.pdf), and [the identity card is free on first issue, while replacing or amending one costs SCR 150 and an expatriate's card SCR 300 (2024)](https://www.ics.gov.sc/faq/civil-services/id-section).
 
 ### MoUs and other agreements
 <!-- finance.mou -->
@@ -376,3 +390,12 @@ The delivered engagement is educational: Seychelles [launched a Digital School I
 <!-- geopol.india -->
 
 Seychelles has agreed to adopt India's retail payment standard as a national instant-payments route. NPCI International and the Central Bank of Seychelles [signed a memorandum of understanding during Prime Minister Modi's visit on 29 June 2026 to roll out the Unified Payments Interface, targeted for the end of that year](https://africabusinessinsight.com/seychelles-upi-launch-2026/), covering instant mobile and QR payments between bank accounts, along with regulatory preparation on standards, cybersecurity and interoperability. It is aimed at [the India-source tourist market and at financial inclusion](https://africabusinessinsight.com/seychelles-upi-launch-2026/) — the traffic that justifies the build is Indian visitors spending in Seychelles, and the domestic gain follows from rails laid for them. The dependency that comes with it is a standards one: the specification, and the body that governs it, are Indian, and the Central Bank's preparatory work is on interoperating with that system rather than on running one of its own.
+
+### Digital sovereignty
+<!-- geopol.sovereignty -->
+
+Seychelles is examining the contract behind its digital border in public: [a presidential Commission of Inquiry into the Border Management Service Agreement with Travizory Border Security SA, whose system runs the immigration department's digital border control and the electronic travel authorisation for visitors, opened on 2 September 2026](https://www.nation.sc/articles/32150/commission-of-inquiry-opens-into-travizory-border-agreement), and [heard two former ministers describe the established international providers the government considered before Travizory (September 2026)](https://www.nation.sc/articles/32161/former-ministers-detail-early-border-system-options-before-travizory).
+
+State data sits wherever each body puts it. [Each ministry or agency houses its own data or places it with a cloud provider, and there is no government-wide hosting (2024)](https://afripoli.org/what-african-countries-can-learn-from-the-continents-top-performers-in-e-government). The rule that binds is on personal data: [the Data Protection Act 2023 requires every processor's contract to let it move personal data to another country only on the controller's instruction](https://www.gazette.sc/sites/default/files/2023-12/Act%2024%20-%202023%20-%20Data%20Protection%20Act%202023.pdf). [Cable & Wireless Seychelles offers its Tier IV centre as a way for government services to run on infrastructure inside the country rather than overseas (March 2026)](https://www.linkedin.com/posts/cable-wireless-seychelles-ltd_a-tier-iv-data-centre-changes-more-than-technology-activity-7440719883103014913-R-zX).
+
+The state is taking some systems back from their builders. [Cabinet confined PwC's continued work on the ASP Connect social-protection system in 2026 to stabilisation and knowledge transfer to government, and made the ICT department responsible for bringing it into full government ownership (March 2026)](https://statehouse.gov.sc/news/6829/cabinet-business-wednesday-4th-march-2026), and [the immigration department's 2024 digitalisation modules were built with the ICT department within its existing budget](https://www.nationalassembly.sc/sites/default/files/2025-02/VERBATIM%2013TH%20NOVEMBER%202024.pdf). [The Central Bank operates the domestic transfer system SEFT itself](https://www.cbs.sc/Financial/ModernisationPaymentSystem.html). [SeyID's authentication rests on WISeKey's OISTE public-key infrastructure](https://seyid.gov.sc/Security). Whether the state holds the source code and operating skills for SeyID, or can exit its WISeKey contract, was not on record as at September 2026. The terms on which the Travizory agreement, the WISeKey partnership and the 2026 memorandum with NPCI International govern data jurisdiction, portability and exit had not been published as at September 2026.

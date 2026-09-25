@@ -1,13 +1,13 @@
 ---
 title: Eswatini: status report
-compiled: 2026-09-23
+compiled: 2026-09-25
 place: SWZ
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 7
-sources_cited: 147
-sections_written: 37
+sources_cited: 154
+sections_written: 39
 not_established: 1
 acquire_lines: 57
 ---
@@ -81,6 +81,20 @@ The next constraint on that space is being drafted now. The ICT ministry's [Onli
 
 ## Finance
 
+### Financial sustainability
+<!-- finance.sustain -->
+
+[The 2026/27 estimates carry the first money of the World Bank's Digital Eswatini loan, E30 million with no local funds on the project, and cut the state's own line for the integrated online e-services platform to E1.75 million](https://parliament.gov.sz/media/speeches/docs/2602-223%20Ministry%20of%20Finance%20Estimates%202026.pdf) (2026/27), [against E30 million in 2024/25](https://www.gov.sz/images/FinanceDocuments/Budget-Estimates-2024-25-Final-Print-Version.pdf) (2024/25).
+
+<!-- derived -->
+The digital lines of the 2026/27 estimates come to about E471 million proposed, 88.5% of it the state's own money and the rest World Bank and Taiwanese financing (2026/27).
+
+[The largest of the state's own lines are E130.5 million for the 2027 population and housing census and the E119.1 million recurrent subvention to the Royal Science and Technology Park](https://parliament.gov.sz/media/speeches/docs/2602-223%20Ministry%20of%20Finance%20Estimates%202026.pdf) (2026/27); the recurrent estimates that carry the subvention print no financing source against their digital lines (2026/27). [Taiwanese grants financed a E36 million 5G government network in 2024/25 with no local funds beside them](https://www.gov.sz/images/FinanceDocuments/Budget-Estimates-2024-25-Final-Print-Version.pdf), and [still pay for rural school computer laboratories and computers, E14.4 million in 2026/27](https://parliament.gov.sz/media/speeches/docs/2602-223%20Ministry%20of%20Finance%20Estimates%202026.pdf).
+
+[The Universal Access and Service Fund, set up under the Electronic Communications Act 2013 and administered by the communications regulator, took in about E10 million from the operators' universal access levy and E10 million from the regulator in 2024/25 and spent E14.2 million, E3.7 million of it on last-mile connectivity at 20 sites and E0.8 million on e-government support](https://esccom.org.sz/wp-content/uploads/2026/08/ANNUAL-REPORT-2025.pdf) (2024/25). [Under section 49(10) of the Communications Act 2013, whatever the regulator's revenue leaves unused at year-end goes to the universal service programme](https://esccom.org.sz/wp-content/uploads/2026/08/ANNUAL-REPORT-2025.pdf).
+
+[The World Bank's appraisal of Digital Eswatini commits the government to budget, through the line ministries, for the rising internet costs of schools, clinics and other public institutions in the project's later stages, and buys last-mile capacity as indefeasible rights of use that run beyond the project's July 2031 close](https://documents.worldbank.org/curated/en/099061826123027004/pdf/BOSIB-eeab9c88-27f5-404b-bf04-d448d9780618.pdf) (June 2026).
+
 ### MoUs and other agreements
 <!-- finance.mou -->
 
@@ -127,9 +141,9 @@ The sector runs under the [Electronic Communications Act](https://www.esccom.org
 ### Data Storage
 <!-- infra.store -->
 
-Eswatini's government systems depend near-universally on the Royal Science and Technology Park for hosting, maintenance and system development, which the state's own Digital Landscape Assessment names a ["structural concentration risk"](https://independentnews.co.sz/43652/news/critical-state-information-at-risk-in-9-govt-ministries/) because ministries have no internal fallback if that capacity is delayed or disrupted (May 2026).
+Eswatini's finance minister told Parliament in September 2026 that [the facility at the Royal Science and Technology Park did not, on the information available to government, constitute a fully operational data centre](https://independentnews.co.sz/48729/news/govt-systems-crippled-by-digital-outages/). Government systems nonetheless depend near-universally on the Park for hosting, maintenance and system development, which the state's own Digital Landscape Assessment names a ["structural concentration risk"](https://independentnews.co.sz/43652/news/critical-state-information-at-risk-in-9-govt-ministries/) because ministries have no internal fallback if that capacity is delayed or disrupted (May 2026).
 
-The facility at the centre of it is the [National Data Centre, operated by the Park as the country's basic government data centre](https://rstp.org.sz/national-data-centre/) (2025). It is [carrier-neutral on two diverse provider feeds](https://rstp.org.sz/national-data-centre), backed by four 500 KVA diesel generators, with biometric access into smart rows of 42U racks, and it sells colocation and remote hands alongside platform, infrastructure and software as a service. Its only public description discloses no capacity in racks or megawatts, no named tenant, no uptime-tier certification and no utilisation figure (July 2026). The second site that would carry it has not arrived. The 2021 budget speech recorded [construction begun on a Disaster Recovery Site at KaLanga in the Lubombo region, with E58 million allocated](https://www.gov.sz/images/FinanceDocuments/Budget-Speech-2021.pdf), financed by a [US$10.4 million India Exim Bank line of credit signed that year for the Park's second phase](https://economictimes.indiatimes.com/news/economy/finance/exim-bank-inks-10-40-million-soft-loan-pact-with-eswatini/articleshow/81310064.cms); four years later the communications regulator was [advertising a tender for consultancy services on a data centre disaster recovery facility](https://independentnews.co.sz/29538/business/esppra-announces-nine-tenders/) (October 2025), and in September 2026 the finance minister told Parliament that [the project had failed to proceed, the loan had never been drawn and Treasury had applied to cancel it](https://times.co.sz/44419/news/govt-seeks-to-cancel-e182m-data-recovery-site-loan/). The wider estate is [small-scale Tier I-II facilities only](https://datacenterplatform.com/countries/eswatini/) (2024), and with [no hyperscale region in the country](https://docs.aws.amazon.com/global-infrastructure/latest/regions/aws-regions.html), the nearest availability zones are across the border at 6-10ms (2025).
+The facility at the centre of it is the [National Data Centre, which the Park describes as the country's basic government data centre](https://rstp.org.sz/national-data-centre/) (2025). It is [carrier-neutral on two diverse provider feeds](https://rstp.org.sz/national-data-centre), backed by four 500 KVA diesel generators, with biometric access into smart rows of 42U racks, and it sells colocation and remote hands alongside platform, infrastructure and software as a service. Its only public description discloses no capacity in racks or megawatts, no named tenant, no uptime-tier certification and no utilisation figure (July 2026). The second site that would carry it has not arrived. The 2021 budget speech recorded [construction begun on a Disaster Recovery Site at KaLanga in the Lubombo region, with E58 million allocated](https://www.gov.sz/images/FinanceDocuments/Budget-Speech-2021.pdf), financed by a [US$10.4 million India Exim Bank line of credit signed that year for the Park's second phase](https://economictimes.indiatimes.com/news/economy/finance/exim-bank-inks-10-40-million-soft-loan-pact-with-eswatini/articleshow/81310064.cms); four years later the communications regulator was [advertising a tender for consultancy services on a data centre disaster recovery facility](https://independentnews.co.sz/29538/business/esppra-announces-nine-tenders/) (October 2025), and in September 2026 the finance minister told Parliament that [the project had failed to proceed, the loan had never been drawn and Treasury had applied to cancel it](https://times.co.sz/44419/news/govt-seeks-to-cancel-e182m-data-recovery-site-loan/). The wider estate is [small-scale Tier I-II facilities only](https://datacenterplatform.com/countries/eswatini/) (2024), and with [no hyperscale region in the country](https://docs.aws.amazon.com/global-infrastructure/latest/regions/aws-regions.html), the nearest availability zones are across the border at 6-10ms (2025).
 
 What sits on that estate is thinly protected. [Nine of the roughly 22 ministries assessed keep no regular backups at all](https://independentnews.co.sz/43652/news/critical-state-information-at-risk-in-9-govt-ministries/), seven back up daily, three weekly and three monthly, eleven hold no ICT maintenance contract, and the Ministry of Finance runs end-of-life IBM mainframe software, with water, mining, energy and social-grant data flagged at risk of unrecoverable loss (May 2026).
 
@@ -389,3 +403,14 @@ India's presence is a single credit line: [India's Export-Import Bank signed a s
 
 <!-- derived -->
 India's Export-Import Bank is the only bilateral lender among the external financing commitments recorded for Eswatini's digital estate (August 2026).
+
+### Digital sovereignty
+<!-- geopol.sovereignty -->
+
+[Eswatini's finance minister told Parliament in September 2026 that the facility at the Royal Science and Technology Park, which houses the National Data Centre, did not constitute a fully operational data centre, and that the state needed a functional primary data centre before a backup site](https://independentnews.co.sz/48729/news/govt-systems-crippled-by-digital-outages/). [The Park is also the named operator of the Government in Your Hand platform, which is to carry digital identity and payment services](https://independentnews.co.sz/48729/news/govt-systems-crippled-by-digital-outages/) (September 2026), and [a new government team there oversees system integration and procurement for the World Bank-financed build](https://documents.worldbank.org/curated/en/099061826123027004/pdf/BOSIB-eeab9c88-27f5-404b-bf04-d448d9780618.pdf) (June 2026).
+
+[Under a specimen sharing agreement signed in December 2025, Eswatini starts sharing specimens, sequencing and related data on novel infectious diseases within seven days of a US request, consents to their onward sharing with up to ten US entities, has their transfer, use and control governed by US law, and keeps no hold on data already shared if it terminates](https://www.citizen.org/wp-content/uploads/64101-Eswatini-Health-Specimen-Sharing-Agreement-12.12.2025.pdf). The terms on which the memorandum with Google Cloud EMEA governs data jurisdiction, portability and exit had not been published as at September 2026.
+
+No instrument fixing where state data is held or under whose law it is processed was in force as at September 2026. [The ICT minister said in April 2026 that the national data policy then being drafted aims to make Eswatini one of the safest places in the world to store data](https://www.eeas.europa.eu/delegations/eswatini/eu-proud-support-eswatini-developing-national-data-policy_en).
+
+[Eswatini's data governance experts joined a UNESCO workshop in Harare with seven other southern African states in August 2026 working towards a roadmap for harmonised data governance frameworks across the region](https://www.unesco.org/en/articles/unesco-supports-southern-africa-harmonise-data-governance).

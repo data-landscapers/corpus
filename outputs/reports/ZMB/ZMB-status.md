@@ -1,13 +1,13 @@
 ---
 title: Zambia: status report
-compiled: 2026-09-16
+compiled: 2026-09-25
 place: ZMB
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 7
-sources_cited: 143
-sections_written: 37
+sources_cited: 152
+sections_written: 39
 not_established: 2
 acquire_lines: 49
 ---
@@ -20,7 +20,7 @@ Public administration is one of only three of the sixteen sub-categories in whic
 
 The paper commitments are unusually complete. [The National ICT Policy 2023, published with an implementation plan by the Ministry of Technology and Science, is the overarching instrument, covering broadband, cybersecurity, data centres, digital identification, digital payments, e-waste, spectrum, quality of service and universal access](https://www.mots.gov.zm/wp-content/uploads/2023/10/National-ICT-Policy-2023-Implimentation-Plan.pdf). Alongside it the ministry carries [a National Digital Transformation Strategy spanning broadband, data protection, digital payments and the first, second and last mile of connectivity](https://www.mots.gov.zm/wp-content/uploads/2023/10/National-Digital-Transformation-Strategy.pdf), while [SMART Zambia Institute's National e-Government Plan 2023-2026, issued under the Electronic Government Act, carries a dedicated thematic area on standards and compliance with phased milestones](https://www.szi.gov.zm/wp-content/uploads/2023/08/Final-National_e-Government_Plan_-2023-Final-17.08.2023.pdf).
 
-Delivery ownership is settled at the top and thin below it. The GovTech Maturity Index records [a dedicated digital government institution established, with machinery for coordinating government technology across ministries in place](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), and [a current digital transformation strategy in force with supporting institutional measures, a second instrument in the same family still only planned or in draft (2025)](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). The same index finds [no data governance body and no data governance strategy for government](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [The National AI Strategy remains unpublished, with stakeholder contributions still being invited (July 2026)](https://techafricanews.com/2026/07/17/zambia-eyes-ai-leadership-following-global-robotics-challenge-milestone/), and [SMART Zambia is publicly asking for private investment to fund digital infrastructure toward a digitally inclusive middle-income country by 2030 (March 2026)](https://www.zanis.gov.zm/?p=3243).
+Delivery ownership is settled at the top and thin below it. The GovTech Maturity Index records [a dedicated digital government institution established, with machinery for coordinating government technology across ministries in place](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), and [a current digital transformation strategy in force with supporting institutional measures, a second instrument in the same family still only planned or in draft (2025)](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). The same index finds [no data governance body and no data governance strategy for government](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [The National Artificial Intelligence Strategy 2024-2026 is published, placing AI coordination inside government with SMART Zambia Institute under a National AI Council](https://api.oecdai.org/storage/policy-initiatives/Apr2026/117ojpi25umobje3ol-Zambia-Ai-Strategy-Book-option-2.pdf) (2024), and [SMART Zambia is publicly asking for private investment to fund digital infrastructure toward a digitally inclusive middle-income country by 2030 (March 2026)](https://www.zanis.gov.zm/?p=3243).
 
 ### Legislation and regulation
 <!-- gov.legislate -->
@@ -80,6 +80,20 @@ The channels exist and are partial. Zambia has [a central citizen feedback and g
 The election has narrowed the register of the debate. [The Human Rights Commission raised the alarm over hate speech and online abuse ahead of the August 2026 vote, asking citizens to verify information before sharing it and political leaders to drop inflammatory language and unverified allegations](https://www.lusakatimes.com/2026/08/01/human-rights-commission-raises-alarm-over-hate-speech-online-abuse-as-election-nears/), and [several parties signed a peace pledge with the Electoral Commission and church mother bodies committing them to reject violence, intimidation and hate speech through the campaign, the poll and its aftermath](https://www.lusakatimes.com/2026/08/01/human-rights-commission-raises-alarm-over-hate-speech-online-abuse-as-election-nears/). [The Zambia Cyber Security Agency spent July 2026 urging journalists to learn the cybersecurity laws before the election, presenting the legislation as protection for media houses against ransomware and disruption](https://www.lusakatimes.com/2026/07/15/journalists-urged-to-learn-cybersecurity-laws/), and [MISA Zambia launched its 2025 Digital Rights Report on 30 July 2026](https://youthvillagezm.com/2026/07/zambia-reaffirms-commitment-to-digital-rights-as-technology-drives-national-development/).
 
 ## Finance
+
+### Financial sustainability
+<!-- finance.sustain -->
+
+[Zambia's 2026 budget carries a K1 billion World Bank grant for the Digital Zambia Acceleration Project inside the Smart Zambia Institute's standards and regulation line](https://www.mofnp.gov.zm/?wpdmpro=2026-national-budget), where [the 2025 budget footnoted no donor money against any digital line](https://www.mofnp.gov.zm/?wpdmpro=2025-approved-budget); [the project's grant window runs to 2030](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099100625152522349).
+
+<!-- derived -->
+About 66 percent of the K2.93 billion appropriated on the digital lines for 2026 is the state's own money, the rest being that grant.
+
+The lines that keep systems running are on the state's own votes: [the 2026 budget gives the institute K119.7 million for ICT infrastructure and K102.7 million for ICT security, and the finance ministry K40.8 million for SAP licences, the same sum as in 2025](https://www.mofnp.gov.zm/?wpdmpro=2026-national-budget). Money voted is not all spent. [In 2025 the institute's standards and regulation line spent K152.3 million of K288.0 million authorised, and the technology ministry's ICT infrastructure line K107.7 million of K204.1 million, while ICT security spent K114.3 million of K115.8 million](https://www.mofnp.gov.zm/?wpdmpro=2025-financial-report).
+
+Own-source financing of connectivity is in law. [Regulations of 2012 require licensees to pay into the Universal Access Fund at a rate not exceeding 1.5 percent of gross annual turnover, capped at half their annual operating fees and payable in advance, with the Fund account run by ZICTA](https://database.cyberpolicyportal.org/api/files/16793062762166qwz19vmif6.pdf).
+
+The state's infrastructure company earns its keep commercially. [INFRATEL, wholly owned by the government through the Industrial Development Corporation, owns three Tier III data centres and more than 1,200 towers and is funded from tower services, data-centre revenue and investments; it leases shared tower sites to MTN under a five-year contract from January 2024 at a monthly fee per site, and was owed K362.9 million by customers at the end of 2024](https://www.ago.gov.zm/wp-content/uploads/PARASTATAL-REPORT-2024-FINAL.pdf). [The finance minister said in May 2026 that hundreds of new towers were going up through public-private partnerships](https://techafricanews.com/2026/05/15/zambia-approves-k255-million-to-upgrade-digital-infrastructure-and-network-quality/), with no partnership terms published.
 
 ### MoUs and other agreements
 <!-- finance.mou -->
@@ -387,3 +401,12 @@ No Gulf state or Gulf-based operator had built, financed or supplied digital inf
 <!-- geopol.india -->
 
 India's footprint is advisory and unfinanced. Zambia [signed a memorandum of understanding in 2023 with the Centre for Digital Public Infrastructure at IIIT-Bangalore](https://www.codevelop.fund/insights-1/building-zambias-digital-economy-foundations-through-digital-public-infrastructure-dpi) to support the design of its digital public infrastructure use cases — help with how the systems are shaped, not money, equipment or a stack the government now runs on. No Indian-financed infrastructure, supplied platform or training programme was on Zambia's record as at August 2026.
+
+### Digital sovereignty
+<!-- geopol.sovereignty -->
+
+[Zambia launched its national public key infrastructure in September 2026, its master keys held offline and split among several custodians so that no single body controls the country's root of trust](https://www.itweb.africa/article/zambia-launches-national-digital-trust-infrastructure/VgZeyqJlpzp7djX9), [built for ZICTA by South Africa's Altron Security under a contract won three years earlier](https://businessexplainer.co.za/deals/2026/09/10/zambia-taps-sa-company-to-build-national-digital-id/). [The certificates it issues take legal effect under Zambia's electronic transactions law, and Zambia sits in the Africa PKI Forum working towards cross-border recognition](https://www.itweb.africa/article/zambia-launches-national-digital-trust-infrastructure/VgZeyqJlpzp7djX9).
+
+Beyond the statutory rule that keeps personal data in the country, the state has moved on software. [Cabinet directed ministries in June 2026 to adopt open-source technology, launching a national spatial data portal built on open-source software to avoid long-term vendor lock-in](https://itweb.africa/article/zambias-govt-leans-towards-open-source/KjlyrvwBpprqk6am), and [the Smart Zambia coordinator has said the country kept full national ownership of the 12 million patient records consolidated into its SmartCare Pro platform](https://iafrica.com/zambian-officials-set-sovereignty-conditions-while-deepening-ai-cooperation-with-china/) (August 2026). The government's own hosting is state-owned: [INFRATEL, held through the Industrial Development Corporation, owns and operates three Tier III data centres in Lusaka and Kitwe](https://www.ago.gov.zm/wp-content/uploads/PARASTATAL-REPORT-2024-FINAL.pdf) (2024). Whether the state holds the source code and operating skills for the government data centre systems Huawei built, or can exit their support arrangements, was not on record as at September 2026.
+
+The AI layer is being negotiated on stated conditions. [At an August 2026 seminar on AI cooperation with China, the Smart Zambia coordinator called for regulatory sovereignty and for cooperation that does not impose a one-size-fits-all approach, and the technology ministry's permanent secretary named limited computing infrastructure as the main barrier to adoption](https://iafrica.com/zambian-officials-set-sovereignty-conditions-while-deepening-ai-cooperation-with-china/). The terms on which the May and June 2026 memoranda with Huawei for a national AI data centre and a sovereign cloud govern data jurisdiction, portability and exit had not been published as at September 2026.
