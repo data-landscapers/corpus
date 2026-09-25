@@ -1,11 +1,11 @@
 ---
 title: Niger — monthly update, August – September 2026
-compiled: 2026-09-24
-period: 2026-08-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2026-08-01 to 2026-09-25
 place: NER
-ledger_rows: 43
+ledger_rows: 44
 not_held: 1
-record: c0012e2cf0ad
+record: 99f507edcd36
 ---
 
 # Niger: monthly update, August – September 2026
@@ -121,6 +121,11 @@ Also on 29 July, the Diffa regional civil-status directorate reported [173,109 b
 On 29 July the foreign minister closed the second diaspora forum by [undertaking to build a bank of priority diaspora projects and a data bank of diaspora experts](https://www.lesahel.org/cloture-de-la-2e-edition-du-forum-de-la-diaspora-a-niamey-des-recommandations-et-des-engagements-formules-pour-le-developpement-economique-et-social-du-pays/); no enabling instrument, custodian, data-protection basis or timetable was named.
 
 The tour reached its fourth region and brought a fourth set of figures. At Agadez the ministry [put timely birth registration at 79.8% and about 3,000,000 of 13 million adults still without a biometric identity card, the register's first phase and its unique identifier still to be issued from Niamey](https://interieur.gouv.ne/agadez-ouverture-de-la-4eme-etape-de-la-tournee-nationale-de-sensibilisation-sur-les-reformes-en-matiere-detat-civil-et-didentification-des-personnes/). It is the first count of adults without the credential, and a fourth registration rate alongside the three above. The tax register was pushed outward instead: a communiqué of 27 July [announced a nationwide census of rental housing and a regularisation drive for landlords and second-home owners](https://airinfoagadez.com/2026/08/01/niger-campagne-de-regularisation-des-impots-fonciers-les-autorites-misent-sur-le-civisme-fiscal/), held only in syndicated copies.
+<!-- /narrative -->
+### Other GovTech and e-Gov
+
+<!-- narrative: dpi--dpi-govtech -->
+Hamani Kargné took over the communications and information-technology ministry on 22 September, and [named digitalisation of public services through a reliable and secure government intranet among his priorities](https://www.actuniger.com/politique/22383-ministere-de-la-communication-et-des-nti-le-nouveau-ministre-hamani-kargne-officiellement-installe.html). No design, operator, budget or date was given.
 <!-- /narrative -->
 
 ## Technology
