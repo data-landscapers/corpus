@@ -185,12 +185,13 @@ class SourceError(Exception):
 EXTERNAL = "external.csv"
 EXTERNAL_COLUMNS = ("fy", "fiscal_year_label", "basis", "line_name", "code", "primary_subject",
                     "scope_confidence", "funding_source", "currency", "amount_scale",
-                    "appropriated", "revised", "doc_locator", "source_slug", "extracted", "notes")
+                    "proposed", "appropriated", "revised", "doc_locator", "source_slug", "extracted", "notes")
 EXTERNAL_BASIS = {"line", "not-printed"}
 EXTERNAL_FUNDING = {"external-grant", "external-loan", "external"}
 # The stages a share may be taken at, in preference order. Both sides must carry the stage on
-# every row counted, or the share would divide an appropriation by a revision.
-SHARE_STAGES = ("appropriated", "revised")
+# every row counted, or the share would divide an appropriation by a revision. `proposed` is last:
+# a year held only as a bill still has a share, and the stage it was taken at says so.
+SHARE_STAGES = ("appropriated", "revised", "proposed")
 # The digital lines as the extract defines them. `unclear` is neither side's.
 SHARE_SCOPE = ("whole", "partial")
 
