@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-09-25 09:16 · **BUDGET-EXTRACT** · 1h58m · NGA FY2024-2026: 358 lines from the Appropriation Bills and Acts (Details); share 38.0%, 32.9%, 59.1%; lines under N250m not scanned
 2026-09-25 07:59 · **BUDGET-EXTRACT** · 24m · GNQ FY2024-2026: 229 lines from the enacted 2024 and 2026 laws (FY2025 from the 2026 law's LEY 2025 column); share 98.6%, 100%, 93.9%
 2026-09-25 07:54 · **BUDGET-EXTRACT** · 32m · MWI FY2024-2026: 554 lines from the approved Detailed Estimates; share 82.0%, 75.7%, 55.9%
 2026-09-25 07:54 · **BUDGET-EXTRACT** · 37m · BFA FY2024-2026: 492 lines from the finance laws, FY2024 revised from the LFR; share 56.2%, 52.0%, 39.8%
