@@ -1,11 +1,11 @@
 ---
 title: Sierra Leone — monthly update, August – September 2026
-compiled: 2026-09-24
-period: 2026-08-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2026-08-01 to 2026-09-25
 place: SLE
-ledger_rows: 52
+ledger_rows: 53
 not_held: 5
-record: e06e45b3aded
+record: 11dcc097130e
 ---
 
 # Sierra Leone: monthly update, August – September 2026
@@ -31,6 +31,8 @@ Delivering a ministerial statement on 4 August after [MPs demanded an explanatio
 The multi-agency answer to mobile-money fraud got a drafting session. A two-day workshop on 18 and 19 August [brought the central bank, the telecom and mobile-money operators and the cybersecurity bodies together to draft a roadmap](https://www.wearetech.africa/fr/fils/actualites/finance/sierra-leone-vers-une-feuille-de-route-contre-la-fraude-liee-au-mobile-money), after parliamentary pressure over identity-theft scams on one operator's network. No roadmap, deadline or funding line has been published.
 
 A data governance framework was named as in development for the first time. Meeting United Nations agencies on 5 September, the communications minister [named the framework alongside the government data centre at the telecommunications authority tower and a redundancy site at State House](https://sierraloaded.sl/news/communication-strengthens-partnership/). No draft, scope, adoption route or timetable is published for the framework, and the redundancy site appears here with no capacity or commissioning date.
+
+The open source policy Cabinet approved in July was [presented by the communications minister at a UNICEF showcase on the UNGA81 sidelines](https://techreviewafrica.com/news/7450/) as the answer to duplicated government systems, proprietary-technology costs and vendor lock-in. Its text is still not published.
 <!-- /narrative -->
 ### Legislation and regulation
 
@@ -150,6 +152,8 @@ The electoral commission is thinking two years ahead. It [publicly considered th
 
 <!-- narrative: technology--tech-innovate -->
 The communications minister [said a Startup Act is expected in the first quarter of 2027, alongside an innovation investment fund and a planned tech city](https://sierraloaded.sl/news/fatima-bio-launch-flot-financial-platform/). No draft or consultation is on file.
+
+At the same UNGA81 showcase, [four Sierra Leonean teams were reported to have met all nine Digital Public Goods criteria and submitted their products to the global registry](https://techreviewafrica.com/news/7453/), with three more part of the way. No product is named.
 <!-- /narrative -->
 
 ## Capacity
