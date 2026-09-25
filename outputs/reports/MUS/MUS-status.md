@@ -6,7 +6,7 @@ region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 7
-sources_cited: 122
+sources_cited: 123
 sections_written: 39
 not_established: 2
 acquire_lines: 29
@@ -290,7 +290,7 @@ Mauritius publishes least about the people most likely to be left out: social st
 
 What is measured shows the physical barriers largely gone. [Electricity reaches 99.7% of the population (2023)](https://www.un.org/sites/un2.un.org/files/energycompacts-case-study-mauritius-002.pdf). [Household internet access reached 85.8% in 2024, up from 72.6% in 2020 and 29.0% in 2010](https://indicators.govmu.org/ictindicators/?page_id=3218), which still leaves roughly one household in seven off the network, and individual use sits lower again at [79.5% of the population in 2023](https://www.missioninfobank.org/mib/findinfo.php?coucode=MUS&descr=Individuals+using+the+Internet+%28%25+of+population%29&indicator=IT.NET.USER.ZS&name=Mauritius). The improvement has been the fastest of anything the country does: [internet and computer access is the most improved of the 96 measures in its 2024 Ibrahim Index profile, up 33.3 points over 2014-2023 to 88.7 out of 100 and 2nd of 54 African states (2023)](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mu.pdf).
 
-The divide that remains legible is geographic. [The Rodrigues Regional Assembly launched its own digital roadmap, the Rod-Digital Vision, on 6 May 2026](https://lexpress.mu/node/558566), built on trust, innovation, sustainability and resilience — a separate plan for an island where the government super-app is [being promoted through post office agents (May 2026)](https://lexpress.mu/node/558566), a decade after the main island's own access figures began their climb.
+The divide that remains legible is geographic. [The Rodrigues Regional Assembly launched its own digital roadmap, the Rod-Digital Vision, on 6 May 2026](https://lexpress.mu/node/558566), built on trust, innovation, sustainability and resilience — a separate plan for an island where the government super-app is [being promoted through post office agents (May 2026)](https://lexpress.mu/node/558566), a decade after the main island's own access figures began their climb. Capacity is not what holds the island back: [the MARS cable to Rodrigues, in service since 2019 under a 20-year US$44.8m contract, had 19.9 of its 100 Gbps sold at 30 June 2025, with no ICT strategic plan for the island and the company formed to operate the cable still not running](https://nao.govmu.org/nao/wp-content/uploads/AnnualAuditReport/2024-25/Certificate%20of%20Audit%20and%20Report%20of%20the%20Director%20of%20Audit%20on%20the%20accounts%20of%20the%20Rodrigues%20Regional%20Assembly%20for%20the%20Financial%20Year%202024-25.pdf).
 
 ## Data
 
