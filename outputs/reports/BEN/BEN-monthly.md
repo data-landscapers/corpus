@@ -1,11 +1,11 @@
 ---
 title: Benin — monthly update, August – September 2026
-compiled: 2026-09-21
-period: 2026-08-01 to 2026-09-21
+compiled: 2026-09-25
+period: 2026-08-01 to 2026-09-25
 place: BEN
-ledger_rows: 40
+ledger_rows: 41
 not_held: 4
-record: 74a24bcc699f
+record: d00d2e7c9d9e
 ---
 
 # Benin: monthly update, August – September 2026
@@ -128,6 +128,14 @@ A [four-country comparative study presented on 10 August found no AI-specific le
 
 <!-- narrative: capacity--capacity-training -->
 Two cohorts opened in the month, both small and both institutional. The state information-systems agency [began a certification programme for 25 departmental information-security officers on 3 August](https://lanation.bj/numerique/cybersecurite-lasin-renforce-les-capacites-de-25-rssi), and the capital's town hall [opened an artificial-intelligence academy for 60 secondary pupils on 19 August](https://lanation.bj/numerique/cotonou-ai-academy-former-60-collegiens-en-ia-pour-repondre-aux-defis-urbains), framed on urban problems. Neither publishes a curriculum, a completion standard or a plan for a second cohort.
+<!-- /narrative -->
+
+## Inclusion
+
+### Access to services
+
+<!-- narrative: inclusion--include-access -->
+The identification agency [handed 1,422 equal-opportunity cards for persons with disabilities to the social-action ministry on 18 September, after 4,718 distributed in 2024 and 2025 and with about 4,000 applications registered for 2026](https://lanation.bj/actualites/politique-didentification-et-dinclusion-1-422-cartes-degalite-des-chances-aux-personnes-handicapees). The card is what gives access to the rights a 2017 law attaches to disability status, and the step that holds applicants back is not digital: [the ministry and the disability federation both named the medical certificate that establishes eligibility as the obstacle](https://lanation.bj/actualites/politique-didentification-et-dinclusion-1-422-cartes-degalite-des-chances-aux-personnes-handicapees).
 <!-- /narrative -->
 
 ## Data
