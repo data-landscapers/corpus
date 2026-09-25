@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-r"""lint-interface.py — Corpus reads OSINT's evidence, and nothing else of OSINT's.
+r"""lint-interface.py — no Corpus script watches OSINT's process.
 
 Strategic review task 15. The boundary used to be one-directional but unbounded: Corpus
 never wrote to `C:\OSINT`, and read whatever it liked. That is how it came to run linters
@@ -10,8 +10,9 @@ everything and policed what it found.
 
 So the interface is now stated as data, and this counts it.
 
-**Corpus may read** OSINT's `raw/`, `wiki/` and `lookups/` - the evidence and the
-vocabularies - the mirror's `cycle-manifest.json`, and the mirror's own git metadata as a
+**Reading is not restricted; attention is** (Bill, 2026-09-25). A script may read OSINT's
+`raw/`, `wiki/`, `lookups/` and `budget-archive/` - the evidence, the vocabularies and the
+documents - the mirror's `cycle-manifest.json`, and the mirror's own git metadata as a
 staleness clock. **Corpus may not read** OSINT's `logs/`, `reviews/`, `index/`, `new/`,
 `sweep/` or any process file. The same rule binds OSINT in the other direction, over the
 exchange share.
@@ -55,7 +56,10 @@ SCRIPTS = os.path.join(ROOT, "scripts")
 # three directories are the evidence and the vocabularies; `cycle-manifest.json` is the one
 # file, and the review named it when it defined the interface: OSINT's machine-readable
 # account of a close, which is what lets Corpus stop reading OSINT's logs at all.
-READABLE = {"raw", "wiki", "lookups", "cycle-manifest.json"}
+# `budget-archive` joined on 2026-09-25 (Bill): reading is not what the boundary restricts -
+# watching OSINT's process is. The budget volumes are evidence, and a budget sitting reads
+# them rather than re-fetching the publisher's copy to prove the same bytes.
+READABLE = {"raw", "wiki", "lookups", "budget-archive", "cycle-manifest.json"}
 
 # The two names a script binds the mirror root to. Both spellings of a path under them are
 # in use — `os.path.join(MIRROR, ...)` and `MIRROR / ...` — and a check that knew only one
