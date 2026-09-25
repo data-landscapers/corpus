@@ -107,3 +107,5 @@ The Budgets page has carried no tables since 22 September 2026 (see `content/cha
 - **NGA** — Nigeria's federal budgets for 2024, 2025 and 2026 are now read line by line from the Appropriation Bills and Acts: 358 lines across every ministry, six digital and data bodies among them, with loan-financed digital lines recorded separately. The Finance page shows each year's enacted figures project by project, in place of the earlier reading of six bodies a year, and shows how much of the digital budget rests on tied loans.
 
 - **EGY** — Egypt's approved State General Budget volumes for 2024/25, 2025/26 and 2026/27 were read body by body: eight digital bodies by chapter, from the statistics agency and the communications ministry's headquarters to the civil-status development fund. Egypt's Finance page now shows appropriations for all three years, replacing a single planning-statement figure for 2025/26.
+
+- **SWZ FY2026** — Eswatini's 2026/27 tabled estimates are now read line by line: 14 digital lines at the proposed stage and four donor-financed lines. 2026/27 appears on the Finance page for the first time, with 88.5% of its digital money domestic.
