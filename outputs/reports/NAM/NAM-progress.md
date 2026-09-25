@@ -1,12 +1,12 @@
 ---
 title: Namibia — progress report, September 2025 – September 2026
-compiled: 2026-09-24
-period: 2025-09-01 to 2026-09-24
+compiled: 2026-09-25
+period: 2025-09-01 to 2026-09-25
 place: NAM
 ledger_rows: 249
 not_held: 9
 indicators: 123
-record: 795fb9d72dc5
+record: 0b089aa5d70b
 ---
 
 # Namibia: progress report, September 2025 – September 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the repository holds nothing on that indicator. **That is a statement about this repository, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-09-01 to 2026-09-24.*
+*The period is 2025-09-01 to 2026-09-25.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the repository holds a standing position and nothing in the period touched it. ***No evidence*** — the repository holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Movement, regulations still pending*.
 
@@ -219,4 +219,7 @@ Where a row reads ***No evidence***, the repository holds nothing on that indica
 | National digital literacy programme | A named ministry or regulator digital-literacy strategy, curriculum or programme document; the subject carries exactly one Namibian source, the regulator and chamber memorandum of 2026-07-30, which names digital literacy as a workstream with no funding, deliverable or target | 2026-08-06 |
 | Power supply plan for the national data centre | A power purchase agreement, grid-connection study or energy annex to the data-centre project proposal; the subject carries one Namibian source, a signed opinion piece arguing the case for hosting compute locally, so there is no held statement of how any planned facility would be powered, at what cost, or by whom | 2026-08-06 |
 | United States health data and specimen sharing arrangement | A signed data or specimen sharing arrangement with the United States, or a published text of the proposal that was refused. | 2026-08-31 |
+| Universal service levy collected | CRAN's or the Universal Service Fund's statement of the universal service levy invoiced and collected from licensees under the September 2024 regulations; the Fund's first statements, to 31 December 2025, show grants and service revenue only. | 2026-09-25 |
+| Who pays to run the national data centre | A budget line, cabinet decision or grant agreement assigning the recurrent operating costs of the national data centre, including the Huawei-built facility under the Chinese smart-city grant. | 2026-09-25 |
+| Rule on where state data is held | A government hosting or cloud policy, a data classification, or the enacted Data Protection Act fixing where state data may be held and under whose law. | 2026-09-25 |
 
