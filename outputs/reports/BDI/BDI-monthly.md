@@ -1,11 +1,11 @@
 ---
 title: Burundi — monthly update, August – September 2026
-compiled: 2026-09-17
-period: 2026-08-01 to 2026-09-17
+compiled: 2026-09-25
+period: 2026-08-01 to 2026-09-25
 place: BDI
-ledger_rows: 35
+ledger_rows: 38
 not_held: 15
-record: beb1fb0ebd66
+record: 3abad04ba992
 ---
 
 # Burundi: monthly update, August – September 2026
@@ -67,6 +67,8 @@ The revenue authority's own platform went into production. From 4 August [all ne
 Biometric civil registration is [operating in 13 pilot communes, decentralised to zone level and interoperable with health-facility birth and death records, with a national unique identifier planned on fingerprint and facial biometrics](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-launches-digital-civil-registry-and-biometric-id-initiative). The health-facility link is the part with numbers behind it: the interior ministry says it has been [piloted since 2023, institutionalised in 2024, and now runs in 123 health facilities where it has recorded more than 52,000 births](https://abpinfo.bi/2026/08/13/le-burundi-veut-construire-un-etat-plus-proche-des-citoyens-plus-efficace-et-inclusif/). No coverage denominator is given for either figure.
 
 It is being built onto a base that already reaches most children: [84% of under-fives are registered at birth and 66% hold a birth certificate](https://www.wearetech.africa/fr/fils/actualites/tech/burundi-l-etat-civil-se-numerise-pour-renforcer-l-identite-des-citoyens), cited by government on Africa Civil Registration Day. The gap between the two figures is the one the platform has to close.
+
+The finance ministry's procurement plan for 2026-27 [puts BIF 8.90bn on recruiting a contractor to set up a national digital identity system, by open international tender with award scheduled for 27 September](https://armp.gov.bi/wp-content/uploads/2026/08/PPM-finances-budgetaire-2026-2027-final.docx-Revise1.pdf). No award is on file, and the plan does not say how the contract relates to the biometric card already declared technically ready.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -82,11 +84,15 @@ At the counter, none of that reaches the constraint. Traders at Karusi [report t
 The register, not the card, is what carries the right to vote. The electoral commission [said more than one million new voters are expected for the 2027 presidential election, with partial registration planned for October 2026 in more than 4,000 centres that will also serve as polling stations, targeting those under 18 at the 2025 registration and citizens returned since 2025](https://www.sosmediasburundi.org/en/2026/09/03/2027-presidential-election-more-than-one-million-new-voters-ceni-accelerates-preparations/), and its president said a voter who loses their card keeps the right to vote provided they are in the electoral database. That is the clearest statement this repository holds of how identity works at the poll here. No register size, audit terms or duplicate-detection method is published.
 
 The obligation behind any future social register is now on the record. An [ordinance of 7 February makes acquisition of the medical assistance card compulsory, a scheme dating from 1984 and reformed in 2012](https://www.iwacu-burundi.org/la-cam-une-avancee-vers-une-protection-sociale-plus-inclusive/), and the account weighs it as a step towards broader social protection. No enrolment count, card format, register or digital component is described — so what exists is a duty to hold a card, and nothing published about the system that would issue or read it.
+
+The same finance ministry plan [provides BIF 2.69bn for a GNSS/CORS positioning network, a national geospatial data infrastructure and cadastre modernisation, and BIF 1.67bn for a secure network linking four land offices to a central data centre](https://armp.gov.bi/wp-content/uploads/2026/08/PPM-finances-budgetaire-2026-2027-final.docx-Revise1.pdf), both by tender. A procurement plan states intent to spend, not a contract.
 <!-- /narrative -->
 ### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->
-The one new management system in the window sits outside the state's own stack. A [digital tool for tracking the institutional performance of Burundi's technical and vocational training centres in real time was validated on 7 August](https://burundi-eco.com/un-nouvel-outil-numerique-pour-moderniser-le-suivi-des-cem-et-cfp/), built by CREOP-Jeunes under the EU-backed Umwuga Akazi project. No deployment date, centre count or custodian ministry is stated, so what the tool will be attached to is not yet on the record.
+One new management system in the window sits outside the state's own stack. A [digital tool for tracking the institutional performance of Burundi's technical and vocational training centres in real time was validated on 7 August](https://burundi-eco.com/un-nouvel-outil-numerique-pour-moderniser-le-suivi-des-cem-et-cfp/), built by CREOP-Jeunes under the EU-backed Umwuga Akazi project. No deployment date, centre count or custodian ministry is stated, so what the tool will be attached to is not yet on the record.
+
+On the revenue side, the finance ministry's procurement plan [provides BIF 6.69bn for an International Traffic Audit Platform to collect revenue on inbound international calls, OTT services and A2P messaging, with a separate feasibility study](https://armp.gov.bi/wp-content/uploads/2026/08/PPM-finances-budgetaire-2026-2027-final.docx-Revise1.pdf). No award is on file.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
