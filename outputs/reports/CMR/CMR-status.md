@@ -1,13 +1,13 @@
 ---
 title: Cameroon: status report
-compiled: 2026-09-19
+compiled: 2026-09-25
 place: CMR
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 8
-sources_cited: 183
-sections_written: 37
+sources_cited: 191
+sections_written: 39
 not_established: 2
 acquire_lines: 59
 ---
@@ -82,6 +82,15 @@ Of the four public service portals assessed in Cameroon, only the social insuran
 Debate happens anyway, and mostly outside state channels. The [51st plenary of the National Episcopal Conference voiced concern in June 2026 at the growing use of artificial intelligence and its effects on society](https://lejour.cm/pleniere-des-eveques-leglise-catholique-se-preoccupe-de-lutilisation-croissante-de-lia/), putting the Catholic Church into the AI argument; [lawmakers including opposition members of parliament criticised the cost and procedural complications of the new identity card in June 2025](https://www.biometricupdate.com/202506/cameroon-lawmakers-criticize-cost-complications-in-new-national-id-system); and the case for [making AI accessible beyond experts and wealthy countries](https://lejour.cm/pourquoi-il-faut-democratiser-lintelligence-artificielle/) has been argued in the press (June 2025). AI itself [entered the October 2025 presidential campaign](https://lejour.cm/presidentielle-2025-quand-lintelligence-artificielle-entre-en-campagne/), with synthetic content in circulation.
 
 ## Finance
+
+### Financial sustainability
+<!-- finance.sustain -->
+
+The [2026 finance law puts FCFA 19.5 billion into the telecoms ministry's programme for a secure and inclusive digital ecosystem](https://www.prc.cm/files/c0/a1/8a/f2384c46567a032046599c65f95c5aa6.pdf), against [FCFA 10.3 billion and FCFA 1.0 billion in 2025 for the development and security programmes it merges](https://minfi.gov.cm/wp-content/uploads/2024/12/loi_n_2024-013-du-23-decembre-2024-portant-loi-de-finances-de-la-republique-du-cameroun.pdf). The 2026 estimates do not print the source of financing against their digital lines (FY2026): [the programme table gives each programme's commitment and payment credits with no split between the Treasury and external lenders](https://www.prc.cm/files/c0/a1/8a/f2384c46567a032046599c65f95c5aa6.pdf).
+
+What the state has put in law is a set of levies. [The 2026 finance law caps the levies assigned to the telecoms regulator ART at FCFA 18.5 billion and to the ICT agency ANTIC at FCFA 8 billion, with anything collected above the caps going to the Treasury](https://www.prc.cm/files/c0/a1/8a/f2384c46567a032046599c65f95c5aa6.pdf), up from [FCFA 15 billion and FCFA 5.5 billion in 2024](https://minfi.gov.cm/wp-content/uploads/2024/01/loi_finances_cameroun_exercice_2024.pdf). [The electronic-security special fund, fed by levies on providers and numbering fees, is held at FCFA 1.5 billion](https://www.prc.cm/files/c0/a1/8a/f2384c46567a032046599c65f95c5aa6.pdf) (2026), the [same as in 2024](https://minfi.gov.cm/wp-content/uploads/2024/01/loi_finances_cameroun_exercice_2024.pdf).
+
+Two service platforms are carried by private partners against revenue rather than the budget. [Impact Palmarès, an Ivorian firm, supplies the foreign ministry's biometric visa system and builds, operates and maintains its Digital Transformation Centre under a public-private partnership running to at least 2032](https://www.biometricupdate.com/202404/cameroon-building-digital-transformation-center-to-manage-digital-consular-services); [the contract was amended in November 2025, by when 411,439 paid visas had brought in FCFA 46.8 billion](https://www.biometricupdate.com/202512/impact-palmares-revises-digital-visa-deal-with-cameroon-gets-secure-document-printing-contract) (September 2025). At Douala, [INNOVENDI finances a 4G/5G network and smart-port systems upfront and pays the port authority an entry fee and fixed and variable fees tied to port activity](https://itweb.africa/article/cameroons-douala-port-seals-5g-agreement/raYAyqorj5xMJ38N) (November 2025).
 
 ### MoUs and other agreements
 <!-- finance.mou -->
@@ -377,3 +386,14 @@ No Gulf state, sovereign fund or Gulf-owned company held a financing, infrastruc
 <!-- geopol.india -->
 
 India's one valued instrument in Cameroon is nineteen years old. The [Pan-African e-Network country accord was signed on 3 September 2007 by the Minister of External Relations, against a commitment from the Government of India of FCFA 1,400,000,000 covering network implementation, recurring costs and five years' maintenance](https://www.minpostel.gov.cm/index.php/fr/les-grands-chantiers/135-presentation-du-projet-panafricain-des-services-en-ligne). Nothing reports what it delivered or whether it still runs. The relationship is live at ministerial level without being live on the ground: India's Commerce and Industry Minister [named digital technologies among areas for expanded cooperation when he met the Prime Minister at WTO MC14 in Yaounde on 26 March 2026](http://www.cameroon-tribune.cm/article.html/75812/en.html/cameroon-india-expanding-cooperation), which is an expression of interest and not an instrument.
+
+### Digital sovereignty
+<!-- geopol.sovereignty -->
+
+[Cameroon's 2024 data-protection law makes every transfer of personal data abroad subject to prior authorisation by the Personal Data Protection Authority, which must first confirm that a legal instrument with the destination country is in force, and fines an unauthorised transfer FCFA 10 million to 50 million](https://prc.cm/en/multimedia/documents/10271-law-n-2024-017-of-23-12-2024-web). Beyond personal data, [the World Bank's 2025 GovTech index records no government cloud policy](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), and state data reaches the state operator's Zamengoe centre agreement by agreement: [the baccalaureate board's examination data are to be held there under a January 2026 agreement with Camtel, in a national cloud Camtel describes as wholly Cameroonian](https://camtel.cm/news/camtel-signs-agreement-with-baccalaureat-board).
+
+The consular system has an exit written into it: [Impact Palmarès builds, operates and maintains the foreign ministry's Digital Transformation Centre, which is to hold all consular data, for the life of its contract before handing it to the government](https://www.biometricupdate.com/202404/cameroon-building-digital-transformation-center-to-manage-digital-consular-services). Whether the state holds the source code and operating skills for the identity card system Augentic runs under its build-operate-transfer contract, or can exit that contract early, was not on record as at September 2026.
+
+The terms on which Camtel's master service agreement with Ethio Telecom, which [covers a sovereign government cloud](https://www.telecomreviewafrica.com/articles/telecom-operators/13523-ethio-telecom-and-camtel-sign-deal-to-drive-cameroons-digital-transformation/), governs data jurisdiction, portability and exit had not been published as at September 2026. [Camtel's talks with Amazon Web Services had settled neither where data would be stored nor the division of responsibilities between the two companies](https://www.ecofinagency.com/news-digital/2407-57711-camtel-explores-cloud-ai-partnership-with-amazon-web-services) (July 2026).
+
+Regionally, [an expert panel at the Central African telecoms regulators' assembly recommended in February 2026 that satellite operators keep citizens' data on the African continent and establish terrestrial gateways within the region](https://techreviewafrica.com/news/4133).

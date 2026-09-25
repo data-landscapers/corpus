@@ -1,13 +1,13 @@
 ---
 title: Egypt: status report
-compiled: 2026-09-23
+compiled: 2026-09-25
 place: EGY
 region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 10
-sources_cited: 178
-sections_written: 37
+sources_cited: 187
+sections_written: 39
 not_established: 0
 acquire_lines: 60
 ---
@@ -78,6 +78,18 @@ Nor are the records there to argue with. There is [no right to information law i
 What scrutiny there is comes through the press and the trade bodies rather than through consultation. Five years into the tax digitisation programme, [practitioners told Al-Borsa that some tax offices still inspect from paper files and ask for documents already filed electronically or held on the authority's databases](https://www.alborsaanews.com/2026/07/29/1982823), and the federation of chambers of commerce running the awareness campaign for the new shop-licensing service is [pressing publicly for every cost to be published and for no agency to levy new fees](https://almalnews.com/2126687/). Parliament's August 2026 debate on social media ran in the opposite direction, a committee deputy calling for [the media regulator to adopt AI-based monitoring in place of human review so that offending content and accounts can be detected and closed immediately](https://gate.ahram.org.eg/daily/News/205673/1175/1025648/%D9%85%D9%84%D9%81-%D8%AE%D8%A7%D8%B5/%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86%D9%88%D9%81%D9%88%D8%B6%D9%89-%D8%A7%D9%84%D8%B3%D9%88%D8%B4%D9%8A%D8%A7%D9%84-%D9%85%D9%8A%D8%AF%D9%8A%D8%A7.aspx).
 
 ## Finance
+
+### Financial sustainability
+<!-- finance.sustain -->
+
+Egypt's 2026/27 budget raised the communications ministry headquarters' appropriation to [23.23 billion pounds](https://assets.mof.gov.eg/files/75b68ce0-b031-11f1-9534-032ecbc6b98c.pdf) from [19.70 billion in 2025/26](https://assets.mof.gov.eg/files/2dcd10b0-96bb-11f0-997e-b35fbf02c1cf.pdf) while its own resources shrank: [other revenues of 5.67 billion pounds and grants of 397.3 million, 7.3 million of them capital grants from international organisations](https://assets.mof.gov.eg/files/75b68ce0-b031-11f1-9534-032ecbc6b98c.pdf), [against other revenues of 8.30 billion the year before](https://assets.mof.gov.eg/files/2dcd10b0-96bb-11f0-997e-b35fbf02c1cf.pdf).
+
+The running costs sit on the ministry's own lines: [its goods-and-services chapter rose to 5.08 billion pounds and its investment chapter to 17.77 billion for 2026/27](https://assets.mof.gov.eg/files/75b68ce0-b031-11f1-9534-032ecbc6b98c.pdf), [from 3.58 billion and 15.76 billion](https://assets.mof.gov.eg/files/2dcd10b0-96bb-11f0-997e-b35fbf02c1cf.pdf). The statistics agency CAPMAS [was appropriated 3.63 billion pounds for 2026/27, 3.29 billion of it investment](https://assets.mof.gov.eg/files/75b68ce0-b031-11f1-9534-032ecbc6b98c.pdf), [against 2.16 billion in 2025/26](https://assets.mof.gov.eg/files/2dcd10b0-96bb-11f0-997e-b35fbf02c1cf.pdf). No outturn against the digital appropriations had been published as at September 2026.
+
+<!-- derived -->
+The domestic-state share of the digital lines read was 99.98% at the appropriated stage in the 2026/27 budget, as in 2025/26, the only external money printed being 7.3 million pounds of international grants. Net of its own revenues and grants, treasury financing of the ministry headquarters rose from about 11.39 billion pounds in 2025/26 to 17.17 billion in 2026/27.
+
+The identity system's development fund carries no treasury money: [the Civil Status System Development Fund finances its whole 2.26 billion pound budget for 2026/27 from its own revenues, with no treasury money, grants or borrowing](https://assets.mof.gov.eg/files/179b5290-b030-11f1-9534-032ecbc6b98c.pdf), [up from 1.73 billion in 2025/26](https://assets.mof.gov.eg/files/62f0e2d0-96bb-11f0-bc58-27f19f10d98b.pdf). On the new E-Court platform part of the charge goes to a private provider: [the justice ministry says the E-Court platform's text-message service is paid to the company contracted to provide it, not to the ministry, and that a digital case file costs what the paper copy did, 150 pounds for the first 50 pages](https://www.almasryalyoum.com/news/details/4359050) (September 2026).
 
 ### MoUs and other agreements
 <!-- finance.mou -->
@@ -406,3 +418,14 @@ The Gulf's place in those rails is therefore a set of planned connections rather
 <!-- geopol.india -->
 
 [Egypt's and India's industry ministers discussed, on the sidelines of the BRICS industry ministers' meeting in Jaipur on 7 August 2026, linking their payment systems and settling trade in local currencies to cut transfer costs](https://sis.gov.eg/en/media-center/news/industry-minister-announces-egypt-s-plans-to-launch-egyptian-indian-industrial-integration-platform/).
+
+### Digital sovereignty
+<!-- geopol.sovereignty -->
+
+Egypt needs US permission to import AI chips while it weighs a Chinese offer for its government AI data centres: [AI chip shipments to Egypt have needed American permission since 2023, and Huawei's tender for those data centres offers 1,408 Ascend 950-series chips for a training cloud and 600 more for two inference clusters on a 12-month build](https://thenextweb.com/news/huawei-egypt-ai-data-centres-ascend-us-consortium) (August 2026).
+
+The hosting policy allows state data on either side of the border: [the World Bank's 2025 GovTech index records Egypt's government-cloud hosting policy as hybrid, inside and outside the country](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). Decisions are being taken system by system. [The Rashid register of state-owned companies is to run on e-Finance's hosting servers, secure storage and computing under a protocol with the Cabinet's State-Owned Enterprises Unit](https://www.cairo.gov.eg/en/news/2026/july/22/676fb4d6d94c47e0ab12e10fe1cc69e5) (July 2026), and [President El-Sisi directed in August 2026 that the highest standards of cybersecurity and digital sovereignty be applied to litigants' data in the City of Justice digital-court project](https://sis.gov.eg/en/media-center/news/president-el-sisi-stresses-need-to-continue-efforts-to-advance-judicial-system/).
+
+The payment rails are majority-owned by the central bank: [the Egyptian Banks Company, which develops and operates the national payments infrastructure including InstaPay, is 54% owned by the central bank](https://www.polity.org.za/article/a-national-payments-utility-the-egyptian-case-study-2025-10-23) (2025). The terms on which the Huawei Cloud region, the September 2026 Egypt–China digital memorandum and the Vodafone–Cassava sovereign AI data centre govern data jurisdiction, portability and exit had not been published as at September 2026.
+
+The state's own model is built on open foundations: [Karnak was made by retraining the latest global open-source models on published Egyptian and Arab data, with running inside Egyptian data centres named as its first objective](https://gate.ahram.org.eg/News/5893918.aspx) (August 2026). Regionally, [the communications ministry took AI governance, digital sovereignty and data protection to the Arab AI summit in Hammamet on 7-10 September 2026](https://fintechgate.net/251952).

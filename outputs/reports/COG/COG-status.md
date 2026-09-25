@@ -1,13 +1,13 @@
 ---
 title: Congo: status report
-compiled: 2026-09-24
+compiled: 2026-09-25
 place: COG
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 4
-sources_cited: 118
-sections_written: 37
+sources_cited: 132
+sections_written: 39
 not_established: 2
 acquire_lines: 35
 ---
@@ -34,7 +34,7 @@ Day-to-day regulation is ARPCE's. It [gave MTN and Airtel two more months in Oct
 ### Data protection
 <!-- gov.protect -->
 
-The authority that Congolese data protection law answers to is still a deliverable of a foreign loan: creating a Personal Data Protection Commission remains among the outputs of the [European Investment Bank's Congo digital transformation loan](https://www.eib.org/en/projects/all/20200039), alongside a national cybersecurity strategy, a CERT and an interoperability framework. Whether the commission is constituted and supervising was not established as at August 2026.
+Congo has named the authority its 2019 data protection law created: [decree n° 2025-538 of 31 December 2025 appoints the twelve members of the national commission for the protection of personal data](https://www.sgg.cg/JO/2026/congo-jo-2026-5-2.pdf), drawn from the Presidency, Parliament, the government, the judiciary, the Cour des comptes, the bar and the national human-rights commission. Standing the commission up is also among the outputs of the [European Investment Bank's Congo digital transformation loan](https://www.eib.org/en/projects/all/20200039), alongside a national cybersecurity strategy, a CERT and an interoperability framework. Whether the commission had begun supervising was not established as at September 2026.
 
 The statute it would enforce has been in force since 25 November 2020. [Loi n°29-2019 of 10 October 2019](https://www.sgg.cg/JO/2019/congo-jo-2019-45.pdf) covers consent, data minimisation, breach notification and controller obligations, and classifies biometric data as sensitive; it [gives data subjects a right of access to their personal data, sets rules on collection, processing, interconnection and transfer, and requires prior authorisation to process biometric data](https://www.sgg.cg/JO/2019/congo-jo-2019-45.pdf); and its [Article 74 requires a breach to be notified to the data protection commission within 72 hours](https://www.sgg.cg/JO/2019/congo-jo-2019-45.pdf), and to the people affected where they are at risk.
 
@@ -70,6 +70,15 @@ The associational conditions around policy debate have narrowed sharply. Freedom
 Where digital policy direction comes from is stated openly rather than consulted on: the finance minister, opening the committee steering the digital transformation of public finances, [presented the digitalisation of the revenue agencies as a demand the president set out in his March 2026 election campaign](https://www.finances.gouv.cg/fr/articles/ouverture-du-copil-de-la-transformation-num%C3%A9rique-de-la-gestion-des-finances-publiques). There is also no independent read on how any of it lands: [none of the governance index's public-perception indicators, which draw on Afrobarometer surveys, carry data for Congo](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-cg.pdf). Even the electoral roll stands apart from the identity estate — [a government minister said in October 2025 that the prerequisites for biometric voter registration had not been met](https://societe.cg/actualites/gouvernance-electorale-reduire-les-couts-des-frais-de-participation-aux-differents-scrutins/).
 
 ## Finance
+
+### Financial sustainability
+<!-- finance.sustain -->
+
+Congo's national data centre, co-financed by the African Development Bank, [stood idle at 95% complete in October 2025 because the government had not released its final counterpart share, and the Chinese contractor Sumec threatened to withdraw](https://www.sikafinance.com/marches/congo-lachevement-du-data-center-national-bloque-par-un-defaut-de-financement-gouvernemental_57001); [works had already slowed for want of government funding in February 2025](https://www.aci.cg/congo-bad-le-dr-kone-salue-les-progres-du-data-center-realises-a-75/).
+
+The 2026 finance law appropriates [XAF 30.14bn to the posts, telecommunications and digital economy programme, and XAF 28.73bn of the ministry's XAF 31.21bn vote is investment](https://sgg.cg/JO/2026/congo-jo-2026-3-3.pdf), against [XAF 23.09bn for the programme in 2025](https://sgg.cg/JO/2024/congo-jo-2024-15-sp.pdf). The 2026 estimates print no financing source against their digital lines (FY2026). The same ministry runs the PATN, whose [World Bank loan runs to 2027](https://projects.worldbank.org/en/projects-operations/project-detail/P175592), and the European programme [runs to 2028](https://www.eib.org/en/projects/all/20200039). By 31 December 2025 the programme had [executed 13.5% of its revised 2025 credits, a rate that excludes personnel](https://www.finances.gouv.cg/fr/download/file/fid/10242).
+
+Own-source money sits in special treasury accounts. The universal-service fund FASUCE, fed by the operators' universal-service contribution, is [appropriated XAF 1bn for 2026](https://sgg.cg/JO/2026/congo-jo-2026-3-3.pdf), [as in 2024](https://sgg.cg/JO/2023/congo-jo-2023-06-sp.pdf); its committee [said in April 2025 that it intended to mobilise 1% of operators' turnover](https://www.journaldebrazza.com/congo-le-fasuce-entend-construire-au-moins-dix-centres-multimedias-cette-annee/). The 2026 law also [assigns 9% of the computer levy to a XAF 3.5bn account for public-finance information systems, and more than doubles the Treasury digital-platform account to XAF 5.97bn](https://sgg.cg/JO/2026/congo-jo-2026-3-3.pdf). A [tax on newly imported SIM-equipped phones and tablets, created by the 2026 finance law, took effect on 1 June 2026, and the digital-economy agency ADEN says it will finance digital infrastructure](https://www.adiac-congo.com/content/assemblee-nationale-presentation-de-la-taxe-sur-les-nouveaux-terminaux-numeriques-cartes-sim). [Homologating each e-invoicing terminal model or software version costs XAF 5m, split 75% to the state, 15% to the security agency ANSSI and 10% to the standards agency ACONOQ](https://sgg.cg/JO/2026/congo-jo-2026-29-4.pdf) (July 2026). The government has also [allocated an additional US$3m of its own to upgrade PATN connectivity sites to 4G](https://techafricanews.com/2025/10/15/congo-expands-high-speed-internet-access-with-20-operational-connectivity-sites/) (October 2025).
 
 ### MoUs and other agreements
 <!-- finance.mou -->
@@ -361,3 +370,16 @@ The Gulf relationship is a trade framework that names digital and delivers nothi
 <!-- geopol.india -->
 
 India's digital presence is one node and one acquisition. [India's own country brief records tele-education, telemedicine and a VVIP connectivity node set up in Brazzaville under the Pan-African e-Network Project, and Bharti Airtel's 2010 acquisition of Zain Communications Network, which established its Congolese telecom operations](https://www.mea.gov.in/Portal/ForeignRelation/India-RoC26.pdf). No Indian line of credit or technology services contract for Congo's digital sector is on the record, and the brief itself dates nothing digital after 2010.
+
+### Digital sovereignty
+<!-- geopol.sovereignty -->
+
+Congo has made one national switch the only lawful way to pay the state: an [arrêté of 22 May 2026 makes FOUTA, defined as a national and sovereign payment switch settling direct to the Treasury's account at BEAC, the exclusive channel for public revenue, and voids payment made outside it](https://sgg.cg/JO/2026/congo-jo-2026-24.pdf).
+
+The state has also taken the backbone onto a public balance sheet: [a decree of 6 May 2026 transferred the network built under the three phases of the national coverage project, valued at XAF 143.88bn, to Congo Télécom in full ownership as a capital increase](https://sgg.cg/JO/2026/congo-jo-2026-25.pdf).
+
+On data, the rule governs transfer rather than location. [The 2019 data protection law conditions transfers abroad on an adequate level of protection in the receiving country, with derogations authorised by the commission](https://sgg.cg/JO/2019/congo-jo-2019-45.pdf), and [the 2025 cybersecurity decrees set audit and cryptology regimes](https://sgg.cg/JO/2026/congo-jo-2026-15.pdf). No instrument fixing where state data is held or under whose law it is processed was in force as at September 2026.
+
+The digital ministry's [national architecture places the national data centre beneath identity, exchange and payments as the layer that keeps citizens' data on national territory, and names open-source MOSIP, X-Road and Mojaloop for those three layers](https://numerique.gouv.cg/actualites/architecture-et-digital-public-infrastructure-dpi) (September 2026). Systems already running are hosted unevenly: [the biometric platform shared by the health insurance fund and the social security fund runs on a private cloud for the first and on the second's own servers](https://www.innovatrics.com/wp-content/uploads/2025/09/CS_Multi-Tenant-Biometric-ID-Platform-Transforms-Healthcare-in-Congo_Innovatrics.pdf) (2025). The terms on which the Mühlbauer tax-identity system and the Innovatrics biometric platform govern data jurisdiction, portability and exit had not been published as at September 2026.
+
+Regionally, the [African Development Bank's vice-president proposed in October 2025 that neighbouring countries use the national data centre on competitive terms](https://www.aci.cg/congo-numerique-marie-laure-akin-olugbade-souhaite-voir-les-pays-de-la-sous-region-beneficier-du-datacenter/).

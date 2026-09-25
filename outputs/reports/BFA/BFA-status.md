@@ -1,14 +1,14 @@
 ---
 title: Burkina Faso: status report
-compiled: 2026-09-24
+compiled: 2026-09-25
 place: BFA
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-25
 intersections_read: 9
-sources_cited: 148
-sections_written: 37
-not_established: 2
+sources_cited: 158
+sections_written: 39
+not_established: 1
 acquire_lines: 62
 ---
 ## Governance
@@ -75,6 +75,20 @@ Consultation has followed, if less steeply: the index's [Deliberative & Particip
 The formal channel that remains is the 2015 access-to-information law, and its enforcement body is weak by design: [ANAIP issues only an avis, after which a public body has ten days to say what it has done and its silence confirms the refusal, while binding relief — production of the document, annulment of the refusal, an injunction under astreinte — lies solely with the administrative tribunal, referral to ANAIP being a compulsory precondition to going there](https://www.rti-rating.org/wp-content/uploads/Burkina-Faso.pdf). Regulation of speech has moved the other way: an [organic law of 2023 extended the broadcast regulator's reach to social-media accounts above a follower threshold](https://burkina24.com/2025/02/11/droits-numeriques-au-burkina-faso-le-centre-national-de-presse-norbert-zongo-presente-son-rapport-2024/), and the [organic law adopted on 3 August 2026 would place broadcast-content regulation and personal-data supervision under one authority](https://www.sidwaya.info/surete-aerienne-et-protection-des-donnees-a-caractere-personnel-lassemblee-legislative-du-peuple-adopte-les-projets-de-lois/).
 
 ## Finance
+
+### Financial sustainability
+<!-- finance.sustain -->
+
+[Burkina Faso's 2026 finance law gives the digital ministry 23.3 billion FCFA of grant and loan capital, all of it in the WURI identity programme and PACTDIGITAL, against 1.24 billion FCFA of investment the state finances alone](https://budgetouvert.wordpress.com/wp-content/uploads/2026/01/loi-de-finances-pour-lexecution-du-budget-de-letat-exercice-2026.pdf), up from [15.4 billion FCFA of external capital in the 2025 law](https://budgetouvert.wordpress.com/wp-content/uploads/2025/01/loi-de-finances-pour-lexecution-du-budget-de-letat-exercice-2025.pdf).
+
+<!-- derived -->
+The domestic-state share of the digital lines in Burkina Faso's finance laws, at the appropriated stage, fell from 56.2% for 2024 to 52.0% for 2025 and 39.8% for 2026, as the domestically financed lines eased from 18.2 billion to 15.4 billion FCFA while the externally financed side grew.
+
+The largest domestic line of 2025 was a software debt: [the 2025 law set 4.09 billion FCFA of domestic revenue to pay arrears under the state's agreement with Microsoft, more than all the ministry's other state-only investment together](https://budgetouvert.wordpress.com/wp-content/uploads/2025/01/loi-de-finances-pour-lexecution-du-budget-de-letat-exercice-2025.pdf), and [the 2026 law carries no such line](https://budgetouvert.wordpress.com/wp-content/uploads/2026/01/loi-de-finances-pour-lexecution-du-budget-de-letat-exercice-2026.pdf). Smaller running costs sit on the state's own revenue: [licence renewals for the police cybercrime brigade rose to 40 million FCFA in 2026 from 20 million](https://budgetouvert.wordpress.com/wp-content/uploads/2026/01/loi-de-finances-pour-lexecution-du-budget-de-letat-exercice-2026.pdf), and [operating the two government data centres was costed at about 500 million FCFA over their first three years](https://lefaso.net/spip.php?article143948) (January 2026).
+
+What is voted is not what is spent. [Of 6.64 billion FCFA of domestic investment voted to the digital ministry for 2025, 2.09 billion remained after in-year adjustment, and that was spent in full](https://budgetouvert.wordpress.com/wp-content/uploads/2026/05/rapport-sur-la-situation-dexecution-du-budget-et-de-la-tresorerie-de-letat-exercice-2025-au-31-decembre.pdf).
+
+The one own-source mechanism on record is the universal service fund: [FASU co-finances the 2026 push to connect 750 unserved localities alongside PACTDIGITAL, with Onatel, Orange Burkina Faso and Telecel each called on to co-finance on equal terms with the state](https://africalibertynews.info/burkina-faso-confirms-in-2026-its-resolve-to-make-digital-technology-a-pillar-of-sovereignty/) (September 2026). The external windows close soon — [WURI in 2027](https://projects.worldbank.org/en/projects-operations/project-detail/P169594) and [PACTDIGITAL in 2028](https://projects.worldbank.org/en/projects-operations/project-detail/P177022) — and no plan to carry the systems they finance on the recurrent budget had been published as at September 2026.
 
 ### MoUs and other agreements
 <!-- finance.mou -->
@@ -372,9 +386,22 @@ The European work that does reach digital directly is small and mostly over. [En
 ### Gulf/UAE activities
 <!-- geopol.gulf -->
 
-No Gulf digital investment, data-centre or platform presence and no bilateral technology agreement with a Gulf state was on record in Burkina Faso as at August 2026.
+Burkina Faso's one Gulf digital agreement is a memorandum, not an investment: on 19 September 2025 in Abu Dhabi the digital transition minister [signed a memorandum of understanding with Presight International Services, a subsidiary of the UAE's G42 Group](https://www.connectingafrica.com/digital-inclusion/burkina-faso-uae-s-presight-partner-to-accelerate-digital-transformation), covering [artificial intelligence skills, digital infrastructure, e-government services and cybersecurity](https://techafricanews.com/2025/09/22/burkina-faso-and-uae-forge-digital-cooperation-agreement/). No Gulf investment, data-centre or platform presence in the country was on record as at September 2026.
 
 ### India activities
 <!-- geopol.india -->
 
 India's relationship with Burkina Faso is substantial and almost entirely non-digital. Its Ministry of External Affairs [records a 1994 Joint Commission agreement, ITEC and ICCR training cooperation, lines of credit including US$25 million for rural electrification signed on 29 March 2013, India-Africa Forum grant projects, trade figures and high-level visits](https://www.mea.gov.in/Portal/ForeignRelation/India-Burkina-Faso-26.pdf) (April 2026); the one digital item in it is [Burkina Faso's inclusion in the Pan African e-Network Project](https://www.mea.gov.in/Portal/ForeignRelation/India-Burkina-Faso-26.pdf).
+
+### Digital sovereignty
+<!-- geopol.sovereignty -->
+
+[Burkina Faso's prime minister directed the administration in February 2026 to adopt sovereign digital tools for email and for document management and sharing, replacing third-party solutions progressively](https://lefaso.net/spip.php?article144175), after [the 2025 finance law had set 4.09 billion FCFA to clear arrears under the state's Microsoft agreement](https://budgetouvert.wordpress.com/wp-content/uploads/2025/01/loi-de-finances-pour-lexecution-du-budget-de-letat-exercice-2025.pdf).
+
+Where state data sits is governed by instruction rather than statute: [a prime-ministerial circular tells state bodies to favour national hosting](https://lefaso.net/spip.php?article144800) (March 2026), while [the personal-data law adopted on 3 August 2026 bars transferring sensitive personal data abroad](https://www.sidwaya.info/surete-aerienne-et-protection-des-donnees-a-caractere-personnel-lassemblee-legislative-du-peuple-adopte-les-projets-de-lois/). The registers are moving onto state premises: [the two administration data centres inaugurated in January 2026 are to hold identity, civil-status, public-finance, health and security data under national control, run by Burkinabè engineers](https://lefaso.net/spip.php?article143948), with [a further national data centre planned for 2028](https://lefaso.net/spip.php?article143948).
+
+Control of the systems is written into procurement. [Any platform the administration paid for must have full rights in its source code and documentation assigned to the state before it goes live](https://lefaso.net/IMG/pdf/decret_portant_modalite_de_mise_en_exploitation_des_plateformes_numeriques_de_l_administration_publique.pdf), and the director-general of digital transformation says [the state now refuses black-box platforms and requires skills transfer so ministries can maintain a system after the project ends](https://lefaso.net/spip.php?article144800) (March 2026). [Enrolment for the unique identifier is reserved to public bodies so that fingerprint and iris data stay in national custody](https://www.sidwaya.info/burkina-faso-acceleration-de-la-digitalisation-de-lidentite-et-restructuration-de-la-formation-professionnelle/) (July 2026), though [identity-card production relied on a Canadian firm for remote assistance and training](https://documents1.worldbank.org/curated/en/653431522763079651/ID4D-Country-Diagnostic-Burkina-Faso.pdf) (2017).
+
+The terms on which [the Microsoft agreement](https://budgetouvert.wordpress.com/wp-content/uploads/2025/01/loi-de-finances-pour-lexecution-du-budget-de-letat-exercice-2025.pdf), [the September 2025 memorandum with Presight, a G42 subsidiary](https://www.connectingafrica.com/digital-inclusion/burkina-faso-uae-s-presight-partner-to-accelerate-digital-transformation), and [Cybastion's August 2025 modular data-centre deal](https://www.telecompaper.com/news/cybastion-brings-modular-data-centre-to-burkina-faso-by-road-from-ghana--1545944) govern data jurisdiction, portability and exit had not been published as at September 2026.
+
+The regional layer is the Sahel confederation: [Mali's national data centre, opened in early 2026 before the AES digital ministers, is to host shared AES infrastructure in the short term](https://itweb.africa/article/mali-unveils-modern-tier-iii-data-centre/).

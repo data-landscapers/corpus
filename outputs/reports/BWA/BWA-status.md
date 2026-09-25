@@ -1,13 +1,13 @@
 ---
 title: Botswana: status report
-compiled: 2026-09-24
+compiled: 2026-09-25
 place: BWA
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-02
 intersections_read: 10
-sources_cited: 164
-sections_written: 37
+sources_cited: 172
+sections_written: 39
 not_established: 1
 acquire_lines: 35
 ---
@@ -87,6 +87,18 @@ None of the country's documented channels for citizen participation publishes a 
 Public accountability has held better in the press than in committee. [No body was identified as accountable for the stalled national public key infrastructure when the responsible ministry's permanent secretary pointed the Public Accounts Committee on to the Directorate of Intelligence and Security](https://weekendpost.co.bw/p420-million-digital-bombshell/), and [lawmakers' demands to know how the investment would be recovered and who would be held responsible went unanswered](https://weekendpost.co.bw/p420-million-digital-bombshell/). Meanwhile [the value of data is being argued in the national press through a "data colonialism" lens](https://www.mmegi.bw/blogs/african-politics/the-new-era-of-data-colonialism), and Absa Botswana's managing director used the [Directorate of Public Service Management's 2026 leadership conference to argue that government should simplify processes before digitising them and stop asking citizens for information it already holds](https://businessweekly.co.bw/companies-markets/absas-barclays-separation-offers-lessons-for-botswanas-public-service-reform).
 
 ## Finance
+
+### Financial sustainability
+<!-- finance.sustain -->
+
+[Every digital project in the development half of Botswana's 2026/27 estimates is financed from the Domestic Development Fund, the volume's only external money sitting on HIV, livestock and water lines](https://www.finance.gov.bw/images/Budget-Tables/EXPENDITURE_ESTIMATES_26-27_FINAL_DRAFT.pdf). The 2026/27 recurrent estimates do not print whose money pays for their digital lines (FY2026/27).
+
+<!-- derived -->
+The digital development projects on record come to about P1.75 billion proposed for 2026/27, against about P1.55 billion appropriated for 2025/26 and P2.32 billion for 2024/25.
+
+What is voted is cut before it is spent. [The communications ministry's own ICT project was reduced on revision from P736.6 million to P266.6 million in 2024/25](https://www.finance.gov.bw/images/2025-26/EstimatesofExpenditure_2025-2026_FINAL.pdf), and [the ministry's Development Fund spending for that year came to P514.1 million](https://www.finance.gov.bw/images/Budget-Tables/FINANCIAL_STATEMENTS_TABLES_26-27.pdf). The systems' running costs are steadier: [the Department of Shared Digital Services spent P487.1 million of the P587.3 million voted for 2024/25, and is proposed at P587.3 million again for 2026/27](https://www.finance.gov.bw/images/Budget-Tables/EXPENDITURE_ESTIMATES_26-27_FINAL_DRAFT.pdf).
+
+Own-source financing is in law for connectivity. [The Universal Access and Service Fund draws on a levy of up to 1% of the gross turnover of designated operators and on the regulator's year-end surplus, under the Communications Regulatory Authority Act of 2012](https://www.bocra.org.bw/sites/default/files/sites/default/files/documents/BOTSWANA_UASF_FRAMEWORK_FINAL_VERSION.pdf), and it is [paying for rural school ICT centres such as the P1.45 million laboratory handed over at Makakung in July 2026](https://dailynews.gov.bw/news-detail/92351). [BoFiNet, the state fibre wholesaler that owns the Digital Delta data centre, reported P376 million of revenue and operates without government subvention](https://na.co.bw/bofinet-hosts-agm-showcasing-enhanced-accountability-and-value-creation/) (August 2026).
 
 ### MoUs and other agreements
 <!-- finance.mou -->
@@ -426,3 +438,16 @@ Gulf involvement in Botswana's compute is separate from all of this and predates
 India's KP Group is one of only four financiers on Botswana's record, alongside the World Bank, the European Union and the Government of China; each appears once, and between them they use four different instruments — a memorandum of understanding, a loan and two grants (September 2026).
 
 KP Group's is the memorandum. The Government of Botswana and the Indian group [signed it in an announcement of 17 December 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b68fb6ae-1ae1-40de-aff6-4f7102522673.pdf) to collaborate on large-scale renewable generation, storage and transmission capacity, in what is the largest single external commitment on record for Botswana's energy and digital estate.
+
+### Digital sovereignty
+<!-- geopol.sovereignty -->
+
+[Botswana's communications minister told Kanye District Council in September 2026 that the whole government system is being migrated to a secure government cloud at the Digital Delta Data Centre](https://dailynews.gov.bw/news-detail/93395), the state-owned facility [the government presented at its November 2025 launch as giving the country full sovereign control over its national data](https://dailynews.gov.bw/news-detail/89235).
+
+Where data sits is set in statute. [Section 74 of the Data Protection Act 2024 requires a copy of personal data transferred abroad to remain in Botswana for the period of processing](https://www.datalaw.africa/wp-content/uploads/2024/12/Extraordinary-Gazette-29-10-2024.pdf), and [the minister has said he will amend the Act to compel every business operating in Botswana to store its data in the country](https://www.mmegi.bw/business/govt-moves-to-in-house-local-data/news) (November 2025).
+
+Control of the core systems is thinner than control of the building. [Maintenance and technical support for the national identity system were contracted largely to foreign vendors, with vendor lock-in acknowledged](https://id4d.worldbank.org/sites/id4d/files/2018-04/Botswana_ID4D_DiagnosticWeb040418.pdf) (2018); [the government accounting and budgeting system was restored in December 2024 by a government team working with Oracle's experts](https://dailynews.gov.bw/news-detail/85274); and [the national public key infrastructure meant to anchor digital identity sits with the intelligence service, incomplete and not operating](https://weekendpost.co.bw/p420-million-digital-bombshell/) (July 2026). Whether the state holds the source code and operating skills for the national identity system, or can exit its support contracts, was not on record as at September 2026.
+
+The terms on which [the Ministry of Health's ten-year partnership with Abu Dhabi Health Data Services](https://oncodaily.com/voices/ministry-of-health-botswana-572024) governs data jurisdiction, portability and exit had not been published as at September 2026.
+
+Regionally, [Botswana's data-governance experts joined the UNESCO and Smart Africa workshop in Harare in August 2026 working towards harmonised data rules across southern Africa](https://www.unesco.org/en/articles/unesco-supports-southern-africa-harmonise-data-governance).

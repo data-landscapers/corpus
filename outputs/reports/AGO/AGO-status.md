@@ -1,13 +1,13 @@
 ---
 title: Angola: status report
-compiled: 2026-09-24
+compiled: 2026-09-25
 place: AGO
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-04
 intersections_read: 12
-sources_cited: 240
-sections_written: 37
+sources_cited: 251
+sections_written: 39
 not_established: 0
 acquire_lines: 47
 ---
@@ -84,6 +84,20 @@ Consultation on digital law is real and recent — [the artificial-intelligence 
 Access to the record is the constraint. [A right to information law is graded as in force rather than adopted and dormant (2025)](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), but [disclosure of public records is among Angola's worst-scoring governance measures](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ao.pdf), and [the documentation behind most assessed government systems and oversight functions — the interoperability framework, the national service portal, the digital government mandate, the transformation strategy and the data-protection authority's reporting — is held internally and not published](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update).
 
 ## Finance
+
+### Financial sustainability
+<!-- finance.sustain -->
+
+Angola's 2025 budget law put the national broadband network and the government cloud on the state's own books at scale: [it appropriates Kz 107.8 billion to the national broadband network and Kz 70.5 billion to the analytics platform, main and backup data centres and national cloud platform (FY2025)](https://www.cabri-sbo.org/uploads/bia/Angola_2025_Approval_External_EnactedBudget_MinistryOfFinance_ECCASSADC_Portuguese_2134e2.pdf), against [Kz 1.4 billion and Kz 2.0 billion for the same two lines a year earlier (FY2024)](https://dw.angonet.org/wp-content/uploads/20231229-Lei-n.o-15-23-de-29-de-Dezembro-Orcamento-Geral-do-Estado-de-2024.pdf).
+
+<!-- derived -->
+The digital lines of the 2025 budget law come to Kz 384.4 billion appropriated, up from Kz 142.1 billion in 2024, and those two lines account for most of the rise (FY2025).
+
+[The 2025 law prints its financing split only for the budget as a whole, 20.47% of it external (FY2025)](https://www.cabri-sbo.org/uploads/bia/Angola_2025_Approval_External_EnactedBudget_MinistryOfFinance_ECCASSADC_Portuguese_2134e2.pdf). The 2025 budget law does not print the source of financing against its digital lines (FY2025). No outturn against the digital appropriations had been published as at September 2026.
+
+The externally financed build has a closing date. [The World Bank's US$300 million digital acceleration loan is on IBRD terms, a reference rate plus variable spread with a 0.25% front-end fee](https://documents1.worldbank.org/curated/en/099101524082514729/pdf/P1806931fa73930cd1b2b4110d75d4c2cfc.pdf), and it [closes in March 2030](https://documents1.worldbank.org/curated/en/099061026070543652/txt/P180693-058921d6-9889-4e02-97c2-06851c475610.txt); [the US$210.91 million of digital-state purchases the President authorised between February and August 2026, from public digital infrastructure and digital identity to interoperability, AI and cybersecurity, run through that project](https://angop.ao/noticias/economia/governo-investe-usd-210-milhoes-na-digitalizacao-da-administracao-publica/).
+
+What the state has in law to carry its own share is a levy on the operators. [The communications development fund takes 1% of public telecommunications operators' gross revenue under a 2010 presidential decree](https://lex.ao/docs/presidente-da-republica/2010/decreto-presidencial-n-o-264-10-de-26-de-novembro/), and [the national cybersecurity centre's 2025 statute sends 30% of the revenue it collects, fines included, to a cybersecurity fund](https://lex.ao/docs/presidente-da-republica/2025/decreto-presidencial-n-o-263-25-de-10-de-dezembro/) that no decree had constituted as at September 2026. [The public administration's digital transition agenda, approved by Presidential Decree 178/24 in July 2024, makes financing and sustainability one of its seven axes, to identify funding sources and bring in the private sector](https://lex.ao/docs/presidente-da-republica/2024/decreto-presidencial-n-o-178-24-de-31-de-julho/).
 
 ### MoUs and other agreements
 <!-- finance.mou -->
@@ -417,3 +431,14 @@ What it is built to came from Abu Dhabi as well. The national cloud [originates 
 <!-- geopol.india -->
 
 India's USD 200 million credit line to Angola, announced at the New Delhi state visit of 3 May 2025, is for [modernisation of the armed forces](https://www.pmindia.gov.in/en/news_updates/press-statement-by-pm-during-the-joint-press-statement-with-the-president-of-angola/), not for digital systems; alongside it, and with no figure attached, Prime Minister Modi said India would share its capabilities in digital public infrastructure, space technology and capacity building. That offer [was made with no vendor, figure or timetable attached](https://www.pmindia.gov.in/en/news_updates/press-statement-by-pm-during-the-joint-press-statement-with-the-president-of-angola/).
+
+### Digital sovereignty
+<!-- geopol.sovereignty -->
+
+Angola has begun procuring its first rules on where state data may be hosted and what exit terms suppliers must accept: [terms of reference of March 2026 under the World Bank-financed digital acceleration project commission a national policy and regulation on managing and hosting public data, with hosting rules by data category, from on-premises to conditions for public cloud, minimum contract clauses for suppliers on audit, subcontracting, reversibility and exit, and rules on localisation and transfers](https://c2a.portais.gov.ao/uploads/TDR_Contratacao_de_Servico_de_Consultoria_Apoio_Estrategico_e_Juridico_a810d7f256.pdf). No instrument fixing where state data is held or under whose law it is processed was in force as at September 2026.
+
+The hosting itself is already on national soil. [The US$89 million government cloud at Camama is run by the state IT agency INFOSI, and its twelve modules held Tier III certification in the name of Presight, of the Abu Dhabi G42 group, while the building awaited its own audit (May 2026)](https://expansao.co.ao/empresas/detalhe/data-center-e-cloud-do-governo-tem-a-certificacao-tier-iii-em-banho-maria-72157.html); [a rebuilt backup centre on INFOSI's premises, 48 racks and about 8.5 petabytes, replicates it in real time (August 2026)](https://pti.ao/minttics-conclui-modernizacao-do-centro-de-backup-da-cloud-do-governo/), and [ANGOSAT-2 gives it a further continuity path](https://ggpen.gov.ao/en/news/datacenter-nacional-reforca-capacidade-e-resiliencia-digital-em-angola). The terms on which the December 2021 memorandum with the United Arab Emirates and the agreements with Presight and G42 govern data jurisdiction, portability and exit had not been published as at September 2026.
+
+[The state does not hold the source code of its civil-registration software, which stays locked to its vendor (2024)](https://openknowledge.worldbank.org/bitstreams/d1c06154-9015-4e69-9112-ccf5b7092b4a/download). Whether the state holds the source code and operating skills for the PGIBI identity platform, or can exit its operating contract, was not on record as at September 2026.
+
+The AI layer is being bought the same way: [a US$6 million public-sector AI platform authorised under Despacho Presidencial 342/26 and financed through the World Bank project is framed as giving the state sovereign capacity to adopt, develop and operate AI (September 2026)](https://pti.ao/o-pais-avanca-para-uma-administracao-publica-com-inteligencia-artificial/). The government's own definition is control rather than closure: [the telecommunications minister defined digital sovereignty in August 2026 as the state's capacity to govern its digital space and choose technologies in the national interest, not technological isolation](https://angop.ao/noticias/economia/soberania-digital-do-governo-de-angola-uma-necessidade-que-se-impoe/).

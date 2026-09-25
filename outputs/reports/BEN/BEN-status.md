@@ -1,13 +1,13 @@
 ---
 title: Benin: status report
-compiled: 2026-09-23
+compiled: 2026-09-25
 place: BEN
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 9
-sources_cited: 151
-sections_written: 37
+sources_cited: 159
+sections_written: 39
 not_established: 0
 acquire_lines: 41
 ---
@@ -79,6 +79,18 @@ The channels exist and terminate. [National platforms let citizens and businesse
 Argument about digital policy happens largely outside the state's channels. [Benin hosted the West Africa Feminist Data Summit in Porto-Novo in July 2026, convened by the Réseau des femmes leaders pour le développement on decolonising data, with tracks on digital censorship and shutdowns, technology-facilitated gender-based violence and press freedom](https://rflgd.org/2026/08/02/thanks-to-sida-l-west-africa-feminist-data-summit-2026-%c2%b7-one-hundred-delegates-%c2%b7-twenty-one-countries/), which [produced policy briefs naming regulatory gaps alongside a regional feminist data agenda for 2026-2028](https://rflgd.org/2026/08/02/thanks-to-sida-l-west-africa-feminist-data-summit-2026-%c2%b7-one-hundred-delegates-%c2%b7-twenty-one-countries/). [It adopted the Déclaration de Porto-Novo as a common reference framework for the region's feminist movements](https://beninintelligent.bj/2026/07/30/sommet-feministe-ouest-africain-2026-la-declaration-de-porto-novo-un-referentiel-commun-pour-les-mouvements-feministes-de-la-region/), and sat inside [Nafasi, a Sida-funded continental programme running 2026-2029 to preserve the space in which civil society, journalists and women human rights defenders operate](https://beninintelligent.bj/2026/07/30/sommet-feministe-ouest-africain-2026-la-declaration-de-porto-novo-un-referentiel-commun-pour-les-mouvements-feministes-de-la-region/). Press capacity is growing: [journalists were trained in Cotonou in March 2026 on biometric identity and personal data protection](https://fraternite.bj/identite-biometrique-et-protection-des-donnees-personnelles-le-reja-ds-en-formation-a-cotonou/). Locally, grievances are concrete: [access to civil-status records was under open dialogue in Godomey in June 2026](https://lanation.bj/index.php/actualites/acces-aux-actes-detat-civil-a-godomey-autorites-communales-et-citoyens-en-dialogue-ouvert).
 
 ## Finance
+
+### Financial sustainability
+<!-- finance.sustain -->
+
+Benin has begun working out how its identity agency will pay its own way: [the World Bank-financed WURI project opened recruitment in September 2026 for an international expert to define a sustainable business model for ANIP, with a roadmap covering the financing, operation, maintenance and modernisation of its infrastructure and services](https://www.wearetech.africa/fr/fils/actualites/tech/le-benin-recherche-un-expert-international-pour-renforcer-son-systeme-d-identite-numerique), while [the WURI-2 operation that finances the agency runs to 2027](https://projects.worldbank.org/en/projects-operations/project-detail/P169594).
+
+<!-- derived -->
+National resources carry 71.8% of the digital lines of the 2026 finance law at the appropriation stage, XOF 19.9 billion of XOF 27.8 billion, against 63.2% in 2025 and 73.7% in 2024; in each year the external side is chiefly a loan tranche on the digital programme, XOF 10.0 billion in 2025 and XOF 6.5 billion in 2026.
+
+[The 2026 tranche is a World Bank loan for phase 2 of the national high- and very-high-speed internet project, alongside XOF 1.24 billion of the state's own money on the same activity (2026)](https://budgetbenin.bj/wp-content/uploads/2025/12/PAP-VLF-MND-2026.pdf), and [the same programme puts XOF 2.0 billion of budget money into the digital transformation of local authorities as capital transfers (2026)](https://budgetbenin.bj/wp-content/uploads/2025/12/PAP-VLF-MND-2026.pdf). What is voted is largely spent on the domestic side: [by 31 December 2025 the digital programme's own capital had been ordonnanced at XOF 6.61 billion against XOF 6.24 billion voted, while its loan tranche reached XOF 4.65 billion of XOF 10.04 billion and the digital ministry's support programme 52.8% (2025)](https://budgetbenin.bj/wp-content/uploads/2026/03/RAPEX-au-31-decembre-2025.pdf).
+
+Own-source money reaches the estate through a special allocation account. [The account for modernising the revenue administrations is voted XOF 6.0 billion a year from earmarked revenue, and it took in XOF 4.08 billion in 2024](https://budgetbenin.bj/wp-content/uploads/2025/03/RAPPORT-D-EXECUTION-au-31-12-2024-Final.pdf); [in 2025 it ordonnanced XOF 1.86 billion, 31.1% of its vote](https://budgetbenin.bj/wp-content/uploads/2026/03/RAPEX-au-31-decembre-2025.pdf).
 
 ### MoUs and other agreements
 <!-- finance.mou -->
@@ -391,3 +403,14 @@ One Gulf instrument is held and it has no digital subject. A [UAE minister of st
 <!-- geopol.india -->
 
 India's position rests on a single day of signatures and nothing since. The [joint statement of President Kovind's state visit of 28 to 30 July 2019 records four signed instruments - cultural exchange, telemedicine and tele-education, visa exemption, and export-credit and investment-insurance cooperation - and a US$100 million Indian line of credit](https://www.mea.gov.in/bilateral-documents.htm?dtl%2F31693%2FIndia++Benin+Joint+Statement+during+State+Visit+of+President+to+Benin=). The telemedicine and tele-education memorandum is the digital limb; no infrastructure, platform deployment or later agreement is on the record, and nothing reports what was done under it.
+
+### Digital sovereignty
+<!-- geopol.sovereignty -->
+
+Benin's digital agency has written the exit terms it wants from outside suppliers before any law requires them: [ASIN's June 2026 legal note on generative AI in the administration calls for data-processing agreements, a ban on using administration data to train models, reversibility and full restitution of data, a bar on transfers to jurisdictions exposed to the US Cloud Act or FISA, sovereign hosting on national territory or at an equivalent level of protection, and diversification of suppliers to limit technological dependence](https://www.lanation.bj/actualites/usages-de-lia-dans-ladministration-publique-un-cadre-de-gouvernance-envisage). No instrument fixing where state data is held or under whose law it is processed was in force as at September 2026; [the 2026-2033 programme of the Wadagni–Talata ticket promises a data-localisation law](https://pub-f2abea1e4da540aa9a3e39fedb257f21.r2.dev/PROGRAMME-WADAGNI-TALATA-2026.pdf).
+
+[The national data centre at Abomey-Calavi, 300 square metres, is run by a state-owned telecommunications company](https://www.datacenterdynamics.com/en/news/benin-wants-to-establish-a-secondary-national-data-center/), and [its redundancy site, under a World Bank-funded feasibility study launched in March 2026, need not be in Benin but may be in another country of the region](https://www.datacenterdynamics.com/en/news/benin-wants-to-establish-a-secondary-national-data-center/). The exchange layer is run the same way: [ASIN administers the national data exchange while a national interoperability committee supervises it](https://lanation.bj/numerique/interoperabilite-au-benin-les-regles-dacces-a-xroad-bj).
+
+Some of the state's software runs on vendors' platforms. [Seamfix built the biometric passport renewal application on its own GovSmart platform (December 2025)](https://www.biometricupdate.com/202512/seamfix-revealed-as-developer-of-benins-biometric-passport-renewal-app), and [the state deposit fund CDC Bénin tendered in May 2026 to link its directory to Microsoft Entra ID and harden its Microsoft 365 estate](https://www.cdcb.bj/Appels-d-offre). ASIN's stated answer is spread rather than self-sufficiency: [its director general described Benin's partners in 2024 as a portfolio spanning Estonia, Rwanda, China and France, chosen to avoid dependence on any one](https://www.digitalbusiness.africa/en/marc-andre-loko-benins-digital-strategy-involves-a-diversified-portfolio-of-best-in-class-partners). Whether the state holds the source code for the passport renewal platform, or can exit its operating contract, was not on record as at September 2026.
+
+Across borders, Benin is one of the three states in [Smart Africa's cross-border digital-identity pilot with Rwanda and Ghana](https://www.giz.de/en/newsroom/storys/interview-herken-kone-smart-africa-digital-sovereignty), whose [technical mission in Kigali in April 2026 tested PKI trust chains and API contracts between the three](https://techreviewafrica.com/news/5165/).

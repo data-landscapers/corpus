@@ -1,13 +1,13 @@
 ---
 title: Cape Verde: status report
-compiled: 2026-09-24
+compiled: 2026-09-25
 place: CPV
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 9
-sources_cited: 189
-sections_written: 37
+sources_cited: 195
+sections_written: 39
 not_established: 0
 acquire_lines: 55
 ---
@@ -80,6 +80,18 @@ The consultation machinery exists and is one-directional. There are [platforms f
 On records the two halves have moved in opposite directions: [what a requester can reach has improved over the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-cv.pdf) while [what the state discloses of its own motion has gone backwards](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-cv.pdf), against a government transparency portal [put to public consultation in mid-2025](https://www.governo.cv/portal-da-transparencia-em-consulta-publica/) and [launched in January 2026](https://www.governo.cv/o-lancamento-do-portal-da-transparencia-representa-o-compromisso-do-governo-com-a-responsabilidade-publica-e-com-a-participacao-cidada-na-construcao-de-uma-sociedade-mais-justa-e-aberta/), and an [Open Government Partnership commitment to a national open data portal](https://www.opengovpartnership.org/members/cabo-verde/commitments/CV0004/). The sharpest argument is over official statistics: in late July 2026 the Prime Minister [told Parliament that INE had produced falsified data, and announced an independent evaluation of the institute](https://expressodasilhas.cv/pais/2026/08/03/ine-rejeita-acusacoes-de-manipulacao-de-dados-e-diz-estar-disponivel-para-avaliacao-independente/103949), whose Conselho Directivo [rejected the allegations categorically on 3 August 2026 and offered to host any external evaluation mission or peer review](https://expressodasilhas.cv/pais/2026/08/03/ine-rejeita-acusacoes-de-manipulacao-de-dados-e-diz-estar-disponivel-para-avaliacao-independente/103949).
 
 ## Finance
+
+### Financial sustainability
+<!-- finance.sustain -->
+
+Cabo Verde's 2026 budget law carries [no loan money for its digital-platform programme](https://www.mf.gov.cv/documents/198414/5793427/Lei%20que%20aprova%20o%20OE%202026.pdf), after loan money of [CVE 216.8m in 2025, the World Bank's Digital Cabo Verde loan](https://www.mf.gov.cv/documents/198414/4674538/Lei%20que%20aprova%20o%20OE%202025.pdf) and [CVE 1.24bn in 2024](https://www.mf.gov.cv/documents/198414/3832853/Lei+que+aprova+o+OE+2024.pdf/b399a0a3-3df2-5dd0-d420-fbf1b1ebcd04?version=1.0&t=1707741905701); the [World Bank project itself runs to 2028](https://projects.worldbank.org/en/projects-operations/project-detail/P171099).
+
+<!-- derived -->
+At the appropriated stage the state's own money made up 98.3% of the digital lines read in the 2026 budget, against 96.0% in 2025 and 61.1% in 2024, the lines counted including programmes only partly digital.
+
+Much of what keeps systems running is paid for by charging. Ministries buy services from the state IT enterprise NOSi under protocols [budgeted at CVE 333.3m for 2026](https://nosi.cv/documents/20121/3107159/PAO_2026.pdf.pdf/5abaf142-22e2-b38a-bc5e-ba6f5ddd5e7d); in 2024 those protocols [brought NOSi CVE 456m, and its service revenue reached CVE 1.0bn, 98.4% of plan](https://nosi.cv/documents/20121/3100977/Relat%C3%B3rio%20e%20Contas%20NOSi%20-%202024.pdf/2fe4a66a-1826-4951-4da3-9cce82aef26e). [Decreto-Lei 36/2026 of 21 May 2026 sets the fees for digital public services delivered through the Portal Único, with a 10% reduction for services completed online](https://boe.incv.cv/Bulletins/DownloadAct?id=101439). In the 2026 law [passport, residence-card and registry fees make up CVE 306.5m of the CVE 333.9m budget of the justice modernisation institute IMIJ, and the universal-service fund FUSI is budgeted at CVE 122.1m, as in each of the two previous years](https://www.mf.gov.cv/documents/198414/5793427/Lei%20que%20aprova%20o%20OE%202026.pdf).
+
+One new domestic line has appeared: the [2026 law opens the first dedicated cybersecurity budget unit, at CVE 20m](https://www.mf.gov.cv/documents/198414/5793427/Lei%20que%20aprova%20o%20OE%202026.pdf). What is voted is only partly spent: [the digital-platform programme executed 64.9% of its CVE 568.2m domestic budget in 2024](https://www.mf.gov.cv/documents/198414/5884176/Conta+Geral+do+Estado+2024.pdf).
 
 ### MoUs and other agreements
 <!-- finance.mou -->
@@ -392,3 +404,12 @@ The only Gulf engagement on the record is a declared wish: at [Web Summit Qatar 
 <!-- geopol.india -->
 
 India's engagement of record is a single project, and it is fifteen years old. The [Pan-African e-Network was inaugurated in Praia on 29 July 2010, implemented by the Indian company TCIL with NOSi and financed by the Government of India](https://www.governo.cv/pan-african-e-network-inaugurado-na-praia/), connecting Cabo Verdean institutions over fibre and satellite to a TCIL data centre and studio in New Delhi, to twelve Indian hospitals and seven Indian universities, and to five regional African universities and five hospitals, for tele-education, telemedicine, heads-of-state videoconferencing, internet access, e-government and e-commerce. Nothing on the record reports its operation, its closure or any later Indian line of credit, technical-cooperation record or forum commitment naming Cabo Verde.
+
+### Digital sovereignty
+<!-- geopol.sovereignty -->
+
+Cabo Verde has put a price on printing its own identity documents: the national printer [puts the cost at an estimated CVE 400–500 million, more than CVE 300 million of it its own spending on premises and about CVE 140 million from the EU-funded GESTDOC project, and is seeking ECOWAS and CPLP customers for capacity well beyond national demand](https://www.balai.cv/noticias/imprensa-nacional-producao-de-documentos-de-seguranca-e-um-marco-historico-para-cabo-verde-pca/) (June 2026).
+
+Control of the core systems is written into instruments. [Decreto-Lei 47/2022 makes a prior opinion compulsory before any central-administration purchase of ICT goods or services and requires digital initiatives to align with the state's Autentika identity and PDEX exchange platforms](https://portalconsular.mnec.gov.cv/documents/20126/0/bo_24-11-2022_111+%281%29+%283%29+%281%29.pdf/bb198198-dd51-15b8-ace0-f3ecd7fe4e01?t=1689173293969); [Resolução 46/2025 requires NOSi to give every public-administration information system interfaces to the Portal Único, and gives the government's digital service team the power to make the interoperability framework mandatory](https://www.gov.cv/documents/d/guest/boletim-oficial-47). The state data centre at Achada Grande [was declared critical infrastructure in September 2015, at NOSi's request](https://boe.incv.cv/Bulletins/Download/2070).
+
+The exceptions are the facilities others finance or run. [The Technology Park's second government data centre is to be managed under a public-private concession](https://www.afdb.org/sites/default/files/documents/projects-and-operations/cabo_verde_-technology_park_cvtp_phase_ii_-_project_appraisal_report_0.pdf), and the third phase of the [Chinese-financed Safe City project adds command centres and data centres at Assomada, Tarrafal de Santiago and Porto Novo](https://www.anacao.cv/noticia/2026/08/15/seguranca-china-disponibiliza-a-cabo-verde-financiamento-para-a-terceira-fase-do-pojecto-cidade-segura/) (August 2026). The terms on which the Technology Park data-centre concession and the Safe City agreements govern data jurisdiction, portability and exit had not been published as at September 2026.

@@ -1,14 +1,14 @@
 ---
 title: Eritrea: status report
-compiled: 2026-09-24
+compiled: 2026-09-25
 place: ERI
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-20
 intersections_read: 24
 sources_cited: 106
-sections_written: 37
-not_established: 3
+sections_written: 39
+not_established: 4
 acquire_lines: 19
 ---
 ## Governance
@@ -79,6 +79,11 @@ The channels around that are closed. Article 19 of the 1997 Constitution [guaran
 A UN Commission of Inquiry found in June 2015 that the state [runs a complex, multi-layered system of surveillance of the population inside and outside the country, used to instil fear and keep it under control](https://www.ohchr.org/sites/default/files/Documents/HRBodies/HRCouncil/CoIEritrea/A_HRC_29_CRP-1_Chapter_VI.pdf). Public consultation drafting does exist: [The ABC Journey publishes some eighty consultation drafts of Acts, codes, regulations and rules, prepared against the 1997 Constitution for public debate rather than as enacted law](https://theabcjourney.org/legislature/draftlaws).
 
 ## Finance
+
+### Financial sustainability
+<!-- finance.sustain -->
+
+No fiscal-year budget for the digital estate had been read as at September 2026.
 
 ### MoUs and other agreements
 <!-- finance.mou -->
@@ -380,3 +385,12 @@ No Gulf or Emirati investment in Eritrea's data or digital infrastructure was un
 <!-- geopol.india -->
 
 No Indian government or industry involvement in Eritrea's data and digital sector was under way as at September 2026.
+
+### Digital sovereignty
+<!-- geopol.sovereignty -->
+
+Eritrea owns the code of its newest national system: the ASYCUDA World customs platform inaugurated in January 2026 came with [complete transfer of its source code to the government, and national IT staff had already begun customising it](https://www.undp.org/eritrea/news/eritrea-launches-landmark-digital-customs-system-modernizing-trade). Its [central servers sit in a solar-powered server room serving every customs station over an internal network](https://www.undp.org/eritrea/news/eritrea-launches-landmark-digital-customs-system-modernizing-trade), and a [ten-month programme trained 100 customs officers, IT specialists and clearing agents to operate it](https://www.undp.org/eritrea/news/eritrea-launches-landmark-digital-customs-system-modernizing-trade).
+
+Beyond customs nothing fixes where state data sits: [no data-localisation requirement applies to the storage or processing of personal or government data](https://dataprotection.africa/eritrea/) (2026), and there was [no shared cloud platform for government entities and no government cloud hosting policy](https://digitalidentityindex.com/countries/eritrea/govtech/) (2022). The domestic hosting on the record is small: EriTel's [Nextcloud private-cloud service is hosted entirely in its own data centres](https://eritel.com.er/contents.php?id=1046) (August 2026), and [African Development Bank financing equipped the National Statistics Office with a data centre of its own](https://www.afdb.org/sites/default/files/documents/projects-and-operations/erythree_-_projet_de_renforcement_des_capacites_en_gestion_des_finances_publiques_et_statistiques_-_eer_mars_2026.pdf). Where the six zoba population registers and the identity-card database are hosted, and under whose jurisdiction, had not been published as at September 2026.
+
+The AI layer has no policy over it: Eritrea has [no published AI strategy, no AI law and no AI regulator](https://www.levellers.ai/what-is/ai-regulation-eritrea) (June 2026). Nor is it in the regional layer, sitting [outside IGAD's Eastern Africa Regional Digital Integration Project, the region's programme on data governance and cross-border data flows](https://igad.int/eardip/) (January 2026).

@@ -1,13 +1,13 @@
 ---
 title: Cote d'Ivoire: status report
-compiled: 2026-09-23
+compiled: 2026-09-25
 place: CIV
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 13
-sources_cited: 206
-sections_written: 37
+sources_cited: 217
+sections_written: 39
 not_established: 0
 acquire_lines: 59
 ---
@@ -70,6 +70,22 @@ Expert assessments of how policy gets made are far kinder than the public's. [De
 Consultation on individual projects is narrow: the public consultation for the Grand-Bassam data centre [reached 12 of 15 identified stakeholders and drew opinions from seven](https://www.raxiogroup.com/wp-content/uploads/2026/01/Cote-DIvoire-IVORY-COAST-ESIA-EXECUTIVE-SUMMARY.pdf) (October 2022). Government tends to answer when challenged rather than as routine — the state IT company [published a clarification note defending how the interoperability platform was procured](https://telecom.gouv.ci/new/actualite/146), and what the public knows about the platform comes [through ministerial and press announcements rather than any dashboard or transparency report on its governance and data-sharing agreements](https://cio-mag.com/la-cote-divoire-lance-uxp-une-plateforme-dinteroperabilite-pour-decloisonner-ladministration-publique-a-lhorizon-2027/). Access to the records people would argue from has [improved sharply from a low base, yet accountability and transparency remains the country's worst-scoring governance sub-category, flat over the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ci.pdf).
 
 ## Finance
+
+### Financial sustainability
+<!-- finance.sustain -->
+
+What the state pays Microsoft has more than doubled in two budgets: the [2026 finance law carries FCFA 4.4 billion for Microsoft licences and associated support under the e-GOUV project](https://www.dgbf.ci/wp-content/uploads/2025/12/Loi-de-Finances-2026.pdf), a recurrent line on the budget ministry's own vote, against [FCFA 2.04 billion in the 2024 law](https://www.dgbf.ci/wp-content/uploads/2024/03/Loi-de-Finances-Portant-Budget-de-lEtat-pour-lannee-2024.pdf).
+
+<!-- derived -->
+In 2024 the state's own money carried 88.8% of the FCFA 90.8 billion appropriated to digital lines. Its 68 digital investment lines, voted at FCFA 18.9 billion, closed 2024 at FCFA 27.4 billion spent after in-year revision.
+
+The 2026 estimates do not print the source of financing against their digital lines (FY2026). [The 2026 law splits capital spending between the Treasury and external financing only in aggregate](https://www.dgbf.ci/wp-content/uploads/2025/12/Loi-de-Finances-2026.pdf), and [the 2024 settlement accounts show the digital acceleration project PADCI opened in-year at FCFA 500 million, financed wholly by loan with no Treasury part](https://www.dgbf.ci/wp-content/uploads/2025/12/Rapport-de-presentation-de-la-Loi-de-Reglement-2024.pdf).
+
+What the state has put in law is a levy. [Article 18 of the 2026 finance law funds two special accounts of the digital ministry, fed by earmarked levies and fees: FCFA 33 billion for universal telecommunications service and FCFA 2.58 billion for telecoms regulation](https://www.dgbf.ci/wp-content/uploads/2025/12/Loi-de-Finances-2026.pdf), against [FCFA 35.3 billion and FCFA 4.59 billion in 2025](https://www.dgbf.ci/wp-content/uploads/2025/01/LOI-DE-FINANCE-2025.pdf). The levy undershoots its vote: [in 2024 the rural-technology levy's transfer to the universal-service agency ANSUT was written down in-year from FCFA 32.3 billion to FCFA 24.4 billion, all of it paid](https://www.dgbf.ci/wp-content/uploads/2025/12/Rapport-de-presentation-de-la-Loi-de-Reglement-2024.pdf).
+
+Identity is financed partly outside the Treasury. [ONECI's director-general said in May 2026 that maintenance of the national identity databases is paid from the office's own budget](https://www.linfodrome.com/societe/121311-id4africa-2026-l-oneci-presente-les-avancees-du-systeme-ivoirien-d-identification-numerique), into which the Interior ministry's identification transfer rose from [FCFA 5 billion in 2024](https://www.dgbf.ci/wp-content/uploads/2024/03/Loi-de-Finances-Portant-Budget-de-lEtat-pour-lannee-2024.pdf) to [FCFA 8.79 billion in 2025 and again in 2026](https://www.dgbf.ci/wp-content/uploads/2025/12/Loi-de-Finances-2026.pdf); the audit court [found identity-card and passport fees collected by ONECI and the private SNEDAI outside the state's accounts](https://www.yeclo.com/la-cour-des-comptes-contre-loneci-et-snedai-le-gouvernement-ivoirien-prend-des-mesures) (2022 accounts, reported January 2024).
+
+The minister has put the recurring cost on record: [FCFA 15 to 19 billion a year for equipment upgrades after FCFA 40 to 50 billion of capital spending, which he said calls for public-private co-financing](https://techcabal.com/2025/07/02/tech-ministers-cyber-africa-forum/) (July 2025).
 
 ### MoUs and other agreements
 <!-- finance.mou -->
@@ -397,3 +413,14 @@ A foreign vendor has a hand in Côte d'Ivoire's next national digital strategy: 
 <!-- geopol.india -->
 
 India's recorded involvement is as a lender, past and prospective: [the Grand-Bassam technology zone VITIB, built with an early Export-Import Bank of India loan, was in April 2025 seeking finance from Indian investors and the Export-Import Bank of India for its development plan to 2028](https://www.wearetech.africa/en/fils-uk/news/tech/cote-d-ivoire-vitib-seeks-311-mln-to-accelerate-its-development). No Indian-built system, bilateral digital agreement or training programme was on record as at August 2026.
+
+### Digital sovereignty
+<!-- geopol.sovereignty -->
+
+The state-owned data centre meant to bring Côte d'Ivoire's data home [was due to open in 2027 as at September 2026, offering government bodies cloud hosting, colocation and connectivity](https://www.datacenterdynamics.com/en/news/ivory-coast-targets-launch-of-first-state-owned-data-center-in-2027/), after the digital minister [said in July 2025 that 97% of the country's data was stored abroad](https://techcabal.com/2025/07/02/tech-ministers-cyber-africa-forum/). When the national data centre was launched with Cybastion in December 2023 it was [to host the systems, applications and data of the state and of every public administration body](https://ansut.ci/transition-numerique-la-cote-divoire-abritera-le-plus-grand-data-center-dafrique-de-louest-catalyseur-de-la-transformation-digitale/). The terms on which the Cybastion data-centre contract and [Raxio's memorandum to host government workloads](https://www.connectingafrica.com/data-centers/raxio-to-strengthen-c-te-d-ivoire-s-data-sovereignty-plan) govern data jurisdiction, portability and exit had not been published as at September 2026.
+
+The rule on where state data sits is a strategy, not a law. [The national data governance strategy 2024-2030 requires data classed as critical information infrastructure to be processed and stored inside the country by staff at least 20% Ivorian, keeps non-critical government data in the national data centre or cloud, and allows non-sensitive government data in a public cloud](https://www.telecom.gouv.ci/new/uploads/publications/174196707541.pdf); [it set 2025 for a cloud policy, 2026 for the national data centre and 2027 for a national cloud](https://www.telecom.gouv.ci/new/uploads/publications/174196707541.pdf). [Government systems were hosted partly inside and partly outside government infrastructure](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025).
+
+The data exchange is the one core system whose contract terms are on record: [the state IT company SNDI runs it and presents the Cybernetica contract's complete transfer of skills to its own teams as a guarantee of digital sovereignty](https://telecom.gouv.ci/new/actualite/146). Where the national identity database is hosted, and under whose jurisdiction, had not been published as at September 2026.
+
+For the AI layer, the digital minister [set a target in June 2026 of national compute capacity for artificial intelligence within twelve months, placing sovereignty in control of the data rather than ownership of infrastructure](https://www.fratmat.info/article/2642852/economie/journees-du-droit-du-numerique-2026-la-cote-divoire-ambitionne-de-batir-une-intelligence-artificielle-souveraine). Regionally, [the BCEAO had put out to tender a centralised public key infrastructure covering all eight WAEMU states, Côte d'Ivoire among them](https://www.biometricupdate.com/202607/cote-divoire-launches-national-pki-to-strengthen-digital-sovereignty) (July 2026).

@@ -1,13 +1,13 @@
 ---
 title: Djibouti: status report
-compiled: 2026-09-21
+compiled: 2026-09-25
 place: DJI
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-01
 intersections_read: 25
-sources_cited: 187
-sections_written: 37
+sources_cited: 193
+sections_written: 39
 not_established: 0
 acquire_lines: 21
 ---
@@ -83,6 +83,20 @@ Where the Digital Code is concerned, the engagement came after the fact: [MDENI 
 Public participation in digital policymaking rests on a handful of dated events between April 2022 and February 2026, only some of which put a text to non-state participants before it was settled.
 
 ## Finance
+
+### Financial sustainability
+<!-- finance.sustain -->
+
+Djibouti [cut the 2026 budget of ANSIE, the agency that runs the state's information systems, by 160.6 million Djiboutian francs to 396.1 million, the Council of Ministers citing the creation of the separate cybersecurity authority among its reasons](https://www.presidence.dj/conseil-des-ministres/2025-12-30). [The agency lives chiefly on a state subsidy plus receipts for its services, and its 108.1 million francs of 2026 investment pays for application firewalls, an archiving system, colocation to back up the data centre and the annual support renewals for the data centre's equipment and the X-Road exchange layer, against 267.9 million of staff costs](https://www.presidence.dj/conseil-des-ministres/2025-12-30).
+
+ANSIE was [appropriated 451.7 million francs for 2024](https://www.journalofficiel.dj/texte-juridique/arrete-n2023-189-pre-portant-approbation-du-budget-previsionnel-2024-de-lagence-nationale-des-systemes-dinformation-de-letat/) and [556.8 million for 2025](https://www.journalofficiel.dj/texte-juridique/arrete-n2025-064-pre-portant-approbation-du-budget-previsionnel-2025-de-lagence-nationale-des-systemes-dinformation-de-letat/), and [its 2024 accounts, approved by law in February 2026, show charges of 479.2 million francs against income of 457.1 million](https://www.journalofficiel.dj/texte-juridique/loi-n210-an-25-9eme-l-portant-approbation-des-comptes-financiers-2024-de-lagence-nationale-des-systemes-dinformation-de-letat/). The statistics institute INSTAD [was appropriated 485.7 million francs for 2026, all of it income printed as subsidies](https://www.journalofficiel.dj/texte-juridique/arrete-n2026-041-pr-mefi-portant-approbation-du-projet-de-budget-previsionnel-de-linstitut-de-la-statistique-de-djibouti-instad-pour-lexercice-2026/), [up from 456.9 million in 2025](https://www.journalofficiel.dj/texte-juridique/arrete-n2025-026-pr-mefi-portant-approbation-du-projet-de-budget-previsionnel-de-linstitut-de-la-statistique-de-djibouti-instad-pour-lexercice-2025/). The 2026 estimates print no financing source against their digital lines (FY2026).
+
+<!-- derived -->
+The two digital bodies' appropriations read together rose from 897.6 million francs for 2024 to 1,013.7 million for 2025, up 12.9% at the appropriated stage.
+
+Own-source money exists in law and not yet in practice. [The 2025 Digital Code obliges telecommunications operators to pay the regulator a share of turnover for the digital development of the territory, and creates a Universal Service Fund fed by a further turnover contribution, both at percentages left to regulation (articles 210, 302 and 308)](https://www.journalofficiel.dj/wp-content/uploads/2025/09/code-numerique.pdf); [the fund's draft decree came out of a World Bank-financed mission reviewed on 20 April 2026](https://www.armd.dj/en/blog/a-feedback-meeting-of-the-final-report-regarding-the-universal-service-fund-establishment-74). [The regulator's own 2026 budget of 258.1 million francs draws on spectrum and licence fees and a state subsidy of 139.06 million](https://www.presidence.dj/conseil-des-ministres/2025-12-30).
+
+Some of the state's own money goes straight into digitisation: [it has put funds into digitising public archives since 2023, and putting 126 years of the Journal officiel online was financed by the President](https://www.lanation.dj/djibouti-entre-dans-lere-des-archives-numeriques-le-sgg-et-le-pnud-unissent-leurs-forces-pour-dematerialiser-la-memoire-de-letat/) (August 2026). Connectivity for public institutions is still bought externally: [the World Bank's Digital Foundations Project was finalising the purchase of internet capacity to connect the remaining public institutions in February 2026](https://documents1.worldbank.org/curated/en/099021026071059349/pdf/P174461-c8bd0e28-2653-456e-845a-f8242ec8facc.pdf).
 
 ### MoUs and other agreements
 <!-- finance.mou -->
@@ -446,3 +460,14 @@ Gulf engagement with Djibouti's digital economy shows up so far as a labour-mark
 Djibouti has begun courting Indian industry directly for its AI ambitions. Working through India's ESC export-promotion council, [the government invited Indian AI companies to its National Forum on Artificial Intelligence of 2-3 September 2026, offering visa-support letters and presenting the Forum's official launch of the national AI strategy as a platform for business partnerships, technology collaboration and investment](https://escindia.in/blog/event/national-forum-on-artificial-intelligence-djibouti) (July 2026), placing India alongside China as a courted partner on artificial intelligence.
 
 India's other route in is the cable. The European Commission presented [the EU-Africa-India Digital Corridor, centred on the 11,700 km Blue Raman system landing in Djibouti, India and Oman, as a concrete deliverable under the India-Middle East-Europe Economic Corridor announced at the September 2023 G20 summit in New Delhi](https://global-gateway-forum.ec.europa.eu/news/global-gateway-forum-accelerating-digital-transformation-through-imec-eu-africa-india-digital-2025-10-10_en), with an accompanying memorandum [pairing Europe's GEANT research network with India's National Knowledge Network and Africa's UbuntuNet Alliance for research and education connectivity](https://global-gateway-forum.ec.europa.eu/news/global-gateway-forum-accelerating-digital-transformation-through-imec-eu-africa-india-digital-2025-10-10_en) (October 2025).
+
+### Digital sovereignty
+<!-- geopol.sovereignty -->
+
+Djibouti's 2025 Digital Code writes exit terms into law for one class of data: [a host of health data must hold a certificate from the national cybersecurity authority, and its contract must state where the data is held, how portability and reversibility work, and commit the host to return all the data and destroy its copies at the end (articles 758 and 760)](https://www.journalofficiel.dj/wp-content/uploads/2025/09/code-numerique.pdf).
+
+The rest of the Code governs transfers rather than storage: [personal data may leave the country only for a jurisdiction the data-protection commission judges adequate, or with its authorisation (articles 99 to 102)](https://www.journalofficiel.dj/wp-content/uploads/2025/09/code-numerique.pdf). No instrument fixing where state data is held or under whose law it is processed was in force as at September 2026. The government [told its first national AI forum on 2 September 2026 that it intends to develop national sovereign-cloud and high-performance computing capacity](https://www.lanation.dj/premier-forum-national-sur-lintelligence-artificielle-djibouti-passe-a-laction/), a goal rather than an instrument.
+
+The core systems on record are run by state bodies. [ANSIE's data centre is to hold the secure backup of the digitised state archives](https://www.lanation.dj/djibouti-entre-dans-lere-des-archives-numeriques-le-sgg-et-le-pnud-unissent-leurs-forces-pour-dematerialiser-la-memoire-de-letat/), and [its 2026 budget pays for colocation to back that data centre up and for annual support contracts on its equipment and on X-Road](https://www.presidence.dj/conseil-des-ministres/2025-12-30). [The Interior ministry stores the Mobile ID biometric data exclusively, other institutions reaching it only through encrypted server-to-server requests](https://www.wearetech.africa/en/fils-uk/news/tech/djibouti-officially-launches-mobile-id-digital-identity-platform), and [the central bank owns and operates the SYRAD payment system](https://banque-centrale.dj/infrastructures-ats/).
+
+On AI, [the January 2026 consultation on the draft national strategy covered data governance and digital sovereignty](https://www.unescwa.org/news/developing-national-artificial-intelligence-strategy-djibouti), while the one AI system in state service on record, [China's MAZU-Djibouti 2.0 port weather-alerting system, was handed over with its own terminal in July 2026](https://wmo.int/media/news-from-members/mazu-djibouti-20-delivered-republic-of-djibouti). The terms on which the LinkWise compute memorandum and the Visa Smart Wallet memorandum govern data jurisdiction, portability and exit had not been published as at September 2026. Regionally, [Djibouti's policymakers examined alignment with the African Union Data Policy Framework at a UNESCO workshop in Nairobi in June 2026](https://www.unesco.org/en/articles/strengthening-data-governance-east-africa-regional-workshop-concludes-nairobi).

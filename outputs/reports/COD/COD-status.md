@@ -1,13 +1,13 @@
 ---
 title: DR Congo: status report
-compiled: 2026-09-21
+compiled: 2026-09-25
 place: COD
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 6
-sources_cited: 160
-sections_written: 37
+sources_cited: 171
+sections_written: 39
 not_established: 1
 acquire_lines: 50
 ---
@@ -76,6 +76,18 @@ Access to records is among the country's weakest ground. [Access to and disclosu
 Civil society still intervenes on digital questions and is heard: the ACAJ [publicly welcomed the licensing of Starlink as a corrective to what it called monopoly abuses by incumbent operators](https://actualite.cd/2025/05/05/acaj-salue-lhomologation-de-la-firme-americaine-starlink-pour-mettre-fin-aux-abus-de) (May 2025). The limits of open debate show elsewhere: [access to X and TikTok had been restricted across the country for two days on 3 February 2025, with the media regulator saying it had no precise information on the cause and users routing around it with VPNs](https://actualite.cd/2025/02/03/rdc-acces-restreint-certains-reseaux-sociaux-depuis-deux-jours).
 
 ## Finance
+
+### Financial sustainability
+<!-- finance.sustain -->
+
+<!-- derived -->
+The state's own money carried 73.0% of the CDF 745.4 billion appropriated to digital lines in 2026, against 75.7% of CDF 440.5 billion in 2024; the 2025 amended budget, on its revised figures, put the share at 97.7%.
+
+[The 2026 finance law's external side rests mostly on two lines, CDF 145.0 billion for the AFD-financed digital transformation support project and CDF 43.3 billion for a China-financed modernisation of the finance ministry's communication systems](https://www.budget.gouv.cd/wp-content/uploads/budget2026/lf_2026_depenses_final.pdf); in 2024 [the largest was CDF 95.5 billion for the World Bank's fifth-phase broadband project](https://www.budget.gouv.cd/wp-content/uploads/budget2024/vote/lf_2024_depenses.pdf).
+
+The plan the budget is meant to carry is costed: [the 2026-2030 national digital plan, launched in October 2025, puts US$1 billion of public investment over five years beside US$500 million of external support already secured](https://www.agenceecofin.com/actualites-numerique/1110-132270-la-rdc-prevoit-1-5-milliard-de-budget-pour-son-plan-national-du-numerique-et-de-l-ia-2026-2030). On the state's own resources, [the 2026 law carries CDF 26.8 billion to acquire a national data centre and CDF 20.2 billion for a government intranet](https://www.budget.gouv.cd/wp-content/uploads/budget2026/lf_2026_depenses_final.pdf), against [CDF 48.1 billion and CDF 20.0 billion in 2024](https://www.budget.gouv.cd/wp-content/uploads/budget2024/vote/lf_2024_depenses.pdf).
+
+What the state has put in law is a levy for cybersecurity. [The May 2026 ordinance creating the national cybersecurity agency ANCY funds it from a levy of 3% of the turnover of the cybersecurity firms it certifies, a 10% share of the universal service fund, fees for its services and a sovereign cybersecurity fund, half of which may be spent only in a crisis](https://fr.scribd.com/document/1057825809/J-O-n-special-du-16-juin-2026-ANCY).
 
 ### MoUs and other agreements
 <!-- finance.mou -->
@@ -416,3 +428,14 @@ No Gulf state, sovereign fund or Gulf-owned operator held an identified position
 <!-- geopol.india -->
 
 India's digital contact with DR Congo on the record is a single visit: [a delegation led by a special adviser to the Congolese president met India's payments corporation NPCI, its identity authority UIDAI and the Election Commission in March 2022](https://www.mea.gov.in/Portal/ForeignRelation/India-DRC-Congo-250226.pdf). The rest of the relationship is diplomatic and military — India's Ministry of External Affairs [records decades of ministerial visits, MONUSCO troop contributions and early Congolese signature of the International Solar Alliance Agreement](https://www.mea.gov.in/Portal/ForeignRelation/India-DRC-Congo-250226.pdf) (February 2026) — and no line of credit, training placement or Indian supplier contract touching the digital estate is on the record.
+
+### Digital sovereignty
+<!-- geopol.sovereignty -->
+
+The launch documents of RDC-PASS, the national digital identity platform, [do not say where its biometric data will be hosted, on which territory or under which jurisdiction, who owns the file when Trident's twenty-year concession ends, or what happens if the operator stops first](https://oeildafrique.com/2026/09/17/rdc-pass-identite-numerique/) (September 2026). At the platform's validation phase in March 2025 [the digital minister committed the government to sovereign cloud systems and secure data centres](https://techafricanews.com/2025/04/08/trident-digital-tech-to-power-drcs-national-digital-identity-system/).
+
+The state's own hosting is small and not exclusive: [the government data centre in the Kinshasa-Gombe government building runs on about 400 kVA and is described by the ministry as hosting the public administration's data, but some of that data still sat on private servers when the minister inspected it in July 2025](https://sgptntic.gouv.cd/transition-numerique-le-ministre-augustin-kibassa-maliba-visite-le-data-center-du-gouvernement/). [The World Bank's US$400 million credit of November 2024 authorises centralised government data hosting: a new data centre, a back-up facility and a government cloud](https://documents1.worldbank.org/curated/en/099112624111018132/pdf/P18049515db4520521914f13009abf5b2ec.pdf). Since 30 June 2026 [data centres, cloud platforms and application hosting have needed the digital-economy minister's prior authorisation, granted for five renewable years](https://acp.cd/economie/activites-numeriques-en-rdc-publication-officielle-de-larrete-fixant-les-conditions-dautorisation/).
+
+The revenue systems are being rebuilt with one vendor: [the finance ministry's E-Finance programme, structured with Huawei's support, mobilises more than US$150 million for the digitisation of public finance](https://7sur7.cd/index.php/2026/09/03/rdc-les-recettes-mensuelles-de-la-tva-passent-de-1237-plus-de-1414-millions-grace-aux) (September 2026). Whether the state holds the source code and operating skills for those systems, or can exit its contract with Huawei, was not on record as at September 2026.
+
+[The president named digital and informational sovereignty as one of five pillars of a new national defence doctrine in August 2026](https://www.radiookapi.net/2026/08/21/actualite/politique/felix-tshisekedi-devoile-une-nouvelle-doctrine-de-defense-globale). Regionally, [an expert panel at the Central African telecoms regulators' assembly, meeting in Kinshasa in February 2026, recommended that satellite operators keep citizens' data on the African continent and establish terrestrial gateways within the region](https://techreviewafrica.com/news/4133).

@@ -1,13 +1,13 @@
 ---
 title: Gabon: status report
-compiled: 2026-09-24
+compiled: 2026-09-25
 place: GAB
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 8
-sources_cited: 130
-sections_written: 37
+sources_cited: 139
+sections_written: 39
 not_established: 0
 acquire_lines: 35
 ---
@@ -76,6 +76,18 @@ None of the four public service portals the GovTech Maturity Index assesses in G
 Speech itself is under pressure. [Freedom of Expression and Belief fell 17.0 points over 2014-2023 to 60.1 of 100](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ga.pdf), and [social media had been suspended for nearly five months when the presidency defended the measure as temporary at a Libreville press conference on 17 July 2026](https://www.gabonreview.com/suspension-des-reseaux-sociaux-la-presidence-defend-une-mesure-temporaire/), [rejecting a purely political reading of it and framing it as regulation and protection of the young](https://www.gabonreview.com/suspension-des-reseaux-sociaux-la-presidence-defend-une-mesure-temporaire/). Advocacy has filled some of the vacuum: [APSAD presented a report on civic and digital liberties at Libreville on 25 July 2026, built from two months of consultations with civil-society organisations, journalists, bloggers and digital-sector operators](https://gabonactu.com/blog/2026/07/26/reseaux-sociaux-reguler-dans-le-respect-des-libertes-apsad/), [asking the state to end blanket social-media suspensions, revise provisions of the regulation in force it judges disproportionate, strengthen the Haute Autorité de la Communication's independence and open a standing dialogue with the sector](https://gabonactu.com/blog/2026/07/26/reseaux-sociaux-reguler-dans-le-respect-des-libertes-apsad/). Consultation that does happen leaves little trace: when [the ministry postponed the Kimba Connect final on 6 August 2026 over start-up concerns](https://techafricanews.com/2026/08/06/gabon-postpones-kimba-connect-finale-following-startup-concerns/), [it described the objections only as concerning the programme's organisation, and no start-up was named or quoted](https://techafricanews.com/2026/08/06/gabon-postpones-kimba-connect-finale-following-startup-concerns/), leaving the complaint on the record only through the body it was aimed at.
 
 ## Finance
+
+### Financial sustainability
+<!-- finance.sustain -->
+
+Gabon has put its fibre backbone on private money under state ownership: on 14 September 2026 the state holding SPIN signed [a 20-year public-private partnership with Gabon Fiber S.A., leasing it about 1,800 km of existing network that remains SPIN's property and conceding a 1,700 km extension the company designs, finances, builds and operates](https://agpgabon.ga/gabon-numerique-signature-dun-partenariat-entre-la-spin-et-gabon-fiber-s-a/). [The extensions revert to SPIN at the end of the term and operators get open, non-discriminatory access](https://www.gabonreview.com/gabon-fiber-vers-une-connectivite-plus-etendue-plus-performante-et-plus-accessible/), and the concessionaire [plans to raise more than 41 billion CFA francs on international markets so that the build does not touch the state budget](https://agpgabon.ga/gabon-numerique-gabon-fiber-s-a-ambitionne-de-mobiliser-plus-de-41-milliards-fcfa-pour-construire-1-650-km-de-fibre-optique/) (September 2026).
+
+<!-- derived -->
+Domestic money carries 60.7 per cent of the digital lines in Gabon's 2026 budget as revised by the supplementary law of July 2026, 31.3 billion of 51.6 billion CFA francs, against 52.9 per cent of 48.7 billion in the 2025 finance law as voted.
+
+Much of the domestic side is earmarked receipts rather than tax. The 2026 laws [attribute 6.82 billion CFA francs of spectrum-management receipts to ANINF and 4.01 billion of regulation receipts to ARCEP back to the digital-economy programme, fund 3.81 billion of universal-service spending from a special account, and concede to the data-protection authority 2.92 billion of its levy on data controllers](https://www.dgb-gabon.net/uploads/documentation/Texte%20juridique/178593988623.pdf); the universal-service account is [fed by the universal-service levy, a spectrum fee and ARCEP's receipts](https://www.dgb-gabon.net/uploads/documentation/Texte%20juridique/178748393648.pdf) (2025). Since August 2025 [a ministry that has not sent its annual digitalisation plan can be refused the budget entry and the public contracts for its digital projects](https://journal-officiel.ga/21995-0006-pr-2025-/).
+
+The loans moved the other way in July 2026: the supplementary law [cut the Gabon Digital drawing from 8 billion to 5 billion CFA francs and added a 6 billion commercial loan from Standard Chartered and Citi for a national data centre and other digital works](https://www.dgb-gabon.net/uploads/documentation/Texte%20juridique/178593988623.pdf). The World Bank's Digital Gabon credit [had a closing date of 30 June 2026](https://projects.worldbank.org/en/projects-operations/project-detail/P175987). No outturn against the digital appropriations had been published as at September 2026.
 
 ### MoUs and other agreements
 <!-- finance.mou -->
@@ -357,3 +369,14 @@ The Gulf relationship runs through one firm. The Presidency [records three memor
 <!-- geopol.india -->
 
 India is positioning rather than present. [Its High Commissioner offered scholarships for public servants and a preparatory mission on cooperation in digitalising the public administration, and Gabon's civil service minister proposed framing it as a four-to-five-year capacity-building convention](https://agpgabon.ga/gabon-fonction-publique-linde-se-positionne-pour-accompagner-la-modernisation-de-ladministration-publique/) (April 2026), and India's own [country brief records memoranda on holding a Joint Commission Meeting and on foreign-service training cooperation, an investment memorandum between the Confederation of Indian Industry and Gabon's investment promotion agency, a 2007 housing line of credit and ITEC and ICCR training places](https://www.mea.gov.in/Portal/ForeignRelation/India-Gabon26new.pdf) (April 2026). [Its digital record is the older Pan-African e-network, which set up tele-education and tele-medicine links in Libreville, and a draft memorandum on its e-VBAB successor reviewed in December 2020](https://www.mea.gov.in/Portal/ForeignRelation/India-Gabon26new.pdf).
+
+### Digital sovereignty
+<!-- geopol.sovereignty -->
+
+Gabon's data protection authority has made hosting in the new national data centre a matter of Gabonese law: it [authorised the ST Digital facility, with its main site and a mirror in Haut-Ogooué, after an impact study covering the location, purpose and security of the data it hosts](https://union.sonapresse.com/fr/joel-dominique-ledaga-pour-echanger-directement-avec-meta-tiktok-ou-instagram-il-faut-une-reponse) (September 2026). The starting point was a country where [about 95 per cent of the data generated was hosted abroad](https://www.wearetech.africa/en/fils-uk/news/tech/gabon-launches-14-million-tier-iii-data-center-in-digital-sovereignty-push) (July 2026). A second facility is state-owned: ACE Gabon SA, a state company, is building [a 160-rack Tier III carrier hotel linked to the submarine cables, financed by the local banking sector and due between late November and early December 2026](https://www.gabonreview.com/datacenter-tier-iii-doumba-satisfait-de-lavancement-du-chantier-une-livraison-attendue-entre-novembre-et-decembre/).
+
+The state is writing control into what it builds: the 2025 digitalisation ordinance [requires public digitalisation contracts to carry local-preference or local technological inclusion clauses](https://journal-officiel.ga/21995-0006-pr-2025-/), and the administration.ga platform, built by the local start-up Zaghi Digital with the Centre Gabon Innovation, [leaves ownership of the source code to the administration free of charge](https://gabonmediatime.com/gabon-le-gouvernement-sassocie-au-cgi-pour-la-mise-en-place-de-la-plateforme-administration-ga/) (August 2026). Where the IBOGA biometric register and the identity-card database are hosted, and under whose jurisdiction, had not been published as at September 2026.
+
+The terms on which the Presight memorandum, the Huawei memoranda and the IN Groupe identity-card supply govern data jurisdiction, portability and exit had not been published as at September 2026. The AI layer is at the proposal stage: after a Chinese government delegation's visit, La Poste's Charbonnages site in Libreville was [named as a possible AI data centre for the applications the public administration uses daily, conditional on a Gabon-China partnership being finalised](https://www.gabonreview.com/administration-publique-vers-un-data-center-ia-made-in-gabon-avec-la-chine/) (September 2026).
+
+Regionally, Gabon hosted [Africa CDC's August 2026 workshop that set a roadmap for a convention on cross-border health-data sharing among the nine Central African member states](https://union.sonapresse.com/index.php/fr/africa-cdc-une-feuille-de-route-ambitieuse-pour-le-partage-des-donnees-sanitaires).

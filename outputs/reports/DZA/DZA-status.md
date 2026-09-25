@@ -1,13 +1,13 @@
 ---
 title: Algeria: status report
-compiled: 2026-09-24
+compiled: 2026-09-25
 place: DZA
 region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 11
-sources_cited: 203
-sections_written: 37
+sources_cited: 212
+sections_written: 39
 not_established: 2
 acquire_lines: 58
 ---
@@ -76,6 +76,18 @@ What is under consideration points the other way. The Council of Government [exa
 On access to records the position is improving from a low base. [Accountability & Transparency is one of Algeria's three worst-scoring governance sub-categories at 30.4 of 100 in 2023, 36th of 54 and below its 2014 level](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-dz.pdf), though [disclosure and accessibility of public records both rose over the decade to 2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-dz.pdf). [Published analysis in Le Matin d'Algérie argues that the state digitises its administrative façades faster than it reforms the mechanisms behind them, so duplication persists, data circulates badly and the citizen still bridges administrations that cannot talk to each other](https://lematindalgerie.com/quand-le-digital-masque-limmobilisme-de-letat/).
 
 ## Finance
+
+### Financial sustainability
+<!-- finance.sustain -->
+
+Algeria's 5G licences of November 2025 write a standing digital levy into each operator's terms: [3% of turnover towards financing universal electronic-communications service, 0.3% for research, training and standards, 0.2% for the numbering plan, and 1% of 5G turnover on top of a fixed licence fee](https://www.joradp.dz/FTP/jo-francais/2025/F2025077.pdf). [The tender of 7 September 2026 to bring mobile service to 3,000 localities of fewer than 2,000 people is financed entirely by the state through that universal-service mechanism](https://www.agenceecofin.com/actualites-numerique/0809-141386-algerie-un-nouveau-pas-vers-la-generalisation-des-services-telecoms).
+
+The budget carries the core systems on its own lines. [The interior ministry's programme for digitalising public services was appropriated 303.9 million dinars in payment credits for 2026](https://www.joradp.dz/FTP/jo-francais/2026/F2026002.pdf), [up from 103.9 million in 2025](https://www.joradp.dz/FTP/jo-francais/2025/F2025002.pdf), and [the treasury's line for modernising information systems and payment instruments 707 million](https://www.joradp.dz/FTP/jo-francais/2026/F2026002.pdf), [against 480 million in 2025](https://www.joradp.dz/FTP/jo-francais/2025/F2025002.pdf). The largest line, [identity, titles and secure documents, stood at 12.32 billion dinars for 2026](https://www.joradp.dz/FTP/jo-francais/2026/F2026002.pdf), [against 12.36 billion in 2025](https://www.joradp.dz/FTP/jo-francais/2025/F2025002.pdf). The 2026 estimates print no financing source against their digital lines (FY2026). No outturn against the digital appropriations had been published as at September 2026.
+
+<!-- derived -->
+The digital lines read in the budget rose from 18.98 billion dinars in payment credits for 2024 to 19.56 billion for 2025 and 20.59 billion for 2026, up 5.3% in the latest year, a total that includes lines only partly digital.
+
+Recurrent money reaches below the centre too: [more than 110 million dinars from local authorities' 2026 operating budgets is extending the national address register to the wilaya of Timimoun](https://lavoiedalgerie.dz/timimoun-lancement-de-la-generalisation-du-referentiel-national-dadressage/2026/09/00/).
 
 ### MoUs and other agreements
 <!-- finance.mou -->
@@ -372,3 +384,14 @@ Qatar's Ooredoo group runs one of Algeria's three mobile networks: [its 2025 res
 <!-- geopol.india -->
 
 India had no state or corporate presence in Algeria's technology build through to August 2026.
+
+### Digital sovereignty
+<!-- geopol.sovereignty -->
+
+Every intervention on Algeria's 5G networks must be made from inside the country: [the licences of November 2025 require it to be done from Algerian territory under the licensee's supervision, bar the subcontracting of subscribers' personal-data processing, and let firms outside majority-Algerian ownership supply or work on active infrastructure, the 5G core included, only on a proven shortage of local skills and with the regulator's approval](https://www.joradp.dz/FTP/jo-francais/2025/F2025077.pdf).
+
+Hosting on national territory is written in sector by sector. [Law 26-02 of February 2026 requires all data collected by trust-service providers to be hosted in Algeria, with transfers abroad allowed within their activity (article 27)](https://www.mpt.gov.dz/wp-content/uploads/2026/02/Loi-n%C2%B0-26-02.Services-de-Confiance.Identification-electronique.FR_.pdf), and [the central bank requires every payment service provider to host its payment platform and its redundancies in the country (article 4 of règlement 25-02)](https://www.joradp.dz/FTP/JO-FRANCAIS/2025/F2025028.pdf). For the state itself, [the World Bank's 2025 GovTech index records a government-cloud hosting policy of keeping data inside the country](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update).
+
+The state's own data is moving onto the national estate by agreement, ministry by ministry: [the health ministry signed on 5 December 2025 to take cloud services from the Centre national algérien des services numériques](https://www.aps.dz/fr/algerie/sante-et-environnement/mit3jmwg-signature-d-une-convention-de-cooperation-entre-le-ministere-de-la-sante-et-le-hcn-pour-beneficier-des-services-de-cloud-computing-national). The terms on which the Huawei contracts for the Mohammadia and Blida data centres govern data jurisdiction, portability and exit had not been published as at September 2026.
+
+The AI layer runs on open software: [the national AI school's GPU centre, equipped with H100, L40S and A40 series processors, gives students and researchers model training on open-source software](https://www.mesrs.dz/index.php/en/2025/07/30/) (July 2025). Across the continent, [African ICT ministers adopted in Algiers in December 2025 a declaration on fair digital platforms, calling for coordinated negotiation with global platforms and platform contributions to local infrastructure and skills](https://www.agenceecofin.com/actualites/1112-134196-declaration-d-alger-l-afrique-ebauche-une-regulation-commune-pour-facebook-x-tik-tok-spotify-netflix).

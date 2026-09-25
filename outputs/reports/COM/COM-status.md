@@ -1,13 +1,13 @@
 ---
 title: Comoros: status report
-compiled: 2026-09-15
+compiled: 2026-09-25
 place: COM
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-01
 intersections_read: 10
-sources_cited: 145
-sections_written: 37
+sources_cited: 152
+sections_written: 39
 not_established: 1
 acquire_lines: 24
 ---
@@ -68,6 +68,17 @@ The surrounding trend runs the other way. [The Ibrahim Index's Media Freedom sco
 Institutions for the debate exist mainly on paper. [Articles 58 to 66 of the code create SCEPAC, a holding company supervising and coordinating the public broadcasters](<https://munganyo.km/public/storage/Décret N°26-023PR du 02 fév 2026 portant promul Loi N°25-021AU modifiant et completant le Code Information et de la  Com.pdf>), and outside government [UONI, an association of Comorian diaspora scientists, held a webinar on artificial intelligence on 24 January 2026 whose conclusions called on public research and innovation institutions to lead in defining a clear national AI strategy](https://lagazettedescomores.com/soci%C3%A9t%C3%A9/webinaire-uoni-penser-l%E2%80%99ia-pour-d%C3%A9velopper-les-comores-.html).
 
 ## Finance
+
+### Financial sustainability
+<!-- finance.sustain -->
+
+Comoros's 2026 finance law gives the digital ministry [its first capital line in three years, KMF 50m of state money, and nearly doubles the state transfer to the digital agency ANADEN to KMF 145m](https://finances.gouv.km/wp-content/uploads/2026/01/Decret-N%C2%B026-003PR-du-16-jan-2026-portant-Prom-Loi-25-020AU-portant-Loi-de-Finan.pdf), against [KMF 75m voted for 2025](https://finances.gouv.km/wp-content/uploads/2024/12/Decret-N%C2%B024-186PR-du-19-decembre-2024-portant-promulgation-loi-N%C2%B024-016PR-Portant-Loi-de-Finances-2025.pdf). The finance ministry's systems directorate, [cut to nothing in the 2025 rectificative, returns at KMF 277.1m for 2026, KMF 70m of it state investment](https://finances.gouv.km/wp-content/uploads/2026/01/Decret-N%C2%B026-003PR-du-16-jan-2026-portant-Prom-Loi-25-020AU-portant-Loi-de-Finan.pdf).
+
+The externally built systems sit outside that vote. [The 2025 law printed no donor capital line for the digital ministry](https://finances.gouv.km/wp-content/uploads/2024/12/Decret-N%C2%B024-186PR-du-19-decembre-2024-portant-promulgation-loi-N%C2%B024-016PR-Portant-Loi-de-Finances-2025.pdf), and the [2026 law's annexed external investment programme carries the digitalisation project PADEC on African Development Bank and Islamic Development Bank money, civil-registry modernisation on French money and statistics capacity on World Bank money](https://finances.gouv.km/wp-content/uploads/2026/01/Decret-N%C2%B026-003PR-du-16-jan-2026-portant-Prom-Loi-25-020AU-portant-Loi-de-Finan.pdf). [PADEC's appraisal puts the government's counterpart at UA 1.85m in kind against a total cost of UA 18.47m, and closes the project on 31 December 2028](https://www.gtai.de/resource/blob/1826714/b793fb481cd5b5e28118bdec53f3c97d/PRO202410091826680.pdf). The government data centres it finances are [to be operated, maintained and expanded by a private operator under a public-private partnership](https://www.biometricupdate.com/202410/comoros-to-implement-digital-govt-program-with-10m-afdb-grant) (October 2024).
+
+What is voted is not all spent: [the telecommunications ministry executed KMF 140m of a KMF 613m transfer provision in 2024](https://finances.gouv.km/wp-content/uploads/2025/06/rapport-dexecution-budgetaire-pour-lannee-2024.pdf).
+
+Own-source financing reaches the regulator rather than programmes. The 2023 electronic communications amendment [funds ANRTIC from a regulation tax of 2%, 1% or 0.5% of operators' prior-year turnover by licence class, plus 10% of licence fees and 40% of fines](https://justice.gouv.km/wp-content/uploads/2025/03/decret-n-24-003pr-du-2-fevrier-2024-portant-promulgation-de-la-loi-n-23-024au-portant-modification-de-la-loi-n-14-031au-du-17-mars-2014-relative-aux-communications-electroniques.pdf), in force since February 2024.
 
 ### MoUs and other agreements
 <!-- finance.mou -->
@@ -380,3 +391,12 @@ Comorian engagement with Gulf-hosted policy forums is thinner and more recent. [
 <!-- geopol.india -->
 
 No Indian-financed or India-delivered digital programme was under way in Comoros as at September 2026.
+
+### Digital sovereignty
+<!-- geopol.sovereignty -->
+
+Comoros [validated a national data governance strategy for 2027-2031 on 25 August 2026 whose first axis is data sovereignty, the state setting out to control the production, storage, circulation, use and protection of the data its administration, citizens and economy generate](https://alwatwan.net/societe/gouvernance-des-donn%C3%A9es-i-les-comores-se-dotent-d%E2%80%99une-strat%C3%A9gie-nationale.html); the minister presented it as a foundation for a future national AI policy. The strategy was [built under the AUDA-NEPAD and German-cooperation Africa Data Governance Initiative, which aligns member states with the AU Data Policy Framework](https://www.nepad.org/news/lauda-nepad-sassocie-lunion-des-comores-pour-impulser-la-transformation-numerique). No instrument fixing where state data is held or under whose law it is processed was in force as at September 2026.
+
+State hosting is being built in separate pieces on separate money. The first public-administration data centre [opened on 19 May 2025 under the World Bank-financed RCIP4 project](https://www.habarizacomores.com/2025/05/azali-le-train-est-sur-les-rails-des.html); the finance ministry's AFD-financed PAGF-SI unit [tendered in December 2025 for its own primary and backup data centres with network operations centres](https://finances.gouv.km/appel-doffre/projet-dappui-aux-systemes-dinformation-de-la-gouvernance-financiere-pagf-si/); and the Islamic Development Bank's e-government project [procures the interoperability and data-exchange platform, with a national data centre financed by the African Development Bank](https://www.isdb.org/project-procurement/fr/appels-doffres/2026/gpn/projet-de-modernisation-de-ladministration-publique-comorienne-par-le-bais) (March 2026).
+
+The national payment switch [was awarded to the vendor PayLogic](https://www.wearetech.africa/en/fils-uk/news/tech/comoros-deploys-digital-payment-switch), and [GenKey has taken over identity-document production](https://www.biometricupdate.com/202603/genkey-takes-over-biometric-passport-national-id-card-production-in-comoros). The terms on which the GenKey identity-document contract and the PayLogic payment-switch contract govern data jurisdiction, portability and exit had not been published as at September 2026.

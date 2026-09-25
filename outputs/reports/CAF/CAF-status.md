@@ -1,13 +1,13 @@
 ---
 title: Central African Republic: status report
-compiled: 2026-09-23
+compiled: 2026-09-25
 place: CAF
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-26
 intersections_read: 6
-sources_cited: 96
-sections_written: 37
+sources_cited: 102
+sections_written: 39
 not_established: 3
 acquire_lines: 27
 ---
@@ -66,6 +66,18 @@ There is no designed route into digital policymaking. The country has [no nation
 Participation therefore happens outside the machinery. The overcharging for identity cards was [contested through the courts and on the street, by members of parliament and by a citizens' collective](https://corbeaunews-centrafrique.org/centrafrique-le-prix-des-cartes-didentite-enfin-reduit-apres-cinq-ans-de-violations-criminelle), and stakeholder research records [a perception that the identity system is under foreign control](https://greaterinternetfreedom.org/wp-content/uploads/2023/08/BDI_CAR-FINAL-APPROVED-27.06.2023.pdf), which the [contracting of the card, escaping public-procurement scrutiny](https://greaterinternetfreedom.org/wp-content/uploads/2023/08/BDI_CAR-FINAL-APPROVED-27.06.2023.pdf), does little to dispel. The direction of travel runs the other way: in June 2026 the media regulator framed AI-generated disinformation about the President and officials as cybercrime and proposed [tighter identification of SIM-card holders](https://centranews.org/centrafrique-le-hcc-denonce-lusage-abusif-de-lintelligence-artificielle-pour-la-desinformation/) as the remedy. In September 2026 a presidential decree [created a communication-monitoring cell under the government spokesperson, one of its units dedicated to watching national and international media and social networks and countering rumours](https://www.alwihdainfo.com/centrafrique-le-gouvernement-se-dote-dune-cellule-de-veille-communicationnelle-pour-contrer-les-rumeurs/).
 
 ## Finance
+
+### Financial sustainability
+<!-- finance.sustain -->
+
+[The Central African Republic's 2026 budget puts FCFA 2.5 billion of grant money into the public-sector digital governance project, up from FCFA 1 billion in 2025](http://www.finances.gouv.cf/sites/default/files/2025-11/Projet%20de%20Loi%20de%20Finances%202026%20Version%20AN.pdf), in the year [the World Bank grant behind it closes, on 31 December 2026](https://documents1.worldbank.org/curated/en/283361648600399938/pdf/Central-African-Republic-Public-Sector-Digital-Governance-Project.pdf).
+
+<!-- derived -->
+The domestic-state share of the digital lines in the Central African Republic's budgets, at the appropriated stage, fell from 43.3% for 2025 to 39.9% for 2026, as grant-financed lines rose from about FCFA 4.5 billion to 6.0 billion while domestic lines rose from FCFA 3.4 billion to 4.0 billion.
+
+Much of what the treasury carries is bills. [The digital ministry's 2026 budget sets FCFA 1 billion to pay the invoices of the company V-care, a new FCFA 500 million for those of the company Mossi, FCFA 250 million for the administration's telephone arrears to SOCATEL and FCFA 118 million for six months of 2024 salary arrears at the digital development agency](http://www.finances.gouv.cf/sites/default/files/2025-11/Projet%20de%20Loi%20de%20Finances%202026%20Version%20AN.pdf), against [FCFA 500 million for the V-care invoices in 2025](https://www.finances.gouv.cf/sites/default/files/2024-12/3-%20PLF2025%2004%2012%202024.pdf). No outturn against the digital appropriations had been published as at September 2026.
+
+The one own-source mechanism in law has yet to collect. [A universal service fund financed by a contribution of 2% of operators' previous-year revenue was created by the 2018 electronic communications law and a 2019 decree, and ARCEP listed completing its implementation among its 2026 priorities alongside a draft budget of FCFA 6.2 billion](https://www.agenceecofin.com/actualites-numerique/2104-137723-centrafrique-la-mise-en-uvre-effective-du-fonds-du-service-universel-prevue-pour-2026) (April 2026), of which [the state's transfer is FCFA 1.6 billion](http://www.finances.gouv.cf/sites/default/files/2025-11/Projet%20de%20Loi%20de%20Finances%202026%20Version%20AN.pdf). Private money has entered on its own terms: [the Central African firm EDEN TiiiT pre-financed the early phases of the planning ministry's Dûnîa platform](https://techafricanews.com/2026/03/03/central-african-republic-fully-digitizes-ministry-with-launch-of-dunia-platform/) (March 2026), with no repayment or licence terms published.
 
 ### MoUs and other agreements
 <!-- finance.mou -->
@@ -353,3 +365,16 @@ The Gulf footprint is a single memorandum signed on 30 July 2026. [The Central A
 <!-- geopol.india -->
 
 India held no position in the Central African Republic's digital sector, commercial or governmental, as at August 2026.
+
+### Digital sovereignty
+<!-- geopol.sovereignty -->
+
+The state's firmest recent act of control was over connectivity rather than data: [in April 2026 the digital-economy ministry deactivated Starlink kits roaming in the country without homologation, citing national security and the traceability of users](https://techafricanews.com/2026/04/28/central-african-republic-suspends-starlink-kits-citing-security-and-equipment-traceability-requirements/).
+
+Over data the state has set no rule. [There is no government policy on where government data may be hosted and no shared government cloud](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025), and [the 2024 data protection law lets personal data go to states offering similar protection, with conditions on transfers within CEMAC and ECCAS](https://www.techhiveadvisory.africa/insights/review-of-the-central-african-republic-data-protection-law). No instrument fixing where state data is held or under whose law it is processed was in force as at September 2026.
+
+The core identity system is in private hands. [The national identity card is produced by Al Madina, a company registered in Oman and run by a Lebanese businessman, whose selection led deputies to call the custody of citizens' data a matter of sovereignty](https://www.rfi.fr/fr/afrique/20200821-centrafrique-al-madina-societe-nassour-carte-identite-papiers) (2020), under [a contract that escaped public-procurement scrutiny](https://greaterinternetfreedom.org/wp-content/uploads/2023/08/BDI_CAR-FINAL-APPROVED-27.06.2023.pdf) (2023). [The digital identity system announced in November 2025 is to put identity data under a new national identification office](https://ambition-journal.org/fr/economie/systeme-national-d-identite-numerique-moderniser-l-administration), with deployment from 2027. Where the national identity database is hosted, and under whose jurisdiction, had not been published as at September 2026.
+
+The terms on which [Huawei's programme for a Tier III national data centre and microwave links between ministries](https://mbetimedia.com/2026/06/03/e-gouvernance-la-rca-engage-un-partenariat-strategique-avec-huawei-pour-moderniser-ses-services-publics/), [the SOCATEL privatisation memorandum with Greenline Technologies](https://greenline-tech.com/news/Greenline-Technologies-Awarded-Landmark-Privatization-of-SOCATEL-in-the-Central-African-Republic) and [the AIAL Group data-centre memorandum](https://oubanguimedias.com/2025/01/22/centrafrique-le-gouvernement-signe-un-memorandum-dentente-avec-la-societe-aial-pour-la-construction-dun-centre-de-donnees-numeriques/) govern data jurisdiction, portability and exit had not been published as at September 2026.
+
+Regionally, [a government data centre for the country is one of six new centres an ECCAS programme plans across the community](https://au-pida.org/prospectus/brochure-onepage.php?id=17).

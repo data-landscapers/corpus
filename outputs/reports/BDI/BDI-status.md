@@ -1,13 +1,13 @@
 ---
 title: Burundi: status report
-compiled: 2026-09-24
+compiled: 2026-09-25
 place: BDI
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 28
-sources_cited: 218
-sections_written: 37
+sources_cited: 225
+sections_written: 39
 not_established: 2
 acquire_lines: 44
 ---
@@ -80,6 +80,20 @@ Formal participation channels exist mainly in local government, where the [2014 
 Debate on the newer questions is being carried outside government. The first documented workshop on AI governance and data ethics [was held in Bujumbura in July 2026, convened by ABADAAD, the association of Burundian former DAAD scholarship holders, rather than by a regulator](https://en.irisnews.org/in-burundi-a-quiet-reckoning-with-the-age-of-ai/). On telecoms, the consumer association ABUCO has [proposed états généraux de la communication, bringing authorities, operators, regulators and consumer organisations together to identify the root causes of service failure](https://www.sosmediasburundi.org/2026/07/31/telecoms-en-crise-au-burundi-labuco-denonce-linaction-des-autorites-face-a-la-degradation-des-services/), its president noting that [repeated appeals to the operators by the head of state and members of government have had no observable effect](https://www.sosmediasburundi.org/2026/07/31/telecoms-en-crise-au-burundi-labuco-denonce-linaction-des-autorites-face-a-la-degradation-des-services/). The standing grievance route remains sectoral: [ARCT's free short code 151 and physical suggestion boxes in operator agencies](https://arct.gov.bi/sensibilisation-2/), for telecoms complaints only.
 
 ## Finance
+
+### Financial sustainability
+<!-- finance.sustain -->
+
+Burundi's treasury has taken on two large digital lines of its own in the 2026/27 budget law: [BIF 27.1 billion from national resources for a new digitalisation directorate, BIF 17.4 billion of it for digitalising public services, and BIF 12.0 billion for the state ICT agency SETIC, BIF 10.1 billion of that for equipment (2026/27)](https://finances.gov.bi/index.php/2026/07/04/loi-n-1-10-du-30-juin-portant-fixation-du-budget-general-de-letat-pour-lexercice-2026-2027/), against [BIF 1.8 billion for SETIC a year earlier (2025/26)](https://finances.gov.bi/wp-content/uploads/2025/06/LOI-DE-FINANCES-2025-2026.pdf).
+
+<!-- derived -->
+National resources carry 28.6% of the digital lines of the 2026/27 budget law at the appropriation stage, BIF 78.1 billion of BIF 273.4 billion, up from 24.1% in 2025/26 and 26.2% in 2024/25; the rest is donor project money drawn through the budget (2026/27).
+
+That donor side is two projects: [BIF 105.4 billion for the World Bank-financed digital foundations project (2026/27) and BIF 89.8 billion for the East African Community regional statistics project (2026/27)](https://finances.gov.bi/index.php/2026/07/04/loi-n-1-10-du-30-juin-portant-fixation-du-budget-general-de-letat-pour-lexercice-2026-2027/). [The digital foundations project runs to 2028](https://projects.worldbank.org/en/projects-operations/project-detail/P176396), and [its state counterpart line was BIF 189.3 million in 2025/26 (2025/26)](https://finances.gov.bi/wp-content/uploads/2025/06/LOI-DE-FINANCES-2025-2026.pdf). [Execution of the 2025/26 budget is reported in-year, through the finance ministry's third-quarter return (July 2026)](https://finances.gov.bi/wp-content/uploads/2026/07/CANEVAS-RAPPORT_MFBEN_2025-2026_T3.xlsx).
+
+Own-source money runs through the universal service fund: [its revised 2026/27 procurement plan spends BIF 11.4 billion from the fund's own resources on dedicated internet transit for public health facilities, secondary schools and community telecentres (2026/27)](https://armp.gov.bi/archives/10856), after [BIF 4.8 billion for three pilot digital villages in 2025/26 (2025/26)](https://armp.gov.bi/wp-content/uploads/2025/11/PLAN_PREVISIONNEL__DE_PASSATION_DES_MARCHES_revise__2025-2026-a-publier-le_12_nov_2025.pdf). The state is also buying equity in the backbone: [BIF 2.7 billion for a capital increase in the Burundi Backbone System in 2025/26](https://finances.gov.bi/wp-content/uploads/2025/06/LOI-DE-FINANCES-2025-2026.pdf), and [the same again in 2026/27](https://finances.gov.bi/index.php/2026/07/04/loi-n-1-10-du-30-juin-portant-fixation-du-budget-general-de-letat-pour-lexercice-2026-2027/).
+
+The plan behind it is costed. [The public-services digitalisation master plan prices its programme at USD 111.9 million over 2023-2033 and provides for an e-government fund drawn from the national budget and development partners, to be governed by its own text](https://primature.gov.bi/wp-content/uploads/2026/06/PLAN-DIRECTEUR-DE-DIGITALISATION-2023-2033.pdf).
 
 ### MoUs and other agreements
 <!-- finance.mou -->
@@ -431,3 +445,14 @@ No Gulf state or United Arab Emirates activity in Burundi's digital sector had b
 <!-- geopol.india -->
 
 India's engagement with Burundi's digital sector is at the level of talks. On 22 June 2026 Isidora Ntakiyiruta, adviser to the Ministry of Finance, Budget and Economic Planning, met India's representative to Burundi, Upender Singh Rawat, to [discuss cooperation on digital government services, digital identity and e-payments](https://techafricanews.com/2026/06/26/burundi-and-india-explore-partnership-on-digital-identity-and-e-payments/), framed around public-service delivery and financial inclusion. The subject is whether Burundi can adapt [India's own model of digital identity linked to instant payments](https://www.biometricupdate.com/202606/burundi-looks-to-india-stack-for-digital-id-and-payments-infrastructure) for its national infrastructure; nothing had been agreed or built as at June 2026.
+
+### Digital sovereignty
+<!-- geopol.sovereignty -->
+
+Burundi's social-protection register now runs on open-source software hosted by the state: [the Merankabandi social-protection programme replaced its management information system with the open-source CORE-MIS, hosted by the government at the state ICT agency SETIC, with project and government staff running both production and test environments and local teams trained in setup, deployment and maintenance (January 2026)](https://blogs.worldbank.org/en/nasikiliza/burundi-cash-for-jobs-project-is-embracing-smart-it-for-social-impact). Travel documents went the same way earlier: [production has been entirely nationally operated since the Contec Global contract lapsed, with a new supplier contracted only for production inputs (March 2023)](https://mininterinfos.gov.bi/une-solution-a-la-rupture-des-documents-de-voyage/).
+
+The wider hosting record is older. [Ministry ICT focal points questioned in May 2021 whether SETIC could be trusted with state data, and ministries were then hosting their websites on foreign servers although SETIC offered hosting free](https://www.iwacu-burundi.org/tic-les-institutions-etatiques-pas-tres-rassurees-par-le-setic/). The 2026 data-protection law [restricts transfers of personal data to jurisdictions without adequate protection or approved safeguards](https://dataprotection.africa/burundi/), which binds personal data rather than state data as such. No instrument fixing where state data is held or under whose law it is processed was in force as at September 2026.
+
+[The interior ministry presented the biometric identity platform in May 2026 as ready to produce cards](https://www.burunditimes.com/burundi-unveils-biometric-national-id-system-awaits-law-before-full-rollout/). Where the national identity database is hosted, and under whose jurisdiction, had not been published as at September 2026.
+
+Regionally, Burundi takes part in the East African Community's data work, [calling in June 2026 for harmonised data-exchange frameworks for interoperable cross-border public services](https://finances.gov.bi/index.php/2026/06/26/le-burundi-prend-part-a-la-construction-du-marche-unique-numerique-de-lafrique-de-lest/).

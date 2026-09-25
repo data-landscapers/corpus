@@ -1,13 +1,13 @@
 ---
 title: Ethiopia: status report
-compiled: 2026-09-24
+compiled: 2026-09-25
 place: ETH
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 8
-sources_cited: 170
-sections_written: 37
+sources_cited: 179
+sections_written: 39
 not_established: 1
 acquire_lines: 67
 ---
@@ -84,6 +84,18 @@ Draft copyright amendments have been through [several rounds of consultation wit
 The same reticence runs through the digital estate: [documentation and assessments across the service portal, e-procurement, the coordinating institution, the participation platforms and the feedback channels are held internally and not published](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). Domestic criticism is not absent — an Addis Ababa outlet has [argued that the mandatory design of the national digital ID risks surveillance and exclusion](https://addisstandard.com/coercion-over-consent-ethiopias-dangerous-mandatory-digital-id-experiment/) — and the [European Union committed just under EUR 1 million over 2023–2026 to mobilise civic and digital action against social media hate speech and online incitement to violence](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2023-PC-23737).
 
 ## Finance
+
+### Financial sustainability
+<!-- finance.sustain -->
+
+<!-- derived -->
+Ethiopia's own money, the treasury's and its agencies' retained revenue, carries 79.8 per cent of the digital lines in the 2026/27 federal budget as appropriated, ETB 35.2 billion of ETB 44.1 billion, against 78.4 per cent of ETB 25.0 billion in 2025/26.
+
+The largest single line is fee income: the Immigration and Citizenship Service is to spend [ETB 6.26 billion of its own retained revenue building a modern digital system in 2026/27, beside ETB 1.08 billion from the treasury](https://www.mofed.gov.et/media/filer_public/c1/de/c1de6f52-b57e-4a94-91ff-cc22a2c751b8/2019_e_c_budget_year_goe_federal_budget_proclamation_part_two_updated.xlsx), up from [ETB 698 million of retained revenue in 2025/26](https://www.mofed.gov.et/media/filer_public/69/f5/69f59101-e915-4142-a80b-29d335da1aff/2018_ec_budget_year_goe_federal_budget_proclamation.pdf). The same 2026/27 budget puts [ETB 5 billion of treasury capital into an Artificial Intelligence University and ETB 3.05 billion into a national fibre project, and pays the Communications Authority's ETB 30.1 million data-protection line from its retained revenue](https://www.mofed.gov.et/media/filer_public/c1/de/c1de6f52-b57e-4a94-91ff-cc22a2c751b8/2019_e_c_budget_year_goe_federal_budget_proclamation_part_two_updated.xlsx).
+
+The two largest systems are still paid from outside: the 2026/27 budget carries [ETB 5.41 billion of assistance against ETB 300 million of treasury counterpart for the national identity project, and ETB 3.10 billion of assistance against ETB 5.7 million for the digital health system](https://www.mofed.gov.et/media/filer_public/c1/de/c1de6f52-b57e-4a94-91ff-cc22a2c751b8/2019_e_c_budget_year_goe_federal_budget_proclamation_part_two_updated.xlsx). The identity credit [closes in January 2029](https://projects.worldbank.org/en/projects-operations/project-detail/P179040); the World Bank's March 2026 mission recorded the programme [being operationalised as a state-owned enterprise, FaydaVerse, as its framework for long-term sustainability](https://documents1.worldbank.org/curated/en/099051826153515642/pdf/P179040-74a164c1-0bb2-49b6-8b5f-2da36395da02.pdf), [with ETB 10 billion of authorised and ETB 2.5 billion of paid-up capital inside Ethiopian Investment Holdings](https://www.biometricupdate.com/202603/ethiopias-digital-id-joins-sovereign-wealth-fund-as-weekly-enrollments-reach-1m) (March 2026). United States health-data funding [tapers to US$1.26 million in 2030, with Ethiopia undertaking to meet licensing, cloud and hardware costs](https://www.citizen.org/wp-content/uploads/2026-0004QN-Ethiopia-Health-12.23.2025.pdf).
+
+In 2024/25 the Ministry of Innovation and Technology [spent ETB 990 million of its ETB 2.75 billion vote, 35.9 per cent, while the Digital ID for Inclusion programme, voted nothing, spent ETB 3.06 billion added in-year](https://www.mofed.gov.et/media/filer_public/c4/ed/c4ede8e5-2fc8-419e-8129-c9ddea96364f/fourth_quarter_2017_report.xlsx).
 
 ### MoUs and other agreements
 <!-- finance.mou -->
@@ -401,3 +413,14 @@ No Gulf state or Gulf-based company held a financing commitment, infrastructure 
 <!-- geopol.india -->
 
 Ethiopia's national identity system runs on Indian-incubated code. Fayda is built on [MOSIP, the modular open-source identity platform licensed under MPL 2.0 and incubated at IIIT-Bangalore](https://www.youtube.com/watch?v=B_iGkxWXNbg), and is among its furthest-advanced national deployments — a technical dependency first. The one Indian commitment on the record is a data centre: [India's Ministry of External Affairs awarded RailTel Corporation of India a work order of Rs 19,83,74,494 in December 2025 to establish one inside the Ethiopian foreign ministry's building in Addis Ababa, to be executed by December 2029](https://www.bseindia.com/xml-data/corpfiling/AttachHis/decf0d10-85b8-4b39-8dbc-e292bc521376.pdf). In September 2026 [Ethiopian officials joined a UNDP learning mission to India on its digital public infrastructure](https://youthvillagezm.com/2026/09/african-delegations-explore-indias-digital-public-infrastructure-during-undp-learning-mission/), and [the national payment switch used the Global Fintech Fest in Mumbai to explore links with international payment networks as India pressed to extend its Unified Payments Interface abroad](https://techreviewafrica.com/news/7138/ethswitch-takes-ethiopias-digital-payments-push-to-global-fintech-stage).
+
+### Digital sovereignty
+<!-- geopol.sovereignty -->
+
+Ethiopia's cyber-security agency now runs a government cloud of its own: in April 2026 INSA launched [Gotera Cloud, offering infrastructure, platform, software and backup services to institutions and presented as keeping citizens' and institutions' data within the country's borders](https://www.linkedin.com/posts/information-network-security-administration_digitalethiopia2030-insa-ethiopia-activity-7446822764042293248-2bIo), under a Digital Ethiopia 2030 strategy that includes [the establishment of a sovereign government cloud](https://www.ena.et/web/eng/w/eng_7967007) (December 2025). The rule beneath it covers personal data: since July 2024 [controllers and processors must store locally collected personal data on servers in Ethiopia](https://digitalpolicyalert.org/change/12100-data-localisation-requirements-in-personal-data-protection-proclamation-proclamation-no-13212024). Which workloads the government cloud carries is not public, [its hosting arrangements being held internally](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025).
+
+The identity layer is the state's to change: Fayda [runs on the open-source MOSIP platform with its engineering staffed in-house](https://www.youtube.com/watch?v=B_iGkxWXNbg) (July 2026), and its operator is [a state-owned enterprise inside the sovereign holding company](https://www.biometricupdate.com/202608/faydaverse-officially-enters-africas-dpi-market) (August 2026). The payment switch is [co-owned by the National Bank and 33 payment providers](https://www.africanenda.org/uploads/files/siips2025/siips_2025_EthSwitch-Ethiopia_CaseStudy_en.pdf) (2025). Whether the state holds the source code and operating skills for the payment switch, or can exit its operating contract, was not on record as at September 2026.
+
+The December 2025 health memorandum with the United States is published, and [rests personal-data protection on each side's domestic law, runs its data-sharing arrangement two years beyond the 2030 term, and requires that arrangement to be compatible with Ethiopia's agreements with other countries and bodies](https://www.citizen.org/wp-content/uploads/2026-0004QN-Ethiopia-Health-12.23.2025.pdf). The terms on which Ethio Telecom's cloud, AI and data-centre collaboration with Huawei and the RailTel-built data centre in the foreign ministry govern data jurisdiction, portability and exit had not been published as at September 2026.
+
+For AI, the Artificial Intelligence Institute's director general set out plans for [sovereign cloud infrastructure, a national data lakehouse and indigenous multilingual models, so that national data is stored, governed and processed domestically](https://www.ena.et/web/eng/w/eng_8870155) (May 2026). Regionally, Ethiopia is [one of seven states in IGAD's Eastern Africa Regional Digital Integration Project, whose work covers data governance and cross-border data flows](https://igad.int/eardip/) (January 2026).
