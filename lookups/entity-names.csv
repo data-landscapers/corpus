@@ -346,7 +346,7 @@ aiccra,AICCRA,full,1
 aicto,Arab Information and Communication Technologies Organization,acronym,1
 aiddata,AidData,full,2
 aige-mali,AIGE Article,full,1
-aiib,Asian Infrastructure Investment Bank,acronym,4
+aiib,Asian Infrastructure Investment Bank,acronym,3
 aimf,L'AIMF,full,1
 airbus,Airbus,full,3
 airbus-defence-and-space,Airbus Defence and Space,full,2
@@ -1394,7 +1394,7 @@ china-daily,China Daily,full,1
 china-development-bank,China Development Bank,full,5
 china-disabled-persons-federation,China Disabled Persons' Federation,full,1
 china-electronics-standardization-institute,China Electronics Standardization Institute,full,1
-china-eximbank,China Eximbank,full,4
+china-eximbank,China Eximbank,full,5
 china-international-development-cooperation-agency,China International Development Cooperation Agency,full,1
 china-land-satellite-remote-sensing-application-center,China's Land Satellite Remote Sensing Application,partial,1
 china-meteorological-administration,China Meteorological Administration,full,3
@@ -2782,6 +2782,7 @@ flutterwave,Flutterwave,full,10
 fmcide,FMCIDE,full,3
 fmi,Le FMI,full,1
 fmo,Description FMO,full,2
+fna,Financial Network Analytics,acronym,1
 fnb,First National Bank,acronym,1
 fnb-eswatini,FNB Eswatini,full,1
 focac,FOCAC,full,11
@@ -3108,7 +3109,7 @@ government-in-your-hand,Government In Your Hand,full,4
 government-institutions-pension-fund-namibia,Government Institutions Pension Fund,full,1
 government-of-algeria,Government,full,1
 government-of-angola,Government of Angola,full,3
-government-of-benin,Government of Benin,full,1
+government-of-benin,Government,full,1
 government-of-botswana,Government of Botswana,full,2
 government-of-burundi,Government of Burundi,full,3
 government-of-cameroon,Government of Cameroon,full,2
@@ -3116,7 +3117,7 @@ government-of-chad,E-Government,full,1
 government-of-china,Government of China,full,1
 government-of-comoros,Government of Comoros,full,1
 government-of-djibouti,Government,full,1
-government-of-drc,Government,full,2
+government-of-drc,Government,full,1
 government-of-equatorial-guinea,Government of Equatorial Guinea,full,3
 government-of-eritrea,Government of Eritrea,full,1
 government-of-eswatini,Government of Eswatini,full,1
@@ -3134,7 +3135,7 @@ government-of-lesotho,Government of Lesotho,full,3
 government-of-liberia,Government of Liberia,full,5
 government-of-madagascar,Government of Madagascar,full,2
 government-of-malawi,Government of Malawi,full,6
-government-of-mali,Government of Mali,full,3
+government-of-mali,Government of Mali,full,2
 government-of-mauritania,Government of Mauritania,full,1
 government-of-mauritius,Government of Mauritius,full,2
 government-of-morocco,Government of Morocco,full,2
@@ -3386,7 +3387,7 @@ hustle-academy,Hustle Academy,full,3
 hustle-fund,Hustle Fund,full,1
 hustler-fund,Hustler Fund,full,2
 hustlesasa,HustleSasa,full,1
-hydro-link,HYDRO-LINK,full,2
+hydro-link,HYDRO-LINK,full,1
 hyperfx,HyperFX,full,1
 hyphen-tech,Hyphen Tech,full,1
 hytera,Hytera,full,1
@@ -3553,7 +3554,7 @@ independent-patriots-for-change,Independent Patriots for Change,full,1
 independent-policing-oversight-authority,Independent Policing Oversight Authority,full,1
 independent-procurement-review-panel-sierra-leone,Independent Procurement Review Panel,full,1
 independent-producers-organisation,Independent Producers Organisation,full,1
-india-exim-bank,India Exim Bank,full,4
+india-exim-bank,Exim Bank of India,full,3
 india-foundation,India Foundation,full,1
 india-high-commission-gambia,Indian High Commission,partial,1
 india-ministry-of-external-affairs,Ministry of External Affairs,partial,4
@@ -3878,7 +3879,7 @@ jica,Japan International Cooperation Agency,acronym,6
 jidiiya-fund,JIDIIYA FUND,full,2
 jim-adams,Jim Adams,full,1
 jimmy-opelo,Jimmy Opelo,full,1
-jirama-madagascar,JIRAMA,full,5
+jirama-madagascar,JIRAMA,full,4
 jitume-digital-programme,Jitume Digital Programme,full,1
 jmr-infotech,JMR Infotech,full,1
 jnim,Le Jnim,full,1
@@ -4092,7 +4093,6 @@ korek-super-app-mauritius,Super App KOREK,full,1
 kotani-pay,Kotani Pay,full,1
 kotra,KOTRA,full,1
 kouma-academy,Kouma Academy,full,1
-kp-group,KP Group,full,1
 kpit-technologies,KPIT Technologies,full,1
 kpmg,KPMG International,full,1
 krach-institute-for-tech-diplomacy,Krach Institute for Tech Diplomacy,full,1
@@ -4480,7 +4480,7 @@ mbarara-university-of-science-and-technology-uganda,Mbarara University of Scienc
 mbavaa-partners,Mbavaa Partners,full,1
 mbsse,Ministry of Basic and Senior Secondary Education,acronym,6
 mbtp-sa,MBTP SA,full,1
-mcc,Millennium Challenge Corporation,acronym,7
+mcc,Millennium Challenge Corporation,acronym,6
 mcdf,Le Mcdf,full,1
 mcdr-egypt,Chairperson of MCDR,full,1
 mcenda-chad,MCENDA,full,1
@@ -4740,6 +4740,7 @@ ministry-of-energy-and-petroleum-kenya,Ministry of Energy and Petroleum,full,2
 ministry-of-energy-and-power-development-zimbabwe,Ministry of Energy and Power Development,full,1
 ministry-of-energy-and-public-utilities-mauritius,Ministry of Energy and Public Utilities,full,1
 ministry-of-energy-and-water-resources-somalia,Ministry of Energy and Water Resources,full,4
+ministry-of-energy-sierra-leone,Ministry of Energy,full,2
 ministry-of-energy-sudan,Ministry of Energy,full,2
 ministry-of-energy-tanzania,Ministry of Energy,full,1
 ministry-of-energy-zambia,Ministry of Energy,full,1
@@ -4943,6 +4944,7 @@ ministry-of-local-government-ghana,Ministry of Local Government,full,5
 ministry-of-local-government-liberia,Ministry of Local Government,full,2
 ministry-of-local-government-mauritius,Ministry of Local Government,full,1
 ministry-of-local-government-uganda,Ministry of Local Government,full,1
+ministry-of-minerals-and-energy-botswana,Ministry of Minerals and Energy,full,1
 ministry-of-mines-and-energy-namibia,Ministry of Mines and Energy,full,1
 ministry-of-mines-and-minerals-development-zambia,Ministry of Mines and Minerals Development. Ensure,full,1
 ministry-of-national-defence-algeria,Ministry of National Defence,full,1
@@ -6757,7 +6759,6 @@ sayetech,SAYeTECH,full,1
 saz,Standards Association of Zimbabwe,acronym,2
 sazof-togo,SAZOF,full,1
 sbc-seychelles,Seychelles Broadcasting Corporation,acronym,3
-sbee-benin,SBEE Benin,full,1
 sbm-bank-kenya,SBM Bank,full,1
 sbpe-benin,La SBPE,full,1
 scalar-infrastructure-and-real-assets,Scalar Infrastructure and Real Assets,full,1
@@ -6765,7 +6766,6 @@ scalar-international,Scalar International,full,2
 scaleway,Scaleway,full,1
 scancom-plc,Scancom PLC,full,1
 scatec,Scatec,full,1
-scatec-khobna-pv-power,SCATEC KHOBNA PV POWER SARL,full,1
 scenious-hub,Scenious Hub,full,1
 scenius-hub,Scenius Hub,full,1
 scepac,La SCEPAC,full,1
@@ -7357,7 +7357,7 @@ tareq-muhmood,Tareq Muhmood,full,1
 tarik-dadi,Tarik Dadi,full,1
 tarmiez-information-technology,Tarmiez Information Technology,full,1
 tarms-zimbabwe,TaRMS,full,3
-tasaf,TASAF,full,4
+tasaf,TASAF,full,5
 taslim-okunola,Profile of Taslim Okunola,full,1
 tatu-city,Tatu City,full,2
 tatweer,Tatweer,full,1
