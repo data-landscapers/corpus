@@ -118,8 +118,9 @@ def load_finance(sdir: Path) -> dict:
         "mous": mous,
         "mou_usd_m": mou_usd_m,
         "financiers": len(by_financier),
-        # X-codes are regions (XAF, XSS, XGL…), not countries, so the byline leaves them out.
+        # X-codes are regions (XAF, XSS, XGL…), not countries: the byline counts them apart.
         "places": sum(1 for p in by_place if not p.startswith("X")),
+        "regions": sum(1 for p in by_place if p.startswith("X")),
         "year_min": min(years) if years else None,
         "year_max": max(years) if years else None,
         "top_financiers": by_financier.most_common(15),
@@ -178,7 +179,7 @@ PAGE = """<!DOCTYPE html>
 
 {toc}
 
-    <div class="byline">{deals} commitments &nbsp;·&nbsp; US${total}m &nbsp;·&nbsp; {mous} MoUs &nbsp;·&nbsp; US${mou_total}m &nbsp;·&nbsp; {financiers} financiers &nbsp;·&nbsp; {places} recipient countries &nbsp;·&nbsp; {yr}</div>
+    <div class="byline">{deals} commitments &nbsp;·&nbsp; US${total}m &nbsp;·&nbsp; {mous} MoUs &nbsp;·&nbsp; US${mou_total}m &nbsp;·&nbsp; {financiers} financiers &nbsp;·&nbsp; {places} countries &nbsp;·&nbsp; {regions} regions &nbsp;·&nbsp; {yr}</div>
 
 {non_state_intro}
 
@@ -346,7 +347,7 @@ def render(agg: dict, names: dict, csv_name: str, edition: str,
         table_note=indent(copy("finance", "non-state-table-note")),
         deals=f"{agg['deals'] - agg['mous']:,}", total=f"{agg['total_usd_m'] - agg['mou_usd_m']:,.0f}",
         mous=f"{agg['mous']:,}", mou_total=f"{agg['mou_usd_m']:,.0f}",
-        financiers=f"{agg['financiers']:,}", places=agg["places"], yr=yr,
+        financiers=f"{agg['financiers']:,}", places=agg["places"], regions=agg["regions"], yr=yr,
         jsonld=dataset(agg, csv_name, edition),
         built=date.today().isoformat(), edition=edition,
     )
