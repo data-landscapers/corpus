@@ -118,7 +118,8 @@ def load_finance(sdir: Path) -> dict:
         "mous": mous,
         "mou_usd_m": mou_usd_m,
         "financiers": len(by_financier),
-        "places": len(by_place),
+        # X-codes are regions (XAF, XSS, XGL…), not countries, so the byline leaves them out.
+        "places": sum(1 for p in by_place if not p.startswith("X")),
         "year_min": min(years) if years else None,
         "year_max": max(years) if years else None,
         "top_financiers": by_financier.most_common(15),
