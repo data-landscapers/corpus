@@ -85,6 +85,8 @@ def load_finance(sdir: Path) -> dict:
     """Aggregate all-nonstate.csv. Real; the page that presents it is the TODO."""
     total_usd_m = 0.0
     deals = 0
+    mous = 0
+    mou_usd_m = 0.0
     by_financier: Counter = Counter()          # commitment US$m by financier
     by_place: Counter = Counter()              # deal count by recipient_country
     by_sector: Counter = Counter()             # deal count by sector
@@ -97,6 +99,10 @@ def load_finance(sdir: Path) -> dict:
             except ValueError:
                 amt = 0.0
             total_usd_m += amt
+            # An MoU is not a commitment, so the byline counts it apart (Bill, 2026-09-26).
+            if r.get("instrument") == "MoU":
+                mous += 1
+                mou_usd_m += amt
             if r.get("financier"):
                 by_financier[r["financier"]] += amt
             if r.get("recipient_country"):
@@ -109,6 +115,8 @@ def load_finance(sdir: Path) -> dict:
     return {
         "deals": deals,
         "total_usd_m": total_usd_m,
+        "mous": mous,
+        "mou_usd_m": mou_usd_m,
         "financiers": len(by_financier),
         "places": len(by_place),
         "year_min": min(years) if years else None,
@@ -169,7 +177,7 @@ PAGE = """<!DOCTYPE html>
 
 {toc}
 
-    <div class="byline">{deals} commitments &nbsp;·&nbsp; US${total}m &nbsp;·&nbsp; {financiers} financiers &nbsp;·&nbsp; {places} recipient countries &nbsp;·&nbsp; {yr}</div>
+    <div class="byline">{deals} commitments &nbsp;·&nbsp; US${total}m &nbsp;·&nbsp; {mous} MoUs &nbsp;·&nbsp; US${mou_total}m &nbsp;·&nbsp; {financiers} financiers &nbsp;·&nbsp; {places} recipient countries &nbsp;·&nbsp; {yr}</div>
 
 {non_state_intro}
 
@@ -335,7 +343,8 @@ def render(agg: dict, names: dict, csv_name: str, edition: str,
         artefacts=artefacts, toc=toc("non-state"),
         non_state_intro=indent(copy("finance", "non-state-intro")),
         table_note=indent(copy("finance", "non-state-table-note")),
-        deals=f"{agg['deals']:,}", total=f"{agg['total_usd_m']:,.0f}",
+        deals=f"{agg['deals'] - agg['mous']:,}", total=f"{agg['total_usd_m'] - agg['mou_usd_m']:,.0f}",
+        mous=f"{agg['mous']:,}", mou_total=f"{agg['mou_usd_m']:,.0f}",
         financiers=f"{agg['financiers']:,}", places=agg["places"], yr=yr,
         jsonld=dataset(agg, csv_name, edition),
         built=date.today().isoformat(), edition=edition,

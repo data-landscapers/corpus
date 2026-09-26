@@ -1,6 +1,7 @@
 ## 26 September 2026
 
 - The non-state finance table has been audited record by record and now holds 1,417 deals worth US$90.7bn, down from 1,493 and US$107.0bn: 58 energy, non-digital or unsourced deals and three duplicates are gone, and 15 aggregate pledges or issuer totals whose parts are listed separately no longer count twice. Beneficiary type, sector and instrument are corrected on over 400 deals, and amount quality is now a fixed list of nine values.
+- The finance page now counts memoranda of understanding apart from commitments: 1,406 commitments worth US$79.8bn and 11 MoUs worth US$10.9bn. An MoU is a statement of intent, not money committed.
 - Report findings that cited a deleted deal now cite the document it was built from. Three findings with no other source are withdrawn, in Mozambique, Sierra Leone and South Sudan.
 
 ## 25 September 2026
