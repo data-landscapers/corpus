@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-09-26 11:42 · **BUILD** · unclocked · finance rebuild after notes-for-osint 176: 1,417 deals US$90.7bn; all 27,895 report citations and every ledger source resolve; notes-for-corpus 66-67 closed; notes-for-osint 177 (8 escaped titles) — ok
 2026-09-26 11:12 · **BUILD** · unclocked · finance rebuild after OSINT deal audit (notes-for-corpus 66): 1,467 deals US$97.29bn reproduced; 6 dead citations re-pointed; notes-for-osint 176; render held for OSINT's second pass — ok
 2026-09-25 23:02 · **RENDER** · 20m · 251 reports + home, countries, topics, progress, catalogue, alerts, finance, datasets rendered; R2 3,112 uploaded, 0 pruned; lints clean; deployed — ok
 2026-09-25 22:42 · **REVIEW** · 13m · GHA: status 17 sections revised, progress 8 cells, monthly 19 blocks, finance 2 rows; 3 deals queued, 1 note for OSINT (175) — ok
