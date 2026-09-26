@@ -1080,7 +1080,7 @@
   // **The one fetch the page cannot do without.** Everything above waits on it; the
   // markup the reader is already looking at was written at build time and stands if
   // it never arrives.
-  fetch('data/filter-index.json?v=d10f168c')
+  fetch('data/filter-index.json?v=7d3745aa')
     .then(function(res){ if (!res.ok) throw new Error(res.status); return res.json(); })
     .then(start)
     .catch(function(){
