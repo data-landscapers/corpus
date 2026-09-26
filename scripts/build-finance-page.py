@@ -261,6 +261,19 @@ def deal_year(r):
             return m.group(1)
     return ""
 
+FIRST_YEAR = 2015   # the home page promises commitments "made since 2015" (Bill, 2026-09-26)
+
+def in_window(by_place):
+    """Drop non-state deals whose own year falls before FIRST_YEAR, in place, and return
+    how many went. OSINT keeps the records, which reports still cite; only the dataset,
+    which claims a 2015 start, leaves them out. A deal with no year stays."""
+    dropped = 0
+    for b in by_place.values():
+        keep = [r for r in b["ns"] if not (deal_year(r) and int(deal_year(r)) < FIRST_YEAR)]
+        dropped += len(b["ns"]) - len(keep)
+        b["ns"] = keep
+    return dropped
+
 def aggregate3(ns, dom, fx):
     """Both blocks US$m (ball-park). Domestic converted at the IMF annual average for
     the currency and the fiscal year's START year. Excluded lines are reported apart,
@@ -584,6 +597,7 @@ def main():
         os.makedirs(d, exist_ok=True)
     if arg == "--all":
         by_place = scan_all()
+        print(f"  before {FIRST_YEAR}: {in_window(by_place)} non-state deals left out")
         # A country Corpus has extracted and OSINT holds no finance record for is still a
         # country with a budget export. `scan_all` only sees raw/, so it would be skipped
         # entirely — and the 32 states with no domestic records at all (R58) are exactly the
@@ -597,7 +611,9 @@ def main():
         print(f"wrote CSV exports for {len(by_place)} places to {NONSTATE_OUT}/ and "
               f"{BUDGET_OUT}/ + all-nonstate.csv ({n_all} deals)")
     else:
-        b = scan_all().get(arg, {"ns": [], "dom": []})   # place-based, matches --all exactly
+        by_place = scan_all()
+        in_window(by_place)
+        b = by_place.get(arg, {"ns": [], "dom": []})     # place-based, matches --all exactly
         nn, nd, swaps = build_one(arg, b["ns"], b["dom"], lab, fx)
         print(f"wrote {arg} CSV exports  ({nn} non-state, {nd} domestic)"
               + swap_note(arg, swaps))
