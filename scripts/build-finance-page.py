@@ -249,13 +249,15 @@ def excl_reason(r, a, rate):
     return ""
 
 def deal_year(r):
-    """The deal's own year, which is authoritative (Bill, 2026-09-23): the start year, else the
-    commitment year, else the record's publication year. The summary bucketed by publication
+    """The deal's own year, which is authoritative (Bill, 2026-09-23): the commitment year, else
+    the start year, else the record's publication year. The commitment year leads (Bill,
+    2026-09-26, notes-for-corpus 69): a start before the commitment is not possible, and a top-up
+    loan carrying its project's earlier start is a separate deal dated by its own signing. The summary bucketed by publication
     year while the export printed this, and 114 of 1,453 rows disagreed - a 2022 Comoros grant
     summed under 2025/26. A cell counts only where it opens with a year: five records annotate
     theirs (`2015 (2015-07-06)`) or state none (`*not stated*`), and a bare string made a column."""
     T = r["table"]
-    for v in (T.get("Start year", ""), T.get("Commitment year", ""), r["published"] or ""):
+    for v in (T.get("Commitment year", ""), T.get("Start year", ""), r["published"] or ""):
         m = re.match(r"\s*((?:19|20)\d\d)(?!\d)", v)
         if m:
             return m.group(1)

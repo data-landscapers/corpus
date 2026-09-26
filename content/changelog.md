@@ -3,6 +3,7 @@
 - The non-state finance table has been audited record by record and now holds 1,417 deals worth US$90.7bn, down from 1,493 and US$107.0bn: 58 energy, non-digital or unsourced deals and three duplicates are gone, and 15 aggregate pledges or issuer totals whose parts are listed separately no longer count twice. Beneficiary type, sector and instrument are corrected on over 400 deals, and amount quality is now a fixed list of nine values.
 - The finance page now counts memoranda of understanding apart from commitments: 1,406 commitments worth US$79.8bn and 11 MoUs worth US$10.9bn. An MoU is a statement of intent, not money committed.
 - The non-state finance table now starts in 2015, as the home page says: 16 deals approved between 2004 and 2014, worth US$978m, have left it. It holds 1,401 deals worth US$89.8bn.
+- Each non-state deal is now dated by the year it was committed, not the year its project started, so a top-up loan is dated by its own signing. The year changes on 89 deals, and the 2015 start now admits two deals and drops three, leaving 1,400.
 - Report findings that cited a deleted deal now cite the document it was built from. Three findings with no other source are withdrawn, in Mozambique, Sierra Leone and South Sudan.
 
 ## 25 September 2026
