@@ -1,3 +1,8 @@
+## 26 September 2026
+
+- The non-state finance table has been audited record by record and now holds 1,417 deals worth US$90.7bn, down from 1,493 and US$107.0bn: 58 energy, non-digital or unsourced deals and three duplicates are gone, and 15 aggregate pledges or issuer totals whose parts are listed separately no longer count twice. Beneficiary type, sector and instrument are corrected on over 400 deals, and amount quality is now a fixed list of nine values.
+- Report findings that cited a deleted deal now cite the document it was built from. Three findings with no other source are withdrawn, in Mozambique, Sierra Leone and South Sudan.
+
 ## 25 September 2026
 
 - Every country's status report has two new sections: Financial sustainability, on how far the state pays for its own digital systems, and Digital sovereignty, on how much of its digital estate it controls and on what terms. Each states what the budgets and held sources establish and says plainly what is not yet on record.
