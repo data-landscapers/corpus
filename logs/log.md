@@ -12,6 +12,8 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-09-27 02:50 · **REVIEW** · 2m · GMB: status 2 sections revised, progress 0 cells, monthly 1 blocks, finance 0 rows; 0 deals queued, 1 notes for OSINT — ok
+2026-09-27 02:48 · **REVIEW** · 3m · GIN: status 5 sections revised, progress 2 cells, monthly 1 blocks, finance 0 rows; 0 deals queued, 0 notes for OSINT — ok
 2026-09-27 02:45 · **BUILD** · 31m · catalogue 25,407; finance 1,402 deals; 40 units / 103 sources, 18 minted, 17 moved, 5 baselines revised; data centres 3; topics 76; bulletin 11; 31 register hits stand; check G fails only on unpublished maturity docs — ok
 2026-09-27 02:14 · **ANALYTICS** · unclocked · 2026-09-24..2026-09-26 written; 26 Sep: dl.io 17 views / 0 clicks, corpus 24 views / 1 clicks
 2026-09-26 16:36 · **RENDER** · 4m · Kobong out: finance 1,399 deals US$83,584m, MoU split dropped, LSO status and progress corrected, deployed — ok
