@@ -45,13 +45,16 @@
 .report-row__acts { display: flex; gap: 0.5rem; align-items: center; flex-shrink: 0; }
 .report-row__acts .btn { padding: 0.4rem 1rem; }
 
-table.pivot { width: 100%; border-collapse: collapse; font-size: 0.78rem; margin: 1.5rem 0 0.5rem; }
-table.pivot th, table.pivot td { padding: 0.4rem 0.5rem; border-bottom: 1px solid var(--rule); }
-table.pivot thead th { font-family: var(--mono); font-size: 0.66rem; font-weight: 500; text-transform: uppercase; letter-spacing: 0.06em; color: var(--ink-faint); background: var(--paper-warm); border-bottom: 1px solid var(--rule); }
-table.pivot tbody th, table.pivot tfoot th { text-align: left; font-weight: 400; font-size: 0.8rem; }
-table.pivot tfoot th, table.pivot tfoot td { font-weight: 700; border-top: 2px solid var(--ink); border-bottom: none; }
-table.pivot .num { text-align: right; font-family: var(--mono); font-size: 0.74rem; white-space: nowrap; }
-table.pivot .total { color: var(--ink); font-weight: 700; border-left: 1px solid var(--rule); }
+/* The house table, as `.article-body table` in main.css draws it: a rule round every cell and
+   the mono head on warm paper. The row labels are topics, so they read as body text, not heads. */
+table.pivot { width: 100%; border-collapse: collapse; font-size: 0.88rem; margin: 1.25rem 0 0.5rem; }
+table.pivot th, table.pivot td { border: 1px solid var(--rule); padding: 0.5rem 0.75rem; text-align: left; vertical-align: top; }
+table.pivot thead th { font-family: var(--mono); font-size: 0.72rem; font-weight: 500; text-transform: uppercase; letter-spacing: 0.07em; color: var(--ink-faint); background: var(--paper-warm); }
+table.pivot tbody th, table.pivot tfoot th { font-weight: 400; }
+table.pivot tfoot th, table.pivot tfoot td { font-weight: 700; }
+table.pivot .num { text-align: right; font-family: var(--mono); font-size: 0.78rem; white-space: nowrap; }
+table.pivot thead th.num { font-size: 0.72rem; }
+table.pivot .total { font-weight: 700; }
 table.pivot tbody tr:hover { background: var(--paper-warm); }
 .table-note { font-size: 0.75rem; color: var(--ink-faint); margin-top: 0.5rem; }
 .table-acts { display: flex; gap: 0.6rem; align-items: center; margin-top: 1.25rem; flex-wrap: wrap; }

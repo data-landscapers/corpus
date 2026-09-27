@@ -293,7 +293,10 @@ def e(s: str) -> str:
 
 
 def num(v: float) -> str:
-    return f"{v:,.0f}" if v == int(v) else f"{v:,.1f}"
+    """Whole US$m, as the site states money everywhere else. A sum of floats is never
+    exactly whole, so the old whole-or-one-decimal test printed `530.0` beside `605`;
+    and a commitment under half a million prints `<1`, because `0` reads as none."""
+    return "&lt;1" if 0 < v < 0.5 else f"{v:,.0f}"
 
 
 def year(v: str) -> int | None:
