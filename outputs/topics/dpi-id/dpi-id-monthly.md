@@ -4,7 +4,7 @@ compiled: 2026-09-27
 period: 2026-08-01 to 2026-09-27
 subject: dpi.id
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COM; COG; COD; EGY; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: a7979052c49c
+record: 197536af2756
 ---
 
 # Digital Identity and CRVS: monthly update, August – September 2026
@@ -115,11 +115,11 @@ On 21 September the transport ministry [suspended enrolment for the digitalised 
 
 ## Gambia
 
-The [National Identity Management System went live on 1 July 2026](https://standard.gm/barrow-inaugurates-national-data-centre-digital-identity-system/), issuing GAM ID cards on the spot, with nationwide enrolment from 4 August 2026. On 7 August the interior ministry [began a nationwide rollout of new ten-year biometric national identity cards, with registration opening simultaneously at six centres](https://www.voicegambia.com/gambia-rolls-out-new-10-year-national-identity-cards/), produced with a Ghana-based supplier. No enrolment or issuance figure has been published since launch, so the system's reach is unestablished.
+The [National Identity Management System, inaugurated alongside the national data centre, issues GAM ID cards on the spot](https://standard.gm/barrow-inaugurates-national-data-centre-digital-identity-system/), with nationwide enrolment from 4 August 2026. On 7 August the interior ministry [began a nationwide rollout of new ten-year biometric national identity cards, with registration opening simultaneously at six centres](https://www.voicegambia.com/gambia-rolls-out-new-10-year-national-identity-cards/), produced with a Ghana-based supplier. No enrolment or issuance figure has been published since launch, so the system's reach is unestablished.
 
 The rollout got the calendar the repository had been missing. The government [published the phased schedule and fee structure: registration extends to Sibanor and Jarra Soma on 7 September, to Barra, Kerewan, Farafenni and Kaur on 11 September and to Janjanbureh, Basse and Fatoto on 21 September, with a first-time card at D450 waived during the rollout for holders of a valid immigration department card](https://thepoint.gm/africa/gambia/headlines/govt-launches-first-phase-of-new-biometric-national-id-card-rollout). An applicant with no passport, birth certificate or prior document must be vouched for by both the Alkalo and the Seyfo of their place of residence.
 
-What the identity system replaced is now documented from two sides, and the backfill matters more than the launch. A [lender diagnostic finds fragmented mandates, no universal coverage and weak interoperability across the identity estate](https://documents1.worldbank.org/curated/en/099102025103014657/pdf/P502279-e8627dee-4568-45e7-bb51-9a1aea1ff040.pdf), and a newspaper account describes a [processing centre in Kanifing shut when its electricity bill went unpaid, on a foreign-run biometric system in place since 2018 at a D450 fee](https://foroyaa.net/gambians-endure-a-bureaucratic-marathon-to-get-national-id-cards/). Against that, the system [went live on 29 June 2026 with the President as its first enrollee, under a public-private partnership between the interior ministry and the card supplier](https://www.voicegambia.com/2026/07/01/barrow-launches-national-identity-management-system-becomes-first-enrollee/).
+What the identity system replaced is now documented from two sides, and the backfill matters more than the launch. A [lender diagnostic finds fragmented mandates, no universal coverage and weak interoperability across the identity estate](https://documents1.worldbank.org/curated/en/099102025103014657/pdf/P502279-e8627dee-4568-45e7-bb51-9a1aea1ff040.pdf), and a newspaper account describes a [processing centre in Kanifing shut when its electricity bill went unpaid, on a foreign-run biometric system in place since 2018 at a D450 fee](https://foroyaa.net/gambians-endure-a-bureaucratic-marathon-to-get-national-id-cards/). Against that, the new system [went live on 29 June 2026 with the President as its first enrollee, under a public-private partnership between the interior ministry and the card supplier](https://www.voicegambia.com/2026/07/01/barrow-launches-national-identity-management-system-becomes-first-enrollee/).
 
 ## Ghana
 

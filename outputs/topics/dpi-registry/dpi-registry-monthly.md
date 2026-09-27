@@ -3,13 +3,13 @@ title: Registries (population, land, address, etc.) — monthly update, August �
 compiled: 2026-09-27
 period: 2026-08-01 to 2026-09-27
 subject: dpi.registry
-places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; TCD; COM; COG; CIV; COD; EGY; ERI; SWZ; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 0ead9bd6ed58
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; TCD; COM; COG; CIV; COD; EGY; ERI; SWZ; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: eb614a399da8
 ---
 
 # Registries (population, land, address, etc.): monthly update, August – September 2026
 
-*49 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*50 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -213,6 +213,10 @@ The [Finance Act 2026 was assented on 12 August](https://mauritiusassembly.govmu
 ## Morocco
 
 The month's registry work is a membership audit rather than a build. The interior ministry [launched a wide screening and update of the membership rolls of collective land communities, with circulars sent to community delegates through local authority officials from 22 August 2026, beginning in two regions and open to extension nationwide](https://www.hespress.com/الداخلية-تطلق-عملية-واسعة-لـغربلة-لو-1794573.html). Each listed member is to be verified for actual affiliation, legal majority and residence under law 62.17 and its implementing decree, on a single methodology so that criteria stop varying from one community to another.
+
+## Mozambique
+
+Birth registration is moving into the maternity ward. The justice sector [is installing 100 civil-registration posts in health units with maternity wards so that newborns are registered before leaving hospital](https://jornalnoticias.co.mz/destaque/registo-civil-chega-a-mais-100-maternidades/), beside about 250 already operating in health units. No completion date is given.
 
 ## Namibia
 

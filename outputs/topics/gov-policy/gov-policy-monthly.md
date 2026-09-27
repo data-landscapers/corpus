@@ -4,7 +4,7 @@ compiled: 2026-09-27
 period: 2026-08-01 to 2026-09-27
 subject: gov.policy
 places: DZA; BWA; BFA; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MWI; MLI; MRT; MUS; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: ea25f5393556
+record: 22c329e93e32
 ---
 
 # Strategies, plans and policies: monthly update, August – September 2026
@@ -117,7 +117,7 @@ The public sector reform that carries the digital pillar reached validation on 1
 
 ## Guinea
 
-The legislature acquired a standing counterpart to all of this: the National Assembly's ICT committee [held its first working session on 7 August and named mobile money, social-media regulation and network security as its priorities](https://www.avenirguinee.org/2026/08/07/reseaux-sociaux-mobile-money-ntic-les-priorites-de-la-commission-communication-de-lan-devoilees/), to be worked in coordination with the telecommunications ministry; no work programme or timetable is published. A [presidential decree of 27 July 2026 reshuffled the transition government](https://actuguinee.org/guinee-le-president-mamadi-doumbouya-remanie-son-gouvernement-plusieurs-nouveaux-visages-font-leur-entree/), keeping Mourana Soumah at the Ministère de la Communication, de l'Économie numérique et de l'Innovation, which he has held since the February 2026 merger. Djenabou Touré takes Administration du Territoire et de la Décentralisation, the ministry supervising ONECI and the biometric civil-registration programme; a Djenabou Touré was director-general of elections and attended the ONECI signing three days earlier, and the source does not confirm they are the same person. A World Bank tender published the same week still names the predecessor department, MPTEN, as supervising WARDIP.
+The legislature acquired a standing counterpart to all of this: the National Assembly's ICT committee [held its first working session on 7 August and named mobile money, social-media regulation and network security as its priorities](https://www.avenirguinee.org/2026/08/07/reseaux-sociaux-mobile-money-ntic-les-priorites-de-la-commission-communication-de-lan-devoilees/), to be worked in coordination with the telecommunications ministry; no work programme or timetable is published. A [presidential decree of 27 July 2026 reshuffled the transition government](https://actuguinee.org/guinee-le-president-mamadi-doumbouya-remanie-son-gouvernement-plusieurs-nouveaux-visages-font-leur-entree/), keeping Mourana Soumah at the Ministère de la Communication, de l'Économie numérique et de l'Innovation, which he has held since the February 2026 merger. Djenabou Touré takes Administration du Territoire et de la Décentralisation, the ministry supervising ONECI and the biometric civil-registration programme; a Djenabou Touré was director-general of elections and attended the ONECI signing three days earlier, and the source does not confirm they are the same person. A World Bank tender published the same week still names the predecessor department, MPTEN, as supervising WARDIP. Soumah was then [dismissed by a presidential decree made public on 21 August, with no reason given](https://www.africaguinee.com/limogeage-de-mory-conde-et-mourana-soumah-le-president-doumbouya-designe-les-interimaires/), and the ministry's secretary-general holds the portfolio on an interim basis.
 
 ## Guinea-Bissau
 
