@@ -1,12 +1,12 @@
 ---
 title: Benin: status report
-compiled: 2026-09-25
+compiled: 2026-09-27
 place: BEN
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 9
-sources_cited: 159
+sources_cited: 158
 sections_written: 39
 not_established: 0
 acquire_lines: 41
@@ -138,7 +138,7 @@ Power, not bandwidth, is the constraint on always-on services: [firms reported 7
 
 That shows up wherever a public service meets the grid: [most primary schools have no access to computers, and some rural areas have no electricity at all](https://southernvoice.org/benin-digital-technologies-and-educational-inequality/) (2023).
 
-Domestic generation is almost entirely non-renewable: [renewable sources accounted for 0.26 per cent of domestic electricity output in 2021, and the share has not exceeded 3.4 per cent since 1990](https://data.worldbank.org/indicator/EG.ELC.RNEW.ZS). Distributed supply has a policy vehicle behind it, [an off-grid clean energy facility combining geospatial planning with deployment subsidies (2020)](https://www.niras.com/media/qral3hns/ocef-english-brochure.pdf). The grid's own instrumentation improved with [the national electricity dispatch and control centre at Akassato, inaugurated on 22 June 2023, which brought real-time supervision, remote switching and fault detection to the national distribution network](https://assets.mcc.gov/content/uploads/benin-power-compact-kpi.pdf). [Energy statistics themselves score below the built environment and natural resources in the 2024 Open Data Inventory](https://odin.opendatawatch.com/data).
+Domestic generation is almost entirely non-renewable: [renewable sources accounted for 0.26 per cent of domestic electricity output in 2021, and the share has not exceeded 3.4 per cent since 1990](https://data.worldbank.org/indicator/EG.ELC.RNEW.ZS). Distributed supply has a policy vehicle behind it, [an off-grid clean energy facility combining geospatial planning with deployment subsidies (2020)](https://www.niras.com/media/qral3hns/ocef-english-brochure.pdf). [Energy statistics themselves score below the built environment and natural resources in the 2024 Open Data Inventory](https://odin.opendatawatch.com/data).
 
 ### Technical Capacity
 <!-- infra.capacity -->
@@ -370,8 +370,6 @@ Of the sixteen transparency measures in the 2025 GovTech assessment, exactly one
 
 ### US / hyperscaler activities
 <!-- geopol.usa -->
-
-[The Millennium Challenge Corporation paid for Benin's first national electricity dispatch and control centre at Akassato](https://assets.mcc.gov/content/uploads/benin-power-compact-kpi.pdf), a USD 31.4 million activity within the USD 391 million Benin Power Compact, inaugurated on 22 June 2023.
 
 American aid money reaches Benin's health data through implementing contractors, and what it buys is not always digital: [a USAID-funded project supplied private health facilities with 4,000 health data registers and trained their staff to report into the national health information system](https://www.abtglobal.com/insights/impact-briefs/pshpa-trains-private-health-facilities-to-submit-rmnch-data-for-dhis2) (2018-2023).
 

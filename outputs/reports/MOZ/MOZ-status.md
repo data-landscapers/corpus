@@ -1,12 +1,12 @@
 ---
 title: Mozambique: status report
-compiled: 2026-09-25
+compiled: 2026-09-27
 place: MOZ
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 8
-sources_cited: 171
+sources_cited: 170
 sections_written: 39
 not_established: 2
 acquire_lines: 48
@@ -100,7 +100,7 @@ The largest single live commitment is the World Bank's [Sustainable Energy and B
 
 China Eximbank finances the state operator Tmcel, lending for [a first phase of national mobile network modernisation](https://www.bu.edu/gdp/files/2022/11/GCI_PB_012_EN_FIN.pdf) (2020), with [a further US$200 million facility for a second phase reported secured in 2025](https://clubofmozambique.com/news/tmcel-secures-us200-million-on-very-good-terms-for-modernisation-and-expansion-151082/).
 
-The European Union funds [VaMOZ Digital!, a EUR 22.5 million grant over 2022–2029](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2022-ACT-60671), and a [National Control Centre for Energy on a EUR 8,008,000 grant over 2022–2030](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2022-ACT-60663). The ITU carries [that programme's regulatory component on CHF 2,244,820 over 2023–2027](https://www.itu.int/net4/ITU-D/CDS/projects/display.asp?ProjectNo=9MOZ23005). In June 2026 the EU signed [a further EUR 28 million for digital transformation](https://360mozambique.com/economy/markets-finance-eu-and-mozambique-seek-to-take-partnership-to-the-next-level/) under Global Gateway, with women's participation in the digital economy its stated focus.
+The European Union funds [VaMOZ Digital!, a EUR 22.5 million grant over 2022–2029](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2022-ACT-60671). The ITU carries [that programme's regulatory component on CHF 2,244,820 over 2023–2027](https://www.itu.int/net4/ITU-D/CDS/projects/display.asp?ProjectNo=9MOZ23005). In June 2026 the EU signed [a further EUR 28 million for digital transformation](https://360mozambique.com/economy/markets-finance-eu-and-mozambique-seek-to-take-partnership-to-the-next-level/) under Global Gateway, with women's participation in the digital economy its stated focus.
 
 Canada's two UNICEF-channelled phases for civil registration and vital statistics, [CAD 19.5 million from 2017](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=CA-3-D002529001) and [CAD 6.5 million from 2021](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=CA-3-P001300002), both closed in 2023.
 
@@ -133,7 +133,7 @@ The state is regulating a hosting layer it does not yet have. The communications
 ### Energy
 <!-- infra.energy -->
 
-Mozambique's grid is not one grid: it runs as [two independent and unconnected sub-grids without adequate central control](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2022-ACT-60663), which a European Union-funded national energy control centre is meant to address over 2022–2030. Off-grid provision is the better-organised part: Mozambique's [off-grid electrification framework scores highly on the World Bank's RISE indicators and the rural energy fund FUNAE runs around 76 mini-grids totalling about 6MW](https://rise.esmap.org/country/mozambique) (2021).
+Mozambique's [off-grid electrification framework scores highly on the World Bank's RISE indicators and the rural energy fund FUNAE runs around 76 mini-grids totalling about 6MW](https://rise.esmap.org/country/mozambique) (2021).
 
 [36 per cent of Mozambique's population had access to electricity in 2023](https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS?locations=MZ), and access to energy is among the country's ten worst-scoring IIAG indicators, at [17.2 out of 100 and 42nd of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mz.pdf) in 2023 despite gaining 4.6 points since 2014. The shortfall falls where most people live: [urban access stood at 76 per cent against 15 per cent in rural areas in 2022](https://www.iea.org/reports/mozambique-2024/executive-summary), a gap of 61 percentage points. What supply there is rests on one source — [hydropower generates 83 per cent of electricity, gas 15 per cent](https://www.iea.org/reports/mozambique-2024/executive-summary) (2024) — and drought, cyclone damage and infrastructure vandalism during civil unrest [strained the state utility EDM's ability to maintain supply through 2025](https://360mozambique.com/business/infrastructure/vandalism-and-cyclones-impacted-edms-performance-in-2025-report/).
 
@@ -383,7 +383,7 @@ China Eximbank is the second-largest external financier of Mozambique's recorded
 ### EU activities
 <!-- geopol.eu -->
 
-European money in Mozambique's digital estate is grant money on long timetables rather than lending, and the largest of it is [VaMOZ Digital!, a EUR 22.5 million grant (about US$24 million) running from 2022 to 2029](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2022-ACT-60671). A second grant, [EUR 8,008,000 over 2022–2030 for a National Control Centre for Energy](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2022-ACT-60663), goes to control systems for a grid that runs as two unconnected sub-grids. The European Union added [a further digital transformation allocation under Global Gateway, signed in June 2026 with a stated focus on women's participation in the digital economy](https://360mozambique.com/economy/markets-finance-eu-and-mozambique-seek-to-take-partnership-to-the-next-level/).
+European money in Mozambique's digital estate is grant money on long timetables rather than lending, and the largest of it is [VaMOZ Digital!, a EUR 22.5 million grant (about US$24 million) running from 2022 to 2029](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2022-ACT-60671). The European Union added [a further digital transformation allocation under Global Gateway, signed in June 2026 with a stated focus on women's participation in the digital economy](https://360mozambique.com/economy/markets-finance-eu-and-mozambique-seek-to-take-partnership-to-the-next-level/).
 
 European influence on the rulebook runs ahead of European spending. [ENIA Draft 1 takes the EU AI Act as one of its explicit reference instruments, alongside UNESCO's Recommendation on the Ethics of Artificial Intelligence and the OECD AI Principles](https://www.africaainews.com/api/v1/file/4d6b91fa-97e7-4576-9c5f-57e3aea89fbe.pdf), and the European Union is [among the backers of the strategy's development, with UNESCO, the ITU, the African Union, the World Bank, German Cooperation, IRCAI and the UN University's policy and e-governance unit](https://www.africaainews.com/p/mozambique-presents-draft-ai-strategy) (May 2026). On the commercial side, Vodacom's group chief executive [met President Chapo in Maputo to discuss connectivity, fibre expansion, AI adoption and digital inclusion](https://techafricanews.com/2026/07/23/vodacom-and-mozambique-president-discuss-digital-infrastructure-investment/) (July 2026), with no amount, agreement or timeline announced.
 
