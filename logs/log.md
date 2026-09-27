@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-09-27 23:59 · **RENDER** · 13m · 251 documents, 0 failed; home, countries, regions, topics, progress, catalogue, alerts, finance 1,399 deals, datasets rendered; R2 1,708 uploaded; deployed - ok
 2026-09-27 23:46 · **REVIEW** · 3m · GNQ: status 3 sections revised, progress 5 cells, monthly 1 blocks, finance 0 rows; 0 deals queued, 1 notes for OSINT - ok
 2026-09-27 23:43 · **REVIEW** · 5m · GNB: status 13 sections revised, progress 1 cells, monthly 0 blocks, finance 0 rows; 0 deals queued, 1 notes for OSINT - ok
 2026-09-27 23:38 · **BUILD** · 27m · catalogue 25,456; finance 1,399; 53 sources, 12 minted, 8 moved; 7 baselines revised, five dead finance citations cleared; NGA re-read; bulletin 14; 31 register hits stand; MWI Nzika duplicate left to its review - ok
