@@ -1,11 +1,11 @@
 ---
 title: Mozambique — monthly update, August – September 2026
-compiled: 2026-09-25
-period: 2026-08-01 to 2026-09-25
+compiled: 2026-09-27
+period: 2026-08-01 to 2026-09-27
 place: MOZ
-ledger_rows: 80
+ledger_rows: 81
 not_held: 19
-record: a49dff92af56
+record: 269e6816f453
 ---
 
 # Mozambique: monthly update, August – September 2026
@@ -131,6 +131,11 @@ Separately the government [opened discussions with a local partner on a mobile d
 Payments moved in two directions. The central bank [set limits on payments abroad made with bank cards, revoking its December 2025 notice](https://www.bancomoc.mz/en/media/highlights/notice-no-4-gbm-2026-establishes-limits-on-payments-abroad-made-using-bank-cards-and-revokes-notice-no-9-gbm-2025-of-9-december/) — a restriction on what a card can do rather than an extension of it. In the other direction a health agency [reported cumulative disbursement of US$14.4m to health workers over mobile money for campaign payments](https://techafricanews.com/2026/08/11/who-mozambique-channels-14-4m-through-mobile-money-for-health-campaigns/), the largest use of the mobile-money rail for public payment the repository holds here.
 
 The public payroll became a credit rail. A [memorandum between the dominant mobile money operator, a microbank and the state financial information centre puts a salary-advance product on the operator's short code for more than 380,000 civil servants](https://techreviewafrica.com/news/7081/m-pesa-maximo-microbanco-and-cedsif-open-formal-credit-access-to-380000-mozambican-civil-servants). It is a memorandum rather than a live product: no launch date, interest rate, advance ceiling, repayment mechanism or default treatment is published, and nothing describes how payroll data would reach the lender.
+<!-- /narrative -->
+### Registries
+
+<!-- narrative: dpi--dpi-registry -->
+Birth registration is moving into the maternity ward. The justice sector [is installing 100 civil-registration posts in health units with maternity wards so that newborns are registered before leaving hospital](https://jornalnoticias.co.mz/destaque/registo-civil-chega-a-mais-100-maternidades/), beside about 250 already operating in health units. No completion date is given.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 

@@ -1,11 +1,11 @@
 ---
 title: Togo — monthly update, August – September 2026
-compiled: 2026-09-25
-period: 2026-08-01 to 2026-09-25
+compiled: 2026-09-27
+period: 2026-08-01 to 2026-09-27
 place: TGO
-ledger_rows: 67
+ledger_rows: 69
 not_held: 21
-record: 537833186aa8
+record: 23aef0e1f722
 ---
 
 # Togo: monthly update, August – September 2026
