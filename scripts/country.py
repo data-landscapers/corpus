@@ -530,6 +530,14 @@ FINANCE_EMPTY = """    <p>No non-state finance commitments are currently held fo
 # `{unit}` is the whole of the difference — "country" on a country page, "place" on a region's,
 # where the rows are the countries beneath it. `region.py` imports this rather than holding
 # its own, the way it already imports `FINANCE_BLOCK`, `pivot` and `report_rows`.
+# The row panel carries every field, shown columns included (Bill, 2026-09-27): the panel is
+# where a reader reads one deal whole, and a field missing there because it is also a column
+# is missing. `finance.py` imports this for the all-Africa table.
+FINANCE_DETAIL = ("recipient, start_year, end_year, published_date, financier, sector, "
+                  "instrument, commitment_usd_m, amount_basis, amount_quality, status, title, "
+                  "description, beneficiary_type, recipient_organisation, original_amount, "
+                  "project_id, iati_activity_id, url, financier_slug, record")
+
 FINANCE = """<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -563,11 +571,11 @@ FINANCE = """<!DOCTYPE html>
 
     <div class="dl-datatable"
       data-src="{csv_name}"
-      data-cols="start_year, financier, sector, instrument, commitment_usd_m, status, title, description, recipient_organisation, url"
+      data-cols="start_year, published_date, financier, sector, instrument, commitment_usd_m, status, title, description, recipient_organisation, url"
       data-filters="financier, sector, instrument, status, beneficiary_type"
       data-numeric="start_year, end_year, commitment_usd_m"
       data-links="url"
-      data-detail="description"
+      data-detail=\"""" + FINANCE_DETAIL + """\"
       data-sort="start_year:desc"
       data-empty="No commitment matches those filters.">
       <div class="dt-controls">

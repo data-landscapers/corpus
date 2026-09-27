@@ -152,7 +152,7 @@ def finance_cut(iso, region, out_dir):
     with open(S.FINANCE_CSV, encoding="utf-8-sig", newline="") as fh:
         rd = csv.DictReader(fh)
         cols = rd.fieldnames
-        key = cols[0]                      # 'recipient_country', possibly BOM-prefixed
+        key = cols[0]                      # 'recipient', possibly BOM-prefixed
         for row in rd:
             if (row.get(key) or "").strip().upper() in (iso, region):
                 rows.append(row)

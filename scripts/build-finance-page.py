@@ -319,11 +319,27 @@ def recip_org(T):
     v = re.sub(r'\s*\([A-Z]{3}\)\s*$', '', v).strip()  # drop a trailing country tag
     return clean(v)
 
-NS_HEADER = ["recipient_country", "start_year", "end_year", "financier", "sector",
+NS_HEADER = ["recipient", "start_year", "end_year", "published_date", "financier", "sector",
              "instrument", "commitment_usd_m", "amount_basis", "amount_quality", "status",
              "title", "description",
              "beneficiary_type", "recipient_organisation", "original_amount",
              "project_id", "iati_activity_id", "url", "financier_slug", "record"]
+
+
+# The records say `Closed`; the table says `Completed` (Bill, 2026-09-27), which is what a
+# reader means by a project that has run its course. Asked of OSINT as notes-for-osint 180;
+# once its records carry `Completed` this map is a no-op and can go.
+STATUS_SHOWN = {"Closed": "Completed"}
+
+
+def published_date(r):
+    """When the source was published, or, where OSINT holds only the year or month, when
+    OSINT found it (Bill, 2026-09-27). A year-precision record's `published` is stamped
+    `YYYY-01-01` — 1,066 of 1,402 deals, most of them IATI activities — and printing that
+    would date a 2019 activity record to New Year's Day."""
+    if fm_get(r["fm"], "date_precision") == "day":
+        return r["published"] or ""
+    return fm_get(r["fm"], "ingested") or r["published"] or ""
 
 
 def usd_m_cell(usd):
@@ -362,10 +378,11 @@ def _ns_row(r, country, lab):
     T = r["table"]; fm = r["fm"]
     usd, basis = deal_usd(T)
     sec = primary_subject(r)
-    return [country, deal_year(r), T.get("End year", ""),
+    status = T.get("Status", "")
+    return [country, deal_year(r), T.get("End year", ""), published_date(r),
             fin_name(fm_get(fm, "financier_slug")), lab.get(sec, sec),
             T.get("Instrument", ""), usd_m_cell(usd), basis,
-            amount_quality(r), T.get("Status", ""),
+            amount_quality(r), STATUS_SHOWN.get(status, status),
             dewiki(r["title"]), dewiki(section(r["body"], "Description")),
             T.get("Beneficiary type", ""), recip_org(T), T.get("Original amount", ""),
             T.get("Project ID", ""), T.get("IATI activity ID", ""),
@@ -378,7 +395,7 @@ def csv_nonstate(ns, lab, iso3, path):
             w.writerow(_ns_row(r, iso3, lab))
 
 def csv_nonstate_all(by_place, lab, path):
-    """One combined file, one row per deal (deduped by record). recipient_country is
+    """One combined file, one row per deal (deduped by record). `recipient` is
     the record's own place — each deal is tagged to exactly one place (country or, for
     multi-country deals, a region), so this is a clean partition with no double-count."""
     seen = {}

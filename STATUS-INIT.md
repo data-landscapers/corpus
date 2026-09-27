@@ -58,7 +58,7 @@ Neither the wiki nor the AfDB dataset is a source; both are intermediaries, and 
 - `outputs/catalogue/catalogue-internal.csv` — resolves a slug to its URL. It is the published download plus the key: the slug came out of the download on 2026-09-09 and the resolution table is where it stayed. **This, not the index**: the catalogue is the published set; the index also carries wiki concept pages with a `url:`, which are not sources and must not resolve.
 - `prep/africa-dpi-data.csv` — ~462 rows per country; only `Variable Id`, `Value Name`, `Year`, `Comments`, `Source urls` matter, and the comments and URLs are the point. Known defects: the `govtech-*` family resolves to one landing page and is largely unusable; some cells concatenate conflicting answers; mojibake is repaired, not described (`python scripts/lint-mojibake.py` says whether it has come back); and **a sourceless negative is not evidence of absence** — where the dataset alone says a country lacks an instrument, the finding is ***Not held*** with a `gaps.csv` line. (Fuller record: `documentation/archived/dpi-data-defects.md`.)
 - `lookups/iiag-profiles.csv` — the Ibrahim Index country profile per country, URL verified against each PDF's own cover by `scripts/iiag-profiles.py`. The `iiag-*` rows carry no URL and are read against the profile — better evidence anyway: score, rank of 54, ten-year change.
-- `outputs/non-state-finance/all-nonstate.csv` — the major source for `finance.new`; filter on `recipient_country`, taking the region code where a regional commitment names it.
+- `outputs/non-state-finance/all-nonstate.csv` — the major source for `finance.new`; filter on `recipient`, taking the region code where a regional commitment names it.
 
 ## The run
 

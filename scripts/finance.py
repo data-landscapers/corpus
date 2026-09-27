@@ -18,7 +18,7 @@ The table is the cross-country counterpart of each country's `finance.html` and 
 the same component: `site/assets/js/datatable.js` fetches the published CSV and draws
 it in the browser. That is not a preference but the only option — 1,257 rows by 20
 columns baked into HTML is a multi-megabyte page, where the CSV it reads instead is
-1.1 MB and is a file the reader can keep. `recipient_country` is carried as an ISO-3
+1.1 MB and is a file the reader can keep. `recipient` is carried as an ISO-3
 code in the data and shown as a country name in the table, through the `data-labels`
 map built from `outputs/vocab/countries.csv`.
 
@@ -42,6 +42,7 @@ import editions  # noqa: E402  - one implementation of the edition grammar (§9)
 from copy_lib import copy, copy_md  # noqa: E402
 import structured_data  # noqa: E402
 from chrome_lib import chrome, external_links, feedback, foot, ga, script, styles  # noqa: E402
+from country import FINANCE_DETAIL  # noqa: E402  - the row panel's fields, one list for every finance table
 
 CORPUS = Path(__file__).resolve().parent.parent
 OUTPUTS = CORPUS / "outputs"
@@ -86,7 +87,7 @@ def load_finance(sdir: Path) -> dict:
     total_usd_m = 0.0
     deals = 0
     by_financier: Counter = Counter()          # commitment US$m by financier
-    by_place: Counter = Counter()              # deal count by recipient_country
+    by_place: Counter = Counter()              # deal count by recipient
     by_sector: Counter = Counter()             # deal count by sector
     years = []
     with open(sdir / "all-nonstate.csv", encoding="utf-8-sig") as fh:
@@ -99,8 +100,8 @@ def load_finance(sdir: Path) -> dict:
             total_usd_m += amt
             if r.get("financier"):
                 by_financier[r["financier"]] += amt
-            if r.get("recipient_country"):
-                by_place[r["recipient_country"]] += 1
+            if r.get("recipient"):
+                by_place[r["recipient"]] += 1
             if r.get("sector"):
                 by_sector[r["sector"]] += 1
             for y in (r.get("start_year"), r.get("end_year")):
@@ -179,12 +180,12 @@ PAGE = """<!DOCTYPE html>
 
     <div class="dl-datatable"
       data-src="{csv_name}"
-      data-cols="recipient_country, start_year, financier, sector, instrument, commitment_usd_m, status, title, description, recipient_organisation, url"
-      data-filters="recipient_country, sector, instrument, status, amount_quality, beneficiary_type"
+      data-cols="recipient, start_year, published_date, financier, sector, instrument, commitment_usd_m, status, title, description, recipient_organisation, url"
+      data-filters="recipient, sector, instrument, status, amount_quality, beneficiary_type"
       data-numeric="start_year, end_year, commitment_usd_m"
       data-links="url"
       data-labels="{labels}"
-      data-detail="description"
+      data-detail="{detail}"
       data-sort="start_year:desc"
       data-empty="No commitment matches those filters.">
       <div class="dt-controls">
@@ -206,7 +207,7 @@ PAGE = """<!DOCTYPE html>
         <dt>This file</dt><dd><a href="{csv_name}">{csv_name}</a> &mdash; a dated edition, retained as published and never revised</dd>
         <dt>Source</dt><dd><code>outputs/non-state-finance/all-nonstate.csv</code>, compiled by the finance pass</dd>
         <dt>Fields</dt><dd><a href="../metadata/{metadata}">{metadata}</a> &mdash; what each column means. The same dictionary every country&rsquo;s finance table uses</dd>
-        <dt>Country</dt><dd><code>recipient_country</code> is an ISO-3 code in the file and a country name in the table; the two are the same thing</dd>
+        <dt>Recipient</dt><dd><code>recipient</code> is an ISO-3 code in the file and a country or region name in the table; the two are the same thing</dd>
         <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></dd>
       </dl>
     </div>
@@ -326,14 +327,14 @@ def render(agg: dict, names: dict, csv_name: str, edition: str,
     attribute the browser parses on every page load is not the place to ship a
     vocabulary most of which this table never shows."""
     used = {c: names[c] for c in agg["by_place"] if c in names}
-    labels = html.escape(json.dumps({"recipient_country": used}, ensure_ascii=False), quote=True)
+    labels = html.escape(json.dumps({"recipient": used}, ensure_ascii=False), quote=True)
     yr = f"{agg['year_min']}–{agg['year_max']}" if agg["year_min"] else "n/a"
     return PAGE.format(
         feedback=feedback("Finance", f"{SITE_BASE}/finance/"),
         base=SITE_BASE, main=MAIN_SITE, chrome=CHROME, foot=FOOT,
         styles=styles(1, "country.css", "datatable.css"), ga=ga(),
         datatable=script("datatable.js", 1),
-        csv_name=csv_name, labels=labels, metadata=METADATA_CSV,
+        csv_name=csv_name, labels=labels, metadata=METADATA_CSV, detail=FINANCE_DETAIL,
         artefacts=artefacts, toc=toc("non-state"),
         non_state_intro=indent(copy("finance", "non-state-intro")),
         table_note=indent(copy("finance", "non-state-table-note")),

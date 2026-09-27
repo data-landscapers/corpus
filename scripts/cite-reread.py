@@ -165,7 +165,7 @@ def worksheet(unit, ctx):
                     elif url in fin:
                         counts["finance"] += 1
                         for r in fin[url][:3]:
-                            w.append(f"**Finance row:** {r.get('recipient_country')} · {r.get('financier')} · {r.get('instrument')} · {r.get('original_amount')} · US${r.get('commitment_usd_m')}m · {r.get('start_year')}-{r.get('end_year')} · {r.get('status')} · {r.get('title')}")
+                            w.append(f"**Finance row:** {r.get('recipient')} · {r.get('financier')} · {r.get('instrument')} · {r.get('original_amount')} · US${r.get('commitment_usd_m')}m · {r.get('start_year')}-{r.get('end_year')} · {r.get('status')} · {r.get('title')}")
                     elif url in dpi:
                         counts["dpi"] += 1
                         own = [r for r in dpi[url] if r.get("Country") == unit] or dpi[url]

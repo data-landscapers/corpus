@@ -47,7 +47,7 @@ DC_ALL = "infra.store--local-data-centre-capacity-all-providers"
 DC_NATIONAL = "infra.store--local-data-centre-capacity-national-providers"
 
 PRIVATE = {"Private Sector", "Fund", "PPP"}
-COUNTED_STATUS = {"Active", "Approved", "Closed"}
+COUNTED_STATUS = {"Active", "Approved", "Completed"}   # the table shows OSINT's `Closed` as `Completed`
 # An equity round is reported when it closes, so one whose status the compile left Unknown is
 # still money that moved (CC, 2026-09-24, from SYC's Fusepay round). A loan or a grant of unknown
 # status may be a pipeline announcement, and stays out.
