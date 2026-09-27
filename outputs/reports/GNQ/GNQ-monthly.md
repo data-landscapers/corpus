@@ -1,11 +1,11 @@
 ---
 title: Equatorial Guinea — monthly update, August – September 2026
-compiled: 2026-09-25
-period: 2026-08-01 to 2026-09-25
+compiled: 2026-09-27
+period: 2026-08-01 to 2026-09-27
 place: GNQ
 ledger_rows: 32
 not_held: 6
-record: 58378d6f1b77
+record: baac9f60212a
 ---
 
 # Equatorial Guinea: monthly update, August – September 2026
@@ -54,7 +54,7 @@ Two enforcement bodies agreed to exchange information rather than to publish any
 ### Connectivity
 
 <!-- narrative: ict-infrastructure--infra-connect -->
-Satellite service reached the country. [The operator's own principal confirmed on 29 August that the service is available in Equatorial Guinea](https://realequatorialguinea.com/destacado/mundo/elon-musk-confirma-que-el-internet-satelital-de-starlink-ya-esta-disponible-en-guinea-ecuatorial/), after an authorisation earlier in the year that reached only North American companies operating on the high seas within jurisdictional waters. No licence text, tariff, subscriber route or regulator statement accompanies the confirmation, so the repository holds a claim of availability and not the terms it is available on.
+Satellite service reached the country. [The operator's own principal confirmed on 29 August that the service is available in Equatorial Guinea](https://realequatorialguinea.com/destacado/mundo/elon-musk-confirma-que-el-internet-satelital-de-starlink-ya-esta-disponible-en-guinea-ecuatorial/), after an authorisation earlier in the year that reached only North American companies operating on the high seas within jurisdictional waters. The terms followed on 9 September, when the government [launched the service officially and reserved its sale to the state, with a dedicated revenue account and privately signed contracts cancelled](https://ahoraeg.com/politica/2026/09/09/el-gobierno-exige-a-meta-tributar-en-guinea-ecuatorial-y-ordena-centralizar-la-comercializacion-de-starlink-en-ortel/). No licence text, tariff or subscriber figure is published.
 
 Access then narrowed for everyone else. Since 2 September [bandwidth has been throttled and Facebook and TikTok unreachable without a VPN](https://www.seneweb.com/fr/news/Afrique/guinee-equatoriale-coupure-de-facebook-et-tiktok_n_504430.html), after a viral video accusing the vice-president of corruption whose author was arrested; no order has been published and the information ministry did not answer questions.
 <!-- /narrative -->
