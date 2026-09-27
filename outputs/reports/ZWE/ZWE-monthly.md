@@ -1,11 +1,11 @@
 ---
 title: Zimbabwe — monthly update, August – September 2026
-compiled: 2026-09-24
-period: 2026-08-01 to 2026-09-24
+compiled: 2026-09-27
+period: 2026-08-01 to 2026-09-27
 place: ZWE
 ledger_rows: 67
 not_held: 7
-record: 909c87e8e41a
+record: 7a11b87fb780
 ---
 
 # Zimbabwe: monthly update, August – September 2026
@@ -50,6 +50,8 @@ The government put the national data volume at [179 petabytes against 114 previo
 The approval date itself is now settled from the primary record: the Office of the President and Cabinet's own briefing dates approval to the [Seventeenth Cabinet Meeting of 2 June 2026, and sets out nine strategic focus areas from institutional capacity and legal framework through technical control and corporate responsibility to monitoring and learning, aligned to the Constitution and the Children's Act, with legislation carrying enforceable sanctions to follow](https://www.zbcnews.co.zw/wp-content/uploads/2026/06/17th-PRESS-FINAL.pdf). The repository had been carrying 10 July 2026, which is the policy's Bulawayo launch.
 
 The child online protection policy moved to delivery. The ICT minister [told the National Assembly on 9 September that content gateways are being installed on public free Wi-Fi and in schools, with teacher and parent training](https://newziana.co.zw/zim-rolling-out-gateways-teacher-and-parents-training-in-line-with-the-child-online-protection-policy/), under an implementation committee with two other ministries.
+
+On 21 September the regulator held [a consultative workshop on amendments to SI 155 that would set administrative fines](https://sirdc.ac.zw/the-inaugural-africa-data-protection-day/); the amendment text is not on file.
 <!-- /narrative -->
 ### Regional collaboration
 
@@ -153,6 +155,8 @@ The voters' roll transfer moved from statement to operation. On 18 August [the c
 The national electronic medical record reached [1,254 of a planned 1,900 health facilities](https://www.theglobalfund.org/media/qksld2tg/publication_zimbabwe-digital-health_casestudy_en.pdf), on a health financing partner's account rather than the ministry's. The [platform's own front page describes it as the national health operating system](https://impilo.mohcc.gov.zw/), spanning care-finding, provider verification, medicines and diagnostics directories, virtual care, an assistant and public health notices — run largely without a citizen account and gated by a separate professional-authority check — and carries no facility-coverage figure and no last-updated date of its own. An operator separately reports [more than 20 telehealth centres established](https://www.263chat.com/netone-at-30-from-zimbabwes-first-mobile-call-to-a-digital-future/), company-reported to an anniversary feature with no patient, consultation or availability figure.
 
 On land the state consolidated rather than built: the lands minister said on 24 August that [three land databases had been merged into one integrated digital system reached through a One Stop Title Processing Centre, with 27,045 plots surveyed and 10,231 mapped to beneficiaries and 1,824 agreements of sale worth about US$110 million concluded](https://www.zimbabwesituation.com/news/govt-keen-to-unlock-us20bn-in-land-value/). The figures are the implementation committee's own and nothing on this ledger tests them.
+
+The health ministry said [its laboratory information management system runs at 117 main laboratories, against a 2030 target of 80% of facilities](https://www.zimbabwesituation.com/news/govt-takes-diagnostics-closer-to-rural-communities/), with results sent electronically including by SMS.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -248,6 +252,8 @@ A [national data commons was announced on 4 August](https://itweb.africa/article
 
 <!-- narrative: geopolitics--geopol-usa -->
 Zimbabwe withdrew from the bilateral health talks, and the dispute over why was settled this month against the templates rather than the parties. Harare's account is that talks ended over long-term United States access to national health data and an attempt to fold in critical minerals; the [embassy stated the conditions were co-investment, financial accountability and specimen sharing during outbreaks, and that assertions it sought Zimbabweans' personal data are categorically false](https://www.newzimbabwe.com/america-disputes-zimbabwean-governments-recent-account-on-us365-million-health-deal/). Both are supportable. The [model data-sharing agreement gives the United States secure, uninterrupted access, expressly including login credentials, to seven national health systems for twenty-five years continuing ten years past termination](https://www.citizen.org/wp-content/uploads/Model-Data-Sharing-Agreement.pdf) — and in the same clause tells the partner not to provide individual-level or personally identifiable data unless there is no other way. The [template memorandum requires physical specimens and related genetic sequence data of pathogens with epidemic potential within five days of detection, for twenty-five years](https://www.citizen.org/wp-content/uploads/Template-MoU-AFGHS.pdf). Harare is describing standing credentialled access to live systems; Washington is denying transfer of identifiable records. Neither template is the Zimbabwe draft, which was never signed and does not exist as a public document. [About 1.2m people on United States-supported HIV treatment face wind-down](https://apnews.com/article/zimbabwe-us-health-funding-deal-b2d3fce8b9a340c53d117675319be120).
+
+The embassy [said on 25 September that all US funding for the country's health programmes ends at the end of the month](https://www.independent.co.uk/news/world/americas/zimbabwe-donald-trump-hiv-harare-washington-b3056549.html).
 <!-- /narrative -->
 ### China activities
 

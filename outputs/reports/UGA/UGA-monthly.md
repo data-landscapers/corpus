@@ -1,11 +1,11 @@
 ---
 title: Uganda — monthly update, August – September 2026
-compiled: 2026-09-25
-period: 2026-08-01 to 2026-09-25
+compiled: 2026-09-27
+period: 2026-08-01 to 2026-09-27
 place: UGA
-ledger_rows: 114
+ledger_rows: 115
 not_held: 11
-record: cd62ac467d3a
+record: e493f4451a2b
 ---
 
 # Uganda: monthly update, August – September 2026
@@ -281,6 +281,8 @@ The commercial route to a connected device is credit. Buy-now-pay-later schemes 
 A six-year donor digital-inclusion programme [ended, with stakeholders urging the government to take over what it was doing](https://www.pulse.ug/story/uncdf-digital-inclusion-uganda-government-takeover-2026082616160487381). No successor instrument, budget line or transfer of assets is on file, which makes the closure a stated exposure rather than an inference.
 
 Mobile-industry research [put internet use at about a quarter of refugee women against about half of refugee men](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/blog/closing-the-digital-divide-for-refugee-women-means-understanding-their-full-experience-of-connectivity/), with device and data costs the main barrier.
+
+The ICT ministry described [a Smart Villages pilot classroom in Butaleja district that joins the same e-learning classes as a Kampala school, with a tower and solar power also supplying 25 households](https://ict.go.ug/media/news/buhadyo-primary-school-smart-classroom-enhancing-e-learning-in-butaleja-district). Roll-out to other unserved areas waits on a presidential launch.
 <!-- /narrative -->
 ### Digital divides
 

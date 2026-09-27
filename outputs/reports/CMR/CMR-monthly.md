@@ -1,11 +1,11 @@
 ---
 title: Cameroon — monthly update, August – September 2026
-compiled: 2026-09-18
-period: 2026-08-01 to 2026-09-18
+compiled: 2026-09-27
+period: 2026-08-01 to 2026-09-27
 place: CMR
-ledger_rows: 48
+ledger_rows: 50
 not_held: 4
-record: 420ca92b23c7
+record: 36e52d42c878
 ---
 
 # Cameroon: monthly update, August – September 2026
@@ -65,6 +65,8 @@ The EU's digital money was set out in September: [CFAF 9.83bn for the regional D
 The regulator's director-general said the [preparatory work for 5G is practically complete but set no date for commercial launch](https://www.businessincameroon.com/telecom/2608-16620-cameroon-says-5g-groundwork-nearly-complete-with-more-operator-investment-needed), calling for more operator investment. A regulator saying the groundwork is done while naming no date is the whole of the position: no spectrum award, coverage obligation or licence term is on file.
 
 The state operator [took delivery of a second shipment of equipment from China for 245 new mobile sites, which would take its declared network from 473 to 718, weighted to rural and district areas](https://www.businessincameroon.com/telecom/1809-16779-camtel-plans-245-new-mobile-sites-to-narrow-network-gap-with-rivals). No cost or completion date is stated.
+
+The lender [reviewed the E-National Higher Education Network with the higher-education ministry on 24 September](https://canalinfo24.com/article/cooperation-universitaire-le-minesup-et-china-exim-bank-evaluent-le-projet-enhen); the ministry listed 500,000 student computers, ten university digital-development centres and campus interconnection among its outputs, with no usage figure or new financing.
 <!-- /narrative -->
 ### Data Storage
 
@@ -77,6 +79,11 @@ The Douala project was confirmed and qualified in the same week. The vendor [con
 
 <!-- narrative: ict-infrastructure--infra-energy -->
 The energy ministry announced that the [gas-fired thermal plant at Kribi would be shut down for the whole of a pipeline maintenance window from 5 to 7 August, cutting the southern interconnected grid's generation capacity and disrupting supply in some localities](https://minee.cm/en/communique-de-presse-perturbations-temporaires-de-la-fourniture-de-lenergie-electrique-pourraient-etre-observees-dans-certaines-localites-du-pays-05-08-2026/), with all other available generation mobilised to limit the effect. It is the clearest statement the repository holds of how one plant's outage reaches the grid the country's data centres sit on. No data centre's supply arrangement, tariff or backup duty is published.
+<!-- /narrative -->
+### Technical Capacity
+
+<!-- narrative: ict-infrastructure--infra-capacity -->
+The digital transformation project [launched train.patnucelearning.cm on 21 September to train 15,000 civil servants and public-enterprise staff online over 50 days, in AI and blockchain, digital project management, change management and electronic records](https://www.digitalbusiness.africa/cameroun-train-patnucelearning-cm-la-plateforme-numerique-lancee-pour-former-15-000-agents-publics-a-lia-la-blockchain-et-la-transformation-digitale/). It moved from consultant selection in April to a live platform; no enrolment or completion figure is published yet.
 <!-- /narrative -->
 ### Cybersecurity
 

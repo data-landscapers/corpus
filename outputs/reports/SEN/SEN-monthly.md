@@ -1,11 +1,11 @@
 ---
 title: Senegal — monthly update, August – September 2026
-compiled: 2026-09-25
-period: 2026-08-01 to 2026-09-25
+compiled: 2026-09-27
+period: 2026-08-01 to 2026-09-27
 place: SEN
 ledger_rows: 71
 not_held: 3
-record: f85015a81bfb
+record: c6586ef42446
 ---
 
 # Senegal: monthly update, August – September 2026
@@ -32,6 +32,8 @@ The roadmap acquired a shape and a hole in the same statement. Presented at an i
 The new prime minister's [general policy declaration of 8 September kept the New Deal technologique as the framework and named a sovereign cloud to host sensitive state data on national soil](https://droit-et-politique-en-afrique.info/wp-content/uploads/2026/09/Declaration-de-politique-generale-du-Premier-ministre-Ahamadou-Alhaminou-Mohamed-Lo-8-septembre-2026.pdf), with a stated change of method: [projects must now show feasibility, financing and demonstrated impact before they proceed](https://www.socialnetlink.org/2026/09/08/dpg-cloud-souverain-ia-le-gouvernement-veut-passer-des-annonces-a-lexecution-du-new-deal-technologique/). No project list or costing accompanies it.
 
 The digital ministry [validated its draft blueprint for creating value from data at a workshop on 21 and 22 September](https://techafricanews.com/2026/09/23/senegal-validates-national-blueprint-data-valorisation/), run with Smart Africa's data-governance programme and GIZ; Senegal is a pilot with Kenya and Lesotho, and no finalisation date was given.
+
+The ministry [called on 24 September for firms to study the interoperability platform's infrastructure needs](https://guindima.sn/news/article/appel-a-manifestation-dinteret-etude-des-besoins-en-infrastructure-de-la-plateforme-dinteroperabilite-nationale-pins/), to grow a start-small X-Road set-up into a multisite architecture across national and sectoral data centres.
 <!-- /narrative -->
 ### Legislation and regulation
 

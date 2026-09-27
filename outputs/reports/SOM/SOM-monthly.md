@@ -1,11 +1,11 @@
 ---
 title: Somalia — monthly update, August – September 2026
-compiled: 2026-09-21
-period: 2026-08-01 to 2026-09-21
+compiled: 2026-09-27
+period: 2026-08-01 to 2026-09-27
 place: SOM
-ledger_rows: 33
+ledger_rows: 34
 not_held: 2
-record: 5a3f18a3f0b1
+record: 058a7f55a961
 ---
 
 # Somalia: monthly update, August – September 2026
@@ -112,6 +112,14 @@ Ownership was stated as the goal rather than capability. A senior government adv
 
 <!-- narrative: capacity--capacity-training -->
 In the north, the Somaliland administration [launched fixed-asset training for public financial accountability on 4 August](https://www.somalilandcurrent.com/somaliland-launches-major-fixed-asset-training-to-strengthen-public-financial-accountability/). No participant total, system or completion date is stated, and the repository carries no earlier position for it.
+<!-- /narrative -->
+
+## Inclusion
+
+### Digital divides
+
+<!-- narrative: inclusion--include-divides -->
+The operator-led smartphone financing programme [reported more than 2,500 phones sold since its May launch and extended through 15 more branches in Jubaland, South West, Hirshabelle and Galmudug](https://sokodirectory.com/2026/09/hormuud-and-getphone-expand-smartphone-finance-into-four-new-somali-states-due-to-high-demand/), against its own target of 100,000 by year end. Its early repayment data, on nearly 1,700 August contracts, show little difference between low- and high-scored borrowers; the figures are the partners' own.
 <!-- /narrative -->
 
 ## Data

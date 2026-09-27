@@ -1,11 +1,11 @@
 ---
 title: Madagascar — monthly update, August – September 2026
-compiled: 2026-09-25
-period: 2026-08-01 to 2026-09-25
+compiled: 2026-09-27
+period: 2026-08-01 to 2026-09-27
 place: MDG
-ledger_rows: 41
+ledger_rows: 42
 not_held: 5
-record: a1fd4a07b9f1
+record: fa69b744c5cb
 ---
 
 # Madagascar: monthly update, August – September 2026
@@ -108,6 +108,11 @@ On 21 September the commerce ministry [began training its regional directorates 
 AXIAN Telecom was [named a founding partner of an African-language artificial-intelligence initiative on 28 July 2026](https://techafricanews.com/2026/07/28/axian-telecom-named-founding-partner-of-atlas-umoja-ai-for-african-language-ai/). No Malagasy-language model or dataset has been released.
 
 A [Madagascar-Egypt government partnership on the use of artificial intelligence in public administration and the sector's digital transition was reported on 1 August](https://midi-madagasikara.mg/transformation-numerique-recrutement-de-jeunes-au-sein-du-mndpt/), with no date of signature given.
+<!-- /narrative -->
+### ICT Industry
+
+<!-- narrative: technology--tech-industry -->
+The government outsourcing-skills programme [certified 99 of the 111 trainees in its second seven-week cohort on 24 September](https://www.2424.mg/formation-professionnelle-99-jeunes-certifies-aux-metiers-du-bpo-apres-sept-semaines-de-formation/), delivered with a private academy under a World Bank-supported project. No placement figure is published, so what the cohort shows is completion rather than jobs.
 <!-- /narrative -->
 
 ## Capacity

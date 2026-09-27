@@ -1,11 +1,11 @@
 ---
 title: South Africa — monthly update, August – September 2026
-compiled: 2026-09-25
-period: 2026-08-01 to 2026-09-25
+compiled: 2026-09-27
+period: 2026-08-01 to 2026-09-27
 place: ZAF
-ledger_rows: 191
+ledger_rows: 192
 not_held: 22
-record: 20e758d790da
+record: 5359997b8e35
 ---
 
 # South Africa: monthly update, August – September 2026
@@ -75,6 +75,8 @@ At the launch of the human rights commission's policy brief on information integ
 On 11 August the United Kingdom [published a call for expressions of interest for a Southern Africa science and technology accelerator worth up to GBP2.5m over three years to March 2030, with up to GBP400,000 for 2026/27](https://www.gov.uk/international-development-funding/science-and-technology-accelerator-systems-sta-s-southern-africa-programme). It covers artificial intelligence, emerging technologies and digital access, as well as climate, energy, health and space. South Africa is the main focus; Zimbabwe and Zambia are the focus of the first year. The delivery consortium has not been chosen, and a contract is expected later in the year.
 
 The lead investor in the fibre recapitalisation [put its commitment at more than R2.1bn, valuing the fibre companies at R14.4bn in total](https://www.itweb.co.za/article/sa-investment-firm-ploughs-r21bn-into-digital-economy/KzQenMjyjEA7Zd2r).
+
+A payments-infrastructure firm [closed a US$22m Series A led by a local venture firm on 5 August](https://techafricanews.com/2026/08/05/moment-raises-22-million-series-a-to-expand-payment-infrastructure-across-africa/), taking its total raised to US$55m.
 <!-- /narrative -->
 
 ## ICT Infrastructure

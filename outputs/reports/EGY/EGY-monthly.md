@@ -1,11 +1,11 @@
 ---
 title: Egypt — monthly update, August – September 2026
-compiled: 2026-09-25
-period: 2026-08-01 to 2026-09-25
+compiled: 2026-09-27
+period: 2026-08-01 to 2026-09-27
 place: EGY
-ledger_rows: 131
+ledger_rows: 132
 not_held: 45
-record: 7411270ae871
+record: 38c3b78fe344
 ---
 
 # Egypt: monthly update, August – September 2026
@@ -103,6 +103,8 @@ Agreements linking Vodafone Business, Cassava Technologies and Elsewedy Electric
 
 <!-- narrative: dpi--dpi-exchange -->
 The financial regulator [ordered consumer and small-business lenders to report approvals, repayments and legal action to the credit bureau in real time, under decisions 174 and 175 of 2026](https://english.ahram.org.eg/NewsContent/3/12/576524/Business/Economy/Egypt-mandates-realtime-credit-reporting-for-consu.aspx), and its [Decision No. 2863 requires consumer-finance companies to consult the bureau's behavioural score, built on alternative data, from 1 April 2027](https://www.youm7.com/story/2026/9/15/%D8%A7%D9%84%D8%B1%D9%82%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D8%AA%D8%B6%D9%8A%D9%81-%D8%AA%D9%82%D9%8A%D9%8A%D9%85-%D8%A7%D9%84%D8%AA%D8%AD%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%B3%D9%84%D9%88%D9%83%D9%8A-%D9%84%D9%84%D8%A7%D8%B3%D8%AA%D8%B9%D9%84%D8%A7%D9%85-%D8%B9%D9%86-%D8%B9%D9%85%D9%84%D8%A7%D8%A1-%D8%A7%D9%84%D8%AA%D9%85%D9%88%D9%8A%D9%84/7547207). The stock exchange and the internal trade authority [signed a protocol integrating the commercial registry with exchange databases](https://www.businessmen-eg.com/en/6166/egyptian-exchange-itda-sign-data-integration-agreement) (20 August), and the environment agency and the export-control body [signed one to exchange industrial facilities' environmental data through a unified registry](https://www.masrawy.com/news/news_egypt/details/2026/9/1/3041890/بالتفاصيل-بروتوكول-لربط-قواعد-البيانات-البيئية-بالأنشطة-الصناعية) (1 September). The health minister [discussed a proposed national platform linking patient records across health facilities](https://www.dailynewsegypt.com/2026/09/14/egypt-plans-unified-digital-platform-to-link-patient-records-across-health-facilities/) (14 September); it is a proposal, with no build stage or date.
+
+The non-bank regulator's [Decision 2684 came into force on 24 September, requiring consumer-finance companies to build the technology to link their databases to the regulator's, including real-time purchase data](https://fra.gov.eg/fra_news/%D8%A7%D9%84%D8%B1%D9%82%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D8%AA%D9%84%D8%B2%D9%85-%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%85%D9%88%D9%8A%D9%84-%D8%A7/). The controls that set when the data flows are due within six months.
 <!-- /narrative -->
 ### Digital Identity and CRVS
 

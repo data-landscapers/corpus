@@ -1,11 +1,11 @@
 ---
 title: Chad — monthly update, August – September 2026
-compiled: 2026-09-24
-period: 2026-08-01 to 2026-09-24
+compiled: 2026-09-27
+period: 2026-08-01 to 2026-09-27
 place: TCD
-ledger_rows: 51
+ledger_rows: 52
 not_held: 22
-record: d128b346db86
+record: d83d9db4137d
 ---
 
 # Chad: monthly update, August – September 2026
@@ -120,6 +120,11 @@ A September press account [places the 3,000 payment terminals in the revenue off
 Civil registration is where Chad's month has both its clearest instrument and its largest gap. [48.33 per cent of new births are registered within the three-month legal deadline, with about 2.95m under-fives undeclared and 829,000 pupils in school with no document attesting their legal existence](https://www.alwihdainfo.com/tchad-une-campagne-pour-lidentite-des-enfants-afin-de-renforcer-lenregistrement-a-letat-civil/). Against that a [six-month campaign to December targets at least a million children from four months to seventeen years across twelve provinces](https://atpe.td/un-enfant-un-acte-de-naissance-une-operation-pour-enregistrer-un-million-denfants/), by household enumeration and a schools drive, with community teams using smartphones feeding the biometric register; no enrolment achieved so far is reported, and one account puts the household component in twelve provinces while another says every province. It runs inside a [moratorium signed on 2 February suspending court fees for supplementary birth judgments for that age range until 2030](https://atpe.td/un-enfant-un-acte-de-naissance-une-operation-pour-enregistrer-un-million-denfants/) — a four-year legal window around a six-month campaign — whose own text is not held. The civil-registration application has been [deployed since 2021 with no coverage, site count or throughput figure published](https://tchadinfos.com/2026/08/08/sarh-un-atelier-pour-renforcer-la-collecte-et-la-transmission-des-donnees-detat-civil/), and new monthly *paper* collection forms were introduced in August to improve transmission of birth, marriage and death data to the centre.
 
 A register of a different kind opened. The youth and sports ministry [launched MJS CONNECT in N'Djamena on 4 September to register sports federations, youth associations and movements and build a national directory of them, letting registered associations enrol, hold a digital space and file administrative formalities online, and recording who is active, in what field and where](https://lendjampost.com/digitalisation-le-ministere-de-la-jeunesse-veut-simplifier-les-demarches-administratives-dans-son-departement-a-travers-la-plateforme-mjs-connect/), with performance indicators intended to inform how the ministry allocates resources. No registration count, cost, vendor or data-protection provision is published.
+<!-- /narrative -->
+### Sectoral management information systems
+
+<!-- narrative: dpi--dpi-mis -->
+A regional platform for digitising health campaigns [was piloted in a district of N'Djamena province during the June 2026 polio campaign](https://www.afro.who.int/news/who-africa-launches-health-campaign-digitization-initiative-digit-hcm-transform-health), the WHO regional office said when it launched the initiative on 25 September. No coverage, cost or decision on national roll-out is stated.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 

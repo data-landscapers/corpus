@@ -1,11 +1,11 @@
 ---
 title: Angola — monthly update, August – September 2026
-compiled: 2026-09-25
-period: 2026-08-01 to 2026-09-25
+compiled: 2026-09-27
+period: 2026-08-01 to 2026-09-27
 place: AGO
 ledger_rows: 65
 not_held: 6
-record: 2dcb5a8fbd18
+record: b91614cdf00c
 ---
 
 # Angola: monthly update, August – September 2026
@@ -202,7 +202,7 @@ A new technology centre [entered service in August](https://www.opais.ao/politic
 ### Access to services
 
 <!-- narrative: inclusion--include-access -->
-The identity-card universalisation programme is being reported by throughput: [more than 4,000 cards issued in one municipality in sixteen days](https://minjusdh.gov.ao/web/noticias/programa-de-universalizacao-do-bi-reforca-acesso-a-documentacao-em-egito-praia), with no national total, backlog figure or target date beside it.
+The identity-card universalisation programme is being reported by throughput: [more than 4,000 cards issued in one municipality in sixteen days](https://minjusdh.gov.ao/web/noticias/programa-de-universalizacao-do-bi-reforca-acesso-a-documentacao-em-egito-praia), and now by a national total: [17,166,000 cards issued at home and abroad by 24 September, with a target of a card for every registered adult by December 2026](https://angolanewswire.com/angolan-government-issues-more-than-17-million-citizens-identity-cards/). It is a cumulative count, not a coverage rate.
 
 The telecommunications ministry [opened further computer rooms and free public internet points in Luanda and Icolo e Bengo](https://www.opais.ao/sociedade/minttics-inaugura-novas-salas-de-informatica-em-luanda-e-icolo-e-bengo/). No national count of sites, users or budget line is on file behind the programme.
 <!-- /narrative -->

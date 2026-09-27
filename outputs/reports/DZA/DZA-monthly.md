@@ -1,11 +1,11 @@
 ---
 title: Algeria — monthly update, August – September 2026
-compiled: 2026-09-25
-period: 2026-08-01 to 2026-09-25
+compiled: 2026-09-27
+period: 2026-08-01 to 2026-09-27
 place: DZA
-ledger_rows: 51
+ledger_rows: 53
 not_held: 6
-record: a64773f62ab1
+record: 2306f8f9f0b4
 ---
 
 # Algeria: monthly update, August – September 2026
@@ -88,6 +88,8 @@ The unified national digital identity is being used as a single sign-on, and the
 
 <!-- narrative: dpi--dpi-pay -->
 A central bank regulation of 31 May [set the composition and working arrangements of the National Payments Committee](https://www.echoroukonline.com/%d8%aa%d8%ad%d8%b1%d9%83-%d8%b1%d8%b3%d9%85%d9%8a-%d9%84%d8%a5%d9%86%d9%87%d8%a7%d8%a1-%d9%87%d9%8a%d9%85%d9%86%d8%a9-%d8%a7%d9%84%d9%83%d8%a7%d8%b4-%d9%88%d8%aa%d9%82%d8%b1%d9%8a%d8%b1-%d8%b3), reported in August; the national payments strategy it is to draft is not published. The count of web merchants accepting electronic payment [passed 1,000 at the end of June](https://alger16.dz/?p=65795), the first such count on record, so the level is stated and the direction is not.
+
+The monetary and banking council [authorised a mobile operator's subsidiary on 23 September to constitute itself as a payment service provider](https://www.bank-of-algeria.dz/stoodroa/2026/09/communique-23-09-2026FR.pdf), the first such subsidiary under the 2025 regime; it must obtain its licence within twelve months before it can operate.
 <!-- /narrative -->
 ### Registries
 
@@ -115,6 +117,8 @@ The national portal [reached 150 services on 9 September on the high commission'
 The foreign trade ministry's services-import platform [entered operation on 1 August](https://drive.google.com/file/d/1_UovYiTOhikpGJ7QiOUNQJsAoYu6xqw_/view) as the [exclusive route for those applications](https://www.echoroukonline.com/وزارة-التجارة-الخارجية-تطلق-منصة-رقمي). The trade ministry's [complaints platform for economic operators went live on 11 August](https://www.horizons.dz/2026/08/operateurs-economiques-une-nouvelle-plateforme-numerique-pour-le-traitement-des-preoccupations-a-distance/), for remote filing and tracking of concerns about import and export procedures, and the ministry describes it as the fifth platform it has put into service this year. The Ombudsman institution will [pilot a videoconference citizen-reception service from September 2026](https://www.horizons.dz/2026/08/instance-du-mediateur-de-la-republique-nouvelle-vision/), for citizens in remote areas and people with specific needs. Separately, UNDP [committed a grant on 31 August to bring natural-language processing and automated deadline tracking into the Ombudsman's handling of citizen requests](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-41114-OUTPUT-01006100). On 1 September the public works ministry [opened online filing of firms' qualification and classification files and design-office accreditation](https://www.echoroukonline.com/بوابة-وزارة-الأشغال-العمومية-تطلق-خدم).
 
 On 10 August the interior minister [ordered his own ministry to accelerate digitisation projects he described as stalled](https://www.horizons.dz/2026/08/numerisation-sayoud-ordonne-daccelerer-la-mise-en-oeuvre-des-projets/), naming vehicle-registration and civil-status services; he gave no completion figure or revised timetable. The state fuel distributor [made its e-Mahata platform the single window for ordering tyres](https://just-infodz.com/naftal-pneus-algerie-incoherence-himayatak/), requiring electronic payment and capping one make at two purchases per citizen per six months. The labour ministry [launched an online corruption-reporting platform, Tabligh](https://just-infodz.com/lutte-corruption-algerie-plateforme-tabligh-mtess/), covering the central administration, with no report volume, handling procedure or protection for reporters published. On 9 September the president [ordered the investor single window effectively in service by the end of September and all investment procedures digitised with the tax, state-property and customs administrations](https://elwatan.dz/le-president-tebboune-ordonne-lacceleration-de-la-numerisation-mise-en-service-du-guichet-unique-fin-septembre/).
+
+The national pension fund [added a website chatbot on 24 September](https://observalgerie.com/2026/09/24/economie/la-cnr-lance-un-nouveau-service-pour-les-retraites-algeriens/) to remote services that already let some pensioners prove they are alive by facial recognition, against a ministry target of halving office visits by year end.
 <!-- /narrative -->
 
 ## Technology
@@ -125,6 +129,8 @@ On 10 August the interior minister [ordered his own ministry to accelerate digit
 Implementation of the national strategy is organised under the higher-education minister. A first coordination meeting on 5 August [installed a joint monitoring committee](https://www.aps.dz/fr/algerie/education-et-technologie/msg23yd3-reunion-de-coordination-pour-la-mise-en-%C5%93uvre-de-la-strategie-nationale-en-matiere-de-l-ia), and on 12 August the minister reported [a joint inter-ministerial roadmap prioritising sovereign open-source models, high-performance computing centres, national data storage and stronger safeguards for public-sector applications](https://itweb.africa/article/algeria-launches-public-service-ai/lwrKxv3Y1oyMmg1o). A second meeting on 8 September [created five thematic commissions, a national AI and data research centre, short-term projects for AI-based tax administration and a multisectoral AI system, and a target of 50,000 AI specialists by 2030](https://www.mesrs.dz/fr/2026/09/le-ministre-de-lenseignement-superieur-et-de-la-recherche-scientifique-preside-la-premiere-reunion-de-coordination-consacree-a-la-mise-en-oeuvre-de-la-strategie-nationale-de-lintelli/). The strategy text is still not published and the ethical-AI law has not moved.
 
 The forestry and civil protection directorates [built artificial-intelligence-assisted prediction and early warning, with thermal-camera drones flying day and night, into the 2026 fire campaign](https://www.echoroukonline.com/عُقول-جزائريّة-تُحارب-النّار-والذكاء).
+
+A follow-up meeting on the strategy, reported on 22 September, [approved an updated draft decree creating a national AI and data research centre and set 17 infrastructure and 14 data operations for 2026](https://dzwatch.dz/?p=79285). The decree is in legal procedure and the strategy text remains unpublished.
 <!-- /narrative -->
 ### ICT Industry
 

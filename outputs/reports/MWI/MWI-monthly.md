@@ -1,11 +1,11 @@
 ---
 title: Malawi — monthly update, August – September 2026
-compiled: 2026-09-24
-period: 2026-08-01 to 2026-09-24
+compiled: 2026-09-27
+period: 2026-08-01 to 2026-09-27
 place: MWI
-ledger_rows: 66
+ledger_rows: 67
 not_held: 35
-record: 3a84893e37af
+record: 59f5d8141808
 ---
 
 # Malawi: monthly update, August – September 2026
@@ -127,6 +127,8 @@ The wallet has a date. The registration bureau [set its national launch for 16 S
 The mobile credential launched on schedule. [The Nzika wallet went live in Lilongwe on 16 September](https://malawi24.com/2026/09/16/malawi-drops-expiry-dates-on-national-ids/), and at the launch the minister directed that national ID cards be issued without expiry dates from that day, ending the renewal regime that had left about two million cards expired.
 
 On International Identity Day the registration bureau [launched the Nzika wallet, holding national ID, birth, marriage and death credentials on a phone as an optional complement to the physical card, and the minister ended expiry dates on the card with immediate effect](https://www.biometricupdate.com/202609/malawi-drops-id-card-expiry-date-policy-as-digital-wallet-launches). The wallet was built under the donor-funded inclusive digital transformation programme. No verification standard or count of services accepting it is stated.
+
+An investigation reported that [a US$5.09m World Bank-financed contract for 2,400 biometric registration kits, with remote software support, went to a Hong Kong-registered supplier in March](https://malawi24.com/2026/09/26/nzika-wallet-controversy-who-holds-the-keys-to-malawis-multibillion-digital-identity/), about 27% above estimate. The procurement authority says remote access reaches the kits only; the registration bureau and the regulator did not answer.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 

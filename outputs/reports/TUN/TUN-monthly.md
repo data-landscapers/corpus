@@ -1,11 +1,11 @@
 ---
 title: Tunisia — monthly update, August – September 2026
-compiled: 2026-09-25
-period: 2026-08-01 to 2026-09-25
+compiled: 2026-09-27
+period: 2026-08-01 to 2026-09-27
 place: TUN
-ledger_rows: 65
+ledger_rows: 66
 not_held: 5
-record: d16fb717467a
+record: 072b7ba8011f
 ---
 
 # Tunisia: monthly update, August – September 2026
@@ -35,6 +35,8 @@ Tunisia's Geneva mission said on 21 September that [UNCTAD is supporting the tra
 
 <!-- narrative: governance--gov-legislate -->
 Compulsory electronic invoicing reached the liberal professions: [registration of about 380,000 providers on the platform opened on 15 September](https://fr.allafrica.com/stories/202609200069.html). The date rests on a tax adviser's radio account, and no official instrument fixing it is held.
+
+The central bank's [circular 2026-10 of 25 September replaced the 2018 payment-establishments circular](https://www.tunisienumerique.com/wp-content/uploads/2026/09/circulaire-25-septrembre.pdf), allowing three tiers of payment account, remote account opening on reliable identity verification and a 3,000-dinar cap on cash transfers, in force three months after publication.
 <!-- /narrative -->
 ### Regional collaboration
 

@@ -1,11 +1,11 @@
 ---
 title: Kenya — monthly update, August – September 2026
-compiled: 2026-09-25
-period: 2026-08-01 to 2026-09-25
+compiled: 2026-09-27
+period: 2026-08-01 to 2026-09-27
 place: KEN
-ledger_rows: 209
+ledger_rows: 210
 not_held: 7
-record: c2ac977bd598
+record: 641ce6e4b00e
 ---
 
 # Kenya: monthly update, August – September 2026
@@ -63,6 +63,7 @@ The regulator also pressed an older instrument into the campaign. The data commi
 
 A gap the regulator does not cover was named at the internet governance forum, where a United Nations agency [said an Agency Coordination Mechanism is being fast-tracked against AI-manipulated images and the doxing of female candidates ahead of the 2027 elections](https://www.kictanet.or.ke/keigf-2026-report-digital-futures/); no terms of reference or date is published.
 
+The regulator's [2026 guidance notes on cross-border transfers add standard contractual clauses and a binding-corporate-rules application form](https://www.odpc.go.ke/wp-content/uploads/2026/09/ODPC-%E2%80%93-Guidance-Notes-for-Cross-border-Data-Transfers.pdf) to the April note. The document prints no issue date.
 <!-- /narrative -->
 ### Regional collaboration
 

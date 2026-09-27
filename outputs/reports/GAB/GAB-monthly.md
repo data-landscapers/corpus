@@ -1,11 +1,11 @@
 ---
 title: Gabon — monthly update, August – September 2026
-compiled: 2026-09-25
-period: 2026-08-01 to 2026-09-25
+compiled: 2026-09-27
+period: 2026-08-01 to 2026-09-27
 place: GAB
-ledger_rows: 61
+ledger_rows: 62
 not_held: 16
-record: e2d3ad33e80e
+record: d030dbc2d83d
 ---
 
 # Gabon: monthly update, August – September 2026
@@ -160,6 +160,8 @@ The national innovation centre and UNDP [signed on 15 September to open the Tech
 Certification training is [under way for participants at Libreville's American Corner under a digital-skills programme run with United States embassies](https://techafricanews.com/2026/08/11/cybastion-and-u-s-embassies-partner-to-expand-digital-skills-training-across-africa/). No cohort size or completion date is published.
 
 More than 130 young people have been [trained in cybersecurity, networks, artificial intelligence and programming since June 2026](https://gabonmediatime.com/gabon-etats-unis-130-jeunes-formes-en-cybersecurite-reseaux-ia-et-programmation/) under a programme with the United States. No curriculum, certification or placement outcome is published.
+
+The primary-school digitalisation programme [entered its scale-up phase, the pilot having grown from nine schools to 69](https://agpgabon.ga/gabon-mouila-ouverture-dun-seminaire-sur-la-digitalisation-a-lecole-primaire/), as teacher training opened at Mouila on 25 September; the coordinator put satellite-connected schools at more than 120, below the operator's own count.
 <!-- /narrative -->
 
 ## Inclusion
@@ -178,6 +180,8 @@ The communications regulator [put its consumer short code 1331 back in service a
 The population census moved from government to court. After hearing the planning minister on 12 August, the Constitutional Court [sent teams to all nine provinces to verify the general population and housing census figures before deciding whether to approve them](https://www.gabonreview.com/rgpl-la-cour-constitutionnelle-lance-la-verification-des-chiffres-dans-les-neuf-provinces/), the Estuaire governor reporting enumeration coverage above 95%. No certified population figure is established.
 
 On 18 September the Council of Ministers [adopted three statistics decrees, amending the statistics institute's statutes and reorganising the National Statistics Council and the Special Fund for Statistics, the last to secure financing and reduce dependence on external funds](https://agpgabon.ga/wp-content/uploads/2026/09/Communique-Final-du-18-septembre-2026-version-Presse-ecrite.pdf).
+
+The energy ministry [is building a national energy information system to produce energy balances and SDG 7 indicators, fed by the 2026 census](https://agpgabon.ga/gabon-energie-les-resultats-du-recensement-2026-alimenteront-le-calcul-des-indicateurs-du-sie-ministere-de-lenergie/). No start date or first balance is stated.
 <!-- /narrative -->
 ### Open data
 

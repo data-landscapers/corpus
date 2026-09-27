@@ -1,11 +1,11 @@
 ---
 title: Africa — monthly update, August – September 2026
-compiled: 2026-09-25
-period: 2026-08-01 to 2026-09-25
+compiled: 2026-09-27
+period: 2026-08-01 to 2026-09-27
 place: XAF
-ledger_rows: 147
+ledger_rows: 149
 not_held: 3
-record: 3298afbc5cdf
+record: 51f95aae4f0a
 ---
 
 # Africa: monthly update, August – September 2026
@@ -36,6 +36,8 @@ Smart Africa's secretariat [issued two calls for expressions of interest on 13 A
 Three smaller developments: the [Digital Parliaments Project Africa launched at the Parliament of Ghana on 6 August](https://opemsuo.com/digital-parliaments-project-africa-launched-in-ghana-to-strengthen-legislative-processes/), a cohort of Ghana, Botswana, South Africa, Gambia, Senegal and the Pan-African Parliament with no funder, amount or work programme stated; the eighth Korea-Africa Economic Cooperation ministerial [adopted a Joint Declaration and an Action Plan for 2027-2028 in Seoul on 9 September](https://www.afdb.org/en/news-and-events/press-releases/koafec-2026-korea-and-africa-adopt-ambitious-roadmap-accelerate-continents-digital-transformation-96804), with 45 African countries represented, committing both sides to modular data centres, AI models reflecting African languages and further funding for electricity and telecommunications gaps; and the [15th Africa Internet Governance Forum is scheduled for Accra, 2-5 November](https://igf.africa/about-us/event-schedule/), an event schedule rather than an outcome, with no agenda, host-government commitment or funding yet published.
 
 African states went into the last round of preparation for the ITU's November conference in Doha. The African Telecommunications Union's [fourth and final preparatory meeting opened in Abidjan on 15 September](https://afriksoir.net/telecommunications-la-4%e1%b5%89-et-derniere-reunion-preparatoire-africaine-avant-la-pp-26-de-doha-sest-ouverte-a-abidjan/), to adopt common African proposals and candidatures for elected posts by 17 September; the adopted report is not yet held.
+
+COMESA [put a draft baseline study of AI across its member states to a validation meeting at Mbabane on 16 to 18 September](https://idea.comesa.int/press-statement-comesa-advances-responsible-ai-dialogue/), the first phase towards a regional AI strategy and model regulatory framework. No date is set for either.
 <!-- /narrative -->
 
 ## Instruments and harmonisation
@@ -142,6 +144,8 @@ Three health-data systems moved. The Economic Commission for Africa's [five-year
 The African Union's ASRII platform for regional-integration scoring — see Data Exchange, above, for its ECOWAS training — [replaces manual data collection across political, economic, infrastructure and social pillars](https://www.ecowas.int/ecowas-commission-and-african-union-conclude-asrii-digital-platform-training-with-high-level-engagement-with-the-secretary-general/), developed with the regional economic communities, the Economic Commission for Africa and the African Development Bank; no published score or coverage list is yet held.
 
 The seam these platforms are meant to close is the one a live outbreak found again. The African Society for Laboratory Medicine's own multi-country assessment, [completed before the Democratic Republic of Congo's current Ebola outbreak, covered 26 countries — every one with a functioning surveillance system and core diagnostic capacity, nearly nine in ten with a laboratory coordination unit, and 3,964 laboratories mapped across fourteen](https://aslm.org/inside-the-system-that-was-ready-how-years-of-quiet-investment-shaped-africas-ebola-response/), and named digital interoperability between laboratories and surveillance platforms, alongside specimen referral, workforce surge and domestic financing, as the weak points; the response has had to improvise at exactly those seams. It is a reference study written up by its own author rather than a dated development, and is carried here as the measure a data hub would have to move.
+
+The WHO regional office [launched a three-year initiative to digitise the planning, delivery and monitoring of health campaigns, starting with seven pilot countries](https://www.afro.who.int/news/who-africa-launches-health-campaign-digitization-initiative-digit-hcm-transform-health), on an open platform built with the eGov Foundation.
 <!-- /narrative -->
 
 ## Coordination and collaboration
@@ -223,4 +227,6 @@ A women's finance programme was launched on a mobile-money rail rather than a ba
 Two external programmes were measured against their own claims. The EU's Boost Africa [has invested EUR108m, stated at its Abuja forum on 9 September to have attracted about EUR400m more and up to 15,000 jobs](https://www.thisdaylive.com/2026/09/09/eu-eib-invest-e108m-to-drive-african-entrepreneurship-create-15000-jobs/). The UK's 2024-2030 digital development strategy [still carries four 2030 targets, including halving the connectivity gap in 20 countries and eight African AI labs](https://assets.publishing.service.gov.uk/media/6613e7f7c4c84d4b31346a68/FCDO-Digital-Development-Strategy-2024-2030.pdf), but an analyst [finds no published funding behind it](https://www.ictworks.org/fcdo-promises-to-halve-the-digital-divide-where-is-the-money/), and the [Global Tech directorate line reads £24m, £22m and £24m for 2026/27 to 2028/29](https://qna.files.parliament.uk/ws-attachments/1892825/original/ODA%20programme%20allocations.pdf).
 
 Two private vehicles were announced on 16 September: a Cape Town firm [opened a R1 billion raise, reported as about US$63m, for startups and small businesses, beside an AI platform matching more than 4,000 of them to funders](https://techcabal.com/2026/09/16/22-on-sloane-launches-kumii/), with nothing yet raised; and a UK aid-funded agency [is paying a consultancy to find corporate buyers for African startups](https://techcabal.com/2026/09/16/pula-s2e/), taking no stake itself.
+
+The US development finance agency [held a signing ceremony at the UN General Assembly for its board-approved equity in a pan-African digital infrastructure operator](https://www.dfc.gov/media/press-releases/dfc-highlights-us-leadership-economic-statecraft-sidelines-un-general-assembly); closing is not reported.
 <!-- /narrative -->

@@ -1,11 +1,11 @@
 ---
 title: Namibia — monthly update, August – September 2026
-compiled: 2026-09-24
-period: 2026-08-01 to 2026-09-24
+compiled: 2026-09-27
+period: 2026-08-01 to 2026-09-27
 place: NAM
-ledger_rows: 55
+ledger_rows: 56
 not_held: 9
-record: f6182c1714b7
+record: d59c3c1c1b9b
 ---
 
 # Namibia: monthly update, August – September 2026
@@ -82,6 +82,8 @@ The regulator's April-June bulletin [records active mobile subscriber modules up
 
 <!-- narrative: ict-infrastructure--infra-store -->
 The national data centre moved from a Cabinet directive to a budget line: it is now [one of the ICT ministry's flagship projects for 2026/27 inside a N$639.2 million budget](https://technews.com.na/2026/08/06/namibia-to-establish-national-data-centre-under-n639-2m-ict-budget/). Four years after a government task force found the country had none and recommended building one, it still has no site, capacity, cost or completion date.
+
+The ICT minister said on 23 September that [construction had begun beside the new AI institute at Kenya House](https://neweralive.na/ai-to-boost-digital-services-theofelus/). Capacity, cost and completion date are still unpublished.
 <!-- /narrative -->
 ### Cybersecurity
 
@@ -126,6 +128,8 @@ The securities depository was used for the first time by a listed corporate issu
 
 <!-- narrative: dpi--dpi-mis -->
 The Roads Authority [commissioned a N$13 million project control system](https://neweralive.na/n13-million-project-control-system-launched/) to strengthen oversight of road projects. No project count, user base or reporting output accompanies it.
+
+The statistics agency [launched the first national labour-market information system on 24 September](https://www.nampa.org/text/23024267), pulling labour data held by government bodies and the private sector into one platform. No coverage or publication schedule is stated.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -154,7 +158,7 @@ The month's artificial-intelligence work is language work. The development progr
 
 The state's own first artificial-intelligence contract asks the same question of a different dataset, and answers part of it. A [one-year contract with a United States firm at N$39.5m, about US$2.4m, introduces satellite imagery, remote sensing and artificial-intelligence monitoring of mahangu, maize, sorghum, cowpea and wheat](https://observer24.com.na/questions-mount-over-n39-5m-us-agriculture-ai-deal/); the agriculture ministry says Namibia retains ownership of the satellite and crop data generated and will receive model and skills transfer. The award drew public objection over transparency and local participation, and no procurement route, tender record or text of the data-ownership and transfer terms is published.
 
-The research commission [set the launch of a national artificial-intelligence institute for 23 September, with four centres, one of them curating Namibian datasets, and a youth fellowship it says already reaches about 2,000 tertiary students](https://namibiabusinessreview.com/namibia-to-launch-ai-institute-to-strengthen-national-capacity/). Only the announcement is held; no budget or site is stated.
+The research commission [set the launch of a national artificial-intelligence institute for 23 September, with four centres, one of them curating Namibian datasets, and a youth fellowship it says already reaches about 2,000 tertiary students](https://namibiabusinessreview.com/namibia-to-launch-ai-institute-to-strengthen-national-capacity/). It [was launched in Windhoek on 23 September](https://neweralive.na/ncrst-opens-national-ai-institute/), and a working group has submitted its first report on a planned national dataset; no budget is stated.
 <!-- /narrative -->
 ### Innovation ecosystem
 

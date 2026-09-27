@@ -1,11 +1,11 @@
 ---
 title: Congo — monthly update, August – September 2026
-compiled: 2026-09-24
-period: 2026-08-01 to 2026-09-24
+compiled: 2026-09-27
+period: 2026-08-01 to 2026-09-27
 place: COG
-ledger_rows: 32
+ledger_rows: 33
 not_held: 6
-record: 6c0254c23aad
+record: 27ff6cb05785
 ---
 
 # Congo: monthly update, August – September 2026
@@ -51,6 +51,8 @@ The month's governance news is a prosecution. An international observatory [reco
 
 <!-- narrative: finance--finance-new -->
 A number was put on the sector's future. Consultancy forecasts reported by the state news agency [attribute more than 800 billion of gross domestic product to the digital economy within five years](https://www.aci.cg/congo-numerique-plus-de-800-milliards-du-pib-pour-leconomie-numerique-dici-cinq-ans/). It is a projection carried by the state agency, not a measurement, and the record held carries no current figure for the sector's contribution against which to read it.
+
+Works on the AfDB-financed data centre [are running again, put at 82% at a ministerial inspection on 22 September](https://www.aci.cg/congo-infrastructures-le-data-center-operationnelle-dici-fin-2026/); whether the unpaid state tranche that halted them in 2025 was released is not stated.
 <!-- /narrative -->
 
 ## ICT Infrastructure
@@ -65,7 +67,7 @@ The universal access and service fund put a cumulative figure on the record for 
 <!-- narrative: ict-infrastructure--infra-store -->
 The published roadmap names [sovereign hosting and connectivity at the two highest tiers](https://www.adiac-congo.com/content/le-numerique-au-service-dun-congo-plus-performant-plus-souverain-et-plus-proche-de-ses) among its infrastructure programmes; neither exists, with no standing-up instrument, host body, budget or date.
 
-The national data centre remains a thing asserted rather than reported. On 10 August the state operator [showed the minister a real-time security operations centre running across its Brazzaville, Pointe-Noire and Oyo data centres](https://www.adiac-congo.com/content/numerique-congo-telecom-une-entreprise-structuree-aux-yeux-du-ministere-de-tutelle-171196), alongside nationwide fibre connectivity for citizens, businesses and state bodies. It is the fullest description of the operator's estate the repository holds, and it is still a ministerial visit rather than an inauguration report: no capacity, certification or utilisation figure is given for any of the three sites, and nothing reconciles it with the [works reported suspended at 95% completion in late 2025](https://www.sikafinance.com/marches/congo-lachevement-du-data-center-national-bloque-par-un-defaut-de-financement-gouvernemental_57001).
+The national data centre is not in service. On 22 September the vice-prime minister [put works at 82% and operation at the end of 2026 or early 2027, with energy tests within a month](https://www.vox.cg/le-vice-premier-ministre-inspecte-letat-davancement-de-la-ferme-solaire-et-du-data-center/), and a [12 MW solar farm is to back it because grid power alone would deter clients](https://www.aci.cg/congo-infrastructures-le-data-center-operationnelle-dici-fin-2026/). The operator's own estate is a different thing. On 10 August the state operator [showed the minister a real-time security operations centre running across its Brazzaville, Pointe-Noire and Oyo data centres](https://www.adiac-congo.com/content/numerique-congo-telecom-une-entreprise-structuree-aux-yeux-du-ministere-de-tutelle-171196), alongside nationwide fibre connectivity for citizens, businesses and state bodies. It is the fullest description of the operator's estate the repository holds, and it is still a ministerial visit rather than an inauguration report: no capacity, certification or utilisation figure is given for any of the three sites, and nothing reconciles it with the [works reported suspended at 95% completion in late 2025](https://www.sikafinance.com/marches/congo-lachevement-du-data-center-national-bloque-par-un-defaut-de-financement-gouvernemental_57001).
 <!-- /narrative -->
 ### Cybersecurity
 
