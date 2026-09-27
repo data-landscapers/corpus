@@ -1,0 +1,218 @@
+{
+ "schema": 3,
+ "written_utc": "2026-09-27 21:40",
+ "pass": "sweep cycle",
+ "head": "900081b60fe9c10875764c88ce3a5ec18bd702f0",
+ "head_committed_utc": "2026-09-27 21:40",
+ "collection": {
+  "last_admission": "2026-09-27 20:44",
+  "sweep_closed": "2026-09-27 20:29",
+  "ingest_started": "2026-09-27 20:30"
+ },
+ "rotation": {
+  "days": 2,
+  "newest_close": {
+   "day": "1",
+   "jobs": [
+    "SWEEP-NEWSPAPERS",
+    "SWEEP-JOURNALS",
+    "SWEEP-THINKTANKS",
+    "SWEEP-REGIONAL"
+   ],
+   "start": "2026-09-27 19:55",
+   "end": "2026-09-27 21:19",
+   "duration": "1:24",
+   "skipped": false,
+   "in_progress": false
+  },
+  "in_progress": []
+ },
+ "counts": {
+  "items_in": 97,
+  "admitted": 48,
+  "dropped": 49,
+  "screened": 652,
+  "screen_dropped": 558,
+  "pages_over_line": 77,
+  "awaiting_ingest": 0,
+  "raw_sources": 25456
+ },
+ "usage": {
+  "start": {
+   "time_utc": "2026-09-27 19:48",
+   "seven_day": 7.0,
+   "five_hour": 0.0
+  },
+  "notes": {
+   "time_utc": "2026-09-27 19:55",
+   "seven_day": 7.0,
+   "five_hour": 0.0
+  },
+  "sweep": {
+   "time_utc": "2026-09-27 20:29",
+   "seven_day": 10.0,
+   "five_hour": 14.0
+  },
+  "ingest": {
+   "time_utc": "2026-09-27 20:44",
+   "seven_day": 11.0,
+   "five_hour": 17.0
+  },
+  "lint": {
+   "time_utc": "2026-09-27 21:19",
+   "seven_day": 12.0,
+   "five_hour": 20.0
+  },
+  "close": {
+   "time_utc": "2026-09-27 21:19",
+   "seven_day": 12.0,
+   "five_hour": 20.0
+  },
+  "backlog": {
+   "time_utc": "2026-09-27 21:25",
+   "seven_day": 12.0,
+   "five_hour": 20.0
+  },
+  "rules": {
+   "time_utc": "2026-09-27 21:38",
+   "seven_day": 12.0,
+   "five_hour": 21.0
+  },
+  "end": {
+   "time_utc": "2026-09-27 21:40",
+   "seven_day": 12.0,
+   "five_hour": 21.0
+  }
+ },
+ "drops": {
+  "night": "2026-09-27",
+  "ingest_coded": true,
+  "sweeps": {
+   "acquire": {
+    "sweep": {},
+    "ingest": {},
+    "admitted": 8,
+    "ingest_drop_rate": 0.0
+   },
+   "daily": {
+    "sweep": {
+     "out-of-window": 212,
+     "off-place": 5,
+     "already-held": 1,
+     "no-development": 1
+    },
+    "ingest": {
+     "off-place": 5,
+     "already-held": 1,
+     "no-development": 1
+    },
+    "admitted": 1,
+    "ingest_drop_rate": 0.875
+   },
+   "journals": {
+    "sweep": {
+     "already-seen": 12,
+     "off-place": 7,
+     "already-held": 1,
+     "off-topic": 1
+    },
+    "ingest": {
+     "off-place": 7
+    },
+    "admitted": 0,
+    "ingest_drop_rate": 1.0
+   },
+   "newspapers": {
+    "sweep": {
+     "off-topic": 124,
+     "no-development": 23,
+     "already-held": 14,
+     "already-seen": 12,
+     "duplicate-in-run": 3,
+     "no-value": 3,
+     "off-place": 2,
+     "headline-only-stub": 1
+    },
+    "ingest": {
+     "already-held": 13,
+     "off-topic": 7,
+     "no-value": 4,
+     "already-seen": 2,
+     "no-development": 1
+    },
+    "admitted": 24,
+    "ingest_drop_rate": 0.529
+   },
+   "off-list": {
+    "sweep": {
+     "already-held": 4,
+     "off-place": 4,
+     "no-development": 3,
+     "already-seen": 1,
+     "off-topic": 1,
+     "out-of-window": 1
+    },
+    "ingest": {
+     "already-held": 5,
+     "off-place": 5,
+     "no-development": 3,
+     "no-value": 1,
+     "off-topic": 1
+    },
+    "admitted": 6,
+    "ingest_drop_rate": 0.714
+   },
+   "regional": {
+    "sweep": {
+     "already-seen": 24,
+     "already-held": 18,
+     "off-topic": 17,
+     "no-development": 7,
+     "syndicated-copy": 5,
+     "inadmissible-origin": 4,
+     "out-of-window": 4,
+     "headline-only-stub": 1,
+     "not-this-slice": 1,
+     "off-place": 1
+    },
+    "ingest": {
+     "already-held": 23,
+     "off-topic": 9,
+     "no-development": 4,
+     "already-seen": 2,
+     "inadmissible-origin": 2,
+     "no-value": 2,
+     "off-place": 1,
+     "syndicated-copy": 1
+    },
+    "admitted": 13,
+    "ingest_drop_rate": 0.772
+   },
+   "thinktanks": {
+    "sweep": {
+     "off-topic": 9,
+     "out-of-window": 6,
+     "already-held": 2,
+     "no-development": 2,
+     "off-place": 2,
+     "already-seen": 1,
+     "duplicate-in-run": 1
+    },
+    "ingest": {
+     "off-topic": 2,
+     "no-development": 1
+    },
+    "admitted": 2,
+    "ingest_drop_rate": 0.6
+   }
+  }
+ },
+ "hygiene": {
+  "housekeeping_next": 238,
+  "trims_rows": 22,
+  "housekeeping_registered": 0,
+  "words_trimmed": -2241,
+  "pages_rewritten": 15,
+  "since": "2026-09-27 00:50"
+ }
+}
