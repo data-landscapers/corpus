@@ -1,5 +1,6 @@
 ## 27 September 2026
 
+- The finance table on each country and region page now looks like the site's other tables, and its figures are whole US$ millions throughout. A commitment under half a million reads <1 rather than 0.0.
 - In the weekly alert email, new data-landscapers.io posts now show their subtitle and a short summary under the title. A reader can tell what a post is about without opening it.
 - The non-state finance tables gain a published date, and the country column is now called recipient, since a deal can go to a region. Clicking a row shows every field, and projects that have finished now read Completed rather than Closed.
 
