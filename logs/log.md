@@ -12,6 +12,8 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-09-27 23:11 · **ANALYTICS** · 1m · 2026-09-25..2026-09-26 written; 26 Sep: dl.io 22 views / 0 clicks, corpus 26 views / 1 clicks
+2026-09-27 23:10 · **NOTES** · 15m · Note 71 closed: Gambia change-log entry added, and STATUS_SHOWN dropped from build-finance-page.py now that no mirror record carries Closed. Share 3ddd366 - ok
 2026-09-27 03:05 · **RENDER** · 15m · 251 reports + home, countries, topics, catalogue, finance, datasets rendered; 3 editions pruned; R2 synced; deployed — ok
 2026-09-27 02:50 · **REVIEW** · 2m · GMB: status 2 sections revised, progress 0 cells, monthly 1 blocks, finance 0 rows; 0 deals queued, 1 notes for OSINT — ok
 2026-09-27 02:48 · **REVIEW** · 3m · GIN: status 5 sections revised, progress 2 cells, monthly 1 blocks, finance 0 rows; 0 deals queued, 0 notes for OSINT — ok
