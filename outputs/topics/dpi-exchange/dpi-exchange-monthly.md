@@ -1,10 +1,10 @@
 ---
 title: Data Exchange — monthly update, August – September 2026
-compiled: 2026-09-25
-period: 2026-08-01 to 2026-09-25
+compiled: 2026-09-27
+period: 2026-08-01 to 2026-09-27
 subject: dpi.exchange
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MAR; MOZ; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 1c5d014de55e
+record: e3097405bc03
 ---
 
 # Data Exchange: monthly update, August – September 2026
@@ -87,6 +87,8 @@ The exchange being built is between revenue agencies rather than between citizen
 
 The financial regulator [ordered consumer and small-business lenders to report approvals, repayments and legal action to the credit bureau in real time, under decisions 174 and 175 of 2026](https://english.ahram.org.eg/NewsContent/3/12/576524/Business/Economy/Egypt-mandates-realtime-credit-reporting-for-consu.aspx), and its [Decision No. 2863 requires consumer-finance companies to consult the bureau's behavioural score, built on alternative data, from 1 April 2027](https://www.youm7.com/story/2026/9/15/%D8%A7%D9%84%D8%B1%D9%82%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D8%AA%D8%B6%D9%8A%D9%81-%D8%AA%D9%82%D9%8A%D9%8A%D9%85-%D8%A7%D9%84%D8%AA%D8%AD%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%B3%D9%84%D9%88%D9%83%D9%8A-%D9%84%D9%84%D8%A7%D8%B3%D8%AA%D8%B9%D9%84%D8%A7%D9%85-%D8%B9%D9%86-%D8%B9%D9%85%D9%84%D8%A7%D8%A1-%D8%A7%D9%84%D8%AA%D9%85%D9%88%D9%8A%D9%84/7547207). The stock exchange and the internal trade authority [signed a protocol integrating the commercial registry with exchange databases](https://www.businessmen-eg.com/en/6166/egyptian-exchange-itda-sign-data-integration-agreement) (20 August), and the environment agency and the export-control body [signed one to exchange industrial facilities' environmental data through a unified registry](https://www.masrawy.com/news/news_egypt/details/2026/9/1/3041890/بالتفاصيل-بروتوكول-لربط-قواعد-البيانات-البيئية-بالأنشطة-الصناعية) (1 September). The health minister [discussed a proposed national platform linking patient records across health facilities](https://www.dailynewsegypt.com/2026/09/14/egypt-plans-unified-digital-platform-to-link-patient-records-across-health-facilities/) (14 September); it is a proposal, with no build stage or date.
 
+The non-bank regulator's [Decision 2684 came into force on 24 September, requiring consumer-finance companies to build the technology to link their databases to the regulator's, including real-time purchase data](https://fra.gov.eg/fra_news/%D8%A7%D9%84%D8%B1%D9%82%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D8%AA%D9%84%D8%B2%D9%85-%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%85%D9%88%D9%8A%D9%84-%D8%A7/). The controls that set when the data flows are due within six months.
+
 ## Equatorial Guinea
 
 The national interoperability framework the World Bank named as absent in 2024 is still absent, and August put a cost on that. At the National Development Agency's directorship handover on 7 August, its outgoing Inspector General [named limited data-sharing by line ministries as the agency's main obstacle](https://www.guineaecuatorialpress.com/noticias/milagrosa_obono_angue_preside_el_acto_oficial_de_entrega_de_despacho_de_la_agencia_nacional_de_desarrollo) to monitoring delivery against the National Sustainable Development Strategy. The agency is the body meant to see across government, and it is describing itself as unable to.
@@ -97,7 +99,7 @@ A delegation joined the [UNDP Africa Accelerator for Digital Public Infrastructu
 
 ## Gabon
 
-The regional interoperable QR-code standard was launched at Douala on 29 July 2026 under the monetary union regulation of 8 April 2026, in force across all six member states and settled through the regional switch, with the Gabonese scheme as its pilot ([launch](https://www.gabonreview.com/cemac-moins-de-cash-plus-de-numerique-la-beac-deploie-le-qr-code-interoperable/)). The switch's 2025 figures, presented the following day, were 20.3m transactions worth FCFA 863bn across 153 participants ([figures](https://leconomie.info/article/paiements-numeriques-gimacpay-enregistre-203-millions-de-transactions-pour-863-milliards-de-fcfa-en-2025)). On 9 July the central bank acceded to the pan-African payment and settlement system, with member-state banks to be connected by the end of 2026 ([announcement](https://www.agenceecofin.com/actualites-finance/1007-140077-les-banques-de-la-cemac-seront-integrees-au-systeme-de-paiement-papss-d-ici-fin-2026)).
+The government interoperability platform was still being built: the sixth steering committee of the World Bank-financed programmes, on 8 September, [listed it among four projects under way](https://techafricanews.com/2026/09/09/gabon-four-digital-projects-modernise-public-services/), with no delivery date.
 
 A different kind of exchange went live in August. The airport-security committee [moved its advance passenger information and passenger-name-record system into its operational phase on 14 August](https://agpgabon.ga/gabon-transport-aerien-le-deploiement-du-systeme-api-pnr-entre-dans-sa-phase-operationnelle/), naming Royal Air Maroc lead carrier for IATA-code implementation under the state's convention with SECURIPORT, with border risk-screening the stated purpose. The convention terms, the retention rule for passenger data and any authorisation by the data-protection authority are not held — and the country's biometric-processing prohibition, with the defect already recorded in its derogation, sits alongside it unremarked.
 
@@ -108,8 +110,6 @@ The private half of the health system was brought into a standing channel for th
 The first register link to be agreed is between education and health rather than between the registers the interoperability indicator counts. A [memorandum connects the education and health information systems to flag vulnerable children and verify enrolment](https://gambiana.com/mobse-and-health-ministry-sign-deal-to-link-education-and-health-data-systems/). It is a memorandum rather than a live interface, and the project's own indicator for register interoperability still stands at zero.
 
 ## Ghana
-
-Interoperable mobile-money transfers ran to [33.5 million transactions worth GH¢6.2bn in June](https://www.myjoyonline.com/mobile-money-transactions-hit-gh%c2%a2492-9bn-in-june/) — about 1.3% of total mobile-money value. The share, not the volume, is the measure of interoperability, and it is the figure that has stayed small since the service went live in 2018.
 
 Kenya's president [announced Masterkey, a cross-border wallet for verifiable qualification and work records whose first phase targets 150,000 placements, with Ghana, Rwanda and Kenya as its first countries](https://www.graphic.com.gh/news/general-news/ruto-puts-ghana-in-plan-to-make-african-skills-portable.html), at an Accra event on the sidelines of the UN General Assembly. No Ghanaian implementing agency, cost or launch date is stated.
 

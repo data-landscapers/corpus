@@ -1,10 +1,10 @@
 ---
 title: Access to services — monthly update, August – September 2026
-compiled: 2026-09-25
-period: 2026-08-01 to 2026-09-25
+compiled: 2026-09-27
+period: 2026-08-01 to 2026-09-27
 subject: include.access
 places: DZA; AGO; BEN; BWA; BDI; CMR; CAF; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NAM; NER; NGA; STP; SEN; SYC; SLE; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 7018cc46a544
+record: 33b2b7a21c8d
 ---
 
 # Access to services: monthly update, August – September 2026
@@ -23,7 +23,7 @@ Consumer cloud storage prices were [raised for new subscribers from 27 July 2026
 
 ## Angola
 
-The identity-card universalisation programme is being reported by throughput: [more than 4,000 cards issued in one municipality in sixteen days](https://minjusdh.gov.ao/web/noticias/programa-de-universalizacao-do-bi-reforca-acesso-a-documentacao-em-egito-praia), with no national total, backlog figure or target date beside it.
+The identity-card universalisation programme is being reported by throughput: [more than 4,000 cards issued in one municipality in sixteen days](https://minjusdh.gov.ao/web/noticias/programa-de-universalizacao-do-bi-reforca-acesso-a-documentacao-em-egito-praia), and now by a national total: [17,166,000 cards issued at home and abroad by 24 September, with a target of a card for every registered adult by December 2026](https://angolanewswire.com/angolan-government-issues-more-than-17-million-citizens-identity-cards/). It is a cumulative count, not a coverage rate.
 
 The telecommunications ministry [opened further computer rooms and free public internet points in Luanda and Icolo e Bengo](https://www.opais.ao/sociedade/minttics-inaugura-novas-salas-de-informatica-em-luanda-e-icolo-e-bengo/). No national count of sites, users or budget line is on file behind the programme.
 
@@ -111,7 +111,7 @@ The communications regulator [put its consumer short code 1331 back in service a
 
 ## Ghana
 
-The mid-year fiscal review of 23 July recorded GH¢485m paid to cash-grant beneficiaries in the first half of 2026 and named no allocation at all to the communications ministry, the access fund, the coders programme or the artificial-intelligence strategy.
+A women's business bundle from the dominant operator [passed 54,000 female subscribers by May 2026 against a target of 20,000 by 2028](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/blog/empowering-women-micro-entrepreneurs-to-use-mobile-for-business-lessons-from-mtn-ghanas-adwumapa/), on figures published on 24 August. A European Union-funded action [trained more than 200 births-registry and health-service staff to close registration gaps in the six regions where coverage is lowest](https://www.icmpd.org/news/ghana-strengthens-the-systems-behind-birth-registration-and-refugee-protection), finding the registry short-staffed in many districts.
 
 ## Guinea
 
@@ -254,6 +254,8 @@ The commercial route to a connected device is credit. Buy-now-pay-later schemes 
 A six-year donor digital-inclusion programme [ended, with stakeholders urging the government to take over what it was doing](https://www.pulse.ug/story/uncdf-digital-inclusion-uganda-government-takeover-2026082616160487381). No successor instrument, budget line or transfer of assets is on file, which makes the closure a stated exposure rather than an inference.
 
 Mobile-industry research [put internet use at about a quarter of refugee women against about half of refugee men](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/blog/closing-the-digital-divide-for-refugee-women-means-understanding-their-full-experience-of-connectivity/), with device and data costs the main barrier.
+
+The ICT ministry described [a Smart Villages pilot classroom in Butaleja district that joins the same e-learning classes as a Kampala school, with a tower and solar power also supplying 25 households](https://ict.go.ug/media/news/buhadyo-primary-school-smart-classroom-enhancing-e-learning-in-butaleja-district). Roll-out to other unserved areas waits on a presidential launch.
 
 ## Zambia
 

@@ -1,10 +1,10 @@
 ---
 title: Cybersecurity — monthly update, August – September 2026
-compiled: 2026-09-25
-period: 2026-08-01 to 2026-09-25
+compiled: 2026-09-27
+period: 2026-08-01 to 2026-09-27
 subject: infra.cybersec
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; TCD; COM; COG; CIV; SWZ; GAB; GHA; KEN; LSO; LBR; LBY; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: e48f6a8c9881
+record: fa00a98ebcd4
 ---
 
 # Cybersecurity: monthly update, August – September 2026
@@ -83,6 +83,8 @@ Government applications got somewhere to be tested. Eswatini [opened a Governmen
 
 The utility [restored billing and payment in Libreville and seven interior centres after the attack that took down 95% of its systems](https://www.gabonreview.com/apres-leffondrement-de-95-de-ses-systemes-la-seeg-reprend-progressivement-le-controle/), describing its network on 4 August as healthy, secured and protected by reinforced measures, with restoration continuing elsewhere. The account is the company's own, the attackers are described as unidentified, and no forensic, criminal or damage-cost report is on file.
 
+The government [raised its vigilance level after more than 900,000 intrusion alerts were recorded in sixty days, some judged very critical, following several attacks on national bodies](https://www.gabonreview.com/cybermenaces-900-000-alertes-en-60-jours-le-gabon-passe-en-vigilance-renforcee/), the digital economy minister calling on 7 September for protection to be treated as a permanent requirement. On 10 September ANINF [answered that the figure shows a system able to detect threats and not 900,000 compromises](https://www.gabonreview.com/cybermenaces-ce-que-laninf-dit-vraiment-des-900-000-alertes-qui-font-polemique/). The window's dates and the number of alerts confirmed as incidents are not published.
+
 An audit that was signed in May reported in August. The state digital agency [delivered its information-systems audit findings to the health insurance fund on 12 August](https://www.gabonreview.com/aninf-cnamgs-le-partenariat-numerique-entre-dans-sa-phase-concrete/), three months after the two signed the memorandum, naming human resources, data and infrastructure as the three pillars of the fund's technology roadmap. The findings themselves are not published, and no remediation plan, timetable or cost is stated.
 
 ## Ghana
@@ -94,7 +96,7 @@ The Cybersecurity Act's licensing regime produced its first published penalties.
 The regulator also [held a two-day consultative and validation workshop with UNICEF Ghana on online child sexual exploitation and abuse](https://techafricanews.com/2026/08/13/ghana-strengthens-online-child-protection-with-csa-unicef-initiative/), reviewing the national response and naming coordination and frontline-capacity gaps; no instrument or programme follows from it on the record.
 
 
-It started teaching. A session at Accra on 19 August [put newsroom devices to journalists as deliberate targets rather than accidental victims, citing an Angolan journalist's 2024 spyware infection as the regional precedent](https://www.ghanabusinessnews.com/2026/08/19/journalists-facing-growing-digital-threats-cybersecurity-expert-warns/). No count of journalists trained under the project has been published.
+The community-media project started teaching. A session at Accra on 19 August [put newsroom devices to journalists as deliberate targets rather than accidental victims, citing an Angolan journalist's 2024 spyware infection as the regional precedent](https://www.ghanabusinessnews.com/2026/08/19/journalists-facing-growing-digital-threats-cybersecurity-expert-warns/). No count of journalists trained under the project has been published.
 
 The response team behind the licensing regime published a volume figure for the first time: it [handled 3,363 incidents between January and June 2026 and ran vulnerability assessments across 25 critical information infrastructure institutions](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/). There is no breakdown by type, sector or outcome, so it establishes how much came in and nothing about what happened to it.
 

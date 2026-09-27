@@ -1,15 +1,15 @@
 ---
 title: Digital divides — monthly update, August – September 2026
-compiled: 2026-09-25
-period: 2026-08-01 to 2026-09-25
+compiled: 2026-09-27
+period: 2026-08-01 to 2026-09-27
 subject: include.divides
-places: AGO; BWA; BDI; CPV; COD; EGY; SWZ; GMB; GHA; GNB; KEN; MDG; MWI; MAR; MOZ; NER; NGA; RWA; SEN; ZAF; UGA; ZMB
-record: 1c2e1ec3d21d
+places: AGO; BWA; BDI; CPV; COD; EGY; SWZ; GMB; GHA; GNB; KEN; MDG; MWI; MAR; MOZ; NER; NGA; RWA; SEN; SOM; ZAF; UGA; ZMB
+record: 2a29e5cd99a1
 ---
 
 # Digital divides: monthly update, August – September 2026
 
-*22 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*23 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -47,11 +47,7 @@ The schools' side of the divide has a figure for the first time, and it is small
 
 ## Ghana
 
-At a policy dialogue on 29 July the regulator said an existing hotspot authorisation [could found a dedicated community-network regime](https://www.myjoyonline.com/isoc-ghana-urges-policy-reforms-to-expand-community-networks-and-bridge-rural-digital-divide/), with no timetable, consultation or draft announced; a civil-society policy lead placed four other African states ahead of Ghana on enabling frameworks.
-
-The [draft digital economy and innovation development fund bill](https://amchamghana.org/2026/07/30/amcham-ghana-joins-key-stakeholder-talks-on-new-digital-economy-fund/) would also convert the universal-access fund into a wider innovation and skills fund, with the fate of the rural-access earmark unestablished.
-
-Existing money went the other way. An implementing partner's account of 12 August reports that [connectivity and digital-inclusion work in Ghana slowed or stopped after the American aid wind-down of 2025, in which 83% of the agency's programmes were cut](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html), the multi-funder Women in the Digital Economy Fund losing its American component while the parts other funders backed continued. No replacement funder is named and no Ghanaian figure is given.
+American money went the other way. An implementing partner's account of 12 August reports that [connectivity and digital-inclusion work in Ghana slowed or stopped after the American aid wind-down of 2025, in which 83% of the agency's programmes were cut](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html), the multi-funder Women in the Digital Economy Fund losing its American component while the parts other funders backed continued. No replacement funder is named and no Ghanaian figure is given.
 
 The rural project's own numbers reached the repository on 5 September. [1,400 of 2,016 rural telephony sites are live and the universal-access fund carries a GHS 30m allocation for the project in 2026](https://www.myjoyonline.com/govt-to-upgrade-all-rural-telephony-networks-to-4g-capability-sam-george/), with the minister directing that every site be upgraded to at least 4G on the ground that 2G and 3G no longer carry the services the sites exist to deliver, a directive [repeated on an Eastern Region site inspection the next day](https://newsalertgh.com/2026/09/06/sam-george-inspects-rural-telephony-projects-to-boost-mobile-network-connectivity-in-eastern-region/). It carries no timetable, cost or contracting route, and 616 sites are not yet live. Above it, [smartphone penetration is put at 71.8% in June 2026 against 27.5% a decade earlier](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/) — the minister's figure, on a different base from the household survey the record already holds.
 
@@ -108,6 +104,10 @@ What moved this month is a projection, not a measurement. An industry associatio
 ## Senegal
 
 The month's one inclusion measure came from the despatch box rather than a survey. Debating the critical-infrastructure bill, the telecommunications minister [told parliament that 40% of Senegalese still have no access to connectivity](https://www.seneweb.com/fr/news/Technologie/fracture-numerique-40-des-senegalais-toujours-sans-acces-a-la-connectivite_n_501971.html), citing a 2024 sector diagnosis of coverage gaps and unmet operator obligations. The diagnosis itself is not held, no definition of access accompanies the figure, and it is two years old at the point of its citation.
+
+## Somalia
+
+The operator-led smartphone financing programme [reported more than 2,500 phones sold since its May launch and extended through 15 more branches in Jubaland, South West, Hirshabelle and Galmudug](https://sokodirectory.com/2026/09/hormuud-and-getphone-expand-smartphone-finance-into-four-new-somali-states-due-to-high-demand/), against its own target of 100,000 by year end. Its [early repayment data, on nearly 1,700 August contracts, show little difference between low- and high-scored borrowers](https://sokodirectory.com/2026/09/hormuud-and-getphone-expand-smartphone-finance-into-four-new-somali-states-due-to-high-demand/); the figures are the partners' own.
 
 ## South Africa
 

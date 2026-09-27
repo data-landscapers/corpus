@@ -1,10 +1,10 @@
 ---
 title: Strategies, plans and policies — monthly update, August – September 2026
-compiled: 2026-09-25
-period: 2026-08-01 to 2026-09-25
+compiled: 2026-09-27
+period: 2026-08-01 to 2026-09-27
 subject: gov.policy
 places: DZA; BWA; BFA; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MWI; MLI; MRT; MUS; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: c18c1132ce6a
+record: ea25f5393556
 ---
 
 # Strategies, plans and policies: monthly update, August – September 2026
@@ -113,10 +113,7 @@ The policy shelf was restocked, with an unusually frank admission attached. The 
 
 ## Ghana
 
-The government [announced a ten-year artificial-intelligence implementation plan on 29 July](https://thechronicle.com.gh/government-rolls-out-10-year-ai-implementation-roadmap-to-drive-jobs-economic-growth/) with measurable annual milestones, built with United Nations partners.
-
-
-The wider reform the digital pillar sits in reached validation on 12 August: a [five-year, seven-pillar public sector reform strategy was validated at a stakeholder workshop ahead of formal adoption, one pillar being digitalised public-sector systems](http://psrs.gov.gh/index.php/component/content/article/59-stakeholders-validate-national-public-sector-reform-strategy-ii-ahead-of-formal-adoption?Itemid=101&catid=2). No text, budget or adoption date is published.
+The public sector reform that carries the digital pillar reached validation on 12 August: a [five-year, seven-pillar public sector reform strategy was validated at a stakeholder workshop ahead of formal adoption, one pillar being digitalised public-sector systems](http://psrs.gov.gh/index.php/component/content/article/59-stakeholders-validate-national-public-sector-reform-strategy-ii-ahead-of-formal-adoption?Itemid=101&catid=2). No text, budget or adoption date is published.
 
 ## Guinea
 
@@ -211,6 +208,8 @@ The roadmap acquired a shape and a hole in the same statement. Presented at an i
 The new prime minister's [general policy declaration of 8 September kept the New Deal technologique as the framework and named a sovereign cloud to host sensitive state data on national soil](https://droit-et-politique-en-afrique.info/wp-content/uploads/2026/09/Declaration-de-politique-generale-du-Premier-ministre-Ahamadou-Alhaminou-Mohamed-Lo-8-septembre-2026.pdf), with a stated change of method: [projects must now show feasibility, financing and demonstrated impact before they proceed](https://www.socialnetlink.org/2026/09/08/dpg-cloud-souverain-ia-le-gouvernement-veut-passer-des-annonces-a-lexecution-du-new-deal-technologique/). No project list or costing accompanies it.
 
 The digital ministry [validated its draft blueprint for creating value from data at a workshop on 21 and 22 September](https://techafricanews.com/2026/09/23/senegal-validates-national-blueprint-data-valorisation/), run with Smart Africa's data-governance programme and GIZ; Senegal is a pilot with Kenya and Lesotho, and no finalisation date was given.
+
+The ministry [called on 24 September for firms to study the interoperability platform's infrastructure needs](https://guindima.sn/news/article/appel-a-manifestation-dinteret-etude-des-besoins-en-infrastructure-de-la-plateforme-dinteroperabilite-nationale-pins/), to grow a start-small X-Road set-up into a multisite architecture across national and sectoral data centres.
 
 ## Seychelles
 

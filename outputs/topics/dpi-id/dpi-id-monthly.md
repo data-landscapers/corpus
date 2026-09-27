@@ -1,10 +1,10 @@
 ---
 title: Digital Identity and CRVS — monthly update, August – September 2026
-compiled: 2026-09-25
-period: 2026-08-01 to 2026-09-25
+compiled: 2026-09-27
+period: 2026-08-01 to 2026-09-27
 subject: dpi.id
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COM; COG; COD; EGY; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 8e6eb66dabe7
+record: a7979052c49c
 ---
 
 # Digital Identity and CRVS: monthly update, August – September 2026
@@ -123,7 +123,7 @@ What the identity system replaced is now documented from two sides, and the back
 
 ## Ghana
 
-The identity regulator publicised amendment regulations on 16 July that had come into force on 9 June, and the interior minister then set the enforcement date: banks, telecoms operators, hospitals, schools, insurers and agencies have [a three-month transition from 27 July to 2 November 2026](https://www.graphic.com.gh/news/general-news/banks-telcos-and-hospitals-have-until-november-2-to-stop-taking-ghana-card-photocopies.html) to install readers and integrate with the verification service, on a sanctions ladder running to suspension of access and licence withdrawal. Verification tied to SIM registration is explicitly excluded, with no timetable announced.
+The photocopy ban has an enforcer: the identification authority's head said [verification teams will begin visiting institutions on 2 November 2026 to enforce the law against photocopying or visual inspection of the card](https://www.modernghana.com/news/1528541/ghana-card-to-become-e-wallet-for-electronic-trans.html).
 
 The first paid round-the-clock identity centre opened on 1 August with all services attracting approved charges and no fee schedule published; by 13 August the agency described the Labone centre as [running registration on three shifts around the clock](https://thehighstreetjournal.com/nia-adopts-three-shift-system-for-24-hour-ghana-card-registration/), presented as part of the government's wider 24-hour economy programme. No throughput or staffing figure is published, and the repository holds no equivalent extension of the free daytime service.
 
@@ -188,6 +188,8 @@ The wallet has a date. The registration bureau [set its national launch for 16 S
 The mobile credential launched on schedule. [The Nzika wallet went live in Lilongwe on 16 September](https://malawi24.com/2026/09/16/malawi-drops-expiry-dates-on-national-ids/), and at the launch the minister directed that national ID cards be issued without expiry dates from that day, ending the renewal regime that had left about two million cards expired.
 
 On International Identity Day the registration bureau [launched the Nzika wallet, holding national ID, birth, marriage and death credentials on a phone as an optional complement to the physical card, and the minister ended expiry dates on the card with immediate effect](https://www.biometricupdate.com/202609/malawi-drops-id-card-expiry-date-policy-as-digital-wallet-launches). The wallet was built under the donor-funded inclusive digital transformation programme. No verification standard or count of services accepting it is stated.
+
+An investigation reported that [a US$5.09m World Bank-financed contract for 2,400 biometric registration kits, with remote software support, went to a Hong Kong-registered supplier in March](https://malawi24.com/2026/09/26/nzika-wallet-controversy-who-holds-the-keys-to-malawis-multibillion-digital-identity/), about 27% above estimate. The procurement authority says remote access reaches the kits only; the registration bureau and the regulator did not answer.
 
 ## Mauritania
 

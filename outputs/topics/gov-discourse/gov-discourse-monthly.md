@@ -1,10 +1,10 @@
 ---
 title: Public debate and participation in policymaking — monthly update, August – September 2026
-compiled: 2026-09-25
-period: 2026-08-01 to 2026-09-25
+compiled: 2026-09-27
+period: 2026-08-01 to 2026-09-27
 subject: gov.discourse
 places: AGO; BEN; BFA; CMR; CAF; TCD; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; MWI; MLI; MUS; MAR; NAM; NER; NGA; SEN; SYC; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: b73cd7ba7c67
+record: 0c12c887ed44
 ---
 
 # Public debate and participation in policymaking: monthly update, August – September 2026
@@ -90,6 +90,8 @@ The regulator [established a tripartite dialogue forum at Libreville on 20 Augus
 The statistical service put a number on what digitisation is being asked to fix. Its governance series records citizens reporting demands for unofficial payments [rising from 51% in the first half of 2025 to 69% in the second](https://asaaseradio.com/gss-calls-for-digitalisation-fee-transparency-to-curb-rising-bribe-demands/), and the service names digitalisation, fee transparency and public education as its response, citing a marked fall in bribery at the passport office after digitisation and saying the Office of the Chief of Staff has directed the ten institutions the series flagged as high-risk to report back on remediation. The passport-office comparison is asserted without a before-and-after figure, and the series measures reported demands rather than cases proven.
 
 The same week the ministry took the governance argument outward and inward at once: it [convened an Accra workshop with a policy-monitoring organisation and a trade endowment on digital governance, regulatory coordination and international digital-trade engagement](https://www.linkedin.com/posts/ministry-of-communication-digital-technology-and-innovations-b4a9b7256_mocdti-partners-digital-policy-alert-to-strengthen-activity-7491943506979250176-6l2o), framed against the national artificial-intelligence strategy, the coders programme and the continental digital trade protocol; and its deputy minister [urged information-management professionals to secure and better manage government data as artificial-intelligence use grows](https://asaaseradio.com/govt-strengthens-public-data-management-amid-rising-ai-use/). Neither produces an instrument, and the national data strategy has been In development since 2024.
+
+On 13 September a senior nursing officer was arrested and then [charged with abetting the publication of false news under section 208 of the Criminal Offences Act and remanded without bail, over videos from a UK-based TikTok account](https://www.myjoyonline.com/barker-vormawor-urges-courts-to-scrutinise-rights-violations-in-ghana-jollof-case/); rights lawyers have put the detention and the evidence-gathering as constitutional questions, and the case returns to court on 30 September.
 
 On 22 September the Secretary to the President [asked the Media Foundation for West Africa and the Ghana Journalists Association to convene a national stakeholder engagement and draft a roadmap on hate speech and harmful online content](https://www.myjoyonline.com/wp-content/uploads/2026/09/OPS308.3.26.1386-NATIONAL-STAKEHOLDER-ENGAGEMENT-ON-HATE-SPEECH-ABUSIVE-ONLINE-CONTENT-RESPONSIBLE-DIGITAL-COMMUNICATION.pdf), including guidance for law enforcement and alternatives to arrest and prosecution for speech that is not criminal. The letter cautions that arrests over criticism out of proportion to the conduct may be counterproductive, and sets no deadline.
 

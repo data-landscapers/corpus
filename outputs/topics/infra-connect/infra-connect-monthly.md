@@ -1,10 +1,10 @@
 ---
 title: Connectivity — monthly update, August – September 2026
-compiled: 2026-09-25
-period: 2026-08-01 to 2026-09-25
+compiled: 2026-09-27
+period: 2026-08-01 to 2026-09-27
 subject: infra.connect
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 714d39e9a7bc
+record: 933aa0637e67
 ---
 
 # Connectivity: monthly update, August – September 2026
@@ -62,6 +62,8 @@ International capacity moved for the first time in the record: Tanzania's state 
 The regulator's director-general said the [preparatory work for 5G is practically complete but set no date for commercial launch](https://www.businessincameroon.com/telecom/2608-16620-cameroon-says-5g-groundwork-nearly-complete-with-more-operator-investment-needed), calling for more operator investment. A regulator saying the groundwork is done while naming no date is the whole of the position: no spectrum award, coverage obligation or licence term is on file.
 
 The state operator [took delivery of a second shipment of equipment from China for 245 new mobile sites, which would take its declared network from 473 to 718, weighted to rural and district areas](https://www.businessincameroon.com/telecom/1809-16779-camtel-plans-245-new-mobile-sites-to-narrow-network-gap-with-rivals). No cost or completion date is stated.
+
+The lender [reviewed the E-National Higher Education Network with the higher-education ministry on 24 September](https://canalinfo24.com/article/cooperation-universitaire-le-minesup-et-china-exim-bank-evaluent-le-projet-enhen). The ministry [listed 500,000 student computers, ten university digital-development centres and campus interconnection among its outputs](https://canalinfo24.com/article/cooperation-universitaire-le-minesup-et-china-exim-bank-evaluent-le-projet-enhen), with no usage figure or new financing.
 
 ## Cape Verde
 
@@ -137,11 +139,11 @@ The incumbent closed its financial year with [data and internet at 31.1% of reve
 
 ## Gabon
 
-On 27 July the Libreville seminar on space communications closed with eleven recommendations, confirming a hybrid fibre and satellite model on [2,000 km of fibre already deployed](https://agpgabon.ga/gabon-seminaire-sur-levolution-des-communications-spatiales-11-recommandations-adoptees/).
+On 24 August [several sections of the national fibre backbone were cut along the railway near Lopé, taking internet, mobile and fixed telephony down across Ogooué-Ivindo, Woleu-Ntem, Ogooué-Lolo and Haut-Ogooué](https://gabonclic.info/gabon-le-backbone-national-plonge-dans-le-noir-numerique-simple-incident-ou-sabotage-cible/). Whether by accident or sabotage is not established, and no outage duration or investigation finding is published.
 
 The national internet exchange point opened a reboot workshop at Libreville on 3 August, running to 8 August, with the Internet Society and AFRINIC as technical partners ([opening](https://agpgabon.ga/gabon-lancement-de-latelier-national-gabix-reboot/)). It [closed on 8 August with certificates presented after six days of peering, security and sovereignty training](https://agpgabon.ga/numerique-latelier-gabix-reboot-propulse-linterconnexion-locale-au-gabon/); AFRINIC called for a network of trained ambassadors to carry the skills into firms and administrations, and operator representatives named broader institutional buy-in as the task that remains. No participant number and no post-relaunch member count has been published.
 
-The backbone is moving to a partnership. The state infrastructure holding company and a private operator [validated a PPP over 3,420km of national backbone, 1,769km already built and 1,651km planned, with signature set for 14 September](https://techafricanews.com/2026/09/11/gabon-national-backbone-3420km-network-project/). No capital or open-access terms are published.
+The backbone is moving to a partnership. The state infrastructure holding company and a private operator [validated a PPP over 3,420km of national backbone, 1,769km already built and 1,651km planned, with signature set for 14 September](https://techafricanews.com/2026/09/11/gabon-national-backbone-3420km-network-project/), and [signed it that day as a twenty-year partnership in which the network stays state property](https://agpgabon.ga/gabon-numerique-signature-dun-partenariat-entre-la-spin-et-gabon-fiber-s-a/). No financing has closed.
 
 ## Gambia
 
@@ -151,9 +153,7 @@ The number change has a legal base and an end date. The regulator's [National Nu
 
 ## Ghana
 
-The assignment now has a date on it: the minister said on 7 September that spectrum assignment would be [completed and 5G deployment begin by December 2026](https://www.myjoyonline.com/ghana-to-begin-5g-deployment-by-december-2026-sam-george/), alongside a road-excavation coordination framework, an Emergency Telecommunications Framework and upgraded network-quality standards operators would be required to meet. It is a ministerial statement, not a published award timetable.
-
-The regulator's [consolidated response of 31 July](https://nca.org.gh/wp-content/uploads/2026/07/NCA-Consolidated-Response-5G-RFA-2026.pdf) answered sixty written queries from four prospective applicants, formally amended the request for applications in seven places, and shifted every subsequent date by 21 days, with licence fees now due 17 November. [It refused any extension to the 70% population coverage obligation of 6 March 2027 while confirming that obligation is band- and technology-neutral and can be met in substantial part from existing deployment](https://nca.org.gh/wp-content/uploads/2026/07/NCA-Consolidated-Response-5G-RFA-2026.pdf). It also rewrote the dominant operator's rural schedule from licence-relative years into fixed dates of December 2029, 2032 and 2035, expressly so that buying spectrum would not accelerate an equivalent existing commitment. [And it recharacterised the 40% premium on that operator's reserve prices in writing as a price for attributable value rather than a sanction or a market-power remedy, declining to publish its valuation model during a live assignment](https://nca.org.gh/wp-content/uploads/2026/07/NCA-Consolidated-Response-5G-RFA-2026.pdf).
+Spectrum assignment got a date on 7 September: the minister said that spectrum assignment would be [completed and 5G deployment begin by December 2026](https://www.myjoyonline.com/ghana-to-begin-5g-deployment-by-december-2026-sam-george/), alongside a road-excavation coordination framework, an Emergency Telecommunications Framework and upgraded network-quality standards operators would be required to meet. It is a ministerial statement, not a published award timetable.
 
 Beneath the licensing argument, the traffic that never leaves the country was counted. On 16 August the Accra exchange was reported [past 200 Gbps, against three exchanges that barely overlap: only 4 of 39 connected networks peer at all three, so most local traffic still transits abroad](https://tech.africa/accra-three-internet-exchanges/). The headline figure is the smaller finding. An exchange is worth the traffic it keeps local, and three partly-overlapping exchanges keep less of it than one would.
 
@@ -163,7 +163,7 @@ The backbone under it is losing ground faster than the record showed. Industry n
 
 The state's own operator got its board back. On 3 September a seven-member board was sworn in for the company behind the AT Ghana brand, [releasing policy directives that had gone unimplemented for almost two months for want of one: spectrum in three bands from the regulator, and core-network access from the universal-access fund, both held back pending audited accounts](https://www.myjoyonline.com/sam-george-swears-in-at-ghanas-ppl-net-board-as-directors-vow-we-will-not-let-ghana-down/). Neither the bands nor the terms of the access are published.
 
-The first 5G spectrum is assigned. The regulator [awarded both 700 MHz lots on 11 September to the dominant operator, the sole qualified applicant, for US$100.9m, US$100,000 above the floor its 40% premium set](https://nca.org.gh/2026/09/11/update-on-the-5g-spectrum-licensing-process/); [one press account prints US$109.9m](https://www.graphic.com.gh/news/general-news/nca-assigns-5g-spectrum-to-mtn-ghanas-scancom-plc-for-us-109-9-million.html), against the regulator's own release.
+The first 5G spectrum is assigned. The regulator [awarded both 700 MHz lots on 11 September to the dominant operator, the sole qualified applicant, for US$100.9m, US$100,000 above the floor its 40% premium set](https://nca.org.gh/2026/09/11/update-on-the-5g-spectrum-licensing-process/); [one press account prints US$109.9m](https://www.graphic.com.gh/news/general-news/nca-assigns-5g-spectrum-to-mtn-ghanas-scancom-plc-for-us-109-9-million.html), against the regulator's own release. At the 2.3 GHz stage the second operator [took all three lots it applied for, of five on offer](https://www.myjoyonline.com/nca-awards-5g-spectrum-to-telecel-ghana/), with neither the assignment date nor the fee stated.
 
 ## Guinea
 

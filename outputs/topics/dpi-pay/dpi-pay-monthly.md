@@ -1,10 +1,10 @@
 ---
 title: Digital Payments and Fintech — monthly update, August – September 2026
-compiled: 2026-09-25
-period: 2026-08-01 to 2026-09-25
+compiled: 2026-09-27
+period: 2026-08-01 to 2026-09-27
 subject: dpi.pay
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 47486f4d929f
+record: f9ef87d26562
 ---
 
 # Digital Payments and Fintech: monthly update, August – September 2026
@@ -16,6 +16,8 @@ record: 47486f4d929f
 ## Algeria
 
 A central bank regulation of 31 May [set the composition and working arrangements of the National Payments Committee](https://www.echoroukonline.com/%d8%aa%d8%ad%d8%b1%d9%83-%d8%b1%d8%b3%d9%85%d9%8a-%d9%84%d8%a5%d9%86%d9%87%d8%a7%d8%a1-%d9%87%d9%8a%d9%85%d9%86%d8%a9-%d8%a7%d9%84%d9%83%d8%a7%d8%b4-%d9%88%d8%aa%d9%82%d8%b1%d9%8a%d8%b1-%d8%b3), reported in August; the national payments strategy it is to draft is not published. The count of web merchants accepting electronic payment [passed 1,000 at the end of June](https://alger16.dz/?p=65795), the first such count on record, so the level is stated and the direction is not.
+
+The monetary and banking council [authorised a mobile operator's subsidiary on 23 September to constitute itself as a payment service provider](https://www.bank-of-algeria.dz/stoodroa/2026/09/communique-23-09-2026FR.pdf), the first such subsidiary under the 2025 regime; it must obtain its licence within twelve months before it can operate.
 
 ## Angola
 
@@ -125,9 +127,7 @@ The country appears here in a survey of other people's pilots rather than in an 
 
 ## Ghana
 
-Central bank data for June 2026 put mobile money at [954 million transactions worth GH¢492.9bn](https://www.myjoyonline.com/mobile-money-transactions-hit-gh%c2%a2492-9bn-in-june/), against GH¢323.2bn a year earlier, on 84.6 million registered wallets of which 26.4 million were active; [interoperable transfers were GH¢6.2bn, about 1.3% of value](https://www.myjoyonline.com/mobile-money-transactions-hit-gh%c2%a2492-9bn-in-june/).
-
-Enforcement of the digital-credit regime opened. A notice of 20 July recorded the 30 June licensing deadline as elapsed, and a notice of [3 August named twenty unlicensed lending applications](https://www.bog.gov.gh/wp-content/uploads/2026/08/Notice-No.25-BOG-SEC-GOV-2026-Notice-PUBLICATION-OF-UNLICENSED-DIGITAL-CREDIT-SERVICE-PROVIDERS-ON-THE-BANKS-WEBSITE-SOCIAL-MEDIA-PLATFORMS-AND-OTHER-COMM-CHANNELS-1.pdf), cautioning banks and payment providers against processing for them and framing the harm first as a violation of customer data privacy. The promised register of licensed providers remains unpublished.
+Enforcement of the digital-credit regime opened. A notice of [3 August named twenty unlicensed lending applications](https://www.bog.gov.gh/wp-content/uploads/2026/08/Notice-No.25-BOG-SEC-GOV-2026-Notice-PUBLICATION-OF-UNLICENSED-DIGITAL-CREDIT-SERVICE-PROVIDERS-ON-THE-BANKS-WEBSITE-SOCIAL-MEDIA-PLATFORMS-AND-OTHER-COMM-CHANNELS-1.pdf), cautioning banks and payment providers against processing for them and framing the harm first as a violation of customer data privacy. The promised register of licensed providers remains unpublished.
 
 The dominant operator opened a channel to the next cohort of providers instead. A [three-month fintech accelerator launched on 12 August across Accra, Kumasi and Tamale](https://techafricanews.com/2026/08/17/hubtel-partners-with-momo-fintech-lab-to-back-ghanas-next-fintech-innovators/), with a domestic technology firm as its official technology partner. No cohort size, selection criteria, funding or equity terms are stated.
 

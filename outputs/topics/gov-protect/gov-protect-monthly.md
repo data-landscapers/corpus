@@ -1,10 +1,10 @@
 ---
 title: Data protection — monthly update, August – September 2026
-compiled: 2026-09-25
-period: 2026-08-01 to 2026-09-25
+compiled: 2026-09-27
+period: 2026-08-01 to 2026-09-27
 subject: gov.protect
 places: AGO; BEN; BWA; BFA; CPV; CAF; DJI; COD; EGY; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; UGA; ZMB; ZWE
-record: 890c4e3c15e7
+record: f3b8a30d7fdd
 ---
 
 # Data protection: monthly update, August – September 2026
@@ -83,7 +83,7 @@ The body that carries both of the country's information statutes surfaced in the
 
 The data-protection regulator's own enforcement record did not change; the action framed as a data-privacy violation in the month was taken by the central bank. But the cyber security authority produced the first enforcement of its kind the repository holds, and its subject is another arm of the state. It [fined the Registrar of Companies GH¢240,000 for engaging an unlicensed cybersecurity provider and fined that provider GH¢120,000 for operating without a licence](https://www.gbcghanaonline.com/wp-content/uploads/2026/08/2026-August-CSA-Sanctions-ORC-and-Purpleline-12-08-26.pdf), after the registrar ignored a June 2026 directive to engage a licensed tier-one critical-information-infrastructure provider under the Cybersecurity Act 2020. The registrar has since contested it, [saying the procurement of its network and security operations centre was substantially complete before the tier-one directive was issued](https://www.myjoyonline.com/orc-challenges-csa-cybersecurity-sanction-says-penalty-was-premature-and-procedurally-unfair/); no adjudication of that timeline is held.
 
-The regulator's own first-half numbers reached the repository on 7 September, and they measure activity rather than enforcement: a [51.5% rise in regulatory activity and a 98.4% rise in newly registered data controllers over the first half of 2026, with a public campaign put at an estimated 25 million people reached](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/). The controller figure is a growth rate published without the repository it grew from, and no fine or prosecution has yet been.
+The regulator's own first-half numbers reached the repository on 7 September, and they measure activity rather than enforcement: a [51.5% rise in regulatory activity and a 98.4% rise in newly registered data controllers over the first half of 2026, with a public campaign put at an estimated 25 million people reached](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/). The controller figure is a growth rate published without the repository it grew from, and no fine or prosecution has yet been published.
 
 ## Guinea
 
@@ -99,6 +99,8 @@ The gambling regulator [confirmed on 3 August](https://www.the-star.co.ke/news/2
 The regulator also pressed an older instrument into the campaign. The data commissioner [said guidance now binds every organisation touching voter data, from the electoral commission down to civil-society registration groups, with the commission's own processing anchored in statutory mandate rather than consent and parties' obligations turning on how they obtained the data](https://www.the-star.co.ke/news/2026-08-18-political-sms-raise-questions-over-kenyans-personal-data), as unsolicited political messaging spreads ahead of the 2027 election. The guidance itself is not new: the Office [issued its Guidance Notes for Electoral Purposes on 29 February 2024, covering the voter register, political parties' member registers and campaign use of personal data under the Data Protection Act 2019](https://www.odpc.go.ke/wp-content/uploads/2024/02/ODPC-Guidance-Notes-for-Electoral-Purposes.pdf). What changed in August is the statement of it, not the rule. No enforcement action under the guidance is on record.
 
 A gap the regulator does not cover was named at the internet governance forum, where a United Nations agency [said an Agency Coordination Mechanism is being fast-tracked against AI-manipulated images and the doxing of female candidates ahead of the 2027 elections](https://www.kictanet.or.ke/keigf-2026-report-digital-futures/); no terms of reference or date is published.
+
+The regulator's [2026 guidance notes on cross-border transfers add standard contractual clauses and a binding-corporate-rules application form](https://www.odpc.go.ke/wp-content/uploads/2026/09/ODPC-%E2%80%93-Guidance-Notes-for-Cross-border-Data-Transfers.pdf) to the April note. The document prints no issue date.
 
 ## Lesotho
 
@@ -238,3 +240,5 @@ The government put the national data volume at [179 petabytes against 114 previo
 The approval date itself is now settled from the primary record: the Office of the President and Cabinet's own briefing dates approval to the [Seventeenth Cabinet Meeting of 2 June 2026, and sets out nine strategic focus areas from institutional capacity and legal framework through technical control and corporate responsibility to monitoring and learning, aligned to the Constitution and the Children's Act, with legislation carrying enforceable sanctions to follow](https://www.zbcnews.co.zw/wp-content/uploads/2026/06/17th-PRESS-FINAL.pdf). The repository had been carrying 10 July 2026, which is the policy's Bulawayo launch.
 
 The child online protection policy moved to delivery. The ICT minister [told the National Assembly on 9 September that content gateways are being installed on public free Wi-Fi and in schools, with teacher and parent training](https://newziana.co.zw/zim-rolling-out-gateways-teacher-and-parents-training-in-line-with-the-child-online-protection-policy/), under an implementation committee with two other ministries.
+
+On 21 September the regulator held [a consultative workshop on amendments to SI 155 that would set administrative fines](https://sirdc.ac.zw/the-inaugural-africa-data-protection-day/); the amendment text is not on file.

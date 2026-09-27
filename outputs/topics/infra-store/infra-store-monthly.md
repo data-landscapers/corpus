@@ -1,10 +1,10 @@
 ---
 title: Data Storage — monthly update, August – September 2026
-compiled: 2026-09-25
-period: 2026-08-01 to 2026-09-25
+compiled: 2026-09-27
+period: 2026-08-01 to 2026-09-27
 subject: infra.store
 places: DZA; AGO; BWA; BFA; CMR; CAF; COG; CIV; EGY; GNQ; ERI; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SLE; SOM; ZAF; SSD; TZA; TUN; ZWE
-record: 0234a5e1b643
+record: 514e27fce841
 ---
 
 # Data Storage: monthly update, August – September 2026
@@ -45,11 +45,13 @@ The Douala project was confirmed and qualified in the same week. The vendor [con
 
 The repository's only entry on storage this month is a continental project prospectus. A regional data-centre programme [is listed at the definition stage, 25% complete](https://au-pida.org/prospectus/brochure-onepage.php?id=17), with no site, capacity, cost or operator attached to it, and the repository holds no account of where the country's own public systems are hosted.
 
+Fire [damaged part of the national elections authority's data-processing centre in the week before 24 September](https://www.journaldebangui.com/rca-une-enquete-ouverte-apres-lincendie-du-centre-de-donnees-de-lane/), weeks ahead of the October residual elections. The government opened an investigation and says the vote will go ahead; no cause, damage estimate or continuity arrangement is stated.
+
 ## Congo
 
 The published roadmap names [sovereign hosting and connectivity at the two highest tiers](https://www.adiac-congo.com/content/le-numerique-au-service-dun-congo-plus-performant-plus-souverain-et-plus-proche-de-ses) among its infrastructure programmes; neither exists, with no standing-up instrument, host body, budget or date.
 
-The national data centre remains a thing asserted rather than reported. On 10 August the state operator [showed the minister a real-time security operations centre running across its Brazzaville, Pointe-Noire and Oyo data centres](https://www.adiac-congo.com/content/numerique-congo-telecom-une-entreprise-structuree-aux-yeux-du-ministere-de-tutelle-171196), alongside nationwide fibre connectivity for citizens, businesses and state bodies. It is the fullest description of the operator's estate the repository holds, and it is still a ministerial visit rather than an inauguration report: no capacity, certification or utilisation figure is given for any of the three sites, and nothing reconciles it with the [works reported suspended at 95% completion in late 2025](https://www.sikafinance.com/marches/congo-lachevement-du-data-center-national-bloque-par-un-defaut-de-financement-gouvernemental_57001).
+The national data centre is not in service. On 22 September the vice-prime minister [put works at 82% and operation at the end of 2026 or early 2027, with energy tests within a month](https://www.vox.cg/le-vice-premier-ministre-inspecte-letat-davancement-de-la-ferme-solaire-et-du-data-center/), and a [12 MW solar farm is to back it because grid power alone would deter clients](https://www.aci.cg/congo-infrastructures-le-data-center-operationnelle-dici-fin-2026/). The operator's own estate is a different thing. On 10 August the state operator [showed the minister a real-time security operations centre running across its Brazzaville, Pointe-Noire and Oyo data centres](https://www.adiac-congo.com/content/numerique-congo-telecom-une-entreprise-structuree-aux-yeux-du-ministere-de-tutelle-171196), alongside nationwide fibre connectivity for citizens, businesses and state bodies. It is the fullest description of the operator's estate the repository holds, and it is still a ministerial visit rather than an inauguration report: no capacity, certification or utilisation figure is given for any of the three sites, and nothing reconciles it with the [works reported suspended at 95% completion in late 2025](https://www.sikafinance.com/marches/congo-lachevement-du-data-center-national-bloque-par-un-defaut-de-financement-gouvernemental_57001).
 
 ## Cote d'Ivoire
 
@@ -159,6 +161,8 @@ It was formally inaugurated eight days later, on 11 August, [sited at the univer
 ## Namibia
 
 The national data centre moved from a Cabinet directive to a budget line: it is now [one of the ICT ministry's flagship projects for 2026/27 inside a N$639.2 million budget](https://technews.com.na/2026/08/06/namibia-to-establish-national-data-centre-under-n639-2m-ict-budget/). Four years after a government task force found the country had none and recommended building one, it still has no site, capacity, cost or completion date.
+
+The ICT minister said on 23 September that [construction had begun beside the new AI institute at Kenya House](https://neweralive.na/ai-to-boost-digital-services-theofelus/). Capacity, cost and completion date are still unpublished.
 
 ## Nigeria
 

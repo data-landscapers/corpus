@@ -1,10 +1,10 @@
 ---
 title: New investments — monthly update, August – September 2026
-compiled: 2026-09-25
-period: 2026-08-01 to 2026-09-25
+compiled: 2026-09-27
+period: 2026-08-01 to 2026-09-27
 subject: finance.new
 places: AGO; BEN; BFA; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; SWZ; ETH; GHA; KEN; MWI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; ZAF; TZA; ZMB; ZWE
-record: d0d1d1c8046b
+record: b6f0b573c659
 ---
 
 # New investments: monthly update, August – September 2026
@@ -52,6 +52,8 @@ The fund's own appraisal report now settles the amount the repository could not 
 ## Congo
 
 A number was put on the sector's future. Consultancy forecasts reported by the state news agency [attribute more than 800 billion of gross domestic product to the digital economy within five years](https://www.aci.cg/congo-numerique-plus-de-800-milliards-du-pib-pour-leconomie-numerique-dici-cinq-ans/). It is a projection carried by the state agency, not a measurement, and the record held carries no current figure for the sector's contribution against which to read it.
+
+Works on the AfDB-financed data centre [are running again, put at 82% at a ministerial inspection on 22 September](https://www.aci.cg/congo-infrastructures-le-data-center-operationnelle-dici-fin-2026/); whether the unpaid state tranche that halted them in 2025 was released is not stated.
 
 ## Cote d'Ivoire
 
@@ -151,6 +153,8 @@ The African Development Bank [approved a USD 34 million loan on 22 September for
 On 11 August the United Kingdom [published a call for expressions of interest for a Southern Africa science and technology accelerator worth up to GBP2.5m over three years to March 2030, with up to GBP400,000 for 2026/27](https://www.gov.uk/international-development-funding/science-and-technology-accelerator-systems-sta-s-southern-africa-programme). It covers artificial intelligence, emerging technologies and digital access, as well as climate, energy, health and space. South Africa is the main focus; Zimbabwe and Zambia are the focus of the first year. The delivery consortium has not been chosen, and a contract is expected later in the year.
 
 The lead investor in the fibre recapitalisation [put its commitment at more than R2.1bn, valuing the fibre companies at R14.4bn in total](https://www.itweb.co.za/article/sa-investment-firm-ploughs-r21bn-into-digital-economy/KzQenMjyjEA7Zd2r).
+
+A payments-infrastructure firm [closed a US$22m Series A led by a local venture firm on 5 August](https://techafricanews.com/2026/08/05/moment-raises-22-million-series-a-to-expand-payment-infrastructure-across-africa/), taking its total raised to US$55m.
 
 ## Tanzania
 

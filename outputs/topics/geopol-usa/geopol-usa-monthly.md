@@ -1,10 +1,10 @@
 ---
 title: US / hyperscaler activities — monthly update, August – September 2026
-compiled: 2026-09-25
-period: 2026-08-01 to 2026-09-25
+compiled: 2026-09-27
+period: 2026-08-01 to 2026-09-27
 subject: geopol.usa
 places: CPV; DJI; EGY; KEN; LSO; MUS; NGA; STP; SEN; ZAF; UGA; ZWE
-record: aa9fef0ddcbf
+record: 6984bccc4685
 ---
 
 # US / hyperscaler activities: monthly update, August – September 2026
@@ -62,3 +62,5 @@ The United States health-data memorandum is now held, and it is not the instrume
 ## Zimbabwe
 
 Zimbabwe withdrew from the bilateral health talks, and the dispute over why was settled this month against the templates rather than the parties. Harare's account is that talks ended over long-term United States access to national health data and an attempt to fold in critical minerals; the [embassy stated the conditions were co-investment, financial accountability and specimen sharing during outbreaks, and that assertions it sought Zimbabweans' personal data are categorically false](https://www.newzimbabwe.com/america-disputes-zimbabwean-governments-recent-account-on-us365-million-health-deal/). Both are supportable. The [model data-sharing agreement gives the United States secure, uninterrupted access, expressly including login credentials, to seven national health systems for twenty-five years continuing ten years past termination](https://www.citizen.org/wp-content/uploads/Model-Data-Sharing-Agreement.pdf) — and in the same clause tells the partner not to provide individual-level or personally identifiable data unless there is no other way. The [template memorandum requires physical specimens and related genetic sequence data of pathogens with epidemic potential within five days of detection, for twenty-five years](https://www.citizen.org/wp-content/uploads/Template-MoU-AFGHS.pdf). Harare is describing standing credentialled access to live systems; Washington is denying transfer of identifiable records. Neither template is the Zimbabwe draft, which was never signed and does not exist as a public document. [About 1.2m people on United States-supported HIV treatment face wind-down](https://apnews.com/article/zimbabwe-us-health-funding-deal-b2d3fce8b9a340c53d117675319be120).
+
+The embassy [said on 25 September that all US funding for the country's health programmes ends at the end of the month](https://www.independent.co.uk/news/world/americas/zimbabwe-donald-trump-hiv-harare-washington-b3056549.html).

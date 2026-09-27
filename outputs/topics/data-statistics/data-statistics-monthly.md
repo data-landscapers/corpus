@@ -1,10 +1,10 @@
 ---
 title: National statistics — monthly update, August – September 2026
-compiled: 2026-09-25
-period: 2026-08-01 to 2026-09-25
+compiled: 2026-09-27
+period: 2026-08-01 to 2026-09-27
 subject: data.statistics
 places: BEN; BWA; BFA; BDI; CMR; CAF; TCD; COM; COG; COD; GNQ; SWZ; GAB; GHA; GIN; KEN; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; TGO; TUN; UGA; ZWE
-record: 9a0829d154e7
+record: a30303f90ac9
 ---
 
 # National statistics: monthly update, August – September 2026
@@ -81,11 +81,15 @@ The inclusion survey is in the field: [the 2026 FinScope round covers 3,200 hous
 
 ## Gabon
 
-On 21 July an interministerial committee fixed the terms of a second census of economically weak Gabonese, with preparation through July and August and fieldwork from September 2026, drawing on the population census and health-insurance records; its stated purpose is that the existing social file is not reliable enough to target protection ([terms](https://www.gabonreview.com/gabonais-economiquement-faibles-le-gouvernement-lance-un-nouveau-recensement-en-septembre/)).
+The population census moved from government to court. After hearing the planning minister on 12 August, the Constitutional Court [sent teams to all nine provinces to verify the general population and housing census figures before deciding whether to approve them](https://www.gabonreview.com/rgpl-la-cour-constitutionnelle-lance-la-verification-des-chiffres-dans-les-neuf-provinces/), the Estuaire governor reporting enumeration coverage above 95%. No certified population figure is established.
+
+On 18 September the Council of Ministers [adopted three statistics decrees, amending the statistics institute's statutes and reorganising the National Statistics Council and the Special Fund for Statistics, the last to secure financing and reduce dependence on external funds](https://agpgabon.ga/wp-content/uploads/2026/09/Communique-Final-du-18-septembre-2026-version-Presse-ecrite.pdf).
+
+The energy ministry [is building a national energy information system to produce energy balances and SDG 7 indicators, fed by the 2026 census](https://agpgabon.ga/gabon-energie-les-resultats-du-recensement-2026-alimenteront-le-calcul-des-indicateurs-du-sie-ministere-de-lenergie/). No start date or first balance is stated.
 
 ## Ghana
 
-The statistical service [published the third wave of its six-monthly governance panel on 6 August](https://www.graphic.com.gh/news/politics/ghana-news-governance-reforms-yielding-results-but-remain-fragile-government-statistician.html), run across all sixteen regions, with the Government Statistician putting its findings to digital remedies — digitising public services and publishing official fees among them. The report text is not held. Separately the finance minister [asked the service to develop a methodology for quarterly employment statistics](https://www.myjoyonline.com/finance-minister-urges-gss-to-publish-quarterly-employment-rate-data/); none is published and no timetable is set.
+The statistical service [published the third wave of its six-monthly governance panel on 6 August](https://www.graphic.com.gh/news/politics/ghana-news-governance-reforms-yielding-results-but-remain-fragile-government-statistician.html), run across all sixteen regions, with the Government Statistician putting its findings to digital remedies — digitising public services and publishing official fees among them. The report text is not held.
 
 The statistical service and Statistics Denmark [agreed the design of a third three-year phase of their cooperation, centred on integrating administrative data held by ministries and agencies](https://www.ecofinagency.com/news-services/2209-59131-ghana-denmark-plan-new-phase-of-cooperation-on-government-data); no start date or funding figure is stated.
 

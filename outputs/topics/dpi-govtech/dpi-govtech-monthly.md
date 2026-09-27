@@ -1,10 +1,10 @@
 ---
 title: Other GovTech and e-Gov — monthly update, August – September 2026
-compiled: 2026-09-25
-period: 2026-08-01 to 2026-09-25
+compiled: 2026-09-27
+period: 2026-08-01 to 2026-09-27
 subject: dpi.govtech
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: f7ca52728ff2
+record: 23107e56b6f3
 ---
 
 # Other GovTech and e-Gov: monthly update, August – September 2026
@@ -20,6 +20,8 @@ The national portal [reached 150 services on 9 September on the high commission'
 The foreign trade ministry's services-import platform [entered operation on 1 August](https://drive.google.com/file/d/1_UovYiTOhikpGJ7QiOUNQJsAoYu6xqw_/view) as the [exclusive route for those applications](https://www.echoroukonline.com/وزارة-التجارة-الخارجية-تطلق-منصة-رقمي). The trade ministry's [complaints platform for economic operators went live on 11 August](https://www.horizons.dz/2026/08/operateurs-economiques-une-nouvelle-plateforme-numerique-pour-le-traitement-des-preoccupations-a-distance/), for remote filing and tracking of concerns about import and export procedures, and the ministry describes it as the fifth platform it has put into service this year. The Ombudsman institution will [pilot a videoconference citizen-reception service from September 2026](https://www.horizons.dz/2026/08/instance-du-mediateur-de-la-republique-nouvelle-vision/), for citizens in remote areas and people with specific needs. Separately, UNDP [committed a grant on 31 August to bring natural-language processing and automated deadline tracking into the Ombudsman's handling of citizen requests](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-41114-OUTPUT-01006100). On 1 September the public works ministry [opened online filing of firms' qualification and classification files and design-office accreditation](https://www.echoroukonline.com/بوابة-وزارة-الأشغال-العمومية-تطلق-خدم).
 
 On 10 August the interior minister [ordered his own ministry to accelerate digitisation projects he described as stalled](https://www.horizons.dz/2026/08/numerisation-sayoud-ordonne-daccelerer-la-mise-en-oeuvre-des-projets/), naming vehicle-registration and civil-status services; he gave no completion figure or revised timetable. The state fuel distributor [made its e-Mahata platform the single window for ordering tyres](https://just-infodz.com/naftal-pneus-algerie-incoherence-himayatak/), requiring electronic payment and capping one make at two purchases per citizen per six months. The labour ministry [launched an online corruption-reporting platform, Tabligh](https://just-infodz.com/lutte-corruption-algerie-plateforme-tabligh-mtess/), covering the central administration, with no report volume, handling procedure or protection for reporters published. On 9 September the president [ordered the investor single window effectively in service by the end of September and all investment procedures digitised with the tax, state-property and customs administrations](https://elwatan.dz/le-president-tebboune-ordonne-lacceleration-de-la-numerisation-mise-en-service-du-guichet-unique-fin-septembre/).
+
+The national pension fund [added a website chatbot on 24 September](https://observalgerie.com/2026/09/24/economie/la-cnr-lance-un-nouveau-service-pour-les-retraites-algeriens/) to remote services that already let some pensioners prove they are alive by facial recognition, against a ministry target of halving office visits by year end.
 
 ## Angola
 
@@ -165,7 +167,7 @@ The electoral commission's digitalisation produced its first published contest f
 
 ## Ghana
 
-The finance ministry reported to Parliament that the customs valuation system had [analysed about 366,000 declarations to 17 July](https://www.myjoyonline.com/publican-ai-system-generates-gh%c2%a2300m-additional-revenue-since-rollout-ato-forson/), 24% triggering more than one risk indicator, with collections up 17.5% against a 6.3% rise in declared value. A second public sector reform strategy was validated on 30 July on seven pillars, 27 programmes and 135 activities.
+Tax payments broke on the government's own front door. Payments initiated through the customs and tax systems on the Ghana.gov payment platform [failed intermittently from 14 August, filing unaffected](https://www.citinewsroom.com/2026/08/gra-moves-to-restore-normal-ghana-gov-tax-payment-processing/), and the revenue authority gave no restoration date.
 
 The paper record gained a contract. The ministry said on 7 September that a contract had been [signed on 13 August to digitise 3.5 million public records held by the Public Records and Archives Administration Department](https://www.myjoyonline.com/government-begins-digitisation-of-3-5-million-public-records-sam-george/), as part of moving public administration off paper. No contractor, value, timetable or completion date was stated.
 

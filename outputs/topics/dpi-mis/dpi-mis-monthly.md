@@ -1,15 +1,15 @@
 ---
 title: Sectoral management information systems (HMIS, EMIS, etc.) — monthly update, August – September 2026
-compiled: 2026-09-25
-period: 2026-08-01 to 2026-09-25
+compiled: 2026-09-27
+period: 2026-08-01 to 2026-09-27
 subject: dpi.mis
-places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; COM; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 57bb624a1cd9
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: f0e040c6d7e6
 ---
 
 # Sectoral management information systems (HMIS, EMIS, etc.): monthly update, August – September 2026
 
-*48 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*49 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -62,6 +62,10 @@ Procurement opened behind the announced health digitalisation. [Expressions of i
 ## Central African Republic
 
 Health information in the window is a single link run by someone other than the state. A remote hospital [is using telemedicine to reach a global network of healthcare professionals](https://www.doctorswithoutborders.ca/central-african-republic-using-telemedicine-to-tap-into-a-global-network-of-healthcare-professionals/), the service run by an international medical organisation rather than the health ministry. One site is a capability and not yet a system: no case volume, connectivity arrangement or continuity plan is published, so what happens to the link when the organisation leaves is not on record.
+
+## Chad
+
+A regional platform for digitising health campaigns [was piloted in a district of N'Djamena province during the June 2026 polio campaign](https://www.afro.who.int/news/who-africa-launches-health-campaign-digitization-initiative-digit-hcm-transform-health), the WHO regional office said when it launched the initiative on 25 September. No coverage, cost or decision on national roll-out is stated.
 
 ## Comoros
 
@@ -116,8 +120,6 @@ The state medicines agency [said on 26 August that four years of digitising proc
 A technology group and a bank [signed an agreement to digitise the agricultural supply chain](https://birrmetrics.com/eagle-lion-and-tsedey-bank-partner-to-digitize-ethiopias-agricultural-supply-chain/); no scope, value, farmer count or launch date is stated.
 
 ## Gabon
-
-On 30 July the education ministry received 1,000 tablets for what the minister described as 148 connected schools ([handover](https://agpgabon.ga/gabon-remise-de-1-000-tablettes-au-ministere-de-leducation-nationale/)).
 
 The state's civil-service human-resources record has been failing for months. The Fichier unique de reference [is near-inoperative, blocking tenure confirmations, reclassifications, recruitments and promotions and stopping their pay effects reaching agents, the breakdown sitting in the data-replication link between the civil service and pay services; on 25 August the vice-president of the government ordered an emergency plan restoring career management, agent mobility and data replication](https://union.sonapresse.com/fr/fonction-publique-redynamiser-le-fichier-unique-de-reference). The civil service ministry says it is migrating to an integrated state human-resources management system.
 
@@ -192,6 +194,8 @@ The same 50-article digital health bill adopted in the government council on 22 
 ## Namibia
 
 The Roads Authority [commissioned a N$13 million project control system](https://neweralive.na/n13-million-project-control-system-launched/) to strengthen oversight of road projects. No project count, user base or reporting output accompanies it.
+
+The statistics agency [launched the first national labour-market information system on 24 September](https://www.nampa.org/text/23024267), pulling labour data held by government bodies and the private sector into one platform. No coverage or publication schedule is stated.
 
 ## Nigeria
 
@@ -308,3 +312,5 @@ Beneficiary checks for the Keeping Girls in School programme [moved from paper f
 The national electronic medical record reached [1,254 of a planned 1,900 health facilities](https://www.theglobalfund.org/media/qksld2tg/publication_zimbabwe-digital-health_casestudy_en.pdf), on a health financing partner's account rather than the ministry's. The [platform's own front page describes it as the national health operating system](https://impilo.mohcc.gov.zw/), spanning care-finding, provider verification, medicines and diagnostics directories, virtual care, an assistant and public health notices — run largely without a citizen account and gated by a separate professional-authority check — and carries no facility-coverage figure and no last-updated date of its own. An operator separately reports [more than 20 telehealth centres established](https://www.263chat.com/netone-at-30-from-zimbabwes-first-mobile-call-to-a-digital-future/), company-reported to an anniversary feature with no patient, consultation or availability figure.
 
 On land the state consolidated rather than built: the lands minister said on 24 August that [three land databases had been merged into one integrated digital system reached through a One Stop Title Processing Centre, with 27,045 plots surveyed and 10,231 mapped to beneficiaries and 1,824 agreements of sale worth about US$110 million concluded](https://www.zimbabwesituation.com/news/govt-keen-to-unlock-us20bn-in-land-value/). The figures are the implementation committee's own and nothing on this ledger tests them.
+
+The health ministry said [its laboratory information management system runs at 117 main laboratories, against a 2030 target of 80% of facilities](https://www.zimbabwesituation.com/news/govt-takes-diagnostics-closer-to-rural-communities/), with results sent electronically including by SMS.

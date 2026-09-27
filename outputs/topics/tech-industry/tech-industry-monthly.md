@@ -1,15 +1,15 @@
 ---
 title: ICT Industry — monthly update, August – September 2026
-compiled: 2026-09-25
-period: 2026-08-01 to 2026-09-25
+compiled: 2026-09-27
+period: 2026-08-01 to 2026-09-27
 subject: tech.industry
-places: DZA; AGO; BWA; CAF; EGY; GNQ; SWZ; GAB; GHA; KEN; MUS; MAR; MOZ; NER; NGA; SEN; ZAF; SDN; TZA; TGO; UGA; ZMB; ZWE
-record: 682728ac8fd8
+places: DZA; AGO; BWA; CAF; EGY; GNQ; SWZ; GAB; GHA; KEN; MDG; MUS; MAR; MOZ; NER; NGA; SEN; ZAF; SDN; TZA; TGO; UGA; ZMB; ZWE
+record: 7ab0d773ca0e
 ---
 
 # ICT Industry: monthly update, August – September 2026
 
-*23 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*24 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -53,13 +53,17 @@ A ride-hailing platform [began recruiting drivers at Libreville in partnership w
 
 ## Ghana
 
-On 27 July a company filed a writ claiming authorship of the 2007 design of the dominant mobile-money platform; the operator answered on 31 July that the claims are without merit and it will contest fully.
+A Ghanaian-founded remittance platform that pays schools, hospitals and insurers directly [was profiled on 26 August as having processed over US$450 million in a decade](https://techcabal.com/2026/08/26/how-a-diverted-tuition-fee-birthed-a-450-million-remittance-platform/). The figure is the company's own, with no period breakdown or corridor split.
 
 ## Kenya
 
 The month's movement in the sector was a fibre operator saying it intends to stop selling fibre. The Kenyan business of a pan-African backbone owner [is repositioning from connectivity provider to a layered artificial-intelligence, cloud and cybersecurity business on top of its own network](https://techtrendske.co.ke/2026/09/10/interview-liquid-bets-on-ai-as-next-growth-frontier-for-africas-fibre-network/), its chief executive arguing on 10 September that connectivity becomes the foundation of digital infrastructure rather than the product. He [put Africa at 0.6% of world data-centre capacity](https://www.itweb.africa/article/interview-liquid-targets-africas-data-centre-gap/xA9POvNE2Gxqo4J8), the concern he said African telecom executives raise most. It is a stated strategy in two interviews at one conference: no revenue split, investment figure, capacity addition or service launch date accompanies it.
 
 The state's largest telecoms divestment was undone in court and is heading back there. The High Court voided the sale of a 15% Safaricom stake to Vodacom on 15 September, and on 16 September [Vodacom said it would appeal and seek a stay, and the finance minister said the Treasury would appeal too](https://www.connectingafrica.com/investment/vodacom-kenyan-government-to-appeal-court-ruling-voiding-safaricom-sale). How the proceeds already committed are treated is not on record.
+
+## Madagascar
+
+The government outsourcing-skills programme [certified 99 of the 111 trainees in its second seven-week cohort on 24 September](https://www.2424.mg/formation-professionnelle-99-jeunes-certifies-aux-metiers-du-bpo-apres-sept-semaines-de-formation/), delivered with a private academy under a World Bank-supported project. No placement figure is published, so what the cohort shows is completion rather than jobs.
 
 ## Mauritius
 

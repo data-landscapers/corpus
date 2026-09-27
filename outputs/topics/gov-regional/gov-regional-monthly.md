@@ -1,10 +1,10 @@
 ---
 title: Regional collaboration — monthly update, August – September 2026
-compiled: 2026-09-25
-period: 2026-08-01 to 2026-09-25
+compiled: 2026-09-27
+period: 2026-08-01 to 2026-09-27
 subject: gov.regional
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COG; CIV; DJI; COD; EGY; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZWE
-record: 8cb00973c604
+record: 32c54af2861b
 ---
 
 # Regional collaboration: monthly update, August – September 2026
@@ -97,7 +97,7 @@ The bilateral channel that bears on connectivity moved from signature to work. T
 
 ## Ghana
 
-Ghana's regional position moved on four fronts, none of them with a text attached. The communications minister was [unanimously confirmed as the next chair of the African Union's Specialised Technical Committee on Communication and ICT, for two years from October 2026](https://www.myjoyonline.com/sam-george-to-chair-au-ict-committee-for-two-years/), the same statement naming participation in the Africa Network of Cybersecurity Authorities, an Arab Region roundtable and work with the Council of Europe's Cybercrime Convention Committee. African Union ministers [endorsed continental roll-out of the illicit-financial-flows policy tracker](https://www.taxjusticeafrica.net/resources/news/landmark-win-africa-au-member-states-endorse-continental-roll-out-anti-iffs-policy) from the six-country pilot Ghana ran over eighteen months, the finance ministry reporting that it contributed to recovering millions of dollars in revenue — with no Ghana-specific score, finding or reform list published. The communications ministry [announced a partnership on digital-policy intelligence and regulatory-analysis tools](https://techafricanews.com/2026/08/10/ghana-ministry-and-digital-policy-alert-partner-to-strengthen-digital-governance/) at an Accra workshop on 10 August, covering the national AI strategy, data-governance work and the coders programme, with no funding, duration or deliverables stated. And the [fintech licence passporting memorandum with Rwanda remains unpublished by either central bank](https://techafricanews.com/2026/07/30/the-compliance-cost-can-africa-build-a-regulatory-home-for-its-fintechs/) eighteen months after signature, so which licence categories are recognised, and on what conditions, is still unestablished.
+Ghana's regional position moved on three fronts, none of them with a text attached. The communications minister was [unanimously confirmed as the next chair of the African Union's Specialised Technical Committee on Communication and ICT, for two years from October 2026](https://www.myjoyonline.com/sam-george-to-chair-au-ict-committee-for-two-years/), the same statement naming participation in the Africa Network of Cybersecurity Authorities, an Arab Region roundtable and work with the Council of Europe's Cybercrime Convention Committee. African Union ministers [endorsed continental roll-out of the illicit-financial-flows policy tracker](https://www.taxjusticeafrica.net/resources/news/landmark-win-africa-au-member-states-endorse-continental-roll-out-anti-iffs-policy) from the six-country pilot Ghana ran over eighteen months, the finance ministry reporting that it contributed to recovering millions of dollars in revenue — with no Ghana-specific score, finding or reform list published. The communications ministry [announced a partnership on digital-policy intelligence and regulatory-analysis tools](https://techafricanews.com/2026/08/10/ghana-ministry-and-digital-policy-alert-partner-to-strengthen-digital-governance/) at an Accra workshop on 10 August, covering the national AI strategy, data-governance work and the coders programme, with no funding, duration or deliverables stated.
 
 
 A fourth front does have something running. A continental alliance and a German development agency say [a digital identity issued in Rwanda, Ghana or Benin is now recognised in the other two, with eighteen further countries said to be joining](https://www.giz.de/en/newsroom/storys/interview-herken-kone-smart-africa-digital-sovereignty). No scale, service, date or governing instrument is stated.

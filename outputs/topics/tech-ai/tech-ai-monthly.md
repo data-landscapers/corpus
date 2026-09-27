@@ -1,10 +1,10 @@
 ---
 title: AI — monthly update, August – September 2026
-compiled: 2026-09-25
-period: 2026-08-01 to 2026-09-25
+compiled: 2026-09-27
+period: 2026-08-01 to 2026-09-27
 subject: tech.ai
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COM; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GHA; KEN; LSO; LBR; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: bb4a5771026d
+record: 59f0af1ee9aa
 ---
 
 # AI: monthly update, August – September 2026
@@ -18,6 +18,8 @@ record: bb4a5771026d
 Implementation of the national strategy is organised under the higher-education minister. A first coordination meeting on 5 August [installed a joint monitoring committee](https://www.aps.dz/fr/algerie/education-et-technologie/msg23yd3-reunion-de-coordination-pour-la-mise-en-%C5%93uvre-de-la-strategie-nationale-en-matiere-de-l-ia), and on 12 August the minister reported [a joint inter-ministerial roadmap prioritising sovereign open-source models, high-performance computing centres, national data storage and stronger safeguards for public-sector applications](https://itweb.africa/article/algeria-launches-public-service-ai/lwrKxv3Y1oyMmg1o). A second meeting on 8 September [created five thematic commissions, a national AI and data research centre, short-term projects for AI-based tax administration and a multisectoral AI system, and a target of 50,000 AI specialists by 2030](https://www.mesrs.dz/fr/2026/09/le-ministre-de-lenseignement-superieur-et-de-la-recherche-scientifique-preside-la-premiere-reunion-de-coordination-consacree-a-la-mise-en-oeuvre-de-la-strategie-nationale-de-lintelli/). The strategy text is still not published and the ethical-AI law has not moved.
 
 The forestry and civil protection directorates [built artificial-intelligence-assisted prediction and early warning, with thermal-camera drones flying day and night, into the 2026 fire campaign](https://www.echoroukonline.com/عُقول-جزائريّة-تُحارب-النّار-والذكاء).
+
+A follow-up meeting on the strategy, reported on 22 September, [approved an updated draft decree creating a national AI and data research centre and set 17 infrastructure and 14 data operations for 2026](https://dzwatch.dz/?p=79285). The decree is in legal procedure and the strategy text remains unpublished.
 
 ## Angola
 
@@ -117,11 +119,9 @@ An operator [launched a voice artificial-intelligence service reachable by diall
 
 ## Ghana
 
-UNESCO's Accra head replied from the same platform that strategies without funding and execution remain shell documents.
-
-Applications opened on 1 July for an applied artificial-intelligence lab in Accra, closing 31 August with no cohort size or Ghana-specific spend disclosed.
-
 The external assessment of readiness arrived on 7 September. Ghana is [one of 77 countries to have run UNESCO's readiness assessment methodology, under an EU-funded project on implementing the ethics recommendation](https://www.unesco.org/en/articles/ai-readiness-assessment-methodology-ghana), and the draft findings presented at consultation stated that the country lacks binding AI-specific regulation and comprehensive data governance frameworks. The report also puts a third dating on the national strategy — 2023-2033, approved 24 April 2026 — against the held text titled 2025-2035 and dated December 2025 and a [ministerial statement placing Cabinet approval in the week before 26 February 2026](https://www.citinewsroom.com/2026/02/ghanas-national-ai-strategy-secures-cabinet-approval-sam-george/). None of the three is reconciled.
+
+The finance ministry [adopted a legal AI tool across its legal directorate on 27 August](https://techafricanews.com/2026/08/27/ghana-ministry-finance-eskwai-government-legal-ai-deployment/), described by the vendor as the first team-wide deployment of legal AI in a government legal department. No contract value or seat count is stated.
 
 Two applied systems launched outside government. The development bank's [AI platform gives farmers agronomic guidance and loan officers portfolio intelligence on a messaging app, after a pilot of more than 8,500 queries in three months](https://gna.org.gh/2026/09/dbg-partners-launch-ai-platform-to-transform-agricultural-financing/), and a non-profit with the dominant operator [opened a toll-free voice line answering in six languages, an AI system included, for callers without data](https://www.ghanamma.com/2026/09/10/viamo-launches-231-voice-platform-in-ghana-creating-a-new-national-channel-for-inclusive-communication-and-offline-ai/).
 
@@ -206,7 +206,7 @@ The month's artificial-intelligence work is language work. The development progr
 
 The state's own first artificial-intelligence contract asks the same question of a different dataset, and answers part of it. A [one-year contract with a United States firm at N$39.5m, about US$2.4m, introduces satellite imagery, remote sensing and artificial-intelligence monitoring of mahangu, maize, sorghum, cowpea and wheat](https://observer24.com.na/questions-mount-over-n39-5m-us-agriculture-ai-deal/); the agriculture ministry says Namibia retains ownership of the satellite and crop data generated and will receive model and skills transfer. The award drew public objection over transparency and local participation, and no procurement route, tender record or text of the data-ownership and transfer terms is published.
 
-The research commission [set the launch of a national artificial-intelligence institute for 23 September, with four centres, one of them curating Namibian datasets, and a youth fellowship it says already reaches about 2,000 tertiary students](https://namibiabusinessreview.com/namibia-to-launch-ai-institute-to-strengthen-national-capacity/). Only the announcement is held; no budget or site is stated.
+The research commission [set the launch of a national artificial-intelligence institute for 23 September, with four centres, one of them curating Namibian datasets, and a youth fellowship it says already reaches about 2,000 tertiary students](https://namibiabusinessreview.com/namibia-to-launch-ai-institute-to-strengthen-national-capacity/). It [was launched in Windhoek on 23 September](https://neweralive.na/ncrst-opens-national-ai-institute/), and a working group has submitted its first report on a planned national dataset; no budget is stated.
 
 ## Nigeria
 

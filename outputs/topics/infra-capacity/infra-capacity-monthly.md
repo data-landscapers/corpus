@@ -1,21 +1,25 @@
 ---
 title: Technical Capacity — monthly update, August – September 2026
-compiled: 2026-09-25
-period: 2026-08-01 to 2026-09-25
+compiled: 2026-09-27
+period: 2026-08-01 to 2026-09-27
 subject: infra.capacity
-places: BDI; COD; GHA; KEN; LBY; MOZ; RWA; SEN; ZAF; TGO
-record: 40313e94b6d4
+places: BDI; CMR; COD; GHA; KEN; LBY; MOZ; RWA; SEN; ZAF; TGO
+record: c2a3461704b2
 ---
 
 # Technical Capacity: monthly update, August – September 2026
 
-*10 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*11 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
 ## Burundi
 
 The revenue authority's own platform went into production. From 4 August [all new taxpayer registration applications are made exclusively online, with three routes for natural persons, legal persons and cooperatives and a biometric appointment step for fingerprints and photograph](https://obr.bi/index.php/e-kori). It is a government system entering service rather than a procurement notice, which is the rarer of the two on this ledger, and no uptime, throughput or fallback for an applicant who cannot use it is stated.
+
+## Cameroon
+
+The digital transformation project [launched train.patnucelearning.cm on 21 September to train 15,000 civil servants and public-enterprise staff online over 50 days, in AI and blockchain, digital project management, change management and electronic records](https://www.digitalbusiness.africa/cameroun-train-patnucelearning-cm-la-plateforme-numerique-lancee-pour-former-15-000-agents-publics-a-lia-la-blockchain-et-la-transformation-digitale/). It moved from consultant selection in April to a live platform; no enrolment or completion figure is published yet.
 
 ## DR Congo
 

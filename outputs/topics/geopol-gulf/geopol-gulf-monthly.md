@@ -1,10 +1,10 @@
 ---
 title: Gulf/UAE activities — monthly update, August – September 2026
-compiled: 2026-09-25
-period: 2026-08-01 to 2026-09-25
+compiled: 2026-09-27
+period: 2026-08-01 to 2026-09-27
 subject: geopol.gulf
 places: AGO; BWA; EGY; GMB; KEN; SSD; ZWE
-record: bdfe143ba53c
+record: c31d99fc1894
 ---
 
 # Gulf/UAE activities: monthly update, August – September 2026

@@ -1,10 +1,10 @@
 ---
 title: Literacy — monthly update, August – September 2026
-compiled: 2026-09-25
-period: 2026-08-01 to 2026-09-25
+compiled: 2026-09-27
+period: 2026-08-01 to 2026-09-27
 subject: capacity.literacy
 places: AGO; TCD; COM; COD; EGY; GHA; KEN; LBR; MDG; MOZ; NER; RWA; SEN; SLE; SSD; TZA; TGO; UGA; ZMB
-record: d24a562728b4
+record: b48a0923cc94
 ---
 
 # Literacy: monthly update, August – September 2026
@@ -37,7 +37,7 @@ The communications ministry [signed a three-year memorandum with Intel on 16 Sep
 
 ## Ghana
 
-The education council completed a revised basic-education curriculum adding coding, artificial intelligence and technical subjects, announced on 20 July and not yet adopted.
+The cyber security authority [launched the 2026 National Cyber Security Awareness Month on 2 September, themed on securing the digital finance system](https://techafricanews.com/2026/09/02/ghana-cyber-security-authority-launches-2026-awareness-month-digital-finance/), and an education charity [began training 60 community digital champions for 52 communities under a Mastercard Foundation fellowship in August](https://www.ghanawebbers.com/GhanaHomePage/NewsArchive/EduSpots-Introduces-Digital-Champions-Program-to-Boost-Learning-in-52-Communities-2170468). Neither reports a reach figure.
 
 ## Kenya
 

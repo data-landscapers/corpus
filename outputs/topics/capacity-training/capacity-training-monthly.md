@@ -1,10 +1,10 @@
 ---
 title: Training and skills — monthly update, August – September 2026
-compiled: 2026-09-25
-period: 2026-08-01 to 2026-09-25
+compiled: 2026-09-27
+period: 2026-08-01 to 2026-09-27
 subject: capacity.training
 places: DZA; AGO; BEN; BFA; BDI; CMR; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: bbbb76262868
+record: 87939afc80de
 ---
 
 # Training and skills: monthly update, August – September 2026
@@ -99,13 +99,15 @@ Certification training is [under way for participants at Libreville's American C
 
 More than 130 young people have been [trained in cybersecurity, networks, artificial intelligence and programming since June 2026](https://gabonmediatime.com/gabon-etats-unis-130-jeunes-formes-en-cybersecurite-reseaux-ia-et-programmation/) under a programme with the United States. No curriculum, certification or placement outcome is published.
 
+The primary-school digitalisation programme [entered its scale-up phase, the pilot having grown from nine schools to 69](https://agpgabon.ga/gabon-mouila-ouverture-dun-seminaire-sur-la-digitalisation-a-lecole-primaire/), as teacher training opened at Mouila on 25 September; the coordinator put satellite-connected schools at more than 120, below the operator's own count.
+
 ## Gambia
 
 The national university's technology school [offers three bachelor's degrees and six-month diplomas in artificial intelligence, cybersecurity and data science](https://www.utg.edu.gm/schools-faculties/itc/), the widest named provision the repository holds. It follows the President's June direction to the applied science university to [fast-track a second phase including a college of computer engineering](https://op.gov.gm/statement-his-excellency-president-adama-barrow-chancellor-gambia-university-applied-science).
 
 ## Ghana
 
-The ministry said on 7 September that it had [signed memoranda with eleven universities to embed digital certifications into degree and diploma programmes](https://www.myjoyonline.com/govt-signs-mous-with-11-universities-to-embed-digital-certifications-in-degree-programmes/), naming five of them and leaving six, the certifications, the start date and any student number unstated. A youth agency [signed for 2,000 vendor-certified microdegree places on 14 July](https://www.myjoyonline.com/yea-partners-ghana-digital-centres-to-train-2000-youth-in-ai-cybersecurity-and-digital-skills/) — Ghana taking 2,000 of the 3,000 allocated to the whole continent — fully government-funded, with 600 paid internships and a five-region pilot, and no programme cost disclosed. [A university became the first tertiary institution to embed the national coders programme permanently in its curriculum on 29 July, receiving a further 2,000 laptops the next day](https://www.myjoyonline.com/yea-partners-ghana-digital-centres-to-train-2000-youth-in-ai-cybersecurity-and-digital-skills/). Three universities — Kumasi Technical University, the Kwame Nkrumah University of Science and Technology and the University of Mines and Technology — [completed the first pilot of the European-funded UNIHUBS blended-learning course in entrepreneurship, innovation and digital skills, run from late June to July and reported on 3 September](https://www.ghanawebbers.com/GhanaHomePage/business/KsTU-KNUST-and-UMaT-Join-EU-Program-for-Innovation-and-Digital-Skills-2174760), covering business development, technology transfer in higher education, digital marketing and professional communication. The consortium treated it as a quality-assurance run before pilots in Kenya and Tanzania this month; no participant count, budget or grant number is published, and the account is the project's own.
+The ministry said on 7 September that it had [signed memoranda with eleven universities to embed digital certifications into degree and diploma programmes](https://www.myjoyonline.com/govt-signs-mous-with-11-universities-to-embed-digital-certifications-in-degree-programmes/), naming five of them and leaving six, the certifications, the start date and any student number unstated. Three universities — Kumasi Technical University, the Kwame Nkrumah University of Science and Technology and the University of Mines and Technology — [completed the first pilot of the European-funded UNIHUBS blended-learning course in entrepreneurship, innovation and digital skills, run from late June to July and reported on 3 September](https://www.ghanawebbers.com/GhanaHomePage/business/KsTU-KNUST-and-UMaT-Join-EU-Program-for-Innovation-and-Digital-Skills-2174760), covering business development, technology transfer in higher education, digital marketing and professional communication. The consortium treated it as a quality-assurance run before pilots in Kenya and Tanzania this month; no participant count, budget or grant number is published, and the account is the project's own.
 
 The coders programme published its funnel rather than a headline for the first time: [141,954 registered accounts, 27,782 admitted learners and 5,812 logged course completions as at 2 August 2026, cybersecurity the largest track at 8,570](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/), with 30,444 admitted through one commercial platform, 10,143 through a second and 24,394 learners self-paced. Registration is not admission and admission is not completion, and it is the ratio between them rather than any one number that measures the programme against its target of a million.
 
@@ -176,6 +178,8 @@ The incumbent operator opened a national cybersecurity and artificial-intelligen
 ## Morocco
 
 The Génération AIoT programme [opened seven cohorts in Casablanca, Fès and Oujda, aiming at 1,200 trained people a year from February 2027](https://consonews.ma/communiques-de-presse/le-programme-generation-aiot-vise-1-200-talents-formes-par-an-des-fevrier-2027). Launched in February by the digital transition ministry with a foundation and a technology firm, it [had drawn 2,118 applications and gathered 95 participants](https://consonews.ma/communiques-de-presse/le-programme-generation-aiot-vise-1-200-talents-formes-par-an-des-fevrier-2027). No completion or placement figure is published.
+
+The administration school and the digital development agency [agreed on 22 September to train civil servants in digital transformation, AI and data management](https://en.7news.ma/ena-add-digital-skills-partnership/); no number of officials or start date was announced.
 
 ## Mozambique
 

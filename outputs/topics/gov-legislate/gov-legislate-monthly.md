@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — monthly update, August – September 2026
-compiled: 2026-09-25
-period: 2026-08-01 to 2026-09-25
+compiled: 2026-09-27
+period: 2026-08-01 to 2026-09-27
 subject: gov.legislate
 places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; TCD; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 029d7cc18dbd
+record: 3d4b331bffa8
 ---
 
 # Legislation and regulation: monthly update, August – September 2026
@@ -113,13 +113,9 @@ Three instruments moved in the window and none binds yet. The Critical Infrastru
 
 ## Gabon
 
-On 11 July nine civil-society organisations declared the broadcasting authority's social-media suspension unconstitutional, disproportionate and beyond its statutory remit, and demanded its abrogation; they also stated that a bill regulating social media exists and awaits promulgation ([declaration](https://www.gabonreview.com/gabon-cinq-mois-de-silence-numerique-quand-le-remede-devient-le-poison/)). On 17 July the presidential spokesman defended the measure as temporary and conservatory and gave no lifting date. On 25 July an advocacy association presented a report built from two months of consultations, finding no transparent mechanism governing restriction of social networks and recommending revision of the ordinance of 8 April 2026 and greater independence for the broadcasting authority ([report](https://gabonactu.com/blog/2026/07/26/reseaux-sociaux-reguler-dans-le-respect-des-libertes-apsad/)). On 13 August the national human-rights and democracy council took the opposite side of the same argument, [calling for judicial action against online outrage of the presidency and urging a CEMAC or continental legal framework for cyberspace modelled on the European Union's Digital Services Act](https://agpgabon.ga/gabon-outrage-au-chef-de-letat-la-cndpc-appelle-a-des-mesures-fortes-contre-les-derives-sur-les-reseaux-sociaux).
-
-On 23 July a national workshop validated by consensus five implementing texts on the digitalisation of teaching — two decrees, two orders and a decree creating a basic computing certificate — and forwarded them to the competent authorities with recommendations. They are technically validated and not adopted ([close of the workshop](https://agpgabon.ga/gabon-education-cloture-de-latelier-consacre-au-cadre-reglementaire-de-la-digitalisation-des-enseignements/)).
+On 13 August the national human-rights and democracy council took the side opposite the civil-society critics of the social-media suspension, [calling for judicial action against online outrage of the presidency and urging a CEMAC or continental legal framework for cyberspace modelled on the European Union's Digital Services Act](https://agpgabon.ga/gabon-outrage-au-chef-de-letat-la-cndpc-appelle-a-des-mesures-fortes-contre-les-derives-sur-les-reseaux-sociaux).
 
 The month's other legislative movement is procedural rather than expressive. A justice ministry commission [submitted a draft Code of Civil Procedure on 11 August](https://agpgabon.ga/gabon-lavant-projet-du-nouveau-code-de-procedure-civile-remis-au-ministre-de-la-justice), a rewrite of the 1977 ordinance running to more than 800 pages that would let procedural filings be made and held electronically, introduce secure digital tools, and harmonise with the OHADA uniform acts. Professional consultation and parliamentary debate are still ahead, and the draft text is not held.
-
-An earlier instrument reached the repository this month and it is the furthest-going measure of its kind reported in the region. An ordinance of February 2026 [fixes digital majority at 16 and obliges platforms to limit certain publication and interaction functions, to disable contacts from unidentified users by default and to provide age-verification mechanisms](https://www.agenceecofin.com/actualites/2708-141074-en-afrique-comme-ailleurs-les-etats-s-emparent-de-la-protection-des-mineurs-sur-les-reseaux-sociaux) — a duty on how a platform is built rather than a minimum age alone, where Rwanda is still preparing a restriction on under-16s and Zimbabwe has gone the policy route. The ordinance text is not held, only a comparative account of it, and no implementing regulation, supervisory body or enforcement action is on record.
 
 The primary text of the social-media ordinance arrived, and it settles a conflation the repository had carried. [Ordonnance n 0011/PR/2026](https://journal-officiel.ga/22404-0011-pr-2026-/), signed on 26 February 2026 and published in Journal Officiel n 110 of 8 April 2026, is the instrument the repository had recorded twice — once as an ordinance whose text was not held and once as a bill reported second-hand to be awaiting promulgation. It runs to fifty-five articles in eleven chapters: digital majority is fixed at sixteen and account creation below it barred; editors must block publication, sharing and social-interaction functions for accounts identified as under-sixteen without recorded parental consent, disable by default any function letting unidentified persons contact a minor, filter algorithmic recommendation of violent, sexual or psychologically harmful AI content to minor accounts, and report quarterly to the competent authority; age-verification systems sit under a Haute Autorite de la Communication reference framework and a technical audit; and the refere numerique caps any temporary suspension of access to a platform at seventy-two hours. The twelve-month compliance clock runs from publication, to 8 April 2027.
 
@@ -135,9 +131,7 @@ The National Assembly [committed the Competition and Consumer Protection Commiss
 
 ## Ghana
 
-The ministry took industry comment on 27 July on the [draft digital economy and innovation development fund bill](https://amchamghana.org/2026/07/30/amcham-ghana-joins-key-stakeholder-talks-on-new-digital-economy-fund/); the levy rate and governance structure are unestablished, and the draft is not published. Speaking at an artificial-intelligence summit on 29 July, the ministry named a data harmonisation Act and a proposed data exchange Act as the enabling layer under a ten-year implementation plan — the first mention on file of an exchange statute distinct from harmonisation, and neither has a published draft.
-
-The month closed on a ministerial account of the legislative programme itself: under a World Bank-backed acceleration project, [a review of fifteen pieces of ICT legislation is about half complete, with stakeholder consultation already finished on part of it](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/).
+The legislative programme itself got a ministerial account on 7 September: under a World Bank-backed acceleration project, [a review of fifteen pieces of ICT legislation is about half complete, with stakeholder consultation already finished on part of it](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/).
 
 ## Guinea
 
@@ -327,6 +321,8 @@ On 22 September the communication regulator HARC [held its first official meetin
 ## Tunisia
 
 Compulsory electronic invoicing reached the liberal professions: [registration of about 380,000 providers on the platform opened on 15 September](https://fr.allafrica.com/stories/202609200069.html). The date rests on a tax adviser's radio account, and no official instrument fixing it is held.
+
+The central bank's [circular 2026-10 of 25 September replaced the 2018 payment-establishments circular](https://www.tunisienumerique.com/wp-content/uploads/2026/09/circulaire-25-septrembre.pdf), allowing three tiers of payment account, remote account opening on reliable identity verification and a 3,000-dinar cap on cash transfers, in force three months after publication.
 
 ## Uganda
 
