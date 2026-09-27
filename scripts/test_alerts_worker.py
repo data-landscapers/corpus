@@ -330,6 +330,46 @@ check("only the tag tests and the subscriber id are left for Buttondown",
        '{% if "alert site" in subscriber.tags %}', '{{ subscriber.id }}'])
 
 
+print("\nthe main site's posts read like catalogue entries")
+
+LONG = ("Every word of this summary is here to run it past the cap, so that the email shows "
+        "a sentence and an ellipsis rather than a paragraph, which is what the page is for "
+        "and what the list in a weekly alert is not meant to carry at all.")
+SITE_POSTS = json.dumps([
+    {"title": "Both", "url": "https://data-landscapers.io/p/b", "date": "2026-09-14",
+     "subtitle": "The subtitle", "summary": "The summary.", "description": "The subtitle"},
+    {"title": "Subtitle only", "url": "https://data-landscapers.io/p/s", "date": "2026-09-13",
+     "subtitle": "Only a subtitle", "summary": "", "description": "Only a subtitle"},
+    {"title": "Neither", "url": "https://data-landscapers.io/p/n", "date": "2026-09-12",
+     "subtitle": "", "summary": "", "description": "The first words of the post."},
+    {"title": "Long", "url": "https://data-landscapers.io/p/l", "date": "2026-09-11",
+     "subtitle": "Short", "summary": LONG, "description": "Short"},
+    {"title": "Old feed", "url": "https://data-landscapers.io/p/o", "date": "2026-09-10",
+     "description": "A description and nothing else."},
+])
+site_body = js(
+    f'renderDigest(planDigest({{tally: {{"alert site": 1}}, defs: {{}}, records: [], '
+    f'tagIds: {{"alert site": "tag_site"}}, mainPosts: {SITE_POSTS}, '
+    f'from: "2026-09-08", to: "2026-09-15"}}).sections, {{siteBase: "x"}})')
+blocks = site_body.split("\n\n")
+check("a post with both: title, subtitle, summary",
+      "**[Both](https://data-landscapers.io/p/b)**\nThe subtitle\nThe summary." in site_body, True)
+check("a subtitle only is two lines",
+      "**[Subtitle only](https://data-landscapers.io/p/s)**\nOnly a subtitle" in blocks, True)
+check("a post with neither keeps its description",
+      "**[Neither](https://data-landscapers.io/p/n)**\nThe first words of the post." in blocks,
+      True)
+check("a description-only post renders as before",
+      "**[Old feed](https://data-landscapers.io/p/o)**\nA description and nothing else."
+      in site_body, True)
+long_line = next(b for b in blocks if "/p/l)" in b).split("\n")[2]
+check("a long summary is cut to 200 characters", len(long_line) <= 200, True)
+check("on a word boundary, with an ellipsis",
+      (long_line.endswith("…"), LONG.startswith(long_line[:-1]),
+       LONG[len(long_line) - 1] == " "), (True, True, True))
+check("a short summary is untouched", js('trimWords("  a  b ", 200)'), "a b")
+
+
 print("\nthe email Buttondown is handed")
 
 email = js(f'buildEmail(({PLAN}).sections, {{monday: "2026-09-21", body: "B", '

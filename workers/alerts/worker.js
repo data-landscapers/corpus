@@ -259,6 +259,34 @@ function mdUrl(u) {
     .replace(/\}/g, "%7D");
 }
 
+/** The longest a post's summary runs in the email, which is a list and not the page. */
+const SUMMARY_CAP = 200;
+
+/** `s` cut to `n` characters on a word boundary, with an ellipsis when anything was cut. */
+function trimWords(s, n) {
+  const t = String(s || "").replace(/\s+/g, " ").trim();
+  if (t.length <= n) { return t; }
+  const cut = t.slice(0, n - 1);
+  const space = cut.lastIndexOf(" ");
+  return `${(space > 0 ? cut.slice(0, space) : cut).replace(/[\s.,;:–—-]+$/, "")}…`;
+}
+
+/**
+ * A main-site post as a digest item, read like a catalogue entry: title, then the subtitle
+ * where a record's hero goes, then the summary. A post with neither keeps `description`, the
+ * fall-through `feed.xml` uses, so nothing loses its line.
+ */
+function siteItem(p) {
+  const subtitle = String(p.subtitle || "").trim();
+  const summary = trimWords(p.summary, SUMMARY_CAP);
+  return {
+    title: p.title,
+    url: p.url,
+    hero: subtitle,
+    line: subtitle || summary ? summary : (p.description || ""),
+  };
+}
+
 /**
  * Which sections this week's email has, and which tags have lost their definition.
  *
@@ -287,9 +315,7 @@ function planDigest(o) {
         tag: SITE_TAG,
         filter: tagIds[SITE_TAG] || "",
         heading: "New on data-landscapers.io",
-        items: posts.slice(0, cap).map((p) => ({
-          title: p.title, url: p.url, line: p.description || "",
-        })),
+        items: posts.slice(0, cap).map(siteItem),
         more: 0,
         moreUrl: "",
       });

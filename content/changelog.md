@@ -1,5 +1,6 @@
 ## 27 September 2026
 
+- In the weekly alert email, new data-landscapers.io posts now show their subtitle and a short summary under the title. A reader can tell what a post is about without opening it.
 - The non-state finance tables gain a published date, and the country column is now called recipient, since a deal can go to a region. Clicking a row shows every field, and projects that have finished now read Completed rather than Closed.
 
 ## 26 September 2026
