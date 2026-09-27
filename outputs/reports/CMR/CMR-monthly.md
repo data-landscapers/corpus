@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-27
 place: CMR
 ledger_rows: 50
 not_held: 4
-record: 36e52d42c878
+record: eb4578fb786c
 ---
 
 # Cameroon: monthly update, August – September 2026
@@ -66,7 +66,7 @@ The regulator's director-general said the [preparatory work for 5G is practicall
 
 The state operator [took delivery of a second shipment of equipment from China for 245 new mobile sites, which would take its declared network from 473 to 718, weighted to rural and district areas](https://www.businessincameroon.com/telecom/1809-16779-camtel-plans-245-new-mobile-sites-to-narrow-network-gap-with-rivals). No cost or completion date is stated.
 
-The lender [reviewed the E-National Higher Education Network with the higher-education ministry on 24 September](https://canalinfo24.com/article/cooperation-universitaire-le-minesup-et-china-exim-bank-evaluent-le-projet-enhen); the ministry listed 500,000 student computers, ten university digital-development centres and campus interconnection among its outputs, with no usage figure or new financing.
+The lender [reviewed the E-National Higher Education Network with the higher-education ministry on 24 September](https://canalinfo24.com/article/cooperation-universitaire-le-minesup-et-china-exim-bank-evaluent-le-projet-enhen). The ministry [listed 500,000 student computers, ten university digital-development centres and campus interconnection among its outputs](https://canalinfo24.com/article/cooperation-universitaire-le-minesup-et-china-exim-bank-evaluent-le-projet-enhen), with no usage figure or new financing.
 <!-- /narrative -->
 ### Data Storage
 

@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-27
 place: SOM
 ledger_rows: 34
 not_held: 2
-record: 058a7f55a961
+record: ed62c8733ebe
 ---
 
 # Somalia: monthly update, August – September 2026
@@ -119,7 +119,7 @@ In the north, the Somaliland administration [launched fixed-asset training for p
 ### Digital divides
 
 <!-- narrative: inclusion--include-divides -->
-The operator-led smartphone financing programme [reported more than 2,500 phones sold since its May launch and extended through 15 more branches in Jubaland, South West, Hirshabelle and Galmudug](https://sokodirectory.com/2026/09/hormuud-and-getphone-expand-smartphone-finance-into-four-new-somali-states-due-to-high-demand/), against its own target of 100,000 by year end. Its early repayment data, on nearly 1,700 August contracts, show little difference between low- and high-scored borrowers; the figures are the partners' own.
+The operator-led smartphone financing programme [reported more than 2,500 phones sold since its May launch and extended through 15 more branches in Jubaland, South West, Hirshabelle and Galmudug](https://sokodirectory.com/2026/09/hormuud-and-getphone-expand-smartphone-finance-into-four-new-somali-states-due-to-high-demand/), against its own target of 100,000 by year end. Its [early repayment data, on nearly 1,700 August contracts, show little difference between low- and high-scored borrowers](https://sokodirectory.com/2026/09/hormuud-and-getphone-expand-smartphone-finance-into-four-new-somali-states-due-to-high-demand/); the figures are the partners' own.
 <!-- /narrative -->
 
 ## Data

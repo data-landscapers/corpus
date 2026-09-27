@@ -1,12 +1,12 @@
 ---
 title: Kenya: status report
-compiled: 2026-09-25
+compiled: 2026-09-27
 place: KEN
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 14
-sources_cited: 262
+sources_cited: 261
 sections_written: 39
 not_established: 0
 acquire_lines: 63
@@ -342,8 +342,6 @@ The right to ask for what is not published is long established. The [Access to I
 ### Use of satellite data
 <!-- data.satellite -->
 
-The nationwide remote sensing and airborne geophysical survey financed by a China Eximbank concessional loan signed in 2017 [had drawn nothing by 30 June 2022](https://www.dropbox.com/s/daurh7q3or3cgpx/e-ProMIS%20Kenya%20056234%20Full.pdf?dl=0), leaving the mapping it was to pay for unstarted five years after signature.
-
 What Earth observation does reach the ground is privately run and donor-financed: [Apollo Agriculture underwrites credit for smallholder farmers from satellite data and machine learning, on a ten-year loan from the US development finance agency](https://www.dfc.gov/sites/default/files/media/documents/9000104719.pdf) (2021). The land record it might otherwise serve remains [only partly mapped and adjudicated](https://geodaesie.info/images/zfv/136-jahrgang-2011/downloads/zfv_2011_3_Siriba_Voss_Mulaku.pdf).
 
 ## Geopolitics
@@ -360,7 +358,7 @@ American development finance sits in private connectivity rather than state syst
 ### China activities
 <!-- geopol.china -->
 
-The Chinese footprint is mostly one of repayment, with one new framework signed on top of it. [Repayment of the Konza data-centre concessional loan from China Eximbank began on 31 March 2026](https://constructionreviewonline.com/2019/05/kenya-secures-funds-for-konza-jkia-james-gichuru-expressway-projects/) and runs to 2038; on 18 August 2026 the same authority [signed a memorandum with Guodong Network Communications Group covering the planning, investment, financing, design, development and maintenance of cloud, artificial intelligence, high-performance computing and smart-city infrastructure at Konza](https://techafricanews.com/2026/08/18/konza-technopolis-partners-guodong-network-to-accelerate-digital-infrastructure-development/), naming no project, value, financing instrument or date and stating the financing models themselves as still to be explored. That 2019 loan, at two per cent over a nineteen-and-a-half-year maturity, [financed a commercial contract with Huawei](https://constructionreviewonline.com/2019/05/kenya-secures-funds-for-konza-jkia-james-gichuru-expressway-projects/) for a national cloud data centre, a smart ICT network, public safe city and smart traffic systems and a government cloud. The national fibre backbone was built the same way, through [China Eximbank concessional loans in 2012 and 2016 whose proceeds paid Huawei](http://e-promis.treasury.go.ke/e-promis-de/frame.jsp?src=deView.faces?sessionid=14980499248632094&MasterID=1&SubModuleID=1&Hierarchy=A1_RT_OP_PROJECT&UserID=13&iLanguageID=1&jsf_sequence=1&projectid=55855&beansKey=14980499248632094_1498054039500) to lay the second phase of NOFBI, and Kenya has been [repaying that in semi-annual instalments since March 2019](http://e-promis.treasury.go.ke/e-promis-de/frame.jsp?src=deView.faces?sessionid=14980499248632094&MasterID=1&SubModuleID=1&Hierarchy=A1_RT_OP_PROJECT&UserID=13&iLanguageID=1&jsf_sequence=1&projectid=55855&beansKey=14980499248632094_1498054039500) with maturities running into the 2030s. Not everything committed was drawn: a 2017 China Eximbank loan for a nationwide remote-sensing and airborne geophysical survey [had disbursed nothing as at 30 June 2022](https://www.dropbox.com/s/daurh7q3or3cgpx/e-ProMIS%20Kenya%20056234%20Full.pdf?dl=0), leaving the mapping unexecuted.
+The Chinese footprint is mostly one of repayment, with one new framework signed on top of it. [Repayment of the Konza data-centre concessional loan from China Eximbank began on 31 March 2026](https://constructionreviewonline.com/2019/05/kenya-secures-funds-for-konza-jkia-james-gichuru-expressway-projects/) and runs to 2038; on 18 August 2026 the same authority [signed a memorandum with Guodong Network Communications Group covering the planning, investment, financing, design, development and maintenance of cloud, artificial intelligence, high-performance computing and smart-city infrastructure at Konza](https://techafricanews.com/2026/08/18/konza-technopolis-partners-guodong-network-to-accelerate-digital-infrastructure-development/), naming no project, value, financing instrument or date and stating the financing models themselves as still to be explored. That 2019 loan, at two per cent over a nineteen-and-a-half-year maturity, [financed a commercial contract with Huawei](https://constructionreviewonline.com/2019/05/kenya-secures-funds-for-konza-jkia-james-gichuru-expressway-projects/) for a national cloud data centre, a smart ICT network, public safe city and smart traffic systems and a government cloud. The national fibre backbone was built the same way, through [China Eximbank concessional loans in 2012 and 2016 whose proceeds paid Huawei](http://e-promis.treasury.go.ke/e-promis-de/frame.jsp?src=deView.faces?sessionid=14980499248632094&MasterID=1&SubModuleID=1&Hierarchy=A1_RT_OP_PROJECT&UserID=13&iLanguageID=1&jsf_sequence=1&projectid=55855&beansKey=14980499248632094_1498054039500) to lay the second phase of NOFBI, and Kenya has been [repaying that in semi-annual instalments since March 2019](http://e-promis.treasury.go.ke/e-promis-de/frame.jsp?src=deView.faces?sessionid=14980499248632094&MasterID=1&SubModuleID=1&Hierarchy=A1_RT_OP_PROJECT&UserID=13&iLanguageID=1&jsf_sequence=1&projectid=55855&beansKey=14980499248632094_1498054039500) with maturities running into the 2030s.
 
 Huawei's commercial presence continues without concessional finance behind it. [Absa Bank Kenya rebuilt its branch network on Huawei SD-WAN (2025)](https://techafricanews.com/2026/07/29/absa-kenya-invests-31-million-in-technology-automates-71-of-operations/) alongside cloud deployments and machine learning, and [Safaricom launched Kenya's first fibre-to-the-room service with Huawei in May 2026](https://www.telecomreviewafrica.com/articles/reports-and-coverage/28682-safaricom-launches-kenyas-first-fiber-to-the-room-service-with-huawei/), putting optical access points in individual rooms with AI-based network management.
 

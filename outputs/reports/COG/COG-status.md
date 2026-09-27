@@ -1,12 +1,12 @@
 ---
 title: Congo: status report
-compiled: 2026-09-25
+compiled: 2026-09-27
 place: COG
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 4
-sources_cited: 132
+sources_cited: 134
 sections_written: 39
 not_established: 2
 acquire_lines: 35
@@ -74,7 +74,7 @@ Where digital policy direction comes from is stated openly rather than consulted
 ### Financial sustainability
 <!-- finance.sustain -->
 
-Congo's national data centre, co-financed by the African Development Bank, [stood idle at 95% complete in October 2025 because the government had not released its final counterpart share, and the Chinese contractor Sumec threatened to withdraw](https://www.sikafinance.com/marches/congo-lachevement-du-data-center-national-bloque-par-un-defaut-de-financement-gouvernemental_57001); [works had already slowed for want of government funding in February 2025](https://www.aci.cg/congo-bad-le-dr-kone-salue-les-progres-du-data-center-realises-a-75/).
+Congo's national data centre, co-financed by the African Development Bank, [stood idle at 95% complete in October 2025 because the government had not released its final counterpart share, and the Chinese contractor Sumec threatened to withdraw](https://www.sikafinance.com/marches/congo-lachevement-du-data-center-national-bloque-par-un-defaut-de-financement-gouvernemental_57001); [works had already slowed for want of government funding in February 2025](https://www.aci.cg/congo-bad-le-dr-kone-salue-les-progres-du-data-center-realises-a-75/). [They were running again in September 2026, put at 82% at a ministerial inspection](https://www.aci.cg/congo-infrastructures-le-data-center-operationnelle-dici-fin-2026/), with no statement that the counterpart share was paid.
 
 The 2026 finance law appropriates [XAF 30.14bn to the posts, telecommunications and digital economy programme, and XAF 28.73bn of the ministry's XAF 31.21bn vote is investment](https://sgg.cg/JO/2026/congo-jo-2026-3-3.pdf), against [XAF 23.09bn for the programme in 2025](https://sgg.cg/JO/2024/congo-jo-2024-15-sp.pdf). The 2026 estimates print no financing source against their digital lines (FY2026). The same ministry runs the PATN, whose [World Bank loan runs to 2027](https://projects.worldbank.org/en/projects-operations/project-detail/P175592), and the European programme [runs to 2028](https://www.eib.org/en/projects/all/20200039). By 31 December 2025 the programme had [executed 13.5% of its revised 2025 credits, a rate that excludes personnel](https://www.finances.gouv.cg/fr/download/file/fid/10242).
 
@@ -117,7 +117,7 @@ Costs stay high structurally: [backhaul spectrum fees take about 5% of operator 
 
 Government runs [one shared cloud platform in use across government entities, built as a hybrid of public and private cloud and delivering a full range of as-a-service offerings](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025), and has no policy governing where that data may be hosted, publishing nothing on the platform's usage, security posture or the savings it delivers.
 
-The physical estate is small and recent. [ARPCE commissioned a government data centre at Pointe-Noire in February 2024, the state's second after one built in Brazzaville in 2021](https://www.datacenterdynamics.com/en/news/republic-of-congo-launches-data-center-in-pointe-noire-for-2africa-cable/), and the [African Development Bank-funded national data centre was still awaiting its equipment in February 2026, with inauguration promised by May 2026](https://www.digitalbusiness.africa/congo-le-datacenter-national-operationnel-dici-mai-2026-selon-le-president-de-la-bad/). Commercial capacity runs to [small operator facilities such as MTN Congo's colocation centre in Brazzaville](https://www.mtn.cg/business/ict/data-center-infrastructure-service-colocation/). The government's digital roadmap [commits to sovereign data centres](https://www.adiac-congo.com/content/le-numerique-au-service-dun-congo-plus-performant-plus-souverain-et-plus-proche-de-ses) (July 2026).
+The physical estate is small and recent. [ARPCE commissioned a government data centre at Pointe-Noire in February 2024, the state's second after one built in Brazzaville in 2021](https://www.datacenterdynamics.com/en/news/republic-of-congo-launches-data-center-in-pointe-noire-for-2africa-cable/), and the [African Development Bank-funded national data centre was still awaiting its equipment in February 2026, with inauguration promised by May 2026](https://www.digitalbusiness.africa/congo-le-datacenter-national-operationnel-dici-mai-2026-selon-le-president-de-la-bad/); that date passed, and [in September 2026 the vice-prime minister put works at 82% and operation at the end of 2026 or early 2027](https://www.vox.cg/le-vice-premier-ministre-inspecte-letat-davancement-de-la-ferme-solaire-et-du-data-center/). Commercial capacity runs to [small operator facilities such as MTN Congo's colocation centre in Brazzaville](https://www.mtn.cg/business/ict/data-center-infrastructure-service-colocation/). The government's digital roadmap [commits to sovereign data centres](https://www.adiac-congo.com/content/le-numerique-au-service-dun-congo-plus-performant-plus-souverain-et-plus-proche-de-ses) (July 2026).
 
 Whatever is not hosted in country sits a long way from it: [no hyperscale cloud provider operates a region in the Republic of the Congo or anywhere in Central Africa, the nearest being South Africa, so cloud services are served remotely at latencies above 100ms](https://learn.microsoft.com/en-us/azure/reliability/regions-list) (2026). Identity cards are [produced only at centres in Brazzaville and Pointe-Noire and issued through the national police where the applicant lives](https://interieur.gouv.cg/carte-nationale-didentite/).
 
