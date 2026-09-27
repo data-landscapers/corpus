@@ -1,12 +1,12 @@
 ---
 title: South Sudan — progress report, September 2025 – September 2026
-compiled: 2026-09-25
-period: 2025-09-01 to 2026-09-25
+compiled: 2026-09-27
+period: 2025-09-01 to 2026-09-27
 place: SSD
-ledger_rows: 155
+ledger_rows: 154
 not_held: 12
 indicators: 123
-record: d0c4e52f57f3
+record: ac491bebffd0
 ---
 
 # South Sudan: progress report, September 2025 – September 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the repository holds nothing on that indicator. **That is a statement about this repository, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-09-01 to 2026-09-25.*
+*The period is 2025-09-01 to 2026-09-27.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the repository holds a standing position and nothing in the period touched it. ***No evidence*** — the repository holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Movement, regulations still pending*.
 
@@ -61,7 +61,7 @@ Where a row reads ***No evidence***, the repository holds nothing on that indica
 |---|---|---|---|
 | Domestic budget appropriations and expenditure | Sustainable domestic financing of digital transformation | The [draft 2025/26 estimates](https://mofp.gov.ss/wp-content/uploads/2026/01/Budget-Books_Draft-5_Inner.pdf) keep a vote for the universal service fund and add ICT directorates in the finance ministry and the Ministry of Information. <details><summary>Full record</summary>The [approved 2024/25 estimates](https://mofp.gov.ss/wp-content/uploads/2025/02/Budget-Book__2024-2025.pdf) carried a whole-body vote for the Universal Service Access Fund, a regulation programme for the communications authority, and ICT directorates in the telecom ministry, the cabinet ministry and the financial intelligence unit.<br>2025-11-14 - the Council of Ministers [approved an SSP 7 trillion budget for FY2025/26](https://www.eyeradio.org/govt-bans-unauthorized-loan-deals-as-cabinet-approves-7-trillion-ssp-budget/), and its [draft estimates, tabled with the Appropriation Bill on 3 February 2026, add ICT directorates in the finance ministry and the Ministry of Information and a telecommunications directorate in the telecom ministry](https://mofp.gov.ss/wp-content/uploads/2026/01/Budget-Books_Draft-5_Inner.pdf).<br>The fund is constituted under the National Communication Act 2012 and funded by appropriations, licensee levies and other domestic revenue ([Act](https://mofaic.gov.ss/wp-content/uploads/2023/03/National-Communication-Act-24-of-2012.pdf)); the [finance ministry's 2024/25 execution report lists it among the spending agencies](https://mofp.gov.ss/wp-content/uploads/2026/03/2024_25_Execution-Report_v3.pdf), on figures it states are unaudited.<br>The enacted Appropriation Act 2025/26 is not posted, so the 2025/26 lines stand at proposed stage.</details> | Movement |
 | Financial sustainability | Financial sustainability of digital systems |  | ***No evidence*** |
-| MoUs and other agreements | Strategic relationships | An [air traffic management system loan](https://www.focac.org/eng/zfgx_4/zzjw/t1530557.htm) of US$271,154,617 is the largest single tracked commitment on this ledger, at year precision. <details><summary>Full record</summary>The commitment is dated to the year only ([loan](https://www.focac.org/eng/zfgx_4/zzjw/t1530557.htm)).<br>It dwarfs every digital instrument recorded here, and nothing on file records disbursement, delivery or an operating system against it.</details> | No change |
+| MoUs and other agreements | Strategic relationships |  | ***No evidence*** |
 | New investments | Mobilisation of non-state finance | A [US$20.61 million political risk guarantee](https://www.miga.org/project/crei-south-sudan) was disclosed to crowd private money into the platform powering 499 mobile network sites. <details><summary>Full record</summary>A development financier disclosed a US$10 million cumulative mezzanine and loan commitment to the energy-as-a-service company powering those sites ([investment](https://www.finnfund.fi/en/hankkeet/communication-and-renewable-energy-infrastructure-crei-2/)), and a guarantee agency disclosed a proposed US$20.61 million political risk guarantee to crowd private equity and shareholder-loan investment into the same platform, still at proposed status ([guarantee](https://www.miga.org/project/crei-south-sudan)).<br>A mobile operator's infrastructure subsidiary separately secured a fifteen-year licence effective 16 October 2025 to build national and cross-border fibre under a pan-African platform publicly described as a US$320 million programme ([licence](https://bayobab.africa/mtn-digital-infrastructure-secures-south-sudan-fibre-license-advancing-project-east-2-west/)).<br>Every instrument on record de-risks one operator's network. None finances a public digital system.</details> | Movement |
 | New investments | Development-partner project financing | A [regional digital integration project](https://documents1.worldbank.org/curated/en/099063026190082191/txt/P176181-84d9770b-853c-4bb8-8e5a-996eac681382.txt) issued its seventh implementation report after a mid-term review, and [private-sector investment mobilised](https://documents1.worldbank.org/curated/en/099063026190082191/txt/P176181-84d9770b-853c-4bb8-8e5a-996eac681382.txt) under it has not moved. <details><summary>Full record</summary>The project was approved in May 2023 and finances the spectrum and 5G strategy work as well as the fibre programme; its report is also the source for four separate absences recorded in this unit — cloud guidelines, an e-commerce strategy, an incident response team, and a cross-border memorandum ([project](https://documents1.worldbank.org/curated/en/099063026190082191/txt/P176181-84d9770b-853c-4bb8-8e5a-996eac681382.txt)).<br>Private-sector investment mobilised under it has not moved ([investment](https://documents1.worldbank.org/curated/en/099063026190082191/txt/P176181-84d9770b-853c-4bb8-8e5a-996eac681382.txt)).<br>One lender's implementation report is doing most of the work of a national statistical record here, which is a limit on this reading as much as a finding about the country.</details> | Mixed, a regional project financing the backbone, the spectrum strategy and the payroll register while private investment mobilised has not moved |
 
