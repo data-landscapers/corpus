@@ -1,12 +1,12 @@
 ---
 title: Gambia: status report
-compiled: 2026-09-25
+compiled: 2026-09-27
 place: GMB
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 23
-sources_cited: 207
+sources_cited: 210
 sections_written: 39
 not_established: 0
 acquire_lines: 39
@@ -118,7 +118,7 @@ Gambians' own verdict on their infrastructure has collapsed: [public perception 
 
 [The Broadband Strategy 2020-2024 set targets of 5 Mbps for every subscriber, broadband coverage above 90% and 4G coverage above 85% by 2024, behind an action plan costed at D65,000,000](https://mocde.gov.gm/wp-content/uploads/2023/10/BROADBAND-STRATEGY-2024.pdf). The money since has come from outside: [the World Bank approved an IDA grant of SDR 38.1 million, US$50.0 million equivalent, in November 2023](https://documents1.worldbank.org/curated/en/099110923155592015/pdf/BOSIB00f52bbfa0b60b39402a346c5434ee.pdf) under [a regional digital integration programme running to 2028 with the Ministry of Communications and Digital Economy implementing](https://projects.worldbank.org/en/projects-operations/project-detail/P176932), and [GAMTEL signed a US$50 million partnership with SYSROAD SA HOLDING on 24 December 2025 to modernise the national broadband network](https://gamtel.gm/gamtel-and-syroad-project/).
 
-[Starlink paid its licence fee in December 2024 and was still without a licence more than a year later](https://standard.gm/starlink-and-the-gambia-transparency-trust-and-the-cost-of-delay/), the [minister declining to sign a VSAT licence for a company that is not a VSAT operator](https://standard.gm/govt-taking-due-diligence-despite-us-pressure-for-starlinks-license/). Domestic traffic exchange has not moved either: [the Serekunda Internet Exchange Point, founded in July 2013 by fourteen members including Africell, Gamtel, QCell and PURA and addressed care of Gamtel's Serekunda exchange](http://www.sixp.gm/about.html), publishes no current capacity or participant figure.
+[Starlink paid its licence fee in December 2024 and was still without a licence more than a year later](https://standard.gm/starlink-and-the-gambia-transparency-trust-and-the-cost-of-delay/), the [minister declining to sign a VSAT licence for a company that is not a VSAT operator](https://standard.gm/govt-taking-due-diligence-despite-us-pressure-for-starlinks-license/). International capacity through the incumbent [stood at 25 Gbps over four ACE gateways, with a 28 Gbps backup link through a Senegalese operator](https://gamtel.gm/about-us/) (September 2026), and [a second submarine cable was still at bid evaluation in July 2026](https://www.ecowas.int/ecowas-commission-hosts-evaluation-committee-meeting-for-west-african-submarine-cable-capacity-under-wardip/). Domestic traffic exchange has not moved either: [the Serekunda Internet Exchange Point, founded in July 2013 by fourteen members including Africell, Gamtel, QCell and PURA and addressed care of Gamtel's Serekunda exchange](http://www.sixp.gm/about.html), publishes no current capacity or participant figure.
 
 ### Data Storage
 <!-- infra.store -->
@@ -227,7 +227,7 @@ Policing still runs on paper. [The Inspector General of Police confirmed publicl
 
 Gambians can pay the state digitally sooner than they can transact with it. [Yonna Wallet became the first Gambian fintech authorised to collect payments for all government services through the Accountant General's Department, with auto-generated traceable receipts and a channel for diaspora payments](https://standard.gm/govt-payments-now-digitalised-live-on-yonna-wallet-app) (March 2026), and [work is under way on a GovPay platform to bring public-sector payments across ministries onto one monitored channel](https://op.gov.gm/good-governance-impacting-economic-growth). The government's own account of why [2025 non-tax revenue reached only 66% of target, at D4.05 billion, named the absence of digital payment systems among the reasons](https://op.gov.gm/good-governance-impacting-economic-growth).
 
-Delivery of the services themselves is thinner. [The Gambia scored 0.2552 on the UN E-Government Development Index in 2024, ranking 181st](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/63-Gambia), and [Gambians rate obtaining an identity document at 38.4 out of 100 in 2023, 21st of 54 African states and up only 7.8 points over the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-gm.pdf).
+Delivery of the services themselves is thinner. [The Gambia scored 0.2552 on the UN E-Government Development Index in 2024, ranking 181st](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/63-Gambia), and [Gambians rate obtaining an identity document at 38.4 out of 100 in 2023, 21st of 54 African states and up only 7.8 points over the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-gm.pdf). A [MyGov platform carrying identity-card, passport and immigration workflows is built but not launched, held up by unresolved contracts over passport issuance, with rollout targeted before the end of 2026](https://thepoint.gm/africa/gambia/headlines/govt-steps-up-to-tackle-id-card-passport-delays) (September 2026).
 
 Where services have been digitised they are single-agency. [Business registration runs online through the Single Window Registry](https://easybusiness.gov.gm/); [customs runs a full digital stack](https://www.gra.gm/news/26fd4242-17b6-11f1-b086-029254d29bb1) while [domestic tax administration remained largely manual as at June 2026](https://www.voicegambia.com/2026/06/17/gra-says-new-itas-will-transform-tax-administration-in-the-gambia/); [UNDP sought consultants in March 2025 for a feasibility study and implementation of a digital case management system for the justice ministry](https://moj.gov.gm/consultancy-for-feasibility-study-and-implementation-of-a-digital-case-management-system/); and [no land information system is in operation, an assessment having been conducted to evaluate structures for one](https://op.gov.gm/sites/default/files/2026-03/Final%20SONA%202026.pdf) (March 2026), and [in September 2026 the lands minister told the National Assembly that contracts for World Bank-supported land digitalisation had been awarded](https://thepoint.gm/africa/gambia/headlines/govt-promises-3-day-land-lease-under-new-digital-system). [Marriage registration runs through its own registry at the Ministry of Justice](https://www.moj.gm/marriage-registry).
 
