@@ -326,12 +326,6 @@ NS_HEADER = ["recipient", "start_year", "end_year", "published_date", "financier
              "project_id", "iati_activity_id", "url", "financier_slug", "record"]
 
 
-# The records say `Closed`; the table says `Completed` (Bill, 2026-09-27), which is what a
-# reader means by a project that has run its course. Asked of OSINT as notes-for-osint 180;
-# once its records carry `Completed` this map is a no-op and can go.
-STATUS_SHOWN = {"Closed": "Completed"}
-
-
 def published_date(r):
     """When the source was published, or, where OSINT holds only the year or month, when
     OSINT found it (Bill, 2026-09-27). A year-precision record's `published` is stamped
@@ -382,7 +376,7 @@ def _ns_row(r, country, lab):
     return [country, deal_year(r), T.get("End year", ""), published_date(r),
             fin_name(fm_get(fm, "financier_slug")), lab.get(sec, sec),
             T.get("Instrument", ""), usd_m_cell(usd), basis,
-            amount_quality(r), STATUS_SHOWN.get(status, status),
+            amount_quality(r), status,
             dewiki(r["title"]), dewiki(section(r["body"], "Description")),
             T.get("Beneficiary type", ""), recip_org(T), T.get("Original amount", ""),
             T.get("Project ID", ""), T.get("IATI activity ID", ""),
