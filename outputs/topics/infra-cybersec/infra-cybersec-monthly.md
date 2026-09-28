@@ -1,10 +1,10 @@
 ---
 title: Cybersecurity — monthly update, August – September 2026
-compiled: 2026-09-27
-period: 2026-08-01 to 2026-09-27
+compiled: 2026-09-28
+period: 2026-08-01 to 2026-09-28
 subject: infra.cybersec
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; TCD; COM; COG; CIV; SWZ; GAB; GHA; KEN; LSO; LBR; LBY; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: fa00a98ebcd4
+record: 34411d473eca
 ---
 
 # Cybersecurity: monthly update, August – September 2026

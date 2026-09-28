@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — monthly update, August – September 2026
-compiled: 2026-09-27
-period: 2026-08-01 to 2026-09-27
+compiled: 2026-09-28
+period: 2026-08-01 to 2026-09-28
 subject: gov.legislate
 places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; TCD; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 3d4b331bffa8
+record: 310472f68bb4
 ---
 
 # Legislation and regulation: monthly update, August – September 2026

@@ -1,10 +1,10 @@
 ---
 title: Connectivity — monthly update, August – September 2026
-compiled: 2026-09-27
-period: 2026-08-01 to 2026-09-27
+compiled: 2026-09-28
+period: 2026-08-01 to 2026-09-28
 subject: infra.connect
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 933aa0637e67
+record: e407ced6cc80
 ---
 
 # Connectivity: monthly update, August – September 2026
@@ -125,7 +125,7 @@ GSMA Intelligence's country-by-country survey [puts Egyptian 5G take-up at 3 per
 
 ## Equatorial Guinea
 
-Satellite service reached the country. [The operator's own principal confirmed on 29 August that the service is available in Equatorial Guinea](https://realequatorialguinea.com/destacado/mundo/elon-musk-confirma-que-el-internet-satelital-de-starlink-ya-esta-disponible-en-guinea-ecuatorial/), after an authorisation earlier in the year that reached only North American companies operating on the high seas within jurisdictional waters. No licence text, tariff, subscriber route or regulator statement accompanies the confirmation, so the repository holds a claim of availability and not the terms it is available on.
+Satellite service reached the country. [The operator's own principal confirmed on 29 August that the service is available in Equatorial Guinea](https://realequatorialguinea.com/destacado/mundo/elon-musk-confirma-que-el-internet-satelital-de-starlink-ya-esta-disponible-en-guinea-ecuatorial/), after an authorisation earlier in the year that reached only North American companies operating on the high seas within jurisdictional waters. The terms followed on 9 September, when the government [launched the service officially and reserved its sale to the state, with a dedicated revenue account and privately signed contracts cancelled](https://ahoraeg.com/politica/2026/09/09/el-gobierno-exige-a-meta-tributar-en-guinea-ecuatorial-y-ordena-centralizar-la-comercializacion-de-starlink-en-ortel/). No licence text, tariff or subscriber figure is published.
 
 Access then narrowed for everyone else. Since 2 September [bandwidth has been throttled and Facebook and TikTok unreachable without a VPN](https://www.seneweb.com/fr/news/Afrique/guinee-equatoriale-coupure-de-facebook-et-tiktok_n_504430.html), after a viral video accusing the vice-president of corruption whose author was arrested; no order has been published and the information ministry did not answer questions.
 

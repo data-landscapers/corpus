@@ -1,10 +1,10 @@
 ---
 title: MoUs and other agreements — progress report, September 2025 – September 2026
-compiled: 2026-09-27
-period: 2025-09-01 to 2026-09-27
+compiled: 2026-09-28
+period: 2025-09-01 to 2026-09-28
 subject: finance.mou
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 122cacbf171e
+record: d4f6b6411ba5
 ---
 
 # MoUs and other agreements: progress report, September 2025 – September 2026

@@ -1,10 +1,10 @@
 ---
 title: Access to services — monthly update, August – September 2026
-compiled: 2026-09-27
-period: 2026-08-01 to 2026-09-27
+compiled: 2026-09-28
+period: 2026-08-01 to 2026-09-28
 subject: include.access
 places: DZA; AGO; BEN; BWA; BDI; CMR; CAF; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NAM; NER; NGA; STP; SEN; SYC; SLE; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 33b2b7a21c8d
+record: e0e7a798f3fb
 ---
 
 # Access to services: monthly update, August – September 2026

@@ -1,10 +1,10 @@
 ---
 title: Regional collaboration — monthly update, August – September 2026
-compiled: 2026-09-27
-period: 2026-08-01 to 2026-09-27
+compiled: 2026-09-28
+period: 2026-08-01 to 2026-09-28
 subject: gov.regional
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COG; CIV; DJI; COD; EGY; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZWE
-record: 32c54af2861b
+record: fb220dd66532
 ---
 
 # Regional collaboration: monthly update, August – September 2026

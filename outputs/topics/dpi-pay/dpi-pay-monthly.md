@@ -1,15 +1,15 @@
 ---
 title: Digital Payments and Fintech — monthly update, August – September 2026
-compiled: 2026-09-27
-period: 2026-08-01 to 2026-09-27
+compiled: 2026-09-28
+period: 2026-08-01 to 2026-09-28
 subject: dpi.pay
-places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: f9ef87d26562
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: f2476fd9f8ed
 ---
 
 # Digital Payments and Fintech: monthly update, August – September 2026
 
-*46 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*47 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -104,6 +104,10 @@ The financial regulator's factoring platform [checks in real time whether an inv
 The largest private bank's digital-bank venture, holding preliminary approval, [put its planned investment at up to US$300m ahead of a pilot for individual and diaspora customers](https://menastartupdigest.com/cib-backed-yomo-digital-bank-plans-egypt-launch-with-300m-investment/). The central bank [is laying groundwork for a digital pound, wholesale before any retail use](https://enterpriseam.com/egypt/2026/09/15/the-digital-egp-wont-look-different-at-checkout-but-it-will-work-nothing-like-instapay/), with no pilot, design paper or date published.
 
 [Six Egyptian banks have applied to the central bank for final approval to connect InstaPay to the continental payment system](https://enterpriseam.com/egypt/2026/09/23/instapay-to-connect-with-pan-african-payment-system-as-six-egyptian-banks-apply-for-integration/), the system's chief executive said in September. InstaPay does not yet carry cross-border transactions, and neither the banks nor a launch date were named. Afreximbank is also [connecting the continental card scheme to the national Meeza network](https://waya.media/egypts-meeza-cards-set-for-wider-african-use-through-papss-integration/) (20 September), at an early stage with no availability date.
+
+## Equatorial Guinea
+
+The one payments instrument in the window is a standing one, surfaced by a sales pitch: a [Presidency order of 2025 prohibits cash collection of any tax, fee or contribution in the administration, requiring official bank accounts or authorised electronic platforms](https://www.guineaecuatorialpress.com/noticias/reunion_en_el_ministerio_de_transportes_sobre_la_propuesta_para_digitalizar_el_pago_de_impuestos_en_la_administracion_publica), cited when a domestic e-wallet provider presented itself to the transport ministry as a collection channel. The order's text, and whether collection has moved off cash, are not in the record held.
 
 ## Eswatini
 
