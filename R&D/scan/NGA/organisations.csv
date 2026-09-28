@@ -1,0 +1,52 @@
+iso3,type,institution,domains,names,routable,us_hyperscaler_share,african_region_share,us_saas_share,cdn_share,national_or_self_share,unattributed,mail_provider,mail_security,tangled_hybrid,scan_date
+NGA,Presidency,State House,statehouse.gov.ng,23,16,0.0,0.0,0.0,0.0,93.8,0,other:Galaxy Backbone,,false,2026-09-28
+NGA,Parliament,National Assembly,nass.gov.ng,57,58,46.6,0.0,0.0,0.0,46.6,0,other:National Assembly Abuja,,true,2026-09-28
+NGA,Foreign Affairs,Ministry of Foreign Affairs,foreignaffairs.gov.ng,25,23,0.0,0.0,0.0,8.7,78.3,0,other:Galaxy Backbone,,false,2026-09-28
+NGA,Defence,Ministry of Defence,defence.gov.ng,12,15,0.0,0.0,0.0,0.0,93.3,0,other:Galaxy Backbone,,false,2026-09-28
+NGA,Defence,Nigerian Army,army.mil.ng,42,53,0.0,0.0,0.0,3.8,3.8,1,other:Galaxy Backbone|Globacom|Winrock Nigeria,,false,2026-09-28
+NGA,Police,Nigeria Police Force,npf.gov.ng,69,60,41.7,0.0,0.0,0.0,31.7,0,other:Galaxy Backbone|mail.npf.gov.ng,,true,2026-09-28
+NGA,Justice,Federal Ministry of Justice,justice.gov.ng,43,27,0.0,0.0,0.0,0.0,92.6,0,other:Galaxy Backbone,,false,2026-09-28
+NGA,Justice,National Judicial Council,njc.gov.ng,238,183,15.3,13.1,2.7,0.0,0.0,0,google,,false,2026-09-28
+NGA,Treasury / Finance,Federal Ministry of Finance,finance.gov.ng,26,32,0.0,0.0,40.6,0.0,50.0,0,m365,,false,2026-09-28
+NGA,Treasury / Finance,Office of the Accountant-General of the Federation,oagf.gov.ng,14,18,0.0,0.0,0.0,0.0,88.9,0,other:Galaxy Backbone,,false,2026-09-28
+NGA,Revenue Service,Federal Inland Revenue Service,firs.gov.ng,150,68,13.2,0.0,2.9,7.4,5.9,0,m365,cisco-ironport,true,2026-09-28
+NGA,Revenue Service,Nigeria Revenue Service,nrs.gov.ng,112,73,24.7,1.4,12.3,11.0,0.0,0,m365,cisco-ironport,false,2026-09-28
+NGA,Customs,Nigeria Customs Service,customs.gov.ng,86,235,1.3,0.0,0.0,87.7,0.0,0,other:Trade Modernisation Project,,false,2026-09-28
+NGA,Intelligence,Department of State Services,dss.gov.ng,16,13,0.0,0.0,0.0,23.1,23.1,0,other:Backbone Connectivity Network,,false,2026-09-28
+NGA,Interior / Home Affairs,Federal Ministry of Interior,interior.gov.ng,20,26,19.2,0.0,15.4,0.0,53.8,0,other:Galaxy Backbone,,true,2026-09-28
+NGA,Central Bank,Central Bank of Nigeria,cbn.gov.ng,100,142,28.2,0.7,0.7,55.6,14.8,0,m365,,true,2026-09-28
+NGA,Commercial Banks,Zenith Bank,zenithbank.com,394,150,38.7,0.0,0.7,14.7,40.7,0,m365,,true,2026-09-28
+NGA,Commercial Banks,Access Bank,accessbankplc.com,1757,422,16.8,0.0,4.0,71.6,1.9,0,m365,,true,2026-09-28
+NGA,Commercial Banks,First Bank of Nigeria,firstbanknigeria.com,525,142,26.1,0.0,0.0,34.5,35.9,0,other:aws,trend-micro,true,2026-09-28
+NGA,Commercial Banks,United Bank for Africa,ubagroup.com,371,115,34.8,0.0,0.0,32.2,26.1,0,m365,mimecast,true,2026-09-28
+NGA,Commercial Banks,Guaranty Trust Bank,gtbank.com,378,166,30.7,0.0,1.8,17.5,30.7,0,m365,broadcom-messagelabs,true,2026-09-28
+NGA,Commercial Banks,Fidelity Bank,fidelitybank.ng,275,952,0.7,0.0,1.8,97.2,0.2,0,m365,,true,2026-09-28
+NGA,Commercial Banks,First City Monument Bank,fcmb.com,195,138,41.3,0.7,12.3,28.3,12.3,0,m365,,true,2026-09-28
+NGA,Commercial Banks,Stanbic IBTC,stanbicibtcbank.com,49,87,27.6,0.0,0.0,65.5,6.9,0,none,,true,2026-09-28
+NGA,Commercial Banks,Union Bank,unionbankng.com,149,129,27.1,0.0,7.0,19.4,44.2,1,m365,,true,2026-09-28
+NGA,Commercial Banks,Sterling Bank,sterling.ng,218,221,14.9,0.0,5.4,77.8,0.0,0,other:Zoho,,false,2026-09-28
+NGA,Civil registry / National ID authority,National Identity Management Commission,nimc.gov.ng,99,219,84.5,0.0,0.0,1.4,11.0,0,self,,true,2026-09-28
+NGA,Immigration / Passports,Nigeria Immigration Service,immigration.gov.ng,47,51,37.3,0.0,5.9,0.0,27.5,0,google,,true,2026-09-28
+NGA,Data protection authority,Nigeria Data Protection Commission,ndpc.gov.ng,17,42,95.2,76.2,2.4,0.0,0.0,0,m365,,false,2026-09-28
+NGA,Electoral commission,Independent National Electoral Commission (INEC),inecnigeria.org,79,60,80.0,0.0,8.3,6.7,0.0,1,other:mail.inecnigeria.org,,false,2026-09-28
+NGA,Statistics office,National Bureau of Statistics,nigerianstat.gov.ng,11,24,37.5,0.0,45.8,0.0,16.7,0,m365,,true,2026-09-28
+NGA,Health ministry,Federal Ministry of Health,health.gov.ng,73,58,6.9,1.7,0.0,0.0,87.9,1,other:Galaxy Backbone,,true,2026-09-28
+NGA,Health ministry,National Health Insurance Authority,nhia.gov.ng,14,16,43.8,18.8,0.0,0.0,0.0,0,other:Contabo,,false,2026-09-28
+NGA,Social protection,National Social Safety-Nets Coordinating Office,nassp.gov.ng,30,41,0.0,0.0,41.5,0.0,0.0,0,m365,,false,2026-09-28
+NGA,National payment switch,Nigeria Inter-Bank Settlement System (NIBSS),nibss-plc.com.ng,37,97,26.8,0.0,9.3,42.3,15.5,0,m365,,true,2026-09-28
+NGA,National payment switch,Interswitch,interswitchgroup.com,55,209,12.9,0.5,6.2,74.6,0.0,0,m365,trend-micro,false,2026-09-28
+NGA,Stock exchange,Nigerian Exchange Group,ngxgroup.com,61,407,92.6,0.0,4.2,1.7,1.0,0,m365,,true,2026-09-28
+NGA,Securities regulator,Securities and Exchange Commission,sec.gov.ng,49,35,14.3,0.0,0.0,8.6,0.0,0,other:MTN Nigeria|MainOne,,false,2026-09-28
+NGA,Sovereign wealth / pension fund,Nigeria Sovereign Investment Authority,nsia.com.ng,41,109,22.9,0.0,26.6,45.9,0.0,0,m365,,false,2026-09-28
+NGA,Sovereign wealth / pension fund,National Pension Commission,pencom.gov.ng,14,26,46.2,0.0,3.8,0.0,3.8,0,m365,,true,2026-09-28
+NGA,Public procurement authority,Bureau of Public Procurement,bpp.gov.ng,16,12,25.0,0.0,8.3,0.0,25.0,0,m365,,true,2026-09-28
+NGA,Energy utility,Transmission Company of Nigeria,tcn.org.ng,21,24,25.0,0.0,0.0,4.2,8.3,0,other:azure,,true,2026-09-28
+NGA,Ports authority,Nigerian Ports Authority,nigerianports.gov.ng,108,59,15.3,0.0,1.7,44.1,39.0,0,m365,,true,2026-09-28
+NGA,State-owned telco,NIGCOMSAT,nigcomsat.gov.ng,25,46,0.0,0.0,0.0,52.2,47.8,0,other:Galaxy Backbone,,false,2026-09-28
+NGA,E-government agency,National Information Technology Development Agency (NITDA),nitda.gov.ng,201,197,10.2,0.0,6.6,0.0,36.0,13,m365,,true,2026-09-28
+NGA,National data centre / Government cloud,Galaxy Backbone,galaxybackbone.com.ng,124,76,0.0,0.0,0.0,0.0,100.0,0,self,,false,2026-09-28
+NGA,Cybersecurity agency / CERT,ngCERT,cert.gov.ng,14,43,0.0,0.0,0.0,88.4,7.0,0,other:Backbone Connectivity Network,,false,2026-09-28
+NGA,Communications regulator,Nigerian Communications Commission,ncc.gov.ng,61,160,1.9,0.0,10.6,68.8,0.6,0,m365,,true,2026-09-28
+NGA,Audit office,Office of the Auditor-General for the Federation,oaugf.gov.ng,9,11,0.0,0.0,0.0,0.0,100.0,0,other:Galaxy Backbone,,false,2026-09-28
+NGA,Anti-corruption,Economic and Financial Crimes Commission,efcc.gov.ng,52,128,0.0,0.0,0.0,95.3,0.0,0,other:Layer3,,false,2026-09-28
+NGA,Anti-corruption,Independent Corrupt Practices Commission,icpc.gov.ng,63,33,0.0,0.0,0.0,24.2,30.3,0,other:Cyberspace (IDDQD),,false,2026-09-28

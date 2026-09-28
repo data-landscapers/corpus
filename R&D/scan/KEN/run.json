@@ -1,0 +1,562 @@
+{
+ "iso3": "KEN",
+ "scan_date": "2026-09-28",
+ "range_files": {
+  "aws.json": "2026-09-28",
+  "google-cloud.json": "2026-09-28",
+  "google.json": "2026-09-28",
+  "cloudflare-v4.txt": "2026-09-28",
+  "cloudflare-v6.txt": "2026-09-28",
+  "oracle.json": "2026-09-28",
+  "azure.json": "2026-09-28"
+ },
+ "range_file_errors": {},
+ "domains": {
+  "president.go.ke": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 9,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "parliament.go.ke": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 24,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mfa.go.ke": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 10,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mod.go.ke": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 53,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nationalpolice.go.ke": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 9,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "judiciary.go.ke": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 31,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "statelaw.go.ke": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 7,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "treasury.go.ke": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 24,
+   "dictionary_hits": 11,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "kra.go.ke": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 77,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nis.go.ke": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "interior.go.ke": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 6,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "centralbank.go.ke": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 67,
+   "dictionary_hits": 11,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "kcbgroup.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 211,
+   "dictionary_hits": 9,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "equitybank.co.ke": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 24,
+   "dictionary_hits": 9,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "co-opbank.co.ke": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 20,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ncbagroup.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 145,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "absabank.co.ke": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 82,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "stanbicbank.co.ke": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 169,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "imbankgroup.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 7,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "dtbafrica.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 70,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "familybank.co.ke": {
+   "wildcard": true,
+   "ct_status": "ok",
+   "ct_names": 38,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "primebank.co.ke": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 18,
+   "dictionary_hits": 8,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "immigration.go.ke": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 10,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "odpc.go.ke": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 14,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "iebc.or.ke": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 38,
+   "dictionary_hits": 10,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "knbs.or.ke": {
+   "wildcard": true,
+   "ct_status": "ok",
+   "ct_names": 55,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "health.go.ke": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 196,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "sha.go.ke": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 172,
+   "dictionary_hits": 9,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nssf.or.ke": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 30,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "socialprotection.go.ke": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 11,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "lands.go.ke": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 6,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ipsl.co.ke": {
+   "wildcard": true,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nse.co.ke": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 93,
+   "dictionary_hits": 12,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cma.or.ke": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 15,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "rba.go.ke": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 9,
+   "dictionary_hits": 14,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ppra.go.ke": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 7,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "tenders.go.ke": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 3,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "kplc.co.ke": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 35,
+   "dictionary_hits": 14,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "kengen.co.ke": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 57,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "kpa.co.ke": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 45,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "safaricom.co.ke": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 761,
+   "dictionary_hits": 15,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "telkom.co.ke": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 70,
+   "dictionary_hits": 12,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ecitizen.go.ke": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 88,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "icta.go.ke": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 84,
+   "dictionary_hits": 9,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "konza.go.ke": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 289,
+   "dictionary_hits": 17,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ke-cirt.go.ke": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 8,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ca.go.ke": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 33,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "oagkenya.go.ke": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 40,
+   "dictionary_hits": 9,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "eacc.go.ke": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 34,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ict.go.ke": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 25,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  }
+ },
+ "new_asns": {},
+ "rollup": {
+  "all": {
+   "routable": 4747,
+   "us_hyperscaler_share": 11.0,
+   "african_region_share": 2.0,
+   "us_saas_share": 8.1,
+   "cdn_share": 48.2,
+   "national_or_self_share": 13.1,
+   "unattributed": 1,
+   "by_category": {
+    "commercial-host": 100,
+    "national-dc": 293,
+    "telco-isp": 723,
+    "cdn-origin-unknown": 2287,
+    "us-saas": 384,
+    "us-hyperscaler-offshore": 428,
+    "african-colo": 85,
+    "unresolved": 11,
+    "self-hosted": 330,
+    "us-hyperscaler-africa": 93,
+    "unattributed": 1,
+    "chinese-cloud": 12
+   },
+   "institutions": 50,
+   "names": 3645,
+   "m365": 26,
+   "google": 5,
+   "tangled_hybrid": 17,
+   "any_us_hyperscaler": 29
+  },
+  "government": {
+   "routable": 3433,
+   "us_hyperscaler_share": 7.6,
+   "african_region_share": 2.2,
+   "us_saas_share": 6.6,
+   "cdn_share": 45.4,
+   "national_or_self_share": 16.3,
+   "unattributed": 1,
+   "by_category": {
+    "commercial-host": 71,
+    "national-dc": 293,
+    "telco-isp": 676,
+    "cdn-origin-unknown": 1558,
+    "us-saas": 228,
+    "us-hyperscaler-offshore": 186,
+    "african-colo": 58,
+    "unresolved": 9,
+    "self-hosted": 266,
+    "us-hyperscaler-africa": 75,
+    "unattributed": 1,
+    "chinese-cloud": 12
+   },
+   "institutions": 40,
+   "names": 2807,
+   "m365": 18,
+   "google": 5,
+   "tangled_hybrid": 11,
+   "any_us_hyperscaler": 21
+  },
+  "bank": {
+   "routable": 1314,
+   "us_hyperscaler_share": 19.8,
+   "african_region_share": 1.4,
+   "us_saas_share": 11.9,
+   "cdn_share": 55.5,
+   "national_or_self_share": 4.9,
+   "unattributed": 0,
+   "by_category": {
+    "cdn-origin-unknown": 729,
+    "african-colo": 27,
+    "us-hyperscaler-offshore": 242,
+    "us-saas": 156,
+    "unresolved": 2,
+    "telco-isp": 47,
+    "commercial-host": 29,
+    "self-hosted": 64,
+    "us-hyperscaler-africa": 18
+   },
+   "institutions": 10,
+   "names": 838,
+   "m365": 8,
+   "google": 0,
+   "tangled_hybrid": 6,
+   "any_us_hyperscaler": 8
+  }
+ },
+ "findings": [
+  {
+   "kind": "dangling-cloud-cname",
+   "domain": "safaricom.co.ke",
+   "name": "intranet.safaricom.co.ke",
+   "target": "safintranetredirect.azurewebsites.net",
+   "finding": "CNAME to a cloud name that no longer exists and that anyone can register: whoever does can serve content under this name."
+  }
+ ]
+}

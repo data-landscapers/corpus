@@ -1,5 +1,5 @@
 {
- "iso3": "ZAF",
+ "iso3": "NGA",
  "scan_date": "2026-09-28",
  "range_files": {
   "aws.json": "2026-09-28",
@@ -12,313 +12,7 @@
  },
  "range_file_errors": {},
  "domains": {
-  "thepresidency.gov.za": {
-   "wildcard": false,
-   "ct_status": "ok",
-   "ct_names": 4,
-   "dictionary_hits": 0,
-   "scope": "full",
-   "dead": false,
-   "has_mx": false
-  },
-  "parliament.gov.za": {
-   "wildcard": false,
-   "ct_status": "ok",
-   "ct_names": 93,
-   "dictionary_hits": 4,
-   "scope": "full",
-   "dead": false,
-   "has_mx": true
-  },
-  "dirco.gov.za": {
-   "wildcard": false,
-   "ct_status": "ok",
-   "ct_names": 49,
-   "dictionary_hits": 2,
-   "scope": "full",
-   "dead": false,
-   "has_mx": true
-  },
-  "dod.mil.za": {
-   "wildcard": false,
-   "ct_status": "ok",
-   "ct_names": 12,
-   "dictionary_hits": 3,
-   "scope": "full",
-   "dead": false,
-   "has_mx": true
-  },
-  "saps.gov.za": {
-   "wildcard": false,
-   "ct_status": "ok",
-   "ct_names": 30,
-   "dictionary_hits": 8,
-   "scope": "full",
-   "dead": false,
-   "has_mx": true
-  },
-  "justice.gov.za": {
-   "wildcard": false,
-   "ct_status": "ok",
-   "ct_names": 54,
-   "dictionary_hits": 6,
-   "scope": "full",
-   "dead": false,
-   "has_mx": true
-  },
-  "judiciary.org.za": {
-   "wildcard": false,
-   "ct_status": "ok",
-   "ct_names": 17,
-   "dictionary_hits": 12,
-   "scope": "full",
-   "dead": false,
-   "has_mx": true
-  },
-  "treasury.gov.za": {
-   "wildcard": false,
-   "ct_status": "ok",
-   "ct_names": 81,
-   "dictionary_hits": 13,
-   "scope": "full",
-   "dead": false,
-   "has_mx": true
-  },
-  "sars.gov.za": {
-   "wildcard": false,
-   "ct_status": "ok",
-   "ct_names": 261,
-   "dictionary_hits": 9,
-   "scope": "full",
-   "dead": false,
-   "has_mx": true
-  },
-  "ssa.gov.za": {
-   "wildcard": false,
-   "ct_status": "ok",
-   "ct_names": 12,
-   "dictionary_hits": 3,
-   "scope": "full",
-   "dead": false,
-   "has_mx": true
-  },
-  "dha.gov.za": {
-   "wildcard": false,
-   "ct_status": "ok",
-   "ct_names": 3360,
-   "dictionary_hits": 10,
-   "scope": "full",
-   "dead": false,
-   "has_mx": true
-  },
-  "resbank.co.za": {
-   "wildcard": false,
-   "ct_status": "ok",
-   "ct_names": 374,
-   "dictionary_hits": 18,
-   "scope": "full",
-   "dead": false,
-   "has_mx": true
-  },
-  "standardbank.co.za": {
-   "wildcard": false,
-   "ct_status": "ok",
-   "ct_names": 904,
-   "dictionary_hits": 12,
-   "scope": "full",
-   "dead": false,
-   "has_mx": true
-  },
-  "firstrand.co.za": {
-   "wildcard": false,
-   "ct_status": "ok",
-   "ct_names": 157,
-   "dictionary_hits": 2,
-   "scope": "full",
-   "dead": false,
-   "has_mx": true
-  },
-  "fnb.co.za": {
-   "wildcard": false,
-   "ct_status": "ok",
-   "ct_names": 995,
-   "dictionary_hits": 7,
-   "scope": "full",
-   "dead": false,
-   "has_mx": true
-  },
-  "absa.co.za": {
-   "wildcard": false,
-   "ct_status": "ok",
-   "ct_names": 861,
-   "dictionary_hits": 11,
-   "scope": "full",
-   "dead": false,
-   "has_mx": true
-  },
-  "absa.africa": {
-   "wildcard": false,
-   "ct_status": "failed",
-   "ct_names": 0,
-   "dictionary_hits": 12,
-   "scope": "full",
-   "dead": false,
-   "has_mx": true
-  },
-  "nedbank.co.za": {
-   "wildcard": false,
-   "ct_status": "ok",
-   "ct_names": 460,
-   "dictionary_hits": 10,
-   "scope": "full",
-   "dead": false,
-   "has_mx": true
-  },
-  "investec.com": {
-   "wildcard": false,
-   "ct_status": "ok",
-   "ct_names": 752,
-   "dictionary_hits": 8,
-   "scope": "full",
-   "dead": false,
-   "has_mx": true
-  },
-  "capitecbank.co.za": {
-   "wildcard": false,
-   "ct_status": "ok",
-   "ct_names": 535,
-   "dictionary_hits": 17,
-   "scope": "full",
-   "dead": false,
-   "has_mx": true
-  },
-  "discovery.co.za": {
-   "wildcard": false,
-   "ct_status": "ok",
-   "ct_names": 450,
-   "dictionary_hits": 11,
-   "scope": "full",
-   "dead": false,
-   "has_mx": true
-  },
-  "africanbank.co.za": {
-   "wildcard": false,
-   "ct_status": "ok",
-   "ct_names": 259,
-   "dictionary_hits": 4,
-   "scope": "full",
-   "dead": false,
-   "has_mx": true
-  },
-  "tymebank.co.za": {
-   "wildcard": false,
-   "ct_status": "ok",
-   "ct_names": 93,
-   "dictionary_hits": 0,
-   "scope": "full",
-   "dead": false,
-   "has_mx": true
-  },
-  "bidvestbank.co.za": {
-   "wildcard": false,
-   "ct_status": "ok",
-   "ct_names": 46,
-   "dictionary_hits": 9,
-   "scope": "full",
-   "dead": false,
-   "has_mx": true
-  },
-  "inforegulator.org.za": {
-   "wildcard": false,
-   "ct_status": "ok",
-   "ct_names": 16,
-   "dictionary_hits": 5,
-   "scope": "full",
-   "dead": false,
-   "has_mx": true
-  },
-  "elections.org.za": {
-   "wildcard": false,
-   "ct_status": "ok",
-   "ct_names": 85,
-   "dictionary_hits": 10,
-   "scope": "full",
-   "dead": false,
-   "has_mx": true
-  },
-  "statssa.gov.za": {
-   "wildcard": true,
-   "ct_status": "ok",
-   "ct_names": 95,
-   "dictionary_hits": 0,
-   "scope": "full",
-   "dead": false,
-   "has_mx": true
-  },
-  "health.gov.za": {
-   "wildcard": false,
-   "ct_status": "ok",
-   "ct_names": 54,
-   "dictionary_hits": 7,
-   "scope": "full",
-   "dead": false,
-   "has_mx": true
-  },
-  "sassa.gov.za": {
-   "wildcard": false,
-   "ct_status": "ok",
-   "ct_names": 29,
-   "dictionary_hits": 5,
-   "scope": "full",
-   "dead": false,
-   "has_mx": true
-  },
-  "dsd.gov.za": {
-   "wildcard": false,
-   "ct_status": "ok",
-   "ct_names": 63,
-   "dictionary_hits": 5,
-   "scope": "full",
-   "dead": false,
-   "has_mx": true
-  },
-  "dalrrd.gov.za": {
-   "wildcard": false,
-   "ct_status": "failed",
-   "ct_names": 0,
-   "dictionary_hits": 0,
-   "scope": "full",
-   "dead": false,
-   "has_mx": false
-  },
-  "bankservafrica.com": {
-   "wildcard": false,
-   "ct_status": "ok",
-   "ct_names": 95,
-   "dictionary_hits": 4,
-   "scope": "full",
-   "dead": false,
-   "has_mx": true
-  },
-  "pasa.org.za": {
-   "wildcard": false,
-   "ct_status": "ok",
-   "ct_names": 12,
-   "dictionary_hits": 4,
-   "scope": "full",
-   "dead": false,
-   "has_mx": true
-  },
-  "jse.co.za": {
-   "wildcard": false,
-   "ct_status": "ok",
-   "ct_names": 73,
-   "dictionary_hits": 10,
-   "scope": "full",
-   "dead": false,
-   "has_mx": true
-  },
-  "fsca.co.za": {
+  "statehouse.gov.ng": {
    "wildcard": false,
    "ct_status": "ok",
    "ct_names": 18,
@@ -327,25 +21,430 @@
    "dead": false,
    "has_mx": true
   },
-  "pic.gov.za": {
+  "nass.gov.ng": {
    "wildcard": false,
    "ct_status": "ok",
-   "ct_names": 61,
+   "ct_names": 48,
    "dictionary_hits": 8,
    "scope": "full",
    "dead": false,
    "has_mx": true
   },
-  "gepf.co.za": {
+  "foreignaffairs.gov.ng": {
    "wildcard": false,
    "ct_status": "ok",
-   "ct_names": 26,
+   "ct_names": 21,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "defence.gov.ng": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 8,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "army.mil.ng": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 39,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "npf.gov.ng": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 64,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "justice.gov.ng": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 38,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "njc.gov.ng": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 232,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "finance.gov.ng": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 22,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "oagf.gov.ng": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 10,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "firs.gov.ng": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 142,
    "dictionary_hits": 7,
    "scope": "full",
    "dead": false,
    "has_mx": true
   },
-  "etenders.gov.za": {
+  "nrs.gov.ng": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 101,
+   "dictionary_hits": 10,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "customs.gov.ng": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 81,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "dss.gov.ng": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 14,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "interior.gov.ng": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 16,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cbn.gov.ng": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 88,
+   "dictionary_hits": 11,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "zenithbank.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 387,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "accessbankplc.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1749,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "firstbanknigeria.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 520,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ubagroup.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 349,
+   "dictionary_hits": 21,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "gtbank.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 359,
+   "dictionary_hits": 18,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "fidelitybank.ng": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 267,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "fcmb.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 185,
+   "dictionary_hits": 9,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "stanbicibtcbank.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 48,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "unionbankng.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 135,
+   "dictionary_hits": 13,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "sterling.ng": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 206,
+   "dictionary_hits": 11,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nimc.gov.ng": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 91,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "immigration.gov.ng": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 40,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ndpc.gov.ng": {
+   "wildcard": true,
+   "ct_status": "ok",
+   "ct_names": 16,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "inecnigeria.org": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 78,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nigerianstat.gov.ng": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 8,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "health.gov.ng": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 68,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nhia.gov.ng": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 12,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nassp.gov.ng": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 27,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nibss-plc.com.ng": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 34,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "interswitchgroup.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 38,
+   "dictionary_hits": 16,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ngxgroup.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 51,
+   "dictionary_hits": 9,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "sec.gov.ng": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 46,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nsia.com.ng": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 37,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "pencom.gov.ng": {
+   "wildcard": true,
+   "ct_status": "ok",
+   "ct_names": 13,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bpp.gov.ng": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 12,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "tcn.org.ng": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 15,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nigerianports.gov.ng": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 101,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nigcomsat.gov.ng": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 19,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nitda.gov.ng": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 175,
+   "dictionary_hits": 25,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "galaxybackbone.com.ng": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 103,
+   "dictionary_hits": 20,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cert.gov.ng": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 11,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ncc.gov.ng": {
+   "wildcard": true,
+   "ct_status": "ok",
+   "ct_names": 60,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "oaugf.gov.ng": {
    "wildcard": false,
    "ct_status": "ok",
    "ct_names": 6,
@@ -354,119 +453,20 @@
    "dead": false,
    "has_mx": true
   },
-  "eskom.co.za": {
+  "efcc.gov.ng": {
    "wildcard": false,
    "ct_status": "ok",
-   "ct_names": 535,
-   "dictionary_hits": 11,
+   "ct_names": 41,
+   "dictionary_hits": 10,
    "scope": "full",
    "dead": false,
    "has_mx": true
   },
-  "transnet.net": {
+  "icpc.gov.ng": {
    "wildcard": false,
    "ct_status": "ok",
-   "ct_names": 418,
-   "dictionary_hits": 6,
-   "scope": "full",
-   "dead": false,
-   "has_mx": true
-  },
-  "telkom.co.za": {
-   "wildcard": false,
-   "ct_status": "ok",
-   "ct_names": 405,
-   "dictionary_hits": 24,
-   "scope": "full",
-   "dead": false,
-   "has_mx": true
-  },
-  "infraco.co.za": {
-   "wildcard": false,
-   "ct_status": "ok",
-   "ct_names": 16,
-   "dictionary_hits": 3,
-   "scope": "full",
-   "dead": false,
-   "has_mx": true
-  },
-  "sentech.co.za": {
-   "wildcard": false,
-   "ct_status": "ok",
-   "ct_names": 18,
-   "dictionary_hits": 15,
-   "scope": "full",
-   "dead": false,
-   "has_mx": true
-  },
-  "gov.za": {
-   "wildcard": false,
-   "ct_status": "not run",
-   "ct_names": 0,
-   "dictionary_hits": 0,
-   "scope": "root-only: parent zone of 18 seeded domains",
-   "dead": false,
-   "has_mx": true
-  },
-  "dcdt.gov.za": {
-   "wildcard": false,
-   "ct_status": "ok",
-   "ct_names": 16,
-   "dictionary_hits": 4,
-   "scope": "full",
-   "dead": false,
-   "has_mx": true
-  },
-  "sita.co.za": {
-   "wildcard": false,
-   "ct_status": "ok",
-   "ct_names": 73,
-   "dictionary_hits": 7,
-   "scope": "full",
-   "dead": false,
-   "has_mx": true
-  },
-  "cybersecurityhub.gov.za": {
-   "wildcard": false,
-   "ct_status": "ok",
-   "ct_names": 9,
-   "dictionary_hits": 5,
-   "scope": "full",
-   "dead": false,
-   "has_mx": true
-  },
-  "icasa.org.za": {
-   "wildcard": false,
-   "ct_status": "ok",
-   "ct_names": 27,
-   "dictionary_hits": 7,
-   "scope": "full",
-   "dead": false,
-   "has_mx": true
-  },
-  "agsa.co.za": {
-   "wildcard": false,
-   "ct_status": "ok",
-   "ct_names": 218,
-   "dictionary_hits": 4,
-   "scope": "full",
-   "dead": false,
-   "has_mx": true
-  },
-  "siu.org.za": {
-   "wildcard": false,
-   "ct_status": "ok",
-   "ct_names": 7,
-   "dictionary_hits": 6,
-   "scope": "full",
-   "dead": false,
-   "has_mx": true
-  },
-  "pprotect.org": {
-   "wildcard": false,
-   "ct_status": "ok",
-   "ct_names": 19,
-   "dictionary_hits": 7,
+   "ct_names": 52,
+   "dictionary_hits": 10,
    "scope": "full",
    "dead": false,
    "has_mx": true
@@ -475,110 +475,111 @@
  "new_asns": {},
  "rollup": {
   "all": {
-   "routable": 7436,
-   "us_hyperscaler_share": 28.5,
-   "african_region_share": 4.4,
-   "us_saas_share": 4.9,
-   "cdn_share": 26.7,
-   "national_or_self_share": 25.1,
-   "unattributed": 8,
+   "routable": 5747,
+   "us_hyperscaler_share": 24.2,
+   "african_region_share": 1.1,
+   "us_saas_share": 4.3,
+   "cdn_share": 44.5,
+   "national_or_self_share": 14.1,
+   "unattributed": 17,
    "by_category": {
-    "commercial-host": 112,
-    "african-colo": 212,
-    "national-dc": 213,
-    "telco-isp": 705,
-    "us-saas": 362,
-    "us-hyperscaler-africa": 329,
-    "us-hyperscaler-offshore": 1790,
-    "unresolved": 64,
-    "cdn-origin-unknown": 1984,
-    "self-hosted": 1657,
-    "unattributed": 8
+    "national-dc": 365,
+    "african-colo": 209,
+    "us-hyperscaler-offshore": 1329,
+    "commercial-host": 390,
+    "telco-isp": 114,
+    "cdn-origin-unknown": 2555,
+    "unresolved": 8,
+    "unattributed": 17,
+    "us-hyperscaler-africa": 64,
+    "us-saas": 248,
+    "self-hosted": 447,
+    "chinese-cloud": 1
    },
    "institutions": 51,
-   "names": 12666,
-   "m365": 31,
-   "google": 0,
-   "tangled_hybrid": 31,
-   "any_us_hyperscaler": 44
+   "names": 6665,
+   "m365": 23,
+   "google": 2,
+   "tangled_hybrid": 26,
+   "any_us_hyperscaler": 36
   },
   "government": {
-   "routable": 3014,
-   "us_hyperscaler_share": 26.5,
-   "african_region_share": 3.0,
-   "us_saas_share": 6.0,
-   "cdn_share": 26.3,
-   "national_or_self_share": 18.0,
-   "unattributed": 3,
+   "routable": 3225,
+   "us_hyperscaler_share": 30.4,
+   "african_region_share": 2.0,
+   "us_saas_share": 5.3,
+   "cdn_share": 27.8,
+   "national_or_self_share": 16.4,
+   "unattributed": 16,
    "by_category": {
-    "commercial-host": 73,
-    "african-colo": 199,
-    "national-dc": 213,
-    "telco-isp": 391,
-    "us-saas": 182,
-    "us-hyperscaler-africa": 89,
-    "us-hyperscaler-offshore": 711,
-    "unresolved": 28,
-    "cdn-origin-unknown": 794,
-    "self-hosted": 331,
-    "unattributed": 3
+    "national-dc": 365,
+    "african-colo": 208,
+    "us-hyperscaler-offshore": 917,
+    "commercial-host": 332,
+    "telco-isp": 84,
+    "cdn-origin-unknown": 898,
+    "unresolved": 6,
+    "unattributed": 16,
+    "us-hyperscaler-africa": 63,
+    "us-saas": 172,
+    "self-hosted": 164
    },
-   "institutions": 39,
-   "names": 7037,
-   "m365": 22,
-   "google": 0,
-   "tangled_hybrid": 22,
-   "any_us_hyperscaler": 33
+   "institutions": 41,
+   "names": 2354,
+   "m365": 16,
+   "google": 2,
+   "tangled_hybrid": 17,
+   "any_us_hyperscaler": 26
   },
   "bank": {
-   "routable": 4422,
-   "us_hyperscaler_share": 29.8,
-   "african_region_share": 5.4,
-   "us_saas_share": 4.1,
-   "cdn_share": 26.9,
-   "national_or_self_share": 30.0,
-   "unattributed": 5,
+   "routable": 2522,
+   "us_hyperscaler_share": 16.4,
+   "african_region_share": 0.0,
+   "us_saas_share": 3.0,
+   "cdn_share": 65.7,
+   "national_or_self_share": 11.2,
+   "unattributed": 1,
    "by_category": {
-    "us-hyperscaler-offshore": 1079,
-    "cdn-origin-unknown": 1190,
-    "telco-isp": 314,
-    "self-hosted": 1326,
-    "us-hyperscaler-africa": 240,
-    "us-saas": 180,
-    "unresolved": 36,
-    "african-colo": 13,
-    "commercial-host": 39,
-    "unattributed": 5
+    "self-hosted": 283,
+    "us-hyperscaler-offshore": 412,
+    "cdn-origin-unknown": 1657,
+    "commercial-host": 58,
+    "chinese-cloud": 1,
+    "us-saas": 76,
+    "telco-isp": 30,
+    "african-colo": 1,
+    "unresolved": 2,
+    "us-hyperscaler-africa": 1,
+    "unattributed": 1
    },
-   "institutions": 12,
-   "names": 5629,
-   "m365": 9,
+   "institutions": 10,
+   "names": 4311,
+   "m365": 7,
    "google": 0,
    "tangled_hybrid": 9,
-   "any_us_hyperscaler": 11
+   "any_us_hyperscaler": 10
   }
  },
  "findings": [
   {
-   "domain": "dalrrd.gov.za",
-   "finding": "Every query for the domain returns SERVFAIL: the delegation is broken. The seed note records the homepage serving Indonesian gambling content earlier on 2026-09-28. The department was split in 2024, so the seed probably wants the successor department's domain."
-  },
-  {
-   "domain": "eskom.co.za",
-   "finding": "cdn.eskom.co.za is a CNAME to eskom.ensight-cdn.com, which resolves to Trellian (AS133618), a domain-parking host. A dangling CNAME to a lapsed third-party domain: whoever holds ensight-cdn.com can serve content under an Eskom name."
-  },
-  {
    "kind": "dangling-cloud-cname",
-   "domain": "absa.co.za",
-   "name": "absacmgab1.absa.co.za",
-   "target": "absacmgab1.southafricanorth.cloudapp.azure.com",
+   "domain": "cbn.gov.ng",
+   "name": "cbnchatgpt.cbn.gov.ng",
+   "target": "app-backend-z55m6uscycary.azurewebsites.net",
    "finding": "CNAME to a cloud name that no longer exists and that anyone can register: whoever does can serve content under this name."
   },
   {
    "kind": "dangling-cloud-cname",
-   "domain": "standardbank.co.za",
-   "name": "frictionless.standardbank.co.za",
-   "target": "noknok.eastus.cloudapp.azure.com",
+   "domain": "health.gov.ng",
+   "name": "nitp.health.gov.ng",
+   "target": "nitpdemo.azurewebsites.net",
+   "finding": "CNAME to a cloud name that no longer exists and that anyone can register: whoever does can serve content under this name."
+  },
+  {
+   "kind": "dangling-cloud-cname",
+   "domain": "oagf.gov.ng",
+   "name": "payrollvalidation.oagf.gov.ng",
+   "target": "ippis-extension-vk5ky.ondigitalocean.app",
    "finding": "CNAME to a cloud name that no longer exists and that anyone can register: whoever does can serve content under this name."
   }
  ]

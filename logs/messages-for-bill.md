@@ -12,6 +12,10 @@ last_reviewed: 2026-08-28
 
 <!-- newest first: a new block goes directly below this line -->
 
+## 2026-09-28 · hyperscaler scan KEN, NGA
+
+- Six names in the three countries point at deleted cloud names that anyone can re-register and then serve content under. They are at the Central Bank of Nigeria, Nigeria's health ministry and Accountant-General, Safaricom, Absa and Standard Bank. The names are in each country's `run.json` → `findings`. They are public, and disclosure is your call. The reports do not name them.
+
 ## 2026-09-28 · hyperscaler scan ZAF
 
 - `cdn.eskom.co.za` points at `eskom.ensight-cdn.com`, now on a domain-parking host: whoever registers `ensight-cdn.com` can serve content under an Eskom name. It is public and it is Eskom's problem. Tell Eskom or leave it; nothing of ours depends on it.

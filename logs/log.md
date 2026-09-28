@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-09-28 13:39 · **SCAN** · 1h40m · KEN: 49 institutions, 4,747 routable, 11% US hyperscaler. NGA: 49 institutions, 5,747 routable, 24% US hyperscaler. 6 claimable dangling CNAMEs across three countries
 2026-09-28 11:31 · **SCAN** · 53m · ZAF: 51 institutions, 12,666 names, 7,436 routable, 28% US hyperscaler, 8 unattributed
 2026-09-28 09:29 · **RENDER** · 12m · header three-bar menu on every page; reports+home+countries+catalogue rendered, no edition re-cut, 130 unfetched editions pruned, deployed — ok
 2026-09-27 23:59 · **RENDER** · 13m · 251 documents, 0 failed; home, countries, regions, topics, progress, catalogue, alerts, finance 1,399 deals, datasets rendered; R2 1,708 uploaded; deployed - ok

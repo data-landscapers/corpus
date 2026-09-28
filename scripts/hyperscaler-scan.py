@@ -262,6 +262,9 @@ def saas_match(host: str, saas) -> tuple[str, str] | None:
 STOP = {"the", "of", "and", "for", "south", "african", "africa", "republic", "department", "national",
         "service", "services", "ltd", "limited", "pty", "co", "sa", "za", "inc", "group", "holdings", "net",
         "network", "networks", "office", "soc", "company", "corporation", "agency", "authority", "as", "asn"}
+# Words two unrelated owners share often enough that they cannot be the evidence on their own:
+# "Central Bank of Kenya" and "Commercial Bank of Kenya" overlap in two tokens and nothing else.
+GENERIC = {"bank", "plc", "kenya", "kenyan", "nigeria", "nigerian", "federal", "commission", "ministry"}
 
 
 def tokens(s: str) -> set[str]:
@@ -269,15 +272,20 @@ def tokens(s: str) -> set[str]:
 
 
 def owner_is(institution: str, domain: str, owner: str) -> bool:
-    """RDAP or AS owner names the institution: token overlap >= 2; or its domain label (3+
+    """RDAP or AS owner names the institution: token overlap >= 2 with one of them distinctive, or its one distinctive token
+    (4+ characters, and the start of its domain label) when it has only one; or its domain label (3+
     characters) or bracketed acronym (4+) is a token of the owner; or the label (5+) runs inside
     the owner's name with the spaces taken out (`firstrand` in `First Rand Bank Limited`)."""
     if not owner:
         return False
-    ot = tokens(owner)
-    if len(tokens(institution) & ot) >= 2:
+    ot, it = tokens(owner), tokens(institution)
+    if len(it & ot) >= 2 and (it & ot) - GENERIC:
         return True
     label = domain.split(".")[0].lower()
+    # "NCBA Group" on ncbagroup.com; never a generic word ("Communications Commission" on ncc.gov.ng)
+    core = it - GENERIC
+    if len(core) == 1 and len(next(iter(core))) >= 4 and core <= ot and label.startswith(next(iter(core))):
+        return True
     acr = {a.lower() for a in re.findall(r"\(([A-Za-z]{4,})\)", institution)}
     compact = re.sub(r"[^a-z0-9]", "", owner.lower())
     return (len(label) >= 3 and label in ot) or bool(acr & ot) or (len(label) >= 5 and label in compact)

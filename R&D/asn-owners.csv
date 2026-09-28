@@ -90,3 +90,128 @@ asn,owner,category,note
 328366,Firstnet Technology Services,african-colo,South African IT services
 329184,Host Africa,african-colo,South African host
 394089,Google (GCP enterprise),us-hyperscaler-offshore,
+702,Verizon Business,telco-isp,
+9129,MTN SA,telco-isp,
+10798,Standard Bank Group,african-colo,Standard Bank's South African network; Stanbic subsidiaries hosted on it resolve to South Africa
+12455,Telkom Kenya,telco-isp,
+12556,Internet Solutions Kenya,telco-isp,
+12663,Fastweb (Vodafone),telco-isp,Italy
+14115,Absa Group,african-colo,Absa's South African network; Absa subsidiaries hosted on it resolve to South Africa
+14670,WHG Hosting,commercial-host,UK host
+15808,AccessKenya,telco-isp,
+16552,DigiCert DNS (DNS Made Easy),us-saas,
+17378,TierPoint,commercial-host,US
+19871,Network Solutions,commercial-host,US
+22611,InMotion Hosting,commercial-host,US
+22612,Namecheap,commercial-host,US
+23889,Mauritius Telecom,telco-isp,
+29802,Hivelocity,commercial-host,US
+30148,Sucuri,cdn-origin-unknown,website firewall; GoDaddy-owned
+30844,Liquid Telecom,african-colo,Liquid runs Africa Data Centres
+32244,Liquid Web,commercial-host,US host
+36217,NetActuate,commercial-host,anycast DNS
+36866,Jamii Telecommunications,telco-isp,
+36890,MTN Rwanda,telco-isp,
+36914,KENET,telco-isp,Kenya's research and education network
+36915,Echotel Kenya,telco-isp,
+36926,Airtel Kenya,telco-isp,
+36975,NCBA Bank,african-colo,NCBA's own network; self-hosted for NCBA by name
+37061,Safaricom,telco-isp,
+37156,Xtranet Communications,telco-isp,
+37210,National Bank of Kenya,african-colo,bank network; a KCB subsidiary
+37219,ICT Authority (ICTA),national-dc,Kenya's government ICT agency and data centre
+37274,NIC Bank (now NCBA),african-colo,NCBA's legacy NIC network
+37280,Broad Based Communications,telco-isp,
+37684,Angani,african-colo,Kenyan cloud provider
+38859,Linkly Technologies,commercial-host,Australia
+40009,BitGravity,cdn-origin-unknown,
+40934,Fortinet,us-saas,
+43009,Infobip,commercial-host,Croatian messaging SaaS
+44444,Forcepoint Cloud,us-saas,
+57008,ITGLOBAL,commercial-host,Kazakhstan
+63911,NetActuate,commercial-host,anycast DNS
+133299,Yalamanchili Software Exports,commercial-host,India
+200484,Brevo (Sendinblue),commercial-host,French mailing SaaS
+209341,WHG Hosting,commercial-host,UK host
+327813,Host Africa,african-colo,South African host
+328093,KCB (Kenya Commercial Bank),african-colo,KCB's own network; self-hosted for KCB by name
+328149,,,added by scan 2026-09-28; classify by hand
+328847,Konza Technopolis (national data centre),national-dc,
+329014,Vilcom Networks,telco-isp,
+329026,Kenyaweb.com,african-colo,Kenyan host
+1921,RcodeZero (ipcom),commercial-host,"anycast DNS, Austria"
+2734,CoreSite,commercial-host,US colocation
+3064,Ntirety,commercial-host,US
+6939,Hurricane Electric,telco-isp,US
+8560,IONOS,commercial-host,Germany
+10796,Charter Communications,telco-isp,US
+12213,Centersquare,commercial-host,US colocation
+18501,CyberCloud Professionals,commercial-host,US
+19318,Interserver,commercial-host,US
+20068,Hawk Host,commercial-host,Canada
+20598,Cyberspace (IDDQD),commercial-host,
+20857,TransIP,commercial-host,Netherlands
+21499,Host Europe (GoDaddy),commercial-host,
+25139,TVCabo,telco-isp,
+25163,21st Century Technologies,telco-isp,Nigeria
+26347,DreamHost,commercial-host,US
+29091,ipNX Nigeria,telco-isp,
+29169,Gandi,commercial-host,France
+29465,MTN Nigeria,telco-isp,
+30475,Handy Networks,commercial-host,US
+33387,Nocix,commercial-host,US
+33480,Web Werks,commercial-host,India
+35280,F5 Distributed Cloud,cdn-origin-unknown,DDoS and WAF
+36351,IBM Cloud (SoftLayer),commercial-host,"US cloud, not counted with the four hyperscalers"
+36352,ColoCrossing (HostPapa),commercial-host,US
+36454,WHG Hosting,commercial-host,UK host
+36873,Airtel Nigeria,telco-isp,
+36970,iPartners,african-colo,Nigerian hosting
+36974,MTN Cote d'Ivoire,telco-isp,
+37004,Suburban Broadband,telco-isp,Nigeria
+37012,Comsys Ghana,telco-isp,
+37018,Galaxy Backbone,national-dc,Nigeria's government data centre and network
+37094,Orange Liberia,telco-isp,
+37125,Layer3,african-colo,Nigerian ISP and data centre
+37148,Globacom,telco-isp,
+37203,Libtelco,telco-isp,Liberia
+37223,Vodacom Mozambique,telco-isp,
+37230,Swifttalk,telco-isp,Nigeria
+37282,MainOne,african-colo,West African cable and MDXi data centres (Equinix)
+37350,Dimension Data,telco-isp,
+37472,NIGCOMSAT,national-dc,state satellite company; self-hosted for NIGCOMSAT by name
+37540,Winrock Nigeria,telco-isp,
+37688,Backbone Connectivity Network,telco-isp,Nigeria
+44273,Host Europe (GoDaddy),commercial-host,DNS
+46606,Unified Layer (Bluehost),commercial-host,US
+47447,23M,commercial-host,Germany
+50293,Interfiber Networks,telco-isp,Portugal
+51713,WHG Hosting,commercial-host,UK host
+54641,InMotion Hosting,commercial-host,US
+55002,F5 (Silverline),cdn-origin-unknown,DDoS and WAF
+55081,24 Shells,commercial-host,US
+55195,CIRA,commercial-host,"anycast DNS, Canada"
+55293,A2 Hosting,commercial-host,US
+61303,NETWAYS,commercial-host,Germany
+203391,ClouDNS,commercial-host,DNS
+204800,WHG Hosting,commercial-host,UK host
+205111,Zoho EU,commercial-host,Indian SaaS
+211126,WHG Hosting,commercial-host,UK host
+212531,Interneto vizija (Hostinger),commercial-host,Lithuania
+328160,Dotmac Technologies,telco-isp,Nigeria
+328401,Soft Alliance and Resources,african-colo,Nigerian IT services
+328668,Nkponani Limited - Nkponani Limited,,added by scan 2026-09-28; classify by hand
+328873,National Assembly Abuja,national-dc,the Assembly's own network; self-hosted for it by name
+329476,Trade Modernisation Project,african-colo,Nigeria Customs single-window concessionaire
+394354,CIRA,commercial-host,"anycast DNS, Canada"
+398101,GoDaddy,commercial-host,US
+400238,PIEG-01 - PIE&G,,added by scan 2026-09-28; classify by hand
+402674,GTranslate,commercial-host,translation proxy
+22386,South Africa Reserve Bank - South Africa Reserve Bank,,added by scan 2026-09-28; classify by hand
+327748,Co-operative Bank of Kenya - Co-operative Bank of Kenya,,added by scan 2026-09-28; classify by hand
+328089,Kenya Revenue Authority - Kenya Revenue Authority,,added by scan 2026-09-28; classify by hand
+328739,KENYA PORTS AUTHORITY - KENYA PORTS AUTHORITY,,added by scan 2026-09-28; classify by hand
+329111,KENYA POWER AND LIGHTING COMPANY PLC - KENYA POWER AND LIGHTING COMPANY PLC,,added by scan 2026-09-28; classify by hand
+36922,United Bank for Africa - United Bank for Africa,,added by scan 2026-09-28; classify by hand
+37452,Central Bank of Nigeria - Central Bank of Nigeria,,added by scan 2026-09-28; classify by hand
+37565,Nigerian Exchange Group PLC - Nigerian Exchange Group PLC,,added by scan 2026-09-28; classify by hand
