@@ -6,7 +6,7 @@
 <title>Senegal: status report — Data Landscapers</title>
 <meta name="description" content="Senegal: digital transformation, digital public infrastructure and data governance — policy, regulation, finance, connectivity and skills, each claim sourced.">
 <link rel="canonical" href="https://corpus.data-landscapers.io/reports/SEN/SEN-status.html">
-<link rel="stylesheet" href="../../assets/css/main.css?v=a004bc3c">
+<link rel="stylesheet" href="../../assets/css/main.css?v=646ebba6">
 <link rel="stylesheet" href="../../assets/css/corpus.css?v=d55f78b7">
 <link rel="stylesheet" href="../../assets/css/report.css?v=5961328e">
 <link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
@@ -15,7 +15,7 @@
 <meta property="og:url" content="https://corpus.data-landscapers.io/reports/SEN/SEN-status.html">
 <meta property="og:type" content="article">
 <meta property="og:site_name" content="Data Landscapers">
-<meta name="dl-record" content="b8d2153a2ef6">
+<meta name="dl-record" content="6a534add2c83">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -30,8 +30,8 @@
     "@type": "WebPage",
     "@id": "https://corpus.data-landscapers.io/reports/SEN/SEN-status.html"
   },
-  "datePublished": "2026-09-25",
-  "dateModified": "2026-09-25",
+  "datePublished": "2026-09-28",
+  "dateModified": "2026-09-28",
   "inLanguage": "en",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "isAccessibleForFree": true,
@@ -79,7 +79,7 @@
   "encoding": {
     "@type": "MediaObject",
     "encodingFormat": "application/pdf",
-    "contentUrl": "https://corpus.data-landscapers.io/reports/SEN/SEN-status-2026-09-25.pdf"
+    "contentUrl": "https://corpus.data-landscapers.io/reports/SEN/SEN-status-2026-09-28.pdf"
   }
 }
 </script>
@@ -102,15 +102,59 @@
           <span class="site-logo__sub">Mapping Africa&rsquo;s data landscape</span>
         </span>
       </a>
-      <button class="nav-toggle" aria-label="Toggle navigation" onclick="this.classList.toggle('open'); document.getElementById('site-nav').classList.toggle('open')">
-        <span></span><span></span><span></span>
-      </button>
       <nav class="site-nav" id="site-nav" aria-label="Main navigation">
         <a href="https://corpus.data-landscapers.io/" class="active">Corpus</a>
         <a href="https://data-landscapers.io/writing/">Work in progress</a>
         <a href="https://data-landscapers.io/portfolio/">Portfolio</a>
         <a href="https://data-landscapers.io/about/">About</a>
       </nav>
+      <details class="site-menu" id="site-menu">
+        <summary aria-label="Menu"><span></span><span></span><span></span></summary>
+        <nav class="site-menu__panel" aria-label="Site menu">
+          <ul>
+            <li><a href="https://data-landscapers.io/writing/">Work in progress</a></li>
+            <li><a href="https://data-landscapers.io/portfolio/">Portfolio</a></li>
+            <li><a href="https://data-landscapers.io/about/">About</a></li>
+            <li><a href="https://corpus.data-landscapers.io/">Corpus</a></li>
+            <li><a href="https://corpus.data-landscapers.io/progress/">Progress</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/progress/">Topics</a></li>
+                <li><a href="https://corpus.data-landscapers.io/progress/countries/">Countries</a></li>
+              </ul>
+            </li>
+            <li><a href="https://corpus.data-landscapers.io/bulletin/">Bulletin</a></li>
+            <li><a href="https://corpus.data-landscapers.io/countries/">Countries &amp; Regions</a></li>
+            <li><a href="https://corpus.data-landscapers.io/topics/">Topics</a></li>
+            <li><a href="https://corpus.data-landscapers.io/datasets/">Datasets</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/finance/">Finance</a>
+                  <ul>
+                    <li><a href="https://corpus.data-landscapers.io/finance/">Non-state finance</a></li>
+                    <li><a href="https://corpus.data-landscapers.io/finance/budgets/">Budgets</a></li>
+                  </ul>
+                </li>
+                <li><a href="https://corpus.data-landscapers.io/datasets/data-centres/">Data Centres</a></li>
+              </ul>
+            </li>
+            <li><a href="https://corpus.data-landscapers.io/catalogue/">Catalogue</a></li>
+            <li><a href="https://corpus.data-landscapers.io/methodology/">Methodology</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/methodology/document-lifecycle/">Document Lifecycle</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/process-inventory/">Process Inventory</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/lookups/">Process Lookups</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/changelog/">Change Log</a></li>
+              </ul>
+            </li>
+          </ul>
+        </nav>
+      </details>
+      <script>
+        (function () {
+          var m = document.getElementById('site-menu');
+          document.addEventListener('click', function (e) { if (m.open && !m.contains(e.target)) { m.open = false; } });
+          document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && m.open) { m.open = false; m.querySelector('summary').focus(); } });
+        })();
+      </script>
     </div>
   </header>
 
@@ -142,8 +186,8 @@
         <a class="feedback-ask" href="mailto:info@data-landscapers.io?subject=Corpus%20feedback%20%E2%80%94%20Senegal%3A%20status%20report&amp;body=Page%3A%20https%3A//corpus.data-landscapers.io/reports/SEN/SEN-status.html%0A%0AWrong%2C%20missing%2C%20or%20useful%20%E2%80%94%20and%20if%20you%20used%20it%2C%20what%20for%3A%0A%0A">Useful? Wrong? Tell us</a>
         <h1 class="article-header__title">Senegal: status report</h1>
         <div class="article-header__meta">
-          <div class="article-header__byline" data-edition="2026-09-25">Edition of 2026-09-25 &nbsp;·&nbsp; compiled by Claude Opus from the documents in the Corpus repository</div>
-          <div class="article-header__actions screen-only"><a href="https://corpus.data-landscapers.io/reports/SEN/SEN-status-2026-09-25.pdf" class="btn btn--accent">&darr; PDF</a></div>
+          <div class="article-header__byline" data-edition="2026-09-28">Edition of 2026-09-28 &nbsp;·&nbsp; compiled by Claude Opus from the documents in the Corpus repository</div>
+          <div class="article-header__actions screen-only"><a href="https://corpus.data-landscapers.io/reports/SEN/SEN-status-2026-09-28.pdf" class="btn btn--accent">&darr; PDF</a></div>
         </div>
       </header>
 
@@ -325,7 +369,7 @@
 <!-- digital.rural -->
 
 <p>Only <a href="https://www.connectingafrica.com/cybersecurity/senegal-s-free-internet-plan-could-pose-cybersecurity-risks" target="_blank" rel="noopener">3% of rural Senegalese households had an internet connection</a> at the end of 2025, and that figure, not the state of any software, sets the limit on what gets recorded outside Dakar.</p>
-<p>At the four points where the state meets a rural citizen, the record is made on paper. Health posts, health centres and health huts <a href="https://link.springer.com/article/10.1186/s12889-024-21241-x" target="_blank" rel="noopener">write patient data into paper registers at the point of care</a>, with monthly aggregates entered into the national DHIS2 system afterwards rather than captured as the encounter happens; electronic patient records exist only in <a href="https://www.wearetech.africa/en/fils-uk/news/tech/senegal-adopts-digital-health-policy-drafts-data-law" target="_blank" rel="noopener">a small World Bank-funded pilot</a> (April 2025). Rural primary schools <a href="https://developmentgateway.org/wp-content/uploads/2024/06/WHITEpaperENG809.pdf" target="_blank" rel="noopener">keep enrolment, attendance and teacher data on registers and logs</a>, aggregated through district and regional offices before reaching the national education system, and the DHIS2-based education deployment begun in 2024 <a href="https://education.dhis2.org/implementation/senegal/" target="_blank" rel="noopener">remains a district-level research pilot producing aggregate rather than facility-level data</a>. Rural police and gendarmerie stations <a href="https://justice.sec.gouv.sn/wp-content/uploads/2020/11/code-procedure-penal.pdf" target="_blank" rel="noopener">record case files, complaints and procès-verbaux by hand as the Criminal Procedure Code requires</a>, the originals carried physically to prosecutors; their one digital capability outside the capital is <a href="https://lesoleil.sn/actualites/economie/digitalisation-des-amendes-forfaitaires-164-014-attestations-traitees-8419-millions-fcfa-collectes-par-les-forces-de-securite/" target="_blank" rel="noopener">processing forfeitary traffic fines</a>. Registry offices are the uneven exception: the civil-status software runs <a href="https://lesoleil.sn/actualites/societe-fait-divers/etat-civil-lanec-franchit-le-cap-des-70-de-deploiement-du-lgec/" target="_blank" rel="noopener">thinnest in Kédougou, Sédhiou and Tambacounda and close to complete in Thiès, Dakar and Fatick</a> as at mid-July 2026.</p>
+<p>At the four points where the state meets a rural citizen, the record is made on paper. Health posts, health centres and health huts <a href="https://link.springer.com/article/10.1186/s12889-024-21241-x" target="_blank" rel="noopener">write patient data into paper registers at the point of care</a>, with monthly aggregates entered into the national DHIS2 system afterwards rather than captured as the encounter happens; electronic patient records exist only in <a href="https://www.wearetech.africa/en/fils-uk/news/tech/senegal-adopts-digital-health-policy-drafts-data-law" target="_blank" rel="noopener">a small World Bank-funded pilot</a> (April 2025). Rural primary schools, <a href="https://www.wearetech.africa/fr/fils/actualites/tech/senegal-6888-etablissements-scolaires-cibles-par-un-vaste-plan-de-connexion-haut-debit" target="_blank" rel="noopener">only 15.4% of which had internet access in 2023 against 41.4% in urban areas</a>, <a href="https://developmentgateway.org/wp-content/uploads/2024/06/WHITEpaperENG809.pdf" target="_blank" rel="noopener">keep enrolment, attendance and teacher data on registers and logs</a>, aggregated through district and regional offices before reaching the national education system, and the DHIS2-based education deployment begun in 2024 <a href="https://education.dhis2.org/implementation/senegal/" target="_blank" rel="noopener">remains a district-level research pilot producing aggregate rather than facility-level data</a>. Rural police and gendarmerie stations <a href="https://justice.sec.gouv.sn/wp-content/uploads/2020/11/code-procedure-penal.pdf" target="_blank" rel="noopener">record case files, complaints and procès-verbaux by hand as the Criminal Procedure Code requires</a>, the originals carried physically to prosecutors; their one digital capability outside the capital is <a href="https://lesoleil.sn/actualites/economie/digitalisation-des-amendes-forfaitaires-164-014-attestations-traitees-8419-millions-fcfa-collectes-par-les-forces-de-securite/" target="_blank" rel="noopener">processing forfeitary traffic fines</a>. Registry offices are the uneven exception: the civil-status software runs <a href="https://lesoleil.sn/actualites/societe-fait-divers/etat-civil-lanec-franchit-le-cap-des-70-de-deploiement-du-lgec/" target="_blank" rel="noopener">thinnest in Kédougou, Sédhiou and Tambacounda and close to complete in Thiès, Dakar and Fatick</a> as at mid-July 2026.</p>
 <p>The material a rural administration most needs is the least captured. <a href="https://microdata.worldbank.org/catalog/6387/variable/F7/V510?name=Q1_3a_4" target="_blank" rel="noopener">Almost no surveyed agricultural parcel carries a registered land document</a> (2023). In Kédougou, which <a href="https://www.wearetech.africa/fr/fils/actualites/gestion-publique/le-senegal-numerise-lorpaillage-pour-juguler-une-perte-annuelle-de-plus-de-614-millions" target="_blank" rel="noopener">concentrates nearly all of Senegal's recorded artisanal gold-mining sites</a>, the state ties the absence of traceability to water pollution, insecurity and criminal infiltration of the mining zones (2026). <a href="https://assets.iiag.online/2024/profiles/2024-IIAG-profile-sn.pdf" target="_blank" rel="noopener">Rural Representation and Participation is Senegal's lowest-ranked of 96 governance indicators</a>, 36th of 54 in 2023 after falling 17.2 points over the decade.</p>
 <p>The correction being attempted is satellite rather than cable. The <a href="https://lesoleil.sn/actualites/technologie/new-deal-technologique-alioune-sall-lance-loffensive-contre-la-fracture-numerique-a-kolda/" target="_blank" rel="noopener">first Starlink kits were handed over in Kolda, in Casamance, on 10 April 2026</a>, a first lot of 200 from 1,000 gifted with two years' subscription, on a <a href="https://lesoleil.sn/actualites/technologie/connectivite-universelle-le-senegal-vise-1-million-de-beneficiaires-dinternet-gratuit-dici-fin-2026/" target="_blank" rel="noopener">tour that ran 9–13 April 2026 through Ziguinchor, Kolda and Kaolack</a>. Rural electrification runs under <a href="https://acces-universel-electricite.gouv.sn/programme-de-mise-en-oeuvre.html" target="_blank" rel="noopener">a national programme with substantial off-grid deployment</a> (2024).</p>
 <h2 id="technology">Technology</h2>
@@ -441,8 +485,8 @@
       <section class="report-colophon">
         <div class="report-colophon__label">About this document</div>
         <dl>
-          <dt>Edition</dt><dd class="edition">2026-09-25</dd>
-          <dt>This file</dt><dd>https://corpus.data-landscapers.io/reports/SEN/SEN-status-2026-09-25.pdf</dd>
+          <dt>Edition</dt><dd class="edition">2026-09-28</dd>
+          <dt>This file</dt><dd>https://corpus.data-landscapers.io/reports/SEN/SEN-status-2026-09-28.pdf</dd>
           <dt>Feedback</dt><dd><a href="mailto:info@data-landscapers.io?subject=Corpus%20feedback%20%E2%80%94%20Senegal%3A%20status%20report&amp;body=Page%3A%20https%3A//corpus.data-landscapers.io/reports/SEN/SEN-status.html%0A%0AWrong%2C%20missing%2C%20or%20useful%20%E2%80%94%20and%20if%20you%20used%20it%2C%20what%20for%3A%0A%0A">info@data-landscapers.io</a></dd>
           <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a></dd>
         </dl>

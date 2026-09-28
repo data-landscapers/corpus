@@ -6,7 +6,7 @@
 <title>Tanzania — progress report, September 2025 – September 2026 — Data Landscapers</title>
 <meta name="description" content="A year in Tanzania, indicator by indicator: digital transformation, DPI and data governance — what moved, what stalled, and what is not held.">
 <link rel="canonical" href="https://corpus.data-landscapers.io/reports/TZA/TZA-progress.html">
-<link rel="stylesheet" href="../../assets/css/main.css?v=a004bc3c">
+<link rel="stylesheet" href="../../assets/css/main.css?v=646ebba6">
 <link rel="stylesheet" href="../../assets/css/corpus.css?v=d55f78b7">
 <link rel="stylesheet" href="../../assets/css/report.css?v=5961328e">
 <link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
@@ -15,7 +15,7 @@
 <meta property="og:url" content="https://corpus.data-landscapers.io/reports/TZA/TZA-progress.html">
 <meta property="og:type" content="article">
 <meta property="og:site_name" content="Data Landscapers">
-<meta name="dl-record" content="36ad28772bd8">
+<meta name="dl-record" content="fe0dad8afb38">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -30,8 +30,8 @@
     "@type": "WebPage",
     "@id": "https://corpus.data-landscapers.io/reports/TZA/TZA-progress.html"
   },
-  "datePublished": "2026-09-27",
-  "dateModified": "2026-09-27",
+  "datePublished": "2026-09-28",
+  "dateModified": "2026-09-28",
   "inLanguage": "en",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "isAccessibleForFree": true,
@@ -79,7 +79,7 @@
   "encoding": {
     "@type": "MediaObject",
     "encodingFormat": "application/pdf",
-    "contentUrl": "https://corpus.data-landscapers.io/reports/TZA/TZA-progress-2026-09-27.pdf"
+    "contentUrl": "https://corpus.data-landscapers.io/reports/TZA/TZA-progress-2026-09-28.pdf"
   }
 }
 </script>
@@ -102,15 +102,59 @@
           <span class="site-logo__sub">Mapping Africa&rsquo;s data landscape</span>
         </span>
       </a>
-      <button class="nav-toggle" aria-label="Toggle navigation" onclick="this.classList.toggle('open'); document.getElementById('site-nav').classList.toggle('open')">
-        <span></span><span></span><span></span>
-      </button>
       <nav class="site-nav" id="site-nav" aria-label="Main navigation">
         <a href="https://corpus.data-landscapers.io/" class="active">Corpus</a>
         <a href="https://data-landscapers.io/writing/">Work in progress</a>
         <a href="https://data-landscapers.io/portfolio/">Portfolio</a>
         <a href="https://data-landscapers.io/about/">About</a>
       </nav>
+      <details class="site-menu" id="site-menu">
+        <summary aria-label="Menu"><span></span><span></span><span></span></summary>
+        <nav class="site-menu__panel" aria-label="Site menu">
+          <ul>
+            <li><a href="https://data-landscapers.io/writing/">Work in progress</a></li>
+            <li><a href="https://data-landscapers.io/portfolio/">Portfolio</a></li>
+            <li><a href="https://data-landscapers.io/about/">About</a></li>
+            <li><a href="https://corpus.data-landscapers.io/">Corpus</a></li>
+            <li><a href="https://corpus.data-landscapers.io/progress/">Progress</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/progress/">Topics</a></li>
+                <li><a href="https://corpus.data-landscapers.io/progress/countries/">Countries</a></li>
+              </ul>
+            </li>
+            <li><a href="https://corpus.data-landscapers.io/bulletin/">Bulletin</a></li>
+            <li><a href="https://corpus.data-landscapers.io/countries/">Countries &amp; Regions</a></li>
+            <li><a href="https://corpus.data-landscapers.io/topics/">Topics</a></li>
+            <li><a href="https://corpus.data-landscapers.io/datasets/">Datasets</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/finance/">Finance</a>
+                  <ul>
+                    <li><a href="https://corpus.data-landscapers.io/finance/">Non-state finance</a></li>
+                    <li><a href="https://corpus.data-landscapers.io/finance/budgets/">Budgets</a></li>
+                  </ul>
+                </li>
+                <li><a href="https://corpus.data-landscapers.io/datasets/data-centres/">Data Centres</a></li>
+              </ul>
+            </li>
+            <li><a href="https://corpus.data-landscapers.io/catalogue/">Catalogue</a></li>
+            <li><a href="https://corpus.data-landscapers.io/methodology/">Methodology</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/methodology/document-lifecycle/">Document Lifecycle</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/process-inventory/">Process Inventory</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/lookups/">Process Lookups</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/changelog/">Change Log</a></li>
+              </ul>
+            </li>
+          </ul>
+        </nav>
+      </details>
+      <script>
+        (function () {
+          var m = document.getElementById('site-menu');
+          document.addEventListener('click', function (e) { if (m.open && !m.contains(e.target)) { m.open = false; } });
+          document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && m.open) { m.open = false; m.querySelector('summary').focus(); } });
+        })();
+      </script>
     </div>
   </header>
 
@@ -142,8 +186,8 @@
         <a class="feedback-ask" href="mailto:info@data-landscapers.io?subject=Corpus%20feedback%20%E2%80%94%20Tanzania%3A%20progress%20report%2C%20September%202025%20%E2%80%93%20September%202026&amp;body=Page%3A%20https%3A//corpus.data-landscapers.io/reports/TZA/TZA-progress.html%0A%0AWrong%2C%20missing%2C%20or%20useful%20%E2%80%94%20and%20if%20you%20used%20it%2C%20what%20for%3A%0A%0A">Useful? Wrong? Tell us</a>
         <h1 class="article-header__title">Tanzania: progress report, September 2025 – September 2026</h1>
         <div class="article-header__meta">
-          <div class="article-header__byline" data-edition="2026-09-27">Edition of 2026-09-27 &nbsp;·&nbsp; compiled by Claude Opus from the documents in the Corpus repository</div>
-          <div class="article-header__actions screen-only"><a href="https://corpus.data-landscapers.io/reports/TZA/TZA-progress-2026-09-27.pdf" class="btn btn--accent">&darr; PDF</a></div>
+          <div class="article-header__byline" data-edition="2026-09-28">Edition of 2026-09-28 &nbsp;·&nbsp; compiled by Claude Opus from the documents in the Corpus repository</div>
+          <div class="article-header__actions screen-only"><a href="https://corpus.data-landscapers.io/reports/TZA/TZA-progress-2026-09-28.pdf" class="btn btn--accent">&darr; PDF</a></div>
         </div>
       </header>
 
@@ -174,7 +218,7 @@
 
 <p>This report asks the same set of questions of every country. The rows below are a fixed frame of indicators, one row each, chosen in advance and covering all thirty-eight subjects the repository tracks — so what appears here is decided by the frame and not by whichever records happened to accumulate. Each row says what happened on that indicator during the period, with every claim linked to the source it rests on.</p>
 <p>Where a row reads <strong><em>No evidence</em></strong>, the repository holds nothing on that indicator. <strong>That is a statement about this repository, not about the country</strong> — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.</p>
-<p><em>The period is 2025-09-01 to 2026-09-27.</em></p>
+<p><em>The period is 2025-09-01 to 2026-09-28.</em></p>
 <p><strong>Progress values.</strong> <em>Movement</em> — some form of progress, however minor, has been recorded. <em>Stalled</em> — a stated target passed without delivery. <em>Regressed</em> — an instrument was withdrawn or neutralised, or a reported position worsened. <em>Mixed</em> — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. <em>No change</em> — the repository holds a standing position and nothing in the period touched it. <strong><em>No evidence</em></strong> — the repository holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in <em>Movement, regulations still pending</em>.</p>
 <h2 id="governance">Governance</h2>
 <table class="indicator">
@@ -613,7 +657,7 @@
 <tr>
 <td>Digital Payments and Fintech</td>
 <td>Revenue collection</td>
-<td>A <a href="https://fbattorneys.co.tz/wp-content/uploads/2026/07/1784910470319-1.pdf" target="_blank" rel="noopener">mandatory electronic payments order</a> made nine scheduled transaction classes electronic-payment-only, an order under the electronic transactions Act rather than regulations, and cash remains legal tender. <details><summary>Full record</summary>The order came into operation in 2026 and is widely mis-reported as regulations (<a href="https://fbattorneys.co.tz/wp-content/uploads/2026/07/1784910470319-1.pdf" target="_blank" rel="noopener">order</a>, <a href="https://www.thecitizen.co.tz/tanzania/business/tanzania-steps-up-cash-lite-drive-as-digital-payments-hit-new-highs-5541316" target="_blank" rel="noopener">drive</a>).<br>Mandatory electronic settlement for named transactions was explained to traders under the 2026/27 tax law changes; traders at the same meeting asked for cheaper electronic transaction charges, and no commencement date or penalty is stated in the record held (<a href="https://ippmedia.co.tz/nipashe/biashara/read/wafanyabiashara-waomba-gharama-nafuu-za-miamala-ya-kielektroniki-2026-08-19-194833" target="_blank" rel="noopener">settlement</a>).<br>A central electronic ticketing system carries transport ministry figures to March 2026 alongside a companion vehicle tracking system on 13,843 buses (<a href="https://dailynews.co.tz/cashless-shift-poised-to-transform-economy/" target="_blank" rel="noopener">ticketing</a>); the figures are the ministry's, reported at second hand, and no earlier count is held for either (<a href="https://dailynews.co.tz/cashless-shift-poised-to-transform-economy/" target="_blank" rel="noopener">ticketing</a>).<br>Zanzibar moved a fare box and a set of municipal charges onto one wallet: fares on the fifteen electric buses that entered service on 1 August 2026 are paid by smart card, and the same platform carries municipal parking fees, traffic fines and state payments to clove farmers (<a href="https://www.thecitizen.co.tz/tanzania/zanzibar/zanzibar-shifts-quietly-from-cash-to-fast-digital-payment-systems-5572738" target="_blank" rel="noopener">Zanzibar</a>).<br>The <a href="https://www.mof.go.tz/uploads/documents/en-1779189357-MEDIUM%20TERM%20REVENUE%20STRATEGY%20202526%20-%20202728%20%281%29.pdf" target="_blank" rel="noopener">Medium-Term Revenue Strategy 2025/26-2027/28 names the Government electronic Payment Gateway among the revenue-administration systems it relies on, beside the revenue authority's IDRAS and TANCIS</a>; no transaction count for the gateway is held.</details></td>
+<td>A <a href="https://fbattorneys.co.tz/wp-content/uploads/2026/07/1784910470319-1.pdf" target="_blank" rel="noopener">mandatory electronic payments order</a> made nine scheduled transaction classes electronic-payment-only, an order under the electronic transactions Act rather than regulations, and cash remains legal tender. <details><summary>Full record</summary>The order came into operation in 2026 and is widely mis-reported as regulations (<a href="https://fbattorneys.co.tz/wp-content/uploads/2026/07/1784910470319-1.pdf" target="_blank" rel="noopener">order</a>, <a href="https://www.thecitizen.co.tz/tanzania/business/tanzania-steps-up-cash-lite-drive-as-digital-payments-hit-new-highs-5541316" target="_blank" rel="noopener">drive</a>).<br>Mandatory electronic settlement for named transactions was explained to traders under the 2026/27 tax law changes; no commencement date or penalty is stated in the record held (<a href="https://ippmedia.co.tz/nipashe/biashara/read/wafanyabiashara-waomba-gharama-nafuu-za-miamala-ya-kielektroniki-2026-08-19-194833" target="_blank" rel="noopener">settlement</a>).<br>A central electronic ticketing system carries transport ministry figures to March 2026 alongside a companion vehicle tracking system on 13,843 buses (<a href="https://dailynews.co.tz/cashless-shift-poised-to-transform-economy/" target="_blank" rel="noopener">ticketing</a>), the ministry's figures at second hand.<br>Zanzibar moved a fare box and a set of municipal charges onto one wallet: fares on the fifteen electric buses that entered service on 1 August 2026 are paid by smart card, and the same platform carries municipal parking fees, traffic fines and state payments to clove farmers (<a href="https://www.thecitizen.co.tz/tanzania/zanzibar/zanzibar-shifts-quietly-from-cash-to-fast-digital-payment-systems-5572738" target="_blank" rel="noopener">Zanzibar</a>).<br>The <a href="https://www.mof.go.tz/uploads/documents/en-1779189357-MEDIUM%20TERM%20REVENUE%20STRATEGY%20202526%20-%20202728%20%281%29.pdf" target="_blank" rel="noopener">Medium-Term Revenue Strategy 2025/26-2027/28 names the Government electronic Payment Gateway among the revenue-administration systems it relies on, beside the revenue authority's IDRAS and TANCIS</a>; no transaction count for the gateway is held.<br>2026-09-24 - the transport regulator <a href="https://allafrica.com/stories/202609250125.html" target="_blank" rel="noopener">put electronic payments at 6.8% of fares collected over four years, with 95.3% of 62.18m ticketed passengers paying cash</a>, despite electronic transactions being required by law on the main modes.</details></td>
 <td><span class="badge badge--green">Movement</span></td>
 </tr>
 <tr>
@@ -739,7 +783,7 @@
 <tr>
 <td>Other GovTech and e-Gov</td>
 <td>e-government services</td>
-<td>A <a href="https://www.monitor.co.ug/uganda/news/national/tanzania-s-govtech-success" target="_blank" rel="noopener">maturity classification</a> placed the country in the top group in its 2025 edition with the rank unstated, and the islands' government is <a href="https://www.thecitizen.co.tz/tanzania/zanzibar/zanzibar-launches-new-system-to-fix-stalled-projects-5590506" target="_blank" rel="noopener">introducing a project monitoring framework</a>. <details><summary>Full record</summary>The classification's release date is month-precision and the <a href="https://www.monitor.co.ug/uganda/news/national/tanzania-s-govtech-success" target="_blank" rel="noopener">2025 rank is not stated in any held source</a>; digital citizen engagement is the weak pillar region-wide (<a href="https://www.thecitizen.co.tz/tanzania/news/national/tanzania-joins-global-leaders-in-digital-government-5325056" target="_blank" rel="noopener">leaders</a>).<br>2026-09-10 - the islands' government is <a href="https://www.thecitizen.co.tz/tanzania/zanzibar/zanzibar-launches-new-system-to-fix-stalled-projects-5590506" target="_blank" rel="noopener">introducing a monitoring framework to curb delays in development projects, its deputy minister for finance and planning told the House of Representatives at Chukwani, Unguja</a>. It is announced rather than in service: no system name, supplier, cost, timetable or project coverage is published, and the count of stalled projects it is meant to address is not given, so nothing states what would show it working.<br>2026-09-16 — <a href="https://www.mwananchi.co.tz/mw/zanzibar/habari/kamera-za-barabarani-zanzibar-zaibua-mjadala-kila-kona-5597252" target="_blank" rel="noopener">Zanzibar's automated road cameras were challenged in the House of Representatives over speed limits, Sh230,000 fines and unenforced government vehicles</a>.<br>The islands' own programme is older: <a href="https://www.un.org/development/desa/en/news/administration/e-government-tanzania.html" target="_blank" rel="noopener">an e-government centre with fibre links was launched at Mazizini, Zanzibar, by January 2013</a>; nothing later on what it runs is held.<br>2026-03-30 - the auditor found <a href="https://www.nao.go.tz/uploads/Annual_General_Report_for_Audit_of_Central_Government_FY_2024-25.pdf" target="_blank" rel="noopener">31 central-government entities procuring TZS 5.94bn outside the national e-procurement system in 2024/25</a>, the one compliance figure held for it.</details></td>
+<td>A <a href="https://www.monitor.co.ug/uganda/news/national/tanzania-s-govtech-success" target="_blank" rel="noopener">maturity classification</a> placed the country in the top group in its 2025 edition with the rank unstated, and the islands' government is <a href="https://www.thecitizen.co.tz/tanzania/zanzibar/zanzibar-launches-new-system-to-fix-stalled-projects-5590506" target="_blank" rel="noopener">introducing a project monitoring framework</a>. <details><summary>Full record</summary>The classification's release date is month-precision and the <a href="https://www.monitor.co.ug/uganda/news/national/tanzania-s-govtech-success" target="_blank" rel="noopener">2025 rank is not stated in any held source</a>; digital citizen engagement is the weak pillar region-wide (<a href="https://www.thecitizen.co.tz/tanzania/news/national/tanzania-joins-global-leaders-in-digital-government-5325056" target="_blank" rel="noopener">leaders</a>).<br>2026-09-10 - the islands' government is <a href="https://www.thecitizen.co.tz/tanzania/zanzibar/zanzibar-launches-new-system-to-fix-stalled-projects-5590506" target="_blank" rel="noopener">introducing a monitoring framework to curb delays in development projects, its deputy minister for finance and planning told the House of Representatives at Chukwani, Unguja</a>. It is announced rather than in service, with no system name, supplier, cost or timetable published.<br>2026-09-16 — <a href="https://www.mwananchi.co.tz/mw/zanzibar/habari/kamera-za-barabarani-zanzibar-zaibua-mjadala-kila-kona-5597252" target="_blank" rel="noopener">Zanzibar's automated road cameras were challenged in the House of Representatives over speed limits, Sh230,000 fines and unenforced government vehicles</a>.<br>The islands' own programme is older: <a href="https://www.un.org/development/desa/en/news/administration/e-government-tanzania.html" target="_blank" rel="noopener">an e-government centre with fibre links was launched at Mazizini, Zanzibar, by January 2013</a>; nothing later on what it runs is held.<br>2026-03-30 - the auditor found <a href="https://www.nao.go.tz/uploads/Annual_General_Report_for_Audit_of_Central_Government_FY_2024-25.pdf" target="_blank" rel="noopener">31 central-government entities procuring TZS 5.94bn outside the national e-procurement system in 2024/25</a>, the one compliance figure held for it.<br>2026-09-25 - the World Bank <a href="https://thebusinesswiz.co.tz/2026/09/25/tanzanias-digital-procurement-system-cuts-processing-time-and-costs/" target="_blank" rel="noopener">puts procurement processing on the national e-procurement system at 79 days against 234 on paper, with 21 government systems connected</a>, figures reported at second hand.</details></td>
 <td><span class="badge badge--green">Movement</span></td>
 </tr>
 </tbody>
@@ -886,7 +930,7 @@
 <tr>
 <td>Training and skills</td>
 <td>Graduates entering DT ecosystem</td>
-<td><a href="https://www.mwananchi.co.tz/mw/habari/biashara/maeneo-manne-ya-kujizatiti-wataalamu-wa-tehama-tanzania-5541292" target="_blank" rel="noopener">Workforce training opened for 110 participants</a> across four priority areas, and <a href="https://www.mwananchi.co.tz/mw/habari/kitaifa/serikali-kuendelea-kupeleka-wanafunzi-nje-kusomea-ai-5392884" target="_blank" rel="noopener">sixteen graduates travelled</a> on overseas artificial-intelligence scholarships with 34 more expected. <details><summary>Full record</summary>The workforce training opened in the commercial capital with European partners; no budget, duration, certification or repeat cadence is stated (<a href="https://www.mwananchi.co.tz/mw/habari/biashara/maeneo-manne-ya-kujizatiti-wataalamu-wa-tehama-tanzania-5541292" target="_blank" rel="noopener">training</a>, <a href="https://dailynews.co.tz/tanzania-builds-cyber-resilience/" target="_blank" rel="noopener">resilience</a>).<br>The education minister told a parliamentary committee that sixteen graduates had travelled and 34 were expected; no budget, selection criteria, bonding terms or return-placement plan is stated, and nothing later confirms the second cohort travelled (<a href="https://www.mwananchi.co.tz/mw/habari/kitaifa/serikali-kuendelea-kupeleka-wanafunzi-nje-kusomea-ai-5392884" target="_blank" rel="noopener">scholarships</a>).<br>An operator foundation expanded a digital skills programme for young people with no cohort size, curriculum, cost or completion figure published (<a href="https://techafricanews.com/2026/08/26/airtel-africa-foundation-digital-skills-tanzanian-youth/" target="_blank" rel="noopener">foundation</a>).</details></td>
+<td><a href="https://www.mwananchi.co.tz/mw/habari/biashara/maeneo-manne-ya-kujizatiti-wataalamu-wa-tehama-tanzania-5541292" target="_blank" rel="noopener">Workforce training opened for 110 participants</a> across four priority areas, and <a href="https://www.mwananchi.co.tz/mw/habari/kitaifa/serikali-kuendelea-kupeleka-wanafunzi-nje-kusomea-ai-5392884" target="_blank" rel="noopener">sixteen graduates travelled</a> on overseas artificial-intelligence scholarships with 34 more expected. <details><summary>Full record</summary>The workforce training opened in the commercial capital with European partners; no budget, duration, certification or repeat cadence is stated (<a href="https://www.mwananchi.co.tz/mw/habari/biashara/maeneo-manne-ya-kujizatiti-wataalamu-wa-tehama-tanzania-5541292" target="_blank" rel="noopener">training</a>, <a href="https://dailynews.co.tz/tanzania-builds-cyber-resilience/" target="_blank" rel="noopener">resilience</a>).<br>The education minister told a parliamentary committee that sixteen graduates had travelled and 34 were expected; no budget, selection criteria, bonding terms or return-placement plan is stated, and nothing later confirms the second cohort travelled (<a href="https://www.mwananchi.co.tz/mw/habari/kitaifa/serikali-kuendelea-kupeleka-wanafunzi-nje-kusomea-ai-5392884" target="_blank" rel="noopener">scholarships</a>).<br>An operator foundation expanded a digital skills programme for young people with no cohort size, curriculum, cost or completion figure published (<a href="https://techafricanews.com/2026/08/26/airtel-africa-foundation-digital-skills-tanzanian-youth/" target="_blank" rel="noopener">foundation</a>).<br>2026-09-23 - <a href="https://timesmajira.co.tz/serikali-yaandaa-vijana-kwa-uchumi-kidigitali/" target="_blank" rel="noopener">50 government scholarship holders in data science and AI are in a ten-month camp at a national science institute</a>; whether they are the cohort expected abroad is not stated.</details></td>
 <td><span class="badge badge--green">Movement</span></td>
 </tr>
 <tr>
@@ -1096,8 +1140,8 @@
       <section class="report-colophon">
         <div class="report-colophon__label">About this document</div>
         <dl>
-          <dt>Edition</dt><dd class="edition">2026-09-27</dd>
-          <dt>This file</dt><dd>https://corpus.data-landscapers.io/reports/TZA/TZA-progress-2026-09-27.pdf</dd>
+          <dt>Edition</dt><dd class="edition">2026-09-28</dd>
+          <dt>This file</dt><dd>https://corpus.data-landscapers.io/reports/TZA/TZA-progress-2026-09-28.pdf</dd>
           <dt>Feedback</dt><dd><a href="mailto:info@data-landscapers.io?subject=Corpus%20feedback%20%E2%80%94%20Tanzania%3A%20progress%20report%2C%20September%202025%20%E2%80%93%20September%202026&amp;body=Page%3A%20https%3A//corpus.data-landscapers.io/reports/TZA/TZA-progress.html%0A%0AWrong%2C%20missing%2C%20or%20useful%20%E2%80%94%20and%20if%20you%20used%20it%2C%20what%20for%3A%0A%0A">info@data-landscapers.io</a></dd>
           <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a></dd>
         </dl>

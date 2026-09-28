@@ -6,7 +6,7 @@
 <title>Other GovTech and e-Gov — progress report, September 2025 – September 2026 — Data Landscapers</title>
 <meta name="description" content="Other GovTech and e-Gov across Africa over a year: digital transformation, DPI and data governance, country by country — what moved, what stalled, and what is not held.">
 <link rel="canonical" href="https://corpus.data-landscapers.io/topics/dpi-govtech/dpi-govtech-progress.html">
-<link rel="stylesheet" href="../../assets/css/main.css?v=a004bc3c">
+<link rel="stylesheet" href="../../assets/css/main.css?v=646ebba6">
 <link rel="stylesheet" href="../../assets/css/corpus.css?v=d55f78b7">
 <link rel="stylesheet" href="../../assets/css/report.css?v=5961328e">
 <link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
@@ -15,7 +15,7 @@
 <meta property="og:url" content="https://corpus.data-landscapers.io/topics/dpi-govtech/dpi-govtech-progress.html">
 <meta property="og:type" content="article">
 <meta property="og:site_name" content="Data Landscapers">
-<meta name="dl-record" content="63e880c5297d">
+<meta name="dl-record" content="887f11d5c67d">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -30,8 +30,8 @@
     "@type": "WebPage",
     "@id": "https://corpus.data-landscapers.io/topics/dpi-govtech/dpi-govtech-progress.html"
   },
-  "datePublished": "2026-09-27",
-  "dateModified": "2026-09-27",
+  "datePublished": "2026-09-28",
+  "dateModified": "2026-09-28",
   "inLanguage": "en",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "isAccessibleForFree": true,
@@ -79,7 +79,7 @@
   "encoding": {
     "@type": "MediaObject",
     "encodingFormat": "application/pdf",
-    "contentUrl": "https://corpus.data-landscapers.io/topics/dpi-govtech/dpi-govtech-progress-2026-09-27-2.pdf"
+    "contentUrl": "https://corpus.data-landscapers.io/topics/dpi-govtech/dpi-govtech-progress-2026-09-28.pdf"
   }
 }
 </script>
@@ -102,15 +102,59 @@
           <span class="site-logo__sub">Mapping Africa&rsquo;s data landscape</span>
         </span>
       </a>
-      <button class="nav-toggle" aria-label="Toggle navigation" onclick="this.classList.toggle('open'); document.getElementById('site-nav').classList.toggle('open')">
-        <span></span><span></span><span></span>
-      </button>
       <nav class="site-nav" id="site-nav" aria-label="Main navigation">
         <a href="https://corpus.data-landscapers.io/" class="active">Corpus</a>
         <a href="https://data-landscapers.io/writing/">Work in progress</a>
         <a href="https://data-landscapers.io/portfolio/">Portfolio</a>
         <a href="https://data-landscapers.io/about/">About</a>
       </nav>
+      <details class="site-menu" id="site-menu">
+        <summary aria-label="Menu"><span></span><span></span><span></span></summary>
+        <nav class="site-menu__panel" aria-label="Site menu">
+          <ul>
+            <li><a href="https://data-landscapers.io/writing/">Work in progress</a></li>
+            <li><a href="https://data-landscapers.io/portfolio/">Portfolio</a></li>
+            <li><a href="https://data-landscapers.io/about/">About</a></li>
+            <li><a href="https://corpus.data-landscapers.io/">Corpus</a></li>
+            <li><a href="https://corpus.data-landscapers.io/progress/">Progress</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/progress/">Topics</a></li>
+                <li><a href="https://corpus.data-landscapers.io/progress/countries/">Countries</a></li>
+              </ul>
+            </li>
+            <li><a href="https://corpus.data-landscapers.io/bulletin/">Bulletin</a></li>
+            <li><a href="https://corpus.data-landscapers.io/countries/">Countries &amp; Regions</a></li>
+            <li><a href="https://corpus.data-landscapers.io/topics/">Topics</a></li>
+            <li><a href="https://corpus.data-landscapers.io/datasets/">Datasets</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/finance/">Finance</a>
+                  <ul>
+                    <li><a href="https://corpus.data-landscapers.io/finance/">Non-state finance</a></li>
+                    <li><a href="https://corpus.data-landscapers.io/finance/budgets/">Budgets</a></li>
+                  </ul>
+                </li>
+                <li><a href="https://corpus.data-landscapers.io/datasets/data-centres/">Data Centres</a></li>
+              </ul>
+            </li>
+            <li><a href="https://corpus.data-landscapers.io/catalogue/">Catalogue</a></li>
+            <li><a href="https://corpus.data-landscapers.io/methodology/">Methodology</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/methodology/document-lifecycle/">Document Lifecycle</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/process-inventory/">Process Inventory</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/lookups/">Process Lookups</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/changelog/">Change Log</a></li>
+              </ul>
+            </li>
+          </ul>
+        </nav>
+      </details>
+      <script>
+        (function () {
+          var m = document.getElementById('site-menu');
+          document.addEventListener('click', function (e) { if (m.open && !m.contains(e.target)) { m.open = false; } });
+          document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && m.open) { m.open = false; m.querySelector('summary').focus(); } });
+        })();
+      </script>
     </div>
   </header>
 
@@ -142,8 +186,8 @@
         <a class="feedback-ask" href="mailto:info@data-landscapers.io?subject=Corpus%20feedback%20%E2%80%94%20Other%20GovTech%20and%20e-Gov%3A%20progress%20report%2C%20September%202025%20%E2%80%93%20September%202026&amp;body=Page%3A%20https%3A//corpus.data-landscapers.io/topics/dpi-govtech/dpi-govtech-progress.html%0A%0AWrong%2C%20missing%2C%20or%20useful%20%E2%80%94%20and%20if%20you%20used%20it%2C%20what%20for%3A%0A%0A">Useful? Wrong? Tell us</a>
         <h1 class="article-header__title">Other GovTech and e-Gov: progress report, September 2025 – September 2026</h1>
         <div class="article-header__meta">
-          <div class="article-header__byline" data-edition="2026-09-27-2">Edition of 2026-09-27-2 &nbsp;·&nbsp; compiled by Claude Opus from the documents in the Corpus repository</div>
-          <div class="article-header__actions screen-only"><a href="https://corpus.data-landscapers.io/topics/dpi-govtech/dpi-govtech-progress-2026-09-27-2.pdf" class="btn btn--accent">&darr; PDF</a></div>
+          <div class="article-header__byline" data-edition="2026-09-28">Edition of 2026-09-28 &nbsp;·&nbsp; compiled by Claude Opus from the documents in the Corpus repository</div>
+          <div class="article-header__actions screen-only"><a href="https://corpus.data-landscapers.io/topics/dpi-govtech/dpi-govtech-progress-2026-09-28.pdf" class="btn btn--accent">&darr; PDF</a></div>
         </div>
       </header>
 
@@ -403,12 +447,12 @@
 </tr>
 <tr>
 <td>Tanzania</td>
-<td>A <a href="https://www.monitor.co.ug/uganda/news/national/tanzania-s-govtech-success" target="_blank" rel="noopener">maturity classification</a> placed the country in the top group in its 2025 edition with the rank unstated, and the islands' government is <a href="https://www.thecitizen.co.tz/tanzania/zanzibar/zanzibar-launches-new-system-to-fix-stalled-projects-5590506" target="_blank" rel="noopener">introducing a project monitoring framework</a>. <details><summary>Full record</summary>The classification's release date is month-precision and the <a href="https://www.monitor.co.ug/uganda/news/national/tanzania-s-govtech-success" target="_blank" rel="noopener">2025 rank is not stated in any held source</a>; digital citizen engagement is the weak pillar region-wide (<a href="https://www.thecitizen.co.tz/tanzania/news/national/tanzania-joins-global-leaders-in-digital-government-5325056" target="_blank" rel="noopener">leaders</a>).<br>2026-09-10 - the islands' government is <a href="https://www.thecitizen.co.tz/tanzania/zanzibar/zanzibar-launches-new-system-to-fix-stalled-projects-5590506" target="_blank" rel="noopener">introducing a monitoring framework to curb delays in development projects, its deputy minister for finance and planning told the House of Representatives at Chukwani, Unguja</a>. It is announced rather than in service: no system name, supplier, cost, timetable or project coverage is published, and the count of stalled projects it is meant to address is not given, so nothing states what would show it working.<br>2026-09-16 — <a href="https://www.mwananchi.co.tz/mw/zanzibar/habari/kamera-za-barabarani-zanzibar-zaibua-mjadala-kila-kona-5597252" target="_blank" rel="noopener">Zanzibar's automated road cameras were challenged in the House of Representatives over speed limits, Sh230,000 fines and unenforced government vehicles</a>.<br>The islands' own programme is older: <a href="https://www.un.org/development/desa/en/news/administration/e-government-tanzania.html" target="_blank" rel="noopener">an e-government centre with fibre links was launched at Mazizini, Zanzibar, by January 2013</a>; nothing later on what it runs is held.<br>2026-03-30 - the auditor found <a href="https://www.nao.go.tz/uploads/Annual_General_Report_for_Audit_of_Central_Government_FY_2024-25.pdf" target="_blank" rel="noopener">31 central-government entities procuring TZS 5.94bn outside the national e-procurement system in 2024/25</a>, the one compliance figure held for it.</details></td>
+<td>A <a href="https://www.monitor.co.ug/uganda/news/national/tanzania-s-govtech-success" target="_blank" rel="noopener">maturity classification</a> placed the country in the top group in its 2025 edition with the rank unstated, and the islands' government is <a href="https://www.thecitizen.co.tz/tanzania/zanzibar/zanzibar-launches-new-system-to-fix-stalled-projects-5590506" target="_blank" rel="noopener">introducing a project monitoring framework</a>. <details><summary>Full record</summary>The classification's release date is month-precision and the <a href="https://www.monitor.co.ug/uganda/news/national/tanzania-s-govtech-success" target="_blank" rel="noopener">2025 rank is not stated in any held source</a>; digital citizen engagement is the weak pillar region-wide (<a href="https://www.thecitizen.co.tz/tanzania/news/national/tanzania-joins-global-leaders-in-digital-government-5325056" target="_blank" rel="noopener">leaders</a>).<br>2026-09-10 - the islands' government is <a href="https://www.thecitizen.co.tz/tanzania/zanzibar/zanzibar-launches-new-system-to-fix-stalled-projects-5590506" target="_blank" rel="noopener">introducing a monitoring framework to curb delays in development projects, its deputy minister for finance and planning told the House of Representatives at Chukwani, Unguja</a>. It is announced rather than in service, with no system name, supplier, cost or timetable published.<br>2026-09-16 — <a href="https://www.mwananchi.co.tz/mw/zanzibar/habari/kamera-za-barabarani-zanzibar-zaibua-mjadala-kila-kona-5597252" target="_blank" rel="noopener">Zanzibar's automated road cameras were challenged in the House of Representatives over speed limits, Sh230,000 fines and unenforced government vehicles</a>.<br>The islands' own programme is older: <a href="https://www.un.org/development/desa/en/news/administration/e-government-tanzania.html" target="_blank" rel="noopener">an e-government centre with fibre links was launched at Mazizini, Zanzibar, by January 2013</a>; nothing later on what it runs is held.<br>2026-03-30 - the auditor found <a href="https://www.nao.go.tz/uploads/Annual_General_Report_for_Audit_of_Central_Government_FY_2024-25.pdf" target="_blank" rel="noopener">31 central-government entities procuring TZS 5.94bn outside the national e-procurement system in 2024/25</a>, the one compliance figure held for it.<br>2026-09-25 - the World Bank <a href="https://thebusinesswiz.co.tz/2026/09/25/tanzanias-digital-procurement-system-cuts-processing-time-and-costs/" target="_blank" rel="noopener">puts procurement processing on the national e-procurement system at 79 days against 234 on paper, with 21 government systems connected</a>, figures reported at second hand.</details></td>
 <td><span class="badge badge--green">Movement</span></td>
 </tr>
 <tr>
 <td>Togo</td>
-<td>The <a href="https://www.togofirst.com/en/public-services/1712-17829-togo-expands-public-service-digitisation-with-online-civil-registry-platform" target="_blank" rel="noopener">national public service window</a> added twenty-nine energy-sector procedures with other ministries expected from January 2026, and a <a href="https://www.togofirst.com/fr/tic/0204-18629-togo-le-ministere-des-affaires-etrangeres-amorce-la-digitalisation-de-ses-services" target="_blank" rel="noopener">digitalisation programme</a> ran a four-week sprint at the foreign affairs ministry. <details><summary>Full record</summary>2026-09 - a <a href="https://lomebougeinfo.tg/modernisation-du-portail-des-services-publics-togolais/" target="_blank" rel="noopener">modernised public-services portal went live, carrying over logins, after more than 400,000 requests in 2024</a>.<br>2026-09-11 — the identity directorate said <a href="https://atop.tg/citoyennete-300-eleves-filles-recoivent-gratuitement-leur-certificat-de-nationalite/" target="_blank" rel="noopener">the online nationality-certificate platform had processed 179,690 of 241,617 applications, with processing down to about four months</a>.<br>2026-09-17 — the least digitised part of the tax base was addressed directly: the revenue office <a href="https://www.togofirst.com/en/economic-governance/1709-20087-togo-moves-single-business-tax-filing-and-payments-online" target="_blank" rel="noopener">put filing and payment of the single business tax online for microenterprises on the flat-rate regime, on a procedure designed for a basic handset and accepting three mobile money services</a>, taxpayers it covers no longer needing to attend a tax centre (<a href="https://togopresse.tg/faciliter-lacces-aux-services-administratifs-et-le-paiement-en-ligne-la-plateforme-e-tpu-de-lotr-lancee/" target="_blank" rel="noopener">launch</a>). The day after, the credit bureau <a href="https://www.togofirst.com/en/economic-governance/1809-20091-togo-plans-new-portal-to-link-smes-with-banks-and-microfinance-firms" target="_blank" rel="noopener">presented an SME financing portal for launch by the end of 2026</a>.<br>The digital agency sets common standards for administrative digitalisation and supplies ready-made technical solutions (<a href="https://digital.gouv.tg/?lang=en" target="_blank" rel="noopener">remit</a>); no standards catalogue is published. Twelve investment-code and free-zone procedures moved online from January 2025 (<a href="https://www.togofirst.com/fr/gouvernance-economique/3101-15657-togo-l-api-zf-digitalise-douze-procedures-administratives-pour-l-implantation-des-entreprises" target="_blank" rel="noopener">procedures</a>), and a decree of 26 August 2026 put investment approval itself through an electronic procedure (<a href="https://www.republiquetogolaise.tg/gestion-publique/2708-12211-conseil-des-ministres-du-26-aout-2026" target="_blank" rel="noopener">decree</a>).</details></td>
+<td>The <a href="https://www.togofirst.com/en/public-services/1712-17829-togo-expands-public-service-digitisation-with-online-civil-registry-platform" target="_blank" rel="noopener">national public service window</a> added twenty-nine energy-sector procedures with other ministries expected from January 2026, and a <a href="https://www.togofirst.com/fr/tic/0204-18629-togo-le-ministere-des-affaires-etrangeres-amorce-la-digitalisation-de-ses-services" target="_blank" rel="noopener">digitalisation programme</a> ran a four-week sprint at the foreign affairs ministry. <details><summary>Full record</summary>2026-09 - a <a href="https://lomebougeinfo.tg/modernisation-du-portail-des-services-publics-togolais/" target="_blank" rel="noopener">modernised public-services portal went live, carrying over logins, after more than 400,000 requests in 2024</a>.<br>2026-09-11 — the identity directorate said <a href="https://atop.tg/citoyennete-300-eleves-filles-recoivent-gratuitement-leur-certificat-de-nationalite/" target="_blank" rel="noopener">the online nationality-certificate platform had processed 179,690 of 241,617 applications, with processing down to about four months</a>.<br>2026-09-17 — the least digitised part of the tax base was addressed directly: the revenue office <a href="https://www.togofirst.com/en/economic-governance/1709-20087-togo-moves-single-business-tax-filing-and-payments-online" target="_blank" rel="noopener">put filing and payment of the single business tax online for microenterprises on the flat-rate regime, on a procedure designed for a basic handset and accepting three mobile money services</a>, taxpayers it covers no longer needing to attend a tax centre (<a href="https://togopresse.tg/faciliter-lacces-aux-services-administratifs-et-le-paiement-en-ligne-la-plateforme-e-tpu-de-lotr-lancee/" target="_blank" rel="noopener">launch</a>). The day after, the credit bureau <a href="https://www.togofirst.com/en/economic-governance/1809-20091-togo-plans-new-portal-to-link-smes-with-banks-and-microfinance-firms" target="_blank" rel="noopener">presented an SME financing portal for launch by the end of 2026</a>.<br>The digital agency sets common standards for administrative digitalisation and supplies ready-made technical solutions (<a href="https://digital.gouv.tg/?lang=en" target="_blank" rel="noopener">remit</a>); no standards catalogue is published. Twelve investment-code and free-zone procedures moved online from January 2025 (<a href="https://www.togofirst.com/fr/gouvernance-economique/3101-15657-togo-l-api-zf-digitalise-douze-procedures-administratives-pour-l-implantation-des-entreprises" target="_blank" rel="noopener">procedures</a>), and a decree of 26 August 2026 put investment approval itself through an electronic procedure (<a href="https://www.republiquetogolaise.tg/gestion-publique/2708-12211-conseil-des-ministres-du-26-aout-2026" target="_blank" rel="noopener">decree</a>).<br>2026-09-28 - <a href="https://www.journaldutogo.com/togo-digitalisation-services-tvt-radio-lome-2026/" target="_blank" rel="noopener">ten services of the state broadcasters went online</a>, from death-notice requests to advertising orders; no usage figure is stated.</details></td>
 <td><span class="badge badge--green">Movement</span></td>
 </tr>
 <tr>
@@ -423,7 +467,7 @@
 </tr>
 <tr>
 <td>Zambia</td>
-<td>The <a href="https://itweb.africa/article/digital-services-strengthen-zambia-finances/JBwEr7n3zk3M6Db2" target="_blank" rel="noopener">national portal</a> reports over 400 services onboarded — a figure stated for the service bus, gateway, portal and payment platform together rather than the portal alone — and an <a href="https://itweb.africa/article/zambia-begins-amending-electronic-government-act/" target="_blank" rel="noopener">electronic government amendment bill</a> is in development. <details><summary>Full record</summary>The Secretary to the Cabinet <a href="https://www.lusakatimes.com/2026/09/04/sc-encourages-smart-office-platform-utilisation/" target="_blank" rel="noopener">directed every government institution to adopt the Smart Office Platform and told the Smart Zambia Institute to report by the end of October 2026 on the onboarding of ministries, provinces, spending agencies and state-owned enterprises</a>. No count of institutions onboarded is published.<br>2026-09-05 - the office system moved beyond ministries: the airports corporation <a href="https://efficacynews.africa/2026/09/05/zacl-becomes-first-state-owned-enterprise-to-adopt-smart-office/" target="_blank" rel="noopener">became the first state-owned enterprise onboarded, the system commissioned and handed over by the Secretary to the Cabinet, with a further 406 staff to be trained across its stations by the end of November</a>.<br>2025-12-17 - the World Bank's <a href="https://www.worldbank.org/en/programs/govtech/gtmi-2025-update" target="_blank" rel="noopener">2025 GovTech Maturity Index placed the country in Group B, significant maturity</a>, the group it held on the <a href="https://documents1.worldbank.org/curated/en/099040723102011827/pdf/P169482059758a0cd095d709f59c065838e.pdf" target="_blank" rel="noopener">2022 edition</a>.<br>2026-09-14 — procurement moved online in volume: <a href="https://www.solwezitoday.com/zambias-103326-tenders-reveal-the-scale-of-the-government-procurement-market/" target="_blank" rel="noopener">103,326 tenders were published through the electronic system in 2025, more than twice the 45,724 of 2024</a>. Tenders published, not contracts awarded.<br>2026-09-24 - the public service management division said <a href="https://www.lusakatimes.com/2026/09/24/funeral-scheme-digital-platform-to-be-rolled-out-in-october/" target="_blank" rel="noopener">a digital platform for the public service funeral scheme, letting members register beneficiaries and track claims online, would roll out in the first week of October</a>.</details></td>
+<td>The <a href="https://itweb.africa/article/digital-services-strengthen-zambia-finances/JBwEr7n3zk3M6Db2" target="_blank" rel="noopener">national portal</a> reports over 400 services onboarded — a figure stated for the service bus, gateway, portal and payment platform together rather than the portal alone — and an <a href="https://itweb.africa/article/zambia-begins-amending-electronic-government-act/" target="_blank" rel="noopener">electronic government amendment bill</a> is in development. <details><summary>Full record</summary>The Secretary to the Cabinet <a href="https://www.lusakatimes.com/2026/09/04/sc-encourages-smart-office-platform-utilisation/" target="_blank" rel="noopener">directed every government institution to adopt the Smart Office Platform and told the Smart Zambia Institute to report by the end of October 2026 on the onboarding of ministries, provinces, spending agencies and state-owned enterprises</a>. No count of institutions onboarded is published.<br>2026-09-05 - the office system moved beyond ministries: the airports corporation <a href="https://efficacynews.africa/2026/09/05/zacl-becomes-first-state-owned-enterprise-to-adopt-smart-office/" target="_blank" rel="noopener">became the first state-owned enterprise onboarded, with 406 staff to be trained by the end of November</a>.<br>2025-12-17 - the World Bank's <a href="https://www.worldbank.org/en/programs/govtech/gtmi-2025-update" target="_blank" rel="noopener">2025 GovTech Maturity Index placed the country in Group B, significant maturity</a>, the group it held on the <a href="https://documents1.worldbank.org/curated/en/099040723102011827/pdf/P169482059758a0cd095d709f59c065838e.pdf" target="_blank" rel="noopener">2022 edition</a>.<br>2026-09-14 — procurement moved online in volume: <a href="https://www.solwezitoday.com/zambias-103326-tenders-reveal-the-scale-of-the-government-procurement-market/" target="_blank" rel="noopener">103,326 tenders were published through the electronic system in 2025, more than twice the 45,724 of 2024</a>. Tenders published, not contracts awarded.<br>2026-09-24 - the public service management division said <a href="https://www.lusakatimes.com/2026/09/24/funeral-scheme-digital-platform-to-be-rolled-out-in-october/" target="_blank" rel="noopener">a digital platform for the public service funeral scheme, letting members register beneficiaries and track claims online, would roll out in the first week of October</a>.<br>2026-09-25 - the information ministry <a href="https://www.lusakatimes.com/2026/09/25/govt-launches-integrated-media-reporting-system/" target="_blank" rel="noopener">launched an in-house media monitoring and reporting system that also tracks the presidential delivery priorities</a>; no cost or rollout date is stated.</details></td>
 <td><span class="badge badge--green">Movement</span></td>
 </tr>
 <tr>
@@ -438,8 +482,8 @@
       <section class="report-colophon">
         <div class="report-colophon__label">About this document</div>
         <dl>
-          <dt>Edition</dt><dd class="edition">2026-09-27-2</dd>
-          <dt>This file</dt><dd>https://corpus.data-landscapers.io/topics/dpi-govtech/dpi-govtech-progress-2026-09-27-2.pdf</dd>
+          <dt>Edition</dt><dd class="edition">2026-09-28</dd>
+          <dt>This file</dt><dd>https://corpus.data-landscapers.io/topics/dpi-govtech/dpi-govtech-progress-2026-09-28.pdf</dd>
           <dt>Feedback</dt><dd><a href="mailto:info@data-landscapers.io?subject=Corpus%20feedback%20%E2%80%94%20Other%20GovTech%20and%20e-Gov%3A%20progress%20report%2C%20September%202025%20%E2%80%93%20September%202026&amp;body=Page%3A%20https%3A//corpus.data-landscapers.io/topics/dpi-govtech/dpi-govtech-progress.html%0A%0AWrong%2C%20missing%2C%20or%20useful%20%E2%80%94%20and%20if%20you%20used%20it%2C%20what%20for%3A%0A%0A">info@data-landscapers.io</a></dd>
           <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a></dd>
         </dl>

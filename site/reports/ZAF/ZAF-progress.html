@@ -6,7 +6,7 @@
 <title>South Africa — progress report, September 2025 – September 2026 — Data Landscapers</title>
 <meta name="description" content="A year in South Africa, indicator by indicator: digital transformation, DPI and data governance — what moved, what stalled, and what is not held.">
 <link rel="canonical" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-progress.html">
-<link rel="stylesheet" href="../../assets/css/main.css?v=a004bc3c">
+<link rel="stylesheet" href="../../assets/css/main.css?v=646ebba6">
 <link rel="stylesheet" href="../../assets/css/corpus.css?v=d55f78b7">
 <link rel="stylesheet" href="../../assets/css/report.css?v=5961328e">
 <link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
@@ -15,7 +15,7 @@
 <meta property="og:url" content="https://corpus.data-landscapers.io/reports/ZAF/ZAF-progress.html">
 <meta property="og:type" content="article">
 <meta property="og:site_name" content="Data Landscapers">
-<meta name="dl-record" content="bf256cfdd040">
+<meta name="dl-record" content="b4bb7bd74f18">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -30,8 +30,8 @@
     "@type": "WebPage",
     "@id": "https://corpus.data-landscapers.io/reports/ZAF/ZAF-progress.html"
   },
-  "datePublished": "2026-09-27",
-  "dateModified": "2026-09-27",
+  "datePublished": "2026-09-28",
+  "dateModified": "2026-09-28",
   "inLanguage": "en",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "isAccessibleForFree": true,
@@ -79,7 +79,7 @@
   "encoding": {
     "@type": "MediaObject",
     "encodingFormat": "application/pdf",
-    "contentUrl": "https://corpus.data-landscapers.io/reports/ZAF/ZAF-progress-2026-09-27.pdf"
+    "contentUrl": "https://corpus.data-landscapers.io/reports/ZAF/ZAF-progress-2026-09-28.pdf"
   }
 }
 </script>
@@ -102,15 +102,59 @@
           <span class="site-logo__sub">Mapping Africa&rsquo;s data landscape</span>
         </span>
       </a>
-      <button class="nav-toggle" aria-label="Toggle navigation" onclick="this.classList.toggle('open'); document.getElementById('site-nav').classList.toggle('open')">
-        <span></span><span></span><span></span>
-      </button>
       <nav class="site-nav" id="site-nav" aria-label="Main navigation">
         <a href="https://corpus.data-landscapers.io/" class="active">Corpus</a>
         <a href="https://data-landscapers.io/writing/">Work in progress</a>
         <a href="https://data-landscapers.io/portfolio/">Portfolio</a>
         <a href="https://data-landscapers.io/about/">About</a>
       </nav>
+      <details class="site-menu" id="site-menu">
+        <summary aria-label="Menu"><span></span><span></span><span></span></summary>
+        <nav class="site-menu__panel" aria-label="Site menu">
+          <ul>
+            <li><a href="https://data-landscapers.io/writing/">Work in progress</a></li>
+            <li><a href="https://data-landscapers.io/portfolio/">Portfolio</a></li>
+            <li><a href="https://data-landscapers.io/about/">About</a></li>
+            <li><a href="https://corpus.data-landscapers.io/">Corpus</a></li>
+            <li><a href="https://corpus.data-landscapers.io/progress/">Progress</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/progress/">Topics</a></li>
+                <li><a href="https://corpus.data-landscapers.io/progress/countries/">Countries</a></li>
+              </ul>
+            </li>
+            <li><a href="https://corpus.data-landscapers.io/bulletin/">Bulletin</a></li>
+            <li><a href="https://corpus.data-landscapers.io/countries/">Countries &amp; Regions</a></li>
+            <li><a href="https://corpus.data-landscapers.io/topics/">Topics</a></li>
+            <li><a href="https://corpus.data-landscapers.io/datasets/">Datasets</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/finance/">Finance</a>
+                  <ul>
+                    <li><a href="https://corpus.data-landscapers.io/finance/">Non-state finance</a></li>
+                    <li><a href="https://corpus.data-landscapers.io/finance/budgets/">Budgets</a></li>
+                  </ul>
+                </li>
+                <li><a href="https://corpus.data-landscapers.io/datasets/data-centres/">Data Centres</a></li>
+              </ul>
+            </li>
+            <li><a href="https://corpus.data-landscapers.io/catalogue/">Catalogue</a></li>
+            <li><a href="https://corpus.data-landscapers.io/methodology/">Methodology</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/methodology/document-lifecycle/">Document Lifecycle</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/process-inventory/">Process Inventory</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/lookups/">Process Lookups</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/changelog/">Change Log</a></li>
+              </ul>
+            </li>
+          </ul>
+        </nav>
+      </details>
+      <script>
+        (function () {
+          var m = document.getElementById('site-menu');
+          document.addEventListener('click', function (e) { if (m.open && !m.contains(e.target)) { m.open = false; } });
+          document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && m.open) { m.open = false; m.querySelector('summary').focus(); } });
+        })();
+      </script>
     </div>
   </header>
 
@@ -142,8 +186,8 @@
         <a class="feedback-ask" href="mailto:info@data-landscapers.io?subject=Corpus%20feedback%20%E2%80%94%20South%20Africa%3A%20progress%20report%2C%20September%202025%20%E2%80%93%20September%202026&amp;body=Page%3A%20https%3A//corpus.data-landscapers.io/reports/ZAF/ZAF-progress.html%0A%0AWrong%2C%20missing%2C%20or%20useful%20%E2%80%94%20and%20if%20you%20used%20it%2C%20what%20for%3A%0A%0A">Useful? Wrong? Tell us</a>
         <h1 class="article-header__title">South Africa: progress report, September 2025 – September 2026</h1>
         <div class="article-header__meta">
-          <div class="article-header__byline" data-edition="2026-09-27">Edition of 2026-09-27 &nbsp;·&nbsp; compiled by Claude Opus from the documents in the Corpus repository</div>
-          <div class="article-header__actions screen-only"><a href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-progress-2026-09-27.pdf" class="btn btn--accent">&darr; PDF</a></div>
+          <div class="article-header__byline" data-edition="2026-09-28">Edition of 2026-09-28 &nbsp;·&nbsp; compiled by Claude Opus from the documents in the Corpus repository</div>
+          <div class="article-header__actions screen-only"><a href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-progress-2026-09-28.pdf" class="btn btn--accent">&darr; PDF</a></div>
         </div>
       </header>
 
@@ -174,7 +218,7 @@
 
 <p>This report asks the same set of questions of every country. The rows below are a fixed frame of indicators, one row each, chosen in advance and covering all thirty-eight subjects the repository tracks — so what appears here is decided by the frame and not by whichever records happened to accumulate. Each row says what happened on that indicator during the period, with every claim linked to the source it rests on.</p>
 <p>Where a row reads <strong><em>No evidence</em></strong>, the repository holds nothing on that indicator. <strong>That is a statement about this repository, not about the country</strong> — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.</p>
-<p><em>The period is 2025-09-01 to 2026-09-27.</em></p>
+<p><em>The period is 2025-09-01 to 2026-09-28.</em></p>
 <p><strong>Progress values.</strong> <em>Movement</em> — some form of progress, however minor, has been recorded. <em>Stalled</em> — a stated target passed without delivery. <em>Regressed</em> — an instrument was withdrawn or neutralised, or a reported position worsened. <em>Mixed</em> — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. <em>No change</em> — the repository holds a standing position and nothing in the period touched it. <strong><em>No evidence</em></strong> — the repository holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in <em>Movement, regulations still pending</em>.</p>
 <h2 id="governance">Governance</h2>
 <table class="indicator">
@@ -202,7 +246,7 @@
 <tr>
 <td>Strategies, plans and policies</td>
 <td>Broadband strategy</td>
-<td>The department <a href="https://www.timeslive.co.za/news/business/2026-08-01-sas-data-price-puzzle/" target="_blank" rel="noopener">tendered a market study toward a Cost to Communicate Roadmap</a>, the regulator <a href="https://www.sundaytimes.timeslive.co.za/news/2026-09-07-ott-prices-in-line-of-fire-icasa-takes-aim-at-netflix-and-whatsapp/" target="_blank" rel="noopener">opened inquiries into telecoms cost and over-the-top services</a>, and <a href="https://www.dailymaverick.co.za/article/2026-08-03-sas-radio-spectrum-revolution-answers-mobile-network-operators-prayers/" target="_blank" rel="noopener">no auction is scheduled, priced or gazetted</a>. <details><summary>Full record</summary>2026-08-01 — the department <a href="https://www.timeslive.co.za/news/business/2026-08-01-sas-data-price-puzzle/" target="_blank" rel="noopener">put a market analysis study out to tender</a>, conceding in the tender document a current policy vacuum and that the price benefits expected from the 2022 spectrum auction remain largely unmet. It names market concentration, spectrum allocation and the burden on prepaid consumers as the structural causes, and asks for a roadmap of short-, medium- and long-term reforms plus an assessment of the regulator's measures.<br>2026-07-24 — the regulator <a href="https://www.gov.za/documents/notices/electronic-communications-act-international-mobile-telecommunications-roadmap-2" target="_blank" rel="noopener">gazetted an IMT Roadmap to 2026 with draft assignment plans</a> and <a href="https://www.itweb.co.za/article/icasa-unveils-roadmap-for-south-africas-6g-future/JBwEr7n3WXOM6Db2" target="_blank" rel="noopener">opened consultation reaching to IMT-2030</a>. The roadmap <a href="https://www.gov.za/documents/notices/electronic-communications-act-international-mobile-telecommunications-roadmap-2" target="_blank" rel="noopener">records 794 MHz assigned against 19,625 MHz identified</a>.<br>Against both, the release itself has not moved: the 2026 frequency plan <a href="https://www.dailymaverick.co.za/article/2026-08-03-sas-radio-spectrum-revolution-answers-mobile-network-operators-prayers/" target="_blank" rel="noopener">targets 1,145 MHz more mid-band spectrum and over 17,250 MHz of mmWave, but no auction has been scheduled, priced or gazetted</a>. A study of why prices are high and a roadmap of what could be assigned are both downstream of an auction nobody has dated.<br>2026-09-04 - the regulator gazetted two section 4B market inquiries, <a href="https://www.ellipsis.co.za/wp-content/uploads/2026/09/Notice-of-Intention-to-Conduct-a-Market-Inquiry-into-the-impact-of-OTT-services-on-licensees-20260409.pdf" target="_blank" rel="noopener">one into over-the-top services' impact on licensees</a> and <a href="https://www.ellipsis.co.za/wp-content/uploads/2026/09/Notice-of-Intention-to-Conduct-a-Market-Inquiry-into-the-affordability-of-telecommunications-services-in-SA-0260409.pdf" target="_blank" rel="noopener">one into the affordability of voice and broadband for low-income, rural and informal users</a>, each in four phases. Neither sets a date for findings.</details></td>
+<td>The department <a href="https://www.timeslive.co.za/news/business/2026-08-01-sas-data-price-puzzle/" target="_blank" rel="noopener">tendered a market study toward a Cost to Communicate Roadmap</a>, the regulator <a href="https://www.sundaytimes.timeslive.co.za/news/2026-09-07-ott-prices-in-line-of-fire-icasa-takes-aim-at-netflix-and-whatsapp/" target="_blank" rel="noopener">opened inquiries into telecoms cost and over-the-top services</a>, and <a href="https://www.dailymaverick.co.za/article/2026-08-03-sas-radio-spectrum-revolution-answers-mobile-network-operators-prayers/" target="_blank" rel="noopener">no auction is scheduled, priced or gazetted</a>. <details><summary>Full record</summary>2026-08-01 — the department <a href="https://www.timeslive.co.za/news/business/2026-08-01-sas-data-price-puzzle/" target="_blank" rel="noopener">put a market analysis study out to tender</a>, conceding a policy vacuum and that the price benefits expected from the 2022 spectrum auction remain largely unmet.<br>2026-07-24 — the regulator <a href="https://www.gov.za/documents/notices/electronic-communications-act-international-mobile-telecommunications-roadmap-2" target="_blank" rel="noopener">gazetted an IMT Roadmap to 2026 with draft assignment plans</a> and <a href="https://www.itweb.co.za/article/icasa-unveils-roadmap-for-south-africas-6g-future/JBwEr7n3WXOM6Db2" target="_blank" rel="noopener">opened consultation reaching to IMT-2030</a>. The roadmap <a href="https://www.gov.za/documents/notices/electronic-communications-act-international-mobile-telecommunications-roadmap-2" target="_blank" rel="noopener">records 794 MHz assigned against 19,625 MHz identified</a>.<br>Against both, the release itself has not moved: the 2026 frequency plan <a href="https://www.dailymaverick.co.za/article/2026-08-03-sas-radio-spectrum-revolution-answers-mobile-network-operators-prayers/" target="_blank" rel="noopener">targets 1,145 MHz more mid-band spectrum and over 17,250 MHz of mmWave, but no auction has been scheduled, priced or gazetted</a>. A study of why prices are high and a roadmap of what could be assigned are both downstream of an auction nobody has dated.<br>2026-09-04 - the regulator gazetted two section 4B market inquiries, <a href="https://www.ellipsis.co.za/wp-content/uploads/2026/09/Notice-of-Intention-to-Conduct-a-Market-Inquiry-into-the-impact-of-OTT-services-on-licensees-20260409.pdf" target="_blank" rel="noopener">one into over-the-top services' impact on licensees</a> and <a href="https://www.ellipsis.co.za/wp-content/uploads/2026/09/Notice-of-Intention-to-Conduct-a-Market-Inquiry-into-the-affordability-of-telecommunications-services-in-SA-0260409.pdf" target="_blank" rel="noopener">one into the affordability of voice and broadband for low-income, rural and informal users</a>, each in four phases. Neither sets a date for findings.<br>2026-09-25 - the minister <a href="https://www.itweb.co.za/article/wireless-open-access-network-licensing-direction-withdrawn/JBwEr7n3lQwM6Db2" target="_blank" rel="noopener">withdrew the 2019 reservation of high-demand spectrum for a wireless open access network that was never licensed</a>; no auction is scheduled.</details></td>
 <td><span class="badge badge--amber">Mixed</span><span class="badge-note">a cost study and a spectrum roadmap advanced while the release they depend on stayed unscheduled</span></td>
 </tr>
 <tr>
@@ -304,7 +348,7 @@
 <tr>
 <td>Data protection</td>
 <td>National data protection readiness</td>
-<td>The regulator set out new enforcement signals (<a href="https://werksmans.com/the-regulator-is-watching-new-enforcement-signals-for-popia-and-paia-compliance/" target="_blank" rel="noopener">briefing</a>) in a month when a nine-month credential exposure surfaced (<a href="https://www.itweb.co.za/article/hungry-lion-customer-creds-online-for-months/6GxRKqYQEDZqb3Wj" target="_blank" rel="noopener">report</a>). <details><summary>Full record</summary>Stealer-log analysis found a fast-food chain's <a href="https://www.itweb.co.za/article/hungry-lion-customer-creds-online-for-months/6GxRKqYQEDZqb3Wj" target="_blank" rel="noopener">customer credentials exposed for about nine months through its web self-service portals</a>.<br>2026-08-31 - the regulator reported <a href="https://www.itweb.co.za/article/inforeg-concerned-by-alarming-rate-of-data-breaches/rxP3jqBE2ZLMA2ye" target="_blank" rel="noopener">more than 8,000 security-compromise reports to date and 1,220 since April, roughly 244 a month, projected to pass 3,000 for the year</a>; its assessments find the public sector putting less effort than the private into appropriate security measures.<br>2026-04-14 - quarterly figures <a href="https://www.itweb.co.za/article/inforeg-raises-alarm-as-data-breaches-hit-788-in-q1/Pero3MZ3wzoqQb6m" target="_blank" rel="noopener">put breaches at roughly 263 a month in the first quarter of 2026 against about 284 a month over April to November 2025</a>. The rate has eased across all three periods held while the cumulative total has not.<br>2026-09-10 - on protecting minors the government declined a blanket measure: the communications minister told parliament in a written answer that <a href="https://www.biometricupdate.com/202609/south-africa-rejects-blanket-social-media-age-verification-for-under-16s" target="_blank" rel="noopener">no blanket policy restricting under-16s from social media is being pursued and that platforms should instead strengthen their own protections against harmful content</a>.<br>A single unnamed <a href="https://www.connectingafrica.com/cybersecurity/sa-s-cell-c-easyequities-and-bidvest-bank-warn-customers-of-data-leak" target="_blank" rel="noopener">verification provider serving a telecom operator, an investment platform and a bank reported a breach on 9 September 2026</a>.<br>2026-06-14 — <a href="https://www.itweb.co.za/article/hollard-rejects-hacking-claim-points-to-mip-cyber-breach/Pero37Z36boMQb6m" target="_blank" rel="noopener">an extortion attack exposed data linked to customers of about 45 insurers</a>; by September, after a reported ransom payment, <a href="https://www.itweb.co.za/article/hollard-data-hits-dark-web-after-mip-hack/wbrpOqg2J5oMDLZn" target="_blank" rel="noopener">one insurer's customer data was on the dark web</a>.</details></td>
+<td>The regulator set out new enforcement signals (<a href="https://werksmans.com/the-regulator-is-watching-new-enforcement-signals-for-popia-and-paia-compliance/" target="_blank" rel="noopener">briefing</a>) in a month when a nine-month credential exposure surfaced (<a href="https://www.itweb.co.za/article/hungry-lion-customer-creds-online-for-months/6GxRKqYQEDZqb3Wj" target="_blank" rel="noopener">report</a>). <details><summary>Full record</summary>A fast-food chain's <a href="https://www.itweb.co.za/article/hungry-lion-customer-creds-online-for-months/6GxRKqYQEDZqb3Wj" target="_blank" rel="noopener">customer credentials were exposed for about nine months</a>.<br>2026-08-31 - the regulator reported <a href="https://www.itweb.co.za/article/inforeg-concerned-by-alarming-rate-of-data-breaches/rxP3jqBE2ZLMA2ye" target="_blank" rel="noopener">more than 8,000 security-compromise reports to date and 1,220 since April, roughly 244 a month, projected to pass 3,000 for the year</a>; its assessments find the public sector making less effort than the private.<br>2026-04-14 - quarterly figures <a href="https://www.itweb.co.za/article/inforeg-raises-alarm-as-data-breaches-hit-788-in-q1/Pero3MZ3wzoqQb6m" target="_blank" rel="noopener">put breaches at roughly 263 a month in the first quarter of 2026 against about 284 a month over April to November 2025</a>. The rate has eased across all three periods held while the cumulative total has not.<br>2026-09-10 - the minister told parliament that <a href="https://www.biometricupdate.com/202609/south-africa-rejects-blanket-social-media-age-verification-for-under-16s" target="_blank" rel="noopener">no blanket restriction on under-16s' social media is being pursued, platforms instead to strengthen their own protections</a>.<br>A single unnamed <a href="https://www.connectingafrica.com/cybersecurity/sa-s-cell-c-easyequities-and-bidvest-bank-warn-customers-of-data-leak" target="_blank" rel="noopener">verification provider serving a telecom operator, an investment platform and a bank reported a breach on 9 September 2026</a>.<br>2026-06-14 — <a href="https://www.itweb.co.za/article/hollard-rejects-hacking-claim-points-to-mip-cyber-breach/Pero37Z36boMQb6m" target="_blank" rel="noopener">an extortion attack exposed data linked to customers of about 45 insurers</a>; by September, after a reported ransom payment, <a href="https://www.itweb.co.za/article/hollard-data-hits-dark-web-after-mip-hack/wbrpOqg2J5oMDLZn" target="_blank" rel="noopener">one insurer's customer data was on the dark web</a>.<br>2026-09-23 - a provincial <a href="https://groundup.news/article/gauteng-panic-app-exposes-crime-reports-users-locations/" target="_blank" rel="noopener">panic-button app exposed crime reporters' names, reports and locations until a news outlet's alert</a>, and <a href="https://dagauteng.org.za/2026/09/da-to-report-e-panic-button-data-breach-to-information-regulator-of-south-africa" target="_blank" rel="noopener">an opposition party is asking the Information Regulator to investigate</a>.</details></td>
 <td><span class="badge badge--amber">Mixed</span><span class="badge-note">the regulator signalled enforcement while a nine-month credential exposure went unreported</span></td>
 </tr>
 <tr>
@@ -504,7 +548,7 @@
 <tr>
 <td>Technical Capacity</td>
 <td>Local capacity to maintain, manage and develop government systems</td>
-<td>An investigation <a href="https://www.citizen.co.za/news/sita-investigation-flags-r2bn-irregular-spending-and-governance-weaknesses/" target="_blank" rel="noopener">reported R2.07bn of irregular expenditure at the state IT agency</a>; its audit opinion <a href="https://www.sita.co.za/sites/default/files/Annual%20Report%202024%20-%202025_0.pdf" target="_blank" rel="noopener">improved from a disclaimer to qualified</a> and <a href="https://www.itweb.co.za/article/sita-in-recovery-mode-says-comms-minister/O2rQGMAEgwDMd1ea" target="_blank" rel="noopener">executive posts have since been filled</a>. <details><summary>Full record</summary>2025-09-29 — the agency's annual report <a href="https://www.sita.co.za/sites/default/files/Annual%20Report%202024%20-%202025_0.pdf" target="_blank" rel="noopener">carried a qualified audit opinion on 2024/25</a>, after <a href="https://www.sita.co.za/sites/default/files/Annual%20Report%202023%20-%202024.pdf" target="_blank" rel="noopener">a disclaimer on 2023/24</a>, and <a href="https://www.sita.co.za/sites/default/files/Annual%20Report%202024%20-%202025_0.pdf" target="_blank" rel="noopener">put its plan for government public cloud across several hyperscalers at 55% implemented against a 100% target, with service level agreements still to be concluded</a>.<br>2026-04 — <a href="https://www.businessday.co.za/companies/2026-09-21-sita-chief-vows-to-rebuild-trust-after-governance-failures/" target="_blank" rel="noopener">a permanent managing director took office, the first since late 2023, as the minister constituted a new board</a>.<br>2026-07 — a public service commission investigation <a href="https://www.citizen.co.za/news/sita-investigation-flags-r2bn-irregular-spending-and-governance-weaknesses/" target="_blank" rel="noopener">reported R2.07bn of irregular expenditure across four audited years and governance weaknesses, with annual performance plan achievement of 42.86% in 2024/25</a>. The 30-day deadline for a recovery plan expired inside this window and no plan is on the record.<br>2026-09-22 — the managing director <a href="https://www.itweb.co.za/article/sita-in-recovery-mode-says-comms-minister/O2rQGMAEgwDMd1ea" target="_blank" rel="noopener">said 60% of executive committee posts had been vacant and that a permanent chief financial officer and executives for supply chain and for network, cloud and platform have since been appointed</a>. No figure yet shows whether delivery to client departments has changed.</details></td>
+<td>An investigation <a href="https://www.citizen.co.za/news/sita-investigation-flags-r2bn-irregular-spending-and-governance-weaknesses/" target="_blank" rel="noopener">reported R2.07bn of irregular expenditure at the state IT agency</a>; its audit opinion <a href="https://www.sita.co.za/sites/default/files/Annual%20Report%202024%20-%202025_0.pdf" target="_blank" rel="noopener">improved from a disclaimer to qualified</a> and <a href="https://www.itweb.co.za/article/sita-in-recovery-mode-says-comms-minister/O2rQGMAEgwDMd1ea" target="_blank" rel="noopener">executive posts have since been filled</a>. <details><summary>Full record</summary>2025-09-29 — the agency's annual report <a href="https://www.sita.co.za/sites/default/files/Annual%20Report%202024%20-%202025_0.pdf" target="_blank" rel="noopener">carried a qualified audit opinion on 2024/25</a>, after <a href="https://www.sita.co.za/sites/default/files/Annual%20Report%202023%20-%202024.pdf" target="_blank" rel="noopener">a disclaimer on 2023/24</a>, and <a href="https://www.sita.co.za/sites/default/files/Annual%20Report%202024%20-%202025_0.pdf" target="_blank" rel="noopener">put its plan for government public cloud across several hyperscalers at 55% implemented against a 100% target, with service level agreements still to be concluded</a>.<br>2026-04 — <a href="https://www.businessday.co.za/companies/2026-09-21-sita-chief-vows-to-rebuild-trust-after-governance-failures/" target="_blank" rel="noopener">a permanent managing director took office, the first since late 2023, as the minister constituted a new board</a>.<br>2026-07 — a public service commission investigation <a href="https://www.citizen.co.za/news/sita-investigation-flags-r2bn-irregular-spending-and-governance-weaknesses/" target="_blank" rel="noopener">reported R2.07bn of irregular expenditure across four audited years and governance weaknesses, with annual performance plan achievement of 42.86% in 2024/25</a>. The 30-day deadline for a recovery plan expired inside this window and no plan is on the record.<br>2026-09-22 — the managing director <a href="https://www.itweb.co.za/article/sita-in-recovery-mode-says-comms-minister/O2rQGMAEgwDMd1ea" target="_blank" rel="noopener">said 60% of executive committee posts had been vacant and that a permanent chief financial officer and executives for supply chain and for network, cloud and platform have since been appointed</a>. No figure yet shows whether delivery to client departments has changed.<br>2026-09 - the minister said the department has <a href="https://www.dailymaverick.co.za/article/2026-09-28-state-it-agency-faces-fork-in-the-road-on-rehabilitation-journey/" target="_blank" rel="noopener">formally begun a structural review to repurpose the agency</a>, with a stated shift to shared multi-tenant platforms; no terms of reference or timetable is published.</details></td>
 <td><span class="badge badge--amber">Mixed</span><span class="badge-note">the audit opinion improved and executive posts were filled while an investigation found governance failures</span></td>
 </tr>
 <tr>
@@ -565,7 +609,7 @@
 <tr>
 <td>Digital Identity and CRVS</td>
 <td>Registration of entire population</td>
-<td>Smart identity services ran at <a href="https://www.businessday.co.za/news/2026-08-21-schreiber-on-track-for-750-bank-branches-for-home-affairs-services/" target="_blank" rel="noopener">410 bank branches by 13 August 2026, with 574,371 applications processed through banks</a>, against 30 branches a year earlier. <details><summary>Full record</summary>2026-08-21 — a departmental reply to Parliament <a href="https://www.businessday.co.za/news/2026-08-21-schreiber-on-track-for-750-bank-branches-for-home-affairs-services/" target="_blank" rel="noopener">put 410 bank branches live as at 13 August 2026 and 574,371 applications processed through banks</a>, against 30 branches across five banks in August 2025. The department commits to at least 200 more and states a possibility of 750 branches during 2026/27, and separately to modernising 75 of the 145 remaining unmodernised local offices this financial year. A <a href="https://www.itweb.co.za/article/online-tool-finds-nearest-smart-id-issuing-bank/nWJadvbNDZDvbjO1" target="_blank" rel="noopener">public branch locator is published</a>.<br>2026-01-28 — issuance itself set a record: <a href="https://www.gov.za/news/media-statements/home-affairs-sets-new-record-delivering-over-four-million-smart-ids-2025-28" target="_blank" rel="noopener">4,002,964 smart identity documents in 2025, up 17%</a>.<br>The branch counts do not form a series — 372 and 408 appear a week apart in August before the 410 in the reply — and the 750 is a possibility stated to Parliament rather than a target. This is the largest measurable delivery in the twelve months, and it is a channel expansion rather than a new system.</details></td>
+<td>Smart identity services ran at <a href="https://mybroadband.co.za/news/government/669076-good-news-for-south-africans-who-want-to-get-a-smart-id-from-their-bank.html" target="_blank" rel="noopener">more than 500 bank branches by 27 September 2026</a>, against 410 in August and 30 branches a year earlier. <details><summary>Full record</summary>2026-08-21 — a departmental reply to Parliament <a href="https://www.businessday.co.za/news/2026-08-21-schreiber-on-track-for-750-bank-branches-for-home-affairs-services/" target="_blank" rel="noopener">put 410 bank branches live as at 13 August 2026 and 574,371 applications processed through banks</a>, against 30 branches across five banks in August 2025. The department separately commits to modernising 75 of the 145 remaining unmodernised local offices this financial year. A <a href="https://www.itweb.co.za/article/online-tool-finds-nearest-smart-id-issuing-bank/nWJadvbNDZDvbjO1" target="_blank" rel="noopener">public branch locator is published</a>.<br>2026-01-28 — issuance itself set a record: <a href="https://www.gov.za/news/media-statements/home-affairs-sets-new-record-delivering-over-four-million-smart-ids-2025-28" target="_blank" rel="noopener">4,002,964 smart identity documents in 2025, up 17%</a>.<br>The branch counts do not form a series — 372 and 408 appear a week apart in August before the 410 in the reply. This is the largest measurable delivery in the twelve months, and it is a channel expansion rather than a new system.<br>2026-09-27 - the bank channel <a href="https://mybroadband.co.za/news/government/669076-good-news-for-south-africans-who-want-to-get-a-smart-id-from-their-bank.html" target="_blank" rel="noopener">reached more than 500 branches across four banks, at least one in every province, against a stated target of 750 by the end of 2026 with first-time smart ID and passport applications and home delivery</a>; a deputy director-general said the green ID book would be phased out within two years, with no date set.</details></td>
 <td><span class="badge badge--green">Movement</span></td>
 </tr>
 <tr>
@@ -1186,8 +1230,8 @@
       <section class="report-colophon">
         <div class="report-colophon__label">About this document</div>
         <dl>
-          <dt>Edition</dt><dd class="edition">2026-09-27</dd>
-          <dt>This file</dt><dd>https://corpus.data-landscapers.io/reports/ZAF/ZAF-progress-2026-09-27.pdf</dd>
+          <dt>Edition</dt><dd class="edition">2026-09-28</dd>
+          <dt>This file</dt><dd>https://corpus.data-landscapers.io/reports/ZAF/ZAF-progress-2026-09-28.pdf</dd>
           <dt>Feedback</dt><dd><a href="mailto:info@data-landscapers.io?subject=Corpus%20feedback%20%E2%80%94%20South%20Africa%3A%20progress%20report%2C%20September%202025%20%E2%80%93%20September%202026&amp;body=Page%3A%20https%3A//corpus.data-landscapers.io/reports/ZAF/ZAF-progress.html%0A%0AWrong%2C%20missing%2C%20or%20useful%20%E2%80%94%20and%20if%20you%20used%20it%2C%20what%20for%3A%0A%0A">info@data-landscapers.io</a></dd>
           <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a></dd>
         </dl>

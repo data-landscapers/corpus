@@ -6,7 +6,7 @@
 <title>Rwanda: status report — Data Landscapers</title>
 <meta name="description" content="Rwanda: digital transformation, digital public infrastructure and data governance — policy, regulation, finance, connectivity and skills, each claim sourced.">
 <link rel="canonical" href="https://corpus.data-landscapers.io/reports/RWA/RWA-status.html">
-<link rel="stylesheet" href="../../assets/css/main.css?v=a004bc3c">
+<link rel="stylesheet" href="../../assets/css/main.css?v=646ebba6">
 <link rel="stylesheet" href="../../assets/css/corpus.css?v=d55f78b7">
 <link rel="stylesheet" href="../../assets/css/report.css?v=5961328e">
 <link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
@@ -15,7 +15,7 @@
 <meta property="og:url" content="https://corpus.data-landscapers.io/reports/RWA/RWA-status.html">
 <meta property="og:type" content="article">
 <meta property="og:site_name" content="Data Landscapers">
-<meta name="dl-record" content="9ec2a2793560">
+<meta name="dl-record" content="c014b6bded4c">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -30,8 +30,8 @@
     "@type": "WebPage",
     "@id": "https://corpus.data-landscapers.io/reports/RWA/RWA-status.html"
   },
-  "datePublished": "2026-09-25",
-  "dateModified": "2026-09-25",
+  "datePublished": "2026-09-28",
+  "dateModified": "2026-09-28",
   "inLanguage": "en",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "isAccessibleForFree": true,
@@ -79,7 +79,7 @@
   "encoding": {
     "@type": "MediaObject",
     "encodingFormat": "application/pdf",
-    "contentUrl": "https://corpus.data-landscapers.io/reports/RWA/RWA-status-2026-09-25.pdf"
+    "contentUrl": "https://corpus.data-landscapers.io/reports/RWA/RWA-status-2026-09-28.pdf"
   }
 }
 </script>
@@ -102,15 +102,59 @@
           <span class="site-logo__sub">Mapping Africa&rsquo;s data landscape</span>
         </span>
       </a>
-      <button class="nav-toggle" aria-label="Toggle navigation" onclick="this.classList.toggle('open'); document.getElementById('site-nav').classList.toggle('open')">
-        <span></span><span></span><span></span>
-      </button>
       <nav class="site-nav" id="site-nav" aria-label="Main navigation">
         <a href="https://corpus.data-landscapers.io/" class="active">Corpus</a>
         <a href="https://data-landscapers.io/writing/">Work in progress</a>
         <a href="https://data-landscapers.io/portfolio/">Portfolio</a>
         <a href="https://data-landscapers.io/about/">About</a>
       </nav>
+      <details class="site-menu" id="site-menu">
+        <summary aria-label="Menu"><span></span><span></span><span></span></summary>
+        <nav class="site-menu__panel" aria-label="Site menu">
+          <ul>
+            <li><a href="https://data-landscapers.io/writing/">Work in progress</a></li>
+            <li><a href="https://data-landscapers.io/portfolio/">Portfolio</a></li>
+            <li><a href="https://data-landscapers.io/about/">About</a></li>
+            <li><a href="https://corpus.data-landscapers.io/">Corpus</a></li>
+            <li><a href="https://corpus.data-landscapers.io/progress/">Progress</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/progress/">Topics</a></li>
+                <li><a href="https://corpus.data-landscapers.io/progress/countries/">Countries</a></li>
+              </ul>
+            </li>
+            <li><a href="https://corpus.data-landscapers.io/bulletin/">Bulletin</a></li>
+            <li><a href="https://corpus.data-landscapers.io/countries/">Countries &amp; Regions</a></li>
+            <li><a href="https://corpus.data-landscapers.io/topics/">Topics</a></li>
+            <li><a href="https://corpus.data-landscapers.io/datasets/">Datasets</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/finance/">Finance</a>
+                  <ul>
+                    <li><a href="https://corpus.data-landscapers.io/finance/">Non-state finance</a></li>
+                    <li><a href="https://corpus.data-landscapers.io/finance/budgets/">Budgets</a></li>
+                  </ul>
+                </li>
+                <li><a href="https://corpus.data-landscapers.io/datasets/data-centres/">Data Centres</a></li>
+              </ul>
+            </li>
+            <li><a href="https://corpus.data-landscapers.io/catalogue/">Catalogue</a></li>
+            <li><a href="https://corpus.data-landscapers.io/methodology/">Methodology</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/methodology/document-lifecycle/">Document Lifecycle</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/process-inventory/">Process Inventory</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/lookups/">Process Lookups</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/changelog/">Change Log</a></li>
+              </ul>
+            </li>
+          </ul>
+        </nav>
+      </details>
+      <script>
+        (function () {
+          var m = document.getElementById('site-menu');
+          document.addEventListener('click', function (e) { if (m.open && !m.contains(e.target)) { m.open = false; } });
+          document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && m.open) { m.open = false; m.querySelector('summary').focus(); } });
+        })();
+      </script>
     </div>
   </header>
 
@@ -142,8 +186,8 @@
         <a class="feedback-ask" href="mailto:info@data-landscapers.io?subject=Corpus%20feedback%20%E2%80%94%20Rwanda%3A%20status%20report&amp;body=Page%3A%20https%3A//corpus.data-landscapers.io/reports/RWA/RWA-status.html%0A%0AWrong%2C%20missing%2C%20or%20useful%20%E2%80%94%20and%20if%20you%20used%20it%2C%20what%20for%3A%0A%0A">Useful? Wrong? Tell us</a>
         <h1 class="article-header__title">Rwanda: status report</h1>
         <div class="article-header__meta">
-          <div class="article-header__byline" data-edition="2026-09-25">Edition of 2026-09-25 &nbsp;·&nbsp; compiled by Claude Opus from the documents in the Corpus repository</div>
-          <div class="article-header__actions screen-only"><a href="https://corpus.data-landscapers.io/reports/RWA/RWA-status-2026-09-25.pdf" class="btn btn--accent">&darr; PDF</a></div>
+          <div class="article-header__byline" data-edition="2026-09-28">Edition of 2026-09-28 &nbsp;·&nbsp; compiled by Claude Opus from the documents in the Corpus repository</div>
+          <div class="article-header__actions screen-only"><a href="https://corpus.data-landscapers.io/reports/RWA/RWA-status-2026-09-28.pdf" class="btn btn--accent">&darr; PDF</a></div>
         </div>
       </header>
 
@@ -296,7 +340,7 @@
 <p><a href="https://www.worldbank.org/en/results/2025/11/19/social-registries-digital-platforms-inclusive-service-delivery" target="_blank" rel="noopener">The registry covers 13.8 million people (2025)</a>. <a href="https://www.newtimes.co.rw/article/37878/news/rwanda/360000-claimsin-new-social-registryhandled-since-2024" target="_blank" rel="noopener">It classifies households by cross-referencing self-reported income against social security and tax records</a>, <a href="https://health.bmz.de/stories/rwandan-government-launches-imibereho-dynamic-social-registry/" target="_blank" rel="noopener">is validated and deduplicated against national ID data</a> and <a href="https://documents1.worldbank.org/curated/en/099110125052039198/pdf/P177492-ca120f39-7c21-4cfe-81a4-1136ed5e0ede.pdf" target="_blank" rel="noopener">is integrated with more than ten government systems (2025)</a>. <a href="https://www.newtimes.co.rw/article/37878/news/rwanda/360000-claimsin-new-social-registryhandled-since-2024" target="_blank" rel="noopener">Its dominant source of misclassification is stale asset records — households that sold land or vehicles without completing the legal transfer are still scored as owners — a linkage failure rather than misreporting</a>.</p>
 <p>Land is the deepest register. <a href="https://www.un.org/globalgeospatial/sites/default/files/2026-04/rwanda_land_administration_case_study_unggkic.pdf" target="_blank" rel="noopener">Tenure regularisation demarcated 10.4 million parcels</a>, <a href="https://www.environment.gov.rw/news-detail/rwanda-launched-electronic-land-registration-certificate-system" target="_blank" rel="noopener">issued 8.8 million titles and put every land record in a digital registry nationwide under the e-Title system</a>, and <a href="https://www.un.org/globalgeospatial/sites/default/files/2026-04/rwanda_land_administration_case_study_unggkic.pdf" target="_blank" rel="noopener">the Land Administration Information System connects to more than 14 other government systems</a>. <a href="https://realrwanda.rw/en/kayonza-land-correction-drive-issues-over-28000-titles-cuts-boundary-wrangles" target="_blank" rel="noopener">A six-month correction exercise in Kayonza issued more than 28,000 titles to 17 June 2026, leaving about 4,700 untitled for ownership disputes, bank mortgages and government wetland wrongly registered to individuals</a>.</p>
 <p>The business register is complete in form, thin in coverage. <a href="https://org.rdb.rw/business-registration/" target="_blank" rel="noopener">Registration is fully online and free, with a certificate issued within six working hours</a> and <a href="https://www.rra.gov.rw/en/domestic-tax-services/registration-de-registration/default-title" target="_blank" rel="noopener">a single Taxpayer Identification Number issued as part of the process</a>, but <a href="http://alpha.statistics.gov.rw/sites/default/files/documents/2026-03/IBES2024_Main%20Report_English_0.pdf" target="_blank" rel="noopener">only 36,706 of an estimated 278,060 enterprises were formally registered in 2024, 13.2%</a>. <a href="https://etax.rra.gov.rw/nidAssignedTIN/" target="_blank" rel="noopener">The tax register is tied to the national identity system for individual taxpayers, while institutional taxpayers are registered under other identifiers</a>.</p>
-<p><a href="https://statistics.gov.rw/sites/default/files/documents/2025-04/Rwanda%20Vital%20Statistics%20Report%202024_N.pdf" target="_blank" rel="noopener">Civil registration runs on a national centralised system that is digital at every level from health facilities and cells through sectors and districts to embassies</a> and <a href="https://www.nida.gov.rw/index.php?eID=dumpFile&amp;f=92643&amp;t=f&amp;token=7ea9d6c4602ce4d2ae43fc6b669787b89edad1c1" target="_blank" rel="noopener">generates a unique national identification number linked to the population register on registration</a>. <a href="https://statistics.gov.rw/statistical-publications/vital-statistics/rwanda-vital-statistics-report-2025" target="_blank" rel="noopener">Birth registration completeness reached 92.9% in 2025, from 90.3% in 2024</a>. <a href="https://unstats.un.org/legal-identity-agenda/documents/Paper/2023/CRVSID-Rwanda.pdf" target="_blank" rel="noopener">Events occurring in communities rather than health facilities are still notified on paper first</a>. <a href="https://www.ktpress.rw/2024/05/the-9-5-million-rwandans-on-voter-list/" target="_blank" rel="noopener">The voter register is a fully electronic extract from the identification agency's population database, every citizen entered on turning 18 and identified at the polls by national ID card</a>.</p>
+<p><a href="https://statistics.gov.rw/sites/default/files/documents/2025-04/Rwanda%20Vital%20Statistics%20Report%202024_N.pdf" target="_blank" rel="noopener">Civil registration runs on a national centralised system that is digital at every level from health facilities and cells through sectors and districts to embassies</a> and <a href="https://www.nida.gov.rw/index.php?eID=dumpFile&amp;f=92643&amp;t=f&amp;token=7ea9d6c4602ce4d2ae43fc6b669787b89edad1c1" target="_blank" rel="noopener">generates a unique national identification number linked to the population register on registration</a>. <a href="https://statistics.gov.rw/statistical-publications/vital-statistics/rwanda-vital-statistics-report-2025" target="_blank" rel="noopener">Birth registration completeness reached 92.9% in 2025, from 90.3% in 2024</a>. Deaths in the community moved off paper in 2026: <a href="https://www.linkedin.com/pulse/make-every-life-count-dr-tom-frieden-72x6c/" target="_blank" rel="noopener">village leaders now notify each one from a basic phone with the deceased's national ID number, the system introduced nationwide in spring 2026 and logging about 10,000 community deaths in its first months</a>, where <a href="https://unstats.un.org/legal-identity-agenda/documents/Paper/2023/CRVSID-Rwanda.pdf" target="_blank" rel="noopener">community events were notified on paper first in 2023</a>. <a href="https://www.ktpress.rw/2024/05/the-9-5-million-rwandans-on-voter-list/" target="_blank" rel="noopener">The voter register is a fully electronic extract from the identification agency's population database, every citizen entered on turning 18 and identified at the polls by national ID card</a>.</p>
 <h3 id="sectoral-management-information-systems">Sectoral management information systems</h3>
 <!-- dpi.mis -->
 
@@ -440,8 +484,8 @@
       <section class="report-colophon">
         <div class="report-colophon__label">About this document</div>
         <dl>
-          <dt>Edition</dt><dd class="edition">2026-09-25</dd>
-          <dt>This file</dt><dd>https://corpus.data-landscapers.io/reports/RWA/RWA-status-2026-09-25.pdf</dd>
+          <dt>Edition</dt><dd class="edition">2026-09-28</dd>
+          <dt>This file</dt><dd>https://corpus.data-landscapers.io/reports/RWA/RWA-status-2026-09-28.pdf</dd>
           <dt>Feedback</dt><dd><a href="mailto:info@data-landscapers.io?subject=Corpus%20feedback%20%E2%80%94%20Rwanda%3A%20status%20report&amp;body=Page%3A%20https%3A//corpus.data-landscapers.io/reports/RWA/RWA-status.html%0A%0AWrong%2C%20missing%2C%20or%20useful%20%E2%80%94%20and%20if%20you%20used%20it%2C%20what%20for%3A%0A%0A">info@data-landscapers.io</a></dd>
           <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a></dd>
         </dl>

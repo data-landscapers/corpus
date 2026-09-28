@@ -6,7 +6,7 @@
 <title>AI — progress report, September 2025 – September 2026 — Data Landscapers</title>
 <meta name="description" content="AI across Africa over a year: digital transformation, DPI and data governance, country by country — what moved, what stalled, and what is not held.">
 <link rel="canonical" href="https://corpus.data-landscapers.io/topics/tech-ai/tech-ai-progress.html">
-<link rel="stylesheet" href="../../assets/css/main.css?v=a004bc3c">
+<link rel="stylesheet" href="../../assets/css/main.css?v=646ebba6">
 <link rel="stylesheet" href="../../assets/css/corpus.css?v=d55f78b7">
 <link rel="stylesheet" href="../../assets/css/report.css?v=5961328e">
 <link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
@@ -15,7 +15,7 @@
 <meta property="og:url" content="https://corpus.data-landscapers.io/topics/tech-ai/tech-ai-progress.html">
 <meta property="og:type" content="article">
 <meta property="og:site_name" content="Data Landscapers">
-<meta name="dl-record" content="04ef90dc6107">
+<meta name="dl-record" content="fba6346f536e">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -30,8 +30,8 @@
     "@type": "WebPage",
     "@id": "https://corpus.data-landscapers.io/topics/tech-ai/tech-ai-progress.html"
   },
-  "datePublished": "2026-09-27",
-  "dateModified": "2026-09-27",
+  "datePublished": "2026-09-28",
+  "dateModified": "2026-09-28",
   "inLanguage": "en",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "isAccessibleForFree": true,
@@ -79,7 +79,7 @@
   "encoding": {
     "@type": "MediaObject",
     "encodingFormat": "application/pdf",
-    "contentUrl": "https://corpus.data-landscapers.io/topics/tech-ai/tech-ai-progress-2026-09-27-2.pdf"
+    "contentUrl": "https://corpus.data-landscapers.io/topics/tech-ai/tech-ai-progress-2026-09-28.pdf"
   }
 }
 </script>
@@ -102,15 +102,59 @@
           <span class="site-logo__sub">Mapping Africa&rsquo;s data landscape</span>
         </span>
       </a>
-      <button class="nav-toggle" aria-label="Toggle navigation" onclick="this.classList.toggle('open'); document.getElementById('site-nav').classList.toggle('open')">
-        <span></span><span></span><span></span>
-      </button>
       <nav class="site-nav" id="site-nav" aria-label="Main navigation">
         <a href="https://corpus.data-landscapers.io/" class="active">Corpus</a>
         <a href="https://data-landscapers.io/writing/">Work in progress</a>
         <a href="https://data-landscapers.io/portfolio/">Portfolio</a>
         <a href="https://data-landscapers.io/about/">About</a>
       </nav>
+      <details class="site-menu" id="site-menu">
+        <summary aria-label="Menu"><span></span><span></span><span></span></summary>
+        <nav class="site-menu__panel" aria-label="Site menu">
+          <ul>
+            <li><a href="https://data-landscapers.io/writing/">Work in progress</a></li>
+            <li><a href="https://data-landscapers.io/portfolio/">Portfolio</a></li>
+            <li><a href="https://data-landscapers.io/about/">About</a></li>
+            <li><a href="https://corpus.data-landscapers.io/">Corpus</a></li>
+            <li><a href="https://corpus.data-landscapers.io/progress/">Progress</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/progress/">Topics</a></li>
+                <li><a href="https://corpus.data-landscapers.io/progress/countries/">Countries</a></li>
+              </ul>
+            </li>
+            <li><a href="https://corpus.data-landscapers.io/bulletin/">Bulletin</a></li>
+            <li><a href="https://corpus.data-landscapers.io/countries/">Countries &amp; Regions</a></li>
+            <li><a href="https://corpus.data-landscapers.io/topics/">Topics</a></li>
+            <li><a href="https://corpus.data-landscapers.io/datasets/">Datasets</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/finance/">Finance</a>
+                  <ul>
+                    <li><a href="https://corpus.data-landscapers.io/finance/">Non-state finance</a></li>
+                    <li><a href="https://corpus.data-landscapers.io/finance/budgets/">Budgets</a></li>
+                  </ul>
+                </li>
+                <li><a href="https://corpus.data-landscapers.io/datasets/data-centres/">Data Centres</a></li>
+              </ul>
+            </li>
+            <li><a href="https://corpus.data-landscapers.io/catalogue/">Catalogue</a></li>
+            <li><a href="https://corpus.data-landscapers.io/methodology/">Methodology</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/methodology/document-lifecycle/">Document Lifecycle</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/process-inventory/">Process Inventory</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/lookups/">Process Lookups</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/changelog/">Change Log</a></li>
+              </ul>
+            </li>
+          </ul>
+        </nav>
+      </details>
+      <script>
+        (function () {
+          var m = document.getElementById('site-menu');
+          document.addEventListener('click', function (e) { if (m.open && !m.contains(e.target)) { m.open = false; } });
+          document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && m.open) { m.open = false; m.querySelector('summary').focus(); } });
+        })();
+      </script>
     </div>
   </header>
 
@@ -142,8 +186,8 @@
         <a class="feedback-ask" href="mailto:info@data-landscapers.io?subject=Corpus%20feedback%20%E2%80%94%20AI%3A%20progress%20report%2C%20September%202025%20%E2%80%93%20September%202026&amp;body=Page%3A%20https%3A//corpus.data-landscapers.io/topics/tech-ai/tech-ai-progress.html%0A%0AWrong%2C%20missing%2C%20or%20useful%20%E2%80%94%20and%20if%20you%20used%20it%2C%20what%20for%3A%0A%0A">Useful? Wrong? Tell us</a>
         <h1 class="article-header__title">AI: progress report, September 2025 – September 2026</h1>
         <div class="article-header__meta">
-          <div class="article-header__byline" data-edition="2026-09-27-2">Edition of 2026-09-27-2 &nbsp;·&nbsp; compiled by Claude Opus from the documents in the Corpus repository</div>
-          <div class="article-header__actions screen-only"><a href="https://corpus.data-landscapers.io/topics/tech-ai/tech-ai-progress-2026-09-27-2.pdf" class="btn btn--accent">&darr; PDF</a></div>
+          <div class="article-header__byline" data-edition="2026-09-28">Edition of 2026-09-28 &nbsp;·&nbsp; compiled by Claude Opus from the documents in the Corpus repository</div>
+          <div class="article-header__actions screen-only"><a href="https://corpus.data-landscapers.io/topics/tech-ai/tech-ai-progress-2026-09-28.pdf" class="btn btn--accent">&darr; PDF</a></div>
         </div>
       </header>
 
@@ -322,7 +366,7 @@
 </tr>
 <tr>
 <td>Malawi</td>
-<td>Government activity is <a href="https://ncst.mw/ncst-takes-part-in-validation-workshop-for-the-malawi-artificial-intelligence-readiness-assessment-methodology-ram-report/" target="_blank" rel="noopener">at readiness and validation stage</a>; no artificial-intelligence system in the administration is on record. <details><summary>Full record</summary>2026-02 - a <a href="https://leymanck.com/ministry-validates-digital-transformation-and-ai-strategies/" target="_blank" rel="noopener">national validation workshop on the draft digital transformation and artificial intelligence strategies was held over 18 and 19 February 2026</a>. The <a href="https://itweb.africa/article/malawi-moves-to-strengthen-ai-ecosystem/j5alr7QAwoV7pYQk" target="_blank" rel="noopener">draft strategy remains pre-adoption with no adoption date on record</a>.<br>2026-03 - a <a href="https://digmap.pppc.mw/dmap-accelerates-digital-transformation-as-government-eyes-ai-driven-public-service-delivery/" target="_blank" rel="noopener">high-level training session on artificial intelligence for principal secretaries was held on 5 March</a>.<br>2026-07 - the science and technology commission, with the education ministry and the cultural organisation, <a href="https://ncst.mw/ncst-takes-part-in-validation-workshop-for-the-malawi-artificial-intelligence-readiness-assessment-methodology-ram-report/" target="_blank" rel="noopener">took the readiness assessment to a multistakeholder validation workshop on 22 July</a>.<br>Three events, no adopted strategy, no governance institution and no deployed system: the administration is preparing to decide rather than deciding.</details></td>
+<td>Government activity is <a href="https://ncst.mw/ncst-takes-part-in-validation-workshop-for-the-malawi-artificial-intelligence-readiness-assessment-methodology-ram-report/" target="_blank" rel="noopener">at readiness and validation stage</a>; no artificial-intelligence system in the administration is on record. <details><summary>Full record</summary>2026-02 - a <a href="https://leymanck.com/ministry-validates-digital-transformation-and-ai-strategies/" target="_blank" rel="noopener">national validation workshop on the draft digital transformation and artificial intelligence strategies was held over 18 and 19 February 2026</a>. The <a href="https://itweb.africa/article/malawi-moves-to-strengthen-ai-ecosystem/j5alr7QAwoV7pYQk" target="_blank" rel="noopener">draft strategy remains pre-adoption with no adoption date on record</a>.<br>2026-03 - a <a href="https://digmap.pppc.mw/dmap-accelerates-digital-transformation-as-government-eyes-ai-driven-public-service-delivery/" target="_blank" rel="noopener">high-level training session on artificial intelligence for principal secretaries was held on 5 March</a>.<br>2026-07 - the science and technology commission, with the education ministry and the cultural organisation, <a href="https://ncst.mw/ncst-takes-part-in-validation-workshop-for-the-malawi-artificial-intelligence-readiness-assessment-methodology-ram-report/" target="_blank" rel="noopener">took the readiness assessment to a multistakeholder validation workshop on 22 July</a>.<br>Three events, no adopted strategy, no governance institution and no deployed system: the administration is preparing to decide rather than deciding.<br>2026-09-28 - the communications regulator <a href="https://iafrica.com/malawis-telecoms-regulator-proposes-ai-surveillance-network-for-blantyre/" target="_blank" rel="noopener">recommended AI cameras with number-plate recognition and a central command centre for Blantyre</a>, with police as a partner; no cost, supplier, timeline or rule on footage is published.</details></td>
 <td><span class="badge badge--grey">No change</span><span class="badge-note">a readiness assessment and a draft strategy with no system in the administration behind them</span></td>
 </tr>
 <tr>
@@ -422,7 +466,7 @@
 </tr>
 <tr>
 <td>Uganda</td>
-<td>A <a href="https://ict.go.ug/media/news/uganda-launches-an-artificial-intelligence-ai-language-model" target="_blank" rel="noopener">homegrown language model was launched in October 2025</a> to widen access to government services, and a <a href="https://ict.go.ug/media/news/government-of-uganda-and-unesco-validate-ugandas-ai-readiness-report" target="_blank" rel="noopener">readiness assessment was validated in May 2026</a>. <details><summary>Full record</summary>2025-10 - the ICT ministry <a href="https://ict.go.ug/media/news/uganda-launches-an-artificial-intelligence-ai-language-model" target="_blank" rel="noopener">launched a homegrown artificial-intelligence language model, framed as widening citizen access to government services</a>.<br>2026-03 - <a href="https://ict.go.ug/media/news/ministry-engages-stakeholders-on-ugandas-national-emerging-technologies-strategy" target="_blank" rel="noopener">nationwide stakeholder consultations on a National AI and Emerging Technologies Strategy</a> ran across the country, including at university innovation hubs.<br>2026-06 - a <a href="https://ict.go.ug/media/news/government-of-uganda-and-unesco-validate-ugandas-ai-readiness-report" target="_blank" rel="noopener">readiness assessment prepared with UNESCO was validated at a workshop in Kampala on 26 May 2026</a>, feeding the same strategy.<br>What is absent is deployment. No government administrative process in this repository is recorded as running on artificial intelligence: the police chatbot is planned, the strategy is unpublished, and the readiness report itself is not held - so what exists is a language model and a set of documents about intent.</details></td>
+<td>A <a href="https://ict.go.ug/media/news/uganda-launches-an-artificial-intelligence-ai-language-model" target="_blank" rel="noopener">homegrown language model was launched in October 2025</a> to widen access to government services, and a <a href="https://ict.go.ug/media/news/government-of-uganda-and-unesco-validate-ugandas-ai-readiness-report" target="_blank" rel="noopener">readiness assessment was validated in May 2026</a>. <details><summary>Full record</summary>2025-10 - the ICT ministry <a href="https://ict.go.ug/media/news/uganda-launches-an-artificial-intelligence-ai-language-model" target="_blank" rel="noopener">launched a homegrown artificial-intelligence language model, framed as widening citizen access to government services</a>.<br>2026-03 - <a href="https://ict.go.ug/media/news/ministry-engages-stakeholders-on-ugandas-national-emerging-technologies-strategy" target="_blank" rel="noopener">nationwide stakeholder consultations on a National AI and Emerging Technologies Strategy</a> ran across the country, including at university innovation hubs.<br>2026-06 - a <a href="https://ict.go.ug/media/news/government-of-uganda-and-unesco-validate-ugandas-ai-readiness-report" target="_blank" rel="noopener">readiness assessment prepared with UNESCO was validated at a workshop in Kampala on 26 May 2026</a>, feeding the same strategy.<br>What is absent is deployment. No government administrative process in this repository is recorded as running on artificial intelligence: the police chatbot is planned, the strategy is unpublished, and the readiness report itself is not held - so what exists is a language model and a set of documents about intent.<br>2026-09-25 - the ICT minister said the communications regulator is <a href="https://nilepost.co.ug/news/373591/govt-eyes-ai-tool-to-tackle-rising-nude-explicit-content-on-social-media" target="_blank" rel="noopener">procuring an AI system to identify and filter sexually explicit and other harmful content before it is distributed online</a>, required to work in local languages; its supplier, cost, targets, legal basis and deployment date are not disclosed.</details></td>
 <td><span class="badge badge--green">Movement</span></td>
 </tr>
 <tr>
@@ -856,7 +900,7 @@
 </tr>
 <tr>
 <td>Kenya</td>
-<td>The country is one of <a href="https://iafrica.com/gsma-and-five-african-governments-launch-atlas-umoja-ai-to-scale-nigerias-language-model-template-across-the-continent/" target="_blank" rel="noopener">five governments pooling datasets</a> for an open-source African-language template, and hosts a sovereign artificial-intelligence cloud. <details><summary>Full record</summary>No national funding commitment, language list or delivery date is stated for the pooling (<a href="https://iafrica.com/gsma-and-five-african-governments-launch-atlas-umoja-ai-to-scale-nigerias-language-model-template-across-the-continent/" target="_blank" rel="noopener">launch</a>, <a href="https://www.gsma.com/newsroom/all-documents/gsma-welcomes-abuja-declaration-on-meaningful-connectivity-for-africa-and-joins-partners-to-launch-atlas-umoja/" target="_blank" rel="noopener">declaration</a>).<br>A platform marketed as the country's first sovereign-hosted cloud for such workloads runs them without sending data offshore, with no customer count, capacity or revenue figure published (<a href="https://itweb.africa/article/ixafrica-hosts-kenyas-first-sovereign-hosted-ai-cloud/rxP3jMBE3V47A2ye" target="_blank" rel="noopener">sovereign cloud</a>, <a href="https://capitalfm.africa/uae-kenya-tech-partnership-gains-momentum-as-ai-investments-grow/" target="_blank" rel="noopener">partnership context</a>).<br>A proposed centre of African excellence for applied artificial intelligence with a bilateral partner is still at preliminary-consultation stage with no formalised agreement and nothing on file since February 2026 (<a href="https://itweb.africa/article/kenya-germany-forge-path-for-ai-centre/" target="_blank" rel="noopener">centre</a>).<br>A digital media city and an artificial-intelligence data centre at the technopolis had a foreign export-import bank complete a due-diligence mission in August 2026, with no commitment amount, financing instrument or construction date stated (<a href="https://techafricanews.com/2026/08/21/kenya-and-kexim-advance-talks-on-digital-media-city-project-at-konza-technopolis/" target="_blank" rel="noopener">due diligence</a>, <a href="https://konza.go.ke/kenya-signs-a-financing-agreement-with-republic-of-korea-for-the-development-of-a-digital-media-city-at-konza-technopolis/" target="_blank" rel="noopener">earlier agreement</a>).<br>2026-09 - the Kenya Medical Research Institute <a href="https://www.itweb.co.za/article/r101m-uct-project-brings-ai-microscopy-to-africa/LPp6V7rBYJb7DKQz" target="_blank" rel="noopener">is a partner in a four-year, GBP 4.4m programme led from Cape Town pairing open-source microscopes with machine-learning image analysis for infectious-disease research</a>; no Kenyan budget share or installation date is stated.<br>2026-09-24 - a Maseno University team <a href="https://techreviewafrica.com/news/7404/" target="_blank" rel="noopener">began onboarding Dholuo speakers for a speech dataset</a>, with no size or release date.</details></td>
+<td>The country is one of <a href="https://iafrica.com/gsma-and-five-african-governments-launch-atlas-umoja-ai-to-scale-nigerias-language-model-template-across-the-continent/" target="_blank" rel="noopener">five governments pooling datasets</a> for an open-source African-language template, and hosts a sovereign artificial-intelligence cloud. <details><summary>Full record</summary>No national funding commitment, language list or delivery date is stated for the pooling (<a href="https://iafrica.com/gsma-and-five-african-governments-launch-atlas-umoja-ai-to-scale-nigerias-language-model-template-across-the-continent/" target="_blank" rel="noopener">launch</a>, <a href="https://www.gsma.com/newsroom/all-documents/gsma-welcomes-abuja-declaration-on-meaningful-connectivity-for-africa-and-joins-partners-to-launch-atlas-umoja/" target="_blank" rel="noopener">declaration</a>).<br>A platform marketed as the country's first sovereign-hosted cloud for such workloads runs them without sending data offshore, with no customer count, capacity or revenue figure published (<a href="https://itweb.africa/article/ixafrica-hosts-kenyas-first-sovereign-hosted-ai-cloud/rxP3jMBE3V47A2ye" target="_blank" rel="noopener">sovereign cloud</a>, <a href="https://capitalfm.africa/uae-kenya-tech-partnership-gains-momentum-as-ai-investments-grow/" target="_blank" rel="noopener">partnership context</a>).<br>A proposed centre of African excellence for applied artificial intelligence with a bilateral partner is still at preliminary-consultation stage with no formalised agreement and nothing on file since February 2026 (<a href="https://itweb.africa/article/kenya-germany-forge-path-for-ai-centre/" target="_blank" rel="noopener">centre</a>).<br>A digital media city and an artificial-intelligence data centre at the technopolis had a foreign export-import bank complete a due-diligence mission in August 2026, with no commitment amount, financing instrument or construction date stated (<a href="https://techafricanews.com/2026/08/21/kenya-and-kexim-advance-talks-on-digital-media-city-project-at-konza-technopolis/" target="_blank" rel="noopener">due diligence</a>, <a href="https://konza.go.ke/kenya-signs-a-financing-agreement-with-republic-of-korea-for-the-development-of-a-digital-media-city-at-konza-technopolis/" target="_blank" rel="noopener">earlier agreement</a>).<br>2026-09 - the Kenya Medical Research Institute <a href="https://www.itweb.co.za/article/r101m-uct-project-brings-ai-microscopy-to-africa/LPp6V7rBYJb7DKQz" target="_blank" rel="noopener">is a partner in a four-year, GBP 4.4m programme led from Cape Town pairing open-source microscopes with machine-learning image analysis for infectious-disease research</a>; no Kenyan budget share or installation date is stated.<br>2026-09-24 - a Maseno University team <a href="https://techreviewafrica.com/news/7404/" target="_blank" rel="noopener">began onboarding Dholuo speakers for a speech dataset</a>, with no size or release date.<br>2026-09 - a <a href="https://techreviewafrica.com/news/7473/kenya-and-cisco-deepen-partnership-on-ai-skills-cybersecurity-and-digital-transformation" target="_blank" rel="noopener">defence-sector AI centre of excellence is in development</a>; no site, budget or date is published.</details></td>
 <td><span class="badge badge--green">Movement</span></td>
 </tr>
 <tr>
@@ -1278,7 +1322,7 @@
 </tr>
 <tr>
 <td>Zimbabwe</td>
-<td>A <a href="https://www.newsday.co.zw/local-news/article/200059127/zimbabwe-expands-ai-traffic-cameras-to-tackle-us400m-road-crash-losses" target="_blank" rel="noopener">nationwide expansion of artificial-intelligence traffic cameras</a> was announced under a smart policing programme, and a separate <a href="https://www.newsday.co.zw/local-news/article/200059121/harare-says-ai-traffic-cameras-roll-out-to-improve-road-safety-avoid-entrapment-concerns" target="_blank" rel="noopener">municipal traffic system</a> is rolling out across the capital's central business district amid entrapment concerns. <details><summary>Full record</summary>The national rollout's supporting figure — an annual crash cost — is the transport ministry's, given in support of the rollout (<a href="https://www.newsday.co.zw/local-news/article/200059127/zimbabwe-expands-ai-traffic-cameras-to-tackle-us400m-road-crash-losses" target="_blank" rel="noopener">national</a>).<br>The municipal system is distinct from the national police programme and is reported alongside entrapment concerns (<a href="https://www.newsday.co.zw/local-news/article/200059121/harare-says-ai-traffic-cameras-roll-out-to-improve-road-safety-avoid-entrapment-concerns" target="_blank" rel="noopener">municipal</a>).<br>An earlier capital traffic management system is reported in operation and described as developed by the state operator, with every claim in the source relayed second-hand (<a href="https://www.biometricupdate.com/202507/zimbabwe-looks-forward-to-digital-id-rollout-after-population-registry-reform" target="_blank" rel="noopener">earlier</a>). Three overlapping camera programmes, none with a stated retention rule or legal basis.</details></td>
+<td>A <a href="https://www.newsday.co.zw/local-news/article/200059127/zimbabwe-expands-ai-traffic-cameras-to-tackle-us400m-road-crash-losses" target="_blank" rel="noopener">nationwide expansion of artificial-intelligence traffic cameras</a> was announced under a smart policing programme, and a separate <a href="https://www.newsday.co.zw/local-news/article/200059121/harare-says-ai-traffic-cameras-roll-out-to-improve-road-safety-avoid-entrapment-concerns" target="_blank" rel="noopener">municipal traffic system</a> is rolling out across the capital's central business district amid entrapment concerns. <details><summary>Full record</summary>The national rollout's supporting figure — an annual crash cost — is the transport ministry's, given in support of the rollout (<a href="https://www.newsday.co.zw/local-news/article/200059127/zimbabwe-expands-ai-traffic-cameras-to-tackle-us400m-road-crash-losses" target="_blank" rel="noopener">national</a>).<br>The municipal system is distinct from the national police programme and is reported alongside entrapment concerns (<a href="https://www.newsday.co.zw/local-news/article/200059121/harare-says-ai-traffic-cameras-roll-out-to-improve-road-safety-avoid-entrapment-concerns" target="_blank" rel="noopener">municipal</a>).<br>An earlier capital traffic management system is reported in operation and described as developed by the state operator, with every claim in the source relayed second-hand (<a href="https://www.biometricupdate.com/202507/zimbabwe-looks-forward-to-digital-id-rollout-after-population-registry-reform" target="_blank" rel="noopener">earlier</a>). Three overlapping camera programmes, none with a stated retention rule or legal basis.<br>2026-09-27 - the police said <a href="https://www.zimbabwesituation.com/news/govt-pursues-traffic-violators-as-4m-offences-caught-on-camera/" target="_blank" rel="noopener">20 AI cameras had logged more than four million violations, up from 2.3 million in mid-August, and offenders are being contacted to pay fines</a> before the system is formally commissioned; no appeal route or retention rule is published.</details></td>
 <td><span class="badge badge--green">Movement</span></td>
 </tr>
 </tbody>
@@ -1288,8 +1332,8 @@
       <section class="report-colophon">
         <div class="report-colophon__label">About this document</div>
         <dl>
-          <dt>Edition</dt><dd class="edition">2026-09-27-2</dd>
-          <dt>This file</dt><dd>https://corpus.data-landscapers.io/topics/tech-ai/tech-ai-progress-2026-09-27-2.pdf</dd>
+          <dt>Edition</dt><dd class="edition">2026-09-28</dd>
+          <dt>This file</dt><dd>https://corpus.data-landscapers.io/topics/tech-ai/tech-ai-progress-2026-09-28.pdf</dd>
           <dt>Feedback</dt><dd><a href="mailto:info@data-landscapers.io?subject=Corpus%20feedback%20%E2%80%94%20AI%3A%20progress%20report%2C%20September%202025%20%E2%80%93%20September%202026&amp;body=Page%3A%20https%3A//corpus.data-landscapers.io/topics/tech-ai/tech-ai-progress.html%0A%0AWrong%2C%20missing%2C%20or%20useful%20%E2%80%94%20and%20if%20you%20used%20it%2C%20what%20for%3A%0A%0A">info@data-landscapers.io</a></dd>
           <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a></dd>
         </dl>

@@ -6,7 +6,7 @@
 <title>Togo: status report — Data Landscapers</title>
 <meta name="description" content="Togo: digital transformation, digital public infrastructure and data governance — policy, regulation, finance, connectivity and skills, each claim sourced.">
 <link rel="canonical" href="https://corpus.data-landscapers.io/reports/TGO/TGO-status.html">
-<link rel="stylesheet" href="../../assets/css/main.css?v=a004bc3c">
+<link rel="stylesheet" href="../../assets/css/main.css?v=646ebba6">
 <link rel="stylesheet" href="../../assets/css/corpus.css?v=d55f78b7">
 <link rel="stylesheet" href="../../assets/css/report.css?v=5961328e">
 <link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
@@ -15,7 +15,7 @@
 <meta property="og:url" content="https://corpus.data-landscapers.io/reports/TGO/TGO-status.html">
 <meta property="og:type" content="article">
 <meta property="og:site_name" content="Data Landscapers">
-<meta name="dl-record" content="bb4e6df8c2c1">
+<meta name="dl-record" content="dcaf7d05d347">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -30,8 +30,8 @@
     "@type": "WebPage",
     "@id": "https://corpus.data-landscapers.io/reports/TGO/TGO-status.html"
   },
-  "datePublished": "2026-09-25",
-  "dateModified": "2026-09-25",
+  "datePublished": "2026-09-28",
+  "dateModified": "2026-09-28",
   "inLanguage": "en",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "isAccessibleForFree": true,
@@ -79,7 +79,7 @@
   "encoding": {
     "@type": "MediaObject",
     "encodingFormat": "application/pdf",
-    "contentUrl": "https://corpus.data-landscapers.io/reports/TGO/TGO-status-2026-09-25.pdf"
+    "contentUrl": "https://corpus.data-landscapers.io/reports/TGO/TGO-status-2026-09-28.pdf"
   }
 }
 </script>
@@ -102,15 +102,59 @@
           <span class="site-logo__sub">Mapping Africa&rsquo;s data landscape</span>
         </span>
       </a>
-      <button class="nav-toggle" aria-label="Toggle navigation" onclick="this.classList.toggle('open'); document.getElementById('site-nav').classList.toggle('open')">
-        <span></span><span></span><span></span>
-      </button>
       <nav class="site-nav" id="site-nav" aria-label="Main navigation">
         <a href="https://corpus.data-landscapers.io/" class="active">Corpus</a>
         <a href="https://data-landscapers.io/writing/">Work in progress</a>
         <a href="https://data-landscapers.io/portfolio/">Portfolio</a>
         <a href="https://data-landscapers.io/about/">About</a>
       </nav>
+      <details class="site-menu" id="site-menu">
+        <summary aria-label="Menu"><span></span><span></span><span></span></summary>
+        <nav class="site-menu__panel" aria-label="Site menu">
+          <ul>
+            <li><a href="https://data-landscapers.io/writing/">Work in progress</a></li>
+            <li><a href="https://data-landscapers.io/portfolio/">Portfolio</a></li>
+            <li><a href="https://data-landscapers.io/about/">About</a></li>
+            <li><a href="https://corpus.data-landscapers.io/">Corpus</a></li>
+            <li><a href="https://corpus.data-landscapers.io/progress/">Progress</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/progress/">Topics</a></li>
+                <li><a href="https://corpus.data-landscapers.io/progress/countries/">Countries</a></li>
+              </ul>
+            </li>
+            <li><a href="https://corpus.data-landscapers.io/bulletin/">Bulletin</a></li>
+            <li><a href="https://corpus.data-landscapers.io/countries/">Countries &amp; Regions</a></li>
+            <li><a href="https://corpus.data-landscapers.io/topics/">Topics</a></li>
+            <li><a href="https://corpus.data-landscapers.io/datasets/">Datasets</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/finance/">Finance</a>
+                  <ul>
+                    <li><a href="https://corpus.data-landscapers.io/finance/">Non-state finance</a></li>
+                    <li><a href="https://corpus.data-landscapers.io/finance/budgets/">Budgets</a></li>
+                  </ul>
+                </li>
+                <li><a href="https://corpus.data-landscapers.io/datasets/data-centres/">Data Centres</a></li>
+              </ul>
+            </li>
+            <li><a href="https://corpus.data-landscapers.io/catalogue/">Catalogue</a></li>
+            <li><a href="https://corpus.data-landscapers.io/methodology/">Methodology</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/methodology/document-lifecycle/">Document Lifecycle</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/process-inventory/">Process Inventory</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/lookups/">Process Lookups</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/changelog/">Change Log</a></li>
+              </ul>
+            </li>
+          </ul>
+        </nav>
+      </details>
+      <script>
+        (function () {
+          var m = document.getElementById('site-menu');
+          document.addEventListener('click', function (e) { if (m.open && !m.contains(e.target)) { m.open = false; } });
+          document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && m.open) { m.open = false; m.querySelector('summary').focus(); } });
+        })();
+      </script>
     </div>
   </header>
 
@@ -142,8 +186,8 @@
         <a class="feedback-ask" href="mailto:info@data-landscapers.io?subject=Corpus%20feedback%20%E2%80%94%20Togo%3A%20status%20report&amp;body=Page%3A%20https%3A//corpus.data-landscapers.io/reports/TGO/TGO-status.html%0A%0AWrong%2C%20missing%2C%20or%20useful%20%E2%80%94%20and%20if%20you%20used%20it%2C%20what%20for%3A%0A%0A">Useful? Wrong? Tell us</a>
         <h1 class="article-header__title">Togo: status report</h1>
         <div class="article-header__meta">
-          <div class="article-header__byline" data-edition="2026-09-25">Edition of 2026-09-25 &nbsp;·&nbsp; compiled by Claude Opus from the documents in the Corpus repository</div>
-          <div class="article-header__actions screen-only"><a href="https://corpus.data-landscapers.io/reports/TGO/TGO-status-2026-09-25.pdf" class="btn btn--accent">&darr; PDF</a></div>
+          <div class="article-header__byline" data-edition="2026-09-28">Edition of 2026-09-28 &nbsp;·&nbsp; compiled by Claude Opus from the documents in the Corpus repository</div>
+          <div class="article-header__actions screen-only"><a href="https://corpus.data-landscapers.io/reports/TGO/TGO-status-2026-09-28.pdf" class="btn btn--accent">&darr; PDF</a></div>
         </div>
       </header>
 
@@ -287,7 +331,7 @@
 <h3 id="digital-identity-and-crvs">Digital Identity and CRVS</h3>
 <!-- dpi.id -->
 
-<p><a href="https://www.togofirst.com/fr/services/2304-18802-togo-plus-de-6-millions-de-citoyens-disposent-d-un-niu-a-fin-2025" target="_blank" rel="noopener">More than 6 million Togolese held a Numéro d'Identification Unique at the end of December 2025</a>, through an enrolment campaign moving prefecture by prefecture — Golfe, then <a href="https://www.togofirst.com/en/itc/1208-16898-togo-launches-biometric-id-registration-in-agoe-nyive-on-august-20" target="_blank" rel="noopener">Agoè-Nyivé from 20 August 2025</a>, Savanes, <a href="https://www.togofirst.com/en/itc/1911-17603-togo-advances-digital-id-program-with-new-enrollment-phase-in-maritime-region" target="_blank" rel="noopener">the Maritime region from 22 November 2025</a>, <a href="https://www.togofirst.com/fr/services-publics/2301-18047-identification-biometrique-l-enregistrement-de-masse-se-poursuit-dans-le-zio-jusqu-au-18-fevrier" target="_blank" rel="noopener">Zio until 18 February 2026</a> and <a href="https://www.togofirst.com/fr/social/1105-18935-togo-l-anid-prepare-une-nouvelle-phase-d-enregistrement-biometrique-dans-les-plateaux-ouest" target="_blank" rel="noopener">Plateaux-Ouest from May 2026</a>. The programme's stated goal had been <a href="https://documents.worldbank.org/curated/en/099122123072524831" target="_blank" rel="noopener">8 million people registered by June 2024</a>.</p>
+<p><a href="https://levisionnaire.tg/e-id-togo-plus-de-6-millions-de-personnes-enregistrees-la-region-de-la-kara-prochaine-etape/" target="_blank" rel="noopener">More than six million people were registered and about 5.9 million identity cards produced when enrolment closed in the Centrale region on 26 September 2026, nearly 80 per cent of them distributed on the agency's figures, with Kara the last region to cover, from October to December 2026</a>. <a href="https://www.togofirst.com/fr/services/2304-18802-togo-plus-de-6-millions-de-citoyens-disposent-d-un-niu-a-fin-2025" target="_blank" rel="noopener">More than 6 million already held a Numéro d'Identification Unique at the end of December 2025</a>, through an enrolment campaign moving prefecture by prefecture — Golfe, then <a href="https://www.togofirst.com/en/itc/1208-16898-togo-launches-biometric-id-registration-in-agoe-nyive-on-august-20" target="_blank" rel="noopener">Agoè-Nyivé from 20 August 2025</a>, Savanes, <a href="https://www.togofirst.com/en/itc/1911-17603-togo-advances-digital-id-program-with-new-enrollment-phase-in-maritime-region" target="_blank" rel="noopener">the Maritime region from 22 November 2025</a>, <a href="https://www.togofirst.com/fr/services-publics/2301-18047-identification-biometrique-l-enregistrement-de-masse-se-poursuit-dans-le-zio-jusqu-au-18-fevrier" target="_blank" rel="noopener">Zio until 18 February 2026</a> and <a href="https://www.togofirst.com/fr/social/1105-18935-togo-l-anid-prepare-une-nouvelle-phase-d-enregistrement-biometrique-dans-les-plateaux-ouest" target="_blank" rel="noopener">Plateaux-Ouest from May 2026</a>. The programme's stated goal had been <a href="https://documents.worldbank.org/curated/en/099122123072524831" target="_blank" rel="noopener">8 million people registered by June 2024</a>.</p>
 <!-- derived -->
 <p>That leaves the register covering something over half the population at end-2025, and roughly three-quarters of the eight-million target.</p>
 <p><a href="https://anid.gouv.tg/wp-content/uploads/2024/11/Loi-2020-009_E-Id_Togo.pdf" target="_blank" rel="noopener">Law No. 2020-009 of 10 September 2020 creates ANID, the NIU and the e-ID</a>, <a href="https://jo.gouv.tg/sites/default/files/JO/JOS_24_06_2022-67E%20ANNEE%20N%C2%B025%20BIS.pdf" target="_blank" rel="noopener">amended in June 2022</a>, and makes the number <a href="https://anid.gouv.tg/en/faq-en/" target="_blank" rel="noopener">legal proof of identity before the public administration</a>. Registration is <a href="https://anid.gouv.tg/wp-content/uploads/2024/11/Loi-2020-009_E-Id_Togo.pdf" target="_blank" rel="noopener">not compulsory for individuals, though public bodies must record and use the NIU when they identify someone</a>, which settles the question in practice. Enrolment <a href="https://anid.gouv.tg/wp-content/uploads/2024/11/Loi-2020-009_E-Id_Togo.pdf" target="_blank" rel="noopener">captures a facial photograph, ten fingerprints and both irises</a>, with <a href="https://anid.gouv.tg/wp-content/uploads/2024/11/Loi-2020-009_E-Id_Togo.pdf" target="_blank" rel="noopener">under-fives registered on demographic data alone against a parent's number</a>; <a href="https://citizenshiprightsafrica.org/wp-content/uploads/2020/12/Togo-Loi-relative-a-lidentification-biometrique-2020.pdf" target="_blank" rel="noopener">every resident is eligible, refugees and asylum seekers included</a>; and <a href="https://anid.gouv.tg/en/faq-en/" target="_blank" rel="noopener">both are free</a>, unlike the paper card, which <a href="https://anid.gouv.tg/en/biometric-identification-in-togo-towards-a-profound-transformation-of-socio-economic-life-with-e-id/" target="_blank" rel="noopener">reaches only a small minority of Togolese on the agency's own account</a>.</p>
@@ -451,8 +495,8 @@
       <section class="report-colophon">
         <div class="report-colophon__label">About this document</div>
         <dl>
-          <dt>Edition</dt><dd class="edition">2026-09-25</dd>
-          <dt>This file</dt><dd>https://corpus.data-landscapers.io/reports/TGO/TGO-status-2026-09-25.pdf</dd>
+          <dt>Edition</dt><dd class="edition">2026-09-28</dd>
+          <dt>This file</dt><dd>https://corpus.data-landscapers.io/reports/TGO/TGO-status-2026-09-28.pdf</dd>
           <dt>Feedback</dt><dd><a href="mailto:info@data-landscapers.io?subject=Corpus%20feedback%20%E2%80%94%20Togo%3A%20status%20report&amp;body=Page%3A%20https%3A//corpus.data-landscapers.io/reports/TGO/TGO-status.html%0A%0AWrong%2C%20missing%2C%20or%20useful%20%E2%80%94%20and%20if%20you%20used%20it%2C%20what%20for%3A%0A%0A">info@data-landscapers.io</a></dd>
           <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a></dd>
         </dl>
