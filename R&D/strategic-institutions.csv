@@ -1,0 +1,37 @@
+tier,institution,sector,note
+1 sovereign spine,Presidency,government,
+1 sovereign spine,Parliament,government,
+1 sovereign spine,Foreign Affairs,government,
+1 sovereign spine,Defence,government,usually shares one domain with the Armed Forces; seed once
+1 sovereign spine,Armed Forces,government,see Defence
+1 sovereign spine,Police,government,
+1 sovereign spine,Justice,government,ministry and the judiciary; the courts portal is often separate
+1 sovereign spine,Treasury / Finance,government,
+1 sovereign spine,Revenue Service,government,
+1 sovereign spine,Customs,government,often within the revenue service; seed separately only where it has its own domain
+1 sovereign spine,Intelligence,government,
+1 sovereign spine,Interior / Home Affairs,government,was 'Security' on the first list; the ministry that owns the domain
+1 sovereign spine,Central Bank,government,
+1 sovereign spine,Commercial Banks,bank,top ten by assets from the central bank's licensed-institution list
+2 citizen data,Civil registry / National ID authority,government,
+2 citizen data,Data protection authority,government,
+2 citizen data,Electoral commission,government,
+2 citizen data,Statistics office,government,
+2 citizen data,Immigration / Passports,government,often under Interior; the passport system is usually a foreign vendor
+2 citizen data,Health ministry / National health insurance,government,
+2 citizen data,Social protection / Social registry,government,
+2 citizen data,Land registry,government,
+3 money and critical services,National payment switch,government,e.g. KenSwitch NIBSS BankservAfrica; may be private or bank-owned
+3 money and critical services,Stock exchange,government,usually private; seed anyway
+3 money and critical services,Securities regulator,government,
+3 money and critical services,Sovereign wealth fund / National pension fund,government,
+3 money and critical services,Public procurement authority,government,the e-procurement portal specifically
+3 money and critical services,Energy utility,government,OT-adjacent estate
+3 money and critical services,Ports authority,government,OT-adjacent estate
+3 money and critical services,State-owned telco / National backbone operator,government,
+4 digital state,E-government agency,government,the portal and shared services; was 'IT Agencies' on the first list
+4 digital state,National data centre / Government cloud operator,government,e.g. Galaxy Backbone Konza SITA; must be seeded so its ranges are recognised as the sovereign bucket
+4 digital state,Cybersecurity agency / National CERT,government,
+4 digital state,Communications regulator,government,
+5 oversight,Audit office,government,
+5 oversight,Anti-corruption commission,government,

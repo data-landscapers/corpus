@@ -144,3 +144,8 @@ logs/.alerts-run-token
 # somebody else's document, is often tens of megabytes, and OSINT already holds it —
 # `lookups/artefact-md5-index.csv` is how a sitting proves the bytes are the same ones.
 budgets/.documents/
+
+# The hyperscaler scan's downloaded range files and RDAP/RIPEstat cache (R&D/HYPERSCALER-SCAN.md).
+# Refetched or re-queried on demand; the scan outputs under R&D/scan/{ISO3}/ are the record.
+R&D/scan/ranges/
+R&D/scan/cache/

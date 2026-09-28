@@ -1,0 +1,26 @@
+asn,owner,category,note
+16509,Amazon,us-hyperscaler-offshore,address outside the published AWS ranges; region unknown
+14618,Amazon,us-hyperscaler-offshore,address outside the published AWS ranges; region unknown
+8075,Microsoft,us-hyperscaler-offshore,address outside the Azure service tags (often Microsoft 365); region unknown
+8068,Microsoft,us-hyperscaler-offshore,
+15169,Google,us-hyperscaler-offshore,address outside the published Google ranges
+396982,Google Cloud,us-hyperscaler-offshore,
+31898,Oracle Cloud,us-hyperscaler-offshore,
+13335,Cloudflare,cdn-origin-unknown,
+209242,Cloudflare,cdn-origin-unknown,
+20940,Akamai,cdn-origin-unknown,
+16625,Akamai,cdn-origin-unknown,
+54113,Fastly,cdn-origin-unknown,
+19551,Imperva,cdn-origin-unknown,
+45102,Alibaba Cloud,chinese-cloud,
+37963,Alibaba Cloud,chinese-cloud,
+136907,Huawei Cloud,chinese-cloud,
+55990,Huawei Cloud,chinese-cloud,
+132203,Tencent Cloud,chinese-cloud,
+16276,OVH,commercial-host,
+24940,Hetzner,commercial-host,
+51167,Contabo,commercial-host,
+14061,DigitalOcean,commercial-host,
+63949,Akamai Connected Cloud (Linode),commercial-host,
+20473,Vultr,commercial-host,
+37130,State Information Technology Agency (SITA),national-dc,South Africa's government IT agency
