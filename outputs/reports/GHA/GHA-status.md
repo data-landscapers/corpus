@@ -1,6 +1,6 @@
 ---
 title: Ghana: status report
-compiled: 2026-09-27
+compiled: 2026-09-28
 place: GHA
 region: XWA
 built_by: STATUS-INIT
@@ -179,7 +179,7 @@ Civil registration underneath is thinner. [Birth registration completeness stand
 ### Digital Payments and Fintech
 <!-- dpi.pay -->
 
-Ghana's payment rails are vast and almost entirely single-network: mobile money carried [954 million transactions worth GH¢492.9 billion in June 2026](https://www.myjoyonline.com/mobile-money-transactions-hit-gh%c2%a2492-9bn-in-june/), while the interoperable service handled [33.5 million transactions worth GH¢6.2 billion in the same month, roughly 1.3 per cent of the total](https://www.myjoyonline.com/mobile-money-transactions-hit-gh%c2%a2492-9bn-in-june/). [Registered wallets reached 84.6 million by June 2026, of which 26.4 million were active](https://www.myjoyonline.com/mobile-money-transactions-hit-gh%c2%a2492-9bn-in-june/); [75.7 per cent of adults owned a mobile money account (2024)](https://datatopics.worldbank.org/g20fidata/country/ghana).
+Ghana's payment rails are vast and almost entirely single-network: mobile money carried [1,046 million transactions worth GH¢518.8 billion in August 2026](https://www.bog.gov.gh/wp-content/uploads/2026/09/Summary-of-Economic-and-Financial-Data-September-2026.pdf), while the interoperable service handled [35.7 million transactions worth GH¢6.5 billion in the same month, roughly 1.3 per cent of the total](https://www.bog.gov.gh/wp-content/uploads/2026/09/Summary-of-Economic-and-Financial-Data-September-2026.pdf). [Registered accounts reached 85.8 million by August 2026, of which 26.4 million were active](https://www.bog.gov.gh/wp-content/uploads/2026/09/Summary-of-Economic-and-Financial-Data-September-2026.pdf); [75.7 per cent of adults owned a mobile money account (2024)](https://datatopics.worldbank.org/g20fidata/country/ghana).
 
 The infrastructure is the central bank's own: [GhIPSS, a Bank of Ghana subsidiary, runs instant pay, mobile money interoperability, e-zwich, the national switch, the clearing house and the GhQR code standard](https://ghipss.net/media-center/newletters/industry-performance). [Person-to-person transfer dominates it: 282.95 million of 290.31 million interoperable transactions in 2025](https://ghipss.net/media-center/newletters/industry-performance), while [business settlement runs over instant pay subject to a GHS 50,000 per-transaction cap](https://www.bog.gov.gh/wp-content/uploads/2024/09/Payment-Systems-Oversight-Annual-Report-2023.pdf). Government both pays and collects on these rails: [the LEAP cash grant began piloting mobile money payments through GhanaPay in 50 districts in August 2025](https://www.mogcsp.gov.gh/piloting-of-mobile-money-payments-for-leap-beneficiaries/), the [99th cycle paying GH¢139.3 million to 350,580 households in December 2025](https://www.mogcsp.gov.gh/government-begins-99th-cycle-of-leap-cash-grant-payments).
 

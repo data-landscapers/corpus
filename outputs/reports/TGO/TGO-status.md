@@ -1,12 +1,12 @@
 ---
 title: Togo: status report
-compiled: 2026-09-25
+compiled: 2026-09-28
 place: TGO
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-25
 intersections_read: 10
-sources_cited: 194
+sources_cited: 195
 sections_written: 39
 not_established: 2
 acquire_lines: 40
@@ -196,7 +196,7 @@ Nothing joins those pairs into a whole, and the identity number is not doing tha
 ### Digital Identity and CRVS
 <!-- dpi.id -->
 
-[More than 6 million Togolese held a Numéro d'Identification Unique at the end of December 2025](https://www.togofirst.com/fr/services/2304-18802-togo-plus-de-6-millions-de-citoyens-disposent-d-un-niu-a-fin-2025), through an enrolment campaign moving prefecture by prefecture — Golfe, then [Agoè-Nyivé from 20 August 2025](https://www.togofirst.com/en/itc/1208-16898-togo-launches-biometric-id-registration-in-agoe-nyive-on-august-20), Savanes, [the Maritime region from 22 November 2025](https://www.togofirst.com/en/itc/1911-17603-togo-advances-digital-id-program-with-new-enrollment-phase-in-maritime-region), [Zio until 18 February 2026](https://www.togofirst.com/fr/services-publics/2301-18047-identification-biometrique-l-enregistrement-de-masse-se-poursuit-dans-le-zio-jusqu-au-18-fevrier) and [Plateaux-Ouest from May 2026](https://www.togofirst.com/fr/social/1105-18935-togo-l-anid-prepare-une-nouvelle-phase-d-enregistrement-biometrique-dans-les-plateaux-ouest). The programme's stated goal had been [8 million people registered by June 2024](https://documents.worldbank.org/curated/en/099122123072524831).
+[More than six million people were registered and about 5.9 million identity cards produced when enrolment closed in the Centrale region on 26 September 2026, nearly 80 per cent of them distributed on the agency's figures, with Kara the last region to cover, from October to December 2026](https://levisionnaire.tg/e-id-togo-plus-de-6-millions-de-personnes-enregistrees-la-region-de-la-kara-prochaine-etape/). [More than 6 million already held a Numéro d'Identification Unique at the end of December 2025](https://www.togofirst.com/fr/services/2304-18802-togo-plus-de-6-millions-de-citoyens-disposent-d-un-niu-a-fin-2025), through an enrolment campaign moving prefecture by prefecture — Golfe, then [Agoè-Nyivé from 20 August 2025](https://www.togofirst.com/en/itc/1208-16898-togo-launches-biometric-id-registration-in-agoe-nyive-on-august-20), Savanes, [the Maritime region from 22 November 2025](https://www.togofirst.com/en/itc/1911-17603-togo-advances-digital-id-program-with-new-enrollment-phase-in-maritime-region), [Zio until 18 February 2026](https://www.togofirst.com/fr/services-publics/2301-18047-identification-biometrique-l-enregistrement-de-masse-se-poursuit-dans-le-zio-jusqu-au-18-fevrier) and [Plateaux-Ouest from May 2026](https://www.togofirst.com/fr/social/1105-18935-togo-l-anid-prepare-une-nouvelle-phase-d-enregistrement-biometrique-dans-les-plateaux-ouest). The programme's stated goal had been [8 million people registered by June 2024](https://documents.worldbank.org/curated/en/099122123072524831).
 
 <!-- derived -->
 That leaves the register covering something over half the population at end-2025, and roughly three-quarters of the eight-million target.

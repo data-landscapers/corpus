@@ -1,12 +1,12 @@
 ---
 title: Rwanda: status report
-compiled: 2026-09-25
+compiled: 2026-09-28
 place: RWA
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 9
-sources_cited: 174
+sources_cited: 175
 sections_written: 39
 not_established: 1
 acquire_lines: 55
@@ -208,7 +208,7 @@ Land is the deepest register. [Tenure regularisation demarcated 10.4 million par
 
 The business register is complete in form, thin in coverage. [Registration is fully online and free, with a certificate issued within six working hours](https://org.rdb.rw/business-registration/) and [a single Taxpayer Identification Number issued as part of the process](https://www.rra.gov.rw/en/domestic-tax-services/registration-de-registration/default-title), but [only 36,706 of an estimated 278,060 enterprises were formally registered in 2024, 13.2%](http://alpha.statistics.gov.rw/sites/default/files/documents/2026-03/IBES2024_Main%20Report_English_0.pdf). [The tax register is tied to the national identity system for individual taxpayers, while institutional taxpayers are registered under other identifiers](https://etax.rra.gov.rw/nidAssignedTIN/).
 
-[Civil registration runs on a national centralised system that is digital at every level from health facilities and cells through sectors and districts to embassies](https://statistics.gov.rw/sites/default/files/documents/2025-04/Rwanda%20Vital%20Statistics%20Report%202024_N.pdf) and [generates a unique national identification number linked to the population register on registration](https://www.nida.gov.rw/index.php?eID=dumpFile&f=92643&t=f&token=7ea9d6c4602ce4d2ae43fc6b669787b89edad1c1). [Birth registration completeness reached 92.9% in 2025, from 90.3% in 2024](https://statistics.gov.rw/statistical-publications/vital-statistics/rwanda-vital-statistics-report-2025). [Events occurring in communities rather than health facilities are still notified on paper first](https://unstats.un.org/legal-identity-agenda/documents/Paper/2023/CRVSID-Rwanda.pdf). [The voter register is a fully electronic extract from the identification agency's population database, every citizen entered on turning 18 and identified at the polls by national ID card](https://www.ktpress.rw/2024/05/the-9-5-million-rwandans-on-voter-list/).
+[Civil registration runs on a national centralised system that is digital at every level from health facilities and cells through sectors and districts to embassies](https://statistics.gov.rw/sites/default/files/documents/2025-04/Rwanda%20Vital%20Statistics%20Report%202024_N.pdf) and [generates a unique national identification number linked to the population register on registration](https://www.nida.gov.rw/index.php?eID=dumpFile&f=92643&t=f&token=7ea9d6c4602ce4d2ae43fc6b669787b89edad1c1). [Birth registration completeness reached 92.9% in 2025, from 90.3% in 2024](https://statistics.gov.rw/statistical-publications/vital-statistics/rwanda-vital-statistics-report-2025). Deaths in the community moved off paper in 2026: [village leaders now notify each one from a basic phone with the deceased's national ID number, the system rolled out nationwide in spring 2026 and logging about 10,000 community deaths in its first months](https://www.linkedin.com/pulse/make-every-life-count-dr-tom-frieden-72x6c/), where [community events were notified on paper first in 2023](https://unstats.un.org/legal-identity-agenda/documents/Paper/2023/CRVSID-Rwanda.pdf). [The voter register is a fully electronic extract from the identification agency's population database, every citizen entered on turning 18 and identified at the polls by national ID card](https://www.ktpress.rw/2024/05/the-9-5-million-rwandans-on-voter-list/).
 
 ### Sectoral management information systems
 <!-- dpi.mis -->

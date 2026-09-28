@@ -1,12 +1,12 @@
 ---
 title: Tunisia: status report
-compiled: 2026-09-25
+compiled: 2026-09-28
 place: TUN
 region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-25
 intersections_read: 7
-sources_cited: 188
+sources_cited: 189
 sections_written: 39
 not_established: 0
 acquire_lines: 49
@@ -201,7 +201,7 @@ The electoral roll is [digital, managed by ISIE, with an online voter portal for
 ### Sectoral management information systems
 <!-- dpi.mis -->
 
-Medical files for [roughly 100,000 people had been linked to Tunisia's national health identifier by 27 July 2026](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/151109), on the back of a pilot [running in university hospitals since June 2026, where it consolidates a patient's records across departments into one file](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/151109). The identifier is [assigned from the national identity card at registration, with nationwide rollout targeted by the end of 2026](https://tmo-mag.com.tn/tunisias-digital-health-revolution-over-9000-patients-registered-in-national-id-pilot-program/). It is not a new build — [it is the EVAX code created for Covid-19 vaccination, repurposed, and already held records of over 3 million childhood immunisations (July 2026)](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/151109). [Phase 1 of the digital hospital project was delivered by the end of 2025](https://pm.gov.tn/fr/decision-gouvernementale/zenzri-lors-dun-conseil-ministeriel-2026-annee-du-demarrage-effectif-de-la).
+Medical files for [roughly 100,000 people had been linked to Tunisia's national health identifier by 27 July 2026](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/151109), and the health ministry [put active registrations at 800,000 in September 2026, with teleradiology running in 30 facilities and more than 100,000 remote examinations performed](https://dharab.com/tunisia-bets-on-telehealth-as-it-prepares-to-host-telehealth-connect-2026/), on the back of a pilot [running in university hospitals since June 2026, where it consolidates a patient's records across departments into one file](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/151109). The identifier is [assigned from the national identity card at registration, with nationwide rollout targeted by the end of 2026](https://tmo-mag.com.tn/tunisias-digital-health-revolution-over-9000-patients-registered-in-national-id-pilot-program/). It is not a new build — [it is the EVAX code created for Covid-19 vaccination, repurposed, and already held records of over 3 million childhood immunisations (July 2026)](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/151109). [Phase 1 of the digital hospital project was delivered by the end of 2025](https://pm.gov.tn/fr/decision-gouvernementale/zenzri-lors-dun-conseil-ministeriel-2026-annee-du-demarrage-effectif-de-la).
 
 The tier below the hospitals is where it stops. [Rural primary healthcare clinics recorded patient data on paper as the default at the point of care, and in February 2025 the health ministry described connecting front-line primary care facilities to the internet as a forthcoming phase rather than an achieved one](https://news.gnet.tn/ministere-de-la-sante-avancees-dans-la-digitalisation-du-secteur-medical-en-tunisie/); [an EU and health-ministry programme is now digitalising that first-line information system, with a national computerised medical record and deployment on pilot sites at Nabeul](https://www.essaha-aziza.tn/resultat-5-digitalisation), and [health institutions in Kebili began adopting the national health identifier in July 2026](https://www.radionationale.tn/article/6a58a8f208d2abfa3060938d/%D9%82%D8%A8%D9%84%D9%8A-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D8%B9%D8%AA%D9%85%D8%A7%D8%AF-%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D9%81-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%84%D9%84%D8%B5%D8%AD%D8%A9). Schools show the same split — [the national Tarbia.tn platform consolidates school services into a single portal for parents and teachers](https://www.wearetech.africa/en/fils-uk/news/public-management/tunisia-unveils-digital-platform-to-boost-education-transparency-equity), while [rural primary schools still capture data largely on paper](https://www.worldbank.org/en/news/feature/2026/01/29/transforming-early-education-in-tunisia-prefat-s-impact-on-access-quality-and-innovation).
 
