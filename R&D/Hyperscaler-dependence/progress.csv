@@ -1,0 +1,55 @@
+seq,iso3,country,group,s01_seeds,s02_scan,s03_classify,s04_report,note
+1,ZAF,South Africa,anglophone,2026-09-28,2026-09-28,,,pilot; report written before the classification pass — re-run 03 and refresh 04
+2,KEN,Kenya,anglophone,2026-09-28,2026-09-28,,,pilot; report written before the classification pass — re-run 03 and refresh 04
+3,NGA,Nigeria,anglophone,2026-09-28,2026-09-28,,,pilot; report written before the classification pass — re-run 03 and refresh 04
+4,GHA,Ghana,anglophone,,,,,
+5,UGA,Uganda,anglophone,,,,,
+6,TZA,Tanzania,anglophone,,,,,
+7,RWA,Rwanda,anglophone,,,,,
+8,ETH,Ethiopia,anglophone,,,,,
+9,ZMB,Zambia,anglophone,,,,,
+10,ZWE,Zimbabwe,anglophone,,,,,
+11,MWI,Malawi,anglophone,,,,,
+12,BWA,Botswana,anglophone,,,,,
+13,NAM,Namibia,anglophone,,,,,
+14,MUS,Mauritius,anglophone,,,,,
+15,LSO,Lesotho,anglophone,,,,,
+16,SWZ,Eswatini,anglophone,,,,,
+17,GMB,Gambia,anglophone,,,,,
+18,SLE,Sierra Leone,anglophone,,,,,
+19,LBR,Liberia,anglophone,,,,,
+20,SYC,Seychelles,anglophone,,,,,
+21,SSD,South Sudan,anglophone,,,,,fragile state; expect few resolvable domains
+22,SOM,Somalia,anglophone,,,,,fragile state; expect few resolvable domains
+23,ERI,Eritrea,anglophone,,,,,fragile state; expect few resolvable domains
+24,SEN,Senegal,francophone,,,,,
+25,CIV,Cote d'Ivoire,francophone,,,,,
+26,CMR,Cameroon,francophone,,,,,
+27,BEN,Benin,francophone,,,,,
+28,BFA,Burkina Faso,francophone,,,,,
+29,MLI,Mali,francophone,,,,,
+30,NER,Niger,francophone,,,,,
+31,TGO,Togo,francophone,,,,,
+32,GIN,Guinea,francophone,,,,,
+33,GAB,Gabon,francophone,,,,,
+34,COG,Congo,francophone,,,,,
+35,COD,DR Congo,francophone,,,,,
+36,TCD,Chad,francophone,,,,,
+37,MDG,Madagascar,francophone,,,,,
+38,DJI,Djibouti,francophone,,,,,
+39,BDI,Burundi,francophone,,,,,
+40,COM,Comoros,francophone,,,,,
+41,CAF,Central African Republic,francophone,,,,,fragile state; expect few resolvable domains
+42,MAR,Morocco,north-africa,,,,,
+43,EGY,Egypt,north-africa,,,,,
+44,TUN,Tunisia,north-africa,,,,,
+45,DZA,Algeria,north-africa,,,,,
+46,MRT,Mauritania,north-africa,,,,,
+47,SDN,Sudan,north-africa,,,,,fragile state; expect few resolvable domains
+48,LBY,Libya,north-africa,,,,,fragile state; expect few resolvable domains
+49,MOZ,Mozambique,lusophone-hispanophone,,,,,
+50,AGO,Angola,lusophone-hispanophone,,,,,
+51,CPV,Cape Verde,lusophone-hispanophone,,,,,
+52,GNB,Guinea-Bissau,lusophone-hispanophone,,,,,
+53,STP,Sao Tome and Principe,lusophone-hispanophone,,,,,
+54,GNQ,Equatorial Guinea,lusophone-hispanophone,,,,,
