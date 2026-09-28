@@ -527,7 +527,7 @@ def scan_all():
         rec = dict(fn=fn, fm=fm, body=body, table=deal_table(body),
                    origin=fm_get(fm, "finance_origin"), published=fm_get(fm, "published"),
                    topics=[x.strip() for x in tm.group(1).split(",")] if tm else [],
-                   url=fm_get(fm, "url"), title=fm_get(fm, "title"),
+                   url=(fm_get(fm, "url") or "").split()[0] if (fm_get(fm, "url") or "").split() else "", title=fm_get(fm, "title"),
                    deal_id=fm_get(fm, "deal_id"), currency=fm_get(fm, "currency"))
         for pl in places:
             b = by_place.setdefault(pl, {"ns": [], "dom": []})
