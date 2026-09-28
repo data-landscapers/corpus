@@ -2,7 +2,7 @@
 title: Who hosts the African state's front door — three countries, one method
 date: 2026-09-28
 author: Bill Anderson
-source: R&D/scan/ (ZAF, KEN, NGA — nodes.csv, organisations.csv, run.json each)
+source: R&D/Hyperscaler-dependence/scan/ (ZAF, KEN, NGA — nodes.csv, organisations.csv, run.json each)
 links: the three country reports are linked relatively below; rewrite the links when they are published
 ---
 
@@ -61,4 +61,4 @@ The shares were the point of the exercise. The more actionable findings were by-
 
 **Nothing was touched.** The scan used public address lookups, public certificate records, the registries and the cloud companies' own published lists. It never connected to any institution's systems, and it never needs to.
 
-Every figure here is as of 28 September 2026. The data, the institution lists and the runbook are in `R&D/scan/` and `R&D/HYPERSCALER-SCAN.md` in the Corpus repository.
+Every figure here is as of 28 September 2026. The data, the institution lists and the runbook are in `R&D/Hyperscaler-dependence/scan/` and `R&D/Hyperscaler-dependence/HYPERSCALER-SCAN.md` in the Corpus repository.

@@ -2,7 +2,7 @@
 title: Kenya — who hosts the state's front door
 date: 2026-09-28
 author: Bill Anderson
-source: R&D/scan/KEN/ (nodes.csv, organisations.csv, run.json)
+source: R&D/Hyperscaler-dependence/scan/KEN/ (nodes.csv, organisations.csv, run.json)
 doc: https://claude.ai/code/artifact/06b0b8c6-1ebf-4a3c-9620-ace419b400c2
 ---
 
@@ -126,4 +126,4 @@ The scan sees only the front door: websites, email, login portals, remote-access
 - **It is a snapshot.** Every figure is as of 28 September 2026. Running the scan again in a year shows which way each institution is moving.
 - **Nothing was touched.** The scan used public address lookups, public certificate records and the cloud companies' own published address lists. It never connected to any institution's systems.
 
-The data and method are in `R&D/scan/KEN/` and `R&D/HYPERSCALER-SCAN.md` in the Corpus repository.
+The data and method are in `R&D/Hyperscaler-dependence/scan/KEN/` and `R&D/Hyperscaler-dependence/HYPERSCALER-SCAN.md` in the Corpus repository.

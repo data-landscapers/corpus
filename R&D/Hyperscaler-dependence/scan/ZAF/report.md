@@ -2,7 +2,7 @@
 title: South Africa — who hosts the state's front door
 date: 2026-09-28
 author: Bill Anderson
-source: R&D/scan/ZAF/ (nodes.csv, organisations.csv, run.json)
+source: R&D/Hyperscaler-dependence/scan/ZAF/ (nodes.csv, organisations.csv, run.json)
 ---
 
 # South Africa: who hosts the state's front door
@@ -123,4 +123,4 @@ The scan sees only the front door. That means websites, email, login portals, re
 - **It is a snapshot.** Every figure is as of 28 September 2026. Running the scan again in a year shows which way each institution is moving.
 - **Nothing was touched.** The scan used public address lookups, public certificate records and the cloud companies' own published lists of their addresses. It never connected to any institution's systems.
 
-The data and method are in `R&D/scan/ZAF/` and `R&D/HYPERSCALER-SCAN.md` in the Corpus repository.
+The data and method are in `R&D/Hyperscaler-dependence/scan/ZAF/` and `R&D/Hyperscaler-dependence/HYPERSCALER-SCAN.md` in the Corpus repository.

@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
 r"""hyperscaler-scan.py — the DNS footprint of one country's institutions, attributed and classified.
 
-Implements `R&D/HYPERSCALER-SCAN.md` §A; that runbook is the spec and `R&D/hyperscaler-dependence.md`
+Implements `R&D/Hyperscaler-dependence/HYPERSCALER-SCAN.md` §A; that runbook is the spec and `R&D/Hyperscaler-dependence/hyperscaler-dependence.md`
 §3 is the classification. Everything here is passive: DNS through a public resolver, crt.sh, RDAP,
 RIPEstat and the providers' published range files. **No request of any kind goes to a host under an
 institution's domain.**
 
-    python scripts/hyperscaler-scan.py "R&D/institutions-ZAF.csv"
+    python scripts/hyperscaler-scan.py "R&D/Hyperscaler-dependence/institutions-ZAF.csv"
 
-Writes `R&D/scan/{ISO3}/nodes.csv`, `organisations.csv` and `run.json`, then writes `status` (and a
+Writes `R&D/Hyperscaler-dependence/scan/{ISO3}/nodes.csv`, `organisations.csv` and `run.json`, then writes `status` (and a
 blank `email_domain`) back into the input file (runbook Step 4). Resumes: a domain whose names are
 already in `nodes.csv` with today's `scan_date` is not queried again. Rows from an earlier day are
 dropped on start — `nodes.csv` is one scan, and git holds the earlier ones.
@@ -54,7 +54,7 @@ import dns.resolver
 import requests
 
 ROOT = Path(__file__).resolve().parent.parent
-RD = ROOT / "R&D"
+RD = ROOT / "R&D" / "Hyperscaler-dependence"
 SCAN = RD / "scan"
 RANGES = SCAN / "ranges"
 CACHE = SCAN / "cache"
