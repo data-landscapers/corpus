@@ -27,6 +27,7 @@ a 404 rather than a sentence that reads badly.
 from __future__ import annotations
 
 import hashlib
+import html
 import re
 import urllib.parse
 from datetime import date
@@ -112,6 +113,45 @@ def ga(ga_id: str = GA_ID) -> str:
   gtag('js', new Date());
   gtag('config', '{ga_id}');
 </script>"""
+
+
+# The three-bar menu at the right of the header (Bill, 2026-09-28). `site-menu.yml` is a
+# byte-for-byte copy of data-landscapers `_data/site_menu.yml`, which is canonical;
+# `SITE-MENU-FROM` names the commit and `lint-shared-assets.py` reports drift. The markup
+# below must stay the same shape as that repo's `_includes/site-menu.html`.
+SITE_MENU = Path(__file__).resolve().parent / "site-menu.yml"
+
+
+def site_menu() -> str:
+    """The header's three-bar menu: a <details>, so it opens without script. The script only
+    closes it on a click outside or on Escape."""
+    import yaml
+    items = yaml.safe_load(SITE_MENU.read_text(encoding="utf-8"))
+
+    def tree(xs, pad):
+        out = [f"{pad}<ul>"]
+        for x in xs:
+            link = f'<a href="{html.escape(x["url"])}">{html.escape(x["label"])}</a>'
+            if x.get("children"):
+                out += [f"{pad}  <li>{link}", tree(x["children"], pad + "    "), f"{pad}  </li>"]
+            else:
+                out.append(f"{pad}  <li>{link}</li>")
+        out.append(f"{pad}</ul>")
+        return "\n".join(out)
+
+    return f"""      <details class="site-menu" id="site-menu">
+        <summary aria-label="Menu"><span></span><span></span><span></span></summary>
+        <nav class="site-menu__panel" aria-label="Site menu">
+{tree(items, "          ")}
+        </nav>
+      </details>
+      <script>
+        (function () {{
+          var m = document.getElementById('site-menu');
+          document.addEventListener('click', function (e) {{ if (m.open && !m.contains(e.target)) {{ m.open = false; }} }});
+          document.addEventListener('keydown', function (e) {{ if (e.key === 'Escape' && m.open) {{ m.open = false; m.querySelector('summary').focus(); }} }});
+        }})();
+      </script>"""
 
 
 def assets(depth: int) -> str:
@@ -244,7 +284,11 @@ def chrome(active: str | None = None, depth: int = 1, *,
     **The hamburger is the website's markup, character for character** *(2026-09-11)*.
     `main.css` hides `.site-nav` below 900px on the assumption that `.nav-toggle` is
     there to open it; this header had never carried one, so on a phone every Corpus
-    page lost the main-site row entirely."""
+    page lost the main-site row entirely.
+
+    **The three-bar menu replaced that toggle on 2026-09-28** *(Bill)*. It sits after the
+    main-site row on every screen and lists every page of both sites (`site_menu()`); below
+    900px the row hides and the menu is the way to it. The Corpus row stays as it was."""
     a = (active or "").strip().lower()
     hdr = " screen-only" if screen_only else ""
     root = base if base is not None else assets(depth)
@@ -266,13 +310,11 @@ def chrome(active: str | None = None, depth: int = 1, *,
           <span class="site-logo__sub">Mapping Africa&rsquo;s data landscape</span>
         </span>
       </a>
-      <button class="nav-toggle" aria-label="Toggle navigation" onclick="this.classList.toggle('open'); document.getElementById('site-nav').classList.toggle('open')">
-        <span></span><span></span><span></span>
-      </button>
       <nav class="site-nav" id="site-nav" aria-label="Main navigation">
         <a href="{SITE_BASE}/" class="active">Corpus</a>
 {main_links}
       </nav>
+{site_menu()}
     </div>
   </header>
 

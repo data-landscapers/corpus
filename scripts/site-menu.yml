@@ -1,0 +1,50 @@
+# The three-bar menu at the right of the header, on this site and on Corpus (Bill, 2026-09-28).
+# This is the canonical copy. Corpus carries a byte-for-byte copy at scripts/site-menu.yml,
+# with the commit it came from in scripts/SITE-MENU-FROM, and its lint-shared-assets.py
+# reports drift. Edit here, then copy down. URLs are absolute because the menu spans two hosts.
+- label: Work in progress
+  url: https://data-landscapers.io/writing/
+- label: Portfolio
+  url: https://data-landscapers.io/portfolio/
+- label: About
+  url: https://data-landscapers.io/about/
+- label: Corpus
+  url: https://corpus.data-landscapers.io/
+- label: Progress
+  url: https://corpus.data-landscapers.io/progress/
+  children:
+    - label: Topics
+      url: https://corpus.data-landscapers.io/progress/
+    - label: Countries
+      url: https://corpus.data-landscapers.io/progress/countries/
+- label: Bulletin
+  url: https://corpus.data-landscapers.io/bulletin/
+- label: Countries & Regions
+  url: https://corpus.data-landscapers.io/countries/
+- label: Topics
+  url: https://corpus.data-landscapers.io/topics/
+- label: Datasets
+  url: https://corpus.data-landscapers.io/datasets/
+  children:
+    - label: Finance
+      url: https://corpus.data-landscapers.io/finance/
+      children:
+        - label: Non-state finance
+          url: https://corpus.data-landscapers.io/finance/
+        - label: Budgets
+          url: https://corpus.data-landscapers.io/finance/budgets/
+    - label: Data Centres
+      url: https://corpus.data-landscapers.io/datasets/data-centres/
+- label: Catalogue
+  url: https://corpus.data-landscapers.io/catalogue/
+- label: Methodology
+  url: https://corpus.data-landscapers.io/methodology/
+  children:
+    - label: Document Lifecycle
+      url: https://corpus.data-landscapers.io/methodology/document-lifecycle/
+    - label: Process Inventory
+      url: https://corpus.data-landscapers.io/methodology/process-inventory/
+    - label: Process Lookups
+      url: https://corpus.data-landscapers.io/methodology/lookups/
+    - label: Change Log
+      url: https://corpus.data-landscapers.io/methodology/changelog/

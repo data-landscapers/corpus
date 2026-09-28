@@ -199,6 +199,29 @@ figcaption { font-size: 0.82rem; color: var(--accent); margin-top: 0.5rem; line-
   .site-nav a:last-child { border-bottom: none; }
 }
 
+/* ── SITE MENU ──
+   The three-bar menu at the right of the header, on every screen (Bill, 2026-09-28): every
+   page of both sites, from `_data/site_menu.yml`. On a desktop it sits after the nav row; below
+   900px the row hides and this is the only way to it. `.nav-toggle` above is kept because pages
+   Corpus published before this carry that button baked in. The panel hangs from the header's
+   inner box, not from the button, so it lines up with the header's right edge. */
+.site-header__inner { position: relative; }
+.site-nav { margin-left: auto; }
+.site-menu { flex-shrink: 0; }
+.site-menu > summary { list-style: none; display: flex; flex-direction: column; gap: 5px; cursor: pointer; padding: 4px; }
+.site-menu > summary::-webkit-details-marker { display: none; }
+.site-menu > summary span { display: block; width: 24px; height: 2px; background: var(--ink); }
+.site-menu > summary:hover span, .site-menu[open] > summary span { background: var(--accent); }
+.site-menu__panel { position: absolute; top: 100%; right: 1.5rem; z-index: 101; min-width: 15rem; max-height: calc(100vh - var(--header-h) - 1rem); overflow-y: auto; background: var(--paper); border: 1px solid var(--rule); box-shadow: 0 4px 12px rgba(0,0,0,0.08); padding: 0.5rem 0; }
+.site-menu__panel ul { list-style: none; margin: 0; padding: 0; }
+.site-menu__panel a { display: block; padding: 0.3rem 1.25rem; font-family: var(--serif); font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--ink-light); border: none; white-space: nowrap; }
+.site-menu__panel ul ul a { padding-left: 2.25rem; text-transform: none; letter-spacing: 0; font-size: 0.8rem; }
+.site-menu__panel ul ul ul a { padding-left: 3.25rem; }
+.site-menu__panel a:hover { color: var(--accent); background: var(--paper-warm); border: none; }
+@media (max-width: 900px) {
+  .site-menu__panel { right: 0; left: 0; min-width: 0; border-left: none; border-right: none; }
+}
+
 /* ── BUTTONS ── */
 .btn { display: inline-block; font-family: var(--serif); font-size: 0.82rem; font-weight: 600; letter-spacing: 0.03em; padding: 0.6rem 1.4rem; border-radius: 2px; border: 1.5px solid var(--ink); color: var(--ink); transition: all 0.15s; text-decoration: none; }
 .btn:hover { background: var(--ink); color: var(--paper); border-color: var(--ink); }

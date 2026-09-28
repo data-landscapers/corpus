@@ -59,6 +59,8 @@ SHARED = [
     ("site/assets/css/MAIN-CSS-FROM", "site/assets/css/main.css",     "assets/css/main.css"),
     ("site/assets/DATATABLE-FROM",    "site/assets/js/datatable.js",  "assets/shared/datatable.js"),
     ("site/assets/DATATABLE-FROM",    "site/assets/css/datatable.css", "assets/shared/datatable.css"),
+    # The header's three-bar menu (Bill, 2026-09-28): one list for both sites.
+    ("scripts/SITE-MENU-FROM",        "scripts/site-menu.yml",         "_data/site_menu.yml"),
 ]
 
 DEFAULTS = [
