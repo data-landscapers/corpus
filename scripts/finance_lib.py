@@ -190,6 +190,8 @@ def fx_rate(fx, cur, yr):
     dating the conversion on the page is the caller's job, and spot-converting a
     fiscal-year figure is forbidden by the domestic-state driver.
     """
+    if cur == "USD":  # a dollar line needs no conversion, and the IMF table holds no USD row
+        return 1.0
     if (cur, yr) in fx:
         return fx[(cur, yr)]
     years = [int(y) for (c, y) in fx if c == cur and y.isdigit()]

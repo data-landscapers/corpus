@@ -2,6 +2,7 @@
 
 - Both sites now have a menu button at the top right, listing every page of Data Landscapers and Corpus. On a phone it is the way to the main site's pages.
 - In the weekly alert email, each item now shows its publication date beside the title, and its summary and publisher start on their own lines. Items are quicker to scan.
+- Budget lines stated in US dollars are now counted in the domestic finance figures; they had been dropped for want of a conversion rate. Liberia's 37 lines and Somalia's 22 now appear, with one each in Angola and Congo.
 
 ## 27 September 2026
 
