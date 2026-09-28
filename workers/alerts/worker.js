@@ -132,6 +132,15 @@ function longDay(iso) {
   return `${Number(m[3])} ${MONTHS[Number(m[2]) - 1]} ${m[1]}`;
 }
 
+/**
+ * A publication date as an item shows it after its title: `21 September 2026`, or
+ * `September 2026` for a month; a year, or anything unrecognised, as it came.
+ */
+function itemDay(iso) {
+  const m = /^(\d{4})-(\d{2})$/.exec(iso || "");
+  return m ? `${MONTHS[Number(m[2]) - 1]} ${m[1]}` : longDay(iso);
+}
+
 function inWindow(iso, from, to) {
   return typeof iso === "string" && iso >= from && iso <= to;
 }
@@ -282,6 +291,7 @@ function siteItem(p) {
   return {
     title: p.title,
     url: p.url,
+    date: (p.date || "").slice(0, 10),
     hero: subtitle,
     line: subtitle || summary ? summary : (p.description || ""),
   };
@@ -340,9 +350,9 @@ function planDigest(o) {
       items: hits.slice(0, cap).map((r) => ({
         title: r.title,
         url: r.url || catalogueSearchUrl(r.title, o.siteBase),
+        date: r.published || "",
         hero: r.hero || "",
-        line: [r.publisher, r.published ? `published ${r.published}` : ""]
-          .filter(Boolean).join(" · "),
+        line: r.publisher || "",
       })),
       more: Math.max(0, hits.length - cap),
       moreUrl: catalogueUrl(def, o.siteBase),
@@ -375,12 +385,16 @@ function renderDigest(sections, o) {
     // outweighed the banner above them (Bill, 2026-09-16).
     if (s.tag !== SITE_TAG) { out.push(`### ${mdText(s.heading)}`, ""); }
     const blocks = s.items.map((it) => {
-      const lines = [`**[${mdText(it.title)}](${mdUrl(it.url)})**`];
+      // The publication date in brackets on the title's own line (Bill, 2026-09-28).
+      const date = it.date ? ` (${mdText(itemDay(it.date))})` : "";
+      const lines = [`**[${mdText(it.title)}](${mdUrl(it.url)})**${date}`];
       // The hero line, as the catalogue draws it under every row — the one line a reader
       // gets in English when the title is not.
       if (it.hero) { lines.push(mdText(it.hero)); }
       if (it.line) { lines.push(mdText(it.line)); }
-      return lines.join("\n");
+      // `<br>`, not a bare newline: Markdown folds a single newline into the paragraph, so
+      // the hero and summary ran on after the title (Bill, 2026-09-28).
+      return lines.join("<br>\n");
     });
     if (s.more) {
       blocks.push(`…and ${s.more} more in the catalogue: ${s.moreUrl}`);

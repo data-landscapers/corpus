@@ -299,19 +299,19 @@ print("\nthe body, character for character")
 GOLDEN = """<img src="https://corpus.data-landscapers.io/assets/email-banner.png" width="446" alt="New from Data Landscapers" style="display:block;width:446px;max-width:100%;height:auto;border:0;margin:0 0 16px">
 
 {% if "alert site" in subscriber.tags %}
-**[Mapping the continent](https://data-landscapers.io/p/1)**
+**[Mapping the continent](https://data-landscapers.io/p/1)** (12 September 2026)<br>
 A note on method.
 {% endif %}
 
 {% if "alert 4f1c8a20b3" in subscriber.tags %}
 ### Kenya, Nigeria · Artificial intelligence
 
-**[Kenya opens a data centre](https://example.org/1)**
-A second site for \\[cloud\\] &#123;&#123; providers &#125;&#125;
-Nation · published 2026-09-15
+**[Kenya opens a data centre](https://example.org/1)** (15 September 2026)<br>
+A second site for \\[cloud\\] &#123;&#123; providers &#125;&#125;<br>
+Nation
 
-**[Nigeria's &#123;% raw %&#125; \\[AI\\] strategy](https://corpus.data-landscapers.io/catalogue/#q=Nigeria's%20%7B%25%20raw%20%25%7D%20%5BAI%5D%20strategy)**
-Punch · published 2026-09-14
+**[Nigeria's &#123;% raw %&#125; \\[AI\\] strategy](https://corpus.data-landscapers.io/catalogue/#q=Nigeria's%20%7B%25%20raw%20%25%7D%20%5BAI%5D%20strategy)** (14 September 2026)<br>
+Punch
 
 …and 1 more in the catalogue: https://corpus.data-landscapers.io/catalogue/#places=KEN,NGA&topics=tech.ai
 {% endif %}
@@ -353,20 +353,26 @@ site_body = js(
     f'from: "2026-09-08", to: "2026-09-15"}}).sections, {{siteBase: "x"}})')
 blocks = site_body.split("\n\n")
 check("a post with both: title, subtitle, summary",
-      "**[Both](https://data-landscapers.io/p/b)**\nThe subtitle\nThe summary." in site_body, True)
+      "**[Both](https://data-landscapers.io/p/b)** (14 September 2026)<br>\nThe subtitle<br>\n"
+      "The summary." in site_body, True)
 check("a subtitle only is two lines",
-      "**[Subtitle only](https://data-landscapers.io/p/s)**\nOnly a subtitle" in blocks, True)
+      "**[Subtitle only](https://data-landscapers.io/p/s)** (13 September 2026)<br>\n"
+      "Only a subtitle" in blocks, True)
 check("a post with neither keeps its description",
-      "**[Neither](https://data-landscapers.io/p/n)**\nThe first words of the post." in blocks,
+      "**[Neither](https://data-landscapers.io/p/n)** (12 September 2026)<br>\n"
+      "The first words of the post." in blocks,
       True)
 check("a description-only post renders as before",
-      "**[Old feed](https://data-landscapers.io/p/o)**\nA description and nothing else."
+      "**[Old feed](https://data-landscapers.io/p/o)** (10 September 2026)<br>\n"
+      "A description and nothing else."
       in site_body, True)
-long_line = next(b for b in blocks if "/p/l)" in b).split("\n")[2]
+long_line = next(b for b in blocks if "/p/l)" in b).split("<br>\n")[2]
 check("a long summary is cut to 200 characters", len(long_line) <= 200, True)
 check("on a word boundary, with an ellipsis",
       (long_line.endswith("…"), LONG.startswith(long_line[:-1]),
        LONG[len(long_line) - 1] == " "), (True, True, True))
+check("a month-only date reads as a month", js('itemDay("2026-09")'), "September 2026")
+check("a year-only date is left as it came", js('itemDay("2026")'), "2026")
 check("a short summary is untouched", js('trimWords("  a  b ", 200)'), "a b")
 
 

@@ -2,7 +2,7 @@
 type: design-note
 reader: cc
 title: catalogue-alerts.md — one weekly email per reader, built by a Cloudflare Worker and sent by Buttondown
-last_reviewed: 2026-09-27
+last_reviewed: 2026-09-28
 status: built and deployed 2026-09-16; E3 outstanding — Monday 2026-09-21, check `cron_status` first, then release the draft by hand
 ---
 
@@ -101,5 +101,7 @@ Set up once on 2026-09-16; `archived/catalogue-alerts-build.md` Part 1 A is the 
 **The hero line — built 2026-09-21, specified by Cowork the same day.** Each digest item shows the record's hero on its own line between the linked title and the publisher line, escaped as the title is, and omitted when empty; the Atom `<summary>` is `<hero> — <publisher> · published <date>`. It matters most where the title is not in English. On that day 4,791 of the 4,803 rows in `recent.json` carried one. Deployed the same day; a `recent.json` without `hero` reads as having none, so render and deploy need no ordering. Check the first draft with heroes for size before releasing it — about 120 characters an item, and the 25-item cap is still the lever.
 
 **The main site's subtitle and summary — specified by Cowork and built and deployed 2026-09-27.** A post in the site section reads like a catalogue entry: title, then `subtitle` where a record's hero goes, then `summary` cut to 200 characters on a word boundary (`siteItem`, `SUMMARY_CAP`). A post with neither keeps `description`, the `feed.xml` fall-through. `feed.json` in `data-landscapers` carries the two fields (`5179aa7`); `feed.xml` and the Atom route are untouched. A `feed.json` without them reads as the old one, so deploy and render need no ordering.
+
+**Line breaks and the date — built 2026-09-28, asked for by Bill.** Each item's title line ends with its publication date in brackets (`itemDay`: `21 September 2026`, a month as `September 2026`, a year as it came), and the publisher line no longer repeats it. The item's lines are joined with `<br>`, because Markdown folds a bare newline into one paragraph and the hero or summary ran on after the title. Live once `worker.js` is pasted into the Worker again.
 
 **Not in this version**: report editions as alert items; a monthly pass pruning `def:` entries whose tag has no active subscriber and clearing stale `orphan:` keys; a monthly cadence if readers ask for one.

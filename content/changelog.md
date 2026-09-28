@@ -1,3 +1,7 @@
+## 28 September 2026
+
+- In the weekly alert email, each item now shows its publication date beside the title, and its summary and publisher start on their own lines. Items are quicker to scan.
+
 ## 27 September 2026
 
 - Three new deals have joined the non-state finance table, which now holds 1,402 deals worth US$83.7bn.
