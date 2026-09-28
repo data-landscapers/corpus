@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-09-28 23:21 · **BUILD** · 39m · catalogue 25,568; finance 1,401; 40 units / 118 sources, 29 minted, 24 moved; 25 baseline sections revised, ZAF EGY KEN GHA re-read whole; data centres 2; bulletin 56; 31 register hits stand — ok
 2026-09-28 22:42 · **ANALYTICS** · unclocked · 2026-09-27 written; 27 Sep: dl.io 37 views / 1 clicks, corpus 57 views / 0 clicks
 2026-09-28 13:39 · **SCAN** · 1h40m · KEN: 50 institutions, 4,747 routable, 11% US hyperscaler. NGA: 51 institutions, 5,747 routable, 24% US hyperscaler. 6 claimable dangling CNAMEs across three countries
 2026-09-28 11:31 · **SCAN** · 53m · ZAF: 51 institutions, 12,666 names, 7,436 routable, 28% US hyperscaler, 8 unattributed
