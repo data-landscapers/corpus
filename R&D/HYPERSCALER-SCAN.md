@@ -66,7 +66,7 @@ Announce the country by name as it starts. A domain whose root returns NXDOMAIN 
 
 ## Step 3 — read what came out
 
-Before writing anything, read `organisations.csv` end to end and `nodes.csv` for every institution with `unattributed > 0`. Three things to look for, none of which changes the data: an institution whose every record is `unattributed`, which usually means its ASN is missing from `asn-owners.csv` and is the first thing to fill; a domain whose records point somewhere no institution of that type should be — a gambling host, a parked page, a country it has no business in — which is a finding and goes in the note under Step 5; and a category share that looks wrong for the country, which is a reason to re-read the rows, not to adjust them.
+Before writing anything, read `organisations.csv` end to end and `nodes.csv` for every institution with `unattributed > 0`. Three things to look for, none of which changes the data: an institution whose every record is `unattributed`, which usually means its ASN is missing from `asn-owners.csv` and is the first thing to fill — classify the rows the run appended there, then `python scripts/hyperscaler-scan.py "R&D/institutions-${ISO3}.csv" --reattribute`, which re-runs attribution over today's `nodes.csv` without touching DNS; a domain whose records point somewhere no institution of that type should be — a gambling host, a parked page, a country it has no business in — which is a finding and goes in the note under Step 5; and a category share that looks wrong for the country, which is a reason to re-read the rows, not to adjust them.
 
 ## Step 4 — write back to the input file
 

@@ -1,0 +1,52 @@
+iso3,type,institution,domains,names,routable,us_hyperscaler_share,african_region_share,us_saas_share,cdn_share,national_or_self_share,unattributed,mail_provider,mail_security,tangled_hybrid,scan_date
+ZAF,Presidency,The Presidency,thepresidency.gov.za,4,5,0.0,0.0,0.0,0.0,40.0,0,none,,false,2026-09-28
+ZAF,Parliament,Parliament of the Republic of South Africa,parliament.gov.za,98,48,0.0,0.0,0.0,0.0,0.0,0,m365,mimecast,false,2026-09-28
+ZAF,Foreign Affairs,Department of International Relations and Cooperation (DIRCO),dirco.gov.za,52,42,33.3,4.8,40.5,0.0,4.8,0,m365,,true,2026-09-28
+ZAF,Defence,Department of Defence and SANDF,dod.mil.za,16,14,0.0,0.0,0.0,0.0,7.1,0,other:Telkom SA,,false,2026-09-28
+ZAF,Police,South African Police Service,saps.gov.za,39,35,25.7,0.0,2.9,0.0,71.4,0,m365,,true,2026-09-28
+ZAF,Justice,Department of Justice and Constitutional Development,justice.gov.za,61,44,20.5,0.0,0.0,0.0,0.0,0,m365,mimecast,false,2026-09-28
+ZAF,Justice,Office of the Chief Justice / Judiciary,judiciary.org.za,30,42,26.2,4.8,0.0,0.0,54.8,0,other:mimecast,mimecast,true,2026-09-28
+ZAF,Treasury / Finance,National Treasury,treasury.gov.za,95,308,74.4,0.6,4.5,0.6,18.5,0,m365,,true,2026-09-28
+ZAF,Revenue Service,South African Revenue Service,sars.gov.za,271,194,2.6,1.5,0.0,60.3,0.0,0,m365,mimecast,false,2026-09-28
+ZAF,Intelligence,State Security Agency,ssa.gov.za,15,21,42.9,0.0,0.0,0.0,0.0,0,other:Telkom SA,,false,2026-09-28
+ZAF,Interior / Home Affairs,Department of Home Affairs,dha.gov.za,3371,42,23.8,2.4,0.0,0.0,71.4,0,other:Dimension Data (Internet Solutions),,true,2026-09-28
+ZAF,Central Bank,South African Reserve Bank,resbank.co.za,393,122,27.9,23.8,0.0,0.0,64.8,0,other:mimecast,mimecast,true,2026-09-28
+ZAF,Commercial Banks,Standard Bank,standardbank.co.za,917,732,20.9,1.4,0.7,54.6,22.1,0,m365,,true,2026-09-28
+ZAF,Commercial Banks,FirstRand,firstrand.co.za,160,66,0.0,0.0,15.2,0.0,77.3,0,other:Cisco Secure Email (IronPort),cisco-ironport,false,2026-09-28
+ZAF,Commercial Banks,FirstRand (FNB),fnb.co.za,1003,376,9.8,3.7,11.2,1.6,73.7,0,self,cisco-ironport,true,2026-09-28
+ZAF,Commercial Banks,Absa,absa.co.za,873,528,52.8,29.4,1.3,5.9,33.5,0,m365,,true,2026-09-28
+ZAF,Commercial Banks,Absa (group),absa.africa,15,31,35.5,25.8,3.2,12.9,9.7,0,m365,,true,2026-09-28
+ZAF,Commercial Banks,Nedbank,nedbank.co.za,471,463,47.5,6.9,0.4,0.0,2.8,0,m365,,true,2026-09-28
+ZAF,Commercial Banks,Investec,investec.com,761,642,4.2,0.0,3.0,82.1,8.6,0,other:mimecast,mimecast,true,2026-09-28
+ZAF,Commercial Banks,Capitec Bank,capitecbank.co.za,553,545,9.5,0.0,0.7,3.5,81.7,0,m365,mimecast,true,2026-09-28
+ZAF,Commercial Banks,Discovery Bank,discovery.co.za,462,358,27.9,1.7,19.3,15.9,30.4,2,m365,,true,2026-09-28
+ZAF,Commercial Banks,African Bank,africanbank.co.za,264,370,46.2,2.4,0.8,38.4,9.2,0,m365,mimecast,true,2026-09-28
+ZAF,Commercial Banks,TymeBank,tymebank.co.za,94,268,91.4,1.5,6.7,0.7,0.0,3,m365,cisco-ironport,false,2026-09-28
+ZAF,Commercial Banks,Bidvest Bank,bidvestbank.co.za,56,43,55.8,4.7,0.0,4.7,0.0,0,m365,mimecast,false,2026-09-28
+ZAF,Data protection authority,Information Regulator,inforegulator.org.za,22,41,19.5,0.0,41.5,0.0,7.3,0,m365,,true,2026-09-28
+ZAF,Electoral commission,Electoral Commission of South Africa (IEC),elections.org.za,96,189,4.8,0.0,0.0,86.8,0.0,0,other:mimecast,mimecast,false,2026-09-28
+ZAF,Statistics office,Statistics South Africa,statssa.gov.za,96,99,2.0,0.0,0.0,94.9,1.0,0,other:mimecast,mimecast,true,2026-09-28
+ZAF,Health ministry,National Department of Health,health.gov.za,62,65,12.3,12.3,0.0,0.0,1.5,0,other:mimecast,mimecast,true,2026-09-28
+ZAF,Social protection,South African Social Security Agency (SASSA),sassa.gov.za,35,17,0.0,0.0,0.0,0.0,0.0,0,m365,,false,2026-09-28
+ZAF,Social protection,Department of Social Development,dsd.gov.za,69,45,4.4,2.2,20.0,0.0,64.4,0,m365,,true,2026-09-28
+ZAF,Land registry,Department of Land Reform and Rural Development (Deeds Office),dalrrd.gov.za,2,0,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-28
+ZAF,National payment switch,BankservAfrica,bankservafrica.com,100,77,37.7,1.3,22.1,0.0,11.7,1,m365,,true,2026-09-28
+ZAF,National payment switch,Payments Association of South Africa (PASA),pasa.org.za,17,36,38.9,0.0,22.2,0.0,0.0,0,other:mimecast,mimecast,false,2026-09-28
+ZAF,Stock exchange,Johannesburg Stock Exchange,jse.co.za,84,107,8.4,0.0,0.9,79.4,10.3,0,m365,,true,2026-09-28
+ZAF,Securities regulator,Financial Sector Conduct Authority,fsca.co.za,24,37,43.2,5.4,32.4,0.0,0.0,0,m365,mimecast,false,2026-09-28
+ZAF,Sovereign wealth / pension fund,Public Investment Corporation,pic.gov.za,70,59,64.4,15.3,0.0,0.0,0.0,0,m365,mimecast,false,2026-09-28
+ZAF,Sovereign wealth / pension fund,Government Employees Pension Fund,gepf.co.za,34,27,33.3,0.0,0.0,7.4,0.0,0,other:mimecast,mimecast,false,2026-09-28
+ZAF,Public procurement authority,National Treasury eTender portal,etenders.gov.za,10,32,37.5,0.0,40.6,0.0,21.9,0,m365,,true,2026-09-28
+ZAF,Energy utility,Eskom,eskom.co.za,547,359,9.5,0.0,0.0,74.9,14.2,0,m365,mimecast,true,2026-09-28
+ZAF,Ports authority,Transnet,transnet.net,425,197,9.1,4.6,0.0,26.4,3.0,1,m365,mimecast,true,2026-09-28
+ZAF,State-owned telco,Telkom,telkom.co.za,430,320,49.4,2.2,2.5,0.0,38.8,1,other:mimecast,mimecast,true,2026-09-28
+ZAF,State-owned telco,Broadband Infraco,infraco.co.za,20,36,25.0,0.0,33.3,5.6,19.4,0,m365,mimecast,true,2026-09-28
+ZAF,State-owned telco,Sentech,sentech.co.za,33,70,54.3,0.0,0.0,8.6,24.3,0,other:mimecast,mimecast,true,2026-09-28
+ZAF,E-government agency,Government portal (GCIS),gov.za,2,9,0.0,0.0,0.0,0.0,55.6,0,other:State Information Technology Agency (SITA),,false,2026-09-28
+ZAF,E-government agency,Department of Communications and Digital Technologies,dcdt.gov.za,21,12,8.3,0.0,0.0,0.0,75.0,0,m365,,true,2026-09-28
+ZAF,National data centre / Government cloud,State Information Technology Agency (SITA),sita.co.za,81,40,27.5,0.0,0.0,0.0,67.5,0,other:Dimension Data (Internet Solutions),,true,2026-09-28
+ZAF,Cybersecurity agency / CERT,Cybersecurity Hub (national CSIRT),cybersecurityhub.gov.za,14,29,31.0,0.0,41.4,0.0,10.3,0,other:TENET,,true,2026-09-28
+ZAF,Communications regulator,ICASA,icasa.org.za,35,35,57.1,25.7,0.0,2.9,0.0,0,m365,,false,2026-09-28
+ZAF,Audit office,Auditor-General of South Africa,agsa.co.za,223,76,5.3,3.9,0.0,0.0,0.0,0,m365,mimecast,false,2026-09-28
+ZAF,Anti-corruption,Special Investigating Unit,siu.org.za,14,47,21.3,2.1,51.1,0.0,0.0,0,m365,mimecast,false,2026-09-28
+ZAF,Anti-corruption,Public Protector,pprotect.org,26,36,5.6,0.0,47.2,0.0,41.7,0,m365,mimecast,true,2026-09-28

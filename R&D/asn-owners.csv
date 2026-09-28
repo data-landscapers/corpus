@@ -24,3 +24,69 @@ asn,owner,category,note
 63949,Akamai Connected Cloud (Linode),commercial-host,
 20473,Vultr,commercial-host,
 37130,State Information Technology Agency (SITA),national-dc,South Africa's government IT agency
+174,Cogent,telco-isp,
+701,Verizon Business,telco-isp,US
+2018,TENET,telco-isp,South African research and education network
+2119,Telenor,telco-isp,Norway
+2639,Zoho,commercial-host,Indian SaaS
+3067,Gijima,african-colo,South African IT services; government outsourcer
+3300,BT,telco-isp,UK
+3561,CenturyLink (Savvis),commercial-host,"US host, not a hyperscaler"
+3741,Dimension Data (Internet Solutions),telco-isp,South African ISP and managed hosting; NTT-owned
+5713,Telkom SA,telco-isp,
+7020,Business Connexion (BCX),african-colo,Telkom's IT services and data-centre arm
+8070,Microsoft,us-hyperscaler-offshore,
+8674,Netnod,telco-isp,Swedish DNS anycast and IX
+8680,Sure,telco-isp,Guernsey
+11845,Vox Telecom,telco-isp,
+12008,Vercara (UltraDNS),us-saas,DNS and DDoS service
+12703,Pulsant,commercial-host,UK
+13768,Aptum (Peer 1),commercial-host,
+14340,Salesforce,us-saas,
+15395,Rackspace,commercial-host,UK
+15685,Casablanca INT,commercial-host,Czech host
+15830,Equinix EMEA,commercial-host,"colocation, Europe"
+16019,Vodafone Czech Republic,telco-isp,
+16637,MTN SA,telco-isp,
+19701,Yodlee,us-saas,
+30238,Cisco Secure Email (IronPort),us-saas,
+30811,Optimizely,commercial-host,Swedish SaaS
+32653,eNetworks,african-colo,South African hosting and ISP
+35039,SAP,commercial-host,German SaaS
+36937,Liquid Telecommunications South Africa,african-colo,Liquid runs Africa Data Centres
+36994,Vodacom,telco-isp,
+37028,FirstRand Bank (FNB),african-colo,FirstRand's own network: self-hosted for FirstRand and FNB by name match; african-colo for anyone else on it
+37055,IOCO Infrastructure Services,african-colo,"South African IT services, formerly EOH"
+37100,SEACOM,telco-isp,
+37153,Xneelo (Hetzner South Africa),african-colo,South African web host
+37314,Inq Digital South Africa,telco-isp,
+37316,Direct Transact,african-colo,South African payments processor and host
+37394,eNetworks,african-colo,South African hosting and ISP
+37438,Gijima,african-colo,South African IT services; government outsourcer
+37457,Telkom SA,telco-isp,
+37474,ISPA SA,telco-isp,
+37579,Nation Media Group,commercial-host,Kenyan media group
+37611,Afrihost,telco-isp,
+37663,ISPA SA,telco-isp,South African ISP association; exchange points
+37668,ISPA SA,telco-isp,
+39392,SuperNetwork,commercial-host,Czech host
+46503,Cogent,telco-isp,
+47583,Hostinger,commercial-host,Lithuanian shared host
+48851,Radware,cdn-origin-unknown,cloud WAF and DDoS; Israeli
+54489,CoreSpace,commercial-host,US
+56908,Netnod,telco-isp,Swedish DNS anycast and IX
+133618,Trellian,commercial-host,domain parking
+198949,Radware,cdn-origin-unknown,cloud WAF and DDoS; Israeli
+327693,Echotel,telco-isp,
+327782,Metro Fibre Networx,telco-isp,
+327923,BankservAfrica (South African Bankers Services Company),african-colo,the payment switch's own network
+327979,Diamatrix,african-colo,South African hosting
+328037,Optify Systems,african-colo,
+328170,DataKeepers,african-colo,
+328186,NEWSHELF 1315 (PTY) LTD - NEWSHELF 1315 (PTY) LTD,,added by scan 2026-09-28; classify by hand
+328323,Brilliant Telecommunications,telco-isp,
+328356,Intelys Technology Africa,african-colo,
+328364,Host Africa,african-colo,South African host
+328366,Firstnet Technology Services,african-colo,South African IT services
+329184,Host Africa,african-colo,South African host
+394089,Google (GCP enterprise),us-hyperscaler-offshore,

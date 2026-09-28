@@ -269,8 +269,9 @@ def tokens(s: str) -> set[str]:
 
 
 def owner_is(institution: str, domain: str, owner: str) -> bool:
-    """RDAP or AS owner names the institution: token overlap >= 2, or its domain label or its
-    bracketed acronym (4+ characters) appears as a token of the owner."""
+    """RDAP or AS owner names the institution: token overlap >= 2; or its domain label (3+
+    characters) or bracketed acronym (4+) is a token of the owner; or the label (5+) runs inside
+    the owner's name with the spaces taken out (`firstrand` in `First Rand Bank Limited`)."""
     if not owner:
         return False
     ot = tokens(owner)
@@ -278,7 +279,8 @@ def owner_is(institution: str, domain: str, owner: str) -> bool:
         return True
     label = domain.split(".")[0].lower()
     acr = {a.lower() for a in re.findall(r"\(([A-Za-z]{4,})\)", institution)}
-    return (len(label) >= 4 and label in ot) or bool(acr & ot)
+    compact = re.sub(r"[^a-z0-9]", "", owner.lower())
+    return (len(label) >= 3 and label in ot) or bool(acr & ot) or (len(label) >= 5 and label in compact)
 
 
 # ---------------------------------------------------------------- DNS (A.3)
@@ -433,14 +435,14 @@ class Attributor:
             if v == a.version and lo <= int(a) <= hi:
                 return info
         j = self._cached("rdap", ip, f"https://rdap.org/ip/{ip}") or {}
+        # the registrant only: an admin or tech contact's name is often a person's, never the owner's
         owner = ""
         for ent in j.get("entities", []) or []:
-            if "registrant" in ent.get("roles", []) or not owner:
+            if "registrant" in ent.get("roles", []) and not owner:
                 for item in (ent.get("vcardArray") or [None, []])[1]:
                     if item[0] == "fn" and item[3]:
-                        if "registrant" in ent.get("roles", []) or not owner:
-                            owner = item[3]
-        info = {"owner": owner or j.get("name", ""), "net": j.get("name", "")}
+                        owner = item[3]
+        info = {"owner": owner, "net": j.get("name", "")}
         try:
             lo, hi = int(ipaddress.ip_address(j["startAddress"])), int(ipaddress.ip_address(j["endAddress"]))
             if hi - lo < 2 ** 24 or a.version == 6:
@@ -491,7 +493,7 @@ class Attributor:
             return out
         r = self.rdap(ip)
         asn, holder = self.asn_of(ip)
-        out.update(asn=asn, owner=r["owner"] or holder)
+        out.update(asn=asn, owner=r["owner"] or holder or r["net"])
         known = self.asn.get(asn)
         if owner_is(institution, domain, r["owner"]) or owner_is(institution, domain, holder) or \
                 (known and owner_is(institution, domain, known.get("owner", ""))):
@@ -661,6 +663,8 @@ def main() -> int:
     sys.stderr.reconfigure(encoding="utf-8")
     ap = argparse.ArgumentParser()
     ap.add_argument("input")
+    ap.add_argument("--reattribute", action="store_true",
+                    help="no DNS: re-run attribution over today's nodes.csv (after asn-owners.csv is classified by hand)")
     args = ap.parse_args()
     inp = Path(args.input)
     m = re.search(r"institutions-([A-Z]{3})\.csv$", inp.name)
@@ -698,6 +702,14 @@ def main() -> int:
 
     live = [r for r in inst if r["status"].strip().lower() != "dead"]
     domains_all = [r["domain"].strip().lower() for r in live]
+    if args.reattribute:
+        by_dom = {r["domain"].strip().lower(): r for r in live}
+        for r in existing:
+            if r["rr_type"] in ("A", "AAAA", "MX", "NS", "CNAME") and (r["ip"] or r["cname_chain"] or r["target"]):
+                hosts = r["cname_chain"].split(">") if r["cname_chain"] else ([r["target"]] if r["target"] else [])
+                r.update(att.attribute(hosts, r["ip"], by_dom[r["domain"]]["institution"], r["domain"]))
+        done = {r["domain"] for r in existing}
+        runinfo = {d: i for d, i in runinfo.items() if d in done}
     all_rows = list(existing)
     with open(nodes_p, "w", encoding="utf-8", newline="") as f:
         wr = csv.DictWriter(f, NODE_COLS, lineterminator="\n")
@@ -707,7 +719,7 @@ def main() -> int:
         f.flush()
         for i, row in enumerate(live, 1):
             d = row["domain"].strip().lower()
-            if d in done and d in runinfo:
+            if (d in done and d in runinfo) or args.reattribute:
                 continue
             say(f"  [{i}/{len(live)}] {row['institution']} — {d}")
             all_rows += scan_domain(row, iso3, domains_all, dictionary, att, wr, misses, runinfo)
@@ -778,7 +790,10 @@ def main() -> int:
     w = csv.DictWriter(buf, fields, lineterminator="\r\n" if crlf else "\n")
     w.writeheader()
     w.writerows(inst)
-    inp.write_bytes((b"\xef\xbb\xbf" if bom else b"") + buf.getvalue().encode("utf-8"))
+    try:
+        inp.write_bytes((b"\xef\xbb\xbf" if bom else b"") + buf.getvalue().encode("utf-8"))
+    except PermissionError:  # open in Excel: the scan stands, and `--reattribute` writes it back later
+        say(f"  {inp.name} is locked; status not written back: close it and re-run with --reattribute")
 
     a = roll["all"]
     print(f"{iso3} · institutions {a['institutions']} · names {a['names']} · routable {a['routable']} · "
