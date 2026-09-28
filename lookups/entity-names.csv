@@ -85,6 +85,7 @@ action-aid-togo,Action Aid Togo,full,1
 action-sa,Action SA,full,1
 actionaid-malawi,ActionAid Malawi,full,1
 actis,Actis,full,8
+acumen,Acumen,full,1
 acusensus,Acusensus. Cette,full,1
 acv-auctions,ACV Auctions. Son,full,1
 ada-lovelace-institute,Ada Lovelace Institute,full,1
@@ -211,11 +212,11 @@ african-center-for-economic-transformation,African Center for Economic Transform
 african-center-for-equitable-development,African Center for Equitable Development,full,1
 african-centre-for-biodiversity,African Centre for Biodiversity,full,2
 african-centre-for-technology-studies,African Centre for Technology Studies,full,2
-african-commission,African Commission,full,4
+african-commission,African Commission,full,5
 african-court-on-human-and-peoples-rights,African Court of Human and Peoples' Rights,full,1
 african-credit-rating-agency,African Credit Rating Agency,full,1
 african-curriculum-association,African Curriculum Association,full,1
-african-development-bank,African Development Bank,full,4
+african-development-bank,African Development Bank,full,6
 african-digital-development-agency,African Digital Development Agency,full,1
 african-digital-rights-network,African Digital Rights Network,full,3
 african-digital-week,African Digital Week,full,1
@@ -249,7 +250,7 @@ african-space-agency,African Space Agency,full,2
 african-startup-conference,African Startup Conference,full,1
 african-tax-administration-forum,African Tax Administration Forum,full,10
 african-tech-startups-funding-report,African Tech Startups Funding Report,full,3
-african-telecommunications-union,African Telecommunications Union,full,3
+african-telecommunications-union,African Telecommunications Union,full,4
 african-trade-insurance-agency,African Trade Insurance Agency,full,1
 african-union,African Union,full,8
 african-union-commission,African Union Commission,full,6
@@ -355,7 +356,7 @@ airports-of-mauritius,Airports of Mauritius,full,1
 airqo,AirQo,full,1
 airsmat,AirSmat,full,2
 airtel,Airtel,full,2
-airtel-africa,Airtel Africa,full,8
+airtel-africa,Airtel Africa,full,7
 airtel-africa-foundation,Airtel Africa Foundation,full,4
 airtel-chad,Airtel Chad,full,2
 airtel-congo,Airtel Congo,full,4
@@ -376,7 +377,7 @@ airtel-rdc,Airtel RDC,full,2
 airtel-rwanda,Airtel Rwanda,full,1
 airtel-seychelles,Airtel Seychelles,full,2
 airtel-tanzania,Airtel Tanzania,full,6
-airtel-uganda,Airtel Uganda,full,6
+airtel-uganda,Airtel Uganda,full,7
 airtel-zambia,Airtel Zambia,full,2
 aisca,AISCA,full,1
 aisca-foundation,AISCA Foundation,full,1
@@ -468,7 +469,7 @@ amader,AMADER,full,2
 aman-consumer-finance,AMAN Consumer Finance,full,1
 amanorm,AMANORM,full,2
 amaro-figueiredo,Amaro Figueiredo,full,1
-amazon,Amazon,full,1
+amazon,Amazon,full,2
 amazon-web-services,Amazon Web Services,full,7
 ambimetric-portugal,Ambimetric Portugal,full,1
 amcham-ghana,AmCham Ghana,full,3
@@ -965,7 +966,8 @@ bjorn-soren-gigler,Bjorn-Soren Gigler,full,1
 black-sash,Black Sash,full,1
 blackrock,BlackRock,full,1
 blaise-azitemina,Blaise Azitemina Responsable,full,1
-blantyre-city-council,Blantyre City Council,full,1
+blantyre-city-council,Blantyre City Council,full,2
+blantyre-city-council-malawi,Blantyre City Council,full,1
 blantyre-district-council,Blantyre District Council,full,1
 blerta-cela,Blerta Cela,full,1
 blnk,Newsfeed Blnk,full,1
@@ -1006,6 +1008,7 @@ bofinet,BoFiNet,full,8
 bokeli,Bokeli,full,1
 bola-tinubu,President Bola Tinubu,full,1
 bonews,BONews,full,1
+bongohive,BongoHive,full,1
 bonisa-applied-insights,Bonisa Applied Insights,full,1
 boost-africa,Boost Africa,full,1
 border-management-authority,Border Management Authority,full,10
@@ -1066,7 +1069,7 @@ brics,BRICS,full,12
 brics-pay,BRICS Pay,full,2
 bridge-fiber-solutions,Bridge Fiber Solutions,full,1
 bridge-for-billions,Bridge for Billions,full,1
-bridge-open-access,Bridge Open Access,full,1
+bridge-open-access,Bridge Open Access,full,2
 bridgforte,Bridgforte,full,2
 britacom,BRITACOM,full,1
 britam-uganda,Britam Uganda,full,1
@@ -1114,7 +1117,7 @@ business-eswatini,Business Eswatini,full,2
 business-federation-eswatini,Business Federation of Eswatini,full,1
 business-mauritius,Business Mauritius,full,1
 business-registration-service,Business Registration Service,full,1
-business-remarks,Business Remarks,full,2
+business-remarks,Business Remarks,full,3
 busitema-university,Busitema University,full,2
 butec,Butec Energies,full,1
 buupass,BuuPass,full,1
@@ -1195,7 +1198,7 @@ capital-market-authority-ethiopia,Capital Market Authority,full,1
 capital-markets-and-securities-authority-tanzania,Capital Markets and Securities Authority,full,1
 capital-markets-authority-uganda,Capital Markets Authority of Uganda,full,1
 capital-pay,Capital Pay,full,5
-capitec,Capitec,full,4
+capitec,Capitec,full,5
 capitec-connect,Capitec Connect,full,1
 capmas-egypt,CAPMAS,full,6
 capss,CAPSS,full,1
@@ -1228,7 +1231,7 @@ catherine-nakalembe,Catherine Nakalembe,full,1
 catholic-relief-services,Catholic Relief Services,full,1
 cauridor,Cauridor,full,3
 cavaleros,Cavaleros,full,2
-cbn,Central Bank of Nigeria,acronym,10
+cbn,Central Bank of Nigeria,acronym,11
 cbrain,CBrain Consulting,full,1
 cca-bank,CCA-Bank,full,4
 ccaf,Cambridge Centre for Alternative Finance,acronym,3
@@ -1441,8 +1444,10 @@ cicos,CICOS,full,1
 cidca-china,China International Development Cooperation Agency,acronym,1
 cidrz,CIDRZ,full,2
 ciena,Ciena,full,1
+cigem-mali,CIGEM,full,1
 cigi,Centre for International Governance Innovation,acronym,1
 cina-lawson,Cina Lawson,full,7
+cineca,CINECA,full,1
 cinetpay,CinetPay,full,1
 cipa-botswana,Companies and Intellectual Property Agency,acronym,1
 cipc,Companies and Intellectual Property Commission,acronym,3
@@ -1604,7 +1609,7 @@ commerzbank,Commerzbank AG,full,1
 commission-bancaire-umoa,UMOA XVI COMMISSION BANCAIRE,full,1
 commission-for-gender-equality-south-africa,Commission for Gender Equality,full,1
 commission-nationale-eligibilite-senegal,Commission Nationale,partial,1
-commission-on-administrative-justice-kenya,Administrative of Justice,partial,1
+commission-on-administrative-justice-kenya,Administrative Justice,partial,1
 commission-on-revenue-allocation-kenya,Revenue Allocation,partial,1
 commissioner-for-refugees-eswatini,Commissioner for Refugees,full,1
 commissioner-for-refugees-lesotho,Commissioner of Refugees,full,1
@@ -1738,7 +1743,7 @@ council-of-europe,Council of Europe,full,2
 council-of-governors-kenya,Council of Governors,full,4
 council-of-higher-education-turkiye,Council of Higher Education,partial,1
 council-of-ministers-algeria,Council of Ministers,full,1
-council-of-ministers-ethiopia,Council of Ministers,full,4
+council-of-ministers-ethiopia,Ethiopia’s Council of Ministers,full,2
 council-of-ministers-mozambique,Council of Ministers,full,4
 council-of-ministers-somalia,Council of Ministers,full,1
 council-of-ministers-south-sudan,President. The Council of Ministers,full,1
@@ -1812,6 +1817,7 @@ ctdec-mali,CTDEC,full,2
 ctip-cote-divoire,Directeur du CTIP,full,1
 ctm360,CTM360,full,1
 cto-forum-algeria,CTO Forum Algeria,full,1
+ctop-togo,La CTOP,full,1
 cupia,CUPIA,full,1
 curriculum-development-centre-zambia,CURRICULUM DEVELOPMENT CENTRE LUSAKA,full,1
 customs-management-system-mauritius,Customs Management System,full,1
@@ -1869,7 +1875,7 @@ data-for-impact,Data for Impact,full,1
 data-for-policy,Data for Policy,full,2
 data-landscapers,Data Landscapers,full,9
 data-must-speak,Data Must Speak,full,1
-data-privacy-lawyers-association,Data Privacy Lawyers Association,full,2
+data-privacy-lawyers-association,Data Privacy Lawyers Association,full,3
 data-protection-act-2022-eswatini,Eswatini Data Protection Act,partial,1
 data-protection-act-2023-seychelles,Seychelles Data Protection Act,partial,1
 data-protection-africa,Data Protection Africa,full,1
@@ -1904,7 +1910,7 @@ dbe-south-africa,Department of Basic Education,acronym,4
 dbsa,Development Bank of Southern Africa,acronym,10
 dc-byte,DC Byte,full,1
 dcaf,DCAF and Enabel,full,1
-dcdt-south-africa,Department of Communications and Digital Technologies,acronym,6
+dcdt-south-africa,Department of Communications and Digital Technologies,acronym,7
 dcrnpi-south-sudan,DCRNPI,full,2
 dcs-group,DCS Group,full,1
 dcspay,DCSPay,full,1
@@ -1918,7 +1924,7 @@ deeds-registry-act-1968-eswatini,Deeds Registry Act,partial,1
 deeds-registry-botswana,Deeds Registry,full,1
 deep-learning-indaba,Deep Learning Indaba,full,4
 deep-programme,EAC DEEP Programme,full,1
-deepseek,DeepSeek,full,5
+deepseek,DeepSeek,full,6
 defenddefenders,DefendDefenders,full,1
 defenders-coalition-somalia,Defenders Coalition Somalia,full,1
 deg,Description DEG,full,9
@@ -1928,7 +1934,7 @@ delta-mining-limited,Delta Mining Limited,full,1
 delta40,Delta40 Fund,full,1
 democracy-for-citizens-party-kenya,Democracy for Citizens Party,full,1
 democracy-hub-ghana,Democracy Hub,full,1
-democratic-alliance,Democratic Alliance,full,1
+democratic-alliance,Democratic Alliance,full,2
 denis-kadima-kazadi,Denis Kadima Kazadi,full,1
 dennis-odife-panel,Dennis Odife Panel,full,1
 deo-electronique,DEO Electronique,full,1
@@ -2081,7 +2087,7 @@ digital-parks-africa,Digital Parks Africa,full,6
 digital-policy-alert,Digital Policy Alert,full,4
 digital-policy-engagement-series,Digital Policy Engagement Series,full,1
 digital-public-goods-alliance,Digital Public Goods Alliance,full,5
-digital-realty,Digital Realty,full,9
+digital-realty,Digital Realty,full,8
 digital-rights-frontlines,Digital Rights Frontlines,full,1
 digital-rights-lawyers-initiative,Digital Rights Lawyers Initiative,full,2
 digital-services-act-botswana,Digital Services,partial,1
@@ -2611,6 +2617,7 @@ eutelsat,Eutelsat,full,10
 eutelsat-konnect,EUTELSAT KONNECT,full,1
 eutelsat-oneweb,Eutelsat OneWeb,full,1
 eventify,EVENTIFY,full,2
+evolve-vas,Evolve VAS,full,1
 ewade-eswatini,Eswatini Water and Agricultural Development Enterprise,acronym,1
 ewura,ENERGY AND WATER UTILITIES REGULATORY AUTHORITY,acronym,1
 examinations-council-of-zambia,Examinations Council of Zambia,full,1
@@ -2856,7 +2863,7 @@ fsdt,BOT and FSDT,full,1
 fsnau,Food Security and Nutrition Analysis Unit,acronym,1
 fsrp-km-comores,FSRP-KM,partial,1
 fsrp-tchad,FSRP-Tchad,full,1
-fsrp-togo,FSRP-Togo,full,3
+fsrp-togo,FSRP-Togo,full,4
 fsusn-guinea,FSUSN,full,1
 ftm-madagascar,Foiben-Taosarintanin'i Madagasikara,acronym,1
 fugas,FUGAS,full,5
@@ -2923,9 +2930,9 @@ garissa-county-government,Garissa County Government,full,3
 garsu-pasaulis,Garsu Pasaulis,full,1
 gasynet,GasyNET,full,1
 gates-anthropic-partnership,Gates Foundation and Anthropic,partial,1
-gates-foundation,Gates Foundation,full,11
+gates-foundation,Gates Foundation,full,12
 gateway-partners,Gateway Partners,full,2
-gauteng-department-of-e-government,Gauteng Department,partial,2
+gauteng-department-of-e-government,Gauteng Department,partial,4
 gauteng-department-of-economic-development,Gauteng MEC for Economic Development,partial,1
 gauteng-department-of-education,Gauteng Department of Education,full,2
 gauteng-department-of-health,Department of Health,partial,1
@@ -3040,7 +3047,7 @@ github,GitHub,full,2
 giuseppe-novelli,Le Pr Giuseppe Novelli,full,1
 giuseppe-perrone,Giuseppe Perrone,full,1
 givedirectly,GiveDirectly,full,2
-giz,GIZ Nigeria,full,1
+giz,GIZ Egypt,full,2
 glacy-e,GLACY-e,full,1
 gleif,GLEIF,full,1
 glmis-ghana,Ghana Labour Management Information System,acronym,1
@@ -3177,7 +3184,7 @@ govstack,GovStack,full,4
 govtech-cameroon,GovTech,full,1
 gozem,Gozem,full,7
 gpe,Global Partnership for Education,acronym,1
-gpsdd,Global Partnership for Sustainable Development Data,acronym,2
+gpsdd,Global Partnership for Sustainable Development Data,acronym,3
 gpt-bj,GPT-BJ,full,1
 gpx-global-systems,GPX Global Systems,full,4
 granite-holding-financial-investments,Granite Holding for Financial Investments,full,1
@@ -3225,6 +3232,7 @@ gtbank,GTBank,full,1
 gtmi,Egypt. GTMI,full,1
 gtsc-gambia,Gambia Transport Service Company,acronym,1
 guangdong-welleap-information-technology,Guangdong Welleap Information Technology Company,full,1
+guardrisk,Guardrisk,full,1
 guce-ci,GUCE CI,full,1
 guce-connect,GUCE CONNECT,full,1
 guce-niger,GUCE Niger,full,1
@@ -3251,7 +3259,7 @@ gva-togo,GVA Togo,full,1
 gwp-ao,GWP AO,full,1
 h3africa,AI. H3Africa,full,1
 haac-benin,La HAAC,full,1
-hac-guinea,La HAC,full,3
+hac-guinea,La HAC,full,4
 hac-mali,HAC du Mali,full,1
 hadina-rimtic,Hadina RIMTIC,full,1
 haidi,HAIDI,full,1
@@ -3468,8 +3476,8 @@ iec-south-africa,Independent Electoral Commission,acronym,1
 iecms-eswatini,Integrated Electronic Case Management System,acronym,1
 ifad,International Fund for Agricultural Development,acronym,2
 ifakara-health-institute,Ifakara Health Institute,full,1
-ifc,International Finance Corporation,acronym,8
-ifdc,International Fertilizer Development Center,acronym,2
+ifc,International Finance Corporation,acronym,9
+ifdc,International Fertilizer Development Center,acronym,3
 ifes,About IFES,full,1
 ifmis-kenya,Integrated Financial Management Information System,acronym,1
 ifpri,International Food Policy Research Institute,acronym,1
@@ -3510,7 +3518,7 @@ ikamvayouth,IkamvaYouth,full,1
 ikea-egypt,IKEA Egypt,full,1
 ikoue,Ikoue,full,1
 ilea-botswana,International Law Enforcement Academy,acronym,1
-ilo,International Labour Organization,acronym,3
+ilo,International Labour Organisation,acronym,3
 ilumina-angola,Ilumina Angola,full,1
 ilx-fund,ILX Fund,full,1
 ilyas-moussa-dawaleh,Ilyas Moussa Dawaleh,full,1
@@ -3596,7 +3604,6 @@ information-and-communications-university-zambia,Information and Communications 
 information-commission-gambia,Information Commission of The Gambia,full,1
 information-commission-seychelles,Information Commission of Seychelles,full,3
 information-data-protection-commission-botswana,Information and Data Protection Commission,full,5
-information-regulator-south-africa,Information Regulator,full,11
 information-systems-security-agency,Information Systems Security Agency,full,1
 infosi,INFOSI,full,9
 infpp-togo,INFPP,full,2
@@ -3757,7 +3764,7 @@ investec,Investec Ltd,full,1
 investec-tunisie,Orange Tunisie. Investec,full,1
 investment-climate-facility-for-africa,Investment Climate Facility for Africa,full,1
 inviis-lab,InViis Lab,full,1
-iom,International Organisation for Migration,acronym,4
+iom,International Organisation for Migration,acronym,3
 iopn,Leitung von IOPn,full,1
 iota-foundation,IOTA Foundation,full,1
 iozera,Iozera,full,3
@@ -3815,10 +3822,10 @@ italy,Italy,full,3
 itana,Itana,full,3
 itel-angola,ITEL. Nessa,full,1
 iti-egypt,Information Technology Institute,acronym,2
-itida-egypt,Information Technology Industry Development Agency,acronym,8
+itida-egypt,Information Technology Industry Development Agency,acronym,7
 itie-rdc,ITIE-RDC,full,1
 its-engineering,FS Engineering,full,1
-itu,International Telecommunication Union,acronym,8
+itu,International Telecommunication Union,acronym,5
 iunetworks,IUNetworks,full,1
 ivanhoe-mines,Ivanhoe Mines,full,1
 ivoire-gov-tech-lab,Ivoire Gov Tech Lab,full,1
@@ -3829,7 +3836,7 @@ ivoire-tech-scale-up,Ivoire Tech Scale UP,full,1
 ivortech,IvorTech,full,1
 iwmi,International Water Management Institute,acronym,1
 ixafrica-data-centre-limited,IXAfrica Data Centre,full,1
-ixafrica-data-centres,Data Centres,partial,1
+ixafrica-data-centres,XAfrica Data Centres,partial,7
 ixafrica-oracle-oci-nairobi,Oracle Cloud Infrastructure,acronym,1
 ixp-guinee,IXP GUINEE,full,1
 ixpn,CEO of IXPN,full,1
@@ -3883,7 +3890,7 @@ jethi-software-development,Jethi Software Development PLC,full,1
 jeunesse-plus-niger,ONG Jeunesse Plus,full,1
 jhpiego,JHPIEGO,full,1
 jhub-africa,JHUB Africa,full,1
-jica,Japan International Cooperation Agency,acronym,6
+jica,Japan International Cooperation Agency,acronym,7
 jidiiya-fund,JIDIIYA FUND,full,2
 jim-adams,Jim Adams,full,1
 jimmy-opelo,Jimmy Opelo,full,1
@@ -4004,6 +4011,7 @@ kenya-computer-incident-response-team,National Kenya Computer Incident Response 
 kenya-copyright-board,Kenya Copyright Board,full,2
 kenya-cyber-resilience-project,Kenya Cyber Resilience,partial,2
 kenya-data-protection-act-2019,Kenya’s Data Protection Act,partial,2
+kenya-defence-forces,Kenya Defence Forces,full,1
 kenya-digital-agricultural-information-bill-2026,DIGITAL AGRICULTURAL INFORMATION BILL,partial,1
 kenya-digital-economy-acceleration-programme,Kenya Digital Economy Acceleration Programme,full,1
 kenya-digital-economy-acceleration-project,Kenya Digital Economy Acceleration Project,full,2
@@ -4078,6 +4086,7 @@ kogi-state-government,Kogi State Government,full,1
 koica,KOICA,full,11
 koko-networks,KOKO Networks,full,1
 komlan-sedzro,Pr Komlan Sedzro,full,1
+komor-ia,Komor IA,full,1
 komor-switch,Komor Switch,full,2
 komoralink,KomoraLink,full,1
 komori-ia,Komori IA,full,1
@@ -4134,7 +4143,7 @@ lads-africa,LADS Africa,full,1
 lagos-chamber-of-commerce-and-industry,Lagos Chamber of Commerce and Industry,full,2
 lagos-geographic-information-service,Lagos Geographic Information Service,full,1
 lagos-state-government,Lagos State Government,full,5
-lagos-state-high-court,High Court of Lagos State,full,1
+lagos-state-high-court,Lagos State High Court,full,2
 lagos-state-ministry-of-education,Lagos State Ministry of Education,full,1
 lagos-state-ministry-of-health,Lagos State Ministry of Health,full,1
 lagos-state-university,Lagos State University,full,1
@@ -4157,6 +4166,7 @@ lasac,LASAC,full,1
 lasr-libya,Libyan Authority for Scientific Research,acronym,2
 lastic,LASTIC,full,1
 laterite-rwanda,Laterite Rwanda,full,1
+latra-tanzania,LATRA,full,1
 launch-africa,Launch Africa,full,2
 launch-africa-ventures,Launch Africa Ventures,full,7
 laurent-munzemba-kompa,Laurent Munzemba Kompa,full,1
@@ -4377,7 +4387,7 @@ malawi-electoral-commission,Malawi Electoral Commission,full,2
 malawi-health-equity-network,Malawi Health Equity Network,full,2
 malawi-human-rights-commission,Malawi Human Rights Commission,full,6
 malawi-institute-of-education,Malawi Institute of Education,full,1
-malawi-police-service,Malawi Police Service,full,7
+malawi-police-service,Malawi Police Service,full,9
 malawi-prison-service,Malawi Prison Service,full,1
 malawi-red-cross-society,Malawi Red Cross Society,full,1
 malawi-revenue-authority,Malawi Revenue Authority,full,9
@@ -4634,7 +4644,6 @@ mineworkers-investment-company,Mineworkers Investment Company,full,1
 minfamu-angola,MINFAMU,full,1
 minfopra,MINFOPRA,full,3
 minhdu-cameroon,MINHDU,full,1
-minict-rwanda,MINICT,full,1
 mininfra-rwanda,MININFRA,full,2
 minirena-rwanda,MINIRENA,full,1
 ministere-administration-territoriale-togo,Administration Territoriale,partial,1
@@ -4761,7 +4770,7 @@ ministry-of-external-relations-cameroon,Ministry of External Relations,full,1
 ministry-of-finance,Ministry of Finance,full,2
 ministry-of-finance-algeria,Ministry of Finance,full,2
 ministry-of-finance-and-development-planning-lesotho,Ministry of Finance and Development Planning,full,2
-ministry-of-finance-and-development-planning-liberia,Ministry of Finance and Development Planning,full,4
+ministry-of-finance-and-development-planning-liberia,Ministry of Finance and Development Planning,full,3
 ministry-of-finance-and-economic,Ministry of Finance and Economic Affairs,full,1
 ministry-of-finance-and-economic-affairs-gambia,Ministry of Finance and Economic Affairs,full,6
 ministry-of-finance-and-economic-planning-sudan,Ministry of Finance and Economic Planning,full,1
@@ -4838,6 +4847,7 @@ ministry-of-health-seychelles,Ministry of Health Seychelles,full,1
 ministry-of-health-sierra-leone,Ministry of Health,full,4
 ministry-of-health-sudan,Ministry of Health,full,1
 ministry-of-health-tanzania,TANZANIA MINISTRY OF HEALTH,full,1
+ministry-of-health-tunisia,Tunisia's Ministry of Health,full,2
 ministry-of-health-zambia,Zambia Ministry of Health,full,2
 ministry-of-higher-and-tertiary-education-zimbabwe,Ministry of Higher and Tertiary Education,full,2
 ministry-of-higher-education-and-scientific-research-algeria,Ministry of Higher Education and Scientific Research,full,1
@@ -4873,7 +4883,7 @@ ministry-of-information-and-communication-technology-namibia,Ministry of Informa
 ministry-of-information-and-communications-sudan,Sudanhorizon The Ministry of Information and Communications,full,1
 ministry-of-information-and-digitalisation-malawi,Ministry of Information and Digitalisation,full,1
 ministry-of-information-and-digitalization-malawi,Malawi Ministry of Information and Digitalization,full,1
-ministry-of-information-and-media-zambia,Ministry of Information and Media,full,3
+ministry-of-information-and-media-zambia,Ministry of Information and Media,full,5
 ministry-of-information-and-national-orientation-nigeria,Minister of Information and National Orientation,partial,1
 ministry-of-information-communication-technology-and-postal-services-south-sudan,Communication Technology and Postal Services,partial,2
 ministry-of-information-communications-and-the-digital-economy-kenya,Communications and The Digital Economy,partial,1
@@ -5038,11 +5048,11 @@ mintoul,MINTOUL,full,1
 mintp-cameroon,Mintp,full,2
 minusca,MINUSCA,full,5
 mionjo-madagascar,Projet MIONJO,full,1
-mip-holdings,MIP Holdings,full,3
+mip-holdings,MIP Holdings,full,4
 miru-systems,Miru Systems,full,1
 misa,Media Institute of Southern Africa,acronym,2
 misa-mozambique,Media Institute of Southern Africa,acronym,1
-misa-zimbabwe,MISA Zimbabwe,full,1
+misa-zimbabwe,MISA Zimbabwe,full,2
 misau-mozambique,MISAU,full,3
 misean-cara,Misean Cara,full,2
 misort-africa,Misort Africa,full,1
@@ -5096,6 +5106,7 @@ mojaloop-foundation,Mojaloop Foundation,full,5
 molotel,Molotel,full,1
 molten-ventures,Molten Ventures,full,1
 moment,Moment,full,3
+momentum-group,Momentum Group,full,1
 momo-helep-pro,MoMo Helep Pro,full,1
 monacosat,Monacosat,full,1
 mondli-gungubele,Mondli Gungubele,full,1
@@ -5185,7 +5196,7 @@ mtn-sifiso-dabengwa-data-centre,Dabengwa Sifiso Data Centre,partial,1
 mtn-south-africa,MTN South Africa,full,8
 mtn-south-sudan,MTN South Sudan,full,7
 mtn-sudan,MTN Sudan,full,5
-mtn-uganda,MTN Uganda,full,4
+mtn-uganda,MTN Uganda,full,5
 mtn-zambia,MTN Zambia,full,1
 mtnima-mauritania,MTNIMA,full,1
 mts,MTS and Inspur,full,1
@@ -5205,7 +5216,7 @@ multilateral-investment-guarantee-agency,Multilateral Investment Guarantee Agenc
 multipay-drc,MultiPay DRC,full,1
 multiple-cloud-customers-huawei-cloud,Huawei Cloud,partial,1
 mulungushi-university,Mulungushi University,full,1
-muni-gnq,Muni Dinero,full,1
+muni-gnq,Muni Dinero,full,2
 municipal-guard-libya,Municipal Guard,full,1
 municipal-money,Municipal Money,full,1
 municipality-of-tripoli-centre,Libya Municipality of Tripoli Centre,full,1
@@ -5217,6 +5228,7 @@ musodev,MUSODEV MUSODEV,full,1
 mutapa-investment-fund,Shareholder Mutapa Investment Fund,full,1
 muzi-mhlongo,Muzi Mhlongo,full,1
 mvola,MVola,full,6
+mwan-events,MWAN Events,full,1
 mwango-brain,Mwango Brain,full,2
 mweiti-malawi,MWEITI,full,1
 mwiml,MWiML,full,1
@@ -5246,7 +5258,8 @@ nafasi,Nafasi,full,1
 nafdac,NAFDAC,full,1
 nafebol-liberia,NAFEBOL,full,1
 nafem,Nigerian Autonomous Foreign Exchange Market,acronym,1
-nafeza-egypt,NAFEZA,full,1
+nafeza-egypt,Nafeza,full,2
+nafith-egypt,Nafith Egypt,full,1
 naftal,Naftal,full,2
 nahcon,NAHCON,full,2
 naicom,NAICOM,full,2
@@ -5479,7 +5492,7 @@ national-port-authority-liberia,National Port Authority,full,1
 national-productivity-and-competitiveness-council-mauritius,National Productivity and Competitiveness Council,full,1
 national-prosecution-authority-zambia,National Prosecution Authority,full,1
 national-public-health-agency-sierra-leone,National Public Health Agency,full,2
-national-public-health-institute-liberia,National Public Health Institute of Liberia,full,3
+national-public-health-institute-liberia,National Public Health Institute of Liberia,full,4
 national-public-procurement-authority-sierra-leone,National Public Procurement Authority,full,1
 national-qualifications-framework,NATIONAL QUALIFICATIONS FRAMEWORK,full,1
 national-radio-and-television-administration-china,China’s National Radio and Television Administration,full,1
@@ -5499,6 +5512,7 @@ national-signals-bureau-ghana,National Signals Bureau,full,1
 national-skills-authority,National Skills Authority,full,1
 national-sme-incubator-scheme-mauritius,National SME Incubator Scheme,full,1
 national-social-inclusion-foundation-mauritius,National Social Inclusion Foundation,full,1
+national-social-insurance-fund-south-sudan,National Social Insurance Fund,full,1
 national-social-investment-programme-agency-nigeria,National Social Investment Programme Agency,full,1
 national-social-register-nigeria,National Social Register,full,1
 national-social-security-authority-zimbabwe,National Social Security Authority of Zimbabwe,full,1
@@ -5624,7 +5638,7 @@ niger-telecom,Niger Telecom,full,2
 niger-telecoms,Niger Telecoms,full,2
 nigeria,Nigeria,full,1
 nigeria-afcfta-coordination-office,Nigeria AfCFTA Coordination Office,full,1
-nigeria-customs-service,Nigeria Customs Service,full,9
+nigeria-customs-service,Nigeria Customs Service,full,10
 nigeria-cybercrimes-act-2024,Cybercrimes Act,partial,2
 nigeria-data-protection-act-2023,Nigeria Data Protection Act,partial,11
 nigeria-digital-postcode-system,Digital Postcode System,full,1
@@ -5680,7 +5694,7 @@ nist,National Institute of Standards and Technology,acronym,1
 nisti,NISTI,full,1
 nita-ghana,National Information Technology Agency,acronym,10
 nita-niger,Avec NITA,full,1
-nita-uganda,National Information Technology Authority,acronym,3
+nita-uganda,National Information Technology Authority,acronym,2
 nitda,National Information Technology Development Agency,acronym,10
 nitda-act-2007,National Information Technology Development Act,acronym,1
 nitt,Nigerian Institute of Transport Technology,acronym,1
@@ -5781,7 +5795,7 @@ obimenguere-comunicaciones,Obimenguere Comunicaciones,full,1
 obms-zimbabwe,Online Border Management System,acronym,2
 obr-burundi,OBR. Many of Burundi,full,1
 observatoire-du-sahara-et-du-sahel,Observatoire du Sahara,partial,2
-observatoire-national-de-la-communication-niger,Observatoire National,partial,10
+observatoire-national-de-la-communication-niger,Observatoire National,partial,9
 observatorio-guinea-ecuatorial-2035,DEL OBSERVATORIO GUINEA ECUATORIAL,partial,1
 obsydya,OBSYDYA,full,1
 ocha,Venue OCHA,full,1
@@ -5881,6 +5895,7 @@ onec-congo,ONEC-C,full,1
 oneci-civ,ONECI,full,11
 oneci-guinea,ONECI,full,10
 onee-be-morocco,ONEE-BE,full,1
+onehealthehr,OneHealthEHR,full,1
 oneid,OneID,full,1
 oneweb,OneWeb,full,2
 onf-burkina-faso,ONF-BF,full,1
@@ -5944,7 +5959,7 @@ opuwo-town-council,Opuwo Town Council,full,1
 oqsf-benin,OQSF. Cependant,full,1
 oqsf-ci,OQSF-CI,full,1
 orabank,Orabank,full,3
-oracle,Oracle,full,9
+oracle,Oracle,full,8
 orange,Orange,full,9
 orange-bank-africa,Orange Bank Africa,full,2
 orange-bissau,Orange Bissau,full,2
@@ -6159,6 +6174,7 @@ pentecost-university,Pentecost University,full,1
 people-power-inclusion,People Power Inclusion,full,1
 pepfar,PEPFAR,full,11
 pepkor,Pepkor,full,2
+perplexity,Perplexity,full,1
 personal-data-protection-office-uganda,Personal Data Protection Office Uganda,full,1
 personnel-management-office-gambia,PERSONNEL MANAGEMENT OFFICE,full,1
 persons-with-disability-advisory-council-lesotho,Disability Advisory Council,partial,1
@@ -6260,7 +6276,7 @@ ppdaa-south-sudan,Public Procurement and Disposal of Assets Act,acronym,1
 ppmec-benin,PPMEC,full,3
 pppc-malawi,Public Private Partnership Commission,acronym,11
 pr-and-brand-network,PR and Brand Network,full,1
-pra-uemoa,PRA-UEMOA-Guinée,full,2
+pra-uemoa,PRA-UEMOA-Guinée,full,3
 pratic-congo,Pratic,full,3
 praz,Procurement Regulatory Authority of Zimbabwe,acronym,3
 pregols-burkina-faso,PREGOLS,full,1
@@ -6275,7 +6291,7 @@ presidency-of-senegal,Senegalese Presidency,full,1
 presidency-of-the-republic-cameroon,Presidency,full,2
 presidential-advisory-team-capital-market,Presidential Advisory Team,partial,1
 presidential-deeds-digitisation-programme,Presidential Deeds Digitisation Programme,full,1
-presidential-delivery-unit-zambia,Presidential Delivery Unit,full,9
+presidential-delivery-unit-zambia,Presidential Delivery Unit,full,8
 presidential-technical-committee-on-land-reforms,Presidential Technical Committee,partial,1
 presight,Presight,full,6
 press-union-of-liberia,Press Union of Liberia,full,3
@@ -6362,7 +6378,7 @@ public-procurement-appeals-authority-tanzania,Public Procurement Appeals Authori
 public-procurement-authority-ghana,Public Procurement Authority,full,1
 public-procurement-regulatory-authority-botswana,Public Procurement Regulatory Authority,full,1
 public-procurement-regulatory-authority-kenya,Public Procurement Regulatory Authority,full,1
-public-procurement-regulatory-authority-tanzania,Public Procurement Regulatory Authority,full,2
+public-procurement-regulatory-authority-tanzania,Public Procurement Regulatory Authority,full,3
 public-prosecution-egypt,Public Prosecution,full,3
 public-protector-south-africa,Public Protector,full,1
 public-sector-reform-secretariat-ghana,Public Sector Reform Secretariat,full,2
@@ -6530,7 +6546,7 @@ results-for-development,Results for Development,full,1
 retssm-guinea,RETSSM,full,2
 reunert,Reunert,full,1
 revenue-authority-act-2008-eswatini,Revenue Authority Act,partial,1
-revenue-services-lesotho,Revenue Services Lesotho,full,5
+revenue-services-lesotho,Revenue Services Lesotho,full,6
 revitalised-transitional-national-legislative-assembly,Revitalised Transitional National Legislative Assembly,full,1
 revitalized-national-legislative-assembly-south-sudan,Revitalized National Legislative Assembly of South,full,1
 revolutionary-government-of-zanzibar,Revolutionary Government of Zanzibar,full,4
@@ -6545,7 +6561,7 @@ ricowas,RICOWAS,full,1
 ricta,Rwanda Internet Community and Technology Alliance,acronym,5
 rida-zimbabwe,Road Infrastructure Development Agency,acronym,1
 right-to-access-information-commission-sierra-leone,Right To Access Information Commission East,full,1
-right-to-information-commission-ghana,Information Commission,partial,2
+right-to-information-commission-ghana,Information Commission,partial,3
 right2know-campaign,Right2Know Campaign,full,1
 rimatel,Rimatel,full,3
 ripoti,Ripoti Platform,full,1
@@ -6584,14 +6600,14 @@ rose-pola-pricemou,Rose Pola Pricemou,full,5
 rosemary-kisembo,Rosemary Kisembo,full,2
 royal-air-maroc,Royal Air Maroc,full,1
 royal-bafokeng-holdings,Actis and Royal Bafokeng,full,1
-royal-eswatini-police-service,Royal Eswatini Police Service,full,3
+royal-eswatini-police-service,Royal Eswatini Police Service,full,4
 royal-norwegian-embassy-asmara,Royal Norwegian Embassy,partial,1
 rpbnip-benin,RPBNIP,full,1
 rrea-liberia,Rural and Renewable Energy Agency,acronym,1
 rrs-ethiopia,Refugees and Returnees Service,acronym,3
 rsaweb,RSAWeb,full,2
 rsf,RSF Index,full,1
-rstp,Royal Science and Technology Park,acronym,10
+rstp,Royal Science and Technology Park,acronym,11
 rsu-comoros,Le Registre Social Unique,acronym,1
 rsu-cote-divoire,Registre Social Unique,acronym,4
 rsu-guinea,Registre Social Unifié,acronym,1
@@ -6634,6 +6650,7 @@ rwanda-institute-of-computing,Rwanda Institute of Computing,full,3
 rwanda-national-cyber-security-authority,Rwanda National Cyber Security Authority,full,1
 rwanda-national-data-sharing-policy,National Data Sharing Policy,full,6
 rwanda-national-electoral-commission,National Electoral Commission,full,2
+rwanda-polytechnic,Rwanda Polytechnic,full,1
 rwanda-private-sector-federation,Rwanda Private Sector Federation,full,1
 rwanda-revenue-authority,Rwanda Revenue Authority,full,5
 rwanda-social-security-board,Rwanda Social Security Board,full,1
@@ -6802,7 +6819,7 @@ seamfix,Seamfix,full,1
 search-for-common-ground,Search for Common Ground,full,1
 sebabatso-initiative,Sebabatso Initiative,full,1
 sebastien-pillay,Sebastien Pillay,full,1
-sec-nigeria,Securities and Exchange Commission,acronym,4
+sec-nigeria,Securities and Exchange Commission,acronym,5
 secdev,SecDev,full,1
 secretaria-de-estado-de-inteligencia-artificial-gnq,Estado de Inteligencia Artificial,partial,1
 secretariat-general-du-gouvernement-tchad,SECRETARIAT GENERAL DU GOUVERNEMENT,partial,1
@@ -6822,7 +6839,7 @@ seeg-gabon,La SEEG,full,1
 seerbit,SeerBit,full,1
 seevcash,SeevCash,full,1
 seft-seychelles,Seychelles Electronic Funds Transfer,acronym,1
-segesa-gnq,SEGESA,full,3
+segesa-gnq,SEGESA,full,4
 segid,SEGID,full,1
 segovia,Segovia,full,1
 seguce-rdc,SEGUCE RDC,full,1
@@ -7045,6 +7062,7 @@ sofrecom,Sofrecom,full,2
 sogeb,SOGEB,full,3
 sogema-technologies,SOGEMA Technologies,full,1
 sogesy,SOGESY,full,1
+soilahoudine-mohamed-ali,Soilahoudine Mohamed Ali,full,1
 solar-united-madagascar,Solar United Madagascar,full,1
 solarafrica,SolarAfrica,full,1
 solarx,SolarX,full,2
@@ -7258,12 +7276,12 @@ sudapass,SUDAPASS,full,6
 sudatel,Sudatel,full,5
 sudatel-telecom-group,Sudatel Telecom Group,full,2
 sudd-institute,SUDD Institute,full,1
-suez-canal-economic-zone,Suez Canal Economic Zone,full,2
+suez-canal-economic-zone,Suez Canal Economic Zone,full,3
 sugar-investment-trust-mauritius,Sugar Investment Trust,full,1
 suguba,Suguba Suguba,full,1
 sumec,Sumec,full,2
 sumsub,Sumsub,full,3
-sun-king,Sun King,full,2
+sun-king,Sun King,full,3
 sun-king-sun-king-financing,Sun King Financing Limited,full,1
 sunculture,SunCulture,full,1
 sungrow,Sungrow,full,1
@@ -7288,7 +7306,7 @@ swiss-african-business-circle,Swiss-African Business Circle,full,1
 swiss-agency-for-development-and-cooperation,Swiss Agency for Development and Cooperation,full,1
 swiss-tph,Swiss TPH,full,1
 sybrin,Sybrin,full,2
-sybyl,Sybyl Limited,full,1
+sybyl,Sybyl,full,1
 sycaopao,Le SYCAOPAO,full,1
 sydonia,SYDONIA,full,3
 sydonia-world,Sydonia World,full,2
@@ -7371,6 +7389,7 @@ tarmiez-information-technology,Tarmiez Information Technology,full,1
 tarms-zimbabwe,TaRMS,full,3
 tasaf,TASAF,full,5
 taslim-okunola,Profile of Taslim Okunola,full,1
+tata-consultancy-services,Tata Consultancy Services,full,1
 tatu-city,Tatu City,full,2
 tatweer,Tatweer,full,1
 taubyte,Taubyte,full,1
@@ -7444,7 +7463,7 @@ tell-group,Tell Group,full,2
 tell-markets,Tell Markets,full,1
 telma-madagascar,Madagascar. Telma,full,1
 telna,Telna,full,1
-telone,TelOne,full,11
+telone,TelOne,full,10
 temabe-global,TEMABE Global,full,1
 temekoun,Temekoun,full,1
 temenos,Temenos,full,1
@@ -7595,7 +7614,7 @@ trilinear-technologies,Trilinear Technologies,full,1
 trinity-technologies-south-sudan,Trinity Technologies Limited,full,1
 tripoli-chamber-of-commerce,Tripoli Chamber of Commerce,full,1
 troy-fitrell,Abidjan. Troy Fitrell,full,1
-truecaller,Truecaller,full,3
+truecaller,Truecaller,full,4
 trust-stamp,Trust Stamp,full,1
 trust-valley,Trust Valley,full,1
 trustpayway,Trustpayway,full,1
@@ -7634,7 +7653,7 @@ uae-general-civil-aviation-authority,UAE's General Civil Aviation Authority,full
 uae-ministry-of-foreign-affairs,Ministry of Foreign Affairs of Malawi,partial,1
 uasf-eswatini,Universal Access Service Fund,acronym,1
 uba-cameroon,United Bank for Africa,acronym,1
-uber,Uber Eats,full,1
+uber,Abuja Uber,full,1
 ubuntu-capital,Ubuntu Capital,full,1
 ubuntunet-alliance,UbuntuNet Alliance,full,3
 ucad,L’UCAD,full,1
@@ -7667,7 +7686,7 @@ uganda-medical-and-dental-practitioners-council,Uganda Medical and Dental Practi
 uganda-microfinance-regulatory-authority,Uganda Microfinance Regulatory Authority,full,1
 uganda-ministry-of-ict,Ministry of ICT,full,1
 uganda-national-ai-strategy,National AI Strategy,full,1
-uganda-national-bureau-of-standards,UGANDA NATIONAL BUREAU OF STANDARDS,full,2
+uganda-national-bureau-of-standards,Uganda National Bureau of Standards,full,3
 uganda-national-institute-for-teacher-education,Uganda National Institute for Teacher Education,full,1
 uganda-national-monitoring-and-evaluation-system,National Monitoring and Evaluation System,full,1
 uganda-nfis-ii,NFIS II,full,1
@@ -7713,7 +7732,7 @@ uncdf,United Nations Capital Development Fund,acronym,6
 uncovr,Uncovr,full,1
 unctad,UNCTAD,full,6
 unctad-asycuda-programme,ASYCUDA Programme,partial,1
-undp,United Nations Development Programme,acronym,5
+undp,United Nations Development Programme,acronym,6
 undp-country-offices,UNDP Country Offices,full,1
 undp-liberia,United Nations Development Programme,acronym,1
 undp-madagascar,United Nations Development Programme,acronym,1
@@ -7735,7 +7754,7 @@ unge-gnq,Universidad Nacional de Guinea Ecuatorial,acronym,2
 unhaco-congo,UNHACO,full,1
 unhcr,United Nations High Commissioner for Refugees,acronym,2
 unicc,United Nations International Computing Centre,acronym,1
-unicef,UNICEF,full,10
+unicef,UNICEF,full,11
 unicef-drc,UNICEF DRC,full,1
 unicef-guinea,UNICEF,full,1
 unicef-lesotho,UNICEF Lesotho,full,3
@@ -7902,6 +7921,7 @@ valornet,Valornet,full,1
 valr,CEO of VALR,full,1
 valu,AZ Valu,full,1
 value-added-tax-act-mauritius,Added Tax Act,full,3
+vambo-ai,Vambo AI,full,1
 vantage,Vantage,full,7
 vantage-capital,Vantage Capital,full,2
 vat-act-eswatini,VAT Act,full,1
@@ -7958,11 +7978,11 @@ virus-management,Virus Management. Elle,full,1
 visa,Visa Accept,full,2
 visabeira,Visabeira,full,1
 vision-group-uganda,Vision Group,full,1
-vision-invest,Vision Invest,full,5
+vision-invest,Vision Invest,full,6
 visionware,VisionWare,full,2
 vista-bank,Vista Bank,full,1
 visteon-corporation,Visteon,full,1
-vital-strategies,Vital Strategies,full,4
+vital-strategies,Vital Strategies,full,5
 vitalreg,VitalReg,full,2
 vitel-wireless,Vitel Wireless,full,1
 vitib,VITIB,full,10
@@ -8066,7 +8086,7 @@ william-ruto,William Ruto,full,1
 wingu-africa,Wingu Africa,full,10
 wingxtra-aerospace,Wingxtra Aerospace,full,1
 wiocc,West Indian Ocean Cable Company,acronym,1
-wiocc-group,West Indian Ocean Cable Company,acronym,3
+wiocc-group,West Indian Ocean Cable Company,acronym,1
 wiocc-group-open-access-data,Open Access Data Centres,partial,1
 wipo,World Intellectual Property Organization,acronym,5
 wiremi,Wiremi,full,1
@@ -8079,13 +8099,13 @@ women-tech-mali,Women Tech Mali,full,3
 workers-compensation-fund-control-board-zambia,Workers' Compensation Fund Control Board,full,1
 workers-compensation-fund-tanzania,Worker Compensation Fund,partial,1
 workke,WorkKE,full,1
-world-bank,World Bank,full,6
+world-bank,World Bank,full,9
 world-bank-digital-development-partnership,World Bank Digital Development Partnership,full,1
 world-bank-group-id4d-initiative,World Bank Group ID4D Initiative,full,1
 world-benchmarking-alliance,World Benchmarking Alliance,full,1
 world-customs-organization,World Customs Organization,full,4
 world-diabetes-foundation,World Diabetes Foundation,full,1
-world-economic-forum,World Economic Forum,full,2
+world-economic-forum,World Economic Forum,full,3
 world-food-programme,World Food Programme,full,5
 world-health-organization,World Health Organization,full,6
 world-internet-conference,World Internet Conference Digital Silk Road,full,2
@@ -8209,13 +8229,13 @@ zimbabwe-cyber-and-data-protection-act,Zimbabwe's Cyber and Data Protection Act,
 zimbabwe-deeds-registry,Deeds Registry,full,6
 zimbabwe-electoral-commission,Zimbabwe Electoral Commission,full,3
 zimbabwe-entrepreneurship-exchange,Zimbabwe Entrepreneurship Exchange,full,1
-zimbabwe-judicial-service-commission,Judicial Service Commission,full,3
+zimbabwe-judicial-service-commission,Judicial Service Commission,full,4
 zimbabwe-media-commission,Zimbabwe Media Commission,full,1
 zimbabwe-national-child-online-protection-policy,Zimbabwe National Child Online Protection Policy,full,3
 zimbabwe-open-university,Zimbabwe Open University,full,1
 zimbabwe-population-registry-system,Zimbabwe Population Registry System,full,1
 zimbabwe-public-service-commission,Public Service Commission,full,1
-zimbabwe-republic-police,Zimbabwe Republic Police,full,5
+zimbabwe-republic-police,Zimbabwe Republic Police,full,6
 zimbabwe-stock-exchange,Zimbabwe Stock Exchange,full,5
 zimbabwe-tourism-authority,Zimbabwe Tourism Authority,full,1
 zimbabwe-university-libraries-consortium,Zimbabwe University Libraries Consortium,full,1
@@ -8233,7 +8253,7 @@ zindi,Zindi,full,6
 zingsa,ZINGSA,full,5
 zipit,ZIPIT,full,2
 zipline,Zipline,full,1
-znbc,Zambia National Broadcasting Corporation,acronym,1
+znbc,Zambia National Broadcasting Corporation,acronym,2
 znfu,Zambia National Farmers Union,acronym,1
 zoho,Zoho Books,full,1
 zowasel,Zowasel,full,1
