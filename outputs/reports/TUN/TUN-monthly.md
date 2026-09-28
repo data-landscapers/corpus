@@ -1,11 +1,11 @@
 ---
 title: Tunisia — monthly update, August – September 2026
-compiled: 2026-09-27
-period: 2026-08-01 to 2026-09-27
+compiled: 2026-09-28
+period: 2026-08-01 to 2026-09-28
 place: TUN
-ledger_rows: 66
+ledger_rows: 70
 not_held: 5
-record: 072b7ba8011f
+record: 5f5c6d0cdfdf
 ---
 
 # Tunisia: monthly update, August – September 2026

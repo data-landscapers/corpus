@@ -1,11 +1,11 @@
 ---
 title: Equatorial Guinea — monthly update, August – September 2026
-compiled: 2026-09-27
-period: 2026-08-01 to 2026-09-27
+compiled: 2026-09-28
+period: 2026-08-01 to 2026-09-28
 place: GNQ
-ledger_rows: 32
+ledger_rows: 33
 not_held: 6
-record: baac9f60212a
+record: 40f33f318411
 ---
 
 # Equatorial Guinea: monthly update, August – September 2026
@@ -70,6 +70,11 @@ The government [formally pressed the supplier to deliver the equipment still out
 
 <!-- narrative: dpi--dpi-exchange -->
 The national interoperability framework the World Bank named as absent in 2024 is still absent, and August put a cost on that. At the National Development Agency's directorship handover on 7 August, its outgoing Inspector General [named limited data-sharing by line ministries as the agency's main obstacle](https://www.guineaecuatorialpress.com/noticias/milagrosa_obono_angue_preside_el_acto_oficial_de_entrega_de_despacho_de_la_agencia_nacional_de_desarrollo) to monitoring delivery against the National Sustainable Development Strategy. The agency is the body meant to see across government, and it is describing itself as unable to.
+<!-- /narrative -->
+### Digital Payments and Fintech
+
+<!-- narrative: dpi--dpi-pay -->
+The one payments instrument in the window is a standing one, surfaced by a sales pitch: a [Presidency order of 2025 prohibits cash collection of any tax, fee or contribution in the administration, requiring official bank accounts or authorised electronic platforms](https://www.guineaecuatorialpress.com/noticias/reunion_en_el_ministerio_de_transportes_sobre_la_propuesta_para_digitalizar_el_pago_de_impuestos_en_la_administracion_publica), cited when a domestic e-wallet provider presented itself to the transport ministry as a collection channel. The order's text, and whether collection has moved off cash, are not in the record held.
 <!-- /narrative -->
 ### Sectoral management information systems
 

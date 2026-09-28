@@ -294,7 +294,7 @@ def kind_of(path):
     return None
 
 
-CITED = re.compile(r"\]\(https?://")
+CITED = re.compile(r"\]\(<?https?://")  # `<…>` wraps a URL carrying spaces or parentheses
 FIGURE = re.compile(r"(?:US\$|R|EUR|£|\$)\s?\d[\d,.]*\s?(?:m|bn|billion|million)?"
                     r"|\b\d+(?:\.\d+)?\s?(?:%|per cent)"
                     r"|\b\d{1,3}(?:,\d{3})+\b"

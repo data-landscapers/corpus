@@ -1,11 +1,11 @@
 ---
 title: Chad — monthly update, August – September 2026
-compiled: 2026-09-27
-period: 2026-08-01 to 2026-09-27
+compiled: 2026-09-28
+period: 2026-08-01 to 2026-09-28
 place: TCD
-ledger_rows: 52
+ledger_rows: 53
 not_held: 22
-record: d83d9db4137d
+record: 9f52eebe746f
 ---
 
 # Chad: monthly update, August – September 2026

@@ -1,11 +1,11 @@
 ---
 title: Liberia — monthly update, August – September 2026
-compiled: 2026-09-25
-period: 2026-08-01 to 2026-09-25
+compiled: 2026-09-28
+period: 2026-08-01 to 2026-09-28
 place: LBR
-ledger_rows: 47
+ledger_rows: 50
 not_held: 6
-record: d38961fc0ce0
+record: 02b01fc0387f
 ---
 
 # Liberia: monthly update, August – September 2026
