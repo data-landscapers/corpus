@@ -214,7 +214,7 @@ figcaption { font-size: 0.82rem; color: var(--accent); margin-top: 0.5rem; line-
 .site-menu > summary:hover span, .site-menu[open] > summary span { background: var(--accent); }
 .site-menu__panel { position: absolute; top: 100%; right: 1.5rem; z-index: 101; min-width: 15rem; max-height: calc(100vh - var(--header-h) - 1rem); overflow-y: auto; background: var(--paper); border: 1px solid var(--rule); box-shadow: 0 4px 12px rgba(0,0,0,0.08); padding: 0.5rem 0; }
 .site-menu__panel ul { list-style: none; margin: 0; padding: 0; }
-.site-menu__panel a { display: block; padding: 0.3rem 1.25rem; font-family: var(--serif); font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--ink-light); border: none; white-space: nowrap; }
+.site-menu__panel a { display: block; padding: 0.15rem 1.25rem; line-height: 1.35; font-family: var(--serif); font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--ink-light); border: none; white-space: nowrap; }
 .site-menu__panel ul ul a { padding-left: 2.25rem; text-transform: none; letter-spacing: 0; font-size: 0.8rem; }
 .site-menu__panel ul ul ul a { padding-left: 3.25rem; }
 .site-menu__panel a:hover { color: var(--accent); background: var(--paper-warm); border: none; }
