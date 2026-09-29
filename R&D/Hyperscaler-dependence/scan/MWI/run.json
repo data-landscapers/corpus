@@ -373,5 +373,13 @@
    "any_us_hyperscaler": 6
   }
  },
- "findings": []
+ "findings": [
+  {
+   "kind": "dangling-cloud-cname",
+   "domain": "firstcapitalbank.co.mw",
+   "name": "preprod.firstcapitalbank.co.mw",
+   "target": "fcsslmw-fcsslmwpreprod.azurewebsites.net",
+   "finding": "CNAME to a cloud name that no longer exists and that anyone can register: whoever does can serve content under this name."
+  }
+ ]
 }
