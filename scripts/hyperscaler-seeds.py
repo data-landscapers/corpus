@@ -48,10 +48,13 @@ def read(path: Path) -> tuple[list[str], list[dict]]:
 
 
 def write(path: Path, rows: list[dict]) -> None:
-    with path.open("w", newline="", encoding="utf-8") as f:
+    # Written to a sibling and swapped in, so a crash mid-write never truncates the seed list.
+    tmp = path.with_suffix(".tmp")
+    with tmp.open("w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=HEADER, lineterminator="\n")
         w.writeheader()
         w.writerows(rows)
+    tmp.replace(path)
 
 
 def fetch(domain: str) -> tuple[bool, str]:
