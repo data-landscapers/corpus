@@ -1,44 +1,44 @@
 type,institution,domain,email_domain,status,note
-Presidency,Office of the President,statehouse.gov.sc,,confirmed 2026-09-29,
-Parliament,National Assembly of Seychelles,nationalassembly.sc,,confirmed 2026-09-29,
-Foreign Affairs,Ministry of Foreign Affairs,mfa.gov.sc,,confirmed 2026-09-29,
+Presidency,Office of the President,statehouse.gov.sc,statehouse.gov.sc,scanned 2026-09-29,
+Parliament,National Assembly of Seychelles,nationalassembly.sc,nationalassembly.sc,scanned 2026-09-29,
+Foreign Affairs,Ministry of Foreign Affairs,mfa.gov.sc,mfa.gov.sc,scanned 2026-09-29,
 Defence,Ministry of Defence,,,absent,shares gov.sc
 Armed Forces,Seychelles Defence Forces,,,absent,shares gov.sc with Defence
-Police,Seychelles Police Force,police.gov.sc,,confirmed 2026-09-29,
-Justice,Judiciary of Seychelles,judiciary.sc,,confirmed 2026-09-29,
-Treasury / Finance,Ministry of Finance,finance.gov.sc,,confirmed 2026-09-29,
-Revenue Service,Seychelles Revenue Commission,src.gov.sc,,confirmed 2026-09-29,
+Police,Seychelles Police Force,police.gov.sc,police.gov.sc,scanned 2026-09-29,
+Justice,Judiciary of Seychelles,judiciary.sc,judiciary.sc,scanned 2026-09-29,
+Treasury / Finance,Ministry of Finance,finance.gov.sc,finance.gov.sc,scanned 2026-09-29,
+Revenue Service,Seychelles Revenue Commission,src.gov.sc,src.gov.sc,scanned 2026-09-29,
 Customs,Seychelles Revenue Commission (Customs),,,absent,shares src.gov.sc with Revenue Service
 Intelligence,National Intelligence Service,,,absent,no public domain found
-Interior / Home Affairs,Ministry of Home Affairs,mhsca.gov.sc,,confirmed 2026-09-29,
-Central Bank,Central Bank of Seychelles,cbs.sc,,confirmed 2026-09-29,
-Commercial Banks,Seychelles Commercial Bank,scb.sc,,confirmed 2026-09-29,top banks per Central Bank of Seychelles licensed list (late 2024) via Wikipedia List of banks in Seychelles and shore.africa 2025 top-10 article; only 7 licensed banks; Bank of Ceylon omitted: runs on parent global site
-Commercial Banks,Absa Bank Seychelles,absa.sc,,confirmed 2026-09-29,
-Commercial Banks,MCB Seychelles,mcb.sc,,confirmed 2026-09-29,
-Commercial Banks,Nouvobanq,nouvobanq.sc,,confirmed 2026-09-29,
-Commercial Banks,Bank of Baroda Seychelles,bankofbaroda.sc,,confirmed 2026-09-29,
-Commercial Banks,Al Salam Bank Seychelles,alsalamseychelles.com,,confirmed 2026-09-29,
+Interior / Home Affairs,Ministry of Home Affairs,mhsca.gov.sc,mhsca.gov.sc,scanned 2026-09-29,
+Central Bank,Central Bank of Seychelles,cbs.sc,cbs.sc,scanned 2026-09-29,
+Commercial Banks,Seychelles Commercial Bank,scb.sc,scb.sc,scanned 2026-09-29,top banks per Central Bank of Seychelles licensed list (late 2024) via Wikipedia List of banks in Seychelles and shore.africa 2025 top-10 article; only 7 licensed banks; Bank of Ceylon omitted: runs on parent global site
+Commercial Banks,Absa Bank Seychelles,absa.sc,,scanned 2026-09-29,
+Commercial Banks,MCB Seychelles,mcb.sc,mcb.sc,scanned 2026-09-29,
+Commercial Banks,Nouvobanq,nouvobanq.sc,nouvobanq.sc,scanned 2026-09-29,
+Commercial Banks,Bank of Baroda Seychelles,bankofbaroda.sc,,scanned 2026-09-29,
+Commercial Banks,Al Salam Bank Seychelles,alsalamseychelles.com,alsalamseychelles.com,scanned 2026-09-29,
 Civil registry / National ID authority,Civil Status Office,,,absent,shares ics.gov.sc with Immigration and Civil Status
 Data protection authority,Data Protection Commission,,,absent,not yet established
-Electoral commission,Electoral Commission of Seychelles,ecs.sc,,confirmed 2026-09-29,
-Statistics office,National Bureau of Statistics,nbs.gov.sc,,confirmed 2026-09-29,
-Immigration / Passports,Immigration and Civil Status Division,ics.gov.sc,,confirmed 2026-09-29,
-Health ministry / National health insurance,Ministry of Health,health.gov.sc,,confirmed 2026-09-29,
+Electoral commission,Electoral Commission of Seychelles,ecs.sc,ecs.sc,scanned 2026-09-29,
+Statistics office,National Bureau of Statistics,nbs.gov.sc,nbs.gov.sc,scanned 2026-09-29,
+Immigration / Passports,Immigration and Civil Status Division,ics.gov.sc,ics.gov.sc,scanned 2026-09-29,
+Health ministry / National health insurance,Ministry of Health,health.gov.sc,health.gov.sc,scanned 2026-09-29,
 Social protection / Social registry,Agency for National Human Resource Development and Social Protection,,,absent,shares gov.sc
-Land registry,Land Registration Division,registrationdivision.gov.sc,,confirmed 2026-09-29,
+Land registry,Land Registration Division,registrationdivision.gov.sc,registrationdivision.gov.sc,scanned 2026-09-29,
 National payment switch,Central Bank of Seychelles payment system,,,absent,operated by Central Bank; shares cbs.sc
-Stock exchange,Trop-X,trop-x.com,,confirmed 2026-09-29,
-Stock exchange,MERJ Exchange,merj.exchange,,confirmed 2026-09-29,
-Securities regulator,Financial Services Authority,fsaseychelles.sc,,confirmed 2026-09-29,
-Sovereign wealth fund / National pension fund,Seychelles Pension Fund,pensionfund.sc,,confirmed 2026-09-29,
+Stock exchange,Trop-X,trop-x.com,,scanned 2026-09-29,
+Stock exchange,MERJ Exchange,merj.exchange,merj.exchange,scanned 2026-09-29,
+Securities regulator,Financial Services Authority,fsaseychelles.sc,fsaseychelles.sc,scanned 2026-09-29,
+Sovereign wealth fund / National pension fund,Seychelles Pension Fund,pensionfund.sc,pensionfund.sc,scanned 2026-09-29,
 Public procurement authority,National Tender Board,,,absent,shares gov.sc
-Energy utility,Public Utilities Corporation,puc.sc,,confirmed 2026-09-29,
-Ports authority,Seychelles Ports Authority,seyport.sc,,confirmed 2026-09-29,
-State-owned telco / National backbone operator,Cable & Wireless Seychelles,cwseychelles.com,,confirmed 2026-09-29,
-E-government agency,Department of Information Communications Technology,gov.sc,,unconfirmed 2026-09-29,parent zone; scanned root-only; homepage did not load: ReadTimeout
+Energy utility,Public Utilities Corporation,puc.sc,puc.sc,scanned 2026-09-29,
+Ports authority,Seychelles Ports Authority,seyport.sc,seyport.sc,scanned 2026-09-29,
+State-owned telco / National backbone operator,Cable & Wireless Seychelles,cwseychelles.com,cwseychelles.com,scanned 2026-09-29,
+E-government agency,Department of Information Communications Technology,gov.sc,gov.sc,scanned 2026-09-29,parent zone; scanned root-only; homepage did not load: ReadTimeout
 National data centre / Government cloud operator,Government data centre,,,absent,no public domain found
 Cybersecurity agency / National CERT,Seychelles CERT,,,absent,no standalone CERT domain found
 Communications regulator,Competition Commission,,,absent,no communications regulator domain found
 Audit office,Office of the Auditor General,,,absent,reports hosted on nationalassembly.sc; no own domain
-Anti-corruption commission,Anti-Corruption Commission of Seychelles,accsey.com,,confirmed 2026-09-29,
-E-government agency,Department of Information Communications Technology (DICT),ict.gov.sc,,confirmed 2026-09-29,
+Anti-corruption commission,Anti-Corruption Commission of Seychelles,accsey.com,accsey.com,scanned 2026-09-29,
+E-government agency,Department of Information Communications Technology (DICT),ict.gov.sc,ict.gov.sc,scanned 2026-09-29,

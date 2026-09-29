@@ -1,0 +1,31 @@
+iso3,type,institution,domains,names,routable,us_hyperscaler_share,african_region_share,us_saas_share,cdn_share,national_or_self_share,unattributed,mail_provider,mail_security,tangled_hybrid,scan_date
+SYC,Presidency,Office of the President,statehouse.gov.sc,5,7,0.0,0.0,0.0,0.0,0.0,6,m365,,false,2026-09-29
+SYC,Parliament,National Assembly of Seychelles,nationalassembly.sc,20,35,5.7,0.0,48.6,0.0,0.0,5,m365,,false,2026-09-29
+SYC,Foreign Affairs,Ministry of Foreign Affairs,mfa.gov.sc,5,7,28.6,0.0,0.0,0.0,0.0,4,m365,,false,2026-09-29
+SYC,Police,Seychelles Police Force,police.gov.sc,4,6,0.0,0.0,0.0,0.0,0.0,5,other:Department of ICT Government of Seychelles,,false,2026-09-29
+SYC,Justice,Judiciary of Seychelles,judiciary.sc,14,19,0.0,0.0,0.0,0.0,0.0,0,other:OVH|Zoho,,false,2026-09-29
+SYC,Treasury / Finance,Ministry of Finance,finance.gov.sc,7,9,0.0,0.0,0.0,0.0,0.0,8,m365,,false,2026-09-29
+SYC,Revenue Service,Seychelles Revenue Commission,src.gov.sc,9,14,0.0,0.0,0.0,28.6,0.0,5,m365,,false,2026-09-29
+SYC,Interior / Home Affairs,Ministry of Home Affairs,mhsca.gov.sc,4,6,0.0,0.0,0.0,0.0,0.0,3,other:Department of ICT Government of Seychelles,,false,2026-09-29
+SYC,Central Bank,Central Bank of Seychelles,cbs.sc,45,22,0.0,0.0,9.1,0.0,0.0,20,m365,,false,2026-09-29
+SYC,Commercial Banks,Seychelles Commercial Bank,scb.sc,32,17,0.0,0.0,52.9,0.0,0.0,6,m365,,false,2026-09-29
+SYC,Commercial Banks,Absa Bank Seychelles,absa.sc,30,35,20.0,0.0,0.0,25.7,22.9,0,none,,true,2026-09-29
+SYC,Commercial Banks,MCB Seychelles,mcb.sc,6,21,9.5,0.0,61.9,9.5,0.0,0,m365,,false,2026-09-29
+SYC,Commercial Banks,Nouvobanq,nouvobanq.sc,21,26,19.2,0.0,0.0,0.0,0.0,7,other:aws,trend-micro,false,2026-09-29
+SYC,Commercial Banks,Bank of Baroda Seychelles,bankofbaroda.sc,12,6,0.0,0.0,0.0,0.0,0.0,2,none,,false,2026-09-29
+SYC,Commercial Banks,Al Salam Bank Seychelles,alsalamseychelles.com,4,10,10.0,0.0,0.0,60.0,0.0,3,other:BATELCO-MNT|aws,trend-micro,false,2026-09-29
+SYC,Electoral commission,Electoral Commission of Seychelles,ecs.sc,10,24,0.0,0.0,54.2,12.5,0.0,0,m365,,false,2026-09-29
+SYC,Statistics office,National Bureau of Statistics,nbs.gov.sc,4,6,33.3,0.0,0.0,0.0,0.0,3,other:Department of ICT Government of Seychelles,,false,2026-09-29
+SYC,Immigration / Passports,Immigration and Civil Status Division,ics.gov.sc,15,18,0.0,0.0,0.0,66.7,0.0,5,other:Department of ICT Government of Seychelles,,false,2026-09-29
+SYC,Health ministry / National health insurance,Ministry of Health,health.gov.sc,4,5,0.0,0.0,0.0,0.0,0.0,5,m365,,false,2026-09-29
+SYC,Land registry,Land Registration Division,registrationdivision.gov.sc,3,6,0.0,0.0,0.0,0.0,0.0,5,other:Department of ICT Government of Seychelles,,false,2026-09-29
+SYC,Stock exchange,Trop-X,trop-x.com,2,4,50.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+SYC,Stock exchange,MERJ Exchange,merj.exchange,27,22,77.3,0.0,22.7,0.0,0.0,0,m365,,false,2026-09-29
+SYC,Securities regulator,Financial Services Authority,fsaseychelles.sc,17,20,10.0,0.0,0.0,0.0,0.0,5,m365,,false,2026-09-29
+SYC,Sovereign wealth fund / National pension fund,Seychelles Pension Fund,pensionfund.sc,12,49,0.0,0.0,0.0,93.9,0.0,0,other:Zoho,,false,2026-09-29
+SYC,Energy utility,Public Utilities Corporation,puc.sc,28,28,0.0,0.0,3.6,0.0,0.0,23,m365,,false,2026-09-29
+SYC,Ports authority,Seychelles Ports Authority,seyport.sc,6,18,5.6,0.0,72.2,0.0,0.0,4,m365,,false,2026-09-29
+SYC,State-owned telco / National backbone operator,Cable & Wireless Seychelles,cwseychelles.com,9,21,4.8,0.0,61.9,9.5,23.8,0,m365,,true,2026-09-29
+SYC,E-government agency,Department of Information Communications Technology,gov.sc,3,8,0.0,0.0,0.0,0.0,0.0,8,m365,,false,2026-09-29
+SYC,Anti-corruption commission,Anti-Corruption Commission of Seychelles,accsey.com,14,56,16.1,0.0,16.1,67.9,0.0,0,m365,,false,2026-09-29
+SYC,E-government agency,Department of Information Communications Technology (DICT),ict.gov.sc,4,7,0.0,0.0,14.3,0.0,85.7,0,m365,,false,2026-09-29

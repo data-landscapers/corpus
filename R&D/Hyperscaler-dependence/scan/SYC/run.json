@@ -1,0 +1,376 @@
+{
+ "iso3": "SYC",
+ "scan_date": "2026-09-29",
+ "range_files": {
+  "aws.json": "2026-09-28",
+  "google-cloud.json": "2026-09-28",
+  "google.json": "2026-09-28",
+  "cloudflare-v4.txt": "2026-09-28",
+  "cloudflare-v6.txt": "2026-09-28",
+  "oracle.json": "2026-09-28",
+  "azure.json": "2026-09-28"
+ },
+ "range_file_errors": {},
+ "domains": {
+  "statehouse.gov.sc": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nationalassembly.sc": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 8,
+   "dictionary_hits": 12,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mfa.gov.sc": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "police.gov.sc": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "judiciary.sc": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 9,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "finance.gov.sc": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 5,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "src.gov.sc": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mhsca.gov.sc": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cbs.sc": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 38,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "scb.sc": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 30,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "absa.sc": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 25,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "mcb.sc": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 4,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nouvobanq.sc": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 10,
+   "dictionary_hits": 11,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bankofbaroda.sc": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 11,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "alsalamseychelles.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 3,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ecs.sc": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 6,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nbs.gov.sc": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ics.gov.sc": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 12,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "health.gov.sc": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "registrationdivision.gov.sc": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "trop-x.com": {
+   "wildcard": true,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "merj.exchange": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 26,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "fsaseychelles.sc": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 10,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "pensionfund.sc": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 10,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "puc.sc": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 21,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "seyport.sc": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 3,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cwseychelles.com": {
+   "wildcard": true,
+   "ct_status": "ok",
+   "ct_names": 7,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "gov.sc": {
+   "wildcard": false,
+   "ct_status": "not run",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "root-only: parent zone of 11 seeded domains",
+   "dead": false,
+   "has_mx": true
+  },
+  "accsey.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 4,
+   "dictionary_hits": 9,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ict.gov.sc": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  }
+ },
+ "new_asns": {
+  "327861": "Department of ICT Government of Seychelles - Department of ICT Government of Seychelles",
+  "201200": "SUPERHOSTING_AS SuperHosting.BG Ltd.",
+  "36958": "Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd",
+  "34119": "WILDCARD-AS Wildcard UK Limited",
+  "19853": "ORANGEHOST - OrangeHost",
+  "36902": "Intelvision Ltd - Intelvision Ltd",
+  "37343": "Telecom Seychelles Limited - Telecom Seychelles Limited",
+  "201682": "LIQUID-WEB-BV Liquid Web B.V.",
+  "5416": "BEYON B.S.C.",
+  "210318": "c-o-as CAPITAL OUTSOURCING SAL",
+  "12041": "AS-AFILIAS1 - Afilias, Inc.",
+  "207266": "AFiLIAS-SECONDARY-DNS Identity Digital Limited"
+ },
+ "rollup": {
+  "all": {
+   "routable": 532,
+   "us_hyperscaler_share": 10.0,
+   "african_region_share": 0.0,
+   "us_saas_share": 18.0,
+   "cdn_share": 22.9,
+   "national_or_self_share": 3.6,
+   "unattributed": 132,
+   "by_category": {
+    "unattributed": 132,
+    "unresolved": 10,
+    "commercial-host": 91,
+    "us-saas": 96,
+    "us-hyperscaler-offshore": 53,
+    "cdn-origin-unknown": 122,
+    "self-hosted": 19,
+    "telco-isp": 9
+   },
+   "institutions": 30,
+   "names": 376,
+   "m365": 18,
+   "google": 0,
+   "tangled_hybrid": 2,
+   "any_us_hyperscaler": 13
+  },
+  "government": {
+   "routable": 417,
+   "us_hyperscaler_share": 9.1,
+   "african_region_share": 0.0,
+   "us_saas_share": 17.7,
+   "cdn_share": 25.2,
+   "national_or_self_share": 2.6,
+   "unattributed": 114,
+   "by_category": {
+    "unattributed": 114,
+    "unresolved": 10,
+    "commercial-host": 65,
+    "us-saas": 74,
+    "us-hyperscaler-offshore": 38,
+    "cdn-origin-unknown": 105,
+    "self-hosted": 11
+   },
+   "institutions": 24,
+   "names": 271,
+   "m365": 16,
+   "google": 0,
+   "tangled_hybrid": 1,
+   "any_us_hyperscaler": 9
+  },
+  "bank": {
+   "routable": 115,
+   "us_hyperscaler_share": 13.0,
+   "african_region_share": 0.0,
+   "us_saas_share": 19.1,
+   "cdn_share": 14.8,
+   "national_or_self_share": 7.0,
+   "unattributed": 18,
+   "by_category": {
+    "us-saas": 22,
+    "unattributed": 18,
+    "commercial-host": 26,
+    "self-hosted": 8,
+    "cdn-origin-unknown": 17,
+    "us-hyperscaler-offshore": 15,
+    "telco-isp": 9
+   },
+   "institutions": 6,
+   "names": 105,
+   "m365": 2,
+   "google": 0,
+   "tangled_hybrid": 1,
+   "any_us_hyperscaler": 4
+  }
+ },
+ "findings": []
+}
