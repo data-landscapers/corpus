@@ -1,46 +1,46 @@
 type,institution,domain,email_domain,status,note
-Presidency,Présidence de la République de Côte d'Ivoire,presidence.ci,,confirmed 2026-09-29,
-Parliament,Assemblée nationale,assnat.ci,,confirmed 2026-09-29,
-Parliament,Sénat,senat.ci,,confirmed 2026-09-29,
-Foreign Affairs,Ministère des Affaires étrangères,diplomatie.gouv.ci,,confirmed 2026-09-29,
-Defence,Ministère de la Défense,defense.gouv.ci,,confirmed 2026-09-29,
+Presidency,Présidence de la République de Côte d'Ivoire,presidence.ci,presidence.ci,scanned 2026-09-29,
+Parliament,Assemblée nationale,assnat.ci,assnat.ci,scanned 2026-09-29,
+Parliament,Sénat,senat.ci,senat.ci,scanned 2026-09-29,
+Foreign Affairs,Ministère des Affaires étrangères,diplomatie.gouv.ci,diplomatie.gouv.ci,scanned 2026-09-29,
+Defence,Ministère de la Défense,defense.gouv.ci,defense.gouv.ci,scanned 2026-09-29,
 Armed Forces,Forces armées de Côte d'Ivoire (FACI),,,absent,shares defense.gouv.ci with Defence
-Police,Police nationale,policenationale.ci,,confirmed 2026-09-29,
-Justice,Ministère de la Justice et des Droits de l'Homme,justice.gouv.ci,,confirmed 2026-09-29,
-Treasury / Finance,Ministère de l'Économie et des Finances,finances.gouv.ci,,confirmed 2026-09-29,
-Revenue Service,Direction générale des impôts (DGI),dgi.gouv.ci,,confirmed 2026-09-29,
-Customs,Direction générale des douanes,douanes.ci,,confirmed 2026-09-29,
+Police,Police nationale,policenationale.ci,policenationale.ci,scanned 2026-09-29,
+Justice,Ministère de la Justice et des Droits de l'Homme,justice.gouv.ci,justice.gouv.ci,scanned 2026-09-29,
+Treasury / Finance,Ministère de l'Économie et des Finances,finances.gouv.ci,finances.gouv.ci,scanned 2026-09-29,
+Revenue Service,Direction générale des impôts (DGI),dgi.gouv.ci,dgi.gouv.ci,scanned 2026-09-29,
+Customs,Direction générale des douanes,douanes.ci,douanes.ci,scanned 2026-09-29,
 Intelligence,,,,absent,no public intelligence service domain found
-Interior / Home Affairs,Ministère de l'Intérieur et de la Sécurité,interieur.gouv.ci,,confirmed 2026-09-29,
-Central Bank,Banque centrale des États de l'Afrique de l'Ouest (BCEAO),bceao.int,,confirmed 2026-09-29,regional (WAEMU); shared with other member states
-Commercial Banks,Société Générale Côte d'Ivoire,societegenerale.ci,,confirmed 2026-09-29,"Ranking source: Le Jecos, Classement 2024 Top 50 des banques de l'UMOA (Commission Bancaire data; lejecos.com/CLASSEMENT-2024-TOP-50-DES-BANQUES-DE-L-UMOA_a30413.html) 2024. Ecobank CI (5th) left out: runs on ecobank.com group site. Standard Chartered CI left out: runs on sc.com. Banque Atlantique CI (4th) and Stanbic CI: no working own domain found."
-Commercial Banks,Banque nationale d'investissement (BNI),bni.ci,,confirmed 2026-09-29,
-Commercial Banks,NSIA Banque Côte d'Ivoire,nsiabanque.ci,,confirmed 2026-09-29,
-Commercial Banks,Société ivoirienne de banque (SIB),sib.ci,,confirmed 2026-09-29,
-Commercial Banks,BICICI,bicici.ci,,confirmed 2026-09-29,homepage did not load: ConnectionError
-Commercial Banks,Bridge Bank Group Côte d'Ivoire,bridgebankgroup.com,,confirmed 2026-09-29,
-Commercial Banks,Coris Bank International Côte d'Ivoire,cotedivoire.coris.bank,,confirmed 2026-09-29,
-Commercial Banks,Bank of Africa Côte d'Ivoire,boacoteivoire.com,,confirmed 2026-09-29,
-Civil registry / National ID authority,Office national de l'état civil et de l'identification (ONECI),oneci.ci,,confirmed 2026-09-29,
-Data protection authority,ARTCI - Autorité de protection des données personnelles,autoritedeprotection.ci,,confirmed 2026-09-29,
-Electoral commission,Commission électorale indépendante (CEI),cei.ci,,confirmed 2026-09-29,
-Statistics office,Institut national de la statistique (INS),ins.ci,,confirmed 2026-09-29,
+Interior / Home Affairs,Ministère de l'Intérieur et de la Sécurité,interieur.gouv.ci,interieur.gouv.ci,scanned 2026-09-29,
+Central Bank,Banque centrale des États de l'Afrique de l'Ouest (BCEAO),bceao.int,bceao.int,scanned 2026-09-29,regional (WAEMU); shared with other member states
+Commercial Banks,Société Générale Côte d'Ivoire,societegenerale.ci,,scanned 2026-09-29,"Ranking source: Le Jecos, Classement 2024 Top 50 des banques de l'UMOA (Commission Bancaire data; lejecos.com/CLASSEMENT-2024-TOP-50-DES-BANQUES-DE-L-UMOA_a30413.html) 2024. Ecobank CI (5th) left out: runs on ecobank.com group site. Standard Chartered CI left out: runs on sc.com. Banque Atlantique CI (4th) and Stanbic CI: no working own domain found."
+Commercial Banks,Banque nationale d'investissement (BNI),bni.ci,bni.ci,scanned 2026-09-29,
+Commercial Banks,NSIA Banque Côte d'Ivoire,nsiabanque.ci,nsiabanque.ci,scanned 2026-09-29,
+Commercial Banks,Société ivoirienne de banque (SIB),sib.ci,sib.ci,scanned 2026-09-29,
+Commercial Banks,BICICI,bicici.ci,bicici.ci,scanned 2026-09-29,homepage did not load: ConnectionError
+Commercial Banks,Bridge Bank Group Côte d'Ivoire,bridgebankgroup.com,bridgebankgroup.com,scanned 2026-09-29,
+Commercial Banks,Coris Bank International Côte d'Ivoire,cotedivoire.coris.bank,,scanned 2026-09-29,
+Commercial Banks,Bank of Africa Côte d'Ivoire,boacoteivoire.com,boacoteivoire.com,scanned 2026-09-29,
+Civil registry / National ID authority,Office national de l'état civil et de l'identification (ONECI),oneci.ci,oneci.ci,scanned 2026-09-29,
+Data protection authority,ARTCI - Autorité de protection des données personnelles,autoritedeprotection.ci,autoritedeprotection.ci,scanned 2026-09-29,
+Electoral commission,Commission électorale indépendante (CEI),cei.ci,cei.ci,scanned 2026-09-29,
+Statistics office,Institut national de la statistique (INS),ins.ci,ins.ci,scanned 2026-09-29,
 Immigration / Passports,Direction de l'immigration,,,absent,under Interior (interieur.gouv.ci); no own domain
-Health ministry / National health insurance,Ministère de la Santé,sante.gouv.ci,,confirmed 2026-09-29,
+Health ministry / National health insurance,Ministère de la Santé,sante.gouv.ci,sante.gouv.ci,scanned 2026-09-29,
 Social protection / Social registry,Ministère de la Solidarité et de la Lutte contre la pauvreté,,,absent,ministry has no domain found outside gouv.ci; social registry not found
-Land registry,Agence foncière rurale (AFOR),afor.ci,,confirmed 2026-09-29,
-National payment switch,GIM-UEMOA,gim-uemoa.org,,confirmed 2026-09-29,regional (WAEMU); shared with other member states
-Stock exchange,Bourse régionale des valeurs mobilières (BRVM),brvm.org,,confirmed 2026-09-29,regional (WAEMU); shared with other member states
-Securities regulator,Autorité des marchés financiers de l'UMOA (AMF-UMOA),amf-umoa.org,,confirmed 2026-09-29,regional (WAEMU); shared with other member states
-Sovereign wealth fund / National pension fund,Caisse nationale de prévoyance sociale (CNPS),cnps.ci,,confirmed 2026-09-29,
-Public procurement authority,Autorité de régulation de la commande publique (ARCOP),arcop.ci,,confirmed 2026-09-29,
-Energy utility,Compagnie ivoirienne d'électricité (CIE),cie.ci,,confirmed 2026-09-29,
-Energy utility,CI-ENERGIES,cinergies.ci,,confirmed 2026-09-29,
-Ports authority,Port autonome d'Abidjan,portabidjan.ci,,confirmed 2026-09-29,
-State-owned telco / National backbone operator,Agence nationale du service universel des télécommunications (ANSUT),ansut.ci,,confirmed 2026-09-29,
-E-government agency,Portail du gouvernement (parent zone),gouv.ci,,confirmed 2026-09-29,parent zone; scanned root-only
+Land registry,Agence foncière rurale (AFOR),afor.ci,afor.ci,scanned 2026-09-29,
+National payment switch,GIM-UEMOA,gim-uemoa.org,gim-uemoa.org,scanned 2026-09-29,regional (WAEMU); shared with other member states
+Stock exchange,Bourse régionale des valeurs mobilières (BRVM),brvm.org,brvm.org,scanned 2026-09-29,regional (WAEMU); shared with other member states
+Securities regulator,Autorité des marchés financiers de l'UMOA (AMF-UMOA),amf-umoa.org,amf-umoa.org,scanned 2026-09-29,regional (WAEMU); shared with other member states
+Sovereign wealth fund / National pension fund,Caisse nationale de prévoyance sociale (CNPS),cnps.ci,cnps.ci,scanned 2026-09-29,
+Public procurement authority,Autorité de régulation de la commande publique (ARCOP),arcop.ci,arcop.ci,scanned 2026-09-29,
+Energy utility,Compagnie ivoirienne d'électricité (CIE),cie.ci,cie.ci,scanned 2026-09-29,
+Energy utility,CI-ENERGIES,cinergies.ci,cinergies.ci,scanned 2026-09-29,
+Ports authority,Port autonome d'Abidjan,portabidjan.ci,portabidjan.ci,scanned 2026-09-29,
+State-owned telco / National backbone operator,Agence nationale du service universel des télécommunications (ANSUT),ansut.ci,ansut.ci,scanned 2026-09-29,
+E-government agency,Portail du gouvernement (parent zone),gouv.ci,gouv.ci,scanned 2026-09-29,parent zone; scanned root-only
 National data centre / Government cloud operator,,,,absent,no national data centre operator with own domain found
 Cybersecurity agency / National CERT,CI-CERT (ARTCI),,,absent,CI-CERT sits within ARTCI (artci.ci); no own domain confirmed
-Communications regulator,Autorité de régulation des télécommunications/TIC (ARTCI),artci.ci,,confirmed 2026-09-29,
-Audit office,Cour des comptes,courdescomptes.ci,,confirmed 2026-09-29,
-Anti-corruption commission,Haute autorité pour la bonne gouvernance (HABG),habg.ci,,confirmed 2026-09-29,
+Communications regulator,Autorité de régulation des télécommunications/TIC (ARTCI),artci.ci,artci.ci,scanned 2026-09-29,
+Audit office,Cour des comptes,courdescomptes.ci,courdescomptes.ci,scanned 2026-09-29,
+Anti-corruption commission,Haute autorité pour la bonne gouvernance (HABG),habg.ci,habg.ci,scanned 2026-09-29,

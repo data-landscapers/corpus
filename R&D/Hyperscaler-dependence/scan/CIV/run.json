@@ -1,0 +1,477 @@
+{
+ "iso3": "CIV",
+ "scan_date": "2026-09-29",
+ "range_files": {
+  "aws.json": "2026-09-28",
+  "google-cloud.json": "2026-09-28",
+  "google.json": "2026-09-28",
+  "cloudflare-v4.txt": "2026-09-28",
+  "cloudflare-v6.txt": "2026-09-28",
+  "oracle.json": "2026-09-28",
+  "azure.json": "2026-09-28"
+ },
+ "range_file_errors": {},
+ "domains": {
+  "presidence.ci": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 32,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "assnat.ci": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 11,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "senat.ci": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 43,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "diplomatie.gouv.ci": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 94,
+   "dictionary_hits": 9,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "defense.gouv.ci": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 5,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "policenationale.ci": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "justice.gouv.ci": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 6,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "finances.gouv.ci": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 33,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "dgi.gouv.ci": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 30,
+   "dictionary_hits": 8,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "douanes.ci": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 25,
+   "dictionary_hits": 9,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "interieur.gouv.ci": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 21,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bceao.int": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 25,
+   "dictionary_hits": 15,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "societegenerale.ci": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 56,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "bni.ci": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 36,
+   "dictionary_hits": 8,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nsiabanque.ci": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 13,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "sib.ci": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 26,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bicici.ci": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 12,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bridgebankgroup.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 29,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cotedivoire.coris.bank": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "boacoteivoire.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 6,
+   "dictionary_hits": 8,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "oneci.ci": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 27,
+   "dictionary_hits": 18,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "autoritedeprotection.ci": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 7,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cei.ci": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 16,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ins.ci": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 12,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "sante.gouv.ci": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 27,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "afor.ci": {
+   "wildcard": true,
+   "ct_status": "ok",
+   "ct_names": 22,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "gim-uemoa.org": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "brvm.org": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 9,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "amf-umoa.org": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cnps.ci": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 55,
+   "dictionary_hits": 12,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "arcop.ci": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 3,
+   "dictionary_hits": 11,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cie.ci": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 67,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cinergies.ci": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 33,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "portabidjan.ci": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 8,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ansut.ci": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 119,
+   "dictionary_hits": 10,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "gouv.ci": {
+   "wildcard": false,
+   "ct_status": "not run",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "root-only: parent zone of 7 seeded domains",
+   "dead": false,
+   "has_mx": true
+  },
+  "artci.ci": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 29,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "courdescomptes.ci": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 3,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "habg.ci": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 18,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  }
+ },
+ "new_asns": {
+  "203476": "GANDI-AS-2 GANDI SAS",
+  "29571": "Orange C\u00f4te d'Ivoire - Orange C\u00f4te d'Ivoire",
+  "328193": "SOCIETE NATIONALE DE DEVELOPPEMENT INFORMATIQUE - SOCIETE NATIONALE DE DEVELOPPEMENT INFORMATIQUE",
+  "328025": "VEONE - VEONE",
+  "328840": "ST DIGITAL - ST DIGITAL",
+  "14492": "DATAPIPE - DataPipe, Inc.",
+  "37381": "Afrique Technologies & Services (VipNet) - Afrique Technologies & Services (VipNet)",
+  "34177": "CELESTE-AS Celeste SAS",
+  "8346": "SONATEL - IDDQD-AS",
+  "37196": "Expresso Senegal SA - Expresso Senegal SA",
+  "29650": "VIATELAS-AS Digiweb ltd",
+  "11042": "NTHL - NETWORK TRANSIT HOLDINGS LLC",
+  "22351": "INTELSAT-1 - INTELSAT GLOBAL SERVICE CORPORATION",
+  "29222": "Infomaniak-AS Infomaniak Network SA",
+  "16347": "INHERENT ADISTA SAS",
+  "4455": "BSO IX Reach Ltd",
+  "53589": "PLANETHOSTER-8 - PlanetHoster",
+  "36884": "Wana Corporate - Wana Corporate",
+  "6713": "Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM - Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",
+  "24935": "ATE-AS Eurofiber France SAS",
+  "329666": "Cote d'Ivoire Internet Exchange Point - Cote d'Ivoire Internet Exchange Point",
+  "210403": "LWS Groupe LWS SARL",
+  "3215": "AS3215 Orange S.A.",
+  "37649": "SAGA AFRICA HOLDINGS LIMITED - SAGA AFRICA HOLDINGS LIMITED",
+  "16686": "EDNS - easyDNS Technologies, Inc.",
+  "25091": "IP-Max IP-Max SA",
+  "668": "DNIC-AS-00668 - United States Department of Defense (DoD)",
+  "328729": "GROUPEMENT DES SERVICES EAU ET ELECTRICITE - GROUPEMENT DES SERVICES EAU ET ELECTRICITE",
+  "43927": "HOSTERION HOSTERION SRL",
+  "205787": "Publicloud Public Cloud Ltd."
+ },
+ "rollup": {
+  "all": {
+   "routable": 1770,
+   "us_hyperscaler_share": 27.2,
+   "african_region_share": 0.0,
+   "us_saas_share": 19.9,
+   "cdn_share": 9.3,
+   "national_or_self_share": 4.4,
+   "unattributed": 520,
+   "by_category": {
+    "self-hosted": 77,
+    "unattributed": 520,
+    "commercial-host": 130,
+    "us-hyperscaler-offshore": 482,
+    "us-saas": 353,
+    "cdn-origin-unknown": 165,
+    "telco-isp": 36,
+    "unresolved": 7
+   },
+   "institutions": 39,
+   "names": 1210,
+   "m365": 29,
+   "google": 1,
+   "tangled_hybrid": 5,
+   "any_us_hyperscaler": 25
+  },
+  "government": {
+   "routable": 1471,
+   "us_hyperscaler_share": 26.9,
+   "african_region_share": 0.0,
+   "us_saas_share": 18.4,
+   "cdn_share": 10.3,
+   "national_or_self_share": 2.9,
+   "unattributed": 460,
+   "by_category": {
+    "self-hosted": 42,
+    "unattributed": 460,
+    "commercial-host": 114,
+    "us-hyperscaler-offshore": 395,
+    "us-saas": 271,
+    "cdn-origin-unknown": 152,
+    "telco-isp": 31,
+    "unresolved": 6
+   },
+   "institutions": 31,
+   "names": 991,
+   "m365": 24,
+   "google": 1,
+   "tangled_hybrid": 1,
+   "any_us_hyperscaler": 19
+  },
+  "bank": {
+   "routable": 299,
+   "us_hyperscaler_share": 29.1,
+   "african_region_share": 0.0,
+   "us_saas_share": 27.4,
+   "cdn_share": 4.3,
+   "national_or_self_share": 11.7,
+   "unattributed": 60,
+   "by_category": {
+    "unattributed": 60,
+    "self-hosted": 35,
+    "cdn-origin-unknown": 13,
+    "commercial-host": 16,
+    "us-hyperscaler-offshore": 87,
+    "us-saas": 82,
+    "unresolved": 1,
+    "telco-isp": 5
+   },
+   "institutions": 8,
+   "names": 219,
+   "m365": 5,
+   "google": 0,
+   "tangled_hybrid": 4,
+   "any_us_hyperscaler": 6
+  }
+ },
+ "findings": []
+}
