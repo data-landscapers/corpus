@@ -7377,7 +7377,7 @@ NGA,Electoral commission,Independent National Electoral Commission (INEC),inecni
 NGA,Electoral commission,Independent National Electoral Commission (INEC),inecnigeria.org,cvr.inecnigeria.org,ct,AAAA,ok,cvr-live-public.incportals.com,2600:9000:20fe:a400:4:8a90:9a40:93a1,cvr-live-public.incportals.com,,aws-cloudfront,us-hyperscaler-offshore,global,aws-cloudfront,2026-09-28
 NGA,Electoral commission,Independent National Electoral Commission (INEC),inecnigeria.org,cvr.inecnigeria.org,ct,AAAA,ok,cvr-live-public.incportals.com,2600:9000:20fe:200:4:8a90:9a40:93a1,cvr-live-public.incportals.com,,aws-cloudfront,us-hyperscaler-offshore,global,aws-cloudfront,2026-09-28
 NGA,Electoral commission,Independent National Electoral Commission (INEC),inecnigeria.org,cvr1.inecnigeria.org,ct,A,ok,,34.120.37.41,,,google-cloud,us-hyperscaler-offshore,global,google-cloud,2026-09-28
-NGA,Electoral commission,Independent National Electoral Commission (INEC),inecnigeria.org,cvradmin.inecnigeria.org,ct,A,ok,cvradmin-live-v2.incportals.com,102.223.38.211,cvradmin-live-v2.incportals.com,328668,Nkponani Limited - Nkponani Limited,unattributed,,,2026-09-28
+NGA,Electoral commission,Independent National Electoral Commission (INEC),inecnigeria.org,cvradmin.inecnigeria.org,ct,A,ok,cvradmin-live-v2.incportals.com,102.223.38.211,cvradmin-live-v2.incportals.com,328668,Nkponani Limited - Nkponani Limited,african-colo,,Nkponani Limited - Nkponani Limited,2026-09-28
 NGA,Electoral commission,Independent National Electoral Commission (INEC),inecnigeria.org,efloc.inecnigeria.org,ct,A,ok,,98.82.253.238,,,aws,us-hyperscaler-offshore,us-east-1,aws,2026-09-28
 NGA,Electoral commission,Independent National Electoral Commission (INEC),inecnigeria.org,elearning.inecnigeria.org,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-28
 NGA,Electoral commission,Independent National Electoral Commission (INEC),inecnigeria.org,emsc.inecnigeria.org,ct,A,ok,,34.198.255.100,,,aws,us-hyperscaler-offshore,us-east-1,aws,2026-09-28
@@ -7556,7 +7556,7 @@ NGA,Health ministry,Federal Ministry of Health,health.gov.ng,www.rrbnmonitoring.
 NGA,Health ministry,Federal Ministry of Health,health.gov.ng,www.web.nigeriaqual.health.gov.ng,ct,A,nxdomain,,,,,,unresolved,,,2026-09-28
 NGA,Health ministry,Federal Ministry of Health,health.gov.ng,www.yellowcard.health.gov.ng,ct,A,nxdomain,,,,,,unresolved,,,2026-09-28
 NGA,Health ministry,Federal Ministry of Health,health.gov.ng,yellocard.health.gov.ng,ct,A,nxdomain,,,,,,unresolved,,,2026-09-28
-NGA,Health ministry,Federal Ministry of Health,health.gov.ng,yellowcard.health.gov.ng,ct,A,ok,,109.73.227.160,,400238,PIE&G,unattributed,,,2026-09-28
+NGA,Health ministry,Federal Ministry of Health,health.gov.ng,yellowcard.health.gov.ng,ct,A,ok,,109.73.227.160,,400238,PIE&G,commercial-host,,PIEG-01 - PIE&G,2026-09-28
 NGA,Health ministry,Federal Ministry of Health,health.gov.ng,health.gov.ng,root,MX,ok,mx3.health.gov.ng,41.78.83.238,,37018,Galaxy Backbone PLC - Galaxy Backbone PLC,national-dc,,Galaxy Backbone,2026-09-28
 NGA,Health ministry,Federal Ministry of Health,health.gov.ng,health.gov.ng,root,MX,ok,mx1.health.gov.ng,41.222.211.143,,37018,Galaxy Backbone PLC,national-dc,,Galaxy Backbone,2026-09-28
 NGA,Health ministry,Federal Ministry of Health,health.gov.ng,health.gov.ng,root,MX,ok,mx2.health.gov.ng,41.78.83.236,,37018,Galaxy Backbone PLC - Galaxy Backbone PLC,national-dc,,Galaxy Backbone,2026-09-28

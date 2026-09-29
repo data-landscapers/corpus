@@ -28,9 +28,9 @@ NGA,Commercial Banks,Sterling Bank,sterling.ng,218,221,14.9,0.0,5.4,77.8,0.0,0,o
 NGA,Civil registry / National ID authority,National Identity Management Commission,nimc.gov.ng,99,219,84.5,0.0,0.0,1.4,11.0,0,self,,true,2026-09-28
 NGA,Immigration / Passports,Nigeria Immigration Service,immigration.gov.ng,47,51,37.3,0.0,5.9,0.0,27.5,0,google,,true,2026-09-28
 NGA,Data protection authority,Nigeria Data Protection Commission,ndpc.gov.ng,17,42,95.2,76.2,2.4,0.0,0.0,0,m365,,false,2026-09-28
-NGA,Electoral commission,Independent National Electoral Commission (INEC),inecnigeria.org,79,60,80.0,0.0,8.3,6.7,0.0,1,other:mail.inecnigeria.org,,false,2026-09-28
+NGA,Electoral commission,Independent National Electoral Commission (INEC),inecnigeria.org,79,60,80.0,0.0,8.3,6.7,0.0,0,other:mail.inecnigeria.org,,false,2026-09-28
 NGA,Statistics office,National Bureau of Statistics,nigerianstat.gov.ng,11,24,37.5,0.0,45.8,0.0,16.7,0,m365,,true,2026-09-28
-NGA,Health ministry,Federal Ministry of Health,health.gov.ng,73,58,6.9,1.7,0.0,0.0,87.9,1,other:Galaxy Backbone,,true,2026-09-28
+NGA,Health ministry,Federal Ministry of Health,health.gov.ng,73,58,6.9,1.7,0.0,0.0,87.9,0,other:Galaxy Backbone,,true,2026-09-28
 NGA,Health ministry,National Health Insurance Authority,nhia.gov.ng,14,16,43.8,18.8,0.0,0.0,0.0,0,other:Contabo,,false,2026-09-28
 NGA,Social protection,National Social Safety-Nets Coordinating Office,nassp.gov.ng,30,41,0.0,0.0,41.5,0.0,0.0,0,m365,,false,2026-09-28
 NGA,National payment switch,Nigeria Inter-Bank Settlement System (NIBSS),nibss-plc.com.ng,37,97,26.8,0.0,9.3,42.3,15.5,0,m365,,true,2026-09-28
