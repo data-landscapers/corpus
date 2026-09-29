@@ -1,0 +1,462 @@
+{
+ "iso3": "RWA",
+ "scan_date": "2026-09-29",
+ "range_files": {
+  "aws.json": "2026-09-28",
+  "google-cloud.json": "2026-09-28",
+  "google.json": "2026-09-28",
+  "cloudflare-v4.txt": "2026-09-28",
+  "cloudflare-v6.txt": "2026-09-28",
+  "oracle.json": "2026-09-28",
+  "azure.json": "2026-09-28"
+ },
+ "range_file_errors": {},
+ "domains": {
+  "presidency.gov.rw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 11,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "parliament.gov.rw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 34,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "minaffet.gov.rw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 29,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mod.gov.rw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 14,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "rdf.gov.rw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "police.gov.rw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 99,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "minijust.gov.rw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 28,
+   "dictionary_hits": 10,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "judiciary.gov.rw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 71,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "minecofin.gov.rw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 44,
+   "dictionary_hits": 9,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "rra.gov.rw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 43,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mininter.gov.rw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 5,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bnr.rw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 72,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bk.rw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 27,
+   "dictionary_hits": 24,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bpr.rw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 24,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "gtbank.co.rw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 20,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "rwanda.accessbankplc.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "boarwanda.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 7,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "zigamacss.rw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 17,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cogebanque.co.rw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 27,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "brd.rw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 8,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nida.gov.rw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 51,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nec.gov.rw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 28,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "statistics.gov.rw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 135,
+   "dictionary_hits": 8,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "migration.gov.rw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 11,
+   "dictionary_hits": 10,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "moh.gov.rw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 178,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "loda.gov.rw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 18,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "lands.rw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 12,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "rswitch.co.rw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 14,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "rse.rw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 16,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cma.rw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 21,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "rssb.rw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 69,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "umucyo.gov.rw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 17,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "reg.rw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 18,
+   "dictionary_hits": 10,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ktrn.rw": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "irembo.gov.rw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 14,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "risa.gov.rw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 126,
+   "dictionary_hits": 8,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ncsa.gov.rw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 6,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "rura.rw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 20,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "oag.gov.rw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 10,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ombudsman.gov.rw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 34,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  }
+ },
+ "new_asns": {
+  "37228": "KT RWANDA NETWORK Ltd - KT RWANDA NETWORK Ltd",
+  "37006": "Liquid Telecommunication Rwanda Limited - Liquid Telecommunication Rwanda Limited",
+  "37619": "Broadband Systems Corporation - Broadband Systems Corporation",
+  "58182": "wix_com Wix.com Ltd.",
+  "37010": "National University of Rwanda - National University of Rwanda",
+  "329104": "AOS LTD - AOS LTD"
+ },
+ "rollup": {
+  "all": {
+   "routable": 1540,
+   "us_hyperscaler_share": 9.4,
+   "african_region_share": 0.0,
+   "us_saas_share": 6.6,
+   "cdn_share": 11.8,
+   "national_or_self_share": 5.3,
+   "unattributed": 973,
+   "by_category": {
+    "unattributed": 973,
+    "us-hyperscaler-offshore": 144,
+    "telco-isp": 34,
+    "unresolved": 8,
+    "self-hosted": 81,
+    "cdn-origin-unknown": 181,
+    "us-saas": 102,
+    "commercial-host": 17
+   },
+   "institutions": 40,
+   "names": 1577,
+   "m365": 9,
+   "google": 0,
+   "tangled_hybrid": 4,
+   "any_us_hyperscaler": 11
+  },
+  "government": {
+   "routable": 1306,
+   "us_hyperscaler_share": 6.7,
+   "african_region_share": 0.0,
+   "us_saas_share": 4.5,
+   "cdn_share": 10.3,
+   "national_or_self_share": 3.8,
+   "unattributed": 945,
+   "by_category": {
+    "unattributed": 945,
+    "us-hyperscaler-offshore": 87,
+    "telco-isp": 17,
+    "unresolved": 7,
+    "self-hosted": 49,
+    "cdn-origin-unknown": 135,
+    "us-saas": 59,
+    "commercial-host": 7
+   },
+   "institutions": 32,
+   "names": 1405,
+   "m365": 5,
+   "google": 0,
+   "tangled_hybrid": 2,
+   "any_us_hyperscaler": 8
+  },
+  "bank": {
+   "routable": 234,
+   "us_hyperscaler_share": 24.4,
+   "african_region_share": 0.0,
+   "us_saas_share": 18.4,
+   "cdn_share": 19.7,
+   "national_or_self_share": 13.7,
+   "unattributed": 28,
+   "by_category": {
+    "self-hosted": 32,
+    "unattributed": 28,
+    "us-hyperscaler-offshore": 57,
+    "telco-isp": 17,
+    "unresolved": 1,
+    "us-saas": 43,
+    "cdn-origin-unknown": 46,
+    "commercial-host": 10
+   },
+   "institutions": 8,
+   "names": 172,
+   "m365": 4,
+   "google": 0,
+   "tangled_hybrid": 2,
+   "any_us_hyperscaler": 3
+  }
+ },
+ "findings": []
+}

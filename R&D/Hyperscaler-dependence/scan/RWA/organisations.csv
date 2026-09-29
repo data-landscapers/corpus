@@ -1,0 +1,41 @@
+iso3,type,institution,domains,names,routable,us_hyperscaler_share,african_region_share,us_saas_share,cdn_share,national_or_self_share,unattributed,mail_provider,mail_security,tangled_hybrid,scan_date
+RWA,Presidency,Office of the President,presidency.gov.rw,20,19,0.0,0.0,0.0,0.0,0.0,19,other:KT RWANDA NETWORK Ltd - KT RWANDA NETWORK Ltd,,false,2026-09-29
+RWA,Parliament,Parliament of Rwanda,parliament.gov.rw,35,11,0.0,0.0,0.0,0.0,0.0,11,other:KT RWANDA NETWORK Ltd - KT RWANDA NETWORK Ltd,,false,2026-09-29
+RWA,Foreign Affairs,Ministry of Foreign Affairs and International Cooperation,minaffet.gov.rw,30,16,0.0,0.0,0.0,0.0,0.0,16,other:KT RWANDA NETWORK Ltd - KT RWANDA NETWORK Ltd,,false,2026-09-29
+RWA,Defence,Ministry of Defence,mod.gov.rw,17,14,0.0,0.0,0.0,0.0,0.0,14,other:KT RWANDA NETWORK Ltd - KT RWANDA NETWORK Ltd,,false,2026-09-29
+RWA,Armed Forces,Rwanda Defence Force,rdf.gov.rw,2,5,0.0,0.0,0.0,0.0,0.0,5,none,,false,2026-09-29
+RWA,Police,Rwanda National Police,police.gov.rw,106,67,13.4,0.0,0.0,0.0,0.0,56,other:KT RWANDA NETWORK Ltd - KT RWANDA NETWORK Ltd,,false,2026-09-29
+RWA,Justice,Ministry of Justice,minijust.gov.rw,39,34,0.0,0.0,0.0,0.0,0.0,33,other:KT RWANDA NETWORK Ltd - KT RWANDA NETWORK Ltd,,false,2026-09-29
+RWA,Justice,Judiciary of Rwanda,judiciary.gov.rw,74,36,5.6,0.0,0.0,0.0,0.0,34,other:KT RWANDA NETWORK Ltd - KT RWANDA NETWORK Ltd,,false,2026-09-29
+RWA,Treasury / Finance,Ministry of Finance and Economic Planning,minecofin.gov.rw,53,45,0.0,0.0,0.0,0.0,0.0,45,other:KT RWANDA NETWORK Ltd - KT RWANDA NETWORK Ltd,,false,2026-09-29
+RWA,Revenue Service,Rwanda Revenue Authority,rra.gov.rw,51,38,0.0,0.0,0.0,0.0,73.7,8,self,,false,2026-09-29
+RWA,Interior / Home Affairs,Ministry of Internal Security,mininter.gov.rw,7,8,0.0,0.0,0.0,0.0,0.0,8,other:KT RWANDA NETWORK Ltd - KT RWANDA NETWORK Ltd,,false,2026-09-29
+RWA,Central Bank,National Bank of Rwanda,bnr.rw,77,135,8.9,0.0,0.7,84.4,0.7,7,m365,,true,2026-09-29
+RWA,Commercial Banks,Bank of Kigali,bk.rw,52,73,41.1,0.0,1.4,0.0,42.5,9,m365,,true,2026-09-29
+RWA,Commercial Banks,BPR Bank Rwanda,bpr.rw,25,35,5.7,0.0,37.1,51.4,0.0,2,m365,,false,2026-09-29
+RWA,Commercial Banks,Guaranty Trust Bank Rwanda,gtbank.co.rw,23,24,0.0,0.0,0.0,91.7,0.0,0,other:Imperva,,false,2026-09-29
+RWA,Commercial Banks,Access Bank Rwanda,rwanda.accessbankplc.com,2,1,0.0,0.0,0.0,100.0,0.0,0,none,,false,2026-09-29
+RWA,Commercial Banks,Bank of Africa Rwanda,boarwanda.com,13,28,0.0,0.0,53.6,0.0,0.0,0,m365,broadcom-messagelabs,false,2026-09-29
+RWA,Commercial Banks,Zigama Credit and Savings Society,zigamacss.rw,19,13,0.0,0.0,0.0,0.0,0.0,13,other:KT RWANDA NETWORK Ltd - KT RWANDA NETWORK Ltd,,false,2026-09-29
+RWA,Commercial Banks,Cogebanque,cogebanque.co.rw,27,13,0.0,0.0,0.0,38.5,0.0,4,other:KT RWANDA NETWORK Ltd - KT RWANDA NETWORK Ltd,,false,2026-09-29
+RWA,Commercial Banks,Development Bank of Rwanda,brd.rw,11,47,53.2,0.0,29.8,0.0,2.1,0,m365,barracuda,true,2026-09-29
+RWA,Civil registry / National ID authority,National Identification Agency,nida.gov.rw,53,47,0.0,0.0,0.0,8.5,0.0,41,other:KT RWANDA NETWORK Ltd - KT RWANDA NETWORK Ltd,,false,2026-09-29
+RWA,Electoral commission,National Electoral Commission,nec.gov.rw,31,12,0.0,0.0,0.0,0.0,0.0,12,other:KT RWANDA NETWORK Ltd - KT RWANDA NETWORK Ltd,,false,2026-09-29
+RWA,Statistics office,National Institute of Statistics of Rwanda,statistics.gov.rw,144,130,0.0,0.0,0.0,0.0,0.0,127,other:KT RWANDA NETWORK Ltd - KT RWANDA NETWORK Ltd,,false,2026-09-29
+RWA,Immigration / Passports,Directorate General of Immigration and Emigration,migration.gov.rw,22,22,0.0,0.0,0.0,0.0,0.0,21,other:KT RWANDA NETWORK Ltd - KT RWANDA NETWORK Ltd,,false,2026-09-29
+RWA,Health ministry / National health insurance,Ministry of Health,moh.gov.rw,185,144,11.8,0.0,0.0,0.0,0.0,127,other:KT RWANDA NETWORK Ltd - KT RWANDA NETWORK Ltd,,false,2026-09-29
+RWA,Social protection / Social registry,Local Administrative Entities Development Agency,loda.gov.rw,21,15,0.0,0.0,0.0,0.0,0.0,15,other:KT RWANDA NETWORK Ltd - KT RWANDA NETWORK Ltd,,false,2026-09-29
+RWA,Land registry,Rwanda Land Management and Use Authority,lands.rw,12,18,0.0,0.0,0.0,22.2,0.0,14,other:KT RWANDA NETWORK Ltd - KT RWANDA NETWORK Ltd,,false,2026-09-29
+RWA,National payment switch,RSwitch,rswitch.co.rw,20,39,0.0,0.0,43.6,0.0,0.0,21,m365,,false,2026-09-29
+RWA,Stock exchange,Rwanda Stock Exchange,rse.rw,21,33,27.3,0.0,39.4,0.0,0.0,11,m365,,false,2026-09-29
+RWA,Securities regulator,Capital Market Authority,cma.rw,23,14,0.0,0.0,0.0,0.0,0.0,14,other:KT RWANDA NETWORK Ltd - KT RWANDA NETWORK Ltd,,false,2026-09-29
+RWA,Sovereign wealth fund / National pension fund,Rwanda Social Security Board,rssb.rw,76,86,10.5,0.0,10.5,5.8,23.3,32,m365,,true,2026-09-29
+RWA,Public procurement authority,Rwanda Public Procurement Authority (Umucyo e-procurement),umucyo.gov.rw,17,5,0.0,0.0,0.0,0.0,0.0,5,none,,false,2026-09-29
+RWA,Energy utility,Rwanda Energy Group,reg.rw,29,62,40.3,0.0,27.4,0.0,0.0,16,m365,,false,2026-09-29
+RWA,State-owned telco / National backbone operator,Korea Telecom Rwanda Networks,ktrn.rw,9,13,0.0,0.0,0.0,0.0,0.0,11,other:KT RWANDA NETWORK Ltd - KT RWANDA NETWORK Ltd,,false,2026-09-29
+RWA,E-government agency,Irembo,irembo.gov.rw,16,27,14.8,0.0,0.0,14.8,0.0,19,other:KT RWANDA NETWORK Ltd - KT RWANDA NETWORK Ltd,,false,2026-09-29
+RWA,National data centre / Government cloud operator,Rwanda Information Society Authority,risa.gov.rw,135,136,0.0,0.0,0.0,0.0,0.0,136,other:KT RWANDA NETWORK Ltd - KT RWANDA NETWORK Ltd,,false,2026-09-29
+RWA,Cybersecurity agency / National CERT,National Cyber Security Authority,ncsa.gov.rw,7,8,0.0,0.0,0.0,0.0,0.0,8,other:KT RWANDA NETWORK Ltd - KT RWANDA NETWORK Ltd,,false,2026-09-29
+RWA,Communications regulator,Rwanda Utilities Regulatory Authority,rura.rw,24,26,0.0,0.0,7.7,15.4,0.0,20,other:barracuda,barracuda,false,2026-09-29
+RWA,Audit office,Office of the Auditor General of State Finances,oag.gov.rw,13,14,0.0,0.0,0.0,0.0,0.0,13,other:KT RWANDA NETWORK Ltd - KT RWANDA NETWORK Ltd,,false,2026-09-29
+RWA,Anti-corruption commission,Office of the Ombudsman,ombudsman.gov.rw,36,27,0.0,0.0,0.0,0.0,0.0,26,other:KT RWANDA NETWORK Ltd - KT RWANDA NETWORK Ltd,,false,2026-09-29
