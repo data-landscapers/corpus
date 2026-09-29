@@ -1,11 +1,11 @@
 iso3,type,institution,domain,name,source,rr_type,rr_status,target,ip,cname_chain,asn,owner,category,region,provider,scan_date
-SYC,Presidency,Office of the President,statehouse.gov.sc,autodiscover.statehouse.gov.sc,dictionary,A,ok,,196.13.208.100,,327861,Department of ICT Government of Seychelles,unattributed,,,2026-09-29
+SYC,Presidency,Office of the President,statehouse.gov.sc,autodiscover.statehouse.gov.sc,dictionary,A,ok,,196.13.208.100,,327861,Department of ICT Government of Seychelles,national-dc,,Department of ICT Government of Seychelles - Department of ICT Government of Seychelles,2026-09-29
 SYC,Presidency,Office of the President,statehouse.gov.sc,localhost.statehouse.gov.sc,dictionary,A,ok,,127.0.0.1,,,non-public address,unresolved,,,2026-09-29
-SYC,Presidency,Office of the President,statehouse.gov.sc,statehouse.gov.sc,root;ct,A,ok,,185.80.2.208,,201200,SUPERHOSTING-MNT,unattributed,,,2026-09-29
-SYC,Presidency,Office of the President,statehouse.gov.sc,www.statehouse.gov.sc,root;ct,A,ok,,185.80.2.208,,201200,SUPERHOSTING-MNT,unattributed,,,2026-09-29
-SYC,Presidency,Office of the President,statehouse.gov.sc,statehouse.gov.sc,root,MX,ok,mx3.egov.sc,196.13.208.52,,327861,Department of ICT Government of Seychelles,unattributed,,,2026-09-29
-SYC,Presidency,Office of the President,statehouse.gov.sc,statehouse.gov.sc,root,NS,ok,ns2.gov.sc,196.13.208.10,,327861,Department of ICT Government of Seychelles,unattributed,,,2026-09-29
-SYC,Presidency,Office of the President,statehouse.gov.sc,statehouse.gov.sc,root,NS,ok,ns1.gov.sc,196.13.208.11,,327861,Department of ICT Government of Seychelles,unattributed,,,2026-09-29
+SYC,Presidency,Office of the President,statehouse.gov.sc,statehouse.gov.sc,root;ct,A,ok,,185.80.2.208,,201200,SUPERHOSTING-MNT,commercial-host,,SUPERHOSTING_AS SuperHosting.BG Ltd.,2026-09-29
+SYC,Presidency,Office of the President,statehouse.gov.sc,www.statehouse.gov.sc,root;ct,A,ok,,185.80.2.208,,201200,SUPERHOSTING-MNT,commercial-host,,SUPERHOSTING_AS SuperHosting.BG Ltd.,2026-09-29
+SYC,Presidency,Office of the President,statehouse.gov.sc,statehouse.gov.sc,root,MX,ok,mx3.egov.sc,196.13.208.52,,327861,Department of ICT Government of Seychelles,national-dc,,Department of ICT Government of Seychelles - Department of ICT Government of Seychelles,2026-09-29
+SYC,Presidency,Office of the President,statehouse.gov.sc,statehouse.gov.sc,root,NS,ok,ns2.gov.sc,196.13.208.10,,327861,Department of ICT Government of Seychelles,national-dc,,Department of ICT Government of Seychelles - Department of ICT Government of Seychelles,2026-09-29
+SYC,Presidency,Office of the President,statehouse.gov.sc,statehouse.gov.sc,root,NS,ok,ns1.gov.sc,196.13.208.11,,327861,Department of ICT Government of Seychelles,national-dc,,Department of ICT Government of Seychelles - Department of ICT Government of Seychelles,2026-09-29
 SYC,Presidency,Office of the President,statehouse.gov.sc,statehouse.gov.sc,root,TXT,ok,v=spf1 mx ip4:196.13.208.52/32 ip4:196.13.208.234/32 include:spf.protection.outlook.com -all,,,,,,,,2026-09-29
 SYC,Presidency,Office of the President,statehouse.gov.sc,_dmarc.statehouse.gov.sc,root,TXT,ok,v=DMARC1; p=none; rua=mailto:dmarc@gov.sc; ruf=mailto:dmarc@gov.sc; fo=1:d:s; aspf=s,,,,,,,,2026-09-29
 SYC,Parliament,National Assembly of Seychelles,nationalassembly.sc,autoconfig.nationalassembly.sc,dictionary,A,ok,,51.195.164.55,,16276,Gray Ryan,commercial-host,,OVH,2026-09-29
@@ -30,14 +30,14 @@ SYC,Parliament,National Assembly of Seychelles,nationalassembly.sc,cpcalendars.n
 SYC,Parliament,National Assembly of Seychelles,nationalassembly.sc,cpcontacts.nationalassembly.sc,dictionary,A,ok,,51.195.164.55,,16276,Gray Ryan,commercial-host,,OVH,2026-09-29
 SYC,Parliament,National Assembly of Seychelles,nationalassembly.sc,f16.nationalassembly.sc,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SYC,Parliament,National Assembly of Seychelles,nationalassembly.sc,ftp.nationalassembly.sc,dictionary,A,ok,,51.195.164.55,,16276,Gray Ryan,commercial-host,,OVH,2026-09-29
-SYC,Parliament,National Assembly of Seychelles,nationalassembly.sc,imap.nationalassembly.sc,dictionary,A,ok,,41.86.36.139,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
-SYC,Parliament,National Assembly of Seychelles,nationalassembly.sc,m.nationalassembly.sc,dictionary;ct,A,ok,,41.86.46.223,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
-SYC,Parliament,National Assembly of Seychelles,nationalassembly.sc,mail.nationalassembly.sc,dictionary,A,ok,,41.86.36.139,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
+SYC,Parliament,National Assembly of Seychelles,nationalassembly.sc,imap.nationalassembly.sc,dictionary,A,ok,,41.86.36.139,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
+SYC,Parliament,National Assembly of Seychelles,nationalassembly.sc,m.nationalassembly.sc,dictionary;ct,A,ok,,41.86.46.223,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
+SYC,Parliament,National Assembly of Seychelles,nationalassembly.sc,mail.nationalassembly.sc,dictionary,A,ok,,41.86.36.139,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
 SYC,Parliament,National Assembly of Seychelles,nationalassembly.sc,media.nationalassembly.sc,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SYC,Parliament,National Assembly of Seychelles,nationalassembly.sc,nationalassembly.sc,root;ct,A,ok,,192.185.119.229,,31898,HostGator.com LLC,us-hyperscaler-offshore,,Oracle Cloud,2026-09-29
 SYC,Parliament,National Assembly of Seychelles,nationalassembly.sc,portal.nationalassembly.sc,dictionary,A,ok,,10.10.10.6,,,non-public address,unresolved,,,2026-09-29
-SYC,Parliament,National Assembly of Seychelles,nationalassembly.sc,smtp.nationalassembly.sc,dictionary,A,ok,,41.86.36.139,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
-SYC,Parliament,National Assembly of Seychelles,nationalassembly.sc,w.nationalassembly.sc,dictionary;ct,A,ok,,41.86.46.223,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
+SYC,Parliament,National Assembly of Seychelles,nationalassembly.sc,smtp.nationalassembly.sc,dictionary,A,ok,,41.86.36.139,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
+SYC,Parliament,National Assembly of Seychelles,nationalassembly.sc,w.nationalassembly.sc,dictionary;ct,A,ok,,41.86.46.223,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
 SYC,Parliament,National Assembly of Seychelles,nationalassembly.sc,webdisk.nationalassembly.sc,dictionary,A,ok,,51.195.164.55,,16276,Gray Ryan,commercial-host,,OVH,2026-09-29
 SYC,Parliament,National Assembly of Seychelles,nationalassembly.sc,webmail.nationalassembly.sc,dictionary;ct,A,ok,,51.195.164.55,,16276,Gray Ryan,commercial-host,,OVH,2026-09-29
 SYC,Parliament,National Assembly of Seychelles,nationalassembly.sc,whm.nationalassembly.sc,dictionary,A,ok,,51.195.164.55,,16276,Gray Ryan,commercial-host,,OVH,2026-09-29
@@ -49,19 +49,19 @@ SYC,Parliament,National Assembly of Seychelles,nationalassembly.sc,nationalassem
 SYC,Parliament,National Assembly of Seychelles,nationalassembly.sc,nationalassembly.sc,root,TXT,ok,v=spf1 ip4:51.195.164.55 include:_spf.cloudwebhosting.com include:spf.protection.outlook.com include:relay.mailchannels.net -all,,,,,,,,2026-09-29
 SYC,Foreign Affairs,Ministry of Foreign Affairs,mfa.gov.sc,localhost.mfa.gov.sc,dictionary,A,ok,,127.0.0.1,,,non-public address,unresolved,,,2026-09-29
 SYC,Foreign Affairs,Ministry of Foreign Affairs,mfa.gov.sc,mfa.gov.sc,root,A,ok,,35.213.190.63,,,google-cloud,us-hyperscaler-offshore,asia-southeast1,google-cloud,2026-09-29
-SYC,Foreign Affairs,Ministry of Foreign Affairs,mfa.gov.sc,portal.mfa.gov.sc,dictionary,A,ok,,185.2.168.12,,34119,I Fastnet Ltd,unattributed,,,2026-09-29
+SYC,Foreign Affairs,Ministry of Foreign Affairs,mfa.gov.sc,portal.mfa.gov.sc,dictionary,A,ok,,185.2.168.12,,34119,I Fastnet Ltd,commercial-host,,WILDCARD-AS Wildcard UK Limited,2026-09-29
 SYC,Foreign Affairs,Ministry of Foreign Affairs,mfa.gov.sc,www.mfa.gov.sc,root,A,ok,,35.213.190.63,,,google-cloud,us-hyperscaler-offshore,asia-southeast1,google-cloud,2026-09-29
-SYC,Foreign Affairs,Ministry of Foreign Affairs,mfa.gov.sc,mfa.gov.sc,root,MX,ok,mx3.egov.sc,196.13.208.52,,327861,Department of ICT Government of Seychelles,unattributed,,,2026-09-29
-SYC,Foreign Affairs,Ministry of Foreign Affairs,mfa.gov.sc,mfa.gov.sc,root,NS,ok,ns2.gov.sc,196.13.208.10,,327861,Department of ICT Government of Seychelles,unattributed,,,2026-09-29
-SYC,Foreign Affairs,Ministry of Foreign Affairs,mfa.gov.sc,mfa.gov.sc,root,NS,ok,ns1.gov.sc,196.13.208.11,,327861,Department of ICT Government of Seychelles,unattributed,,,2026-09-29
+SYC,Foreign Affairs,Ministry of Foreign Affairs,mfa.gov.sc,mfa.gov.sc,root,MX,ok,mx3.egov.sc,196.13.208.52,,327861,Department of ICT Government of Seychelles,national-dc,,Department of ICT Government of Seychelles - Department of ICT Government of Seychelles,2026-09-29
+SYC,Foreign Affairs,Ministry of Foreign Affairs,mfa.gov.sc,mfa.gov.sc,root,NS,ok,ns2.gov.sc,196.13.208.10,,327861,Department of ICT Government of Seychelles,national-dc,,Department of ICT Government of Seychelles - Department of ICT Government of Seychelles,2026-09-29
+SYC,Foreign Affairs,Ministry of Foreign Affairs,mfa.gov.sc,mfa.gov.sc,root,NS,ok,ns1.gov.sc,196.13.208.11,,327861,Department of ICT Government of Seychelles,national-dc,,Department of ICT Government of Seychelles - Department of ICT Government of Seychelles,2026-09-29
 SYC,Foreign Affairs,Ministry of Foreign Affairs,mfa.gov.sc,mfa.gov.sc,root,TXT,ok,v=spf1 mx ip4:196.13.208.52/32 ip4:196.13.208.234/32 include:spf.protection.outlook.com -all,,,,,,,,2026-09-29
 SYC,Foreign Affairs,Ministry of Foreign Affairs,mfa.gov.sc,_dmarc.mfa.gov.sc,root,TXT,ok,v=DMARC1; p=none; rua=mailto:dmarc@gov.sc; ruf=mailto:dmarc@gov.sc; fo=1:d:s; aspf=s,,,,,,,,2026-09-29
 SYC,Police,Seychelles Police Force,police.gov.sc,localhost.police.gov.sc,dictionary,A,ok,,127.0.0.1,,,non-public address,unresolved,,,2026-09-29
-SYC,Police,Seychelles Police Force,police.gov.sc,police.gov.sc,root,A,ok,,196.13.208.104,,327861,Department of ICT Government of Seychelles,unattributed,,,2026-09-29
-SYC,Police,Seychelles Police Force,police.gov.sc,www.police.gov.sc,root,A,ok,,196.13.208.104,,327861,Department of ICT Government of Seychelles,unattributed,,,2026-09-29
-SYC,Police,Seychelles Police Force,police.gov.sc,police.gov.sc,root,MX,ok,mx3.egov.sc,196.13.208.52,,327861,Department of ICT Government of Seychelles,unattributed,,,2026-09-29
-SYC,Police,Seychelles Police Force,police.gov.sc,police.gov.sc,root,NS,ok,ns1.gov.sc,196.13.208.11,,327861,Department of ICT Government of Seychelles,unattributed,,,2026-09-29
-SYC,Police,Seychelles Police Force,police.gov.sc,police.gov.sc,root,NS,ok,ns2.gov.sc,196.13.208.10,,327861,Department of ICT Government of Seychelles,unattributed,,,2026-09-29
+SYC,Police,Seychelles Police Force,police.gov.sc,police.gov.sc,root,A,ok,,196.13.208.104,,327861,Department of ICT Government of Seychelles,national-dc,,Department of ICT Government of Seychelles - Department of ICT Government of Seychelles,2026-09-29
+SYC,Police,Seychelles Police Force,police.gov.sc,www.police.gov.sc,root,A,ok,,196.13.208.104,,327861,Department of ICT Government of Seychelles,national-dc,,Department of ICT Government of Seychelles - Department of ICT Government of Seychelles,2026-09-29
+SYC,Police,Seychelles Police Force,police.gov.sc,police.gov.sc,root,MX,ok,mx3.egov.sc,196.13.208.52,,327861,Department of ICT Government of Seychelles,national-dc,,Department of ICT Government of Seychelles - Department of ICT Government of Seychelles,2026-09-29
+SYC,Police,Seychelles Police Force,police.gov.sc,police.gov.sc,root,NS,ok,ns1.gov.sc,196.13.208.11,,327861,Department of ICT Government of Seychelles,national-dc,,Department of ICT Government of Seychelles - Department of ICT Government of Seychelles,2026-09-29
+SYC,Police,Seychelles Police Force,police.gov.sc,police.gov.sc,root,NS,ok,ns2.gov.sc,196.13.208.10,,327861,Department of ICT Government of Seychelles,national-dc,,Department of ICT Government of Seychelles - Department of ICT Government of Seychelles,2026-09-29
 SYC,Police,Seychelles Police Force,police.gov.sc,police.gov.sc,root,TXT,ok,v=spf1 mx ip4:196.13.208.52/32 -all,,,,,,,,2026-09-29
 SYC,Police,Seychelles Police Force,police.gov.sc,_dmarc.police.gov.sc,root,TXT,ok,"v=DMARC1; p=none; rua=mailto:dmarc@gov.sc,mailto:rua@dmarc.brevo.com; ruf=mailto:dmarc@gov.sc; fo=1:d:s; aspf=s",,,,,,,,2026-09-29
 SYC,Justice,Judiciary of Seychelles,judiciary.sc,autoconfig.judiciary.sc,dictionary,A,ok,,51.195.164.55,,16276,Gray Ryan,commercial-host,,OVH,2026-09-29
@@ -86,15 +86,15 @@ SYC,Justice,Judiciary of Seychelles,judiciary.sc,judiciary.sc,root,NS,ok,uk2.clo
 SYC,Justice,Judiciary of Seychelles,judiciary.sc,judiciary.sc,root,TXT,ok,v=spf1 ip4:51.195.164.55  a  mx  ip4:89.34.18.127 include:_spf.cloudwebhosting.com ~all,,,,,,,,2026-09-29
 SYC,Justice,Judiciary of Seychelles,judiciary.sc,judiciary.sc,root,TXT,ok,v=spf1 include:zohomail.com include:relay.mailchannels.net ~all,,,,,,,,2026-09-29
 SYC,Justice,Judiciary of Seychelles,judiciary.sc,_dmarc.judiciary.sc,root,TXT,ok,v=DMARC1; p=none; rua=mailto:itadmin@vcsinet.com; ruf=mailto:itadmin@vcsinet.com; sp=none; adkim=r; aspf=r,,,,,,,,2026-09-29
-SYC,Treasury / Finance,Ministry of Finance,finance.gov.sc,amu.finance.gov.sc,ct,A,ok,,209.172.2.130,,19853,OrangeHost,unattributed,,,2026-09-29
-SYC,Treasury / Finance,Ministry of Finance,finance.gov.sc,auction.finance.gov.sc,ct,A,ok,,209.172.2.130,,19853,OrangeHost,unattributed,,,2026-09-29
-SYC,Treasury / Finance,Ministry of Finance,finance.gov.sc,finance.gov.sc,root;ct,A,ok,,209.172.2.130,,19853,OrangeHost,unattributed,,,2026-09-29
+SYC,Treasury / Finance,Ministry of Finance,finance.gov.sc,amu.finance.gov.sc,ct,A,ok,,209.172.2.130,,19853,OrangeHost,commercial-host,,ORANGEHOST - OrangeHost,2026-09-29
+SYC,Treasury / Finance,Ministry of Finance,finance.gov.sc,auction.finance.gov.sc,ct,A,ok,,209.172.2.130,,19853,OrangeHost,commercial-host,,ORANGEHOST - OrangeHost,2026-09-29
+SYC,Treasury / Finance,Ministry of Finance,finance.gov.sc,finance.gov.sc,root;ct,A,ok,,209.172.2.130,,19853,OrangeHost,commercial-host,,ORANGEHOST - OrangeHost,2026-09-29
 SYC,Treasury / Finance,Ministry of Finance,finance.gov.sc,localhost.finance.gov.sc,dictionary,A,ok,,127.0.0.1,,,non-public address,unresolved,,,2026-09-29
-SYC,Treasury / Finance,Ministry of Finance,finance.gov.sc,www.amu.finance.gov.sc,ct,A,ok,amu.finance.gov.sc,209.172.2.130,amu.finance.gov.sc,19853,OrangeHost,unattributed,,,2026-09-29
-SYC,Treasury / Finance,Ministry of Finance,finance.gov.sc,www.finance.gov.sc,root;ct,A,ok,,209.172.2.130,,19853,OrangeHost,unattributed,,,2026-09-29
-SYC,Treasury / Finance,Ministry of Finance,finance.gov.sc,finance.gov.sc,root,MX,ok,mx3.egov.sc,196.13.208.52,,327861,Department of ICT Government of Seychelles,unattributed,,,2026-09-29
-SYC,Treasury / Finance,Ministry of Finance,finance.gov.sc,finance.gov.sc,root,NS,ok,ns1.gov.sc,196.13.208.11,,327861,Department of ICT Government of Seychelles,unattributed,,,2026-09-29
-SYC,Treasury / Finance,Ministry of Finance,finance.gov.sc,finance.gov.sc,root,NS,ok,ns2.gov.sc,196.13.208.10,,327861,Department of ICT Government of Seychelles,unattributed,,,2026-09-29
+SYC,Treasury / Finance,Ministry of Finance,finance.gov.sc,www.amu.finance.gov.sc,ct,A,ok,amu.finance.gov.sc,209.172.2.130,amu.finance.gov.sc,19853,OrangeHost,commercial-host,,ORANGEHOST - OrangeHost,2026-09-29
+SYC,Treasury / Finance,Ministry of Finance,finance.gov.sc,www.finance.gov.sc,root;ct,A,ok,,209.172.2.130,,19853,OrangeHost,commercial-host,,ORANGEHOST - OrangeHost,2026-09-29
+SYC,Treasury / Finance,Ministry of Finance,finance.gov.sc,finance.gov.sc,root,MX,ok,mx3.egov.sc,196.13.208.52,,327861,Department of ICT Government of Seychelles,national-dc,,Department of ICT Government of Seychelles - Department of ICT Government of Seychelles,2026-09-29
+SYC,Treasury / Finance,Ministry of Finance,finance.gov.sc,finance.gov.sc,root,NS,ok,ns1.gov.sc,196.13.208.11,,327861,Department of ICT Government of Seychelles,national-dc,,Department of ICT Government of Seychelles - Department of ICT Government of Seychelles,2026-09-29
+SYC,Treasury / Finance,Ministry of Finance,finance.gov.sc,finance.gov.sc,root,NS,ok,ns2.gov.sc,196.13.208.10,,327861,Department of ICT Government of Seychelles,national-dc,,Department of ICT Government of Seychelles - Department of ICT Government of Seychelles,2026-09-29
 SYC,Treasury / Finance,Ministry of Finance,finance.gov.sc,finance.gov.sc,root,TXT,ok,v=spf1 mx ip4:196.13.208.52/32 ip4:196.13.208.234/32 include:spf.protection.outlook.com -all,,,,,,,,2026-09-29
 SYC,Treasury / Finance,Ministry of Finance,finance.gov.sc,_dmarc.finance.gov.sc,root,TXT,ok,v=DMARC1; p=quarantine; rua=mailto:dmarc@gov.sc; ruf=mailto:dmarc@gov.sc; sp=reject; fo=1; pct=100; adkim=r; aspf=r,,,,,,,,2026-09-29
 SYC,Revenue Service,Seychelles Revenue Commission,src.gov.sc,auth.src.gov.sc,dictionary,A,ok,auth0-ingress.eu.auth0.com.cdn.cloudflare.net,104.18.34.171,srcprod-cd-qx3nlueru56out0b.edge.tenants.eu.auth0.com>srcprod.eu.auth0.com>pvsty8.eu.auth0.com.pivot.prod.auth0edge.com>auth0-ingress.eu.auth0.com.cdn.cloudflare.net,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
@@ -103,60 +103,60 @@ SYC,Revenue Service,Seychelles Revenue Commission,src.gov.sc,auth.src.gov.sc,dic
 SYC,Revenue Service,Seychelles Revenue Commission,src.gov.sc,auth.src.gov.sc,dictionary,AAAA,ok,auth0-ingress.eu.auth0.com.cdn.cloudflare.net,2a06:98c1:3103::ac40:9955,srcprod-cd-qx3nlueru56out0b.edge.tenants.eu.auth0.com>srcprod.eu.auth0.com>pvsty8.eu.auth0.com.pivot.prod.auth0edge.com>auth0-ingress.eu.auth0.com.cdn.cloudflare.net,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 SYC,Revenue Service,Seychelles Revenue Commission,src.gov.sc,localhost.src.gov.sc,dictionary,A,ok,,127.0.0.1,,,non-public address,unresolved,,,2026-09-29
 SYC,Revenue Service,Seychelles Revenue Commission,src.gov.sc,secure.src.gov.sc,dictionary,A,ok,,65.98.12.216,,204800,lir-uk-whgi-1-MNT,commercial-host,,WHG Hosting,2026-09-29
-SYC,Revenue Service,Seychelles Revenue Commission,src.gov.sc,sftp.src.gov.sc,dictionary,A,ok,,196.13.208.104,,327861,Department of ICT Government of Seychelles,unattributed,,,2026-09-29
+SYC,Revenue Service,Seychelles Revenue Commission,src.gov.sc,sftp.src.gov.sc,dictionary,A,ok,,196.13.208.104,,327861,Department of ICT Government of Seychelles,national-dc,,Department of ICT Government of Seychelles - Department of ICT Government of Seychelles,2026-09-29
 SYC,Revenue Service,Seychelles Revenue Commission,src.gov.sc,src.gov.sc,root,A,ok,,65.98.12.216,,204800,lir-uk-whgi-1-MNT,commercial-host,,WHG Hosting,2026-09-29
 SYC,Revenue Service,Seychelles Revenue Commission,src.gov.sc,staging.src.gov.sc,dictionary,A,ok,,65.98.12.216,,204800,lir-uk-whgi-1-MNT,commercial-host,,WHG Hosting,2026-09-29
-SYC,Revenue Service,Seychelles Revenue Commission,src.gov.sc,tms.src.gov.sc,dictionary,A,ok,,196.13.208.104,,327861,Department of ICT Government of Seychelles,unattributed,,,2026-09-29
+SYC,Revenue Service,Seychelles Revenue Commission,src.gov.sc,tms.src.gov.sc,dictionary,A,ok,,196.13.208.104,,327861,Department of ICT Government of Seychelles,national-dc,,Department of ICT Government of Seychelles - Department of ICT Government of Seychelles,2026-09-29
 SYC,Revenue Service,Seychelles Revenue Commission,src.gov.sc,www.src.gov.sc,root,A,ok,,65.98.12.216,,204800,lir-uk-whgi-1-MNT,commercial-host,,WHG Hosting,2026-09-29
-SYC,Revenue Service,Seychelles Revenue Commission,src.gov.sc,src.gov.sc,root,MX,ok,mx3.egov.sc,196.13.208.52,,327861,Department of ICT Government of Seychelles,unattributed,,,2026-09-29
-SYC,Revenue Service,Seychelles Revenue Commission,src.gov.sc,src.gov.sc,root,NS,ok,ns1.gov.sc,196.13.208.11,,327861,Department of ICT Government of Seychelles,unattributed,,,2026-09-29
-SYC,Revenue Service,Seychelles Revenue Commission,src.gov.sc,src.gov.sc,root,NS,ok,ns2.gov.sc,196.13.208.10,,327861,Department of ICT Government of Seychelles,unattributed,,,2026-09-29
+SYC,Revenue Service,Seychelles Revenue Commission,src.gov.sc,src.gov.sc,root,MX,ok,mx3.egov.sc,196.13.208.52,,327861,Department of ICT Government of Seychelles,national-dc,,Department of ICT Government of Seychelles - Department of ICT Government of Seychelles,2026-09-29
+SYC,Revenue Service,Seychelles Revenue Commission,src.gov.sc,src.gov.sc,root,NS,ok,ns1.gov.sc,196.13.208.11,,327861,Department of ICT Government of Seychelles,national-dc,,Department of ICT Government of Seychelles - Department of ICT Government of Seychelles,2026-09-29
+SYC,Revenue Service,Seychelles Revenue Commission,src.gov.sc,src.gov.sc,root,NS,ok,ns2.gov.sc,196.13.208.10,,327861,Department of ICT Government of Seychelles,national-dc,,Department of ICT Government of Seychelles - Department of ICT Government of Seychelles,2026-09-29
 SYC,Revenue Service,Seychelles Revenue Commission,src.gov.sc,src.gov.sc,root,TXT,ok,v=spf1 mx ip4:196.13.208.52 include:spf.protection.outlook.com -all,,,,,,,,2026-09-29
 SYC,Revenue Service,Seychelles Revenue Commission,src.gov.sc,_dmarc.src.gov.sc,root,TXT,ok,v=DMARC1; p=none; rua=mailto:dmarc@gov.sc; ruf=mailto:dmarc@gov.sc; fo=1:d:s; aspf=s,,,,,,,,2026-09-29
 SYC,Interior / Home Affairs,Ministry of Home Affairs,mhsca.gov.sc,localhost.mhsca.gov.sc,dictionary,A,ok,,127.0.0.1,,,non-public address,unresolved,,,2026-09-29
 SYC,Interior / Home Affairs,Ministry of Home Affairs,mhsca.gov.sc,mhsca.gov.sc,root;ct,A,ok,,191.96.244.90,,47583,netutils-mnt,commercial-host,,Hostinger,2026-09-29
 SYC,Interior / Home Affairs,Ministry of Home Affairs,mhsca.gov.sc,www.mhsca.gov.sc,root;ct,A,ok,,191.96.244.90,,47583,netutils-mnt,commercial-host,,Hostinger,2026-09-29
-SYC,Interior / Home Affairs,Ministry of Home Affairs,mhsca.gov.sc,mhsca.gov.sc,root,MX,ok,mx3.egov.sc,196.13.208.52,,327861,Department of ICT Government of Seychelles,unattributed,,,2026-09-29
-SYC,Interior / Home Affairs,Ministry of Home Affairs,mhsca.gov.sc,mhsca.gov.sc,root,NS,ok,ns2.gov.sc,196.13.208.10,,327861,Department of ICT Government of Seychelles,unattributed,,,2026-09-29
-SYC,Interior / Home Affairs,Ministry of Home Affairs,mhsca.gov.sc,mhsca.gov.sc,root,NS,ok,ns1.gov.sc,196.13.208.11,,327861,Department of ICT Government of Seychelles,unattributed,,,2026-09-29
+SYC,Interior / Home Affairs,Ministry of Home Affairs,mhsca.gov.sc,mhsca.gov.sc,root,MX,ok,mx3.egov.sc,196.13.208.52,,327861,Department of ICT Government of Seychelles,national-dc,,Department of ICT Government of Seychelles - Department of ICT Government of Seychelles,2026-09-29
+SYC,Interior / Home Affairs,Ministry of Home Affairs,mhsca.gov.sc,mhsca.gov.sc,root,NS,ok,ns2.gov.sc,196.13.208.10,,327861,Department of ICT Government of Seychelles,national-dc,,Department of ICT Government of Seychelles - Department of ICT Government of Seychelles,2026-09-29
+SYC,Interior / Home Affairs,Ministry of Home Affairs,mhsca.gov.sc,mhsca.gov.sc,root,NS,ok,ns1.gov.sc,196.13.208.11,,327861,Department of ICT Government of Seychelles,national-dc,,Department of ICT Government of Seychelles - Department of ICT Government of Seychelles,2026-09-29
 SYC,Interior / Home Affairs,Ministry of Home Affairs,mhsca.gov.sc,mhsca.gov.sc,root,TXT,ok,v=spf1 mx ip4:196.13.208.52/32 -all,,,,,,,,2026-09-29
 SYC,Interior / Home Affairs,Ministry of Home Affairs,mhsca.gov.sc,_dmarc.mhsca.gov.sc,root,TXT,ok,v=DMARC1;p=none;rua=mailto:rua@dmarc.brevo.com,,,,,,,,2026-09-29
-SYC,Central Bank,Central Bank of Seychelles,cbs.sc,access.cbs.sc,dictionary;ct,A,ok,,41.86.57.204,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
-SYC,Central Bank,Central Bank of Seychelles,cbs.sc,archivemail.cbs.sc,ct,A,ok,,41.86.57.207,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
-SYC,Central Bank,Central Bank of Seychelles,cbs.sc,autodiscover.cbs.sc,dictionary;ct,A,ok,,41.86.46.81,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
-SYC,Central Bank,Central Bank of Seychelles,cbs.sc,av.cbs.sc,dictionary,A,ok,,41.86.57.206,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
-SYC,Central Bank,Central Bank of Seychelles,cbs.sc,cbs-ad-fs.cbs.sc,ct,A,ok,rev-prox.cbs.sc,41.86.46.170,rev-prox.cbs.sc,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
+SYC,Central Bank,Central Bank of Seychelles,cbs.sc,access.cbs.sc,dictionary;ct,A,ok,,41.86.57.204,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
+SYC,Central Bank,Central Bank of Seychelles,cbs.sc,archivemail.cbs.sc,ct,A,ok,,41.86.57.207,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
+SYC,Central Bank,Central Bank of Seychelles,cbs.sc,autodiscover.cbs.sc,dictionary;ct,A,ok,,41.86.46.81,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
+SYC,Central Bank,Central Bank of Seychelles,cbs.sc,av.cbs.sc,dictionary,A,ok,,41.86.57.206,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
+SYC,Central Bank,Central Bank of Seychelles,cbs.sc,cbs-ad-fs.cbs.sc,ct,A,ok,rev-prox.cbs.sc,41.86.46.170,rev-prox.cbs.sc,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
 SYC,Central Bank,Central Bank of Seychelles,cbs.sc,cbs-dc-fg-01.cbs.sc,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SYC,Central Bank,Central Bank of Seychelles,cbs.sc,cbs-eft-ecc-fw.cbs.sc,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SYC,Central Bank,Central Bank of Seychelles,cbs.sc,cbs-hqcasarray.cbs.sc,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SYC,Central Bank,Central Bank of Seychelles,cbs.sc,cbs-sh-webapp.cbs.sc,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SYC,Central Bank,Central Bank of Seychelles,cbs.sc,cbs.sc,root;ct,A,ok,,41.86.46.217,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
-SYC,Central Bank,Central Bank of Seychelles,cbs.sc,cbscosign.cbs.sc,ct,A,ok,rev-prox.cbs.sc,41.86.46.170,rev-prox.cbs.sc,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
-SYC,Central Bank,Central Bank of Seychelles,cbs.sc,cbssharepoint.cbs.sc,ct,A,ok,rev-prox.cbs.sc,41.86.46.170,rev-prox.cbs.sc,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
+SYC,Central Bank,Central Bank of Seychelles,cbs.sc,cbs.sc,root;ct,A,ok,,41.86.46.217,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
+SYC,Central Bank,Central Bank of Seychelles,cbs.sc,cbscosign.cbs.sc,ct,A,ok,rev-prox.cbs.sc,41.86.46.170,rev-prox.cbs.sc,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
+SYC,Central Bank,Central Bank of Seychelles,cbs.sc,cbssharepoint.cbs.sc,ct,A,ok,rev-prox.cbs.sc,41.86.46.170,rev-prox.cbs.sc,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
 SYC,Central Bank,Central Bank of Seychelles,cbs.sc,cis.cbs.sc,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SYC,Central Bank,Central Bank of Seychelles,cbs.sc,csco-fmc-01.cbs.sc,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SYC,Central Bank,Central Bank of Seychelles,cbs.sc,dialin.cbs.sc,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SYC,Central Bank,Central Bank of Seychelles,cbs.sc,failovermail.cbs.sc,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SYC,Central Bank,Central Bank of Seychelles,cbs.sc,legacy.cbs.sc,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SYC,Central Bank,Central Bank of Seychelles,cbs.sc,lyncdiscover.cbs.sc,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SYC,Central Bank,Central Bank of Seychelles,cbs.sc,mail.cbs.sc,dictionary;ct,A,ok,,41.86.46.81,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
-SYC,Central Bank,Central Bank of Seychelles,cbs.sc,mail1.cbs.sc,dictionary,A,ok,,41.220.109.40,,36902,Intelvision Ltd,unattributed,,,2026-09-29
-SYC,Central Bank,Central Bank of Seychelles,cbs.sc,mail2.cbs.sc,dictionary,A,ok,,41.86.46.81,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
-SYC,Central Bank,Central Bank of Seychelles,cbs.sc,mail3.cbs.sc,dictionary,A,ok,,41.79.60.122,,37343,Telecom Seychelles Limited - Telecom Seychelles Limited,unattributed,,,2026-09-29
+SYC,Central Bank,Central Bank of Seychelles,cbs.sc,mail.cbs.sc,dictionary;ct,A,ok,,41.86.46.81,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
+SYC,Central Bank,Central Bank of Seychelles,cbs.sc,mail1.cbs.sc,dictionary,A,ok,,41.220.109.40,,36902,Intelvision Ltd,telco-isp,,Intelvision Ltd - Intelvision Ltd,2026-09-29
+SYC,Central Bank,Central Bank of Seychelles,cbs.sc,mail2.cbs.sc,dictionary,A,ok,,41.86.46.81,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
+SYC,Central Bank,Central Bank of Seychelles,cbs.sc,mail3.cbs.sc,dictionary,A,ok,,41.79.60.122,,37343,Telecom Seychelles Limited - Telecom Seychelles Limited,telco-isp,,Telecom Seychelles Limited - Telecom Seychelles Limited,2026-09-29
 SYC,Central Bank,Central Bank of Seychelles,cbs.sc,mdm.cbs.sc,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SYC,Central Bank,Central Bank of Seychelles,cbs.sc,meet.cbs.sc,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SYC,Central Bank,Central Bank of Seychelles,cbs.sc,portal.cbs.sc,dictionary,A,ok,,41.86.46.13,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
+SYC,Central Bank,Central Bank of Seychelles,cbs.sc,portal.cbs.sc,dictionary,A,ok,,41.86.46.13,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
 SYC,Central Bank,Central Bank of Seychelles,cbs.sc,sentry.cbs.sc,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SYC,Central Bank,Central Bank of Seychelles,cbs.sc,sfbweb.cbs.sc,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SYC,Central Bank,Central Bank of Seychelles,cbs.sc,sip.cbs.sc,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SYC,Central Bank,Central Bank of Seychelles,cbs.sc,sso.cbs.sc,dictionary;ct,A,ok,rev-prox.cbs.sc,41.86.46.170,rev-prox.cbs.sc,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
-SYC,Central Bank,Central Bank of Seychelles,cbs.sc,unlock.cbs.sc,ct,A,ok,rev-prox.cbs.sc,41.86.46.170,rev-prox.cbs.sc,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
-SYC,Central Bank,Central Bank of Seychelles,cbs.sc,vpn.cbs.sc,dictionary,A,ok,,41.86.36.232,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
+SYC,Central Bank,Central Bank of Seychelles,cbs.sc,sso.cbs.sc,dictionary;ct,A,ok,rev-prox.cbs.sc,41.86.46.170,rev-prox.cbs.sc,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
+SYC,Central Bank,Central Bank of Seychelles,cbs.sc,unlock.cbs.sc,ct,A,ok,rev-prox.cbs.sc,41.86.46.170,rev-prox.cbs.sc,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
+SYC,Central Bank,Central Bank of Seychelles,cbs.sc,vpn.cbs.sc,dictionary,A,ok,,41.86.36.232,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
 SYC,Central Bank,Central Bank of Seychelles,cbs.sc,webconf.cbs.sc,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SYC,Central Bank,Central Bank of Seychelles,cbs.sc,www.archivemail.cbs.sc,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SYC,Central Bank,Central Bank of Seychelles,cbs.sc,www.cbs-dc-fg-01.cbs.sc,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SYC,Central Bank,Central Bank of Seychelles,cbs.sc,www.cbs-eft-ecc-fw.cbs.sc,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SYC,Central Bank,Central Bank of Seychelles,cbs.sc,www.cbs.sc,root;ct,A,ok,,41.86.46.217,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
+SYC,Central Bank,Central Bank of Seychelles,cbs.sc,www.cbs.sc,root;ct,A,ok,,41.86.46.217,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
 SYC,Central Bank,Central Bank of Seychelles,cbs.sc,www.cbscosign.cbs.sc,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SYC,Central Bank,Central Bank of Seychelles,cbs.sc,www.cis.cbs.sc,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SYC,Central Bank,Central Bank of Seychelles,cbs.sc,www.csco-fmc-01.cbs.sc,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
@@ -167,9 +167,9 @@ SYC,Central Bank,Central Bank of Seychelles,cbs.sc,www.sso.cbs.sc,ct,A,nxdomain,
 SYC,Central Bank,Central Bank of Seychelles,cbs.sc,www.unlock.cbs.sc,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SYC,Central Bank,Central Bank of Seychelles,cbs.sc,cbs.sc,root,MX,ok,cbs-sc.mail.protection.outlook.com,52.101.73.155,,,microsoft-365,us-saas,,microsoft-365,2026-09-29
 SYC,Central Bank,Central Bank of Seychelles,cbs.sc,cbs.sc,root,MX,ok,cbs-sc.mail.protection.outlook.com,52.101.103.162,,,microsoft-365,us-saas,,microsoft-365,2026-09-29
-SYC,Central Bank,Central Bank of Seychelles,cbs.sc,cbs.sc,root,NS,ok,ns2.seynet.sc,41.79.60.12,,37343,Telecom Seychelles Limited - Telecom Seychelles Limited,unattributed,,,2026-09-29
-SYC,Central Bank,Central Bank of Seychelles,cbs.sc,cbs.sc,root,NS,ok,ns0.seynet.sc,197.158.254.250,,37343,Telecom Seychelles Limited - Telecom Seychelles Limited,unattributed,,,2026-09-29
-SYC,Central Bank,Central Bank of Seychelles,cbs.sc,cbs.sc,root,NS,ok,ns1.seynet.sc,41.79.60.11,,37343,Telecom Seychelles Limited - Telecom Seychelles Limited,unattributed,,,2026-09-29
+SYC,Central Bank,Central Bank of Seychelles,cbs.sc,cbs.sc,root,NS,ok,ns2.seynet.sc,41.79.60.12,,37343,Telecom Seychelles Limited - Telecom Seychelles Limited,telco-isp,,Telecom Seychelles Limited - Telecom Seychelles Limited,2026-09-29
+SYC,Central Bank,Central Bank of Seychelles,cbs.sc,cbs.sc,root,NS,ok,ns0.seynet.sc,197.158.254.250,,37343,Telecom Seychelles Limited - Telecom Seychelles Limited,telco-isp,,Telecom Seychelles Limited - Telecom Seychelles Limited,2026-09-29
+SYC,Central Bank,Central Bank of Seychelles,cbs.sc,cbs.sc,root,NS,ok,ns1.seynet.sc,41.79.60.11,,37343,Telecom Seychelles Limited - Telecom Seychelles Limited,telco-isp,,Telecom Seychelles Limited - Telecom Seychelles Limited,2026-09-29
 SYC,Central Bank,Central Bank of Seychelles,cbs.sc,cbs.sc,root,TXT,ok,v=spf1 mx a a:mail.cbs.sc a:mail1.cbs.sc a:mail2.cbs.sc a:mail3.cbs.sc include:turbo-smtp.com include:spf.protection.outlook.com -all,,,,,,,,2026-09-29
 SYC,Central Bank,Central Bank of Seychelles,cbs.sc,_dmarc.cbs.sc,root,TXT,ok,v=DMARC1; p=none; rua=mailto:a0727d140c0e.a@dmarcinput.com; ruf=mailto:a0727d140c0e.f@dmarcinput.com; ri=86400; fo=1; pct=100,,,,,,,,2026-09-29
 SYC,Commercial Banks,Seychelles Commercial Bank,scb.sc,autodiscover.scb.sc,dictionary;ct,A,ok,autod.ms-acdc-autod.office.com,52.97.241.184,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>autod.ms-acdc-autod.office.com,,microsoft-365,us-saas,,microsoft-365,2026-09-29
@@ -184,13 +184,13 @@ SYC,Commercial Banks,Seychelles Commercial Bank,scb.sc,cpanel.scb.sc,dictionary;
 SYC,Commercial Banks,Seychelles Commercial Bank,scb.sc,cpcalendars.scb.sc,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SYC,Commercial Banks,Seychelles Commercial Bank,scb.sc,cpcontacts.scb.sc,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SYC,Commercial Banks,Seychelles Commercial Bank,scb.sc,cr2-sparrow.scb.sc,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SYC,Commercial Banks,Seychelles Commercial Bank,scb.sc,ftp.scb.sc,dictionary,A,ok,scb.sc,89.34.17.65,scb.sc,201682,lwadmin,unattributed,,,2026-09-29
+SYC,Commercial Banks,Seychelles Commercial Bank,scb.sc,ftp.scb.sc,dictionary,A,ok,scb.sc,89.34.17.65,scb.sc,201682,lwadmin,commercial-host,,LIQUID-WEB-BV Liquid Web B.V.,2026-09-29
 SYC,Commercial Banks,Seychelles Commercial Bank,scb.sc,ib.scb.sc,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SYC,Commercial Banks,Seychelles Commercial Bank,scb.sc,internetbanking.scb.sc,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SYC,Commercial Banks,Seychelles Commercial Bank,scb.sc,mail.scb.sc,dictionary;ct,A,ok,scb.sc,89.34.17.65,scb.sc,201682,lwadmin,unattributed,,,2026-09-29
-SYC,Commercial Banks,Seychelles Commercial Bank,scb.sc,online.scb.sc,dictionary,A,ok,,41.86.46.113,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
-SYC,Commercial Banks,Seychelles Commercial Bank,scb.sc,scb-spvc.scb.sc,ct,A,ok,,41.86.56.110,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
-SYC,Commercial Banks,Seychelles Commercial Bank,scb.sc,scb.sc,root;ct,A,ok,,89.34.17.65,,201682,lwadmin,unattributed,,,2026-09-29
+SYC,Commercial Banks,Seychelles Commercial Bank,scb.sc,mail.scb.sc,dictionary;ct,A,ok,scb.sc,89.34.17.65,scb.sc,201682,lwadmin,commercial-host,,LIQUID-WEB-BV Liquid Web B.V.,2026-09-29
+SYC,Commercial Banks,Seychelles Commercial Bank,scb.sc,online.scb.sc,dictionary,A,ok,,41.86.46.113,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
+SYC,Commercial Banks,Seychelles Commercial Bank,scb.sc,scb-spvc.scb.sc,ct,A,ok,,41.86.56.110,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
+SYC,Commercial Banks,Seychelles Commercial Bank,scb.sc,scb.sc,root;ct,A,ok,,89.34.17.65,,201682,lwadmin,commercial-host,,LIQUID-WEB-BV Liquid Web B.V.,2026-09-29
 SYC,Commercial Banks,Seychelles Commercial Bank,scb.sc,scbbiz.scb.sc,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SYC,Commercial Banks,Seychelles Commercial Bank,scb.sc,scbco.scb.sc,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SYC,Commercial Banks,Seychelles Commercial Bank,scb.sc,scbcom.scb.sc,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
@@ -203,7 +203,7 @@ SYC,Commercial Banks,Seychelles Commercial Bank,scb.sc,webmail.scb.sc,dictionary
 SYC,Commercial Banks,Seychelles Commercial Bank,scb.sc,www.cr2-sparrow.scb.sc,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SYC,Commercial Banks,Seychelles Commercial Bank,scb.sc,www.ib.scb.sc,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SYC,Commercial Banks,Seychelles Commercial Bank,scb.sc,www.internetbanking.scb.sc,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SYC,Commercial Banks,Seychelles Commercial Bank,scb.sc,www.scb.sc,root;ct,A,ok,scb.sc,89.34.17.65,scb.sc,201682,lwadmin,unattributed,,,2026-09-29
+SYC,Commercial Banks,Seychelles Commercial Bank,scb.sc,www.scb.sc,root;ct,A,ok,scb.sc,89.34.17.65,scb.sc,201682,lwadmin,commercial-host,,LIQUID-WEB-BV Liquid Web B.V.,2026-09-29
 SYC,Commercial Banks,Seychelles Commercial Bank,scb.sc,www.scbbiz.scb.sc,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SYC,Commercial Banks,Seychelles Commercial Bank,scb.sc,www.scbco.scb.sc,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SYC,Commercial Banks,Seychelles Commercial Bank,scb.sc,www.scbcom.scb.sc,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
@@ -287,19 +287,19 @@ SYC,Commercial Banks,Nouvobanq,nouvobanq.sc,cpanel.nouvobanq.sc,dictionary,A,ok,
 SYC,Commercial Banks,Nouvobanq,nouvobanq.sc,cpcalendars.nouvobanq.sc,dictionary,A,ok,,37.27.108.228,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
 SYC,Commercial Banks,Nouvobanq,nouvobanq.sc,cpcontacts.nouvobanq.sc,dictionary,A,ok,,37.27.108.228,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
 SYC,Commercial Banks,Nouvobanq,nouvobanq.sc,ftp.nouvobanq.sc,dictionary,A,ok,,37.27.108.228,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
-SYC,Commercial Banks,Nouvobanq,nouvobanq.sc,mail.nouvobanq.sc,dictionary;ct,A,ok,,41.220.111.188,,36902,Intelvision Ltd,unattributed,,,2026-09-29
-SYC,Commercial Banks,Nouvobanq,nouvobanq.sc,mail.nouvobanq.sc,dictionary;ct,A,ok,,197.157.125.140,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
-SYC,Commercial Banks,Nouvobanq,nouvobanq.sc,mail2.nouvobanq.sc,dictionary,A,ok,,197.157.125.140,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
-SYC,Commercial Banks,Nouvobanq,nouvobanq.sc,mail2.nouvobanq.sc,dictionary,A,ok,,41.220.111.188,,36902,Intelvision Ltd,unattributed,,,2026-09-29
+SYC,Commercial Banks,Nouvobanq,nouvobanq.sc,mail.nouvobanq.sc,dictionary;ct,A,ok,,41.220.111.188,,36902,Intelvision Ltd,telco-isp,,Intelvision Ltd - Intelvision Ltd,2026-09-29
+SYC,Commercial Banks,Nouvobanq,nouvobanq.sc,mail.nouvobanq.sc,dictionary;ct,A,ok,,197.157.125.140,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
+SYC,Commercial Banks,Nouvobanq,nouvobanq.sc,mail2.nouvobanq.sc,dictionary,A,ok,,197.157.125.140,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
+SYC,Commercial Banks,Nouvobanq,nouvobanq.sc,mail2.nouvobanq.sc,dictionary,A,ok,,41.220.111.188,,36902,Intelvision Ltd,telco-isp,,Intelvision Ltd - Intelvision Ltd,2026-09-29
 SYC,Commercial Banks,Nouvobanq,nouvobanq.sc,nouvobanq.sc,root;ct,A,ok,,208.91.198.145,,46606,PDR,commercial-host,,Unified Layer (Bluehost),2026-09-29
 SYC,Commercial Banks,Nouvobanq,nouvobanq.sc,signature.nouvobanq.sc,ct,A,ok,,35.213.161.140,,,google-cloud,us-hyperscaler-offshore,asia-southeast1,google-cloud,2026-09-29
-SYC,Commercial Banks,Nouvobanq,nouvobanq.sc,smtp.nouvobanq.sc,dictionary;ct,A,ok,,41.220.111.188,,36902,Intelvision Ltd,unattributed,,,2026-09-29
-SYC,Commercial Banks,Nouvobanq,nouvobanq.sc,smtp.nouvobanq.sc,dictionary;ct,A,ok,,197.157.125.140,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
+SYC,Commercial Banks,Nouvobanq,nouvobanq.sc,smtp.nouvobanq.sc,dictionary;ct,A,ok,,41.220.111.188,,36902,Intelvision Ltd,telco-isp,,Intelvision Ltd - Intelvision Ltd,2026-09-29
+SYC,Commercial Banks,Nouvobanq,nouvobanq.sc,smtp.nouvobanq.sc,dictionary;ct,A,ok,,197.157.125.140,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
 SYC,Commercial Banks,Nouvobanq,nouvobanq.sc,w.nouvobanq.sc,dictionary;ct,A,ok,,37.27.108.228,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
 SYC,Commercial Banks,Nouvobanq,nouvobanq.sc,webdisk.nouvobanq.sc,dictionary,A,ok,,37.27.108.228,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
 SYC,Commercial Banks,Nouvobanq,nouvobanq.sc,webmail.nouvobanq.sc,dictionary,A,ok,,37.27.108.228,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
 SYC,Commercial Banks,Nouvobanq,nouvobanq.sc,whm.nouvobanq.sc,dictionary,A,ok,,37.27.108.228,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
-SYC,Commercial Banks,Nouvobanq,nouvobanq.sc,ww2.nouvobanq.sc,dictionary,A,ok,,197.157.125.140,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
+SYC,Commercial Banks,Nouvobanq,nouvobanq.sc,ww2.nouvobanq.sc,dictionary,A,ok,,197.157.125.140,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
 SYC,Commercial Banks,Nouvobanq,nouvobanq.sc,www.mail.nouvobanq.sc,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SYC,Commercial Banks,Nouvobanq,nouvobanq.sc,www.nouvobanq.sc,root;ct,A,ok,bv-nouvobanq.odoo.com,34.76.99.235,bv-nouvobanq.odoo.com,,google-cloud,us-hyperscaler-offshore,europe-west1,google-cloud,2026-09-29
 SYC,Commercial Banks,Nouvobanq,nouvobanq.sc,www.signature.nouvobanq.sc,ct,A,ok,,35.213.161.140,,,google-cloud,us-hyperscaler-offshore,asia-southeast1,google-cloud,2026-09-29
@@ -311,7 +311,7 @@ SYC,Commercial Banks,Nouvobanq,nouvobanq.sc,nouvobanq.sc,root,NS,ok,webs25.futur
 SYC,Commercial Banks,Nouvobanq,nouvobanq.sc,nouvobanq.sc,root,NS,ok,webs24.futuresouls.com,37.27.108.225,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
 SYC,Commercial Banks,Nouvobanq,nouvobanq.sc,nouvobanq.sc,root,TXT,ok,v=spf1 ip4:37.27.108.225 ip4:37.27.108.224 +a +mx +ip4:95.217.77.40 +ip4:95.217.71.11 +ip4:37.27.108.228 +ip4:37.27.108.240 +ip4:95.217.71.12 +ip4:197.157.125.140 +ip4:41.220.111.188 +include:spf.tmes.trendmicro.com ~all,,,,,,,,2026-09-29
 SYC,Commercial Banks,Bank of Baroda Seychelles,bankofbaroda.sc,autodiscover.bankofbaroda.sc,dictionary;ct,A,noanswer,,,,,,unresolved,,,2026-09-29
-SYC,Commercial Banks,Bank of Baroda Seychelles,bankofbaroda.sc,bankofbaroda.sc,root;ct,A,ok,,103.104.75.43,,133296,WEBWERKS-AS-IN - Web Werks India Pvt. Ltd.,unattributed,,,2026-09-29
+SYC,Commercial Banks,Bank of Baroda Seychelles,bankofbaroda.sc,bankofbaroda.sc,root;ct,A,ok,,103.104.75.43,,133296,WEBWERKS-AS-IN - Web Werks India Pvt. Ltd.,commercial-host,,WEBWERKS-AS-IN - Web Werks India Pvt. Ltd.,2026-09-29
 SYC,Commercial Banks,Bank of Baroda Seychelles,bankofbaroda.sc,cpanel.bankofbaroda.sc,dictionary;ct,A,noanswer,,,,,,unresolved,,,2026-09-29
 SYC,Commercial Banks,Bank of Baroda Seychelles,bankofbaroda.sc,cpcalendars.bankofbaroda.sc,dictionary;ct,A,noanswer,,,,,,unresolved,,,2026-09-29
 SYC,Commercial Banks,Bank of Baroda Seychelles,bankofbaroda.sc,cpcontacts.bankofbaroda.sc,dictionary;ct,A,noanswer,,,,,,unresolved,,,2026-09-29
@@ -319,7 +319,7 @@ SYC,Commercial Banks,Bank of Baroda Seychelles,bankofbaroda.sc,mail.bankofbaroda
 SYC,Commercial Banks,Bank of Baroda Seychelles,bankofbaroda.sc,pdf.bankofbaroda.sc,ct,A,noanswer,,,,,,unresolved,,,2026-09-29
 SYC,Commercial Banks,Bank of Baroda Seychelles,bankofbaroda.sc,webdisk.bankofbaroda.sc,dictionary;ct,A,noanswer,,,,,,unresolved,,,2026-09-29
 SYC,Commercial Banks,Bank of Baroda Seychelles,bankofbaroda.sc,webmail.bankofbaroda.sc,dictionary;ct,A,noanswer,,,,,,unresolved,,,2026-09-29
-SYC,Commercial Banks,Bank of Baroda Seychelles,bankofbaroda.sc,www.bankofbaroda.sc,root;ct,A,ok,,103.104.75.43,,133296,WEBWERKS-AS-IN - Web Werks India Pvt. Ltd.,unattributed,,,2026-09-29
+SYC,Commercial Banks,Bank of Baroda Seychelles,bankofbaroda.sc,www.bankofbaroda.sc,root;ct,A,ok,,103.104.75.43,,133296,WEBWERKS-AS-IN - Web Werks India Pvt. Ltd.,commercial-host,,WEBWERKS-AS-IN - Web Werks India Pvt. Ltd.,2026-09-29
 SYC,Commercial Banks,Bank of Baroda Seychelles,bankofbaroda.sc,www.pdf.bankofbaroda.sc,ct,A,noanswer,,,,,,unresolved,,,2026-09-29
 SYC,Commercial Banks,Bank of Baroda Seychelles,bankofbaroda.sc,bankofbaroda.sc,root,NS,ok,ns1.monikerdns.net,193.227.117.25,,1921,CENTRALNIC-MNT,commercial-host,,RcodeZero (ipcom),2026-09-29
 SYC,Commercial Banks,Bank of Baroda Seychelles,bankofbaroda.sc,bankofbaroda.sc,root,NS,ok,ns2.monikerdns.net,194.50.187.25,,1921,CENTRALNIC-MNT,commercial-host,,RcodeZero (ipcom),2026-09-29
@@ -332,9 +332,9 @@ SYC,Commercial Banks,Al Salam Bank Seychelles,alsalamseychelles.com,alsalamseych
 SYC,Commercial Banks,Al Salam Bank Seychelles,alsalamseychelles.com,online-banking.alsalamseychelles.com,ct,A,ok,vagrln3.x.incapdns.net,45.60.65.8,vagrln3.x.incapdns.net,,imperva,cdn-origin-unknown,,imperva,2026-09-29
 SYC,Commercial Banks,Al Salam Bank Seychelles,alsalamseychelles.com,www.alsalamseychelles.com,root;ct,A,ok,r7tq59h.ng.impervadns.net,45.60.65.8,r7tq59h.ng.impervadns.net,,imperva,cdn-origin-unknown,,imperva,2026-09-29
 SYC,Commercial Banks,Al Salam Bank Seychelles,alsalamseychelles.com,alsalamseychelles.com,root,MX,ok,alsalambahrain.in.tmes.trendmicro.eu,18.185.115.146,,,aws,us-hyperscaler-offshore,eu-central-1,aws,2026-09-29
-SYC,Commercial Banks,Al Salam Bank Seychelles,alsalamseychelles.com,alsalamseychelles.com,root,MX,ok,mail1.alsalambahrain.com,88.201.27.77,,5416,BATELCO-MNT,unattributed,,,2026-09-29
-SYC,Commercial Banks,Al Salam Bank Seychelles,alsalamseychelles.com,alsalamseychelles.com,root,MX,ok,mail2.alsalambahrain.com,77.69.226.17,,5416,BATELCO-MNT,unattributed,,,2026-09-29
-SYC,Commercial Banks,Al Salam Bank Seychelles,alsalamseychelles.com,alsalamseychelles.com,root,MX,ok,maildr.alsalambahrain.com,88.201.28.6,,5416,BATELCO-MNT,unattributed,,,2026-09-29
+SYC,Commercial Banks,Al Salam Bank Seychelles,alsalamseychelles.com,alsalamseychelles.com,root,MX,ok,mail1.alsalambahrain.com,88.201.27.77,,5416,BATELCO-MNT,telco-isp,,BEYON B.S.C.,2026-09-29
+SYC,Commercial Banks,Al Salam Bank Seychelles,alsalamseychelles.com,alsalamseychelles.com,root,MX,ok,mail2.alsalambahrain.com,77.69.226.17,,5416,BATELCO-MNT,telco-isp,,BEYON B.S.C.,2026-09-29
+SYC,Commercial Banks,Al Salam Bank Seychelles,alsalamseychelles.com,alsalamseychelles.com,root,MX,ok,maildr.alsalambahrain.com,88.201.28.6,,5416,BATELCO-MNT,telco-isp,,BEYON B.S.C.,2026-09-29
 SYC,Commercial Banks,Al Salam Bank Seychelles,alsalamseychelles.com,alsalamseychelles.com,root,NS,ok,ns76.worldnic.com,162.159.27.78,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 SYC,Commercial Banks,Al Salam Bank Seychelles,alsalamseychelles.com,alsalamseychelles.com,root,NS,ok,ns75.worldnic.com,162.159.26.27,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 SYC,Commercial Banks,Al Salam Bank Seychelles,alsalamseychelles.com,alsalamseychelles.com,root,TXT,ok,v=spf1 mx include:spf.tmes.trendmicro.com include:spf.tmes.trendmicro.eu -all,,,,,,,,2026-09-29
@@ -368,13 +368,13 @@ SYC,Electoral commission,Electoral Commission of Seychelles,ecs.sc,ecs.sc,root,T
 SYC,Statistics office,National Bureau of Statistics,nbs.gov.sc,localhost.nbs.gov.sc,dictionary,A,ok,,127.0.0.1,,,non-public address,unresolved,,,2026-09-29
 SYC,Statistics office,National Bureau of Statistics,nbs.gov.sc,nbs.gov.sc,root;ct,A,ok,,35.213.161.140,,,google-cloud,us-hyperscaler-offshore,asia-southeast1,google-cloud,2026-09-29
 SYC,Statistics office,National Bureau of Statistics,nbs.gov.sc,www.nbs.gov.sc,root;ct,A,ok,,35.213.161.140,,,google-cloud,us-hyperscaler-offshore,asia-southeast1,google-cloud,2026-09-29
-SYC,Statistics office,National Bureau of Statistics,nbs.gov.sc,nbs.gov.sc,root,MX,ok,mx3.egov.sc,196.13.208.52,,327861,Department of ICT Government of Seychelles,unattributed,,,2026-09-29
-SYC,Statistics office,National Bureau of Statistics,nbs.gov.sc,nbs.gov.sc,root,NS,ok,ns1.gov.sc,196.13.208.11,,327861,Department of ICT Government of Seychelles,unattributed,,,2026-09-29
-SYC,Statistics office,National Bureau of Statistics,nbs.gov.sc,nbs.gov.sc,root,NS,ok,ns2.gov.sc,196.13.208.10,,327861,Department of ICT Government of Seychelles,unattributed,,,2026-09-29
+SYC,Statistics office,National Bureau of Statistics,nbs.gov.sc,nbs.gov.sc,root,MX,ok,mx3.egov.sc,196.13.208.52,,327861,Department of ICT Government of Seychelles,national-dc,,Department of ICT Government of Seychelles - Department of ICT Government of Seychelles,2026-09-29
+SYC,Statistics office,National Bureau of Statistics,nbs.gov.sc,nbs.gov.sc,root,NS,ok,ns1.gov.sc,196.13.208.11,,327861,Department of ICT Government of Seychelles,national-dc,,Department of ICT Government of Seychelles - Department of ICT Government of Seychelles,2026-09-29
+SYC,Statistics office,National Bureau of Statistics,nbs.gov.sc,nbs.gov.sc,root,NS,ok,ns2.gov.sc,196.13.208.10,,327861,Department of ICT Government of Seychelles,national-dc,,Department of ICT Government of Seychelles - Department of ICT Government of Seychelles,2026-09-29
 SYC,Statistics office,National Bureau of Statistics,nbs.gov.sc,nbs.gov.sc,root,TXT,ok,v=spf1 +a +mx ip4:196.13.208.52/32 +a:c44501. sgvps.net include:_spf.mailspamprotection.com -all,,,,,,,,2026-09-29
 SYC,Statistics office,National Bureau of Statistics,nbs.gov.sc,_dmarc.nbs.gov.sc,root,TXT,ok,v=DMARC1; p=none; rua=mailto:dmarc@gov.sc; ruf=mailto:dmarc@gov.sc; fo=1:d:s; aspf=s,,,,,,,,2026-09-29
 SYC,Immigration / Passports,Immigration and Civil Status Division,ics.gov.sc,dev.permits.ics.gov.sc,ct,A,ok,,199.36.158.100,,54113,Google LLC,cdn-origin-unknown,,Fastly,2026-09-29
-SYC,Immigration / Passports,Immigration and Civil Status Division,ics.gov.sc,ics.gov.sc,root;ct,A,ok,,196.13.208.104,,327861,Department of ICT Government of Seychelles,unattributed,,,2026-09-29
+SYC,Immigration / Passports,Immigration and Civil Status Division,ics.gov.sc,ics.gov.sc,root;ct,A,ok,,196.13.208.104,,327861,Department of ICT Government of Seychelles,national-dc,,Department of ICT Government of Seychelles - Department of ICT Government of Seychelles,2026-09-29
 SYC,Immigration / Passports,Immigration and Civil Status Division,ics.gov.sc,localhost.ics.gov.sc,dictionary,A,ok,,127.0.0.1,,,non-public address,unresolved,,,2026-09-29
 SYC,Immigration / Passports,Immigration and Civil Status Division,ics.gov.sc,permits.ics.gov.sc,ct,A,ok,,199.36.158.100,,54113,Google LLC,cdn-origin-unknown,,Fastly,2026-09-29
 SYC,Immigration / Passports,Immigration and Civil Status Division,ics.gov.sc,qa.permits.ics.gov.sc,ct,A,ok,,199.36.158.100,,54113,Google LLC,cdn-origin-unknown,,Fastly,2026-09-29
@@ -383,31 +383,31 @@ SYC,Immigration / Passports,Immigration and Civil Status Division,ics.gov.sc,qa.
 SYC,Immigration / Passports,Immigration and Civil Status Division,ics.gov.sc,sebs.ics.gov.sc,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SYC,Immigration / Passports,Immigration and Civil Status Division,ics.gov.sc,stage.permits.ics.gov.sc,ct,A,ok,,199.36.158.100,,54113,Google LLC,cdn-origin-unknown,,Fastly,2026-09-29
 SYC,Immigration / Passports,Immigration and Civil Status Division,ics.gov.sc,vwayaz.ics.gov.sc,ct,A,ok,,199.36.158.100,,54113,Google LLC,cdn-origin-unknown,,Fastly,2026-09-29
-SYC,Immigration / Passports,Immigration and Civil Status Division,ics.gov.sc,www.ics.gov.sc,root,A,ok,,196.13.208.104,,327861,Department of ICT Government of Seychelles,unattributed,,,2026-09-29
+SYC,Immigration / Passports,Immigration and Civil Status Division,ics.gov.sc,www.ics.gov.sc,root,A,ok,,196.13.208.104,,327861,Department of ICT Government of Seychelles,national-dc,,Department of ICT Government of Seychelles - Department of ICT Government of Seychelles,2026-09-29
 SYC,Immigration / Passports,Immigration and Civil Status Division,ics.gov.sc,www.permits.ics.gov.sc,ct,A,ok,,199.36.158.100,,54113,Google LLC,cdn-origin-unknown,,Fastly,2026-09-29
 SYC,Immigration / Passports,Immigration and Civil Status Division,ics.gov.sc,www.qa.permits.ics.gov.sc,ct,A,ok,,199.36.158.100,,54113,Google LLC,cdn-origin-unknown,,Fastly,2026-09-29
 SYC,Immigration / Passports,Immigration and Civil Status Division,ics.gov.sc,www.qa.vwayaz.ics.gov.sc,ct,A,ok,citizen-syc-qa.web.app,199.36.158.100,citizen-syc-qa.web.app,54113,Google LLC,cdn-origin-unknown,,Fastly,2026-09-29
 SYC,Immigration / Passports,Immigration and Civil Status Division,ics.gov.sc,www.qa.vwayaz.ics.gov.sc,ct,AAAA,ok,citizen-syc-qa.web.app,2620:0:890::100,citizen-syc-qa.web.app,54113,Google LLC,cdn-origin-unknown,,Fastly,2026-09-29
 SYC,Immigration / Passports,Immigration and Civil Status Division,ics.gov.sc,www.vwayaz.ics.gov.sc,ct,A,ok,,199.36.158.100,,54113,Google LLC,cdn-origin-unknown,,Fastly,2026-09-29
-SYC,Immigration / Passports,Immigration and Civil Status Division,ics.gov.sc,ics.gov.sc,root,MX,ok,mx3.egov.sc,196.13.208.52,,327861,Department of ICT Government of Seychelles,unattributed,,,2026-09-29
-SYC,Immigration / Passports,Immigration and Civil Status Division,ics.gov.sc,ics.gov.sc,root,NS,ok,ns2.gov.sc,196.13.208.10,,327861,Department of ICT Government of Seychelles,unattributed,,,2026-09-29
-SYC,Immigration / Passports,Immigration and Civil Status Division,ics.gov.sc,ics.gov.sc,root,NS,ok,ns1.gov.sc,196.13.208.11,,327861,Department of ICT Government of Seychelles,unattributed,,,2026-09-29
+SYC,Immigration / Passports,Immigration and Civil Status Division,ics.gov.sc,ics.gov.sc,root,MX,ok,mx3.egov.sc,196.13.208.52,,327861,Department of ICT Government of Seychelles,national-dc,,Department of ICT Government of Seychelles - Department of ICT Government of Seychelles,2026-09-29
+SYC,Immigration / Passports,Immigration and Civil Status Division,ics.gov.sc,ics.gov.sc,root,NS,ok,ns2.gov.sc,196.13.208.10,,327861,Department of ICT Government of Seychelles,national-dc,,Department of ICT Government of Seychelles - Department of ICT Government of Seychelles,2026-09-29
+SYC,Immigration / Passports,Immigration and Civil Status Division,ics.gov.sc,ics.gov.sc,root,NS,ok,ns1.gov.sc,196.13.208.11,,327861,Department of ICT Government of Seychelles,national-dc,,Department of ICT Government of Seychelles - Department of ICT Government of Seychelles,2026-09-29
 SYC,Immigration / Passports,Immigration and Civil Status Division,ics.gov.sc,ics.gov.sc,root,TXT,ok,v=spf1 mx ip4:196.13.208.52/32 -all,,,,,,,,2026-09-29
 SYC,Immigration / Passports,Immigration and Civil Status Division,ics.gov.sc,_dmarc.ics.gov.sc,root,TXT,ok,v=DMARC1; p=none; rua=mailto:dmarc@gov.sc; ruf=mailto:dmarc@gov.sc; fo=1:d:s; aspf=s,,,,,,,,2026-09-29
 SYC,Health ministry / National health insurance,Ministry of Health,health.gov.sc,health.gov.sc,root;ct,A,noanswer,,,,,,unresolved,,,2026-09-29
-SYC,Health ministry / National health insurance,Ministry of Health,health.gov.sc,hr.health.gov.sc,dictionary,A,ok,,196.13.208.104,,327861,Department of ICT Government of Seychelles,unattributed,,,2026-09-29
-SYC,Health ministry / National health insurance,Ministry of Health,health.gov.sc,www.health.gov.sc,root;ct,A,ok,,185.199.220.86,,12488,KRYSTAL-MNT,unattributed,,,2026-09-29
-SYC,Health ministry / National health insurance,Ministry of Health,health.gov.sc,health.gov.sc,root,MX,ok,mx3.egov.sc,196.13.208.52,,327861,Department of ICT Government of Seychelles,unattributed,,,2026-09-29
-SYC,Health ministry / National health insurance,Ministry of Health,health.gov.sc,health.gov.sc,root,NS,ok,ns2.gov.sc,196.13.208.10,,327861,Department of ICT Government of Seychelles,unattributed,,,2026-09-29
-SYC,Health ministry / National health insurance,Ministry of Health,health.gov.sc,health.gov.sc,root,NS,ok,ns1.gov.sc,196.13.208.11,,327861,Department of ICT Government of Seychelles,unattributed,,,2026-09-29
+SYC,Health ministry / National health insurance,Ministry of Health,health.gov.sc,hr.health.gov.sc,dictionary,A,ok,,196.13.208.104,,327861,Department of ICT Government of Seychelles,national-dc,,Department of ICT Government of Seychelles - Department of ICT Government of Seychelles,2026-09-29
+SYC,Health ministry / National health insurance,Ministry of Health,health.gov.sc,www.health.gov.sc,root;ct,A,ok,,185.199.220.86,,12488,KRYSTAL-MNT,commercial-host,,KRYSTAL Krystal Hosting Ltd,2026-09-29
+SYC,Health ministry / National health insurance,Ministry of Health,health.gov.sc,health.gov.sc,root,MX,ok,mx3.egov.sc,196.13.208.52,,327861,Department of ICT Government of Seychelles,national-dc,,Department of ICT Government of Seychelles - Department of ICT Government of Seychelles,2026-09-29
+SYC,Health ministry / National health insurance,Ministry of Health,health.gov.sc,health.gov.sc,root,NS,ok,ns2.gov.sc,196.13.208.10,,327861,Department of ICT Government of Seychelles,national-dc,,Department of ICT Government of Seychelles - Department of ICT Government of Seychelles,2026-09-29
+SYC,Health ministry / National health insurance,Ministry of Health,health.gov.sc,health.gov.sc,root,NS,ok,ns1.gov.sc,196.13.208.11,,327861,Department of ICT Government of Seychelles,national-dc,,Department of ICT Government of Seychelles - Department of ICT Government of Seychelles,2026-09-29
 SYC,Health ministry / National health insurance,Ministry of Health,health.gov.sc,health.gov.sc,root,TXT,ok,v=spf1 mx ip4:196.13.208.52/32 ip4:196.13.208.234/32 include:spf.protection.outlook.com -all,,,,,,,,2026-09-29
 SYC,Health ministry / National health insurance,Ministry of Health,health.gov.sc,_dmarc.health.gov.sc,root,TXT,ok,v=DMARC1; p=none; rua=mailto:dmarc@gov.sc; ruf=mailto:dmarc@gov.sc; fo=1:d:s; aspf=s,,,,,,,,2026-09-29
 SYC,Land registry,Land Registration Division,registrationdivision.gov.sc,localhost.registrationdivision.gov.sc,dictionary,A,ok,,127.0.0.1,,,non-public address,unresolved,,,2026-09-29
-SYC,Land registry,Land Registration Division,registrationdivision.gov.sc,registrationdivision.gov.sc,root;ct,A,ok,,196.13.208.104,,327861,Department of ICT Government of Seychelles,unattributed,,,2026-09-29
-SYC,Land registry,Land Registration Division,registrationdivision.gov.sc,www.registrationdivision.gov.sc,root,A,ok,,196.13.208.104,,327861,Department of ICT Government of Seychelles,unattributed,,,2026-09-29
-SYC,Land registry,Land Registration Division,registrationdivision.gov.sc,registrationdivision.gov.sc,root,MX,ok,mx3.egov.sc,196.13.208.52,,327861,Department of ICT Government of Seychelles,unattributed,,,2026-09-29
-SYC,Land registry,Land Registration Division,registrationdivision.gov.sc,registrationdivision.gov.sc,root,NS,ok,ns1.gov.sc,196.13.208.11,,327861,Department of ICT Government of Seychelles,unattributed,,,2026-09-29
-SYC,Land registry,Land Registration Division,registrationdivision.gov.sc,registrationdivision.gov.sc,root,NS,ok,ns2.gov.sc,196.13.208.10,,327861,Department of ICT Government of Seychelles,unattributed,,,2026-09-29
+SYC,Land registry,Land Registration Division,registrationdivision.gov.sc,registrationdivision.gov.sc,root;ct,A,ok,,196.13.208.104,,327861,Department of ICT Government of Seychelles,national-dc,,Department of ICT Government of Seychelles - Department of ICT Government of Seychelles,2026-09-29
+SYC,Land registry,Land Registration Division,registrationdivision.gov.sc,www.registrationdivision.gov.sc,root,A,ok,,196.13.208.104,,327861,Department of ICT Government of Seychelles,national-dc,,Department of ICT Government of Seychelles - Department of ICT Government of Seychelles,2026-09-29
+SYC,Land registry,Land Registration Division,registrationdivision.gov.sc,registrationdivision.gov.sc,root,MX,ok,mx3.egov.sc,196.13.208.52,,327861,Department of ICT Government of Seychelles,national-dc,,Department of ICT Government of Seychelles - Department of ICT Government of Seychelles,2026-09-29
+SYC,Land registry,Land Registration Division,registrationdivision.gov.sc,registrationdivision.gov.sc,root,NS,ok,ns1.gov.sc,196.13.208.11,,327861,Department of ICT Government of Seychelles,national-dc,,Department of ICT Government of Seychelles - Department of ICT Government of Seychelles,2026-09-29
+SYC,Land registry,Land Registration Division,registrationdivision.gov.sc,registrationdivision.gov.sc,root,NS,ok,ns2.gov.sc,196.13.208.10,,327861,Department of ICT Government of Seychelles,national-dc,,Department of ICT Government of Seychelles - Department of ICT Government of Seychelles,2026-09-29
 SYC,Land registry,Land Registration Division,registrationdivision.gov.sc,registrationdivision.gov.sc,root,TXT,ok,v=spf1 mx ip4:196.13.208.52/32 -all,,,,,,,,2026-09-29
 SYC,Stock exchange,Trop-X,trop-x.com,trop-x.com,root;ct,A,ok,,5.135.67.12,,16276,Barberis-Negra Olivier,commercial-host,,OVH,2026-09-29
 SYC,Stock exchange,Trop-X,trop-x.com,www.trop-x.com,root,A,ok,,5.135.67.12,,16276,Barberis-Negra Olivier,commercial-host,,OVH,2026-09-29
@@ -452,20 +452,20 @@ SYC,Stock exchange,MERJ Exchange,merj.exchange,merj.exchange,root,NS,ok,ns-398.a
 SYC,Stock exchange,MERJ Exchange,merj.exchange,merj.exchange,root,NS,ok,ns-852.awsdns-42.net,205.251.195.84,,,aws,us-hyperscaler-offshore,global,aws,2026-09-29
 SYC,Stock exchange,MERJ Exchange,merj.exchange,merj.exchange,root,TXT,ok,v=spf1 include:spf.protection.outlook.com include:amazonses.com include:_spf.sumsub.com ~all,,,,,,,,2026-09-29
 SYC,Stock exchange,MERJ Exchange,merj.exchange,_dmarc.merj.exchange,root,TXT,ok,v=DMARC1; p=none;,,,,,,,,2026-09-29
-SYC,Securities regulator,Financial Services Authority,fsaseychelles.sc,autodiscover.fsaseychelles.sc,dictionary,A,ok,mail.fsaseychelles.sc,41.86.42.136,mail.fsaseychelles.sc,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
-SYC,Securities regulator,Financial Services Authority,fsaseychelles.sc,cms.fsaseychelles.sc,dictionary,A,ok,,41.86.42.206,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
+SYC,Securities regulator,Financial Services Authority,fsaseychelles.sc,autodiscover.fsaseychelles.sc,dictionary,A,ok,mail.fsaseychelles.sc,41.86.42.136,mail.fsaseychelles.sc,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
+SYC,Securities regulator,Financial Services Authority,fsaseychelles.sc,cms.fsaseychelles.sc,dictionary,A,ok,,41.86.42.206,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
 SYC,Securities regulator,Financial Services Authority,fsaseychelles.sc,cpanel.fsaseychelles.sc,dictionary;ct,A,ok,,162.214.158.111,,46606,Unified Layer,commercial-host,,Unified Layer (Bluehost),2026-09-29
 SYC,Securities regulator,Financial Services Authority,fsaseychelles.sc,cpcalendars.fsaseychelles.sc,dictionary;ct,A,ok,,162.214.158.111,,46606,Unified Layer,commercial-host,,Unified Layer (Bluehost),2026-09-29
 SYC,Securities regulator,Financial Services Authority,fsaseychelles.sc,cpcontacts.fsaseychelles.sc,dictionary;ct,A,ok,,162.214.158.111,,46606,Unified Layer,commercial-host,,Unified Layer (Bluehost),2026-09-29
-SYC,Securities regulator,Financial Services Authority,fsaseychelles.sc,desky.fsaseychelles.sc,ct,A,ok,,41.86.42.207,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
+SYC,Securities regulator,Financial Services Authority,fsaseychelles.sc,desky.fsaseychelles.sc,ct,A,ok,,41.86.42.207,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
 SYC,Securities regulator,Financial Services Authority,fsaseychelles.sc,fsaseychelles.sc,root;ct,A,ok,,162.214.158.111,,46606,Unified Layer,commercial-host,,Unified Layer (Bluehost),2026-09-29
 SYC,Securities regulator,Financial Services Authority,fsaseychelles.sc,ftp.fsaseychelles.sc,dictionary,A,ok,,162.214.158.111,,46606,Unified Layer,commercial-host,,Unified Layer (Bluehost),2026-09-29
-SYC,Securities regulator,Financial Services Authority,fsaseychelles.sc,mail.fsaseychelles.sc,dictionary;ct,A,ok,,41.86.42.136,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
+SYC,Securities regulator,Financial Services Authority,fsaseychelles.sc,mail.fsaseychelles.sc,dictionary;ct,A,ok,,41.86.42.136,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
 SYC,Securities regulator,Financial Services Authority,fsaseychelles.sc,ns1.fsaseychelles.sc,dictionary,A,ok,,162.214.158.111,,46606,Unified Layer,commercial-host,,Unified Layer (Bluehost),2026-09-29
 SYC,Securities regulator,Financial Services Authority,fsaseychelles.sc,ns2.fsaseychelles.sc,dictionary,A,ok,,162.214.158.111,,46606,Unified Layer,commercial-host,,Unified Layer (Bluehost),2026-09-29
 SYC,Securities regulator,Financial Services Authority,fsaseychelles.sc,testing.fsaseychelles.sc,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SYC,Securities regulator,Financial Services Authority,fsaseychelles.sc,webdisk.fsaseychelles.sc,dictionary;ct,A,ok,,162.214.158.111,,46606,Unified Layer,commercial-host,,Unified Layer (Bluehost),2026-09-29
-SYC,Securities regulator,Financial Services Authority,fsaseychelles.sc,webmail.fsaseychelles.sc,dictionary;ct,A,ok,,41.86.42.136,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
+SYC,Securities regulator,Financial Services Authority,fsaseychelles.sc,webmail.fsaseychelles.sc,dictionary;ct,A,ok,,41.86.42.136,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
 SYC,Securities regulator,Financial Services Authority,fsaseychelles.sc,whm.fsaseychelles.sc,dictionary,A,ok,,162.214.158.111,,46606,Unified Layer,commercial-host,,Unified Layer (Bluehost),2026-09-29
 SYC,Securities regulator,Financial Services Authority,fsaseychelles.sc,www.fsaseychelles.sc,root;ct,A,ok,fsaseychelles.sc,162.214.158.111,fsaseychelles.sc,46606,Unified Layer,commercial-host,,Unified Layer (Bluehost),2026-09-29
 SYC,Securities regulator,Financial Services Authority,fsaseychelles.sc,fsaseychelles.sc,root,MX,ok,cloud7.spamtitan.com,13.58.65.21,,,aws,us-hyperscaler-offshore,us-east-2,aws,2026-09-29
@@ -526,36 +526,36 @@ SYC,Sovereign wealth fund / National pension fund,Seychelles Pension Fund,pensio
 SYC,Sovereign wealth fund / National pension fund,Seychelles Pension Fund,pensionfund.sc,pensionfund.sc,root,NS,ok,gabriel.ns.cloudflare.com,108.162.195.244,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 SYC,Sovereign wealth fund / National pension fund,Seychelles Pension Fund,pensionfund.sc,pensionfund.sc,root,TXT,ok,v=spf1 include:zoho.com ~all,,,,,,,,2026-09-29
 SYC,Sovereign wealth fund / National pension fund,Seychelles Pension Fund,pensionfund.sc,_dmarc.pensionfund.sc,root,TXT,ok,v=DMARC1; p=quarantine; rua=mailto:8614466f@mxtoolbox.dmarc-report.com; ruf=mailto:8614466f@forensics.dmarc-report.com; fo=1; pct=100,,,,,,,,2026-09-29
-SYC,Energy utility,Public Utilities Corporation,puc.sc,adfs.puc.sc,dictionary;ct,A,ok,,41.86.42.188,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
-SYC,Energy utility,Public Utilities Corporation,puc.sc,api.puc.sc,dictionary;ct,A,ok,,41.86.42.190,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
-SYC,Energy utility,Public Utilities Corporation,puc.sc,autodiscover.puc.sc,dictionary;ct,A,ok,,41.86.42.188,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
+SYC,Energy utility,Public Utilities Corporation,puc.sc,adfs.puc.sc,dictionary;ct,A,ok,,41.86.42.188,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
+SYC,Energy utility,Public Utilities Corporation,puc.sc,api.puc.sc,dictionary;ct,A,ok,,41.86.42.190,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
+SYC,Energy utility,Public Utilities Corporation,puc.sc,autodiscover.puc.sc,dictionary;ct,A,ok,,41.86.42.188,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
 SYC,Energy utility,Public Utilities Corporation,puc.sc,data.puc.sc,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SYC,Energy utility,Public Utilities Corporation,puc.sc,datasets.puc.sc,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SYC,Energy utility,Public Utilities Corporation,puc.sc,demo.puc.sc,dictionary;ct,A,ok,,41.86.42.187,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
-SYC,Energy utility,Public Utilities Corporation,puc.sc,drdm.puc.sc,ct,A,ok,,41.86.42.190,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
-SYC,Energy utility,Public Utilities Corporation,puc.sc,erp.puc.sc,dictionary,A,ok,,41.86.42.187,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
-SYC,Energy utility,Public Utilities Corporation,puc.sc,kiosk-api.puc.sc,ct,A,ok,,41.86.42.190,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
-SYC,Energy utility,Public Utilities Corporation,puc.sc,mail.puc.sc,dictionary;ct,A,ok,,41.86.42.188,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
-SYC,Energy utility,Public Utilities Corporation,puc.sc,map.puc.sc,dictionary;ct,A,ok,,41.86.42.190,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
-SYC,Energy utility,Public Utilities Corporation,puc.sc,mx.puc.sc,dictionary;ct,A,ok,,41.86.42.188,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
-SYC,Energy utility,Public Utilities Corporation,puc.sc,mx1.puc.sc,dictionary,A,ok,,41.86.42.188,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
-SYC,Energy utility,Public Utilities Corporation,puc.sc,myaccount-test.puc.sc,ct,A,ok,,41.86.42.190,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
-SYC,Energy utility,Public Utilities Corporation,puc.sc,myaccount.puc.sc,ct,A,ok,,41.86.42.187,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
+SYC,Energy utility,Public Utilities Corporation,puc.sc,demo.puc.sc,dictionary;ct,A,ok,,41.86.42.187,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
+SYC,Energy utility,Public Utilities Corporation,puc.sc,drdm.puc.sc,ct,A,ok,,41.86.42.190,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
+SYC,Energy utility,Public Utilities Corporation,puc.sc,erp.puc.sc,dictionary,A,ok,,41.86.42.187,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
+SYC,Energy utility,Public Utilities Corporation,puc.sc,kiosk-api.puc.sc,ct,A,ok,,41.86.42.190,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
+SYC,Energy utility,Public Utilities Corporation,puc.sc,mail.puc.sc,dictionary;ct,A,ok,,41.86.42.188,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
+SYC,Energy utility,Public Utilities Corporation,puc.sc,map.puc.sc,dictionary;ct,A,ok,,41.86.42.190,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
+SYC,Energy utility,Public Utilities Corporation,puc.sc,mx.puc.sc,dictionary;ct,A,ok,,41.86.42.188,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
+SYC,Energy utility,Public Utilities Corporation,puc.sc,mx1.puc.sc,dictionary,A,ok,,41.86.42.188,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
+SYC,Energy utility,Public Utilities Corporation,puc.sc,myaccount-test.puc.sc,ct,A,ok,,41.86.42.190,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
+SYC,Energy utility,Public Utilities Corporation,puc.sc,myaccount.puc.sc,ct,A,ok,,41.86.42.187,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
 SYC,Energy utility,Public Utilities Corporation,puc.sc,ns1.puc.sc,dictionary,A,ok,,160.153.251.103,,21499,"GoDaddy.com, LLC",commercial-host,,Host Europe (GoDaddy),2026-09-29
 SYC,Energy utility,Public Utilities Corporation,puc.sc,ns2.puc.sc,dictionary,A,ok,,160.153.251.103,,21499,"GoDaddy.com, LLC",commercial-host,,Host Europe (GoDaddy),2026-09-29
-SYC,Energy utility,Public Utilities Corporation,puc.sc,pop.puc.sc,dictionary,A,ok,,41.86.42.188,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
+SYC,Energy utility,Public Utilities Corporation,puc.sc,pop.puc.sc,dictionary,A,ok,,41.86.42.188,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
 SYC,Energy utility,Public Utilities Corporation,puc.sc,public.proxy.puc.sc,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SYC,Energy utility,Public Utilities Corporation,puc.sc,puc.sc,root;ct,A,ok,,41.86.42.190,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
-SYC,Energy utility,Public Utilities Corporation,puc.sc,pumpreadings.puc.sc,ct,A,ok,,41.86.42.190,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
+SYC,Energy utility,Public Utilities Corporation,puc.sc,puc.sc,root;ct,A,ok,,41.86.42.190,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
+SYC,Energy utility,Public Utilities Corporation,puc.sc,pumpreadings.puc.sc,ct,A,ok,,41.86.42.190,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
 SYC,Energy utility,Public Utilities Corporation,puc.sc,rest.puc.sc,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SYC,Energy utility,Public Utilities Corporation,puc.sc,seypost.puc.sc,ct,A,ok,,41.86.42.187,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
-SYC,Energy utility,Public Utilities Corporation,puc.sc,smtp.puc.sc,dictionary;ct,A,ok,,41.86.42.188,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
-SYC,Energy utility,Public Utilities Corporation,puc.sc,vpn.puc.sc,dictionary,A,ok,,41.86.42.186,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
-SYC,Energy utility,Public Utilities Corporation,puc.sc,webmail.puc.sc,dictionary;ct,A,ok,,41.86.42.188,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
-SYC,Energy utility,Public Utilities Corporation,puc.sc,www.puc.sc,root;ct,A,ok,,41.86.42.190,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
+SYC,Energy utility,Public Utilities Corporation,puc.sc,seypost.puc.sc,ct,A,ok,,41.86.42.187,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
+SYC,Energy utility,Public Utilities Corporation,puc.sc,smtp.puc.sc,dictionary;ct,A,ok,,41.86.42.188,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
+SYC,Energy utility,Public Utilities Corporation,puc.sc,vpn.puc.sc,dictionary,A,ok,,41.86.42.186,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
+SYC,Energy utility,Public Utilities Corporation,puc.sc,webmail.puc.sc,dictionary;ct,A,ok,,41.86.42.188,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
+SYC,Energy utility,Public Utilities Corporation,puc.sc,www.puc.sc,root;ct,A,ok,,41.86.42.190,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
 SYC,Energy utility,Public Utilities Corporation,puc.sc,puc.sc,root,MX,ok,puc-sc.mail.protection.outlook.com,52.101.209.153,,,microsoft-365,us-saas,,microsoft-365,2026-09-29
-SYC,Energy utility,Public Utilities Corporation,puc.sc,puc.sc,root,MX,ok,mail.puc.sc,41.86.42.188,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
-SYC,Energy utility,Public Utilities Corporation,puc.sc,puc.sc,root,MX,ok,mx.puc.sc,41.86.42.188,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
+SYC,Energy utility,Public Utilities Corporation,puc.sc,puc.sc,root,MX,ok,mail.puc.sc,41.86.42.188,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
+SYC,Energy utility,Public Utilities Corporation,puc.sc,puc.sc,root,MX,ok,mx.puc.sc,41.86.42.188,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
 SYC,Energy utility,Public Utilities Corporation,puc.sc,puc.sc,root,NS,ok,ns1.secureserver.net,97.74.100.1,,44273,"GoDaddy.com, LLC",commercial-host,,Host Europe (GoDaddy),2026-09-29
 SYC,Energy utility,Public Utilities Corporation,puc.sc,puc.sc,root,NS,ok,ns2.secureserver.net,173.201.68.1,,44273,"GoDaddy.com, LLC",commercial-host,,Host Europe (GoDaddy),2026-09-29
 SYC,Energy utility,Public Utilities Corporation,puc.sc,puc.sc,root,TXT,ok,v=spf1 mx a ip4:41.86.42.184/29 ip4:41.86.42.188 a:mx.puc.sc a:mx01.puc.sc include:spf.protection.outlook.com include:sendgrid.net -all,,,,,,,,2026-09-29
@@ -572,12 +572,12 @@ SYC,Ports authority,Seychelles Ports Authority,seyport.sc,autodiscover.seyport.s
 SYC,Ports authority,Seychelles Ports Authority,seyport.sc,autodiscover.seyport.sc,dictionary,AAAA,ok,autod.ms-acdc-autod.office.com,2603:1026:c0a:1860::8,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>autod.ms-acdc-autod.office.com,,microsoft-365,us-saas,,microsoft-365,2026-09-29
 SYC,Ports authority,Seychelles Ports Authority,seyport.sc,autodiscover.seyport.sc,dictionary,AAAA,ok,autod.ms-acdc-autod.office.com,2603:1026:c0a:1882::8,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>autod.ms-acdc-autod.office.com,,microsoft-365,us-saas,,microsoft-365,2026-09-29
 SYC,Ports authority,Seychelles Ports Authority,seyport.sc,autodiscover.seyport.sc,dictionary,AAAA,ok,autod.ms-acdc-autod.office.com,2603:1026:c0a:18a4::8,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>autod.ms-acdc-autod.office.com,,microsoft-365,us-saas,,microsoft-365,2026-09-29
-SYC,Ports authority,Seychelles Ports Authority,seyport.sc,ftp.seyport.sc,dictionary,A,ok,ftp.seychelles.net,185.37.232.87,ftp.seychelles.net,210318,lb-capitaloutsouring-1-mnt,unattributed,,,2026-09-29
-SYC,Ports authority,Seychelles Ports Authority,seyport.sc,seyport.sc,root;ct,A,ok,,41.86.57.108,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
+SYC,Ports authority,Seychelles Ports Authority,seyport.sc,ftp.seyport.sc,dictionary,A,ok,ftp.seychelles.net,185.37.232.87,ftp.seychelles.net,210318,lb-capitaloutsouring-1-mnt,commercial-host,,c-o-as CAPITAL OUTSOURCING SAL,2026-09-29
+SYC,Ports authority,Seychelles Ports Authority,seyport.sc,seyport.sc,root;ct,A,ok,,41.86.57.108,,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
 SYC,Ports authority,Seychelles Ports Authority,seyport.sc,www.ccms.seyport.sc,ct,CNAME,noanswer,seyport.managemyvessel.com,,seyport.managemyvessel.com,,,,,,2026-09-29
-SYC,Ports authority,Seychelles Ports Authority,seyport.sc,www.seyport.sc,root;ct,A,ok,seyport.sc,41.86.57.108,seyport.sc,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,unattributed,,,2026-09-29
+SYC,Ports authority,Seychelles Ports Authority,seyport.sc,www.seyport.sc,root;ct,A,ok,seyport.sc,41.86.57.108,seyport.sc,36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,2026-09-29
 SYC,Ports authority,Seychelles Ports Authority,seyport.sc,seyport.sc,root,MX,ok,seyport-sc.mail.protection.outlook.com,52.101.68.8,,,microsoft-365,us-saas,,microsoft-365,2026-09-29
-SYC,Ports authority,Seychelles Ports Authority,seyport.sc,seyport.sc,root,NS,ok,ns.seychelles.net,185.37.232.220,,210318,lb-capitaloutsouring-1-mnt,unattributed,,,2026-09-29
+SYC,Ports authority,Seychelles Ports Authority,seyport.sc,seyport.sc,root,NS,ok,ns.seychelles.net,185.37.232.220,,210318,lb-capitaloutsouring-1-mnt,commercial-host,,c-o-as CAPITAL OUTSOURCING SAL,2026-09-29
 SYC,Ports authority,Seychelles Ports Authority,seyport.sc,seyport.sc,root,NS,ok,ns2.seychelles.net,52.164.252.122,,,azure,us-hyperscaler-offshore,northeurope,azure,2026-09-29
 SYC,Ports authority,Seychelles Ports Authority,seyport.sc,seyport.sc,root,TXT,ok,v=spf1 include:spf.protection.outlook.com -all,,,,,,,,2026-09-29
 SYC,Ports authority,Seychelles Ports Authority,seyport.sc,_dmarc.seyport.sc,root,TXT,ok,v=DMARC1; p=none; rua=mailto:dmarc@seyport.sc; ruf=mailto:dmarc@seyport.sc; fo=1;,,,,,,,,2026-09-29
@@ -606,16 +606,16 @@ SYC,State-owned telco / National backbone operator,Cable & Wireless Seychelles,c
 SYC,State-owned telco / National backbone operator,Cable & Wireless Seychelles,cwseychelles.com,cwseychelles.com,root,TXT,ok,v=spf1 a:mx5.seychelles.net a:mx10.seychelles.net a:smtp.cwsey.com a:wrqvkqcs.outbound-mail.sendgrid.net ip4:149.72.20.198 ip4:41.86.42.195 ip4:41.86.49.35 include:sendgrid.net include:spf.protection.outlook.com include:zohomail360.com -all,,,,,,,,2026-09-29
 SYC,State-owned telco / National backbone operator,Cable & Wireless Seychelles,cwseychelles.com,_dmarc.cwseychelles.com,root,TXT,ok,v=DMARC1; p=quarantine;  pct=90; sp=none,,,,,,,,2026-09-29
 SYC,E-government agency,Department of Information Communications Technology,gov.sc,gov.sc,root,A,noanswer,,,,,,unresolved,,,2026-09-29
-SYC,E-government agency,Department of Information Communications Technology,gov.sc,www.gov.sc,root,A,ok,,196.13.208.87,,327861,Department of ICT Government of Seychelles,unattributed,,,2026-09-29
+SYC,E-government agency,Department of Information Communications Technology,gov.sc,www.gov.sc,root,A,ok,,196.13.208.87,,327861,Department of ICT Government of Seychelles,national-dc,,Department of ICT Government of Seychelles - Department of ICT Government of Seychelles,2026-09-29
 SYC,E-government agency,Department of Information Communications Technology,gov.sc,gov.sc,root,MX,noaddress,mx1.egov.sc,,,,,,,,2026-09-29
-SYC,E-government agency,Department of Information Communications Technology,gov.sc,gov.sc,root,MX,ok,mx3.egov.sc,196.13.208.52,,327861,Department of ICT Government of Seychelles,unattributed,,,2026-09-29
+SYC,E-government agency,Department of Information Communications Technology,gov.sc,gov.sc,root,MX,ok,mx3.egov.sc,196.13.208.52,,327861,Department of ICT Government of Seychelles,national-dc,,Department of ICT Government of Seychelles - Department of ICT Government of Seychelles,2026-09-29
 SYC,E-government agency,Department of Information Communications Technology,gov.sc,gov.sc,root,MX,noaddress,mx2.egov.sc,,,,,,,,2026-09-29
-SYC,E-government agency,Department of Information Communications Technology,gov.sc,gov.sc,root,NS,ok,a0.cctld.afilias-nst.info,199.254.59.1,,12041,"Afilias, Inc.",unattributed,,,2026-09-29
-SYC,E-government agency,Department of Information Communications Technology,gov.sc,gov.sc,root,NS,ok,a2.cctld.afilias-nst.info,199.249.116.1,,207266,"Afilias, Inc.",unattributed,,,2026-09-29
-SYC,E-government agency,Department of Information Communications Technology,gov.sc,gov.sc,root,NS,ok,b0.cctld.afilias-nst.org,199.254.60.1,,12041,"Afilias, Inc.",unattributed,,,2026-09-29
-SYC,E-government agency,Department of Information Communications Technology,gov.sc,gov.sc,root,NS,ok,b2.cctld.afilias-nst.org,199.249.124.1,,207266,"Afilias, Inc.",unattributed,,,2026-09-29
-SYC,E-government agency,Department of Information Communications Technology,gov.sc,gov.sc,root,NS,ok,c0.cctld.afilias-nst.info,199.254.61.1,,12041,"Afilias, Inc.",unattributed,,,2026-09-29
-SYC,E-government agency,Department of Information Communications Technology,gov.sc,gov.sc,root,NS,ok,d0.cctld.afilias-nst.org,199.254.62.1,,12041,"Afilias, Inc.",unattributed,,,2026-09-29
+SYC,E-government agency,Department of Information Communications Technology,gov.sc,gov.sc,root,NS,ok,a0.cctld.afilias-nst.info,199.254.59.1,,12041,"Afilias, Inc.",commercial-host,,"AS-AFILIAS1 - Afilias, Inc.",2026-09-29
+SYC,E-government agency,Department of Information Communications Technology,gov.sc,gov.sc,root,NS,ok,a2.cctld.afilias-nst.info,199.249.116.1,,207266,"Afilias, Inc.",commercial-host,,AFiLIAS-SECONDARY-DNS Identity Digital Limited,2026-09-29
+SYC,E-government agency,Department of Information Communications Technology,gov.sc,gov.sc,root,NS,ok,b0.cctld.afilias-nst.org,199.254.60.1,,12041,"Afilias, Inc.",commercial-host,,"AS-AFILIAS1 - Afilias, Inc.",2026-09-29
+SYC,E-government agency,Department of Information Communications Technology,gov.sc,gov.sc,root,NS,ok,b2.cctld.afilias-nst.org,199.249.124.1,,207266,"Afilias, Inc.",commercial-host,,AFiLIAS-SECONDARY-DNS Identity Digital Limited,2026-09-29
+SYC,E-government agency,Department of Information Communications Technology,gov.sc,gov.sc,root,NS,ok,c0.cctld.afilias-nst.info,199.254.61.1,,12041,"Afilias, Inc.",commercial-host,,"AS-AFILIAS1 - Afilias, Inc.",2026-09-29
+SYC,E-government agency,Department of Information Communications Technology,gov.sc,gov.sc,root,NS,ok,d0.cctld.afilias-nst.org,199.254.62.1,,12041,"Afilias, Inc.",commercial-host,,"AS-AFILIAS1 - Afilias, Inc.",2026-09-29
 SYC,E-government agency,Department of Information Communications Technology,gov.sc,gov.sc,root,TXT,ok,v=spf1 mx ip4:196.13.208.52/32 ip4:196.13.208.234/32 include:spf.protection.outlook.com -all,,,,,,,,2026-09-29
 SYC,E-government agency,Department of Information Communications Technology,gov.sc,_dmarc.gov.sc,root,TXT,ok,v=DMARC1; p=none; rua=mailto:dmarc@gov.sc; ruf=mailto:dmarc@gov.sc; sp=none; fo=1; pct=100; adkim=r; aspf=r,,,,,,,,2026-09-29
 SYC,Anti-corruption commission,Anti-Corruption Commission of Seychelles,accsey.com,accsey.com,root;ct,A,ok,,104.21.15.146,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29

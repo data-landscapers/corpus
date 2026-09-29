@@ -283,20 +283,7 @@
    "has_mx": true
   }
  },
- "new_asns": {
-  "327861": "Department of ICT Government of Seychelles - Department of ICT Government of Seychelles",
-  "201200": "SUPERHOSTING_AS SuperHosting.BG Ltd.",
-  "36958": "Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd",
-  "34119": "WILDCARD-AS Wildcard UK Limited",
-  "19853": "ORANGEHOST - OrangeHost",
-  "36902": "Intelvision Ltd - Intelvision Ltd",
-  "37343": "Telecom Seychelles Limited - Telecom Seychelles Limited",
-  "201682": "LIQUID-WEB-BV Liquid Web B.V.",
-  "5416": "BEYON B.S.C.",
-  "210318": "c-o-as CAPITAL OUTSOURCING SAL",
-  "12041": "AS-AFILIAS1 - Afilias, Inc.",
-  "207266": "AFiLIAS-SECONDARY-DNS Identity Digital Limited"
- },
+ "new_asns": {},
  "rollup": {
   "all": {
    "routable": 532,
@@ -304,23 +291,23 @@
    "african_region_share": 0.0,
    "us_saas_share": 18.0,
    "cdn_share": 22.9,
-   "national_or_self_share": 3.6,
-   "unattributed": 132,
+   "national_or_self_share": 11.5,
+   "unattributed": 0,
    "by_category": {
-    "unattributed": 132,
+    "national-dc": 42,
     "unresolved": 10,
-    "commercial-host": 91,
+    "commercial-host": 114,
     "us-saas": 96,
+    "telco-isp": 76,
     "us-hyperscaler-offshore": 53,
     "cdn-origin-unknown": 122,
-    "self-hosted": 19,
-    "telco-isp": 9
+    "self-hosted": 19
    },
    "institutions": 30,
    "names": 376,
    "m365": 18,
    "google": 0,
-   "tangled_hybrid": 2,
+   "tangled_hybrid": 4,
    "any_us_hyperscaler": 13
   },
   "government": {
@@ -329,13 +316,14 @@
    "african_region_share": 0.0,
    "us_saas_share": 17.7,
    "cdn_share": 25.2,
-   "national_or_self_share": 2.6,
-   "unattributed": 114,
+   "national_or_self_share": 12.7,
+   "unattributed": 0,
    "by_category": {
-    "unattributed": 114,
+    "national-dc": 42,
     "unresolved": 10,
-    "commercial-host": 65,
+    "commercial-host": 82,
     "us-saas": 74,
+    "telco-isp": 55,
     "us-hyperscaler-offshore": 38,
     "cdn-origin-unknown": 105,
     "self-hosted": 11
@@ -344,7 +332,7 @@
    "names": 271,
    "m365": 16,
    "google": 0,
-   "tangled_hybrid": 1,
+   "tangled_hybrid": 3,
    "any_us_hyperscaler": 9
   },
   "bank": {
@@ -354,15 +342,14 @@
    "us_saas_share": 19.1,
    "cdn_share": 14.8,
    "national_or_self_share": 7.0,
-   "unattributed": 18,
+   "unattributed": 0,
    "by_category": {
     "us-saas": 22,
-    "unattributed": 18,
-    "commercial-host": 26,
+    "commercial-host": 32,
+    "telco-isp": 21,
     "self-hosted": 8,
     "cdn-origin-unknown": 17,
-    "us-hyperscaler-offshore": 15,
-    "telco-isp": 9
+    "us-hyperscaler-offshore": 15
    },
    "institutions": 6,
    "names": 105,
