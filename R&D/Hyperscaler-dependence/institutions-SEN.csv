@@ -1,47 +1,47 @@
 type,institution,domain,email_domain,status,note
-Presidency,Présidence de la République,presidence.sn,,confirmed 2026-09-29,
-Parliament,Assemblée nationale,assemblee.sn,,confirmed 2026-09-29,
-Foreign Affairs,Ministère de l'Intégration africaine et des Affaires étrangères,diplomatie.gouv.sn,,confirmed 2026-09-29,
-Defence,Ministère des Forces armées,forcesarmees.gouv.sn,,confirmed 2026-09-29,
+Presidency,Présidence de la République,presidence.sn,presidence.sn,scanned 2026-09-29,
+Parliament,Assemblée nationale,assemblee.sn,assemblee.sn,scanned 2026-09-29,
+Foreign Affairs,Ministère de l'Intégration africaine et des Affaires étrangères,diplomatie.gouv.sn,diplomatie.gouv.sn,scanned 2026-09-29,
+Defence,Ministère des Forces armées,forcesarmees.gouv.sn,forcesarmees.gouv.sn,scanned 2026-09-29,
 Armed Forces,Armées du Sénégal,,,absent,shares forcesarmees.gouv.sn with Defence
-Police,Direction générale de la Police nationale,policenationale.gouv.sn,,confirmed 2026-09-29,
-Justice,Ministère de la Justice,justice.sec.gouv.sn,,confirmed 2026-09-29,
-Treasury / Finance,Ministère des Finances et du Budget,finances.gouv.sn,,confirmed 2026-09-29,
-Revenue Service,Direction générale des Impôts et des Domaines,impotsetdomaines.gouv.sn,,confirmed 2026-09-29,
-Customs,Direction générale des Douanes,douanes.sn,,confirmed 2026-09-29,
+Police,Direction générale de la Police nationale,policenationale.gouv.sn,,scanned 2026-09-29,
+Justice,Ministère de la Justice,justice.sec.gouv.sn,,scanned 2026-09-29,
+Treasury / Finance,Ministère des Finances et du Budget,finances.gouv.sn,finances.gouv.sn,scanned 2026-09-29,
+Revenue Service,Direction générale des Impôts et des Domaines,impotsetdomaines.gouv.sn,,scanned 2026-09-29,
+Customs,Direction générale des Douanes,douanes.sn,douanes.sn,scanned 2026-09-29,
 Intelligence,Direction générale du Renseignement,,,absent,no public domain found
-Interior / Home Affairs,Ministère de l'Intérieur et de la Sécurité publique,interieur.gouv.sn,,confirmed 2026-09-29,
-Central Bank,Banque centrale des États de l'Afrique de l'Ouest (BCEAO),bceao.int,,confirmed 2026-09-29,regional (WAEMU); shared with other member states
-Commercial Banks,CBAO Groupe Attijariwafa bank,cbao.sn,,unconfirmed 2026-09-29,"Top ten by total assets 2024: Le Marché finance, Classement des banques au Sénégal (lemarche.finance) 2024; Ecobank Sénégal (rank 3) runs on group ecobank.com and Orabank Sénégal (rank 10) on group orabank.net, so both are left out; homepage did not load: ConnectTimeout"
-Commercial Banks,Société Générale Sénégal,societegenerale.sn,,confirmed 2026-09-29,
-Commercial Banks,Banque Islamique du Sénégal,bis-bank.com,bis-bank.sn,confirmed 2026-09-29,
-Commercial Banks,Bank of Africa Sénégal,boasenegal.com,,confirmed 2026-09-29,
-Commercial Banks,BICIS Groupe SUNU,bicis.sn,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
-Commercial Banks,Banque de l'Habitat du Sénégal,bhs.sn,,confirmed 2026-09-29,homepage did not load: ConnectionError
-Commercial Banks,Banque nationale pour le développement économique,bnde.sn,,confirmed 2026-09-29,
-Commercial Banks,Coris Bank International Sénégal,senegal.coris.bank,,confirmed 2026-09-29,
-Civil registry / National ID authority,Agence nationale de l'État civil,anec.sn,,confirmed 2026-09-29,
-Data protection authority,Commission de protection des données personnelles,cdp.sn,,confirmed 2026-09-29,
-Electoral commission,Direction générale des Élections,dge.sn,,confirmed 2026-09-29,
-Statistics office,Agence nationale de la Statistique et de la Démographie,ansd.sn,,confirmed 2026-09-29,
+Interior / Home Affairs,Ministère de l'Intérieur et de la Sécurité publique,interieur.gouv.sn,interieur.gouv.sn,scanned 2026-09-29,
+Central Bank,Banque centrale des États de l'Afrique de l'Ouest (BCEAO),bceao.int,bceao.int,scanned 2026-09-29,regional (WAEMU); shared with other member states
+Commercial Banks,CBAO Groupe Attijariwafa bank,cbao.sn,cbao.sn,scanned 2026-09-29,"Top ten by total assets 2024: Le Marché finance, Classement des banques au Sénégal (lemarche.finance) 2024; Ecobank Sénégal (rank 3) runs on group ecobank.com and Orabank Sénégal (rank 10) on group orabank.net, so both are left out; homepage did not load: ConnectTimeout"
+Commercial Banks,Société Générale Sénégal,societegenerale.sn,,scanned 2026-09-29,
+Commercial Banks,Banque Islamique du Sénégal,bis-bank.com,bis-bank.sn,scanned 2026-09-29,
+Commercial Banks,Bank of Africa Sénégal,boasenegal.com,boasenegal.com,scanned 2026-09-29,
+Commercial Banks,BICIS Groupe SUNU,bicis.sn,,scanned 2026-09-29,homepage did not load: ConnectionError
+Commercial Banks,Banque de l'Habitat du Sénégal,bhs.sn,bhs.sn,scanned 2026-09-29,homepage did not load: ConnectionError
+Commercial Banks,Banque nationale pour le développement économique,bnde.sn,bnde.sn,scanned 2026-09-29,
+Commercial Banks,Coris Bank International Sénégal,senegal.coris.bank,,scanned 2026-09-29,
+Civil registry / National ID authority,Agence nationale de l'État civil,anec.sn,anec.sn,scanned 2026-09-29,
+Data protection authority,Commission de protection des données personnelles,cdp.sn,cdp.sn,scanned 2026-09-29,
+Electoral commission,Direction générale des Élections,dge.sn,dge.sn,scanned 2026-09-29,
+Statistics office,Agence nationale de la Statistique et de la Démographie,ansd.sn,ansd.sn,scanned 2026-09-29,
 Immigration / Passports,Direction de la Police de l'Air et des Frontières,,,absent,under Police / Interior; no own domain found
-Health ministry / National health insurance,Ministère de la Santé et de l'Action sociale,sante.gouv.sn,,confirmed 2026-09-29,
+Health ministry / National health insurance,Ministère de la Santé et de l'Action sociale,sante.gouv.sn,sante.gouv.sn,scanned 2026-09-29,
 Health ministry / National health insurance,Agence de la Couverture maladie universelle,,,absent,domain not found
-Social protection / Social registry,Délégation générale à la Protection sociale et à la Solidarité nationale,dgpsn.sn,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
+Social protection / Social registry,Délégation générale à la Protection sociale et à la Solidarité nationale,dgpsn.sn,,dead,homepage did not load: ConnectionError
 Land registry,Direction de l'Enregistrement des Domaines et du Timbre,,,absent,within DGID; shares impotsetdomaines.gouv.sn
-National payment switch,GIM-UEMOA,gim-uemoa.org,,confirmed 2026-09-29,regional (WAEMU); shared with other member states
-Stock exchange,Bourse régionale des valeurs mobilières (BRVM),brvm.org,,confirmed 2026-09-29,regional (WAEMU); shared with other member states
-Securities regulator,Autorité des marchés financiers de l'UMOA (AMF-UMOA),amf-umoa.org,,confirmed 2026-09-29,regional (WAEMU); shared with other member states
-Sovereign wealth fund / National pension fund,Fonds souverain d'investissements stratégiques (FONSIS),fonsis.org,,confirmed 2026-09-29,
-Sovereign wealth fund / National pension fund,Institution de prévoyance retraite du Sénégal (IPRES),ipres.sn,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
-Public procurement authority,Autorité de régulation de la commande publique,armp.sn,,confirmed 2026-09-29,
-Energy utility,Senelec,senelec.sn,,confirmed 2026-09-29,
-Ports authority,Port autonome de Dakar,portdakar.sn,,confirmed 2026-09-29,
-State-owned telco / National backbone operator,Sonatel,sonatel.com,,confirmed 2026-09-29,
-E-government agency,Sénégal Numérique S.A. (ex-ADIE),adie.sn,,confirmed 2026-09-29,
-E-government agency,Portail gouvernemental,gouv.sn,,unconfirmed 2026-09-29,parent zone; scanned root-only; homepage did not load: ConnectionError
+National payment switch,GIM-UEMOA,gim-uemoa.org,gim-uemoa.org,scanned 2026-09-29,regional (WAEMU); shared with other member states
+Stock exchange,Bourse régionale des valeurs mobilières (BRVM),brvm.org,brvm.org,scanned 2026-09-29,regional (WAEMU); shared with other member states
+Securities regulator,Autorité des marchés financiers de l'UMOA (AMF-UMOA),amf-umoa.org,amf-umoa.org,scanned 2026-09-29,regional (WAEMU); shared with other member states
+Sovereign wealth fund / National pension fund,Fonds souverain d'investissements stratégiques (FONSIS),fonsis.org,fonsis.org,scanned 2026-09-29,
+Sovereign wealth fund / National pension fund,Institution de prévoyance retraite du Sénégal (IPRES),ipres.sn,ipres.sn,scanned 2026-09-29,homepage did not load: ConnectionError
+Public procurement authority,Autorité de régulation de la commande publique,armp.sn,armp.sn,scanned 2026-09-29,
+Energy utility,Senelec,senelec.sn,senelec.sn,scanned 2026-09-29,
+Ports authority,Port autonome de Dakar,portdakar.sn,portdakar.sn,scanned 2026-09-29,
+State-owned telco / National backbone operator,Sonatel,sonatel.com,sonatel.com,scanned 2026-09-29,
+E-government agency,Sénégal Numérique S.A. (ex-ADIE),adie.sn,adie.sn,scanned 2026-09-29,
+E-government agency,Portail gouvernemental,gouv.sn,gouv.sn,scanned 2026-09-29,parent zone; scanned root-only; homepage did not load: ConnectionError
 National data centre / Government cloud operator,Sénégal Numérique S.A. (Datacenter de Diamniadio),,,absent,operated by Sénégal Numérique; shares adie.sn
 Cybersecurity agency / National CERT,Centre national de cybersécurité (SN-CERT),,,absent,domain not found yet
-Communications regulator,Autorité de régulation des télécommunications et des postes,artp.sn,,confirmed 2026-09-29,
-Audit office,Cour des comptes,courdescomptes.sn,,confirmed 2026-09-29,
-Anti-corruption commission,Office national de lutte contre la fraude et la corruption,ofnac.sn,,unconfirmed 2026-09-29,homepage did not load: ReadTimeout
+Communications regulator,Autorité de régulation des télécommunications et des postes,artp.sn,artp.sn,scanned 2026-09-29,
+Audit office,Cour des comptes,courdescomptes.sn,courdescomptes.sn,scanned 2026-09-29,
+Anti-corruption commission,Office national de lutte contre la fraude et la corruption,ofnac.sn,ofnac.sn,scanned 2026-09-29,homepage did not load: ReadTimeout

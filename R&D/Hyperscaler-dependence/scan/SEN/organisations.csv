@@ -1,0 +1,40 @@
+iso3,type,institution,domains,names,routable,us_hyperscaler_share,african_region_share,us_saas_share,cdn_share,national_or_self_share,unattributed,mail_provider,mail_security,tangled_hybrid,scan_date
+SEN,Presidency,Présidence de la République,presidence.sn,27,35,0.0,0.0,0.0,45.7,0.0,18,other:SONATEL - IDDQD-AS,,false,2026-09-29
+SEN,Parliament,Assemblée nationale,assemblee.sn,11,16,0.0,0.0,0.0,25.0,0.0,8,other:Agence De l'Informatique de l'Etat - Agence De l'Informatique de l'Etat,,false,2026-09-29
+SEN,Foreign Affairs,Ministère de l'Intégration africaine et des Affaires étrangères,diplomatie.gouv.sn,5,6,0.0,0.0,0.0,0.0,50.0,3,self,,false,2026-09-29
+SEN,Defence,Ministère des Forces armées,forcesarmees.gouv.sn,8,3,0.0,0.0,0.0,0.0,0.0,3,other:Agence De l'Informatique de l'Etat - Agence De l'Informatique de l'Etat,,false,2026-09-29
+SEN,Police,Direction générale de la Police nationale,policenationale.gouv.sn,2,2,0.0,0.0,0.0,0.0,0.0,2,none,,false,2026-09-29
+SEN,Justice,Ministère de la Justice,justice.sec.gouv.sn,2,2,0.0,0.0,0.0,0.0,0.0,2,none,,false,2026-09-29
+SEN,Treasury / Finance,Ministère des Finances et du Budget,finances.gouv.sn,6,7,0.0,0.0,0.0,0.0,42.9,4,other:SONATEL - IDDQD-AS,,false,2026-09-29
+SEN,Revenue Service,Direction générale des Impôts et des Domaines,impotsetdomaines.gouv.sn,2,2,0.0,0.0,0.0,0.0,0.0,2,none,,false,2026-09-29
+SEN,Customs,Direction générale des Douanes,douanes.sn,17,14,0.0,0.0,0.0,0.0,0.0,12,other:SAGA AFRICA HOLDINGS LIMITED - SAGA AFRICA HOLDINGS LIMITED|SONATEL - IDDQD-AS,,false,2026-09-29
+SEN,Interior / Home Affairs,Ministère de l'Intérieur et de la Sécurité publique,interieur.gouv.sn,2,3,0.0,0.0,0.0,0.0,100.0,0,self,,false,2026-09-29
+SEN,Central Bank,Banque centrale des États de l'Afrique de l'Ouest (BCEAO),bceao.int,39,39,10.3,0.0,23.1,0.0,0.0,25,google,,false,2026-09-29
+SEN,Commercial Banks,CBAO Groupe Attijariwafa bank,cbao.sn,34,26,38.5,0.0,0.0,0.0,0.0,16,other:Expresso Senegal SA|SONATEL Societe Nationale Des Telecommunications Du Senegal,,false,2026-09-29
+SEN,Commercial Banks,Société Générale Sénégal,societegenerale.sn,22,22,0.0,0.0,0.0,13.6,59.1,4,none,,false,2026-09-29
+SEN,Commercial Banks,Banque Islamique du Sénégal,bis-bank.com,10,18,0.0,0.0,0.0,0.0,0.0,8,other:IONOS,,false,2026-09-29
+SEN,Commercial Banks,Bank of Africa Sénégal,boasenegal.com,24,62,40.3,0.0,30.6,0.0,0.0,7,m365,broadcom-messagelabs,false,2026-09-29
+SEN,Commercial Banks,BICIS Groupe SUNU,bicis.sn,10,11,0.0,0.0,0.0,54.5,0.0,5,none,,false,2026-09-29
+SEN,Commercial Banks,Banque de l'Habitat du Sénégal,bhs.sn,21,61,42.6,0.0,21.3,19.7,0.0,8,m365,,false,2026-09-29
+SEN,Commercial Banks,Banque nationale pour le développement économique,bnde.sn,23,46,39.1,0.0,28.3,0.0,0.0,6,m365,,false,2026-09-29
+SEN,Commercial Banks,Coris Bank International Sénégal,senegal.coris.bank,2,2,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+SEN,Civil registry / National ID authority,Agence nationale de l'État civil,anec.sn,2,5,0.0,0.0,20.0,0.0,0.0,4,m365,,false,2026-09-29
+SEN,Data protection authority,Commission de protection des données personnelles,cdp.sn,5,9,0.0,0.0,0.0,0.0,0.0,9,other:Agence De l'Informatique de l'Etat - Agence De l'Informatique de l'Etat,,false,2026-09-29
+SEN,Electoral commission,Direction générale des Élections,dge.sn,10,15,0.0,0.0,0.0,26.7,0.0,0,other:Unified Layer (Bluehost),,false,2026-09-29
+SEN,Statistics office,Agence nationale de la Statistique et de la Démographie,ansd.sn,14,20,0.0,0.0,0.0,0.0,0.0,20,other:SAGA AFRICA HOLDINGS LIMITED - SAGA AFRICA HOLDINGS LIMITED,,false,2026-09-29
+SEN,Health ministry / National health insurance,Ministère de la Santé et de l'Action sociale,sante.gouv.sn,16,11,0.0,0.0,0.0,0.0,100.0,0,self,,false,2026-09-29
+SEN,Social protection / Social registry,Délégation générale à la Protection sociale et à la Solidarité nationale,dgpsn.sn,7,0,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+SEN,National payment switch,GIM-UEMOA,gim-uemoa.org,9,20,0.0,0.0,45.0,0.0,0.0,11,m365,,false,2026-09-29
+SEN,Stock exchange,Bourse régionale des valeurs mobilières (BRVM),brvm.org,14,32,28.1,0.0,37.5,0.0,0.0,9,m365,,false,2026-09-29
+SEN,Securities regulator,Autorité des marchés financiers de l'UMOA (AMF-UMOA),amf-umoa.org,3,16,0.0,0.0,81.2,12.5,0.0,1,m365,,false,2026-09-29
+SEN,Sovereign wealth fund / National pension fund,Fonds souverain d'investissements stratégiques (FONSIS),fonsis.org,36,40,20.0,0.0,2.5,10.0,0.0,3,m365,,false,2026-09-29
+SEN,Sovereign wealth fund / National pension fund,Institution de prévoyance retraite du Sénégal (IPRES),ipres.sn,20,33,33.3,0.0,51.5,0.0,0.0,5,m365,,false,2026-09-29
+SEN,Public procurement authority,Autorité de régulation de la commande publique,armp.sn,13,19,0.0,0.0,0.0,0.0,0.0,19,other:MNT-REGISTER,,false,2026-09-29
+SEN,Energy utility,Senelec,senelec.sn,30,54,46.3,0.0,20.4,0.0,24.1,5,m365,,true,2026-09-29
+SEN,Ports authority,Port autonome de Dakar,portdakar.sn,20,18,0.0,0.0,0.0,0.0,0.0,18,m365,,false,2026-09-29
+SEN,State-owned telco / National backbone operator,Sonatel,sonatel.com,13,15,13.3,0.0,0.0,0.0,66.7,0,self,,true,2026-09-29
+SEN,E-government agency,Sénégal Numérique S.A. (ex-ADIE),adie.sn,42,23,0.0,0.0,0.0,0.0,0.0,23,other:Agence De l'Informatique de l'Etat - Agence De l'Informatique de l'Etat,,false,2026-09-29
+SEN,E-government agency,Portail gouvernemental,gouv.sn,3,6,0.0,0.0,0.0,0.0,0.0,6,other:Agence De l'Informatique de l'Etat - Agence De l'Informatique de l'Etat,,false,2026-09-29
+SEN,Communications regulator,Autorité de régulation des télécommunications et des postes,artp.sn,21,32,6.2,0.0,53.1,0.0,0.0,11,m365,,false,2026-09-29
+SEN,Audit office,Cour des comptes,courdescomptes.sn,5,33,0.0,0.0,87.9,0.0,0.0,2,m365,,false,2026-09-29
+SEN,Anti-corruption commission,Office national de lutte contre la fraude et la corruption,ofnac.sn,16,23,0.0,0.0,56.5,0.0,0.0,8,m365,,false,2026-09-29
