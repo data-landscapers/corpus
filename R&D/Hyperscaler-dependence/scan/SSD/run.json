@@ -193,13 +193,7 @@
    "has_mx": true
   }
  },
- "new_asns": {
-  "37584": "Fast Network Ltd - Fast Network Ltd",
-  "46261": "QUICKPACKET - QuickPacket, LLC",
-  "328614": "Eden Technologies Company Limited - Eden Technologies Company Limited",
-  "59210": "PHOENIXNAP-AS-SG1 - PhoenixNAP",
-  "37406": "RCS-Communication - RCS-Communication"
- },
+ "new_asns": {},
  "rollup": {
   "all": {
    "routable": 439,
@@ -208,16 +202,15 @@
    "us_saas_share": 19.8,
    "cdn_share": 8.0,
    "national_or_self_share": 0.9,
-   "unattributed": 19,
+   "unattributed": 0,
    "by_category": {
     "us-saas": 87,
     "us-hyperscaler-offshore": 21,
     "cdn-origin-unknown": 35,
-    "commercial-host": 215,
-    "telco-isp": 51,
+    "commercial-host": 230,
+    "telco-isp": 55,
     "unresolved": 3,
     "self-hosted": 4,
-    "unattributed": 19,
     "african-colo": 4
    },
    "institutions": 20,
@@ -234,15 +227,14 @@
    "us_saas_share": 19.0,
    "cdn_share": 6.9,
    "national_or_self_share": 0.0,
-   "unattributed": 19,
+   "unattributed": 0,
    "by_category": {
     "us-saas": 74,
     "us-hyperscaler-offshore": 17,
     "cdn-origin-unknown": 27,
-    "commercial-host": 198,
-    "telco-isp": 49,
+    "commercial-host": 213,
+    "telco-isp": 53,
     "unresolved": 2,
-    "unattributed": 19,
     "african-colo": 4
    },
    "institutions": 17,

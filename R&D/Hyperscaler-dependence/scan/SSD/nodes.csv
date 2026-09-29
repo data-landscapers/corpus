@@ -340,7 +340,7 @@ SSD,Statistics office,National Bureau of Statistics,nbs.gov.ss,cpanel.nbs.gov.ss
 SSD,Statistics office,National Bureau of Statistics,nbs.gov.ss,cpcalendars.nbs.gov.ss,dictionary,A,ok,,198.54.116.36,,22612,"Namecheap, Inc.",commercial-host,,Namecheap,2026-09-29
 SSD,Statistics office,National Bureau of Statistics,nbs.gov.ss,cpcontacts.nbs.gov.ss,dictionary,A,ok,,198.54.116.36,,22612,"Namecheap, Inc.",commercial-host,,Namecheap,2026-09-29
 SSD,Statistics office,National Bureau of Statistics,nbs.gov.ss,ftp.nbs.gov.ss,dictionary,A,ok,,198.54.116.36,,22612,"Namecheap, Inc.",commercial-host,,Namecheap,2026-09-29
-SSD,Statistics office,National Bureau of Statistics,nbs.gov.ss,imstat.nbs.gov.ss,ct,A,ok,,41.222.74.186,,37584,Fast Network Ltd - Fast Network Ltd,unattributed,,,2026-09-29
+SSD,Statistics office,National Bureau of Statistics,nbs.gov.ss,imstat.nbs.gov.ss,ct,A,ok,,41.222.74.186,,37584,Fast Network Ltd - Fast Network Ltd,telco-isp,,Fast Network Ltd - Fast Network Ltd,2026-09-29
 SSD,Statistics office,National Bureau of Statistics,nbs.gov.ss,mail.nbs.gov.ss,dictionary,A,ok,,141.95.150.40,,16276,OVH SAS,commercial-host,,OVH,2026-09-29
 SSD,Statistics office,National Bureau of Statistics,nbs.gov.ss,nbs.gov.ss,root;ct,A,ok,,198.54.116.36,,22612,"Namecheap, Inc.",commercial-host,,Namecheap,2026-09-29
 SSD,Statistics office,National Bureau of Statistics,nbs.gov.ss,web.nbs.gov.ss,dictionary,A,ok,,198.54.116.36,,22612,"Namecheap, Inc.",commercial-host,,Namecheap,2026-09-29
@@ -374,18 +374,18 @@ SSD,Health ministry / National health insurance,Ministry of Health,moh.gov.ss,ft
 SSD,Health ministry / National health insurance,Ministry of Health,moh.gov.ss,imap.moh.gov.ss,dictionary,A,ok,,198.54.115.36,,22612,"Namecheap, Inc.",commercial-host,,Namecheap,2026-09-29
 SSD,Health ministry / National health insurance,Ministry of Health,moh.gov.ss,login.moh.gov.ss,dictionary,A,ok,,198.54.115.36,,22612,"Namecheap, Inc.",commercial-host,,Namecheap,2026-09-29
 SSD,Health ministry / National health insurance,Ministry of Health,moh.gov.ss,mail.moh.gov.ss,dictionary,A,ok,,198.54.115.36,,22612,"Namecheap, Inc.",commercial-host,,Namecheap,2026-09-29
-SSD,Health ministry / National health insurance,Ministry of Health,moh.gov.ss,mail.nphl.moh.gov.ss,ct,A,ok,witcher.mxrouting.net,45.43.208.43,witcher.mxrouting.net,46261,"QuickPacket, LLC",unattributed,,,2026-09-29
+SSD,Health ministry / National health insurance,Ministry of Health,moh.gov.ss,mail.nphl.moh.gov.ss,ct,A,ok,witcher.mxrouting.net,45.43.208.43,witcher.mxrouting.net,46261,"QuickPacket, LLC",commercial-host,,"QUICKPACKET - QuickPacket, LLC",2026-09-29
 SSD,Health ministry / National health insurance,Ministry of Health,moh.gov.ss,moh.gov.ss,root;ct,A,ok,,198.54.115.36,,22612,"Namecheap, Inc.",commercial-host,,Namecheap,2026-09-29
-SSD,Health ministry / National health insurance,Ministry of Health,moh.gov.ss,nphl.moh.gov.ss,ct,A,ok,,102.23.83.190,,328614,Eden Technologies Company Limited - Eden Technologies Company Limited,unattributed,,,2026-09-29
+SSD,Health ministry / National health insurance,Ministry of Health,moh.gov.ss,nphl.moh.gov.ss,ct,A,ok,,102.23.83.190,,328614,Eden Technologies Company Limited - Eden Technologies Company Limited,telco-isp,,Eden Technologies Company Limited - Eden Technologies Company Limited,2026-09-29
 SSD,Health ministry / National health insurance,Ministry of Health,moh.gov.ss,pheoc.moh.gov.ss,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SSD,Health ministry / National health insurance,Ministry of Health,moh.gov.ss,pop3.moh.gov.ss,dictionary,A,ok,,198.54.115.36,,22612,"Namecheap, Inc.",commercial-host,,Namecheap,2026-09-29
 SSD,Health ministry / National health insurance,Ministry of Health,moh.gov.ss,smtp.moh.gov.ss,dictionary,A,ok,,198.54.115.36,,22612,"Namecheap, Inc.",commercial-host,,Namecheap,2026-09-29
 SSD,Health ministry / National health insurance,Ministry of Health,moh.gov.ss,webdisk.moh.gov.ss,dictionary,A,ok,,198.54.115.36,,22612,"Namecheap, Inc.",commercial-host,,Namecheap,2026-09-29
 SSD,Health ministry / National health insurance,Ministry of Health,moh.gov.ss,webmail.moh.gov.ss,dictionary,A,ok,,198.54.115.36,,22612,"Namecheap, Inc.",commercial-host,,Namecheap,2026-09-29
-SSD,Health ministry / National health insurance,Ministry of Health,moh.gov.ss,webmail.nphl.moh.gov.ss,ct,A,ok,witcher.mxrouting.net,45.43.208.43,witcher.mxrouting.net,46261,"QuickPacket, LLC",unattributed,,,2026-09-29
+SSD,Health ministry / National health insurance,Ministry of Health,moh.gov.ss,webmail.nphl.moh.gov.ss,ct,A,ok,witcher.mxrouting.net,45.43.208.43,witcher.mxrouting.net,46261,"QuickPacket, LLC",commercial-host,,"QUICKPACKET - QuickPacket, LLC",2026-09-29
 SSD,Health ministry / National health insurance,Ministry of Health,moh.gov.ss,whm.moh.gov.ss,dictionary,A,ok,,198.54.115.36,,22612,"Namecheap, Inc.",commercial-host,,Namecheap,2026-09-29
 SSD,Health ministry / National health insurance,Ministry of Health,moh.gov.ss,www.moh.gov.ss,root;ct,A,ok,moh.gov.ss,198.54.115.36,moh.gov.ss,22612,"Namecheap, Inc.",commercial-host,,Namecheap,2026-09-29
-SSD,Health ministry / National health insurance,Ministry of Health,moh.gov.ss,www.nphl.moh.gov.ss,ct,A,ok,,102.23.83.190,,328614,Eden Technologies Company Limited - Eden Technologies Company Limited,unattributed,,,2026-09-29
+SSD,Health ministry / National health insurance,Ministry of Health,moh.gov.ss,www.nphl.moh.gov.ss,ct,A,ok,,102.23.83.190,,328614,Eden Technologies Company Limited - Eden Technologies Company Limited,telco-isp,,Eden Technologies Company Limited - Eden Technologies Company Limited,2026-09-29
 SSD,Health ministry / National health insurance,Ministry of Health,moh.gov.ss,moh.gov.ss,root,MX,ok,mail.moh.gov.ss,198.54.115.36,,22612,"Namecheap, Inc.",commercial-host,,Namecheap,2026-09-29
 SSD,Health ministry / National health insurance,Ministry of Health,moh.gov.ss,moh.gov.ss,root,NS,ok,ns2.niloregistry.com,198.54.116.162,,22612,"Namecheap, Inc.",commercial-host,,Namecheap,2026-09-29
 SSD,Health ministry / National health insurance,Ministry of Health,moh.gov.ss,moh.gov.ss,root,NS,ok,ns1.niloregistry.com,198.54.114.36,,22612,"Namecheap, Inc.",commercial-host,,Namecheap,2026-09-29
@@ -394,19 +394,19 @@ SSD,Sovereign wealth fund / National pension fund,South Sudan Pension Fund,sspf.
 SSD,Sovereign wealth fund / National pension fund,South Sudan Pension Fund,sspf.gov.ss,cpanel.sspf.gov.ss,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SSD,Sovereign wealth fund / National pension fund,South Sudan Pension Fund,sspf.gov.ss,cpcalendars.sspf.gov.ss,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SSD,Sovereign wealth fund / National pension fund,South Sudan Pension Fund,sspf.gov.ss,cpcontacts.sspf.gov.ss,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SSD,Sovereign wealth fund / National pension fund,South Sudan Pension Fund,sspf.gov.ss,ftp.sspf.gov.ss,dictionary;ct,A,ok,,131.153.48.29,,59210,SECURED SERVERS LLC,unattributed,,,2026-09-29
-SSD,Sovereign wealth fund / National pension fund,South Sudan Pension Fund,sspf.gov.ss,mail.sspf.gov.ss,dictionary;ct,A,ok,,131.153.48.29,,59210,SECURED SERVERS LLC,unattributed,,,2026-09-29
+SSD,Sovereign wealth fund / National pension fund,South Sudan Pension Fund,sspf.gov.ss,ftp.sspf.gov.ss,dictionary;ct,A,ok,,131.153.48.29,,59210,SECURED SERVERS LLC,commercial-host,,PHOENIXNAP-AS-SG1 - PhoenixNAP,2026-09-29
+SSD,Sovereign wealth fund / National pension fund,South Sudan Pension Fund,sspf.gov.ss,mail.sspf.gov.ss,dictionary;ct,A,ok,,131.153.48.29,,59210,SECURED SERVERS LLC,commercial-host,,PHOENIXNAP-AS-SG1 - PhoenixNAP,2026-09-29
 SSD,Sovereign wealth fund / National pension fund,South Sudan Pension Fund,sspf.gov.ss,new.sspf.gov.ss,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SSD,Sovereign wealth fund / National pension fund,South Sudan Pension Fund,sspf.gov.ss,pop.sspf.gov.ss,dictionary;ct,A,ok,,131.153.48.29,,59210,SECURED SERVERS LLC,unattributed,,,2026-09-29
-SSD,Sovereign wealth fund / National pension fund,South Sudan Pension Fund,sspf.gov.ss,smtp.sspf.gov.ss,dictionary;ct,A,ok,,131.153.48.29,,59210,SECURED SERVERS LLC,unattributed,,,2026-09-29
-SSD,Sovereign wealth fund / National pension fund,South Sudan Pension Fund,sspf.gov.ss,sspf.gov.ss,root;ct,A,ok,,131.153.48.29,,59210,SECURED SERVERS LLC,unattributed,,,2026-09-29
+SSD,Sovereign wealth fund / National pension fund,South Sudan Pension Fund,sspf.gov.ss,pop.sspf.gov.ss,dictionary;ct,A,ok,,131.153.48.29,,59210,SECURED SERVERS LLC,commercial-host,,PHOENIXNAP-AS-SG1 - PhoenixNAP,2026-09-29
+SSD,Sovereign wealth fund / National pension fund,South Sudan Pension Fund,sspf.gov.ss,smtp.sspf.gov.ss,dictionary;ct,A,ok,,131.153.48.29,,59210,SECURED SERVERS LLC,commercial-host,,PHOENIXNAP-AS-SG1 - PhoenixNAP,2026-09-29
+SSD,Sovereign wealth fund / National pension fund,South Sudan Pension Fund,sspf.gov.ss,sspf.gov.ss,root;ct,A,ok,,131.153.48.29,,59210,SECURED SERVERS LLC,commercial-host,,PHOENIXNAP-AS-SG1 - PhoenixNAP,2026-09-29
 SSD,Sovereign wealth fund / National pension fund,South Sudan Pension Fund,sspf.gov.ss,webdisk.sspf.gov.ss,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SSD,Sovereign wealth fund / National pension fund,South Sudan Pension Fund,sspf.gov.ss,webmail.sspf.gov.ss,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SSD,Sovereign wealth fund / National pension fund,South Sudan Pension Fund,sspf.gov.ss,www.new.sspf.gov.ss,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SSD,Sovereign wealth fund / National pension fund,South Sudan Pension Fund,sspf.gov.ss,www.sspf.gov.ss,root;ct,A,ok,,131.153.48.29,,59210,SECURED SERVERS LLC,unattributed,,,2026-09-29
-SSD,Sovereign wealth fund / National pension fund,South Sudan Pension Fund,sspf.gov.ss,sspf.gov.ss,root,MX,ok,mail.sspf.gov.ss,131.153.48.29,,59210,SECURED SERVERS LLC,unattributed,,,2026-09-29
-SSD,Sovereign wealth fund / National pension fund,South Sudan Pension Fund,sspf.gov.ss,sspf.gov.ss,root,NS,ok,ns2.arrowsupercloud.com,131.153.48.28,,59210,SECURED SERVERS LLC,unattributed,,,2026-09-29
-SSD,Sovereign wealth fund / National pension fund,South Sudan Pension Fund,sspf.gov.ss,sspf.gov.ss,root,NS,ok,ns1.arrowsupercloud.com,131.153.48.27,,59210,SECURED SERVERS LLC,unattributed,,,2026-09-29
+SSD,Sovereign wealth fund / National pension fund,South Sudan Pension Fund,sspf.gov.ss,www.sspf.gov.ss,root;ct,A,ok,,131.153.48.29,,59210,SECURED SERVERS LLC,commercial-host,,PHOENIXNAP-AS-SG1 - PhoenixNAP,2026-09-29
+SSD,Sovereign wealth fund / National pension fund,South Sudan Pension Fund,sspf.gov.ss,sspf.gov.ss,root,MX,ok,mail.sspf.gov.ss,131.153.48.29,,59210,SECURED SERVERS LLC,commercial-host,,PHOENIXNAP-AS-SG1 - PhoenixNAP,2026-09-29
+SSD,Sovereign wealth fund / National pension fund,South Sudan Pension Fund,sspf.gov.ss,sspf.gov.ss,root,NS,ok,ns2.arrowsupercloud.com,131.153.48.28,,59210,SECURED SERVERS LLC,commercial-host,,PHOENIXNAP-AS-SG1 - PhoenixNAP,2026-09-29
+SSD,Sovereign wealth fund / National pension fund,South Sudan Pension Fund,sspf.gov.ss,sspf.gov.ss,root,NS,ok,ns1.arrowsupercloud.com,131.153.48.27,,59210,SECURED SERVERS LLC,commercial-host,,PHOENIXNAP-AS-SG1 - PhoenixNAP,2026-09-29
 SSD,Sovereign wealth fund / National pension fund,South Sudan Pension Fund,sspf.gov.ss,sspf.gov.ss,root,TXT,ok,v=spf1 a mx ip4:131.153.48.29 ip4:131.153.48.26 ip4:131.153.48.27 ip4:131.153.48.28 ip4:131.153.48.30 ~all,,,,,,,,2026-09-29
 SSD,Sovereign wealth fund / National pension fund,South Sudan Pension Fund,sspf.gov.ss,_dmarc.sspf.gov.ss,root,TXT,ok,v=DMARC1; p=reject; sp=none; rf=afrf; pct=100; ri=86400,,,,,,,,2026-09-29
 SSD,Public procurement authority,Public Procurement and Disposal of Assets Authority,ppdaa.gov.ss,autoconfig.ppdaa.gov.ss,dictionary,A,ok,autoconfig.mail.hostinger.com,34.120.251.119,autoconfig.mail.hostinger.com,,google-cloud,us-hyperscaler-offshore,global,google-cloud,2026-09-29
@@ -433,7 +433,7 @@ SSD,Public procurement authority,Public Procurement and Disposal of Assets Autho
 SSD,E-government agency,Government of South Sudan eGovernment portal,gov.ss,gov.ss,root,A,noanswer,,,,,,unresolved,,,2026-09-29
 SSD,E-government agency,Government of South Sudan eGovernment portal,gov.ss,www.gov.ss,root,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SSD,E-government agency,Government eServices portal,eservices.gov.ss,accounts.eservices.gov.ss,ct,A,ok,,105.27.235.27,,37100,SEACOM Limited - SEACOM Limited,telco-isp,,SEACOM,2026-09-29
-SSD,E-government agency,Government eServices portal,eservices.gov.ss,api.sscaa.eservices.gov.ss,ct,A,ok,,105.235.213.222,,37406,RCS-Communication - RCS-Communication,unattributed,,,2026-09-29
+SSD,E-government agency,Government eServices portal,eservices.gov.ss,api.sscaa.eservices.gov.ss,ct,A,ok,,105.235.213.222,,37406,RCS-Communication - RCS-Communication,telco-isp,,RCS-Communication - RCS-Communication,2026-09-29
 SSD,E-government agency,Government eServices portal,eservices.gov.ss,app.eservices.gov.ss,dictionary;ct,A,ok,,104.248.168.10,,14061,"DigitalOcean, LLC",commercial-host,,DigitalOcean,2026-09-29
 SSD,E-government agency,Government eServices portal,eservices.gov.ss,bossp.eservices.gov.ss,ct,A,ok,,105.27.235.25,,37100,SEACOM Limited - SEACOM Limited,telco-isp,,SEACOM,2026-09-29
 SSD,E-government agency,Government eServices portal,eservices.gov.ss,brs.eservices.gov.ss,ct,A,ok,,105.27.235.27,,37100,SEACOM Limited - SEACOM Limited,telco-isp,,SEACOM,2026-09-29
@@ -514,22 +514,22 @@ SSD,Communications regulator,National Communication Authority,nca.gov.ss,autodis
 SSD,Communications regulator,National Communication Authority,nca.gov.ss,autodiscover.nca.gov.ss,dictionary,AAAA,ok,autod.ms-acdc-autod.office.com,2603:1026:c06:148a::8,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>autod.ms-acdc-autod.office.com,,microsoft-365,us-saas,,microsoft-365,2026-09-29
 SSD,Communications regulator,National Communication Authority,nca.gov.ss,autodiscover.nca.gov.ss,dictionary,AAAA,ok,autod.ms-acdc-autod.office.com,2603:1026:c06:146c::8,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>autod.ms-acdc-autod.office.com,,microsoft-365,us-saas,,microsoft-365,2026-09-29
 SSD,Communications regulator,National Communication Authority,nca.gov.ss,careers.nca.gov.ss,dictionary;ct,A,ok,zs-us4-elczhost-h2.zohohost.com,136.143.189.126,recruit.cs.zohohost.com>zs-us4-elczhost-h2.zohohost.com,2639,ZOHO,commercial-host,,Zoho,2026-09-29
-SSD,Communications regulator,National Communication Authority,nca.gov.ss,cpanel.nca.gov.ss,dictionary,A,ok,nca.gov.ss,185.230.63.107,nca.gov.ss,58182,il-wixcom-1-mnt,unattributed,,,2026-09-29
+SSD,Communications regulator,National Communication Authority,nca.gov.ss,cpanel.nca.gov.ss,dictionary,A,ok,nca.gov.ss,185.230.63.107,nca.gov.ss,58182,il-wixcom-1-mnt,commercial-host,,wix_com Wix.com Ltd.,2026-09-29
 SSD,Communications regulator,National Communication Authority,nca.gov.ss,cpcalendars.nca.gov.ss,dictionary,A,ok,,162.222.225.212,,46606,PDR,commercial-host,,Unified Layer (Bluehost),2026-09-29
 SSD,Communications regulator,National Communication Authority,nca.gov.ss,cpcontacts.nca.gov.ss,dictionary,A,ok,,162.222.225.212,,46606,PDR,commercial-host,,Unified Layer (Bluehost),2026-09-29
 SSD,Communications regulator,National Communication Authority,nca.gov.ss,data.nca.gov.ss,dictionary,A,ok,,13.60.21.243,,,aws,us-hyperscaler-offshore,eu-north-1,aws,2026-09-29
 SSD,Communications regulator,National Communication Authority,nca.gov.ss,forms.indicators.nca.gov.ss,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SSD,Communications regulator,National Communication Authority,nca.gov.ss,ftp.nca.gov.ss,dictionary,A,ok,nca.gov.ss,185.230.63.107,nca.gov.ss,58182,il-wixcom-1-mnt,unattributed,,,2026-09-29
+SSD,Communications regulator,National Communication Authority,nca.gov.ss,ftp.nca.gov.ss,dictionary,A,ok,nca.gov.ss,185.230.63.107,nca.gov.ss,58182,il-wixcom-1-mnt,commercial-host,,wix_com Wix.com Ltd.,2026-09-29
 SSD,Communications regulator,National Communication Authority,nca.gov.ss,indicators.nca.gov.ss,ct,A,ok,,162.222.225.212,,46606,PDR,commercial-host,,Unified Layer (Bluehost),2026-09-29
 SSD,Communications regulator,National Communication Authority,nca.gov.ss,localhost.nca.gov.ss,dictionary,A,ok,,127.0.0.1,,,non-public address,unresolved,,,2026-09-29
 SSD,Communications regulator,National Communication Authority,nca.gov.ss,mail.nca.gov.ss,dictionary,A,ok,,162.222.225.212,,46606,PDR,commercial-host,,Unified Layer (Bluehost),2026-09-29
-SSD,Communications regulator,National Communication Authority,nca.gov.ss,nca.gov.ss,root;ct,A,ok,,185.230.63.107,,58182,il-wixcom-1-mnt,unattributed,,,2026-09-29
+SSD,Communications regulator,National Communication Authority,nca.gov.ss,nca.gov.ss,root;ct,A,ok,,185.230.63.107,,58182,il-wixcom-1-mnt,commercial-host,,wix_com Wix.com Ltd.,2026-09-29
 SSD,Communications regulator,National Communication Authority,nca.gov.ss,reports.nca.gov.ss,dictionary;ct,A,ok,,34.111.179.208,,,google-cloud,us-hyperscaler-offshore,global,google-cloud,2026-09-29
 SSD,Communications regulator,National Communication Authority,nca.gov.ss,s3-admin.indicators.nca.gov.ss,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SSD,Communications regulator,National Communication Authority,nca.gov.ss,s3.indicators.nca.gov.ss,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SSD,Communications regulator,National Communication Authority,nca.gov.ss,visual.indicators.nca.gov.ss,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SSD,Communications regulator,National Communication Authority,nca.gov.ss,webdisk.nca.gov.ss,dictionary,A,ok,,162.222.225.212,,46606,PDR,commercial-host,,Unified Layer (Bluehost),2026-09-29
-SSD,Communications regulator,National Communication Authority,nca.gov.ss,webmail.nca.gov.ss,dictionary;ct,A,ok,nca.gov.ss,185.230.63.107,nca.gov.ss,58182,il-wixcom-1-mnt,unattributed,,,2026-09-29
+SSD,Communications regulator,National Communication Authority,nca.gov.ss,webmail.nca.gov.ss,dictionary;ct,A,ok,nca.gov.ss,185.230.63.107,nca.gov.ss,58182,il-wixcom-1-mnt,commercial-host,,wix_com Wix.com Ltd.,2026-09-29
 SSD,Communications regulator,National Communication Authority,nca.gov.ss,whm.nca.gov.ss,dictionary,A,ok,,162.222.225.212,,46606,PDR,commercial-host,,Unified Layer (Bluehost),2026-09-29
 SSD,Communications regulator,National Communication Authority,nca.gov.ss,www.apply.nca.nca.gov.ss,ct,A,noanswer,,,,,,unresolved,,,2026-09-29
 SSD,Communications regulator,National Communication Authority,nca.gov.ss,www.bildd.nca.gov.ss,ct,A,ok,,162.222.225.212,,46606,PDR,commercial-host,,Unified Layer (Bluehost),2026-09-29
