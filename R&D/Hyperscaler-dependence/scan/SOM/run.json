@@ -265,22 +265,7 @@
    "has_mx": true
   }
  },
- "new_asns": {
-  "42807": "AEROTEK-AS CIZGI TELEKOMUNIKASYON ANONIM SIRKETI",
-  "202448": "mvps MVPS LTD",
-  "37371": "Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC",
-  "328590": "Somlink Wireless Network - Somlink Wireless Network",
-  "201771": "NDC-CLOUD ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD",
-  "329692": "HTG CLOUDS LIMITED - HTG CLOUDS LIMITED",
-  "27357": "RACKSPACE - Rackspace Hosting",
-  "328319": "AMTEL LTD - AMTEL LTD",
-  "7922": "COMCAST-7922 - Comcast Cable Communications, LLC",
-  "38719": "DREAMSCAPE-AS-AP - Dreamscape Networks Limited",
-  "327764": "Somali Research & Education Network(SomaliREN) - Somali Research & Education Network(SomaliREN)",
-  "327828": "Somali Optical Networks - Somali Optical Networks",
-  "9051": "IncoNet Data Management sal",
-  "63410": "PRIVATESYSTEMS - PrivateSystems Networks"
- },
+ "new_asns": {},
  "rollup": {
   "all": {
    "routable": 1076,
@@ -289,15 +274,16 @@
    "us_saas_share": 15.3,
    "cdn_share": 45.5,
    "national_or_self_share": 0.0,
-   "unattributed": 161,
+   "unattributed": 0,
    "by_category": {
-    "commercial-host": 148,
+    "commercial-host": 238,
     "us-saas": 165,
-    "unattributed": 161,
     "us-hyperscaler-offshore": 101,
     "cdn-origin-unknown": 490,
     "unresolved": 8,
-    "us-hyperscaler-africa": 3
+    "telco-isp": 61,
+    "us-hyperscaler-africa": 3,
+    "african-colo": 10
    },
    "institutions": 28,
    "names": 856,
@@ -313,14 +299,14 @@
    "us_saas_share": 13.4,
    "cdn_share": 54.0,
    "national_or_self_share": 0.0,
-   "unattributed": 70,
+   "unattributed": 0,
    "by_category": {
-    "commercial-host": 109,
+    "commercial-host": 170,
     "us-saas": 97,
-    "unattributed": 70,
     "us-hyperscaler-offshore": 47,
     "cdn-origin-unknown": 390,
     "unresolved": 6,
+    "telco-isp": 9,
     "us-hyperscaler-africa": 3
    },
    "institutions": 18,
@@ -337,13 +323,14 @@
    "us_saas_share": 19.2,
    "cdn_share": 28.2,
    "national_or_self_share": 0.0,
-   "unattributed": 91,
+   "unattributed": 0,
    "by_category": {
-    "unattributed": 91,
+    "telco-isp": 52,
     "us-hyperscaler-offshore": 54,
     "unresolved": 2,
-    "commercial-host": 39,
+    "commercial-host": 68,
     "us-saas": 68,
+    "african-colo": 10,
     "cdn-origin-unknown": 100
    },
    "institutions": 10,

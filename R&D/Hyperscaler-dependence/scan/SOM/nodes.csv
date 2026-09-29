@@ -25,8 +25,8 @@ SOM,Presidency,Office of the President (Villa Somalia),villasomalia.gov.so,villa
 SOM,Presidency,Office of the President (Villa Somalia),villasomalia.gov.so,villasomalia.gov.so,root,NS,ok,ns11.digicertdns.com,208.80.124.159,,16552,Tiggee LLC,us-saas,,DigiCert DNS (DNS Made Easy),2026-09-29
 SOM,Presidency,Office of the President (Villa Somalia),villasomalia.gov.so,villasomalia.gov.so,root,NS,ok,ns12.digicertdns.com,208.80.126.159,,16552,Tiggee LLC,us-saas,,DigiCert DNS (DNS Made Easy),2026-09-29
 SOM,Presidency,Office of the President (Villa Somalia),villasomalia.gov.so,villasomalia.gov.so,root,NS,ok,ns14.digicertdns.net,208.80.127.159,,16552,Tiggee LLC,us-saas,,DigiCert DNS (DNS Made Easy),2026-09-29
-SOM,Foreign Affairs,Ministry of Foreign Affairs and International Cooperation,mfa.gov.so,ankara.mfa.gov.so,ct,A,ok,,109.232.216.157,,42807,AEROTEK-MNT,unattributed,,,2026-09-29
-SOM,Foreign Affairs,Ministry of Foreign Affairs and International Cooperation,mfa.gov.so,ankaraemb.mfa.gov.so,ct,A,ok,,194.32.79.148,,202448,mvps,unattributed,,,2026-09-29
+SOM,Foreign Affairs,Ministry of Foreign Affairs and International Cooperation,mfa.gov.so,ankara.mfa.gov.so,ct,A,ok,,109.232.216.157,,42807,AEROTEK-MNT,commercial-host,,AEROTEK-AS CIZGI TELEKOMUNIKASYON ANONIM SIRKETI,2026-09-29
+SOM,Foreign Affairs,Ministry of Foreign Affairs and International Cooperation,mfa.gov.so,ankaraemb.mfa.gov.so,ct,A,ok,,194.32.79.148,,202448,mvps,commercial-host,,mvps MVPS LTD,2026-09-29
 SOM,Foreign Affairs,Ministry of Foreign Affairs and International Cooperation,mfa.gov.so,authentications.mfa.gov.so,ct,A,ok,,139.59.19.182,,14061,"DIGITALOCEAN-ASN - DigitalOcean, LLC",commercial-host,,DigitalOcean,2026-09-29
 SOM,Foreign Affairs,Ministry of Foreign Affairs and International Cooperation,mfa.gov.so,autodiscover.mfa.gov.so,dictionary,A,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,40.99.148.248,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
 SOM,Foreign Affairs,Ministry of Foreign Affairs and International Cooperation,mfa.gov.so,autodiscover.mfa.gov.so,dictionary,A,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,40.99.150.136,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
@@ -50,7 +50,7 @@ SOM,Foreign Affairs,Ministry of Foreign Affairs and International Cooperation,mf
 SOM,Foreign Affairs,Ministry of Foreign Affairs and International Cooperation,mfa.gov.so,cpanel.ceweru.mfa.gov.so,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SOM,Foreign Affairs,Ministry of Foreign Affairs and International Cooperation,mfa.gov.so,cpcalendars.ceweru.mfa.gov.so,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SOM,Foreign Affairs,Ministry of Foreign Affairs and International Cooperation,mfa.gov.so,cpcontacts.ceweru.mfa.gov.so,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SOM,Foreign Affairs,Ministry of Foreign Affairs and International Cooperation,mfa.gov.so,embassy.mfa.gov.so,ct,A,ok,,194.32.79.148,,202448,mvps,unattributed,,,2026-09-29
+SOM,Foreign Affairs,Ministry of Foreign Affairs and International Cooperation,mfa.gov.so,embassy.mfa.gov.so,ct,A,ok,,194.32.79.148,,202448,mvps,commercial-host,,mvps MVPS LTD,2026-09-29
 SOM,Foreign Affairs,Ministry of Foreign Affairs and International Cooperation,mfa.gov.so,enterpriseenrollment.mfa.gov.so,dictionary,A,ok,pexsucpeu02.westeurope.cloudapp.azure.com,52.236.189.96,enterpriseenrollment-s.manage.microsoft.com>manage-pe.trafficmanager.net>pexsucpeu02.westeurope.cloudapp.azure.com,,azure,us-hyperscaler-offshore,westeurope,azure,2026-09-29
 SOM,Foreign Affairs,Ministry of Foreign Affairs and International Cooperation,mfa.gov.so,enterpriseregistration.mfa.gov.so,dictionary,A,ok,www.tm.f.prd.aadg.akadns.net,20.190.159.67,enterpriseregistration.windows.net>na.privatelink.msidentity.com>prdf.aadg.msidentity.com>www.tm.f.prd.aadg.akadns.net,,azure,us-hyperscaler-offshore,northeurope,azure,2026-09-29
 SOM,Foreign Affairs,Ministry of Foreign Affairs and International Cooperation,mfa.gov.so,enterpriseregistration.mfa.gov.so,dictionary,A,ok,www.tm.f.prd.aadg.akadns.net,20.190.159.66,enterpriseregistration.windows.net>na.privatelink.msidentity.com>prdf.aadg.msidentity.com>www.tm.f.prd.aadg.akadns.net,,azure,us-hyperscaler-offshore,northeurope,azure,2026-09-29
@@ -67,14 +67,14 @@ SOM,Foreign Affairs,Ministry of Foreign Affairs and International Cooperation,mf
 SOM,Foreign Affairs,Ministry of Foreign Affairs and International Cooperation,mfa.gov.so,mfa.gov.so,root;ct,AAAA,ok,,2a02:4780:34:549c:740b:b8d9:16fb:71bc,,47583,MNT-HOSTINGER,commercial-host,,Hostinger,2026-09-29
 SOM,Foreign Affairs,Ministry of Foreign Affairs and International Cooperation,mfa.gov.so,mfa.gov.so,root;ct,AAAA,ok,,2a02:4780:25:8464:7190:ae10:b70f:b234,,47583,MNT-HOSTINGER,commercial-host,,Hostinger,2026-09-29
 SOM,Foreign Affairs,Ministry of Foreign Affairs and International Cooperation,mfa.gov.so,qa.mfa.gov.so,dictionary;ct,A,ok,,178.104.225.228,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
-SOM,Foreign Affairs,Ministry of Foreign Affairs and International Cooperation,mfa.gov.so,reg.mfa.gov.so,ct,A,ok,,194.32.79.148,,202448,mvps,unattributed,,,2026-09-29
+SOM,Foreign Affairs,Ministry of Foreign Affairs and International Cooperation,mfa.gov.so,reg.mfa.gov.so,ct,A,ok,,194.32.79.148,,202448,mvps,commercial-host,,mvps MVPS LTD,2026-09-29
 SOM,Foreign Affairs,Ministry of Foreign Affairs and International Cooperation,mfa.gov.so,service.usa.mfa.gov.so,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SOM,Foreign Affairs,Ministry of Foreign Affairs and International Cooperation,mfa.gov.so,sip.mfa.gov.so,dictionary;ct,CNAME,nxdomain,sipdir.online.lync.com,,sipdir.online.lync.com,,microsoft-365,us-saas,,microsoft-365,2026-09-29
 SOM,Foreign Affairs,Ministry of Foreign Affairs and International Cooperation,mfa.gov.so,sipank.mfa.gov.so,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SOM,Foreign Affairs,Ministry of Foreign Affairs and International Cooperation,mfa.gov.so,sipmog.mfa.gov.so,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SOM,Foreign Affairs,Ministry of Foreign Affairs and International Cooperation,mfa.gov.so,som.mfa.gov.so,ct,A,ok,,194.32.79.148,,202448,mvps,unattributed,,,2026-09-29
-SOM,Foreign Affairs,Ministry of Foreign Affairs and International Cooperation,mfa.gov.so,somfremb.mfa.gov.so,ct,A,ok,,94.199.206.78,,42807,AEROTEK-MNT,unattributed,,,2026-09-29
-SOM,Foreign Affairs,Ministry of Foreign Affairs and International Cooperation,mfa.gov.so,sys.mfa.gov.so,ct,A,ok,,194.32.79.148,,202448,mvps,unattributed,,,2026-09-29
+SOM,Foreign Affairs,Ministry of Foreign Affairs and International Cooperation,mfa.gov.so,som.mfa.gov.so,ct,A,ok,,194.32.79.148,,202448,mvps,commercial-host,,mvps MVPS LTD,2026-09-29
+SOM,Foreign Affairs,Ministry of Foreign Affairs and International Cooperation,mfa.gov.so,somfremb.mfa.gov.so,ct,A,ok,,94.199.206.78,,42807,AEROTEK-MNT,commercial-host,,AEROTEK-AS CIZGI TELEKOMUNIKASYON ANONIM SIRKETI,2026-09-29
+SOM,Foreign Affairs,Ministry of Foreign Affairs and International Cooperation,mfa.gov.so,sys.mfa.gov.so,ct,A,ok,,194.32.79.148,,202448,mvps,commercial-host,,mvps MVPS LTD,2026-09-29
 SOM,Foreign Affairs,Ministry of Foreign Affairs and International Cooperation,mfa.gov.so,test.ceweru.mfa.gov.so,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SOM,Foreign Affairs,Ministry of Foreign Affairs and International Cooperation,mfa.gov.so,usa.mfa.gov.so,dictionary;ct,A,ok,,185.77.97.48,,47583,MNT-HOSTINGER,commercial-host,,Hostinger,2026-09-29
 SOM,Foreign Affairs,Ministry of Foreign Affairs and International Cooperation,mfa.gov.so,usa.mfa.gov.so,dictionary;ct,A,ok,,89.116.109.9,,47583,BITE-NOC,commercial-host,,Hostinger,2026-09-29
@@ -339,7 +339,7 @@ SOM,Treasury / Finance,Ministry of Finance,mof.gov.so,portal.mof.gov.so,dictiona
 SOM,Treasury / Finance,Ministry of Finance,mof.gov.so,portal.mof.gov.so,dictionary;ct,A,ok,,104.21.56.237,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 SOM,Treasury / Finance,Ministry of Finance,mof.gov.so,portal.mof.gov.so,dictionary;ct,AAAA,ok,,2606:4700:3035::6815:38ed,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 SOM,Treasury / Finance,Ministry of Finance,mof.gov.so,portal.mof.gov.so,dictionary;ct,AAAA,ok,,2606:4700:3034::ac43:89fe,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
-SOM,Treasury / Finance,Ministry of Finance,mof.gov.so,scrp.mof.gov.so,ct,A,ok,,41.78.73.11,,37371,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,unattributed,,,2026-09-29
+SOM,Treasury / Finance,Ministry of Finance,mof.gov.so,scrp.mof.gov.so,ct,A,ok,,41.78.73.11,,37371,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,telco-isp,,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,2026-09-29
 SOM,Treasury / Finance,Ministry of Finance,mof.gov.so,serp.mof.gov.so,ct,A,ok,,104.21.56.237,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 SOM,Treasury / Finance,Ministry of Finance,mof.gov.so,serp.mof.gov.so,ct,A,ok,,172.67.137.254,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 SOM,Treasury / Finance,Ministry of Finance,mof.gov.so,serp.mof.gov.so,ct,AAAA,ok,,2606:4700:3034::ac43:89fe,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
@@ -358,7 +358,7 @@ SOM,Treasury / Finance,Ministry of Finance,mof.gov.so,www.mof.gov.so,root;ct,AAA
 SOM,Treasury / Finance,Ministry of Finance,mof.gov.so,www.new-site.mof.gov.so,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SOM,Treasury / Finance,Ministry of Finance,mof.gov.so,www.piu.mof.gov.so,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SOM,Treasury / Finance,Ministry of Finance,mof.gov.so,www.portal.mof.gov.so,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SOM,Treasury / Finance,Ministry of Finance,mof.gov.so,www.scrp.mof.gov.so,ct,A,ok,,41.78.73.11,,37371,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,unattributed,,,2026-09-29
+SOM,Treasury / Finance,Ministry of Finance,mof.gov.so,www.scrp.mof.gov.so,ct,A,ok,,41.78.73.11,,37371,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,telco-isp,,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,2026-09-29
 SOM,Treasury / Finance,Ministry of Finance,mof.gov.so,www.serp.mof.gov.so,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SOM,Treasury / Finance,Ministry of Finance,mof.gov.so,www.som.mof.gov.so,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SOM,Treasury / Finance,Ministry of Finance,mof.gov.so,mof.gov.so,root,MX,ok,mof-gov-so.mail.protection.outlook.com,52.101.73.155,,,microsoft-365,us-saas,,microsoft-365,2026-09-29
@@ -380,7 +380,7 @@ SOM,Interior / Home Affairs,Ministry of Internal Security,mois.gov.so,cpcontacts
 SOM,Interior / Home Affairs,Ministry of Internal Security,mois.gov.so,ct.mois.gov.so,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SOM,Interior / Home Affairs,Ministry of Internal Security,mois.gov.so,erp.mois.gov.so,dictionary;ct,A,ok,somalia-app-mois-prod-alb-762744986.af-south-1.elb.amazonaws.com,16.28.127.175,somalia-app-mois-prod-alb-762744986.af-south-1.elb.amazonaws.com,,aws,us-hyperscaler-africa,af-south-1,aws,2026-09-29
 SOM,Interior / Home Affairs,Ministry of Internal Security,mois.gov.so,erp.mois.gov.so,dictionary;ct,A,ok,somalia-app-mois-prod-alb-762744986.af-south-1.elb.amazonaws.com,15.240.217.6,somalia-app-mois-prod-alb-762744986.af-south-1.elb.amazonaws.com,,aws,us-hyperscaler-africa,af-south-1,aws,2026-09-29
-SOM,Interior / Home Affairs,Ministry of Internal Security,mois.gov.so,events.mois.gov.so,dictionary;ct,A,ok,,197.220.88.66,,37371,Hormuud Telecom Somalia INC,unattributed,,,2026-09-29
+SOM,Interior / Home Affairs,Ministry of Internal Security,mois.gov.so,events.mois.gov.so,dictionary;ct,A,ok,,197.220.88.66,,37371,Hormuud Telecom Somalia INC,telco-isp,,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,2026-09-29
 SOM,Interior / Home Affairs,Ministry of Internal Security,mois.gov.so,hrms.mois.gov.so,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SOM,Interior / Home Affairs,Ministry of Internal Security,mois.gov.so,mail.mois.gov.so,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SOM,Interior / Home Affairs,Ministry of Internal Security,mois.gov.so,mois.gov.so,root;ct,A,ok,,88.222.222.15,,47583,MNT-HOSTINGER,commercial-host,,Hostinger,2026-09-29
@@ -491,45 +491,45 @@ SOM,Central Bank,Central Bank of Somalia,centralbank.gov.so,centralbank.gov.so,r
 SOM,Central Bank,Central Bank of Somalia,centralbank.gov.so,centralbank.gov.so,root,NS,ok,ns2.bluehost.com,162.159.25.175,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 SOM,Central Bank,Central Bank of Somalia,centralbank.gov.so,centralbank.gov.so,root,TXT,ok,v=spf1 +a +mx +ip4:67.222.39.62 +ip4:67.222.39.64 +include:spf.protection.outlook.com -all,,,,,,,,2026-09-29
 SOM,Central Bank,Central Bank of Somalia,centralbank.gov.so,_dmarc.centralbank.gov.so,root,TXT,ok,v=DMARC1; sp=reject; aspf=s; adkim=s; p=reject; rua=mailto:mohamed.ahmed@centralbank.gov.so; ruf=mailto:mohamed.ahmed@centralbank.gov.so; fo=1; pct=100,,,,,,,,2026-09-29
-SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,auth.ibsbank.so,dictionary,A,ok,,41.78.73.110,,37371,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,unattributed,,,2026-09-29
-SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,auth.ibsbank.so,dictionary,A,ok,,102.38.50.228,,328590,Somlink Wireless Network,unattributed,,,2026-09-29
+SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,auth.ibsbank.so,dictionary,A,ok,,41.78.73.110,,37371,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,telco-isp,,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,2026-09-29
+SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,auth.ibsbank.so,dictionary,A,ok,,102.38.50.228,,328590,Somlink Wireless Network,telco-isp,,Somlink Wireless Network - Somlink Wireless Network,2026-09-29
 SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,autoconfig.ibsbank.so,dictionary,A,ok,,192.254.232.101,,31898,HostGator.com LLC,us-hyperscaler-offshore,,Oracle Cloud,2026-09-29
 SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,autodiscover.ibsbank.so,dictionary;ct,A,ok,,192.254.232.101,,31898,HostGator.com LLC,us-hyperscaler-offshore,,Oracle Cloud,2026-09-29
 SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,cpanel.ibsbank.so,dictionary;ct,A,ok,ibsbank.so,192.254.232.101,ibsbank.so,31898,HostGator.com LLC,us-hyperscaler-offshore,,Oracle Cloud,2026-09-29
 SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,cpcalendars.ibsbank.so,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,cpcontacts.ibsbank.so,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,dbvisit.gatekeeper.ibsbank.so,ct,A,ok,,102.38.50.238,,328590,Somlink Wireless Network,unattributed,,,2026-09-29
-SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,dcprox.gatekeeper.ibsbank.so,ct,A,ok,,102.38.50.238,,328590,Somlink Wireless Network,unattributed,,,2026-09-29
-SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,ebank.ibsbank.so,ct,A,ok,,102.38.50.237,,328590,Somlink Wireless Network,unattributed,,,2026-09-29
-SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,ebesadrolvm.gatekeeper.ibsbank.so,ct,A,ok,,102.38.50.238,,328590,Somlink Wireless Network,unattributed,,,2026-09-29
+SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,dbvisit.gatekeeper.ibsbank.so,ct,A,ok,,102.38.50.238,,328590,Somlink Wireless Network,telco-isp,,Somlink Wireless Network - Somlink Wireless Network,2026-09-29
+SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,dcprox.gatekeeper.ibsbank.so,ct,A,ok,,102.38.50.238,,328590,Somlink Wireless Network,telco-isp,,Somlink Wireless Network - Somlink Wireless Network,2026-09-29
+SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,ebank.ibsbank.so,ct,A,ok,,102.38.50.237,,328590,Somlink Wireless Network,telco-isp,,Somlink Wireless Network - Somlink Wireless Network,2026-09-29
+SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,ebesadrolvm.gatekeeper.ibsbank.so,ct,A,ok,,102.38.50.238,,328590,Somlink Wireless Network,telco-isp,,Somlink Wireless Network - Somlink Wireless Network,2026-09-29
 SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,ftp.ibsbank.so,dictionary,A,ok,ibsbank.so,192.254.232.101,ibsbank.so,31898,HostGator.com LLC,us-hyperscaler-offshore,,Oracle Cloud,2026-09-29
-SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,gatekeeper.ibsbank.so,ct,A,ok,,102.38.50.238,,328590,Somlink Wireless Network,unattributed,,,2026-09-29
-SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,guacserver.gatekeeper.ibsbank.so,ct,A,ok,,102.38.50.238,,328590,Somlink Wireless Network,unattributed,,,2026-09-29
-SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,hrms.ibsbank.so,ct,A,ok,,102.38.50.68,,328590,Somlink Wireless Network,unattributed,,,2026-09-29
+SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,gatekeeper.ibsbank.so,ct,A,ok,,102.38.50.238,,328590,Somlink Wireless Network,telco-isp,,Somlink Wireless Network - Somlink Wireless Network,2026-09-29
+SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,guacserver.gatekeeper.ibsbank.so,ct,A,ok,,102.38.50.238,,328590,Somlink Wireless Network,telco-isp,,Somlink Wireless Network - Somlink Wireless Network,2026-09-29
+SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,hrms.ibsbank.so,ct,A,ok,,102.38.50.68,,328590,Somlink Wireless Network,telco-isp,,Somlink Wireless Network - Somlink Wireless Network,2026-09-29
 SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,ibsbank.so,root;ct,A,ok,,192.254.232.101,,31898,HostGator.com LLC,us-hyperscaler-offshore,,Oracle Cloud,2026-09-29
-SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,ibsdrolvm.gatekeeper.ibsbank.so,ct,A,ok,,102.38.50.238,,328590,Somlink Wireless Network,unattributed,,,2026-09-29
-SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,icbs10-7002.gatekeeper.ibsbank.so,ct,A,ok,,102.38.50.238,,328590,Somlink Wireless Network,unattributed,,,2026-09-29
-SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,icbs11-7002.gatekeeper.ibsbank.so,ct,A,ok,,102.38.50.238,,328590,Somlink Wireless Network,unattributed,,,2026-09-29
-SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,icbs150-7001.gatekeeper.ibsbank.so,ct,A,ok,,102.38.50.238,,328590,Somlink Wireless Network,unattributed,,,2026-09-29
-SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,icbs150-7002.gatekeeper.ibsbank.so,ct,A,ok,,102.38.50.238,,328590,Somlink Wireless Network,unattributed,,,2026-09-29
-SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,icbs30-7002.gatekeeper.ibsbank.so,ct,A,ok,,102.38.50.238,,328590,Somlink Wireless Network,unattributed,,,2026-09-29
-SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,icbs31-7002.gatekeeper.ibsbank.so,ct,A,ok,,102.38.50.238,,328590,Somlink Wireless Network,unattributed,,,2026-09-29
-SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,jumpserver.gatekeeper.ibsbank.so,ct,A,ok,,102.38.50.238,,328590,Somlink Wireless Network,unattributed,,,2026-09-29
-SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,jumpsvr.gatekeeper.ibsbank.so,ct,A,ok,,102.38.50.238,,328590,Somlink Wireless Network,unattributed,,,2026-09-29
+SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,ibsdrolvm.gatekeeper.ibsbank.so,ct,A,ok,,102.38.50.238,,328590,Somlink Wireless Network,telco-isp,,Somlink Wireless Network - Somlink Wireless Network,2026-09-29
+SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,icbs10-7002.gatekeeper.ibsbank.so,ct,A,ok,,102.38.50.238,,328590,Somlink Wireless Network,telco-isp,,Somlink Wireless Network - Somlink Wireless Network,2026-09-29
+SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,icbs11-7002.gatekeeper.ibsbank.so,ct,A,ok,,102.38.50.238,,328590,Somlink Wireless Network,telco-isp,,Somlink Wireless Network - Somlink Wireless Network,2026-09-29
+SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,icbs150-7001.gatekeeper.ibsbank.so,ct,A,ok,,102.38.50.238,,328590,Somlink Wireless Network,telco-isp,,Somlink Wireless Network - Somlink Wireless Network,2026-09-29
+SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,icbs150-7002.gatekeeper.ibsbank.so,ct,A,ok,,102.38.50.238,,328590,Somlink Wireless Network,telco-isp,,Somlink Wireless Network - Somlink Wireless Network,2026-09-29
+SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,icbs30-7002.gatekeeper.ibsbank.so,ct,A,ok,,102.38.50.238,,328590,Somlink Wireless Network,telco-isp,,Somlink Wireless Network - Somlink Wireless Network,2026-09-29
+SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,icbs31-7002.gatekeeper.ibsbank.so,ct,A,ok,,102.38.50.238,,328590,Somlink Wireless Network,telco-isp,,Somlink Wireless Network - Somlink Wireless Network,2026-09-29
+SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,jumpserver.gatekeeper.ibsbank.so,ct,A,ok,,102.38.50.238,,328590,Somlink Wireless Network,telco-isp,,Somlink Wireless Network - Somlink Wireless Network,2026-09-29
+SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,jumpsvr.gatekeeper.ibsbank.so,ct,A,ok,,102.38.50.238,,328590,Somlink Wireless Network,telco-isp,,Somlink Wireless Network - Somlink Wireless Network,2026-09-29
 SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,localhost.ibsbank.so,dictionary,A,ok,,127.0.0.1,,,non-public address,unresolved,,,2026-09-29
 SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,mail.ibsbank.so,dictionary;ct,A,ok,,192.254.232.101,,31898,HostGator.com LLC,us-hyperscaler-offshore,,Oracle Cloud,2026-09-29
 SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,mail2.ibsbank.so,dictionary,A,ok,,192.254.232.101,,31898,HostGator.com LLC,us-hyperscaler-offshore,,Oracle Cloud,2026-09-29
 SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,moba.ibsbank.so,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,mobapilot.ibsbank.so,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,mobaprod.ibsbank.so,ct,A,ok,,102.38.50.231,,328590,Somlink Wireless Network,unattributed,,,2026-09-29
-SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,mobileprod.ibsbank.so,ct,A,ok,,102.38.50.233,,328590,Somlink Wireless Network,unattributed,,,2026-09-29
-SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,packetfence.gatekeeper.ibsbank.so,ct,A,ok,,102.38.50.238,,328590,Somlink Wireless Network,unattributed,,,2026-09-29
-SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,patchmanagement.gatekeeper.ibsbank.so,ct,A,ok,,102.38.50.238,,328590,Somlink Wireless Network,unattributed,,,2026-09-29
+SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,mobaprod.ibsbank.so,ct,A,ok,,102.38.50.231,,328590,Somlink Wireless Network,telco-isp,,Somlink Wireless Network - Somlink Wireless Network,2026-09-29
+SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,mobileprod.ibsbank.so,ct,A,ok,,102.38.50.233,,328590,Somlink Wireless Network,telco-isp,,Somlink Wireless Network - Somlink Wireless Network,2026-09-29
+SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,packetfence.gatekeeper.ibsbank.so,ct,A,ok,,102.38.50.238,,328590,Somlink Wireless Network,telco-isp,,Somlink Wireless Network - Somlink Wireless Network,2026-09-29
+SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,patchmanagement.gatekeeper.ibsbank.so,ct,A,ok,,102.38.50.238,,328590,Somlink Wireless Network,telco-isp,,Somlink Wireless Network - Somlink Wireless Network,2026-09-29
 SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,pilot-app.ibsbank.so,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,server50.ibsbank.so,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,stdby55.ibsbank.so,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,wazuhmanager.gatekeeper.ibsbank.so,ct,A,ok,,102.38.50.238,,328590,Somlink Wireless Network,unattributed,,,2026-09-29
-SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,web.gatekeeper.ibsbank.so,ct,A,ok,,102.38.50.238,,328590,Somlink Wireless Network,unattributed,,,2026-09-29
+SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,wazuhmanager.gatekeeper.ibsbank.so,ct,A,ok,,102.38.50.238,,328590,Somlink Wireless Network,telco-isp,,Somlink Wireless Network - Somlink Wireless Network,2026-09-29
+SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,web.gatekeeper.ibsbank.so,ct,A,ok,,102.38.50.238,,328590,Somlink Wireless Network,telco-isp,,Somlink Wireless Network - Somlink Wireless Network,2026-09-29
 SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,webdisk.ibsbank.so,dictionary;ct,A,ok,,192.254.232.101,,31898,HostGator.com LLC,us-hyperscaler-offshore,,Oracle Cloud,2026-09-29
 SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,webmail.ibsbank.so,dictionary;ct,A,ok,ibsbank.so,192.254.232.101,ibsbank.so,31898,HostGator.com LLC,us-hyperscaler-offshore,,Oracle Cloud,2026-09-29
 SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,whm.ibsbank.so,dictionary,A,ok,,192.254.232.101,,31898,HostGator.com LLC,us-hyperscaler-offshore,,Oracle Cloud,2026-09-29
@@ -550,11 +550,11 @@ SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,ibsbank.so,root,NS
 SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,ibsbank.so,root,NS,ok,ns6334.hostgator.com,192.254.186.139,,31898,HostGator.com LLC,us-hyperscaler-offshore,,Oracle Cloud,2026-09-29
 SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,ibsbank.so,root,TXT,ok,v=spf1  include:zohomail.com ip4:198.57.247.131 -all,,,,,,,,2026-09-29
 SOM,Commercial Banks,International Bank of Somalia,ibsbank.so,_dmarc.ibsbank.so,root,TXT,ok,v=DMARC1;p=quarantine;sp=none;adkim=s;aspf=s;pct=100;fo=0;rf=afrf;ri=86400;rua=mailto:security@ibsbank.so;ruf=mailto:security@ibsbank.so,,,,,,,,2026-09-29
-SOM,Commercial Banks,Premier Bank,premierbank.so,agencybanking.premierbank.so,ct,A,ok,,102.38.50.139,,328590,Somlink Wireless Network,unattributed,,,2026-09-29
+SOM,Commercial Banks,Premier Bank,premierbank.so,agencybanking.premierbank.so,ct,A,ok,,102.38.50.139,,328590,Somlink Wireless Network,telco-isp,,Somlink Wireless Network - Somlink Wireless Network,2026-09-29
 SOM,Commercial Banks,Premier Bank,premierbank.so,autoconfig.premierbank.so,dictionary,A,ok,premierbank.so,157.173.208.112,premierbank.so,47583,MNT-HOSTINGER,commercial-host,,Hostinger,2026-09-29
 SOM,Commercial Banks,Premier Bank,premierbank.so,autodiscover.premierbank.so,dictionary,A,ok,premierbank.so,157.173.208.112,premierbank.so,47583,MNT-HOSTINGER,commercial-host,,Hostinger,2026-09-29
-SOM,Commercial Banks,Premier Bank,premierbank.so,ebankweb.premierbank.so,ct,A,ok,,102.38.50.141,,328590,Somlink Wireless Network,unattributed,,,2026-09-29
-SOM,Commercial Banks,Premier Bank,premierbank.so,ecompay.premierbank.so,ct,A,ok,,41.78.73.29,,37371,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,unattributed,,,2026-09-29
+SOM,Commercial Banks,Premier Bank,premierbank.so,ebankweb.premierbank.so,ct,A,ok,,102.38.50.141,,328590,Somlink Wireless Network,telco-isp,,Somlink Wireless Network - Somlink Wireless Network,2026-09-29
+SOM,Commercial Banks,Premier Bank,premierbank.so,ecompay.premierbank.so,ct,A,ok,,41.78.73.29,,37371,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,telco-isp,,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,2026-09-29
 SOM,Commercial Banks,Premier Bank,premierbank.so,email.premierbank.so,dictionary,A,ok,email.secureserver.net,76.223.17.250,email.secureserver.net,,aws,us-hyperscaler-offshore,global,aws,2026-09-29
 SOM,Commercial Banks,Premier Bank,premierbank.so,email.premierbank.so,dictionary,A,ok,email.secureserver.net,15.197.155.180,email.secureserver.net,,aws,us-hyperscaler-offshore,global,aws,2026-09-29
 SOM,Commercial Banks,Premier Bank,premierbank.so,ftp.premierbank.so,dictionary,A,ok,premierbank.so,157.173.208.112,premierbank.so,47583,MNT-HOSTINGER,commercial-host,,Hostinger,2026-09-29
@@ -566,18 +566,18 @@ SOM,Commercial Banks,Premier Bank,premierbank.so,ke.premierbank.so,ct,A,nxdomain
 SOM,Commercial Banks,Premier Bank,premierbank.so,mail.premierbank.so,dictionary;ct,A,noanswer,,,,,,unresolved,,,2026-09-29
 SOM,Commercial Banks,Premier Bank,premierbank.so,marketing.premierbank.so,dictionary;ct,A,noanswer,,,,,,unresolved,,,2026-09-29
 SOM,Commercial Banks,Premier Bank,premierbank.so,new.premierbank.so,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SOM,Commercial Banks,Premier Bank,premierbank.so,online.premierbank.so,dictionary;ct,A,ok,,102.38.50.22,,328590,Somlink Wireless Network,unattributed,,,2026-09-29
+SOM,Commercial Banks,Premier Bank,premierbank.so,online.premierbank.so,dictionary;ct,A,ok,,102.38.50.22,,328590,Somlink Wireless Network,telco-isp,,Somlink Wireless Network - Somlink Wireless Network,2026-09-29
 SOM,Commercial Banks,Premier Bank,premierbank.so,onlinebanking.premierbank.so,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SOM,Commercial Banks,Premier Bank,premierbank.so,premierbank.so,root;ct,A,ok,,157.173.208.112,,47583,MNT-HOSTINGER,commercial-host,,Hostinger,2026-09-29
 SOM,Commercial Banks,Premier Bank,premierbank.so,redmine.premierbank.so,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SOM,Commercial Banks,Premier Bank,premierbank.so,survey.premierbank.so,dictionary;ct,A,ok,az2.survey2connect.com,95.177.160.37,az2.survey2connect.com,201771,AAA28-RIPE-MNT,unattributed,,,2026-09-29
+SOM,Commercial Banks,Premier Bank,premierbank.so,survey.premierbank.so,dictionary;ct,A,ok,az2.survey2connect.com,95.177.160.37,az2.survey2connect.com,201771,AAA28-RIPE-MNT,commercial-host,,NDC-CLOUD ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD,2026-09-29
 SOM,Commercial Banks,Premier Bank,premierbank.so,tracking.marketing.premierbank.so,ct,A,ok,email-tracking.infobip.com,18.198.163.56,emailtracking.email-messaging.com>email-tracking.infobip.com,,aws,us-hyperscaler-offshore,eu-central-1,aws,2026-09-29
 SOM,Commercial Banks,Premier Bank,premierbank.so,tracking.marketing.premierbank.so,ct,A,ok,email-tracking.infobip.com,18.198.218.66,emailtracking.email-messaging.com>email-tracking.infobip.com,,aws,us-hyperscaler-offshore,eu-central-1,aws,2026-09-29
 SOM,Commercial Banks,Premier Bank,premierbank.so,uatecompay.premierbank.so,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SOM,Commercial Banks,Premier Bank,premierbank.so,unison.premierbank.so,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SOM,Commercial Banks,Premier Bank,premierbank.so,wallet.premierbank.so,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SOM,Commercial Banks,Premier Bank,premierbank.so,webmail.premierbank.so,dictionary,A,ok,premierbank.so,157.173.208.112,premierbank.so,47583,MNT-HOSTINGER,commercial-host,,Hostinger,2026-09-29
-SOM,Commercial Banks,Premier Bank,premierbank.so,wps.premierbank.so,ct,A,ok,,102.38.50.210,,328590,Somlink Wireless Network,unattributed,,,2026-09-29
+SOM,Commercial Banks,Premier Bank,premierbank.so,wps.premierbank.so,ct,A,ok,,102.38.50.210,,328590,Somlink Wireless Network,telco-isp,,Somlink Wireless Network - Somlink Wireless Network,2026-09-29
 SOM,Commercial Banks,Premier Bank,premierbank.so,www.agencybanking.premierbank.so,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SOM,Commercial Banks,Premier Bank,premierbank.so,www.ebankweb.premierbank.so,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SOM,Commercial Banks,Premier Bank,premierbank.so,www.ecompay.premierbank.so,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
@@ -616,17 +616,17 @@ SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,autodiscover.salaambank.so
 SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,autodiscover.salaambank.so,dictionary;ct,AAAA,ok,autod.ms-acdc-autod.office.com,2603:1026:c0a:1883::8,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>autod.ms-acdc-autod.office.com,,microsoft-365,us-saas,,microsoft-365,2026-09-29
 SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,bdu.salaambank.so,ct,A,ok,,162.241.194.51,,31898,Unified Layer,us-hyperscaler-offshore,,Oracle Cloud,2026-09-29
 SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,callcenter.salaambank.so,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,chat.salaambank.so,dictionary,A,ok,,41.78.75.93,,37371,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,unattributed,,,2026-09-29
-SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,cpanel.salaambank.so,dictionary;ct,A,ok,salaambank.so,41.78.75.93,salaambank.so,37371,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,unattributed,,,2026-09-29
+SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,chat.salaambank.so,dictionary,A,ok,,41.78.75.93,,37371,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,telco-isp,,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,2026-09-29
+SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,cpanel.salaambank.so,dictionary;ct,A,ok,salaambank.so,41.78.75.93,salaambank.so,37371,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,telco-isp,,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,2026-09-29
 SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,cpcalendars.salaambank.so,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,cpcontacts.salaambank.so,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,ebank.salaambank.so,ct,A,ok,,102.203.134.54,,329692,HTG CLOUDS LIMITED - HTG CLOUDS LIMITED,unattributed,,,2026-09-29
-SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,ebankuat.salaambank.so,ct,A,ok,,41.78.75.93,,37371,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,unattributed,,,2026-09-29
-SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,ftp.salaambank.so,dictionary,A,ok,salaambank.so,41.78.75.93,salaambank.so,37371,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,unattributed,,,2026-09-29
+SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,ebank.salaambank.so,ct,A,ok,,102.203.134.54,,329692,HTG CLOUDS LIMITED - HTG CLOUDS LIMITED,african-colo,,HTG CLOUDS LIMITED - HTG CLOUDS LIMITED,2026-09-29
+SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,ebankuat.salaambank.so,ct,A,ok,,41.78.75.93,,37371,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,telco-isp,,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,2026-09-29
+SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,ftp.salaambank.so,dictionary,A,ok,salaambank.so,41.78.75.93,salaambank.so,37371,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,telco-isp,,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,2026-09-29
 SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,localhost.salaambank.so,dictionary,A,ok,,127.0.0.1,,,non-public address,unresolved,,,2026-09-29
-SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,mail.salaambank.so,dictionary;ct,A,ok,salaambank.so,41.78.75.93,salaambank.so,37371,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,unattributed,,,2026-09-29
+SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,mail.salaambank.so,dictionary;ct,A,ok,salaambank.so,41.78.75.93,salaambank.so,37371,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,telco-isp,,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,2026-09-29
 SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,meetingendpoints.salaambank.so,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,migate.salaambank.so,ct,A,ok,,102.203.134.54,,329692,HTG CLOUDS LIMITED - HTG CLOUDS LIMITED,unattributed,,,2026-09-29
+SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,migate.salaambank.so,ct,A,ok,,102.203.134.54,,329692,HTG CLOUDS LIMITED - HTG CLOUDS LIMITED,african-colo,,HTG CLOUDS LIMITED - HTG CLOUDS LIMITED,2026-09-29
 SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,mp.salaambank.so,ct,A,ok,ssbipay.merchant.radarpayment.online,18.239.236.17,ssbipay.merchant.radarpayment.online,,aws-cloudfront,us-hyperscaler-offshore,global,aws-cloudfront,2026-09-29
 SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,mp.salaambank.so,ct,A,ok,ssbipay.merchant.radarpayment.online,18.239.236.2,ssbipay.merchant.radarpayment.online,,aws-cloudfront,us-hyperscaler-offshore,global,aws-cloudfront,2026-09-29
 SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,mp.salaambank.so,ct,A,ok,ssbipay.merchant.radarpayment.online,18.239.236.109,ssbipay.merchant.radarpayment.online,,aws-cloudfront,us-hyperscaler-offshore,global,aws-cloudfront,2026-09-29
@@ -640,46 +640,46 @@ SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,pg.salaambank.so,ct,A,ok,s
 SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,pg.salaambank.so,ct,A,ok,ssbipay.radarpayment.online,52.84.118.129,ssbipay.radarpayment.online,,aws-cloudfront,us-hyperscaler-offshore,global,aws-cloudfront,2026-09-29
 SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,pg.salaambank.so,ct,A,ok,ssbipay.radarpayment.online,52.84.118.80,ssbipay.radarpayment.online,,aws-cloudfront,us-hyperscaler-offshore,global,aws-cloudfront,2026-09-29
 SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,salaamapp.salaambank.so,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,salaambank.so,root;ct,A,ok,,41.78.75.93,,37371,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,unattributed,,,2026-09-29
+SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,salaambank.so,root;ct,A,ok,,41.78.75.93,,37371,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,telco-isp,,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,2026-09-29
 SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,sef.salaambank.so,ct,A,noanswer,,,,,,unresolved,,,2026-09-29
 SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,southernsahil.salaambank.so,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,ssbsch.salaambank.so,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,staff.salaambank.so,ct,A,ok,,102.203.134.54,,329692,HTG CLOUDS LIMITED - HTG CLOUDS LIMITED,unattributed,,,2026-09-29
+SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,staff.salaambank.so,ct,A,ok,,102.203.134.54,,329692,HTG CLOUDS LIMITED - HTG CLOUDS LIMITED,african-colo,,HTG CLOUDS LIMITED - HTG CLOUDS LIMITED,2026-09-29
 SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,task.salaambank.so,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,vd.salaambank.so,ct,A,ok,,41.78.75.93,,37371,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,unattributed,,,2026-09-29
+SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,vd.salaambank.so,ct,A,ok,,41.78.75.93,,37371,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,telco-isp,,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,2026-09-29
 SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,webdisk.salaambank.so,dictionary;ct,A,ok,,162.241.194.51,,31898,Unified Layer,us-hyperscaler-offshore,,Oracle Cloud,2026-09-29
-SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,webmail.salaambank.so,dictionary;ct,A,ok,salaambank.so,41.78.75.93,salaambank.so,37371,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,unattributed,,,2026-09-29
-SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,whatsappapi.salaambank.so,ct,A,ok,,41.78.75.93,,37371,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,unattributed,,,2026-09-29
+SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,webmail.salaambank.so,dictionary;ct,A,ok,salaambank.so,41.78.75.93,salaambank.so,37371,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,telco-isp,,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,2026-09-29
+SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,whatsappapi.salaambank.so,ct,A,ok,,41.78.75.93,,37371,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,telco-isp,,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,2026-09-29
 SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,whm.salaambank.so,dictionary,A,ok,,162.241.194.51,,31898,Unified Layer,us-hyperscaler-offshore,,Oracle Cloud,2026-09-29
 SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,www.bdu.salaambank.so,ct,A,ok,,162.241.194.51,,31898,Unified Layer,us-hyperscaler-offshore,,Oracle Cloud,2026-09-29
-SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,www.chat.salaambank.so,ct,A,ok,,41.78.75.93,,37371,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,unattributed,,,2026-09-29
+SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,www.chat.salaambank.so,ct,A,ok,,41.78.75.93,,37371,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,telco-isp,,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,2026-09-29
 SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,www.digitalapi.salaambank.so,ct,A,ok,,162.241.194.51,,31898,Unified Layer,us-hyperscaler-offshore,,Oracle Cloud,2026-09-29
-SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,www.ebank.salaambank.so,ct,A,ok,,102.203.134.54,,329692,HTG CLOUDS LIMITED - HTG CLOUDS LIMITED,unattributed,,,2026-09-29
-SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,www.ebanktest.salaambank.so,ct,A,ok,,102.203.134.54,,329692,HTG CLOUDS LIMITED - HTG CLOUDS LIMITED,unattributed,,,2026-09-29
+SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,www.ebank.salaambank.so,ct,A,ok,,102.203.134.54,,329692,HTG CLOUDS LIMITED - HTG CLOUDS LIMITED,african-colo,,HTG CLOUDS LIMITED - HTG CLOUDS LIMITED,2026-09-29
+SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,www.ebanktest.salaambank.so,ct,A,ok,,102.203.134.54,,329692,HTG CLOUDS LIMITED - HTG CLOUDS LIMITED,african-colo,,HTG CLOUDS LIMITED - HTG CLOUDS LIMITED,2026-09-29
 SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,www.ebankuat.salaambank.so,ct,A,ok,,162.241.194.51,,31898,Unified Layer,us-hyperscaler-offshore,,Oracle Cloud,2026-09-29
-SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,www.meeting.salaambank.so,ct,A,ok,,102.203.134.54,,329692,HTG CLOUDS LIMITED - HTG CLOUDS LIMITED,unattributed,,,2026-09-29
+SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,www.meeting.salaambank.so,ct,A,ok,,102.203.134.54,,329692,HTG CLOUDS LIMITED - HTG CLOUDS LIMITED,african-colo,,HTG CLOUDS LIMITED - HTG CLOUDS LIMITED,2026-09-29
 SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,www.meetingendpoints.salaambank.so,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,www.migate.salaambank.so,ct,A,ok,,102.203.134.54,,329692,HTG CLOUDS LIMITED - HTG CLOUDS LIMITED,unattributed,,,2026-09-29
+SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,www.migate.salaambank.so,ct,A,ok,,102.203.134.54,,329692,HTG CLOUDS LIMITED - HTG CLOUDS LIMITED,african-colo,,HTG CLOUDS LIMITED - HTG CLOUDS LIMITED,2026-09-29
 SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,www.migateuat.salaambank.so,ct,A,ok,,162.241.194.51,,31898,Unified Layer,us-hyperscaler-offshore,,Oracle Cloud,2026-09-29
-SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,www.miniapp.salaambank.so,ct,A,ok,,102.203.134.54,,329692,HTG CLOUDS LIMITED - HTG CLOUDS LIMITED,unattributed,,,2026-09-29
-SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,www.miniappuat.salaambank.so,ct,A,ok,,41.78.75.93,,37371,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,unattributed,,,2026-09-29
+SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,www.miniapp.salaambank.so,ct,A,ok,,102.203.134.54,,329692,HTG CLOUDS LIMITED - HTG CLOUDS LIMITED,african-colo,,HTG CLOUDS LIMITED - HTG CLOUDS LIMITED,2026-09-29
+SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,www.miniappuat.salaambank.so,ct,A,ok,,41.78.75.93,,37371,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,telco-isp,,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,2026-09-29
 SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,www.mp.salaambank.so,ct,A,ok,,162.241.194.51,,31898,Unified Layer,us-hyperscaler-offshore,,Oracle Cloud,2026-09-29
 SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,www.mysef.salaambank.so,ct,A,noanswer,,,,,,unresolved,,,2026-09-29
 SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,www.newsite.salaambank.so,ct,A,noanswer,,,,,,unresolved,,,2026-09-29
-SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,www.partnergate.salaambank.so,ct,A,ok,,102.203.134.54,,329692,HTG CLOUDS LIMITED - HTG CLOUDS LIMITED,unattributed,,,2026-09-29
+SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,www.partnergate.salaambank.so,ct,A,ok,,102.203.134.54,,329692,HTG CLOUDS LIMITED - HTG CLOUDS LIMITED,african-colo,,HTG CLOUDS LIMITED - HTG CLOUDS LIMITED,2026-09-29
 SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,www.penta.salaambank.so,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,www.pentacore.salaambank.so,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,www.pentagate.salaambank.so,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,www.pg.salaambank.so,ct,A,ok,,3.174.255.28,,,aws-cloudfront,us-hyperscaler-offshore,global,aws-cloudfront,2026-09-29
 SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,www.salaamapp.salaambank.so,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,www.salaambank.so,root;ct,A,ok,salaambank.so,41.78.75.93,salaambank.so,37371,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,unattributed,,,2026-09-29
+SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,www.salaambank.so,root;ct,A,ok,salaambank.so,41.78.75.93,salaambank.so,37371,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,telco-isp,,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,2026-09-29
 SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,www.sef.salaambank.so,ct,A,noanswer,,,,,,unresolved,,,2026-09-29
 SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,www.southernsahil.salaambank.so,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,www.ssbsch.salaambank.so,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,www.staff.salaambank.so,ct,A,ok,,102.203.134.54,,329692,HTG CLOUDS LIMITED - HTG CLOUDS LIMITED,unattributed,,,2026-09-29
+SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,www.staff.salaambank.so,ct,A,ok,,102.203.134.54,,329692,HTG CLOUDS LIMITED - HTG CLOUDS LIMITED,african-colo,,HTG CLOUDS LIMITED - HTG CLOUDS LIMITED,2026-09-29
 SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,www.task.salaambank.so,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,www.vd.salaambank.so,ct,A,ok,,162.241.194.51,,31898,Unified Layer,us-hyperscaler-offshore,,Oracle Cloud,2026-09-29
-SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,www.whatsappapi.salaambank.so,ct,A,ok,,41.78.75.93,,37371,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,unattributed,,,2026-09-29
+SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,www.whatsappapi.salaambank.so,ct,A,ok,,41.78.75.93,,37371,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,telco-isp,,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,2026-09-29
 SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,salaambank.so,root,MX,ok,salaambank-so.mail.protection.outlook.com,52.101.91.159,,,microsoft-365,us-saas,,microsoft-365,2026-09-29
 SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,salaambank.so,root,NS,ok,ns8612.hostgator.com,162.241.194.49,,31898,Unified Layer,us-hyperscaler-offshore,,Oracle Cloud,2026-09-29
 SOM,Commercial Banks,Salaam Somali Bank,salaambank.so,salaambank.so,root,NS,ok,ns8611.hostgator.com,162.241.194.48,,31898,Unified Layer,us-hyperscaler-offshore,,Oracle Cloud,2026-09-29
@@ -705,7 +705,7 @@ SOM,Commercial Banks,Dahabshil Bank International,dahabshilbank.com,feedback.dah
 SOM,Commercial Banks,Dahabshil Bank International,dahabshilbank.com,www.dahabshilbank.com,root;ct,A,ok,,83.138.185.230,,15395,Rackspace Ltd.,commercial-host,,Rackspace,2026-09-29
 SOM,Commercial Banks,Dahabshil Bank International,dahabshilbank.com,dahabshilbank.com,root,MX,ok,eu-smtp-inbound-1.mimecast.com,195.130.217.211,,,mimecast,commercial-host,,mimecast,2026-09-29
 SOM,Commercial Banks,Dahabshil Bank International,dahabshilbank.com,dahabshilbank.com,root,MX,ok,eu-smtp-inbound-2.mimecast.com,195.130.217.211,,,mimecast,commercial-host,,mimecast,2026-09-29
-SOM,Commercial Banks,Dahabshil Bank International,dahabshilbank.com,dahabshilbank.com,root,NS,ok,ns.rackspace.com,69.20.95.4,,27357,Rackspace Hosting,unattributed,,,2026-09-29
+SOM,Commercial Banks,Dahabshil Bank International,dahabshilbank.com,dahabshilbank.com,root,NS,ok,ns.rackspace.com,69.20.95.4,,27357,Rackspace Hosting,commercial-host,,RACKSPACE - Rackspace Hosting,2026-09-29
 SOM,Commercial Banks,Dahabshil Bank International,dahabshilbank.com,dahabshilbank.com,root,NS,ok,ns2.rackspace.com,65.61.188.4,,15395,Rackspace Backbone Engineering,commercial-host,,Rackspace,2026-09-29
 SOM,Commercial Banks,Dahabshil Bank International,dahabshilbank.com,dahabshilbank.com,root,TXT,ok,v=spf1 include:eu._netblocks.mimecast.com ~all,,,,,,,,2026-09-29
 SOM,Commercial Banks,Amal Bank,amalbankso.so,amalbank.amalbankso.so,ct,A,ok,,167.235.241.124,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
@@ -716,11 +716,11 @@ SOM,Commercial Banks,Amal Bank,amalbankso.so,cpcontacts.amalbankso.so,dictionary
 SOM,Commercial Banks,Amal Bank,amalbankso.so,demo.amalbankso.so,dictionary;ct,A,ok,,161.97.86.9,,51167,MNT-CONTABO,commercial-host,,Contabo,2026-09-29
 SOM,Commercial Banks,Amal Bank,amalbankso.so,esahal-api.amalbankso.so,ct,A,noanswer,,,,,,unresolved,,,2026-09-29
 SOM,Commercial Banks,Amal Bank,amalbankso.so,esahal.amalbankso.so,ct,A,ok,,167.235.241.124,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
-SOM,Commercial Banks,Amal Bank,amalbankso.so,itdhelp.amalbankso.so,ct,A,ok,,102.141.196.86,,328319,AMTEL LTD,unattributed,,,2026-09-29
+SOM,Commercial Banks,Amal Bank,amalbankso.so,itdhelp.amalbankso.so,ct,A,ok,,102.141.196.86,,328319,AMTEL LTD,telco-isp,,AMTEL LTD - AMTEL LTD,2026-09-29
 SOM,Commercial Banks,Amal Bank,amalbankso.so,link.cards.amalbankso.so,ct,A,ok,track.smtp2go.net,97.107.135.178,track.smtp2go.net,63949,Linode,commercial-host,,Akamai Connected Cloud (Linode),2026-09-29
 SOM,Commercial Banks,Amal Bank,amalbankso.so,link.cards.amalbankso.so,ct,A,ok,track.smtp2go.net,170.187.131.209,track.smtp2go.net,63949,Linode,commercial-host,,Akamai Connected Cloud (Linode),2026-09-29
 SOM,Commercial Banks,Amal Bank,amalbankso.so,link.cards.amalbankso.so,ct,A,ok,track.smtp2go.net,185.3.93.228,track.smtp2go.net,63949,linode-mnt,commercial-host,,Akamai Connected Cloud (Linode),2026-09-29
-SOM,Commercial Banks,Amal Bank,amalbankso.so,mail.amalbankso.so,dictionary;ct,A,ok,amalbankso-so.webmail.mymailsrvr.com,74.205.27.88,amalbankso-so.webmail.mymailsrvr.com,27357,RSEmail - IAD3,unattributed,,,2026-09-29
+SOM,Commercial Banks,Amal Bank,amalbankso.so,mail.amalbankso.so,dictionary;ct,A,ok,amalbankso-so.webmail.mymailsrvr.com,74.205.27.88,amalbankso-so.webmail.mymailsrvr.com,27357,RSEmail - IAD3,commercial-host,,RACKSPACE - Rackspace Hosting,2026-09-29
 SOM,Commercial Banks,Amal Bank,amalbankso.so,portal.amalbankso.so,dictionary;ct,A,ok,,137.184.115.208,,14061,"DigitalOcean, LLC",commercial-host,,DigitalOcean,2026-09-29
 SOM,Commercial Banks,Amal Bank,amalbankso.so,webdisk.amalbankso.so,dictionary;ct,A,ok,,167.235.241.124,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
 SOM,Commercial Banks,Amal Bank,amalbankso.so,webmail.amalbankso.so,dictionary;ct,A,ok,,167.235.241.124,,24940,HOS-GUN,commercial-host,,Hetzner,2026-09-29
@@ -865,7 +865,7 @@ SOM,Commercial Banks,Amana Bank,amanabank.so,amanabank.so,root,NS,ok,alla.ns.clo
 SOM,Commercial Banks,Amana Bank,amanabank.so,amanabank.so,root,NS,ok,louis.ns.cloudflare.com,108.162.195.89,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 SOM,Commercial Banks,Amana Bank,amanabank.so,amanabank.so,root,TXT,ok,v=spf1 include:_spf.google.com ~all,,,,,,,,2026-09-29
 SOM,Commercial Banks,Amana Bank,amanabank.so,_dmarc.amanabank.so,root,TXT,ok,v=DMARC1; p=none,,,,,,,,2026-09-29
-SOM,Commercial Banks,SomBank,sombank.so,admin.sombank.so,dictionary,A,ok,,50.219.83.134,,7922,"Comcast Cable Communications, LLC",unattributed,,,2026-09-29
+SOM,Commercial Banks,SomBank,sombank.so,admin.sombank.so,dictionary,A,ok,,50.219.83.134,,7922,"Comcast Cable Communications, LLC",telco-isp,,"COMCAST-7922 - Comcast Cable Communications, LLC",2026-09-29
 SOM,Commercial Banks,SomBank,sombank.so,api.sombank.so,dictionary,A,ok,,207.2.83.42,,3561,Banana Pay LLC,commercial-host,,CenturyLink (Savvis),2026-09-29
 SOM,Commercial Banks,SomBank,sombank.so,autodiscover.sombank.so,dictionary,A,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,40.99.153.136,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
 SOM,Commercial Banks,SomBank,sombank.so,autodiscover.sombank.so,dictionary,A,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,40.99.217.72,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
@@ -883,9 +883,9 @@ SOM,Commercial Banks,SomBank,sombank.so,autodiscover.sombank.so,dictionary,AAAA,
 SOM,Commercial Banks,SomBank,sombank.so,autodiscover.sombank.so,dictionary,AAAA,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,2603:1026:c0a:1859::8,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
 SOM,Commercial Banks,SomBank,sombank.so,autodiscover.sombank.so,dictionary,AAAA,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,2603:1026:c0a:185e::8,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
 SOM,Commercial Banks,SomBank,sombank.so,autodiscover.sombank.so,dictionary,AAAA,ok,atm.autodiscover.mira.tm.svc.cloud.microsoft,2603:1026:c0a:1882::8,autodiscover.outlook.com>autodiscover.outlook.cloud.microsoft>acdcatm.autodiscover.mira.tm.svc.cloud.microsoft>atm.autodiscover.mira.tm.svc.cloud.microsoft,,microsoft-365,us-saas,,microsoft-365,2026-09-29
-SOM,Commercial Banks,SomBank,sombank.so,business.sombank.so,dictionary,A,ok,,50.219.83.131,,7922,"Comcast Cable Communications, LLC",unattributed,,,2026-09-29
-SOM,Commercial Banks,SomBank,sombank.so,dev.sombank.so,dictionary,A,ok,,50.219.83.137,,7922,"Comcast Cable Communications, LLC",unattributed,,,2026-09-29
-SOM,Commercial Banks,SomBank,sombank.so,devtest.sombank.so,ct,A,ok,,50.219.83.137,,7922,"Comcast Cable Communications, LLC",unattributed,,,2026-09-29
+SOM,Commercial Banks,SomBank,sombank.so,business.sombank.so,dictionary,A,ok,,50.219.83.131,,7922,"Comcast Cable Communications, LLC",telco-isp,,"COMCAST-7922 - Comcast Cable Communications, LLC",2026-09-29
+SOM,Commercial Banks,SomBank,sombank.so,dev.sombank.so,dictionary,A,ok,,50.219.83.137,,7922,"Comcast Cable Communications, LLC",telco-isp,,"COMCAST-7922 - Comcast Cable Communications, LLC",2026-09-29
+SOM,Commercial Banks,SomBank,sombank.so,devtest.sombank.so,ct,A,ok,,50.219.83.137,,7922,"Comcast Cable Communications, LLC",telco-isp,,"COMCAST-7922 - Comcast Cable Communications, LLC",2026-09-29
 SOM,Commercial Banks,SomBank,sombank.so,email.mail.sombank.so,ct,A,ok,mailgun.org,34.110.180.34,click.tr.onesignal.email>mailgun.org,,google-cloud,us-hyperscaler-offshore,global,google-cloud,2026-09-29
 SOM,Commercial Banks,SomBank,sombank.so,enterpriseenrollment.sombank.so,dictionary,A,ok,pexsucpeu01.northeurope.cloudapp.azure.com,13.74.111.192,enterpriseenrollment-s.manage.microsoft.com>manage-pe.trafficmanager.net>pexsucpeu01.northeurope.cloudapp.azure.com,,azure,us-hyperscaler-offshore,northeurope,azure,2026-09-29
 SOM,Commercial Banks,SomBank,sombank.so,enterpriseregistration.sombank.so,dictionary,A,ok,www.tm.f.prd.aadg.trafficmanager.net,40.126.31.66,enterpriseregistration.windows.net>na.privatelink.msidentity.com>prdf.aadg.msidentity.com>www.tm.f.prd.aadg.trafficmanager.net,,azure,us-hyperscaler-offshore,northeurope,azure,2026-09-29
@@ -896,12 +896,12 @@ SOM,Commercial Banks,SomBank,sombank.so,enterpriseregistration.sombank.so,dictio
 SOM,Commercial Banks,SomBank,sombank.so,enterpriseregistration.sombank.so,dictionary,AAAA,ok,www.tm.f.prd.aadg.trafficmanager.net,2603:1026:3000:d0::5,enterpriseregistration.windows.net>na.privatelink.msidentity.com>prdf.aadg.msidentity.com>www.tm.f.prd.aadg.trafficmanager.net,,azure,us-hyperscaler-offshore,northeurope,azure,2026-09-29
 SOM,Commercial Banks,SomBank,sombank.so,enterpriseregistration.sombank.so,dictionary,AAAA,ok,www.tm.f.prd.aadg.trafficmanager.net,2603:1026:3000:d0::4,enterpriseregistration.windows.net>na.privatelink.msidentity.com>prdf.aadg.msidentity.com>www.tm.f.prd.aadg.trafficmanager.net,,azure,us-hyperscaler-offshore,northeurope,azure,2026-09-29
 SOM,Commercial Banks,SomBank,sombank.so,enterpriseregistration.sombank.so,dictionary,AAAA,ok,www.tm.f.prd.aadg.trafficmanager.net,2603:1026:3000:c8::3,enterpriseregistration.windows.net>na.privatelink.msidentity.com>prdf.aadg.msidentity.com>www.tm.f.prd.aadg.trafficmanager.net,,azure,us-hyperscaler-offshore,northeurope,azure,2026-09-29
-SOM,Commercial Banks,SomBank,sombank.so,helpdesk.sombank.so,dictionary,A,ok,,50.219.83.134,,7922,"Comcast Cable Communications, LLC",unattributed,,,2026-09-29
+SOM,Commercial Banks,SomBank,sombank.so,helpdesk.sombank.so,dictionary,A,ok,,50.219.83.134,,7922,"Comcast Cable Communications, LLC",telco-isp,,"COMCAST-7922 - Comcast Cable Communications, LLC",2026-09-29
 SOM,Commercial Banks,SomBank,sombank.so,host1.sombank.so,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SOM,Commercial Banks,SomBank,sombank.so,mail.sombank.so,dictionary,A,ok,,50.219.83.134,,7922,"Comcast Cable Communications, LLC",unattributed,,,2026-09-29
-SOM,Commercial Banks,SomBank,sombank.so,monitoring.sombank.so,dictionary;ct,A,ok,,50.219.83.143,,7922,"Comcast Cable Communications, LLC",unattributed,,,2026-09-29
-SOM,Commercial Banks,SomBank,sombank.so,ptest.sombank.so,ct,A,ok,,50.219.83.134,,7922,"Comcast Cable Communications, LLC",unattributed,,,2026-09-29
-SOM,Commercial Banks,SomBank,sombank.so,sombank.so,root;ct,A,ok,,50.219.83.134,,7922,"Comcast Cable Communications, LLC",unattributed,,,2026-09-29
+SOM,Commercial Banks,SomBank,sombank.so,mail.sombank.so,dictionary,A,ok,,50.219.83.134,,7922,"Comcast Cable Communications, LLC",telco-isp,,"COMCAST-7922 - Comcast Cable Communications, LLC",2026-09-29
+SOM,Commercial Banks,SomBank,sombank.so,monitoring.sombank.so,dictionary;ct,A,ok,,50.219.83.143,,7922,"Comcast Cable Communications, LLC",telco-isp,,"COMCAST-7922 - Comcast Cable Communications, LLC",2026-09-29
+SOM,Commercial Banks,SomBank,sombank.so,ptest.sombank.so,ct,A,ok,,50.219.83.134,,7922,"Comcast Cable Communications, LLC",telco-isp,,"COMCAST-7922 - Comcast Cable Communications, LLC",2026-09-29
+SOM,Commercial Banks,SomBank,sombank.so,sombank.so,root;ct,A,ok,,50.219.83.134,,7922,"Comcast Cable Communications, LLC",telco-isp,,"COMCAST-7922 - Comcast Cable Communications, LLC",2026-09-29
 SOM,Commercial Banks,SomBank,sombank.so,vc.sombank.so,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SOM,Commercial Banks,SomBank,sombank.so,vpn.sombank.so,dictionary;ct,A,ok,,207.2.83.69,,3561,Banana Pay LLC,commercial-host,,CenturyLink (Savvis),2026-09-29
 SOM,Commercial Banks,SomBank,sombank.so,www.host1.sombank.so,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
@@ -913,37 +913,37 @@ SOM,Commercial Banks,SomBank,sombank.so,sombank.so,root,NS,ok,ns5.101domain.com,
 SOM,Commercial Banks,SomBank,sombank.so,sombank.so,root,NS,ok,ns1.101domain.com,162.159.24.202,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 SOM,Commercial Banks,SomBank,sombank.so,sombank.so,root,TXT,ok,v=spf1 ip4:50.219.83.146 include:spf.protection.outlook.com  include:_spf.odoo.com ~all,,,,,,,,2026-09-29
 SOM,Commercial Banks,SomBank,sombank.so,_dmarc.sombank.so,root,TXT,ok,v=DMARC1; p=reject; pct=100; rua=mailto:soc@sombank.so; ruf=mailto:soc@sombank.so,,,,,,,,2026-09-29
-SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,cpanel.daryeelbank.com,dictionary;ct,A,ok,,122.201.127.185,,38719,VODIEN AUSTRALIA PTY LTD,unattributed,,,2026-09-29
-SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,cpanel.daryeelbank.com,dictionary;ct,AAAA,ok,,2405:3f00:a222:bbbb:bba1:10:ffff:ffff,,38719,VODIEN AUSTRALIA PTY LTD,unattributed,,,2026-09-29
-SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,cpcalendars.daryeelbank.com,dictionary,A,ok,,122.201.127.185,,38719,VODIEN AUSTRALIA PTY LTD,unattributed,,,2026-09-29
-SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,cpcalendars.daryeelbank.com,dictionary,AAAA,ok,,2405:3f00:a222:bbbb:bba1:10:ffff:ffff,,38719,VODIEN AUSTRALIA PTY LTD,unattributed,,,2026-09-29
-SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,cpcontacts.daryeelbank.com,dictionary,A,ok,,122.201.127.185,,38719,VODIEN AUSTRALIA PTY LTD,unattributed,,,2026-09-29
-SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,cpcontacts.daryeelbank.com,dictionary,AAAA,ok,,2405:3f00:a222:bbbb:bba1:10:ffff:ffff,,38719,VODIEN AUSTRALIA PTY LTD,unattributed,,,2026-09-29
-SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,daryeelbank.com,root;ct,A,ok,,122.201.127.185,,38719,VODIEN AUSTRALIA PTY LTD,unattributed,,,2026-09-29
-SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,daryeelbank.com,root;ct,AAAA,ok,,2405:3f00:a222:bbbb:bba1:10:ffff:ffff,,38719,VODIEN AUSTRALIA PTY LTD,unattributed,,,2026-09-29
-SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,ftp.daryeelbank.com,dictionary,A,ok,,122.201.127.185,,38719,VODIEN AUSTRALIA PTY LTD,unattributed,,,2026-09-29
-SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,ftp.daryeelbank.com,dictionary,AAAA,ok,,2405:3f00:a222:bbbb:bba1:10:ffff:ffff,,38719,VODIEN AUSTRALIA PTY LTD,unattributed,,,2026-09-29
-SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,imap.daryeelbank.com,dictionary,A,ok,mail.daryeelbank.com,122.201.127.185,mail.daryeelbank.com,38719,VODIEN AUSTRALIA PTY LTD,unattributed,,,2026-09-29
-SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,imap.daryeelbank.com,dictionary,AAAA,ok,mail.daryeelbank.com,2405:3f00:a222:bbbb:bba1:10:ffff:ffff,mail.daryeelbank.com,38719,VODIEN AUSTRALIA PTY LTD,unattributed,,,2026-09-29
-SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,ipv6.daryeelbank.com,dictionary,AAAA,ok,,2405:3f00:a222:bbbb:bba1:10:ffff:ffff,,38719,VODIEN AUSTRALIA PTY LTD,unattributed,,,2026-09-29
-SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,mail.daryeelbank.com,dictionary;ct,A,ok,,122.201.127.185,,38719,VODIEN AUSTRALIA PTY LTD,unattributed,,,2026-09-29
-SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,mail.daryeelbank.com,dictionary;ct,AAAA,ok,,2405:3f00:a222:bbbb:bba1:10:ffff:ffff,,38719,VODIEN AUSTRALIA PTY LTD,unattributed,,,2026-09-29
-SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,pop3.daryeelbank.com,dictionary,A,ok,mail.daryeelbank.com,122.201.127.185,mail.daryeelbank.com,38719,VODIEN AUSTRALIA PTY LTD,unattributed,,,2026-09-29
-SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,pop3.daryeelbank.com,dictionary,AAAA,ok,mail.daryeelbank.com,2405:3f00:a222:bbbb:bba1:10:ffff:ffff,mail.daryeelbank.com,38719,VODIEN AUSTRALIA PTY LTD,unattributed,,,2026-09-29
-SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,smtp.daryeelbank.com,dictionary,A,ok,mail.daryeelbank.com,122.201.127.185,mail.daryeelbank.com,38719,VODIEN AUSTRALIA PTY LTD,unattributed,,,2026-09-29
-SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,smtp.daryeelbank.com,dictionary,AAAA,ok,mail.daryeelbank.com,2405:3f00:a222:bbbb:bba1:10:ffff:ffff,mail.daryeelbank.com,38719,VODIEN AUSTRALIA PTY LTD,unattributed,,,2026-09-29
-SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,webdisk.daryeelbank.com,dictionary;ct,A,ok,,122.201.127.185,,38719,VODIEN AUSTRALIA PTY LTD,unattributed,,,2026-09-29
-SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,webdisk.daryeelbank.com,dictionary;ct,AAAA,ok,,2405:3f00:a222:bbbb:bba1:10:ffff:ffff,,38719,VODIEN AUSTRALIA PTY LTD,unattributed,,,2026-09-29
+SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,cpanel.daryeelbank.com,dictionary;ct,A,ok,,122.201.127.185,,38719,VODIEN AUSTRALIA PTY LTD,commercial-host,,DREAMSCAPE-AS-AP - Dreamscape Networks Limited,2026-09-29
+SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,cpanel.daryeelbank.com,dictionary;ct,AAAA,ok,,2405:3f00:a222:bbbb:bba1:10:ffff:ffff,,38719,VODIEN AUSTRALIA PTY LTD,commercial-host,,DREAMSCAPE-AS-AP - Dreamscape Networks Limited,2026-09-29
+SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,cpcalendars.daryeelbank.com,dictionary,A,ok,,122.201.127.185,,38719,VODIEN AUSTRALIA PTY LTD,commercial-host,,DREAMSCAPE-AS-AP - Dreamscape Networks Limited,2026-09-29
+SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,cpcalendars.daryeelbank.com,dictionary,AAAA,ok,,2405:3f00:a222:bbbb:bba1:10:ffff:ffff,,38719,VODIEN AUSTRALIA PTY LTD,commercial-host,,DREAMSCAPE-AS-AP - Dreamscape Networks Limited,2026-09-29
+SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,cpcontacts.daryeelbank.com,dictionary,A,ok,,122.201.127.185,,38719,VODIEN AUSTRALIA PTY LTD,commercial-host,,DREAMSCAPE-AS-AP - Dreamscape Networks Limited,2026-09-29
+SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,cpcontacts.daryeelbank.com,dictionary,AAAA,ok,,2405:3f00:a222:bbbb:bba1:10:ffff:ffff,,38719,VODIEN AUSTRALIA PTY LTD,commercial-host,,DREAMSCAPE-AS-AP - Dreamscape Networks Limited,2026-09-29
+SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,daryeelbank.com,root;ct,A,ok,,122.201.127.185,,38719,VODIEN AUSTRALIA PTY LTD,commercial-host,,DREAMSCAPE-AS-AP - Dreamscape Networks Limited,2026-09-29
+SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,daryeelbank.com,root;ct,AAAA,ok,,2405:3f00:a222:bbbb:bba1:10:ffff:ffff,,38719,VODIEN AUSTRALIA PTY LTD,commercial-host,,DREAMSCAPE-AS-AP - Dreamscape Networks Limited,2026-09-29
+SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,ftp.daryeelbank.com,dictionary,A,ok,,122.201.127.185,,38719,VODIEN AUSTRALIA PTY LTD,commercial-host,,DREAMSCAPE-AS-AP - Dreamscape Networks Limited,2026-09-29
+SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,ftp.daryeelbank.com,dictionary,AAAA,ok,,2405:3f00:a222:bbbb:bba1:10:ffff:ffff,,38719,VODIEN AUSTRALIA PTY LTD,commercial-host,,DREAMSCAPE-AS-AP - Dreamscape Networks Limited,2026-09-29
+SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,imap.daryeelbank.com,dictionary,A,ok,mail.daryeelbank.com,122.201.127.185,mail.daryeelbank.com,38719,VODIEN AUSTRALIA PTY LTD,commercial-host,,DREAMSCAPE-AS-AP - Dreamscape Networks Limited,2026-09-29
+SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,imap.daryeelbank.com,dictionary,AAAA,ok,mail.daryeelbank.com,2405:3f00:a222:bbbb:bba1:10:ffff:ffff,mail.daryeelbank.com,38719,VODIEN AUSTRALIA PTY LTD,commercial-host,,DREAMSCAPE-AS-AP - Dreamscape Networks Limited,2026-09-29
+SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,ipv6.daryeelbank.com,dictionary,AAAA,ok,,2405:3f00:a222:bbbb:bba1:10:ffff:ffff,,38719,VODIEN AUSTRALIA PTY LTD,commercial-host,,DREAMSCAPE-AS-AP - Dreamscape Networks Limited,2026-09-29
+SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,mail.daryeelbank.com,dictionary;ct,A,ok,,122.201.127.185,,38719,VODIEN AUSTRALIA PTY LTD,commercial-host,,DREAMSCAPE-AS-AP - Dreamscape Networks Limited,2026-09-29
+SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,mail.daryeelbank.com,dictionary;ct,AAAA,ok,,2405:3f00:a222:bbbb:bba1:10:ffff:ffff,,38719,VODIEN AUSTRALIA PTY LTD,commercial-host,,DREAMSCAPE-AS-AP - Dreamscape Networks Limited,2026-09-29
+SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,pop3.daryeelbank.com,dictionary,A,ok,mail.daryeelbank.com,122.201.127.185,mail.daryeelbank.com,38719,VODIEN AUSTRALIA PTY LTD,commercial-host,,DREAMSCAPE-AS-AP - Dreamscape Networks Limited,2026-09-29
+SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,pop3.daryeelbank.com,dictionary,AAAA,ok,mail.daryeelbank.com,2405:3f00:a222:bbbb:bba1:10:ffff:ffff,mail.daryeelbank.com,38719,VODIEN AUSTRALIA PTY LTD,commercial-host,,DREAMSCAPE-AS-AP - Dreamscape Networks Limited,2026-09-29
+SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,smtp.daryeelbank.com,dictionary,A,ok,mail.daryeelbank.com,122.201.127.185,mail.daryeelbank.com,38719,VODIEN AUSTRALIA PTY LTD,commercial-host,,DREAMSCAPE-AS-AP - Dreamscape Networks Limited,2026-09-29
+SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,smtp.daryeelbank.com,dictionary,AAAA,ok,mail.daryeelbank.com,2405:3f00:a222:bbbb:bba1:10:ffff:ffff,mail.daryeelbank.com,38719,VODIEN AUSTRALIA PTY LTD,commercial-host,,DREAMSCAPE-AS-AP - Dreamscape Networks Limited,2026-09-29
+SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,webdisk.daryeelbank.com,dictionary;ct,A,ok,,122.201.127.185,,38719,VODIEN AUSTRALIA PTY LTD,commercial-host,,DREAMSCAPE-AS-AP - Dreamscape Networks Limited,2026-09-29
+SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,webdisk.daryeelbank.com,dictionary;ct,AAAA,ok,,2405:3f00:a222:bbbb:bba1:10:ffff:ffff,,38719,VODIEN AUSTRALIA PTY LTD,commercial-host,,DREAMSCAPE-AS-AP - Dreamscape Networks Limited,2026-09-29
 SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,webmail.daryeelbank.com,dictionary;ct,A,ok,webmail.au.syrahost.com,27.111.95.247,webmail.au.syrahost.com,31898,Dreamscape Networks PTY LTD,us-hyperscaler-offshore,,Oracle Cloud,2026-09-29
-SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,whm.daryeelbank.com,dictionary,A,ok,,122.201.127.185,,38719,VODIEN AUSTRALIA PTY LTD,unattributed,,,2026-09-29
-SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,whm.daryeelbank.com,dictionary,AAAA,ok,,2405:3f00:a222:bbbb:bba1:10:ffff:ffff,,38719,VODIEN AUSTRALIA PTY LTD,unattributed,,,2026-09-29
-SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,www.daryeelbank.com,root;ct,A,ok,daryeelbank.com,122.201.127.185,daryeelbank.com,38719,VODIEN AUSTRALIA PTY LTD,unattributed,,,2026-09-29
-SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,www.daryeelbank.com,root;ct,AAAA,ok,daryeelbank.com,2405:3f00:a222:bbbb:bba1:10:ffff:ffff,daryeelbank.com,38719,VODIEN AUSTRALIA PTY LTD,unattributed,,,2026-09-29
+SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,whm.daryeelbank.com,dictionary,A,ok,,122.201.127.185,,38719,VODIEN AUSTRALIA PTY LTD,commercial-host,,DREAMSCAPE-AS-AP - Dreamscape Networks Limited,2026-09-29
+SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,whm.daryeelbank.com,dictionary,AAAA,ok,,2405:3f00:a222:bbbb:bba1:10:ffff:ffff,,38719,VODIEN AUSTRALIA PTY LTD,commercial-host,,DREAMSCAPE-AS-AP - Dreamscape Networks Limited,2026-09-29
+SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,www.daryeelbank.com,root;ct,A,ok,daryeelbank.com,122.201.127.185,daryeelbank.com,38719,VODIEN AUSTRALIA PTY LTD,commercial-host,,DREAMSCAPE-AS-AP - Dreamscape Networks Limited,2026-09-29
+SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,www.daryeelbank.com,root;ct,AAAA,ok,daryeelbank.com,2405:3f00:a222:bbbb:bba1:10:ffff:ffff,daryeelbank.com,38719,VODIEN AUSTRALIA PTY LTD,commercial-host,,DREAMSCAPE-AS-AP - Dreamscape Networks Limited,2026-09-29
 SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,daryeelbank.com,root,MX,ok,alt2.aspmx.l.google.com,192.178.213.26,,,google-workspace,us-saas,,google-workspace,2026-09-29
 SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,daryeelbank.com,root,MX,ok,alt4.aspmx.l.google.com,172.253.148.26,,,google-workspace,us-saas,,google-workspace,2026-09-29
 SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,daryeelbank.com,root,MX,ok,aspmx.l.google.com,172.217.76.26,,,google-workspace,us-saas,,google-workspace,2026-09-29
 SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,daryeelbank.com,root,MX,ok,alt1.aspmx.l.google.com,142.250.102.26,,,google-workspace,us-saas,,google-workspace,2026-09-29
-SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,daryeelbank.com,root,MX,ok,mail.daryeelbank.com,122.201.127.185,,38719,VODIEN AUSTRALIA PTY LTD,unattributed,,,2026-09-29
+SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,daryeelbank.com,root,MX,ok,mail.daryeelbank.com,122.201.127.185,,38719,VODIEN AUSTRALIA PTY LTD,commercial-host,,DREAMSCAPE-AS-AP - Dreamscape Networks Limited,2026-09-29
 SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,daryeelbank.com,root,MX,ok,alt3.aspmx.l.google.com,142.251.127.26,,,google-workspace,us-saas,,google-workspace,2026-09-29
 SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,daryeelbank.com,root,NS,ok,ns1.syrahost.com,172.64.52.175,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 SOM,Commercial Banks,Daryeel Bank,daryeelbank.com,daryeelbank.com,root,NS,ok,ns2.syrahost.com,172.64.53.58,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
@@ -992,7 +992,7 @@ SOM,Civil registry / National ID authority,National Identification and Registrat
 SOM,Civil registry / National ID authority,National Identification and Registration Authority (NIRA),nira.gov.so,autodiscover.nira.gov.so,dictionary;ct,AAAA,ok,,2606:4700:3036::ac43:9e76,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 SOM,Civil registry / National ID authority,National Identification and Registration Authority (NIRA),nira.gov.so,bbb.nira.gov.so,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SOM,Civil registry / National ID authority,National Identification and Registration Authority (NIRA),nira.gov.so,bookstack.nira.gov.so,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SOM,Civil registry / National ID authority,National Identification and Registration Authority (NIRA),nira.gov.so,callcenter.nira.gov.so,ct,A,ok,,154.73.25.22,,327764,Somali Research & Education Network(SomaliREN) - Somali Research & Education Network(SomaliREN),unattributed,,,2026-09-29
+SOM,Civil registry / National ID authority,National Identification and Registration Authority (NIRA),nira.gov.so,callcenter.nira.gov.so,ct,A,ok,,154.73.25.22,,327764,Somali Research & Education Network(SomaliREN) - Somali Research & Education Network(SomaliREN),telco-isp,,Somali Research & Education Network(SomaliREN) - Somali Research & Education Network(SomaliREN),2026-09-29
 SOM,Civil registry / National ID authority,National Identification and Registration Authority (NIRA),nira.gov.so,cloud.nira.gov.so,dictionary,A,ok,,104.21.50.70,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 SOM,Civil registry / National ID authority,National Identification and Registration Authority (NIRA),nira.gov.so,cloud.nira.gov.so,dictionary,A,ok,,172.67.158.118,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 SOM,Civil registry / National ID authority,National Identification and Registration Authority (NIRA),nira.gov.so,cloud.nira.gov.so,dictionary,AAAA,ok,,2606:4700:3036::ac43:9e76,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
@@ -1119,7 +1119,7 @@ SOM,Electoral commission,National Independent Electoral and Boundaries Commissio
 SOM,Electoral commission,National Independent Electoral and Boundaries Commission,niebc.gov.so,parties.niebc.gov.so,ct,A,ok,new-portal-alb-676820581.ap-south-1.elb.amazonaws.com,3.109.248.167,new-portal-alb-676820581.ap-south-1.elb.amazonaws.com,,aws,us-hyperscaler-offshore,ap-south-1,aws,2026-09-29
 SOM,Electoral commission,National Independent Electoral and Boundaries Commission,niebc.gov.so,parties.niebc.gov.so,ct,A,ok,new-portal-alb-676820581.ap-south-1.elb.amazonaws.com,43.205.89.134,new-portal-alb-676820581.ap-south-1.elb.amazonaws.com,,aws,us-hyperscaler-offshore,ap-south-1,aws,2026-09-29
 SOM,Electoral commission,National Independent Electoral and Boundaries Commission,niebc.gov.so,so.niebc.gov.so,ct,A,ok,,138.197.118.103,,14061,"DigitalOcean, LLC",commercial-host,,DigitalOcean,2026-09-29
-SOM,Electoral commission,National Independent Electoral and Boundaries Commission,niebc.gov.so,staff.niebc.gov.so,ct,A,ok,,154.118.241.7,,327828,Somali Optical Networks - Somali Optical Networks,unattributed,,,2026-09-29
+SOM,Electoral commission,National Independent Electoral and Boundaries Commission,niebc.gov.so,staff.niebc.gov.so,ct,A,ok,,154.118.241.7,,327828,Somali Optical Networks - Somali Optical Networks,telco-isp,,Somali Optical Networks - Somali Optical Networks,2026-09-29
 SOM,Electoral commission,National Independent Electoral and Boundaries Commission,niebc.gov.so,union-admin.niebc.gov.so,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SOM,Electoral commission,National Independent Electoral and Boundaries Commission,niebc.gov.so,union.niebc.gov.so,ct,A,ok,admin-alb-837280988.ap-south-1.elb.amazonaws.com,13.235.162.133,admin-alb-837280988.ap-south-1.elb.amazonaws.com,,aws,us-hyperscaler-offshore,ap-south-1,aws,2026-09-29
 SOM,Electoral commission,National Independent Electoral and Boundaries Commission,niebc.gov.so,union.niebc.gov.so,ct,A,ok,admin-alb-837280988.ap-south-1.elb.amazonaws.com,3.6.50.241,admin-alb-837280988.ap-south-1.elb.amazonaws.com,,aws,us-hyperscaler-offshore,ap-south-1,aws,2026-09-29
@@ -1139,7 +1139,7 @@ SOM,Electoral commission,National Independent Electoral and Boundaries Commissio
 SOM,Statistics office,Somali National Bureau of Statistics,nbs.gov.so,a.nbs.gov.so,dictionary;ct,A,ok,nbs.gov.so,67.227.136.207,nbs.gov.so,32244,"Liquid Web, L.L.C",commercial-host,,Liquid Web,2026-09-29
 SOM,Statistics office,Somali National Bureau of Statistics,nbs.gov.so,admin.nbs.gov.so,dictionary;ct,A,ok,nbs.gov.so,67.227.136.207,nbs.gov.so,32244,"Liquid Web, L.L.C",commercial-host,,Liquid Web,2026-09-29
 SOM,Statistics office,Somali National Bureau of Statistics,nbs.gov.so,api.nbs.gov.so,dictionary;ct,A,ok,nbs.gov.so,67.227.136.207,nbs.gov.so,32244,"Liquid Web, L.L.C",commercial-host,,Liquid Web,2026-09-29
-SOM,Statistics office,Somali National Bureau of Statistics,nbs.gov.so,capi.nbs.gov.so,ct,A,ok,,192.145.173.96,,37371,Hormuud Telecom Somalia INC,unattributed,,,2026-09-29
+SOM,Statistics office,Somali National Bureau of Statistics,nbs.gov.so,capi.nbs.gov.so,ct,A,ok,,192.145.173.96,,37371,Hormuud Telecom Somalia INC,telco-isp,,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,2026-09-29
 SOM,Statistics office,Somali National Bureau of Statistics,nbs.gov.so,cpi.nbs.gov.so,ct,A,ok,,50.28.84.222,,32244,"Liquid Web, L.L.C",commercial-host,,Liquid Web,2026-09-29
 SOM,Statistics office,Somali National Bureau of Statistics,nbs.gov.so,cpisomalia.nbs.gov.so,ct,A,ok,nbs.gov.so,67.227.136.207,nbs.gov.so,32244,"Liquid Web, L.L.C",commercial-host,,Liquid Web,2026-09-29
 SOM,Statistics office,Somali National Bureau of Statistics,nbs.gov.so,geospatial.nbs.gov.so,ct,A,ok,nbs.gov.so,67.227.136.207,nbs.gov.so,32244,"Liquid Web, L.L.C",commercial-host,,Liquid Web,2026-09-29
@@ -1155,14 +1155,14 @@ SOM,Statistics office,Somali National Bureau of Statistics,nbs.gov.so,mics.nbs.g
 SOM,Statistics office,Somali National Bureau of Statistics,nbs.gov.so,nbs.gov.so,root;ct,A,ok,,67.227.136.207,,32244,"Liquid Web, L.L.C",commercial-host,,Liquid Web,2026-09-29
 SOM,Statistics office,Somali National Bureau of Statistics,nbs.gov.so,new.nbs.gov.so,dictionary;ct,A,ok,nbs.gov.so,67.227.136.207,nbs.gov.so,32244,"Liquid Web, L.L.C",commercial-host,,Liquid Web,2026-09-29
 SOM,Statistics office,Somali National Bureau of Statistics,nbs.gov.so,pxweb.nbs.gov.so,ct,A,ok,nbs.gov.so,67.227.136.207,nbs.gov.so,32244,"Liquid Web, L.L.C",commercial-host,,Liquid Web,2026-09-29
-SOM,Statistics office,Somali National Bureau of Statistics,nbs.gov.so,sahan.nbs.gov.so,ct,A,ok,,192.145.173.78,,37371,Hormuud Telecom Somalia INC,unattributed,,,2026-09-29
+SOM,Statistics office,Somali National Bureau of Statistics,nbs.gov.so,sahan.nbs.gov.so,ct,A,ok,,192.145.173.78,,37371,Hormuud Telecom Somalia INC,telco-isp,,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,2026-09-29
 SOM,Statistics office,Somali National Bureau of Statistics,nbs.gov.so,sdgs.nbs.gov.so,ct,A,ok,nbs.gov.so,67.227.136.207,nbs.gov.so,32244,"Liquid Web, L.L.C",commercial-host,,Liquid Web,2026-09-29
 SOM,Statistics office,Somali National Bureau of Statistics,nbs.gov.so,server.nbs.gov.so,dictionary;ct,A,ok,nbs.gov.so,67.227.136.207,nbs.gov.so,32244,"Liquid Web, L.L.C",commercial-host,,Liquid Web,2026-09-29
 SOM,Statistics office,Somali National Bureau of Statistics,nbs.gov.so,sisepcb.nbs.gov.so,ct,A,ok,nbs.gov.so,67.227.136.207,nbs.gov.so,32244,"Liquid Web, L.L.C",commercial-host,,Liquid Web,2026-09-29
 SOM,Statistics office,Somali National Bureau of Statistics,nbs.gov.so,sisepcbp.nbs.gov.so,ct,A,ok,nbs.gov.so,67.227.136.207,nbs.gov.so,32244,"Liquid Web, L.L.C",commercial-host,,Liquid Web,2026-09-29
-SOM,Statistics office,Somali National Bureau of Statistics,nbs.gov.so,somaliasdg.nbs.gov.so,ct,A,ok,,82.146.176.141,,9051,GDSNMC,unattributed,,,2026-09-29
+SOM,Statistics office,Somali National Bureau of Statistics,nbs.gov.so,somaliasdg.nbs.gov.so,ct,A,ok,,82.146.176.141,,9051,GDSNMC,commercial-host,,IncoNet Data Management sal,2026-09-29
 SOM,Statistics office,Somali National Bureau of Statistics,nbs.gov.so,somaliland.nbs.gov.so,ct,A,ok,nbs.gov.so,67.227.136.207,nbs.gov.so,32244,"Liquid Web, L.L.C",commercial-host,,Liquid Web,2026-09-29
-SOM,Statistics office,Somali National Bureau of Statistics,nbs.gov.so,survey.nbs.gov.so,dictionary;ct,A,ok,,192.145.173.96,,37371,Hormuud Telecom Somalia INC,unattributed,,,2026-09-29
+SOM,Statistics office,Somali National Bureau of Statistics,nbs.gov.so,survey.nbs.gov.so,dictionary;ct,A,ok,,192.145.173.96,,37371,Hormuud Telecom Somalia INC,telco-isp,,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,2026-09-29
 SOM,Statistics office,Somali National Bureau of Statistics,nbs.gov.so,test.nbs.gov.so,dictionary;ct,A,ok,,50.28.84.222,,32244,"Liquid Web, L.L.C",commercial-host,,Liquid Web,2026-09-29
 SOM,Statistics office,Somali National Bureau of Statistics,nbs.gov.so,wp.nbs.gov.so,dictionary;ct,A,ok,nbs.gov.so,67.227.136.207,nbs.gov.so,32244,"Liquid Web, L.L.C",commercial-host,,Liquid Web,2026-09-29
 SOM,Statistics office,Somali National Bureau of Statistics,nbs.gov.so,www.a.nbs.gov.so,ct,A,ok,nbs.gov.so,67.227.136.207,nbs.gov.so,32244,"Liquid Web, L.L.C",commercial-host,,Liquid Web,2026-09-29
@@ -1188,50 +1188,50 @@ SOM,Statistics office,Somali National Bureau of Statistics,nbs.gov.so,nbs.gov.so
 SOM,Statistics office,Somali National Bureau of Statistics,nbs.gov.so,nbs.gov.so,root,NS,ok,ns1.liquidweb.com,69.16.223.254,,32244,"Liquid Web, L.L.C",commercial-host,,Liquid Web,2026-09-29
 SOM,Statistics office,Somali National Bureau of Statistics,nbs.gov.so,nbs.gov.so,root,NS,ok,ns.liquidweb.com,69.16.222.254,,32244,"Liquid Web, L.L.C",commercial-host,,Liquid Web,2026-09-29
 SOM,Statistics office,Somali National Bureau of Statistics,nbs.gov.so,nbs.gov.so,root,TXT,ok,v=spf1 include:_spf.google.com ~all,,,,,,,,2026-09-29
-SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,ab.moh.gov.so,ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,unattributed,,,2026-09-29
+SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,ab.moh.gov.so,ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,commercial-host,,PRIVATESYSTEMS - PrivateSystems Networks,2026-09-29
 SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,abdiaziz.raad.moh.gov.so,ct,A,ok,,20.117.177.1,,,azure,us-hyperscaler-offshore,uksouth,azure,2026-09-29
-SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,appointments.moh.gov.so,ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,unattributed,,,2026-09-29
-SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,autoconfig.moh.gov.so,dictionary,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,unattributed,,,2026-09-29
-SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,autodiscover.moh.gov.so,dictionary;ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,unattributed,,,2026-09-29
+SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,appointments.moh.gov.so,ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,commercial-host,,PRIVATESYSTEMS - PrivateSystems Networks,2026-09-29
+SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,autoconfig.moh.gov.so,dictionary,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,commercial-host,,PRIVATESYSTEMS - PrivateSystems Networks,2026-09-29
+SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,autodiscover.moh.gov.so,dictionary;ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,commercial-host,,PRIVATESYSTEMS - PrivateSystems Networks,2026-09-29
 SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,ceeljaale.raad.moh.gov.so,ct,A,ok,,20.117.177.1,,,azure,us-hyperscaler-offshore,uksouth,azure,2026-09-29
-SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,cpanel.moh.gov.so,dictionary;ct,A,ok,moh.gov.so,170.249.211.34,moh.gov.so,63410, PrivateSystems Networks GA,unattributed,,,2026-09-29
-SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,cpcalendars.moh.gov.so,dictionary;ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,unattributed,,,2026-09-29
-SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,cpcontacts.moh.gov.so,dictionary;ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,unattributed,,,2026-09-29
-SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,cportal.moh.gov.so,ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,unattributed,,,2026-09-29
-SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,daya.moh.gov.so,ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,unattributed,,,2026-09-29
+SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,cpanel.moh.gov.so,dictionary;ct,A,ok,moh.gov.so,170.249.211.34,moh.gov.so,63410, PrivateSystems Networks GA,commercial-host,,PRIVATESYSTEMS - PrivateSystems Networks,2026-09-29
+SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,cpcalendars.moh.gov.so,dictionary;ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,commercial-host,,PRIVATESYSTEMS - PrivateSystems Networks,2026-09-29
+SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,cpcontacts.moh.gov.so,dictionary;ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,commercial-host,,PRIVATESYSTEMS - PrivateSystems Networks,2026-09-29
+SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,cportal.moh.gov.so,ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,commercial-host,,PRIVATESYSTEMS - PrivateSystems Networks,2026-09-29
+SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,daya.moh.gov.so,ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,commercial-host,,PRIVATESYSTEMS - PrivateSystems Networks,2026-09-29
 SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,dayahhc.raad.gm.moh.gov.so,ct,A,ok,,172.187.128.207,,,azure,us-hyperscaler-offshore,uksouth,azure,2026-09-29
 SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,deynile.raad.moh.gov.so,ct,A,ok,,20.117.177.1,,,azure,us-hyperscaler-offshore,uksouth,azure,2026-09-29
-SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,ftp.moh.gov.so,dictionary,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,unattributed,,,2026-09-29
+SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,ftp.moh.gov.so,dictionary,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,commercial-host,,PRIVATESYSTEMS - PrivateSystems Networks,2026-09-29
 SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,hhfa.moh.gov.so,ct,A,ok,,172.105.57.196,,63949,Linode,commercial-host,,Akamai Connected Cloud (Linode),2026-09-29
 SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,hmis-training.moh.gov.so,ct,A,ok,,212.71.238.231,,63949,linode-mnt,commercial-host,,Akamai Connected Cloud (Linode),2026-09-29
 SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,hmis.moh.gov.so,ct,A,ok,,151.236.221.97,,63949,linode-mnt,commercial-host,,Akamai Connected Cloud (Linode),2026-09-29
 SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,hmisportal.moh.gov.so,ct,A,ok,,151.236.221.97,,63949,linode-mnt,commercial-host,,Akamai Connected Cloud (Linode),2026-09-29
 SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,hodanhc.raad.gm.moh.gov.so,ct,A,ok,,172.187.128.207,,,azure,us-hyperscaler-offshore,uksouth,azure,2026-09-29
-SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,hrim.moh.gov.so,ct,A,ok,,41.78.72.71,,37371,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,unattributed,,,2026-09-29
+SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,hrim.moh.gov.so,ct,A,ok,,41.78.72.71,,37371,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,telco-isp,,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,2026-09-29
 SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,localhost.moh.gov.so,dictionary,A,ok,,127.0.0.1,,,non-public address,unresolved,,,2026-09-29
-SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,mail.moh.gov.so,dictionary;ct,A,ok,moh.gov.so,170.249.211.34,moh.gov.so,63410, PrivateSystems Networks GA,unattributed,,,2026-09-29
-SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,mail2.moh.gov.so,dictionary,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,unattributed,,,2026-09-29
-SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,moh.gov.so,root;ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,unattributed,,,2026-09-29
-SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,portal.moh.gov.so,dictionary;ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,unattributed,,,2026-09-29
+SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,mail.moh.gov.so,dictionary;ct,A,ok,moh.gov.so,170.249.211.34,moh.gov.so,63410, PrivateSystems Networks GA,commercial-host,,PRIVATESYSTEMS - PrivateSystems Networks,2026-09-29
+SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,mail2.moh.gov.so,dictionary,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,commercial-host,,PRIVATESYSTEMS - PrivateSystems Networks,2026-09-29
+SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,moh.gov.so,root;ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,commercial-host,,PRIVATESYSTEMS - PrivateSystems Networks,2026-09-29
+SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,portal.moh.gov.so,dictionary;ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,commercial-host,,PRIVATESYSTEMS - PrivateSystems Networks,2026-09-29
 SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,raad.gm.moh.gov.so,ct,A,noanswer,,,,,,unresolved,,,2026-09-29
 SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,raad.moh.gov.so,ct,A,ok,,20.117.177.1,,,azure,us-hyperscaler-offshore,uksouth,azure,2026-09-29
 SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,support.raad.moh.gov.so,ct,A,ok,,20.117.141.62,,,azure,us-hyperscaler-offshore,uksouth,azure,2026-09-29
 SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,uat.raad.moh.gov.so,ct,A,ok,,20.117.94.45,,,azure,us-hyperscaler-offshore,uksouth,azure,2026-09-29
 SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,vaccine.moh.gov.so,ct,A,ok,,74.208.210.54,,8560,IONOS Inc.,commercial-host,,IONOS,2026-09-29
 SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,waberi.raad.moh.gov.so,ct,A,ok,,20.0.226.125,,,azure,us-hyperscaler-offshore,uksouth,azure,2026-09-29
-SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,webdisk.moh.gov.so,dictionary;ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,unattributed,,,2026-09-29
-SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,webmail.moh.gov.so,dictionary;ct,A,ok,moh.gov.so,170.249.211.34,moh.gov.so,63410, PrivateSystems Networks GA,unattributed,,,2026-09-29
-SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,whm.moh.gov.so,dictionary,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,unattributed,,,2026-09-29
-SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,www.ab.moh.gov.so,ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,unattributed,,,2026-09-29
+SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,webdisk.moh.gov.so,dictionary;ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,commercial-host,,PRIVATESYSTEMS - PrivateSystems Networks,2026-09-29
+SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,webmail.moh.gov.so,dictionary;ct,A,ok,moh.gov.so,170.249.211.34,moh.gov.so,63410, PrivateSystems Networks GA,commercial-host,,PRIVATESYSTEMS - PrivateSystems Networks,2026-09-29
+SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,whm.moh.gov.so,dictionary,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,commercial-host,,PRIVATESYSTEMS - PrivateSystems Networks,2026-09-29
+SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,www.ab.moh.gov.so,ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,commercial-host,,PRIVATESYSTEMS - PrivateSystems Networks,2026-09-29
 SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,www.abowcasharow.raad.moh.gov.so,ct,A,ok,,20.117.177.1,,,azure,us-hyperscaler-offshore,uksouth,azure,2026-09-29
-SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,www.appointments.moh.gov.so,ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,unattributed,,,2026-09-29
+SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,www.appointments.moh.gov.so,ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,commercial-host,,PRIVATESYSTEMS - PrivateSystems Networks,2026-09-29
 SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,www.ato.raad.moh.gov.so,ct,A,ok,,20.117.177.1,,,azure,us-hyperscaler-offshore,uksouth,azure,2026-09-29
 SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,www.bilan.raad.moh.gov.so,ct,A,ok,,20.117.177.1,,,azure,us-hyperscaler-offshore,uksouth,azure,2026-09-29
 SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,www.buulakuuloow.raad.moh.gov.so,ct,A,ok,,20.117.177.1,,,azure,us-hyperscaler-offshore,uksouth,azure,2026-09-29
 SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,www.ceeljaale.raad.moh.gov.so,ct,A,ok,,20.117.177.1,,,azure,us-hyperscaler-offshore,uksouth,azure,2026-09-29
-SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,www.cportal.moh.gov.so,ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,unattributed,,,2026-09-29
+SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,www.cportal.moh.gov.so,ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,commercial-host,,PRIVATESYSTEMS - PrivateSystems Networks,2026-09-29
 SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,www.daryeel.raad.moh.gov.so,ct,A,ok,,20.117.177.1,,,azure,us-hyperscaler-offshore,uksouth,azure,2026-09-29
-SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,www.daya.moh.gov.so,ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,unattributed,,,2026-09-29
+SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,www.daya.moh.gov.so,ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,commercial-host,,PRIVATESYSTEMS - PrivateSystems Networks,2026-09-29
 SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,www.galgaduudrhospital.raad.moh.gov.so,ct,A,ok,,172.187.128.207,,,azure,us-hyperscaler-offshore,uksouth,azure,2026-09-29
 SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,www.galinsoor.raad.moh.gov.so,ct,A,ok,,20.117.177.1,,,azure,us-hyperscaler-offshore,uksouth,azure,2026-09-29
 SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,www.hhfa.moh.gov.so,ct,A,ok,,172.105.57.196,,63949,Linode,commercial-host,,Akamai Connected Cloud (Linode),2026-09-29
@@ -1241,8 +1241,8 @@ SOM,Health ministry / National health insurance,Ministry of Health and Human Ser
 SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,www.howlahamaraakiibta.raad.moh.gov.so,ct,A,ok,,20.117.177.1,,,azure,us-hyperscaler-offshore,uksouth,azure,2026-09-29
 SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,www.hrim.moh.gov.so,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,www.maandhere.raad.moh.gov.so,ct,A,ok,,20.117.177.1,,,azure,us-hyperscaler-offshore,uksouth,azure,2026-09-29
-SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,www.moh.gov.so,root;ct,A,ok,moh.gov.so,170.249.211.34,moh.gov.so,63410, PrivateSystems Networks GA,unattributed,,,2026-09-29
-SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,www.portal.moh.gov.so,ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,unattributed,,,2026-09-29
+SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,www.moh.gov.so,root;ct,A,ok,moh.gov.so,170.249.211.34,moh.gov.so,63410, PrivateSystems Networks GA,commercial-host,,PRIVATESYSTEMS - PrivateSystems Networks,2026-09-29
+SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,www.portal.moh.gov.so,ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,commercial-host,,PRIVATESYSTEMS - PrivateSystems Networks,2026-09-29
 SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,www.support.raad.moh.gov.so,ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,www.uat.raad.moh.gov.so,ct,A,ok,,20.117.94.45,,,azure,us-hyperscaler-offshore,uksouth,azure,2026-09-29
 SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,www.waberi.raad.moh.gov.so,ct,A,ok,,20.0.226.125,,,azure,us-hyperscaler-offshore,uksouth,azure,2026-09-29
@@ -1252,45 +1252,45 @@ SOM,Health ministry / National health insurance,Ministry of Health and Human Ser
 SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,moh.gov.so,root,MX,ok,aspmx.l.google.com,192.178.223.26,,,google-workspace,us-saas,,google-workspace,2026-09-29
 SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,moh.gov.so,root,MX,ok,alt1.aspmx.l.google.com,142.250.102.27,,,google-workspace,us-saas,,google-workspace,2026-09-29
 SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,moh.gov.so,root,MX,ok,alt3.aspmx.l.google.com,142.251.127.27,,,google-workspace,us-saas,,google-workspace,2026-09-29
-SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,moh.gov.so,root,NS,ok,ns1.hiqhosting.com,170.249.211.34,,63410, PrivateSystems Networks GA,unattributed,,,2026-09-29
-SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,moh.gov.so,root,NS,ok,ns2.hiqhosting.com,170.249.211.35,,63410, PrivateSystems Networks GA,unattributed,,,2026-09-29
+SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,moh.gov.so,root,NS,ok,ns1.hiqhosting.com,170.249.211.34,,63410, PrivateSystems Networks GA,commercial-host,,PRIVATESYSTEMS - PrivateSystems Networks,2026-09-29
+SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,moh.gov.so,root,NS,ok,ns2.hiqhosting.com,170.249.211.35,,63410, PrivateSystems Networks GA,commercial-host,,PRIVATESYSTEMS - PrivateSystems Networks,2026-09-29
 SOM,Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,moh.gov.so,root,TXT,ok,v=spf1 +a +mx include:relay.mailbaby.net include:relay.mailchannels.net include:websitewelcome.com ~all,,,,,,,,2026-09-29
-SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,autoconfig.molsa.gov.so,dictionary,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,unattributed,,,2026-09-29
-SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,autodiscover.molsa.gov.so,dictionary;ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,unattributed,,,2026-09-29
-SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,cpanel.molsa.gov.so,dictionary;ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,unattributed,,,2026-09-29
+SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,autoconfig.molsa.gov.so,dictionary,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,commercial-host,,PRIVATESYSTEMS - PrivateSystems Networks,2026-09-29
+SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,autodiscover.molsa.gov.so,dictionary;ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,commercial-host,,PRIVATESYSTEMS - PrivateSystems Networks,2026-09-29
+SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,cpanel.molsa.gov.so,dictionary;ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,commercial-host,,PRIVATESYSTEMS - PrivateSystems Networks,2026-09-29
 SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,cpcalendars.molsa.gov.so,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,cpcontacts.molsa.gov.so,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,fes.molsa.gov.so,ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,unattributed,,,2026-09-29
-SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,ftp.molsa.gov.so,dictionary,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,unattributed,,,2026-09-29
+SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,fes.molsa.gov.so,ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,commercial-host,,PRIVATESYSTEMS - PrivateSystems Networks,2026-09-29
+SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,ftp.molsa.gov.so,dictionary,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,commercial-host,,PRIVATESYSTEMS - PrivateSystems Networks,2026-09-29
 SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,localhost.molsa.gov.so,dictionary,A,ok,,127.0.0.1,,,non-public address,unresolved,,,2026-09-29
-SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,mail.molsa.gov.so,dictionary;ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,unattributed,,,2026-09-29
+SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,mail.molsa.gov.so,dictionary;ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,commercial-host,,PRIVATESYSTEMS - PrivateSystems Networks,2026-09-29
 SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,molsa.gov.so,root;ct,A,ok,,172.67.214.231,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,molsa.gov.so,root;ct,A,ok,,104.21.16.177,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,molsa.gov.so,root;ct,AAAA,ok,,2606:4700:3034::6815:10b1,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,molsa.gov.so,root;ct,AAAA,ok,,2606:4700:3035::ac43:d6e7,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
-SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,nesc.molsa.gov.so,ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,unattributed,,,2026-09-29
-SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,nisdvt.molsa.gov.so,ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,unattributed,,,2026-09-29
-SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,om.molsa.gov.so,ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,unattributed,,,2026-09-29
-SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,pfm.molsa.gov.so,ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,unattributed,,,2026-09-29
-SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,seip.molsa.gov.so,ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,unattributed,,,2026-09-29
-SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,stnsps.molsa.gov.so,ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,unattributed,,,2026-09-29
-SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,tvet.molsa.gov.so,ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,unattributed,,,2026-09-29
-SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,tvetsomalia.molsa.gov.so,ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,unattributed,,,2026-09-29
+SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,nesc.molsa.gov.so,ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,commercial-host,,PRIVATESYSTEMS - PrivateSystems Networks,2026-09-29
+SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,nisdvt.molsa.gov.so,ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,commercial-host,,PRIVATESYSTEMS - PrivateSystems Networks,2026-09-29
+SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,om.molsa.gov.so,ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,commercial-host,,PRIVATESYSTEMS - PrivateSystems Networks,2026-09-29
+SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,pfm.molsa.gov.so,ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,commercial-host,,PRIVATESYSTEMS - PrivateSystems Networks,2026-09-29
+SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,seip.molsa.gov.so,ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,commercial-host,,PRIVATESYSTEMS - PrivateSystems Networks,2026-09-29
+SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,stnsps.molsa.gov.so,ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,commercial-host,,PRIVATESYSTEMS - PrivateSystems Networks,2026-09-29
+SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,tvet.molsa.gov.so,ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,commercial-host,,PRIVATESYSTEMS - PrivateSystems Networks,2026-09-29
+SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,tvetsomalia.molsa.gov.so,ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,commercial-host,,PRIVATESYSTEMS - PrivateSystems Networks,2026-09-29
 SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,webdisk.molsa.gov.so,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,webmail.molsa.gov.so,dictionary;ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,unattributed,,,2026-09-29
-SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,www.fes.molsa.gov.so,ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,unattributed,,,2026-09-29
+SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,webmail.molsa.gov.so,dictionary;ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,commercial-host,,PRIVATESYSTEMS - PrivateSystems Networks,2026-09-29
+SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,www.fes.molsa.gov.so,ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,commercial-host,,PRIVATESYSTEMS - PrivateSystems Networks,2026-09-29
 SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,www.molsa.gov.so,root;ct,A,ok,,104.21.16.177,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,www.molsa.gov.so,root;ct,A,ok,,172.67.214.231,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,www.molsa.gov.so,root;ct,AAAA,ok,,2606:4700:3034::6815:10b1,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,www.molsa.gov.so,root;ct,AAAA,ok,,2606:4700:3035::ac43:d6e7,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
-SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,www.nesc.molsa.gov.so,ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,unattributed,,,2026-09-29
-SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,www.nisdvt.molsa.gov.so,ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,unattributed,,,2026-09-29
-SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,www.om.molsa.gov.so,ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,unattributed,,,2026-09-29
-SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,www.pfm.molsa.gov.so,ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,unattributed,,,2026-09-29
-SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,www.seip.molsa.gov.so,ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,unattributed,,,2026-09-29
-SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,www.stnsps.molsa.gov.so,ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,unattributed,,,2026-09-29
-SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,www.tvet.molsa.gov.so,ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,unattributed,,,2026-09-29
-SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,www.tvetsomalia.molsa.gov.so,ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,unattributed,,,2026-09-29
+SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,www.nesc.molsa.gov.so,ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,commercial-host,,PRIVATESYSTEMS - PrivateSystems Networks,2026-09-29
+SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,www.nisdvt.molsa.gov.so,ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,commercial-host,,PRIVATESYSTEMS - PrivateSystems Networks,2026-09-29
+SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,www.om.molsa.gov.so,ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,commercial-host,,PRIVATESYSTEMS - PrivateSystems Networks,2026-09-29
+SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,www.pfm.molsa.gov.so,ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,commercial-host,,PRIVATESYSTEMS - PrivateSystems Networks,2026-09-29
+SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,www.seip.molsa.gov.so,ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,commercial-host,,PRIVATESYSTEMS - PrivateSystems Networks,2026-09-29
+SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,www.stnsps.molsa.gov.so,ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,commercial-host,,PRIVATESYSTEMS - PrivateSystems Networks,2026-09-29
+SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,www.tvet.molsa.gov.so,ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,commercial-host,,PRIVATESYSTEMS - PrivateSystems Networks,2026-09-29
+SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,www.tvetsomalia.molsa.gov.so,ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,commercial-host,,PRIVATESYSTEMS - PrivateSystems Networks,2026-09-29
 SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,molsa.gov.so,root,MX,ok,aspmx.l.google.com,192.178.223.27,,,google-workspace,us-saas,,google-workspace,2026-09-29
 SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,molsa.gov.so,root,MX,ok,alt3.aspmx.l.google.com,142.251.127.27,,,google-workspace,us-saas,,google-workspace,2026-09-29
 SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,molsa.gov.so,root,MX,ok,alt4.aspmx.l.google.com,172.253.148.26,,,google-workspace,us-saas,,google-workspace,2026-09-29
@@ -1301,18 +1301,18 @@ SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,mo
 SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,molsa.gov.so,root,TXT,ok,v=spf1 a mx include:websitewelcome.com include:_spf.google.com ~all,,,,,,,,2026-09-29
 SOM,Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,_dmarc.molsa.gov.so,root,TXT,ok,v=DMARC1; p=none; rua=mailto:support@nca.gov.so;,,,,,,,,2026-09-29
 SOM,Ports authority,Somali Ports Authority,spa.gov.so,autodiscover.spa.gov.so,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SOM,Ports authority,Somali Ports Authority,spa.gov.so,cpanel.spa.gov.so,dictionary;ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,unattributed,,,2026-09-29
+SOM,Ports authority,Somali Ports Authority,spa.gov.so,cpanel.spa.gov.so,dictionary;ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,commercial-host,,PRIVATESYSTEMS - PrivateSystems Networks,2026-09-29
 SOM,Ports authority,Somali Ports Authority,spa.gov.so,cpcalendars.spa.gov.so,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
 SOM,Ports authority,Somali Ports Authority,spa.gov.so,cpcontacts.spa.gov.so,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SOM,Ports authority,Somali Ports Authority,spa.gov.so,ftp.spa.gov.so,dictionary,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,unattributed,,,2026-09-29
+SOM,Ports authority,Somali Ports Authority,spa.gov.so,ftp.spa.gov.so,dictionary,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,commercial-host,,PRIVATESYSTEMS - PrivateSystems Networks,2026-09-29
 SOM,Ports authority,Somali Ports Authority,spa.gov.so,localhost.spa.gov.so,dictionary,A,ok,,127.0.0.1,,,non-public address,unresolved,,,2026-09-29
-SOM,Ports authority,Somali Ports Authority,spa.gov.so,mail.spa.gov.so,dictionary;ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,unattributed,,,2026-09-29
+SOM,Ports authority,Somali Ports Authority,spa.gov.so,mail.spa.gov.so,dictionary;ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,commercial-host,,PRIVATESYSTEMS - PrivateSystems Networks,2026-09-29
 SOM,Ports authority,Somali Ports Authority,spa.gov.so,spa.gov.so,root;ct,A,ok,,172.67.216.198,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 SOM,Ports authority,Somali Ports Authority,spa.gov.so,spa.gov.so,root;ct,A,ok,,104.21.24.43,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 SOM,Ports authority,Somali Ports Authority,spa.gov.so,spa.gov.so,root;ct,AAAA,ok,,2606:4700:3033::6815:182b,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 SOM,Ports authority,Somali Ports Authority,spa.gov.so,spa.gov.so,root;ct,AAAA,ok,,2606:4700:3035::ac43:d8c6,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 SOM,Ports authority,Somali Ports Authority,spa.gov.so,webdisk.spa.gov.so,dictionary;ct,A,nxdomain,,,,,,unresolved,,,2026-09-29
-SOM,Ports authority,Somali Ports Authority,spa.gov.so,webmail.spa.gov.so,dictionary;ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,unattributed,,,2026-09-29
+SOM,Ports authority,Somali Ports Authority,spa.gov.so,webmail.spa.gov.so,dictionary;ct,A,ok,,170.249.211.34,,63410, PrivateSystems Networks GA,commercial-host,,PRIVATESYSTEMS - PrivateSystems Networks,2026-09-29
 SOM,Ports authority,Somali Ports Authority,spa.gov.so,www.spa.gov.so,root;ct,A,ok,,104.21.24.43,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 SOM,Ports authority,Somali Ports Authority,spa.gov.so,www.spa.gov.so,root;ct,A,ok,,172.67.216.198,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
 SOM,Ports authority,Somali Ports Authority,spa.gov.so,www.spa.gov.so,root;ct,AAAA,ok,,2606:4700:3033::6815:182b,,,cloudflare,cdn-origin-unknown,,cloudflare,2026-09-29
