@@ -1,0 +1,33 @@
+iso3,type,institution,domains,names,routable,us_hyperscaler_share,african_region_share,us_saas_share,cdn_share,national_or_self_share,unattributed,mail_provider,mail_security,tangled_hybrid,scan_date
+MRT,Presidency,Présidence de la République Islamique de Mauritanie,presidence.mr,2,5,0.0,0.0,0.0,0.0,0.0,5,other:MNT-INSA,,false,2026-09-29
+MRT,Parliament,Assemblée nationale,assemblee-nationale.mr,13,17,0.0,0.0,0.0,0.0,0.0,0,other:Namecheap,,false,2026-09-29
+MRT,Foreign Affairs,Ministère des Affaires étrangères,diplomatie.gov.mr,17,31,3.2,0.0,41.9,0.0,0.0,16,m365,,false,2026-09-29
+MRT,Defence,Ministère de la Défense nationale,defense.gov.mr,8,24,0.0,0.0,70.8,0.0,0.0,7,m365,,false,2026-09-29
+MRT,Justice,Ministère de la Justice,justice.gov.mr,6,19,0.0,0.0,68.4,0.0,0.0,6,m365,,false,2026-09-29
+MRT,Treasury / Finance,Ministère de l'Économie et des Finances,finances.gov.mr,9,22,0.0,0.0,59.1,0.0,0.0,9,m365,,false,2026-09-29
+MRT,Revenue Service,Direction générale des Impôts,impots.gov.mr,5,22,0.0,0.0,77.3,0.0,0.0,5,m365,,false,2026-09-29
+MRT,Interior / Home Affairs,Ministère de l'Intérieur et de la Décentralisation,interieur.gov.mr,13,26,0.0,0.0,50.0,0.0,0.0,13,m365,,false,2026-09-29
+MRT,Central Bank,Banque Centrale de Mauritanie,bcm.mr,21,36,0.0,0.0,38.9,16.7,0.0,15,m365,,false,2026-09-29
+MRT,Commercial Banks,Banque Populaire de Mauritanie,bpm.mr,39,51,2.0,0.0,0.0,51.0,0.0,23,google,,false,2026-09-29
+MRT,Commercial Banks,Banque Mauritanienne pour l'Investissement,bmi.mr,19,37,2.7,0.0,35.1,5.4,0.0,8,m365,,false,2026-09-29
+MRT,Commercial Banks,Banque Mauritanienne pour le Commerce International,bmci.mr,4,10,0.0,0.0,0.0,0.0,0.0,8,other:MATTEL|Mauritanian Telecommunication Company - Mauritanian Telecommunication Com,,false,2026-09-29
+MRT,Commercial Banks,Banque Internationale d'Investissement,b2i.mr,13,41,12.2,0.0,61.0,4.9,0.0,0,m365,,false,2026-09-29
+MRT,Commercial Banks,Banque Nationale de Mauritanie,bnm.mr,24,19,0.0,0.0,0.0,0.0,0.0,12,other:Mauritanian Telecommunication Company - Mauritanian Telecommunication Company,,false,2026-09-29
+MRT,Commercial Banks,Caisse de Dépôts et de Développement,cdd.mr,13,15,0.0,0.0,0.0,0.0,0.0,14,other:MNT-O2SWITCH,,false,2026-09-29
+MRT,Commercial Banks,Banque Al Wava Mauritanienne Islamique,bamis.mr,20,48,0.0,0.0,0.0,0.0,0.0,48,other:MNT-INSA,,false,2026-09-29
+MRT,Commercial Banks,Banque Islamique de Mauritanie,bim-bank.mr,4,24,25.0,0.0,66.7,0.0,0.0,2,m365,,false,2026-09-29
+MRT,Commercial Banks,Banque de Commerce et d'Industrie,bci.mr,10,5,0.0,0.0,0.0,0.0,0.0,4,none,,false,2026-09-29
+MRT,Civil registry / National ID authority,Agence Nationale du Registre des Populations et des Titres Sécurisés,anrpts.gov.mr,6,24,0.0,0.0,70.8,0.0,0.0,7,m365,,false,2026-09-29
+MRT,Electoral commission,Commission Électorale Nationale Indépendante,ceni.mr,15,4,0.0,0.0,0.0,100.0,0.0,0,none,,false,2026-09-29
+MRT,Statistics office,Agence Nationale de la Statistique et de l'Analyse Démographique et Économique,ansade.mr,79,16,0.0,0.0,0.0,0.0,0.0,0,other:Liquid Web,,false,2026-09-29
+MRT,Health ministry / National health insurance,Ministère de la Santé,sante.gov.mr,15,23,0.0,0.0,39.1,0.0,0.0,14,m365,,false,2026-09-29
+MRT,Health ministry / National health insurance,Caisse Nationale d'Assurance Maladie,cnam.mr,6,17,0.0,0.0,76.5,0.0,0.0,4,m365,,false,2026-09-29
+MRT,Social protection / Social registry,Caisse Nationale de Sécurité Sociale,cnss.mr,23,22,9.1,0.0,0.0,0.0,0.0,19,other:Internap Holding LLC,,false,2026-09-29
+MRT,National payment switch,GIMTEL,gimtel.mr,28,124,0.0,0.0,0.0,98.4,0.0,2,other:MNT-INSA,,false,2026-09-29
+MRT,Public procurement authority,Autorité de Régulation des Marchés Publics,armp.mr,13,22,0.0,0.0,0.0,0.0,0.0,0,other:OVH,,false,2026-09-29
+MRT,Energy utility,Société Mauritanienne d'Électricité,somelec.mr,30,33,0.0,0.0,0.0,0.0,0.0,20,other:OVH,,false,2026-09-29
+MRT,Ports authority,Port Autonome de Nouakchott,pan.mr,12,10,20.0,0.0,0.0,0.0,0.0,7,other:MNT-INSA,,false,2026-09-29
+MRT,State-owned telco / National backbone operator,Mauritel,mauritel.mr,16,31,0.0,0.0,0.0,0.0,0.0,20,other:Mauritanian Telecommunication Company,,false,2026-09-29
+MRT,E-government agency,Ministère de la Transformation Numérique (portail des procédures),procedures.gov.mr,3,20,0.0,0.0,80.0,0.0,0.0,4,m365,,false,2026-09-29
+MRT,Communications regulator,Autorité de Régulation Multisectorielle,are.mr,17,38,0.0,0.0,0.0,0.0,0.0,4,other:Unified Layer (Bluehost),,false,2026-09-29
+MRT,Audit office,Cour des Comptes,courdescomptes.mr,12,59,0.0,0.0,22.0,78.0,0.0,0,m365,,false,2026-09-29

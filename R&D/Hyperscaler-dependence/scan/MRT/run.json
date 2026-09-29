@@ -1,0 +1,383 @@
+{
+ "iso3": "MRT",
+ "scan_date": "2026-09-29",
+ "range_files": {
+  "aws.json": "2026-09-29",
+  "google-cloud.json": "2026-09-29",
+  "google.json": "2026-09-29",
+  "cloudflare-v4.txt": "2026-09-29",
+  "cloudflare-v6.txt": "2026-09-29",
+  "oracle.json": "2026-09-29",
+  "azure.json": "2026-09-29"
+ },
+ "range_file_errors": {},
+ "domains": {
+  "presidence.mr": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "assemblee-nationale.mr": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 10,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "diplomatie.gov.mr": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 15,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "defense.gov.mr": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 5,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "justice.gov.mr": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "finances.gov.mr": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 6,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "impots.gov.mr": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "interieur.gov.mr": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 10,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bcm.mr": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 13,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bpm.mr": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 33,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bmi.mr": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 9,
+   "dictionary_hits": 9,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bmci.mr": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "b2i.mr": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 8,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bnm.mr": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 20,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cdd.mr": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 10,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bamis.mr": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 6,
+   "dictionary_hits": 13,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bim-bank.mr": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bci.mr": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 10,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "anrpts.gov.mr": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 4,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ceni.mr": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 15,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "ansade.mr": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 77,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "sante.gov.mr": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 12,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cnam.mr": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 3,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cnss.mr": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 19,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "gimtel.mr": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 12,
+   "dictionary_hits": 14,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "armp.mr": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 7,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "somelec.mr": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 24,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "pan.mr": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 9,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mauritel.mr": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 4,
+   "dictionary_hits": 11,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "procedures.gov.mr": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "are.mr": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 14,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "courdescomptes.mr": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 10,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  }
+ },
+ "new_asns": {
+  "29544": "Mauritanian Telecommunication Company - Mauritanian Telecommunication Company",
+  "328997": "RIMATEL-SA - RIMATEL-SA",
+  "37508": "MATTEL - MATTEL"
+ },
+ "rollup": {
+  "all": {
+   "routable": 895,
+   "us_hyperscaler_share": 2.0,
+   "african_region_share": 0.0,
+   "us_saas_share": 24.8,
+   "cdn_share": 23.2,
+   "national_or_self_share": 0.0,
+   "unattributed": 296,
+   "by_category": {
+    "unattributed": 296,
+    "commercial-host": 117,
+    "us-saas": 222,
+    "us-hyperscaler-offshore": 18,
+    "cdn-origin-unknown": 208,
+    "unresolved": 32,
+    "african-colo": 2
+   },
+   "institutions": 32,
+   "names": 515,
+   "m365": 15,
+   "google": 1,
+   "tangled_hybrid": 0,
+   "any_us_hyperscaler": 7
+  },
+  "government": {
+   "routable": 645,
+   "us_hyperscaler_share": 0.8,
+   "african_region_share": 0.0,
+   "us_saas_share": 26.0,
+   "cdn_share": 27.6,
+   "national_or_self_share": 0.0,
+   "unattributed": 177,
+   "by_category": {
+    "unattributed": 177,
+    "commercial-host": 105,
+    "us-saas": 168,
+    "us-hyperscaler-offshore": 5,
+    "cdn-origin-unknown": 178,
+    "unresolved": 12
+   },
+   "institutions": 23,
+   "names": 369,
+   "m365": 12,
+   "google": 0,
+   "tangled_hybrid": 0,
+   "any_us_hyperscaler": 3
+  },
+  "bank": {
+   "routable": 250,
+   "us_hyperscaler_share": 5.2,
+   "african_region_share": 0.0,
+   "us_saas_share": 21.6,
+   "cdn_share": 12.0,
+   "national_or_self_share": 0.0,
+   "unattributed": 119,
+   "by_category": {
+    "unattributed": 119,
+    "cdn-origin-unknown": 30,
+    "us-hyperscaler-offshore": 13,
+    "commercial-host": 12,
+    "us-saas": 54,
+    "unresolved": 20,
+    "african-colo": 2
+   },
+   "institutions": 9,
+   "names": 146,
+   "m365": 3,
+   "google": 1,
+   "tangled_hybrid": 0,
+   "any_us_hyperscaler": 4
+  }
+ },
+ "findings": []
+}
