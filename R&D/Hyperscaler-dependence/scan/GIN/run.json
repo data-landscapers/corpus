@@ -1,0 +1,405 @@
+{
+ "iso3": "GIN",
+ "scan_date": "2026-09-29",
+ "range_files": {
+  "aws.json": "2026-09-28",
+  "google-cloud.json": "2026-09-28",
+  "google.json": "2026-09-28",
+  "cloudflare-v4.txt": "2026-09-28",
+  "cloudflare-v6.txt": "2026-09-28",
+  "oracle.json": "2026-09-28",
+  "azure.json": "2026-09-28"
+ },
+ "range_file_errors": {},
+ "domains": {
+  "presidence.gov.gn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 4,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cnt.gov.gn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mae.gov.gn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 8,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "defense.gov.gn": {
+   "wildcard": true,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "minspc.gov.gn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 6,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "justiceguinee.gov.gn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 4,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mef.gov.gn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 27,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mbudget.gov.gn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 30,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "dgi.gov.gn": {
+   "wildcard": true,
+   "ct_status": "ok",
+   "ct_names": 31,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "dgd.gov.gn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 7,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "matd.gov.gn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 12,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bcrg-guinee.org": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 9,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "afgbank.gn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "big-bank.net": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bpmgbank.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 9,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "fbnbankguinea.com": {
+   "wildcard": true,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nsiabanqueguinee.net": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 4,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": true,
+   "has_mx": false
+  },
+  "dge.gov.gn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 49,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "stat-guinee.org": {
+   "wildcard": true,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "sante.gov.gn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 75,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "anies.gov.gn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 11,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "habitat.gov.gn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 8,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "guim-gn.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cnss.gov.gn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 50,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "armpguinee.org": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 6,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "edg.com.gn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 27,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "portconakry.gov.gn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "sogeb.net.gn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 13,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ande.gov.gn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 13,
+   "dictionary_hits": 8,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "gov.gn": {
+   "wildcard": false,
+   "ct_status": "not run",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "root-only: parent zone of 21 seeded domains",
+   "dead": false,
+   "has_mx": false
+  },
+  "anssi.gov.gn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 19,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "arpt.gov.gn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 19,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ccomptes.org.gn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 3,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "anlcpbg.gov.gn": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 7,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  }
+ },
+ "new_asns": {
+  "4788": "TTSSB-MY - TM TECHNOLOGY SERVICES SDN. BHD.",
+  "328923": "KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U",
+  "37430": "VDC Telecom - VDC Telecom",
+  "23470": "RELIABLESITE - ReliableSite.Net LLC",
+  "328899": "Afribone - Guinee SA - Afribone - Guinee SA",
+  "37141": "ETI SA - ETI SA",
+  "36925": "MEDITELECOM - MEDITELECOM",
+  "328244": "Skyvision Guinee SA - Skyvision Guinee SA",
+  "37665": "MOUNA Group Technology Sa. - MOUNA Group Technology Sa."
+ },
+ "rollup": {
+  "all": {
+   "routable": 747,
+   "us_hyperscaler_share": 33.6,
+   "african_region_share": 0.0,
+   "us_saas_share": 18.3,
+   "cdn_share": 1.1,
+   "national_or_self_share": 0.7,
+   "unattributed": 210,
+   "by_category": {
+    "us-hyperscaler-offshore": 251,
+    "unresolved": 5,
+    "us-saas": 137,
+    "commercial-host": 131,
+    "unattributed": 210,
+    "cdn-origin-unknown": 8,
+    "self-hosted": 5
+   },
+   "institutions": 34,
+   "names": 610,
+   "m365": 12,
+   "google": 2,
+   "tangled_hybrid": 1,
+   "any_us_hyperscaler": 21
+  },
+  "government": {
+   "routable": 677,
+   "us_hyperscaler_share": 33.4,
+   "african_region_share": 0.0,
+   "us_saas_share": 18.9,
+   "cdn_share": 1.2,
+   "national_or_self_share": 0.7,
+   "unattributed": 191,
+   "by_category": {
+    "us-hyperscaler-offshore": 226,
+    "unresolved": 5,
+    "us-saas": 128,
+    "commercial-host": 114,
+    "unattributed": 191,
+    "cdn-origin-unknown": 8,
+    "self-hosted": 5
+   },
+   "institutions": 29,
+   "names": 578,
+   "m365": 10,
+   "google": 2,
+   "tangled_hybrid": 1,
+   "any_us_hyperscaler": 19
+  },
+  "bank": {
+   "routable": 70,
+   "us_hyperscaler_share": 35.7,
+   "african_region_share": 0.0,
+   "us_saas_share": 12.9,
+   "cdn_share": 0.0,
+   "national_or_self_share": 0.0,
+   "unattributed": 19,
+   "by_category": {
+    "commercial-host": 17,
+    "us-saas": 9,
+    "us-hyperscaler-offshore": 25,
+    "unattributed": 19
+   },
+   "institutions": 5,
+   "names": 32,
+   "m365": 2,
+   "google": 0,
+   "tangled_hybrid": 0,
+   "any_us_hyperscaler": 2
+  }
+ },
+ "findings": []
+}

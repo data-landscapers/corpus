@@ -1,0 +1,35 @@
+iso3,type,institution,domains,names,routable,us_hyperscaler_share,african_region_share,us_saas_share,cdn_share,national_or_self_share,unattributed,mail_provider,mail_security,tangled_hybrid,scan_date
+GIN,Presidency,Présidence de la République de Guinée,presidence.gov.gn,9,14,92.9,0.0,0.0,0.0,0.0,0,other:google-cloud,,false,2026-09-29
+GIN,Parliament,Conseil national de la transition,cnt.gov.gn,5,26,42.3,0.0,50.0,0.0,0.0,0,m365,,false,2026-09-29
+GIN,Foreign Affairs,"Ministère des Affaires étrangères, de l'Intégration africaine et des Guinéens établis à l'étranger",mae.gov.gn,13,13,92.3,0.0,0.0,0.0,0.0,1,other:google-cloud,,false,2026-09-29
+GIN,Defence,Ministère de la Défense nationale,defense.gov.gn,3,7,100.0,0.0,0.0,0.0,0.0,0,other:google-cloud,,false,2026-09-29
+GIN,Police,Ministère de la Sécurité et de la Protection civile,minspc.gov.gn,6,0,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+GIN,Justice,Ministère de la Justice et des Droits de l'Homme,justiceguinee.gov.gn,9,12,100.0,0.0,0.0,0.0,0.0,0,other:google-cloud,,false,2026-09-29
+GIN,Treasury / Finance,Ministère de l'Économie et des Finances,mef.gov.gn,32,19,68.4,0.0,0.0,0.0,0.0,3,other:google-cloud,,false,2026-09-29
+GIN,Treasury / Finance,Ministère du Budget,mbudget.gov.gn,33,34,0.0,0.0,14.7,0.0,0.0,18,google,,false,2026-09-29
+GIN,Revenue Service,Direction générale des impôts,dgi.gov.gn,32,36,55.6,0.0,0.0,0.0,0.0,14,other:google-cloud,,false,2026-09-29
+GIN,Customs,Direction générale des douanes,dgd.gov.gn,10,13,0.0,0.0,0.0,0.0,0.0,6,other:VDC Telecom - VDC Telecom,,false,2026-09-29
+GIN,Interior / Home Affairs,Ministère de l'Administration du territoire et de la Décentralisation,matd.gov.gn,17,25,44.0,0.0,52.0,0.0,0.0,0,m365,,false,2026-09-29
+GIN,Central Bank,Banque centrale de la République de Guinée,bcrg-guinee.org,12,23,0.0,0.0,39.1,0.0,0.0,1,m365,,false,2026-09-29
+GIN,Commercial Banks,AFG Bank Guinée,afgbank.gn,6,24,54.2,0.0,37.5,0.0,0.0,0,m365,,false,2026-09-29
+GIN,Commercial Banks,Banque Islamique de Guinée,big-bank.net,8,15,0.0,0.0,0.0,0.0,0.0,14,other:fr-lws-1-mnt,,false,2026-09-29
+GIN,Commercial Banks,Banque Populaire Maroco-Guinéenne,bpmgbank.com,11,19,0.0,0.0,0.0,0.0,0.0,5,other:Wana Corporate - Wana Corporate,,false,2026-09-29
+GIN,Commercial Banks,FirstBank Guinée,fbnbankguinea.com,3,12,100.0,0.0,0.0,0.0,0.0,0,m365,trend-micro,false,2026-09-29
+GIN,Commercial Banks,NSIA Banque Guinée,nsiabanqueguinee.net,4,0,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+GIN,Electoral commission,Direction générale des élections,dge.gov.gn,57,56,19.6,0.0,0.0,0.0,0.0,45,other:google-cloud,,false,2026-09-29
+GIN,Statistics office,Institut national de la statistique,stat-guinee.org,2,7,0.0,0.0,0.0,0.0,0.0,7,none,,false,2026-09-29
+GIN,Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,81,47,31.9,0.0,27.7,0.0,0.0,15,m365,,false,2026-09-29
+GIN,Social protection / Social registry,Agence nationale d'inclusion économique et sociale,anies.gov.gn,17,18,0.0,0.0,0.0,0.0,0.0,0,other:Unified Layer (Bluehost),,false,2026-09-29
+GIN,Land registry,"Ministère de l'Urbanisme, de l'Habitat et de l'Aménagement du territoire",habitat.gov.gn,15,19,84.2,0.0,0.0,0.0,0.0,0,other:google-cloud,,false,2026-09-29
+GIN,National payment switch,Guinéenne de Monétique,guim-gn.com,10,29,0.0,0.0,44.8,0.0,0.0,15,m365,,false,2026-09-29
+GIN,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,55,52,40.4,0.0,9.6,0.0,0.0,20,google,,false,2026-09-29
+GIN,Public procurement authority,Autorité de régulation des marchés publics,armpguinee.org,12,21,0.0,0.0,0.0,0.0,0.0,0,other:OVH,,false,2026-09-29
+GIN,Energy utility,Électricité de Guinée,edg.com.gn,33,38,23.7,0.0,23.7,10.5,0.0,7,m365,,false,2026-09-29
+GIN,Ports authority,Port autonome de Conakry,portconakry.gov.gn,8,12,100.0,0.0,0.0,0.0,0.0,0,other:google-cloud,,false,2026-09-29
+GIN,State-owned telco / National backbone operator,Société de gestion et d'exploitation du backbone national,sogeb.net.gn,20,18,66.7,0.0,0.0,0.0,27.8,0,other:google-cloud,,true,2026-09-29
+GIN,E-government agency,Agence nationale de digitalisation de l'État,ande.gov.gn,22,35,28.6,0.0,37.1,0.0,0.0,10,m365,,false,2026-09-29
+GIN,E-government agency,Portail officiel e-Gouv (zone gov.gn),gov.gn,2,0,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+GIN,Cybersecurity agency / National CERT,Agence nationale de la sécurité des systèmes d'information,anssi.gov.gn,20,17,5.9,0.0,0.0,23.5,0.0,7,other:IKOULA-MNT,,false,2026-09-29
+GIN,Communications regulator,Autorité de régulation des postes et télécommunications,arpt.gov.gn,23,45,20.0,0.0,28.9,0.0,0.0,14,m365,,false,2026-09-29
+GIN,Audit office,Cour des comptes,ccomptes.org.gn,11,20,55.0,0.0,45.0,0.0,0.0,0,m365,,false,2026-09-29
+GIN,Anti-corruption commission,Agence nationale de lutte contre la corruption et de promotion de la bonne gouvernance,anlcpbg.gov.gn,9,21,0.0,0.0,61.9,0.0,0.0,8,m365,,false,2026-09-29

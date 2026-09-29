@@ -1,43 +1,43 @@
 type,institution,domain,email_domain,status,note
-Presidency,Présidence de la République de Guinée,presidence.gov.gn,,confirmed 2026-09-29,
-Parliament,Conseil national de la transition,cnt.gov.gn,,confirmed 2026-09-29,transitional legislature
-Foreign Affairs,"Ministère des Affaires étrangères, de l'Intégration africaine et des Guinéens établis à l'étranger",mae.gov.gn,,confirmed 2026-09-29,
-Defence,Ministère de la Défense nationale,defense.gov.gn,,confirmed 2026-09-29,
+Presidency,Présidence de la République de Guinée,presidence.gov.gn,presidence.gov.gn,scanned 2026-09-29,
+Parliament,Conseil national de la transition,cnt.gov.gn,cnt.gov.gn,scanned 2026-09-29,transitional legislature
+Foreign Affairs,"Ministère des Affaires étrangères, de l'Intégration africaine et des Guinéens établis à l'étranger",mae.gov.gn,mae.gov.gn,scanned 2026-09-29,
+Defence,Ministère de la Défense nationale,defense.gov.gn,defense.gov.gn,scanned 2026-09-29,
 Armed Forces,Forces armées guinéennes,,,absent,shares defense.gov.gn with Defence
-Police,Ministère de la Sécurité et de la Protection civile,minspc.gov.gn,,unconfirmed 2026-09-29,ministry over the national police; homepage did not load: ConnectionError
-Justice,Ministère de la Justice et des Droits de l'Homme,justiceguinee.gov.gn,,confirmed 2026-09-29,
-Treasury / Finance,Ministère de l'Économie et des Finances,mef.gov.gn,,confirmed 2026-09-29,
-Treasury / Finance,Ministère du Budget,mbudget.gov.gn,,confirmed 2026-09-29,
-Revenue Service,Direction générale des impôts,dgi.gov.gn,,confirmed 2026-09-29,
-Customs,Direction générale des douanes,dgd.gov.gn,,confirmed 2026-09-29,
+Police,Ministère de la Sécurité et de la Protection civile,minspc.gov.gn,,scanned 2026-09-29,ministry over the national police; homepage did not load: ConnectionError
+Justice,Ministère de la Justice et des Droits de l'Homme,justiceguinee.gov.gn,justiceguinee.gov.gn,scanned 2026-09-29,
+Treasury / Finance,Ministère de l'Économie et des Finances,mef.gov.gn,mef.gov.gn,scanned 2026-09-29,
+Treasury / Finance,Ministère du Budget,mbudget.gov.gn,mbudget.gov.gn,scanned 2026-09-29,
+Revenue Service,Direction générale des impôts,dgi.gov.gn,dgi.gov.gn,scanned 2026-09-29,
+Customs,Direction générale des douanes,dgd.gov.gn,dgd.gov.gn,scanned 2026-09-29,
 Intelligence,Services de renseignement,,,absent,no public domain found
-Interior / Home Affairs,Ministère de l'Administration du territoire et de la Décentralisation,matd.gov.gn,,confirmed 2026-09-29,
-Central Bank,Banque centrale de la République de Guinée,bcrg-guinee.org,,confirmed 2026-09-29,
-Commercial Banks,AFG Bank Guinée,afgbank.gn,,confirmed 2026-09-29,"Ranking source: BCRG Direction de la supervision bancaire, Rapport d'activités 2023 (bcrg-guinee.org/wp-content/uploads/2025/06/DIRECTION-DE-LA-SUPERVISION-BANCAIRE.pdf) with licensed list bcrg-guinee.org/wp-content/uploads/2023/03/BANQUES-AGREEES.pdf; no per-bank asset table found so these are banks of the 2023 top tiers with country-specific domains; formerly Société Générale Guinée. Left out for group-wide domains only: Ecobank (ecobank.com) UBA (ubagroup.com) Orabank (orabank.net) Vista Bank and Vistagui (vistabankgroup.com) BSIC (bsicbank.com) Afriland (afrilandfirstbank.com) BCI (bci-banque.com)"
-Commercial Banks,Banque Islamique de Guinée,big-bank.net,,confirmed 2026-09-29,
-Commercial Banks,Banque Populaire Maroco-Guinéenne,bpmgbank.com,,confirmed 2026-09-29,
-Commercial Banks,FirstBank Guinée,fbnbankguinea.com,,confirmed 2026-09-29,
-Commercial Banks,NSIA Banque Guinée,nsiabanqueguinee.net,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
+Interior / Home Affairs,Ministère de l'Administration du territoire et de la Décentralisation,matd.gov.gn,matd.gov.gn,scanned 2026-09-29,
+Central Bank,Banque centrale de la République de Guinée,bcrg-guinee.org,bcrg-guinee.org,scanned 2026-09-29,
+Commercial Banks,AFG Bank Guinée,afgbank.gn,afgbank.gn,scanned 2026-09-29,"Ranking source: BCRG Direction de la supervision bancaire, Rapport d'activités 2023 (bcrg-guinee.org/wp-content/uploads/2025/06/DIRECTION-DE-LA-SUPERVISION-BANCAIRE.pdf) with licensed list bcrg-guinee.org/wp-content/uploads/2023/03/BANQUES-AGREEES.pdf; no per-bank asset table found so these are banks of the 2023 top tiers with country-specific domains; formerly Société Générale Guinée. Left out for group-wide domains only: Ecobank (ecobank.com) UBA (ubagroup.com) Orabank (orabank.net) Vista Bank and Vistagui (vistabankgroup.com) BSIC (bsicbank.com) Afriland (afrilandfirstbank.com) BCI (bci-banque.com)"
+Commercial Banks,Banque Islamique de Guinée,big-bank.net,big-bank.net,scanned 2026-09-29,
+Commercial Banks,Banque Populaire Maroco-Guinéenne,bpmgbank.com,bpmgbank.com,scanned 2026-09-29,
+Commercial Banks,FirstBank Guinée,fbnbankguinea.com,fbnbankguinea.com,scanned 2026-09-29,
+Commercial Banks,NSIA Banque Guinée,nsiabanqueguinee.net,,dead,homepage did not load: ConnectionError
 Civil registry / National ID authority,Direction nationale de l'état civil,,,absent,no own domain; under matd.gov.gn
 Data protection authority,Autorité de protection des données à caractère personnel,,,absent,authority not yet operating; no domain found
-Electoral commission,Direction générale des élections,dge.gov.gn,,confirmed 2026-09-29,
-Statistics office,Institut national de la statistique,stat-guinee.org,,confirmed 2026-09-29,
+Electoral commission,Direction générale des élections,dge.gov.gn,dge.gov.gn,scanned 2026-09-29,
+Statistics office,Institut national de la statistique,stat-guinee.org,,scanned 2026-09-29,
 Immigration / Passports,Direction centrale de la police de l'air et des frontières,,,absent,shares minspc.gov.gn with Police
-Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,,confirmed 2026-09-29,
-Social protection / Social registry,Agence nationale d'inclusion économique et sociale,anies.gov.gn,,confirmed 2026-09-29,
-Land registry,"Ministère de l'Urbanisme, de l'Habitat et de l'Aménagement du territoire",habitat.gov.gn,,confirmed 2026-09-29,ministry over the land registry and cadastre; no separate domain found
-National payment switch,Guinéenne de Monétique,guim-gn.com,,confirmed 2026-09-29,
+Health ministry / National health insurance,Ministère de la Santé et de l'Hygiène publique,sante.gov.gn,sante.gov.gn,scanned 2026-09-29,
+Social protection / Social registry,Agence nationale d'inclusion économique et sociale,anies.gov.gn,anies.gov.gn,scanned 2026-09-29,
+Land registry,"Ministère de l'Urbanisme, de l'Habitat et de l'Aménagement du territoire",habitat.gov.gn,habitat.gov.gn,scanned 2026-09-29,ministry over the land registry and cadastre; no separate domain found
+National payment switch,Guinéenne de Monétique,guim-gn.com,guim-gn.com,scanned 2026-09-29,
 Stock exchange,Bourse nationale de valeurs mobilières,,,absent,does not exist; BCRG relaunched the project in March 2026
 Securities regulator,Autorité des marchés financiers,,,absent,none established; BCRG oversees
-Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,,confirmed 2026-09-29,
-Public procurement authority,Autorité de régulation des marchés publics,armpguinee.org,,confirmed 2026-09-29,
-Energy utility,Électricité de Guinée,edg.com.gn,,confirmed 2026-09-29,
-Ports authority,Port autonome de Conakry,portconakry.gov.gn,,confirmed 2026-09-29,
-State-owned telco / National backbone operator,Société de gestion et d'exploitation du backbone national,sogeb.net.gn,,confirmed 2026-09-29,
-E-government agency,Agence nationale de digitalisation de l'État,ande.gov.gn,,confirmed 2026-09-29,
-E-government agency,Portail officiel e-Gouv (zone gov.gn),gov.gn,,unconfirmed 2026-09-29,parent zone; scanned root-only; homepage did not load: ConnectionError
+Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.gov.gn,cnss.gov.gn,scanned 2026-09-29,
+Public procurement authority,Autorité de régulation des marchés publics,armpguinee.org,armpguinee.org,scanned 2026-09-29,
+Energy utility,Électricité de Guinée,edg.com.gn,edg.com.gn,scanned 2026-09-29,
+Ports authority,Port autonome de Conakry,portconakry.gov.gn,portconakry.gov.gn,scanned 2026-09-29,
+State-owned telco / National backbone operator,Société de gestion et d'exploitation du backbone national,sogeb.net.gn,sogeb.net.gn,scanned 2026-09-29,
+E-government agency,Agence nationale de digitalisation de l'État,ande.gov.gn,ande.gov.gn,scanned 2026-09-29,
+E-government agency,Portail officiel e-Gouv (zone gov.gn),gov.gn,,scanned 2026-09-29,parent zone; scanned root-only; homepage did not load: ConnectionError
 National data centre / Government cloud operator,Data Center national,,,absent,inaugurated Sept 2025; hosted by SOGEB (sogeb.net.gn); no own domain found
-Cybersecurity agency / National CERT,Agence nationale de la sécurité des systèmes d'information,anssi.gov.gn,,confirmed 2026-09-29,
-Communications regulator,Autorité de régulation des postes et télécommunications,arpt.gov.gn,,confirmed 2026-09-29,
-Audit office,Cour des comptes,ccomptes.org.gn,,confirmed 2026-09-29,
-Anti-corruption commission,Agence nationale de lutte contre la corruption et de promotion de la bonne gouvernance,anlcpbg.gov.gn,,confirmed 2026-09-29,
+Cybersecurity agency / National CERT,Agence nationale de la sécurité des systèmes d'information,anssi.gov.gn,anssi.gov.gn,scanned 2026-09-29,
+Communications regulator,Autorité de régulation des postes et télécommunications,arpt.gov.gn,arpt.gov.gn,scanned 2026-09-29,
+Audit office,Cour des comptes,ccomptes.org.gn,ccomptes.org.gn,scanned 2026-09-29,
+Anti-corruption commission,Agence nationale de lutte contre la corruption et de promotion de la bonne gouvernance,anlcpbg.gov.gn,anlcpbg.gov.gn,scanned 2026-09-29,
