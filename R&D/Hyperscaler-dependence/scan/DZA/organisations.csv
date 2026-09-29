@@ -1,0 +1,42 @@
+iso3,type,institution,domains,names,routable,us_hyperscaler_share,african_region_share,us_saas_share,cdn_share,national_or_self_share,unattributed,mail_provider,mail_security,tangled_hybrid,scan_date
+DZA,Presidency,Présidence de la République,el-mouradia.dz,9,13,0.0,0.0,0.0,0.0,0.0,13,other:Telecom Algeria,,false,2026-09-29
+DZA,Parliament,Assemblée populaire nationale,apn.dz,11,14,0.0,0.0,0.0,0.0,0.0,14,other:smtp-1.apn.dz|smtp-2.apn.dz,,false,2026-09-29
+DZA,Parliament,Conseil de la Nation,majliselouma.dz,9,18,0.0,0.0,0.0,0.0,0.0,18,other:TDATANET-LIR,,false,2026-09-29
+DZA,Foreign Affairs,Ministère des Affaires étrangères,mfa.gov.dz,6,10,0.0,0.0,0.0,0.0,0.0,9,other:Telecom Algeria,,false,2026-09-29
+DZA,Defence,Ministère de la Défense nationale,mdn.dz,16,19,0.0,0.0,0.0,0.0,0.0,18,other:mxrelay.mdn.dz,,false,2026-09-29
+DZA,Police,Direction générale de la Sûreté nationale,dgsn.dz,4,4,0.0,0.0,0.0,0.0,0.0,4,none,,false,2026-09-29
+DZA,Justice,Ministère de la Justice,mjustice.dz,9,13,0.0,0.0,0.0,0.0,0.0,13,other:Telecom Algeria,,false,2026-09-29
+DZA,Treasury / Finance,Ministère des Finances,mf.gov.dz,14,11,0.0,0.0,0.0,0.0,0.0,11,other:relayb.mf.gov.dz,,false,2026-09-29
+DZA,Revenue Service,Direction générale des impôts,mfdgi.gov.dz,13,13,0.0,0.0,0.0,0.0,0.0,12,other:Telecom Algeria,,false,2026-09-29
+DZA,Customs,Direction générale des douanes,douane.gov.dz,9,7,0.0,0.0,0.0,0.0,0.0,7,other:mail.douane.gov.dz,,false,2026-09-29
+DZA,Interior / Home Affairs,Ministère de l'Intérieur des Collectivités locales et de l'Aménagement du territoire,interieur.gov.dz,13,26,0.0,0.0,0.0,0.0,0.0,26,other:Algerian Academic Research Network|Telecom Algeria - Telecom Algeria,,false,2026-09-29
+DZA,Central Bank,Banque d'Algérie,bank-of-algeria.dz,8,21,0.0,0.0,0.0,0.0,0.0,21,other:Algerian Broadcasting (Tele Diffusion d'Algerie TDA)|Icosnet SPA - Icosnet SPA|r,,false,2026-09-29
+DZA,Commercial Banks,Banque nationale d'Algérie,bna.dz,34,33,0.0,0.0,0.0,0.0,0.0,32,other:Telecom Algeria|smtp03.bna.dz,,false,2026-09-29
+DZA,Commercial Banks,Banque extérieure d'Algérie,bea.dz,15,17,0.0,0.0,0.0,0.0,0.0,17,other:mx1.bea.dz|mx3.bea.dz,,false,2026-09-29
+DZA,Commercial Banks,Crédit populaire d'Algérie,cpa-bank.dz,11,14,0.0,0.0,0.0,0.0,0.0,14,other:mx.cpa-bank.dz|mx1.cpa-bank.dz,,false,2026-09-29
+DZA,Commercial Banks,CNEP-Banque,cnepbanque.dz,9,21,0.0,0.0,0.0,0.0,0.0,21,other:Telecom Algeria,,false,2026-09-29
+DZA,Commercial Banks,Banque de développement local,bdl.dz,16,18,0.0,0.0,0.0,0.0,0.0,18,other:smtp.bdl.dz|smtp3.bdl.dz,,false,2026-09-29
+DZA,Commercial Banks,Banque de l'agriculture et du développement rural,badr-bank.dz,4,6,0.0,0.0,0.0,0.0,0.0,6,other:Telecom Algeria,,false,2026-09-29
+DZA,Commercial Banks,Société Générale Algérie,societegenerale.dz,6,12,0.0,0.0,0.0,50.0,33.3,2,other:Imperva,,false,2026-09-29
+DZA,Commercial Banks,Gulf Bank Algeria,agb.dz,65,28,0.0,0.0,0.0,0.0,0.0,28,m365,,false,2026-09-29
+DZA,Commercial Banks,Al Baraka Bank Algeria,albaraka-bank.com,12,14,0.0,0.0,0.0,0.0,0.0,0,other:OVH,,false,2026-09-29
+DZA,Commercial Banks,Al Salam Bank Algeria,alsalamalgeria.com,18,15,0.0,0.0,0.0,0.0,0.0,15,other:Icosnet SPA - Icosnet SPA|dnma01.alsalamalgeria.com,,false,2026-09-29
+DZA,Data protection authority,Autorité nationale de protection des données à caractère personnel,anpdp.dz,7,11,0.0,0.0,0.0,0.0,0.0,10,other:Telecom Algeria,,false,2026-09-29
+DZA,Electoral commission,Autorité nationale indépendante des élections,ina-elections.dz,6,10,0.0,0.0,0.0,0.0,0.0,10,other:Telecom Algeria,,false,2026-09-29
+DZA,Statistics office,Office national des statistiques,ons.dz,16,18,0.0,0.0,0.0,0.0,0.0,18,other:Telecom Algeria,,false,2026-09-29
+DZA,Health ministry / National health insurance,Ministère de la Santé,sante.gov.dz,7,9,0.0,0.0,0.0,0.0,0.0,9,other:Telecom Algeria,,false,2026-09-29
+DZA,Health ministry / National health insurance,Caisse nationale des assurances sociales,cnas.dz,12,17,0.0,0.0,0.0,0.0,0.0,17,other:mail.cnas.dz|mx03.cnas.dz,,false,2026-09-29
+DZA,Social protection / Social registry,Ministère du Travail de l'Emploi et de la Sécurité sociale,mtess.gov.dz,11,16,0.0,0.0,0.0,0.0,0.0,16,other:Telecom Algeria|Telecom Algeria - Telecom Algeria,,false,2026-09-29
+DZA,Land registry,Agence nationale du cadastre,ancc.dz,5,9,0.0,0.0,0.0,0.0,0.0,8,other:Telecom Algeria,,false,2026-09-29
+DZA,National payment switch,SATIM,satim-dz.com,2,10,0.0,0.0,0.0,100.0,0.0,0,none,,false,2026-09-29
+DZA,Stock exchange,Société de gestion de la Bourse des valeurs d'Alger,sgbv.dz,10,13,0.0,0.0,0.0,0.0,0.0,2,other:Telecom Algeria - Telecom Algeria,,false,2026-09-29
+DZA,Securities regulator,Commission d'organisation et de surveillance des opérations de bourse,cosob.dz,16,15,0.0,0.0,0.0,0.0,0.0,15,other:Telecom Algeria - Telecom Algeria,,false,2026-09-29
+DZA,Sovereign wealth fund / National pension fund,Caisse nationale des retraites,cnr.dz,11,11,0.0,0.0,0.0,0.0,0.0,11,other:Telecom Algeria,,false,2026-09-29
+DZA,Public procurement authority,Portail national des marchés publics,marchespublics.gov.dz,2,0,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+DZA,Energy utility,Sonelgaz,sonelgaz.dz,21,26,0.0,0.0,0.0,0.0,0.0,26,other:Telecom Algeria,,false,2026-09-29
+DZA,Ports authority,Entreprise portuaire d'Alger,portalger.dz,6,10,0.0,0.0,0.0,0.0,0.0,9,other:Telecom Algeria,,false,2026-09-29
+DZA,State-owned telco / National backbone operator,Algérie Télécom,algerietelecom.dz,32,22,0.0,0.0,0.0,0.0,0.0,22,other:Telecom Algeria,,false,2026-09-29
+DZA,E-government agency,Ministère de la Poste et des Télécommunications,mpt.gov.dz,8,13,0.0,0.0,0.0,0.0,0.0,12,other:Telecom Algeria,,false,2026-09-29
+DZA,National data centre / Government cloud operator,CERIST,cerist.dz,220,216,1.9,0.0,0.0,0.0,0.0,212,other:Algerian Academic Research Network,,false,2026-09-29
+DZA,Communications regulator,Autorité de régulation de la poste et des communications électroniques,arpce.dz,7,9,0.0,0.0,0.0,0.0,0.0,9,other:Telecom Algeria - Telecom Algeria,,false,2026-09-29
+DZA,Audit office,Cour des comptes,ccomptes.dz,6,9,0.0,0.0,0.0,0.0,0.0,8,other:Telecom Algeria,,false,2026-09-29

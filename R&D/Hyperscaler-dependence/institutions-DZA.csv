@@ -1,48 +1,48 @@
 type,institution,domain,email_domain,status,note
-Presidency,Présidence de la République,el-mouradia.dz,,unconfirmed 2026-09-29,homepage did not load: ConnectTimeout
-Parliament,Assemblée populaire nationale,apn.dz,,confirmed 2026-09-29,
-Parliament,Conseil de la Nation,majliselouma.dz,,confirmed 2026-09-29,
-Foreign Affairs,Ministère des Affaires étrangères,mfa.gov.dz,,confirmed 2026-09-29,
-Defence,Ministère de la Défense nationale,mdn.dz,,confirmed 2026-09-29,also serves the Armed Forces (ANP)
+Presidency,Présidence de la République,el-mouradia.dz,el-mouradia.dz,scanned 2026-09-29,homepage did not load: ConnectTimeout
+Parliament,Assemblée populaire nationale,apn.dz,apn.dz,scanned 2026-09-29,
+Parliament,Conseil de la Nation,majliselouma.dz,majliselouma.dz,scanned 2026-09-29,
+Foreign Affairs,Ministère des Affaires étrangères,mfa.gov.dz,mfa.gov.dz,scanned 2026-09-29,
+Defence,Ministère de la Défense nationale,mdn.dz,mdn.dz,scanned 2026-09-29,also serves the Armed Forces (ANP)
 Armed Forces,Armée nationale populaire,,,absent,shares mdn.dz with Defence
-Police,Direction générale de la Sûreté nationale,dgsn.dz,,unconfirmed 2026-09-29,homepage did not load: ConnectTimeout
-Justice,Ministère de la Justice,mjustice.dz,,confirmed 2026-09-29,
-Treasury / Finance,Ministère des Finances,mf.gov.dz,,confirmed 2026-09-29,
-Revenue Service,Direction générale des impôts,mfdgi.gov.dz,,confirmed 2026-09-29,
-Customs,Direction générale des douanes,douane.gov.dz,,confirmed 2026-09-29,
+Police,Direction générale de la Sûreté nationale,dgsn.dz,,scanned 2026-09-29,homepage did not load: ConnectTimeout
+Justice,Ministère de la Justice,mjustice.dz,mjustice.dz,scanned 2026-09-29,
+Treasury / Finance,Ministère des Finances,mf.gov.dz,mf.gov.dz,scanned 2026-09-29,
+Revenue Service,Direction générale des impôts,mfdgi.gov.dz,mfdgi.gov.dz,scanned 2026-09-29,
+Customs,Direction générale des douanes,douane.gov.dz,douane.gov.dz,scanned 2026-09-29,
 Intelligence,Intelligence services,,,absent,no public domain known
-Interior / Home Affairs,Ministère de l'Intérieur des Collectivités locales et de l'Aménagement du territoire,interieur.gov.dz,,confirmed 2026-09-29,
-Central Bank,Banque d'Algérie,bank-of-algeria.dz,,confirmed 2026-09-29,
-Commercial Banks,Banque nationale d'Algérie,bna.dz,,confirmed 2026-09-29,Ranking: Algérie Invest 'Banques algériennes en 2025' (algerieinvest.dz; end-2025 assets) with Twala monographie 2024; Bank of Algeria licensed list of 4 Jan 2026 (JO n°9). BNH (small) omitted; foreign branches without own domain omitted
-Commercial Banks,Banque extérieure d'Algérie,bea.dz,,confirmed 2026-09-29,
-Commercial Banks,Crédit populaire d'Algérie,cpa-bank.dz,,unconfirmed 2026-09-29,homepage did not load: ConnectTimeout
-Commercial Banks,CNEP-Banque,cnepbanque.dz,,unconfirmed 2026-09-29,homepage did not load: ConnectTimeout
-Commercial Banks,Banque de développement local,bdl.dz,,confirmed 2026-09-29,
-Commercial Banks,Banque de l'agriculture et du développement rural,badr-bank.dz,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
-Commercial Banks,Société Générale Algérie,societegenerale.dz,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
-Commercial Banks,Gulf Bank Algeria,agb.dz,,confirmed 2026-09-29,
-Commercial Banks,Al Baraka Bank Algeria,albaraka-bank.com,,confirmed 2026-09-29,
-Commercial Banks,Al Salam Bank Algeria,alsalamalgeria.com,,confirmed 2026-09-29,
+Interior / Home Affairs,Ministère de l'Intérieur des Collectivités locales et de l'Aménagement du territoire,interieur.gov.dz,interieur.gov.dz,scanned 2026-09-29,
+Central Bank,Banque d'Algérie,bank-of-algeria.dz,bank-of-algeria.dz,scanned 2026-09-29,
+Commercial Banks,Banque nationale d'Algérie,bna.dz,bna.dz,scanned 2026-09-29,Ranking: Algérie Invest 'Banques algériennes en 2025' (algerieinvest.dz; end-2025 assets) with Twala monographie 2024; Bank of Algeria licensed list of 4 Jan 2026 (JO n°9). BNH (small) omitted; foreign branches without own domain omitted
+Commercial Banks,Banque extérieure d'Algérie,bea.dz,bea.dz,scanned 2026-09-29,
+Commercial Banks,Crédit populaire d'Algérie,cpa-bank.dz,cpa-bank.dz,scanned 2026-09-29,homepage did not load: ConnectTimeout
+Commercial Banks,CNEP-Banque,cnepbanque.dz,cnepbanque.dz,scanned 2026-09-29,homepage did not load: ConnectTimeout
+Commercial Banks,Banque de développement local,bdl.dz,bdl.dz,scanned 2026-09-29,
+Commercial Banks,Banque de l'agriculture et du développement rural,badr-bank.dz,badr-bank.dz,scanned 2026-09-29,homepage did not load: ConnectionError
+Commercial Banks,Société Générale Algérie,societegenerale.dz,societegenerale.dz,scanned 2026-09-29,homepage did not load: ConnectionError
+Commercial Banks,Gulf Bank Algeria,agb.dz,agb.dz,scanned 2026-09-29,
+Commercial Banks,Al Baraka Bank Algeria,albaraka-bank.com,albaraka-bank.com,scanned 2026-09-29,
+Commercial Banks,Al Salam Bank Algeria,alsalamalgeria.com,alsalamalgeria.com,scanned 2026-09-29,
 Civil registry / National ID authority,Ministère de l'Intérieur (état civil),,,absent,shares interieur.gov.dz with Interior
-Data protection authority,Autorité nationale de protection des données à caractère personnel,anpdp.dz,,confirmed 2026-09-29,
-Electoral commission,Autorité nationale indépendante des élections,ina-elections.dz,,confirmed 2026-09-29,
-Statistics office,Office national des statistiques,ons.dz,,confirmed 2026-09-29,
+Data protection authority,Autorité nationale de protection des données à caractère personnel,anpdp.dz,anpdp.dz,scanned 2026-09-29,
+Electoral commission,Autorité nationale indépendante des élections,ina-elections.dz,ina-elections.dz,scanned 2026-09-29,
+Statistics office,Office national des statistiques,ons.dz,ons.dz,scanned 2026-09-29,
 Immigration / Passports,Passeports biométriques,,,absent,shares interieur.gov.dz with Interior
-Health ministry / National health insurance,Ministère de la Santé,sante.gov.dz,,unconfirmed 2026-09-29,homepage did not load: ConnectTimeout
-Health ministry / National health insurance,Caisse nationale des assurances sociales,cnas.dz,,confirmed 2026-09-29,
-Social protection / Social registry,Ministère du Travail de l'Emploi et de la Sécurité sociale,mtess.gov.dz,,confirmed 2026-09-29,
-Land registry,Agence nationale du cadastre,ancc.dz,,confirmed 2026-09-29,
-National payment switch,SATIM,satim-dz.com,,confirmed 2026-09-29,
-Stock exchange,Société de gestion de la Bourse des valeurs d'Alger,sgbv.dz,,confirmed 2026-09-29,
-Securities regulator,Commission d'organisation et de surveillance des opérations de bourse,cosob.dz,,confirmed 2026-09-29,
-Sovereign wealth fund / National pension fund,Caisse nationale des retraites,cnr.dz,,unconfirmed 2026-09-29,homepage did not load: ConnectTimeout
-Public procurement authority,Portail national des marchés publics,marchespublics.gov.dz,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
-Energy utility,Sonelgaz,sonelgaz.dz,,confirmed 2026-09-29,
-Ports authority,Entreprise portuaire d'Alger,portalger.dz,,confirmed 2026-09-29,
-State-owned telco / National backbone operator,Algérie Télécom,algerietelecom.dz,,unconfirmed 2026-09-29,homepage did not load: ConnectTimeout
-E-government agency,Ministère de la Poste et des Télécommunications,mpt.gov.dz,,confirmed 2026-09-29,
-National data centre / Government cloud operator,CERIST,cerist.dz,,confirmed 2026-09-29,
+Health ministry / National health insurance,Ministère de la Santé,sante.gov.dz,sante.gov.dz,scanned 2026-09-29,homepage did not load: ConnectTimeout
+Health ministry / National health insurance,Caisse nationale des assurances sociales,cnas.dz,cnas.dz,scanned 2026-09-29,
+Social protection / Social registry,Ministère du Travail de l'Emploi et de la Sécurité sociale,mtess.gov.dz,mtess.gov.dz,scanned 2026-09-29,
+Land registry,Agence nationale du cadastre,ancc.dz,ancc.dz,scanned 2026-09-29,
+National payment switch,SATIM,satim-dz.com,,scanned 2026-09-29,
+Stock exchange,Société de gestion de la Bourse des valeurs d'Alger,sgbv.dz,sgbv.dz,scanned 2026-09-29,
+Securities regulator,Commission d'organisation et de surveillance des opérations de bourse,cosob.dz,cosob.dz,scanned 2026-09-29,
+Sovereign wealth fund / National pension fund,Caisse nationale des retraites,cnr.dz,cnr.dz,scanned 2026-09-29,homepage did not load: ConnectTimeout
+Public procurement authority,Portail national des marchés publics,marchespublics.gov.dz,,dead,homepage did not load: ConnectionError
+Energy utility,Sonelgaz,sonelgaz.dz,sonelgaz.dz,scanned 2026-09-29,
+Ports authority,Entreprise portuaire d'Alger,portalger.dz,portalger.dz,scanned 2026-09-29,
+State-owned telco / National backbone operator,Algérie Télécom,algerietelecom.dz,algerietelecom.dz,scanned 2026-09-29,homepage did not load: ConnectTimeout
+E-government agency,Ministère de la Poste et des Télécommunications,mpt.gov.dz,mpt.gov.dz,scanned 2026-09-29,
+National data centre / Government cloud operator,CERIST,cerist.dz,cerist.dz,scanned 2026-09-29,
 Cybersecurity agency / National CERT,DZ-CERT,,,absent,domain not confident
-Communications regulator,Autorité de régulation de la poste et des communications électroniques,arpce.dz,,confirmed 2026-09-29,
-Audit office,Cour des comptes,ccomptes.dz,,confirmed 2026-09-29,
+Communications regulator,Autorité de régulation de la poste et des communications électroniques,arpce.dz,arpce.dz,scanned 2026-09-29,
+Audit office,Cour des comptes,ccomptes.dz,ccomptes.dz,scanned 2026-09-29,
 Anti-corruption commission,Haute autorité de transparence et de prévention de la lutte contre la corruption,,,absent,no domain found
