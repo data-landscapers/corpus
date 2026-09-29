@@ -1,43 +1,43 @@
 type,institution,domain,email_domain,status,note
-Presidency,Présidence de la République du Niger,presidence.ne,,confirmed 2026-09-29,
-Parliament,Assemblée nationale,assemblee.ne,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
-Foreign Affairs,Ministère des Affaires étrangères,diplomatie.gouv.ne,,confirmed 2026-09-29,
-Defence,Ministère de la Défense nationale,defense.gouv.ne,,confirmed 2026-09-29,
+Presidency,Présidence de la République du Niger,presidence.ne,presidence.ne,scanned 2026-09-29,
+Parliament,Assemblée nationale,assemblee.ne,assemblee.ne,scanned 2026-09-29,homepage did not load: ConnectionError
+Foreign Affairs,Ministère des Affaires étrangères,diplomatie.gouv.ne,diplomatie.gouv.ne,scanned 2026-09-29,
+Defence,Ministère de la Défense nationale,defense.gouv.ne,defense.gouv.ne,scanned 2026-09-29,
 Armed Forces,Forces armées nigériennes,,,absent,shares defence ministry domain with Defence; no own domain found
-Police,Direction générale de la Police nationale,police-nationale.interieur.gouv.ne,,confirmed 2026-09-29,
-Justice,Ministère de la Justice,justice.gouv.ne,,confirmed 2026-09-29,
-Treasury / Finance,Ministère des Finances,finances.gouv.ne,,confirmed 2026-09-29,
-Revenue Service,Direction générale des Impôts,impots.gouv.ne,,confirmed 2026-09-29,
+Police,Direction générale de la Police nationale,police-nationale.interieur.gouv.ne,police-nationale.interieur.gouv.ne,scanned 2026-09-29,
+Justice,Ministère de la Justice,justice.gouv.ne,justice.gouv.ne,scanned 2026-09-29,
+Treasury / Finance,Ministère des Finances,finances.gouv.ne,finances.gouv.ne,scanned 2026-09-29,
+Revenue Service,Direction générale des Impôts,impots.gouv.ne,impots.gouv.ne,scanned 2026-09-29,
 Customs,,,,absent,douanes.gouv.ne serves the Justice site; no own domain found
 Intelligence,,,,absent,no public intelligence service domain found
-Interior / Home Affairs,Ministère de l'Intérieur,interieur.gouv.ne,,confirmed 2026-09-29,
-Central Bank,Banque centrale des États de l'Afrique de l'Ouest (BCEAO),bceao.int,,confirmed 2026-09-29,regional (WAEMU); shared with other member states
-Commercial Banks,Société nigérienne de banque (Sonibank),sonibank.com,,confirmed 2026-09-29,"Source: KoriActu, Banques dans l'UMOA: Top 10 dans chacun des 8 pays (2025), total de bilan; koriactu.com/banques-dans-lumoa-le-top-10-dans-chacun-des-08-pays-en-2025/. Left out (no country-specific domain; group sites): Ecobank Niger, BSIC Niger, Banque Atlantique Niger, Orabank Niger"
-Commercial Banks,Bank of Africa Niger,boaniger.com,,confirmed 2026-09-29,
-Commercial Banks,Coris Bank International Niger,niger.coris.bank,,confirmed 2026-09-29,
-Commercial Banks,Banque internationale pour l'Afrique au Niger (BIA-Niger),bia-niger.com,,confirmed 2026-09-29,
-Commercial Banks,Banque islamique du Niger,bin-niger.com,,confirmed 2026-09-29,
-Commercial Banks,Banque agricole du Niger (BAGRI),bagri.ne,,confirmed 2026-09-29,
+Interior / Home Affairs,Ministère de l'Intérieur,interieur.gouv.ne,interieur.gouv.ne,scanned 2026-09-29,
+Central Bank,Banque centrale des États de l'Afrique de l'Ouest (BCEAO),bceao.int,bceao.int,scanned 2026-09-29,regional (WAEMU); shared with other member states
+Commercial Banks,Société nigérienne de banque (Sonibank),sonibank.com,sonibank.com,scanned 2026-09-29,"Source: KoriActu, Banques dans l'UMOA: Top 10 dans chacun des 8 pays (2025), total de bilan; koriactu.com/banques-dans-lumoa-le-top-10-dans-chacun-des-08-pays-en-2025/. Left out (no country-specific domain; group sites): Ecobank Niger, BSIC Niger, Banque Atlantique Niger, Orabank Niger"
+Commercial Banks,Bank of Africa Niger,boaniger.com,boaniger.com,scanned 2026-09-29,
+Commercial Banks,Coris Bank International Niger,niger.coris.bank,,scanned 2026-09-29,
+Commercial Banks,Banque internationale pour l'Afrique au Niger (BIA-Niger),bia-niger.com,bia-niger.com,scanned 2026-09-29,
+Commercial Banks,Banque islamique du Niger,bin-niger.com,bin-niger.com,scanned 2026-09-29,
+Commercial Banks,Banque agricole du Niger (BAGRI),bagri.ne,bagri.ne,scanned 2026-09-29,
 Civil registry / National ID authority,Direction de l'état civil,,,absent,no domain found
 Data protection authority,Haute autorité de protection des données à caractère personnel,,,absent,no domain found
-Electoral commission,Commission électorale nationale indépendante (CENI),ceni-niger.org,,confirmed 2026-09-29,
-Statistics office,Institut national de la statistique (INS),stat-niger.org,,confirmed 2026-09-29,
+Electoral commission,Commission électorale nationale indépendante (CENI),ceni-niger.org,ceni-niger.org,scanned 2026-09-29,
+Statistics office,Institut national de la statistique (INS),stat-niger.org,,scanned 2026-09-29,
 Immigration / Passports,Direction de la Police des frontières,,,absent,under Interior; no own domain
-Health ministry / National health insurance,Ministère de la Santé publique,sante.gouv.ne,,confirmed 2026-09-29,
+Health ministry / National health insurance,Ministère de la Santé publique,sante.gouv.ne,sante.gouv.ne,scanned 2026-09-29,
 Social protection / Social registry,Ministère de la Population,,,absent,no domain found
 Land registry,,,,absent,no domain found
-National payment switch,GIM-UEMOA,gim-uemoa.org,,confirmed 2026-09-29,regional (WAEMU); shared with other member states
-Stock exchange,Bourse régionale des valeurs mobilières (BRVM),brvm.org,,confirmed 2026-09-29,regional (WAEMU); shared with other member states
-Securities regulator,Autorité des marchés financiers de l'UMOA (AMF-UMOA),amf-umoa.org,,confirmed 2026-09-29,regional (WAEMU); shared with other member states
-Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale (CNSS),cnss.ne,,confirmed 2026-09-29,
+National payment switch,GIM-UEMOA,gim-uemoa.org,gim-uemoa.org,scanned 2026-09-29,regional (WAEMU); shared with other member states
+Stock exchange,Bourse régionale des valeurs mobilières (BRVM),brvm.org,brvm.org,scanned 2026-09-29,regional (WAEMU); shared with other member states
+Securities regulator,Autorité des marchés financiers de l'UMOA (AMF-UMOA),amf-umoa.org,amf-umoa.org,scanned 2026-09-29,regional (WAEMU); shared with other member states
+Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale (CNSS),cnss.ne,cnss.ne,scanned 2026-09-29,
 Public procurement authority,Autorité de régulation des marchés publics,,,absent,no domain found
-Energy utility,NIGELEC,nigelec.ne,,confirmed 2026-09-29,
+Energy utility,NIGELEC,nigelec.ne,nigelec.ne,scanned 2026-09-29,
 Ports authority,,,,absent,landlocked; no ports authority
-State-owned telco / National backbone operator,Niger Telecoms,nigertelecoms.ne,,confirmed 2026-09-29,
+State-owned telco / National backbone operator,Niger Telecoms,nigertelecoms.ne,,scanned 2026-09-29,
 E-government agency,Agence nationale pour la société de l'information (ANSI),,,absent,no own domain found; see parent zone row
-E-government agency,Gouvernement du Niger (portail),gouv.ne,,confirmed 2026-09-29,parent zone; scanned root-only; homepage did not load: ReadTimeout
+E-government agency,Gouvernement du Niger (portail),gouv.ne,,scanned 2026-09-29,parent zone; scanned root-only; homepage did not load: ReadTimeout
 National data centre / Government cloud operator,,,,absent,no domain found
 Cybersecurity agency / National CERT,,,,absent,no domain found
-Communications regulator,Autorité de régulation des communications électroniques et de la poste (ARCEP),arcep.ne,,confirmed 2026-09-29,
+Communications regulator,Autorité de régulation des communications électroniques et de la poste (ARCEP),arcep.ne,arcep.ne,scanned 2026-09-29,
 Audit office,Cour des comptes,,,absent,no domain found
 Anti-corruption commission,Haute autorité de lutte contre la corruption (HALCIA),,,absent,no domain found
