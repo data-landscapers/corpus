@@ -1,42 +1,40 @@
 iso3,type,institution,domains,names,routable,us_hyperscaler_share,african_region_share,us_saas_share,cdn_share,national_or_self_share,unattributed,mail_provider,mail_security,tangled_hybrid,scan_date
-TUN,Presidency,Présidence de la République tunisienne,carthage.tn,5,8,0.0,0.0,0.0,0.0,0.0,8,other:TN-BB-AS - IDDQD-AS,,false,2026-09-29
-TUN,Parliament,Assemblée des représentants du peuple,arp.tn,17,21,4.8,0.0,42.9,0.0,0.0,11,m365,,false,2026-09-29
-TUN,Foreign Affairs,Ministère des Affaires étrangères,diplomatie.gov.tn,12,15,6.7,0.0,0.0,0.0,0.0,14,other:ATI - Agence Tunisienne Internet,,false,2026-09-29
-TUN,Defence,Ministère de la Défense nationale,defense.tn,19,20,0.0,0.0,0.0,0.0,0.0,18,other:ATI - Agence Tunisienne Internet|ATI - Agence Tunisienne Internet - ATI - Agence,,false,2026-09-29
-TUN,Justice,Ministère de la Justice,justice.gov.tn,6,12,0.0,0.0,0.0,0.0,0.0,12,other:ATI - Agence Tunisienne Internet,,false,2026-09-29
-TUN,Treasury / Finance,Ministère des Finances,finances.gov.tn,3,6,0.0,0.0,0.0,0.0,0.0,6,other:ATI - Agence Tunisienne Internet,,false,2026-09-29
-TUN,Revenue Service,Direction générale des impôts,impots.finances.gov.tn,3,2,0.0,0.0,0.0,0.0,0.0,2,none,,false,2026-09-29
-TUN,Customs,Direction générale des douanes,douane.gov.tn,14,15,0.0,0.0,0.0,0.0,0.0,15,other:ATI - Agence Tunisienne Internet,,false,2026-09-29
-TUN,Interior / Home Affairs,Ministère de l'Intérieur,interieur.gov.tn,10,22,0.0,0.0,0.0,0.0,0.0,22,other:ATI - Agence Tunisienne Internet|ATI - Agence Tunisienne Internet - ATI - Agence,,false,2026-09-29
-TUN,Central Bank,Banque centrale de Tunisie,bct.gov.tn,13,24,37.5,0.0,4.2,0.0,0.0,14,m365,,false,2026-09-29
-TUN,Commercial Banks,Banque Internationale Arabe de Tunisie (BIAT),biat.com.tn,13,16,25.0,0.0,12.5,0.0,0.0,10,m365,proofpoint,false,2026-09-29
-TUN,Commercial Banks,Banque Nationale Agricole (BNA),bna.tn,13,23,43.5,0.0,0.0,0.0,0.0,12,other:ATI - Agence Tunisienne Internet,,false,2026-09-29
-TUN,Commercial Banks,Société Tunisienne de Banque (STB),stb.com.tn,10,36,27.8,0.0,47.2,0.0,0.0,9,m365,,false,2026-09-29
-TUN,Commercial Banks,Amen Bank,amenbank.com.tn,6,12,0.0,0.0,0.0,0.0,0.0,8,other:ATI - Agence Tunisienne Internet,,false,2026-09-29
-TUN,Commercial Banks,Attijari Bank,attijaribank.com.tn,59,31,0.0,0.0,0.0,0.0,0.0,31,other:ATI - Agence Tunisienne Internet,,false,2026-09-29
-TUN,Commercial Banks,BH Bank,bhbank.tn,6,31,38.7,0.0,45.2,0.0,0.0,5,m365,proofpoint,false,2026-09-29
-TUN,Commercial Banks,Union Internationale de Banques (UIB),uib.com.tn,6,10,0.0,0.0,0.0,0.0,0.0,10,other:SOCIETE-GENERALE-MD5,,false,2026-09-29
-TUN,Commercial Banks,Banque de Tunisie,bt.com.tn,14,46,56.5,0.0,28.3,0.0,0.0,7,m365,,false,2026-09-29
-TUN,Commercial Banks,Union Bancaire pour le Commerce et l'Industrie (UBCI),ubci.tn,7,17,0.0,0.0,52.9,0.0,0.0,8,m365,,false,2026-09-29
-TUN,Commercial Banks,Arab Tunisian Bank (ATB),atb.com.tn,15,25,36.0,0.0,0.0,0.0,4.0,15,other:ATI - Agence Tunisienne Internet,,true,2026-09-29
+TUN,Presidency,Présidence de la République tunisienne,carthage.tn,5,8,0.0,0.0,0.0,0.0,12.5,0,other:TN-BB-AS - IDDQD-AS,,false,2026-09-29
+TUN,Parliament,Assemblée des représentants du peuple,arp.tn,17,21,4.8,0.0,42.9,0.0,42.9,0,m365,,true,2026-09-29
+TUN,Foreign Affairs,Ministère des Affaires étrangères,diplomatie.gov.tn,12,15,6.7,0.0,0.0,0.0,53.3,0,other:ATI - Agence Tunisienne Internet - ATI - Agence Tunisienne Internet|TN-BB-AS - I,,true,2026-09-29
+TUN,Defence,Ministère de la Défense nationale,defense.tn,19,20,0.0,0.0,0.0,0.0,5.0,0,other:ATI - Agence Tunisienne Internet - ATI - Agence Tunisienne Internet|TN-BB-AS - I,,false,2026-09-29
+TUN,Justice,Ministère de la Justice,justice.gov.tn,6,12,0.0,0.0,0.0,0.0,83.3,0,other:ATI - Agence Tunisienne Internet - ATI - Agence Tunisienne Internet,,false,2026-09-29
+TUN,Treasury / Finance,Ministère des Finances,finances.gov.tn,3,6,0.0,0.0,0.0,0.0,50.0,0,other:ATI - Agence Tunisienne Internet - ATI - Agence Tunisienne Internet|TN-BB-AS - I,,false,2026-09-29
+TUN,Revenue Service,Direction générale des impôts,impots.finances.gov.tn,3,2,0.0,0.0,0.0,0.0,100.0,0,none,,false,2026-09-29
+TUN,Customs,Direction générale des douanes,douane.gov.tn,14,15,0.0,0.0,0.0,0.0,66.7,0,other:ATI - Agence Tunisienne Internet - ATI - Agence Tunisienne Internet|TN-BB-AS - I,,false,2026-09-29
+TUN,Interior / Home Affairs,Ministère de l'Intérieur,interieur.gov.tn,10,22,0.0,0.0,0.0,0.0,45.5,0,other:ATI - Agence Tunisienne Internet - ATI - Agence Tunisienne Internet|TN-BB-AS - I,,false,2026-09-29
+TUN,Central Bank,Banque centrale de Tunisie,bct.gov.tn,13,24,37.5,0.0,4.2,0.0,29.2,0,m365,,true,2026-09-29
+TUN,Commercial Banks,Banque Internationale Arabe de Tunisie (BIAT),biat.com.tn,13,16,25.0,0.0,12.5,0.0,0.0,0,m365,proofpoint,false,2026-09-29
+TUN,Commercial Banks,Banque Nationale Agricole (BNA),bna.tn,13,23,43.5,0.0,0.0,0.0,8.7,0,other:Orange Tunisie - Orange Tunisie,,true,2026-09-29
+TUN,Commercial Banks,Société Tunisienne de Banque (STB),stb.com.tn,10,36,27.8,0.0,47.2,0.0,11.1,0,m365,,true,2026-09-29
+TUN,Commercial Banks,Amen Bank,amenbank.com.tn,6,12,0.0,0.0,0.0,0.0,0.0,0,other:Orange Tunisie - Orange Tunisie,,false,2026-09-29
+TUN,Commercial Banks,Attijari Bank,attijaribank.com.tn,59,31,0.0,0.0,0.0,0.0,0.0,0,other:Orange Tunisie - Orange Tunisie,,false,2026-09-29
+TUN,Commercial Banks,BH Bank,bhbank.tn,6,31,38.7,0.0,45.2,0.0,0.0,0,m365,proofpoint,false,2026-09-29
+TUN,Commercial Banks,Union Internationale de Banques (UIB),uib.com.tn,6,10,0.0,0.0,0.0,0.0,0.0,0,other:Societe Generale S.A.,,false,2026-09-29
+TUN,Commercial Banks,Banque de Tunisie,bt.com.tn,14,46,56.5,0.0,28.3,0.0,0.0,0,m365,,false,2026-09-29
+TUN,Commercial Banks,Union Bancaire pour le Commerce et l'Industrie (UBCI),ubci.tn,7,17,0.0,0.0,52.9,0.0,0.0,0,m365,,false,2026-09-29
+TUN,Commercial Banks,Arab Tunisian Bank (ATB),atb.com.tn,15,25,36.0,0.0,0.0,0.0,4.0,0,other:Orange Tunisie - Orange Tunisie,,true,2026-09-29
 TUN,Data protection authority,Instance nationale de protection des données personnelles,inpdp.nat.tn,2,0,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
-TUN,Electoral commission,Instance supérieure indépendante pour les élections,isie.tn,6,12,0.0,0.0,0.0,0.0,0.0,10,other:ONLINE-NET-MNT|OVH,,false,2026-09-29
-TUN,Statistics office,Institut national de la statistique,ins.tn,7,16,0.0,0.0,56.2,0.0,0.0,7,m365,,false,2026-09-29
-TUN,Health ministry / National health insurance,Ministère de la Santé,santetunisie.rns.tn,2,2,0.0,0.0,0.0,0.0,0.0,2,none,,false,2026-09-29
-TUN,Health ministry / National health insurance,Caisse nationale d'assurance maladie,cnam.nat.tn,3,9,0.0,0.0,0.0,0.0,0.0,9,other:ATI - Agence Tunisienne Internet,,false,2026-09-29
-TUN,Social protection / Social registry,Ministère des Affaires sociales,social.gov.tn,11,36,69.4,0.0,0.0,0.0,0.0,11,other:ATI - Agence Tunisienne Internet|ATI - Agence Tunisienne Internet - ATI - Agence,,false,2026-09-29
-TUN,Social protection / Social registry,Caisse nationale de sécurité sociale,cnss.tn,7,11,0.0,0.0,0.0,0.0,0.0,11,other:ATI - Agence Tunisienne Internet|mx3.topnet.tn,,false,2026-09-29
-TUN,Land registry,Office de la topographie et du cadastre,otc.nat.tn,7,11,0.0,0.0,0.0,0.0,0.0,11,other:ATI - Agence Tunisienne Internet|ATI - Agence Tunisienne Internet - ATI - Agence,,false,2026-09-29
-TUN,National payment switch,Société monétique Tunisie,smt.com.tn,11,11,0.0,0.0,0.0,0.0,0.0,11,other:ATI - Agence Tunisienne Internet|Cloud Temple Tunisia - Cloud Temple Tunisia,,false,2026-09-29
-TUN,Stock exchange,Bourse de Tunis,bvmt.com.tn,2,8,0.0,0.0,0.0,0.0,0.0,8,other:ATI - Agence Tunisienne Internet,,false,2026-09-29
-TUN,Securities regulator,Conseil du marché financier,cmf.org.tn,3,7,0.0,0.0,0.0,0.0,0.0,7,other:ATI - Agence Tunisienne Internet,,false,2026-09-29
-TUN,Sovereign wealth fund / National pension fund,Caisse nationale de retraite et de prévoyance sociale,cnrps.nat.tn,4,9,0.0,0.0,0.0,0.0,0.0,9,other:ATI - Agence Tunisienne Internet|mx3.topnet.tn,,false,2026-09-29
-TUN,Public procurement authority,TUNEPS (Haute instance de la commande publique),tuneps.tn,7,10,0.0,0.0,0.0,0.0,0.0,10,other:ATI - Agence Tunisienne Internet|ATI - Agence Tunisienne Internet - ATI - Agence,,false,2026-09-29
-TUN,Energy utility,Société tunisienne de l'électricité et du gaz,steg.com.tn,6,12,0.0,0.0,0.0,0.0,0.0,12,other:ATI - Agence Tunisienne Internet,,false,2026-09-29
-TUN,Ports authority,Office de la marine marchande et des ports,ommp.nat.tn,11,14,0.0,0.0,0.0,0.0,0.0,14,other:ATI - Agence Tunisienne Internet|mx3.topnet.tn,,false,2026-09-29
-TUN,State-owned telco / National backbone operator,Tunisie Télécom,tunisietelecom.tn,83,56,0.0,0.0,23.2,0.0,60.7,8,m365,,false,2026-09-29
+TUN,Electoral commission,Instance supérieure indépendante pour les élections,isie.tn,6,12,0.0,0.0,0.0,0.0,0.0,0,other:AS12876 Scaleway SAS|OVH,,false,2026-09-29
+TUN,Statistics office,Institut national de la statistique,ins.tn,7,16,0.0,0.0,56.2,0.0,31.2,0,m365,,false,2026-09-29
+TUN,Health ministry / National health insurance,Ministère de la Santé,santetunisie.rns.tn,2,2,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+TUN,Health ministry / National health insurance,Caisse nationale d'assurance maladie,cnam.nat.tn,3,9,0.0,0.0,0.0,0.0,0.0,0,other:Orange Tunisie - Orange Tunisie,,false,2026-09-29
+TUN,Social protection / Social registry,Ministère des Affaires sociales,social.gov.tn,11,36,69.4,0.0,0.0,0.0,13.9,0,other:ATI - Agence Tunisienne Internet - ATI - Agence Tunisienne Internet|TN-BB-AS - I,,true,2026-09-29
+TUN,Social protection / Social registry,Caisse nationale de sécurité sociale,cnss.tn,7,11,0.0,0.0,0.0,0.0,0.0,0,other:TOPNET - TOPNET|mx3.topnet.tn,,false,2026-09-29
+TUN,Land registry,Office de la topographie et du cadastre,otc.nat.tn,7,11,0.0,0.0,0.0,0.0,54.5,0,other:ATI - Agence Tunisienne Internet - ATI - Agence Tunisienne Internet|TN-BB-AS - I,,false,2026-09-29
+TUN,National payment switch,Société monétique Tunisie,smt.com.tn,11,11,0.0,0.0,0.0,0.0,0.0,0,other:Cloud Temple Tunisia - Cloud Temple Tunisia|OOREDOO TUNISIE SA - OOREDOO TUNISIE,,false,2026-09-29
+TUN,Stock exchange,Bourse de Tunis,bvmt.com.tn,2,8,0.0,0.0,0.0,0.0,0.0,0,other:3S INF - 3S INF,,false,2026-09-29
+TUN,Securities regulator,Conseil du marché financier,cmf.org.tn,3,7,0.0,0.0,0.0,0.0,0.0,0,other:TOPNET - TOPNET,,false,2026-09-29
+TUN,Sovereign wealth fund / National pension fund,Caisse nationale de retraite et de prévoyance sociale,cnrps.nat.tn,4,9,0.0,0.0,0.0,0.0,0.0,0,other:TOPNET - TOPNET|mx3.topnet.tn,,false,2026-09-29
+TUN,Public procurement authority,TUNEPS (Haute instance de la commande publique),tuneps.tn,7,10,0.0,0.0,0.0,0.0,50.0,0,other:ATI - Agence Tunisienne Internet - ATI - Agence Tunisienne Internet|TN-BB-AS - I,,false,2026-09-29
+TUN,Energy utility,Société tunisienne de l'électricité et du gaz,steg.com.tn,6,12,0.0,0.0,0.0,0.0,0.0,0,other:3S INF - 3S INF,,false,2026-09-29
+TUN,Ports authority,Office de la marine marchande et des ports,ommp.nat.tn,11,14,0.0,0.0,0.0,0.0,0.0,0,other:TOPNET - TOPNET|mx3.topnet.tn,,false,2026-09-29
+TUN,State-owned telco / National backbone operator,Tunisie Télécom,tunisietelecom.tn,83,56,0.0,0.0,23.2,0.0,60.7,0,m365,,false,2026-09-29
 TUN,E-government agency,Portail national du gouvernement tunisien,tunisie.gov.tn,4,8,0.0,0.0,0.0,0.0,100.0,0,self,,false,2026-09-29
-TUN,National data centre / Government cloud operator,Centre national de l'informatique,cni.tn,23,38,2.6,0.0,34.2,0.0,0.0,24,m365,,false,2026-09-29
-TUN,Cybersecurity agency / National CERT,Agence nationale de la sécurité informatique,ansi.tn,2,4,0.0,0.0,0.0,0.0,0.0,4,other:ATI - Agence Tunisienne Internet|ATI - Agence Tunisienne Internet - ATI - Agence,,false,2026-09-29
-TUN,Communications regulator,Instance nationale des télécommunications,int.tn,2,0,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
-TUN,Audit office,Cour des comptes,ccomptes.tn,2,0,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+TUN,National data centre / Government cloud operator,Centre national de l'informatique,cni.tn,23,38,2.6,0.0,34.2,0.0,5.3,0,m365,,true,2026-09-29
+TUN,Cybersecurity agency / National CERT,Agence nationale de la sécurité informatique,ansi.tn,2,4,0.0,0.0,0.0,0.0,25.0,0,other:ATI - Agence Tunisienne Internet - ATI - Agence Tunisienne Internet|TN-BB-AS - I,,false,2026-09-29

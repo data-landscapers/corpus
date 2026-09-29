@@ -382,20 +382,7 @@
    "has_mx": false
   }
  },
- "new_asns": {
-  "31245": "ATI - Agence Tunisienne Internet - ATI - Agence Tunisienne Internet",
-  "2609": "TN-BB-AS - IDDQD-AS",
-  "9318": "SKB-AS-KR - SK Broadband Co Ltd",
-  "37551": "ATI - Agence Tunisienne Internet - ATI - Agence Tunisienne Internet",
-  "37671": "3S INF - 3S INF",
-  "37693": "OOREDOO TUNISIE SA - OOREDOO TUNISIE SA",
-  "37492": "Orange Tunisie - Orange Tunisie",
-  "3296": "SOCIETE-GENERALE Societe Generale S.A.",
-  "3299": "Societe Generale S.A.",
-  "37705": "TOPNET - TOPNET",
-  "327934": "SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom) - SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)",
-  "37709": "Cloud Temple Tunisia - Cloud Temple Tunisia"
- },
+ "new_asns": {},
  "rollup": {
   "all": {
    "routable": 666,
@@ -403,22 +390,23 @@
    "african_region_share": 0.0,
    "us_saas_share": 15.0,
    "cdn_share": 0.0,
-   "national_or_self_share": 6.5,
-   "unattributed": 405,
+   "national_or_self_share": 20.1,
+   "unattributed": 0,
    "by_category": {
-    "unattributed": 405,
+    "national-dc": 91,
+    "telco-isp": 275,
     "us-saas": 100,
     "us-hyperscaler-offshore": 108,
     "unresolved": 2,
-    "commercial-host": 7,
-    "self-hosted": 43,
-    "telco-isp": 1
+    "african-colo": 29,
+    "commercial-host": 18,
+    "self-hosted": 43
    },
-   "institutions": 41,
+   "institutions": 39,
    "names": 456,
    "m365": 10,
    "google": 0,
-   "tangled_hybrid": 1,
+   "tangled_hybrid": 8,
    "any_us_hyperscaler": 11
   },
   "government": {
@@ -427,22 +415,23 @@
    "african_region_share": 0.0,
    "us_saas_share": 10.7,
    "cdn_share": 0.0,
-   "national_or_self_share": 10.0,
-   "unattributed": 290,
+   "national_or_self_share": 30.3,
+   "unattributed": 0,
    "by_category": {
-    "unattributed": 290,
+    "national-dc": 85,
+    "telco-isp": 179,
     "us-saas": 45,
     "us-hyperscaler-offshore": 37,
     "unresolved": 2,
-    "commercial-host": 2,
-    "self-hosted": 42,
-    "telco-isp": 1
+    "african-colo": 25,
+    "commercial-host": 4,
+    "self-hosted": 42
    },
-   "institutions": 31,
+   "institutions": 29,
    "names": 307,
    "m365": 5,
    "google": 0,
-   "tangled_hybrid": 0,
+   "tangled_hybrid": 5,
    "any_us_hyperscaler": 5
   },
   "bank": {
@@ -451,20 +440,22 @@
    "african_region_share": 0.0,
    "us_saas_share": 22.3,
    "cdn_share": 0.0,
-   "national_or_self_share": 0.4,
-   "unattributed": 115,
+   "national_or_self_share": 2.8,
+   "unattributed": 0,
    "by_category": {
-    "unattributed": 115,
+    "telco-isp": 96,
     "us-hyperscaler-offshore": 71,
     "us-saas": 55,
-    "commercial-host": 5,
+    "national-dc": 6,
+    "commercial-host": 14,
+    "african-colo": 4,
     "self-hosted": 1
    },
    "institutions": 10,
    "names": 149,
    "m365": 5,
    "google": 0,
-   "tangled_hybrid": 1,
+   "tangled_hybrid": 3,
    "any_us_hyperscaler": 6
   }
  },
