@@ -1,0 +1,47 @@
+type,institution,domain,email_domain,status,note
+Presidency,Présidence de la République de Madagascar,presidence.gov.mg,,confirmed 2026-09-29,
+Parliament,Parlement de Madagascar,parlement.mg,,confirmed 2026-09-29,joint portal; contact@parlement.mg
+Parliament,Assemblée nationale,assemblee-nationale.mg,,confirmed 2026-09-29,
+Parliament,Sénat,senat.mg,,confirmed 2026-09-29,
+Foreign Affairs,Ministère des Affaires étrangères,diplomatie.gov.mg,,confirmed 2026-09-29,
+Defence,Ministère des Forces armées,foloalindahy.mg,,confirmed 2026-09-29,formerly Ministère de la Défense nationale
+Armed Forces,Forces armées malagasy,,,absent,shares foloalindahy.mg with Defence
+Police,Police nationale (Ministère de la Sécurité publique),pn.gov.mg,,confirmed 2026-09-29,
+Justice,Ministère de la Justice,justice.mg,,confirmed 2026-09-29,
+Treasury / Finance,Ministère de l'Économie et des Finances,mef.gov.mg,,confirmed 2026-09-29,
+Revenue Service,Direction générale des impôts,impots.mg,,confirmed 2026-09-29,
+Customs,Direction générale des douanes,douanes.gov.mg,,confirmed 2026-09-29,
+Intelligence,,,,absent,no public intelligence service domain found
+Interior / Home Affairs,Ministère de l'Intérieur et de la Décentralisation,mid.gov.mg,,confirmed 2026-09-29,
+Central Bank,Banky Foiben'i Madagasikara,banky-foibe.mg,,confirmed 2026-09-29,
+Commercial Banks,BNI Madagascar,bni.mg,,confirmed 2026-09-29,"No public ranking by assets found; eight banks taken from the BFM licensed-institution list (banky-foibe.mg/liste-des-codes-banque and /etablissements-de-credit-agrees, 2026), the four large retail banks first. SBM Madagascar left out: runs on the sbmgroup.mu global site. Baobab Madagascar left out: runs on the baobab.com group domain. Banky First (no own domain found), AFG Bank and MVola Banque not seeded."
+Commercial Banks,Bank of Africa Madagascar,boamadagascar.com,,confirmed 2026-09-29,
+Commercial Banks,BRED Madagasikara Banque Populaire,bred.mg,,confirmed 2026-09-29,
+Commercial Banks,Banque Malgache de l'Océan Indien (BMOI),bmoi.mg,,confirmed 2026-09-29,
+Commercial Banks,MCB Madagascar,mcb.mg,,confirmed 2026-09-29,
+Commercial Banks,AccèsBanque Madagascar,accesbanque.mg,,confirmed 2026-09-29,
+Commercial Banks,BGFIBank Madagascar,madagascar.bgfi.com,,confirmed 2026-09-29,country subdomain of group site
+Commercial Banks,SIPEM Banque,sipembanque.mg,,confirmed 2026-09-29,
+Civil registry / National ID authority,,,,absent,PRODIGY site prodigy.gov.mg redirects to digital.gov.mg (UGD); no separate domain
+Data protection authority,,,,absent,CMIL has no site found (cmil.mg does not resolve); operationalised 2025 under Ministry of Justice
+Electoral commission,Commission électorale nationale indépendante (CENI),ceni-madagascar.mg,,unconfirmed 2026-09-29,homepage did not load: ConnectTimeout
+Statistics office,Institut national de la statistique (INSTAT),instat.mg,,confirmed 2026-09-29,
+Immigration / Passports,Direction de l'immigration et de l'émigration,,,absent,shares mid.gov.mg with Interior (visas); passports via pn.gov.mg and diplomatie.gov.mg
+Health ministry / National health insurance,Ministère de la Santé publique,msanp.gov.mg,,confirmed 2026-09-29,
+Social protection / Social registry,Ministère de la Population et des Solidarités,population.gov.mg,,confirmed 2026-09-29,
+Land registry,Ministère de l'Aménagement du Territoire et des Services fonciers,matsf.gov.mg,,confirmed 2026-09-29,
+National payment switch,,,,absent,no national switch domain found
+Stock exchange,,,,absent,no stock exchange in Madagascar (CSBF: no financial market)
+Securities regulator,,,,absent,no securities regulator; CSBF sits within Banky Foiben'i Madagasikara (banky-foibe.mg)
+Sovereign wealth fund / National pension fund,Caisse nationale de prévoyance sociale (CNaPS),cnaps.mg,,confirmed 2026-09-29,
+Public procurement authority,Autorité de régulation des marchés publics (ARMP),armp.mg,,confirmed 2026-09-29,SIGMP e-procurement portal at marches.armp.mg
+Energy utility,JIRAMA,jirama.mg,,confirmed 2026-09-29,
+Ports authority,Société du port à gestion autonome de Toamasina (SPAT),toamasina-port.com,,confirmed 2026-09-29,
+State-owned telco / National backbone operator,Telma (Yas Madagascar),telma.mg,,confirmed 2026-09-29,incumbent operator; Axian-owned; rebranded Yas 2024
+E-government agency,Unité de gouvernance digitale (UGD),digital.gov.mg,,confirmed 2026-09-29,
+E-government agency,Gouvernement malagasy (zone parente),gov.mg,,unconfirmed 2026-09-29,parent zone; scanned root-only; homepage did not load: ConnectionError
+National data centre / Government cloud operator,,,,absent,national data centre run by UGD/ARTEC; no separate domain found
+Cybersecurity agency / National CERT,CIRT Madagascar,cirt.gov.mg,,confirmed 2026-09-29,
+Communications regulator,Autorité de régulation des technologies de communication (ARTEC),artec.mg,,confirmed 2026-09-29,
+Audit office,Cour des comptes,ccomptes.mg,,confirmed 2026-09-29,
+Anti-corruption commission,Bureau indépendant anti-corruption (BIANCO),bianco-mg.org,,confirmed 2026-09-29,
