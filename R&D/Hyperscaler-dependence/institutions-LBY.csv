@@ -1,0 +1,50 @@
+type,institution,domain,email_domain,status,note
+Presidency,Presidency of the Council of Ministers (Prime Minister's Office),pm.gov.ly,,confirmed 2026-09-29,Government of National Unity (Tripoli)
+Presidency,Presidential Council,,,absent,no official domain found
+Parliament,House of Representatives,,,absent,seated in the east and outside the GNU; no official domain found
+Foreign Affairs,Ministry of Foreign Affairs and International Cooperation,mofa.gov.ly,,confirmed 2026-09-29,GNU ministry
+Defence,Ministry of Defence,mod.gov.ly,,confirmed 2026-09-29,
+Armed Forces,Libyan Armed Forces,,,absent,shares mod.gov.ly with Defence
+Police,Police,,,absent,part of the Ministry of Interior; shares moi.gov.ly
+Justice,Ministry of Justice,aladel.gov.ly,,confirmed 2026-09-29,
+Justice,Attorney General's Office,attorneygeneral.gov.ly,,confirmed 2026-09-29,
+Treasury / Finance,Ministry of Finance,mof.gov.ly,,confirmed 2026-09-29,
+Revenue Service,Libyan Tax Authority,tax.gov.ly,,confirmed 2026-09-29,
+Customs,Libyan Customs Authority,customs.gov.ly,,confirmed 2026-09-29,
+Intelligence,Internal Security Agency,isa.gov.ly,,confirmed 2026-09-29,
+Interior / Home Affairs,Ministry of Interior,moi.gov.ly,,confirmed 2026-09-29,
+Central Bank,Central Bank of Libya,cbl.gov.ly,,confirmed 2026-09-29,
+Commercial Banks,Jumhouria Bank,jbank.ly,,confirmed 2026-09-29,"Source: Central Bank of Libya list of commercial banks (cbl.gov.ly/en/banks/) and Main Financial Data and Indicators of the Libyan Banks 2025 (cbl.gov.ly); CBL names the top five by assets as Jumhouria, National Commercial, Wahda, Sahara, Bank of Commerce and Development; order of the remaining five not published, chosen from the CBL licensed list"
+Commercial Banks,National Commercial Bank,ncb.ly,,confirmed 2026-09-29,
+Commercial Banks,Wahda Bank,wahdabank.com.ly,,confirmed 2026-09-29,
+Commercial Banks,Sahara Bank,saharabank.ly,,confirmed 2026-09-29,
+Commercial Banks,Bank of Commerce and Development,bcd.ly,,confirmed 2026-09-29,
+Commercial Banks,North Africa Bank,nab.ly,,confirmed 2026-09-29,
+Commercial Banks,Aman Bank,aman-bank.com,,confirmed 2026-09-29,
+Commercial Banks,Libyan Foreign Bank,lfb.ly,,confirmed 2026-09-29,
+Commercial Banks,Alwaha Bank,alwahabank.ly,,confirmed 2026-09-29,
+Commercial Banks,Mediterranean Bank,meditbank.ly,,confirmed 2026-09-29,
+Civil registry / National ID authority,General Information Authority,gia.gov.ly,,confirmed 2026-09-29,national number and civil registry data
+Data protection authority,Data protection authority,,,absent,no data protection authority exists in Libya
+Electoral commission,High National Elections Commission,hnec.ly,,confirmed 2026-09-29,
+Statistics office,Bureau of Statistics and Census,bsc.ly,,confirmed 2026-09-29,
+Immigration / Passports,Passport authority,,,absent,under Interior; shares moi.gov.ly
+Health ministry / National health insurance,Ministry of Health,moh.gov.ly,,confirmed 2026-09-29,
+Social protection / Social registry,Social Security Fund,ssf.gov.ly,,confirmed 2026-09-29,
+Land registry,Real Estate Registration Authority,,,absent,no official domain found
+National payment switch,Moamalat,moamalat.net,,unconfirmed 2026-09-29,bank-owned national switch and POS processor; homepage did not load: ConnectionError
+Stock exchange,Libyan Stock Market,,,absent,lsm.ly did not load; no other domain found
+Securities regulator,Libyan Capital Market Authority,lcma.gov.ly,,confirmed 2026-09-29,
+Sovereign wealth fund / National pension fund,Libyan Investment Authority,lia.ly,,confirmed 2026-09-29,
+Public procurement authority,Public procurement authority,,,absent,no e-procurement portal domain found
+Energy utility,General Electricity Company of Libya,gecol.ly,,unconfirmed 2026-09-29,homepage did not load: ConnectTimeout
+Energy utility,National Oil Corporation,noc.ly,,confirmed 2026-09-29,
+Ports authority,Libyan Ports Company,lpclibya.com,,confirmed 2026-09-29,
+State-owned telco / National backbone operator,Libyan Post Telecommunications and Information Technology Company,lptic.ly,,confirmed 2026-09-29,
+E-government agency,Citizen Service Center,csc.gov.ly,,confirmed 2026-09-29,
+E-government agency,Libyan government parent zone,gov.ly,,unconfirmed 2026-09-29,parent zone; scanned root-only; homepage did not load: ConnectionError
+National data centre / Government cloud operator,National data centre,,,absent,no domain found; GIA hosts national data
+Cybersecurity agency / National CERT,National Information Security and Safety Authority,nissa.gov.ly,,confirmed 2026-09-29,
+Communications regulator,Communications regulator,,,absent,no domain found
+Audit office,Audit Bureau,audit.gov.ly,,confirmed 2026-09-29,
+Anti-corruption commission,National Anti-Corruption Commission,nacc.gov.ly,,confirmed 2026-09-29,
