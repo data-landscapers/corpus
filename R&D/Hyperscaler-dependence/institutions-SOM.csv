@@ -1,0 +1,47 @@
+type,institution,domain,email_domain,status,note
+Presidency,Office of the President (Villa Somalia),villasomalia.gov.so,,confirmed 2026-09-29,
+Parliament,Federal Parliament of Somalia,,,absent,no dedicated parliament domain found
+Foreign Affairs,Ministry of Foreign Affairs and International Cooperation,mfa.gov.so,,confirmed 2026-09-29,
+Defence,Ministry of Defence,mod.gov.so,,confirmed 2026-09-29,
+Armed Forces,Somali National Army,,,absent,shares mod.gov.so with Defence
+Police,Somali Police Force,police.gov.so,,confirmed 2026-09-29,
+Justice,Ministry of Justice and Constitutional Affairs,moj.gov.so,,confirmed 2026-09-29,
+Treasury / Finance,Ministry of Finance,mof.gov.so,,confirmed 2026-09-29,
+Revenue Service,Revenue Department (Ministry of Finance),,,absent,shares mof.gov.so with Treasury / Finance
+Customs,Customs Department (Ministry of Finance),,,absent,shares mof.gov.so with Treasury / Finance
+Intelligence,National Intelligence and Security Agency (NISA),,,absent,no official website found
+Interior / Home Affairs,Ministry of Internal Security,mois.gov.so,,confirmed 2026-09-29,
+Central Bank,Central Bank of Somalia,centralbank.gov.so,,confirmed 2026-09-29,
+Commercial Banks,International Bank of Somalia,ibsbank.so,,confirmed 2026-09-29,Source: Central Bank of Somalia licensed banks list (centralbank.gov.so/licensed-banks/; 13 banks late 2024); no public per-bank asset ranking found so rows are the largest named in sector reporting (African Business 2026; sominvest.gov.so) plus other licensed banks; Somalia has 13-15 licensed banks
+Commercial Banks,Premier Bank,premierbank.so,,confirmed 2026-09-29,
+Commercial Banks,Salaam Somali Bank,salaambank.so,,confirmed 2026-09-29,
+Commercial Banks,Dahabshil Bank International,dahabshilbank.com,,confirmed 2026-09-29,
+Commercial Banks,Amal Bank,amalbankso.so,,confirmed 2026-09-29,
+Commercial Banks,Mybank Limited,mybank.so,,confirmed 2026-09-29,
+Commercial Banks,Amana Bank,amanabank.so,,confirmed 2026-09-29,homepage parked; bank email at this domain
+Commercial Banks,SomBank,sombank.so,,confirmed 2026-09-29,
+Commercial Banks,Daryeel Bank,daryeelbank.com,,confirmed 2026-09-29,
+Commercial Banks,Galaxy International Bank,gibbank.so,,confirmed 2026-09-29,
+Civil registry / National ID authority,National Identification and Registration Authority (NIRA),nira.gov.so,,confirmed 2026-09-29,
+Data protection authority,,,,absent,no data protection authority established
+Electoral commission,National Independent Electoral and Boundaries Commission,niebc.gov.so,,confirmed 2026-09-29,
+Statistics office,Somali National Bureau of Statistics,nbs.gov.so,,confirmed 2026-09-29,
+Immigration / Passports,Immigration and Citizenship Agency,,,absent,under Ministry of Internal Security (mois.gov.so); no own domain found
+Health ministry / National health insurance,Ministry of Health and Human Services,moh.gov.so,,confirmed 2026-09-29,
+Social protection / Social registry,Ministry of Labour and Social Affairs,molsa.gov.so,,confirmed 2026-09-29,
+Land registry,,,,absent,no national land registry with a domain found
+National payment switch,,,,absent,no national switch found
+Stock exchange,,,,absent,no stock exchange operating
+Securities regulator,,,,absent,no securities regulator found
+Sovereign wealth fund / National pension fund,,,,absent,none established
+Public procurement authority,,,,absent,procurement department within mof.gov.so; no own domain
+Energy utility,,,,absent,no national utility; electricity is private
+Ports authority,Somali Ports Authority,spa.gov.so,,confirmed 2026-09-29,
+Ports authority,Mogadishu Port Authority,mpa.gov.so,,confirmed 2026-09-29,
+State-owned telco / National backbone operator,,,,absent,no state-owned telco; operators are private
+E-government agency,Federal Government of Somalia government zone,gov.so,,unconfirmed 2026-09-29,parent zone; scanned root-only; homepage did not load: ConnectionError
+National data centre / Government cloud operator,,,,absent,none found
+Cybersecurity agency / National CERT,,,,absent,no national CERT site found
+Communications regulator,National Communications Authority,nca.gov.so,,confirmed 2026-09-29,
+Audit office,Office of the Auditor General,oag.gov.so,,confirmed 2026-09-29,
+Anti-corruption commission,,,,absent,Independent Anti-Corruption Commission dissolved Oct 2022; not reconstituted
