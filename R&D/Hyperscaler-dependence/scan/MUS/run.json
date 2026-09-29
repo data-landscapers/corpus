@@ -1,0 +1,449 @@
+{
+ "iso3": "MUS",
+ "scan_date": "2026-09-29",
+ "range_files": {
+  "aws.json": "2026-09-28",
+  "google-cloud.json": "2026-09-28",
+  "google.json": "2026-09-28",
+  "cloudflare-v4.txt": "2026-09-28",
+  "cloudflare-v6.txt": "2026-09-28",
+  "oracle.json": "2026-09-28",
+  "azure.json": "2026-09-28"
+ },
+ "range_file_errors": {},
+ "domains": {
+  "president.govmu.org": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "mauritiusassembly.govmu.org": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "foreign.govmu.org": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "pmo.govmu.org": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 0,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "police.govmu.org": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "attorneygeneral.govmu.org": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "supremecourt.govmu.org": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "mof.govmu.org": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "mra.mu": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 51,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "dha.govmu.org": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "bom.mu": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 42,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mcb.mu": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 72,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "sbmgroup.mu": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 97,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "absabank.mu": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 70,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "bankone.mu": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 31,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "afrasiabank.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 44,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "maubank.mu": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 7,
+   "dictionary_hits": 10,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "sbimauritius.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 10,
+   "dictionary_hits": 11,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bankofbaroda-mu.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "csd.govmu.org": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "dataprotection.govmu.org": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "electoral.govmu.org": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "statsmauritius.govmu.org": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "passport.govmu.org": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "health.govmu.org": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "socialsecurity.govmu.org": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "eregistry.govmu.org": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "stockexchangeofmauritius.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 4,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "fscmauritius.org": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 15,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "publicprocurement.govmu.org": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "ceb.mu": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 3,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mauport.com": {
+   "wildcard": true,
+   "ct_status": "ok",
+   "ct_names": 6,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "telecom.mu": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 417,
+   "dictionary_hits": 25,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cib.govmu.org": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "cert-mu.govmu.org": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "icta.mu": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 18,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nao.govmu.org": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "fcc.mu": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  }
+ },
+ "new_asns": {
+  "36894": "Mauritius Digital Promotion Agency - Mauritius Digital Promotion Agency",
+  "30999": "EMTEL LIMITED - EMTEL LIMITED",
+  "53292": "MWAY - ManagedWay",
+  "9583": "SIFY-AS-IN - Sify Limited",
+  "59778": "SYNEXTRA-UK Synextra Limited",
+  "14992": "CRYSTALTECH - NewtekOne, Inc.",
+  "13037": "ZEN-AS Zen Internet Ltd",
+  "26380": "MASTER-7-AS - MasterCard Technologies LLC",
+  "36868": "Rogers Capital Technology Services Ltd - Rogers Capital Technology Services Ltd",
+  "34971": "PDDA-AS CDLAN SpA"
+ },
+ "rollup": {
+  "all": {
+   "routable": 869,
+   "us_hyperscaler_share": 18.1,
+   "african_region_share": 0.0,
+   "us_saas_share": 5.6,
+   "cdn_share": 28.9,
+   "national_or_self_share": 12.5,
+   "unattributed": 104,
+   "by_category": {
+    "unattributed": 104,
+    "telco-isp": 152,
+    "us-hyperscaler-offshore": 157,
+    "commercial-host": 35,
+    "cdn-origin-unknown": 251,
+    "us-saas": 49,
+    "self-hosted": 109,
+    "african-colo": 11,
+    "unresolved": 1
+   },
+   "institutions": 38,
+   "names": 1050,
+   "m365": 9,
+   "google": 0,
+   "tangled_hybrid": 1,
+   "any_us_hyperscaler": 11
+  },
+  "government": {
+   "routable": 319,
+   "us_hyperscaler_share": 10.3,
+   "african_region_share": 0.0,
+   "us_saas_share": 9.1,
+   "cdn_share": 8.2,
+   "national_or_self_share": 28.8,
+   "unattributed": 34,
+   "by_category": {
+    "unattributed": 34,
+    "telco-isp": 95,
+    "us-hyperscaler-offshore": 33,
+    "cdn-origin-unknown": 26,
+    "commercial-host": 10,
+    "us-saas": 29,
+    "self-hosted": 92
+   },
+   "institutions": 30,
+   "names": 666,
+   "m365": 5,
+   "google": 0,
+   "tangled_hybrid": 0,
+   "any_us_hyperscaler": 5
+  },
+  "bank": {
+   "routable": 550,
+   "us_hyperscaler_share": 22.5,
+   "african_region_share": 0.0,
+   "us_saas_share": 3.6,
+   "cdn_share": 40.9,
+   "national_or_self_share": 3.1,
+   "unattributed": 70,
+   "by_category": {
+    "unattributed": 70,
+    "commercial-host": 25,
+    "telco-isp": 57,
+    "cdn-origin-unknown": 225,
+    "us-hyperscaler-offshore": 124,
+    "us-saas": 20,
+    "self-hosted": 17,
+    "african-colo": 11,
+    "unresolved": 1
+   },
+   "institutions": 8,
+   "names": 384,
+   "m365": 4,
+   "google": 0,
+   "tangled_hybrid": 1,
+   "any_us_hyperscaler": 6
+  }
+ },
+ "findings": []
+}

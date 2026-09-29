@@ -1,0 +1,39 @@
+iso3,type,institution,domains,names,routable,us_hyperscaler_share,african_region_share,us_saas_share,cdn_share,national_or_self_share,unattributed,mail_provider,mail_security,tangled_hybrid,scan_date
+MUS,Presidency,Office of the President,president.govmu.org,2,1,0.0,0.0,0.0,0.0,0.0,1,none,,false,2026-09-29
+MUS,Parliament,National Assembly of Mauritius,mauritiusassembly.govmu.org,2,1,0.0,0.0,0.0,0.0,0.0,1,none,,false,2026-09-29
+MUS,Foreign Affairs,Ministry of Foreign Affairs Regional Integration and International Trade,foreign.govmu.org,2,1,0.0,0.0,0.0,0.0,0.0,1,none,,false,2026-09-29
+MUS,Defence,Prime Minister's Office (National Security),pmo.govmu.org,4,3,0.0,0.0,0.0,0.0,0.0,1,none,,false,2026-09-29
+MUS,Police,Mauritius Police Force,police.govmu.org,2,1,0.0,0.0,0.0,0.0,0.0,1,none,,false,2026-09-29
+MUS,Justice,Attorney General's Office,attorneygeneral.govmu.org,2,1,0.0,0.0,0.0,0.0,0.0,1,none,,false,2026-09-29
+MUS,Justice,Supreme Court of Mauritius,supremecourt.govmu.org,2,1,0.0,0.0,0.0,0.0,0.0,1,none,,false,2026-09-29
+MUS,Treasury / Finance,Ministry of Finance Economic Planning and Development,mof.govmu.org,2,1,0.0,0.0,0.0,0.0,0.0,1,none,,false,2026-09-29
+MUS,Revenue Service,Mauritius Revenue Authority,mra.mu,53,36,0.0,0.0,0.0,0.0,0.0,8,other:Mauritius Telecom,,false,2026-09-29
+MUS,Interior / Home Affairs,"Ministry of Defence, Home Affairs and External Communications",dha.govmu.org,2,1,0.0,0.0,0.0,0.0,0.0,1,none,,false,2026-09-29
+MUS,Central Bank,Bank of Mauritius,bom.mu,47,20,45.0,0.0,0.0,0.0,0.0,0,m365,,false,2026-09-29
+MUS,Commercial Banks,The Mauritius Commercial Bank,mcb.mu,78,59,6.8,0.0,1.7,13.6,0.0,15,m365,,false,2026-09-29
+MUS,Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,100,77,18.2,0.0,2.6,15.6,22.1,30,m365,broadcom-messagelabs,true,2026-09-29
+MUS,Commercial Banks,Absa Bank (Mauritius),absabank.mu,75,117,71.8,0.0,3.4,6.0,0.0,0,none,,false,2026-09-29
+MUS,Commercial Banks,Bank One,bankone.mu,39,189,0.5,0.0,6.3,84.7,0.0,2,m365,mimecast,false,2026-09-29
+MUS,Commercial Banks,AfrAsia Bank,afrasiabank.com,49,34,38.2,0.0,0.0,0.0,0.0,4,other:mimecast,mimecast,false,2026-09-29
+MUS,Commercial Banks,MauBank,maubank.mu,18,24,33.3,0.0,0.0,0.0,0.0,9,other:Mauritius Telecom|Rogers Capital Technology Services Ltd,,false,2026-09-29
+MUS,Commercial Banks,SBI (Mauritius),sbimauritius.com,22,44,0.0,0.0,2.3,77.3,0.0,8,m365,,false,2026-09-29
+MUS,Commercial Banks,Bank of Baroda Mauritius,bankofbaroda-mu.com,3,6,0.0,0.0,0.0,66.7,0.0,2,other:mx1-hosting.jellyfish.system,,false,2026-09-29
+MUS,Civil registry / National ID authority,Civil Status Division,csd.govmu.org,2,1,0.0,0.0,0.0,0.0,0.0,1,none,,false,2026-09-29
+MUS,Data protection authority,Data Protection Office,dataprotection.govmu.org,2,1,0.0,0.0,0.0,0.0,0.0,1,none,,false,2026-09-29
+MUS,Electoral commission,Electoral Commissioner's Office,electoral.govmu.org,2,2,0.0,0.0,0.0,0.0,0.0,2,none,,false,2026-09-29
+MUS,Statistics office,Statistics Mauritius,statsmauritius.govmu.org,2,1,0.0,0.0,0.0,0.0,0.0,1,none,,false,2026-09-29
+MUS,Immigration / Passports,Passport and Immigration Office,passport.govmu.org,2,2,0.0,0.0,0.0,0.0,0.0,2,none,,false,2026-09-29
+MUS,Health ministry / National health insurance,Ministry of Health and Wellness,health.govmu.org,2,1,0.0,0.0,0.0,0.0,0.0,1,none,,false,2026-09-29
+MUS,Social protection / Social registry,Ministry of Social Integration Social Security and National Solidarity,socialsecurity.govmu.org,2,1,0.0,0.0,0.0,0.0,0.0,1,none,,false,2026-09-29
+MUS,Land registry,Registrar General's Department,eregistry.govmu.org,2,1,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+MUS,Stock exchange,Stock Exchange of Mauritius,stockexchangeofmauritius.com,8,10,50.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+MUS,Securities regulator,Financial Services Commission,fscmauritius.org,23,26,3.8,0.0,0.0,15.4,0.0,2,other:mimecast,mimecast,false,2026-09-29
+MUS,Public procurement authority,Public Procurement Office,publicprocurement.govmu.org,3,2,0.0,0.0,0.0,0.0,0.0,1,none,,false,2026-09-29
+MUS,Energy utility,Central Electricity Board,ceb.mu,12,31,29.0,0.0,32.3,0.0,0.0,1,m365,proofpoint,false,2026-09-29
+MUS,Ports authority,Mauritius Ports Authority,mauport.com,7,9,0.0,0.0,11.1,22.2,0.0,0,m365,,false,2026-09-29
+MUS,State-owned telco / National backbone operator,Mauritius Telecom,telecom.mu,443,94,0.0,0.0,1.1,0.0,97.9,0,m365,,false,2026-09-29
+MUS,E-government agency,Central Informatics Bureau,cib.govmu.org,2,1,0.0,0.0,0.0,0.0,0.0,1,none,,false,2026-09-29
+MUS,Cybersecurity agency / National CERT,CERT-MU,cert-mu.govmu.org,2,1,0.0,0.0,0.0,0.0,0.0,1,none,,false,2026-09-29
+MUS,Communications regulator,Information and Communication Technologies Authority,icta.mu,20,25,0.0,0.0,0.0,24.0,0.0,0,other:Mauritius Telecom,,false,2026-09-29
+MUS,Audit office,National Audit Office,nao.govmu.org,2,1,0.0,0.0,0.0,0.0,0.0,1,none,,false,2026-09-29
+MUS,Anti-corruption commission,Financial Crimes Commission,fcc.mu,8,42,21.4,0.0,40.5,33.3,0.0,1,m365,,false,2026-09-29

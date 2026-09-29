@@ -1,45 +1,45 @@
 type,institution,domain,email_domain,status,note
-Presidency,Office of the President,president.govmu.org,,confirmed 2026-09-29,
-Parliament,National Assembly of Mauritius,mauritiusassembly.govmu.org,,confirmed 2026-09-29,homepage did not load: ConnectionError
-Foreign Affairs,Ministry of Foreign Affairs Regional Integration and International Trade,foreign.govmu.org,,confirmed 2026-09-29,
-Defence,Prime Minister's Office (National Security),pmo.govmu.org,,confirmed 2026-09-29,no standing army; security under PMO
+Presidency,Office of the President,president.govmu.org,,scanned 2026-09-29,
+Parliament,National Assembly of Mauritius,mauritiusassembly.govmu.org,,scanned 2026-09-29,homepage did not load: ConnectionError
+Foreign Affairs,Ministry of Foreign Affairs Regional Integration and International Trade,foreign.govmu.org,,scanned 2026-09-29,
+Defence,Prime Minister's Office (National Security),pmo.govmu.org,,scanned 2026-09-29,no standing army; security under PMO
 Armed Forces,Mauritius Special Mobile Force,,,absent,part of Police; no own domain
-Police,Mauritius Police Force,police.govmu.org,,confirmed 2026-09-29,
-Justice,Attorney General's Office,attorneygeneral.govmu.org,,confirmed 2026-09-29,
-Justice,Supreme Court of Mauritius,supremecourt.govmu.org,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
-Treasury / Finance,Ministry of Finance Economic Planning and Development,mof.govmu.org,,confirmed 2026-09-29,
-Revenue Service,Mauritius Revenue Authority,mra.mu,,confirmed 2026-09-29,
+Police,Mauritius Police Force,police.govmu.org,,scanned 2026-09-29,
+Justice,Attorney General's Office,attorneygeneral.govmu.org,,scanned 2026-09-29,
+Justice,Supreme Court of Mauritius,supremecourt.govmu.org,,scanned 2026-09-29,homepage did not load: ConnectionError
+Treasury / Finance,Ministry of Finance Economic Planning and Development,mof.govmu.org,,scanned 2026-09-29,
+Revenue Service,Mauritius Revenue Authority,mra.mu,mra.mu,scanned 2026-09-29,
 Customs,Mauritius Revenue Authority Customs,,,absent,shares mra.mu with Revenue Service
 Intelligence,National Security Service,,,absent,no public domain; under PMO
-Interior / Home Affairs,"Ministry of Defence, Home Affairs and External Communications",dha.govmu.org,,confirmed 2026-09-29,homepage did not load: ConnectionError
-Central Bank,Bank of Mauritius,bom.mu,,confirmed 2026-09-29,
-Commercial Banks,The Mauritius Commercial Bank,mcb.mu,,confirmed 2026-09-29,"Ranking source: shore.africa ""10 notable banks in Mauritius"" (shore.africa/2025/10/30/top-banks-in-mauritius/) 2025 and Bank of Mauritius licensed list (bom.mu); eight seeded; HSBC Mauritius and Standard Chartered left out - run on parent global sites; Investec left out - runs on group site"
-Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,,confirmed 2026-09-29,
-Commercial Banks,Absa Bank (Mauritius),absabank.mu,,confirmed 2026-09-29,homepage did not load: ConnectionError
-Commercial Banks,Bank One,bankone.mu,,confirmed 2026-09-29,
-Commercial Banks,AfrAsia Bank,afrasiabank.com,,confirmed 2026-09-29,
-Commercial Banks,MauBank,maubank.mu,,confirmed 2026-09-29,
-Commercial Banks,SBI (Mauritius),sbimauritius.com,,confirmed 2026-09-29,
-Commercial Banks,Bank of Baroda Mauritius,bankofbaroda-mu.com,,confirmed 2026-09-29,homepage did not load: ConnectionError
-Civil registry / National ID authority,Civil Status Division,csd.govmu.org,,confirmed 2026-09-29,homepage did not load: ConnectionError
-Data protection authority,Data Protection Office,dataprotection.govmu.org,,confirmed 2026-09-29,
-Electoral commission,Electoral Commissioner's Office,electoral.govmu.org,,confirmed 2026-09-29,homepage did not load: ConnectionError
-Statistics office,Statistics Mauritius,statsmauritius.govmu.org,,confirmed 2026-09-29,
-Immigration / Passports,Passport and Immigration Office,passport.govmu.org,,confirmed 2026-09-29,
-Health ministry / National health insurance,Ministry of Health and Wellness,health.govmu.org,,confirmed 2026-09-29,
-Social protection / Social registry,Ministry of Social Integration Social Security and National Solidarity,socialsecurity.govmu.org,,confirmed 2026-09-29,
-Land registry,Registrar General's Department,eregistry.govmu.org,,confirmed 2026-09-29,homepage did not load: ConnectionError
+Interior / Home Affairs,"Ministry of Defence, Home Affairs and External Communications",dha.govmu.org,,scanned 2026-09-29,homepage did not load: ConnectionError
+Central Bank,Bank of Mauritius,bom.mu,bom.mu,scanned 2026-09-29,
+Commercial Banks,The Mauritius Commercial Bank,mcb.mu,mcb.mu,scanned 2026-09-29,"Ranking source: shore.africa ""10 notable banks in Mauritius"" (shore.africa/2025/10/30/top-banks-in-mauritius/) 2025 and Bank of Mauritius licensed list (bom.mu); eight seeded; HSBC Mauritius and Standard Chartered left out - run on parent global sites; Investec left out - runs on group site"
+Commercial Banks,SBM Bank (Mauritius),sbmgroup.mu,sbmgroup.mu,scanned 2026-09-29,
+Commercial Banks,Absa Bank (Mauritius),absabank.mu,,scanned 2026-09-29,homepage did not load: ConnectionError
+Commercial Banks,Bank One,bankone.mu,bankone.mu,scanned 2026-09-29,
+Commercial Banks,AfrAsia Bank,afrasiabank.com,afrasiabank.com,scanned 2026-09-29,
+Commercial Banks,MauBank,maubank.mu,maubank.mu,scanned 2026-09-29,
+Commercial Banks,SBI (Mauritius),sbimauritius.com,sbimauritius.com,scanned 2026-09-29,
+Commercial Banks,Bank of Baroda Mauritius,bankofbaroda-mu.com,bankofbaroda-mu.com,scanned 2026-09-29,homepage did not load: ConnectionError
+Civil registry / National ID authority,Civil Status Division,csd.govmu.org,,scanned 2026-09-29,homepage did not load: ConnectionError
+Data protection authority,Data Protection Office,dataprotection.govmu.org,,scanned 2026-09-29,
+Electoral commission,Electoral Commissioner's Office,electoral.govmu.org,,scanned 2026-09-29,homepage did not load: ConnectionError
+Statistics office,Statistics Mauritius,statsmauritius.govmu.org,,scanned 2026-09-29,
+Immigration / Passports,Passport and Immigration Office,passport.govmu.org,,scanned 2026-09-29,
+Health ministry / National health insurance,Ministry of Health and Wellness,health.govmu.org,,scanned 2026-09-29,
+Social protection / Social registry,Ministry of Social Integration Social Security and National Solidarity,socialsecurity.govmu.org,,scanned 2026-09-29,
+Land registry,Registrar General's Department,eregistry.govmu.org,,scanned 2026-09-29,homepage did not load: ConnectionError
 National payment switch,Mauritius Central Automated Switch,,,absent,"run by Bank of Mauritius; page on bom.mu, no own domain"
-Stock exchange,Stock Exchange of Mauritius,stockexchangeofmauritius.com,,confirmed 2026-09-29,
-Securities regulator,Financial Services Commission,fscmauritius.org,,confirmed 2026-09-29,
+Stock exchange,Stock Exchange of Mauritius,stockexchangeofmauritius.com,,scanned 2026-09-29,
+Securities regulator,Financial Services Commission,fscmauritius.org,fscmauritius.org,scanned 2026-09-29,
 Sovereign wealth fund / National pension fund,National Pensions Fund,,,absent,administered by Ministry of Finance; replaced by CSG 2020; no own domain
-Public procurement authority,Public Procurement Office,publicprocurement.govmu.org,,confirmed 2026-09-29,
-Energy utility,Central Electricity Board,ceb.mu,,confirmed 2026-09-29,
-Ports authority,Mauritius Ports Authority,mauport.com,,confirmed 2026-09-29,homepage did not load: ConnectionError
-State-owned telco / National backbone operator,Mauritius Telecom,telecom.mu,,confirmed 2026-09-29,homepage did not load: ConnectTimeout
-E-government agency,Central Informatics Bureau,cib.govmu.org,,confirmed 2026-09-29,
+Public procurement authority,Public Procurement Office,publicprocurement.govmu.org,,scanned 2026-09-29,
+Energy utility,Central Electricity Board,ceb.mu,ceb.mu,scanned 2026-09-29,
+Ports authority,Mauritius Ports Authority,mauport.com,mauport.com,scanned 2026-09-29,homepage did not load: ConnectionError
+State-owned telco / National backbone operator,Mauritius Telecom,telecom.mu,telecom.mu,scanned 2026-09-29,homepage did not load: ConnectTimeout
+E-government agency,Central Informatics Bureau,cib.govmu.org,,scanned 2026-09-29,
 National data centre / Government cloud operator,Government Online Centre,,,absent,operated by Central Informatics Bureau; no own domain found
-Cybersecurity agency / National CERT,CERT-MU,cert-mu.govmu.org,,confirmed 2026-09-29,
-Communications regulator,Information and Communication Technologies Authority,icta.mu,,confirmed 2026-09-29,
-Audit office,National Audit Office,nao.govmu.org,,confirmed 2026-09-29,homepage did not load: ConnectionError
-Anti-corruption commission,Financial Crimes Commission,fcc.mu,,confirmed 2026-09-29,
+Cybersecurity agency / National CERT,CERT-MU,cert-mu.govmu.org,,scanned 2026-09-29,
+Communications regulator,Information and Communication Technologies Authority,icta.mu,icta.mu,scanned 2026-09-29,
+Audit office,National Audit Office,nao.govmu.org,,scanned 2026-09-29,homepage did not load: ConnectionError
+Anti-corruption commission,Financial Crimes Commission,fcc.mu,fcc.mu,scanned 2026-09-29,
