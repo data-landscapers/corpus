@@ -1,0 +1,44 @@
+type,institution,domain,email_domain,status,note
+Presidency,Présidence de la République,presidence.cg,,confirmed 2026-09-29,
+Parliament,Assemblée nationale,assemblee-nationale.cg,,confirmed 2026-09-29,
+Parliament,Sénat,senat.cg,,confirmed 2026-09-29,
+Foreign Affairs,Ministère des Affaires étrangères de la Francophonie et des Congolais de l'étranger,diplobrazza.net,,confirmed 2026-09-29,
+Defence,Ministère de la Défense nationale,,,absent,no own domain found
+Armed Forces,Forces armées congolaises,,,absent,shares Defence domain; none found
+Police,Police nationale,,,absent,shares interieur.gouv.cg with Interior
+Justice,Ministère de la Justice des Droits humains et de la Promotion des peuples autochtones,justice.gouv.cg,,unconfirmed 2026-09-29,homepage did not load: TooManyRedirects
+Treasury / Finance,Ministère des Finances du Budget et du Portefeuille public,finances.gouv.cg,,confirmed 2026-09-29,
+Revenue Service,Direction générale des impôts et des domaines,impots.gouv.cg,,confirmed 2026-09-29,
+Customs,Direction générale des douanes et des droits indirects,,,absent,shares finances.gouv.cg with Treasury / Finance
+Intelligence,Centrale d'intelligence et de documentation,,,absent,within Interior ministry; no own domain
+Interior / Home Affairs,Ministère de l'Intérieur de la Décentralisation et du Développement local,interieur.gouv.cg,,confirmed 2026-09-29,
+Central Bank,Banque des États de l'Afrique centrale,beac.int,,confirmed 2026-09-29,regional (CEMAC); shared with other member states
+Commercial Banks,BGFIBank Congo (incl. ex-Société Générale Congo),congo.groupebgfibank.com,,unconfirmed 2026-09-29,"Source: EcoMatin 13 Aug 2025 (CNEF data end-2024; ecomatin.net) market shares of the 9 banks active; ranking BGFI, BSCA, Bank of Africa, Crédit du Congo, Ecobank, BCI. Left out: BSCA Bank (no domain found), Ecobank (group domain only); homepage did not load: ConnectionError"
+Commercial Banks,Bank of Africa Congo (ex La Congolaise de Banque),lcb-bank.com,,confirmed 2026-09-29,
+Commercial Banks,Crédit du Congo,creditducongo.com,,unconfirmed 2026-09-29,domain from CNEF bank list emails; homepage did not load: ConnectTimeout
+Commercial Banks,Banque commerciale internationale,bcicongo.com,,confirmed 2026-09-29,
+Commercial Banks,Banque postale du Congo,banquepostale.cg,,confirmed 2026-09-29,
+Commercial Banks,United Bank for Africa Congo,ubacongobrazzaville.com,,confirmed 2026-09-29,
+Civil registry / National ID authority,Direction de l'état civil,,,absent,under Interior; shares interieur.gouv.cg
+Data protection authority,Commission nationale de protection des données à caractère personnel,,,absent,no website found
+Electoral commission,Commission nationale électorale indépendante,,,absent,no website found
+Statistics office,Institut national de la statistique,ins-congo.cg,,confirmed 2026-09-29,
+Immigration / Passports,Direction générale de la surveillance du territoire et de l'immigration,,,absent,under Interior; shares interieur.gouv.cg
+Health ministry / National health insurance,Ministère de la Santé et de la Population,sante.gouv.cg,,confirmed 2026-09-29,
+Social protection / Social registry,Ministère des Affaires sociales,,,absent,no working own domain found
+Land registry,Conservation de la propriété foncière et du cadastre,,,absent,no website found
+National payment switch,GIMAC,gimac-afr.com,,confirmed 2026-09-29,regional (CEMAC); shared with other member states
+Stock exchange,Bourse des valeurs mobilières de l'Afrique centrale,bvm-ac.org,,confirmed 2026-09-29,regional (CEMAC); shared with other member states
+Securities regulator,Commission de surveillance du marché financier de l'Afrique centrale,cosumaf.org,,confirmed 2026-09-29,regional (CEMAC); shared with other member states
+Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale,cnss.cg,,confirmed 2026-09-29,
+Public procurement authority,Autorité de régulation des marchés publics,armp.cg,,confirmed 2026-09-29,
+Energy utility,Énergie électrique du Congo,e2c.cg,,confirmed 2026-09-29,
+Ports authority,Port autonome de Pointe-Noire,papn-cg.org,,confirmed 2026-09-29,
+State-owned telco / National backbone operator,Congo Télécom,congotelecom.cg,,confirmed 2026-09-29,
+E-government agency,Agence de développement de l'économie numérique,aden.cg,,confirmed 2026-09-29,
+E-government agency,Gouvernement de la République du Congo (zone parente),gouv.cg,,unconfirmed 2026-09-29,parent zone; scanned root-only; homepage did not load: ConnectionError
+National data centre / Government cloud operator,Ministère des Postes des Télécommunications et de l'Économie numérique (Data Center National),numerique.gouv.cg,,confirmed 2026-09-29,portal describing the national data centre; no separate domain found
+Cybersecurity agency / National CERT,Agence nationale de sécurité des systèmes d'information,anssi.cg,,confirmed 2026-09-29,
+Communications regulator,Agence de régulation des postes et des communications électroniques,arpce.cg,,confirmed 2026-09-29,
+Audit office,Cour des comptes et de discipline budgétaire,courdescomptes.cg,,confirmed 2026-09-29,
+Anti-corruption commission,Haute autorité de lutte contre la corruption,,,absent,no website found
