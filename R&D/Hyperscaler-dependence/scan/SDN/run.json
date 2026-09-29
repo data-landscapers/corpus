@@ -274,20 +274,7 @@
    "has_mx": true
   }
  },
- "new_asns": {
-  "327881": "National Information Center (NIC) - National Information Center (NIC)",
-  "328365": "Edge connect (pty) Ltd - Edge connect (pty) Ltd",
-  "15706": "Sudatel (Sudan Telecom Co. Ltd) - Sudatel (Sudan Telecom Co. Ltd)",
-  "204436": "KUALO-AS Kualo Limited",
-  "37211": "MAX NET FOR INTERNET SERVICES - MAX NET FOR INTERNET SERVICES",
-  "33788": "Kanar Telecommunication (Canar Telecom Co.Ltd) - Kanar Telecommunication (Canar Telecom Co.Ltd)",
-  "53861": "AS-KGIX - KGIX",
-  "40244": "TURNKEY-INTERNET - Turnkey Internet Inc.",
-  "18978": "ENZUINC-US - Enzu Inc",
-  "8781": "QA-ISP Ooredoo Q.S.C.",
-  "203993": "GNA-DC1-AS S.J.M. Steffann",
-  "328381": "Sudanese Internet Association - Sudanese Internet Association"
- },
+ "new_asns": {},
  "rollup": {
   "all": {
    "routable": 470,
@@ -295,22 +282,22 @@
    "african_region_share": 0.0,
    "us_saas_share": 11.1,
    "cdn_share": 11.7,
-   "national_or_self_share": 5.3,
-   "unattributed": 187,
+   "national_or_self_share": 11.1,
+   "unattributed": 0,
    "by_category": {
-    "unattributed": 187,
-    "telco-isp": 11,
-    "commercial-host": 102,
+    "national-dc": 27,
+    "telco-isp": 73,
+    "commercial-host": 200,
     "cdn-origin-unknown": 55,
     "us-saas": 52,
     "us-hyperscaler-offshore": 38,
     "self-hosted": 25
    },
-   "institutions": 29,
+   "institutions": 28,
    "names": 354,
    "m365": 2,
    "google": 1,
-   "tangled_hybrid": 1,
+   "tangled_hybrid": 2,
    "any_us_hyperscaler": 5
   },
   "government": {
@@ -319,22 +306,22 @@
    "african_region_share": 0.0,
    "us_saas_share": 9.4,
    "cdn_share": 15.2,
-   "national_or_self_share": 8.1,
-   "unattributed": 99,
+   "national_or_self_share": 16.8,
+   "unattributed": 0,
    "by_category": {
-    "unattributed": 99,
-    "telco-isp": 11,
-    "commercial-host": 70,
+    "national-dc": 27,
+    "telco-isp": 49,
+    "commercial-host": 104,
     "cdn-origin-unknown": 47,
     "us-saas": 29,
     "us-hyperscaler-offshore": 29,
     "self-hosted": 25
    },
-   "institutions": 19,
+   "institutions": 18,
    "names": 243,
    "m365": 1,
    "google": 1,
-   "tangled_hybrid": 1,
+   "tangled_hybrid": 2,
    "any_us_hyperscaler": 2
   },
   "bank": {
@@ -344,12 +331,12 @@
    "us_saas_share": 14.4,
    "cdn_share": 5.0,
    "national_or_self_share": 0.0,
-   "unattributed": 88,
+   "unattributed": 0,
    "by_category": {
-    "commercial-host": 32,
+    "commercial-host": 96,
     "us-hyperscaler-offshore": 9,
     "cdn-origin-unknown": 8,
-    "unattributed": 88,
+    "telco-isp": 24,
     "us-saas": 23
    },
    "institutions": 10,
