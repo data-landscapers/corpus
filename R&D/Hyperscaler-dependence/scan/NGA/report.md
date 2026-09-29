@@ -1,133 +1,137 @@
 ---
 title: Nigeria — who hosts the state's front door
-date: 2026-09-28
+date: 2026-09-29
 author: Bill Anderson
 source: R&D/Hyperscaler-dependence/scan/NGA/ (nodes.csv, organisations.csv, run.json)
-doc: https://claude.ai/code/artifact/9f237fde-6c96-4fca-a792-aec03972f4bc
+scan_date: 2026-09-29
 ---
 
 # Nigeria: who hosts the state's front door
 
-28 September 2026 · Bill Anderson
+29 September 2026 · Bill Anderson · scan of 29 September 2026
 
-About a quarter (24%) of the public-facing systems of 51 Nigerian state bodies, banks and utilities run on Amazon, Microsoft, Google or Oracle. Almost none of that (1% of the whole) is hosted in Africa. Another 44% sits behind Cloudflare and similar shields, so we can't see who hosts it. About one seventh (14%) runs on the government's Galaxy Backbone data centre or the institutions' own systems.
+The scan covered 52 state bodies, banks and state-owned companies in Nigeria. 24% of their working server addresses are on US cloud: Amazon, Microsoft, Google or Oracle. 44% are behind shields such as Cloudflare, which hide the host. 14% are on government data centres or the institutions' own systems.
 
-The scan covered the main ministries and agencies, the ten largest banks, the payment switches, the stock exchange and the state-owned companies. It found 6,665 web and mail names, pointing to 5,747 working server addresses. 36 of the 51 use US cloud for at least part of their public estate. 23 use Microsoft for email, and 2 use Google.
+The scan found 6,667 web and mail names and 5,765 working addresses. 36 of the 52 institutions use US cloud for at least part of their estate. 24 use Microsoft for email and 2 use Google.
+
+Of the 54 countries scanned so far, Nigeria has the 10th highest US cloud share (median 13%) and the 5th highest share behind shields (median 12%).
 
 ## Where it lives
 
-![US cloud holds 24% of the estate; almost none of it is in Africa](report-chart.png)
+![US cloud: 24% of working addresses; behind shields: 44%](report-chart.png)
 
-More than half of the 1,393 US-cloud addresses are Amazon's and Microsoft's worldwide delivery networks, mostly Amazon's. About a third are in Europe, mainly Microsoft's Dublin and Amsterdam data centres. Only 64 (5%) are in Africa, and just 4 use Amazon's new Lagos zone. The rest are in the US, in India or not placed.
+1,393 addresses are on US cloud. Where they are: 55% on worldwide delivery networks (no fixed location), 31% in Europe, 5% in Africa, 4% in North America, 3% in a region the providers do not publish and 3% in Asia or the Middle East.
 
-The shield share is the part we cannot see into. Cloudflare fronts most of it, with F5 and Imperva most of the rest. The servers behind them could be anywhere, including on US cloud, so the 24% is a floor, not a ceiling. Nigeria also leans on cheap foreign web hosts (7%) three times as much as Kenya or South Africa.
+2,555 addresses are behind shields: Cloudflare (81%), F5 (11%) and Imperva (7%). The host behind a shield cannot be seen, so the US cloud share is a minimum.
 
 ## Banks against government
 
-In Nigeria the government leans on US cloud almost twice as much as the banks do. The banks hide two thirds of their estate behind shields.
-
-| Share of working addresses | Government (41 bodies) | Banks (10) |
+| Share of working addresses | Government (42) | Banks (10) |
 | --- | --- | --- |
 | On US cloud | 30% | 16% |
-| …of which hosted in Africa | 2% | 0% |
+| …of which in Africa | 2% | <1% |
 | US online services (Microsoft 365 and others) | 5% | 3% |
-| Hidden behind a shield | 28% | 66% |
-| Government data centre (Galaxy Backbone) | 11% | — |
-| Run by the institution itself | 6% | 11% |
-| Cheap foreign web hosts | 10% | 2% |
-| African data centres and telecoms companies | 9% | 1% |
+| Behind a shield | 28% | 65% |
+| Government data centres | 12% | 0% |
+| Run by the institution itself | 5% | 11% |
+| Telecoms companies | 3% | 1% |
+| African data centres and IT firms | 7% | <1% |
+| Other foreign hosting firms | 10% | 2% |
 
-"Government" here includes the Central Bank, the two payment switches, the stock exchange and the state-owned companies. All ten banks use US cloud somewhere; so do 26 of the 41 government bodies.
+10 of 10 banks and 26 of 42 government bodies use US cloud somewhere. "Government" includes the central bank, the payment switch, the stock exchange and the state-owned companies.
 
 ## Email
 
-Microsoft carries the email of 23 of the 51 institutions. The core of government, though, runs its mail through Galaxy Backbone, the state's own data centre.
+24 of the 52 institutions use Microsoft 365 for email and 2 use Google.
 
-- **Microsoft 365:** 23, including the Central Bank, both revenue services, the Finance ministry, NIBSS and seven of the ten banks.
-- **Galaxy Backbone:** 11. They are State House, Defence, the Army, the Police, Foreign Affairs, Justice, Interior, Health, the Accountant-General, the Auditor-General and NIGCOMSAT.
-- **Their own mail servers:** 4. They are Galaxy Backbone itself, the National ID authority, the National Assembly and the electoral commission.
-- **Nigerian providers:** 5. The DSS and ngCERT use Backbone Connectivity Network, the EFCC uses Layer3 and the SEC uses MTN and MainOne. Customs uses its trade-system concessionaire.
-- **Google:** 2. They are the National Judicial Council and the Immigration Service.
-- **Other foreign providers:** 5. First Bank's mail runs on Amazon and the Transmission Company's on Microsoft Azure. Sterling Bank uses Zoho, the health insurance authority uses Contabo (a German budget server firm) and the ICPC uses a foreign web host.
-- **No mail on the domain scanned:** Stanbic IBTC.
+- **Microsoft 365:** 24. Federal Ministry of Finance, Federal Inland Revenue Service, Nigeria Revenue Service, Central Bank of Nigeria, Zenith Bank, Access Bank, United Bank for Africa, Guaranty Trust Bank, Fidelity Bank, First City Monument Bank, Union Bank, Nigeria Data Protection Commission, National Bureau of Statistics, National Social Safety-Nets Coordinating Office, Abuja Geographic Information Systems (FCT lands registry), Nigeria Inter-Bank Settlement System (NIBSS), Interswitch, Nigerian Exchange Group, Nigeria Sovereign Investment Authority, National Pension Commission, Bureau of Public Procurement, Nigerian Ports Authority, National Information Technology Development Agency (NITDA) and Nigerian Communications Commission.
+- **Google:** 2. National Judicial Council and Nigeria Immigration Service.
+- **Government data centre:** 12. State House (Galaxy Backbone), National Assembly (National Assembly Abuja), Ministry of Foreign Affairs (Galaxy Backbone), Ministry of Defence (Galaxy Backbone), Nigeria Police Force (Galaxy Backbone), Federal Ministry of Justice (Galaxy Backbone), Office of the Accountant-General of the Federation (Galaxy Backbone), Federal Ministry of Interior (Galaxy Backbone), Federal Ministry of Health (Galaxy Backbone), NIGCOMSAT (Galaxy Backbone), ngCERT (Galaxy Backbone) and Office of the Auditor-General for the Federation (Galaxy Backbone).
+- **Own mail servers:** 2. National Identity Management Commission and Galaxy Backbone.
+- **Telecoms companies:** 2. Nigerian Army (Globacom) and Department of State Services (Backbone Connectivity Network).
+- **African hosts:** 3. Nigeria Customs Service (Trade Modernisation Project), Securities and Exchange Commission (MainOne) and Economic and Financial Crimes Commission (Layer3).
+- **US cloud:** 1. Transmission Company of Nigeria.
+- **Foreign hosting firms:** 3. Sterling Bank (Zoho), National Health Insurance Authority (Contabo) and Independent Corrupt Practices Commission (Cyberspace).
+- **Behind a mail filter, provider not visible:** 1. First Bank of Nigeria.
+- **Not identified (INEC):** 1. Independent National Electoral Commission.
+- **No mail on the domain scanned:** 1. Stanbic IBTC.
 
 ## Institution by institution
 
-The data protection regulator, the stock exchange, the ID authority and the electoral commission lean hardest on US cloud. Fidelity Bank, the EFCC, Customs and ngCERT hide almost everything behind a shield. Each figure is a share of that institution's working addresses. Whatever a row does not add up to sits with telecoms companies, African data centres, US online services or foreign hosts.
+Each figure is a share of that institution's working addresses. The rest are with telecoms companies, African data centres, US online services or foreign hosts. Rows follow the order of institution types.
 
-| Institution | Sector | On US cloud | …of which in Africa | Behind a shield | Own or government | Email |
+| Institution | Type | On US cloud | …in Africa | Behind a shield | Own or government | Email |
 | --- | --- | --- | --- | --- | --- | --- |
-| Data Protection Commission | Government | 95% | 76% | 0% | 0% | Microsoft |
-| Nigerian Exchange Group | Government | 93% | 0% | 2% | 1% | Microsoft |
-| National ID (NIMC) | Government | 84% | 0% | 1% | 11% | Own servers |
-| Electoral commission (INEC) | Government | 80% | 0% | 7% | 0% | Own servers |
-| National Assembly | Government | 47% | 0% | 0% | 47% | Own servers |
-| National Pension Commission | Government | 46% | 0% | 0% | 4% | Microsoft |
-| Health insurance (NHIA) | Government | 44% | 19% | 0% | 0% | Contabo |
-| Nigeria Police Force | Government | 42% | 0% | 0% | 32% | Galaxy Backbone |
-| First City Monument Bank | Bank | 41% | 1% | 28% | 12% | Microsoft |
-| Zenith Bank | Bank | 39% | 0% | 15% | 41% | Microsoft |
-| National Bureau of Statistics | Government | 38% | 0% | 0% | 17% | Microsoft |
-| Nigeria Immigration Service | Government | 37% | 0% | 0% | 28% | Google |
-| United Bank for Africa | Bank | 35% | 0% | 32% | 26% | Microsoft |
-| Guaranty Trust Bank | Bank | 31% | 0% | 18% | 31% | Microsoft |
-| Central Bank of Nigeria | Government | 28% | 1% | 56% | 15% | Microsoft |
-| Stanbic IBTC | Bank | 28% | 0% | 66% | 7% | — |
-| Union Bank | Bank | 27% | 0% | 19% | 44% | Microsoft |
-| NIBSS (payment switch) | Government | 27% | 0% | 42% | 16% | Microsoft |
-| First Bank of Nigeria | Bank | 26% | 0% | 34% | 36% | Amazon |
-| Bureau of Public Procurement | Government | 25% | 0% | 0% | 25% | Microsoft |
-| Transmission Company (TCN) | Government | 25% | 0% | 4% | 8% | Microsoft Azure |
-| Nigeria Revenue Service | Government | 25% | 1% | 11% | 0% | Microsoft |
-| Sovereign wealth fund (NSIA) | Government | 23% | 0% | 46% | 0% | Microsoft |
-| Federal Ministry of Interior | Government | 19% | 0% | 0% | 54% | Galaxy Backbone |
-| Access Bank | Bank | 17% | 0% | 72% | 2% | Microsoft |
-| National Judicial Council | Government | 15% | 13% | 0% | 0% | Google |
-| Nigerian Ports Authority | Government | 15% | 0% | 44% | 39% | Microsoft |
-| Sterling Bank | Bank | 15% | 0% | 78% | 0% | Zoho |
-| Securities regulator (SEC) | Government | 14% | 0% | 9% | 0% | MTN Nigeria |
-| Federal Inland Revenue Service | Government | 13% | 0% | 7% | 6% | Microsoft |
-| Interswitch | Government | 13% | 0% | 75% | 0% | Microsoft |
-| NITDA | Government | 10% | 0% | 0% | 36% | Microsoft |
-| Federal Ministry of Health | Government | 7% | 2% | 0% | 88% | Galaxy Backbone |
-| Nigerian Communications Commission | Government | 2% | 0% | 69% | 1% | Microsoft |
-| Nigeria Customs Service | Government | 1% | 0% | 88% | 0% | Trade Modernisation Project |
-| Fidelity Bank | Bank | 1% | 0% | 97% | 0% | Microsoft |
-| State House | Government | 0% | 0% | 0% | 94% | Galaxy Backbone |
-| Ministry of Foreign Affairs | Government | 0% | 0% | 9% | 78% | Galaxy Backbone |
-| Ministry of Defence | Government | 0% | 0% | 0% | 93% | Galaxy Backbone |
-| Nigerian Army | Government | 0% | 0% | 4% | 4% | Galaxy Backbone |
-| Federal Ministry of Justice | Government | 0% | 0% | 0% | 93% | Galaxy Backbone |
-| Federal Ministry of Finance | Government | 0% | 0% | 0% | 50% | Microsoft |
-| Accountant-General | Government | 0% | 0% | 0% | 89% | Galaxy Backbone |
-| Department of State Services | Government | 0% | 0% | 23% | 23% | Backbone Connectivity Network |
-| Social safety-nets office | Government | 0% | 0% | 0% | 0% | Microsoft |
-| NIGCOMSAT | Government | 0% | 0% | 52% | 48% | Galaxy Backbone |
-| Galaxy Backbone | Government | 0% | 0% | 0% | 100% | Own servers |
-| ngCERT | Government | 0% | 0% | 88% | 7% | Backbone Connectivity Network |
-| Auditor-General | Government | 0% | 0% | 0% | 100% | Galaxy Backbone |
-| Anti-corruption (EFCC) | Government | 0% | 0% | 95% | 0% | Layer3 |
-| Anti-corruption (ICPC) | Government | 0% | 0% | 24% | 30% | Cyberspace |
+| State House | Presidency | 0% | 0% | 0% | 94% | Government |
+| National Assembly | Parliament | 47% | 0% | 0% | 47% | Government |
+| Ministry of Foreign Affairs | Foreign Affairs | 0% | 0% | 9% | 78% | Government |
+| Ministry of Defence | Defence | 0% | 0% | 0% | 93% | Government |
+| Nigerian Army | Armed Forces | 0% | 0% | 4% | 4% | Telecoms |
+| Nigeria Police Force | Police | 42% | 0% | 0% | 32% | Government |
+| Federal Ministry of Justice | Justice | 0% | 0% | 0% | 93% | Government |
+| National Judicial Council | Justice | 15% | 13% | 0% | 0% | Google |
+| Federal Ministry of Finance | Treasury / Finance | 0% | 0% | 0% | 44% | Microsoft |
+| Office of the Accountant-General of the Federation | Treasury / Finance | 0% | 0% | 0% | 89% | Government |
+| Federal Inland Revenue Service | Revenue Service | 13% | 0% | 7% | 6% | Microsoft |
+| Nigeria Revenue Service | Revenue Service | 23% | 1% | 10% | 0% | Microsoft |
+| Nigeria Customs Service | Customs | 1% | 0% | 88% | 0% | African host |
+| Department of State Services | Intelligence | 0% | 0% | 23% | 23% | Telecoms |
+| Federal Ministry of Interior | Interior / Home Affairs | 19% | 0% | 0% | 54% | Government |
+| Central Bank of Nigeria | Central Bank | 28% | <1% | 56% | 15% | Microsoft |
+| Zenith Bank | Commercial Banks | 39% | 0% | 15% | 41% | Microsoft |
+| Access Bank | Commercial Banks | 17% | 0% | 72% | 2% | Microsoft |
+| First Bank of Nigeria | Commercial Banks | 26% | 0% | 35% | 36% | Filtered |
+| United Bank for Africa | Commercial Banks | 35% | 0% | 32% | 26% | Microsoft |
+| Guaranty Trust Bank | Commercial Banks | 31% | 0% | 17% | 31% | Microsoft |
+| Fidelity Bank | Commercial Banks | <1% | 0% | 97% | <1% | Microsoft |
+| First City Monument Bank | Commercial Banks | 41% | <1% | 28% | 12% | Microsoft |
+| Stanbic IBTC | Commercial Banks | 28% | 0% | 66% | 7% | — |
+| Union Bank | Commercial Banks | 26% | 0% | 18% | 42% | Microsoft |
+| Sterling Bank | Commercial Banks | 15% | 0% | 76% | 0% | Foreign host |
+| National Identity Management Commission | Civil registry / National ID authority | 84% | 0% | 1% | 11% | Own servers |
+| Nigeria Immigration Service | Immigration / Passports | 37% | 0% | 0% | 27% | Google |
+| Nigeria Data Protection Commission | Data protection authority | 95% | 76% | 0% | 0% | Microsoft |
+| Independent National Electoral Commission (INEC) | Electoral commission | 80% | 0% | 7% | 0% | Not identified |
+| National Bureau of Statistics | Statistics office | 28% | 0% | 0% | 13% | Microsoft |
+| Federal Ministry of Health | Health ministry / National health insurance | 7% | 2% | 0% | 88% | Government |
+| National Health Insurance Authority | Health ministry / National health insurance | 44% | 19% | 0% | 0% | Foreign host |
+| National Social Safety-Nets Coordinating Office | Social protection / Social registry | 0% | 0% | 0% | 0% | Microsoft |
+| Abuja Geographic Information Systems (FCT lands registry) | Land registry | 0% | 0% | 0% | 79% | Microsoft |
+| Nigeria Inter-Bank Settlement System (NIBSS) | National payment switch | 26% | 0% | 41% | 15% | Microsoft |
+| Interswitch | National payment switch | 13% | <1% | 75% | 0% | Microsoft |
+| Nigerian Exchange Group | Stock exchange | 94% | 0% | 2% | <1% | Microsoft |
+| Securities and Exchange Commission | Securities regulator | 14% | 0% | 9% | 0% | African host |
+| Nigeria Sovereign Investment Authority | Sovereign wealth fund / National pension fund | 25% | 0% | 50% | 0% | Microsoft |
+| National Pension Commission | Sovereign wealth fund / National pension fund | 46% | 0% | 0% | 4% | Microsoft |
+| Bureau of Public Procurement | Public procurement authority | 27% | 0% | 0% | 27% | Microsoft |
+| Transmission Company of Nigeria | Energy utility | 25% | 0% | 4% | 8% | US cloud |
+| Nigerian Ports Authority | Ports authority | 15% | 0% | 44% | 39% | Microsoft |
+| NIGCOMSAT | State-owned telco / National backbone operator | 0% | 0% | 52% | 48% | Government |
+| National Information Technology Development Agency (NITDA) | E-government agency | 10% | 0% | 0% | 36% | Microsoft |
+| Galaxy Backbone | National data centre / Government cloud operator | 0% | 0% | 0% | 100% | Own servers |
+| ngCERT | Cybersecurity agency / National CERT | 0% | 0% | 88% | 9% | Government |
+| Nigerian Communications Commission | Communications regulator | 2% | 0% | 72% | <1% | Microsoft |
+| Office of the Auditor-General for the Federation | Audit office | 0% | 0% | 0% | 100% | Government |
+| Economic and Financial Crimes Commission | Anti-corruption commission | 0% | 0% | 95% | 0% | African host |
+| Independent Corrupt Practices Commission | Anti-corruption commission | 0% | 0% | 24% | 30% | Foreign host |
 
 ## What stood out
 
-- **The core of the state is the most home-grown of the three countries.** State House, Defence, Justice, the Accountant-General and the Auditor-General keep 89–100% of their estate on Galaxy Backbone, with their mail there too. Nothing like it appears in Kenya or South Africa.
-- **The electoral commission runs on Amazon in the US and Ireland.** 80% of INEC's estate is on Amazon, most of it in Virginia.
-- **The national ID authority fronts its services through Amazon.** 84% of NIMC's estate is on US cloud, nearly all of it Amazon's worldwide delivery network.
-- **The data protection regulator hosts in South Africa.** 95% of the Nigeria Data Protection Commission's estate is on Amazon, three quarters of it in Cape Town. The body that enforces where Nigerians' data may go keeps its own outside Nigeria.
-- **Amazon's Lagos zone is barely used.** Only 4 addresses in the whole scan use it.
-- **The judiciary's website sits with budget foreign hosts.** Most of the National Judicial Council's web estate is with WHG, a UK hosting firm, and Hawk Host, a Canadian one.
-- **A little Chinese cloud.** One Zenith Bank address, apparently for security cameras, runs on Huawei Cloud.
-- **Three government web addresses point at deleted cloud names that anyone could claim.** They are at the Central Bank, the Health ministry and the Accountant-General. Whoever claims them could publish under those addresses. We have flagged them and are not naming them here.
+- **Most on US cloud.** Nigeria Data Protection Commission (95%), Nigerian Exchange Group (94%), National Identity Management Commission (84%) and Independent National Electoral Commission (INEC) (80%) have more than half their working addresses on US cloud.
+- **US cloud in Africa.** Nigeria Data Protection Commission has 76% of its working addresses in US cloud data centres in Africa, the highest share in Nigeria.
+- **Core state bodies at home.** State House (94%), Ministry of Defence (93%), Federal Ministry of Justice (93%) and Office of the Accountant-General of the Federation (89%) keep at least 80% of their working addresses on government data centres or their own systems.
+- **Core state bodies on foreign hosting firms.** National Assembly (DreamHost), Ministry of Defence (IONOS), Nigeria Police Force (DigitalOcean and A2 Hosting), Federal Ministry of Justice (Akamai Connected Cloud (Linode) and 24 Shells), National Judicial Council (Hosting and Hawk Host) and Federal Ministry of Finance (Namecheap), and 6 more.
+- **Chinese cloud.** 1 address, all at Zenith Bank, is on Chinese cloud.
+- **Names anyone could claim.** 2 web addresses at Central Bank of Nigeria and Federal Ministry of Health point at a deleted cloud name that anyone could register and then publish under. We have flagged them and do not name them here.
 
 ## What this can and cannot tell you
 
-The scan sees only the front door: websites, email, login portals, remote-access gateways and online banking. It cannot see where a bank's core ledger, the ID register or the payroll actually run.
+The scan sees only the front door: websites, email, login portals, remote-access gateways and online banking. It cannot see where a bank's core ledger, the ID register or the payroll run.
 
-- **Every US figure is a floor.** Anything behind a shield or a mail filter could also be on US cloud, and we cannot tell.
-- **It counts addresses, not importance.** An institution with many test and marketing sites weighs more than one with a few, whatever those sites do.
-- **The list of institutions was drawn up for this scan.** Each domain was checked to exist, but not formally confirmed as the institution's main one.
-- **It is a snapshot.** Every figure is as of 28 September 2026. Running the scan again in a year shows which way each institution is moving.
-- **Nothing was touched.** The scan used public address lookups, public certificate records and the cloud companies' own published address lists. It never connected to any institution's systems.
+- **Every US figure is a minimum.** Anything behind a shield or a mail filter could also be on US cloud. In Nigeria that is 44% of working addresses.
+- **It counts addresses, not importance.** An institution with many test and marketing sites weighs more than one with few.
+- **The list of institutions was drawn up for this scan.** Each domain was checked to exist, not confirmed as the institution's main one.
+- **It is a snapshot.** Every figure is as of 29 September 2026.
+- **Nothing was touched.** The scan used public address lookups, public certificate records and the cloud companies' published address lists. It never connected to any institution's systems.
 
 The data and method are in `R&D/Hyperscaler-dependence/scan/NGA/` and `R&D/Hyperscaler-dependence/HYPERSCALER-SCAN.md` in the Corpus repository.

@@ -569,5 +569,20 @@
    "any_us_hyperscaler": 10
   }
  },
- "findings": []
+ "findings": [
+  {
+   "kind": "dangling-cloud-cname",
+   "domain": "cbn.gov.ng",
+   "name": "cbnchatgpt.cbn.gov.ng",
+   "target": "app-backend-z55m6uscycary.azurewebsites.net",
+   "finding": "CNAME to a cloud name that no longer exists and that anyone can register: whoever does can serve content under this name."
+  },
+  {
+   "kind": "dangling-cloud-cname",
+   "domain": "health.gov.ng",
+   "name": "nitp.health.gov.ng",
+   "target": "nitpdemo.azurewebsites.net",
+   "finding": "CNAME to a cloud name that no longer exists and that anyone can register: whoever does can serve content under this name."
+  }
+ ]
 }
