@@ -1,0 +1,400 @@
+{
+ "iso3": "MLI",
+ "scan_date": "2026-09-29",
+ "range_files": {
+  "aws.json": "2026-09-28",
+  "google-cloud.json": "2026-09-28",
+  "google.json": "2026-09-28",
+  "cloudflare-v4.txt": "2026-09-28",
+  "cloudflare-v6.txt": "2026-09-28",
+  "oracle.json": "2026-09-28",
+  "azure.json": "2026-09-28"
+ },
+ "range_file_errors": {},
+ "domains": {
+  "koulouba.ml": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "diplomatiemdc.gouv.ml": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 3,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "fama.ml": {
+   "wildcard": true,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "police.gouv.ml": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 4,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "justice.gouv.ml": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 6,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "finances.ml": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 63,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "dgi.gouv.ml": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 4,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "douanes.gouv.ml": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 3,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "matd.gouv.ml": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 9,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "securite.gouv.ml": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 26,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bceao.int": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 25,
+   "dictionary_hits": 14,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bdm-sa.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 10,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bim-sa.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "boamali.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 7,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bms-sa.com": {
+   "wildcard": true,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bci-banque.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "afgbank.ml": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bnda-mali.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mali.coris.bank": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "apdp.ml": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 9,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "instat-mali.org": {
+   "wildcard": true,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "sante.gov.ml": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 41,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "canam.ml": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 6,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "gim-uemoa.org": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "brvm.org": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 9,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "amf-umoa.org": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "inps.ml": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 9,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "armds.ml": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 6,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "malitel.ml": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "agetic.gouv.ml": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 15,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "gouv.ml": {
+   "wildcard": false,
+   "ct_status": "not run",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "root-only: parent zone of 8 seeded domains",
+   "dead": false,
+   "has_mx": true
+  },
+  "amrtp.ml": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 18,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "oclei.ml": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  }
+ },
+ "new_asns": {
+  "328284": "Soci\u00e9t\u00e9 Malienne de Transmission et de Diffusion - Soci\u00e9t\u00e9 Malienne de Transmission et de Diffusion",
+  "21271": "Society of Mali's Telecommunications (SOTELMA) - Society of Mali's Telecommunications (SOTELMA)",
+  "30985": "Orange Mali SA - Orange Mali SA",
+  "40092": "ONIAAS - HostPapa",
+  "17294": "BI-631 - Build io, Inc.",
+  "53755": "IOFLOOD - Input Output Flood LLC",
+  "32491": "TUCOWS-3 - Tucows.com Co.",
+  "15348": "TUCOWS - Tucows.com Co.",
+  "21409": "IKOULA Ikoula Net SAS",
+  "42": "WOODYNET-1 - WoodyNet, Inc.",
+  "37177": "African Network Information Center - (AfriNIC) Ltd - African Network Information Center - (AfriNIC) Ltd",
+  "36864": "AFRIBONE MALI SA - AFRIBONE MALI SA"
+ },
+ "rollup": {
+  "all": {
+   "routable": 560,
+   "us_hyperscaler_share": 8.0,
+   "african_region_share": 0.0,
+   "us_saas_share": 20.5,
+   "cdn_share": 1.1,
+   "national_or_self_share": 17.0,
+   "unattributed": 260,
+   "by_category": {
+    "unattributed": 260,
+    "self-hosted": 95,
+    "commercial-host": 38,
+    "us-saas": 115,
+    "us-hyperscaler-offshore": 45,
+    "cdn-origin-unknown": 6,
+    "unresolved": 1
+   },
+   "institutions": 33,
+   "names": 408,
+   "m365": 9,
+   "google": 1,
+   "tangled_hybrid": 1,
+   "any_us_hyperscaler": 8
+  },
+  "government": {
+   "routable": 423,
+   "us_hyperscaler_share": 4.5,
+   "african_region_share": 0.0,
+   "us_saas_share": 16.3,
+   "cdn_share": 0.5,
+   "national_or_self_share": 22.5,
+   "unattributed": 226,
+   "by_category": {
+    "unattributed": 226,
+    "self-hosted": 95,
+    "commercial-host": 11,
+    "us-saas": 69,
+    "us-hyperscaler-offshore": 19,
+    "unresolved": 1,
+    "cdn-origin-unknown": 2
+   },
+   "institutions": 25,
+   "names": 354,
+   "m365": 5,
+   "google": 1,
+   "tangled_hybrid": 1,
+   "any_us_hyperscaler": 4
+  },
+  "bank": {
+   "routable": 137,
+   "us_hyperscaler_share": 19.0,
+   "african_region_share": 0.0,
+   "us_saas_share": 33.6,
+   "cdn_share": 2.9,
+   "national_or_self_share": 0.0,
+   "unattributed": 34,
+   "by_category": {
+    "unattributed": 34,
+    "us-saas": 46,
+    "us-hyperscaler-offshore": 26,
+    "commercial-host": 27,
+    "cdn-origin-unknown": 4
+   },
+   "institutions": 8,
+   "names": 54,
+   "m365": 4,
+   "google": 0,
+   "tangled_hybrid": 0,
+   "any_us_hyperscaler": 4
+  }
+ },
+ "findings": []
+}
