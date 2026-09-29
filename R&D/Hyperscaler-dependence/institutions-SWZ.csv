@@ -6,37 +6,37 @@ Defence,Umbutfo Eswatini Defence Force,,,absent,shares gov.sz
 Armed Forces,Umbutfo Eswatini Defence Force,,,absent,shares gov.sz with Defence
 Police,Royal Eswatini Police Service,,,absent,shares gov.sz
 Justice,Ministry of Justice and Constitutional Affairs,,,absent,shares gov.sz
-Justice,Judiciary of Eswatini,judiciary.org.sz,,confirmed 2026-09-29,
+Justice,Judiciary of Eswatini,judiciary.org.sz,judiciary.org.sz,scanned 2026-09-29,
 Treasury / Finance,Ministry of Finance,,,absent,shares gov.sz
-Revenue Service,Eswatini Revenue Service,sra.org.sz,,confirmed 2026-09-29,
+Revenue Service,Eswatini Revenue Service,sra.org.sz,sra.org.sz,scanned 2026-09-29,
 Customs,Eswatini Revenue Service Customs,,,absent,shares sra.org.sz with Revenue Service
 Intelligence,Eswatini intelligence service,,,absent,no public domain known
 Interior / Home Affairs,Ministry of Home Affairs,,,absent,shares gov.sz
-Central Bank,Central Bank of Eswatini,centralbank.org.sz,,confirmed 2026-09-29,
-Commercial Banks,Standard Bank Eswatini,standardbank.co.sz,,confirmed 2026-09-29,"Ranking source: World Bank/IMF, Kingdom of Eswatini Financial Sector Assessment, 2025, https://documents1.worldbank.org/curated/en/099082725165040774/pdf/BOSIB-66bb5737-16cc-4c40-a7d7-23f8f990e35b.pdf; sector has four licensed banks, all seeded"
-Commercial Banks,Nedbank Eswatini,nedbank.co.sz,,confirmed 2026-09-29,
-Commercial Banks,First National Bank Eswatini,fnbswaziland.co.sz,,confirmed 2026-09-29,homepage did not load: ConnectionError
-Commercial Banks,Eswatini Bank,swazibank.co.sz,,confirmed 2026-09-29,homepage did not load: ConnectionError
+Central Bank,Central Bank of Eswatini,centralbank.org.sz,centralbank.org.sz,scanned 2026-09-29,
+Commercial Banks,Standard Bank Eswatini,standardbank.co.sz,standardbank.co.sz,scanned 2026-09-29,"Ranking source: World Bank/IMF, Kingdom of Eswatini Financial Sector Assessment, 2025, https://documents1.worldbank.org/curated/en/099082725165040774/pdf/BOSIB-66bb5737-16cc-4c40-a7d7-23f8f990e35b.pdf; sector has four licensed banks, all seeded"
+Commercial Banks,Nedbank Eswatini,nedbank.co.sz,nedbank.co.sz,scanned 2026-09-29,
+Commercial Banks,First National Bank Eswatini,fnbswaziland.co.sz,,scanned 2026-09-29,homepage did not load: ConnectionError
+Commercial Banks,Eswatini Bank,swazibank.co.sz,swazibank.co.sz,scanned 2026-09-29,homepage did not load: ConnectionError
 Civil registry / National ID authority,Ministry of Home Affairs civil registry,,,absent,shares gov.sz
 Data protection authority,Eswatini Data Protection Authority,,,absent,no own domain found
-Electoral commission,Elections and Boundaries Commission,elections.org.sz,,unconfirmed 2026-09-29,homepage did not load: ConnectTimeout
+Electoral commission,Elections and Boundaries Commission,elections.org.sz,elections.org.sz,scanned 2026-09-29,homepage did not load: ConnectTimeout
 Statistics office,Central Statistical Office,,,absent,shares gov.sz
 Immigration / Passports,Eswatini Immigration Department,,,absent,shares gov.sz
 Health ministry / National health insurance,Ministry of Health,,,absent,shares gov.sz
 Social protection / Social registry,Deputy Prime Minister's Office social protection,,,absent,shares gov.sz
 Land registry,Deeds Registry Office,,,absent,shares gov.sz
 National payment switch,Eswatini Payment Switch,,,absent,no own domain found; bank-owned
-Stock exchange,Eswatini Stock Exchange,ese.co.sz,,confirmed 2026-09-29,homepage did not load: ConnectionError
-Securities regulator,Financial Services Regulatory Authority,fsra.co.sz,,confirmed 2026-09-29,homepage did not load: ConnectionError
-Sovereign wealth fund / National pension fund,Eswatini National Provident Fund,enpf.co.sz,,confirmed 2026-09-29,
-Sovereign wealth fund / National pension fund,Tibiyo Taka Ngwane,tibiyo.com,,confirmed 2026-09-29,homepage did not load: ConnectionError
-Public procurement authority,Eswatini Public Procurement Regulatory Agency,esppra.co.sz,,confirmed 2026-09-29,
-Energy utility,Eswatini Electricity Company,eec.co.sz,,confirmed 2026-09-29,
+Stock exchange,Eswatini Stock Exchange,ese.co.sz,ese.co.sz,scanned 2026-09-29,homepage did not load: ConnectionError
+Securities regulator,Financial Services Regulatory Authority,fsra.co.sz,fsra.co.sz,scanned 2026-09-29,homepage did not load: ConnectionError
+Sovereign wealth fund / National pension fund,Eswatini National Provident Fund,enpf.co.sz,enpf.co.sz,scanned 2026-09-29,
+Sovereign wealth fund / National pension fund,Tibiyo Taka Ngwane,tibiyo.com,tibiyo.com,scanned 2026-09-29,homepage did not load: ConnectionError
+Public procurement authority,Eswatini Public Procurement Regulatory Agency,esppra.co.sz,esppra.co.sz,scanned 2026-09-29,
+Energy utility,Eswatini Electricity Company,eec.co.sz,eec.co.sz,scanned 2026-09-29,
 Ports authority,Ports authority,,,absent,landlocked; no ports authority
-State-owned telco / National backbone operator,Eswatini Posts and Telecommunications Corporation,eptc.co.sz,,confirmed 2026-09-29,
-E-government agency,Government of Eswatini portal,gov.sz,,unconfirmed 2026-09-29,parent zone; scanned root-only; homepage did not load: ConnectTimeout
+State-owned telco / National backbone operator,Eswatini Posts and Telecommunications Corporation,eptc.co.sz,eptc.co.sz,scanned 2026-09-29,
+E-government agency,Government of Eswatini portal,gov.sz,gov.sz,scanned 2026-09-29,parent zone; scanned root-only; homepage did not load: ConnectTimeout
 National data centre / Government cloud operator,Government data centre,,,absent,no own domain found
 Cybersecurity agency / National CERT,National CERT,,,absent,no own domain found
-Communications regulator,Eswatini Communications Commission,esccom.org.sz,,confirmed 2026-09-29,
+Communications regulator,Eswatini Communications Commission,esccom.org.sz,esccom.org.sz,scanned 2026-09-29,
 Audit office,Office of the Auditor General,,,absent,shares gov.sz
 Anti-corruption commission,Anti-Corruption Commission,,,absent,shares gov.sz
