@@ -382,15 +382,7 @@
    "has_mx": true
   }
  },
- "new_asns": {
-  "24757": "Ethio Telecom - Ethio Telecom",
-  "33182": "DIMENOC - HostDime.com, Inc.",
-  "329227": "WebSprix IT Solution PLC - WebSprix IT Solution PLC",
-  "52148": "ENIXLTD Enix Ltd",
-  "34960": "Netcetera-AG-AS Netcetera AG",
-  "48254": "TWENTYI 20i Limited",
-  "25369": "BANDWIDTH-AS Hydra Communications Ltd"
- },
+ "new_asns": {},
  "rollup": {
   "all": {
    "routable": 1459,
@@ -399,18 +391,20 @@
    "us_saas_share": 9.3,
    "cdn_share": 1.1,
    "national_or_self_share": 17.3,
-   "unattributed": 923,
+   "unattributed": 2,
    "by_category": {
-    "unattributed": 923,
+    "telco-isp": 782,
     "us-saas": 135,
     "us-hyperscaler-offshore": 87,
     "unresolved": 10,
+    "unattributed": 2,
+    "commercial-host": 168,
     "cdn-origin-unknown": 16,
+    "african-colo": 2,
     "self-hosted": 253,
-    "commercial-host": 31,
     "chinese-cloud": 4
    },
-   "institutions": 41,
+   "institutions": 40,
    "names": 1846,
    "m365": 13,
    "google": 5,
@@ -424,18 +418,19 @@
    "us_saas_share": 9.6,
    "cdn_share": 1.2,
    "national_or_self_share": 21.0,
-   "unattributed": 748,
+   "unattributed": 2,
    "by_category": {
-    "unattributed": 748,
+    "telco-isp": 699,
     "us-saas": 114,
     "us-hyperscaler-offshore": 39,
     "unresolved": 8,
+    "unattributed": 2,
+    "commercial-host": 60,
     "cdn-origin-unknown": 14,
-    "commercial-host": 13,
     "self-hosted": 250,
     "chinese-cloud": 4
    },
-   "institutions": 31,
+   "institutions": 30,
    "names": 1437,
    "m365": 11,
    "google": 4,
@@ -449,15 +444,16 @@
    "us_saas_share": 7.8,
    "cdn_share": 0.7,
    "national_or_self_share": 1.1,
-   "unattributed": 175,
+   "unattributed": 0,
    "by_category": {
     "us-hyperscaler-offshore": 48,
-    "unattributed": 175,
+    "telco-isp": 83,
+    "commercial-host": 108,
     "unresolved": 2,
     "us-saas": 21,
     "cdn-origin-unknown": 2,
-    "self-hosted": 3,
-    "commercial-host": 18
+    "african-colo": 2,
+    "self-hosted": 3
    },
    "institutions": 10,
    "names": 409,
