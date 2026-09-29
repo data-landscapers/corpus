@@ -319,12 +319,7 @@
    "has_mx": true
   }
  },
- "new_asns": {
-  "37545": "Burundi Backbone System SM - Burundi Backbone System SM",
-  "327799": "VIETTEL BURUNDI SA - VIETTEL BURUNDI SA",
-  "25429": "CBINET-AS CBINET Burundi",
-  "197000": "RIPE-NCC-AUTHDNS-AS Reseaux IP Europeens Network Coordination Centre (RIPE NCC)"
- },
+ "new_asns": {},
  "rollup": {
   "all": {
    "routable": 747,
@@ -333,16 +328,16 @@
    "us_saas_share": 11.1,
    "cdn_share": 2.9,
    "national_or_self_share": 2.0,
-   "unattributed": 293,
+   "unattributed": 0,
    "by_category": {
-    "unattributed": 293,
-    "commercial-host": 302,
+    "telco-isp": 255,
+    "commercial-host": 340,
     "us-hyperscaler-offshore": 32,
     "us-saas": 83,
     "self-hosted": 15,
     "cdn-origin-unknown": 22
    },
-   "institutions": 34,
+   "institutions": 33,
    "names": 784,
    "m365": 9,
    "google": 2,
@@ -356,10 +351,10 @@
    "us_saas_share": 1.2,
    "cdn_share": 0.0,
    "national_or_self_share": 2.2,
-   "unattributed": 268,
+   "unattributed": 0,
    "by_category": {
-    "unattributed": 268,
-    "commercial-host": 200,
+    "telco-isp": 242,
+    "commercial-host": 226,
     "us-hyperscaler-offshore": 5,
     "us-saas": 6,
     "self-hosted": 11
@@ -378,16 +373,16 @@
    "us_saas_share": 30.0,
    "cdn_share": 8.6,
    "national_or_self_share": 1.6,
-   "unattributed": 25,
+   "unattributed": 0,
    "by_category": {
-    "commercial-host": 102,
+    "commercial-host": 114,
     "us-saas": 77,
-    "unattributed": 25,
+    "telco-isp": 13,
     "us-hyperscaler-offshore": 27,
     "self-hosted": 4,
     "cdn-origin-unknown": 22
    },
-   "institutions": 11,
+   "institutions": 10,
    "names": 179,
    "m365": 8,
    "google": 0,
