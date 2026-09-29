@@ -419,5 +419,13 @@
    "any_us_hyperscaler": 4
   }
  },
- "findings": []
+ "findings": [
+  {
+   "kind": "dangling-cloud-cname",
+   "domain": "stanbicbank.co.ug",
+   "name": "automatedbir.stanbicbank.co.ug",
+   "target": "wa-sbuga-birtool-prod.azurewebsites.net",
+   "finding": "CNAME to a cloud name that no longer exists and that anyone can register: whoever does can serve content under this name."
+  }
+ ]
 }
