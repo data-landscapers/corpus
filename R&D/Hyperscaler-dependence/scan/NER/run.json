@@ -256,14 +256,7 @@
    "has_mx": true
   }
  },
- "new_asns": {
-  "37385": "Societe Nigerienne des Telecommunications (SONITEL) - Societe Nigerienne des Telecommunications (SONITEL)",
-  "21409": "IKOULA Ikoula Net SAS",
-  "26130": "LIPTINFOR NIGER SA - LIPTINFOR NIGER SA",
-  "8860": "DELTA-BG-AS Delta HighTech Ltd.",
-  "32491": "TUCOWS-3 - Tucows.com Co.",
-  "15348": "TUCOWS - Tucows.com Co."
- },
+ "new_asns": {},
  "rollup": {
   "all": {
    "routable": 369,
@@ -272,12 +265,12 @@
    "us_saas_share": 17.1,
    "cdn_share": 1.1,
    "national_or_self_share": 0.0,
-   "unattributed": 206,
+   "unattributed": 0,
    "by_category": {
-    "unattributed": 206,
+    "telco-isp": 138,
+    "commercial-host": 120,
     "us-hyperscaler-offshore": 44,
     "us-saas": 63,
-    "commercial-host": 52,
     "cdn-origin-unknown": 4
    },
    "institutions": 27,
@@ -294,12 +287,12 @@
    "us_saas_share": 21.5,
    "cdn_share": 1.5,
    "national_or_self_share": 0.0,
-   "unattributed": 160,
+   "unattributed": 0,
    "by_category": {
-    "unattributed": 160,
+    "telco-isp": 127,
+    "commercial-host": 66,
     "us-hyperscaler-offshore": 15,
     "us-saas": 58,
-    "commercial-host": 33,
     "cdn-origin-unknown": 4
    },
    "institutions": 21,
@@ -316,11 +309,11 @@
    "us_saas_share": 5.1,
    "cdn_share": 0.0,
    "national_or_self_share": 0.0,
-   "unattributed": 46,
+   "unattributed": 0,
    "by_category": {
-    "unattributed": 46,
+    "telco-isp": 11,
+    "commercial-host": 54,
     "us-hyperscaler-offshore": 29,
-    "commercial-host": 19,
     "us-saas": 5
    },
    "institutions": 6,

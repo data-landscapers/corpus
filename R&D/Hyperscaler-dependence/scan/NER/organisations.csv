@@ -1,28 +1,28 @@
 iso3,type,institution,domains,names,routable,us_hyperscaler_share,african_region_share,us_saas_share,cdn_share,national_or_self_share,unattributed,mail_provider,mail_security,tangled_hybrid,scan_date
-NER,Presidency,Présidence de la République du Niger,presidence.ne,4,4,0.0,0.0,0.0,0.0,0.0,4,other:Societe Nigerienne des Telecommunications (SONITEL) - Societe Nigerienne des Tel,,false,2026-09-29
-NER,Parliament,Assemblée nationale,assemblee.ne,6,12,0.0,0.0,0.0,0.0,0.0,12,other:Societe Nigerienne des Telecommunications (SONITEL),,false,2026-09-29
-NER,Foreign Affairs,Ministère des Affaires étrangères,diplomatie.gouv.ne,5,7,0.0,0.0,0.0,0.0,0.0,7,other:Societe Nigerienne des Telecommunications (SONITEL) - Societe Nigerienne des Tel,,false,2026-09-29
-NER,Defence,Ministère de la Défense nationale,defense.gouv.ne,4,6,0.0,0.0,0.0,0.0,0.0,6,other:Societe Nigerienne des Telecommunications (SONITEL) - Societe Nigerienne des Tel,,false,2026-09-29
-NER,Police,Direction générale de la Police nationale,police-nationale.interieur.gouv.ne,3,3,0.0,0.0,0.0,0.0,0.0,3,other:Societe Nigerienne des Telecommunications (SONITEL) - Societe Nigerienne des Tel,,false,2026-09-29
-NER,Justice,Ministère de la Justice,justice.gouv.ne,4,6,0.0,0.0,0.0,0.0,0.0,6,other:Societe Nigerienne des Telecommunications (SONITEL) - Societe Nigerienne des Tel,,false,2026-09-29
-NER,Treasury / Finance,Ministère des Finances,finances.gouv.ne,6,7,0.0,0.0,0.0,0.0,0.0,7,other:Societe Nigerienne des Telecommunications (SONITEL) - Societe Nigerienne des Tel,,false,2026-09-29
-NER,Revenue Service,Direction générale des Impôts,impots.gouv.ne,9,11,0.0,0.0,0.0,0.0,0.0,11,other:Societe Nigerienne des Telecommunications (SONITEL),,false,2026-09-29
-NER,Interior / Home Affairs,Ministère de l'Intérieur,interieur.gouv.ne,3,4,0.0,0.0,0.0,0.0,0.0,4,other:Societe Nigerienne des Telecommunications (SONITEL) - Societe Nigerienne des Tel,,false,2026-09-29
-NER,Central Bank,Banque centrale des États de l'Afrique de l'Ouest (BCEAO),bceao.int,40,40,10.0,0.0,22.5,0.0,0.0,25,google,,false,2026-09-29
-NER,Commercial Banks,Société nigérienne de banque (Sonibank),sonibank.com,31,14,28.6,0.0,0.0,0.0,0.0,8,other:aws,,false,2026-09-29
-NER,Commercial Banks,Bank of Africa Niger,boaniger.com,16,43,58.1,0.0,7.0,0.0,0.0,4,m365,broadcom-messagelabs,false,2026-09-29
+NER,Presidency,Présidence de la République du Niger,presidence.ne,4,4,0.0,0.0,0.0,0.0,0.0,0,other:Societe Nigerienne des Telecommunications (SONITEL) - Societe Nigerienne des Tel,,false,2026-09-29
+NER,Parliament,Assemblée nationale,assemblee.ne,6,12,0.0,0.0,0.0,0.0,0.0,0,other:Societe Nigerienne des Telecommunications (SONITEL) - Societe Nigerienne des Tel,,false,2026-09-29
+NER,Foreign Affairs,Ministère des Affaires étrangères,diplomatie.gouv.ne,5,7,0.0,0.0,0.0,0.0,0.0,0,other:Societe Nigerienne des Telecommunications (SONITEL) - Societe Nigerienne des Tel,,false,2026-09-29
+NER,Defence,Ministère de la Défense nationale,defense.gouv.ne,4,6,0.0,0.0,0.0,0.0,0.0,0,other:Societe Nigerienne des Telecommunications (SONITEL) - Societe Nigerienne des Tel,,false,2026-09-29
+NER,Police,Direction générale de la Police nationale,police-nationale.interieur.gouv.ne,3,3,0.0,0.0,0.0,0.0,0.0,0,other:Societe Nigerienne des Telecommunications (SONITEL) - Societe Nigerienne des Tel,,false,2026-09-29
+NER,Justice,Ministère de la Justice,justice.gouv.ne,4,6,0.0,0.0,0.0,0.0,0.0,0,other:Societe Nigerienne des Telecommunications (SONITEL) - Societe Nigerienne des Tel,,false,2026-09-29
+NER,Treasury / Finance,Ministère des Finances,finances.gouv.ne,6,7,0.0,0.0,0.0,0.0,0.0,0,other:Societe Nigerienne des Telecommunications (SONITEL) - Societe Nigerienne des Tel,,false,2026-09-29
+NER,Revenue Service,Direction générale des Impôts,impots.gouv.ne,9,11,0.0,0.0,0.0,0.0,0.0,0,other:Societe Nigerienne des Telecommunications (SONITEL) - Societe Nigerienne des Tel,,false,2026-09-29
+NER,Interior / Home Affairs,Ministère de l'Intérieur,interieur.gouv.ne,3,4,0.0,0.0,0.0,0.0,0.0,0,other:Societe Nigerienne des Telecommunications (SONITEL) - Societe Nigerienne des Tel,,false,2026-09-29
+NER,Central Bank,Banque centrale des États de l'Afrique de l'Ouest (BCEAO),bceao.int,40,40,10.0,0.0,22.5,0.0,0.0,0,google,,false,2026-09-29
+NER,Commercial Banks,Société nigérienne de banque (Sonibank),sonibank.com,31,14,28.6,0.0,0.0,0.0,0.0,0,other:aws,,false,2026-09-29
+NER,Commercial Banks,Bank of Africa Niger,boaniger.com,16,43,58.1,0.0,7.0,0.0,0.0,0,m365,broadcom-messagelabs,false,2026-09-29
 NER,Commercial Banks,Coris Bank International Niger,niger.coris.bank,2,2,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
-NER,Commercial Banks,Banque internationale pour l'Afrique au Niger (BIA-Niger),bia-niger.com,4,9,0.0,0.0,22.2,0.0,0.0,5,m365,,false,2026-09-29
-NER,Commercial Banks,Banque islamique du Niger,bin-niger.com,8,12,0.0,0.0,0.0,0.0,0.0,11,other:LWS-MNT,,false,2026-09-29
-NER,Commercial Banks,Banque agricole du Niger (BAGRI),bagri.ne,10,19,0.0,0.0,0.0,0.0,0.0,18,other:LWS-MNT,,false,2026-09-29
-NER,Electoral commission,Commission électorale nationale indépendante (CENI),ceni-niger.org,2,5,0.0,0.0,0.0,0.0,0.0,1,other:mnt-bg-deltahitech-1,,false,2026-09-29
-NER,Statistics office,Institut national de la statistique (INS),stat-niger.org,2,7,0.0,0.0,0.0,0.0,0.0,7,none,,false,2026-09-29
-NER,Health ministry / National health insurance,Ministère de la Santé publique,sante.gouv.ne,5,8,0.0,0.0,0.0,0.0,0.0,8,other:Societe Nigerienne des Telecommunications (SONITEL),,false,2026-09-29
-NER,National payment switch,GIM-UEMOA,gim-uemoa.org,9,24,0.0,0.0,54.2,0.0,0.0,11,m365,,false,2026-09-29
-NER,Stock exchange,Bourse régionale des valeurs mobilières (BRVM),brvm.org,14,36,25.0,0.0,44.4,0.0,0.0,9,m365,,false,2026-09-29
-NER,Securities regulator,Autorité des marchés financiers de l'UMOA (AMF-UMOA),amf-umoa.org,3,12,0.0,0.0,75.0,16.7,0.0,1,m365,,false,2026-09-29
+NER,Commercial Banks,Banque internationale pour l'Afrique au Niger (BIA-Niger),bia-niger.com,4,9,0.0,0.0,22.2,0.0,0.0,0,m365,,false,2026-09-29
+NER,Commercial Banks,Banque islamique du Niger,bin-niger.com,8,12,0.0,0.0,0.0,0.0,0.0,0,other:LWS Groupe LWS SARL,,false,2026-09-29
+NER,Commercial Banks,Banque agricole du Niger (BAGRI),bagri.ne,10,19,0.0,0.0,0.0,0.0,0.0,0,other:LWS Groupe LWS SARL,,false,2026-09-29
+NER,Electoral commission,Commission électorale nationale indépendante (CENI),ceni-niger.org,2,5,0.0,0.0,0.0,0.0,0.0,0,other:DELTA-BG-AS Delta HighTech Ltd.,,false,2026-09-29
+NER,Statistics office,Institut national de la statistique (INS),stat-niger.org,2,7,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+NER,Health ministry / National health insurance,Ministère de la Santé publique,sante.gouv.ne,5,8,0.0,0.0,0.0,0.0,0.0,0,other:Societe Nigerienne des Telecommunications (SONITEL) - Societe Nigerienne des Tel,,false,2026-09-29
+NER,National payment switch,GIM-UEMOA,gim-uemoa.org,9,24,0.0,0.0,54.2,0.0,0.0,0,m365,,false,2026-09-29
+NER,Stock exchange,Bourse régionale des valeurs mobilières (BRVM),brvm.org,14,36,25.0,0.0,44.4,0.0,0.0,0,m365,,false,2026-09-29
+NER,Securities regulator,Autorité des marchés financiers de l'UMOA (AMF-UMOA),amf-umoa.org,3,12,0.0,0.0,75.0,16.7,0.0,0,m365,,false,2026-09-29
 NER,Sovereign wealth fund / National pension fund,Caisse nationale de sécurité sociale (CNSS),cnss.ne,12,17,0.0,0.0,11.8,0.0,0.0,0,other:Namecheap,,false,2026-09-29
-NER,Energy utility,NIGELEC,nigelec.ne,35,28,7.1,0.0,0.0,7.1,0.0,15,other:Societe Nigerienne des Telecommunications (SONITEL) - Societe Nigerienne des Tel,,false,2026-09-29
-NER,State-owned telco / National backbone operator,Niger Telecoms,nigertelecoms.ne,20,1,0.0,0.0,0.0,0.0,0.0,1,none,,false,2026-09-29
-NER,E-government agency,Gouvernement du Niger (portail),gouv.ne,2,3,0.0,0.0,0.0,0.0,0.0,3,none,,false,2026-09-29
-NER,Communications regulator,Autorité de régulation des communications électroniques et de la poste (ARCEP),arcep.ne,15,29,0.0,0.0,31.0,0.0,0.0,19,m365,,false,2026-09-29
+NER,Energy utility,NIGELEC,nigelec.ne,35,28,7.1,0.0,0.0,7.1,0.0,0,other:Societe Nigerienne des Telecommunications (SONITEL) - Societe Nigerienne des Tel,,false,2026-09-29
+NER,State-owned telco / National backbone operator,Niger Telecoms,nigertelecoms.ne,20,1,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+NER,E-government agency,Gouvernement du Niger (portail),gouv.ne,2,3,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+NER,Communications regulator,Autorité de régulation des communications électroniques et de la poste (ARCEP),arcep.ne,15,29,0.0,0.0,31.0,0.0,0.0,0,m365,,false,2026-09-29
