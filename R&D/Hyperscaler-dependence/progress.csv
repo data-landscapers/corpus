@@ -30,7 +30,7 @@ seq,iso3,country,group,s01_seeds,s02_scan,s03_classify,s04_report,note
 29,MLI,Mali,francophone,2026-09-29,,,,
 30,NER,Niger,francophone,,,,,
 31,TGO,Togo,francophone,,,,,
-32,GIN,Guinea,francophone,,,,,
+32,GIN,Guinea,francophone,2026-09-29,,,,
 33,GAB,Gabon,francophone,,,,,
 34,COG,Congo,francophone,,,,,
 35,COD,DR Congo,francophone,,,,,
