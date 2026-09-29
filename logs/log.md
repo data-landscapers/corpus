@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-09-29 14:35 · **HYPERSCALER** · unclocked · 03 MWI: institutions 30 · names 693 · routable 980 · us-hyperscaler 25% (african region 2%) · m365 14 · google 1 · cdn-fronted 9% · national/self 19% · unattributed 1
 2026-09-29 14:35 · **HYPERSCALER** · unclocked · 03 ZWE: institutions 38 · names 989 · routable 1293 · us-hyperscaler 24% (african region 1%) · m365 16 · google 1 · cdn-fronted 16% · national/self 6% · unattributed 0
 2026-09-29 14:35 · **HYPERSCALER** · unclocked · 03 ZMB: institutions 37 · names 942 · routable 1520 · us-hyperscaler 22% (african region 0%) · m365 30 · google 0 · cdn-fronted 17% · national/self 8% · unattributed 1
 2026-09-29 14:35 · **HYPERSCALER** · unclocked · 03 ETH: institutions 40 · names 1846 · routable 1459 · us-hyperscaler 6% (african region 0%) · m365 13 · google 5 · cdn-fronted 1% · national/self 17% · unattributed 2
