@@ -1,0 +1,521 @@
+{
+ "iso3": "COD",
+ "scan_date": "2026-09-29",
+ "range_files": {
+  "aws.json": "2026-09-28",
+  "google-cloud.json": "2026-09-28",
+  "google.json": "2026-09-28",
+  "cloudflare-v4.txt": "2026-09-28",
+  "cloudflare-v6.txt": "2026-09-28",
+  "oracle.json": "2026-09-28",
+  "azure.json": "2026-09-28"
+ },
+ "range_file_errors": {},
+ "domains": {
+  "presidence.cd": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 86,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "assembleenationale.cd": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 3,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "senat.cd": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 6,
+   "dictionary_hits": 13,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "diplomatie.gouv.cd": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 12,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "defense.gouv.cd": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 10,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "police.gouv.cd": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 12,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "justice.gouv.cd": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 12,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cour-constitutionnelle.cd": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 12,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cassation.cd": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 9,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "csm-rdc.cd": {
+   "wildcard": true,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "adminfinances.cd": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 19,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "budget.gouv.cd": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 22,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "dgi.gouv.cd": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 33,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "dgrad.cd": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 6,
+   "dictionary_hits": 10,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "douane.gouv.cd": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 30,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "interieur.gouv.cd": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 56,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bcc.cd": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 68,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "rawbank.com": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 10,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "equitybcdc.cd": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 5,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "tmb.cd": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 80,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "standardbank.cd": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 16,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "fbnbankrdc.com": {
+   "wildcard": true,
+   "ct_status": "ok",
+   "ct_names": 15,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "sofibanque.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 29,
+   "dictionary_hits": 10,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "boa-rdc.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 9,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "congo.accessbankplc.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "solidairebanque.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 24,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "onip.gouv.cd": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 13,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ceni.cd": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 27,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ins.gouv.cd": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 3,
+   "dictionary_hits": 13,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "dgm.cd": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 9,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "sante.gouv.cd": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 38,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "fss.cd": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 5,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cnssap.cd": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 7,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "affairesfoncieres.gouv.cd": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 3,
+   "dictionary_hits": 10,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cnss.cd": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 19,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "armp-rdc.cd": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 11,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "marchepublic.cd": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 3,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "snel.cd": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 15,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "sctp-sa-rdc.online": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "scpt.cd": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 55,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "adn.cd": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 28,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "gouv.cd": {
+   "wildcard": false,
+   "ct_status": "not run",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "root-only: parent zone of 14 seeded domains",
+   "dead": false,
+   "has_mx": false
+  },
+  "arptc.gouv.cd": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 7,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "courdescomptes.cd": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 12,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "igf.gouv.cd": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 10,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  }
+ },
+ "new_asns": {
+  "328442": "United SA - United SA",
+  "37677": "Societe Congolaise des Postes et Telecommunications (SCPT) - Societe Congolaise des Postes et Telecommunications (SCPT)",
+  "43256": "KIN-AS Global Broadband Solution Inc",
+  "12337": "NORIS-NETWORK noris network AG",
+  "37453": "Vodacom Congo - Vodacom Congo",
+  "37298": "Equity Bank Ltd - Equity Bank Ltd",
+  "37638": "Orioncom SPRL - Orioncom SPRL",
+  "51545": "ZSAH zsah Limited",
+  "205020": "datagrid-network DataGrid Network GmbH",
+  "36979": "First Bank of NG PLC - First Bank of NG PLC",
+  "329573": "SOCIETE FINANCIERE DE BANQUE - SOCIETE FINANCIERE DE BANQUE",
+  "60781": "LEASEWEB-NL-AMS-01 LeaseWeb Netherlands B.V.",
+  "35665": "Netensia Netensia SARL"
+ },
+ "rollup": {
+  "all": {
+   "routable": 1349,
+   "us_hyperscaler_share": 12.8,
+   "african_region_share": 0.2,
+   "us_saas_share": 8.8,
+   "cdn_share": 19.5,
+   "national_or_self_share": 3.5,
+   "unattributed": 436,
+   "by_category": {
+    "unattributed": 436,
+    "commercial-host": 210,
+    "us-hyperscaler-offshore": 169,
+    "cdn-origin-unknown": 263,
+    "unresolved": 6,
+    "us-saas": 119,
+    "african-colo": 61,
+    "self-hosted": 47,
+    "us-hyperscaler-africa": 3,
+    "chinese-cloud": 1,
+    "telco-isp": 34
+   },
+   "institutions": 45,
+   "names": 1059,
+   "m365": 10,
+   "google": 4,
+   "tangled_hybrid": 4,
+   "any_us_hyperscaler": 20
+  },
+  "government": {
+   "routable": 871,
+   "us_hyperscaler_share": 6.3,
+   "african_region_share": 0.2,
+   "us_saas_share": 6.5,
+   "cdn_share": 3.3,
+   "national_or_self_share": 4.2,
+   "unattributed": 400,
+   "by_category": {
+    "unattributed": 400,
+    "commercial-host": 201,
+    "us-hyperscaler-offshore": 53,
+    "cdn-origin-unknown": 29,
+    "unresolved": 5,
+    "us-saas": 57,
+    "african-colo": 61,
+    "self-hosted": 37,
+    "telco-isp": 26,
+    "us-hyperscaler-africa": 2
+   },
+   "institutions": 36,
+   "names": 836,
+   "m365": 4,
+   "google": 3,
+   "tangled_hybrid": 2,
+   "any_us_hyperscaler": 13
+  },
+  "bank": {
+   "routable": 478,
+   "us_hyperscaler_share": 24.5,
+   "african_region_share": 0.2,
+   "us_saas_share": 13.0,
+   "cdn_share": 49.0,
+   "national_or_self_share": 2.1,
+   "unattributed": 36,
+   "by_category": {
+    "cdn-origin-unknown": 234,
+    "commercial-host": 9,
+    "us-hyperscaler-offshore": 116,
+    "us-saas": 62,
+    "unattributed": 36,
+    "self-hosted": 10,
+    "us-hyperscaler-africa": 1,
+    "chinese-cloud": 1,
+    "telco-isp": 8,
+    "unresolved": 1
+   },
+   "institutions": 9,
+   "names": 223,
+   "m365": 6,
+   "google": 1,
+   "tangled_hybrid": 2,
+   "any_us_hyperscaler": 7
+  }
+ },
+ "findings": []
+}
