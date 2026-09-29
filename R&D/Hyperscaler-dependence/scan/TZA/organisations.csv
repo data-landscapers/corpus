@@ -1,45 +1,45 @@
 iso3,type,institution,domains,names,routable,us_hyperscaler_share,african_region_share,us_saas_share,cdn_share,national_or_self_share,unattributed,mail_provider,mail_security,tangled_hybrid,scan_date
-TZA,Presidency,State House (Ikulu),ikulu.go.tz,10,7,0.0,0.0,0.0,0.0,0.0,7,other:e-Government Authority - e-Government Authority,,false,2026-09-29
-TZA,Parliament,Parliament of the United Republic of Tanzania,parliament.go.tz,5,9,0.0,0.0,0.0,0.0,0.0,9,other:e-Government Authority - e-Government Authority,,false,2026-09-29
-TZA,Foreign Affairs,Ministry of Foreign Affairs and East African Cooperation,foreign.go.tz,5,8,0.0,0.0,0.0,0.0,0.0,7,other:e-Government Authority - e-Government Authority,,false,2026-09-29
-TZA,Defence,Ministry of Defence and National Service,modans.go.tz,6,9,11.1,0.0,0.0,0.0,0.0,7,other:e-Government Authority - e-Government Authority,,false,2026-09-29
-TZA,Police,Tanzania Police Force,polisi.go.tz,13,8,0.0,0.0,0.0,0.0,0.0,8,other:e-Government Authority - e-Government Authority,,false,2026-09-29
-TZA,Justice,Ministry of Constitutional and Legal Affairs,sheria.go.tz,41,37,0.0,0.0,0.0,0.0,0.0,37,other:e-Government Authority - e-Government Authority,,false,2026-09-29
-TZA,Justice,Judiciary of Tanzania,judiciary.go.tz,63,51,0.0,0.0,0.0,0.0,0.0,49,other:e-Government Authority - e-Government Authority,,false,2026-09-29
-TZA,Treasury / Finance,Ministry of Finance,mof.go.tz,69,63,0.0,0.0,0.0,0.0,0.0,40,other:e-Government Authority - e-Government Authority,,false,2026-09-29
-TZA,Revenue Service,Tanzania Revenue Authority,tra.go.tz,47,38,0.0,0.0,0.0,0.0,73.7,7,m365,mimecast,false,2026-09-29
-TZA,Interior / Home Affairs,Ministry of Home Affairs,moha.go.tz,11,11,0.0,0.0,0.0,0.0,0.0,11,other:e-Government Authority - e-Government Authority,,false,2026-09-29
-TZA,Central Bank,Bank of Tanzania,bot.go.tz,165,80,31.2,0.0,2.5,0.0,5.0,48,other:broadcom-messagelabs,broadcom-messagelabs,true,2026-09-29
+TZA,Presidency,State House (Ikulu),ikulu.go.tz,10,7,0.0,0.0,0.0,0.0,85.7,0,other:e-Government Authority - e-Government Authority,,false,2026-09-29
+TZA,Parliament,Parliament of the United Republic of Tanzania,parliament.go.tz,5,9,0.0,0.0,0.0,0.0,88.9,0,other:e-Government Authority - e-Government Authority,,false,2026-09-29
+TZA,Foreign Affairs,Ministry of Foreign Affairs and East African Cooperation,foreign.go.tz,5,8,0.0,0.0,0.0,0.0,75.0,0,other:e-Government Authority - e-Government Authority,,false,2026-09-29
+TZA,Defence,Ministry of Defence and National Service,modans.go.tz,6,9,11.1,0.0,0.0,0.0,66.7,0,other:e-Government Authority - e-Government Authority,,true,2026-09-29
+TZA,Police,Tanzania Police Force,polisi.go.tz,13,8,0.0,0.0,0.0,0.0,50.0,0,other:e-Government Authority - e-Government Authority,,false,2026-09-29
+TZA,Justice,Ministry of Constitutional and Legal Affairs,sheria.go.tz,41,37,0.0,0.0,0.0,0.0,54.1,0,other:e-Government Authority - e-Government Authority,,false,2026-09-29
+TZA,Justice,Judiciary of Tanzania,judiciary.go.tz,63,51,0.0,0.0,0.0,0.0,90.2,0,other:e-Government Authority - e-Government Authority,,false,2026-09-29
+TZA,Treasury / Finance,Ministry of Finance,mof.go.tz,69,63,0.0,0.0,0.0,0.0,61.9,0,other:e-Government Authority - e-Government Authority,,false,2026-09-29
+TZA,Revenue Service,Tanzania Revenue Authority,tra.go.tz,47,38,0.0,0.0,0.0,0.0,73.7,0,m365,mimecast,false,2026-09-29
+TZA,Interior / Home Affairs,Ministry of Home Affairs,moha.go.tz,11,11,0.0,0.0,0.0,0.0,81.8,0,other:e-Government Authority - e-Government Authority,,false,2026-09-29
+TZA,Central Bank,Bank of Tanzania,bot.go.tz,165,80,31.2,0.0,2.5,0.0,20.0,0,other:broadcom-messagelabs,broadcom-messagelabs,true,2026-09-29
 TZA,Commercial Banks,CRDB Bank,crdbbank.co.tz,81,101,61.4,11.9,0.0,17.8,19.8,0,self,,true,2026-09-29
 TZA,Commercial Banks,NMB Bank,nmbbank.co.tz,39,76,31.6,0.0,17.1,36.8,13.2,0,m365,,true,2026-09-29
-TZA,Commercial Banks,National Bank of Commerce,nbctz.com,14,25,20.0,4.0,0.0,0.0,0.0,6,other:mimecast,mimecast,false,2026-09-29
+TZA,Commercial Banks,National Bank of Commerce,nbctz.com,14,25,20.0,4.0,0.0,0.0,0.0,0,other:mimecast,mimecast,false,2026-09-29
 TZA,Commercial Banks,Exim Bank Tanzania,eximbank.co.tz,23,61,62.3,0.0,27.9,0.0,6.6,0,m365,,true,2026-09-29
 TZA,Commercial Banks,Stanbic Bank Tanzania,stanbicbank.co.tz,92,138,0.0,0.0,0.0,90.6,0.0,0,none,,false,2026-09-29
 TZA,Commercial Banks,People's Bank of Zanzibar,pbzbank.co.tz,46,78,0.0,0.0,16.7,66.7,0.0,0,m365,,false,2026-09-29
-TZA,Commercial Banks,Azania Bank,azaniabank.co.tz,57,127,21.3,0.0,7.1,54.3,0.8,1,m365,,true,2026-09-29
-TZA,Commercial Banks,Tanzania Commercial Bank,tcbbank.co.tz,21,12,0.0,0.0,0.0,0.0,58.3,5,self,,false,2026-09-29
+TZA,Commercial Banks,Azania Bank,azaniabank.co.tz,57,127,21.3,0.0,7.1,54.3,0.8,0,m365,,true,2026-09-29
+TZA,Commercial Banks,Tanzania Commercial Bank,tcbbank.co.tz,21,12,0.0,0.0,0.0,0.0,91.7,0,self,,false,2026-09-29
 TZA,Commercial Banks,Absa Bank Tanzania,absa.co.tz,42,48,33.3,0.0,2.1,16.7,25.0,0,m365,,true,2026-09-29
 TZA,Commercial Banks,KCB Bank Tanzania,kcbbank.co.tz,22,39,30.8,0.0,33.3,35.9,0.0,0,m365,,false,2026-09-29
-TZA,Civil registry / National ID authority,National Identification Authority,nida.go.tz,16,18,0.0,0.0,0.0,0.0,0.0,18,other:e-Government Authority - e-Government Authority,,false,2026-09-29
-TZA,Data protection authority,Personal Data Protection Commission,pdpc.go.tz,7,11,0.0,0.0,0.0,0.0,0.0,10,other:e-Government Authority - e-Government Authority,,false,2026-09-29
-TZA,Electoral commission,Independent National Electoral Commission,inec.go.tz,11,13,0.0,0.0,0.0,0.0,0.0,13,other:e-Government Authority - e-Government Authority,,false,2026-09-29
-TZA,Statistics office,National Bureau of Statistics,nbs.go.tz,39,33,0.0,0.0,0.0,0.0,0.0,33,other:e-Government Authority - e-Government Authority,,false,2026-09-29
-TZA,Immigration / Passports,Tanzania Immigration Services Department,immigration.go.tz,52,45,0.0,0.0,0.0,0.0,0.0,33,other:e-Government Authority - e-Government Authority,,false,2026-09-29
-TZA,Health ministry / National health insurance,Ministry of Health,moh.go.tz,88,64,3.1,0.0,0.0,0.0,0.0,61,other:TANZANIA TELECOMMUNICATIONS CO. LTD,,false,2026-09-29
-TZA,Health ministry / National health insurance,National Health Insurance Fund,nhif.or.tz,18,16,0.0,0.0,0.0,0.0,50.0,7,other:e-Government Authority - e-Government Authority,,false,2026-09-29
-TZA,Social protection / Social registry,Tanzania Social Action Fund,tasaf.go.tz,12,14,0.0,0.0,0.0,0.0,0.0,14,other:e-Government Authority - e-Government Authority,,false,2026-09-29
-TZA,Land registry,Ministry of Lands Housing and Human Settlements Development,lands.go.tz,9,12,0.0,0.0,0.0,0.0,0.0,11,other:e-Government Authority - e-Government Authority,,false,2026-09-29
-TZA,Stock exchange,Dar es Salaam Stock Exchange,dse.co.tz,58,60,16.7,0.0,21.7,0.0,0.0,21,m365,,false,2026-09-29
-TZA,Securities regulator,Capital Markets and Securities Authority,cmsa.go.tz,17,12,0.0,0.0,0.0,0.0,0.0,11,other:e-Government Authority - e-Government Authority,,false,2026-09-29
-TZA,Sovereign wealth fund / National pension fund,National Social Security Fund,nssf.go.tz,10,13,0.0,0.0,0.0,0.0,0.0,13,other:TANZANIA TELECOMMUNICATIONS CO. LTD,,false,2026-09-29
-TZA,Sovereign wealth fund / National pension fund,Public Service Social Security Fund,psssf.go.tz,24,17,0.0,0.0,0.0,0.0,0.0,17,google,,false,2026-09-29
-TZA,Public procurement authority,Public Procurement Regulatory Authority,ppra.go.tz,26,17,0.0,0.0,0.0,0.0,0.0,16,other:e-Government Authority - e-Government Authority,,false,2026-09-29
-TZA,Public procurement authority,National e-Procurement System of Tanzania (NeST),nest.go.tz,18,20,0.0,0.0,0.0,0.0,0.0,15,other:e-Government Authority - e-Government Authority,,false,2026-09-29
-TZA,Energy utility,Tanzania Electric Supply Company,tanesco.co.tz,42,28,0.0,0.0,0.0,0.0,14.3,22,m365,mimecast,false,2026-09-29
-TZA,Ports authority,Tanzania Ports Authority,ports.go.tz,54,34,0.0,0.0,0.0,0.0,76.5,8,other:e-Government Authority - e-Government Authority,,false,2026-09-29
-TZA,State-owned telco / National backbone operator,Tanzania Telecommunications Corporation,ttcl.co.tz,35,31,0.0,0.0,0.0,0.0,61.3,11,other:e-Government Authority - e-Government Authority,,false,2026-09-29
-TZA,E-government agency,e-Government Authority,ega.go.tz,31,34,0.0,0.0,0.0,0.0,79.4,1,self,,false,2026-09-29
-TZA,Cybersecurity agency / National CERT,TZ-CERT,tzcert.go.tz,26,22,0.0,0.0,0.0,0.0,68.2,6,other:TANZANIA COMMUNICATIONS REGULATORY AUTHORITY (TCRA),,false,2026-09-29
-TZA,Communications regulator,Tanzania Communications Regulatory Authority,tcra.go.tz,35,38,0.0,0.0,0.0,0.0,97.4,1,self,,false,2026-09-29
-TZA,Audit office,National Audit Office of Tanzania,nao.go.tz,26,15,20.0,0.0,0.0,0.0,0.0,12,other:TANZANIA TELECOMMUNICATIONS CO. LTD,,false,2026-09-29
-TZA,Anti-corruption commission,Prevention and Combating of Corruption Bureau,pccb.go.tz,12,10,0.0,0.0,0.0,0.0,0.0,10,other:TANZANIA TELECOMMUNICATIONS CO. LTD,,false,2026-09-29
+TZA,Civil registry / National ID authority,National Identification Authority,nida.go.tz,16,18,0.0,0.0,0.0,0.0,27.8,0,other:e-Government Authority - e-Government Authority,,false,2026-09-29
+TZA,Data protection authority,Personal Data Protection Commission,pdpc.go.tz,7,11,0.0,0.0,0.0,0.0,72.7,0,other:e-Government Authority - e-Government Authority,,false,2026-09-29
+TZA,Electoral commission,Independent National Electoral Commission,inec.go.tz,11,13,0.0,0.0,0.0,0.0,92.3,0,other:e-Government Authority - e-Government Authority,,false,2026-09-29
+TZA,Statistics office,National Bureau of Statistics,nbs.go.tz,39,33,0.0,0.0,0.0,0.0,87.9,0,other:e-Government Authority - e-Government Authority,,false,2026-09-29
+TZA,Immigration / Passports,Tanzania Immigration Services Department,immigration.go.tz,52,45,0.0,0.0,0.0,0.0,31.1,0,other:e-Government Authority - e-Government Authority,,false,2026-09-29
+TZA,Health ministry / National health insurance,Ministry of Health,moh.go.tz,88,64,3.1,0.0,0.0,0.0,17.2,0,other:TANZANIA TELECOMMUNICATIONS CO. LTD - TANZANIA TELECOMMUNICATIONS CO. LTD,,true,2026-09-29
+TZA,Health ministry / National health insurance,National Health Insurance Fund,nhif.or.tz,18,16,0.0,0.0,0.0,0.0,87.5,0,other:e-Government Authority - e-Government Authority,,false,2026-09-29
+TZA,Social protection / Social registry,Tanzania Social Action Fund,tasaf.go.tz,12,14,0.0,0.0,0.0,0.0,92.9,0,other:e-Government Authority - e-Government Authority,,false,2026-09-29
+TZA,Land registry,Ministry of Lands Housing and Human Settlements Development,lands.go.tz,9,12,0.0,0.0,0.0,0.0,83.3,0,other:e-Government Authority - e-Government Authority,,false,2026-09-29
+TZA,Stock exchange,Dar es Salaam Stock Exchange,dse.co.tz,58,60,16.7,0.0,21.7,0.0,0.0,0,m365,,false,2026-09-29
+TZA,Securities regulator,Capital Markets and Securities Authority,cmsa.go.tz,17,12,0.0,0.0,0.0,0.0,66.7,0,other:e-Government Authority - e-Government Authority,,false,2026-09-29
+TZA,Sovereign wealth fund / National pension fund,National Social Security Fund,nssf.go.tz,10,13,0.0,0.0,0.0,0.0,53.8,0,other:TANZANIA TELECOMMUNICATIONS CO. LTD - TANZANIA TELECOMMUNICATIONS CO. LTD,,false,2026-09-29
+TZA,Sovereign wealth fund / National pension fund,Public Service Social Security Fund,psssf.go.tz,24,17,0.0,0.0,0.0,0.0,100.0,0,google,,false,2026-09-29
+TZA,Public procurement authority,Public Procurement Regulatory Authority,ppra.go.tz,26,17,0.0,0.0,0.0,0.0,88.2,0,other:e-Government Authority - e-Government Authority,,false,2026-09-29
+TZA,Public procurement authority,National e-Procurement System of Tanzania (NeST),nest.go.tz,18,20,0.0,0.0,0.0,0.0,70.0,0,other:e-Government Authority - e-Government Authority,,false,2026-09-29
+TZA,Energy utility,Tanzania Electric Supply Company,tanesco.co.tz,42,28,0.0,0.0,0.0,0.0,32.1,0,m365,mimecast,false,2026-09-29
+TZA,Ports authority,Tanzania Ports Authority,ports.go.tz,54,34,0.0,0.0,0.0,0.0,97.1,0,other:e-Government Authority - e-Government Authority,,false,2026-09-29
+TZA,State-owned telco / National backbone operator,Tanzania Telecommunications Corporation,ttcl.co.tz,35,31,0.0,0.0,0.0,0.0,83.9,0,other:e-Government Authority - e-Government Authority,,false,2026-09-29
+TZA,E-government agency,e-Government Authority,ega.go.tz,31,34,0.0,0.0,0.0,0.0,79.4,0,self,,false,2026-09-29
+TZA,Cybersecurity agency / National CERT,TZ-CERT,tzcert.go.tz,26,22,0.0,0.0,0.0,0.0,90.9,0,other:TANZANIA COMMUNICATIONS  REGULATORY AUTHORITY (TCRA) - TANZANIA COMMUNICATIONS  ,,false,2026-09-29
+TZA,Communications regulator,Tanzania Communications Regulatory Authority,tcra.go.tz,35,38,0.0,0.0,0.0,0.0,97.4,0,self,,false,2026-09-29
+TZA,Audit office,National Audit Office of Tanzania,nao.go.tz,26,15,20.0,0.0,0.0,0.0,26.7,0,other:TANZANIA TELECOMMUNICATIONS CO. LTD - TANZANIA TELECOMMUNICATIONS CO. LTD,,true,2026-09-29
+TZA,Anti-corruption commission,Prevention and Combating of Corruption Bureau,pccb.go.tz,12,10,0.0,0.0,0.0,0.0,20.0,0,other:TANZANIA TELECOMMUNICATIONS CO. LTD - TANZANIA TELECOMMUNICATIONS CO. LTD,,false,2026-09-29
