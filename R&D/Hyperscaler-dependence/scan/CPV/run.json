@@ -319,19 +319,7 @@
    "has_mx": true
   }
  },
- "new_asns": {
-  "327862": "NOSi EPE - NOSi EPE",
-  "37517": "CABO VERDE TELECOM, S.A - CABO VERDE TELECOM, S.A",
-  "211359": "AS_BINTER_SISTEMAS BINTER SISTEMAS SL",
-  "59787": "WEBHS WebSP - Comercio e Prestacao de Servicos Informaticos, Lda",
-  "37575": "UNITEL T+ Telecomunicacoes, Sociedade Unipessoal, S.A. - UNITEL T+ Telecomunicacoes, Sociedade Unipessoal, S.A.",
-  "25253": "CGDNET CAIXA GERAL DE DEPOSITOS, SA",
-  "1897": "EUNETPT NOS COMUNICACOES, S.A.",
-  "15525": "MEO-EMPRESAS MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.",
-  "24768": "ALMOUROLTEC ALMOUROLTEC SERVICOS DE INFORMATICA E INTERNET LDA",
-  "9186": "ONI ONITELECOM - INFOCOMUNICACOES, S.A.",
-  "3243": "MEO-RESIDENCIAL MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A."
- },
+ "new_asns": {},
  "rollup": {
   "all": {
    "routable": 645,
@@ -339,22 +327,24 @@
    "african_region_share": 0.0,
    "us_saas_share": 33.0,
    "cdn_share": 0.6,
-   "national_or_self_share": 9.3,
-   "unattributed": 238,
+   "national_or_self_share": 23.3,
+   "unattributed": 1,
    "by_category": {
-    "commercial-host": 45,
+    "commercial-host": 73,
     "us-saas": 213,
     "unresolved": 3,
-    "unattributed": 238,
+    "national-dc": 90,
     "self-hosted": 60,
+    "telco-isp": 119,
     "us-hyperscaler-offshore": 82,
-    "cdn-origin-unknown": 4
+    "cdn-origin-unknown": 4,
+    "unattributed": 1
    },
    "institutions": 34,
    "names": 517,
    "m365": 19,
    "google": 1,
-   "tangled_hybrid": 4,
+   "tangled_hybrid": 6,
    "any_us_hyperscaler": 13
   },
   "government": {
@@ -363,22 +353,24 @@
    "african_region_share": 0.0,
    "us_saas_share": 34.0,
    "cdn_share": 0.4,
-   "national_or_self_share": 9.0,
-   "unattributed": 196,
+   "national_or_self_share": 26.2,
+   "unattributed": 1,
    "by_category": {
-    "commercial-host": 44,
+    "commercial-host": 68,
     "us-saas": 178,
     "unresolved": 3,
-    "unattributed": 196,
+    "national-dc": 90,
     "self-hosted": 47,
+    "telco-isp": 81,
     "us-hyperscaler-offshore": 53,
-    "cdn-origin-unknown": 2
+    "cdn-origin-unknown": 2,
+    "unattributed": 1
    },
    "institutions": 29,
    "names": 448,
    "m365": 15,
    "google": 1,
-   "tangled_hybrid": 2,
+   "tangled_hybrid": 4,
    "any_us_hyperscaler": 8
   },
   "bank": {
@@ -388,13 +380,13 @@
    "us_saas_share": 28.7,
    "cdn_share": 1.6,
    "national_or_self_share": 10.7,
-   "unattributed": 42,
+   "unattributed": 0,
    "by_category": {
     "us-saas": 35,
     "self-hosted": 13,
     "us-hyperscaler-offshore": 29,
-    "unattributed": 42,
-    "commercial-host": 1,
+    "telco-isp": 38,
+    "commercial-host": 5,
     "cdn-origin-unknown": 2
    },
    "institutions": 5,

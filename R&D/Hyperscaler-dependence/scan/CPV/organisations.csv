@@ -1,35 +1,35 @@
 iso3,type,institution,domains,names,routable,us_hyperscaler_share,african_region_share,us_saas_share,cdn_share,national_or_self_share,unattributed,mail_provider,mail_security,tangled_hybrid,scan_date
 CPV,Presidency,Presidência da República,presidencia.cv,13,23,0.0,0.0,39.1,0.0,0.0,0,m365,,false,2026-09-29
-CPV,Presidency,Governo de Cabo Verde,governo.cv,2,4,0.0,0.0,0.0,0.0,50.0,2,none,,false,2026-09-29
-CPV,Parliament,Assembleia Nacional,parlamento.cv,11,31,29.0,0.0,41.9,0.0,0.0,9,m365,,false,2026-09-29
-CPV,Foreign Affairs,Ministério dos Negócios Estrangeiros e Comunidades,mne.gov.cv,3,15,0.0,0.0,86.7,0.0,0.0,2,m365,,false,2026-09-29
-CPV,Armed Forces,Forças Armadas de Cabo Verde,fa.gov.cv,10,16,0.0,0.0,81.2,0.0,0.0,3,m365,,false,2026-09-29
-CPV,Police,Polícia Nacional,policianacional.cv,13,9,0.0,0.0,0.0,0.0,0.0,9,google,,false,2026-09-29
-CPV,Justice,Ministério da Justiça,justica.gov.cv,4,2,0.0,0.0,0.0,0.0,0.0,2,none,,false,2026-09-29
-CPV,Justice,Ministério Público / Procuradoria-Geral da República,ministeriopublico.cv,15,8,0.0,0.0,0.0,0.0,0.0,8,other:NOSi EPE - NOSi EPE,,false,2026-09-29
+CPV,Presidency,Governo de Cabo Verde,governo.cv,2,4,0.0,0.0,0.0,0.0,100.0,0,none,,false,2026-09-29
+CPV,Parliament,Assembleia Nacional,parlamento.cv,11,31,29.0,0.0,41.9,0.0,0.0,0,m365,,false,2026-09-29
+CPV,Foreign Affairs,Ministério dos Negócios Estrangeiros e Comunidades,mne.gov.cv,3,15,0.0,0.0,86.7,0.0,13.3,0,m365,,false,2026-09-29
+CPV,Armed Forces,Forças Armadas de Cabo Verde,fa.gov.cv,10,16,0.0,0.0,81.2,0.0,18.8,0,m365,,false,2026-09-29
+CPV,Police,Polícia Nacional,policianacional.cv,13,9,0.0,0.0,0.0,0.0,77.8,0,google,,false,2026-09-29
+CPV,Justice,Ministério da Justiça,justica.gov.cv,4,2,0.0,0.0,0.0,0.0,100.0,0,none,,false,2026-09-29
+CPV,Justice,Ministério Público / Procuradoria-Geral da República,ministeriopublico.cv,15,8,0.0,0.0,0.0,0.0,75.0,0,other:NOSi EPE - NOSi EPE,,false,2026-09-29
 CPV,Justice,Tribunal Constitucional,tribunalconstitucional.cv,3,4,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
-CPV,Treasury / Finance,Ministério das Finanças,mf.gov.cv,40,21,4.8,0.0,42.9,0.0,0.0,11,m365,,false,2026-09-29
+CPV,Treasury / Finance,Ministério das Finanças,mf.gov.cv,40,21,4.8,0.0,42.9,0.0,52.4,0,m365,,true,2026-09-29
 CPV,Interior / Home Affairs,Ministério da Administração Interna,mai.gov.cv,3,15,0.0,0.0,86.7,0.0,0.0,0,m365,,false,2026-09-29
-CPV,Central Bank,Banco de Cabo Verde,bcv.cv,8,9,0.0,0.0,0.0,0.0,88.9,1,self,,false,2026-09-29
+CPV,Central Bank,Banco de Cabo Verde,bcv.cv,8,9,0.0,0.0,0.0,0.0,88.9,0,self,,false,2026-09-29
 CPV,Commercial Banks,Caixa Económica de Cabo Verde,caixa.cv,8,16,6.2,0.0,56.2,0.0,37.5,0,m365,,true,2026-09-29
-CPV,Commercial Banks,Banco Comercial do Atlântico,bca.cv,26,21,4.8,0.0,0.0,9.5,0.0,17,m365,,false,2026-09-29
-CPV,Commercial Banks,Banco Cabo-verdiano de Negócios,bcn.cv,15,34,26.5,0.0,38.2,0.0,20.6,5,m365,,true,2026-09-29
-CPV,Commercial Banks,Banco Interatlântico,bi.cv,13,24,37.5,0.0,0.0,0.0,0.0,15,other:AS15525-MNT|AS2860-MNT|qarta.cgd.pt\032,,false,2026-09-29
-CPV,Commercial Banks,Banco BAI Cabo Verde,bancobai.cv,7,27,33.3,0.0,48.1,0.0,0.0,5,m365,,false,2026-09-29
-CPV,Data protection authority,Comissão Nacional de Proteção de Dados,cnpd.cv,11,26,42.3,0.0,30.8,0.0,0.0,7,m365,,false,2026-09-29
-CPV,Electoral commission,Comissão Nacional de Eleições,cne.cv,44,42,21.4,0.0,31.0,0.0,0.0,19,m365,,false,2026-09-29
-CPV,Statistics office,Instituto Nacional de Estatística,ine.cv,2,4,0.0,0.0,0.0,0.0,0.0,4,none,,false,2026-09-29
-CPV,Health ministry / National health insurance,Ministério da Saúde,minsaude.gov.cv,2,2,0.0,0.0,0.0,0.0,0.0,2,none,,false,2026-09-29
-CPV,Social protection / Social registry,Instituto Nacional de Previdência Social,inps.cv,31,25,0.0,0.0,52.0,0.0,0.0,11,m365,,false,2026-09-29
-CPV,National payment switch,SISP - Sociedade Interbancária e Sistemas de Pagamentos,sisp.cv,35,31,29.0,0.0,29.0,0.0,0.0,8,m365,,false,2026-09-29
+CPV,Commercial Banks,Banco Comercial do Atlântico,bca.cv,26,21,4.8,0.0,0.0,9.5,0.0,0,m365,,false,2026-09-29
+CPV,Commercial Banks,Banco Cabo-verdiano de Negócios,bcn.cv,15,34,26.5,0.0,38.2,0.0,20.6,0,m365,,true,2026-09-29
+CPV,Commercial Banks,Banco Interatlântico,bi.cv,13,24,37.5,0.0,0.0,0.0,0.0,0,"other:EUNETPT NOS COMUNICACOES, S.A.|MEO-EMPRESAS MEO - SERVICOS DE COMUNICACOES E MUL",,false,2026-09-29
+CPV,Commercial Banks,Banco BAI Cabo Verde,bancobai.cv,7,27,33.3,0.0,48.1,0.0,0.0,0,m365,,false,2026-09-29
+CPV,Data protection authority,Comissão Nacional de Proteção de Dados,cnpd.cv,11,26,42.3,0.0,30.8,0.0,0.0,0,m365,,false,2026-09-29
+CPV,Electoral commission,Comissão Nacional de Eleições,cne.cv,44,42,21.4,0.0,31.0,0.0,42.9,0,m365,,true,2026-09-29
+CPV,Statistics office,Instituto Nacional de Estatística,ine.cv,2,4,0.0,0.0,0.0,0.0,50.0,0,none,,false,2026-09-29
+CPV,Health ministry / National health insurance,Ministério da Saúde,minsaude.gov.cv,2,2,0.0,0.0,0.0,0.0,100.0,0,none,,false,2026-09-29
+CPV,Social protection / Social registry,Instituto Nacional de Previdência Social,inps.cv,31,25,0.0,0.0,52.0,0.0,36.0,0,m365,,false,2026-09-29
+CPV,National payment switch,SISP - Sociedade Interbancária e Sistemas de Pagamentos,sisp.cv,35,31,29.0,0.0,29.0,0.0,0.0,0,m365,,false,2026-09-29
 CPV,Stock exchange,Bolsa de Valores de Cabo Verde,bvc.cv,5,18,16.7,0.0,72.2,0.0,11.1,0,m365,,true,2026-09-29
-CPV,Securities regulator,Auditoria Geral do Mercado de Valores Mobiliários,agmvm.cv,21,19,0.0,0.0,0.0,0.0,0.0,18,other:MNT-ALMOUROLTEC,,false,2026-09-29
-CPV,Public procurement authority,Autoridade Reguladora das Aquisições Públicas,arap.cv,10,5,0.0,0.0,0.0,0.0,0.0,5,none,,false,2026-09-29
-CPV,Energy utility,Electra,electra.cv,19,21,0.0,0.0,0.0,0.0,0.0,2,other:OVH,,false,2026-09-29
-CPV,Ports authority,ENAPOR,enapor.cv,12,21,0.0,0.0,42.9,9.5,0.0,10,m365,,false,2026-09-29
-CPV,State-owned telco / National backbone operator,CV Telecom,cvtelecom.cv,10,10,0.0,0.0,0.0,0.0,0.0,10,other:MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.,,false,2026-09-29
-CPV,E-government agency,NOSi - Núcleo Operacional para a Sociedade de Informação,nosi.cv,74,56,3.6,0.0,23.2,0.0,62.5,6,m365,,true,2026-09-29
-CPV,E-government agency,Portal Único do Governo,gov.cv,3,13,0.0,0.0,7.7,0.0,0.0,12,m365,,false,2026-09-29
-CPV,Communications regulator,Agência Reguladora Multissectorial da Economia,arme.cv,24,54,16.7,0.0,53.7,0.0,0.0,16,m365,,false,2026-09-29
-CPV,Audit office,Tribunal de Contas,tribunalcontas.cv,10,5,0.0,0.0,0.0,0.0,0.0,5,none,,false,2026-09-29
-CPV,Anti-corruption commission,Conselho de Prevenção da Corrupção,cpc.cv,10,14,0.0,0.0,0.0,0.0,0.0,14,other:NOSi EPE - NOSi EPE,,false,2026-09-29
+CPV,Securities regulator,Auditoria Geral do Mercado de Valores Mobiliários,agmvm.cv,21,19,0.0,0.0,0.0,0.0,0.0,0,other:ALMOUROLTEC ALMOUROLTEC SERVICOS DE INFORMATICA E INTERNET LDA,,false,2026-09-29
+CPV,Public procurement authority,Autoridade Reguladora das Aquisições Públicas,arap.cv,10,5,0.0,0.0,0.0,0.0,60.0,0,none,,false,2026-09-29
+CPV,Energy utility,Electra,electra.cv,19,21,0.0,0.0,0.0,0.0,0.0,0,other:OVH,,false,2026-09-29
+CPV,Ports authority,ENAPOR,enapor.cv,12,21,0.0,0.0,42.9,9.5,0.0,0,m365,,false,2026-09-29
+CPV,State-owned telco / National backbone operator,CV Telecom,cvtelecom.cv,10,10,0.0,0.0,0.0,0.0,0.0,0,other:MEO-RESIDENCIAL MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.,,false,2026-09-29
+CPV,E-government agency,NOSi - Núcleo Operacional para a Sociedade de Informação,nosi.cv,74,56,3.6,0.0,23.2,0.0,62.5,1,m365,,true,2026-09-29
+CPV,E-government agency,Portal Único do Governo,gov.cv,3,13,0.0,0.0,7.7,0.0,46.2,0,m365,,false,2026-09-29
+CPV,Communications regulator,Agência Reguladora Multissectorial da Economia,arme.cv,24,54,16.7,0.0,53.7,0.0,0.0,0,m365,,false,2026-09-29
+CPV,Audit office,Tribunal de Contas,tribunalcontas.cv,10,5,0.0,0.0,0.0,0.0,60.0,0,none,,false,2026-09-29
+CPV,Anti-corruption commission,Conselho de Prevenção da Corrupção,cpc.cv,10,14,0.0,0.0,0.0,0.0,100.0,0,other:NOSi EPE - NOSi EPE,,false,2026-09-29
