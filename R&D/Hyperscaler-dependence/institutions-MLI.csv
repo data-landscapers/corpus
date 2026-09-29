@@ -1,0 +1,46 @@
+type,institution,domain,email_domain,status,note
+Presidency,Présidence de la République du Mali,koulouba.ml,,confirmed 2026-09-29,
+Parliament,Conseil national de Transition,,,absent,no working official domain found
+Foreign Affairs,Ministère des Affaires étrangères et de la Coopération internationale,diplomatiemdc.gouv.ml,,confirmed 2026-09-29,diplomatie.gouv.ml is a suspended hosting account
+Defence,Ministère de la Défense et des Anciens Combattants,,,absent,defense.gouv.ml is a suspended hosting account
+Armed Forces,Forces armées maliennes (DIRPA),fama.ml,,confirmed 2026-09-29,
+Police,Police nationale du Mali,police.gouv.ml,,confirmed 2026-09-29,
+Justice,Ministère de la Justice et des Droits de l'Homme,justice.gouv.ml,,confirmed 2026-09-29,
+Treasury / Finance,Ministère de l'Économie et des Finances,finances.ml,,confirmed 2026-09-29,
+Revenue Service,Direction générale des impôts,dgi.gouv.ml,,confirmed 2026-09-29,
+Customs,Direction générale des douanes,douanes.gouv.ml,,confirmed 2026-09-29,
+Intelligence,Direction générale de la sécurité d'État,,,absent,no public website found
+Interior / Home Affairs,Ministère de l'Administration territoriale et de la Décentralisation,matd.gouv.ml,,confirmed 2026-09-29,
+Interior / Home Affairs,Ministère de la Sécurité et de la Protection civile,securite.gouv.ml,,confirmed 2026-09-29,
+Central Bank,Banque centrale des États de l'Afrique de l'Ouest (BCEAO),bceao.int,,confirmed 2026-09-29,regional (WAEMU); shared with other member states
+Commercial Banks,Banque de Développement du Mali (BDM-SA),bdm-sa.com,,confirmed 2026-09-29,"Ranking: BCEAO/UMOA Commission bancaire Rapport 2023 (total bilan, end-2023) via Bamada.net 2024 article; BMS, BDM, BNDA, Ecobank, BOA, BIM, Atlantique, Coris, BCI, AFG; left out for group-only sites: Ecobank, Banque Atlantique, BSIC, Orabank, UBA; BNDA, Coris Mali, BCS no working domain found"
+Commercial Banks,Banque Internationale pour le Mali (BIM-SA),bim-sa.com,,confirmed 2026-09-29,
+Commercial Banks,Bank of Africa - Mali,boamali.com,,confirmed 2026-09-29,
+Commercial Banks,Banque Malienne de Solidarité (BMS-SA),bms-sa.com,,confirmed 2026-09-29,
+Commercial Banks,Banque pour le Commerce et l'Industrie du Mali (BCI-Mali),bci-banque.com,,confirmed 2026-09-29,
+Commercial Banks,AFG Bank Mali,afgbank.ml,,confirmed 2026-09-29,
+Commercial Banks,Banque Nationale de Développement Agricole (BNDA),bnda-mali.com,,confirmed 2026-09-29,added by coordinator
+Commercial Banks,Coris Bank International Mali,mali.coris.bank,,confirmed 2026-09-29,country subdomain of the group site; added by coordinator
+Civil registry / National ID authority,Direction nationale de l'état civil,,,absent,no public website found
+Data protection authority,Autorité de protection des données à caractère personnel (APDP),apdp.ml,,confirmed 2026-09-29,
+Electoral commission,Autorité indépendante de gestion des élections (AIGE),,,absent,no working official domain found
+Statistics office,Institut national de la statistique (INSTAT),instat-mali.org,,confirmed 2026-09-29,
+Immigration / Passports,Direction générale de la police des frontières,,,absent,under Interior/Security; no own domain found
+Health ministry / National health insurance,Ministère de la Santé et du Développement social,sante.gov.ml,,confirmed 2026-09-29,
+Social protection / Social registry,Caisse nationale d'assurance maladie (CANAM),canam.ml,,confirmed 2026-09-29,
+Land registry,Direction nationale des domaines et du cadastre,,,absent,no public website found
+National payment switch,Groupement interbancaire monétique de l'UEMOA (GIM-UEMOA),gim-uemoa.org,,confirmed 2026-09-29,regional (WAEMU); shared with other member states
+Stock exchange,Bourse régionale des valeurs mobilières (BRVM),brvm.org,,confirmed 2026-09-29,regional (WAEMU); shared with other member states
+Securities regulator,Autorité des marchés financiers de l'UMOA (AMF-UMOA),amf-umoa.org,,confirmed 2026-09-29,regional (WAEMU); shared with other member states
+Sovereign wealth fund / National pension fund,Institut national de prévoyance sociale (INPS),inps.ml,,confirmed 2026-09-29,
+Public procurement authority,Autorité de régulation des marchés publics et des délégations de service public (ARMDS),armds.ml,,confirmed 2026-09-29,
+Energy utility,Énergie du Mali (EDM-SA),,,absent,no working official domain found
+Ports authority,,,,absent,landlocked; no ports authority
+State-owned telco / National backbone operator,Société des télécommunications du Mali (Sotelma-Malitel),malitel.ml,,confirmed 2026-09-29,
+E-government agency,Agence des technologies de l'information et de la communication (AGETIC),agetic.gouv.ml,,confirmed 2026-09-29,
+E-government agency,Portail gouvernemental du Mali,gouv.ml,,unconfirmed 2026-09-29,parent zone; scanned root-only; homepage did not load: ConnectionError
+National data centre / Government cloud operator,,,,absent,no national data centre operator identified
+Cybersecurity agency / National CERT,Agence des systèmes d'information de l'État (ASIE),,,absent,no public website found
+Communications regulator,Autorité malienne de régulation des télécommunications/TIC et des postes (AMRTP),amrtp.ml,,confirmed 2026-09-29,
+Audit office,Bureau du Vérificateur général,,,absent,no working official domain found
+Anti-corruption commission,Office central de lutte contre l'enrichissement illicite (OCLEI),oclei.ml,,confirmed 2026-09-29,
