@@ -1,11 +1,11 @@
 ---
 title: Libya — monthly update, August – September 2026
-compiled: 2026-09-28
-period: 2026-08-01 to 2026-09-28
+compiled: 2026-09-29
+period: 2026-08-01 to 2026-09-29
 place: LBY
 ledger_rows: 59
 not_held: 2
-record: 2de7a1872fe5
+record: c9c61a2e8bf3
 ---
 
 # Libya: monthly update, August – September 2026
@@ -89,6 +89,8 @@ The regulator's move to license data centres and cloud services is still at work
 The central bank [isolated its systems in June and a sample of bank data was later published on a dark-web site](https://alwasat.ly/news/libya/520951). No attribution, forensic account, scope of loss or restoration statement is held.
 
 The interior ministry answered with an agreement rather than an instrument. It [signed a technical cooperation agreement with the national telecommunications company on 12 August](https://www.eanlibya.com/%d9%85%d9%86-%d8%a7%d9%84%d8%a3%d8%a8%d8%b1%d8%a7%d8%ac-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%a3%d9%85%d9%86-%d8%a7%d9%84%d8%b3%d9%8a%d8%a8%d8%b1%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84/) covering digital transformation, cybersecurity and telecommunications infrastructure, including shared platforms, installation of towers and equipment at ministry sites, and technical support. No value, duration or delivery date is published.
+
+Work [opened on 20 September on an integrated national cybersecurity plan](https://lana.gov.ly/post.php?id=365878&lang=ar), bringing together the heads of the cybersecurity and digital sovereignty authority, the information authority and the information security authority. No draft or timetable is published.
 <!-- /narrative -->
 
 ## DPI
@@ -129,11 +131,7 @@ The state importer of Libya's medicines opened its first digital supply system. 
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
-On 23 July the Ministry of Labour and Rehabilitation [reported the Libya Experts Forum electronic application ready for launch](https://lana.gov.ly/post.php?id=362213&lang=en), with the minister instructing that the highest standards of data protection and confidentiality be observed. The instruction names no statute, regulator or standard.
-
-On 30 July the Libyan Export Development Authority reported [LD 79.5 million of exports processed through the electronic Unified Export Window between April and July 2026](https://libyaherald.com/2026/07/ld-795-million-of-exports-processed-through-electronic-unified-export-window-from-april-to-july-2026-leda/): 354 registered companies, 190 distinct products, more than 20 destinations, and 129 orders to Tunisia — 66% of the total, against 28 to Turkey and eight to South Korea.
-
-On 9 August the economy and trade minister [launched an Exhibitions and Conferences Platform in Tripoli](https://libyaherald.com/2026/08/minister-of-economy-launches-digital-platform-for-organising-exhibitions-and-conferences-in-libya), presented as the country's first official specialised system for the sector: electronic management of registration, participation and event logistics, and an integrated database of exhibitions, conferences, organisers, participants and visitors. As with the expert register and the export window, no supplier, cost, hosting arrangement or data-protection basis is stated.
+On 9 August the economy and trade minister [launched an Exhibitions and Conferences Platform in Tripoli](https://libyaherald.com/2026/08/minister-of-economy-launches-digital-platform-for-organising-exhibitions-and-conferences-in-libya), presented as the country's first official specialised system for the sector: electronic management of registration, participation and event logistics, and an integrated database of exhibitions, conferences, organisers, participants and visitors. No supplier, cost, hosting arrangement or data-protection basis is stated.
 
 A complaints route was put behind the visa system. The citizen service centre and the passports authority [agreed a joint mechanism to receive and handle citizens' and residents' enquiries and complaints on the electronic visa, and to unify the communication channels between the agencies involved](https://ar.libyaobserver.ly/article/38605). No caseload, response standard or list of the channels being unified is published, so the mechanism is established and its capacity is not.
 
