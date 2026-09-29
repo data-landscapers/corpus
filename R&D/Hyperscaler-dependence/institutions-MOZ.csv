@@ -1,0 +1,54 @@
+type,institution,domain,email_domain,status,note
+Presidency,Presidência da República de Moçambique,presidencia.gov.mz,,confirmed 2026-09-29,homepage did not load: ConnectionError
+Parliament,Assembleia da República,parlamento.mz,,confirmed 2026-09-29,
+Foreign Affairs,Ministério dos Negócios Estrangeiros e Cooperação,minec.gov.mz,,confirmed 2026-09-29,
+Defence,Ministério da Defesa Nacional,mdn.gov.mz,,confirmed 2026-09-29,
+Armed Forces,Forças Armadas de Defesa de Moçambique,fadm.mil.mz,,confirmed 2026-09-29,own site; also listed under mdn.gov.mz
+Police,Polícia da República de Moçambique,,,absent,no own domain found; PRM is served from mint.gov.mz (Ministério do Interior)
+Justice,Ministério da Justiça Assuntos Constitucionais e Religiosos,mjcr.gov.mz,,unconfirmed 2026-09-29,homepage did not load: ConnectTimeout
+Justice,Tribunal Supremo,ts.gov.mz,,confirmed 2026-09-29,courts portal
+Treasury / Finance,Ministério da Economia e Finanças,mef.gov.mz,,confirmed 2026-09-29,
+Revenue Service,Autoridade Tributária de Moçambique,at.gov.mz,,confirmed 2026-09-29,
+Customs,Direcção Geral das Alfândegas,,,absent,shares at.gov.mz with the revenue service
+Intelligence,Serviço de Informação e Segurança do Estado (SISE),,,absent,no public domain found
+Interior / Home Affairs,Ministério do Interior,mint.gov.mz,,confirmed 2026-09-29,
+Central Bank,Banco de Moçambique,bancomoc.mz,,confirmed 2026-09-29,
+Commercial Banks,BCI - Banco Comercial e de Investimentos,bci.co.mz,,confirmed 2026-09-29,ranking source: Banco de Moçambique D-SIBs ranking of domestic banks by systemic importance (Comunicado D-SIBs 2023/2024; bancomoc.mz) with KPMG 2024 asset ranking (profile.co.mz 2025); Ecobank and UBA rank lower or run on group domains and are left out
+Commercial Banks,Millennium bim,millenniumbim.co.mz,,confirmed 2026-09-29,
+Commercial Banks,Standard Bank Moçambique,standardbank.co.mz,,confirmed 2026-09-29,
+Commercial Banks,Absa Bank Moçambique,absa.co.mz,,confirmed 2026-09-29,
+Commercial Banks,Moza Banco,mozabanco.co.mz,,confirmed 2026-09-29,
+Commercial Banks,FNB Moçambique,fnb.co.mz,,confirmed 2026-09-29,
+Commercial Banks,Nedbank Moçambique,nedbank.co.mz,,confirmed 2026-09-29,
+Commercial Banks,First Capital Bank Moçambique,firstcapitalbank.co.mz,,confirmed 2026-09-29,
+Commercial Banks,Access Bank Moçambique,mozambique.accessbankplc.com,,confirmed 2026-09-29,country subdomain
+Commercial Banks,Banco Nacional de Investimento,bni.co.mz,,confirmed 2026-09-29,
+Civil registry / National ID authority,Direcção Nacional de Identificação Civil,dnic.gov.mz,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
+Civil registry / National ID authority,Direcção Nacional dos Registos e Notariado (registo civil),civil.registos.gov.mz,,confirmed 2026-09-29,e-RCEV civil registration system
+Data protection authority,Autoridade de protecção de dados,,,absent,no data protection authority established; INTIC handles data protection complaints (intic.gov.mz)
+Electoral commission,Comissão Nacional de Eleições,,,absent,no own domain found; CNE is served from stae.org.mz
+Electoral commission,Secretariado Técnico de Administração Eleitoral,stae.org.mz,,unconfirmed 2026-09-29,homepage did not load: ConnectTimeout
+Statistics office,Instituto Nacional de Estatística,ine.gov.mz,,confirmed 2026-09-29,
+Immigration / Passports,Serviço Nacional de Migração,senami.gov.mz,,unconfirmed 2026-09-29,homepage did not load: ConnectTimeout
+Immigration / Passports,Serviço Nacional de Migração (eVisa),evisa.gov.mz,,confirmed 2026-09-29,eVisa and eTA portal
+Health ministry / National health insurance,Ministério da Saúde,misau.gov.mz,,confirmed 2026-09-29,
+Social protection / Social registry,Instituto Nacional de Acção Social,inas.gov.mz,,confirmed 2026-09-29,
+Land registry,Direcção Nacional de Terras e Desenvolvimento Territorial,dndt.gov.mz,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
+National payment switch,Sociedade Interbancária de Moçambique (SIMO),simo.co.mz,,confirmed 2026-09-29,
+Stock exchange,Bolsa de Valores de Moçambique,bvm.co.mz,,confirmed 2026-09-29,
+Securities regulator,Regulador do mercado de valores mobiliários,,,absent,no separate securities regulator; supervised by Ministério da Economia e Finanças (mef.gov.mz) and Banco de Moçambique
+Sovereign wealth fund / National pension fund,Instituto Nacional de Segurança Social,inss.gov.mz,,confirmed 2026-09-29,national pension fund; Fundo Soberano de Moçambique is run from bancomoc.mz
+Public procurement authority,Unidade Funcional de Supervisão das Aquisições,ufsa.gov.mz,,confirmed 2026-09-29,
+Public procurement authority,Portal de Concursos Públicos,concursospublicos.gov.mz,,unconfirmed 2026-09-29,e-procurement portal; homepage did not load: ConnectionError
+Energy utility,Electricidade de Moçambique,edm.co.mz,,confirmed 2026-09-29,
+Ports authority,Portos e Caminhos de Ferro de Moçambique (CFM),cfm.co.mz,,confirmed 2026-09-29,
+Ports authority,Maputo Port Development Company,portmaputo.com,,confirmed 2026-09-29,holds port authority powers at Maputo
+State-owned telco / National backbone operator,Moçambique Telecom (Tmcel; absorbed TDM 2018),tmcel.mz,,confirmed 2026-09-29,
+E-government agency,Instituto Nacional de Governo Electrónico,inage.gov.mz,,confirmed 2026-09-29,
+E-government agency,Governo de Moçambique (parent zone),gov.mz,,confirmed 2026-09-29,parent zone; scanned root-only
+National data centre / Government cloud operator,Parque de Ciência e Tecnologia da Maluana (Centro de Dados de Maluana),enpct.org.mz,,confirmed 2026-09-29,state data centre at Maluana
+Cybersecurity agency / National CERT,CSIRT Nacional,ncsirt.mz,,confirmed 2026-09-29,
+Cybersecurity agency / National CERT,Instituto Nacional de Tecnologias de Informação e Comunicação,intic.gov.mz,,confirmed 2026-09-29,national cybersecurity authority
+Communications regulator,Instituto Nacional das Comunicações de Moçambique,incm.gov.mz,,confirmed 2026-09-29,
+Audit office,Tribunal Administrativo,ta.gov.mz,,confirmed 2026-09-29,
+Anti-corruption commission,Gabinete Central de Combate à Corrupção,pgr.gov.mz,,confirmed 2026-09-29,GCCC sits within the Procuradoria-Geral da República
