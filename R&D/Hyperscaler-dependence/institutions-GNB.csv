@@ -1,0 +1,38 @@
+type,institution,domain,email_domain,status,note
+Presidency,Presidência da República da Guiné-Bissau,presidencia.gw,,confirmed 2026-09-29,
+Parliament,Assembleia Nacional Popular,anp.gw,,confirmed 2026-09-29,
+Foreign Affairs,"Ministério dos Negócios Estrangeiros, Cooperação Internacional e das Comunidades",mne.gw,,confirmed 2026-09-29,
+Defence,Ministério da Defesa Nacional e dos Combatentes da Liberdade da Pátria,,,absent,no ministry domain found
+Armed Forces,Forças Armadas Revolucionárias do Povo,,,absent,shares Defence; no domain found
+Police,Polícia Judiciária da Guiné-Bissau,pj.gw,,confirmed 2026-09-29,criminal investigation police under Justice; Polícia de Ordem Pública has no domain found
+Justice,Procuradoria-Geral da República (Ministério Público),pgr.gw,,confirmed 2026-09-29,Ministry of Justice has no domain found; prosecution service portal
+Treasury / Finance,Ministério das Finanças,mef.gw,,confirmed 2026-09-29,
+Revenue Service,Direção-Geral de Contribuições e Impostos,,,absent,subportal of mef.gw; no own domain found
+Customs,Direção-Geral das Alfândegas,,,absent,subportal of mef.gw; no own domain found
+Intelligence,Serviço de Informações de Segurança,,,absent,no domain found
+Interior / Home Affairs,Ministério do Interior,,,absent,only a wixsite.com page found; not the ministry's own domain
+Central Bank,Banco Central dos Estados da África Ocidental (BCEAO),bceao.int,,confirmed 2026-09-29,regional (WAEMU); shared with other member states
+Commercial Banks,Banco da África Ocidental (BAO),bao.gw,baogb.com,confirmed 2026-09-29,Ranking: Commission bancaire UMOA annual report 2025 via financesao.com 'Guinée-Bissau : classement des plus grandes banques en 2025' (https://financesao.com/guinee-bissau-classement-des-plus-grandes-banques-en-2025/); BCEAO list 'Liste Guinée-Bissau 2026' shows only 6 banks. Ecobank Guinée-Bissau (ecobank.com) Orabank (orabank.net) Coris (coris.bank) and Banque Atlantique (banqueatlantique.net) run on group domains and are left out
+Commercial Banks,Banco da União (BDU-SA),bdu-sa.com,,confirmed 2026-09-29,
+Civil registry / National ID authority,Direção-Geral de Identificação Civil e Registos e Notariado,,,absent,no domain found; gov-gb.com is a prototype not the authority's
+Data protection authority,,,,absent,no authority with a domain found
+Electoral commission,Comissão Nacional de Eleições,cne.gw,,confirmed 2026-09-29,
+Statistics office,Instituto Nacional de Estatística (INE),stat-guinebissau.com,,confirmed 2026-09-29,
+Immigration / Passports,Direção-Geral de Migração e Fronteiras,,,absent,under Interior; no domain found
+Health ministry / National health insurance,Ministério da Saúde Pública (MINSAP),minsap.gw,,confirmed 2026-09-29,
+Social protection / Social registry,,,,absent,INSS seeded under pension fund; no separate social registry domain found
+Land registry,,,,absent,no domain found
+National payment switch,GIM-UEMOA,gim-uemoa.org,,confirmed 2026-09-29,regional (WAEMU); shared with other member states
+Stock exchange,Bourse Régionale des Valeurs Mobilières (BRVM),brvm.org,,confirmed 2026-09-29,regional (WAEMU); shared with other member states
+Securities regulator,Autorité des Marchés Financiers de l'UMOA (AMF-UMOA),amf-umoa.org,,confirmed 2026-09-29,regional (WAEMU); shared with other member states
+Sovereign wealth fund / National pension fund,Instituto Nacional de Segurança Social (INSS),inss.gw,,confirmed 2026-09-29,
+Public procurement authority,Direção-Geral dos Concursos Públicos,dgcp.mef.gw,,confirmed 2026-09-29,
+Energy utility,Eletricidade e Águas da Guiné-Bissau (EAGB),eagb-gb.com,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
+Ports authority,Administração dos Portos da Guiné-Bissau,,,absent,no domain found
+State-owned telco / National backbone operator,Guinétel,,,absent,no domain found
+E-government agency,Portal do Governo da Guiné-Bissau,gov.gw,,unconfirmed 2026-09-29,parent zone; scanned root-only; homepage did not load: ConnectionError
+National data centre / Government cloud operator,,,,absent,none found
+Cybersecurity agency / National CERT,,,,absent,none found
+Communications regulator,Autoridade Reguladora Nacional das TIC (ARN),arn.gw,,confirmed 2026-09-29,
+Audit office,Tribunal de Contas,tribunaldecontas.gw,,confirmed 2026-09-29,
+Anti-corruption commission,,,,absent,no commission domain found
