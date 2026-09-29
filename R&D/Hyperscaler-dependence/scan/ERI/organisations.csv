@@ -1,6 +1,6 @@
 iso3,type,institution,domains,names,routable,us_hyperscaler_share,african_region_share,us_saas_share,cdn_share,national_or_self_share,unattributed,mail_provider,mail_security,tangled_hybrid,scan_date
-ERI,Central Bank,Bank of Eritrea,boe.gov.er,5,8,0.0,0.0,0.0,0.0,0.0,8,other:Eritrea Telecommunication Service corporation (EriTel),barracuda,false,2026-09-29
+ERI,Central Bank,Bank of Eritrea,boe.gov.er,5,8,0.0,0.0,0.0,0.0,0.0,0,other:Eritrea Telecommunication Service corporation (EriTel) - Eritrea Telecommunicati,barracuda,false,2026-09-29
 ERI,Commercial Banks,Housing and Commerce Bank of Eritrea,erhcb.com,9,13,100.0,0.0,0.0,0.0,0.0,0,other:google-cloud,,false,2026-09-29
 ERI,State-owned telco / National backbone operator,Eritrean Telecommunication Services Corporation (EriTel),eritel.com.er,12,13,0.0,0.0,0.0,0.0,100.0,0,none,,false,2026-09-29
-ERI,E-government agency,Government of Eritrea (parent zone),gov.er,2,2,0.0,0.0,0.0,0.0,0.0,2,none,,false,2026-09-29
+ERI,E-government agency,Government of Eritrea (parent zone),gov.er,2,2,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
 ERI,E-government agency,Ministry of Information,shabait.com,9,11,100.0,0.0,0.0,0.0,0.0,0,other:google-cloud,,false,2026-09-29

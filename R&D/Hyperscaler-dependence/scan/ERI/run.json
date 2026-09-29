@@ -58,9 +58,7 @@
    "has_mx": true
   }
  },
- "new_asns": {
-  "30987": "Eritrea Telecommunication Service corporation (EriTel) - Eritrea Telecommunication Service corporation (EriTel)"
- },
+ "new_asns": {},
  "rollup": {
   "all": {
    "routable": 47,
@@ -69,9 +67,9 @@
    "us_saas_share": 0.0,
    "cdn_share": 0.0,
    "national_or_self_share": 27.7,
-   "unattributed": 10,
+   "unattributed": 0,
    "by_category": {
-    "unattributed": 10,
+    "telco-isp": 10,
     "us-hyperscaler-offshore": 24,
     "self-hosted": 13
    },
@@ -89,9 +87,9 @@
    "us_saas_share": 0.0,
    "cdn_share": 0.0,
    "national_or_self_share": 38.2,
-   "unattributed": 10,
+   "unattributed": 0,
    "by_category": {
-    "unattributed": 10,
+    "telco-isp": 10,
     "self-hosted": 13,
     "us-hyperscaler-offshore": 11
    },
