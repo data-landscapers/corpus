@@ -44,7 +44,7 @@ seq,iso3,country,group,s01_seeds,s02_scan,s03_classify,s04_report,note
 43,EGY,Egypt,north-africa,2026-09-29,,,,
 44,TUN,Tunisia,north-africa,2026-09-29,,,,
 45,DZA,Algeria,north-africa,2026-09-29,,,,
-46,MRT,Mauritania,north-africa,,,,,
+46,MRT,Mauritania,north-africa,2026-09-29,,,,
 47,SDN,Sudan,north-africa,2026-09-29,,,,fragile state; expect few resolvable domains
 48,LBY,Libya,north-africa,2026-09-29,,,,fragile state; expect few resolvable domains
 49,MOZ,Mozambique,lusophone-hispanophone,,,,,
