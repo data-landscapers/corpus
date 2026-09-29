@@ -481,9 +481,9 @@
    "us_saas_share": 4.9,
    "cdn_share": 26.7,
    "national_or_self_share": 25.1,
-   "unattributed": 8,
+   "unattributed": 5,
    "by_category": {
-    "commercial-host": 112,
+    "commercial-host": 115,
     "african-colo": 212,
     "national-dc": 213,
     "telco-isp": 705,
@@ -493,7 +493,7 @@
     "unresolved": 64,
     "cdn-origin-unknown": 1984,
     "self-hosted": 1657,
-    "unattributed": 8
+    "unattributed": 5
    },
    "institutions": 51,
    "names": 12666,
@@ -537,7 +537,7 @@
    "us_saas_share": 4.1,
    "cdn_share": 26.9,
    "national_or_self_share": 30.0,
-   "unattributed": 5,
+   "unattributed": 2,
    "by_category": {
     "us-hyperscaler-offshore": 1079,
     "cdn-origin-unknown": 1190,
@@ -547,8 +547,8 @@
     "us-saas": 180,
     "unresolved": 36,
     "african-colo": 13,
-    "commercial-host": 39,
-    "unattributed": 5
+    "commercial-host": 42,
+    "unattributed": 2
    },
    "institutions": 12,
    "names": 5629,

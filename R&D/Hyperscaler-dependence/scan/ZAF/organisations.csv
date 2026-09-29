@@ -21,7 +21,7 @@ ZAF,Commercial Banks,Investec,investec.com,761,642,4.2,0.0,3.0,82.1,8.6,0,other:
 ZAF,Commercial Banks,Capitec Bank,capitecbank.co.za,553,545,9.5,0.0,0.7,3.5,81.7,0,m365,mimecast,true,2026-09-28
 ZAF,Commercial Banks,Discovery Bank,discovery.co.za,462,358,27.9,1.7,19.3,15.9,30.4,2,m365,,true,2026-09-28
 ZAF,Commercial Banks,African Bank,africanbank.co.za,264,370,46.2,2.4,0.8,38.4,9.2,0,m365,mimecast,true,2026-09-28
-ZAF,Commercial Banks,TymeBank,tymebank.co.za,94,268,91.4,1.5,6.7,0.7,0.0,3,m365,cisco-ironport,false,2026-09-28
+ZAF,Commercial Banks,TymeBank,tymebank.co.za,94,268,91.4,1.5,6.7,0.7,0.0,0,m365,cisco-ironport,false,2026-09-28
 ZAF,Commercial Banks,Bidvest Bank,bidvestbank.co.za,56,43,55.8,4.7,0.0,4.7,0.0,0,m365,mimecast,false,2026-09-28
 ZAF,Data protection authority,Information Regulator,inforegulator.org.za,22,41,19.5,0.0,41.5,0.0,7.3,0,m365,,true,2026-09-28
 ZAF,Electoral commission,Electoral Commission of South Africa (IEC),elections.org.za,96,189,4.8,0.0,0.0,86.8,0.0,0,other:mimecast,mimecast,false,2026-09-28

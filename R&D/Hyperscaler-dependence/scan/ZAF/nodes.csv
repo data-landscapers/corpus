@@ -12325,7 +12325,7 @@ ZAF,Commercial Banks,TymeBank,tymebank.co.za,genesys-ingress.tymebank.co.za,ct,A
 ZAF,Commercial Banks,TymeBank,tymebank.co.za,genesys-ingress.tymebank.co.za,ct,AAAA,ok,dk04q49zl64cm.cloudfront.net,2600:9000:23d3:9c00:1e:6763:2180:93a1,dk04q49zl64cm.cloudfront.net,,aws-cloudfront,us-hyperscaler-offshore,global,aws-cloudfront,2026-09-28
 ZAF,Commercial Banks,TymeBank,tymebank.co.za,genesys-ingress.tymebank.co.za,ct,AAAA,ok,dk04q49zl64cm.cloudfront.net,2600:9000:23d3:3e00:1e:6763:2180:93a1,dk04q49zl64cm.cloudfront.net,,aws-cloudfront,us-hyperscaler-offshore,global,aws-cloudfront,2026-09-28
 ZAF,Commercial Banks,TymeBank,tymebank.co.za,genesys-ingress.tymebank.co.za,ct,AAAA,ok,dk04q49zl64cm.cloudfront.net,2600:9000:23d3:9e00:1e:6763:2180:93a1,dk04q49zl64cm.cloudfront.net,,aws-cloudfront,us-hyperscaler-offshore,global,aws-cloudfront,2026-09-28
-ZAF,Commercial Banks,TymeBank,tymebank.co.za,guest.tymebank.co.za,ct,A,ok,,160.226.176.61,,328186,NEWSHELF 1315 (PTY) LTD,unattributed,,,2026-09-28
+ZAF,Commercial Banks,TymeBank,tymebank.co.za,guest.tymebank.co.za,ct,A,ok,,160.226.176.61,,328186,NEWSHELF 1315 (PTY) LTD,commercial-host,,NEWSHELF 1315 (PTY) LTD - NEWSHELF 1315 (PTY) LTD,2026-09-28
 ZAF,Commercial Banks,TymeBank,tymebank.co.za,hollard.tymebank.co.za,ct,A,ok,,216.137.44.106,,,aws-cloudfront,us-hyperscaler-offshore,global,aws-cloudfront,2026-09-28
 ZAF,Commercial Banks,TymeBank,tymebank.co.za,hollard.tymebank.co.za,ct,A,ok,,216.137.44.55,,,aws-cloudfront,us-hyperscaler-offshore,global,aws-cloudfront,2026-09-28
 ZAF,Commercial Banks,TymeBank,tymebank.co.za,hollard.tymebank.co.za,ct,A,ok,,216.137.44.36,,,aws-cloudfront,us-hyperscaler-offshore,global,aws-cloudfront,2026-09-28
@@ -12423,11 +12423,11 @@ ZAF,Commercial Banks,TymeBank,tymebank.co.za,tymebank.co.za,root;ct,A,ok,,18.239
 ZAF,Commercial Banks,TymeBank,tymebank.co.za,tymebank.co.za,root;ct,A,ok,,18.239.236.68,,,aws-cloudfront,us-hyperscaler-offshore,global,aws-cloudfront,2026-09-28
 ZAF,Commercial Banks,TymeBank,tymebank.co.za,tymeconnect-aws.tymebank.co.za,ct,A,ok,sa-ew1-t-tymeconnect-alb-01-1314773626.eu-west-1.elb.amazonaws.com,52.51.154.119,sa-ew1-t-tymeconnect-alb-01-1314773626.eu-west-1.elb.amazonaws.com,,aws,us-hyperscaler-offshore,eu-west-1,aws,2026-09-28
 ZAF,Commercial Banks,TymeBank,tymebank.co.za,tymeconnect-aws.tymebank.co.za,ct,A,ok,sa-ew1-t-tymeconnect-alb-01-1314773626.eu-west-1.elb.amazonaws.com,54.228.189.22,sa-ew1-t-tymeconnect-alb-01-1314773626.eu-west-1.elb.amazonaws.com,,aws,us-hyperscaler-offshore,eu-west-1,aws,2026-09-28
-ZAF,Commercial Banks,TymeBank,tymebank.co.za,tymeconnect-gw.tymebank.co.za,ct,A,ok,,160.226.176.15,,328186,NEWSHELF 1315 (PTY) LTD,unattributed,,,2026-09-28
+ZAF,Commercial Banks,TymeBank,tymebank.co.za,tymeconnect-gw.tymebank.co.za,ct,A,ok,,160.226.176.15,,328186,NEWSHELF 1315 (PTY) LTD,commercial-host,,NEWSHELF 1315 (PTY) LTD - NEWSHELF 1315 (PTY) LTD,2026-09-28
 ZAF,Commercial Banks,TymeBank,tymebank.co.za,tymeconnect-gwi.tymebank.co.za,ct,A,ok,stack-nlbre-5hifw62c0zlu-153b35bb62918107.elb.eu-west-1.amazonaws.com,54.154.137.125,stack-nlbre-5hifw62c0zlu-153b35bb62918107.elb.eu-west-1.amazonaws.com,,aws,us-hyperscaler-offshore,eu-west-1,aws,2026-09-28
 ZAF,Commercial Banks,TymeBank,tymebank.co.za,tymeconnect-gwi.tymebank.co.za,ct,A,ok,stack-nlbre-5hifw62c0zlu-153b35bb62918107.elb.eu-west-1.amazonaws.com,18.200.182.101,stack-nlbre-5hifw62c0zlu-153b35bb62918107.elb.eu-west-1.amazonaws.com,,aws,us-hyperscaler-offshore,eu-west-1,aws,2026-09-28
 ZAF,Commercial Banks,TymeBank,tymebank.co.za,tymeconnect-te.tymebank.co.za,ct,A,nxdomain,,,,,,unresolved,,,2026-09-28
-ZAF,Commercial Banks,TymeBank,tymebank.co.za,tymeconnect-vdi.tymebank.co.za,ct,A,ok,,160.226.177.15,,328186,NEWSHELF 1315 (PTY) LTD,unattributed,,,2026-09-28
+ZAF,Commercial Banks,TymeBank,tymebank.co.za,tymeconnect-vdi.tymebank.co.za,ct,A,ok,,160.226.177.15,,328186,NEWSHELF 1315 (PTY) LTD,commercial-host,,NEWSHELF 1315 (PTY) LTD - NEWSHELF 1315 (PTY) LTD,2026-09-28
 ZAF,Commercial Banks,TymeBank,tymebank.co.za,tymeconnect-vo.tymebank.co.za,ct,A,nxdomain,,,,,,unresolved,,,2026-09-28
 ZAF,Commercial Banks,TymeBank,tymebank.co.za,tymeconnect-za.tymebank.co.za,ct,A,nxdomain,,,,,,unresolved,,,2026-09-28
 ZAF,Commercial Banks,TymeBank,tymebank.co.za,tymeconnect.tymebank.co.za,ct,A,ok,tymeconnect-aws-alb-1542855567.af-south-1.elb.amazonaws.com,13.246.101.6,tymeconnect-aws-alb-1542855567.af-south-1.elb.amazonaws.com,,aws,us-hyperscaler-africa,af-south-1,aws,2026-09-28
