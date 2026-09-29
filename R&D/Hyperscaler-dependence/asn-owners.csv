@@ -83,7 +83,7 @@ asn,owner,category,note
 327979,Diamatrix,african-colo,South African hosting
 328037,Optify Systems,african-colo,
 328170,DataKeepers,african-colo,
-328186,NEWSHELF 1315 (PTY) LTD - NEWSHELF 1315 (PTY) LTD,,added by scan 2026-09-28; classify by hand
+328186,NEWSHELF 1315 (PTY) LTD - NEWSHELF 1315 (PTY) LTD,commercial-host,South African shelf company; unverified
 328323,Brilliant Telecommunications,telco-isp,
 328356,Intelys Technology Africa,african-colo,
 328364,Host Africa,african-colo,South African host
@@ -135,7 +135,7 @@ asn,owner,category,note
 209341,WHG Hosting,commercial-host,UK host
 327813,Host Africa,african-colo,South African host
 328093,KCB (Kenya Commercial Bank),african-colo,KCB's own network; self-hosted for KCB by name
-328149,,,added by scan 2026-09-28; classify by hand
+328149,,commercial-host,unverified
 328847,Konza Technopolis (national data centre),national-dc,
 329014,Vilcom Networks,telco-isp,
 329026,Kenyaweb.com,african-colo,Kenyan host
@@ -200,526 +200,526 @@ asn,owner,category,note
 212531,Interneto vizija (Hostinger),commercial-host,Lithuania
 328160,Dotmac Technologies,telco-isp,Nigeria
 328401,Soft Alliance and Resources,african-colo,Nigerian IT services
-328668,Nkponani Limited - Nkponani Limited,,added by scan 2026-09-28; classify by hand
+328668,Nkponani Limited - Nkponani Limited,african-colo,Nigerian IT services; unverified
 328873,National Assembly Abuja,national-dc,the Assembly's own network; self-hosted for it by name
 329476,Trade Modernisation Project,african-colo,Nigeria Customs single-window concessionaire
 394354,CIRA,commercial-host,"anycast DNS, Canada"
 398101,GoDaddy,commercial-host,US
-400238,PIEG-01 - PIE&G,,added by scan 2026-09-28; classify by hand
+400238,PIEG-01 - PIE&G,commercial-host,unverified
 402674,GTranslate,commercial-host,translation proxy
-22386,South Africa Reserve Bank - South Africa Reserve Bank,,added by scan 2026-09-28; classify by hand
-327748,Co-operative Bank of Kenya - Co-operative Bank of Kenya,,added by scan 2026-09-28; classify by hand
-328089,Kenya Revenue Authority - Kenya Revenue Authority,,added by scan 2026-09-28; classify by hand
-328739,KENYA PORTS AUTHORITY - KENYA PORTS AUTHORITY,,added by scan 2026-09-28; classify by hand
-329111,KENYA POWER AND LIGHTING COMPANY PLC - KENYA POWER AND LIGHTING COMPANY PLC,,added by scan 2026-09-28; classify by hand
-36922,United Bank for Africa - United Bank for Africa,,added by scan 2026-09-28; classify by hand
-37452,Central Bank of Nigeria - Central Bank of Nigeria,,added by scan 2026-09-28; classify by hand
-37565,Nigerian Exchange Group PLC - Nigerian Exchange Group PLC,,added by scan 2026-09-28; classify by hand
-749,DNIC-AS-00749 - United States Department of Defense (DoD),,added by scan 2026-09-29; classify by hand
-20294,MTN Uganda - MTN Uganda,,added by scan 2026-09-29; classify by hand
-21491,Uganda-Telecom - IDDQD-AS,,added by scan 2026-09-29; classify by hand
-29039,ECHOTEL-UG - IDDQD-AS,,added by scan 2026-09-29; classify by hand
-31727,NODE4-AS Node4 Limited,,added by scan 2026-09-29; classify by hand
-37063,Roke Investments International Ltd - Roke Investments International Ltd,,added by scan 2026-09-29; classify by hand
-133296,WEBWERKS-AS-IN - Web Werks India Pvt. Ltd.,,added by scan 2026-09-29; classify by hand
-327724,National Information Technology Authority Uganda - National Information Technology Authority Uganda,,added by scan 2026-09-29; classify by hand
-328198,Blue Crane Communications (U) Ltd - Blue Crane Communications (U) Ltd,,added by scan 2026-09-29; classify by hand
-396986,BYTEDANCE - Bytedance Inc.,,added by scan 2026-09-29; classify by hand
-3130,RGNET-SEA RGnet OU,,added by scan 2026-09-29; classify by hand
-3842,"RAMNODE - InMotion Hosting, Inc.",,added by scan 2026-09-29; classify by hand
-12025,IMDC-AS12025 - Iron Mountain Data Center,,added by scan 2026-09-29; classify by hand
-14415,"HOSTCOLLECTIVE - Host Collective, Inc.",,added by scan 2026-09-29; classify by hand
-14555,LIQUIDNETLTD1 - LiquidNet US LLC,,added by scan 2026-09-29; classify by hand
-15418,IONOS-ANYCAST Fasthosts Internet Limited,,added by scan 2026-09-29; classify by hand
-15430,European Dynamics S.A.,,added by scan 2026-09-29; classify by hand
-20260,"SAWTEL-UC - Sawtel, Inc",,added by scan 2026-09-29; classify by hand
-29614,Ghana Telecommunications Company Limited - Ghana Telecommunications Company Limited,,added by scan 2026-09-29; classify by hand
-29838,"AMC - Atlantic Metro Communications II, Inc.",,added by scan 2026-09-29; classify by hand
-30986,Scancom Limited - Scancom Limited,,added by scan 2026-09-29; classify by hand
-33786,K-Net - K-Net,,added by scan 2026-09-29; classify by hand
-37087,Super Tech STL Limited - Super Tech STL Limited,,added by scan 2026-09-29; classify by hand
-37313,Ghana Government (Ministry of Communications) - Ghana Government (Ministry of Communications),,added by scan 2026-09-29; classify by hand
-42831,UKSERVERS-AS UK Dedicated Servers Limited,,added by scan 2026-09-29; classify by hand
-49282,FICOLO Glesys AB,,added by scan 2026-09-29; classify by hand
-53628,APYLI-AS - Apyl Inc,,added by scan 2026-09-29; classify by hand
-199404,WHG-IN WHG Hosting Services Ltd,,added by scan 2026-09-29; classify by hand
-210520,"Synergy Armenian Branch of ""Synergy International Systems"" Joint-Stock Company Separated Subdivision",,added by scan 2026-09-29; classify by hand
-327947,Kwame Nkrumah University of Science and Technology - Kwame Nkrumah University of Science and Technology,,added by scan 2026-09-29; classify by hand
-328574,National Communications Authority - National Communications Authority,,added by scan 2026-09-29; classify by hand
-328842,ProData Africa Limited - ProData Africa Limited,,added by scan 2026-09-29; classify by hand
-398019,DYNU - Dynu Systems Incorporated,,added by scan 2026-09-29; classify by hand
-22354,- ,,added by scan 2026-09-29; classify by hand
-28690,ING-DIRECT-UK Barclays Bank PLC,,added by scan 2026-09-29; classify by hand
-32860,Cats-Net Limited - Cats-Net Limited,,added by scan 2026-09-29; classify by hand
-33765,TANZANIA TELECOMMUNICATIONS CO. LTD - TANZANIA TELECOMMUNICATIONS CO. LTD,,added by scan 2026-09-29; classify by hand
-36908,Vodacom Tanzania Ltd - Vodacom Tanzania Ltd,,added by scan 2026-09-29; classify by hand
-37013,Satcom Networks Africa - Satcom Networks Africa,,added by scan 2026-09-29; classify by hand
-37035,MIC TANZANIA LTD - MIC TANZANIA LTD,,added by scan 2026-09-29; classify by hand
-37045,Tanzania Network Information Centre (tzNIC) - Tanzania Network Information Centre (tzNIC),,added by scan 2026-09-29; classify by hand
-37133,Airtel Tanzania - Airtel Tanzania,,added by scan 2026-09-29; classify by hand
-37182,Tanzania Education And Research Network - Tanzania Education And Research Network,,added by scan 2026-09-29; classify by hand
-37364,TANZANIA COMMUNICATIONS  REGULATORY AUTHORITY (TCRA) - TANZANIA COMMUNICATIONS  REGULATORY AUTHORITY (TCRA),,added by scan 2026-09-29; classify by hand
-327728,Cable Television Network (CTV) Limited - Cable Television Network (CTV) Limited,,added by scan 2026-09-29; classify by hand
-327730,PPF PENSION FUND - PPF PENSION FUND,,added by scan 2026-09-29; classify by hand
-327795,e-Government Authority - e-Government Authority,,added by scan 2026-09-29; classify by hand
-37006,Liquid Telecommunication Rwanda Limited - Liquid Telecommunication Rwanda Limited,,added by scan 2026-09-29; classify by hand
-37010,National University of Rwanda - National University of Rwanda,,added by scan 2026-09-29; classify by hand
-37228,KT RWANDA NETWORK Ltd - KT RWANDA NETWORK Ltd,,added by scan 2026-09-29; classify by hand
-37619,Broadband Systems Corporation - Broadband Systems Corporation,,added by scan 2026-09-29; classify by hand
-58182,wix_com Wix.com Ltd.,,added by scan 2026-09-29; classify by hand
-329104,AOS LTD - AOS LTD,,added by scan 2026-09-29; classify by hand
-6453,AS6453 - TATA COMMUNICATIONS (AMERICA) INC,,added by scan 2026-09-29; classify by hand
-7420,Zamnet - Zamnet,,added by scan 2026-09-29; classify by hand
-11214,UNIVERSITY-OF-NORTH-FLORIDA - University of North Florida,,added by scan 2026-09-29; classify by hand
-12488,KRYSTAL Krystal Hosting Ltd,,added by scan 2026-09-29; classify by hand
-25795,"ARPNET - ARP NETWORKS, INC.",,added by scan 2026-09-29; classify by hand
-33763,Paratus Telecommunications Limited - Paratus Telecommunications Limited,,added by scan 2026-09-29; classify by hand
-36959,AfriConnect Zambia Ltd - AfriConnect Zambia Ltd,,added by scan 2026-09-29; classify by hand
-36962,MTN Zambia - MTN Zambia,,added by scan 2026-09-29; classify by hand
-36972,MTN SUDAN - MTN SUDAN,,added by scan 2026-09-29; classify by hand
-36996,Telecom Namibia - Telecom Namibia,,added by scan 2026-09-29; classify by hand
-37146,Hai Telecommunications Limited - Hai Telecommunications Limited,,added by scan 2026-09-29; classify by hand
-37154,Zambia Telecommunications Company Ltd aka ZAMTEL - Zambia Telecommunications Company Ltd aka ZAMTEL,,added by scan 2026-09-29; classify by hand
-37532,Zambia Research and Education Network (ZAMREN) - Zambia Research and Education Network (ZAMREN),,added by scan 2026-09-29; classify by hand
-39122,BLACKNIGHT-AS Blacknight Internet Solutions Limited,,added by scan 2026-09-29; classify by hand
-61025,COCCA-ASN CoCCA Registry Services (NZ) Limited,,added by scan 2026-09-29; classify by hand
-328007,,,added by scan 2026-09-29; classify by hand
-328570,Fibrecom Limited - Fibrecom Limited,,added by scan 2026-09-29; classify by hand
-328646,INFRATEL CORPORATION LIMITED - INFRATEL CORPORATION LIMITED,,added by scan 2026-09-29; classify by hand
-24757,Ethio Telecom - Ethio Telecom,,added by scan 2026-09-29; classify by hand
-25369,BANDWIDTH-AS Hydra Communications Ltd,,added by scan 2026-09-29; classify by hand
-33182,"DIMENOC - HostDime.com, Inc.",,added by scan 2026-09-29; classify by hand
-34960,Netcetera-AG-AS Netcetera AG,,added by scan 2026-09-29; classify by hand
-48254,TWENTYI 20i Limited,,added by scan 2026-09-29; classify by hand
-52148,ENIXLTD Enix Ltd,,added by scan 2026-09-29; classify by hand
-329227,WebSprix IT Solution PLC - WebSprix IT Solution PLC,,added by scan 2026-09-29; classify by hand
-14988,Botswana Telecommunications Corporation - Botswana Telecommunications Corporation,,added by scan 2026-09-29; classify by hand
-16125,"CHERRYSERVERS1-AS UAB ""Cherry Servers""",,added by scan 2026-09-29; classify by hand
-36963,Orange Botswana (PTY) Ltd - Orange Botswana (PTY) Ltd,,added by scan 2026-09-29; classify by hand
-37051,Government of Botswana - Government of Botswana,,added by scan 2026-09-29; classify by hand
-37201,Bank Windhoek - Bank Windhoek,,added by scan 2026-09-29; classify by hand
-37395,Abari Communications - Abari Communications,,added by scan 2026-09-29; classify by hand
-37604,Desert Road Pty Ltd t/a Zebranet - Desert Road Pty Ltd t/a Zebranet,,added by scan 2026-09-29; classify by hand
-46844,SHARKTECH - Sharktech,,added by scan 2026-09-29; classify by hand
-328459,VBN Services - VBN Services,,added by scan 2026-09-29; classify by hand
-328723,Telasera Technologies PTY LTD - Telasera Technologies PTY LTD,,added by scan 2026-09-29; classify by hand
-31856,YoAfrica (Pvt) Ltd - YoAfrica (Pvt) Ltd,,added by scan 2026-09-29; classify by hand
-36986,Africom Pvt Ltd - Africom Pvt Ltd,,added by scan 2026-09-29; classify by hand
-37123,Telecontract Pvt Ltd - Telecontract Pvt Ltd,,added by scan 2026-09-29; classify by hand
-37183,Utande Internet Services (Pvt) Ltd - Utande Internet Services (Pvt) Ltd,,added by scan 2026-09-29; classify by hand
-37184,Powertel Communications - Powertel Communications,,added by scan 2026-09-29; classify by hand
-37204,Telone PVT Ltd - Telone PVT Ltd,,added by scan 2026-09-29; classify by hand
-37332,Zimbabwe Online - Zimbabwe Online,,added by scan 2026-09-29; classify by hand
-37441,Digicore Electronics (Pty) Ltd - Digicore Electronics (Pty) Ltd,,added by scan 2026-09-29; classify by hand
-37442,African Network Information Center - (AfriNIC) Ltd,,added by scan 2026-09-29; classify by hand
-40021,CONTABO-40021 - Contabo Inc.,,added by scan 2026-09-29; classify by hand
-57344,TELEHOUSE-AS Telehouse EAD,,added by scan 2026-09-29; classify by hand
-5377,MARLINK-EMEA Marlink AS,,added by scan 2026-09-29; classify by hand
-14593,SPACEX-STARLINK - Space Exploration Technologies Corporation,,added by scan 2026-09-29; classify by hand
-15083,INFOLINK-MIA-US - Infolink Global Corporation,,added by scan 2026-09-29; classify by hand
-22878,"ASACENET1 - ACENET, INC.",,added by scan 2026-09-29; classify by hand
-36913,TELEKOM NETWORKS MALAWI LTD - TELEKOM NETWORKS MALAWI LTD,,added by scan 2026-09-29; classify by hand
-36969,Malawi Telecommunications Limited - Malawi Telecommunications Limited,,added by scan 2026-09-29; classify by hand
-37098,globe internet limited - globe internet limited,,added by scan 2026-09-29; classify by hand
-37187,Inq. Digital Limited - Inq. Digital Limited,,added by scan 2026-09-29; classify by hand
-37294,TELEKOM NETWORKS MALAWI LTD - TELEKOM NETWORKS MALAWI LTD,,added by scan 2026-09-29; classify by hand
-37440,Airtel Malawi Ltd - Airtel Malawi Ltd,,added by scan 2026-09-29; classify by hand
-37712,National Integrated Technologies Limited - National Integrated Technologies Limited,,added by scan 2026-09-29; classify by hand
-62240,Clouvider Clouvider Limited,,added by scan 2026-09-29; classify by hand
-327941,SIMBANET MALAWI LIMITED - SIMBANET MALAWI LIMITED,,added by scan 2026-09-29; classify by hand
-328403,Malawi Revenue Authority - Malawi Revenue Authority,,added by scan 2026-09-29; classify by hand
-328919,Open Connect Limited - Open Connect Limited,,added by scan 2026-09-29; classify by hand
-329220,Department of E-Government - Department of E-Government,,added by scan 2026-09-29; classify by hand
-329335,Department of HIV & AIDS and Viral Hepatitis - Department of HIV & AIDS and Viral Hepatitis,,added by scan 2026-09-29; classify by hand
-329427,Electricity Supply Corporation of Malawi Ltd - Electricity Supply Corporation of Malawi Ltd,,added by scan 2026-09-29; classify by hand
-3491,PCCWG-APAC-HK - PCCW Global (HK) Ltd.,,added by scan 2026-09-29; classify by hand
-14782,THEROCKETSCIENCEGROUP - MailChimp,,added by scan 2026-09-29; classify by hand
-22735,Government of the Republic of Namibia - Government of the Republic of Namibia,,added by scan 2026-09-29; classify by hand
-37009,"MTC - Mobile Telecommunications, Ltd. - MTC - Mobile Telecommunications, Ltd.",,added by scan 2026-09-29; classify by hand
-329067,Click Cloud Hosting Services CC - Click Cloud Hosting Services CC,,added by scan 2026-09-29; classify by hand
-397666,HOSTROUND-LLC - HostRound LLC,,added by scan 2026-09-29; classify by hand
-9583,SIFY-AS-IN - Sify Limited,,added by scan 2026-09-29; classify by hand
-13037,ZEN-AS Zen Internet Ltd,,added by scan 2026-09-29; classify by hand
-14992,"CRYSTALTECH - NewtekOne, Inc.",,added by scan 2026-09-29; classify by hand
-26380,MASTER-7-AS - MasterCard Technologies LLC,,added by scan 2026-09-29; classify by hand
-30999,EMTEL LIMITED - EMTEL LIMITED,,added by scan 2026-09-29; classify by hand
-34971,PDDA-AS CDLAN SpA,,added by scan 2026-09-29; classify by hand
-36868,Rogers Capital Technology Services Ltd - Rogers Capital Technology Services Ltd,,added by scan 2026-09-29; classify by hand
-36894,Mauritius Digital Promotion Agency - Mauritius Digital Promotion Agency,,added by scan 2026-09-29; classify by hand
-53292,MWAY - ManagedWay,,added by scan 2026-09-29; classify by hand
-59778,SYNEXTRA-UK Synextra Limited,,added by scan 2026-09-29; classify by hand
-19711,SWAZILAND PTC - SWAZILAND PTC,,added by scan 2026-09-29; classify by hand
-32398,Real Image Internet - Real Image Internet,,added by scan 2026-09-29; classify by hand
-37510,Posix Swaziland - Posix Swaziland,,added by scan 2026-09-29; classify by hand
-327750,JENNY INTERNET (PTY) LTD - JENNY INTERNET (PTY) LTD,,added by scan 2026-09-29; classify by hand
-3303,SWISSCOM Swisscom (Schweiz) AG,,added by scan 2026-09-29; classify by hand
-14058,"PCT-AS01 - PointClick Technologies, LLC",,added by scan 2026-09-29; classify by hand
-15694,ATMAN-ISP-AS Atman Sp. z o.o.,,added by scan 2026-09-29; classify by hand
-16633,"I-3 - N-able Technologies, Inc.",,added by scan 2026-09-29; classify by hand
-25250,Gamtel Co. - Gamtel Co.,,added by scan 2026-09-29; classify by hand
-29873,"BIZLAND-SD - Newfold Digital, Inc.",,added by scan 2026-09-29; classify by hand
-37309,QCell Limited - QCell Limited,,added by scan 2026-09-29; classify by hand
-37323,Netpage Company Limited - Netpage Company Limited,,added by scan 2026-09-29; classify by hand
-37503,Unique Solutions Company Limited - Unique Solutions Company Limited,,added by scan 2026-09-29; classify by hand
-25695,Leo (PTY) LTD - Leo (PTY) LTD,,added by scan 2026-09-29; classify by hand
-33567,Econet Telecom Lesotho (PTY) LTD - Econet Telecom Lesotho (PTY) LTD,,added by scan 2026-09-29; classify by hand
-37057,Vodacom Lesotho (Pty) Ltd - Vodacom Lesotho (Pty) Ltd,,added by scan 2026-09-29; classify by hand
-37642,Comnet Pty Ltd - Comnet Pty Ltd,,added by scan 2026-09-29; classify by hand
-12129,"123NET - 123.Net, Inc.",,added by scan 2026-09-29; classify by hand
-21130,IOMART-IE IOMART CLOUD SERVICES LIMITED,,added by scan 2026-09-29; classify by hand
-26496,"AS-26496-GO-DADDY-COM-LLC - GoDaddy.com, LLC",,added by scan 2026-09-29; classify by hand
-31122,DIGIWEB-AS Digiweb ltd,,added by scan 2026-09-29; classify by hand
-32097,"WII - WholeSale Internet, Inc.",,added by scan 2026-09-29; classify by hand
-34931,AWARESOFT Awareness Software Limited,,added by scan 2026-09-29; classify by hand
-36928,African Network Information Center - (AfriNIC) Ltd,,added by scan 2026-09-29; classify by hand
-36988,Africell Sierra Leone Limited - Africell Sierra Leone Limited,,added by scan 2026-09-29; classify by hand
-37208,Afcom (SL) Limited - Afcom (SL) Limited,,added by scan 2026-09-29; classify by hand
-37449,ONLIME SL LIMITED - ONLIME SL LIMITED,,added by scan 2026-09-29; classify by hand
-204548,CLOUDWEBMANAGE-IL-FR Kamatera Inc,,added by scan 2026-09-29; classify by hand
-205544,LEASEWEB-UK-LON-11 Leaseweb UK Limited,,added by scan 2026-09-29; classify by hand
-209049,MICHCOM MICHCOM LIMITED,,added by scan 2026-09-29; classify by hand
-327990,AI NETWORKS LIMITED - AI NETWORKS LIMITED,,added by scan 2026-09-29; classify by hand
-328258,Zen Internet Company (SL) Limited - Zen Internet Company (SL) Limited,,added by scan 2026-09-29; classify by hand
-328581,Fiber One (SL) LIMITED - Fiber One (SL) LIMITED,,added by scan 2026-09-29; classify by hand
-329109,Zoodlabs(SL) Limited - Zoodlabs(SL) Limited,,added by scan 2026-09-29; classify by hand
-9498,BBIL-AP - BHARTI Airtel Ltd.,,added by scan 2026-09-29; classify by hand
-16713,NOANET-WA - Northwest Open Access Network,,added by scan 2026-09-29; classify by hand
-26042,"FIBERSTATE - FiberState, LLC",,added by scan 2026-09-29; classify by hand
-32475,SINGLEHOP-LLC - Internap Holding LLC,,added by scan 2026-09-29; classify by hand
-37410,Lonestar Communications Corporation - Lonestar Communications Corporation,,added by scan 2026-09-29; classify by hand
-43350,NFORCE NForce Entertainment B.V.,,added by scan 2026-09-29; classify by hand
-62563,AS-GLOBALTELEHOST - GLOBALTELEHOST Corp.,,added by scan 2026-09-29; classify by hand
-63023,AS-GLOBALTELEHOST - GTHost,,added by scan 2026-09-29; classify by hand
-210727,BuyLtd Buy Limited,,added by scan 2026-09-29; classify by hand
-212217,bbonline BB-Online UK Ltd,,added by scan 2026-09-29; classify by hand
-213230,HETZNER-CLOUD2-AS Hetzner Online GmbH,,added by scan 2026-09-29; classify by hand
-328196,POWERNET - POWERNET,,added by scan 2026-09-29; classify by hand
-400940,RAILWAY - Railway,,added by scan 2026-09-29; classify by hand
-5416,BEYON B.S.C.,,added by scan 2026-09-29; classify by hand
-12041,"AS-AFILIAS1 - Afilias, Inc.",,added by scan 2026-09-29; classify by hand
-19853,ORANGEHOST - OrangeHost,,added by scan 2026-09-29; classify by hand
-34119,WILDCARD-AS Wildcard UK Limited,,added by scan 2026-09-29; classify by hand
-36902,Intelvision Ltd - Intelvision Ltd,,added by scan 2026-09-29; classify by hand
-36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,,added by scan 2026-09-29; classify by hand
-37343,Telecom Seychelles Limited - Telecom Seychelles Limited,,added by scan 2026-09-29; classify by hand
-201200,SUPERHOSTING_AS SuperHosting.BG Ltd.,,added by scan 2026-09-29; classify by hand
-201682,LIQUID-WEB-BV Liquid Web B.V.,,added by scan 2026-09-29; classify by hand
-207266,AFiLIAS-SECONDARY-DNS Identity Digital Limited,,added by scan 2026-09-29; classify by hand
-210318,c-o-as CAPITAL OUTSOURCING SAL,,added by scan 2026-09-29; classify by hand
-327861,Department of ICT Government of Seychelles - Department of ICT Government of Seychelles,,added by scan 2026-09-29; classify by hand
-37406,RCS-Communication - RCS-Communication,,added by scan 2026-09-29; classify by hand
-37584,Fast Network Ltd - Fast Network Ltd,,added by scan 2026-09-29; classify by hand
-46261,"QUICKPACKET - QuickPacket, LLC",,added by scan 2026-09-29; classify by hand
-59210,PHOENIXNAP-AS-SG1 - PhoenixNAP,,added by scan 2026-09-29; classify by hand
-328614,Eden Technologies Company Limited - Eden Technologies Company Limited,,added by scan 2026-09-29; classify by hand
-30987,Eritrea Telecommunication Service corporation (EriTel) - Eritrea Telecommunication Service corporation (EriTel),,added by scan 2026-09-29; classify by hand
-7922,"COMCAST-7922 - Comcast Cable Communications, LLC",,added by scan 2026-09-29; classify by hand
-9051,IncoNet Data Management sal,,added by scan 2026-09-29; classify by hand
-27357,RACKSPACE - Rackspace Hosting,,added by scan 2026-09-29; classify by hand
-37371,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,,added by scan 2026-09-29; classify by hand
-38719,DREAMSCAPE-AS-AP - Dreamscape Networks Limited,,added by scan 2026-09-29; classify by hand
-42807,AEROTEK-AS CIZGI TELEKOMUNIKASYON ANONIM SIRKETI,,added by scan 2026-09-29; classify by hand
-63410,PRIVATESYSTEMS - PrivateSystems Networks,,added by scan 2026-09-29; classify by hand
-201771,NDC-CLOUD ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD,,added by scan 2026-09-29; classify by hand
-202448,mvps MVPS LTD,,added by scan 2026-09-29; classify by hand
-327764,Somali Research & Education Network(SomaliREN) - Somali Research & Education Network(SomaliREN),,added by scan 2026-09-29; classify by hand
-327828,Somali Optical Networks - Somali Optical Networks,,added by scan 2026-09-29; classify by hand
-328319,AMTEL LTD - AMTEL LTD,,added by scan 2026-09-29; classify by hand
-328590,Somlink Wireless Network - Somlink Wireless Network,,added by scan 2026-09-29; classify by hand
-329692,HTG CLOUDS LIMITED - HTG CLOUDS LIMITED,,added by scan 2026-09-29; classify by hand
-668,DNIC-AS-00668 - United States Department of Defense (DoD),,added by scan 2026-09-29; classify by hand
-3215,AS3215 Orange S.A.,,added by scan 2026-09-29; classify by hand
-4455,BSO IX Reach Ltd,,added by scan 2026-09-29; classify by hand
-6713,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM - Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,,added by scan 2026-09-29; classify by hand
-8346,SONATEL - IDDQD-AS,,added by scan 2026-09-29; classify by hand
-11042,NTHL - NETWORK TRANSIT HOLDINGS LLC,,added by scan 2026-09-29; classify by hand
-14492,"DATAPIPE - DataPipe, Inc.",,added by scan 2026-09-29; classify by hand
-16347,INHERENT ADISTA SAS,,added by scan 2026-09-29; classify by hand
-16686,"EDNS - easyDNS Technologies, Inc.",,added by scan 2026-09-29; classify by hand
-22351,INTELSAT-1 - INTELSAT GLOBAL SERVICE CORPORATION,,added by scan 2026-09-29; classify by hand
-24935,ATE-AS Eurofiber France SAS,,added by scan 2026-09-29; classify by hand
-25091,IP-Max IP-Max SA,,added by scan 2026-09-29; classify by hand
-29222,Infomaniak-AS Infomaniak Network SA,,added by scan 2026-09-29; classify by hand
-29571,Orange Côte d'Ivoire - Orange Côte d'Ivoire,,added by scan 2026-09-29; classify by hand
-29650,VIATELAS-AS Digiweb ltd,,added by scan 2026-09-29; classify by hand
-34177,CELESTE-AS Celeste SAS,,added by scan 2026-09-29; classify by hand
-36884,Wana Corporate - Wana Corporate,,added by scan 2026-09-29; classify by hand
-37196,Expresso Senegal SA - Expresso Senegal SA,,added by scan 2026-09-29; classify by hand
-37381,Afrique Technologies & Services (VipNet) - Afrique Technologies & Services (VipNet),,added by scan 2026-09-29; classify by hand
-37649,SAGA AFRICA HOLDINGS LIMITED - SAGA AFRICA HOLDINGS LIMITED,,added by scan 2026-09-29; classify by hand
-43927,HOSTERION HOSTERION SRL,,added by scan 2026-09-29; classify by hand
-53589,PLANETHOSTER-8 - PlanetHoster,,added by scan 2026-09-29; classify by hand
-203476,GANDI-AS-2 GANDI SAS,,added by scan 2026-09-29; classify by hand
-205787,Publicloud Public Cloud Ltd.,,added by scan 2026-09-29; classify by hand
-210403,LWS Groupe LWS SARL,,added by scan 2026-09-29; classify by hand
-328025,VEONE - VEONE,,added by scan 2026-09-29; classify by hand
-328193,SOCIETE NATIONALE DE DEVELOPPEMENT INFORMATIQUE - SOCIETE NATIONALE DE DEVELOPPEMENT INFORMATIQUE,,added by scan 2026-09-29; classify by hand
-328729,GROUPEMENT DES SERVICES EAU ET ELECTRICITE - GROUPEMENT DES SERVICES EAU ET ELECTRICITE,,added by scan 2026-09-29; classify by hand
-328840,ST DIGITAL - ST DIGITAL,,added by scan 2026-09-29; classify by hand
-329666,Cote d'Ivoire Internet Exchange Point - Cote d'Ivoire Internet Exchange Point,,added by scan 2026-09-29; classify by hand
-8362,NordNet SA,,added by scan 2026-09-29; classify by hand
-9115,INFB-AS9115 Hostpapa UK Ltd.,,added by scan 2026-09-29; classify by hand
-21342,AKAMAI-ASN2 Akamai International B.V.,,added by scan 2026-09-29; classify by hand
-34762,COMBELL-AS Combell NV,,added by scan 2026-09-29; classify by hand
-36666,GTCOMM - GloboTech Communications,,added by scan 2026-09-29; classify by hand
-39729,REGISTER-AS REGISTER S.P.A.,,added by scan 2026-09-29; classify by hand
-199236,EMARSYS-AS EMARSYS eMarketing Systems GmbH,,added by scan 2026-09-29; classify by hand
-328148,Agence De l'Informatique de l'Etat - Agence De l'Informatique de l'Etat,,added by scan 2026-09-29; classify by hand
-329407,Universite Cheikh Anta DIOP de DAKAR - Universite Cheikh Anta DIOP de DAKAR,,added by scan 2026-09-29; classify by hand
-12876,AS12876 Scaleway SAS,,added by scan 2026-09-29; classify by hand
-15964,CAMTEL - CAMTEL,,added by scan 2026-09-29; classify by hand
-26548,PUREVOLTAGE-INC - PureVoltage Hosting Inc.,,added by scan 2026-09-29; classify by hand
-30992,MTN Network Solutions (Cameroon) - MTN Network Solutions (Cameroon),,added by scan 2026-09-29; classify by hand
-36905,Creolink Communications - Creolink Communications,,added by scan 2026-09-29; classify by hand
-36955,Matrix Telecoms SA - Matrix Telecoms SA,,added by scan 2026-09-29; classify by hand
-37414,Microcom Sprl - Microcom Sprl,,added by scan 2026-09-29; classify by hand
-37461,ORANGE GUINEE - ORANGE GUINEE,,added by scan 2026-09-29; classify by hand
-206979,PROLIVAL Prolival SA,,added by scan 2026-09-29; classify by hand
-209453,GANDI-LIVEDNS GANDI SAS,,added by scan 2026-09-29; classify by hand
-210625,wecom-as Wecom Mobile Ltd.,,added by scan 2026-09-29; classify by hand
-327741,INFOGENIE Technologies - INFOGENIE Technologies,,added by scan 2026-09-29; classify by hand
-327820,SWECOM PLC - SWECOM PLC,,added by scan 2026-09-29; classify by hand
-8312,ZYLON-AS Bas Smit trading as Zylon,,added by scan 2026-09-29; classify by hand
-28683,SOCIETE BENINOISE D'INFRASTRUCTURES NUMERIQUES - SOCIETE BENINOISE D'INFRASTRUCTURES NUMERIQUES,,added by scan 2026-09-29; classify by hand
-34788,NMM-AS Neue Medien Muennich GmbH,,added by scan 2026-09-29; classify by hand
-37090,ISOCEL SA - ISOCEL SA,,added by scan 2026-09-29; classify by hand
-37292,Omnium des Telecom et de l'Internet (OTI Telecom) - Omnium des Telecom et de l'Internet (OTI Telecom),,added by scan 2026-09-29; classify by hand
-203380,DAInternationalGroup DA International Group Ltd.,,added by scan 2026-09-29; classify by hand
-212317,HETZNER-CLOUD3-AS Hetzner Online GmbH,,added by scan 2026-09-29; classify by hand
-328098,JENY SAS - JENY SAS,,added by scan 2026-09-29; classify by hand
-328228,SOCIETE BENINOISE D'INFRASTRUCTURES NUMERIQUES - SOCIETE BENINOISE D'INFRASTRUCTURES NUMERIQUES,,added by scan 2026-09-29; classify by hand
-42,"WOODYNET-1 - WoodyNet, Inc.",,added by scan 2026-09-29; classify by hand
-15348,TUCOWS - Tucows.com Co.,,added by scan 2026-09-29; classify by hand
-17294,"BI-631 - Build io, Inc.",,added by scan 2026-09-29; classify by hand
-21271,Society of Mali's Telecommunications (SOTELMA) - Society of Mali's Telecommunications (SOTELMA),,added by scan 2026-09-29; classify by hand
-21409,IKOULA Ikoula Net SAS,,added by scan 2026-09-29; classify by hand
-30985,Orange Mali SA - Orange Mali SA,,added by scan 2026-09-29; classify by hand
-32491,TUCOWS-3 - Tucows.com Co.,,added by scan 2026-09-29; classify by hand
-36864,AFRIBONE MALI SA - AFRIBONE MALI SA,,added by scan 2026-09-29; classify by hand
-37177,African Network Information Center - (AfriNIC) Ltd - African Network Information Center - (AfriNIC) Ltd,,added by scan 2026-09-29; classify by hand
-40092,ONIAAS - HostPapa,,added by scan 2026-09-29; classify by hand
-53755,IOFLOOD - Input Output Flood LLC,,added by scan 2026-09-29; classify by hand
-328284,Société Malienne de Transmission et de Diffusion - Société Malienne de Transmission et de Diffusion,,added by scan 2026-09-29; classify by hand
-25543,"ONATEL (Office National des Telecommunications, PTT) - ONATEL (Office National des Telecommunications, PTT)",,added by scan 2026-09-29; classify by hand
-37008,Sancfis Faso SA - Sancfis Faso SA,,added by scan 2026-09-29; classify by hand
-37073,Internet Puissance Plus Burkina SA - Internet Puissance Plus Burkina SA,,added by scan 2026-09-29; classify by hand
-37577,Orange Burkina Faso - Orange Burkina Faso,,added by scan 2026-09-29; classify by hand
-37721,Virtual Technologies & Solutions - Virtual Technologies & Solutions,,added by scan 2026-09-29; classify by hand
-37734,Virtual Technologies & Solutions - Virtual Technologies & Solutions,,added by scan 2026-09-29; classify by hand
-327871,Agence Nationale de Promotion des TIC (ANPTIC) - Agence Nationale de Promotion des TIC (ANPTIC),,added by scan 2026-09-29; classify by hand
-328721,Groupe Netforce - Groupe Netforce,,added by scan 2026-09-29; classify by hand
-329744,IKA SOLUTION LIMTED - IKA SOLUTION LIMTED,,added by scan 2026-09-29; classify by hand
-8860,DELTA-BG-AS Delta HighTech Ltd.,,added by scan 2026-09-29; classify by hand
-26130,LIPTINFOR NIGER SA - LIPTINFOR NIGER SA,,added by scan 2026-09-29; classify by hand
-37385,Societe Nigerienne des Telecommunications (SONITEL) - Societe Nigerienne des Telecommunications (SONITEL),,added by scan 2026-09-29; classify by hand
-8739,ICDSoft ICDSoft Ltd.,,added by scan 2026-09-29; classify by hand
-24691,TOGOTEL-AS - IDDQD-AS,,added by scan 2026-09-29; classify by hand
-25394,MK-NETZDIENSTE-AS MK Netzdienste Verwaltungs GmbH trading as MK Netzdienste GmbH & Co. KG,,added by scan 2026-09-29; classify by hand
-26277,SERVERPOINT - ServerPoint.com,,added by scan 2026-09-29; classify by hand
-30982,CAFE Informatique et telecommunications - CAFE Informatique et telecommunications,,added by scan 2026-09-29; classify by hand
-36924,GVA Cote d'Ivoire SAS - GVA Cote d'Ivoire SAS,,added by scan 2026-09-29; classify by hand
-36947,Telecom Algeria - Telecom Algeria,,added by scan 2026-09-29; classify by hand
-37054,Telecom Malagasy - Telecom Malagasy,,added by scan 2026-09-29; classify by hand
-48809,HOSTEUR-ANYCAST Hosteur SAS,,added by scan 2026-09-29; classify by hand
-204818,HOSTEUR-NET-CORE Hosteur SAS,,added by scan 2026-09-29; classify by hand
-207758,HOSTEUR-NET-CORE-CH Hosteur SA,,added by scan 2026-09-29; classify by hand
-4788,TTSSB-MY - TM TECHNOLOGY SERVICES SDN. BHD.,,added by scan 2026-09-29; classify by hand
-23470,RELIABLESITE - ReliableSite.Net LLC,,added by scan 2026-09-29; classify by hand
-36925,MEDITELECOM - MEDITELECOM,,added by scan 2026-09-29; classify by hand
-37141,ETI SA - ETI SA,,added by scan 2026-09-29; classify by hand
-37430,VDC Telecom - VDC Telecom,,added by scan 2026-09-29; classify by hand
-37665,MOUNA Group Technology Sa. - MOUNA Group Technology Sa.,,added by scan 2026-09-29; classify by hand
-328244,Skyvision Guinee SA - Skyvision Guinee SA,,added by scan 2026-09-29; classify by hand
-328899,Afribone - Guinee SA - Afribone - Guinee SA,,added by scan 2026-09-29; classify by hand
-328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,,added by scan 2026-09-29; classify by hand
-2635,"AUTOMATTIC - Automattic, Inc",,added by scan 2026-09-29; classify by hand
-8921,FR-OC3NETWORK OC3 NETWORK SAS,,added by scan 2026-09-29; classify by hand
-16058,Gabon Telecom / Office of Posts and Telecommunications of Gabon - Gabon Telecom / Office of Posts and Telecommunications of Gabon,,added by scan 2026-09-29; classify by hand
-32400,"HWSERVICES-32400 - Ntirety, Inc.",,added by scan 2026-09-29; classify by hand
-37582,Agence Nationale des Infrastructures Numeriques et des Frequences (ANINF) - Agence Nationale des Infrastructures Numeriques et des Frequences (ANINF),,added by scan 2026-09-29; classify by hand
-60362,alwaysdata alwaysdata SARL,,added by scan 2026-09-29; classify by hand
-12574,ROUTING Hosting.de GmbH,,added by scan 2026-09-29; classify by hand
-31400,ACCELERATED-IT firstcolo GmbH,,added by scan 2026-09-29; classify by hand
-37451,CONGO TELECOM - CONGO TELECOM,,added by scan 2026-09-29; classify by hand
-37463,MTN CONGO - MTN CONGO,,added by scan 2026-09-29; classify by hand
-37548,ARPCE - ARPCE,,added by scan 2026-09-29; classify by hand
-41637,ROUTING-ANYCAST Hosting.de GmbH,,added by scan 2026-09-29; classify by hand
-48823,AS48823 Hosting.de GmbH,,added by scan 2026-09-29; classify by hand
-62597,NSONE - NSONE Inc,,added by scan 2026-09-29; classify by hand
-140631,GDMSCL-AS-AP - Global Digital Management Solutions Co Ltd,,added by scan 2026-09-29; classify by hand
-328329,ARPCE - ARPCE,,added by scan 2026-09-29; classify by hand
-37462,PRESTABIST - PRESTABIST,,added by scan 2026-09-29; classify by hand
-50474,O2SWITCH O2SWITCH SAS,,added by scan 2026-09-29; classify by hand
-60781,LEASEWEB-NL-AMS-01 LeaseWeb Netherlands B.V.,,added by scan 2026-09-29; classify by hand
-328594,Sahel Fiber Telecommunication Chad (SAFITEL TCHAD SA/CA) - Sahel Fiber Telecommunication Chad (SAFITEL TCHAD SA/CA),,added by scan 2026-09-29; classify by hand
-12337,NORIS-NETWORK noris network AG,,added by scan 2026-09-29; classify by hand
-35665,Netensia Netensia SARL,,added by scan 2026-09-29; classify by hand
-36979,First Bank of NG PLC - First Bank of NG PLC,,added by scan 2026-09-29; classify by hand
-37298,Equity Bank Ltd - Equity Bank Ltd,,added by scan 2026-09-29; classify by hand
-37453,Vodacom Congo - Vodacom Congo,,added by scan 2026-09-29; classify by hand
-37638,Orioncom SPRL - Orioncom SPRL,,added by scan 2026-09-29; classify by hand
-37677,Societe Congolaise des Postes et Telecommunications (SCPT) - Societe Congolaise des Postes et Telecommunications (SCPT),,added by scan 2026-09-29; classify by hand
-43256,KIN-AS Global Broadband Solution Inc,,added by scan 2026-09-29; classify by hand
-51545,ZSAH zsah Limited,,added by scan 2026-09-29; classify by hand
-205020,datagrid-network DataGrid Network GmbH,,added by scan 2026-09-29; classify by hand
-328442,United SA - United SA,,added by scan 2026-09-29; classify by hand
-329573,SOCIETE FINANCIERE DE BANQUE - SOCIETE FINANCIERE DE BANQUE,,added by scan 2026-09-29; classify by hand
-9294,GNETINC-AS-AP - GNET INC.,,added by scan 2026-09-29; classify by hand
-9304,HUTCHISON-AS-AP - HGC Global Communications Limited,,added by scan 2026-09-29; classify by hand
-29066,VELIANET-AS velia.net Internetdienste GmbH,,added by scan 2026-09-29; classify by hand
-30990,DJIBOUTI TELECOM S.A. - DJIBOUTI TELECOM S.A.,,added by scan 2026-09-29; classify by hand
-56046,CMNET-Jiangsu-AP - China Mobile communications corporation,,added by scan 2026-09-29; classify by hand
-134756,ChinaNet-NANJING-JISHAN-IDC - CHINANET Nanjing Jishan IDC network,,added by scan 2026-09-29; classify by hand
-329140,Afrifiber SAS - Afrifiber SAS,,added by scan 2026-09-29; classify by hand
-395776,FEDERAL-ONLINE-GROUP-LLC - FEDERAL ONLINE GROUP LLC,,added by scan 2026-09-29; classify by hand
-15022,Adept Internet (Pty) Ltd CT - Adept Internet (Pty) Ltd CT,,added by scan 2026-09-29; classify by hand
-20756,NAMESHIELD NAMESHIELD SAS,,added by scan 2026-09-29; classify by hand
-37037,Orange Madagascar - Orange Madagascar,,added by scan 2026-09-29; classify by hand
-37303,Airtel Madagascar - Airtel Madagascar,,added by scan 2026-09-29; classify by hand
-209510,NAMESHIELDGRP NAMESHIELD SAS,,added by scan 2026-09-29; classify by hand
-328411,Gulfsat Madagascar - Gulfsat Madagascar,,added by scan 2026-09-29; classify by hand
-25429,CBINET-AS CBINET Burundi,,added by scan 2026-09-29; classify by hand
-37545,Burundi Backbone System SM - Burundi Backbone System SM,,added by scan 2026-09-29; classify by hand
-197000,RIPE-NCC-AUTHDNS-AS Reseaux IP Europeens Network Coordination Centre (RIPE NCC),,added by scan 2026-09-29; classify by hand
-327799,VIETTEL BURUNDI SA - VIETTEL BURUNDI SA,,added by scan 2026-09-29; classify by hand
-19994,RACKSPACE - Rackspace Hosting,,added by scan 2026-09-29; classify by hand
-37460,Orange Centreafrique - Orange Centreafrique,,added by scan 2026-09-29; classify by hand
-48596,INWX InterNetworX Management GmbH,,added by scan 2026-09-29; classify by hand
-213298,CTX-BRN-AS Cortex IT SA,,added by scan 2026-09-29; classify by hand
-20860,IOMART-AS IOMART CLOUD SERVICES LIMITED,,added by scan 2026-09-29; classify by hand
-35425,BYTEMARK-AS Iomart Managed Services Limited,,added by scan 2026-09-29; classify by hand
-36939,Comores Telecom - Comores Telecom,,added by scan 2026-09-29; classify by hand
-37084,Simbanet (T) Limited - Simbanet (T) Limited,,added by scan 2026-09-29; classify by hand
-328061,TELECOM COMORES S.A (TELCO S.A) - TELECOM COMORES S.A (TELCO S.A),,added by scan 2026-09-29; classify by hand
-8220,COLT COLT Technology Services Group Limited,,added by scan 2026-09-29; classify by hand
-13193,ASN-NERIM Keyyo SA,,added by scan 2026-09-29; classify by hand
-25215,BNP-Paribas BNP PARIBAS S.A.,,added by scan 2026-09-29; classify by hand
-36941,MTDS - MTDS,,added by scan 2026-09-29; classify by hand
-39905,ACTITO ACTITO S.A.,,added by scan 2026-09-29; classify by hand
-49981,WorldStream WorldStream B.V.,,added by scan 2026-09-29; classify by hand
-327989,Genious Communications - Genious Communications,,added by scan 2026-09-29; classify by hand
-328055,NPONE - NPONE,,added by scan 2026-09-29; classify by hand
-328066,MEDAFRICA SYSTEMS - MEDAFRICA SYSTEMS,,added by scan 2026-09-29; classify by hand
-328709,Universite Mohammed VI POLYTECHNIQUE - UM6P - Universite Mohammed VI POLYTECHNIQUE - UM6P,,added by scan 2026-09-29; classify by hand
-6127,IDSC - IDSC,,added by scan 2026-09-29; classify by hand
-8452,TE-AS - IDDQD-AS,,added by scan 2026-09-29; classify by hand
-15804,,,added by scan 2026-09-29; classify by hand
-17477,MCT-SYDNEY - Macquarie Technology Operations Pty Limited,,added by scan 2026-09-29; classify by hand
-20928,The Noor Group - The Noor Group,,added by scan 2026-09-29; classify by hand
-24835,Vodafone Data - Vodafone Data,,added by scan 2026-09-29; classify by hand
-24863,Link Egypt (Link.NET) - Link Egypt (Link.NET),,added by scan 2026-09-29; classify by hand
-25364,Egypt Cyber Center aka ECC Solutions - Egypt Cyber Center aka ECC Solutions,,added by scan 2026-09-29; classify by hand
-25576,AFMIC - AFMIC,,added by scan 2026-09-29; classify by hand
-30995,Vodafone Data - Vodafone Data,,added by scan 2026-09-29; classify by hand
-31065,Ministry of Communications and Information Technology - Ministry of Communications and Information Technology,,added by scan 2026-09-29; classify by hand
-33905,AKAMAI-AMS Akamai International B.V.,,added by scan 2026-09-29; classify by hand
-36992,ETISALAT MISR - ETISALAT MISR,,added by scan 2026-09-29; classify by hand
-37193,e-finance - e-finance,,added by scan 2026-09-29; classify by hand
-328405,Link Datacenter For Data Circulation - Link Datacenter For Data Circulation,,added by scan 2026-09-29; classify by hand
-328430,Fawry for Banking and Electronic Payment Technology Services (S.A.E) - Fawry for Banking and Electronic Payment Technology Services (S.A.E),,added by scan 2026-09-29; classify by hand
-328553,Bank Misr S.A.E - Bank Misr S.A.E,,added by scan 2026-09-29; classify by hand
-328587,Ministry of Communications and Information Technology - Ministry of Communications and Information Technology,,added by scan 2026-09-29; classify by hand
-328654,Fixed Solutions - Fixed Solutions,,added by scan 2026-09-29; classify by hand
-2609,TN-BB-AS - IDDQD-AS,,added by scan 2026-09-29; classify by hand
-3296,SOCIETE-GENERALE Societe Generale S.A.,,added by scan 2026-09-29; classify by hand
-3299,Societe Generale S.A.,,added by scan 2026-09-29; classify by hand
-9318,SKB-AS-KR - SK Broadband Co Ltd,,added by scan 2026-09-29; classify by hand
-31245,ATI - Agence Tunisienne Internet - ATI - Agence Tunisienne Internet,,added by scan 2026-09-29; classify by hand
-37492,Orange Tunisie - Orange Tunisie,,added by scan 2026-09-29; classify by hand
-37551,ATI - Agence Tunisienne Internet - ATI - Agence Tunisienne Internet,,added by scan 2026-09-29; classify by hand
-37671,3S INF - 3S INF,,added by scan 2026-09-29; classify by hand
-37693,OOREDOO TUNISIE SA - OOREDOO TUNISIE SA,,added by scan 2026-09-29; classify by hand
-37705,TOPNET - TOPNET,,added by scan 2026-09-29; classify by hand
-37709,Cloud Temple Tunisia - Cloud Temple Tunisia,,added by scan 2026-09-29; classify by hand
-327934,SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom) - SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom),,added by scan 2026-09-29; classify by hand
-29544,Mauritanian Telecommunication Company - Mauritanian Telecommunication Company,,added by scan 2026-09-29; classify by hand
-37508,MATTEL - MATTEL,,added by scan 2026-09-29; classify by hand
-328997,RIMATEL-SA - RIMATEL-SA,,added by scan 2026-09-29; classify by hand
-3208,Algerian Academic Research Network - Algerian Academic Research Network,,added by scan 2026-09-29; classify by hand
-16214,C.E.R.I.S.T. - C.E.R.I.S.T.,,added by scan 2026-09-29; classify by hand
-21391,Algerian Broadcasting (Tele Diffusion d'Algerie TDA) - Algerian Broadcasting (Tele Diffusion d'Algerie TDA),,added by scan 2026-09-29; classify by hand
-36891,Icosnet SPA - Icosnet SPA,,added by scan 2026-09-29; classify by hand
-65536,,,added by scan 2026-09-29; classify by hand
-8781,QA-ISP Ooredoo Q.S.C.,,added by scan 2026-09-29; classify by hand
-15706,Sudatel (Sudan Telecom Co. Ltd) - Sudatel (Sudan Telecom Co. Ltd),,added by scan 2026-09-29; classify by hand
-18978,ENZUINC-US - Enzu Inc,,added by scan 2026-09-29; classify by hand
-33788,Kanar Telecommunication (Canar Telecom Co.Ltd) - Kanar Telecommunication (Canar Telecom Co.Ltd),,added by scan 2026-09-29; classify by hand
-37211,MAX NET FOR INTERNET SERVICES - MAX NET FOR INTERNET SERVICES,,added by scan 2026-09-29; classify by hand
-40244,TURNKEY-INTERNET - Turnkey Internet Inc.,,added by scan 2026-09-29; classify by hand
-53861,AS-KGIX - KGIX,,added by scan 2026-09-29; classify by hand
-203993,GNA-DC1-AS S.J.M. Steffann,,added by scan 2026-09-29; classify by hand
-204436,KUALO-AS Kualo Limited,,added by scan 2026-09-29; classify by hand
-327881,National Information Center (NIC) - National Information Center (NIC),,added by scan 2026-09-29; classify by hand
-328365,Edge connect (pty) Ltd - Edge connect (pty) Ltd,,added by scan 2026-09-29; classify by hand
-328381,Sudanese Internet Association - Sudanese Internet Association,,added by scan 2026-09-29; classify by hand
-21003,General Post and Telecommunication Company (GPTC) - General Post and Telecommunication Company (GPTC),,added by scan 2026-09-29; classify by hand
-37284,Aljeel Aljadeed For Technology - Aljeel Aljadeed For Technology,,added by scan 2026-09-29; classify by hand
-37558,LIBYAN INTERNATIONAL TELECOMMUNICATION COMPANY - LIBYAN INTERNATIONAL TELECOMMUNICATION COMPANY,,added by scan 2026-09-29; classify by hand
-197540,netcup-AS netcup GmbH,,added by scan 2026-09-29; classify by hand
-200325,"BunnyCDN BUNNYWAY, informacijske storitve d.o.o.",,added by scan 2026-09-29; classify by hand
-214036,"ULTAHOST-AS Ultahost, Inc.",,added by scan 2026-09-29; classify by hand
-327921,Bait Ashames for Data Communication - Bait Ashames for Data Communication,,added by scan 2026-09-29; classify by hand
-328200,Al Madar Al Jadeed Joint Stock Company - Al Madar Al Jadeed Joint Stock Company,,added by scan 2026-09-29; classify by hand
-328539,Giga for Telecommunication and Technology Limited - Giga for Telecommunication and Technology Limited,,added by scan 2026-09-29; classify by hand
-328611,Libyan Elite Company for Technical Solutions - Libyan Elite Company for Technical Solutions,,added by scan 2026-09-29; classify by hand
-328733,AWAL TELECOM & TECHNOLOGY - AWAL TELECOM & TECHNOLOGY,,added by scan 2026-09-29; classify by hand
-329263,Libyan Spider for IT LTD. - Libyan Spider for IT LTD.,,added by scan 2026-09-29; classify by hand
-2914,"NTT-DATA-2914 - NTT America, Inc.",,added by scan 2026-09-29; classify by hand
-3582,UONET - University of Oregon,,added by scan 2026-09-29; classify by hand
-24768,ALMOUROLTEC ALMOUROLTEC SERVICOS DE INFORMATICA E INTERNET LDA,,added by scan 2026-09-29; classify by hand
-30619,"TMCEL - Moçambique Telecom, SA - TMCEL - Moçambique Telecom, SA",,added by scan 2026-09-29; classify by hand
-31960,Eduardo Mondlane University - Eduardo Mondlane University,,added by scan 2026-09-29; classify by hand
-36865,Teledata Mozambique - Teledata Mozambique,,added by scan 2026-09-29; classify by hand
-37342,"Movitel, SA - Movitel, SA",,added by scan 2026-09-29; classify by hand
-37436,INTIC (National Institute of ICT) - INTIC (National Institute of ICT),,added by scan 2026-09-29; classify by hand
-37489,ABARI COMMUNICATIONS MOZAMBIQUE LDA - ABARI COMMUNICATIONS MOZAMBIQUE LDA,,added by scan 2026-09-29; classify by hand
-37556,Cilix Software - Cilix Software,,added by scan 2026-09-29; classify by hand
-37697,"WEBMASTERS, LDA. - WEBMASTERS, LDA.",,added by scan 2026-09-29; classify by hand
-42235,IDC-AS INTRA DATA COMMUNICATION,,added by scan 2026-09-29; classify by hand
-53667,PONYNET - FranTech Solutions,,added by scan 2026-09-29; classify by hand
-60068,CDN77 Datacamp Limited,,added by scan 2026-09-29; classify by hand
-212238,CDNEXT Datacamp Limited,,added by scan 2026-09-29; classify by hand
-327951,Instituto Nacional das Comunicacoes de Mozambique - Instituto Nacional das Comunicacoes de Mozambique,,added by scan 2026-09-29; classify by hand
-328274,"BIM - Banco Internacional de Mocambique, SA - BIM - Banco Internacional de Mocambique, SA",,added by scan 2026-09-29; classify by hand
-328748,Agile Solutions Provider (PTY) LTD - Agile Solutions Provider (PTY) LTD,,added by scan 2026-09-29; classify by hand
-1897,"EUNETPT NOS COMUNICACOES, S.A.",,added by scan 2026-09-29; classify by hand
-3243,MEO-RESIDENCIAL MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.,,added by scan 2026-09-29; classify by hand
-9186,"ONI ONITELECOM - INFOCOMUNICACOES, S.A.",,added by scan 2026-09-29; classify by hand
-15525,MEO-EMPRESAS MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.,,added by scan 2026-09-29; classify by hand
-25253,"CGDNET CAIXA GERAL DE DEPOSITOS, SA",,added by scan 2026-09-29; classify by hand
-37517,"CABO VERDE TELECOM, S.A - CABO VERDE TELECOM, S.A",,added by scan 2026-09-29; classify by hand
-37575,"UNITEL T+ Telecomunicacoes, Sociedade Unipessoal, S.A. - UNITEL T+ Telecomunicacoes, Sociedade Unipessoal, S.A.",,added by scan 2026-09-29; classify by hand
-59787,"WEBHS WebSP - Comercio e Prestacao de Servicos Informaticos, Lda",,added by scan 2026-09-29; classify by hand
-211359,AS_BINTER_SISTEMAS BINTER SISTEMAS SL,,added by scan 2026-09-29; classify by hand
-327862,NOSi EPE - NOSi EPE,,added by scan 2026-09-29; classify by hand
-2860,"NOS_COMUNICACOES NOS COMUNICACOES, S.A.",,added by scan 2026-09-29; classify by hand
-11259,Angola Telecom - Angola Telecom,,added by scan 2026-09-29; classify by hand
-13878,AS13878 - Scala Data Centers,,added by scan 2026-09-29; classify by hand
-17400,"MSTelcom-Mercury Servicos de Telecomunicacoes, S.A.R.L - MSTelcom-Mercury Servicos de Telecomunicacoes, S.A.R.L",,added by scan 2026-09-29; classify by hand
-36881,Multitel Servicos de Telecomunicacoes - Multitel Servicos de Telecomunicacoes,,added by scan 2026-09-29; classify by hand
-36907,TV CABO ANGOLA LDA - TV CABO ANGOLA LDA,,added by scan 2026-09-29; classify by hand
-37119,UNITEL SA - UNITEL SA,,added by scan 2026-09-29; classify by hand
-37468,Angola Cables - Angola Cables,,added by scan 2026-09-29; classify by hand
-37593,Infrasat - Infrasat,,added by scan 2026-09-29; classify by hand
-41962,mgoncalves MIGUEL GONCALVES UNIPESSOAL LDA,,added by scan 2026-09-29; classify by hand
-212954,"LusoAloja LUSOALOJA SERVICOS DE ALOJAMENTO WEB, LDA",,added by scan 2026-09-29; classify by hand
-327806,CENTRO NACIONAL DAS TECNOLOGIAS DE INFORMACAO - CENTRO NACIONAL DAS TECNOLOGIAS DE INFORMACAO,,added by scan 2026-09-29; classify by hand
-327932,CONNECTIS-DATA ANGOLA LDA - CONNECTIS-DATA ANGOLA LDA,,added by scan 2026-09-29; classify by hand
-328154,"NETSPACE -SERVICOS DE TELECOMUNICACOES, LDA - NETSPACE -SERVICOS DE TELECOMUNICACOES, LDA",,added by scan 2026-09-29; classify by hand
-328211,SETIC-FP - SETIC-FP,,added by scan 2026-09-29; classify by hand
-328226,,,added by scan 2026-09-29; classify by hand
-5533,CLARANET-PT Claranet Portugal S.A,,added by scan 2026-09-29; classify by hand
-33876,"Flesk-AS DMNS - DOMINIOS, S.A.",,added by scan 2026-09-29; classify by hand
-37559,Orange Bissau - Orange Bissau,,added by scan 2026-09-29; classify by hand
-39384,"RACKFIBER Dream Fusion - IT Services, Lda",,added by scan 2026-09-29; classify by hand
-37337,MUNI S.A - MUNI S.A,,added by scan 2026-09-29; classify by hand
-37529,Gestora de Infraestructuras de Telecomunicaciones de Guinea Ecuatorial - Gestora de Infraestructuras de Telecomunicaciones de Guinea Ecuatorial,,added by scan 2026-09-29; classify by hand
-48348,cloudbuilders Cloud Builders SA,,added by scan 2026-09-29; classify by hand
-197712,"CDmon 10dencehispahard, S.L.",,added by scan 2026-09-29; classify by hand
-202054,"S4N-AS GRUPO SYS4NET, S.L.",,added by scan 2026-09-29; classify by hand
-1930,"RCCN Fundacao para a Ciencia e a Tecnologia, I.P.",,added by scan 2026-09-29; classify by hand
-8473,BAHNHOF Bahnhof AB,,added by scan 2026-09-29; classify by hand
-12353,VODAFONE-PT Vodafone Portugal - Communicacoes Pessoais S.A.,,added by scan 2026-09-29; classify by hand
-206834,TEAMINTERNET-CA-AS Team Internet AG,,added by scan 2026-09-29; classify by hand
-327725,UNITEL STP SARL - UNITEL STP SARL,,added by scan 2026-09-29; classify by hand
-328191,Companhia Santomense de Telecomunicacoes - Companhia Santomense de Telecomunicacoes,,added by scan 2026-09-29; classify by hand
+22386,South Africa Reserve Bank - South Africa Reserve Bank,national-dc,South African Reserve Bank's own network
+327748,Co-operative Bank of Kenya - Co-operative Bank of Kenya,african-colo,bank's own network
+328089,Kenya Revenue Authority - Kenya Revenue Authority,national-dc,Kenya Revenue Authority's own network
+328739,KENYA PORTS AUTHORITY - KENYA PORTS AUTHORITY,national-dc,Kenya Ports Authority's own network
+329111,KENYA POWER AND LIGHTING COMPANY PLC - KENYA POWER AND LIGHTING COMPANY PLC,african-colo,Kenya Power's own network
+36922,United Bank for Africa - United Bank for Africa,african-colo,UBA's own network
+37452,Central Bank of Nigeria - Central Bank of Nigeria,national-dc,Central Bank of Nigeria's own network
+37565,Nigerian Exchange Group PLC - Nigerian Exchange Group PLC,african-colo,exchange's own network
+749,DNIC-AS-00749 - United States Department of Defense (DoD),commercial-host,US DoD address space; unverified
+20294,MTN Uganda - MTN Uganda,telco-isp,
+21491,Uganda-Telecom - IDDQD-AS,telco-isp,
+29039,ECHOTEL-UG - IDDQD-AS,telco-isp,Echotel Uganda
+31727,NODE4-AS Node4 Limited,commercial-host,UK
+37063,Roke Investments International Ltd - Roke Investments International Ltd,african-colo,Ugandan host and ISP
+133296,WEBWERKS-AS-IN - Web Werks India Pvt. Ltd.,commercial-host,India
+327724,National Information Technology Authority Uganda - National Information Technology Authority Uganda,national-dc,Uganda's government ICT agency and data centre
+328198,Blue Crane Communications (U) Ltd - Blue Crane Communications (U) Ltd,telco-isp,
+396986,BYTEDANCE - Bytedance Inc.,commercial-host,"ByteDance; Chinese-owned, US-registered"
+3130,RGNET-SEA RGnet OU,commercial-host,US
+3842,"RAMNODE - InMotion Hosting, Inc.",commercial-host,US
+12025,IMDC-AS12025 - Iron Mountain Data Center,commercial-host,US colocation
+14415,"HOSTCOLLECTIVE - Host Collective, Inc.",commercial-host,US
+14555,LIQUIDNETLTD1 - LiquidNet US LLC,commercial-host,US
+15418,IONOS-ANYCAST Fasthosts Internet Limited,commercial-host,UK (IONOS)
+15430,European Dynamics S.A.,commercial-host,Greek e-government contractor
+20260,"SAWTEL-UC - Sawtel, Inc",commercial-host,US
+29614,Ghana Telecommunications Company Limited - Ghana Telecommunications Company Limited,telco-isp,Vodafone Ghana
+29838,"AMC - Atlantic Metro Communications II, Inc.",commercial-host,US
+30986,Scancom Limited - Scancom Limited,telco-isp,MTN Ghana
+33786,K-Net - K-Net,telco-isp,Ghana
+37087,Super Tech STL Limited - Super Tech STL Limited,telco-isp,Ghana
+37313,Ghana Government (Ministry of Communications) - Ghana Government (Ministry of Communications),national-dc,Ghana government network (NITA)
+42831,UKSERVERS-AS UK Dedicated Servers Limited,commercial-host,UK
+49282,FICOLO Glesys AB,commercial-host,Sweden
+53628,APYLI-AS - Apyl Inc,commercial-host,US
+199404,WHG-IN WHG Hosting Services Ltd,commercial-host,UK host
+210520,"Synergy Armenian Branch of ""Synergy International Systems"" Joint-Stock Company Separated Subdivision",commercial-host,Armenian e-government contractor
+327947,Kwame Nkrumah University of Science and Technology - Kwame Nkrumah University of Science and Technology,national-dc,public university network
+328574,National Communications Authority - National Communications Authority,national-dc,Ghana regulator's own network
+328842,ProData Africa Limited - ProData Africa Limited,african-colo,Ghanaian host
+398019,DYNU - Dynu Systems Incorporated,commercial-host,US dynamic DNS
+22354,- ,commercial-host,unverified
+28690,ING-DIRECT-UK Barclays Bank PLC,commercial-host,Barclays UK network; unverified
+32860,Cats-Net Limited - Cats-Net Limited,telco-isp,Tanzania
+33765,TANZANIA TELECOMMUNICATIONS CO. LTD - TANZANIA TELECOMMUNICATIONS CO. LTD,telco-isp,"TTCL, state-owned"
+36908,Vodacom Tanzania Ltd - Vodacom Tanzania Ltd,telco-isp,
+37013,Satcom Networks Africa - Satcom Networks Africa,telco-isp,
+37035,MIC TANZANIA LTD - MIC TANZANIA LTD,telco-isp,Tigo Tanzania
+37045,Tanzania Network Information Centre (tzNIC) - Tanzania Network Information Centre (tzNIC),telco-isp,ccTLD registry DNS
+37133,Airtel Tanzania - Airtel Tanzania,telco-isp,
+37182,Tanzania Education And Research Network - Tanzania Education And Research Network,telco-isp,research and education network
+37364,TANZANIA COMMUNICATIONS  REGULATORY AUTHORITY (TCRA) - TANZANIA COMMUNICATIONS  REGULATORY AUTHORITY (TCRA),national-dc,Tanzania regulator's own network
+327728,Cable Television Network (CTV) Limited - Cable Television Network (CTV) Limited,telco-isp,Tanzania
+327730,PPF PENSION FUND - PPF PENSION FUND,national-dc,public pension fund's own network
+327795,e-Government Authority - e-Government Authority,national-dc,Tanzania's e-Government Authority data centre
+37006,Liquid Telecommunication Rwanda Limited - Liquid Telecommunication Rwanda Limited,african-colo,Liquid runs Africa Data Centres
+37010,National University of Rwanda - National University of Rwanda,national-dc,public university network
+37228,KT RWANDA NETWORK Ltd - KT RWANDA NETWORK Ltd,telco-isp,Rwanda
+37619,Broadband Systems Corporation - Broadband Systems Corporation,telco-isp,Rwanda
+58182,wix_com Wix.com Ltd.,commercial-host,Wix; Israeli site builder
+329104,AOS LTD - AOS LTD,african-colo,unverified
+6453,AS6453 - TATA COMMUNICATIONS (AMERICA) INC,telco-isp,Tata Communications
+7420,Zamnet - Zamnet,telco-isp,Zambia
+11214,UNIVERSITY-OF-NORTH-FLORIDA - University of North Florida,commercial-host,US university; unverified
+12488,KRYSTAL Krystal Hosting Ltd,commercial-host,UK
+25795,"ARPNET - ARP NETWORKS, INC.",commercial-host,US
+33763,Paratus Telecommunications Limited - Paratus Telecommunications Limited,telco-isp,
+36959,AfriConnect Zambia Ltd - AfriConnect Zambia Ltd,telco-isp,Zambia
+36962,MTN Zambia - MTN Zambia,telco-isp,
+36972,MTN SUDAN - MTN SUDAN,telco-isp,
+36996,Telecom Namibia - Telecom Namibia,telco-isp,state-owned
+37146,Hai Telecommunications Limited - Hai Telecommunications Limited,telco-isp,Sudan
+37154,Zambia Telecommunications Company Ltd aka ZAMTEL - Zambia Telecommunications Company Ltd aka ZAMTEL,telco-isp,state-owned
+37532,Zambia Research and Education Network (ZAMREN) - Zambia Research and Education Network (ZAMREN),telco-isp,research and education network
+39122,BLACKNIGHT-AS Blacknight Internet Solutions Limited,commercial-host,Ireland
+61025,COCCA-ASN CoCCA Registry Services (NZ) Limited,commercial-host,ccTLD registry DNS
+328007,,commercial-host,unverified
+328570,Fibrecom Limited - Fibrecom Limited,telco-isp,Zambia
+328646,INFRATEL CORPORATION LIMITED - INFRATEL CORPORATION LIMITED,telco-isp,Zambia state fibre
+24757,Ethio Telecom - Ethio Telecom,telco-isp,state-owned
+25369,BANDWIDTH-AS Hydra Communications Ltd,telco-isp,UK
+33182,"DIMENOC - HostDime.com, Inc.",commercial-host,US
+34960,Netcetera-AG-AS Netcetera AG,commercial-host,Switzerland
+48254,TWENTYI 20i Limited,commercial-host,UK
+52148,ENIXLTD Enix Ltd,commercial-host,UK
+329227,WebSprix IT Solution PLC - WebSprix IT Solution PLC,african-colo,Ethiopian IT services
+14988,Botswana Telecommunications Corporation - Botswana Telecommunications Corporation,telco-isp,state-owned
+16125,"CHERRYSERVERS1-AS UAB ""Cherry Servers""",commercial-host,Lithuania
+36963,Orange Botswana (PTY) Ltd - Orange Botswana (PTY) Ltd,telco-isp,
+37051,Government of Botswana - Government of Botswana,national-dc,Botswana government network
+37201,Bank Windhoek - Bank Windhoek,african-colo,bank's own network
+37395,Abari Communications - Abari Communications,telco-isp,Botswana
+37604,Desert Road Pty Ltd t/a Zebranet - Desert Road Pty Ltd t/a Zebranet,telco-isp,Namibia
+46844,SHARKTECH - Sharktech,commercial-host,US
+328459,VBN Services - VBN Services,telco-isp,unverified
+328723,Telasera Technologies PTY LTD - Telasera Technologies PTY LTD,telco-isp,South Africa
+31856,YoAfrica (Pvt) Ltd - YoAfrica (Pvt) Ltd,telco-isp,Zimbabwe
+36986,Africom Pvt Ltd - Africom Pvt Ltd,telco-isp,Zimbabwe
+37123,Telecontract Pvt Ltd - Telecontract Pvt Ltd,telco-isp,Zimbabwe
+37183,Utande Internet Services (Pvt) Ltd - Utande Internet Services (Pvt) Ltd,telco-isp,Zimbabwe
+37184,Powertel Communications - Powertel Communications,telco-isp,"Zimbabwe, state-owned"
+37204,Telone PVT Ltd - Telone PVT Ltd,telco-isp,"Zimbabwe, state-owned"
+37332,Zimbabwe Online - Zimbabwe Online,telco-isp,Zimbabwe
+37441,Digicore Electronics (Pty) Ltd - Digicore Electronics (Pty) Ltd,commercial-host,South African vehicle tracking; unverified
+37442,African Network Information Center - (AfriNIC) Ltd,telco-isp,regional internet registry; ccTLD secondary DNS
+40021,CONTABO-40021 - Contabo Inc.,commercial-host,Contabo
+57344,TELEHOUSE-AS Telehouse EAD,commercial-host,Bulgaria colocation
+5377,MARLINK-EMEA Marlink AS,telco-isp,satellite
+14593,SPACEX-STARLINK - Space Exploration Technologies Corporation,telco-isp,Starlink
+15083,INFOLINK-MIA-US - Infolink Global Corporation,commercial-host,US
+22878,"ASACENET1 - ACENET, INC.",commercial-host,US
+36913,TELEKOM NETWORKS MALAWI LTD - TELEKOM NETWORKS MALAWI LTD,telco-isp,Malawi
+36969,Malawi Telecommunications Limited - Malawi Telecommunications Limited,telco-isp,"Malawi, state-owned"
+37098,globe internet limited - globe internet limited,telco-isp,Malawi
+37187,Inq. Digital Limited - Inq. Digital Limited,telco-isp,Inq Digital
+37294,TELEKOM NETWORKS MALAWI LTD - TELEKOM NETWORKS MALAWI LTD,telco-isp,Malawi
+37440,Airtel Malawi Ltd - Airtel Malawi Ltd,telco-isp,
+37712,National Integrated Technologies Limited - National Integrated Technologies Limited,african-colo,Malawian IT services
+62240,Clouvider Clouvider Limited,commercial-host,UK
+327941,SIMBANET MALAWI LIMITED - SIMBANET MALAWI LIMITED,telco-isp,Malawi
+328403,Malawi Revenue Authority - Malawi Revenue Authority,national-dc,revenue authority's own network
+328919,Open Connect Limited - Open Connect Limited,telco-isp,Malawi
+329220,Department of E-Government - Department of E-Government,national-dc,Malawi's government ICT department
+329335,Department of HIV & AIDS and Viral Hepatitis - Department of HIV & AIDS and Viral Hepatitis,national-dc,ministry department network
+329427,Electricity Supply Corporation of Malawi Ltd - Electricity Supply Corporation of Malawi Ltd,african-colo,state utility's own network
+3491,PCCWG-APAC-HK - PCCW Global (HK) Ltd.,telco-isp,PCCW Global
+14782,THEROCKETSCIENCEGROUP - MailChimp,us-saas,Mailchimp
+22735,Government of the Republic of Namibia - Government of the Republic of Namibia,national-dc,Namibia government network
+37009,"MTC - Mobile Telecommunications, Ltd. - MTC - Mobile Telecommunications, Ltd.",telco-isp,
+329067,Click Cloud Hosting Services CC - Click Cloud Hosting Services CC,african-colo,Namibian host
+397666,HOSTROUND-LLC - HostRound LLC,commercial-host,US
+9583,SIFY-AS-IN - Sify Limited,commercial-host,India
+13037,ZEN-AS Zen Internet Ltd,telco-isp,UK
+14992,"CRYSTALTECH - NewtekOne, Inc.",commercial-host,US
+26380,MASTER-7-AS - MasterCard Technologies LLC,us-saas,Mastercard
+30999,EMTEL LIMITED - EMTEL LIMITED,telco-isp,Mauritius
+34971,PDDA-AS CDLAN SpA,commercial-host,Italy
+36868,Rogers Capital Technology Services Ltd - Rogers Capital Technology Services Ltd,african-colo,Mauritian IT services and hosting
+36894,Mauritius Digital Promotion Agency - Mauritius Digital Promotion Agency,national-dc,Mauritius government ICT agency
+53292,MWAY - ManagedWay,commercial-host,Canada
+59778,SYNEXTRA-UK Synextra Limited,commercial-host,UK
+19711,SWAZILAND PTC - SWAZILAND PTC,telco-isp,"Eswatini, state-owned"
+32398,Real Image Internet - Real Image Internet,telco-isp,Eswatini
+37510,Posix Swaziland - Posix Swaziland,telco-isp,Eswatini
+327750,JENNY INTERNET (PTY) LTD - JENNY INTERNET (PTY) LTD,telco-isp,South Africa
+3303,SWISSCOM Swisscom (Schweiz) AG,telco-isp,Switzerland
+14058,"PCT-AS01 - PointClick Technologies, LLC",commercial-host,US
+15694,ATMAN-ISP-AS Atman Sp. z o.o.,commercial-host,Poland
+16633,"I-3 - N-able Technologies, Inc.",us-saas,N-able
+25250,Gamtel Co. - Gamtel Co.,telco-isp,"Gambia, state-owned"
+29873,"BIZLAND-SD - Newfold Digital, Inc.",commercial-host,US (Newfold)
+37309,QCell Limited - QCell Limited,telco-isp,Gambia
+37323,Netpage Company Limited - Netpage Company Limited,telco-isp,Gambia
+37503,Unique Solutions Company Limited - Unique Solutions Company Limited,telco-isp,Gambia
+25695,Leo (PTY) LTD - Leo (PTY) LTD,telco-isp,Lesotho
+33567,Econet Telecom Lesotho (PTY) LTD - Econet Telecom Lesotho (PTY) LTD,telco-isp,
+37057,Vodacom Lesotho (Pty) Ltd - Vodacom Lesotho (Pty) Ltd,telco-isp,
+37642,Comnet Pty Ltd - Comnet Pty Ltd,telco-isp,Lesotho
+12129,"123NET - 123.Net, Inc.",telco-isp,US
+21130,IOMART-IE IOMART CLOUD SERVICES LIMITED,commercial-host,Ireland
+26496,"AS-26496-GO-DADDY-COM-LLC - GoDaddy.com, LLC",commercial-host,GoDaddy
+31122,DIGIWEB-AS Digiweb ltd,commercial-host,Ireland
+32097,"WII - WholeSale Internet, Inc.",commercial-host,US
+34931,AWARESOFT Awareness Software Limited,commercial-host,UK
+36928,African Network Information Center - (AfriNIC) Ltd,telco-isp,regional internet registry; ccTLD secondary DNS
+36988,Africell Sierra Leone Limited - Africell Sierra Leone Limited,telco-isp,
+37208,Afcom (SL) Limited - Afcom (SL) Limited,telco-isp,Sierra Leone
+37449,ONLIME SL LIMITED - ONLIME SL LIMITED,telco-isp,Sierra Leone
+204548,CLOUDWEBMANAGE-IL-FR Kamatera Inc,commercial-host,Kamatera
+205544,LEASEWEB-UK-LON-11 Leaseweb UK Limited,commercial-host,Leaseweb
+209049,MICHCOM MICHCOM LIMITED,commercial-host,UK
+327990,AI NETWORKS LIMITED - AI NETWORKS LIMITED,telco-isp,Sierra Leone
+328258,Zen Internet Company (SL) Limited - Zen Internet Company (SL) Limited,telco-isp,Sierra Leone
+328581,Fiber One (SL) LIMITED - Fiber One (SL) LIMITED,telco-isp,Sierra Leone
+329109,Zoodlabs(SL) Limited - Zoodlabs(SL) Limited,telco-isp,Sierra Leone
+9498,BBIL-AP - BHARTI Airtel Ltd.,telco-isp,Airtel India
+16713,NOANET-WA - Northwest Open Access Network,telco-isp,US
+26042,"FIBERSTATE - FiberState, LLC",telco-isp,US
+32475,SINGLEHOP-LLC - Internap Holding LLC,commercial-host,US
+37410,Lonestar Communications Corporation - Lonestar Communications Corporation,telco-isp,Liberia
+43350,NFORCE NForce Entertainment B.V.,commercial-host,Netherlands
+62563,AS-GLOBALTELEHOST - GLOBALTELEHOST Corp.,commercial-host,US
+63023,AS-GLOBALTELEHOST - GTHost,commercial-host,US
+210727,BuyLtd Buy Limited,commercial-host,UK
+212217,bbonline BB-Online UK Ltd,commercial-host,UK
+213230,HETZNER-CLOUD2-AS Hetzner Online GmbH,commercial-host,Hetzner
+328196,POWERNET - POWERNET,telco-isp,unverified
+400940,RAILWAY - Railway,commercial-host,"Railway app platform, US"
+5416,BEYON B.S.C.,telco-isp,Bahrain
+12041,"AS-AFILIAS1 - Afilias, Inc.",commercial-host,registry DNS
+19853,ORANGEHOST - OrangeHost,commercial-host,unverified
+34119,WILDCARD-AS Wildcard UK Limited,commercial-host,UK
+36902,Intelvision Ltd - Intelvision Ltd,telco-isp,Seychelles
+36958,Cable & Wireless (Seychelles) Ltd - Cable & Wireless (Seychelles) Ltd,telco-isp,Seychelles
+37343,Telecom Seychelles Limited - Telecom Seychelles Limited,telco-isp,Seychelles
+201200,SUPERHOSTING_AS SuperHosting.BG Ltd.,commercial-host,Bulgaria
+201682,LIQUID-WEB-BV Liquid Web B.V.,commercial-host,Liquid Web
+207266,AFiLIAS-SECONDARY-DNS Identity Digital Limited,commercial-host,registry DNS
+210318,c-o-as CAPITAL OUTSOURCING SAL,commercial-host,Lebanon
+327861,Department of ICT Government of Seychelles - Department of ICT Government of Seychelles,national-dc,Seychelles government ICT department
+37406,RCS-Communication - RCS-Communication,telco-isp,South Sudan
+37584,Fast Network Ltd - Fast Network Ltd,telco-isp,South Sudan
+46261,"QUICKPACKET - QuickPacket, LLC",commercial-host,US
+59210,PHOENIXNAP-AS-SG1 - PhoenixNAP,commercial-host,PhoenixNAP
+328614,Eden Technologies Company Limited - Eden Technologies Company Limited,telco-isp,South Sudan
+30987,Eritrea Telecommunication Service corporation (EriTel) - Eritrea Telecommunication Service corporation (EriTel),telco-isp,"Eritrea, state-owned"
+7922,"COMCAST-7922 - Comcast Cable Communications, LLC",telco-isp,US
+9051,IncoNet Data Management sal,commercial-host,Lebanon
+27357,RACKSPACE - Rackspace Hosting,commercial-host,Rackspace
+37371,Hormuud Telecom Somalia INC - Hormuud Telecom Somalia INC,telco-isp,Somalia
+38719,DREAMSCAPE-AS-AP - Dreamscape Networks Limited,commercial-host,Australia
+42807,AEROTEK-AS CIZGI TELEKOMUNIKASYON ANONIM SIRKETI,commercial-host,Turkey
+63410,PRIVATESYSTEMS - PrivateSystems Networks,commercial-host,US
+201771,NDC-CLOUD ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD,commercial-host,Saudi Arabia
+202448,mvps MVPS LTD,commercial-host,UK
+327764,Somali Research & Education Network(SomaliREN) - Somali Research & Education Network(SomaliREN),telco-isp,research and education network
+327828,Somali Optical Networks - Somali Optical Networks,telco-isp,Somalia
+328319,AMTEL LTD - AMTEL LTD,telco-isp,Somalia
+328590,Somlink Wireless Network - Somlink Wireless Network,telco-isp,Somalia
+329692,HTG CLOUDS LIMITED - HTG CLOUDS LIMITED,african-colo,Somali host; unverified
+668,DNIC-AS-00668 - United States Department of Defense (DoD),commercial-host,US DoD address space; unverified
+3215,AS3215 Orange S.A.,telco-isp,Orange
+4455,BSO IX Reach Ltd,telco-isp,UK
+6713,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM - Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,telco-isp,Maroc Telecom
+8346,SONATEL - IDDQD-AS,telco-isp,Sonatel
+11042,NTHL - NETWORK TRANSIT HOLDINGS LLC,commercial-host,US
+14492,"DATAPIPE - DataPipe, Inc.",commercial-host,US
+16347,INHERENT ADISTA SAS,commercial-host,France
+16686,"EDNS - easyDNS Technologies, Inc.",commercial-host,Canada DNS
+22351,INTELSAT-1 - INTELSAT GLOBAL SERVICE CORPORATION,telco-isp,satellite
+24935,ATE-AS Eurofiber France SAS,telco-isp,France
+25091,IP-Max IP-Max SA,telco-isp,Switzerland
+29222,Infomaniak-AS Infomaniak Network SA,commercial-host,Switzerland
+29571,Orange Côte d'Ivoire - Orange Côte d'Ivoire,telco-isp,
+29650,VIATELAS-AS Digiweb ltd,commercial-host,Ireland
+34177,CELESTE-AS Celeste SAS,telco-isp,France
+36884,Wana Corporate - Wana Corporate,telco-isp,"Inwi, Morocco"
+37196,Expresso Senegal SA - Expresso Senegal SA,telco-isp,Senegal
+37381,Afrique Technologies & Services (VipNet) - Afrique Technologies & Services (VipNet),telco-isp,Côte d'Ivoire
+37649,SAGA AFRICA HOLDINGS LIMITED - SAGA AFRICA HOLDINGS LIMITED,telco-isp,Côte d'Ivoire
+43927,HOSTERION HOSTERION SRL,commercial-host,Romania
+53589,PLANETHOSTER-8 - PlanetHoster,commercial-host,PlanetHoster
+203476,GANDI-AS-2 GANDI SAS,commercial-host,Gandi
+205787,Publicloud Public Cloud Ltd.,commercial-host,UK
+210403,LWS Groupe LWS SARL,commercial-host,France
+328025,VEONE - VEONE,telco-isp,Côte d'Ivoire
+328193,SOCIETE NATIONALE DE DEVELOPPEMENT INFORMATIQUE - SOCIETE NATIONALE DE DEVELOPPEMENT INFORMATIQUE,national-dc,Côte d'Ivoire state IT company (SNDI)
+328729,GROUPEMENT DES SERVICES EAU ET ELECTRICITE - GROUPEMENT DES SERVICES EAU ET ELECTRICITE,african-colo,utility's own network
+328840,ST DIGITAL - ST DIGITAL,african-colo,Ivorian IT services; unverified
+329666,Cote d'Ivoire Internet Exchange Point - Cote d'Ivoire Internet Exchange Point,telco-isp,internet exchange point
+8362,NordNet SA,telco-isp,France
+9115,INFB-AS9115 Hostpapa UK Ltd.,commercial-host,HostPapa
+21342,AKAMAI-ASN2 Akamai International B.V.,cdn-origin-unknown,Akamai
+34762,COMBELL-AS Combell NV,commercial-host,Belgium
+36666,GTCOMM - GloboTech Communications,commercial-host,Canada
+39729,REGISTER-AS REGISTER S.P.A.,commercial-host,Italy
+199236,EMARSYS-AS EMARSYS eMarketing Systems GmbH,commercial-host,Emarsys; German SaaS
+328148,Agence De l'Informatique de l'Etat - Agence De l'Informatique de l'Etat,national-dc,Senegal's state IT agency (ADIE/SENUM)
+329407,Universite Cheikh Anta DIOP de DAKAR - Universite Cheikh Anta DIOP de DAKAR,national-dc,public university network
+12876,AS12876 Scaleway SAS,commercial-host,Scaleway
+15964,CAMTEL - CAMTEL,telco-isp,"Cameroon, state-owned"
+26548,PUREVOLTAGE-INC - PureVoltage Hosting Inc.,commercial-host,US
+30992,MTN Network Solutions (Cameroon) - MTN Network Solutions (Cameroon),telco-isp,
+36905,Creolink Communications - Creolink Communications,telco-isp,Cameroon
+36955,Matrix Telecoms SA - Matrix Telecoms SA,telco-isp,Cameroon
+37414,Microcom Sprl - Microcom Sprl,telco-isp,DR Congo
+37461,ORANGE GUINEE - ORANGE GUINEE,telco-isp,
+206979,PROLIVAL Prolival SA,commercial-host,Switzerland
+209453,GANDI-LIVEDNS GANDI SAS,commercial-host,Gandi
+210625,wecom-as Wecom Mobile Ltd.,telco-isp,unverified
+327741,INFOGENIE Technologies - INFOGENIE Technologies,african-colo,unverified
+327820,SWECOM PLC - SWECOM PLC,telco-isp,unverified
+8312,ZYLON-AS Bas Smit trading as Zylon,commercial-host,Netherlands
+28683,SOCIETE BENINOISE D'INFRASTRUCTURES NUMERIQUES - SOCIETE BENINOISE D'INFRASTRUCTURES NUMERIQUES,national-dc,Benin's state infrastructure company (SBIN)
+34788,NMM-AS Neue Medien Muennich GmbH,commercial-host,Germany
+37090,ISOCEL SA - ISOCEL SA,telco-isp,Benin
+37292,Omnium des Telecom et de l'Internet (OTI Telecom) - Omnium des Telecom et de l'Internet (OTI Telecom),telco-isp,Benin
+203380,DAInternationalGroup DA International Group Ltd.,commercial-host,unverified
+212317,HETZNER-CLOUD3-AS Hetzner Online GmbH,commercial-host,Hetzner
+328098,JENY SAS - JENY SAS,african-colo,Beninese IT services; unverified
+328228,SOCIETE BENINOISE D'INFRASTRUCTURES NUMERIQUES - SOCIETE BENINOISE D'INFRASTRUCTURES NUMERIQUES,national-dc,Benin's state infrastructure company (SBIN)
+42,"WOODYNET-1 - WoodyNet, Inc.",commercial-host,WoodyNet (PCH) anycast DNS
+15348,TUCOWS - Tucows.com Co.,commercial-host,Tucows
+17294,"BI-631 - Build io, Inc.",us-saas,Builder.io
+21271,Society of Mali's Telecommunications (SOTELMA) - Society of Mali's Telecommunications (SOTELMA),telco-isp,"Mali, state-owned"
+21409,IKOULA Ikoula Net SAS,commercial-host,France
+30985,Orange Mali SA - Orange Mali SA,telco-isp,
+32491,TUCOWS-3 - Tucows.com Co.,commercial-host,Tucows
+36864,AFRIBONE MALI SA - AFRIBONE MALI SA,telco-isp,Mali
+37177,African Network Information Center - (AfriNIC) Ltd - African Network Information Center - (AfriNIC) Ltd,telco-isp,regional internet registry; ccTLD secondary DNS
+40092,ONIAAS - HostPapa,commercial-host,HostPapa
+53755,IOFLOOD - Input Output Flood LLC,commercial-host,US
+328284,Société Malienne de Transmission et de Diffusion - Société Malienne de Transmission et de Diffusion,national-dc,Mali state broadcast transmission company
+25543,"ONATEL (Office National des Telecommunications, PTT) - ONATEL (Office National des Telecommunications, PTT)",telco-isp,"Burkina Faso, state-owned"
+37008,Sancfis Faso SA - Sancfis Faso SA,telco-isp,Burkina Faso
+37073,Internet Puissance Plus Burkina SA - Internet Puissance Plus Burkina SA,telco-isp,Burkina Faso
+37577,Orange Burkina Faso - Orange Burkina Faso,telco-isp,
+37721,Virtual Technologies & Solutions - Virtual Technologies & Solutions,african-colo,Burkinabè host; unverified
+37734,Virtual Technologies & Solutions - Virtual Technologies & Solutions,african-colo,Burkinabè host; unverified
+327871,Agence Nationale de Promotion des TIC (ANPTIC) - Agence Nationale de Promotion des TIC (ANPTIC),national-dc,Burkina Faso state ICT agency
+328721,Groupe Netforce - Groupe Netforce,african-colo,unverified
+329744,IKA SOLUTION LIMTED - IKA SOLUTION LIMTED,african-colo,unverified
+8860,DELTA-BG-AS Delta HighTech Ltd.,commercial-host,Bulgaria
+26130,LIPTINFOR NIGER SA - LIPTINFOR NIGER SA,telco-isp,Niger
+37385,Societe Nigerienne des Telecommunications (SONITEL) - Societe Nigerienne des Telecommunications (SONITEL),telco-isp,"Niger, state-owned"
+8739,ICDSoft ICDSoft Ltd.,commercial-host,Bulgaria
+24691,TOGOTEL-AS - IDDQD-AS,telco-isp,"Togo, state-owned"
+25394,MK-NETZDIENSTE-AS MK Netzdienste Verwaltungs GmbH trading as MK Netzdienste GmbH & Co. KG,commercial-host,Germany
+26277,SERVERPOINT - ServerPoint.com,commercial-host,US
+30982,CAFE Informatique et telecommunications - CAFE Informatique et telecommunications,telco-isp,Togo
+36924,GVA Cote d'Ivoire SAS - GVA Cote d'Ivoire SAS,telco-isp,Côte d'Ivoire
+36947,Telecom Algeria - Telecom Algeria,telco-isp,state-owned
+37054,Telecom Malagasy - Telecom Malagasy,telco-isp,Madagascar
+48809,HOSTEUR-ANYCAST Hosteur SAS,commercial-host,France
+204818,HOSTEUR-NET-CORE Hosteur SAS,commercial-host,France
+207758,HOSTEUR-NET-CORE-CH Hosteur SA,commercial-host,Switzerland
+4788,TTSSB-MY - TM TECHNOLOGY SERVICES SDN. BHD.,commercial-host,Malaysia
+23470,RELIABLESITE - ReliableSite.Net LLC,commercial-host,US
+36925,MEDITELECOM - MEDITELECOM,telco-isp,Orange Morocco
+37141,ETI SA - ETI SA,telco-isp,Guinea
+37430,VDC Telecom - VDC Telecom,telco-isp,Guinea
+37665,MOUNA Group Technology Sa. - MOUNA Group Technology Sa.,telco-isp,Guinea
+328244,Skyvision Guinee SA - Skyvision Guinee SA,telco-isp,Guinea
+328899,Afribone - Guinee SA - Afribone - Guinee SA,telco-isp,Guinea
+328923,KAGNY TECHNOLOGIE SARL U - KAGNY TECHNOLOGIE SARL U,african-colo,unverified
+2635,"AUTOMATTIC - Automattic, Inc",us-saas,Automattic (WordPress.com)
+8921,FR-OC3NETWORK OC3 NETWORK SAS,commercial-host,France
+16058,Gabon Telecom / Office of Posts and Telecommunications of Gabon - Gabon Telecom / Office of Posts and Telecommunications of Gabon,telco-isp,Gabon Telecom
+32400,"HWSERVICES-32400 - Ntirety, Inc.",commercial-host,Ntirety
+37582,Agence Nationale des Infrastructures Numeriques et des Frequences (ANINF) - Agence Nationale des Infrastructures Numeriques et des Frequences (ANINF),national-dc,Gabon's state digital-infrastructure agency (ANINF)
+60362,alwaysdata alwaysdata SARL,commercial-host,France
+12574,ROUTING Hosting.de GmbH,commercial-host,Germany
+31400,ACCELERATED-IT firstcolo GmbH,commercial-host,Germany
+37451,CONGO TELECOM - CONGO TELECOM,telco-isp,"Congo, state-owned"
+37463,MTN CONGO - MTN CONGO,telco-isp,
+37548,ARPCE - ARPCE,national-dc,Congo regulator's own network
+41637,ROUTING-ANYCAST Hosting.de GmbH,commercial-host,Germany
+48823,AS48823 Hosting.de GmbH,commercial-host,Germany
+62597,NSONE - NSONE Inc,us-saas,NS1 DNS
+140631,GDMSCL-AS-AP - Global Digital Management Solutions Co Ltd,commercial-host,unverified
+328329,ARPCE - ARPCE,national-dc,Congo regulator's own network
+37462,PRESTABIST - PRESTABIST,telco-isp,Chad
+50474,O2SWITCH O2SWITCH SAS,commercial-host,France
+60781,LEASEWEB-NL-AMS-01 LeaseWeb Netherlands B.V.,commercial-host,Leaseweb
+328594,Sahel Fiber Telecommunication Chad (SAFITEL TCHAD SA/CA) - Sahel Fiber Telecommunication Chad (SAFITEL TCHAD SA/CA),telco-isp,Chad
+12337,NORIS-NETWORK noris network AG,commercial-host,Germany
+35665,Netensia Netensia SARL,commercial-host,France
+36979,First Bank of NG PLC - First Bank of NG PLC,african-colo,bank's own network
+37298,Equity Bank Ltd - Equity Bank Ltd,african-colo,bank's own network
+37453,Vodacom Congo - Vodacom Congo,telco-isp,
+37638,Orioncom SPRL - Orioncom SPRL,telco-isp,DR Congo
+37677,Societe Congolaise des Postes et Telecommunications (SCPT) - Societe Congolaise des Postes et Telecommunications (SCPT),telco-isp,"DR Congo, state-owned"
+43256,KIN-AS Global Broadband Solution Inc,telco-isp,DR Congo
+51545,ZSAH zsah Limited,commercial-host,UK
+205020,datagrid-network DataGrid Network GmbH,commercial-host,Germany
+328442,United SA - United SA,telco-isp,unverified
+329573,SOCIETE FINANCIERE DE BANQUE - SOCIETE FINANCIERE DE BANQUE,african-colo,bank's own network
+9294,GNETINC-AS-AP - GNET INC.,telco-isp,Hong Kong
+9304,HUTCHISON-AS-AP - HGC Global Communications Limited,telco-isp,Hong Kong
+29066,VELIANET-AS velia.net Internetdienste GmbH,commercial-host,Germany
+30990,DJIBOUTI TELECOM S.A. - DJIBOUTI TELECOM S.A.,telco-isp,"Djibouti, state-owned"
+56046,CMNET-Jiangsu-AP - China Mobile communications corporation,chinese-cloud,China Mobile
+134756,ChinaNet-NANJING-JISHAN-IDC - CHINANET Nanjing Jishan IDC network,chinese-cloud,China Telecom data centre
+329140,Afrifiber SAS - Afrifiber SAS,telco-isp,Djibouti
+395776,FEDERAL-ONLINE-GROUP-LLC - FEDERAL ONLINE GROUP LLC,commercial-host,US
+15022,Adept Internet (Pty) Ltd CT - Adept Internet (Pty) Ltd CT,telco-isp,South Africa
+20756,NAMESHIELD NAMESHIELD SAS,commercial-host,"Nameshield DNS, France"
+37037,Orange Madagascar - Orange Madagascar,telco-isp,
+37303,Airtel Madagascar - Airtel Madagascar,telco-isp,
+209510,NAMESHIELDGRP NAMESHIELD SAS,commercial-host,"Nameshield DNS, France"
+328411,Gulfsat Madagascar - Gulfsat Madagascar,telco-isp,Madagascar
+25429,CBINET-AS CBINET Burundi,telco-isp,Burundi
+37545,Burundi Backbone System SM - Burundi Backbone System SM,telco-isp,Burundi
+197000,RIPE-NCC-AUTHDNS-AS Reseaux IP Europeens Network Coordination Centre (RIPE NCC),telco-isp,regional internet registry; ccTLD secondary DNS
+327799,VIETTEL BURUNDI SA - VIETTEL BURUNDI SA,telco-isp,
+19994,RACKSPACE - Rackspace Hosting,commercial-host,Rackspace
+37460,Orange Centreafrique - Orange Centreafrique,telco-isp,
+48596,INWX InterNetworX Management GmbH,commercial-host,Germany
+213298,CTX-BRN-AS Cortex IT SA,commercial-host,Switzerland
+20860,IOMART-AS IOMART CLOUD SERVICES LIMITED,commercial-host,UK
+35425,BYTEMARK-AS Iomart Managed Services Limited,commercial-host,UK
+36939,Comores Telecom - Comores Telecom,telco-isp,"Comoros, state-owned"
+37084,Simbanet (T) Limited - Simbanet (T) Limited,telco-isp,Tanzania
+328061,TELECOM COMORES S.A (TELCO S.A) - TELECOM COMORES S.A (TELCO S.A),telco-isp,Comoros
+8220,COLT COLT Technology Services Group Limited,telco-isp,Colt
+13193,ASN-NERIM Keyyo SA,telco-isp,France
+25215,BNP-Paribas BNP PARIBAS S.A.,commercial-host,"BNP Paribas network, France"
+36941,MTDS - MTDS,african-colo,Moroccan data centre and IT services
+39905,ACTITO ACTITO S.A.,commercial-host,Belgium
+49981,WorldStream WorldStream B.V.,commercial-host,Netherlands
+327989,Genious Communications - Genious Communications,telco-isp,Morocco
+328055,NPONE - NPONE,african-colo,Moroccan IT services; unverified
+328066,MEDAFRICA SYSTEMS - MEDAFRICA SYSTEMS,african-colo,Moroccan IT services; unverified
+328709,Universite Mohammed VI POLYTECHNIQUE - UM6P - Universite Mohammed VI POLYTECHNIQUE - UM6P,national-dc,public university network
+6127,IDSC - IDSC,national-dc,Egypt cabinet information centre (IDSC)
+8452,TE-AS - IDDQD-AS,telco-isp,"Telecom Egypt, state-owned"
+15804,,commercial-host,unverified
+17477,MCT-SYDNEY - Macquarie Technology Operations Pty Limited,commercial-host,Australia
+20928,The Noor Group - The Noor Group,telco-isp,Egypt
+24835,Vodafone Data - Vodafone Data,telco-isp,
+24863,Link Egypt (Link.NET) - Link Egypt (Link.NET),telco-isp,Egypt
+25364,Egypt Cyber Center aka ECC Solutions - Egypt Cyber Center aka ECC Solutions,african-colo,Egyptian IT services
+25576,AFMIC - AFMIC,telco-isp,Egypt
+30995,Vodafone Data - Vodafone Data,telco-isp,
+31065,Ministry of Communications and Information Technology - Ministry of Communications and Information Technology,national-dc,Egypt's ICT ministry
+33905,AKAMAI-AMS Akamai International B.V.,cdn-origin-unknown,Akamai
+36992,ETISALAT MISR - ETISALAT MISR,telco-isp,
+37193,e-finance - e-finance,national-dc,Egypt's state payments company (e-finance)
+328405,Link Datacenter For Data Circulation - Link Datacenter For Data Circulation,african-colo,Egyptian data centre
+328430,Fawry for Banking and Electronic Payment Technology Services (S.A.E) - Fawry for Banking and Electronic Payment Technology Services (S.A.E),african-colo,Egyptian payments company's own network
+328553,Bank Misr S.A.E - Bank Misr S.A.E,african-colo,bank's own network
+328587,Ministry of Communications and Information Technology - Ministry of Communications and Information Technology,national-dc,Egypt's ICT ministry
+328654,Fixed Solutions - Fixed Solutions,african-colo,Egyptian IT services; unverified
+2609,TN-BB-AS - IDDQD-AS,telco-isp,Tunisia
+3296,SOCIETE-GENERALE Societe Generale S.A.,commercial-host,"Société Générale network, France"
+3299,Societe Generale S.A.,commercial-host,"Société Générale network, France"
+9318,SKB-AS-KR - SK Broadband Co Ltd,telco-isp,South Korea
+31245,ATI - Agence Tunisienne Internet - ATI - Agence Tunisienne Internet,national-dc,"Tunisian Internet Agency, state-owned"
+37492,Orange Tunisie - Orange Tunisie,telco-isp,
+37551,ATI - Agence Tunisienne Internet - ATI - Agence Tunisienne Internet,national-dc,"Tunisian Internet Agency, state-owned"
+37671,3S INF - 3S INF,african-colo,Tunisian IT services
+37693,OOREDOO TUNISIE SA - OOREDOO TUNISIE SA,telco-isp,
+37705,TOPNET - TOPNET,telco-isp,Tunisia
+37709,Cloud Temple Tunisia - Cloud Temple Tunisia,african-colo,Tunisian cloud; French Cloud Temple affiliate
+327934,SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom) - SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom),telco-isp,"Tunisie Telecom, state-owned"
+29544,Mauritanian Telecommunication Company - Mauritanian Telecommunication Company,telco-isp,Mauritania
+37508,MATTEL - MATTEL,telco-isp,Mauritania
+328997,RIMATEL-SA - RIMATEL-SA,telco-isp,Mauritania
+3208,Algerian Academic Research Network - Algerian Academic Research Network,telco-isp,research and education network
+16214,C.E.R.I.S.T. - C.E.R.I.S.T.,national-dc,Algerian state research centre (CERIST)
+21391,Algerian Broadcasting (Tele Diffusion d'Algerie TDA) - Algerian Broadcasting (Tele Diffusion d'Algerie TDA),national-dc,Algerian state broadcaster (TDA)
+36891,Icosnet SPA - Icosnet SPA,telco-isp,Algeria
+65536,,commercial-host,reserved ASN; unverified
+8781,QA-ISP Ooredoo Q.S.C.,telco-isp,Qatar
+15706,Sudatel (Sudan Telecom Co. Ltd) - Sudatel (Sudan Telecom Co. Ltd),telco-isp,Sudan
+18978,ENZUINC-US - Enzu Inc,commercial-host,US
+33788,Kanar Telecommunication (Canar Telecom Co.Ltd) - Kanar Telecommunication (Canar Telecom Co.Ltd),telco-isp,Sudan
+37211,MAX NET FOR INTERNET SERVICES - MAX NET FOR INTERNET SERVICES,telco-isp,Sudan
+40244,TURNKEY-INTERNET - Turnkey Internet Inc.,commercial-host,US
+53861,AS-KGIX - KGIX,telco-isp,US
+203993,GNA-DC1-AS S.J.M. Steffann,commercial-host,Netherlands
+204436,KUALO-AS Kualo Limited,commercial-host,UK
+327881,National Information Center (NIC) - National Information Center (NIC),national-dc,Sudan National Information Center
+328365,Edge connect (pty) Ltd - Edge connect (pty) Ltd,telco-isp,unverified
+328381,Sudanese Internet Association - Sudanese Internet Association,telco-isp,Sudan
+21003,General Post and Telecommunication Company (GPTC) - General Post and Telecommunication Company (GPTC),telco-isp,"Libya, state-owned"
+37284,Aljeel Aljadeed For Technology - Aljeel Aljadeed For Technology,telco-isp,Libya
+37558,LIBYAN INTERNATIONAL TELECOMMUNICATION COMPANY - LIBYAN INTERNATIONAL TELECOMMUNICATION COMPANY,telco-isp,"Libya, state-owned"
+197540,netcup-AS netcup GmbH,commercial-host,Germany
+200325,"BunnyCDN BUNNYWAY, informacijske storitve d.o.o.",cdn-origin-unknown,BunnyCDN
+214036,"ULTAHOST-AS Ultahost, Inc.",commercial-host,US
+327921,Bait Ashames for Data Communication - Bait Ashames for Data Communication,telco-isp,Libya
+328200,Al Madar Al Jadeed Joint Stock Company - Al Madar Al Jadeed Joint Stock Company,telco-isp,Libya
+328539,Giga for Telecommunication and Technology Limited - Giga for Telecommunication and Technology Limited,telco-isp,Libya
+328611,Libyan Elite Company for Technical Solutions - Libyan Elite Company for Technical Solutions,african-colo,Libyan IT services; unverified
+328733,AWAL TELECOM & TECHNOLOGY - AWAL TELECOM & TECHNOLOGY,telco-isp,Libya
+329263,Libyan Spider for IT LTD. - Libyan Spider for IT LTD.,african-colo,Libyan host
+2914,"NTT-DATA-2914 - NTT America, Inc.",telco-isp,NTT
+3582,UONET - University of Oregon,commercial-host,US university; unverified
+24768,ALMOUROLTEC ALMOUROLTEC SERVICOS DE INFORMATICA E INTERNET LDA,commercial-host,Portugal
+30619,"TMCEL - Moçambique Telecom, SA - TMCEL - Moçambique Telecom, SA",telco-isp,"Mozambique, state-owned"
+31960,Eduardo Mondlane University - Eduardo Mondlane University,national-dc,public university network
+36865,Teledata Mozambique - Teledata Mozambique,telco-isp,Mozambique
+37342,"Movitel, SA - Movitel, SA",telco-isp,
+37436,INTIC (National Institute of ICT) - INTIC (National Institute of ICT),national-dc,Mozambique's state ICT institute
+37489,ABARI COMMUNICATIONS MOZAMBIQUE LDA - ABARI COMMUNICATIONS MOZAMBIQUE LDA,telco-isp,Mozambique
+37556,Cilix Software - Cilix Software,african-colo,Mozambican IT services
+37697,"WEBMASTERS, LDA. - WEBMASTERS, LDA.",african-colo,Mozambican host
+42235,IDC-AS INTRA DATA COMMUNICATION,commercial-host,Russia
+53667,PONYNET - FranTech Solutions,commercial-host,US
+60068,CDN77 Datacamp Limited,cdn-origin-unknown,CDN77
+212238,CDNEXT Datacamp Limited,cdn-origin-unknown,CDN77
+327951,Instituto Nacional das Comunicacoes de Mozambique - Instituto Nacional das Comunicacoes de Mozambique,national-dc,Mozambique regulator's own network
+328274,"BIM - Banco Internacional de Mocambique, SA - BIM - Banco Internacional de Mocambique, SA",african-colo,bank's own network
+328748,Agile Solutions Provider (PTY) LTD - Agile Solutions Provider (PTY) LTD,african-colo,South African IT services; unverified
+1897,"EUNETPT NOS COMUNICACOES, S.A.",telco-isp,Portugal
+3243,MEO-RESIDENCIAL MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.,telco-isp,Portugal
+9186,"ONI ONITELECOM - INFOCOMUNICACOES, S.A.",telco-isp,Portugal
+15525,MEO-EMPRESAS MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.,telco-isp,Portugal
+25253,"CGDNET CAIXA GERAL DE DEPOSITOS, SA",commercial-host,"Caixa Geral de Depósitos network, Portugal"
+37517,"CABO VERDE TELECOM, S.A - CABO VERDE TELECOM, S.A",telco-isp,Cabo Verde
+37575,"UNITEL T+ Telecomunicacoes, Sociedade Unipessoal, S.A. - UNITEL T+ Telecomunicacoes, Sociedade Unipessoal, S.A.",telco-isp,Cabo Verde
+59787,"WEBHS WebSP - Comercio e Prestacao de Servicos Informaticos, Lda",commercial-host,Portugal
+211359,AS_BINTER_SISTEMAS BINTER SISTEMAS SL,commercial-host,Spain
+327862,NOSi EPE - NOSi EPE,national-dc,Cabo Verde's state IT company (NOSi)
+2860,"NOS_COMUNICACOES NOS COMUNICACOES, S.A.",telco-isp,Portugal
+11259,Angola Telecom - Angola Telecom,telco-isp,"Angola, state-owned"
+13878,AS13878 - Scala Data Centers,commercial-host,Brazil colocation
+17400,"MSTelcom-Mercury Servicos de Telecomunicacoes, S.A.R.L - MSTelcom-Mercury Servicos de Telecomunicacoes, S.A.R.L",telco-isp,Angola
+36881,Multitel Servicos de Telecomunicacoes - Multitel Servicos de Telecomunicacoes,telco-isp,Angola
+36907,TV CABO ANGOLA LDA - TV CABO ANGOLA LDA,telco-isp,Angola
+37119,UNITEL SA - UNITEL SA,telco-isp,Angola
+37468,Angola Cables - Angola Cables,telco-isp,Angola
+37593,Infrasat - Infrasat,telco-isp,Angola
+41962,mgoncalves MIGUEL GONCALVES UNIPESSOAL LDA,commercial-host,Portugal
+212954,"LusoAloja LUSOALOJA SERVICOS DE ALOJAMENTO WEB, LDA",commercial-host,Portugal
+327806,CENTRO NACIONAL DAS TECNOLOGIAS DE INFORMACAO - CENTRO NACIONAL DAS TECNOLOGIAS DE INFORMACAO,national-dc,Angola's national IT centre
+327932,CONNECTIS-DATA ANGOLA LDA - CONNECTIS-DATA ANGOLA LDA,african-colo,Angolan data services
+328154,"NETSPACE -SERVICOS DE TELECOMUNICACOES, LDA - NETSPACE -SERVICOS DE TELECOMUNICACOES, LDA",telco-isp,Angola
+328211,SETIC-FP - SETIC-FP,national-dc,Angola's public-sector IT service
+328226,,commercial-host,unverified
+5533,CLARANET-PT Claranet Portugal S.A,commercial-host,Portugal
+33876,"Flesk-AS DMNS - DOMINIOS, S.A.",commercial-host,Portugal DNS
+37559,Orange Bissau - Orange Bissau,telco-isp,
+39384,"RACKFIBER Dream Fusion - IT Services, Lda",commercial-host,Portugal
+37337,MUNI S.A - MUNI S.A,telco-isp,Equatorial Guinea
+37529,Gestora de Infraestructuras de Telecomunicaciones de Guinea Ecuatorial - Gestora de Infraestructuras de Telecomunicaciones de Guinea Ecuatorial,national-dc,Equatorial Guinea's state telecom infrastructure company (GITGE)
+48348,cloudbuilders Cloud Builders SA,commercial-host,Spain
+197712,"CDmon 10dencehispahard, S.L.",commercial-host,Spain
+202054,"S4N-AS GRUPO SYS4NET, S.L.",commercial-host,Spain
+1930,"RCCN Fundacao para a Ciencia e a Tecnologia, I.P.",telco-isp,Portuguese research network
+8473,BAHNHOF Bahnhof AB,telco-isp,Sweden
+12353,VODAFONE-PT Vodafone Portugal - Communicacoes Pessoais S.A.,telco-isp,Portugal
+206834,TEAMINTERNET-CA-AS Team Internet AG,commercial-host,domain parking
+327725,UNITEL STP SARL - UNITEL STP SARL,telco-isp,São Tomé
+328191,Companhia Santomense de Telecomunicacoes - Companhia Santomense de Telecomunicacoes,telco-isp,São Tomé
