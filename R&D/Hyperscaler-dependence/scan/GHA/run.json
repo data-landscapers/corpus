@@ -491,5 +491,20 @@
    "any_us_hyperscaler": 8
   }
  },
- "findings": []
+ "findings": [
+  {
+   "kind": "dangling-cloud-cname",
+   "domain": "ecg.com.gh",
+   "name": "bills.ecg.com.gh",
+   "target": "bps-bm.azurewebsites.net",
+   "finding": "CNAME to a cloud name that no longer exists and that anyone can register: whoever does can serve content under this name."
+  },
+  {
+   "kind": "dangling-cloud-cname",
+   "domain": "ecg.com.gh",
+   "name": "caims.ecg.com.gh",
+   "target": "caims.azurewebsites.net",
+   "finding": "CNAME to a cloud name that no longer exists and that anyone can register: whoever does can serve content under this name."
+  }
+ ]
 }
