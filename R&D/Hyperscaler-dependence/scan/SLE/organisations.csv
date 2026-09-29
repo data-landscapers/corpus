@@ -1,0 +1,35 @@
+iso3,type,institution,domains,names,routable,us_hyperscaler_share,african_region_share,us_saas_share,cdn_share,national_or_self_share,unattributed,mail_provider,mail_security,tangled_hybrid,scan_date
+SLE,Presidency,State House Sierra Leone,statehouse.gov.sl,19,10,0.0,0.0,0.0,0.0,0.0,6,other:LiquidNet US LLC,,false,2026-09-29
+SLE,Parliament,Parliament of Sierra Leone,parliament.gov.sl,27,7,57.1,0.0,0.0,0.0,0.0,1,other:Oracle Cloud,,false,2026-09-29
+SLE,Foreign Affairs,Ministry of Foreign Affairs and International Cooperation,mfaic.gov.sl,3,9,0.0,0.0,0.0,0.0,0.0,2,other:Zoho,,false,2026-09-29
+SLE,Defence,Ministry of Defence,mod.gov.sl,3,9,0.0,0.0,0.0,0.0,0.0,0,other:Zoho,,false,2026-09-29
+SLE,Police,Sierra Leone Police,police.gov.sl,6,3,100.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+SLE,Justice,Office of the Attorney General and Ministry of Justice,oagmoj.gov.sl,3,9,0.0,0.0,0.0,0.0,0.0,2,other:Zoho,,false,2026-09-29
+SLE,Justice,Sierra Leone Judiciary,judiciary.gov.sl,7,10,0.0,0.0,0.0,0.0,0.0,10,"other:Sectorlink, L.L.C.",,false,2026-09-29
+SLE,Treasury / Finance,Ministry of Finance,mof.gov.sl,85,64,26.6,0.0,0.0,0.0,0.0,47,other:aws,sophos,false,2026-09-29
+SLE,Revenue Service,National Revenue Authority,nra.gov.sl,19,42,21.4,0.0,40.5,0.0,0.0,5,m365,,false,2026-09-29
+SLE,Intelligence,Office of National Security,ons.gov.sl,7,9,100.0,0.0,0.0,0.0,0.0,0,other:google-cloud,,false,2026-09-29
+SLE,Interior / Home Affairs,Ministry of Internal Affairs,mia.gov.sl,4,0,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+SLE,Central Bank,Bank of Sierra Leone,bsl.gov.sl,4,7,0.0,0.0,0.0,0.0,0.0,0,other:Host Europe (GoDaddy),,false,2026-09-29
+SLE,Commercial Banks,Sierra Leone Commercial Bank,slcb.com,85,44,18.2,0.0,0.0,0.0,0.0,21,other:ONLIME SL LIMITED - ONLIME SL LIMITED,,false,2026-09-29
+SLE,Commercial Banks,Rokel Commercial Bank,rokelbank.sl,47,22,0.0,0.0,0.0,0.0,0.0,6,other:Liquid Web,,false,2026-09-29
+SLE,Commercial Banks,Union Trust Bank,utb.sl,21,15,0.0,0.0,0.0,0.0,0.0,15,"other:Sectorlink, L.L.C.",,false,2026-09-29
+SLE,Commercial Banks,Guaranty Trust Bank Sierra Leone,gtb.sl,20,33,51.5,0.0,0.0,33.3,12.1,0,other:cloudflare,,true,2026-09-29
+SLE,Commercial Banks,First Bank Sierra Leone,fbnbanksierraleone.com,3,11,100.0,0.0,0.0,0.0,0.0,0,m365,trend-micro,false,2026-09-29
+SLE,Commercial Banks,Access Bank Sierra Leone,sierraleone.accessbankplc.com,2,1,0.0,0.0,0.0,100.0,0.0,0,none,,false,2026-09-29
+SLE,Commercial Banks,Zenith Bank Sierra Leone,zenithbank.com.sl,23,20,20.0,0.0,5.0,15.0,0.0,12,m365,,false,2026-09-29
+SLE,Civil registry / National ID authority,National Civil Registration Authority,ncra.gov.sl,10,13,0.0,0.0,0.0,0.0,0.0,2,other:Unified Layer (Bluehost),,false,2026-09-29
+SLE,Electoral commission,Electoral Commission for Sierra Leone,ec.gov.sl,48,41,0.0,0.0,0.0,0.0,0.0,4,none,,false,2026-09-29
+SLE,Statistics office,Statistics Sierra Leone,statistics.sl,47,47,51.1,0.0,0.0,0.0,0.0,6,other:google-cloud,,false,2026-09-29
+SLE,Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,110,105,6.7,0.0,0.0,0.0,0.0,75,other:UM82926-MNT,,false,2026-09-29
+SLE,Social protection / Social registry,National Commission for Social Action,nacsa.gov.sl,16,17,23.5,0.0,0.0,0.0,0.0,6,m365,,false,2026-09-29
+SLE,Land registry,"Ministry of Lands, Housing and Country Planning",molhcp.gov.sl,8,15,6.7,0.0,0.0,0.0,0.0,7,other:Zoho,,false,2026-09-29
+SLE,Sovereign wealth fund / National pension fund,National Social Security and Insurance Trust,nassit.org.sl,24,40,7.5,0.0,42.5,0.0,0.0,10,m365,,false,2026-09-29
+SLE,Public procurement authority,National Public Procurement Authority,nppa.gov.sl,57,60,0.0,0.0,1.7,0.0,0.0,50,m365,,false,2026-09-29
+SLE,Energy utility,Electricity Distribution and Supply Authority,edsa.sl,19,53,0.0,0.0,0.0,94.3,0.0,3,other:African Network Information Center - (AfriNIC) Ltd,,false,2026-09-29
+SLE,Ports authority,Sierra Leone Ports Authority,slpa.sl,13,0,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+SLE,State-owned telco / National backbone operator,Sierratel,sierratel.sl,14,8,0.0,0.0,0.0,0.0,0.0,4,none,,false,2026-09-29
+SLE,E-government agency,Government of Sierra Leone,gov.sl,2,2,0.0,0.0,0.0,0.0,0.0,1,none,,false,2026-09-29
+SLE,Communications regulator,National Telecommunications Commission,natcom.gov.sl,10,13,92.3,0.0,0.0,0.0,0.0,0,other:google-cloud,,false,2026-09-29
+SLE,Audit office,Audit Service Sierra Leone,auditservice.gov.sl,20,22,0.0,0.0,0.0,0.0,0.0,19,other:Zoho,,false,2026-09-29
+SLE,Anti-corruption commission,Anti-Corruption Commission,anticorruption.gov.sl,22,25,84.0,0.0,0.0,0.0,0.0,1,other:aws,,false,2026-09-29

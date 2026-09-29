@@ -1,0 +1,417 @@
+{
+ "iso3": "SLE",
+ "scan_date": "2026-09-29",
+ "range_files": {
+  "aws.json": "2026-09-28",
+  "google-cloud.json": "2026-09-28",
+  "google.json": "2026-09-28",
+  "cloudflare-v4.txt": "2026-09-28",
+  "cloudflare-v6.txt": "2026-09-28",
+  "oracle.json": "2026-09-28",
+  "azure.json": "2026-09-28"
+ },
+ "range_file_errors": {},
+ "domains": {
+  "statehouse.gov.sl": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 19,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "parliament.gov.sl": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 26,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mfaic.gov.sl": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mod.gov.sl": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "police.gov.sl": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 6,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "oagmoj.gov.sl": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "judiciary.gov.sl": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mof.gov.sl": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 80,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nra.gov.sl": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 8,
+   "dictionary_hits": 10,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ons.gov.sl": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mia.gov.sl": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 4,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "bsl.gov.sl": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 4,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "slcb.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 73,
+   "dictionary_hits": 11,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "rokelbank.sl": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 43,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "utb.sl": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 15,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "gtb.sl": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 16,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "fbnbanksierraleone.com": {
+   "wildcard": true,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "sierraleone.accessbankplc.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "zenithbank.com.sl": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 19,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ncra.gov.sl": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 3,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ec.gov.sl": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 43,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "statistics.sl": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 41,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mohs.gov.sl": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 106,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nacsa.gov.sl": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 12,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "molhcp.gov.sl": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 6,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nassit.org.sl": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 16,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nppa.gov.sl": {
+   "wildcard": true,
+   "ct_status": "ok",
+   "ct_names": 56,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "edsa.sl": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 12,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "slpa.sl": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 13,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "sierratel.sl": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 13,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "gov.sl": {
+   "wildcard": false,
+   "ct_status": "not run",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "root-only: parent zone of 21 seeded domains",
+   "dead": false,
+   "has_mx": false
+  },
+  "natcom.gov.sl": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 3,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "auditservice.gov.sl": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 14,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "anticorruption.gov.sl": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 19,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  }
+ },
+ "new_asns": {
+  "205544": "LEASEWEB-UK-LON-11 Leaseweb UK Limited",
+  "328581": "Fiber One (SL) LIMITED - Fiber One (SL) LIMITED",
+  "12129": "123NET - 123.Net, Inc.",
+  "36928": "African Network Information Center - (AfriNIC) Ltd",
+  "209049": "MICHCOM MICHCOM LIMITED",
+  "329109": "Zoodlabs(SL) Limited - Zoodlabs(SL) Limited",
+  "3303": "SWISSCOM Swisscom (Schweiz) AG",
+  "26496": "AS-26496-GO-DADDY-COM-LLC - GoDaddy.com, LLC",
+  "37449": "ONLIME SL LIMITED - ONLIME SL LIMITED",
+  "327990": "AI NETWORKS LIMITED - AI NETWORKS LIMITED",
+  "32097": "WII - WholeSale Internet, Inc.",
+  "15694": "ATMAN-ISP-AS Atman Sp. z o.o.",
+  "36988": "Africell Sierra Leone Limited - Africell Sierra Leone Limited",
+  "37208": "Afcom (SL) Limited - Afcom (SL) Limited",
+  "34931": "AWARESOFT Awareness Software Limited",
+  "21130": "IOMART-IE IOMART CLOUD SERVICES LIMITED",
+  "31122": "DIGIWEB-AS Digiweb ltd",
+  "204548": "CLOUDWEBMANAGE-IL-FR Kamatera Inc",
+  "328258": "Zen Internet Company (SL) Limited - Zen Internet Company (SL) Limited"
+ },
+ "rollup": {
+  "all": {
+   "routable": 786,
+   "us_hyperscaler_share": 19.6,
+   "african_region_share": 0.0,
+   "us_saas_share": 4.6,
+   "cdn_share": 8.3,
+   "national_or_self_share": 0.5,
+   "unattributed": 315,
+   "by_category": {
+    "unattributed": 315,
+    "commercial-host": 207,
+    "us-hyperscaler-offshore": 154,
+    "us-saas": 36,
+    "unresolved": 5,
+    "self-hosted": 4,
+    "cdn-origin-unknown": 65
+   },
+   "institutions": 34,
+   "names": 808,
+   "m365": 6,
+   "google": 0,
+   "tangled_hybrid": 1,
+   "any_us_hyperscaler": 16
+  },
+  "government": {
+   "routable": 640,
+   "us_hyperscaler_share": 17.8,
+   "african_region_share": 0.0,
+   "us_saas_share": 5.5,
+   "cdn_share": 7.8,
+   "national_or_self_share": 0.0,
+   "unattributed": 261,
+   "by_category": {
+    "unattributed": 261,
+    "commercial-host": 177,
+    "us-hyperscaler-offshore": 114,
+    "us-saas": 35,
+    "unresolved": 3,
+    "cdn-origin-unknown": 50
+   },
+   "institutions": 27,
+   "names": 607,
+   "m365": 4,
+   "google": 0,
+   "tangled_hybrid": 0,
+   "any_us_hyperscaler": 12
+  },
+  "bank": {
+   "routable": 146,
+   "us_hyperscaler_share": 27.4,
+   "african_region_share": 0.0,
+   "us_saas_share": 0.7,
+   "cdn_share": 10.3,
+   "national_or_self_share": 2.7,
+   "unattributed": 54,
+   "by_category": {
+    "commercial-host": 30,
+    "unattributed": 54,
+    "us-hyperscaler-offshore": 40,
+    "unresolved": 2,
+    "self-hosted": 4,
+    "cdn-origin-unknown": 15,
+    "us-saas": 1
+   },
+   "institutions": 7,
+   "names": 201,
+   "m365": 2,
+   "google": 0,
+   "tangled_hybrid": 1,
+   "any_us_hyperscaler": 4
+  }
+ },
+ "findings": []
+}

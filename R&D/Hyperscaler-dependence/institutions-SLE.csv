@@ -1,44 +1,44 @@
 type,institution,domain,email_domain,status,note
-Presidency,State House Sierra Leone,statehouse.gov.sl,,confirmed 2026-09-29,
-Parliament,Parliament of Sierra Leone,parliament.gov.sl,,unconfirmed 2026-09-29,homepage did not load: ConnectTimeout
-Foreign Affairs,Ministry of Foreign Affairs and International Cooperation,mfaic.gov.sl,,confirmed 2026-09-29,
-Defence,Ministry of Defence,mod.gov.sl,,unconfirmed 2026-09-29,homepage did not load: ConnectTimeout
+Presidency,State House Sierra Leone,statehouse.gov.sl,statehouse.gov.sl,scanned 2026-09-29,
+Parliament,Parliament of Sierra Leone,parliament.gov.sl,parliament.gov.sl,scanned 2026-09-29,homepage did not load: ConnectTimeout
+Foreign Affairs,Ministry of Foreign Affairs and International Cooperation,mfaic.gov.sl,mfaic.gov.sl,scanned 2026-09-29,
+Defence,Ministry of Defence,mod.gov.sl,mod.gov.sl,scanned 2026-09-29,homepage did not load: ConnectTimeout
 Armed Forces,Republic of Sierra Leone Armed Forces,,,absent,shares mod.gov.sl with Defence
-Police,Sierra Leone Police,police.gov.sl,,confirmed 2026-09-29,
-Justice,Office of the Attorney General and Ministry of Justice,oagmoj.gov.sl,,confirmed 2026-09-29,
-Justice,Sierra Leone Judiciary,judiciary.gov.sl,,confirmed 2026-09-29,
-Treasury / Finance,Ministry of Finance,mof.gov.sl,,confirmed 2026-09-29,
-Revenue Service,National Revenue Authority,nra.gov.sl,,confirmed 2026-09-29,
+Police,Sierra Leone Police,police.gov.sl,,scanned 2026-09-29,
+Justice,Office of the Attorney General and Ministry of Justice,oagmoj.gov.sl,oagmoj.gov.sl,scanned 2026-09-29,
+Justice,Sierra Leone Judiciary,judiciary.gov.sl,judiciary.gov.sl,scanned 2026-09-29,
+Treasury / Finance,Ministry of Finance,mof.gov.sl,mof.gov.sl,scanned 2026-09-29,
+Revenue Service,National Revenue Authority,nra.gov.sl,nra.gov.sl,scanned 2026-09-29,
 Customs,NRA Customs Services Department,,,absent,shares nra.gov.sl with Revenue Service
-Intelligence,Office of National Security,ons.gov.sl,,confirmed 2026-09-29,
-Interior / Home Affairs,Ministry of Internal Affairs,mia.gov.sl,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
-Central Bank,Bank of Sierra Leone,bsl.gov.sl,,confirmed 2026-09-29,
-Commercial Banks,Sierra Leone Commercial Bank,slcb.com,,confirmed 2026-09-29,Ranking source: Wikipedia Banking in Sierra Leone and Leading Edge Guides 'Privatisation on the horizon in the financial sector' (14 licensed banks; SLCB Rokel and Standard Chartered lead; order beyond the top three approximate); Standard Chartered Sierra Leone runs on sc.com so left out; Ecobank runs on ecobank.com so left out
-Commercial Banks,Rokel Commercial Bank,rokelbank.sl,,confirmed 2026-09-29,
-Commercial Banks,Union Trust Bank,utb.sl,,confirmed 2026-09-29,
-Commercial Banks,Guaranty Trust Bank Sierra Leone,gtb.sl,,confirmed 2026-09-29,
-Commercial Banks,First Bank Sierra Leone,fbnbanksierraleone.com,,confirmed 2026-09-29,
-Commercial Banks,Access Bank Sierra Leone,sierraleone.accessbankplc.com,,confirmed 2026-09-29,
-Commercial Banks,Zenith Bank Sierra Leone,zenithbank.com.sl,,confirmed 2026-09-29,
-Civil registry / National ID authority,National Civil Registration Authority,ncra.gov.sl,,confirmed 2026-09-29,
+Intelligence,Office of National Security,ons.gov.sl,ons.gov.sl,scanned 2026-09-29,
+Interior / Home Affairs,Ministry of Internal Affairs,mia.gov.sl,,scanned 2026-09-29,homepage did not load: ConnectionError
+Central Bank,Bank of Sierra Leone,bsl.gov.sl,bsl.gov.sl,scanned 2026-09-29,
+Commercial Banks,Sierra Leone Commercial Bank,slcb.com,slcb.com,scanned 2026-09-29,Ranking source: Wikipedia Banking in Sierra Leone and Leading Edge Guides 'Privatisation on the horizon in the financial sector' (14 licensed banks; SLCB Rokel and Standard Chartered lead; order beyond the top three approximate); Standard Chartered Sierra Leone runs on sc.com so left out; Ecobank runs on ecobank.com so left out
+Commercial Banks,Rokel Commercial Bank,rokelbank.sl,rokelbank.sl,scanned 2026-09-29,
+Commercial Banks,Union Trust Bank,utb.sl,utb.sl,scanned 2026-09-29,
+Commercial Banks,Guaranty Trust Bank Sierra Leone,gtb.sl,gtb.sl,scanned 2026-09-29,
+Commercial Banks,First Bank Sierra Leone,fbnbanksierraleone.com,fbnbanksierraleone.com,scanned 2026-09-29,
+Commercial Banks,Access Bank Sierra Leone,sierraleone.accessbankplc.com,,scanned 2026-09-29,
+Commercial Banks,Zenith Bank Sierra Leone,zenithbank.com.sl,zenithbank.com.sl,scanned 2026-09-29,
+Civil registry / National ID authority,National Civil Registration Authority,ncra.gov.sl,ncra.gov.sl,scanned 2026-09-29,
 Data protection authority,,,,absent,no data protection authority; none established
-Electoral commission,Electoral Commission for Sierra Leone,ec.gov.sl,,confirmed 2026-09-29,
-Statistics office,Statistics Sierra Leone,statistics.sl,,confirmed 2026-09-29,
+Electoral commission,Electoral Commission for Sierra Leone,ec.gov.sl,,scanned 2026-09-29,
+Statistics office,Statistics Sierra Leone,statistics.sl,statistics.sl,scanned 2026-09-29,
 Immigration / Passports,Sierra Leone Immigration Department,,,absent,under Interior; shares mia.gov.sl
-Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,,confirmed 2026-09-29,
-Social protection / Social registry,National Commission for Social Action,nacsa.gov.sl,,confirmed 2026-09-29,
-Land registry,"Ministry of Lands, Housing and Country Planning",molhcp.gov.sl,,confirmed 2026-09-29,
+Health ministry / National health insurance,Ministry of Health,mohs.gov.sl,mohs.gov.sl,scanned 2026-09-29,
+Social protection / Social registry,National Commission for Social Action,nacsa.gov.sl,nacsa.gov.sl,scanned 2026-09-29,
+Land registry,"Ministry of Lands, Housing and Country Planning",molhcp.gov.sl,molhcp.gov.sl,scanned 2026-09-29,
 National payment switch,,,,absent,no national payment switch domain found
 Stock exchange,,,,absent,no stock exchange operating
 Securities regulator,,,,absent,no securities regulator; capital markets under Bank of Sierra Leone bsl.gov.sl
-Sovereign wealth fund / National pension fund,National Social Security and Insurance Trust,nassit.org.sl,,confirmed 2026-09-29,
-Public procurement authority,National Public Procurement Authority,nppa.gov.sl,,confirmed 2026-09-29,
-Energy utility,Electricity Distribution and Supply Authority,edsa.sl,,confirmed 2026-09-29,
-Ports authority,Sierra Leone Ports Authority,slpa.sl,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
-State-owned telco / National backbone operator,Sierratel,sierratel.sl,,confirmed 2026-09-29,
-E-government agency,Government of Sierra Leone,gov.sl,,unconfirmed 2026-09-29,parent zone; scanned root-only; homepage did not load: ConnectionError
+Sovereign wealth fund / National pension fund,National Social Security and Insurance Trust,nassit.org.sl,nassit.org.sl,scanned 2026-09-29,
+Public procurement authority,National Public Procurement Authority,nppa.gov.sl,nppa.gov.sl,scanned 2026-09-29,
+Energy utility,Electricity Distribution and Supply Authority,edsa.sl,edsa.sl,scanned 2026-09-29,
+Ports authority,Sierra Leone Ports Authority,slpa.sl,,scanned 2026-09-29,homepage did not load: ConnectionError
+State-owned telco / National backbone operator,Sierratel,sierratel.sl,,scanned 2026-09-29,
+E-government agency,Government of Sierra Leone,gov.sl,,scanned 2026-09-29,parent zone; scanned root-only; homepage did not load: ConnectionError
 National data centre / Government cloud operator,,,,absent,no government data centre domain found
 Cybersecurity agency / National CERT,,,,absent,no national CERT domain found
-Communications regulator,National Telecommunications Commission,natcom.gov.sl,,confirmed 2026-09-29,
-Audit office,Audit Service Sierra Leone,auditservice.gov.sl,,confirmed 2026-09-29,
-Anti-corruption commission,Anti-Corruption Commission,anticorruption.gov.sl,,confirmed 2026-09-29,
+Communications regulator,National Telecommunications Commission,natcom.gov.sl,natcom.gov.sl,scanned 2026-09-29,
+Audit office,Audit Service Sierra Leone,auditservice.gov.sl,auditservice.gov.sl,scanned 2026-09-29,
+Anti-corruption commission,Anti-Corruption Commission,anticorruption.gov.sl,anticorruption.gov.sl,scanned 2026-09-29,
