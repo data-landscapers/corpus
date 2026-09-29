@@ -1,11 +1,11 @@
 ---
 title: Nigeria — monthly update, August – September 2026
-compiled: 2026-09-28
-period: 2026-08-01 to 2026-09-28
+compiled: 2026-09-29
+period: 2026-08-01 to 2026-09-29
 place: NGA
 ledger_rows: 231
 not_held: 9
-record: 945badf11a8c
+record: dddca99c329a
 ---
 
 # Nigeria: monthly update, August – September 2026
@@ -35,7 +35,7 @@ The month's substantive instrument is the cloud policy. On 17 August the communi
 
 The cloud programme gained its investment case: the agency's [strategy, dated August, offers investors an Approval in Principle pathway with government as anchor customer](https://nitda.gov.ng/wp-content/uploads/2026/08/NITDA26-CLOUD-INV-STRATEGY-2025-FN-1.pdf).
 
-The communications minister put a hold on new platform rules. After meeting the telecoms regulator, the IT development agency and the data protection commission, he [directed them to keep the status quo on rules affecting internet platforms and online intermediaries while a single harmonised governance framework for the digital economy is drawn up](https://thenews-chronicle.com/fg-suspends-new-digital-regulations-moves-to-harmonise-policies-across-agencies/), citing overlapping mandates. No timetable was given. The IT agency meanwhile [issued a cloud package of four frameworks headed by a National Cloud Computing Guideline](https://techafricanews.com/2026/09/14/nitda-cloud-policy-package-nigeria-digital-infrastructure-growth/).
+The IT agency [issued a cloud package of four frameworks headed by a National Cloud Computing Guideline](https://techafricanews.com/2026/09/14/nitda-cloud-policy-package-nigeria-digital-infrastructure-growth/).
 <!-- /narrative -->
 ### Legislation and regulation
 

@@ -1010,6 +1010,16 @@ and it would do so increasingly often, since the archive is historical by design
 catalogue moves on."""
 
 
+def maturity_urls():
+    """The reference-dataset and compile URLs `maturity-render.py` links a maturity document to."""
+    import importlib.util
+    spec = importlib.util.spec_from_file_location(
+        "maturity_render", os.path.join(os.path.dirname(os.path.abspath(__file__)), "maturity-render.py"))
+    mr = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(mr)
+    return {u for _label, u in list(mr.DATASETS.values()) + list(mr.COMPILES.values())}
+
+
 def documents(folder):
     """The rendered documents in a unit's folder — the files the checks are about."""
     return [fn for fn in sorted(os.listdir(folder))
@@ -1598,6 +1608,11 @@ def check(unit):
             if wider is None:                       # loaded lazily: 17 MB, and only a baseline needs it
                 wider = held | status_lib.extra_urls()
             this = wider
+        elif fn.endswith("-maturity.md"):
+            # The maturity document cites reference datasets and Corpus's own compiles at their home
+            # pages, which no `raw/` record holds; the set is the one `maturity-render.py` declares,
+            # so a URL outside it still fails.
+            this = held | maturity_urls()
         miss = [u for u in urls if u not in this]
         note = " (baseline set)" if this is wider else ""
         print(f"  {fn}: {len(urls)} links, {len(miss)} NOT HELD{note}")

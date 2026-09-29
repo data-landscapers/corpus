@@ -1,11 +1,11 @@
 ---
 title: Cape Verde — monthly update, August – September 2026
-compiled: 2026-09-24
-period: 2026-08-01 to 2026-09-24
+compiled: 2026-09-29
+period: 2026-08-01 to 2026-09-29
 place: CPV
-ledger_rows: 25
+ledger_rows: 26
 not_held: 30
-record: 759f59190d5b
+record: 31dbd76fdc2d
 ---
 
 # Cape Verde: monthly update, August – September 2026

@@ -1,11 +1,11 @@
 ---
 title: Angola — monthly update, August – September 2026
-compiled: 2026-09-27
-period: 2026-08-01 to 2026-09-27
+compiled: 2026-09-29
+period: 2026-08-01 to 2026-09-29
 place: AGO
-ledger_rows: 65
+ledger_rows: 68
 not_held: 6
-record: b91614cdf00c
+record: d59621692218
 ---
 
 # Angola: monthly update, August – September 2026
@@ -210,6 +210,14 @@ The telecommunications ministry [opened further computer rooms and free public i
 
 <!-- narrative: inclusion--include-divides -->
 The satellite programme's antenna recovery and migration reached two more localities at the end of the month: a point restored at Quiage commune in Bengo, stated to serve five thousand residents, and [a connection at Quirimbo in Cuanza-Sul, delivered by startups of the national space programme](https://angop.ao/noticias/economia/populacao-do-quirimbo-entra-na-era-da-conectividade-com-angosat-2/). No running total of points restored or live accompanies the site-by-site reports, so the programme's reach can be dated and not sized.
+<!-- /narrative -->
+
+## Data
+
+### National statistics
+
+<!-- narrative: data--data-statistics -->
+The statistics institute [put a revision of the statistics law and a draft national strategy for the development of statistics to public consultation from 29 September to 2 October](https://angop.ao/noticias/economia/ine-inicia-recolha-de-contribuicoes-para-nova-lei-estatistica/), following an extraordinary plenary of the national statistics council in August. Neither draft text is held.
 <!-- /narrative -->
 
 ## Geopolitics

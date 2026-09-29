@@ -1,11 +1,11 @@
 ---
 title: Chad — monthly update, August – September 2026
-compiled: 2026-09-28
-period: 2026-08-01 to 2026-09-28
+compiled: 2026-09-29
+period: 2026-08-01 to 2026-09-29
 place: TCD
-ledger_rows: 53
+ledger_rows: 54
 not_held: 22
-record: 9f52eebe746f
+record: ae88eaacd738
 ---
 
 # Chad: monthly update, August – September 2026
@@ -165,6 +165,14 @@ The repository holds its first record of an artificial-intelligence strategy for
 
 <!-- narrative: capacity--capacity-literacy -->
 A non-governmental organisation and the national youth council [launched an internet-safety and digital-citizenship campaign for young people at Abéché on 19 September](https://lendjampost.com/abeche-house-of-africa-entend-promouvoir-un-internet-plus-sur-aupres-des-jeunes/). No reach or duration is stated.
+<!-- /narrative -->
+
+## Inclusion
+
+### Digital divides
+
+<!-- narrative: inclusion--include-divides -->
+The ICT development agency [inaugurated a community multimedia centre at Moundou under the universal service programme on 29 September](https://lendjampost.com/moundou-ladetic-inaugure-un-centre-communautaire-multimedia-pour-renforcer-linclusion-numerique/), with a training room and a cybercafe on grid, solar and generator power. No count of other centres, users or running budget is published.
 <!-- /narrative -->
 
 ## Data
