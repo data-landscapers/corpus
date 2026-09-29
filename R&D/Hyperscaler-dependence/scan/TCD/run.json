@@ -292,12 +292,7 @@
    "has_mx": true
   }
  },
- "new_asns": {
-  "328594": "Sahel Fiber Telecommunication Chad (SAFITEL TCHAD SA/CA) - Sahel Fiber Telecommunication Chad (SAFITEL TCHAD SA/CA)",
-  "37462": "PRESTABIST - PRESTABIST",
-  "60781": "LEASEWEB-NL-AMS-01 LeaseWeb Netherlands B.V.",
-  "50474": "O2SWITCH O2SWITCH SAS"
- },
+ "new_asns": {},
  "rollup": {
   "all": {
    "routable": 583,
@@ -306,16 +301,17 @@
    "us_saas_share": 3.9,
    "cdn_share": 26.4,
    "national_or_self_share": 0.0,
-   "unattributed": 163,
+   "unattributed": 4,
    "by_category": {
-    "unattributed": 163,
+    "telco-isp": 29,
     "cdn-origin-unknown": 154,
+    "commercial-host": 322,
     "us-hyperscaler-offshore": 48,
-    "commercial-host": 192,
+    "unattributed": 4,
     "unresolved": 3,
     "us-saas": 23
    },
-   "institutions": 31,
+   "institutions": 30,
    "names": 441,
    "m365": 3,
    "google": 1,
@@ -329,12 +325,13 @@
    "us_saas_share": 4.3,
    "cdn_share": 23.1,
    "national_or_self_share": 0.0,
-   "unattributed": 161,
+   "unattributed": 4,
    "by_category": {
-    "unattributed": 161,
+    "telco-isp": 28,
     "cdn-origin-unknown": 125,
+    "commercial-host": 311,
     "us-hyperscaler-offshore": 46,
-    "commercial-host": 182,
+    "unattributed": 4,
     "unresolved": 3,
     "us-saas": 23
    },
@@ -352,14 +349,14 @@
    "us_saas_share": 0.0,
    "cdn_share": 67.4,
    "national_or_self_share": 0.0,
-   "unattributed": 2,
+   "unattributed": 0,
    "by_category": {
     "cdn-origin-unknown": 29,
-    "commercial-host": 10,
-    "unattributed": 2,
+    "commercial-host": 11,
+    "telco-isp": 1,
     "us-hyperscaler-offshore": 2
    },
-   "institutions": 5,
+   "institutions": 4,
    "names": 22,
    "m365": 0,
    "google": 0,
