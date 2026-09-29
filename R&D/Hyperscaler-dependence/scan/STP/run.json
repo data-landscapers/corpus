@@ -1,0 +1,277 @@
+{
+ "iso3": "STP",
+ "scan_date": "2026-09-29",
+ "range_files": {
+  "aws.json": "2026-09-29",
+  "google-cloud.json": "2026-09-29",
+  "google.json": "2026-09-29",
+  "cloudflare-v4.txt": "2026-09-29",
+  "cloudflare-v6.txt": "2026-09-29",
+  "oracle.json": "2026-09-29",
+  "azure.json": "2026-09-29"
+ },
+ "range_file_errors": {},
+ "domains": {
+  "presidencia.st": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 10,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "parlamento.st": {
+   "wildcard": true,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "pj.gov.st": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "stj.st": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "financas.gov.st": {
+   "wildcard": true,
+   "ct_status": "ok",
+   "ct_names": 13,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bcstp.st": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 5,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bistp.st": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 8,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "afrilandfirstbankst.com": {
+   "wildcard": true,
+   "ct_status": "ok",
+   "ct_names": 3,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "dgrn.gov.st": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "stpcen.st": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 12,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ine.st": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 14,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "smf.st": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "minsaude.st": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 4,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "emae.st": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 7,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "enaport.st": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cst.st": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "gov.st": {
+   "wildcard": false,
+   "ct_status": "not run",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "root-only: parent zone of 4 seeded domains",
+   "dead": false,
+   "has_mx": true
+  },
+  "stp.gov.st": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "ager.st": {
+   "wildcard": true,
+   "ct_status": "ok",
+   "ct_names": 10,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "tcontas.st": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  }
+ },
+ "new_asns": {
+  "206834": "TEAMINTERNET-CA-AS Team Internet AG",
+  "328191": "Companhia Santomense de Telecomunicacoes - Companhia Santomense de Telecomunicacoes",
+  "327725": "UNITEL STP SARL - UNITEL STP SARL",
+  "8473": "BAHNHOF Bahnhof AB",
+  "1930": "RCCN Fundacao para a Ciencia e a Tecnologia, I.P.",
+  "33876": "Flesk-AS DMNS - DOMINIOS, S.A.",
+  "12353": "VODAFONE-PT Vodafone Portugal - Communicacoes Pessoais S.A.",
+  "39384": "RACKFIBER Dream Fusion - IT Services, Lda"
+ },
+ "rollup": {
+  "all": {
+   "routable": 243,
+   "us_hyperscaler_share": 20.2,
+   "african_region_share": 0.0,
+   "us_saas_share": 20.2,
+   "cdn_share": 1.6,
+   "national_or_self_share": 1.6,
+   "unattributed": 112,
+   "by_category": {
+    "unattributed": 112,
+    "us-hyperscaler-offshore": 49,
+    "commercial-host": 25,
+    "cdn-origin-unknown": 4,
+    "us-saas": 49,
+    "self-hosted": 4
+   },
+   "institutions": 20,
+   "names": 146,
+   "m365": 3,
+   "google": 5,
+   "tangled_hybrid": 2,
+   "any_us_hyperscaler": 12
+  },
+  "government": {
+   "routable": 206,
+   "us_hyperscaler_share": 19.4,
+   "african_region_share": 0.0,
+   "us_saas_share": 17.5,
+   "cdn_share": 1.0,
+   "national_or_self_share": 1.9,
+   "unattributed": 101,
+   "by_category": {
+    "unattributed": 101,
+    "us-hyperscaler-offshore": 40,
+    "commercial-host": 23,
+    "cdn-origin-unknown": 2,
+    "us-saas": 36,
+    "self-hosted": 4
+   },
+   "institutions": 18,
+   "names": 127,
+   "m365": 2,
+   "google": 5,
+   "tangled_hybrid": 2,
+   "any_us_hyperscaler": 11
+  },
+  "bank": {
+   "routable": 37,
+   "us_hyperscaler_share": 24.3,
+   "african_region_share": 0.0,
+   "us_saas_share": 35.1,
+   "cdn_share": 5.4,
+   "national_or_self_share": 0.0,
+   "unattributed": 11,
+   "by_category": {
+    "unattributed": 11,
+    "us-saas": 13,
+    "us-hyperscaler-offshore": 9,
+    "commercial-host": 2,
+    "cdn-origin-unknown": 2
+   },
+   "institutions": 2,
+   "names": 19,
+   "m365": 1,
+   "google": 0,
+   "tangled_hybrid": 0,
+   "any_us_hyperscaler": 1
+  }
+ },
+ "findings": []
+}

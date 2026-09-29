@@ -1,0 +1,21 @@
+iso3,type,institution,domains,names,routable,us_hyperscaler_share,african_region_share,us_saas_share,cdn_share,national_or_self_share,unattributed,mail_provider,mail_security,tangled_hybrid,scan_date
+STP,Presidency,Presidência da República,presidencia.st,12,8,0.0,0.0,0.0,0.0,0.0,8,other:PLANETHOSTER-NOC,,false,2026-09-29
+STP,Parliament,Assembleia Nacional,parlamento.st,2,4,50.0,0.0,0.0,0.0,0.0,2,none,,false,2026-09-29
+STP,Police,Polícia Judiciária,pj.gov.st,3,5,60.0,0.0,0.0,0.0,0.0,2,google,,false,2026-09-29
+STP,Justice,Supremo Tribunal de Justiça,stj.st,8,11,0.0,0.0,0.0,0.0,0.0,0,other:OVH,,false,2026-09-29
+STP,Treasury / Finance,Ministério do Planeamento Finanças e Economia Azul,financas.gov.st,14,18,72.2,0.0,0.0,11.1,0.0,0,google,,false,2026-09-29
+STP,Central Bank,Banco Central de São Tomé e Príncipe,bcstp.st,8,22,45.5,0.0,0.0,0.0,0.0,8,other:Hetzner,,false,2026-09-29
+STP,Commercial Banks,Banco Internacional de São Tomé e Príncipe (BISTP),bistp.st,16,31,29.0,0.0,41.9,0.0,0.0,9,m365,,false,2026-09-29
+STP,Commercial Banks,Afriland First Bank STP,afrilandfirstbankst.com,3,6,0.0,0.0,0.0,33.3,0.0,2,"other:Newfold Digital, Inc.",,false,2026-09-29
+STP,Civil registry / National ID authority,Direcção Geral dos Registos Notariado e Identificação,dgrn.gov.st,3,5,60.0,0.0,0.0,0.0,0.0,2,google,,false,2026-09-29
+STP,Electoral commission,Comissão Eleitoral Nacional,stpcen.st,14,13,15.4,0.0,38.5,0.0,0.0,6,google,,false,2026-09-29
+STP,Statistics office,Instituto Nacional de Estatística,ine.st,18,19,0.0,0.0,0.0,0.0,0.0,19,other:mnt-pt-dominios-1,,false,2026-09-29
+STP,Immigration / Passports,Serviço de Migração e Fronteiras,smf.st,4,6,16.7,0.0,0.0,0.0,0.0,5,none,,false,2026-09-29
+STP,Health ministry / National health insurance,Ministério da Saúde,minsaude.st,5,8,0.0,0.0,0.0,0.0,0.0,8,other:mnt-pt-dominios-1,,false,2026-09-29
+STP,Energy utility,Empresa de Água e Electricidade (EMAE),emae.st,7,18,5.6,0.0,72.2,0.0,11.1,2,m365,,true,2026-09-29
+STP,Ports authority,Empresa Nacional de Administração dos Portos (ENAPORT),enaport.st,4,19,5.3,0.0,68.4,0.0,0.0,5,m365,,false,2026-09-29
+STP,State-owned telco / National backbone operator,Companhia Santomense de Telecomunicações (CST),cst.st,6,12,25.0,0.0,0.0,0.0,16.7,7,other:aws,,true,2026-09-29
+STP,E-government agency,Governo de São Tomé e Príncipe (parent zone),gov.st,3,9,0.0,0.0,0.0,0.0,0.0,9,other:Companhia Santomense de Telecomunicacoes - Companhia Santomense de Telecomunicac,,false,2026-09-29
+STP,E-government agency,Portal do Governo,stp.gov.st,2,2,0.0,0.0,0.0,0.0,0.0,2,none,,false,2026-09-29
+STP,Communications regulator,Autoridade Geral de Regulação (AGER),ager.st,11,16,0.0,0.0,0.0,0.0,0.0,12,other:Zoho,,false,2026-09-29
+STP,Audit office,Tribunal de Contas,tcontas.st,3,11,9.1,0.0,45.5,0.0,0.0,4,google,,false,2026-09-29
