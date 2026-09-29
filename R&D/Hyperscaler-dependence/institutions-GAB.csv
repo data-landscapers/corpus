@@ -1,0 +1,48 @@
+type,institution,domain,email_domain,status,note
+Presidency,Présidence de la République gabonaise,presidence.ga,,confirmed 2026-09-29,
+Parliament,Parlement de la République gabonaise,parlement.ga,,confirmed 2026-09-29,joint portal of both chambers
+Parliament,Assemblée nationale,assemblee-nationale.ga,,confirmed 2026-09-29,
+Parliament,Sénat,senat.ga,,confirmed 2026-09-29,
+Foreign Affairs,Ministère des Affaires étrangères,affaires-etrangeres.gouv.ga,,confirmed 2026-09-29,
+Defence,Ministère de la Défense nationale,defense-nationale.gouv.ga,,confirmed 2026-09-29,
+Armed Forces,Forces armées gabonaises,,,absent,shares defense-nationale.gouv.ga with Defence
+Police,Forces de Police Nationale,fpn.ga,,unconfirmed 2026-09-29,homepage did not load: ConnectTimeout
+Justice,Ministère de la Justice,justice.gouv.ga,,confirmed 2026-09-29,
+Treasury / Finance,Ministère de l'Économie et des Participations,economie.gouv.ga,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
+Treasury / Finance,Ministère de l'Économie; des Finances; de la Dette et des Participations (Budget),budget.gouv.ga,,confirmed 2026-09-29,
+Revenue Service,Direction Générale des Impôts,dgi.ga,,confirmed 2026-09-29,
+Customs,Direction Générale des Douanes et Droits Indirects,douanes.ga,,unconfirmed 2026-09-29,homepage did not load: ConnectTimeout
+Intelligence,,,,absent,no public site found for any Gabonese intelligence service
+Interior / Home Affairs,"Ministère de l'Intérieur, de la Sécurité et de la Décentralisation",interieur.gouv.ga,,confirmed 2026-09-29,
+Central Bank,Banque des États de l'Afrique Centrale,beac.int,,confirmed 2026-09-29,regional (CEMAC); shared with other member states
+Commercial Banks,BGFIBank Gabon,bgfibankgabon.bgfi.com,,confirmed 2026-09-29,"Ranking source: Business Finance International 'Au Gabon, trois banques concentrent presque 85 % des crédits' Aug 2025 (BAD country report 2025; BEAC Q3 2024 credit shares; APEC/AGUB 2024 results). No asset ranking published: 8 licensed banks 2024. Left out as group-only domains (ecobank.com; orabank.net; citigroup.com): Ecobank Gabon; Orabank Gabon; Citibank Gabon"
+Commercial Banks,Union Gabonaise de Banque,ugb-banque.com,,confirmed 2026-09-29,
+Commercial Banks,AFG Bank Gabon (ex-BICIG),afgbankgabon.com,afgbank.ga,confirmed 2026-09-29,
+Commercial Banks,United Bank for Africa Gabon,ubagabon.com,,confirmed 2026-09-29,
+Commercial Banks,Banque pour le Commerce et l'Entrepreneuriat du Gabon,bceg.ga,,confirmed 2026-09-29,
+Civil registry / National ID authority,,,,absent,CNIE and civil documents issued by DGDI; shares dgdi.ga with Immigration
+Data protection authority,Commission Nationale pour la Protection des Données à Caractère Personnel,,,absent,CNPDCP has no website found
+Electoral commission,,,,absent,CGE abolished May 2024; Interior ministry organises elections (interieur.gouv.ga)
+Statistics office,Direction Générale de la Statistique,statgabon.ga,,confirmed 2026-09-29,
+Statistics office,Direction Générale de la Statistique (INSTAT portal),instatgabon.org,,confirmed 2026-09-29,
+Immigration / Passports,Direction Générale de la Documentation et de l'Immigration,dgdi.ga,,confirmed 2026-09-29,
+Health ministry / National health insurance,Ministère de la Santé,sante.gouv.ga,,confirmed 2026-09-29,
+Health ministry / National health insurance,Caisse Nationale d'Assurance Maladie et de Garantie Sociale,cnamgs.ga,,confirmed 2026-09-29,
+Social protection / Social registry,Caisse Nationale de Sécurité Sociale,cnss.ga,,confirmed 2026-09-29,
+Land registry,,,,absent,no land registry site found
+National payment switch,Groupement Interbancaire Monétique de l'Afrique Centrale,gimac-afr.com,,confirmed 2026-09-29,regional (CEMAC); shared with other member states
+Stock exchange,Bourse des Valeurs Mobilières de l'Afrique Centrale,bvm-ac.org,,confirmed 2026-09-29,regional (CEMAC); shared with other member states
+Securities regulator,Commission de Surveillance du Marché Financier de l'Afrique Centrale,cosumaf.org,,confirmed 2026-09-29,regional (CEMAC); shared with other member states
+Sovereign wealth fund / National pension fund,Fonds Gabonais d'Investissements Stratégiques,fgis-gabon.com,,confirmed 2026-09-29,
+Sovereign wealth fund / National pension fund,Caisse des Pensions et des Prestations Familiales des Agents de l'État,cppf.ga,,confirmed 2026-09-29,
+Public procurement authority,,,,absent,no e-procurement portal domain found
+Energy utility,Société d'Énergie et d'Eau du Gabon,seeg-gabon.com,,confirmed 2026-09-29,
+Ports authority,Office des Ports et Rades du Gabon,oprag.ga,,confirmed 2026-09-29,
+State-owned telco / National backbone operator,Gabon Télécom,moov-africa.ga,gabontelecom.ga,unconfirmed 2026-09-29,homepage did not load: ConnectionError
+E-government agency,Agence Nationale des Infrastructures Numériques et des Fréquences,aninf.ga,,confirmed 2026-09-29,
+E-government agency,Portail officiel du Gouvernement gabonais,gouv.ga,,confirmed 2026-09-29,parent zone; scanned root-only
+National data centre / Government cloud operator,,,,absent,national data centre run by ANINF; shares aninf.ga with E-government agency
+Cybersecurity agency / National CERT,,,,absent,handled by ANINF; shares aninf.ga
+Communications regulator,Autorité de Régulation des Communications Électroniques et des Postes,arcep.ga,,confirmed 2026-09-29,
+Audit office,Cour des comptes,,,absent,no site found
+Anti-corruption commission,Commission Nationale de Lutte contre la Corruption et l'Enrichissement Illicite,,,absent,no site found
