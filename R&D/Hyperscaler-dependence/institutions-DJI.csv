@@ -1,45 +1,45 @@
 type,institution,domain,email_domain,status,note
-Presidency,Présidence de la République de Djibouti,presidence.dj,,confirmed 2026-09-29,
-Parliament,Assemblée nationale,assemblee-nationale.dj,,unconfirmed 2026-09-29,homepage did not load: ConnectTimeout
-Foreign Affairs,Ministère des Affaires étrangères et de la Coopération internationale,diplomatie.gouv.dj,,confirmed 2026-09-29,
-Defence,Ministère de la Défense,defense.gouv.dj,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
+Presidency,Présidence de la République de Djibouti,presidence.dj,presidence.dj,scanned 2026-09-29,
+Parliament,Assemblée nationale,assemblee-nationale.dj,assemblee-nationale.dj,scanned 2026-09-29,homepage did not load: ConnectTimeout
+Foreign Affairs,Ministère des Affaires étrangères et de la Coopération internationale,diplomatie.gouv.dj,diplomatie.gouv.dj,scanned 2026-09-29,
+Defence,Ministère de la Défense,defense.gouv.dj,defense.gouv.dj,scanned 2026-09-29,homepage did not load: ConnectionError
 Armed Forces,Forces armées djiboutiennes,,,absent,shares defense.gouv.dj with Defence
-Police,Direction générale de la Police nationale,police-nationale.dj,,confirmed 2026-09-29,
-Justice,Ministère de la Justice et des Affaires pénitentiaires,justice.gouv.dj,,confirmed 2026-09-29,
-Treasury / Finance,Ministère de l'Économie et des Finances,economie.gouv.dj,,confirmed 2026-09-29,
-Revenue Service,Direction générale des Impôts,budget.gouv.dj,,confirmed 2026-09-29,DGI sits on the Ministère du Budget site
-Customs,Direction générale des Douanes et Droits indirects,douanes.gouv.dj,,confirmed 2026-09-29,
+Police,Direction générale de la Police nationale,police-nationale.dj,police-nationale.dj,scanned 2026-09-29,
+Justice,Ministère de la Justice et des Affaires pénitentiaires,justice.gouv.dj,justice.gouv.dj,scanned 2026-09-29,
+Treasury / Finance,Ministère de l'Économie et des Finances,economie.gouv.dj,economie.gouv.dj,scanned 2026-09-29,
+Revenue Service,Direction générale des Impôts,budget.gouv.dj,budget.gouv.dj,scanned 2026-09-29,DGI sits on the Ministère du Budget site
+Customs,Direction générale des Douanes et Droits indirects,douanes.gouv.dj,douanes.gouv.dj,scanned 2026-09-29,
 Intelligence,Service de documentation et de sécurité,,,absent,no public website found
-Interior / Home Affairs,Ministère de l'Intérieur,interieur.gouv.dj,,confirmed 2026-09-29,
-Central Bank,Banque centrale de Djibouti,banque-centrale.dj,,confirmed 2026-09-29,
-Commercial Banks,Banque pour le Commerce et l'Industrie - Mer Rouge,bcimr.dj,,confirmed 2026-09-29,"Source: Banque centrale de Djibouti, Les établissements agréés (banque-centrale.dj/les-etablissements-agrees/; list updated late 2024; no assets ranking published - the ten licensed conventional banks; not ordered by assets). Left out: Bank of Africa Mer Rouge (group site only) and Bank of China Djibouti, Commercial Bank of Ethiopia Djibouti (parent global sites); IBB and Banque Misr no domain found"
-Commercial Banks,CAC International Bank,cacintbank.com,,confirmed 2026-09-29,
-Commercial Banks,Exim Bank Djibouti,eximbank-dj.com,,confirmed 2026-09-29,
-Commercial Banks,Banque de Dépôt et de Crédit de Djibouti,bdcdjibouti.com,,confirmed 2026-09-29,
-Commercial Banks,International Investment Bank (IIB),iibanks.com,,confirmed 2026-09-29,
-Commercial Banks,Silkroad International Bank,silkroadibank.com,,confirmed 2026-09-29,
+Interior / Home Affairs,Ministère de l'Intérieur,interieur.gouv.dj,interieur.gouv.dj,scanned 2026-09-29,
+Central Bank,Banque centrale de Djibouti,banque-centrale.dj,banque-centrale.dj,scanned 2026-09-29,
+Commercial Banks,Banque pour le Commerce et l'Industrie - Mer Rouge,bcimr.dj,bcimr.dj,scanned 2026-09-29,"Source: Banque centrale de Djibouti, Les établissements agréés (banque-centrale.dj/les-etablissements-agrees/; list updated late 2024; no assets ranking published - the ten licensed conventional banks; not ordered by assets). Left out: Bank of Africa Mer Rouge (group site only) and Bank of China Djibouti, Commercial Bank of Ethiopia Djibouti (parent global sites); IBB and Banque Misr no domain found"
+Commercial Banks,CAC International Bank,cacintbank.com,cacintbank.com,scanned 2026-09-29,
+Commercial Banks,Exim Bank Djibouti,eximbank-dj.com,eximbank-dj.com,scanned 2026-09-29,
+Commercial Banks,Banque de Dépôt et de Crédit de Djibouti,bdcdjibouti.com,bdcdjibouti.com,scanned 2026-09-29,
+Commercial Banks,International Investment Bank (IIB),iibanks.com,iibanks.com,scanned 2026-09-29,
+Commercial Banks,Silkroad International Bank,silkroadibank.com,silkroadibank.com,scanned 2026-09-29,
 Civil registry / National ID authority,État civil et identité,,,absent,shares interieur.gouv.dj with Interior
 Data protection authority,Commission nationale de protection des données personnelles,,,absent,created by 2025 Digital Code; being constituted; no site
-Electoral commission,Commission électorale nationale indépendante (CENI),ceni.dj,,confirmed 2026-09-29,
-Statistics office,Institut national de la statistique de Djibouti (INSTAD),instad.dj,,confirmed 2026-09-29,
+Electoral commission,Commission électorale nationale indépendante (CENI),ceni.dj,ceni.dj,scanned 2026-09-29,
+Statistics office,Institut national de la statistique de Djibouti (INSTAD),instad.dj,instad.dj,scanned 2026-09-29,
 Immigration / Passports,Immigration et passeports,,,absent,shares interieur.gouv.dj with Interior
-Health ministry / National health insurance,Ministère de la Santé,sante.gouv.dj,,confirmed 2026-09-29,
-Health ministry / National health insurance,Caisse nationale de sécurité sociale (CNSS),cnss.dj,,confirmed 2026-09-29,runs Assurance maladie universelle
-Social protection / Social registry,Ministère des Affaires sociales et des Solidarités,sociales.gouv.dj,,confirmed 2026-09-29,
+Health ministry / National health insurance,Ministère de la Santé,sante.gouv.dj,sante.gouv.dj,scanned 2026-09-29,
+Health ministry / National health insurance,Caisse nationale de sécurité sociale (CNSS),cnss.dj,cnss.dj,scanned 2026-09-29,runs Assurance maladie universelle
+Social protection / Social registry,Ministère des Affaires sociales et des Solidarités,sociales.gouv.dj,sociales.gouv.dj,scanned 2026-09-29,
 Land registry,Conservation foncière,,,absent,no institution site found
 National payment switch,Switch monétique national,,,absent,interoperability switch under AFD-financed build; no site
 Stock exchange,Bourse,,,absent,no stock exchange in Djibouti
 Securities regulator,Régulateur des marchés de valeurs,,,absent,no securities regulator; Banque centrale supervises
-Sovereign wealth fund / National pension fund,Fonds souverain de Djibouti,fsd.dj,,unconfirmed 2026-09-29,homepage did not load: ConnectTimeout
-Public procurement authority,Commission nationale des marchés publics - Portail des marchés publics,marchespublics.gouv.dj,,confirmed 2026-09-29,
-Energy utility,Électricité de Djibouti (EDD),edd.dj,,unconfirmed 2026-09-29,homepage did not load: ConnectTimeout
-Ports authority,Autorité des ports et des zones franches de Djibouti (DPFZA),dpfza.gov.dj,,confirmed 2026-09-29,
-State-owned telco / National backbone operator,Djibouti Télécom,djiboutitelecom.dj,,confirmed 2026-09-29,
-E-government agency,Agence nationale des systèmes d'information de l'État (ANSIE),ansie.dj,,confirmed 2026-09-29,
-E-government agency,Portail E-Gouvernement,egouv.dj,,confirmed 2026-09-29,run by ANSIE
-National data centre / Government cloud operator,Djibouti Data Center (DDC),djiboutidatacenter.com,,confirmed 2026-09-29,
-Cybersecurity agency / National CERT,Autorité nationale de cybersécurité,anc.dj,,confirmed 2026-09-29,
-Cybersecurity agency / National CERT,DJ-CERT,cert.gouv.dj,,confirmed 2026-09-29,
-Communications regulator,Autorité de régulation multisectorielle de Djibouti (ARMD),armd.dj,,confirmed 2026-09-29,
-Audit office,Cour des comptes de Djibouti,courdescomptesdjibouti.com,,confirmed 2026-09-29,
-Anti-corruption commission,Commission nationale indépendante pour la prévention et la lutte contre la corruption,cniplc.gouv.dj,,confirmed 2026-09-29,
+Sovereign wealth fund / National pension fund,Fonds souverain de Djibouti,fsd.dj,fsd.dj,scanned 2026-09-29,homepage did not load: ConnectTimeout
+Public procurement authority,Commission nationale des marchés publics - Portail des marchés publics,marchespublics.gouv.dj,,scanned 2026-09-29,
+Energy utility,Électricité de Djibouti (EDD),edd.dj,edd.dj,scanned 2026-09-29,homepage did not load: ConnectTimeout
+Ports authority,Autorité des ports et des zones franches de Djibouti (DPFZA),dpfza.gov.dj,dpfza.gov.dj,scanned 2026-09-29,
+State-owned telco / National backbone operator,Djibouti Télécom,djiboutitelecom.dj,djiboutitelecom.dj,scanned 2026-09-29,
+E-government agency,Agence nationale des systèmes d'information de l'État (ANSIE),ansie.dj,ansie.dj,scanned 2026-09-29,
+E-government agency,Portail E-Gouvernement,egouv.dj,,scanned 2026-09-29,run by ANSIE
+National data centre / Government cloud operator,Djibouti Data Center (DDC),djiboutidatacenter.com,djiboutidatacenter.com,scanned 2026-09-29,
+Cybersecurity agency / National CERT,Autorité nationale de cybersécurité,anc.dj,anc.dj,scanned 2026-09-29,
+Cybersecurity agency / National CERT,DJ-CERT,cert.gouv.dj,cert.gouv.dj,scanned 2026-09-29,
+Communications regulator,Autorité de régulation multisectorielle de Djibouti (ARMD),armd.dj,armd.dj,scanned 2026-09-29,
+Audit office,Cour des comptes de Djibouti,courdescomptesdjibouti.com,,scanned 2026-09-29,
+Anti-corruption commission,Commission nationale indépendante pour la prévention et la lutte contre la corruption,cniplc.gouv.dj,cniplc.gouv.dj,scanned 2026-09-29,

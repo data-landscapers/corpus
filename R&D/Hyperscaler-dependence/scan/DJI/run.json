@@ -1,0 +1,415 @@
+{
+ "iso3": "DJI",
+ "scan_date": "2026-09-29",
+ "range_files": {
+  "aws.json": "2026-09-28",
+  "google-cloud.json": "2026-09-28",
+  "google.json": "2026-09-28",
+  "cloudflare-v4.txt": "2026-09-28",
+  "cloudflare-v6.txt": "2026-09-28",
+  "oracle.json": "2026-09-28",
+  "azure.json": "2026-09-28"
+ },
+ "range_file_errors": {},
+ "domains": {
+  "presidence.dj": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 6,
+   "dictionary_hits": 9,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "assemblee-nationale.dj": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 0,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "diplomatie.gouv.dj": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 0,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "defense.gouv.dj": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 0,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "police-nationale.dj": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 11,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "justice.gouv.dj": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 0,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "economie.gouv.dj": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 0,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "budget.gouv.dj": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "douanes.gouv.dj": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "interieur.gouv.dj": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "banque-centrale.dj": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 13,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bcimr.dj": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 24,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cacintbank.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 15,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "eximbank-dj.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bdcdjibouti.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 7,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "iibanks.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 36,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "silkroadibank.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 10,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ceni.dj": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 10,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "instad.dj": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 10,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "sante.gouv.dj": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cnss.dj": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 10,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "sociales.gouv.dj": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 0,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "fsd.dj": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 11,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "marchespublics.gouv.dj": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "edd.dj": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 4,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "dpfza.gov.dj": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 11,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "djiboutitelecom.dj": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 19,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ansie.dj": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 19,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "egouv.dj": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 9,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "djiboutidatacenter.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 10,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "anc.dj": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cert.gouv.dj": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "armd.dj": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 3,
+   "dictionary_hits": 9,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "courdescomptesdjibouti.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "cniplc.gouv.dj": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  }
+ },
+ "new_asns": {
+  "30990": "DJIBOUTI TELECOM S.A. - DJIBOUTI TELECOM S.A.",
+  "329140": "Afrifiber SAS - Afrifiber SAS",
+  "395776": "FEDERAL-ONLINE-GROUP-LLC - FEDERAL ONLINE GROUP LLC",
+  "9294": "GNETINC-AS-AP - GNET INC.",
+  "9304": "HUTCHISON-AS-AP - HGC Global Communications Limited",
+  "134756": "ChinaNet-NANJING-JISHAN-IDC - CHINANET Nanjing Jishan IDC network",
+  "56046": "CMNET-Jiangsu-AP - China Mobile communications corporation",
+  "29066": "VELIANET-AS velia.net Internetdienste GmbH"
+ },
+ "rollup": {
+  "all": {
+   "routable": 564,
+   "us_hyperscaler_share": 27.5,
+   "african_region_share": 0.0,
+   "us_saas_share": 15.8,
+   "cdn_share": 4.3,
+   "national_or_self_share": 4.1,
+   "unattributed": 245,
+   "by_category": {
+    "unattributed": 245,
+    "us-hyperscaler-offshore": 155,
+    "us-saas": 89,
+    "cdn-origin-unknown": 24,
+    "commercial-host": 23,
+    "unresolved": 2,
+    "chinese-cloud": 3,
+    "self-hosted": 23
+   },
+   "institutions": 35,
+   "names": 360,
+   "m365": 6,
+   "google": 5,
+   "tangled_hybrid": 0,
+   "any_us_hyperscaler": 10
+  },
+  "government": {
+   "routable": 358,
+   "us_hyperscaler_share": 14.5,
+   "african_region_share": 0.0,
+   "us_saas_share": 14.0,
+   "cdn_share": 0.0,
+   "national_or_self_share": 6.4,
+   "unattributed": 215,
+   "by_category": {
+    "unattributed": 215,
+    "us-hyperscaler-offshore": 52,
+    "us-saas": 50,
+    "commercial-host": 18,
+    "self-hosted": 23
+   },
+   "institutions": 29,
+   "names": 250,
+   "m365": 2,
+   "google": 4,
+   "tangled_hybrid": 0,
+   "any_us_hyperscaler": 6
+  },
+  "bank": {
+   "routable": 206,
+   "us_hyperscaler_share": 50.0,
+   "african_region_share": 0.0,
+   "us_saas_share": 18.9,
+   "cdn_share": 11.7,
+   "national_or_self_share": 0.0,
+   "unattributed": 30,
+   "by_category": {
+    "us-saas": 39,
+    "cdn-origin-unknown": 24,
+    "unattributed": 30,
+    "us-hyperscaler-offshore": 103,
+    "commercial-host": 5,
+    "unresolved": 2,
+    "chinese-cloud": 3
+   },
+   "institutions": 6,
+   "names": 110,
+   "m365": 4,
+   "google": 1,
+   "tangled_hybrid": 0,
+   "any_us_hyperscaler": 4
+  }
+ },
+ "findings": []
+}
