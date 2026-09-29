@@ -1,0 +1,47 @@
+type,institution,domain,email_domain,status,note
+Presidency,Transitional Sovereignty Council,presidency.gov.sd,,confirmed 2026-09-29,
+Parliament,National Legislature,parliament.gov.sd,,confirmed 2026-09-29,legislature not constituted since 2019; domain cited by IPU
+Foreign Affairs,Ministry of Foreign Affairs,mfa.gov.sd,,confirmed 2026-09-29,
+Defence,Ministry of Defence,,,absent,no working domain found; shares with Armed Forces
+Armed Forces,Sudanese Armed Forces,,,absent,no separate domain found; shares Defence
+Police,Sudan Police Force,,,absent,shares moi.gov.sd with Interior
+Justice,Ministry of Justice,moj.gov.sd,,unconfirmed 2026-09-29,homepage did not load: ReadTimeout
+Justice,Sudan Judiciary,sj.gov.sd,,confirmed 2026-09-29,courts portal; cited on moj.gov.sd links page
+Treasury / Finance,Ministry of Finance and Economic Planning,mof.gov.sd,,confirmed 2026-09-29,
+Revenue Service,,,,absent,no revenue authority domain found
+Customs,Sudan Customs Authority,customs.gov.sd,,confirmed 2026-09-29,
+Intelligence,General Intelligence Service,,,absent,no public domain
+Interior / Home Affairs,Ministry of Interior,moi.gov.sd,,confirmed 2026-09-29,
+Central Bank,Central Bank of Sudan,cbos.gov.sd,,confirmed 2026-09-29,
+Commercial Banks,Bank of Khartoum,bankofkhartoum.com,,confirmed 2026-09-29,"No published assets ranking found. Source: Central Bank of Sudan operating banks list https://cbos.gov.sd/en/content/operating-banks-sudan (2026) with Khartoum Stock Exchange listings kse.sd (2024); ten chosen by size and prominence, Bank of Khartoum largest per its 2023 accounts; foreign-owned subsidiaries omitted"
+Commercial Banks,Faisal Islamic Bank of Sudan,fib-sd.com,,confirmed 2026-09-29,
+Commercial Banks,Omdurman National Bank,onb-sd.com,,confirmed 2026-09-29,
+Commercial Banks,Al Salam Bank Sudan,alsalam-bank.net,,confirmed 2026-09-29,
+Commercial Banks,Sudanese Islamic Bank,sib.sd,,confirmed 2026-09-29,
+Commercial Banks,Nile Bank,alnilebank.com,,confirmed 2026-09-29,
+Commercial Banks,Tadamon Islamic Bank,tadamonbank-sd.com,,unconfirmed 2026-09-29,homepage did not load: ConnectTimeout
+Commercial Banks,Saudi Sudanese Bank,ssb-sd.com,,confirmed 2026-09-29,
+Commercial Banks,Sudanese French Bank,sfbank-sd.com,,confirmed 2026-09-29,
+Commercial Banks,Blue Nile Mashreg Bank,bluemashreg.com,,confirmed 2026-09-29,
+Civil registry / National ID authority,Civil Registry,,,absent,under Ministry of Interior; shares moi.gov.sd
+Data protection authority,,,,absent,no authority found
+Electoral commission,National Elections Commission,,,absent,no domain found
+Statistics office,Central Bureau of Statistics,cbs.gov.sd,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
+Immigration / Passports,General Directorate of Passports and Immigration,passports.gov.sd,,confirmed 2026-09-29,
+Health ministry / National health insurance,Federal Ministry of Health,fmoh.gov.sd,,unconfirmed 2026-09-29,homepage did not load: TooManyRedirects
+Social protection / Social registry,,,,absent,no domain found
+Land registry,,,,absent,no domain found
+National payment switch,,,,absent,no domain found
+Stock exchange,Khartoum Stock Exchange,kse.sd,,confirmed 2026-09-29,
+Securities regulator,Financial Markets Authority,fma.gov.sd,,confirmed 2026-09-29,
+Sovereign wealth fund / National pension fund,,,,absent,no domain found
+Public procurement authority,,,,absent,no e-procurement portal found
+Energy utility,Sudanese Electricity Transmission Company (SETCO),setco.com.sd,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
+Ports authority,Sea Ports Corporation,sudanports.gov.sd,,confirmed 2026-09-29,
+State-owned telco / National backbone operator,Sudatel Telecom Group,sudatel.sd,,confirmed 2026-09-29,
+E-government agency,Republic of Sudan national government portal,sudan.gov.sd,,confirmed 2026-09-29,Ministries have own gov.sd domains; parent portal seeded once
+National data centre / Government cloud operator,,,,absent,no domain found
+Cybersecurity agency / National CERT,Sudan CERT,,,absent,hosted within tpra.gov.sd; no live own domain
+Communications regulator,Telecommunications and Post Regulatory Authority,tpra.gov.sd,,confirmed 2026-09-29,
+Audit office,National Audit Chamber,,,absent,audit.gov.sd is a parked page; no own domain found
+Anti-corruption commission,,,,absent,no domain found
