@@ -1,36 +1,36 @@
 iso3,type,institution,domains,names,routable,us_hyperscaler_share,african_region_share,us_saas_share,cdn_share,national_or_self_share,unattributed,mail_provider,mail_security,tangled_hybrid,scan_date
-DJI,Presidency,Présidence de la République de Djibouti,presidence.dj,16,19,0.0,0.0,0.0,0.0,0.0,19,other:DJIBOUTI TELECOM S.A. - DJIBOUTI TELECOM S.A.,,false,2026-09-29
-DJI,Parliament,Assemblée nationale,assemblee-nationale.dj,4,5,0.0,0.0,0.0,0.0,0.0,5,other:DJIBOUTI TELECOM S.A. - DJIBOUTI TELECOM S.A.,,false,2026-09-29
-DJI,Foreign Affairs,Ministère des Affaires étrangères et de la Coopération internationale,diplomatie.gouv.dj,3,4,0.0,0.0,0.0,0.0,0.0,4,other:DJIBOUTI TELECOM S.A. - DJIBOUTI TELECOM S.A.,,false,2026-09-29
-DJI,Defence,Ministère de la Défense,defense.gouv.dj,3,3,0.0,0.0,0.0,0.0,0.0,3,other:DJIBOUTI TELECOM S.A. - DJIBOUTI TELECOM S.A.,,false,2026-09-29
-DJI,Police,Direction générale de la Police nationale,police-nationale.dj,14,15,0.0,0.0,0.0,0.0,0.0,15,other:DJIBOUTI TELECOM S.A. - DJIBOUTI TELECOM S.A.,,false,2026-09-29
-DJI,Justice,Ministère de la Justice et des Affaires pénitentiaires,justice.gouv.dj,3,5,0.0,0.0,0.0,0.0,0.0,5,other:DJIBOUTI TELECOM S.A. - DJIBOUTI TELECOM S.A.,,false,2026-09-29
-DJI,Treasury / Finance,Ministère de l'Économie et des Finances,economie.gouv.dj,3,5,0.0,0.0,0.0,0.0,0.0,5,other:DJIBOUTI TELECOM S.A. - DJIBOUTI TELECOM S.A.,,false,2026-09-29
-DJI,Revenue Service,Direction générale des Impôts,budget.gouv.dj,2,3,0.0,0.0,0.0,0.0,0.0,3,other:DJIBOUTI TELECOM S.A. - DJIBOUTI TELECOM S.A.,,false,2026-09-29
-DJI,Customs,Direction générale des Douanes et Droits indirects,douanes.gouv.dj,4,5,0.0,0.0,0.0,0.0,0.0,5,other:DJIBOUTI TELECOM S.A. - DJIBOUTI TELECOM S.A.,,false,2026-09-29
-DJI,Interior / Home Affairs,Ministère de l'Intérieur,interieur.gouv.dj,2,3,0.0,0.0,0.0,0.0,0.0,3,other:DJIBOUTI TELECOM S.A. - DJIBOUTI TELECOM S.A.,,false,2026-09-29
-DJI,Central Bank,Banque centrale de Djibouti,banque-centrale.dj,16,29,37.9,0.0,17.2,0.0,0.0,13,google,,false,2026-09-29
+DJI,Presidency,Présidence de la République de Djibouti,presidence.dj,16,19,0.0,0.0,0.0,0.0,0.0,0,other:DJIBOUTI TELECOM S.A. - DJIBOUTI TELECOM S.A.,,false,2026-09-29
+DJI,Parliament,Assemblée nationale,assemblee-nationale.dj,4,5,0.0,0.0,0.0,0.0,0.0,0,other:DJIBOUTI TELECOM S.A. - DJIBOUTI TELECOM S.A.,,false,2026-09-29
+DJI,Foreign Affairs,Ministère des Affaires étrangères et de la Coopération internationale,diplomatie.gouv.dj,3,4,0.0,0.0,0.0,0.0,0.0,0,other:DJIBOUTI TELECOM S.A. - DJIBOUTI TELECOM S.A.,,false,2026-09-29
+DJI,Defence,Ministère de la Défense,defense.gouv.dj,3,3,0.0,0.0,0.0,0.0,0.0,0,other:DJIBOUTI TELECOM S.A. - DJIBOUTI TELECOM S.A.,,false,2026-09-29
+DJI,Police,Direction générale de la Police nationale,police-nationale.dj,14,15,0.0,0.0,0.0,0.0,0.0,0,other:DJIBOUTI TELECOM S.A. - DJIBOUTI TELECOM S.A.,,false,2026-09-29
+DJI,Justice,Ministère de la Justice et des Affaires pénitentiaires,justice.gouv.dj,3,5,0.0,0.0,0.0,0.0,0.0,0,other:DJIBOUTI TELECOM S.A. - DJIBOUTI TELECOM S.A.,,false,2026-09-29
+DJI,Treasury / Finance,Ministère de l'Économie et des Finances,economie.gouv.dj,3,5,0.0,0.0,0.0,0.0,0.0,0,other:DJIBOUTI TELECOM S.A. - DJIBOUTI TELECOM S.A.,,false,2026-09-29
+DJI,Revenue Service,Direction générale des Impôts,budget.gouv.dj,2,3,0.0,0.0,0.0,0.0,0.0,0,other:DJIBOUTI TELECOM S.A. - DJIBOUTI TELECOM S.A.,,false,2026-09-29
+DJI,Customs,Direction générale des Douanes et Droits indirects,douanes.gouv.dj,4,5,0.0,0.0,0.0,0.0,0.0,0,other:DJIBOUTI TELECOM S.A. - DJIBOUTI TELECOM S.A.,,false,2026-09-29
+DJI,Interior / Home Affairs,Ministère de l'Intérieur,interieur.gouv.dj,2,3,0.0,0.0,0.0,0.0,0.0,0,other:DJIBOUTI TELECOM S.A. - DJIBOUTI TELECOM S.A.,,false,2026-09-29
+DJI,Central Bank,Banque centrale de Djibouti,banque-centrale.dj,16,29,37.9,0.0,17.2,0.0,0.0,0,google,,false,2026-09-29
 DJI,Commercial Banks,Banque pour le Commerce et l'Industrie - Mer Rouge,bcimr.dj,26,37,0.0,0.0,35.1,64.9,0.0,0,m365,,false,2026-09-29
-DJI,Commercial Banks,CAC International Bank,cacintbank.com,18,25,12.0,0.0,12.0,0.0,0.0,16,google,,false,2026-09-29
-DJI,Commercial Banks,Exim Bank Djibouti,eximbank-dj.com,6,7,28.6,0.0,14.3,0.0,0.0,4,m365,,false,2026-09-29
+DJI,Commercial Banks,CAC International Bank,cacintbank.com,18,25,12.0,0.0,12.0,0.0,0.0,0,google,,false,2026-09-29
+DJI,Commercial Banks,Exim Bank Djibouti,eximbank-dj.com,6,7,28.6,0.0,14.3,0.0,0.0,0,m365,,false,2026-09-29
 DJI,Commercial Banks,Banque de Dépôt et de Crédit de Djibouti,bdcdjibouti.com,9,43,65.1,0.0,30.2,0.0,0.0,0,m365,,false,2026-09-29
 DJI,Commercial Banks,International Investment Bank (IIB),iibanks.com,41,81,86.4,0.0,11.1,0.0,0.0,0,m365,,false,2026-09-29
-DJI,Commercial Banks,Silkroad International Bank,silkroadibank.com,10,13,0.0,0.0,0.0,0.0,0.0,10,"other:DeepIDC Technology International Co., Limited|Tencent Cloud",,false,2026-09-29
-DJI,Electoral commission,Commission électorale nationale indépendante (CENI),ceni.dj,13,14,7.1,0.0,0.0,0.0,0.0,13,other:DJIBOUTI TELECOM S.A. - DJIBOUTI TELECOM S.A.,,false,2026-09-29
-DJI,Statistics office,Institut national de la statistique de Djibouti (INSTAD),instad.dj,13,18,5.6,0.0,22.2,0.0,0.0,13,other:DJIBOUTI TELECOM S.A. - DJIBOUTI TELECOM S.A.,,false,2026-09-29
-DJI,Health ministry / National health insurance,Ministère de la Santé,sante.gouv.dj,3,5,0.0,0.0,0.0,0.0,0.0,5,other:DJIBOUTI TELECOM S.A. - DJIBOUTI TELECOM S.A.,,false,2026-09-29
-DJI,Health ministry / National health insurance,Caisse nationale de sécurité sociale (CNSS),cnss.dj,13,28,35.7,0.0,17.9,0.0,0.0,11,google,,false,2026-09-29
-DJI,Social protection / Social registry,Ministère des Affaires sociales et des Solidarités,sociales.gouv.dj,3,4,0.0,0.0,0.0,0.0,0.0,4,other:DJIBOUTI TELECOM S.A. - DJIBOUTI TELECOM S.A.,,false,2026-09-29
-DJI,Sovereign wealth fund / National pension fund,Fonds souverain de Djibouti,fsd.dj,14,27,0.0,0.0,48.1,0.0,0.0,14,m365,,false,2026-09-29
-DJI,Public procurement authority,Commission nationale des marchés publics - Portail des marchés publics,marchespublics.gouv.dj,2,1,0.0,0.0,0.0,0.0,0.0,1,none,,false,2026-09-29
-DJI,Energy utility,Électricité de Djibouti (EDD),edd.dj,4,9,0.0,0.0,55.6,0.0,0.0,4,google,,false,2026-09-29
-DJI,Ports authority,Autorité des ports et des zones franches de Djibouti (DPFZA),dpfza.gov.dj,16,43,58.1,0.0,30.2,0.0,0.0,5,m365,,false,2026-09-29
+DJI,Commercial Banks,Silkroad International Bank,silkroadibank.com,10,13,0.0,0.0,0.0,0.0,0.0,0,other:HUTCHISON-AS-AP - HGC Global Communications Limited|Tencent Cloud,,false,2026-09-29
+DJI,Electoral commission,Commission électorale nationale indépendante (CENI),ceni.dj,13,14,7.1,0.0,0.0,0.0,0.0,0,other:DJIBOUTI TELECOM S.A. - DJIBOUTI TELECOM S.A.,,false,2026-09-29
+DJI,Statistics office,Institut national de la statistique de Djibouti (INSTAD),instad.dj,13,18,5.6,0.0,22.2,0.0,0.0,0,other:DJIBOUTI TELECOM S.A. - DJIBOUTI TELECOM S.A.,,false,2026-09-29
+DJI,Health ministry / National health insurance,Ministère de la Santé,sante.gouv.dj,3,5,0.0,0.0,0.0,0.0,0.0,0,other:DJIBOUTI TELECOM S.A. - DJIBOUTI TELECOM S.A.,,false,2026-09-29
+DJI,Health ministry / National health insurance,Caisse nationale de sécurité sociale (CNSS),cnss.dj,13,28,35.7,0.0,17.9,0.0,0.0,0,google,,false,2026-09-29
+DJI,Social protection / Social registry,Ministère des Affaires sociales et des Solidarités,sociales.gouv.dj,3,4,0.0,0.0,0.0,0.0,0.0,0,other:DJIBOUTI TELECOM S.A. - DJIBOUTI TELECOM S.A.,,false,2026-09-29
+DJI,Sovereign wealth fund / National pension fund,Fonds souverain de Djibouti,fsd.dj,14,27,0.0,0.0,48.1,0.0,0.0,0,m365,,false,2026-09-29
+DJI,Public procurement authority,Commission nationale des marchés publics - Portail des marchés publics,marchespublics.gouv.dj,2,1,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+DJI,Energy utility,Électricité de Djibouti (EDD),edd.dj,4,9,0.0,0.0,55.6,0.0,0.0,0,google,,false,2026-09-29
+DJI,Ports authority,Autorité des ports et des zones franches de Djibouti (DPFZA),dpfza.gov.dj,16,43,58.1,0.0,30.2,0.0,0.0,0,m365,,false,2026-09-29
 DJI,State-owned telco / National backbone operator,Djibouti Télécom,djiboutitelecom.dj,22,23,0.0,0.0,0.0,0.0,100.0,0,self,,false,2026-09-29
-DJI,E-government agency,Agence nationale des systèmes d'information de l'État (ANSIE),ansie.dj,24,19,0.0,0.0,0.0,0.0,0.0,19,other:DJIBOUTI TELECOM S.A. - DJIBOUTI TELECOM S.A.,,false,2026-09-29
-DJI,E-government agency,Portail E-Gouvernement,egouv.dj,12,7,0.0,0.0,0.0,0.0,0.0,7,none,,false,2026-09-29
+DJI,E-government agency,Agence nationale des systèmes d'information de l'État (ANSIE),ansie.dj,24,19,0.0,0.0,0.0,0.0,0.0,0,other:DJIBOUTI TELECOM S.A. - DJIBOUTI TELECOM S.A.,,false,2026-09-29
+DJI,E-government agency,Portail E-Gouvernement,egouv.dj,12,7,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
 DJI,National data centre / Government cloud operator,Djibouti Data Center (DDC),djiboutidatacenter.com,12,21,19.0,0.0,23.8,0.0,0.0,0,google,,false,2026-09-29
-DJI,Cybersecurity agency / National CERT,Autorité nationale de cybersécurité,anc.dj,10,13,0.0,0.0,0.0,0.0,0.0,13,other:DJIBOUTI TELECOM S.A. - DJIBOUTI TELECOM S.A.,,false,2026-09-29
-DJI,Cybersecurity agency / National CERT,DJ-CERT,cert.gouv.dj,2,3,0.0,0.0,0.0,0.0,0.0,3,other:DJIBOUTI TELECOM S.A. - DJIBOUTI TELECOM S.A.,,false,2026-09-29
-DJI,Communications regulator,Autorité de régulation multisectorielle de Djibouti (ARMD),armd.dj,13,16,0.0,0.0,0.0,0.0,0.0,16,other:DJIBOUTI TELECOM S.A. - DJIBOUTI TELECOM S.A.,,false,2026-09-29
-DJI,Audit office,Cour des comptes de Djibouti,courdescomptesdjibouti.com,2,7,0.0,0.0,0.0,0.0,0.0,3,none,,false,2026-09-29
-DJI,Anti-corruption commission,Commission nationale indépendante pour la prévention et la lutte contre la corruption,cniplc.gouv.dj,2,4,0.0,0.0,0.0,0.0,0.0,4,other:DJIBOUTI TELECOM S.A. - DJIBOUTI TELECOM S.A.,,false,2026-09-29
+DJI,Cybersecurity agency / National CERT,Autorité nationale de cybersécurité,anc.dj,10,13,0.0,0.0,0.0,0.0,0.0,0,other:DJIBOUTI TELECOM S.A. - DJIBOUTI TELECOM S.A.,,false,2026-09-29
+DJI,Cybersecurity agency / National CERT,DJ-CERT,cert.gouv.dj,2,3,0.0,0.0,0.0,0.0,0.0,0,other:DJIBOUTI TELECOM S.A. - DJIBOUTI TELECOM S.A.,,false,2026-09-29
+DJI,Communications regulator,Autorité de régulation multisectorielle de Djibouti (ARMD),armd.dj,13,16,0.0,0.0,0.0,0.0,0.0,0,other:DJIBOUTI TELECOM S.A. - DJIBOUTI TELECOM S.A.,,false,2026-09-29
+DJI,Audit office,Cour des comptes de Djibouti,courdescomptesdjibouti.com,2,7,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+DJI,Anti-corruption commission,Commission nationale indépendante pour la prévention et la lutte contre la corruption,cniplc.gouv.dj,2,4,0.0,0.0,0.0,0.0,0.0,0,other:DJIBOUTI TELECOM S.A. - DJIBOUTI TELECOM S.A.,,false,2026-09-29

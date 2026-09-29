@@ -328,16 +328,7 @@
    "has_mx": true
   }
  },
- "new_asns": {
-  "30990": "DJIBOUTI TELECOM S.A. - DJIBOUTI TELECOM S.A.",
-  "329140": "Afrifiber SAS - Afrifiber SAS",
-  "395776": "FEDERAL-ONLINE-GROUP-LLC - FEDERAL ONLINE GROUP LLC",
-  "9294": "GNETINC-AS-AP - GNET INC.",
-  "9304": "HUTCHISON-AS-AP - HGC Global Communications Limited",
-  "134756": "ChinaNet-NANJING-JISHAN-IDC - CHINANET Nanjing Jishan IDC network",
-  "56046": "CMNET-Jiangsu-AP - China Mobile communications corporation",
-  "29066": "VELIANET-AS velia.net Internetdienste GmbH"
- },
+ "new_asns": {},
  "rollup": {
   "all": {
    "routable": 564,
@@ -346,15 +337,15 @@
    "us_saas_share": 15.8,
    "cdn_share": 4.3,
    "national_or_self_share": 4.1,
-   "unattributed": 245,
+   "unattributed": 0,
    "by_category": {
-    "unattributed": 245,
+    "telco-isp": 224,
+    "commercial-host": 42,
     "us-hyperscaler-offshore": 155,
     "us-saas": 89,
     "cdn-origin-unknown": 24,
-    "commercial-host": 23,
     "unresolved": 2,
-    "chinese-cloud": 3,
+    "chinese-cloud": 5,
     "self-hosted": 23
    },
    "institutions": 35,
@@ -371,12 +362,12 @@
    "us_saas_share": 14.0,
    "cdn_share": 0.0,
    "national_or_self_share": 6.4,
-   "unattributed": 215,
+   "unattributed": 0,
    "by_category": {
-    "unattributed": 215,
+    "telco-isp": 208,
+    "commercial-host": 25,
     "us-hyperscaler-offshore": 52,
     "us-saas": 50,
-    "commercial-host": 18,
     "self-hosted": 23
    },
    "institutions": 29,
@@ -393,15 +384,15 @@
    "us_saas_share": 18.9,
    "cdn_share": 11.7,
    "national_or_self_share": 0.0,
-   "unattributed": 30,
+   "unattributed": 0,
    "by_category": {
     "us-saas": 39,
     "cdn-origin-unknown": 24,
-    "unattributed": 30,
+    "commercial-host": 17,
+    "telco-isp": 16,
     "us-hyperscaler-offshore": 103,
-    "commercial-host": 5,
     "unresolved": 2,
-    "chinese-cloud": 3
+    "chinese-cloud": 5
    },
    "institutions": 6,
    "names": 110,
