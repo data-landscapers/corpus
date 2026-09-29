@@ -1,0 +1,49 @@
+type,institution,domain,email_domain,status,note
+Presidency,Présidence de la République du Burundi,presidence.gov.bi,,confirmed 2026-09-29,
+Parliament,Assemblée nationale,assemblee.bi,,confirmed 2026-09-29,
+Parliament,Sénat,senat.bi,,confirmed 2026-09-29,
+Foreign Affairs,"Ministère des Affaires étrangères, de l'Intégration régionale et de la Coopération au développement",mae.gov.bi,,confirmed 2026-09-29,
+Defence,Ministère de la Défense nationale et des Anciens combattants,mdnac.gov.bi,,confirmed 2026-09-29,
+Armed Forces,Force de défense nationale du Burundi,fdnb.gov.bi,,confirmed 2026-09-29,
+Police,Police nationale du Burundi,,,absent,shares mininterinfos.gov.bi with Interior
+Justice,"Ministère de la Justice, des Droits de la personne humaine et du Genre",justice.gov.bi,,confirmed 2026-09-29,
+Treasury / Finance,"Ministère des Finances, du Budget et de l'Économie numérique",finances.gov.bi,,confirmed 2026-09-29,
+Revenue Service,Office burundais des recettes,obr.bi,,confirmed 2026-09-29,
+Customs,Office burundais des recettes (douanes et accises),,,absent,shares obr.bi with Revenue Service
+Intelligence,Service national de renseignement,,,absent,no website found
+Interior / Home Affairs,"Ministère de l'Intérieur, du Développement communautaire et de la Sécurité publique",mininterinfos.gov.bi,,confirmed 2026-09-29,
+Central Bank,Banque de la République du Burundi,brb.bi,,confirmed 2026-09-29,
+Commercial Banks,Banque commerciale du Burundi (BANCOBU),bancobu.com,,confirmed 2026-09-29,"Source: BRB, list of banks (Supervision bancaire page brb.bi/node/119) and Rapport annuel de supervision 2024 (14 commercial banks). No per-bank asset ranking found; BANCOBU is the leader (22% of assets, 2023 annual report). Selection is the established banks by BRB list order and capital; not a verified top ten. Left out: Ecobank Burundi (group domain ecobank.com only), Great Lakes Bank (group site dtbafrica.com only)"
+Commercial Banks,Interbank Burundi,interbankbdi.bi,,confirmed 2026-09-29,
+Commercial Banks,Banque de crédit de Bujumbura,bcb.bi,,confirmed 2026-09-29,
+Commercial Banks,Banque de gestion et de financement,bgf.bi,,confirmed 2026-09-29,
+Commercial Banks,CRDB Bank Burundi,crdbbank.co.bi,,confirmed 2026-09-29,
+Commercial Banks,KCB Bank Burundi,bi.kcbgroup.com,,confirmed 2026-09-29,
+Commercial Banks,Banque burundaise pour le commerce et l'investissement,bbcibank.com,,confirmed 2026-09-29,
+Commercial Banks,Finbank Burundi,finbankburundi.com,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
+Commercial Banks,Banque communautaire et agricole du Burundi,bcab.bi,,confirmed 2026-09-29,
+Commercial Banks,Banque de l'habitat du Burundi,bhb.bi,,confirmed 2026-09-29,
+Commercial Banks,Banque d'investissement pour les jeunes,bije.bi,,confirmed 2026-09-29,
+Civil registry / National ID authority,Direction générale de l'état civil,,,absent,under Interior; shares mininterinfos.gov.bi
+Data protection authority,Autorité de protection des données personnelles,,,absent,no website found
+Electoral commission,Commission électorale nationale indépendante,ceniburundi.bi,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
+Statistics office,Institut national de la statistique du Burundi,insbu.bi,,confirmed 2026-09-29,
+Immigration / Passports,Police de l'air des frontières et des étrangers,,,absent,under Interior; shares mininterinfos.gov.bi
+Health ministry / National health insurance,Ministère de la Santé publique,minisante.gov.bi,,confirmed 2026-09-29,homepage did not load: ConnectionError
+Social protection / Social registry,Ministère de la Solidarité nationale,,,absent,no working own domain found
+Land registry,Direction des titres fonciers,,,absent,no website found
+National payment switch,Banque de la République du Burundi (B-Switch),,,absent,B-Switch run by the BRB; shares brb.bi with Central Bank
+Stock exchange,Bourse de Bujumbura,,,absent,no operating exchange website found
+Securities regulator,Autorité de régulation du marché des capitaux,armc.bi,,confirmed 2026-09-29,
+Sovereign wealth fund / National pension fund,Institut national de sécurité sociale,inss.gov.bi,,confirmed 2026-09-29,
+Public procurement authority,Autorité de régulation des marchés publics,armp.bi,,confirmed 2026-09-29,
+Energy utility,Régie de production et de distribution d'eau et d'électricité,regideso.bi,,confirmed 2026-09-29,
+Ports authority,Port de Bujumbura,,,absent,no website found
+State-owned telco / National backbone operator,Office national des télécommunications,onatel.bi,,confirmed 2026-09-29,homepage did not load: ConnectionError
+State-owned telco / National backbone operator,Burundi Backbone System,bbs.bi,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
+E-government agency,Gouvernement du Burundi (zone parente),gov.bi,,unconfirmed 2026-09-29,parent zone; scanned root-only; homepage did not load: ConnectionError
+National data centre / Government cloud operator,Centre de données national,,,absent,no website found
+Cybersecurity agency / National CERT,Équipe nationale de réponse aux incidents informatiques,,,absent,no website found
+Communications regulator,Agence de régulation et de contrôle des télécommunications,arct.gov.bi,,confirmed 2026-09-29,homepage did not load: ConnectionError
+Audit office,Cour des comptes,courdescomptes.bi,,confirmed 2026-09-29,
+Anti-corruption commission,Brigade spéciale anti-corruption,,,absent,no website found
