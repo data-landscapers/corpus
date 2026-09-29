@@ -1,40 +1,40 @@
 iso3,type,institution,domains,names,routable,us_hyperscaler_share,african_region_share,us_saas_share,cdn_share,national_or_self_share,unattributed,mail_provider,mail_security,tangled_hybrid,scan_date
 EGY,Presidency,Presidency of the Arab Republic of Egypt,presidency.eg,7,27,0.0,0.0,48.1,51.9,0.0,0,m365,,false,2026-09-29
-EGY,Parliament,House of Representatives,parliament.gov.eg,2,3,0.0,0.0,0.0,0.0,0.0,3,other:Link Egypt (Link.NET) - Link Egypt (Link.NET),,false,2026-09-29
-EGY,Foreign Affairs,Ministry of Foreign Affairs,mfa.gov.eg,12,39,0.0,0.0,0.0,97.4,0.0,1,other:Link Egypt (Link.NET) - Link Egypt (Link.NET),,false,2026-09-29
-EGY,Defence,Ministry of Defence,mod.gov.eg,29,23,0.0,0.0,0.0,0.0,0.0,22,other:AFMIC - AFMIC,,false,2026-09-29
-EGY,Justice,Ministry of Justice,moj.gov.eg,8,10,0.0,0.0,0.0,0.0,0.0,10,other:mx0.gega.net,,false,2026-09-29
-EGY,Treasury / Finance,Ministry of Finance,mof.gov.eg,12,17,5.9,0.0,0.0,0.0,0.0,16,other:Ministry of Communications and Information Technology - Ministry of Communicatio,,false,2026-09-29
-EGY,Revenue Service,Egyptian Tax Authority,eta.gov.eg,33,23,0.0,0.0,0.0,0.0,0.0,23,other:Link Egypt (Link.NET) - Link Egypt (Link.NET),,false,2026-09-29
-EGY,Customs,Egyptian Customs Authority,customs.gov.eg,8,8,0.0,0.0,0.0,0.0,0.0,8,other:196.219.220.148,,false,2026-09-29
-EGY,Interior / Home Affairs,Ministry of Interior,moi.gov.eg,35,30,0.0,0.0,0.0,0.0,0.0,30,other:TE-AS - IDDQD-AS,,false,2026-09-29
-EGY,Central Bank,Central Bank of Egypt,cbe.org.eg,16,16,0.0,0.0,0.0,43.8,37.5,2,self,,false,2026-09-29
-EGY,Commercial Banks,National Bank of Egypt,nbe.com.eg,70,38,10.5,0.0,0.0,5.3,0.0,32,other:Link Egypt (Link.NET)|Link Egypt (Link.NET) - Link Egypt (Link.NET)|TE Data|TE-A,,false,2026-09-29
-EGY,Commercial Banks,Banque Misr,banquemisr.com,102,62,0.0,0.0,0.0,3.2,0.0,60,other:TE-AS - IDDQD-AS|Vodafone Data - Vodafone Data,,false,2026-09-29
-EGY,Commercial Banks,Commercial International Bank,cibeg.com,195,107,0.0,0.0,0.0,5.6,0.0,101,other:Vodafone Data - Vodafone Data,,false,2026-09-29
-EGY,Commercial Banks,Arab African International Bank,aaib.com,40,21,4.8,0.0,9.5,9.5,0.0,16,m365,proofpoint,false,2026-09-29
+EGY,Parliament,House of Representatives,parliament.gov.eg,2,3,0.0,0.0,0.0,0.0,0.0,0,other:Link Egypt (Link.NET) - Link Egypt (Link.NET),,false,2026-09-29
+EGY,Foreign Affairs,Ministry of Foreign Affairs,mfa.gov.eg,12,39,0.0,0.0,0.0,97.4,0.0,0,other:Link Egypt (Link.NET) - Link Egypt (Link.NET),,false,2026-09-29
+EGY,Defence,Ministry of Defence,mod.gov.eg,29,23,0.0,0.0,0.0,0.0,8.7,0,other:AFMIC - AFMIC,,false,2026-09-29
+EGY,Justice,Ministry of Justice,moj.gov.eg,8,10,0.0,0.0,0.0,0.0,0.0,0,other:mx0.gega.net,,false,2026-09-29
+EGY,Treasury / Finance,Ministry of Finance,mof.gov.eg,12,17,5.9,0.0,0.0,0.0,35.3,0,other:Ministry of Communications and Information Technology - Ministry of Communicatio,,true,2026-09-29
+EGY,Revenue Service,Egyptian Tax Authority,eta.gov.eg,33,23,0.0,0.0,0.0,0.0,78.3,0,other:Link Egypt (Link.NET) - Link Egypt (Link.NET),,false,2026-09-29
+EGY,Customs,Egyptian Customs Authority,customs.gov.eg,8,8,0.0,0.0,0.0,0.0,0.0,0,other:196.219.220.148,,false,2026-09-29
+EGY,Interior / Home Affairs,Ministry of Interior,moi.gov.eg,35,30,0.0,0.0,0.0,0.0,43.3,0,other:TE-AS - IDDQD-AS,,false,2026-09-29
+EGY,Central Bank,Central Bank of Egypt,cbe.org.eg,16,16,0.0,0.0,0.0,43.8,37.5,0,self,,false,2026-09-29
+EGY,Commercial Banks,National Bank of Egypt,nbe.com.eg,70,38,10.5,0.0,0.0,5.3,0.0,0,other:Link Egypt (Link.NET) - Link Egypt (Link.NET)|TE-AS - IDDQD-AS,,false,2026-09-29
+EGY,Commercial Banks,Banque Misr,banquemisr.com,102,62,0.0,0.0,0.0,3.2,0.0,0,other:TE-AS - IDDQD-AS|Vodafone Data - Vodafone Data,,false,2026-09-29
+EGY,Commercial Banks,Commercial International Bank,cibeg.com,195,107,0.0,0.0,1.9,5.6,0.0,0,other:Vodafone Data - Vodafone Data,,false,2026-09-29
+EGY,Commercial Banks,Arab African International Bank,aaib.com,40,21,4.8,0.0,9.5,9.5,0.0,0,m365,proofpoint,false,2026-09-29
 EGY,Commercial Banks,QNB Egypt,qnbegypt.com,8,16,50.0,0.0,0.0,0.0,0.0,0,other:Host Europe (GoDaddy),,false,2026-09-29
-EGY,Commercial Banks,Banque du Caire,bdc.com.eg,54,48,2.1,0.0,0.0,0.0,0.0,47,other:TE-AS - IDDQD-AS|Vodafone Data - Vodafone Data,,false,2026-09-29
-EGY,Commercial Banks,Agricultural Bank of Egypt,abe.com.eg,40,32,0.0,0.0,0.0,12.5,0.0,28,other:ETISALAT MISR - ETISALAT MISR|TE-AS - IDDQD-AS,,false,2026-09-29
-EGY,Commercial Banks,HSBC Egypt,hsbc.com.eg,52,69,5.8,0.0,0.0,66.7,13.0,10,none,,true,2026-09-29
-EGY,Commercial Banks,Abu Dhabi Islamic Bank Egypt,adib.eg,33,37,0.0,0.0,0.0,5.4,0.0,35,other:TE-AS - IDDQD-AS|Vodafone Data - Vodafone Data,,false,2026-09-29
-EGY,Commercial Banks,Suez Canal Bank,scbank.com.eg,18,31,0.0,0.0,0.0,22.6,0.0,24,m365,,false,2026-09-29
-EGY,Data protection authority,Personal Data Protection Centre,pdpc.gov.eg,9,15,0.0,0.0,0.0,0.0,0.0,15,other:Ministry of Communications and Information Technology - Ministry of Communicatio,,false,2026-09-29
-EGY,Electoral commission,National Election Authority,elections.eg,27,20,15.0,0.0,0.0,0.0,0.0,9,other:Zoho,,false,2026-09-29
-EGY,Statistics office,Central Agency for Public Mobilization and Statistics,capmas.gov.eg,19,21,0.0,0.0,0.0,0.0,0.0,21,other:TE Data,,false,2026-09-29
-EGY,Health ministry / National health insurance,Ministry of Health and Population,mohp.gov.eg,49,63,19.0,0.0,0.0,0.0,0.0,51,other:AFMIC - AFMIC|IDSC,,false,2026-09-29
-EGY,Health ministry / National health insurance,Universal Health Insurance Authority,uhia.gov.eg,8,35,48.6,0.0,37.1,0.0,0.0,5,m365,,false,2026-09-29
-EGY,Social protection / Social registry,Ministry of Social Solidarity,moss.gov.eg,10,32,0.0,0.0,53.1,31.2,0.0,5,m365,,false,2026-09-29
-EGY,National payment switch,Egyptian Banks Company,ebc.com.eg,11,13,0.0,0.0,0.0,0.0,0.0,13,other:TE-AS - IDDQD-AS,,false,2026-09-29
-EGY,Stock exchange,Egyptian Exchange,egx.com.eg,8,26,3.8,0.0,0.0,0.0,69.2,7,other:TE Data,,true,2026-09-29
-EGY,Securities regulator,Financial Regulatory Authority,fra.gov.eg,22,14,7.1,0.0,0.0,0.0,0.0,13,other:TE-AS - IDDQD-AS,,false,2026-09-29
-EGY,Sovereign wealth fund / National pension fund,National Organization for Social Insurance,nosi.gov.eg,3,7,0.0,0.0,0.0,57.1,0.0,3,other:AFMIC - AFMIC|IDSC,,false,2026-09-29
-EGY,Public procurement authority,General Authority for Governmental Services (e-procurement),etenders.gov.eg,6,8,0.0,0.0,0.0,0.0,0.0,8,other:Ministry of Communications and Information Technology - Ministry of Communicatio,,false,2026-09-29
-EGY,Energy utility,Egyptian Electricity Holding Company,eehc.gov.eg,14,14,28.6,0.0,0.0,0.0,0.0,10,other:TE-AS - IDDQD-AS,,false,2026-09-29
-EGY,Ports authority,Alexandria Port Authority,apa.gov.eg,5,6,0.0,0.0,0.0,0.0,0.0,6,other:Link Egypt (Link.NET) - Link Egypt (Link.NET),,false,2026-09-29
-EGY,State-owned telco / National backbone operator,Telecom Egypt,te.eg,86,57,1.8,0.0,1.8,1.8,0.0,52,m365,,false,2026-09-29
-EGY,E-government agency,Egypt Government Portal,egypt.gov.eg,7,6,0.0,0.0,0.0,0.0,0.0,6,none,,false,2026-09-29
-EGY,Cybersecurity agency / National CERT,Egypt CERT,egcert.eg,16,16,0.0,0.0,0.0,25.0,0.0,11,other:Ministry of Communications and Information Technology - Ministry of Communicatio,,false,2026-09-29
-EGY,Communications regulator,National Telecom Regulatory Authority,tra.gov.eg,49,29,0.0,0.0,0.0,0.0,0.0,28,other:Ministry of Communications and Information Technology - Ministry of Communicatio,,false,2026-09-29
-EGY,Audit office,Accountability State Authority,asa.gov.eg,6,8,0.0,0.0,0.0,0.0,0.0,8,other:AFMIC - AFMIC|Ministry of Communications and Information Technology - Ministry o,,false,2026-09-29
-EGY,Anti-corruption commission,Administrative Control Authority,aca.gov.eg,3,4,0.0,0.0,0.0,0.0,0.0,4,other:TE Data,,false,2026-09-29
+EGY,Commercial Banks,Banque du Caire,bdc.com.eg,54,48,2.1,0.0,2.1,0.0,0.0,0,other:TE-AS - IDDQD-AS|Vodafone Data - Vodafone Data,,false,2026-09-29
+EGY,Commercial Banks,Agricultural Bank of Egypt,abe.com.eg,40,32,0.0,0.0,0.0,12.5,0.0,0,other:ETISALAT MISR - ETISALAT MISR|TE-AS - IDDQD-AS,,false,2026-09-29
+EGY,Commercial Banks,HSBC Egypt,hsbc.com.eg,52,69,5.8,0.0,7.2,72.5,13.0,0,none,,true,2026-09-29
+EGY,Commercial Banks,Abu Dhabi Islamic Bank Egypt,adib.eg,33,37,0.0,0.0,0.0,5.4,0.0,0,other:TE-AS - IDDQD-AS|Vodafone Data - Vodafone Data,,false,2026-09-29
+EGY,Commercial Banks,Suez Canal Bank,scbank.com.eg,18,31,0.0,0.0,0.0,22.6,0.0,0,m365,,false,2026-09-29
+EGY,Data protection authority,Personal Data Protection Centre,pdpc.gov.eg,9,15,0.0,0.0,0.0,0.0,100.0,0,other:Ministry of Communications and Information Technology - Ministry of Communicatio,,false,2026-09-29
+EGY,Electoral commission,National Election Authority,elections.eg,27,20,15.0,0.0,0.0,25.0,0.0,0,other:Zoho,,false,2026-09-29
+EGY,Statistics office,Central Agency for Public Mobilization and Statistics,capmas.gov.eg,19,21,0.0,0.0,0.0,0.0,0.0,0,other:TE-AS - IDDQD-AS,,false,2026-09-29
+EGY,Health ministry / National health insurance,Ministry of Health and Population,mohp.gov.eg,49,63,19.0,0.0,0.0,0.0,25.4,8,other:AFMIC - AFMIC|IDSC - IDSC,,true,2026-09-29
+EGY,Health ministry / National health insurance,Universal Health Insurance Authority,uhia.gov.eg,8,35,48.6,0.0,37.1,0.0,11.4,0,m365,,true,2026-09-29
+EGY,Social protection / Social registry,Ministry of Social Solidarity,moss.gov.eg,10,32,0.0,0.0,53.1,31.2,15.6,0,m365,,false,2026-09-29
+EGY,National payment switch,Egyptian Banks Company,ebc.com.eg,11,13,0.0,0.0,0.0,0.0,0.0,0,other:TE-AS - IDDQD-AS,,false,2026-09-29
+EGY,Stock exchange,Egyptian Exchange,egx.com.eg,8,26,3.8,0.0,0.0,0.0,69.2,0,other:TE-AS - IDDQD-AS,,true,2026-09-29
+EGY,Securities regulator,Financial Regulatory Authority,fra.gov.eg,22,14,7.1,0.0,0.0,0.0,7.1,0,other:TE-AS - IDDQD-AS,,true,2026-09-29
+EGY,Sovereign wealth fund / National pension fund,National Organization for Social Insurance,nosi.gov.eg,3,7,0.0,0.0,0.0,57.1,14.3,0,other:AFMIC - AFMIC|IDSC - IDSC,,false,2026-09-29
+EGY,Public procurement authority,General Authority for Governmental Services (e-procurement),etenders.gov.eg,6,8,0.0,0.0,0.0,0.0,75.0,0,other:Ministry of Communications and Information Technology - Ministry of Communicatio,,false,2026-09-29
+EGY,Energy utility,Egyptian Electricity Holding Company,eehc.gov.eg,14,14,28.6,0.0,0.0,0.0,0.0,0,other:TE-AS - IDDQD-AS,,false,2026-09-29
+EGY,Ports authority,Alexandria Port Authority,apa.gov.eg,5,6,0.0,0.0,0.0,0.0,0.0,0,other:Link Egypt (Link.NET) - Link Egypt (Link.NET),,false,2026-09-29
+EGY,State-owned telco / National backbone operator,Telecom Egypt,te.eg,86,57,1.8,0.0,1.8,1.8,0.0,0,m365,,false,2026-09-29
+EGY,E-government agency,Egypt Government Portal,egypt.gov.eg,7,6,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+EGY,Cybersecurity agency / National CERT,Egypt CERT,egcert.eg,16,16,0.0,0.0,0.0,25.0,56.2,0,other:Ministry of Communications and Information Technology - Ministry of Communicatio,,false,2026-09-29
+EGY,Communications regulator,National Telecom Regulatory Authority,tra.gov.eg,49,29,0.0,0.0,0.0,0.0,75.9,0,other:Ministry of Communications and Information Technology - Ministry of Communicatio,,false,2026-09-29
+EGY,Audit office,Accountability State Authority,asa.gov.eg,6,8,0.0,0.0,0.0,0.0,50.0,0,other:AFMIC - AFMIC|Ministry of Communications and Information Technology - Ministry o,,false,2026-09-29
+EGY,Anti-corruption commission,Administrative Control Authority,aca.gov.eg,3,4,0.0,0.0,0.0,0.0,0.0,0,other:TE-AS - IDDQD-AS,,false,2026-09-29
