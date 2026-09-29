@@ -1,0 +1,22 @@
+iso3,type,institution,domains,names,routable,us_hyperscaler_share,african_region_share,us_saas_share,cdn_share,national_or_self_share,unattributed,mail_provider,mail_security,tangled_hybrid,scan_date
+GNB,Presidency,Presidência da República da Guiné-Bissau,presidencia.gw,7,16,0.0,0.0,0.0,0.0,0.0,6,other:mnt-pt-dominios-1,,false,2026-09-29
+GNB,Parliament,Assembleia Nacional Popular,anp.gw,13,16,0.0,0.0,0.0,0.0,0.0,15,other:mnt-pt-rackfiber-1,,false,2026-09-29
+GNB,Foreign Affairs,"Ministério dos Negócios Estrangeiros, Cooperação Internacional e das Comunidades",mne.gw,10,14,0.0,0.0,0.0,0.0,0.0,14,other:PLANETHOSTER-NOC,,false,2026-09-29
+GNB,Police,Polícia Judiciária da Guiné-Bissau,pj.gw,9,13,30.8,0.0,0.0,69.2,0.0,0,other:cloudflare,,false,2026-09-29
+GNB,Justice,Procuradoria-Geral da República (Ministério Público),pgr.gw,6,17,23.5,0.0,0.0,23.5,0.0,0,other:cloudflare,,false,2026-09-29
+GNB,Treasury / Finance,Ministério das Finanças,mef.gw,3,6,0.0,0.0,0.0,0.0,0.0,5,other:mnt-pt-rackfiber-1,,false,2026-09-29
+GNB,Central Bank,Banco Central dos Estados da África Ocidental (BCEAO),bceao.int,41,41,9.8,0.0,22.0,0.0,0.0,25,google,,false,2026-09-29
+GNB,Commercial Banks,Banco da África Ocidental (BAO),bao.gw,11,15,0.0,0.0,33.3,0.0,0.0,4,google,,false,2026-09-29
+GNB,Commercial Banks,Banco da União (BDU-SA),bdu-sa.com,12,22,0.0,0.0,40.9,0.0,0.0,13,m365,,false,2026-09-29
+GNB,Electoral commission,Comissão Nacional de Eleições,cne.gw,12,16,0.0,0.0,0.0,0.0,0.0,15,other:mnt-pt-rackfiber-1,,false,2026-09-29
+GNB,Statistics office,Instituto Nacional de Estatística (INE),stat-guinebissau.com,2,7,0.0,0.0,0.0,0.0,0.0,7,none,,false,2026-09-29
+GNB,Health ministry / National health insurance,Ministério da Saúde Pública (MINSAP),minsap.gw,15,30,96.7,0.0,0.0,0.0,0.0,0,other:aws,,false,2026-09-29
+GNB,National payment switch,GIM-UEMOA,gim-uemoa.org,9,20,0.0,0.0,45.0,0.0,0.0,11,m365,,false,2026-09-29
+GNB,Stock exchange,Bourse Régionale des Valeurs Mobilières (BRVM),brvm.org,14,32,28.1,0.0,37.5,0.0,0.0,9,m365,,false,2026-09-29
+GNB,Securities regulator,Autorité des Marchés Financiers de l'UMOA (AMF-UMOA),amf-umoa.org,3,16,0.0,0.0,81.2,12.5,0.0,1,m365,,false,2026-09-29
+GNB,Sovereign wealth fund / National pension fund,Instituto Nacional de Segurança Social (INSS),inss.gw,8,17,0.0,0.0,52.9,0.0,0.0,8,m365,,false,2026-09-29
+GNB,Public procurement authority,Direção-Geral dos Concursos Públicos,dgcp.mef.gw,10,10,0.0,0.0,0.0,0.0,0.0,10,none,,false,2026-09-29
+GNB,Energy utility,Eletricidade e Águas da Guiné-Bissau (EAGB),eagb-gb.com,2,0,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+GNB,E-government agency,Portal do Governo da Guiné-Bissau,gov.gw,65,2,0.0,0.0,0.0,100.0,0.0,0,none,,false,2026-09-29
+GNB,Communications regulator,Autoridade Reguladora Nacional das TIC (ARN),arn.gw,10,19,0.0,0.0,26.3,0.0,0.0,12,google,,false,2026-09-29
+GNB,Audit office,Tribunal de Contas,tribunaldecontas.gw,14,17,23.5,0.0,0.0,0.0,0.0,0,other:WHG Hosting,,false,2026-09-29

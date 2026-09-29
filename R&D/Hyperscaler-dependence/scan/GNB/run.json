@@ -1,0 +1,280 @@
+{
+ "iso3": "GNB",
+ "scan_date": "2026-09-29",
+ "range_files": {
+  "aws.json": "2026-09-29",
+  "google-cloud.json": "2026-09-29",
+  "google.json": "2026-09-29",
+  "cloudflare-v4.txt": "2026-09-29",
+  "cloudflare-v6.txt": "2026-09-29",
+  "oracle.json": "2026-09-29",
+  "azure.json": "2026-09-29"
+ },
+ "range_file_errors": {},
+ "domains": {
+  "presidencia.gw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 6,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "anp.gw": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 10,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mne.gw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 8,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "pj.gw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 6,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "pgr.gw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mef.gw": {
+   "wildcard": false,
+   "ct_status": "not run",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "root-only: parent zone of 1 seeded domains",
+   "dead": false,
+   "has_mx": true
+  },
+  "bceao.int": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 25,
+   "dictionary_hits": 15,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bao.gw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 10,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bdu-sa.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 9,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cne.gw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 10,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "stat-guinebissau.com": {
+   "wildcard": true,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "minsap.gw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 10,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "gim-uemoa.org": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "brvm.org": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 9,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "amf-umoa.org": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "inss.gw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "dgcp.mef.gw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 0,
+   "dictionary_hits": 8,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "eagb-gb.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": true,
+   "has_mx": false
+  },
+  "gov.gw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 65,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "arn.gw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 8,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "tribunaldecontas.gw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 9,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  }
+ },
+ "new_asns": {
+  "33876": "Flesk-AS DMNS - DOMINIOS, S.A.",
+  "39384": "RACKFIBER Dream Fusion - IT Services, Lda",
+  "5533": "CLARANET-PT Claranet Portugal S.A",
+  "37559": "Orange Bissau - Orange Bissau"
+ },
+ "rollup": {
+  "all": {
+   "routable": 346,
+   "us_hyperscaler_share": 15.6,
+   "african_region_share": 0.0,
+   "us_saas_share": 20.5,
+   "cdn_share": 4.9,
+   "national_or_self_share": 0.0,
+   "unattributed": 155,
+   "by_category": {
+    "unattributed": 155,
+    "commercial-host": 48,
+    "us-hyperscaler-offshore": 54,
+    "cdn-origin-unknown": 17,
+    "us-saas": 71,
+    "unresolved": 1
+   },
+   "institutions": 21,
+   "names": 276,
+   "m365": 5,
+   "google": 3,
+   "tangled_hybrid": 0,
+   "any_us_hyperscaler": 6
+  },
+  "government": {
+   "routable": 309,
+   "us_hyperscaler_share": 17.5,
+   "african_region_share": 0.0,
+   "us_saas_share": 18.4,
+   "cdn_share": 5.5,
+   "national_or_self_share": 0.0,
+   "unattributed": 138,
+   "by_category": {
+    "unattributed": 138,
+    "commercial-host": 42,
+    "us-hyperscaler-offshore": 54,
+    "cdn-origin-unknown": 17,
+    "us-saas": 57,
+    "unresolved": 1
+   },
+   "institutions": 19,
+   "names": 253,
+   "m365": 4,
+   "google": 2,
+   "tangled_hybrid": 0,
+   "any_us_hyperscaler": 6
+  },
+  "bank": {
+   "routable": 37,
+   "us_hyperscaler_share": 0.0,
+   "african_region_share": 0.0,
+   "us_saas_share": 37.8,
+   "cdn_share": 0.0,
+   "national_or_self_share": 0.0,
+   "unattributed": 17,
+   "by_category": {
+    "unattributed": 17,
+    "commercial-host": 6,
+    "us-saas": 14
+   },
+   "institutions": 2,
+   "names": 23,
+   "m365": 1,
+   "google": 1,
+   "tangled_hybrid": 0,
+   "any_us_hyperscaler": 0
+  }
+ },
+ "findings": []
+}
