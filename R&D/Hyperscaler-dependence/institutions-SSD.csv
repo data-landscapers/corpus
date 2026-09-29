@@ -1,40 +1,40 @@
 type,institution,domain,email_domain,status,note
-Presidency,Office of the President,op.gov.ss,,confirmed 2026-09-29,
-Parliament,Transitional National Legislative Assembly,nla.gov.ss,,confirmed 2026-09-29,
-Foreign Affairs,Ministry of Foreign Affairs and International Cooperation,mofaic.gov.ss,,confirmed 2026-09-29,
+Presidency,Office of the President,op.gov.ss,op.gov.ss,scanned 2026-09-29,
+Parliament,Transitional National Legislative Assembly,nla.gov.ss,nla.gov.ss,scanned 2026-09-29,
+Foreign Affairs,Ministry of Foreign Affairs and International Cooperation,mofaic.gov.ss,mofaic.gov.ss,scanned 2026-09-29,
 Defence,Ministry of Defence and Veterans Affairs,,,absent,no official website found
 Armed Forces,South Sudan People's Defence Forces,,,absent,shares Defence; no official website found
 Police,South Sudan National Police Service,,,absent,no official website found
-Justice,Ministry of Justice and Constitutional Affairs,mojca.gov.ss,,confirmed 2026-09-29,
-Treasury / Finance,Ministry of Finance and Planning,mofp.gov.ss,,confirmed 2026-09-29,
-Revenue Service,South Sudan National Revenue Authority,nra.gov.ss,,confirmed 2026-09-29,
+Justice,Ministry of Justice and Constitutional Affairs,mojca.gov.ss,mojca.gov.ss,scanned 2026-09-29,
+Treasury / Finance,Ministry of Finance and Planning,mofp.gov.ss,mofp.gov.ss,scanned 2026-09-29,
+Revenue Service,South Sudan National Revenue Authority,nra.gov.ss,nra.gov.ss,scanned 2026-09-29,
 Customs,South Sudan Customs Service,,,absent,within the National Revenue Authority (nra.gov.ss)
 Intelligence,National Security Service,,,absent,no official website found
 Interior / Home Affairs,Ministry of Interior,,,absent,no own domain found; only Facebook page
-Central Bank,Bank of South Sudan,boss.gov.ss,,confirmed 2026-09-29,
-Commercial Banks,KCB Bank South Sudan,ss.kcbgroup.com,,confirmed 2026-09-29,Ranking by assets not published: Bank of South Sudan list of licensed banks (boss.gov.ss/list-of-banks/; 31 banks; no assets); seeded banks with own domains. Left out (run on parent global sites): Equity Bank South Sudan (equitygroupholdings.com/ss); Stanbic (standardbank.com); Ecobank (ecobank.com)
-Commercial Banks,Co-operative Bank of South Sudan,co-opbankss.com,,confirmed 2026-09-29,
-Commercial Banks,Buffalo Commercial Bank,buffalocommercialbankss.com,,confirmed 2026-09-29,
+Central Bank,Bank of South Sudan,boss.gov.ss,boss.gov.ss,scanned 2026-09-29,
+Commercial Banks,KCB Bank South Sudan,ss.kcbgroup.com,,scanned 2026-09-29,Ranking by assets not published: Bank of South Sudan list of licensed banks (boss.gov.ss/list-of-banks/; 31 banks; no assets); seeded banks with own domains. Left out (run on parent global sites): Equity Bank South Sudan (equitygroupholdings.com/ss); Stanbic (standardbank.com); Ecobank (ecobank.com)
+Commercial Banks,Co-operative Bank of South Sudan,co-opbankss.com,co-opbankss.com,scanned 2026-09-29,
+Commercial Banks,Buffalo Commercial Bank,buffalocommercialbankss.com,buffalocommercialbankss.com,scanned 2026-09-29,
 Civil registry / National ID authority,Civil Registry and National ID authority,,,absent,no official website found
 Data protection authority,Data protection authority,,,absent,none established
-Electoral commission,National Elections Commission,nec.gov.ss,,confirmed 2026-09-29,
-Statistics office,National Bureau of Statistics,nbs.gov.ss,,confirmed 2026-09-29,
-Immigration / Passports,Directorate of Nationality Passports and Immigration,evisa.gov.ss,,confirmed 2026-09-29,e-visa portal
-Health ministry / National health insurance,Ministry of Health,moh.gov.ss,,confirmed 2026-09-29,
+Electoral commission,National Elections Commission,nec.gov.ss,nec.gov.ss,scanned 2026-09-29,
+Statistics office,National Bureau of Statistics,nbs.gov.ss,nbs.gov.ss,scanned 2026-09-29,
+Immigration / Passports,Directorate of Nationality Passports and Immigration,evisa.gov.ss,evisa.gov.ss,scanned 2026-09-29,e-visa portal
+Health ministry / National health insurance,Ministry of Health,moh.gov.ss,moh.gov.ss,scanned 2026-09-29,
 Social protection / Social registry,Social protection / Social registry,,,absent,no official website found
 Land registry,Land registry,,,absent,no official website found
 National payment switch,National payment switch,,,absent,no national switch found
 Stock exchange,Stock exchange,,,absent,none in South Sudan
 Securities regulator,Securities regulator,,,absent,none in South Sudan
-Sovereign wealth fund / National pension fund,South Sudan Pension Fund,sspf.gov.ss,,confirmed 2026-09-29,
-Public procurement authority,Public Procurement and Disposal of Assets Authority,ppdaa.gov.ss,,confirmed 2026-09-29,
+Sovereign wealth fund / National pension fund,South Sudan Pension Fund,sspf.gov.ss,sspf.gov.ss,scanned 2026-09-29,
+Public procurement authority,Public Procurement and Disposal of Assets Authority,ppdaa.gov.ss,ppdaa.gov.ss,scanned 2026-09-29,
 Energy utility,South Sudan Electricity Corporation,,,absent,no official website found
 Ports authority,Ports authority,,,absent,landlocked; no ports authority
 State-owned telco / National backbone operator,State-owned telco / National backbone operator,,,absent,no state telco website found
-E-government agency,Government of South Sudan eGovernment portal,gov.ss,,unconfirmed 2026-09-29,parent zone; scanned root-only; homepage did not load: ConnectionError
-E-government agency,Government eServices portal,eservices.gov.ss,,confirmed 2026-09-29,
+E-government agency,Government of South Sudan eGovernment portal,gov.ss,,scanned 2026-09-29,parent zone; scanned root-only; homepage did not load: ConnectionError
+E-government agency,Government eServices portal,eservices.gov.ss,eservices.gov.ss,scanned 2026-09-29,
 National data centre / Government cloud operator,National data centre / Government cloud operator,,,absent,none found
 Cybersecurity agency / National CERT,Cybersecurity agency / National CERT,,,absent,none found
-Communications regulator,National Communication Authority,nca.gov.ss,,confirmed 2026-09-29,
-Audit office,National Audit Chamber,nac.gov.ss,,confirmed 2026-09-29,
+Communications regulator,National Communication Authority,nca.gov.ss,nca.gov.ss,scanned 2026-09-29,
+Audit office,National Audit Chamber,nac.gov.ss,nac.gov.ss,scanned 2026-09-29,
 Anti-corruption commission,South Sudan Anti-Corruption Commission,,,absent,no official website found

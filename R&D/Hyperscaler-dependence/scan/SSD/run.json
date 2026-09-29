@@ -1,0 +1,281 @@
+{
+ "iso3": "SSD",
+ "scan_date": "2026-09-29",
+ "range_files": {
+  "aws.json": "2026-09-28",
+  "google-cloud.json": "2026-09-28",
+  "google.json": "2026-09-28",
+  "cloudflare-v4.txt": "2026-09-28",
+  "cloudflare-v6.txt": "2026-09-28",
+  "oracle.json": "2026-09-28",
+  "azure.json": "2026-09-28"
+ },
+ "range_file_errors": {},
+ "domains": {
+  "op.gov.ss": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nla.gov.ss": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 8,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mofaic.gov.ss": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 8,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mojca.gov.ss": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 8,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mofp.gov.ss": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 15,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nra.gov.ss": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 20,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "boss.gov.ss": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 40,
+   "dictionary_hits": 13,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ss.kcbgroup.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 6,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "co-opbankss.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "buffalocommercialbankss.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 11,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nec.gov.ss": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 37,
+   "dictionary_hits": 10,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nbs.gov.ss": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 3,
+   "dictionary_hits": 10,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "evisa.gov.ss": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "moh.gov.ss": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 7,
+   "dictionary_hits": 14,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "sspf.gov.ss": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 14,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ppdaa.gov.ss": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 3,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "gov.ss": {
+   "wildcard": false,
+   "ct_status": "not run",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "root-only: parent zone of 16 seeded domains",
+   "dead": false,
+   "has_mx": false
+  },
+  "eservices.gov.ss": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 55,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nca.gov.ss": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 16,
+   "dictionary_hits": 11,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nac.gov.ss": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 3,
+   "dictionary_hits": 10,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  }
+ },
+ "new_asns": {
+  "37584": "Fast Network Ltd - Fast Network Ltd",
+  "46261": "QUICKPACKET - QuickPacket, LLC",
+  "328614": "Eden Technologies Company Limited - Eden Technologies Company Limited",
+  "59210": "PHOENIXNAP-AS-SG1 - PhoenixNAP",
+  "37406": "RCS-Communication - RCS-Communication"
+ },
+ "rollup": {
+  "all": {
+   "routable": 439,
+   "us_hyperscaler_share": 4.8,
+   "african_region_share": 0.0,
+   "us_saas_share": 19.8,
+   "cdn_share": 8.0,
+   "national_or_self_share": 0.9,
+   "unattributed": 19,
+   "by_category": {
+    "us-saas": 87,
+    "us-hyperscaler-offshore": 21,
+    "cdn-origin-unknown": 35,
+    "commercial-host": 215,
+    "telco-isp": 51,
+    "unresolved": 3,
+    "self-hosted": 4,
+    "unattributed": 19,
+    "african-colo": 4
+   },
+   "institutions": 20,
+   "names": 370,
+   "m365": 7,
+   "google": 0,
+   "tangled_hybrid": 0,
+   "any_us_hyperscaler": 5
+  },
+  "government": {
+   "routable": 390,
+   "us_hyperscaler_share": 4.4,
+   "african_region_share": 0.0,
+   "us_saas_share": 19.0,
+   "cdn_share": 6.9,
+   "national_or_self_share": 0.0,
+   "unattributed": 19,
+   "by_category": {
+    "us-saas": 74,
+    "us-hyperscaler-offshore": 17,
+    "cdn-origin-unknown": 27,
+    "commercial-host": 198,
+    "telco-isp": 49,
+    "unresolved": 2,
+    "unattributed": 19,
+    "african-colo": 4
+   },
+   "institutions": 17,
+   "names": 342,
+   "m365": 6,
+   "google": 0,
+   "tangled_hybrid": 0,
+   "any_us_hyperscaler": 4
+  },
+  "bank": {
+   "routable": 49,
+   "us_hyperscaler_share": 8.2,
+   "african_region_share": 0.0,
+   "us_saas_share": 26.5,
+   "cdn_share": 16.3,
+   "national_or_self_share": 8.2,
+   "unattributed": 0,
+   "by_category": {
+    "us-hyperscaler-offshore": 4,
+    "cdn-origin-unknown": 8,
+    "us-saas": 13,
+    "commercial-host": 17,
+    "self-hosted": 4,
+    "telco-isp": 2,
+    "unresolved": 1
+   },
+   "institutions": 3,
+   "names": 28,
+   "m365": 1,
+   "google": 0,
+   "tangled_hybrid": 0,
+   "any_us_hyperscaler": 1
+  }
+ },
+ "findings": []
+}
