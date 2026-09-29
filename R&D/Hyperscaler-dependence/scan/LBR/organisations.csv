@@ -1,0 +1,35 @@
+iso3,type,institution,domains,names,routable,us_hyperscaler_share,african_region_share,us_saas_share,cdn_share,national_or_self_share,unattributed,mail_provider,mail_security,tangled_hybrid,scan_date
+LBR,Presidency,Executive Mansion,emansion.gov.lr,25,26,0.0,0.0,0.0,0.0,0.0,22,"other:Cogent Communications, LLC",,false,2026-09-29
+LBR,Parliament,Liberian Legislature,legislature.gov.lr,2,0,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+LBR,Parliament,Liberian Senate,senate.gov.lr,3,19,10.5,0.0,68.4,0.0,0.0,4,m365,,false,2026-09-29
+LBR,Foreign Affairs,Ministry of Foreign Affairs,mofa.gov.lr,29,43,0.0,0.0,30.2,0.0,0.0,27,m365,,false,2026-09-29
+LBR,Defence,Ministry of National Defense,mod.gov.lr,16,23,0.0,0.0,21.7,0.0,0.0,15,google,,false,2026-09-29
+LBR,Police,Liberia National Police,lnp.gov.lr,11,11,0.0,0.0,0.0,0.0,0.0,1,other:Hetzner,,false,2026-09-29
+LBR,Justice,Ministry of Justice,moj.gov.lr,5,8,0.0,0.0,0.0,0.0,0.0,6,"other:Cogent Communications, LLC",,false,2026-09-29
+LBR,Treasury / Finance,Ministry of Finance and Development Planning,mfdp.gov.lr,15,20,10.0,0.0,15.0,0.0,0.0,1,google,,false,2026-09-29
+LBR,Revenue Service,Liberia Revenue Authority,lra.gov.lr,85,94,14.9,5.3,1.1,3.2,0.0,7,m365,,false,2026-09-29
+LBR,Interior / Home Affairs,Ministry of Internal Affairs,mia.gov.lr,14,17,0.0,0.0,0.0,0.0,0.0,14,"other:Cogent Communications, LLC",,false,2026-09-29
+LBR,Central Bank,Central Bank of Liberia,cbl.org.lr,28,35,0.0,0.0,37.1,0.0,0.0,3,m365,,false,2026-09-29
+LBR,Commercial Banks,Liberian Bank for Development and Investment,lbdi.net,21,38,23.7,0.0,44.7,0.0,0.0,7,m365,,false,2026-09-29
+LBR,Commercial Banks,International Bank (Liberia) Limited,ibliberia.com,39,13,15.4,0.0,0.0,0.0,15.4,7,"other:GoDaddy.com, LLC",,true,2026-09-29
+LBR,Commercial Banks,Guaranty Trust Bank (Liberia) Limited,gtbanklr.com,17,14,14.3,0.0,0.0,28.6,21.4,1,other:tritonis.gtbank.com,,true,2026-09-29
+LBR,Commercial Banks,United Bank for Africa Liberia Limited,ubaliberia.com,4,11,18.2,0.0,0.0,45.5,0.0,0,other:Host Europe (GoDaddy),,false,2026-09-29
+LBR,Commercial Banks,AccessBank Liberia,accessbank.com.lr,10,12,0.0,0.0,0.0,0.0,0.0,9,other:mail.accessbank.com.lr,,false,2026-09-29
+LBR,Commercial Banks,Afriland First Bank Liberia Limited,afrilandfirstbanklb.com,4,6,0.0,0.0,16.7,33.3,0.0,2,m365,,false,2026-09-29
+LBR,Commercial Banks,Global Bank Liberia Limited,globalbanklr.com,3,0,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+LBR,Civil registry / National ID authority,National Identification Registry,nir.gov.lr,7,11,18.2,0.0,0.0,0.0,0.0,1,other:Hetzner,,false,2026-09-29
+LBR,Electoral commission,National Elections Commission,necliberia.org,51,153,0.0,0.0,0.0,99.3,0.0,1,other:Contabo Inc.,,false,2026-09-29
+LBR,Statistics office,Liberia Institute of Statistics and Geo-Information Services,lisgis.gov.lr,8,12,16.7,0.0,41.7,0.0,0.0,3,google,,false,2026-09-29
+LBR,Immigration / Passports,Liberia Immigration Service,lis.gov.lr,19,21,9.5,0.0,0.0,0.0,0.0,3,other:Hetzner,,false,2026-09-29
+LBR,Health ministry / National health insurance,Ministry of Health,moh.gov.lr,50,44,27.3,0.0,0.0,0.0,0.0,13,other:Hetzner,,false,2026-09-29
+LBR,Social protection / Social registry,Ministry of Gender Children and Social Protection,mogcsp.gov.lr,14,12,0.0,0.0,0.0,0.0,0.0,0,other:Hetzner,,false,2026-09-29
+LBR,Land registry,Liberia Land Authority,lla.gov.lr,7,10,0.0,0.0,0.0,0.0,0.0,0,other:GoDaddy,,false,2026-09-29
+LBR,Sovereign wealth fund / National pension fund,National Social Security and Welfare Corporation,nasscorp.org.lr,6,13,23.1,0.0,0.0,0.0,0.0,0,other:Zoho,,false,2026-09-29
+LBR,Public procurement authority,Public Procurement and Concessions Commission,ppcc.gov.lr,32,35,0.0,0.0,0.0,0.0,0.0,30,"other:Cogent Communications, LLC",,false,2026-09-29
+LBR,Energy utility,Liberia Electricity Corporation,lecliberia.com,27,35,34.3,5.7,37.1,5.7,0.0,3,m365,,false,2026-09-29
+LBR,Ports authority,National Port Authority,npa.gov.lr,9,11,45.5,0.0,0.0,0.0,0.0,4,google,,false,2026-09-29
+LBR,State-owned telco / National backbone operator,Liberia Telecommunications Corporation,libtelco.com.lr,23,0,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+LBR,E-government agency,Government of Liberia portal,gov.lr,2,0,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+LBR,Communications regulator,Liberia Telecommunications Authority,lta.gov.lr,6,11,45.5,0.0,0.0,9.1,0.0,2,other:Zoho,,false,2026-09-29
+LBR,Audit office,General Auditing Commission,gac.gov.lr,75,33,12.1,0.0,0.0,12.1,0.0,0,other:cloudflare,,false,2026-09-29
+LBR,Anti-corruption commission,Liberia Anti-Corruption Commission,lacc.gov.lr,17,17,0.0,0.0,0.0,0.0,0.0,13,"other:Cogent Communications, LLC",,false,2026-09-29
