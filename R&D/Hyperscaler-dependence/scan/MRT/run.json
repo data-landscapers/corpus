@@ -301,11 +301,7 @@
    "has_mx": true
   }
  },
- "new_asns": {
-  "29544": "Mauritanian Telecommunication Company - Mauritanian Telecommunication Company",
-  "328997": "RIMATEL-SA - RIMATEL-SA",
-  "37508": "MATTEL - MATTEL"
- },
+ "new_asns": {},
  "rollup": {
   "all": {
    "routable": 895,
@@ -314,10 +310,10 @@
    "us_saas_share": 24.8,
    "cdn_share": 23.2,
    "national_or_self_share": 0.0,
-   "unattributed": 296,
+   "unattributed": 0,
    "by_category": {
-    "unattributed": 296,
-    "commercial-host": 117,
+    "telco-isp": 202,
+    "commercial-host": 211,
     "us-saas": 222,
     "us-hyperscaler-offshore": 18,
     "cdn-origin-unknown": 208,
@@ -338,10 +334,10 @@
    "us_saas_share": 26.0,
    "cdn_share": 27.6,
    "national_or_self_share": 0.0,
-   "unattributed": 177,
+   "unattributed": 0,
    "by_category": {
-    "unattributed": 177,
-    "commercial-host": 105,
+    "telco-isp": 141,
+    "commercial-host": 141,
     "us-saas": 168,
     "us-hyperscaler-offshore": 5,
     "cdn-origin-unknown": 178,
@@ -361,12 +357,12 @@
    "us_saas_share": 21.6,
    "cdn_share": 12.0,
    "national_or_self_share": 0.0,
-   "unattributed": 119,
+   "unattributed": 0,
    "by_category": {
-    "unattributed": 119,
+    "telco-isp": 61,
     "cdn-origin-unknown": 30,
     "us-hyperscaler-offshore": 13,
-    "commercial-host": 12,
+    "commercial-host": 70,
     "us-saas": 54,
     "unresolved": 20,
     "african-colo": 2
