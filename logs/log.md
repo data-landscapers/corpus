@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-09-29 04:48 · **HYPERSCALER** · 3m · 01 LBR: 43 rows, 34 domains, 7 banks, 9 absent, 4 unconfirmed
 2026-09-29 04:47 · **HYPERSCALER** · 4m · 01 GMB: 42 rows, 30 domains, 6 banks, 12 absent, 1 unconfirmed
 2026-09-29 04:47 · **HYPERSCALER** · 4m · 01 LSO: 40 rows, 27 domains, 4 banks, 13 absent, 2 unconfirmed
 2026-09-29 04:47 · **HYPERSCALER** · 5m · 01 MUS: 44 rows, 38 domains, 8 banks, 6 absent, 1 unconfirmed

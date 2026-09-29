@@ -1,0 +1,44 @@
+type,institution,domain,email_domain,status,note
+Presidency,Executive Mansion,emansion.gov.lr,,confirmed 2026-09-29,
+Parliament,Liberian Legislature,legislature.gov.lr,,unconfirmed 2026-09-29,archived site; homepage did not load: ConnectionError
+Parliament,Liberian Senate,senate.gov.lr,,confirmed 2026-09-29,
+Foreign Affairs,Ministry of Foreign Affairs,mofa.gov.lr,,confirmed 2026-09-29,
+Defence,Ministry of National Defense,mod.gov.lr,,confirmed 2026-09-29,
+Armed Forces,Armed Forces of Liberia,,,absent,shares mod.gov.lr with Defence
+Police,Liberia National Police,lnp.gov.lr,,confirmed 2026-09-29,
+Justice,Ministry of Justice,moj.gov.lr,,confirmed 2026-09-29,
+Treasury / Finance,Ministry of Finance and Development Planning,mfdp.gov.lr,,confirmed 2026-09-29,
+Revenue Service,Liberia Revenue Authority,lra.gov.lr,,confirmed 2026-09-29,
+Customs,Liberia Revenue Authority Customs,,,absent,shares lra.gov.lr with Revenue Service
+Intelligence,National Security Agency,,,absent,no public domain found
+Interior / Home Affairs,Ministry of Internal Affairs,mia.gov.lr,,confirmed 2026-09-29,
+Central Bank,Central Bank of Liberia,cbl.org.lr,,confirmed 2026-09-29,
+Commercial Banks,Liberian Bank for Development and Investment,lbdi.net,,confirmed 2026-09-29,"no asset ranking exists, so all licensed banks with own domains are seeded; source: Central Bank of Liberia commercial banks information (cbl.org.lr) and US Commercial Service Liberia Country Commercial Guide (trade.gov) 2025; Ecobank runs on ecobank.com and Sapelle has no site, both left out"
+Commercial Banks,International Bank (Liberia) Limited,ibliberia.com,,confirmed 2026-09-29,
+Commercial Banks,Guaranty Trust Bank (Liberia) Limited,gtbanklr.com,,confirmed 2026-09-29,
+Commercial Banks,United Bank for Africa Liberia Limited,ubaliberia.com,,confirmed 2026-09-29,
+Commercial Banks,AccessBank Liberia,accessbank.com.lr,,confirmed 2026-09-29,
+Commercial Banks,Afriland First Bank Liberia Limited,afrilandfirstbanklb.com,,confirmed 2026-09-29,
+Commercial Banks,Global Bank Liberia Limited,globalbanklr.com,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
+Civil registry / National ID authority,National Identification Registry,nir.gov.lr,,confirmed 2026-09-29,
+Data protection authority,Data protection authority,,,absent,none established
+Electoral commission,National Elections Commission,necliberia.org,,confirmed 2026-09-29,
+Statistics office,Liberia Institute of Statistics and Geo-Information Services,lisgis.gov.lr,,confirmed 2026-09-29,
+Immigration / Passports,Liberia Immigration Service,lis.gov.lr,,confirmed 2026-09-29,
+Health ministry / National health insurance,Ministry of Health,moh.gov.lr,,confirmed 2026-09-29,
+Social protection / Social registry,Ministry of Gender Children and Social Protection,mogcsp.gov.lr,,confirmed 2026-09-29,homepage did not load: ConnectionError
+Land registry,Liberia Land Authority,lla.gov.lr,,confirmed 2026-09-29,
+National payment switch,National payment switch,,,absent,no national switch found
+Stock exchange,Stock exchange,,,absent,none operating
+Securities regulator,Securities regulator,,,absent,none; capital markets under Central Bank
+Sovereign wealth fund / National pension fund,National Social Security and Welfare Corporation,nasscorp.org.lr,,confirmed 2026-09-29,homepage did not load: ConnectionError
+Public procurement authority,Public Procurement and Concessions Commission,ppcc.gov.lr,,confirmed 2026-09-29,
+Energy utility,Liberia Electricity Corporation,lecliberia.com,,confirmed 2026-09-29,homepage did not load: ConnectionError
+Ports authority,National Port Authority,npa.gov.lr,,confirmed 2026-09-29,
+State-owned telco / National backbone operator,Liberia Telecommunications Corporation,libtelco.com.lr,,unconfirmed 2026-09-29,homepage did not load: ConnectionError
+E-government agency,Government of Liberia portal,gov.lr,,unconfirmed 2026-09-29,parent zone; scanned root-only; homepage did not load: ConnectionError
+National data centre / Government cloud operator,National data centre,,,absent,none identified
+Cybersecurity agency / National CERT,National CERT,,,absent,none identified
+Communications regulator,Liberia Telecommunications Authority,lta.gov.lr,,confirmed 2026-09-29,
+Audit office,General Auditing Commission,gac.gov.lr,,confirmed 2026-09-29,
+Anti-corruption commission,Liberia Anti-Corruption Commission,lacc.gov.lr,,confirmed 2026-09-29,
