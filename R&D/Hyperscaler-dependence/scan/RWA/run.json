@@ -373,14 +373,7 @@
    "has_mx": true
   }
  },
- "new_asns": {
-  "37228": "KT RWANDA NETWORK Ltd - KT RWANDA NETWORK Ltd",
-  "37006": "Liquid Telecommunication Rwanda Limited - Liquid Telecommunication Rwanda Limited",
-  "37619": "Broadband Systems Corporation - Broadband Systems Corporation",
-  "58182": "wix_com Wix.com Ltd.",
-  "37010": "National University of Rwanda - National University of Rwanda",
-  "329104": "AOS LTD - AOS LTD"
- },
+ "new_asns": {},
  "rollup": {
   "all": {
    "routable": 1540,
@@ -389,16 +382,17 @@
    "us_saas_share": 6.6,
    "cdn_share": 11.8,
    "national_or_self_share": 5.3,
-   "unattributed": 973,
+   "unattributed": 0,
    "by_category": {
-    "unattributed": 973,
+    "telco-isp": 985,
+    "african-colo": 20,
     "us-hyperscaler-offshore": 144,
-    "telco-isp": 34,
     "unresolved": 8,
     "self-hosted": 81,
     "cdn-origin-unknown": 181,
     "us-saas": 102,
-    "commercial-host": 17
+    "commercial-host": 18,
+    "national-dc": 1
    },
    "institutions": 40,
    "names": 1577,
@@ -414,16 +408,17 @@
    "us_saas_share": 4.5,
    "cdn_share": 10.3,
    "national_or_self_share": 3.8,
-   "unattributed": 945,
+   "unattributed": 0,
    "by_category": {
-    "unattributed": 945,
+    "telco-isp": 942,
+    "african-colo": 18,
     "us-hyperscaler-offshore": 87,
-    "telco-isp": 17,
     "unresolved": 7,
     "self-hosted": 49,
     "cdn-origin-unknown": 135,
     "us-saas": 59,
-    "commercial-host": 7
+    "commercial-host": 8,
+    "national-dc": 1
    },
    "institutions": 32,
    "names": 1405,
@@ -439,12 +434,12 @@
    "us_saas_share": 18.4,
    "cdn_share": 19.7,
    "national_or_self_share": 13.7,
-   "unattributed": 28,
+   "unattributed": 0,
    "by_category": {
     "self-hosted": 32,
-    "unattributed": 28,
+    "telco-isp": 43,
     "us-hyperscaler-offshore": 57,
-    "telco-isp": 17,
+    "african-colo": 2,
     "unresolved": 1,
     "us-saas": 43,
     "cdn-origin-unknown": 46,
