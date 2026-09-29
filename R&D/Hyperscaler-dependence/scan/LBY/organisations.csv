@@ -1,0 +1,39 @@
+iso3,type,institution,domains,names,routable,us_hyperscaler_share,african_region_share,us_saas_share,cdn_share,national_or_self_share,unattributed,mail_provider,mail_security,tangled_hybrid,scan_date
+LBY,Presidency,Presidency of the Council of Ministers (Prime Minister's Office),pm.gov.ly,63,18,0.0,0.0,0.0,0.0,0.0,17,other:General Post and Telecommunication Company (GPTC) - General Post and Telecommuni,,false,2026-09-29
+LBY,Foreign Affairs,Ministry of Foreign Affairs and International Cooperation,mofa.gov.ly,250,135,0.0,0.0,0.0,0.0,0.0,134,other:General Post and Telecommunication Company (GPTC) - General Post and Telecommuni,,false,2026-09-29
+LBY,Defence,Ministry of Defence,mod.gov.ly,23,28,0.0,0.0,0.0,7.1,0.0,20,other:Hetzner,,false,2026-09-29
+LBY,Justice,Ministry of Justice,aladel.gov.ly,14,17,0.0,0.0,0.0,0.0,0.0,11,other:Hetzner,,false,2026-09-29
+LBY,Justice,Attorney General's Office,attorneygeneral.gov.ly,11,18,0.0,0.0,0.0,11.1,0.0,11,other:Hetzner,,false,2026-09-29
+LBY,Treasury / Finance,Ministry of Finance,mof.gov.ly,19,22,0.0,0.0,0.0,0.0,0.0,15,other:Hetzner,,false,2026-09-29
+LBY,Revenue Service,Libyan Tax Authority,tax.gov.ly,14,69,0.0,0.0,0.0,89.9,0.0,3,other:Hetzner,,false,2026-09-29
+LBY,Customs,Libyan Customs Authority,customs.gov.ly,19,52,0.0,0.0,0.0,73.1,0.0,10,other:Hetzner,,false,2026-09-29
+LBY,Intelligence,Internal Security Agency,isa.gov.ly,26,138,0.0,0.0,0.0,97.1,0.0,0,other:Hetzner,,false,2026-09-29
+LBY,Interior / Home Affairs,Ministry of Interior,moi.gov.ly,33,18,0.0,0.0,0.0,11.1,0.0,16,m365,,false,2026-09-29
+LBY,Central Bank,Central Bank of Libya,cbl.gov.ly,164,73,12.3,0.0,23.3,63.0,0.0,1,m365,,false,2026-09-29
+LBY,Commercial Banks,Jumhouria Bank,jbank.ly,19,14,28.6,0.0,7.1,14.3,0.0,5,m365,,false,2026-09-29
+LBY,Commercial Banks,National Commercial Bank,ncb.ly,25,74,35.1,0.0,17.6,45.9,0.0,0,m365,,false,2026-09-29
+LBY,Commercial Banks,Wahda Bank,wahdabank.com.ly,14,33,0.0,0.0,36.4,42.4,0.0,6,m365,,false,2026-09-29
+LBY,Commercial Banks,Sahara Bank,saharabank.ly,56,63,41.3,0.0,19.0,22.2,0.0,2,m365,trend-micro,false,2026-09-29
+LBY,Commercial Banks,Bank of Commerce and Development,bcd.ly,40,38,36.8,0.0,31.6,0.0,0.0,12,m365,barracuda,false,2026-09-29
+LBY,Commercial Banks,North Africa Bank,nab.ly,13,18,0.0,0.0,5.6,44.4,0.0,6,m365,,false,2026-09-29
+LBY,Commercial Banks,Aman Bank,aman-bank.com,3,11,63.6,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+LBY,Commercial Banks,Libyan Foreign Bank,lfb.ly,10,43,0.0,0.0,0.0,97.7,0.0,0,other:Host Europe (GoDaddy),,false,2026-09-29
+LBY,Commercial Banks,Alwaha Bank,alwahabank.ly,14,18,0.0,0.0,50.0,0.0,0.0,8,m365,,false,2026-09-29
+LBY,Commercial Banks,Mediterranean Bank,meditbank.ly,13,38,23.7,0.0,47.4,0.0,0.0,0,other:barracuda,barracuda,false,2026-09-29
+LBY,Civil registry / National ID authority,General Information Authority,gia.gov.ly,21,27,0.0,0.0,0.0,7.4,0.0,15,other:Hetzner,,false,2026-09-29
+LBY,Electoral commission,High National Elections Commission,hnec.ly,23,43,41.9,0.0,20.9,4.7,0.0,11,m365,,false,2026-09-29
+LBY,Statistics office,Bureau of Statistics and Census,bsc.ly,16,53,17.0,0.0,32.1,0.0,0.0,0,m365,,false,2026-09-29
+LBY,Health ministry / National health insurance,Ministry of Health,moh.gov.ly,30,31,0.0,0.0,0.0,0.0,0.0,31,other:General Post and Telecommunication Company (GPTC) - General Post and Telecommuni,,false,2026-09-29
+LBY,Social protection / Social registry,Social Security Fund,ssf.gov.ly,36,30,0.0,0.0,0.0,6.7,0.0,4,other:Hetzner,,false,2026-09-29
+LBY,National payment switch,Moamalat,moamalat.net,18,35,0.0,0.0,37.1,62.9,0.0,0,m365,,false,2026-09-29
+LBY,Securities regulator,Libyan Capital Market Authority,lcma.gov.ly,9,24,0.0,0.0,0.0,58.3,0.0,6,other:Hetzner,,false,2026-09-29
+LBY,Sovereign wealth fund / National pension fund,Libyan Investment Authority,lia.ly,19,42,2.4,0.0,28.6,4.8,0.0,0,other:mimecast,mimecast,false,2026-09-29
+LBY,Energy utility,General Electricity Company of Libya,gecol.ly,19,23,0.0,0.0,0.0,0.0,0.0,22,other:Bait Ashames for Data Communication - Bait Ashames for Data Communication,,false,2026-09-29
+LBY,Energy utility,National Oil Corporation,noc.ly,19,35,0.0,0.0,2.9,91.4,0.0,1,m365,,false,2026-09-29
+LBY,Ports authority,Libyan Ports Company,lpclibya.com,23,39,0.0,0.0,0.0,46.2,0.0,0,other:Hetzner,,false,2026-09-29
+LBY,State-owned telco / National backbone operator,Libyan Post Telecommunications and Information Technology Company,lptic.ly,31,44,20.5,0.0,29.5,4.5,0.0,18,m365,,false,2026-09-29
+LBY,E-government agency,Citizen Service Center,csc.gov.ly,21,40,22.5,0.0,20.0,0.0,0.0,15,m365,,false,2026-09-29
+LBY,E-government agency,Libyan government parent zone,gov.ly,2,0,0.0,0.0,0.0,0.0,0.0,0,none,,false,2026-09-29
+LBY,Cybersecurity agency / National CERT,National Information Security and Safety Authority,nissa.gov.ly,20,88,10.2,0.0,14.8,70.5,0.0,3,m365,,false,2026-09-29
+LBY,Audit office,Audit Bureau,audit.gov.ly,54,90,0.0,0.0,0.0,88.9,0.0,6,other:Hetzner,,false,2026-09-29
+LBY,Anti-corruption commission,National Anti-Corruption Commission,nacc.gov.ly,6,8,0.0,0.0,0.0,0.0,0.0,8,other:General Post and Telecommunication Company (GPTC) - General Post and Telecommuni,,false,2026-09-29

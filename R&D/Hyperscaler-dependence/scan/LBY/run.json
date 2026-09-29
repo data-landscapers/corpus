@@ -1,0 +1,444 @@
+{
+ "iso3": "LBY",
+ "scan_date": "2026-09-29",
+ "range_files": {
+  "aws.json": "2026-09-29",
+  "google-cloud.json": "2026-09-29",
+  "google.json": "2026-09-29",
+  "cloudflare-v4.txt": "2026-09-29",
+  "cloudflare-v6.txt": "2026-09-29",
+  "oracle.json": "2026-09-29",
+  "azure.json": "2026-09-29"
+ },
+ "range_file_errors": {},
+ "domains": {
+  "pm.gov.ly": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 56,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mofa.gov.ly": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 237,
+   "dictionary_hits": 12,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mod.gov.ly": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 21,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "aladel.gov.ly": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 10,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "attorneygeneral.gov.ly": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 9,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mof.gov.ly": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 15,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "tax.gov.ly": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 10,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "customs.gov.ly": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 17,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "isa.gov.ly": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 21,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "moi.gov.ly": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 29,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cbl.gov.ly": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 159,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "jbank.ly": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 18,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ncb.ly": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 15,
+   "dictionary_hits": 9,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "wahdabank.com.ly": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 11,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "saharabank.ly": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 51,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bcd.ly": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 35,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nab.ly": {
+   "wildcard": true,
+   "ct_status": "ok",
+   "ct_names": 12,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "aman-bank.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "lfb.ly": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 8,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "alwahabank.ly": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 11,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "meditbank.ly": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 9,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "gia.gov.ly": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 11,
+   "dictionary_hits": 10,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "hnec.ly": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 16,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bsc.ly": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 14,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "moh.gov.ly": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 26,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ssf.gov.ly": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 33,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "moamalat.net": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 14,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "lcma.gov.ly": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "lia.ly": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 15,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "gecol.ly": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 17,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "noc.ly": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 15,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "lpclibya.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 17,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "lptic.ly": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 25,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "csc.gov.ly": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 19,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "gov.ly": {
+   "wildcard": false,
+   "ct_status": "not run",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "root-only: parent zone of 19 seeded domains",
+   "dead": false,
+   "has_mx": false
+  },
+  "nissa.gov.ly": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 14,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "audit.gov.ly": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 46,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nacc.gov.ly": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 4,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  }
+ },
+ "new_asns": {
+  "328200": "Al Madar Al Jadeed Joint Stock Company - Al Madar Al Jadeed Joint Stock Company",
+  "21003": "General Post and Telecommunication Company (GPTC) - General Post and Telecommunication Company (GPTC)",
+  "329263": "Libyan Spider for IT LTD. - Libyan Spider for IT LTD.",
+  "37284": "Aljeel Aljadeed For Technology - Aljeel Aljadeed For Technology",
+  "328733": "AWAL TELECOM & TECHNOLOGY - AWAL TELECOM & TECHNOLOGY",
+  "214036": "ULTAHOST-AS Ultahost, Inc.",
+  "328611": "Libyan Elite Company for Technical Solutions - Libyan Elite Company for Technical Solutions",
+  "197540": "netcup-AS netcup GmbH",
+  "200325": "BunnyCDN BUNNYWAY, informacijske storitve d.o.o.",
+  "328539": "Giga for Telecommunication and Technology Limited - Giga for Telecommunication and Technology Limited",
+  "327921": "Bait Ashames for Data Communication - Bait Ashames for Data Communication",
+  "37558": "LIBYAN INTERNATIONAL TELECOMMUNICATION COMPANY - LIBYAN INTERNATIONAL TELECOMMUNICATION COMPANY"
+ },
+ "rollup": {
+  "all": {
+   "routable": 1590,
+   "us_hyperscaler_share": 9.4,
+   "african_region_share": 0.0,
+   "us_saas_share": 11.4,
+   "cdn_share": 40.1,
+   "national_or_self_share": 0.0,
+   "unattributed": 417,
+   "by_category": {
+    "unattributed": 417,
+    "unresolved": 22,
+    "cdn-origin-unknown": 638,
+    "commercial-host": 182,
+    "us-saas": 181,
+    "us-hyperscaler-offshore": 150
+   },
+   "institutions": 38,
+   "names": 1210,
+   "m365": 16,
+   "google": 0,
+   "tangled_hybrid": 0,
+   "any_us_hyperscaler": 13
+  },
+  "government": {
+   "routable": 1240,
+   "us_hyperscaler_share": 5.2,
+   "african_region_share": 0.0,
+   "us_saas_share": 8.3,
+   "cdn_share": 42.3,
+   "national_or_self_share": 0.0,
+   "unattributed": 378,
+   "by_category": {
+    "unattributed": 378,
+    "unresolved": 11,
+    "cdn-origin-unknown": 524,
+    "commercial-host": 160,
+    "us-saas": 103,
+    "us-hyperscaler-offshore": 64
+   },
+   "institutions": 28,
+   "names": 1003,
+   "m365": 9,
+   "google": 0,
+   "tangled_hybrid": 0,
+   "any_us_hyperscaler": 7
+  },
+  "bank": {
+   "routable": 350,
+   "us_hyperscaler_share": 24.6,
+   "african_region_share": 0.0,
+   "us_saas_share": 22.3,
+   "cdn_share": 32.6,
+   "national_or_self_share": 0.0,
+   "unattributed": 39,
+   "by_category": {
+    "us-hyperscaler-offshore": 86,
+    "unattributed": 39,
+    "cdn-origin-unknown": 114,
+    "us-saas": 78,
+    "commercial-host": 22,
+    "unresolved": 11
+   },
+   "institutions": 10,
+   "names": 207,
+   "m365": 7,
+   "google": 0,
+   "tangled_hybrid": 0,
+   "any_us_hyperscaler": 6
+  }
+ },
+ "findings": []
+}
