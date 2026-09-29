@@ -1,0 +1,392 @@
+{
+ "iso3": "MWI",
+ "scan_date": "2026-09-29",
+ "range_files": {
+  "aws.json": "2026-09-28",
+  "google-cloud.json": "2026-09-28",
+  "google.json": "2026-09-28",
+  "cloudflare-v4.txt": "2026-09-28",
+  "cloudflare-v6.txt": "2026-09-28",
+  "oracle.json": "2026-09-28",
+  "azure.json": "2026-09-28"
+ },
+ "range_file_errors": {},
+ "domains": {
+  "opc.gov.mw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 6,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "parliament.mw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 0,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": true,
+   "has_mx": false
+  },
+  "foreignaffairs.gov.mw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 3,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mdf.gov.mw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 4,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "police.gov.mw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 6,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "justice.gov.mw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 6,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "judiciary.mw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 2,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "finance.gov.mw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 9,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mra.mw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 22,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "rbm.mw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 52,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "natbank.co.mw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 43,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "standardbank.co.mw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 64,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "fdh.co.mw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 12,
+   "dictionary_hits": 11,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "firstcapitalbank.co.mw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 3,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nbs.mw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 22,
+   "dictionary_hits": 8,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "centenarybank.co.mw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 7,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "cdh-malawi.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nrb.gov.mw": {
+   "wildcard": true,
+   "ct_status": "ok",
+   "ct_names": 7,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mec.org.mw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 34,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nsomalawi.mw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 6,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "immigration.gov.mw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 3,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "health.gov.mw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 76,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "lands.gov.mw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 16,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "malswitch.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mse.co.mw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 19,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ppda.mw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 80,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "escom.mw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 34,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mtl.mw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 15,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "macra.mw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 17,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nao.gov.mw": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 4,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "acbmw.org": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 11,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  }
+ },
+ "new_asns": {
+  "329220": "Department of E-Government - Department of E-Government",
+  "328403": "Malawi Revenue Authority - Malawi Revenue Authority",
+  "37098": "globe internet limited - globe internet limited",
+  "37187": "Inq. Digital Limited - Inq. Digital Limited",
+  "36913": "TELEKOM NETWORKS MALAWI LTD - TELEKOM NETWORKS MALAWI LTD",
+  "62240": "Clouvider Clouvider Limited",
+  "36969": "Malawi Telecommunications Limited - Malawi Telecommunications Limited",
+  "22878": "ASACENET1 - ACENET, INC.",
+  "15083": "INFOLINK-MIA-US - Infolink Global Corporation",
+  "5377": "MARLINK-EMEA Marlink AS",
+  "327941": "SIMBANET MALAWI LIMITED - SIMBANET MALAWI LIMITED",
+  "14593": "SPACEX-STARLINK - Space Exploration Technologies Corporation",
+  "328919": "Open Connect Limited - Open Connect Limited",
+  "329427": "Electricity Supply Corporation of Malawi Ltd - Electricity Supply Corporation of Malawi Ltd",
+  "329335": "Department of HIV & AIDS and Viral Hepatitis - Department of HIV & AIDS and Viral Hepatitis",
+  "37712": "National Integrated Technologies Limited - National Integrated Technologies Limited",
+  "37294": "TELEKOM NETWORKS MALAWI LTD - TELEKOM NETWORKS MALAWI LTD",
+  "37440": "Airtel Malawi Ltd - Airtel Malawi Ltd"
+ },
+ "rollup": {
+  "all": {
+   "routable": 980,
+   "us_hyperscaler_share": 25.0,
+   "african_region_share": 1.5,
+   "us_saas_share": 16.6,
+   "cdn_share": 9.3,
+   "national_or_self_share": 6.4,
+   "unattributed": 278,
+   "by_category": {
+    "unattributed": 278,
+    "commercial-host": 139,
+    "self-hosted": 63,
+    "us-hyperscaler-offshore": 230,
+    "us-hyperscaler-africa": 15,
+    "us-saas": 163,
+    "cdn-origin-unknown": 91,
+    "telco-isp": 1
+   },
+   "institutions": 31,
+   "names": 693,
+   "m365": 14,
+   "google": 1,
+   "tangled_hybrid": 7,
+   "any_us_hyperscaler": 16
+  },
+  "government": {
+   "routable": 650,
+   "us_hyperscaler_share": 22.2,
+   "african_region_share": 2.2,
+   "us_saas_share": 14.8,
+   "cdn_share": 0.3,
+   "national_or_self_share": 7.4,
+   "unattributed": 248,
+   "by_category": {
+    "unattributed": 248,
+    "commercial-host": 112,
+    "self-hosted": 48,
+    "us-hyperscaler-offshore": 130,
+    "us-hyperscaler-africa": 14,
+    "us-saas": 96,
+    "cdn-origin-unknown": 2
+   },
+   "institutions": 24,
+   "names": 506,
+   "m365": 8,
+   "google": 1,
+   "tangled_hybrid": 4,
+   "any_us_hyperscaler": 10
+  },
+  "bank": {
+   "routable": 330,
+   "us_hyperscaler_share": 30.6,
+   "african_region_share": 0.3,
+   "us_saas_share": 20.3,
+   "cdn_share": 27.0,
+   "national_or_self_share": 4.5,
+   "unattributed": 30,
+   "by_category": {
+    "cdn-origin-unknown": 89,
+    "us-hyperscaler-offshore": 100,
+    "self-hosted": 15,
+    "unattributed": 30,
+    "commercial-host": 27,
+    "telco-isp": 1,
+    "us-hyperscaler-africa": 1,
+    "us-saas": 67
+   },
+   "institutions": 7,
+   "names": 187,
+   "m365": 6,
+   "google": 0,
+   "tangled_hybrid": 3,
+   "any_us_hyperscaler": 6
+  }
+ },
+ "findings": []
+}
