@@ -1,0 +1,45 @@
+iso3,type,institution,domains,names,routable,us_hyperscaler_share,african_region_share,us_saas_share,cdn_share,national_or_self_share,unattributed,mail_provider,mail_security,tangled_hybrid,scan_date
+GHA,Presidency,Office of the President,presidency.gov.gh,6,7,42.9,0.0,0.0,0.0,0.0,4,google,,false,2026-09-29
+GHA,Parliament,Parliament of Ghana,parliament.gh,10,15,0.0,0.0,0.0,0.0,0.0,11,other:Ghana Government (Ministry of Communications),,false,2026-09-29
+GHA,Foreign Affairs,Ministry of Foreign Affairs and Regional Integration,mfa.gov.gh,7,31,29.0,0.0,41.9,0.0,0.0,7,m365,,false,2026-09-29
+GHA,Defence,Ministry of Defence,mod.gov.gh,11,38,23.7,0.0,44.7,0.0,0.0,6,m365,,false,2026-09-29
+GHA,Armed Forces,Ghana Armed Forces,gafonline.mil.gh,77,310,0.0,0.0,0.0,100.0,0.0,0,other:_dc-mx.b64c672bd86c.gafonline.mil.gh,,false,2026-09-29
+GHA,Police,Ghana Police Service,police.gov.gh,44,71,18.3,0.0,23.9,0.0,0.0,40,m365,,false,2026-09-29
+GHA,Justice,Ministry of Justice and Attorney-General's Department,mojagd.gov.gh,7,26,34.6,0.0,34.6,0.0,0.0,8,m365,,false,2026-09-29
+GHA,Justice,Judicial Service of Ghana,judicial.gov.gh,15,37,24.3,0.0,45.9,0.0,0.0,7,m365,,false,2026-09-29
+GHA,Treasury / Finance,Ministry of Finance,mofep.gov.gh,93,78,12.8,0.0,21.8,0.0,0.0,24,m365,,false,2026-09-29
+GHA,Revenue Service,Ghana Revenue Authority,gra.gov.gh,58,76,31.6,0.0,22.4,1.3,0.0,31,m365,,false,2026-09-29
+GHA,Interior / Home Affairs,Ministry of the Interior,mint.gov.gh,16,33,27.3,0.0,27.3,0.0,0.0,14,m365,,false,2026-09-29
+GHA,Central Bank,Bank of Ghana,bog.gov.gh,34,42,23.8,0.0,31.0,9.5,9.5,0,m365,,true,2026-09-29
+GHA,Commercial Banks,GCB Bank,gcbbank.com.gh,51,23,95.7,0.0,0.0,4.3,0.0,0,other:aws,,false,2026-09-29
+GHA,Commercial Banks,Absa Bank Ghana,absa.com.gh,47,43,16.3,0.0,0.0,37.2,18.6,1,none,,true,2026-09-29
+GHA,Commercial Banks,Stanbic Bank Ghana,stanbicbank.com.gh,36,71,0.0,0.0,0.0,91.5,0.0,2,none,,false,2026-09-29
+GHA,Commercial Banks,Fidelity Bank Ghana,fidelitybank.com.gh,107,81,27.2,0.0,16.0,25.9,23.5,0,m365,,true,2026-09-29
+GHA,Commercial Banks,Zenith Bank Ghana,zenithbank.com.gh,101,77,11.7,0.0,14.3,15.6,48.1,7,m365,forcepoint,true,2026-09-29
+GHA,Commercial Banks,OmniBSIC Bank Ghana,omnibsic.com.gh,33,62,29.0,0.0,40.3,25.8,0.0,1,m365,,false,2026-09-29
+GHA,Commercial Banks,Guaranty Trust Bank Ghana,gtbghana.com,153,27,3.7,0.0,0.0,40.7,29.6,2,other:Hornetsecurity Inc.,,true,2026-09-29
+GHA,Commercial Banks,First Atlantic Bank,firstatlanticbank.com.gh,76,28,35.7,0.0,17.9,0.0,35.7,0,google,,true,2026-09-29
+GHA,Commercial Banks,Access Bank Ghana,ghana.accessbankplc.com,109,30,0.0,0.0,3.3,90.0,6.7,0,m365,,false,2026-09-29
+GHA,Commercial Banks,Agricultural Development Bank,agricbank.com,89,28,28.6,0.0,0.0,0.0,0.0,13,m365,,false,2026-09-29
+GHA,Civil registry / National ID authority,National Identification Authority,nia.gov.gh,30,52,36.5,0.0,25.0,0.0,0.0,9,m365,,false,2026-09-29
+GHA,Data protection authority,Data Protection Commission,dpc.gov.gh,3,15,0.0,0.0,60.0,0.0,0.0,6,m365,,false,2026-09-29
+GHA,Electoral commission,Electoral Commission of Ghana,ec.gov.gh,32,29,34.5,0.0,0.0,6.9,0.0,14,other:Dynu Systems Incorporated|RAMNODE|Scancom Limited - Scancom Limited,,false,2026-09-29
+GHA,Statistics office,Ghana Statistical Service,statsghana.gov.gh,74,123,7.3,0.0,43.1,0.0,0.0,3,m365,,false,2026-09-29
+GHA,Immigration / Passports,Ghana Immigration Service,gis.gov.gh,8,15,26.7,0.0,0.0,6.7,0.0,8,none,,false,2026-09-29
+GHA,Health ministry / National health insurance,Ministry of Health,moh.gov.gh,26,41,29.3,0.0,41.5,0.0,0.0,10,m365,,false,2026-09-29
+GHA,Health ministry / National health insurance,National Health Insurance Authority,nhis.gov.gh,9,33,39.4,0.0,39.4,0.0,0.0,6,m365,,false,2026-09-29
+GHA,Social protection / Social registry,Ministry of Gender Children and Social Protection,mogcsp.gov.gh,68,92,12.0,0.0,18.5,0.0,0.0,37,m365,,false,2026-09-29
+GHA,Land registry,Lands Commission,lc.gov.gh,29,32,3.1,0.0,0.0,0.0,0.0,13,m365,,false,2026-09-29
+GHA,National payment switch,Ghana Interbank Payment and Settlement Systems,ghipss.net,14,9,0.0,0.0,0.0,0.0,0.0,4,other:IONOS,,false,2026-09-29
+GHA,Stock exchange,Ghana Stock Exchange,gse.com.gh,33,96,9.4,0.0,9.4,81.2,0.0,0,m365,,false,2026-09-29
+GHA,Securities regulator,Securities and Exchange Commission Ghana,sec.gov.gh,20,44,20.5,0.0,29.5,0.0,0.0,19,m365,,false,2026-09-29
+GHA,Sovereign wealth fund / National pension fund,Social Security and National Insurance Trust,ssnit.org.gh,12,14,0.0,0.0,14.3,0.0,64.3,3,other:Cisco Secure Email (IronPort),cisco-ironport,false,2026-09-29
+GHA,Public procurement authority,Public Procurement Authority,ppa.gov.gh,36,32,31.2,0.0,28.1,0.0,0.0,4,m365,,false,2026-09-29
+GHA,Public procurement authority,Ghana Electronic Procurement System,ghaneps.gov.gh,6,30,30.0,0.0,43.3,0.0,0.0,7,m365,,false,2026-09-29
+GHA,Energy utility,Electricity Company of Ghana,ecg.com.gh,45,45,33.3,0.0,0.0,64.4,0.0,0,other:google-cloud,,false,2026-09-29
+GHA,Ports authority,Ghana Ports and Harbours Authority,ghanaports.gov.gh,21,29,51.7,0.0,3.4,0.0,0.0,4,m365,,false,2026-09-29
+GHA,E-government agency,National Information Technology Agency,nita.gov.gh,138,116,7.8,0.0,11.2,0.0,0.0,93,m365,,false,2026-09-29
+GHA,Cybersecurity agency / National CERT,Cyber Security Authority,csa.gov.gh,7,30,30.0,0.0,43.3,0.0,0.0,7,m365,,false,2026-09-29
+GHA,Communications regulator,National Communications Authority,nca.org.gh,51,69,47.8,0.0,18.8,0.0,0.0,8,m365,,false,2026-09-29
+GHA,Audit office,Ghana Audit Service,audit.gov.gh,22,48,54.2,0.0,35.4,0.0,0.0,3,m365,,false,2026-09-29
+GHA,Anti-corruption commission,Office of the Special Prosecutor,osp.gov.gh,19,33,27.3,0.0,51.5,0.0,0.0,7,m365,,false,2026-09-29

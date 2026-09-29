@@ -1,0 +1,518 @@
+{
+ "iso3": "GHA",
+ "scan_date": "2026-09-29",
+ "range_files": {
+  "aws.json": "2026-09-28",
+  "google-cloud.json": "2026-09-28",
+  "google.json": "2026-09-28",
+  "cloudflare-v4.txt": "2026-09-28",
+  "cloudflare-v6.txt": "2026-09-28",
+  "oracle.json": "2026-09-28",
+  "azure.json": "2026-09-28"
+ },
+ "range_file_errors": {},
+ "domains": {
+  "presidency.gov.gh": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 6,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "parliament.gh": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 4,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mfa.gov.gh": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mod.gov.gh": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 4,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "gafonline.mil.gh": {
+   "wildcard": true,
+   "ct_status": "ok",
+   "ct_names": 77,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "police.gov.gh": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 41,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mojagd.gov.gh": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 4,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "judicial.gov.gh": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 11,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mofep.gov.gh": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 90,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "gra.gov.gh": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 53,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mint.gov.gh": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 12,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "bog.gov.gh": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 27,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "gcbbank.com.gh": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 49,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "absa.com.gh": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 41,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "stanbicbank.com.gh": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 35,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "fidelitybank.com.gh": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 102,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "zenithbank.com.gh": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 89,
+   "dictionary_hits": 11,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "omnibsic.com.gh": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 29,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "gtbghana.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 144,
+   "dictionary_hits": 8,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "firstatlanticbank.com.gh": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 72,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ghana.accessbankplc.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 108,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "agricbank.com": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 82,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nia.gov.gh": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 24,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "dpc.gov.gh": {
+   "wildcard": false,
+   "ct_status": "failed",
+   "ct_names": 0,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ec.gov.gh": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 25,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "statsghana.gov.gh": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 55,
+   "dictionary_hits": 17,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "gis.gov.gh": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 7,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": false
+  },
+  "moh.gov.gh": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 22,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nhis.gov.gh": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 6,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "mogcsp.gov.gh": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 61,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "lc.gov.gh": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 22,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ghipss.net": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 12,
+   "dictionary_hits": 1,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "gse.com.gh": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 24,
+   "dictionary_hits": 8,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "sec.gov.gh": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 15,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ssnit.org.gh": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 9,
+   "dictionary_hits": 2,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ppa.gov.gh": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 31,
+   "dictionary_hits": 5,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ghaneps.gov.gh": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ecg.com.gh": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 37,
+   "dictionary_hits": 7,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "ghanaports.gov.gh": {
+   "wildcard": true,
+   "ct_status": "ok",
+   "ct_names": 21,
+   "dictionary_hits": 0,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nita.gov.gh": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 125,
+   "dictionary_hits": 13,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "csa.gov.gh": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 1,
+   "dictionary_hits": 4,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "nca.org.gh": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 45,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "audit.gov.gh": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 15,
+   "dictionary_hits": 6,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  },
+  "osp.gov.gh": {
+   "wildcard": false,
+   "ct_status": "ok",
+   "ct_names": 16,
+   "dictionary_hits": 3,
+   "scope": "full",
+   "dead": false,
+   "has_mx": true
+  }
+ },
+ "new_asns": {
+  "37313": "Ghana Government (Ministry of Communications) - Ghana Government (Ministry of Communications)",
+  "29614": "Ghana Telecommunications Company Limited - Ghana Telecommunications Company Limited",
+  "210520": "Synergy Armenian Branch of \"Synergy International Systems\" Joint-Stock Company Separated Subdivision",
+  "328842": "ProData Africa Limited - ProData Africa Limited",
+  "30986": "Scancom Limited - Scancom Limited",
+  "37087": "Super Tech STL Limited - Super Tech STL Limited",
+  "20260": "SAWTEL-UC - Sawtel, Inc",
+  "327947": "Kwame Nkrumah University of Science and Technology - Kwame Nkrumah University of Science and Technology",
+  "33786": "K-Net - K-Net",
+  "14555": "LIQUIDNETLTD1 - LiquidNet US LLC",
+  "42831": "UKSERVERS-AS UK Dedicated Servers Limited",
+  "49282": "FICOLO Glesys AB",
+  "12025": "IMDC-AS12025 - Iron Mountain Data Center",
+  "29838": "AMC - Atlantic Metro Communications II, Inc.",
+  "398019": "DYNU - Dynu Systems Incorporated",
+  "3842": "RAMNODE - InMotion Hosting, Inc.",
+  "14415": "HOSTCOLLECTIVE - Host Collective, Inc.",
+  "53628": "APYLI-AS - Apyl Inc",
+  "15418": "IONOS-ANYCAST Fasthosts Internet Limited",
+  "3130": "RGNET-SEA RGnet OU",
+  "15430": "European Dynamics S.A.",
+  "199404": "WHG-IN WHG Hosting Services Ltd",
+  "328574": "National Communications Authority - National Communications Authority"
+ },
+ "rollup": {
+  "all": {
+   "routable": 2261,
+   "us_hyperscaler_share": 19.2,
+   "african_region_share": 0.0,
+   "us_saas_share": 18.8,
+   "cdn_share": 26.3,
+   "national_or_self_share": 4.3,
+   "unattributed": 443,
+   "by_category": {
+    "us-hyperscaler-offshore": 434,
+    "unattributed": 443,
+    "commercial-host": 215,
+    "us-saas": 426,
+    "african-colo": 21,
+    "cdn-origin-unknown": 594,
+    "telco-isp": 29,
+    "self-hosted": 97,
+    "unresolved": 2
+   },
+   "institutions": 44,
+   "names": 1883,
+   "m365": 31,
+   "google": 2,
+   "tangled_hybrid": 6,
+   "any_us_hyperscaler": 37
+  },
+  "government": {
+   "routable": 1791,
+   "us_hyperscaler_share": 18.8,
+   "african_region_share": 0.0,
+   "us_saas_share": 20.7,
+   "cdn_share": 23.7,
+   "national_or_self_share": 0.7,
+   "unattributed": 417,
+   "by_category": {
+    "us-hyperscaler-offshore": 337,
+    "unattributed": 417,
+    "commercial-host": 194,
+    "us-saas": 371,
+    "african-colo": 13,
+    "cdn-origin-unknown": 425,
+    "telco-isp": 20,
+    "self-hosted": 13,
+    "unresolved": 1
+   },
+   "institutions": 34,
+   "names": 1081,
+   "m365": 26,
+   "google": 1,
+   "tangled_hybrid": 1,
+   "any_us_hyperscaler": 29
+  },
+  "bank": {
+   "routable": 470,
+   "us_hyperscaler_share": 20.6,
+   "african_region_share": 0.0,
+   "us_saas_share": 11.7,
+   "cdn_share": 36.0,
+   "national_or_self_share": 17.9,
+   "unattributed": 26,
+   "by_category": {
+    "us-hyperscaler-offshore": 97,
+    "cdn-origin-unknown": 169,
+    "commercial-host": 21,
+    "self-hosted": 84,
+    "unattributed": 26,
+    "telco-isp": 9,
+    "african-colo": 8,
+    "us-saas": 55,
+    "unresolved": 1
+   },
+   "institutions": 10,
+   "names": 802,
+   "m365": 5,
+   "google": 1,
+   "tangled_hybrid": 5,
+   "any_us_hyperscaler": 8
+  }
+ },
+ "findings": []
+}
