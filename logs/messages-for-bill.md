@@ -12,9 +12,9 @@ last_reviewed: 2026-08-28
 
 <!-- newest first: a new block goes directly below this line -->
 
-## 2026-09-28 · hyperscaler scan KEN, NGA
+## 2026-09-29 16:05 · hyperscaler reports
 
-- Six names in the three countries point at deleted cloud names that anyone can re-register and then serve content under. They are at the Central Bank of Nigeria, Nigeria's health ministry and Accountant-General, Safaricom, Absa and Standard Bank. The names are in each country's `run.json` → `findings`. They are public, and disclosure is your call. The reports do not name them.
+- 13 names in 9 countries point at deleted cloud names anyone can re-register and publish under: Absa, Standard Bank and SARS (ZAF); Safaricom; the Central Bank and health ministry (NGA); ECG (Ghana); Stanbic Uganda; First Capital Bank Malawi; Zambia immigration; Libya's electoral commission. Each is in its country's `run.json` → `findings`; the reports do not name them. Disclosure is your call.
 
 ## 2026-09-28 · hyperscaler scan ZAF
 
