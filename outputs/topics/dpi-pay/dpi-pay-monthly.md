@@ -1,10 +1,10 @@
 ---
 title: Digital Payments and Fintech — monthly update, August – September 2026
-compiled: 2026-09-28
-period: 2026-08-01 to 2026-09-28
+compiled: 2026-09-29
+period: 2026-08-01 to 2026-09-29
 subject: dpi.pay
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: f2476fd9f8ed
+record: 7a18b8dd27b4
 ---
 
 # Digital Payments and Fintech: monthly update, August – September 2026
@@ -153,11 +153,11 @@ The strategy that would order all of this is not yet written. The central bank [
 
 ## Kenya
 
-Borrowers can [repay Hustler Fund loans in loyalty points from 23 July](https://www.the-star.co.ke/news/2026-07-23-borrowers-can-now-repay-hustler-fund-loans-using-bonga-points), five points settling one shilling, recovering KSh 3m in the first week. A second operator [launched a merchant wallet on 3 August](https://techcabal.com/2026/08/03/airtel-targets-kenyas-small-businesses-as-mobile-money-war-shifts-to-merchants/).
+A second operator [launched a merchant wallet on 3 August](https://techcabal.com/2026/08/03/airtel-targets-kenyas-small-businesses-as-mobile-money-war-shifts-to-merchants/).
 
 The platforms Kenyans use to be paid changed their rules one after another over the past year: [an international payments provider imposed restrictions, a domestic dollar-banking service withdrew that product, a remittance operator paused its wallet and a streaming platform cut monetisation](https://techcabal.com/2026/09/08/the-platforms-that-help-kenyans-get-paid-are-changing-the-rules/). Four separate commercial decisions rather than a regulatory change; no user numbers, values or regulator response are held.
 
-The regulator's June-quarter return [put mobile money subscriptions at 54,005,800, up 1.2 per cent in the quarter, while more than 34,000 registered agents left the market](https://www.dawan.africa/news/kenya-mobile-money-accounts-hit-54-million-even-as-more-than-34000-agents-exit-the-market). Subscriptions count accounts, not people.
+The regulator's June-quarter return [put mobile money subscriptions at 54,005,800, up 1.2 per cent in the quarter, while registered agents fell from 602,470 to 568,463](https://www.ca.go.ke/sites/default/files/2026-09/Sector%20Statistics%20Report%20Q4%202025-2026_0.pdf). Subscriptions count accounts, not people.
 
 Tanzania's competition regulator [put KCB Group's stake in the payments company Pesapal at 22.23%](https://techcabal.com/2026/09/22/tanzania-regulator-reveals-kcbs-22-23-stake-in-payments-firm-pesapal/) in a notice of 21 August, the first public figure for a deal announced in November 2025; the price is undisclosed and approval is pending.
 
@@ -171,10 +171,11 @@ The national e-invoicing platform [went to nationwide rollout](https://snitechno
 
 The central bank's fee schedule for interoperable transfers was reported on 5 August: [1.0% of value from US$1.00 to US$2,000.00 and a flat US$25.00 above that, available 24 hours a day](https://www.liberianobserver.com/business/africa-s-digital-payment-revolution-why-liberia-must-move-faster-on-inclusive-instant-payment-systems/article_78def9c4-1c3a-4997-80e5-76002c64d288.html). [The flat cap falls below 1.0% of value above about US$2,500](https://www.liberianobserver.com/business/africa-s-digital-payment-revolution-why-liberia-must-move-faster-on-inclusive-instant-payment-systems/article_78def9c4-1c3a-4997-80e5-76002c64d288.html) and keeps falling.
 
-On 28 July the finance minister named the [national electronic payment switch as the enabler of a 24-hour economy, with creative-sector support to enter the 2027 budget](https://www.liberianobserver.com/business/gov-t-targets-24-hour-digital-economy-to-boost-youth-creativity/article_29307cdc-ea0a-44aa-962a-2c66f40209ec.html). No go-live date was given.
-
-
 The central bank also put on record how the system was built. Its own account is that it worked [to a business case rather than to a regulation and stood the system up in 73 days, sequencing government payments first - civil-servant salaries off cheques and into wallets, which gave the integrated mobile-money operators access to float](https://www.linkedin.com/posts/africanenda_bringing-every-stakeholder-to-the-table-isnt-activity-7494679350248820736--7a1), against a national target of half of adults holding a bank or wallet account.
+
+The finance minister [targeted the national electronic payment switch for March 2027](https://www.thenewdawnliberia.com/bet-on-liberia/) in a speech to a diaspora conference near Washington, reported on 28 September. No budget line or implementer is published.
+
+The African Development Bank [published on 27 September the completion report of its project to put customs tax collection on an e-payment solution hosted by the revenue authority](https://www.afdb.org/en/documents/multinational-government-payments-p2g-g2p-digitization-mano-river-union-liberia-project-completion-report). No outcome or collection figure is stated with it.
 
 ## Libya
 

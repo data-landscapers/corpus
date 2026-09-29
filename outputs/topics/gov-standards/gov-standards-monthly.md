@@ -1,10 +1,10 @@
 ---
 title: Standards — monthly update, August – September 2026
-compiled: 2026-09-28
-period: 2026-08-01 to 2026-09-28
+compiled: 2026-09-29
+period: 2026-08-01 to 2026-09-29
 subject: gov.standards
 places: AGO; BEN; CPV; CAF; TCD; COM; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GIN; KEN; LBR; LBY; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB
-record: 224a090da561
+record: 96f3fa21b89e
 ---
 
 # Standards: monthly update, August – September 2026
@@ -76,9 +76,6 @@ The standards bureau's position was restated from both ends this month. Its dire
 The committee meant to make the state's own financial data consistent [sat again on 6 August, three years after it was created to align the accounts with the 2014 international manual](https://financesao.com/guinee-vers-la-modernisation-du-systeme-de-statistiques-des-finances-publiques/). It produces a regular statement of state financial operations and, on the finance ministry's own account, still faces inconsistent data across the Treasury, the central bank and other agencies.
 
 ## Kenya
-
-Two days after introducing the equipment distributor licence, the Communications Authority introduced vendor class-licence rules requiring a twelve-month warranty and three years of retained sales records. The data-protection regulator launched a quality management system on 14 July, phased toward external certification.
-
 
 Two sets of standards arrived, one binding and one draft. The revenue allocation commission [gazetted binding standards for county own-source revenue automation, covering the system lifecycle from procurement to audit and requiring data ownership and portability safeguards to cut vendor lock-in](https://cra.go.ke/2026/08/14/cra-gazettes-standards-and-guidelines-for-county-own-source-revenue-automation/); no compliance date, county baseline or enforcement mechanism accompanies them. The pharmacy regulator [published draft guidelines for digital pharmacy services covering telepharmacy, electronic prescribing and digital health records](https://web.pharmacyboardkenya.org/download/draft-guidelines-for-digital-pharmacy-services-in-kenya/), with no consultation close or adoption date stated. The text is [a second revision that widens the scope of regulation from internet pharmacy services to digital pharmacy services generally, reaching digital health platforms, pharmacy chains and third-party technology, hosting, payment and logistics providers, and carrying a 2026 effective date against a 2029 review](https://web.pharmacyboardkenya.org/download/draft-guidelines-for-digital-pharmacy-services-in-kenya/?wpdmdl=14068); its approval blocks are unsigned.
 

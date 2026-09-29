@@ -1,10 +1,10 @@
 ---
 title: Cybersecurity — monthly update, August – September 2026
-compiled: 2026-09-28
-period: 2026-08-01 to 2026-09-28
+compiled: 2026-09-29
+period: 2026-08-01 to 2026-09-29
 subject: infra.cybersec
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; TCD; COM; COG; CIV; SWZ; GAB; GHA; KEN; LSO; LBR; LBY; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 34411d473eca
+record: 90c38778c8f8
 ---
 
 # Cybersecurity: monthly update, August – September 2026
@@ -104,15 +104,15 @@ On 24 September the [Ghana Cybersecurity Industry Forum, the industry platform p
 
 ## Kenya
 
-The regulator's own quarterly report reached the repository, the primary behind a figure the record had held at second hand. The national response centre [detected 2,355,938,192 threat events in April-June 2026, down 30.03% on the previous quarter, while web application attacks rose 43.68% to 17,406,495 and 20,748,489 advisories were issued](https://www.ca.go.ke/sites/default/files/2026-07/Cyber%20Security%20Report%20Q4%202025-2026_1.pdf); government systems and internet service providers were named the primary targets, with attackers seeking authentication credentials, vulnerable browsers and database servers. Events detected are not incidents suffered, and no national incident series is published.
+In the regulator's own quarterly report the national response centre [detected 2,355,938,192 threat events in April-June 2026, down 30.03% on the previous quarter, while web application attacks rose 43.68% to 17,406,495 and 20,748,489 advisories were issued](https://www.ca.go.ke/sites/default/files/2026-07/Cyber%20Security%20Report%20Q4%202025-2026_1.pdf); government systems and internet service providers were named the primary targets, with attackers seeking authentication credentials, vulnerable browsers and database servers. Events detected are not incidents suffered, and no national incident series is published.
 
 A vendor threat report published on 13 August put the exposure at the ordinary end rather than the novel one: [malicious email attachments dominated, 46.2% of them scripts, quick-response-code phishing rose 145% between the second half of 2025 and the first of 2026, exploitation of a 2017 Office vulnerability more than doubled, and one loader became the country's fourth most-detected malware family](https://techtrends.africa/eset-threat-report-kenyan-organisations-are-being-attacked-by-the-basics/). The figures are the vendor's own detections, not a national incident series.
 
-The instrument establishing the new agency also reached the repository this month, three months after it took effect. The [State Corporations (National Cybersecurity Agency) Order, 2026 — Legal Notice 89 of 2026, gazetted and commenced on 15 May 2026 — makes it an autonomous body corporate headquartered in Nairobi City County under the direction of the Cabinet Secretary for internal security, charged with formulating national cybersecurity strategy, auditing and certifying the resilience of designated critical information infrastructure, running the National Cybersecurity Operations Centre and maintaining a Cybersecurity Centre of Excellence, with a board seating the internal-security, Treasury and ICT principal secretaries alongside one academic and one private-sector appointee](https://new.kenyalaw.org/akn/ke/act/ln/2026/89/eng@2026-05-15). Nothing in the record shows it exercising any of those powers yet. Leadership was named in the same month: an inaugural non-executive chair was announced and the President [appointed a director to lead it](https://www.kbc.co.ke/dr-martin-koyabe-appointed-to-lead-national-cybersecurity-agency/). No budget line, staff complement or first published function is on file, and the National Cybersecurity Policy beside it is still only planned.
+The new cybersecurity agency acquired its leadership: [an inaugural non-executive chair was announced on 24 August](https://techafricanews.com/2026/08/24/kenya-appoints-martin-koyabe-inaugural-chair-national-cybersecurity-agency/) and the President [appointed a director to lead it](https://www.kbc.co.ke/dr-martin-koyabe-appointed-to-lead-national-cybersecurity-agency/). No budget line, staff complement or first published function is on file.
 
 The standards the new agency will enforce were put to the people who would have to work them. The technology authority [tested the National Information Security Framework's audit, risk-management and certification mechanisms at a Nairobi workshop, to establish whether they are practical for national implementation](https://educationnews.co.ke/ict-authority-steps-up-protection-of-govt-systems-critical-information-infrastructure/) ahead of certifying critical information infrastructure. Neither the framework text nor the certification criteria nor the list of infrastructure to be certified is published.
 
-By September the agency existed in law and in one appointment. The government's scorecard [reports the director-general recruited and deployed, board seats and technical posts still being filled, and the agency not yet fully operational](https://www.the-star.co.ke/news/2026-09-11-kenya-steps-up-push-to-get-new-cyber-agency-running). The prosecutor's office meanwhile [issued a reference guide setting out each offence under the cybercrimes Act with its elements, required evidence, sample charges and court application templates](https://nc4.go.ke/regulations/rapid-reference-guide/).
+The government's scorecard [reported the director-general recruited and deployed, board seats and technical posts still being filled, and the agency not yet fully operational](https://www.the-star.co.ke/news/2026-09-11-kenya-steps-up-push-to-get-new-cyber-agency-running), and [two board members were then gazetted with effect from 11 September](https://cioafrica.co/kenya-appoints-two-members-to-national-cybersecurity-agency-board/). The prosecutor's office meanwhile [issued a reference guide setting out each offence under the cybercrimes Act with its elements, required evidence, sample charges and court application templates](https://nc4.go.ke/regulations/rapid-reference-guide/).
 
 ## Lesotho
 

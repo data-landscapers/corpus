@@ -1,10 +1,10 @@
 ---
 title: Access to services — monthly update, August – September 2026
-compiled: 2026-09-28
-period: 2026-08-01 to 2026-09-28
+compiled: 2026-09-29
+period: 2026-08-01 to 2026-09-29
 subject: include.access
 places: DZA; AGO; BEN; BWA; BDI; CMR; CAF; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NAM; NER; NGA; STP; SEN; SYC; SLE; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: e0e7a798f3fb
+record: b214725e6fa0
 ---
 
 # Access to services: monthly update, August – September 2026
@@ -119,13 +119,11 @@ The statistics institute [agreed on 10 September to assess which fourth-census d
 
 ## Kenya
 
-The Auditor-General's findings on the Hustler Fund entered the record on 23 July: [104,631 loans worth KSh 116.5m](https://www.the-star.co.ke/news/2026-07-23-borrowers-can-now-repay-hustler-fund-loans-using-bonga-points) were issued to borrowers whose national identity details were missing from the customer database, against a 15% default rate and state funding down to KSh 300m in the year to June 2026.
-
-A measure of harm arrived where the repository had none. A UN children’s agency report found [about one million internet-using Kenyan children exposed to unwanted sexual content online, a rate of 20.1% and the third highest of 21 countries surveyed behind Uganda and Ethiopia, with most child victims knowing their abusers personally, WhatsApp the platform most used to target them, and about 1% of cases reported to police](https://nation.africa/kenya/news/gender/when-the-danger-comes-through-a-child-s-phone-one-in-five-children-exposed-to-sexual-content-online-5583836). The findings rest on nationally representative household survey data collected between 2020 and 2025 from children aged 12 to 17. The report itself is not held, only a newspaper account of it.
+A UN children’s agency report found [about one million internet-using Kenyan children exposed to unwanted sexual content online, a rate of 20.1% and the third highest of 21 countries surveyed behind Uganda and Ethiopia, with most child victims knowing their abusers personally, WhatsApp the platform most used to target them, and about 1% of cases reported to police](https://nation.africa/kenya/news/gender/when-the-danger-comes-through-a-child-s-phone-one-in-five-children-exposed-to-sexual-content-online-5583836). The findings rest on nationally representative household survey data collected between 2020 and 2025 from children aged 12 to 17. The report itself is not held, only a newspaper account of it.
 
 ## Liberia
 
-Two institutions moved outward in the same week. The telecommunications regulator [opened its first service centre outside Monrovia, at Buchanan in Grand Bassa County, on 4 September, handling consumer complaints and community-radio compliance](https://newspublictrust.com/lta-begins-decentralizing-its-regulatory-and-consumer-protection-services) — the first time the repository records regulatory redress being available anywhere but the capital, with no staffing, opening hours, caseload target or programme of further centres published. And the information commission, with a transparency organisation, [ran freedom-of-information compliance visits from 11 August to 2 September covering the national identification registry, the statistics institute, the community empowerment agency and the water and sewer corporation, with three more agencies scheduled for 8 to 10 September](https://gnnliberia.com/iic-cental-step-up-transparency-anti-corruption-drive/). No findings, compliance scores or enforcement actions from the round are published, and it is a partnership exercise rather than a statutory inspection regime — which is the difference between visiting an agency and being able to make it answer.
+Two institutions moved outward in the same week. The telecommunications regulator [opened its first service centre outside Monrovia, at Buchanan in Grand Bassa County, on 4 September, handling consumer complaints and community-radio compliance](https://newspublictrust.com/lta-begins-decentralizing-its-regulatory-and-consumer-protection-services), with no staffing, opening hours, caseload target or programme of further centres published. And the information commission, with a transparency organisation, [ran freedom-of-information compliance visits from 11 August to 2 September covering the national identification registry, the statistics institute, the community empowerment agency and the water and sewer corporation, with three more agencies scheduled for 8 to 10 September](https://gnnliberia.com/iic-cental-step-up-transparency-anti-corruption-drive/). No findings, compliance scores or enforcement actions from the round are published, and it is a partnership exercise rather than a statutory inspection regime.
 
 ## Libya
 

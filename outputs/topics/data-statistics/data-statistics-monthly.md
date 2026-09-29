@@ -1,17 +1,21 @@
 ---
 title: National statistics — monthly update, August – September 2026
-compiled: 2026-09-28
-period: 2026-08-01 to 2026-09-28
+compiled: 2026-09-29
+period: 2026-08-01 to 2026-09-29
 subject: data.statistics
-places: BEN; BWA; BFA; BDI; CMR; CAF; TCD; COM; COG; COD; GNQ; SWZ; GAB; GHA; GIN; KEN; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; TGO; TUN; UGA; ZWE
-record: 822530c90c32
+places: AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COM; COG; COD; GNQ; SWZ; GAB; GHA; GIN; KEN; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; TGO; TUN; UGA; ZWE
+record: c3ca9f266769
 ---
 
 # National statistics: monthly update, August – September 2026
 
-*35 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*36 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
+
+## Angola
+
+The statistics institute [put a revision of the statistics law and a draft national strategy for the development of statistics to public consultation from 29 September to 2 October](https://angop.ao/noticias/economia/ine-inicia-recolha-de-contribuicoes-para-nova-lei-estatistica/), following an extraordinary plenary of the national statistics council in August. Neither draft text is held.
 
 ## Benin
 
@@ -99,7 +103,7 @@ The planning minister [launched the country's first general census of enterprise
 
 ## Kenya
 
-The communications regulator and the University of Nairobi began reviewing preliminary findings from a joint national survey on child online protection and safety on 9 September 2026, with the report structure and thematic areas agreed ahead of validation and the findings intended as the evidence base for regulatory interventions. Neither the sample size nor the fieldwork period is held.
+The communications regulator and the University of Nairobi [began reviewing preliminary findings from a joint national survey on child online protection and safety on 9 September 2026](https://techafricanews.com/2026/09/09/kenya-reviews-national-survey-child-online-protection-safety/), with the report structure and thematic areas agreed ahead of validation and the findings intended as the evidence base for regulatory interventions. Neither the sample size nor the fieldwork period is held.
 
 ## Lesotho
 

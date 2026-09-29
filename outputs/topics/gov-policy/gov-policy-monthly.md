@@ -1,10 +1,10 @@
 ---
 title: Strategies, plans and policies — monthly update, August – September 2026
-compiled: 2026-09-28
-period: 2026-08-01 to 2026-09-28
+compiled: 2026-09-29
+period: 2026-08-01 to 2026-09-29
 subject: gov.policy
 places: DZA; BWA; BFA; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MWI; MLI; MRT; MUS; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 3d491d42250a
+record: 65e80562149e
 ---
 
 # Strategies, plans and policies: monthly update, August – September 2026
@@ -127,7 +127,7 @@ The strategy's implementation plan is in preparation with a United Nations unive
 
 ## Kenya
 
-A revised Hustler Fund merchant tariff schedule takes effect on 7 August, delivered as voluntary alignment with central bank pricing principles rather than a gazetted rule.
+Safaricom's revised M-Pesa business tariffs [took effect on 7 August, its own customer notice attributing the change to alignment with the Central Bank's pricing principles](https://www.standardmedia.co.ke/business/article/2001554316/safaricom-halves-m-pesa-merchant-fees-in-cbk-led-move); no gazetted rule stands behind them.
 
 Government communication was centralised. The broadcasting principal secretary [described a newly adopted National Communication Policy built on 'One Government, One Voice', with a National Communication Centre to collate, validate and release state information](https://www.the-star.co.ke/news/2026-09-14-isaboke-on-kenyas-new-communication-revolution); the [final text is dated 22 January 2026](https://ict.go.ke/sites/default/files/2026-04/Final%20Communications%20Policy%20as%20at%2022nd%20January%202026.pdf). No budget or staffing for the centre is published.
 
@@ -189,7 +189,7 @@ The month's substantive instrument is the cloud policy. On 17 August the communi
 
 The cloud programme gained its investment case: the agency's [strategy, dated August, offers investors an Approval in Principle pathway with government as anchor customer](https://nitda.gov.ng/wp-content/uploads/2026/08/NITDA26-CLOUD-INV-STRATEGY-2025-FN-1.pdf).
 
-The communications minister put a hold on new platform rules. After meeting the telecoms regulator, the IT development agency and the data protection commission, he [directed them to keep the status quo on rules affecting internet platforms and online intermediaries while a single harmonised governance framework for the digital economy is drawn up](https://thenews-chronicle.com/fg-suspends-new-digital-regulations-moves-to-harmonise-policies-across-agencies/), citing overlapping mandates. No timetable was given. The IT agency meanwhile [issued a cloud package of four frameworks headed by a National Cloud Computing Guideline](https://techafricanews.com/2026/09/14/nitda-cloud-policy-package-nigeria-digital-infrastructure-growth/).
+The IT agency [issued a cloud package of four frameworks headed by a National Cloud Computing Guideline](https://techafricanews.com/2026/09/14/nitda-cloud-policy-package-nigeria-digital-infrastructure-growth/).
 
 ## Rwanda
 

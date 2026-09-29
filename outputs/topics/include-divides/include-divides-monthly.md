@@ -1,15 +1,15 @@
 ---
 title: Digital divides — monthly update, August – September 2026
-compiled: 2026-09-28
-period: 2026-08-01 to 2026-09-28
+compiled: 2026-09-29
+period: 2026-08-01 to 2026-09-29
 subject: include.divides
-places: AGO; BWA; BDI; CPV; COD; EGY; SWZ; GMB; GHA; GNB; KEN; MDG; MWI; MAR; MOZ; NER; NGA; RWA; SEN; SOM; ZAF; UGA; ZMB
-record: 4d72e02fe78a
+places: AGO; BWA; BDI; CPV; TCD; COD; EGY; SWZ; GMB; GHA; GNB; KEN; MDG; MWI; MAR; MOZ; NER; NGA; RWA; SEN; SOM; ZAF; UGA; ZMB
+record: 5b829f573000
 ---
 
 # Digital divides: monthly update, August – September 2026
 
-*23 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*24 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -28,6 +28,10 @@ The telecommunications regulator told a workshop that very few Burundians use th
 ## Cape Verde
 
 A [two-month pilot of training and mentoring in digital business tools for about 250 traders, most of them women, is set to start on Maio in October](https://inforpress.cv/en/article-11542), before moving to Fogo, Santiago and São Vicente. It is run with the economy and digital transformation ministry.
+
+## Chad
+
+The ICT development agency [inaugurated a community multimedia centre at Moundou under the universal service programme on 29 September](https://lendjampost.com/moundou-ladetic-inaugure-un-centre-communautaire-multimedia-pour-renforcer-linclusion-numerique/), with a training room and a cybercafe on grid, solar and generator power. No count of other centres, users or running budget is published.
 
 ## DR Congo
 
@@ -59,9 +63,7 @@ The first measurement of adolescent access the repository holds is academic rath
 
 ## Kenya
 
-The KenSafeSpace digital-rights coalition [closed on 28 July](https://www.kictanet.or.ke/kensafespace-project-impact-digital-rights-kenya/) after 30 months on a EUR 1.3m grant, reporting 18,000 people reached directly and 133 defenders trained, with its 49 members continuing unfunded; a successor programme opened the same day training 150 justice-sector officials on digital evidence.
-
-The larger withdrawal is American. An implementing partner's account published on 12 August reports that [work bringing connectivity and digital inclusion to remote Kenyan counties slowed or stopped after the 2025 wind-down, in which 83% of the agency's programmes were cut](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html), and that [the multi-funder Women in the Digital Economy Fund lost its American component while the parts other funders backed continued](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html). What is described as lost is not the money alone but the convening: the party that got competitors, ministries and communities into the same project. No replacement funder is named, and no figure for the Kenyan share is stated.
+An implementing partner's account published on 12 August reports that [work bringing connectivity and digital inclusion to remote Kenyan counties slowed or stopped after the 2025 wind-down, in which 83% of the agency's programmes were cut](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html), and that [the multi-funder Women in the Digital Economy Fund lost its American component while the parts other funders backed continued](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html). What is described as lost is not the money alone but the convening: the party that got competitors, ministries and communities into the same project. No replacement funder is named, and no figure for the Kenyan share is stated.
 
 Domestic provision was restated in the same fortnight. The regulator's Universal Service Fund [put a target of 120,000 people across 19 counties over three years on its Digital Skilling Project](https://techafricanews.com/2026/08/19/kenya-targets-120000-people-for-digital-skills-training-across-19-counties/), aimed at unserved and underserved areas and framed as the skills half of a connectivity programme. It is a target stated at a stakeholders' workshop: no budget line, delivery partner, county list or start date accompanies it, and the fund's own FY2025/26 account is still unpublished.
 

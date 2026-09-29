@@ -1,10 +1,10 @@
 ---
 title: Use of satellite data — monthly update, August – September 2026
-compiled: 2026-09-28
-period: 2026-08-01 to 2026-09-28
+compiled: 2026-09-29
+period: 2026-08-01 to 2026-09-29
 subject: data.satellite
 places: BDI; COM; COG; CIV; DJI; COD; EGY; ERI; GHA; LBR; LBY; MLI; MOZ; NAM; NER; NGA; RWA; SLE; SOM; TZA; UGA; ZMB
-record: 89a29a48264d
+record: 3ab7870b1258
 ---
 
 # Use of satellite data: monthly update, August – September 2026
@@ -51,7 +51,7 @@ Two satellite-derived systems were [named as live deployments at a university le
 
 ## Liberia
 
-The Land Authority took the country's geospatial ambition abroad rather than to a budget. At the United Nations' sixteenth global geospatial information management session in August it [sought international partnerships and technical support to build a National Spatial Data Infrastructure](https://www.liberianobserver.com/news/lla-takes-liberia-s-land-modernization-drive-to-un-geospatial-forum/article_6395fd70-5dfc-496a-bc1c-944a19aff053.html) — a coordinated geospatial framework for land administration, mapping and national planning. It is an approach for support rather than a programme: no funding, custodian, standard or timetable is stated, and the repository still holds no earth-observation or geospatial data programme of any kind.
+At the United Nations' sixteenth global geospatial information management session in August the Land Authority [sought international partnerships and technical support to build a National Spatial Data Infrastructure](https://www.liberianobserver.com/news/lla-takes-liberia-s-land-modernization-drive-to-un-geospatial-forum/article_6395fd70-5dfc-496a-bc1c-944a19aff053.html), a coordinated geospatial framework for land administration, mapping and national planning. No funding, custodian, standard or timetable is stated.
 
 ## Libya
 

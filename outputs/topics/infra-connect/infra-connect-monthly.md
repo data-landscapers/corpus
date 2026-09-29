@@ -1,10 +1,10 @@
 ---
 title: Connectivity — monthly update, August – September 2026
-compiled: 2026-09-28
-period: 2026-08-01 to 2026-09-28
+compiled: 2026-09-29
+period: 2026-08-01 to 2026-09-29
 subject: infra.connect
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: e407ced6cc80
+record: a6074dd50866
 ---
 
 # Connectivity: monthly update, August – September 2026
@@ -177,11 +177,11 @@ The satellite operator's licence stayed provisional. The regulator [extended Sta
 
 ## Kenya
 
-Satellite capacity ran out in the country's densest markets. The operator [suspended new sign-ups across seven counties](https://techweez.com/2026/07/08/starlink-kenya-waitlist-capacity-counties/) in early July, diverting orders to a deposit-backed waitlist. On 4 August the second mobile operator said its direct-to-cell pilot had completed and it awaits regulatory approval; the interference audit opened in March has produced no published finding.
+On 4 August the second mobile operator [said its direct-to-cell satellite pilot had been completed and the service awaits the regulator's approval](https://businessday.ng/technology/article/airtel-seeks-kenya-approval-for-spacex-powered-mobile-service/).
 
 The government fibre programme was measured against its own deadline for the first time. The ICT Cabinet Secretary put [37,000km installed against the 100,000km target serving 53,000 government facilities, leaving 63,000km outstanding months before the 2027 deadline](https://nation.africa/kenya/business/ruto-s-100-000km-fibre-optic-network-plan-falters-5580286); the programme was announced in November 2022 and split in 2023 into 52,000km for government and 48,000km for private companies, with Sh940.6m paid to the power utility by June 2025. The same account puts [broadband subscriptions at 52.85 million by March 2026 against 22.08 million in June 2020, fixed internet at 2.66 million, 4G population coverage at 73.4% and 5G at 3.04%](https://nation.africa/kenya/business/ruto-s-100-000km-fibre-optic-network-plan-falters-5580286). The 37,000km is the minister's own figure and no route or county breakdown stands behind it.
 
-The largest procurement in the window is a surveillance build sold as traffic management. The roads authority is out to tender on [Nairobi's Intelligent Transport System Phase II at Ksh10bn, about US$83.8m, covering CCTV, e-police monitoring and vehicle-detection systems at 60 junctions on a 30-month design-build contract financed by a South Korean development loan](https://www.kenyans.co.ke/news/126063-kura-expands-nairobis-ksh10b-smart-traffic-project-phase-ii), with the bid deadline pushed back two weeks to 19 August. No data-protection authorisation, retention rule or oversight arrangement for the cameras and detection systems is reported, and no award has been made.
+The roads authority is out to tender on [Nairobi's Intelligent Transport System Phase II at Ksh10bn, about US$83.8m, covering CCTV, e-police monitoring and vehicle-detection systems at 60 junctions on a 30-month design-build contract financed by a South Korean development loan](https://www.kenyans.co.ke/news/126063-kura-expands-nairobis-ksh10b-smart-traffic-project-phase-ii), with the bid deadline pushed back two weeks to 19 August. No data-protection authorisation, retention rule or oversight arrangement for the cameras and detection systems is reported, and no award has been made.
 
 An industry survey filled a gap in the record on 5G: commercial networks opened between October 2022 and July 2023, the largest operator [doubled its 5G sites to about 1,700 in 2025](https://digitalmag.ci/acces-a-internet-etat-dadoption-de-la-technologie-5g-par-les-pays-africains/), and coverage is projected to reach 94 per cent by 2030, helped by rules that let operators refarm existing spectrum. The service is used mainly as an alternative to fibre for connecting homes and businesses.
 

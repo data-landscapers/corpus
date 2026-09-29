@@ -1,10 +1,10 @@
 ---
 title: Data protection — monthly update, August – September 2026
-compiled: 2026-09-28
-period: 2026-08-01 to 2026-09-28
+compiled: 2026-09-29
+period: 2026-08-01 to 2026-09-29
 subject: gov.protect
 places: AGO; BEN; BWA; BFA; CPV; CAF; DJI; COD; EGY; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; UGA; ZMB; ZWE
-record: d2406adf213d
+record: a741627520e3
 ---
 
 # Data protection: monthly update, August – September 2026
@@ -91,7 +91,7 @@ Enforcement arrived before the institutions did. A first-instance court [convict
 
 ## Kenya
 
-On 4 August the data-protection regulator published [draft guidance on offshore AI processing](https://www.businessdailyafrica.com/bd/corporate/technology/regulator-plans-tighter-data-shields-on-offshore-ai-platforms-5546966) requiring a lawful transfer basis, a documented adequacy assessment and a written processing agreement before personal data leaves Kenya; the note itself is not held after two retrievals returned HTTP 404.
+On 4 August the data-protection regulator published [draft guidance on offshore AI processing](https://www.businessdailyafrica.com/bd/corporate/technology/regulator-plans-tighter-data-shields-on-offshore-ai-platforms-5546966) requiring a lawful transfer basis, a documented adequacy assessment and a written processing agreement before personal data leaves Kenya; the note itself is not held.
 
 The gambling regulator [confirmed on 3 August](https://www.the-star.co.ke/news/2026-08-03-gra-probes-licensed-betting-firms-over-alleged-data-breach-claims) that it is investigating three licensed operators on a complaint dated 19 May 2026, with police requesting its entire record on the licensees back to 2018.
 
@@ -110,7 +110,7 @@ The ICT ministry's principal secretary told UNGA81 side meetings that the minist
 
 The data-protection statute exists, and has for longer than announced. A ministerial statement [presented it as signed on 19 August](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/le-liberia-adopte-les-lois-sur-la-cybercriminalite-et-la-protection-des-donnees), but [the printed Act was approved on 9 March 2026 and took effect on publication on 23 March, giving an Independent Information Commissioner 24 months for implementing rules](https://mopt.gov.lr/wp-content/uploads/2026/09/An_Act_For_The_Collection_Processing_-Transmission_-Storage_-Protection_-And_Use_Of_Personal-_Information_In_Liberia_Printed_Version_20260323_063904.pdf). No appointment, rule or registration regime under it is held.
 
-The statute's first test in public came from officials themselves: several [posted enrolment lists of children in a social protection programme to Facebook](https://frontpageafricaonline.com/liberian-officials-post-vulnerable-childrens-data-to-prove-aid-programs-work/), including home addresses, as proof the programme was real.
+Officials [posted enrolment lists of children in a social protection programme to Facebook](https://frontpageafricaonline.com/liberian-officials-post-vulnerable-childrens-data-to-prove-aid-programs-work/), including home addresses, as proof the programme was real. On 13 September the gender and social protection ministry [confirmed the records are authentic, said their disclosure was never authorised and opened an internal investigation](https://smartnewsliberia.com/mgcsp-admits-authentic-beneficiary-data-leaked-launches-internal-investigation/).
 
 ## Malawi
 

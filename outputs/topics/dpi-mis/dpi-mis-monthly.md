@@ -1,10 +1,10 @@
 ---
 title: Sectoral management information systems (HMIS, EMIS, etc.) — monthly update, August – September 2026
-compiled: 2026-09-28
-period: 2026-08-01 to 2026-09-28
+compiled: 2026-09-29
+period: 2026-08-01 to 2026-09-29
 subject: dpi.mis
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 29e5dc7b33bf
+record: 2774491a1eb5
 ---
 
 # Sectoral management information systems (HMIS, EMIS, etc.): monthly update, August – September 2026
@@ -147,11 +147,11 @@ The prime minister [pledged computerised teacher posting, salaries paid through 
 
 ## Kenya
 
-Health claims authorisation failed at the counter through the month. A teachers' union raised on 30 July that members were [turned away and billed in cash](https://peopledaily.digital/news/kuppet-nyamira-raises-alarm-over-sha-system-failures-ahead-of-rutos-public-address) when the platform failed, one charged Ksh8,500 on 19 July; the Authority answered that the Digital Health Agency runs the system on its behalf. The platform's cost re-entered the record in August: the President denied on 18 August that the state entered a KSh 104bn technology contract, and was reported on 21 August putting [the KSh 104 billion at the total project service fee over ten years rather than a lump-sum government payment](https://www.standardmedia.co.ke/health/health-science/article/2001555827/ruto-state-did-not-pay-sh104b-for-sha-system). The Auditor-General's finding of a KSh 104.9bn procurement, unbudgeted and non-competitive, is not answered by that; no contract text is held.
+The health claims platform's cost was disputed in August: the President denied on 18 August that the state entered a KSh 104bn technology contract, and was reported on 21 August putting [the KSh 104 billion at the total project service fee over ten years rather than a lump-sum government payment](https://www.standardmedia.co.ke/health/health-science/article/2001555827/ruto-state-did-not-pay-sh104b-for-sha-system). No contract text is held.
 
 An academic review published on 5 August put the child-protection case system on the other side of that ledger, [crediting it with cutting duplication and improving real-time coordination between agencies, with recorded cases rising from 20,235 in 2016/17 to 54,583 in 2021/22](https://blogs.lse.ac.uk/africaatlse/2026/08/05/can-technology-bridge-the-gaps-in-kenyas-multi-agency-governance/). The most recent of those figures is four years old, and the system is American-funded — which places it in the same account as the withdrawal recorded under inclusion below.
 
-The claims platform was quantified from the settlement end for the first time. The health ministry and the counties jointly put [settlement at 78% across all 47 counties with KSh 159.3bn paid, and reconciliation and sign-off completed for legacy insurance-fund claims](https://www.health.go.ke/national-and-county-governments-strengthen-coordination-health-reforms), at an intergovernmental budget council session on 31 August. It is their own joint figure, published without a denominator, an ageing profile or a rejection breakdown — and it is not on the same basis as the authorisation failures still being reported at facility counters, which nothing in the session retracts.
+The claims platform was quantified from the settlement end for the first time. The health ministry and the counties jointly put [settlement at 78% across all 47 counties with KSh 159.3bn paid, and reconciliation and sign-off completed for legacy insurance-fund claims](https://www.health.go.ke/national-and-county-governments-strengthen-coordination-health-reforms), at an intergovernmental budget council session on 31 August. It is their own joint figure, published without a denominator, an ageing profile or a rejection breakdown.
 
 The education register failed its first money test. The principal secretary [told the Public Accounts Committee in late August that the latest capitation round used neither the new system nor its predecessor but manually verified data, because the new system is incomplete](https://techweez.com/2026/09/09/the-nemis-to-kemis-dilemma/); schools reported failed logins and unsaved submissions during the Grade 10 selection it was required for, and MPs had already flagged KES 103.99bn paid against unverified numbers on the old one.
 
@@ -163,7 +163,9 @@ The national commission [advertised a consultancy to strengthen its capacity to 
 
 ## Liberia
 
-The month's clearest finding about a government system is that it does not exist. The General Auditing Commission found that a [digital lending platform built for the World Bank and IFAD-backed STAR-P project was still undelivered, with US$36,768 paid in full to a savings and loans institution for a system contractually due live by May 2025 and not deployed at the auditor's May 2026 field verification](https://frontpageafricaonline.com/liberia-auditor-general-cites-missing-audit-committee-non-competitive-procurement-unverified-assets-delayed-projects-and-undelivered-digital-lending-platform/). The [same Management Letter, issued on 29 June 2026 for the audit period to 31 October 2025, found no functional project audit committee, a US$27,000 consultancy let without competitive procurement, and an agriculture commercialisation fund's reporting dashboard never formally handed over to the ministry](https://frontpageafricaonline.com/liberia-auditor-general-cites-missing-audit-committee-non-competitive-procurement-unverified-assets-delayed-projects-and-undelivered-digital-lending-platform/). The platform is now recorded as ***Not held*** with a dated search behind it.
+The General Auditing Commission found that a [digital lending platform built for the World Bank and IFAD-backed STAR-P project was still undelivered, with US$36,768 paid in full to a savings and loans institution for a system contractually due live by May 2025 and not deployed at the auditor's May 2026 field verification](https://frontpageafricaonline.com/liberia-auditor-general-cites-missing-audit-committee-non-competitive-procurement-unverified-assets-delayed-projects-and-undelivered-digital-lending-platform/). The [same Management Letter, issued on 29 June 2026 for the audit period to 31 October 2025, found no functional project audit committee, a US$27,000 consultancy let without competitive procurement, and an agriculture commercialisation fund's reporting dashboard never formally handed over to the ministry](https://frontpageafricaonline.com/liberia-auditor-general-cites-missing-audit-committee-non-competitive-procurement-unverified-assets-delayed-projects-and-undelivered-digital-lending-platform/).
+
+A private company [said its offline-first electronic health record went into clinical use on 1 September and reached seven clinics and health centres across Liberia and Ghana in about three weeks](https://www.liberianobserver.com/news/onehealthehr-goes-live-in-liberia-ghana/article_778165ac-8dad-4c41-bf63-9413eb2c46a7.html), with the national public health institute as its surveillance partner. No link to the national health information system is on record.
 
 ## Libya
 

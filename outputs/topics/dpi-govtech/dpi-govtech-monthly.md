@@ -1,10 +1,10 @@
 ---
 title: Other GovTech and e-Gov — monthly update, August – September 2026
-compiled: 2026-09-28
-period: 2026-08-01 to 2026-09-28
+compiled: 2026-09-29
+period: 2026-08-01 to 2026-09-29
 subject: dpi.govtech
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: ed3ff214e0c4
+record: ffcd457a54ca
 ---
 
 # Other GovTech and e-Gov: monthly update, August – September 2026
@@ -189,9 +189,7 @@ A second citizen-facing platform launched, and one already running was presented
 
 ## Kenya
 
-The Controller of Budget's report entered July's reading: [1,695 of a target 11,000 services](https://nation.africa/kenya/business/agencies-defy-ruto-s-e-citizen-order-1-695-services-yet-to-be-migrated-5506558) were migrated onto eCitizen in the year to 31 March 2026, against 3,458 the year before, described as a dismal performance.
-
-The platform sells better abroad than it migrates at home. Its operator [pitched the Democratic Republic of the Congo's digital economy ministry on 12 August on digital company registries, beneficial-ownership traceability and real-time state-revenue tracking](https://acp.cd/economie/rdc-la-mise-en-place-de-registres-numeriques-recommandee-pour-moderniser-ladministration/), citing eCitizen's forty-plus digitised services and existing registry deployments in Malawi and South Sudan; the Congolese minister asked officials to continue talks toward a partnership. The claims are the vendor's own, made in a sales meeting, and the same operating consortium's domestic position remains under challenge.
+eCitizen's operator [pitched the Democratic Republic of the Congo's digital economy ministry on 12 August on digital company registries, beneficial-ownership traceability and real-time state-revenue tracking](https://acp.cd/economie/rdc-la-mise-en-place-de-registres-numeriques-recommandee-pour-moderniser-ladministration/), citing eCitizen's forty-plus digitised services and existing registry deployments in Malawi and South Sudan; the Congolese minister asked officials to continue talks toward a partnership. The claims are the vendor's own, made in a sales meeting, and the same operating consortium's domestic position remains under challenge.
 
 The procurement platform got a hard date for the tier that has resisted it. On 25 August the Treasury [gave all 47 county governments until 30 September 2026 to finish integrating the electronic procurement platform with the Integrated Financial Management Information System, so that tendering, award and contract monitoring connect to budget planning, spending and payment](https://www.wearetech.africa/actualites/fils/actualites/gestion-publique/kenya-les-47-comtes-sommes-de-passer-aux-marches-publics-numeriques). The deadline lands on a rollout that has already slipped: a first phase launched in April 2025 for extension to all national and local administrations from 1 July 2025, against resistance from the Council of Governors over pace and service disruption, with more than 900 public entities migrated by February 2026. Public procurement is [put at close to 30% of Kenyan GDP](https://www.wearetech.africa/actualites/fils/actualites/gestion-publique/kenya-les-47-comtes-sommes-de-passer-aux-marches-publics-numeriques), which is the size of what the deadline is meant to bring onto one record.
 
@@ -206,7 +204,7 @@ On the one citizen survey held, [digital-government adoption stands at 49% and n
 
 Cargo seals left state hands. The revenue authority [approved 15 private vendors for electronic seals on transit cargo and set 26 October 2026 for retiring its own](https://www.kra.go.ke/news-center/public-notices/2393-approved-vendors-for-the-electronic-monitoring-and-tracking-of-goods-under-customs-control-and-transition-to-the-multi-vendor-user-owned-framework), with users choosing and contracting their vendor directly under the regional cargo tracking system.
 
-At the UN General Assembly the ICT cabinet secretary [put eCitizen at more than 22,500 services](https://techreviewafrica.com/news/7426/), a figure not reconciled with the Controller of Budget's migration count. The government, the UN in Kenya and a commercial bank [signed a declaration of intent on 20 September for a Kenya Diaspora Impact Platform, a digital gateway to verifiable investment opportunities](https://diaspora.go.ke/news-details.php?nid=253); no launch date or cost is given.
+At the UN General Assembly the ICT cabinet secretary [put eCitizen at more than 22,500 services](https://techreviewafrica.com/news/7426/). The government, the UN in Kenya and a commercial bank [signed a declaration of intent on 20 September for a Kenya Diaspora Impact Platform, a digital gateway to verifiable investment opportunities](https://diaspora.go.ke/news-details.php?nid=253); no launch date or cost is given.
 
 ## Lesotho
 
@@ -216,14 +214,14 @@ The data blueprint opened in July reached validation in September. A national wo
 
 ## Liberia
 
-The e-procurement platform published its first operating figures on 5 August: [more than 1,200 vendors registered and more than US$400,000 in revenue generated](https://techafricanews.com/2026/08/05/liberia-registers-over-1200-vendors-on-electronic-government-procurement-platform/). No contract value transacted, tender count, bidder numbers or share of government procurement passing through the platform is given. Two days later it became an export: Sierra Leone's procurement authority [sent a delegation to Monrovia on 6-7 August to study the implementation](https://www.liberianobserver.com/news/liberia-s-e-gp-system-becomes-regional-model/article_578f3d8d-5076-43c2-8d63-594282d1476a.html), where the executive director dated the national launch to February 2025 after a six-institution pilot and credited the African Development Bank and the World Bank with the backing behind it. A later account of the same visit [records the telecommunications regulator receiving equipment to strengthen its own use of the platform](https://techafricanews.com/2026/08/12/liberia-and-sierra-leone-deepen-cooperation-on-digital-transformation-and-e-governance/), framed as deepening bilateral cooperation on digital transformation and procurement transparency.
+The e-procurement platform published its first operating figures on 5 August: [more than 1,200 vendors registered and more than US$400,000 in revenue generated](https://techafricanews.com/2026/08/05/liberia-registers-over-1200-vendors-on-electronic-government-procurement-platform/). No contract value transacted, tender count, bidder numbers or share of government procurement passing through the platform is given. On 6-7 August Sierra Leone's procurement authority [sent a delegation to Monrovia to study the implementation](https://www.liberianobserver.com/news/liberia-s-e-gp-system-becomes-regional-model/article_578f3d8d-5076-43c2-8d63-594282d1476a.html), where the executive director dated the national launch to February 2025 after a six-institution pilot and credited the African Development Bank and the World Bank with the backing behind it. A later account of the same visit [records the telecommunications regulator receiving equipment to strengthen its own use of the platform](https://techafricanews.com/2026/08/12/liberia-and-sierra-leone-deepen-cooperation-on-digital-transformation-and-e-governance/), framed as deepening bilateral cooperation on digital transformation and procurement transparency.
 
 Licensing moved off paper in the same week. The telecommunications regulator [put an automated telecom licensing and renewal platform into service](https://www.connectingafrica.com/connectivity/liberia-launches-automated-telecom-licensing-renewal-system), letting applicants apply and renew online while keeping in-person service available. No licence count, processing time or fee schedule is published.
-
 
 A second permit process is following it online. The education ministry says it is [digitising operating permits for private schools after finding schools submitting mismatched teacher-qualification records, and has mapped schools across five counties with donor support to extend the mapping to ten more](https://newspublictrust.com/education-ministry-advances-digital-school-permit-system-while-funding-provided-to-renovate-public-schools). No platform, cost or completion date is named.
 
 The internal audit agency [launched an audit management system on 10 September to automate audits across ministries, agencies and public corporations](https://frontpageafricaonline.com/liberia-iaa-launches-digital-platform-to-improve-audit-processes/), a year after [tendering a consultancy to build it](https://iaa.gov.lr/processes-automation/); no cost, vendor or onboarding count is published.
+
 The state auditor is following it: the General Auditing Commission [has begun automating public-sector audits, with KPMG contracted under a World Bank-supported project to build the software](https://www.thenewdawnliberia.com/gac-automates-public-audits/), disclosed on 22 September with no cost or go-live date.
 
 ## Libya

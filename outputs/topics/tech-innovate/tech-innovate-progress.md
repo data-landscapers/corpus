@@ -1,10 +1,10 @@
 ---
 title: Innovation ecosystem — progress report, September 2025 – September 2026
-compiled: 2026-09-28
-period: 2025-09-01 to 2026-09-28
+compiled: 2026-09-29
+period: 2025-09-01 to 2026-09-29
 subject: tech.innovate
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 5ac2506f3a8b
+record: bdb6dc5e283d
 ---
 
 # Innovation ecosystem: progress report, September 2025 – September 2026

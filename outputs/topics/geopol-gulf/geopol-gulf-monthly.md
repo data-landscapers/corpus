@@ -1,10 +1,10 @@
 ---
 title: Gulf/UAE activities — monthly update, August – September 2026
-compiled: 2026-09-28
-period: 2026-08-01 to 2026-09-28
+compiled: 2026-09-29
+period: 2026-08-01 to 2026-09-29
 subject: geopol.gulf
 places: AGO; BWA; EGY; GMB; KEN; SSD; ZWE
-record: 9efaa792a38c
+record: 864320f7d128
 ---
 
 # Gulf/UAE activities: monthly update, August – September 2026
@@ -31,7 +31,7 @@ Gulf involvement is now on the record in two forms, neither carrying a figure. T
 
 ## Kenya
 
-Kenya and Qatar [agreed on 12 August to institutionalise annual bilateral political consultations](https://www.zawya.com/en/press-release/africa-press-releases/kenya-qatar-agree-to-deepen-bilateral-cooperation-429489), the inaugural round led on the Kenyan side at principal secretary level. The account names no digital instrument, no committed amount and no project. That is the shape of the Gulf record here generally: seven memoranda signed with the United Arab Emirates in May 2025 and diaspora consultations in Riyadh in July 2026, none of them describing what was agreed in terms this repository can put on a system or an instrument.
+Kenya and Qatar [agreed on 12 August to institutionalise annual bilateral political consultations](https://www.zawya.com/en/press-release/africa-press-releases/kenya-qatar-agree-to-deepen-bilateral-cooperation-429489), the inaugural round led on the Kenyan side at principal secretary level. The account names no digital instrument, no committed amount and no project.
 
 ## South Sudan
 

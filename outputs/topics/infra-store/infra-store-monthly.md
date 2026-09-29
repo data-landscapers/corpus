@@ -1,10 +1,10 @@
 ---
 title: Data Storage — monthly update, August – September 2026
-compiled: 2026-09-28
-period: 2026-08-01 to 2026-09-28
+compiled: 2026-09-29
+period: 2026-08-01 to 2026-09-29
 subject: infra.store
 places: DZA; AGO; BWA; BFA; CMR; CAF; COG; CIV; EGY; GNQ; ERI; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SLE; SOM; ZAF; SSD; TZA; TUN; ZWE
-record: c8abcf8d9fda
+record: 86819f5c978c
 ---
 
 # Data Storage: monthly update, August – September 2026
@@ -109,6 +109,8 @@ Two prospective builds at the technopolis went from talk to signature inside fiv
 A proposal arrived that would sit outside the grid entirely. A foreign firm [has proposed a US$1.5bn offshore data centre at Mombasa, powered by liquefied natural gas and designed to bypass the national grid, and is reported in talks with the government](https://econews.co.ke/2026/08/18/amaco-mombasa-ai-data-centre-kenya/). No capacity, timeline or site is disclosed, and the value and the design intent are the proposing company's own.
 
 One build opened rather than slipping. The operator of the largest colocation campus [added 6.4MW at a second Nairobi facility on 7 September, and retired the iColo brand in Kenya and Mozambique in favour of its parent's](https://www.digitalrealty.com/about/newsroom/press-releases/3357028/digital-realty-strengthens-nairobi-as-east-africa-digital-gateway-with-new-data-center). The figure is critical IT load rather than delivered live load, and no occupancy, customer count or campus total is published.
+
+Two cloud platforms opened in Nairobi in September: [Nobus opened an availability zone](https://cioafrica.co/nobus-opens-nairobi-availability-zone/), and [Tata Consultancy Services announced its sovereign cloud live on iXAfrica's campus on 28 September, delivered with the integrator Sybyl, with its capacity and pricing undisclosed](https://cioafrica.co/tcs-sovereign-cloud-goes-live-in-nairobi/). [Oracle was still preparing its Nairobi region at the same campus](https://cioafrica.co/nobus-opens-nairobi-availability-zone/).
 
 ## Lesotho
 

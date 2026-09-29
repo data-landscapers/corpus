@@ -1,10 +1,10 @@
 ---
 title: Public debate and participation in policymaking — monthly update, August – September 2026
-compiled: 2026-09-28
-period: 2026-08-01 to 2026-09-28
+compiled: 2026-09-29
+period: 2026-08-01 to 2026-09-29
 subject: gov.discourse
 places: AGO; BEN; BFA; CMR; CAF; TCD; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; MWI; MLI; MUS; MAR; NAM; NER; NGA; SEN; SYC; SOM; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: b7cf1745ddb6
+record: e8447b3b4d0f
 ---
 
 # Public debate and participation in policymaking: monthly update, August – September 2026
@@ -105,7 +105,7 @@ On 21 September the same authority [banned ten web TV channels, among them Dabol
 
 ## Kenya
 
-One item moved in this window and it is a contested procurement rather than a policy debate: a former deputy president [told reporters on 24 August 2026 that the electoral commission's results-transmission contract specifications were tailor-made for a single South Korean bidder, that every other competitor has gone to the procurement appeals board, and that the firm has failed at every election it has taken part in](https://nation.africa/kenya/news/politics/gachagua-iebc-election-tech-deal-tailor-made-for-korean-firm-5569838). He says he is still documenting the claim; the report names neither the company nor the contract, and no commission or appeals-board response is on file.
+A former deputy president [told reporters on 24 August 2026 that the electoral commission's results-transmission contract specifications were tailor-made for a single South Korean bidder, that every other competitor has gone to the procurement appeals board, and that the firm has failed at every election it has taken part in](https://nation.africa/kenya/news/politics/gachagua-iebc-election-tech-deal-tailor-made-for-korean-firm-5569838). He says he is still documenting the claim; the report names neither the company nor the contract, and no commission or appeals-board response is on file.
 
 The commission answered on 27 August. It [said no company has been awarded the 2027 election-technology tender, that tenders for the management system's hardware and for ballot papers are frozen at the Public Procurement Administrative Review Board on a request for review, and that the documents were published on 11 August with generic performance-based specifications](https://www.standardmedia.co.ke/business/national/article/2001556378/iebc-rejects-gachaguas-claims-defends-2027-polls-preparations). The forum that would normally host this argument met the same week: KICTANet [published the report of the nineteenth Kenya Internet Governance Forum, held with more than 300 participants and confirming Kenya as host of the global forum, in Nairobi for the first time since 2011](https://www.kictanet.or.ke/keigf-2026-report-digital-futures/).
 
@@ -117,9 +117,7 @@ The state opened a channel for hearing what its digital services are actually li
 
 ## Liberia
 
-On 30 July the Anti-Corruption Commission [confirmed it had forwarded a complaint about the telecoms traffic-monitoring arrangement to its investigation unit](https://www.liberianobserver.com/news/lacc-weighs-investigation-into-lta/article_86dd65ff-724e-4440-a664-728654ea9668.html). No evidence has been publicly produced and no findings made.
-
-The month's one channel built to hear from the public rather than about it was relaunched by donors. UNICEF and UNFPA [relaunched the U-Report youth feedback platform on 13 August](https://www.thenewdawnliberia.com/unicef-unfpa-relaunch-u-report/), with Irish embassy support and under a joint programme with the government, giving young people an encrypted SMS channel to answer polls on health, water and sanitation and other social issues, with responses analysable by county and a target of at least 8,000 reporters. The channel runs on one operator's SIM cards, which bounds who can take part.
+UNICEF and UNFPA [relaunched the U-Report youth feedback platform on 13 August](https://www.thenewdawnliberia.com/unicef-unfpa-relaunch-u-report/), with Irish embassy support and under a joint programme with the government, giving young people an encrypted SMS channel to answer polls on health, water and sanitation and other social issues, with responses analysable by county and a target of at least 8,000 reporters. The channel runs on one operator's SIM cards, which bounds who can take part.
 
 Ten civil society organisations [signed a founding memorandum for a Digital Advocacy and Rights Alliance](https://www.liberianobserver.com/news/ten-csos-form-digital-rights-coalition/article_af9fdbc9-c6ab-4b6a-b1f1-3981a3e53c4f.html), reported on 24 September, committing to press for an independent data protection authority, amendments narrowing the Cybercrime Act, tighter oversight of state interception, and judicial authorisation and public reporting for any internet shutdown. Its founding assembly is due within 90 days of the last signature.
 

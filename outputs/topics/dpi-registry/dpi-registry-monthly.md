@@ -1,10 +1,10 @@
 ---
 title: Registries (population, land, address, etc.) — monthly update, August – September 2026
-compiled: 2026-09-28
-period: 2026-08-01 to 2026-09-28
+compiled: 2026-09-29
+period: 2026-08-01 to 2026-09-29
 subject: dpi.registry
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; TCD; COM; COG; CIV; COD; EGY; ERI; SWZ; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: a93b9cbec400
+record: 31b8dcd35692
 ---
 
 # Registries (population, land, address, etc.): monthly update, August – September 2026
@@ -170,11 +170,9 @@ A sector got its own register. Lesotho [launched a National Farmers Portal, plac
 
 ## Liberia
 
-Speaking on 21 July, the Posts and Telecommunications Minister said [rollout of a national digital postal address system had begun across all fifteen counties](https://elbcnews.com/2026/07/23/commissioner-honnah-reaffirms-liberia-telecom-authoritys-commitment-to-expanding-digital-access/), with no completion date or budget line given.
+The central bank [launched an enhanced collateral registry on 27 August](https://www.cbl.org.lr/sites/default/files/documents/Public%20Service%20Announcement_Enhanced%20Collateral%20Registry%20for%20Movable%20and%20Immovable%20Property.pdf) under [a regulation gazetted on 6 July that repeals the 2013 regulation and extends the registry from movable to immovable property](https://cbl.org.lr/sites/default/files/documents/Revised%20Collateral%20Registry%20Regulation%2C%202026.pdf).
 
-The central bank is preparing a register of a different kind. It announced on 14 August that it is [extending the 2010 movable-assets collateral registry to cover immovable property such as land, buildings and fixed machinery](https://elbcnews.com/2026/08/14/central-bank-of-liberia-prepares-to-launch-collateral-registry/), as part of a wider financial-sector reform. No launch date, registration volume, fee schedule or relationship to the land registry is stated.
-
-The collateral registry acquired users rather than another regulation. The central bank and the banking institute [trained 35 lenders on it, registration of security interests being mandatory, and named planned links to the national identity, land and traffic registries](https://frontpageafricaonline.com/liberias-new-collateral-registry-opens-credit-doors-for-smes-tightens-lending-controls/). The links are the interesting half and the unevidenced half: they are stated as planned, with no technical route, agreement or date, and no registration count has been published since launch.
+The central bank and the banking institute then [trained 35 lenders on it, registration of security interests being mandatory, and named planned links to the national identity, land and traffic registries](https://frontpageafricaonline.com/liberias-new-collateral-registry-opens-credit-doors-for-smes-tightens-lending-controls/). No technical route, agreement or date is given for the links, and no registration count has been published since launch.
 
 The credit reference arrangement is now in court. A private bureau licensed in November 2025 [sued the central bank for about US$1.2 million](https://frontpageafricaonline.com/liberia-prime-credit-sues-central-bank-demands-nearly-us1-2m-over-credit-bureau-dispute/), alleging it never received the historical loan data it needed and was later told the bank lacked clear authority to license private bureaux.
 

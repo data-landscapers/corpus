@@ -1,10 +1,10 @@
 ---
 title: Literacy — monthly update, August – September 2026
-compiled: 2026-09-28
-period: 2026-08-01 to 2026-09-28
+compiled: 2026-09-29
+period: 2026-08-01 to 2026-09-29
 subject: capacity.literacy
 places: AGO; TCD; COM; COD; EGY; GHA; KEN; LBR; MDG; MOZ; NER; RWA; SEN; SLE; SSD; TZA; TGO; UGA; ZMB
-record: 84acbd30625a
+record: 20c3f92b2b48
 ---
 
 # Literacy: monthly update, August – September 2026
@@ -49,7 +49,7 @@ On 21 September deliveries of 65-inch smart boards, teacher laptops and ICT equi
 
 ## Liberia
 
-On 31 July, 19 young leaders took the [first of three media and information literacy sessions in Monrovia, run through the UN electoral support project with the National Elections Commission and the Press Union on Canadian funding](https://www.undp.org/liberia/press-releases/young-liberians-strengthen-digital-citizenship-and-information-integrity-safeguard-democracy). Six external funders and implementers stand behind a programme whose stated purpose is national resilience against misinformation before elections, and no budget figure is disclosed for it.
+On 31 July, 19 young leaders took the [first of three media and information literacy sessions in Monrovia, run through the UN electoral support project with the National Elections Commission and the Press Union on Canadian funding](https://www.undp.org/liberia/press-releases/young-liberians-strengthen-digital-citizenship-and-information-integrity-safeguard-democracy). No budget figure is disclosed.
 
 ## Madagascar
 

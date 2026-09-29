@@ -1,10 +1,10 @@
 ---
 title: Innovation ecosystem — monthly update, August – September 2026
-compiled: 2026-09-28
-period: 2026-08-01 to 2026-09-28
+compiled: 2026-09-29
+period: 2026-08-01 to 2026-09-29
 subject: tech.innovate
 places: DZA; AGO; BWA; BFA; CMR; CPV; COM; CIV; COD; EGY; ERI; SWZ; GAB; GMB; GHA; GIN; KEN; LBR; MLI; MRT; MAR; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: cd86bfc9756a
+record: 6b8b79bb89ce
 ---
 
 # Innovation ecosystem: monthly update, August – September 2026
@@ -106,9 +106,9 @@ An online-work platform launched in 2024 [matches businesses to freelancers, use
 
 ## Liberia
 
-The technology summit closed on 22 July with [a Monrovia cybersecurity firm winning the national Startup World Cup on a domestic-data-custody pitch](https://www.liberianobserver.com/news/lantern-shines-brightest-as-2026-tech-summit-ends/article_14913b31-0736-4a07-bc38-29c6e5f79d54.html).
+UNDP [set out in its own account of 3 August that its innovation and digital hub sits under its Africa innovation platform](https://www.undp.org/liberia/blog/liberias-digital-future-will-be-defined-investments-we-make-people-today), with no commitment amount disclosed.
 
-UNDP set out its contributions at the summit, adding in its own account of 3 August that its innovation hub sits under its Africa innovation platform.
+The telecommunications regulator [disclosed on 11 September a memorandum with the youth and sports ministry to establish 15 digital hubs, one in each county, backed by more than US$200,000 of its own funding](https://frontpageafricaonline.com/liberia-ayee-summit-opens-in-monrovia-elevate-liberia-program-launched/). No sites or timetable are stated.
 
 ## Mali
 
